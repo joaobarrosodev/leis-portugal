@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/11/27600/14941497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44062-1961-185293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dffae60b0e2194ab544611a975df36dd95620af8cda5870dac1149a384093fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38e14546942d70b028d8eaa511a5bca48ce6deb731815990dd02b318302903c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Legião Portuguesa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:335926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:166588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335926:por
+  label: "Revogado pelo DEC LEI.272/75.02.06.1975.CR, DG.IS [126] de 02.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1975-335926
+  date: '1975-06-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:11Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +138,15 @@ Convindo reunir num só os diplomas - [Decreto-Lei n.º 29233](https://diariodar
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Legião Portuguesa, organização patriótica constituída por voluntários destinada a fomentar a resistência moral da Nação e a cooperar na sua defesa contra os inimigos da Pátria e da ordem social, é reorganizada de harmonia com os princípios estabelecidos neste decreto-lei.
+Artigo 1.º A Legião Portuguesa, organização patriótica constituída por voluntários destinada a fomentar a resistência moral da Nação e a cooperar na sua defesa contra os inimigos da Pátria e da ordem social, é reorganizada de harmonia com os princípios estabelecidos neste decreto-lei.
 
-###### Art. 2.º A Legião Portuguesa estende a sua organização e actividade a todo o território português.
+Art. 2.º A Legião Portuguesa estende a sua organização e actividade a todo o território português.
 
-###### Art. 3.º A Legião Portuguesa é um organismo público dependente do Ministro do Interior e o serviço resultante das suas actividades é, para todos os efeitos, considerado serviço público. Compete, porém, ao Ministro da Defesa Nacional estabelecer as directivas de ordem geral relativas à defesa civil do território.
+Art. 3.º A Legião Portuguesa é um organismo público dependente do Ministro do Interior e o serviço resultante das suas actividades é, para todos os efeitos, considerado serviço público. Compete, porém, ao Ministro da Defesa Nacional estabelecer as directivas de ordem geral relativas à defesa civil do território.
 
 § único. Em caso de emergência ou de guerra a Legião Portuguesa pode passar para a dependência do Ministro da Defesa Nacional.
 
-###### Art. 4.º A Legião Portuguesa é superiormente dirigida por uma junta central composta por:
+Art. 4.º A Legião Portuguesa é superiormente dirigida por uma junta central composta por:
 
 Um presidente.
 
@@ -116,7 +164,7 @@ Quatro vogais.
 
 § 4.º Os vogais da Junta Central, igualmente nomeados pelo Governo, sob proposta do Ministro do Interior, serão escolhidos entre indivíduos, civis ou militares, que tenham prestado relevantes serviços à organização.
 
-###### Art. 5.º À Junta Central compete dirigir superiormente a Legião e especificadamente:
+Art. 5.º À Junta Central compete dirigir superiormente a Legião e especificadamente:
 
 1.º Definir as directrizes a seguir em todas as suas actividades, quer civis, quer militares, quer da defesa civil do território;
 
@@ -158,7 +206,7 @@ Quatro vogais.
 
 § único. O Ministro do Interior submeterá à apreciação e à aprovação do Ministro da Defesa Nacional o orçamento da Legião Portuguesa na parte relativa às actividades da defesa civil.
 
-###### Art. 6.º O comandante-geral dará execução às deliberações da Junta Central, competindo-lhe especialmente:
+Art. 6.º O comandante-geral dará execução às deliberações da Junta Central, competindo-lhe especialmente:
 
 1.º Organizar e dirigir superiormente os serviços de instrução militar dos legionários;
 
@@ -168,17 +216,17 @@ Quatro vogais.
 
 4.º Comandar, em obediência às ordens do Governo, todas as forças da Legião e da defesa civil.
 
-###### Art. 7.º O comandante-geral dispõe para o auxiliar nos seus estudos e trabalhos e preparar as suas decisões do quartel-general da Legião Portuguesa, que, de harmonia com este diploma e para os fins da [Lei n.º 2093](https://diariodarepublica.pt/dr/detalhe/lei/2093-1958-353483), de 20 de Junho de 1958, será devidamente reorganizado.
+Art. 7.º O comandante-geral dispõe para o auxiliar nos seus estudos e trabalhos e preparar as suas decisões do quartel-general da Legião Portuguesa, que, de harmonia com este diploma e para os fins da [Lei n.º 2093](https://diariodarepublica.pt/dr/detalhe/lei/2093-1958-353483), de 20 de Junho de 1958, será devidamente reorganizado.
 
-###### Art. 8.º Para coadjuvar o comandante-geral em todas as suas atribuições, substituí-lo nas suas ausências ou impedimentos e exercer as funções que por delegação do mesmo lhes couberem, poderá haver dois 2.os comandantes-gerais, um dos quais será especialmente destinado às actividades da defesa civil.
+Art. 8.º Para coadjuvar o comandante-geral em todas as suas atribuições, substituí-lo nas suas ausências ou impedimentos e exercer as funções que por delegação do mesmo lhes couberem, poderá haver dois 2.os comandantes-gerais, um dos quais será especialmente destinado às actividades da defesa civil.
 
-###### Art. 9.º No quartel-general da Legião Portuguesa poderá haver quatro adjuntos do estado-maior, sendo três militares e um civil.
+Art. 9.º No quartel-general da Legião Portuguesa poderá haver quatro adjuntos do estado-maior, sendo três militares e um civil.
 
 Os três adjuntos militares designam-se por chefe, 1.º subchefe e 2.º subchefe do estado-maior da Legião Portuguesa.
 
-###### Art. 10.º Os 2.os comandantes-gerais, brigadeiros ou coronéis do activo ou da reserva, são nomeados pelo Ministro do Interior, sob proposta do comandante-geral.
+Art. 10.º Os 2.os comandantes-gerais, brigadeiros ou coronéis do activo ou da reserva, são nomeados pelo Ministro do Interior, sob proposta do comandante-geral.
 
-###### Art. 11.º Os adjuntos militares são nomeados pelo Ministro do Interior, sob proposta do comandante-geral.
+Art. 11.º Os adjuntos militares são nomeados pelo Ministro do Interior, sob proposta do comandante-geral.
 
 § 1.º O chefe do estado-maior da Legião Portuguesa será oficial superior do corpo do estado-maior do activo.
 
@@ -186,73 +234,73 @@ Os três adjuntos militares designam-se por chefe, 1.º subchefe e 2.º subchefe
 
 § 3.º O adjunto civil é o secretário-geral da Junta Central.
 
-###### Art. 12.º Em cada distrito administrativo do continente e ilhas adjacentes há um comando distrital da Legião, cujo comandante, oficial das forças armadas do activo ou da reserva, será coadjuvado por um 2.º comandante, oficial das forças armadas do activo ou da reserva ou oficial da milícia legionária.
+Art. 12.º Em cada distrito administrativo do continente e ilhas adjacentes há um comando distrital da Legião, cujo comandante, oficial das forças armadas do activo ou da reserva, será coadjuvado por um 2.º comandante, oficial das forças armadas do activo ou da reserva ou oficial da milícia legionária.
 
 Directamente subordinado ao comandante-geral, o comandante distrital comanda as forças legionárias do seu distrito e dirige e coordena nele toda a acção da Legião Portuguesa.
 
-###### Art. 13.º Nas províncias ultramarinas as actividades da Legião Portuguesa serão desenvolvidas sob a orientação de um comando próprio, segundo as directivas emanadas de juntas provinciais, com organização e competência ajustadas às características peculiares de cada província.
+Art. 13.º Nas províncias ultramarinas as actividades da Legião Portuguesa serão desenvolvidas sob a orientação de um comando próprio, segundo as directivas emanadas de juntas provinciais, com organização e competência ajustadas às características peculiares de cada província.
 
-###### Art. 14.º Em cada concelho haverá um delegado concelhio, designado entre os legionários desse concelho pelo comandante-geral, sob proposta do respectivo comandante distrital.
+Art. 14.º Em cada concelho haverá um delegado concelhio, designado entre os legionários desse concelho pelo comandante-geral, sob proposta do respectivo comandante distrital.
 
 § único. Nos concelhos em que houver unidade legionária constituída o delegado concelhio será o respectivo comandante.
 
-###### Art. 15.º Na defesa da Nação e na luta contra os inimigos da Pátria e da ordem social a Legião tem duas missões primordiais: colaborar activamente na manutenção da ordem pública em íntima ligação com as forças e organismos de segurança interna e organizar, preparar e executar os serviços da defesa civil do território.
+Art. 15.º Na defesa da Nação e na luta contra os inimigos da Pátria e da ordem social a Legião tem duas missões primordiais: colaborar activamente na manutenção da ordem pública em íntima ligação com as forças e organismos de segurança interna e organizar, preparar e executar os serviços da defesa civil do território.
 
-###### Art. 16.º As forças legionárias terão organização que lhes imponha, colectiva e individualmente, rigorosa disciplina, as incite à prática das virtudes militares e as ligue e corporize no mesmo espírito das unidades das forças armadas.
+Art. 16.º As forças legionárias terão organização que lhes imponha, colectiva e individualmente, rigorosa disciplina, as incite à prática das virtudes militares e as ligue e corporize no mesmo espírito das unidades das forças armadas.
 
-###### Art. 17.º A organização militar da Legião será determinada em regulamento especial, tendo em atenção as suas funções de instituição paramilitar e que as suas forças da milícia são forças militarizadas.
+Art. 17.º A organização militar da Legião será determinada em regulamento especial, tendo em atenção as suas funções de instituição paramilitar e que as suas forças da milícia são forças militarizadas.
 
 As formações e serviços do corpo da defesa civil estão sujeitos a regime especial a definir no respectivo regulamento.
 
-###### Art. 18.º As forças legionárias actuarão sempre em obediência aos princípios doutrinais da organização e sob as ordens da autoridade civil ou militar, conforme o determinado nas Leis n.os 1960 e 1961 e 2034, respectivamente de 1 de Setembro de 1937 e 18 de Julho de 1949, e em atenção à segurança interna, de harmonia com a [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
+Art. 18.º As forças legionárias actuarão sempre em obediência aos princípios doutrinais da organização e sob as ordens da autoridade civil ou militar, conforme o determinado nas Leis n.os 1960 e 1961 e 2034, respectivamente de 1 de Setembro de 1937 e 18 de Julho de 1949, e em atenção à segurança interna, de harmonia com a [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
 
-###### Art. 19.º Podem pertencer à Legião Portuguesa, constituindo o movimento nacional legionário, todos os portugueses de ambos os sexos, com mais de 18 anos de idade, que tomem sob juramento o compromisso de servir a Nação, de harmonia com os intuitos expressos na fórmula adoptada para esse fim.
+Art. 19.º Podem pertencer à Legião Portuguesa, constituindo o movimento nacional legionário, todos os portugueses de ambos os sexos, com mais de 18 anos de idade, que tomem sob juramento o compromisso de servir a Nação, de harmonia com os intuitos expressos na fórmula adoptada para esse fim.
 
 § 1.º Os indivíduos que, por razões de idade ou de capacidade, não possam pertencer aos diferentes escalões da milícia serão aproveitados pelo movimento nacional legionário em missões culturais, sociais ou outras onde as suas qualidades sejam úteis à Nação.
 
 § 2.º Os indivíduos do sexo feminino poderão constituir formações auxiliares da milícia em serviços adequados, tais como serviços de saúde, de transportes, de transmissões, de auxílio social, de acção psicológica e de secretaria.
 
-###### Art. 20.º É assegurado o ingresso na Legião, nos termos do artigo anterior, aos filiados da Mocidade Portuguesa.
+Art. 20.º É assegurado o ingresso na Legião, nos termos do artigo anterior, aos filiados da Mocidade Portuguesa.
 
-###### Art. 21.º As formações da milícia receberão instrução militar e as da defesa civil a instrução conveniente aos fins a que se destinam. Os componentes de ambas as formações deverão normalmente usar uniforme próprio em todos os actos ou serviços para que sejam convocados.
+Art. 21.º As formações da milícia receberão instrução militar e as da defesa civil a instrução conveniente aos fins a que se destinam. Os componentes de ambas as formações deverão normalmente usar uniforme próprio em todos os actos ou serviços para que sejam convocados.
 
-###### Art. 22.º Os membros do movimento nacional legionário poderão ter um distintivo próprio para usarem com o trajo civil e um cartão de identidade que permita o seu fácil e seguro reconhecimento.
+Art. 22.º Os membros do movimento nacional legionário poderão ter um distintivo próprio para usarem com o trajo civil e um cartão de identidade que permita o seu fácil e seguro reconhecimento.
 
-###### Art. 23.º O uso de quaisquer distintivos, insígnias, condecorações ou uniformes legionários por pessoa que nunca tiver pertencido à Legião ou por quem dela tiver sido eliminado ou expulso ou estiver suspenso fará incorrer o infractor na pena prescrita no Código Penal por uso ilegítimo de uniforme ou de condecoração.
+Art. 23.º O uso de quaisquer distintivos, insígnias, condecorações ou uniformes legionários por pessoa que nunca tiver pertencido à Legião ou por quem dela tiver sido eliminado ou expulso ou estiver suspenso fará incorrer o infractor na pena prescrita no Código Penal por uso ilegítimo de uniforme ou de condecoração.
 
 § 1.º Em igual pena incorrerá aquele que fabricar, detiver ou alienar ilegalmente os distintivos, insígnias, condecorações ou uniformes a que se refere este artigo, salvo se o facto constituir crime a que seja aplicável pena mais grave.
 
 § 2.º Quando se provar que os factos a que se refere este artigo foram praticados para realizar outro crime ou com qualquer outro intuito fraudulento, a pena poderá ser elevada até ao dobro.
 
-###### Art. 24.º Os quadros das forças da Legião Portuguesa são, em regra, constituídos por oficiais ou graduados do Exército ou da Armada, de preferência na situação da reserva ou de reforma, e por oficiais e graduados de complemento.
+Art. 24.º Os quadros das forças da Legião Portuguesa são, em regra, constituídos por oficiais ou graduados do Exército ou da Armada, de preferência na situação da reserva ou de reforma, e por oficiais e graduados de complemento.
 
 § 1.º Os departamentos do Exército, da Marinha e da Aeronáutica definirão as condições a satisfazer pelos oficiais e graduados da milícia promovidos pela Legião para as suas forças para o ingresso como oficiais e graduados de complemento, respectivamente, no quadro dos serviços gerais do Exército, na reserva legionária da Armada e na Força Aérea.
 
 § 2.º As equiparações e postos dos graduados da Legião serão consignados em regulamento próprio.
 
-###### Art. 25.º Na organização da resistência moral da Nação a Legião Portuguesa estruturará o seu movimento por forma a assegurar a continuidade das tradições do povo português, o seu amor à família e à terra dos seus maiores, combatendo em todos os campos e por todos os meios as doutrinas subversivas.
+Art. 25.º Na organização da resistência moral da Nação a Legião Portuguesa estruturará o seu movimento por forma a assegurar a continuidade das tradições do povo português, o seu amor à família e à terra dos seus maiores, combatendo em todos os campos e por todos os meios as doutrinas subversivas.
 
-###### Art. 26.º A Legião não é uma instituição de assistência para os seus membros, mas procurará desenvolver, no mais alto grau, a solidariedade e a camaradagem, que, a par do espírito de corpo e da comunhão de ideal, são fulcro e força da organização.
+Art. 26.º A Legião não é uma instituição de assistência para os seus membros, mas procurará desenvolver, no mais alto grau, a solidariedade e a camaradagem, que, a par do espírito de corpo e da comunhão de ideal, são fulcro e força da organização.
 
-###### Art. 27.º É aplicável ao serviço legionário, superiormente determinado, o disposto no artigo 8.º da [Lei n.º 1961](https://diariodarepublica.pt/dr/detalhe/lei/1961-1937-434592), de 1 de Setembro de 1937, no [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, e no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951.
+Art. 27.º É aplicável ao serviço legionário, superiormente determinado, o disposto no artigo 8.º da [Lei n.º 1961](https://diariodarepublica.pt/dr/detalhe/lei/1961-1937-434592), de 1 de Setembro de 1937, no [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, e no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951.
 
 Tal serviço não implicará para os legionários, até ao limite de sete dias em cada ano, qualquer perda de vencimento ou salário, quer seja serventuário do Estado, quer de entidades públicas ou privadas, incluindo empresas particulares.
 
 § único. Quando o serviço a que se refere o corpo deste artigo exceda o período no mesmo fixado, por ser executado em caso de emergência, é-lhe aplicável o disposto nos artigos 27.º e 28.º do [Decreto-Lei n.º 43568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43568-1961-559467), de 28 de Março de 1961.
 
-###### Art. 28.º Os legionários auxiliam-se mùtuamente no cumprimento dos seus deveres e ficam ligados, sem distinção de hierarquia que não seja a da Legião, pela solidariedade que lhes impõe a comunhão de ideal.
+Art. 28.º Os legionários auxiliam-se mùtuamente no cumprimento dos seus deveres e ficam ligados, sem distinção de hierarquia que não seja a da Legião, pela solidariedade que lhes impõe a comunhão de ideal.
 
-###### Art. 29.º A quebra dos deveres legionários ficará sujeita a acção disciplinar, que, nos casos de traição, insubordinação ou cobardia, terá sempre como consequência a expulsão, sem prejuízo da responsabilidade criminal. A expulsão, aplicável ùnicamente por deliberação da Junta Central e sujeita à homologação do Conselho de Ministros, implica sempre a demissão de quaisquer cargos públicos e a incapacidade para neles ser provido.
+Art. 29.º A quebra dos deveres legionários ficará sujeita a acção disciplinar, que, nos casos de traição, insubordinação ou cobardia, terá sempre como consequência a expulsão, sem prejuízo da responsabilidade criminal. A expulsão, aplicável ùnicamente por deliberação da Junta Central e sujeita à homologação do Conselho de Ministros, implica sempre a demissão de quaisquer cargos públicos e a incapacidade para neles ser provido.
 
-###### Art. 30.º Consideram-se realizados em legítima defesa os actos praticados por um legionário para prevenir ou fazer cessar uma agressão ilícita contra a pessoa ou dignidade próprias ou de outro legionário, contra o armamento e equipamento ou quaisquer outras coisas destinadas ao serviço da Legião, ou contra o prestígio desta ou de quaisquer outras instituições ou pessoas que o legionário deva defender, sempre que os meios empregados sejam aqueles que os deveres dos legionários e as circunstâncias razoàvelmente aconselhem, salvo se o legionário tiver provocado a agressão por uma atitude contrária aos princípios da Legião.
+Art. 30.º Consideram-se realizados em legítima defesa os actos praticados por um legionário para prevenir ou fazer cessar uma agressão ilícita contra a pessoa ou dignidade próprias ou de outro legionário, contra o armamento e equipamento ou quaisquer outras coisas destinadas ao serviço da Legião, ou contra o prestígio desta ou de quaisquer outras instituições ou pessoas que o legionário deva defender, sempre que os meios empregados sejam aqueles que os deveres dos legionários e as circunstâncias razoàvelmente aconselhem, salvo se o legionário tiver provocado a agressão por uma atitude contrária aos princípios da Legião.
 
 § único. Se os meios de defesa empregados forem excessivos, ou se tiver havido provocação por parte do legionário que se defende, mas insuficiente para razoàvelmente justificar a agressão, ou se o acto for praticado pelo legionário depois de consumada a mesma, sem haver receio da sua renovação, poderá o legionário ser isento de pena, quando tiver procedido num estado de exaltação desculpável.
 
-###### Art. 31.º Consideram-se praticados em obediência a uma obrigação, e por isso justificados, os factos cometidos em cumprimento de deveres dos legionários prescritos nas leis e nos regulamentos internos da Legião, salvo se houver excesso na execução, contrário aos princípios e ao espírito legionários.
+Art. 31.º Consideram-se praticados em obediência a uma obrigação, e por isso justificados, os factos cometidos em cumprimento de deveres dos legionários prescritos nas leis e nos regulamentos internos da Legião, salvo se houver excesso na execução, contrário aos princípios e ao espírito legionários.
 
 § único. Se houver excesso na execução por motivo de exaltação desculpável, poderá o legionário ser isento de pena.
 
-###### Art. 32.º Os processos relativos a crimes de que forem arguidos legionários e constituídos por factos praticados em serviço da Legião ou em razão de serviço legionário serão instruídos e julgados pelas autoridades e tribunais militares competentes, de harmonia com o Código de Justiça Militar, que, para este efeito e nos termos devidos, se considera aplicável aos legionários.
+Art. 32.º Os processos relativos a crimes de que forem arguidos legionários e constituídos por factos praticados em serviço da Legião ou em razão de serviço legionário serão instruídos e julgados pelas autoridades e tribunais militares competentes, de harmonia com o Código de Justiça Militar, que, para este efeito e nos termos devidos, se considera aplicável aos legionários.
 
 § 1.º Consideram-se praticados em serviço legionário os factos cometidos por membros da Legião que estejam legalmente a desempenhar funções ou missões específicas da mesma ou que sejam perpetrados contra legionários naquelas condições.
 
@@ -260,46 +308,46 @@ Tal serviço não implicará para os legionários, até ao limite de sete dias e
 
 § 3.º Se os processos respeitarem a crimes de que forem arguidos legionários da Brigada Naval, serão instruídos e julgados, sempre que assim seja possível, pelas autoridades e pelo Tribunal de Marinha.
 
-###### Art. 33.º Os oficiais e sargentos das forças armadas, na situação de activo ou de reserva, em serviço na Legião Portuguesa, mediante autorização do titular do departamento competente, serão para todos os efeitos considerados em comissão de serviço militar.
+Art. 33.º Os oficiais e sargentos das forças armadas, na situação de activo ou de reserva, em serviço na Legião Portuguesa, mediante autorização do titular do departamento competente, serão para todos os efeitos considerados em comissão de serviço militar.
 
-###### Art. 34.º Aos legionários com mais de três anos de serviço efectivo das forças da milícia é aplicável o disposto no artigo 30.º do [Decreto-Lei n.º 43568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43568-1961-559467), de 28 de Março de 1961, atribuindo-se-lhes preferência em todos os concursos públicos e no preenchimento de lugares públicos não sujeitos a concurso.
+Art. 34.º Aos legionários com mais de três anos de serviço efectivo das forças da milícia é aplicável o disposto no artigo 30.º do [Decreto-Lei n.º 43568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43568-1961-559467), de 28 de Março de 1961, atribuindo-se-lhes preferência em todos os concursos públicos e no preenchimento de lugares públicos não sujeitos a concurso.
 
-###### Art. 35.º Os legionários sujeitos à lei militar, quando convocados por mobilização parcial ou geral, devem apresentar-se nas unidades militares a que pertencem ou para que forem destinados no plano de mobilização.
+Art. 35.º Os legionários sujeitos à lei militar, quando convocados por mobilização parcial ou geral, devem apresentar-se nas unidades militares a que pertencem ou para que forem destinados no plano de mobilização.
 
-###### Art. 36.º Os oficiais da milícia poderão usar armas independentemente de qualquer licença de uso e porte de arma, nas condições que forem fixadas pelo Ministro do Interior, sob proposta da Junta Central da Legião Portuguesa.
+Art. 36.º Os oficiais da milícia poderão usar armas independentemente de qualquer licença de uso e porte de arma, nas condições que forem fixadas pelo Ministro do Interior, sob proposta da Junta Central da Legião Portuguesa.
 
-###### Art. 37.º Sem prejuízo do direito concedido para licença de uso e porte de arma, nos termos gerais e nos especialmente estabelecidos para a Legião, os legionários de categoria igual ou inferior à de comandante de secção só poderão usar armas quando no desempenho das suas funções legionárias ou por determinação do comando da unidade a que pertençam ou da autoridade militar a que, eventualmente, estejam subordinados.
+Art. 37.º Sem prejuízo do direito concedido para licença de uso e porte de arma, nos termos gerais e nos especialmente estabelecidos para a Legião, os legionários de categoria igual ou inferior à de comandante de secção só poderão usar armas quando no desempenho das suas funções legionárias ou por determinação do comando da unidade a que pertençam ou da autoridade militar a que, eventualmente, estejam subordinados.
 
-###### Art. 38.º À Legião Portuguesa compete a instrução pré-militar da juventude, nos termos do artigo 25.º da [Lei n.º 1961](https://diariodarepublica.pt/dr/detalhe/lei/1961-1937-434592), de 1 de Setembro de 1937, e a instrução militar dos indivíduos a que se referem as alíneas a), b) e c) do artigo 4.º do [Decreto-Lei n.º 31956](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31956-1942-166588), de 2 de Abril de 1942.
+Art. 38.º À Legião Portuguesa compete a instrução pré-militar da juventude, nos termos do artigo 25.º da [Lei n.º 1961](https://diariodarepublica.pt/dr/detalhe/lei/1961-1937-434592), de 1 de Setembro de 1937, e a instrução militar dos indivíduos a que se referem as alíneas a), b) e c) do artigo 4.º do [Decreto-Lei n.º 31956](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31956-1942-166588), de 2 de Abril de 1942.
 
-###### Art. 39.º O Governo pode, sempre que o julgar conveniente, atendendo à segurança exigida ou à indispensável continuidade para a vida da Nação, por simples despacho do Ministro competente, ordenar que os serventuários de determinados serviços públicos do Estado, autarquias locais e organismos corporativos e de coordenação económica, e, bem assim, empresas concessionárias de serviços públicos, sejam exclusivamente ou de preferência elementos legionários
+Art. 39.º O Governo pode, sempre que o julgar conveniente, atendendo à segurança exigida ou à indispensável continuidade para a vida da Nação, por simples despacho do Ministro competente, ordenar que os serventuários de determinados serviços públicos do Estado, autarquias locais e organismos corporativos e de coordenação económica, e, bem assim, empresas concessionárias de serviços públicos, sejam exclusivamente ou de preferência elementos legionários
 
-###### Art. 40.º O Governo pode autorizar que nos serviços públicos do Estado das autarquias locais, dos organismos corporativos e de coordenação económica, nas empresas concessionárias de serviços públicos e nas empresas particulares de interesse para a segurança nacional ou indispensáveis à vida regular da Nação se formem a subunidades legionárias, constituídas por elementos recrutados no respectivo pessoal ou admitido nos termos do artigo anterior, com vista à autodefesa das suas instalações.
+Art. 40.º O Governo pode autorizar que nos serviços públicos do Estado das autarquias locais, dos organismos corporativos e de coordenação económica, nas empresas concessionárias de serviços públicos e nas empresas particulares de interesse para a segurança nacional ou indispensáveis à vida regular da Nação se formem a subunidades legionárias, constituídas por elementos recrutados no respectivo pessoal ou admitido nos termos do artigo anterior, com vista à autodefesa das suas instalações.
 
 § 1.º Todas as despesas inerentes a estas unidades serão suportadas pelos respectivos serviços ou empresas.
 
 § 2.º Os meios materiais de defesa serão adquiridos pelos serviços interessados, ficando à carga da Legião Portuguesa, embora afectos aos serviços correspondentes.
 
-###### Art. 41.º Na Legião Portuguesa haverá um único conselho administrativo responsável pela contabilização e aplicação das dotações para as actividades legionárias e da defesa civil do território, assim como do produto da quotização dos membros do movimento nacional legionário e de quaisquer quantias provenientes de subsídios ou dádivas feitos ao movimento ou à Legião.
+Art. 41.º Na Legião Portuguesa haverá um único conselho administrativo responsável pela contabilização e aplicação das dotações para as actividades legionárias e da defesa civil do território, assim como do produto da quotização dos membros do movimento nacional legionário e de quaisquer quantias provenientes de subsídios ou dádivas feitos ao movimento ou à Legião.
 
 § único. No início de cada mês o Departamento da Defesa Nacional colocará à disposição da Legião as verbas correspondentes ao duodécimo das dotações orçamentais aprovadas para esse ano e relativas às actividades da defesa civil.
 
-###### Art. 42.º Os legionários ficam dispensados do pagamento da taxa militar, enquanto pertencerem às formações da milícia.
+Art. 42.º Os legionários ficam dispensados do pagamento da taxa militar, enquanto pertencerem às formações da milícia.
 
-###### Art. 43.º Todas as disposições deste diploma são aplicáveis aos membros das formações da defesa civil do território.
+Art. 43.º Todas as disposições deste diploma são aplicáveis aos membros das formações da defesa civil do território.
 
-###### Art. 44.º As forças da milícia são forças militarizadas e, em princípio, de aplicação local, isto é, dentro do concelho onde se situar a unidade a que pertençam; mas podem ser utilizadas por ordem superior do Comando-Geral em outros locais onde a sua acção se torne indispensável.
+Art. 44.º As forças da milícia são forças militarizadas e, em princípio, de aplicação local, isto é, dentro do concelho onde se situar a unidade a que pertençam; mas podem ser utilizadas por ordem superior do Comando-Geral em outros locais onde a sua acção se torne indispensável.
 
-###### Art. 45.º Os elementos legionários deslocados nos termos do artigo anterior têm direito a alimentação e a subsídio de marcha nos termos da legislação em vigor.
+Art. 45.º Os elementos legionários deslocados nos termos do artigo anterior têm direito a alimentação e a subsídio de marcha nos termos da legislação em vigor.
 
-###### Art. 46.º Os membros do movimento nacional legionário prestarão juramento segundo a fórmula seguinte:
+Art. 46.º Os membros do movimento nacional legionário prestarão juramento segundo a fórmula seguinte:
 
 Compromisso do legionário
 
 Como legionário, juro obediência aos meus chefes na defesa da Pátria e da ordem social e afirmo solenemente pela minha honra que tudo sacrificarei, incluindo a própria vida, se tanto for necessário, ao serviço da Nação, do seu património espiritual, da moral cristã e da liberdade da terra portuguesa.
 
-###### Art. 47.º Toda a legislação em vigor relativa à Legião Portuguesa será adaptada aos princípios estabelecidos neste diploma.
+Art. 47.º Toda a legislação em vigor relativa à Legião Portuguesa será adaptada aos princípios estabelecidos neste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

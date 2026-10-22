@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/03/07000/03810382.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1971-445756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18123374c9a464076966fd68b56a99ce401e457c600a6f59c06f02b467ff37a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0b2c7aa5aa71f47e1440c08987215893bb113ac29ac899ebbf948f22d679318
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde
+- Comissão Instaladora
+- Direção Geral da Saúde
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:632738:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632738:por
+  label: "Revogado pelo DEC LEI.413/71.27.09.1971.MSA, DG.IS [228] de 27.09.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1971-632738
+  date: '1971-09-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:53Z'
   warnings: []
   errors: []
 ---
@@ -97,28 +114,28 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os centros de saúde previstos no artigo 88.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, serão criados em cada concelho do continente por portaria do Ministro da Saúde e Assistência, podendo aplicar-se-lhes o regime estabelecido nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+Artigo 1.º Os centros de saúde previstos no artigo 88.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, serão criados em cada concelho do continente por portaria do Ministro da Saúde e Assistência, podendo aplicar-se-lhes o regime estabelecido nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
 
-###### Art. 2.º - 1. Os centros de saúde são serviços oficiais do Ministério da Saúde e Assistência, dependentes da Direcção-Geral de Saúde, competindo a sua direcção à autoridade sanitária da respectiva área.
+Art. 2.º - 1. Os centros de saúde são serviços oficiais do Ministério da Saúde e Assistência, dependentes da Direcção-Geral de Saúde, competindo a sua direcção à autoridade sanitária da respectiva área.
 
 2. Os centros de saúde dos concelhos das sedes dos distritos, que se denominarão centros de saúde distritais, são dotados de personalidade jurídica e autonomia administrativa.
 
 3. Os outros centros de saúde dos concelhos de cada um dos distritos, que se denominarão centros de saúde concelhios, dependem, administrativa e financeiramente, do respectivo centro de saúde distrital, sem prejuízo da competência que venha a ser delegada na autoridade que os dirige.
 
-###### Art. 3.º - 1. Os centros de saúde respondem pela integração e coordenação das actividades de saúde e assistência dependentes do Ministério da Saúde e Assistência e ainda pela prestação de cuidados médicos que pela sua natureza não caibam no âmbito dos serviços especializados dependentes do mesmo Ministério, assegurando a cobertura médico-sanitária global da população da área que lhes corresponde.
+Art. 3.º - 1. Os centros de saúde respondem pela integração e coordenação das actividades de saúde e assistência dependentes do Ministério da Saúde e Assistência e ainda pela prestação de cuidados médicos que pela sua natureza não caibam no âmbito dos serviços especializados dependentes do mesmo Ministério, assegurando a cobertura médico-sanitária global da população da área que lhes corresponde.
 
 2. A Direcção-Geral de Saúde ou os centros de saúde distritais poderão acordar com a Federação de Caixas de Previdência e Abono de Família, com as Misericórdias e com quaisquer outras entidades com atribuições em matéria de saúde e assistência os termos em que terá lugar a coordenação dos respectivos serviços com os que ficam na dependência dos centros de saúde.
 
 3. Ficam desde já autorizadas as alienações que, para efeitos do disposto no número anterior, hajam de realizar-se.
 
-###### Art. 4.º O pessoal dos centros de saúde a admitir durante o período de instalação deverá obedecer aos requisitos indispensáveis ao exercício das respectivas funções e virá a constar de um quadro único comum a todos os centros de saúde.
+Art. 4.º O pessoal dos centros de saúde a admitir durante o período de instalação deverá obedecer aos requisitos indispensáveis ao exercício das respectivas funções e virá a constar de um quadro único comum a todos os centros de saúde.
 
-###### Art. 5.º Enquanto não forem criados os centros de saúde distritais, compete à comissão instaladora, constituída pela portaria de 22 de Julho de 1970, publicada no Diário do Governo, 2.ª série, de 12 de Agosto de 1970, a instalação e gerência dos centros de saúde das sedes dos concelhos.
+Art. 5.º Enquanto não forem criados os centros de saúde distritais, compete à comissão instaladora, constituída pela portaria de 22 de Julho de 1970, publicada no Diário do Governo, 2.ª série, de 12 de Agosto de 1970, a instalação e gerência dos centros de saúde das sedes dos concelhos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

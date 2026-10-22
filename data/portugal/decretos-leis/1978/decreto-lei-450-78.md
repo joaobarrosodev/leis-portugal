@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1978, 6º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 2798-(85) a 2798-(115)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29906/00850115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,368 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 340edf3caa97df5d160f8b0a51530fc77857a06958adfb7921ce539789e1c1d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff4e7414fc3e1152ce666e207f3672e911cc09bc1c762169a1f5d4696df8a180
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Justiça
+- Reestruturação de Serviços
+- Secretaria Judicial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUSPENSO DE EXECUÇÃO OS ARTIGOS 149, NUMERO 1, 150, 154, 157, 158, PELA RESOLUÇÃO DA ASSEMBLEIA DA REPÚBLICA, NUMERO\
+    \ 83/80, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 58, DE 800310, ATE QUE SEJA PUBLICADA A LEI QUE O ALTERAR POR\
+    \ RATIFICAÇÃO.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:375815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377742:por
+  label: "Suspensa a execução do presente diploma, relativamente ao n.º 1 do art. 149.º, e arts. 150.º, 154.º, 157.º e 158.º,\
+    \ pela RES.248/79.13.08.1979.AR, DR.IS [186] de 13.08.1979, até que seja publicada a lei que o alterar.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/248-1979-377742
+  date: '1979-08-13'
+- type: amended_by
+  target: pt:dre:471968:por
+  label: "Alterados os art. 3º, 7º, 8º, 15º, 20º, 23º, 29º, 39º, 42º, 43º, 48º, 69º, 74º, 78º, 79º, 81º, 83º, 84º, 86º, 89º,\
+    \ 90º, 95º, 99º, 103º, 104º, 107º, 111º, 112º, 118º, 119º, 122º, 126º, 129º, 135º, 143º, 144º, 145º, 148º, 149º, 150º,\
+    \ 152º, 154º, 157º; os art. 159º, 160º, 161º, 162º e 163º, passaram, respectivamente, a 158º, 159º, 160º, 161º, 162º;\
+    \ aditados os art. 161º-A, 161º-B, e revogado o art.º 158º todos pela LEI.35/80.1980.07.29.AR, DR.IS [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-1980-471968
+  date: '1980-07-29'
+- type: amended_by
+  target: pt:dre:470436:por
+  label: "Alterado o quadro de pessoal do Tribunal de Comarca de Estremoz constante do mapa XX anexo ao presente diploma,\
+    \ pela PORT.485/80.07.08.1980.MJ, DR.IS [181] de 07.08.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/485-1980-470436
+  date: '1980-08-07'
+- type: amended_by
+  target: pt:dre:470442:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Paredes constante do mapa XIV anexo pela PORT.483/80.07.08.1980.MJ,\
+    \ DR.IS [181] de 07.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/483-1980-470442
+  date: '1980-08-07'
+- type: amended_by
+  target: pt:dre:470443:por
+  label: "Alterados os quadros de pessoal dos Tribunais de Instrução Criminal de Almada, Aveiro, Barcelos, Barreiro, Braga,\
+    \ Cascais, Évora, Faro, Funchal, Guimarães, Leiria, Matosinhos, Santarém, Setúbal, Sintra, Vila da Feira, Vila Nova de\
+    \ Gaia, Vila real, Viseu, constantes dos mapas XXVII, XXVIII e XXIX anexos ao presente diploma, pela PORT.484/80.07.08.1980.MJ,\
+    \ DR.IS [181] de 07.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-1980-470443
+  date: '1980-08-07'
+- type: amended_by
+  target: pt:dre:461065:por
+  label: "Aumentados os quadros de pessoal dos 1.º e 2.º Juízos Criminais do Porto, constantes do mapa XXV do presente diploma,\
+    \ pela PORT.591/80.11.09.1980.MJ, DR.IS [210] de 11.09.1980 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/591-1980-461065
+  date: '1980-09-11'
+- type: amended_by
+  target: pt:dre:461066:por
+  label: "Aumentado o quadro de pessoal da Secretaria do Tribunal da Relação de Évora, constante do mapa V do presente diploma,\
+    \ pela PORT.592/80.11.09.1980.MJ, DR.IS [210] de 11.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-1980-461066
+  date: '1980-09-11'
+- type: amended_by
+  target: pt:dre:457447:por
+  label: "Aumentado, com um lugar de escrivão de direito, o quadro de pessoal do Tribunal da Comarca de Castelo de Paiva,\
+    \ constante do mapa XXIV anexo ao presente diploma, pela PORT.926/80.04.11.1980.MJ, DR.IS [255] de 04.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/926-1980-457447
+  date: '1980-11-04'
+- type: amended_by
+  target: pt:dre:457458:por
+  label: "Aumentado no Tribunal de Polícia de Lisboa, o quadro de pessoal constante do mapa XXV, anexo ao presente diploma,\
+    \ pela PORT.936/80.05.11.1980.MJ, DR.IS [256] de 05.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/936-1980-457458
+  date: '1980-11-05'
+- type: amended_by
+  target: pt:dre:457600:por
+  label: "Aumentado o quadro de pessoal do Tribunal da Comarca de Armamar, constante do mapa anexo ao presente diploma, pela\
+    \ PORT.938/80.06.11.1980.MJ, DR.IS [257] de 06.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/938-1980-457600
+  date: '1980-11-06'
+- type: amended_by
+  target: pt:dre:390391:por
+  label: "Alterado o quadro de pessoal do Tribunal de Comarca de Lagos constante do mapa XIX anexo, pela PORT.59/81.16.01.1981.MJ,\
+    \ DR.IS [13] de 16.01.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-1981-390391
+  date: '1981-01-16'
+- type: amended_by
+  target: pt:dre:390392:por
+  label: "Alterado o quadro de pessoal do Tribunal de Comarca de Silves constante do mapa XIX anexo pela PORT.56/81.16.01.1981.MJ,\
+    \ DR.IS [13] de 16.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-1981-390392
+  date: '1981-01-16'
+- type: amended_by
+  target: pt:dre:390397:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Sintra constante do mapa VI anexo pela PORT.61/81.16.01.1981.MJ,\
+    \ DR.IS [13] de 16.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-1981-390397
+  date: '1981-01-16'
+- type: amended_by
+  target: pt:dre:390399:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Rio Maior constante do mapa XVIII anexo pela PORT.60/81.16.01.1981.MJ,\
+    \ DR.IS [13] de 16.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/60-1981-390399
+  date: '1981-01-16'
+- type: amended_by
+  target: pt:dre:390401:por
+  label: "Alterado o quadro de pessoal do Tribunal de Comarca de Santarém constante do mapa IX anexo, pela PORT.58/81.16.01.1981.MJ,\
+    \ DR.IS [13] de 16.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1981-390401
+  date: '1981-01-16'
+- type: amended_by
+  target: pt:dre:389802:por
+  label: "Aumentado no Tribunal da Comarca de Vila da Praia da Vitória, o quadro de pessoal constante do presente diploma,\
+    \ pela PORT.160/81.02.02.1981.MJ, DR.IS [27] de 02.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-1981-389802
+  date: '1981-02-02'
+- type: amended_by
+  target: pt:dre:389804:por
+  label: "Aumentado no Tribunal da Comarca de Oliveira do Hospital, o quadro de pessoal constante do anexo ao presente diploma,\
+    \ pela PORT.159/81.02.02.1981.MJ, DR.IS [27] de 02.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/159-1981-389804
+  date: '1981-02-02'
+- type: amended_by
+  target: pt:dre:391029:por
+  label: "Aumentado o quadro de pessoal do Tribunal da Marinha Grande, constante do mapa XVII anexo ao presente diploma, pela\
+    \ PORT.194/81.19.02.1981.MJ, DR.IS [42] de 19.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-1981-391029
+  date: '1981-02-19'
+- type: amended_by
+  target: pt:dre:391031:por
+  label: "Aumentado o quadro de pessoal do Tribunal de Loulé constante do mapa XVII anexo do presente diploma, pela PORT.193/81.19.02.1981.MJ,\
+    \ DR.IS [42] de 19.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-1981-391031
+  date: '1981-02-19'
+- type: amended_by
+  target: pt:dre:390637:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Estremoz, constante dos anexos ao presente diploma, pela\
+    \ PORT.214/81.25.02.1981.MJ, DR.IS [47] de 25.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/214-1981-390637
+  date: '1981-02-25'
+- type: amended_by
+  target: pt:dre:390640:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca das Caldas da Rainha, constante dos anexos ao presente diploma,\
+    \ pela PORT.215/81.25.02.1981.MJ, DR.IS [47] de 25.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-1981-390640
+  date: '1981-02-25'
+- type: amended_by
+  target: pt:dre:390644:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Oeiras, constante dos anexos ao presente diploma, pela PORT.213/81.25.02.1981.MJ,\
+    \ DR.IS [47] de 25.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/213-1981-390644
+  date: '1981-02-25'
+- type: amended_by
+  target: pt:dre:388451:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Vagos, constante do mapa XIX anexo ao presente diploma, pela\
+    \ PORT.240/81.06.03.1981.MJ, DR.IS [54] de 06.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/240-1981-388451
+  date: '1981-03-06'
+- type: amended_by
+  target: pt:dre:388455:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Mirandela, constante dos anexos ao presente diploma, pela\
+    \ PORT.239/81.06.03.1981.MJ, DR.IS [54] de 06.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1981-388455
+  date: '1981-03-06'
+- type: amended_by
+  target: pt:dre:389627:por
+  label: "Aumentado um lugar de escrivão de direito no quadro de pessoal do Tribunal da Comarca da Ilha do Pico, constante\
+    \ do mapa XXIV do presente diploma, pela PORT.290/81.25.03.1981.MJ, DR.IS [70] de 25.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1981-389627
+  date: '1981-03-25'
+- type: amended_by
+  target: pt:dre:389583:por
+  label: "Alterado o quadro de pessoal do Tribunal Judicial de Ovar contante do mapa XII anexo pela PORT.313/81.02.04.1981.MJ,\
+    \ DR.IS [77] de 02.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-1981-389583
+  date: '1981-04-02'
+- type: amended_by
+  target: pt:dre:574556:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Évora, constante dos anexos do presente diploma, pela PORT.445/81.01.06.1981.MJ,\
+    \ DR.IS [125] de 01.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/445-1981-574556
+  date: '1981-06-01'
+- type: amended_by
+  target: pt:dre:574557:por
+  label: "Alterado o quadro de pessoal do Tribunal da Relação do Porto, constante dos anexos ao presente diploma, pela PORT.446/81.01.06.1981.MJ,\
+    \ DR.IS [125] de 01.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/446-1981-574557
+  date: '1981-06-01'
+- type: amended_by
+  target: pt:dre:574562:por
+  label: "Aumentado o quadro de pessoal do Tribunal Judicial de Vila Real de Santo António, constante do mapa XIX anexo ao\
+    \ presente diploma, pela PORT.442/81.01.06.1981.MJ, DR.IS [125] de 01.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-1981-574562
+  date: '1981-06-01'
+- type: amended_by
+  target: pt:dre:574563:por
+  label: "Alterado o quadro de pessoal do Tribunal Judicial da Figueira da Foz, constante dos anexos do presente diploma,\
+    \ pela PORT.443/81.01.06.1981.MJ, DR.IS [125] de 01.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/443-1981-574563
+  date: '1981-06-01'
+- type: amended_by
+  target: pt:dre:574565:por
+  label: "Aumentado o quadro de pessoal do Tribunal da Comarca de Caminha, constante do mapa XXI anexo ao presente diploma,\
+    \ pela PORT.444/81.01.06.1981.MJ, DR.IS [125] de 01.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/444-1981-574565
+  date: '1981-06-01'
+- type: amended_by
+  target: pt:dre:578290:por
+  label: "Aumentado com um lugar de escrivão-adjunto o quadro do Tribunal da Comarca de Marco de Canaveses, constante do mapa\
+    \ XXI anexo ao presente diploma, pela PORT.500/81.22.06.1981.MJ, DR.IS [140] de 22.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/500-1981-578290
+  date: '1981-06-22'
+- type: amended_by
+  target: pt:dre:580281:por
+  label: "Aumentado o quadro de pessoal do Tribunal da Comarca de Cascais constante do Mapa VII do presente diploma, pela\
+    \ PORT.574/81.09.07.1981.MJ, DR.IS [155] de 09.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/574-1981-580281
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:580290:por
+  label: "Aumentado um lugar de escriturário ao mapa XIX anexo ao presente diploma, pela PORT.571/81.09.07.1981.MJ, DR.IS\
+    \ [155] de 09.07.1981 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/571-1981-580290
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:580291:por
+  label: "Aumentado lugares ao mapa VI anexo pela PORT.572/81.09.07.1981.MJ, DR.IS [155] de 09.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-1981-580291
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:580292:por
+  label: "Aumentado um lugar de oficial porteiro ao mapa XVI anexo ao presente diploma, pela PORT.573/81.09.07.1981.MJ, DR.IS\
+    \ [155] de 09.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/573-1981-580292
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:580301:por
+  label: "Aumentado um lugar de escrivão de direito ao mapa XXV anexo ao presente diploma, pela PORT.570/81.09.07.1981.MJ,\
+    \ DR.IS [155] de 09.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-1981-580301
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:576479:por
+  label: "Aumentado, nos tribunais de Alcobaça, Castelo Branco, Montemor-o-Velho e Vila Franca de Xira, os quadros de pessoal\
+    \ constantes dos anexos do presente diploma, pela PORT.697/81.14.08.1981.MJ, DR.IS [186] de 14.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1981-576479
+  date: '1981-08-14'
+- type: amended_by
+  target: pt:dre:576483:por
+  label: "Aumentado o quadro de pessoal do Tribunal da Comarca de Pombal, constante dos anexos do presente diploma, pela PORT.695/81.14.08.1981.MJ,\
+    \ DR.IS [186] de 14.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/695-1981-576483
+  date: '1981-08-14'
+- type: amended_by
+  target: pt:dre:576484:por
+  label: "Alterado o quadro de pessoal do Tribunal da Comarca de Ponte de Lima, constante dos anexos do presente diploma,\
+    \ pela PORT.696/81.14.08.1981.MJ, DR.IS [186] de 14.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/696-1981-576484
+  date: '1981-08-14'
+- type: amended_by
+  target: pt:dre:576485:por
+  label: "Alterado o quadro de pessoal do tribunal da Comarca de Anadia, constante dos anexos do presente diploma, pela PORT.698/81.14.08.1981.MJ,\
+    \ DR.IS [186] de 14.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-1981-576485
+  date: '1981-08-14'
+- type: amended_by
+  target: pt:dre:564983:por
+  label: "Alterado, na parte referente ao Tribunal do Montijo, o mapa XVI anexo ao presente diploma, pela PORT.763/81.05.09.1981.MJ,\
+    \ DR.IS [204] de 05.09.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/763-1981-564983
+  date: '1981-09-05'
+- type: amended_by
+  target: pt:dre:568563:por
+  label: "Aumentado o quadro de pessoal dos Tribunais Judiciais de Matosinhos, Penafiel e Paços de Ferreira e da Secretaria-Geral\
+    \ dos Tribunais Cíveis e Criminais do Porto constantes dos mapas VII, XV, XVII e XXVI, respectivamente, anexos ao presente\
+    \ diploma, pela PORT.958/81.09.11.1981.MJ, DR.IS [258] de 09.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/958-1981-568563
+  date: '1981-11-09'
+- type: amended_by
+  target: pt:dre:568703:por
+  label: "Aumentado o quadro de pessoal dos Tribunais Judiciais de Águeda, Cartaxo, Amarante e Arouca constantes dos mapas\
+    \ XIV, XVII, XIX e XXI, respectivamente, anexos ao presente diploma, pela PORT.965/81.10.11.1981.MJ, DR.IS [259] de 10.11.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/965-1981-568703
+  date: '1981-11-10'
+- type: amended_by
+  target: pt:dre:568494:por
+  label: "Alterados os quadros de pessoal do Tribunal de Évora e do Tribunal do Seixal, constantes dos anexos do presente\
+    \ diploma, pela PORT.989/81.19.11.1981.MJ, DR.IS [267] de 19.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-1981-568494
+  date: '1981-11-19'
+- type: amended_by
+  target: pt:dre:567261:por
+  label: "Alterado o quadro do pessoal do Tribunal de Ponta Delgada constante do presente diploma, pela PORT.1055/81.15.12.1981.MJ,\
+    \ DR.IS [287] de 15.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1055-1981-567261
+  date: '1981-12-15'
+- type: amended_by
+  target: pt:dre:608218:por
+  label: "Alterados os mapas I a XXXVI anexos ao presente diploma, pela PORT.327/82.1982.03.27.MFP DR.IS [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-1982-608218
+  date: '1982-03-27'
+- type: amended_by
+  target: pt:dre:394505:por
+  label: "Aumentados, nos tribunais judiciais de Figueira de Castelo Rodrigo, Grândola, Leiria e Almeida e do Tribunal do\
+    \ Trabalho de Matosinhos, os quadros de pessoal constantes dos anexos ao presente diploma, pela PORT.679/82.08.07.1982.MJ,\
+    \ DR.IS [155] de 08.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/679-1982-394505
+  date: '1982-07-08'
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:375815:por
+  label: "Revogado pelo DEC LEI.385/82.16.09.1982.MJ, DR.IS [215] de 16.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1982-375815
+  date: '1982-09-16'
 article_structure:
   article_count: 0
-  section_count: 78
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:14Z'
   warnings: []
   errors: []
 ---
@@ -1448,11 +1776,11 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo 
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Eduardo Henriques da Silva Correia.
 
-**Promulgado em 30 de Dezembro de 1978.**
+Promulgado em 30 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela a que se refere o artigo 83.º
 
@@ -1512,7 +1840,7 @@ Supremo Tribunal de Justiça
 
 Secretaria Judicial:
 
-#### Secção de Expediente e Contabilidade e quatro secções de processos.
+Secção de Expediente e Contabilidade e quatro secções de processos.
 
 Pessoal (ver nota a):
 
@@ -1756,7 +2084,7 @@ Coimbra, Setúbal, Sintra e Vila Nova de Gaia.
 
 Secretaria Judicial:
 
-#### Secção central e oito secções de processos.
+Secção central e oito secções de processos.
 
 Pessoal (ver nota a):
 
@@ -1794,7 +2122,7 @@ Cascais, Funchal e Matosinhos.
 
 Secretaria Judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal (ver nota a):
 
@@ -1832,7 +2160,7 @@ Almada, Aveiro, Braga e Oeiras.
 
 Secretaria Judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal (ver nota a):
 
@@ -1872,7 +2200,7 @@ Guimarães, Leiria, Loures, Santarém, Vila da Feira e Viseu.
 
 Secretaria Judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal (ver nota a):
 
@@ -1914,7 +2242,7 @@ Caldas da Rainha, Figueira da Foz, Ponta Delgada, Santo Tirso, Viana do Castelo 
 
 Secretaria Judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal (ver nota a):
 
@@ -1954,7 +2282,7 @@ Barcelos, Barreiro, Faro e Vila Nova de Famalicão.
 
 Secretaria Judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -1992,7 +2320,7 @@ Anadia e Ovar.
 
 Secretaria Judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -2020,7 +2348,7 @@ Abrantes, Espinho, Tomar, Torres Vedras, Vila do Conde e Vila Real.
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2060,7 +2388,7 @@ Tribunais de:
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2094,7 +2422,7 @@ Beja, Bragança, Castelo Branco, Covilhã, Guarda, Lamego, Oliveira de Azeméis,
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2136,7 +2464,7 @@ Benavente, Chaves, Elvas, Estarreja, Évora, Montijo, Portalegre, Póvoa de Varz
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2176,7 +2504,7 @@ Alenquer, Angra do Heroísmo, Cantanhede, Cartaxo, Fafe, Felgueiras, Loulé, Man
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2212,7 +2540,7 @@ Albergaria-a-Velha, Arcos de Valdevez, Fundão, Golegã, Lousã, Mafra, Olhão, 
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2246,7 +2574,7 @@ Albufeira, Amarante, Lagos, Macedo de Cavaleiros, Mirandela, Moncorvo, Ponta do 
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2280,7 +2608,7 @@ Alcácer do Sal, Alcanena, Coruche, Esposende, Estremoz, Gouveia, Lourinhã, Lou
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2314,7 +2642,7 @@ Alijó, Ansião, Arganil, Arouca, Caminha, Celorico de Basto, Fronteira, Horta, 
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2348,7 +2676,7 @@ Amares, Baião, Castro Daire, Celorico da Beira, Cinfães, Figueiró dos Vinhos,
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2382,7 +2710,7 @@ Armamar, Arraiolos, Cabeceiras de Basto, Figueira de Castelo Rodrigo, Grândola,
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2414,7 +2742,7 @@ Alfândega da Fé, Almeida, Almodôvar, Alvaiázere, Avis, Boticas, Carrazeda de
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2486,7 +2814,7 @@ Tribunal Cível
 
 Secretaria Judicial:
 
-#### Secção central e três secções de processos em cada juízo.
+Secção central e três secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2506,7 +2834,7 @@ Juízos Criminais
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2526,7 +2854,7 @@ Juízos Correccionais
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2548,7 +2876,7 @@ Juízos de Polícia
 
 Secretaria Judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -2570,7 +2898,7 @@ Tribunal de Instrução Criminal
 
 Secretaria Judicial:
 
-#### Secção central e sete secções de processos.
+Secção central e sete secções de processos.
 
 Pessoal:
 
@@ -2592,7 +2920,7 @@ Tribunal de Família
 
 Secretaria Judicial:
 
-#### Secção central e três secções de processos em cada juízo.
+Secção central e três secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2614,7 +2942,7 @@ Tribunal de Menores
 
 Secretaria Judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -2634,7 +2962,7 @@ Tribunal do Trabalho
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2656,7 +2984,7 @@ Tribunal de Execução das Penas
 
 Secretaria Judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -2720,7 +3048,7 @@ Tribunal Cível
 
 Secretaria Judicial:
 
-#### Secção central e três secções de processos em cada juízo.
+Secção central e três secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2740,7 +3068,7 @@ Juízos Criminais
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2760,7 +3088,7 @@ Juízos Correccionais
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2782,7 +3110,7 @@ Juízos de Polícia
 
 Secretaria Judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -2804,7 +3132,7 @@ Tribunal de Instrução Criminal
 
 Secretaria Judicial:
 
-#### Secção central e três secções de processos.
+Secção central e três secções de processos.
 
 Pessoal:
 
@@ -2824,7 +3152,7 @@ Tribunal de Família
 
 Secretaria Judicial:
 
-#### Secção central e seis secções de processos.
+Secção central e seis secções de processos.
 
 Pessoal:
 
@@ -2850,7 +3178,7 @@ Tribunal de Menores
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -2870,7 +3198,7 @@ Tribunal do Trabalho
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos em cada juízo.
+Secção central e duas secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2892,7 +3220,7 @@ Tribunal de Execução das Penas
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -2914,7 +3242,7 @@ Tribunal de Instrução Criminal de Vila Nova de Gaia
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -2938,7 +3266,7 @@ Almada, Aveiro, Cascais, Coimbra, Matosinhos, Setúbal e Sintra.
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2964,7 +3292,7 @@ Barcelos, Barreiro, Braga, Évora, Faro, Funchal, Guimarães, Leiria, Loures, Oe
 
 Secretaria Judical:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2988,7 +3316,7 @@ Tribunal de Menores do Funchal
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal:
 
@@ -3012,7 +3340,7 @@ Coimbra, Faro e Ponta Delgada.
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal:
 
@@ -3034,7 +3362,7 @@ Matosinhos e Vila Nova de Gaia.
 
 Secretaria Judicial:
 
-#### Secção central e quatro secções de processos.
+Secção central e quatro secções de processos.
 
 Pessoal:
 
@@ -3060,7 +3388,7 @@ Almada, Aveiro, Braga, Cascais, Faro, Loures, Oeiras, Oliveira de Azeméis, Pena
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal:
 
@@ -3086,7 +3414,7 @@ Barcelos, Barreiro, Bragança, Coimbra, Covilhã, Évora, Figueira da Foz, Funch
 
 Secretaria Judicial:
 
-#### Secção central e duas secções de processos.
+Secção central e duas secções de processos.
 
 Pessoal (ver nota a):
 
@@ -3116,7 +3444,7 @@ Angra do Heroísmo, Beja, Caldas da Rainha, Castelo Branco, Guarda, Lamego, Pont
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos:
+Secção central e secção de processos:
 
 Pessoal (ver nota a):
 
@@ -3146,7 +3474,7 @@ Coimbra e Évora.
 
 Secretaria Judicial:
 
-#### Secção central e secção de processos.
+Secção central e secção de processos.
 
 Pessoal (ver nota a):
 

@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43610-1961-569513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 694e29e0806fd6d59e7116ac29a850ee077a92f0b6146d4f52ea8447b8ed0f5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bbd0a0bf725dc5c746a3996866d39c490f5aa2e88971780e13c9a1031179060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Militar
+- Orgânica
+- Proteção Social
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:502032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502032:por
+  label: "Alterada a al. b) do art. 11º do Dec Lei 42072 de 31-Dez de 1958, com a redacção conferida no presente diploma,\
+    \ pelo DEC LEI.293/76.24.04.1976.CR, DR.IS [97] de 24.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1976-502032
+  date: '1976-04-24'
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:26Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +113,9 @@ Tendo em atenção o que se encontra estatuído no Código para a Concessão de 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer pomo lei, o seguinte:
 
-###### Artigo único. A redacção do artigo 11.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, é alterada pela forma abaixo indicada, sendo ainda adicionados as alíneas e o parágrafo seguintes:
+Artigo único. A redacção do artigo 11.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, é alterada pela forma abaixo indicada, sendo ainda adicionados as alíneas e o parágrafo seguintes:
 
-###### Art. 11.º São beneficiários dos Serviços Sociais das Forças Armadas, mediante desconto nos vencimentos, pensões ou subsídios das quotizações que forem fixadas por despacho ministerial:
+Art. 11.º São beneficiários dos Serviços Sociais das Forças Armadas, mediante desconto nos vencimentos, pensões ou subsídios das quotizações que forem fixadas por despacho ministerial:
 
 ...
 
@@ -110,7 +125,7 @@ e) Os órfãos de militares quando autorizados e nas condições que vierem a se
 
 § 3.º Os beneficiários a que se referem as alíneas d) e e) do corpo deste artigo podem, mediante despacho ministerial, ser dispensados do pagamento da quotização.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

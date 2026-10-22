@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 221/1964, 1º Suplemento, Série I de 1964-09-19
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1197 - 1376
   pdf_url: https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45935-1964-560836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7772547b5fd34389c534c8b6930c5b352d23de4ba93bbe3871bd7e1abd981116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 135321a22efc4a3d43963036ad0540b5245aaedcbeedbc1fb329fc428bd1dc2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Genebra
+- Portugal
+- Substância Perigosa
+- Transporte de Mercadorias
+- Transporte de Mercadorias Perigosas
+- Transporte Internacional
+- Transporte Rodoviário
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:36Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +92,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Acordo europeu relativo ao transporte internacional de mercadorias perigosas por estrada (ADR), celebrado em Genebra no dia 30 de Setembro de 1957, cujo texto em francês e a sua tradução em português vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para adesão, o Acordo europeu relativo ao transporte internacional de mercadorias perigosas por estrada (ADR), celebrado em Genebra no dia 30 de Setembro de 1957, cujo texto em francês e a sua tradução em português vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.
 
@@ -1526,7 +1534,7 @@ mélange C, ont à 70ºC une tension de vapeur ne dépassant pas 31 kg/cm2 et à
 
 Nota. - Pour les mélanges précités, les noms commerciaux suivants sont admis pour la désignation de ces matières:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Pour le butane, voir aussi marginal 2131a, sous d).
 
@@ -1542,7 +1550,7 @@ b) le dichlorodifluorométhane, le dichloromonofluorométhane, le monochlorodifl
 
 Nota. - Pour les gaz précités, les noms commerciaux suivants sont admis pour la désignation de ces matières:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 c) les mélanges de matières énumérées sous 8º, b), qui, comme le
 
@@ -1832,7 +1840,7 @@ c. Pression d'épreuve et remplissage des récipients
 
 (2) Pour les gaz liquéfiés des 4º à 8º, on doit observer les valeurs ci-après pour la pression hydraulique à appliquer aux récipients lors de l'épreuve (pression d'épreuve), ainsi que pour le degré de remplissage maximal admissible (ver nota *):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (nota *) 1. Les valeurs minimales prescrites ci-dessous pour les pressions d'épreuve sont au moins égales aux tensions de vapeur des liquides à 70ºC, diminuées de 1 kg/cm2, le minimum de pression d'épreuve exigé étant toutefois de 10 kg/cm2.
 
@@ -1840,13 +1848,13 @@ c. Pression d'épreuve et remplissage des récipients
 
 3. Les valeurs maximales prescrites ci-dessous pour le poids de liquide par litre ont été déterminées d'après le rapport ci-après: degré de remplissage maximal admissible = 0,95 fois la densité de la phase liquide à 50ºC, la phase vapeur ne devant en outre pas disparaître endessous de 60ºC.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (3) Pour les gaz liquéfiés des 9º et 10º, la pression intérieure à 65ºC ne doit pas excéder la pression d'épreuve prévue pour le récipient.
 
 Le degré de remplissage maximal admissible des récipients est fixé d'après les pressions d'épreuve. Les valeurs suivantes doivent être observées [voir aussi sous (4) et (5)]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (4) Dans le cas où l'on se sert, pour les matières des 9º et 10º, de récipients ayant subi une pression d'épreuve inférieure à celle indiquée sous (3), le remplissage maximal doit satisfaire à la condition indiquée sous (3), d'après laquelle la pression réalisée à l'intérieur du récipient par la matière en question à 65ºC ne doit pas dépasser la pression d'épreuve estampillée sur le récipient.
 
@@ -1854,7 +1862,7 @@ Le degré de remplissage maximal admissible des récipients est fixé d'après l
 
 2148 (1) Pour les gaz dissous sous pression des 12º et 13º, les valeurs suivantes doivent être observées en ce qui concerne les pressions intérieurs (pressions d'épreuve) à appliquer lors de l'épreuve de pression hydraulique et le degré de remplissage maximal admissible:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (2) Pour l'acetylène dissous (13º), la pression de chargement ne doit pas dépasser 15 kg/cm2 une fois l'équilibre réalisé à 15ºC. La quantité de solvant doit, à une température ramenée à 15ºC, être telle que l'augmentation de volume qu'il subit en absorbant l'acetylène à la pression de chargement laisse à l'intérieur de la masse poreuse un volume libre égal à 12% au moins de la capacité en eau du récipient.
 
@@ -4224,11 +4232,11 @@ d) L'épreuve de choc est normalement exécutée avec une masse de chute de 2 kg
 
 Esquisse 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Esquisse 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 3156 Épreuve de sensibilité au frottement
 
@@ -4266,11 +4274,11 @@ On note le temps au bout duquel apparaissent les premières traces de gouttelett
 
 Appareil pour épreuve d'exsudation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Récipients en alliages d'aluminium
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 APPENDICE A.2
 
@@ -4280,7 +4288,7 @@ A. Qualité du matériau
 
 3200 (1) Les matériaux des récipients en alliages d'aluminium, qui sont admis pour les gaz mentionnés au marginal 2133 (2), alinéa 2, devraient satisfaire aux exigences suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Les valeurs intermédiaires doivent être tirées des diagrammes constituant le complément du présent appendice. Nota. - 1. Les caractéristiques ci-dessus sont basées sur les expériences faites jusqu'ici avec les matériaux suivants utilisés pour les récipients: pression d'épreuve jusqu'à 30 kg/cm2: alliages d'aluminium et de magnésium;
 
@@ -4288,7 +4296,7 @@ pression d'épreuve jusqu'à 60 kg/cm2: alliages d'aluminium, de silicium et de 
 
 pression d'épreuve au-dessus de 60 kg/cm2 jusqu'à 375 kg/cm2: alliages d'aluminium, de cuivre et de magnésium.
 
-2. L'allongement à la rupture ((zeta) = 5 d) est mesuré au moyen d'éprouvettes à section circulaire, dont la distance entre repères (zeta) est égale à cinq fois le diamètre d; en cas d'emploi d'éprouvettes à section rectangulaire, la distance entre repères doit être calculée par la formule [([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf),dans laquelle F(índice 0) désigne la section primitive de l'éprouvette.
+2. L'allongement à la rupture ((zeta) = 5 d) est mesuré au moyen d'éprouvettes à section circulaire, dont la distance entre repères (zeta) est égale à cinq fois le diamètre d; en cas d'emploi d'éprouvettes à section rectangulaire, la distance entre repères doit être calculée par la formule [(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf),dans laquelle F(índice 0) désigne la section primitive de l'éprouvette.
 
 3. Le coefficient de pliage k est défini comme suit: k = 50 (s/r), étant donné que s = épaisseur de la paroi en centimètres et r = rayon moyen de courbure en centimètres. Pour calculer la valeur effective de k dans les zones de traction extérieure et intérieure, il faut tenir compte du coefficient de pliage k(índice 0) à l'état initial (rayon moyen r(índice 0)).
 
@@ -4422,7 +4430,7 @@ Nº 8 (verre à pied rouge): prescrite aux marginaux 2151 (1) et (2), 2187 (2), 
 
 Reproduction réduite: 1/24 du format normal A5 (148 mm x 210 mm)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Accord européen relatif au transport international de marchandises dangereuses par route (ADR)
 
@@ -4626,7 +4634,7 @@ A. Cas dans lesquels certaines prescriptions de l'annexe B ne s'appliquent pas
 
 4010 (1) Le tableau ci-après indique les poids maximaux de marchandises de l'ADR dont le transport dans une même unité de transport peut avoir lieu sans que les clauses de la présente annexe ou de ses appendices relatives aux conditions spéciales à remplir par les véhicules et à la circulation des véhicules soient applicables, le marginal 4132 relatif aux mesures administratives prévues pour la circulation des véhicules transportant des matières et objets des classes Ia, Ib et Ic restant toutefois valable ainsi que les clauses de la présente annexe autres que celles relatives aux conditions spéciales à remplir par les véhicules et à la circulation des véhicules, et ainsi que les clauses de l'annexe A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (2) Pour l'application du paragraphe (1) ci-dessus il ne sera pas tenu compte des poids des liquides ou des gaz transportés dans les réservoirs normaux fixes des véhicules pour assurer la propulsion des véhicules ou le fonctionnement de leurs équipements spécialisés (frigorifiques, par exemple) et pour garantir leur sécurité.
 
@@ -5960,11 +5968,11 @@ Nota. - La peinture des citernes ne sera pas considérée comme une protection c
 
 (4) Les pressions auxquelles les citernes qui sont munies d'une protection calorifuge conforme aux prescriptions du paragraphe (3), dont le diamètre est supérieur à 1,5 m et qui sont destinées au transport des gaz liquéfiés des 4º à 8º doivent être soumises au moment de l'épreuve de pression hydraulique (pression d'épreuve) et les degrés de remplissage maximaux admissibles sont les suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (5) Les pressions auxquelles les citernes qui sont munies d'une protection calorifuge conforme aux prescriptions du paragraphe (3), dont le diamètre est supérieur à 1,5 m et qui sont destinées au transport des gaz liquéfiés des 9º et 10º doivent être soumises au moment de l'épreuve de pression hydraulique (pression d'épreuve) et les degrés de remplissage maximaux admissibles sont les suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Conditions spéciales pour le transport des gaz liquéflés inflammables énumérés au marginal 4801, b), de l'appendice B.2
 
@@ -6414,7 +6422,7 @@ b) Por «mercadorias perigosas», as substâncias e objectos cujo transporte int
 
 c) Por «transporte internacional», qualquer transporte efectuado no território de pelo menos duas Partes Contratantes pelos veículos definidos na alínea a) acima.
 
-###### ARTIGO 2
+ARTIGO 2
 
 1. Com reserva das disposições do parágrafo 3 do artigo 4, as mercadorias perigosas cujo transporte é proibido pelo anexo A não devem ser aceites para transporte internacional.
 
@@ -6424,11 +6432,11 @@ a) As condições impostas pelo anexo A para as mercadorias em causa, em particu
 
 b) As condições impostas pelo anexo B, em particular quanto à construção, equipamento e circulação do veículo que transporta as mercadorias em causa, com reserva das pescrições do parágrafo 2 do artigo 4.
 
-###### ARTIGO 3
+ARTIGO 3
 
 Os anexos do presente Acordo fazem parte integrante do dito Acordo.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1. Cada Parte Contratante conserva o direito de regulamentar ou proibir, por outras razões além das de segurança em trânsito, a entrada de mercadorias perigosas no seu território.
 
@@ -6436,11 +6444,11 @@ Os anexos do presente Acordo fazem parte integrante do dito Acordo.
 
 3. As Partes Contratantes conservam o direito de convencionar, por acordos particulares bilaterais ou multilaterais, que certas mercadorias perigosas de que o presente Acordo proíbe qualquer transporte internacional possam, sob certas condições, ser aceites para transporte internacional nos seus territórios, ou que mercadorias perigosas de que o presente Acordo só autoriza o transporte internacional em condições determinadas possam ser aceites nos seus territórios para transportes internacionais em condições menos rigorosas que as impostas pelos anexos do presente Acordo. Os acordos particulares, bilaterais ou multilaterais, previstos pelo presente parágrafo serão comunicados ao secretário-geral da Organização das Nações Unidas, que os comunicará às Partes Contratantes não signatárias desses acordos.
 
-###### ARTIGO 5
+ARTIGO 5
 
 Os transportes aos quais se aplica o presente Acordo ficam submetidos às prescrições nacionais ou internacionais relativas, de maneira geral, à circulação rodoviária, aos transportes rodoviários internacionais ou às trocas internacionais de mercadorias.
 
-###### ARTIGO 6
+ARTIGO 6
 
 1. Os países membros da Comissão Económica para a Europa e os países admitidos na Comissão a título consultativo em conformidade com o parágrafo 8 do mandato desta Comissão, podem tornar-se Partes Contratantes do presente Acordo:
 
@@ -6456,31 +6464,31 @@ c) Aderindo a este Acordo.
 
 4. A ratificação ou adesão será efectuada pelo depósito de um instrumento junto do secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 7
+ARTIGO 7
 
 1. O presente Acordo entrará em vigor um mês após a data em que seja de cinco o número dos países mencionados no parágrafo 1 do artigo 6 que tenham assinado sem reserva de ratificação, ou tenham depositado o seu instrumento de ratificação ou de adesão. No entanto, os seus anexos só se aplicarão seis meses depois da entrada em vigor do Acordo pròpriamente dito.
 
 2. Para cada país que ratificar o presente Acordo ou a este aderir depois de os cinco países mencionados no parágrafo 1 do artigo 6 o terem assinado sem reserva de ratificação ou tiverem depositado o seu instrumento de ratificação ou de adesão, o presente Acordo entrará em vigor um mês após o depósito do instrumento de ratificação ou de adesão do dito país, e os seus anexos serão aplicados quanto a esse país, na mesma data, se já estiverem em vigor nesse momento, ou, na falta disso, na data em que forem aplicados em virtude das disposições do parágrafo 1 do presente artigo.
 
-###### ARTIGO 8
+ARTIGO 8
 
 1. Qualquer Parte Contratante poderá denunciar o presente Acordo por notificação dirigida ao secretário-geral da Organização das Nações Unidas.
 
 2. A denúncia terá efeito doze meses depois da data em que o secretário-geral dela receba notificação.
 
-###### ARTIGO 9
+ARTIGO 9
 
 1. O presente Acordo deixará de produzir efeitos se, depois da sua entrada em vigor, o número das Partes Contratantes for inferior a cinco durante doze meses consecutivos.
 
 2. No caso de vir a estabelecer-se um acordo mundial que regule o transporte das mercadorias perigosas, qualquer disposição do presente Acordo que esteja em contradição com algumas das disposições desse acordo mundial, nas relações entre as Partes do presente Acordo que se tornarem Partes no acordo mundial, e a contar do dia da entrada em vigor deste, será automàticamente abolida e substituída ipso facto pela respectiva disposição do acordo mundial.
 
-###### ARTIGO 10
+ARTIGO 10
 
 1. Qualquer país poderá, logo que tenha assinado o presente Acordo sem reserva de ratificação ou quando do depósito do seu instrumento de ratificação ou de adesão, ou em qualquer momento ulterior, declarar, por notificação dirigida ao secretário-geral da Organização das Nações Unidas, que o presente Acordo será aplicado a todos ou a parte dos territórios que representa no plano internacional. O Acordo e seus anexos serão aplicáveis ao território ou territórios mencionados na notificação um mês após a recepção dessa notificação pelo secretário-geral.
 
 2. Qualquer país que tenha feito, em conformidade com o parágrafo 1 do presente artigo, uma declaração destinada a tornar o presente Acordo aplicável a um território que ele representa no plano internacional poderá, em conformidade com o artigo 8, denunciar o Acordo no que diz respeito ao dito território.
 
-###### ARTIGO 11
+ARTIGO 11
 
 1. Qualquer diferendo entre duas ou mais Partes Contratantes quanto à interpretação ou aplicação do presente Acordo será, tanto quanto possível, regulada por meio de negociação entre as Partes em litígio.
 
@@ -6488,13 +6496,13 @@ c) Aderindo a este Acordo.
 
 3. A sentença do árbitro ou árbitros designados em conformidade com o parágrafo 2 do presente artigo será obrigatória para as Partes Contratantes em litígio.
 
-###### ARTIGO 12
+ARTIGO 12
 
 1. Qualquer Parte Contratante poderá no momento de assinar ou ratificar o presente Acordo ou a este aderir declarar que não se considera obrigada pelo artigo 11. As outras Partes Contratantes não ficarão obrigadas pelo artigo 11, em relação a qualquer Parte Contratante que tenha formulado tal reserva.
 
 2. Qualquer Parte Contratante que tenha formulado uma reserva em conformidade com o parágrafo 1 do presente artigo poderá em qualquer momento levantar esta reserva por notificação dirigida ao secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 13
+ARTIGO 13
 
 1. Depois de o presente Acordo ter estado em vigor durante três anos, qualquer Parte Contratante poderá, por notificação dirigida ao secretário-geral da Organização das Nações Unidas, pedir a convocação de uma conferência com o fim de rever o texto do Acordo. O secretário-geral comunicará esse pedido a todas as Partes Contratantes e convocará uma conferência de revisão se, no prazo de quatro meses a partir da sua notificação, pelo menos um quarto das Partes Contratantes lhe comunicar o seu assentimento a esse pedido.
 
@@ -6502,7 +6510,7 @@ c) Aderindo a este Acordo.
 
 3. O secretário-geral convidará para qualquer conferência, convocada em conformidade com o presente artigo, todos os países indicados no parágrafo 1 do artigo 6, assim como os países que se tornaram Partes Contratantes por aplicação do parágrafo 2 do artigo 6.
 
-###### ARTIGO 14
+ARTIGO 14
 
 1. Independentemente do processo de revisão previsto no artigo 13, qualquer Parte Contratante pode propor uma ou mais emendas aos anexos do presente acordo. Com esse fim transmitirá o seu texto ao secretário-geral da Organização das Nações Unidas. Para obter a concordância desses anexos com os outros acordos internacionais relativos ao transporte de mercadorias perigosas, o secretário-geral pode também propor emendas aos anexos do presente Acordo.
 
@@ -6518,7 +6526,7 @@ b) Das organizações internacionais não governamentais cujas actividades estã
 
 6. Qualquer emenda aceite por mais de metade do número total das Partes Contratantes numa reunião convocada em conformidade com o parágrafo 5 do presente artigo entrará em vigor para todas as Partes Contratantes em conformidade com as modalidades decididas na dita reunião pela maioria das Partes Contratantes presentes na reunião.
 
-###### ARTIGO 15
+ARTIGO 15
 
 Além das notificações previstas nos artigos 13 e 14, o secretário-geral da Organização das Nações Unidas comunicará aos países designados no parágrafo 1 do artigo 6, assim como aos países que se tornaram Partes Contratantes por aplicação do parágrafo 2 do artigo 6:
 
@@ -6536,13 +6544,13 @@ f) As declarações e notificações recebidas em conformidade com os parágrafo
 
 g) A aceitação e a data de entrada em vigor das emendas em conformidade com os parágrafos 3 e 6 do artigo 14.
 
-###### ARTIGO 16
+ARTIGO 16
 
 1. O Protocolo de assinatura do presente Acordo terá a mesma força, valor e duração que o próprio Acordo, de que é considerado parte integrante.
 
 2. Nenhuma reserva ao presente Acordo é admitida, além das inscritas no Protocolo de assinatura e das formuladas em conformidade com o artigo 12.
 
-###### ARTIGO 17
+ARTIGO 17
 
 Depois de 15 de Dezembro de 1957, o original do presente Acordo será depositado junto do secretário-geral da Organização das Nações Unidas, que enviará cópias devidamente certificadas a cada um dos países mencionados no parágrafo 1 do artigo 6.
 
@@ -6550,7 +6558,7 @@ Em fé do que os abaixo assinados, para isso devidamente autorizados, assinaram 
 
 Feito em Genebra, aos 30 de Setembro de 1957, num só exemplar, em línguas inglesa e francesa para o texto do Acordo própriamente dito e em língua francesa para os anexos, fazendo os dois textos fé por igual para o Acordo pròpriamente dito.
 
-**O secretário-geral da Organização das Nações Unidas é convidado a elaborar uma tradução válida dos anexos em língua inglesa e a juntar essa tradução às cópias devidamente certificadas referidas no artigo 17.**
+O secretário-geral da Organização das Nações Unidas é convidado a elaborar uma tradução válida dos anexos em língua inglesa e a juntar essa tradução às cópias devidamente certificadas referidas no artigo 17.
 
 Protocolo de assinatura do Acordo europeu relativo ao transporte internacional de mercadorias perigosas por estrada (ADR)
 
@@ -6566,7 +6574,9 @@ Decidem que, até à entrada em vigor deste apêndice especial, as mercadorias p
 
 3. Recomendam que, na medida do possível, antes de serem apresentadas em conformidade com o parágrafo 1 do artigo 14 ou com o parágrafo 2 do artigo 13, as propostas de emendas do presente Acordo ou dos seus anexos sejam objecto de uma discussão prévia em reuniões de peritos das Partes Contratantes e, se necessário, dos outros países designados no parágrafo 1 do artigo 6 do Acordo, assim como das organizações internacionais mencionadas no parágrafo 5 do artigo 14 do Acordo. Acordo europeu relativo ao transporte internacional de mercadorias perigosas por estrada (ADR)
 
-## ANEXO A — Prescrições relativas às matérias e objectos perigosos
+ANEXO A
+
+Prescrições relativas às matérias e objectos perigosos
 
 Sumário
 
@@ -6640,23 +6650,23 @@ Matérias diversas ... 2700-3099
 
 III PARTE
 
-## Apêndice do anexo A
+Apêndice do anexo A
 
-## Apêndice A.1:
+Apêndice A.1:
 
 A. Condições de estabilidade e segurança relativas às matérias explosivas e às matérias sólidas inflamáveis ... 3100-3149
 
 B. Regras relativas às provas ... 3150-3199
 
-## Apêndice A.2:
+Apêndice A.2:
 
 Directivas relativas à natureza dos recipientes em ligas de alumínio para alguns gases da classe Id ... 3200-3299
 
-## Apêndice A.3:
+Apêndice A.3:
 
 Provas relativas às matérias líquidas inflamáveis da classe IIIa ... 3300-3499
 
-## Apêndice A.4:
+Apêndice A.4:
 
 1. Prescrições relativas às etiquetas de perigo ... 3500-3502
 
@@ -7816,7 +7826,7 @@ Mistura C, têm a 70ºC uma tensão de vapor que não excede 31 kg/cm2 e a 50ºC
 
 Nota. - Para as misturas já citadas, os nomes comerciais seguintes são aceites para a designação dessas matérias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Para o butano, ver também marginal 2131a, em d).
 
@@ -7832,7 +7842,7 @@ b) Diclorodifluorometano, dicloromonofluorometano, monoclorodifluorometano, dicl
 
 Nota. - Para os gases já citados, os nomes comerciais seguintes são aceites para a designação dessas matérias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 c) As misturas de matérias enumeradas em 8.º, b), que, como a
 
@@ -8122,7 +8132,7 @@ c. Pressão de prova e enchimento dos recipientes
 
 (2) Para os gases liquefeitos do 4.º a 8.º deverão observar-se os valores abaixo para a pressão hidráulica a aplicar aos recipientes quando da prova (pressão de prova), assim como para o grau de enchimento máximo admissível (ver nota *):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (nota *) 1. Os valores mínimos prescritos abaixo para as pressões de prova são pelo menos iguais às tensões de vapor dos líquidos a 70ºC, diminuídos de 1 kg/cm2, sendo o mínimo de pressão de prova exigido, no entanto, de 10 kg/cm2.
 
@@ -8130,11 +8140,11 @@ c. Pressão de prova e enchimento dos recipientes
 
 3. Os valores máximos prescritos abaixo para o peso de líquido por litro foram determinados segundo a relação seguinte: grau de enchimento máximo admissível = 0,95 vezes a densidade da fase líquida a 50ºC, não devendo além disso a fase a vapor desaparecer abaixo de 60ºC.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (3) Para os gases do 9.º e 10.º a pressão interior a 65ºC não deverá exceder a pressão de prova para o recipiente. O grau de enchimento máximo admissível dos recipientes é fixado segundo as pressões de prova. Os valores seguintes deverão ser observados [ver também em (4) e (5)]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (4) No caso em que se utilizem para as matérias do 9.º e 10.º recipientes que tenham sido submetidos a uma pressão de prova inferior à indicada em (3), o enchimento máximo deverá satisfazer a condição indicada em (3), segundo a qual a pressão realizada no interior do recipiente pela matéria em causa a 65ºC não deverá ultrapassar a pressão de prova marcada no recipiente.
 
@@ -8142,7 +8152,7 @@ c. Pressão de prova e enchimento dos recipientes
 
 2148 (1) Para os gases dissolvidos sob pressão do 12.º e 13.º, os valores seguintes deverão ser observados no respeitante às pressões interiores (pressões de prova) a aplicar quando da prova de pressão hidráulica e o grau de enchimento máximo admissível:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (2) Para o acetileno dissolvido (13.º), a pressão de carregamento não deverá ultrapassar 15 kg/cm2, uma vez o equilíbrio realizado a 15ºC. A quantidade de solvente deverá, a uma temperatura referida a 15ºC, ser tal que o aumento de volume que sofre ao absorver o acetileno à pressão de carregamento deixe no interior da massa porosa um volume livre igual a 12% pelo menos de capacidade do recipiente em água.
 
@@ -10294,7 +10304,7 @@ III PARTE
 
 Apêndices
 
-## APÊNDICE A.1
+APÊNDICE A.1
 
 A. Condições de estabilidade e segurança relativas às matérias explosivas e às matérias sólidas inflamáveis
 
@@ -10484,11 +10494,11 @@ d) A prova de choque é normalmente executada com uma massa de queda de 2 kg; no
 
 Esquema 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Esquema 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 3156 Prova de sensibilidade ao atrito
 
@@ -10526,17 +10536,17 @@ Nota-se o tempo ao fim do qual aparecem os primeiros vestígios de gotinhas oleo
 
 Aparelho para a prova de exsudação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Recipientes em ligas de alumínio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf) APÊNDICE A.2 Directivas relativas à natureza dos recipientes de ligas de alumínio para alguns gases da classe Id
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf) APÊNDICE A.2 Directivas relativas à natureza dos recipientes de ligas de alumínio para alguns gases da classe Id
 
 A. Qualidade do material
 
 3200 (1) Os materiais dos recipientes de ligas de alumínio, que são aceites para os gases mencionados no marginal 2133 (2), alínea 2, deverão corresponder às exigências seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Os valores intermediários deverão ser tirados dos diagramas que constituem o complemento do presente apêndice.
 
@@ -10548,7 +10558,7 @@ Pressão de prova até 60 kg/cm2: ligas de alumínio, de silício e de magnésio
 
 Pressão de prova acima de 60 até 375 kg/cm2: ligas de alumínio, de cobre e de magnésio.
 
-2. O alongamento à ruptura (zeta = 5 d) é medido por meio de provetas de secção circular, com uma distância entre marcas (zeta) igual a cinco vezes o diâmetro d; no caso de utilização de provetas de secção rectangular, a distância entre marcas deverá ser calculada pela fórmula (zeta) = 5,65 [([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf), na qual F(índice 0) designa a secção primitiva da proveta.
+2. O alongamento à ruptura (zeta = 5 d) é medido por meio de provetas de secção circular, com uma distância entre marcas (zeta) igual a cinco vezes o diâmetro d; no caso de utilização de provetas de secção rectangular, a distância entre marcas deverá ser calculada pela fórmula (zeta) = 5,65 [(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf), na qual F(índice 0) designa a secção primitiva da proveta.
 
 3. O coeficiente de dobragem k é definido como segue: k = 50(s/r), sendo s = espessura da parede em centímetros e r = raio médio de curvatura em centímetros. Para calcular o Valor efectivo de k nas zonas de tracção exterior e interior é preciso ter em conta o coeficiente de dobragem k(índice 0) no estado inicial (raio médio r(índice 0)).
 
@@ -10584,7 +10594,7 @@ C. Protecção da superfície interior
 
 3299
 
-## APÊNDICE A.3
+APÊNDICE A.3
 
 Provas relativas às matérias líquidas inflamáveis da classe IIIa
 
@@ -10624,7 +10634,7 @@ Deita-se num vaso de Erlenmeyer uma massa p (próxima de 5 g, pesada com a aprox
 
 3499
 
-## APÊNDICE A.4
+APÊNDICE A.4
 
 1. Prescrições relativas às etiquetas de perigo
 
@@ -10680,11 +10690,13 @@ Etiquetas de perigo
 
 Reprodução reduzida: 1/24 do formato normal A5 (148 mm x 210 mm)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Acordo europeu relativo ao transporte in ernacional das mercadorias perigosas por estrada (ADR)
 
-## ANEXO B — Disposições relativas aos engenhos de transporte
+ANEXO B
+
+Disposições relativas aos engenhos de transporte
 
 SUMÁRIO I PARTE
 
@@ -10752,19 +10764,19 @@ IV PARTE
 
 Apêndices
 
-## Apêndice B.1:
+Apêndice B.1:
 
 Cisternas ... 4600-4799
 
-## Apêndice B.2:
+Apêndice B.2:
 
 Equipamento eléctrico ... 4800-4899
 
-## Apêndice B.3:
+Apêndice B.3:
 
 Extintores de incêndio ... 4900-4949
 
-## Apêndice B.4:
+Apêndice B.4:
 
 Certificado de aceitação ... -
 
@@ -10858,11 +10870,11 @@ G. Disposições diversas, disposições transitórias, disposições especiais 
 
 Finalmente, quatro apêndices:
 
-## Apêndice B.1, que compreende as disposições relativas às cisternas (veículos-cisternas, cisternas desmontáveis e grandes containers-cisternas).
+Apêndice B.1, que compreende as disposições relativas às cisternas (veículos-cisternas, cisternas desmontáveis e grandes containers-cisternas).
 
-## Apêndice B.2, relativo ao equipamento eléctrico dos veículos que transportam certos objectos ou matérias.
+Apêndice B.2, relativo ao equipamento eléctrico dos veículos que transportam certos objectos ou matérias.
 
-## Apêndice B.3, relativo aos extintores de incêndio que devem ter os veículos. Apêndice B.4, que indica o modelo do certificado de aceitação dos veículos.
+Apêndice B.3, relativo aos extintores de incêndio que devem ter os veículos. Apêndice B.4, que indica o modelo do certificado de aceitação dos veículos.
 
 4003-
 
@@ -10876,7 +10888,7 @@ A. Casos nos quais certas prescrições do anexo B não se aplicam
 
 4010 (1) O quadro a seguir indica os pesos máximos de mercadorias do ADR cujo transporte na mesma unidade de transporte pode ter lugar sem que as cláusulas do presente anexo ou dos seus apêndices relativos às condições especiais a preencher pelos veículos e à circulação dos veículos sejam aplicáveis, mantendo-se no entanto válido o marginal 4132, relativo às medidas administrativas previstas para a circulação dos veículos que transportam matérias ou objectos das classes Ia, Ib e Ic, assim como as clausulas do presente anexo, que não as relativas às condições especiais a preencher pelos veículos e à circulação dos veículos, e assim como as cláusulas do anexo A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (2) Para a aplicação do parágrafo (1) acima, não se terão em conta os pesos dos líquidos ou gases transportados nos reservatórios normais fixos dos veículos para assegurar a propulsão dos veículos ou o funcionamento dos seus equipamentos especializados (frigoríficos, por exemplo) e para garantir a sua segurança.
 
@@ -12084,7 +12096,7 @@ IV PARTE
 
 Apêndices
 
-## APÊNDICE B.1
+APÊNDICE B.1
 
 Disposições relativas às cisternas (Veículos-cisternas, cisternas desmontáveis e grandes «containers»-cisternas)
 
@@ -12204,11 +12216,11 @@ Nota. - A pintura das cisternas não será considerada protecção calorífuga s
 
 (4) As pressões às quais as cisternas com protecção calorífuga em conformidade com as prescrições do parágrafo (3), com diâmetro superior a 1,5 m e destinadas ao transporte dos gases liquefeitos do 4.º a 8.º deverão ser submetidas no momento da prova de pressão hidráulica (pressão de prova) e os graus de enchimento máximos admitidos são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 (5) As pressões a que as cisternas com protecção calorífuga em conformidade com as prescrições do parágrafo (3), com diâmetro superior a 1,5 m e destinadas ao transporte dos gases liquefeitos do 9.º e 10.º, deverão ser submetidas no momento da prova de pressão hidráulica (pressão de prova) e os graus de enchimento máximos admitidos são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22101/11971376.pdf)
 
 Condições especiais para o transporte de gases liquefeitos inflamáveis enumerados no marginal 4801, b), do apêndice B.2
 
@@ -12466,7 +12478,7 @@ c) As cisternas terão um fecho que impeça simultâneamente a formação de uma
 
 4799
 
-## APÊNDICE B.2
+APÊNDICE B.2
 
 Equipamento eléctrico
 
@@ -12586,7 +12598,7 @@ c) Os condutores eléctricos terão invólucro estanque; qualquer instalação e
 
 4899
 
-## APÊNDICE B.3
+APÊNDICE B.3
 
 Extintores de incêndio
 
@@ -12594,7 +12606,7 @@ Extintores de incêndio
 
 4949
 
-## APÊNDICE B.4
+APÊNDICE B.4
 
 (Ver marginal 4011)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/26500/16621663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1972-686058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d143819a889e69f942e30374d253058d0f9c106da5dab90a76cb0ca28a630e79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2126c98bc67f89f9ee148d07385614b5a0c8446bf5b43a3229b112478737a55e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Individual de Trabalho
+- Gratificação
+- Pagamento
+- Regime Jurídico
+- Remuneração Acessória
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:501204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:501204:por
+  label: "Revogado pelo DEC LEI.223/76.30.03.1976.MT, DG.IS [76] de 30.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1976-501204
+  date: '1976-03-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:36Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +116,15 @@ Nestes termos, ouvida a Câmara Corporativa:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os subsídios ou gratificações previstos nas normas reguladoras dos contratos individuais o trabalho só deverão ser prestados pelas entidades patronais aos trabalhadores com assiduidade na parte decorrida do ano civil a que aqueles respeitam.
+Artigo 1.º - 1. Os subsídios ou gratificações previstos nas normas reguladoras dos contratos individuais o trabalho só deverão ser prestados pelas entidades patronais aos trabalhadores com assiduidade na parte decorrida do ano civil a que aqueles respeitam.
 
 2. Para os efeitos do número anterior, as gratificações estabelecidas em função do volume dos negócios da entidade patronal consideram-se respeitantes ao trabalho prestado no ano civil precedente.
 
-###### Art. 2.º - 1. Ficam abrangidas pelo disposto no artigo anterior as prestações que, em relação a cada ano completo de duração do contrato de trabalho, não estejam compreendidas na retribuição correspondente a doze meses, vinte e seis quinzenas ou cinquenta e duas semanas de trabalho.
+Art. 2.º - 1. Ficam abrangidas pelo disposto no artigo anterior as prestações que, em relação a cada ano completo de duração do contrato de trabalho, não estejam compreendidas na retribuição correspondente a doze meses, vinte e seis quinzenas ou cinquenta e duas semanas de trabalho.
 
 2. Sempre que a natureza do subsídio ou gratificação ou outras circunstânciais atendíveis imponham a sua referenciação a período diferente do ano, será tomado como base de cálculo o número correspondente de meses, quinzenas ou semanas.
 
-###### Art. 3.º Exceptuando-se ao disposto no artigo 1.º, ficando, porém, subordinados aos pressupostos que as pertinentes normas especifiquem:
+Art. 3.º Exceptuando-se ao disposto no artigo 1.º, ficando, porém, subordinados aos pressupostos que as pertinentes normas especifiquem:
 
 a) Os subsídios de férias, até um mês de retribuição;
 
@@ -135,7 +146,7 @@ i) Os subsídios de alimentação;
 
 j) Os subsídios de frequência escolar.
 
-###### Art. 4.º - 1. Para os efeitos do presente diploma, consideram-se com assiduidade os trabalhadores cujas faltas, durante o período de referência, não excedam 1/15 dos dias de trabalho nele compreendidos.
+Art. 4.º - 1. Para os efeitos do presente diploma, consideram-se com assiduidade os trabalhadores cujas faltas, durante o período de referência, não excedam 1/15 dos dias de trabalho nele compreendidos.
 
 2. Na apreciação da assiduidade não serão computadas as faltas devidas a:
 
@@ -151,22 +162,22 @@ e) Prestação de testemunho em juízo;
 
 f) Prestação de exame em estabelecimento de ensino oficial ou equiparado.
 
-###### Art. 5.º - 1. O montante dos subsídios ou gratificações referenciados no artigo 1.º, quando os houver, passará a constar necessàriamente de instrumentos de regulamentação colectiva ou de regulamentos de empresa, os quais não poderão, contudo, subordinar a atribuição daqueles a condições diversas das que o presente decreto-lei estabelece.
+Art. 5.º - 1. O montante dos subsídios ou gratificações referenciados no artigo 1.º, quando os houver, passará a constar necessàriamente de instrumentos de regulamentação colectiva ou de regulamentos de empresa, os quais não poderão, contudo, subordinar a atribuição daqueles a condições diversas das que o presente decreto-lei estabelece.
 
 2. Sem prejuízo do disposto no número anterior, os instrumentos de regulamentação colectiva e os regulamentos de empresa poderão consagrar a atribuição de complementos dos subsídios ou gratificações referidos no artigo 1.º aos trabalhadores cujas faltas durante o período de referência não ultrapassarem 1/60 dos dias de trabalho nele compreendidos.
 
-###### Art. 6.º - 1. Sem prejuízo do preceituado no artigo 1.º é pressuposto do direito aos subsídios ou gratificações estabelecidos em referência a certas datas festivas ou épocas do ano a subsistência do contrato de trabalho quando ocorram essas datas ou épocas.
+Art. 6.º - 1. Sem prejuízo do preceituado no artigo 1.º é pressuposto do direito aos subsídios ou gratificações estabelecidos em referência a certas datas festivas ou épocas do ano a subsistência do contrato de trabalho quando ocorram essas datas ou épocas.
 
 2. O disposto no número anterior não se aplica ao subsídio de férias.
 
 3. A cessação dos contratos de duração determinada, antes de expirado o respectivo prazo, por causa não imputável ao trabalhador, dá-lhe o direito de exigir o pagamento dos subsídios ou gratificações referidos no n.º 1 deste artigo que receberia se o contrato tivesse a duração prevista.
 
-###### Art. 7.º O regime estabelecido neste decreto-lei entende-se sem prejuízo das normas gerais reguladoras dos efeitos das faltas ao trabalho.
+Art. 7.º O regime estabelecido neste decreto-lei entende-se sem prejuízo das normas gerais reguladoras dos efeitos das faltas ao trabalho.
 
 Vista e aprovada em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 14 da Novembro de 1972.**
+Promulgado em 14 da Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

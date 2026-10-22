@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49045-1969-200400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35c535dce672a8527b004de24ce820f3909b7b68ac8f8e14589c4ed91357274e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec7592c52c4c4d008deb8a103f31f92a8d5e168d7c1c9de197e408c854d5bb63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Comando de ZONA Aérea
+- Comando Militar
+- Comando Naval
+- Crime
+- Estrada
+- Fiscalização
+- Fiscalização Rodoviária
+- Força Aérea
+- Instalação Militar
+- Militar
+- Polícia Aérea
+- Polícia Judiciária Militar
+- Polícia Marítima
+- Prédio Militar
+- Quartel
+- Região Militar
+- Trânsito
+- Veículo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:35Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +109,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Código da Estrada e o respectivo regulamento são aplicáveis nas vias rodoviárias não abertas ao trânsito público existentes em áreas sob jurisdição militar.
+Artigo 1.º O Código da Estrada e o respectivo regulamento são aplicáveis nas vias rodoviárias não abertas ao trânsito público existentes em áreas sob jurisdição militar.
 
-###### Art. 2.º - 1. Pertence aos comandos ou direcções das unidades e estabelecimentos militares de que dependam as áreas referidas no artigo anterior a competência para regulamentar o trânsito nas vias rodoviárias nelas existentes.
+Art. 2.º - 1. Pertence aos comandos ou direcções das unidades e estabelecimentos militares de que dependam as áreas referidas no artigo anterior a competência para regulamentar o trânsito nas vias rodoviárias nelas existentes.
 
 2. A fiscalização nas vias não abertas ao trânsito público será exercida pela Polícia Militar, Naval ou Aérea, conforme os casos, sempre que exista, ou pelas forças locais das unidades e estabelecimentos militares.
 
@@ -100,12 +119,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os autos de notícia das infracções ao Código da Estrada cometidas naquelas mesmas vias por civis não pertencentes aos quadros do pessoal civil dos Ministérios do Exército e da Marinha ou da Secretaria de Estado da Aeronáutica serão enviados pelos comandantes ou directores das respectivas unidades ou estabelecimentos militares à autoridade civil competente, que promoverá a aplicação das sanções previstas na lei e, sendo caso disso, a sua remessa para o tribunal competente.
 
-###### Art. 3.º Os comandos ou direcções referidos no artigo 2.º celebrarão com a autoridade civil competente os acordos necessários à boa execução do preceituado neste diploma, os quais deverão ser homologados por despacho conjunto dos Ministros respectivos e do Ministro das Comunicações.
+Art. 3.º Os comandos ou direcções referidos no artigo 2.º celebrarão com a autoridade civil competente os acordos necessários à boa execução do preceituado neste diploma, os quais deverão ser homologados por despacho conjunto dos Ministros respectivos e do Ministro das Comunicações.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Mário Júlio Brito de Almeida Costa - Fernando Alberto de Oliveira.
 
-**Promulgado em 28 de Maio de 1969.**
+Promulgado em 28 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

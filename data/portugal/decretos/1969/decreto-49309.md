@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49309-1969-216138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b3dfc694879b842f8f18fc4a498df3d246e886a330d3fcc5a0e8a1a7ac377b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f8cb9eb2496f5791154e12edcdc68faed70d25ca18487adb15e3da45a27821e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:40Z'
   warnings: []
   errors: []
 ---
@@ -84,16 +84,16 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É alterada a redacção da alínea c) do n.º 1 do artigo 89.º do Decreto n.º 47847, de 14 de Agosto de 1967, que passa a ser a seguinte:
+Artigo 1.º É alterada a redacção da alínea c) do n.º 1 do artigo 89.º do Decreto n.º 47847, de 14 de Agosto de 1967, que passa a ser a seguinte:
 
 c) Utilizar mais de dois cães por caçador, excepto na caça de coelhos, na qual cada caçador ou grupo de caçadores pode utilizar matilhas com um máximo de oito cães no continente e doze cães nas ilhas adjacentes.
 
-###### Art. 2.º O presente decreto entra imediatamente em vigor.
+Art. 2.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 13 de Outubro de 1969.**
+Promulgado em 13 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

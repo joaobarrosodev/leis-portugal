@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12400/12301231.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1980-474567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af78becce4f2b84b01db81003860b67c4aa64ff472573904cc81d24fd39a77fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2f76324cf9647ee4712b32590e37903b2a525932b3f50a4c16852267da5eaa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doença Infecciosa
+- Faltas
+- Função Pública
 relationships:
 - type: amended_by
   target: pt:dre:401756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:264899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401756:por
+  label: "Revogado pelo DEC LEI.497/88.1988.12.30.MF, DR.IS [301]7ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1988-401756
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:02Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +118,11 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O regime de justificação das faltas dadas por motivo de doença infecto-contagiosa é o estabelecido na lei que regula em geral a justificação de faltas por motivo de doença.
+Artigo 1.º O regime de justificação das faltas dadas por motivo de doença infecto-contagiosa é o estabelecido na lei que regula em geral a justificação de faltas por motivo de doença.
 
-###### Art. 2.º As faltas dadas por funcionário ou agente que, embora não atingido por doença ou já restabelecido da mesma, estiver impedido de comparecer ao serviço, em cumprimento de determinação emitida ao abrigo da legislação em vigor sobre doenças infecto-contagiosas pelo delegado ou subdelegados de saúde da respectiva área, deverão ser justificadas nos termos dos artigos seguintes.
+Art. 2.º As faltas dadas por funcionário ou agente que, embora não atingido por doença ou já restabelecido da mesma, estiver impedido de comparecer ao serviço, em cumprimento de determinação emitida ao abrigo da legislação em vigor sobre doenças infecto-contagiosas pelo delegado ou subdelegados de saúde da respectiva área, deverão ser justificadas nos termos dos artigos seguintes.
 
-###### Art. 3.º - 1 - As faltas referidas no artigo anterior serão justificadas por atestado do médico assistente, devidamente confirmado pela autoridade sanitária competente.
+Art. 3.º - 1 - As faltas referidas no artigo anterior serão justificadas por atestado do médico assistente, devidamente confirmado pela autoridade sanitária competente.
 
 2 - Do atestado referido no número anterior deve obrigatoriamente constar a data da cura, quando o isolamento for posterior ao período de doença.
 
@@ -110,22 +130,22 @@ O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constit
 
 4 - O atestado deverá ser apresentado nos serviços no prazo de oito dias, contados desde a primeira falta dada pelos motivos indicados no artigo 2.º, e observar as formalidades exigidas na lei geral para o atestado por doença.
 
-###### Art. 4.º - 1 - Se a autoridade sanitária não puder determinar data certa para termo do período de isolamento por entender ser necessária a realização de exames laboratoriais ou de outra natureza, deverá estabelecer, na própria confirmação, prazo para apresentação, pelo interessado, dos resultados desses exames.
+Art. 4.º - 1 - Se a autoridade sanitária não puder determinar data certa para termo do período de isolamento por entender ser necessária a realização de exames laboratoriais ou de outra natureza, deverá estabelecer, na própria confirmação, prazo para apresentação, pelo interessado, dos resultados desses exames.
 
 2 - A mesma autoridade comunicará aos serviços de que dependa o interessado a data certa para termo do período de isolamento logo que sejam apresentados os resultados dos exames e, caso estes não tenham sido apresentados dentro do prazo previamente estabelecido, se considera ou não justificada a não observância do mesmo prazo.
 
-###### Art. 5.º - 1 - A não apresentação do atestado devidamente confirmado no prazo e termos estabelecidos no artigo 3.º determina que sejam consideradas como injustificadas todas as faltas dadas ao serviço até à data da apresentação do mesmo.
+Art. 5.º - 1 - A não apresentação do atestado devidamente confirmado no prazo e termos estabelecidos no artigo 3.º determina que sejam consideradas como injustificadas todas as faltas dadas ao serviço até à data da apresentação do mesmo.
 
 2 - São igualmente consideradas injustificadas as faltas dadas entre o termo do prazo determinado pela autoridade sanitária para a apresentação dos resultados dos exames e a data de apresentação dos mesmos, quando a autoridade sanitária tiver considerado injustificada a não observância do prazo que tiver estabelecido.
 
-###### Art. 6.º As faltas justificadas nos termos deste diploma, dadas pelos motivos referidos no artigo 2.º, não são consideradas para quaisquer efeitos, não dando, porém, direito à percepção do subsídio de refeição pelo período correspondente.
+Art. 6.º As faltas justificadas nos termos deste diploma, dadas pelos motivos referidos no artigo 2.º, não são consideradas para quaisquer efeitos, não dando, porém, direito à percepção do subsídio de refeição pelo período correspondente.
 
-###### Art. 7.º Este diploma é aplicável aos funcionários e agentes da Administração Central, Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.
+Art. 7.º Este diploma é aplicável aos funcionários e agentes da Administração Central, Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 159/1974, 3º Suplemento, Série I de 1974-07-10
   number: '159'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 810-(19) a 810-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15903/00190020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1974-560232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48ec7ee2b127bda07b77bb2d5deceed5702ac74ab417fe68f6027582003bf72e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09b24e8ac3bdc2326ce24d6fd0a34edf1067950a90f5dde23949b77137c895e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva
+- Conselho Nacional dos Preços
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Preços
+- Extinção de Serviços
+- Orgânica
+- Secretaria de Estado do Abastecimento e Preços
+- Secretário de Estado do Abastecimento e Preços
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:412600:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:38Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +110,11 @@ de 10 de Julho
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada na Secretaria de Estado do Abastecimento e Preços a Direcção-Geral de Preços (DGP).
+Artigo 1.º É criada na Secretaria de Estado do Abastecimento e Preços a Direcção-Geral de Preços (DGP).
 
-###### Art. 2.º São atribuições da DGP realizar os estudos e desenvolver as acções necessárias a uma adequada política tendente à estabilidade dos preços, à defesa do consumidor e a evitar a constituição de situações privilegiadas nocivas ao desenvolvimento económico.
+Art. 2.º São atribuições da DGP realizar os estudos e desenvolver as acções necessárias a uma adequada política tendente à estabilidade dos preços, à defesa do consumidor e a evitar a constituição de situações privilegiadas nocivas ao desenvolvimento económico.
 
-###### Art. 3.º No âmbito das atribuições referidas no artigo anterior, compete à DGP:
+Art. 3.º No âmbito das atribuições referidas no artigo anterior, compete à DGP:
 
 a) Estudar todos os factores relevantes e necessários à definição de uma política geral de preços de bens ou serviços;
 
@@ -113,7 +132,7 @@ g) Propor ao Instituto Nacional de Estatística o estabelecimento de índices de
 
 h) Realizar quaisquer tarefas, no campo específico das suas atribuições, de que seja superiormente incumbida.
 
-###### Art. 4.º - 1. A DGP compreende, além do director-geral:
+Art. 4.º - 1. A DGP compreende, além do director-geral:
 
 a) A Subdirecção-Geral de Preços de Bens de Consumo;
 
@@ -131,11 +150,11 @@ d) A Repartição Administrativa.
 
 5. A DGP poderá solicitar de quaisquer entidades ou organismos, públicos ou privados, todas as informações de que careça para o desempenho das suas atribuições.
 
-###### Art. 5.º - 1. É criada, na dependência do Secretário de Estado do Abastecimento e Preços, a Comissão Consultiva de Preços (CCP), órgão que se pronunciará sobre todas as propostas relativas a regimes gerais de preços, bens ou serviços a eles sujeitos e sobre todos os processos de fixação ou revisão de preços de bens ou serviços.
+Art. 5.º - 1. É criada, na dependência do Secretário de Estado do Abastecimento e Preços, a Comissão Consultiva de Preços (CCP), órgão que se pronunciará sobre todas as propostas relativas a regimes gerais de preços, bens ou serviços a eles sujeitos e sobre todos os processos de fixação ou revisão de preços de bens ou serviços.
 
 2. Os pareceres da CCP poderão incidir concretamente sobre os preços e demais condições de comercialização dos bens ou serviços ou sobre esquemas gerais de formação dos mesmos.
 
-###### Art. 6.º - 1. A CCP é presidida pelo director-geral de Preços e é composta por:
+Art. 6.º - 1. A CCP é presidida pelo director-geral de Preços e é composta por:
 
 a) Um representante de cada uma das seguintes Secretarias de Estado: Trabalho, Saúde, Segurança Social, Administração Escolar, Finanças, Indústria e Energia, Agricultura, Comércio Externo e Turismo, Pescas, Transportes e Comunicações, Habitação e Urbanismo e Marinha Mercante;
 
@@ -159,7 +178,7 @@ f) Três representantes das associações patronais.
 
 6. Poderão ainda ser convocadas para tomar parte nas sessões da CCP outras entidades de reconhecida competência nas matérias a tratar, sempre que o presidente o entenda necessário.
 
-###### Art. 7.º - 1. A CCP funcionará:
+Art. 7.º - 1. A CCP funcionará:
 
 a) Em sessões plenárias, com convocação de todos os membros referidos no n.º 1 do artigo anterior, para apreciação das orientações gerais em matéria de política de preços;
 
@@ -169,18 +188,18 @@ b) Em sessões restritas, com convocação dos membros referidos nas alíneas b)
 
 3. Quando a CCP tiver de se pronunciar sobre qualquer processo, deverá a convocação ser efectuada com, pelo menos, cinco dias de antecedência, enviando o presidente a cada um dos membros que devam estar presentes cópia do processo a discutir.
 
-###### Art. 8.º Por despacho conjunto dos Secretários de Estado das Finanças e do Abastecimento e Preços serão estabelecidas as formas de satisfação das despesas inerentes ao funcionamento da CCP.
+Art. 8.º Por despacho conjunto dos Secretários de Estado das Finanças e do Abastecimento e Preços serão estabelecidas as formas de satisfação das despesas inerentes ao funcionamento da CCP.
 
-###### Art. 9.º É extinto o Conselho Nacional dos Preços e revogado o [Decreto-Lei n.º 549/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1973-412600), de 25 de Outubro.
+Art. 9.º É extinto o Conselho Nacional dos Preços e revogado o [Decreto-Lei n.º 549/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1973-412600), de 25 de Outubro.
 
-###### Art. 10.º As despesas resultantes da execução do presente diploma serão suportadas por conta de verbas adequadas a inscrever no actual orçamento do Ministério da Economia.
+Art. 10.º As despesas resultantes da execução do presente diploma serão suportadas por conta de verbas adequadas a inscrever no actual orçamento do Ministério da Economia.
 
-###### Art. 11.º Este diploma entra imediatamente em vigor.
+Art. 11.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Francisco Sá Carneiro - Vasco Vieira de Almeida.
 
-**Promulgado em 4 de Julho de 1974.**
+Promulgado em 4 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

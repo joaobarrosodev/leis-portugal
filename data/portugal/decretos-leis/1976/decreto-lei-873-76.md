@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30000/28542855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/873-1976-416432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22f4c6d5b7d83c07fbb3673efa0e41341a68b33c3851307d1238e5409f57b535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72e901f95b46c18064aa5649333d537fb10a02e89ef687f03e32622257677df9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tesouro
+- Empréstimo Interno
+- Instituição de Crédito
+- Junta de Crédito Público
+- Obrigação Geral
+- Obrigações do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:171133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518039:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:12Z'
   warnings: []
   errors: []
 ---
@@ -103,17 +123,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nos termos do disposto nos artigos 1.º e 2.º e de harmonia com o n.º 2 do artigo 3.º do [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133), de 10 de Maio, é a Direcção-Geral do Tesouro autorizada a emitir a obrigação geral representativa da 3.ª série do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10% - 1976», no total nominal de 3 milhões de contos.
+Artigo 1.º Nos termos do disposto nos artigos 1.º e 2.º e de harmonia com o n.º 2 do artigo 3.º do [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133), de 10 de Maio, é a Direcção-Geral do Tesouro autorizada a emitir a obrigação geral representativa da 3.ª série do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10% - 1976», no total nominal de 3 milhões de contos.
 
-###### Art. 2.º Poderá o Ministro das Finanças contratar com as instituições de crédito nacionais a colocação, total ou parcial, dos títulos desta nova série ou fazê-la por subscrição pública ou por venda no mercado.
+Art. 2.º Poderá o Ministro das Finanças contratar com as instituições de crédito nacionais a colocação, total ou parcial, dos títulos desta nova série ou fazê-la por subscrição pública ou por venda no mercado.
 
-###### Art. 3.º - 1. A colocação será feita inicialmente por subscrição pública, aberta de 16 de Agosto a 14 de Novembro de 1976, considerando-se este prazo, para efeito do valor dos juros a vencer em 15 de Novembro do mesmo ano, dividido em seis períodos.
+Art. 3.º - 1. A colocação será feita inicialmente por subscrição pública, aberta de 16 de Agosto a 14 de Novembro de 1976, considerando-se este prazo, para efeito do valor dos juros a vencer em 15 de Novembro do mesmo ano, dividido em seis períodos.
 
 2. As obrigações da 2.ª série que ainda não estejam colocadas poderão sê-lo igualmente no prazo estabelecido no número anterior.
 
 3. As obrigações que forem colocadas por subscrição pública serão representadas, até à troca pelos correspondentes títulos definitivos, por cautelas entregues no acto do pagamento da subscrição.
 
-###### Art. 4.º São os seguintes os juros parciais, por obrigação, conferidos aos tomadores, em relação a cada um dos seis períodos referidos no n.º 1 do artigo 3.º:
+Art. 4.º São os seguintes os juros parciais, por obrigação, conferidos aos tomadores, em relação a cada um dos seis períodos referidos no n.º 1 do artigo 3.º:
 
 Período de 16 a 31 de Agosto - 25$00;
 
@@ -127,26 +147,26 @@ Período de 16 a 31 de Outubro - 8$30;
 
 Período de 1 a 14 de Novembro - 4$10.
 
-###### Art. 5.º - 1. Até à data do vencimento dos primeiros juros - 15 de Novembro de 1976 - a Junta entregará a cada uma das instituições de crédito que tenha participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar, naquela data, das obrigações que tenha colocado até 31 de Outubro.
+Art. 5.º - 1. Até à data do vencimento dos primeiros juros - 15 de Novembro de 1976 - a Junta entregará a cada uma das instituições de crédito que tenha participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar, naquela data, das obrigações que tenha colocado até 31 de Outubro.
 
 2. As ordens subscritas correspondentes aos juros das obrigações subscritas de 1 a 14 de Novembro serão entregues às instituições de crédito até 30 deste mesmo mês.
 
-###### Art. 6.º A importância total das subscrições feitas por intermédio das instituições de crédito será por estas entregue ao Tesouro nos dez dias úteis após o final de cada um dos novos seis períodos de subscrição, mediante guias a solicitar.
+Art. 6.º A importância total das subscrições feitas por intermédio das instituições de crédito será por estas entregue ao Tesouro nos dez dias úteis após o final de cada um dos novos seis períodos de subscrição, mediante guias a solicitar.
 
-###### Art. 7.º No mesmo prazo indicado no artigo anterior, cada uma das instituições de crédito comunicará por escrito à Junta do Crédito Público a quantidade de obrigações subscritas por seu intermédio, com discriminação dos títulos de 1, de 5 e de 10 obrigações pretendidos.
+Art. 7.º No mesmo prazo indicado no artigo anterior, cada uma das instituições de crédito comunicará por escrito à Junta do Crédito Público a quantidade de obrigações subscritas por seu intermédio, com discriminação dos títulos de 1, de 5 e de 10 obrigações pretendidos.
 
-###### Art. 8.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos da nova série de obrigações do empréstimo cuja emissão é agora autorizada.
+Art. 8.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos da nova série de obrigações do empréstimo cuja emissão é agora autorizada.
 
-###### Art. 9.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+Art. 9.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
 
-###### Art. 10.º São aplicáveis às obrigações correspondentes a esta nova emissão as disposições contidas nos artigos 4.º, 5.º, 8.º, 10.º, 12.º e 15.º do [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133).
+Art. 10.º São aplicáveis às obrigações correspondentes a esta nova emissão as disposições contidas nos artigos 4.º, 5.º, 8.º, 10.º, 12.º e 15.º do [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133).
 
-###### Art. 11.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 11.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 17 de Dezembro de 1976.**
+Promulgado em 17 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

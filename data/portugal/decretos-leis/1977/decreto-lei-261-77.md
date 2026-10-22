@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/14200/15211522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1977-250069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8ade39bc1c90883aa98148a8656f6aaae2a73889de652f481000ca6683e28d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f01b40f916a1ae2a5777f3877d630b75383d2519f01072de6f41ff84d94b22b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Habitação
+- Habitação Social
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621561:por
+  label: "Revogados os arts. 2º, 3º, 4º, 5º e 6º, pelo DEC LEI.412-A/77.1977.09.29.MHUC, DR.IS [226]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-a-1977-621561
+  date: '1977-09-29'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:58Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +129,9 @@ Considerando a necessidade de clarificar algumas disposições do regime jurídi
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 8.º do [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), de 6 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 8.º do [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), de 6 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 8.º - 1. A atribuição de habitações, segundo os regimes legais aplicáveis, construídas ou propriedade do Estado e demais entidades referidas no n.º 1 do artigo 3.º e das casas de renda limitada ou sujeitas a condicionamento especial de renda, será feita nos termos de regulamento a aprovar por decreto dos Ministros da Administração Interna e da Habitação, Urbanismo e Construção, atento o disposto nos números e artigos seguintes.
+Art. 8.º - 1. A atribuição de habitações, segundo os regimes legais aplicáveis, construídas ou propriedade do Estado e demais entidades referidas no n.º 1 do artigo 3.º e das casas de renda limitada ou sujeitas a condicionamento especial de renda, será feita nos termos de regulamento a aprovar por decreto dos Ministros da Administração Interna e da Habitação, Urbanismo e Construção, atento o disposto nos números e artigos seguintes.
 
 2. ...
 
@@ -108,13 +145,13 @@ c) Comercialização directa, independentemente de concurso, para a primeira tra
 
 4. ...
 
-###### Art. 2.º As habitações construídas no âmbito dos contratos de desenvolvimento para habitação que sejam adquiridas pelo Fundo de Fomento da Habitação, por força do exercício de garantia de compra convencionada no contrato, serão atribuídas, por concurso de classificação, em regime de arrendamento ou em propriedade resolúvel.
+Art. 2.º As habitações construídas no âmbito dos contratos de desenvolvimento para habitação que sejam adquiridas pelo Fundo de Fomento da Habitação, por força do exercício de garantia de compra convencionada no contrato, serão atribuídas, por concurso de classificação, em regime de arrendamento ou em propriedade resolúvel.
 
-###### Art. 3.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980) passa a ter a seguinte redacção:
+Art. 3.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980) passa a ter a seguinte redacção:
 
 3. As habitações construídas no âmbito dos «contratos de desenvolvimento» são consideradas casas de renda limitada, como tais sujeitas às disposições aplicáveis no [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, e demais legislação que, para seu complemento ou regulamentação, seja publicada, salvo no que respeita ao processo de atribuição da primeira transmissão de que sejam objecto, o qual se fará nos termos da actual alínea c) do n.º 3 do artigo 8.º do [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), de 6 de Novembro, através e sob contrôle do Serviço Municipal de Habitação, por iniciativa deste e do próprio promotor.
 
-###### Art. 4.º O n.º 5 do artigo 5.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980), aditado pelo [Decreto-Lei n.º 26/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1977-138173), de 19 de Janeiro, passa a ter a seguinte redacção:
+Art. 4.º O n.º 5 do artigo 5.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980), aditado pelo [Decreto-Lei n.º 26/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1977-138173), de 19 de Janeiro, passa a ter a seguinte redacção:
 
 5. ...
 
@@ -122,16 +159,16 @@ a) ...
 
 b) Os Serviços Municipais de Habitação deverão proceder de harmonia com o respectivo regulamento, seguindo-se a assinatura do contrato-promessa nos termos prescritos para a venda, com as necessárias adaptações.
 
-###### Art. 5.º O disposto nos artigos anteriores aplica-se aos contratos já celebrados à data da entrada em vigor do presente diploma.
+Art. 5.º O disposto nos artigos anteriores aplica-se aos contratos já celebrados à data da entrada em vigor do presente diploma.
 
-###### Art. 6.º - 1. Poderão ser celebrados contratos para execução de projectos específicos ou para reorganização e expansão das actividades visando a construção de habitações sociais e equipamentos colectivos quando, nos casos de propostas admitidas nos termos da legislação então vigente, se tenha verificado o início dos trabalhos ou concedido benefícios previstos no n.º 1 do artigo 7.º do [Decreto-Lei n.º 663/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1974-466074) e n.º 3 do artigo 7.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980).
+Art. 6.º - 1. Poderão ser celebrados contratos para execução de projectos específicos ou para reorganização e expansão das actividades visando a construção de habitações sociais e equipamentos colectivos quando, nos casos de propostas admitidas nos termos da legislação então vigente, se tenha verificado o início dos trabalhos ou concedido benefícios previstos no n.º 1 do artigo 7.º do [Decreto-Lei n.º 663/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1974-466074) e n.º 3 do artigo 7.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980).
 
 2. Nos casos previstos no número anterior, o contrato poderá produzir efeitos a partir da data da admissão das propostas.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Eduardo Ribeiro Pereira.
 
-**Promulgado em 6 de Junho de 1977.**
+Promulgado em 6 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

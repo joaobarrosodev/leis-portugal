@@ -46,40 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1977-141024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da9c9cea0cfaaabe333d29195fdf5ad50878aa3f1bac14580b1ab4fcb1775be4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ea146934dfa23f35f65cb5f1e1305258e4d24b31a6a0a98d09dd2888c0cddac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:297856:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:22Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +99,15 @@ Considerando que a Secretaria de Estado da Administração Pública está empenh
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criado o quadro de pessoal civil do Exército, cuja constituição será fixada por portaria do Chefe do Estado-Maior.
+Artigo 1.º - 1. É criado o quadro de pessoal civil do Exército, cuja constituição será fixada por portaria do Chefe do Estado-Maior.
 
 2. As designações do pessoal serão as que vigorarem genericamente para a função pública, mesmo que estabelecidas posteriormente à constituição do quadro referido no número anterior, podendo ser fixadas designações diferentes por portaria do Chefe do Estado-Maior, depois de ouvida a Secretaria de Estado da Administração Pública.
 
 3. Todo o pessoal civil ao serviço do Exército será pago, a partir de 1 de Janeiro de 1977, por verbas próprias do Orçamento Geral do Estado.
 
-###### Art. 2.º A distribuição dos lugares deste quadro pelas unidades, estabelecimentos e outros órgãos do Exército será regulada por despacho do Chefe do Estado-Maior.
+Art. 2.º A distribuição dos lugares deste quadro pelas unidades, estabelecimentos e outros órgãos do Exército será regulada por despacho do Chefe do Estado-Maior.
 
-###### Art. 3.º - 1. Os critérios de ingresso no quadro de colocação, de promoção, as condições para as futuras admissões e as demais normas por que se há-de reger a carreira profissional do pessoal civil do Exército serão definidas por portaria do Chefe do Estado-Maior.
+Art. 3.º - 1. Os critérios de ingresso no quadro de colocação, de promoção, as condições para as futuras admissões e as demais normas por que se há-de reger a carreira profissional do pessoal civil do Exército serão definidas por portaria do Chefe do Estado-Maior.
 
 2. Tem ingresso no quadro o pessoal civil que presentemente se encontra ao serviço do Exército, incluindo o pessoal sem adequado título de vinculação, sendo provido por lista nominativa, com dispensa de quaisquer outras formalidades ou requisitos, nomeadamente limites de idade ou habilitações literárias.
 
@@ -114,20 +117,20 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 5. Será contado, para todos os efeitos, o tempo de serviço anteriormente prestado, ainda que sem adequado título de vinculação.
 
-###### Artigo 4.º - 1. No ingresso no quadro do pessoal civil presentemente ao serviço do Exército poderão ser reajustadas, dentro do princípio definido no n.º 2 do artigo 1.º e por portaria do Chefe do Estado-Maior, as designações actualmente existentes que não se encontrem previstas na lei geral, desde que não haja alteração da remuneração, salvo quando esta não coincida com nenhuma das fixadas na tabela de vencimentos em vigor para a função pública, caso em que será praticado o arredondamento, por excesso, para o quantitativo imediatamente superior da referida tabela.
+Artigo 4.º - 1. No ingresso no quadro do pessoal civil presentemente ao serviço do Exército poderão ser reajustadas, dentro do princípio definido no n.º 2 do artigo 1.º e por portaria do Chefe do Estado-Maior, as designações actualmente existentes que não se encontrem previstas na lei geral, desde que não haja alteração da remuneração, salvo quando esta não coincida com nenhuma das fixadas na tabela de vencimentos em vigor para a função pública, caso em que será praticado o arredondamento, por excesso, para o quantitativo imediatamente superior da referida tabela.
 
 2. No referido ingresso serão substituídas as designações existentes que, mesmo que previstas na lei geral, não constem do quadro a que se refere o n.º 1 do artigo 1.º do presente diploma, por outras a que corresponda a mesma remuneração, salvo quando não seja exequível a respectiva equivalência, caso em que será atribuída a designação adequada, correspondente à remuneração superior mais próxima considerada no quadro.
 
-###### Art. 5.º Quaisquer alterações na situação do pessoal civil efectuadas com base nos preceitos do presente diploma só produzirão efeitos a partir de 1 de Janeiro de 1977, considerando-se extintos em 31 de Dezembro de 1976 os lugares dos respectivos quadros orgânicos das unidades, estabelecimentos e outros órgãos do Exército.
+Art. 5.º Quaisquer alterações na situação do pessoal civil efectuadas com base nos preceitos do presente diploma só produzirão efeitos a partir de 1 de Janeiro de 1977, considerando-se extintos em 31 de Dezembro de 1976 os lugares dos respectivos quadros orgânicos das unidades, estabelecimentos e outros órgãos do Exército.
 
-###### Art. 6.º O disposto neste diploma não é aplicável ao pessoal civil dos estabelecimentos fabris do Exército.
+Art. 6.º O disposto neste diploma não é aplicável ao pessoal civil dos estabelecimentos fabris do Exército.
 
-###### Art. 7.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior do Exército, sob parecer dos serviços competentes.
+Art. 7.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior do Exército, sob parecer dos serviços competentes.
 
 Visto e aprovado em Conselho da Revolução em 9 de Fevereiro de 1977.
 
-**Promulgado em 10 de Março de 1977.**
+Promulgado em 10 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

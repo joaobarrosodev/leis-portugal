@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47078-1966-474952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e48668db2fe9ee2086913ce952d36cbdd330a7fa759ed928ce5029ad8d71a887
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b3bf49ef5b81dda7120100ab87df85e85dd2dce9a7d555f0c08f3fba8a3bc2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:339666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:25Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +95,12 @@ Nestes termos e atendendo que o empreendimento se inscreve no campo de realizaç
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Administração-Geral do Porto de Lisboa a contratar com a Empresa Geral de Fomento, S. A. R. L., o estabelecimento, em terrenos situados na sua área de jurisdição de que esta é proprietária, de instalações industriais ou de armazenagem.
+Artigo 1.º É autorizada a Administração-Geral do Porto de Lisboa a contratar com a Empresa Geral de Fomento, S. A. R. L., o estabelecimento, em terrenos situados na sua área de jurisdição de que esta é proprietária, de instalações industriais ou de armazenagem.
 
-###### Art. 2.º A Administração-Geral do Porto de Lisboa promoverá a construção e conservação dos arruamentos e respectivas redes de águas, esgotos, energia eléctrica e iluminação pública destinados a servir as instalações a que se refere o artigo anterior, para o que fica autorizada a aceitar da Empresa Geral de Fomento, S. A. R. L., doação dos terrenos para o efeito indispensáveis.
+Art. 2.º A Administração-Geral do Porto de Lisboa promoverá a construção e conservação dos arruamentos e respectivas redes de águas, esgotos, energia eléctrica e iluminação pública destinados a servir as instalações a que se refere o artigo anterior, para o que fica autorizada a aceitar da Empresa Geral de Fomento, S. A. R. L., doação dos terrenos para o efeito indispensáveis.
 
-###### Art. 3.º O montante e as condições de pagamento da importância que for devida como contrapartida dos encargos inerentes à construção e conservação dos arruamentos e demais órgãos e da consequente valorização dos terrenos por eles servidos, e bem assim o prazo de realização das obras, o especial condicionamento a que ficarão sujeitas as construções e sua utilização e as demais condições a que deverá obedecer o contrato, constarão de escritura pública, a celebrar entre a Administração-Geral do Porto de Lisboa e a Empresa Geral de Fomento, S. A. R. L., e deverão ser aprovados, com a minuta da escritura, pelo Ministro das Comunicações, sem dependência de qualquer outra formalidade.
+Art. 3.º O montante e as condições de pagamento da importância que for devida como contrapartida dos encargos inerentes à construção e conservação dos arruamentos e demais órgãos e da consequente valorização dos terrenos por eles servidos, e bem assim o prazo de realização das obras, o especial condicionamento a que ficarão sujeitas as construções e sua utilização e as demais condições a que deverá obedecer o contrato, constarão de escritura pública, a celebrar entre a Administração-Geral do Porto de Lisboa e a Empresa Geral de Fomento, S. A. R. L., e deverão ser aprovados, com a minuta da escritura, pelo Ministro das Comunicações, sem dependência de qualquer outra formalidade.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

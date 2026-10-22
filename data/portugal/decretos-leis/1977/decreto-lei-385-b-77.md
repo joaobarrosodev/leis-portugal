@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 212/1977, 1º Suplemento, Série I de 1977-09-13
   number: '212'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2248-(2) a 2248-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21201/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-b-1977-292917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4e98d72599ee102072adecd3c50750388ecde3c117bf90ae02dc74c1205652a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8caf927c8c99c6c44d098d751ac82a3aaa268cbaf3602be52b1effe887a8bd4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial do Exército
+- Exército
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:408152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:19Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +116,13 @@ Considerando a necessidade de ajustar as disposições do [Decreto-Lei n.º 838/
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º A condição 19) da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 838/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/838-1976-408152), de 3 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º A condição 19) da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 838/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/838-1976-408152), de 3 de Dezembro, passa a ter a seguinte redacção:
 
 19) Figurem por três vezes na lista de apreciação anual dos oficiais a não promover ao posto imediato, por não satisfazerem a 3.ª condição geral de promoção.
 
-###### Art. 2.º Os artigos 67.º, 70.º, 72.º, 80.º, 83.º, 93.º, 94.º, 95.º, 96.º, 97.º e 98.º do mesmo diploma passam a ter a seguinte redacção:
+Art. 2.º Os artigos 67.º, 70.º, 72.º, 80.º, 83.º, 93.º, 94.º, 95.º, 96.º, 97.º e 98.º do mesmo diploma passam a ter a seguinte redacção:
 
-###### Art. 67.º - 1. Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros do activo e não tenham sido abrangidos pelo disposto nas condições 16) e 19) da alínea b) do artigo 44.º
+Art. 67.º - 1. Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros do activo e não tenham sido abrangidos pelo disposto nas condições 16) e 19) da alínea b) do artigo 44.º
 
 2. ...
 
@@ -118,7 +134,7 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 ...
 
-###### Art. 70.º - 1. Aos directores das armas e dos serviços, apoiados nos respectivos conselhos, compete a apreciação das condições gerais de promoção dos oficiais.
+Art. 70.º - 1. Aos directores das armas e dos serviços, apoiados nos respectivos conselhos, compete a apreciação das condições gerais de promoção dos oficiais.
 
 2. Para fundamento do seu parecer sobre as condições gerais de promoção dos oficiais, os conselhos das armas e dos serviços deverão consultar:
 
@@ -148,19 +164,19 @@ Lista de oficiais a não promover por não satisfazerem alguma das condições g
 
 ...
 
-###### Art. 72.º - 1. ...
+Art. 72.º - 1. ...
 
 2. O oficial que não satisfaça a 3.ª condição geral de promoção fica excluído temporariamente da promoção, passando à situação de adido aos quadros se estiver na condição 19) da alínea b) do artigo 44.º
 
 ...
 
-###### Art. 80.º - 1. A verificação das condições especiais de promoção compete à Direcção do Serviço de Pessoal do Departamento de Pessoal do Estado-Maior do Exército.
+Art. 80.º - 1. A verificação das condições especiais de promoção compete à Direcção do Serviço de Pessoal do Departamento de Pessoal do Estado-Maior do Exército.
 
 2. Na apreciação dos oficiais, os directores das armas e dos serviços devem ser informados pela Direcção do Serviço de Pessoal se aqueles satisfazem ou não as condições especiais de promoção.
 
 ...
 
-###### Art. 83.º Sempre que um oficial não reúna todas as condições especiais de promoção mas esteja incluído no conjunto dos oficiais em apreciação, adoptar-se-á o seguinte procedimento:
+Art. 83.º Sempre que um oficial não reúna todas as condições especiais de promoção mas esteja incluído no conjunto dos oficiais em apreciação, adoptar-se-á o seguinte procedimento:
 
 1 - Deve merecer uma apreciação em tudo idêntica à dos oficiais com a totalidade das condições;
 
@@ -172,19 +188,19 @@ b) Não deve ser dispensado das condições especiais de promoção que não re�
 
 ...
 
-###### Art. 93.º A promoção ao posto de tenente é por diuturnidade.
+Art. 93.º A promoção ao posto de tenente é por diuturnidade.
 
-###### Art. 94.º A promoção ao posto de capitão é por antiguidade.
+Art. 94.º A promoção ao posto de capitão é por antiguidade.
 
-###### Art. 95.º - 1. A promoção aos postos de major, tenente-coronel e coronel é por escolha e antiguidade.
+Art. 95.º - 1. A promoção aos postos de major, tenente-coronel e coronel é por escolha e antiguidade.
 
 2. Nenhum oficial que haja adquirido por antecipação quaisquer condições de promoção poderá ser promovido por antiguidade enquanto não forem promovidos os oficiais que o antecedem na escala e não estejam preteridos.
 
-###### Art. 96.º - 1. A promoção aos postos de brigadeiro e general é por escolha.
+Art. 96.º - 1. A promoção aos postos de brigadeiro e general é por escolha.
 
 2. A promoção aos postos referidos no número anterior é da competência do Conselho da Revolução.
 
-###### Art. 97.º A promoção ao posto de brigadeiro efectua-se da seguinte forma:
+Art. 97.º A promoção ao posto de brigadeiro efectua-se da seguinte forma:
 
 a) O Conselho Superior do Exército aprecia, em mérito absoluto e relativo, os coronéis das diversas armas e serviços que satisfaçam as condições de promoção;
 
@@ -196,7 +212,7 @@ d) A proposta do CEME, ouvido o Conselho Superior do Exército, é presente ao C
 
 e) O Chefe do Estado-Maior do Exército pode, em despacho fundamentado, depois de ouvido o Conselho Superior do Exército, mandar destinar a determinada arma ou serviço uma ou mais vagas de brigadeiro, só podendo, neste caso, ser preenchidas por coronéis dessa arma ou serviço.
 
-###### Art. 98.º A promoção ao posto de general efectua-se da seguinte forma:
+Art. 98.º A promoção ao posto de general efectua-se da seguinte forma:
 
 a) O Conselho Superior do Exército aprecia para promoção, em mérito absoluto e relativo, os coronéis das armas e os brigadeiros provenientes de qualquer arma que satisfaçam as condições de promoção;
 
@@ -206,7 +222,7 @@ c) A proposta do CEME, ouvido o Conselho Superior do Exército, é presente ao C
 
 d) O chefe do Estado-Maior do Exército pode, em despacho fundamentado, depois de ouvido o Conselho Superior do Exército, mandar destinar a determinada arma uma ou mais vagas de general, só podendo, neste caso, ser preenchidas por brigadeiros e coronéis provenientes dessa arma.
 
-###### Art. 3.º - 1. Para efeitos de aplicação da condição 19) da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (EOE), considera-se equivalente:
+Art. 3.º - 1. Para efeitos de aplicação da condição 19) da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (EOE), considera-se equivalente:
 
 Quatro inclusões na lista de apreciação semestral de oficiais a não promover ao posto imediato a duas inclusões em igual lista de apreciação anual;
 
@@ -214,16 +230,16 @@ Três ou duas inclusões na lista de apreciação semestral de oficiais a não p
 
 2. Os oficiais incluídos por uma só vez na lista de apreciação semestral de oficiais a não promover ao posto imediato consideram-se como não incluídos em igual lista de apreciação anual.
 
-###### Art. 4.º O disposto no presente decreto-lei será objecto de regulamentação mediante portarias do Chefe do Estado-Maior do Exército.
+Art. 4.º O disposto no presente decreto-lei será objecto de regulamentação mediante portarias do Chefe do Estado-Maior do Exército.
 
-###### Art. 5.º São revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 838/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/838-1976-408152), de 3 de Dezembro.
+Art. 5.º São revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 838/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/838-1976-408152), de 3 de Dezembro.
 
-###### Art. 6.º O presente decreto-lei entra imediatamente em vigor.
+Art. 6.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução em 31 de Agosto de 1977.
 
-**Promulgado em 7 de Setembro de 1977.**
+Promulgado em 7 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

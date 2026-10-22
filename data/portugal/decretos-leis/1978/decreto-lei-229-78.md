@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/18400/16401640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1978-299990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a249e947773c5518a112fe18d01ac211ec2d3c06a3828244a8caa9af2a27793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eba170ea76947c4d61e366e766c34ad0d1ebf6f07e1021472d6f5ccec7352ded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Forças Armadas
+- Madeira.região Autónoma
+- Subsídio de Deslocamento
+- Subsídio de Residência
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444404:por
+  label: "Substituídos os valores fixados no nº 2 do art. 1º pelo DEC LEI.444/83.26.12.1983.MDN, DR.IS [296] de 26.12.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1983-444404
+  date: '1983-12-26'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:421265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427115:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:48Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +119,7 @@ Considerando que se encontram ultrapassadas as razões que levaram à instituiç
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os militares dos quadros permanentes nomeados por imposição ou por escolha para comissões militares, em terra, nas ilhas adjacentes, são dispensados das condições a que obedece o abono do subsídio instituído pelo n.º 1 do artigo 2.º do [Decreto-Lei n.º 345/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1973-421265), de 7 de Julho.
+Artigo 1.º - 1 - Os militares dos quadros permanentes nomeados por imposição ou por escolha para comissões militares, em terra, nas ilhas adjacentes, são dispensados das condições a que obedece o abono do subsídio instituído pelo n.º 1 do artigo 2.º do [Decreto-Lei n.º 345/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1973-421265), de 7 de Julho.
 
 2 - Nas ilhas adjacentes, os valores fixados pelo [Decreto-Lei n.º 463/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1976-427115), de 11 de Junho, são acrescentados dos quantitativos seguintes:
 
@@ -110,18 +135,18 @@ a) Coabite com a família e lhe seja atribuída pelo Estado casa para si e sua f
 
 b) Não esteja acompanhado da família e lhe seja atribuído alojamento por conta do Estado.
 
-###### Art. 2.º Os militares não pertencentes aos quadros permanentes que tenham completado o cumprimento do serviço militar obrigatório e sejam nomeados para comissão nas ilhas adjacentes nas circunstâncias referidas no n.º 1 do artigo anterior têm direito aos abonos de que trata este diploma nas mesmas condições estabelecidas para os militares dos quadros permanentes, com prejuízo do que a este respeito dispõe o [Decreto-Lei n.º 345/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1973-421265).
+Art. 2.º Os militares não pertencentes aos quadros permanentes que tenham completado o cumprimento do serviço militar obrigatório e sejam nomeados para comissão nas ilhas adjacentes nas circunstâncias referidas no n.º 1 do artigo anterior têm direito aos abonos de que trata este diploma nas mesmas condições estabelecidas para os militares dos quadros permanentes, com prejuízo do que a este respeito dispõe o [Decreto-Lei n.º 345/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1973-421265).
 
-###### Art. 3.º - 1 - Cessa o direito ao abono do subsídio de residência atribuído aos militares que prestam serviço nas ilhas de Santa Maria e Porto Santo, nos termos, respectivamente, dos Decretos-Leis n.os 38782, de 14 de Junho de 1952, e 524/75, de 25 de Setembro.
+Art. 3.º - 1 - Cessa o direito ao abono do subsídio de residência atribuído aos militares que prestam serviço nas ilhas de Santa Maria e Porto Santo, nos termos, respectivamente, dos Decretos-Leis n.os 38782, de 14 de Junho de 1952, e 524/75, de 25 de Setembro.
 
 2 - Os militares que nesta data se encontrem colocados em comissão de serviço nas ilhas de Santa Maria e Porto Santo mantêm, até ao termo das suas comissões, o direito aos subsídios de residência e de deslocamento nas importâncias que vêm recebendo, se a sua soma for superior aos quantitativos estabelecidos no presente diploma.
 
-###### Art. 4.º Este diploma produz efeitos a partir de 1 de Dezembro de 1977.
+Art. 4.º Este diploma produz efeitos a partir de 1 de Dezembro de 1977.
 
 Visto e aprovado em Conselho da Revolução em 4 de Janeiro de 1978.
 
-**Promulgado em 14 de Julho de 1978.**
+Promulgado em 14 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

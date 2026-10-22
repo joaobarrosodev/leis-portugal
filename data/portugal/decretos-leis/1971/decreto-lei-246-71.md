@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1971-644128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d2a69263f6d0e9981be4391cc260fbb14dcd9dfa23208876c2331338472b96e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb38f01720ee19684891060d6408a1517a1a027c893502f070204b7e14bddd2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Criança
+- HAIA
+- Menoridade
+- Obrigação Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:683062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683062:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.209/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/209-1999-683062
+  date: '1999-11-09'
+- type: corrected_by
+  target: pt:dre:412814:por
+  label: "Rectificado pela RECT.DD246.24.09.1973.PC, DG.IS [224] de 24.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-412814
+  date: '1973-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:02Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +106,15 @@ de 3 de Junho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Relativa ao Reconhecimento e Execução das Decisões em Matéria de Obrigações Alimentares para com os Menores, concluída na Haia aos 24 de Outubro de 1956, cujo texto original em francês e tradução em português são incorporados no presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção Relativa ao Reconhecimento e Execução das Decisões em Matéria de Obrigações Alimentares para com os Menores, concluída na Haia aos 24 de Outubro de 1956, cujo texto original em francês e tradução em português são incorporados no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 19 de Maio de 1971**
+Promulgado em 19 de Maio de 1971
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convention Concernant la Reconnaissance et l'Exécution des Décisions en Matière d'Obligations Alimentaires envers les Enfants.
 
@@ -329,7 +344,7 @@ Desejando estabelecer disposições comuns relativamente ao reconhecimento e exe
 
 Resolveram celebrar uma Convenção com aquela finalidade e acordaram nas seguintes disposições:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A presente Convenção tem por objecto assegurar o reconhecimento e a execução recíprocos, pelos Estados contratantes, das decisões proferidas em acções de alimentos, de carácter internacional ou interno, de prestação de alimentos a favor de um filho legítimo, ilegítimo ou adoptivo, solteiro e com menos de 21 anos.
 
@@ -337,7 +352,7 @@ Se a decisão estatuir sobre outras matérias além da prestação de alimentos,
 
 A Convenção não se aplicará às decisões sobre prestação de alimentos entre colaterais.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As decisões proferidas em matéria de alimentos num dos Estados contratantes deverão ser reconhecidas e declaradas executórias, sem revisão de fundo, nos outros Estados contratantes, se
 
@@ -357,7 +372,7 @@ O reconhecimento e a execução poderão ser recusados se, antes de a decisão t
 
 5. A decisão não for manifestamente incompatível com a ordem pública do Estado onde foi invocada.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Nos termos da presente Convenção, são competentes para proferir decisões em matéria de alimentos as autoridades seguintes:
 
@@ -367,7 +382,7 @@ Nos termos da presente Convenção, são competentes para proferir decisões em 
 
 3. A autoridade a cuja competência o devedor da obrigação alimentar se submeteu, quer expressamente, quer respondendo sobre o fundo da questão, sem levantar reservas relativamente à competência.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 A parte que se arroga uma decisão ou que pede a respectiva execução deve apresentar:
 
@@ -377,25 +392,25 @@ A parte que se arroga uma decisão ou que pede a respectiva execução deve apre
 
 3. No caso de decisões à revelia, uma cópia autêntica do acto que tenha iniciado a instância e as peças que demonstrem que este acto foi devidamente objecto de notificação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O exame que for efectuado pela autoridade de execução limitar-se-á às condições previstas no artigo 2.º e aos documentos enumerados no artigo 4.º
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O processo de exequátur é regulado pela lei do Estado da autoridade de execução, se a presente Convenção não dispuser diversamente.
 
 Toda a decisão declarada executória tem a mesma força e produz os mesmos efeitos como se ela tivesse sido proferida por uma autoridade competente do Estado onde a execução foi pedida.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Se a decisão cuja execução é pedida contiver a ordem de que a obrigação de prestar alimentos seja cumprida mediante pagamentos periódicos, a força executória será conferida tanto em relação aos pagamentos já vencidos, como em relação aos vincendos.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 As condições estabelecidas pelos artigos precedentes relativamente ao reconhecimento e à execução das decisões a que se refere a presente Convenção são aplicadas igualmente às decisões proferidas por qualquer das autoridades referidas no artigo 3.º que modifiquem uma condenação relativa a obrigação alimentar.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 A parte que beneficiou de assistência judiciária no Estado onde a decisão foi proferida também beneficiará dela no processo executivo da decisão.
 
@@ -403,25 +418,25 @@ Nos processos abrangidos pela presente Convenção não terá lugar a cautio jud
 
 Nos processos regulados pela presente Convenção as peças apresentadas são dispensadas de visto e legalização.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Os Estados contratantes comprometem-se a facilitar a transferência das importâncias atribuídas em razão de obrigações alimentares para com menores.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Nenhuma regra da presente Convenção obstará ao direito do credor de uma obrigação alimentar, a invocar qualquer outra disposição aplicável à execução de decisões em matéria de alimentos, quer em virtude da lei interna do país da autoridade de execução, quer nos termos de outra convenção em vigor entre os Estados contratantes.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 A presente Convenção não se aplica às decisões proferidas antes da sua entrada em vigor.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Cada Estado contratante indicará ao Governo dos Países Baixos as autoridades competentes para proferirem decisões em matéria de alimentos e para tornar executórias as decisões estrangeiras.
 
 O Governo dos Países Baixos dará conhecimento destas comunicações aos outros Estados contratantes.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 A presente Convenção aplica-se de pleno direito nos territórios metropolitanos dos Estados contratantes.
 
@@ -429,7 +444,7 @@ Se um Estado contratante desejar que a Convenção seja aplicada no conjunto dos
 
 Esta declaração apenas produzirá efeitos nos territórios não metropolitanos no âmbito das relações entre o Estado que a fez e os Estados que declararem aceitá-la. Esta última declaração será depositada no Ministério dos Negócios Estrangeiros dos Países Baixos; este enviará uma cópia autenticada a cada um dos Estados contratantes, por via diplomática.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 A presente Convenção fica aberta à assinatura dos Estados representados na 8.ª Sessão da Conferência da Haia do Direito Internacional Privado.
 
@@ -437,7 +452,7 @@ A Convenção será ratificada e os instrumentos de ratificação serão deposit
 
 De cada depósito de instrumento de ratificação será lavrada acta, da qual será enviada, pela via diplomática, uma cópia autenticada a cada um dos Estados signatários.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 A presente Convenção entrará em vigor no sexagésimo dia a partir do depósito do quarto instrumento de ratificação previsto pelo artigo 15.º
 
@@ -445,7 +460,7 @@ Para cada Estado signatário que a ratificar posteriormente, a Convenção entra
 
 Na hipótese prevista pelo artigo 14.º, alínea 2, da presente Convenção, esta entrará em vigor no sexagésimo dia a partir da data do depósito da declaração de aceitação.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Qualquer Estado não representado na 8.ª Sessão da Conferência da Haia do Direito Internacional Privado poderá aderir à presente Convenção. Um Estado que desejar aderir notificará o Ministério dos Negócios Estrangeiros dos Países Baixos daquele seu desejo, por meio de um documento que será depositado no Ministério referido. Este Ministério enviará uma cópia autenticada a cada um dos Estados contratantes, por via diplomática.
 
@@ -455,13 +470,13 @@ A adesão apenas produzirá efeito nas relações entre o Estado aderente e os E
 
 Entenda-se que o depósito do instrumento da adesão não poderá ter lugar senão depois da entrada em vigor da presente Convenção, nos termos do artigo 16.º
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Cada Estado contratante, ao assinar ou ratificar a presente Convenção, ou ao aderir a ela, poderá fazer uma reserva quanto ao reconhecimento e execução de decisões proferidas por uma autoridade de outro Estado contratante, que teria sido competente em razão da residência do credor da obrigação de alimentos.
 
 O Estado que tiver feito esta reserva não poderá pretender que a Convenção seja aplicada às decisões proferidas pelas suas autoridades, quando estas teriam sido competentes em razão da residência do credor da obrigação alimentar.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 A presente Convenção terá a duração de cinco anos a partir da data indicada no artigo 16.º, alínea 1, mesmo para os Estados que a tenham ratificado ou a ela tenham aderido posteriormente.
 

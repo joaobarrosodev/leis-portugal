@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/06800/04680470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1979-383377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a67af8f55b7e0dc7262c0d27ab74f9e0df443d0348b881a8ae47ead3b391412c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5e58b132ce5ecf8148d564eb78161f127559c0da0128d924f93450ca7ff16bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banca Nacionalizada
+- Gestão Bancária
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:279593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:369995:por
+  label: "Revogados os arts. 2.º e 3.º pelo LEI.52/79.14.09.1979.AR, DR.IS [213] de 14.09.1979 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-1979-369995
+  date: '1979-09-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:08Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +122,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São revogados os n.os 3 e 4 do artigo 31.º do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, na redacção que lhes foi dada pelo artigo 2.º do [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), de 14 de Dezembro; o actual n.º 5 passa a n.º 3 do mesmo artigo 31.º
+Artigo 1.º - 1 - São revogados os n.os 3 e 4 do artigo 31.º do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, na redacção que lhes foi dada pelo artigo 2.º do [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), de 14 de Dezembro; o actual n.º 5 passa a n.º 3 do mesmo artigo 31.º
 
 2 - Os efeitos da revogação, prevista no número anterior, não se aplicam aos membros dos conselhos de administração ou de gestão de instituições de crédito, com personalidade de direito público, que estejam em funções à data de entrada em vigor do presente diploma.
 
-###### Art. 2.º É criado um novo artigo, 3.º - A, e dada a seguinte redacção aos artigos 3.º, 5.º, 9.º, 20.º e 53.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro:
+Art. 2.º É criado um novo artigo, 3.º - A, e dada a seguinte redacção aos artigos 3.º, 5.º, 9.º, 20.º e 53.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro:
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Designação de gestores em empresas participadas)
 
@@ -114,7 +140,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A publicação no Diário da República produzirá todos os efeitos legais, nomeadamente para fins de registo.
 
-###### ARTIGO 3.º-A
+ARTIGO 3.º-A
 
 (Conceito de participação)
 
@@ -122,13 +148,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Considera-se que uma participação no capital de uma sociedade assegura o domínio desta quando represente mais de 50% do respectivo capital social.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Incompatibilidade)
 
 Não podem ser designados por entidades do sector público para exercerem, numa determinada empresa, qualquer dos cargos mencionados no artigo 1.º os sócios e os administradores ou gerentes da própria empresa ou de sociedades que nela participem ou por ela sejam participadas, bem assim como os de sociedades concorrentes.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Limite máximo de exercícios em cada empresa)
 
@@ -138,7 +164,7 @@ Não podem ser designados por entidades do sector público para exercerem, numa 
 
 3 - A deliberação do Conselho de Ministros será precedida de consulta ao Conselho para a Carreira de Gestor Público.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Mudança de local de trabalho)
 
@@ -146,7 +172,7 @@ Não podem ser designados por entidades do sector público para exercerem, numa 
 
 2 - Ao gestor a quem seja determinada mudança de local de trabalho deverá ser atribuído um subsídio de deslocação, a regulamentar em portaria aprovada em Conselho de Ministros.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Composição do Conselho)
 
@@ -166,12 +192,12 @@ c) Dois representantes dos gestores públicos, eleitos entre os gestores, por vo
 
 5 - O Conselho entrará em funções logo que tenha tomado posse a maioria dos seus membros.
 
-###### Art. 3.º O regime de segurança social dos gestores públicos, contemplado no artigo 58.º do referido Estatuto do Gestor Público, será oportunamente revisto e enquadrado, de acordo com os princípios que vierem a definir a respectiva profissão.
+Art. 3.º O regime de segurança social dos gestores públicos, contemplado no artigo 58.º do referido Estatuto do Gestor Público, será oportunamente revisto e enquadrado, de acordo com os princípios que vierem a definir a respectiva profissão.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 8 de Março de 1979.**
+Promulgado em 8 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

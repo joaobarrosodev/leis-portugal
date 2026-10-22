@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/09/21000/16211624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faa01df01805e3db390963929592f98fc948098d8f7e4cb31a5dd41793168f9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8eb034d4f05fa72ac5e3690e7ed69861c0fbcaf720e8e77ac7204d703f6973a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Infracção Cambial
+- Mercado Cambial
+- Pagamento
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:313848:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443689:por
+  label: "Reposto em vigor, com a redacção dada pelo Dec Lei 301/75 de 20-Jun, pelo DEC LEI.396/83.1983.10.29.MJ DR.IS [250]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1983-443689
+  date: '1983-10-29'
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:337056:por
+  label: "Revogado o n.º 4 do artigo 1.º, pelo DEC LEI.301/75.20.06.1975.MF, DG.IS [140] de 20.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1975-337056
+  date: '1975-06-20'
+- type: repealed_by
+  target: pt:dre:435623:por
+  label: "Revogado pelo DEC LEI.349-B/83.1983.07.30.MFP DR.IS [174]5º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-b-1983-435623
+  date: '1983-07-30'
+- type: repealed_by
+  target: pt:dre:313848:por
+  label: "Revogado pelo DEC LEI.13/90.1990.01.08.MF, DR.IS [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1990-313848
+  date: '1990-01-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:32Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +149,7 @@ Ouvido o Conselho de Ministros para os Assuntos Económicos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São punidos, nos termos do presente diploma, quaisquer actos que perturbem ou tendam a perturbar o funcionamento do sistema de compensação e de pagamentos interterritoriais no espaço português ou tendam a falsear as condições normais de actividade dos mercados cambiais dos diversos territórios nacionais e de realização das operações de pagamentos interterritoriais, designadamente as seguintes infracções:
+Artigo 1.º - 1. São punidos, nos termos do presente diploma, quaisquer actos que perturbem ou tendam a perturbar o funcionamento do sistema de compensação e de pagamentos interterritoriais no espaço português ou tendam a falsear as condições normais de actividade dos mercados cambiais dos diversos territórios nacionais e de realização das operações de pagamentos interterritoriais, designadamente as seguintes infracções:
 
 a) Ao disposto nos diplomas previstos pelo § 1.º do artigo 2.º e pelo artigo 47.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961;
 
@@ -120,19 +177,19 @@ c) Suspensão ou cessação, total ou parcial, da autorização para o exercíci
 
 4. Sem prejuízo da delegação de competência a que se refere o número anterior, poderão o inspector-geral de Crédito e Seguros e os governadores das províncias aplicar multas em quaisquer processos da competência da Inspecção-Geral de Crédito e Seguros ou das inspecções provinciais de crédito e seguros ou do comércio bancário, respectivamente, desde que o montante das mesmas não exceda 500000$00, sendo admissível recurso para os Ministros das Finanças ou do Ultramar, consoante a entidade recorrida seja o inspector-geral ou um governador.
 
-###### Art. 2.º - 1. A multa será de 10000$00 a 2000000$00, quando as infracções a que se refere o n.º 1 do artigo precedente sejam praticadas por instituições de crédito, de 5000$00 a 1000000$00, quando praticadas por instituições que exerçam funções auxiliares de crédito, e de 1000$00 a 500000$00, nos restantes casos.
+Art. 2.º - 1. A multa será de 10000$00 a 2000000$00, quando as infracções a que se refere o n.º 1 do artigo precedente sejam praticadas por instituições de crédito, de 5000$00 a 1000000$00, quando praticadas por instituições que exerçam funções auxiliares de crédito, e de 1000$00 a 500000$00, nos restantes casos.
 
 2. Quando a transgressão consistir na realização de operações com valor determinado, a multa não poderá ser inferior a 10 por cento nem superior a esse valor, sem prejuízo dos limites fixados no número anterior deste artigo e salvo o disposto no número seguinte.
 
 3. Em casos excepcionais, quando não tenha sido afectada a economia nacional, poderão os limites mínimos referidos nos números precedentes deste artigo ser reduzidos até um quinto, por despacho do Ministro das Finanças ou do Ministro do Ultramar, conforme os casos.
 
-###### Art. 3.º - 1. Nos casos de reincidência, a multa poderá ser elevada até ao dobro, sem prejuízo dos limites máximos estabelecidos no n.º 1 do artigo precedente, podendo ainda ser suspensa ou retirada à instituição de crédito ou auxiliar de crédito a autorização para o exercício do comércio de câmbios e a realização de operações de pagamentos interterritoriais, ou ser determinada, aos outros residentes em território nacional, a inibição temporária ou permanente para efectuarem operações cambiais ou de pagamentos interterritoriais.
+Art. 3.º - 1. Nos casos de reincidência, a multa poderá ser elevada até ao dobro, sem prejuízo dos limites máximos estabelecidos no n.º 1 do artigo precedente, podendo ainda ser suspensa ou retirada à instituição de crédito ou auxiliar de crédito a autorização para o exercício do comércio de câmbios e a realização de operações de pagamentos interterritoriais, ou ser determinada, aos outros residentes em território nacional, a inibição temporária ou permanente para efectuarem operações cambiais ou de pagamentos interterritoriais.
 
 2. Dá-se a reincidência quando o agente condenado por uma infracção prevista neste diploma comete nova infracção ao regime cambial e de pagamentos interterritoriais antes de decorrerem dois anos contados desde a dita punição.
 
-###### Art. 4.º Pelo pagamento das multas e, bem assim, pelo pagamento das custas e selos do processo são responsáveis, individual e solidàriamente, os sócios gerentes ou administradores das instituições de crédito, das instituições auxiliares de crédito ou de outras sociedades, ainda que à data da condenação tenham sido dissolvidas, estejam em liquidação ou se encontrem em estado de falência.
+Art. 4.º Pelo pagamento das multas e, bem assim, pelo pagamento das custas e selos do processo são responsáveis, individual e solidàriamente, os sócios gerentes ou administradores das instituições de crédito, das instituições auxiliares de crédito ou de outras sociedades, ainda que à data da condenação tenham sido dissolvidas, estejam em liquidação ou se encontrem em estado de falência.
 
-###### Art. 5.º A sanção prevista na alínea b) do n.º 2 do artigo 1.º é aplicável aos administradores, directores, gerentes, membros do conselho fiscal e empregados com funções de direcção ou de chefia das instituições de crédito ou auxiliares de crédito que:
+Art. 5.º A sanção prevista na alínea b) do n.º 2 do artigo 1.º é aplicável aos administradores, directores, gerentes, membros do conselho fiscal e empregados com funções de direcção ou de chefia das instituições de crédito ou auxiliares de crédito que:
 
 a) Pratiquem ou ordenem as infracções a que se refere o n.º 1 do artigo 1.º;
 
@@ -142,7 +199,7 @@ c) Prestem falsas informações à Inspecção-Geral de Crédito e Seguros, às 
 
 d) Aceitem, em relação com a execução de operações cambiais ou de pagamentos interterritoriais, comissões ou qualquer outra espécie de remuneração dos clientes da instituição onde exerçam as suas funções.
 
-###### Art. 6.º - 1. As sanções previstas na alínea c) do n.º 2 do artigo 1.º são aplicáveis quando as infracções ao regime cambial e de pagamentos interterritoriais assumam especial gravidade e, designadamente, nos seguintes casos:
+Art. 6.º - 1. As sanções previstas na alínea c) do n.º 2 do artigo 1.º são aplicáveis quando as infracções ao regime cambial e de pagamentos interterritoriais assumam especial gravidade e, designadamente, nos seguintes casos:
 
 a) Contravenção ao disposto no artigo 10.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), no artigo 10.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462) e no artigo 10.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463);
 
@@ -154,7 +211,7 @@ d) Recusa da apresentação, ou falsificação, dos elementos pedidos pela Inspe
 
 2. A cessação total das autorizações para o exercício do comércio de câmbios e para a realização das operações de pagamentos interterritoriais poderá acarretar para a instituição, atingida a sua imediata liquidação, que se fará nos termos do [Decreto-Lei n.º 30689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30689-1940-192786), de 27 de Agosto de 1940, tratando-se de instituição de crédito.
 
-###### Art. 7.º - 1. Sem prejuízo da aplicação de outras sanções previstas na lei, serão condenadas a pena de prisão, não substituível por multa, as pessoas que promovam a exportação de capitais de terceiros, desde que essa exportação não tenha sido autorizada, nos termos legais, pelas entidades competentes, bem como as que nela sirvam de intermediários, ou para ela, por qualquer forma, concorram, com pleno conhecimento.
+Art. 7.º - 1. Sem prejuízo da aplicação de outras sanções previstas na lei, serão condenadas a pena de prisão, não substituível por multa, as pessoas que promovam a exportação de capitais de terceiros, desde que essa exportação não tenha sido autorizada, nos termos legais, pelas entidades competentes, bem como as que nela sirvam de intermediários, ou para ela, por qualquer forma, concorram, com pleno conhecimento.
 
 2. No caso de os actos referidos no número antecedente serem cometidos por qualquer pessoa colectiva, a pena de prisão é aplicável aos seus administradores, directores, gerentes, empregados com função de direcção ou chefia, ou outras pessoas em representação da pessoa colectiva, que realizem, ordenem ou sejam directamente responsáveis pela prática dos aludidos actos.
 
@@ -162,9 +219,9 @@ d) Recusa da apresentação, ou falsificação, dos elementos pedidos pela Inspe
 
 4. A instrução preparatória dos processos respeitantes aos crimes a que alude este artigo é da competência exclusiva da Polícia Judiciária, competindo o julgamento aos tribunais comuns.
 
-###### Art. 8.º Quaisquer pessoas singulares ou colectivas que, sem a autorização prevista no [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461) ou no [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), pratiquem regularmente operações inerentes ao exercício do comércio de câmbios ou que, não abrangidas pelo disposto no artigo 2.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), procedam à realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações de pagamentos interterritoriais, além de incorrerem em multa e na perda do capital aplicado nas mesmas operações, poderão ser inibidas do exercício da respectiva actividade, em conformidade com o previsto na alínea c) do n.º 2 do artigo 1.º do presente diploma.
+Art. 8.º Quaisquer pessoas singulares ou colectivas que, sem a autorização prevista no [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461) ou no [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), pratiquem regularmente operações inerentes ao exercício do comércio de câmbios ou que, não abrangidas pelo disposto no artigo 2.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), procedam à realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações de pagamentos interterritoriais, além de incorrerem em multa e na perda do capital aplicado nas mesmas operações, poderão ser inibidas do exercício da respectiva actividade, em conformidade com o previsto na alínea c) do n.º 2 do artigo 1.º do presente diploma.
 
-###### Art. 9.º - 1. Todas as infracções ao regime cambial e de pagamentos interterritoriais serão verificadas, no continente e ilhas adjacentes, pela Inspecção-Geral de Crédito e Seguros e funcionários seus delegados e, nas províncias ultramarinas, pelas inspecções provinciais de crédito e seguros ou do comércio bancário e funcionários seus delegados.
+Art. 9.º - 1. Todas as infracções ao regime cambial e de pagamentos interterritoriais serão verificadas, no continente e ilhas adjacentes, pela Inspecção-Geral de Crédito e Seguros e funcionários seus delegados e, nas províncias ultramarinas, pelas inspecções provinciais de crédito e seguros ou do comércio bancário e funcionários seus delegados.
 
 2. Compete igualmente à Inspecção-Geral de Crédito e Seguros e às inspecções provinciais de crédito e seguros ou do comércio bancário instaurar processos de transgressão.
 
@@ -174,7 +231,7 @@ d) Recusa da apresentação, ou falsificação, dos elementos pedidos pela Inspe
 
 5. Quando a complexidade ou dificuldade da instrução o justificarem, a Inspecção-Geral ou os governos das províncias poderão solicitar ao procurador-geral ou ao procurador da República competente a colaboração da Polícia Judiciária.
 
-###### Art. 10.º - 1. Instaurado o respectivo processo, será o arguido notificado para apresentar a sua defesa por escrito, no prazo de 10 dias, tratando-se de residentes no continente e ilhas adjacentes, e no prazo de 30 dias, no caso de residentes nas províncias ultramarinas, sob pena de lhe não ser recebida.
+Art. 10.º - 1. Instaurado o respectivo processo, será o arguido notificado para apresentar a sua defesa por escrito, no prazo de 10 dias, tratando-se de residentes no continente e ilhas adjacentes, e no prazo de 30 dias, no caso de residentes nas províncias ultramarinas, sob pena de lhe não ser recebida.
 
 2. A notificação far-se-á pelo correio, sob registo e com aviso de recepção, ou por éditos de dez dias publicados no Diário do Governo, ou de vinte dias publicados no Boletim Oficial da província ultramarina, conforme os casos, quando o arguido não seja encontrado, se recuse a receber a notificação ou for desconhecida a sua morada.
 
@@ -186,11 +243,11 @@ d) Recusa da apresentação, ou falsificação, dos elementos pedidos pela Inspe
 
 6. Independemente das sanções cominadas neste artigo, as entidades a que se refere o n.º 4 do artigo anterior podem solicitar às autoridades policiais a captura do que tiver faltado injustificadamente, para comparecer sob prisão, se isso for julgado indispensável.
 
-###### Art. 11.º - 1. Instruído o processo, será este apresentado, se for caso disso, com o parecer da Inspecção-Geral de Crédito e Seguros ao Ministro das Finanças e com o parecer da inspecção provincial de crédito e seguros ou do comércio bancário ao Ministro do Ultramar.
+Art. 11.º - 1. Instruído o processo, será este apresentado, se for caso disso, com o parecer da Inspecção-Geral de Crédito e Seguros ao Ministro das Finanças e com o parecer da inspecção provincial de crédito e seguros ou do comércio bancário ao Ministro do Ultramar.
 
 2. As decisões dos Ministros das Finanças e do Ultramar poderão ser impugnadas contenciosamente.
 
-###### Art. 12.º - 1. O prazo para a interposição do recurso é de dez dias no continente e ilhas adjacentes e de vinte dias nas províncias ultramarinas, a contar da data em que o despacho for notificado ao arguido, nos termos do n.º 2 do artigo anterior, só se considerando interposto desde que se junte ao processo a respectiva minuta e se tenham pago os selos, o imposto a que se refere o n.º 1 do artigo seguinte e a despesa feita com a publicação dos éditos, quando a notificação haja sido feita por essa forma.
+Art. 12.º - 1. O prazo para a interposição do recurso é de dez dias no continente e ilhas adjacentes e de vinte dias nas províncias ultramarinas, a contar da data em que o despacho for notificado ao arguido, nos termos do n.º 2 do artigo anterior, só se considerando interposto desde que se junte ao processo a respectiva minuta e se tenham pago os selos, o imposto a que se refere o n.º 1 do artigo seguinte e a despesa feita com a publicação dos éditos, quando a notificação haja sido feita por essa forma.
 
 2. O recurso só terá efeito suspensivo quando o arguido deposite prèviamente a importância da multa, consoante o caso, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Inspecção-Geral de Crédito e Seguros, ou no banco emissor da província, à ordem da inspecção provincial de crédito e seguros ou do comércio bancário.
 
@@ -198,15 +255,15 @@ d) Recusa da apresentação, ou falsificação, dos elementos pedidos pela Inspe
 
 4. No caso de recurso, a multa, quando tenha sido depositada ou cobrada coercivamente, permanecerá em depósito até resolução do mesmo recurso, fazendo-se de harmonia com ela qualquer restituição a que haja lugar.
 
-###### Art. 13.º - 1. Em caso de condenação, o transgressor pagará como imposto de justiça 1 por cento dos valores apreendidos ou que hajam sido expedidos, importados ou exportados ou da importância da operação realizada, ou que se tentou realizar, imposto que não será liquidado em quantia inferior a 50$00 nem superior a 1000$00.
+Art. 13.º - 1. Em caso de condenação, o transgressor pagará como imposto de justiça 1 por cento dos valores apreendidos ou que hajam sido expedidos, importados ou exportados ou da importância da operação realizada, ou que se tentou realizar, imposto que não será liquidado em quantia inferior a 50$00 nem superior a 1000$00.
 
 2. Os processos de transgressão ficam ainda sujeitos ao pagamento do imposto do selo, que será liquidado e pago por meio de guia passada, conforme os casos, pela Inspecção-Geral de Crédito e Seguros ou pela inspecção provincial de crédito e seguros ou do comércio bancário, ficando os arguidos, que forem ou tenham sido notificados por éditos, obrigados ao pagamento da despesa feita com a sua publicação.
 
-###### Art. 14.º - 1. A Inspecção-Geral de Crédito e Seguros poderá proceder, no continente e ilhas adjacentes, e de acordo com a legislação aplicável, a quaisquer diligências que lhe forem solicitadas pelas inspecções provinciais de crédito e seguros ou do comércio bancário das províncias ultramarinas, com vista à verificação das infracções puníveis nos termos do artigo 1.º e praticadas nas mesmas províncias. Poderá, igualmente, uma inspecção provincial de crédito e seguros ou do comércio bancário, quando para tanto solicitada pela Inspecção-Geral de Crédito e Seguros ou por outra inspecção provincial de crédito e seguros ou do comércio bancário, proceder, no território da respectiva província e de acordo com os preceitos legais reguladores da sua actividade, a diligências destinadas à verificação das referidas infracções praticadas no continente e ilhas adjacentes ou noutra província ultramarina.
+Art. 14.º - 1. A Inspecção-Geral de Crédito e Seguros poderá proceder, no continente e ilhas adjacentes, e de acordo com a legislação aplicável, a quaisquer diligências que lhe forem solicitadas pelas inspecções provinciais de crédito e seguros ou do comércio bancário das províncias ultramarinas, com vista à verificação das infracções puníveis nos termos do artigo 1.º e praticadas nas mesmas províncias. Poderá, igualmente, uma inspecção provincial de crédito e seguros ou do comércio bancário, quando para tanto solicitada pela Inspecção-Geral de Crédito e Seguros ou por outra inspecção provincial de crédito e seguros ou do comércio bancário, proceder, no território da respectiva província e de acordo com os preceitos legais reguladores da sua actividade, a diligências destinadas à verificação das referidas infracções praticadas no continente e ilhas adjacentes ou noutra província ultramarina.
 
 2. O Banco de Portugal, para efeito da aplicação das sanções previstas no presente diploma, participará à Inspecção-Geral de Crédito e Seguros, ou às competentes inspecções provinciais de crédito e seguros ou do comércio bancário das províncias ultramarinas, as transgressões de que tiver conhecimento.
 
-###### Art. 15.º - 1. Sem prejuízo da competência da Inspecção-Geral de Crédito e Seguros e das inspecções provinciais de crédito e seguros ou do comércio bancário, no que respeita à fiscalização do cumprimento das leis e regulamentos pertencentes à sua esfera de atribuições, compete também a todas as autoridades policiais:
+Art. 15.º - 1. Sem prejuízo da competência da Inspecção-Geral de Crédito e Seguros e das inspecções provinciais de crédito e seguros ou do comércio bancário, no que respeita à fiscalização do cumprimento das leis e regulamentos pertencentes à sua esfera de atribuições, compete também a todas as autoridades policiais:
 
 a) Exercer vigilância no sentido de impedir a prática das infracções às referidas leis e regulamentos;
 
@@ -220,19 +277,19 @@ e) Fazer cumprir as decisões proferidas em processos de transgressão, nos term
 
 2. Os autos de notícia levantados, pelas referidas entidades, bem como um dos exemplares das guias de depósito dos valores apreendidos, serão remetidos, no prazo, de três dias, à entidade competente para instaurar o respectivo processo de transgressão.
 
-###### Art. 16.º - 1. Quando qualquer infractor for encontrado em flagrante delito, além de ser levantado o respectivo auto de notícia a entidade competente deverá proceder à apreensão de quaisquer notas, moedas, cheques, títulos ou outros valores que constituam objecto da infracção.
+Art. 16.º - 1. Quando qualquer infractor for encontrado em flagrante delito, além de ser levantado o respectivo auto de notícia a entidade competente deverá proceder à apreensão de quaisquer notas, moedas, cheques, títulos ou outros valores que constituam objecto da infracção.
 
 2. Idêntica apreensão poderá ter lugar durante a instrução dos processos de transgressão, por decisão da entidade competente.
 
 3. Os valores apreendidos serão depositados, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Inspecção-Geral de Crédito e Seguros, ou no banco emissor de cada província, à ordem da respectiva inspecção provincial de crédito e seguros ou do comércio bancário, garantindo o pagamento da multa e demais encargos em que vier a ser condenado o transgressor.
 
-###### Art. 17.º - 1. A intervenção em letras, livranças e cheques ou outros títulos de análoga natureza, quando realizada para a prática dos actos que constituam infracção ao regime cambial e de pagamentos interterritoriais, nos termos do artigo 1.º, será punível como se dispõe no presente diploma, sem prejuízo da validade das obrigações constantes dos títulos.
+Art. 17.º - 1. A intervenção em letras, livranças e cheques ou outros títulos de análoga natureza, quando realizada para a prática dos actos que constituam infracção ao regime cambial e de pagamentos interterritoriais, nos termos do artigo 1.º, será punível como se dispõe no presente diploma, sem prejuízo da validade das obrigações constantes dos títulos.
 
 2. As instituições de crédito que, no exercício da sua actividade, tiverem conhecimento das infracções abrangidas pelo número anterior deverão fazer imediatamente a respectiva participação à Inspecção-Geral de Crédito e Seguros, tratando-se de instituições no continente e ilhas adjacentes, ou à competente inspecção provincial de crédito e seguros ou do comércio bancário, se se tratar de instituições nas províncias ultramarinas.
 
-###### Art. 18.º O estabelecido nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, em tudo quanto respeite ao funcionamento do mercado cambial e à realização de pagamentos interterritoriais, fica substituído pelo disposto no presente diploma.
+Art. 18.º O estabelecido nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, em tudo quanto respeite ao funcionamento do mercado cambial e à realização de pagamentos interterritoriais, fica substituído pelo disposto no presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49239-1969-214189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4130a5b2d97f27e0435c0dafe56c01b6702158ccbc3539fa89e02bbd3622c5a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2f730880d11dd42e0b98e37fd0e6fbdd41150a8b1fac4cd820ddf9684b7dbc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento de Ensino
+- Ministério da Educação Nacional
+- Pessoal Contratado
+- Pessoal Docente
+- Pessoal Eventual
+- Qualificação Profissional
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477368:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:47Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +108,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. - 1. Os diplomados com o curso de instrutor de educação física contratados nos termos do [Decreto-Lei n.º 47342](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47342-1966-477368), de 24 de Novembro de 1966, perceberão o vencimento mensal correspondente à letra M do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Artigo único. - 1. Os diplomados com o curso de instrutor de educação física contratados nos termos do [Decreto-Lei n.º 47342](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47342-1966-477368), de 24 de Novembro de 1966, perceberão o vencimento mensal correspondente à letra M do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
 2. Igual remuneração perceberão os agentes de ensino de educação física de serviço eventual e provisórios não diplomados com o curso de professor ministrado no Instituto Nacional de Educação Física.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 5 de Setembro de 1969.**
+Promulgado em 5 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 13 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

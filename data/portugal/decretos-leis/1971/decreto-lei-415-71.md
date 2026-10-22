@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22800/14451445.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1971-632737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba3ec06c9669df33a7bf5bf6e2ed25a2ae6a476e16ee39772b7760a18516ef8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5433da67768cb1ffcd4835d7fab1959c6279d079446ac821766f04dd764b87ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA de Saúde
+- Iniciativa Privada
+- Medicina Privada
+- Multa
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:586007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:271669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312251:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:586007:por
+  label: "Revogado pelo DEC LEI.13/93.15.01.1993.MS, DR.IS-A [12] de 15.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1993-586007
+  date: '1993-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:06Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +121,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O prazo de adaptação das casas de saúde em funcionamento na data da publicação do [Decreto-Lei n.º 47663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47663-1967-310210), de 29 de Abril de 1967, às condições nele exigidas e às fixadas no Regulamento das Casas de Saúde, aprovado pela [Portaria n.º 22709](https://diariodarepublica.pt/dr/detalhe/portaria/22709-1967-312251), de 7 de Junho do mesmo ano, termina no dia 31 de Dezembro de 1972, não sendo admitidas prorrogações.
+Artigo 1.º O prazo de adaptação das casas de saúde em funcionamento na data da publicação do [Decreto-Lei n.º 47663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47663-1967-310210), de 29 de Abril de 1967, às condições nele exigidas e às fixadas no Regulamento das Casas de Saúde, aprovado pela [Portaria n.º 22709](https://diariodarepublica.pt/dr/detalhe/portaria/22709-1967-312251), de 7 de Junho do mesmo ano, termina no dia 31 de Dezembro de 1972, não sendo admitidas prorrogações.
 
-###### Art. 2.º Findo o prazo indicado no artigo anterior, a falta de cumprimento das disposições relativas ao funcionamento das casas de saúde é punida com multa de 20000$00 a 100000$00.
+Art. 2.º Findo o prazo indicado no artigo anterior, a falta de cumprimento das disposições relativas ao funcionamento das casas de saúde é punida com multa de 20000$00 a 100000$00.
 
-###### Art. 3.º - 1. As multas previstas no artigo 2.º deste diploma e no artigo 12.º do [Decreto-Lei n.º 47663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47663-1967-310210) são pagas no Banco de Portugal ou suas agências, ou nas tesourarias da Fazenda pública, por meio de guia passada pela Direcção-Geral dos Hospitais.
+Art. 3.º - 1. As multas previstas no artigo 2.º deste diploma e no artigo 12.º do [Decreto-Lei n.º 47663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47663-1967-310210) são pagas no Banco de Portugal ou suas agências, ou nas tesourarias da Fazenda pública, por meio de guia passada pela Direcção-Geral dos Hospitais.
 
 2. O pagamento deve efectuar-se no prazo de trinta dias, a contar do recebimento da guia apresentada por funcionário do Ministério da Saúde e Assistência ou enviada pelo correio, sob registo e aviso de recepção.
 
 3. Na falta de pagamento voluntário das multas, extrair-se-á certidão de dívida, que terá força executória e será remetida aos tribunais das contribuições e impostos para cobrança coerciva, nos termos do respectivo Código de Processo.
 
-###### Art. 4.º - 1. A comissão de vistorias das casas de saúde, prevista no artigo 17.º do [Decreto-Lei n.º 47663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47663-1967-310210), alterado pelo [Decreto-Lei n.º 48397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48397-1968-271669), de 22 de Maio de 1968, deve propor, em relação a cada casa de saúde vistoriada, o cumprimento das condições exigidas no referido diploma e legislação complementar, bem como o prazo dentro do qual as mesmas têm de estar cumpridas.
+Art. 4.º - 1. A comissão de vistorias das casas de saúde, prevista no artigo 17.º do [Decreto-Lei n.º 47663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47663-1967-310210), alterado pelo [Decreto-Lei n.º 48397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48397-1968-271669), de 22 de Maio de 1968, deve propor, em relação a cada casa de saúde vistoriada, o cumprimento das condições exigidas no referido diploma e legislação complementar, bem como o prazo dentro do qual as mesmas têm de estar cumpridas.
 
 2. A proposta é submetida a despacho do director-geral dos Hospitais, que dele notificará o proprietário da casa de saúde interessada, em carta registada com aviso de recepção.
 
@@ -117,12 +139,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. No caso de ser apresentada reclamação, é a mesma submetida a despacho ministerial com o parecer do Conselho Superior da Acção Social, sendo notificado do referido despacho o proprietário da casa de saúde.
 
-###### Art. 5.º Quando, tendo sido determinado o encerramento temporário ou definitivo de uma casa de saúde, o mesmo não for observado, pode o director-geral dos Hospitais requerer a intervenção da autoridade policial, que procederá ao encerramento.
+Art. 5.º Quando, tendo sido determinado o encerramento temporário ou definitivo de uma casa de saúde, o mesmo não for observado, pode o director-geral dos Hospitais requerer a intervenção da autoridade policial, que procederá ao encerramento.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

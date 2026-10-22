@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/197-1971-644529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d2c5e69c08832ec23fa0a850a1d049328c45453b2b220efaf888c7de7839703
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 140a7d39187fb7c199b88a98a247c8b3c707f6508e7e49a2bd4adfd6a91a5a54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:25Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +92,24 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a província de Macau a contrair no Banco Nacional Ultramarino um empréstimo até ao montante de 2600000 patacas, à taxa de juro de 3 3/4 por cento ao ano, pagável aos semestres, em 1 de Julho e 1 de Dezembro de cada ano, e amortizável em doze semestralidades, vencendo-se a primeira no fim do prazo de utilização que é de dois anos.
+Artigo 1.º - 1. É autorizada a província de Macau a contrair no Banco Nacional Ultramarino um empréstimo até ao montante de 2600000 patacas, à taxa de juro de 3 3/4 por cento ao ano, pagável aos semestres, em 1 de Julho e 1 de Dezembro de cada ano, e amortizável em doze semestralidades, vencendo-se a primeira no fim do prazo de utilização que é de dois anos.
 
 2. O empréstimo será objecto de contrato a celebrar entre o Ministro do Ultramar, em representação da província, e o Banco Nacional Ultramarino.
 
-###### Art. 2.º - 1. O produto do empréstimo será integralmente aplicado, pelos Serviços dos Correios, Telégrafos e Telefones de Macau, no financiamento de investimentos necessários à ampliação e remodelação do serviço telefónico e de radiocomunicações da província, empreendimentos estes a incluir no III Plano de Fomento.
+Art. 2.º - 1. O produto do empréstimo será integralmente aplicado, pelos Serviços dos Correios, Telégrafos e Telefones de Macau, no financiamento de investimentos necessários à ampliação e remodelação do serviço telefónico e de radiocomunicações da província, empreendimentos estes a incluir no III Plano de Fomento.
 
 2. As cláusulas do empréstimo serão ajustadas em contrato a realizar entre o Governo da província e os Serviços dos Correios, Telégrafos e Telefones de Macau, constituindo os encargos resultantes despesa preferencial e obrigatória deste organismo, que inscreverá anualmente no seu orçamento as dotações necessárias à respectiva liquidação.
 
-###### Art. 3.º O empréstimo poderá ser representado por títulos emitidos pela província de Macau.
+Art. 3.º O empréstimo poderá ser representado por títulos emitidos pela província de Macau.
 
-###### Art. 4.º No orçamento geral da província de Macau serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
+Art. 4.º No orçamento geral da província de Macau serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Maio de 1971.**
+Promulgado em 3 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Macau. - J. da Silva Cunha.

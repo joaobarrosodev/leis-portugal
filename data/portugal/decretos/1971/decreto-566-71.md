@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/566-1971-632376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ab4095829d1bf21bd6531a208a55f9c54bdb6706f579ee8495792f924f2a23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d269f63f5c64ea0bf599fe77e8fd5f5488c169c36dfb7c799b48179c4d8dac6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distinção Honorífica
+- Forças Armadas
+- Militar
+- Regulamento
+- Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:404743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161368:por
+  label: "Consideradas prejudicadas as disposições do Regulamento que exijam a publicação de quaisquer louvores concedidos\
+    \ a militares, pelo DEC LEI.171/75.01.04.1975.CCEMFA, DG.IS [76] de 01.04.1975, relativamente ao contido no art. 1º daquele\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1975-161368
+  date: '1975-04-01'
+- type: amended_by
+  target: pt:dre:250453:por
+  label: "Alterado o art. 33º pelo DEC.95/77.1977.07.08.CR,DR.IS [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/95-1977-250453
+  date: '1977-07-08'
+- type: amended_by
+  target: pt:dre:392045:por
+  label: "Alterado o art. 44º pelo DEC.4/79.1979.01.17.CR,DR.IS [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-1979-392045
+  date: '1979-01-17'
+- type: amended_by
+  target: pt:dre:472952:por
+  label: "Alterado o art. 80º pelo DEC.37/80.1980.06.12.CR DR.IS [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/37-1980-472952
+  date: '1980-06-12'
+- type: amended_by
+  target: pt:dre:311058:por
+  label: "Alterado o art. 82º do Regulamento aprovado pelo presente diploma pelo DEC LEI.99/83.1983.02.18.MDN,DR.IS [40]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1983-311058
+  date: '1983-02-18'
+- type: cites
+  target: pt:dre:158239:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:291788:por
+  label: Rectificada pela DECL.DD884.1972.01.04.PC DG.IS [5] DE 07/JAN/1972
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1972-291788
+  date: '1972-01-04'
+- type: corrected_by
+  target: pt:dre:400017:por
+  label: "Rectificado pela RECT.DD356.22.01.1972.PC, DG.IS [18] de 22.01.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-400017
+  date: '1972-01-22'
+- type: corrected_by
+  target: pt:dre:398085:por
+  label: Rectificada pela DECL.DD886.1972.01.24.PC DG.IS [31] DE 07/FEV/1972
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1972-398085
+  date: '1972-01-24'
+- type: repealed_by
+  target: pt:dre:404743:por
+  label: "Revogado pelo DEC LEI.316/2002.2002.12.27.MDN DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2002-404743
+  date: '2002-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:30Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +159,11 @@ Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
 
 ### CAPÍTULO I — Finalidades e diferentes modalidades das medalhas
 
-###### Artigo 1.º - 1. A medalha militar, nas suas diferentes modalidades, destina-se a galardoar serviços notáveis prestados às instituições militares e à Nação, e bem assim a distinguir altas virtudes reveladas no serviço por militares do Exército, da Armada e da Força Aérea.
+Artigo 1.º - 1. A medalha militar, nas suas diferentes modalidades, destina-se a galardoar serviços notáveis prestados às instituições militares e à Nação, e bem assim a distinguir altas virtudes reveladas no serviço por militares do Exército, da Armada e da Força Aérea.
 
 2. A medalha militar pode também ser concedida a militares estrangeiros e a civis nacionais e estrangeiros, nos casos expressamente previstos neste Regulamento.
 
-###### Art. 2.º A medalha militar compreende as seguintes modalidades:
+Art. 2.º A medalha militar compreende as seguintes modalidades:
 
 Valor militar;
 
@@ -118,7 +175,7 @@ Mérito militar;
 
 Comportamento exemplar.
 
-###### Art. 3.º - 1. As medalhas comemorativas destinam-se a assinalar épocas ou factos de realce na vida dos militares do Exército, da Marinha e da Força Aérea ou de elementos militarizados, ocorridos em serviço de campanha ou durante o desempenho de comissões de serviço especiais.
+Art. 3.º - 1. As medalhas comemorativas destinam-se a assinalar épocas ou factos de realce na vida dos militares do Exército, da Marinha e da Força Aérea ou de elementos militarizados, ocorridos em serviço de campanha ou durante o desempenho de comissões de serviço especiais.
 
 2. As medalhas comemorativas são as seguintes:
 
@@ -132,7 +189,7 @@ Medalha comemorativa de comissões de serviço especiais das forças armadas por
 
 ### CAPÍTULO II — Da medalha de valor militar
 
-###### Art. 4.º - 1. A medalha de valor militar é destinada a galardoar actos heróicos e abnegação e valentia extraordinários ou de grande coragem moral e excepcional capacidade de decisão, quer em campanha, quer em tempo de paz, mas sempre em circunstâncias em que haja comprovado ou presumível perigo de vida do agraciado.
+Art. 4.º - 1. A medalha de valor militar é destinada a galardoar actos heróicos e abnegação e valentia extraordinários ou de grande coragem moral e excepcional capacidade de decisão, quer em campanha, quer em tempo de paz, mas sempre em circunstâncias em que haja comprovado ou presumível perigo de vida do agraciado.
 
 2. A medalha de valor militar compreende os seguintes graus:
 
@@ -142,27 +199,27 @@ Medalha de prata;
 
 Medalha de cobre.
 
-###### Art. 5.º A medalha de ouro de valor militar pode ser concedida aos militares que tenham prestado brilhantes e extraordinários actos de bravura, revelando audácia, desprezo pelo perigo e arrojo em frente do inimigo, ou tenham exercido firme e muito valorosa condução de operações de que haja resultado grande lustre para as armas portuguesas.
+Art. 5.º A medalha de ouro de valor militar pode ser concedida aos militares que tenham prestado brilhantes e extraordinários actos de bravura, revelando audácia, desprezo pelo perigo e arrojo em frente do inimigo, ou tenham exercido firme e muito valorosa condução de operações de que haja resultado grande lustre para as armas portuguesas.
 
-###### Art. 6.º A medalha de ouro de valor militar pode ainda ser concedida às unidades de terra, mar e ar, praças de guerra ou localidades sitiadas que tenham praticado um feito de armas muito brilhante e extraordinário ou tenham, com grande valor e raro exemplo de abnegação, heroísmo e coragem, sustentado contra o inimigo uma acção de que resulte excepcional honra e glória para a Pátria.
+Art. 6.º A medalha de ouro de valor militar pode ainda ser concedida às unidades de terra, mar e ar, praças de guerra ou localidades sitiadas que tenham praticado um feito de armas muito brilhante e extraordinário ou tenham, com grande valor e raro exemplo de abnegação, heroísmo e coragem, sustentado contra o inimigo uma acção de que resulte excepcional honra e glória para a Pátria.
 
-###### Art. 7.º A medalha de prata de valor militar pode ser concedida a militares que tiverem praticado em campanha ou em tempo de paz actos extraordinários de rara abnegação, valentia e coragem ou firme e notável condução de operações, demonstrando alta noção da grandeza do dever militar e da disciplina, em circunstâncias semelhantes às indicadas no artigo 5.º, embora não justifiquem a concessão da medalha de ouro.
+Art. 7.º A medalha de prata de valor militar pode ser concedida a militares que tiverem praticado em campanha ou em tempo de paz actos extraordinários de rara abnegação, valentia e coragem ou firme e notável condução de operações, demonstrando alta noção da grandeza do dever militar e da disciplina, em circunstâncias semelhantes às indicadas no artigo 5.º, embora não justifiquem a concessão da medalha de ouro.
 
-###### Art. 8.º Em tempo de paz a medalha de prata só pode ser concedida aos militares que tenham praticado actos extraordinários de abnegação, valentia e decisão, com desprezo pelo perigo, para submeter pelas armas, à obediência e à disciplina, elementos ou forças por qualquer forma constituídos em rebelião, ou por ocasião de acções armadas de qualquer outra natureza.
+Art. 8.º Em tempo de paz a medalha de prata só pode ser concedida aos militares que tenham praticado actos extraordinários de abnegação, valentia e decisão, com desprezo pelo perigo, para submeter pelas armas, à obediência e à disciplina, elementos ou forças por qualquer forma constituídos em rebelião, ou por ocasião de acções armadas de qualquer outra natureza.
 
-###### Art. 9.º A medalha de cobre de valor militar é exclusivamente destinada a galardoar os sargentos e praças por feitos essencialmente idênticos aos mencionados nos artigos 5.º, 7.º e 8.º, mas em circunstâncias que não seja de considerar a concessão das medalhas de prata e de ouro.
+Art. 9.º A medalha de cobre de valor militar é exclusivamente destinada a galardoar os sargentos e praças por feitos essencialmente idênticos aos mencionados nos artigos 5.º, 7.º e 8.º, mas em circunstâncias que não seja de considerar a concessão das medalhas de prata e de ouro.
 
-###### Art. 10.º Para a concessão da medalha de valor militar é condição indispensável figurar o militar a galardoar, a titulo nominal, no relatório de combate ou da acção em que se verificou o feito ou, em caso de acção de condução de operações, ser a mesma confirmada por entidade hieràrquicamente superior, devendo o militar ser, em qualquer dos casos, louvado individualmente no Diário do Governo, na Ordem do Exército, na Ordem da Armada ou na Ordem à Aeronáutica, com a citação precisa dos factos extraordinários justificativos da concessão.
+Art. 10.º Para a concessão da medalha de valor militar é condição indispensável figurar o militar a galardoar, a titulo nominal, no relatório de combate ou da acção em que se verificou o feito ou, em caso de acção de condução de operações, ser a mesma confirmada por entidade hieràrquicamente superior, devendo o militar ser, em qualquer dos casos, louvado individualmente no Diário do Governo, na Ordem do Exército, na Ordem da Armada ou na Ordem à Aeronáutica, com a citação precisa dos factos extraordinários justificativos da concessão.
 
-###### Art. 11.º Salvo o disposto no artigo 13.º, a concessão de qualquer das medalhas de valor militar é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica, nos termos dos artigos 62.º e 63.º
+Art. 11.º Salvo o disposto no artigo 13.º, a concessão de qualquer das medalhas de valor militar é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica, nos termos dos artigos 62.º e 63.º
 
-###### Art. 12.º O Presidente da República poderá conceder qualquer das medalhas de valor militar a título individual e o grau ouro a título colectivo, por sua iniciativa ou por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, sem dependência de publicação, em ordem, dos factos que deram origem ao agraciamento ou à proposta; o decreto respectivo deverá fundamentar, no entanto, a concessão com os actos e feitos praticados pelo condecorado.
+Art. 12.º O Presidente da República poderá conceder qualquer das medalhas de valor militar a título individual e o grau ouro a título colectivo, por sua iniciativa ou por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, sem dependência de publicação, em ordem, dos factos que deram origem ao agraciamento ou à proposta; o decreto respectivo deverá fundamentar, no entanto, a concessão com os actos e feitos praticados pelo condecorado.
 
-###### Art. 13.º A entrega das insígnias da medalha de valor militar, concedida nos termos do artigo anterior, é, sempre que possível, feita em formatura de tropas pelo Presidente da República ou por quem para tal receba expressa delegação do Chefe do Estado.
+Art. 13.º A entrega das insígnias da medalha de valor militar, concedida nos termos do artigo anterior, é, sempre que possível, feita em formatura de tropas pelo Presidente da República ou por quem para tal receba expressa delegação do Chefe do Estado.
 
 ### CAPÍTULO III — Da medalha da cruz de guerra
 
-###### Art. 14.º - 1. A medalha da cruz de guerra destina-se a galardoar actos e feitos de bravura praticados em campanha por militares do Exército, da Armada e da Força Aérea ou por civis, quer nacionais, quer estrangeiros.
+Art. 14.º - 1. A medalha da cruz de guerra destina-se a galardoar actos e feitos de bravura praticados em campanha por militares do Exército, da Armada e da Força Aérea ou por civis, quer nacionais, quer estrangeiros.
 
 2. A medalha da cruz de guerra compreende os graus a seguir indicados, sendo a concessão de qualquer deles independente da categoria ou posto do agraciado:
 
@@ -174,7 +231,7 @@ Cruz de guerra de 3.ª classe;
 
 Cruz de guerra de 4.ª classe.
 
-###### Art. 15.º Salvo o disposto no artigo 19.º, a concessão da cruz de guerra exige que os factos que lhe sirvam de base constem de louvor publicado, no mínimo:
+Art. 15.º Salvo o disposto no artigo 19.º, a concessão da cruz de guerra exige que os factos que lhe sirvam de base constem de louvor publicado, no mínimo:
 
 a) No Diário do Governo, na Ordem do Exército, na Ordem da Armada ou na Ordem à Aeronáutica - para a cruz de guerra de 1.ª classe;
 
@@ -184,21 +241,21 @@ c) Ordem de comando de forças em operações exercido por oficial general - par
 
 d) Ordem de unidade comandada por oficial de posto não interior a tenente-coronel ou capitão-de-fragata - para a cruz de guerra de 4.ª classe.
 
-###### Art. 16.º É condição essencial, justificativa da concessão de qualquer das classes da medalha da cruz de guerra, que os louvores respectivos refiram actos ou feitos praticados em combate demonstrativos de coragem, decisão, serena energia debaixo de fogo, sangue-frio e outras qualidades que honrem o militar em frente do inimigo ou o civil colocado em idênticas condições.
+Art. 16.º É condição essencial, justificativa da concessão de qualquer das classes da medalha da cruz de guerra, que os louvores respectivos refiram actos ou feitos praticados em combate demonstrativos de coragem, decisão, serena energia debaixo de fogo, sangue-frio e outras qualidades que honrem o militar em frente do inimigo ou o civil colocado em idênticas condições.
 
-###### Art. 17.º A cruz da guerra de 1.ª classe poda ser conferida a unidades da terra, mar e ar e ainda a praças da guerra ou quaisquer localidades sitiadas que hajam colectivamente praticado feitos de armas de excepcional valor.
+Art. 17.º A cruz da guerra de 1.ª classe poda ser conferida a unidades da terra, mar e ar e ainda a praças da guerra ou quaisquer localidades sitiadas que hajam colectivamente praticado feitos de armas de excepcional valor.
 
-###### Art. 18.º Salvo o disposto nos artigos 19.º a 20.º, a concessão de qualquer das medalhas de cruz de guerra é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, nos termos dos artigos 62.º e 63.º
+Art. 18.º Salvo o disposto nos artigos 19.º a 20.º, a concessão de qualquer das medalhas de cruz de guerra é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, nos termos dos artigos 62.º e 63.º
 
-###### Art. 19.º - 1. O Presidente da República poderá conceder qualquer das medalhas de cruz de guerra a título individual ao grau de 1.ª classe a título colectivo, por sua iniciativa ou por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, sem dependência da publicação, em ordem, das factos que lhe deram origem; o decreto respectivo fundamentará, no entanto, a concessão com os actos e feitos praticados pelo condecorado.
+Art. 19.º - 1. O Presidente da República poderá conceder qualquer das medalhas de cruz de guerra a título individual ao grau de 1.ª classe a título colectivo, por sua iniciativa ou por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, sem dependência da publicação, em ordem, das factos que lhe deram origem; o decreto respectivo fundamentará, no entanto, a concessão com os actos e feitos praticados pelo condecorado.
 
 2. É aplicável à cruz de guerra de 1.ª classe o disposto no artigo 13.º, quando concedida nos termos deste artigo.
 
-###### Art. 20.º O chefe do Estado-Maior-General das Forças Armadas e os oficiais generais comandantes-chefes de forças em operações podem, por sua iniciativa, desde que se verifiquem as condições referidas na última parte do artigo 16.º e alíneas c) e d) do artigo 15.º, conceder, a qualquer militar ou civil, nacional ou estrangeiro, sob as suas ordens, as 3.ª e 4.ª classes da cruz de guerra, comunicando depois o facto aos Ministérios do Exército e da Marinha ou à Secretaria de Estado da Aeronáutica para efeito de registo e anotação nas estações competentes.
+Art. 20.º O chefe do Estado-Maior-General das Forças Armadas e os oficiais generais comandantes-chefes de forças em operações podem, por sua iniciativa, desde que se verifiquem as condições referidas na última parte do artigo 16.º e alíneas c) e d) do artigo 15.º, conceder, a qualquer militar ou civil, nacional ou estrangeiro, sob as suas ordens, as 3.ª e 4.ª classes da cruz de guerra, comunicando depois o facto aos Ministérios do Exército e da Marinha ou à Secretaria de Estado da Aeronáutica para efeito de registo e anotação nas estações competentes.
 
 ### CAPÍTULO IV — Da medalha de serviços distintos
 
-###### Art. 21.º - 1. A medalha de serviços distintos é reservada a galardoar serviços de carácter militar relevantes a extraordinários ou actos notáveis de qualquer natureza, ligados à vida do Exército, da Armada ou da Força Aérea, de que resulte, em qualquer dos casos, honra e lustre para a Pátria ou para as instituições militares do País.
+Art. 21.º - 1. A medalha de serviços distintos é reservada a galardoar serviços de carácter militar relevantes a extraordinários ou actos notáveis de qualquer natureza, ligados à vida do Exército, da Armada ou da Força Aérea, de que resulte, em qualquer dos casos, honra e lustre para a Pátria ou para as instituições militares do País.
 
 2. A medalha de serviços distintos compreende os seguintes graus:
 
@@ -208,17 +265,17 @@ Medalha de prata;
 
 Medalha de cobre.
 
-###### Art. 22.º A medalha de ouro de serviços distintos, destinada a galardoar serviços distintíssimos no desempenho de uma muito importante comissão de serviço militar ou de alta missão de serviço público, pode ser concedida ao militar que, no exercício das suas funções ou em actos notáveis ligados à vida de qualquer ramo das forças armadas, tiver prestado serviços muito distintos e relevantes e como tal classificados em louvor individual constante de portaria ministerial.
+Art. 22.º A medalha de ouro de serviços distintos, destinada a galardoar serviços distintíssimos no desempenho de uma muito importante comissão de serviço militar ou de alta missão de serviço público, pode ser concedida ao militar que, no exercício das suas funções ou em actos notáveis ligados à vida de qualquer ramo das forças armadas, tiver prestado serviços muito distintos e relevantes e como tal classificados em louvor individual constante de portaria ministerial.
 
-###### Art. 23.º - 1. Para as efeitos do disposto no artigo anterior, considera-se como muito importante comissão de serviço militar o desempenho de funções de comando, de direcção a de estado-maior por oficiais generais e, excepcionalmente, por oficiais superiores.
+Art. 23.º - 1. Para as efeitos do disposto no artigo anterior, considera-se como muito importante comissão de serviço militar o desempenho de funções de comando, de direcção a de estado-maior por oficiais generais e, excepcionalmente, por oficiais superiores.
 
 2. Com igual finalidade deva considerar-se como «alta missão de serviço público» o desempenho de funções por entidade de categoria equivalente às indicadas no número anterior.
 
-###### Art. 24.º - 1. A medalha de ouro de serviços distintos pode ser concedida a unidades do Exército, da Armada ou da Força Aérea que tenham prestado serviços muito distintos e relevantes.
+Art. 24.º - 1. A medalha de ouro de serviços distintos pode ser concedida a unidades do Exército, da Armada ou da Força Aérea que tenham prestado serviços muito distintos e relevantes.
 
 2. Para a concessão da medalha de serviços distintos, nos termos deste artigo, seguir-se-ão, na parte aplicável, as disposições constantes do artigo 28.º
 
-###### Art. 25.º A medalha de prata de serviços distintos, destinada a recompensar actos de esclarecido e excepcional zelo no cumprimento de missões de serviço público ou no cumprimento, por forma altamente honrosa e brilhante, de comissões de serviço militar de que resulte prestigio para as instituições militares, pode ser concedida ao militar:
+Art. 25.º A medalha de prata de serviços distintos, destinada a recompensar actos de esclarecido e excepcional zelo no cumprimento de missões de serviço público ou no cumprimento, por forma altamente honrosa e brilhante, de comissões de serviço militar de que resulte prestigio para as instituições militares, pode ser concedida ao militar:
 
 a) Que tiver praticado um importante serviço de carácter militar ou uma acção notável de que resulte lustre e honra para as instituições militares do País e pela qual tenha sido louvado por portaria, com a indicação expressa de deverem os serviços prestados ser classificados de distintos para efeitos de atribuição do correspondente galardão;
 
@@ -226,7 +283,7 @@ b) Que tiver desempenhado uma importante comissão de serviço militar e nela te
 
 c) Que tiver prestado três serviços, de entre os que são enumerados no artigo 28.º e nas alíneas a) e b) anteriores, de modo a obter, por cada um deles, louvor individual, considerando-o expressamente como distinto, em ordem de unidade ou organismo comandado ou dirigido por oficial general.
 
-###### Art. 26.º A medalha de cobre pode ser concedida ao sargento ou praça:
+Art. 26.º A medalha de cobre pode ser concedida ao sargento ou praça:
 
 a) Que tiver desempenhado um importante serviço de carácter militar por forma a obter louvor individual na Ordem do Exército, na Ordem da Armada ou na Ordem à Aeronáutica, com a indicação de dever ser considerado extraordinário e importante o serviço prestado;
 
@@ -234,9 +291,9 @@ b) Que tiver prestado dois serviços, de entre os que são enumerados no artigo 
 
 c) Que tiver sido individualmente louvado cinco vezes em ordem de unidade, de comando de tenente-coronel ou capitão-de-fragata, de outro comando superior, ou conferidos por inspectores de armas e serviços, pelo desempenho de serviços de carácter militar, devendo um dos louvores satisfazer às condições indicadas na alínea anterior.
 
-###### Art. 27.º Na classificação, como importante, de serviço cujo desempenho possa conferir direito à concessão da medalha de serviços distintos, nos termos dos artigos 25.º e 26.º, ter-se-á em consideração a natureza das funções normalmente cometidas aos militares de posto idêntico ao do militar proposto a as circunstâncias que tenham especialmente revestido a sua execução, podendo, assim, ser apreciados de forma diversa serviços de natureza análoga.
+Art. 27.º Na classificação, como importante, de serviço cujo desempenho possa conferir direito à concessão da medalha de serviços distintos, nos termos dos artigos 25.º e 26.º, ter-se-á em consideração a natureza das funções normalmente cometidas aos militares de posto idêntico ao do militar proposto a as circunstâncias que tenham especialmente revestido a sua execução, podendo, assim, ser apreciados de forma diversa serviços de natureza análoga.
 
-###### Art. 28.º - 1. Poderão ser classificados como distintos, além de outros, para efeitos da concessão da medalha de serviços distintos, os serviços a actos seguintes:
+Art. 28.º - 1. Poderão ser classificados como distintos, além de outros, para efeitos da concessão da medalha de serviços distintos, os serviços a actos seguintes:
 
 a) Serviços de campanha;
 
@@ -266,21 +323,21 @@ b) Os serviços de instrução de carácter relevante, mormente os referentes à
 
 c) Os estudos e trabalhos preparatórios referentes à mobilização militar e civil e à defesa nacional não incluídos nas alíneas anteriores.
 
-###### Art. 29.º Não serão contados como serviços diferentes, para os efeitos da alínea c) do artigo 25.º e das alíneas b) e c) do artigo 26.º, os serviços idênticos desempenhados pela mesma pessoa em determinada unidade, estabelecimento ou situação, ainda que pelo seu desempenho tenha sido louvado por entidades diferentes, quando entre as datas dos respectivos louvores tenha decorrido prazo inferior a três anos.
+Art. 29.º Não serão contados como serviços diferentes, para os efeitos da alínea c) do artigo 25.º e das alíneas b) e c) do artigo 26.º, os serviços idênticos desempenhados pela mesma pessoa em determinada unidade, estabelecimento ou situação, ainda que pelo seu desempenho tenha sido louvado por entidades diferentes, quando entre as datas dos respectivos louvores tenha decorrido prazo inferior a três anos.
 
-###### Art. 30.º A medalha de serviços distintos pode, a titulo excepcional, ser concedida a civis ou a estrangeiros.
+Art. 30.º A medalha de serviços distintos pode, a titulo excepcional, ser concedida a civis ou a estrangeiros.
 
-###### Art. 31.º Salvo o disposto no artigo 32.º, a concessão da medalha de serviços distintos é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica, nos termos dos artigos 62.º e 63.º
+Art. 31.º Salvo o disposto no artigo 32.º, a concessão da medalha de serviços distintos é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica, nos termos dos artigos 62.º e 63.º
 
-###### Art. 32.º - 1. O Presidente da República poderá conceder qualquer dos graus da medalha de serviços distintos por sua iniciativa ou por proposta dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, independentemente das formalidades estabelecidas no presente Regulamento; da concessão deve, porém, ser dado conhecimento, conforme os casos, ao respectivo departamento a que pertence o agraciado, para efeitos de registo e anotação nas estações competentes.
+Art. 32.º - 1. O Presidente da República poderá conceder qualquer dos graus da medalha de serviços distintos por sua iniciativa ou por proposta dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, independentemente das formalidades estabelecidas no presente Regulamento; da concessão deve, porém, ser dado conhecimento, conforme os casos, ao respectivo departamento a que pertence o agraciado, para efeitos de registo e anotação nas estações competentes.
 
 2. Quando se trate da concessão do grau ouro a título colectivo, a proposta referida no número anterior terá a concordância do Presidente do Conselho.
 
 ### CAPÍTULO V — Da medalha de mérito militar
 
-###### Art. 33.º A medalha de mérito militar destina-se a galardoar os militares que revelem competência profissional e aptidão para bem servir nas diferentes circunstâncias e, bem assim, excepcionais qualidades e virtudes militares, com um espírito de sacrifício e de abnegação, coragem moral, valentia e lealdade, que os tornem dignos de ocupar cargos da maior responsabilidade ou os postos de maior risco e merecedores do respeito e consideração pública.
+Art. 33.º A medalha de mérito militar destina-se a galardoar os militares que revelem competência profissional e aptidão para bem servir nas diferentes circunstâncias e, bem assim, excepcionais qualidades e virtudes militares, com um espírito de sacrifício e de abnegação, coragem moral, valentia e lealdade, que os tornem dignos de ocupar cargos da maior responsabilidade ou os postos de maior risco e merecedores do respeito e consideração pública.
 
-###### Art. 34.º A medalha de mérito militar compreende:
+Art. 34.º A medalha de mérito militar compreende:
 
 Grã-cruz;
 
@@ -292,7 +349,7 @@ Grã-cruz;
 
 4.ª classe.
 
-###### Art. 35.º - 1. A grã-cruz da medalha de mérito militar só pode ser concedida a Ministros, Secretários ou Subsecrtários de Estado dos departamentos militares e a oficiais generais.
+Art. 35.º - 1. A grã-cruz da medalha de mérito militar só pode ser concedida a Ministros, Secretários ou Subsecrtários de Estado dos departamentos militares e a oficiais generais.
 
 2. Os restantes graus da medalha de mérito militar poderão ser concedidos aos militares que, em regra, possuam a patente, ou graduação, e o tempo de serviço seguintes:
 
@@ -306,7 +363,7 @@ d) 4.ª classe - sargento, furriel ou praça e dois anos de serviço.
 
 3. Na contagem de tempo de serviço para efeito da concessão da medalha de mérito militar não se compreendem as percentagens concedidas por serviços de campanha no ultramar ou outras de qualquer espécie.
 
-###### Art. 36.º Para se poder ser agraciado com qualquer das classes da medalha de mérito militar é necessário:
+Art. 36.º Para se poder ser agraciado com qualquer das classes da medalha de mérito militar é necessário:
 
 a) Ter bom comportamento;
 
@@ -314,19 +371,19 @@ b) Ter registados, pelo menos, três louvores individuais, no mínimo, em ordem 
 
 c) Ter boas informações dos chefes acerca das qualidades militares, morais e profissionais.
 
-###### Art. 37.º A medalha de mérito militar pode ser concedida a militares estrangeiros.
+Art. 37.º A medalha de mérito militar pode ser concedida a militares estrangeiros.
 
-###### Art. 38.º A concessão da grã-cruz de mérito militar é da competência do Presidente da República, quer por sua iniciativa, quer por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica.
+Art. 38.º A concessão da grã-cruz de mérito militar é da competência do Presidente da República, quer por sua iniciativa, quer por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica.
 
-###### Art. 39.º - 1. A concessão das 1.ª, 2.ª, 3.ª e 4.ª classes da medalha de mérito militar é da competência dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, nos termos do artigo 62.º
+Art. 39.º - 1. A concessão das 1.ª, 2.ª, 3.ª e 4.ª classes da medalha de mérito militar é da competência dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, nos termos do artigo 62.º
 
 2. Quando a concessão tenha lugar por iniciativa dos titulares dos departamentos militares, é dispensada a satisfação da condição referida na alínea b) do artigo 36.º
 
-###### Art. 40.º O Presidente da República poderá conceder qualquer das classes da medalha de mérito militar por sua iniciativa ou por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, independentemente das formalidades estabelecidas no presente Regulamento; da concessão deve, porém, ser dado conhecimento, conforme os casos, ao respectivo departamento a que pertence o agraciado, para efeitos de registo e anotação nas estações competentes.
+Art. 40.º O Presidente da República poderá conceder qualquer das classes da medalha de mérito militar por sua iniciativa ou por proposta, com a concordância do Presidente do Conselho, dos Ministros da Defesa Nacional, do Exército ou da Marinha ou do Secretário de Estado da Aeronáutica, independentemente das formalidades estabelecidas no presente Regulamento; da concessão deve, porém, ser dado conhecimento, conforme os casos, ao respectivo departamento a que pertence o agraciado, para efeitos de registo e anotação nas estações competentes.
 
 ### CAPÍTULO VI — Da medalha de comportamento exemplar
 
-###### Art. 41.º - 1. A medalha de comportamento exemplar é destinada a distinguir os militares que servem ao longo da sua carreira com exemplar conduta moral e disciplinar e comprovado espírito de lealdade.
+Art. 41.º - 1. A medalha de comportamento exemplar é destinada a distinguir os militares que servem ao longo da sua carreira com exemplar conduta moral e disciplinar e comprovado espírito de lealdade.
 
 2. A medalha de comportamento exemplar compreende os seguintes graus:
 
@@ -336,23 +393,23 @@ Medalha de prata;
 
 Medalha de cobre.
 
-###### Art. 42.º A medalha de ouro será concedida ao militar que contar trinta anos de serviço militar efectivo, que nunca tenha sofrido qualquer punição disciplinar ou criminal e tenha sempre revelado dotes notáveis de zelo pelo serviço e alto sentido da virtude, da obediência e das regras da disciplina militar.
+Art. 42.º A medalha de ouro será concedida ao militar que contar trinta anos de serviço militar efectivo, que nunca tenha sofrido qualquer punição disciplinar ou criminal e tenha sempre revelado dotes notáveis de zelo pelo serviço e alto sentido da virtude, da obediência e das regras da disciplina militar.
 
-###### Art. 43.º A medalha de prata será concedida ao militar que contar quinze anos de serviço militar efectivo e que nunca tenha sofrido qualquer punição disciplinar ou criminal ou que, sendo sargento ou praça e tendo sofrido punição não superior a repreensão, conte dezoito anos de serviço efectivo sem nota disciplinar.
+Art. 43.º A medalha de prata será concedida ao militar que contar quinze anos de serviço militar efectivo e que nunca tenha sofrido qualquer punição disciplinar ou criminal ou que, sendo sargento ou praça e tendo sofrido punição não superior a repreensão, conte dezoito anos de serviço efectivo sem nota disciplinar.
 
-###### Art. 44.º A medalha de cobre será concedida aos sargentos e praças que completem três anos de serviço militar efectivo e que nunca tenham sofrido qualquer punição disciplinar ou criminal ou que, tendo sofrido punição não superior a repreensão, contem cinco anos de serviço efectivo sem nota disciplinar.
+Art. 44.º A medalha de cobre será concedida aos sargentos e praças que completem três anos de serviço militar efectivo e que nunca tenham sofrido qualquer punição disciplinar ou criminal ou que, tendo sofrido punição não superior a repreensão, contem cinco anos de serviço efectivo sem nota disciplinar.
 
-###### Art. 45.º As penas disciplinares que tenham sido anuladas serão, porém, tomadas em consideração para efeito do disposto nos artigos anteriores, salvo se a anulação tiver resultado da reclamação, recurso ou revisão de processo disciplinar.
+Art. 45.º As penas disciplinares que tenham sido anuladas serão, porém, tomadas em consideração para efeito do disposto nos artigos anteriores, salvo se a anulação tiver resultado da reclamação, recurso ou revisão de processo disciplinar.
 
-###### Art. 46.º Na contagem de tempo de serviço para efeito da concessão da medalha de comportamento exemplar não se compreendem as percentagens concedidas por serviços de campanha no ultramar ou outras de qualquer espécie.
+Art. 46.º Na contagem de tempo de serviço para efeito da concessão da medalha de comportamento exemplar não se compreendem as percentagens concedidas por serviços de campanha no ultramar ou outras de qualquer espécie.
 
-###### Art. 47.º A concessão da medalha de comportamento exemplar é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, relativamente aos militares colocados ou que prestem serviço nos respectivos departamentos, nos termos do artigo 64.º
+Art. 47.º A concessão da medalha de comportamento exemplar é da competência dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica, relativamente aos militares colocados ou que prestem serviço nos respectivos departamentos, nos termos do artigo 64.º
 
 ### CAPÍTULO VII — Das medalhas comemorativas
 
-###### Art. 48.º Os militares e elementos militarizados que, por feitos ou serviços em campanha, foram promovidos por distinção ou ficaram mutilados ou estropiados têm direito a usar uma medalha ou insígnia especial alusiva ao facto.
+Art. 48.º Os militares e elementos militarizados que, por feitos ou serviços em campanha, foram promovidos por distinção ou ficaram mutilados ou estropiados têm direito a usar uma medalha ou insígnia especial alusiva ao facto.
 
-###### Art. 49.º - 1. As medalhas comemorativas das campanhas e de comissões de serviço especiais das forças armadas nacionais serão concedidas aos militares ou elementos militarizados que nelas tenham tomado parte, em território português ou estrangeiro, em tempo de guerra ou perigo iminente desta, contra inimigo externo ou em operações de soberania.
+Art. 49.º - 1. As medalhas comemorativas das campanhas e de comissões de serviço especiais das forças armadas nacionais serão concedidas aos militares ou elementos militarizados que nelas tenham tomado parte, em território português ou estrangeiro, em tempo de guerra ou perigo iminente desta, contra inimigo externo ou em operações de soberania.
 
 2. É condição normal para haver direito à concessão ter-se tomado parte nas operações militares ou desempenhado a comissão, durante o período mínimo de seis meses ou durante todo o tempo da sua duração, se este for inferior a seis meses, podendo esse período ser menor nos casos de doença ou lesão que impossibilite a continuação desse serviço; o período de seis meses pode ainda ser contado de maneira fraccionada, se uma dada comissão for realizada em duas ou mais parcelas do território nacional, para as quais esteja estabelecida a medalha a conceder.
 
@@ -364,25 +421,25 @@ b) No caso de se ter tomado parte em operações por um período igual ou superi
 
 4. Se em nova comissão de serviço os militares ou elementos militarizados já condecorados com alguma ou ambas as medalhas a que se refere o presente artigo reunirem as condições expressas nos parágrafos anteriores para a concessão de uma das modalidades da medalha, terão direito ao uso da respectiva medalha e correspondente passadeira ou apenas de nova passadeira, conforme ainda não tenham ou já tenham sido agraciados com a medalha da mesma modalidade.
 
-###### Art. 50.º Por portaria conjunta dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica estabelecer-se-ão para cada caso as circunstâncias em que haverá lugar para as medalhas a que se refere o artigo anterior.
+Art. 50.º Por portaria conjunta dos Ministros da Defesa Nacional, do Exército e da Marinha e do Secretário de Estado da Aeronáutica estabelecer-se-ão para cada caso as circunstâncias em que haverá lugar para as medalhas a que se refere o artigo anterior.
 
-###### Art. 51.º - 1. A concessão das medalhas comemorativas é da competência dos Ministros do Exército e da Marinha e do Secretário de Estado da Aeronáutica.
+Art. 51.º - 1. A concessão das medalhas comemorativas é da competência dos Ministros do Exército e da Marinha e do Secretário de Estado da Aeronáutica.
 
 2. Esta concessão poderá ser, mediante despacho, delegada em general ou almirante com comando ou direcção.
 
 ### CAPÍTULO VIII — Padrões das medalhas, fitas e distinções colectivas e seu uso
 
-###### Art. 52.º - 1. Os padrões das insígnias das diferentes modalidades da medalha militar e das medalhas comemorativas, dos distintivos especiais para os diferentes graus e classes e dos distintivos de condecorações colectivas são os indicados no anexo ao presente decreto.
+Art. 52.º - 1. Os padrões das insígnias das diferentes modalidades da medalha militar e das medalhas comemorativas, dos distintivos especiais para os diferentes graus e classes e dos distintivos de condecorações colectivas são os indicados no anexo ao presente decreto.
 
 2. O seu uso regular-se-á pelo estabelecido nos planos de uniformes e normas de protocolo, e bem assim pelas disposições constantes dos artigos seguintes deste capítulo.
 
-###### Art. 53.º As medalhas de valor militar e de serviços distintos, quando concedidas por feitos ou serviços em campainha, terão sobre a fita uma palma de prata dourada, do modelo constante da fig. 11-A do anexo a este diploma, colocada conforme se exemplifica na fig. 11-B.
+Art. 53.º As medalhas de valor militar e de serviços distintos, quando concedidas por feitos ou serviços em campainha, terão sobre a fita uma palma de prata dourada, do modelo constante da fig. 11-A do anexo a este diploma, colocada conforme se exemplifica na fig. 11-B.
 
-###### Art. 54.º Os indivíduos agraciados com a medalha de comportamento exemplar que venham a ser condecorados com grau superior usam apenas a insígnia correspondente ao grau mais elevado.
+Art. 54.º Os indivíduos agraciados com a medalha de comportamento exemplar que venham a ser condecorados com grau superior usam apenas a insígnia correspondente ao grau mais elevado.
 
-###### Art. 55.º O emblema nacional do padrão das figs. 10-A e 10-B, distintivo dos graus ouro e prata das medalhas de valor militar, de serviços distintos ou de comportamento exemplar, as miniaturas da cruz de guerra dos padrões das figs. 2-B e 2-C, bem como a estrela do padrão da fig. 6-A relativa a promoção por distinção, usam-se no centro da respectiva fita, aplicando-se directamente sobre ela, ou sobre a palma, se for o caso.
+Art. 55.º O emblema nacional do padrão das figs. 10-A e 10-B, distintivo dos graus ouro e prata das medalhas de valor militar, de serviços distintos ou de comportamento exemplar, as miniaturas da cruz de guerra dos padrões das figs. 2-B e 2-C, bem como a estrela do padrão da fig. 6-A relativa a promoção por distinção, usam-se no centro da respectiva fita, aplicando-se directamente sobre ela, ou sobre a palma, se for o caso.
 
-###### Art. 56.º Só é permitido usar uma insígnia de cada modalidade da medalha comemorativa, sendo as repetições representadas conforme segue:
+Art. 56.º Só é permitido usar uma insígnia de cada modalidade da medalha comemorativa, sendo as repetições representadas conforme segue:
 
 a) Na medalha dos promovidos por feitos distintos em campanha, por estrelas do modelo da fig. 6-A, do metal correspondente à respectiva promoção, colocadas sobre a fita por forma que, no peito do agraciado, fiquem da direita para a esquerda por ordem decrescente de valor, conforme a fig. 14;
 
@@ -390,17 +447,17 @@ b) Na medalha comemorativa das campanhas, por passadeiras do modelo da fig. 12, 
 
 c) Na medalha comemorativa de comissões de serviço especiais, também por passadeiras do modelo da fig. 12, colocadas de cima para baixo por ordem cronológica das correspondentes comissões, conforme a fig. 16-B.
 
-###### Art. 57.º - 1. A distinção colectiva concedida nos termos dos artigos 6.º, 17.º e 24.º será usada como gravata de bandeira ou estandarte.
+Art. 57.º - 1. A distinção colectiva concedida nos termos dos artigos 6.º, 17.º e 24.º será usada como gravata de bandeira ou estandarte.
 
 2. Será representada por uma faixa dupla de seda ondeada, de 0,10 m de largura e 1,80 m de comprimento, das cores da fita da modalidade, franjada de ouro e tendo bordada a fio de ouro, numa das pontas, a respectiva insígnia (grau ouro de valor militar, 1.ª classe da cruz de guerra ou grau ouro de serviços distintos), com as dimensões das figs. 1-A, 2-A e 3-B.
 
 3. Por cada condecoração colectiva concedida será usada nova faixa.
 
-###### Art. 58.º - 1. A distinção colectiva respeitante às medalhas de valor militar e cruz de guerra, quando concedida a unidades militares ou praças de guerra, importa para os militares que tomaram parte na acção o uso de um distintivo especial, que será do modelo da fig. 13, nos casos em que os planos de uniformes e normais de protocolo estabeleçam o uso das condecorações completas, ou da fig. 13-A, quando os mesmos planos e normas estabeleçam o uso das fitas simples das condecorações; os cordões do modelo da fig. 13 serão usados do lado direito, suspensos do ombro direito, passando o mais comprido por baixo do braço e indo ambos prender a um botão da farda, conforme o estabelecido no plano de uniformes; as miniaturas do modelo da fig. 13-A são usadas do lado direito do peito, suspensas pelo respectivo travessão.
+Art. 58.º - 1. A distinção colectiva respeitante às medalhas de valor militar e cruz de guerra, quando concedida a unidades militares ou praças de guerra, importa para os militares que tomaram parte na acção o uso de um distintivo especial, que será do modelo da fig. 13, nos casos em que os planos de uniformes e normais de protocolo estabeleçam o uso das condecorações completas, ou da fig. 13-A, quando os mesmos planos e normas estabeleçam o uso das fitas simples das condecorações; os cordões do modelo da fig. 13 serão usados do lado direito, suspensos do ombro direito, passando o mais comprido por baixo do braço e indo ambos prender a um botão da farda, conforme o estabelecido no plano de uniformes; as miniaturas do modelo da fig. 13-A são usadas do lado direito do peito, suspensas pelo respectivo travessão.
 
 2. Quando haja direito a mais do que um distintivo colectivo e o plano de uniformes prescreva o uso dos cordões do modelo da fig. 13, apenas se usará um distintivo, que será o correspondente à medalha de maior precedência; porém, esta restrição não se aplica ao uso das respectivas miniaturas, as quais podem usar-se sem dependência do número, ficando as de maior precedência à direita das restantes.
 
-###### Art. 59.º - 1. Nos actos solenes:
+Art. 59.º - 1. Nos actos solenes:
 
 a) Os agraciados com a medalha de ouro de valor militar poderão usar a insígnia do padrão da fig. 1-A pendente do pescoço por uma fita da respectiva cor;
 
@@ -418,29 +475,29 @@ Ao pescoço, a respectiva cruz de mérito militar, do padrão da fig. 4-C, pende
 
 2. Não pode ser usada mais do que uma insígnia pendente do pescoço.
 
-###### Art. 60.º - 1. Nos uniformes em que, nos termos do estabelecido nos planos de uniformes e normas de protocolo, as condecorações devem ser substituídas pelas correspondentes miniaturas, estas serão usadas na lapela do lado esquerdo e terão as dimensões das figs. 2-B e 2-C.
+Art. 60.º - 1. Nos uniformes em que, nos termos do estabelecido nos planos de uniformes e normas de protocolo, as condecorações devem ser substituídas pelas correspondentes miniaturas, estas serão usadas na lapela do lado esquerdo e terão as dimensões das figs. 2-B e 2-C.
 
 2. Estas disposições são aplicáveis nos casos em que os militares façam uso de trajo civil de gala.
 
-###### Art. 61.º Os civis, em cerimónias adequadas, podem usar as veneras das medalhas com que foram agraciados.
+Art. 61.º Os civis, em cerimónias adequadas, podem usar as veneras das medalhas com que foram agraciados.
 
 ### CAPÍTULO IX — Processo para a concessão das medalhas militares e comemorativas
 
-###### Art. 62.º - 1. A concessão das medalhas de valor militar, serviços distintos e mérito militar é feita por iniciativa dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica ou sob proposta de oficiais generais exercendo funções de comando ou de direcção.
+Art. 62.º - 1. A concessão das medalhas de valor militar, serviços distintos e mérito militar é feita por iniciativa dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica ou sob proposta de oficiais generais exercendo funções de comando ou de direcção.
 
 2. A concessão da medalha da cruz de guerra é feita pelos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta de entidade de categoria igual ou superior à das indicadas na alínea d) do artigo 15.º
 
-###### Art. 63.º A concessão das medalhas de valor militar e de serviços distintos, com palma, e da cruz de guerra é feita pelo Ministro da Defesa Nacional, sempre que se trate de galardoar militares subordinados a comandos-chefes que abranjam forças de mais de um ramo.
+Art. 63.º A concessão das medalhas de valor militar e de serviços distintos, com palma, e da cruz de guerra é feita pelo Ministro da Defesa Nacional, sempre que se trate de galardoar militares subordinados a comandos-chefes que abranjam forças de mais de um ramo.
 
-###### Art. 64.º A concessão da medalha de comportamento exemplar é feita sob proposta enviada à repartição competente pelo comandante, director ou chefe a que estiver submetido o militar que satisfaça às condições exigidas no capítulo VI.
+Art. 64.º A concessão da medalha de comportamento exemplar é feita sob proposta enviada à repartição competente pelo comandante, director ou chefe a que estiver submetido o militar que satisfaça às condições exigidas no capítulo VI.
 
-###### Art. 65.º - 1. A concessão das medalhas comemorativas ou de novas passadeiras correspondentes a repetições de campanhas ou de comissões de serviço especiais a que se referem os artigos 48.º e 49.º será feita sob proposta enviada à repartição competente pelo comandante, director ou chefe a que estiver submetido o militar que satisfaça às condições exigidas no capítulo VII.
+Art. 65.º - 1. A concessão das medalhas comemorativas ou de novas passadeiras correspondentes a repetições de campanhas ou de comissões de serviço especiais a que se referem os artigos 48.º e 49.º será feita sob proposta enviada à repartição competente pelo comandante, director ou chefe a que estiver submetido o militar que satisfaça às condições exigidas no capítulo VII.
 
 2. Exceptua-se a medalha dos promovidos por feitos distintos em campanha, para cujo averbamento é documento bastante a portaria de promoção por distinção, dispensando, portanto, qualquer proposta para a sua concessão.
 
 3. Exceptuam-se ainda os casos em que, nos termos do n.º 2 do artigo 51.º, tenha sido delegada a competência para a concessão, em relação aos quais o respectivo despacho de delegação regulará também as normas processuais a adoptar.
 
-###### Art. 66.º O processo para a concessão das medalhas de valor militar da cruz de guerra, de serviços distintos e de mérito militar compreende as seguintes modalidades:
+Art. 66.º O processo para a concessão das medalhas de valor militar da cruz de guerra, de serviços distintos e de mérito militar compreende as seguintes modalidades:
 
 a) Quando por iniciativa dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica:
 
@@ -458,33 +515,33 @@ Nota de assentos do proposto;
 
 Parecer do chefe do Estado-Maior-General das Forças Armadas para as medalhas a conceder por serviços em campanha.
 
-###### Art. 67.º - 1. A concessão da medalha de valor militar será precedida de deliberação do Supremo Tribunal Militar e a concessão das medalhas de serviços distintos e mérito militar carece de parecer favorável dos respectivos conselhos superiores de disciplina; no diploma da concessão devem mencionar-se precisamente os actos de coragem ou de abnegação praticados no caso da medalha de valor militar ou indicar-se a disposição do presente Regulamento que justifica a concessão no caso das medalhas de serviços distintos e mérito militar.
+Art. 67.º - 1. A concessão da medalha de valor militar será precedida de deliberação do Supremo Tribunal Militar e a concessão das medalhas de serviços distintos e mérito militar carece de parecer favorável dos respectivos conselhos superiores de disciplina; no diploma da concessão devem mencionar-se precisamente os actos de coragem ou de abnegação praticados no caso da medalha de valor militar ou indicar-se a disposição do presente Regulamento que justifica a concessão no caso das medalhas de serviços distintos e mérito militar.
 
 2. Será dispensada a deliberação do Supremo Tribunal Militar se a concessão da medalha de valor militar for de iniciativa do Presidente da República ou se baseie em proposta fundamentada do comandante-chefe das forças em operações, desde que o facto a galardoar se dê na presença do inimigo.
 
 3. Será dispensada a deliberação do Conselho Superior de Disciplina do Exército, da Armada e da Força Aérea quando as medalhas sejam concedidas pelo Presidente da República ou quando se trate de galardoar estrangeiros ou ainda quando a concessão seja da iniciativa dos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica.
 
-###### Art. 68.º - 1. A concessão das condecorações colectivas a que se referem os artigos 6.º, 17.º e 24.º, respectivamente grau ouro da medalha de valor militar, 1.ª classe da medalha da cruz de guerra e grau ouro da medalha de serviços distintos, é sempre feita por decreto referendado pelo Presidente do Conselho e pelos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica, conforme o caso, e também pelo Ministro do Interior, quando se trate de localidades sitiadas, em território da metrópole, a condecorar com valor militar ou cruz de guerra; quando a localidade sitiada faça parte das províncias ultramarinas ou pertença a pais estrangeiro, os processos de concessão serão também referendados, respectivamente, pelos Ministros do Ultramar ou dos Negócios Estrangeiros.
+Art. 68.º - 1. A concessão das condecorações colectivas a que se referem os artigos 6.º, 17.º e 24.º, respectivamente grau ouro da medalha de valor militar, 1.ª classe da medalha da cruz de guerra e grau ouro da medalha de serviços distintos, é sempre feita por decreto referendado pelo Presidente do Conselho e pelos Ministros da Defesa Nacional, do Exército e da Marinha ou do Secretário de Estado da Aeronáutica, conforme o caso, e também pelo Ministro do Interior, quando se trate de localidades sitiadas, em território da metrópole, a condecorar com valor militar ou cruz de guerra; quando a localidade sitiada faça parte das províncias ultramarinas ou pertença a pais estrangeiro, os processos de concessão serão também referendados, respectivamente, pelos Ministros do Ultramar ou dos Negócios Estrangeiros.
 
 2. Quando uma unidade de comando de tenente-coronel, capitão-de-fragata ou superior mereça ser condecorada e não possua bandeira nacional do tipo estandarte, deverá a autoridade proponente da condecoração propor simultâneamente a sua concessão à unidade em causa, seguindo-se os mesmos trâmites da proposta da condecoração. Nos restantes casos, a autoridade proponente deverá simultâneamente propor a concessão da bandeira heráldica correspondente.
 
-###### Art. 69.º Os processos respeitantes à medalha de valor militar serão remetidos ao Supremo Tribunal Militar, salvo os casos previstos no n.º 2 do artigo 67.º, para que o mesmo Tribunal delibere acerca da concessão ou da denegação das medalhas, devendo ser devolvidos à estação competente dentro do prazo máximo de três meses, a contar da data da entrada na respectiva secretaria.
+Art. 69.º Os processos respeitantes à medalha de valor militar serão remetidos ao Supremo Tribunal Militar, salvo os casos previstos no n.º 2 do artigo 67.º, para que o mesmo Tribunal delibere acerca da concessão ou da denegação das medalhas, devendo ser devolvidos à estação competente dentro do prazo máximo de três meses, a contar da data da entrada na respectiva secretaria.
 
-###### Art. 70.º - 1. As decisões em assuntos de concessão da medalha do valor militar serão tomadas em conferência dos membros do Supremo Tribunal Militar e válidas por maioria de votos dos assistentes.
+Art. 70.º - 1. As decisões em assuntos de concessão da medalha do valor militar serão tomadas em conferência dos membros do Supremo Tribunal Militar e válidas por maioria de votos dos assistentes.
 
 2. Cada processo será relatado por um dos vogais militares.
 
 3. O número de membros militares do Supremo Tribunal Militar que tomarem parte em cada votação não deverá ser inferior a cinco.
 
-###### Art. 71.º Quando a deliberação do Supremo Tribunal Militar não for conforme à concessão da medalha de valor militar e o respectivo Ministro não concordar com essa deliberação, será o processo de concessão submetido à apreciação do Conselho Superior de Defesa Nacional, que resolverá em última instância.
+Art. 71.º Quando a deliberação do Supremo Tribunal Militar não for conforme à concessão da medalha de valor militar e o respectivo Ministro não concordar com essa deliberação, será o processo de concessão submetido à apreciação do Conselho Superior de Defesa Nacional, que resolverá em última instância.
 
-###### Art. 72.º - 1. Os louvores que servem de base à concessão das medalhas de valor militar, cruz de guerra, serviços distintos e mérito militar devem ser comunicados pela via competente até aos comandantes-chefes das forças nos respectivos teatros de operações, ou aos chefes dos estados-maiores dos departamentos a que os militares pertencem, no resto do território.
+Art. 72.º - 1. Os louvores que servem de base à concessão das medalhas de valor militar, cruz de guerra, serviços distintos e mérito militar devem ser comunicados pela via competente até aos comandantes-chefes das forças nos respectivos teatros de operações, ou aos chefes dos estados-maiores dos departamentos a que os militares pertencem, no resto do território.
 
 2. Os comandantes-chefes remeterão os processos acompanhados, quando for o caso, das propostas de concessão de medalhas ao chefe do Estado-Maior-General das Forças Armadas, que os preparará para despacho do Ministro da Defesa Nacional ou os remeterá para os departamentos respectivos, consoante a entidade a quem competir a resolução nos termos do presente Regulamento.
 
 3. Os chefes dos estados-maiores dos departamentos a que os militares pertencem prepararão, por intermédio do serviço competente para despacho do titular do departamento, os processos de concessão das medalhas, acompanhados das respectivas propostas, quando for o caso.
 
-###### Art. 73.º - 1. O processo para a concessão da medalha de comportamento exemplar e das referidas nos artigos 48.º e 49.º, com excepção da relativa a promoção por distinção, compreenderá, além da proposta fundamentada da entidade competente:
+Art. 73.º - 1. O processo para a concessão da medalha de comportamento exemplar e das referidas nos artigos 48.º e 49.º, com excepção da relativa a promoção por distinção, compreenderá, além da proposta fundamentada da entidade competente:
 
 a) Para a medalha de comportamento exemplar:
 
@@ -504,23 +561,23 @@ Nota de assentos.
 
 2. Aos militares nas condições exigidas no presente decreto assistirá o direito de requerer a medalha de comportamento exemplar, a medalha dos mutilados em campanha e as medalhas comemorativas das campanhas e de comissões de serviço especiais ou novas passadeiras, nos expressos termos dos regulamentos militares, quando não tenham sido propostos pelos respectivos chefes.
 
-###### Art. 74.º - 1. A concessão das medalhas militares será, conforme o caso, publicada no Diário do Governo, na Ordem do Exército, na Ordem da Armada ou na Ordem à Aeronáutica.
+Art. 74.º - 1. A concessão das medalhas militares será, conforme o caso, publicada no Diário do Governo, na Ordem do Exército, na Ordem da Armada ou na Ordem à Aeronáutica.
 
 2. Exceptua-se o que respeita às medalhas de prata e cobre de comportamento exemplar, cujo averbamento nos registos individuais depende apenas de publicação em ordem de serviço de unidade ou estabelecimento de que os agraciados dependam ou em que prestem serviço, o que será fixado por cada departamento das forças armadas.
 
-###### Art. 75.º A concessão de medalhas comemorativas ou de novas passadeiras será publicada em ordem de serviço de unidade ou estabelecimento de que os agraciados dependem ou em que servem, o que será fixado por cada departamento das forças armadas, tendo em atenção o disposto no n.º 2 do artigo 65.º relativamente à concessão e averbamento da medalha dos promovidos por feitos distintos em campanha.
+Art. 75.º A concessão de medalhas comemorativas ou de novas passadeiras será publicada em ordem de serviço de unidade ou estabelecimento de que os agraciados dependem ou em que servem, o que será fixado por cada departamento das forças armadas, tendo em atenção o disposto no n.º 2 do artigo 65.º relativamente à concessão e averbamento da medalha dos promovidos por feitos distintos em campanha.
 
-###### Art. 76.º Em caso de concessão colectiva de qualquer condecoração, será o facto registado na folha de matrícula de todo o militar abrangido.
+Art. 76.º Em caso de concessão colectiva de qualquer condecoração, será o facto registado na folha de matrícula de todo o militar abrangido.
 
-###### Art. 77.º Os processos concernentes a oficiais generais que pela sua situação estiverem sob as imediatas ordens dos Ministros da Defesa Nacional, do Exército, ou da Marinha ou do Secretário de Estado da Aeronáutica e os relativos a indivíduos que tenham passado à classe civil serão organizados nas repartições competentes do respectivo departamento.
+Art. 77.º Os processos concernentes a oficiais generais que pela sua situação estiverem sob as imediatas ordens dos Ministros da Defesa Nacional, do Exército, ou da Marinha ou do Secretário de Estado da Aeronáutica e os relativos a indivíduos que tenham passado à classe civil serão organizados nas repartições competentes do respectivo departamento.
 
-###### Art. 78.º Os processos para a concessão da medalha militar a civis e estrangeiros serão, em regra, organizados na Repartição do Gabinete do Ministro ou Secretário de Estado interessado, por forma a estabelecer em despacho do respectivo titular.
+Art. 78.º Os processos para a concessão da medalha militar a civis e estrangeiros serão, em regra, organizados na Repartição do Gabinete do Ministro ou Secretário de Estado interessado, por forma a estabelecer em despacho do respectivo titular.
 
-###### Art. 79.º - 1. Na elaboração dos processos para a concessão da medalha militar atender-se-á a que não há limitação para o número de vezes que o mesmo indivíduo pode ser condecorado com qualquer dos graus ou classes das medalhas de valor militar, da cruz de guerra e de serviços distintos.
+Art. 79.º - 1. Na elaboração dos processos para a concessão da medalha militar atender-se-á a que não há limitação para o número de vezes que o mesmo indivíduo pode ser condecorado com qualquer dos graus ou classes das medalhas de valor militar, da cruz de guerra e de serviços distintos.
 
 2. Qualquer das diferentes classes da medalha de mérito militar e, bem assim, qualquer dos graus da medalha de comportamento exemplar não podem ser concedidos mais do que uma vez.
 
-###### Art. 80.º - 1. Serão passados diplomas de concessão de qualquer das modalidades da medalha militar e das medalhas comemorativas pelos gabinetes das entidades competentes para a concessão.
+Art. 80.º - 1. Serão passados diplomas de concessão de qualquer das modalidades da medalha militar e das medalhas comemorativas pelos gabinetes das entidades competentes para a concessão.
 
 2. Será igualmente passado diploma, nos termos deste artigo, aos militares promovidos por distinção.
 
@@ -528,29 +585,29 @@ Nota de assentos.
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 81.º - 1. As medalhas de valor militar, da cruz de guerra, de serviços distintos e de mérito militar não podem ser concedidas como prémio de serviços que tenham servido de base a outra condecoração.
+Art. 81.º - 1. As medalhas de valor militar, da cruz de guerra, de serviços distintos e de mérito militar não podem ser concedidas como prémio de serviços que tenham servido de base a outra condecoração.
 
 2. Não são considerados para os efeitos deste artigo os serviços em que se tenha baseado a concessão da medalha de serviços distintos ou relevantes no ultramar nem a das medalhas comemorativas das campanhas ou de comissões de serviço especiais.
 
 3. Para efeitos do disposto no presente artigo, no parecer a que se refere o artigo 67.º serão indicados os louvores que, podendo interessar à futura concessão de outra medalha militar ou de qualquer grau e modalidade de ordem militar, devem ser considerados cativos com a concessão de uma das medalhas militares e assim assinalados na folha de matrícula do interessado; de forma semelhante se procederá quando a concessão for feita nos termos dos artigos 12.º, 18.º, 31.º, 32.º, 39.º e 40.º por iniciativa da entidade competente.
 
-###### Art. 82.º As insígnias das medalhas de valor militar, da cruz de guerra, de serviços distintos e de mérito militar concedidas serão custeadas pelo Estado, qualquer que seja o grau ou classe atribuído.
+Art. 82.º As insígnias das medalhas de valor militar, da cruz de guerra, de serviços distintos e de mérito militar concedidas serão custeadas pelo Estado, qualquer que seja o grau ou classe atribuído.
 
-###### Art. 83.º - 1. Quando um militar agraciado com qualquer das medalhas referidas no artigo anterior tiver falecido antes de as haver recebido ou a concessão de qualquer das modalidades da medalha militar tenha sido feita a título póstumo, serão as respectivas insígnias entregues à família, pela ordem de preferência seguinte: viúva, filho varão ou filha mais velha, pai, mãe, irmão ou irmã mais velha.
+Art. 83.º - 1. Quando um militar agraciado com qualquer das medalhas referidas no artigo anterior tiver falecido antes de as haver recebido ou a concessão de qualquer das modalidades da medalha militar tenha sido feita a título póstumo, serão as respectivas insígnias entregues à família, pela ordem de preferência seguinte: viúva, filho varão ou filha mais velha, pai, mãe, irmão ou irmã mais velha.
 
 2. No caso de o militar não ter deixado qualquer dos familiares indicados no número anterior, o destino da medalha será definido por despacho do titular do departamento a que o militar pertencera.
 
-###### Art. 84.º Nos casos em que, neste Regulamento, se estabelece, como condição de concessão de qualquer medalha, a publicação de louvor em ordem de determinado escalão, deve entender-se que apenas são válidos para o efeito os louvores concedidos ou considerados como dados pelo comandante, chefe ou director desse escalão, excluindo-se, portanto, os que, embora publicados nessa ordem, foram concedidos por entidades de competência inferior.
+Art. 84.º Nos casos em que, neste Regulamento, se estabelece, como condição de concessão de qualquer medalha, a publicação de louvor em ordem de determinado escalão, deve entender-se que apenas são válidos para o efeito os louvores concedidos ou considerados como dados pelo comandante, chefe ou director desse escalão, excluindo-se, portanto, os que, embora publicados nessa ordem, foram concedidos por entidades de competência inferior.
 
-###### Art. 85.º O uso das medalhas militares e das medalhas comemorativas só é permitido depois da publicação a que se referem os artigos 74.º e 75.º
+Art. 85.º O uso das medalhas militares e das medalhas comemorativas só é permitido depois da publicação a que se referem os artigos 74.º e 75.º
 
-###### Art. 86.º O uso de distintivos individuais de condecorações colectivas só é permitido depois do averbamento, a que se refere o artigo 76.º, na folha de matrícula do militar abrangido.
+Art. 86.º O uso de distintivos individuais de condecorações colectivas só é permitido depois do averbamento, a que se refere o artigo 76.º, na folha de matrícula do militar abrangido.
 
-###### Art. 87.º - 1. A perda da nacionalidade portuguesa produz imediata e necessàriamente a extinção do direito às medalhas militares e comemorativas.
+Art. 87.º - 1. A perda da nacionalidade portuguesa produz imediata e necessàriamente a extinção do direito às medalhas militares e comemorativas.
 
 2. Exceptua-se o caso de a perda de nacionalidade não ser determinada por indignidade, quanto às medalhas comemorativas e militares, que podem ser concedidas a estrangeiros.
 
-###### Art. 88.º Igualmente perdem direito ao uso de medalhas militares e comemorativas:
+Art. 88.º Igualmente perdem direito ao uso de medalhas militares e comemorativas:
 
 a) Os indivíduos que tiverem sido condenados por tribunais militares, excepto se lhes tiver sido aplicada a pena de incorporação em depósito disciplinar ou a de prisão militar e ainda a pena de presídio militar por tempo inferior a quatro anos e um dia;
 
@@ -560,17 +617,17 @@ c) Os indivíduos condenados por crimes de natureza infamante, que revelem a ind
 
 d) Os indivíduos que, por decisão disciplinar, forem demitidos ou separados do serviço, tiverem baixa de serviço por incapacidade moral ou forem eliminados do serviço.
 
-###### Art. 89.º O direito à medalha militar de comportamento exemplar também se extingue quando o seu titular, sendo oficial ou sargento, seja punido com prisão disciplinar agravada. E, tratando-se de praça, extingue-se quando esta tenha sofrido baixa de posto ou uma pena disciplinar que, por si ou suas equivalências, seja igual ou superior a quarenta dias de detenção ou, num período de doze meses consecutivos, três punições disciplinares que, por si ou suas equivalências, perfaçam vinte ou mais dias de detenção.
+Art. 89.º O direito à medalha militar de comportamento exemplar também se extingue quando o seu titular, sendo oficial ou sargento, seja punido com prisão disciplinar agravada. E, tratando-se de praça, extingue-se quando esta tenha sofrido baixa de posto ou uma pena disciplinar que, por si ou suas equivalências, seja igual ou superior a quarenta dias de detenção ou, num período de doze meses consecutivos, três punições disciplinares que, por si ou suas equivalências, perfaçam vinte ou mais dias de detenção.
 
-###### Art. 90.º - 1. Logo que a algum indivíduo condecorado com a medalha militar ou comemorativa seja aplicável o disposto nos artigos 87.º a 89.º, a autoridade superior sob cujas ordens ele servir transmitirá ao respectivo departamento das forças armadas, pelas vias competentes, a participação do facto, a fim de ser feito ou ordenado o cancelamento da condecoração no respectivo registo.
+Art. 90.º - 1. Logo que a algum indivíduo condecorado com a medalha militar ou comemorativa seja aplicável o disposto nos artigos 87.º a 89.º, a autoridade superior sob cujas ordens ele servir transmitirá ao respectivo departamento das forças armadas, pelas vias competentes, a participação do facto, a fim de ser feito ou ordenado o cancelamento da condecoração no respectivo registo.
 
 2. Quando o cancelamento disser respeito a agraciados com medalhas de valor militar, da cruz de guerra, de serviços distintos e de mérito militar, não se tornará efectiva essa operação sem prévia confirmação do Supremo Tribunal Militar.
 
 3. As decisões concernentes ao cancelamento de qualquer das medalhas militares só têm publicidade pela ordem da unidade, estabelecimento ou serviço a que o destituído pertencer.
 
-###### Art. 91.º As medalhas militares, bem como as medalhas comemorativas, são usadas obrigatòriamente com as veneras completas, ou ostentando sòmente as respectivas fitas ou ainda as correspondentes miniaturas, consoante o estabelecido nos planos de uniforme e nas normas de protocolo em vigor.
+Art. 91.º As medalhas militares, bem como as medalhas comemorativas, são usadas obrigatòriamente com as veneras completas, ou ostentando sòmente as respectivas fitas ou ainda as correspondentes miniaturas, consoante o estabelecido nos planos de uniforme e nas normas de protocolo em vigor.
 
-###### Art. 92.º - 1. As insígnias para o peito respeitantes às condecorações individuais de que trata este diploma serão usadas no lado esquerdo, de acordo com a seguinte ordem de precedência em relação a outras condecorações nacionais e estrangeiras:
+Art. 92.º - 1. As insígnias para o peito respeitantes às condecorações individuais de que trata este diploma serão usadas no lado esquerdo, de acordo com a seguinte ordem de precedência em relação a outras condecorações nacionais e estrangeiras:
 
 1.º Ordem Militar da Torre e Espada, de Valor, Lealdade e Mérito;
 
@@ -618,7 +675,7 @@ d) Os indivíduos que, por decisão disciplinar, forem demitidos ou separados do
 
 3. Nas medalhas de valor militar, cruz de guerra, serviços distintos e mérito militar a ordem de precedência será dada, dentro de cada modalidade, pela ordem de importância dos respectivos graus e classes.
 
-###### Art. 93.º - 1. O militar condecorado com a medalha de valor militar ou com a 1.ª classe da cruz de guerra e que se encontre privado de meios de subsistência em relação com o nível que ocupa na vida social tem direito a haver do Estado a pensão legalmente estabelecida como acto de salvaguarda dos valores morais da Nação; nas mesmas condições terá direito a haver pensão o condecorado com a 2.ª e 3.ª classes da cruz de guerra se for sargento ou praça de pré.
+Art. 93.º - 1. O militar condecorado com a medalha de valor militar ou com a 1.ª classe da cruz de guerra e que se encontre privado de meios de subsistência em relação com o nível que ocupa na vida social tem direito a haver do Estado a pensão legalmente estabelecida como acto de salvaguarda dos valores morais da Nação; nas mesmas condições terá direito a haver pensão o condecorado com a 2.ª e 3.ª classes da cruz de guerra se for sargento ou praça de pré.
 
 2. Quando deixarem a efectividade de serviço, têm direito a haver do Estado a pensão estabelecida, independentemente do seu posto ou categoria, não ficando o montante dessa pensão sujeito a qualquer limitação fixada para a pensão de invalidez, de reserva ou de reforma.
 
@@ -626,23 +683,23 @@ d) Os indivíduos que, por decisão disciplinar, forem demitidos ou separados do
 
 4. A pensão a que se refere este artigo caduca nos casos em que o agraciado perder o direito às medalhas de valor militar e da cruz de guerra, nos termos do disposto nos artigos 87.º e 88.º
 
-###### Art. 94.º Na secretaria do Supremo Tribunal Militar existirá um registo ou inventário de todas as propostas para a concessão das medalhas de valor militar, contendo as resoluções adoptadas em conferência; igual registo será organizado no Conselho Superior de Disciplina do Exército, da Armada ou da Força Aérea em relação às medalhas de serviços distintos e de mérito militar.
+Art. 94.º Na secretaria do Supremo Tribunal Militar existirá um registo ou inventário de todas as propostas para a concessão das medalhas de valor militar, contendo as resoluções adoptadas em conferência; igual registo será organizado no Conselho Superior de Disciplina do Exército, da Armada ou da Força Aérea em relação às medalhas de serviços distintos e de mérito militar.
 
-###### Art. 95.º Aos militares que, tendo-se distinguido em campanha durante a vigência do [Decreto n.º 35667](https://diariodarepublica.pt/dr/detalhe/decreto/35667-1946-158239), de 28 de Maio de 1946, não foram agraciados com qualquer grau da medalha de valor militar ou da de serviços distintos, por a isso se oporem o § 3.º do artigo 8.º e o artigo 25.º daquele decreto, poderá ser aplicado o estabelecido nos capítulos II e IV do presente diploma, se então obtiverem louvor nas condições expressas, conforme os casos, no artigo 10.º e ou no artigo 22.º, alíneas a) e b) do artigo 25.º e alínea a) do artigo 26.º
+Art. 95.º Aos militares que, tendo-se distinguido em campanha durante a vigência do [Decreto n.º 35667](https://diariodarepublica.pt/dr/detalhe/decreto/35667-1946-158239), de 28 de Maio de 1946, não foram agraciados com qualquer grau da medalha de valor militar ou da de serviços distintos, por a isso se oporem o § 3.º do artigo 8.º e o artigo 25.º daquele decreto, poderá ser aplicado o estabelecido nos capítulos II e IV do presente diploma, se então obtiverem louvor nas condições expressas, conforme os casos, no artigo 10.º e ou no artigo 22.º, alíneas a) e b) do artigo 25.º e alínea a) do artigo 26.º
 
-###### Art. 96.º As alterações às insígnias e seu uso constantes do presente decreto são extensivas a todos os agraciados existentes, que deverão proceder aos ajustamentos convenientes.
+Art. 96.º As alterações às insígnias e seu uso constantes do presente decreto são extensivas a todos os agraciados existentes, que deverão proceder aos ajustamentos convenientes.
 
-###### Art. 97.º Todos os processos presentemente em curso relativos à concessão da medalha militar são resolvidos pelas disposições do presente decreto.
+Art. 97.º Todos os processos presentemente em curso relativos à concessão da medalha militar são resolvidos pelas disposições do presente decreto.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo - José Pereira do Nascimento.
 
-**Promulgado em 15 de Novembro de 1971.**
+Promulgado em 15 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-## Anexo ao Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
+Anexo ao Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
 
 Padrões das insígnias - Figuras e descrições
 
@@ -692,7 +749,7 @@ Nota. - Na faixa da condecoração colectiva a usar como gravata de bandeira ou 
 
 Valor militar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Cruz de guerra
 
@@ -754,13 +811,13 @@ Nota. - As miniaturas da cruz de guerra de 1.ª, 2.ª e 3.ª classes e o laço p
 
 Cruz de guerra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Fig. 2
 
 Da Fig. 2-A à Fig. 2-D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Serviços distintos.
 
@@ -800,15 +857,15 @@ Serviços distintos
 
 Fig. 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Fig. 3-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Fig. 3-B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Mérito militar
 
@@ -824,7 +881,7 @@ Mérito militar
 
 Fig. 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Mérito militar
 
@@ -892,7 +949,7 @@ Mérito militar
 
 Da Fig. 4-A à Fig. 4-G
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Comportamento exemplar
 
@@ -926,7 +983,7 @@ Comportamento exemplar
 
 Fig. 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Comemorativa dos promovidos por feitos distintos em campanha
 
@@ -944,11 +1001,11 @@ Comemorativa dos promovidos por feitos distintos em campanha
 
 Fig. 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Fig. 6-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Comemorativa dos mutilados em campanha
 
@@ -966,7 +1023,7 @@ Comemorativa dos mutilados em campanha
 
 Fig. 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Comemorativas das campanhas das forças armadas portuguesas
 
@@ -986,7 +1043,7 @@ Comemorativas das campanhas das forças armadas portuguesas
 
 Fig. 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Comemorativas das comissões de serviço especiais das forças armadas portuguesas
 
@@ -1000,7 +1057,7 @@ Comemorativas das comissões de serviço especiais das forças armadas portugues
 
 Fig. 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Distintivos a usar sobre as fitas
 
@@ -1024,7 +1081,7 @@ Distintivos comuns a diferentes modalidades da medalha militar e das medalhas co
 
 Da Fig. 10 à Fig. 12
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Distintivos de condecorações colectivas
 
@@ -1036,16 +1093,16 @@ Distintivos de condecoração colectiva de grau ouro de valor militar e de 1.ª 
 
 Fig. 13
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Fig. 13-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
 Exemplos de repetições de medalhas
 
 Da Fig. 14 à Fig. 16
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29600/19471970.pdf)
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro da Marinha, Manuel Pereira Crespo. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro da Marinha, Manuel Pereira Crespo. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.

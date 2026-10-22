@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01400/00800080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1977-138290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b1ac8d4df6906c2ff4c7858777b242aaf4c3928aa8dd1ba9d4c5dd231cb6a89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a324c381365b2e691c8f8afc7280bfd841fc9bb092f3cd1c9d90607782ddbf10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:319152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319152:por
+  label: "Alterado o art. 2º do Dec Lei 697/73, de 27-dez, na redação do presente diploma, pelo DEC LEI.368-B/83.04.10.1983.MFP,\
+    \ DR.IS [229-2ºSupl] de 04.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-b-1983-319152
+  date: '1983-10-04'
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324876:por
+  label: "Revogado pelo DEC LEI.399/78.15.12.1978.MFP, DR.IS [287] de 15.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1978-324876
+  date: '1978-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:33Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +112,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º e 7.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º e 7.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. ...
 
@@ -116,14 +134,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 7.º Decorridos os prazos estabelecidos nos n.os 3 e 4 do artigo 2.º, sem que se mostre efectuado o pagamento do imposto devido, haverá lugar à cobrança do triplo da taxa do imposto em dívida.
+Art. 7.º Decorridos os prazos estabelecidos nos n.os 3 e 4 do artigo 2.º, sem que se mostre efectuado o pagamento do imposto devido, haverá lugar à cobrança do triplo da taxa do imposto em dívida.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 4 de Janeiro de 1977.**
+Promulgado em 4 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

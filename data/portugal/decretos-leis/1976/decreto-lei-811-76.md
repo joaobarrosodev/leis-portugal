@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26200/25502551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/811-1976-407302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7c97a221c72fdf1a428b7dbbe1e0b0f475c40eda2a45febcea3bb1115f95911
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ef141721f6df5674892d6851134a9c62fd531ed9e11c14ef9d20122f79a1292
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Serviços
+- Gabinete Governamental
+- Governo Regional
+- Ministro da República
+- Orgânica
+- Quadro de Pessoal
+- Secretaria de Apoio ao Gabinete do Ministro da República para os Açores
 relationships:
 - type: amended_by
   target: pt:dre:325168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250016:por
+  label: "Alterado o art. 3º e o quadro de pessoal constante do anexo I do presente diploma, pelo DEC LEI.258/77.20.06.1977.PCM,\
+    \ DR.IS [140] de 20.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1977-250016
+  date: '1977-06-20'
+- type: repealed_by
+  target: pt:dre:325168:por
+  label: "Revogado pelo DEC LEI.415/78.20.12.1978.PCM, DR.IS [291] de 20.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1978-325168
+  date: '1978-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:24Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +115,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Secretaria de Apoio ao Gabinete do Ministro da República para os Açores, com a composição constante do quadro anexo I.
+Artigo 1.º É criada a Secretaria de Apoio ao Gabinete do Ministro da República para os Açores, com a composição constante do quadro anexo I.
 
-###### Art. 2.º É criado um quadro de pessoal auxiliar para prestar serviço e manter as residências e instalações oficiais do Ministro da República para os Açores, com a composição constante do quadro anexo II.
+Art. 2.º É criado um quadro de pessoal auxiliar para prestar serviço e manter as residências e instalações oficiais do Ministro da República para os Açores, com a composição constante do quadro anexo II.
 
-###### Art. 3.º - 1. O pessoal necessário ao preenchimento dos quadros a que se referem os artigos anteriores será requisitado pelo Ministro da República para os Açores ao respectivo Governo Regional, de entre o pessoal de qualquer dos serviços regionais que tenha a categoria correspondente ao lugar que vai ocupar.
+Art. 3.º - 1. O pessoal necessário ao preenchimento dos quadros a que se referem os artigos anteriores será requisitado pelo Ministro da República para os Açores ao respectivo Governo Regional, de entre o pessoal de qualquer dos serviços regionais que tenha a categoria correspondente ao lugar que vai ocupar.
 
 2. O pessoal requisitado nos termos do número anterior conserva todos os direitos e regalias que tiver no quadro de origem, nomeadamente o direito de acesso, não podendo as vagas abertas pela requisição ser preenchidas senão interinamente.
 
@@ -110,18 +129,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 28 de Outubro de 1976.**
+Promulgado em 28 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Quadro a que se refere o artigo 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/26200/25502551.pdf))](https://files.diariodarepublica.pt/1s/1976/11/26200/25502551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/26200/25502551.pdf)
 
 ## ANEXO II — Quadro a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/26200/25502551.pdf))](https://files.diariodarepublica.pt/1s/1976/11/26200/25502551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/26200/25502551.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

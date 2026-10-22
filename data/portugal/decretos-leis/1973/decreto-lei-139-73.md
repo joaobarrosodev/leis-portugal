@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/07600/05000502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1973-675062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9d78f8adb5cfe227d6123ffd377f11ce1bb753d60a7dc5563c51709c60a89b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf0e02309dae2ae6fec3fc64482048fe385089b62bb2ca3b15a0f488c6706a9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Certificado de Circulação de Mercadorias
+- Circulação de Mercadorias
+- Comunidade Europeia
+- Direcção Geral das Alfândegas
+- EFTA
+- Exportação
+- Mercadoria
 relationships:
+- type: amended_by
+  target: pt:dre:138334:por
+  label: "ALTERADA A REDACÇÃO DOS ARTIGOS 1, 2, 10 E 16 PELO DECRETO LEI 32/77 DE 25 DE JANEIRO, PUBLICADO NO DR.IS, 20, DE\
+    \ 770125.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-1977-138334
 - type: amended_by
   target: pt:dre:218561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:218561:por
+  label: "Revogado pelo DEC LEI.219/86.06.08.1986.MF, DR.IS [179] de 06.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1986-218561
+  date: '1986-08-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:12Z'
   warnings: []
   errors: []
 ---
@@ -100,25 +118,25 @@ Considerando, portanto, que as aludidas autoridades terão de efectuar o contrô
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Compete às alfândegas a certificação da origem das mercadorias exportadas com destino aos territórios das Comunidades Europeias e aos Estados Membros da Associação Europeia de Comércio Livre.
+Artigo 1.º Compete às alfândegas a certificação da origem das mercadorias exportadas com destino aos territórios das Comunidades Europeias e aos Estados Membros da Associação Europeia de Comércio Livre.
 
-###### Art. 2.º - 1. É cometida à Direcção-Geral das Alfândegas o contrôle da autenticidade e da regularidade das declarações produzidas pelos exportadores para a emissão dos respectivos certificados de circulação das mercadorias.
+Art. 2.º - 1. É cometida à Direcção-Geral das Alfândegas o contrôle da autenticidade e da regularidade das declarações produzidas pelos exportadores para a emissão dos respectivos certificados de circulação das mercadorias.
 
 2. Para esse efeito, a Direcção-Geral das Alfândegas poderá solicitar dos exportadores os elementos necessários à comprovação da origem, assim como poderá proceder a inquéritos e a exames da contabilidade dos exportadores ou dos respectivos produtores e das circunstâncias relativas ao fabrico das mercadorias.
 
-###### Art. 3.º A certificação da origem é feita nas instâncias aduaneiras, no momento da exportação das mercadorias, pela emissão do competente certificado de circulação das mercadorias.
+Art. 3.º A certificação da origem é feita nas instâncias aduaneiras, no momento da exportação das mercadorias, pela emissão do competente certificado de circulação das mercadorias.
 
-###### Art. 4.º O certificado de circulação das mercadorias só pode ser emitido se for susceptível de constituir o título justificativo para aplicação do regime preferencial estabelecido nos Acordos celebrados com as Comunidades Europeias ou do regime pautal da área previsto na Convenção que instituiu a Associação Europeia de Comércio Livre.
+Art. 4.º O certificado de circulação das mercadorias só pode ser emitido se for susceptível de constituir o título justificativo para aplicação do regime preferencial estabelecido nos Acordos celebrados com as Comunidades Europeias ou do regime pautal da área previsto na Convenção que instituiu a Associação Europeia de Comércio Livre.
 
-###### Art. 5.º O certificado de circulação das mercadorias é emitido pelas autoridades aduaneiras, unicamente, mediante pedido escrito do exportador, em formulário estabelecido para o efeito.
+Art. 5.º O certificado de circulação das mercadorias é emitido pelas autoridades aduaneiras, unicamente, mediante pedido escrito do exportador, em formulário estabelecido para o efeito.
 
-###### Art. 6.º - 1. O certificado de circulação das mercadorias, devidamente preenchido pelo exportador, em quatro exemplares, acompanhado do pedido, é apresentado na estância aduaneira por onde correr o respectivo despacho de exportação, recebendo aí o competente número de ordem.
+Art. 6.º - 1. O certificado de circulação das mercadorias, devidamente preenchido pelo exportador, em quatro exemplares, acompanhado do pedido, é apresentado na estância aduaneira por onde correr o respectivo despacho de exportação, recebendo aí o competente número de ordem.
 
 2. Ao pedido corresponderá o mesmo número de ordem do respectivo certificado de circulação.
 
-###### Art. 7.º O certificado de circulação das mercadorias é visado pelas autoridades aduaneiras no momento da exportação das mercadorias a que respeita, momento em que se considera de facto emitido.
+Art. 7.º O certificado de circulação das mercadorias é visado pelas autoridades aduaneiras no momento da exportação das mercadorias a que respeita, momento em que se considera de facto emitido.
 
-###### Art. 8.º - 1. O certificado de circulação das mercadorias é emitido numa das línguas em que está redigido o Acordo e em conformidade com as disposições do direito interno português.
+Art. 8.º - 1. O certificado de circulação das mercadorias é emitido numa das línguas em que está redigido o Acordo e em conformidade com as disposições do direito interno português.
 
 2. Se o certificado de circulação for manuscrito, deve sê-lo a tinta e em caracteres de imprensa. Não deve conter emendas ou rasuras. As modificações que lhe forem introduzidas devem ser efectuadas riscando as indicações erradas e acrescentando as indicações pretendidas. Qualquer modificação assim efectuada deve ser ressalvada pelo exportador ou seu representante habilitado e visada pelas autoridades aduaneiras.
 
@@ -128,9 +146,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. O exportador ou o transportador pode completar a parte do certificado de circulação das mercadorias reservado à declaração do exportador por meio de uma referência ao documento de transporte.
 
-###### Art. 9.º O exportador fica obrigado a apresentar, a pedido das autoridades aduaneiras, quaisquer documentos justificativos pelas mesmas julgados necessários para a emissão dos certificados de circulação das mercadorias.
+Art. 9.º O exportador fica obrigado a apresentar, a pedido das autoridades aduaneiras, quaisquer documentos justificativos pelas mesmas julgados necessários para a emissão dos certificados de circulação das mercadorias.
 
-###### Art. 10.º - 1. O original do certificado de circulação das mercadorias fica à disposição do exportador a partir do momento em que a exportação é efectivada ou assegurada.
+Art. 10.º - 1. O original do certificado de circulação das mercadorias fica à disposição do exportador a partir do momento em que a exportação é efectivada ou assegurada.
 
 2. O duplicado e o triplicado do certificado de circulação das mercadorias, acompanhados do competente pedido, serão enviados à sede da respectiva alfândega, a fim de serem registados em serviço próprio, criado para o efeito.
 
@@ -156,13 +174,13 @@ g) País de emissão, data da emissão e número do certificado de circulação 
 
 6. Após o registo, as sedes das alfândegas enviarão o duplicado do certificado de circulação das mercadorias, acompanhado do respectivo pedido e demais documentos apresentados, à Direcção-Geral das Alfândegas, para efeitos de contrôle das declarações apresentadas pelos exportadores.
 
-###### Art. 11.º - 1. Excepcionalmente, o certificado de circulação das mercadorias poderá ser emitido depois da exportação das mercadorias a que respeita, quando o não tenha sido no momento da exportação em virtude de erro, omissão involuntária ou da ocorrência de circunstâncias especiais.
+Art. 11.º - 1. Excepcionalmente, o certificado de circulação das mercadorias poderá ser emitido depois da exportação das mercadorias a que respeita, quando o não tenha sido no momento da exportação em virtude de erro, omissão involuntária ou da ocorrência de circunstâncias especiais.
 
 2. Nestes casos, compete às sedes das alfândegas a emissão do certificado de circulação das mercadorias, devendo neste constar as condições em que foi emitido.
 
-###### Art. 12.º É utilizado o certificado de circulação das mercadorias, modelo A. P. 1, para os produtos considerados originários de Portugal, nos termos do artigo 1 do Protocolo n.º 3 do Acordo com a Comunidade Económica Europeia e do artigo 1 da I Parte do Anexo B da Convenção que instituiu a Associação Europeia de Comércio Livre e a que se refere a Decisão n.º 1/73 do Conselho desta Associação.
+Art. 12.º É utilizado o certificado de circulação das mercadorias, modelo A. P. 1, para os produtos considerados originários de Portugal, nos termos do artigo 1 do Protocolo n.º 3 do Acordo com a Comunidade Económica Europeia e do artigo 1 da I Parte do Anexo B da Convenção que instituiu a Associação Europeia de Comércio Livre e a que se refere a Decisão n.º 1/73 do Conselho desta Associação.
 
-###### Art. 13.º - 1. É utilizado o certificado de circulação das mercadorias, modelo A. W. 1, para os produtos que satisfaçam as condições indicadas no artigo 2 e, se for caso disso, no artigo 3 do Protocolo n.º 3 do Acordo com a Comunidade Económica Europeia e da I Parte do Anexo B da Convenção que instituiu a Associação Europeia de Comércio Livre e a que se refere a Decisão n.º 1/73 do Conselho desta Associação.
+Art. 13.º - 1. É utilizado o certificado de circulação das mercadorias, modelo A. W. 1, para os produtos que satisfaçam as condições indicadas no artigo 2 e, se for caso disso, no artigo 3 do Protocolo n.º 3 do Acordo com a Comunidade Económica Europeia e da I Parte do Anexo B da Convenção que instituiu a Associação Europeia de Comércio Livre e a que se refere a Decisão n.º 1/73 do Conselho desta Associação.
 
 2. Estes certificados são emitidos pelas autoridades aduaneiras em face da apresentação dos anteriores certificados de circulação, quer as mercadorias sejam reexportadas no estado em que foram importadas, quer tenham sido submetidas às operações ou transformações referidas no artigo 2 do Protocolo n.º 3 do Acordo com a Comunidade Económica Europeia e da I Parte do Anexo B da Convenção que instituiu a Associação Europeia de Comércio Livre e a que se refere a Decisão n.º 1/73 do Conselho desta Associação.
 
@@ -172,13 +190,13 @@ g) País de emissão, data da emissão e número do certificado de circulação 
 
 Estes certificados devem ainda conter a menção do país donde as mercadorias são consideradas como originárias.
 
-###### Art. 14.º - 1. O possuidor de mercadorias que não se encontrem colocadas em depósito aduaneiro e que pretenda reexportá-las no estado em que foram importadas deverá requerer, nas sedes das alfândegas, que seja anotada, pelas autoridades aduaneiras, no certificado de circulação anteriormente emitido e apresentado no momento da importação a situação em que se encontram as mercadorias, assim como, posteriormente, de seis em seis meses.
+Art. 14.º - 1. O possuidor de mercadorias que não se encontrem colocadas em depósito aduaneiro e que pretenda reexportá-las no estado em que foram importadas deverá requerer, nas sedes das alfândegas, que seja anotada, pelas autoridades aduaneiras, no certificado de circulação anteriormente emitido e apresentado no momento da importação a situação em que se encontram as mercadorias, assim como, posteriormente, de seis em seis meses.
 
 2. Para efeito da anotação dos certificados de circulação das mercadorias, mencionada no n.º 1, as autoridades aduaneiras têm a faculdade de proceder à verificação das mercadorias, em conformidade com a legislação em vigor.
 
-###### Art. 15.º Os pedidos, os duplicados e triplicados dos certificados de circulação das mercadorias e os certificados referidos no 11.º 4 do artigo 13.º do presente diploma, com base nos quais foram emitidos novos certificados, devem ser conservados, pelo menos durante dois anos, pelas alfândegas.
+Art. 15.º Os pedidos, os duplicados e triplicados dos certificados de circulação das mercadorias e os certificados referidos no 11.º 4 do artigo 13.º do presente diploma, com base nos quais foram emitidos novos certificados, devem ser conservados, pelo menos durante dois anos, pelas alfândegas.
 
-###### Art. 16.º - 1. Fica sujeita à aplicação de sanções toda e qualquer pessoa que forneça ou faça fornecer um documento contendo dados inexactos, com o objectivo de obter um certificado de circulação das mercadorias que permita atribuir a determinada mercadoria o benefício do regime preferencial estabelecido nos Acordos com as Comunidades Europeias ou o regime pautal da área previsto na Convenção que instituiu a Associação Europeia de Comércio Livre.
+Art. 16.º - 1. Fica sujeita à aplicação de sanções toda e qualquer pessoa que forneça ou faça fornecer um documento contendo dados inexactos, com o objectivo de obter um certificado de circulação das mercadorias que permita atribuir a determinada mercadoria o benefício do regime preferencial estabelecido nos Acordos com as Comunidades Europeias ou o regime pautal da área previsto na Convenção que instituiu a Associação Europeia de Comércio Livre.
 
 2. As falsas declarações ou inexactidões prestadas, que conduzam à indevida emissão de um certificado de circulação das mercadorias, são sempre consideradas como transgressão fiscal, não podendo a pena aplicável ser inferior à diferença entre os direitos que efectivamente são devidos no destino e aqueles de que a mercadoria viria a beneficiar a coberto do indevido certificado de circulação.
 
@@ -186,10 +204,10 @@ Estes certificados devem ainda conter a menção do país donde as mercadorias s
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

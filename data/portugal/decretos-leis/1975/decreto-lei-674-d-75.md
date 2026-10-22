@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 278/1975, 2º Suplemento, Série I de 1975-12-02
   number: '278'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1940-(5) a 1940-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/27802/00050008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-d-1975-302485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b24a9a3206aa80b6c1126380ee2ba262e2870e3e188a62d118380ed0d250471c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20bc61f96462f0587604238aa343be5eaf291c013ec1e67bd7059b3dd5c6844a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Contrato de Concessão
+- Empresa Pública
+- Nacionalização
+- Personalidade Jurídica
+- RTP
+- Serviço Público
+- Televisão
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355347:por
+  label: "Prorrogado por sessenta dias o prazo previsto no nº 2 do art. 5º pelo DEC LEI.786/75.31.12.1975.MCS, DG.IS [300-7ºSupl]\
+    \ de 31.12.1975 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/786-1975-355347
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:245369:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506050:por
+  label: "Rectificado o artigo 4.º pela RECT.DD25.17.01.1976.PCM, DG.IS [14] de 17.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-506050
+  date: '1976-01-17'
+- type: repealed_by
+  target: pt:dre:166630:por
+  label: "Revogado o artigo 7.º pelo DEC LEI.91-A/77.11.03.1977.PCM, DR.IS [59]2ºSupl de 11.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-a-1977-166630
+  date: '1977-03-11'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:00Z'
   warnings: []
   errors: []
 ---
@@ -122,11 +162,11 @@ Nestes dois últimos contratos, em que o Estado também não interveio, o pool p
 
 Por virtude destes contratos, as empresas particulares da radiodifusão, cuja participação inicial no capital da RTP foi de 20000000$00, receberam as seguintes importâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/27802/00050008.pdf))](https://files.diariodarepublica.pt/1s/1975/12/27802/00050008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/27802/00050008.pdf)
 
 A repartição destes lucros entre as ditas empresas, na proporção do respectivo capital, como estipularam, foi efectuada nos termos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/27802/00050008.pdf))](https://files.diariodarepublica.pt/1s/1975/12/27802/00050008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/27802/00050008.pdf)
 
 Estes números revelam que, por virtude da aludida alínea b) do artigo 11.º do contrato de concessão e dos contratos que ao abrigo dela se fizeram, as empresas de radiodifusão accionistas da RTP têm obtido, além do seu dividendo, e sem que para isso tenham investido mais um centavo, um lucro líquido que em 1973 quase atingiu 100% do capital investido, e que no total equivale a mais de seis vezes a totalidade do investimento.
 
@@ -158,17 +198,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3, da Lei Constitucional n.º 5/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São nacionalizadas as posições sociais no capital da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., com sede em Lisboa, não pertencentes directa ou indirectamente ao Estado.
+Artigo 1.º São nacionalizadas as posições sociais no capital da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., com sede em Lisboa, não pertencentes directa ou indirectamente ao Estado.
 
-###### Art. 2.º - 1. A nacionalização decretada assegura, em princípio, aos titulares das posições sociais nacionalizadas o direito a serem indemnizados em termos a fixar quanto ao montante e forma de pagamento, por acordo ou, na falta dele, por diploma a publicar dentro do prazo de cento e oitenta dias, a contar da data da publicação do presente decreto-lei.
+Art. 2.º - 1. A nacionalização decretada assegura, em princípio, aos titulares das posições sociais nacionalizadas o direito a serem indemnizados em termos a fixar quanto ao montante e forma de pagamento, por acordo ou, na falta dele, por diploma a publicar dentro do prazo de cento e oitenta dias, a contar da data da publicação do presente decreto-lei.
 
 2. O direito à indemnização e seu montante são colocados sob a condição e a dependência das conclusões de um inquérito à licitude dos lucros auferidos pelos respectivos titulares.
 
-###### Art. 3.º É rescindido, deixando de produzir quaisquer efeitos a partir da data da publicação do presente diploma, o contrato de concessão outorgado entre o Estado e a RTP - Radiotelevisão Portuguesa, S. A. R. L., datado de 16 de Janeiro de 1956, publicado no Diário do Governo, 3.ª série, n.º 21, de 25 de Janeiro de 1956.
+Art. 3.º É rescindido, deixando de produzir quaisquer efeitos a partir da data da publicação do presente diploma, o contrato de concessão outorgado entre o Estado e a RTP - Radiotelevisão Portuguesa, S. A. R. L., datado de 16 de Janeiro de 1956, publicado no Diário do Governo, 3.ª série, n.º 21, de 25 de Janeiro de 1956.
 
-###### Art. 4.º Não produzirão efeitos, para o futuro, quaisquer contratos que tenham sido celebrados entre a RTP - Radiotelevisão Portuguesa, S. A. R. L., e empresas emissoras particulares de radiodifusão e suas accionistas, com base no direito destas sobre o tempo de emissão, e tendo por objecto a repartição das receitas de exploração da publicidade nas emissões de televisão, ficando, nomeadamente, extintas todas as obrigações emergentes dos mesmos contratos que se não mostrem ainda cumpridos.
+Art. 4.º Não produzirão efeitos, para o futuro, quaisquer contratos que tenham sido celebrados entre a RTP - Radiotelevisão Portuguesa, S. A. R. L., e empresas emissoras particulares de radiodifusão e suas accionistas, com base no direito destas sobre o tempo de emissão, e tendo por objecto a repartição das receitas de exploração da publicidade nas emissões de televisão, ficando, nomeadamente, extintas todas as obrigações emergentes dos mesmos contratos que se não mostrem ainda cumpridos.
 
-###### Art. 5.º - 1. É criada uma empresa pública denominada Radiotelevisão Portuguesa, E. P., com o objectivo do exercício, em regime de exclusividade, do serviço público de televisão e, eventualmente, de radiodifusão.
+Art. 5.º - 1. É criada uma empresa pública denominada Radiotelevisão Portuguesa, E. P., com o objectivo do exercício, em regime de exclusividade, do serviço público de televisão e, eventualmente, de radiodifusão.
 
 2. A empresa pública referida no número antecedente é dotada de personalidade jurídica e autonomia administrativa e financeira e reger-se-á por estatuto próprio a aprovar pelo Governo dentro do prazo de trinta dias, a contar da entrada em vigor do presente diploma.
 
@@ -180,32 +220,32 @@ b) A representação dos trabalhadores nos órgãos de gestão e fiscalização 
 
 c) A representação dos telespectadores num órgão de base, cuja composição reflicta o pluralismo das correntes políticas e dos credos religiosos.
 
-###### Art. 6.º - 1. São transferidos para a empresa pública os valores activos e passivos, os direitos e as obrigações que constituem a universalidade da concessão e do património afecto à respectiva exploração, hoje na titularidade da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., sem dependência de qualquer formalidade, à excepção dos actos do registo que no caso couberem.
+Art. 6.º - 1. São transferidos para a empresa pública os valores activos e passivos, os direitos e as obrigações que constituem a universalidade da concessão e do património afecto à respectiva exploração, hoje na titularidade da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., sem dependência de qualquer formalidade, à excepção dos actos do registo que no caso couberem.
 
 2. São, nomeadamente, transmitidas as posições contratuais e de entre estas as emergentes de contratos de trabalho, sem prejuízo do disposto nos artigos 3.º e 4.º
 
 3. O acto de publicação do presente diploma acarretará a automática dissolução da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L.
 
-###### Art. 7.º - 1. Até à designação dos corpos sociais estabelecidos no estatuto previsto no antecedente artigo 5.º, a empresa pública Radiotelevisão Portuguesa será administrada e dirigida por uma comissão administrativa constituída por cinco membros, um dos quais desempenhará as funções de presidente, outro de vice-presidente, a nomear pelo Governo, sob proposta do Ministro da Comunicação Social, podendo dela fazer parte todos ou alguns dos actuais administradores da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., os quais continuarão em exercício de funções até à nomeação daquela comissão.
+Art. 7.º - 1. Até à designação dos corpos sociais estabelecidos no estatuto previsto no antecedente artigo 5.º, a empresa pública Radiotelevisão Portuguesa será administrada e dirigida por uma comissão administrativa constituída por cinco membros, um dos quais desempenhará as funções de presidente, outro de vice-presidente, a nomear pelo Governo, sob proposta do Ministro da Comunicação Social, podendo dela fazer parte todos ou alguns dos actuais administradores da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., os quais continuarão em exercício de funções até à nomeação daquela comissão.
 
 2. A comissão administrativa prevista no número antecedente exercerá, directamente ou por delegação, a plenitude das funções actualmente pertencentes a todos os corpos ou órgãos sociais, administrativos, directivos ou outros da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., que se consideram automaticamente dissolvidos por força do presente diploma.
 
 3. Os actuais administradores por parte do Estado da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., exercerão, até à nomeação da comissão administrativa, os poderes constantes do número antecedente.
 
-###### Art. 8.º A comissão administrativa exercerá as suas funções com a preocupação de assegurar uma informação o mais possível objectiva, verdadeira e pluralista ao serviço do povo, cujos sentimentos, preferências e necessidades procurará auscultar e satisfazer.
+Art. 8.º A comissão administrativa exercerá as suas funções com a preocupação de assegurar uma informação o mais possível objectiva, verdadeira e pluralista ao serviço do povo, cujos sentimentos, preferências e necessidades procurará auscultar e satisfazer.
 
-###### Art. 9.º O Ministro da Comunicação Social regulamentará, por portaria, os actos de execução do presente diploma que disso se mostrem carecidos.
+Art. 9.º O Ministro da Comunicação Social regulamentará, por portaria, os actos de execução do presente diploma que disso se mostrem carecidos.
 
-###### Art. 10.º Até à entrada em funcionamento dos órgãos e serviços que vierem a ser estabelecidos no estatuto da empresa pública Radiotelevisão Portuguesa, os actuais serviços da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., continuarão em funcionamento sob a administração e direcção da comissão administrativa que for nomeada e dos actuais administradores por parte do Estado até à nomeação da mesma comissão, com salvaguarda do disposto nos artigos 7.º e 8.º
+Art. 10.º Até à entrada em funcionamento dos órgãos e serviços que vierem a ser estabelecidos no estatuto da empresa pública Radiotelevisão Portuguesa, os actuais serviços da sociedade RTP - Radiotelevisão Portuguesa, S. A. R. L., continuarão em funcionamento sob a administração e direcção da comissão administrativa que for nomeada e dos actuais administradores por parte do Estado até à nomeação da mesma comissão, com salvaguarda do disposto nos artigos 7.º e 8.º
 
-###### Art. 11.º As dúvidas que suscitar a interpretação do disposto no presente diploma serão esclarecidas por despacho do Ministro da Comunicação Social, que de igual modo integrará as respectivas lacunas.
+Art. 11.º As dúvidas que suscitar a interpretação do disposto no presente diploma serão esclarecidas por despacho do Ministro da Comunicação Social, que de igual modo integrará as respectivas lacunas.
 
-###### Art. 12.º O presente diploma entra em vigor na data da publicação.
+Art. 12.º O presente diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - António de Almeida Santos.
 
-**Promulgado em 2 de Dezembro de 1975.**
+Promulgado em 2 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

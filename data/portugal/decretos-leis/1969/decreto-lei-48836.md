@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/01/01300/00400040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48836-1969-527034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1062bb96c28ecbd967595fa0f8b4f7d07b4f74fcee8743d154733deb8884617e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d14c73248be67a0ade08883cdde7bd9d2f1e124f0fe38d7ad8337277950fd68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Indústria Siderúrgica
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:406917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527448:por
+  label: "Ratificado pela RESAN.DD11.26.02.1969.PR, DG.IS [48] de 26.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-nacional/1969-527448
+  date: '1969-02-26'
+- type: cites
+  target: pt:dre:261966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493268:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406917:por
+  label: "Revogado pelo DEC LEI.33-A/86.1986.02.28.MF, DR.IS [49]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-a-1986-406917
+  date: '1986-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:12Z'
   warnings: []
   errors: []
 ---
@@ -97,23 +124,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.ª do antigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 46838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46838-1966-493268), de 18 de Janeiro de 1966, corrigido na sua alínea b) pelo [Decreto-Lei n.º 47243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47243-1966-478184), de 7 de Outubro de 1966, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 46838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46838-1966-493268), de 18 de Janeiro de 1966, corrigido na sua alínea b) pelo [Decreto-Lei n.º 47243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47243-1966-478184), de 7 de Outubro de 1966, passa a ter a seguinte redacção:
 
-###### Art. 2.º Sem prejuízo da classificação pautal que lhes, competir, de acordo com o texto da pauta em vigor, fica suspensa a aplicação da tributação constante do Decreto-Lei n º 44137, de 30 de Dezembro de 1961, e do [Decreto-Lei n.º 48757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48757-1968-261966), de 12 de Dezembro de 1968, relativamente às mercadorias a seguir indicadas, quando a sua importação seja autorizada pelo Ministério da Economia e dessa autorização constem os elementos indispensáveis para a completa identificação da mercadoria pela alfândega:
+Art. 2.º Sem prejuízo da classificação pautal que lhes, competir, de acordo com o texto da pauta em vigor, fica suspensa a aplicação da tributação constante do Decreto-Lei n º 44137, de 30 de Dezembro de 1961, e do [Decreto-Lei n.º 48757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48757-1968-261966), de 12 de Dezembro de 1968, relativamente às mercadorias a seguir indicadas, quando a sua importação seja autorizada pelo Ministério da Economia e dessa autorização constem os elementos indispensáveis para a completa identificação da mercadoria pela alfândega:
 
 a) Ferro fundido, compreendido no artigo 73.01, com um teor em fósforo igual ou inferior a 0,06 por cento;
 
 b) Barras, perfis, arco e chapa de ferro macio ou aço, laminados a quente ou a frio, que a indústria nacional não fabrica.
 
-###### Art. 2.º O regime do artigo anterior aplica-se a todas as mercadorias por ele abrangidas e importadas depois da publicação do [Decreto-Lei n.º 48757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48757-1968-261966), cujos direitos se encontrem garantidos.
+Art. 2.º O regime do artigo anterior aplica-se a todas as mercadorias por ele abrangidas e importadas depois da publicação do [Decreto-Lei n.º 48757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48757-1968-261966), cujos direitos se encontrem garantidos.
 
-###### Art. 3.º Fica revogado o [Decreto-Lei n.º 47243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47243-1966-478184), de 7 de Outubro de 1966.
+Art. 3.º Fica revogado o [Decreto-Lei n.º 47243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47243-1966-478184), de 7 de Outubro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 
-**Promulgado em 15 de Janeiro de 1969.**
+Promulgado em 15 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República 16 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

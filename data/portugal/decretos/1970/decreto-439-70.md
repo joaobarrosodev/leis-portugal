@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/439-1970-149241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d74a3afb67819285e4ea6e3ce8ac9d53f1423757cc779551844635163ca3f1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2420c2aec84b2d3bb33b2ad66188f07e3e8981a250c4c71b0956ff7057175fd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:331053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486537:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:17Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +103,20 @@ Considerando que tal simplificação permite alargar aos alunos das corresponden
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os exames de admissão previstos na alínea a) do n.º 1 do artigo 123.º, tanto do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537) como do [Decreto n.º 38231](https://diariodarepublica.pt/dr/detalhe/decreto/38231-1951-331053), são constituídas, em cada disciplina, por uma prova escrita.
+Artigo 1.º - 1. Os exames de admissão previstos na alínea a) do n.º 1 do artigo 123.º, tanto do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537) como do [Decreto n.º 38231](https://diariodarepublica.pt/dr/detalhe/decreto/38231-1951-331053), são constituídas, em cada disciplina, por uma prova escrita.
 
 2. Consideram-se aprovados os examinandos que no conjunto das provas obtenham média de, pelo menos, 10 valores e não tenham em qualquer delas classificação inferior a 8 valores.
 
-###### Art. 2.º - 1. Nos exames a que se refere o artigo anterior há segunda chamada, à qual sòmente poderão apresentar-se os candidatos que concluam a correspondente secção preparatória na mesma época.
+Art. 2.º - 1. Nos exames a que se refere o artigo anterior há segunda chamada, à qual sòmente poderão apresentar-se os candidatos que concluam a correspondente secção preparatória na mesma época.
 
 2. A admissão à segunda chamada é requerida até 6 de Outubro, devendo os interessados comprovar que satisfazem ao disposto no número anterior.
 
-###### Art. 3.º É aplicável aos alunos das secções preparatórias referidas nos artigos 91.º e 94.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) de 25 de Agosto de 1948, o disposto no n.º 6 do artigo 482.º do mesmo diploma.
+Art. 3.º É aplicável aos alunos das secções preparatórias referidas nos artigos 91.º e 94.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) de 25 de Agosto de 1948, o disposto no n.º 6 do artigo 482.º do mesmo diploma.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 31 de Agosto de 1970.**
+Promulgado em 31 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

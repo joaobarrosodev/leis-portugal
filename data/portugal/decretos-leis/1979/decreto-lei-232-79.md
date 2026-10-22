@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16900/16091620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c3ea8f663d2c1530496ebc4d106a7e86cecc98a7b7b80063356ba6d7a240e9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4f2675eb4084a0fc3ca60cb3b0f54fdfb28cfcdb5ccbf2d007d639d311de7f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito Penal
+- Direito Público
+- Ilícito de MERA Ordenação Social
+- Regime das contra Ordenações
 relationships:
 - type: amended_by
   target: pt:dre:563986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388855:por
+  label: "Pronunciada a inconstitucionalidade do presente diploma, pela RES.71/81.1981.04.09.CR, DR.IS [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/71-1981-388855
+  date: '1981-04-09'
+- type: repealed_by
+  target: pt:dre:158581:por
+  label: "Revogados os nºs. 3 e 4 do art. 1º, pelo DEC LEI.411-A/79.1979.10.01.MJ, DR.IS [222]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-a-1979-158581
+  date: '1979-10-01'
+- type: repealed_by
+  target: pt:dre:376273:por
+  label: "Revogado pelo DEC LEI.433/82.1982.10.27.MJ, DR.IS [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/433-1982-376273
+  date: '1982-10-27'
 article_structure:
   article_count: 81
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:21Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +159,7 @@ Apesar disso, considera-se conveniente submeter desde já ao regime deste decret
 
 Assim, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-# PARTE I — Da contra-ordenação e da coima em geral
+## PARTE I — Da contra-ordenação e da coima em geral
 
 ### CAPÍTULO I — Âmbito de vigência
 
@@ -362,7 +381,7 @@ c) Foram concedidas facilidades de pagamento.
 
 Aplica-se às sanções acessórias o regime previsto nos artigos anteriores para a prescrição da coima.
 
-# PARTE II — Do processo de contra-ordenação
+## PARTE II — Do processo de contra-ordenação
 
 ### CAPÍTULO I — Da competência
 
@@ -836,8 +855,8 @@ d) A indemnização das testemunhas.
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 1979. - Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia.
 
-**Promulgado em 2 de Julho de 1979.**
+Promulgado em 2 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

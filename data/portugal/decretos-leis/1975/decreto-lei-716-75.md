@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29300/21032103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/716-1975-310673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9584aefb29de6b94b5a742bbb82550247694769833c34a6b9cf3dd3a977277f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c581c917b510a76948b856d519c6c19648fc89ca87971968d08384727808a91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jogos de Fortuna e Azar
+- Prorrogação de Prazo
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365949:por
+  label: "Alterado o art. 2º pelo DEC LEI.489/79.1979.12.19.MCT,DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/489-1979-365949
+  date: '1979-12-19'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:336140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:38Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +121,20 @@ Considerando que, entretanto, urge dispor de um instrumento normativo, de carác
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A época de funcionamento das zonas de jogo temporário referidas no § 2.º do artigo 3.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, poderá ser prorrogada para além do prazo previsto no artigo 23.º do mesmo diploma mediante despacho do Ministro do Comércio Externo.
+Artigo 1.º A época de funcionamento das zonas de jogo temporário referidas no § 2.º do artigo 3.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, poderá ser prorrogada para além do prazo previsto no artigo 23.º do mesmo diploma mediante despacho do Ministro do Comércio Externo.
 
-###### Art. 2.º As obrigações legais e convencionais que impendem sobre as empresas concessionárias e que sejam em função da duração da respectiva época de funcionamento sofrerão as modificações respectivas, proporcionadas à extensão da época que vier efectivamente a ter lugar.
+Art. 2.º As obrigações legais e convencionais que impendem sobre as empresas concessionárias e que sejam em função da duração da respectiva época de funcionamento sofrerão as modificações respectivas, proporcionadas à extensão da época que vier efectivamente a ter lugar.
 
-###### Art. 3.º A cobrança do imposto do selo, nos termos do [Decreto-Lei n.º 235/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1975-336140), de 20 de Maio, pelo período de prorrogação previsto neste diploma e relativamente aos cartões e bilhetes cujo prazo de validade não esteja abrangido pelo imposto já pago será efectuada nos termos previstos no artigo 13.º daquele decreto-lei, com as necessárias adaptações.
+Art. 3.º A cobrança do imposto do selo, nos termos do [Decreto-Lei n.º 235/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1975-336140), de 20 de Maio, pelo período de prorrogação previsto neste diploma e relativamente aos cartões e bilhetes cujo prazo de validade não esteja abrangido pelo imposto já pago será efectuada nos termos previstos no artigo 13.º daquele decreto-lei, com as necessárias adaptações.
 
-###### Art. 4.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro do Comércio Externo.
+Art. 4.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro do Comércio Externo.
 
-###### Art. 5.º O presente diploma produz efeitos desde 3 de Novembro de 1975.
+Art. 5.º O presente diploma produz efeitos desde 3 de Novembro de 1975.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 3 de Novembro de 1975.**
+Promulgado em 3 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

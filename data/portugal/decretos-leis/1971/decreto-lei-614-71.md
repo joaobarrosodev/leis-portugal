@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1971-165979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 243adebeecac7de5148afdb9f358ba0552709979b5b77c07b3e2f677195c83f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ec720d85e73e48873ef727b83bb5996398747b97c749a0fb852c0f8ae38706e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Código Administrativo
+- Definição de Competências
+- Despesas Públicas
+- Gestão Autárquica
+- Gestão Financeira
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:39Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +92,9 @@ de 31 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 175.º, 673.º, 708.º, § 8.º, e 792.º do Código Administrativo passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 175.º, 673.º, 708.º, § 8.º, e 792.º do Código Administrativo passam a ter a seguinte redacção:
 
-###### Art. 175.º É privativa das câmaras municipais a competência para contrair empréstimos destinados a fazer face às necessidades da exploração ou do desenvolvimento dos serviços.
+Art. 175.º É privativa das câmaras municipais a competência para contrair empréstimos destinados a fazer face às necessidades da exploração ou do desenvolvimento dos serviços.
 
 § 1.º Não poderão ser contraídos empréstimos cujos encargos não tenham compensação suficiente no rendimento dos serviços.
 
@@ -98,7 +104,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 673.º Os empréstimos dos corpos administrativos, quando não contraídos na Caixa Geral de Depósitos, Crédito e Previdência, sê-lo-ão por forma que o encargo efectivo deles resultante não exceda o que proviria da taxa de juro exigida por aquele estabelecimento.
+Art. 673.º Os empréstimos dos corpos administrativos, quando não contraídos na Caixa Geral de Depósitos, Crédito e Previdência, sê-lo-ão por forma que o encargo efectivo deles resultante não exceda o que proviria da taxa de juro exigida por aquele estabelecimento.
 
 § 1.º É permitido aos corpos administrativos caucionar o pagamento dos encargos respeitantes a empréstimos mediante quaisquer garantias especiais, incluindo, quando se trate de empréstimos contraídos na Caixa Geral de Depósitos, Crédito e Previdência, a consignação da receita proveniente dos adicionais às contribuições directas do Estado.
 
@@ -106,7 +112,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 708.º ...
+Art. 708.º ...
 
 ...
 
@@ -114,7 +120,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 792.º São despesas do cofre privativo as respeitantes a:
+Art. 792.º São despesas do cofre privativo as respeitantes a:
 
 1.º Comparticipação dos autuantes nas multas por transgressões aos regulamentos distritais de polícia;
 
@@ -146,12 +152,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. Constituem ainda encargo do cofre privativo as despesas que, não tendo dotação estabelecida no Orçamento Geral do Estado nem estando, por lei, a cargo de outra entidade, sejam inerentes ao normal funcionamento da secretaria do governo civil ou ao desempenho das funções de governador civil, bem como todas as outras impostas por lei.
 
-###### Art. 2.º Este decreto-lei entra em vigor no dia 1 de Janeiro de 1972.
+Art. 2.º Este decreto-lei entra em vigor no dia 1 de Janeiro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 28 de Dezembro de 1971.**
+Promulgado em 28 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

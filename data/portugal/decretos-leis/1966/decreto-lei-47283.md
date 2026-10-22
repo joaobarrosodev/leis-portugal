@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47283-1966-478612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dcb72adc6e2b23b3d02da2fe53b499f2090a4c04573a25fc9ee60573109e551
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b688cf702bea9534929cbeeaa378771c06217d2662243526277f6251fa6a157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Conselho Administrativo
+- Definição de Competências
+- Estação Agronómica Nacional
+- Gestão Administrativa
+- Gestão Financeira
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:52Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +99,22 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Estação Agronómica Nacional terá as suas dotações de despesa, com excepção das destinadas a vencimentos, descritas em divisão própria do capítulo do orçamento do Ministério da Economia relativo à Direcção-Geral dos Serviços Agrícolas.
+Artigo 1.º A Estação Agronómica Nacional terá as suas dotações de despesa, com excepção das destinadas a vencimentos, descritas em divisão própria do capítulo do orçamento do Ministério da Economia relativo à Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 2.º A Estação Agronómica Nacional tem autonomia administrativa e a sua administração incumbe a um conselho administrativo presidido pelo director do organismo e tendo como vogais o subdirector e o oficial encarregado dos serviços da secretaria, que servirá de secretário.
+Art. 2.º A Estação Agronómica Nacional tem autonomia administrativa e a sua administração incumbe a um conselho administrativo presidido pelo director do organismo e tendo como vogais o subdirector e o oficial encarregado dos serviços da secretaria, que servirá de secretário.
 
 § único. Na ausência ou impedimento de qualquer dos membros do conselho administrativo, a sua substituição dá-se pelo funcionário em serviço no organismo que for designado por despacho do Secretário de Estado da Agricultura, sob proposta do director da Estação e parecer favorável da Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 3.º O conselho administrativo é responsável pela legalidade das despesas efectuadas e por todos os fundos que requisite de conta do orçamento e que serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à sua ordem.
+Art. 3.º O conselho administrativo é responsável pela legalidade das despesas efectuadas e por todos os fundos que requisite de conta do orçamento e que serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à sua ordem.
 
 § único. As importâncias de que careça para ocorrer aos pagamentos serão levantadas por meio de cheque assinado, pelo menos, por dois membros do conselho.
 
-###### Art. 4.º Todas as receitas constituídas por subsídios, taxas ou quaisquer outras importâncias que possam ser atribuídas ao organismo por disposição legal, despacho ou por doação darão entrada nos cofres do Tesouro, sendo aplicadas através de dotação para o efeito inscrita na parte do orçamento do Ministério da Economia referente ao organismo e mediante orçamento privativo sujeito às formalidades legais.
+Art. 4.º Todas as receitas constituídas por subsídios, taxas ou quaisquer outras importâncias que possam ser atribuídas ao organismo por disposição legal, despacho ou por doação darão entrada nos cofres do Tesouro, sendo aplicadas através de dotação para o efeito inscrita na parte do orçamento do Ministério da Economia referente ao organismo e mediante orçamento privativo sujeito às formalidades legais.
 
-###### Art. 5.º As contas de gerência da Estação, depois de aprovadas pelo conselho administrativo, serão remetidas ao Tribunal de Contas, até 31 de Maio do ano seguinte àquele a que se referem, para efeito de julgamento.
+Art. 5.º As contas de gerência da Estação, depois de aprovadas pelo conselho administrativo, serão remetidas ao Tribunal de Contas, até 31 de Maio do ano seguinte àquele a que se referem, para efeito de julgamento.
 
-###### Art. 6.º Este diploma entra em vigor em 1 de Janeiro de 1967.
+Art. 6.º Este diploma entra em vigor em 1 de Janeiro de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.

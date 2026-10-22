@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/758-1974-461404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3699da7c426d1080f2716fbc4a6af41da4666673e85560d54e701ca8a27bc9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8822d3fd0c0b87802f381e2a37836df3e68fbcc6f097b269c31eb9794548fbf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colocação de Professores
+- Ensino Preparatório
+- Ensino Primário
+- Ensino Secundário
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:471529:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:13Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +100,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As referências constantes do n.º 2 do artigo 1.º e do artigo 2.º do [Decreto-Lei n.º 598/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1974-471529), de 7 de Novembro, à data de 15 de Novembro de 1974, consideram-se feitas em relação a 31 de Dezembro do ano corrente.
+Artigo 1.º As referências constantes do n.º 2 do artigo 1.º e do artigo 2.º do [Decreto-Lei n.º 598/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1974-471529), de 7 de Novembro, à data de 15 de Novembro de 1974, consideram-se feitas em relação a 31 de Dezembro do ano corrente.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor, aplicando-se também aos provimentos e colocações, abrangidos pelas disposições indicadas no artigo anterior, efectuados entre 15 de Novembro e a presente data.
+Art. 2.º Este diploma entra imediatamente em vigor, aplicando-se também aos provimentos e colocações, abrangidos pelas disposições indicadas no artigo anterior, efectuados entre 15 de Novembro e a presente data.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel Rodrigues de Carvalho.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

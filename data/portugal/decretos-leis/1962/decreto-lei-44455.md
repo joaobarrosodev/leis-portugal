@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44455-1962-162827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b041b884d9eb76e2d04c4af63bafadc2d09514d7eae36ebdec294584ff68360
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f3d8fb0845437c38765cf49130933125db57eb74a83483b2809ca65aeb8eadd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Convenção
+- Criação de Serviços
+- Gestão dos Recursos
+- Londres
+- Oceano Atlântico
+- Pesca
+- Portugal
+- Recursos do Mar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:31Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +94,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção das pescarias do Nordeste do Atlântico, assinada em Londres em 24 de Janeiro de 1959, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção das pescarias do Nordeste do Atlântico, assinada em Londres em 24 de Janeiro de 1959, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -379,7 +388,7 @@ Os Estados partes nesta Convenção, desejando assegurar a conservação dos sto
 
 Acordaram no que se segue:
 
-###### ARTIGO 1
+ARTIGO 1
 
 1) A área a que esta Convenção se aplica (a seguir designada por «área da Convenção») compreende todas as águas situadas:
 
@@ -405,11 +414,11 @@ ii) a qualquer outro território não situado na área da Convenção nem adjace
 
 iii) às águas situadas na área da Convenção em que o Estado contratante tem competência exclusiva no que se refere a pescarias.
 
-###### ARTIGO 2
+ARTIGO 2
 
 Nenhuma disposição da presente Convenção deve ser interpretada como afectando os direitos, reivindicações ou pontos de vista de qualquer Estado contratante relativamente à extensão da sua jurisdição sobre pescarias.
 
-###### ARTIGO 3
+ARTIGO 3
 
 1) Com o fim de aplicar a presente Convenção é criada e será mantida uma Comissão de Pescarias do Nordeste do Atlântico (a seguir designada por «a Comissão»).
 
@@ -433,7 +442,7 @@ Nenhuma disposição da presente Convenção deve ser interpretada como afectand
 
 11) As actas das sessões da Comissão são transmitidas e as propostas e recomendações são notificadas, o mais cedo possível, em inglês e francês, a todos os Estados contratantes.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1) Cada Estado contratante deverá pagar as despesas dos comissários, peritos e conselheiros por ele designados.
 
@@ -457,7 +466,7 @@ c) O montante da participação devida por cada Estado contratante será equival
 
 8) Nos anos económicos seguintes, a Comissão submeterá a cada Estado contratante projectos de orçamento anual, juntamente com a lista de contribuições, com a antecedência de, pelo menos, seis semanas da reunião anual da Comissão em que o referido orçamento deva ser examinado.
 
-###### ARTIGO 5
+ARTIGO 5
 
 1) A Comissão estabelecerá um comité regional com os poderes e funções definidos no artigo 6 desta Convenção para cada uma das regiões em que a área da Convenção está dividida.
 
@@ -467,7 +476,7 @@ c) O montante da participação devida por cada Estado contratante será equival
 
 4) A Comissão pode em qualquer momento modificar os limites e o número das regiões definidas no Anexo à presente Convenção, desde que seja por decisão unânime das delegações presentes e votantes e que sobre ela não seja feita nenhuma objecção nos três meses seguintes por qualquer Estado contratante não representado ou não tendo votado na reunião.
 
-###### ARTIGO 6
+ARTIGO 6
 
 1) Compete à Comissão:
 
@@ -485,7 +494,7 @@ d) Fazer recomendações aos Estados contratantes baseadas, na medida do possív
 
 4) Os comités regionais podem, em qualquer momento, nomear subcomités encarregados de estudar problemas específicos respeitantes a certas partes da região e de apresentar ao comité o respectivo relatório.
 
-###### ARTIGO 7
+ARTIGO 7
 
 1) As medidas relativas aos fins e objectivos da presente Convenção que a Comissão e os comités regionais podem considerar e sobre os quais a Comissão pode formular recomendações aos Estados contratantes são:
 
@@ -505,7 +514,7 @@ f) Quaisquer medidas tendentes à melhoria e aumento dos recursos do mar, podend
 
 3) As medidas previstas nos parágrafos 1) e 2) do presente artigo podem aplicar-se a qualquer ou a todas as espécies de peixes marinhos e de crustáceos, mas não aos mamíferos marinhos, a qualquer ou todos os métodos de pesca e em toda ou qualquer parte da área da Convenção.
 
-###### ARTIGO 8
+ARTIGO 8
 
 1) Sem prejuízo das disposições do presente artigo, os Estados contratantes comprometem-se a aplicar qualquer recomendação da Comissão, em conformidade com o artigo 7 da presente Convenção e adoptada por uma maioria de dois terços pelo menos das delegações presentes e votantes.
 
@@ -519,11 +528,11 @@ f) Quaisquer medidas tendentes à melhoria e aumento dos recursos do mar, podend
 
 6) A Comissão notificará a cada um dos Estados contratantes, imediatamente a seguir à sua recepção, qualquer objecção ou desistência de oposição.
 
-###### ARTIGO 9
+ARTIGO 9
 
 Qualquer recomendação a que se aplica o parágrafo 1) do artigo 8 da presente Convenção obriga os Estados contratantes, sem prejuízo das disposições do referido artigo, a partir da data fixada pela Comissão, não podendo esta data ser anterior à data da expiração do prazo de oposição previsto no artigo 8.
 
-###### ARTIGO 10
+ARTIGO 10
 
 1) Em qualquer momento após a expiração de um prazo de dois anos a contar da data em que tiver sido obrigado a dar execução a uma recomendação a que se aplique o parágrafo 1) do artigo 8 da presente Convenção, qualquer Estado contratante pode notificar a Comissão de que deixa de aceitar esta recomendação; se esta notificação não for retirada, a recomendação deixa de obrigar este Estado contratante no fim de doze meses a contar da data da notificação.
 
@@ -531,19 +540,19 @@ Qualquer recomendação a que se aplica o parágrafo 1) do artigo 8 da presente 
 
 3) A Comissão avisará todos os Estados contratantes logo que receba uma notificação enviada nos termos do presente artigo.
 
-###### ARTIGO 11
+ARTIGO 11
 
 1) A fim de que as recomendações feitas pela Comissão com vista à conservação dos stocks de peixes na área da Convenção sejam baseadas tanto quanto possível nos resultados de pesquisas e investigações científicas, a Comissão pode solicitar, quando tal for possível, o parecer do Conselho Internacional para a Exploração do Mar e a sua cooperação para efectuar as investigações necessárias e, para este efeito, pode acordar em certas modalidades de colaboração com o Conselho Internacional para a Exploração do Mar ou adoptar quaisquer outras disposições que possa julgar adequadas.
 
 2) A Comissão poderá estabelecer e manter acordos de cooperação com qualquer outro organismo internacional com objectivos idênticos.
 
-###### ARTIGO 12
+ARTIGO 12
 
 1) Os Estados contratantes comprometem-se a fornecer, a solicitação da Comissão, qualquer esclarecimento da ordem estatística e biológica disponível de que a Comissão possa necessitar para fins da presente Convenção.
 
 2) A Comissão pode, na medida em que o julgar apropriado, publicar ou difundir sob qualquer forma os relatórios sobre as suas actividades e outras informações relativas às pescarias em toda ou parte da área da Convenção.
 
-###### ARTIGO 13
+ARTIGO 13
 
 1) Sem prejuízo dos direitos de soberania dos Estados no que se refere ao seu mar territorial e às suas águas interiores, qualquer Estado contratante tomará nos seus territórios e relativamente aos seus nacionais e aos seus navios as medidas apropriadas para assegurar a aplicação das disposições da presente Convenção e das recomendações da Comissão que obrigam o dito Estado e para punir as infracções às referidas disposições e recomendações.
 
@@ -553,11 +562,11 @@ Qualquer recomendação a que se aplica o parágrafo 1) do artigo 8 da presente 
 
 Estas recomendações estão sujeitas às disposições dos artigos 8, 9 e 10.
 
-###### ARTIGO 14
+ARTIGO 14
 
 As disposições da presente Convenção não se aplicam às operações de pesca conduzidas ùnicamente com um fim de pesquisa científica pelos navios autorizados para este efeito por um Estado contratante nem aos peixes capturados no decurso de tais operações. Entretanto, em qualquer território de um Estado contratante ligado a uma recomendação a que se aplica o parágrafo 1) do artigo 8, o peixe capturado nestas condições não deve ser vendido, nem exposto ou oferecido à venda em infracção da referida recomendação.
 
-###### ARTIGO 15
+ARTIGO 15
 
 1) A presente Convenção está aberta à assinatura até 31 de Março de 1959. Será ratificada logo que possível e os instrumentos de ratificação serão depositados junto do Governo do Reino Unido.
 
@@ -567,7 +576,7 @@ As disposições da presente Convenção não se aplicam às operações de pesc
 
 4) O Governo do Reino Unido dará conhecimento a todos os Estados signatários e àqueles Estados que a ela aderirem de todos os instrumentos de ratificação depositados e de todas as adesões recebidas e notificará aos Estados signatários a data e os Estados em relação aos quais a Convenção entrou em vigor.
 
-###### ARTIGO 16
+ARTIGO 16
 
 1) Em relação a todos os Estados partes na presente Convenção, as disposições dos artigos 5, 6, 7, 8 e 9 e os Anexos I, II e III da Convenção para a regulamentação das malhas das redes de pesca e dos limites de tamanho do peixe (Convenção Internacional de Sobrepesca), assinada em Londres em 5 de Abril de 1946 e alterada pelas decisões tomadas em aplicação do parágrafo 10) do artigo 12 daquela Convenção, permanecerão em vigor, mas, para os fins da presente Convenção, serão consideradas como uma recomendação feita e aplicada sem objecção aos termos da presente Convenção, a datar da entrada em vigor desta pelo que respeita a este Estado, nos limites da área definida pela Convenção de 1946; ficando entendido que, no prazo de dois anos após a entrada em vigor da presente Convenção, qualquer Estado contratante pode, mediante aviso por escrito com a antecedência de doze meses ao Governo do Reino Unido, declarar que não se considera mais ligado pelo conjunto ou uma parte da referida recomendação.
 
@@ -575,7 +584,7 @@ Se um Estado contratante tiver, em conformidade com as disposições do presente
 
 2) As disposições da Convenção para a regulamentação das malhas das redes de pesca e dos limites de tamanho do peixe, assinada em Londres em 5 de Abril de 1946, deixarão de aplicar-se a qualquer Estado parte na presente Convenção, a contar da entrada em vigor da referida Convenção em relação a este Estado, salvo as disposições contidas no parágrafo 1) do presente artigo.
 
-###### ARTIGO 17
+ARTIGO 17
 
 Em qualquer momento depois de decorrido o prazo de dois anos, a contar da data em que a presente Convenção tiver entrado em vigor em relação a um Estado contratante, este Estado poderá denunciar a Convenção mediante notificação escrita, dirigida ao Governo do Reino Unido.
 

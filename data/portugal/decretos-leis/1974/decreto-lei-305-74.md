@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15600/07880788.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1974-476344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ed453bb71bd478942395b9093f92350fe09162a7347a46e043f339280cdbf71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e661aedce058b0b6f567ca3c76d7671bfba3ecbb9bf21db75107037d4c5e2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de BENS Essenciais
+- Açores
+- Açúcar
+- Administração Ultramarina
+- AGA
+- Arquipélago da Madeira
+- Importação
+- Metrópole
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:477363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:22Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +123,22 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 1, 3.º, do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As aquisições de açúcar em rama e refinado destinado ao abastecimento do território do continente e ilhas adjacentes são feitas pela Administração-Geral do Açúcar e do Álcool (AGAA), através de contratos a curto, médio ou longo prazo, e por forma que, em igualdade de circunstâncias, seja dada preferência aos excedentes da produção dos territórios ultramarinos.
+Artigo 1.º As aquisições de açúcar em rama e refinado destinado ao abastecimento do território do continente e ilhas adjacentes são feitas pela Administração-Geral do Açúcar e do Álcool (AGAA), através de contratos a curto, médio ou longo prazo, e por forma que, em igualdade de circunstâncias, seja dada preferência aos excedentes da produção dos territórios ultramarinos.
 
-###### Art. 2.º Os produtores e exportadores de açúcar em rama e refinado dos territórios ultramarinos, uma vez satisfeitos os consumos locais e os dos territórios ultramarinos importadores, podem proceder à negociação dos excedentes daqueles produtos mediante celebração de contratos a curto, médio ou longo prazo, quer com a Administração-Geral do Açúcar e do Álcool, quer com compradores estrangeiros, devendo ser dada preferência à primeira em igualdade de circunstâncias.
+Art. 2.º Os produtores e exportadores de açúcar em rama e refinado dos territórios ultramarinos, uma vez satisfeitos os consumos locais e os dos territórios ultramarinos importadores, podem proceder à negociação dos excedentes daqueles produtos mediante celebração de contratos a curto, médio ou longo prazo, quer com a Administração-Geral do Açúcar e do Álcool, quer com compradores estrangeiros, devendo ser dada preferência à primeira em igualdade de circunstâncias.
 
-###### Art. 3.º Os governos dos territórios ultramarinos produtores providenciarão no sentido de serem criados esquemas de estabilização de preços que assegurem a conveniente defesa económica dos agricultores fornecedores de cana-sacarina às unidades fabris.
+Art. 3.º Os governos dos territórios ultramarinos produtores providenciarão no sentido de serem criados esquemas de estabilização de preços que assegurem a conveniente defesa económica dos agricultores fornecedores de cana-sacarina às unidades fabris.
 
-###### Art. 4.º É revogado o [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363), de 24 de Novembro de 1966.
+Art. 4.º É revogado o [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363), de 24 de Novembro de 1966.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Francisco Sá Carneiro - António de Almeida Santos - Vasco Vieira de Almeida.
 
-**Promulgado em 29 de Junho de 1974.**
+Promulgado em 29 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - Almeida Santos.

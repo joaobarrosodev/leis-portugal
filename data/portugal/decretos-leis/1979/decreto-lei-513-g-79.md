@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3334-(82) a 3334-(83)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00820083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-g-1979-393783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 819adb5b702225aeffe1f6711c6774d062bab52e398079dc4fc724343a775eb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eef453777fc8d30b378fb5e5b4c7cdfd09660b1ef684a73985e87c1eee8d7e86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Expropriações
+- Expropriação
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152358:por
+  label: "Alterado o n.º 3 do artigo 42.º do Decreto-Lei n.º 845/76, de 11 de Dezembro, na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.142/85.07.05.1985.MES, DR.IS [104] de 07.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1985-152358
+  date: '1985-05-07'
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:23Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +109,13 @@ Havendo necessidade de alterar algumas disposições do [Decreto-Lei n.º 845/76
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 17.º, n.º 1, 42.º, 78.º e 133.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 17.º, n.º 1, 42.º, 78.º e 133.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 17.º - 1 - Quando a entidade expropriante seja de direito público, ou se trate de empresa pública, nacionalizada, concessionária de serviço público ou de obras públicas, pode o Governo autorizá-la a tomar posse administrativa dos prédios a expropriar desde que tal providência se torne indispensável para o início imediato ou a prossecução ininterrupta de trabalhos necessários à execução do projecto, anteprojecto, estudos prévios ou plano, anteplano ou mesmo esquemas preliminares de obras aprovadas, sempre que haja sido declarada a utilidade pública urgente da expropriação.
+Art. 17.º - 1 - Quando a entidade expropriante seja de direito público, ou se trate de empresa pública, nacionalizada, concessionária de serviço público ou de obras públicas, pode o Governo autorizá-la a tomar posse administrativa dos prédios a expropriar desde que tal providência se torne indispensável para o início imediato ou a prossecução ininterrupta de trabalhos necessários à execução do projecto, anteprojecto, estudos prévios ou plano, anteplano ou mesmo esquemas preliminares de obras aprovadas, sempre que haja sido declarada a utilidade pública urgente da expropriação.
 
 ...
 
-###### Art. 42.º - 1 - ...
+Art. 42.º - 1 - ...
 
 2 - ...
 
@@ -112,7 +129,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 78.º - 1 - ...
+Art. 78.º - 1 - ...
 
 2 - Haverá uma lista de peritos para cada distrito judicial, organizada pelo Ministério da Justiça, através da Direcção-Geral dos Serviços Judiciários.
 
@@ -132,12 +149,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 133.º Enquanto não for publicada a lista a que se refere o n.º 2 do artigo 78.º deste diploma, mantém-se, transitoriamente, em vigor a actual lista.
+Art. 133.º Enquanto não for publicada a lista a que se refere o n.º 2 do artigo 78.º deste diploma, mantém-se, transitoriamente, em vigor a actual lista.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo - António Luciano Pacheco de Sousa Franco - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

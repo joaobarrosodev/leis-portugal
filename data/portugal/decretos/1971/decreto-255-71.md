@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/255-1971-644154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15e115befaa912daa54de65c126f164e66a295162092fa0e87c8a3e20231ebc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75737cb5e9a7c1e580f197e81416227ce09ca3233080cf74743fab32d8ed72bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:52Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +93,14 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial obrigatório, a que foi submetida por decreto publicado no Diário do Governo, 2.ª série, n.º 107, de 10 de Maio de 1945, uma parcela de terreno baldio do perímetro florestal de Entre Lima e Neiva, com uma área de 20 ha, e restituída à administração da Junta de Freguesia de Vitorino dos Piães, a fim de, com o produto da sua venda, proceder a vários melhoramentos na freguesia.
+Artigo 1.º É excluída do regime florestal parcial obrigatório, a que foi submetida por decreto publicado no Diário do Governo, 2.ª série, n.º 107, de 10 de Maio de 1945, uma parcela de terreno baldio do perímetro florestal de Entre Lima e Neiva, com uma área de 20 ha, e restituída à administração da Junta de Freguesia de Vitorino dos Piães, a fim de, com o produto da sua venda, proceder a vários melhoramentos na freguesia.
 
-###### Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Vitorino dos Piães proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Vitorino dos Piães proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 28 de Maio de 1971.**
+Promulgado em 28 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

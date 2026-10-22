@@ -46,40 +46,142 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fdd3e1f8a9cd6e2b68717cb8c98cece3b489b651abb05e30f73d1e4dab21918
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01e3393ea26160884002158ea25d0ca0a2ed54dc225a3e15dbc54e4a628eae68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Criação de Serviços
+- Definição de Competências
+- Direção Geral do Ensino Superior
+- Direcção Geral da Administração Educativa
+- Direcção Geral da Educação Física e Desportos
+- Direcção Geral do Ensino Básico
+- Direcção Geral dos Assuntos Culturais
+- Fundo de Fomento do Desporto
+- Gabinete de Estudos e Planeamento
+- Instituto de Acção Social Escolar
+- Instituto de ALTA Cultura
+- Instituto de Meios Audiovisuais de Educação
+- Instituto de Tecnologia Educativa
+- Junta Nacional de Educação
+- Ministério da Educação Nacional
+- Mocidade Portuguesa
+- Orgânica
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
+- Secretariado para a Juventude
 relationships:
 - type: amended_by
   target: pt:dre:665345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684799:por
+  label: "Acrescentado ao quadro único referido no art. 26º o quadro de pessoal do Instituto de Tecnologia Educativa referido\
+    \ no art. 21º e publicado em anexo ao DEC LEI.71/73.27.02.1973.MEN, DG.IS [71] de 27.02.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1973-684799
+  date: '1973-02-27'
+- type: amended_by
+  target: pt:dre:675654:por
+  label: "Acrescentado um lugar de inspector-geral ao quadro de pessoal a que se refere o nº 1 do art. 26º e constante do\
+    \ anexo pelo DEC LEI.146/73.04.04.1973.MEN, DG.IS [80] de 04.04.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-1973-675654
+  date: '1973-04-04'
+- type: amended_by
+  target: pt:dre:466829:por
+  label: "Alterada para Direcção-Geral dos Desportos, a designação da Direcção-Geral da Educação Física e Desportos criada\
+    \ pelo presente diploma, e organizada pelo Dec Lei 82/73 de 03-Mar, pelo DEC LEI.694/74.05.12.1974.MEC, DG.IS [283] de\
+    \ 05.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/694-1974-466829
+  date: '1974-12-05'
+- type: amended_by
+  target: pt:dre:307602:por
+  label: "Extinta a Direcção-Geral da Administração Escolar, criada pela al. e) da al. II) do nº 2 do art. 4º deste diploma,\
+    \ pelo DEC LEI.489/75.05.09.1975.MEIC, DG.IS [205] de 05.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/489-1975-307602
+  date: '1975-09-05'
+- type: amended_by
+  target: pt:dre:507022:por
+  label: "Extinta a DGAC, criada pelo pelo presente diploma, pelo DEC.89/76.29.01.1976.MAI, DG.IS [24] de 29.01.1976, sendo\
+    \ os seus serviços, os serviços dela dependentes e o quadro de pessoal transferidos para a Secretaria de Estado da Cultura.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/89-1976-507022
+  date: '1976-01-29'
+- type: amended_by
+  target: pt:dre:279611:por
+  label: Aumentado o quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação
+    e Investigação Científica, constante do mapa anexo ao presente diploma, pelo(a) Portaria n.º 748/77 - Diário da República
+    n.º 286/1977, Série I de 1977-12-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/748-1977-279611
+  date: '1977-12-13'
+- type: amended_by
+  target: pt:dre:434579:por
+  label: "Substituido o mapa I anexo ao presente diploma, pelo DEC.69/78.1978.07.15.MFP DR.IS [161]Supl de 15.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/69-1978-434579
+  date: '1978-07-07'
+- type: amended_by
+  target: pt:dre:231305:por
+  label: "Determinada a extinção e a sucessão e substituição da Direcção Geral da Educação Permanente pela Direcção Geral\
+    \ da Educação de Adultos, pelo DEC LEI.534/79.31.12.1979.PCM, DR.IS [300-9.º Supl] de 31.12.1979, que fez transitar para\
+    \ esta última todos os direitos e obrigações daquela, e revogou a al. f) do nº II do nº 2 do art. 4º e o art. 17º do presente\
+    \ diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/534-1979-231305
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:665345:por
+  label: "Extinta a Direcção-Geral dos Desportos, criada no presente diploma, e procedida à transferência do seu património,\
+    \ pelo DEC LEI.143/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1993-665345
+  date: '1993-04-26'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216350:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280737:por
+  label: "Revogada a al. f) de II do nº2 do art. 4º e o art. 17º e extinta a Direcção-Geral da Educação Permanente, criada\
+    \ pelo presente diploma, pelo DEC LEI.478/77.15.11.1977.MEIC, DR.IS [264] de 15.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/478-1977-280737
+  date: '1977-11-15'
+- type: repealed_by
+  target: pt:dre:230886:por
+  label: "Revogado o n.º 2 do artigo 13.º e o n.º 2 do artigo 14.º pelo DEC LEI.541/79.31.12.1979.ME, DR.IS [300-12ºSupl]\
+    \ de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/541-1979-230886
+  date: '1979-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:01Z'
   warnings: []
   errors: []
 ---
@@ -300,9 +402,9 @@ I
 
 Atribuições e estrutura
 
-###### Artigo 1.º São atribuições do Ministério da Educação Nacional estudar e definir a política educativa, visando a formação moral, intelectual, cívica e física dos Portugueses, e promover a sua execução, designadamente nos domínios da ciência, da cultura, do ensino, da juventude e da educação física e desportos, fomentar as actividades a exercer naqueles domínios e assegurar a observância das disposições reguladoras de tais actividades, sem prejuízo, em qualquer destes aspectos, das atribuições e competência conferidas por lei a outros departamentos.
+Artigo 1.º São atribuições do Ministério da Educação Nacional estudar e definir a política educativa, visando a formação moral, intelectual, cívica e física dos Portugueses, e promover a sua execução, designadamente nos domínios da ciência, da cultura, do ensino, da juventude e da educação física e desportos, fomentar as actividades a exercer naqueles domínios e assegurar a observância das disposições reguladoras de tais actividades, sem prejuízo, em qualquer destes aspectos, das atribuições e competência conferidas por lei a outros departamentos.
 
-###### Art. 2.º - 1. O Ministério da Educação Nacional compreende, além dos órgãos ou serviços que nos termos da lei devam constituir-se em todos os Ministérios, os seguintes tipos de órgãos e serviços permanentes:
+Art. 2.º - 1. O Ministério da Educação Nacional compreende, além dos órgãos ou serviços que nos termos da lei devam constituir-se em todos os Ministérios, os seguintes tipos de órgãos e serviços permanentes:
 
 a) Órgãos de concepção, coordenação e apoio;
 
@@ -312,7 +414,7 @@ c) Órgãos e serviços externos.
 
 2. Poderão ser constituídas no Ministério as comissões eventuais que se mostrem convenientes para o exercício de funções de estudo ou executivas de carácter transitório, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes.
 
-###### Art. 3.º - 1. Consideram-se organismos dependentes do Ministério da Educação Nacional todos os que desempenhem predominantemente funções de tipo operacional ou de prestação e se encontrem sujeitos à superintendência ou à tutela do mesmo Ministério.
+Art. 3.º - 1. Consideram-se organismos dependentes do Ministério da Educação Nacional todos os que desempenhem predominantemente funções de tipo operacional ou de prestação e se encontrem sujeitos à superintendência ou à tutela do mesmo Ministério.
 
 2. Os organismos a que se refere o número anterior dependem do Ministério da Educação Nacional através do serviço adequado, conforme consta da lista anexa ao presente diploma, a qual pode ser alterada por simples despacho ministerial no que respeita à distribuição desses organismos.
 
@@ -320,7 +422,7 @@ II
 
 Órgãos e serviços permanentes da administração central
 
-###### Art. 4.º - 1. São órgãos de concepção, coordenação e apoio:
+Art. 4.º - 1. São órgãos de concepção, coordenação e apoio:
 
 a) A Junta Nacional da Educação;
 
@@ -364,7 +466,7 @@ c) O Instituto de Acção Social Escolar.
 
 A) Órgãos de concepção, coordenação e apoio
 
-###### Art. 5.º - 1. A Junta Nacional da Educação é o órgão consultivo superior do Ministério, incumbindo-lhe emitir pareceres sobre os assuntos que lhe forem submetidos por lei ou por determinação do Ministro, e bem assim formular por sua iniciativa propostas ou sugestões sobre quaisquer assuntos relativos à educação nacional.
+Art. 5.º - 1. A Junta Nacional da Educação é o órgão consultivo superior do Ministério, incumbindo-lhe emitir pareceres sobre os assuntos que lhe forem submetidos por lei ou por determinação do Ministro, e bem assim formular por sua iniciativa propostas ou sugestões sobre quaisquer assuntos relativos à educação nacional.
 
 2. A Junta será organizada por secções e subsecções, de forma a assegurar adequada representatividade na apreciação das diversas matérias sobre que tenha de se pronunciar.
 
@@ -372,17 +474,17 @@ A) Órgãos de concepção, coordenação e apoio
 
 4. Entre os vogais permanentes haverá um corpo de inspectores-gerais e inspectores superiores, que, além de participarem da actividade normal da Junta e de exercerem as funções inspectivas e de orientação que lhes pertencerem, poderão ainda exercer outras funções de que sejam encarregados pelo Ministro, nos termos legais.
 
-###### Art. 6.º - 1. O Gabinete de Estudos e Planeamento tem por atribuições estudar, por forma permanente e sistemática, os problemas relacionados com a educação e propor as correspondentes soluções, contribuindo para a formulação da política geral do sector, bem como exercer as funções cometidas aos gabinetes de planeamento pelas disposições em vigor.
+Art. 6.º - 1. O Gabinete de Estudos e Planeamento tem por atribuições estudar, por forma permanente e sistemática, os problemas relacionados com a educação e propor as correspondentes soluções, contribuindo para a formulação da política geral do sector, bem como exercer as funções cometidas aos gabinetes de planeamento pelas disposições em vigor.
 
 2. No Gabinete funciona, a título permanente, uma Comissão da Rede Escolar, à qual compete programar a rede escolar do País e propor a criação, modificação ou extinção de estabelecimentos de ensino, dela fazendo parte representantes de todos os serviços interessados do Ministério.
 
-###### Art. 7.º - 1. O Conselho dos Directores-Gerais é um órgão de coordenação, ao qual incumbe coadjuvar o Ministro na harmonização e conjugação das actividades dos diversos órgãos e serviços do Ministério.
+Art. 7.º - 1. O Conselho dos Directores-Gerais é um órgão de coordenação, ao qual incumbe coadjuvar o Ministro na harmonização e conjugação das actividades dos diversos órgãos e serviços do Ministério.
 
 2. O Conselho será presidido pelo Ministro e terá como vice-presidente o secretário-geral do Ministério e como vogais permanentes todos os directores-gerais e funcionários equiparados dos respectivos serviços.
 
 3. O Conselho funciona em reuniões plenárias e restritas, podendo ser convocados para quaisquer delas funcionários de outras categorias, com especial qualificação nos assuntos a tratar.
 
-###### Art. 8.º - 1. A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
+Art. 8.º - 1. A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
 
 a) Colaborar com os órgãos da Presidência do Conselho e de outros departamentos no estudo e execução das providências de âmbito geral pertinentes à reforma administrativa;
 
@@ -396,17 +498,17 @@ d) Desempenhar as funções de utilidade comum aos diversos órgãos e serviços
 
 B) Serviços executivos no sector da ciência e da cultura
 
-###### Art. 9.º - 1. O Instituto de Alta Cultura tem por atribuições contribuir, no âmbito do Ministério, para a formulação da política científica e promover, fomentar e coordenar as actividades de investigação nos vários domínios da ciência, designadamente através da promoção de intercâmbio científico, da criação, manutenção e auxílio de institutos e outras unidades de investigação e, ainda, da concessão de bolsas e subsídios destinados ao fomento da investigação e à formação de investigadores e docentes do ensino superior.
+Art. 9.º - 1. O Instituto de Alta Cultura tem por atribuições contribuir, no âmbito do Ministério, para a formulação da política científica e promover, fomentar e coordenar as actividades de investigação nos vários domínios da ciência, designadamente através da promoção de intercâmbio científico, da criação, manutenção e auxílio de institutos e outras unidades de investigação e, ainda, da concessão de bolsas e subsídios destinados ao fomento da investigação e à formação de investigadores e docentes do ensino superior.
 
 2. Pertence igualmente ao Instituto promover e fomentar o ensino e a difusão da língua e cultura portuguesas nas Universidades e instituições congéneres estrangeiras.
 
-###### Art. 10.º - 1. Incumbe à Direcção-Geral dos Assuntos Culturais, em geral, o fomento e protecção das letras e artes, a coordenação, fiscalização e apoio das associações científicas e culturais, o registo da propriedade literária e artística, a organização do cadastro dos bens móveis e imóveis inventariados ou classificados pelo seu valor histórico, artístico, arqueológico, bibliográfico e documental, etnográfico ou paisagístico e, bem assim, a defesa e valorização de todos os bens culturais.
+Art. 10.º - 1. Incumbe à Direcção-Geral dos Assuntos Culturais, em geral, o fomento e protecção das letras e artes, a coordenação, fiscalização e apoio das associações científicas e culturais, o registo da propriedade literária e artística, a organização do cadastro dos bens móveis e imóveis inventariados ou classificados pelo seu valor histórico, artístico, arqueológico, bibliográfico e documental, etnográfico ou paisagístico e, bem assim, a defesa e valorização de todos os bens culturais.
 
 2. Cabe igualmente a esta Direcção-Geral a superintendência nos teatros do Estado e nos museus, bibliotecas e arquivos pertencentes ao Estado, autarquias locais, organismos paraestatais ou entidades subsidiadas pelo Estado, e que dependem do Ministério da Educação Nacional.
 
 3. São transferidas para esta Direcção-Geral as atribuições actualmente desempenhadas pelo Instituto de Alta Cultura no domínio da promoção e difusão dos diversos ramos da cultura, sem prejuízo do disposto no artigo 9.º, n.º 2.
 
-###### Art. 11.º - 1. Na Direcção-Geral dos Assuntos Culturais funciona uma Comissão Administrativa de Acção Cultural, dotada de uma verba global, que tem por atribuições prestar apoio financeiro às actividades oficiais de promoção e difusão dos diversos ramos da cultura, incluindo a concessão de subsídios e bolsas, bem como auxiliar financeiramente a realização das iniciativas privadas naqueles domínios.
+Art. 11.º - 1. Na Direcção-Geral dos Assuntos Culturais funciona uma Comissão Administrativa de Acção Cultural, dotada de uma verba global, que tem por atribuições prestar apoio financeiro às actividades oficiais de promoção e difusão dos diversos ramos da cultura, incluindo a concessão de subsídios e bolsas, bem como auxiliar financeiramente a realização das iniciativas privadas naqueles domínios.
 
 2. Constituem receitas consignadas desta Comissão:
 
@@ -428,13 +530,13 @@ h) Quaisquer outras receitas não proibidas por lei.
 
 C) Serviços executivos no sector do ensino
 
-###### Art. 12.º - 1. Incumbe à Direcção-Geral do Ensino Superior, sem prejuízo da autonomia concedida às Universidades, preparar e executar todas as decisões que ao Governo pertença tomar no que respeita a essas instituições.
+Art. 12.º - 1. Incumbe à Direcção-Geral do Ensino Superior, sem prejuízo da autonomia concedida às Universidades, preparar e executar todas as decisões que ao Governo pertença tomar no que respeita a essas instituições.
 
 2. Incumbe também a esta Direcção-Geral, quanto aos restantes estabelecimentos do ensino superior, superintender na sua organização e funcionamento e velar pela qualidade e eficiência do ensino.
 
 3. A competência referida nos números antecedentes respeita ao ensino superior, público ou particular, ministrado em todo o território nacional.
 
-###### Art. 13.º - 1. Incumbe à Direcção-Geral do Ensino Secundário:
+Art. 13.º - 1. Incumbe à Direcção-Geral do Ensino Secundário:
 
 a) Superintender na organização e funcionamento dos estabelecimentos deste grau de ensino e proceder à sua orientação pedagógica e à respectiva fiscalização, velando pela qualidade e eficiência do ensino e promovendo a renovação dos respectivos métodos e técnicas, a formação, actualização e classificação do pessoal docente, a consideração dos problemas escolares dos alunos, incluindo os referentes aos diminuídos, e a acção disciplinar que se mostrar conveniente;
 
@@ -444,7 +546,7 @@ c) Proceder à orientação pedagógica do ensino secundário particular, em col
 
 2. Pertence também a esta Direcção-Geral promover e orientar o ensino secundário da língua portuguesa no estrangeiro.
 
-###### Art. 14.º - 1. Incumbe à Direcção-Geral do Ensino Básico:
+Art. 14.º - 1. Incumbe à Direcção-Geral do Ensino Básico:
 
 a) Exercer, relativamente aos estabelecimentos públicos afectos ao ensino básico, e ao respectivo pessoal docente, as funções cometidas no artigo 13.º, n.º 1, alínea a), à Direcção-Geral do Ensino Secundário;
 
@@ -454,11 +556,11 @@ c) Proceder à orientação pedagógica do ensino básico e da educação pré-e
 
 2. Pertence também a esta Direcção-Geral promover e orientar o ensino básico da língua portuguesa no estrangeiro.
 
-###### Art. 15.º - 1. Incumbe à Inspecção-Geral do Ensino Particular coordenar, auxiliar e fiscalizar o ensino ministrado fora dos estabelecimentos públicos, com a excepção dos estabelecimentos de formação ou cultura eclesiástica, nos termos das disposições em vigor, e dos estabelecimentos de ensino superior.
+Art. 15.º - 1. Incumbe à Inspecção-Geral do Ensino Particular coordenar, auxiliar e fiscalizar o ensino ministrado fora dos estabelecimentos públicos, com a excepção dos estabelecimentos de formação ou cultura eclesiástica, nos termos das disposições em vigor, e dos estabelecimentos de ensino superior.
 
 2. Pertence fundamentalmente à Inspecção-Geral proceder à orientação pedagógica do ensino particular com planos de estudo próprios, devendo colaborar na orientação pedagógica do ensino particular com planos de estudo oficiais efectuada pelos serviços das respectivas direcções-gerais de ensino.
 
-###### Art. 16.º - 1. Incumbe à Direcção-Geral da Administração Escolar efectuar a gestão do pessoal e das instalações e equipamento afectos aos diversos estabelecimentos públicos de ensino, bem como exercer a superintendência administrativa e financeira sobre os mesmos estabelecimentos, sem prejuízo da autonomia concedida às Universidades.
+Art. 16.º - 1. Incumbe à Direcção-Geral da Administração Escolar efectuar a gestão do pessoal e das instalações e equipamento afectos aos diversos estabelecimentos públicos de ensino, bem como exercer a superintendência administrativa e financeira sobre os mesmos estabelecimentos, sem prejuízo da autonomia concedida às Universidades.
 
 2. Em matéria de pessoal, pertence à Direcção-Geral, designadamente, organizar e manter actualizado o cadastro de todo o pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino público dependentes do Ministério, e bem assim proceder à preparação e execução das operações administrativas respeitantes ao recrutamento, provimento, colocação e outros aspectos relativos à situação, actualização e remuneração do mesmo pessoal, sem prejuízo da competência própria das direcções-gerais e serviços dependentes.
 
@@ -468,11 +570,11 @@ c) Proceder à orientação pedagógica do ensino básico e da educação pré-e
 
 5. Na Direcção-Geral funciona uma Comissão de Equipamento Escolar, dotada de autonomia administrativa e financeira, à qual compete tudo quanto se relacione com o apetrechamento dos estabelecimentos públicos de ensino dependentes do Ministério.
 
-###### Art. 17.º - 1. Incumbe à Direcção-Geral da Educação Permanente promover, coordenar e difundir, em colaboração com os demais serviços do Ministério e outras entidades públicas ou privadas, a educação extra-escolar e as actividades de promoção cultural ou profissional, tendo nomeadamente em consideração a população adulta.
+Art. 17.º - 1. Incumbe à Direcção-Geral da Educação Permanente promover, coordenar e difundir, em colaboração com os demais serviços do Ministério e outras entidades públicas ou privadas, a educação extra-escolar e as actividades de promoção cultural ou profissional, tendo nomeadamente em consideração a população adulta.
 
 2. Compete ainda a esta Direcção-Geral uma acção supletiva do ensino básico, fomentar a criação de bibliotecas educativas e de casas de cultura que contribuam de modo especial para o progresso social e cultural do meio e promover a difusão generalizada de obras literárias e artísticas.
 
-###### Art. 18.º- 1. O Instituto de Tecnologia Educativa tem por atribuições:
+Art. 18.º- 1. O Instituto de Tecnologia Educativa tem por atribuições:
 
 a) Promover a utilização dos recursos proporcionados pelas técnicas modernas na actualização dos métodos pedagógicos e na harmonização permanente do conteúdo do ensino com essas técnicas;
 
@@ -482,13 +584,13 @@ b) Organizar e manter, através da radiodifusão sonora e da televisão, activid
 
 D) Serviços executivos no sector da juventude e desportos
 
-###### Art. 19.º O Secretariado para a Juventude tem por atribuições acompanhar a evolução dos problemas específicos da juventude escolar e extra-escolar, bem como apoiar e estimular actividades juvenis que, no preenchimento de tempos livres, visem a integração esclarecida dos jovens na vida colectiva e a preparação deles para uma efectiva participação no desenvolvimento nacional.
+Art. 19.º O Secretariado para a Juventude tem por atribuições acompanhar a evolução dos problemas específicos da juventude escolar e extra-escolar, bem como apoiar e estimular actividades juvenis que, no preenchimento de tempos livres, visem a integração esclarecida dos jovens na vida colectiva e a preparação deles para uma efectiva participação no desenvolvimento nacional.
 
-###### Art. 20.º - 1. Incumbe à Direcção-Geral da Educação Física e Desportos superintender na promoção, organização, funcionamento e disciplina da educação física e de todas as actividades desportivas que dependam do Ministério da Educação Nacional.
+Art. 20.º - 1. Incumbe à Direcção-Geral da Educação Física e Desportos superintender na promoção, organização, funcionamento e disciplina da educação física e de todas as actividades desportivas que dependam do Ministério da Educação Nacional.
 
 2. Pertence também a esta Direcção-Geral exercer, relativamente às instalações gimnodesportivas dos estabelecimentos de ensino, públicos e particulares, dependentes do Ministério da Educação Nacional, bem como em relação ao respectivo material e ao pessoal docente que neles ministra a disciplina de Educação Física e orienta a prática dos desportos, as funções cometidas no artigo 13.º, n.º 1, alínea a), à Direcção-Geral do Ensino Secundário.
 
-###### Art. 21.º - 1. O Fundo de Fomento do Desporto tem por atribuições prestar apoio financeiro às actividades oficiais de promoção da educação física e do desporto, incluindo a concessão de subsídios e bolsas, bem como auxiliar financeiramente a realização de iniciativas privadas naqueles domínios.
+Art. 21.º - 1. O Fundo de Fomento do Desporto tem por atribuições prestar apoio financeiro às actividades oficiais de promoção da educação física e do desporto, incluindo a concessão de subsídios e bolsas, bem como auxiliar financeiramente a realização de iniciativas privadas naqueles domínios.
 
 2. Constituem receitas do Fundo de Fomento do Desporto:
 
@@ -502,7 +604,7 @@ d) As taxas de utilização das instalações, equipamentos ou apetrechos previs
 
 e) Os rendimentos dos capitais próprios e quaisquer outras receitas não proibidas por lei.
 
-###### Art. 22.º - 1. O Instituto de Acção Social Escolar tem por atribuições possibilitar os estudos, para além do ensino gratuito, a quem tenha capacidade intelectual para os prosseguir, bem como proporcionar aos alunos de todos os graus de ensino os meios idóneos para realizarem os estudos nas melhores condições de aproveitamento.
+Art. 22.º - 1. O Instituto de Acção Social Escolar tem por atribuições possibilitar os estudos, para além do ensino gratuito, a quem tenha capacidade intelectual para os prosseguir, bem como proporcionar aos alunos de todos os graus de ensino os meios idóneos para realizarem os estudos nas melhores condições de aproveitamento.
 
 2. Cabe igualmente ao Instituto superintender nos serviços de saúde escolar do Ministério da Educação Nacional.
 
@@ -510,15 +612,15 @@ III
 
 Órgãos e serviços externos
 
-###### Art. 23.º - 1. Para efeitos de organização e funcionamento do sistema escolar, o território metropolitano será dividido em circunscrições, em função das necessidades do ensino.
+Art. 23.º - 1. Para efeitos de organização e funcionamento do sistema escolar, o território metropolitano será dividido em circunscrições, em função das necessidades do ensino.
 
 2. A divisão escolar do território metropolitano será feita mediante decreto-lei.
 
-###### Art. 24.º - 1. Nas circunscrições referidas no artigo anterior serão criados, em ligação com as direcções-gerais de ensino e com a Direcção-Geral da Administração Escolar, os órgãos e serviços externos que forem julgados convenientes.
+Art. 24.º - 1. Nas circunscrições referidas no artigo anterior serão criados, em ligação com as direcções-gerais de ensino e com a Direcção-Geral da Administração Escolar, os órgãos e serviços externos que forem julgados convenientes.
 
 2. A lei determinará as funções e a competência transferidas para os órgãos e serviços externos do Ministério, bem como os poderes que naqueles possam ser delegados.
 
-###### Art. 25.º A chefia dos diversos órgãos e serviços externos existentes pode ser confiada, em cada circunscrição, a uma entidade especialmente nomeada para o efeito pelo Ministro da Educação Nacional.
+Art. 25.º A chefia dos diversos órgãos e serviços externos existentes pode ser confiada, em cada circunscrição, a uma entidade especialmente nomeada para o efeito pelo Ministro da Educação Nacional.
 
 IV
 
@@ -526,23 +628,23 @@ Pessoal
 
 A) Pessoal da administração central
 
-###### Art. 26.º - 1. O pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação Nacional constitui um quadro único, com a composição que consta do mapa anexo ao presente diploma.
+Art. 26.º - 1. O pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação Nacional constitui um quadro único, com a composição que consta do mapa anexo ao presente diploma.
 
 2. As regras aplicáveis à gestão do quadro único mencionado no número anterior serão estabelecidas em diploma especial.
 
-###### Art. 27.º Será igualmente criado, logo que seja possível, um quadro único do pessoal administrativo e auxiliar dos órgãos e serviços centrais do Ministério da Educação Nacional.
+Art. 27.º Será igualmente criado, logo que seja possível, um quadro único do pessoal administrativo e auxiliar dos órgãos e serviços centrais do Ministério da Educação Nacional.
 
-###### Art. 28.º Todos os lugares de director-geral e de categoria equivalente do quadro único de pessoal da administração central do Ministério da Educação Nacional, excepto os de inspector-geral, serão providos por nomeação em comissão de serviço, por três anos, renováveis por iguais períodos.
+Art. 28.º Todos os lugares de director-geral e de categoria equivalente do quadro único de pessoal da administração central do Ministério da Educação Nacional, excepto os de inspector-geral, serão providos por nomeação em comissão de serviço, por três anos, renováveis por iguais períodos.
 
 B) Carreira de administração escolar
 
-###### Art. 29.º O Ministério da Educação Nacional promoverá a criação de uma carreira de administração escolar, de âmbito metropolitano, estabelecendo as condições de recrutamento, provimento e promoção do pessoal de administração dos estabelecimentos públicos de ensino, e bem assim definindo as formas de intercomunicação dos quadros ou criando quadros comuns a todo o sistema escolar para determinados cargos.
+Art. 29.º O Ministério da Educação Nacional promoverá a criação de uma carreira de administração escolar, de âmbito metropolitano, estabelecendo as condições de recrutamento, provimento e promoção do pessoal de administração dos estabelecimentos públicos de ensino, e bem assim definindo as formas de intercomunicação dos quadros ou criando quadros comuns a todo o sistema escolar para determinados cargos.
 
-###### Art. 30.º - 1. O primeiro provimento e a promoção nos sucessivos graus da carreira de administração escolar dependerão, em regra, de concursos de habilitação ou de provimento.
+Art. 30.º - 1. O primeiro provimento e a promoção nos sucessivos graus da carreira de administração escolar dependerão, em regra, de concursos de habilitação ou de provimento.
 
 2. O Ministério da Educação Nacional organizará cursos de formação e aperfeiçoamento em administração escolar, que podem ser exigidos como habilitação ou considerados como preferência na carreira de administração escolar.
 
-###### Art. 31.º - 1. A carreira de administração escolar será organizada por decreto-lei.
+Art. 31.º - 1. A carreira de administração escolar será organizada por decreto-lei.
 
 2. A aplicação das regras que forem definidas nos termos do número anterior poderá fazer-se gradualmente, se as condições de pessoal, material e meios financeiros assim o exigirem.
 
@@ -550,27 +652,27 @@ V
 
 Disposições gerais e transitórias
 
-###### Art. 32.º Os directores-gerais do Ministério da Educação Nacional e funcionários equiparados poderão receber delegação de competência do Ministro da Educação Nacional para despacharem quaisquer assuntos relativos às funções de administração geral que corram pelos respectivos serviços.
+Art. 32.º Os directores-gerais do Ministério da Educação Nacional e funcionários equiparados poderão receber delegação de competência do Ministro da Educação Nacional para despacharem quaisquer assuntos relativos às funções de administração geral que corram pelos respectivos serviços.
 
-###### Art. 33.º - 1. A estrutura orgânica, as normas de funcionamento e as dotações de pessoal dos vários serviços e organismos a que se refere este decreto-lei e as demais disposições a eles pertinentes serão definidas nos respectivos diplomas orgânicos, a publicar nos termos do artigo seguinte.
+Art. 33.º - 1. A estrutura orgânica, as normas de funcionamento e as dotações de pessoal dos vários serviços e organismos a que se refere este decreto-lei e as demais disposições a eles pertinentes serão definidas nos respectivos diplomas orgânicos, a publicar nos termos do artigo seguinte.
 
 2. O Instituto de Alta Cultura, o Instituto de Tecnologia Educativa, o Secretariado para a Juventude, o Fundo de Fomento do Desporto e o Instituto de Acção Social Escolar gozam de personalidade jurídica e de autonomia administrativa e financeira.
 
 3. Enquanto não for criado o organismo próprio no qual serão integradas as funções de orientação, apoio e investigação pedagógicas, actualmente atribuídas ao Gabinete de Estudos e Planeamento, este Gabinete gozará de autonomia administrativa e financeira.
 
-###### Art. 34.º - 1. A organização estabelecida neste decreto-lei será progressivamente posta em execução à medida que for sendo julgado conveniente, mediante a criação dos novos órgãos ou serviços previstos ou a reorganização dos actualmente existentes, em obediência aos princípios definidos no presente diploma.
+Art. 34.º - 1. A organização estabelecida neste decreto-lei será progressivamente posta em execução à medida que for sendo julgado conveniente, mediante a criação dos novos órgãos ou serviços previstos ou a reorganização dos actualmente existentes, em obediência aos princípios definidos no presente diploma.
 
 2. A criação ou reorganização dos órgãos ou serviços previstos no presente diploma será feita por decreto-lei, sem prejuízo da eventual publicação dos regulamentos que se mostrarem necessários.
 
-###### Art. 35.º - 1. Os órgãos e serviços da administração central do Ministério da Educação Nacional existentes à data da publicação do presente diploma, mas nele não previstos, serão extintos ou integrados em órgãos ou serviços prescritos neste decreto-lei, através dos diplomas por que se for dando progressiva execução à reforma, nos termos do artigo anterior.
+Art. 35.º - 1. Os órgãos e serviços da administração central do Ministério da Educação Nacional existentes à data da publicação do presente diploma, mas nele não previstos, serão extintos ou integrados em órgãos ou serviços prescritos neste decreto-lei, através dos diplomas por que se for dando progressiva execução à reforma, nos termos do artigo anterior.
 
 2. Todos os órgãos e serviços actualmente existentes continuarão em funcionamento, de harmonia com a respectiva legislação, até à sua extinção ou reorganização.
 
 3. O disposto nos artigos seguintes, porém, é de aplicação imediata a todos os lugares neles previstos, independentemente da reorganização dos respectivos serviços.
 
-###### Art. 36.º Os actuais titulares dos lugares de director-geral e funcionários de categoria equivalente dos órgãos e serviços centrais do Ministério, com provimento definitivo nos respectivos cargos, são desde já colocados na Junta Nacional da Educação, como vogais permanentes e com a categoria de inspectores-gerais, considerando-se providos em tais lugares por nomeação definitiva, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
+Art. 36.º Os actuais titulares dos lugares de director-geral e funcionários de categoria equivalente dos órgãos e serviços centrais do Ministério, com provimento definitivo nos respectivos cargos, são desde já colocados na Junta Nacional da Educação, como vogais permanentes e com a categoria de inspectores-gerais, considerando-se providos em tais lugares por nomeação definitiva, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 37.º - 1. A partir do início da vigência do presente diploma, o provimento dos lugares de director-geral e de categoria equivalente dos órgãos e serviços centrais do Ministério será feito de harmonia com a estrutura definida no artigo 4.º, independentemente da criação ou reorganização dos respectivos órgãos ou serviços, nos termos do artigo 34.º
+Art. 37.º - 1. A partir do início da vigência do presente diploma, o provimento dos lugares de director-geral e de categoria equivalente dos órgãos e serviços centrais do Ministério será feito de harmonia com a estrutura definida no artigo 4.º, independentemente da criação ou reorganização dos respectivos órgãos ou serviços, nos termos do artigo 34.º
 
 2. O Ministro da Educação Nacional determinará por despacho os serviços e órgãos actualmente existentes sobre os quais superintenderá cada um dos dirigentes providos, até à entrada em vigor do diploma que proceda à criação ou reorganização dos respectivos órgãos ou serviços.
 
@@ -580,15 +682,15 @@ Disposições gerais e transitórias
 
 5. Os lugares a que se refere o n.º 1 serão providos, nos termos do artigo 28.º, de entre diplomados com curso superior e de reconhecida competência ou de inspectores-gerais da Junta Nacional da Educação.
 
-###### Art. 38.º - 1. Enquanto não for publicada a regulamentação referida no artigo 34.º e dentro dos limites estabelecidos no quadro anexo ao presente diploma, pode o Ministro da Educação Nacional nomear livremente os adjuntos de director-geral ou funcionários de categoria equivalente, nos termos do artigo anterior.
+Art. 38.º - 1. Enquanto não for publicada a regulamentação referida no artigo 34.º e dentro dos limites estabelecidos no quadro anexo ao presente diploma, pode o Ministro da Educação Nacional nomear livremente os adjuntos de director-geral ou funcionários de categoria equivalente, nos termos do artigo anterior.
 
 2. As nomeações autorizadas no número antecedente serão feitas em comissão de serviço, pelo período que decorrer até à criação ou reorganização do respectivo órgão ou serviço.
 
-###### Art. 39.º - 1. Podem ser desde já providos directamente os lugares de chefe de divisão e de técnicos de 1.ª, 2.ª e 3.ª classe previstos no quadro anexo ao presente diploma, cujo preenchimento se mostrar conveniente.
+Art. 39.º - 1. Podem ser desde já providos directamente os lugares de chefe de divisão e de técnicos de 1.ª, 2.ª e 3.ª classe previstos no quadro anexo ao presente diploma, cujo preenchimento se mostrar conveniente.
 
 2. Os técnicos nomeados ao abrigo do número anterior consideram-se adstritos à Secretaria-Geral do Ministério, mas serão distribuídos pelos diversos serviços, de harmonia com a evolução das suas necessidades, mediante despacho do Ministro.
 
-###### Art. 40.º - 1. No provimento dos referidos lugares de técnico será observado o disposto nos números seguintes, até à regulamentação da matéria no diploma que reorganizar a Secretaria-Geral do Ministério.
+Art. 40.º - 1. No provimento dos referidos lugares de técnico será observado o disposto nos números seguintes, até à regulamentação da matéria no diploma que reorganizar a Secretaria-Geral do Ministério.
 
 2. Os lugares serão providos por escolha do Ministro entre diplomados com curso superior aptos para o exercício das respectivas funções.
 
@@ -596,15 +698,15 @@ Disposições gerais e transitórias
 
 4. As nomeações terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
 
-###### Art. 41.º - 1. As alterações orçamentais necessárias à execução do presente diploma serão efectuadas por decretos referendados pelos Ministros das Finanças e da Educação Nacional, dentro da provisão inscrita, para satisfação de encargos com a remodelação dos serviços centrais, no orçamento do Ministério da Educação Nacional para 1971.
+Art. 41.º - 1. As alterações orçamentais necessárias à execução do presente diploma serão efectuadas por decretos referendados pelos Ministros das Finanças e da Educação Nacional, dentro da provisão inscrita, para satisfação de encargos com a remodelação dos serviços centrais, no orçamento do Ministério da Educação Nacional para 1971.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 22 de Setembro de 1971.**
+Promulgado em 22 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Lista a que se refere o artigo 3.º, n.º 2, do Decreto-Lei n.º 408/71, de 27 de Setembro
 
@@ -850,7 +952,7 @@ Centro Universitário do Porto.
 
 (nota b) Enquanto não forem criados os institutos politécnicos.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.
 
 Mapa a que se refere o artigo 26.º, n.º 1, do Decreto-Lei n.º 408/71, de 27 de Setembro
 
@@ -858,7 +960,7 @@ Mapa a que se refere o artigo 26.º, n.º 1, do Decreto-Lei n.º 408/71, de 27 d
 
 a) Cargos, categorias e lugares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/13821392.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/13821392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/13821392.pdf)
 
 (nota a) Não inclui o Instituto de Alta Cultura, o Gabinete de Estudos e Planeamento, o Instituto de Tecnologia Educativa, o Secretariado para a Juventude, o Fundo de Fomento do Desporto e o Instituto de Acção Social Escolar, que têm personalidade jurídica e gozam de autonomia administrativa e financeira.
 
@@ -1018,4 +1120,4 @@ Direcção-Geral da Educação Física e Desportos:
 
 (nota *) Esta distribuição entende-se, quanto ao pessoal técnico, sem prejuízo do disposto no artigo 39.º, n.º 2.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1976-430855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82e520d1f00505fa5eb5968b52461c7dde6c6131168fec16546ba30d3b66bacb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beadc5f5915f0d4c497a90ea70cf99dec86ae4d8218908d47a8148acdf61b5e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Geral
+- Associação de Socorros Mútuos
+- Conselho Fiscal
+- Definição de Competências
+- Direção
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:567059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407315:por
+  label: "Alterado o nº2 do art. 12º, o nº1 do art. 26º e o art. 28º pelo DEC LEI.807/76.08.11.1976.MAS, DR.IS [261] de 08.11.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/807-1976-407315
+  date: '1976-11-08'
+- type: repealed_by
+  target: pt:dre:567059:por
+  label: "Revogado pelo DEC LEI.347/81.22.12.1981.PCM, DR.IS [293] de 22.12.1981, sem prejuízo do disposto nos seus artigos\
+    \ 6.º e 18.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1981-567059
+  date: '1981-12-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:00Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +120,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 Administração
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Disposições comuns)
 
@@ -120,7 +138,7 @@ Administração
 
 Mesa da assembleia geral
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Constituição)
 
@@ -128,7 +146,7 @@ Mesa da assembleia geral
 
 2. Caso não existam membros suplentes, o 1.º secretário desempenhará as funções de presidente na falta ou impedimento deste.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Competência)
 
@@ -142,7 +160,7 @@ c) Dar posse aos corpos gerentes;
 
 d) Exercer as demais funções previstas neste diploma.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência)
 
@@ -154,7 +172,7 @@ b) Preparar o expediente das sessões e dar-lhe seguimento.
 
 Direcção
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Constituição)
 
@@ -162,7 +180,7 @@ Direcção
 
 2. O exercício dos cargos da direcção poderá ser remunerado, não havendo, neste caso, lugar à eleição de suplentes.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Funcionamento e deliberações)
 
@@ -172,7 +190,7 @@ Direcção
 
 3. Em caso de empate, o presidente da direcção tem voto qualificado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Competência)
 
@@ -212,7 +230,7 @@ q) Exercer as atribuições que lhe sejam conferidas pela lei, estatutos ou deli
 
 Conselho fiscal
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Constituição e funcionamento)
 
@@ -222,7 +240,7 @@ Conselho fiscal
 
 3. As suas deliberações são tomadas pela totalidade ou maioria dos elementos presentes, nos termos do número anterior.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Competência)
 
@@ -242,7 +260,7 @@ f) Fiscalizar o cumprimento das leis e estatutos.
 
 Assembleia geral
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Participação)
 
@@ -252,7 +270,7 @@ Assembleia geral
 
 3. Os sócios empregados, ou que tenham com a associação contratos de prestação de serviços ou beneficiários, não poderão participar em assembleias que directa ou indirectamente digam respeito a retribuições ou respectivos benefícios.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Sessões)
 
@@ -272,7 +290,7 @@ b) Quando a mesma se não realize por falta daquele número de sócios, ficam os
 
 § 2. As assembleias gerais para a reforma ou alteração dos estatutos das associações só podem ser extraordinárias e convocadas para esse fim.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Funcionamento)
 
@@ -284,7 +302,7 @@ b) Quando a mesma se não realize por falta daquele número de sócios, ficam os
 
 4. As assembleias convocadas para a dissolução da associação só poderão funcionar com a presença de três quartos do número de todos os associados com direito a nela participarem.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Deliberações)
 
@@ -298,7 +316,7 @@ b) Quando a mesma se não realize por falta daquele número de sócios, ficam os
 
 2. São nulas as deliberações alheias aos fins da associação, estranhos à ordem de trabalhos ou contrários à lei e aos estatutos.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Competência)
 
@@ -314,7 +332,7 @@ d) As demais funções legal ou estatutariamente fixadas.
 
 Eleições
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Assembleias gerais eleitorais)
 
@@ -322,7 +340,7 @@ Eleições
 
 2. Haverá assembleias gerais eleitorais extraordinárias nos termos do artigo 11.º e para preenchimento de vagas dos corpos gerentes nos casos de inexistência de elementos suplentes, ou se atingir o limite mínimo de membros dos corpos gerentes.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Elegibilidade)
 
@@ -352,7 +370,7 @@ e) Os sócios que não sejam fornecedores da associação ou não façam parte d
 
 5. A não observância do número anterior ou do disposto no artigo 16.º determina a nulidade global da lista.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Funcionamento)
 
@@ -362,7 +380,7 @@ e) Os sócios que não sejam fornecedores da associação ou não façam parte d
 
 3. A mesa de voto será constituída pela mesa de assembleia geral e nas secções de voto por uma mesa nomeada pelo presidente da assembleia geral e, em ambos os casos, cada lista poderá fazer-se representar por um elemento.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Votação)
 
@@ -370,7 +388,7 @@ e) Os sócios que não sejam fornecedores da associação ou não façam parte d
 
 2. É permitido o voto por correspondência nas condições a fixar estatutariamente.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Apuramento)
 
@@ -378,7 +396,7 @@ e) Os sócios que não sejam fornecedores da associação ou não façam parte d
 
 2. Dos resultados das eleições será dado imediato conhecimento à entidade oficial tutelar.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Mandato)
 
@@ -394,7 +412,7 @@ e) Os sócios que não sejam fornecedores da associação ou não façam parte d
 
 Reclamações e recursos
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1. Dos actos da direcção poderá reclamar-se para a mesa da assembleia geral, sempre que a lei o permita, e desta para a entidade tutelar oficial.
 
@@ -402,7 +420,7 @@ Reclamações e recursos
 
 Regime disciplinar
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 1. A assembleia geral fiscaliza os actos dos corpos gerentes e aplica as sanções previstas neste diploma, sem prejuízo da competência dos tribunais.
 
@@ -416,7 +434,7 @@ b) Tiverem votado contra essa resolução e o fizerem consignar na respectiva ac
 
 4. A aprovação pela assembleia geral da conta de gerência e demais actos iliba os membros dos corpos gerentes da responsabilidade para com a associação decorridos seis meses, salvo provando-se ter havido omissões de má fé ou indicações falsas; mas a aprovação será ineficaz se os documentos não estiverem patentes à consulta dos sócios durante os oito dias anteriores à realização da assembleia para a sua apreciação.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Restrições)
 
@@ -428,13 +446,13 @@ b) Tomar parte em qualquer acto judicial, seja ou não em causa própria, contra
 
 § único. Não se compreendem nestas restrições os depósitos, aluguer de cofres, arrecadação e administração de valores, constituição ou fruição de rendes vitalícias e contratos de empréstimos para habitação própria.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Sanções)
 
 A contravenção do disposto nos artigos anteriores importa a revogabilidade do mandato e a suspensão da sua capacidade eleitoral activa e passiva para os. órgãos sociais pelo prazo de cinco anos, sem prejuízo da responsabilidade civil e criminal a que houver lugar.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Tutela administrativa)
 
@@ -444,18 +462,18 @@ A contravenção do disposto nos artigos anteriores importa a revogabilidade do 
 
 Disposições finais
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 No prazo de seis meses após a entrada em vigor deste decreto-lei será publicada uma revisão global do Regulamento das Associações de Socorros Mútuos, com incidência específica na caracterização e actividades de segurança social desenvolvidas por estas instituições.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Ficam revogadas todas as disposições Legais e estatutárias que contrariem as normas agora aprovadas, nomeadamente os capítulos V e VI do Decreto-Lei n.º 20944, de 27 de Fevereiro de 1932, que aprova o Regulamento das Associações Mutualistas.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

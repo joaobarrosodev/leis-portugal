@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20700/21782179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1977-286368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 450465454eb794b4347abd7b4e150fba796492c511a273d2ab7aaca457772220
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d394291acf072102e4816dfdb2a0a110f24287ee7d1c0f1b89ee596592ec938a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Mais-valias
+- Imposto de Mais-Valias
+- Mais-Valias
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232737:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:10Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +110,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 19.º, 20.º, 22.º-A e 31.º do Código do Imposto de Mais-Valias passam a ter a redacção seguinte:
+Artigo 1.º Os artigos 19.º, 20.º, 22.º-A e 31.º do Código do Imposto de Mais-Valias passam a ter a redacção seguinte:
 
-###### Art. 19.º A liquidação do imposto de mais-valias, a que se refere o n.º 2.º do artigo 1.º, será efectuada pela repartição de finanças em que deve ser apresentada a declaração modelo n.º 2, nos termos seguintes:
+Art. 19.º A liquidação do imposto de mais-valias, a que se refere o n.º 2.º do artigo 1.º, será efectuada pela repartição de finanças em que deve ser apresentada a declaração modelo n.º 2, nos termos seguintes:
 
 a) Até ao dia 20 de Setembro do ano seguinte àquele a que respeita o imposto, tratando-se de contribuintes do grupo A da contribuição industrial ou de entidades referidas no artigo 22.º-A que devessem pertencer a este grupo;
 
@@ -130,15 +142,15 @@ b) Nos prazos fixados no artigo 71.º do Código da Contribuição Industrial, n
 
 § 7.º Quando a reclamação for totalmente desatendida, a comissão fixará, a título de custas, um agravamento ao imposto, graduado conforme as circunstâncias, mas nunca superior a 5%.
 
-###### Art. 20.º Os contribuintes da contribuição industrial, grupo A, que, em determinado exercício, transmitirem globalmente, a título oneroso, estabelecimento estável ou conjunto de elementos do seu activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, ou de uns e outros indiscriminadamente, mencionarão expressamente essa circunstância na declaração modelo n.º 2, no espaço reservado às «observações», e imputarão rateadamente a soma ou importância recebida a cada uma das rubricas do activo em que se incluam os bens alienados.
+Art. 20.º Os contribuintes da contribuição industrial, grupo A, que, em determinado exercício, transmitirem globalmente, a título oneroso, estabelecimento estável ou conjunto de elementos do seu activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, ou de uns e outros indiscriminadamente, mencionarão expressamente essa circunstância na declaração modelo n.º 2, no espaço reservado às «observações», e imputarão rateadamente a soma ou importância recebida a cada uma das rubricas do activo em que se incluam os bens alienados.
 
 ...
 
-###### Art. 22.º-A. As entidades não sujeitas a contribuição industrial ou dela isentas, mas não isentas do imposto de mais-valias a que se refere o n.º 2.º do artigo 1.º, apresentarão a declaração modelo n.º 2 dentro do prazo em que teriam de apresentar a declaração para efeitos daquela contribuição se fosse devida e na repartição de finanças competente para a sua liquidação.
+Art. 22.º-A. As entidades não sujeitas a contribuição industrial ou dela isentas, mas não isentas do imposto de mais-valias a que se refere o n.º 2.º do artigo 1.º, apresentarão a declaração modelo n.º 2 dentro do prazo em que teriam de apresentar a declaração para efeitos daquela contribuição se fosse devida e na repartição de finanças competente para a sua liquidação.
 
 ...
 
-###### Art. 31.º A cobrança do imposto de mais-valias a que respeita o n.º 2.º do artigo 1.º será feita nos termos seguintes:
+Art. 31.º A cobrança do imposto de mais-valias a que respeita o n.º 2.º do artigo 1.º será feita nos termos seguintes:
 
 a) Quando se trate de imposto de mais-valias liquidado nos termos da alínea a) do artigo 19.º, durante o mês de Outubro;
 
@@ -146,19 +158,19 @@ b) Nos demais casos, conjuntamente com a da contribuição industrial devida pel
 
 § único. Não havendo lugar a cobrança da contribuição industrial e tratando-se de imposto liquidado nos termos do § 1.º do artigo 19.º, a sua cobrança far-se-á autonomamente nos prazos e termos fixados no Código da Contribuição Industrial para a cobrança da contribuição relativa à correcção de que trata o § único do artigo 85.º do mesmo Código ou para a cobrança da contribuição liquidada, conforme se trate de contribuinte do grupo B ou do grupo C daquela contribuição.
 
-###### Art. 2.º Ao Código do Imposto de Mais-Valias são aditados, no capítulo VI, os artigos 34.º-A e 36.º-A e, no capítulo X, o artigo 65.º-A, com a seguinte redacção:
+Art. 2.º Ao Código do Imposto de Mais-Valias são aditados, no capítulo VI, os artigos 34.º-A e 36.º-A e, no capítulo X, o artigo 65.º-A, com a seguinte redacção:
 
-###### Art. 34.º-A. Passados sessenta dias sobre o vencimento do imposto liquidado nos termos da alínea a) do artigo 19.º sem que se mostre efectuado o pagamento, haverá lugar a procedimento executivo.
-
-...
-
-###### Art. 36.º-A. Para pagamento do imposto pelos ganhos a que respeita o n.º 2.º do artigo 1.º, a Fazenda Nacional goza do privilégio referido no artigo 736.º do Código Civil.
+Art. 34.º-A. Passados sessenta dias sobre o vencimento do imposto liquidado nos termos da alínea a) do artigo 19.º sem que se mostre efectuado o pagamento, haverá lugar a procedimento executivo.
 
 ...
 
-###### Art. 65.º-A. Verificando-se a cessação total de actividade, omissão a lançamento ou liquidação de imposto inferior ao devido, observar-se-ão relativamente ao imposto referido no n.º 2.º do artigo 1.º, com as necessárias adaptações, os preceitos do Código da Contribuição Industrial aplicáveis a idênticas situações.
+Art. 36.º-A. Para pagamento do imposto pelos ganhos a que respeita o n.º 2.º do artigo 1.º, a Fazenda Nacional goza do privilégio referido no artigo 736.º do Código Civil.
 
-###### Art. 3.º (transitório). Relativamente ao imposto de mais-valias a liquidar nos termos da alínea a) do artigo 19.º, respeitantes aos ganhos realizados no ano de 1976, os prazos para as operações de alteração aos elementos declarados, fixação da matéria colectável, reclamação, liquidação e cobrança serão os seguintes:
+...
+
+Art. 65.º-A. Verificando-se a cessação total de actividade, omissão a lançamento ou liquidação de imposto inferior ao devido, observar-se-ão relativamente ao imposto referido no n.º 2.º do artigo 1.º, com as necessárias adaptações, os preceitos do Código da Contribuição Industrial aplicáveis a idênticas situações.
+
+Art. 3.º (transitório). Relativamente ao imposto de mais-valias a liquidar nos termos da alínea a) do artigo 19.º, respeitantes aos ganhos realizados no ano de 1976, os prazos para as operações de alteração aos elementos declarados, fixação da matéria colectável, reclamação, liquidação e cobrança serão os seguintes:
 
 a) Alterações referidas na parte final do § 2.º e fixação de que trata o § 3.º, ambos do artigo 19.º do Código - até 15 do mês imediato ao da publicação do presente diploma;
 
@@ -170,8 +182,8 @@ d) Cobrança durante o terceiro mês seguinte ao da publicação deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 23 de Agosto de 1977.**
+Promulgado em 23 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

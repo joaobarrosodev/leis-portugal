@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29100/27002701.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -49,40 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1978-325163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92d0965fc0478fc717fac09e58e46d7b848312c9c8580ec2ac4d0cad2d0f520c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7be61e4270ed919880a6a990c4c56f47c1382d06cd0c32846de38ffc38e7c82d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fertilizante
+- Instituto de Gestão e Estruturação Fundiária
+- Ministério da Agricultura e Pescas
+- Pagamento
+- Serviço Regional
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:296381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299014:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:39Z'
   warnings: []
   errors: []
 ---
@@ -105,19 +125,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo 1.º - 1 - O Instituto de Gestão e Estruturação Fundiária (IGEF) pagará, através dos serviços regionais do Ministério da Agricultura e Pescas, um bónus aos revendedores e agricultores que se abastecerem de correctivos agrícolas calcários (NP-988) destinados à lavoura e produzidos por fabricantes que respeitem o disposto no regulamento de exercício das actividades de fabrico, preparação, mistura, importação e venda de adubos e correctivos agrícolas aprovados pelo [Decreto-Lei n.º 97/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1978-296381), de 19 de Maio.
+Artigo 1.º - 1 - O Instituto de Gestão e Estruturação Fundiária (IGEF) pagará, através dos serviços regionais do Ministério da Agricultura e Pescas, um bónus aos revendedores e agricultores que se abastecerem de correctivos agrícolas calcários (NP-988) destinados à lavoura e produzidos por fabricantes que respeitem o disposto no regulamento de exercício das actividades de fabrico, preparação, mistura, importação e venda de adubos e correctivos agrícolas aprovados pelo [Decreto-Lei n.º 97/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1978-296381), de 19 de Maio.
 
 2 - O montante do bónus referido no número anterior será fixado por despacho conjunto dos Ministros da Agricultura e Pescas, Comércio e Turismo e Finanças.
 
 3 - Os transportes ferroviários dos correctivos agrícolas calcários beneficiarão do regime em vigor para os adubos, devendo todavia as responsabilidades do Fundo de Abastecimento a estes relativas ser, nestas circunstâncias, suportadas pelo Instituto de Gestão e Estruturação Fundiária (IGEF).
 
-###### Art. 2.º - 1 - Os revendedores que vendam correctivos agrícolas calcários aos agricultores deverão emitir guias de remessa em triplicado donde constem, além da identificação do revendedor, o nome e morada do agricultor e a identificação da propriedade ou exploração agrícola, freguesia, concelho e distrito a que o referido bem se destina.
+Art. 2.º - 1 - Os revendedores que vendam correctivos agrícolas calcários aos agricultores deverão emitir guias de remessa em triplicado donde constem, além da identificação do revendedor, o nome e morada do agricultor e a identificação da propriedade ou exploração agrícola, freguesia, concelho e distrito a que o referido bem se destina.
 
 2 - O original das guias a que se refere o número anterior será entregue nos serviços competentes do MAP, a fim de servir de comprovativo para a atribuição do bónus; a primeira cópia deverá ser entregue ao agricultor e a última deve ficar nos arquivos do revendedor.
 
 3 - Os revendedores a que se refere o n.º 1 do presente artigo deverão respeitar as disposições constantes do Estatuto do Comerciante, aprovado pelo [Decreto-Lei n.º 247/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1978-299014), de 22 de Agosto, bem como as constantes do regulamento aprovado pelo [Decreto-Lei n.º 97/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1978-296381), de 19 de Maio.
 
-###### Art. 3.º - 1 - Quanto aos agricultores que se abasteçam directamente nas fábricas de calcário moído, apenas será conseguido o bónus desde que:
+Art. 3.º - 1 - Quanto aos agricultores que se abasteçam directamente nas fábricas de calcário moído, apenas será conseguido o bónus desde que:
 
 a) Possuam autorização prévia concedida pela direcção regional do MAP competente, cuja validade será de trinta dias e que deverá ser apresentada na fábrica no acto da compra;
 
@@ -125,18 +145,18 @@ b) Entreguem na direcção regional do MAP as facturas correspondentes à compra
 
 2 - Os agricultores a que se refere o número anterior deverão ainda constar de um ficheiro existente na direcção regional do MAP respectiva, donde constem, além da identificação completa, as autorizações prévias de venda e os subsídios concedidos.
 
-###### Art. 4.º Os serviços do MAP procederão à fiscalização da forma como são orientados os bónus referidos no presente diploma.
+Art. 4.º Os serviços do MAP procederão à fiscalização da forma como são orientados os bónus referidos no presente diploma.
 
-###### Art. 5.º Os agricultores que em lugar de destinarem os correctivos agrícolas calcários bonificados à agricultura o revenderem serão punidos com multa de 5000$00 a 10000$00, se pena mais grave não for aplicável.
+Art. 5.º Os agricultores que em lugar de destinarem os correctivos agrícolas calcários bonificados à agricultura o revenderem serão punidos com multa de 5000$00 a 10000$00, se pena mais grave não for aplicável.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
-###### Art. 7.º As dúvidas que se suscitarem na aplicação do presente decreto-lei serão esclarecidas por despacho conjunto dos Ministros da Agricultura e Pescas, Comércio e Turismo e Finanças.
+Art. 7.º As dúvidas que se suscitarem na aplicação do presente decreto-lei serão esclarecidas por despacho conjunto dos Ministros da Agricultura e Pescas, Comércio e Turismo e Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Apolinário José Barbosa da Cruz Vaz Portugal - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 4 de Dezembro de 1978.**
+Promulgado em 4 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 3º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1670-(46) a 1670-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf
 entry_into_force_dates: []
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/782-1974-236100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a54a00c80abf34f8bb296835cd598149e0ede990f7709138ed32e6befd036b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af7f5c52f7f18d07951a4a2ed47f6b02a08371f340b886a7a24678e82d0e17df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avião
+- Contribuições e Impostos
+- Embarcação
+- Isenção Fiscal
+- Regulamento
+- Regulamento do Imposto sobre Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:501179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335950:por
+  label: "Alterados os arts. 1.º, 5.º, 6.º, 8.º, 11.º, 12.º e 13.º do Regulamento, pelo DEC LEI.269/75.1975.05.30.MF DG.IS\
+    \ [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-1975-335950
+  date: '1975-05-30'
+- type: amended_by
+  target: pt:dre:506867:por
+  label: "Sustituido o Regulamento aprovado pelo presente diploma com as alterações introduzidas pelo Dec Lei 269/75, de 30-Mai,\
+    \ pelo DEC LEI.81/76.1976.01.28.MF DG.IS [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1976-506867
+  date: '1976-01-28'
+- type: amended_by
+  target: pt:dre:501179:por
+  label: "Mantidos em vigor, com as necessárias adaptações e até à sua extinção, os impressos dos modelos nºs 3, 5 e 8 anexos\
+    \ ao Regulamento aprovado pelo presente diploma, pela PORT.175/76.27.03.1976.MF, DG.IS [74] de 27.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-1976-501179
+  date: '1976-03-27'
+- type: cites
+  target: pt:dre:163785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421985:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:28Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +139,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o novo Regulamento do Imposto sobre Veículos, criado pelo artigo 1.º do [Decreto-Lei n.º 599/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1972-163785), de 30 de Dezembro, que substitui, a partir de 1 de Janeiro de 1975, o regulamento aprovado pelo artigo 2.º do mesmo decreto-lei.
+Artigo 1.º É aprovado o novo Regulamento do Imposto sobre Veículos, criado pelo artigo 1.º do [Decreto-Lei n.º 599/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1972-163785), de 30 de Dezembro, que substitui, a partir de 1 de Janeiro de 1975, o regulamento aprovado pelo artigo 2.º do mesmo decreto-lei.
 
-###### Art. 2.º Fica autorizado o Secretário de Estado do Orçamento a alterar, por despacho, os modelos dos impressos que fazem parte do Regulamento aprovado pelo presente decreto-lei, bem como mandar adoptar os mais que se tornarem necessários à execução dos serviços de que trata o mesmo Regulamento.
+Art. 2.º Fica autorizado o Secretário de Estado do Orçamento a alterar, por despacho, os modelos dos impressos que fazem parte do Regulamento aprovado pelo presente decreto-lei, bem como mandar adoptar os mais que se tornarem necessários à execução dos serviços de que trata o mesmo Regulamento.
 
-###### Art. 3.º O artigo 147.º da Tabela Geral do Imposto do Selo passa a ter a seguinte redacção:
+Art. 3.º O artigo 147.º da Tabela Geral do Imposto do Selo passa a ter a seguinte redacção:
 
-###### Art. 147.º Registo de propriedade de veículos automóveis:
+Art. 147.º Registo de propriedade de veículos automóveis:
 
 Automóveis ligeiros e pesados, com excepção de tractores agrícolas (selo de verba) ... 600$00
 
@@ -122,17 +155,17 @@ O imposto é pago no serviço onde o registo for efectuado e entregue na respect
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 30 de Dezembro de 1974.**
+Promulgado em 30 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 REGULAMENTO DO IMPOSTO SOBRE VEÍCULOS
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º - 1. O imposto sobre veículos incide sobre o uso e fruição dos veículos a seguir mencionados, matriculados ou registados no território do continente e ilhas adjacentes, ou, quando não sujeitos a essas formalidades, logo que, decorridos cento e oitenta dias a contar da sua entrada no mesmo território, venham a circular ou a ser usados em condições normais da sua utilização:
+Artigo 1.º - 1. O imposto sobre veículos incide sobre o uso e fruição dos veículos a seguir mencionados, matriculados ou registados no território do continente e ilhas adjacentes, ou, quando não sujeitos a essas formalidades, logo que, decorridos cento e oitenta dias a contar da sua entrada no mesmo território, venham a circular ou a ser usados em condições normais da sua utilização:
 
 a) Automóveis ligeiros, de passageiros ou mistos;
 
@@ -144,11 +177,11 @@ c) Barcos de recreio de uso particular.
 
 3. Consideram-se potencialmente em uso os veículos automóveis que circulem pelos seus próprios meios ou estacionem nas vias ou recintos públicos e os barcos de recreio e as aeronaves desde que sejam detentores dos certificados de navegabilidade, devidamente válidos.
 
-###### Art. 2.º O imposto sobre veículos é devido por inteiro em cada ano civil.
+Art. 2.º O imposto sobre veículos é devido por inteiro em cada ano civil.
 
-###### Art. 3.º O imposto é devido pelos proprietários dos veículos, presumindo-se como tais, até prova em contrário, as pessoas em nome de quem os mesmos se encontrem matriculados ou registados.
+Art. 3.º O imposto é devido pelos proprietários dos veículos, presumindo-se como tais, até prova em contrário, as pessoas em nome de quem os mesmos se encontrem matriculados ou registados.
 
-###### Art. 4.º O imposto sobre veículos será determinado tendo em consideração:
+Art. 4.º O imposto sobre veículos será determinado tendo em consideração:
 
 a) Para automóveis - o combustível utilizado, a cilindrada do motor, a voltagem quando movidos a electricidade e a antiguidade;
 
@@ -158,7 +191,7 @@ c) Para barcos de recreio - a propulsão, a tonelagem da arqueação bruta e a a
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 5.º - 1. Estão isentos do imposto sobre veículos:
+Art. 5.º - 1. Estão isentos do imposto sobre veículos:
 
 a) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;
 
@@ -178,7 +211,7 @@ g) Os militares abrangidos pelo [Decreto-Lei n.º 210/73](https://diariodarepubl
 
 3. A isenção referida na alínea g) do n.º 1 não pode ser fruída, por cada beneficiário, em relação a mais de um veículo.
 
-###### Art. 6.º - 1. Ficam igualmente isentos de imposto:
+Art. 6.º - 1. Ficam igualmente isentos de imposto:
 
 a) Os automóveis utilizados em serviço público e como tal averbados no respectivo livrete;
 
@@ -204,7 +237,7 @@ a) Os automóveis novos destinados a venda; e, no período que anteceder o licen
 
 b) Os automóveis antigos detentores de certificado de autenticidade e de placa de homologação concedidos pelo Clube Português de Automóveis Antigos, quando ocasionalmente circulem para conservação da sua mecânica ou participem em manifestações desportivas ou cortejos.
 
-###### Art. 7.º - 1. A isenção do imposto será concedida pela repartição de finanças do concelho ou bairro da área da residência ou sede da entidade interessada, mediante requisição escrita, devendo ser exibidos, para o efeito, o título de propriedade e o livrete ou certificado de registo ou matrícula do veículo, bem como, no caso da alínea i) do n.º 1 do artigo 6.º, o documento a que se refere o artigo 15.º
+Art. 7.º - 1. A isenção do imposto será concedida pela repartição de finanças do concelho ou bairro da área da residência ou sede da entidade interessada, mediante requisição escrita, devendo ser exibidos, para o efeito, o título de propriedade e o livrete ou certificado de registo ou matrícula do veículo, bem como, no caso da alínea i) do n.º 1 do artigo 6.º, o documento a que se refere o artigo 15.º
 
 2. Nos casos previstos nas alíneas d), e) e f) do n.º 1 do artigo 5.º a requisição será dirigida ao director-geral das Contribuições e Impostos e satisfeita através da repartição de finanças competente nos termos do número anterior.
 
@@ -220,25 +253,25 @@ b) Os automóveis antigos detentores de certificado de autenticidade e de placa 
 
 ### CAPÍTULO III — Taxas
 
-###### Art. 8.º - 1. As taxas do imposto são as seguintes:
+Art. 8.º - 1. As taxas do imposto são as seguintes:
 
 a) Para automóveis:
 
 TABELA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
 
 b) Para aeronaves:
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
 
 c) Para barcos de recreio:
 
 TABELA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
 
 2. A antiguidade dos automóveis e dos barcos de recreio será reportada a 1 de Janeiro do ano a que respeita o imposto e contada por anos civis, incluindo, quanto aos automóveis, o ano da matrícula constante do respectivo livrete e, quanto aos barcos, o da construção indicado no título de registo.
 
@@ -250,7 +283,7 @@ TABELA III
 
 ### CAPÍTULO IV — Liquidação e cobrança
 
-###### Art. 9.º - 1. O imposto será liquidado e pago nos meses de Janeiro e Fevereiro de cada ano, ou antes do uso ou fruição dos veículos quando tenha lugar posteriormente a esse período, nos termos seguintes:
+Art. 9.º - 1. O imposto será liquidado e pago nos meses de Janeiro e Fevereiro de cada ano, ou antes do uso ou fruição dos veículos quando tenha lugar posteriormente a esse período, nos termos seguintes:
 
 a) Relativamente a automóveis - por meio de dísticos modelo n.º 4 das taxas correspondentes, segundo a tabela I do artigo 8.º;
 
@@ -262,7 +295,7 @@ b) Relativamente a aeronaves e barcos de recreio - mediante guia modelo n.º 5.
 
 4. Os dísticos modelo n.º 4, a que se refere a alínea a) do n.º 1, serão fornecidos às tesourarias da Fazenda Pública nos mesmos termos em que o são os valores selados.
 
-###### Art. 10.º - 1. Os dísticos modelo n.º 4, comprovativos do pagamento do imposto, serão adquiridos em qualquer tesouraria da Fazenda Pública, mediante o pagamento do respectivo imposto, sendo obrigatoriamente registados na correspondente repartição de finanças.
+Art. 10.º - 1. Os dísticos modelo n.º 4, comprovativos do pagamento do imposto, serão adquiridos em qualquer tesouraria da Fazenda Pública, mediante o pagamento do respectivo imposto, sendo obrigatoriamente registados na correspondente repartição de finanças.
 
 2. O registo será efectuado em cadernetas do modelo n.º 6, no prazo estabelecido no n.º 1 do artigo 9.º e mediante a apresentação do respectivo livrete do automóvel, sendo fornecida aos interessados a competente nota de registo.
 
@@ -270,31 +303,31 @@ b) Relativamente a aeronaves e barcos de recreio - mediante guia modelo n.º 5.
 
 4. Não é permitido o registo de dísticos deficientemente preenchidos ou que contenham emendas ou rasuras.
 
-###### Art. 11.º - 1. O imposto relativo a aeronaves e a barcos de recreio será pago na tesouraria da Fazenda Pública do concelho ou bairro da área da residência ou sede do contribuinte, quando situada no território do continente e ilhas adjacentes, ou, sendo fora deste território, em qualquer outra tesouraria, mediante a guia modelo n.º 5, a processar na respectiva repartição de finanças.
+Art. 11.º - 1. O imposto relativo a aeronaves e a barcos de recreio será pago na tesouraria da Fazenda Pública do concelho ou bairro da área da residência ou sede do contribuinte, quando situada no território do continente e ilhas adjacentes, ou, sendo fora deste território, em qualquer outra tesouraria, mediante a guia modelo n.º 5, a processar na respectiva repartição de finanças.
 
 2. O processamento da guia será solicitado pelo contribuinte, devendo para o efeito ser exibido o título de matrícula ou registo do veículo.
 
 ### CAPÍTULO V — Fiscalização
 
-###### Art. 12.º - 1. O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.
+Art. 12.º - 1. O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.
 
 2. Os funcionários a quem incumbe a fiscalização prevista no número anterior, sempre que verifiquem qualquer transgressão dos preceitos estabelecidos neste diploma e quando para tal tenham competência, deverão levantar o respectivo auto de notícia, que, nos termos e para os efeitos do Código de Processo das Contribuições e Impostos, será remetido ao chefe da repartição de finanças do concelho ou bairro da área da residência ou sede do infractor.
 
 3. Os funcionários que no exercício ou por causa do exercício das suas funções verificarem transgressões ao presente diploma e não forem competentes para levantar autos de notícia e, bem assim, quaisquer outras pessoas que delas tenham conhecimento deverão participá-las ou denunciá-las, nos termos dos artigos 110.º ou 111.º do referido Código, à repartição de finanças mencionada no número anterior.
 
-###### Art. 13.º - 1. O condutor de veículos sujeitos a imposto, mesmo quando dele isentos, com excepção dos referidos no n.º 4 do artigo 7.º, será obrigatoriamente portador, conforme o caso, da guia de pagamento do imposto, do título de isenção, da nota de registo modelo n.º 6 ou da certidão a que se refere o n.º 1 do artigo 31.º, documentos que deverão ser exibidos sempre que sejam solicitados por qualquer das entidades mencionadas no n.º 1 do artigo anterior.
+Art. 13.º - 1. O condutor de veículos sujeitos a imposto, mesmo quando dele isentos, com excepção dos referidos no n.º 4 do artigo 7.º, será obrigatoriamente portador, conforme o caso, da guia de pagamento do imposto, do título de isenção, da nota de registo modelo n.º 6 ou da certidão a que se refere o n.º 1 do artigo 31.º, documentos que deverão ser exibidos sempre que sejam solicitados por qualquer das entidades mencionadas no n.º 1 do artigo anterior.
 
 2. Os dísticos modelos n.os 2, 4 e 7 serão obrigatoriamente afixados em local bem visível do exterior, no canto superior direito do pára-brisas do automóvel a que respeitem, depois de inscritas no verso, pelo interessado, a marca e a matrícula do veículo.
 
-###### Art. 14.º - 1. Os pedidos de revalidação dos certificados de navegabilidade de aeronaves ou de barcos de recreio não poderão ter seguimento sem que seja exibido à respectiva entidade o documento comprovativo do pagamento ou da isenção do imposto relativo ao ano em que o pedido for apresentado.
+Art. 14.º - 1. Os pedidos de revalidação dos certificados de navegabilidade de aeronaves ou de barcos de recreio não poderão ter seguimento sem que seja exibido à respectiva entidade o documento comprovativo do pagamento ou da isenção do imposto relativo ao ano em que o pedido for apresentado.
 
 2. A apresentação dos documentos referidos no número anterior será averbada no processo ou registo de revalidação do certificado, devendo o averbamento fazer referência ao número e data do documento, bem como à repartição de finanças processadora, e rubricado pelo funcionário competente, que o restituirá ao apresentante.
 
-###### Art. 15.º Os vendedores de veículos novos, transaccionados de 1 de Outubro a 31 de Dezembro de cada ano, fornecerão obrigatoriamente ao adquirente documento comprovativo da aquisição para os efeitos do disposto no n.º 1 do artigo 7.º
+Art. 15.º Os vendedores de veículos novos, transaccionados de 1 de Outubro a 31 de Dezembro de cada ano, fornecerão obrigatoriamente ao adquirente documento comprovativo da aquisição para os efeitos do disposto no n.º 1 do artigo 7.º
 
 ### CAPÍTULO VI — Reclamações e recursos
 
-###### Art. 16.º - 1. Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 16.º - 1. Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 2. As reclamações ou impugnações serão apresentadas na repartição de finanças onde tiver sido efectuado o registo dos dísticos ou processada a guia de pagamento nos termos dos artigos 10.º e 11.º
 
@@ -302,49 +335,49 @@ b) Relativamente a aeronaves e barcos de recreio - mediante guia modelo n.º 5.
 
 ### CAPÍTULO VII — Penalidades
 
-###### Art. 17.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 17.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 18.º - 1. A utilização de qualquer veículo compreendido no artigo 1.º sem o pagamento do imposto, quando devido, é punida com multa igual ao triplo do imposto, por cujo pagamento é solidariamente responsável o condutor do veículo.
+Art. 18.º - 1. A utilização de qualquer veículo compreendido no artigo 1.º sem o pagamento do imposto, quando devido, é punida com multa igual ao triplo do imposto, por cujo pagamento é solidariamente responsável o condutor do veículo.
 
 2. Quando se verifique a utilização abusiva do veículo, a responsabilidade pela transgressão caberá ao seu condutor.
 
-###### Art. 19.º A falta de aposição dos dísticos nos termos do n.º 2 do artigo 13.º será punida com multa de 100$00 a 1000$00, sem prejuízo da aplicação da penalidade prevista no artigo 21.º, se for caso disso.
+Art. 19.º A falta de aposição dos dísticos nos termos do n.º 2 do artigo 13.º será punida com multa de 100$00 a 1000$00, sem prejuízo da aplicação da penalidade prevista no artigo 21.º, se for caso disso.
 
-###### Art. 20.º A aposição dos dísticos modelos n.os 2, 4 e 7, a que se referem o artigo 7.º, n.º 3, o artigo 9.º, n.º 1, alínea a), e o artigo 31.º, n.º 2, em veículo diferente daquele a que respeita, será punida com multa igual a cinco vezes o imposto correspondente ao veículo em falta, nunca inferior a 5000$00.
+Art. 20.º A aposição dos dísticos modelos n.os 2, 4 e 7, a que se referem o artigo 7.º, n.º 3, o artigo 9.º, n.º 1, alínea a), e o artigo 31.º, n.º 2, em veículo diferente daquele a que respeita, será punida com multa igual a cinco vezes o imposto correspondente ao veículo em falta, nunca inferior a 5000$00.
 
-###### Art. 21.º A falta de registo dos dísticos modelos n.os 2 e 4, nos termos do artigo 10.º, será punida com multa de 100$00 a 1000$00.
+Art. 21.º A falta de registo dos dísticos modelos n.os 2 e 4, nos termos do artigo 10.º, será punida com multa de 100$00 a 1000$00.
 
-###### Art. 22.º A falsificação ou viciação de qualquer dístico, guia de pagamento, título de isenção ou nota de registo, a que se referem os artigos 7.º, 9.º, 10.º e 31.º, será punida com multa de 10000$00 a 300000$00, sem prejuízo do procedimento criminal que no caso couber.
+Art. 22.º A falsificação ou viciação de qualquer dístico, guia de pagamento, título de isenção ou nota de registo, a que se referem os artigos 7.º, 9.º, 10.º e 31.º, será punida com multa de 10000$00 a 300000$00, sem prejuízo do procedimento criminal que no caso couber.
 
-###### Art. 23.º - 1. A falta de apresentação dos documentos referidos no n.º 1 do artigo 13.º, quando o condutor declare encontrar-se a situação tributária do veículo devidamente regularizada, será punida com multa de 200$00, desde que os documentos venham a ser exibidos, em prazo a fixar no auto de notícia, perante a repartição de finanças competente para a instrução do processo.
+Art. 23.º - 1. A falta de apresentação dos documentos referidos no n.º 1 do artigo 13.º, quando o condutor declare encontrar-se a situação tributária do veículo devidamente regularizada, será punida com multa de 200$00, desde que os documentos venham a ser exibidos, em prazo a fixar no auto de notícia, perante a repartição de finanças competente para a instrução do processo.
 
 2. Na falta de exibição dos documentos dentro do prazo fixado, será a multa elevada a 500$00 sem prejuízo do procedimento contra os respectivos responsáveis por quaisquer outras infracções eventualmente verificadas.
 
-###### Art. 24.º Por qualquer infracção às disposições do presente diploma, não especialmente prevenida nos artigos anteriores, será aplicada a multa de 200$00 a 50000$00.
+Art. 24.º Por qualquer infracção às disposições do presente diploma, não especialmente prevenida nos artigos anteriores, será aplicada a multa de 200$00 a 50000$00.
 
-###### Art. 25.º - 1. Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidariamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida ao tempo em que foi cometida a infracção.
+Art. 25.º - 1. Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidariamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida ao tempo em que foi cometida a infracção.
 
 2. A responsabilidade prevista no número anterior só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado os actos a que respeite a infracção.
 
 3. Após a extinção das pessoas colectivas, responderão solidariamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 26.º - 1. Tratando-se de veículos pertencentes a entidades a que a lei reconhece o direito de isenção do imposto, são considerados pessoalmente responsáveis pelas infracções imputáveis ao proprietário e ainda pelo imposto eventualmente devido, os administradores, chefes ou outros dirigentes dos serviços a que os veículos estejam afectos.
+Art. 26.º - 1. Tratando-se de veículos pertencentes a entidades a que a lei reconhece o direito de isenção do imposto, são considerados pessoalmente responsáveis pelas infracções imputáveis ao proprietário e ainda pelo imposto eventualmente devido, os administradores, chefes ou outros dirigentes dos serviços a que os veículos estejam afectos.
 
 2. Fora dos casos previstos no número anterior, os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista noutras leis.
 
-###### Art. 27.º Se o processo de transgressão em que houver também de ser liquidado imposto estiver parado durante cinco anos, ficará extinto o procedimento para aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
+Art. 27.º Se o processo de transgressão em que houver também de ser liquidado imposto estiver parado durante cinco anos, ficará extinto o procedimento para aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
 
-###### Art. 28.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional, mas os autuantes, participantes ou denunciantes da transgressão terão direito a 20% da importância da multa cobrada.
+Art. 28.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional, mas os autuantes, participantes ou denunciantes da transgressão terão direito a 20% da importância da multa cobrada.
 
-###### Art. 29.º - 1. Levantado auto de notícia pela verificação de qualquer infracção, será entregue ao autuado uma nota com a indicação do levantamento do auto e da falta verificada.
+Art. 29.º - 1. Levantado auto de notícia pela verificação de qualquer infracção, será entregue ao autuado uma nota com a indicação do levantamento do auto e da falta verificada.
 
 2. Durante o prazo de dez dias a contar do levantamento do auto não poderá a mesma infracção ser objecto de nova autuação, sempre que seja exibida a nota referida no número anterior.
 
 ### CAPÍTULO VIII — Disposições diversas
 
-###### Art. 30.º Os veículos susceptíveis de beneficiar das isenções previstas nos artigos 5.º e 6.º consideram-se sujeitos a imposto enquanto não forem processados os títulos de isenção ou não estiverem registados e afixados os respectivos dísticos.
+Art. 30.º Os veículos susceptíveis de beneficiar das isenções previstas nos artigos 5.º e 6.º consideram-se sujeitos a imposto enquanto não forem processados os títulos de isenção ou não estiverem registados e afixados os respectivos dísticos.
 
-###### Art. 31.º - 1. Quando se verifique extravio, furto ou inutilização de guias de pagamento, de títulos de isenção ou de notas de registo, a que se referem os artigos 7.º, 9.º e 10.º, poderá ser passada, a requerimento do proprietário do veículo, certidão comprovativa do imposto, da concessão da isenção ou do registo efectuado, a qual substituirá para todos os efeitos o documento respectivo.
+Art. 31.º - 1. Quando se verifique extravio, furto ou inutilização de guias de pagamento, de títulos de isenção ou de notas de registo, a que se referem os artigos 7.º, 9.º e 10.º, poderá ser passada, a requerimento do proprietário do veículo, certidão comprovativa do imposto, da concessão da isenção ou do registo efectuado, a qual substituirá para todos os efeitos o documento respectivo.
 
 2. No caso de extravio, furto ou inutilização dos dísticos modelos n.os 2 e 4, poderá ser concedido um dístico especial do modelo n.º 7, mediante requerimento do proprietário do automóvel, dirigido ao chefe da repartição de finanças onde foi efectuado o registo nos termos do n.º 7 do artigo 7.º e n.º 1 do artigo 10.º e documentado com a nota de registo do dístico extraviado ou inutilizado.
 
@@ -354,12 +387,12 @@ b) Relativamente a aeronaves e barcos de recreio - mediante guia modelo n.º 5.
 
 5. Os dísticos especiais substituirão para todos os efeitos os dísticos modelos n.os 2 e 4 extraviados ou inutilizados.
 
-###### Art. 32.º - 1. É fixado em 30$00, a título de reembolso do custo do papel e impressão, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7.
+Art. 32.º - 1. É fixado em 30$00, a título de reembolso do custo do papel e impressão, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7.
 
 2. Os títulos e dísticos referidos no número anterior serão fornecidos às tesourarias da Fazenda Pública nos mesmos termos em que o são os valores selados.
 
-**O Ministro das Finanças, José da Silva Lopes**
+O Ministro das Finanças, José da Silva Lopes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
 
-**O Ministro das Finanças, José da Silva Lopes.**
+O Ministro das Finanças, José da Silva Lopes.

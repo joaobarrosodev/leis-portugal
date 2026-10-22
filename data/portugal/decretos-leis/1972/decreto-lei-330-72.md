@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1972-676625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f924deac097a3b2c610b51bac6939c2a330e2fda5f533dd96ca764c008940b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f37eb454afcec5d31c80ab9d47e3628fce4e95b9821c5fab41d7c85a318db0c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Transporte de Passageiros
+- Transporte Internacional
+relationships:
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:51Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 22 de Agosto
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. A alínea a) do n.º 1 do artigo 2.º, o artigo 15.º e a alínea a) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro, passam a ter a seguinte redacção:
+Artigo único. A alínea a) do n.º 1 do artigo 2.º, o artigo 15.º e a alínea a) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 a) Aos transportes de passageiros efectuados em veículos especialmente adaptados ao deslocamento de pessoas e que comportem, além do lugar do condutor, um mínimo de nove lugares sentados;
 
 ...
 
-###### Art. 15.º Os transportadores não residentes de passageiros ficam sujeitos a um imposto diário sobre o veículo, com o montante previsto na tabela seguinte:
+Art. 15.º Os transportadores não residentes de passageiros ficam sujeitos a um imposto diário sobre o veículo, com o montante previsto na tabela seguinte:
 
 Lotação superior a nove e inferior ou igual a vinte lugares ... 50$00
 
@@ -105,7 +111,7 @@ Lotação superior a quarenta lugares ... 100$00
 
 ...
 
-###### Art. 19.º - 1. ...
+Art. 19.º - 1. ...
 
 a) Automóveis de passageiros:
 
@@ -117,8 +123,8 @@ Lotação superior a vinte lugares ... 100$00
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

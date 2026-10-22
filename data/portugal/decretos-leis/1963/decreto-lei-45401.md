@@ -50,40 +50,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45401-1963-683780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a87a1105e99b14bf1563ac28e2f3e8e2d61acbf67cc766a3fec107b02d34a02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca3b5b974dfb1fb3cd32c204a4e00e7417b5d3d83b990c378d64d3dfdfb3cf07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desenvolvimento Rural
+- Empréstimo
 relationships:
 - type: amended_by
   target: pt:dre:215933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:509627:por
+  label: "Elevado para 60 contos, o limite de 50 contos estabelecido no art. 2º, pelo DEC LEI.46523.06.09.1965.MECO, DG.IS\
+    \ [201] de 06.09.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46523-1965-509627
+  date: '1965-09-06'
+- type: amended_by
+  target: pt:dre:215933:por
+  label: "Dada nova redacção ao § 1º do art. 1º pelo DEC LEI.49294.08.10.1969.MECO, DG.IS [236] de 08.10.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49294-1969-215933
+  date: '1969-10-08'
+- type: cites
+  target: pt:dre:154874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:10Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +125,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.
+Artigo 1.º A amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.
 
 § 1.º O capital do empréstimo vencerá juros a partir do ano imediatamente anterior ao início de amortização.
 
 § 2.º A importância a amortizar, capital e juros, poderá ser dividida em fracções, até três, fixando-se para essas fracções períodos de amortização, no total máximo de 30 anos, e dividindo-se a importância a pagar em cada período em prestações anuais e iguais.
 
-###### Art. 2.º O limite de 20 contos estabelecido nos §§ 2.º e 3.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passa a ser de 50 contos.
+Art. 2.º O limite de 20 contos estabelecido nos §§ 2.º e 3.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passa a ser de 50 contos.
 
-###### Art. 3.º É aplicável a todas as associações agrícolas com estatutos aprovados pelo Secretário de Estado da Agricultura e sujeitas à fiscalização da repartição respectiva da Direcção-Geral dos Serviços Agrícolas o disposto no § 1.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.
+Art. 3.º É aplicável a todas as associações agrícolas com estatutos aprovados pelo Secretário de Estado da Agricultura e sujeitas à fiscalização da repartição respectiva da Direcção-Geral dos Serviços Agrícolas o disposto no § 1.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.
 
 Publique- se e cumpra-se como nele se contém.
 

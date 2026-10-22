@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12100/12171218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1981-574507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f72f3a3d2675413f617ed46730b174a2f94c3c1fce62cebef697cb51e1b0fbb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfbcb99b936134a954e1f23f5fbbb47d94ac02dd5df33b1875916e91ea16daf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- ADSE
+- Função Pública
+- Funcionário Público
+- Proteção Social
+- TAXA Contributiva
 relationships:
 - type: amended_by
   target: pt:dre:476928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:324956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197491:por
+  label: "Revogado pela LEI.53-D/2006.29.12.2006.AR, DR.IS [249]4ºSupl de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-d-2006-197491
+  date: '2006-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:18Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +138,13 @@ Assim:
 
 Usando da autorização legislativa concedida pelo n.º 1 do artigo 56.º da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, o Governo decreta, nos termos das alíneas b) e c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Desconto nos vencimentos)
 
 Os vencimentos dos funcionários e agentes dos serviços do Estado beneficiários da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE) ou de outros esquemas de assistência própria ficam sujeitos ao desconto de 1% a partir da data da entrada em vigor do presente decreto-lei.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Atribuição dos descontos)
 
@@ -119,13 +154,13 @@ Os vencimentos dos funcionários e agentes dos serviços do Estado beneficiário
 
 3 - Os organismos autónomos e institutos públicos continuam sujeitos ao pagamento da importância de 50$00 anuais por beneficiário inscrito, como compensação das despesas de administração da ADSE.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Isenções)
 
 Ficam isentos do desconto previsto no artigo 1.º os funcionários e agentes aposentados, beneficiários da ADSE.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Dúvidas)
 
@@ -133,8 +168,8 @@ As dúvidas resultantes da aplicação deste diploma serão resolvidas por despa
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Maio de 1981.**
+Promulgado em 14 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

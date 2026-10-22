@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/03700/04130415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1981-391390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9789ca8ca99b3ca130ad7f9bc925a0d397905887eab1a75d8ae2f0cdcb351c8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a09d559755d780962405d955b39945369db4bd92cd30896330ba0441f5b985b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Justiça
+- Promoção Profissional
+- Reestruturação de Serviços
+- Secretaria Judicial
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:375815:por
+  label: "Revogado o artigo 1.º pelo DEC LEI.385/82.16.09.1982.MJ, DR.IS [215] de 16.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1982-375815
+  date: '1982-09-16'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:09Z'
   warnings: []
   errors: []
 ---
@@ -116,30 +146,30 @@ Para obviar a tais inconvenientes, julga o Governo que deverão ser tomadas medi
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O encerramento das secretarias judiciais aos sábados, determinado pelo artigo 3.º, n.º 1, do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, na redacção que lhe foi introduzida pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, efectuar-se-á sem prejuízo da prática dos actos referidos no § 3.º do artigo 76.º do Código de Processo Penal.
+Artigo 1.º O encerramento das secretarias judiciais aos sábados, determinado pelo artigo 3.º, n.º 1, do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, na redacção que lhe foi introduzida pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, efectuar-se-á sem prejuízo da prática dos actos referidos no § 3.º do artigo 76.º do Código de Processo Penal.
 
-###### Art. 2.º - 1 - Os oficiais de justiça que venham a ser abrangidos pelo limite de idade estabelecido no n.º 1 do artigo 90.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, por força do artigo 135.º do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, na redacção dada pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, podem continuar ao serviço até atingirem 65 anos de idade, desde que o requeiram ao Ministro da Justiça nos trinta dias anteriores à data em que completarem 60 anos de idade.
+Art. 2.º - 1 - Os oficiais de justiça que venham a ser abrangidos pelo limite de idade estabelecido no n.º 1 do artigo 90.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, por força do artigo 135.º do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, na redacção dada pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, podem continuar ao serviço até atingirem 65 anos de idade, desde que o requeiram ao Ministro da Justiça nos trinta dias anteriores à data em que completarem 60 anos de idade.
 
 2 - Para os efeitos do número anterior, os oficiais de justiça que à data da entrada em vigor do presente diploma ou nos trinta dias imediatos tenham completado 60 anos de idade, ainda que se encontrem desligados do serviço, ou venham a completá-los, dispõem de trinta dias para a apresentação do respectivo requerimento, a partir daquela data.
 
-###### Art. 3.º - 1 - Os oficiais de justiça abrangidos pelo limite de idade estabelecido pelo n.º 1 do artigo 90.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, por força do artigo 135.º do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, na redacção que lhe foi dada pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, que não tenham completado 36 anos de serviço efectivo na data da aposentação e que não usem da faculdade prevista no n.º 2 do artigo 2.º deste diploma, têm direito à contagem como tempo de serviço, desde a data do despacho da aposentação, do número de anos que, até ao limite de dez, sejam necessários para atingir o máximo da pensão, uma vez que procedam ao pagamento das respectivas quotas para a Caixa Geral de Aposentações.
+Art. 3.º - 1 - Os oficiais de justiça abrangidos pelo limite de idade estabelecido pelo n.º 1 do artigo 90.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, por força do artigo 135.º do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, na redacção que lhe foi dada pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, que não tenham completado 36 anos de serviço efectivo na data da aposentação e que não usem da faculdade prevista no n.º 2 do artigo 2.º deste diploma, têm direito à contagem como tempo de serviço, desde a data do despacho da aposentação, do número de anos que, até ao limite de dez, sejam necessários para atingir o máximo da pensão, uma vez que procedam ao pagamento das respectivas quotas para a Caixa Geral de Aposentações.
 
 2 - Os oficiais de justiça abrangidos pelo número anterior aos quais seja aplicável o regime de diuturnidades beneficiarão da integração na base de cálculo da pensão respectiva da importância correspondente àquelas a que teriam direito pelo tempo contado nos termos do número anterior.
 
-###### Art. 4.º - 1 - Os oficiais de justiça que, nos termos do n.º 1 do artigo 2.º deste diploma, atinjam os 65 anos de idade sem terem completado 36 anos de serviço efectivo ficam com direito à contagem como tempo de serviço, desde a data do despacho de aposentação, do número de anos que, até ao limite de cinco, sejam necessários para alcançar o máximo da pensão, uma vez que procedam ao pagamento das respectivas quotas para a Caixa Geral de Aposentações.
+Art. 4.º - 1 - Os oficiais de justiça que, nos termos do n.º 1 do artigo 2.º deste diploma, atinjam os 65 anos de idade sem terem completado 36 anos de serviço efectivo ficam com direito à contagem como tempo de serviço, desde a data do despacho de aposentação, do número de anos que, até ao limite de cinco, sejam necessários para alcançar o máximo da pensão, uma vez que procedam ao pagamento das respectivas quotas para a Caixa Geral de Aposentações.
 
 2 - Os oficiais de justiça abrangidos pelo número anterior aos quais seja aplicável o regime de diuturnidades beneficiarão da integração na base de cálculo da pensão respectiva da importância correspondente àquelas a que teriam direito pelo tempo contado nos termos do número anterior.
 
-###### Art. 5.º A tabela de vencimentos aprovada pelo n.º 1 do artigo 83.º do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, ratificado pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, é aplicada, para efeitos de determinação do cálculo da pensão de aposentação, aos oficiais de justiça aposentados nos termos do artigo 135.º do mesmo diploma.
+Art. 5.º A tabela de vencimentos aprovada pelo n.º 1 do artigo 83.º do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, ratificado pela [Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/lei/35-1980-471968), de 29 de Julho, é aplicada, para efeitos de determinação do cálculo da pensão de aposentação, aos oficiais de justiça aposentados nos termos do artigo 135.º do mesmo diploma.
 
-###### Art. 6.º Aos oficiais de justiça que usem da faculdade concedida pelo n.º 2 do artigo 2.º deste diploma é-lhes contado, para todos os efeitos, o tempo decorrido entre as datas da sua desligação para aposentação e do seu reingresso no serviço, desde que procedam ao pagamento das respectivas quotas para a Caixa Geral de Aposentações.
+Art. 6.º Aos oficiais de justiça que usem da faculdade concedida pelo n.º 2 do artigo 2.º deste diploma é-lhes contado, para todos os efeitos, o tempo decorrido entre as datas da sua desligação para aposentação e do seu reingresso no serviço, desde que procedam ao pagamento das respectivas quotas para a Caixa Geral de Aposentações.
 
-###### Art. 7.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1981. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 3 de Fevereiro de 1981.**
+Promulgado em 3 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

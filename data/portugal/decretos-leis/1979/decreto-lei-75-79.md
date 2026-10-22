@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1979-383062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35c4c40d874032f13758ef6a9e25bb5cc4801d4b49ab6175801d05e5526bfad5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a920c533799e16d0b7e3f238abef684b9b4556931caa41f5039b3a932a7a5c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- AGA
+- Criação de Serviços
+- Junta Nacional dos Vinhos
+- Madeira.região Autónoma
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:189119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:29Z'
   warnings: []
   errors: []
 ---
@@ -107,24 +124,24 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição:
 
-###### Artigo 1.º São cometidas ao organismo a criar da Região Autónoma da Madeira, sem prejuízo das leis gerais da República e da competência do Ministro da República, as atribuições e competência que vinham sendo exercidas pelas Junta Nacional do Vinho (JNV) e Administração-Geral do Açúcar e do Álcool, E. P. (AGA), através das suas delegações.
+Artigo 1.º São cometidas ao organismo a criar da Região Autónoma da Madeira, sem prejuízo das leis gerais da República e da competência do Ministro da República, as atribuições e competência que vinham sendo exercidas pelas Junta Nacional do Vinho (JNV) e Administração-Geral do Açúcar e do Álcool, E. P. (AGA), através das suas delegações.
 
-###### Art. 2.º Os funcionários que prestam serviço, a qualquer título, nas delegações da JNV e da AGA do Funchal, consideram-se ao serviço do organismo regional, com todos os seus direitos, incluindo os da antiguidade, salvo se, no prazo de cento e oitenta dias, a contar da entrada em funcionamento desse organismo, optarem por ficar a pertencer aos primitivos organismos, devendo ser colocados em qualquer serviço dos mesmos, com a situação em que se encontravam.
+Art. 2.º Os funcionários que prestam serviço, a qualquer título, nas delegações da JNV e da AGA do Funchal, consideram-se ao serviço do organismo regional, com todos os seus direitos, incluindo os da antiguidade, salvo se, no prazo de cento e oitenta dias, a contar da entrada em funcionamento desse organismo, optarem por ficar a pertencer aos primitivos organismos, devendo ser colocados em qualquer serviço dos mesmos, com a situação em que se encontravam.
 
-###### Art. 3.º - 1 - São transferidos para o novo organismo os direitos e obrigações emergentes da actividade da JNV e da AGA, nomeadamente os respeitantes a contratos de arrendamento.
+Art. 3.º - 1 - São transferidos para o novo organismo os direitos e obrigações emergentes da actividade da JNV e da AGA, nomeadamente os respeitantes a contratos de arrendamento.
 
 2 - Por despacho conjunto dos Ministros da República e do Comércio e Turismo, será regulada a transmissão do património da JNV e da AGA para o organismo regional.
 
-###### Art. 4.º Sempre que tal se justifique, ao organismo regional a criar será assegurada a sua representação nos órgãos de âmbito nacional com a acção no sector vitivinícola.
+Art. 4.º Sempre que tal se justifique, ao organismo regional a criar será assegurada a sua representação nos órgãos de âmbito nacional com a acção no sector vitivinícola.
 
-###### Art. 5.º As questões suscitadas na aplicação deste diploma serão resolvidas por despacho dos Ministros da República e do Comércio e Turismo, mediante parecer do Governo Regional e da JNV ou da AGA, conforme os casos.
+Art. 5.º As questões suscitadas na aplicação deste diploma serão resolvidas por despacho dos Ministros da República e do Comércio e Turismo, mediante parecer do Governo Regional e da JNV ou da AGA, conforme os casos.
 
-###### Art. 6.º O presente diploma entrará em vigor quinze dias após a publicação do decreto regional que criar o novo organismo.
+Art. 6.º O presente diploma entrará em vigor quinze dias após a publicação do decreto regional que criar o novo organismo.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Lino Dias Miguel - Abel Pinto Repolho Correia.
 
-**Promulgado em 17 de Março de 1979.**
+Promulgado em 17 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

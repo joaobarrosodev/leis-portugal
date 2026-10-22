@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 159/1974, 3º Suplemento, Série I de 1974-07-10
   number: '159'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 810-(15) a 810-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15903/00150019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b15548a4e5b684827b263fc081e687c7f1c012798537313168181a554b93e8dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91cc51f811f9b843ae0a4d6da44cde7d901f8a0c14c6844694b9fdc1f7567744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS de Consumo
+- Empresa
+- Margens de Comercialização
+- Mercado Interno
+- Política de Preços
+- Preço
+- Preço Contratado
+- Preço Declarado
+- Preço Livre
+- Preço Máximo
+- Preço Vigiado
+- Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475709:por
+  label: "Prorrogado até 10.09.1974 o prazo a que se refere o nº 1 do art. 6º pelo DEC LEI.365/74.17.08.1974.MECO, DG.IS [191]\
+    \ de 17.08.1974\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1974-475709
+  date: '1974-08-17'
+- type: amended_by
+  target: pt:dre:430580:por
+  label: "Alterado o corpo do nº2 do art. 9º do presente diploma, pelo DEC LEI.578/76.21.07.1976.MCOMI, DR.IS [169] de 21.07.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/578-1976-430580
+  date: '1976-07-21'
+- type: amended_by
+  target: pt:dre:509026:por
+  label: "Alterado o regime de preços declarados previsto na al. c) do nº 1 do art. 1º e revogada a al. b) do nº 1 e nºs.\
+    \ 3º e 4 do art. 1º, art. 2º, als. b), c) e d) do art. 4º, art. 7º, com excepção do nº 3 e arts. 9º, 10º, 11º e 14º, pelo\
+    \ DEC LEI.75-Q/77.1977.02.28.MCT, DR.IS [49]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-q-1977-509026
+  date: '1977-02-28'
+- type: amended_by
+  target: pt:dre:468815:por
+  label: "Substituída e anulada a lista anexa ao presente diploma, pela PORT.1/78.1978.01.02.MIT, DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-1978-468815
+  date: '1978-01-02'
+- type: amended_by
+  target: pt:dre:567452:por
+  label: "Excluído do regime de preços declarados os bens e serviços enquadrados nas posições da Classificação das Actividades\
+    \ Económicas, constante do presente diploma, redefinidos pelo Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro pela PORT.1049/81.14.12.1981.MACP,\
+    \ DR.IS [286] de 14.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1049-1981-567452
+  date: '1981-12-14'
+- type: amended_by
+  target: pt:dre:352316:por
+  label: "Mantidas em vigor as disposições do presente diploma, pelo DEC LEI.415-A/86.17.12.1986.MOPTC, DR.IS [289-Supl] de\
+    \ 17.12.1986, que não colidam com o mesmo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-a-1986-352316
+  date: '1986-12-17'
+- type: amended_by
+  target: pt:dre:626216:por
+  label: "Alterado o art. 18º pelo DEC LEI.262/94.1994.10.22.MCT, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1994-626216
+  date: '1994-10-22'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:474363:por
+  label: "Rectificado pela RECT.DD9.1974.08.26.PCM, DG.IS [204] de 02.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-474363
+  date: '1974-08-26'
+- type: corrected_by
+  target: pt:dre:671474:por
+  label: "Rectificada a al. i) do art. 7º ( suprimindo do elenco de diplomas sujeitos a não vigência o presente diploma )\
+    \ do Dec Lei 70/2011, de 16-Jun, renumerado pela DECL-RECT.25/2011.12.08.2011.PCM, DR.IS [155] de 12.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/25-2011-671474
+  date: '2011-08-12'
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do art. 3º, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301]2ºSupl, a partir\
+    \ da entrada em vigor do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:38Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +213,7 @@ Pois que, independentemente de considerações doutrinárias sobre o sistema eco
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os preços dos bens ou serviços vendidos no mercado interno podem ser submetidos aos seguintes regimes:
+Artigo 1.º - 1. Os preços dos bens ou serviços vendidos no mercado interno podem ser submetidos aos seguintes regimes:
 
 a) De preços máximos;
 
@@ -150,17 +239,17 @@ f) De preços livres.
 
 7. O regime de preços livres consiste na determinação dos níveis de preços pelos agentes e mecanismos que interferem no respectivo circuito de comercialização.
 
-###### Art. 2.º - 1. A sujeição de bens ou serviços aos regimes de preços previstos no artigo anterior é determinada por portaria do Secretário de Estado do Abastecimento e Preços, com base, quer na natureza dos bens e serviços, quer na dimensão das empresas.
+Art. 2.º - 1. A sujeição de bens ou serviços aos regimes de preços previstos no artigo anterior é determinada por portaria do Secretário de Estado do Abastecimento e Preços, com base, quer na natureza dos bens e serviços, quer na dimensão das empresas.
 
 2. A sujeição dos bens ou serviços constantes da lista em anexo aos regimes de preços previstos no artigo anterior é determinada por portaria do Secretário de Estado do Abastecimento e Preços e do Secretário de Estado competente.
 
-###### Art. 3.º - 1. Poderão ser concedidos benefícios fiscais às empresas abrangidas pelo disposto no n.º 5 do artigo 1.º que se comprometam a praticar os preços contratados.
+Art. 3.º - 1. Poderão ser concedidos benefícios fiscais às empresas abrangidas pelo disposto no n.º 5 do artigo 1.º que se comprometam a praticar os preços contratados.
 
 2. Os benefícios referidos no número anterior serão estabelecidos em portaria dos Secretários de Estado das Finanças, do Abastecimento e Preços e do Secretário ou Secretários de Estado competentes.
 
 3. A falta de cumprimento das obrigações decorrentes das condições negociadas implica a perda automática dos benefícios concedidos e a restituição dos montantes dos benefícios pecuniários que delas tenham resultado, independentemente das sanções que no contrato tenham sido fixadas.
 
-###### Art. 4.º Sem prejuízo das alterações decorrentes do uso da faculdade a que se refere o artigo 2.º, observar-se-ão, desde já, as seguintes regras:
+Art. 4.º Sem prejuízo das alterações decorrentes do uso da faculdade a que se refere o artigo 2.º, observar-se-ão, desde já, as seguintes regras:
 
 a) Ficam sujeitos ao regime de preços máximos os bens ou serviços que em 24 de Abril de 1974 estavam submetidos ao regime de tabelamento ou de preço fixo;
 
@@ -174,17 +263,17 @@ e) Ficam sujeitos ao regime de margens de comercialização fixadas os bens que 
 
 f) Na falta de regime de preços especialmente aplicável à comercialização dos bens observar-se-á o disposto na segunda parte da alínea a) do n.º 1 e no n.º 3 do artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 5.º - 1. São objecto de publicação no Diário do Governo os preços e as margens de comercialização fixados dos bens e serviços sujeitos aos regimes referidos nas alíneas a) e e) do n.º 1 do artigo 1.º
+Art. 5.º - 1. São objecto de publicação no Diário do Governo os preços e as margens de comercialização fixados dos bens e serviços sujeitos aos regimes referidos nas alíneas a) e e) do n.º 1 do artigo 1.º
 
 2. A obrigatoriedade da observância dos preços controlados declarados e contratados não depende de publicação no Diário do Governo, designadamente para efeitos do disposto no n.º 1 do artigo 15.º do presente diploma, ficando as respectivas empresas com a obrigação de dar a publicidade que for julgada conveniente, segundo instruções da Secretaria de Estado do Abastecimento e Preços.
 
-###### Art. 6.º - 1. As empresas produtoras ou importadoras dos bens ou serviços sujeitos ao regime de preços controlados ou declarados procederão obrigatoriamente à declaração, no prazo máximo de trinta dias, dos preços por elas praticados à Direcção-Geral de Preços.
+Art. 6.º - 1. As empresas produtoras ou importadoras dos bens ou serviços sujeitos ao regime de preços controlados ou declarados procederão obrigatoriamente à declaração, no prazo máximo de trinta dias, dos preços por elas praticados à Direcção-Geral de Preços.
 
 2. Os preços a declarar pelas empresas abrangidas pelo disposto nas alíneas b), c) e d) do artigo 4.º são os praticados em 24 de Abril de 1974.
 
 3. As declarações a que se referem os números anteriores serão feitas por carta registada com aviso de recepção, na qual deverão ser correctamente identificados os bens ou serviços em causa e indicadas as variantes ou modalidades dos preços finais praticados.
 
-###### Art. 7.º - 1. Os pedidos de revisão dos preços de bens ou serviços sujeitos aos regimes definidos nas alíneas a), b) e e) do artigo 1.º devem ser dirigidos à Direcção-Geral de Preços pelas associações patronais ou, na sua falta, pelas entidades interessadas.
+Art. 7.º - 1. Os pedidos de revisão dos preços de bens ou serviços sujeitos aos regimes definidos nas alíneas a), b) e e) do artigo 1.º devem ser dirigidos à Direcção-Geral de Preços pelas associações patronais ou, na sua falta, pelas entidades interessadas.
 
 2. Exceptuam-se do disposto na parte final do número anterior os pedidos de aumento de preços de bens ou serviços sujeitos ao regime indicado na alínea b) do n.º 1 do artigo 1.º com base na dimensão dos empresas, os quais serão por estas apresentados.
 
@@ -192,7 +281,7 @@ f) Na falta de regime de preços especialmente aplicável à comercialização d
 
 4. Os pedidos de revisão dos preços de bens ou serviços constantes da lista em anexo devem ser dirigidos aos serviços competentes das Secretarias de Estado da Indústria e Energia, Agricultura e Transportes e Comunicações, os quais informarão todos os pedidos respeitantes aos preços a fixar na produção e comercialização.
 
-###### Art. 8.º - 1. Os pedidos de revisão de preços deverão ser feitos por carta registada com aviso de recepção e acompanhados de estudo justificativo das razões do aumento e dos seguintes elementos:
+Art. 8.º - 1. Os pedidos de revisão de preços deverão ser feitos por carta registada com aviso de recepção e acompanhados de estudo justificativo das razões do aumento e dos seguintes elementos:
 
 a) Relatórios do conselho de administração e fiscal e contas de exploração e de resultados das empresas;
 
@@ -226,7 +315,7 @@ Lucro da exploração.
 
 4. Em casos especiais, pode a Direcção-Geral dispensar a remessa de alguns dos elementos indicados no n.º 1 deste artigo.
 
-###### Art. 9.º - 1. Os pedidos de revisão de preços dos bens ou serviços sujeitos ao regime de preços controlados considerar-se-ão deferidos se nada for comunicado aos requerentes no prazo de sessenta dias, a contar da data da sua recepção.
+Art. 9.º - 1. Os pedidos de revisão de preços dos bens ou serviços sujeitos ao regime de preços controlados considerar-se-ão deferidos se nada for comunicado aos requerentes no prazo de sessenta dias, a contar da data da sua recepção.
 
 2. O prazo de sessenta dias é suspenso pelo uso da faculdade a que se referem os n.os 2 e 3 do artigo anterior, começando a contar novo prazo a partir da data:
 
@@ -234,17 +323,17 @@ a) Da recepção pela Direcção-Geral dos elementos solicitados;
 
 b) De comunicação pela Direcção-Geral de ter dado por findo o exame directo da contabilidade da empresa.
 
-###### Art. 10.º - 1. As empresas produtoras ou importadoras de bens ou serviços submetidos ao regime de preços controlados, sempre que queiram lançar no mercado bens ou serviços novos, deverão submeter previamente à Direcção-Geral os preços que pretendam praticar.
+Art. 10.º - 1. As empresas produtoras ou importadoras de bens ou serviços submetidos ao regime de preços controlados, sempre que queiram lançar no mercado bens ou serviços novos, deverão submeter previamente à Direcção-Geral os preços que pretendam praticar.
 
 2. Ao processo de aprovação dos referidos preços são aplicáveis, com as necessárias adaptações, as regras constantes dos artigos 8.º e 9.º, sendo reduzido para trinta dias o prazo referido no artigo anterior.
 
-###### Art. 11.º O disposto nos artigos 8.º, 9.º e 10.º aplica-se, com as necessárias adaptações, aos bens ou serviços constantes da lista em anexo.
+Art. 11.º O disposto nos artigos 8.º, 9.º e 10.º aplica-se, com as necessárias adaptações, aos bens ou serviços constantes da lista em anexo.
 
-###### Art. 12.º - 1. Na apreciação dos pedidos de revisão dos preços de bens ou serviços sujeitos aos regimes definidos nas alíneas a), b), d) e e) do artigo 1.º ter-se-á em conta que o preço de venda do bem ou do serviço, em qualquer estádio de produção, não poderá exceder o valor que resulta da adição, ao custo total bruto, de uma percentagem ou de um valor absoluto sobre este custo.
+Art. 12.º - 1. Na apreciação dos pedidos de revisão dos preços de bens ou serviços sujeitos aos regimes definidos nas alíneas a), b), d) e e) do artigo 1.º ter-se-á em conta que o preço de venda do bem ou do serviço, em qualquer estádio de produção, não poderá exceder o valor que resulta da adição, ao custo total bruto, de uma percentagem ou de um valor absoluto sobre este custo.
 
 2. Esta percentagem ou valor absoluto, a fixar pela Direcção-Geral de Preços, dependerá do grau de satisfação do consumo interno pela produção interna e dos preços praticados nos mercados externos.
 
-###### Art. 13.º - 1. Os pedidos de revisão de preços de bens ou serviços, depois de informados pela Direcção-Geral de Preços ou pelos serviços competentes das Secretarias de Estado referidas no n.º 4 do artigo 7.º e apreciados, se for caso disso, pela Comissão Consultiva de Preços, serão apresentados a decisão:
+Art. 13.º - 1. Os pedidos de revisão de preços de bens ou serviços, depois de informados pela Direcção-Geral de Preços ou pelos serviços competentes das Secretarias de Estado referidas no n.º 4 do artigo 7.º e apreciados, se for caso disso, pela Comissão Consultiva de Preços, serão apresentados a decisão:
 
 a) Do Ministro da Coordenação Económica e do Ministro ou do Secretário de Estado competentes, no caso de actividades ou de bens ou serviços que transcendam o âmbito do Ministério da Coordenação Económica;
 
@@ -254,11 +343,11 @@ c) Do Secretário de Estado do Abastecimento e Preços nos restantes casos.
 
 2. A competência estabelecida na alínea c) do número anterior pode ser delegada, por despacho, no director-geral de Preços.
 
-###### Art. 14.º - 1. Sempre que o entenda conveniente, quer pela natureza e importância dos bens ou serviços em causa, quer pelas implicações em matéria de política de rendimento, o Ministro da Coordenação Económica poderá submeter à apreciação do Conselho de Ministros qualquer decisão em matéria de preços.
+Art. 14.º - 1. Sempre que o entenda conveniente, quer pela natureza e importância dos bens ou serviços em causa, quer pelas implicações em matéria de política de rendimento, o Ministro da Coordenação Económica poderá submeter à apreciação do Conselho de Ministros qualquer decisão em matéria de preços.
 
 2. No caso previsto no número anterior consideram-se suspensos os prazos referidos nos n.os 2 dos artigos 9.º e 10.º, até ser comunicada a deliberação correspondente do Conselho de Ministros.
 
-###### Art. 15.º - 1. A venda de bens ou a prestação de serviços por preços superiores aos que resultam da aplicação do presente diploma constitui crime de especulação.
+Art. 15.º - 1. A venda de bens ou a prestação de serviços por preços superiores aos que resultam da aplicação do presente diploma constitui crime de especulação.
 
 2. A falta da declaração a que se refere o artigo 6.º, dentro do prazo nele fixado, é punida com multa de 10000$00 a 100000$00, consoante o volume de vendas efectuado.
 
@@ -274,23 +363,23 @@ c) Do Secretário de Estado do Abastecimento e Preços nos restantes casos.
 
 8. A Direcção-Geral de Preços comunicará à Direcção-Geral da Fiscalização Económica as infracções referidas nos n.os 1, 2, 6 e 7 deste artigo, à qual competirá a instrução preparatória dos respectivos processos, bem como o exercício da correspondente acção penal.
 
-###### Art. 16.º Mantêm-se em vigor todas as disposições legais relativas à obrigatoriedade de afixação nos estabelecimentos dos preços de bens ou serviços, bem como das listas dos preços autorizados.
+Art. 16.º Mantêm-se em vigor todas as disposições legais relativas à obrigatoriedade de afixação nos estabelecimentos dos preços de bens ou serviços, bem como das listas dos preços autorizados.
 
-###### Art. 17.º Fica o Secretário de Estado do Abastecimento e Preços autorizado a estabelecer, por portaria, novos regimes de preços de bens ou serviços.
+Art. 17.º Fica o Secretário de Estado do Abastecimento e Preços autorizado a estabelecer, por portaria, novos regimes de preços de bens ou serviços.
 
-###### Art. 18.º O disposto no presente diploma não abrange os preços de garantia e de sustenção dos produtos agrícolas nem a actividade das instituições de crédito, parabancárias e de seguros.
+Art. 18.º O disposto no presente diploma não abrange os preços de garantia e de sustenção dos produtos agrícolas nem a actividade das instituições de crédito, parabancárias e de seguros.
 
-###### Art. 19.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Secretário de Estado do Abastecimento e Preços.
+Art. 19.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Secretário de Estado do Abastecimento e Preços.
 
-###### Art. 20.º Este diploma entra imediatamente em vigor.
+Art. 20.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Francisco Sá Carneiro - Vasco Vieira de Almeida.
 
-**Promulgado em 4 de Julho de 1974.**
+Promulgado em 4 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Lista de produtos e actividades abrangidos pelo n.º 2 do artigo 2.º
 
@@ -348,4 +437,4 @@ ex-383.1 Veículos a motor.
 
 73 Comunicações.
 
-**O Ministro da Coordenação Económica, Vasco Vieira de Almeida.**
+O Ministro da Coordenação Económica, Vasco Vieira de Almeida.

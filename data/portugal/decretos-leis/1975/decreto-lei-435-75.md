@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18700/11721172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1975-314612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e016cd525deb96553ffc9aba7290e79ea2a5dc5f3e06beebf63a9bd03136bcd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 353f85892e01d5530aec1cdf40c8ea4741570dc69f5726c9cb5c094b46ca3d98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Exoneração
+- Nomeação
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:45Z'
   warnings: []
   errors: []
 ---
@@ -98,24 +108,24 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os directores e subdirectores de aeroportos e aeródromos serão nomeados por despacho do Ministro dos Transportes e Comunicações, mediante proposta do Director-Geral da Aeronáutica Civil e ficarão sujeitos ao regime legal de comissão de serviço.
+Artigo 1.º Os directores e subdirectores de aeroportos e aeródromos serão nomeados por despacho do Ministro dos Transportes e Comunicações, mediante proposta do Director-Geral da Aeronáutica Civil e ficarão sujeitos ao regime legal de comissão de serviço.
 
-###### Art. 2.º A nomeação será feita a título precário, por tempo indeterminado.
+Art. 2.º A nomeação será feita a título precário, por tempo indeterminado.
 
-###### Art. 3.º - 1. Cessada a comissão de serviço e a não existir vaga no serviço de origem, o funcionário prestará neste as funções que lhe forem cometidas, de harmonia com as respectivas qualificações.
+Art. 3.º - 1. Cessada a comissão de serviço e a não existir vaga no serviço de origem, o funcionário prestará neste as funções que lhe forem cometidas, de harmonia com as respectivas qualificações.
 
 2. Os funcionários nas condições a que se refere o número anterior terão preferência na primeira vaga da respectiva categoria que ocorrer no quadro de pessoal do serviço de origem.
 
-###### Art. 4.º A cessação da comissão, com consequente regresso do agente ao serviço de origem, operar-se-á mediante despacho do Ministro dos Transportes e Comunicações, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas e publicação em Diário do Governo.
+Art. 4.º A cessação da comissão, com consequente regresso do agente ao serviço de origem, operar-se-á mediante despacho do Ministro dos Transportes e Comunicações, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas e publicação em Diário do Governo.
 
-###### Art. 5.º As funções exercidas em comissão consideram-se para todos os efeitos como desempenhadas no serviço de origem, sendo no entanto o vencimento abonado pela Direcção-Geral de Aeronáutica Civil durante todo o tempo em que a comissão subsistir.
+Art. 5.º As funções exercidas em comissão consideram-se para todos os efeitos como desempenhadas no serviço de origem, sendo no entanto o vencimento abonado pela Direcção-Geral de Aeronáutica Civil durante todo o tempo em que a comissão subsistir.
 
-###### Art. 6.º O presente diploma entra imediatamente em vigor.
+Art. 6.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - José Joaquim Fragoso - Álvaro Augusto Vieira de Oliveira.
 
-**Promulgado em 4 de Agosto de 1975.**
+Promulgado em 4 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

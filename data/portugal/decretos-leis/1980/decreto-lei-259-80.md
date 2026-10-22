@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/17900/20392045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4d5256e3d768a9a776df3a9b90721e23c5e13fc1e14f2392459f68f47aeb255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df72b5ed1a8a72addd4ef5d18303455a1b38b9f6b1425f3bf080187bb768f601
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Teatro Nacional de São Carlos
 relationships:
 - type: amended_by
   target: pt:dre:639336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639336:por
+  label: Extinta a Empresa Pública que gere o Teatro Nacional de São Carlos, e revogado presente diploma, pelo(a) Decreto-Lei
+    n.º 195-A/92 - Diário da República n.º 207/1992, 1º Suplemento, Série I-A de 1992-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-a-1992-639336
+  date: '1992-09-08'
+- type: cites
+  target: pt:dre:141049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:470869:por
+  label: Rectificado pela DECL.DD6943.06.08.1980.PCM, DR.IS [192] de 21.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470869
+  date: '1980-08-06'
+- type: corrected_by
+  target: pt:dre:460985:por
+  label: Rectificado pela DECL.DD6898.15.09.1980.PCM, DR.IS [213] de 15.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460985
+  date: '1980-09-15'
+- type: corrected_by
+  target: pt:dre:462661:por
+  label: Rectificado pela DECL.DD6833.23.10.1980.PCM, DR.IS [246] de 23.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462661
+  date: '1980-10-23'
 article_structure:
-  article_count: 46
+  article_count: 45
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:01Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +143,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada uma empresa pública denominada «Teatro Nacional de S. Carlos, E. P.», que incorpora o património e o quadro de pessoal do Teatro Nacional de S. Carlos, organismo da Secretaria de Estado da Cultura.
+Artigo 1.º - 1 - É criada uma empresa pública denominada «Teatro Nacional de S. Carlos, E. P.», que incorpora o património e o quadro de pessoal do Teatro Nacional de S. Carlos, organismo da Secretaria de Estado da Cultura.
 
 2 - O Teatro Nacional de S. Carlos, E. P., é uma pessoa colectiva dotada de personalidade jurídica, autonomia administrativa, financeira e patrimonial e rege-se pelo estatuto anexo, que faz parte integrante do presente diploma, pela lei aplicável às empresas públicas e subsidiariamente pelas normas de direito privado.
 
-###### Art. 2.º - 1 - É transferida para o Teatro Nacional de S. Carlos, E. P., na data da entrada em vigor deste diploma, a universalidade dos direitos e obrigações do antigo organismo da Secretaria de Estado da Cultura com o mesmo nome.
+Art. 2.º - 1 - É transferida para o Teatro Nacional de S. Carlos, E. P., na data da entrada em vigor deste diploma, a universalidade dos direitos e obrigações do antigo organismo da Secretaria de Estado da Cultura com o mesmo nome.
 
 2 - A transmissão prevista no número anterior opera-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo os de registo.
 
@@ -112,7 +155,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - As transmissões a que se refere o presente diploma ficam isentas de taxas ou emolumentos.
 
-###### Art. 3.º - 1 - Transitarão para o Teatro Nacional de S. Carlos, E. P., independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor do presente diploma estiverem ao serviço do Teatro Nacional de S. Carlos, organismo da Secretaria de Estado da Cultura.
+Art. 3.º - 1 - Transitarão para o Teatro Nacional de S. Carlos, E. P., independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor do presente diploma estiverem ao serviço do Teatro Nacional de S. Carlos, organismo da Secretaria de Estado da Cultura.
 
 2 - Os trabalhadores a que se refere o número anterior que pertençam aos quadros aprovados por lei transitarão para a nova empresa pública com os direitos e obrigações emergentes da respectiva situação nesses quadros.
 
@@ -132,17 +175,17 @@ b) Por seis meses, aqueles que na referida data tenham completado os três anos 
 
 6 - Consideram-se desvinculados do Teatro todos os trabalhadores abrangidos pelo artigo 5.º da [Portaria n.º 288/79](https://diariodarepublica.pt/dr/detalhe/portaria/288-1979-381092), de 21 de Julho, que à data da entrada em vigor do presente diploma não tenham efectivado a opção prevista no mesmo artigo e diploma.
 
-###### Art. 4.º O horário de trabalho dos trabalhadores do Teatro será definido por regulamento interno.
+Art. 4.º O horário de trabalho dos trabalhadores do Teatro será definido por regulamento interno.
 
-###### Art. 5.º Não se aplica ao Teatro Nacional de S. Carlos, E. P., o disposto no [Decreto-Lei n.º 97/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1977-141049), de 17 de Março.
+Art. 5.º Não se aplica ao Teatro Nacional de S. Carlos, E. P., o disposto no [Decreto-Lei n.º 97/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1977-141049), de 17 de Março.
 
-###### Art. 6.º O Teatro Nacional de S. Carlos, E. P., deixa de constituir um serviço da Secretaria de Estado da Cultura, sendo revogados a alínea m) do n.º 1 do artigo 3.º, o artigo 15.º e a alínea j) do artigo 22.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
+Art. 6.º O Teatro Nacional de S. Carlos, E. P., deixa de constituir um serviço da Secretaria de Estado da Cultura, sendo revogados a alínea m) do n.º 1 do artigo 3.º, o artigo 15.º e a alínea j) do artigo 22.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
 
-###### Art. 7.º O capital estatutário do Teatro Nacional de S. Carlos, E. P., será fixado nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
+Art. 7.º O capital estatutário do Teatro Nacional de S. Carlos, E. P., será fixado nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
-###### Art. 8.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto anexo serão resolvidas por despacho do Ministro da tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida respeite a área de mais de um Ministério.
+Art. 8.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto anexo serão resolvidas por despacho do Ministro da tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida respeite a área de mais de um Ministério.
 
-###### Art. 9.º Este diploma entra em vigor no dia 1 de Julho de 1980.
+Art. 9.º Este diploma entra em vigor no dia 1 de Julho de 1980.
 
 ### CAPÍTULO I — Disposições fundamentais
 
@@ -548,8 +591,8 @@ O Teatro fica sujeito à tributação directa ou indirecta, nos termos gerais do
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1975-307421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebbd38ba9aa81a3fb2b6b3c8068514751f3a69f9547a4243bab2d888b0d47499
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5099e0df1193c5048babe50d663bf89cbe370edefe6648201f6e1dfc1afdf9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bretton Woods
+- Convenção
+- FMI
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:514183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:42Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +99,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovadas, para adesão, as alterações ao Acordo Relativo ao Fundo Monetário Internacional, adoptadas pela Resolução n.º 23-5, de 31 de Maio de 1968, do Conselho de Governadores daquele Fundo, cujo texto em inglês e respectiva tradução figuram em anexo ao presente diploma.
+Artigo único. São aprovadas, para adesão, as alterações ao Acordo Relativo ao Fundo Monetário Internacional, adoptadas pela Resolução n.º 23-5, de 31 de Maio de 1968, do Conselho de Governadores daquele Fundo, cujo texto em inglês e respectiva tradução figuram em anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 28 de Agosto de 1975.**
+Promulgado em 28 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 AMENDMENT
 
@@ -749,7 +757,7 @@ EMENDA AOS ARTIGOS DO ACORDO DO FUNDO MONETÁRIO INTERNACIONAL ENTRADA EM VIGOR 
 
 A
 
-ARTIGO PRELIMINAR
+###### ARTIGO PRELIMINAR
 
 O artigo preliminar será redigido da seguinte forma:
 
@@ -763,9 +771,7 @@ iii) As operações e transacções autorizadas pelo presente Acordo serão efec
 
 B
 
-ARTIGO I
-
-Objectivos
+###### ARTIGO I — Objectivos
 
 1. A alínea v) será redigida da seguinte forma:
 
@@ -777,13 +783,13 @@ Em todas as suas políticas e decisões o Fundo orientar-se-á pelos objectivos 
 
 C
 
-ARTIGO III
+###### ARTIGO III
 
 Quotas e subscrições
 
 1. A secção 2 será redigida da seguinte forma:
 
-#### Secção 2. Ajustamento de quotas:
+Secção 2. Ajustamento de quotas:
 
 O Fundo procederá, com intervalos não superiores a cinco anos, a uma revisão geral das quotas dos membros e, se o julgar oportuno, proporá o seu ajustamento. Poderá também, se o entender apropriado, considerar em qualquer outra altura o ajustamento de determinada quota, a pedido do membro interessado. Será necessária uma maioria de 85% do total dos votos para qualquer modificação das quotas proposta em resultado de uma revisão geral e uma maioria de quatro quintos do total dos votos para qualquer outra modificação das quotas. Nenhuma quota poderá ser modificada sem o consentimento do membro interessado.
 
@@ -793,13 +799,13 @@ c) Será necessária uma maioria de 85% do total dos votos para quaisquer decis�
 
 D
 
-ARTIGO IV
+###### ARTIGO IV
 
 Paridade das moedas
 
 1. A secção 7 será redigida da seguinte forma:
 
-#### Secção 7. Alterações uniformes de paridades:
+Secção 7. Alterações uniformes de paridades:
 
 Não obstante as disposições da secção 5-b) do presente artigo, o Fundo poderá, por maioria de 85% do total de votos, alterar numa proporção uniforme as paridades das moedas de todos os membros. A paridade da moeda de um membro não será, contudo, modificada nos termos desta disposição se, no prazo de setenta e duas horas, a contar da decisão do Fundo, o membro informar o Fundo de que não deseja que a paridade da sua moeda seja modificada por essa decisão.
 
@@ -809,9 +815,7 @@ d) As disposições da presente secção aplicar-se-ão em caso de alteração n
 
 E
 
-ARTIGO V
-
-Transacções com o Fundo
+###### ARTIGO V — Transacções com o Fundo
 
 1. Na secção 3, Condições que regem a utilização dos recursos do Fundo, a alínea iii) do parágrafo a) será redigida da seguinte forma:
 
@@ -859,9 +863,7 @@ b) A remuneração será paga em ouro ou na própria moeda de um membro, conform
 
 F
 
-ARTIGO VI
-
-Transferências de capital
+###### ARTIGO VI — Transferências de capital
 
 1. Na secção 1, Utilização dos recursos do Fundo para transferências de capital, o parágrafo a) será redigido da seguinte forma:
 
@@ -869,15 +871,13 @@ a) Nenhum membro poderá fazer uso dos recursos do Fundo para fazer face a uma s
 
 2. A secção 2 será redigida da seguinte forma:
 
-#### Secção 2. Disposições especiais sobre transferências de capital:
+Secção 2. Disposições especiais sobre transferências de capital:
 
 Os membros terão a faculdade de fazer compras dentro da tranche-ouro para fazerem face a transferências de capital.
 
 G
 
-ARTIGO XII
-
-Organização e administração
+###### ARTIGO XII — Organização e administração
 
 1. Na secção 2, Conselho de Governadores, as alíneas ii) e iii) do parágrafo b) serão redigidas da seguinte forma:
 
@@ -905,9 +905,7 @@ c) O Fundo poderá efectuar transferências de qualquer reserva especial para a 
 
 H
 
-ARTIGO XVIII
-
-Interpretação
+###### ARTIGO XVIII — Interpretação
 
 O parágrafo b) do artigo XVIII será redigido da seguinte forma:
 
@@ -915,7 +913,7 @@ b) Em qualquer caso em que os directores executivos tenham tomado uma decisão a
 
 I
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 Definições
 
@@ -933,9 +931,7 @@ j) Entende-se por compra dentro da tranche-ouro a compra, feita por um membro, d
 
 J
 
-ARTIGO XX
-
-Disposições finais
+###### ARTIGO XX — Disposições finais
 
 O título do artigo XX será o seguinte:
 
@@ -945,49 +941,43 @@ K
 
 Os seguintes artigos, do XXI ao XXXII, serão acrescentados, depois do artigo XX:
 
-ARTIGO XXI
+###### ARTIGO XXI — Direitos de saque especiais
 
-Direitos de saque especiais
-
-#### Secção 1. Autoridade para atribuir direitos de saque especiais:
+Secção 1. Autoridade para atribuir direitos de saque especiais:
 
 A fim de satisfazer a necessidade, quando e na medida em que ela surgir, de completar os activos de reserva existentes, é o Fundo autorizado a atribuir direitos de saque especiais aos membros que sejam participantes da conta de saque especial.
 
-#### Secção 2. Unidade de valor:
+Secção 2. Unidade de valor:
 
 A unidade de valor dos direitos de saque especiais será equivalente a 0,888671 g de ouro fino.
 
-ARTIGO XXII
+###### ARTIGO XXII — Conta geral e conta de saque especial
 
-Conta geral e conta de saque especial
-
-#### Secção 1. Separação de operações e transacções:
+Secção 1. Separação de operações e transacções:
 
 Todas as operações e transacções respeitantes a direitos de saque especiais serão efectuadas através da conta de saque especial. Todas as outras operações e transacções do Fundo, autorizadas pelo presente Acordo ou nos termos nele prescritos, serão efectuadas através da conta geral. As operações e transacções autorizadas pelo artigo XXIII, secção 2, serão efectuadas quer através da conta geral, quer através da conta de saque especial.
 
-#### Secção 2. Separação de activos e bens:
+Secção 2. Separação de activos e bens:
 
 Todos os activos e bens do Fundo serão levados à conta geral, com excepção dos activos e bens adquiridos ao abrigo do artigo XXVI, secção 2, e dos artigos XXX e XXXI e dos anexos H e I, os quais serão levados à conta de saque especial. Os activos ou bens detidos numa das contas não poderão ser utilizados para dar quitação ou satisfazer compromissos, obrigações ou prejuízos do Fundo incorridos na realização das operações e transacções efectuadas por intermédio da outra conta, salvo as despesas de gestão da conta de saque especial, as quais serão pagas pelo Fundo através da conta geral que será periodicamente reembolsada por meio de contribuições, nos termos do artigo XXVI, secção 4, calculadas com base numa estimativa razoável das referidas despesas.
 
-#### Secção 3. Registo e informação:
+Secção 3. Registo e informação:
 
 Quaisquer modificações nos haveres em direitos de saque especiais só produzirão efeitos depois de registadas pelo Fundo na conta de saque especial. Os participantes notificarão o Fundo das disposições do presente Acordo ao abrigo das quais são utilizados os direitos de saque especiais.
 
 O Fundo poderá requerer dos participantes todas as informações complementares que considere necessárias à execução das suas operações e transacções.
 
-ARTIGO XXIII
+###### ARTIGO XXIII — Participantes e outros detentores de direitos de saque especial
 
-Participantes e outros detentores de direitos de saque especial
-
-#### Secção 1. Participantes:
+Secção 1. Participantes:
 
 Todo o membro que deposite no Fundo um instrumento pelo qual declare que assume todas as obrigações inerentes à sua qualidade de participante da conta de saque especial, de acordo com a respectiva legislação, e que tomou todas as medidas necessárias a habilitá-lo a cumprir todas estas obrigações, tornar-se-á participante da conta de saque especial a partir da data em que tal instrumento for depositado; porém, membro algum se tornará participante antes da entrada em vigor dos artigos XXI a XXXII e dos anexos F a I e de terem sido depositados os instrumentos, nos termos da presente secção, por membros que detenham, pelo menos, 75% do total das quotas.
 
-#### Secção 2. Detenção pela conta geral:
+Secção 2. Detenção pela conta geral:
 
 O Fundo poderá aceitar e possuir direitos de saque especiais na conta geral e utilizá-los, em conformidade com as disposições do presente Acordo.
 
-#### Secção 3. Outros detentores:
+Secção 3. Outros detentores:
 
 O Fundo, por uma maioria de 85% do total dos votos, poderá estipular:
 
@@ -999,17 +989,15 @@ iii) Os termos e condições em que os participantes poderão efectuar operaçõ
 
 Os termos e condições prescritos pelo Fundo para a utilização de direitos de saque especiais pelos detentores prescritos e pelos participantes, em operações e transacções com aqueles, deverão ser compatíveis com as disposições do presente Acordo.
 
-ARTIGO XXIV
+###### ARTIGO XXIV — Atribuição e cancelamento de direitos de saque especial
 
-Atribuição e cancelamento de direitos de saque especial
-
-#### Secção 1. Princípios e considerações que regulam a atribuição e o cancelamento:
+Secção 1. Princípios e considerações que regulam a atribuição e o cancelamento:
 
 a) Em todas as suas decisões relativas à atribuição e cancelamento de direitos de saque especiais, o Fundo procurará satisfazer a necessidade global a longo prazo, quando e na medida em que ela surgir, de um complemento dos activos de reserva existente de modo a promover a consecução dos seus objectivos e evitar a estagnação económica e a deflação, bem como a procura excessiva e a inflação no mundo;
 
 b) A primeira decisão relativa à atribuição de direitos de saque especiais tomará em linha de conta, como considerações especiais, um juízo colectivo de que existe uma necessidade global de complementar as reservas e a realização de um melhor equilíbrio de balança de pagamentos, assim como a possibilidade de um melhor funcionamento do processo de ajustamento no futuro.
 
-#### Secção 2. Atribuição e cancelamento:
+Secção 2. Atribuição e cancelamento:
 
 a) As decisões adoptadas pelo Fundo para atribuir ou cancelar direitos de saque especiais sê-lo-ão para períodos de base, os quais serão consecutivos e terão a duração de cinco anos. O primeiro período de base terá início na data da primeira decisão de atribuir direitos de saque especiais ou em data posterior que venha a ser fixada nessa decisão. Todas as atribuições ou cancelamentos serão efectuados a intervalos anuais;
 
@@ -1033,11 +1021,11 @@ ii) O participante tiver notificado o Fundo, por escrito, anteriormente à prime
 
 f) Se, na data da entrada em vigor de qualquer cancelamento, o quantitativo de direitos de saque especiais detidos por um participante for inferior à sua parte dos direitos de saque especiais a cancelar, o participante terá de eliminar o seu saldo negativo tão rapidamente quanto a sua posição de reservas brutas o permita e permanecerá em consultas com o Fundo para o efeito. Os direitos de saque especiais adquiridos pelo participante após a data de entrada em vigor do cancelamento serão utilizados para compensar o seu saldo negativo e cancelados.
 
-#### Secção 3. Acontecimentos importantes e imprevistos:
+Secção 3. Acontecimentos importantes e imprevistos:
 
 O Fundo terá a faculdade de alterar as taxas ou os intervalos de atribuição ou cancelamento durante o resto de um período de base ou de alterar a duração de um período de base ou de iniciar um novo período de base se, em qualquer momento, considerar conveniente fazê-lo em virtude de acontecimentos importantes e imprevistos.
 
-#### Secção 4. Decisões relativas a atribuições e cancelamentos:
+Secção 4. Decisões relativas a atribuições e cancelamentos:
 
 a) As decisões ao abrigo da secção 2-a), b) e c) ou da secção 3, do presente artigo serão tomadas pelo Conselho de Governadores com base em propostas do director-geral às quais se associem os directores executivos;
 
@@ -1057,15 +1045,13 @@ salvo se, nos casos das alíneas i), iii) ou iv) anteriores, o director-geral, t
 
 d) Será necessária uma maioria de 85% do total dos votos para as decisões tomadas nos termos da secção 2-a), b) e c) ou da secção 3 do presente artigo, à excepção das decisões previstas na secção 3 relativas a uma redução das taxas de atribuição.
 
-ARTIGO XXV
+###### ARTIGO XXV — Operações e transacções em direitos de saque especiais
 
-Operações e transacções em direitos de saque especiais
-
-#### Secção 1. Utilização de direitos de saque especiais:
+Secção 1. Utilização de direitos de saque especiais:
 
 Os direitos de saque especiais poderão ser utilizados nas operações e transacções autorizadas pelo presente Acordo ou nos termos nele previstos.
 
-#### Secção 2. Transacções entre participantes:
+Secção 2. Transacções entre participantes:
 
 a) Qualquer participante terá o direito de utilizar os seus direitos de saque especiais para obter, de um participante designado ao abrigo da secção 5 do presente artigo, uma importância equivalente de moeda;
 
@@ -1077,7 +1063,7 @@ ii) Para obter de outro participante uma importância equivalente de moeda em qu
 
 c) Qualquer participante que forneça moeda a outro participante que utilize direitos de saque especiais receberá uma importância equivalente de direitos de saque especiais.
 
-#### Secção 3. Requisito de necessidade:
+Secção 3. Requisito de necessidade:
 
 a) Nas transacções efectuadas ao abrigo da secção 2 do presente artigo, e salvo o disposto no parágrafo c) seguinte, prevê-se que os participantes utilizem os seus direitos de saque especiais unicamente para satisfazer necessidades de balança de pagamentos ou em virtude da evolução das suas disponibilidades oficiais em ouro, moeda estrangeira e direitos de saque especiais, bem como da sua posição de reserve no Fundo, e não com o exclusivo propósito de alterar a composição destes elementos, ou seja, entre os direitos de saque especiais e o total do ouro, moeda estrangeira e posição de reserva no Fundo;
 
@@ -1085,11 +1071,11 @@ b) A utilização de direitos de saque especiais não ficará sujeita a objecç�
 
 c) Os participantes poderão utilizar direitos de saque especiais, sem observarem o requisito enunciado no parágrafo a) acima, para obterem, de outro participante, uma importância equivalente de moeda em qualquer transacção determinada pelo Fundo que promova a reconstituição pelo outro participante a que se refere a secção 6-a) do presente artigo; evite ou reduza um saldo negativo do outro participante; compense as consequências da inobservância, pelo outro participante, do requisito enunciado no parágrafo a) acima; ou aproxime os haveres em direitos de saque especiais de ambos os participantes das suas atribuições cumulativas líquidas.
 
-#### Secção 4. Obrigação de fornecer moeda:
+Secção 4. Obrigação de fornecer moeda:
 
 Qualquer participante designado pelo Fundo ao abrigo da secção 5 do presente artigo deverá fornecer, quando lhe seja solicitado, moeda efectivamente convertível a um participante que utilize direitos de saque especiais ao abrigo da secção 2-a) do presente artigo. A obrigação de um participante de fornecer moeda não ultrapassará o limite em que os seus haveres em direitos de saque especiais, em excesso da sua atribuição cumulativa líquida, sejam iguais ao dobro da sua atribuição cumulativa líquida ou atinjam qualquer limite superior que possa vir a ser acordado entre este participante e o Fundo. Um participante poderá fornecer moeda para além do limite obrigatório ou de qualquer limite superior que tenha sido acordado.
 
-#### Secção 5. Designação de participantes para fornecerem moeda:
+Secção 5. Designação de participantes para fornecerem moeda:
 
 a) O Fundo garantirá que os participantes poderão utilizar os seus direitos de saque especiais mediante a designação de participantes para fornecerem moeda contra quantitativos determinados de direitos de saque especiais, para efeitos do disposto nas secções 2-a) e 4 do presente artigo. As designações serão feitas de acordo com os seguintes princípios gerais, completados por outros que o Fundo possa vir a adoptar oportunamente:
 
@@ -1103,13 +1089,13 @@ b) A fim de obter gradualmente uma distribuição equilibrada dos haveres em dir
 
 c) As normas relativas à designação serão revistas antes do termo do primeiro período de base e de cada um dos subsequentes e o Fundo poderá adoptar novas normas em resultado dessa revisão. As normas em vigor no momento da revisão continuarão a ser aplicadas, salvo se forem adoptadas novas normas.
 
-#### Secção 6. Reconstituição:
+Secção 6. Reconstituição:
 
 a) Os participantes que utilizem os seus direitos de saque especiais deverão reconstituir esses haveres em conformidade com as normas de reconstituição enunciadas no anexo G ou com quaisquer outras que possam vir a ser adoptadas ao abrigo do parágrafo b) seguinte;
 
 b) As normas relativas à reconstituição serão revistas antes do fim do primeiro período de base e de cada um dos subsequentes, e serão adoptadas novas normas em caso de necessidade. As normas em vigor no momento da revisão continuarão a ser aplicadas, salvo se forem adoptadas novas normas ou se for tomada uma decisão no sentido de as revogar. Será necessária uma maioria de 85% do total dos votos relativamente às decisões para adoptar, modificar ou revogar as normas de reconstituição.
 
-#### Secção 7. Operações e transacções através da conta geral:
+Secção 7. Operações e transacções através da conta geral:
 
 a) Os direitos de saque especiais serão incluídos nas reservas monetárias dos membros definidas no artigo XIX para efeitos do artigo III, secção 4-a), artigo V, secção 7-b) e c) e secção 8-f), e anexo B, parágrafo 1. O Fundo poderá decidir que o cálculo das reservas monetárias e do seu aumento no decurso de qualquer ano para efeitos do artigo V, secção 7-b) e c), não se terá em conta qualquer acréscimo ou decréscimo naquelas reservas devido a atribuições ou cancelamentos de direitos de saque especiais efectuados durante o mesmo ano;
 
@@ -1133,7 +1119,7 @@ f) Em quaisquer das outras operações e transacções do Fundo com um participa
 
 g) O Fundo poderá fixar comissões razoáveis e uniformes para todos os participantes relativamente a operações e transacções contempladas nesta secção.
 
-#### Secção 8. Taxas de câmbio:
+Secção 8. Taxas de câmbio:
 
 a) As taxas de câmbio para as operações ou transacções entre participantes serão tais que um participante que utilize direitos de saque especiais receberá o mesmo valor quaisquer que sejam as moedas fornecidas e os participantes que as forneçam e o Fundo adoptará normas para a aplicação deste princípio;
 
@@ -1141,9 +1127,7 @@ b) O Fundo consultará os participantes quanto aos processos relativos à determ
 
 c) Para efeitos da presente disposição o termo participante abrange os participantes que se retiram.
 
-ARTIGO XXVI
-
-Conta de saque especial, juros e comissões
+###### ARTIGO XXVI — Conta de saque especial, juros e comissões
 
 #### Secção 1. Juros:
 
@@ -1153,21 +1137,19 @@ O Fundo pagará a cada detentor, sobre a importância de direitos de saque espec
 
 Cada participante pagará ao Fundo comissões calculadas à mesma taxa para todos os participantes sobre a importância das suas atribuições cumulativas líquidas de direitos de saque especiais aumentadas do eventual saldo negativo do participante e de comissões que não tenha pago.
 
-#### Secção 3. Taxa de juro e comissões:
+Secção 3. Taxa de juro e comissões:
 
 A taxa de juro será igual à taxa de comissões e será de 1,5% ao ano. O Fundo é livre de aumentar ou reduzir esta taxa, mas ela não será superior a 2% ou à taxa de remuneração fixada nos termos do artigo V, secção 9, conforme a que for mais elevada, nem inferior a 1% ou à taxa de remuneração fixada nos termos do artigo V, secção 9, conforme a que for mais baixa.
 
-#### Secção 4. Contribuições:
+Secção 4. Contribuições:
 
 Quando for decidido proceder ao reembolso a que se refere o artigo XXII, secção 2, o Fundo cobrará para o efeito contribuições, à mesma taxa para todos os participantes, sobre as suas atribuições cumulativas líquidas.
 
-#### Secção 5. Pagamento de juros, comissões e contribuições:
+Secção 5. Pagamento de juros, comissões e contribuições:
 
 Os juros, comissões e contribuições serão pagos em direitos de saque especiais. Os participantes que tiverem necessidade de direitos de saque especiais para pagar quaisquer comissões ou contribuições terão a obrigação e o direito de os obter, à sua escolha, contra ouro ou moeda aceitável pelo Fundo, por meio de uma transacção com o Fundo efectuada através da conta geral. Se não for possível obter deste modo direitos de saque especiais suficientes, o participante terá a obrigação e o direito de os obter de um participante designado pelo Fundo contra moeda efectivamente convertível. Os direitos de saque especiais adquiridos por um participante após a data prevista para o pagamento serão utilizados para compensar as suas comissões por pagar e cancelados.
 
-ARTIGO XXVII
-
-Administração da conta geral e da conta de saque especial
+###### ARTIGO XXVII — Administração da conta geral e da conta de saque especial
 
 a) A conta geral e a conta de saque especial serão administradas de acordo com as disposições do artigo XII, sob reserva do seguinte:
 
@@ -1185,21 +1167,17 @@ c) As questões de interpretação das disposições do presente Acordo, relativ
 
 d) Sempre que surja qualquer desacordo entre o Fundo e um participante que cessou a sua participação na conta de saque especial, ou entre o Fundo e qualquer participante durante a liquidação da conta de saque especial, sobre qualquer assunto devido exclusivamente à participação na conta de saque especial, esse desacordo será submetido a arbitragem em conformidade com os processos constantes do artigo XVIII-c).
 
-ARTIGO XXVIII
-
-Obrigações gerais dos participantes
+###### ARTIGO XXVIII — Obrigações gerais dos participantes
 
 Além das obrigações assumidas em relação aos direitos de saque especiais de acordo com outros artigos do presente Acordo, cada participante deverá comprometer-se a colaborar com o Fundo e com os outros participantes de modo a facilitar o funcionamento eficaz da conta de saque especial e a adequada utilização dos direitos de saque especiais em conformidade com o presente Acordo.
 
-ARTIGO XXIX
+###### ARTIGO XXIX — Suspensão das transacções em direitos de saque especiais
 
-Suspensão das transacções em direitos de saque especiais
-
-#### Secção 1. Disposições de emergência:
+Secção 1. Disposições de emergência:
 
 Em caso de emergência ou de aparecimento de circunstâncias imprevistas que ameacem o funcionamento do Fundo no que respeita à conta de saque especial, os directores executivos poderão, por unanimidade de votos, suspender por um período não superior a cento e vinte dias a aplicação de qualquer das disposições relativas a direitos de saque especiais; nesse caso, aplicar-se-ão as disposições do artigo XVI, secção 1-b), c) e d).
 
-#### Secção 2. Não cumprimento de obrigações:
+Secção 2. Não cumprimento de obrigações:
 
 a) Se o Fundo verificar que um participante deixou de cumprir as suas obrigações nos termos do artigo XXV, secção 4, o direito de esse participante utilizar os seus direitos de saque especiais será suspenso, a menos que o Fundo decida em contrário;
 
@@ -1213,17 +1191,15 @@ e) O Fundo poderá, em qualquer momento, cessar a suspensão prevista nos parág
 
 f) O direito de um participante utilizar os seus direitos de saque especiais não será suspenso pelo facto de ele ter sido privado de utilizar os recursos do Fundo nos termos do artigo IV, secção 6, artigo V, secção 5, artigo VI, secção 1, ou artigo XV, secção 2-a). O artigo XV, secção 2, não se aplicará pelo facto de um participante ter deixado de cumprir quaisquer obrigações relativas aos direitos de saque especiais.
 
-ARTIGO XXX
+###### ARTIGO XXX — Cessação da participação
 
-Cessação da participação
-
-#### Secção 1. Direito de cessar a participação:
+Secção 1. Direito de cessar a participação:
 
 a) Qualquer participante poderá em qualquer momento cessar a sua participação na conta de saque especial, mediante notificação por escrito dirigida ao Fundo para a sua sede. A cessação da participação terá efeito a partir da data em que for recebida a notificação;
 
 b) Um participante que se retire do Fundo será considerado como tendo simultaneamente cessado a sua participação na conta de saque especial.
 
-#### Secção 2. Liquidação em caso de cessação da participação:
+Secção 2. Liquidação em caso de cessação da participação:
 
 a) Quando um participante cessa a sua participação na conta de saque especial, todas as operações e transacções em direitos de saque especiais desse participante cessarão, salvo autorização em contrário nos termos de um acordo concluído em conformidade com o parágrafo c) abaixo, com vista a facilitar a liquidação, ou o estabelecido nas secções 3, 5 e 6 do presente artigo ou no anexo H. Os juros e as comissões vencidos até à data da cessação e as contribuições atribuídas antes dessa data, mas não pagas, serão pagos em direitos de saque especiais;
 
@@ -1231,19 +1207,19 @@ b) O Fundo será obrigado a resgatar todos os direitos de saque especiais detido
 
 c) A liquidação entre o participante que se retira e o Fundo, com respeito a todas as obrigações do participante que se retira ou do Fundo que possam subsistir depois da compensação referida no parágrafo b) acima, será realizada com razoável brevidade por acordo entre o participante que se retira e o Fundo. Se não se chegar rapidamente a acordo sobre a liquidação, serão aplicadas as disposições do anexo H.
 
-#### Secção 3. Juros e comissões:
+Secção 3. Juros e comissões:
 
 Após a data da cessação da participação, o Fundo pagará juros sobre o saldo de direitos de saque especiais detidos pelo participante que se retira e este último pagará comissões sobre qualquer importância em dívida para com o Fundo, nas datas e às taxas estipuladas pelo artigo XXVI. Os pagamentos serão efectuados em direitos de saque especiais. O participante que se retira terá o direito, quer de adquirir direitos de saque especiais com moeda efectivamente convertível, para pagar comissões ou contribuições por meio de uma transacção com um participante indicado pelo Fundo ou por acordo com qualquer outro detentor, quer de despender os direitos de saque especiais recebidos a título de juros numa transacção com qualquer participante designado nos termos do artigo XXV, secção 5, ou por acordo com qualquer outro detentor.
 
-#### Secção 4. Regularização das obrigações para com o Fundo:
+Secção 4. Regularização das obrigações para com o Fundo:
 
 O Fundo utilizará o ouro ou moeda recebidos de um participante que se retira para resgatar direitos de saque especiais detidos pelos participantes proporcionalmente à importância pela qual os haveres em direitos de saque especiais de cada participante excederem a sua atribuição cumulativa líquida na ocasião em que o ouro ou a moeda forem recebidos pelo Fundo. Os direitos de saque especiais assim resgatados e os direitos de saque especiais adquiridos nos termos deste Acordo por um participante que se retira, a fim de satisfazer qualquer prestação devida ao abrigo de um acordo de regularização em conformidade com o anexo H e compensados por essa prestação, serão cancelados.
 
-#### Secção 5. Regularização das obrigações para com um participante que se retira:
+Secção 5. Regularização das obrigações para com um participante que se retira:
 
 Sempre que o Fundo tenha de resgatar direitos de saque especiais detidos por um participante que se retira, esse resgate será efectuado com moeda ou ouro fornecidos por participantes indicados pelo Fundo. Estes participantes serão indicados de acordo com os princípios enunciados no artigo XXV, secção 5. Cada participante indicado fornecerá ao Fundo moeda do participante que se retira, moeda efectivamente convertível ou ouro, à sua escolha, e receberá uma importância equivalente em direitos de saque especiais. Contudo, um participante que se retira poderá utilizar os seus direitos de saque especiais para obter a sua própria moeda, moeda efectivamente convertível ou ouro, de qualquer detentor, se o Fundo assim o permitir.
 
-#### Secção 6. Transacções da conta geral:
+Secção 6. Transacções da conta geral:
 
 Com vista a facilitar a liquidação com o participante que se retira, o Fundo pode decidir que esse participante:
 
@@ -1251,9 +1227,7 @@ i) Utilize quaisquer direitos de saque especiais por ele detidos depois de efect
 
 ii) Adquira direitos de saque especiais numa transacção com o Fundo, efectuada através da conta geral, em troca de uma moeda aceitável pelo Fundo ou de ouro, para fazer face a quaisquer comissões ou prestações devidas nos termos de um acordo ou das disposições do anexo H.
 
-ARTIGO XXXI
-
-Liquidação da conta de saque especial
+###### ARTIGO XXXI — Liquidação da conta de saque especial
 
 a) A conta de saque especial não poderá ser liquidada, excepto por decisão do Conselho de Governadores. Em caso de emergência, se os directores executivos decidirem que a liquidação da conta de saque especial é necessária, poderão suspender temporariamente as atribuições ou cancelamentos e todas as transacções em direitos de saque especiais até que o Conselho se pronuncie. A decisão do Conselho de Governadores para liquidar o Fundo implicará automaticamente a decisão de liquidar tanto a conta geral como a conta de saque especial;
 
@@ -1263,9 +1237,7 @@ c) Em caso de liquidação da conta de saque especial, os juros e comissões ven
 
 d) A liquidação da conta de saque especial será efectuada segundo as disposições do anexo I.
 
-ARTIGO XXXII
-
-Definição de termos relativos a direitos de saque especiais
+###### ARTIGO XXXII — Definição de termos relativos a direitos de saque especiais
 
 Na interpretação das disposições do presente Acordo, no que se refere a direitos de saque especiais, o Fundo e os seus membros guiar-se-ão pelas seguintes definições:
 

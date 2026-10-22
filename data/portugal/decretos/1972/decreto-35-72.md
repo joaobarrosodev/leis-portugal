@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 25/1972, 1º Suplemento, Série I de 1972-01-31
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 120-(2) a 120-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/01/02501/00020009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 797f9476a42e574afbe68d30aa5e37f2dbc047c2539732fb9feba01aa6cff1c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17f41bc03dda9208a61ce6167f06911ebc59740ac4590ce22039e3ba0bf0db63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional para o Estudo dos Problemas da Nutrição
+- Comissão Permanente da Farmacopeia Portuguesa
+- Comissão Técnica dos Novos Medicamentos
+- Conselho Técnico da Comprovação de Medicamentos
+- Formas de Provimento
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Orgânica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:633539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633539:por
+  label: "Revogado pelo DEC LEI.307/93.01.09.1993.MS, DR.IS-A [205] de 01.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1993-633539
+  date: '1993-09-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:36Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +119,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 REGULAMENTO DO INSTITUTO NACIONAL DE SAÚDE
 
-###### Artigo 1.º O Instituto Nacional de Saúde Dr. Ricardo Jorge, abreviadamente Instituto Nacional de Saúde (I. N. S. A.), rege-se pelas disposições constantes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e do presente Regulamento.
+Artigo 1.º O Instituto Nacional de Saúde Dr. Ricardo Jorge, abreviadamente Instituto Nacional de Saúde (I. N. S. A.), rege-se pelas disposições constantes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e do presente Regulamento.
 
-###### Art. 2.º - 1. O Instituto Nacional de Saúde, gozando de personalidade jurídica e de autonomia administrativa e técnica, está directamente subordinado ao Ministro da Saúde e Assistência.
+Art. 2.º - 1. O Instituto Nacional de Saúde, gozando de personalidade jurídica e de autonomia administrativa e técnica, está directamente subordinado ao Ministro da Saúde e Assistência.
 
 2. O I. N. S. A. tem a sua sede em Lisboa e uma delegação no Porto, podendo, nos termos da lei, ser criadas outras delegações.
 
-###### Art. 3.º - 1. Dentro da competência estabelecida na lei, incumbe especialmente ao I. N. S. A.:
+Art. 3.º - 1. Dentro da competência estabelecida na lei, incumbe especialmente ao I. N. S. A.:
 
 a) No âmbito da investigação e apoio científico e técnico:
 
@@ -172,7 +197,7 @@ e) Como centro de documentação e informação:
 
 2. Incumbe ainda ao Instituto a função de laboratório distrital de saúde pública nos distritos de Lisboa e Porto.
 
-###### Art. 4.º O Instituto compreende:
+Art. 4.º O Instituto compreende:
 
 a) A direcção;
 
@@ -190,7 +215,7 @@ g) Serviços administrativos;
 
 h) As delegações.
 
-###### Art. 5.º Junto do Instituto funcionarão os seguintes conselhos e comissões técnicas, além de outros que venham a ser criados, no âmbito das suas atribuições:
+Art. 5.º Junto do Instituto funcionarão os seguintes conselhos e comissões técnicas, além de outros que venham a ser criados, no âmbito das suas atribuições:
 
 a) O Conselho Técnico da Comprovação de Medicamentos;
 
@@ -202,9 +227,9 @@ d) A Comissão Nacional para o Estudo dos Problemas da Nutrição;
 
 e) O Grupo de Trabalho sobre Poluição do Ar.
 
-###### Art. 6.º O Instituto é dirigido por um director, coadjuvado por um subdirector e assistido pelos conselhos técnico e administrativo.
+Art. 6.º O Instituto é dirigido por um director, coadjuvado por um subdirector e assistido pelos conselhos técnico e administrativo.
 
-###### Art. 7.º - 1. Compete ao director:
+Art. 7.º - 1. Compete ao director:
 
 a) Dar execução à política superior do Instituto definida pelo conselho consultivo;
 
@@ -230,13 +255,13 @@ k) Tomar, de uma maneira geral, todas as iniciativas necessárias à prossecuç�
 
 2. O director exercerá a competência que lhe for delegada e poderá subdelegar aquela, quando autorizado, e sua própria competência, nos termos da lei geral, no subdirector e, em casos especiais, no chefe de departamento mais apropriado.
 
-###### Art. 8.º - 1. Compete ao subdirector coadjuvar e substituir o director nos seus impedimentos, ou sempre que este o entenda conveniente.
+Art. 8.º - 1. Compete ao subdirector coadjuvar e substituir o director nos seus impedimentos, ou sempre que este o entenda conveniente.
 
 2. O subdirector chefiará, normalmente, o departamento especializado mais adequado à sua preparação científica.
 
-###### Art. 9.º O secretário do Instituto assegura funções de apoio administrativo à direcção e aos conselhos e de relações públicas.
+Art. 9.º O secretário do Instituto assegura funções de apoio administrativo à direcção e aos conselhos e de relações públicas.
 
-###### Art. 10.º - 1. Junto da direcção funcionará um conselho consultivo, que tem por missão:
+Art. 10.º - 1. Junto da direcção funcionará um conselho consultivo, que tem por missão:
 
 a) Definir a política superior do Instituto;
 
@@ -260,7 +285,7 @@ f) Um representante do Instituto de Alta Cultura, a designar pelo Ministro da Ed
 
 4. O conselho consultivo será secretariado pelo secretário do Instituto.
 
-###### Art. 11.º - 1. Junto da direcção funcionará também um conselho técnico, a que compete:
+Art. 11.º - 1. Junto da direcção funcionará também um conselho técnico, a que compete:
 
 a) Elaborar, na generalidade, o programa anual de trabalho, definindo os projectos que ele comporta, estabelecer as respectivas prioridades e distribuí-los pelos departamentos apropriados;
 
@@ -320,7 +345,7 @@ g) Poluição do meio ambiente.
 
 6. O conselho técnico reunirá em sessão plenária, pelo menos duas vezes por ano, e por secções, sempre que estas sejam convocadas pelo presidente.
 
-###### Art. 12.º - 1. Junto da direcção funcionará a Comissão Coordenadora da Investigação Médica, encarregada de dar execução às directrizes estabelecidas, nos termos da alínea b) do n.º 1 do artigo 10.º, pelo conselho consultivo, relativamente à investigação médica e em especial ao estudo dos problemas da patologia médica.
+Art. 12.º - 1. Junto da direcção funcionará a Comissão Coordenadora da Investigação Médica, encarregada de dar execução às directrizes estabelecidas, nos termos da alínea b) do n.º 1 do artigo 10.º, pelo conselho consultivo, relativamente à investigação médica e em especial ao estudo dos problemas da patologia médica.
 
 2. A Comissão a que se refere o número anterior será constituída por três profissionais qualificados no sector da investigação médica, um do conselho técnico do Instituto, outro dos Hospitais Centrais e o terceiro de outros centros de investigação dependentes do Ministério, designados por despacho ministerial, no qual será indicado o respectivo presidente.
 
@@ -334,7 +359,7 @@ b) A distribuição, no âmbito do sector, de subsídios e bolsas de estudo e in
 
 c) O intercâmbio científico, nacional e internacional, neste campo.
 
-###### Art. 13.º - 1. Junto da direcção funcionará ainda um conselho administrativo, a que compete:
+Art. 13.º - 1. Junto da direcção funcionará ainda um conselho administrativo, a que compete:
 
 a) Elaborar os projectos de orçamento do Instituto, que serão conjuntos com os das delegações, em colaboração com o conselho técnico, ouvida, quanto à distribuição das verbas destinadas à investigação, a comissão coordenadora da investigação médica;
 
@@ -374,15 +399,15 @@ d) O encarregado da contabilidade, que secretaria.
 
 4. O livro das actas do conselho administrativo, bem como os livros fundamentais de contabilidade, terão sempre termos de abertura e de encerramento e as folhas rubricadas pelo presidente.
 
-###### Art. 14.º - 1. O conselho técnico só poderá deliberar em sessão com a presença da maioria dos seus membros efectivos ou dos seus substitutos, em caso de impedimento justificado.
+Art. 14.º - 1. O conselho técnico só poderá deliberar em sessão com a presença da maioria dos seus membros efectivos ou dos seus substitutos, em caso de impedimento justificado.
 
 2. Os substitutos dos membros efectivos destes conselhos serão os funcionários de categoria idêntica ou imediatamente inferior indicados pelos membros efectivos em causa e com a aprovação do director.
 
-###### Art. 15.º - 1. As deliberações dos conselhos serão tomadas por maioria, tendo o respectivo presidente voto de qualidade.
+Art. 15.º - 1. As deliberações dos conselhos serão tomadas por maioria, tendo o respectivo presidente voto de qualidade.
 
 2. De todas as sessões se lavrará acta, que será submetida à aprovação na sessão seguinte e ficará a constar de livro próprio.
 
-###### Art. 16.º São serviços do Instituto:
+Art. 16.º São serviços do Instituto:
 
 a) Os departamentos laboratoriais e outros departamentos especializados;
 
@@ -390,7 +415,7 @@ b) Os gabinetes de estudo e centros de investigação;
 
 c) Os serviços administrativos.
 
-###### Art. 17.º Os departamentos referidos na alínea a) do artigo anterior poderão subdividir-se em secções e subsecções e são os seguintes:
+Art. 17.º Os departamentos referidos na alínea a) do artigo anterior poderão subdividir-se em secções e subsecções e são os seguintes:
 
 a) Biologia e imunologia;
 
@@ -408,7 +433,7 @@ g) Epidemiologia e bioestatística;
 
 h) Documentação e informática.
 
-###### Art. 18.º - 1. O departamento de biologia e imunologia tem as seguintes secções:
+Art. 18.º - 1. O departamento de biologia e imunologia tem as seguintes secções:
 
 a) Bacteriologia;
 
@@ -488,7 +513,7 @@ c) Publicações, desenho e fotografia.
 
 9. O esquema dos departamentos e secções poderá ser alterado pelo director, ouvido o conselho técnico.
 
-###### Art. 19.º - 1. Cada departamento será dirigido por um chefe de departamento, com a categoria de investigador.
+Art. 19.º - 1. Cada departamento será dirigido por um chefe de departamento, com a categoria de investigador.
 
 2. A distribuição dos departamentos será efectuada pelo director, ouvido o conselho técnico, em função da preparação especializada dos investigadores do quadro do Instituto.
 
@@ -506,7 +531,7 @@ e) Colaborar no ensino e aperfeiçoamento do pessoal técnico do Instituto e de 
 
 f) Elaborar o relatório anual das actividades do seu departamento e apresentá-lo superiormente, até ao fim do mês de Fevereiro do ano seguinte.
 
-###### Art. 20.º - 1. Cada secção será dirigida por um chefe de secção, que será escolhido pelo director, ouvido o respectivo chefe de departamento, de entre os técnicos especialistas e assistentes de 1.ª classe, em função da sua preparação especializada.
+Art. 20.º - 1. Cada secção será dirigida por um chefe de secção, que será escolhido pelo director, ouvido o respectivo chefe de departamento, de entre os técnicos especialistas e assistentes de 1.ª classe, em função da sua preparação especializada.
 
 2. Compete aos chefes das secções dos departamentos laboratoriais:
 
@@ -522,7 +547,7 @@ d) Colaborar na redacção de trabalhos científicos e de divulgação;
 
 e) Participar nas reuniões científicas para que forem convocados.
 
-###### Art. 21.º Os centros de estudo e de investigação do Instituto serão os seguintes:
+Art. 21.º Os centros de estudo e de investigação do Instituto serão os seguintes:
 
 a) Centro de Estudos de Administração de Saúde Pública;
 
@@ -532,7 +557,7 @@ c) Centro de Estudos de Nutrição, que funcionará no departamento de nutriçã
 
 d) Centro de Investigação de Genética Humana.
 
-###### Art. 22.º Os centros a criar, nos termos do n.º 4 do artigo 22.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), poderão ter carácter permanente ou temporário e a sua existência e funcionamento poderão ser assegurados por:
+Art. 22.º Os centros a criar, nos termos do n.º 4 do artigo 22.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), poderão ter carácter permanente ou temporário e a sua existência e funcionamento poderão ser assegurados por:
 
 a) Financiamento directo, através de subsídio permanente, a conceder ao centro ou ao organismo ou instituição em que se apoia;
 
@@ -540,9 +565,9 @@ b) Pagamento de subsídios eventuais ou de tarefas específicas a organismos e i
 
 c) Concessão de bolsas de estudo a indivíduos devidamente qualificados, para estágio em serviços idóneos ou para realização de estudos individuais isolados.
 
-###### Art. 23.º A integração do Centro Nacional da Gripe, do Centro de Estudos da Paramiloidose e do Instituto de Malariologia de Águas de Moura no I. N. S. A. será feita por despacho ministerial, que providenciará também quanto às transferências das dotações de cada um dos organismos referidos.
+Art. 23.º A integração do Centro Nacional da Gripe, do Centro de Estudos da Paramiloidose e do Instituto de Malariologia de Águas de Moura no I. N. S. A. será feita por despacho ministerial, que providenciará também quanto às transferências das dotações de cada um dos organismos referidos.
 
-###### Art. 24.º Os serviços administrativos serão orientados pelo respectivo chefe e abrangem, diferenciadamente:
+Art. 24.º Os serviços administrativos serão orientados pelo respectivo chefe e abrangem, diferenciadamente:
 
 a) Expediente e arquivo;
 
@@ -550,7 +575,7 @@ b) Contabilidade;
 
 c) Património e economato.
 
-###### Art. 25.º Os serviços do Instituto são apoiados por oficinas e por um parque de viaturas, com as seguintes funções:
+Art. 25.º Os serviços do Instituto são apoiados por oficinas e por um parque de viaturas, com as seguintes funções:
 
 a) Prestar assistência técnica à maquinaria e aparelhagem do Instituto;
 
@@ -562,13 +587,13 @@ d) Executar, dentro das suas possibilidades, os trabalhos de carpintaria ou outr
 
 e) Solicitar o apoio técnico complementar aos serviços competentes de apoio comum do Ministério, quando não disponham de pessoal ou meios necessários.
 
-###### Art. 26.º A delegação no Porto denominar-se-á Delegação do Instituto Nacional de Saúde no Porto.
+Art. 26.º A delegação no Porto denominar-se-á Delegação do Instituto Nacional de Saúde no Porto.
 
-###### Art. 27.º As delegações terão autonomia administrava, podendo receber heranças, legados e donativos, possuir bens próprios e administrar as suas receitas.
+Art. 27.º As delegações terão autonomia administrava, podendo receber heranças, legados e donativos, possuir bens próprios e administrar as suas receitas.
 
-###### Art. 28.º As atribuições de cada delegação são, de maneira geral, as mesmas do Instituto, dentro das possibilidades respectivas e servindo uma área territorial a indicar pelo conselho técnico.
+Art. 28.º As atribuições de cada delegação são, de maneira geral, as mesmas do Instituto, dentro das possibilidades respectivas e servindo uma área territorial a indicar pelo conselho técnico.
 
-###### Art. 29.º As delegações compreendem:
+Art. 29.º As delegações compreendem:
 
 a) A direcção;
 
@@ -580,11 +605,11 @@ d) Biblioteca;
 
 e) Serviços administrativos.
 
-###### Art. 30.º Os serviços laboratoriais das delegações funcionarão como laboratórios centrais de saúde em relação à área de acção respectiva.
+Art. 30.º Os serviços laboratoriais das delegações funcionarão como laboratórios centrais de saúde em relação à área de acção respectiva.
 
-###### Art. 31.º Cada delegação será dirigida por um director de delegação, assistido pelo conselho administrativo respectivo.
+Art. 31.º Cada delegação será dirigida por um director de delegação, assistido pelo conselho administrativo respectivo.
 
-###### Art. 32.º Compete ao director de delegação:
+Art. 32.º Compete ao director de delegação:
 
 a) Dar execução, de acordo com as instruções da direcção do Instituto, às resoluções dos conselhos consultivo e técnico do Instituto, na medida em que elas sejam aplicáveis à sua área de acção;
 
@@ -606,7 +631,7 @@ i) Assegurar a representação da delegação, directamente ou por seus delegado
 
 j) Tomar, de uma maneira geral, todas as iniciativas necessárias à prossecução das actividades da delegação, nos termos da lei e de quaisquer instruções superiores.
 
-###### Art. 33.º - 1. Junto da direcção da delegação funcionará um conselho administrativo, que exerce as atribuições previstas no artigo 13.º para o conselho administrativo do Instituto.
+Art. 33.º - 1. Junto da direcção da delegação funcionará um conselho administrativo, que exerce as atribuições previstas no artigo 13.º para o conselho administrativo do Instituto.
 
 2. O conselho administrativo é constituído por:
 
@@ -618,7 +643,7 @@ c) O chefe dos serviços administrativos, que secretariará.
 
 3. É aplicável ao funcionamento deste conselho administrativo o disposto no artigo 15.º para o conselho administrativo do Instituto.
 
-###### Art. 34.º Os serviços das delegações são, além de outros que venham a ser criados:
+Art. 34.º Os serviços das delegações são, além de outros que venham a ser criados:
 
 a) O departamento laboratorial;
 
@@ -626,7 +651,7 @@ b) A biblioteca;
 
 c) Os serviços administrativos.
 
-###### Art. 35.º O departamento laboratorial tem as seguintes secções:
+Art. 35.º O departamento laboratorial tem as seguintes secções:
 
 a) Biologia e imunologia;
 
@@ -636,7 +661,7 @@ c) Higiene e saneamento do meio ambiente e higiene industrial;
 
 d) Nutrição e higiene dos alimentos.
 
-###### Art. 36.º - 1. A secção de biologia e imunologia abrange, diferenciadamente:
+Art. 36.º - 1. A secção de biologia e imunologia abrange, diferenciadamente:
 
 a) Bacteriologia e micologia;
 
@@ -674,13 +699,13 @@ c) Nutrição.
 
 5. O esquema das secções poderá ser alterado pelo director do Instituto, ouvido o conselho técnico, sob proposta do director da delegação.
 
-###### Art. 37.º - 1. O departamento laboratorial de cada delegação será dirigido pelo investigador do respectivo quadro.
+Art. 37.º - 1. O departamento laboratorial de cada delegação será dirigido pelo investigador do respectivo quadro.
 
 2. É aplicável às secções respectivas o disposto no n.º 1 do artigo 20.º deste Regulamento.
 
-###### Art. 38.º Junto das bibliotecas das delegações funcionam os sectores de documentação, fotografia e desenho.
+Art. 38.º Junto das bibliotecas das delegações funcionam os sectores de documentação, fotografia e desenho.
 
-###### Art. 39.º Os serviços administrativos das delegações serão orientados pelo respectivo chefe e abrangem, diferenciadamente:
+Art. 39.º Os serviços administrativos das delegações serão orientados pelo respectivo chefe e abrangem, diferenciadamente:
 
 a) Expediente e arquivo;
 
@@ -688,7 +713,7 @@ b) Contabilidade;
 
 c) Património e economato.
 
-###### Art. 40.º - 1. Os conselhos e comissões a que se refere o artigo 5.º funcionarão, em princípio, junto de departamentos, nos termos seguintes:
+Art. 40.º - 1. Os conselhos e comissões a que se refere o artigo 5.º funcionarão, em princípio, junto de departamentos, nos termos seguintes:
 
 a) Departamento de comprovação de medicamentos, vacinas, soros e outros produtos biológicos - o Conselho Técnico da Comprovação de Medicamentos, a Comissão Permanente da Farmacopeia Portuguesa e a Comissão Técnica dos Novos Medicamentos;
 
@@ -698,51 +723,51 @@ c) Departamento de higiene e saneamento do meio ambiente - o Grupo de Trabalho s
 
 2. Os conselhos e comissões que venham a ser eventualmente criados ou transferidos para funcionar no Instituto ficarão adstritos ao departamento que lhes for designado no respectivo despacho ministerial de criação ou de transferência.
 
-###### Art. 41.º De harmonia com o disposto na alínea 4) da alínea a) do n.º 1 do artigo 3.º deste Regulamento, poderá o Instituto, mediante autorização do Ministro da Saúde e Assistência, estabelecer prémios permanentes ou eventuais destinados a estimular a investigação nos sectores da saúde pública e da medicina clínica.
+Art. 41.º De harmonia com o disposto na alínea 4) da alínea a) do n.º 1 do artigo 3.º deste Regulamento, poderá o Instituto, mediante autorização do Ministro da Saúde e Assistência, estabelecer prémios permanentes ou eventuais destinados a estimular a investigação nos sectores da saúde pública e da medicina clínica.
 
-###### Art. 42.º - 1. São desde já instituídos dois prémios anuais permanentes, no valor de 75000$00 cada um, intitulados, respectivamente, «Prémio Ricardo Jorge de Saúde Pública» e «Prémio Ricardo Jorge de Medicina».
+Art. 42.º - 1. São desde já instituídos dois prémios anuais permanentes, no valor de 75000$00 cada um, intitulados, respectivamente, «Prémio Ricardo Jorge de Saúde Pública» e «Prémio Ricardo Jorge de Medicina».
 
 2. Poderão ser criados outros prémios por despacho do Ministro da Saúde e Assistência, mediante proposta do director.
 
-###### Art. 43.º Aos prémios só poderão ser admitidos trabalhos inéditos e que não tenham sido anteriormente apresentados a qualquer concurso.
+Art. 43.º Aos prémios só poderão ser admitidos trabalhos inéditos e que não tenham sido anteriormente apresentados a qualquer concurso.
 
-###### Art. 44.º As normas de concurso e de atribuição dos prémios constarão de regulamento próprio, aprovado por despacho do Ministro da Saúde e Assistência.
+Art. 44.º As normas de concurso e de atribuição dos prémios constarão de regulamento próprio, aprovado por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 45.º Os júris serão constituídos pela secção do conselho técnico designada nos termos do disposto na alínea j) do n.º 1 do artigo 11.º e por técnicos do Instituto e individualidades a ele estranhas, para o efeito propostas por aquela secção.
+Art. 45.º Os júris serão constituídos pela secção do conselho técnico designada nos termos do disposto na alínea j) do n.º 1 do artigo 11.º e por técnicos do Instituto e individualidades a ele estranhas, para o efeito propostas por aquela secção.
 
-###### Art. 46.º Os quadros do pessoal são os constantes das respectivas tabelas anexas ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
+Art. 46.º Os quadros do pessoal são os constantes das respectivas tabelas anexas ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
 
-###### Art. 47.º E aplicável ao Instituto o disposto no artigo 72.º do diploma referido no artigo anterior.
+Art. 47.º E aplicável ao Instituto o disposto no artigo 72.º do diploma referido no artigo anterior.
 
-###### Art. 48.º - 1. Nos termos da disposição citada no artigo anterior, poderão ser admitidos para realização de tarefas específicas, sempre que os interesses superiores do Instituto o justifiquem, técnicos estrangeiros de comprovada competência.
+Art. 48.º - 1. Nos termos da disposição citada no artigo anterior, poderão ser admitidos para realização de tarefas específicas, sempre que os interesses superiores do Instituto o justifiquem, técnicos estrangeiros de comprovada competência.
 
 2. A admissão será feita por despacho do Ministro da Saúde e Assistência, sob proposta do director, ouvido o conselho técnico.
 
 3. O despacho referido no número anterior fixará, também sob proposta do director, o limite da respectiva remuneração.
 
-###### Art. 49.º O director e os directores de delegação são nomeados, nos termos do disposto no n.º 4 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de entre os licenciados em Medicina com preparação de saúde pública.
+Art. 49.º O director e os directores de delegação são nomeados, nos termos do disposto no n.º 4 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de entre os licenciados em Medicina com preparação de saúde pública.
 
-###### Art. 50.º O lugar de subdirector é provido, nos termos da disposição legal citada no artigo anterior, de entre os directores de delegação e os investigadores e técnicos especialistas, da carreira de técnicos superiores de laboratório.
+Art. 50.º O lugar de subdirector é provido, nos termos da disposição legal citada no artigo anterior, de entre os directores de delegação e os investigadores e técnicos especialistas, da carreira de técnicos superiores de laboratório.
 
-###### Art. 51.º O lugar de secretário do Instituto é provido, de harmonia com o disposto no n.º 9 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), sob proposta do director, de entre licenciados em Direito ou Ciências Económicas e Financeiras ou funcionários de serviços de saúde de categoria não inferior a chefe de secção ou equiparado.
+Art. 51.º O lugar de secretário do Instituto é provido, de harmonia com o disposto no n.º 9 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), sob proposta do director, de entre licenciados em Direito ou Ciências Económicas e Financeiras ou funcionários de serviços de saúde de categoria não inferior a chefe de secção ou equiparado.
 
-###### Art. 52.º O lugar de primeiro-bibliotecário-arquivista é provido por nomeação do Ministro da Saúde e Assistência, mediante concurso documental, de entre diplomados com o curso adequado.
+Art. 52.º O lugar de primeiro-bibliotecário-arquivista é provido por nomeação do Ministro da Saúde e Assistência, mediante concurso documental, de entre diplomados com o curso adequado.
 
-###### Art. 53.º É aplicável à nomeação dos chefes de serviços administrativos o disposto no n.º 10 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
+Art. 53.º É aplicável à nomeação dos chefes de serviços administrativos o disposto no n.º 10 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
 
-###### Art. 54.º O restante pessoal administrativo será provido de harmonia com o estabelecido nos n.os 11 e 12 da disposição referida no artigo anterior.
+Art. 54.º O restante pessoal administrativo será provido de harmonia com o estabelecido nos n.os 11 e 12 da disposição referida no artigo anterior.
 
-###### Art. 55.º O pessoal fabril ou equiparado será provido por contrato, nos termos da lei geral, e nomeado, sob proposta do director, por despacho do Ministro da Saúde e Assistência.
+Art. 55.º O pessoal fabril ou equiparado será provido por contrato, nos termos da lei geral, e nomeado, sob proposta do director, por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 56.º O ingresso nos lugares do quadro de pessoal auxiliar é feito por escolha de entre indivíduos com as habilitações legais, devendo, quanto ao recrutamento de contínuos de 2.ª classe, observar-se o disposto no artigo 30.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 56.º O ingresso nos lugares do quadro de pessoal auxiliar é feito por escolha de entre indivíduos com as habilitações legais, devendo, quanto ao recrutamento de contínuos de 2.ª classe, observar-se o disposto no artigo 30.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 57.º Os lugares de paquete são providos por escolha entre indivíduos do sexo masculino com idade não inferior a catorze anos.
+Art. 57.º Os lugares de paquete são providos por escolha entre indivíduos do sexo masculino com idade não inferior a catorze anos.
 
-###### Art. 58.º O provimento do pessoal técnico constante das carreiras profissionais de laboratório é feito por concurso, nos termos de regulamento a estabelecer em portaria, de acordo com o disposto no artigo 49.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740).
+Art. 58.º O provimento do pessoal técnico constante das carreiras profissionais de laboratório é feito por concurso, nos termos de regulamento a estabelecer em portaria, de acordo com o disposto no artigo 49.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740).
 
-###### Art. 59.º As normas aplicáveis à apreciação do currículo para ingresso nos diversos graus das carreiras do técnicos de laboratório constam dos artigos seguintes.
+Art. 59.º As normas aplicáveis à apreciação do currículo para ingresso nos diversos graus das carreiras do técnicos de laboratório constam dos artigos seguintes.
 
-###### Art. 60.º - 1. A apreciação do currículo dos candidatos referidos na alínea b) do n.º 1 do artigo 25.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri, constituído por um assistente de 1.ª classe ou técnico equiparado, que presidirá, e por dois assistentes de 2.ª classe ou técnicos equiparados, designados por despacho do director.
+Art. 60.º - 1. A apreciação do currículo dos candidatos referidos na alínea b) do n.º 1 do artigo 25.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri, constituído por um assistente de 1.ª classe ou técnico equiparado, que presidirá, e por dois assistentes de 2.ª classe ou técnicos equiparados, designados por despacho do director.
 
 2. Os elementos que servirão de base à apreciação serão os seguintes:
 
@@ -756,13 +781,13 @@ d) Quaisquer outros elementos que o candidato considere importantes para aprecia
 
 3. O candidato poderá ser chamado pelo júri para o esclarecimento de quaisquer dúvidas que se levantem em relação à apreciação do currículo.
 
-###### Art. 61.º A apreciação do currículo dos candidatos referidos na parte final da alínea c) do n.º 1 do artigo 25.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri constituído por um investigador, técnico especialista ou técnico equiparado, que presidirá, e por dois assistentes de 1.ª classe ou técnicos equiparados, designados por despacho do director.
+Art. 61.º A apreciação do currículo dos candidatos referidos na parte final da alínea c) do n.º 1 do artigo 25.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri constituído por um investigador, técnico especialista ou técnico equiparado, que presidirá, e por dois assistentes de 1.ª classe ou técnicos equiparados, designados por despacho do director.
 
-###### Art. 62.º - 1. A apreciação do currículo dos candidatos referidos na parte final da alínea d) do artigo 25.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri constituído pelo director, que presidirá, e por dois investigadores ou técnicos de categoria idêntica ou superior, pertencentes aos quadros do Instituto, de outras instituições congéneres ou das Universidades.
+Art. 62.º - 1. A apreciação do currículo dos candidatos referidos na parte final da alínea d) do artigo 25.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri constituído pelo director, que presidirá, e por dois investigadores ou técnicos de categoria idêntica ou superior, pertencentes aos quadros do Instituto, de outras instituições congéneres ou das Universidades.
 
 2. O candidato poderá ser chamado pelo júri para o esclarecimento de quaisquer dúvidas que se levantem em relação à apreciação do currículo.
 
-###### Art. 63.º - 1. A apreciação do currículo dos candidatos referidos no n.º 2 do artigo 37.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri constituído por um assistente de 1.ª classe ou técnico equiparado e por dois assistentes de 2.ª classe ou técnicos equiparados, designados em despacho do director.
+Art. 63.º - 1. A apreciação do currículo dos candidatos referidos no n.º 2 do artigo 37.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) será feita por um júri constituído por um assistente de 1.ª classe ou técnico equiparado e por dois assistentes de 2.ª classe ou técnicos equiparados, designados em despacho do director.
 
 2. Os elementos que servirão de base à apreciação serão os seguintes:
 
@@ -776,13 +801,13 @@ d) Quaisquer outros elementos que o candidato considere importantes para a aprec
 
 3. O candidato poderá ser chamado pelo júri para o esclarecimento de quaisquer dúvidas que se levantem em relação à apreciação do currículo.
 
-###### Art. 64.º - 1. Os estagiários exercerão a actividade no ou nos serviços que lhes forem designados.
+Art. 64.º - 1. Os estagiários exercerão a actividade no ou nos serviços que lhes forem designados.
 
 2. Três meses antes do termo do seu contrato inicial, os estagiários deverão apresentar uma revisão de conjunto sobre assunto por eles escolhido de entre os seus temas de trabalho.
 
 3. A revisão de conjunto e as informações dos serviços onde se realizou o estágio serão submetidas à apreciação de uma comissão constituída por três técnicos superiores de laboratório, designados pelo director, sendo a decisão comunicada aos estagiários até sessenta dias antes do termo do contrato.
 
-###### Art. 65.º Os lugares de assistente de 2.ª classe que não possam ser providos por falta de candidatos nas condições referidas nas alíneas do n.º 2 do artigo 26.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) poderão sê-lo por concurso de provas teóricas e práticas de entre:
+Art. 65.º Os lugares de assistente de 2.ª classe que não possam ser providos por falta de candidatos nas condições referidas nas alíneas do n.º 2 do artigo 26.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) poderão sê-lo por concurso de provas teóricas e práticas de entre:
 
 a) Os técnicos de 3.ª classe com qualquer tempo de bom e efectivo serviço;
 
@@ -790,16 +815,16 @@ b) Os estagiários que tenham concluído o período de prova referido no n.º 3 
 
 c) Os licenciados a que se refere a alínea a) do n.º 1 do mesmo artigo.
 
-###### Art. 66.º Os lugares de técnico auxiliar de laboratório de 2.ª classe que não possam ser providos por falta de candidatos nas condições referidas na alínea c) do n.º 5 do artigo 37.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) poderão sê-lo por concurso de provas teóricas e práticas de entre habilitados com o 3.º ciclo dos liceus ou equivalente ou preparadores de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço.
+Art. 66.º Os lugares de técnico auxiliar de laboratório de 2.ª classe que não possam ser providos por falta de candidatos nas condições referidas na alínea c) do n.º 5 do artigo 37.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) poderão sê-lo por concurso de provas teóricas e práticas de entre habilitados com o 3.º ciclo dos liceus ou equivalente ou preparadores de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço.
 
-###### Art. 67.º A regulamentação complementar do presente diploma, em tudo quanto importe ao regular funcionamento dos serviços do Instituto, será estabelecida por portaria do Ministro da Saúde e Assistência.
+Art. 67.º A regulamentação complementar do presente diploma, em tudo quanto importe ao regular funcionamento dos serviços do Instituto, será estabelecida por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 68.º As dúvidas que se suscitarem na execução e aplicação do presente diploma serão resolvidas por despacho do Ministro da Saúde e Assistência.
+Art. 68.º As dúvidas que se suscitarem na execução e aplicação do presente diploma serão resolvidas por despacho do Ministro da Saúde e Assistência.
 
 Marcello Caetano - Francisco Gonçalves Ferreira.
 
-**Promulgado em 28 de Janeiro de 1972.**
+Promulgado em 28 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

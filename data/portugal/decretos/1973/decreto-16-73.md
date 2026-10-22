@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1973-683656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52a54ba7a220cab18ab6c2d2d86c359c943f59047965792dd858f70cb834b845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 662290bf870f1beb29add783626f97fc5cb830d589542d089fc545f71dc98f69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684671:por
+  label: "Rectificado o n.º 2 dos artigos 29.º, 50.º, o artigo 51.º do texto do contrato de concessão, e o n.º 4 do artigo\
+    \ 2.º do texto da convenção, anexos ao presente diploma, pela RECT.DD317.24.02.1973.PC, DG.IS [47] de 24.02.1973\0\0"
+  source: null
+  date: '1973-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:51Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +134,13 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província da Guiné, um contrato de concessão com a Esso Exploration Guiné, Inc., em conformidade com o texto anexo a este decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º - 1. É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província da Guiné, um contrato de concessão com a Esso Exploration Guiné, Inc., em conformidade com o texto anexo a este decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
 
 2. O contrato deverá ser assinado no prazo de noventa dias, contado a partir da publicação deste decreto.
 
 3. A sociedade apresentará ao Ministro do Ultramar, dentro de trinta dias após a publicação deste decreto, garantia que o Ministro considere suficiente e adequada à cobertura dos riscos decorrentes das suas operações.
 
-###### Art. 2.º - 1. O Ministro do Ultramar fica também autorizado a assinar uma apostila ao contrato celebrado em 10 de Março de 1966 com a Esso Exploration Guiné, Inc., em que fique previsto:
+Art. 2.º - 1. O Ministro do Ultramar fica também autorizado a assinar uma apostila ao contrato celebrado em 10 de Março de 1966 com a Esso Exploration Guiné, Inc., em que fique previsto:
 
 a) O limite ocidental da área de concessão outorgada por contrato celebrado em 10 de Março de 1966 não se considera referenciado à plataforma continental e batimétrica dos 200 m, passando unicamente a ser definido pela linha poligonal que une os pontos cujas coordenadas constam do mesmo contrato, considerando-se esta alteração válida para efeitos contratuais da concessão de 1966, a partir da sua outorga;
 
@@ -130,11 +164,11 @@ i) Será aplicável à concessão outorgada em 1966 o disposto no artigo 6.º do
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Dezembro de 1972.**
+Promulgado em 30 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial da Guiné. - J. da Silva Cunha.
 
@@ -880,7 +914,7 @@ As dúvidas ou omissões que surjam na interpretação ou execução do contrato
 
 ÁREA A QUE SE REFERE O NÚMERO UM DO ARTIGO SEGUNDO DO ARTICULADO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/01/01100/00540074.pdf))](https://files.diariodarepublica.pt/1s/1973/01/01100/00540074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/01/01100/00540074.pdf)
 
 Texto da convenção a que se refere o artigo 9.º do contrato de concessão entre o Estado e a Esso Exploration Guiné, Inc., para o acordo a celebrar entre a sociedade concessionária e a sociedade estatal, tendo em vista a prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos fluidos.
 
@@ -1096,4 +1130,4 @@ Em tudo que respeite à execução do disposto no presente acordo, as duas parte
 
 2. O disposto no número anterior não se aplica em relação ao Estado nem às sociedades dos grupos a que a sociedade e a sociedade estatal pertençam, nem aos seus empregados, que delas devam conhecer, os quais ficarão obrigados a manter igual confidencialidade.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

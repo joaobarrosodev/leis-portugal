@@ -49,36 +49,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1971-644542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 941ab4b59aaa7f8a697de14563e56802dbfc62e350eabccd781f3e5b9e1644c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7265d1043ca642a77167bd6392f4e36b1f01585824a303596345d94cf04b0a36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroagrícola
+- Comissão para Regular o USO e o Aproveitamento dos RIOS Internacionais nas suas Zonas Fronteiriças
+- Delegação Portuguesa
+- Regulamento
+- Rio Guadiana
+- RIO LIMA
+- RIO Minho
+- RIO TEJO
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:38Z'
   warnings: []
   errors: []
 ---
@@ -89,25 +97,25 @@ de 14 de Maio
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados o Estatuto de Funcionamento da Comissão Internacional criada pelo Convénio Luso-Espanhol de 1968 para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, o Regulamento para a Constituição de Servidões, Expropriações e Ocupações Necessárias à Realização das Obras para o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, o Regulamento para a Informação dos Projectos de Execução das Obras dos Aproveitamentos Hidráulicos dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e das Modificações que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas, o Anexo I ao Regulamento para a Informação dos Projectos (Condições Técnicas Especiais a que Deverão Obedecer os Projectos das obras dos Aproveitamentos Hidráulicos dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e das Modificações que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas), o Regulamento do Pagamento de Despesas da Comissão Internacional Luso-Espanhola para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e a composição da Comissão Internacional a que se refere o artigo 17.º do Convénio e das subcomissões estabelecidas no artigo 13.º do Estatuto de Funcionamento da mesma Comissão, elaborados pela Comissão Luso-Espanhola criada pelo artigo 17.º do Convénio entre Portugal e a Espanha para Regular o Uso e Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, de 29 de Maio de 1968, reunida de 3 a 6 de Junho de 1969, e adoptados pelo plenário da mesma, e cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
+Artigo único. São aprovados o Estatuto de Funcionamento da Comissão Internacional criada pelo Convénio Luso-Espanhol de 1968 para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, o Regulamento para a Constituição de Servidões, Expropriações e Ocupações Necessárias à Realização das Obras para o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, o Regulamento para a Informação dos Projectos de Execução das Obras dos Aproveitamentos Hidráulicos dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e das Modificações que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas, o Anexo I ao Regulamento para a Informação dos Projectos (Condições Técnicas Especiais a que Deverão Obedecer os Projectos das obras dos Aproveitamentos Hidráulicos dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e das Modificações que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas), o Regulamento do Pagamento de Despesas da Comissão Internacional Luso-Espanhola para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e a composição da Comissão Internacional a que se refere o artigo 17.º do Convénio e das subcomissões estabelecidas no artigo 13.º do Estatuto de Funcionamento da mesma Comissão, elaborados pela Comissão Luso-Espanhola criada pelo artigo 17.º do Convénio entre Portugal e a Espanha para Regular o Uso e Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, de 29 de Maio de 1968, reunida de 3 a 6 de Junho de 1969, e adoptados pelo plenário da mesma, e cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Maio de 1971.**
+Promulgado em 3 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Estatuto de Funcionamento da Comissão Internacional criada pelo Convénio Luso-Espanhol de 1968 para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O presente Estatuto estabelece as normas de funcionamento da Comissão Internacional criada pelo artigo 17.º do Convénio Luso-Espanhol para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, a qual será designada neste Estatuto por Comissão. A Comissão, nos termos do artigo 18.º do Convénio, assumirá plenamente as atribuições conferidas pelo Convénio de 16 de Julho de 1964 à Comissão Internacional Luso-Espanhola para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, cabendo-lhe, portanto, no futuro, a regulação exclusiva do uso e do aproveitamento de todos os troços internacionais dos rios de interesse comum para ambos os países.
 
 Deste modo, e de acordo com o artigo 17.º do Convénio, a Comissão denominar-se-á «Comissão Luso-Espanhola para Regular o Uso e o Aproveitamento dos Rios Internacionais nas Suas Zonas Fronteiriças».
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A Comissão compõe-se de duas delegações, uma portuguesa e outra espanhola, constituídas cada uma por igual número de vogais designados pelos respectivos Governos, que nomearão também os adjuntos que considerem necessários e de maneira que os concessionários dos diferentes troços tenham em qualquer momento a devida representação.
 
@@ -115,17 +123,17 @@ A fixação do número de vogais da Comissão será feita mediante acordo entre 
 
 Os adjuntos de cada delegação assistirão às reuniões, conforme resulte necessário ou aconselhável em face dos assuntos a tratar, com voz, mas sem voto, e poderão fazer parte das subcomissões que o plenário designe, actuando nelas também com voz e sem voto.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Cada delegação poderá nomear os auxiliares de que necessite, quer com carácter temporário, quer permanente, para preparar e realizar os trabalhos complementares que em cada caso sejam exigidos pelas actividades da Comissão.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 A Comissão reunirá sempre que tal seja necessário ao cumprimento das disposições do Convénio e deste Estatuto. Haverá, pelo menos e ordinàriamente, uma reunião por ano.
 
 As reuniões da Comissão terão lugar alternadamente em Portugal e Espanha, no local fixado pela respectiva delegação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 A Comissão funcionará em plenário ou por subcomissões, ou ainda, separadamente em cada Estado, por intermédio da respectiva delegação.
 
@@ -135,11 +143,11 @@ Para que as reuniões do plenário sejam válidas será necessária a presença 
 
 As decisões da Comissão, reservadas ao plenário, serão tomadas de acordo com as normas fixadas no artigo 22.º do Convénio.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 As subcomissões serão constituídas por igual número de representantes de cada delegação e as suas decisões serão tomadas por unanimidade dos vogais presentes, sendo necessário que assista, pelo menos, um vogal por cada delegação. No caso do não haver unanimidade, a decisão caberá à Comissão.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Cada delegação, sempre que o julgue conveniente, poderá, nos termos do artigo 5.º, actuar separadamente e elaborar propostas que submeterá à delegação do outro Estado com o fim de obter a sua concordância. Obtida esta, a proposta que a haja merecido ficará transformada em decisão da Comissão.
 
@@ -149,11 +157,11 @@ Igual procedimento poderá ser adoptado para os trabalhos das subcomissões.
 
 A falta de concordância comunicada no prazo referido obrigará a Comissão ou a subcomissão a que o assunto diga respeito a reunir-se dentro dos trinta dias seguintes à manifestação da discordância.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A Comissão terá a triplíce função: consultiva, deliberativa e fiscalizadora.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 A Comissão, na sua função consultiva, elaborará os pareceres que deve apresentar aos Governos, antes que estes decidam sobre as matérias seguintes:
 
@@ -169,7 +177,7 @@ e) Supressão da Comissão ou modificações da sua composição, atribuições 
 
 A Comissão deverá igualmente informar qualquer assunto sobre que a consultem, juntos ou separadamente, os Governos dos dois Estados. A Comissão poderá, se o julgar conveniente, propor a revisão do Convénio, no sentido de nele se incluírem disposições de pormenor relativas ao aproveitamento hidráulico dos troços internacionais dos rios abrangidos pelo mesmo Convénio.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 A Comissão, no uso das suas funções deliberativas, terá competência para intervir e decidir nas matérias seguintes:
 
@@ -201,7 +209,7 @@ Se forem tomadas por maioria de votos, não entrarão em vigor sem a concordânc
 
 Se esta última se produzir, será de aplicar o artigo 23.º do Convénio, salvo no caso a que se refere o artigo 12.º, alínea c), do mesmo Convénio.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 As funções fiscalizadoras da Comissão serão as seguintes:
 
@@ -213,11 +221,11 @@ c) No período da exploração, exercer acção análoga sobre as mesmas obras e
 
 As restantes obras e instalações ficam sujeitas exclusivamente, em ambos os períodos, à inspecção e fiscalização estabelecidas pela lei de cada Estado.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 As subcomissões referidas no artigo 5.º actuarão por delegação do plenário e estarão submetidas, no seu funcionamento, aos respectivos regulamentos quando hajam sido prèviamente aprovados.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Sem prejuízo de se modificar o seu número e funções, por decisão do plenário e sempre que as circunstâncias tal aconselhem, constituir-se-ão as seguintes subcomissões:
 
@@ -231,23 +239,23 @@ d) De fiscalização da exploração e divergências entre os concessionários;
 
 e) De assuntos jurídico-administrativos.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Os pareceres e decisões da Comissão serão comunicados aos dois Governos dentro do prazo de trinta dias, a partir da sua aprovação.
 
 Para a execução das suas decisões a Comissão poderá requerer a cooperação das autoridades competentes.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 O presente Estatuto será revisto quando a Comissão ou alguma das delegações o considere necessário e solicitar, devendo as alterações a introduzir receber a aprovação dos dois Governos.
 
 Regulamento para a Constituição de Servidões, Expropriações e Ocupações Necessárias à Realização das Obras para o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes.
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O presente Regulamento aplica-se:
 
@@ -259,19 +267,19 @@ c) À expropriação dos aproveitamentos hidráulicos que, estando já em explor
 
 d) À constituição das zonas de servidão a que se referem os artigos 10.º e 16.º do Convénio.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A concessão do aproveitamento da totalidade ou de parte dos troços atribuídos a cada Estado, feita por este a favor de uma pessoa individual ou colectiva, implica a declaração da utilidade pública das obras necessárias para a sua realização e de urgência das correspondentes expropriações, de acordo com o estabelecido no artigo 11.º do Convénio.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A Comissão Internacional criada pelo artigo 17.º do Convénio e designada neste Regulamento por Comissão, no uso das atribuições que lhe confere o mesmo Convénio, é o organismo competente para fazer executar as disposições do presente Regulamento, de acordo com o seu Estatuto de Funcionamento e regulamentos especiais complementares, sem prejuízo da intervenção da autoridade territorial competente, referida na alínea c) do artigo 12.º e no artigo 22.º do Convénio.
 
-## TÍTULO II
+TÍTULO II
 
 Da constituição de servidões sobre bens do domínio público
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 As servidões sobre bens do domínio público, previstas na primeira parte do artigo 10.º do Convénio, e bem assim as que resultem da aplicação do disposto no artigo 16.º do mesmo Convénio, serão constituídas de acordo com o que resulte dos projectos aprovados e de harmonia com as regras seguintes:
 
@@ -281,11 +289,11 @@ b) No prazo de dois meses e pela respectiva subcomissão, prevista no artigo 13.
 
 A decisão favorável da subcomissão, tomada por unanimidade, será desde esse momento definitiva, como estabelecem o artigo 22.º do Convénio e os artigos 5.º, 6.º e 7.º do Estatuto de Funcionamento da Comissão, devendo ser comunicada ao respectivo Ministério das Obras Públicas, que promoverá a sua imediata execução pelas autoridades competentes. No caso de não haver unanimidade, a decisão caberá à Comissão, nos termos do artigo 6.º do Estatuto.
 
-## TÍTULO III
+TÍTULO III
 
 Da constituição de servidões, expropriações e ocupações temporárias de bens do domínio privado do Estado, das corporações ou dos particulares.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 A constituição de servidões, as expropriações e as ocupações temporárias de bens do domínio privado, previstas no artigo 10.º do Convénio, que façam parte de um projecto aprovado e sejam objecto do presente Regulamento, e, bem assim, o estabelecimento das zonas de servidão a que se refere o artigo 16.º do Convénio, exigem, como condição prévia, o cumprimento das seguintes formalidades pela Comissão ou subcomissão, através das delegações e Direcções-Gerais correspondentes:
 
@@ -295,7 +303,7 @@ b) Indicação do justo preço da expropriação, da ocupação temporária ou d
 
 c) Pagamento ou depósito correspondentes à expropriação ou indemnização.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O concessionário que tenha obtido a aprovação de um projecto relativo ao aproveitamento hidráulico dos troços internacionais ou o Estado quando elabore o projecto ou execute por si próprio o aproveitamento apresentarão nas Direcções-Gerais, em Portugal ou em Espanha, que os farão seguir à respectiva delegação da Comissão, todos os documentos necessários à definição dos prédios situados no território do país correspondente cuja expropriação ou ocupação pretenda. Para esse efeito deverão ser organizadas por concelhos e apresentadas simultâneamente:
 
@@ -305,11 +313,11 @@ b) Relações nominais dos proprietários respectivos, em triplicado, com indica
 
 c) Relações, igualmente separadas, das importâncias das indemnizações propostas.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 O disposto nos artigos seguintes deverá ser aplicado aos diferentes casos, agrupando-os separadamente em processos relativos a expropriações, a servidões e a ocupações temporárias.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A Comissão, pela respectiva subcomissão e através da delegação e da Direcção-Geral do país afectado, no prazo do dez dias, a contar da recepção dos documentos referidos no artigo 6.º, promoverá simultâneamente:
 
@@ -321,7 +329,7 @@ No mesmo prazo de trinta dias o concessionário indicará à Direcção-Geral do
 
 Findo o prazo referido, as autoridades municipais devolverão a documentação mencionada na alínea b) às Direcções-Gerais das quais a hajam recebido, acompanhada de auto do qual conste ter sido feita a citação dos interessados e das reclamações por estes apresentadas.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 A Comissão, pela respectiva subcomissão, uma vez recebidos das Direcções-Gerais os documentos a que se refere o artigo anterior, decidirá, no prazo de trinta dias, sobre a necessidade de ocupação, promovendo-se, através das mesmas Direcções-Gerais, que seja publicada a decisão, conforme a situação dos prédios, no Diário do Governo e em periódico local, em Portugal, e no Boletim Oficial do Estado e no da província, em Espanha.
 
@@ -329,7 +337,7 @@ Quando haja que promover depósitos prévios correspondentes a quaisquer ocupaç
 
 As construções, plantações, benfeitorias, trabalhos e explorações de qualquer natureza realizadas posteriormente à data em que for publicada a declaração da necessidade de ocupação não serão tidos em conta para o cálculo das indemnizações.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Declarada a necessidade de ocupação, proceder-se-á nos seguintes termos:
 
@@ -343,7 +351,7 @@ Todos estes elementos deverão constar de auto assinado pelos dois peritos, o qu
 
 As despesas resultantes destas operações, incluindo os honorários dos peritos, serão pagas pelo concessionário.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 No caso de não haver acordo, o perito do concessionário organizará um verbete de avaliação, no qual, tendo em conta os elementos referidos no artigo anterior, indicará os motivos justificativos da importância proposta para a indemnização.
 
@@ -351,7 +359,7 @@ O proprietário, no prazo de quinze dias, aceitará ou recusará pura e simplesm
 
 Se o proprietário concordar com o verbete de avaliação proposto, a importância da indemnização será paga pelo concessionário, na forma legal.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Se a proposta não for aceite pelo proprietário, este apresentará, no prazo de quinze dias, à Direcção-Geral, que o fará seguir à delegação e à subcomissão, um verbete de avaliação, organizado pelo seu perito, no qual, tendo em conta os elementos referidos no artigo 10.º, indicará os motivos justificativos da importância que pretende para indemnização.
 
@@ -359,13 +367,13 @@ Dentro do mesmo prazo, o concessionário enviará à Direcção-Geral cópia do 
 
 Esta, no prazo de quinze dias, fixará a importância da indemnização, que, uma vez definitiva, será comunicada ao proprietário e ao concessionário, através da delegação e da Direcção-Geral, efectuando o concessionário, na Caixa Geral de Depósitos do país em que esteja situado o prédio e na respectiva moeda, o correspondente depósito à ordem da Comissão.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Serão definitivas as decisões da Comissão tomadas por unanimidade sobre as matérias da alínea a) do artigo 12.º do Convénio, e imediatamente comunicadas ao Ministério dos Negócios Estrangeiros, em Portugal, ou ao Ministério das obras Públicas, em Espanha, conforme a situação dos prédios, para os efeitos previstos na alínea c) do artigo 12.º do Convénio.
 
 No caso de não haver unanimidade, aplicar-se-á o disposto no artigo 6.º do Estatuto.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Declarada pela Comissão a necessidade da ocupação e efectuado, pelo concessionário, o correspondente pagamento ou depósito, o mesmo concessionário requererá à autoridade territorial competente a ocupação total ou parcial dos prédios expropriados, onerados com servidão ou ocupados temporàriamente.
 
@@ -373,67 +381,67 @@ Para esse efeito, lavrar-se-á um auto na presença daquela autoridade, do conce
 
 A certidão do auto será título bastante para efeitos de registo; o concessionário enviará duas cópias do mesmo auto à Direcção-Geral do país afectado e uma ao proprietário.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 O termo da ocupação temporária será notificado ao proprietário pelo concessionário, com a indicação do prazo em que procederá à desocupação e à demolição das suas instalações.
 
-## TÍTULO IV
+TÍTULO IV
 
 Da expropriação de aproveitamentos
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Serão objecto de expropriação, com carácter urgente, os aproveitamentos dos troços dos rios Minho, Lima, Tejo, Guadiana, Chança e seus afluentes que, estando já em uso ou exploração antes da data do Convénio, dificultem ou obstem à total utilização dos troços atribuídos a cada Estado pelos artigos 2.º e 3.º do citado Convénio.
 
 Nestes casos poderá prescindir-se dos trâmites da expropriação se para a aquisição daqueles aproveitamentos houver acordos livres entre os utentes e o concessionário.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 No caso de se não verificar o acordo a que se refere o artigo anterior, aplicar-se-á o processo de expropriação indicado no titulo III deste Regulamento, devendo os verbetes de avaliação ser assinados por engenheiros oficialmente reconhecidos, com a competência requerida pela legislação de cada país para o exercício desta função.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Serão de conta dos concessionário as despesas resultantes da organização dos processos e quaisquer outras necessárias para o cumprimento do presente Regulamento. Para esse efeito o concessionário fará um depósito, à ordem da Direcção-Geral, na Caixa Geral de Depósitos de cada país, na moeda respectiva.
 
 A subcomissão, em cada caso, determinará que despesas devem ser efectuadas por conta deste depósito.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 As disposições deste Regulamento serão modificadas por proposta da Comissão ou da subcomissão, sendo submetidas à aprovação dos dois Governos as alterações acordados.
 
 Regulamento para a Informação dos Projectos de Execução das Obras dos Aproveitamentos Hidráulicos dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e das Modificações que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Os projectos dos aproveitamentos hidráulicos dos troços internacionais dos rios Minho, Lima, Tejo, Guadiana, Chança e seus afluentes, além dos trâmites oficiais que tenham de seguir no Estado outorgante da respectiva concessão, serão, nos termos da alínea b) do artigo 19.º do Convénio para regular o uso e o aproveitamento hidráulico daqueles troços internacionais, submetidos a consulta da Comissão Internacional criada pelo mesmo Convénio.
 
 A apreciação dos projectos correrá normalmente pela subcomissão referida na alínea b) do artigo 13.º do Estatuto de Funcionamento da Comissão, a qual, nos termos do artigo 7.º do mesmo Estatuto, poderá actuar separadamente por intermédio das respectivas delegações de cada país na subcomissão.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Os projectos dos aproveitamentos dos troços internacionais mencionados no artigo anterior compreenderão as peças escritas e desenhadas exigidas pelos organismos oficiais do Estado outorgante da concessão, com os pormenores necessários à sua perfeita compreensão.
 
 As condições técnicas especiais a que deverão sujeitar-se os referidos projectos serão estabelecidas pela subcomissão.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O organismo oficial do Estado outorgante da concessão, pelo qual correm os trâmites dos projectos, remeterá dois exemplares de cada projecto, com a sua correspondente informação, à delegação do respectivo país na Comissão, a fim de que esta Comissão dê o seu parecer por intermédio da correspondente subcomissão. A remessa será feita no prazo de sessenta dias, a contar da data da recepção do projecto.
 
 Um dos exemplares do projecto ficará em poder daquela delegação e o segundo exemplar será por ela remetido à delegação do outro país, a qual acusará seguidamente a recepção. Ambas as delegações enviarão os exemplares recebidos às respectivas delegações da subcomissão.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O parecer que a Comissão apresentará aos Governos relativamente aos projectos que sejam submetidos à sua apreciação incidirá especialmente sobre as particularidades técnicas desses projectos relacionadas com a segurança das obras e sobre os prejuízos que a realização dos aproveitamentos concedidos por um Estado possa causar aos aproveitamentos e interesses do outro Estado.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 A delegação da subcomissão do país consultado, se elaborar perecer pura e simplesmente aprovativo, enviará no prazo de trinta dias, contado a partir da data da recepção do projecto, cópia do parecer à delegação da subcomissão do outro país. Acusada a recepção sem quaisquer reservas, considerar-se-á concluído o processo informativo e estabelecido o perecer da subcomissão, do qual será, pela Comissão, dado imediato conhecimento aos dois Governos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Se a delegação da subcomissão do país consultado encontrar no projecto matéria ou motivo para o mesmo ser rejeitado ou sujeito à imposição de determinadas condições, indicará expressamente, em nota de comunicação que enviará à outra delegação da subcomissão, no prazo de sessenta dias, contado como anteriormente, as matérias ou motivos que provocaram o seu parecer.
 
@@ -441,65 +449,65 @@ Nessa nota proporá as condições que julgue deverem ser impostas para a aprova
 
 Se esta última proposta for aceite, será elaborado um parecer de concordância, seguindo-se os trâmites constantes do artigo 5.º deste Regulamento.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Se em funcionamento separado das delegações da subcomissão não for obtido parecer concordante sobre o projecto, a subcomissão reunir-se-á, no prazo de trinta dias, no país ao qual corresponde a celebração da reunião, a fim de tentar acordo sobre a matéria. Uma vez conseguido, esse acordo constituirá o parecer da Comissão, do qual será dado imediato conhecimento aos dois Governos.
 
 No caso de não se obter acordo na subcomissão, os motivos da discrepância e os pontos de vista das respectivas delegações serão submetidos ao exame do plenário da Comissão, o qual deverá reunir dentro dos trinta dias seguintes, com o fim de procurar chegar a acordo ou de resolver a divergência, nos termos do disposto nos artigos 22.º e 23.º do Convénio.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Serão de conta dos concessionários as despesas resultantes da organização dos processos e quaisquer outras necessárias para o cumprimento do presente Regulamento. Para esse efeito o concessionário fará um depósito, à ordem da Comissão, na Caixa Geral de Depósitos de cada país, na moeda respectiva.
 
 A subcomissão, em cada caso, determinará que despesas devem ser efectuadas por conta deste depósito.
 
-## Anexo I ao Regulamento para a Informação dos Projectos
+Anexo I ao Regulamento para a Informação dos Projectos
 
 Condições Técnicas Especiais a que Deverão Obedecer os Projectos das Obras dos Aproveitamentos Hidráulicos dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e das Modificações que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As instalações destinadas ao aproveitamento hidráulico dos troços internacionais dos rios Minho, Lima, Tejo, Guadiana, Chança o seus afluentes, tais como tomadas de água, condutas de todas as espécies, centrais produtoras de energia, subestações e linhas de transporte, assim como as correspondentes instalações auxiliares, ficarão situadas no território nacional do Estado a que pertença o aproveitamento, sem ultrapassarem o limite fronteiriço constituído pelo eixo do rio.
 
 Excepcionalmente, e quando as circunstâncias o exijam, as tomadas de água centrais e suas restituições poderão ultrapassar o eixo do rio, sem que isto obrigue à constituição de servidões permanentes de passagem através do território do outro Estado, distintas das zonas de servidão a que se refere o artigo 16.º do Convénio.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As barragens, os descarregadores de cheias e quaisquer outras descargas incorporadas nas barragens, assim como as respectivas obras de dissipação de energia, poderão ocupar o leito e as margens do rio, qualquer que seja a soberania do território em que estejam situados.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 As obras principais ou complementares de descarga das albufeiras e as correspondentes obras acessórias poderão ficar situadas no território do outro Estado, desde que a necessidade dessa localização seja justificada nos projectos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 As obras de derivação provisória e as necessidades à instalação de meios auxiliares de construção não carecem de justificação especial nos projectos para ocupação de território do outro Estado.
 
 Os projectos devem estabelecer os princípios gerais a que obedecerá a desmontagem e demolição dos meios auxiliares de construção e a reposição em condições satisfatórias dos terrenos em que se realizarem as obras.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 As obras dos aproveitamentos de cada troço não poderão ultrapassar os limites fixados ao mesmo troço, de harmonia com a delimitação efectuada nos termos do Convénio.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 As albufeiras deverão ser providas de órgãos de descarga que, em quaisquer condições, garantam que a cota de retenção não excederá a da origem do troço.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Os descarregadores de chefias das albufeiras serão estudados de maneira que em nenhum caso a curva de regolfo ultrapasse a cota natural da cheia na origem do troço, com tolerância calculada de 1 por cento da altura natural da mesma cheia.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Sem prejuízo do disposto no artigo anterior e mediante os necessários estudos das curvas de regolfo, poderá prever-se nos projectos a utilização parcial das folgas das barragens e a correlativa sobreelevação das cotas de retenção das albufeiras, para efeito de se atingir a capacidade máxima dos descarregadores de cheias.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Os projectos devem ter em conta a conjugação da exploração dos aproveitamentos dos troços internacionais com a de outros aproveitamentos por eles influenciados a jusante, de modo que nestes últimos se não verifiquem perdas de energia por descarregamento de caudais fora dos períodos de cheia natural.
 
 Regulamento do Pagamento de Despesas da Comissão Internacional Luso-Espanhola para Regular o Uso e Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Os membros das delegações portuguesa e espanhola, nas deslocações em serviço da Comissão, terão direito a viagens e ajudas de custo, nos termos das disposições sobre a matéria vigentes nos respectivos países.
 
@@ -507,19 +515,19 @@ Cada Governo, de harmonia com o preceituado no artigo 17.º do Convénio para Re
 
 A empresa ou empresas concessionárias reembolsarão as entidades competentes das importâncias despendidas, em conformidade com as comunicações que lhes serão dirigidas por cada uma das delegações.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A empresa ou empresas concessionárias do aproveitamento hidráulico de cada troço, poderão ser notificadas pela respectiva delegação para efectuar depósitos, à ordem da Comissão, na Caixa Geral de Depósitos, em Lisboa, e no Banco de Espanha, em Madrid, para adiantamento de abonos para viagens e ajudas de custo referidas no artigo anterior.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Os membros de cada delegação deverão prestar contas à mesma, sempre que possível documentadas, das importâncias que lhes tenham sido adiantadas como abonos para viagens e para ajudas de custo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Cada uma das delegações enviará às respectivas empresas concessionárias relação das despesas efectuadas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Pelos concessionários dos aproveitamentos dos troços internacionais serão feitos na Caixa Geral de Depósitos, em Lisboa, ou no Banco de Espanha, em Madrid, à ordem da Comissão ou das Direcções-Gerais, os depósitos destinados a ocorrer às despesas relacionadas com o aproveitamento daqueles troços, respeitantes:
 
@@ -533,23 +541,23 @@ d) Ao exercício da polícia das águas nos troços internacionais que lhes haja
 
 e) A qualquer outro pagamento que cada uma das delegações entenda dever ser efectuado por conta destes depósitos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Os honorários dos peritos referidas na alínea a) do artigo 5.º serão pagos pela delegação do Estado de que os mesmos forem nacionais e na moeda respectiva.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As empresas concessionárias poderão pagar directamente serviços prestados por particulares relacionados com as operações mencionadas na alínea a) do artigo 5.º
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Os depósitos referidos nos artigos 2.º e 5.º poderão ser movimentados por cheque, assinado pelo secretário e por qualquer dos vogais da delegação do país a que pertence o estabelecimento depositário, autenticado com o selo branco da mesma delegação. Quando feitos à ordem das Direcções-Gerais, serão movimentados de acordo com as normas que nelas vigorem para o efeito.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Cada uma das delegações, no fim de cada ano económico, remeterá à outra um resumo da movimentação dos depósitos efectuados pelos concessionários do outro país, com indicação da natureza e montante das despesas realizadas, e enviará, sempre que for possível, os documentos comprovativos dos gastos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Os depósitos efectuados serão reforçados sempre que uma delegação comunique ao concessionário do respectivo Estado, ou ao do outro Estado, por intermédio da outra delegação, qual o montante que deverá ser lançado na respectiva conta.
 
@@ -677,4 +685,4 @@ Representantes dos Ministérios das Obras Públicas;
 
 Representantes dos concessionários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/11300/07280744.pdf))](https://files.diariodarepublica.pt/1s/1971/05/11300/07280744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/11300/07280744.pdf)

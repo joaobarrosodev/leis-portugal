@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 275/1969, 1º Suplemento, Série I de 1969-11-24
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1669 - 1670
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27501/16691670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49406-1969-176287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 849e19143f3900edeb1b9c359af73c539758555e10208da6d057ca0fa7f10c5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a03ccac20460c2f87ca8b80ff4633b24738ba4181963c5681282cd89ce74df67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Definição de Competências
+- Formas de Provimento
+- Ministro da Educação Nacional
+- Pessoal Docente
+- Pessoal Eventual
 relationships:
 - type: amended_by
   target: pt:dre:633317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:512977:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633317:por
+  label: "Revogado, a partir de 26.10.1971, pelo DEC LEI.437/71.21.10.1971.MEN, DG.IS [248] de 21.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/437-1971-633317
+  date: '1971-10-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:52Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +110,14 @@ Considerando que dentro de tal orientação é necessário dotar as escolas do m
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. A redacção do artigo 13.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960, passa a ser a seguinte:
+Artigo único. A redacção do artigo 13.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960, passa a ser a seguinte:
 
-###### Art. 13.º Quando o número total de alunos de cada escola obrigue à constituição de mais de quatro turmas, poderá o Ministro da Educação Nacional nomear, a título eventual, um professor por cada turma que funcione além daquelas quatro.
+Art. 13.º Quando o número total de alunos de cada escola obrigue à constituição de mais de quatro turmas, poderá o Ministro da Educação Nacional nomear, a título eventual, um professor por cada turma que funcione além daquelas quatro.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Hermano Saraiva.
 
-**Promulgado em 19 de Novembro de 1969.**
+Promulgado em 19 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

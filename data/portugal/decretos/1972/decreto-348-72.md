@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,153 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17e324b3f0defae21fdba3ece0a391e67c758facb25168d7b3a6b4892461404c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3d9f5b1042789fb7f5d2e7cffb19947746c1609481119e9361048db6371dd2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificação Profissional
+- Definição de Competências
+- Direcção Geral dos Serviços de Fomento Marítimo
+- Ensino Náutico
+- Escola Náutica Infante Dom Henrique
+- Marinha Mercante
+- Ministério da Marinha
+- Regulamento
+- Sanção Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:322509:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:413209:por
+  label: "Alterados os artigos 65.º, 66.º, 67.º, 68.º, o n.º 1 do artigo 80.º, o n.º 3 do artigo 90.º o artigo 92.º, aditado\
+    \ o artigo 97.º, substituídos os anexos D, E e G a N, os n.ºs 3 e 5 do anexo Q do Regulamento, pelo DEC.515/73.11.10.1973.MMAR,\
+    \ DG.IS [238] de 11.10.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/515-1973-413209
+  date: '1973-10-11'
+- type: amended_by
+  target: pt:dre:314889:por
+  label: Alterado o anexo C pelo(a) Portaria n.º 523/75 - Diário do Governo n.º 197/1975, Série I de 1975-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/523-1975-314889
+  date: '1975-08-27'
+- type: amended_by
+  target: pt:dre:307396:por
+  label: Alterados, com efeitos a 04.11.74, os anexos D, G, H, I, J, L, M e N e anexos B, E e F do Regulamento da Escola Náutica
+    Infante D. Henrique, aprovado e posto em execução pelo presente Decreto, pelo(a) Portaria n.º 553/75 - Diário do Governo
+    n.º 213/1975, Série I de 1975-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-1975-307396
+  date: '1975-09-15'
+- type: amended_by
+  target: pt:dre:311178:por
+  label: "Alterados os artigos 43.º, 45.º, 46.º e 49.º, o anexo Q e suprimidos os artigos 44.º e o n.º 2 do artigo 48.º, pelo\
+    \ PORT.749/75.16.12.1975.MTC, DG.IS [289] de 16.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/749-1975-311178
+  date: '1975-12-16'
+- type: amended_by
+  target: pt:dre:252023:por
+  label: "Substituídos os anexos C, D, F, H, I, J, L, M, N e P do Regulamento, pela PORT.280/77.20.05.1977.MTC, DR.IS [117]\
+    \ de 20.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-1977-252023
+  date: '1977-05-20'
+- type: amended_by
+  target: pt:dre:297008:por
+  label: Substituidos pelos anexos I e II, os anexos C e Q do Regulamento da Escola Náutica Infante D. Henrique pelo(a) Portaria
+    n.º 421/78 - Diário da República n.º 171/1978, Série I de 1978-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/421-1978-297008
+  date: '1978-07-27'
+- type: amended_by
+  target: pt:dre:370008:por
+  label: "Alterado o art. 50.º e aditado o anexo S ao Regulamento aprovado pelo presente diploma pela PORT.502/79.14.09.1979.MTC,\
+    \ DR.IS [213] de 14.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/502-1979-370008
+  date: '1979-09-14'
+- type: amended_by
+  target: pt:dre:365133:por
+  label: Substituídos os anexos C e Q, e aditado um anexo T ao Regulamento pela PORT.532/79.04.10.1979.MTC, DR.IS [230] de
+    04.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-1979-365133
+  date: '1979-10-04'
+- type: amended_by
+  target: pt:dre:678868:por
+  label: "Alterado o artigo 77.º e aditados os n.os 3, 4 e 5 ao artigo 80.º do Regulamento, pela PORT.81/80.01.03.1980.MTC,\
+    \ DR.IS [51] de 01.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-1980-678868
+  date: '1980-03-01'
+- type: amended_by
+  target: pt:dre:577096:por
+  label: "Alterado o n.º 4 do artigo 88.º do Regulamento, e substituído o anexo Q do referido Regulamento, ou seja o anexo\
+    \ II na forma e redacção dada na Portaria n.º 532/79, de 4 de Outubro, pela PORT.675/81.06.08.1981.MCT, DR.IS [179] de\
+    \ 06.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/675-1981-577096
+  date: '1981-08-06'
+- type: amended_by
+  target: pt:dre:395511:por
+  label: "Substituido o anexo Q pela PORT.649/82.1982.06.29.MHOPT, DR.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1982-395511
+  date: '1982-06-29'
+- type: amended_by
+  target: pt:dre:401063:por
+  label: "Dada nova redacção ao n.º 20 da parte V do anexo Q do Regulamento aprovado pelo presente diploma, substituído pela\
+    \ Port 649/82, de 29-Jun, pela PORT.875/84.24.11.1984.MM, DR.IS [273] de 24.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/875-1984-401063
+  date: '1984-11-24'
+- type: amended_by
+  target: pt:dre:180667:por
+  label: "Substituído o anexo Q do Regulamento aprovado pelo presente diploma, na redacção dada pela Port 649/82, de 29-Jun,\
+    \ pela PORT.619/85.19.08.1985.MM, DR.IS [189] de 19.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-1985-180667
+  date: '1985-08-19'
+- type: cites
+  target: pt:dre:200261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513799:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322509:por
+  label: "Revogado pelo DEC LEI.458-A/85.31.10.1985.MM, DR.IS [251]Supl de 31.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-a-1985-322509
+  date: '1985-10-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:35Z'
   warnings: []
   errors: []
 ---
@@ -108,33 +221,33 @@ Nestes termos, tendo em conta o disposto no n.º 3 do artigo 24.º do [Decreto-L
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único - 1. A actual Escola Náutica passa a designar-se por Escola Náutica do Infante D. Henrique.
+Artigo único - 1. A actual Escola Náutica passa a designar-se por Escola Náutica do Infante D. Henrique.
 
 2. É aprovado e posto em execução o Regulamento da Escola Náutica do Infante D. Henrique, que faz parte integrante deste decreto.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 24 de Agosto de 1972.**
+Promulgado em 24 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DA ESCOLA NÁUTICA DO INFANTE D. HENRIQUE
 
 ### CAPÍTULO I — Missão
 
-###### Artigo 1.º - 1. A Escola Náutica do Infante D. Henrique é um estabelecimento de ensino do Ministério da Marinha que tem por fim ministrar os conhecimentos necessários ao desempenho das funções de capitães e outros oficiais de pilotagem, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.
+Artigo 1.º - 1. A Escola Náutica do Infante D. Henrique é um estabelecimento de ensino do Ministério da Marinha que tem por fim ministrar os conhecimentos necessários ao desempenho das funções de capitães e outros oficiais de pilotagem, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.
 
 2. A Escola Náutica funciona na dependência do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 2.º Para além da sua missão principal, definida no artigo anterior, na Escola poderão funcionar outros cursos, para facilitar o ingresso dos alunos nos cursos de oficiais, para especializar os oficiais em determinadas técnicas ou equipamentos, para permitir o exercício de funções polivalentes ou para divulgar conhecimentos técnicos e científicos relativos às diversas actividades marítimas.
+Art. 2.º Para além da sua missão principal, definida no artigo anterior, na Escola poderão funcionar outros cursos, para facilitar o ingresso dos alunos nos cursos de oficiais, para especializar os oficiais em determinadas técnicas ou equipamentos, para permitir o exercício de funções polivalentes ou para divulgar conhecimentos técnicos e científicos relativos às diversas actividades marítimas.
 
 ### CAPÍTULO II — Organização da Escola
 
 #### SECÇÃO I — Organização geral
 
-###### Art. 3.º A Escola Náutica compreende:
+Art. 3.º A Escola Náutica compreende:
 
 a) Director;
 
@@ -154,9 +267,9 @@ h) Biblioteca.
 
 #### SECÇÃO II — Director
 
-###### Art. 4.º O director da Escola Náutica é um oficial general da Armada do quadro da reserva ou um oficial superior da Armada dos quadros do activo ou da reserva, nomeado pelo Ministro da Marinha, mediante proposta do director-geral dos Serviços de Fomento Marítimo.
+Art. 4.º O director da Escola Náutica é um oficial general da Armada do quadro da reserva ou um oficial superior da Armada dos quadros do activo ou da reserva, nomeado pelo Ministro da Marinha, mediante proposta do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 5.º - 1. O director, como primeiro responsável pela forma como a Escola desempenha a sua missão, dirige as suas actividades, competindo-lhe velar pela formação intelectual, técnica, moral e física dos alunos, pelo rendimento dos serviços, pela disciplina e pelo cumprimento das disposições legais e determinações superiores
+Art. 5.º - 1. O director, como primeiro responsável pela forma como a Escola desempenha a sua missão, dirige as suas actividades, competindo-lhe velar pela formação intelectual, técnica, moral e física dos alunos, pelo rendimento dos serviços, pela disciplina e pelo cumprimento das disposições legais e determinações superiores
 
 2. Ao director compete mais:
 
@@ -176,7 +289,7 @@ f) Assinar as cartas e certificados de curso.
 
 #### SECÇÃO III — Subdirector
 
-###### Art. 6.º - 1. O subdirector auxilia o director no desempenho das funções que este determinar, competindo-lhe, especialmente:
+Art. 6.º - 1. O subdirector auxilia o director no desempenho das funções que este determinar, competindo-lhe, especialmente:
 
 a) Promover o cumprimento das determinações do director;
 
@@ -196,15 +309,15 @@ e) Exercer a competência disciplinar que lhe for delegada pelo director.
 
 #### SECÇÃO IV — Conselho escolar
 
-###### Art. 7.º O conselho escolar é um órgão de estudo e de consulta do director para assuntos de carácter pedagógico.
+Art. 7.º O conselho escolar é um órgão de estudo e de consulta do director para assuntos de carácter pedagógico.
 
-###### Art. 8.º - 1. O conselho escolar é presidido pelo director e constituído pelo subdirector, pelo director da instrução, pelos professores e pelo secretário da Escola, que servirá de secretário do conselho.
+Art. 8.º - 1. O conselho escolar é presidido pelo director e constituído pelo subdirector, pelo director da instrução, pelos professores e pelo secretário da Escola, que servirá de secretário do conselho.
 
 2. Sempre que o director o entender, poderão fazer parte do conselho, como vogais, os instrutores.
 
 3. No impedimento do director assumirá a presidência o subdirector.
 
-###### Art. 9.º Ao conselho escolar compete:
+Art. 9.º Ao conselho escolar compete:
 
 a) Apreciar os projectos dos planos dos cursos, os programas das disciplinas e instruções e as suas alterações;
 
@@ -216,13 +329,13 @@ d) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam apresentados pelo
 
 e) Propor os professores a que se refere o artigo 92.º
 
-###### Art. 10.º - 1. A convocação do conselho escolar é da competência do director da Escola.
+Art. 10.º - 1. A convocação do conselho escolar é da competência do director da Escola.
 
 2. Na convocação do conselho escolar devem indicar-se os assuntos a tratar em cada sessão.
 
 3. Por cada sessão do conselho escolar será lavrada acta em livro próprio.
 
-###### Art. 11.º O director convocará obrigatòriamente o conselho escolar nas seguintes circunstâncias:
+Art. 11.º O director convocará obrigatòriamente o conselho escolar nas seguintes circunstâncias:
 
 a) Antes do início de cada ano lectivo, para apreciação da forma como decorreu o ensino no ano lectivo anterior e estudo das actividades escolares previstas para o novo ano;
 
@@ -232,9 +345,9 @@ b) Para apreciação de alterações nos planos dos cursos.
 
 ##### SUBSECÇÃO I — Estrutura e funções
 
-###### Art. 12.º A direcção da instrução é responsável perante o director pelo ensino ministrado na Escola.
+Art. 12.º A direcção da instrução é responsável perante o director pelo ensino ministrado na Escola.
 
-###### Art. 13.º A direcção da instrução compreende:
+Art. 13.º A direcção da instrução compreende:
 
 a) Director da instrução;
 
@@ -242,7 +355,7 @@ b) Gabinetes de formação escolar.
 
 ##### SUBSECÇÃO II — Director da instrução
 
-###### Art. 14.º O director da instrução é responsável perante o director da Escola pela orientação e coordenação do ensino, competindo-lhe especialmente:
+Art. 14.º O director da instrução é responsável perante o director da Escola pela orientação e coordenação do ensino, competindo-lhe especialmente:
 
 a) Propor medidas tendentes a melhorar o ensino;
 
@@ -260,7 +373,7 @@ g) Sancionar os planos de repetições e demais provas escritas e organizar o se
 
 h) Presidir ao júri das provas de aptidão cultural de admissão de alunos.
 
-###### Art. 15.º - 1. As funções de director da instrução são desempenhadas por um oficial superior da Armada.
+Art. 15.º - 1. As funções de director da instrução são desempenhadas por um oficial superior da Armada.
 
 2. O director da instrução é nomeado pelo Ministro da Marinha, mediante proposta do director da Escola.
 
@@ -268,7 +381,7 @@ h) Presidir ao júri das provas de aptidão cultural de admissão de alunos.
 
 ##### SUBSECÇÃO III — Gabinetes de formação escolar
 
-###### Art. 16.º - 1. Aos gabinetes de formação escolar compete o estudo, coordenação e a orientação do ensino científico de base e da formação profissional dos alunos, no sentido de se conseguir um melhor rendimento da instrução.
+Art. 16.º - 1. Aos gabinetes de formação escolar compete o estudo, coordenação e a orientação do ensino científico de base e da formação profissional dos alunos, no sentido de se conseguir um melhor rendimento da instrução.
 
 2. Os gabinetes de formação escolar são os seguintes:
 
@@ -284,27 +397,27 @@ e) Gabinete de comissariado.
 
 3. Os gabinetes a que respeitam os números anteriores dependem directamente do director da instrução, perante o qual são responsáveis pelas tarefas que lhes estiverem atribuídas.
 
-###### Art. 17.º - 1. Os gabinetes de formação escolar referidos no artigo anterior são chefiados pelos professores designados pelo director da Escola.
+Art. 17.º - 1. Os gabinetes de formação escolar referidos no artigo anterior são chefiados pelos professores designados pelo director da Escola.
 
 2. O gabinete académico é chefiado pelo professor mais antigo no exercício de funções docentes de natureza académica.
 
-###### Art. 18.º Ao gabinete académico compete especialmente o estudo, a coordenação e a orientação do ensino das matérias científicas de base necessárias à aprendizagem das matérias de formação profissional próprias dos cursos de oficiais e de todas as matérias ministradas no curso preparatório.
+Art. 18.º Ao gabinete académico compete especialmente o estudo, a coordenação e a orientação do ensino das matérias científicas de base necessárias à aprendizagem das matérias de formação profissional próprias dos cursos de oficiais e de todas as matérias ministradas no curso preparatório.
 
-###### Art. 19.º Ao gabinete de pilotagem compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da função dos oficiais de pilotagem, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita à navegação e à exploração dos navios de comércio.
+Art. 19.º Ao gabinete de pilotagem compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da função dos oficiais de pilotagem, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita à navegação e à exploração dos navios de comércio.
 
-###### Art. 20.º Ao gabinete de máquinas marítimas compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da formação dos oficiais maquinistas, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita a novos e modernos equipamentos de propulsão e auxiliares dos navios mercantes.
+Art. 20.º Ao gabinete de máquinas marítimas compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da formação dos oficiais maquinistas, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita a novos e modernos equipamentos de propulsão e auxiliares dos navios mercantes.
 
-###### Art. 21.º Ao gabinete de radiotecnia compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da formação dos oficiais radiotelegrafistas, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita a novos e modernos equipamentos de radiocomunicações e de ajudas à navegação dos navios mercantes.
+Art. 21.º Ao gabinete de radiotecnia compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da formação dos oficiais radiotelegrafistas, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita a novos e modernos equipamentos de radiocomunicações e de ajudas à navegação dos navios mercantes.
 
-###### Art. 22.º Ao gabinete de comissariado compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da formação dos oficiais de comissariado, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita à administração do pessoal tripulante, abastecimento dos navios e sua exploração em carreiras normais e em viagens turísticas.
+Art. 22.º Ao gabinete de comissariado compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnica próprias da formação dos oficiais de comissariado, com vista a uma permanente actualização dos conhecimentos indispensáveis às funções que cabem àqueles oficiais, com especial relevância no que respeita à administração do pessoal tripulante, abastecimento dos navios e sua exploração em carreiras normais e em viagens turísticas.
 
-###### Art. 23.º - 1. Cada gabinete de formação escolar dispõe do pessoal necessário para colaborar na instrução e para assegurar a conservação e manutenção dos respectivos equipamentos e outro material escolar permanentemente atribuído às disciplinas e instruções próprias de cada curso.
+Art. 23.º - 1. Cada gabinete de formação escolar dispõe do pessoal necessário para colaborar na instrução e para assegurar a conservação e manutenção dos respectivos equipamentos e outro material escolar permanentemente atribuído às disciplinas e instruções próprias de cada curso.
 
 2. Os gabinetes têm a seu cargo as instalações escolares directamente atribuídas aos respectivos cursos.
 
-###### Art. 24.º Os serviços da Escola darão aos vários gabinetes de formação escolar a colaboração necessária para efeitos de manutenção, conservação e limpeza dos compartimentos a seu cargo.
+Art. 24.º Os serviços da Escola darão aos vários gabinetes de formação escolar a colaboração necessária para efeitos de manutenção, conservação e limpeza dos compartimentos a seu cargo.
 
-###### Art. 25.º Compete especialmente aos chefes dos gabinetes de formação escolar:
+Art. 25.º Compete especialmente aos chefes dos gabinetes de formação escolar:
 
 a) Coordenar o trabalho dos diversos elementos do respectivo gabinete com vista à realização da sua missão;
 
@@ -316,7 +429,7 @@ d) Dar parecer acerca das publicações a utilizar em cada disciplina ou instru�
 
 e) Propor a aquisição ou reparação do material escolar especialmente necessário às disciplinas e instruções, no âmbito do seu gabinete.
 
-###### Art. 26.º - 1. No que se refere aos cursos de aperfeiçoamento e aos cursos de estudos marítimos poderão ser criados, por portaria do Ministro da Marinha, gabinetes de formação escolar, se a experiência recomendar tal procedimento.
+Art. 26.º - 1. No que se refere aos cursos de aperfeiçoamento e aos cursos de estudos marítimos poderão ser criados, por portaria do Ministro da Marinha, gabinetes de formação escolar, se a experiência recomendar tal procedimento.
 
 2. Enquanto não forem criados os gabinetes referidos no número anterior, as funções que lhes pertenceriam serão exercidas pelo director da instrução.
 
@@ -324,7 +437,7 @@ e) Propor a aquisição ou reparação do material escolar especialmente necess�
 
 ##### SUBSECÇÃO I — Professores, instrutores e auxiliares de instrução
 
-###### Art. 27.º - 1. O corpo docente da Escola Náutica, da nomeação do Ministro da Marinha, mediante proposta do director da Escola, compõe-se de professores e instrutores.
+Art. 27.º - 1. O corpo docente da Escola Náutica, da nomeação do Ministro da Marinha, mediante proposta do director da Escola, compõe-se de professores e instrutores.
 
 2. Para desempenhar as funções de professores e instrutores da Escola Náutica podem ser escolhidos:
 
@@ -334,27 +447,27 @@ b) Oficiais da marinha mercante habilitados com o curso complementar;
 
 c) Outros civis diplomados com curso superior adequado.
 
-###### Art. 28.º - 1. Mediante proposta do director da Escola ao Ministro da Marinha, ou por decisão do Ministro, a nomeação de professores ou instrutores pode ser precedida de concurso documental com possibilidade de prestação de provas públicas.
+Art. 28.º - 1. Mediante proposta do director da Escola ao Ministro da Marinha, ou por decisão do Ministro, a nomeação de professores ou instrutores pode ser precedida de concurso documental com possibilidade de prestação de provas públicas.
 
 2. Os concursos a que se refere o número anterior serão realizados de acordo com normas a estabelecer por despacho do Ministro da Marinha, tendo em conta o que em tal matéria esteja estabelecido para os concursos para professores e instrutores da Escola Naval.
 
-###### Art. 29.º - 1. No desempenho das suas funções os professores e instrutores são coadjuvados pelos auxiliares da instrução, que são sargentos ou praças da Armada.
+Art. 29.º - 1. No desempenho das suas funções os professores e instrutores são coadjuvados pelos auxiliares da instrução, que são sargentos ou praças da Armada.
 
 2. Por despacho do Ministro da Marinha, baseado em proposta do director da Escola, os auxiliares da instrução podem ser designados para darem aulas de instruções, sob a orientação do respectivo instrutor.
 
-###### Art. 30.º As remunerações e gratificações dos professores, instrutores e auxiliares da instrução são estabelecidas em diploma próprio.
+Art. 30.º As remunerações e gratificações dos professores, instrutores e auxiliares da instrução são estabelecidas em diploma próprio.
 
 ##### SUBSECÇÃO II — Atribuições dos professores e dos instrutores
 
-###### Art. 31.º - 1. Compete de um modo geral aos professores e instrutores contribuir pelos meios ao seu alcance para a formação profissional dos alunos e para a sua valorização como cidadãos.
+Art. 31.º - 1. Compete de um modo geral aos professores e instrutores contribuir pelos meios ao seu alcance para a formação profissional dos alunos e para a sua valorização como cidadãos.
 
 2. Os professores e instrutores são responsáveis pela manutenção da disciplina e pelo exacto cumprimento das disposições regulamentares, no âmbito das suas actividades.
 
-###### Art. 32.º - 1. Compete aos professores ministrar o ensino das matérias relativas às disciplinas que lhes estiverem confiadas por meio de aulas teóricas, aulas práticas e, eventualmente, por visitas de estudo.
+Art. 32.º - 1. Compete aos professores ministrar o ensino das matérias relativas às disciplinas que lhes estiverem confiadas por meio de aulas teóricas, aulas práticas e, eventualmente, por visitas de estudo.
 
 2. Compete especialmente aos instrutores o ensino das matérias relativas às respectivas instruções por meio de aulas práticas, visitas de estudo e, quando necessário, por meio de aulas teóricas.
 
-###### Art. 33.º Compete a todos os professores e instrutores:
+Art. 33.º Compete a todos os professores e instrutores:
 
 a) Dar a melhor colaboração às actividades do seu gabinete de formação;
 
@@ -390,7 +503,7 @@ q) Desempenhar, em acumulação, os cargos de chefes ou de adjuntos dos chefes d
 
 r) Desempenhar as tarefas que lhes forem atribuídas para as finalidades de que trata o artigo 2.º
 
-###### Art. 34.º Aos auxiliares da instrução compete:
+Art. 34.º Aos auxiliares da instrução compete:
 
 a) Ministrar o ensino das matérias das respectivas disciplinas por meio de aulas práticas, sob a direcção e orientação do professor respectivo;
 
@@ -412,7 +525,7 @@ i) Desempenhar outras funções, em regime de acumulação, dentro da Escola, no
 
 #### SECÇÃO VII — Serviços
 
-###### Art. 35.º - 1. O serviços compreendem:
+Art. 35.º - 1. O serviços compreendem:
 
 a) Serviços gerais;
 
@@ -434,9 +547,9 @@ c) Saúde.
 
 4. Sempre que se torne necessário fixar atribuições especiais para os serviços da Escola, elas serão objecto de despacho do Ministro da Marinha.
 
-###### Art. 36.º Os serviços gerais e os serviços técnicos destinam-se ao desempenho das actividades que, na parte aplicável à Escola, são as que se acham consignadas na legislação do Ministério da Marinha.
+Art. 36.º Os serviços gerais e os serviços técnicos destinam-se ao desempenho das actividades que, na parte aplicável à Escola, são as que se acham consignadas na legislação do Ministério da Marinha.
 
-###### Art. 37.º - 1. O serviço de publicações escolares destina-se especialmente a:
+Art. 37.º - 1. O serviço de publicações escolares destina-se especialmente a:
 
 a) Editar ou promover a aquisição dos livros e outro material escolar destinado a ser utilizado pelos alunos nas condições que forem estabelecidas pela direcção da Escola;
 
@@ -456,7 +569,7 @@ g) Imprimir quaisquer trabalhos que lhe sejam determinados ou requisitados.
 
 3. O serviço de publicações escolares dispõe de instalações apropriadas às suas actividades e de pessoal próprio para a execução dos trabalhos que lhe forem ordenados.
 
-###### Art. 38.º - 1. O serviço de ajudas áudio-visuais tem especialmente a seu cargo:
+Art. 38.º - 1. O serviço de ajudas áudio-visuais tem especialmente a seu cargo:
 
 a) Manter-se ao corrente da evolução dos diversos tipos de ajudas áudio-visuais e promover a divulgação desses conhecimentos entre os professores e instrutores;
 
@@ -470,7 +583,7 @@ d) Promover a reparação das ajudas áudio-visuais.
 
 #### SECÇÃO VIII — Secretaria
 
-###### Art. 39.º - 1. A secretaria destina-se a assegurar a execução de todo o expediente referente às actividades da Escola, incumbindo-lhe, nomeadamente, a recepção, registo. encaminhamento, expedição e arquivo da correspondência e outra documentação relativa a essas actividades.
+Art. 39.º - 1. A secretaria destina-se a assegurar a execução de todo o expediente referente às actividades da Escola, incumbindo-lhe, nomeadamente, a recepção, registo. encaminhamento, expedição e arquivo da correspondência e outra documentação relativa a essas actividades.
 
 2. A secretaria compreende duas secções, cabendo à primeira o expediente da direcção e da administração-geral da Escola e à segunda o que respeita à actividade escolar.
 
@@ -494,11 +607,11 @@ h) Do cadastro devidamente actualizado de todo o pessoal da Escola, cuidando da 
 
 i) De registo de classificações e faltas escolares.
 
-###### Art. 40.º - 1. A secretaria é chefiada por um oficial superior da classe de administração naval, designado por secretário da Escola Náutica.
+Art. 40.º - 1. A secretaria é chefiada por um oficial superior da classe de administração naval, designado por secretário da Escola Náutica.
 
 2. Para execução dos serviços que lhe incumbem disporá a secretaria de instalações próprias e de pessoal civil ou militar de acordo com a lotação que for legalmente fixada.
 
-###### Art. 41.º - 1. Compete especialmente ao secretário:
+Art. 41.º - 1. Compete especialmente ao secretário:
 
 a) Dirigir a secretaria da Escola;
 
@@ -512,7 +625,7 @@ d) Desempenhar, em acumulação, as funções de chefe do serviço de abastecime
 
 #### SECÇÃO IX — Biblioteca
 
-###### Art. 42.º - 1. A biblioteca tem por fim facilitar aos alunos, professores e instrutores os livros, publicações periódicas e outras espécies bibliográficas destinadas a ampliar a sua cultura geral e profissional.
+Art. 42.º - 1. A biblioteca tem por fim facilitar aos alunos, professores e instrutores os livros, publicações periódicas e outras espécies bibliográficas destinadas a ampliar a sua cultura geral e profissional.
 
 2. A biblioteca funciona na dependência do director da instrução e é dirigida, em regime de acumulação, por um professor nomeado pelo director.
 
@@ -520,7 +633,7 @@ d) Desempenhar, em acumulação, as funções de chefe do serviço de abastecime
 
 #### SECÇÃO I — Estrutura dos cursos
 
-###### Art. 43.º - 1. Os cursos ministrados na Escola Náutica são os seguintes:
+Art. 43.º - 1. Os cursos ministrados na Escola Náutica são os seguintes:
 
 a) Curso preparatório;
 
@@ -542,9 +655,9 @@ b) Preparar os oficiais de uma determinada classe para desempenharem funções r
 
 5. Os cursos de estudos marítimos destinam-se a ministrar os conhecimentos técnicos e científicos relativos às actividades marítimas a que correspondem.
 
-###### Art. 44.º Existe um único curso preparatório, que tem a duração de dois anos lectivos.
+Art. 44.º Existe um único curso preparatório, que tem a duração de dois anos lectivos.
 
-###### Art. 45.º - 1. Existem os seguintes cursos de oficiais da marinha mercante:
+Art. 45.º - 1. Existem os seguintes cursos de oficiais da marinha mercante:
 
 a) Pilotagem, destinado a oficiais de pilotagem;
 
@@ -562,11 +675,11 @@ b) O curso complementar, com a duração de um ano lectivo.
 
 3. As categorias a que podem ascender os oficiais habilitados com os cursos gerais e com os cursos complementares e as condições a que devem satisfazer os oficiais para frequentar estes últimos cursos são definidas no Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca.
 
-###### Art. 46.º - 1. Os cursos de aperfeiçoamento e de estudos marítimos são criados ou extintos por portaria do Ministro da Marinha.
+Art. 46.º - 1. Os cursos de aperfeiçoamento e de estudos marítimos são criados ou extintos por portaria do Ministro da Marinha.
 
 2. Nos diplomas a que se refere o número anterior será definida a finalidade do curso e a respectiva duração.
 
-###### Art. 47.º - 1. As designações de ano lectivo e de ano escolar referem-se, respectivamente, aos períodos de 1 de Outubro a 31 de Julho e de 1 de Outubro a 30 de Setembro.
+Art. 47.º - 1. As designações de ano lectivo e de ano escolar referem-se, respectivamente, aos períodos de 1 de Outubro a 31 de Julho e de 1 de Outubro a 30 de Setembro.
 
 2. O ano lectivo compreende:
 
@@ -580,7 +693,7 @@ b) Três períodos, assim definidos:
 
 3.º período, desde segunda-feira de Pascoela até o encerramento das aulas.
 
-###### Art. 48.º - 1. As matérias que fazem parte dos cursos ministrados na Escola Náutica agrupam-se nas seguintes categorias:
+Art. 48.º - 1. As matérias que fazem parte dos cursos ministrados na Escola Náutica agrupam-se nas seguintes categorias:
 
 a) Matérias de natureza académica, destinadas a servir de apoio à formação técnica dos alunos e a melhorar a sua cultura geral;
 
@@ -588,15 +701,15 @@ b) Matérias de natureza técnica, diferenciadas conforme os cursos.
 
 2. O curso preparatório compreende fundamentalmente matérias de natureza académica; nos cursos de aperfeiçoamento e de estudos marítimos apenas são ministradas matérias de natureza técnica.
 
-###### Art. 49.º - 1. As actividades escolares do curso preparatório e dos cursos de oficiais processam-se de acordo com o programa anual das actividades escolares, que constitui o anexo B a este Regulamento.
+Art. 49.º - 1. As actividades escolares do curso preparatório e dos cursos de oficiais processam-se de acordo com o programa anual das actividades escolares, que constitui o anexo B a este Regulamento.
 
 2. As actividades escolares dos cursos de aperfeiçoamento e dos cursos de estudos marítimos são reguladas por despacho do Ministro da Marinha.
 
 #### SECÇÃO II — Disciplinas e instruções dos cursos preparatórios e de oficiais
 
-###### Art. 50.º As disciplinas e instruções ministradas na Escola Náutica, nos cursos preparatórios e de oficiais, são as que constam do anexo D.
+Art. 50.º As disciplinas e instruções ministradas na Escola Náutica, nos cursos preparatórios e de oficiais, são as que constam do anexo D.
 
-###### Art. 51.º - 1. Nas disciplinas o ensino é normalmente ministrado através de aulas teóricas, de aulas práticas ou de palestras.
+Art. 51.º - 1. Nas disciplinas o ensino é normalmente ministrado através de aulas teóricas, de aulas práticas ou de palestras.
 
 2. Nas instruções o ensino é normalmente ministrado por meio de aulas práticas.
 
@@ -604,9 +717,9 @@ b) Matérias de natureza técnica, diferenciadas conforme os cursos.
 
 4. No anexo E indicam-se as disciplinas de que dependem as diversas instruções.
 
-###### Art. 52.º As disciplinas e instruções dos cursos referidos no artigo 50.º que cabem a cada um dos gabinetes são indicadas no anexo F.
+Art. 52.º As disciplinas e instruções dos cursos referidos no artigo 50.º que cabem a cada um dos gabinetes são indicadas no anexo F.
 
-###### Art. 53.º - 1. De cada disciplina ou instrução haverá um programa geral discriminando os objectivos, a matéria, a escolaridade, a orientação geral com que deve ser ministrada e as publicações que terão de servir de base ao seu ensino.
+Art. 53.º - 1. De cada disciplina ou instrução haverá um programa geral discriminando os objectivos, a matéria, a escolaridade, a orientação geral com que deve ser ministrada e as publicações que terão de servir de base ao seu ensino.
 
 2. No estudo e elaboração dos programas relativos aos cursos referidos no artigo 50.º deverão ser tidos em conta:
 
@@ -624,11 +737,11 @@ d) O progresso científico e tecnológico.
 
 #### SECÇÃO III — Orientação pedagógica do ensino
 
-###### Art. 54.º - 1. Na orientação do ensino deverá constituir preocupação dominante promover a participação activa dos alunos por meio de trabalhos de aplicação, aulas práticas, seminários e colóquios.
+Art. 54.º - 1. Na orientação do ensino deverá constituir preocupação dominante promover a participação activa dos alunos por meio de trabalhos de aplicação, aulas práticas, seminários e colóquios.
 
 2. Nos cursos de oficiais deverá procurar-se desenvolver nos alunos o gosto pelo estudo e pela investigação e criar-lhes hábitos de trabalho.
 
-###### Art. 55.º - 1. Nos cursos de oficiais o ensino ministrado nas disciplinas náuticas e de exploração comercial e nas instruções será orientado no sentido de preparar os alunos para a melhor utilização do material náutico.
+Art. 55.º - 1. Nos cursos de oficiais o ensino ministrado nas disciplinas náuticas e de exploração comercial e nas instruções será orientado no sentido de preparar os alunos para a melhor utilização do material náutico.
 
 2. Para execução do disposto no número anterior deverá ser promovida:
 
@@ -636,27 +749,27 @@ a) A modernização do equipamento escolar e o criterioso aproveitamento dos cen
 
 b) A visita frequente a navios mercantes do armamento nacional, devidamente acompanhada por professores ou instrutores.
 
-###### Art. 56.º Todos os professores da Escola, com o seu prestígio e experiência, devem constituir em todas as circunstâncias, perante os alunos, exemplos e guias permanentes de virtudes cívicas e profissionais.
+Art. 56.º Todos os professores da Escola, com o seu prestígio e experiência, devem constituir em todas as circunstâncias, perante os alunos, exemplos e guias permanentes de virtudes cívicas e profissionais.
 
 #### SECÇÃO IV — Avaliação do aproveitamento dos alunos
 
 ##### SUBSECÇÃO I — Provas de aproveitamento
 
-###### Art. 57.º O ensino será conduzido de forma a permitir aos professores e instrutores ajuizarem do aproveitamento dos alunos. Para esse fim haverá repetições orais, repetições escritas e exames de frequência, por forma a permitir que cada aluno tenha, pelo menos, duas notas por período escolar.
+Art. 57.º O ensino será conduzido de forma a permitir aos professores e instrutores ajuizarem do aproveitamento dos alunos. Para esse fim haverá repetições orais, repetições escritas e exames de frequência, por forma a permitir que cada aluno tenha, pelo menos, duas notas por período escolar.
 
-###### Art. 58.º Não têm provas de aproveitamento as disciplinas e instruções que, segundo os planos de curso, sejam ùnicamente ministradas por meio de palestras.
+Art. 58.º Não têm provas de aproveitamento as disciplinas e instruções que, segundo os planos de curso, sejam ùnicamente ministradas por meio de palestras.
 
-###### Art. 59.º - 1. Em princípio, as repetições orais e escritas não versarão sobre matéria já tratada em repetições anteriores, salvo nos casos em que essa matéria é considerada fundamental ou esteja intrìnsecamente relacionada com matéria das referidas repetições.
+Art. 59.º - 1. Em princípio, as repetições orais e escritas não versarão sobre matéria já tratada em repetições anteriores, salvo nos casos em que essa matéria é considerada fundamental ou esteja intrìnsecamente relacionada com matéria das referidas repetições.
 
 2. As repetições realizam-se dentro dos tempos normais de aulas teóricas ou práticas atribuídos às respectivas disciplinas.
 
-###### Art. 60.º - 1. Nos últimos quinze dias de cada período lectivo realizar-se-á um exame de frequência em cada disciplina e instrução, abrangendo toda a matéria exposta nas lições e quaisquer outros trabalhos que fizerem parte do ensino. Estes exames serão feitos por escrito, podendo, se isso for julgado conveniente, ser acompanhados de parte oral.
+Art. 60.º - 1. Nos últimos quinze dias de cada período lectivo realizar-se-á um exame de frequência em cada disciplina e instrução, abrangendo toda a matéria exposta nas lições e quaisquer outros trabalhos que fizerem parte do ensino. Estes exames serão feitos por escrito, podendo, se isso for julgado conveniente, ser acompanhados de parte oral.
 
 2. Nas disciplinas e instruções semestrais realizar-se-á apenas um único exame de frequência.
 
-###### Art. 61.º A classificação das provas escolares é feita por meio de valores de 0 a 20.
+Art. 61.º A classificação das provas escolares é feita por meio de valores de 0 a 20.
 
-###### Art. 62.º - 1. O aluno que faltar às provas ou durante elas der parte de doente poderá fazer nova prova se a doença for justificada por médico da Armada chamado a observá-lo ou por atestado médico devidamente reconhecido por notário, apresentado no prazo de quarenta e oito horas.
+Art. 62.º - 1. O aluno que faltar às provas ou durante elas der parte de doente poderá fazer nova prova se a doença for justificada por médico da Armada chamado a observá-lo ou por atestado médico devidamente reconhecido por notário, apresentado no prazo de quarenta e oito horas.
 
 2. A nova prova será marcada dentro do prazo máximo de quinze dias; no caso de faltar novamente, será eliminado da frequência dessa disciplina ou instrução.
 
@@ -664,17 +777,17 @@ b) A visita frequente a navios mercantes do armamento nacional, devidamente acom
 
 4. No caso previsto no n.º 2 do artigo 65.º será marcada data própria para a realização de qualquer prova que o aluno não pôde prestar.
 
-###### Art. 63.º - 1. O aluno que, em qualquer repetição, exame de frequência, exame final ou outra prova, cometa ou tente cometer qualquer irregularidade será imediatamente expulso da prova, na qual terá a classificação de 0 valores, sem prejuízo do procedimento disciplinar correspondente.
+Art. 63.º - 1. O aluno que, em qualquer repetição, exame de frequência, exame final ou outra prova, cometa ou tente cometer qualquer irregularidade será imediatamente expulso da prova, na qual terá a classificação de 0 valores, sem prejuízo do procedimento disciplinar correspondente.
 
 2. Ao aluno que, pelo motivo expresso no número anterior, deixe de efectuar qualquer prova não é aplicável o disposto no artigo 62.º
 
 ##### SUBSECÇÃO II — Média de frequência
 
-###### Art. 64.º - 1. A média de frequência de cada aluno em cada disciplina ou instrução é a média aritmética das notas das provas que nela tenha prestado durante o ano lectivo, atribuindo-se os seguintes coeficientes: 1 às repetições orais, 3 às repetições escritas e 5 aos exames de frequência.
+Art. 64.º - 1. A média de frequência de cada aluno em cada disciplina ou instrução é a média aritmética das notas das provas que nela tenha prestado durante o ano lectivo, atribuindo-se os seguintes coeficientes: 1 às repetições orais, 3 às repetições escritas e 5 aos exames de frequência.
 
 2. No apuramento das médias serão desprezadas as fracções de valores inferiores a 0,5, arredondando-se para a unidade imediatamente superior as fracções iguais ou superiores a 0,5.
 
-###### Art. 65.º - 1. Perde o ano em qualquer disciplina ou instrução o aluno que:
+Art. 65.º - 1. Perde o ano em qualquer disciplina ou instrução o aluno que:
 
 a) Tiver média de frequência inferior a 8 valores;
 
@@ -684,19 +797,19 @@ b) Tiver dado durante o ano lectivo um número de faltas igual ou superior a um 
 
 ##### SUBSECÇÃO III — Exames finais
 
-###### Art. 66.º Nas disciplinas e nas instruções que não sejam anexas a disciplinas há exames finais a que são admitidos os alunos voluntários e os alunos ordinários que nelas tenham obtido média de frequência inferior a 10 valores, mas igual ou superior a 8 valores.
+Art. 66.º Nas disciplinas e nas instruções que não sejam anexas a disciplinas há exames finais a que são admitidos os alunos voluntários e os alunos ordinários que nelas tenham obtido média de frequência inferior a 10 valores, mas igual ou superior a 8 valores.
 
-###### Art. 67.º Quando anexa a qualquer disciplina haja a instrução prática correspondente, considera-se o conjunto como uma disciplina única, podendo ser admitido a exame final o aluno que, tendo média de frequência de, pelo menos, 8 valores na disciplina, tenha na instrução, pelo menos, 6,5 valores.
+Art. 67.º Quando anexa a qualquer disciplina haja a instrução prática correspondente, considera-se o conjunto como uma disciplina única, podendo ser admitido a exame final o aluno que, tendo média de frequência de, pelo menos, 8 valores na disciplina, tenha na instrução, pelo menos, 6,5 valores.
 
-###### Art. 68.º Os alunos dispensados de exame final de uma disciplina ou instrução têm o direito de efectuar esse exame desde que assim o declarem por escrito, com vista a melhoria de classificação, mas ficam sujeitos à classificação que vierem a obter no referido exame.
+Art. 68.º Os alunos dispensados de exame final de uma disciplina ou instrução têm o direito de efectuar esse exame desde que assim o declarem por escrito, com vista a melhoria de classificação, mas ficam sujeitos à classificação que vierem a obter no referido exame.
 
-###### Art. 69.º Os exames finais realizam-se depois de terminadas as aulas da respectiva disciplina ou instrução, seja ela semestral ou anual, nos períodos para esse fim previstos no plano anual das actividades escolares.
+Art. 69.º Os exames finais realizam-se depois de terminadas as aulas da respectiva disciplina ou instrução, seja ela semestral ou anual, nos períodos para esse fim previstos no plano anual das actividades escolares.
 
-###### Art. 70.º Os exames dos cursos serão feitos perante um júri, composto pelo professor ou instrutor da disciplina ou instrução e por dois professores nomeados pelo director, ouvido o director da instrução, de preferência do mesmo curso a que pertence a disciplina ou instrução.
+Art. 70.º Os exames dos cursos serão feitos perante um júri, composto pelo professor ou instrutor da disciplina ou instrução e por dois professores nomeados pelo director, ouvido o director da instrução, de preferência do mesmo curso a que pertence a disciplina ou instrução.
 
-###### Art. 71.º No caso dos exames das instruções, pode o júri ser constituído por um professor e dois instrutores, um dos quais o da instrução a que respeita o exame.
+Art. 71.º No caso dos exames das instruções, pode o júri ser constituído por um professor e dois instrutores, um dos quais o da instrução a que respeita o exame.
 
-###### Art. 72.º - 1. Os exames versarão sobre a matéria do programa e poderão compor-se das seguintes provas:
+Art. 72.º - 1. Os exames versarão sobre a matéria do programa e poderão compor-se das seguintes provas:
 
 a) Prova prática;
 
@@ -710,45 +823,45 @@ c) Prova oral.
 
 4. O interrogatório da prova oral será feito pelo professor ou instrutor respectivo até meia hora, findo o qual poderá continuar por outros vogais do júri por meia hora no máximo.
 
-###### Art. 73.º Cada uma das provas será valorizada segundo a escala de 0 a 20 estabelecida por este Regulamento.
+Art. 73.º Cada uma das provas será valorizada segundo a escala de 0 a 20 estabelecida por este Regulamento.
 
-###### Art. 74.º Considera-se reprovado o examinando que:
+Art. 74.º Considera-se reprovado o examinando que:
 
 a) Obtiver média inferior a 9 valores mas provas escrita e prática;
 
 b) Obtiver média inferior a 10 valores nas três provas.
 
-###### Art. 75.º O resultado dos exames constará de termo lavrado em livro a esse fim destinado e assinado por todos os membros do júri.
+Art. 75.º O resultado dos exames constará de termo lavrado em livro a esse fim destinado e assinado por todos os membros do júri.
 
-###### Art. 76.º - 1. Os exames finais das disciplinas e instruções anuais e das semestrais ministradas no 2.º semestre dos vários cursos realizam-se em Junho e Julho.
+Art. 76.º - 1. Os exames finais das disciplinas e instruções anuais e das semestrais ministradas no 2.º semestre dos vários cursos realizam-se em Junho e Julho.
 
 2. Os exames finais das disciplinas e instruções semestrais ministradas no 1.º semestre realizam-se em Fevereiro.
 
-###### Art. 77.º - 1. Os alunos a quem faltem uma ou duas disciplinas ou instruções para completar o ano, por nelas terem ficado reprovados em exame de primeira época, poderão repetir esse exame na segunda época de exames, em Setembro.
+Art. 77.º - 1. Os alunos a quem faltem uma ou duas disciplinas ou instruções para completar o ano, por nelas terem ficado reprovados em exame de primeira época, poderão repetir esse exame na segunda época de exames, em Setembro.
 
 2. Os alunos reprovados em exame final na época de Fevereiro nas disciplinas e instruções semestrais ministradas no 1.º semestre podem repetir esses exames na época de Julho.
 
-###### Art. 78.º Para os alunos voluntários haverá mais uma época de exames, em Janeiro.
+Art. 78.º Para os alunos voluntários haverá mais uma época de exames, em Janeiro.
 
-###### Art. 79.º A classificação do exame final de qualquer disciplina é atribuída pelo júri mediante a apreciação global das provas que o tenham constituído.
+Art. 79.º A classificação do exame final de qualquer disciplina é atribuída pelo júri mediante a apreciação global das provas que o tenham constituído.
 
 ##### SUBSECÇÃO IV — Classificações finais
 
-###### Art. 80.º - 1. A classificação final de uma disciplina ou instrução é a classificação do respectivo exame final, salvo se o aluno houver sido dispensado deste, caso em que será igual à média de frequência.
+Art. 80.º - 1. A classificação final de uma disciplina ou instrução é a classificação do respectivo exame final, salvo se o aluno houver sido dispensado deste, caso em que será igual à média de frequência.
 
 2. Os alunos repetentes que, nos termos do artigo 68.º, hajam requerido o exame de qualquer disciplina em que já tenham obtido aprovação, para efeitos de melhoria de nota, e que porventura não consigam obter classificação superior à anteriormente alcançada, conservarão esta.
 
-###### Art. 81.º São passados certificados de matrícula, frequência, exame, passagem de ano e de curso e cartas de curso a todos os alunos que o requeiram.
+Art. 81.º São passados certificados de matrícula, frequência, exame, passagem de ano e de curso e cartas de curso a todos os alunos que o requeiram.
 
-###### Art. 82.º - 1. Dos certificados de passagem de ano e das cartas ou certificados de curso constará a média final obtida pela média pesada das classificações finais, atribuindo-se às várias disciplinas e instruções os coeficientes indicados no anexo D a este Regulamento.
+Art. 82.º - 1. Dos certificados de passagem de ano e das cartas ou certificados de curso constará a média final obtida pela média pesada das classificações finais, atribuindo-se às várias disciplinas e instruções os coeficientes indicados no anexo D a este Regulamento.
 
 2. No apuramento da média segue-se o determinado no n.º 2 do artigo 64.º
 
-###### Art. 83.º O disposto nesta secção apenas é aplicável aos cursos de aperfeiçoamento e de estudos marítimos na parte em que os diplomas referidos no artigo 46.º não estabelecerem procedimentos diferentes.
+Art. 83.º O disposto nesta secção apenas é aplicável aos cursos de aperfeiçoamento e de estudos marítimos na parte em que os diplomas referidos no artigo 46.º não estabelecerem procedimentos diferentes.
 
 #### SECÇÃO V — Cartas e certificados de curso
 
-###### Art. 84.º - 1. Aos alunos que concluam com aproveitamento os cursos gerais e os cursos complementares de oficiais serão passadas cartas de curso.
+Art. 84.º - 1. Aos alunos que concluam com aproveitamento os cursos gerais e os cursos complementares de oficiais serão passadas cartas de curso.
 
 2. Aos alunos que concluam com aproveitamento os restantes cursos ministrados na Escola serão passados certificados de curso.
 
@@ -758,7 +871,7 @@ b) Obtiver média inferior a 10 valores nas três provas.
 
 #### SECÇÃO I — Admissão
 
-###### Art. 85.º - 1. A admissão aos cursos da Escola Náutica realiza-se:
+Art. 85.º - 1. A admissão aos cursos da Escola Náutica realiza-se:
 
 a) A requerimento dos interessados, quando se trate do ingresso no curso preparatório e nos cursos dos oficiais;
 
@@ -766,19 +879,19 @@ b) A requerimento dos interessados ou a pedido dos armadores, quando se trate do
 
 2. O Ministro da Marinha pode, por despacho, designar para a frequência dos cursos de estudos marítimos funcionários do quadro do pessoal civil do Ministério da Marinha.
 
-###### Art. 86.º - 1. Desde que a capacidade da Escola Náutica o exija, o Ministro da Marinha pode, por despacho, limitar em cada ano lectivo o número de alunos a admitir em qualquer dos cursos ministrados na Escola Náutica.
+Art. 86.º - 1. Desde que a capacidade da Escola Náutica o exija, o Ministro da Marinha pode, por despacho, limitar em cada ano lectivo o número de alunos a admitir em qualquer dos cursos ministrados na Escola Náutica.
 
 2. A limitação a que se refere o número anterior não é aplicável aos alunos que depois de habilitados com o curso preparatório desejem frequentar os cursos gerais de oficiais.
 
 3. Para os cursos em que o número de alunos a admitir for limitado o Ministro da Marinha estabelecerá por despacho as condições de preferência.
 
-###### Art. 87.º As normas e condições de admissão aos diversos cursos professados na Escola Náutica são as que constam do anexo Q.
+Art. 87.º As normas e condições de admissão aos diversos cursos professados na Escola Náutica são as que constam do anexo Q.
 
 #### SECÇÃO II — Regime escolar
 
-###### Art. 88.º A frequência de todos os cursos da Escola Náutica é feita no regime de externato.
+Art. 88.º A frequência de todos os cursos da Escola Náutica é feita no regime de externato.
 
-###### Art. 89.º - 1. Quanto ao regime escolar os alunos podem ser:
+Art. 89.º - 1. Quanto ao regime escolar os alunos podem ser:
 
 a) Ordinários;
 
@@ -798,7 +911,7 @@ c) Sendo inscritos marítimos, estejam desembarcados por motivos alheios à sua 
 
 #### SECÇÃO III — Regime disciplinar
 
-###### Art. 90.º - 1. As penas disciplinares aplicáveis aos alunos dos cursos gerais de oficiais e do curso preparatório são as seguintes:
+Art. 90.º - 1. As penas disciplinares aplicáveis aos alunos dos cursos gerais de oficiais e do curso preparatório são as seguintes:
 
 Ordem de saída da aula;
 
@@ -812,33 +925,33 @@ Expulsão.
 
 3. A ordem de saída da aula é da competência do professor ou instrutor respectivo; a repreensão é da competência do director, sendo aplicada na presença dos alunos do mesmo curso ou de todos os alunos da Escola; a suspensão até trinta dias é da competência do director, ouvido o conselho escolar, e a suspensão de trinta a noventa dias é da competência do director-geral dos Serviços de Fomento Marítimo, sob proposta do director, ouvido o conselho escolar; a expulsão é da competência do Ministro da Marinha, sob proposta do director, ouvido o conselho escolar.
 
-###### Art. 91.º - 1. Aos alunos dos restantes cursos ministrados na Escola Náutica pode ser aplicada a pena de expulsão, desde que a sua permanência na Escola se revele prejudicial para o ensino ou para a disciplina.
+Art. 91.º - 1. Aos alunos dos restantes cursos ministrados na Escola Náutica pode ser aplicada a pena de expulsão, desde que a sua permanência na Escola se revele prejudicial para o ensino ou para a disciplina.
 
 2. A pena de expulsão a que se refere o número anterior é aplicada nas condições referidas no n.º 3 do artigo anterior.
 
-###### Art. 92.º Haverá na Escola Náutica uma comissão disciplinar, constituída por três professores anualmente nomeados pelo director, ouvido o conselho escolar, à qual incumbirá, quando lhe for determinado pelo director, procede ao levantamento dos processos disciplinares e, através das conclusões, propor a decisão a tomar.
+Art. 92.º Haverá na Escola Náutica uma comissão disciplinar, constituída por três professores anualmente nomeados pelo director, ouvido o conselho escolar, à qual incumbirá, quando lhe for determinado pelo director, procede ao levantamento dos processos disciplinares e, através das conclusões, propor a decisão a tomar.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 93.º O curso preparatório só começará a funcionar quando for determinado por portaria do Ministro da Marinha.
+Art. 93.º O curso preparatório só começará a funcionar quando for determinado por portaria do Ministro da Marinha.
 
-###### Art. 94.º As dúvidas que se verifiquem na execução deste Regulamento serão esclarecidas por despacho do Ministro da Marinha.
+Art. 94.º As dúvidas que se verifiquem na execução deste Regulamento serão esclarecidas por despacho do Ministro da Marinha.
 
-###### Art. 95.º - 1. A passagem de cartas das diferentes categorias de oficiais da marinha mercante, bem como a contagem e verificação dos tirocínios dos mesmos oficiais, passam a competir à direcção da Marinha Mercante.
+Art. 95.º - 1. A passagem de cartas das diferentes categorias de oficiais da marinha mercante, bem como a contagem e verificação dos tirocínios dos mesmos oficiais, passam a competir à direcção da Marinha Mercante.
 
 2. O Ministro da Marinha definirá por despacho a data a partir da qual entra em vigor o disposto no número anterior.
 
-###### Art. 96.º O Ministro da Marinha regulará por despacho a aplicação do disposto no presente Regulamento aos alunos que nesta data frequentem a Escola Náutica.
+Art. 96.º O Ministro da Marinha regulará por despacho a aplicação do disposto no presente Regulamento aos alunos que nesta data frequentem a Escola Náutica.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 ## ANEXO A — Organograma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO B — Programa anual das actividades escolares do curso preparatório e dos cursos de oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO C — Calendário escolar
 
@@ -896,11 +1009,11 @@ Exames finais da 1.ª época para todos os cursos e para os alunos reprovados em
 
 I - Disciplinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 II - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 Nota
 
@@ -908,11 +1021,11 @@ O director da Escola, ouvido o conselho escolar, determinará quais as disciplin
 
 ## ANEXO E — Disciplinas de que dependem as diversas instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO F — Disciplinas e instruções que cabem a cada um dos gabinetes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO G — Plano do curso preparatório
 
@@ -924,11 +1037,11 @@ cursos gerais de oficiais.
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO H — Plano do curso geral de pilotagem
 
@@ -938,11 +1051,11 @@ Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim 
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO I — Plano do curso complementar de pilotagem
 
@@ -952,7 +1065,7 @@ Preparar os oficiais de pilotagem para o desempenho das funções de capitão do
 
 a) Ano lectivo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO J — Plano do curso geral de máquinas marítimas
 
@@ -962,11 +1075,11 @@ Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim 
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO L — Plano do curso complementar de máquinas marítimas
 
@@ -976,7 +1089,7 @@ Preparar os oficiais maquinistas para o desempenho das funções de chefes de se
 
 a) Ano lectivo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO M — Plano do curso geral de radiotecnia
 
@@ -986,11 +1099,11 @@ Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim 
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO N — Plano do curso complementar de radiotecnia
 
@@ -1000,7 +1113,7 @@ Preparar os oficiais radiotelegrafistas para o desempenho das funções de chefe
 
 a) Ano lectivo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO O — Plano do curso geral de comissariado
 
@@ -1010,11 +1123,11 @@ Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim 
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO P — Plano do curso complementar de comissariado
 
@@ -1024,7 +1137,7 @@ Preparar os oficiais comissários para o desempenho das funções de chefes de s
 
 a) Ano lectivo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20700/12451263.pdf)
 
 ## ANEXO Q — I - Condições de admissão
 
@@ -1244,4 +1357,4 @@ Notas
 
 5) No primeiro e segundo anos dos cursos gerais de oficiais ficam isentos de propinas os alunos que, respectivamente, no curso preparatório ou no 1.º ano daqueles cursos tenham obtido média geral de 14 ou mais valores. Igualmente ficam isentos de propinas os alunos do 2.º ano do curso preparatório que no 1.º ano do mesmo curso tenham obtido média geral de 14 ou mais valores.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

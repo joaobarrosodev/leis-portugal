@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01100/00380039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1976-506074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21aeab65930d29ff80cb3b1014ccc3135ae3f443bd97ea8b7dd720841928c647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cfde6bd6f7e3c20e2d683e4dbe6e1f5204e846dd507ed240f67751040b93228
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Custas Judiciais
+- Emolumento
+- Execução Fiscal
+- Regulamento
+- Regulamento das Custas dos Processos das Contribuições e Impostos
 relationships:
 - type: amended_by
   target: pt:dre:574952:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661111:por
+  label: "Aditada a verba 5-A à Tabela de Emolumentos dos Serviços das Contribuições e Impostos anexa ao presente diploma,\
+    \ pelo DEC LEI.75/84.1984.03.05.MFP DR.IS [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1984-661111
+  date: '1984-03-05'
+- type: amended_by
+  target: pt:dre:384032:por
+  label: "Alterado o n.º 1 do artigo 2.º, e substituída a tabela dos emolumentos dos serviços das contribuições e impostos\
+    \ anexa ao mesmo diploma, pelo DEC LEI.160/84.18.05.1984.MFP, DR.IS [115] de 18.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1984-384032
+  date: '1984-05-18'
+- type: cites
+  target: pt:dre:633938:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:501606:por
+  label: "Rectificado pela RECT.DD179.18.03.1976.PCM, DG.IS [66] de 18.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-501606
+  date: '1976-03-18'
+- type: repealed_by
+  target: pt:dre:574952:por
+  label: "Revogado pelo DEC LEI.199/90.19.06.1990.MF, DR.IS [139] de 19.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1990-574952
+  date: '1990-06-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:21Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +126,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovada a nova tabela dos emolumentos dos serviços das contribuições e impostos, anexa ao presente decreto-lei, e que substitui a tabela aprovada pelo artigo 1.º do [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938), de 26 de Outubro.
+Artigo 1.º É aprovada a nova tabela dos emolumentos dos serviços das contribuições e impostos, anexa ao presente decreto-lei, e que substitui a tabela aprovada pelo artigo 1.º do [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938), de 26 de Outubro.
 
-###### Art. 2.º - 1. As despesas com o papel e outro material originadas pela extracção de fotocópias a requerimento das partes ficarão a cargo destas, mediante o pagamento das seguintes taxas:
+Art. 2.º - 1. As despesas com o papel e outro material originadas pela extracção de fotocópias a requerimento das partes ficarão a cargo destas, mediante o pagamento das seguintes taxas:
 
 Por cada folha:
 
@@ -108,22 +140,22 @@ Fotocopiada nas duas faces - 7$50.
 
 3. As importâncias cobradas nos termos deste artigo serão depositadas diariamente à ordem do respectivo chefe da repartição de finanças, constituindo um fundo a utilizar para a aquisição e conservação de equipamento e outro material necessário.
 
-###### Art. 3.º O imposto do selo devido pelas certidões e fotocópias extraídas nas repartições de finanças poderá ser cobrado por meio de verba, devendo a respectiva importância total ser entregue diariamente nos cofres do Estado, arrecadando-se conjuntamente, em operações de tesouraria, a receita emolumentar e o reembolso do custo das fotocópias.
+Art. 3.º O imposto do selo devido pelas certidões e fotocópias extraídas nas repartições de finanças poderá ser cobrado por meio de verba, devendo a respectiva importância total ser entregue diariamente nos cofres do Estado, arrecadando-se conjuntamente, em operações de tesouraria, a receita emolumentar e o reembolso do custo das fotocópias.
 
-###### Art. 4.º Este diploma entra em vigor na data da publicação.
+Art. 4.º Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 22 de Dezembro de 1975.**
+Promulgado em 22 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tabela dos emolumentos dos serviços das contribuições e impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01100/00380039.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01100/00380039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01100/00380039.pdf)
 
 Observação: Nos casos de isenção de emolumentos, mencionar-se-á sempre nos requerimentos a disposição legal que confere a isenção, sob pena de esta não poder ser considerada.
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

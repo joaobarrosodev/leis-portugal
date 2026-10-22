@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/25500/24742477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/784-1976-409319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 236348c8c5ad944f708b8a57caaa017f48a30801a22fb2aaffc5de71b955a841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 739259b946b23084cab10053a610597f7aa927f01ee2bb3f3ca08b322b5e87bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Criação de Serviços
+- Execução Fiscal
+- Oficial de Justiça
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Judicial
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:278029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139919:por
+  label: "Dada nova redacção ao nº 1 do art. 9º pelo DEC LEI.143/77.09.04.1977.MAI, DR.IS [83] de 09.04.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1977-139919
+  date: '1977-04-09'
+- type: amended_by
+  target: pt:dre:252871:por
+  label: "Alterados o nº 2 do art. 14º e os arts. 15º e 16º pelo DEC LEI.219/77.28.05.1977.MF, DR.IS [124] de 28.05.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1977-252871
+  date: '1977-05-28'
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628298:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278029:por
+  label: "Revogado pela LEI.13/2002.2002.02.19.AR DR.IS-A [42], a partir da sua entrada em vigor.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2002-278029
+  date: '2002-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:03Z'
   warnings: []
   errors: []
 ---
@@ -109,21 +149,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O expediente e a movimentação dos processos dos tribunais das contribuições e impostos, bem como a execução dos serviços ordenados pelo presidente, pelo juiz ou pelo Ministério Público, são assegurados por uma secretaria.
+Artigo 1.º - 1. O expediente e a movimentação dos processos dos tribunais das contribuições e impostos, bem como a execução dos serviços ordenados pelo presidente, pelo juiz ou pelo Ministério Público, são assegurados por uma secretaria.
 
 2. No Tribunal de 2.ª Instância das Contribuições e Impostos há uma secretaria privativa e nos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto há uma secretaria central e uma secretaria privativa de cada juízo, cuja composição consta do mapa anexo.
 
 3. Nos tribunais de 1.ª instância fora de Lisboa e Porto, os serviços de secretaria são assegurados por uma secção especial da direcção distrital de finanças.
 
-###### Art. 2.º - 1. Os funcionários da Secretaria do Tribunal de 2.ª Instância e dos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto constituem um quadro especial dentro do quadro da Direcção-Geral das Contribuições e Impostos, os quais gozam das mesmas prerrogativas e direitos que a lei confere aos demais funcionários da Direcção-Geral das Contribuições e Impostos.
+Art. 2.º - 1. Os funcionários da Secretaria do Tribunal de 2.ª Instância e dos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto constituem um quadro especial dentro do quadro da Direcção-Geral das Contribuições e Impostos, os quais gozam das mesmas prerrogativas e direitos que a lei confere aos demais funcionários da Direcção-Geral das Contribuições e Impostos.
 
 2. Os funcionários deste quadro especial são nomeados em comissão de serviço por tempo indeterminado, a qual poderá ser dada por finda por motivo disciplinar, por proposta do presidente ou do juiz ou a requerimento do funcionário.
 
 3. Quando algum funcionário do quadro especial dos tribunais regresse ao quadro geral da Direcção-Geral das Contribuições e Impostos, ocupará o lugar correspondente à categoria que nesse momento tiver no quadro geral.
 
-###### Art. 3.º O chefe da secretaria e demais funcionários estão directamente subordinados ao presidente, ao juiz e ao respectivo agente do Ministério Público.
+Art. 3.º O chefe da secretaria e demais funcionários estão directamente subordinados ao presidente, ao juiz e ao respectivo agente do Ministério Público.
 
-###### Art. 4.º A Secretaria Central dos Tribunais de 1.ª Instância de Lisboa e Porto é dirigida pelo chefe da secretaria do 1.º Juízo, sob directa orientação do respectivo juiz, competindo-lhe designadamente:
+Art. 4.º A Secretaria Central dos Tribunais de 1.ª Instância de Lisboa e Porto é dirigida pelo chefe da secretaria do 1.º Juízo, sob directa orientação do respectivo juiz, competindo-lhe designadamente:
 
 a) A distribuição dos processos e demais papéis pelos diversos juízos;
 
@@ -139,25 +179,25 @@ f) O expediente dos assuntos comuns ao tribunal;
 
 g) Qualquer outra função que lhe for atribuída por lei ou por despacho do juiz do 1.º Juízo, ouvindo-se, quando necessário, os outros juízes ou o Ministério Público.
 
-###### Art. 5.º - 1. As secretarias dos juízos podem ser divididas em duas ou mais secções por despacho do juiz, ouvidos o Ministério Público e o chefe da secretaria.
+Art. 5.º - 1. As secretarias dos juízos podem ser divididas em duas ou mais secções por despacho do juiz, ouvidos o Ministério Público e o chefe da secretaria.
 
 2. Cada secção será dirigida por um escrivão de 1.ª classe nomeado pelo juiz, ouvidos o Ministério Público e o chefe da secretaria.
 
 3. A cada secção compete a movimentação dos processos que lhes sejam afectos, bem como outros serviços de secretaria que lhe forem distribuídos.
 
-###### Art. 6.º O quadro das secretarias é constituído pelo chefe da secretaria, pelos escrivães, que podem ser de 1.ª, 2.ª e 3.ª classes, pelos aspirantes de finanças e pelo contínuo.
+Art. 6.º O quadro das secretarias é constituído pelo chefe da secretaria, pelos escrivães, que podem ser de 1.ª, 2.ª e 3.ª classes, pelos aspirantes de finanças e pelo contínuo.
 
-###### Art. 7.º - 1. O chefe da secretaria é substituído, nas suas faltas ou impedimentos, pelo escrivão de 1.ª classe que o presidente ou juiz designar.
+Art. 7.º - 1. O chefe da secretaria é substituído, nas suas faltas ou impedimentos, pelo escrivão de 1.ª classe que o presidente ou juiz designar.
 
 2. O chefe da Secretaria Central dos Tribunais de 1.ª Instância de Lisboa e Porto é substituído por um chefe da secretaria dos juízos por ordem crescente.
 
 3. Os escrivães que dirijam uma secção são substituídos nas suas faltas ou impedimentos pelo escrivão que o juiz designar, ouvidos o Ministério Público e o chefe da secretaria.
 
-###### Art. 8.º - 1. O presidente ou o juiz comunicará ao director-geral das Contribuições e Impostos a existência de qualquer vaga nos quadros da respectiva secretaria.
+Art. 8.º - 1. O presidente ou o juiz comunicará ao director-geral das Contribuições e Impostos a existência de qualquer vaga nos quadros da respectiva secretaria.
 
 2. Recebida a comunicação da vacatura do lugar, a Direcção-Geral das Contribuições e Impostos abrirá imediatamente concurso de aptidão para seu provimento mediante aviso publicado no Diário da República.
 
-###### Art. 9.º - 1. Os chefes das secretarias são nomeados entre os escrivães de 1.ª classe com mais de cinco anos de bom e efectivo serviço, ouvido o presidente ou o juiz.
+Art. 9.º - 1. Os chefes das secretarias são nomeados entre os escrivães de 1.ª classe com mais de cinco anos de bom e efectivo serviço, ouvido o presidente ou o juiz.
 
 2. Os escrivães de 1.ª e 2.ª classes são nomeados mediante aprovação em concurso realizado entre os escrivães de 2.ª e 3.ª classes, respectivamente, com três anos de bom e efectivo serviço.
 
@@ -165,11 +205,11 @@ g) Qualquer outra função que lhe for atribuída por lei ou por despacho do jui
 
 4. Na falta de candidatos nas condições indicadas nos números anteriores, poderá ser dispensado o tempo de serviço referido nos n.os 2 e 3 e admitidos a concurso funcionários do quadro geral da mesma categoria dos candidatos.
 
-###### Art. 10.º - 1. As funções de serviço externo são desempenhadas por aspirantes de finanças com três anos de bom e efectivo serviço, nomeados mediante concurso documental.
+Art. 10.º - 1. As funções de serviço externo são desempenhadas por aspirantes de finanças com três anos de bom e efectivo serviço, nomeados mediante concurso documental.
 
 2. Na falta de candidatos, podem ser admitidos ao concurso aspirantes com dispensa do tempo de serviço referido no número anterior e contínuos com mais de cinco anos de serviço e com informação não inferior a Bom, podendo o tempo de serviço ser reduzido a três anos desde que possuam a habilitação do ciclo preparatório ou equivalente.
 
-###### Art. 11.º São condições de preferência por ordem decrescente:
+Art. 11.º São condições de preferência por ordem decrescente:
 
 a) Melhor classificação no concurso;
 
@@ -181,11 +221,11 @@ d) Mais tempo de serviço no quadro especial dos tribunais das contribuições e
 
 e) Mais tempo de serviço no quadro geral.
 
-###### Art. 12.º - 1. O chefe da secretaria tem a categoria e vencimento de subdirector de finanças; os escrivães de 1.ª, 2.ª e 3.ª classes têm a categoria e vencimento, respectivamente, de secretários de finanças de 1.ª, 2.ª e 3.ª classes, e o pessoal de serviço externo, a categoria de aspirante de finanças.
+Art. 12.º - 1. O chefe da secretaria tem a categoria e vencimento de subdirector de finanças; os escrivães de 1.ª, 2.ª e 3.ª classes têm a categoria e vencimento, respectivamente, de secretários de finanças de 1.ª, 2.ª e 3.ª classes, e o pessoal de serviço externo, a categoria de aspirante de finanças.
 
 2. O chefe da secretaria tem direito à mesma gratificação que têm os subdirectores de finanças e os escrivães que chefiarem uma secção de processos têm a mesma gratificação que perceberem os secretários de finanças que chefiem secções nas direcções de finanças.
 
-###### Art. 13.º - 1. O montante das custas, multas e emolumentos arrecadados pelas Repartições Centrais de Finanças de Lisboa e do Porto e Repartição do Imposto Complementar de Lisboa, repartições de finanças dos bairros fiscais de Lisboa e Porto e Tribunais de 1.ª Instância de Lisboa e Porto são distribuídos de modo seguinte:
+Art. 13.º - 1. O montante das custas, multas e emolumentos arrecadados pelas Repartições Centrais de Finanças de Lisboa e do Porto e Repartição do Imposto Complementar de Lisboa, repartições de finanças dos bairros fiscais de Lisboa e Porto e Tribunais de 1.ª Instância de Lisboa e Porto são distribuídos de modo seguinte:
 
 a) Metade daquele montante é destinada à distribuição geral a efectuar pela Direcção-Geral das Contribuições e Impostos;
 
@@ -195,13 +235,13 @@ b) A outra metade é distribuída pelos funcionários da administração e técn
 
 3. Têm direito a participação nas custas, multas e emolumentos os funcionários que estiverem ao serviço efectivo no mês a que respeita a distribuição.
 
-###### Art. 14.º - 1. As custas, multas e emolumentos são distribuídos pelas Direcções de Finanças de Lisboa e Porto, respectivamente, conforme forem cobrados em Lisboa ou no Porto, até ao dia 6 do mês seguinte ao da sua arrecadação.
+Art. 14.º - 1. As custas, multas e emolumentos são distribuídos pelas Direcções de Finanças de Lisboa e Porto, respectivamente, conforme forem cobrados em Lisboa ou no Porto, até ao dia 6 do mês seguinte ao da sua arrecadação.
 
 2. Os serviços referidos no n.º 1 do artigo 14.º têm de enviar até ao dia 1 do mês seguinte ao da sua arrecadação às Direcções de Finanças de Lisboa e Porto a nota indicativa do seu montante.
 
-###### Art. 15.º Quando algum funcionário atingir o seu limite, as respectivas custas acrescerão à quantia a distribuir pelos outros funcionários e só reverterão para a parte referida no artigo 14.º n.º 1, alínea a), quando todos os funcionários atingirem o limite.
+Art. 15.º Quando algum funcionário atingir o seu limite, as respectivas custas acrescerão à quantia a distribuir pelos outros funcionários e só reverterão para a parte referida no artigo 14.º n.º 1, alínea a), quando todos os funcionários atingirem o limite.
 
-###### Art. 17.º - 1. Os funcionários que actualmente prestam serviço efectivo nas secretarias dos Tribunais das Contribuições e Impostos de 2.ª e 1.ª Instância de Lisboa e Porto são integrados no quadro especial dos tribunais, por lista nominativa, sem qualquer formalidade, salvo o visto do Tribunal de Contas, de harmonia com as regras seguintes e sob proposta do presidente ou dos juízes do respectivo tribunal, ouvido o director-geral das Contribuições e Impostos:
+Art. 17.º - 1. Os funcionários que actualmente prestam serviço efectivo nas secretarias dos Tribunais das Contribuições e Impostos de 2.ª e 1.ª Instância de Lisboa e Porto são integrados no quadro especial dos tribunais, por lista nominativa, sem qualquer formalidade, salvo o visto do Tribunal de Contas, de harmonia com as regras seguintes e sob proposta do presidente ou dos juízes do respectivo tribunal, ouvido o director-geral das Contribuições e Impostos:
 
 a) O chefe da secretaria por subdirectores ou secretários de finanças de 1.ª classe;
 
@@ -213,25 +253,25 @@ d) O contínuo por quem estiver a exercer as funções.
 
 2. Os funcionários integrados nos termos do número anterior considerar-se-ão investidos nos seus novos cargos a partir da data da publicação da lista nominativa no Diário da República.
 
-###### Art. 18.º - 1. Os funcionários a que se refere o artigo anterior podem optar pela sua transferência para lugares da categoria que têm actualmente no quadro geral, se o requererem no prazo de trinta dias, a contar da publicação do presente decreto-lei.
+Art. 18.º - 1. Os funcionários a que se refere o artigo anterior podem optar pela sua transferência para lugares da categoria que têm actualmente no quadro geral, se o requererem no prazo de trinta dias, a contar da publicação do presente decreto-lei.
 
 2. Os funcionários que não forem indicados pelo presidente ou pelo juiz para serem integrados no quadro especial dos tribunais são colocados automaticamente no quadro geral, ocupando os lugares da categoria que nesse momento tiverem neste quadro, sem qualquer formalidade, inclusive o visto do Tribunal de Contas.
 
-###### Art. 19.º - 1. Os lugares das secretarias dos juízos a criar são preenchidos nos termos gerais, sem prejuízo de serem nomeados para certas categorias funcionários de categorias inferiores que se tenham distinguido no serviço dos tribunais, ouvidos o presidente ou os juízes.
+Art. 19.º - 1. Os lugares das secretarias dos juízos a criar são preenchidos nos termos gerais, sem prejuízo de serem nomeados para certas categorias funcionários de categorias inferiores que se tenham distinguido no serviço dos tribunais, ouvidos o presidente ou os juízes.
 
 2. Poderão ser admitidos ex-funcionários da Direcção-Geral das Contribuições e Impostos que tenham exercido funções nos tribunais e na categoria que tinham quando deixaram aquela Direcção-Geral, sem prejuízo das regras de congelamento impostas pelo artigo 53.º, alínea b), do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
 
-###### Art. 20.º Nos casos omissos aplicar-se-ão subsidiariamente e pela ordem indicada a Organização dos Serviços de Justiça Fiscal, a Organização da Direcção-Geral das Contribuições e Impostos e o Estatuto Judiciário.
+Art. 20.º Nos casos omissos aplicar-se-ão subsidiariamente e pela ordem indicada a Organização dos Serviços de Justiça Fiscal, a Organização da Direcção-Geral das Contribuições e Impostos e o Estatuto Judiciário.
 
-###### Art. 21.º O Ministro das Finanças resolverá, por despacho, as dúvidas que se suscitarem na aplicação deste diploma.
+Art. 21.º O Ministro das Finanças resolverá, por despacho, as dúvidas que se suscitarem na aplicação deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 20 de Outubro de 1976.**
+Promulgado em 20 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal de secretaria dos tribunais das contribuições e impostos
 
@@ -311,4 +351,4 @@ II) Do Porto:
 
 (nota a) Estes funcionários, embora façam parte das secretarias dos tribunais, pertencem ao quadro dos Serviços Centrais da Direcção-Geral das Contribuições e Impostos.
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

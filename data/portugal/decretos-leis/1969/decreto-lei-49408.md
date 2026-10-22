@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 275/1969, 1º Suplemento, Série I de 1969-11-24
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1670 - 1687
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27501/16701687.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,117 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69aa6c93fc62a01662efb8d80b54e7077259c3a54dff2c3b1e49b366472a7598
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eedb6053a3b545eebd1fea7750d0ad7b8e01e1ef9aa5bc04484b80fb293047af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Individual de Trabalho
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506645:por
+  label: "Alterado o artigo 118.º pelo DEC LEI.112/76.07.02.1976.MAS, DG.IS [32] de 07.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-1976-506645
+  date: '1976-02-07'
+- type: amended_by
+  target: pt:dre:326927:por
+  label: "Alterado o art. 91.º, pelo DEC LEI.69/85.1985.03.18.MTSS DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1985-326927
+  date: '1985-03-18'
+- type: amended_by
+  target: pt:dre:289065:por
+  label: "Alterados os arts. 121.º a 125.º, pelo DEC LEI.396/91.1991.10.16.MESS DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1991-289065
+  date: '1991-10-16'
+- type: amended_by
+  target: pt:dre:417040:por
+  label: "Alterado o art. 22.º, pela LEI.21/96.1996.07.23.AR DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-1996-417040
+  date: '1996-07-23'
+- type: amended_by
+  target: pt:dre:371438:por
+  label: "Alterados os arts. 121º, 122º e 124º do regime jurídico anexo ao presente diploma, na redacção do Dec Lei 396/91\
+    \ de 16-Out, pela LEI.58/99.1999.06.30.AR, DR.IS-A [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-1999-371438
+  date: '1999-06-30'
+- type: amended_by
+  target: pt:dre:332750:por
+  label: "Alterado o art. 127º do regime jurídico anexo ao presente diploma, com a redacção conferida pelos Dec Leis 69/85\
+    \ de 18-Mar, 396/91 de 16-Out e pelas Leis 21/96, de 23-Jul, 58/99, de 30-Jun e 118/99 de 11-Ago, pelo DEC LEI.170/2001.2001.05.25.MTS\
+    \ DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2001-332750
+  date: '2001-05-25'
+- type: amended_by
+  target: pt:dre:264573:por
+  label: "Alterado o art. 122º do cap. VIII, com a redacção dada pelos Dec Lei 396/91 de 16-Out e pelas Leis 58/99 de 30-Jun\
+    \ e 118/99 de 11-Ago, pelo DEC LEI.58/2002.2002.03.15.MTS DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2002-264573
+  date: '2002-03-15'
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409341:por
+  label: "Revogados o artigo 10.º, o n.º 2 do artigo 44.º e o n.º 2 do artigo 74.º, pelo DEC LEI.781/76.28.10.1976.MT, DR.IS\
+    \ [253] de 28.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/781-1976-409341
+  date: '1976-10-28'
+- type: repealed_by
+  target: pt:dre:416438:por
+  label: "Revogadas as secções I, II, III e IV do cap. V, pelo DEC LEI.874/76.1976.12.28.MT DR.IS [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/874-1976-416438
+  date: '1976-12-28'
+- type: repealed_by
+  target: pt:dre:152335:por
+  label: "Revogados os artigos 116.º a 120.º pelo DEC LEI.136/85.1985.05.03.MTSS DR.IS [101] de 03.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1985-152335
+  date: '1985-05-03'
+- type: repealed_by
+  target: pt:dre:423061:por
+  label: "Revogados os arts. 129º a 131º e alterada a redacção dos arts. 19º, 39º, 94º, 122º, 127º e 128º do regime jurídico\
+    \ do Contrato Individual de Trabalho anexo ao presente diploma, na redacção dada pelo Dec Lei 396/91 de 16-Out e pela\
+    \ Lei 58/99 de 30-Jun, pela LEI.118/99.1999.08.11.AR, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:54Z'
   warnings: []
   errors: []
 ---
@@ -143,37 +220,37 @@ Ouvida a Câmara Corporativa;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - É aprovado o novo regime jurídico do contrato individual de trabalho, cujo texto se publica em anexo ao presente decreto-lei.
+Artigo 1.º - É aprovado o novo regime jurídico do contrato individual de trabalho, cujo texto se publica em anexo ao presente decreto-lei.
 
-###### Art. 2.º O novo regime jurídico do contrato de trabalho começará a vigorar no território do continente e ilhas adjacentes no dia 1 de Janeiro de 1970.
+Art. 2.º O novo regime jurídico do contrato de trabalho começará a vigorar no território do continente e ilhas adjacentes no dia 1 de Janeiro de 1970.
 
-###### Art. 3.º A partir da sua entrada em vigor fica revogada a legislação anterior em tudo o que for contrário às disposições do mesmo diploma, designadamente o [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966.
+Art. 3.º A partir da sua entrada em vigor fica revogada a legislação anterior em tudo o que for contrário às disposições do mesmo diploma, designadamente o [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966.
 
-###### Art. 4.º O disposto no n.º 1 do artigo 123.º não se aplica aos trabalhadores que, com idade inferior à prevista no seu n.º 1, se encontrem legalmente em actividade no momento da entrada em vigor do presente diploma.
+Art. 4.º O disposto no n.º 1 do artigo 123.º não se aplica aos trabalhadores que, com idade inferior à prevista no seu n.º 1, se encontrem legalmente em actividade no momento da entrada em vigor do presente diploma.
 
-###### Art. 5.º O regime do contrato individual de trabalho poderá ser tornado extensivo, por decreto regulamentar, no todo ou em parte, e com as adaptações exigidas pela sua natureza, aos contratos de serviço doméstico e de trabalho rural.
+Art. 5.º O regime do contrato individual de trabalho poderá ser tornado extensivo, por decreto regulamentar, no todo ou em parte, e com as adaptações exigidas pela sua natureza, aos contratos de serviço doméstico e de trabalho rural.
 
-###### Art. 6.º A aplicação aos contratos de trabalho portuário do regime jurídico anexo deverá sofrer a adaptação exigida pelas características desses contratos, que vier a ser fixada em portaria de regulamentação de trabalho ou em convenção colectiva.
+Art. 6.º A aplicação aos contratos de trabalho portuário do regime jurídico anexo deverá sofrer a adaptação exigida pelas características desses contratos, que vier a ser fixada em portaria de regulamentação de trabalho ou em convenção colectiva.
 
-###### Art. 7.º O Ministério das Corporações e Previdência Social poderá determinar, em relação aos contratos de trabalho celebrados entre instituições de previdência ou organismos corporativos e os respectivos empregados, mediante aprovação do estatuto próprio, a aplicação do regime jurídico anexo, com as alterações julgadas necessárias.
+Art. 7.º O Ministério das Corporações e Previdência Social poderá determinar, em relação aos contratos de trabalho celebrados entre instituições de previdência ou organismos corporativos e os respectivos empregados, mediante aprovação do estatuto próprio, a aplicação do regime jurídico anexo, com as alterações julgadas necessárias.
 
-###### Art. 8.º O contrato de trabalho a bordo fica subordinado a legislação especial.
+Art. 8.º O contrato de trabalho a bordo fica subordinado a legislação especial.
 
-###### Art. 9.º Ficam sujeitos ao regime aprovado por este diploma quer os contratos celebrados depois da sua entrada em vigor, quer os celebrados antes, salvo quanto aos efeitos de factos ou situações totalmente passados anteriormente àquele momento.
+Art. 9.º Ficam sujeitos ao regime aprovado por este diploma quer os contratos celebrados depois da sua entrada em vigor, quer os celebrados antes, salvo quanto aos efeitos de factos ou situações totalmente passados anteriormente àquele momento.
 
-###### Art. 10.º Mantêm-se os contratos em vigor à data da publicação deste diploma em tudo o que implique regime mais favorável para o trabalhador.
+Art. 10.º Mantêm-se os contratos em vigor à data da publicação deste diploma em tudo o que implique regime mais favorável para o trabalhador.
 
-###### Art. 11.º - 1. Ressalvada a legislação em vigor, o regime de contrato individual de trabalho aplica-se às empresas concessionárias de serviço público, mas poderá vir a sofrer as adaptações exigidas pelas características destes serviços, mediante decretos regulamentares referendados pelo Ministro das Corporações e Previdência Social e pelos Ministros competentes.
+Art. 11.º - 1. Ressalvada a legislação em vigor, o regime de contrato individual de trabalho aplica-se às empresas concessionárias de serviço público, mas poderá vir a sofrer as adaptações exigidas pelas características destes serviços, mediante decretos regulamentares referendados pelo Ministro das Corporações e Previdência Social e pelos Ministros competentes.
 
 2. O disposto no número anterior é aplicável às empresas públicas.
 
-###### Art. 12.º Todas as modificações que de futuro se fizerem sobre a matéria contida no regime anexo serão nele mandadas inserir, no lugar próprio, pelo Ministro das Corporações e Previdência Social.
+Art. 12.º Todas as modificações que de futuro se fizerem sobre a matéria contida no regime anexo serão nele mandadas inserir, no lugar próprio, pelo Ministro das Corporações e Previdência Social.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 21 de Novembro de 1969.**
+Promulgado em 21 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

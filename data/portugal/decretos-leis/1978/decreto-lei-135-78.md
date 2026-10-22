@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13200/10391046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1978-295130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feb3722661719c1b7bbd2c3256e63263f614fa306d3a00929c8c8389fdc16307
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12c6f25253c746585dddd1b9c8da665b454ed8cd400eb5aa9f054a8230eb2125
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário da República
+- Empresa Pública
+- Fiscalização
+- Prestação de Contas
+- Publicitação
+- Relatório e Contas
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:609313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680199:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609313:por
+  label: Revogado o presente diploma, sem prejuízo da sua aplicação às contas encerradas antes de 31 de Dezembro de 1981,
+    pelo(a) Decreto-Lei n.º 84/82 - Diário da República n.º 63/1982, Série I de 1982-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1982-609313
+  date: '1982-03-17'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:07Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +200,7 @@ c) O balanço analítico, a demonstração dos resultados líquidos e o anexo ao
 
 ###### Artigo 5.º — (Parecer da IGF - Casos especiais)
 
-**O Ministro das Finanças, sob proposta da Inspecção-Geral de Finanças, poderá determinar que este serviço proceda à realização de exame à escrita, para efeitos de parecer:**
+O Ministro das Finanças, sob proposta da Inspecção-Geral de Finanças, poderá determinar que este serviço proceda à realização de exame à escrita, para efeitos de parecer:
 
 a) A quaisquer sociedades compreendidas no n.º 3 do artigo 4.º;
 
@@ -243,12 +280,12 @@ O presente diploma não se aplica às instituições bancárias, parabancárias 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.
 
-## ANEXO AO DECRETO-LEI N.º 135/78
+ANEXO AO DECRETO-LEI N.º 135/78
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13200/10391046.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13200/10391046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13200/10391046.pdf)

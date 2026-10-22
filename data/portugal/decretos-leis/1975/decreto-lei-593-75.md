@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/593-1975-312986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e0d8a184089d5eb214c55f594d73c5531feaa80f31f15429e6ecd003d4d79c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 262451ae649e6b41eb574e6aa61f2f06d5d78cba40d5f17492cf1ecc047f1448
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AID
+- Contrato
+- EUA
+- Financiamento
+- Fundo de Fomento da Habitação
+- Portugal
+- Projeto de Investimento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:00Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +98,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Será o Fundo de Fomento da Habitação a entidade responsável pela constituição de um fundo destinado à cobertura financeira de projectos a lançar nas localidades referidas no anexo A do contrato de empréstimo celebrado, em 30 de Junho de 1975, entre o Governo de Portugal e os Estados Unidos da América, através da Agency for International Development, e publicado no Diário do Governo, 1.ª série, de 6 de Outubro de 1975, para cuja realização se estima despender o montante global de 2038000000$00, com o seguinte escalonamento:
+Artigo 1.º Será o Fundo de Fomento da Habitação a entidade responsável pela constituição de um fundo destinado à cobertura financeira de projectos a lançar nas localidades referidas no anexo A do contrato de empréstimo celebrado, em 30 de Junho de 1975, entre o Governo de Portugal e os Estados Unidos da América, através da Agency for International Development, e publicado no Diário do Governo, 1.ª série, de 6 de Outubro de 1975, para cuja realização se estima despender o montante global de 2038000000$00, com o seguinte escalonamento:
 
 1975 - 594000000$00;
 
@@ -101,16 +108,16 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 1978 - 32000000$00.
 
-###### Art. 2.º - 1. O encargo previsto no artigo anterior para o ano em curso será suportado por conta da dotação inscrita no Orçamento Geral do Estado em vigor, sob o capítulo 24.º, artigo 418.º - IV Plano de Fomento.
+Art. 2.º - 1. O encargo previsto no artigo anterior para o ano em curso será suportado por conta da dotação inscrita no Orçamento Geral do Estado em vigor, sob o capítulo 24.º, artigo 418.º - IV Plano de Fomento.
 
 2. O encargo previsto para os anos seguintes será suportado por conta das dotações a inscrever no Orçamento Geral do Estado, a favor do Fundo de Fomento da Habitação, no âmbito do IV Plano de Fomento.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 16 de Outubro de 1975.**
+Promulgado em 16 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

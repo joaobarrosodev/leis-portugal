@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/512-1970-147793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89734e8292080f0c7eada7a2b2269faf3256ebe4594cf40a440201f54cdd79fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 911f8433b27b84fb4861849f7ef20c1aa0e286cd1db4c150c75877f5b40f66b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:685446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:266280:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685446:por
+  label: "Revogado o art. 2º pelo DEC LEI.520/72.15.12.1972.MU, DG.IS [290] de 15.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/520-1972-685446
+  date: '1972-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:58Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +103,11 @@ Nestas condições, e sem prejuízo de modificação mais profunda a decretar no
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os dois primeiros anos dos cursos superiores de Finanças e de Economia, professados no Instituto Superior de Ciências Económicas e Financeiras, passam a ter a constituição seguinte:
+Artigo 1.º Os dois primeiros anos dos cursos superiores de Finanças e de Economia, professados no Instituto Superior de Ciências Económicas e Financeiras, passam a ter a constituição seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/25200/16161617.pdf))](https://files.diariodarepublica.pt/1s/1970/10/25200/16161617.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/25200/16161617.pdf)
 
-###### Art. 2.º - 1. São introduzidas na organização dos três últimos anos dos cursos referidos no artigo anterior as alterações constantes dos números seguintes.
+Art. 2.º - 1. São introduzidas na organização dos três últimos anos dos cursos referidos no artigo anterior as alterações constantes dos números seguintes.
 
 2. Do 3.º ano do curso superior de Finanças passa a fazer parte a disciplina de Introdução à Economia da Empresa.
 
@@ -114,17 +123,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 8. Cada disciplina terá normalmente cinco horas de aula por semana, sendo duas teóricas de uma hora e duas práticas de uma hora e meia. Nas de Direito Constitucional e Administrativo, Direito Internacional Público, História Diplomática e Direito Corporativo haverá, em cada semana, três aulas teóricas de uma hora, as quais poderão ser dedicadas, em parte, a trabalhos de aplicação.
 
-###### Art. 3.º - 1. O regime de apreciação do aproveitamento, incluindo a fixação das condições de dispensa de exames finais, bem como o da passagem do 1.º para o 2.º e do 2.º para o 3.º anos dos cursos serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e parecer da Junta Nacional da Educação.
+Art. 3.º - 1. O regime de apreciação do aproveitamento, incluindo a fixação das condições de dispensa de exames finais, bem como o da passagem do 1.º para o 2.º e do 2.º para o 3.º anos dos cursos serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e parecer da Junta Nacional da Educação.
 
 2. O conselho escolar determinará as precedências impostas pela sequência lógica das matérias nos casos em que venha a decidir o desdobramento de disciplinas.
 
-###### Art. 4.º As aulas teóricas e práticas do 1.º e 2.º anos passam a funcionar simultâneamente em regime de curso diurno e nocturno.
+Art. 4.º As aulas teóricas e práticas do 1.º e 2.º anos passam a funcionar simultâneamente em regime de curso diurno e nocturno.
 
-###### Art. 5.º - 1. As disciplinas de Matemáticas Gerais, Análise Matemática, Economia I e Economia II são para todos os efeitos equivalentes, respectivamente, a Matemáticas I, Matemáticas II, Teoria Económica I e Teoria Económica II.
+Art. 5.º - 1. As disciplinas de Matemáticas Gerais, Análise Matemática, Economia I e Economia II são para todos os efeitos equivalentes, respectivamente, a Matemáticas I, Matemáticas II, Teoria Económica I e Teoria Económica II.
 
 2. A aprovação no ano lectivo de 1969-1970, nas disciplinas de Matemáticas Gerais, Geografia Económica Portuguesa, Economia I e Propedêutica Comercial I, do 1.º ano, ou Análise Matemática, Economia II, Direito Civil (Parte Geral e Obrigações) e Propedêutica Comercial II, do 2.º ano, considera-se, para todos os efeitos, aproveitamento do ano completo.
 
-###### Art. 6.º - 1. No ano escolar de 1970-1971 observar-se-ão as disposições transitórias constantes dos números seguintes.
+Art. 6.º - 1. No ano escolar de 1970-1971 observar-se-ão as disposições transitórias constantes dos números seguintes.
 
 2. Funcionará ainda a disciplina de Análise Matemática.
 
@@ -138,12 +147,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 7. Os alunos inscritos no 5.º ano com disciplinas atrasadas poderão cursar apenas o equivalente a quatro disciplinas anuais e uma semestral de entre as previstas para o 5.º ano no presente diploma.
 
-###### Art. 7.º As dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
+Art. 7.º As dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 17 de Outubro de 1970.**
+Promulgado em 17 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

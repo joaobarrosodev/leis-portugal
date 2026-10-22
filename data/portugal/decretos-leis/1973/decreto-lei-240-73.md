@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1973-422061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87b2f62a254d57a36212bf25a4542bc297e0bd402d3de9f64a753ad78c0ae25f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 923797b56e052fbc83f2777c354e6888e28ca9d70bef812ab5ac312f39a4c251
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caderno de Encargos
+- Cascais
+- Concurso Público
+- Contrato de Concessão
+- Exploração Portuária
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:201462:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:421175:por
+  label: Rectificado [no referente à assinatura do caderno de encargos anexo] pela DECL.DD9819.28.06.1973.PC, DG.IS [150]
+    de 28.06.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-421175
+  date: '1973-06-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:59Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +107,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministério das Comunicações a abrir concurso público para a concessão da construção e exploração de um porto destinado ao serviço da marinha de recreio, a implantar na enseada de Cascais, com vista ao desenvolvimento turístico da zona.
+Artigo 1.º Fica autorizado o Ministério das Comunicações a abrir concurso público para a concessão da construção e exploração de um porto destinado ao serviço da marinha de recreio, a implantar na enseada de Cascais, com vista ao desenvolvimento turístico da zona.
 
-###### Art. 2.º O concurso público referido no artigo anterior terá por base o caderno de encargos que, sob proposta do Ministro das Comunicações, for aprovado pelo Conselho de Ministros.
+Art. 2.º O concurso público referido no artigo anterior terá por base o caderno de encargos que, sob proposta do Ministro das Comunicações, for aprovado pelo Conselho de Ministros.
 
-###### Art. 3.º Cabe ao Conselho de Ministros adjudicar a concessão, cuja outorga será autorizada por decreto referendado pelos Ministros da Justiça, das Finanças, da Marinha, das Obras Públicas e das Comunicações, tendo anexo o texto do respectivo contrato.
+Art. 3.º Cabe ao Conselho de Ministros adjudicar a concessão, cuja outorga será autorizada por decreto referendado pelos Ministros da Justiça, das Finanças, da Marinha, das Obras Públicas e das Comunicações, tendo anexo o texto do respectivo contrato.
 
-###### Art. 4.º A concessão atribuirá à entidade concessionária o direito de cobrar taxas pela prestação de serviços à navegação e pela utilização de terrenos ou instalações anexos ao porto de recreio.
+Art. 4.º A concessão atribuirá à entidade concessionária o direito de cobrar taxas pela prestação de serviços à navegação e pela utilização de terrenos ou instalações anexos ao porto de recreio.
 
-###### Art. 5.º - 1. São consideradas de utilidade pública as expropriações necessárias à construção do porto e seus anexos, a que se refere o presente diploma, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Comunicações.
+Art. 5.º - 1. São consideradas de utilidade pública as expropriações necessárias à construção do porto e seus anexos, a que se refere o presente diploma, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Comunicações.
 
 2. É aplicável às expropriações previstas no número anterior o regime definido na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969.
 
-###### Art. 6.º - 1. O Estado garantirá à entidade concessionária, relativamente ao objecto da concessão, os seguintes benefícios fiscais:
+Art. 6.º - 1. O Estado garantirá à entidade concessionária, relativamente ao objecto da concessão, os seguintes benefícios fiscais:
 
 a) Isenção das taxas de licença;
 
@@ -115,11 +131,11 @@ c) Isenção de direitos de importação relativos aos materiais e equipamentos 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 3 de Maio de 1973.**
+Promulgado em 3 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Concurso público para a concessão da construção e exploração de um porto de recreio
 
@@ -375,4 +391,4 @@ BASE XXVII
 
 Todos os diferendos que se levantem entre o Governo e a concessionária sobre o contrato de concessão serão resolvidos por um tribunal arbitral, constituído por três membros, um nomeado pelo Governo, outro pela empresa concessionária e o terceiro por acordo entre as partes ou, na falta de acordo, por designação do presidente do Supremo Tribunal de Justiça.
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

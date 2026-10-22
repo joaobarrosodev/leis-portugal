@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1977-280738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b889a781e477c6bfa329958a56ed37b3f4c8b1d62a78eb275e00d5f8da3dadc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fab24b3747a36ff511872f198c38b071e2e62e92120b79ff558b953a96763c28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atribuição de Verba
+- Caixa de Previdência dos Empregados da Assistência
+- Departamento de Jogos
+- Isenção Fiscal
+- Jogos de Fortuna e Azar
+- Lotaria Nacional
+- Preço
+- Prémio
+- Receita Própria
+- Venda Ambulante
+- Vendedor
 relationships:
 - type: amended_by
   target: pt:dre:488827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283369:por
+  label: "Alterado o artigo 6º pelo DEC LEI.11/88.15.01.1988.MESS, DR.IS [12] de 15.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1988-283369
+  date: '1988-01-15'
+- type: amended_by
+  target: pt:dre:488827:por
+  label: "Alterados os arts. 2.º e 4.º e revogado o n.º 1 do art. 4.º pelo DEC LEI.200/2009.27.08.2009.MTSSO, DR.IS [166]\
+    \ de 27.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2009-488827
+  date: '2009-08-27'
+- type: cites
+  target: pt:dre:143157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467647:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484417:por
+  label: "Revogado o art. 3º pelo DEC LEI.96/91.26.02.1991.MESS, DR.IS-A [47] de 26.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1991-484417
+  date: '1991-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:55Z'
   warnings: []
   errors: []
 ---
@@ -98,30 +133,30 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O preço de venda ao público constará obrigatoriamente dos bilhetes e fracções da Lotaria Nacional.
+Artigo 1.º O preço de venda ao público constará obrigatoriamente dos bilhetes e fracções da Lotaria Nacional.
 
-###### Art. 2.º A importância destinada a prémios em cada lotaria não pode ser inferior a 54% nem superior a 65% do capital emitido.
+Art. 2.º A importância destinada a prémios em cada lotaria não pode ser inferior a 54% nem superior a 65% do capital emitido.
 
-###### Art. 3.º Em cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido.
+Art. 3.º Em cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido.
 
-###### Art. 4.º - 1 - Os agentes oficiais têm direito a uma comissão não inferior a 12,5% nem superior a 13,5% sobre o preço referido no artigo 1.º, a fixar pela Mesa da Santa Casa da Misericórdia de Lisboa para a gerência da Lotaria Nacional.
+Art. 4.º - 1 - Os agentes oficiais têm direito a uma comissão não inferior a 12,5% nem superior a 13,5% sobre o preço referido no artigo 1.º, a fixar pela Mesa da Santa Casa da Misericórdia de Lisboa para a gerência da Lotaria Nacional.
 
 2 - As condições de admissão, suspensão e eliminação, bem assim os direitos e deveres dos agentes oficiais, constarão de regulamento a aprovar pela Mesa.
 
-###### Art. 5.º Os planos da lotaria e a lista oficial dos resultados dos sorteios serão tornados públicos pela Lotaria Nacional, devendo os primeiros ser reproduzidos no Diário da República.
+Art. 5.º Os planos da lotaria e a lista oficial dos resultados dos sorteios serão tornados públicos pela Lotaria Nacional, devendo os primeiros ser reproduzidos no Diário da República.
 
-###### Art. 6.º Ficam sujeitos a prescrição os prémios que não forem exigidos dentro do prazo de seis meses contados desde o dia da extracção, os quais reverterão a favor da Misericórdia de Lisboa.
+Art. 6.º Ficam sujeitos a prescrição os prémios que não forem exigidos dentro do prazo de seis meses contados desde o dia da extracção, os quais reverterão a favor da Misericórdia de Lisboa.
 
-###### Art. 7.º Mantêm-se em vigor a isenção de taxas e impostos estabelecidos no artigo 11.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935, que contudo deixa de ser aplicada aos vendedores ambulantes que forem agentes oficiais da Lotaria Nacional.
+Art. 7.º Mantêm-se em vigor a isenção de taxas e impostos estabelecidos no artigo 11.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935, que contudo deixa de ser aplicada aos vendedores ambulantes que forem agentes oficiais da Lotaria Nacional.
 
-###### Art. 8.º É reduzida para cinco minutos a tolerância referida no artigo 32.º do [Decreto n.º 12790](https://diariodarepublica.pt/dr/detalhe/decreto/12790-1926-143157), de 30 de Novembro de 1926.
+Art. 8.º É reduzida para cinco minutos a tolerância referida no artigo 32.º do [Decreto n.º 12790](https://diariodarepublica.pt/dr/detalhe/decreto/12790-1926-143157), de 30 de Novembro de 1926.
 
-###### Art. 9.º Este diploma, com excepção do disposto no artigo 8.º, não se aplica às lotarias cujos planos tenham sido aprovados pela Mesa da Santa Casa da Misericórdia de Lisboa, para a gerência da Lotaria Nacional, em data anterior à da sua entrada em vigor.
+Art. 9.º Este diploma, com excepção do disposto no artigo 8.º, não se aplica às lotarias cujos planos tenham sido aprovados pela Mesa da Santa Casa da Misericórdia de Lisboa, para a gerência da Lotaria Nacional, em data anterior à da sua entrada em vigor.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 2 de Novembro de 1977.**
+Promulgado em 2 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1970-141857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7a4f1ab62bbf32833ad31bda0308b4c5c6f32a04fea9f00cda4f86ef3f335f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bdfee46b36dd4b2a53344b8effae97ea329a42be6cc019e89191e726efcee52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Regional de Turismo
+- Faro
+- Região de Turismo
+- Região de Turismo do Algarve
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:228801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:19Z'
   warnings: []
   errors: []
 ---
@@ -89,25 +98,25 @@ Atendendo ainda à conveniência de se adoptarem algumas providências relaciona
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Até 31 de Maio de 1970 subsistem, para todos os efeitos, as actuais zonas de turismo do distrito de Faro.
+Artigo 1.º Até 31 de Maio de 1970 subsistem, para todos os efeitos, as actuais zonas de turismo do distrito de Faro.
 
-###### Art. 2.º - 1. Os órgãos da Comissão Regional de Turismo do Algarve deverão estar constituídos e os seus serviços em funcionamento até 31 de Maio de 1970.
+Art. 2.º - 1. Os órgãos da Comissão Regional de Turismo do Algarve deverão estar constituídos e os seus serviços em funcionamento até 31 de Maio de 1970.
 
 2. Compete ao governador civil do distrito de Faro promover as diligências necessárias para assegurar a constituição oportuna dos órgãos da Comissão Regional de Turismo, bem como a transferência dos serviços das zonas de turismo existentes e a reversão dos bens afectos à respectiva administração.
 
-###### Art. 3.º O pessoal dos quadros afecto aos serviços de turismo das zonas administradas pelas câmaras municipais e juntas de turismo transita, a partir de 1 de Junho de 1970, para os serviços dependentes da Comissão Regional de Turismo do Algarve nas actuais categorias ou naquelas que vierem a ser-lhe atribuídas no quadro a aprovar pelo Secretário de Estado da Informação e Turismo, mantendo todos os direitos que actualmente possuem.
+Art. 3.º O pessoal dos quadros afecto aos serviços de turismo das zonas administradas pelas câmaras municipais e juntas de turismo transita, a partir de 1 de Junho de 1970, para os serviços dependentes da Comissão Regional de Turismo do Algarve nas actuais categorias ou naquelas que vierem a ser-lhe atribuídas no quadro a aprovar pelo Secretário de Estado da Informação e Turismo, mantendo todos os direitos que actualmente possuem.
 
-###### Art. 4.º Compete ao presidente da Comissão Regional de Turismo do Algarve providenciar sobre a organização das contas de gerência das juntas de turismo respeitantes ao ano corrente
+Art. 4.º Compete ao presidente da Comissão Regional de Turismo do Algarve providenciar sobre a organização das contas de gerência das juntas de turismo respeitantes ao ano corrente
 
-###### Art. 5.º A partir de 1 de Junho de 1970 consideram-se transferidos para a Comissão Regional de Turismo do Algarve, independentemente de qualquer formalidade, todos os direitos e obrigações das câmaras municipais e juntas de turismo do distrito de Faro relacionados com a administração das zonas de turismo que tinham a seu cargo.
+Art. 5.º A partir de 1 de Junho de 1970 consideram-se transferidos para a Comissão Regional de Turismo do Algarve, independentemente de qualquer formalidade, todos os direitos e obrigações das câmaras municipais e juntas de turismo do distrito de Faro relacionados com a administração das zonas de turismo que tinham a seu cargo.
 
-###### Art. 6.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
+Art. 6.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 22 de Abril de 1970.**
+Promulgado em 22 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

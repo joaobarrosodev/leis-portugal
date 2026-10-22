@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43977-1961-183058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05833a6a6abdd2bb073d8c31b7c833e58d3292f2b7af4e2581f270f602423563
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7322446764bb0946a5b7c540b36c5c083790aaebab734a88315af1a775cd55f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Ministério do Exército
+- Ministro do Exército
+- Pessoal Civil
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:642046:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:42Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +101,16 @@ Verificando-se que, pelo menos na actual emergência, terá de se recorrer ao al
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Ministro do Exército autorizado a admitir e a manter eventualmente ao serviço do seu Ministério e nos diversos estabelecimentos e serviços dele dependentes o pessoal civil julgado absolutamente indispensável à boa execução dos serviços, dentro dos limites das verbas inscritas no orçamento para esse fim.
+Artigo 1.º É o Ministro do Exército autorizado a admitir e a manter eventualmente ao serviço do seu Ministério e nos diversos estabelecimentos e serviços dele dependentes o pessoal civil julgado absolutamente indispensável à boa execução dos serviços, dentro dos limites das verbas inscritas no orçamento para esse fim.
 
-###### Art. 2.º O referido pessoal civil será admitido em conformidade com as disposições legais em vigor e perceberá os vencimentos e salários que corresponderem ao pessoal de igual categoria nos restantes serviços do Estado.
+Art. 2.º O referido pessoal civil será admitido em conformidade com as disposições legais em vigor e perceberá os vencimentos e salários que corresponderem ao pessoal de igual categoria nos restantes serviços do Estado.
 
 § único. Na falta da equivalência referida no corpo do artigo, serão as remunerações fixadas mediante despacho do Ministro do Exército, com a concordância do Ministro das Finanças.
 
-###### Art. 3.º No corrente ano, os encargos resultantes da aplicação deste diploma serão suportados pelas disponibilidades existentes no orçamento ordinário do Ministério do Exército nas verbas de pessoal eventual.
+Art. 3.º No corrente ano, os encargos resultantes da aplicação deste diploma serão suportados pelas disponibilidades existentes no orçamento ordinário do Ministério do Exército nas verbas de pessoal eventual.
 
-###### Art. 4.º Por força do disposto neste diploma ficam revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 39290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39290-1953-642046), de 24 de Julho de 1953.
+Art. 4.º Por força do disposto neste diploma ficam revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 39290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39290-1953-642046), de 24 de Julho de 1953.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/1979, 3º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3414-(31) a 3414-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf
 entry_into_force_dates: []
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-n-1979-510014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87bf5b325efa27ee694892eb3eb16a64037a47373cc507b1a0e1dca722306939
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42df29321143820fe96c2f060361a740256dc9f93f9c8de5d4093ad8ec5b540c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cofre de Previdência
+- Estatuto
+- Ministério das Finanças
+- Subsídio por Morte
+relationships:
+- type: cites
+  target: pt:dre:327301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427105:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:24Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +112,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 10.º, 18.º, 19.º, 35.º e 102.º dos Estatutos do Cofre de Previdência do Ministério das Finanças, aprovados pelo [Decreto-Lei n.º 465/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1976-427105), de 11 de Junho, alterados pelos Decretos-Leis n.os [325/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1978-327301), de 9 de Novembro, e [236/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1979-381285), de 25 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 10.º, 18.º, 19.º, 35.º e 102.º dos Estatutos do Cofre de Previdência do Ministério das Finanças, aprovados pelo [Decreto-Lei n.º 465/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1976-427105), de 11 de Junho, alterados pelos Decretos-Leis n.os [325/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1978-327301), de 9 de Novembro, e [236/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1979-381285), de 25 de Julho, passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
@@ -112,7 +128,7 @@ b) Até aos 60 anos de idade, nas modalidades de quota actuarial, sempre condici
 
 ...
 
-###### Art. 10.º - 1 - As quotas devidas nas modalidades a que se refere o n.º 3 do artigo 4.º serão liquidadas em duodécimos e arredondadas para escudos, por excesso, e obtêm-se:
+Art. 10.º - 1 - As quotas devidas nas modalidades a que se refere o n.º 3 do artigo 4.º serão liquidadas em duodécimos e arredondadas para escudos, por excesso, e obtêm-se:
 
 a) Pela aplicação da percentagem 2 sobre o subsídio inscrito, quanto à modalidade da alínea a);
 
@@ -124,11 +140,11 @@ b) Segundo as tabelas anexas, C e D, quanto às modalidades da alínea b).
 
 ...
 
-###### Art. 18.º - 1 - O montante do subsídio por morte deverá ser, pelo menos, igual ao vencimento base anual ilíquido, arredondado por múltiplos de 5000$00, não podendo, no acto de inscrição, ser superior à importância fixada anualmente pela assembleia geral, sob proposta da direcção.
+Art. 18.º - 1 - O montante do subsídio por morte deverá ser, pelo menos, igual ao vencimento base anual ilíquido, arredondado por múltiplos de 5000$00, não podendo, no acto de inscrição, ser superior à importância fixada anualmente pela assembleia geral, sob proposta da direcção.
 
 2 - ...
 
-###### Art. 19.º - 1 - No acto de inscrição o sócio optará pelas seguintes modalidades de subsídio por morte:
+Art. 19.º - 1 - No acto de inscrição o sócio optará pelas seguintes modalidades de subsídio por morte:
 
 a) Subsídio limitado com vencimento em função da idade e quota por simples percentagem;
 
@@ -154,7 +170,7 @@ c) Até aos 60 anos de idade, em qualquer das modalidades de quota actuarial.
 
 ...
 
-###### Art. 35.º - 1 - ...
+Art. 35.º - 1 - ...
 
 a) ...
 
@@ -184,21 +200,21 @@ c) Que a distância entre a casa atribuída e a habitação que porventura possu
 
 ...
 
-###### Art. 102.º - 1 - Das deliberações da direcção podem os sócios recorrer para a assembleia geral, no prazo de trinta dias, a contar da comunicação aos interessados.
+Art. 102.º - 1 - Das deliberações da direcção podem os sócios recorrer para a assembleia geral, no prazo de trinta dias, a contar da comunicação aos interessados.
 
 2 - (Eliminado.)
 
 3 - (Eliminado.)
 
-###### Art. 2.º O presente diploma entra em vigor no primeiro dia do mês seguinte à publicação.
+Art. 2.º O presente diploma entra em vigor no primeiro dia do mês seguinte à publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 TABELA C
 
@@ -206,7 +222,7 @@ TABELA C
 
 Subsídio limitado com vencimento a um ano de inscrição e quota actuarial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf)
 
 TABELA D
 
@@ -214,4 +230,4 @@ TABELA D
 
 Subsídio crescente, sendo vitalícia a taxa anual de crescimento, de 2% sobre o subsídio inicial, com vencimento a um ano de inscrição e quota actuarial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29803/00310033.pdf)

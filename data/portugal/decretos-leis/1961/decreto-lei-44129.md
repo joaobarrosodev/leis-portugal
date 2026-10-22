@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 299/1961, 1º Suplemento, Série I de 1961-12-28
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1783 - 1962
   pdf_url: https://files.diariodarepublica.pt/1s/1961/12/29901/17831962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,1028 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44129-1961-437383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 031ea687e2c37456d35be15511c6546b99c6e3c0efaffac2d9b5a6a7463f313e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66a30c8be63aec439deb7ce0851d223504aa073cecfecfcd8d9e65c73a1f3be1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Processo Civil
+- Falência
+- Instituto da Segurança Social
+- Interpretação do Direito
+- Processo Civil
+- Recuperação de Empresas
+- Recurso
+- Santarém
+- Tribunal da Relação
 relationships:
 - type: amended_by
   target: pt:dre:499803:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348326:por
+  label: "Alterados os arts. 1º, 6º, 8º, 10º, 11º, 12º, 13º, 14º, 15º, 17º, 18º, 19º, 20º, 21º, 22º, 23º, 24º, 25º, 27º, 28º,\
+    \ 32º, 33º, 34º, 36º, 38º, 41º, 46º, 50º, 70º, 71º, 72º, 73º, 74º, 77º, 85º, 86º, 89º, 122º, 124º, 127º, 144º, 145º, 146º,\
+    \ 148º, 176º, 233º, 234º, 236º, 253º, 254º 255º, 263º, 267º, 274º, 276º, 285º, 286º, 288º, 289º, 297º, 301º, 307º, 310º,\
+    \ 311º, 316º, 324º, 325º, 330º, 331º, 332º, 360º, 366º, 374º, 379º, 387º, 396º, 397º, 398º, 399º, 400º, 401º, 402º 403º,\
+    \ 404º, 405º, 406º, 407º, 408º, 409º, 410, 416º, 417º, 419º, 421º, 422º, 427º, 428º, 430º, 433º, 434º, 435º, 436º 437º,\
+    \ 438º, 439º, 440, 441º, 442º, 443º, 444º, 446º, 447º, 453º, 455º, 458º, 462º, 474º, 481º, 482º, 485º, 486º, 490º, 491º,\
+    \ 494º, 502º, 504º, 509º, 513º, 515º, 517º a 586º, 603º, 604º, 611º, epígrafe do art. 612º, 615º a 643º, 652º, 653º, 661º,\
+    \ 674º, 676º, 677º, 690º, 692º, 695º, 706º, 707º, 721º, 728º, 736º, 756º, 762º, 769º, 771º, 784º, 786º, 789º, 791º, 795º,\
+    \ 803º, 815º, 818º, 819º, 821º, 823º, 825º, 826º, 828º, 833º, 834º, 836º, 839º, 841º, 842º, 843º, 847º, 864º, 871º, 872º,\
+    \ 873º, 879º a 881º, epígrafe do art. 882º, 888º, 897º, 904º, 906º, 907º, 908º, 909º, 910º, 911º, 912º, 921º, 931º, 933º,\
+    \ 934º, 935º, 941º, 942º, 944º, 946º, 948º, 949º, 950º, 951º, 952º, 953º, 954º, 955º, 956º, 958º a 964º, 968º, 970º, 971º,\
+    \ 973º, 974º, 975º a 977º, 979º, 980º, 982º, 983º, 986º, 991º, 996º a 1000º, nº 1 do art. 1002º, 1005º, 1008º, 1009º,\
+    \ 1011º, 1012º, 1013º, 1014º, 1019º, 1020º, 1021º, 1022º, 1024º, 1026º, 1031º, 1032º, 1038º, 1039º, 1040º, 1047º, 1048º,\
+    \ 1050º, 1052º, 1058º, 1082º, 1083º, 1103º a 1111º, 1113º, 1114º, 1118º, 1119º, 1120º, 1122º, 1133º, 1197º, 1200º, 1201º,\
+    \ 1203º e 1204º, 1223º, 1237º, 1240º, 1244º, 1253º, 1257º, 1327º, 1330º, 1331º, 1337º, 1338º, 1357º, 1358º, 1359º, 1360º,\
+    \ 1365º, 1368º, 1369º, 1376º, 1377º, 1380º, 1383º, 1384º, 1385º, epígrafe do art. 1386º, 1388º, 1389º, 1399º, 1400º a\
+    \ 1406º, 1408º, 1409º, 1412º a 1422º, 1423º, 1424º, 1425º, 1426º a 1448º, 1450º, 1451º, 1453º a 1459º, 1460º, 1466º, 1467º\
+    \ a 1478º, epígrafe do art. 1479º, art. 1484º e 1485º, epígrafe do art. 1502º, 1509º, 1512º e 1527º, do Código de Processo\
+    \ Civil aprovado pelo presente diploma, pelo DEC LEI.47690.11.05.1967.MJ, DG.IS [112]Supl de 11.05.1967\067\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47690-1967-348326
+  date: '1967-05-11'
+- type: amended_by
+  target: pt:dre:525599:por
+  label: "Aditado um nº 3 ao art. 591º pela LEI.2140.1969.03.14.PR, DG.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2140-1969-525599
+  date: '1969-03-14'
+- type: amended_by
+  target: pt:dre:140330:por
+  label: "Alterados os arts. 111º, 144º e 145º (os dois últimos na redacção do Dec Lei 47690, de 11-Mai 1967), 162º, 169º,\
+    \ 170º, 171º, 172º, 173º, 253º e 254º (os dois últimos na redacção do Dec Lei 47690, de 11-Mai 1967), pelo DEC LEI.323/70.1970.07.11.MJ,\
+    \ DG.IS [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1970-140330
+  date: '1970-07-11'
+- type: amended_by
+  target: pt:dre:412831:por
+  label: "Alterado o art. 227º do Código de Processo Civil, aprovado pelo presente diploma, na redacção da portaria 642/73\
+    \ de 27-Set, pela PORT.642/73.27.09.1973.MU, DG.IS [227] de 27.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1973-412831
+  date: '1973-09-27'
+- type: amended_by
+  target: pt:dre:560186:por
+  label: "Alterado o o nº 3 do art. 709º do Código de Processo Civil, pela PORT.439/74.1974.07.10.MCINT DR.IS [159]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/439-1974-560186
+  date: '1974-07-10'
+- type: amended_by
+  target: pt:dre:335965:por
+  label: "Alterado o art. 1417º do Código, (na redacção do Dec Lei 47690, de 11-Mai 1967), pelo DEC LEI.261/75.1975.05.27.MJ,\
+    \ DG.IS [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1975-335965
+  date: '1975-05-27'
+- type: amended_by
+  target: pt:dre:507400:por
+  label: "Alterado o art. 540º do Código, na redacção do Dec Lei 47690 de 11-Mai 1967, pelo DEC LEI.165/76.1976.03.01.MJ,\
+    \ DG.IS [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-1976-507400
+  date: '1976-03-01'
+- type: amended_by
+  target: pt:dre:501432:por
+  label: "Alterado o art. 51º do Código, pelo DEC LEI.201/76.1976.03.19.MJ, DG.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1976-501432
+  date: '1976-03-19'
+- type: amended_by
+  target: pt:dre:428018:por
+  label: "Alterado o art. 972º, pelo DEC LEI.366/76.1976.05.15.MJ, DR.IS [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1976-428018
+  date: '1976-05-15'
+- type: amended_by
+  target: pt:dre:430656:por
+  label: "Alterados os arts. 1404º(na redacção do Dec Lei 47690, de 11-Mai 1967), 1407º, 1408º(este último na redacção do\
+    \ Dec Lei 47690, de 11-Mai 1967), 1419º(na redacção do Dec Lei 47690, de 11-Mai 1967), 1420º, 1421º, 1423º e 1424º(os\
+    \ 2 últimos na redacção do Dec Lei 47690, de 11-Mai 1967), todos do Código de Processo Civil, aprovado pelo presente diploma,\
+    \ pelo DEC LEI.605/76.1976.07.24.MJ, DR.IS [172]\02]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/605-1976-430656
+  date: '1976-07-24'
+- type: amended_by
+  target: pt:dre:409570:por
+  label: "Alterados os arts. 214º, 216º, 217º, 218º, 219º e 222º do Código, pelo DEC LEI.738/76.1976.10.16.MJ, DR.IS [243]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/738-1976-409570
+  date: '1976-10-16'
+- type: amended_by
+  target: pt:dre:286482:por
+  label: "Alterados os arts. 17º, 18º, 89º, 122º, 124º, 127º, (todos na redacção do Dec Lei 47690, de 11-Mai 1967), 177º,\
+    \ 180º, 181º, 410º, 519º, 559º, 580º, 581º, 582º, 583º, 584º, (os 8 últimos na redacção do Dec Lei 47690, de 11-Mai 1967),\
+    \ 591º (aditado um nº 3 pela Lei 2140 de 14-Mar 1969), 604º, 612,º 624º, 625º, 626º, 629º e 638º, (todos na redacção do\
+    \ Dec Lei 47690, de 11-Mai 1967), 656º, 721º, 769º, 823º e 834º, (os quatro últimos na redacção do Dec Lei 4769, de 11-Mai\
+    \ 1967), 854º, 894º, 904º, (este último na redacção do Dec Lei 47690, de 11-Mai 1967), 905º, 906º, (este último na redacção\
+    \ do Dec Lei 47690, de 11-Mai 1967), 972º (na redacção do Dec Lei 366/77 de 15-Mai), 1038º, (na redacção do Dec Lei, 47690,\
+    \ de 11-Mai 1967), 1181º, 1183º, 1238º, 1269º, 1279º, 1305º, 1327º, (este último na redacção do Dec Lei 47690, de 11-Mai\
+    \ 1967), 1332º, 1352º, 1404º ( este último na redacção do Dec Lei 605/76, de 24-Jul e na redacção do Dec Lei 47690, de\
+    \ 11-Mai 1967), 1414º e 1416º, (na redacçãodo Dec Lei 47690, de 11-Mai 1967) e 1463º e revogado o art. 1415º, todos do\
+    \ Código de Processo Civil, aprovado pelo presente diploma, pelo DEC LEI.368/77.1977.09.03.MJ, DR.IS [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1977-286482
+  date: '1977-09-03'
+- type: amended_by
+  target: pt:dre:276632:por
+  label: "Alterado o art. 51º do Código de Processo Civil, aprovado pelo presente diploma, na redacção do Dec Lei 201/76 de\
+    \ 19-Mar, pelo DEC LEI.533/77.1977.12.30.MJ, DR.IS [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1977-276632
+  date: '1977-12-30'
+- type: amended_by
+  target: pt:dre:618706:por
+  label: Aditado o art. 65.º-A e alterado o art. 99.º (cuja nova redação só se aplica nos tribunais cíveis) do Código de Processo
+    Civil , pela LEI.21/78.1978.05.03.AR, DR.IS [101]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-1978-618706
+  date: '1978-05-03'
+- type: amended_by
+  target: pt:dre:147384:por
+  label: "Alterados os arts. 13º (na redacção do Dec Lei 47690, de 11-Mai 1967), o nº 2 do art. 553º e o nº 3 do art. 1022º\
+    \ (na redacção do Dec Lei 47690, de 11-Mai 1967), art. 1412º (na redacção do Dec Lei 47690, de 11-Mai 1967), art. 1414º\
+    \ (na redacção do Dec Lei 47690, de 11-Mai 1967 e do Dec Lei 368/77 de 03-Set), art. 1415º (na redacção do Dec Lei 47690,\
+    \ de 11-Mai 1967), alterado o nº 1 do art. 1420º, o art. 1421º e os nºs. 1, 2 e 4 do art. 1423º (na redacção do Dec Lei\
+    \ 47690, de 11-Mai 1967 e do Dec Lei 605/76 de 24-Jul), art. 1424º (na redacção do Dec lei 47690, de 11-Mai 1967 e do\
+    \ Dec Lei 605/76 de 24-Jul), art. 1426º (na redacção do Dec Lei 47690, de 11-Mai 1967), aditados os arts. 13º-A, 13º-B,\
+    \ 13º-C, 13º-D e 13º-E, 1022º-A, 1414º-A, 1417º-A, 1423º-A, bem como são aditados, com a epígrafe 'Secção XXI - atribuição\
+    \ de bens de pessoa colectiva extinta', os arts. 1507º-A a 1507º-D, revogada a al. b) do art. 1419º (na redacção do Dec\
+    \ Lei 47690, de 11-Mai 1967 e do Dec Lei 605/76 de 24-Jul), renumeradas todas as als, alterada a al. f) e aditado o nº\
+    \ 2, com nova redacção, todos ao art. 1419º e revogado o art. 1423º, todos do Código de Processo Civil, aprovado pelo\
+    \ presente diploma, pelo DEC LEI.513-X/79.27.12.1979.MJ, DR.IS [297-Supl] de 27.12.1979\079\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-x-1979-147384
+  date: '1979-12-27'
+- type: amended_by
+  target: pt:dre:473526:por
+  label: "Alterados os arts.1038.º(na redacção do Dec Lei 47690 de 11-Mai 1967 e do Dec Lei 368/77 de 03-Set), e 1407.º(na\
+    \ redacção do Dec Lei 605/76 de 24-Jul), ambos do Código de Processo Civil aprovado pelo presente diploma, pelo DEC LEI.207/80.01.07.1980.PCM,\
+    \ DR.IS [[149]] de 01.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1980-473526
+  date: '1980-07-01'
+- type: amended_by
+  target: pt:dre:462240:por
+  label: "Alterados os arts. 37º, 144º (este último na redacção do Dec Lei 47690, de 11-Mai 1967 e do Dec Lei 323/70 de 11-Jul),\
+    \ 170º (na redacção do Dec Lei 323/70 de 11-Jul), 253º (na redacção do Dec Lei 47690, de 11-Mai 1967 e do Dec Lei 323/70\
+    \ de 11-Jul), 503º, 504º (este último na redacção do Dec Lei 47690, de 11-Mai 1967), 512º, 651º, 793º, 794º, 795º e 907º(na\
+    \ redacção do Dec Lei 47690, de 11-Mai 1967), todos do Código de Processo Civil, aprovado pelo presente diploma, pelo\
+    \ DEC LEI.457/80.1980.10.10.MJ, DR.IS , DR.IS [235)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1980-462240
+  date: '1980-10-10'
+- type: amended_by
+  target: pt:dre:395722:por
+  label: "Alterados os arts. 26º, 138º, 143º, 144º (na redacção dos Dec Lei 47690 de 11-Mai, 323/70 de 11-Jul e 457/80 de\
+    \ 10-Out), 151º, 153º, 157º, 158º, 159º, 164º, 167º, 274º (este último na redacção do Dec Lei 47690 de 11-Mai), 467º,\
+    \ 484º, 490º (este último na redacção do Dec Lei 47690 de 11-Mai), 510º, 511º, 512º (este último na redacção do Dec Lei\
+    \ 457/80 de 10-Out), 619º (na redacção do Dec Lei 47690 de 11-Mai), 653º-A, 664º, 678º, 690º (este último na redacção\
+    \ do Dec Lei 47690 de 11-Mai), 699º, 702º, 705º, 707º (este último na redacção do Dec Lei 47690 de 11-Mai), 712º, 714º,\
+    \ 717º, 728º (este último na redacção do Dec Lei 47690 de 11-Mai), 734º, 735º, 736º (este último na redacção do Dec Lei\
+    \ 47690 de 11-Mai), 742º, 743º, 746º, 748º, 752º, 753º, 756º (este último na redacção do Dec Lei 47690 de 11-Mai), 760º,\
+    \ 762º (este último na redacção do Dec Lei 47690 de 11-Mai), 783º, 786º (este último na redacção do Dec Lei 47690 de 11-Mai),\
+    \ 787º, 792º, 793º, 794º (os dois últimos na redacção do Dec Lei 457/80 de 10-Out) e 972º (na redacção do Dec Lei 366/76\
+    \ de 15-Mai), todos do Código de Processo Civil aprovado pelo presente diploma, pelo DEC LEI.224/82.08.06.1982.MJ, DR.IS\
+    \ [[130]] de 08.06.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1982-395722
+  date: '1982-06-08'
+- type: amended_by
+  target: pt:dre:311375:por
+  label: "Alterado o art. 1º (que deu nova redacção a vários artigos do código de processo civil) do Dec Lei 224/82 de 08-Jun,\
+    \ alterando de entre esses, os seguintes artigos do citado código aprovado pelo presente diploma : arts. 26º, 138º, 143º,\
+    \ 144º (este último na redacção dos Dec Lei 47690 de 11-Mai 1967, 323/70 de 11-Jul e 457/80 de 10-Out), 145º (este último\
+    \ na redacção dos Dec Lei 47690 de 11-Mai 1967 e 323/70 de 11-Jul), 152º, 153º, 157º, 159º, 164º, 167º, 274º (este último\
+    \ na redacção do Dec Lei 47690 de 11-Mai 1967) 467º, 484º, 490º (este último na redacção do Dec Lei 47690 de 11-Mai 1967),\
+    \ 510º, 511º, 512º (este último na redacção do Dec Lei 457/80 de 10-Out), 513º, 619º, 652º (na redacção do Dec Lei 47690\
+    \ de 11-Mai 1967), 653º-A, 678º, 690º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 699º, 702º, 705º, 707º\
+    \ (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 712º, 714º, 717º, 728º (este último na redacção do Dec Lei\
+    \ 47690 de 11-Mai 1967), 734º, 735º, 736º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 742º, 743º, 746º,\
+    \ 748º, 752º, 753º, 760º, 762º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 783º, 786º (este último na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 787º, 793º, 794º (os 2 últimos na redacção do Dec Lei 457/80 de 10-Out), e 972º, uniformiza\
+    \ ainda os prazos previstos no mesmo Código, pela LEI.3/83.26.02.1983.AR, DR.IS [47] de 26.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1983-311375
+  date: '1983-02-26'
+- type: amended_by
+  target: pt:dre:309946:por
+  label: "Alterados os arts. 39º, 93º, 109º, 123º, 146º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 169º (este\
+    \ último na redacção do Dec Lei 323/70 de 11-Jul), 170º (na redacção do Dec Lei 47690 de 11-Mai 1967 e do Dec Lei 457/80\
+    \ de 10-Out), 171º, 172º, 173º (todos na redacção do Dec Lei 323/70 de 11-Jul), 178º, 180º, 181º (os dois últimos na redacção\
+    \ do Dec Lei 368/77 de 03-Set), 189º, 232º, 239º, 242º, 252-Aº, 259º, 260º, 263º-A, 266º-A, 266º-B, 266º-C, 266º-D, 300º,\
+    \ 304º, 463º,464º-A, 639º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 658º, 659º, 709º (este último na\
+    \ redacção da Port 439/74 de 10-Jul), 721º (na redacção do Dec Lei 47690 de 11-Mai 1967 e do Dec Lei 368/77 de 03-Set),\
+    \ 754º, 795º (na redacção do Dec Lei 47690 de 11-Mai 1967 e Dec Lei 457/80 de 10-Out), 927º e 1048º (este último na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), todos do Código de Processo Civil, aprovado pelo presente diploma, pelo DEC LEI.128/83.12.03.1983.MJ,\
+    \ DR.IS [59] de 12.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1983-309946
+  date: '1983-03-12'
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterados os artigos 51.º (na redacção dos Dec Lei 201/76 de 19-Mar e 533/77 de 30-Dez), 100.º, 109.º, 138.º (este\
+    \ último na redacção do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev), 144.º (na redacção dos Dec Lei 47690 de 11-Mai\
+    \ 1967, 323/70 de 11-Jul, 457/80 de 10-Out, 224/82 de 08-Jun, da Lei 3/83 de 26-Fev), 145.º (na redacção dos Dec Lei 47690\
+    \ de 11-Mai 1967, 323/70 de 11-Jul, 224/82 de 08-Jun e da Lei 3/83 de 26-Fev) 151.º (na redacção do Dec Lei 224/82 de\
+    \ 08-Jun), 152.º, (na redacção do Dec Lei 224/82 de 08-Jun e Lei 3/83 de 26-Fev), 157.º (na redacção do Dec Lei 224/82\
+    \ de 08-Jun e da Lei 3/83 de 26-Fev), 176.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 207.º, 232.º, 234.º (na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 235.º, 238.º, 239.º, 242.º, 253.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 323/70\
+    \ de 11-Jul e 457/80 de 10-Out), 255.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 257.º, 259.º, 260.º, 261.º, 304.º,\
+    \ 462.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 467.º (na redacção do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de\
+    \ 26-Fev), 479.º, 484.º (na redacção do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev), 486.º (na redacção do Dec Lei\
+    \ 47690 de 11-Mai 1967), 488.º, 490.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 224/82 de 08-Jun e da Lei 3/83 de\
+    \ 26-Fev), 495.º, 502.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 503.º (na redacção dos Dec Lei 457/80 de 10-Out\
+    \ ), 504.º (na redacção do Dec Lei 47690 de 11-Mai 1967 e 457/80 de 10-Out ), 505.º, 508.º, 510.º, 511º, 512.º (os 3 últimos\
+    \ na redacção do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev, o último na redacção do Dec Lei 457/80 de 10-Out),\
+    \ 646.º, 647.º, 651.º (na redacção do Dec Lei 457/80 de 10-Out), 652.º (na redacção do Dec Lei 47690 de 11-Mai 1967, Dec\
+    \ Lei 224/82 de 08-Jun e Lei 3/83 de 26-Fev), 653.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 658.º, 659.º, 678.º\
+    \ (na redacção do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev), 682.º, 712.º, 728.º (os dois últimos na redacção\
+    \ do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev e o último na redacção do Dec Lei 47690 de 11-Mai 1967), 734º (\
+    \ na redacção do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev), 735.º, 736.º, (os dois últimos na redacção do Dec\
+    \ Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev e o último na redacção do Dec Lei 47690 de 11-Mai 1967), 754.º, 756.º (na\
+    \ redacção do Dec Lei 47690 de 11-Mai 1967 e do Dec Lei 224/82 de 08-Jun), 762.º (na redacção dos Dec Lei 47690 de 11-Mai\
+    \ 1967, 224/82 de 08-Jun e da Lei 3/83 de 26-Fev), 764.º, 790.º, 792.º (na redacção do Dec Lei 224/82 de 08-Jun), 811.º,\
+    \ 924.º, 927.º, 928.º, 979.º (na redacção do Dec Lei 47690 de 11-Mai 1967), aditados os artigos 228.º-A, 228.º-B, 234.º-A,\
+    \ 238.º-A e 464.º-A e revogados os artigos 233.º, 237.º, 240.º, 241.º e 247.º), todos do Código de Processo Civil, aprovado\
+    \ pelo presente diploma, pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:476742:por
+  label: "Alterado o artigo 144.º do presente diploma, na redacção dos Dec Lei 47690 de 11-Mai 1967, 323/70 de 11-Jul, 457/80\
+    \ de 10-Out, da Lei 3/83 de 26-Fev, e do Dec Lei 242/85 de 09-Jul pelo DEC LEI.381-A/85.28.09.1985.MJ, DR.IS [224]Supl\
+    \ de 28.09.1985\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-a-1985-476742
+  date: '1985-09-28'
+- type: amended_by
+  target: pt:dre:228619:por
+  label: "Alterados os arts. 1140º, 1141º, 1174º, 1175º, 1176º, 1190º, 1197º (este último na redacção do Dec Lei 47690 de\
+    \ 11-Mai 1967), 1202º, 1241º, 1245º, 1247º, 1251º e 1282º e aditado o art. 1303º-A, pelo DEC LEI.177/86.1986.07.02.MJ,\
+    \ DR.IS [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1986-228619
+  date: '1986-07-02'
+- type: amended_by
+  target: pt:dre:218957:por
+  label: "Alterado o nº 2 do art. 90º, o art. 814º e revogado o título I do do livro IV do 'Tribunal Arbitral Voluntário'\
+    \ do Código de Processo Civil, aprovado pelo presente diploma, pela pela LEI.31/86.1986.08.29.AR, DR.IS [198]\08]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-1986-218957
+  date: '1986-08-29'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterado o art. 145º (com a redacção dada pelo Dec Lei 47690 de 11-Mai 1967, pelo Dec Lei 323/70 de 11-Jul, pela
+    Lei 3/83 de 26-Fev e pelo Dec Lei 242/85 de 09-Jul) do Código de Processo Civil, aprovado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 92/88 - Diário da República n.º 64/1988, 1º Suplemento, Série I de 1988-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Alterados os arts. 1326º, 1327º (na redacção do Dec Lei 47690 de 11-Mai 1967 e do Dec Lei 368/77 de 03-Set), 1328º,\
+    \ 1329º, 1330º, 1331º (os dois últimos na redacção do Dec Lei 47690 de 11-Mai 1967), 1332º (na redacção do Dec Lei 368/77\
+    \ de 03-Set), 1333º, 1334º, 1335º, 1336º, 1337º, 1338º (os dois últimos na redacção do Dec Lei 47690 de 11-Mai 1967),\
+    \ 1339º, 1340º, 1341º, 1342º, 1343º, 1344º, 1345º, 1346º, 1347º, 1348º, 1349º, 1350º, 1351º, 1352º (o último na redacção\
+    \ do Dec Lei 368/77 de 03-Set), 1353º, 1361º, 1362º, 1363º, 1364º, 1365º (na redacção do Dec Lei 47690 de 11-Mai 1967),\
+    \ 1366º, 1367º, 1368º, 1369º (os dois últimos na redacção do Dec Lei 47690 de 11-Mai 1967),1372º, 1373º, 1376º (na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 1379º, 1384º (na redacção do Dec Lei 47690 de 11-Mai 1967), 1396º e 1439º (na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), e revogados os arts. 1390º, 1391º com excepção do seu nº 1, 1392º, 1393º, 1394º,1397º,\
+    \ 1398º, 1399º com excepção do seu nº 1, 1400º, 1401º, 1402º e 1403º, todos do Código de Processo Civil, aprovado pelo\
+    \ Dec Lei 44129 de 28-Dez 1961, pelo DEC LEI.227/94.1994.09.08.MJ, DR.IS-A [208]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: amended_by
+  target: pt:dre:202420:por
+  label: "Alterados os arts. 304.º (na redacção do Dec Lei 242/85 de 09-Jul), 381.º, 463.º (na redacção do Dec Lei 128/83\
+    \ de 12-Mar), 563.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 630.º, 637.º (ambos na redacção do Dec Lei 47690 de\
+    \ 11-Mai 1967), 639.º (na redacção do Dec Lei 128/83 de 12-Mar), 643.º, 646.º (o último na redacção do Dec Lei 242/85\
+    \ de 09-Jul), 653.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 705.º, 712.º (na redacção dos Dec Lei 242/85 de 09-Jul\
+    \ e 224/82 de 08-Jun e da Lei 3/83 de 26-Fev), 743.º (na redacção do Dec Lei 224/82 de 08-Jun e da Lei 3/83 de 26-Fev)\
+    \ e 791.º (na redacção do Dec Lei 47690 de 11-Mai 1967), aditados os arts. 522.º-A, 522.º-B, 522.º-C, 684.º-A e 690.º-A\
+    \ e revogado o art. 564.º, todos do Código de Processo Civil, aprovado pelo presente diploma, pelo DEC LEI.39/95.1995.02.15.MJ\
+    \ DR.IS-A [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1995-202420
+  date: '1995-02-15'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "MODIFICAÇÕES SOFRIDAS NO PRESENTE CÓDIGO (PARTE 1) - Alterados os arts. 2.º, 3.º, 6.º, 8.º, 10.º, 11.º, 12.º (os\
+    \ 5 últimos na redacção do Dec Lei 47690 de 11-Mai 1967), 16.º, 17º, 18.º (os 2 últimos na redacção dos Dec Lei 47690\
+    \ de 11-Mai 1967 e 368/77 de 03-Set), 20.º, 21.º, 23.º, 24.º (todos na redacção do Dec Lei 47690 de 11-Mai 1967), 26.º\
+    \ (na redacção dos Dec Lei 224/82 de 08-Jun e Lei 3/83 de 26-Fev), 30.º a 32.º, 34.º (os 2 últimos na redacção do Dec\
+    \ Lei 47690 de 11-Mai 1967), 35º, 36.º (o último na redacção do Dec Lei 47690 de 11-Mai 1967), 39.º (na redacção do Dec\
+    \ Lei 128/83 de 12-Mar), 40.º, 42.º a 44.º, 46.º (o último na redacção do Dec Lei 47690 de 11-Mai 1967), 47.º, 50.º (o\
+    \ último na redacção do Dec Lei 47690 de 11-Mai 1967), 51º (na redacção dos Dec Lei 201/76 de 19-Mar, 533/77 de 30-Dez\
+    \ e 242/85 de 09-Jul), 52º, 53º, 54.º, 56.º, 58.º, 60.º, 62.º, 63º, 64º, 65º, 65.º-A, 66º, 67º, 68º, 69º, 70º, 71º, 72º,\
+    \ 73º, 74.º, 77.º (os 6 últimos na redacção do Dec Lei 47690 de 11-Mai 1967), 82.º, 87.º, 89.º (o último na redacção dos\
+    \ Dec Lei 47690 de 11-Mai 1967 e 368/77 de 03-Set), 98.º, 99º (na redacção da Lei 21/78 de 03-Mai), 100.º (na redacção\
+    \ do Dec Lei 242/85 de 09-Jul), 102.º, 103.º, 105.º, 107.º, 108º, 109º (na redacção dos Dec Lei 128/83 de 12-Mar e 242/85\
+    \ de 09-Jul), 110º, 111.º (este último na redacção do Dec Lei 323/70 de 11-Jul), 114.º, 115º, 116.º, 122.º (este último\
+    \ na redacção do Dec Lei 47690 de 11-Mai 1967 e 368/77 de 03-Set), 124.º (este último na redacção dos Dec Lei 47690 de\
+    \ 11-Mai 1967 e 368/77 de 03-Set), 125.º, 138.º (este último na redacção dos Dec Lei 224/82 de 08-Jun, Lei 3/83 de 26-Fev\
+    \ e Dec Lei 242/85 de 09-Jul), 140.º, 142.º, 143º (este último na redacção dos Dec Lei 224/82 de 08-Jun e Lei 3/83 de\
+    \ 26-Fev), 144º (este último na redacção dos Dec Lei 47690 de 11-Mai 1967, 323/70 de 11-Jul, 457/80 de 10-Out, 224/82\
+    \ de 08-Jun, Lei 3/83 de 26-Fev e Dec Lei 242/85 de 09-Jul e Dec Lei 381-A/85 de 28-Set), 145º (na redacção dos Dec Lei\
+    \ 47690 de 11-Mai 1967, 323/70 de 11-Jul, Lei 3/83 de 26-Fev, Dec Lei 242/85 de 09-Jul e Dec Lei 92/82 de 17-Mar), 146º\
+    \ (na redacção do Dec Lei 47690 de 11-Mai 1967 e 128/83 de 12-Mar), 147.º, 150.º (este último na redacção do Dec Lei 224/82\
+    \ de 08-Jun), 151º (na redacção do Dec Lei 242/85 de 09-Jul), 152º (na redacção da Lei 3/83 de 26-Fev e Dec Lei 242/85\
+    \ de 09-Jul), 153º (na redacção do Dec Lei 224/82 e Lei 3/83 de 26-Fev), 154º, 155º, 156.º, 159.º (este último na redacção\
+    \ do Dec Lei 224/82 de 08-Jun e Lei 3/83 de 26-Fev), 160º, 161º, 162º (este último na redacção do Dec Lei 323/70 de 11-Jul),\
+    \ 163.º, 167.º (este último na redacção do Dec Lei 224/82 de 08-Jun e Lei 3/83 de 26-Fev), 168º, 169º (este último na\
+    \ redacção dos Dec Lei 323/70 de 12-Mar e 128/83 de 12-Mar), 170º (este último na redacção dos Dec Lei 457/80 de 10-Out\
+    \ e 128/83 de 12-Mar), 171º, 172.º (ambos na redacção do Dec Lei 128/83 de 12-Mar), 174.º, 175º, 176º, (o último na redacção\
+    \ dos Dec Lei 47690 de 11-Mai 1967 e 242/85 de 09-Jul), 177.º (na redacção do Dec Lei 368/77 de 03-Set), 179.º, 181.º\
+    \ (este último na redacção dos Dec Lei 368/77 de 03-Set e 128/83 de 12-Mar), 182.º, 188.º, 193.º, 195.º, 198.º, 206.º,\
+    \ 216.º (este último na redacção do Dec Lei 738/76 de 16-Out), 222.º (na redacção do Dec Lei 738/76 de 16-Out), 225.º,\
+    \ 228.º, 229.º, 231.º, 232º (este último na redacção dos Dec Lei 128/83 de 12-Mar e 242/85 de 09-Jul), 233º (este último\
+    \ na redacção do Dec Lei 47690 de 11-Mai 1967), 234º (na redacção do Dec Lei 47690 de 11-Mai 1967 e 242/85 de 09-Jul),\
+    \ 235º (na redacção do Dec Lei 242/85 de 09-Jul), 236º (na redacção do Dec Lei 47690 de 11-Mai 1967), 237º, 238º (este\
+    \ último na redacção do Dec Lei 242/85 de 09-Jul), 239º (este último na redacção dos Dec Lei 128/83 de 12-Mar e 242/85\
+    \ de 09-Jul), 240º, 241º, 242º (este último na redacção dos Dec Lei 128/83 de 12-Mar e 242/85 de 09-Jul), 243º, 244º,\
+    \ 245º, 246º, 247º, 248.º, 251.º, 253.º (este último na redacção dos Dec Lei 47690 de 11-Mai 1967, 323/70 de 11-Jul, 457/80\
+    \ de 10-Out e 242/85 de 09-Jul), 254º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 323/70 de 11-Jul), 255º (na redacção\
+    \ dos Dec Lei 47690 de 11-Mai 1967 e 242/85 de 09-Jul), 256º, 257º (este último na redacção do Dec Lei 242/85 de 09-Jul),\
+    \ 258.º, 260.º (este último na redacção dos Dec Lei 128/83 de 12-Mar e 242/85 de 09-Jul), 261º (na redacção do Dec Lei\
+    \ 242/85 de 09-Jul), 262.º, 264.º, 265º, 266º, 267.º (o último na redacção do Dec Lei 47690 de 11-Mai 1967), 269.º, 273.º,\
+    \ 274º (o último na redacção dos Dec Lei 47690 de 11-Mai 1967, 224/82 de 08-Jun e Lei 3/83 de 26-Fev), 275º, 276º (o último\
+    \ na redacção do Dec Lei 47690 de 11-Mai 1967), 277.º, 279.º, 280.º, 283.º, 291.º, 292.º, 300.º (este último na redacção\
+    \ do Dec Lei 128/83 de 12-Mar), 301º (na redacção do Dec Lei 47690 de 11-Mai 1967), 303.º, 311.º (o último na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 313.º, 319.º, 320º, 321º, 322º, 323º, 324º, 325º (os 2 últimos na redacção do Dec\
+    \ Lei 47690 de 11-Mai 1967), 326º, 327º, 328º, 329º, 330º, 331º, 332º (os 3 últimos na redacção do Dec Lei 47690 de 11-Mai\
+    \ 1967), 333º, 334.º, 337.º, 338.º, 342.º, 344.º, 345º, 346.º, 349.º, 350.º, 351º, 352º, 353º, 354º, 355º, 356º, 357º,\
+    \ 358º, 359º, 360.º (o último na redacção do Dec Lei 47690 de 11-Mai 1967), 362.º, 364.º, 369.º, 370º, 371º, 372º, 373º,\
+    \ 374º (o último na redacção do Dec Lei 47690 de 11-Mai 1967), 375º, 376º, 377.º, 380.º, 381º (este último na redacção\
+    \ do Dec Lei 39/95 de 15-Fev), 382º, 383º, 384º, 385º, 386º, 387º (o último na redacção do Dec Lei 47690 de 11-Mai 1967),\
+    \ 388º, 389º, 390º, 391º, 392.º, 395.º, 396º, 397.º, 399.º, 400º, 401º, 402º, 403º, 404º, 405º, 406º, 407º, 408º, 409º\
+    \ (os13 últimos na redacção do Dec Lei 47690 de 11-Mai 1967), 410º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 368/77\
+    \ de 03-Set), 411º, 412º, 413º, 414.º, 419.º (o último na redacção do Dec Lei 47690 de 11-Mai 1967), 420º, 421º, 422.º,\
+    \ 427.º (os 3 últimos na redacção do Dec Lei 47690 de 11-Mai 1967), 456.º, 457.º, 463.º (o último na redacção dos Dec\
+    \ Lei 128/83 de 12-Mar e 39/95 de 15-Fev), 465.º, 466.º, 470.º, 471.º, 473.º, 474º (o último na redacção do Dec Lei 47690\
+    \ de 11-Mai 1967), 475º, 476º, 477º, 478º, 479.º (o último na redacção do Dec Lei 242/85 de 09-Jul), 484.º (o último na\
+    \ redacção dos Dec Lei 224/82 de 08-Jun, Lei 3/83 de 26-Fev e Dec Lei 242/85 de 09-Jul), 485º (na redacção do Dec Lei\
+    \ 47690 de 11-Mai 1967), 486.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 242/85 de 09-Jul), 488.º (na redacção do\
+    \ Dec Lei 242/85 de 09-Jul), 490.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 224/82 de 08-Jun, Lei 3/83 de 26-Fev\
+    \ e Dec Lei 242/85 de 09-Jul), 492.º, 494.º (o último na redacção do Dec Lei 47690 de 11-Mai 1967), 495º (na redacção\
+    \ do Dec Lei 242/85 de 09-Jul), 496º, 497.º, 501.º, 502º (o último na redacção dos Dec Lei 47690 de 11-Mai 1967 e 242/85\
+    \ de 09-Jul), 503º (na redacção dos Dec Lei 457/80 de 10-Out e 242/85 de 09-Jul), 504.º (na redacção dos Dec Lei 47690\
+    \ de 11-Mai 1967, 457/80 de 10-Out e 242/85 de 09-Jul), 506.º, 507º, 508º (o último na redacção do Dec Lei 242/85 de 09-Jul),\
+    \ 509º (na redacção do Dec Lei 47690 de 11-Mai 1967), 510º, 511º (ambos na redacção dos Dec Lei 224/82 de 08-Jun, Lei\
+    \ 3/83 de 26-Fev e Dec Lei 242/85 de 09-Jul), 512º (na redacção dos Dec Lei 457/80 de 10-Out, 224/82 de 08-Jun, Lei 3/83\
+    \ de 26-Fev e Dec Lei 242/85 de 09-Jul), 513.º (na redacção do Dec Lei 47690 de 11-Mai 1967 e Lei 3/83 de 26-Fev), 519.º\
+    \ (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 368/77 de 03-Set), 521.º (na redacção do Dec Lei 47690 de 11-Mai 1967,\
+    \ todos do Código de Processo Civil, aprovado pelo presente diploma, revisto e republicado pelo DEC LEI.329-A/95.12.12.1995.MJ,\
+    \ DR.IS-A [285-Supl] de 12.12.1995\095\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:214238:por
+  label: "ALTERAÇÕES SOFRIDAS PELO CÓDIGO DE PROCESSO CIVIL (PARTE 1) - Alterados os artigos 3.º (na redacção do Dec Lei 329-A/95\
+    \ de 12-Dez), 3.º-A (aditado pelo Dec Lei 329-A/95 de 12-Dez), 6.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95\
+    \ de 12-Dez), 7.º, 8.º, 11.º, 23.º (os 3 últimos na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 26.º\
+    \ (na redacção do Dec Lei 224/82 de 08-Jun, Lei 3/83 de 26-Fev e Dec Lei 329-A/95 de 12-Dez), 26.º-A (aditado pelo 329-A/95\
+    \ de 12-Dez), 28.º-A, 31.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 31.º-B (aditado pelo Dec Lei 329-A/95 de 12-Dez),\
+    \ 35.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 36.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez),\
+    \ 39.º (na redacção dos Dec Lei 128/83 de 12-Mar e 329-A/95 de 12-Dez), 50.º (na redacção dos Dec Lei 47690 de 11-Mai\
+    \ 1967 e 329-A/95 de 12-Dez), 53.º, 56.º, 58.º, 82.º (todos na redacção do Dec Lei 329-A/95 de 12-Dez), 86.º, 99.º (na\
+    \ redacção da Lei 21/78 de 03-Mai e Dec Lei 329-A/95 de 12-Dez), 122.º (na redacção dos Dec Lei 47690 de 11-Mai 1967,\
+    \ 368/77 de 03-Set e 329-A/95 de 12-Dez), 138.º (na redacção do Dec Lei 224/82 de 08-Jun, Lei 3/83 de 26-Fev, e Dec Leis\
+    \ 242/85 de 09-Jul e 329-A/95 de 12-Dez), 145.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 323/70 de 11-Jul, Lei 3/83\
+    \ de 26-Fev, Dec Lei 242/85 de 09-Jul, Dec Lei 92/82 de 17-Mar e 329-A/95 de 12-Dez), 147.º (na redacção do Dec Lei 329-A/95\
+    \ de 12-Dez), 150.º (na redacção dos Dec Lei 224/82 de 08-Jun e 329-A/95 de 12-Dez), 152.º (na redacção da Lei 3/83 de\
+    \ 26-Fev e dos Dec Lei 242/85 de 09-Jul e 329-A/95 de 12-Dez), 154.º, 155.º (ambos na redacção do Dec Lei 329-A/95 de\
+    \ 12-Dez), 167.º (na redacção do Dec Lei 224/82 de 08-Jun, Lei 3/83 de 26-Fev, e Dec Lei 329-A/95 de 12-Dez), 176.º (na\
+    \ redacção dos Dec Lei 47690 de 11-Mai 1967, 242/85 de 09-Jul e 329-A/95 de 12-Dez), 198.º (na redacção do Dec Lei 329-A/95\
+    \ de 12-Dez), 202.º, 206.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 207.º (na redacção do Dec Lei 242/85 de 09-Jul),\
+    \ 216.º (na redacção dos Dec Lei 738/76 de 16-Out e 329-A/95 de 12-Dez), 234.º (na redacção dos Dec Lei 47690 de 11-Mai\
+    \ 1967, 242/85 de 09-Jul e 329-A/95 de 12-Dez), 239.º (na redacção dos Dec Lei 128/83 de 12-Mar, 242/85 de 09-Jul e 329-A/95\
+    \ de 12-Dez), 240.º, 244.º 245.º, 246.º, 248.º, 251.º (todos na redacção do Dec Lei 329-A/95 de 12-Dez), 252.º-A (aditado\
+    \ pelo Dec Lei 329-A/95 de 12-Dez), 264.º, 265.º (ambos na redacção do Dec Lei 329-A/95 de 12-Dez), 265.º-A (aditado pelo\
+    \ Dec Lei 329-A/95 de 12-Dez), 266.º, 266.º-B (aditado pelo Dec Lei 329-A/95 de 12-Dez), 269.º, 273.º (ambos na redacção\
+    \ do Dec Lei 329-A/95 de 12-Dez), 274.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 224/82 de 08-Jun, Lei 3/83 de 26-Fev\
+    \ e 329-A/95 de 12-Dez), 280.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 288.º (na redacção do Dec Lei 47690 de 11-Mai\
+    \ 1967), 292.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 301.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95\
+    \ de 12-Dez), 303.º (na redacção do dec Lei 329-A/95 de 12-Dez), 304.º (na redacção do Dec Lei 128/83 de 12-Mar), 324.º,\
+    \ 325.º (ambos na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 326.º, 328.º, 329.º (todos na redacção\
+    \ do Dec Lei 329-A/95 de 12-Dez), 332.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 334.º, 357.º,\
+    \ 376.º, 377.º (todos na redacção do Dec Lei 329-A/95 de 12-Dez), 381.º (na redacção dos Dec Lei 39/95 de 15-Fev e 329-A/95\
+    \ de 12-Dez), 383.º, 385.º (ambos na redacção do Dec Lei 329-A/95 de 12-Dez), 387.º (na redacção dos Dec Lei 47690 de\
+    \ 11-Mai 1967 e 329-A/95 de 12-Dez), 388.º, 389.º, 390.º, 392.º (todos na redacção do Dec Lei 329-A/95 de 12-Dez), 400.º,\
+    \ 403.º, 406.º, 407.º, 419.º (todos na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 447.º (na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 456.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 462.º (na redacção dos Dec Lei\
+    \ 47690 de 11-Mai 1967 e 242/85 de 09-Jul), 463.º (na redacção dos Dec 128/83 de 12-Mar, 39/95 de 15-Fev e 329-A/95 de\
+    \ 12-Dez), 465.º, 470.º (ambos na redacção do Dec Lei 329-A/95 de 12-Dez), 474.º (na redacção dos Dec Lei 47690 de 11-Mai\
+    \ 1967 e 329-A/95 de 12-Dez), 475.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 486.º( na redacção dos Dec Lei 47690\
+    \ de 11-Mai 1967, 242/85 de 09-Jul e 329-A/95 de 12-Dez), 488.º (na redacção dos Dec Lei 242/85 de 09-Jul e 329-A/95 de\
+    \ 12-Dez), 494.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 496.º (na redacção do Dec Lei 329-A/95\
+    \ de 12-Dez), 504.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 457/80 de 10-Out, 242/85 de 09-Jul e 329-A/95 de 12-Dez),\
+    \ 508.º (na redacção dos Dec Lei 242/85 de 09-Jul e 329-A/95 de 12-Dez), 508.º-A (aditado pelo Dec Lei 329-A/95 de 12-Dez),\
+    \ 509.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 510.º, 511.º (ambos na redacção do Dec Lei\
+    \ 224/82 de 08-Jun, Lei 3/83 de 26-Fev, e Dec Leis 242/85 de 09-Jul e 329-A/95 de 12-Dez), 512.º (na redacção dos Dec\
+    \ Lei 457/80 de 10-Out, 224/82 de 08-Jun, Lei 3/83 de 26-Fev, e Dec Leis 242/85 de 09-Jul e 329-A/95 de 12-Dez), 513.º\
+    \ (na redacção do Dec Lei 47690 de 11-Mai 1967, Lei 3/83 de 26-Fev e 329-A/95 de 12-Dez), 542.º, 544.º, 545.º, 546.º,\
+    \ 547.º, 548.º, 550.º (todos na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 552.º, 555.º, 556.º (todos\
+    \ na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez),562.º (na redacção do Dec Lei 47690 de 11-Mai 1967),\
+    \ 569.º, 577.º (ambos na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), todos do Código de Processo\
+    \ Civil, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez pelo DEC LEI.180/96.25.09.1996.MJ,\
+    \ DR.IS-A [223] de 25.09.1996\0.1996\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1996-214238
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:516747:por
+  label: "Alterado o art. 146.º do Código do Processo Civil, aprovado pelo presente diploma, na redacção do Dec Lei 47690,\
+    \ de 11-Mai 1967, do Dec Lei 128/83 de 12-Mar e do Dec Lei 329-A/95, de 12-Dez, pelo DEC LEI.125/98.1998.05.12.MJ DR.IS-A\
+    \ [109]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1998-516747
+  date: '1998-05-12'
+- type: amended_by
+  target: pt:dre:566629:por
+  label: "Alterado o art. 222º do Código do Processo Civil, aprovado pelo presente diploma, na redacção dos Dec Lei 738/76\
+    \ de 16-Out e 329-A/95, de 12-Dez, pelo DEC LEI.269/98.1998.09.01.MJ, DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-1998-566629
+  date: '1998-09-01'
+- type: amended_by
+  target: pt:dre:196220:por
+  label: "Alterados os arts. 462.º(na redacção dos Decs. Leis 47690, de 11-Mai 1967 e 242/85 de 09-Jul e 180/96 de 25-Set),\
+    \ 791.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 39/95 de 15-Fev, 329-A/95, de 12-Dez - republicação e 180/96 de\
+    \ 25-Set) e 792.º (na redacção dos Dec Lei 224/82 de 08-Jun, 242/85 de 09-Jul, 329-A/95, de 12-Dez e 180/96 de 25-Set),\
+    \ todos do presente Código, pela LEI.3/99.1999.01.13.AR DR.IS-A [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1999-196220
+  date: '1999-01-13'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterados os arts. 462º (na redacção dos Decs Leis 47690, de 11-Mai 1967, 242/85 de 09-Jul, 180/96, de 25-Set e\
+    \ da Lei 3/99, de 13-Jan), 508º-A (aditado pelo Dec-Lei 329-A/95, de 12-Dez e na redacção do Dec Lei 180/96, de 25-Set),\
+    \ 512º (na redacção dos Dec Lei 457/80 de 10-Out, 224/82 de 08-Jun, Lei 3/83 de 26-Fev, Dec Lei 242/85 de 09-Jul, 329-A/95\
+    \ de 12-Dez e 180/96, de 25-Set), 646º (na redacção dos Decs Leis 242/85, de 9-Jul, 39/95, de 15-Fev, 329-A/95, de 12-Dez\
+    \ e 180/96, de 25-Set), 712º (na redacção dos Decs leis 224/82 de 08-Jun, Lei 3/83 de 26-Fev, 242/85 de 09-Jul, 39/95\
+    \ de 15-Fev, 329-A/95, de 12-Dez e 180/96, de 25-Set), 754º (na redacção dos Decs Leis 128/83 de 12-Mar, 242/85 de 09-Jul,\
+    \ 329-A/95, de 12-Dez e 180/96, de 25-Set), 787º (na redacção dos Dec Lei 224/82 de 08-Jun, 329-A/95 de 12-Dez, Lei 3/83\
+    \ de 26-Fev e Dec Lei 180/96, de 25-Set), 795º (na redacção dos Dec Lei 47690 de 11-Mai, 1967, 457/80 de 10-Out, 128/83\
+    \ de 12-Mar, 329-A/95, de 12-Dez e 180/96 de 25-Set), 796º (na redacção do Dec Lei 329-A/95, de 12-Dez) e 861º-A (aditado\
+    \ pelo Dec Lei 329-A/95, de 12-Dez e na redacção do Dec Lei 180/96, de 25-Set) e aditados os arts. 387º-A e 848º-A ao\
+    \ presente Código, pelo DEC LEI.375-A/99.1999.09.20.MJ, DR.IS-A [220]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 141.º, 143.º (o último na redacção da lei 3/83 de 26-Fev e Dec Leis 224/82 de 08-Jun e 329-A/95\
+    \ de 12-Dez), 150.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 152.º (na redacção da lei 3/83 de\
+    \ 26-Fev e Dec Leis 329-A/95 de 12-Dez e 180/96 de 25-Set), 181.º (na redacção dos Dec Lei 368/77 de 03-Set, 128/83 de\
+    \ 12-Mar e 329-A/95 de 12-Dez), 233.º (na redacção dos Dec Lei 47690 de 11-Mai 1961 e 329-A/95 de 12-Dez), 236.º (na redacção\
+    \ dos Dec Lei 47690 de 11-Mai 1961 e 329-A/95 de 12-Dez), 237.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 238.º (na\
+    \ redacção dos Dec Lei 242/85 de 09-Jul e 329-A/95 de 12-Dez), 239.º (na redacção dos Dec Lei 128/83 de 12-Mar, 242/85\
+    \ de 09-Jul, 329-A/95 de 12-Dez e 180/96 de 25-Set), 240.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set),\
+    \ 244.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 245.º (na redacção dos Dec Lei 329-A/95 de 12-Dez\
+    \ e 180/96 de 25-Set), 252.º-A (aditado pelo Dec Lei 128/83 de 12-Mar, e na redacção dos Dec Lei 329-A/95 de 12-Dez e\
+    \ 180/96 de 25-Set), 257.º (na redacção dos Dec Lei 242/85 de 09-Jul e 329-A/95 de 12-Dez ), 467.º (na redacção do Dec\
+    \ Lei 224/82 de 08-Jun, Lei 3/83 de 26-Fev e do Dec Lei 242/85 de 09-Jul), 474.º (na redacção dos Dec Lei 47690 de 11-Mai\
+    \ 1961, 329-A/95 de 12-Dez e 180/96 de 25-Set), 476.º (na redacção do Dec Lei 329-A/95 de 12-Dez ), 522.º-B (aditado pelo\
+    \ Dec Lei 329-A/95 de 12-Dez ), 522.º-C, 556.º (este último na redacção dos Dec Lei 47690 de 11-Mai 1961, 329-A/95 de\
+    \ 12-Dez e 180/96 de 25-Set), 557.º (na redacção do Dec Lei 47690 de 11-Mai 1961 ), 568.º (na redacção dos Dec Lei 47690\
+    \ de 11-Mai 1961 e 329-A/95 de 12-Dez), 580.º (na redacção dos Dec Lei 47690 de 11-Mai 1961, 368/77 de 03-Set e 329-A/95\
+    \ de 12-Dez), 588.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 621.º (na redacção do Dec Lei 47690\
+    \ de 11-Mai 1961), 623.º (na redacção dos Dec Lei 47690 de 11-Mai 1961, 329-A/95 de 12-Dez e 180/96 de 25-Set), 629.º\
+    \ (na redacção dos Dec Lei 47690 de 11-Mai 1961, 368/77 de 03-Set, 329-A/95 de 12-Dez e 180/96 de 25-Set), 630.º (na redacção\
+    \ dos Dec Lei 47690 de 11-Mai 1961, 39/95 de 15-Fev e 329-A/95 de 12-Dez), 639.º-A, 646.º (na redacção dos Dec Lei 242/85\
+    \ de 09-Jul, 39/95 de 15-Fev, 329-A/95 de 12-Dez, 180/96 de 25-Set e 375-A/99 de 20-Set), 651.º (na redacção dos Dec Lei\
+    \ 457/80 de 10-Out, 242/85 de 09-Jul, 329-A/95 de 12-Dez e 180/96 de 25-Set), 690.º-A e 796.º (na redacção dos Dec Lei\
+    \ 329-A/95 de 12-Dez e 375-A/99 de 20-Set), aditados os arts. 229.º-A, 236.º-A, 238.º-A, 260.º-A e 638.ºA, integra a subdivisão\
+    \ I que abrangerá os arts. 253.º a 260.º e a subdivisão II que compreenderá o art. 260.º-A no Livro II, Título I, capítulo\
+    \ I, divisão III, do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de 1961, DG.IS [299], revisto e republicado\
+    \ pelo Dec Lei 329-A/95 de 12-Dez, pelo DEC LEI.183/2000.2000.08.10.MJ DR.IS-A [184]\0184]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:315337:por
+  label: "Alterados os arts. 150.º (na redacção dos Dec Lei 224/82 de 08-Jun, 329-A/95 de 12-Dez, 180/96 de 25-Set e 183/2000\
+    \ de 10-Ago), 238.º (na redacção dos Dec Lei 242/85 de 09-Jul e 183/2000 de 10-Ago), 252.º-A, (aditado pelo Dec Lei 128/83\
+    \ de 12-Mar e na redacção dos Dec Lei 329-A/95 de 12-Dez, 180/96 de 25-Set e 183/2000 de 10-Ago), 257.º (na redacção dos\
+    \ Dec Lei 242/85 de 09-Jul e 183/2000 de 10-Ago), 474.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 329-A/95 de 12-Dez,\
+    \ 180/96 de 25-Set e 183/2000 de 10-Ago), 623.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 329-A/95 de 12-Dez, 180/96\
+    \ de 25-Set e 183/2000 de 10-Ago), e 629.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 368/77 de 03-Set, 329-A/95 de\
+    \ 12-Dez, 180/96 de 25-Set e 183/2000 de 10-Ago), todos do Código do Processo Civil, aprovado pelo presente diploma, na\
+    \ redacção do presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pela LEI.30-D/2000.2000.12.20.AR\
+    \ DR.IS [292]3ºSUPL\0ºSUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-d-2000-315337
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 312º do Código de Processo Civil, aprovado pelo presente diploma, pelo DEC LEI.323/2001.17.12.2001.MJ,\
+    \ DR.IS-A [290] de 17.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:278029:por
+  label: "Alterado o art. 1083.º (na redacção dada pelo Dec Lei 47690, de 11-Mai 1967) do Código de processo Civil, pela LEI.13/2002.2002.02.19.AR\
+    \ DR.IS-A [42], a partir da sua entrada em vigor. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2002-278029
+  date: '2002-02-19'
+- type: amended_by
+  target: pt:dre:142703:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma que resulta da conjugação do disposto na\
+    \ alínea b) do n.º 1 e no n.º 2 do artigo 824.º do Código, na parte em que permite a penhora até um terço das prestações\
+    \ periódicas, pagas ao executado que não é titular de outros bens penhoráveis suficientes para satisfazer a dívida exequenda,\
+    \ a título de regalia social ou de pensão, cujo valor global não seja superior ao salário mínimo nacional, pelo AC.177/2002.23.04.2002.TCS,\
+    \ DR.IS-A [150] de 02.07.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/177-2002-142703
+  date: '2002-04-23'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DE PROCESSO CIVIL - (CONTINUAÇÃO) - PARTE 2 - Alterados os arts. 830.º, 831.º (o\
+    \ último na redacção do Dec Lei 329-A/95 de 12-Dez ), 832.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set),\
+    \ 833.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 329-A/95 de 12-Dez e 180/96 de 25-Set), 834.º (na redacção dos\
+    \ Dec Lei 47690 de 11-Mai 1967 e 368/77 de 03-Set), 835.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set),\
+    \ 836.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez ), 837.º (na redacção do Dec Lei 329-A/95 de\
+    \ 12-Dez), 838.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 839.º (na redacção dos Dec Lei 47690\
+    \ de 11-Mai 1967 e 329-A/95 de 12-Dez), 840.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 843.º (na\
+    \ redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 845.º (na redacção do Dec Lei 180/96 de 25-Set), 846.º,\
+    \ 847.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 848.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set),\
+    \ 848.º-A (aditado pelo Dec Lei 375-A/99 de 20-Set), 849.º, 850.º, 851.º, 856.º, 857.º, 858.º (todos na redacção do Dec\
+    \ Lei 329-A/95 de 12-Dez ), 859.º, 860.º, 861.º, 861.º-A (aditado pelo Dec Lei 329-A/95 de 12-Dez), 862.º, 862.º-A, 863.º-A,\
+    \ 863.º-B (na redacção e aditados pelo Dec Lei 329-A/95 de 12-Dez), 864.º (na redacção dos Dec Lei 47690 de 11-Mai 1967\
+    \ e 329-A/95 de 12-Dez ), 864.º-A (aditado pelo dec Lei 329-A/95 de 12-Dez), 865.º, 866.º (ambos na redacção do Dec Lei\
+    \ 329-A/95 de 12-Dez), 868.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 869.º (na redacção do Dec\
+    \ Lei 329-A/95 de 12-Dez), 871.º, 873.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 874.º, 875.º\
+    \ (na redacção do Dec Lei 329-A/95 de 12-), 876.º, 877.º (na redacção dos Dec Lei, 329-A/95 de 12-Dez), 879.º (na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 880.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 881.º (na\
+    \ redacção do Dec Lei 47690 de 11-Mai 1967), 882.º (na redacção dos Dec Lei 47690 de 11-Mai 1967e 329-A/95 de 12-Dez),\
+    \ 885.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 886.º, 886.º-A (aditado pelo Dec 329-A/95 de\
+    \ 12-Dez e na redacção do Dec Lei 180/96 de 25-Set), 886.º-B, 887.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 888.º\
+    \ (na redacção dos Dec Lei 47690 de 11-Mai 1967, 329-A/95 de 12-Dez e 180/96 de 25-Set), 889.º, 890.º, 892.º (todos na\
+    \ redacção do Dec Lei 329-A/95 de 12-Dez), 893.º, 895.º, 896.º (os 2 últimos na redacção do Dec Lei 329-A/95 de 12-Dez),\
+    \ 897.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 898.º, 899.º, 900.º (todos na redacção do\
+    \ Dec Lei 329-A/95 de 12-Dez), 901.º, 903º (ambos na redacção do Dec Lei 329-A/95 de 12-Dez), 904 (na redacção dos Dec\
+    \ Lei 47690 de 11-Mai 1967, 368/77 de 03-Set, 329-A/95 de 12-Dez e 180/96 de 25-Set), 905.º (na redacção do Dec Lei 329-A/95\
+    \ de 12-Dez e 368/77 de 03-Set), 906.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 368/77 de 03-Set e 329-A/95 de 12-Dez),\
+    \ 907.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 457/80 de 10-Out e 329-A/95 de 12-Dez), 908.º (na redacção do Dec\
+    \ Lei 47690 de 11-Mai 1967), 909.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 912.º (na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 913.º, 916.º (na redacção do Dec Lei 329-A/95 de 12-Dez), 918.º, 919.º, 920.º (na\
+    \ redacção do Dec Lei 329-A/95 de 12-Dez), 922.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 923.º(na\
+    \ redacção do Dec Lei 329-A/95 de 12-Dez), 928.º (na redacção dos Dec Lei 242/85 de 09-Jul e 329-A/95 de 12-Dez), 929.º,930.º\
+    \ (na redacção do Dec Lei 329-A/95 de 12-Dez), 930.º-A, 931.º (na redacção do Dec Lei 47690 de 11-Mai 1967), 933.º (na\
+    \ redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 934.º (na redacção do Dec Lei 47690 de 11-Mai 1967),\
+    \ 935.º(na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 939.º, 940.º (ambos na redacção do Dec Lei\
+    \ 329-A/95 de 12-Dez), 941.º (na redacção dos Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), 990.º, 1003.º (ambos\
+    \ na redacção do Dec Lei 329-A/95 de 12-Dez), 1091.º, 1094.º, 1113.º (na redacção do Dec Lei 47690 de 11-Mai 1967) e 1118.º\
+    \ (na redacção do Dec Lei 47690 de 11-Mai 1967 e 329-A/95 de 12-Dez), aditados os arts. 198.º-A, 237.º-A, 380.º-A, 812.º-A,\
+    \ 812.º-B, 886.º-C, 901.º-A e 907.º-A, alterados os títulos e subtítulos do Livro III, e revogados os arts. 236.º-A, 238.º-A,\
+    \ 792.º, 811.º-B, 829.º, 837.º-A, 841.º, 844.º, 864.º-B, 924.º a 927.º, 932.º, 973.º e 1508 a 1510.º todos do Código de\
+    \ Processo Civil, aprovado pelo presente diploma, e republicado em anexo, com a redacção agora introduzida, o título III\
+    \ do Livro III do mesmo Código, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\03.2003\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:511825:por
+  label: "Alterados os arts. 138.º (na redacção do Dec Lei 224/82 de 08-Jun, da Lei 3/83 de 26-Fev e dos Dec Lei 242/85, de\
+    \ 09-Jul, 329-A/95, de 12-Dez e 180/96, de 25-Set), 222.º (na redacção dos Decs Leis 738/76, de 16-Out, 329-A/95, de 12-Dez\
+    \ e 269/98 de 01-Set), 252.º-A (aditado pelo Dec Lei 329-A/95, de 12-Dez e alterado pelo Dec Lei 180/96, de 25-Set, pela\
+    \ Lei 30-D/2000, de 20-Dez e pelo Dec Lei 38/2003, de 08-Mar), 388.º e 389.º (ambos na redacção dos Decs Leis 329-A/95,\
+    \ de 12-Dez e 180/96, de 25-Set), 694.º, 696.º, 724.º, 776.º (todos na redacção dos Dec Lei 329-A/95, de 12-Dez) 806.º\
+    \ e 812.º (ambos na redacção dos Decs Leis 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 860.º (na redacção do Dec Lei 38/2003,\
+    \ de 08-Mar), 864.º-A (aditado pelo Dec Lei 329-A/95, de 12-Dez, na redacção do Dec Lei 38/2003, de 08-Mar) 878.º (na\
+    \ redacção do Dec Lei 329-A/95, de 12-Dez), 890.º, 928.º (o último na redacção dos Dec Lei 242/85 de 09-Jul, 329-A/95\
+    \ de 12-Dez e 38/2003 de 08-Mar), 929.º e 930.º ( ambos na redacção dos Decs Leis 329-A/95, de 12-Dez e 38/2003, de 08-Mar)\
+    \ todos do Código de processo Civil, aprovado pelo presente diploma, revisto pelo Dec Lei 329-A/95, de 12-Dez, pelo DEC\
+    \ LEI.199/2003.2003.09.10.MJ DR.IS-A [209]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2003-511825
+  date: '2003-09-10'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterados os arts. 145.º (na redacção do Dec Lei 47690, de 11-Mai 1967, dos Dec Lei 323/70, de 11-Jul, da Lei 3/83,\
+    \ de 26-Fev, do Dec Lei 242/85, de 09-Jul, do Dec Lei 92/88, de 17-Mar, do Dec Lei 329-A/95, de 12-Dez e do Dec Lei 180/96,\
+    \ de 25-Set), 150.º (na redacção dos Dec Lei 242/85 de 09-Jul, 329-A/95, de 12-Dez, 180/96, de 25-Set, 183/2000, de 10-Ago\
+    \ e da Lei 30-D/2000, de 20-Dez), 152.º (na redacção da Lei 3/83, de 26-Fev, dos Dec Lei 242/85 de 09-Jul, 329-A/95, de\
+    \ 12-Dez, 180/96, de 25-Set e 183/2000, de 10-Ago), 229.º-A (aditado pelo Dec Lei 183/2000, de 10-Ago), 254.º (na redacção\
+    \ do Dec Lei 47690, de 11-Mai 1967, do Dec Lei 323/70, de 11-Jul e do Dec Lei 329-A/95, de 12-Dez) e 260.º-A (aditado\
+    \ pelo Dec Lei 183/2000, de 10-Ago) e aditados os arts. 150.º-A, 486.º-A, 512.º-B e 690.º-B ao Código de processo Civil\
+    \ aprovado pelo presente diploma, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] de 27.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:538423:por
+  label: "Alterados, a partir da entrada em vigor, os arts. 222.º (na redacção do Dec Lei 738/76, de 16-Out, Dec Lei 329-A/95,\
+    \ de 12-Dez, Dec Lei 180/96, de 25-Set, Dec Lei 269/98, de 01-Set e Dec Lei 199/2003, de 10-Set), 806.º (na redacção do\
+    \ Dec Lei 329-A/95, de 12-Dez, Dec Lei 38/2003, de 08-Mar e Dec Lei 199/2003, de 10-Set) e revogado o art. 82.º do Código\
+    \ do Processo Civil aprovado pelo presente diploma, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004\04"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterados os arts. 678º (na redacção do Dec Lei 224/82 de 08-Jun, Lei 3/83 de 26-Fev, Dec Lei 242/85 de 09-Jul,\
+    \ 329-A/95 de 12-Dez, 180/96 de 25-Set e 38/2003 de 08-Mar), 930º (na redacção dos Dec Lei 329-A/95 de 12-Dez, 38/2003\
+    \ de 08-Mar e 199/2003 de 10-Set), e 930º-A (aditado pelo Dec Lei 329-A/95 de 12-Dez e na redacção do Dec Lei 38/2003\
+    \ de 08-Mar), aditados os arts. 930º-B, 930º-C, 930º-D e 930º-E, todos do Código de Processo Civil aprovado pelo presente\
+    \ diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:661170:por
+  label: "Alterados os arts. 74º (na redacção dos Dec Lei 47690 de11-Mai 1967 e 329-A/95 de 12-Dez), 90º (na redacção da Lei\
+    \ 31/86 de 29-Ago e do Dec Lei 38/2003 de 08-Mar), 94º (na redacção do Dec Lei 38/2003 de 08-Mar), 110º (na redacção do\
+    \ Dec Lei 329-A/95 de 12-Dez) e 808º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 38/2003 de 08-Mar) e aditado o art.\
+    \ 138º-A, todos do Código de Processo Civil aprovado pelo presente diploma, pela LEI.14/2006.26.04.2006.AR, DR.IS-A [81]\
+    \ de 26.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2006-661170
+  date: '2006-04-26'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o artigo 864.º do Código de Processo Civil, aprovado no presente diploma, na redacção dos Dec-Leis 47690,\
+    \ de 11-Mai 1967, 329-A/95 de 12-Dez e 38/2003, de 03-Ago, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249]Supl de 29.12.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 1487º (na redacção do dec Lei 329-A/95 de 12-Dez) e revoga o art. 1487º-A (aditado pelo Dec Lei\
+    \ 329-A/95 de 12-Dez), ambos do Código do Processo Civil aprovado pelo presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ,\
+    \ DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "MODIFICAÇÕES SOFRIDAS PELO PRESENTE CÓDIGO-( Nº 2 )-Aditados, a partir de 01 de Janeiro de 2008 sem prejuízo do\
+    \ disposto nos artigos 11.º e 12.º, os artigos 117.º-A, 275.º-A, 684.º-B, 685.º-A, 685.º-B, 685.º-C, 685.º-D, 691.º-A,\
+    \ 691.º-B, 692.º-A, 693.º-A, 693.º-B, 721.º-A, 722.º-A, 727.º-A, 763.º, 764.º, 765.º, 766.º, 767.º, 768.º, 769.º, 770.º,\
+    \ 922.º-A, 922.º-B e 922.º-C; Eliminada a subsecção II da secção II do capítulo VI do subtítulo I do título II do Livro\
+    \ III, determinando a renumeração em conformidade da subsecção subsequente; estabelecido que a secção IV do capítulo VI\
+    \ do subtítulo I do título II do Livro III passe a denominar-se “Recurso para Uniformização de Jurisprudência”, (artigos\
+    \ 763.º a 770.º); eliminadas as subsecções I e II da secção IV do capítulo VI do subtítulo I do título II do Livro III;\
+    \ eliminada a secção VI do capítulo VI do subtítulo I do título II do Livro III; Revogados, nos mesmos termos, o n.º 5\
+    \ do artigo 111.º, os artigos 119.º e 120.º, o n.º 5 do artigo 152.º, n.º 2 do artigo 214.º, os artigos 215.º a 218.º,\
+    \ o n.º 3 do artigo 219.º, o n.º 2 do artigo 223.º, os n.ºs 3 e 4 do artigo 226.º, o n.º 5 do artigo 463.º, os n.ºs 4\
+    \ a 6 do artigo 678.º, os artigos 686.º, 687.º, 689.º, 690.º, 690.º-A, 690.º-B, 694.º, 695.º, 696.º, 697.º, 698.º, 699.º,\
+    \ 701.º e 706.º, os n.ºs 2 e 4 do artigo 709.º, o artigo 710.º, o n.º 2 do artigo 724.º, o n.º 6 do artigo725.º, o artigo\
+    \ 728.º, os artigos 733.º a 762.º, o n.º 4 do artigo 774.º, os artigos 778.º a 782.º, e os artigos 800.º, 922.º e 923.º\
+    \ do Código de Processo Civil aprovado pelo presente diploma e republicado em anexo o capítulo VI do subtítulo I do título\
+    \ II do Livro III do mesmo Código, pelo .DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterados, a partir de 20.04.2009, os arts. 59º, 92º, 93º (os dois últimos na redacção do Dec Lei 38/2003, de 08-Mar),\
+    \ 145º (na redacção do Dec Lei 47690, de 11-Mai de 1967, do Dec Lei 323/70, de 11-Jul, da Lei 3/83, de 26-Fev, do Dec\
+    \ Lei 242/85, de 09-Jul, do Dec Lei 92/88, de 17-Mar, do Dec Lei 329-A/95, de 12-Dez, do Dec Lei 180/96, de 25-Set e do\
+    \ Dec Lei 324/2003, de 27-Dez), 150º-A (aditado pelo Dec Lei 324/2003, de 27-Dez e alterado pelo Dec Lei 303/2007, de\
+    \ 24-Ago), 152º (na redacção da Lei 3/83, de 26-Fev, do Dec Lei 242/85, de 09-Jul, do Dec Lei 329-A/95, de 12-Dez, do\
+    \ Dec Lei 180/96, de 25-Set, do Dec Lei 183/2000, de 10-Ago, do Dec Lei 324/2003, de 27-Dez, do Dec Lei 303/2007, de 24-Ago),\
+    \ 298º, 305º, 307º (na redacção do Dec Lei 47690, de 11-Mai de 1967), 308º, 309º, 311º (na redacção do Dec Lei 47690,\
+    \ de 11-Mai de 1967 e do Dec Lei 329-A/95, de 12-Dez), 312º (na redacção do Dec Lei 323/2001, de 17-Dez), 343º, 372º (na\
+    \ redacção do Dec Lei 329-A/95, de 12-Dez), 446º (na redacção do Dec Lei 47690, de 11-Mai de 1967), 447º (na redacção\
+    \ do Dec Lei 47690, de 11-Mai de 1967 e do Dec Lei 180/96, de 25-Set), 448º, 449º (na redacção do Dec Lei 38/2003, de\
+    \ 08-Mar), 450º, 452º, 453º (na redacção do Dec Lei 47690, de 11-Mai de 1967), 454º (na redacção do Dec Lei 38/2003, de\
+    \ 08-Mar), 455º (na redacção do Dec Lei 47690, de 11-Mai de 1967 e do Dec Lei 38/2003, de 08-Mar), 467º (na redacção do\
+    \ Dec Lei 224/82, de 08-Jun, da Lei 3/83, de 26-Fev, do Dec Lei 242/85, de 09-Jul, do Dec Lei 183/2000, de 10-Ago, do\
+    \ Dec Lei 38/2003, de 08-Mar e do Dec Lei 303/2007, de 24-Ago), 474º (na redacção do Dec Lei 47690, de 11-Mai de 1967,\
+    \ do Dec Lei 329-A/95, de 12-Dez, do Dec Lei 180/96, de 25-Set, do Dec Lei 183/2000, de 10-Ago, da Lei 30-D/2000, de 20-Dez\
+    \ e do Dec Lei 303/2007, de 24-Ago), 486º-A (aditado pelo Dec Lei 324/2003, de 27-Dez e alterado pelo Dec Lei 303/2007,\
+    \ de 24-Ago), 538º 543º (ambos na redacção do Dec Lei 47690, de 11-Mai de 1967), 659º (na redacção do Dec Lei 242/85,\
+    \ de 09-Jul e do Dec Lei 329-A/95, de 12-Dez), 663º, 668º (na redacção do Dec Lei 329-A/95, de 12-Dez e do Dec Lei 303/2007,\
+    \ de 24-Ago), e 685º-D (aditado pelo Dec Lei 303/2007, de 24-Ago), alterada a epígrafe da secção I do capítulo VII do\
+    \ livro III, aditados os arts. 446º-A e 447º-A a 447º-D, que passam a integrar a secção II do capítulo VII do livro III,\
+    \ assim como os arts. 448º a 455º, aditada a secção III ao capítulo VII do livro III, que passa a integrar os arts. 456º\
+    \ a 459º, revogados os nºs 2 e 3 do art. 454º ( na redacção do Dec Lei 38/2003, de 08-Mar ) e o art.512º-B ( aditado pelo\
+    \ Dec Lei 324/2003, de 27-Dez ) e republicado em anexo o capítulo VII do título I do livro III do Código do Processo Civil,\
+    \ pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 46.º (na redacção do Dec Lei 303/2007, de 24-Ago, Dec Lei 38/2003, de 08-Mar, Dec Lei 329-A/95,\
+    \ de 12-Dez, e Dec Lei 47690, de 11-Maio de 1967), 50.º (na redacção do Dec Lei 329-A/95, de 12-Dez, e Dec Lei 47690,\
+    \ de 11-Maio de 1967), 51.º (na redacção do Dec Lei 329-A/95, de 12-Dez, Dec Lei 242/85, de 18-Jul, Dec Lei 533/77, de\
+    \ 30-Dez, e Dec Lei 201/76, de 19-Mar), 810.º (na redacção do Dec Lei 38/2003, de 08-Mar, e Dec Lei 329-A/95, de 12-Dez),\
+    \ 811.º (na redacção do Dec Lei 38/2003, de 08-Mar, Dec Lei 329-A/95, de 12-Dez, e Dec Lei 242/85, de 18-Jul), 838.º (na\
+    \ redacção do Dec Lei 38/2003, de 08-Mar, e Dec Lei 329-A/95, de 12-Dez), 879.º na redacção do Dec Lei 38/2003, de 08-Mar,\
+    \ e Dec Lei 47690, de 11-Maio de 1967), 886.º (na redacção do Dec Lei 38/2003, de 08-Mar, e Dec Lei 329-A/95, de 12-Dez)\
+    \ e 900.º (na redacção do Dec Lei 38/2003, de 08-Mar, e Dec Lei 329-A/95, de 12-Dez) e revogados os nºs 6 e 7 do art.\
+    \ 838.º e art. 888.º do Código de Processo Civil - republicado pelo Dec Lei 329-A/95, de 12-Dez -, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterados, a partir de 02.01.2009, os artigos 65.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 38/2003 de 08-Mar),\
+    \ 65.º-A (aditado pela Lei 21/78 de 03-Mai e na redacção do Dec Lei 38/2003 de 08-Mar), 67.º (na redacção do Dec Lei 329-A/95\
+    \ de 12-Dez), 90.º (na redacção do Dec Lei 31/86 de 29-Ago, 38/2003 de 08-Mar e Lei 14/2006 de 26-Abr),122.º, (na redacção\
+    \ dos Dec Lei 47690 de 11-Mai 1967, 368/77 de 03-Set, 329-A/95 de 12-Dez e 180/96 de 25-Set),143.º (na redacção do Dec\
+    \ Lei 224/82 de 08-Jun, da Lei 3/83 de 26-Fev e dos Dec Lei 329-A/95 de 12-Dez, 183/2000 de 10-Ago e 303/2007 de 24-Ago),162.º\
+    \ (na redacção dos Dec Lei 323/70 de 11-Jul e 329-A/95 de 12-Dez), 177.º (na redacção dos Dec Lei 368/77 de 03-Set e 329-A/95\
+    \ de 12-Dez), 210.º, 235.º (este último na redacção dos Dec Lei 242/85 de 07-Set e 329-A/95 de 12-Dez), 239.º (na redacção\
+    \ dos Dec Lei 128/83 de 12-Mar, 242/85 de 09-Jul, 329-A/95 de 12-Dez, 180/96 de 25-Set, 183/2000 de 10-Ago e 38/2003 de\
+    \ 08-Mar), 248.º (na redacção dos Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 249.º, 251.º (o último na redacção dos\
+    \ Dec Lei 329-A/95 de 12-Dez e 180/96 de 25-Set), 467.º, (na redacção do Dec Lei 224/82, de 08-Jun, da Lei 3/83, de 26-Fev,\
+    \ dos Dec Lei 242/85, de 09-Jul, 183/2000, de 10-Ago, 38/2003, de 08-Mar, 303/2007, de 24-Ago e 34/2008 de 26-Fev), 474º\
+    \ (na redacção do Dec Lei 47690, de 11-Mai de 1967, do Dec Lei 329-A/95, de 12-Dez, do Dec Lei 180/96, de 25-Set, do Dec\
+    \ Lei 183/2000, de 10-Ago, da Lei 30-D/2000, de 20-Dez, do Dec Lei 303/2007, de 24-Ago e do Dec Lei 34/2008 de 26-Fev),\
+    \ 509.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 329-A/95 de 12-Dez e 180/96 de 25-Set), 556.º (na redacção dos\
+    \ Dec Lei 47690 de 11-Mai 1967, 329-A/95 de 12-Dez e 180/96 de 25-Set), 574.º (na redacção dos Dec Lei 47690 de 11-Mai\
+    \ 1967 e 329-A/95 de 12-Dez), 584.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 368/77 de 03-Set e 329-A/95 de 12-Dez),\
+    \ 623.º (na redacção dos Dec Lei 47690 de 11-Mai 1967, 329-A/95 de 12-Dez, 183/2000 de 10-Ago, Lei 30-D/2000 de 20-Dez\
+    \ e Dec Lei 38/2003 de 08-Mar), 808.º (na redacção dos Dec Lei 329-A/95 de 12-Dez, 38/2003 de 08-Mar e Lei 14/2006 de\
+    \ 26-Abr) e 1352.º (na redacção dos Dec Lei 368/77 de 03-Set e 227/94 de 08-Set), e revogados a partir da mesma data,\
+    \ as als a) e c) do n.º 1 e o n.º 2 do art. 65.º e o art. 69.º, todos do Código de Processo Civil, aprovado pelo presente\
+    \ diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:439097:por
+  label: "Alterada a epígrafe do capítulo xvii do título iv do livro iii , que passa a ser «Do divórcio e separação sem consentimento\
+    \ do outro cônjuge», bem como a epígrafe do artigo 1421º, que passa a ser «Conferência», e revogados o art. 1417º-A e\
+    \ o n.º 1 do artigo 1422º do Código, pela LEI.61/2008.31.10.2008.AR, DR.IS [212] de 31.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-2008-439097
+  date: '2008-10-31'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO PROCESSO CIVIL- (PARTE 1) - Alterados, a partir 31.03.2009, sem prejuízo do disposto\
+    \ nos arts. 22º e 23º, os arts. 15º, 46º ( este último na redacção dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95, de\
+    \ 12-Dez, 38/2003, de 08-Mar, 303/2007, de 24-Ago e 116/2008, de 04-Jul), 47º ( na redacção dos Dec lei 329-A/95, de 12-Dez\
+    \ e 38/2003, de 08-Mar), 233º (na redacção dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95, de 12-Dez, 183/2000, de 10-Ago,\
+    \ 38/2003, de 08-Mar e 303/2007, de 24-Ago), 234º ( na redacção dos Dec Lei 47690, de 11-Maio de 1967, 242/85, de 09-Jul,\
+    \ 329-A/95, de 12-Dez, 180/96, de 25-Set e 38/2003, de 08-Mar), 239º (na redacção dos Dec Lei 128/83, de 12-Mar, 242/85,\
+    \ de 09-Jul, 329-A/95, de 12-Dez, 180/96, de 25-Set, 183/2000, de 10-Ago, 38/2003, de 08-Mar e Lei 52/2008, de 28-Ago),\
+    \ 240º ( na redacção dos Dec Lei 329-A/95, de 12-Dez, 180/96, de 25-Set, 183/2000, de 10-Ago e 38/2003, de 08-Mar), 241º\
+    \ ( na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 242º ( na redacção dos Dec Lei 128/83, de 12-Mar,\
+    \ 242/85, de 09-Jul, 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 252º-A ( aditado pelo Dec Lei 329-A/95, de 12-Dez e alterado\
+    \ pelos Dec Lei 128/83, de 12-Mar, 180/96, de 25-Set, 183/2000, de 10-Ago, 38/2003, de 08-Mar e 199/2003, de 10-Set),\
+    \ 261º (na redacção dos Dec Lei 242/85, de 09-Jul, 329-A/95, de 12-Dez, 38/2003, de 08-Mar e 303/2007, de 24-Ago), 280º\
+    \ e 376º ( na redacção dos Dec Lei 329-A/95, de 12-Dez e 180/96, de 25-Set), 467º ( na redacção da Lei 3/83, de 26-Fev,\
+    \ dos Dec Lei 224/82, de 08-Jun, 242/85, de 09-Jul, 183/2000, de 10-Ago, 38/2003, de 08-Mar, 303/2007, de 24-Ago, 34/2008,\
+    \ de 26-Fev e da Lei 52/2008, de 28-Ago), 801º ( na redacção Dec Lei 329-A/95, de 12-Dez e 180/96, de 25-Set), 803º (\
+    \ na redacção dos Dec Lei na redacção dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95, de 12-Dez, 180/96, de 25-Set e\
+    \ 38/2003, de 08-Mar), 804º ( na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 805º ( na redacção do\
+    \ Dec Lei 38/2003, de 08-Mar), 806º ( na redacção dos Dec Lei 329-A/95, de 12-Dez, 38/2003, de 08-Mar, 199/2003, de 10-Set\
+    \ e 53/2004, de 18-Mar), 807º ( na redacção dos Dec Lei 329-A/95 de 12-Dez e 38/2003, de 08-Mar), 808º (na redacção dos\
+    \ Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar e das Leis 14/2006, de 26-Abr e 52/2008, de 28-Ago), 809º ( na redacção\
+    \ dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 810º ( na redacção dos Dec Lei 329-A/95, de 12-Dez, 38/2003,\
+    \ de 08-Mar e 116/2008, de 04-Jul), 811º (na redacção dos Dec Lei 242/85, de 09-Jul, 329-A/95, de 12-Dez, 38/2003, de\
+    \ 08-Mar e 116/2008, de 04-Jul), 811º-A ( aditado pelo Dec Lei 329-A/95, de 12-Dez e alterado pelo Dec Lei 38/2003, de\
+    \ 08-Mar), 814º ( na redacção da Lei 31/86, de 29-Ago e do Dec Lei 38/2003, de 08-Mar), 816º e 820º ( na redacção dos\
+    \ Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 824º ( na redacção dos Dec Lei 329-A/95, de 12-Dez, 180/96, de 25-Set\
+    \ e 38/2003, de 08-Mar), 827º (na redacção do Dec Lei 329-A/95, de 12-Dez), 828º (na redacção dos Dec Lei 47690, de 11-Maio\
+    \ de 1967, 329-A/95, de 12-Dez, 180/96, de 25-Set e 38/2003, de 08-Mar), 831º (na redacção dos Dec Lei 329-A/95, de 12-Dez\
+    \ e 38/2003, de 08-Mar), 832º ( na redacção dos Dec Lei 329-A/95, de 12-Dez, 180/96, de 25-Set e 38/2003, de 08-Mar),\
+    \ 834º ( na redacção dos Dec Lei 47690, de 11-Maio de 1967, 368/77, de 03-Set e 38/2003, de 08-Mar), 837º ( na redacção\
+    \ dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 838º ( na redacção dos Dec Lei 329-A/95, de 12-Dez, 180/96, de\
+    \ 25-Set, 38/2003, de 08-Mar e 116/2008, de 04-Jul), 839º ( na redacção dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95,\
+    \ de 12-Dez e 38/2003, de 08-Mar), 840º (na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 842º-A (aditado\
+    \ pelo Dec Lei 329-A/95, de 12-Dez), 843º (na redacção dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95, de 12-Dez e 38/2003,\
+    \ de 08-Mar), 845º ( na redacção dos Dec Lei 38/2003, de 08-Mar e 180/96, de 25-Set), 847º (na redacção dos Dec Lei 47690,\
+    \ de 11-Maio de 1967 e 38/2003, de 08-Mar), 848º (na redacção dos Dec Lei 329-A/95, de 12-Dez, 180/96, de 25-Set e 38/2003,\
+    \ de 08-Mar), 851º ( na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 854º ( na redacção do Dec Lei\
+    \ 368/77, de 03-Set), 856º e 857º (na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 859º ( na redacção\
+    \ do Dec Lei 38/2003, de 08-Mar), 860º ( na redacção dos Dec Lei 38/2003, de 08-Mar e 199/2003, de 10-Set), 861º ( na\
+    \ redacção do Dec Lei 38/2003, de 08-Mar), 861º-A ( aditado pelo Dec Lei 329-A/95, de 12-Dez e alterado pelos Dec Lei\
+    \ 329-A/95, de 12-Dez, 180/96, de 25-Set, 375-A/99, de 20-Set e 38/2003, de 08-Mar), 862º ( na redacção dos Dec Lei 329-A/95,\
+    \ de 12-Dez e 38/2003, de 08-Mar), 864º ( na redacção dos dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95, de 12-Dez,\
+    \ 38/2003, de 08-Mar e da Lei 53-A/2006, de 29-Dez), 864º-A (aditado pelo Dec Lei 329-A/95, de 12-Dez e alterado pelos\
+    \ Dec Lei 38/2003, de 08-Mar e 199/2003, de 10-Set), 866º e 869º (na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003,\
+    \ de 08-Mar), 870º ( na redacção do Dec Lei 329-A/95, de 12-Dez ), 871º ( na redacção dos Dec Lei 47690, de 11-Maio de\
+    \ 1967, 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 872º (na redacção dos Dec Lei 47690, de 11-Maio de 1967 e 329-A/95,\
+    \ de 12-Dez ), 875º (na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 878º (na redacção dos Dec Lei\
+    \ 329-A/95, de 12-Dez e 199/2003, de 10-set), 882º (na redacção dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95, de 12-Dez\
+    \ e 38/2003, de 08-Mar), 886º (na redacção dos Dec Lei 38/2003, de 08-Mar e 116/2008, de 04-Jul), 886º-A ( aditado pelo\
+    \ Dec Lei 329-A/95, de 12-Dez e alterado pelos Dec Lei 180/96, de 25-Set e 38/2003, de 08-Mar), 886º-C ( aditado pelo\
+    \ Dec Lei 38/2003, de 08-Mar), 890º (na redacção dos Dec Lei 329-A/95, de 12-Dez , 38/2003, de 08-Mar e 199/2003, de 10-Set),\
+    \ 891º, 897º (na redacção dos Dec Lei 47690, de 11-Maio de 1967, 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 898º (na redacção\
+    \ dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 901º-A (aditado pelo Dec Lei 38/2003, de 08-Mar), 904º (na redacção\
+    \ dos Dec Lei 47690, de 11-Maio de 1967, 368/77, de 03-Set, 329-A/95, de 12-Dez, 180/96, de 25-Set e 38/2003, de 08-Mar),\
+    \ 905º ( na redacção dos Dec Lei 368/77, de 03-Set, 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 906º ( na redacção dos\
+    \ Dec Lei 47690, de 11-Maio de 1967, 368/77, de 03-Set, 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 907º-A ( aditado pelo\
+    \ Dec Lei 38/2003, de 08-Mar), 908º (na redacção dos Dec Lei 47690, de 11-Maio de 1967 e 38/2003, de 08-Mar), 913º e 916º\
+    \ (na redacção dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 917º, 919º e 920º ( os dois últimos na redacção\
+    \ dos Dec Lei 329-A/95, de 12-Dez e 38/2003, de 08-Mar), 921º ( na redacção do Dec Lei 47690, de 11-Maio de 1967), 936º\
+    \ (na redacção do Dec Lei 329-A/95, de 12-Dez) e 937º, aditados os arts. 675º-A, 812º-C, 812º-D, 812º-E, 812º-F, 833º-A,\
+    \ 833º-B e 907º-B e revogada a al. a) do nº2 do art. 806º, os nºs. 2, 3 e 4 do art 810º, os arts. 812º, 812º-A, 812º-B\
+    \ e 833º, o nº2 do art. 847º, as als. c) e d) do nº3 do art. 864º, o nº4 do art. 890º, o nº3 do art. 898º e a al. a) do\
+    \ art. 922º-B do Código do Processo Civil, aprovado pelo presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS\
+    \ [226] de 20.11.2008\0 [226] de 20.11.2008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterados, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), o art. 32º (com a redacção conferida nos Dec Lei 47690 de 11-Mai de 1967 e 329-A/95 de 12-Dez), 52º (com a\
+    \ redacção conferida no Dec Lei 329-A/95 de 12-Dez), 77º (com a redacção conferida nos Dec Lei 47690 de 11-Mai de 1967\
+    \ e 329-A/95 de 12-Dez), 248º (na redacção conferida nos Dec Lei 329-A/95 de 12-Dez, 180/96 de 25-Set e na Lei 52/2008\
+    \ de 28-Ago), 373º (na redacção conferida no Dec Lei 329-A/95 de 12-Dez), 426º, 989º (com a redacção conferida no Dec\
+    \ Lei 321-B/90 de 15-Out e 329-A/95 de 12-Dez), 1052º (com a redacção conferida no Dec Lei 47690 de 11-Mai de 1967 e no\
+    \ Dec Lei 329-A/95 de 12-Dez), 1406º (com a redacção conferida no Dec Lei 329-A/95 de 12-Dez) e 1462º; - revogados, a\
+    \ partir da referida data, o nº 3 do art. 32º, os nºs 3 e 4 do art. 77º, o nº 1 do art. 426º, o nº 2 do art. 1052º, os\
+    \ arts. 1108º, 1109º, 1326º a 1405º, 1473º e o nº 3 do art. 1462º; - e aditados, a partir 30.06.2009, os arts. 249º-A\
+    \ a 249º-C e o art. 279º.,todos do Código de Processo Civil, aprovado pelo presente diploma, com a republicação constante\
+    \ do Dec Lei 329-A/95 de 12-Dez, pela LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: amended_by
+  target: pt:dre:613677:por
+  label: "Alterados, a partir de 20.04.2010, os arts.143º (na redacção do Dec Lei 224/82, de 08-Jun, da Lei 3/83 de 26-Fev,\
+    \ dos Dec Lei 329-A/95 de 12-Dez, 183/2000 de 10-Ago e 303/2007 de 24-Ago e da Lei 52/2008, de 28-Ago) e 144º (na redacção\
+    \ dos Dec Lei 47690, de 11-Maio de 1967, 323/70, de 11-Jul, 457/80, de 10-Out, 224/82, de 08-Jun, da Lei 3/83, de 26-Fev\
+    \ e dos Dec Lei 242/85, de 09-Jul, 381-A/85, de 28-Set e 329-A/95, de 12-Dez), ambos do Código de Processo Civil, aprovado\
+    \ pelo presente diploma, com a republicação constante do Dec Lei 329-A/95, de 12-Dez, pelo DEC LEI.35/2010.15.04.2010.MJ,\
+    \ DR.IS [73] de 15.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2010-613677
+  date: '2010-04-15'
+- type: amended_by
+  target: pt:dre:276805:por
+  label: "Alterados, em 13.05.2011, os arts. 447.º-A ( aditado pelo Dec Lei 34/2008, de 26-Fev ), 833.º-A ( aditado pelo Dec\
+    \ Lei 226/2008, de 20-Nov ) e 861.º-A ( aditado pelo Dec Lei 329-A/95, de 12-Dez, na redacção dos Decretos Lei 38/2003,\
+    \ de 08-Mar e 226/2008, de 20-Nov ) do Código de Processo Civil aprovado pelo presente diploma, pelo DEC LEI.52/2011.13.04.2011.MJ,\
+    \ DR.IS [73] de 13.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2011-276805
+  date: '2011-04-13'
+- type: amended_by
+  target: pt:dre:145578:por
+  label: "Alterados a partir de 15.03.2012, os arts. 812.º-D (aditado pelo Dec Lei 226/2008, de 20-Nov), 815.º (na redacção\
+    \ dos Decs Lei 47690, de 11-Mai-1967 e 38/2003, de 08-Mar), 1094.º(na redacção do Dec Lei 38/2003, de 08-Mar) e 1527.º\
+    \ (na redacção dos Decs Lei 47690, de 11-Mai-1967 e 180/96, de 25-Set) e revogado, na mesma data, o art. 1097º, todos\
+    \ do Código de Processo Civil, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 329-A/95, de 12-Dez,\
+    \ pela LEI.63/2011.14.12.2011.AR, DR.IS [238] de 14.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2011-145578
+  date: '2011-12-14'
+- type: amended_by
+  target: pt:dre:175305:por
+  label: "Alterados, a partir de 12.11.2012, os arts. 222º (na redação dos Dec Lei 738/76, de 16-out, 329-A/95, de 12-dez,\
+    \ 180/96, de 25-set, 269/98, de 01-set, 199/2003, de 10-set e 53/2004, de 18-mar), 930º-C e 930º-D ( ambos aditados pela\
+    \ Lei 6/2006, de 27-fev) e revogados a al. a) do nº 1 do art. 930º-B, a al. a) do nº 2 do art. 930º-C e o nº 3 do artigo\
+    \ 930º-D do Código de Processo Civil, pela LEI.31/2012.14.08.2012.AR, DR.IS [157] de 14.08.2012, republicado pelo Dec\
+    \ Lei 329-A/95, de 12-dez\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2012-175305
+  date: '2012-08-14'
+- type: amended_by
+  target: pt:dre:191994:por
+  label: "Dada nova redação aos arts. 834º (alterado pelos Dec Lei 47690 de 11-mai 1967, 368/77 de 03-set, 38/2003 de 08-mar\
+    \ e 226/2008 de 20-nov), 886º-A (aditado pelos Dec Lei 329-A/95 de 12-dez, e alterado pelos Dec Lei 180/96 de 25-set,\
+    \ 38/2003 de 08-mar e 226/2008 de 20-nov) e 889º (alterado pelos Dec Lei 329-A/95 de 12-dez, 38/2003 de 08-mar) do Código\
+    \ de Processo Civil, aprovado pelo presente diploma, e republicado pelo referido Dec Lei 329-A/95 de 12-dez, pela LEI.60/2012.09.11.2012.AR,\
+    \ DR.IS [217] de 09.11.2012\0012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-2012-191994
+  date: '2012-11-09'
+- type: amended_by
+  target: pt:dre:499803:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do nº 2 do art. 814.º do CPC\
+    \ aprovado pelo presente diploma, na redação do Dec Lei 226/2008, de 20-nov, quando interpretada no sentido de limitar\
+    \ os fundamentos de oposição à execução instaurada com base em requerimentos de injunção à qual foi aposta a fórmula executória,\
+    \ pelo AC.388/2013.24.09.2013.TCS, DR.IS [184] de 24.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/388-2013-499803
+  date: '2013-09-24'
+- type: cites
+  target: pt:dre:158653:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:314400:por
+  label: "Rectificado o art. 1.º [na nova redacção ao art. 1454.º do presente diploma], do Dec Lei 47690 de 11-Mai 1967, pela\
+    \ RECT.DD546.19.07.1967.PC, DG.IS [167] de 19.07.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-314400
+  date: '1967-07-19'
+- type: corrected_by
+  target: pt:dre:284360:por
+  label: "Rectificado o art. 2.º do Decreto-Lei n.º 227/94, de 8 de Setembro, [na parte que altera o n.º 1 do artigo 1326.º,\
+    \ o n.º 2 do artigo 1327.º, o artigo 1334.º, e o n.º 2 do artigo 1341.º do Código de Processo Civil, aprovado pelo presente\
+    \ diploma] , pela DECL-RECT.263-A/94.31.12.1994.PCM, DR.IS-A [302-4ºSupl] de 31.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/263-a-1994-284360
+  date: '1994-12-31'
+- type: corrected_by
+  target: pt:dre:141795:por
+  label: "Rectificado o preâmbulo do Dec Lei 39/95, de 15-Fev, bem como o art. 1.º [ na parte em que altera o nº 3 do art.\
+    \ 304.º, nº 3 do art. 637.º, nº 2 do art. 653.º, nºs 1, 2, 3 e 4 do art. 712.º e nº 2 do art. 690.º-A, do Código de Processo\
+    \ Civil aprovado pelo presente diploma], bem como o nº 2 do art. 5.º e nº 1 do art. 6.º do mesmo diploma, pela DECL-RECT.73/95.31.05.1995.PCM,\
+    \ DR.IS-A [126-3ºSupl] de 31.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/73-1995-141795
+  date: '1995-05-31'
+- type: corrected_by
+  target: pt:dre:336713:por
+  label: "Rectificado o art. 1.º do Dec Lei 183/2000 de 10-Ago, [na parte que altera a redacção dos arts. 621.º e 651.º do\
+    \ Código de Processo Civil, aprovado pelo presente diploma], bem como o nº 1 do art. 7.º e o art. 8.º [entrada em vigor]\
+    \ do supracitado diploma, pela DECL-RECT.7-S/2000.31.08.2000.PCM, DR.IS-A [201-2ºSupl] de 31.08.2000\000\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-s-2000-336713
+  date: '2000-08-31'
+- type: corrected_by
+  target: pt:dre:235761:por
+  label: "Rectificado o art. 1.º do Dec Lei 183/2000, de 10-Ago [na parte que altera o art. 629.º do CPC aprovado pelo presente\
+    \ diploma], pela DECL-RECT.11-A/2000.30.09.2000.PCM, DR.IS-A [227-Supl.] de 30.09.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-a-2000-235761
+  date: '2000-09-30'
+- type: corrected_by
+  target: pt:dre:203232:por
+  label: "Rectificada a al. b) do art. 21.º do Dec Lei nº 272/2001 de 13-Out,[norma revogatória - onde se lê artigos \"1423.º,\
+    \ 1439.º, 1440.º e 1446.º\" deve ler-se \" 1423.º e 1446.º\" do CPC aprovado pelo presente diploma], pela DECL-RECT.20-AR/2001.30.11.2001.PCM,\
+    \ DR.IS-A [278-3ºSupl] de 30.11.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-ar-2001-203232
+  date: '2001-11-30'
+- type: corrected_by
+  target: pt:dre:235918:por
+  label: "Rectificados os arts. 1.º [na parte que altera no Código de Processo Civil, aprovado pelo presente diploma, o nº\
+    \ 2 do art. 471.º, a al. b) do art. 621.º, art. 773.º, nºs 2 e 7 do art. 808.º, nº 1 do art. 809.º, nº 1 do art. 818.º,\
+    \ nº 1 do art. 820.º, nº 5 do art. 833.º, nºs 1, 6 e 7 do art. 838.º, art. 849.º, nº 1 do art. 857.º, nºs 5, 9 e 12 do\
+    \ art. 861.º-A, nº 1 do art. 862.º, nº 2 do art. 863.º-A, nº 7 do art. 864.º, art. 864.º-A, nº 5 do art. 865.º, nº 3 do\
+    \ art. 866.º, nºs 2 e 7 do art. 869.º, nº 8 do art. 875.º, nº 1 do art. 886.º, al.b) do nº 2 e o nº 3 do art. 886.º-A,\
+    \ nº 3 do art. 887.º, altera a epígrafe do art. 889.º e o seu nº 2, nºs 1 e 2 do art. 897.º, nº 4 do art. 898.º, na parte\
+    \ que mantém a epígrafe do art. 913.º, na al. a) do nº 1 do art.913.º, nº 2 do art. 920.º, art. 923.º, rectificado ainda\
+    \ o art 2.º do supracitado diploma, na parte em que adita o art. 886.º-C ao mesmo código], do Dec Lei 38/2003 de 08-Mar,\
+    \ pela DECL-RECT.5-C/2003.30.04.2003.PCM, DR.IS-A [100-3ºSUPL] de 30.04.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-c-2003-235918
+  date: '2003-04-30'
+- type: corrected_by
+  target: pt:dre:152939:por
+  label: "Rectificado o art. 1.º, na parte que altera os arts. 389.º e 864.º-A, do Código de Processo Civil, aprovado pelo\
+    \ presente diploma, bem como o nº 3 do art. 4.º na parte que altera o mesmo código, ambos do Dec Lei 199/2003 de 10-Set,\
+    \ pela DECL-RECT.16-B/2003.31.10.2003.PCM, DR.IS-A [253-Supl] de 31.10.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-b-2003-152939
+  date: '2003-10-31'
+- type: corrected_by
+  target: pt:dre:569313:por
+  label: "Rectificado o art. 5.º do Dec Lei 324/2003, de 27-Dez, na parte que altera o nº 2 do art. 254.º do Código de Processo\
+    \ civil, aprovado pelo presente diploma, pela DECL-RECT.26/2004.24.02.2004.PCM, DR.IS-A [46] de 24.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-2004-569313
+  date: '2004-02-24'
+- type: corrected_by
+  target: pt:dre:629105:por
+  label: "Rectificado o corpo do art. 1.º e no mesmo artigo [na parte que altera a al. f) do art. 474.º do Código de Processo\
+    \ Civil, aprovado pelo presente diploma] e o nº 1 do art. 6.º, ambos do Decreto-Lei n.º 303/2007, de 24 de Agosto, pela\
+    \ DECL-RECT.99/2007.23.10.2007.PCM, DR.IS [204] de 23.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/99-2007-629105
+  date: '2007-10-23'
+- type: corrected_by
+  target: pt:dre:249558:por
+  label: "Rectificado o art. 2.º do Decreto-Lei n.º 34/2008, de 26 de Fevereiro, [na parte em que procede à alteração do art.\
+    \ 474.º do Código de Processo Civil, aprovado pelo presente diploma] pela DECL-RECT.22/2008.24.04.2008.PCM, DR.IS [81]\
+    \ de 24.04.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-2008-249558
+  date: '2008-04-24'
+- type: corrected_by
+  target: pt:dre:602683:por
+  label: "Rectificado o art. 1.º [na parte que altera o nº 1 do art. 898.º do CPC aprovado pelo presente diploma] e a al.\
+    \ a) do art. 23.º que deve ler-se \"O disposto no artigo 1.º, na parte em que altera o artigo 376.º do Código de Processo\
+    \ Civil, no artigo 10.º e no artigo 22.º do presente decreto-lei entra em vigor no dia seguinte ao da sua publicação\"\
+    \ ambos do Decreto-Lei n.º 226/2008, de 20 de Novembro, pela DECL-RECT.2/2009.19.01.2009.PCM, DR.IS [12] de 19.01.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2009-602683
+  date: '2009-01-19'
+- type: repealed_by
+  target: pt:dre:319744:por
+  label: "Revogados os arts. 1275.º a 1278.º e 1324.º do Código, pelo DEC LEI.400/82.23.09.1982.MJ, DR.IS [221]Supl de 23.09.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1982-319744
+  date: '1982-09-23'
+- type: repealed_by
+  target: pt:dre:667147:por
+  label: "Revogados os arts. 964º a 997º do Código, pelo DEC LEI.321-B/90.1990.10.15.MOPTC, DR.IS [238]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-b-1990-667147
+  date: '1990-10-15'
+- type: repealed_by
+  target: pt:dre:658664:por
+  label: "Revogado o art. 464º-A, pelo DEC LEI.211/91.1991.06.14.MJ, DR..IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1991-658664
+  date: '1991-06-14'
+- type: repealed_by
+  target: pt:dre:666341:por
+  label: "Revogados os arts. 1135º a 1325º do Código, pelo DEC LEI.132/93.1993.04.23.MJ, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1993-666341
+  date: '1993-04-23'
+- type: repealed_by
+  target: pt:dre:239980:por
+  label: "Revogado o nº 4 do art. 30º do Código, na redacção do Dec Lei 329-A/95 de 12-Dez pelo DEC LEI.315/98.1998.10.20.MJ,\
+    \ DR.IS-A [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1998-239980
+  date: '1998-10-20'
+- type: repealed_by
+  target: pt:dre:621556:por
+  label: "Revogados os arts.1414º, 1414º-A, 1418º, 1423º, 1439º, 1440º, e 1446º, pelo DEC LEI.272/2001.2001.10.13.MJ,DR.IS-A\
+    \ [238](ver Declaração de Rectificação n.º 20-AR/2001 de 30 de Novembro)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-2001-621556
+  date: '2001-10-13'
+- type: repealed_by
+  target: pt:dre:620286:por
+  label: "Revogado o art. 1497º do Código de Processo Civil, aprovado pelo presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP,\
+    \ DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: repealed_by
+  target: pt:dre:259267:por
+  label: "Revogado, a partir de 02.09.2013, o n.º 3 do art. 32.º, os art.s 52.º e 77.º, o n.º 4 do art. 248.º, o n.º 4 do\
+    \ art. 373.º, o n.º 1 do art. 426.º, o n.º 2 do art. 1052.º, os art.s 1108.º, 1109.º, 1326.º a 1392.º, 1395.º, 1396.º,\
+    \ 1404.º, 1405.º e 1406.º e o n.º 3 do art. 1462.º, do Código de Processo Civil,aprovado pelo presente diploma, pela LEI.23/2013.05.03.2013.AR,\
+    \ DR.IS [45] de 05.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2013-259267
+  date: '2013-03-05'
+- type: repealed_by
+  target: pt:dre:260394:por
+  label: "Revogados, a partir de 19.05.2013, os art.s 249.º-A a 249.º-C do Código de Processo Civil, aprovado pelo presente\
+    \ diploma, e republicado pelo Dec Lei 329-A/95 de 12-dez, pela LEI.29/2013.19.04.2013.AR, DR.IS [77] de 19.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2013-260394
+  date: '2013-04-19'
+- type: repealed_by
+  target: pt:dre:497406:por
+  label: "Revogado, a partir de 01.09.2013, pela LEI.41/2013.26.06.2013.AR, DR.IS [121] de 26.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/41-2013-497406
+  date: '2013-06-26'
 article_structure:
-  article_count: 1526
-  section_count: 260
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1525
+  section_count: 264
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:23Z'
   warnings: []
   errors: []
 ---
@@ -574,15 +1562,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código de Processo Civil, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código de Processo Civil, que faz parte do presente decreto-lei.
 
-###### Art. 2.º As novas disposições começam a vigorar, em todo o continente e ilhas adjacentes, no dia 24 de Abril de 1962.
+Art. 2.º As novas disposições começam a vigorar, em todo o continente e ilhas adjacentes, no dia 24 de Abril de 1962.
 
-###### Art. 3.º Todas as modificações que de futuro se façam sobre matéria contida no Código de Processo Civil serão inscritas no lugar próprio deste diploma, mediante a substituição dos artigos alterados, a supressão das disposições que devam ser eliminadas ou o adicionamento dos preceitos que se mostrem necessários.
+Art. 3.º Todas as modificações que de futuro se façam sobre matéria contida no Código de Processo Civil serão inscritas no lugar próprio deste diploma, mediante a substituição dos artigos alterados, a supressão das disposições que devam ser eliminadas ou o adicionamento dos preceitos que se mostrem necessários.
 
-###### Art. 4.º Compete à Procuradoria-Geral da República, bem como à Direcção-Geral da Justiça, receber as exposições tendentes ao aperfeiçoamento do Código e propor ao Governo as providências que para esse fim entendam convenientes.
+Art. 4.º Compete à Procuradoria-Geral da República, bem como à Direcção-Geral da Justiça, receber as exposições tendentes ao aperfeiçoamento do Código e propor ao Governo as providências que para esse fim entendam convenientes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -590,7 +1578,7 @@ Para ser presente à Assembleia Nacional.
 
 Código de Processo Civil
 
-# LIVRO I — Da acção
+## LIVRO I — Da acção
 
 ## TÍTULO I — Da acção em geral
 
@@ -1044,7 +2032,7 @@ Compete ao Ministério Público promover a execução por custas e multas impost
 
 2. No apenso de verificação de créditos, o patrocínio de advogado só é necessário quando seja reclamado algum crédito de valor superior à alçada do tribunal de comarca e apenas para apreciação dele.
 
-# LIVRO II — Da competência e das garantias da imparcialidade
+## LIVRO II — Da competência e das garantias da imparcialidade
 
 ### CAPÍTULO I — Das disposições gerais sobre competência
 
@@ -1618,7 +2606,7 @@ b) Enquanto não for julgada a suspeição, o funcionário não pode intervir no
 
 c) O juiz da causa proverá a todos os termos e actos do incidente e decidirá, sem recurso, a suspeição.
 
-# LIVRO III — Do processo
+## LIVRO III — Do processo
 
 ## TÍTULO I — Das disposições gerais
 
@@ -4206,7 +5194,9 @@ Ao processo sumaríssimo são aplicáveis as disposições que lhe dizem respeit
 
 ## TÍTULO II — Do processo de declaração
 
-## SUBTÍTULO I — Do processo ordinário
+SUBTÍTULO I
+
+Do processo ordinário
 
 ### CAPÍTULO I — Dos articulados
 
@@ -6784,7 +7774,9 @@ Se estiver pendente ou for promovida a execução da sentença, não pode o exeq
 
 2. As diligências de prova que se tornem necessárias e não possam ter lugar naqueles tribunais são requisitadas ao tribunal de 1.ª instância donde o processo subiu.
 
-## SUBTÍTULO II — Do processo sumário
+SUBTÍTULO II
+
+Do processo sumário
 
 ###### Artigo 783.º — (Prazo para a constestação e cominação)
 
@@ -6840,7 +7832,9 @@ O prazo de cumprimento das cartas que não sejam para citação ou notificação
 
 2. O agravo do despacho proferido sobre reclamações contra o questionário sobe nos termos do artigo 735.º, sendo inaplicável o preceito do n.º 3 desse artigo.
 
-## SUBTÍTULO III — Do processo sumaríssimo
+SUBTÍTULO III
+
+Do processo sumaríssimo
 
 ###### Artigo 793.º — (Petição inicial)
 
@@ -6896,7 +7890,9 @@ Da sentença não há recurso, a não ser nos casos abrangidos pelo n.º 2 do ar
 
 ## TÍTULO III — Do processo de execução
 
-## SUBTÍTULO I — Das disposições gerais
+SUBTÍTULO I
+
+Das disposições gerais
 
 ###### Artigo 801.º — (Aplicação dos princípios do processo de declaração)
 
@@ -6974,7 +7970,9 @@ O terceiro árbitro só intervém na falta de acordo entre os outros dois, mas n
 
 2. Requerendo-se a execução imediata da parte líquida, a liquidação da outra parte, quando requerida na pendência da execução, é deduzida por apenso, e, se este subir em recurso, juntar-se-lhe-á certidão do título executivo e também dos articulados, quando a execução se funde em sentença.
 
-## SUBTÍTULO II — Da execução para pagamento de quantia certa
+SUBTÍTULO II
+
+Da execução para pagamento de quantia certa
 
 ### CAPÍTULO I — Do processo ordinário
 
@@ -8016,7 +9014,9 @@ Aos agravos interpostos de despachos proferidos no processo dos embargos de exec
 
 4. Os embargos de executado seguem os termos do processo sumaríssimo de declaração.
 
-## SUBTÍTULO III — Da execução para entrega de coisa certa
+SUBTÍTULO III
+
+Da execução para entrega de coisa certa
 
 ###### Artigo 928.º — (Citação do executado)
 
@@ -8048,7 +9048,9 @@ Na execução para entrega de coisa certa deve requerer-se que o executado seja 
 
 Os agravos não compreendidos nas alíneas a) e b) do n.º 1 do artigo 923.º só subirão a final, depois de feita a entrega judicial da coisa, salvo se tiver de proceder-se nos termos do artigo anterior, porque então observar-se-á o regime estabelecido para a execução por quantia certa.
 
-## SUBTÍTULO IV — Da execução para prestação de facto
+SUBTÍTULO IV
+
+Da execução para prestação de facto
 
 ###### Artigo 933.º — (Citação do executado)
 
@@ -12502,7 +13504,7 @@ Quando o capitão do navio careça de autorização judicial para praticar certo
 
 2. O juiz ouve o destinatário ou o consignatário sempre que resida na comarca e, se julgar justificado o pedido, nomeia o consignatário e autoriza a venda das mercadorias por alguma das formas indicadas no artigo 883.º
 
-# LIVRO IV — Do tribunal arbitral
+## LIVRO IV — Do tribunal arbitral
 
 ## TÍTULO I — Do tribunal arbitral voluntário
 

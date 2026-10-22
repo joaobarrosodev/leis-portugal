@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1978-327301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7227f6fa48aeafe1289c48a2ef405d0f836254e1ac2d6f84bf15831410ce233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f4b89855d37e5ab00080e2918841ba052bfe044eca97f6a021a709a413a956
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cofre de Previdência
+- Estatuto
+- Função Pública
+- Ministério das Finanças
+- Previdência Social
 relationships:
 - type: amended_by
   target: pt:dre:510014:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:510014:por
+  label: "Alterado o art. 35.º dos Estatutos do Cofre de Previdência do Ministério das Finanças aprovados pelo Decreto-Lei\
+    \ n.º 465/76, de 11 de Junho, com a redacção do presente diploma, pelo DEC LEI.519-N/79.28.12.1979.MF, DR.IS [298-3.º\
+    \ Supl] de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-n-1979-510014
+  date: '1979-12-28'
+- type: cites
+  target: pt:dre:427105:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:18Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +115,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os Estatutos do Cofre de Previdência do Ministério das Finanças, aprovados pelo [Decreto-Lei n.º 465/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1976-427105), de 11 de Junho, passam a ter a seguinte redacção nas passagens do seu articulado que adiante se assinalam:
+Artigo único. Os Estatutos do Cofre de Previdência do Ministério das Finanças, aprovados pelo [Decreto-Lei n.º 465/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1976-427105), de 11 de Junho, passam a ter a seguinte redacção nas passagens do seu articulado que adiante se assinalam:
 
 Estatutos do Cofre de Previdência do Ministério das Finanças
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - A direcção só dispensará fundos destinados a casa de habitação de tipo social.
 
 ...
 
-###### Art. 30.º - 1 - A aquisição e a construção de casa de habitação serão sempre precedidas de inscrição, para o efeito, de um ou mais sócios interessados, desde que:
+Art. 30.º - 1 - A aquisição e a construção de casa de habitação serão sempre precedidas de inscrição, para o efeito, de um ou mais sócios interessados, desde que:
 
 a) ...
 
@@ -121,7 +137,7 @@ c) Não tenham, por si ou pelo cônjuge, usufruído desses direitos através de 
 
 3 - Sem prejuízo da indicação, devidamente documentada, dos valores venais, reais e contratuais, nas avaliações de casas já construídas, em todos os laudos e pareceres dos serviços técnicos do Cofre deverá constar, com os indispensáveis fundamentos, o tipo de habitação que o sócio pretende.
 
-###### Art. 31.º - 1 - Se, devido à demora na chamada dos inscritos, nos termos do artigo anterior, tiver sido conseguida casa própria para habitação do sócio e do respectivo agregado familiar por meio de hipoteca, esta poderá ser transferida para o Cofre se o interessado o pretender, quando chegar a oportunidade de ser atendida a sua inscrição.
+Art. 31.º - 1 - Se, devido à demora na chamada dos inscritos, nos termos do artigo anterior, tiver sido conseguida casa própria para habitação do sócio e do respectivo agregado familiar por meio de hipoteca, esta poderá ser transferida para o Cofre se o interessado o pretender, quando chegar a oportunidade de ser atendida a sua inscrição.
 
 2 - ...
 
@@ -129,13 +145,13 @@ c) Não tenham, por si ou pelo cônjuge, usufruído desses direitos através de 
 
 ...
 
-###### Art. 33.º - 1 - Com as limitações constantes desta secção, todos os sócios têm direito, por uma só vez, à aquisição ou construção de uma casa de habitação através do Cofre, desde que satisfaçam, com pontualidade, o respectivo encargo mensal.
+Art. 33.º - 1 - Com as limitações constantes desta secção, todos os sócios têm direito, por uma só vez, à aquisição ou construção de uma casa de habitação através do Cofre, desde que satisfaçam, com pontualidade, o respectivo encargo mensal.
 
 2 - ...
 
 ...
 
-###### Art. 35.º - 1 - ...
+Art. 35.º - 1 - ...
 
 a) ...
 
@@ -157,13 +173,13 @@ b) Perda da qualidade de sócio, ainda que por morte, com excepção dos casos e
 
 ...
 
-###### Art. 50.º - 1 - ...
+Art. 50.º - 1 - ...
 
 2 - ...
 
 3 - O arrendamento caducará findo o prazo concedido pela direcção.
 
-###### Art. 51.º - 1 - Se os adquirentes perderem a qualidade de sócios, não observarem os preceitos estatutários ou faltarem ao cumprimento de cláusulas do contrato, considera-se este imediatamente rescindido, salvo o disposto no n.º 6.
+Art. 51.º - 1 - Se os adquirentes perderem a qualidade de sócios, não observarem os preceitos estatutários ou faltarem ao cumprimento de cláusulas do contrato, considera-se este imediatamente rescindido, salvo o disposto no n.º 6.
 
 2 - ...
 
@@ -183,8 +199,8 @@ b) Mas se o sócio provar por documento reconhecido notarialmente em que data ef
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 31 de Outubro de 1978.**
+Promulgado em 31 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

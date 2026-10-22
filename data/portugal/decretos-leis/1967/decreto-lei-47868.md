@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/08/20100/15421543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47868-1967-390071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bb55727ab293e3596bd4f1fc0628371abaaadb62350c761ea00ad7fe6601790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24c1a92438a49543be253b04b9dc6ccdfc60ae4cd4310858fbdd9de284c185e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Caixa Geral de Depósitos Crédito e Previdência
+- Formas de Provimento
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:414458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388594:por
+  label: "Prorrogado por 60 dias o prazo indicado no mapa a que se refere o art. 2.º, pelo DEC LEI.48003.24.10.1967.MF, DG.IS\
+    \ [248] de 24.10.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48003-1967-388594
+  date: '1967-10-24'
+- type: cites
+  target: pt:dre:173495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:414458:por
+  label: "Revogado pelo DEC LEI.693/70.31.12.1970.MF, DG.IS [301-2ºSupl] de 31.12.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/693-1970-414458
+  date: '1970-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:08Z'
   warnings: []
   errors: []
 ---
@@ -102,52 +141,52 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A admissão do pessoal contratado do quadro de secretaria da Caixa Geral de Depósito, Crédito e Previdência passa a ser feita na categoria de terceiro-oficial e regular-se-á pelas disposições legais em vigor à data da publicação deste decreto-lei para a categoria de aspirante.
+Artigo 1.º A admissão do pessoal contratado do quadro de secretaria da Caixa Geral de Depósito, Crédito e Previdência passa a ser feita na categoria de terceiro-oficial e regular-se-á pelas disposições legais em vigor à data da publicação deste decreto-lei para a categoria de aspirante.
 
-###### Art. 2.º Nos quadros do pessoal da mesma Caixa, aprovados pelo artigo 6.º do [Decreto-Lei n.º 46305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46305-1965-236714), de 27 de Abril de 1965, são introduzidas as alterações constantes do mapa anexo, que faz parte integrante do presente decreto-lei.
+Art. 2.º Nos quadros do pessoal da mesma Caixa, aprovados pelo artigo 6.º do [Decreto-Lei n.º 46305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46305-1965-236714), de 27 de Abril de 1965, são introduzidas as alterações constantes do mapa anexo, que faz parte integrante do presente decreto-lei.
 
-###### Art. 3.º Serão suprimidos no mesmo quadro do pessoal, à medida que ocorram as respectivas vagas, os lugares de ajudante de tesouraria.
+Art. 3.º Serão suprimidos no mesmo quadro do pessoal, à medida que ocorram as respectivas vagas, os lugares de ajudante de tesouraria.
 
-###### Art. 4.º O provimento dos lugares de segundo-oficial será feito de entre os funcionários da categoria imediatamente inferior aprovados em concurso, que constará de provas escritas, mantendo-se no que for compatível as normas legais presentemente em vigor nos concursos para a aludida categoria de segundo-oficial.
+Art. 4.º O provimento dos lugares de segundo-oficial será feito de entre os funcionários da categoria imediatamente inferior aprovados em concurso, que constará de provas escritas, mantendo-se no que for compatível as normas legais presentemente em vigor nos concursos para a aludida categoria de segundo-oficial.
 
-###### Art. 5.º O serviço de estudos estatísticos e actuariais a que se refere o artigo 1.º do [Decreto-Lei n.º 44237](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44237-1962-518234), de 15 de Março de 1962, passa a denominar-se «serviços mecanográficos e de estudos actuariais», nos quais continuará integrado o centro mecanográfico.
+Art. 5.º O serviço de estudos estatísticos e actuariais a que se refere o artigo 1.º do [Decreto-Lei n.º 44237](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44237-1962-518234), de 15 de Março de 1962, passa a denominar-se «serviços mecanográficos e de estudos actuariais», nos quais continuará integrado o centro mecanográfico.
 
-###### Art. 6.º Para os lugares de adjunto dos serviços mecanográficos e de estudos actuariais serão contratados indivíduos que possuam curso superior adequado.
+Art. 6.º Para os lugares de adjunto dos serviços mecanográficos e de estudos actuariais serão contratados indivíduos que possuam curso superior adequado.
 
-###### Art. 7.º Os programadores serão contratados de entre os primeiros-operadores com reconhecidas condições para o exercício do cargo; os primeiros-operadores, de entre os segundos-operadores, e a monitora, de entre as primeiras-mecanógrafas.
+Art. 7.º Os programadores serão contratados de entre os primeiros-operadores com reconhecidas condições para o exercício do cargo; os primeiros-operadores, de entre os segundos-operadores, e a monitora, de entre as primeiras-mecanógrafas.
 
 § único. Poderá a administração da Caixa Geral de Depósitos, Crédito e Previdência contratar para o lugar de programador indivíduos que possuam curso superior adequado.
 
-###### Art. 8.º Na nomeação para os cargos de segundo-operador e terceira-mecanógrafa terão preferência os funcionários de secretaria da Caixa, de idade não superior a 35 anos.
+Art. 8.º Na nomeação para os cargos de segundo-operador e terceira-mecanógrafa terão preferência os funcionários de secretaria da Caixa, de idade não superior a 35 anos.
 
 § único. Os cargos de segundo-operador serão providos de entre os funcionários com categoria igual ou superior a terceiro-oficial, e os de terceira-mecanógrafa, de entre os dactilógrafos-arquivistas ou dactilógrafos.
 
-###### Art. 9.º Aos funcionários da Caixa providos nos lugares a que se referem os artigos 7.º e 8.º deste decreto-lei é aplicável o disposto no artigo 7.º do [Decreto-Lei n.º 40100](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40100-1955-542187), de 21 de Março de 1955.
+Art. 9.º Aos funcionários da Caixa providos nos lugares a que se referem os artigos 7.º e 8.º deste decreto-lei é aplicável o disposto no artigo 7.º do [Decreto-Lei n.º 40100](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40100-1955-542187), de 21 de Março de 1955.
 
-###### Art. 10.º O pessoal ao qual for aplicável o disposto no artigo 7.º do [Decreto-Lei n.º 40100](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40100-1955-542187), de 21 de Março de 1955, mantém todos os direitos inerentes à sua situação anterior, inclusive o de concorrer às categorias superiores.
+Art. 10.º O pessoal ao qual for aplicável o disposto no artigo 7.º do [Decreto-Lei n.º 40100](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40100-1955-542187), de 21 de Março de 1955, mantém todos os direitos inerentes à sua situação anterior, inclusive o de concorrer às categorias superiores.
 
-###### Art. 11.º Não sendo o provimento das vagas de segundo-operador e terceira-mecanógrafa feito nos termos do artigo 8.º e seu § único deste decreto-lei, o conselho de administração da Caixa determinará a abertura de concurso entre indivíduos do sexo masculino, para os lugares de segundo-operador, e do sexo feminino, para os lugares de terceira-mecanógrafa, desde que possuam o 2.º ciclo do curso liceal ou habilitação equivalente e tenham idade não inferior a 21 anos, nem superior a 30.
+Art. 11.º Não sendo o provimento das vagas de segundo-operador e terceira-mecanógrafa feito nos termos do artigo 8.º e seu § único deste decreto-lei, o conselho de administração da Caixa determinará a abertura de concurso entre indivíduos do sexo masculino, para os lugares de segundo-operador, e do sexo feminino, para os lugares de terceira-mecanógrafa, desde que possuam o 2.º ciclo do curso liceal ou habilitação equivalente e tenham idade não inferior a 21 anos, nem superior a 30.
 
 § único. Os contratos realizados com indivíduos aprovados em concurso para os lugares referidos neste artigo serão rescindidos se, decorridos seis meses, não forem definitivamente confirmados pelo mesmo conselho.
 
-###### Art. 12.º O pessoal suplementar recrutado ao abrigo do artigo 2.º do [Decreto-Lei n.º 40100](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40100-1955-542187), de 21 de Março de 1955, que estiver adstrito ao centro mecanográfico criado pelo artigo 1.º do [Decreto-Lei n.º 44237](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44237-1962-518234), de 15 de Março de 1962, e não exerça funções de natureza administrativa, poderá ser provido, mediante resolução do conselho de administração da Caixa, nas vagas que ocorram nas categorias próprias do referido centro.
+Art. 12.º O pessoal suplementar recrutado ao abrigo do artigo 2.º do [Decreto-Lei n.º 40100](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40100-1955-542187), de 21 de Março de 1955, que estiver adstrito ao centro mecanográfico criado pelo artigo 1.º do [Decreto-Lei n.º 44237](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44237-1962-518234), de 15 de Março de 1962, e não exerça funções de natureza administrativa, poderá ser provido, mediante resolução do conselho de administração da Caixa, nas vagas que ocorram nas categorias próprias do referido centro.
 
-###### Art. 13.º Aos funcionários transferidos nas condições previstas no artigo 21.º e seu § único do [Decreto-Lei n.º 24092](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24092-1934-465851), de 29 de Junho de 1934, será abonada a despesa que fizerem com o transporte, seguro e embalagem da sua mobília e bagagem, restringindo-se o abono de embalagem ao transporte por via férrea ou marítima.
+Art. 13.º Aos funcionários transferidos nas condições previstas no artigo 21.º e seu § único do [Decreto-Lei n.º 24092](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24092-1934-465851), de 29 de Junho de 1934, será abonada a despesa que fizerem com o transporte, seguro e embalagem da sua mobília e bagagem, restringindo-se o abono de embalagem ao transporte por via férrea ou marítima.
 
-###### Art. 14.º O pessoal de tesouraria, quando destacado provisòriamente, por conveniência de serviço, para cofre de classe inferior, não poderá sofrer diminuição nas suas remunerações.
+Art. 14.º O pessoal de tesouraria, quando destacado provisòriamente, por conveniência de serviço, para cofre de classe inferior, não poderá sofrer diminuição nas suas remunerações.
 
-###### Art. 15.º O quantitativo actualmente abonado para falhas aos tesoureiros das filiais e agências de 1.ª e 2.ª classes, ao abrigo do artigo 13.º do Decreto-Lei n.º 27432, de 31 de Dezembro de 1936, é tornado extensivo a cobradores e ajudantes de cobrador.
+Art. 15.º O quantitativo actualmente abonado para falhas aos tesoureiros das filiais e agências de 1.ª e 2.ª classes, ao abrigo do artigo 13.º do Decreto-Lei n.º 27432, de 31 de Dezembro de 1936, é tornado extensivo a cobradores e ajudantes de cobrador.
 
-###### Art. 16.º O limite máximo a que alude o artigo 10.º do [Decreto-Lei n.º 46305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46305-1965-236714), de 27 de Abril de 1965, é fixado em 6 por cento.
+Art. 16.º O limite máximo a que alude o artigo 10.º do [Decreto-Lei n.º 46305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46305-1965-236714), de 27 de Abril de 1965, é fixado em 6 por cento.
 
-###### Art. 17.º São revogados o n.º 2.º do artigo 228.º do regulamento aprovado pelo [Decreto n.º 8162](https://diariodarepublica.pt/dr/detalhe/decreto/8162-1922-173495), de 29 de Maio de 1922, e os artigos 2.º, 3.º e 4.º e seus parágrafos do [Decreto-Lei n.º 44237](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44237-1962-518234), de 15 de Março de 1962.
+Art. 17.º São revogados o n.º 2.º do artigo 228.º do regulamento aprovado pelo [Decreto n.º 8162](https://diariodarepublica.pt/dr/detalhe/decreto/8162-1922-173495), de 29 de Maio de 1922, e os artigos 2.º, 3.º e 4.º e seus parágrafos do [Decreto-Lei n.º 44237](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44237-1962-518234), de 15 de Março de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Mapa a que se refere o artigo 2.º do Decreto-Lei n.º 47868, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/08/20100/15421543.pdf))](https://files.diariodarepublica.pt/1s/1967/08/20100/15421543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/08/20100/15421543.pdf)
 
 Ministério das Finanças, 29 de Agosto de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.

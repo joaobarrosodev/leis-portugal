@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1972-676593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdbad5c3868c10f936a5aa65fe43e0a17da252a2631a7c5c223e77b271629c64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c2ecb108852ef9f48f273e0a0b36531d5ee3d4026e3a87b54829f04eedc0900
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Delegação
+- Instituto Nacional do Trabalho e Previdência
+- Ministro das Corporações e Previdência Social
+- Serviços de Acção Social
+relationships:
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:54Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +104,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro das Corporações e Previdência Social poderá determinar, por portaria, que seja aplicado, total ou parcialmente, em relação a um ou mais concelhos do distrito de Lisboa, o regime próprio das delegações distritais do Instituto Nacional do Trabalho e Previdência (I. N. T. P.).
+Artigo 1.º - 1. O Ministro das Corporações e Previdência Social poderá determinar, por portaria, que seja aplicado, total ou parcialmente, em relação a um ou mais concelhos do distrito de Lisboa, o regime próprio das delegações distritais do Instituto Nacional do Trabalho e Previdência (I. N. T. P.).
 
 2. No caso previsto no número anterior, as funções da delegação são confiadas aos Serviços de Acção Social, a cujo chefe caberá, para o efeito, a competência do delegado do I. N. T. P.
 
-###### Art. 2.º O chefe dos Serviços de Acção Social pode delegar os poderes que lhe sejam conferidas, nos termos deste diploma, num ou mais assistentes dos mesmos Serviços ou em subdelegados.
+Art. 2.º O chefe dos Serviços de Acção Social pode delegar os poderes que lhe sejam conferidas, nos termos deste diploma, num ou mais assistentes dos mesmos Serviços ou em subdelegados.
 
-###### Art. 3.º Para prestar serviço nas subdelegações que eventualmente venham a ser criadas no distrito de Lisboa, nos termos do artigo 13.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948, poderão desempenhar funções nos Serviços de Acção Social subdelegados do quadro geral do I. N. T. P.
+Art. 3.º Para prestar serviço nas subdelegações que eventualmente venham a ser criadas no distrito de Lisboa, nos termos do artigo 13.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948, poderão desempenhar funções nos Serviços de Acção Social subdelegados do quadro geral do I. N. T. P.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgada em 14 de Agosto de 1972.**
+Promulgada em 14 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

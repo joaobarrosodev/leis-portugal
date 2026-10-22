@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1980-471945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30280931fd39c5225a8ad5ff702fcedec8aa6ea11f3db4e75c5308b4175b68d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58066e4c5a064225fcbbf485ce7951ae299d2cd96dab5859aedb5314772c991e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA Museu Doutor Anastácio Gonçalves
+- Criação de Serviços
+- Lisboa
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:626993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626993:por
+  label: Substituído o quadro de pessoal da Casa - Museu Doutor Anastácio Gonçalves pelo(a) Port 824/93 - Diário da República
+    n.º 211/1993, Série I-B de 1993-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/824-1993-626993
+  date: '1993-09-08'
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:28Z'
   warnings: []
   errors: []
 ---
@@ -94,34 +113,34 @@ Para tanto se cria, através do presente diploma, a Casa-Museu Anastácio Gonça
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada, na dependência do Instituto Português do Património Cultural, a Casa-Museu Dr. Anastácio Gonçalves, com os bens e valores legados, para esse efeito, pelo Dr. Anastácio Gonçalves.
+Artigo 1.º - 1 - É criada, na dependência do Instituto Português do Património Cultural, a Casa-Museu Dr. Anastácio Gonçalves, com os bens e valores legados, para esse efeito, pelo Dr. Anastácio Gonçalves.
 
 2 - A Casa-Museu Dr. Anastácio Gonçalves fica instalada na moradia situada na Avenida de 5 de Outubro, 8, em Lisboa.
 
 3 - É expressamente proibido à Casa-Museu Dr. Anastácio Gonçalves alienar, trocar ou ceder, mesmo que seja a título provisório ou precário, as colecções de arte que lhe forem afectas no acto da sua criação.
 
-###### Art. 2.º A Casa-Museu Dr. Anastácio Gonçalves destina-se à guarda, conservação, estudo e exposição das colecções legadas ao Estado pelo Dr. Anastácio Gonçalves, assim como ao desenvolvimento de actividades que permitam a mais ampla divulgação do seu conteúdo cultural.
+Art. 2.º A Casa-Museu Dr. Anastácio Gonçalves destina-se à guarda, conservação, estudo e exposição das colecções legadas ao Estado pelo Dr. Anastácio Gonçalves, assim como ao desenvolvimento de actividades que permitam a mais ampla divulgação do seu conteúdo cultural.
 
-###### Art. 3.º Os valores em dinheiro e em acções legados pelo Dr. Anastácio Gonçalves e pelo mesmo destinados a ajudar à manutenção e possível melhoria da Casa-Museu constituirão o Fundo Dr. Anastácio Gonçalves.
+Art. 3.º Os valores em dinheiro e em acções legados pelo Dr. Anastácio Gonçalves e pelo mesmo destinados a ajudar à manutenção e possível melhoria da Casa-Museu constituirão o Fundo Dr. Anastácio Gonçalves.
 
-###### Art. 4.º - 1 - A gestão financeira do Fundo Dr. Anastácio Gonçalves será assegurada por um conselho administrativo.
+Art. 4.º - 1 - A gestão financeira do Fundo Dr. Anastácio Gonçalves será assegurada por um conselho administrativo.
 
 2 - O conselho administrativo é constituído por um representante da Direcção-Geral da Contabilidade Pública, pelo presidente do Instituto Português do Património Cultural e pelo director da Casa-Museu.
 
-###### Art. 5.º O quadro do pessoal da Casa-Museu é o constante do mapa anexo a este diploma.
+Art. 5.º O quadro do pessoal da Casa-Museu é o constante do mapa anexo a este diploma.
 
-###### Art. 6.º O director da Casa-Museu será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 6.º O director da Casa-Museu será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 7.º Os lugares do quadro, à excepção do referido no artigo anterior, serão providos nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 7.º Os lugares do quadro, à excepção do referido no artigo anterior, serão providos nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 8.º As dúvidas que se suscitarem na execução do presente diploma serão esclarecidas por despacho conjunto do Ministro das Finanças e do Plano e dos membros do Governo responsáveis pela cultura e pela função pública, consoante a natureza das matérias.
+Art. 8.º As dúvidas que se suscitarem na execução do presente diploma serão esclarecidas por despacho conjunto do Ministro das Finanças e do Plano e dos membros do Governo responsáveis pela cultura e pela função pública, consoante a natureza das matérias.
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Julho de 1980.**
+Promulgado em 2 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15900/16251625.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15900/16251625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15900/16251625.pdf)

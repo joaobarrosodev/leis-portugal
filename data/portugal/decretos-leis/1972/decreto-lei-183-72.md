@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 127/1972, 1º Suplemento, Série I de 1972-05-30
   number: '127'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 722-(1) a 722-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/12701/00010025.pdf
 entry_into_force_dates: []
@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1972-186747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9db191c5147f7300addfb481aa83290ff7e648f43c879034b5c74db2d37f45a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e37554e658efb40aa74e534f0cb33fc82ea487bbb5531cd19b0d491cfaac6831
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Portugal
+- Relações Consulares
+- Viena
+relationships:
+- type: amended_by
+  target: pt:dre:371463:por
+  label: "Tornada pública a aplicação ao Território de Macau da Convenção aprovada para Adesão pelo presente diploma, pelo\
+    \ AV.82/99.1999.06.08.MNE DR.IS-A [150] DE 30/JUN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/82-1999-371463
+  date: '1999-06-08'
+- type: corrected_by
+  target: pt:dre:675012:por
+  label: "Rectificada a alínea f) do artigo 5.º, o artigo 16.º, o n.º 2 dos artigos 47.º e 71.º do texto português da Convenção,\
+    \ aprovada, para adesão no presente diploma, pela RECT.DD313.11.07.1972.PC, DG.IS [160] de 11.07.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-675012
+  date: '1972-07-11'
+- type: corrected_by
+  target: pt:dre:150741:por
+  label: "Rectificado o artigo 32.º pela RECT.DD144.29.12.1975.PCM, DG.IS [298]Supl de 29.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-150741
+  date: '1975-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:43Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +107,15 @@ de 30 de Maio
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção sobre Relações Consulares, concluída em Viena em 24 de Abril de 1963, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para adesão, a Convenção sobre Relações Consulares, concluída em Viena em 24 de Abril de 1963, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 17 de Maio de 1972.**
+Promulgado em 17 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convenção de Viena sobre Relações Consulares
 
@@ -760,7 +781,7 @@ A presente Convenção ficará aberta à adesão dos Estados pertencentes a qual
 
 ###### ARTIGO 78.º — Notificação pelo secretário-geral
 
-**O secretário-geral da Organização das Nações Unidas notificará a todos os Estados pertencentes a qualquer das quatro categorias mencionadas no artigo 74.º:**
+O secretário-geral da Organização das Nações Unidas notificará a todos os Estados pertencentes a qualquer das quatro categorias mencionadas no artigo 74.º:
 
 a) As assinaturas apostas à presente Convenção e o deposito dos instrumentos de ratificação ou adesão, nos termos dos artigos 74.º, 75.º e 76.º
 

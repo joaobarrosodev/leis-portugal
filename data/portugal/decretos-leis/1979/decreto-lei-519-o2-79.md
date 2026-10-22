@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 14º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 14º Suplemento
+  supplement: null
   pages: 3446-(286) a 3446-(300)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29914/02860300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,180 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-o2-1979-156815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a01fa53f7cc7c872d7f543caeb1429facd5dd22dfdd40cff12060d7996db092
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c57af14eb6512a827f266037cae11648d62ac64f965543a77bafb519f6cc71ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central de Saúde
+- Administração Distrital de Saúde
+- Autonomia Administrativa
+- Autonomia Financeira
+- Autoridade Sanitária
+- Centro de Saúde
+- Centro de Saúde Mental
+- Comissão Coordenadora Regional de Saúde
+- Comissão Técnica
+- Conselho Diretivo
+- Conselho Distrital
+- Definição de Competências
+- Estabelecimento Psiquiátrico
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Instituto de Assistência Psiquiátrica
+- Integração de Trabalhadores
+- Orgânica
+- Pessoal Dirigente
+- Regime Jurídico
+- Serviço Nacional de Saúde
+- Serviços Médico-sociais
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:681618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:681618:por
+  label: "Revogado, com efeitos a 26.01.1980, pelo DEC LEI.81/80.19.04.1980.PCM, DR.IS [92] de 19.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1980-681618
+  date: '1980-04-19'
 article_structure:
   article_count: 65
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:29Z'
   warnings: []
   errors: []
 ---
@@ -964,8 +1104,8 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

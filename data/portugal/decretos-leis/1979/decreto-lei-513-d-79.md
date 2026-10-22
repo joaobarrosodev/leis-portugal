@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3334-(62) a 3334-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00620065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-d-1979-393780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9070f8900cdcf3b655db96c98268e52ac9d8b339ed3b7060b328a24d2e7a509f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2397bc46a0c313719824d285ade903bd4f81331a815302a82cf7af398e823cdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciamento
+- Região Demarcada
+- Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:468802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619723:por
+  label: "Extinta a Comissão Consultiva para o Plantio e Cultura da Vinha e revogado o art. 20º pelo DEC LEI.220/89.04.07.1989.MAPA,\
+    \ DR.IS [151] de 04.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-1989-619723
+  date: '1989-07-04'
+- type: cites
+  target: pt:dre:238644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:394922:por
+  label: "Revogado o nº 2 do art. 18º pelo DEC LEI.87/81.1981.04.28.PCM, DR.IS [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-1981-394922
+  date: '1981-04-28'
+- type: repealed_by
+  target: pt:dre:250617:por
+  label: "Revogado o art. 1º pelo DEC LEI.504-I/85.1985.12.30.MAPA, DR.IS [300]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/504-i-1985-250617
+  date: '1985-12-30'
+- type: repealed_by
+  target: pt:dre:468802:por
+  label: "Revogado pelo DEC LEI.83/97.1997.04.09.MADRP, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1997-468802
+  date: '1997-04-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:18Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +139,7 @@ O Governo decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 201.�
 
 I - Disposições gerais
 
-###### Artigo 1.º - 1 - O plantio e a cultura da vinha no território do continente, qualquer que seja o seu objectivo, ficam subordinados às disposições do presente diploma e diplomas regulamentares.
+Artigo 1.º - 1 - O plantio e a cultura da vinha no território do continente, qualquer que seja o seu objectivo, ficam subordinados às disposições do presente diploma e diplomas regulamentares.
 
 2 - Os detentores de vinhas cujo povoamento total ultrapasse cem pés de videira terão de efectuar a sua inscrição, no prazo de cento e oitenta dias, em registo apropriado, nos serviços regionais de agricultura e, no caso das regiões demarcadas e regulamentadas, nos organismos com acção de disciplina e fomento das mesmas, os quais deverão promover o cadastro das parcelas que a cada um pertençam.
 
@@ -116,7 +149,7 @@ I - Disposições gerais
 
 II - Plantações de vinhas
 
-###### Art. 2.º - 1 - Podem ser efectuadas livremente:
+Art. 2.º - 1 - Podem ser efectuadas livremente:
 
 a) A retancha ou replantação de bacelos nos primeiros seis anos após a plantação, para preenchimento das falhas até então verificadas, em vinhas plantadas legalmente;
 
@@ -126,7 +159,7 @@ c) A plantação conduzida em ramadas ou parreiras, para fins ornamentais ou de 
 
 2 - As plantações destinadas a ensaios ou estudos por parte dos serviços do Ministério da Agricultura e Pescas em campos seus ou a estabelecer em colaboração com outras entidades oficiais ou privadas podem ser efectuadas mediante despacho ministerial, sob parecer dos serviços competentes, o mesmo acontecendo com os campos de ensaio dos estabelecimentos de ensino agrícola.
 
-###### Art. 3.º - 1 - As plantações de vinhas não abrangidas pelo artigo 2.º carecem de autorização ou licença prévia do Ministério da Agricultura e Pescas, através do Instituto de Gestão e Estruturação Fundiária, mediante informação dos serviços regionais de agricultura.
+Art. 3.º - 1 - As plantações de vinhas não abrangidas pelo artigo 2.º carecem de autorização ou licença prévia do Ministério da Agricultura e Pescas, através do Instituto de Gestão e Estruturação Fundiária, mediante informação dos serviços regionais de agricultura.
 
 2 - Para efeitos de autorização ou licença, considera-se:
 
@@ -136,7 +169,7 @@ b) Transferência ou substituição de vinha, a plantação seguida de bacelos f
 
 c) Vinha nova, a plantação a efectuar em terreno que não tenha vinha e sem compromisso de arranque de outra vinha.
 
-###### Art. 4.º - As reconstituições ou replantações são autorizadas nas seguintes condições:
+Art. 4.º - As reconstituições ou replantações são autorizadas nas seguintes condições:
 
 a) Que as vinhas a reconstituir ou replantar tenham sido plantadas legalmente e em que, à data do pedido e subsequente vistoria, existam, pelo menos, 50% das cepas do povoamento inicial e estas se encontrem dispersas por toda a área, constituindo vinha não abandonada;
 
@@ -144,7 +177,7 @@ b) Que as reconstituições ou replantações sejam realizadas depois de decorri
 
 c) Que a área a reconstituir ou replantar seja a mesma do povoamento originário, salvo para vinhas de área superior a 3 ha, em terrenos de aluvião, em que a área a reconstituir ou replantar não poderá exceder 75% do povoamento originário.
 
-###### Art. 5.º - 1 - As transferências ou substituições de vinha são autorizadas nas seguintes condições:
+Art. 5.º - 1 - As transferências ou substituições de vinha são autorizadas nas seguintes condições:
 
 a) Que as vinhas a transferir ou a substituir tenham sido plantadas legalmente e se localizem na mesma região da vinha a plantar;
 
@@ -158,7 +191,7 @@ c) Que a área ocupada pela vinha a plantar não seja superior à da anterior pl
 
 4 - Não são autorizadas transferências ou substituições de vinha de uva de mesa para vinhas destinadas a vinho.
 
-###### Art. 6.º - 1 - Poderá ser autorizada a plantação de vinhas novas nas regiões demarcadas e regulamentadas de Bucelas, Carcavelos, Colares e Moscatel de Setúbal, com parecer favorável dos serviços regionais de agricultura e do organismo com acção de disciplina e fomento nas regiões, desde que as plantações se efectuem nos terrenos e com as castas a que se referem os respectivos estatutos regulamentares e se destinem exclusivamente à produção de vinhos de qualidade, a comercializar com denominação de origem.
+Art. 6.º - 1 - Poderá ser autorizada a plantação de vinhas novas nas regiões demarcadas e regulamentadas de Bucelas, Carcavelos, Colares e Moscatel de Setúbal, com parecer favorável dos serviços regionais de agricultura e do organismo com acção de disciplina e fomento nas regiões, desde que as plantações se efectuem nos terrenos e com as castas a que se referem os respectivos estatutos regulamentares e se destinem exclusivamente à produção de vinhos de qualidade, a comercializar com denominação de origem.
 
 2 - Poderão também ser autorizadas plantações de vinhas novas dentro dos limites e nos termos que, anualmente, forem estabelecidos até 15 de Fevereiro por portaria do Ministro da Agricultura e Pescas, atendendo às previsões das necessidades de vinhos e aguardentes, depois de ouvida a Comissão Consultiva para o Plantio e Cultura da Vinha, a que se refere o artigo 20.º, nas seguintes condições:
 
@@ -170,7 +203,7 @@ b) Noutras regiões de vocação vitivinícola comprovada, a demarcar, onde raz�
 
 4 - Fora dos casos a que se referem os números anteriores, poderão ser autorizadas a título excepcional, por despacho do Ministro da Agricultura e Pescas, depois de ouvida a Comissão Consultiva para o Plantio e Cultura da Vinha, a que se refere o artigo 20.º, plantações de vinhas novas nas regiões em que se imponha promover uma vasta acção de reconversão dos vinhedos existentes e em que a plantação e exploração de novas vinhas, em condições técnicas apropriadas, possa servir de estímulo aos viticultores da região, desde que tenham em vista a obtenção de produtos de qualidade destinados à exportação.
 
-###### Art. 7.º - 1 - Todas as plantações de vinha a efectuar nos termos deste diploma deverão obedecer às normas técnicas e outras exigências a determinar pelos serviços nas respectivas licenças, designadamente quanto ao saneamento do terreno, compasso, declive, porta-enxertos e castas, nas seguintes condições:
+Art. 7.º - 1 - Todas as plantações de vinha a efectuar nos termos deste diploma deverão obedecer às normas técnicas e outras exigências a determinar pelos serviços nas respectivas licenças, designadamente quanto ao saneamento do terreno, compasso, declive, porta-enxertos e castas, nas seguintes condições:
 
 a) As plantas deverão ser devidamente alinhadas;
 
@@ -186,17 +219,17 @@ d) Os porta-enxertos e as castas a utilizar serão indicados na respectiva licen
 
 4 - Dentro da orientação definida no número anterior os serviços deverão, mesmo que tal determinação não se encontre ainda estabelecida com carácter geral para a respectiva região, aconselhar, em casos concretos em que isso seja possível, que as plantações se subordinem já ao condicionalismo previsto.
 
-###### Art. 8.º Continua proibida a plantação de produtores directos.
+Art. 8.º Continua proibida a plantação de produtores directos.
 
 III - Cultura da vinha
 
-###### Art. 9.º - 1 - Quer em relação às vinhas existentes, quer em relação às novas plantações, poderão ser fixadas por portaria do Ministro da Agricultura e Pescas regras relativas às práticas culturais mais convenientes para melhorar a qualidade da uva e do vinho.
+Art. 9.º - 1 - Quer em relação às vinhas existentes, quer em relação às novas plantações, poderão ser fixadas por portaria do Ministro da Agricultura e Pescas regras relativas às práticas culturais mais convenientes para melhorar a qualidade da uva e do vinho.
 
 2 - Do mesmo modo, poderão ser proibidas as práticas culturais que, implicando um aumento de produção, originem abaixamento da qualidade da uva e dos vinhos.
 
 IV - Declarações de colheita
 
-###### Art. 10.º - 1 - Todos os viticultores são obrigados a apresentar até 15 de Novembro de cada ano, nos organismos económicos com acção de disciplina no sector, uma declaração da respectiva colheita obtida, especificando a quantidade e destino.
+Art. 10.º - 1 - Todos os viticultores são obrigados a apresentar até 15 de Novembro de cada ano, nos organismos económicos com acção de disciplina no sector, uma declaração da respectiva colheita obtida, especificando a quantidade e destino.
 
 2 - Para os produtores de uva de mesa o prazo para a entrega da declaração a que se refere o número anterior termina em 31 de Dezembro.
 
@@ -206,15 +239,15 @@ IV - Declarações de colheita
 
 V - Viveiros vitícolas
 
-###### Art. 11.º A produção e comercialização de material de propagação vegetativa da videira (estacas, bacelos, garfos e bacelos enxertados) estão subordinadas às disposições legais de carácter geral sobre a actividade viveirista.
+Art. 11.º A produção e comercialização de material de propagação vegetativa da videira (estacas, bacelos, garfos e bacelos enxertados) estão subordinadas às disposições legais de carácter geral sobre a actividade viveirista.
 
-###### Art. 12.º A venda do material referido no artigo anterior só poderá ser efectuada aos viticultores que disponham da competente licença de plantação de vinha e tendo em conta as indicações constantes da mesma.
+Art. 12.º A venda do material referido no artigo anterior só poderá ser efectuada aos viticultores que disponham da competente licença de plantação de vinha e tendo em conta as indicações constantes da mesma.
 
-###### Art. 13.º Continua proibida a comercialização de produtores directos.
+Art. 13.º Continua proibida a comercialização de produtores directos.
 
 VI - Dos incentivos para a renovação dos vinhedos e para a substituição por outras culturas
 
-###### Art. 14.º - 1 - Em condições especiais e em casos justificados, poderão ser concedidos incentivos para a transformação e renovação dos vinhedos existentes ou até para a plantação de vinhas novas, de modo a contribuir para um melhor aproveitamento do potencial de produção do País, para a correcção do ordenamento cultural, da estruturação fundiária e das assimetrias regionais, com vista à promoção social dos vitivinicultores e à defesa da qualidade dos produtos vínicos.
+Art. 14.º - 1 - Em condições especiais e em casos justificados, poderão ser concedidos incentivos para a transformação e renovação dos vinhedos existentes ou até para a plantação de vinhas novas, de modo a contribuir para um melhor aproveitamento do potencial de produção do País, para a correcção do ordenamento cultural, da estruturação fundiária e das assimetrias regionais, com vista à promoção social dos vitivinicultores e à defesa da qualidade dos produtos vínicos.
 
 2 - A natureza e importância dos incentivos deverão ser contemplados num plano a estabelecer anualmente pelo Ministério da Agricultura e Pescas, considerando, nomeadamente:
 
@@ -226,9 +259,9 @@ c) Reconversão das vinhas em cultura consociada, transformando-as em vinhas est
 
 d) Emparcelamento de pequenas ou médias parcelas.
 
-###### Art. 15.º Poderão também beneficiar dos incentivos a que se refere o artigo anterior os viticultores que voluntariamente destinem a outras culturas de maior interesse sócio-económico para a região terras de sua propriedade plantadas de vinha cujos produtos sejam de inferior qualidade.
+Art. 15.º Poderão também beneficiar dos incentivos a que se refere o artigo anterior os viticultores que voluntariamente destinem a outras culturas de maior interesse sócio-económico para a região terras de sua propriedade plantadas de vinha cujos produtos sejam de inferior qualidade.
 
-###### Art. 16.º Nos casos em que tal se justifique, será fomentada a reconversão de vinhas, abrangendo, prioritariamente:
+Art. 16.º Nos casos em que tal se justifique, será fomentada a reconversão de vinhas, abrangendo, prioritariamente:
 
 a) As vinhas de produtores directos;
 
@@ -240,13 +273,13 @@ d) As vinhas em estado decadente e outras economicamente inviáveis.
 
 VII - Da revalidação das licenças e registos
 
-###### Art. 17.º - 1 - As licenças de plantação de vinhas concedidas até 31 de Dezembro de 1976, bem como os registos de que haja sido feita comunicação aos interessados até à mesma data e que não tiveram ainda utilização, só poderão tê-la depois de efectuada a sua revalidação, para o que os seus possuidores deverão exibir a respectiva documentação nos serviços regionais de agricultura no prazo de cento e oitenta dias a partir da publicação deste diploma.
+Art. 17.º - 1 - As licenças de plantação de vinhas concedidas até 31 de Dezembro de 1976, bem como os registos de que haja sido feita comunicação aos interessados até à mesma data e que não tiveram ainda utilização, só poderão tê-la depois de efectuada a sua revalidação, para o que os seus possuidores deverão exibir a respectiva documentação nos serviços regionais de agricultura no prazo de cento e oitenta dias a partir da publicação deste diploma.
 
 2 - Caducam as licenças e registos de vinha que não hajam sido revalidados ou que, verificada a revalidação, não sejam utilizados no prazo de três anos após a publicação deste diploma.
 
 VIII - Dos requerimentos, registos e licenças de plantação
 
-###### Art. 18.º - 1 - Os requerimentos para obtenção de autorização ou licença de plantação de vinha deverão ser feitos pelos proprietários ou seus legais representantes em papel selado, com uma cópia em papel comum, dirigidos ao director do Instituto de Gestão e Estruturação Fundiária e entregues nesses serviços ou nos serviços regionais de agricultura.
+Art. 18.º - 1 - Os requerimentos para obtenção de autorização ou licença de plantação de vinha deverão ser feitos pelos proprietários ou seus legais representantes em papel selado, com uma cópia em papel comum, dirigidos ao director do Instituto de Gestão e Estruturação Fundiária e entregues nesses serviços ou nos serviços regionais de agricultura.
 
 2 - Os requerimentos que não sejam entregues até 15 de Abril de cada ano só serão apreciados no ano seguinte, após essa data.
 
@@ -256,46 +289,46 @@ VIII - Dos requerimentos, registos e licenças de plantação
 
 5 - Pela alteração de licenças não utilizadas e que obrigue a nova vistoria será paga a taxa de $20 por pé de videira.
 
-###### Art. 19.º Os proprietários que pretendam arrancar as suas vinhas, mantendo o direito para futuras plantações, poderão solicitar o registo das vinhas a arrancar, para o que deverão também dirigir o necessário requerimento nos termos do artigo anterior, pagando no acto da entrega a importância de 200$00 por milheiro de videiras ou fracção.
+Art. 19.º Os proprietários que pretendam arrancar as suas vinhas, mantendo o direito para futuras plantações, poderão solicitar o registo das vinhas a arrancar, para o que deverão também dirigir o necessário requerimento nos termos do artigo anterior, pagando no acto da entrega a importância de 200$00 por milheiro de videiras ou fracção.
 
 IX - Disposições diversas
 
-###### Art. 20.º Com vista a pronunciar-se sobre a orientação a seguir dentro de uma definição de prioridades da política vitivinícola, quanto à plantação de vinhas e ao respectivo plano de acção anual, de acordo com o definido no presente diploma, é criada a Comissão Consultiva para o Plantio e Cultura da Vinha, que será constituída e funcionará nos termos que forem definidos por despacho do Ministro da Agricultura e Pescas, dela devendo fazer parte representantes, nomeadamente, dos organismos, serviços e organizações profissionais com acção no sector.
+Art. 20.º Com vista a pronunciar-se sobre a orientação a seguir dentro de uma definição de prioridades da política vitivinícola, quanto à plantação de vinhas e ao respectivo plano de acção anual, de acordo com o definido no presente diploma, é criada a Comissão Consultiva para o Plantio e Cultura da Vinha, que será constituída e funcionará nos termos que forem definidos por despacho do Ministro da Agricultura e Pescas, dela devendo fazer parte representantes, nomeadamente, dos organismos, serviços e organizações profissionais com acção no sector.
 
-###### Art. 21.º A cobrança das taxas, a qualquer título estabelecidas neste decreto-lei, será efectuada pela repartição de finanças do concelho onde se situem os prédios ou residam os interessados.
+Art. 21.º A cobrança das taxas, a qualquer título estabelecidas neste decreto-lei, será efectuada pela repartição de finanças do concelho onde se situem os prédios ou residam os interessados.
 
-###### Art. 22.º - 1 - O Instituto de Gestão e Estruturação Fundiária enviará directamente às repartições de finanças respectivas, até 10 de cada mês, as guias, em quintuplicado, passadas em nome dos interessados para o pagamento das taxas devidas.
+Art. 22.º - 1 - O Instituto de Gestão e Estruturação Fundiária enviará directamente às repartições de finanças respectivas, até 10 de cada mês, as guias, em quintuplicado, passadas em nome dos interessados para o pagamento das taxas devidas.
 
 2 - Simultaneamente com o envio das guias às repartições de finanças o Instituto de Gestão e Estruturação Fundiária avisará do facto os interessados.
 
-###### Art. 23.º As repartições de finanças efectuarão a cobrança voluntária das taxas no mês seguinte ao da recepção das guias de pagamento, para o que avisarão os interessados.
+Art. 23.º As repartições de finanças efectuarão a cobrança voluntária das taxas no mês seguinte ao da recepção das guias de pagamento, para o que avisarão os interessados.
 
-###### Art. 24.º - 1 - Na falta de pagamento voluntário de qualquer taxa, proceder-se-á à cobrança coerciva pelo processo das execuções fiscais, servindo de título exequível, para todos os efeitos legais, o original da participação enviada à repartição de finanças ou cópia autêntica que para tal fim dela for extraída.
+Art. 24.º - 1 - Na falta de pagamento voluntário de qualquer taxa, proceder-se-á à cobrança coerciva pelo processo das execuções fiscais, servindo de título exequível, para todos os efeitos legais, o original da participação enviada à repartição de finanças ou cópia autêntica que para tal fim dela for extraída.
 
 2 - Exceptuam-se os casos que digam respeito a pagamentos a que se refere o n.º 3 do artigo 18.º, de que devem ser devolvidas as guias ao Instituto de Gestão e Estruturação Fundiária, uma vez que o pagamento não tenha sido efectuado no prazo indicado.
 
 3 - Efectuada a cobrança, será pela repartição de finanças entregue ao viticultor o original da guia, reservando para si o duplicado, remetendo dois exemplares ao Instituto de Gestão e Estruturação Fundiária e o último à repartição de contabilidade pública, através da direcção de finanças distrital.
 
-###### Art. 25.º - 1 - As importâncias das taxas cobradas nos termos do presente diploma darão entrada nos cofres do Tesouro, nas condições e para os fins seguintes:
+Art. 25.º - 1 - As importâncias das taxas cobradas nos termos do presente diploma darão entrada nos cofres do Tesouro, nas condições e para os fins seguintes:
 
 a) 10% como receita do Estado, para compensação dos encargos derivados da execução dos serviços que ficam a cargo da Direcção-Geral das Contribuições e Impostos;
 
 b) Os restantes 90% em consignação de receitas, a fim de, em contrapartida, ser inscrita e posteriormente reforçada, até concorrente importância, a verba destinada no orçamento de contas de ordem do Ministério da Agricultura e Pescas para despesas com o condicionamento do plantio e da cultura da vinha e fomento vitivinícola, a suportar pelo Instituto de Gestão e Estruturação Fundiária.
 
-###### Art. 26.º Da decisão proferida sobre os requerimentos a solicitar autorizações relacionadas com as plantações de vinha cabe recurso hierárquico, a interpor no prazo de trinta dias, directamente para o Ministro da Agricultura e Pescas.
+Art. 26.º Da decisão proferida sobre os requerimentos a solicitar autorizações relacionadas com as plantações de vinha cabe recurso hierárquico, a interpor no prazo de trinta dias, directamente para o Ministro da Agricultura e Pescas.
 
-###### Art. 27.º Com a interposição do recurso hierárquico o recorrente depositará a importância de 500$00, que lhe será devolvida se o recurso tiver provimento.
+Art. 27.º Com a interposição do recurso hierárquico o recorrente depositará a importância de 500$00, que lhe será devolvida se o recurso tiver provimento.
 
-###### Art. 28.º As eventuais vistorias, consequentes de recurso, serão executadas no prazo de noventa dias, contados a partir da data da entrada da reclamação nos serviços, por um director de serviços, pelo responsável do condicionamento dos serviços regionais e pelo técnico que efectuou a primeira vistoria e deverá ser feita na presença do proprietário ou seu representante, que deverá assinar a respectiva acta de vistoria, com ou sem declaração da sua opinião.
+Art. 28.º As eventuais vistorias, consequentes de recurso, serão executadas no prazo de noventa dias, contados a partir da data da entrada da reclamação nos serviços, por um director de serviços, pelo responsável do condicionamento dos serviços regionais e pelo técnico que efectuou a primeira vistoria e deverá ser feita na presença do proprietário ou seu representante, que deverá assinar a respectiva acta de vistoria, com ou sem declaração da sua opinião.
 
-###### Art. 29.º Por portaria do Ministro da Agricultura e Pescas serão estabelecidas as disposições regulamentares necessárias à execução deste diploma, bem como resolvidos os casos omissos e dúvidas que se suscitarem na sua interpretação.
+Art. 29.º Por portaria do Ministro da Agricultura e Pescas serão estabelecidas as disposições regulamentares necessárias à execução deste diploma, bem como resolvidos os casos omissos e dúvidas que se suscitarem na sua interpretação.
 
-###### Art. 30.º Ficam revogadas as disposições que contrariem o estabelecido neste diploma, designadamente as contidas nos Decretos-Leis n.os 38525, de 23 de Novembro de 1951, com excepção dos artigos 15.º a 17.º, e 46256, de 19 de Março de 1965, com excepção do artigo 6.º
+Art. 30.º Ficam revogadas as disposições que contrariem o estabelecido neste diploma, designadamente as contidas nos Decretos-Leis n.os 38525, de 23 de Novembro de 1951, com excepção dos artigos 15.º a 17.º, e 46256, de 19 de Março de 1965, com excepção do artigo 6.º
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

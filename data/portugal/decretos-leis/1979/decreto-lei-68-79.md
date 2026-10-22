@@ -49,40 +49,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1979-383000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1556b659655111048e92f42c20bf89e0f538e44cca0463f962c82ab47e2af618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1563dfc6ffe73c9c77bba346acbf8d375422cae1e8a21e30c76ab1c249efb9d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Bombeiro
+- Cartão de Identificação
+- Empresa de Segurança
+- Governador Civil
+- Pessoal de Vigilância
+- Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:366663:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:20Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +106,16 @@ Considerando, finalmente, que dada a inexistência de lei ou decreto-lei regulad
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Compete ao Ministro da Administração Interna proceder, através de portaria, à regulamentação das condições de emissão e uso de cartões de identidade de membros, pessoal ou associados de entidades privadas e de empresas e companhias que prestem serviços públicos e ainda os que se destinem a ser usados por membros das corporações de bombeiros.
+Artigo 1.º Compete ao Ministro da Administração Interna proceder, através de portaria, à regulamentação das condições de emissão e uso de cartões de identidade de membros, pessoal ou associados de entidades privadas e de empresas e companhias que prestem serviços públicos e ainda os que se destinem a ser usados por membros das corporações de bombeiros.
 
-###### Art. 2.º Compete igualmente ao Ministro da Administração Interna regulamentar, por portaria, as condições de emissão e uso de cartões destinados aos governadores civis, vice-governadores civis e governadores civis substitutos, aos titulares dos órgãos representativos das autarquias locais, ao pessoal dos quadros privativos dos governos civis, das administrações de bairro, dos serviços das autarquias locais e ainda aos funcionários do Ministério da Administração Interna.
+Art. 2.º Compete igualmente ao Ministro da Administração Interna regulamentar, por portaria, as condições de emissão e uso de cartões destinados aos governadores civis, vice-governadores civis e governadores civis substitutos, aos titulares dos órgãos representativos das autarquias locais, ao pessoal dos quadros privativos dos governos civis, das administrações de bairro, dos serviços das autarquias locais e ainda aos funcionários do Ministério da Administração Interna.
 
-###### Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro.
 
-**Promulgado em 15 de Março de 1979.**
+Promulgado em 15 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

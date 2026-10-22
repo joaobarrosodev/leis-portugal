@@ -48,40 +48,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44077-1961-185076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed4507fde804f4dd11f144ffb55d954192e90b15e05418a9d954653924652ed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 202b7e3bd1144114752329788fe9d3542a99a4ff1f1fc651dbe8079e11dd56a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Geral do Ultramar
+- Criação de Lugares
+- Direcção Geral das Obras Públicas e Comunicações
+- Hospital do Ultramar
+- Instituto de Medicina Tropical
+- Médico
+- Pessoal Administrativo
+- Pessoal de Enfermagem
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:517411:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517411:por
+  label: "Designada por \"Epidemiologia e Bioestática\" a cadeira do Instituto de Medicina Tropical referida no art. 13º do\
+    \ presente diploma, pelo DEC LEI.46067.07.12.1964.MU, DG.IS [286-Supl] de 07.12.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46067-1964-517411
+  date: '1964-12-07'
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:11Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +152,7 @@ Considerando, finalmente, que nada justifica abonos especiais ao Ministro e Subs
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São acrescidos ao quadro de secretaria referido na alínea B) do mapa n.º 14 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, os seguintes lugares:
+Artigo 1.º São acrescidos ao quadro de secretaria referido na alínea B) do mapa n.º 14 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, os seguintes lugares:
 
 1 de primeiro-oficial;
 
@@ -106,15 +162,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. O primeiro provimento dos lugares criados por este artigo será feito por livre escolha do Ministro do Ultramar, com aplicação do disposto no § único do artigo 158.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, de entre os agentes eventuais presentemente em serviço na Agência-Geral do Ultramar que vêm sendo remunerados pelo Montepio de Moçambique com o fundamento na prestação de serviço a esta instituição.
 
-###### Art. 2.º Passa a ser de quatro o número de contínuos de 2.ª classe do quadro privativo criado pelo artigo 3.º do [Decreto-Lei n.º 42761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42761-1959-442088), de 24 de Dezembro de 1959.
+Art. 2.º Passa a ser de quatro o número de contínuos de 2.ª classe do quadro privativo criado pelo artigo 3.º do [Decreto-Lei n.º 42761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42761-1959-442088), de 24 de Dezembro de 1959.
 
-###### Art. 3.º Os encargos resultantes do disposto nos artigos 1.º e 2.º serão suportados pelo orçamento privativo da Agência-Geral do Ultramar, mas o respectivo contravalor será da responsabilidade do Montepio de Moçambique, que o entregará, por duodécimos, à referida Agência, para ser convertido em receita orçamental desta.
+Art. 3.º Os encargos resultantes do disposto nos artigos 1.º e 2.º serão suportados pelo orçamento privativo da Agência-Geral do Ultramar, mas o respectivo contravalor será da responsabilidade do Montepio de Moçambique, que o entregará, por duodécimos, à referida Agência, para ser convertido em receita orçamental desta.
 
 § único. É criada no orçamento privativo da Agência-Geral do Ultramar a seguinte rubrica de receita:
 
 Reembolsos e reposições - Importância com que concorre o Montepio de Moçambique para o pagamento dos vencimentos dos funcionários que, integrados nesta Agência, constituem o pessoal encarregado dos serviços do mesmo Montepio em Lisboa.
 
-###### Art. 4.º Na Agência-Geral do Ultramar são introduzidas as seguintes alterações:
+Art. 4.º Na Agência-Geral do Ultramar são introduzidas as seguintes alterações:
 
 I) Criação de lugares:
 
@@ -136,7 +192,7 @@ II) Eliminação de lugares:
 
 § 2.º Os encargos resultantes do presente artigo serão próprios do orçamento privativo da Agência-Geral do Ultramar.
 
-###### Art. 5.º Nos quadros do pessoal do Hospital do Ultramar são introduzidas as seguintes alterações:
+Art. 5.º Nos quadros do pessoal do Hospital do Ultramar são introduzidas as seguintes alterações:
 
 I) Criação de lugares:
 
@@ -188,37 +244,37 @@ Gratificações:
 
 § 2.º Os lugares de auxiliar de enfermagem criados no corpo do artigo são incluídos no grupo X a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 6.º No Hospital do Ultramar é criado um lugar de professora do ensino primário.
+Art. 6.º No Hospital do Ultramar é criado um lugar de professora do ensino primário.
 
 § 1.º O provimento do lugar criado por este artigo será feito em regime de comissão ordinária de serviço de entre professores dos quadros do ensino primário das províncias ultramarinas.
 
 § 2.º O lugar de professora considera-se incluído nos grupos P, Q, R ou S a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100) de 23 de Dezembro de 1958, consoante o número de diuturnidades a que o respectivo serventuário tiver direito.
 
-###### Art. 7.º Dentro dos limites legalmente estabelecidos, é autorizado o pagamento de remunerações por serviços extraordinários prestados fora das horas regulamentares ao pessoal coadjuvante do Hospital do Ultramar.
+Art. 7.º Dentro dos limites legalmente estabelecidos, é autorizado o pagamento de remunerações por serviços extraordinários prestados fora das horas regulamentares ao pessoal coadjuvante do Hospital do Ultramar.
 
 § único. Como pessoal coadjuvante será apenas considerado, para os efeitos do corpo do artigo, o que como tal for considerado em despacho do Ministro do Ultramar, depois de ouvidas as Direcções-Gerais de Saúde e Assistência e de Fazenda do Ministério.
 
-###### Art. 8.º O electricista do quadro do pessoal assalariado dos serviços gerais do Hospital do Ultramar terá o salário que, dentro dos limites legalmente estabelecidos para similares categorias de servidores, lhe for atribuído por despacho do Ministro do Ultramar.
+Art. 8.º O electricista do quadro do pessoal assalariado dos serviços gerais do Hospital do Ultramar terá o salário que, dentro dos limites legalmente estabelecidos para similares categorias de servidores, lhe for atribuído por despacho do Ministro do Ultramar.
 
-###### Art. 9.º A dotação destinada à manutenção do Centro de Estudos Biológicos e Endrocrinológicos será fixada anualmente por despacho do Ministro do Ultramar.
+Art. 9.º A dotação destinada à manutenção do Centro de Estudos Biológicos e Endrocrinológicos será fixada anualmente por despacho do Ministro do Ultramar.
 
-###### Art. 10.º Os médicos dos quadros das províncias ultramarinas que venham a ser providos por qualquer forma em lugares do quadro docente do Instituto de Medicina Tropical consideram-se, em relação ao quadro de origem, na situação de actividade fora do quadro, prevista nos artigos 92.º e 94.º do Estatuto do Funcionalismo Ultramarino, abrindo vaga.
+Art. 10.º Os médicos dos quadros das províncias ultramarinas que venham a ser providos por qualquer forma em lugares do quadro docente do Instituto de Medicina Tropical consideram-se, em relação ao quadro de origem, na situação de actividade fora do quadro, prevista nos artigos 92.º e 94.º do Estatuto do Funcionalismo Ultramarino, abrindo vaga.
 
-###### Art. 11.º Os médicos a que alude o artigo antecedente terão direito a passagens de 1.ª classe, que lhes serão pagas pelo orçamento privativo do Instituto de Medicina Tropical. No caso, porém, de os médicos terem já direito a licença graciosa, as passagens serão pagas, nos termos legais, pela respectiva província.
+Art. 11.º Os médicos a que alude o artigo antecedente terão direito a passagens de 1.ª classe, que lhes serão pagas pelo orçamento privativo do Instituto de Medicina Tropical. No caso, porém, de os médicos terem já direito a licença graciosa, as passagens serão pagas, nos termos legais, pela respectiva província.
 
-###### Art. 12.º Os lugares de médico para o serviço de vacinações e de chefe de laboratório de análises clínicas criados, respectivamente, pelo [Decreto n.º 38552](https://diariodarepublica.pt/dr/detalhe/decreto/38552-1951-567679), de 7 de Dezembro de 1951, e [Decreto-Lei n.º 42009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42009-1958-337412), de 6 de Dezembro de 1958, passam a ser incluídos no grupo J a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 12.º Os lugares de médico para o serviço de vacinações e de chefe de laboratório de análises clínicas criados, respectivamente, pelo [Decreto n.º 38552](https://diariodarepublica.pt/dr/detalhe/decreto/38552-1951-567679), de 7 de Dezembro de 1951, e [Decreto-Lei n.º 42009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42009-1958-337412), de 6 de Dezembro de 1958, passam a ser incluídos no grupo J a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 13.º No Instituto de Medicina Tropical é criado um lugar de professor ordinário da cadeira de Epidemiologia e Bioestatística e extinto o lugar de professor auxiliar de que trata o artigo 2.º do [Decreto n.º 43387](https://diariodarepublica.pt/dr/detalhe/decreto/43387-1960-512782), de 7 de Dezembro de 1960.
+Art. 13.º No Instituto de Medicina Tropical é criado um lugar de professor ordinário da cadeira de Epidemiologia e Bioestatística e extinto o lugar de professor auxiliar de que trata o artigo 2.º do [Decreto n.º 43387](https://diariodarepublica.pt/dr/detalhe/decreto/43387-1960-512782), de 7 de Dezembro de 1960.
 
 § único. A extinção referida no corpo do artigo só terá efeitos a partir da data da posse do professor ordinário de Epidemiologia e Bioestatística, devendo, no entretanto, o professor auxiliar ser abonado dos seus vencimentos pelas disponibilidades da respectiva verba de pessoal.
 
-###### Art. 14.º No mesmo Instituto é igualmente criado um lugar de chefe de laboratório de microscopia electrónica, que se considera incluído no grupo K a que se refere o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Art. 14.º No mesmo Instituto é igualmente criado um lugar de chefe de laboratório de microscopia electrónica, que se considera incluído no grupo K a que se refere o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 15.º São revogados os artigos 5.º e 6.º do [Decreto-Lei n.º 32057](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32057-1942-313994), de 2 de Junho de 1942, o artigo 3.º do [Decreto-Lei n.º 33279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33279-1943-406075), de 24 de Novembro de 1943, e o artigo 2.º do [Decreto-Lei n.º 36098](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36098-1947-413468), de 13 de Janeiro de 1947.
+Art. 15.º São revogados os artigos 5.º e 6.º do [Decreto-Lei n.º 32057](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32057-1942-313994), de 2 de Junho de 1942, o artigo 3.º do [Decreto-Lei n.º 33279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33279-1943-406075), de 24 de Novembro de 1943, e o artigo 2.º do [Decreto-Lei n.º 36098](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36098-1947-413468), de 13 de Janeiro de 1947.
 
-###### Art. 16.º Os artigos 134.º, 142.º e 148.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passam a ter a seguinte redacção:
+Art. 16.º Os artigos 134.º, 142.º e 148.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passam a ter a seguinte redacção:
 
-###### Art. 134.º Dentro do Ministério formam quadros separados o pessoal da secção de expediente e cifra, o pessoal dos serviços gerais, o pessoal de dactilografia, o pessoal de secretaria e o pessoal dos vários ramos de serviço.
+Art. 134.º Dentro do Ministério formam quadros separados o pessoal da secção de expediente e cifra, o pessoal dos serviços gerais, o pessoal de dactilografia, o pessoal de secretaria e o pessoal dos vários ramos de serviço.
 
 § 1.º Pertencem ao quadro de secretaria os escriturários e os oficiais, quer prestem serviço nos serviços centrais, quer nos organismos consultivos e dependentes, exceptuados apenas a Direcção-Geral de Fazenda, a Repartição dos Correios, Telégrafos e Telefones do Ultramar, os Serviços Aduaneiros, o Hospital do Ultramar e Instituto Ultramarino.
 
@@ -226,7 +282,7 @@ Gratificações:
 
 ...
 
-###### Art. 142.º Os lugares de inspector superior são providos por livre escolha do Ministro de entre os indivíduos adiante designados:
+Art. 142.º Os lugares de inspector superior são providos por livre escolha do Ministro de entre os indivíduos adiante designados:
 
 1. Para inspectores superiores de administração ultramarina: indivíduos habilitados com um curso superior que, pelo menos, tenham desempenhado no ultramar funções de governador de distrito ou, na metrópole, de chefes de repartição;
 
@@ -250,7 +306,7 @@ Gratificações:
 
 ...
 
-###### Art. 148.º No provimento de lugares do quadro próprio da Direcção-Geral de Obras Públicas e Comunicações observar-se-á o seguinte:
+Art. 148.º No provimento de lugares do quadro próprio da Direcção-Geral de Obras Públicas e Comunicações observar-se-á o seguinte:
 
 1. A admissão às classes de ingresso far-se-á por concurso entre os indivíduos que possuam as habilitações legais. O concurso será de provas práticas para os desenhadores e para o pintor, técnico e documental para os restantes lugares.
 
@@ -264,9 +320,9 @@ a) A engenheiros ou arquitectos de 2.ª classe, ter três anos de serviço na 3.
 
 b) A engenheiros ou arquitectos de 1.ª classe, ter cinco anos de serviço na 2.ª classe com boas informações, ter desempenhado a contento, nessa classe, duas comissões de serviço no ultramar e ter conduzido a elaboração de dois projectos aprovados de obras importantes ou ter elaborado dois pareceres técnicos de relevo sobre os problemas da especialidade.
 
-###### Art. 17.º Este decreto entra em vigor em 1 de Janeiro de 1962.
+Art. 17.º Este decreto entra em vigor em 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

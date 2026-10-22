@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48748-1968-262783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8a8f9b747b192b501ef6326b61a8b36df35b3f6c281d5e6d6a525504e9d3cf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55dcb47e77ca0bf485031082975ccad09e9e45fa28ba6246fccee84b729b2d23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Encargos Gerais da Nação
+- Ministério das Finanças
+- Orçamento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:44Z'
   warnings: []
   errors: []
 ---
@@ -85,17 +89,17 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 200000000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 318.º «Forças militares extraordinárias no ultramar», capítulo 14.º do orçamento de Encargos Gerais da Nação para o corrente ano económico.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 200000000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 318.º «Forças militares extraordinárias no ultramar», capítulo 14.º do orçamento de Encargos Gerais da Nação para o corrente ano económico.
 
-###### Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual quantia à verba inscrita no capítulo 9.º, artigo 284.º «Produto da venda de títulos ou de empréstimos», do actual orçamento das receitas.
+Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual quantia à verba inscrita no capítulo 9.º, artigo 284.º «Produto da venda de títulos ou de empréstimos», do actual orçamento das receitas.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 25 de Novembro de 1968.**
+Promulgado em 25 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

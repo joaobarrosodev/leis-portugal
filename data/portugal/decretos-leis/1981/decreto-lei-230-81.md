@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1981-579716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcb2fb851b075eff1d9ae0bce7910d8867476535168009741d16abb80d4cc6f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c65530e9787a4678afe56e672d57bf7ff66e6b756ef676fdf9432b5783eff1b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral de Geologia e Minas
+- Madeira.região Autónoma
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:194869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470795:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:03Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +114,20 @@ Ouvido o Governo Regional:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São transferidas para a Região Autónoma da Madeira as atribuições e competências que no âmbito regional o Governo da República vinha exercendo através da Direcção-Geral de Geologia e Minas.
+Artigo 1.º - 1 - São transferidas para a Região Autónoma da Madeira as atribuições e competências que no âmbito regional o Governo da República vinha exercendo através da Direcção-Geral de Geologia e Minas.
 
 2 - As atribuições e competências referidas no número anterior são as previstas na [Lei n.º 1979](https://diariodarepublica.pt/dr/detalhe/lei/1979-1940-194869), de 23 de Março de 1940, e no [Decreto-Lei n.º 392/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1976-426958), de 25 de Maio, e seus regulamentos, sobre exploração de pedreiras, e no [Decreto-Lei n.º 292/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1980-470795), de 16 de Agosto, sobre extracção de areias nas formações arenosas.
 
-###### Art. 2.º As atribuições e competências a que se refere este diploma são integradas na Secretaria Regional do Comércio e Transportes da Região Autónoma da Madeira.
+Art. 2.º As atribuições e competências a que se refere este diploma são integradas na Secretaria Regional do Comércio e Transportes da Região Autónoma da Madeira.
 
-###### Art. 3.º O Ministério da Indústria e Energia, através da Direcção-Geral de Geologia e Minas, prestará todo o apoio técnico, na medida das suas responsabilidades, às actividades relacionadas com a política de exploração de pedreiras e areias nas formações arenosas, a solicitação expressa do Governo Regional.
+Art. 3.º O Ministério da Indústria e Energia, através da Direcção-Geral de Geologia e Minas, prestará todo o apoio técnico, na medida das suas responsabilidades, às actividades relacionadas com a política de exploração de pedreiras e areias nas formações arenosas, a solicitação expressa do Governo Regional.
 
-###### Art. 4.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para a Região Autónoma da Madeira e da Indústria e Energia, ouvido o Governo Regional.
+Art. 4.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para a Região Autónoma da Madeira e da Indústria e Energia, ouvido o Governo Regional.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 15 de Julho de 1981.**
+Promulgado em 15 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

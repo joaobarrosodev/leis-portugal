@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1977-286532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a8177f2c5638df95656bc6f8eebaa4e674c0d562cdcc8b19759e61ca3bffed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fe842bff4c2a0555bf1f466b83af32c38de25559bfe649e70aa3adcdfc9711a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doação
+- Património Cultural
+- Património do Estado
+- Pensão Vitalícia
+- Prédio Urbano
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:44Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ Nestes termos, tornando-se necessário providenciar no sentido de dar efectivaç
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Ministério das Finanças a aceitar, para o Estado, a doação do prédio onde viveu o escritor Manuel Mendes, sito em Lisboa, na Rua de S. Francisco Xavier, 52, de que é actualmente proprietária a viúva do escritor, D. Berta Júlia das Neves Mendes.
+Artigo 1.º - 1. É autorizado o Ministério das Finanças a aceitar, para o Estado, a doação do prédio onde viveu o escritor Manuel Mendes, sito em Lisboa, na Rua de S. Francisco Xavier, 52, de que é actualmente proprietária a viúva do escritor, D. Berta Júlia das Neves Mendes.
 
 2. A doação do prédio, que se destina a nele ser instalada a Casa-Museu de Manuel Mendes, é feita com reserva do usufruto vitalício do mesmo a favor da viúva do escritor e com o encargo, para o Estado, do pagamento a esta de uma pensão vitalícia mensal de 20000$00.
 
-###### Art. 2.º A pensão atribuída no artigo anterior fica isenta de qualquer encargo fiscal, com excepção do imposto do selo relativo ao seu recebimento.
+Art. 2.º A pensão atribuída no artigo anterior fica isenta de qualquer encargo fiscal, com excepção do imposto do selo relativo ao seu recebimento.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 18 de Agosto de 1977.**
+Promulgado em 18 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

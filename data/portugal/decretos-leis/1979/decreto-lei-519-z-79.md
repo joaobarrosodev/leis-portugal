@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 2º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3446-(17) a 3446-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29902/00170026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z-1979-157036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d874d4a4e6b59af82406383114824aac6bc623be3f877a06c4a8229142aac7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef7bf5ab01e919481b3adb79cf9eebb7ab040c29317fc9e97d904c838e1e192b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral das Construções Hospitalares
+- Formas de Provimento
+- Ministério da Habitação e Obras Públicas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:668520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563639:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção do Decreto-Lei 183/80, de 04 de Junho,\
+    \ pela PORT.871/81.28.09.1981.MFP, DR.IS [223] de 28.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/871-1981-563639
+  date: '1981-09-28'
+- type: amended_by
+  target: pt:dre:606698:por
+  label: "Alterado o quadro de pessoal pela PORT.413/82.1982.04.26.MFP DR.IS [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1982-606698
+  date: '1982-04-26'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro da Direcção-Geral das Construções Hospitalares, aprovado pelo presente diploma, alterado pelas
+    Ports 935/80, de 05-nov, 871/81, de 28-set, 413/82, de 26-abr, e 363/87, de 02-mai, pelo(a) Portaria n.º 147/88 - Diário
+    da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:379749:por
+  label: "Alterado o quadro de pessoal, com a redacção conferida pelas pelas Port 935/80 de 05-Nov, 413/82 de 26-Abr, 363/87\
+    \ de 02-Mai e 147/88 de 09-Mar, pela PORT.591/88.27.08.1988.MF, DR.IS [198] de 27.08.1988\088\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/591-1988-379749
+  date: '1988-08-27'
+- type: cites
+  target: pt:dre:445694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668520:por
+  label: "Revogado, mantendo-se em vigor o quadro anexo, até à entrada em vigor da portaria prevista no n.º 1 do artigo 18.º\
+    \ do DEC LEI.361/93.15.10.1993.MS, DR.IS-A [242] de 15.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1993-668520
+  date: '1993-10-15'
 article_structure:
   article_count: 45
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:44Z'
   warnings: []
   errors: []
 ---
@@ -396,9 +440,9 @@ O Gabinete de Estudos e Planeamento é chefiado por um director de serviços.
 
 O Gabinete de Estudos e Planeamento compreende:
 
-##### Divisão de Estudos Básicos;
+Divisão de Estudos Básicos;
 
-##### Divisão de Planeamento.
+Divisão de Planeamento.
 
 ###### Artigo 25.º — (Atribuições da Divisão de Estudos Básicos)
 
@@ -534,7 +578,9 @@ b) Divisão de Estudos e Planeamento.
 
 #### SECÇÃO II — Serviços
 
-##### SUBSECÇÃO I — Divisão de Projectos e Obras
+##### SUBSECÇÃO I
+
+##### Divisão de Projectos e Obras
 
 ###### Artigo 35.º — (Atribuições da Divisão de Projectos e Obras)
 
@@ -554,7 +600,9 @@ f) Proceder à execução de empreendimentos no âmbito das suas atribuições;
 
 g) Fiscalizar e controlar tecnicamente a execução de empreendimentos em colaboração com os serviços centrais.
 
-##### SUBSECÇÃO II — Divisão de Estudos e Planeamento
+##### SUBSECÇÃO II
+
+##### Divisão de Estudos e Planeamento
 
 ###### Artigo 36.º — (Atribuições da Divisão de Estudos e Planeamento)
 
@@ -640,12 +688,12 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
 
-**Promulgado em 26 de Dezembro de 1979.**
+Promulgado em 26 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da DGCH a que se refere o artigo 38.º do Decreto-Lei n.º 519-Z/79, de 29 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29902/00170026.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29902/00170026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29902/00170026.pdf)

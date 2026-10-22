@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49105-1969-199833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c3062f2988f00d3ed85f7ed272e95250ee9d967cd22351907138a8fade224b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7cf4f946850d571b8ecb15663377084e2e4c6a47e3e0a35df4697f4937e73e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Baldio
+- Batalha
+- Câmara Municipal
+- Circunscrição Florestal
+- Ordenamento do Território
+- Política de Solos
+- Política Florestal
+- Regime Florestal
+relationships:
+- type: cites
+  target: pt:dre:164610:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:55Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +103,14 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial, a que foi submetida pelo [Decreto-Lei n.º 44425](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44425-1962-164610), publicado no Diário do Governo n.º 146, 1.ª série, de 28 de Junho de 1962, e restituída à administração da Câmara Municipal da Batalha uma parcela de terreno baldio do perímetro florestal da Batalha, com a superfície de 75000 m2, a fim de a mesma ser destinada a urbanização.
+Artigo 1.º É excluída do regime florestal parcial, a que foi submetida pelo [Decreto-Lei n.º 44425](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44425-1962-164610), publicado no Diário do Governo n.º 146, 1.ª série, de 28 de Junho de 1962, e restituída à administração da Câmara Municipal da Batalha uma parcela de terreno baldio do perímetro florestal da Batalha, com a superfície de 75000 m2, a fim de a mesma ser destinada a urbanização.
 
-###### Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal da Batalha proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal da Batalha proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 25 de Junho de 1969.**
+Promulgado em 25 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

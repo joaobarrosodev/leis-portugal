@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21100/13411341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1975-307419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2537feb15381cf25cf58c034cd6b831ea8bf717f15f4e42d9632b0fa164ff56c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d63f84dbe205b04dfb10ea3e264f45c8813a965a6488d1ce5dec355bbe9ab929
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Recrutamento de Pessoal
+- Serviço Militar
+- Serviço Voluntário
+- Tropa Paraquedista
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342472:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:39Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +113,16 @@ Considerando que relativamente às forças pára-quedistas o disposto nos artigo
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O recrutamento de pessoal militar não permanente, especializado em pára-quedismo, em regime de voluntariado, é independente da existência de vacatura no quadro das tropas pára-quedistas.
+Artigo 1.º - 1. O recrutamento de pessoal militar não permanente, especializado em pára-quedismo, em regime de voluntariado, é independente da existência de vacatura no quadro das tropas pára-quedistas.
 
 2. Quando o recrutamento se verificar entre mancebos voluntários, são os mesmos considerados pessoal em preparação privativo da Força Aérea, passando, após a preparação, a pessoal não permanente privativo da Força Aérea.
 
-###### Art. 2.º A admissão de pessoal militar não permanente especializado em pára-quedismo faz-se nos quantitativos anualmente fixados pelo Chefe do Estado-Maior da Força Aérea.
+Art. 2.º A admissão de pessoal militar não permanente especializado em pára-quedismo faz-se nos quantitativos anualmente fixados pelo Chefe do Estado-Maior da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 3 de Setembro de 1975.**
+Promulgado em 3 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

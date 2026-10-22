@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 302/1977, 6º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 3178-(67) a 3178-(68)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30206/00670068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1977-404553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca536ea55c1895fa3a5aadf6b890315244011ac1cb242261bc4e89ba3bcf959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b959e30e1b6e0177bb78cdb68389beb3cc178ce2f66eb9efca8bbe4023c4503
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional do Ambiente
+- Criação de Lugares
+- Formas de Provimento
+- Promoção Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:294736:por
+  label: "Alterado o art. 5º pelo DEC LEI.133/78.05.06.1978.MHOP, DR.IS [128] de 05.06.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1978-294736
+  date: '1978-06-05'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:31Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +127,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal da Comissão Nacional do Ambiente, aprovado pelo [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro, é acrescido dos lugares incluídos no mapa anexo ao presente diploma, dele fazendo parte integrante.
+Artigo 1.º O quadro do pessoal da Comissão Nacional do Ambiente, aprovado pelo [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro, é acrescido dos lugares incluídos no mapa anexo ao presente diploma, dele fazendo parte integrante.
 
-###### Art. 2.º O tesoureiro de 1.ª classe referido no mapa anexo tem direito ao abono para falhas de 400$00 mensais.
+Art. 2.º O tesoureiro de 1.ª classe referido no mapa anexo tem direito ao abono para falhas de 400$00 mensais.
 
-###### Art. 3.º O limite de idade mínimo para o ingresso em primeira nomeação no quadro de pessoal da Comissão Nacional do Ambiente é fixado em 18 anos, salvo o de tesoureiro, que é de 21 anos.
+Art. 3.º O limite de idade mínimo para o ingresso em primeira nomeação no quadro de pessoal da Comissão Nacional do Ambiente é fixado em 18 anos, salvo o de tesoureiro, que é de 21 anos.
 
-###### Art. 4.º - 1 - O primeiro provimento dos lugares agora criados poderá ser feito de entre o pessoal da Comissão Nacional do Ambiente que à data da entrada em vigor deste diploma se encontre, a qualquer título, ao seu serviço.
+Art. 4.º - 1 - O primeiro provimento dos lugares agora criados poderá ser feito de entre o pessoal da Comissão Nacional do Ambiente que à data da entrada em vigor deste diploma se encontre, a qualquer título, ao seu serviço.
 
 2 - O provimento previsto no número anterior resultará de lista ou listas aprovadas pelo Secretário de Estado do Ambiente e publicadas no Diário da República donde conste o lugar em que cada funcionário será provido.
 
@@ -115,9 +143,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O primeiro provimento dos lugares dos quadros de pessoal criados pelo presente decreto-lei, que não forem preenchidos nos termos do disposto nos números anteriores deste artigo, poderá, sem prejuízo do legalmente disposto quanto a excedentes de pessoal, ser feito por escolha de entre pessoas de reconhecida competência que satisfaçam as habilitações exigíveis para os lugares a prover, independentemente do tempo de serviço.
 
-###### Art. 5.º O lugar de director de Serviços Administrativos e Financeiros será provido por escolha do Secretário de Estado do Ambiente, sob proposta do presidente da Comissão Nacional do Ambiente, de entre licenciados com curso superior adequado ao exercício das respectivas funções ou, ainda, de entre chefes de repartição com, pelo menos, cinco anos de bom e efectivo serviço.
+Art. 5.º O lugar de director de Serviços Administrativos e Financeiros será provido por escolha do Secretário de Estado do Ambiente, sob proposta do presidente da Comissão Nacional do Ambiente, de entre licenciados com curso superior adequado ao exercício das respectivas funções ou, ainda, de entre chefes de repartição com, pelo menos, cinco anos de bom e efectivo serviço.
 
-###### Art. 6.º - 1 - Os lugares de técnico principal e de técnico de 1.ª classe serão providos por indivíduos licenciados com curso superior, por promoção, respectivamente, de técnicos de 1.ª e 2.ª classes com mais de três anos de bom e efectivo serviço na respectiva categoria.
+Art. 6.º - 1 - Os lugares de técnico principal e de técnico de 1.ª classe serão providos por indivíduos licenciados com curso superior, por promoção, respectivamente, de técnicos de 1.ª e 2.ª classes com mais de três anos de bom e efectivo serviço na respectiva categoria.
 
 2 - Os lugares de adjunto técnico principal serão providos por indivíduos com o curso de engenheiros técnicos ou habilitação equivalente, por promoção de adjuntos técnicos de 1.ª classe com mais de três anos de bom e efectivo serviço nesta categoria.
 
@@ -139,7 +167,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 11 - O lugar de desenhador de 1.ª classe será provido de entre indivíduos habilitados com o curso geral dos liceus ou habilitação equivalente e com conhecimentos adequados ao exercício das respectivas funções.
 
-###### Art. 7.º - 1 - Os lugares de chefe de secção serão providos de entre os primeiros-oficiais com mais de três anos de bom e efectivo serviço nesta categoria, ou de entre indivíduos habilitados com curso superior adequado.
+Art. 7.º - 1 - Os lugares de chefe de secção serão providos de entre os primeiros-oficiais com mais de três anos de bom e efectivo serviço nesta categoria, ou de entre indivíduos habilitados com curso superior adequado.
 
 2 - O lugar de tesoureiro de 1.ª classe será de entre primeiros-oficiais que tenham demonstrado aptidão para o desempenho do cargo.
 
@@ -151,30 +179,30 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Os lugares de telefonista serão providos de entre indivíduos com a escolaridade obrigatória segundo a idade de cada um, mediante prestação de provas.
 
-###### Art. 8.º Os lugares de pessoal auxiliar serão providos nos termos da lei geral.
+Art. 8.º Os lugares de pessoal auxiliar serão providos nos termos da lei geral.
 
-###### Art. 9.º - 1 - A Comissão Nacional do Ambiente poderá conceder subsídios e prémios a entidades públicas ou privadas, singulares ou colectivas, nacionais ou estrangeiras, destinados a estudos, publicações, trabalhos de investigação e outros, que incidam sobre problemas do ambiente e da qualidade de vida.
+Art. 9.º - 1 - A Comissão Nacional do Ambiente poderá conceder subsídios e prémios a entidades públicas ou privadas, singulares ou colectivas, nacionais ou estrangeiras, destinados a estudos, publicações, trabalhos de investigação e outros, que incidam sobre problemas do ambiente e da qualidade de vida.
 
 2 - O número, a modalidade e as condições de atribuição de subsídios e prémios constituirão objecto de regulamento a elaborar pela Comissão Nacional do Ambiente sujeito a aprovação do Secretário de Estado do Ambiente.
 
-###### Art. 10.º - 1 - Com o fim principal de estimular a especialização e valorização de pessoal técnico, a Comissão Nacional do Ambiente poderá conceder bolsas de estudo, dentro e fora do País, a indivíduos de nacionalidade portuguesa, diplomados por estabelecimentos de ensino superior.
+Art. 10.º - 1 - Com o fim principal de estimular a especialização e valorização de pessoal técnico, a Comissão Nacional do Ambiente poderá conceder bolsas de estudo, dentro e fora do País, a indivíduos de nacionalidade portuguesa, diplomados por estabelecimentos de ensino superior.
 
 2 - O número, a modalidade e as condições de atribuição das bolsas de estudo constituirão objecto de regulamento a elaborar pela Comissão Nacional do Ambiente sujeito a aprovação do Secretário de Estado do Ambiente.
 
-###### Art. 11.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento da Comissão Nacional do Ambiente para o ano corrente, com os necessários ajustamentos indispensáveis à cobertura das despesas previstas.
+Art. 11.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento da Comissão Nacional do Ambiente para o ano corrente, com os necessários ajustamentos indispensáveis à cobertura das despesas previstas.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 27 de Dezembro de 1977.**
+Promulgado em 27 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA
 
 Lugares a acrescentar ao quadro de pessoal da Comissão Nacional do Ambiente aprovado pelo [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30206/00670068.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30206/00670068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30206/00670068.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

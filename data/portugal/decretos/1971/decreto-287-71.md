@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/287-1971-643678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc3ec2c3075fcc1b97f74685e65f5756a57c16170a4571335843e80a9f1a43c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a8dd1911a49c10f2f05eb4e074dc35f5fa1f288a3aa6249d7144d899a59c031
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:06Z'
   warnings: []
   errors: []
 ---
@@ -89,24 +93,24 @@ Em execução do disposto no artigo 44.º do [Decreto-Lei n.º 270/71](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta, e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 120000000$00, a inscrever no orçamento de Encargos Gerais da Nação, sob a seguinte forma:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 120000000$00, a inscrever no orçamento de Encargos Gerais da Nação, sob a seguinte forma:
 
 Despesa extraordinária
 
-### Capítulo 14.º «III Plano de Fomento»:
+Capítulo 14.º «III Plano de Fomento»:
 
 Infra-estruturas económicas
 
-###### Artigo 357.º «Complexo urbano industrial de Sines»:
+Artigo 357.º «Complexo urbano industrial de Sines»:
 
 N.º 1) «Gabinete da Área de Sines» ... 120000000$00
 
-###### Art. 2.º Para compensação do crédito previsto no artigo anterior é adicionada igual importância à verba inscrita no capítulo 9.º, artigo 287.º «Produto da venda de títulos ou de empréstimos», do vigente orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito previsto no artigo anterior é adicionada igual importância à verba inscrita no capítulo 9.º, artigo 287.º «Produto da venda de títulos ou de empréstimos», do vigente orçamento das receitas do Estado.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 21 de Junho de 1971.**
+Promulgado em 21 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

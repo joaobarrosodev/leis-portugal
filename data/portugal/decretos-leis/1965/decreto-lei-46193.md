@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/02/04100/01890196.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46193-1965-238823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 694eb7e88d27f0026827d02f13467ac260ee52627119af2061f4aa53a0f7c5d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53a59bbf664fabd384a447064df2ed0c379c87b5e33b67f732e2eb449e849609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Inspecção Geral das Actividades Económicas
+- Ministério da Economia
 relationships:
 - type: amended_by
   target: pt:dre:294115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:294115:por
+  label: "Substituído pelo Dec Lei.46336.17.05.1965.MJ, DG.IS [109] de 17.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46336-1965-294115
+  date: '1965-05-17'
+- type: cites
+  target: pt:dre:173156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693016:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:14Z'
   warnings: []
   errors: []
 ---
@@ -141,9 +186,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Atribuições e competência
 
-###### Artigo 1.º É criada, no Ministério da Economia, a Inspecção-Geral das Actividades Económicas, a qual há-de reger-se pelas disposições do presente diploma e respectivo regulamento.
+Artigo 1.º É criada, no Ministério da Economia, a Inspecção-Geral das Actividades Económicas, a qual há-de reger-se pelas disposições do presente diploma e respectivo regulamento.
 
-###### Art. 2.º São atribuições da Inspecção-Geral das Actividades Económicas, sem prejuízo das especialmente cometidas a outros serviços:
+Art. 2.º São atribuições da Inspecção-Geral das Actividades Económicas, sem prejuízo das especialmente cometidas a outros serviços:
 
 a) Fiscalizar e acompanhar a vida administrativa dos organismos corporativos e de coordenação económica dependentes do Ministério da Economia e a forma como exercem a respectiva acção económica;
 
@@ -159,13 +204,13 @@ f) Prosseguir os outros fins que por lei, regulamento ou determinação superior
 
 § único. A actividade da Inspecção-Geral exercer-se-á em todo o território do continente, e no das ilhas adjacentes quando se julgue necessário.
 
-###### Art. 3.º No exercício das atribuições a que se refere a alínea b) do artigo 2.º, incumbe à Inspecção-Geral das Actividades Económicas:
+Art. 3.º No exercício das atribuições a que se refere a alínea b) do artigo 2.º, incumbe à Inspecção-Geral das Actividades Económicas:
 
 a) Organizar a prevenção e promover a repressão das infracções antieconómicas e contra a saúde pública, sem prejuízo, quanto a estas, do disposto no § 5.º do artigo 4.º;
 
 b) Organizar a prevenção e promover a repressão das infracções disciplinares cometidas no exercício das actividades económicas, com observância das regras estabelecidas no presente diploma.
 
-###### Art. 4.º No desempenho das suas funções de prevenção das infracções, incumbe designadamente à Inspecção-Geral:
+Art. 4.º No desempenho das suas funções de prevenção das infracções, incumbe designadamente à Inspecção-Geral:
 
 a) A vigilância geral e especial das actividades, pessoas, estabelecimentos e outras entidades, de acordo com as necessidades económicas, a natureza e gravidade das infracções a prevenir e a perigosidade dos respectivos agentes, incidindo na produção e distribuição de matérias-primas e géneros de primeira necessidade;
 
@@ -191,11 +236,11 @@ g) Desempenhar os restantes serviços que por lei, regulamento ou determinação
 
 § 5.º Em tudo quanto respeitar às infracções contra a saúde pública, competirá ao Ministério da Saúde e Assistência, através dos seus serviços, colaborar na coordenação a estabelecer em conjunto com a Inspecção-Geral e, nos termos da base XIV, b), da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, indicar a orientação técnica a seguir na prevenção e repressão destras infracções.
 
-###### Art. 5.º Incumbe especialmente aos organismos de coordenação económica e, na falta destes, aos delegados do Governo junto dos organismos corporativos, a fiscalização da exportação das mercadorias sujeitas à respectiva disciplina, sem prejuízo da competência genérica que à Inspecção-Geral é conferida pelo presente diploma, nem da que estiver atribuída a outros serviços do Estado.
+Art. 5.º Incumbe especialmente aos organismos de coordenação económica e, na falta destes, aos delegados do Governo junto dos organismos corporativos, a fiscalização da exportação das mercadorias sujeitas à respectiva disciplina, sem prejuízo da competência genérica que à Inspecção-Geral é conferida pelo presente diploma, nem da que estiver atribuída a outros serviços do Estado.
 
 § único. A instrução das infracções a que se refere este artigo compete, segundo a sua natureza, aos próprios organismos de coordenação económica ou corporativos, à Inspecção-Geral das Actividades Económicas e aos serviços do Estado com competência fiscalizadora, sem prejuízo das disposições especiais aplicáveis.
 
-###### Art. 6.º Em matéria de repressão das infracções, incumbe designadamente à Inspecção-Geral:
+Art. 6.º Em matéria de repressão das infracções, incumbe designadamente à Inspecção-Geral:
 
 a) Proceder à instrução preparatória dos processos relativos a infracções contra a saúde pública e contra a economia nacional;
 
@@ -215,23 +260,23 @@ e) Exercer as funções que por lei, regulamento ou determinação superior lhe 
 
 § 4.º A competência disciplinar em relação a actividades económicas não sujeitas à disciplina dos organismos corporativos e de coordenação económica cabe à Inspecção-Geral.
 
-###### Art. 7.º Considera-se delegada na Inspecção-Geral das Actividades Económicas a competência para proceder à instrução preparatória dos processos correspondentes aos delitos de natureza antieconómica e contra a saúde pública, sem prejuízo da respectiva direcção por parte do Ministério Público, nos termos do artigo 37.º, n.º 1, do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 7.º Considera-se delegada na Inspecção-Geral das Actividades Económicas a competência para proceder à instrução preparatória dos processos correspondentes aos delitos de natureza antieconómica e contra a saúde pública, sem prejuízo da respectiva direcção por parte do Ministério Público, nos termos do artigo 37.º, n.º 1, do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 § único. Os actos que devam ser presididos ou praticados pessoalmente pelo Ministério Público serão presididos ou praticados pelos funcionários dirigentes dos Serviços de Fiscalização que presidam à instrução ou pelo director do Serviço de Contencioso.
 
-###### Art. 8.º Todas as autoridades que recebam denúncias ou levantem autos de notícia nos termos do artigo 166.º do Código de Processo Penal relativamente a infracções de natureza antieconómica ou contra a saúde pública enviá-los-ão imediatamente aos serviços centrais da Inspecção-Geral quando para a instrução sejam competentes as zonas de fiscalização de Lisboa e às zonas respectivas nos restantes casos.
+Art. 8.º Todas as autoridades que recebam denúncias ou levantem autos de notícia nos termos do artigo 166.º do Código de Processo Penal relativamente a infracções de natureza antieconómica ou contra a saúde pública enviá-los-ão imediatamente aos serviços centrais da Inspecção-Geral quando para a instrução sejam competentes as zonas de fiscalização de Lisboa e às zonas respectivas nos restantes casos.
 
 § único. Quando se trate de infracções contra a saúde pública, a Inspecção-Geral deve dar imediato conhecimento delas à Direcção-Geral de Saúde, para os efeitos que esta houver por convenientes.
 
-###### Art. 9.º A Inspecção-Geral enviará imediatamente cópia de todos os autos ou denúncias, directamente aos procuradores da República quando para o julgamento forem competentes os tribunais de Lisboa, Porto ou Coimbra, e, nos demais casos, para o ajudante do procurador da República no círculo judicial a que pertença o tribunal competente.
+Art. 9.º A Inspecção-Geral enviará imediatamente cópia de todos os autos ou denúncias, directamente aos procuradores da República quando para o julgamento forem competentes os tribunais de Lisboa, Porto ou Coimbra, e, nos demais casos, para o ajudante do procurador da República no círculo judicial a que pertença o tribunal competente.
 
 § único. A falta de comunicação ao Ministério Público no prazo de quatro dias, a contar do levantamento do auto ou da apresentação da denúncia, sujeita o funcionário responsável à penalidade prevista no § 2.º do artigo 168.º do Código de Processo Penal.
 
-###### Art. 10.º As entidades oficiais e os organismos corporativos e de coordenação económica deverão prestar à Inspecção-Geral as informações que julguem convenientes ou lhes sejam solicitadas, que possam contribuir para a descoberta das infracções ou de organização ilegal dos sectores ou actividades económicas.
+Art. 10.º As entidades oficiais e os organismos corporativos e de coordenação económica deverão prestar à Inspecção-Geral as informações que julguem convenientes ou lhes sejam solicitadas, que possam contribuir para a descoberta das infracções ou de organização ilegal dos sectores ou actividades económicas.
 
-###### Art. 11.º As diligências que for necessário realizar fora da sede dos serviços encarregados da instrução poderão ser solicitadas aos agentes do Ministério Público ou às autoridades administrativas ou policiais das localidades onde devam ser efectuadas.
+Art. 11.º As diligências que for necessário realizar fora da sede dos serviços encarregados da instrução poderão ser solicitadas aos agentes do Ministério Público ou às autoridades administrativas ou policiais das localidades onde devam ser efectuadas.
 
-###### Art. 12.º Os proprietários, administradores, directores, encarregados ou seus representantes nos estabelecimentos e escritórios das empresas comerciais ou industriais e demais locais sujeitos a fiscalização são especialmente obrigados:
+Art. 12.º Os proprietários, administradores, directores, encarregados ou seus representantes nos estabelecimentos e escritórios das empresas comerciais ou industriais e demais locais sujeitos a fiscalização são especialmente obrigados:
 
 1.º A facultar a entrada nos locais referidos no § 1.º do artigo 4.º ao pessoal da Inspecção-Geral, depois de devidamente identificado, e a sua permanência nele pelo tempo que for necessário à conclusão do serviço;
 
@@ -245,29 +290,29 @@ e) Exercer as funções que por lei, regulamento ou determinação superior lhe 
 
 § 3.º Os que, sendo legalmente obrigados aprestar informações, declarações e depoimentos, o fizerem falsamente aos funcionários dos serviços de inspecção no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
 
-###### Art. 13.º Ao inspector-geral, respectivo adjunto, inspector superior, director e técnicos juristas da Direcção do Serviço de Contencioso, director do Serviço de Fiscalização e Investigação e ao pessoal com funções de vigilância e instrução preparatória dos Serviços de Fiscalização, é aplicável o disposto na segunda parte do § 1.º do artigo 47.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, sem prejuízo das restantes prerrogativas previstas no presente diploma.
+Art. 13.º Ao inspector-geral, respectivo adjunto, inspector superior, director e técnicos juristas da Direcção do Serviço de Contencioso, director do Serviço de Fiscalização e Investigação e ao pessoal com funções de vigilância e instrução preparatória dos Serviços de Fiscalização, é aplicável o disposto na segunda parte do § 1.º do artigo 47.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, sem prejuízo das restantes prerrogativas previstas no presente diploma.
 
-###### Art. 14.º São autoridades para o efeito de ordenarem a prisão sem culpa formada: o inspector-geral, o respectivo adjunto, o inspector superior, o director do Serviço de Contencioso, o director do Serviço de Fiscalização e Investigação e o inspector adjunto deste.
+Art. 14.º São autoridades para o efeito de ordenarem a prisão sem culpa formada: o inspector-geral, o respectivo adjunto, o inspector superior, o director do Serviço de Contencioso, o director do Serviço de Fiscalização e Investigação e o inspector adjunto deste.
 
-###### Art. 15.º Concluída a instrução preparatória dos processos ordenará o inspector ou subinspector que a ela presida a respectiva remessa ao Ministério Público, salvo nos casos previstos no artigo 16.º
+Art. 15.º Concluída a instrução preparatória dos processos ordenará o inspector ou subinspector que a ela presida a respectiva remessa ao Ministério Público, salvo nos casos previstos no artigo 16.º
 
 § único. Se o Ministério Público considerar que se impõe a efectivação de novas diligências, poderá realizá-las directamente, ou, em casos devidamente fundamentados, solicitá-las à Inspecção-Geral, bem como a cooperação dos seus agentes para o coadjuvarem.
 
-###### Art. 16.º Quando, depois de concluída a instrução preparatória, não forneçam os autos prova suficiente ou se mostre a inexistência das infracções, poderá o director do Serviço de Contencioso ordenar o arquivamento ou determinar que os autos aguardem a produção de melhor prova, para o que serão remetidos à Direcção do Serviço de Contencioso os processos nestas condições.
+Art. 16.º Quando, depois de concluída a instrução preparatória, não forneçam os autos prova suficiente ou se mostre a inexistência das infracções, poderá o director do Serviço de Contencioso ordenar o arquivamento ou determinar que os autos aguardem a produção de melhor prova, para o que serão remetidos à Direcção do Serviço de Contencioso os processos nestas condições.
 
 § 1.º Mensalmente serão remetidas às entidades referidas no artigo 9.º relações dos autos mandados arquivar ou aguardar produção de melhor prova.
 
 § 2.º Em tudo o mais se observará o que, em matéria de instrução preparatória, dispõe o Código de Processo Penal e legislação complementar.
 
-###### Art. 17.º A aplicação provisória das medidas de segurança previstas nos artigos 7.º a 9.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, será proposta pela Inspecção-Geral ao tribunal competente, se no decurso da instrução vier a reconhecer-se perigo de actividade delituosa contra a saúde dos consumidores ou contra os interesses da economia nacional.
+Art. 17.º A aplicação provisória das medidas de segurança previstas nos artigos 7.º a 9.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, será proposta pela Inspecção-Geral ao tribunal competente, se no decurso da instrução vier a reconhecer-se perigo de actividade delituosa contra a saúde dos consumidores ou contra os interesses da economia nacional.
 
-###### Art. 18.º Ao inspector-geral, seu adjunto, inspector superior, director e técnicos da Direcção do Serviço de Contencioso e director e demais funcionários da Direcção do Serviço de Fiscalização e Investigação com funções de vigilância e instrução preparatória, depois de identificados pela exibição do cartão de identidade e do distintivo a que se refere o artigo 39.º, n.º 1.º, não pode ser impedida a entrada, em todos os locais onde tiverem de exercer as suas funções, a qualquer hora do dia ou da noite, sem necessidade de aviso prévio.
+Art. 18.º Ao inspector-geral, seu adjunto, inspector superior, director e técnicos da Direcção do Serviço de Contencioso e director e demais funcionários da Direcção do Serviço de Fiscalização e Investigação com funções de vigilância e instrução preparatória, depois de identificados pela exibição do cartão de identidade e do distintivo a que se refere o artigo 39.º, n.º 1.º, não pode ser impedida a entrada, em todos os locais onde tiverem de exercer as suas funções, a qualquer hora do dia ou da noite, sem necessidade de aviso prévio.
 
-###### Art. 19.º Cometem os crimes de desobediência ou de resistência, consoante os casos, todos aqueles que, depois de identificados os funcionários da Inspecção-Geral pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
+Art. 19.º Cometem os crimes de desobediência ou de resistência, consoante os casos, todos aqueles que, depois de identificados os funcionários da Inspecção-Geral pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
 
 § único. Os mesmos funcionários podem prender em flagrante delito as pessoas que, sem motivo legítimo, procurarem impedir a sua acção, bem como as pessoas que os injuriarem, ameaçarem ou agredirem, no exercício ou por motivo das suas funções, e entregá-las à autoridade competente mais próxima com o respectivo auto de notícia, que fará fé em juízo até prova em contrário.
 
-###### Art. 20.º São órgãos de fiscalização das actividades económicas, sem prejuízo da competência atribuída à Inspecção-Geral, por este diploma, e a outros serviços: a Polícia de Segurança Pública, a Guarda Nacional Republicana, a Guarda Fiscal, a Polícia de Viação e Trânsito, outras autoridades policiais, administrativas e fiscais.
+Art. 20.º São órgãos de fiscalização das actividades económicas, sem prejuízo da competência atribuída à Inspecção-Geral, por este diploma, e a outros serviços: a Polícia de Segurança Pública, a Guarda Nacional Republicana, a Guarda Fiscal, a Polícia de Viação e Trânsito, outras autoridades policiais, administrativas e fiscais.
 
 § único. As autoridades a que se refere o corpo do artigo poderão ter elementos de ligação junto da Inspecção-Geral das Actividades Económicas, com o fim de melhor assegurar a execução das diligências necessárias e sem que essa colaboração importe para a Inspecção-Geral quaisquer encargos.
 
@@ -275,7 +320,7 @@ e) Exercer as funções que por lei, regulamento ou determinação superior lhe 
 
 #### SECÇÃO I — Dos serviços em geral
 
-###### Art. 21.º A Inspecção-Geral das Actividades Económicas é dirigida por um inspector-geral, coadjuvado por um adjunto, e compreende os seguintes serviços:
+Art. 21.º A Inspecção-Geral das Actividades Económicas é dirigida por um inspector-geral, coadjuvado por um adjunto, e compreende os seguintes serviços:
 
 a) Repartição Administrativa;
 
@@ -287,15 +332,15 @@ d) Serviços de Fiscalização.
 
 #### SECÇÃO II — Do inspector-geral
 
-###### Art. 22.º Compete ao inspector-geral, na directa dependência do Ministro da Economia, orientar, coordenar e fiscalizar superiormente todos os serviços da Inspecção-Geral.
+Art. 22.º Compete ao inspector-geral, na directa dependência do Ministro da Economia, orientar, coordenar e fiscalizar superiormente todos os serviços da Inspecção-Geral.
 
 #### SECÇÃO III — Da Repartição Administrativa
 
-###### Art. 23.º À Repartição Administrativa incumbem os assuntos relativos ao expediente geral, arquivo, biblioteca, pessoal e contabilidade da Inspecção-Geral.
+Art. 23.º À Repartição Administrativa incumbem os assuntos relativos ao expediente geral, arquivo, biblioteca, pessoal e contabilidade da Inspecção-Geral.
 
 #### SECÇÃO IV — Da Direcção do Serviço de Contencioso
 
-###### Art. 24.º À Direcção do Serviço de Contencioso incumbe especialmente:
+Art. 24.º À Direcção do Serviço de Contencioso incumbe especialmente:
 
 a) Estudar, informar e promover a remessa aos tribunais competentes, quando seja caso disso, de todos os processos que lhe sejam remetidos pelos Serviços de Fiscalização;
 
@@ -309,25 +354,25 @@ e) Organizar os processos disciplinares, de inquérito ou de sindicância respei
 
 f) Exercer as demais funções de natureza jurídica que lhe sejam cometidas.
 
-###### Art. 25.º O serviço a que se refere o artigo anterior será superiormente orientado e fiscalizado por um director, imediatamente subordinado ao inspector-geral, e compreende os técnicos juristas e demais pessoal do quadro necessário ao serviço, dirigido este por um chefe de secção.
+Art. 25.º O serviço a que se refere o artigo anterior será superiormente orientado e fiscalizado por um director, imediatamente subordinado ao inspector-geral, e compreende os técnicos juristas e demais pessoal do quadro necessário ao serviço, dirigido este por um chefe de secção.
 
 #### SECÇÃO V — Dos Serviços de Inspecção dos Organismos Corporativos e de Coordenação Económica
 
-###### Art. 26.º Os Serviços de Inspecção dos Organismos Corporativos e de Coordenação Económica desempenham as atribuições a que se refere a alínea a) do artigo 2.º
+Art. 26.º Os Serviços de Inspecção dos Organismos Corporativos e de Coordenação Económica desempenham as atribuições a que se refere a alínea a) do artigo 2.º
 
-###### Art. 27.º Os Serviços de Inspecção são superiormente orientados e fiscalizados por um director, coadjuvado por um inspector-chefe, por inspectores e subinspectores e restante pessoal do quadro necessário ao serviço.
+Art. 27.º Os Serviços de Inspecção são superiormente orientados e fiscalizados por um director, coadjuvado por um inspector-chefe, por inspectores e subinspectores e restante pessoal do quadro necessário ao serviço.
 
 #### SECÇÃO VI — Dos Serviços de Fiscalização
 
-###### Art. 28.º Os Serviços de Fiscalização desempenham as atribuições a que se referem as alíneas b), c) e d) do artigo 2.º e os artigos 3.º a 19.º
+Art. 28.º Os Serviços de Fiscalização desempenham as atribuições a que se referem as alíneas b), c) e d) do artigo 2.º e os artigos 3.º a 19.º
 
-###### Art. 29.º Os Serviços de Fiscalização são dirigidos, orientados e fiscalizados por um inspector superior e compreendem:
+Art. 29.º Os Serviços de Fiscalização são dirigidos, orientados e fiscalizados por um inspector superior e compreendem:
 
 a) A Direcção do Serviço de Fiscalização e Investigação;
 
 b) Serviços de secretaria.
 
-###### Art. 30.º O serviço a que se refere a alínea a) do artigo anterior é superiormente orientado por um director e abrange:
+Art. 30.º O serviço a que se refere a alínea a) do artigo anterior é superiormente orientado por um director e abrange:
 
 a) Os serviços técnicos, executados por técnicos com preparação profissional especializada, na directa dependência do director;
 
@@ -337,13 +382,13 @@ b) Os serviços de vigilância e investigação, a cargo do inspector adjunto do
 
 § 2.º Os agentes serão de 1.ª, 2.ª e 3.ª classes e auxiliares.
 
-###### Art. 31.º Os serviços de vigilância e investigação distribuem-se por:
+Art. 31.º Os serviços de vigilância e investigação distribuem-se por:
 
 a) Zonas de fiscalização;
 
 b) Postos de vigilância.
 
-###### Art. 32.º Cada zona de fiscalização estará a cargo de um inspector ou subinspector, coadjuvado por um chefe de brigada adjunto de zona, e os postos estarão a cargo de chefes de brigada.
+Art. 32.º Cada zona de fiscalização estará a cargo de um inspector ou subinspector, coadjuvado por um chefe de brigada adjunto de zona, e os postos estarão a cargo de chefes de brigada.
 
 § único. As zonas de fiscalização de Lisboa e do Porto serão superiormente dirigidas, orientadas e fiscalizadas pelo inspector adjunto do director, a quem ficarão directamente subordinados os inspectores ou subinspectores respectivos.
 
@@ -351,27 +396,27 @@ b) Postos de vigilância.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 33.º O quadro do pessoal permanente da Inspecção-Geral das Actividades Económicas e suas categorias são os constantes do mapa anexo a este diploma.
+Art. 33.º O quadro do pessoal permanente da Inspecção-Geral das Actividades Económicas e suas categorias são os constantes do mapa anexo a este diploma.
 
 § 1.º O quadro do pessoal a que se refere este artigo é de nomeação vitalícia.
 
 § 2.º Poderá ser admitido, por contrato ou assalariamento, mediante autorização do Ministro da Economia, com o acordo do Ministro das Finanças, o pessoal eventual indispensável, a pagar pelas dotações especiais para esse fim inscritas no orçamento da Inspecção-Geral.
 
-###### Art. 34.º Os funcionários da Inspecção-Geral que desempenhem funções de direcção, inspecção, fiscalização ou chefia têm direito às gratificações a fixar pelo Ministro da Economia, com o acordo do Ministro das Finanças, consoante a natureza ou ónus especial dos seus cargos, de harmonia com o preceituado no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), e no artigo 8.º e § 1.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), ambos de 23 de Novembro de 1935.
+Art. 34.º Os funcionários da Inspecção-Geral que desempenhem funções de direcção, inspecção, fiscalização ou chefia têm direito às gratificações a fixar pelo Ministro da Economia, com o acordo do Ministro das Finanças, consoante a natureza ou ónus especial dos seus cargos, de harmonia com o preceituado no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), e no artigo 8.º e § 1.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), ambos de 23 de Novembro de 1935.
 
-###### Art. 35.º A todos os funcionários que recebam quaisquer dádivas ou gratificações por qualquer motivo relacionado com investigações ou por causa delas ou com qualquer outra função que caiba nas atribuições da Inspecção-Geral, é sempre aplicável a pena de demissão, sem prejuízo da responsabilidade criminal a que haja lugar.
+Art. 35.º A todos os funcionários que recebam quaisquer dádivas ou gratificações por qualquer motivo relacionado com investigações ou por causa delas ou com qualquer outra função que caiba nas atribuições da Inspecção-Geral, é sempre aplicável a pena de demissão, sem prejuízo da responsabilidade criminal a que haja lugar.
 
-###### Art. 36.º Para o desempenho de cargos e funções na Inspecção-Geral poderão ser requisitados pelo Ministro da Economia funcionários ou pessoal de outros serviços do Estado, dos corpos administrativos e dos organismos de coordenação económica ou corporativos.
+Art. 36.º Para o desempenho de cargos e funções na Inspecção-Geral poderão ser requisitados pelo Ministro da Economia funcionários ou pessoal de outros serviços do Estado, dos corpos administrativos e dos organismos de coordenação económica ou corporativos.
 
 § único. Os funcionários a que se refere este artigo consideram-se em comissão de serviço pelo tempo que o Ministro da Economia determinar, considerando-se para todos os efeitos legais o respectivo serviço como se fosse prestado no quadro a que pertencem os funcionários, salvas as excepções previstas em leis especiais.
 
-###### Art. 37.º Os funcionários da Inspecção-Geral podem ser nomeados para quaisquer cargos ou funções públicas em comissão de serviço, durante a qual os seus lugares poderão ser providos interinamente.
+Art. 37.º Os funcionários da Inspecção-Geral podem ser nomeados para quaisquer cargos ou funções públicas em comissão de serviço, durante a qual os seus lugares poderão ser providos interinamente.
 
-###### Art. 38.º Os funcionários dos Serviços de Fiscalização ficam inibidos de exercer qualquer cargo ou de prestar quaisquer serviços, incluídos os de procuradoria, nas empresas cujos actos sejam ou tenham sido objecto de processo penal ou disciplinar da competência da Inspecção-Geral, antes de decorridos dez anos sobre o termo das investigações e seja qual for a situação em que se encontrem.
+Art. 38.º Os funcionários dos Serviços de Fiscalização ficam inibidos de exercer qualquer cargo ou de prestar quaisquer serviços, incluídos os de procuradoria, nas empresas cujos actos sejam ou tenham sido objecto de processo penal ou disciplinar da competência da Inspecção-Geral, antes de decorridos dez anos sobre o termo das investigações e seja qual for a situação em que se encontrem.
 
 § único. A infracção do disposto neste artigo será punida nos termos do § 2.º do artigo 236.º do Código Penal.
 
-###### Art. 39.º O inspector-geral das Actividades Económicas e o seu adjunto, o inspector superior, o director e técnicos juristas da Direcção do Serviço de Contencioso, o director do Serviço de Fiscalização e Investigação e demais pessoal com funções de vigilância e fiscalização ou de instrução preparatória são considerados autoridades para o efeito dos artigos 250.º e 252.º do Código de Processo Penal e gozam, além dos que competem aos demais funcionários públicos, dos direitos seguintes:
+Art. 39.º O inspector-geral das Actividades Económicas e o seu adjunto, o inspector superior, o director e técnicos juristas da Direcção do Serviço de Contencioso, o director do Serviço de Fiscalização e Investigação e demais pessoal com funções de vigilância e fiscalização ou de instrução preparatória são considerados autoridades para o efeito dos artigos 250.º e 252.º do Código de Processo Penal e gozam, além dos que competem aos demais funcionários públicos, dos direitos seguintes:
 
 1.º De uso de cartão de identidade e de distintivo especial para pronto reconhecimento da sua qualidade, de modelos a aprovar pelo Ministro da Economia;
 
@@ -383,29 +428,29 @@ b) Postos de vigilância.
 
 #### SECÇÃO II — Dos cursos de habilitação técnica
 
-###### Art. 40.º Em colaboração com a Polícia Judiciária, a Inspecção-Geral dos Produtos Agrícolas e Industriais e demais serviços do Ministério da Economia, a Inspecção-Geral das Actividades Económicas organizará cursos de habilitação técnica destinados à preparação e especialização dos seus funcionários de fiscalização.
+Art. 40.º Em colaboração com a Polícia Judiciária, a Inspecção-Geral dos Produtos Agrícolas e Industriais e demais serviços do Ministério da Economia, a Inspecção-Geral das Actividades Económicas organizará cursos de habilitação técnica destinados à preparação e especialização dos seus funcionários de fiscalização.
 
 ### CAPÍTULO IV — Disposições diversas e transitórias
 
-###### Art. 41.º As disposições legais e regulamentares e as instruções e despachos actualmente aplicáveis à Intendência-Geral dos Abastecimentos e aos serviços de inspecção da Comissão de Cordenação Económica observar-se-ão em tudo que não for contrariado pelo presente diploma, e as dúvidas que se suscitem na sua aplicação serão resolvidas por despacho do Ministro da Economia, com o acordo do Ministro das Finanças quando respeitem a matéria de carácter financeiro ou a regras de contabilidade pública.
+Art. 41.º As disposições legais e regulamentares e as instruções e despachos actualmente aplicáveis à Intendência-Geral dos Abastecimentos e aos serviços de inspecção da Comissão de Cordenação Económica observar-se-ão em tudo que não for contrariado pelo presente diploma, e as dúvidas que se suscitem na sua aplicação serão resolvidas por despacho do Ministro da Economia, com o acordo do Ministro das Finanças quando respeitem a matéria de carácter financeiro ou a regras de contabilidade pública.
 
-###### Art. 42.º São extintos a Intendência-Geral dos Abastecimentos e os serviços de inspecção da Comissão de Coordenação Económica.
+Art. 42.º São extintos a Intendência-Geral dos Abastecimentos e os serviços de inspecção da Comissão de Coordenação Económica.
 
 § 1.º A Inspecção-Geral das Actividades Económicas assumirá a posição da Intendência-Geral dos Abastecimentos e dos serviços a que se refere este artigo na realização dos objectivos que àqueles estavam confiados.
 
 § 2.º Transitam para a Inspecção-Geral, sem dependência de quaisquer formalidades, os arrendamentos e todo o material mecânico, veículos, armamento e munições, mobiliário, livros, papéis de escrituração, documentos e demais elementos afectos aos referidos Intendência-Geral e serviços de inspecção à data da sua extinção.
 
-###### Art. 43.º Em conta das dotações atribuídas à Inspecção-Geral das Actividades Económicas para as despesas das classes de material e de pagamento de serviços e diversos encargos, poderão ser constituídos fundos permanentes, com exclusivo destino aos Serviços de Fiscalização e ainda que por quantias excedentes aos respectivos duodécimos, mediante autorização do Ministro da Economia e o acordo do Ministro das Finanças.
+Art. 43.º Em conta das dotações atribuídas à Inspecção-Geral das Actividades Económicas para as despesas das classes de material e de pagamento de serviços e diversos encargos, poderão ser constituídos fundos permanentes, com exclusivo destino aos Serviços de Fiscalização e ainda que por quantias excedentes aos respectivos duodécimos, mediante autorização do Ministro da Economia e o acordo do Ministro das Finanças.
 
 § 1.º A realização de despesas de conta dos fundos permanentes que forem concedidos nos termos deste artigo fica dispensada do cumprimento de todas as formalidades legais, mas a sua legitimidade ficará dependente dos vistos dos Ministros da Economia e das Finanças, a obter através da Direcção-Geral da Contabilidade Pública nos processos de reintegração e liquidação dos respectivos fundos permanentes.
 
 § 2.º Os fundos permanentes autorizados a favor dos serviços centrais serão depositados na Caixa Geral de Depósitos, Crédito e Previdência e o seu movimento far-se-á através de cheques com duas assinaturas, uma do inspector-geral ou do inspector superior e outra do chefe da Repartição Administrativa ou de quem os substituir nos seus impedimentos legais.
 
-###### Art. 44.º Será aplicável à Inspecção-Geral das Actividades Económicas o que dispõe o artigo 17.º do [Decreto-Lei n.º 32945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32945-1943-398812), de 2 de Agosto de 1943.
+Art. 44.º Será aplicável à Inspecção-Geral das Actividades Económicas o que dispõe o artigo 17.º do [Decreto-Lei n.º 32945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32945-1943-398812), de 2 de Agosto de 1943.
 
-###### Art. 45.º É conferida ao Ministro da Economia a faculdade de, mediante proposta do inspector-geral, mandar prestar serviço na Inspecção-Geral o pessoal de fiscalização dos organismos corporativos e de coordenação económica dependentes do Ministério, cujos vencimentos e restantes encargos continuarão a ser satisfeitos por verbas inscritas nos orçamentos dos referidos organismos, bem como afectar à Inspecção-Geral o material dos referidos serviços que julgue conveniente.
+Art. 45.º É conferida ao Ministro da Economia a faculdade de, mediante proposta do inspector-geral, mandar prestar serviço na Inspecção-Geral o pessoal de fiscalização dos organismos corporativos e de coordenação económica dependentes do Ministério, cujos vencimentos e restantes encargos continuarão a ser satisfeitos por verbas inscritas nos orçamentos dos referidos organismos, bem como afectar à Inspecção-Geral o material dos referidos serviços que julgue conveniente.
 
-###### Art. 46.º Para o quadro a que se refere o artigo 33.º transitam os funcionários e demais pessoal que actualmente prestam serviço na Intendência-Geral dos Abastecimentos e nos serviços de inspecção da Comissão de Coordenação Económica que por despacho do Ministro da Economia nele sejam colocados, considerando-se para todos os efeitos o tempo de serviço prestado que deva ser contado pela legislação aplicável, sem prejuízo dos seus anteriores direitos e regalias.
+Art. 46.º Para o quadro a que se refere o artigo 33.º transitam os funcionários e demais pessoal que actualmente prestam serviço na Intendência-Geral dos Abastecimentos e nos serviços de inspecção da Comissão de Coordenação Económica que por despacho do Ministro da Economia nele sejam colocados, considerando-se para todos os efeitos o tempo de serviço prestado que deva ser contado pela legislação aplicável, sem prejuízo dos seus anteriores direitos e regalias.
 
 § 1.º Todos os funcionários nomeados vitalìciamente, de harmonia com as disposições legais em vigor à data do respectivo provimento, transitarão para o novo quadro em categoria não inferior à que presentemente ocupem.
 
@@ -413,7 +458,7 @@ b) Postos de vigilância.
 
 § 3.º A colocação dos aludidos funcionários far-se-á mediante publicação no Diário do Governo de lista nominativa assinada pelo Ministro da Economia, e os funcionários ficam providos nos cargos, categorias e situações nela indicados, entrando no seu exercício a partir da data da publicação, independentemente de qualquer outra formalidade, incluindo o visto do Tribunal de Contas.
 
-###### Art. 47.º O pessoal da Intendência-Geral dos Abastecimentos e dos serviços de inspecção da Comissão de Coordenação Económica que não for colocado no quadro a que se refere o artigo 33.º poderá ser contratado como eventual.
+Art. 47.º O pessoal da Intendência-Geral dos Abastecimentos e dos serviços de inspecção da Comissão de Coordenação Económica que não for colocado no quadro a que se refere o artigo 33.º poderá ser contratado como eventual.
 
 § 1.º O pessoal contratado nos termos deste artigo poderá transitar para o quadro mediante publicação no Diário do Governo de nova lista nominativa assinada pelo Ministro da Economia, dentro de seis meses a partir da entrada em vigor do presente diploma, e os funcionários ficam providos nos cargos, categorias e situações nela indicados, entrando no seu exercício a partir da data da publicação, independentemente de qualquer outra formalidade, incluindo o visto do Tribunal de Contas.
 
@@ -423,17 +468,17 @@ b) Postos de vigilância.
 
 § 4.º O pessoal a que se refere o corpo deste artigo que não for colocado nos termos do seu § 1.º ou não for mantido na situação de contratado como eventual cessa imediatamente o exercício dos seus cargos, observando-se o disposto na alínea b) do artigo 48.º
 
-###### Art. 48.º O pessoal da Intendência-Geral dos Abastecimentos e dos serviços a que se refere o artigo 42.º que não for colocado nos termos do artigo 46.º ou não for contratado nos termos do artigo 47.º cessa imediatamente o exercício dos seus cargos, observando-se o seguinte:
+Art. 48.º O pessoal da Intendência-Geral dos Abastecimentos e dos serviços a que se refere o artigo 42.º que não for colocado nos termos do artigo 46.º ou não for contratado nos termos do artigo 47.º cessa imediatamente o exercício dos seus cargos, observando-se o seguinte:
 
 a) O pessoal que se encontre em comissão de serviço regressará aos quadros a que pertence, sem prejuízo do direito de requerer a aposentação quando para esta reúna as condições legais;
 
 b) Todo o pessoal que não esteja em comissão de serviço será aposentado quando reúna as respectivas condições; em caso contrário, terá direito a receber a indemnização correspondente a três meses de remuneração.
 
-###### Art. 49.º Aos funcionários da Intendência-Geral dos Abastecimentos e dos serviços de inspecção da Comissão de Coordenação Económica nas situações de licença ilimitada, requisição ou comissão de serviço que forem incluídos na lista a que se refere o § 2.º do artigo 46.º são mantidos, na Inspecção-Geral das Actividades Económicas, os direitos conferidos na lei geral.
+Art. 49.º Aos funcionários da Intendência-Geral dos Abastecimentos e dos serviços de inspecção da Comissão de Coordenação Económica nas situações de licença ilimitada, requisição ou comissão de serviço que forem incluídos na lista a que se refere o § 2.º do artigo 46.º são mantidos, na Inspecção-Geral das Actividades Económicas, os direitos conferidos na lei geral.
 
-###### Art. 50.º Poderá o Ministro da Economia, sob proposta do inspector-geral, independentemente do preceituado no presente diploma, determinar, em portaria, que certas funções sejam distribuídas, transitem de um para outro serviço ou se agrupem, em termos que permitam aumentar a sua eficácia, e sejam suprimidos ou criados serviços, a manter dentro das dotações da Inspecção-Geral, sem prejuízo dos direitos e regalias dos respectivos funcionários.
+Art. 50.º Poderá o Ministro da Economia, sob proposta do inspector-geral, independentemente do preceituado no presente diploma, determinar, em portaria, que certas funções sejam distribuídas, transitem de um para outro serviço ou se agrupem, em termos que permitam aumentar a sua eficácia, e sejam suprimidos ou criados serviços, a manter dentro das dotações da Inspecção-Geral, sem prejuízo dos direitos e regalias dos respectivos funcionários.
 
-###### Art. 51.º As receitas resultantes da actividade da Inspecção-Geral das Actividades Económicas darão entrada nos cofres do Estado e serão escrituradas como receitas gerais.
+Art. 51.º As receitas resultantes da actividade da Inspecção-Geral das Actividades Económicas darão entrada nos cofres do Estado e serão escrituradas como receitas gerais.
 
 § 1.º Consideram-se saldadas com a entrada em execução deste diploma todas as contas existentes com organismos corporativos e de coordenação económica relativas a reembolsos feitos ou a fazer de despesas com o pessoal seu destacado ou requisitado para a Intendência-Geral dos Abastecimentos, bem como as resultantes de contribuições do Estado para organismos de previdência relacionadas com o mesmo pessoal.
 
@@ -441,18 +486,18 @@ b) Todo o pessoal que não esteja em comissão de serviço será aposentado quan
 
 § 3.º A importância total fixada nos termos do parágrafo anterior será rateada pelos organismos em função das suas receitas ordinárias cobradas no ano anterior e liquidadas nos termos gerais em que se liquidam as receitas do Estado, devendo ser remetida nota discriminativa à competente repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 52.º Para ocorrer a todos os encargos resultantes da actividade da Inspecção-Geral das Actividades Económicas, desde a entrada em vigor deste diploma até final do ano económico respectivo, ser-lhe-á atribuída uma verba global através do orçamento do Ministério da Economia, a qual poderá ser aplicada sem sujeição ao regime de duodécimos. A inscrição e o eventual reforço desta verba far-se-ão mediante simples decreto referendado pelos Ministros das Finanças e da Economia, com contrapartida em anulações nas verbas dos serviços extintos pelo presente diploma.
+Art. 52.º Para ocorrer a todos os encargos resultantes da actividade da Inspecção-Geral das Actividades Económicas, desde a entrada em vigor deste diploma até final do ano económico respectivo, ser-lhe-á atribuída uma verba global através do orçamento do Ministério da Economia, a qual poderá ser aplicada sem sujeição ao regime de duodécimos. A inscrição e o eventual reforço desta verba far-se-ão mediante simples decreto referendado pelos Ministros das Finanças e da Economia, com contrapartida em anulações nas verbas dos serviços extintos pelo presente diploma.
 
-###### Art. 53.º Fica o Ministro da Economia autorizado a tomar todas as providências necessárias à entrada em funcionamento dos serviços a que se refere este diploma.
+Art. 53.º Fica o Ministro da Economia autorizado a tomar todas as providências necessárias à entrada em funcionamento dos serviços a que se refere este diploma.
 
-###### Art. 54.º O presente diploma entra em vigor 90 dias depois da sua publicação. Entretanto, e para vigorar na mesma data, será publicado o decreto a que se refere o artigo 52.º
+Art. 54.º O presente diploma entra em vigor 90 dias depois da sua publicação. Entretanto, e para vigorar na mesma data, será publicado o decreto a que se refere o artigo 52.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Fevereiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Mapa a que se refere o artigo 33.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/04100/01890196.pdf))](https://files.diariodarepublica.pt/1s/1965/02/04100/01890196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/04100/01890196.pdf)
 
 Ministério da Economia, 18 de Fevereiro de 1965. - O Ministro da Economia, Luís Maria Teixeira Pinto.

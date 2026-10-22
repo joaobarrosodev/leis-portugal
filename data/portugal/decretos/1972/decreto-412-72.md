@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/412-1972-690814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d397afb37b5531816e6b728445e8d1f1b3dfa1ebf26fc19d4134bf39ffd77d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf0abafdc8181cea61261d6b74cb54018867fa312f4b4d6f6d50b1b42570cb50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:12Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Ministério do Interior
 
@@ -106,12 +110,12 @@ Ministério das Corporações e Previdência Social
 
 Encargos do ano de 1971, respeitantes a telefones, publicidade e propaganda, luz, aquecimento, água, lavagem e limpeza e despesas de deslocação, subsídio de viagem e de marcha, a processar pela Secretaria-Geral, Delegação do Instituto Nacional do Trabalho e Previdência em Faro e Inspecções do Trabalho de Braga e de Lisboa ... 22271$50
 
-###### Art. 2.º É autorizada a Emissora Nacional de Radiodifusão a satisfazer, em conta das verbas de despesas de anos findos e de despesa extraordinária, inscritas no seu actual orçamento privativo, as quantias de 1133808$20 e 3656929$90, respectivamente, referentes a diversas despesas derivadas do normal funcionamento dos serviços e a encargos com o Plano de reapetrechamento e desenvolvimento e com a reunião em Portugal da Comissão Jurídica da U. E. R., contraídas no ano de 1971 e anteriores.
+Art. 2.º É autorizada a Emissora Nacional de Radiodifusão a satisfazer, em conta das verbas de despesas de anos findos e de despesa extraordinária, inscritas no seu actual orçamento privativo, as quantias de 1133808$20 e 3656929$90, respectivamente, referentes a diversas despesas derivadas do normal funcionamento dos serviços e a encargos com o Plano de reapetrechamento e desenvolvimento e com a reunião em Portugal da Comissão Jurídica da U. E. R., contraídas no ano de 1971 e anteriores.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 18 de Outubro de 1972.**
+Promulgado em 18 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

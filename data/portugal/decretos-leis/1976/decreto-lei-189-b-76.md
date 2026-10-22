@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 63/1976, 3º Suplemento, Série I de 1976-03-15
   number: '63'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 530-(7) a 530-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06303/00070008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-b-1976-143746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f85c4e3dfa50dd7b182dab38649cbb5af2e22ca5bf86d59f8658370536e04d28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01f3e44925b01368392d398d139a76ab873cdda5cc5562e7b0417948d3dc7ff4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cidadão Estrangeiro
+- Crime
+- Definição de Competências
+- Expulsão de Estrangeiros
+- Recurso
+- Residência de Estrangeiros
+- Segurança Interna
 relationships:
 - type: amended_by
   target: pt:dre:430816:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:430816:por
+  label: "Revogado pelo DEC LEI.582/76.22.07.1976.MAI, DR.IS [170] de 22.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/582-1976-430816
+  date: '1976-07-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:33Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Sem prejuízo das disposições constantes de tratado ou convenção internacional de que Portugal seja parte ou a que adira, podem ser expulsos do País os cidadãos estrangeiros que nele hajam entrado clandestinamente, bem como os que atentem contra a segurança nacional, a ordem pública ou os bons costumes, participem de forma activa em acções políticas sem para tanto estarem devidamente autorizados pelo Governo ou não respeitem as condições estabelecidas para a sua estada.
+Artigo 1.º - 1. Sem prejuízo das disposições constantes de tratado ou convenção internacional de que Portugal seja parte ou a que adira, podem ser expulsos do País os cidadãos estrangeiros que nele hajam entrado clandestinamente, bem como os que atentem contra a segurança nacional, a ordem pública ou os bons costumes, participem de forma activa em acções políticas sem para tanto estarem devidamente autorizados pelo Governo ou não respeitem as condições estabelecidas para a sua estada.
 
 2. O disposto no n.º 1 deste artigo não prejudica a responsabilidade criminal em que o estrangeiro haja incorrido.
 
@@ -106,7 +118,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. Considera-se residente habitualmente em Portugal o cidadão estrangeiro que há mais de seis meses tenha residência no País e haja cumprido com as disposições de polícia aquando da sua entrada e durante a estada em Portugal.
 
-###### Art. 2.º - 1. Compete à Direcção do Serviço de Estrangeiros decidir a expulsão de estrangeiros, nos termos deste diploma.
+Art. 2.º - 1. Compete à Direcção do Serviço de Estrangeiros decidir a expulsão de estrangeiros, nos termos deste diploma.
 
 2. A expulsão não pode ser efectuada para qualquer país em que o estrangeiro possa ser perseguido por razões políticas, cabendo-lhe sempre o direito de indicar o país para onde deseja ser encaminhado, desde que tal país dê o seu consentimento.
 
@@ -116,36 +128,36 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. O processamento do recurso no Supremo Tribunal Administrativo tem carácter urgente, com prioridade a qualquer outro.
 
-###### Art. 3.º - 1. A decisão da expulsão será notificada pessoalmente ao estrangeiro, que, no prazo de dois dias úteis, poderá recorrer hierarquicamente ou contenciosamente, conforme os casos.
+Art. 3.º - 1. A decisão da expulsão será notificada pessoalmente ao estrangeiro, que, no prazo de dois dias úteis, poderá recorrer hierarquicamente ou contenciosamente, conforme os casos.
 
 2. A interposição de qualquer dos recursos suspende a execução da decisão.
 
-###### Art. 4.º O estrangeiro contra quem haja sido proferida a ordem de expulsão é obrigado a abandonar o território nacional no prazo que lhe for determinado, devendo ser detido e colocado na fronteira, no caso de não acatamento de tal prazo.
+Art. 4.º O estrangeiro contra quem haja sido proferida a ordem de expulsão é obrigado a abandonar o território nacional no prazo que lhe for determinado, devendo ser detido e colocado na fronteira, no caso de não acatamento de tal prazo.
 
-###### Art. 5.º - 1. Será fixada residência ao estrangeiro contra quem foi proferida a expulsão, enquanto pender qualquer dos recursos previstos no n.º 4 do artigo 2.º
+Art. 5.º - 1. Será fixada residência ao estrangeiro contra quem foi proferida a expulsão, enquanto pender qualquer dos recursos previstos no n.º 4 do artigo 2.º
 
 2. Em casos excepcionais que possam pôr em grave risco a segurança nacional ou a ordem pública poderá ser ordenada a detenção do estrangeiro até ao julgamento do recurso que haja interposto. Se a decisão do recurso lhe for favorável, será imediatamente restituído à liberdade; na hipótese contrária manter-se-á preso até à efectivação da expulsão. A detenção não poderá exceder o prazo de prisão preventiva em processo de querela, findo o qual se torna necessária a sua validação judicial, que não poderá ser recusada desde que se indiciem as condições atrás descritas.
 
-###### Art. 6.º A decisão de expulsão de estrangeiro pode ainda determinar a do seu cônjuge, ascendentes e descendentes a seu cargo, bem como outros indivíduos de nacionalidade estrangeira que dele dependam economicamente sempre que não esteja assegurada a sua subsistência.
+Art. 6.º A decisão de expulsão de estrangeiro pode ainda determinar a do seu cônjuge, ascendentes e descendentes a seu cargo, bem como outros indivíduos de nacionalidade estrangeira que dele dependam economicamente sempre que não esteja assegurada a sua subsistência.
 
-###### Art. 7.º - 1. Constitui crime punível com prisão e multa correspondente a entrada em território nacional de estrangeiro dentro do período por que a mesma lhe foi vedada nos termos do n.º 3 do artigo 2.º
+Art. 7.º - 1. Constitui crime punível com prisão e multa correspondente a entrada em território nacional de estrangeiro dentro do período por que a mesma lhe foi vedada nos termos do n.º 3 do artigo 2.º
 
 2. Após o cumprimento da pena pelo crime referido no número anterior, o estrangeiro será expulso do País.
 
 3. Ao estrangeiro preso por haver cometido o crime previsto no n.º 1 dete artigo não é admitida a liberdade provisória.
 
-###### Art. 8.º A medida de expulsão deve ser comunicada, pela via diplomática, às autoridades competentes do país para onde o estrangeiro vai ser enviado.
+Art. 8.º A medida de expulsão deve ser comunicada, pela via diplomática, às autoridades competentes do país para onde o estrangeiro vai ser enviado.
 
-###### Art. 9.º - 1. Sempre que o estrangeiro não possa suportar as despesas necessárias ao abandono do País, serão as mesmas custeadas pelo Estado.
+Art. 9.º - 1. Sempre que o estrangeiro não possa suportar as despesas necessárias ao abandono do País, serão as mesmas custeadas pelo Estado.
 
 2. Para satisfação dos encargos resultantes da aplicação deste diploma serão inscritas no orçamento do Ministério da Administração Interna as necessárias dotações.
 
-###### Art. 10.º O presente diploma entra em vigor na data da sua publicação.
+Art. 10.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha.
 
-**Promulgado em 12 de Março de 1976.**
+Promulgado em 12 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

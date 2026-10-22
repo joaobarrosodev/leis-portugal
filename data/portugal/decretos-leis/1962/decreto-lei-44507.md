@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44507-1962-163452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2273ced5ccb11f196198c47c1c7aad812f9561591831fedeb17dde8aa08971d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28b63dff9a314d5176f7b015e35ab6e49b32ea483a1bc042923b6d6aee496d11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS de Consumo
+- Contingentação
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:228816:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193636:por
+  label: "Mantido até 30.06.1963, o regime estabelecido na al. f) do art. 5º pelo DEC LEI.44874.07.02.1963.MF, DG.IS [32]\
+    \ de 07.02.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44874-1963-193636
+  date: '1963-02-07'
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:49Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +111,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A abolição das restrições quantitativas ao comércio entre territórios nacionais, nos termos do disposto no capítulo IV do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, implica:
+Artigo 1.º A abolição das restrições quantitativas ao comércio entre territórios nacionais, nos termos do disposto no capítulo IV do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, implica:
 
 a) A supressão do regime de licenças de importação e de exportação de mercadorias de origem nacional;
 
@@ -106,7 +119,7 @@ b) A supressão de quaisquer disposições legais e práticas administrativas qu
 
 c) Em relação a mercadorias cuja produção ou comercialização, em virtude de disposições legais, é dirigida ou influenciada de maneira sensível, directa ou indirectamente, por organismos de coordenação económica, organismos corporativos ou empresas que desfrutem de privilégios especiais, a supressão de práticas desses organismos ou empresas que tenham por objectivo estabelecer limitações às quantidades ou qualidades na compra, na produção ou na venda de determinadas mercadorias de origem nacional, salvo na medida em que essas limitações forem aplicadas na base de critérios harmonizados para todos os territórios.
 
-###### Art. 2.º Além dos casos mencionados no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), as disposições do capítulo IV desse decreto-lei não se aplicam às restrições quantitativas ao comércio de mercadorias que sejam:
+Art. 2.º Além dos casos mencionados no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), as disposições do capítulo IV desse decreto-lei não se aplicam às restrições quantitativas ao comércio de mercadorias que sejam:
 
 a) Requeridas por uma situação de grave dificuldade da balança de pagamentos de um território, e neste caso só poderão ser estabelecidas em Conselho de Ministros para os Assuntos Económicos, por período determinado, ouvidos os órgãos competentes, nomeadamente o conselho de direcção do Fundo Monetário da Zona do Escudo;
 
@@ -122,9 +135,9 @@ f) Destinadas a evitar que as restrições mantidas, num território, à exporta
 
 g) Indispensáveis para garantir a estabilidade do abastecimento de produtos alimentares de 1.ª necessidade, de forma a evitar penúrias locais graves em determinadas regiões.
 
-###### Art. 3.º As restrições quantitativas mantidas ou introduzidas na importação ou na exportação, entre os diversos territórios, de mercadorias de origem nacional, ao abrigo do disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) ou no artigo anterior, não devem servir como meio de discriminação entre os diversos territórios, nem como protecção disfarçada às actividades produtivas de um ou mais desses territórios em prejuízo dos restantes.
+Art. 3.º As restrições quantitativas mantidas ou introduzidas na importação ou na exportação, entre os diversos territórios, de mercadorias de origem nacional, ao abrigo do disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) ou no artigo anterior, não devem servir como meio de discriminação entre os diversos territórios, nem como protecção disfarçada às actividades produtivas de um ou mais desses territórios em prejuízo dos restantes.
 
-###### Art. 4.º As mercadorias de origem nacional para as quais, com fundamento no disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente diploma, se mantenham ou introduzam, num dado território, restrições quantitativas à importação de ou à exportação para outros territórios deverão constar de listas a publicar no Diário do Governo e no Boletim Oficial das províncias ultramarinas.
+Art. 4.º As mercadorias de origem nacional para as quais, com fundamento no disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente diploma, se mantenham ou introduzam, num dado território, restrições quantitativas à importação de ou à exportação para outros territórios deverão constar de listas a publicar no Diário do Governo e no Boletim Oficial das províncias ultramarinas.
 
 § 1.º Das listas a publicar nos termos do disposto no corpo do presente artigo deverá constar, a respeito de cada mercadoria, uma breve descrição sobre a natureza das restrições que correspondem a essa mercadoria e sobre as razões em que tais restrições se fundamentam.
 
@@ -132,7 +145,7 @@ g) Indispensáveis para garantir a estabilidade do abastecimento de produtos ali
 
 § 3.º As modificações nas listas a que se refere o presente artigo poderão ser decididas, depois de ouvido o organismo a que se refere o artigo 55.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), por despacho do Secretário de Estado do Comércio ou por despacho conjunto do Secretário de Estado do Comércio e do Ministro ou Secretário de Estado que tiver proposto a modificação, no continente e ilhas adjacentes, ou por despacho dos governadores-gerais ou governadores, nas províncias ultramarinas.
 
-###### Art. 5.º Salvo o disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente decreto-lei, são eliminadas, a partir de 15 de Agosto de 1962, todas as restrições quantitativas à importação no continente e ilhas adjacentes de mercadorias originárias das províncias ultramarinas, com excepção das que se referem às mercadorias seguintes:
+Art. 5.º Salvo o disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente decreto-lei, são eliminadas, a partir de 15 de Agosto de 1962, todas as restrições quantitativas à importação no continente e ilhas adjacentes de mercadorias originárias das províncias ultramarinas, com excepção das que se referem às mercadorias seguintes:
 
 a) Açúcar, só nas ilhas adjacentes;
 
@@ -168,9 +181,9 @@ d) Amendoim (mancarra) produzido na Guiné: a totalidade da sua produção.
 
 § 3.º O Governo determinará, até 31 de Dezembro de 1962, a promulgação das mais importantes medidas de harmonização fiscal relativas a importação no continente e ilhas adjacentes de tabaco manufacturado de origem ultramarina, de modo que depois dessa data sejam eliminadas as restrições quantitativas introduzidas nos termos da alínea f) do corpo do presente artigo.
 
-###### Art. 6.º Salvo o disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente decreto-lei, são eliminadas, a partir de 15 de Agosto de 1962, todas as restrições quantitativas à exportação de mercadorias de origem nacional saídas do continente e ilhas adjacentes com destino às províncias ultramarinas.
+Art. 6.º Salvo o disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente decreto-lei, são eliminadas, a partir de 15 de Agosto de 1962, todas as restrições quantitativas à exportação de mercadorias de origem nacional saídas do continente e ilhas adjacentes com destino às províncias ultramarinas.
 
-###### Art. 7.º Salvo o disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente decreto-lei, são eliminadas, a partir de 15 de Agosto de 1962, todas as restrições quantitativas à importação existentes em cada uma das províncias ultramarinas relativamente a mercadorias originárias dos restantes territórios nacionais, com excepção das que se referem às mercadorias seguintes:
+Art. 7.º Salvo o disposto no artigo 23.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e no artigo 2.º do presente decreto-lei, são eliminadas, a partir de 15 de Agosto de 1962, todas as restrições quantitativas à importação existentes em cada uma das províncias ultramarinas relativamente a mercadorias originárias dos restantes territórios nacionais, com excepção das que se referem às mercadorias seguintes:
 
 I) Em Angola:
 
@@ -224,9 +237,9 @@ b) Margarina e gorduras do tipo ghee:
 
 § 3.º O Governo promoverá, até 31 de Dezembro de 1963, o estudo a que se refere o § 2.º do artigo 5.º do presente decreto-lei relativamente às mercadorias que são objecto de restrições quantitativas, nos termos deste artigo.
 
-###### Art. 8.º Tendo em atenção o condicionalismo específico em que se desenvolve a produção e comercialização de algumas matérias-primas nas províncias ultramarinas, poderão ser mantidas as restrições quantitativas à exportação actualmente existentes em cada uma das referidas províncias até 31 de Dezembro de 1963.
+Art. 8.º Tendo em atenção o condicionalismo específico em que se desenvolve a produção e comercialização de algumas matérias-primas nas províncias ultramarinas, poderão ser mantidas as restrições quantitativas à exportação actualmente existentes em cada uma das referidas províncias até 31 de Dezembro de 1963.
 
-**Publique-se e cumpra-se com nele se contém.**
+Publique-se e cumpra-se com nele se contém.
 
 Paços do Governo da República, 14 de Agosto do 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Samuel Rodrigues Sanches.
 

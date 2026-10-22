@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45735-1964-576566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc9dc700faf0532a64df601fb629e57f402d0a959948d684bcf58736353a275
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 125d2247e9154c4ca4cc3623254cc12a38ddb7892b4829721565535af143637d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Campo de Instrução Militar de Santa Margarida
+- Especialidade Militar
+- Extinção de Serviços
+- Forças Armadas
+- Gestão de Recursos Humanos
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:247269:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:15Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +102,14 @@ Considerando finalmente que a reorganização territorial do Exército, em estud
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É eliminado das forças eventualmente constituídas, criadas pelo artigo 1.º do [Decreto-Lei n.º 40394](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40394-1955-247269), de 23 de Novembro de 1955, o grupo divisionário de carros de combate (G. D. C. C.) instalado na campo de instrução militar de Santa Margarida.
+Artigo 1.º É eliminado das forças eventualmente constituídas, criadas pelo artigo 1.º do [Decreto-Lei n.º 40394](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40394-1955-247269), de 23 de Novembro de 1955, o grupo divisionário de carros de combate (G. D. C. C.) instalado na campo de instrução militar de Santa Margarida.
 
-###### Art. 2.º O material, pessoal e instalações do grupo divisionário de carros de combate (G. D. C. C.), a que se refere o artigo 1.º, passam a fazer parte integrante de um regimento de cavalaria (carros de combate), a criar mediante portaria do Ministro do Exército e para o qual são transferidos os encargos resultantes dos compromissos internacionais assumidos pelo País e atribuídos àquele grupo de carros de combate.
+Art. 2.º O material, pessoal e instalações do grupo divisionário de carros de combate (G. D. C. C.), a que se refere o artigo 1.º, passam a fazer parte integrante de um regimento de cavalaria (carros de combate), a criar mediante portaria do Ministro do Exército e para o qual são transferidos os encargos resultantes dos compromissos internacionais assumidos pelo País e atribuídos àquele grupo de carros de combate.
 
-###### Art. 3.º As dotações orçamentais de que actualmente dispõe o grupo divisionário de carros de combate serão incluídas nas correspondentes rubricas do capítulo 8.º do orçamento ordinário do Ministério do Exército.
+Art. 3.º As dotações orçamentais de que actualmente dispõe o grupo divisionário de carros de combate serão incluídas nas correspondentes rubricas do capítulo 8.º do orçamento ordinário do Ministério do Exército.
 
-###### Art. 4.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 40394](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40394-1955-247269), de 23 de Novembro de 1955, na parte respeitante ao grupo divisionário de carros de combate, logo que seja criado pelo Ministro do Exército o regimento de cavalaria a que se refere o artigo 2.º
+Art. 4.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 40394](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40394-1955-247269), de 23 de Novembro de 1955, na parte respeitante ao grupo divisionário de carros de combate, logo que seja criado pelo Ministro do Exército o regimento de cavalaria a que se refere o artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45066-1963-627451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 561d1a78bad5127f44138489cf79f7082056e087ff540c943df838fc42753e77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbac5be2384dfd197dc8fa548e5494fd9ab0e93057e7fcad90bda35a36886f1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bruxelas
+- Convenção
+- Importação
+- Importação de Tecnologia
+- Importação Temporária
+- Material Eléctrico e Electrónico
+- Material Profissional
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:16Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +93,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção relativa à importação temporária de material profissional, assinada em Bruxelas em 15 de Maio do corrente ano, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção relativa à importação temporária de material profissional, assinada em Bruxelas em 15 de Maio do corrente ano, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -683,7 +691,7 @@ Não será admitida qualquer reserva à presente Convenção.
 
 ###### ARTIGO 21.º
 
-**O secretário-geral do Conselho notificará todas as Partes Contratantes, assim como os outros Estados signatários ou aderentes, o secretário-geral das Nações Unidas, as Partes Contratantes do G. A. T. T. e a U. N. E. S. C. O.**
+O secretário-geral do Conselho notificará todas as Partes Contratantes, assim como os outros Estados signatários ou aderentes, o secretário-geral das Nações Unidas, as Partes Contratantes do G. A. T. T. e a U. N. E. S. C. O.
 
 a) Das assinaturas, ratificações, adesões e declarações visadas no artigo 15.º;
 
@@ -879,6 +887,6 @@ G) Material necessário aos conferencistas para ilustrar a sua exposição.
 
 H) Veículos concebidos ou especialmente adaptados para os fins acima mencionados, tais como postos ambulantes de fiscalização, veículos-oficinas e veículos-laboratórios.
 
-**O secretário-geral do Conselho de Cooperação Aduaneira certifica que a presente cópia está conforme com o texto original, depositado junto dos arquivos do Conselho de Cooperação Aduaneira.**
+O secretário-geral do Conselho de Cooperação Aduaneira certifica que a presente cópia está conforme com o texto original, depositado junto dos arquivos do Conselho de Cooperação Aduaneira.
 
 Bruxelas, 9 de Agosto de 1961. - G. Annez de Taboada, Secretário-Geral.

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/30-1972-398353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc13c5cf654ee2ed910e6dd817ddf3b96f32924da895b18a25bbc9660fbce890
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cd56f5c1a6283147f40824e5eff7863327b99ecbd143b42029e6ab26f615e94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:10Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +99,13 @@ Ouvido o Conselho Ultramarino, tendo em vista o disposto no § 3.º do artigo 13
 
 Usando da faculdade conferida pelo § 2.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os conselhos de administração dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola e Moçambique têm competência para autorizar despesas com obras ou aquisições de material até 1000000$00, podendo igualmente dispensar as formalidades de concurso público e a celebração de contrato escrito quando as importâncias a despender não excedam metade daquele valor.
+Artigo 1.º Os conselhos de administração dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola e Moçambique têm competência para autorizar despesas com obras ou aquisições de material até 1000000$00, podendo igualmente dispensar as formalidades de concurso público e a celebração de contrato escrito quando as importâncias a despender não excedam metade daquele valor.
 
-###### Art. 2.º Ficam os mesmos Serviços autorizados, sempre que se mostre necessário e conveniente, a adquirir directamente aos fabricantes qualificados os sobresselentes e acessórios destinados ao seu equipamento especializado, segundo normas a estabelecer pelos respectivos conselhos de administração e aprovadas pelos governadores-gerais, mantendo-se àqueles conselhos a competência de 1000000$00 para autorização destas despesas.
+Art. 2.º Ficam os mesmos Serviços autorizados, sempre que se mostre necessário e conveniente, a adquirir directamente aos fabricantes qualificados os sobresselentes e acessórios destinados ao seu equipamento especializado, segundo normas a estabelecer pelos respectivos conselhos de administração e aprovadas pelos governadores-gerais, mantendo-se àqueles conselhos a competência de 1000000$00 para autorização destas despesas.
 
-###### Art. 3.º Dentro do limite estabelecido pelo artigo 1.º deste diploma, podem os conselhos de administração, com a homologação do governador-geral, atribuir aos directores dos Serviços e aos responsáveis pelos diferentes departamentos dos mesmos Serviços, até ao nível de chefe de serviço, inclusive, segundo escalonamento adequado, as competências que considerarem necessárias para o bom andamento dos Serviços.
+Art. 3.º Dentro do limite estabelecido pelo artigo 1.º deste diploma, podem os conselhos de administração, com a homologação do governador-geral, atribuir aos directores dos Serviços e aos responsáveis pelos diferentes departamentos dos mesmos Serviços, até ao nível de chefe de serviço, inclusive, segundo escalonamento adequado, as competências que considerarem necessárias para o bom andamento dos Serviços.
 
-###### Art. 4.º - 1. O conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola tem a seguinte composição:
+Art. 4.º - 1. O conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola tem a seguinte composição:
 
 a) O governador-geral, que preside;
 
@@ -135,14 +135,14 @@ h) Um cidadão, não funcionário público, nomeado pelo governador-geral, de en
 
 7. As deliberações do conselho só são executórias quando tenham sido aprovadas, pelo menos, por maioria dos seus membros, prevalecendo o voto do presidente em caso de empate.
 
-###### Art. 5.º O disposto no artigo anterior revoga os artigos 10.º e 11.º da Portaria Ministerial n.º 29, de 12 de Dezembro de 1942.
+Art. 5.º O disposto no artigo anterior revoga os artigos 10.º e 11.º da Portaria Ministerial n.º 29, de 12 de Dezembro de 1942.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Janeiro de 1972.**
+Promulgado em 20 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

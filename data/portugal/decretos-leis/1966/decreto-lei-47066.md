@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,244 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47066-1966-474922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 793395d21c4b1037039886d275de01f5ef3d42b1f846e7e7867c24a11867a101
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9308d28211d93525c43c5963a561047e0a7658db73a1471bf03a35b699156cb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Álcool
+- Código do Imposto de Transacções
+- Contribuições e Impostos
+- Imposto de Transacções
+- Imposto do SELO
+- Imposto sobre Consumos Supérfluos ou de Luxo
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:605547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474095:por
+  label: "Alterados os arts. 13º e 15º e o § 5.º do art. 5º e os arts. 41º, 75º e 80º do Código do Imposto de Transacções,\
+    \ aprovado pelo presente diploma, pelo DEC LEI.47126.01.08.1966.MF, DG.IS [177] de 01.08.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47126-1966-474095
+  date: '1966-08-01'
+- type: amended_by
+  target: pt:dre:477362:por
+  label: "Alterada a al. b) do § 2.º do art. 1.º, o art. 27.º e seu § 3.º e a verba do n.º 23 da lista A anexa ao Código do\
+    \ Imposto de Transacções, aprovado pelo presente diploma pelo DEC LEI.47336.24.11.1966.MF, DG.IS [273] de 24.11.1966\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47336-1966-477362
+  date: '1966-11-24'
+- type: amended_by
+  target: pt:dre:262782:por
+  label: "Dada nova redacção ao nº 1 do art. 6º do Código pelo DEC LEI.48747.06.12.1968.MF, DG.IS [287] de 06.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48747-1968-262782
+  date: '1968-12-06'
+- type: amended_by
+  target: pt:dre:142369:por
+  label: "Alterados os arts. 3.º, 8.º e 49.º, as verbas n.os 30 e 36 da lista A anexa, a verba n.º 4 da lista B anexa, aditada\
+    \ a verba n.º 6-A à lista B anexa, substituído o modelo da declaração a que se refere o § 2.º do art. 5.º do Código do\
+    \ Imposto de Transacções aprovado pelo presente diploma, pelo DEC LEI.237/70.25.05.1970.MF, DG.IS [122] de 25.05.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1970-142369
+  date: '1970-05-25'
+- type: amended_by
+  target: pt:dre:689182:por
+  label: "Alterados os artigos 7.º e 22.º, as verbas n.ºs 6,13 e 30 da lista A anexa, as verbas n.ºs 1, 2, 3, 4 e 10 da lista\
+    \ B anexa, aditadas as verbas n.ºs 1-A, 3-A, 3-B e 4-A à lista B anexa e criada a lista C de mercadorias anexa ao Código\
+    \ do Imposto de Transacções, plo DEC LEI.653/70.28.12.1970.MF, DG.IS [298]Supl de 28.12.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/653-1970-689182
+  date: '1970-12-28'
+- type: amended_by
+  target: pt:dre:411132:por
+  label: "Alterada a alínea c) do artigo 7.º do Código pelo DEC LEI.697/73.27.12.1973.MF, DG.IS [299] de 27.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/697-1973-411132
+  date: '1973-12-27'
+- type: amended_by
+  target: pt:dre:401755:por
+  label: "Alterado o art. 22º (com a redacção conferida pelo Dec Lei 653/70 de 28-Dez) e inseridas novas listas A, B e C ao\
+    \ Código do Imposto de Transacções pelo DEC LEI.375/74.20.08.1974.MF, DG.IS [193-Supl] de 20.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1974-401755
+  date: '1974-08-20'
+- type: amended_by
+  target: pt:dre:461400:por
+  label: "Alterado o art. 22º, e substituídas as listas A, B e C, todos do Código do Imposto de Transacções aprovado pelo\
+    \ presente diploma, com a última redacção conferida pelo Dec Lei 375/74 de 20-Ago, pelo DEC LEI.756/74.30.12.1974.MF,\
+    \ DG.IS [302] de 30.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/756-1974-461400
+  date: '1974-12-30'
+- type: amended_by
+  target: pt:dre:507036:por
+  label: "Alterados os arts. 3º e 22º do Código do Imposto de Transacções aprovado no presente diploma, com a última redacção\
+    \ conferida no Dec Lei 756/74 de 30-Dez, pelo DEC LEI.95/76.30.01.1976.MF, DG.IS [25] de 30.01.1976, que substituiu as\
+    \ listas A, B e C anexas ao presente Código pelas listas I, II, III e IV, que estão anexas àquele diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1976-507036
+  date: '1976-01-30'
+- type: amended_by
+  target: pt:dre:431042:por
+  label: "Alterado o artigo 22.º, aditada a verba n.º 38, alteradas as verbas n.ºs 15, 19, 22, 37 e a alínea m) da verba n.º\
+    \ 30 à lista I, e aditadas as verbas n.ºs 8-A, 9-A e 9-B, alteradas as n.ºs 2, 7, 8, 9, 10 e eliminada a n.º 5 do Código,\
+    \ pelo DEC LEI.480/76.18.06.1976.MF, DR.IS [141] de 18.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/480-1976-431042
+  date: '1976-06-18'
+- type: amended_by
+  target: pt:dre:390471:por
+  label: "Alterada a al. c) do art. 22º do Código do Imposto de Transacções, pelo DEC LEI.952/76.31.12.1976.MF, DR.IS [303-10ºSupl]\
+    \ de 31.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/952-1976-390471
+  date: '1976-12-31'
+- type: amended_by
+  target: pt:dre:509017:por
+  label: "Alterado o § 3º do art. 3º e substituídas as listas I, II, III e IV do Código do Imposto de Transacções, na última\
+    \ versão aprovada pelo Dec Lei 95/76 de 30-Jan, pelo DEC LEI.75-G/77.28.02.1977.MF, DR.IS [49-Supl] de 28.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-g-1977-509017
+  date: '1977-02-28'
+- type: amended_by
+  target: pt:dre:236682:por
+  label: "Aditada a verba nº 8-A e alteradas as verbas nºs. 30 e 38º da lista I; aditadas as verbas nºs 1-A, 3-A e 4-A e alteradas\
+    \ as verbas nºs. 3, 6 e 7 da lista II; aditadas as verbas nºs. 1-A e 32-A, alteradas as verbas nºs. 1, 2, 8, 16, 29 e\
+    \ 32 e eliminadas as verbas nºs. 6 e 11 da lista III e alteradas as verbas nºs. 19 e 22 e eliminadas as verbas nºs. 3\
+    \ e 14 da lV (na redacção do Dec Lei 75-G/77, de 28-Fev) do Código do Imposto de Transacções aprovado pelo presente diploma,\
+    \ pelo DEC LEI.427-A/77.14.10.1977.MF, DR.IS [238-2ºSupl] de 14.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-a-1977-236682
+  date: '1977-10-14'
+- type: amended_by
+  target: pt:dre:426137:por
+  label: Alteradas a al. g) do art. 22º do Código do Imposto de Transacções, assim como as listas I, II, III e IV que lhe
+    estão anexas, substituídas pelo Dec Lei 75-G/77 de 28-Fev e com a redação dada pelo Dec Lei 427-A/77 de 14-Out, pelo DEC
+    LEI.142/78.12.06.1978.MFP, DR.IS [133]2º Supl de 12.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1978-426137
+  date: '1978-06-12'
+- type: amended_by
+  target: pt:dre:256638:por
+  label: "Alterados os arts. 1.º, 3.º a 6.º, 8.º, 11.º a 19.º, 22.º, 25.º a 27.º, 30.º, 33.º, 35.º, 36.º, 38.º a 41.º, 45.º,\
+    \ 48.º a 51.º, 54.º a 58.º, 60.º, 66.º, 70.º, 73.º, 75.º, 76.º, 80.º, 84.º, 102.º, 103.º, 105.º, 107.º a 116.º, 118.º,\
+    \ 122.º, 126.º, 127.º e 129.º, alteradas as listas I, II, III e IV anexas, aditados os arts. 5.º-A, 26.º-A, 41.º-A, 79.º-A,\
+    \ 93.º-A, 116.º-A e 127.º-A, revogado o § 1.º do art. 65.º e o art. 85.º, e mantido em vigor, nos termos do art. 11º,\
+    \ o § 2.º do art. 122.º do Código do Imposto de Transacções, aprovado pelo presente diploma, pelo DEC LEI.374-B/79.10.09.1979.MF,\
+    \ DR.IS [209-Supl] de 10.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-b-1979-256638
+  date: '1979-09-10'
+- type: amended_by
+  target: pt:dre:149261:por
+  label: "Alterados os artigos 3.º, 6.º, 7.º, 8.º, 22.º, 27.º, 49.º, 51.º, 58.º, 59.º, 80.º, aditados os artigos 31.º-A ,\
+    \ 44.º-A, revogado o artigo 78.º e aprovadas as novas listas I, II, III e IV anexas ao Código, pelo DEC LEI.140-A/81.01.06.1981.MFP,\
+    \ DR.IS [125]2ºSupl de 01.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-1981-149261
+  date: '1981-06-01'
+- type: amended_by
+  target: pt:dre:397892:por
+  label: "Dada nova redacção aos arts. 3.º, 5.º-A, 49.º, 63.º, 65.º, 84.º, 103.º, eliminada a al. a) do art. 7.º, aditados\
+    \ os arts. 7.º-A, 7.º-B, 57.º-A; aditadas as verbas n.ºs 14-A, 26-A, 26-B e alteradas as verbas n.ºs 2, 8, 13, 19, 30,\
+    \ 33, 34, 36, 38 da lista I; eliminadas as verbas n.º 6, 8, 12, 14, 18, 19, 22, 33, 34 e 36, aditadas as verbas n.º 4-A,\
+    \ 9-A e alteradas as verbas n.º 1, 5, 17, 21, 26, 27, 31, 32, 35 e 39 da lista II; eliminadas as verbas n.º 2, 6, 11,\
+    \ 12, 19, e alteradas as verbas n.º 5, 10, 14 e 25 da lista III anexa ao Código do Imposto de Transacções, aprovado pelo\
+    \ presente diploma, pelo DEC LEI.315/82.10.08.1982.MFP, DR.IS [183] de 10.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1982-397892
+  date: '1982-08-10'
+- type: amended_by
+  target: pt:dre:451451:por
+  label: Alterado o art. 6.º do Código pelo(a) Decreto-Lei n.º 212/83 - Diário da República n.º 119/1983, Série I de 1983-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1983-451451
+  date: '1983-05-24'
+- type: amended_by
+  target: pt:dre:654518:por
+  label: "Alterados vários artigos pelo DEC LEI.112/84.1984.04.04.MFP DR.IS [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-1984-654518
+  date: '1984-04-04'
+- type: amended_by
+  target: pt:dre:220773:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, doas seguintes normas: Corpo do art. 130.º na parte\
+    \ em que determina a suspensão dos direitos emergentes da inscrição dos técnicos de contas, parágrafo único do art. 130.º\
+    \ e art. 131.º todos do Código do Imposto de Transacções, aprovado pelo presente diploma, pelo AC.282/86.21.10.1986.TCS,\
+    \ DR.IS [260] de 11.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/282-1986-220773
+  date: '1986-10-21'
+- type: cites
+  target: pt:dre:160170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397337:por
+  label: "Revogada a alínea d) do artigo 7.º do Código, pelo DEC LEI.303/82.31.07.1982.MFP, DR.IS [175] de 31.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1982-397337
+  date: '1982-07-31'
+- type: repealed_by
+  target: pt:dre:605547:por
+  label: "Revogado o Código do Imposto de Transacções, pelo DEC LEI.394-B/84.26.12.1984.MFP, DR.IS [297-Supl] de 26.12.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-b-1984-605547
+  date: '1984-12-26'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:24Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +297,11 @@ Tendo em vista a autorização concedida pelo artigo 5.º da [Lei n.º 2128](htt
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Imposto de Transacções, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código do Imposto de Transacções, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes no dia 1 de Agosto do ano corrente.
+Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes no dia 1 de Agosto do ano corrente.
 
-###### Art. 3.º Consideram-se abolidos a partir da data da entrada em vigor do código:
+Art. 3.º Consideram-se abolidos a partir da data da entrada em vigor do código:
 
 a) O imposto sobre consumos supérfluos ou de luxo;
 
@@ -113,11 +317,11 @@ e) O imposto do selo sobre aguardente ou álcool provenientes da destilação de
 
 § 2.º As transacções de cartas de jogar e de produtos de perfumaria e de toucador, em relação aos quais já tenham sido pagos os impostos referidos nas alíneas c) e d) deste artigo, ficam igualmente dispensadas do imposto devido nos termos do código.
 
-###### Art. 4.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
+Art. 4.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
 
-###### Art. 5.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessários à execução dos respectivos serviços.
+Art. 5.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessários à execução dos respectivos serviços.
 
-###### Art. 6.º Não ficam sujeitas a imposto as transacções de mercadorias que venham a realizar-se depois da data da entrada em vigor do código, se resultarem de contratos escritos, considerados perfeitos em data anterior à do presente decreto-lei, salvo se por cláusula contratual estiver prevista a alteração dos preços inicialmente acordados, quer permitindo que lhes seja adicionado o imposto de transacções devido, quer assumindo alguma das partes por qualquer forma a responsabilidade do pagamento de encargos não especialmente mencionados.
+Art. 6.º Não ficam sujeitas a imposto as transacções de mercadorias que venham a realizar-se depois da data da entrada em vigor do código, se resultarem de contratos escritos, considerados perfeitos em data anterior à do presente decreto-lei, salvo se por cláusula contratual estiver prevista a alteração dos preços inicialmente acordados, quer permitindo que lhes seja adicionado o imposto de transacções devido, quer assumindo alguma das partes por qualquer forma a responsabilidade do pagamento de encargos não especialmente mencionados.
 
 § 1.º Para os fins previstos neste artigo, apenas serão considerados perfeitos os contratos realizados com os serviços do Estado, incluindo os dotados de autonomia administrativa ou financeira, e com os das autarquias locais, suas federações e uniões, com as pessoas colectivas de utilidade pública administrativa e ainda os que constem de documento autêntico ou autenticado em data anterior à da publicação do presente diploma, bem como os que constem de documento particular cuja data esteja fixada pela de qualquer dos factos previstos no artigo 541.º do Código de Processo Civil ou seja aceite como justificada pela Direcção-Geral das Contribuições e Impostos.
 
@@ -127,7 +331,7 @@ e) O imposto do selo sobre aguardente ou álcool provenientes da destilação de
 
 § 4.º Poderá ainda o Ministro das Finanças dispensar o pagamento do imposto devido pelas transacções que vierem a realizar-se em cumprimento de contratos com o Estado ou os serviços a que se refere o parágrafo anterior, cuja negociação esteja pendente à data da publicação deste diploma e que sejam reconhecidos de elevado interesse nacional.
 
-###### Art. 7.º Não se consideram transaccionadas as mercadorias abrangidas nas alíneas a) e b) do § 2.º do artigo 1.º do código quando os actos da entrega à consignação e de utilização de taras ou embalagens recuperáveis tenham sido praticados antes da entrada em vigor do referido diploma, desde que na mesma data se verifiquem as seguintes condições:
+Art. 7.º Não se consideram transaccionadas as mercadorias abrangidas nas alíneas a) e b) do § 2.º do artigo 1.º do código quando os actos da entrega à consignação e de utilização de taras ou embalagens recuperáveis tenham sido praticados antes da entrada em vigor do referido diploma, desde que na mesma data se verifiquem as seguintes condições:
 
 1.ª Não ter sido debitado ou pago o seu preço.
 
@@ -135,7 +339,7 @@ e) O imposto do selo sobre aguardente ou álcool provenientes da destilação de
 
 § único. Só nos casos em que o débito, o pagamento ou a falta de devolução decorra depois da vigência do código será aplicável o regime previsto na alínea e) do § único do artigo 4.º do mesmo diploma.
 
-###### Art. 8.º Consideram-se apresentadas em tempo as declarações do modelo n.º 1 exigidas pelo artigo 2.º do [Decreto-Lei n.º 45760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45760-1964-577324), de 15 de Junho de 1964, quando tenham sido entregues nos serviços até à data da entrada em vigor do código.
+Art. 8.º Consideram-se apresentadas em tempo as declarações do modelo n.º 1 exigidas pelo artigo 2.º do [Decreto-Lei n.º 45760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45760-1964-577324), de 15 de Junho de 1964, quando tenham sido entregues nos serviços até à data da entrada em vigor do código.
 
 § 1.º Ficam desobrigadas do cumprimento do determinado na indicada disposição as pessoas singulares ou colectivas que até à data do presente decreto-lei não tiverem apresentado as declarações do modelo n.º 1 ali referidas, se, nos termos do disposto no código, não estiverem sujeitas a registo.
 
@@ -143,17 +347,17 @@ e) O imposto do selo sobre aguardente ou álcool provenientes da destilação de
 
 As pessoas singulares ou colectivas abrangidas pelo disposto neste parágrafo apresentarão as declarações modelo n.º 1 até esta última data.
 
-###### Art. 9.º A Direcção-Geral das Contribuições e Impostos fica dispensada de efectuar a inscrição, no registo referido no artigo 48.º do código, das pessoas singulares ou colectivas que, tendo apresentado a declaração do modelo n.º 1 exigida pelo artigo 2.º do [Decreto-Lei n.º 45760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45760-1964-577324), venham a ficar desobrigadas do registo por se não encontrarem nas condições estabelecidas no mesmo código.
+Art. 9.º A Direcção-Geral das Contribuições e Impostos fica dispensada de efectuar a inscrição, no registo referido no artigo 48.º do código, das pessoas singulares ou colectivas que, tendo apresentado a declaração do modelo n.º 1 exigida pelo artigo 2.º do [Decreto-Lei n.º 45760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45760-1964-577324), venham a ficar desobrigadas do registo por se não encontrarem nas condições estabelecidas no mesmo código.
 
 § único. Sem prejuízo do disposto no artigo seguinte, serão canceladas oficiosamente as inscrições já efectuadas no competente registo quando se verifiquem as circunstâncias previstas na parte final do corpo deste artigo.
 
-###### Art. 10.º As pessoas singulares ou colectivas que, tendo cumprido o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 45760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45760-1964-577324), sejam já possuidoras de certificado de registo provisório ou definitivo, mas não continuem obrigadas a registo nos termos do código, poderão requerer ao Ministro das Finanças, no prazo de quinze dias, a contar da data do presente decreto-lei, a manutenção da sua inscrição, com dispensa da junção das declarações exigidas no código.
+Art. 10.º As pessoas singulares ou colectivas que, tendo cumprido o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 45760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45760-1964-577324), sejam já possuidoras de certificado de registo provisório ou definitivo, mas não continuem obrigadas a registo nos termos do código, poderão requerer ao Ministro das Finanças, no prazo de quinze dias, a contar da data do presente decreto-lei, a manutenção da sua inscrição, com dispensa da junção das declarações exigidas no código.
 
-###### Art. 11.º Sem prejuízo do disposto nos artigos 54.º do Código do Imposto Profissional, 110.º e 115.º do Código da Contribuição Industrial, 268.º e 372.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, 61.º do Código do Imposto de Capitais e 56.º, 105.º e 142.º do Código do Imposto Complementar, os resultados dos exames às escritas efectuados nos termos do § 2.º do artigo 45.º do código aprovado por este decreto-lei poderão dispensar a realização dos que porventura se mostrassem necessários no âmbito de cada um daqueles diplomas, quando, por despacho do Ministro das Finanças, for reconhecida a sua suficiência.
+Art. 11.º Sem prejuízo do disposto nos artigos 54.º do Código do Imposto Profissional, 110.º e 115.º do Código da Contribuição Industrial, 268.º e 372.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, 61.º do Código do Imposto de Capitais e 56.º, 105.º e 142.º do Código do Imposto Complementar, os resultados dos exames às escritas efectuados nos termos do § 2.º do artigo 45.º do código aprovado por este decreto-lei poderão dispensar a realização dos que porventura se mostrassem necessários no âmbito de cada um daqueles diplomas, quando, por despacho do Ministro das Finanças, for reconhecida a sua suficiência.
 
-###### Art. 12.º O regime previsto nos artigos 2.º, 62.º e 63.º do código aproveita apenas às mercadorias que tiverem sido adquiridas depois da entrada em vigor do mesmo diploma; quanto às que tiverem sido objecto de transacções realizadas em datas anteriores deverão ser observadas as disposições dos artigos 13.º e 15.º do presente decreto-lei.
+Art. 12.º O regime previsto nos artigos 2.º, 62.º e 63.º do código aproveita apenas às mercadorias que tiverem sido adquiridas depois da entrada em vigor do mesmo diploma; quanto às que tiverem sido objecto de transacções realizadas em datas anteriores deverão ser observadas as disposições dos artigos 13.º e 15.º do presente decreto-lei.
 
-###### Art. 13.º Os produtores ou grossistas registados ou sujeitos a registo ficam obrigados a apresentar até 31 de Agosto do corrente ano, nas repartições de finanças da situação do estabelecimento principal e das filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes, ou na do domicílio, quando não tenham qualquer estabelecimento, relação das mercadorias em existência em cada um dos referidos locais, reportada à data da entrada em vigor do código.
+Art. 13.º Os produtores ou grossistas registados ou sujeitos a registo ficam obrigados a apresentar até 31 de Agosto do corrente ano, nas repartições de finanças da situação do estabelecimento principal e das filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes, ou na do domicílio, quando não tenham qualquer estabelecimento, relação das mercadorias em existência em cada um dos referidos locais, reportada à data da entrada em vigor do código.
 
 § 1.º A relação referida no corpo deste artigo deverá ser apresentada em duplicado, que será devolvido nos termos do artigo 132.º do código, e dela terão de constar:
 
@@ -169,21 +373,21 @@ As mercadorias por cuja transacção já tenha sido pago imposto nas condições
 
 § 3.º No livro do modelo n.º 7, anexo ao código, será reservada uma linha para escrituração, por forma adequada, nas colunas (1), (3), (7) e (8), do valor total apurado na relação das mercadorias em existência. Este lançamento deverá constituir o primeiro registo do referido livro.
 
-###### Art. 14.º As pessoas singulares ou colectivas que, nos termos das alíneas b) e c) ou dos §§ 1.º e 2.º do artigo 49.º do código, só depois da sua entrada em vigor fiquem obrigadas a registo ou o tenham obtido, deverão dar cumprimento ao disposto nos artigos 13.º e 15.º deste decreto-lei.
+Art. 14.º As pessoas singulares ou colectivas que, nos termos das alíneas b) e c) ou dos §§ 1.º e 2.º do artigo 49.º do código, só depois da sua entrada em vigor fiquem obrigadas a registo ou o tenham obtido, deverão dar cumprimento ao disposto nos artigos 13.º e 15.º deste decreto-lei.
 
 § único. A relação das mercadorias em existência nos locais referidos no artigo 13.º, na data da entrada em vigor do código, compreenderá apenas as que ainda se encontrem em armazém no dia em que as pessoas tiverem ficado obrigadas a registo nos termos do § 1.º do artigo 49.º do mesmo diploma ou naquele em que começar a produzir efeitos a inscrição facultada pelo § 2.º do referido artigo. A relação deverá ser apresentada no prazo estabelecido no § 2.º do artigo 63.º do código.
 
-###### Art. 15.º Será organizado um verbete do modelo n.º 10, anexo ao código, para escrituração de todas as saídas das mercadorias que, nos termos dos artigos anteriores, constarem da relação das mercadorias em existência.
+Art. 15.º Será organizado um verbete do modelo n.º 10, anexo ao código, para escrituração de todas as saídas das mercadorias que, nos termos dos artigos anteriores, constarem da relação das mercadorias em existência.
 
 Na «Entrada» far-se-á apenas menção à relação referida no artigo 13.º, mas na «Saída» deverão ser feitas as necessárias referências a todas as facturas ou documentos equivalentes que a justifiquem, conforme as indicações constantes daquele verbete.
 
 § único. Se os produtores ou grossistas registados ou sujeitos a registo dispuserem de qualquer sistema de fiscalização permanente da existência de mercadorias, nas condições previstas no § 2.º do artigo 75.º do código, o verbete a que se refere o corpo do presente artigo poderá ser dispensado, desde que nas fichas de existências, além da posterior escrituração das saídas de mercadorias, sejam apurados os saldos em quantidades e valores à data da entrada em vigor do código ou àquela em que as pessoas tenham ficado obrigadas a registo ou ainda à data em que começar a produzir efeitos a inscrição facultativa, conforme o caso.
 
-###### Art. 16.º Enquanto não tiverem sido transaccionadas todas as mercadorias abrangidas pelo disposto nos artigos anteriores, os inventários organizados nos termos dos artigos 32.º, 33.º e 34.º do código deverão compreender igualmente as que nas datas ali previstas ainda se encontrarem em existência nos estabelecimentos ou em outras quaisquer instalações dos produtores ou grossistas registados.
+Art. 16.º Enquanto não tiverem sido transaccionadas todas as mercadorias abrangidas pelo disposto nos artigos anteriores, os inventários organizados nos termos dos artigos 32.º, 33.º e 34.º do código deverão compreender igualmente as que nas datas ali previstas ainda se encontrarem em existência nos estabelecimentos ou em outras quaisquer instalações dos produtores ou grossistas registados.
 
-###### Art. 17.º As infracções ao disposto nos artigos 13.º, 14.º e 15.º do presente decreto-lei serão punidas, tendo em atenção a sua qualificação e os factos delituosos que as integram, com as multas cominadas nos artigos 107.º, 109.º, 110.º, 112.º ou 118.º do código e segundo as normas estabelecidas no mesmo diploma.
+Art. 17.º As infracções ao disposto nos artigos 13.º, 14.º e 15.º do presente decreto-lei serão punidas, tendo em atenção a sua qualificação e os factos delituosos que as integram, com as multas cominadas nos artigos 107.º, 109.º, 110.º, 112.º ou 118.º do código e segundo as normas estabelecidas no mesmo diploma.
 
-###### Art. 18.º As estampilhas fiscais com a sobrecarga «Imposto de consumo» e as cintas especiais seladas referidas no § único do artigo 5.º e nas regras 1.ª e 4.ª do artigo 6.º do [Decreto-Lei n.º 44510](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44510-1962-163425) serão recolhidas, mediante o seu pagamento a dinheiro, pelas tesourarias da Fazenda Pública, até 31 de Agosto do corrente ano, desde que se encontrem em bom estado de conservação e não mostrem quaisquer sinais ou indícios susceptíveis de fundamentar a presunção de já terem sido usadas.
+Art. 18.º As estampilhas fiscais com a sobrecarga «Imposto de consumo» e as cintas especiais seladas referidas no § único do artigo 5.º e nas regras 1.ª e 4.ª do artigo 6.º do [Decreto-Lei n.º 44510](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44510-1962-163425) serão recolhidas, mediante o seu pagamento a dinheiro, pelas tesourarias da Fazenda Pública, até 31 de Agosto do corrente ano, desde que se encontrem em bom estado de conservação e não mostrem quaisquer sinais ou indícios susceptíveis de fundamentar a presunção de já terem sido usadas.
 
 § 1.º A devolução à Casa da Moeda será feita pelos tesoureiros da Fazenda Pública nos seguintes prazos:
 
@@ -199,7 +403,7 @@ b) Até 10 de Setembro do ano corrente, a das cintas seladas e a das estampilhas
 
 § 5.º Os exames referidos no § 2.º poderão ser efectuados por iniciativa da Casa da Moeda em relação às estampilhas fiscais e cintas seladas incluídas em devoluções realizadas pelas tesourarias da Fazenda Pública, procedendo-se seguidamente nos termos do parágrafo anterior, quando não se encontrarem nas condições previstas no corpo do presente artigo.
 
-###### Art. 19.º As estampilhas fiscais com a sobrecarga «Imposto de consumo» e as cintas especiais recolhidas nos termos do artigo anterior, mediante o seu pagamento a dinheiro, serão consideradas na conta de dinheiro da respectiva tesouraria da Fazenda Pública, como despesa efectiva do Estado, até ao dia da sua devolução à Casa da Moeda, data em que serão efectuadas as operações de débito nas contas dos livros dos modelos n.os 9 e 10, por meio de relações de débito do modelo n.º 3, processadas para o efeito.
+Art. 19.º As estampilhas fiscais com a sobrecarga «Imposto de consumo» e as cintas especiais recolhidas nos termos do artigo anterior, mediante o seu pagamento a dinheiro, serão consideradas na conta de dinheiro da respectiva tesouraria da Fazenda Pública, como despesa efectiva do Estado, até ao dia da sua devolução à Casa da Moeda, data em que serão efectuadas as operações de débito nas contas dos livros dos modelos n.os 9 e 10, por meio de relações de débito do modelo n.º 3, processadas para o efeito.
 
 A conta de dinheiro será regularizada, na mesma data, pelo processamento de recibo de operações de tesouraria (F. P. - Modelo n.º 60), a favor do tesoureiro da Fazenda Pública, por igual importância.
 
@@ -207,9 +411,9 @@ A conta de dinheiro será regularizada, na mesma data, pelo processamento de rec
 
 § 2.º No orçamento do Ministério das Finanças será inscrita a verba necessária para se escriturarem nas conta públicas, como despesa efectiva do Estado, as importâncias satisfeitas nos termos anteriormente estabelecidos, devendo a Direcção-Geral da Contabilidade Pública providenciar que seja levada a despesa orçamental a soma das importâncias satisfeitas, escriturando-se concorrente quantia na entrada da conta de operações de tesouraria mencionada no parágrafo anterior.
 
-###### Art. 20.º O levantamento de autos de notícia por infracções ao disposto no código cometidas durante o ano de 1966 depende de prévia autorização do director-geral das Contribuições e Impostos, que a concederá quando tenha havido culpa grave.
+Art. 20.º O levantamento de autos de notícia por infracções ao disposto no código cometidas durante o ano de 1966 depende de prévia autorização do director-geral das Contribuições e Impostos, que a concederá quando tenha havido culpa grave.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -333,7 +537,7 @@ Supõem-se prestados os esclarecimentos essenciais para se conhecer a estrutura 
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º O imposto de transacções incide sobre o valor das seguintes operações respeitantes a mercadorias, produzidas ou importadas no continente ou ilhas adjacentes:
+Artigo 1.º O imposto de transacções incide sobre o valor das seguintes operações respeitantes a mercadorias, produzidas ou importadas no continente ou ilhas adjacentes:
 
 a) A venda ou qualquer outra modalidade de alienação onerosa, realizada por produtores ou grossistas registados ou sujeitos a registo, salvo se o adquirente for um produtor ou grossista registado que declare, nos termos do artigo 64.º ou do artigo 65.º, destinar as mercadorias à produção, como matéria-prima, ou à venda por grosso;
 
@@ -357,9 +561,9 @@ c) As mercadorias destinadas a ser utilizadas como matéria-prima por produtores
 
 d) As mercadorias destinadas a ser vendidas por grosso, que não forem encontradas em existência nos estabelecimentos de grossistas, salvo se, nos termos da alínea a) deste parágrafo, tiverem sido entregues à consignação.
 
-###### Art. 2.º Não são sujeitas a imposto as transacções de mercadorias em existência para venda nos estabelecimentos de pessoas singulares ou colectivas que só depois da aquisição das mesmas mercadorias fiquem obrigadas a registo ou o tenham obtido.
+Art. 2.º Não são sujeitas a imposto as transacções de mercadorias em existência para venda nos estabelecimentos de pessoas singulares ou colectivas que só depois da aquisição das mesmas mercadorias fiquem obrigadas a registo ou o tenham obtido.
 
-###### Art. 3.º Ficam sujeitos a imposto:
+Art. 3.º Ficam sujeitos a imposto:
 
 a) Nas transacções referidas nas alíneas a), d) e e) do artigo 1.º, os produtores ou grossistas registados ou obrigados a registo que as realizarem;
 
@@ -371,7 +575,7 @@ c) Nas transacções referidas na alínea c) do mesmo artigo, as pessoas que fig
 
 § 2.º Consideram-se grossistas as pessoas singulares ou colectivas que habitualmente exerçam a actividade de venda por grosso ou atacado de mercadorias, para revenda, ou as actividades de importação ou de exportação.
 
-###### Art. 4.º O imposto é devido no momento em que forem realizadas as transacções previstas no artigo 1.º
+Art. 4.º O imposto é devido no momento em que forem realizadas as transacções previstas no artigo 1.º
 
 § único. As transacções consideram-se realizadas:
 
@@ -387,7 +591,7 @@ e) Nos casos de entrega de mercadorias à consignação ou de utilização de em
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 5.º Estão isentas de imposto as transacções de mercadorias incluídas na lista A, anexa a este código, e as que, além das aludidas mercadorias, tenham por objecto as respectivas embalagens não recuperáveis, desde que estas não sejam de valor superior ao razoável para o normal e eficiente acondicionamento das mercadorias que contenham.
+Art. 5.º Estão isentas de imposto as transacções de mercadorias incluídas na lista A, anexa a este código, e as que, além das aludidas mercadorias, tenham por objecto as respectivas embalagens não recuperáveis, desde que estas não sejam de valor superior ao razoável para o normal e eficiente acondicionamento das mercadorias que contenham.
 
 § 1.º Quando as embalagens forem de valor superior ao razoável para o normal e eficiente acondicionamento das mercadorias que contenham, as transacções não beneficiam de isenção, sendo-lhes aplicável o disposto no artigo 23.º
 
@@ -401,7 +605,7 @@ e) Nos casos de entrega de mercadorias à consignação ou de utilização de em
 
 § 6.º É aplicável às declarações de que tratam os parágrafos anteriores o disposto no artigo 66.º
 
-###### Art. 6.º Ficam também isentas de imposto:
+Art. 6.º Ficam também isentas de imposto:
 
 1.º As importações de mercadorias provenientes das províncias ultramarinas ou do estrangeiro, sempre que gozem de isenção do pagamento de direitos nos termos dos n.os 1.º e 6.º a 17.º do artigo 72.º e do seu § 1.º das instruções preliminares da pauta de importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, ou dos n.os 1), 2), 3), 6), 7), 8), 9), 12), 13), 14), 15), 17) e 18) do artigo 2.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, ou, ainda, da parte final do artigo 2.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960;
 
@@ -415,7 +619,7 @@ e) Nos casos de entrega de mercadorias à consignação ou de utilização de em
 
 § 2.º A isenção prevista no n.º 4.º deste artigo abrange apenas as transacções resultantes de actos de comércio e dela só beneficiarão as transacções cuja comercialidade seja suficientemente comprovada e que, nos correspondentes elementos de contabilização, fiquem documentadas com o duplicado da declaração de exportação do modelo n.º 2 ou n.º 2-A, conforme o caso, devidamente averbado nos termos estabelecidos nos artigos 85.º e 86.º
 
-###### Art. 7.º Ficam ainda isentas de imposto as transacções de mercadorias sujeitas a algum dos seguintes impostos:
+Art. 7.º Ficam ainda isentas de imposto as transacções de mercadorias sujeitas a algum dos seguintes impostos:
 
 a) Taxa de salvação nacional;
 
@@ -433,7 +637,7 @@ g) Imposto do selo sobre as especialidades farmacêuticas.
 
 ### CAPÍTULO III — Determinação da matéria colectável
 
-###### Art. 8.º O valor das transacções sujeitas a imposto será o preço ilíquido praticado à saída do armazém, local de produção, ou outros locais de venda, sem consideração das deduções que tiverem sido efectuadas por qualquer meio ou processo, designadamente a título de desconto, abatimento ou bónus, salvo o desconto de pronto pagamento até ao limite de 3 por cento.
+Art. 8.º O valor das transacções sujeitas a imposto será o preço ilíquido praticado à saída do armazém, local de produção, ou outros locais de venda, sem consideração das deduções que tiverem sido efectuadas por qualquer meio ou processo, designadamente a título de desconto, abatimento ou bónus, salvo o desconto de pronto pagamento até ao limite de 3 por cento.
 
 § 1.º Na falta de preço da transacção, ou nos casos em que este não seja conhecido ou for inferior ao preço por grosso oficialmente estabelecido ou ao preço corrente de venda por grosso ou, ainda, quando as transacções se realizarem entre empresas filiadas, dependentes ou que se encontrem em situação análoga, o valor tributável será o preço oficialmente estabelecido; não o havendo, o preço corrente de venda por grosso; e, na falta deste, o preço que em condições normais seria praticado nas vendas entre grossistas e retalhistas em mercado livre.
 
@@ -441,7 +645,7 @@ g) Imposto do selo sobre as especialidades farmacêuticas.
 
 Se este período de tempo já tiver decorrido ou se não for conhecido o preço praticado, o valor tributável será fixado pelas comissões a que se referem os artigos 11.º e seguintes.
 
-###### Art. 9.º Nas transacções a seguir enumeradas, quando o adquirente ou destinatário não for um produtor ou grossista registado, o valor tributável será:
+Art. 9.º Nas transacções a seguir enumeradas, quando o adquirente ou destinatário não for um produtor ou grossista registado, o valor tributável será:
 
 a) Nas importações, o valor aduaneiro nas condições previstas nos artigos 5.º a 9.º das instruções preliminares da pauta de importação, acrescido dos direitos e de quaisquer outros encargos devidos, e de 40 por cento sobre esse valor global;
 
@@ -449,9 +653,9 @@ b) Nos actos de arrematação ou venda, realizados nos serviços aduaneiros ou e
 
 c) Nos actos de arrematação e venda judicial ou administrativa, adjudicação, conciliação, ou nos contratos de transacção, o valor determinado nos termos da alínea b), ou, sendo caso disso, de harmonia com o disposto no § 1.º do artigo anterior.
 
-###### Art. 10.º No valor tributável, qualquer que seja a natureza da transacção, não se inclui a importância do imposto que pela transacção for liquidado.
+Art. 10.º No valor tributável, qualquer que seja a natureza da transacção, não se inclui a importância do imposto que pela transacção for liquidado.
 
-###### Art. 11.º O valor que tiver servido de base à liquidação do imposto, quando inferior ao preço corrente ou normal de venda por grosso, poderá ser corrigido pelas comissões criadas pelo artigo 66.º do Código da Contribuição Industrial.
+Art. 11.º O valor que tiver servido de base à liquidação do imposto, quando inferior ao preço corrente ou normal de venda por grosso, poderá ser corrigido pelas comissões criadas pelo artigo 66.º do Código da Contribuição Industrial.
 
 § 1.º Os pedidos de correcção serão apresentados na repartição de finanças a que se refere o § único do artigo 51.º pelos agentes do Ministério Público das contribuições a impostos, ou seus representantes, no prazo de seis meses, contado da data em que a transacção se tiver realizado, salvo se a entrega do imposto nos cofres do Estado houver sido feita fora dos prazos estabelecidos neste código, caso em que aquele prazo será contado a partir da data em que for efectuada a entrega.
 
@@ -459,57 +663,57 @@ c) Nos actos de arrematação e venda judicial ou administrativa, adjudicação,
 
 § 3.º Transitadas em julgado as deliberações das comissões, os responsáveis pelo imposto deverão dar-lhes cumprimento a partir do dia imediato, em relação às transacções futuras, e incluir na primeira entrega que fizerem nos cofres do Estado, nos termos do artigo 41.º, o imposto liquidado a menos nas transacções efectuadas anteriormente, e desde a data daquela que tiver dado origem ao pedido de correcção.
 
-###### Art. 12.º Das deliberações das comissões indicadas no artigo anterior poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público das contribuições e impostos, reclamar para as comissões distritais criadas pelo artigo 71.º do Código da Contribuição Industrial.
+Art. 12.º Das deliberações das comissões indicadas no artigo anterior poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público das contribuições e impostos, reclamar para as comissões distritais criadas pelo artigo 71.º do Código da Contribuição Industrial.
 
 § único. As reclamações têm efeito suspensivo e deverão ser apresentadas na repartição de finanças a que se refere o § único do artigo 51.º, no prazo de quinze dias, a contar da data em que tiverem sido notificadas as deliberações das comissões de concelho ou bairro, e remetidas às comissões distritais nos oito dias imediatos à sua apresentação, acompanhadas dos elementos de fiscalização existentes e, bem assim, de quaisquer outros documentos ou informações considerados úteis ao esclarecimento dos factos.
 
-###### Art. 13.º Os contribuintes serão notificados para alegarem, dentro de oito dias, o que tiverem por conveniente, entregando-se-lhes cópia do pedido de correcção ou da reclamação, se esta tiver sido deduzida pela Fazenda Nacional.
+Art. 13.º Os contribuintes serão notificados para alegarem, dentro de oito dias, o que tiverem por conveniente, entregando-se-lhes cópia do pedido de correcção ou da reclamação, se esta tiver sido deduzida pela Fazenda Nacional.
 
-###### Art. 14.º O chefe da repartição ou o director de finanças, conforme o caso, deverão tomar as providências necessárias para que a apreciação dos pedidos de correcção e das reclamações se faça no mais curto prazo e nunca além do décimo quinto dia seguinte à data da sua apresentação, ao termo do prazo a que se refere o artigo anterior ou à data da recepção dos elementos que tenham sido solicitados para instrução dessas reclamações.
+Art. 14.º O chefe da repartição ou o director de finanças, conforme o caso, deverão tomar as providências necessárias para que a apreciação dos pedidos de correcção e das reclamações se faça no mais curto prazo e nunca além do décimo quinto dia seguinte à data da sua apresentação, ao termo do prazo a que se refere o artigo anterior ou à data da recepção dos elementos que tenham sido solicitados para instrução dessas reclamações.
 
-###### Art. 15.º As comissões referidas nos artigos 11.º e 12.º poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais, os elementos de que careçam para apreciação dos pedidos de correcção ou das reclamações.
+Art. 15.º As comissões referidas nos artigos 11.º e 12.º poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais, os elementos de que careçam para apreciação dos pedidos de correcção ou das reclamações.
 
 § único. Os presidentes das comissões poderão, quando o entendam conveniente, solicitar, para instrução dos pedidos de correcção ou das reclamações, informação ou parecer dos serviços centrais de prevenção e fiscalização tributária.
 
-###### Art. 16.º As comissões a que se referem os artigos anteriores poderão, nas suas deliberações, confirmar ou alterar para mais o valor que tiver servido de base à liquidação do imposto.
+Art. 16.º As comissões a que se referem os artigos anteriores poderão, nas suas deliberações, confirmar ou alterar para mais o valor que tiver servido de base à liquidação do imposto.
 
-###### Art. 17.º Quando as reclamações dos contribuintes forem totalmente desatendidas, a comissão distrital fixará, a título de custas, a percentagem de um agravamento ao imposto que a mais vier a ser liquidado, graduada conforme as circunstâncias, mas nunca superior a 5 por cento.
+Art. 17.º Quando as reclamações dos contribuintes forem totalmente desatendidas, a comissão distrital fixará, a título de custas, a percentagem de um agravamento ao imposto que a mais vier a ser liquidado, graduada conforme as circunstâncias, mas nunca superior a 5 por cento.
 
 § único. A importância resultante da aplicação da percentagem fixada nos termos do corpo deste artigo, com o mínimo de 100$00, será paga no prazo de 30 dias, a contar da data da sua notificação, mediante guias passadas pela respectiva repartição de finanças, depois de os serviços de fiscalização tributária terem procedido ao apuramento do imposto devido nos termos da parte final do § 3.º do artigo 11.º
 
-###### Art. 18.º As deliberações da comissão distrital produzirão efeitos a partir do dia imediato ao da data da sua notificação aos responsáveis pelo imposto, ficando estes obrigados a dar-lhes cumprimento nos termos do § 3.º do artigo 11.º
+Art. 18.º As deliberações da comissão distrital produzirão efeitos a partir do dia imediato ao da data da sua notificação aos responsáveis pelo imposto, ficando estes obrigados a dar-lhes cumprimento nos termos do § 3.º do artigo 11.º
 
-###### Art. 19.º As deliberações das comissões não são susceptíveis de impugnação judicial.
+Art. 19.º As deliberações das comissões não são susceptíveis de impugnação judicial.
 
 § 1.º No caso de preterição de formalidades legais, poderão os contribuintes recorrer para o Tribunal de 2.ª Instância das Contribuições e Impostos, dentro do prazo de um ano, a contar da data da deliberação.
 
 § 2.º O recurso a que se refere o parágrafo anterior não tem efeito suspensivo.
 
-###### Art. 20.º As pessoas sujeitas a imposto poderão submeter à apreciação da Direcção-Geral das Contribuições e Impostos as dúvidas que tiverem sobre o valor tributável e sua determinação ou sobre a caracterização e qualificação das mercadorias cuja transacção esteja sujeita a imposto ou dele isenta.
+Art. 20.º As pessoas sujeitas a imposto poderão submeter à apreciação da Direcção-Geral das Contribuições e Impostos as dúvidas que tiverem sobre o valor tributável e sua determinação ou sobre a caracterização e qualificação das mercadorias cuja transacção esteja sujeita a imposto ou dele isenta.
 
 § único. Os pedidos de esclarecimento deverão conter exposição circunstanciada das situações a apreciar e, sempre que possível, ser acompanhados de amostras das mercadorias, bem como de desenhos, catálogos, resenhas ou memórias descritivas.
 
 Quando não for possível a remessa de amostras, far-se-á menção do local onde as mercadorias poderão ser examinadas.
 
-###### Art. 21.º A Direcção-Geral das Contribuições e Impostos, quando tenha fundadas dúvidas sobre o valor ou sobre a qualificação das mercadorias ou sua exacta correspondência com as verbas constantes das listas anexas a este código, poderá solicitar informações, exames, vistorias ou pareceres jurídicos, técnicos ou económicos aos serviços públicos competentes ou a quaisquer pessoas ou organismos especialmente qualificados.
+Art. 21.º A Direcção-Geral das Contribuições e Impostos, quando tenha fundadas dúvidas sobre o valor ou sobre a qualificação das mercadorias ou sua exacta correspondência com as verbas constantes das listas anexas a este código, poderá solicitar informações, exames, vistorias ou pareceres jurídicos, técnicos ou económicos aos serviços públicos competentes ou a quaisquer pessoas ou organismos especialmente qualificados.
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 22.º A taxa do imposto é de 7 por cento, salvo nas transacções de mercadorias referidas na lista B anexa a este código, que ficam sujeitas à taxa de 20 por cento.
+Art. 22.º A taxa do imposto é de 7 por cento, salvo nas transacções de mercadorias referidas na lista B anexa a este código, que ficam sujeitas à taxa de 20 por cento.
 
 § único. Às importações de mercadorias por via postal, sujeitas à taxa especial de 30 por cento ad valorem, estabelecida no artigo 2.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960, é sempre aplicável a taxa de 7 por cento, quando não isentas nos termos do artigo 5.º
 
-###### Art. 23.º Nas transacções de unidades de venda constituídas pelo agrupamento ou reunião de várias mercadorias formando um produto comercial distinto, aplicar-se-ão as seguintes taxas:
+Art. 23.º Nas transacções de unidades de venda constituídas pelo agrupamento ou reunião de várias mercadorias formando um produto comercial distinto, aplicar-se-ão as seguintes taxas:
 
 a) Quando as mercadorias que compõem a unidade de venda não sofram alteração da sua natureza e qualidade nem percam a sua individualidade, a taxa aplicável ao valor global das mercadorias será a que lhes corresponder ou, se lhes couberam taxas diferentes, a mais elevada;
 
 b) Quando as mercadorias que compõem a unidade de venda sofram alteração da sua natureza e qualidade ou percam a sua individualidade, a taxa aplicável ao conjunto será a que, como tal, lhe corresponder.
 
-###### Art. 24.º Sobre o imposto de transacções não recairão quaisquer adicionais.
+Art. 24.º Sobre o imposto de transacções não recairão quaisquer adicionais.
 
 ### CAPÍTULO V — Liquidação
 
-###### Art. 25.º A competência para a liquidação pertence:
+Art. 25.º A competência para a liquidação pertence:
 
 a) Aos produtores ou grossistas registados ou sujeitos a registo, nos casos referidos nas alíneas a), d) e e) do artigo 1.º;
 
@@ -525,7 +729,7 @@ d) À repartição de finanças do concelho ou bairro da situação do estabelec
 
 § 3.º Tratando-se de importação de mercadorias das províncias ultramarinas ou do estrangeiro ou de aquisição de mercadorias da mesma proveniência, em actos de arrematação ou venda realizados nos serviços aduaneiros ou em outros serviços públicos, a exibição do certificado de registo referido no parágrafo anterior poderá ser dispensada se os despachantes oficiais, no documento de despacho ou em outro documento adequado, declararem expressamente que o produtor ou grossista possui o competente certificado de registo, indicando o respectivo número.
 
-###### Art. 26.º A liquidação deverá ser feita:
+Art. 26.º A liquidação deverá ser feita:
 
 a) Quando competir aos produtores ou grossistas registados ou sujeitos a registo, nas facturas ou documentos equivalentes, no acto do seu processamento, reportando-se à data da realização das transacções;
 
@@ -543,7 +747,7 @@ d) Quando competir às repartições de finanças, no prazo de 15 dias, com base
 
 § 4.º A liquidação do imposto devido nos termos da alínea c) do § 2.º do artigo 1.º só será efectuada depois de fixados os limites considerados razoáveis pela Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 27.º É permitida a anulação ou rectificação da liquidação do imposto relativo às transacções de mercadorias que tiverem sido devolvidas aos produtores ou grossistas registados no prazo de quinze dias, contado da data em que as transacções tiverem sido realizadas, desde que os seus adquirentes ou destinatários tenham processado a competente guia ou nota de devolução, da qual constem os elementos referidos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo 70.º, com dispensa dos que respeitarem a preços e valores.
+Art. 27.º É permitida a anulação ou rectificação da liquidação do imposto relativo às transacções de mercadorias que tiverem sido devolvidas aos produtores ou grossistas registados no prazo de quinze dias, contado da data em que as transacções tiverem sido realizadas, desde que os seus adquirentes ou destinatários tenham processado a competente guia ou nota de devolução, da qual constem os elementos referidos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo 70.º, com dispensa dos que respeitarem a preços e valores.
 
 § 1.º Comprovada a entrada em armazém das mercadorias devolvidas e arquivada a guia ou nota de devolução referidas no corpo deste artigo, o responsável pelo imposto procederá, conforme o caso, à anulação ou rectificação do duplicado da factura ou documento equivalente processado, e à compensação do imposto correspondente no mês em que ocorrer a devolução e nos respectivos elementos de contabilização.
 
@@ -553,7 +757,7 @@ d) Quando competir às repartições de finanças, no prazo de 15 dias, com base
 
 § 4.º As devoluções que tiverem sido efectuadas fora dos prazos estabelecidos neste artigo, bem como as de mercadorias que, tendo sido entregues à consignação, devam considerar-se transaccionadas, não dão lugar à anulação de imposto nem à sua restituição.
 
-###### Art. 28.º Quando nas liquidações efectuadas nos termos do artigo 26.º tiverem sido praticados erros de que possa vir a resultar entrega nos cofres do Estado de imposto em importância superior à devida, tendo o mesmo sido adicionado ao valor líquido facturado, para efeitos do disposto no § 2.º do mesmo artigo, poderão os contribuintes corrigir aquelas liquidações mediante o processamento de factura ou documento equivalente que substitua o anteriormente emitido, desde que se verifiquem cumulativamente as condições seguintes:
+Art. 28.º Quando nas liquidações efectuadas nos termos do artigo 26.º tiverem sido praticados erros de que possa vir a resultar entrega nos cofres do Estado de imposto em importância superior à devida, tendo o mesmo sido adicionado ao valor líquido facturado, para efeitos do disposto no § 2.º do mesmo artigo, poderão os contribuintes corrigir aquelas liquidações mediante o processamento de factura ou documento equivalente que substitua o anteriormente emitido, desde que se verifiquem cumulativamente as condições seguintes:
 
 a) Serem as mercadorias susceptíveis de individualização através do número de fábrica, marcação especial ou outro elemento de identificação inequívoca;
 
@@ -565,21 +769,21 @@ c) Não estar ainda efectuado o pagamento das mercadorias e ter sido devolvido o
 
 § 2.º Se os serviços de fiscalização não considerarem suficientes os elementos comprovativos do preenchimento das condições estabelecidas nas alíneas a), b) e c) do corpo deste artigo, notificarão o produtor ou o grossista para fazer a imediata liquidação do imposto, cujo quantitativo será incluído na primeira entrega a fazer nos cofres do Estado, sem prejuízo do direito de impugnação judicial.
 
-###### Art. 29.º Se os erros previstos no corpo do artigo anterior tiverem sido praticados por produtores ou grossistas que não tenham adicionado o imposto ao valor líquido facturado, nos termos e para os efeitos do disposto no § 2.º do artigo 26.º, poderão ser corrigidos com o processamento de factura ou documento equivalente que substitua o anteriormente emitido ou pela anulação no duplicado deste de todo o imposto ou do que a mais tiver sido liquidado, conforme o caso.
+Art. 29.º Se os erros previstos no corpo do artigo anterior tiverem sido praticados por produtores ou grossistas que não tenham adicionado o imposto ao valor líquido facturado, nos termos e para os efeitos do disposto no § 2.º do artigo 26.º, poderão ser corrigidos com o processamento de factura ou documento equivalente que substitua o anteriormente emitido ou pela anulação no duplicado deste de todo o imposto ou do que a mais tiver sido liquidado, conforme o caso.
 
 § único. Se o imposto liquidado nas condições previstas no corpo deste artigo já tiver sido entregue nos cofres do Estado ou se já tiverem decorrido os prazos estabelecidos no artigo 41.º, a correcção das liquidações só poderá ser efectuada depois de autorizada nos termos do artigo 31.º
 
-###### Art. 30.º Nos casos em que se verificar falta de liquidação do imposto ou em que este tiver sido liquidado por importância inferior à devida, os responsáveis pelo imposto poderão proceder às liquidações que se mostrem necessárias, corrigindo todos os exemplares do documento processado ou emitindo nova factura ou documento equivalente em substituição do anterior, salvo se antes houver sido iniciado exame à escrita ou qualquer visita de fiscalização ou se já tiverem decorrido os prazos estabelecidos no artigo 41.º
+Art. 30.º Nos casos em que se verificar falta de liquidação do imposto ou em que este tiver sido liquidado por importância inferior à devida, os responsáveis pelo imposto poderão proceder às liquidações que se mostrem necessárias, corrigindo todos os exemplares do documento processado ou emitindo nova factura ou documento equivalente em substituição do anterior, salvo se antes houver sido iniciado exame à escrita ou qualquer visita de fiscalização ou se já tiverem decorrido os prazos estabelecidos no artigo 41.º
 
-###### Art. 31.º Se a entrega do imposto nos cofres do Estado tiver sido feita por importância superior à devida e efectivamente liquidada por motivo de erro material na sua contabilização, no seu apuramento ou na passagem das competentes guias de entrega, o director-geral das Contribuições e Impostos poderá, a requerimento, autorizar o contribuinte a proceder à respectiva compensação, por dedução em futuras entregas.
+Art. 31.º Se a entrega do imposto nos cofres do Estado tiver sido feita por importância superior à devida e efectivamente liquidada por motivo de erro material na sua contabilização, no seu apuramento ou na passagem das competentes guias de entrega, o director-geral das Contribuições e Impostos poderá, a requerimento, autorizar o contribuinte a proceder à respectiva compensação, por dedução em futuras entregas.
 
-###### Art. 32.º Os produtores ou grossistas registados a quem tenha sido notificado o cancelamento das respectivas inscrições ficam obrigados a proceder à liquidação e contabilização do imposto que deixou de ser liquidado em relação às mercadorias que tiverem adquirido a coberto de declarações de responsabilidade, nos termos dos artigos 64.º ou 65.º, e que ainda possuam em existência à data em que o cancelamento começar a produzir efeitos.
+Art. 32.º Os produtores ou grossistas registados a quem tenha sido notificado o cancelamento das respectivas inscrições ficam obrigados a proceder à liquidação e contabilização do imposto que deixou de ser liquidado em relação às mercadorias que tiverem adquirido a coberto de declarações de responsabilidade, nos termos dos artigos 64.º ou 65.º, e que ainda possuam em existência à data em que o cancelamento começar a produzir efeitos.
 
 § 1.º As mercadorias em existência nas condições previstas no corpo do presente artigo deverão constar de inventário a organizar com observância do disposto nos §§ 1.º, 2.º e 3.º do artigo 33.º; este inventário será entregue na respectiva repartição de finanças até dez dias depois do termo do prazo a que se refere o artigo 41.º, com um exemplar da guia do modelo n.º 3, averbada do pagamento.
 
 § 2.º Dentro do prazo fixado no artigo 41.º para a entrega do imposto nos cofres do Estado, os produtores ou grossistas a que se refere o corpo deste artigo poderão desonerar-se das obrigações nele estabelecidas, transaccionando aquelas mercadorias a coberto de declarações de responsabilidade.
 
-###### Art. 33.º Os produtores ou grossistas registados que possuam um único estabelecimento e cessem o exercício da sua actividade deverão apresentar em triplicado, no prazo de quinze dias, a contar da data da cessação, na repartição de finanças referida no § único do artigo 51.º, a declaração do modelo n.º 4, que será acompanhada dos seguintes documentos:
+Art. 33.º Os produtores ou grossistas registados que possuam um único estabelecimento e cessem o exercício da sua actividade deverão apresentar em triplicado, no prazo de quinze dias, a contar da data da cessação, na repartição de finanças referida no § único do artigo 51.º, a declaração do modelo n.º 4, que será acompanhada dos seguintes documentos:
 
 a) Inventário das mercadorias em existência à data da cessação que tiverem sido adquiridas a coberto de declarações de responsabilidade para venda por grosso ou utilização como matéria-prima, quer tenham já sofrido qualquer transformação, quer não;
 
@@ -609,7 +813,7 @@ O inventário que não estiver organizado ou assinado nos termos indicados será
 
 A estas declarações será aplicável o disposto no parágrafo anterior.
 
-###### Art. 34.º Nos casos de cessação da actividade exercida por produtores ou grossistas registados que possuam filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais, onde igualmente sejam exercidas actividades de produtor ou grossista, observar-se-ão as seguintes regras:
+Art. 34.º Nos casos de cessação da actividade exercida por produtores ou grossistas registados que possuam filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais, onde igualmente sejam exercidas actividades de produtor ou grossista, observar-se-ão as seguintes regras:
 
 1.ª Se a cessação se verificar em relação a toda a actividade, deverão ser apresentadas, no prazo de quinze dias, a contar da data da cessação, declarações em triplicado, do modelo n.º 4, nas repartições de finanças correspondentes aos concelhos ou bairros da localização de cada uma das dependências.
 
@@ -619,7 +823,7 @@ A estas declarações será aplicável o disposto no parágrafo anterior.
 
 § único. Às declarações do modelo n.º 4, referidas neste artigo, serão juntos os documentos exigidos nas alíneas a), b) e c) do corpo do artigo anterior relativamente às mercadorias em existência nos estabelecimentos em que se tiver verificado a cessação do exercício da actividade, com observância do disposto nos §§ 1.º a 4.º do mesmo artigo.
 
-###### Art. 35.º A cessação total da actividade comercial ou industrial, exercida pelos produtores ou grossistas registados, verificar-se-á no momento em que forem preenchidas as condições que no Código da Contribuição Industrial se estabelecem para a ocorrência desse facto.
+Art. 35.º A cessação total da actividade comercial ou industrial, exercida pelos produtores ou grossistas registados, verificar-se-á no momento em que forem preenchidas as condições que no Código da Contribuição Industrial se estabelecem para a ocorrência desse facto.
 
 § único. A cessação de actividade prevista na regra 2.ª do artigo anterior, entender-se-á, porém, verificada relativamente a qualquer das dependências referidas no corpo do mesmo artigo, desde que:
 
@@ -633,23 +837,23 @@ d) Seja partilhada a herança indivisa de que o estabelecimento faça parte, mas
 
 e) Se dê transferência, a qualquer outro título, da propriedade ou exploração do estabelecimento.
 
-###### Art. 36.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele em que as transacções se tiverem realizado, salvo nos casos previstos nos artigos 32.º, 33.º, 34.º e 81.º e no § 2.º do artigo 56.º
+Art. 36.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele em que as transacções se tiverem realizado, salvo nos casos previstos nos artigos 32.º, 33.º, 34.º e 81.º e no § 2.º do artigo 56.º
 
 § único. A liquidação será efectuada pela respectiva repartição de finanças, quando não tiver sido feita pelo produtor ou grossista ou entidade a quem competia a liquidação.
 
-###### Art. 37.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
+Art. 37.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
 
-###### Art. 38.º Não se procederá a liquidação adicional quando o seu quantitativo global seja inferior a 10$00.
+Art. 38.º Não se procederá a liquidação adicional quando o seu quantitativo global seja inferior a 10$00.
 
-###### Art. 39.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 39.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. O juro será contado dia a dia, desde o termo do prazo em que a liquidação deveria ser efectuada até à data em que vier a ser suprida ou corrigida a falta.
 
-###### Art. 40.º O imposto será arredondado em cada liquidação para a dezena de centavos imediatamente superior.
+Art. 40.º O imposto será arredondado em cada liquidação para a dezena de centavos imediatamente superior.
 
 ### CAPÍTULO VI — Cobrança
 
-###### Art. 41.º A cobrança do imposto realizar-se-á do modo seguinte:
+Art. 41.º A cobrança do imposto realizar-se-á do modo seguinte:
 
 a) O liquidado nos termos da alínea a) do artigo 26.º será entregue nas tesourarias da Fazenda Pública da situação dos estabelecimentos que tenham efectuado as transacções, no mês seguinte à realização dessas transacções, por meio de guia em triplicado, processada pelos responsáveis pelo imposto, em impresso do modelo n.º 3;
 
@@ -667,7 +871,7 @@ e) O liquidado nos termos dos artigos 33.º e 34.º será entregue na tesouraria
 
 § 3.º Na falta de pagamento no prazo indicado na alínea c) deste artigo, a cobrança converter-se-á em virtual, nos termos e para efeitos do disposto no Código de Processo das Contribuições e Impostos.
 
-###### Art. 42.º A autorização prevista no § 1.º do artigo 41.º será solicitada em requerimento do qual constem, circunstanciadamente, a espécie e natureza da caução oferecida, podendo a prestação ser feita quer por meio de depósito de títulos da dívida pública ou outros títulos de crédito com cotação nas Bolsas de Lisboa ou Porto, quer por meio de fiança bancária.
+Art. 42.º A autorização prevista no § 1.º do artigo 41.º será solicitada em requerimento do qual constem, circunstanciadamente, a espécie e natureza da caução oferecida, podendo a prestação ser feita quer por meio de depósito de títulos da dívida pública ou outros títulos de crédito com cotação nas Bolsas de Lisboa ou Porto, quer por meio de fiança bancária.
 
 § 1.º Consistindo a caução em títulos da dívida pública ou outros títulos de crédito, serão estes depositados na Caixa Geral de Depósitos, Crédito e Previdência, após avaliação a que a mesma entidade procederá, tomando-os pelo seu valor real com margem não inferior a 20 por cento para depreciação.
 
@@ -679,7 +883,7 @@ O depósito será feito à ordem da Direcção-Geral das Contribuições e Impos
 
 Serão igualmente publicadas no Diário do Governo as declarações de caducidade das mesmas autorizações, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 43.º As autorizações a que se refere o § 1.º do artigo 41.º serão canceladas quando os seus beneficiários deixem de fazer, no prazo estabelecido, a entrega do imposto liquidado. A Direcção-Geral das Contribuições e Impostos poderá ainda promover o cancelamento das mesmas autorizações nos casos seguintes:
+Art. 43.º As autorizações a que se refere o § 1.º do artigo 41.º serão canceladas quando os seus beneficiários deixem de fazer, no prazo estabelecido, a entrega do imposto liquidado. A Direcção-Geral das Contribuições e Impostos poderá ainda promover o cancelamento das mesmas autorizações nos casos seguintes:
 
 a) Quando se reconheça a necessidade de reforço da caução e este não seja efectuado no prazo que para o efeito tiver sido concedido;
 
@@ -693,7 +897,7 @@ c) Quando os produtores ou grossistas ou os seus garantes o requeiram.
 
 § 3.º O imposto liquidado desde o início do mês em que tiver sido efectuada a notificação a que se refere o § 1.º será entregue nos cofres do Estado nos prazos fixados neste código.
 
-###### Art. 44.º Verificada a falta de entrega do imposto liquidado nos cofres do Estado, dentro do prazo legal, por parte dos contribuintes a quem tenha sido concedida a autorização prevista no § 1.º do artigo 41.º, a repartição de finanças competente procederá a nova liquidação com base nos resultados das verificações realizadas pelos serviços de fiscalização tributária, observando-se para a sua cobrança as seguintes regras:
+Art. 44.º Verificada a falta de entrega do imposto liquidado nos cofres do Estado, dentro do prazo legal, por parte dos contribuintes a quem tenha sido concedida a autorização prevista no § 1.º do artigo 41.º, a repartição de finanças competente procederá a nova liquidação com base nos resultados das verificações realizadas pelos serviços de fiscalização tributária, observando-se para a sua cobrança as seguintes regras:
 
 1.ª Se a caução tiver sido prestada por meio de depósito de títulos da dívida pública ou outros títulos de crédito, será solicitada por intermédio da Direcção-Geral das Contribuições e Impostos a venda dos referidos títulos para, com o seu produto líquido, ser pago o imposto devido.
 
@@ -705,7 +909,7 @@ A cobrança eventual será efectuada nos 30 dias imediatos à notificação, seg
 
 ### CAPÍTULO VII — Fiscalização
 
-###### Art. 45.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública, e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+Art. 45.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública, e, em especial, pela Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Os funcionários que desempenham as atribuições próprias do Serviço de Prevenção e Fiscalização Tributária poderão examinar os livros e documentos dos produtores e grossistas registados ou sujeitos a registo e das pessoas ou empresas que com eles tenham ligação ou mantenham relações comerciais, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial, bem como os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativos.
 
@@ -715,13 +919,13 @@ A cobrança eventual será efectuada nos 30 dias imediatos à notificação, seg
 
 § 4.º As autoridades civis e militares deverão prestar aos funcionários referidos nos parágrafos anteriores todo o auxílio que estes lhes solicitarem para efeito da fiscalização a seu cargo.
 
-###### Art. 46.º Para efeitos do disposto neste código poderá a Direcção-Geral das Contribuições e Impostos, quando o entender conveniente e sem prejuízo dos exames efectuados ao abrigo do disposto no § 2.º do artigo anterior, promover que os serviços competentes da Inspecção-Geral de Finanças ou da Inspecção-Geral de Crédito e Seguros, conforme o caso, realizem exames às escritas dos produtores ou grossistas registados ou sujeitos a registo e das pessoas que com eles tenham ligação ou mantenham relações comerciais.
+Art. 46.º Para efeitos do disposto neste código poderá a Direcção-Geral das Contribuições e Impostos, quando o entender conveniente e sem prejuízo dos exames efectuados ao abrigo do disposto no § 2.º do artigo anterior, promover que os serviços competentes da Inspecção-Geral de Finanças ou da Inspecção-Geral de Crédito e Seguros, conforme o caso, realizem exames às escritas dos produtores ou grossistas registados ou sujeitos a registo e das pessoas que com eles tenham ligação ou mantenham relações comerciais.
 
-###### Art. 47.º A Direcção-Geral das Contribuições e Impostos poderá requisitar aos serviços e organismos do Estado ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais, às pessoas colectivas de utilidade pública e aos organismos corporativos, quaisquer elementos de que careça para efeitos de fiscalização deste imposto.
+Art. 47.º A Direcção-Geral das Contribuições e Impostos poderá requisitar aos serviços e organismos do Estado ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais, às pessoas colectivas de utilidade pública e aos organismos corporativos, quaisquer elementos de que careça para efeitos de fiscalização deste imposto.
 
-###### Art. 48.º A Direcção-Geral das Contribuições e Impostos organizará um registo das pessoas singulares ou colectivas que, no continente ou ilhas adjacentes, exerçam as actividades de produtor ou grossista e que nele devam ser inscritas nos termos deste código.
+Art. 48.º A Direcção-Geral das Contribuições e Impostos organizará um registo das pessoas singulares ou colectivas que, no continente ou ilhas adjacentes, exerçam as actividades de produtor ou grossista e que nele devam ser inscritas nos termos deste código.
 
-###### Art. 49.º A inscrição no registo a que se refere o artigo anterior é obrigatória para as pessoas singulares ou colectivas que realizem transacções de mercadorias não compreendidas na lista A anexa a este código:
+Art. 49.º A inscrição no registo a que se refere o artigo anterior é obrigatória para as pessoas singulares ou colectivas que realizem transacções de mercadorias não compreendidas na lista A anexa a este código:
 
 a) Quando iniciem o exercício das actividades de produtor ou grossista, se desde logo ficarem sujeitas a contribuição industrial pelos grupos A ou B, ou dela isentas temporária ou definitivamente nos termos dos n.os 8.º e 11.º do artigo 14.º e artigos 18.º, 19.º e 24.º do Código da Contribuição Industrial;
 
@@ -739,9 +943,9 @@ No caso de deferimento, a inscrição produzirá todos os efeitos previstos no p
 
 § 3.º O disposto nos parágrafos anteriores não é aplicável aos produtores ou grossistas que beneficiem de qualquer das isenções referidas nos n.os 1.º a 5.º do artigo 14.º do Código da Contribuição Industrial.
 
-###### Art. 50.º O Ministro das Finanças, sob parecer fundamentado da Direcção-Geral das Contribuições e Impostos, poderá conceder dispensa da inscrição prevista no artigo 48.º às pessoas singulares ou colectivas abrangidas pelo disposto no corpo do artigo anterior, nos casos em que a natureza das actividades exercidas, a escassa dimensão das empresas ou quaisquer outras circunstâncias a justifiquem, sem prejuízo de ulterior revisão da decisão.
+Art. 50.º O Ministro das Finanças, sob parecer fundamentado da Direcção-Geral das Contribuições e Impostos, poderá conceder dispensa da inscrição prevista no artigo 48.º às pessoas singulares ou colectivas abrangidas pelo disposto no corpo do artigo anterior, nos casos em que a natureza das actividades exercidas, a escassa dimensão das empresas ou quaisquer outras circunstâncias a justifiquem, sem prejuízo de ulterior revisão da decisão.
 
-###### Art. 51.º Para efeitos da inscrição a que se refere o artigo 48.º, as pessoas singulares ou colectivas sujeitas a registo deverão preencher declarações do modelo n.º 1, que serão apresentadas nos seguintes prazos:
+Art. 51.º Para efeitos da inscrição a que se refere o artigo 48.º, as pessoas singulares ou colectivas sujeitas a registo deverão preencher declarações do modelo n.º 1, que serão apresentadas nos seguintes prazos:
 
 a) Até quinze dias antes do início das actividades de produtor ou grossista, tratando-se de pessoas sujeitas a registo nos termos das alíneas a) ou b) do artigo 49.º;
 
@@ -749,49 +953,49 @@ b) Até quinze dias depois daquele em que tiverem ocorrido os factos referidos n
 
 § único. As declarações referidas no corpo deste artigo serão apresentadas na repartição de finanças do concelho ou bairro da situação do estabelecimento principal e das filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes, ou na do domicílio quando não tenham qualquer estabelecimento.
 
-###### Art. 52.º As pessoas singulares ou colectivas que pretendam obter, facultativamente, a sua inscrição nos termos do § 2.º do artigo 49.º, deverão fazer acompanhar os respectivos requerimentos das declarações do modelo n.º 1, devidamente preenchidas.
+Art. 52.º As pessoas singulares ou colectivas que pretendam obter, facultativamente, a sua inscrição nos termos do § 2.º do artigo 49.º, deverão fazer acompanhar os respectivos requerimentos das declarações do modelo n.º 1, devidamente preenchidas.
 
 § 1.º As pessoas referidas no corpo deste artigo que, além do estabelecimento principal, possuírem filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes, juntarão aos seus requerimentos as declarações do modelo n.º 1, preenchidas em relação a cada uma dessas instalações.
 
 § 2.º Os pedidos de inscrição, bem como os documentos que os acompanharem, deverão ser entregues na repartição de finanças da situação do estabelecimento principal ou, na sua falta, na do domicílio, para serem remetidos seguidamente à Direcção-Geral das Contribuições e Impostos depois de prestada a informação exigida no artigo 54.º
 
-###### Art. 53.º As declarações a que se refere o artigo 51.º serão renovadas no prazo de quinze dias, a contar da data em que se tiver verificado alteração em qualquer dos seus elementos.
+Art. 53.º As declarações a que se refere o artigo 51.º serão renovadas no prazo de quinze dias, a contar da data em que se tiver verificado alteração em qualquer dos seus elementos.
 
 § único. O disposto neste artigo é igualmente aplicável às declarações apresentadas nos termos do artigo anterior, se o pedido de inscrição tiver obtido deferimento.
 
-###### Art. 54.º As declarações referidas nos artigos anteriores serão apresentadas em triplicado e informadas pelos serviços de fiscalização tributária, destinando-se o original à Direcção-Geral das Contribuições e Impostos, o duplicado à respectiva repartição de finanças e o triplicado a ser devolvido ao produtor ou grossista interessado.
+Art. 54.º As declarações referidas nos artigos anteriores serão apresentadas em triplicado e informadas pelos serviços de fiscalização tributária, destinando-se o original à Direcção-Geral das Contribuições e Impostos, o duplicado à respectiva repartição de finanças e o triplicado a ser devolvido ao produtor ou grossista interessado.
 
-###### Art. 55.º Aos produtores ou grossistas sujeitos a registo nos termos do artigo 49.º e seu § 1.º serão passados pelo chefe da respectiva repartição de finanças, no acto da apresentação das declarações indicadas no artigo 51.º, certificados do registo provisório, isentos de imposto do selo, com a assinatura ou rubrica autenticada com o selo branco, válidos até à data da entrega dos certificados do registo definitivo.
+Art. 55.º Aos produtores ou grossistas sujeitos a registo nos termos do artigo 49.º e seu § 1.º serão passados pelo chefe da respectiva repartição de finanças, no acto da apresentação das declarações indicadas no artigo 51.º, certificados do registo provisório, isentos de imposto do selo, com a assinatura ou rubrica autenticada com o selo branco, válidos até à data da entrega dos certificados do registo definitivo.
 
-###### Art. 56.º A Direcção-Geral das Contribuições e Impostos, com base nas declarações do modelo n.º 1, efectuará a inscrição no registo referido no artigo 48.º, exarando nelas os competentes certificados, isentos de imposto do selo, que poderão ser rubricados de chancela pelo chefe da repartição competente e sempre autenticados com o selo branco.
+Art. 56.º A Direcção-Geral das Contribuições e Impostos, com base nas declarações do modelo n.º 1, efectuará a inscrição no registo referido no artigo 48.º, exarando nelas os competentes certificados, isentos de imposto do selo, que poderão ser rubricados de chancela pelo chefe da repartição competente e sempre autenticados com o selo branco.
 
 § 1.º Os certificados a que se refere o corpo deste artigo serão entregues aos interessados pelas repartições de finanças em que tiverem sido apresentadas as declarações nos termos do artigo 51.º, mediante recibo autenticado passado no verso do certificado do registo provisório.
 
 § 2.º As inscrições no registo referido no artigo 48.º, comprovadas pelos respectivos certificados, enquanto válidos, conferem aos seus titulares, desde que tenham cumprido prèviamente as formalidades estabelecidas nos artigos 64.º e seguintes, a faculdade de adquirirem mercadorias para utilização como matéria-prima ou para venda por grosso, sem pagamento de imposto pela transacção. O imposto será, porém, devido sempre que às mercadorias seja dado destino diferente daquele para que foram adquiridas.
 
-###### Art. 57.º Proceder-se-á ao cancelamento das inscrições das pessoas singulares ou colectivas obrigatòriamente registadas nos termos do artigo 49.º e seu § 1.º, quando no exercício das suas actividades deixarem de se verificar as condições ali exigidas para a sua inscrição.
+Art. 57.º Proceder-se-á ao cancelamento das inscrições das pessoas singulares ou colectivas obrigatòriamente registadas nos termos do artigo 49.º e seu § 1.º, quando no exercício das suas actividades deixarem de se verificar as condições ali exigidas para a sua inscrição.
 
 § 1.º Quando os produtores ou grossistas tiverem cessado a actividade proceder-se-á igualmente ao cancelamento das respectivas inscrições, que será reportado, para todos os efeitos, à data da cessação.
 
 § 2.º Nos casos não previstos no corpo deste artigo e no parágrafo anterior, o Ministro das Finanças, sob proposta da Direcção-Geral das Contribuições e Impostos ou a requerimento dos interessados, poderá determinar o cancelamento das inscrições dos produtores ou grossistas, quando a natureza das actividades exercidas, a escassa dimensão das empresas ou quaisquer outras circunstâncias o justifiquem, sem prejuízo de ulterior revisão da decisão.
 
-###### Art. 58.º O cancelamento das inscrições referidas no artigo 48.º será sempre notificado aos respectivos titulares, seus herdeiros ou representantes legais, salvo nos casos de cessação de actividade previstos nos artigos 33.º e 34.º, e produzirá todos os efeitos decorridos 30 dias, a contar do dia imediato ao da notificação.
+Art. 58.º O cancelamento das inscrições referidas no artigo 48.º será sempre notificado aos respectivos titulares, seus herdeiros ou representantes legais, salvo nos casos de cessação de actividade previstos nos artigos 33.º e 34.º, e produzirá todos os efeitos decorridos 30 dias, a contar do dia imediato ao da notificação.
 
 § único. Os certificados de registo de que forem possuidoras as pessoas cujas inscrições tenham sido canceladas deverão ser devolvidos directamente à Direcção-Geral das Contribuições e Impostos, sob registo postal.
 
-###### Art. 59.º A Direcção-Geral das Contribuições e Impostos fará publicar no Diário do Governo relação dos produtores e grossistas registados, da qual conste o seu nome ou denominação social, domicílio ou sede e número do registo.
+Art. 59.º A Direcção-Geral das Contribuições e Impostos fará publicar no Diário do Governo relação dos produtores e grossistas registados, da qual conste o seu nome ou denominação social, domicílio ou sede e número do registo.
 
 § único. Será igualmente publicada no Diário do Governo relação dos produtores e grossistas cujos registos tenham sido cancelados, que deverá conter, além dos elementos referidos no corpo deste artigo, indicação da data a partir da qual os cancelamentos produzem efeitos.
 
-###### Art. 60.º O original da declaração de cessação de actividade e os documentos a que se referem os artigos 33.º e 34.º serão remetidos à Direcção-Geral das Contribuições e Impostos, depois de informados pelos serviços de fiscalização tributária e de a respectiva direcção distrital de finanças, em face dos elementos de que dispuser ou puder obter, verificar a sua conformidade, com vista ao correcto apuramento do imposto devido, promovendo, se for caso disso, as verificações ou exames que se mostrem necessários.
+Art. 60.º O original da declaração de cessação de actividade e os documentos a que se referem os artigos 33.º e 34.º serão remetidos à Direcção-Geral das Contribuições e Impostos, depois de informados pelos serviços de fiscalização tributária e de a respectiva direcção distrital de finanças, em face dos elementos de que dispuser ou puder obter, verificar a sua conformidade, com vista ao correcto apuramento do imposto devido, promovendo, se for caso disso, as verificações ou exames que se mostrem necessários.
 
-###### Art. 61.º Os serviços distritais de prevenção e fiscalização tributária devem organizar e manter actualizados processos individuais de todas as pessoas sujeitas a imposto, nos quais serão arquivados os elementos que lhes disserem respeito, colhidos nas visitas de verificação ou nos exames que forem efectuados.
+Art. 61.º Os serviços distritais de prevenção e fiscalização tributária devem organizar e manter actualizados processos individuais de todas as pessoas sujeitas a imposto, nos quais serão arquivados os elementos que lhes disserem respeito, colhidos nas visitas de verificação ou nos exames que forem efectuados.
 
-###### Art. 62.º Para efeitos de utilização do benefício concedido pelo artigo 2.º, as pessoas singulares ou colectivas por ele abrangidas deverão organizar inventário das mercadorias em existência nos seus estabelecimentos, reportado à data em que ficaram obrigadas a registo nos termos do artigo 49.º e seu § 1.º ou àquela em que começar a produzir efeitos a inscrição facultada pelo § 2.º do mesmo artigo.
+Art. 62.º Para efeitos de utilização do benefício concedido pelo artigo 2.º, as pessoas singulares ou colectivas por ele abrangidas deverão organizar inventário das mercadorias em existência nos seus estabelecimentos, reportado à data em que ficaram obrigadas a registo nos termos do artigo 49.º e seu § 1.º ou àquela em que começar a produzir efeitos a inscrição facultada pelo § 2.º do mesmo artigo.
 
 § único. Do inventário a que se refere o corpo deste artigo deverão constar apenas as mercadorias cuja aquisição tenha levado à liquidação de imposto.
 
-###### Art. 63.º O inventário a que se refere o artigo anterior será apresentado em duplicado e dele deverão constar:
+Art. 63.º O inventário a que se refere o artigo anterior será apresentado em duplicado e dele deverão constar:
 
 a) Números e datas das facturas;
 
@@ -803,13 +1007,13 @@ c) Quantidades e descrição das mercadorias.
 
 § 2.º A apresentação do inventário na repartição de finanças referida no § único do artigo 51.º será efectuada dentro dos quinze dias posteriores à data a que se reportar, sem o que as transacções das mercadorias em existência não aproveitarão do benefício estabelecido no artigo 2.º
 
-###### Art. 64.º Os produtores ou grossistas registados que pretenderem efectuar a aquisição de mercadorias para as utilizarem como matéria-prima ou com destino a venda por grosso, sem que por aquela transacção seja devido imposto, deverão entregar aos seus fornecedores, juntamente com a respectiva nota de encomenda, uma declaração de responsabilidade conforme o modelo n.º 5, em papel timbrado, assinada e autenticada com carimbo ou selo branco.
+Art. 64.º Os produtores ou grossistas registados que pretenderem efectuar a aquisição de mercadorias para as utilizarem como matéria-prima ou com destino a venda por grosso, sem que por aquela transacção seja devido imposto, deverão entregar aos seus fornecedores, juntamente com a respectiva nota de encomenda, uma declaração de responsabilidade conforme o modelo n.º 5, em papel timbrado, assinada e autenticada com carimbo ou selo branco.
 
 Tratando-se das transacções previstas nas alíneas b) e c) do artigo 1.º, a declaração de responsabilidade deverá ser feita em duplicado e apresentada nos serviços em que aquelas operações forem efectuadas, os quais remeterão, no mês seguinte, um dos exemplares, depois de competentemente averbado e autenticado, à respectiva direcção distrital de finanças.
 
 § único. As mercadorias destinadas a serem utilizadas como embalagens poderão ser adquiridas pelos produtores ou grossistas registados nas condições estabelecidas no corpo do presente artigo.
 
-###### Art. 65.º Nos casos previstos na primeira parte do corpo do artigo anterior e sempre que sejam realizadas transacções com alguma frequência entre os mesmos adquirentes e fornecedores, o documento ali referido poderá ser substituído por uma declaração geral de responsabilidade, feita segundo o modelo n.º 6, também em papel timbrado, assinada e autenticada com carimbo ou selo branco.
+Art. 65.º Nos casos previstos na primeira parte do corpo do artigo anterior e sempre que sejam realizadas transacções com alguma frequência entre os mesmos adquirentes e fornecedores, o documento ali referido poderá ser substituído por uma declaração geral de responsabilidade, feita segundo o modelo n.º 6, também em papel timbrado, assinada e autenticada com carimbo ou selo branco.
 
 § 1.º As declarações gerais de responsabilidade emitidas por produtores ou grossistas possuidores de certificados de registo provisório caducam no termo do prazo de quinze dias, contado da data em que lhes foram entregues os certificados do registo definitivo, com base nos quais deverão aquelas declarações ser renovadas.
 
@@ -823,9 +1027,9 @@ Esta comunicação deverá ser feita em carta registada com aviso de recepção.
 
 Esta comunicação deverá ser feita nas condições estabelecidas no parágrafo anterior, no prazo de oito dias, a contar da data em que tiver sido dado conhecimento do cancelamento do registo.
 
-###### Art. 66.º As declarações de responsabilidade referidas nos artigos anteriores em que não tiverem sido preenchidas as formalidades ali estabelecidas não produzirão quaisquer efeitos, devendo ser recusadas pelos seus destinatários.
+Art. 66.º As declarações de responsabilidade referidas nos artigos anteriores em que não tiverem sido preenchidas as formalidades ali estabelecidas não produzirão quaisquer efeitos, devendo ser recusadas pelos seus destinatários.
 
-###### Art. 67.º Os produtores ou grossistas que tiverem feito declarações de responsabilidade, nos termos dos artigos 64.º e 65.º, deverão registá-las em livro apropriado, do qual constem os seguintes elementos:
+Art. 67.º Os produtores ou grossistas que tiverem feito declarações de responsabilidade, nos termos dos artigos 64.º e 65.º, deverão registá-las em livro apropriado, do qual constem os seguintes elementos:
 
 1.º Número de ordem;
 
@@ -845,15 +1049,15 @@ Esta comunicação deverá ser feita nas condições estabelecidas no parágrafo
 
 § 2.º Os registos terão numeração anual, devendo, em 31 de Dezembro de cada ano, logo a seguir ao último registo, ser feito o competente encerramento, devidamente assinado e autenticado.
 
-###### Art. 68.º É obrigatório o processamento de facturas ou documentos equivalentes, pelo menos em duplicado, em relação a cada uma das transacções realizadas, independentemente da sua natureza, mesmo nos casos em que, segundo os usos comerciais, a sua emissão fosse dispensável ou ainda quando as mesmas transacções estiverem isentas de imposto.
+Art. 68.º É obrigatório o processamento de facturas ou documentos equivalentes, pelo menos em duplicado, em relação a cada uma das transacções realizadas, independentemente da sua natureza, mesmo nos casos em que, segundo os usos comerciais, a sua emissão fosse dispensável ou ainda quando as mesmas transacções estiverem isentas de imposto.
 
 §.1.º As facturas ou documentos equivalentes serão substituídos por guia ou nota de devolução quando se trate de devoluções de mercadorias anteriormente transaccionadas entre as mesmas pessoas.
 
 § 2.º As facturas ou documentos equivalentes e bem assim as guias ou notas, indicadas no parágrafo anterior, deverão ser emitidos, sem prejuízo do disposto no artigo 72.º, em prazo não excedente a oito dias, a contar da data em que as correspondentes transacções se tiverem realizado, ou em que as devoluções se tiverem efectuado.
 
-###### Art. 69.º Nas transacções previstas no artigo 1.º, realizadas por produtores ou grossistas registados ou sujeitos a registo, não é permitido o processamento em separado de facturas ou documentos equivalentes em relação às mercadorias utilizadas como matéria-prima e aos restantes custos ou outros elementos de formação do preço das transacções.
+Art. 69.º Nas transacções previstas no artigo 1.º, realizadas por produtores ou grossistas registados ou sujeitos a registo, não é permitido o processamento em separado de facturas ou documentos equivalentes em relação às mercadorias utilizadas como matéria-prima e aos restantes custos ou outros elementos de formação do preço das transacções.
 
-###### Art. 70.º As facturas ou documentos equivalentes, quaisquer que sejam os modelos adoptados, deverão conter os seguintes elementos:
+Art. 70.º As facturas ou documentos equivalentes, quaisquer que sejam os modelos adoptados, deverão conter os seguintes elementos:
 
 1.º Os nomes ou denominações sociais e a sede ou domicílio do produtor ou grossista emitente e do destinatário ou adquirente, bem como, tratando-se de produtores ou grossistas registados, os números das respectivas inscrições;
 
@@ -873,27 +1077,27 @@ Esta comunicação deverá ser feita nas condições estabelecidas no parágrafo
 
 § 2.º As facturas ou documentos equivalentes serão numerados seguidamente em uma ou mais séries convenientemente referenciadas, devendo conservar-se, na respectiva ordem, os seus duplicados e bem assim todos os exemplares dos que tiverem sido anulados ou inutilizados, com os averbamentos indispensáveis à identificação daqueles que os substituíram, quando for caso disso.
 
-###### Art. 71.º As guias ou notas de devolução a que se refere o § 1.º do artigo 68.º deverão conter os elementos previstos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo anterior, com dispensa dos que respeitarem a preços e valores.
+Art. 71.º As guias ou notas de devolução a que se refere o § 1.º do artigo 68.º deverão conter os elementos previstos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo anterior, com dispensa dos que respeitarem a preços e valores.
 
 § único. A recepção das mercadorias devolvidas deverá ser acusada em documento que será arquivado por quem efectuou a devolução.
 
-###### Art. 72.º Sempre que o volume de transacções o justifique, o director-geral das Contribuições e Impostos poderá autorizar o processamento de facturas globais, relativas às transacções realizadas em cada mês, ou em períodos inferiores, desde que por cada transacção seja processada guia ou nota de remessa, donde constem os elementos referidos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo 70.º, salvo os que respeitam a preços e valores.
+Art. 72.º Sempre que o volume de transacções o justifique, o director-geral das Contribuições e Impostos poderá autorizar o processamento de facturas globais, relativas às transacções realizadas em cada mês, ou em períodos inferiores, desde que por cada transacção seja processada guia ou nota de remessa, donde constem os elementos referidos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo 70.º, salvo os que respeitam a preços e valores.
 
 § 1.º Nos casos em que for autorizada a emissão de facturas globais, o processamento não poderá ir além de oito dias do termo do período a que respeitem.
 
 § 2.º A inobservância das condições estabelecidas no despacho de autorização importará a caducidade desta a partir da data que for determinada pela Direcção-Geral das Contribuições e Impostos, sem prejuízo das penalidades que ao caso couberem.
 
-###### Art. 73.º Nos casos de entrega de mercadorias à consignação, ou de utilização de embalagens recuperáveis, nos termos das alíneas a) e b) do § 2.º do artigo 1.º, proceder-se-á ao processamento de facturas ou documentos equivalentes:
+Art. 73.º Nos casos de entrega de mercadorias à consignação, ou de utilização de embalagens recuperáveis, nos termos das alíneas a) e b) do § 2.º do artigo 1.º, proceder-se-á ao processamento de facturas ou documentos equivalentes:
 
 1.º No momento da entrega das mercadorias ou da utilização das embalagens, nos termos do artigo 68.º;
 
 2.º Quando forem ou devam considerar-se realizadas as transacções de harmonia com o disposto na alínea e) do § único do artigo 4.º
 
-###### Art. 74.º Os produtores ou grossistas registados ou sujeitos a registo que possuam os livros de escrituração exigidos pela lei comercial deverão abrir uma conta privativa da liquidação e pagamento do imposto de transacções, a qual será creditada pelas importâncias liquidadas e debitada pelas entregas nos cofres do Estado e pelas anuladas por compensação nos termos dos artigos 27.º, 28.º, 29.º e 31.º, tendo em atenção, porém, quando essa compensação depender da autorização prevista no referido artigo 31.º, que os lançamentos a débito só poderão ser efectuados depois de aquela autorização ter sido concedida.
+Art. 74.º Os produtores ou grossistas registados ou sujeitos a registo que possuam os livros de escrituração exigidos pela lei comercial deverão abrir uma conta privativa da liquidação e pagamento do imposto de transacções, a qual será creditada pelas importâncias liquidadas e debitada pelas entregas nos cofres do Estado e pelas anuladas por compensação nos termos dos artigos 27.º, 28.º, 29.º e 31.º, tendo em atenção, porém, quando essa compensação depender da autorização prevista no referido artigo 31.º, que os lançamentos a débito só poderão ser efectuados depois de aquela autorização ter sido concedida.
 
 § único. Quando os produtores ou grossistas registados ou sujeitos a registo possuírem filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais e a escrituração estiver centralizada, deverão abrir tantas subcontas quantas as dependências em que se efectuarem transacções sujeitas a imposto nos termos deste código.
 
-###### Art. 75.º Os produtores ou grossistas registados ou sujeitos a registo deverão possuir em cada um dos seus estabelecimentos, filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais, ou no seu domicílio, quando não tenham qualquer estabelecimento, os seguintes elementos:
+Art. 75.º Os produtores ou grossistas registados ou sujeitos a registo deverão possuir em cada um dos seus estabelecimentos, filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais, ou no seu domicílio, quando não tenham qualquer estabelecimento, os seguintes elementos:
 
 1.º Livro de registo do modelo n.º 7 anexo a este código, para escrituração de todas as entradas de mercadorias, quer resultem de transacções, quer não;
 
@@ -909,33 +1113,33 @@ Esta comunicação deverá ser feita nas condições estabelecidas no parágrafo
 
 § 3.º Na escrituração dos elementos referidos no corpo deste artigo não poderão ser efectuadas emendas ou rasuras que não sejam ressalvadas.
 
-###### Art. 76.º Os produtores sujeitos a registo ou registados, ainda que exerçam no mesmo estabelecimento a actividade de grossista, deverão possuir, além dos verbetes mencionados no n.º 4.º do artigo anterior, dois grupos dos livros referidos nos n.os 1.º, 2.º e 3.º do mesmo artigo, com as necessárias adaptações, sendo um grupo para a escrituração do movimento das matérias-primas e outro para a dos bens resultantes do processo produtivo ou das mercadorias que tiverem sido adquiridas para venda por grosso.
+Art. 76.º Os produtores sujeitos a registo ou registados, ainda que exerçam no mesmo estabelecimento a actividade de grossista, deverão possuir, além dos verbetes mencionados no n.º 4.º do artigo anterior, dois grupos dos livros referidos nos n.os 1.º, 2.º e 3.º do mesmo artigo, com as necessárias adaptações, sendo um grupo para a escrituração do movimento das matérias-primas e outro para a dos bens resultantes do processo produtivo ou das mercadorias que tiverem sido adquiridas para venda por grosso.
 
 § único. Aos elementos a que se refere o corpo deste artigo é aplicável o disposto nos §§ 1.º, 2.º e 3.º do artigo anterior.
 
-###### Art. 77.º Os produtores ou grossistas registados ou sujeitos a registo poderão, em harmonia com as necessidades da sua escrituração, omitir nos livros referidos nos artigos 75.º e 76.º as colunas correspondentes às transacções que não realizarem ou desdobrá-los segundo a natureza das mesmas transacções, devendo, porém, em qualquer caso, observar as instruções constantes dos modelos aprovados, as quais se consideram como fazendo parte deste diploma.
+Art. 77.º Os produtores ou grossistas registados ou sujeitos a registo poderão, em harmonia com as necessidades da sua escrituração, omitir nos livros referidos nos artigos 75.º e 76.º as colunas correspondentes às transacções que não realizarem ou desdobrá-los segundo a natureza das mesmas transacções, devendo, porém, em qualquer caso, observar as instruções constantes dos modelos aprovados, as quais se consideram como fazendo parte deste diploma.
 
-###### Art. 78.º Os livros a que se referem os n.os 1.º, 2.º e 3.º do artigo 75.º e o artigo 76.º poderão substituir os de registo das compras e das vendas mencionados no artigo 133.º do Código da Contribuição Industrial.
+Art. 78.º Os livros a que se referem os n.os 1.º, 2.º e 3.º do artigo 75.º e o artigo 76.º poderão substituir os de registo das compras e das vendas mencionados no artigo 133.º do Código da Contribuição Industrial.
 
 § 1.º A faculdade conferida no corpo deste artigo só poderá ser usada pelos produtores ou grossistas sujeitos a registo que declarem por escrito a natureza e o número de livros que vão utilizar.
 
 § 2.º A declaração a que se refere o parágrafo anterior será feita em duplicado, em papel de formato legal, conforme o modelo n.º 11, assinada pelo produtor ou grossista ou pelos seus representantes legais ou mandatários, e apresentada, até dez dias antes do início do uso da faculdade conferida no corpo deste artigo, nas repartições de finanças indicadas no § único do artigo 51.º
 
-###### Art. 79.º A Direcção-Geral das Contribuições e Impostos, a requerimento dos produtores ou grossistas registados que possuam contabilidade regularmente organizada, utilizando registos de folhas soltas, mecânicos ou não, poderá autorizar que os livros a que se referem os n.os 1.º, 2.º e 3.º do artigo 75.º e o artigo 76.º sejam feitos igualmente em folhas soltas, com observância das condições que forem estabelecidas.
+Art. 79.º A Direcção-Geral das Contribuições e Impostos, a requerimento dos produtores ou grossistas registados que possuam contabilidade regularmente organizada, utilizando registos de folhas soltas, mecânicos ou não, poderá autorizar que os livros a que se referem os n.os 1.º, 2.º e 3.º do artigo 75.º e o artigo 76.º sejam feitos igualmente em folhas soltas, com observância das condições que forem estabelecidas.
 
-###### Art. 80.º Na escrituração dos livros e verbetes referidos nos artigos 75.º e 76.º não são permitidos atrasos superiores a quinze dias.
+Art. 80.º Na escrituração dos livros e verbetes referidos nos artigos 75.º e 76.º não são permitidos atrasos superiores a quinze dias.
 
 § único. Nos casos previstos no § 2.º do artigo 75.º, aos elementos de fiscalização permanente é igualmente aplicável o disposto no corpo deste artigo.
 
-###### Art. 81.º Os produtores ou grossistas registados que tenham feito fornecimentos de mercadorias a coberto de declarações de responsabilidade nos termos dos artigos 64.º ou 65.º deverão arquivar as referidas declarações, ficando responsáveis pelo imposto que tiver deixado de ser liquidado, sem prejuízo da penalidade prevista no artigo 109.º, se no próprio acto de fiscalização as não exibirem.
+Art. 81.º Os produtores ou grossistas registados que tenham feito fornecimentos de mercadorias a coberto de declarações de responsabilidade nos termos dos artigos 64.º ou 65.º deverão arquivar as referidas declarações, ficando responsáveis pelo imposto que tiver deixado de ser liquidado, sem prejuízo da penalidade prevista no artigo 109.º, se no próprio acto de fiscalização as não exibirem.
 
-###### Art. 82.º Os produtores ou grossistas registados ou sujeitos a registo deverão manter arquivados, por ordem cronológica e pelo prazo de cinco anos, os livros, facturas ou documentos equivalentes que processarem e receberem, assim como os demais documentos exigidos pelo presente diploma.
+Art. 82.º Os produtores ou grossistas registados ou sujeitos a registo deverão manter arquivados, por ordem cronológica e pelo prazo de cinco anos, os livros, facturas ou documentos equivalentes que processarem e receberem, assim como os demais documentos exigidos pelo presente diploma.
 
 § único. Os adquirentes ou destinatários de mercadorias, referidos no corpo do artigo 93.º, que não forem produtores ou grossistas registados ou sujeitos a registo, deverão igualmente arquivar por ordem cronológica e durante o período de cinco anos as facturas ou documentos equivalentes respeitantes às transacções em que, naquela qualidade, tiverem intervindo.
 
-###### Art. 83.º Os elementos exigidos no artigo anterior serão facultados aos funcionários referidos nos §§ 1.º e 2.º do artigo 45.º e no artigo 46.º quando especial ou genèricamente solicitados, devendo os contribuintes assegurar que, nas suas ausências ou impedimentos, se encontre sempre nos respectivos estabelecimentos, ou outros locais sujeitos a fiscalização, pessoa que apresente os indicados elementos.
+Art. 83.º Os elementos exigidos no artigo anterior serão facultados aos funcionários referidos nos §§ 1.º e 2.º do artigo 45.º e no artigo 46.º quando especial ou genèricamente solicitados, devendo os contribuintes assegurar que, nas suas ausências ou impedimentos, se encontre sempre nos respectivos estabelecimentos, ou outros locais sujeitos a fiscalização, pessoa que apresente os indicados elementos.
 
-###### Art. 84.º Quando, em resultado de visitas de fiscalização ou de exames a escritas, se presuma exagerado o consumo de mercadorias adquiridas para utilização como matéria-prima, tendo em conta o volume de produção efectivamente obtido, será elaborado relatório especial pormenorizado para ser submetido a apreciação da Direcção-Geral das Contribuições e Impostos.
+Art. 84.º Quando, em resultado de visitas de fiscalização ou de exames a escritas, se presuma exagerado o consumo de mercadorias adquiridas para utilização como matéria-prima, tendo em conta o volume de produção efectivamente obtido, será elaborado relatório especial pormenorizado para ser submetido a apreciação da Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Os produtores nas condições previstas no corpo deste artigo serão notificados das conclusões do relatório para, querendo, no prazo de dez dias, contado da data da notificação, fornecerem por escrito os elementos que acharem convenientes.
 
@@ -947,27 +1151,27 @@ Esta comunicação deverá ser feita nas condições estabelecidas no parágrafo
 
 § 5.º Da decisão final proferida nos termos do parágrafo anterior será dado conhecimento à competente repartição de finanças para proceder à liquidação do imposto em dívida.
 
-###### Art. 85.º Para efeitos do disposto no § 2.º do artigo 6.º, os produtores ou grossistas registados que pretendam aproveitar da isenção prevista no n.º 4.º do mesmo artigo deverão apresentar nos serviços aduaneiros, juntamente com o bilhete de despacho de exportação, quando esta seja efectuada por via diferente da postal, a declaração de exportação do modelo n.º 2, em triplicado, devidamente preenchida.
+Art. 85.º Para efeitos do disposto no § 2.º do artigo 6.º, os produtores ou grossistas registados que pretendam aproveitar da isenção prevista no n.º 4.º do mesmo artigo deverão apresentar nos serviços aduaneiros, juntamente com o bilhete de despacho de exportação, quando esta seja efectuada por via diferente da postal, a declaração de exportação do modelo n.º 2, em triplicado, devidamente preenchida.
 
 § 1.º Logo que as mercadorias tenham sido submetidas a despacho, os três exemplares da respectiva declaração do modelo n.º 2 serão averbados de conformidade nos serviços que o tiverem efectuado, devolvendo-se o triplicado ao produtor ou grossista registado ou seu representante. O original e o duplicado serão arquivados naqueles serviços com os demais papéis respeitantes ao despacho, até que a exportação se efective.
 
 § 2.º Quando as mercadorias submetidas anteriormente a despacho saírem do continente ou ilhas adjacentes, o original e o duplicado da declaração modelo n.º 2 serão averbados, pelos competentes serviços aduaneiros, da efectivação da exportação. Seguidamente o duplicado será entregue ao produtor ou grossista registado ou seu representante, para os fins previstos no § 2.º do artigo 6.º, devendo o original ser enviado à direcção de finanças do distrito da área da sede ou domicílio do produtor ou grossista registado.
 
-###### Art. 86.º Os produtores ou grossistas registados que efectuarem a exportação de mercadorias por via postal e pretendam beneficiar da isenção prevista no n.º 4.º do artigo 6.º deverão apresentar, para efeitos do disposto no § 2.º do mesmo artigo, no acto da entrega dos objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais nos serviços da Administração-Geral dos Correios, Telégrafos e Telefones, devidamente preenchida, a declaração de exportação do modelo n.º 2-A, em duplicado.
+Art. 86.º Os produtores ou grossistas registados que efectuarem a exportação de mercadorias por via postal e pretendam beneficiar da isenção prevista no n.º 4.º do artigo 6.º deverão apresentar, para efeitos do disposto no § 2.º do mesmo artigo, no acto da entrega dos objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais nos serviços da Administração-Geral dos Correios, Telégrafos e Telefones, devidamente preenchida, a declaração de exportação do modelo n.º 2-A, em duplicado.
 
 § único. Após a aceitação dos objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais com destino às províncias ultramarinas ou ao estrangeiro, os dois exemplares da declaração de exportação do modelo n.º 2-A serão devidamente averbados pelos competentes serviços da Administração-Geral dos Correios, Telégrafos e Telefones, depois do que será devolvido o duplicado ao apresentante, remetente ou expedidor para os fins previstos no § 2.º do artigo 6.º e enviado o original à direcção de finanças do distrito da área da sede ou domicílio do produtor ou grossista registado.
 
-###### Art. 87.º Os produtores ou grossistas registados que, por restituição ou devolução, tenham recebido objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais expedidos para as províncias ultramarinas ou o estrangeiro, ou promovido a alteração da indicação da província ou do país do destino por forma que a sua entrega venha a ser efectuada no continente ou ilhas adjacentes, ficam obrigados a enviar à direcção de finanças do distrito da área da sua sede ou domicílio o duplicado da declaração de exportação do modelo n.º 2-A, referido no § 2.º do artigo 6.º, no prazo de três dias, contado da data em que tiver sido efectuada aquela restituição ou devolução ou promovida a alteração do endereço.
+Art. 87.º Os produtores ou grossistas registados que, por restituição ou devolução, tenham recebido objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais expedidos para as províncias ultramarinas ou o estrangeiro, ou promovido a alteração da indicação da província ou do país do destino por forma que a sua entrega venha a ser efectuada no continente ou ilhas adjacentes, ficam obrigados a enviar à direcção de finanças do distrito da área da sua sede ou domicílio o duplicado da declaração de exportação do modelo n.º 2-A, referido no § 2.º do artigo 6.º, no prazo de três dias, contado da data em que tiver sido efectuada aquela restituição ou devolução ou promovida a alteração do endereço.
 
-###### Art. 88.º Quando, em resultado de visitas de fiscalização ou de exames a escritas, não forem considerados suficientes os elementos de prova da natureza comercial das transacções realizadas com o benefício da isenção prevista no n.º 4.º do artigo 6.º, os produtores ou grossistas serão notificados para fazerem imediata liquidação do imposto devido, cujo quantitativo será incluído na primeira entrega a fazer nos cofres do Estado, nos prazos estabelecidos no artigo 41.º, sem prejuízo do direito de impugnação judicial.
+Art. 88.º Quando, em resultado de visitas de fiscalização ou de exames a escritas, não forem considerados suficientes os elementos de prova da natureza comercial das transacções realizadas com o benefício da isenção prevista no n.º 4.º do artigo 6.º, os produtores ou grossistas serão notificados para fazerem imediata liquidação do imposto devido, cujo quantitativo será incluído na primeira entrega a fazer nos cofres do Estado, nos prazos estabelecidos no artigo 41.º, sem prejuízo do direito de impugnação judicial.
 
-###### Art. 89.º Para efeito de fiscalização, e quando se mostre adequado, o Ministro das Finanças, sob proposta da Direcção-Geral das Contribuições e Impostos, poderá estabelecer a obrigatoriedade de as instalações comerciais ou industriais dos produtores e grossistas registados ou sujeitos a registo serem equipadas com depósitos selados, contadores ou outros aparelhos de medida apropriados, cuja inviolabilidade esteja assegurada, para contagem, pesagem ou medição das mercadorias nelas fabricadas, produzidas ou transformadas.
+Art. 89.º Para efeito de fiscalização, e quando se mostre adequado, o Ministro das Finanças, sob proposta da Direcção-Geral das Contribuições e Impostos, poderá estabelecer a obrigatoriedade de as instalações comerciais ou industriais dos produtores e grossistas registados ou sujeitos a registo serem equipadas com depósitos selados, contadores ou outros aparelhos de medida apropriados, cuja inviolabilidade esteja assegurada, para contagem, pesagem ou medição das mercadorias nelas fabricadas, produzidas ou transformadas.
 
 § 1.º As condições de funcionamento e a inviolabilidade dos depósitos, contadores ou aparelhos a que se refere o corpo deste artigo serão verificadas após a conclusão da sua instalação e montagem e antes do início da sua utilização e, posteriormente, quando aprovadas, sempre que for julgado conveniente.
 
 § 2.º A fiscalização referida no parágrafo anterior será efectuada pela Direcção-Geral das Contribuições e Impostos, ou, quando for julgado necessário, por outros organismos do Estado nas condições que vierem a ser estabelecidas em portaria assinada pelo Ministro das Finanças, e pelo da pasta de que dependam os referidos organismos.
 
-###### Art. 90.º A obrigação que for estabelecida nos termos do artigo anterior será notificada ao produtor ou grossista interessado, para, no prazo que for fixado e não excedente a 60 dias, contado da data da notificação, apresentar memória descritiva acompanhada de desenhos, catálogos e outros elementos elucidativos dos depósitos, contadores ou aparelhos de medida que melhor se adaptem às suas instalações.
+Art. 90.º A obrigação que for estabelecida nos termos do artigo anterior será notificada ao produtor ou grossista interessado, para, no prazo que for fixado e não excedente a 60 dias, contado da data da notificação, apresentar memória descritiva acompanhada de desenhos, catálogos e outros elementos elucidativos dos depósitos, contadores ou aparelhos de medida que melhor se adaptem às suas instalações.
 
 § 1.º Através dos elementos fornecidos e dos demais que forem colhidos pelos serviços, a Direcção-Geral das Contribuições e Impostos autorizará a instalação e montagem proposta nos termos deste artigo, estabelecendo as condições a que devam obedecer e o prazo para a sua conclusão, ou recusá-la-á, indicando, neste caso, as principais características do equipamento a instalar.
 
@@ -977,59 +1181,59 @@ Esta comunicação deverá ser feita nas condições estabelecidas no parágrafo
 
 4.º Para efeitos do disposto no § 2.º, a Direcção-Geral das Contribuições e Impostos poderá requisitar de quaisquer organismos do Estado parecer técnico sobre as características a que devam obedecer os depósitos, contadores ou aparelhos a instalar.
 
-###### Art. 91.º As operações de reparação, conservação ou beneficiação do equipamento referido na artigo 89.º, que importem qualquer perturbação ou interrupção do seu funcionamento, ou diminuição das garantias de inviolabilidade, deverão ser prèviamente autorizadas pela Direcção-Geral das Contribuições e Impostos, que tomará as providências que julgar adequadas, dando delas conhecimento aos interessados.
+Art. 91.º As operações de reparação, conservação ou beneficiação do equipamento referido na artigo 89.º, que importem qualquer perturbação ou interrupção do seu funcionamento, ou diminuição das garantias de inviolabilidade, deverão ser prèviamente autorizadas pela Direcção-Geral das Contribuições e Impostos, que tomará as providências que julgar adequadas, dando delas conhecimento aos interessados.
 
 § 1.º Quando, por justificados motivos de força maior, for necessário proceder a urgentes operações de reparação que não permitam aguardar a autorização referida no corpo deste artigo, deverá o facto ser comunicado, em carta registada, no prazo de 24 horas, ao director de finanças do distrito da situação do estabelecimento, que tomará as providências julgadas convenientes, promovendo no mais curto prazo a realização da verificação a que se refere o § 1.º do artigo 89.º
 
 § 2.º Nos casos previstos no corpo deste artigo não poderão repor-se em funcionamento os depósitos, contadores ou aparelhos referidos no artigo 89.º sem ter sido realizada a verificação estabelecida no § 1.º do mesmo artigo, salvo se esta tiver sido dispensada.
 
-###### Art. 92.º A verificação a que se refere a primeira parte do § 1.º do artigo 89.º deverá ser requerida com antecedência não inferior a oito dias do termo do prazo que, de harmonia com o disposto no artigo 90.º, tiver sido fixado para a instalação e montagem dos depósitos, contadores ou outros aparelhos de medida apropriados.
+Art. 92.º A verificação a que se refere a primeira parte do § 1.º do artigo 89.º deverá ser requerida com antecedência não inferior a oito dias do termo do prazo que, de harmonia com o disposto no artigo 90.º, tiver sido fixado para a instalação e montagem dos depósitos, contadores ou outros aparelhos de medida apropriados.
 
 § único. Nos casos previstos no artigo 91.º e quando não tiver sido dispensada a verificação a que se refere a primeira parte do § 1.º do artigo 89.º, deverá esta ser requerida até cinco dias antes da data em que se pretender repor em funcionamento a instalação.
 
-###### Art. 93.º Os adquirentes ou destinatários de mercadorias, nos casos em que a sua intervenção nas transacções resulte do exercício, embora acidental, de actividade comercial, industrial ou profissional por conta própria, são obrigados a exigir um exemplar da factura ou documento equivalente a que se refere o corpo do artigo 68.º
+Art. 93.º Os adquirentes ou destinatários de mercadorias, nos casos em que a sua intervenção nas transacções resulte do exercício, embora acidental, de actividade comercial, industrial ou profissional por conta própria, são obrigados a exigir um exemplar da factura ou documento equivalente a que se refere o corpo do artigo 68.º
 
 § único. As facturas ou documentos equivalentes que não contenham os elementos exigidos no n.º 7.º do corpo do artigo 70.º serão obrigatòriamente devolvidos para serem substituídos.
 
-###### Art. 94.º Os directores das alfândegas do continente e ilhas adjacentes remeterão mensalmente à Direcção-Geral das Contribuições e Impostos notas das mercadorias importadas ou exportadas no mês anterior por produtores ou grossistas registados, com indicação das espécies, quantidades e valores, bem como dos nomes dos importadores ou exportadores e dos números que às suas inscrições couberam no registo a que se refere o artigo 48.º
+Art. 94.º Os directores das alfândegas do continente e ilhas adjacentes remeterão mensalmente à Direcção-Geral das Contribuições e Impostos notas das mercadorias importadas ou exportadas no mês anterior por produtores ou grossistas registados, com indicação das espécies, quantidades e valores, bem como dos nomes dos importadores ou exportadores e dos números que às suas inscrições couberam no registo a que se refere o artigo 48.º
 
 § 1.º As notas referidas no corpo deste artigo compreenderão igualmente as mercadorias cuja importação ou exportação tenha sido efectuada temporàriamente e bem assim as correspondentes reexportações e reimportações.
 
 § 2.º Fica dispensada a remessa das notas anteriormente referidas nos casos em que as organizadas em cumprimento do estabelecido no artigo 120.º do Código da Contribuição Industrial contiverem, além dos elementos exigidos no presente artigo, os números das respectivas inscrições no registo a que se refere o artigo 48.º
 
-###### Art. 95.º Os chefes dos serviços aduaneiros ou de outros serviços públicos em que tenham sido realizadas arrematações ou vendas de mercadorias provenientes das províncias ultramarinas ou do estrangeiro remeterão mensalmente à Direcção-Geral das Contribuições e Impostos notas das arrematações ou vendas efectuadas no mês anterior, das quais constem os nomes dos arrematantes ou compradores, as espécies, quantidades e valores das mercadorias transaccionadas e, quando for caso disso, o correspondente número da inscrição no registo a que se refere o artigo 48.º
+Art. 95.º Os chefes dos serviços aduaneiros ou de outros serviços públicos em que tenham sido realizadas arrematações ou vendas de mercadorias provenientes das províncias ultramarinas ou do estrangeiro remeterão mensalmente à Direcção-Geral das Contribuições e Impostos notas das arrematações ou vendas efectuadas no mês anterior, das quais constem os nomes dos arrematantes ou compradores, as espécies, quantidades e valores das mercadorias transaccionadas e, quando for caso disso, o correspondente número da inscrição no registo a que se refere o artigo 48.º
 
-###### Art. 96.º O disposto no artigo anterior é igualmente aplicável, com as necessárias adaptações, aos chefes das secretarias dos tribunais ou seus encarregados no juízos de paz e aos chefes dos serviços em que tiverem sido realizadas transacções por arrematação e venda judicial ou administrativa, adjudicação, conciliação ou contratos de transacção.
+Art. 96.º O disposto no artigo anterior é igualmente aplicável, com as necessárias adaptações, aos chefes das secretarias dos tribunais ou seus encarregados no juízos de paz e aos chefes dos serviços em que tiverem sido realizadas transacções por arrematação e venda judicial ou administrativa, adjudicação, conciliação ou contratos de transacção.
 
-###### Art. 97.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá autorizar que as encomendas postais com destino às províncias ultramarinas ou ao estrangeiro sejam verificadas sem assistência do apresentante, remetente ou expedidor, desde que essa verificação seja requisitada pela Direcção-Geral das Contribuições e Impostos.
+Art. 97.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá autorizar que as encomendas postais com destino às províncias ultramarinas ou ao estrangeiro sejam verificadas sem assistência do apresentante, remetente ou expedidor, desde que essa verificação seja requisitada pela Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Para efeito das verificações a que se refere o corpo deste artigo, as autorizações concedidas poderão abranger todos os serviços habilitados à aceitação de encomendas postais com destino às províncias ultramarinas ou ao estrangeiro e especificarão, além do período da sua validade, não inferior a um ano, os nomes e categorias dos funcionários do Serviço de Prevenção e Fiscalização Tributária que deverão intervir naquelas diligências.
 
 § 2.º As encomendas postais serão abertas na presença dos funcionários referidos no parágrafo anterior, especialmente credenciados para o efeito, que assinarão os respectivos autos, procedendo, em caso de infracção, ao levantamento de auto de notícia, que será enviado à repartição de finanças competente, para instauração do processo de transgressão.
 
-###### Art. 98.º Quando os serviços da Administração-Geral dos Correios, Telégrafos e Telefones, nos casos não previstos no artigo anterior, procedam à abertura e verificação dos objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais com destino às províncias ultramarinas ou ao estrangeiro e reconheçam a falta de concordância entre o seu conteúdo e as indicações constantes das respectivas declarações para a alfândega e declarações de exportação do modelo n.º 2-A, deverão, dentro do prazo de cinco dias, participar o facto, de harmonia com o disposto no artigo 110.º do Código de Processo das Contribuições e Impostos, à repartição de finanças competente.
+Art. 98.º Quando os serviços da Administração-Geral dos Correios, Telégrafos e Telefones, nos casos não previstos no artigo anterior, procedam à abertura e verificação dos objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais com destino às províncias ultramarinas ou ao estrangeiro e reconheçam a falta de concordância entre o seu conteúdo e as indicações constantes das respectivas declarações para a alfândega e declarações de exportação do modelo n.º 2-A, deverão, dentro do prazo de cinco dias, participar o facto, de harmonia com o disposto no artigo 110.º do Código de Processo das Contribuições e Impostos, à repartição de finanças competente.
 
-###### Art. 99.º Nos casos em que forem restituídos ou devolvidos aos remetentes produtores ou grossistas registados os objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais destinados às províncias ultramarinas ou ao estrangeiro, ou, ainda, quando neles for alterada a indicação da província ou país do destino por forma que a sua entrega venha a ser efectuada no continente ou nas ilhas adjacentes, os serviços da Administração-Geral dos Correios, Telégrafos e Telefones são obrigados a comunicar esses factos à direcção de finanças do distrito da sede ou domicílio do produtor ou grossista registado remetente.
+Art. 99.º Nos casos em que forem restituídos ou devolvidos aos remetentes produtores ou grossistas registados os objectos de correspondência, cartas ou caixas com valor declarado ou encomendas postais destinados às províncias ultramarinas ou ao estrangeiro, ou, ainda, quando neles for alterada a indicação da província ou país do destino por forma que a sua entrega venha a ser efectuada no continente ou nas ilhas adjacentes, os serviços da Administração-Geral dos Correios, Telégrafos e Telefones são obrigados a comunicar esses factos à direcção de finanças do distrito da sede ou domicílio do produtor ou grossista registado remetente.
 
 § único. A comunicação a que se refere o corpo deste artigo será feita pelo correio e sob registo postal, conforme o modelo n.º 12, nos três dias imediatos àquele em que se efectuar a restituição, devolução ou alteração do endereço, devendo aquela comunicação ficar convenientemente anotada no recibo que for cobrado ou no documento que o substitua.
 
-###### Art. 100.º Quando se tiverem realizado as transacções previstas na alínea c) do artigo 1.º, nenhum tribunal ou repartição pública poderá autorizar a entrega ou dar cumprimento a precatório, mandado ou ordem de entrega das mercadorias existentes em depósito público ou em poder de quem quer que seja sem que se mostre satisfeito o imposto de transacções que for devido, salvo se houver sido feita a prova exigida pelo § 1.º do artigo 25.º
+Art. 100.º Quando se tiverem realizado as transacções previstas na alínea c) do artigo 1.º, nenhum tribunal ou repartição pública poderá autorizar a entrega ou dar cumprimento a precatório, mandado ou ordem de entrega das mercadorias existentes em depósito público ou em poder de quem quer que seja sem que se mostre satisfeito o imposto de transacções que for devido, salvo se houver sido feita a prova exigida pelo § 1.º do artigo 25.º
 
 § único. Nos precatórios declarar-se-á sempre se o imposto está pago ou não é devido.
 
 ### CAPÍTULO VIII — Reclamações e impugnações
 
-###### Art. 101.º As pessoas sujeitas a imposto poderão reclamar contra a liquidação do imposto ou impugná-la com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 101.º As pessoas sujeitas a imposto poderão reclamar contra a liquidação do imposto ou impugná-la com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 § 1.º A reclamação ou a impugnação que tenha por fundamento algum dos factos previstos nos artigos 27.º, 28.º, 29.º ou 31.º sòmente será admitida se estiverem satisfeitas as condições estabelecidas nesses preceitos e se demonstrar a impossibilidade de, pela forma neles autorizada, corrigir as liquidações efectuadas.
 
 § 2.º As liquidações só poderão ser anuladas quando esteja provado que o imposto não foi exigido pelo reclamante ou impugnante pela forma prevista no § 2.º do artigo 26.º
 
-###### Art. 102.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre o pagamento eventual ou, na sua falta, sobre a abertura dos cofres para a cobrança virtual.
+Art. 102.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre o pagamento eventual ou, na sua falta, sobre a abertura dos cofres para a cobrança virtual.
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 10$00.
 
-###### Art. 103.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto de transacções arrecadado por cobrança virtual.
+Art. 103.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto de transacções arrecadado por cobrança virtual.
 
 § 1.º Contar-se-ão juros de 4 por cento ao ano a favor do beneficiário do respectivo título de anulação sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
@@ -1037,9 +1241,9 @@ Esta comunicação deverá ser feita nas condições estabelecidas no parágrafo
 
 ### CAPÍTULO IX — Penalidades
 
-###### Art. 104.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 104.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 105.º A falta de entrega nos cofres do Estado, ou a entrega fora dos prazos estabelecidos, de todo ou parte do imposto devido, será punida com multa igual à importância do imposto em falta, nos casos de mera negligência; e com multa variável entre o dobro e o quádruplo do imposto, quando a infracção for cometida dolosamente.
+Art. 105.º A falta de entrega nos cofres do Estado, ou a entrega fora dos prazos estabelecidos, de todo ou parte do imposto devido, será punida com multa igual à importância do imposto em falta, nos casos de mera negligência; e com multa variável entre o dobro e o quádruplo do imposto, quando a infracção for cometida dolosamente.
 
 § 1.º Consideram-se sempre dolosas as infracções previstas neste artigo quando ocorrer algum dos factos seguintes:
 
@@ -1055,111 +1259,111 @@ d) Recusa de exibição dos livros, facturas e demais documentos exigidos neste 
 
 § 3.º Quando, por carência de elementos, não for possível determinar a importância do imposto em falta, as penas serão graduadas entre 1000$00 e 1000000$00.
 
-###### Art. 106.º As anulações ou rectificações da liquidação do imposto efectuadas sem observância do disposto nos artigos 27.º a 31.º são equiparadas à falta de entrega do imposto e serão punidas nos termos do artigo anterior.
+Art. 106.º As anulações ou rectificações da liquidação do imposto efectuadas sem observância do disposto nos artigos 27.º a 31.º são equiparadas à falta de entrega do imposto e serão punidas nos termos do artigo anterior.
 
-###### Art. 107.º A falta de entrega, ou a entrega fora dos prazos estabelecidos, de quaisquer declarações ou documentos a apresentar, nos termos do presente diploma, pelos produtores ou grossistas registados ou sujeitos a registo, bem como as inexactidões ou omissões praticadas em quaisquer dos referidos elementos, serão punidas com multa de 100$00 a 20000$00, havendo simples negligência; e com multa de 500$00 a 100000$00, havendo dolo.
+Art. 107.º A falta de entrega, ou a entrega fora dos prazos estabelecidos, de quaisquer declarações ou documentos a apresentar, nos termos do presente diploma, pelos produtores ou grossistas registados ou sujeitos a registo, bem como as inexactidões ou omissões praticadas em quaisquer dos referidos elementos, serão punidas com multa de 100$00 a 20000$00, havendo simples negligência; e com multa de 500$00 a 100000$00, havendo dolo.
 
 § único. Consideram-se sempre dolosas as omissões, inexactidões ou falsidades praticadas nos inventários apresentados em cumprimento do disposto nos artigos 32.º, 33.º, 34.º ou 62.º ou nas declarações de exportação do modelo n.º 2 ou n.º 2-A, referidas no § 2.º do artigo 6.º ou, ainda, nas declarações que forem feitas em substituição daqueles inventários, nos termos do § 4.º do artigo 33.º ou do § único do artigo 34.º
 
-###### Art. 108.º A falta da renovação das declarações de responsabilidade exigida no § 1.º do artigo 65.º sujeita o produtor ou grossista adquirente das mercadorias ao pagamento de multa de 100$00 a 10000$00.
+Art. 108.º A falta da renovação das declarações de responsabilidade exigida no § 1.º do artigo 65.º sujeita o produtor ou grossista adquirente das mercadorias ao pagamento de multa de 100$00 a 10000$00.
 
-###### Art. 109.º A inexistência ou a recusa de exibição dos livros, facturas e demais documentos exigidos neste código, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 5000$00 a 500000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida, técnicos de contas e guarda-livros, ou outros que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
+Art. 109.º A inexistência ou a recusa de exibição dos livros, facturas e demais documentos exigidos neste código, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 5000$00 a 500000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida, técnicos de contas e guarda-livros, ou outros que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
 
 § 1.º Considera-se recusada a exibição da escrita e dos livros, facturas e demais documentos que não sejam postos à disposição dos funcionários competentes, de harmonia com o disposto no artigo 83.º
 
 § 2.º Os factos delituosos previstos nas alíneas a) e c) do § 1.º do artigo 105.º só constituirão infracções autònomamente puníveis com as multas cominadas no corpo do presente artigo quando não constituam elementos integrantes ou qualificativos da infracção dolosa prevista na corpo do mesmo artigo.
 
-###### Art. 110.º Por quaisquer inexactidões ou omissões, que não constituam falsificação, praticadas nos livros, facturas ou outros documentos exigidos neste código, bem como pelo não cumprimento das regras estabelecidas para a sua escrituração, será paga multa de 100$00 a 10000$00.
+Art. 110.º Por quaisquer inexactidões ou omissões, que não constituam falsificação, praticadas nos livros, facturas ou outros documentos exigidos neste código, bem como pelo não cumprimento das regras estabelecidas para a sua escrituração, será paga multa de 100$00 a 10000$00.
 
 § único. A multa prevista neste artigo não é aplicável às inexactidões ou omissões praticadas nas declarações e documentos referidos no artigo 107.º
 
-###### Art. 111.º Os atrasos na escrituração dos livros, verbetes ou outros elementos referidos nos artigos 75.º e 76.º, para além da tolerância admitida neste código, serão punidos com multa de 1000$00 a 100000$00.
+Art. 111.º Os atrasos na escrituração dos livros, verbetes ou outros elementos referidos nos artigos 75.º e 76.º, para além da tolerância admitida neste código, serão punidos com multa de 1000$00 a 100000$00.
 
 § único. Verificado o atraso, e independentemente do procedimento para a aplicação da multa prevista no corpo deste artigo, o chefe da repartição de finanças mandará notificar o transgressor para regularizar a sua escrita, dentro do prazo a designar entre 8 e 30 dias, com a cominação de que, não o fazendo, ficará ainda sujeito à multa prevista no artigo 109.º
 
 Se, findo esse prazo, a escrita não estiver regularizada, levantar-se-á auto de notícia para aplicação dessa pena, considerando-se o facto como recusa de exibição da escrita.
 
-###### Art. 112.º Sempre que forem dolosamente sonegadas mercadorias aos livros, verbetes e outros elementos referidos nos artigos 75.º e 76.º, os produtores ou grossistas registados ou sujeitos a registo serão punidos com multa variável entre o dobro e o quádruplo do imposto correspondente à transacção daquelas mercadorias, sem prejuízo do que for devido se vierem a ser ulteriormente transaccionadas ou se já o tiverem sido.
+Art. 112.º Sempre que forem dolosamente sonegadas mercadorias aos livros, verbetes e outros elementos referidos nos artigos 75.º e 76.º, os produtores ou grossistas registados ou sujeitos a registo serão punidos com multa variável entre o dobro e o quádruplo do imposto correspondente à transacção daquelas mercadorias, sem prejuízo do que for devido se vierem a ser ulteriormente transaccionadas ou se já o tiverem sido.
 
 § 1.º Tendo em atenção os elementos de escrituração referidos no corpo deste artigo, consideram-se sonegadas dolosamente todas as mercadorias em falta ou encontradas a mais nos estabelecimentos dos produtores ou grossistas registados ou sujeitos a registo, quer tenham sido adquiridas para utilização como matéria-prima ou para venda por grosso, quer sejam resultantes dos processos ou meios de produção, fabrico ou transformação, desde que, em qualquer dos casos, não esteja convenientemente justificado e escriturado o seu movimento nos livros e verbetes previstos nos artigos 75.º e 76.º
 
 § 2.º Quando, nos casos previstos neste artigo, não se consiga identificar as mercadorias sonegadas, os produtores ou grossistas serão punidos com multa até 1000000$00, consoante o presumível valor desses bens.
 
-###### Art. 113.º As infracções ao disposto nos artigos 90.º, 91.º e 92.º cometidas por produtores ou grossistas registados ou sujeitos a registo serão punidas com multa de 5000$00 a 500000$00.
+Art. 113.º As infracções ao disposto nos artigos 90.º, 91.º e 92.º cometidas por produtores ou grossistas registados ou sujeitos a registo serão punidas com multa de 5000$00 a 500000$00.
 
 § 1.º A viciação, violação ou inutilização dolosa dos depósitos, contadores ou outros aparelhos de medida apropriados, instalados nos termos dos artigos 89.º e seguintes, será punida com as penas do artigo 228.º do Código Penal.
 
 § 2.º Na falta de cumprimento das obrigações estabelecidas nos termos dos artigos 89.º e seguintes dentro das prazos que forem determinados, poderá o Ministro das Finanças impor a sujeição a fiscalização directa e permanente, nas condições especiais que forem estabelecidas, ficando as despesas de instalação e manutenção a cargo do contribuinte.
 
-###### Art. 114.º A infracção ao disposto no § 2.º do artigo 25.º é punível com multa de 5000$00 a 100000$00, pela qual responderão solidàriamente, tratando-se de actos de importação, os despachantes oficiais que intervierem no desembaraço alfandegário.
+Art. 114.º A infracção ao disposto no § 2.º do artigo 25.º é punível com multa de 5000$00 a 100000$00, pela qual responderão solidàriamente, tratando-se de actos de importação, os despachantes oficiais que intervierem no desembaraço alfandegário.
 
 § único. A falsidade da declaração feita nos termos do § 3.º do artigo 25.º sujeita o despachante oficial à multa estabelecida no corpo deste artigo, sem prejuízo do procedimento disciplinar e criminal que no caso couber.
 
-###### Art. 115.º As pessoas singulares ou colectivas que, indevida ou falsamente, façam uso, para efeitos do disposto nos artigos 64.º ou 65.º, da qualidade de produtor ou grossista inscrito no registo a que se refere o artigo 48.º, serão punidas com multa igual ao triplo do imposto que tiver deixado de ser liquidado, nunca inferior a 5000$00, pela qual responderá solidàriamente a pessoa ou entidade que tiver intervindo na transacção realizada a coberto de declaração de responsabilidade, quando o facto delituoso for do seu conhecimento.
+Art. 115.º As pessoas singulares ou colectivas que, indevida ou falsamente, façam uso, para efeitos do disposto nos artigos 64.º ou 65.º, da qualidade de produtor ou grossista inscrito no registo a que se refere o artigo 48.º, serão punidas com multa igual ao triplo do imposto que tiver deixado de ser liquidado, nunca inferior a 5000$00, pela qual responderá solidàriamente a pessoa ou entidade que tiver intervindo na transacção realizada a coberto de declaração de responsabilidade, quando o facto delituoso for do seu conhecimento.
 
-###### Art. 116.º As pessoas que, tendo beneficiado das isenções previstas nas verbas n.os 2, 23 e 24 da lista A, hajam dado às mercadorias destino diferente do aí previsto, sem que prèviamente o tenham participado à respectiva repartição de finanças, serão punidos com multa igual ao triplo do imposto devido, nunca inferior a 1000$00, pela qual responderá solidàriamente a pessoa que tiver intervindo na transacção feita a coberto da declaração a que se referem os §§ 2.º a 4.º do artigo 5.º, quando o facto delituoso for do seu conhecimento.
+Art. 116.º As pessoas que, tendo beneficiado das isenções previstas nas verbas n.os 2, 23 e 24 da lista A, hajam dado às mercadorias destino diferente do aí previsto, sem que prèviamente o tenham participado à respectiva repartição de finanças, serão punidos com multa igual ao triplo do imposto devido, nunca inferior a 1000$00, pela qual responderá solidàriamente a pessoa que tiver intervindo na transacção feita a coberto da declaração a que se referem os §§ 2.º a 4.º do artigo 5.º, quando o facto delituoso for do seu conhecimento.
 
-###### Art. 117.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+Art. 117.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
-###### Art. 118.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 20000$00.
+Art. 118.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 20000$00.
 
-###### Art. 119.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 119.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
 § 1.º A responsabilidade solidária prevista neste artigo só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou acto delituoso.
 
 § 2.º Após a extinção das pessoas colectivas, responderão solidàriamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 120.º Quando os actos ou omissões tiverem sido praticados por procurador ou gestor de negócios e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
+Art. 120.º Quando os actos ou omissões tiverem sido praticados por procurador ou gestor de negócios e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
 
 § único. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
 
-###### Art. 121.º As multas serão impostas mediante o processo estabelecido no Código de Processo das Contribuições e Impostos.
+Art. 121.º As multas serão impostas mediante o processo estabelecido no Código de Processo das Contribuições e Impostos.
 
-###### Art. 122.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
+Art. 122.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
 
 § 1.º Ainda que extinto o procedimento para aplicação da multa, instaurar-se-á processo de transgressão para exigência do imposto devido relativamente aos períodos de tempo previstos no artigo 36.º
 
 § 2.º Se o processo de transgressão estiver parado durante cinco anos, ficará extinto o procedimento para a aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
 
-###### Art. 123.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
+Art. 123.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
 
-###### Art. 124.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
+Art. 124.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
 
-###### Art. 125.º Serão admitidas denúncias perante as repartições e direcções de finanças, os serviços centrais e os de prevenção e fiscalização tributária da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
+Art. 125.º Serão admitidas denúncias perante as repartições e direcções de finanças, os serviços centrais e os de prevenção e fiscalização tributária da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
 
 § 1.º Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
 
 § 2.º A denúncia ficará secreta, salvo se, sendo destituída de fundamento, tiver sido feita dolosamente, caso em que, a requerimento do denunciado, lhe será comunicado o nome do denunciante e o conteúdo da denúncia.
 
-###### Art. 126.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
+Art. 126.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
 
-###### Art. 127.º Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 127.º Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
 § 1.º Se nos casos previstos neste artigo a participação do facto ou a solicitação da regularização da respectiva situação tributária, tratando-se de infracções por mera negligência previstas no artigo 105.º, for feita até quinze dias depois do termo dos prazos estabelecidos neste diploma, as multas serão reduzidas à quarta parte do imposto em falta, revertendo também integralmente para o Estado.
 
 § 2.º Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização ou exame à escrita do infractor.
 
-###### Art. 128.º Transitada em julgado a decisão que aplicou a multa, o tribunal participá-la-á, quando for caso disso, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo técnico de contas e outros responsáveis.
+Art. 128.º Transitada em julgado a decisão que aplicou a multa, o tribunal participá-la-á, quando for caso disso, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo técnico de contas e outros responsáveis.
 
-###### Art. 129.º Se a transgressão for praticada com dolo e o quantitativo do imposto em falta exceder 100000$00, será dada publicidade à condenação do infractor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
+Art. 129.º Se a transgressão for praticada com dolo e o quantitativo do imposto em falta exceder 100000$00, será dada publicidade à condenação do infractor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
 
 § 1.º O extracto será organizado pelo tribunal e publicado, a expensas do infractor, em um dos diários ou, não os havendo, em um periódico do concelho onde o infractor residir e, além disso, na segunda ou terceira páginas de dois diários de grande circulação, um de Lisboa e outro do Porto, entrando as despesas da publicação em regra de custas.
 
 § 2.º Do extracto deverá constar a identificação do infractor, a natureza da transgressão, as circunstâncias mais reprováveis em que foi cometida e a importância da respectiva multa.
 
-###### Art. 130.º A instauração de procedimento para aplicação das multas estabelecidas no artigo 105.º, quando concorram os factos delituosos previstos nas suas alíneas c) e d) e na primeira parte da alínea b), e nos artigos 107.º, 109.º, 110.º, 111.º e 112.º, será averbada na inscrição do técnico de contas responsável, e terá como efeito a suspensão dos direitos dela emergentes durante a pendência do processo.
+Art. 130.º A instauração de procedimento para aplicação das multas estabelecidas no artigo 105.º, quando concorram os factos delituosos previstos nas suas alíneas c) e d) e na primeira parte da alínea b), e nos artigos 107.º, 109.º, 110.º, 111.º e 112.º, será averbada na inscrição do técnico de contas responsável, e terá como efeito a suspensão dos direitos dela emergentes durante a pendência do processo.
 
 § único. Se a decisão for condenatória, a inscrição será cancelada.
 
-###### Art. 131.º O Ministro das Finanças poderá ordenar o cancelamento das inscrições referentes aos técnicos de contas que houverem subscrito declarações nas quais se verifiquem omissões ou inexactidões cuja responsabilidade deva imputar-se-lhes, sem prejuízo das penalidades aplicáveis aos contribuintes.
+Art. 131.º O Ministro das Finanças poderá ordenar o cancelamento das inscrições referentes aos técnicos de contas que houverem subscrito declarações nas quais se verifiquem omissões ou inexactidões cuja responsabilidade deva imputar-se-lhes, sem prejuízo das penalidades aplicáveis aos contribuintes.
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 132.º Os serviços da Direcção-Geral das Contribuições e Impostos deverão devolver sempre, com recibo, um duplicado das declarações ou notas que, para o efeito, neles forem entregues.
+Art. 132.º Os serviços da Direcção-Geral das Contribuições e Impostos deverão devolver sempre, com recibo, um duplicado das declarações ou notas que, para o efeito, neles forem entregues.
 
-###### Art. 133.º As declarações ou notas e outros documentos a apresentar nos serviços da Direcção-Geral das Contribuições e Impostos pelos contribuintes, serviços públicos e quaisquer entidades podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados ou dos documentos, quando for caso disso.
+Art. 133.º As declarações ou notas e outros documentos a apresentar nos serviços da Direcção-Geral das Contribuições e Impostos pelos contribuintes, serviços públicos e quaisquer entidades podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados ou dos documentos, quando for caso disso.
 
-###### Art. 134.º Em quaisquer locais de exposição e nos estabelecimentos, secções ou outras instalações de venda a retalho, bem como nas notas, facturas ou outros documentos ali processados com destino aos clientes, não é permitido discriminar nos preços de venda praticados o quantitativo do imposto de transacções que neles tenha sido incluído, nem referir circunstâncias que possam dar a conhecer não estar a transacção onerada com aquele imposto.
+Art. 134.º Em quaisquer locais de exposição e nos estabelecimentos, secções ou outras instalações de venda a retalho, bem como nas notas, facturas ou outros documentos ali processados com destino aos clientes, não é permitido discriminar nos preços de venda praticados o quantitativo do imposto de transacções que neles tenha sido incluído, nem referir circunstâncias que possam dar a conhecer não estar a transacção onerada com aquele imposto.
 
 § único. O disposto neste artigo abrange qualquer forma de publicidade, sejam quais forem os locais ou meios utilizados, com exclusão da que, nas suas relações comerciais, seja feita pelas pessoas singulares ou colectivas que apenas exerçam a actividade de produtor ou grossista.
 
@@ -1339,17 +1543,17 @@ Ministério das Finanças, 1 de Julho de 1966. - O Ministro das Finanças Ulisse
 
 Do Modelo n.º 1 ao Modelo n.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
 
 Modelo n.º 7 (artigo 75.º, n.º 1.º, do Código)
 
 REGISTO DE ENTRADAS DE MERCADORIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
 
 Modelo n.º 7 (artigo 75.º, n.º 1.º, do Código)
 
-# LIVRO DE REGISTO DE ENTRADAS DE MERCADORIAS
+LIVRO DE REGISTO DE ENTRADAS DE MERCADORIAS
 
 (Instruções para a sua escrituração - Artigo 77.º do Código do Imposto de Transacções)
 
@@ -1423,11 +1627,11 @@ REGISTO DE SAÍDAS DE MERCADORIAS
 
 (Saídas sem liquidação de imposto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
 
 Modelo n.º 8 (artigo 75.º n.º 2.º, do Código)
 
-# LIVRO DE REGISTO DE SAÍDAS DE MERCADORIAS SEM LIQUIDAÇÃO DE IMPOSTO
+LIVRO DE REGISTO DE SAÍDAS DE MERCADORIAS SEM LIQUIDAÇÃO DE IMPOSTO
 
 (Instruções para a sua escrituração - Artigo 77.º do Código do Imposto de Transacções)
 
@@ -1499,11 +1703,11 @@ REGISTO DE SAÍDAS DE MERCADORIAS
 
 (Saídas com liquidação de imposto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
 
 Modelo n.º 9 (artigo 75.º, n.º 3.º, do Código)
 
-# LIVRO DE REGISTO DE SAÍDAS DE MERCADORIAS COM LIQUIDAÇÃO DE IMPOSTO
+LIVRO DE REGISTO DE SAÍDAS DE MERCADORIAS COM LIQUIDAÇÃO DE IMPOSTO
 
 (Instruções para a sua escrituração - Artigo 77.º do Código do Imposto de Transacções)
 
@@ -1599,6 +1803,6 @@ Não se procedeu à liquidação do imposto por esta já haver tido lugar confor
 
 Do Modelo n.º 10 ao Modelo n.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15100/11421176.pdf)
 
 Ministério das Finanças, 1 de Julho de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02600/02370238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1976-507050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b25c02f2a419fdccfe3fc0d2c91f7ab2c8fef9df9b916185eddfd66433be82f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3559bc96a773bd16f0e3ab9eca01409d991f8d5034b18c58ad961cd11bb9400c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Marinha
+- Pessoal Civil
+- Promoção Profissional
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:13Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +112,18 @@ Havendo toda a vantagem em uniformizar as designações dos cargos a que corresp
 
 Usando da faculdade conferida pelo n.º 1 do artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Da categoria Q do mapa do pessoal civil dos departamentos militares anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, são eliminadas as designações de mestre de oficina e encarregado de oficina de 1.ª classe.
+Artigo 1.º Da categoria Q do mapa do pessoal civil dos departamentos militares anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, são eliminadas as designações de mestre de oficina e encarregado de oficina de 1.ª classe.
 
-###### Art. 2.º O mapa referido no artigo anterior é alterado, na categoria L, nos termos seguintes:
+Art. 2.º O mapa referido no artigo anterior é alterado, na categoria L, nos termos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02600/02370238.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02600/02370238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02600/02370238.pdf)
 
-###### Art. 3.º Os novos vencimentos constantes do artigo anterior começarão a ser pagos a partir de 1 de Janeiro de 1976.
+Art. 3.º Os novos vencimentos constantes do artigo anterior começarão a ser pagos a partir de 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 24 de Janeiro de 1976.**
+Promulgado em 24 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

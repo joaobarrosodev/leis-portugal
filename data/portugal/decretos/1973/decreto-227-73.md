@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bde084dec8e262e0cdb06d05a541c12bf8c4c444d59b3ac75f1e1fd5c7d49bd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eb1a747d92147b931cdd321e8694954754a07222e13da898360709b7cf1efa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:174317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:27Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +125,9 @@ Por motivo de urgência, conforme o disposto no § 3.º do artigo 136.º da Cons
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar com a Companhia de Petróleos de Angola (Petrangol), S. A. R. L., uma apostilha ao contrato de concessão, alterando as suas cláusulas, de harmonia com as disposições dos artigos seguintes:
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar com a Companhia de Petróleos de Angola (Petrangol), S. A. R. L., uma apostilha ao contrato de concessão, alterando as suas cláusulas, de harmonia com as disposições dos artigos seguintes:
 
-###### Art. 2.º - 1. Considera-se prorrogada, até 30 de Junho de 1976, a concessão do direito de prospecção, pesquisa e desenvolvimento a que se refere o n.º 2 do artigo 4.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965.
+Art. 2.º - 1. Considera-se prorrogada, até 30 de Junho de 1976, a concessão do direito de prospecção, pesquisa e desenvolvimento a que se refere o n.º 2 do artigo 4.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965.
 
 2. A área da concessão, reduzida de acordo com o n.º 3 do citado artigo 4.º, compreende a totalidade das áreas terrestres e marítimas delimitadas pelas poligonais, linhas de costa e fronteira a seguir definidas:
 
@@ -145,7 +173,7 @@ Lista de coordenadas
 
 (Elipsóide Clarke 1880-UTM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11200/07870798.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11200/07870798.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11200/07870798.pdf)
 
 b) Bacia do Congo
 
@@ -165,11 +193,11 @@ Lista de coordenadas
 
 Elipsóide Clarke 1880-UTM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11200/07870798.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11200/07870798.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11200/07870798.pdf)
 
-###### Art. 3.º As obrigações de investimento, referidas no artigo 37.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), passam a vigorar para o período de 30 de Junho de 1971 a 30 de Junho de 1976.
+Art. 3.º As obrigações de investimento, referidas no artigo 37.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), passam a vigorar para o período de 30 de Junho de 1971 a 30 de Junho de 1976.
 
-###### Art. 4.º A partir de 1 de Janeiro de 1973, a contribuição anual da Petrangol para o Fundo de Fomento Mineiro Ultramarino, a que se refere o artigo 86.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), passa a ser de:
+Art. 4.º A partir de 1 de Janeiro de 1973, a contribuição anual da Petrangol para o Fundo de Fomento Mineiro Ultramarino, a que se refere o artigo 86.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), passa a ser de:
 
 1000 contos, para uma produção inferior a 10(elevado a 6) TM/ano;
 
@@ -177,9 +205,9 @@ Elipsóide Clarke 1880-UTM)
 
 2000 contos, para uma produção superior a 2,5 x 10(elevado a 6) TM/ano.
 
-###### Art. 5.º O artigo 5.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 5.º O artigo 5.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1. O pedido de prorrogação, a apresentar ao Ministro do Ultramar até 30 de Abril de 1971, deve incluir todos os elementos necessários à sua apreciação e será acompanhado de uma carta, na escala de 1:250000, indicando as demarcações dos jazigos em exploração e as áreas a conservar e a libertar, bem como as coordenadas dos vértices que as definem.
+Art. 5.º - 1. O pedido de prorrogação, a apresentar ao Ministro do Ultramar até 30 de Abril de 1971, deve incluir todos os elementos necessários à sua apreciação e será acompanhado de uma carta, na escala de 1:250000, indicando as demarcações dos jazigos em exploração e as áreas a conservar e a libertar, bem como as coordenadas dos vértices que as definem.
 
 2. Em princípio, nenhuma área a libertar poderá ser inferior a 50 km2.
 
@@ -187,9 +215,9 @@ Elipsóide Clarke 1880-UTM)
 
 4. As áreas que tenham sido objecto de um pedido de aprovação do correspondente plano de desenvolvimento serão libertadas quando se verifique o incumprimento do plano de desenvolvimento aprovado, ou quando se reconhecer não serem economicamente exploráveis.
 
-###### Art. 6.º O artigo 16.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 6.º O artigo 16.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 16.º - 1. O conselho de administração será constituído, no máximo, por oito administradores, sendo dois nomeados pelo Estado e os restantes eleitos pelos accionistas, nos termos da lei e dos estatutos.
+Art. 16.º - 1. O conselho de administração será constituído, no máximo, por oito administradores, sendo dois nomeados pelo Estado e os restantes eleitos pelos accionistas, nos termos da lei e dos estatutos.
 
 2. O presidente do conselho de administração será escolhido pelo conselho e terá a nacionalidade portuguesa, originária ou adquirida há mais de dez anos.
 
@@ -197,9 +225,9 @@ Elipsóide Clarke 1880-UTM)
 
 4. Independentemente das funções especiais que lhes cabem por lei, os administradores designados pelo Governo terão os mesmos direitos e obrigações que os administradores eleitos pela sociedade.
 
-###### Art. 7.º O artigo 18.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 7.º O artigo 18.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 18.º - 1. Será constituída uma comissão executiva, formada pelo presidente do conselho de administração, pelo vice-presidente designado pelo Governo e por mais um ou três administradores, residentes na localidade onde funcione o conselho de administração, dos quais, neste ultimo caso, um será representante do Estado.
+Art. 18.º - 1. Será constituída uma comissão executiva, formada pelo presidente do conselho de administração, pelo vice-presidente designado pelo Governo e por mais um ou três administradores, residentes na localidade onde funcione o conselho de administração, dos quais, neste ultimo caso, um será representante do Estado.
 
 2. Dentro das normas gerais estabelecidas pelo conselho de administração, sem prejuízo do disposto no n.º 2 do artigo 17.º deste Decreto, e de tudo dando conhecimento ao mesmo conselho, a comissão executiva terá a seu cargo a função coordenadora de toda a actividade da empresa e a direcção da sua orgânica interna, competindo-lhe, designadamente, de harmonia com os poderes nela delegados pelo conselho de administração:
 
@@ -247,9 +275,9 @@ i) Instruir os administradores para tal designados, ou procuradores com mandato 
 
 11. As anteriores regras de funcionamento da comissão executiva e sua competência serão especificadas nos estatutos da companhia, que, para esse efeito, deverão ser alterados no prazo de noventa dias, a contar da data da publicação do presente diploma.
 
-###### Art. 8.º O artigo 32.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 8.º O artigo 32.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 32.º - 1. A partir do momento da instituição das associações em participação, prevista no capítulo x, os investimentos referidos a cargo da Petrangol, destinados à execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento, serão representados em médias anuais por:
+Art. 32.º - 1. A partir do momento da instituição das associações em participação, prevista no capítulo x, os investimentos referidos a cargo da Petrangol, destinados à execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento, serão representados em médias anuais por:
 
 a) Na área do Cuanza - 35000 contos em novas despesas efectivas e 65000 contos por conta da valorização dos trabalhos já realizados, em conformidade com os princípios definidos no artigo 69.º;
 
@@ -261,17 +289,17 @@ b) Na área do Congo - 44000 contos em novas despesas efectivas e 6000 contos po
 
 4. A partir de 1 de Janeiro de 1968, os investimentos na área do Congo serão os correspondentes aos fixados no n.º 3 do artigo 35.º do contrato de associação anexo ao [Decreto n.º 48847](https://diariodarepublica.pt/dr/detalhe/decreto/48847-1969-527026), de 23 de Janeiro de 1969.
 
-###### Art. 9.º O artigo 41.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 9.º O artigo 41.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 41.º - 1. A diferença entre o preço de custo, calculado de harmonia com as regras constantes do artigo anterior, e os preços de venda à distribuição constituirá um diferencial destinado à província de Angola.
+Art. 41.º - 1. A diferença entre o preço de custo, calculado de harmonia com as regras constantes do artigo anterior, e os preços de venda à distribuição constituirá um diferencial destinado à província de Angola.
 
 2. O diferencial de preços devido à província de Angola nos termos do número anterior será liquidado anualmente em quatro prestações trimestrais a acertar na última prestação.
 
 3. O prazo de liquidação será de sessenta dias, a contar do termo de cada trimestre.
 
-###### Art. 10.º O artigo 44.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 10.º O artigo 44.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 44.º - 1. A Petrangol pagará ao Estado, em relação a todos os produtos extraídos e arrecadados para venda na área da sua concessão, quer provenientes dos jazigos a que se refere o artigo 66.º, considerados na fase de exploração, quer resultantes dos que vierem a ser descobertos e integrados, ou não, no regime de associação em participação, uma taxa de produção, a qual será estabelecida de harmonia com as regras constantes do artigo seguinte e liquidada em moeda ou espécie, à escolha do Governo.
+Art. 44.º - 1. A Petrangol pagará ao Estado, em relação a todos os produtos extraídos e arrecadados para venda na área da sua concessão, quer provenientes dos jazigos a que se refere o artigo 66.º, considerados na fase de exploração, quer resultantes dos que vierem a ser descobertos e integrados, ou não, no regime de associação em participação, uma taxa de produção, a qual será estabelecida de harmonia com as regras constantes do artigo seguinte e liquidada em moeda ou espécie, à escolha do Governo.
 
 2. A partir de 1 de Janeiro de 1971, a taxa de produção será paga em quatro prestações trimestrais a acertar na última prestação. O prazo de pagamento será de sessenta dias, a contar do termo de cada trimestre.
 
@@ -281,9 +309,9 @@ b) Na área do Congo - 44000 contos em novas despesas efectivas e 6000 contos po
 
 5. Cabe ao Estado estabelecer equitativamente as taxas de produção devidas pelas outras empresas associadas nas actividades de prospecção, pesquisa, desenvolvimento e exploração, as quais não poderão ser inferiores às aplicáveis à Petrangol.
 
-###### Art. 11.º O artigo 45.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 11.º O artigo 45.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 45.º - 1. A taxa de produção será fixada em 12,5% e incidirá, sem prejuízo do disposto no artigo anterior, sobre os seguintes valores à «boca do poço» de todo o petróleo bruto extraído e arrecadado para venda pela Petrangol:
+Art. 45.º - 1. A taxa de produção será fixada em 12,5% e incidirá, sem prejuízo do disposto no artigo anterior, sobre os seguintes valores à «boca do poço» de todo o petróleo bruto extraído e arrecadado para venda pela Petrangol:
 
 a) Valor afixado para o petróleo bruto destinado à refinaria de Luanda;
 
@@ -305,9 +333,9 @@ c) Preço efectivamente praticado nas exportações para outros destinos.
 
 8. Os critérios de fixação de preços de exportação de ramas previstos neste artigo serão revistos em 30 de Junho de 1976 e, depois desta data, de cinco em cinco anos, se o Governo o entender justificado, quer por condições especiais do mercado internacional que afectem os interesses da província de Angola, quer tendo em conta o regime aplicável a outras empresas concessionárias. A comissão especial referida no artigo 21.º proporá à aprovação do Governo, a solicitação deste, os novos critérios de fixação de preços.
 
-###### Art. 12.º O artigo 46.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 12.º O artigo 46.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 46.º - 1. A Petrangol ficará sujeita ao imposto de rendimento de 50% dos lucros, nos termos do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, deduzindo-se do imposto a pagar o montante da taxa de produção, de harmonia com o disposto naquele decreto.
+Art. 46.º - 1. A Petrangol ficará sujeita ao imposto de rendimento de 50% dos lucros, nos termos do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, deduzindo-se do imposto a pagar o montante da taxa de produção, de harmonia com o disposto naquele decreto.
 
 2. Para efeitos do imposto de rendimento a pagar à província de Angola, os lucros líquidos, sempre independentes de quaisquer amortizações financeiras, serão apurados nos termos previstos nos artigos 4.º e 5.º do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), com as seguintes modificações:
 
@@ -347,9 +375,9 @@ Em cada ano, o montante correspondente à parte da produção da associada entre
 
 Este pagamento da associada, que se considera como lucro líquido, não poderá ser utilizado para cobrir quaisquer eventuais prejuízos de exploração da Petrangol antes de ser pago o correspondente imposto de rendimento ao Estado.
 
-###### Art. 13.º O artigo 61.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 13.º O artigo 61.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 61.º - 1. Salvo o disposto nos capítulos V e VI deste diploma, sobre a Petrangol não incidirão quaisquer outros impostos, contribuições ou taxas ordinárias ou extraordinárias, seja qual for o seu título ou natureza; nacionais, provinciais ou locais, taxas ad valorem dos emolumentos gerais aduaneiros sobre as importações necessárias ao exercício das actividades previstas no contrato de concessão. A Petrangol fica, porém, obrigada ao pagamento das taxas de prestações de serviço nos termos aplicados às outras concessionárias que se dedicam à exploração petrolífera nas províncias ultramarinas.
+Art. 61.º - 1. Salvo o disposto nos capítulos V e VI deste diploma, sobre a Petrangol não incidirão quaisquer outros impostos, contribuições ou taxas ordinárias ou extraordinárias, seja qual for o seu título ou natureza; nacionais, provinciais ou locais, taxas ad valorem dos emolumentos gerais aduaneiros sobre as importações necessárias ao exercício das actividades previstas no contrato de concessão. A Petrangol fica, porém, obrigada ao pagamento das taxas de prestações de serviço nos termos aplicados às outras concessionárias que se dedicam à exploração petrolífera nas províncias ultramarinas.
 
 2. A importação de máquinas, aparelhos, instrumentos, ferramentas, veículos de qualquer natureza, incluindo os de tracção mecânica, navios e aviões e quaisquer outros artigos de equipamento e consumo destinados exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos, apetrechamento de campos de minas, equipamentos de refinaria, incluindo condutas, e bem assim as matérias-primas indispensáveis à laboração da refinaria, fica apenas sujeita ao regime especial de pagamento de imposto estatístico de 1(por mil) o ad valorem e ao imposto do selo do despacho, quando a importação seja efectuada pela Petrangol ou por entidade com que ela tenha contratado exclusivamente a execução dos trabalhos em que as mercadorias despachadas tenham aplicação.
 
@@ -363,9 +391,9 @@ Este pagamento da associada, que se considera como lucro líquido, não poderá 
 
 7. O Governador-Geral de Angola pode condicionar a aplicação do regime especial estabelecido no n.º 2 deste artigo a prévio parecer dos serviços das Alfândegas, ouvidos os serviços de Geologia e Minas.
 
-###### Art. 14.º O artigo 69.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 14.º O artigo 69.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 69.º - 1. Para o cálculo dos investimentos a efectuar e para efeito da determinação da percentagem que lhe pertence na produção serão valorizados, na sua justa medida, os trabalhos já efectuados pela Petrangol, ou por sua conta, anteriormente a 1 de Janeiro de 1966, de harmonia com as regras adiante previstas.
+Art. 69.º - 1. Para o cálculo dos investimentos a efectuar e para efeito da determinação da percentagem que lhe pertence na produção serão valorizados, na sua justa medida, os trabalhos já efectuados pela Petrangol, ou por sua conta, anteriormente a 1 de Janeiro de 1966, de harmonia com as regras adiante previstas.
 
 2. A Petrangol e as empresas com ela associadas de harmonia com o disposto no artigo 65.º, deverão realizar em conjunto, até 30 de Junho de 1971, na área do Cuanza, um investimento médio anual de 200000 contos em trabalhos de prospecção, pesquisa e desenvolvimento nas condições previstas nos n.os 2 e 3 do artigo 31.º e no artigo 32.º do presente diploma e sem prejuízo do disposto no n.º 3 do artigo 34.º do contrato de associação anexo ao [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317).
 
@@ -399,17 +427,17 @@ c) Os restantes 100000 contos, deduzidos das importâncias já efectivamente liq
 
 6. A Petrangol e as empresas associadas poderão, decorridos três anos após a assinatura do novo contrato de concessão com o Estado, negociar e acordar regras diferentes das estabelecidas no número anterior, devendo, porém, nesse caso, o acordo ser aprovado pelo Governo.
 
-###### Art. 15.º O artigo 75.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 15.º O artigo 75.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 75.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente aplicadas nos principais países produtores, fica desde já entendido que em 30 de Junho de 1976 e ou quando se reconhecer estar definido, na totalidade das áreas concedidas à Petrangol, um volume de reservas recuperáveis suficiente para garantir, durante cinco anos consecutivos, uma produção anual de 5000000 m3, pode o Estado exigir a revisão das disposições contratuais.
+Art. 75.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente aplicadas nos principais países produtores, fica desde já entendido que em 30 de Junho de 1976 e ou quando se reconhecer estar definido, na totalidade das áreas concedidas à Petrangol, um volume de reservas recuperáveis suficiente para garantir, durante cinco anos consecutivos, uma produção anual de 5000000 m3, pode o Estado exigir a revisão das disposições contratuais.
 
 2. As alterações contratuais resultantes da revisão prevista no número anterior, que serão estabelecidas em função das eventuais variações da produção, só serão aplicáveis quando se reconhecer estar definido o volume de reservas referido no mesmo número.
 
 3. As alterações resultantes da revisão prevista no n.º 1 serão aplicáveis, simultaneamente, às taxas de produção e à repartição de lucros, bem como a quaisquer outros elementos contratuais, conforme as regras aplicadas, no momento, nos principais países produtores.
 
-###### Art. 16.º O artigo 78.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
+Art. 16.º O artigo 78.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) passa a ter a seguinte redacção:
 
-###### Art. 78.º - 1. A Petrangol porá à disposição da província de Angola, até um ano após a data da celebração do novo contrato de concessão e logo que o respectivo Governador-Geral o solicite, sob a forma de empréstimo com juro à taxa anual de 4%, pagável em duas prestações semestrais, a importância de 250000 contos.
+Art. 78.º - 1. A Petrangol porá à disposição da província de Angola, até um ano após a data da celebração do novo contrato de concessão e logo que o respectivo Governador-Geral o solicite, sob a forma de empréstimo com juro à taxa anual de 4%, pagável em duas prestações semestrais, a importância de 250000 contos.
 
 2. O empréstimo referido no número anterior será amortizado em duas anuidades iguais de 80000 contos e uma terceira, que será a última, de 90000 contos, vencendo-se a primeira passados cinco anos sobre a data da entrega dos fundos mutuados ao Governo da província.
 
@@ -423,32 +451,32 @@ c) Os restantes 100000 contos, deduzidos das importâncias já efectivamente liq
 
 7.º No orçamento da província de Angola serão inscritas as verbas indispensáveis para ocorrer aos encargos deste empréstimo.
 
-###### Art. 17.º O artigo 5.º da convenção, a que se refere o artigo 96.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) e a ele anexa, passa a ter a seguinte redacção:
+Art. 17.º O artigo 5.º da convenção, a que se refere o artigo 96.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) e a ele anexa, passa a ter a seguinte redacção:
 
-###### Art. 5.º O contrato que regula a associação em participação prevista no artigo 71.º do decreto de concessão terá a redacção constante do texto anexo ao [Decreto n.º 48847](https://diariodarepublica.pt/dr/detalhe/decreto/48847-1969-527026), de 23 de Janeiro de 1969, que dele faz parte integrante.
+Art. 5.º O contrato que regula a associação em participação prevista no artigo 71.º do decreto de concessão terá a redacção constante do texto anexo ao [Decreto n.º 48847](https://diariodarepublica.pt/dr/detalhe/decreto/48847-1969-527026), de 23 de Janeiro de 1969, que dele faz parte integrante.
 
-###### Art. 18.º Aos montantes da taxa de produção a liquidar pela concessionária ao Estado de Angola nos anos de 1970 e seguintes será reduzida a quantia de 23690252$00, entregue a mais pela Petrangol na liquidação da importância de 100000000$00, relativa ao ano de 1966, conforme o disposto no n.º 1 do artigo 89.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317).
+Art. 18.º Aos montantes da taxa de produção a liquidar pela concessionária ao Estado de Angola nos anos de 1970 e seguintes será reduzida a quantia de 23690252$00, entregue a mais pela Petrangol na liquidação da importância de 100000000$00, relativa ao ano de 1966, conforme o disposto no n.º 1 do artigo 89.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317).
 
-###### Art. 19.º - 1. O reembolso à Petrangol das importâncias por ela adiantadas para liquidação dos encargos com despesas de transportes marítimos de combustíveis no Estado de Angola, até 31 de Dezembro de 1972, será feito por dedução escalonada das mesmas importâncias no imposto de rendimento devido a partir do ano de 1969 e até à sua completa efectivação.
+Art. 19.º - 1. O reembolso à Petrangol das importâncias por ela adiantadas para liquidação dos encargos com despesas de transportes marítimos de combustíveis no Estado de Angola, até 31 de Dezembro de 1972, será feito por dedução escalonada das mesmas importâncias no imposto de rendimento devido a partir do ano de 1969 e até à sua completa efectivação.
 
 2. As importâncias cujo reembolso foi diferido para os anos de 1970 e seguintes vencerão o juro de 4% ao ano, durante o período que medear entre a data do vencimento da primeira prestação e as de cada uma das prestações seguintes, fixadas por acordo entre o Governo e a concessionária.
 
 3. Para vigorar a partir de 1 de Janeiro de 1973, o Governo-Geral de Angola definirá o regime de pagamento das despesas de transportes marítimos de combustíveis, por forma a não ser necessário recorrer a adiantamentos da Petrangol.
 
-###### Art. 20.º - 1. Junto da administração da Petrangol, em Lisboa, será constituído um gabinete de estudos técnicos e comerciais.
+Art. 20.º - 1. Junto da administração da Petrangol, em Lisboa, será constituído um gabinete de estudos técnicos e comerciais.
 
 2. Os serviços técnicos prestados à concessionária pela Petrofina, ou por qualquer outra empresa da especialidade que se torne necessário consultar, serão liquidados, a partir do ano de 1968, mediante facturas previamente aprovadas pelo comissário do Governo.
 
-###### Art. 21.º As disposições dos artigos 40.º e 41.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) serão alteradas conforme o critério que vier a ser estabelecido, por decisão arbitral ou acordo entre o Governo e a Companhia, relativamente ao imposto de rendimento sobre os lucros do departamento de refinação.
+Art. 21.º As disposições dos artigos 40.º e 41.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) serão alteradas conforme o critério que vier a ser estabelecido, por decisão arbitral ou acordo entre o Governo e a Companhia, relativamente ao imposto de rendimento sobre os lucros do departamento de refinação.
 
-###### Art. 22.º Quando o Governo definir a política geral do mercado de distribuição no Estado de Angola, será atribuída à Petrangol uma quota de distribuição de produtos refinados. No caso de a Petrangol não querer exercer sozinha a actividade de distribuidora, pode admitir-se a sua associação com outra sociedade portuguesa, em condições a aprovar pelo Governo.
+Art. 22.º Quando o Governo definir a política geral do mercado de distribuição no Estado de Angola, será atribuída à Petrangol uma quota de distribuição de produtos refinados. No caso de a Petrangol não querer exercer sozinha a actividade de distribuidora, pode admitir-se a sua associação com outra sociedade portuguesa, em condições a aprovar pelo Governo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 25 de Abril de 1973.**
+Promulgado em 25 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

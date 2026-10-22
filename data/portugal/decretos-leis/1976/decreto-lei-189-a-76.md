@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 63/1976, 1º Suplemento, Série I de 1976-03-15
   number: '63'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 530-(1) a 530-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06301/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-a-1976-143770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43d1905d834e0ad4706c8b7a55a6bddbba3fb796c092adebc88460d3b6680aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 180b4b00986669eaf5002ac605c5a40b97afcbd0f499ff399c06b9f30d6ffd8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autorização de Despesas
+- Criação de Serviços
+- Definição de Competências
+- Ministro das Finanças
+- Orçamento
+- Orgânica
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Contratado
+- Presidência do Conselho de Ministros
+- Provedor de Justiça
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Secretário Pessoal
+- Serviço do Provedor de Justiça
+- Serviços Sociais
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:446097:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:446097:por
+  label: "Revogado pela LEI.10/78.1978.03.02.AR DR.IS [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-1978-446097
+  date: '1978-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:29Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +126,11 @@ de 15 de Março
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Serviço do Provedor de Justiça, dotado de autonomia administrativa e destinado a prestar-lhe o apoio técnico e instrumental necessário à prossecução das atribuições definidas no artigo 1.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), de 21 de Abril.
+Artigo 1.º É criado o Serviço do Provedor de Justiça, dotado de autonomia administrativa e destinado a prestar-lhe o apoio técnico e instrumental necessário à prossecução das atribuições definidas no artigo 1.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), de 21 de Abril.
 
-###### Art. 2.º O Provedor de Justiça será coadjuvado no exercício das funções específicas do seu cargo por dois coordenadores e doze assessores, aos quais compete desempenhar as tarefas que por ele e pelo Provedor de Justiça-Adjunto lhes forem determinadas e que terão vencimentos correspondentes, respectivamente, às letras B e C da tabela prevista no artigo 1.º do Decreto n.º 506/75, de 18 de Setembro.
+Art. 2.º O Provedor de Justiça será coadjuvado no exercício das funções específicas do seu cargo por dois coordenadores e doze assessores, aos quais compete desempenhar as tarefas que por ele e pelo Provedor de Justiça-Adjunto lhes forem determinadas e que terão vencimentos correspondentes, respectivamente, às letras B e C da tabela prevista no artigo 1.º do Decreto n.º 506/75, de 18 de Setembro.
 
-###### Art. 3.º - 1. Para desempenho das funções de carácter instrumental o Provedor de Justiça disporá de um Serviço de Apoio, chefiado por um director, com direito ao vencimento correspondente à letra D.
+Art. 3.º - 1. Para desempenho das funções de carácter instrumental o Provedor de Justiça disporá de um Serviço de Apoio, chefiado por um director, com direito ao vencimento correspondente à letra D.
 
 2. O Serviço de Apoio compreende o sector administrativo, o sector de relações públicas e o sector de documentação.
 
@@ -104,11 +140,11 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. Ao sector de documentação incumbe recolher e sistematizar a documentação de interesse para o Serviço do Provedor de Justiça.
 
-###### Art. 4.º - 1. O Serviço do Provedor de Justiça dispõe do pessoal administrativo e auxiliar constante do quadro anexo ao presente diploma.
+Art. 4.º - 1. O Serviço do Provedor de Justiça dispõe do pessoal administrativo e auxiliar constante do quadro anexo ao presente diploma.
 
 2. Aos sectores de relações públicas e documentação ficarão afectos um técnico e cinco técnicos auxiliares, a que corresponderão, respectivamente, os vencimentos das letras F e J.
 
-###### Art. 5.º - 1. O Provedor de Justiça-Adjunto, os coordenadores, os assessores, o director do Serviço de Apoio e o técnico referido no n.º 2 do artigo anterior serão requisitados, nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), ou nomeados por tempo indeterminado, por escolha do Provedor de Justiça, de entre diplomados com curso superior adequado.
+Art. 5.º - 1. O Provedor de Justiça-Adjunto, os coordenadores, os assessores, o director do Serviço de Apoio e o técnico referido no n.º 2 do artigo anterior serão requisitados, nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), ou nomeados por tempo indeterminado, por escolha do Provedor de Justiça, de entre diplomados com curso superior adequado.
 
 2. Os técnicos auxiliares a que se refere o n.º 2 do artigo 4.º deste diploma serão providos, nos termos do número anterior, de entre indivíduos com o curso geral dos liceus ou equivalente e bons conhecimentos das línguas inglesa e/ou francesa e dactilografia.
 
@@ -116,7 +152,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. Se o provimento em qualquer dos lugares previstos nos números anteriores recair em funcionário público ou administrativo, não se considera aberta vaga no quadro de origem do funcionário, podendo, no entanto, o respectivo lugar ser preenchido interinamente.
 
-###### Art. 6.º - 1. O provimento do pessoal administrativo e auxiliar do quadro do Serviço do Provedor de Justiça será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.
+Art. 6.º - 1. O provimento do pessoal administrativo e auxiliar do quadro do Serviço do Provedor de Justiça será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.
 
 2. Sem prejuízo do disposto nos números seguintes, as nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
@@ -124,27 +160,27 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. No caso previsto no número anterior, não se considera aberta vaga no quadro de origem do funcionário, podendo, no entanto, o respectivo lugar ser preenchido interinamente.
 
-###### Art. 7.º - 1. O tempo prestado no Serviço do Provedor de Justiça, nos termos dos artigos 5.º e 6.º, considera-se, para todos os efeitos legais, como efectuado no quadro de origem dos funcionários.
+Art. 7.º - 1. O tempo prestado no Serviço do Provedor de Justiça, nos termos dos artigos 5.º e 6.º, considera-se, para todos os efeitos legais, como efectuado no quadro de origem dos funcionários.
 
 2. Os funcionários providos em comissão de serviço podem optar a todo o momento pelo vencimento, abonos e gratificações a que tinham direito no serviço de origem.
 
 3. No caso da opção referida no número anterior, ser-lhes-ão abonadas as referidas diferenças de remunerações, em conta das dotações do artigo 11.º
 
-###### Art. 8.º - 1. Os magistrados judiciais e do Ministério Público providos nos termos do artigo 5.º consideram-se como desempenhando cargos dependentes do Ministério da Justiça, para efeitos do disposto no Decreto-Lei n.º 569/75, de 4 de Outubro, e no artigo 129.º, n.º 4, do Estatuto Judiciário.
+Art. 8.º - 1. Os magistrados judiciais e do Ministério Público providos nos termos do artigo 5.º consideram-se como desempenhando cargos dependentes do Ministério da Justiça, para efeitos do disposto no Decreto-Lei n.º 569/75, de 4 de Outubro, e no artigo 129.º, n.º 4, do Estatuto Judiciário.
 
 2. Tratando-se de magistrados que estejam a exercer funções no Ministério Público, aplica-se o disposto no n.º 4 do artigo 5.º
 
-###### Art. 9.º - 1. Poderá ser contratado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente.
+Art. 9.º - 1. Poderá ser contratado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente.
 
 2. A realização de estudos, inquéritos e outros trabalhos de carácter técnico e eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras estranhas aos serviços.
 
 3. Poderá ainda ser contratado pessoal em regime de tempo parcial, o qual receberá uma gratificação mensal de quantitativo correspondente ao número de horas realizado, com base no salário-hora a determinar nos termos do artigo 1.º do [Decreto-Lei n.º 294/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469), de 16 de Junho.
 
-###### Art. 10.º - 1. O pessoal do Serviço do Provedor de Justiça ficará abrangido pelos Serviços Sociais da Presidência do Conselho de Ministros.
+Art. 10.º - 1. O pessoal do Serviço do Provedor de Justiça ficará abrangido pelos Serviços Sociais da Presidência do Conselho de Ministros.
 
 2. O pessoal em comissão de serviço poderá optar por manter a sua integração nos serviços sociais do departamento de origem.
 
-###### Art. 11.º - 1. As despesas com o Serviço do Provedor de Justiça serão satisfeitas em conta das dotações, isentas do regime de duodécimos, a inscrever no orçamento de Encargos Gerais da Nação, afectas à Secretaria-Geral da Presidência do Conselho de Ministros.
+Art. 11.º - 1. As despesas com o Serviço do Provedor de Justiça serão satisfeitas em conta das dotações, isentas do regime de duodécimos, a inscrever no orçamento de Encargos Gerais da Nação, afectas à Secretaria-Geral da Presidência do Conselho de Ministros.
 
 2. O Provedor de Justiça tem competência idêntica à de Ministro para efeitos de autorização de despesas.
 
@@ -152,20 +188,20 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. O processamento das despesas do Serviço do Provedor de Justiça será realizado por intermédio da Secretaria-Geral da Presidência do Conselho de Ministros.
 
-###### Art. 12.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 12.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 13.º Este diploma entra em vigor na data da sua publicação.
+Art. 13.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 11 de Março de 1976.**
+Promulgado em 11 de Março de 1976.
 
-**Publique-se:**
+Publique-se:
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro do pessoal administrativo e auxiliar a que se refere o n.º 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06301/00010002.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06301/00010002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06301/00010002.pdf)
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro da Justiça, João de Deus Pinheiro Farinha. - O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro da Justiça, João de Deus Pinheiro Farinha. - O Ministro das Finanças, Francisco Salgado Zenha.

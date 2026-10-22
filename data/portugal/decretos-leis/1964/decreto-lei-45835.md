@@ -48,40 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b62230815a5c54d9800cd46e3c80ae54a7a680b65e39b4a054455f019c21b0c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e121b923f60d921b54bdc5a3414e38d505627c1abcd8135fb7bb083057fb8b1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Conselho de Ministros para os Assuntos Económicos
+- Mercado Interno
+- Ministro da Economia
+- Política de Preços
+- Política Económica
 relationships:
 - type: amended_by
   target: pt:dre:228271:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:02Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +108,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho de Ministros para os Assuntos Económicos, sob proposta do Ministro da Economia, definirá os princípios a que devem obedecer a organização e o funcionamento dos mercados e dos circuitos de comercialização e a política de preços.
+Artigo 1.º O Conselho de Ministros para os Assuntos Económicos, sob proposta do Ministro da Economia, definirá os princípios a que devem obedecer a organização e o funcionamento dos mercados e dos circuitos de comercialização e a política de preços.
 
 § único. A execução dos princípios que vierem a ser aprovados ao abrigo do presente diploma incumbe ao Ministério da Economia, de acordo com o disposto nos artigos subsequentes e na legislação em geral, aplicável à acção deste Ministério.
 
-###### Art. 2.º - 1. A estrutura e o funcionamento dos circuitos de comercialização de cada um dos bens que mais interessem ao abastecimento público e ao fomento da produção interna serão regulados por portaria do Ministério da Economia.
+Art. 2.º - 1. A estrutura e o funcionamento dos circuitos de comercialização de cada um dos bens que mais interessem ao abastecimento público e ao fomento da produção interna serão regulados por portaria do Ministério da Economia.
 
 2. Consideram-se abrangidos na disposição do número anterior os elementos relativos a taxas, margens e regras de comercialização.
 
@@ -114,16 +120,16 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. A alteração das taxas a que se refere o n.º 2 deste artigo dependerá de acordo prévio do Ministério das Finanças.
 
-###### Art. 3.º Serão também regulados por portaria do Ministério da Economia a organização e o funcionamento dos supermercados e outros locais de venda.
+Art. 3.º Serão também regulados por portaria do Ministério da Economia a organização e o funcionamento dos supermercados e outros locais de venda.
 
-###### Art. 4.º Os poderes necessários à execução dos princípios definidos ao abrigo do presente diploma poderão ser cometidos, por decreto regulamentar do Ministério da Economia, ouvido o Conselho de Ministros para os Assuntos Económicos, aos organismos de coordenação económica e aos organismos corporativos obrigatórios que exerçam funções de intervenção na comercialização dos bens, nos mercados interno e externo.
+Art. 4.º Os poderes necessários à execução dos princípios definidos ao abrigo do presente diploma poderão ser cometidos, por decreto regulamentar do Ministério da Economia, ouvido o Conselho de Ministros para os Assuntos Económicos, aos organismos de coordenação económica e aos organismos corporativos obrigatórios que exerçam funções de intervenção na comercialização dos bens, nos mercados interno e externo.
 
-###### Art. 5.º - 1. Compete ao Ministro da Economia fixar ou homologar, por despacho, os preços dos bens que estejam ou venham a ser submetidos ao regime de tabelamento.
+Art. 5.º - 1. Compete ao Ministro da Economia fixar ou homologar, por despacho, os preços dos bens que estejam ou venham a ser submetidos ao regime de tabelamento.
 
 2. A homologação terá lugar quando a competência para a fixação dos preços pertencer a outro Ministério.
 
 § único. Quando a alta dos preços afecte a estabilidade monetária e financeira, as disposições para normalização do mercado constarão de portaria conjunta dos Ministérios das Finanças e da Economia, ouvido o Conselho de Ministros para os Assuntos Económicos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

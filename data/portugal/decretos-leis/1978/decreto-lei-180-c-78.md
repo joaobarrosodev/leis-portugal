@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 161/1978, 2º Suplemento, Série I de 1978-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1314-(5) a 1314-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16102/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-c-1978-434603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95dc28199c96a97d45e5ac3498735263700ff00bf299d80135195003ad302267
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b08481401d8e36b4275dff5000f1eeadca1674745156aae29edfd14e4721f031
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Previdência Social
+- Regime Geral da Segurança Social
+- Remuneração
+- Serviço Doméstico
+- Taxa
+- Trabalhador do Serviço Doméstico
 relationships:
 - type: amended_by
   target: pt:dre:394100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325927:por
+  label: "Dada nova redacção ao art. 8º [diferindo a entrada em vigor para 01.01.1979] pelo DEC LEI.339/78.14.11.1978.MAS,\
+    \ DR.IS [262] de 14.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1978-325927
+  date: '1978-11-14'
+- type: amended_by
+  target: pt:dre:430016:por
+  label: "Alterados os montantes das taxas incidentes sobre as remunerações, referidas no art. 2º, pelo DEC LEI.513-M/79.26.12.1979.MF,\
+    \ DR.IS [296-Supl] de 26.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-m-1979-430016
+  date: '1979-12-26'
+- type: cites
+  target: pt:dre:684580:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:394100:por
+  label: "Revogado a partir de 01.12.1982 pelo DEC LEI.284/82.22.07.1982.MAS, DR.IS [167] de 22.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1982-394100
+  date: '1982-07-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:57Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +128,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal do serviço doméstico e as respectivas entidades patronais ficam abrangidas pelo regime geral de previdência, sem prejuízo do que especialmente se dispõe neste diploma.
+Artigo 1.º O pessoal do serviço doméstico e as respectivas entidades patronais ficam abrangidas pelo regime geral de previdência, sem prejuízo do que especialmente se dispõe neste diploma.
 
-###### Art. 2.º A taxa de contribuição para a Previdência será de 26,5% cabendo à entidade patronal o pagamento de 19% e o de 7,5% ao trabalhador.
+Art. 2.º A taxa de contribuição para a Previdência será de 26,5% cabendo à entidade patronal o pagamento de 19% e o de 7,5% ao trabalhador.
 
-###### Art. 3.º - 1 - A taxa referida no artigo anterior incidirá sobre as remunerações convencionais que constam da seguinte tabela, sem prejuízo do disposto no número seguinte:
+Art. 3.º - 1 - A taxa referida no artigo anterior incidirá sobre as remunerações convencionais que constam da seguinte tabela, sem prejuízo do disposto no número seguinte:
 
 Remunerações ao mês ... 2000$00
 
@@ -112,24 +140,24 @@ Remunerações à hora ... 15$00
 
 2 - O número mensal de horas a considerar para efeitos de descontos dos trabalhadores remunerados à hora não pode ser inferior a vinte por cada contribuinte e respectivo beneficiário.
 
-###### Art. 4.º O tempo de inscrição e o tempo de contribuição ao abrigo do regime especial estabelecido no [Decreto-Lei n.º 81/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1973-684580), de 2 de Março, e suas normas regulamentares contam para efeito de concessão de benefícios do regime geral.
+Art. 4.º O tempo de inscrição e o tempo de contribuição ao abrigo do regime especial estabelecido no [Decreto-Lei n.º 81/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1973-684580), de 2 de Março, e suas normas regulamentares contam para efeito de concessão de benefícios do regime geral.
 
-###### Art. 5.º - 1 - Para fiscalização do cumprimento das obrigações que decorrem para as entidades patronais da aplicação deste diploma podem as caixas interessadas notificar aquelas entidades para comparecerem nos respectivos serviços.
+Art. 5.º - 1 - Para fiscalização do cumprimento das obrigações que decorrem para as entidades patronais da aplicação deste diploma podem as caixas interessadas notificar aquelas entidades para comparecerem nos respectivos serviços.
 
 2 - A falta de comparência da entidade patronal, ou de quem, por sua declaração escrita, para o efeito a substitua, responsabilizará aquela entidade pela multa de 200$00.
 
-###### Art. 6.º Ficam revogados o [Decreto-Lei n.º 81/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1973-684580), de 2 de Março, e suas normas regulamentares.
+Art. 6.º Ficam revogados o [Decreto-Lei n.º 81/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1973-684580), de 2 de Março, e suas normas regulamentares.
 
-###### Art. 7.º - 1 - A regulamentação do regime definido no presente diploma será estabelecida por portaria do Secretário de Estado da Segurança Social.
+Art. 7.º - 1 - A regulamentação do regime definido no presente diploma será estabelecida por portaria do Secretário de Estado da Segurança Social.
 
 2 - As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Segurança Social.
 
-###### Art. 8.º Este diploma entra em vigor trinta dias após a sua publicação.
+Art. 8.º Este diploma entra em vigor trinta dias após a sua publicação.
 
 Mário Soares - António Duarte Arnaut.
 
-**Promulgado em 11 de Julho de 1978.**
+Promulgado em 11 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

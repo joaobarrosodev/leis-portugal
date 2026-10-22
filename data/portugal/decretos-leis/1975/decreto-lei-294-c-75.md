@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 138/1975, 2º Suplemento, Série I de 1975-06-18
   number: '138'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 834-(3) a 834-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13802/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-c-1975-476968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02f72494b520e79fe5763587d4c2a473c3e9db76aa5c1951152b02460b16ff9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d826400cd58a8f66e49d661d90fd653550cda200476609922db8000a855126e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Ensino Preparatório
+- Ensino Secundário
+- Habilitações Literárias
+- Inspecção Geral do Ensino Particular
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:140488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:501429:por
+  label: Alterado o art. 2.º pelo(a) Decreto n.º 199/76 - Diário do Governo n.º 67/1976, Série I de 1976-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/199-1976-501429
+  date: '1976-03-19'
+- type: repealed_by
+  target: pt:dre:140488:por
+  label: Revogado pelo DEC LEI.77/77.01.03.1977.MEIC, DR.IS [50] de 01.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1977-140488
+  date: '1977-03-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:30Z'
   warnings: []
   errors: []
 ---
@@ -100,30 +118,30 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O primeiro provimento em lugares de professor efectivo dos quadros dos ensinos preparatório e secundário não é permitido em estabelecimentos de ensino das áreas de Lisboa e Porto e da cidade de Coimbra.
+Artigo 1.º - 1. O primeiro provimento em lugares de professor efectivo dos quadros dos ensinos preparatório e secundário não é permitido em estabelecimentos de ensino das áreas de Lisboa e Porto e da cidade de Coimbra.
 
 2. Os estabelecimentos de ensino criados ou a criar nas áreas de Lisboa e Porto a que se refere o número anterior são os constantes do mapa anexo ao presente diploma, que deverá ser anualmente revisto em correspondência com as alterações da rede escolar.
 
-###### Art. 2.º - 1. O disposto no n.º 1 do artigo anterior não é aplicável aos indivíduos que, à data da publicação do presente diploma, já tenham prestado dez anos de bom serviço.
+Art. 2.º - 1. O disposto no n.º 1 do artigo anterior não é aplicável aos indivíduos que, à data da publicação do presente diploma, já tenham prestado dez anos de bom serviço.
 
 2. Para efeito do estabelecido no número anterior é contado todo o tempo de serviço prestado, quer no ensino oficial, quer no ensino particular, independentemente do tipo de estabelecimento e da categoria em que tenha sido desempenhado.
 
 3. A prova do tempo de serviço prestado no ensino particular é feita pelo interessado, mediante certidão passada pela Inspecção-Geral do Ensino Particular.
 
-###### Art. 3.º Em igualdade de classificação profissional, e exclusivamente para efeitos de desempate, constitui primeira preferência o tempo de serviço efectivamente prestado em estabelecimento fora das áreas de Lisboa e Porto e da cidade de Coimbra.
+Art. 3.º Em igualdade de classificação profissional, e exclusivamente para efeitos de desempate, constitui primeira preferência o tempo de serviço efectivamente prestado em estabelecimento fora das áreas de Lisboa e Porto e da cidade de Coimbra.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor e será revisto no prazo de um ano.
+Art. 4.º O presente diploma entra imediatamente em vigor e será revisto no prazo de um ano.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Emílio da Silva.
 
-**Promulgado em 18 de Junho de 1975.**
+Promulgado em 18 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa a que se refere o n.º 2 do artigo 1.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/13802/00030004.pdf))](https://files.diariodarepublica.pt/1s/1975/06/13802/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/13802/00030004.pdf)
 
-**O Ministro da Educação e Cultura, José Emílio da Silva.**
+O Ministro da Educação e Cultura, José Emílio da Silva.

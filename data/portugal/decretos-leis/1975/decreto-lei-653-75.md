@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1975-310405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce362b4cf95e28d4d5d31df6bd7ec81040289f127de13dfe2c053f142ed01d66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8560f90d8c486b2651e5b2bdaa96069fc3528c978b5c9469edc4f5a2eb44ccf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Estado Maior General das Forças Armadas
+- Forças Armadas
+- Gestão do Património
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:335952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335974:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506070:por
+  label: Rectificado pela DECL.DD8378.14.01.1976.EMGFA, DG.IS [11] de 14.01.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-506070
+  date: '1976-01-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:43Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +111,9 @@ Convém agora fixar em diploma próprio esses princípios.
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A gestão dos pertencentes aos indivíduos que foram objecto das medidas previstas no artigo 3.º do [Decreto-Lei n.º 147-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-d-1975-335974), de 21 de Março, bem como dos pertencentes a outros a quem essas medidas vierem a ser aplicadas nos termos do artigo 4.º do mesmo diploma, compete à Direcção de Administração e Finanças do Estado-Maior-General das Forças Armadas (DAF/EMGFA) e regular-se-á pelas normas dos artigos seguintes.
+Artigo 1.º A gestão dos pertencentes aos indivíduos que foram objecto das medidas previstas no artigo 3.º do [Decreto-Lei n.º 147-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-d-1975-335974), de 21 de Março, bem como dos pertencentes a outros a quem essas medidas vierem a ser aplicadas nos termos do artigo 4.º do mesmo diploma, compete à Direcção de Administração e Finanças do Estado-Maior-General das Forças Armadas (DAF/EMGFA) e regular-se-á pelas normas dos artigos seguintes.
 
-###### Art. 2.º Para o exercício da competência referida no artigo anterior são atribuições da DAF/EMGFA, entre outras, as seguintes:
+Art. 2.º Para o exercício da competência referida no artigo anterior são atribuições da DAF/EMGFA, entre outras, as seguintes:
 
 a) Proceder as investigações dos valores patrimoniais activos e passivos;
 
@@ -105,26 +123,26 @@ c) Praticar todos os actos necessários à administração dos patrimónios cong
 
 d) Propor quaisquer outras medidas não expressamente previstas que venham a revelar-se necessárias.
 
-###### Art. 3.º Para realização do inventário na alínea a) do artigo anterior poderão ser requeridas as informações necessárias a todas as entidades públicas e privadas, as quais, quando solicitadas, são obrigadas a prestá-las.
+Art. 3.º Para realização do inventário na alínea a) do artigo anterior poderão ser requeridas as informações necessárias a todas as entidades públicas e privadas, as quais, quando solicitadas, são obrigadas a prestá-las.
 
-###### Art. 4.º - 1. A atribuição de bens ou rendimentos prevista na alínea b) do artigo 2.º não poderá produzir um quantitativo mensal superior ao que auferiam os indivíduos referidos no artigo 1.º, quando militares, salvo o disposto no número seguinte.
+Art. 4.º - 1. A atribuição de bens ou rendimentos prevista na alínea b) do artigo 2.º não poderá produzir um quantitativo mensal superior ao que auferiam os indivíduos referidos no artigo 1.º, quando militares, salvo o disposto no número seguinte.
 
 2. Poderá o Conselho da Revolução, a título excepcional, mediante proposta fundamentada da DAF/EMGFA, atribuir um quantitativo mensal superior ao referido no número anterior.
 
 3. Os familiares a considerar para efeitos do disposto neste artigo serão, além do cônjuge, aqueles que, de acordo com a legislação em vigor, conferem direito a abono de família.
 
-###### Art. 5.º - 1. Na gestão dos bens congelados proceder-se-á, sempre que isso se não mostre inconveniente, conforme o interesse e a vontade, real ou presumível, do cônjuge e herdeiros legitimários ou, na falta destes, dos restantes herdeiros legítimos.
+Art. 5.º - 1. Na gestão dos bens congelados proceder-se-á, sempre que isso se não mostre inconveniente, conforme o interesse e a vontade, real ou presumível, do cônjuge e herdeiros legitimários ou, na falta destes, dos restantes herdeiros legítimos.
 
-###### Art. 6.º - 1. A DAF/EMGFA prestará contas, anualmente, ao Conselho da Revolução da gestão dos patrimónios congelados.
+Art. 6.º - 1. A DAF/EMGFA prestará contas, anualmente, ao Conselho da Revolução da gestão dos patrimónios congelados.
 
 2. A mesma entidade organizará um sistema contabilístico apropriado que mostre a situação de cada um dos referidos patrimónios.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação do presente diploma, bem como a resolução dos casos omissos, serão submetidas a decisão do Conselho da Revolução.
+Art. 7.º As dúvidas suscitadas na aplicação do presente diploma, bem como a resolução dos casos omissos, serão submetidas a decisão do Conselho da Revolução.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Novembro de 1975.**
+Promulgado em 12 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

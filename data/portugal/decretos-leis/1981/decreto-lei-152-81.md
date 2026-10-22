@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/12900/12951295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1981-574303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3674c22785347b483fb73917af0934f53b57af2fb752dfcfbe148a663b88bfc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0774028367bbec9bed0358b9e693e3a2f11f8362d174d0a1904fcf9e815d060f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Dívidas ao Estado
+- Empresa
+- Imposto de Transacções
+- Imposto do SELO
+- Imposto Profissional
+- JURO de MORA
+- Multa
+- Pagamento
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355159:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:42Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +121,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As dívidas das empresas por impostos de transacções, profissional, de capitais, secção B, e do selo, cujos prazos de pagamento ou de entrega nos cofres do Estado terminaram até 31 de Dezembro de 1979, bem como as resultantes das respectivas multas fiscais e demais encargos relativos a condenações transitadas em julgado até àquela data, podem ser pagas em prestações mensais num máximo de sessenta.
+Artigo 1.º - 1 - As dívidas das empresas por impostos de transacções, profissional, de capitais, secção B, e do selo, cujos prazos de pagamento ou de entrega nos cofres do Estado terminaram até 31 de Dezembro de 1979, bem como as resultantes das respectivas multas fiscais e demais encargos relativos a condenações transitadas em julgado até àquela data, podem ser pagas em prestações mensais num máximo de sessenta.
 
 2 - Tratando-se, porém, do imposto de transacções sobre a prestação de serviços, a que se refere o [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, o disposto no número anterior é aplicável às dívidas cujos prazos de entrega ocorreram até 31 de Dezembro de 1980.
 
@@ -113,11 +135,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 7 - Se o pagamento em prestações for requerido quando já estiver iniciado o procedimento executivo para pagamento da dívida, a falta de pagamento pontual de qualquer delas determinará o prosseguimento da execução para cobrança do que for devido nos termos gerais, não sendo aplicável o disposto nos artigos 163.º do Código de Processo das Contribuições e Impostos e 4.º do [Decreto-Lei n.º 746/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1975-355159), de 31 de Dezembro.
 
-###### Art. 2.º - 1 - Às dívidas de imposto cujo pagamento venha a ser feito em prestações, nos termos deste diploma, acrescem apenas juros de mora, a liquidar na repartição de finanças, em importância igual a 10% de cada prestação.
+Art. 2.º - 1 - Às dívidas de imposto cujo pagamento venha a ser feito em prestações, nos termos deste diploma, acrescem apenas juros de mora, a liquidar na repartição de finanças, em importância igual a 10% de cada prestação.
 
 2 - Não haverá lugar à cobrança dos juros de mora referidos no número anterior no caso de pagamento da totalidade da dívida dentro do prazo estabelecido para a primeira prestação ou do pagamento de todas as prestações vincendas quando estas forem em número não inferior a dez.
 
-###### Art. 3.º - 1 - Existindo processo de transgressão pendente de decisão ou no caso de ainda não ter sido iniciado procedimento judicial relativamente aos impostos referidos no artigo 1.º, as penalidades estabelecidas na lei são reduzidas à multa de 10% do quantitativo do imposto em causa, desde que este já tenha sido pago ou o contribuinte proceda ao pagamento de, pelo menos, 20% do imposto em dívida, no mínimo de 20000$00.
+Art. 3.º - 1 - Existindo processo de transgressão pendente de decisão ou no caso de ainda não ter sido iniciado procedimento judicial relativamente aos impostos referidos no artigo 1.º, as penalidades estabelecidas na lei são reduzidas à multa de 10% do quantitativo do imposto em causa, desde que este já tenha sido pago ou o contribuinte proceda ao pagamento de, pelo menos, 20% do imposto em dívida, no mínimo de 20000$00.
 
 2 - A redução da multa deve ser requerida ao chefe da repartição de finanças competente ou ao tribunal, consoante o caso, até ao fim do mês seguinte ao da publicação deste diploma.
 
@@ -127,16 +149,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Ao pagamento em prestações será aplicável o disposto nos artigos 1.º e 2.º deste diploma.
 
-###### Art. 4.º A apresentação do requerimento a que se refere o n.º 3 do artigo 1.º suspende os prazos de liquidação e de prescrição dos impostos até à data em que poderia ser paga a última prestação.
+Art. 4.º A apresentação do requerimento a que se refere o n.º 3 do artigo 1.º suspende os prazos de liquidação e de prescrição dos impostos até à data em que poderia ser paga a última prestação.
 
-###### Art. 5.º Ressalvado o disposto nos n.os 1 a 3 do artigo 3.º as disposições deste diploma não são aplicáveis às dívidas que estejam a ser pagas em prestações ao abrigo do artigo 163.º do Código de Processo das Contribuições e Impostos.
+Art. 5.º Ressalvado o disposto nos n.os 1 a 3 do artigo 3.º as disposições deste diploma não são aplicáveis às dívidas que estejam a ser pagas em prestações ao abrigo do artigo 163.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 6.º As dúvidas que surgirem na execução do presente diploma são resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 6.º As dúvidas que surgirem na execução do presente diploma são resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Maio de 1981.**
+Promulgado em 28 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

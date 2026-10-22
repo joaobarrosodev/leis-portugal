@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43093-1960-501441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5fcc64f02d29727dcdb97e4104d94d4c32cafd848167bb3a5f5963e8119ca91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4162b96623266b27f9b1786bc3e986432f5846ad43d69e7857d9982b7a8c0c36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso Profissional
+- Ensino Industrial
+- Ensino Profissional
+- Estabelecimento de Ensino
+- Macau.cidade
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:06Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +108,23 @@ Com o parecer favorável da Junta Nacional da Educação, homologado pelo Minist
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É reconhecida validade oficial aos exames legalmente previstos nos cursos profissionais, do ramo industrial, ministrados pelo Colégio D. Bosco, instituto de ensino missionário existente na cidade de Macau.
+Artigo 1.º É reconhecida validade oficial aos exames legalmente previstos nos cursos profissionais, do ramo industrial, ministrados pelo Colégio D. Bosco, instituto de ensino missionário existente na cidade de Macau.
 
 § único. A validade a que se refere este artigo é a que as leis e mais resoluções competentes atribuem aos cursos regulados pelo Estatuto do Ensino Profissional, constante do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
 
-###### Art. 2.º O Colégio D. Bosco ministrará, além do ciclo preparatório, os cursos profissionais e as secções preparatórias para os institutos industriais e para pintura e escultura das escolas de belas-artes, seguindo rigorosamente os planos e programas oficiais.
+Art. 2.º O Colégio D. Bosco ministrará, além do ciclo preparatório, os cursos profissionais e as secções preparatórias para os institutos industriais e para pintura e escultura das escolas de belas-artes, seguindo rigorosamente os planos e programas oficiais.
 
-###### Art. 3.º Para os alunos dos cursos a que se refere o artigo antecedente haverá inscrição anual referente à abertura e encerramento de matrícula na secção dos serviços de instrução.
+Art. 3.º Para os alunos dos cursos a que se refere o artigo antecedente haverá inscrição anual referente à abertura e encerramento de matrícula na secção dos serviços de instrução.
 
 § 1.º Não poderão ser admitidos a exame os alunos que não tiverem realizado a inscrição de abertura de matrícula, em obediência a este artigo.
 
 § 2.º Será cobrada, por meio de estampilha fiscal, na abertura e no encerramento da matrícula, a propina que for fixada pelo governo da província em portaria.
 
-###### Art. 4.º Sem prejuízo da função de inspecção prevista na lei, o governador da província de Macau poderá encarregar um funcionário técnico de sua escolha de visitar com regularidade o Colégio D. Bosco e verificar o cumprimento do disposto no artigo 2.º, atribuindo ao mesmo funcionário gratificação adequada, a qual será custeada por dotação que será inscrita para esse efeito no orçamento provincial.
+Art. 4.º Sem prejuízo da função de inspecção prevista na lei, o governador da província de Macau poderá encarregar um funcionário técnico de sua escolha de visitar com regularidade o Colégio D. Bosco e verificar o cumprimento do disposto no artigo 2.º, atribuindo ao mesmo funcionário gratificação adequada, a qual será custeada por dotação que será inscrita para esse efeito no orçamento provincial.
 
-###### Art. 5.º Os exames no Colégio D. Bosco serão realizados perante júris designados pelo Ministro do Ultramar, dos quais poderão fazer parte funcionários competentes do Ministério da Educação Nacional, nomeados em comissão eventual.
+Art. 5.º Os exames no Colégio D. Bosco serão realizados perante júris designados pelo Ministro do Ultramar, dos quais poderão fazer parte funcionários competentes do Ministério da Educação Nacional, nomeados em comissão eventual.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

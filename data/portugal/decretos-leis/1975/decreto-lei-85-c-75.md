@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 48/1975, 2º Suplemento, Série I de 1975-02-26
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 306-(3) a 306-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/04802/00030016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,148 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfb7f86d4a330be1bded486826bfd091b8ff71e78bce3231752bd9873744f080
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c33cb11398f0453f707994537c8723111250a576dcf83ee3682afe44e6a30998
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo Penal
+- Código Penal
+- Comunicação Social
+- Conselho de Imprensa
+- Contravenção
+- Cooperação Internacional
+- Criação de Serviços
+- Crime
+- Definição de Competências
+- Depósito Legal
+- Direito à Informação
+- Direito da Informação
+- Estatuto
+- Imprensa
+- Inquérito
+- Jornalismo
+- Jornalista
+- Julgamento
+- Lei de Imprensa
+- Liberdade de Imprensa
+- Multa
+- Processo Judicial
+- Processo Penal
+- Publicação
+- Publicidade
+- Responsabilidade Civil
+- Responsabilidade Criminal
+- Sanção Penal
+- Segredo Profissional
 relationships:
 - type: amended_by
   target: pt:dre:196218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507431:por
+  label: "Alterados os artigos 37.º, 39.º, 43.º, 52.º, 68.º e revogados os artigos 40.º, 41.º, 42.º, 44.º, 45.º, 46.º, 47.º\
+    \ e 48.º pelo DEC LEI.181/76.09.03.1976.MCS, DG.IS [58] de 09.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1976-507431
+  date: '1976-03-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO UM NUM 4 ART 52 PELA LEI 13/78 DR.IS [67] .S
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-03-21'
+- type: amended_by
+  target: pt:dre:447353:por
+  label: "Aditado um n.º 4 ao artigo 52.º, na redacção do Decreto-Lei n.º 181/76, de 9 de Março, pela LEI.13/78.21.03.1978.AR,\
+    \ DR.IS [67] de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-1978-447353
+  date: '1978-03-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 36, 37, 51, 52 E 68 E, REVOGADOS OS ART 38, 39, 43 E 49 PELO DEC LEI 377/88 DR.IS [246] .,
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-10-24'
+- type: amended_by
+  target: pt:dre:354137:por
+  label: "Alterados os artigos 36.º, 37.º, 51.º, 52.º e 68.º e revogados os artigos 38.º, 39.º, 43.º e 49.º pelo DEC LEI.377/88.24.10.1988.MJ,\
+    \ DR.IS [246] de 24.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1988-354137
+  date: '1988-10-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 16, 26, 33, 53, BEM COMO O ART 36 NA REDACCAO CONSTANTE DO DEC LEI 377/88 DE 24-OUT, O ART 68 NA\
+    \ NA REDACCAO CONSTANTE DOS DEC LEI 181/76 DE 09-MAR E 377/88 DE 24-OUT PELA LEI 15/95 DE 25-MAI DR.IS-A [121] REVOGADO\
+    \ O ART 52, NA REDACCAO CONSTANTE DOS DEC LEI 181/76 DE 09-MAR E 377/88 DE 24-OUT, PELA REFERIDA LEI. ADITADOS OS ART\
+    \ 36-A, 36-B, 36-C, 36-D E 36-E E ACTUALIZADAS AS MULTAS ESTABELECIDAS NO PRESENTE DIPLOMA, COM EXCEPCAO DA PREVISTA NO\
+    \ NUM 2 DO ART 33 PELA LEI 15/95 DE 25-MAI \0I 15/95 DE 25-MAI"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-25'
+- type: amended_by
+  target: pt:dre:529473:por
+  label: "Alterados os arts. 16.º, 26.º, 33.º, 53.º, o art. 36.º (na redacção constante do Dec Lei 377/88, de 24-Out), o art.\
+    \ 68.º (na redacção constante do Dec Lei 377/88 de 24-Out e do Dec Lei 181/76 de 09-Mar) revogado o art. 52.º (na redacção\
+    \ constante do Dec Lei 181/76 de 09-Mar e do Dec Lei 377/88 de 24-Out) aditados os arts. 36.º-A, 36.º-B, 36.º-C, 36.º-D\
+    \ e 36.º-E e actualizadas as multas estabelecidas, com excepção da prevista no n.º 2 do art. 33.º, pela LEI.15/95.1995.05.25.AR\
+    \ DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-1995-529473
+  date: '1995-05-25'
+- type: cites
+  target: pt:dre:476136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681867:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADOS OS ART 17, 18, NUM 2 E 4, 22, AL A), E 65 PELA LEI 15/90 DR.IS [149].S
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-06-30'
+- type: repealed_by
+  target: pt:dre:575349:por
+  label: "Revogados os arts. 17º, 18º nºs 2, 4 e 22 al. a) e 65º pela LEI.15/90.1990.06.30.AR, DR.IS [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-1990-575349
+  date: '1990-06-30'
+- type: repealed_by
+  target: pt:dre:185720:por
+  label: "Revogado o nº 1 do art. 28º pelo DEC LEI.48/95.1995.03.15.MJ, DR.IS-A [63]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1995-185720
+  date: '1995-03-15'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O NUM 1 DO ART 28 PELO DEC LEI 48/95 DE 15-MAR DR.IS-A [63] QUE APROVA A REVISAO DO CODIGO PENAL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-03-15'
+- type: repealed_by
+  target: pt:dre:196218:por
+  label: "Revogado pela LEI.2/99.1999.01.13.AR, DR.IS-A [10]L\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1999-196218
+  date: '1999-01-13'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:45Z'
   warnings: []
   errors: []
 ---
@@ -940,8 +1048,8 @@ Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Victo
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 26 de Fevereiro de 1975.**
+Promulgado em 26 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

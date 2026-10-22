@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14600/13951395.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1979-381125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7da0a54c1bfb127c442cb8098ecf054f1305a7795fae0e18c818bb1e97b0923
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8648c1ff61ce1d0b921c020838d970c96187a95e2e23a82115f73111f825f0d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior General das Forças Armadas
+- Definição de Competências
+- Serviços Prisionais Militares
 relationships:
 - type: amended_by
   target: pt:dre:159311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:253191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382835:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159311:por
+  label: "Revogado pelo DEC LEI.383/87.19.12.1987.MDN, DR.IS [291]Supl de 19.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1987-159311
+  date: '1987-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:40Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +115,18 @@ Considerando, assim, que deixou de se justificar a sua dependência do Conselho 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A competência atribuída ao Conselho da Revolução em matéria financeira e de administração de pessoal pelos Decretos-Leis n.os [762/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1975-355330) e [256/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1977-253191), respectivamente, de 31 de Dezembro e de 17 de Junho, passa a ser exercida pelo Chefe do Estado-Maior-General das Forças Armadas.
+Artigo 1.º - 1 - A competência atribuída ao Conselho da Revolução em matéria financeira e de administração de pessoal pelos Decretos-Leis n.os [762/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1975-355330) e [256/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1977-253191), respectivamente, de 31 de Dezembro e de 17 de Junho, passa a ser exercida pelo Chefe do Estado-Maior-General das Forças Armadas.
 
 2 - O Chefe do Estado-Maior-General das Forças Armadas poderá delegar, no todo ou em parte, a competência definida no número anterior, bem como os poderes que relativamente aos mesmos Serviços lhe são conferidos pelas disposições legais em vigor.
 
 3 - O despacho de delegação poderá autorizar a subdelegação de competência prevista nos números anteriores.
 
-###### Art. 2.º Este diploma produz efeitos desde 19 de Abril de 1979.
+Art. 2.º Este diploma produz efeitos desde 19 de Abril de 1979.
 
 Visto e aprovado em Conselho da Revolução em 15 de Junho de 1979.
 
-**Promulgado em 15 de Junho de 1979.**
+Promulgado em 15 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

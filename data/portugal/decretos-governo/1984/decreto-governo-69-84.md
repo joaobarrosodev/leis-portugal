@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/69-1984-400212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e568c9d94967d88604999d8bcdfe8fc051f8c451621a64e6cd420da5b76c5ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c9deae9fd941e4acc24ee31cdc4d9cf01e53fb27b11dc2c7947452b34bba916
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Pensão por Serviços Excepcionais
+relationships:
+- type: cites
+  target: pt:dre:251853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446165:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:34Z'
   warnings: []
   errors: []
 ---
@@ -88,18 +97,18 @@ Considerando o mérito excepcional da contribuição dada à defesa da liberdade
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º De harmonia com o n.º 1 do artigo 1.º do [Decreto-Lei n.º 171/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1977-251853), de 30 de Abril, com a redacção dada pelo [Decreto-Lei n.º 43/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1978-446165), de 11 de Março, é concedida uma pensão mensal a Luís António Ferreira, de quantitativo calculado nos termos do n.º 3 do citado artigo;
+Artigo 1.º De harmonia com o n.º 1 do artigo 1.º do [Decreto-Lei n.º 171/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1977-251853), de 30 de Abril, com a redacção dada pelo [Decreto-Lei n.º 43/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1978-446165), de 11 de Março, é concedida uma pensão mensal a Luís António Ferreira, de quantitativo calculado nos termos do n.º 3 do citado artigo;
 
-###### Art. 2.º A pensão começa a vencer-se na data da publicação do presente diploma.
+Art. 2.º A pensão começa a vencer-se na data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias.
 
-**Assinado em 10 de Outubro de 1984.**
+Assinado em 10 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Outubro de 1984.**
+Referendado em 11 de Outubro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

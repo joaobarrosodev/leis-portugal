@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44610-1962-160336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f09750b238332ac2c1e19f4759df554abc2fc12cad6d6b1fc4af0cacde29ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 830eb2ff4c6987e1cd01e0fb2955116e43bfdad95af1cb277ab377bb91fc53e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Leiria
+- Organização Territorial
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:34Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +97,20 @@ Considerando que se verificam as demais condições referidas no artigo 9.º do 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho e distrito de Leiria a freguesia de Ortigosa, com sede na actual povoação do mesmo nome.
+Artigo 1.º É criada no concelho e distrito de Leiria a freguesia de Ortigosa, com sede na actual povoação do mesmo nome.
 
 § único. A freguesia de Ortigosa é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do rio Lis, junto à ponte da estrada Várzeas-Vieira de Leiria, na confluência do ribeiro de Souto da Carpalhosa, acompanha a linha divisória da freguesia de Souto da Carpalhosa, seguindo-a para nascente, pelo curso daquele ribeiro, até encontrar o ribeiro de Ortigosa; continua pelo eixo do dito ribeiro de Ortigosa até alcançar o ribeiro de Monte Agudo; prossegue pelo curso deste último ribeiro até próximo da respectiva nascente, atingindo o aceiro das matas nacionais, entre os marcos 48 e 49; progride pelo referido aceiro - acompanhando agora os limites da freguesia dos Milagres -, seguindo em recta e durante cerca de 150 m, até ao marco 30 das mencionadas matas nacionais; a partir deste último marco desvia-se para poente e continua - seguindo pela linha divisória entre a nova freguesia e a de Regueira de Pontes - em recta, passando pelos limites entre o pinhal do engenheiro António de Almeida Monteiro, situado na freguesia de Regueira de Pontes e a propriedade de Manuel Brás, incluída na freguesia de Ortigosa, até ao marco 31 das aludidas matas, junto à estrema do aludido pinhal, no sítio chamado Zebreira; daqui continua pela linha de separação entre as propriedades de João Gaspar e de Joaquim dos Santos e as de José Oliveira Caseiro, de Augusto de Oliveira Caseiro e de Adriano Martins Pereira (ficando as dos dois primeiros abrangidas na nova circunscrição e as dos três últimos na freguesia de Regueira de Pontes) até encontrar o ribeiro de Vale Casal, no ponto conhecido por Covão e situado na linha de demarcação entre as propriedades de António Jorge, compreendida na área da nova freguesia, e de António Gaspar, que fica excluída; segue para jusante, pelo eixo do mencionado ribeiro do Vale Casal, acompanhando os limites das propriedades que António dos Santos Serrador e Adriano de Oliveira Caseiro possuem na freguesia de Regueira de Pontes, até alcançar a linha divisória entre as propriedades de Juceline Guedes Ribeiro (freguesia de Regueira de Pontes) e de Luís Ferreira Pousos (freguesia de Ortigosa), linha pela qual continua até se cruzar com o caminho que liga a Matoeira à Lameira, no sítio das terras da Lameira; atravessa, seguidamente, os bastios das Longras, passando pelos limites entre a propriedade de Augusto de Oliveira Caseiro (incluindo-a) e a de Bento Gaspar (excluindo-a); cruza-se com o caminho que liga a Lameira à estrada municipal de Regueira de Pontes-Matoeira, no sítio do Carril, prosseguindo em direcção ao ribeiro existente no Vale Bom até atingir o mesmo ribeiro no ponto situado entre a propriedade que António Ferreira, morador em Sismaria da Gândara, possui na freguesia de Regueira de Pontes e a de Ana Máximo Gaspar, pertencente à nova freguesia; continua pelo leito do aludido ribeiro para jusante, passando pela estrema da propriedade de António Alves Gaspar, no sítio do Barreiro (excluindo-a), até ao ponto onde encontra a linha divisória entre esta última propriedade e a de Joaquim Rodrigues Sobreira - que fica fazendo parte da nova freguesia; progride pela mencionada linha divisória e, alcançando o sítio de Vale Maria, segue os limites entre as propriedades de José Ferreira Lourenço e Juceline Guedes Ribeiro e de Adriano Martins Pereira e herdeiros de João Jorge (as duas primeiras da freguesia de Ortigosa e as segundas da de Regueira de Pontes) até encontrar, no sítio do Sobral, o caminho que liga a estrada nacional n.º 109 ao lugar de Riba de Aves; segue pelo eixo do referido caminho e ao chegar à pedreira pertencente às freguesias de Ortigosa e de Ribeira de Pontes desvia-se, passando pelo meio desta pedreira, até encontrar o caminho que dá acesso às propriedades de Adriano Martins Pereira e de outros proprietários; continua pelo eixo deste caminho (incluindo na nova freguesia a propriedade de José Domingues Heleno) até à estrada nacional n.º 109, que alcança no ponto situado entre a propriedade de Francisco Clemente (freguesia de Regueira de Pontes) e as de Manuel Gaspar e herdeiros de Joaquim Fernandes, ambas na freguesia de Ortigosa; prossegue para norte, pela dita estrada nacional n.º 109, até encontrar o caminho para o lugar de Amor, por cujo eixo continua até à ponte José Domingues, sobre o rio Lis; a partir deste ponto - passando a acompanhar os limites da nova freguesia com as de Amor e Monte Real - continua pelo eixo do rio Lis até encontrar uma vala que separa o terreno de herdeiros de José Duarte de Sousa (excluindo-o) e o de José Duarte Arroteia (incluindo-o); prossegue pela dita vala até alcançar a vala nacional dos Barreiros, no sítio da Ponte do Tavares; progride pelo eixo da mencionada vala nacional para jusante, passa pela ponte da Ruivaqueira (ponto comum aos limites das freguesias de Amor, Monte Real e Ortigosa), continuando ainda pelo eixo da mesma vala nacional, até atingir o cruzamento desta com o guarda-mato da margem esquerda do rio Lis; prossegue pelo eixo do referido guarda-mato, durante cerca de 70 m, até encontrar aquele rio; segue pelo eixo do rio Lis para jusante até ao caminho da Boca, por cujo eixo progride para nascente até à vala da Pena; finalmente, continua pelo eixo da dita vala da Pena para jusante até à confluência do ribeiro de Souto da Carpalhosa com o rio Lis, Junto à ponte da estrada Várzeas-Vieira de Leiria, onde se iniciou a descrição.
+Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do rio Lis, junto à ponte da estrada Várzeas-Vieira de Leiria, na confluência do ribeiro de Souto da Carpalhosa, acompanha a linha divisória da freguesia de Souto da Carpalhosa, seguindo-a para nascente, pelo curso daquele ribeiro, até encontrar o ribeiro de Ortigosa; continua pelo eixo do dito ribeiro de Ortigosa até alcançar o ribeiro de Monte Agudo; prossegue pelo curso deste último ribeiro até próximo da respectiva nascente, atingindo o aceiro das matas nacionais, entre os marcos 48 e 49; progride pelo referido aceiro - acompanhando agora os limites da freguesia dos Milagres -, seguindo em recta e durante cerca de 150 m, até ao marco 30 das mencionadas matas nacionais; a partir deste último marco desvia-se para poente e continua - seguindo pela linha divisória entre a nova freguesia e a de Regueira de Pontes - em recta, passando pelos limites entre o pinhal do engenheiro António de Almeida Monteiro, situado na freguesia de Regueira de Pontes e a propriedade de Manuel Brás, incluída na freguesia de Ortigosa, até ao marco 31 das aludidas matas, junto à estrema do aludido pinhal, no sítio chamado Zebreira; daqui continua pela linha de separação entre as propriedades de João Gaspar e de Joaquim dos Santos e as de José Oliveira Caseiro, de Augusto de Oliveira Caseiro e de Adriano Martins Pereira (ficando as dos dois primeiros abrangidas na nova circunscrição e as dos três últimos na freguesia de Regueira de Pontes) até encontrar o ribeiro de Vale Casal, no ponto conhecido por Covão e situado na linha de demarcação entre as propriedades de António Jorge, compreendida na área da nova freguesia, e de António Gaspar, que fica excluída; segue para jusante, pelo eixo do mencionado ribeiro do Vale Casal, acompanhando os limites das propriedades que António dos Santos Serrador e Adriano de Oliveira Caseiro possuem na freguesia de Regueira de Pontes, até alcançar a linha divisória entre as propriedades de Juceline Guedes Ribeiro (freguesia de Regueira de Pontes) e de Luís Ferreira Pousos (freguesia de Ortigosa), linha pela qual continua até se cruzar com o caminho que liga a Matoeira à Lameira, no sítio das terras da Lameira; atravessa, seguidamente, os bastios das Longras, passando pelos limites entre a propriedade de Augusto de Oliveira Caseiro (incluindo-a) e a de Bento Gaspar (excluindo-a); cruza-se com o caminho que liga a Lameira à estrada municipal de Regueira de Pontes-Matoeira, no sítio do Carril, prosseguindo em direcção ao ribeiro existente no Vale Bom até atingir o mesmo ribeiro no ponto situado entre a propriedade que António Ferreira, morador em Sismaria da Gândara, possui na freguesia de Regueira de Pontes e a de Ana Máximo Gaspar, pertencente à nova freguesia; continua pelo leito do aludido ribeiro para jusante, passando pela estrema da propriedade de António Alves Gaspar, no sítio do Barreiro (excluindo-a), até ao ponto onde encontra a linha divisória entre esta última propriedade e a de Joaquim Rodrigues Sobreira - que fica fazendo parte da nova freguesia; progride pela mencionada linha divisória e, alcançando o sítio de Vale Maria, segue os limites entre as propriedades de José Ferreira Lourenço e Juceline Guedes Ribeiro e de Adriano Martins Pereira e herdeiros de João Jorge (as duas primeiras da freguesia de Ortigosa e as segundas da de Regueira de Pontes) até encontrar, no sítio do Sobral, o caminho que liga a estrada nacional n.º 109 ao lugar de Riba de Aves; segue pelo eixo do referido caminho e ao chegar à pedreira pertencente às freguesias de Ortigosa e de Ribeira de Pontes desvia-se, passando pelo meio desta pedreira, até encontrar o caminho que dá acesso às propriedades de Adriano Martins Pereira e de outros proprietários; continua pelo eixo deste caminho (incluindo na nova freguesia a propriedade de José Domingues Heleno) até à estrada nacional n.º 109, que alcança no ponto situado entre a propriedade de Francisco Clemente (freguesia de Regueira de Pontes) e as de Manuel Gaspar e herdeiros de Joaquim Fernandes, ambas na freguesia de Ortigosa; prossegue para norte, pela dita estrada nacional n.º 109, até encontrar o caminho para o lugar de Amor, por cujo eixo continua até à ponte José Domingues, sobre o rio Lis; a partir deste ponto - passando a acompanhar os limites da nova freguesia com as de Amor e Monte Real - continua pelo eixo do rio Lis até encontrar uma vala que separa o terreno de herdeiros de José Duarte de Sousa (excluindo-o) e o de José Duarte Arroteia (incluindo-o); prossegue pela dita vala até alcançar a vala nacional dos Barreiros, no sítio da Ponte do Tavares; progride pelo eixo da mencionada vala nacional para jusante, passa pela ponte da Ruivaqueira (ponto comum aos limites das freguesias de Amor, Monte Real e Ortigosa), continuando ainda pelo eixo da mesma vala nacional, até atingir o cruzamento desta com o guarda-mato da margem esquerda do rio Lis; prossegue pelo eixo do referido guarda-mato, durante cerca de 70 m, até encontrar aquele rio; segue pelo eixo do rio Lis para jusante até ao caminho da Boca, por cujo eixo progride para nascente até à vala da Pena; finalmente, continua pelo eixo da dita vala da Pena para jusante até à confluência do ribeiro de Souto da Carpalhosa com o rio Lis, Junto à ponte da estrada Várzeas-Vieira de Leiria, onde se iniciou a descrição.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Ortigosa realizar-se-á no dia que for designado pelo presidente da Câmara Municipal do Leiria e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Souto da Carpalhosa.
+Art. 3.º A eleição da Junta de Freguesia de Ortigosa realizar-se-á no dia que for designado pelo presidente da Câmara Municipal do Leiria e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Souto da Carpalhosa.
 
 § único. A Junta eleita nos termos deste artigo servirá até final do quadriénio em curso.
 
-###### Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Leiria.
+Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Leiria.
 
-###### Art. 5.º A Câmara Municipal de Leiria procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+Art. 5.º A Câmara Municipal de Leiria procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Mário José Pereira da Silva - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

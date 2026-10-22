@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22800/13931402.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bddb011cdde46868acddd2fc12d77839d5d477fc032fd29ba8808bc14ce464b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1c4553b592afc81dbfe9c85602ac9216899984aa7311a4c8283e84913051cce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descanso Semanal
+- Descanso Semanal Complementar
+- Duração do Trabalho
+- Horário de Trabalho
+- Horas Extraordinárias
+- Isenção de Horário de Trabalho
+- Menoridade
+- Mulher
+- Multa
+- Remuneração
+- Remuneração Acessória
+- Sanção
+- Trabalho
+- Trabalho a Tempo Parcial
+- Trabalho Nocturno
+- Trabalho por Turnos
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:368242:por
+  label: "Dada nova redacção ao nº 2 do art. 55º pelo DEC LEI.640/71.31.12.1971.MCPS, DG.IS [304-Supl] de 31.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/640-1971-368242
+  date: '1971-12-31'
+- type: amended_by
+  target: pt:dre:421600:por
+  label: "Interpretado o art. 30º do presente diploma, pelo DEC LEI.348/73.11.07.1973.MCPS, DG.IS [161] de 11.07.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/348-1973-421600
+  date: '1973-07-11'
+- type: amended_by
+  target: pt:dre:662891:por
+  label: "Alterados o nº 1 do art. 46º e o art. 47º pelo DEC LEI.65/87.06.02.1987.MTSS, DR.IS [31] de 06.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1987-662891
+  date: '1987-02-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "E DECLARADA INCONSTITUCIONALIDADE DAS NORMAS REFERIDAS NO ART 1, NA REDACÇÃO DADA PELO DEC LEI 65/87 DE 06-FEV,\
+    \ PELO AC 262/90 DE 20-DEZ DO TC DR.IS [292] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-12-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 5, 13, 27, 36, 37 E 38 PELO DEC LEI 398/91 DE 16-OUT DR.IS-A [238]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-16'
+- type: amended_by
+  target: pt:dre:417040:por
+  label: "Alterados os arts. 10º e 12º pela LEI.21/96.1996.07.23.AR, DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-1996-417040
+  date: '1996-07-23'
+- type: amended_by
+  target: pt:dre:150330:por
+  label: "Alterada a redacção do art. 29º pelo DEC LEI.96/99.1999.03.23.MTS, DR.IS-A [69]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1999-150330
+  date: '1999-03-23'
+- type: amended_by
+  target: pt:dre:371433:por
+  label: "Alterados os arts. 10.º e 12.º (na redacção da Lei 21/96, de 23-Jul), 13.º (na redacção do Dec Lei 398/91, de 16-Out)\
+    \ e 46.º (na redacção do Dec Lei 65/87, de 06-Fev) e aditado o art. 6.º-A, todos do presente diploma, pela LEI.61/99.1999.06.30.AR\
+    \ DR.IS-A [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-1999-371433
+  date: '1999-06-30'
+- type: amended_by
+  target: pt:dre:371438:por
+  label: "Aditados os arts. 9º-A e 10º-A e alterados os arts. 33º e 34º pela LEI.58/99.1999.06.30.AR, DR.IS-A [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-1999-371438
+  date: '1999-06-30'
+- type: amended_by
+  target: pt:dre:332750:por
+  label: "Alterado o art. 48º, com a redacção conferida pelos Dec Leis 421/83 de 02-Dez, 65/87 de 06-Fev, 398/91 de 16-Out\
+    \ e pelas Leis 21/96 de 23-Jul, 58/99 de 30-Jun e 118/99 de 11-Ago, pelo DEC LEI.170/2001.2001.05.25.MTS DR.IS-A [121]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2001-332750
+  date: '2001-05-25'
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645913:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443078:por
+  label: "Revogado o capítulo IV e os arts. 41º e 42º pelo DEC LEI.421/83.02.12.1983.MTSS, DR.IS [277] de 02.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/421-1983-443078
+  date: '1983-12-02'
+- type: repealed_by
+  target: pt:dre:423061:por
+  label: "Revogados os arts. 49º a 52º, alterada a epígrafe do Cap. X e a redacção do art. 48º do presente diploma, pela LEI.118/99.1999.08.11.AR,\
+    \ DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:02Z'
   warnings: []
   errors: []
 ---
@@ -644,8 +767,8 @@ Ficam revogados o [Decreto n.º 22500](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Setembro de 1971.**
+Promulgado em 22 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

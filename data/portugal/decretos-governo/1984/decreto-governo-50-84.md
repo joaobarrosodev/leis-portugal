@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/50-1984-380960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1046534728110e953494bb65a53ec3ae420eadca91ffdd1f8068a7ca911c80d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02941da3b3a5ccb9d0b622ab2878f297ffef55c0046d9683d4f36929f93d6f7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperação Cultural
+- Koweit
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:17Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +90,19 @@ de 20 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Cultural entre o Governo da República Portuguesa e o Governo do Estado do Koweit, assinado no Koweit em 12 de Janeiro de 1984, cujo texto original em inglês e a respectiva tradução em português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Cultural entre o Governo da República Portuguesa e o Governo do Estado do Koweit, assinado no Koweit em 12 de Janeiro de 1984, cujo texto original em inglês e a respectiva tradução em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Jaime José Matos da Gama - José Augusto Seabra - António Antero Coimbra Martins - Francisco José de Sousa Tavares.
 
-**Assinado em 27 de Julho de 1984.**
+Assinado em 27 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Julho de 1984.**
+Referendado em 27 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Cultural Agreement between the Government of the Republic of Portugal and the State of Kuwait
 
@@ -179,11 +182,11 @@ Acordo Cultural entre o Governo da República de Portugal e o Estado do Koweit
 
 O Governo da República de Portugal e o Governo do Estado do Koweit, a seguir designados como Partes Contratantes, desejosos de manter e fortalecer laços culturais capazes de contribuir para um melhor conhecimento dos dois países, bem como para a amizade entre os seus povos, acordaram o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes deverão encorajar todas as actividades susceptíveis de contribuírem para a cooperação recíproca nos domínios da educação, ciência, cultura e desporto.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes favorecerão o desenvolvimento das suas relações no campo da educação e investigação científica através:
 
@@ -191,15 +194,15 @@ a) Da cooperação entre as suas universidades e outros estabelecimentos de ensi
 
 b) Da divulgação e do estudo das línguas dos 2 países. Para este efeito cada Parte Contratante facilitará a abertura nas suas universidades ou institutos superiores de leitorados da outra Parte.
 
-ARTIGO III
+###### ARTIGO III
 
 Cada Parte Contratante estudará os meios de aceitar para todos os fins práticos os diplomas, certificados e graus académicos concedidos pela outra Parte.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada Parte Contratante, dentro dos limites da sua legislação interna, procederá de maneira que os textos utilizados nos seus estabelecimentos de ensino oficial não contenham incorrecções no que se refere à história da outra Parte.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes encorajarão o desenvolvimento das relações mútuas nos domínios cultural e científico através dos seguintes meios:
 
@@ -211,29 +214,29 @@ c) Organização de exposições de arte, concertos e audições musicais, repre
 
 d) Cooperação entre centros culturais e científicos, organizações de juventude, escolas de arte, museus, bibliotecas e arquivos.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Cada Parte Contratante estudará a possibilidade de conceder aos nacionais da outra Parte bolsas para o estudo de matérias que serão determinadas de comum acordo.
 
 Os candidatos a estas bolsas serão propostas pelos serviços competentes do Governo do país de envio. Os bolseiros que forem seleccionados deverão conformar-se com as leis e regulamentos em vigor no país de acolhimento.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes deverão tomar medidas apropriadas com vista à preservação dos arquivos e monumentos históricos que sejam de interesse comum.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Contratantes favorecerão o intercâmbio no domínio dos desportos.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Para o cumprimento dos objectivos do presente Acordo e elaboração dos respectivos programas de aplicação, será criada uma comissão mista, que se reunirá alternadamente, por acordo entre as Partes Contratantes e a pedido de uma delas, em Lisboa e no Koweit.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Acordo entrará em vigor à data da entrega do último instrumento de ratificação.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Acordo é celebrado por um período de 5 anos, renovável tacitamente por igual período, excepto se uma das Partes Contratantes, mediante aviso prévio de 6 meses, comunicar por escrito à outra Parte a sua intenção de lhe pôr termo.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 25/1964, 1º Suplemento, Série I de 1964-01-30
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 117 - 246
   pdf_url: https://files.diariodarepublica.pt/1s/1964/01/02501/01170246.pdf
 entry_into_force_dates: []
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45552-1964-285551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a943bcbba871881a4287e62461e3c732b42024208e797d08597c3c198e03287
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59eca1556b7e8f11f7da87c3b4a89fd07275785dd460166d74a5f261347186dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Classificação de Estradas
+- Comissão Permanente
+- Ministro das Obras Públicas
+- Rede de Estradas
+relationships:
+- type: cites
+  target: pt:dre:245094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:52Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +105,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado a título provisório o plano dos caminhos municipais do continente constante do mapa anexo ao presente diploma, que vai assinado pelo Ministro das Obras Públicas.
+Artigo 1.º É aprovado a título provisório o plano dos caminhos municipais do continente constante do mapa anexo ao presente diploma, que vai assinado pelo Ministro das Obras Públicas.
 
-###### Art. 2.º O plano será tornado definitivo, mediante decreto dimanado do Ministério das Obras Públicas, depois de nele introduzidos os ajustamentos que decorrerem do julgamento das sugestões que para este efeito venham a ser apresentadas pelas autarquias locais e outras entidades interessadas, dentro do prazo de um ano a contar da data deste decreto-lei.
+Art. 2.º O plano será tornado definitivo, mediante decreto dimanado do Ministério das Obras Públicas, depois de nele introduzidos os ajustamentos que decorrerem do julgamento das sugestões que para este efeito venham a ser apresentadas pelas autarquias locais e outras entidades interessadas, dentro do prazo de um ano a contar da data deste decreto-lei.
 
 § único. As sugestões a que se refere o presente artigo deverão ser dirigidas à comissão a que se refere o artigo seguinte, a qual submeterá à apreciação do Ministro das Obras Públicas a sua informação sobre os ajustamentos a introduzir no plano dentro de seis meses, a partir do termo do prazo estabelecido no corpo deste artigo.
 
-###### Art. 3.º São tornadas extensivas aos planos das vias municipais de qualquer natureza as atribuições da comissão a que se refere o artigo 2.º do [Decreto-Lei n.º 42271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42271-1959-245094), de 20 de Maio de 1959.
+Art. 3.º São tornadas extensivas aos planos das vias municipais de qualquer natureza as atribuições da comissão a que se refere o artigo 2.º do [Decreto-Lei n.º 42271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42271-1959-245094), de 20 de Maio de 1959.
 
 Esta comissão passa a ser designada por «Comissão permanente para a classificação das vias municipais» e terá sede na Direcção-Geral dos Serviços de Urbanização, que assegurará os seus serviços de secretaria.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.
 
@@ -115,6 +123,6 @@ Para ser presente à Assembleia Nacional.
 
 CLASSIFICAÇÃO DOS CAMINHOS MUNICIPAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/01/02501/01170246.pdf))](https://files.diariodarepublica.pt/1s/1964/01/02501/01170246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/01/02501/01170246.pdf)
 
 Ministério das Obras Públicas, 30 de Janeiro de 1964. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

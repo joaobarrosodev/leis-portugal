@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73ebd70aee6fcfe73875cc59345f73a56ff8f87817ff39799cd3746c87913df5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21d0fc8616599398478178a5dba76c2707103512d1189ab817af9d7bd02555c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Civil
+- Contrato Promessa
+- Direito Civil
+- Venda
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220772:por
+  label: "Alterados os art.s 410º, 442º e 830º do Código Civil, aprovado pelo Dec Lei 47344, 25-Nov 1966, na redacção do presente\
+    \ diploma, pelo DEC LEI.379/86.11.11.1986.MJ, DR.IS [260] de 11.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/379-1986-220772
+  date: '1986-11-11'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 410º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: corrected_by
+  target: pt:dre:470652:por
+  label: Rectificado o presente diploma, na parte em que confere nova redacção ao n.º 3 do art. 410.º do Código Civil, aprovado
+    pelo Dec Lei 47344, de 25-Nov 1966, pela DECL.DD6938.12.08.1980.PCM, DR.IS [185] de 12.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470652
+  date: '1980-08-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:41Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +128,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 410.º, 442.º e 830.º do Código Civil passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 410.º, 442.º e 830.º do Código Civil passam a ter a seguinte redacção:
 
 ###### ARTIGO 410.º — (Regime aplicável)
 
@@ -134,14 +156,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - No caso de contrato em que ao obrigado seja lícito invocar a excepção do não cumprimento, a acção improcede se o requerente não consignar em depósito a sua prestação no prazo que lhe for fixado pelo tribunal.
 
-###### Art. 2.º O disposto nos artigos 442.º e 830.º do Código Civil, na redacção que lhes dá este diploma, aplica-se a todos os contratos-promessa cujo incumprimento se tenha verificado após a sua entrada em vigor.
+Art. 2.º O disposto nos artigos 442.º e 830.º do Código Civil, na redacção que lhes dá este diploma, aplica-se a todos os contratos-promessa cujo incumprimento se tenha verificado após a sua entrada em vigor.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 7 de Julho de 1980.**
+Promulgado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

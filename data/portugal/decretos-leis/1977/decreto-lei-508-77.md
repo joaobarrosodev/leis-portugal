@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28700/29212923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70ba4bafca74e83b03f8c7e9979facc39bb363d1358e7fb634624f9808aefb86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9778ecbc4cbab9539405d047b056b7d19d59fc9bbcc7c8fe3e7b713563397884
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração do Porto de Sines
+- Comissão Instaladora
+- Criação de Serviços
+- Definição de Competências
+- Instituto Público
+- Sines
 relationships:
 - type: amended_by
   target: pt:dre:417182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325153:por
+  label: "Alterado o art. 3º pelo DEC LEI.419/78.21.12.1978.MFP, DR.IS [292] de 21.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/419-1978-325153
+  date: '1978-12-21'
+- type: amended_by
+  target: pt:dre:392624:por
+  label: "Alterado o art.4º pelo DEC LEI.12/79.30.01.1979.PCM, DR.IS [25] de 30.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1979-392624
+  date: '1979-01-30'
+- type: amended_by
+  target: pt:dre:383649:por
+  label: "Dada nova redacção ao artigo 4.º pelo DEC LEI.150/79.26.05.1979.MTC, DR.IS [121] de 26.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1979-383649
+  date: '1979-05-26'
+- type: amended_by
+  target: pt:dre:370646:por
+  label: "Prorrogado por noventa dias os prazos previstos no art. 4.º do presente diploma, pelo DEC LEI.362/79.03.09.1979.MTC,\
+    \ DR.IS [203] de 03.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1979-370646
+  date: '1979-09-03'
+- type: amended_by
+  target: pt:dre:157043:por
+  label: "Prorrogados por cento e vinte dias, a partir de 06.12.1979, os prazos referidos no artigo 4.º do presente diploma,\
+    \ com a redacção constante do Decreto-Lei 400/79 de 21 de Setembro, pelo DEC LEI.519-B2/79.29.12.1979.MTC, DR.IS [299-8ºSupl]\
+    \ de 29.12.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-b2-1979-157043
+  date: '1979-12-29'
+- type: amended_by
+  target: pt:dre:463998:por
+  label: "Prorrogados os prazos fixados nas alíneas a) e b) do artigo 4.º do presente diploma, pelo DEC LEI.353/80.03.09.1980.MTC,\
+    \ DR.IS [203] de 03.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-1980-463998
+  date: '1980-09-03'
+- type: amended_by
+  target: pt:dre:388444:por
+  label: "Prorrogado por 180 dias os prazos fixados nas alíneas a) e b) do art. 4º, prorrogados pelo nº 1 do artigo único\
+    \ do Dec Lei nº 353/80 de 3-Set, pelo DEC LEI.40/81.1981.03.07.MFP, DR.IS [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1981-388444
+  date: '1981-03-07'
+- type: amended_by
+  target: pt:dre:579141:por
+  label: "Prorrogado por mais noventa dias os prazos fixados no art. 4º pelo DEC LEI.159/81.1981.06.11.MFP, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1981-579141
+  date: '1981-06-11'
+- type: amended_by
+  target: pt:dre:567460:por
+  label: "Prorrogado os prazos fixados no artigo 4.ºdo presente diploma, pelo DEC LEI.334/81.07.12.1981.MHOPT, DR.IS [281]\
+    \ de 07.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1981-567460
+  date: '1981-12-07'
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417182:por
+  label: "Revogado pelo DEC LEI.305/87.05.08.1987.MOPTC, DR.IS [178] de 05.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1987-417182
+  date: '1987-08-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:31Z'
   warnings: []
   errors: []
 ---
@@ -116,23 +182,23 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada a Administração do Porto de Sines, abreviadamente designada por APS, dependente do Ministério dos Transportes e Comunicações.
+Artigo 1.º - 1 - É criada a Administração do Porto de Sines, abreviadamente designada por APS, dependente do Ministério dos Transportes e Comunicações.
 
 2 - A APS é um instituto público, dotado de personalidade jurídica e que goza de autonomia administrativa e financeira.
 
-###### Art. 2.º - 1 - A área sobre a qual a APS exercerá a sua jurisdição será aquela que vier a ser definida no respectivo diploma orgânico.
+Art. 2.º - 1 - A área sobre a qual a APS exercerá a sua jurisdição será aquela que vier a ser definida no respectivo diploma orgânico.
 
 2 - Passa desde já para a jurisdição da APS o terminal petroleiro construído pelo Gabinete da Área de Sines (GAS).
 
 3 - Por despacho dos Ministros do Plano e Coordenação Económica e dos Transportes e Comunicações serão progressivamente transferidos para a jurisdição da APS as obras e os equipamentos portuários que venham a ser objecto de entrega provisória ao GAS pelos respectivos adjudicatários.
 
-###### Art. 3.º - 1 - É constituída, na dependência do Ministro dos Transportes e Comunicações, a Comissão Instaladora da APS, adiante designada por Comissão.
+Art. 3.º - 1 - É constituída, na dependência do Ministro dos Transportes e Comunicações, a Comissão Instaladora da APS, adiante designada por Comissão.
 
 2 - A Comissão será composta por três membros, a nomear por despacho conjunto dos Ministros do Plano e Coordenação Económica e dos Transportes e Comunicações, sendo um dos membros designado presidente.
 
 3 - Compete especialmente ao presidente representar a Comissão em juízo e fora dele.
 
-###### Art. 4.º A Comissão terá por atribuições:
+Art. 4.º A Comissão terá por atribuições:
 
 a) Assegurar, pelo prazo de cento e oitenta dias, a gestão administrativa, financeira e patrimonial dos bens confiados à jurisdição da APS;
 
@@ -140,7 +206,7 @@ b) Assegurar, durante o mesmo prazo, o funcionamento e a gestão das instalaçõ
 
 c) Promover, no prazo de noventa dias, a elaboração e apresentação ao Governo de uma proposta de diploma orgânico da APS.
 
-###### Art. 5.º Para além dos actos cuja prática especificamente se lhe determina no presente diploma, a competência da Comissão abrangerá:
+Art. 5.º Para além dos actos cuja prática especificamente se lhe determina no presente diploma, a competência da Comissão abrangerá:
 
 a) Recrutamento de pessoal;
 
@@ -152,7 +218,7 @@ d) Adopção de planos para a promoção de pessoal técnico e administrativo;
 
 e) As demais funções que lhe forem cometidas por despacho do Ministro dos Transportes e Comunicações.
 
-###### Art. 6.º - 1 - Fica a Comissão autorizada a ajustar com as empresas Petróleos de Portugal, E. P. - Petrogal e Sociedade Portuguesa de Navios-Tanques, Lda. (Soponata), as fórmulas contratuais possíveis com vista à concessão da exploração do terminal petroleiro e a realização de operações de trasfega.
+Art. 6.º - 1 - Fica a Comissão autorizada a ajustar com as empresas Petróleos de Portugal, E. P. - Petrogal e Sociedade Portuguesa de Navios-Tanques, Lda. (Soponata), as fórmulas contratuais possíveis com vista à concessão da exploração do terminal petroleiro e a realização de operações de trasfega.
 
 2 - Fica a Comissão igualmente autorizada a ajustar a exploração das actividades de abastecimento de combustíveis à navegação marítima (bunkers).
 
@@ -160,7 +226,7 @@ e) As demais funções que lhe forem cometidas por despacho do Ministro dos Tran
 
 4 - Tanto essas minutas como os instrumentos contratuais definitivos ficam dispensados de quaisquer outras formalidades legais, incluindo o visto do Tribunal de Contas.
 
-###### Art. 7.º - 1 - Todas as receitas darão entrada na Caixa Geral de Depósitos em conta especial à ordem da Comissão.
+Art. 7.º - 1 - Todas as receitas darão entrada na Caixa Geral de Depósitos em conta especial à ordem da Comissão.
 
 2 - Para obrigar a APS durante o período de instalação será necessário a assinatura de dois membros da Comissão, o mesmo se aplicando à movimentação de contas e assinatura de cheques.
 
@@ -168,13 +234,13 @@ e) As demais funções que lhe forem cometidas por despacho do Ministro dos Tran
 
 4 - A Comissão apresentará, no termo do período de instalação, relatório de actividades e contas de gerência ao Ministro dos Transportes e Comunicações, sem prejuízo da remessa destas ao Tribunal de Contas para efeitos de julgamento nos termos legais.
 
-###### Art. 8.º O pessoal permanente da APS será o constante do quadro que vier a ser aprovado com o respectivo diploma orgânico.
+Art. 8.º O pessoal permanente da APS será o constante do quadro que vier a ser aprovado com o respectivo diploma orgânico.
 
-###### Art. 9.º - 1 - Poderá entretanto a Comissão recrutar, mediante contrato, o pessoal dirigente, administrativo, técnico e auxiliar indispensável ao funcionamento dos serviços.
+Art. 9.º - 1 - Poderá entretanto a Comissão recrutar, mediante contrato, o pessoal dirigente, administrativo, técnico e auxiliar indispensável ao funcionamento dos serviços.
 
 2 - Para o efeito, apresentará a Comissão, no prazo de quinze dias após a sua posse, um quadro transitório e respectivas condições de preenchimento, a serem aprovados por portaria conjunta do Ministro dos Transportes e Comunicações, do Ministro do Plano e Coordenação Económica, do Ministro das Finanças e do Secretário de Estado da Administração Pública.
 
-###### Art. 10.º - 1 - Para o provimento do quadro previsto no artigo anterior, será dada preferência aos funcionários do GAS que assim o desejarem e nesse sentido se manifestem, perante a Comissão, os trinta dias seguintes ao da publicação do referido quadro.
+Art. 10.º - 1 - Para o provimento do quadro previsto no artigo anterior, será dada preferência aos funcionários do GAS que assim o desejarem e nesse sentido se manifestem, perante a Comissão, os trinta dias seguintes ao da publicação do referido quadro.
 
 2 - As candidaturas dos funcionários a que se refere o número anterior serão informadas com parecer do director do GAS, nomeadamente quanto à adequação das suas especializações e prática profissional e quanto à sua dispensabilidade.
 
@@ -182,11 +248,11 @@ e) As demais funções que lhe forem cometidas por despacho do Ministro dos Tran
 
 4 - A integração no quadro dos aludidos funcionários far-se-á mediante lista nominativa aprovada pelos Ministros do Plano e Coordenação Económica e dos Transportes e Comunicações, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
 
-###### Art. 11.º - 1 - A Comissão poderá ainda requisitar, para os trabalhos de exploração e conservação do terminal portuário, o pessoal especializado de que carecer à Petrogal, à Soponata e ao GAS, no domínio da actividade específica de cada uma destas entidades.
+Art. 11.º - 1 - A Comissão poderá ainda requisitar, para os trabalhos de exploração e conservação do terminal portuário, o pessoal especializado de que carecer à Petrogal, à Soponata e ao GAS, no domínio da actividade específica de cada uma destas entidades.
 
 2 - Os pedidos de requisição serão objecto de decisão conjunta do Ministro dos Transportes e Comunicações e do Ministro da tutela respectivo, ouvidas as entidades a quem a requisição é dirigida.
 
-###### Art. 12.º - 1 - As remunerações dos membros da Comissão serão fixadas por despacho conjunto dos Ministros dos Transportes e Comunicações, do Plano e Coordenação Económica e das Finanças.
+Art. 12.º - 1 - As remunerações dos membros da Comissão serão fixadas por despacho conjunto dos Ministros dos Transportes e Comunicações, do Plano e Coordenação Económica e das Finanças.
 
 2 - Os membros da Comissão, quando funcionários de quaisquer serviços do Estado, dos institutos públicos, das autarquias locais ou de empresas públicas, manterão, enquanto no exercício das funções que lhes são atribuídas pelo presente diploma, todos os direitos e regalias inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da Comissão como serviço prestado nesse quadro.
 
@@ -194,16 +260,16 @@ e) As demais funções que lhe forem cometidas por despacho do Ministro dos Tran
 
 4 - Os membros da Comissão terão direito, nos termos da lei, ao abono de ajudas de custo e transportes, quando se desloquem da área da sua residência.
 
-###### Art. 13.º Enquanto não forem edificadas as instalações próprias da APS, poderá a Comissão utilizar dependências de outros serviços afectos ao Ministério dos Transportes e Comunicações ou ao Gabinete da Área de Sines, mediante despacho do respectivo Ministro.
+Art. 13.º Enquanto não forem edificadas as instalações próprias da APS, poderá a Comissão utilizar dependências de outros serviços afectos ao Ministério dos Transportes e Comunicações ou ao Gabinete da Área de Sines, mediante despacho do respectivo Ministro.
 
-###### Art. 14.º Os encargos a que der origem, no presente ano, a aplicação deste decreto-lei serão suportados por receitas próprias e pela dotação do Orçamento Geral do Estado que com tal finalidade está contida no orçamento do GAS para 1977.
+Art. 14.º Os encargos a que der origem, no presente ano, a aplicação deste decreto-lei serão suportados por receitas próprias e pela dotação do Orçamento Geral do Estado que com tal finalidade está contida no orçamento do GAS para 1977.
 
-###### Art. 15.º As dúvidas que se suscitarem na interpretação ou aplicação deste decreto-lei serão resolvidas por despacho do Ministro dos Transportes e Comunicações ou ainda, em razão da sua matéria, do Ministro do Plano e Coordenação Económica ou do das Finanças.
+Art. 15.º As dúvidas que se suscitarem na interpretação ou aplicação deste decreto-lei serão resolvidas por despacho do Ministro dos Transportes e Comunicações ou ainda, em razão da sua matéria, do Ministro do Plano e Coordenação Económica ou do das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Novembro de 1977.**
+Promulgado em 30 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

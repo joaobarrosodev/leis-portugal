@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42846-1960-278560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 462019bb75cac7b608dd3e9d637ffe78152ae750e918e01dfbd70c14dd2366dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e1c839dfb0d0805b80f294e654d90acc1e9898c4ae469db0f6dc07af1547bf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Comércio
+- Convenção
+- Exportação
+- Importação
+- Londres
+- Portugal
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:473490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226578:por
+  label: "Aprovado, para ratificação, o Protocolo que prorroga a validade do Acordo, pelo DEC LEI.46143.04.01.1965.MNE, DG.IS\
+    \ [2] de 04.01.1965\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46143-1965-226578
+  date: '1965-01-04'
+- type: amended_by
+  target: pt:dre:473490:por
+  label: "Aprovado, para ratificação, o Protocolo que estabelece nova prorrogação do Acordo internacional sobre o açúcar de\
+    \ 1958, aprovado pelo presente diploma, pelo DEC LEI.47025.25.05.1966.MNE, DG.IS [123] de 25.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47025-1966-473490
+  date: '1966-05-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:08Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +108,13 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo internacional do açúcar de 1958, cujo texto, em francês e na respectiva tradução para a língua portuguesa, vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo internacional do açúcar de 1958, cujo texto, em francês e na respectiva tradução para a língua portuguesa, vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/03500/06210654.pdf))](https://files.diariodarepublica.pt/1s/1960/02/03500/06210654.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/03500/06210654.pdf)
 
 Acordo internacional sobre o açúcar de 1958
 
@@ -930,7 +950,7 @@ Pela Checoslováquia:
 
 R. Popp. (23 de Dezembro de 1958).
 
-**Assinado com as seguintes reservas:**
+Assinado com as seguintes reservas:
 
 Em virtude de a economia checoslovaca ser uma economia plenamente planificada, o artigo 3.º, relativo a subsídios para a exportação de açúcar, e os artigos 10.º e 13.º, respeitantes a limitações de produção e existências de açúcar em reserva, não se aplicam à Checoslováquia.
 

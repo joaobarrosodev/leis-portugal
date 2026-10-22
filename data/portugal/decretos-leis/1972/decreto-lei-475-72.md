@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/27500/17431754.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1972-686599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd24454bd6d380566b06079f82925a2496a1d828b3b507db151f3a095b1a3b94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d7639d002d55b59e58876686613f3117fd7de48dd89d3c14074cf4e8a520db3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:417818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:674841:por
+  label: "Alterados os artigos 15.º, 29.º, 57.º, 60.º e o mapa I a que se refere o artigo 43.º, do Decreto-Lei n.º 36976,\
+    \ de 20 de Julho de 1948, na redacção que lhe foi dada pelo artigo 1.º do presente diploma, pelo DEC LEI.134/73.28.03.1973.MCOMN,\
+    \ DG.IS [74] de 28.03.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1973-674841
+  date: '1973-03-28'
+- type: amended_by
+  target: pt:dre:416452:por
+  label: "Alteradas as alíneas c) e m) do art. 56.º do Dec Lei 36976, de 20-Jul 1948, na redacção que lhe foi dada pelo art.\
+    \ 1.º do presente diploma, pelo DEC.899/76.30.12.1976.MTC, DR.IS [302] de 30.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/899-1976-416452
+  date: '1976-12-30'
+- type: amended_by
+  target: pt:dre:462421:por
+  label: "Tornada extensiva às comissões administrativas das juntas autónomas dos portos a competência prevista no parágrafo\
+    \ 2.º do artigo 73.º do Decreto-Lei 36976, de 20 de Julho, na redacção do presente diploma, pelo DEC LEI.505/80.20.10.1980.MTC,\
+    \ DR.IS [243] de 20.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/505-1980-462421
+  date: '1980-10-20'
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548812:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:311240:por
+  label: "Revogado o § 1º do art. 73º da orgânica da Administração Geral do Porto de Lisboa aprovado pelo Dec Lei 37976 de\
+    \ 20-Jul de 1948, com a redacção conferida no presente diploma, pelo DEC LEI.690/75.11.12.1975.MTC, DG.IS [285] de 11.12.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/690-1975-311240
+  date: '1975-12-11'
+- type: repealed_by
+  target: pt:dre:417818:por
+  label: "Revogado pelo DEC LEI.309/87.07.08.1987.MOPTC, DR.IS [180] de 07.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1987-417818
+  date: '1987-08-07'
 article_structure:
   article_count: 0
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:42Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +179,7 @@ As disposições do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/det
 
 ...
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1.º ...
 
@@ -123,7 +193,7 @@ As disposições do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/det
 
 ...
 
-###### Art. 9.º A Administração-Geral do Porto de Lisboa pode executar fora das horas normais os trabalhos que, pela sua natureza ou pelas condições que os determinam, tenham que ser efectuados sem subordinação ao horário normal, designadamente:
+Art. 9.º A Administração-Geral do Porto de Lisboa pode executar fora das horas normais os trabalhos que, pela sua natureza ou pelas condições que os determinam, tenham que ser efectuados sem subordinação ao horário normal, designadamente:
 
 a) Os relativos a serviços de reboque, acostagem e desacostagem de navios;
 
@@ -147,13 +217,13 @@ j) Sondagens marítimas e quaisquer trabalhos preparatórios ou decorrentes dos 
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § 1.º ...
 
 § 2.º A nomeação do presidente e dos dois administradores-delegados será feita em regime de comissão de serviço por tempo indeterminado; a dos três administradores será feita em regime de comissão de serviço por períodos de três anos, renováveis por decisão expressa do Ministro das Comunicações.
 
-**O Ministro poderá dar por findas as comissões a todo o tempo.**
+O Ministro poderá dar por findas as comissões a todo o tempo.
 
 § 3.º Quando as nomeações recaírem em funcionários dos quadros dos serviços do Estado ou das autarquias locais, inclusivamente da própria Administração-Geral, poderão esses funcionários regressar aos mesmos quadros se assim o requererem ou por decisão ministerial. Se por qualquer circunstância o regresso se não tornar logo efectivo, ser-lhes-ão abonados os vencimentos correspondentes a esses lugares por conta das disponibilidades das dotações de remunerações certas ao pessoal do quadro da Administração-Geral do Porto de Lisboa ou por verba especialmente inscrita.
 
@@ -171,9 +241,9 @@ O consultor jurídico assistirá, também, às reuniões do conselho de administ
 
 ...
 
-###### Art. 19.º O conselho de administração definirá o âmbito da competência dos administradores-delegados em matéria executiva, com expressa referência dos serviços cuja superintendência fica confiada a cada um.
+Art. 19.º O conselho de administração definirá o âmbito da competência dos administradores-delegados em matéria executiva, com expressa referência dos serviços cuja superintendência fica confiada a cada um.
 
-###### Art. 20.º Compete ao presidente do conselho de administração:
+Art. 20.º Compete ao presidente do conselho de administração:
 
 1.º ...
 
@@ -209,7 +279,7 @@ O consultor jurídico assistirá, também, às reuniões do conselho de administ
 
 § 3.º O disposto no n.º 5.º não abrange a representação da Administração-Geral do Porto de Lisboa no Conselho Superior de Obras Públicas e Transportes, nem em outros casos em que essa representação esteja, ou venha a estar, regulada por disposições especiais.
 
-###### Art. 21.º A comissão técnica é um órgão essencialmente consultivo, visando, em especial, a aplicação de critérios uniformes e a coordenação geral dos serviços.
+Art. 21.º A comissão técnica é um órgão essencialmente consultivo, visando, em especial, a aplicação de critérios uniformes e a coordenação geral dos serviços.
 
 A sua constituição é a seguinte:
 
@@ -239,7 +309,7 @@ Secretário - O chefe da Divisão de Secretariado, que, no entanto, mediante aut
 
 § 2.º ...
 
-###### Art. 23.º A junta consultiva do porto de Lisboa constituída por:
+Art. 23.º A junta consultiva do porto de Lisboa constituída por:
 
 a) Representantes das Câmaras Municipais de Lisboa, Oeiras, Loures, Vila Franca de Xira, Almada, Seixal, Barreiro, Moita, Montijo, Alcochete e Benavente;
 
@@ -291,9 +361,9 @@ t) Um representante da Câmara de Comércio de Lisboa.
 
 ...
 
-###### Art. 26.º Os serviços de secretaria da Junta Consultiva são assegurados pela Divisão de Secretariado.
+Art. 26.º Os serviços de secretaria da Junta Consultiva são assegurados pela Divisão de Secretariado.
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 § 1.º Os administradores-delegados podem chamar a si, sempre que o entendam conveniente, quaisquer das atribuições de direcção ou chefia dos funcionários seus dependentes.
 
@@ -301,7 +371,7 @@ t) Um representante da Câmara de Comércio de Lisboa.
 
 ...
 
-###### Art. 29.º Para o pagamento das importâncias em dívida à Administração-Geral do Porto de Lisboa, qualquer que seja a sua proveniência ou forma de liquidação e cobrança, será de quinze dias, a contar da notificação ao devedor, o prazo de cobrança à boca do cofre.
+Art. 29.º Para o pagamento das importâncias em dívida à Administração-Geral do Porto de Lisboa, qualquer que seja a sua proveniência ou forma de liquidação e cobrança, será de quinze dias, a contar da notificação ao devedor, o prazo de cobrança à boca do cofre.
 
 § 1.º Ficarão sujeitas a juros de mora, nos termos do artigo 1.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969, as importâncias de que trata o corpo deste artigo, quando pagas depois de decorrido o prazo a que ele se refere.
 
@@ -315,59 +385,59 @@ t) Um representante da Câmara de Comércio de Lisboa.
 
 ...
 
-###### Art. 37.º Se no decurso do ano económico se reconhecer insuficiência nas verbas orçamentais para ocorrer à satisfação das correspondentes despesas, poderá o conselho de administração da Administração-Geral do Porto de Lisboa, na parte da despesa ordinária do seu orçamento privativo, autorizar transferências de rubrica para rubrica e de número para número dentro de cada artigo ou de artigo para artigo, quer dentro das despesas correntes, quer dentro das despesas de capital, e bem assim as que envolvam alterações nas dotações de despesas de anos findos e de restituições. As transferências de verbas da despesa ordinária entre despesas correntes e de capital e as alterações de redacção de rubricas que não constituam designações da classificação económica e seus desenvolvimentos tipificados poderão ser autorizadas pelo Ministro das Comunicações, com visto favorável do Ministro das Finanças, obtido por intermédio da Direcção-Geral da Contabilidade Pública, sendo dispensada, em todas as alterações orçamentais de que trata o corpo deste artigo, a respectiva publicação no Diário do Governo.
+Art. 37.º Se no decurso do ano económico se reconhecer insuficiência nas verbas orçamentais para ocorrer à satisfação das correspondentes despesas, poderá o conselho de administração da Administração-Geral do Porto de Lisboa, na parte da despesa ordinária do seu orçamento privativo, autorizar transferências de rubrica para rubrica e de número para número dentro de cada artigo ou de artigo para artigo, quer dentro das despesas correntes, quer dentro das despesas de capital, e bem assim as que envolvam alterações nas dotações de despesas de anos findos e de restituições. As transferências de verbas da despesa ordinária entre despesas correntes e de capital e as alterações de redacção de rubricas que não constituam designações da classificação económica e seus desenvolvimentos tipificados poderão ser autorizadas pelo Ministro das Comunicações, com visto favorável do Ministro das Finanças, obtido por intermédio da Direcção-Geral da Contabilidade Pública, sendo dispensada, em todas as alterações orçamentais de que trata o corpo deste artigo, a respectiva publicação no Diário do Governo.
 
 § único. As restantes alterações da despesa ordinária e as respeitantes a despesa extraordinária obedecerão ao preceituado na lei geral.
 
 ...
 
-###### Art. 42.º A Administração-Geral do Porto de Lisboa disporá dos seguintes serviços técnicos e administrativos:
+Art. 42.º A Administração-Geral do Porto de Lisboa disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento;
 
 b) Direcção dos Serviços Gerais, compreendendo:
 
-##### Divisão de Secretariado;
+Divisão de Secretariado;
 
-##### Divisão de Gestão Patrimonial;
+Divisão de Gestão Patrimonial;
 
-##### Divisão de Informática.
+Divisão de Informática.
 
 c) Direcção dos Serviços de Pessoal, compreendendo:
 
 ##### Divisão de Pessoal;
 
-##### Divisão de Organização;
+Divisão de Organização;
 
 Obras Sociais e Culturais.
 
 d) Direcção dos Serviços Financeiros, compreendendo:
 
-##### Divisão de Contabilidade;
+Divisão de Contabilidade;
 
-##### Divisão de Fiscalização;
+Divisão de Fiscalização;
 
 Tesouraria.
 
 e) Direcção dos Serviços de Exploração, compreendendo:
 
-##### Divisão de Exploração Terrestre;
+Divisão de Exploração Terrestre;
 
-##### Divisão de Exploração Marítima
+Divisão de Exploração Marítima
 
 f) Direcção dos Serviços de Obras, compreendendo:
 
-##### Divisão de Estudos e Projectos;
+Divisão de Estudos e Projectos;
 
-##### Divisão de Construção e Conservação.
+Divisão de Construção e Conservação.
 
 g) Direcção dos Serviços de Produção, compreendendo:
 
-##### Divisão de Instalações Navais;
+Divisão de Instalações Navais;
 
-##### Divisão de Electricidade e Mecânica;
+Divisão de Electricidade e Mecânica;
 
-##### Divisão de Abastecimento.
+Divisão de Abastecimento.
 
 h) Polícia da Administração-Geral do Porto de Lisboa.
 
@@ -377,7 +447,7 @@ h) Polícia da Administração-Geral do Porto de Lisboa.
 
 § 3.º A Polícia da Administração-Geral do Porto de Lisboa é comandada por um oficial do Exército.
 
-###### Art. 43.º O quadro do pessoal da Administração-Geral do Porto de Lisboa é o constante do mapa I anexo a este diploma e que dele faz parte integrante.
+Art. 43.º O quadro do pessoal da Administração-Geral do Porto de Lisboa é o constante do mapa I anexo a este diploma e que dele faz parte integrante.
 
 § 1.º Além dos vencimentos, o pessoal perceberá todos os demais abonos que estejam ou venham a ser estabelecidos, genèricamente, para os servidores civis do Estado.
 
@@ -385,9 +455,9 @@ h) Polícia da Administração-Geral do Porto de Lisboa.
 
 e dos adjuntos técnicos do grupo 3.11 e de outras categorias de pessoal em relação às quais se verifique a conveniência dessa fixação.
 
-###### Art. 44.º A organização dos serviços e a composição do quadro estabelecidas nos artigos anteriores poderão ser alteradas por decreto do Ministro das Comunicações.
+Art. 44.º A organização dos serviços e a composição do quadro estabelecidas nos artigos anteriores poderão ser alteradas por decreto do Ministro das Comunicações.
 
-###### Art. 47.º O pessoal operário, marítimo e trabalhador que for necessário nas oficinas, nos trabalhos de obras novas e de conservação e nos restantes serviços da Administração-Geral do Porto de Lisboa será assalariado e abonado por força das verbas inscritas globalmente no seu orçamento privativo.
+Art. 47.º O pessoal operário, marítimo e trabalhador que for necessário nas oficinas, nos trabalhos de obras novas e de conservação e nos restantes serviços da Administração-Geral do Porto de Lisboa será assalariado e abonado por força das verbas inscritas globalmente no seu orçamento privativo.
 
 § 1.º Os salários deste pessoal serão fixados pelo Ministro das Comunicações, sob proposta da Administração-Geral do Porto de Lisboa, ouvida a Direcção-Geral do Trabalho e Corporações
 
@@ -395,17 +465,17 @@ e dos adjuntos técnicos do grupo 3.11 e de outras categorias de pessoal em rela
 
 ...
 
-###### Art. 49.º A admissão de funcionários para o quadro do pessoal da Administração-Geral do Porto de Lisboa será sempre feita a título provisório; a entrada para os grupos do quadro far-se-á, mediante concurso, pela última classe ou categoria dos mesmos grupos.
+Art. 49.º A admissão de funcionários para o quadro do pessoal da Administração-Geral do Porto de Lisboa será sempre feita a título provisório; a entrada para os grupos do quadro far-se-á, mediante concurso, pela última classe ou categoria dos mesmos grupos.
 
 § único. Não é exigível concurso nos casos especialmente previstos no presente diploma nem na admissão para o grupo 3.19.
 
 ...
 
-###### Art. 55.º Os funcionários dos grupos 2.1, 3.1, 3.6, 3.7, 3.8, 3.9, 3.10 e 3.11 poderão ser promovidos às classes imediatamente superiores, mediante concurso documental, depois de três anos de bom e efectivo serviço prestado em cada classe.
+Art. 55.º Os funcionários dos grupos 2.1, 3.1, 3.6, 3.7, 3.8, 3.9, 3.10 e 3.11 poderão ser promovidos às classes imediatamente superiores, mediante concurso documental, depois de três anos de bom e efectivo serviço prestado em cada classe.
 
 § único. Nos lugares a que correspondam, alternativamente, duas classes, os funcionários respectivos poderão também ser promovidos nas mesmas condições, mas, nesse caso, o concurso só será aberto após a emissão de parecer favorável da comissão técnica, que, para o efeito, apreciará os serviços por eles prestados.
 
-###### Art. 56.º O regulamento de admissão e promoção do pessoal da Administração-Geral do Porto de Lisboa estabelecerá as condições e normas a que devem obedecer, tendo em consideração os princípios fixados nos artigos anteriores e nas alíneas seguintes:
+Art. 56.º O regulamento de admissão e promoção do pessoal da Administração-Geral do Porto de Lisboa estabelecerá as condições e normas a que devem obedecer, tendo em consideração os princípios fixados nos artigos anteriores e nas alíneas seguintes:
 
 a) Para a admissão aos lugares abaixo designados são exigidas as seguintes habilitações mínimas ou outras que, para o efeito, sejam, nos termos da legislação vigente, consideradas equivalentes:
 
@@ -463,7 +533,7 @@ l) Sem prejuízo do disposto na segunda parte da alínea g), o provimento de lug
 
 m) Os funcionários de qualquer dos grupos que tenham ingressado nos quadros sem as habilitações legalmente exigíveis poderão ter acesso até ao vencimento da letra N, dentro das respectivas carreiras profissionais e afins, desde que possuam a habilitação do ciclo preparatório do ensino secundário ou equivalente e tenham, pelo menos, seis anos de bom e efectivo serviço na respectiva categoria.
 
-###### Art. 57.º São preenchidos por escolha os seguintes lugares, salvo nos casos referidas nas alíneas k) e l), em que se admite também o recrutamento por concurso:
+Art. 57.º São preenchidos por escolha os seguintes lugares, salvo nos casos referidas nas alíneas k) e l), em que se admite também o recrutamento por concurso:
 
 a) ...
 
@@ -517,7 +587,7 @@ y) Paquetes - entre indivíduos do sexo masculino com idade não inferior a 14 a
 
 § 2.º A determinação dos cursos adequados como condição de recrutamento dos lugares especificados nas alíneas do corpo deste artigo, quando não conste das próprias alíneas, será feita pelo presidente do conselho de administração, ouvida a comissão técnica.
 
-###### Art. 58.º A nomeação e promoção do pessoal dos quadros compete ao Ministro das Comunicações, que poderá delegar no presidente do conselho de administração a competência para nomear e promover os funcionários não compreendidos nas alíneas a) a j) do artigo anterior.
+Art. 58.º A nomeação e promoção do pessoal dos quadros compete ao Ministro das Comunicações, que poderá delegar no presidente do conselho de administração a competência para nomear e promover os funcionários não compreendidos nas alíneas a) a j) do artigo anterior.
 
 § 1.º ...
 
@@ -525,41 +595,41 @@ y) Paquetes - entre indivíduos do sexo masculino com idade não inferior a 14 a
 
 A competência aqui referida envolve a de colocação de um dos directores de serviços no exercício das funções de secretário-geral.
 
-###### Art. 59.º Sem prejuízo das disposições relativas à forma de provimento dos lugares de categoria igual ou inferior à letra S e mediante parecer favorável da comissão técnica, poderão os funcionários ser definitivamente providos nos lugares que exerçam quando tiverem três anos de bom e efectivo serviço prestado nesses mesmos lugares ou noutros quer, para o efeito, sejam considerados semelhantes pela mesma comissão.
+Art. 59.º Sem prejuízo das disposições relativas à forma de provimento dos lugares de categoria igual ou inferior à letra S e mediante parecer favorável da comissão técnica, poderão os funcionários ser definitivamente providos nos lugares que exerçam quando tiverem três anos de bom e efectivo serviço prestado nesses mesmos lugares ou noutros quer, para o efeito, sejam considerados semelhantes pela mesma comissão.
 
 O pessoal dirigente, com excepção daquele cuja nomeação seja feita em comissão de serviço, poderá ser provido definitivamente depois de um ano de bom e efectivo serviço nos respectivos lugares, qualquer que tenha sido a forma do seu provimento.
 
-###### Art. 60.º O funcionário ou assalariado que, por incapacidade física transitória ou por imposição legal, não possa exercer as funções normais do seu lugar poderá ser colocado noutros postos de trabalho.
+Art. 60.º O funcionário ou assalariado que, por incapacidade física transitória ou por imposição legal, não possa exercer as funções normais do seu lugar poderá ser colocado noutros postos de trabalho.
 
 A respectiva colocação será determinada por despacho do presidente do conselho de administração, mediante proposta do secretário-geral, com parecer médico.
 
 § único. Não poderá beneficiar do regime de que trata este artigo o pessoal que tiver direito à aposentação por inteiro.
 
-###### Art. 61.º O servidor colocado no regime de que trata o artigo precedente será substituído por agente em regime de interinidade, a qual cessará, passando tal servidor a ocupar lugar dos quadros, se for caso disso, logo que se verifique a primeira vaga.
+Art. 61.º O servidor colocado no regime de que trata o artigo precedente será substituído por agente em regime de interinidade, a qual cessará, passando tal servidor a ocupar lugar dos quadros, se for caso disso, logo que se verifique a primeira vaga.
 
-###### Art. 62.º Compete ao Ministro das Comunicações impor a demissão aos funcionários da Administração-Geral do Porto de Lisboa e conceder a exoneração aos referidos nas alíneas a) a r) do artigo 57.º do presente diploma; a exoneração dos restantes funcionários é da competência do presidente do conselho
+Art. 62.º Compete ao Ministro das Comunicações impor a demissão aos funcionários da Administração-Geral do Porto de Lisboa e conceder a exoneração aos referidos nas alíneas a) a r) do artigo 57.º do presente diploma; a exoneração dos restantes funcionários é da competência do presidente do conselho
 
 de administração.
 
 ...
 
-###### Art. 65.º Sem prejuízo do disposto no artigo 42º, as funções de chefia a que não correspondam categorias específicas dos quadros serão confiadas a funcionários devidamente qualificados, nas condições que forem estabelecidas pelo presidente do conselho de administração.
+Art. 65.º Sem prejuízo do disposto no artigo 42º, as funções de chefia a que não correspondam categorias específicas dos quadros serão confiadas a funcionários devidamente qualificados, nas condições que forem estabelecidas pelo presidente do conselho de administração.
 
 ...
 
-###### Art. 68.º O Ministro das Comunicações poderá delegar no conselho de administração ou no seu presidente as atribuições que por lei lhe são conferidas e para as quais não está prevista, expressamente, essa faculdade.
+Art. 68.º O Ministro das Comunicações poderá delegar no conselho de administração ou no seu presidente as atribuições que por lei lhe são conferidas e para as quais não está prevista, expressamente, essa faculdade.
 
-**O presidente do conselho de administração poderá também delegar nos administradores a prática de actos determinados.**
+O presidente do conselho de administração poderá também delegar nos administradores a prática de actos determinados.
 
 § único. Os despachos indicarão, em cada caso, a possibilidade ou não de subdelegação e em que termos.
 
 ...
 
-###### Art. 70.º Os administradores-delegados poderão delegar no secretário-geral e nos directores de serviços e outros funcionários da sua directa dependência, mediante prévia autorização do presidente do conselho de administração, as atribuições que por lei lhes estão conferidas e outras para as quais não esteja prevista, expressamente, essa faculdade; os directores de serviços e os chefes de divisão poderão delegar em funcionários da sua directa dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização dos administradores-delegados.
+Art. 70.º Os administradores-delegados poderão delegar no secretário-geral e nos directores de serviços e outros funcionários da sua directa dependência, mediante prévia autorização do presidente do conselho de administração, as atribuições que por lei lhes estão conferidas e outras para as quais não esteja prevista, expressamente, essa faculdade; os directores de serviços e os chefes de divisão poderão delegar em funcionários da sua directa dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização dos administradores-delegados.
 
 ...
 
-###### Art. 73.º O trabalho normal do pessoal da Administração-Geral do Porto de Lisboa terá a seguinte duração:
+Art. 73.º O trabalho normal do pessoal da Administração-Geral do Porto de Lisboa terá a seguinte duração:
 
 a) Nos serviços de natureza administrativa:
 
@@ -573,7 +643,7 @@ b) Nos serviços técnicos: conforme a sua natureza, de trinta e seis a quarenta
 
 ...
 
-###### Art. 75.º O pessoal da Administração-Geral do Porto de Lisboa, além das remunerações certas e das especiais genèricamente atribuídas aos servidores do Estado, tem direito, nos termos do presente diploma, aos seguintes abonos:
+Art. 75.º O pessoal da Administração-Geral do Porto de Lisboa, além das remunerações certas e das especiais genèricamente atribuídas aos servidores do Estado, tem direito, nos termos do presente diploma, aos seguintes abonos:
 
 a) Gratificações especiais;
 
@@ -593,21 +663,21 @@ g) Abonos nos termos dos artigos 104.º e 105.º
 
 ...
 
-###### Art. 77.º Será sempre remunerado o trabalho extraordinário do pessoal da Administração-Geral do Porto de Lisboa, seja qual for a natureza desse trabalho e o pessoal que tenha de o executar.
+Art. 77.º Será sempre remunerado o trabalho extraordinário do pessoal da Administração-Geral do Porto de Lisboa, seja qual for a natureza desse trabalho e o pessoal que tenha de o executar.
 
-###### Art. 78.º A prestação de trabalho extraordinário demanda autorização do administrador-delegado respectivo e a sua remuneração será calculada segundo valores a aprovar pelo Ministro das Comunicações, sob proposta da Administração-Geral do Porto de Lisboa ouvida a Direcção-Geral do Trabalho e Corporações em relação ao pessoal de que trata o artigo 47.º
+Art. 78.º A prestação de trabalho extraordinário demanda autorização do administrador-delegado respectivo e a sua remuneração será calculada segundo valores a aprovar pelo Ministro das Comunicações, sob proposta da Administração-Geral do Porto de Lisboa ouvida a Direcção-Geral do Trabalho e Corporações em relação ao pessoal de que trata o artigo 47.º
 
 § 1.º Na falta de fixação de valores para o abono, conforme o disposto neste artigo, a remuneração será calculada na base de um oitavo do salário diário para o pessoal assalariado e de um sexto do vencimento para o restante pessoal.
 
 § 2.º Normalmente, nenhum servidor poderá prestar, em cada mês de trabalho extraordinário, mais do que um terço do número de horas correspondentes à duração mensal do serviço normal, na base do disposto no artigo 73.º; sob proposta fundamentada do serviço interessado poderá, porém, o presidente do conselho de administração autorizar que aquele limite seja excedido em circunstâncias de carácter excepcional, ouvindo a comissão técnica nos casos em que esse regime se tenha de prolongar por mais de trinta dias.
 
-###### Art. 79.º O recurso a trabalho extraordinário será regulado no sentido de uma prudente conciliação das conveniências do serviço com a capacidade de trabalho do pessoal.
+Art. 79.º O recurso a trabalho extraordinário será regulado no sentido de uma prudente conciliação das conveniências do serviço com a capacidade de trabalho do pessoal.
 
-###### Art. 80.º O pessoal em qualquer situação, incluindo o destacado de outros serviços do Estado, que prestar serviço entre as O e as 8 horas tem direito a um abono horário por prestação de trabalho nocturno, segundo tabela a aprovar por despacho do Ministro das Comunicações, sob proposta da Administração-Geral do Porto de Lisboa e ouvida a Direcção-Geral do Trabalho e Corporações em relação ao pessoal de que trata o artigo 47.º
+Art. 80.º O pessoal em qualquer situação, incluindo o destacado de outros serviços do Estado, que prestar serviço entre as O e as 8 horas tem direito a um abono horário por prestação de trabalho nocturno, segundo tabela a aprovar por despacho do Ministro das Comunicações, sob proposta da Administração-Geral do Porto de Lisboa e ouvida a Direcção-Geral do Trabalho e Corporações em relação ao pessoal de que trata o artigo 47.º
 
-###### Art. 81.º A Administração-Geral do Porto de Lisboa poderá instituir, nas condições que forem estabelecidas pelo Ministro das Comunicações, sob proposta do conselho de administração, ouvida a comissão técnica, um sistema de prémios e outros estímulos, com o intuito de fomentar a produtividade.
+Art. 81.º A Administração-Geral do Porto de Lisboa poderá instituir, nas condições que forem estabelecidas pelo Ministro das Comunicações, sob proposta do conselho de administração, ouvida a comissão técnica, um sistema de prémios e outros estímulos, com o intuito de fomentar a produtividade.
 
-###### Art. 82.º Serão concedidos abonos para falhas dos quantitativos mensais adiante indicados ao seguinte pessoal caucionado:
+Art. 82.º Serão concedidos abonos para falhas dos quantitativos mensais adiante indicados ao seguinte pessoal caucionado:
 
 a) Chefe de secção que exercer as funções de tesoureiro-chefe ... 600$00
 
@@ -617,7 +687,7 @@ c) Encarregados de outros cofres ... 150$00
 
 ...
 
-###### Art. 86.º Os servidores da Administração-Geral do Porto de Lisboa têm as seguintes prerrogativas:
+Art. 86.º Os servidores da Administração-Geral do Porto de Lisboa têm as seguintes prerrogativas:
 
 1.º ...
 
@@ -635,7 +705,7 @@ c) Encarregados de outros cofres ... 150$00
 
 ...
 
-###### Art. 88.º A Administração-Geral do Porto de Lisboa poderá promover a abertura de concursos especiais de aptidão profissional, com prémios pecuniários e honoríficos, e também o funcionamento ou frequência de cursos e estágios de valorização profissional, assim como outras realizações e iniciativas visando essa valorização e, ainda, o aperfeiçoamento orgânico e o estudo do trabalho.
+Art. 88.º A Administração-Geral do Porto de Lisboa poderá promover a abertura de concursos especiais de aptidão profissional, com prémios pecuniários e honoríficos, e também o funcionamento ou frequência de cursos e estágios de valorização profissional, assim como outras realizações e iniciativas visando essa valorização e, ainda, o aperfeiçoamento orgânico e o estudo do trabalho.
 
 § 1.º ...
 
@@ -645,7 +715,7 @@ c) Encarregados de outros cofres ... 150$00
 
 ...
 
-###### Art. 90.º É instituída uma medalha, denominada «medalha do Porto de Lisboa», a qual se destina a galardoar os servidores do mesmo porto com exemplar comportamento e, ao mesmo tempo, com bom e efectivo serviço e as pessoas que lhe hajam prestado serviço excepcional, digno de relevo.
+Art. 90.º É instituída uma medalha, denominada «medalha do Porto de Lisboa», a qual se destina a galardoar os servidores do mesmo porto com exemplar comportamento e, ao mesmo tempo, com bom e efectivo serviço e as pessoas que lhe hajam prestado serviço excepcional, digno de relevo.
 
 § 1.º A concessão desta medalha é feita pelo Ministro das Comunicações, sob proposta do presidente do conselho de administração, ouvida a comissão técnica, no caso de servidores da Administração-Geral do Porto de Lisboa, ou o conselho de administração, no caso de se tratar de outras pessoas.
 
@@ -653,7 +723,7 @@ c) Encarregados de outros cofres ... 150$00
 
 ...
 
-###### Art. 93.º São aplicáveis as disposições legais reguladoras do preenchimento dos lugares de engenheiro inspector superior de obras públicas, de engenheiro inspector superior electrotécnico e de arquitecto inspector superior de obras públicas do Conselho Superior de Obras Públicas e Transportes aos funcionários seguintes do quadro da Administração-Geral do Porto de Lisboa:
+Art. 93.º São aplicáveis as disposições legais reguladoras do preenchimento dos lugares de engenheiro inspector superior de obras públicas, de engenheiro inspector superior electrotécnico e de arquitecto inspector superior de obras públicas do Conselho Superior de Obras Públicas e Transportes aos funcionários seguintes do quadro da Administração-Geral do Porto de Lisboa:
 
 a) Aos engenheiros civis com as categorias de director de serviços e chefe de divisão e aos engenheiros civis-chefes ou de 1.ª classe;
 
@@ -663,17 +733,17 @@ c) Aos arquitectos com as categorias de director de serviços e arquitectos-chef
 
 ...
 
-###### Art. 99.º As remunerações certas do pessoal que for admitido em regime de interinidade, nos termos do artigo 61.º, serão satisfeitas por conta de verbas especialmente inscritas no orçamento para esse efeito, ou, quando estas faltem ou sejam insuficientes, pelas disponibilidades das respectivas verbas de remunerações certas ao pessoal.
+Art. 99.º As remunerações certas do pessoal que for admitido em regime de interinidade, nos termos do artigo 61.º, serão satisfeitas por conta de verbas especialmente inscritas no orçamento para esse efeito, ou, quando estas faltem ou sejam insuficientes, pelas disponibilidades das respectivas verbas de remunerações certas ao pessoal.
 
 ...
 
-###### Art. 101.º A Administração-Geral do Porto de Lisboa poderá, dentro dos limites da sua competência em matéria da respectiva autorização, efectuar despesas de representação, bem como, em circunstâncias especiais, suportar encargos da mesma natureza dos seus servidores. As que excederem esses limites serão objecto de autorização da entidade competente.
+Art. 101.º A Administração-Geral do Porto de Lisboa poderá, dentro dos limites da sua competência em matéria da respectiva autorização, efectuar despesas de representação, bem como, em circunstâncias especiais, suportar encargos da mesma natureza dos seus servidores. As que excederem esses limites serão objecto de autorização da entidade competente.
 
-###### Art. 102.º A Administração-Geral do Porto de Lisboa poderá enviar servidores seus ao estrangeiro, em missão especial de interesse para o porto de Lisboa, podendo, também, fazer-se representar ou promover a participação de servidores seus em congressos, assembleias, reuniões, conferências e outros actos relacionados com o serviço ou com a acção a desenvolver pelo mesmo porto e que se realizem dentro do País ou fora dele.
+Art. 102.º A Administração-Geral do Porto de Lisboa poderá enviar servidores seus ao estrangeiro, em missão especial de interesse para o porto de Lisboa, podendo, também, fazer-se representar ou promover a participação de servidores seus em congressos, assembleias, reuniões, conferências e outros actos relacionados com o serviço ou com a acção a desenvolver pelo mesmo porto e que se realizem dentro do País ou fora dele.
 
 § único. Nos casos de deslocação ao estrangeiro de servidores da Administração-Geral do Porto de Lisboa é necessária a autorização do Ministro das Comunicações.
 
-###### Art. 103.º Os servidores que exerçam as funções de tesoureiros e outras que impliquem responsabilidade por valores à guarda não poderão entrar no exercício dessas funções sem terem prestado, por meio de seguro, hipoteca, penhor ou títulos nominativos, ao portador ou de cupão, de dívida pública ou depósito em dinheiro, as seguintes cauções, respectivamente:
+Art. 103.º Os servidores que exerçam as funções de tesoureiros e outras que impliquem responsabilidade por valores à guarda não poderão entrar no exercício dessas funções sem terem prestado, por meio de seguro, hipoteca, penhor ou títulos nominativos, ao portador ou de cupão, de dívida pública ou depósito em dinheiro, as seguintes cauções, respectivamente:
 
 Funções de tesoureiro-chefe ... 30000$00
 
@@ -691,9 +761,9 @@ Por cada servidor ... 5000$00
 
 ### CAPÍTULO VII — Disposições diversas
 
-###### Art. 104.º A Administração-Geral do Porto de Lisboa poderá remunerar em regime de tarefa a elaboração de relatórios, projectos e outros trabalhos especiais destinados a serem presentes ao Governo, aos órgãos da mesma Administração-Geral ou a outras organizações, nacionais ou internacionais.
+Art. 104.º A Administração-Geral do Porto de Lisboa poderá remunerar em regime de tarefa a elaboração de relatórios, projectos e outros trabalhos especiais destinados a serem presentes ao Governo, aos órgãos da mesma Administração-Geral ou a outras organizações, nacionais ou internacionais.
 
-###### Art. 105.º A Administração-Geral do Porto de Lisboa poderá igualmente remunerar os seus servidores que, além das suas atribuições normais, prestarem, eventualmente, outros serviços para que tenham demonstrado aptidão especial.
+Art. 105.º A Administração-Geral do Porto de Lisboa poderá igualmente remunerar os seus servidores que, além das suas atribuições normais, prestarem, eventualmente, outros serviços para que tenham demonstrado aptidão especial.
 
 As condições da prestação desses serviços, incluindo os da respectiva remuneração, serão fixadas, em cada caso, por despacho do Ministro das Comunicações e sempre com observância dos seguintes requisitos:
 
@@ -787,11 +857,11 @@ O presente diploma entrará em vigor no dia 1 de Janeiro de 1973, podendo, todav
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 20 de Novembro de 1972.**
+Promulgado em 20 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -799,7 +869,7 @@ MAPA I
 
 Pessoal e vencimentos da Administração-Geral do Porto de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27500/17431754.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27500/17431754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27500/17431754.pdf)
 
 MAPA II
 
@@ -851,4 +921,4 @@ Agentes da Polícia Judiciária ... 750$00
 
 (nota a) Consideram-se acrescentadas a esta tabela as gratificações estabelecidas nos termos da segunda parte do artigo 76.º
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

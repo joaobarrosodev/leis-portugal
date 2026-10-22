@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06700/05640565.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1976-501430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00a4aad69a6f51cc3cef845cbc804d0c12725ae0def9df662ecfb139f08297c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 259da9e4c8dc30a5f45621d6cc50f1f216c8b0b0f2eee2ed82994a25ea94649a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Justiça
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:232333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365881:por
+  label: Revogado o presente diploma, no que respeita à Secretaria-Geral do Ministério da Justiça, pelo(a) Decreto-Lei n.º
+    497/79 - Diário da República n.º 293/1979, Série I de 1979-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1979-365881
+  date: '1979-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:38Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +130,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Ao artigo 4.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, são adicionadas as seguintes alíneas:
+Artigo 1.º - 1. Ao artigo 4.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, são adicionadas as seguintes alíneas:
 
 f) Assegurar o expediente relativo aos tratados e convenções internacionais e missões ao estrangeiro;
 
@@ -118,24 +140,24 @@ g) Prestar assistência às delegações e missões de países estrangeiros em P
 
 3. À Procuradoria-Geral da República será comunicada a constituição de quaisquer delegações ou grupos de trabalho que se desloquem ao estrangeiro para intervir em congressos ou missões de interesse para o Ministério da Justiça.
 
-###### Art. 2.º São criados os lugares de chefe de secção dos serviços administrativos da Secretaria-Geral e da Direcção-Geral dos Serviços Judiciários.
+Art. 2.º São criados os lugares de chefe de secção dos serviços administrativos da Secretaria-Geral e da Direcção-Geral dos Serviços Judiciários.
 
-###### Art. 3.º - 1. Aos chefes de secção compete executar os serviços que couberem na esfera das suas atribuições e cumprir ou fazer cumprir as instruções e ordens superiores que lhes forem transmitidas.
+Art. 3.º - 1. Aos chefes de secção compete executar os serviços que couberem na esfera das suas atribuições e cumprir ou fazer cumprir as instruções e ordens superiores que lhes forem transmitidas.
 
 2. Os chefes de secção são substituídos, nas suas faltas ou impedimentos, pelo primeiro-oficial mais antigo.
 
-###### Art. 4.º Os lugares de chefe de secção são providos por livre escolha do Ministro entre os primeiros-oficiais do Ministério com mais de três anos de bom e efectivo serviço ou em licenciados em Direito, com observância em relação a estes últimos das disposições legais aplicáveis sobre excedentes na função pública.
+Art. 4.º Os lugares de chefe de secção são providos por livre escolha do Ministro entre os primeiros-oficiais do Ministério com mais de três anos de bom e efectivo serviço ou em licenciados em Direito, com observância em relação a estes últimos das disposições legais aplicáveis sobre excedentes na função pública.
 
-###### Art. 5.º Os lugares de primeiro-oficial e segundo-oficial dos serviços centrais e dos serviços dependentes do Ministério da Justiça serão providos por promoção dos funcionários da classe imediatamente inferior do quadro da respectiva Secretaria-Geral ou da Direcção-Geral, com mais de três anos de bom e efectivo serviço, podendo, porém, com observância do disposto na parte final do artigo anterior, os lugares de primeiro-oficial ser também providos em licenciados em Direito, por livre escolha do Ministro, quando não haja funcionários com as condições de promoção à data do preenchimento.
+Art. 5.º Os lugares de primeiro-oficial e segundo-oficial dos serviços centrais e dos serviços dependentes do Ministério da Justiça serão providos por promoção dos funcionários da classe imediatamente inferior do quadro da respectiva Secretaria-Geral ou da Direcção-Geral, com mais de três anos de bom e efectivo serviço, podendo, porém, com observância do disposto na parte final do artigo anterior, os lugares de primeiro-oficial ser também providos em licenciados em Direito, por livre escolha do Ministro, quando não haja funcionários com as condições de promoção à data do preenchimento.
 
-###### Art. 6.º Os quadros de escriturários-dactilógrafos da Secretaria-Geral do Ministério da Justiça e da Direcção-Geral dos Serviços Judiciários serão constituídos, respectivamente, por quatro e por cinco escriturários-dactilógrafos.
+Art. 6.º Os quadros de escriturários-dactilógrafos da Secretaria-Geral do Ministério da Justiça e da Direcção-Geral dos Serviços Judiciários serão constituídos, respectivamente, por quatro e por cinco escriturários-dactilógrafos.
 
-###### Art. 7.º O quadro de pessoal da Procuradoria-Geral da República é aumentado de um técnico de 1.ª classe, a prover em pessoa habilitada com curso superior adequado, ao qual incumbe, além do mais, o apoio, em matéria de traduções, não só à Procuradoria-Geral da República, como todos os outros serviços dependentes do Ministério da Justiça.
+Art. 7.º O quadro de pessoal da Procuradoria-Geral da República é aumentado de um técnico de 1.ª classe, a prover em pessoa habilitada com curso superior adequado, ao qual incumbe, além do mais, o apoio, em matéria de traduções, não só à Procuradoria-Geral da República, como todos os outros serviços dependentes do Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Rui Alberto Barradas do Amaral.
 
-**Promulgado em 10 de Março de 1976.**
+Promulgado em 10 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

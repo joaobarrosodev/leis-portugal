@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47937-1967-391001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e1e1b338a1d8ca79d05180bf35f4783c963e20b31fff09018940d17ad54845f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7152a97b4fd9c1338727de1a04176173c7afcb53731ffc2b57f100a216218d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquipélago da Madeira
+- Arrendamento Rural
+- Direito de Preferência
+- Junta de Colonização Interna
+- Madeira.região Autónoma
+- Regime de Colónia
+relationships:
+- type: cites
+  target: pt:dre:509209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:43Z'
   warnings: []
   errors: []
 ---
@@ -91,33 +105,33 @@ Apenas se esclarecem algumas dúvidas e se reconhecem aos senhorios e aos colono
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Ficam proibidos, para futuro, no arquipélago da Madeira, os contratos de colonia; os que se realizarem com este nome serão tidos como arrendamentos.
+Artigo 1.º - 1. Ficam proibidos, para futuro, no arquipélago da Madeira, os contratos de colonia; os que se realizarem com este nome serão tidos como arrendamentos.
 
 2. Os contratos de colonia celebrados até à entrada em vigor deste decreto-lei subsistem na forma convencionada e do direito costumeiro e usos locais; são-lhes, porém, aplicáveis, imperativamente, as disposições dos artigos seguintes.
 
-###### Art. 2.º - 1. Os contratos de colonia não caducam par morte do senhorio ou do colono nem pela transmissão, entre vivos ou por morte, dos respectivos direitos.
+Art. 2.º - 1. Os contratos de colonia não caducam par morte do senhorio ou do colono nem pela transmissão, entre vivos ou por morte, dos respectivos direitos.
 
 2. A transmissão entre vivos dos direitos do senhorio ou do colono só pode fazer-se por escritura pública.
 
-###### Art. 3.º Quando a transmissão de direitos do senhorio se opere a favor do colono, não é aplicável a proibição de fraccionamento expressa no artigo 1376.º do Código Civil.
+Art. 3.º Quando a transmissão de direitos do senhorio se opere a favor do colono, não é aplicável a proibição de fraccionamento expressa no artigo 1376.º do Código Civil.
 
-###### Art. 4.º - 1. O senhorio e o colono gozam do direito de preferência, e têm o primeiro lugar entre os preferentes legais, no caso de venda ou dação em cumprimento, a estranhos, respectivamente, das benfeitorias ou do terreno; sendo dois ou mais os comproprietários das benfeitorias ou do terreno, e sendo alienado apenas o direito de um ou alguns deles, prevalece o direito de preferência conferido pelo artigo 1409.º do Código Civil.
+Art. 4.º - 1. O senhorio e o colono gozam do direito de preferência, e têm o primeiro lugar entre os preferentes legais, no caso de venda ou dação em cumprimento, a estranhos, respectivamente, das benfeitorias ou do terreno; sendo dois ou mais os comproprietários das benfeitorias ou do terreno, e sendo alienado apenas o direito de um ou alguns deles, prevalece o direito de preferência conferido pelo artigo 1409.º do Código Civil.
 
 2. Ao direito de preferência é aplicável, com as necessárias adaptações, o disposto nos artigos 416.º a 418.º e 1410.º do Código Civil, sendo, porém, concedido aos titulares daquele direito o prazo de 90 dias, contado da comunicação, para o seu exercício, sob pena de caducidade.
 
 3. Sendo dois ou mais os preferentes, o direito é adjudicado a todos, na proporção das suas quotas.
 
-###### Art. 5.º - 1. À resolução do contrato de colonia, a pedido do senhorio, é aplicável, com as necessárias adaptações, o processo especial de cessação do arrendamento.
+Art. 5.º - 1. À resolução do contrato de colonia, a pedido do senhorio, é aplicável, com as necessárias adaptações, o processo especial de cessação do arrendamento.
 
 2. Com o pedido de resolução, deve o senhorio requerer a adjudicação das benfeitorias do colono.
 
 3. A acção tem, para o efeito de custas, o valor das benfeitorias, se este for superior ao correspondente à acção de resolução.
 
-###### Art. 6.º O colono goza do direito de retenção, enquanto não for pago do preço das benfeitorias.
+Art. 6.º O colono goza do direito de retenção, enquanto não for pago do preço das benfeitorias.
 
-###### Art. 7.º A Secretaria de Estado da Agricultura, por intermédio da Junta de Colonização Interna, pode prestar assistência financeira, nos termos do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, ao senhorio ou ao colono, para o efeito da aquisição, por parte de qualquer deles, dos direitos do outro.
+Art. 7.º A Secretaria de Estado da Agricultura, por intermédio da Junta de Colonização Interna, pode prestar assistência financeira, nos termos do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, ao senhorio ou ao colono, para o efeito da aquisição, por parte de qualquer deles, dos direitos do outro.
 
-###### Art. 8.º - 1. As benfeitorias resultantes de contrato de colonia são descritas no registo predial, por averbamento à descrição do prédio em que foram feitas.
+Art. 8.º - 1. As benfeitorias resultantes de contrato de colonia são descritas no registo predial, por averbamento à descrição do prédio em que foram feitas.
 
 2. As benfeitorias actualmente descritas no extracto de inscrições serão averbadas à descrição do prédio correspondente, à medida que sobre elas recaia algum registo.
 
@@ -125,13 +139,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O averbamento de benfeitorias às descrições, bem como o cancelamento previsto no número anterior, é oficioso e dependente do registo que o determine.
 
-###### Art. 9.º - 1. As inscrições referentes a benfeitorias ligam-se ao averbamento em que estas se mostrem descritas, por meio de cota de referência, nos termos prescritos no Código do Registo Predial.
+Art. 9.º - 1. As inscrições referentes a benfeitorias ligam-se ao averbamento em que estas se mostrem descritas, por meio de cota de referência, nos termos prescritos no Código do Registo Predial.
 
 2. Para o averbamento das benfeitorias serão transferidas todas as cotas de referência a registos, em vigor, de factos que sobre elas recaiam, e que anteriormente tenham sido lançadas à margem da descrição do prédio correspondente, como a ele respeitantes; as cotas de referência transferidas serão trancadas.
 
 3. Para efeitos do número anterior, não se consideram em vigor, além dos registos caducos ou cancelados, aqueles cujos efeitos hajam sido transferidos por virtude do novo registo.
 
-###### Art. 10.º - 1. Nenhuma parcela de prédio com benfeitorias averbadas pode ser destacada para constituir objecto de descrição autónoma, sem que seja especificada a parte das benfeitorias referentes à parcela que se pretende destacar.
+Art. 10.º - 1. Nenhuma parcela de prédio com benfeitorias averbadas pode ser destacada para constituir objecto de descrição autónoma, sem que seja especificada a parte das benfeitorias referentes à parcela que se pretende destacar.
 
 2. À descrição da parcela destacada serão averbadas as benfeitorias que lhe respeitam.
 
@@ -139,7 +153,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. A intervenção exigida tem-se por verificada, desde que o proprietário ou possuidor inscrito haja intervindo, como parte, no título donde conste o facto a registar, ou em declaração complementar.
 
-###### Art. 11.º - 1. As inscrições que tenham por objecto direitos ou encargos sobre benfeitorias a que não corresponda uma descrição própria ou averbada à descrição do prédio correspondente podem ser renovadas, por averbamento, a simples requerimento do seu titular, acompanhado da declaração complementar necessária.
+Art. 11.º - 1. As inscrições que tenham por objecto direitos ou encargos sobre benfeitorias a que não corresponda uma descrição própria ou averbada à descrição do prédio correspondente podem ser renovadas, por averbamento, a simples requerimento do seu titular, acompanhado da declaração complementar necessária.
 
 2. Na declaração complementar, o declarante especificará as benfeitorias, que são objecto do registo a renovar, bem como todas as inscrições em vigor que lhes respeitam.
 
@@ -147,7 +161,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Logo que verifique a caducidade, o conservador efectuará oficiosamente o averbamento de cancelamento.
 
-###### Art. 12.º - 1. A intervenção do titular da última inscrição em vigor de transmissão, domínio ou mera posse, exigida pelo trato sucessivo, para fins de registo de direito sobre benfeitorias, adquiridos por acto celebrado ou facto ocorrido anteriormente a 1 de Janeiro de 1960, pode ser suprida não só pelos meios normais previstos no Código do Registo Predial, mas ainda mediante justificação realizada perante o respectivo conservador, nos termos constante dos números seguintes.
+Art. 12.º - 1. A intervenção do titular da última inscrição em vigor de transmissão, domínio ou mera posse, exigida pelo trato sucessivo, para fins de registo de direito sobre benfeitorias, adquiridos por acto celebrado ou facto ocorrido anteriormente a 1 de Janeiro de 1960, pode ser suprida não só pelos meios normais previstos no Código do Registo Predial, mas ainda mediante justificação realizada perante o respectivo conservador, nos termos constante dos números seguintes.
 
 2. A justificação terá por base a declaração do interessado confirmada por mais três declarantes de reconhecida idoneidade, prestada em auto lavrado perante o conservador.
 
@@ -159,6 +173,6 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6. Por cada auto lavrado nas condições previstas neste artigo será cobrado o emolumento a que se refere a alínea b) do n.º 1 do artigo 5.º da tabela anexa ao [Decreto-Lei n.º 47619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47619-1967-509209), de 31 de Março de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

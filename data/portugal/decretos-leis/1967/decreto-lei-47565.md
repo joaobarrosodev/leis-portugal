@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/02/04900/02320232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47565-1967-504326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20adbca89cd468557772565ab7d2d8721cea55bd3ebd0bf9729e434d20ec09bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b0ce0835179732960fa7ce50df561fe8e6767150346e22f67377a7c7614c3ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BASE Aérea
+- Força Aérea
+- Forças Armadas
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:473551:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247269:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473551:por
+  label: "Revogado o presente diploma, pelo Dec Lei.499/74.01.10.1974.CCEMFA, DG.IS [229] de 01.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/499-1974-473551
+  date: '1974-10-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:22Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +113,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. A organização actual é a que consta da [Portaria n.º 22423](https://diariodarepublica.pt/dr/detalhe/portaria/22423-1967-239442), de 4 de Janeiro de 1967. Quaisquer alterações que envolvam aumentos de efectivos serão fixadas em portaria a expedir pelo Ministro da Defesa Nacional e pelo Secretário de Estado da Aeronáutica, com a concordância do Ministro das Finanças.
 
-###### Art. 2.º Ao abrigo do presente diploma são colocados fora do quadro, na situação de adido, os oficiais, sargentos, praças e o pessoal civil contratado ou assalariado indispensável para activação da base até ao limite dos efectivos previstos na [Portaria n.º 22423](https://diariodarepublica.pt/dr/detalhe/portaria/22423-1967-239442), de 4 de Janeiro de 1967.
+Art. 2.º Ao abrigo do presente diploma são colocados fora do quadro, na situação de adido, os oficiais, sargentos, praças e o pessoal civil contratado ou assalariado indispensável para activação da base até ao limite dos efectivos previstos na [Portaria n.º 22423](https://diariodarepublica.pt/dr/detalhe/portaria/22423-1967-239442), de 4 de Janeiro de 1967.
 
-###### Art. 3.º Os encargos resultantes da aplicação deste diploma serão custeados pelo orçamento suplementar da defesa pelas verbas a determinar em cada ano económico pelo Ministro da Defesa Nacional.
+Art. 3.º Os encargos resultantes da aplicação deste diploma serão custeados pelo orçamento suplementar da defesa pelas verbas a determinar em cada ano económico pelo Ministro da Defesa Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
 

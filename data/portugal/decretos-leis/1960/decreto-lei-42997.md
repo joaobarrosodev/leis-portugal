@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42997-1960-504315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e948c2ec4eb09c04b166768847819769e28232459b7e748e36aece7ca36c4f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcc57f8001d2c20ca7a28942508e404fc706c176afea9ab93c650439605b3821
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Freguesias
+- Freguesia
+- Ponta Delgada
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:29Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +97,18 @@ Atendendo a que se verificam as condições referidas no artigo 9.º do Código 
 
 Usando da faculdade conferida pela 1.ª parte do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Nordeste, distrito de Ponta Delgada, a freguesia de Santana, com sede na povoação de Feteira Pequena.
+Artigo 1.º É criada no concelho de Nordeste, distrito de Ponta Delgada, a freguesia de Santana, com sede na povoação de Feteira Pequena.
 
 § único. A freguesia de Santana é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia definem-se por uma linha que, seguindo pela orla marítima, ao norte, desde a foz da ribeira do Vaqueiro até à foz da ribeira da Mulher, prossegue por esta ribeira até à sua nascente e desta continua para sul, por um valado, até ao ponto onde encontra os limites do concelho de Nordeste com o da Povoação; daqui inflecte para poente, pelos mesmos limites, até um valado que vai à nascente da ribeira do Vaqueiro; daqui prossegue para norte, pelo referido valado, seguindo depois esta ribeira até à sua foz, no ponto onde se iniciou a descrição.
+Art. 2.º Os limites da nova freguesia definem-se por uma linha que, seguindo pela orla marítima, ao norte, desde a foz da ribeira do Vaqueiro até à foz da ribeira da Mulher, prossegue por esta ribeira até à sua nascente e desta continua para sul, por um valado, até ao ponto onde encontra os limites do concelho de Nordeste com o da Povoação; daqui inflecte para poente, pelos mesmos limites, até um valado que vai à nascente da ribeira do Vaqueiro; daqui prossegue para norte, pelo referido valado, seguindo depois esta ribeira até à sua foz, no ponto onde se iniciou a descrição.
 
 § único. A Câmara Municipal do concelho de Nordeste procederá, no prazo de 90 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde sejam necessários, por forma que fiquem bem patentes os limites fixados neste artigo.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Santana realizar-se-á no dia que for designado pelo governador do distrito, e serão eleitores os chefes de família da área respectiva inscritos no recenseamento da freguesia de Achada.
+Art. 3.º A eleição da Junta de Freguesia de Santana realizar-se-á no dia que for designado pelo governador do distrito, e serão eleitores os chefes de família da área respectiva inscritos no recenseamento da freguesia de Achada.
 
-###### Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da junta no que se refere à eleição e votação será exercida pelo presidente da Junta de Freguesia de Achada.
+Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da junta no que se refere à eleição e votação será exercida pelo presidente da Junta de Freguesia de Achada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

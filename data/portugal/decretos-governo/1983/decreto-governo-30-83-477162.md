@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 100/1983, 1º Suplemento, Série I de 1983-05-02
   number: '100'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1544-(1) a 1544-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/10001/00010023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/30-1983-477162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e02004b42addc161fb614eb487c91f50d29d0646bfab2a0391c8b796103c74e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0874618eef90daf3d323bc47103cb8d3e72728defb93b7b665ff0049efc9d709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 34
+  article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:40Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +86,19 @@ de 2 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Multilateral Relativo a Taxas de Rota, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo Multilateral Relativo a Taxas de Rota, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1983. - Francisco José Pereira Pinto Balsemão - Vasco Luís Caldeira Coelho Futscher Pereira - José Manuel Meneres Sampaio Pimentel.
 
-**Assinado em 25 de Março de 1983.**
+Assinado em 25 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Março de 1983.**
+Referendado em 29 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 MULTILATERAL AGREEMENT
 
@@ -1008,7 +1008,7 @@ Confederação Suiça ... Região Superior de Informação de Vôo Genève
 
 Extractos da Convenção internacional de cooperação para a segurança de navegação aérea «EUROCONTROL» de 13 de Dezembro de 1960 emendada pelo Protocolo aberto à assinatura em Bruxelas em 1981
 
-###### Artigo 7º, parágrafo 3 da Convenção
+Artigo 7º, parágrafo 3 da Convenção
 
 Salvo disposições em contrário, as directivas e as medidas a tomar nos casos previstos na alínea (b) do parágrafo 1 e no parágrafo 4 do artigo 6º são adoptadas pela Comissão por maioria de votos expressos, ficando entendido que:
 
@@ -1060,7 +1060,7 @@ De 27 a menos de 30% ... 15
 
 4. Proceder-se-á anualmente e nas condições atrás previstas a uma nova fixação do número de votos.
 
-###### Artigo 19º do Anexo 1 à Convenção (Estatuto da Agência)
+Artigo 19º do Anexo 1 à Convenção (Estatuto da Agência)
 
 1. Sem prejuízo do disposto no parágrafo 2 deste artigo, as contribuições anuais de cada uma das Partes Contratantes para o orçamento são, para cada exercício, determinadas de acordo com a fórmula de repartição seguinte:
 

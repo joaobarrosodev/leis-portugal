@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1980-474498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0333071edee3da8eb0932c5c176a2171a041c4ed308fe4720d16f5c5eb2755b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f5d2e70c83a2cf1df2095378d768b0d467ad8126a89a90f64412dbecad019af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia da Força Aérea
+- Identificação Civil
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:331861:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:57Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +98,7 @@ Considerando que, posteriormente àquela data, ao ser criada, pelo [Decreto-Lei 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. A alínea a) do artigo 1.º do Decreto-Lei n.º 399-A/77, de 22 de Setembro, é substituída pela seguinte:
+Artigo único. A alínea a) do artigo 1.º do Decreto-Lei n.º 399-A/77, de 22 de Setembro, é substituída pela seguinte:
 
 ###### Artigo 1.º ...
 
@@ -99,8 +106,8 @@ a) Modelo n.º 1 - destinado a oficiais, sargentos e praças dos quadros permane
 
 Visto e aprovado em Conselho da Revolução em 6 de Maio de 1980.
 
-**Promulgado em 13 de Maio de 1980.**
+Promulgado em 13 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

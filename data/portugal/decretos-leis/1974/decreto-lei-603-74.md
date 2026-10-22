@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1974-465399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04af9b3227b48e6e67806fc7273d05ebbb163d1e5dd3b0747469302958f19cc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19fc963da5536338aa4028c14d3a03b430b43d751ffc862c3a1c492d0ed05ecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Militar
+- Pensão de Reforma
+- Pensão de Reserva
 relationships:
 - type: amended_by
   target: pt:dre:336166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336166:por
+  label: "Alterados os arts. 1º e 4º pelo DEC LEI.244/75.21.05.1975.CR, DG.IS [117] de 21.05.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1975-336166
+  date: '1975-05-21'
+- type: cites
+  target: pt:dre:534615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:28Z'
   warnings: []
   errors: []
 ---
@@ -108,22 +128,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração que serve de base ao cálculo, líquido da respectiva quota e multiplicada pelo número de anos de serviço contados, no qual não pode ser atribuído valor superior a trinta e seis.
+Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração que serve de base ao cálculo, líquido da respectiva quota e multiplicada pelo número de anos de serviço contados, no qual não pode ser atribuído valor superior a trinta e seis.
 
-###### Art. 2.º - 1. As percentagens de aumento de tempo de serviço especialmente fixadas por lei são, para os efeitos de cálculo da pensão de reserva, contadas por acréscimo ao tempo de serviço.
+Art. 2.º - 1. As percentagens de aumento de tempo de serviço especialmente fixadas por lei são, para os efeitos de cálculo da pensão de reserva, contadas por acréscimo ao tempo de serviço.
 
 2. No caso de haver concorrência de percentagens de aumento do tempo de serviço, será apenas contada a mais elevada, salvo se a lei expressamente permitir a sua acumulação.
 
-###### Art. 3.º As pensões de reserva já fixadas devem ser revistas, considerando apenas as alterações previstas nos artigos anteriores, com direito aos quantitativos novos a partir de 1 de Setembro de 1974.
+Art. 3.º As pensões de reserva já fixadas devem ser revistas, considerando apenas as alterações previstas nos artigos anteriores, com direito aos quantitativos novos a partir de 1 de Setembro de 1974.
 
-###### Art. 4.º O disposto no presente decreto-lei aplica-se também às pensões de reforma de militares.
+Art. 4.º O disposto no presente decreto-lei aplica-se também às pensões de reforma de militares.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - António de Almeida Santos - Victor Manuel Rodrigues Alves - José da Silva Lopes.
 
-**Promulgado em 31 de Outubro de 1974.**
+Promulgado em 31 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos.

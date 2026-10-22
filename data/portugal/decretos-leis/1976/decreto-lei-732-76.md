@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24200/23402342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/732-1976-409559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 572d23c527a1631d98ce8b850bf24232e85d55402512ca7776a731636db69d34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 856e45b1a73fa3adaa676e048efb618f22cdf092e5ab170704fce9be264055c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Marinha
+- Serviço Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286098:por
+  label: "Alterada a al. c) do art. 13º e eliminado o art. 15º pelo DEC LEI.386/77.14.09.1977.CR, DR.IS [213] de 14.09.1977\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/386-1977-286098
+  date: '1977-09-14'
+- type: amended_by
+  target: pt:dre:389631:por
+  label: "Alterada a redacção do art. 21º pelo DEC LEI.26/81.1981.02.04.CR, DR.IS [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1981-389631
+  date: '1981-02-04'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:16Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +118,11 @@ Verificando-se ainda que o critério de agrupar num mesmo posto - o de marinheir
 
 Usando dos poderes conferidos pela alínea a) do n.º 1 do artigo 148.º da Constituição, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As praças da Armada são incorporadas nos quadros do activo para efeito da prestação de serviço militar obrigatório ou para a prestação de serviço militar voluntário, neste último caso, quando se destinem a servir como militares dos quadros permanentes.
+Artigo 1.º As praças da Armada são incorporadas nos quadros do activo para efeito da prestação de serviço militar obrigatório ou para a prestação de serviço militar voluntário, neste último caso, quando se destinem a servir como militares dos quadros permanentes.
 
-###### Art. 2.º O tempo normal de serviço militar obrigatório das praças da Armada é de dois anos, contados da data da incorporação.
+Art. 2.º O tempo normal de serviço militar obrigatório das praças da Armada é de dois anos, contados da data da incorporação.
 
-###### Art. 3.º - 1. O tempo de serviço efectivo a que ficam obrigados os voluntários admitidos com destino aos quadros permanentes é de:
+Art. 3.º - 1. O tempo de serviço efectivo a que ficam obrigados os voluntários admitidos com destino aos quadros permanentes é de:
 
 a) Seis anos, contados da data de ingresso nesses quadros, se esse ingresso tiver lugar através da frequência de curso de alistamento ou por concurso;
 
@@ -114,11 +134,11 @@ b) Quatro anos, nos restantes casos, contados nas mesmas condições.
 
 4. A admissão de voluntários com destino aos quadros permanentes obedece às condições gerais fixadas na lei e aos requisitos especiais fixados ou a fixar em despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 4.º - 1. As praças incorporadas para prestação de serviço militar obrigatório poderão ser admitidas nos quadros permanentes após conclusão do período de serviço fixado no artigo 2.º desde que se comprometam à prestação de um período adicional de serviço de quatro anos e satisfaçam às restantes condições estabelecidas ou a estabelecer por portaria do Chefe do Estado-Maior da Armada para o ingresso naqueles quadros.
+Art. 4.º - 1. As praças incorporadas para prestação de serviço militar obrigatório poderão ser admitidas nos quadros permanentes após conclusão do período de serviço fixado no artigo 2.º desde que se comprometam à prestação de um período adicional de serviço de quatro anos e satisfaçam às restantes condições estabelecidas ou a estabelecer por portaria do Chefe do Estado-Maior da Armada para o ingresso naqueles quadros.
 
 2. As reconduções subsequentes das praças de que trata o número anterior têm lugar por períodos sucessivos de três anos.
 
-###### Art. 5.º - 1. Na categoria de praças da Armada existem os seguintes postos:
+Art. 5.º - 1. Na categoria de praças da Armada existem os seguintes postos:
 
 a) Cabo;
 
@@ -138,15 +158,15 @@ b) Segundos-grumetes recrutas, quando prestando serviço militar obrigatório.
 
 3. O posto de primeiro-despenseiro da antiga classe de despenseiros é equivalente ao de cabo.
 
-###### Art. 6.º As praças da Armada são admitidas nos quadros permanentes num dos seguintes postos:
+Art. 6.º As praças da Armada são admitidas nos quadros permanentes num dos seguintes postos:
 
 a) Cabo, quando se destinem a classes cujo ingresso exige prévia habilitação com um curso de alistamento;
 
 b) Primeiro-marinheiro, nos restantes casos.
 
-###### Art. 7.º O ingresso na categoria de sargentos dos quadros permanentes tem lugar pela promoção das praças ao posto de segundo-sargento, salvo no caso da classe dos músicos, em que esse ingresso pode ter lugar, por concurso, em qualquer dos postos da referida categoria.
+Art. 7.º O ingresso na categoria de sargentos dos quadros permanentes tem lugar pela promoção das praças ao posto de segundo-sargento, salvo no caso da classe dos músicos, em que esse ingresso pode ter lugar, por concurso, em qualquer dos postos da referida categoria.
 
-###### Art. 8.º - 1. Na categoria de sargentos existem os seguintes postos:
+Art. 8.º - 1. Na categoria de sargentos existem os seguintes postos:
 
 a) Sargento-ajudante;
 
@@ -160,13 +180,13 @@ e) Segundo-subsargento.
 
 2. Os postos de Subsargento e de Segundo-subsargento existem apenas no quadro de complemento.
 
-###### Art. 9.º O escalonamento hierárquico dos postos dos sargentos e praças, em ordem decrescente, e a sua equivalência aos postos do Exército e da Força Aérea são os seguintes:
+Art. 9.º O escalonamento hierárquico dos postos dos sargentos e praças, em ordem decrescente, e a sua equivalência aos postos do Exército e da Força Aérea são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/24200/23402342.pdf))](https://files.diariodarepublica.pt/1s/1976/10/24200/23402342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/24200/23402342.pdf)
 
-###### Art. 10.º Em igualdade de postos, a hierarquia é definida pela antiguidade relativa.
+Art. 10.º Em igualdade de postos, a hierarquia é definida pela antiguidade relativa.
 
-###### Art. 11.º - 1. Os sargentos e praças ascendem aos postos indicados no artigo anterior por promoção.
+Art. 11.º - 1. Os sargentos e praças ascendem aos postos indicados no artigo anterior por promoção.
 
 2. As promoções têm lugar, conforme as classes e os postos a que se efectuam, por um dos seguintes sistemas:
 
@@ -182,7 +202,7 @@ e) Concurso;
 
 f) Distinção.
 
-###### Art. 12.º Têm lugar pelo sistema de diuturnidades as promoções aos seguintes postos:
+Art. 12.º Têm lugar pelo sistema de diuturnidades as promoções aos seguintes postos:
 
 a) Primeiro-grumete, ao fim de um ano de serviço efectivo;
 
@@ -190,7 +210,7 @@ b) Segundo-marinheiro, ao fim de dezoito meses de serviço efectivo;
 
 c) Primeiro-sargento, ao fim de quatro anos de permanência no posto de segundo-sargento.
 
-###### Art. 13.º Têm lugar pelo sistema de classificação em curso as promoções aos seguintes postos:
+Art. 13.º Têm lugar pelo sistema de classificação em curso as promoções aos seguintes postos:
 
 a) Primeiro-marinheiro, salvo no caso da classe de músicos;
 
@@ -198,50 +218,50 @@ b) Cabo das classes de electrotécnicos, maquinistas navais e enfermeiros;
 
 e) Segundo-sargento de todas as classes, com excepção das classes de mergulhadores e músicos.
 
-###### Art. 14.º Têm lugar pelo sistema de antiguidade as promoções aos seguintes postos:
+Art. 14.º Têm lugar pelo sistema de antiguidade as promoções aos seguintes postos:
 
 a) Cabo, de todas as classes, com excepção das indicadas na alínea b) do artigo anterior;
 
 b) Sargento-ajudante.
 
-###### Art. 15.º Tem lugar pelo sistema de escolha a promoção a segundo-sargento da classe de mergulhadores.
+Art. 15.º Tem lugar pelo sistema de escolha a promoção a segundo-sargento da classe de mergulhadores.
 
-###### Art. 16.º Têm lugar pelo sistema de concurso as promoções a todos os postos da classe dos músicos, com excepção da promoção a primeiro-sargento.
+Art. 16.º Têm lugar pelo sistema de concurso as promoções a todos os postos da classe dos músicos, com excepção da promoção a primeiro-sargento.
 
-###### Art. 17.º A promoção por distinção pode ter lugar a qualquer dos postos indicados no artigo 9.º
+Art. 17.º A promoção por distinção pode ter lugar a qualquer dos postos indicados no artigo 9.º
 
-###### Art. 18.º As promoções dos sargentos e praças realizam-se seguindo o ordenamento hierárquico, de posto em posto, salvo nos casos em que a admissão nos quadros permanentes e ingresso na classe implicam promoção e no caso dos músicos, em que, por concurso, se poderá verificar o acesso a posto superior ao imediato.
+Art. 18.º As promoções dos sargentos e praças realizam-se seguindo o ordenamento hierárquico, de posto em posto, salvo nos casos em que a admissão nos quadros permanentes e ingresso na classe implicam promoção e no caso dos músicos, em que, por concurso, se poderá verificar o acesso a posto superior ao imediato.
 
-###### Art. 19.º As promoções dos sargentos e praças efectuam-se para preenchimento de vacaturas, salvo quando se trate de promoções por diuturnidades e distinção, das que resultam de ingresso na classe, das promoções a primeiro-marinheiro dos segundos-marinheiros a que se refere o artigo 4.º e que resultam de ingresso nos quadros permanentes e das promoções dos sargentos a oficial.
+Art. 19.º As promoções dos sargentos e praças efectuam-se para preenchimento de vacaturas, salvo quando se trate de promoções por diuturnidades e distinção, das que resultam de ingresso na classe, das promoções a primeiro-marinheiro dos segundos-marinheiros a que se refere o artigo 4.º e que resultam de ingresso nos quadros permanentes e das promoções dos sargentos a oficial.
 
-###### Art. 20.º Para que os sargentos e praças possam ser promovidos é indispensável que satisfaçam às condições gerais e especiais de promoção estabelecidas, salvo quando se trate de promoção por distinção.
+Art. 20.º Para que os sargentos e praças possam ser promovidos é indispensável que satisfaçam às condições gerais e especiais de promoção estabelecidas, salvo quando se trate de promoção por distinção.
 
-###### Art. 21.º - 1. As praças de que trata o artigo 4.º são graduadas nos postos de primeiro-marinheiro, com os abonos correspondentes a este posto, no dia seguinte àquele em que terminaram o tempo de serviço militar obrigatório fixado no artigo 2.º, perdendo essa graduação quando, concluído com aproveitamento o curso exigido como condição de admissão nos quadros permanentes, sejam promovidos àquele posto.
+Art. 21.º - 1. As praças de que trata o artigo 4.º são graduadas nos postos de primeiro-marinheiro, com os abonos correspondentes a este posto, no dia seguinte àquele em que terminaram o tempo de serviço militar obrigatório fixado no artigo 2.º, perdendo essa graduação quando, concluído com aproveitamento o curso exigido como condição de admissão nos quadros permanentes, sejam promovidos àquele posto.
 
 2. Terão baixa do serviço os segundos-marinheiros de que trata o número anterior que sejam excluídos ou não obtenham aproveitamento no curso aí referido, salvo quando por motivo de doença.
 
-###### Art. 22.º - 1. Aos postos de primeiro-marinheiro e de segundo-marinheiro correspondem, respectivamente, os abonos fixados em legislação anterior para «marinheiros dos quadros permanentes» e «outros marinheiros».
+Art. 22.º - 1. Aos postos de primeiro-marinheiro e de segundo-marinheiro correspondem, respectivamente, os abonos fixados em legislação anterior para «marinheiros dos quadros permanentes» e «outros marinheiros».
 
 2. Aos segundos-grumetes alunos corresponde o pré mensal fixado para «alunos dos cursos de alistamento».
 
-###### Art. 23.º Os actuais marinheiros dos quadros permanentes e restantes marinheiros ingressam nos quadros do posto de primeiro-marinheiro e de segundo-marinheiro, respectivamente, ordenados em cada um desses quadros segundo a sua antiguidade relativa.
+Art. 23.º Os actuais marinheiros dos quadros permanentes e restantes marinheiros ingressam nos quadros do posto de primeiro-marinheiro e de segundo-marinheiro, respectivamente, ordenados em cada um desses quadros segundo a sua antiguidade relativa.
 
-###### Art. 24.º Os actuais primeiros-grumetes da classe dos músicos são promovidos ao posto de primiero-marinheiro, ingressando no quadro deste posto à esquerda dos primeiros-marinheiros nele existentes, ordenados segundo a sua antiguidade relativa.
+Art. 24.º Os actuais primeiros-grumetes da classe dos músicos são promovidos ao posto de primiero-marinheiro, ingressando no quadro deste posto à esquerda dos primeiros-marinheiros nele existentes, ordenados segundo a sua antiguidade relativa.
 
-###### Art. 25.º É mantido em três anos o período da primeira recondução dos marinheiros já reconduzidos e, bem assim, dos incorporados antes de Abril de 1975 que se tenham declarado voluntários para recondução e lhes tenha sido deferido.
+Art. 25.º É mantido em três anos o período da primeira recondução dos marinheiros já reconduzidos e, bem assim, dos incorporados antes de Abril de 1975 que se tenham declarado voluntários para recondução e lhes tenha sido deferido.
 
-###### Art. 26.º Para os segundos-grumetes incorporados antes de Abril de 1975 mantêm-se as condições de promoção a primeiro-grumete que vigoravam anteriormente à data da publicação do presente diploma.
+Art. 26.º Para os segundos-grumetes incorporados antes de Abril de 1975 mantêm-se as condições de promoção a primeiro-grumete que vigoravam anteriormente à data da publicação do presente diploma.
 
-###### Art. 27.º - 1. Até que no Estatuto dos Sargentos e Praças da Armada sejam introduzidas as alterações decorrentes deste diploma, serão fixadas em portaria do Chefe do Estado-Maior da Armada as normas que se tornem indispensáveis para a sua execução e que não devam ser objecto de outra forma de regulamentação.
+Art. 27.º - 1. Até que no Estatuto dos Sargentos e Praças da Armada sejam introduzidas as alterações decorrentes deste diploma, serão fixadas em portaria do Chefe do Estado-Maior da Armada as normas que se tornem indispensáveis para a sua execução e que não devam ser objecto de outra forma de regulamentação.
 
 2. Serão também definidos em portaria do Chefe do Estado-Maior da Armada os novos cursos e instruções a frequentar pelos sargentos e praças da Armada e, bem assim, as normas relativas à respectiva admissão e aproveitamento.
 
-###### Art. 28.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 28.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 15 de Setembro de 1976.
 
-**Promulgado em 23 de Setembro de 1976.**
+Promulgado em 23 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

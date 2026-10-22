@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e7c52c953e723fa0d9a6002c0adcc394d1b23a96963167087bf82633d93562f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a91fe3b8bbc051a72f6e718faaebfc3bb70206b6ce96dde21de88e0412e5fee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Criação de Serviços
+- Definição de Competências
+- Fiscalização
+- Incompatibilidades
+- Instalação de Serviços
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Ministro das Finanças
+- Orgânica
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Serviços de Justiça Fiscal
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:278029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:294480:por
+  label: "Alterado o art. 82.º da Organização dos Serviços de Justiça Fiscal, aprovada pelo presente diploma, pelo DEC LEI.46369.07.06.1965.MF,\
+    \ DG.IS [127] de 07.06.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46369-1965-294480
+  date: '1965-06-07'
+- type: amended_by
+  target: pt:dre:633133:por
+  label: "Alterado o art. 4º pelo DEC LEI.423/71.02.10.1971.MJ, DG.IS [233] de 02.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/423-1971-633133
+  date: '1971-10-02'
+- type: amended_by
+  target: pt:dre:506651:por
+  label: "Dada nova redacção ao art. 4º da Organização dos Serviços de Justiça pelo DEC LEI.115/76.09.02.1976.MJ, DG.IS [33]\
+    \ de 09.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1976-506651
+  date: '1976-02-09'
+- type: amended_by
+  target: pt:dre:378753:por
+  label: "Alterada a redacção do artigo 30.º da Organização dos Serviços de Justiça Fiscal pelo DEC LEI.320/79.23.08.1979.MFP,\
+    \ DR.IS [194] de 23.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1979-378753
+  date: '1979-08-23'
+- type: cites
+  target: pt:dre:155400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678604:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278029:por
+  label: "Revogado o presente diploma pela LEI.13/2002.2002.02.19.AR DR.IS-A [42], a partir da sua entrada em vigor. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2002-278029
+  date: '2002-02-19'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:53Z'
   warnings: []
   errors: []
 ---
@@ -122,19 +192,19 @@ Nos termos do artigo 12.º da [Lei n.º 2117](https://diariodarepublica.pt/dr/de
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovada a Organização dos Serviços de Justiça Fiscal que faz parte do presente decreto-lei.
+Artigo 1.º É aprovada a Organização dos Serviços de Justiça Fiscal que faz parte do presente decreto-lei.
 
-###### Art. 2.º Fica o Ministro das Finanças autorizado a tomar as providências necessárias à entrada em funcionamento dos serviços de justiça fiscal, a decidir por despacho todas as questões emergentes da sua aplicação e a tomar as providências de ordem financeira indispensáveis à sua execução.
+Art. 2.º Fica o Ministro das Finanças autorizado a tomar as providências necessárias à entrada em funcionamento dos serviços de justiça fiscal, a decidir por despacho todas as questões emergentes da sua aplicação e a tomar as providências de ordem financeira indispensáveis à sua execução.
 
 § único. Na satisfação dos encargos com pessoal, resultantes da execução deste diploma, poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal dos quadros aprovados por lei dos tribunais de 2.ª instância e 1.ª instância do contencioso das contribuições e impostos, bem como a destinada a todos os encargos resultantes da instalação e funcionamento do serviço de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, das direcções de finanças distritais e secções de finanças concelhias, para o pessoal dos respectivos quadros.
 
-###### Art. 3.º Os actuais juízes do Tribunal de 2.ª Instância do Contencioso das Contribuições e Impostos consideram-se investidos, com dispensa de quaisquer formalidades, incluindo a do visto do Tribunal de Contas, ou da verificação das condições estabelecidas na organização dos serviços de justiça fiscal, nos cargos de juízes do Tribunal de 2.ª Instância das Contribuições e Impostos.
+Art. 3.º Os actuais juízes do Tribunal de 2.ª Instância do Contencioso das Contribuições e Impostos consideram-se investidos, com dispensa de quaisquer formalidades, incluindo a do visto do Tribunal de Contas, ou da verificação das condições estabelecidas na organização dos serviços de justiça fiscal, nos cargos de juízes do Tribunal de 2.ª Instância das Contribuições e Impostos.
 
-###### Art. 4.º Os actuais juízes dos tribunais privativos de 1.ª instância do contencioso das contribuições e impostos de Lisboa e Porto consideram-se investidos, nos mesmos termos do artigo anterior, nos lugares de juízes de 1.ª classe dos tribunais de 1.ª instância das contribuições e impostos das mesmas cidades, respectivamente.
+Art. 4.º Os actuais juízes dos tribunais privativos de 1.ª instância do contencioso das contribuições e impostos de Lisboa e Porto consideram-se investidos, nos mesmos termos do artigo anterior, nos lugares de juízes de 1.ª classe dos tribunais de 1.ª instância das contribuições e impostos das mesmas cidades, respectivamente.
 
-###### Art. 5.º Os magistrados do Ministério Público que actualmente desempenham funções, em comissão, nos tribunais privativos de 1.ª instância do contencioso das contribuições e impostos poderão continuar, na mesma situação, nos tribunais de 1.ª instância das contribuições e impostos, desempenhando funções de auxiliares do agente do Ministério Público nos mesmos tribunais ou as que lhes forem determinadas por despacho do Ministro das Finanças.
+Art. 5.º Os magistrados do Ministério Público que actualmente desempenham funções, em comissão, nos tribunais privativos de 1.ª instância do contencioso das contribuições e impostos poderão continuar, na mesma situação, nos tribunais de 1.ª instância das contribuições e impostos, desempenhando funções de auxiliares do agente do Ministério Público nos mesmos tribunais ou as que lhes forem determinadas por despacho do Ministro das Finanças.
 
-###### Art. 6.º Os actuais funcionários das secretarias dos tribunais de 2.ª e 1.ª instância do contencioso das contribuições e impostos são integrados no quadro geral da Direcção-Geral das Contribuições e Impostos, considerando-se investidos, com dispensa de todas as formalidades legais, designadamente do visto do Tribunal de Contas, em harmonia com as seguintes regras:
+Art. 6.º Os actuais funcionários das secretarias dos tribunais de 2.ª e 1.ª instância do contencioso das contribuições e impostos são integrados no quadro geral da Direcção-Geral das Contribuições e Impostos, considerando-se investidos, com dispensa de todas as formalidades legais, designadamente do visto do Tribunal de Contas, em harmonia com as seguintes regras:
 
 a) Os chefes de secretaria, em lugares de chefes de secção, conservando o direito à gratificação mensal estabelecida no artigo 47.º do [Decreto-Lei n.º 43384](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43384-1960-512779), de 7 de Dezembro de 1960, enquanto se mantiverem nessa situação;
 
@@ -154,15 +224,15 @@ g) Os contratados nos termos do artigo 57.º do [Decreto-Lei n.º 43384](https:/
 
 § 2.º O tempo de serviço prestado nos tribunais será contado como se fosse na categoria a que os funcionários fiquem a pertencer nos termos do corpo deste artigo para efeitos de admissão aos concursos a que, nos termos gerais, possam ser admitidos.
 
-###### Art. 7.º O presente diploma entra em vigor no dia 1 de Julho do ano corrente e só se aplica aos processos instaurados a partir da mesma data, continuando os processos pendentes a correr seus termos nos tribunais em que se encontrem.
+Art. 7.º O presente diploma entra em vigor no dia 1 de Julho do ano corrente e só se aplica aos processos instaurados a partir da mesma data, continuando os processos pendentes a correr seus termos nos tribunais em que se encontrem.
 
-###### Art. 8.º Considera-se transferida para o Serviço de prevenção e fiscalização tributária e para os funcionários referidos nos artigos 65.º e 66.º da organização aprovada por este decreto-lei a competência atribuída, em quaisquer diplomas, a serviços de fiscalização, e designadamente a chefes distritais do Serviço de prevenção e repressão, a funcionários da fiscalização dos impostos, ou a outros com idênticas atribuições.
+Art. 8.º Considera-se transferida para o Serviço de prevenção e fiscalização tributária e para os funcionários referidos nos artigos 65.º e 66.º da organização aprovada por este decreto-lei a competência atribuída, em quaisquer diplomas, a serviços de fiscalização, e designadamente a chefes distritais do Serviço de prevenção e repressão, a funcionários da fiscalização dos impostos, ou a outros com idênticas atribuições.
 
-###### Art. 9.º (Transitório). Enquanto não forem providos todos os lugares de juízes dos tribunais de 1.ª instância, poderá o Ministro providenciar à normalização do serviço nos termos do artigo 47.º da Organização dos Serviços de Justiça Fiscal.
+Art. 9.º (Transitório). Enquanto não forem providos todos os lugares de juízes dos tribunais de 1.ª instância, poderá o Ministro providenciar à normalização do serviço nos termos do artigo 47.º da Organização dos Serviços de Justiça Fiscal.
 
-###### Art. 10.º (Transitório). Durante os quatros primeiros anos, contados da entrada em vigor deste diploma, poderá o Ministro das Finanças autorizar a admissão aos concursos a que se referem as alíneas b), c), d) e e) do artigo 82.º da organização aprovada por este decreto-lei, com dispensa do tempo de serviço ali exigido.
+Art. 10.º (Transitório). Durante os quatros primeiros anos, contados da entrada em vigor deste diploma, poderá o Ministro das Finanças autorizar a admissão aos concursos a que se referem as alíneas b), c), d) e e) do artigo 82.º da organização aprovada por este decreto-lei, com dispensa do tempo de serviço ali exigido.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -172,9 +242,9 @@ ORGANIZAÇÃO DOS SERVIÇOS DE JUSTIÇA FISCAL
 
 ## TÍTULO I — Disposições gerais
 
-###### Artigo 1.º A Organização dos Serviços de Justiça Fiscal compreende a composição e funcionamento, em todo o território do continente e ilhas adjacentes, dos tribunais de 2.ª e 1.ª instâncias das contribuições e impostos e do Ministério Público junto dos mesmos tribunais e serviços administrativos da acção fiscal.
+Artigo 1.º A Organização dos Serviços de Justiça Fiscal compreende a composição e funcionamento, em todo o território do continente e ilhas adjacentes, dos tribunais de 2.ª e 1.ª instâncias das contribuições e impostos e do Ministério Público junto dos mesmos tribunais e serviços administrativos da acção fiscal.
 
-###### Art. 2.º Nos casos omissos na presente organização aplicam-se subsidiàriamente os preceitos contidos nos seguintes diplomas:
+Art. 2.º Nos casos omissos na presente organização aplicam-se subsidiàriamente os preceitos contidos nos seguintes diplomas:
 
 a) Organização da Direcção-Geral das Contribuições e Impostos;
 
@@ -190,15 +260,15 @@ e) Leis reguladoras da constituição e funcionamento dos outros serviços públ
 
 ### CAPÍTULO I — Composição
 
-###### Art. 3.º Os tribunais das contribuições e impostos funcionam junto da Direcção-Geral das Contribuições e Impostos, são especiais e constituídos por um tribunal de 2.ª instância, de competência territorial em todo o continente e ilhas adjacentes, e por tribunais de 1.ª instância distritais, de competência territorial limitada à área do respectivo distrito administrativo.
+Art. 3.º Os tribunais das contribuições e impostos funcionam junto da Direcção-Geral das Contribuições e Impostos, são especiais e constituídos por um tribunal de 2.ª instância, de competência territorial em todo o continente e ilhas adjacentes, e por tribunais de 1.ª instância distritais, de competência territorial limitada à área do respectivo distrito administrativo.
 
-###### Art. 4.º O Tribunal de 2.ª Instância das Contribuições e Impostos é colectivo e julga em via de recurso os processos cujo valor exceda a alçada dos tribunais de 1.ª instância.
+Art. 4.º O Tribunal de 2.ª Instância das Contribuições e Impostos é colectivo e julga em via de recurso os processos cujo valor exceda a alçada dos tribunais de 1.ª instância.
 
 § 1.º O Tribunal de 2.ª Instância é constituído por um corpo de juízes, entre os quais o Ministro das Finanças escolherá livremente o presidente.
 
 § 2.º Se por aumento de carácter permanente dos serviços próprios das contribuições e impostos ou por ampliação da sua competência se mostrar necessário ou conveniente, poderá o Ministro das Finanças desdobrar a constituição e funcionamento do Tribunal de 2.ª Instância em regime de circunscrições fiscais, com sede e organização independentes, cabendo a cada um, na área da sua competência, e aos respectivos presidentes e juízes as funções e categorias estabelecidas no presente diploma.
 
-###### Art. 5.º Os tribunais de 1.ª instância são singulares, de competência regional, com assento nas sedes de distrito, e compreendem toda a área da respectiva circunscrição administrativa, podendo os de Lisboa e Porto ser constituídos por dois ou mais juízos, que funcionarão em regime de distribuição de todas as espécies de processos da sua competência.
+Art. 5.º Os tribunais de 1.ª instância são singulares, de competência regional, com assento nas sedes de distrito, e compreendem toda a área da respectiva circunscrição administrativa, podendo os de Lisboa e Porto ser constituídos por dois ou mais juízos, que funcionarão em regime de distribuição de todas as espécies de processos da sua competência.
 
 § único. Os tribunais de 1.ª instância são de 1.ª, 2.ª e 3.ª classes, sendo de 1.ª os de Lisboa, Porto e Coimbra, de 2.ª os de Aveiro, Braga, Leiria, Santarém, Viseu, Funchal e Ponta Delgada e de 3.ª todos os restantes.
 
@@ -206,7 +276,7 @@ e) Leis reguladoras da constituição e funcionamento dos outros serviços públ
 
 #### SECÇÃO I — Do Tribunal de 2.ª Instância
 
-###### Art. 6.º Compete ao Tribunal de 2.ª Instância, relativamente a todo o território do continente e ilhas adjacentes:
+Art. 6.º Compete ao Tribunal de 2.ª Instância, relativamente a todo o território do continente e ilhas adjacentes:
 
 a) Conhecer, em via de recurso, nos termos da respectiva lei de processo, das decisões proferidas pelos tribunais de 1.ª instância das contribuições e impostos;
 
@@ -218,7 +288,7 @@ d) Participar ao agente do Ministério Público competente junto dos tribunais o
 
 e) Exercer as demais atribuições que lhe sejam cometidas por lei.
 
-###### Art. 7.º O Tribunal de 2.ª Instância funciona em sessões reservadas de julgamento em conferência, a que assistirão apenas, além do presidente, os juízes e o agente do Ministério Público que intervenham nos respectivos processos.
+Art. 7.º O Tribunal de 2.ª Instância funciona em sessões reservadas de julgamento em conferência, a que assistirão apenas, além do presidente, os juízes e o agente do Ministério Público que intervenham nos respectivos processos.
 
 § 1.º Nas decisões intervêm apenas o relator e dois juízes adjuntos, bastando dois votos conformes para haver vencimento. O Ministério Público será sempre ouvido antes da decisão, devendo mencionar-se no acórdão o respectivo parecer.
 
@@ -226,7 +296,7 @@ e) Exercer as demais atribuições que lhe sejam cometidas por lei.
 
 § 3.º Os acórdãos poderão ser lidos e assinados pelos juízes presentes, em qualquer das sessões imediatas à do julgamento, devendo o Ministério Público declarar no final a sua presença.
 
-###### Art. 8.º Compete ao juiz presidente do Tribunal de 2.ª Instância:
+Art. 8.º Compete ao juiz presidente do Tribunal de 2.ª Instância:
 
 a) Dirigir superiormente os trabalhos do Tribunal;
 
@@ -258,31 +328,31 @@ o) Informar anualmente a Direcção-Geral das Contribuições e Impostos, até 3
 
 p) Exercer as demais atribuições que lhe sejam cometidas por lei.
 
-###### Art. 9.º As sessões de julgamento em conferência terão lugar, ordinàriamente, uma vez por semana, em dia designado na primeira sessão do mês de Dezembro do ano anterior, e, extraordinàriamente, todas as vezes que o presidente do Tribunal o julgue conveniente, por motivo de serviço.
+Art. 9.º As sessões de julgamento em conferência terão lugar, ordinàriamente, uma vez por semana, em dia designado na primeira sessão do mês de Dezembro do ano anterior, e, extraordinàriamente, todas as vezes que o presidente do Tribunal o julgue conveniente, por motivo de serviço.
 
 Quando for feriado o dia da sessão ordinária, esta realizar-se-á no primeiro dia útil imediato.
 
-###### Art. 10.º Na primeira sessão do mês de Dezembro de cada ano formar-se-à uma tabela para servir no ano seguinte, atribuindo-se a cada juiz o número que lhe couber por sorteio.
+Art. 10.º Na primeira sessão do mês de Dezembro de cada ano formar-se-à uma tabela para servir no ano seguinte, atribuindo-se a cada juiz o número que lhe couber por sorteio.
 
-###### Art. 11.º Cada juiz terá como adjuntos aqueles a quem couberem os dois números seguintes ao seu, competindo aos primeiros da lista preencher, respectivamente, os números que nela faltem para compor as secções dos últimos relatores.
+Art. 11.º Cada juiz terá como adjuntos aqueles a quem couberem os dois números seguintes ao seu, competindo aos primeiros da lista preencher, respectivamente, os números que nela faltem para compor as secções dos últimos relatores.
 
-###### Art. 12.º As discussões ou seus incidentes e as opiniões ou votos emitidos durante as conferências dos juízes constituem segredo de justiça, salvas as excepções expressamente declaradas na lei e os votos expressos dos juízes vencidos.
+Art. 12.º As discussões ou seus incidentes e as opiniões ou votos emitidos durante as conferências dos juízes constituem segredo de justiça, salvas as excepções expressamente declaradas na lei e os votos expressos dos juízes vencidos.
 
-###### Art. 13.º Todos os acórdãos tirados no Tribunal de 2.ª Instância que contenham matéria doutrinal serão anualmente reunidos em volume para serem publicados, devendo sempre fazer-se uma indicação naqueles em que haja sido interposto recurso.
+Art. 13.º Todos os acórdãos tirados no Tribunal de 2.ª Instância que contenham matéria doutrinal serão anualmente reunidos em volume para serem publicados, devendo sempre fazer-se uma indicação naqueles em que haja sido interposto recurso.
 
 O relator deverá elaborar, para cada um dos acórdãos, o sumário da respectiva decisão e dos seus fundamentos, o qual será entregue ao presidente no dia da leitura e anotado no livro de lembranças.
 
 #### SECÇÃO II — Dos tribunais de 1.ª instância
 
-###### Art. 14.º Os tribunais de 1.ª instância conhecem, em primeiro julgamento, de todas as questões relativas a processos fiscais de impugnação judicial, de transgressão e de execução e de quaisquer outras matérias que lhes sejam cometidas por lei.
+Art. 14.º Os tribunais de 1.ª instância conhecem, em primeiro julgamento, de todas as questões relativas a processos fiscais de impugnação judicial, de transgressão e de execução e de quaisquer outras matérias que lhes sejam cometidas por lei.
 
-###### Art. 15.º Em cada tribunal ou juízo das contribuições e impostos haverá um juiz e um agente do Ministério Público.
+Art. 15.º Em cada tribunal ou juízo das contribuições e impostos haverá um juiz e um agente do Ministério Público.
 
 § 1.º As decisões são proferidas nos termos estabelecidos na lei processual.
 
 § 2.º O Ministério Público será sempre ouvido em todas as questões que constituam o objecto do julgamento ou incidentes do processo, salvas as disposições de lei especial.
 
-###### Art. 16.º Compete aos juízes dos tribunais de 1.ª instância, relativamente aos processos neles instaurados:
+Art. 16.º Compete aos juízes dos tribunais de 1.ª instância, relativamente aos processos neles instaurados:
 
 a) Julgar as questões submetidas à sua jurisdição e fazer cumprir as respectivas decisões;
 
@@ -296,7 +366,7 @@ e) Participar ao agente do Ministério Público competente junto dos tribunais o
 
 f) Exercer as demais atribuições que lhes sejam cometidas por lei.
 
-###### Art. 17.º Compete aos juízes de 1.ª instância, relativamente ao funcionamento do respectivo tribunal:
+Art. 17.º Compete aos juízes de 1.ª instância, relativamente ao funcionamento do respectivo tribunal:
 
 a) Orientar e fiscalizar superiormente o andamento dos processos, resolvendo as dúvidas que se levantem e fazendo à Direcção-Geral das Contribuições e Impostos, quando necessário, as propostas que julgarem convenientes para a regularidade dos mesmos serviços;
 
@@ -314,39 +384,39 @@ g) Exercer as demais atribuições que lhes sejam cometidas por lei.
 
 #### SECÇÃO III — Das disposições comuns
 
-###### Art. 18.º O julgamento dos processos far-se-á pela ordem de entrada destes nos respectivos serviços de secretaria, podendo em casos justificados ser alterada por despacho do presidente ou do juiz do tribunal, tanto oficiosamente como a requerimento das partes.
+Art. 18.º O julgamento dos processos far-se-á pela ordem de entrada destes nos respectivos serviços de secretaria, podendo em casos justificados ser alterada por despacho do presidente ou do juiz do tribunal, tanto oficiosamente como a requerimento das partes.
 
 § 1.º dos tribunais de 1.ª instância com mais de um juízo, todos os processos entrados serão distribuídos igualmente, por sorteio, e em cada uma das espécies, entre os respectivos juízos.
 
 § 2.º A presidência da distribuição caberá anualmente a cada um dos juízes do tribunal, por ordem numérica e sucessiva, começando pelo primeiro.
 
-###### Art. 19.º Nos tribunais das contribuições e impostos haverá as mesmas férias dos tribunais ordinários sempre que se verifique, em relação a cada um, que os saldos dos processos não acusam atrasos injustificados.
+Art. 19.º Nos tribunais das contribuições e impostos haverá as mesmas férias dos tribunais ordinários sempre que se verifique, em relação a cada um, que os saldos dos processos não acusam atrasos injustificados.
 
 § único. Para efeitos do disposto neste artigo deverá o presidente ou o juiz fornecer ao Ministro, através da Direcção-Geral, nos 30 dias anteriores ao início de cada período de férias, uma nota do movimento dos processos entrados, julgados e pendentes desde o princípio de cada ano civil e das circunstâncias justificativas dos respectivos saldos.
 
-###### Art. 20.º A requerimento das partes, correm durante as férias os processos de cuja demora possa resultar prejuízo considerado irreparável.
+Art. 20.º A requerimento das partes, correm durante as férias os processos de cuja demora possa resultar prejuízo considerado irreparável.
 
-###### Art. 21.º Todos os papéis, livros e processos que estejam findos são sujeitos a correição do juiz do tribunal ou juízo antes de serem arquivados ou devolvidos, com vista a apurar se há neles faltas ou irregularidades e a providenciar no sentido de serem supridas as que forem notadas. Antes da apresentação ao juiz é dada vista ao Ministério Público.
+Art. 21.º Todos os papéis, livros e processos que estejam findos são sujeitos a correição do juiz do tribunal ou juízo antes de serem arquivados ou devolvidos, com vista a apurar se há neles faltas ou irregularidades e a providenciar no sentido de serem supridas as que forem notadas. Antes da apresentação ao juiz é dada vista ao Ministério Público.
 
 § 1.º A existência e o estado dos processos serão anualmente verificados pelo juiz em face do competente livro de registo.
 
 § 2.º À correição referida no corpo deste artigo é aplicável o disposto no artigo 438.º do Estatuto Judiciário.
 
-###### Art. 22.º No Tribunal de 2.ª Instância a correição a que se refere o artigo anterior é da competência e responsabilidade do respectivo presidente.
+Art. 22.º No Tribunal de 2.ª Instância a correição a que se refere o artigo anterior é da competência e responsabilidade do respectivo presidente.
 
-###### Art. 23.º Nos relatórios anuais exigidos pelo presente diploma deverá ser feita menção expressa dos factos mais salientes que sejam apurados na correição.
+Art. 23.º Nos relatórios anuais exigidos pelo presente diploma deverá ser feita menção expressa dos factos mais salientes que sejam apurados na correição.
 
-###### Art. 24.º Independentemente da correição a que se referem os artigos anteriores, deverá ser feita, em cada tribunal de 1.ª instância, e sempre que seja julgado necessário, correição geral dos processos e papéis a ela sujeitos, por um juiz de 2.ª instância designado pelo Ministro das Finanças.
+Art. 24.º Independentemente da correição a que se referem os artigos anteriores, deverá ser feita, em cada tribunal de 1.ª instância, e sempre que seja julgado necessário, correição geral dos processos e papéis a ela sujeitos, por um juiz de 2.ª instância designado pelo Ministro das Finanças.
 
 § 1.º São aplicáveis a esta correição o disposto no artigo 21.º, devendo o juiz dela encarregado elaborar relatório sobre a forma como está a ser exercida a acção de justiça fiscal, o qual deverá ser considerado na classificação dos respectivos magistrados e funcionários e poderá justificar a necessidade de se proceder a inspecção.
 
 § 2.º Sem prejuízo do disposto neste artigo, poderá o presidente do Tribunal deslocar-se por sua iniciativa ou por determinação do Ministro das Finanças para verificar a forma como decorrem os serviços dos tribunais de 1.ª instância e propor as medidas adequadas.
 
-###### Art. 25.º A fim de legalizar os documentos que devam ser autenticados, haverá em todos os tribunais das contribuições e impostos um selo branco contendo o escudo nacional e, na orla, a designação do tribunal.
+Art. 25.º A fim de legalizar os documentos que devam ser autenticados, haverá em todos os tribunais das contribuições e impostos um selo branco contendo o escudo nacional e, na orla, a designação do tribunal.
 
 #### SECÇÃO IV — Das instalações
 
-###### Art. 26.º A instalação dos tribunais das contribuições e impostos de 2.ª e 1.ª instâncias constitui encargo do Estado, ao qual compete ainda a aquisição, conservação e reparação do mobiliário, bem como o fornecimento de água e luz.
+Art. 26.º A instalação dos tribunais das contribuições e impostos de 2.ª e 1.ª instâncias constitui encargo do Estado, ao qual compete ainda a aquisição, conservação e reparação do mobiliário, bem como o fornecimento de água e luz.
 
 § 1.º O Tribunal de 2.ª Instância funciona junto dos serviços centrais da Direcção-Geral.
 
@@ -356,25 +426,25 @@ g) Exercer as demais atribuições que lhes sejam cometidas por lei.
 
 #### SECÇÃO I — Das funções, garantias e direitos
 
-###### Art. 27.º A magistratura das contribuições e impostos, cuja ordem é hierárquica, compõe-se de juízes do Tribunal de 2.ª Instância e juízes dos tribunais de 1.ª instância de 1.ª, 2.ª e 3.ª classes.
+Art. 27.º A magistratura das contribuições e impostos, cuja ordem é hierárquica, compõe-se de juízes do Tribunal de 2.ª Instância e juízes dos tribunais de 1.ª instância de 1.ª, 2.ª e 3.ª classes.
 
-###### Art. 28.º Os juízes dos tribunais das contribuições e impostos devem julgar segundo os princípios enunciados no artigo 110.º do Estatuto Judiciário e sem atender aos efeitos das suas decisões, quer em relação às receitas do Estado, quer à economia dos particulares.
+Art. 28.º Os juízes dos tribunais das contribuições e impostos devem julgar segundo os princípios enunciados no artigo 110.º do Estatuto Judiciário e sem atender aos efeitos das suas decisões, quer em relação às receitas do Estado, quer à economia dos particulares.
 
-###### Art. 29.º A magistratura das contribuições e impostos é independente, irresponsável e inamovível.
+Art. 29.º A magistratura das contribuições e impostos é independente, irresponsável e inamovível.
 
-###### Art. 30.º O presidente e os juízes do Tribunal de 2.ª Instância e os juízes dos tribunais de 1.ª instância das contribuições e impostos têm o mesmo tratamento, honras, direitos e regalias dos magistrados que ocupem correspondentes lugares nos tribunais ordinários e percebem os vencimentos e gratificação constantes da tabela anexa a este diploma.
+Art. 30.º O presidente e os juízes do Tribunal de 2.ª Instância e os juízes dos tribunais de 1.ª instância das contribuições e impostos têm o mesmo tratamento, honras, direitos e regalias dos magistrados que ocupem correspondentes lugares nos tribunais ordinários e percebem os vencimentos e gratificação constantes da tabela anexa a este diploma.
 
-###### Art. 31.º O modelo do cartão de identidade profissional dos magistrados das contribuições e impostos será aprovado por portaria do Ministro das Finanças e nele deverá ser feita a indicação das respectivas regalias.
+Art. 31.º O modelo do cartão de identidade profissional dos magistrados das contribuições e impostos será aprovado por portaria do Ministro das Finanças e nele deverá ser feita a indicação das respectivas regalias.
 
-###### Art. 32.º Os magistrados das contribuições e impostos estão sujeitos ao regime de férias, licenças e faltas que se encontra fixado para os magistrados judiciais dos tribunais ordinários, sem prejuízo do disposto no artigo 19.º
+Art. 32.º Os magistrados das contribuições e impostos estão sujeitos ao regime de férias, licenças e faltas que se encontra fixado para os magistrados judiciais dos tribunais ordinários, sem prejuízo do disposto no artigo 19.º
 
 § único. Quando não sejam autorizadas férias de Verão, os magistrados terão direito a licença graciosa nos termos da lei geral.
 
-###### Art. 33.º Os juízes dos tribunais das contribuições e impostos não têm direito a comparticipação em custas e emolumentos.
+Art. 33.º Os juízes dos tribunais das contribuições e impostos não têm direito a comparticipação em custas e emolumentos.
 
 #### SECÇÃO II — Do recrutamento, transferências e promoções
 
-###### Art. 34.º Os juízes do Tribunal de 2.ª Instância das Contribuições e Impostos são nomeados por livre escolha do Ministro das Finanças entre os seguintes magistrados ou funcionários, com classificação de serviço não inferior a Bom:
+Art. 34.º Os juízes do Tribunal de 2.ª Instância das Contribuições e Impostos são nomeados por livre escolha do Ministro das Finanças entre os seguintes magistrados ou funcionários, com classificação de serviço não inferior a Bom:
 
 a) Juízes de 1.ª classe dos tribunais de 1.ª instância das contribuições e impostos com três anos de serviço nessa magistratura;
 
@@ -386,21 +456,21 @@ d) Funcionários dos quadros da Direcção-Geral das Contribuições e Impostos 
 
 § único. A classificação de serviço dos juízes que não exerçam funções judiciais é, para os efeitos do corpo deste artigo, da competência do Ministro das Finanças, sob informação do respectivo superior hierárquico.
 
-###### Art. 35.º Os juízes dos tribunais de 1.ª instância de 1.ª e 2.ª classes são nomeados por livre escolha do Ministro das Finanças entre os magistrados das contribuições e impostos de 2.ª e 3.ª classes, respectivamente.
+Art. 35.º Os juízes dos tribunais de 1.ª instância de 1.ª e 2.ª classes são nomeados por livre escolha do Ministro das Finanças entre os magistrados das contribuições e impostos de 2.ª e 3.ª classes, respectivamente.
 
-###### Art. 36.º Os juízes dos tribunais de 1.ª instância de 3.ª classe são nomeados por livre escolha do Ministro das Finanças entre juízes de direito e, bem assim, delegados do procurador da República e funcionários da Direcção-Geral das Contribuições e Impostos licenciados em Direito com cinco anos de serviço e, em todos os casos, com classificação de serviço não inferior a Bom.
+Art. 36.º Os juízes dos tribunais de 1.ª instância de 3.ª classe são nomeados por livre escolha do Ministro das Finanças entre juízes de direito e, bem assim, delegados do procurador da República e funcionários da Direcção-Geral das Contribuições e Impostos licenciados em Direito com cinco anos de serviço e, em todos os casos, com classificação de serviço não inferior a Bom.
 
-###### Art. 37.º O provimento dos lugares de juízes das contribuições e impostos é feito em comissão de serviço por dois anos, decorridos os quais, se não for dada por finda, passará a comissão de carácter permanente ou será tornada definitiva a nomeação.
+Art. 37.º O provimento dos lugares de juízes das contribuições e impostos é feito em comissão de serviço por dois anos, decorridos os quais, se não for dada por finda, passará a comissão de carácter permanente ou será tornada definitiva a nomeação.
 
 § único. A passagem a comissão de carácter permanente ou a nomeação definitiva depende de despacho do Ministro das Finanças exarado em processo organizado na Direcção-Geral em que seja apreciado o curriculum vitae do magistrado, as classificações de curso e de serviço, habilitações especiais, funções desempenhadas, obras publicadas sobre matéria da especialidade e trabalhos produzidos durante o exercício da comissão temporária.
 
-###### Art. 38.º Os juízes dos tribunais das contribuições e impostos podem ser transferidos a seu pedido, decorridos dois anos sobre a data da posse nas colocações a requerimento e decorrido um ano nos demais casos.
+Art. 38.º Os juízes dos tribunais das contribuições e impostos podem ser transferidos a seu pedido, decorridos dois anos sobre a data da posse nas colocações a requerimento e decorrido um ano nos demais casos.
 
-###### Art. 39.º As nomeações, transferências e quaisquer colocações de juízes das contribuições e impostos são feitas pelo Ministro das Finanças, nos termos deste diploma, e consideram-se comunicadas pela publicação do respectivo despacho no Diário do Governo, sendo-lhes aplicável, com as necessárias adaptações, o disposto no artigo 125.º do Estatuto Judiciário.
+Art. 39.º As nomeações, transferências e quaisquer colocações de juízes das contribuições e impostos são feitas pelo Ministro das Finanças, nos termos deste diploma, e consideram-se comunicadas pela publicação do respectivo despacho no Diário do Governo, sendo-lhes aplicável, com as necessárias adaptações, o disposto no artigo 125.º do Estatuto Judiciário.
 
-###### Art. 40.º A posse dos juízes das contribuições e impostos só pode ser tomada pessoalmente e, salvo o disposto no artigo seguinte, na sede do tribunal onde o magistrado tem de exercer as suas funções, com observância do disposto nos artigos 59.º e 60.º da Organização da Direcção-Geral das Contribuições e Impostos.
+Art. 40.º A posse dos juízes das contribuições e impostos só pode ser tomada pessoalmente e, salvo o disposto no artigo seguinte, na sede do tribunal onde o magistrado tem de exercer as suas funções, com observância do disposto nos artigos 59.º e 60.º da Organização da Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 41.º Os magistrados das contribuições e impostos prestam compromisso de honra e tomam posse:
+Art. 41.º Os magistrados das contribuições e impostos prestam compromisso de honra e tomam posse:
 
 a) O presidente do Tribunal de 2.ª Instância, perante o Ministro das Finanças;
 
@@ -414,15 +484,15 @@ c) Os juízes dos restantes tribunais de 1.ª instância, perante quem estiver a
 
 #### SECÇÃO III — Das comissões de serviço, incompatibilidades, inibições e substituições
 
-###### Art. 42.º Os juízes dos tribunais das contribuições e impostos podem ser nomeados para outras comissões de serviço público, desde que estas sejam autorizadas pelo Ministro das Finanças, depois de ouvido o Ministro da Justiça, quando os nomeados sejam magistrados judiciais ou delegados do procurador da República. Sempre, porém, que sejam autorizados a exercer cargos administrativos ou quaisquer comissões de serviço de nomeação do Governo, não podem acumular o exercício dessas funções com as do seu cargo na magistratura das contribuições e impostos.
+Art. 42.º Os juízes dos tribunais das contribuições e impostos podem ser nomeados para outras comissões de serviço público, desde que estas sejam autorizadas pelo Ministro das Finanças, depois de ouvido o Ministro da Justiça, quando os nomeados sejam magistrados judiciais ou delegados do procurador da República. Sempre, porém, que sejam autorizados a exercer cargos administrativos ou quaisquer comissões de serviço de nomeação do Governo, não podem acumular o exercício dessas funções com as do seu cargo na magistratura das contribuições e impostos.
 
 § 1.º Enquanto durarem as comissões referidas no corpo deste artigo podem os cargos dos comissionados ser preenchidos interinamente.
 
 § 2.º Aos juízes nomeados nos termos do corpo deste artigo é aplicável o disposto na alínea c) do n.º 1 e no n.º 2 do artigo 148.º do Estatuto Judiciário, bem como o preceituado no artigo 2.º do [Decreto-Lei n.º 44577](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44577-1962-159940), de 18 de Setembro de 1962.
 
-###### Art. 43.º Aos magistrados dos tribunais das contribuições e impostos são aplicáveis, com as necessárias adaptações, as disposições dos artigos 133.º a 135.º do Estatuto Judiciário.
+Art. 43.º Aos magistrados dos tribunais das contribuições e impostos são aplicáveis, com as necessárias adaptações, as disposições dos artigos 133.º a 135.º do Estatuto Judiciário.
 
-###### Art. 44.º A classificação dos magistrados das contribuições e impostos, para os efeitos da presente organização, é efectuada nos termos seguintes:
+Art. 44.º A classificação dos magistrados das contribuições e impostos, para os efeitos da presente organização, é efectuada nos termos seguintes:
 
 a) A dos juízes que não pertençam ao quadro da magistratura dos tribunais ordinários compete a um conselho de disciplina constituído pelo presidente do Supremo Tribunal Administrativo, por dois juízes da 2.ª secção do mesmo Tribunal designados pelo Ministro das Finanças e pelo presidente do Tribunal de 2.ª Instância, com a assistência do director-geral das Contribuições e Impostos;
 
@@ -432,11 +502,11 @@ b) A dos juízes que pertencerem ao quadro da magistratura judicial será da com
 
 § 2.º Para efeitos da classificação dos magistrados das contribuições e impostos pode o Ministro das Finanças solicitar ao presidente do Supremo Tribunal Administrativo a realização de inspecções pelos respectivos juízes conselheiros, sem prejuízo do disposto no n.º 4 do artigo 426.º do Estatuto Judiciário.
 
-###### Art. 45.º O presidente do Tribunal de 2.ª Instância será substituído nas suas faltas ou impedimentos por um dos juízes do mesmo Tribunal designado pelo Ministro das Finanças.
+Art. 45.º O presidente do Tribunal de 2.ª Instância será substituído nas suas faltas ou impedimentos por um dos juízes do mesmo Tribunal designado pelo Ministro das Finanças.
 
 À substituição dos demais juízes do Tribunal de 2.ª Instância são aplicáveis as regras constantes do artigo 11.º
 
-###### Art. 46.º Os magistrados dos tribunais de 1.ª instância que funcionem em regime de juízos substituir-se-ão, nas suas faltas ou impedimentos, nos termos seguintes:
+Art. 46.º Os magistrados dos tribunais de 1.ª instância que funcionem em regime de juízos substituir-se-ão, nas suas faltas ou impedimentos, nos termos seguintes:
 
 a) Havendo apenas dois juízos, a substituição é recíproca;
 
@@ -444,7 +514,7 @@ b) Sendo em número superior a dois, a substituição far-se-á por ordem numér
 
 c) Na falta de todos, a substituição compete, em Lisboa, a um dos auditores fiscais dos tribunais aduaneiros designado pelo Ministro das Finanças e, no Porto, ao auditor fiscal da mesma cidade.
 
-###### Art. 47.º Sem prejuízo do disposto nos artigos 45.º e 46.º ou quando por circunstâncias de carácter transitório o serviço dos tribunais se encontre sensìvelmente atrasado, pode o Ministro das Finanças destacar em comissão de serviço, pelo tempo necessário, magistrados de outro tribunal de qualquer das instâncias ou atribuir competência cumulativa ao juiz de um dos tribunais mais próximos, ou ainda designar um funcionário superior do Ministério para prover à normalização do serviço.
+Art. 47.º Sem prejuízo do disposto nos artigos 45.º e 46.º ou quando por circunstâncias de carácter transitório o serviço dos tribunais se encontre sensìvelmente atrasado, pode o Ministro das Finanças destacar em comissão de serviço, pelo tempo necessário, magistrados de outro tribunal de qualquer das instâncias ou atribuir competência cumulativa ao juiz de um dos tribunais mais próximos, ou ainda designar um funcionário superior do Ministério para prover à normalização do serviço.
 
 § único. Os juízes ou funcionários deslocados nos termos do corpo deste artigo terão direito a uma gratificação mensal não inferior a 500$00, fixada pelo Ministro das Finanças, a ajuda de custo correspondente à sua categoria e a despesas de transporte.
 
@@ -452,7 +522,7 @@ c) Na falta de todos, a substituição compete, em Lisboa, a um dos auditores fi
 
 ### CAPÍTULO I — Composição, organização e competência
 
-###### Art. 48.º O Ministério Público das contribuições e impostos é o órgão promotor da acção de justiça fiscal e verificador do cumprimento das leis tributárias e exerce a sua função junto dos competentes tribunais e dos serviços de administração fiscal, tendo como fins e atribuições:
+Art. 48.º O Ministério Público das contribuições e impostos é o órgão promotor da acção de justiça fiscal e verificador do cumprimento das leis tributárias e exerce a sua função junto dos competentes tribunais e dos serviços de administração fiscal, tendo como fins e atribuições:
 
 a) A fiscalização da observância das leis tributárias e a verificação do cumprimento das respectivas obrigações;
 
@@ -468,7 +538,7 @@ f) A defesa e representação dos interesses da Fazenda Nacional junto dos órg�
 
 g) A defesa de todos os princípios da lei e sua integração em todos os casos em que sejam violados ou postos directa ou indirectamente em perigo.
 
-###### Art. 49.º A acção do Ministério Público das contribuições e impostos é exercida pela forma seguinte:
+Art. 49.º A acção do Ministério Público das contribuições e impostos é exercida pela forma seguinte:
 
 a) Intervenção obrigatória, como parte principal, junto dos tribunais das contribuições e impostos, em todos os processos da competência destes;
 
@@ -478,9 +548,9 @@ c) Fiscalização do cumprimento das obrigações tributárias junto das fontes 
 
 d) Esclarecimento das dúvidas do contribuinte sobre o verdadeiro objecto e conteúdo dos preceitos legais tributários.
 
-###### Art. 50.º O Ministério Público das contribuições e impostos é responsável e hieràrquicamente dependente do Ministro das Finanças, sob a directa chefia do director-geral das Contribuições e Impostos.
+Art. 50.º O Ministério Público das contribuições e impostos é responsável e hieràrquicamente dependente do Ministro das Finanças, sob a directa chefia do director-geral das Contribuições e Impostos.
 
-###### Art. 51.º Constituem a organização do Ministério Público das contribuições e impostos:
+Art. 51.º Constituem a organização do Ministério Público das contribuições e impostos:
 
 a) O director-geral, na imediata dependência do Ministro das Finanças;
 
@@ -494,9 +564,9 @@ d) Os chefes das repartições concelhias de finanças.
 
 § 2.º Se pela extensão e complexidade das funções gerais do Ministério Público das contribuições e impostos estas não puderem ser exercidas pelo director-geral, sem prejuízo das restantes funções a seu cargo, poderá o Ministro das Finanças nomear um magistrado judicial de superior competência ou licenciado em Direito de reconhecido mérito para exercer, por delegação e como auxiliar do director-geral, as funções de chefia do Ministério Público, com exclusão das relativas à hierarquia e à disciplina.
 
-###### Art. 52.º É aplicável aos agentes do Ministério Público das contribuições e impostos, com as necessárias adaptações, o disposto no artigo 172.º do Estatuto Judiciário.
+Art. 52.º É aplicável aos agentes do Ministério Público das contribuições e impostos, com as necessárias adaptações, o disposto no artigo 172.º do Estatuto Judiciário.
 
-###### Art. 53.º O Ministério Público das contribuições e impostos é representado:
+Art. 53.º O Ministério Público das contribuições e impostos é representado:
 
 a) Na 2.ª secção do Supremo Tribunal Administrativo, pelo director-geral ou um adjunto, nos termos do § 2.º do artigo 7.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956;
 
@@ -504,7 +574,7 @@ b) No Tribunal de 2.ª Instância, pelo director do Serviço de prevenção e fi
 
 c) Nos tribunais de 1.ª instância, pelos respectivos directores de finanças ou seus ajudantes ou, na falta ou impedimento destes, por outro funcionário superior que o director-geral designe.
 
-###### Art. 54.º Compete aos agentes do Ministério Público das contribuições e impostos, em geral:
+Art. 54.º Compete aos agentes do Ministério Público das contribuições e impostos, em geral:
 
 a) Representar a Fazenda Nacional;
 
@@ -536,7 +606,7 @@ o) Promover tudo o que importe à boa ordem e celeridade dos serviços;
 
 p) Exercer as demais atribuições que lhes sejam cometidas por lei.
 
-###### Art. 55.º Compete especialmente ao agente do Ministério Público junto do Tribunal de 2.ª Instância:
+Art. 55.º Compete especialmente ao agente do Ministério Público junto do Tribunal de 2.ª Instância:
 
 a) Intervir e representar a Fazenda Nacional perante o Tribunal em todos os processos e recorrer das respectivas decisões para o Supremo Tribunal Administrativo;
 
@@ -548,7 +618,7 @@ d) Responder por escrito nos assuntos sobre que for mandado ouvir pelas instânc
 
 e) Desempenhar as demais atribuições que estiverem consignadas na lei.
 
-###### Art. 56.º Aos agentes do Ministério Público junto dos tribunais de 1.ª instância compete em especial:
+Art. 56.º Aos agentes do Ministério Público junto dos tribunais de 1.ª instância compete em especial:
 
 a) Exercer, na parte aplicável, as atribuições indicadas nos artigos anteriores;
 
@@ -558,7 +628,7 @@ c) Consultar o seu superior hierárquico sobre dúvidas relacionadas com o exerc
 
 d) Dirigir o serviço distrital de prevenção e fiscalização tributária e responder pela sua eficiência.
 
-###### Art. 57.º Aos agentes do Ministério Público junto dos serviços concelhios de administração fiscal compete em especial:
+Art. 57.º Aos agentes do Ministério Público junto dos serviços concelhios de administração fiscal compete em especial:
 
 a) Vigiar e verificar o cumprimento da lei fiscal e a efectiva realização dos seus objectivos e finalidades;
 
@@ -570,23 +640,23 @@ d) Exercer todas as atribuições que lhes sejam cometidas por lei.
 
 ### CAPÍTULO II — Substituições, deveres e direitos dos agentes do Ministério Público
 
-###### Art. 58.º Os agentes do Ministério Público das contribuições e impostos serão substituídos, nas suas faltas ou impedimentos, nos termos previstos na organização da Direcção-Geral.
+Art. 58.º Os agentes do Ministério Público das contribuições e impostos serão substituídos, nas suas faltas ou impedimentos, nos termos previstos na organização da Direcção-Geral.
 
 § único. Quando a falta ou impedimento ocorrer nos tribunais e não puder ser suprida nos termos do corpo deste artigo, o juiz, em caso de imperiosa necessidade, designará pessoa idónea para exercer as funções de representante do Ministério Público, devendo dar imediato conhecimento do facto à Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 59.º Dentro de 30 dias, a contar da data da posse, os agentes do Ministério Público das contribuições e impostos remeterão ao director-geral um relatório acerca dos serviços da sua competência no respectivo tribunal ou juízo.
+Art. 59.º Dentro de 30 dias, a contar da data da posse, os agentes do Ministério Público das contribuições e impostos remeterão ao director-geral um relatório acerca dos serviços da sua competência no respectivo tribunal ou juízo.
 
-###### Art. 60.º O exercício das funções do Ministério Público das contribuições e impostos será remunerado mediante gratificação estabelecida pelo Ministro das Finanças, nos termos e com observância do disposto nos §§ 1.º e 2.º do artigo 86.º deste diploma.
+Art. 60.º O exercício das funções do Ministério Público das contribuições e impostos será remunerado mediante gratificação estabelecida pelo Ministro das Finanças, nos termos e com observância do disposto nos §§ 1.º e 2.º do artigo 86.º deste diploma.
 
-###### Art. 61.º A classificação dos funcionários da Direcção-Geral, pelo exercício das funções do Ministério Público das contribuições e impostos, será feita tendo em atenção os elementos a que se refere o artigo imediato, podendo ainda o director-geral ordenar que os adjuntos, o director do Serviço de prevenção e fiscalização tributária, os chefes de repartição dos serviços centrais ou os directores distritais de finanças procedam à verificação da forma como são exercidas as funções do Ministério Público das contribuições e impostos em todos os serviços e, designadamente, junto dos tribunais.
+Art. 61.º A classificação dos funcionários da Direcção-Geral, pelo exercício das funções do Ministério Público das contribuições e impostos, será feita tendo em atenção os elementos a que se refere o artigo imediato, podendo ainda o director-geral ordenar que os adjuntos, o director do Serviço de prevenção e fiscalização tributária, os chefes de repartição dos serviços centrais ou os directores distritais de finanças procedam à verificação da forma como são exercidas as funções do Ministério Público das contribuições e impostos em todos os serviços e, designadamente, junto dos tribunais.
 
-###### Art. 62.º De todas as correições gerais ou inspecções aos tribunais das contribuições e impostos será feito e remetido ao director-geral um relatório em separado, devidamente documentado, sobre o exercício da função do Ministério Público.
+Art. 62.º De todas as correições gerais ou inspecções aos tribunais das contribuições e impostos será feito e remetido ao director-geral um relatório em separado, devidamente documentado, sobre o exercício da função do Ministério Público.
 
 ### CAPÍTULO III — Serviço de prevenção e fiscalização tributária
 
 #### SECÇÃO I — Das atribuições, organização e competência
 
-###### Art. 63.º O Serviço de prevenção e fiscalização tributária é o serviço administrativo da Direcção-Geral das Contribuições e Impostos preparatório e coadjuvante da acção de justiça fiscal, competindo-lhe exercer a acção externa do Ministério Público no que respeita às contribuições, impostos, taxas e demais receitas a cargo da Direcção-Geral, e especialmente:
+Art. 63.º O Serviço de prevenção e fiscalização tributária é o serviço administrativo da Direcção-Geral das Contribuições e Impostos preparatório e coadjuvante da acção de justiça fiscal, competindo-lhe exercer a acção externa do Ministério Público no que respeita às contribuições, impostos, taxas e demais receitas a cargo da Direcção-Geral, e especialmente:
 
 a) A observação, a averiguação e a notação dos factos que interessem à aplicação da lei fiscal;
 
@@ -598,7 +668,7 @@ d) A repressão das infracções fiscais;
 
 e) Quaisquer outras atribuições que por lei estejam ou venham a estar cometidas aos serviços de fiscalização.
 
-###### Art. 64.º A acção do Serviço de prevenção e fiscalização tributária é exercida:
+Art. 64.º A acção do Serviço de prevenção e fiscalização tributária é exercida:
 
 a) Por um serviço central, directamente subordinado ao director-geral das Contribuições e Impostos;
 
@@ -606,7 +676,7 @@ b) Por serviços distritais, subordinados aos directores de finanças dos respec
 
 c) Por serviços concelhios, subordinados aos chefes das repartições de finanças.
 
-###### Art. 65.º As atribuições próprias do Serviço de prevenção e fiscalização tributária são desempenhadas pelos seguintes funcionários:
+Art. 65.º As atribuições próprias do Serviço de prevenção e fiscalização tributária são desempenhadas pelos seguintes funcionários:
 
 a) Director-geral;
 
@@ -622,7 +692,7 @@ f) Funcionários do quadro especial do Serviço de prevenção e fiscalização 
 
 § único. O disposto no corpo deste artigo não prejudica o cumprimento das obrigações legalmente impostas a quaisquer autoridades, corpos administrativos, repartições públicas, pessoas colectivas de utilidade pública ou outras entidades, nem o dever geral de todos os funcionários da Direcção-Geral das Contribuições e Impostos de velar pelo cumprimento das leis fiscais e pela sua justa aplicação, tomando as providências que estiverem nos limites da sua competência sempre que observem a existência de matéria colectável omitida ou ocultada, a violação das referidas leis e distorções dos seus objectivos e, de modo geral, infracções ou quaisquer outras circunstâncias que interessem à prossecução dos fins da administração fiscal.
 
-###### Art. 66.º O quadro especial do Serviço de prevenção e fiscalização tributária é constituído pelas seguintes categorias de funcionários:
+Art. 66.º O quadro especial do Serviço de prevenção e fiscalização tributária é constituído pelas seguintes categorias de funcionários:
 
 a) Director do Serviço de prevenção e fiscalização tributária;
 
@@ -636,11 +706,11 @@ e) Ajudantes de verificador;
 
 f) Auxiliares informadores.
 
-###### Art. 67.º O quadro especial do Serviço de prevenção e fiscalização tributária é o que consta do mapa anexo a este diploma e poderá ser de futuro revisto pelo Ministro das Finanças nos termos estabelecidos na lei orgânica da Direcção-Geral.
+Art. 67.º O quadro especial do Serviço de prevenção e fiscalização tributária é o que consta do mapa anexo a este diploma e poderá ser de futuro revisto pelo Ministro das Finanças nos termos estabelecidos na lei orgânica da Direcção-Geral.
 
 § único. Os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária necessários à execução dos serviços dos concelhos de Lisboa e do Porto serão incluídos nos quadros das direcções de finanças respectivas, devendo os directores de finanças submeter anualmente à apreciação do director-geral proposta sobre os técnicos verificadores de 3.ª classe e ajudantes de verificador que ficarão adstritos a cada uma das repartições de finanças dos bairros fiscais.
 
-###### Art. 68.º Aos serviços centrais, na imediata dependência do director-geral, incumbe:
+Art. 68.º Aos serviços centrais, na imediata dependência do director-geral, incumbe:
 
 a) Coordenar e dirigir o Serviço, promovendo a uniformidade da acção preventivo-repressiva e da fiscalização em todo o território do continente e ilhas adjacentes;
 
@@ -650,7 +720,7 @@ c) Organizar, em plano nacional, um registo das infracções fiscais, com os res
 
 d) Passar certificados de registo de infracções para instrução dos processos de transgressão ou para documentar as respectivas autuações.
 
-###### Art. 69.º Os serviços centrais são constituídos por duas secções, com as atribuições seguintes:
+Art. 69.º Os serviços centrais são constituídos por duas secções, com as atribuições seguintes:
 
 a) 1.ª secção:
 
@@ -660,7 +730,7 @@ b) 2.ª secção:
 
 Acção de verificação e fiscalização das realidades tributárias e de prevenção e repressão das infracções fiscais, evasão, fraude e distorções à justiça tributária.
 
-###### Art. 70.º Compete ao director do Serviço de prevenção e fiscalização tributária dirigir, na imediata dependência do director-geral, os respectivos serviços e desempenhar as funções que por lei ou determinação superior lhe sejam cometidas e, designadamente:
+Art. 70.º Compete ao director do Serviço de prevenção e fiscalização tributária dirigir, na imediata dependência do director-geral, os respectivos serviços e desempenhar as funções que por lei ou determinação superior lhe sejam cometidas e, designadamente:
 
 a) Dirigir o expediente, examinar, fiscalizar e promover os trabalhos a cargo do Serviço;
 
@@ -678,7 +748,7 @@ g) Passar as certidões que forem requeridas pelas partes interessadas ou solici
 
 h) Organizar um relatório anual sobre a acção desenvolvida durante o ano anterior, com apreciação detalhada das condições de facto verificadas que justifiquem, pelos seus reflexos e circunstâncias, a sua consideração em futuras alterações legais, com vista a evitar-se a evasão fiscal, a fraude, os factores de distorção ou de injustiça, bem como sobre os efeitos económicos e psicológicos dos vários impostos perante a opinião pública.
 
-###### Art. 71.º Aos directores distritais de finanças e, por delegação destes, aos directores ajudantes do Serviço de prevenção e fiscalização tributária compete em especial a orientação e direcção da acção preventivo-repressiva e, designadamente:
+Art. 71.º Aos directores distritais de finanças e, por delegação destes, aos directores ajudantes do Serviço de prevenção e fiscalização tributária compete em especial a orientação e direcção da acção preventivo-repressiva e, designadamente:
 
 a) O expediente em geral respeitante à sua área e a expedição de instruções e ordens de serviço integradas na orientação geral e na preocupação de uma perfeita uniformidade de acção;
 
@@ -698,9 +768,9 @@ h) Assegurar-se, obrigatória e permanentemente, do bom desempenho das funções
 
 i) Remeter prontamente aos serviços centrais as queixas ou reclamações contra qualquer funcionário do serviço externo, devidamente informadas sobre os seus fundamentos e gravidade, com o parecer do procedimento a adoptar desde logo, designadamente o de afastamento imediato, se tal se impuser para prestígio dos serviços.
 
-###### Art. 72.º Aos técnicos economistas compete estudar e interpretar os resultados apurados em avaliações, exames ou outras formas de arbitramento, ou intervir nelas directamente como peritos e exercer quaisquer outros actos de natureza técnica compatíveis com as suas habilitações que lhes sejam cometidos por lei ou determinação superior.
+Art. 72.º Aos técnicos economistas compete estudar e interpretar os resultados apurados em avaliações, exames ou outras formas de arbitramento, ou intervir nelas directamente como peritos e exercer quaisquer outros actos de natureza técnica compatíveis com as suas habilitações que lhes sejam cometidos por lei ou determinação superior.
 
-###### Art. 73.º Aos técnicos verificadores e aos ajudantes de verificador compete o exercício da acção externa do Ministério Público e de outras funções que lhes forem determinadas por lei ou ordem superior e, designadamente:
+Art. 73.º Aos técnicos verificadores e aos ajudantes de verificador compete o exercício da acção externa do Ministério Público e de outras funções que lhes forem determinadas por lei ou ordem superior e, designadamente:
 
 a) Observar e verificar os factos tributários e investigar sobre a existência de matéria colectável susceptível de imposto ou de sujeição ao cumprimento de obrigações fiscais;
 
@@ -712,9 +782,9 @@ d) Solicitar, sempre que necessária, a colaboração de quaisquer repartições
 
 e) Observar e informar sobre a actuação dos funcionários que os tiverem precedido em anteriores visitas de verificação, bem como dos resultados destas.
 
-###### Art. 74.º Aos técnicos verificadores compete em especial visitar as repartições concelhias de finanças, segundo plano estabelecido pelo superior hierárquico, examinar nestas as folhas de serviço e itinerários dos técnicos verificadores e dos ajudantes de verificador que aí prestem serviço, bem como os duplicados das notas individuais por eles entregues aos contribuintes, sugerir ao chefe da repartição de finanças a realização de diligências que lhes pareçam aconselháveis e realizar, por si, acompanhados do respectivo ajudante, a verificação, pelo menos, de dez situações tributárias constantes das respectivas folhas, sendo cinco por sorteio e as restantes por sua iniciativa, por indicação superior ou por sugestão do próprio chefe da repartição de finanças.
+Art. 74.º Aos técnicos verificadores compete em especial visitar as repartições concelhias de finanças, segundo plano estabelecido pelo superior hierárquico, examinar nestas as folhas de serviço e itinerários dos técnicos verificadores e dos ajudantes de verificador que aí prestem serviço, bem como os duplicados das notas individuais por eles entregues aos contribuintes, sugerir ao chefe da repartição de finanças a realização de diligências que lhes pareçam aconselháveis e realizar, por si, acompanhados do respectivo ajudante, a verificação, pelo menos, de dez situações tributárias constantes das respectivas folhas, sendo cinco por sorteio e as restantes por sua iniciativa, por indicação superior ou por sugestão do próprio chefe da repartição de finanças.
 
-###### Art. 75.º Depois de verificada, em cada concelho ou bairro, a acção dos serviços de prevenção e fiscalização tributária, deverá o respectivo técnico verificador:
+Art. 75.º Depois de verificada, em cada concelho ou bairro, a acção dos serviços de prevenção e fiscalização tributária, deverá o respectivo técnico verificador:
 
 a) Preencher e entregar ao chefe da repartição de finanças, sempre que haja alteração dos elementos ou conclusões em relação à verificação do ajudante, uma nota discriminada das respectivas observações, com a correspondente proposta ou recomendação;
 
@@ -726,21 +796,21 @@ d) Propor superiormente a realização de exames ou de outras formas de arbitram
 
 e) Informar sobre a diligência, competência e zelo dos funcionários concelhios do Serviço e sobre a qualificação a atribuir à sua actuação relativamente à matéria verificada.
 
-###### Art. 76.º Se o chefe da repartição de finanças não concordar com as sugestões ou recomendações do verificador, nos termos do artigo anterior, deverá expor imediatamente ao superior hierárquico a razão por que não realiza as diligências recomendadas, a fim de que este decida sobre o procedimento a adoptar.
+Art. 76.º Se o chefe da repartição de finanças não concordar com as sugestões ou recomendações do verificador, nos termos do artigo anterior, deverá expor imediatamente ao superior hierárquico a razão por que não realiza as diligências recomendadas, a fim de que este decida sobre o procedimento a adoptar.
 
-###### Art. 77.º Compete aos chefes das repartições concelhias de finanças a orientação e chefia dos serviços de prevenção e fiscalização tributária em todo o concelho.
+Art. 77.º Compete aos chefes das repartições concelhias de finanças a orientação e chefia dos serviços de prevenção e fiscalização tributária em todo o concelho.
 
-###### Art. 78.º Aos funcionários sem competência específica estabelecida por lei compete executar os serviços de que estejam encarregados pelos respectivos superiores hierárquicos.
+Art. 78.º Aos funcionários sem competência específica estabelecida por lei compete executar os serviços de que estejam encarregados pelos respectivos superiores hierárquicos.
 
-###### Art. 79.º A competência dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária de categoria superior à de ajudante de verificador colocados na Direcção-Geral e nas direcções distritais ou repartições concelhias de finanças abrange, respectivamente, todo o território do continente e ilhas adjacentes e a área do respectivo distrito; a dos ajudantes de verificador limita-se à área do concelho em que estejam colocados.
+Art. 79.º A competência dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária de categoria superior à de ajudante de verificador colocados na Direcção-Geral e nas direcções distritais ou repartições concelhias de finanças abrange, respectivamente, todo o território do continente e ilhas adjacentes e a área do respectivo distrito; a dos ajudantes de verificador limita-se à área do concelho em que estejam colocados.
 
-###### Art. 80.º Sempre que nas leis se reconhecer aos directores de finanças, chefes dos serviços de prevenção e repressão e chefes das secções de finanças a faculdade de se fazerem representar no exame de livros e documento dos contribuintes ou responsáveis, sejam ou não comerciantes, entender-se-á que essa representação pode ser exercida pelos funcionários do Serviço de prevenção e fiscalização tributária referidos nas alíneas c), d) e e ) do artigo 66.º, com relação aos seus superiores imediatos.
+Art. 80.º Sempre que nas leis se reconhecer aos directores de finanças, chefes dos serviços de prevenção e repressão e chefes das secções de finanças a faculdade de se fazerem representar no exame de livros e documento dos contribuintes ou responsáveis, sejam ou não comerciantes, entender-se-á que essa representação pode ser exercida pelos funcionários do Serviço de prevenção e fiscalização tributária referidos nas alíneas c), d) e e ) do artigo 66.º, com relação aos seus superiores imediatos.
 
 § único. O disposto neste artigo não prejudica a representação exercida por outros funcionários, mas neste caso ela deve ser demonstrada por credencial passada para o efeito.
 
 #### SECÇÃO II — Do provimento, substituições, direitos e deveres
 
-###### Art. 81.º Os funcionários das categorias referidas nas alíneas a), b), c), d) e e) do artigo 66.º são nomeados pelo Ministro das Finanças, sob proposta do director-geral e por escolha entre as pessoas que reúnam as seguintes condições:
+Art. 81.º Os funcionários das categorias referidas nas alíneas a), b), c), d) e e) do artigo 66.º são nomeados pelo Ministro das Finanças, sob proposta do director-geral e por escolha entre as pessoas que reúnam as seguintes condições:
 
 a) Para os lugares de director do Serviço de prevenção e fiscalização tributária e directores ajudantes deste Serviço, os funcionários com categoria de director de finanças;
 
@@ -756,7 +826,7 @@ c) Para as restantes categorias, os funcionários aprovados nos respectivos conc
 
 § 4.º Os pedidos de desistência de nomeação ou promoção apresentados pelos candidatos classificados de aptos nos respectivos concursos, posteriormente à data dos competentes despachos, serão considerados como renúncia à nomeação ou promoção e implicam a eliminação dos desistentes da respectiva lista.
 
-###### Art. 82.º Podem ser candidatos aos concursos de aptidão para as seguintes categorias:
+Art. 82.º Podem ser candidatos aos concursos de aptidão para as seguintes categorias:
 
 a) Técnicos economistas de 2.ª classe: os licenciados em Economia, Finanças ou Ciências Económicas e Financeiras, do sexo masculino, de idade não inferior a 21 anos nem superior a 35 anos;
 
@@ -772,11 +842,11 @@ e) Ajudantes de verificador: os aspirantes concursados e aspirantes, com três a
 
 § 2.º Nos concursos de aptidão não haverá classificação por valores, devendo apenas distinguir-se com a nota de Apto os candidatos aprovados.
 
-###### Art. 83.º Aos concursos a que se refere o artigo anterior são aplicáveis as respectivas disposições da Organização da Direcção-Geral das Contribuições e Impostos, e designadamente as dos artigos 45.º e alínea c) e seus parágrafos, 49.º e § 1.º, 50.º, alínea e) e seus parágrafos, e 52.º e § único, considerando-se as referências às diferentes categorias como abrangendo os técnicos verificadores e os ajudantes de verificador, e substituído o jurista a que se refere a alínea e) do artigo 50.º por um economista ou técnico economista.
+Art. 83.º Aos concursos a que se refere o artigo anterior são aplicáveis as respectivas disposições da Organização da Direcção-Geral das Contribuições e Impostos, e designadamente as dos artigos 45.º e alínea c) e seus parágrafos, 49.º e § 1.º, 50.º, alínea e) e seus parágrafos, e 52.º e § único, considerando-se as referências às diferentes categorias como abrangendo os técnicos verificadores e os ajudantes de verificador, e substituído o jurista a que se refere a alínea e) do artigo 50.º por um economista ou técnico economista.
 
-###### Art. 84.º Os técnicos verificadores de 3.ª classe habilitados com qualquer dos cursos superiores de Direito, Finanças, Economia ou Ciências Económicas e Financeiras podem concorrer a técnicos verificadores de 1.ª classe desde que tenham prestado serviço efectivo, naquele cargo, durante três anos com classificação de serviço não inferior a Bom.
+Art. 84.º Os técnicos verificadores de 3.ª classe habilitados com qualquer dos cursos superiores de Direito, Finanças, Economia ou Ciências Económicas e Financeiras podem concorrer a técnicos verificadores de 1.ª classe desde que tenham prestado serviço efectivo, naquele cargo, durante três anos com classificação de serviço não inferior a Bom.
 
-###### Art. 85.º Os funcionários do Serviço que exerçam cargos de chefia são substituídos, nos seus impedimentos legais, nos termos seguintes:
+Art. 85.º Os funcionários do Serviço que exerçam cargos de chefia são substituídos, nos seus impedimentos legais, nos termos seguintes:
 
 a) O director do Serviço de prevenção e fiscalização tributária, por um chefe de repartição da Direcção-Geral das Contribuições e Impostos, designado pelo director-geral, sob proposta do director do Serviço;
 
@@ -784,19 +854,19 @@ b) Os directores-ajudantes do Serviço de prevenção e fiscalização tributár
 
 § único. É aplicável às substituições previstas neste artigo o disposto nos §§ 1.º e 2.º do artigo 63.º da Organização da Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 86.º Os vencimentos dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária são os constantes do mapa anexo a este diploma.
+Art. 86.º Os vencimentos dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária são os constantes do mapa anexo a este diploma.
 
 § 1.º Pelo Ministro das Finanças são fixadas as gratificações a que tenham direito, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, os funcionários a que se refere o artigo 66.º deste diploma.
 
 § 2.º O Ministro das Finanças, quando entenda ser conveniente limitar a aplicação do § 1.º do artigo 3.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, poderá fixar a parte das gratificações que deva ser considerada para efeitos desse preceito legal.
 
-###### Art. 87.º Os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária têm direito a abonos de ajudas de custo e de transportes, nos termos da lei geral, quando se desloquem para fora do concelho onde tenha sede o serviço em que estejam colocados, e apenas ao subsídio de marcha regulado na [Portaria n.º 11949](https://diariodarepublica.pt/dr/detalhe/portaria/11949-1947-184716), de 18 de Julho de 1947, nas deslocações dentro dos limites daquele concelho, salvo, neste caso, se lhes forem fornecidos pelo Estado bilhetes de assinatura em transportes colectivos.
+Art. 87.º Os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária têm direito a abonos de ajudas de custo e de transportes, nos termos da lei geral, quando se desloquem para fora do concelho onde tenha sede o serviço em que estejam colocados, e apenas ao subsídio de marcha regulado na [Portaria n.º 11949](https://diariodarepublica.pt/dr/detalhe/portaria/11949-1947-184716), de 18 de Julho de 1947, nas deslocações dentro dos limites daquele concelho, salvo, neste caso, se lhes forem fornecidos pelo Estado bilhetes de assinatura em transportes colectivos.
 
 § 1.º Não é reconhecido o direito a ajudas de custo nos casos em que o funcionário possa utilizar meios de transporte que lhe permitam regressar à sede no mesmo dia da saída sem prejuízo para a sua economia e com vantagem para o Estado.
 
 § 2.º O disposto no corpo deste artigo para as deslocações dentro dos limites do concelho onde tenha sede o serviço pode ser mandado aplicar pelo Ministro das Finanças às deslocações para determinadas localidades de outros concelhos.
 
-###### Art. 88.º Aos técnicos verificadores e ajudantes de verificador será dada sempre por finda a comissão se a seu respeito se verificar uma das seguintes circunstâncias:
+Art. 88.º Aos técnicos verificadores e ajudantes de verificador será dada sempre por finda a comissão se a seu respeito se verificar uma das seguintes circunstâncias:
 
 a) Ser-lhes atribuída classificação inferior à de Bom em dois boletins semestrais, seguida ou interpoladamente, ou em um só se for em resultado da resposta ao quadro VI do artigo 89.º;
 
@@ -812,7 +882,7 @@ f) Descurarem os deveres de observar o modo como actuam os funcionários compree
 
 g) Serem responsabilizados por conivência, falta de acção ou participação conveniente de qualquer infracção ou conduta de funcionário compreendido na alínea anterior, de que resulte para este o afastamento do serviço.
 
-###### Art. 89.º Os funcionários a que se refere o artigo anterior são sujeitos a classificação de serviço revista semestralmente, mediante informações dos respectivos superiores hierárquicos sobre as qualidades compreendidas nos quadros seguintes e em harmonia com o questionário anexo ao presente diploma:
+Art. 89.º Os funcionários a que se refere o artigo anterior são sujeitos a classificação de serviço revista semestralmente, mediante informações dos respectivos superiores hierárquicos sobre as qualidades compreendidas nos quadros seguintes e em harmonia com o questionário anexo ao presente diploma:
 
 I - Apresentação;
 
@@ -834,25 +904,25 @@ VI - Qualidades morais.
 
 #### SECÇÃO III — Das disposições gerais
 
-###### Art. 90.º Nas direcções distritais de finanças e nas repartições concelhias deverão os directores ou ajudantes e os chefes de repartição de finanças reunir periòdicamente, no seu gabinete, os funcionários do serviço externo para ouvir, apreciar e criticar o serviço por eles realizado e fazer recomendações e receber sugestões sobre a eficiência do serviço.
+Art. 90.º Nas direcções distritais de finanças e nas repartições concelhias deverão os directores ou ajudantes e os chefes de repartição de finanças reunir periòdicamente, no seu gabinete, os funcionários do serviço externo para ouvir, apreciar e criticar o serviço por eles realizado e fazer recomendações e receber sugestões sobre a eficiência do serviço.
 
-###### Art. 91.º Os actos de fiscalização e de prevenção dos funcionários verificadores deverão ser realizados mediante distribuição prévia do superior hierárquico, e segundo mapas itinerários, elaborados conforme modelo e plano aprovado superiormente.
+Art. 91.º Os actos de fiscalização e de prevenção dos funcionários verificadores deverão ser realizados mediante distribuição prévia do superior hierárquico, e segundo mapas itinerários, elaborados conforme modelo e plano aprovado superiormente.
 
 § único. O disposto neste artigo só poderá ser dispensado por motivo de urgente conveniência de serviço.
 
-###### Art. 92.º Os funcionários verificadores, em todas as diligências realizadas junto dos contribuintes, para observação de factos ou situações tributáveis ou para obter ou prestar esclarecimentos, deverão preencher uma nota em triplicado, com indicação de todas as circunstâncias observadas e recomendações feitas sobre o cumprimento da lei. O original será entregue ao contribuinte, que deverá assinar os duplicados, salvo se não puder ou se a tal se recusar, circunstâncias estas que, quando ocorrerem, deverão ser devidamente anotadas.
+Art. 92.º Os funcionários verificadores, em todas as diligências realizadas junto dos contribuintes, para observação de factos ou situações tributáveis ou para obter ou prestar esclarecimentos, deverão preencher uma nota em triplicado, com indicação de todas as circunstâncias observadas e recomendações feitas sobre o cumprimento da lei. O original será entregue ao contribuinte, que deverá assinar os duplicados, salvo se não puder ou se a tal se recusar, circunstâncias estas que, quando ocorrerem, deverão ser devidamente anotadas.
 
 § único. Quando seja recomendado ao contribuinte qualquer procedimento para exacto cumprimento da lei, deverá ser indicado na nota o dia em que o funcionário voltará para se certificar do seu cumprimento. Do resultado se lavrará uma segunda nota, independentemente do levantamento de qualquer auto a que haja lugar.
 
-###### Art. 93.º É vedado aos chefes das repartições concelhias de finanças atribuir aos funcionários do serviço externo quaisquer trabalhos que não sejam os próprios da acção específica dos serviços de prevenção e fiscalização.
+Art. 93.º É vedado aos chefes das repartições concelhias de finanças atribuir aos funcionários do serviço externo quaisquer trabalhos que não sejam os próprios da acção específica dos serviços de prevenção e fiscalização.
 
 § único. Sempre que os chefes verifiquem a impossibilidade de os referidos funcionários realizarem com eficiência toda a acção de prevenção e fiscalização na respectiva área a tempo de serem considerados com utilidade os seus resultados, deverão destacar outros funcionários para os coadjuvarem, dando conhecimento imediato da ocorrência ao director de finanças.
 
-###### Art. 94.º O horário do serviço externo será estabelecido, para cada local, por forma a corresponder, com a possível exactidão, aos períodos de funcionamento ou exercício das actividades sujeitas a obrigações tributárias, devendo os serviços nocturnos ou a prestar em dias feriados, domingos ou nos sábados à tarde ser desempenhados em regime de turnos, consoante as necessidades e por um critério de equitativa distribuição.
+Art. 94.º O horário do serviço externo será estabelecido, para cada local, por forma a corresponder, com a possível exactidão, aos períodos de funcionamento ou exercício das actividades sujeitas a obrigações tributárias, devendo os serviços nocturnos ou a prestar em dias feriados, domingos ou nos sábados à tarde ser desempenhados em regime de turnos, consoante as necessidades e por um critério de equitativa distribuição.
 
 ## TÍTULO IV — Serviços de secretaria
 
-###### Art. 95.º O expediente e a movimentação dos processos, bem como a execução dos serviços de secretaria do Ministério Público, são assegurados:
+Art. 95.º O expediente e a movimentação dos processos, bem como a execução dos serviços de secretaria do Ministério Público, são assegurados:
 
 a) No Tribunal de 2.ª Instância, por uma secção da Repartição Central da Direcção-Geral;
 
@@ -864,21 +934,21 @@ c) Nos serviços concelhios de administração fiscal, pelos funcionários que, 
 
 § 2.º A execução dos serviços de secretaria dos tribunais das contribuições e impostos regula-se, na parte não especialmente prevista neste diploma, na lei processual e na Organização da Direcção-Geral, pelas disposições do Estatuto Judiciário que lhe sejam compatíveis.
 
-###### Art. 96.º As secções dos serviços de justiça fiscal a que se refere o presente diploma funcionam em regime de secretaria integradas nos serviços gerais da Repartição Central da Direcção-Geral e das direcções distritais de finanças, sob a chefia e responsabilidade de chefes de secção e de primeiros ou segundos-oficiais e na subordinação do respectivo superior hierárquico.
+Art. 96.º As secções dos serviços de justiça fiscal a que se refere o presente diploma funcionam em regime de secretaria integradas nos serviços gerais da Repartição Central da Direcção-Geral e das direcções distritais de finanças, sob a chefia e responsabilidade de chefes de secção e de primeiros ou segundos-oficiais e na subordinação do respectivo superior hierárquico.
 
 § único. Todas as referências da lei a secretarias judiciais dos tribunais das contribuições e impostos, ou aos seus funcionários, se reportam e têm aplicação às secções afectas ao expediente e movimentação dos processos dos tribunais ou aos funcionários que as constituam.
 
-###### Art. 97.º Os funcionários das secretarias, embora hieràrquicamente subordinados ao chefe da Repartição Central ou director distrital de finanças, conforme o caso, são obrigados a cumprir todos os despachos, sentenças ou ordens dos juízes exarados nos processos, mandados ou documentos avulsos, e deverão condicionar e harmonizar todos os serviços à boa execução das funções judiciais.
+Art. 97.º Os funcionários das secretarias, embora hieràrquicamente subordinados ao chefe da Repartição Central ou director distrital de finanças, conforme o caso, são obrigados a cumprir todos os despachos, sentenças ou ordens dos juízes exarados nos processos, mandados ou documentos avulsos, e deverão condicionar e harmonizar todos os serviços à boa execução das funções judiciais.
 
 § 1.º Na distribuição de serviços aos funcionários de secretaria não poderá ser prejudicado o exercício das funções próprias do tribunal, preferindo os respectivos trabalhos a quaisquer outros que lhes possam ser destinados.
 
 § 2.º Nos casos de conflito entre as ordens do juiz e do chefe da Repartição Central ou director distrital de finanças, compete ao Ministro das Finanças decidir, devendo, entretanto, executar-se a ordem que dê satisfação mais urgente ao fim judicial.
 
-###### Art. 98.º Na falta ou impedimento de qualquer funcionário de secretaria, o serviço que lhe competir deve ser desempenhado pelo restante pessoal da secção ou por funcionários de outras secções, conforme for determinado.
+Art. 98.º Na falta ou impedimento de qualquer funcionário de secretaria, o serviço que lhe competir deve ser desempenhado pelo restante pessoal da secção ou por funcionários de outras secções, conforme for determinado.
 
-###### Art. 99.º Nenhum processo ou papel deverá ter seguimento sem que nele esteja lançada a nota de registo de entrada no livro próprio, devendo o registo e a nota ser lavrados no acto da apresentação, e entregue o competente recibo quando solicitado.
+Art. 99.º Nenhum processo ou papel deverá ter seguimento sem que nele esteja lançada a nota de registo de entrada no livro próprio, devendo o registo e a nota ser lavrados no acto da apresentação, e entregue o competente recibo quando solicitado.
 
-###### Art. 100.º Para efeitos de distribuição, as matérias da competência dos tribunais das contribuições e impostos e dos respectivos serviços de secretaria constituem quatro espécies:
+Art. 100.º Para efeitos de distribuição, as matérias da competência dos tribunais das contribuições e impostos e dos respectivos serviços de secretaria constituem quatro espécies:
 
 1.ª Processos de impugnação;
 
@@ -888,9 +958,9 @@ c) Nos serviços concelhios de administração fiscal, pelos funcionários que, 
 
 4.ª Processos diversos;
 
-###### Art. 101.º Durante as férias dos tribunais das contribuições e impostos, e sem prejuízo da normalização dos serviços de secretaria que lhes respeitem, poderá o chefe da Repartição Central ou o director distrital de finanças incumbir os funcionários de outros trabalhos.
+Art. 101.º Durante as férias dos tribunais das contribuições e impostos, e sem prejuízo da normalização dos serviços de secretaria que lhes respeitem, poderá o chefe da Repartição Central ou o director distrital de finanças incumbir os funcionários de outros trabalhos.
 
-###### Art. 102.º A parte das custas contadas em processos das contribuições e impostos atribuída por lei aos funcionários será distribuída na proporção que vier a ser estabelecida, nos termos seguintes:
+Art. 102.º A parte das custas contadas em processos das contribuições e impostos atribuída por lei aos funcionários será distribuída na proporção que vier a ser estabelecida, nos termos seguintes:
 
 a) As custas contadas no Tribunal de 2.ª Instância, por todos os funcionários dos serviços centrais, com exclusão dos técnicos, chefes de repartição e superiores;
 
@@ -900,18 +970,18 @@ Ministério das Finanças, 27 de Abril de 1963. - O Ministro das Finanças, Ant�
 
 Mapa do quadro da magistratura das contribuições e impostos de harmonia com os artigos 4.º e 5.º da Organização dos Serviços de Justiça Fiscal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf))](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
 
 Mapa a que se referem os artigos 30.º e 86.º da Organização dos Serviços de Justiça Fiscal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf))](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
 
 Mapa a que se refere o artigo 67.º da Organização dos Serviços de Justiça Fiscal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf))](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
 
 Ministério das Finanças, 27 de Abril de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf))](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/10000/04550469.pdf)
 
 Ministério das Finanças, 27 de Abril de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.

@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48757-1968-261966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73b63f74c5ca98aba0a4a3ef26b089061a12ad2b976d221f1fbb54ba1dd9eb8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51f978ebef1c4c29df408d5fd39e4818c8263f4161c6dcc848608b925d77809a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:527448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527448:por
+  label: "Ratificado pela RESAN.DD11.26.02.1969.PR, DG.IS [48] de 26.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-nacional/1969-527448
+  date: '1969-02-26'
+- type: corrected_by
+  target: pt:dre:526016:por
+  label: Rectificado o art. 4º pela DECL.DD10708.29.03.1969.PC, DG.IS [75] de 29.03.1969
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1969-526016
+  date: '1969-03-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:46Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +103,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No capítulo 73.º «Ferro fundido, ferro macio e aço» da pauta de importação, é introduzida a seguinte nota preliminar:
+Artigo 1.º No capítulo 73.º «Ferro fundido, ferro macio e aço» da pauta de importação, é introduzida a seguinte nota preliminar:
 
 *6. - Para efeitos de tributação pautal, os aços especiais abrangidos pela alínea d) da nota 1 a este capítulo consideram-se divididos em duas categorias:
 
@@ -117,7 +131,7 @@ a) Aços especiais contendo, em peso, um ou mais dos elementos abaixo especifica
 
 b) Outros aços especiais.
 
-###### Art. 2.º São alteradas pela forma seguinte as taxas dos artigos da pauta de importação:
+Art. 2.º São alteradas pela forma seguinte as taxas dos artigos da pauta de importação:
 
 26.01.03 ...
 
@@ -173,9 +187,9 @@ Pauta máxima - Quilograma, 24$30.
 
 Pauta mínima - Quilograma, 8$10.
 
-###### Art. 3.º São eliminados do texto da pauta de importação os artigos 73.12.04, 73.14.04 e 73.14.05.
+Art. 3.º São eliminados do texto da pauta de importação os artigos 73.12.04, 73.14.04 e 73.14.05.
 
-###### Art. 4.º São introduzidas nos artigos da pauta de importação as seguintes alterações:
+Art. 4.º São introduzidas nos artigos da pauta de importação as seguintes alterações:
 
 73.06 ...
 
@@ -797,9 +811,9 @@ Pauta mínima - Quilograma, 1$60.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 
-**Promulgado em 25 de Novembro de 1968.**
+Promulgado em 25 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

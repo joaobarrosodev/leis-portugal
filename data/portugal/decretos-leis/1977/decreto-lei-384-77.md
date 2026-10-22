@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21100/22262228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1977-285972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 849b06ec2f5fb18f18a65c63e47507e26fd839941c49ed98972bd2bfb24030b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b24e349b6474417e6a708a8450128610e1c25973e8bbddf92f521a3cee6732df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Concurso Público
+- Equipamento Informático
 relationships:
 - type: amended_by
   target: pt:dre:517177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:278927:por
+  label: Rectificado pela DECL.DD7804.11.10.1977.PCM, DR.IS [235] de 11.10.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-278927
+  date: '1977-10-11'
+- type: repealed_by
+  target: pt:dre:517177:por
+  label: "Revogado pelo DEC LEI.64/94.1994.02.28.MF, DR.IS-A [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1994-517177
+  date: '1994-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:14Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +118,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Âmbito
 
-###### Artigo 1.º - 1. O presente diploma aplica-se aos contratos de compra ou aluguer de material e de compra ou fornecimento de serviços de informática a celebrar pelo Estado, bem como às revisões de idênticos contratos.
+Artigo 1.º - 1. O presente diploma aplica-se aos contratos de compra ou aluguer de material e de compra ou fornecimento de serviços de informática a celebrar pelo Estado, bem como às revisões de idênticos contratos.
 
 2. Para os efeitos do número anterior, considera-se o Estado como integrando o sector público administrativo, o qual inclui os serviços ou organismos com dotação prevista no Orçamento Geral do Estado, os fundos e serviços autónomos, a administração regional e local e as instituições de previdência social.
 
-###### Art. 2.º - 1. Considera-se, para os efeitos do presente diploma, material de informática:
+Art. 2.º - 1. Considera-se, para os efeitos do presente diploma, material de informática:
 
 a) As máquinas ou conjuntos de máquinas e dispositivos, instalados ou não num mesmo local, destinados ao registo e ou ao tratamento da informação sobre forma digital e que utilizem, directamente ou mediante prévia transmissão, perfurações, sinais eléctricos, magnéticos, ópticos ou gráficos, ou sinais emitidos por outras máquinas;
 
@@ -142,7 +156,7 @@ k) A manutenção de equipamento informático, compreendendo revisões preventiv
 
 #### SECÇÃO I — Estudos prévios
 
-###### Art. 3.º - 1. A decisão de automatizar um determinado serviço ou organismo, bem como a de ampliar ou substituir um equipamento informático instalado, resultará obrigatoriamente das conclusões de estudos que demonstrem a viabilidade técnica e económica do empreendimento, nomeadamente:
+Art. 3.º - 1. A decisão de automatizar um determinado serviço ou organismo, bem como a de ampliar ou substituir um equipamento informático instalado, resultará obrigatoriamente das conclusões de estudos que demonstrem a viabilidade técnica e económica do empreendimento, nomeadamente:
 
 a) O estudo prévio para definição do problema;
 
@@ -154,38 +168,38 @@ c) A elaboração de cadernos de encargos para equipamentos ou para serviços.
 
 3. Os estudos referidos no n.º 1 são realizados sem intervenção das empresas fornecedoras de material de informática ou de empresas de serviços vinculadas à comercialização de determinado material, ou em que detenham qualquer percentagem no respectivo capital social.
 
-###### Art. 4.º Nos casos em que os projectos de automatização impliquem realização de trabalhos mediante a transmissão de dados à distância, as implicações técnicas e financeiras do projecto serão analisadas com a ou as empresas públicas de telecomunicações.
+Art. 4.º Nos casos em que os projectos de automatização impliquem realização de trabalhos mediante a transmissão de dados à distância, as implicações técnicas e financeiras do projecto serão analisadas com a ou as empresas públicas de telecomunicações.
 
 #### SECÇÃO II — Adjudicação
 
-###### Art. 5.º - 1. Os contratos para a compra ou aluguer de material e compra ou fornecimento de serviços de informática serão celebrados por ajuste directo ou precedidos da realização de concurso público, nos termos da lei geral quanto a despesas públicas.
+Art. 5.º - 1. Os contratos para a compra ou aluguer de material e compra ou fornecimento de serviços de informática serão celebrados por ajuste directo ou precedidos da realização de concurso público, nos termos da lei geral quanto a despesas públicas.
 
 2. A consulta que procede a realização do ajuste directo incluirá, obrigatoriamente, as empresas de serviços com participação maioritária de capitais públicos nos respectivos capitais sociais.
 
 3. Na celebração do contrato será dada preferência às empresas referidas no número anterior no caso de idênticas condições técnicas, económicas e de prazos oferecidos por outras empresas consultadas ou concorrentes.
 
-###### Art. 6.º - 1. Quando não exista órgão coordenador de informática no respectivo departamento ministerial, será constituída uma comissão técnica com a composição que for definida por despacho do respectivo Ministro ou Secretário de Estado, com a competência específica para apreciar as respostas à consulta, no caso de ajuste directo, ou as propostas, no caso de concurso público.
+Art. 6.º - 1. Quando não exista órgão coordenador de informática no respectivo departamento ministerial, será constituída uma comissão técnica com a composição que for definida por despacho do respectivo Ministro ou Secretário de Estado, com a competência específica para apreciar as respostas à consulta, no caso de ajuste directo, ou as propostas, no caso de concurso público.
 
 2. As respostas à consulta ou as propostas serão enviadas, no prazo de cinco dias após a data da sua abertura, ao órgão coordenador de informática ou à comissão técnica referida no número anterior, que efectuarão um estudo técnico-económico das mesmas no prazo de dois meses a contar da data do seu recebimento.
 
 3. O estudo técnico-económico referido no número anterior será enviado à Direcção-Geral da Organização Administrativa para apreciação e emissão de parecer no prazo máximo de um mês a contar da data do seu recebimento.
 
-###### Art. 7.º O ajuste directo ou a adjudicação não deverão ser feitas sem que do respectivo processo conste o parecer emitido pela Direcção-Geral da Organização Administrativa, o que constitui condição de eficácia do contrato, salvo se não for cumprido o prazo previsto no n.º 3 do artigo anterior.
+Art. 7.º O ajuste directo ou a adjudicação não deverão ser feitas sem que do respectivo processo conste o parecer emitido pela Direcção-Geral da Organização Administrativa, o que constitui condição de eficácia do contrato, salvo se não for cumprido o prazo previsto no n.º 3 do artigo anterior.
 
-###### Art. 8.º O ajuste directo ou a adjudicação bem como a prorrogação ou revisão de qualquer contrato serão sempre comunicados à Direcção-Geral da Organização Administrativa, mediante o envio de cópia do respectivo contrato.
+Art. 8.º O ajuste directo ou a adjudicação bem como a prorrogação ou revisão de qualquer contrato serão sempre comunicados à Direcção-Geral da Organização Administrativa, mediante o envio de cópia do respectivo contrato.
 
-###### Art. 9.º O estudo técnico-económico sobre as respostas à consulta ou sobre as propostas ao concurso bem como o correspondente parecer da Direcção-Geral da Organização Administrativa poderão ser facultados, a seu pedido, às empresas consultadas ou concorrentes, depois da celebração do respectivo contrato.
+Art. 9.º O estudo técnico-económico sobre as respostas à consulta ou sobre as propostas ao concurso bem como o correspondente parecer da Direcção-Geral da Organização Administrativa poderão ser facultados, a seu pedido, às empresas consultadas ou concorrentes, depois da celebração do respectivo contrato.
 
 ### CAPÍTULO III — Normalização de procedimentos
 
-###### Art. 10.º - 1. As formalidades e especificações técnicas a observar na compra ou aluguer de material e na compra ou fornecimento de serviços de informática serão fixadas por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.
+Art. 10.º - 1. As formalidades e especificações técnicas a observar na compra ou aluguer de material e na compra ou fornecimento de serviços de informática serão fixadas por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.
 
 2. As revisões dos contratos deverão respeitar as disposições contidas na portaria referida no número anterior, na sua parte aplicável.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 27 de Agosto de 1977.**
+Promulgado em 27 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

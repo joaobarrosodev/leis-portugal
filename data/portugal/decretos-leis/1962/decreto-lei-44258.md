@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44258-1962-516675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b283372c809693760d28a7092872f252b31cab4381137a2523870b7f5600e10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12d60f17007e84ac5043f0bc6f9ef31e723ee82e0585b91cc82f4e5c62eed1ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Câmara Municipal
+- Código Administrativo
+- Construção Civil
+- Contravenção
+- Crime
+- Definição de Competências
+- Direcção Geral dos Serviços de Urbanização
+- Embargo
+- Indemnização
+- Licenciamento
+- Licenciamento de Obras
+- Ministro das Obras Públicas
+- Multa
+- Normas de Construção
+- Notificação
+- Obras de Conservação e Restauro
+- Obras Municipais
+- Obras Públicas
+- Pagamento
+- Plano de Urbanização
+- Prazo
+- Prédio Urbano
+- Presidente
+- Registo Predial
+- Regulamento
+- Regulamento Geral das Edificações Urbanas
+- Segurança dos Edifícios
+- Urbanização
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:265556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, previstas no Dec 38382 de 07-Ago 1951, com as alterações introduzidas pelo\
+    \ presente diploma, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:16Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +129,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § único do artigo 1.º, o § 1.º do artigo 10.º e os artigos 161.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951, passam a ter a seguinte redacção:
+Artigo 1.º O § único do artigo 1.º, o § 1.º do artigo 10.º e os artigos 161.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -96,7 +137,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 1.º Às câmaras municipais compete ordenar, precedendo vistoria, a demolição total ou parcial das construções que ameacem ruína ou ofereçam perigo para a saúde pública.
 
@@ -104,13 +145,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 161.º A execução de quaisquer obras em contravenção das disposições deste regulamento, sem licença ou em desacordo com os seus termos ou com o projecto aprovado, será punida com multa de 200$00 a 10000$00.
+Art. 161.º A execução de quaisquer obras em contravenção das disposições deste regulamento, sem licença ou em desacordo com os seus termos ou com o projecto aprovado, será punida com multa de 200$00 a 10000$00.
 
 § único. Sempre que a graduação da multa se não encontre determinada em postura municipal e o seu pagamento se efectue voluntàriamente, nos termos dos artigos 167.º ou 553.º do Código de Processo Penal, o seu montante será o que houver sido fixado pelo presidente da câmara, até ao limite de 1000$00, tendo em conta a gravidade da falta, aferida pela natureza, extensão e demais circunstâncias das obras.
 
 ...
 
-###### Art. 165.º As câmaras municipais poderão ordenar, independentemente da aplicação das penalidades referidas nos artigos anteriores, a demolição ou o embargo administrativo das obras executadas em desconformidade com o disposto nos artigos 1.º a 7.º, bem como o despejo sumário dos inquilinos e demais ocupantes das edificações ou parte das edificações utilizadas sem as respectivas licenças ou em desconformidade com elas.
+Art. 165.º As câmaras municipais poderão ordenar, independentemente da aplicação das penalidades referidas nos artigos anteriores, a demolição ou o embargo administrativo das obras executadas em desconformidade com o disposto nos artigos 1.º a 7.º, bem como o despejo sumário dos inquilinos e demais ocupantes das edificações ou parte das edificações utilizadas sem as respectivas licenças ou em desconformidade com elas.
 
 § 1.º Do auto de embargo constará, com a minúcia conveniente, o estado de adiantamento das obras e, quando possível, que se procedeu às notificações a que se refere o parágrafo seguinte.
 
@@ -126,18 +167,18 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 7.º A competência a que se refere este artigo caberá ao presidente da câmara sempre que se trate de pequenas casas, até dois pavimentos, e de quaisquer edificações ligeiras, umas e outras em construção ou já construídas, desde que o seu projecto não haja sido aprovado nem tenha sido concedida a necessária licença.
 
-###### Art. 166.º Quando o proprietário não começar as obras de reparação, de beneficiação ou de demolição, aludidas nos artigos 9.º, 10.º, 12.º e 165.º, ou as não concluir dentro dos prazos que lhe forem fixados, poderá a câmara municipal ocupar o prédio para o efeito de mandar proceder à sua execução imediata.
+Art. 166.º Quando o proprietário não começar as obras de reparação, de beneficiação ou de demolição, aludidas nos artigos 9.º, 10.º, 12.º e 165.º, ou as não concluir dentro dos prazos que lhe forem fixados, poderá a câmara municipal ocupar o prédio para o efeito de mandar proceder à sua execução imediata.
 
 § único. Na falta de pagamento voluntário das despesas, proceder-se-á à cobrança coerciva, servindo de título executivo certidão passada pelos serviços municipais donde conste o quantitativo global das despesas.
 
-###### Art. 2.º Os artigos 167.º e 168.º do Regulamento Geral das Edificações Urbanas passam a ter, respectivamente, os n.os 168.º e 169.º, e é aditado ao mesmo regulamento um novo artigo, com o n.º 167.º, nos termos seguintes:
+Art. 2.º Os artigos 167.º e 168.º do Regulamento Geral das Edificações Urbanas passam a ter, respectivamente, os n.os 168.º e 169.º, e é aditado ao mesmo regulamento um novo artigo, com o n.º 167.º, nos termos seguintes:
 
-###### Art. 167.º A demolição das obras referidas no artigo 165.º só poderá ser evitada desde que a câmara municipal ou o seu presidente, conforme os casos, reconheça que são susceptíveis de vir a satisfazer aos requisitos legais e regulamentares de urbanização, de estética, de segurança e de salubridade.
+Art. 167.º A demolição das obras referidas no artigo 165.º só poderá ser evitada desde que a câmara municipal ou o seu presidente, conforme os casos, reconheça que são susceptíveis de vir a satisfazer aos requisitos legais e regulamentares de urbanização, de estética, de segurança e de salubridade.
 
 § 1.º O uso da faculdade prevista neste artigo poderá tornar-se dependente de o proprietário assumir, em escritura, a obrigação de fazer executar os trabalhos que se reputem necessários, nos termos e condições que forem fixados, e de demolir ulteriormente a edificação, sem direito a ser indemnizado - promovendo a inscrição predial deste ónus -, sempre que as obras contrariem as disposições do plano ou anteplano de urbanização que vier a ser aprovado.
 
 § 2.º A legalização das obras ficará dependente de autorização do Ministro das Obras Pública, solicitada através da Direcção-Geral dos Serviços de Urbanização, quando possa colidir com plano ou anteplano de urbanização já aprovado ou, na área do plano director da região de Lisboa, nos casos em que a licença estivesse condicionada àquela autorização.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

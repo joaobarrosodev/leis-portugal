@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09400/09920992.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1982-606554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9940e1b93d1b5e68d608af1d938ed0ae1a6593a9d6d726a7f2a8ade79c573109
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfa7bc21e0347caa49ba00f1968ca304c5c1121a4e76c37b5123d25b14d0e501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto da Carreira Docente Universitária
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:176984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176984:por
+  label: "Revogado pelo DEC LEI.381/85.27.09.1985.ME, DR.IS [223] de 27.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-1985-176984
+  date: '1985-09-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:08Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +119,14 @@ Considerando que vem sendo prática administrativa recorrer em tais casos ao dis
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - Se um assistente ou assistente estagiário for atingido no decurso do ano escolar pelos limites fixados, respectivamente, no n.º 1 do artigo 26.º e no n.º 1 do artigo 29.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com alterações, por ratificação, introduzidas pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, o reitor poderá autorizá-lo a permanecer no exercício do cargo até ao termo do ano escolar, mediante proposta fundamentada do conselho científico da escola.
+Artigo único. - 1 - Se um assistente ou assistente estagiário for atingido no decurso do ano escolar pelos limites fixados, respectivamente, no n.º 1 do artigo 26.º e no n.º 1 do artigo 29.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com alterações, por ratificação, introduzidas pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, o reitor poderá autorizá-lo a permanecer no exercício do cargo até ao termo do ano escolar, mediante proposta fundamentada do conselho científico da escola.
 
 2 - Para efeitos do preceituado no número anterior, considera-se como termo do ano escolar o do serviço de exames da chamada normal da época de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Abril de 1982.**
+Promulgado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

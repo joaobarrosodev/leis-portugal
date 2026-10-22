@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/10/23600/16071608.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45297-1963-687388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 632aeab4e18ea25c3ef5f689c6e1816cda3abd2267bfec92af2502c61bb90fe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c23eae7b7bd521de338f318d44244915bdbffac0a937fa550109c10f6a85c18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Conselho Nacional de Crédito
+- Corporação do Crédito e Seguros
+- Crédito Bancário
+- Definição de Competências
+- Ministro das Finanças
+- Orgânica
+- Presidente
+- Subsecretário de Estado do Tesouro
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:390269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:390269:por
+  label: "Revogado pelo DEC LEI.47911.07.09.1967.MF, DG.IS [209] de 07.09.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47911-1967-390269
+  date: '1967-09-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:40Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +118,7 @@ Convindo alterar a orgânica e competência do Conselho Nacional de Crédito, cr
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho Nacional de Crédito, criado pelo artigo 29.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, é um órgão consultivo para os problemas especìficamente financeiros da política de crédito, cujas funções serão transferidas para a Corporação de Crédito e Seguros logo que o Ministro das Finanças o julgar conveniente. Terá como presidente o Ministro das Finanças e como vice-presidentes o Subsecretário de Estado do Tesouro e o Subsecretário de Estado do Fomento Ultramarino e será constituído pelas seguintes entidades:
+Artigo 1.º O Conselho Nacional de Crédito, criado pelo artigo 29.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, é um órgão consultivo para os problemas especìficamente financeiros da política de crédito, cujas funções serão transferidas para a Corporação de Crédito e Seguros logo que o Ministro das Finanças o julgar conveniente. Terá como presidente o Ministro das Finanças e como vice-presidentes o Subsecretário de Estado do Tesouro e o Subsecretário de Estado do Fomento Ultramarino e será constituído pelas seguintes entidades:
 
 a) Presidente da Corporação de Crédito e Seguros ou vice-presidente da secção de Crédito da mesma Corporação;
 
@@ -119,7 +146,7 @@ l) Um representante do Ministério das Corporações e Previdência Social com a
 
 § 2.º Na falta ou impedimento do Ministro das Finanças, presidirá às reuniões do Conselho o vice-presidente que por ele for indicado e, nas faltas ou impedimentos dos membros natos, estes serão substituídos nos termos da lei orgânica do serviço, quando se trate de funcionários, ou dos estatutos da instituição, quando se trate de outras entidades.
 
-###### Art. 2.º Compete especialmente ao Conselho Nacional de Crédito:
+Art. 2.º Compete especialmente ao Conselho Nacional de Crédito:
 
 1.º Pronunciar-se sobre os problemas que o Governo entenda submeter-lhe ou cuja apreciação lhe venha a ser cometida;
 
@@ -127,15 +154,15 @@ l) Um representante do Ministério das Corporações e Previdência Social com a
 
 3.º Publicar no Boletim de Crédito da Inspecção-Geral de Crédito e Seguros, até 30 de Setembro de cada ano, um relatório sobre a situação do crédito e da estrutura bancária no ano anterior, o qual será dividido em duas partes, uma respeitante ao continente e ilhas adjacentes e a outra às províncias ultramarinas.
 
-###### Art. 3.º O Conselho Nacional de Crédito é convocado pelo Ministro das Finanças, por sua própria iniciativa ou do Ministro do Ultramar, reunindo obrigatòriamente duas vezes por ano: em Janeiro, a fim de designar dois dos seus membros para relatarem a situação do crédito e da estrutura bancária do continente e ilhas adjacentes e das províncias ultramarinas no ano anterior; e, em Setembro, a fim de apreciar o projecto de relatório elaborado para os efeitos do n.º 3.º do artigo precedente.
+Art. 3.º O Conselho Nacional de Crédito é convocado pelo Ministro das Finanças, por sua própria iniciativa ou do Ministro do Ultramar, reunindo obrigatòriamente duas vezes por ano: em Janeiro, a fim de designar dois dos seus membros para relatarem a situação do crédito e da estrutura bancária do continente e ilhas adjacentes e das províncias ultramarinas no ano anterior; e, em Setembro, a fim de apreciar o projecto de relatório elaborado para os efeitos do n.º 3.º do artigo precedente.
 
-###### Art. 4.º O Conselho Nacional de Crédito poderá, por intermédio da Inspecção-Geral de Crédito e Seguros e da Direcção-Geral de Economia, do Ministério do Ultramar, requisitar das instituições de crédito, dos serviços do Estado e organismos de coordenação económica e, através do Ministério competente, dos organismos corporativos e das instituições de previdência social as informações de que carecer para o cumprimento das suas atribuições.
+Art. 4.º O Conselho Nacional de Crédito poderá, por intermédio da Inspecção-Geral de Crédito e Seguros e da Direcção-Geral de Economia, do Ministério do Ultramar, requisitar das instituições de crédito, dos serviços do Estado e organismos de coordenação económica e, através do Ministério competente, dos organismos corporativos e das instituições de previdência social as informações de que carecer para o cumprimento das suas atribuições.
 
-###### Art. 5.º O expediente do Conselho Nacional de Crédito será assegurado pela Inspecção-Geral de Crédito e Seguros.
+Art. 5.º O expediente do Conselho Nacional de Crédito será assegurado pela Inspecção-Geral de Crédito e Seguros.
 
-###### Art. 6.º Ficam revogados o artigo 30.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e os artigos 40.º a 44.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+Art. 6.º Ficam revogados o artigo 30.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e os artigos 40.º a 44.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - Pedro Mário Soares Martinez.
 

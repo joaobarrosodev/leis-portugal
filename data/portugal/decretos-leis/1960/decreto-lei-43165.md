@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43165-1960-515022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c7b542c76e31b8be71b31b52edf2ae028576bb31058a46f297f0fb40374640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2186afe1661db9df576ba102cfa2fa0921bcdbe4432bc670d99b7913b9a5ac92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Ílhavo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:31Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +94,18 @@ Atendendo a que se verificam as condições referidas no artigo 9.º do Código 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Ílhavo, distrito de Aveiro, a freguesia de Gafanha do Carmo, com sede na povoação do mesmo nome.
+Artigo 1.º É criada no concelho de Ílhavo, distrito de Aveiro, a freguesia de Gafanha do Carmo, com sede na povoação do mesmo nome.
 
 § único. A freguesia de Gafanha do Carmo é classificada de 2.ª ordem.
 
-###### Art. 2.º A nova freguesia é limitada ao norte por uma linha recta que, partindo da orla marítima, corresponde ao paralelo cuja distância à meridiana é de 403,740 km, segundo as coordenadas dos serviços cartográficos do Exército (projecção Gauss - mapa 184), e se prolonga até à estrada florestal; deste ponto inflecte para sul, pela actual estrada florestal, desde o cemitério da Gafanha da Nazaré, até atingir o limite do concelho de Ílhavo com o de Vagos; daqui inflecte para ocidente e segue, em linha recta, pelo aludido limite, até ao oceano, prosseguindo para norte, pela orla marítima, até ao ponto onde se iniciou a descrição.
+Art. 2.º A nova freguesia é limitada ao norte por uma linha recta que, partindo da orla marítima, corresponde ao paralelo cuja distância à meridiana é de 403,740 km, segundo as coordenadas dos serviços cartográficos do Exército (projecção Gauss - mapa 184), e se prolonga até à estrada florestal; deste ponto inflecte para sul, pela actual estrada florestal, desde o cemitério da Gafanha da Nazaré, até atingir o limite do concelho de Ílhavo com o de Vagos; daqui inflecte para ocidente e segue, em linha recta, pelo aludido limite, até ao oceano, prosseguindo para norte, pela orla marítima, até ao ponto onde se iniciou a descrição.
 
 § único. A Câmara Municipal do concelho de Ílhavo procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados neste artigo.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Gafanha do Carmo realizar-se-á no dia que for designado pelo governador civil e são eleitores os chefes de família da respectiva área inscritos no recenseamento da freguesia de Ílhavo.
+Art. 3.º A eleição da Junta de Freguesia de Gafanha do Carmo realizar-se-á no dia que for designado pelo governador civil e são eleitores os chefes de família da respectiva área inscritos no recenseamento da freguesia de Ílhavo.
 
-###### Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da junta, no que se refere a eleição e votação, será exercida pelo presidente da Junta de Freguesia de Ílhavo.
+Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da junta, no que se refere a eleição e votação, será exercida pelo presidente da Junta de Freguesia de Ílhavo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

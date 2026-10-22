@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26000/25342534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/798-1976-407339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8273ca7e8c0845eb860da66a435fefae7f56897372612bc2bce97792d839f844
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 785ec6e34112e97cbf3e366165ac5460813eb34aa31e4d31f9fbda221790bdc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Autorização de Despesas
+- Empréstimo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:407755:por
+  label: Rectificado pela DECL.DD7973.14.12.1976.PCM, DR.IS [290] de 14.12.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-407755
+  date: '1976-12-14'
 article_structure:
-  article_count: 5
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:13Z'
   warnings: []
   errors: []
 ---
@@ -97,21 +115,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Fica a Administração dos Portos do Douro e Leixões autorizada a contrair na Caixa Geral de Depósitos, Crédito e Previdência, no decurso do ano corrente, mediante contrato escrito a celebrar, o empréstimo de 100000 contos, destinado à cobertura parcial dos investimentos no Plano, a realizar no aludido ano pela mesma Administração portuária.
+Artigo 1.º - 1. Fica a Administração dos Portos do Douro e Leixões autorizada a contrair na Caixa Geral de Depósitos, Crédito e Previdência, no decurso do ano corrente, mediante contrato escrito a celebrar, o empréstimo de 100000 contos, destinado à cobertura parcial dos investimentos no Plano, a realizar no aludido ano pela mesma Administração portuária.
 
 2. As importâncias utilizadas por força do empréstimo previsto no n.º 1 vencerão juros à taxa anual de 10,5%, que poderá ser alterada por acordo prévio de ambas as partes, dentro do limite legal em vigor à data da alteração, e serão amortizadas, juntamente com o pagamento dos juros, em vinte semestralidades, a primeira das quais ao fim de seis meses a partir da data da celebração do contrato.
 
-###### Art. 2.º - 1. Os juros e amortização do empréstimo constituem encargo obrigatório do Fundo de Melhoramentos, previsto no artigo 21.º alínea a), do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), de 20 de Julho de 1948, pelo que a Administração dos Portos do Douro e Leixões se obriga a inscrever, anualmente, as verbas necessárias para o efeito no orçamento especial daquele Fundo.
+Art. 2.º - 1. Os juros e amortização do empréstimo constituem encargo obrigatório do Fundo de Melhoramentos, previsto no artigo 21.º alínea a), do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), de 20 de Julho de 1948, pelo que a Administração dos Portos do Douro e Leixões se obriga a inscrever, anualmente, as verbas necessárias para o efeito no orçamento especial daquele Fundo.
 
 2. A Administração dos Portos do Douro e Leixões poderá, a todo o tempo, antecipar a amortização do empréstimo, desde que obtenha o acordo prévio da Caixa.
 
-###### Art. 3.º Para execução dos investimentos a realizar no corrente ano, é aberto no Ministério das Finanças um crédito especial no montante de 174500000$00, para reforço da seguinte dotação do orçamento do Ministério dos Transportes e Comunicações:
+Art. 3.º Para execução dos investimentos a realizar no corrente ano, é aberto no Ministério das Finanças um crédito especial no montante de 174500000$00, para reforço da seguinte dotação do orçamento do Ministério dos Transportes e Comunicações:
 
 Despesa extraordinária
 
 Investimentos do Plano
 
-### Capítulo 22.º «Administração dos Portos do Douro e Leixões»:
+Capítulo 22.º «Administração dos Portos do Douro e Leixões»:
 
 Transportes e Comunicações
 
@@ -119,25 +137,25 @@ Melhoria das infra-estruturas portuárias
 
 Despesas de capital:
 
-###### Artigo 381.º «Outras despesas de capital».
+Artigo 381.º «Outras despesas de capital».
 
-###### Art. 4.º Para compensação do reforço mencionado no artigo anterior, é adicionada igual quantia à rubrica descrita no capítulo 10.º, artigo 189.º «Fundos autónomos», do actual orçamento da receita extraordinária do Estado.
+Art. 4.º Para compensação do reforço mencionado no artigo anterior, é adicionada igual quantia à rubrica descrita no capítulo 10.º, artigo 189.º «Fundos autónomos», do actual orçamento da receita extraordinária do Estado.
 
-###### Art. 5.º À dotação descrita no artigo 1.º é aposta a seguinte observação:
+Art. 5.º À dotação descrita no artigo 1.º é aposta a seguinte observação:
 
 (17) Inclui 74500000$00 de receitas próprias e 100000000$00 de empréstimos da Caixa Geral de Depósitos.
 
-###### Art. 6.º São autorizadas alterações ao orçamento privativo do serviço, como segue:
+Art. 6.º São autorizadas alterações ao orçamento privativo do serviço, como segue:
 
 Receita extraordinária
 
 Receitas de capital:
 
-###### Artigo 11.º «Transferências - Sector público»:
+Artigo 11.º «Transferências - Sector público»:
 
 N.º 1 «Autofinanciamento» ... 74500000$00
 
-###### Artigo 12.º «Passivos financeiros - Empréstimos não titulados a longo prazo»:
+Artigo 12.º «Passivos financeiros - Empréstimos não titulados a longo prazo»:
 
 N.º 1 «Sector público: Caixa Geral de Depósitos» ... 100000000$00
 
@@ -147,14 +165,14 @@ Despesa extraordinária
 
 Despesas de capital:
 
-###### Artigo 36.º «Outras despesas de capital» ... 174500000$00
+Artigo 36.º «Outras despesas de capital» ... 174500000$00
 
-###### Art. 7.º O presente diploma entra imediatamente em vigor na data da sua publicação.
+Art. 7.º O presente diploma entra imediatamente em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 25 de Outubro de 1976.**
+Promulgado em 25 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/11/26300/17161730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,304 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f582796e36939c3abda71010f75bc8b04603582948f9e2f0df5e2f8cf34e3416
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 179bb68a6a31251cf9d3fad38d2f4569af199dee3991eae851487fc978f99915
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Serviço
+- Conselho de Tarifas dos Portos
+- Conselho Nacional de Trânsito
+- Conselho Superior de Obras Públicas e Transportes
+- Conselho Superior de Transportes Terrestres
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Portos
+- Direcção Geral de Viação
+- Direcção Geral dos Serviços Hidráulicos
+- Direcção Geral dos Transportes Terrestres
+- Exploração Portuária
+- Extinção de Serviços
+- Fundo Especial de Transportes Terrestres
+- Gabinete de Estudos e Planeamento
+- Gratificação
+- Integração de Trabalhadores
+- Junta Autónoma dos Portos
+- Junta Central de Portos
+- Ministério das Comunicações
+- Ministério das Obras Públicas
+- Ministro das Comunicações
+- Obras Públicas
+- Orgânica
+- Portos
+- Quadro de Pessoal
+- Receita Própria
+- Senha de Presença
+- Serviço de Estudos do Trânsito e Segurança Rodoviária
+- Substituição de Funções
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:638540:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:685590:por
+  label: "Dada nova redacção à al. f) do n.º 1 do art. 13.º, à al. a) do n.º 3 do art. 17.º e à al. f) do n.º 1 do art. 19.º\
+    \ e aditadas alíneas ao n.º 3 do art. 17.º e ao n.º 4 do art. 21.º do presente diploma, pelo Dec Lei.525/72.19.12.1972.MOPC,\
+    \ DG.IS [293] de 19.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/525-1972-685590
+  date: '1972-12-19'
+- type: amended_by
+  target: pt:dre:422209:por
+  label: "Alterada a alínea o) do n.º 1 do artigo 2.º pelo DEC LEI.246/73.17.05.1973.MOPC, DG.IS [116] de 17.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1973-422209
+  date: '1973-05-17'
+- type: amended_by
+  target: pt:dre:411280:por
+  label: "Alterado o nº1 do art. 13º e o quadro de pessoal da Direcção-Geral de transportes Terrestres, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.672/73.18.12.1973.MCOMN, DG.IS [293] de 18.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/672-1973-411280
+  date: '1973-12-18'
+- type: amended_by
+  target: pt:dre:283574:por
+  label: "Dada nova redacção à observação (ver nota d) aposta ao anexo IV deste diploma pelo DEC LEI.9/74.14.01.1974.MCOMN,\
+    \ DG.IS [11-Supl] de 14.01.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-1974-283574
+  date: '1974-01-14'
+- type: amended_by
+  target: pt:dre:492699:por
+  label: "Alterado o quadro do pessoal a que se refere o artigo 16.º e revogados os preceitos do presente diploma que contrariem\
+    \ o disposto no DR.3/77.07.01.1977.MTC, DR.IS [5] de 07.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/21-1977-492699
+  date: '1977-01-07'
+- type: amended_by
+  target: pt:dre:253177:por
+  label: Alterada e renumerada a al. a) constante no mapa anexo ao presente diploma, pelo(a) Portaria n.º 361/77 - Diário
+    da República n.º 139/1977, Série I de 1977-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/361-1977-253177
+  date: '1977-06-18'
+- type: amended_by
+  target: pt:dre:447950:por
+  label: Alterado o quadro de pessoal da Direcção-Geral de Viação, constante do mapa II anexo ao presente diploma, pelo(a)
+    Portaria n.º 31/78 - Diário da República n.º 13/1978, Série I de 1978-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-1978-447950
+  date: '1978-01-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 415/80 DE 19-JUL DR.IS [165]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-07-19'
+- type: amended_by
+  target: pt:dre:388428:por
+  label: "Dada nova redacção à alinea f) do nº 2 do art. 17º pelo DEC LEI.41/81.1981.03.07.MTC, DR.IS [55]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1981-388428
+  date: '1981-03-07'
+- type: amended_by
+  target: pt:dre:578306:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral de Viação, constante do mapa II anexo ao presente diploma, pela PORT.504/81.23.06.1981.MFP,\
+    \ DR.IS [141] de 23.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/504-1981-578306
+  date: '1981-06-23'
+- type: amended_by
+  target: pt:dre:378314:por
+  label: "Alterada a al. a) do n.º 3 do art. 17.º, a al. f) do n.º 1 do art. 19.º e aditados os n.ºs 6 e 7 ao art. 17.º e\
+    \ os n.ºs 5, 6 e 7 ao art. 19.º do presente diploma, na redacção do Dec Lei 525/72, de 19-Dez, pelo DEC LEI.439/82.03.11.1982.MHOPT,\
+    \ DR.IS [254] de 03.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/439-1982-378314
+  date: '1982-11-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUM 5 DO ART 2 PELO DEC LEI 177/87 DE 20-ABR DR.IS [263]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-20'
+- type: amended_by
+  target: pt:dre:666330:por
+  label: "Alterado o n.º 5 do artigo 2.º pelo DEC LEI.177/87.20.04.1987.MOPTC, DR.IS [91] de 20.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1987-666330
+  date: '1987-04-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 256/88 DE 27-ABR DR.IS-A [97]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-04-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTA A DIRECÇÃO GERAL DOS PORTOS, PELO DEC LEI 154/92 DR.IS-A [170]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-07-25'
+- type: amended_by
+  target: pt:dre:305260:por
+  label: Extinta a Direção Geral dos Portos pelo(a) Decreto-Lei n.º 154/92 - Diário da República n.º 170/1992, 1º Suplemento,
+    Série I-A de 1992-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDA AO CONSELHO SUPERIOR DE OBRAS PÚBLICAS E TRANSPORTES A COMPETENCIA PARA SE PRONUNCIAR SOBRE OS PROBLEMAS\
+    \ TÉCNICOS E ECONÓMICOS DOS MINISTÉRIOS DO PLANEAMENTO E DA ADMINISTRAÇÃO DO TERRITÓRIO, DA EDUCAÇÃO, DA SAÚDE E DO AMBIENTE,\
+    \ QUE OS RESPECTIVOS MINISTROS LHE SUBMETAM, CONFORME O DISPOSTO NO PRESENTE DIPLOMA, PELO DEC LEI 296-A/95 DE 17-NOV\
+    \ DR.IS-A [266] SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:219547:por
+  label: "Alterado o nº 5 do art. 2º pelo DEC LEI.171/96.1996.09.20.MEPAT, DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1996-219547
+  date: '1996-09-20'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Conselho Superior de Obras Públicas e Transportes criado pelo presente\
+    \ diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:545640:por
+  label: "Extinta a Direcção-Geral de Viação, criada pelo art. 7º do presente diploma e cuja orgânica consta do Dec Lei 484/99\
+    \ de 10-Nov, pelo DEC LEI.203/2006.27.10.2006.MAI, DR.IS [208] de 27.10.2006, nos termos do disposto no respectivo art.\
+    \ 16º, sendo as suas atribuições no domínio da prevenção e segurança rodoviárias e das contra-ordenações de trânsito integradas\
+    \ na Autoridade Nacional de Segurança Rodoviária, as suas atribuições relativas a veículos e condutores integradas no\
+    \ Insituto da Mobilidade e dos Transportes Terrestres e as restantes atribuições integradas no Instituto das Infra-Estruturas\
+    \ Rodoviárias, ambos no âmbito do MOPTC\0TC\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2006-545640
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:148061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693237:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:632270:por
+  label: "Rectificado pela RECT.DD37.1971.12.08.PC DG.IS [293] de 16.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-632270
+  date: '1971-12-08'
+- type: repealed_by
+  target: pt:dre:407334:por
+  label: "Revogada a alínea g) do n.º 1 do artigo 30.º e alterado o quadro do pessoal a que se refere o n.º 1 do artigo 11.º,\
+    \ pelo DEC.803/76.06.11.1976.MTC, DR.IS [260] de 06.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/803-1976-407334
+  date: '1976-11-06'
+- type: repealed_by
+  target: pt:dre:615852:por
+  label: "Revogada a alínea e) do artigo 30.º pelo DEC LEI.1-C/80.11.01.1980.MTC, DR.IS [9]Supl de 11.01.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-c-1980-615852
+  date: '1980-01-11'
+- type: repealed_by
+  target: pt:dre:474753:por
+  label: "Revogado n.º 4 do artigo 6.º, 29.º e 31.º a 34.º pelo DEC LEI.183/80.04.06.1980.MHOP, DR.IS [129] de 04.06.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1980-474753
+  date: '1980-06-04'
+- type: repealed_by
+  target: pt:dre:471914:por
+  label: "Revogados os arts. 21º e 22º pelo DEC LEI.218/80.1980.07.10.MTC, DR.IS [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1980-471914
+  date: '1980-07-10'
+- type: repealed_by
+  target: pt:dre:395896:por
+  label: "Revogados os artigos 24.º e 28.º pelo DEC LEI.229/82.16.06.1982.MHOPT, DR.IS [136] de 16.06.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1982-395896
+  date: '1982-06-16'
+- type: repealed_by
+  target: pt:dre:638540:por
+  label: "Revogado, a partir de 01.06.2007, pelo DR.62/2007.29.05.2007.MOPTC, DR.IS [103] de 29.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/62-2007-638540
+  date: '2007-05-29'
 article_structure:
-  article_count: 1
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:43Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +429,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I) Conselho Superior de Obras Públicas e Transportes
 
-###### Artigo 1.º - 1. O Conselho Superior de Obras Públicas e Transportes é um organismo de carácter técnico destinado a coadjuvar o Governo na resolução dos problemas relativos a obras públicas e a transportes, cabendo-lhe emitir pareceres sobre os projectos ou assuntos que, por imposição legal ou determinação dos Ministros das Obras Públicas ou das Comunicações, sejam submetidos à sua apreciação.
+Artigo 1.º - 1. O Conselho Superior de Obras Públicas e Transportes é um organismo de carácter técnico destinado a coadjuvar o Governo na resolução dos problemas relativos a obras públicas e a transportes, cabendo-lhe emitir pareceres sobre os projectos ou assuntos que, por imposição legal ou determinação dos Ministros das Obras Públicas ou das Comunicações, sejam submetidos à sua apreciação.
 
 2. O Conselho funciona no Ministério das Obras Públicas, na dependência directa do respectivo Ministro.
 
-###### Art. 2.º - 1. O Conselho Superior de Obras Públicas e Transportes terá a seguinte composição:
+Art. 2.º - 1. O Conselho Superior de Obras Públicas e Transportes terá a seguinte composição:
 
 a) Um presidente;
 
@@ -219,7 +483,7 @@ t) Um secretário, sem voto.
 
 5. Por cada sessão a que assistirem, os vogais referidos nas alíneas g) a s) do n.º 1, com excepção daqueles que pertençam à Secção Permanente, têm direito ao abono de 150$00.
 
-###### Art. 3.º O Conselho Superior de Obras Públicas e Transportes divide-se nas seguintes secções:
+Art. 3.º O Conselho Superior de Obras Públicas e Transportes divide-se nas seguintes secções:
 
 a) Secção Permanente;
 
@@ -235,7 +499,7 @@ d) 3.ª Secção (Urbanização e Edifícios), com duas subsecções:
 
 e) 4.ª Secção (Transportes).
 
-###### Art. 4.º - 1. A Secção Permanente será constituída pelo presidente e vice-presidente do Conselho Superior de Obras Públicas e Transportes, directores-gerais do Ministério das Obras Públicas, presidentes da Junta Autónoma de Estradas e do Fundo de Fomento da Habitação, director do Laboratório Nacional de Engenharia Civil, directores-gerais de Transportes Terrestres, de Viação e de Portos e director do Gabinete de Planeamento dos Ministérios das Obras Públicas e das Comunicações.
+Art. 4.º - 1. A Secção Permanente será constituída pelo presidente e vice-presidente do Conselho Superior de Obras Públicas e Transportes, directores-gerais do Ministério das Obras Públicas, presidentes da Junta Autónoma de Estradas e do Fundo de Fomento da Habitação, director do Laboratório Nacional de Engenharia Civil, directores-gerais de Transportes Terrestres, de Viação e de Portos e director do Gabinete de Planeamento dos Ministérios das Obras Públicas e das Comunicações.
 
 2. Por despacho ministerial, sob proposta do presidente do Conselho Superior de Obras Públicas e Transportes, baseada tanto quanto possível na respectiva especialização, serão os vogais referidos nas alíneas c), d), e) e f) do n.º 1 do artigo 2.º distribuídos da seguinte forma, podendo cada um fazer parte de mais uma secção:
 
@@ -251,7 +515,7 @@ e) 4.ª Secção (Transportes).
 
 4. Ao presidente da 3.ª Secção compete distribuir os respectivos vogais pelas Subsecções de Urbanização e Edifícios, de harmonia com as conveniências do serviço.
 
-###### Art. 5.º - 1. Compete ao Conselho Superior de Obras Públicas e Transportes emitir os pareceres de carácter técnico-económico que lhe forem solicitados pelos Ministros das Obras Públicas e das Comunicações, designadamente sobre:
+Art. 5.º - 1. Compete ao Conselho Superior de Obras Públicas e Transportes emitir os pareceres de carácter técnico-económico que lhe forem solicitados pelos Ministros das Obras Públicas e das Comunicações, designadamente sobre:
 
 a) Planos gerais, anteprojectos e projectos de obras públicas a realizar de conta do Estado ou com o concurso ou subsídio do Estado e alterações ou ampliações de projectos já aprovados;
 
@@ -281,7 +545,7 @@ h) Todos os restantes assuntos para os quais as leis e regulamentos exijam o seu
 
 7. A apreciação de assunto cujo estudo se não enquadre em qualquer das secções será confiada a um grupo de trabalho eventual, para o efeito constituído pelo Ministro das Obras Públicas, ou pelo Ministro das Comunicações, sob proposta do presidente do Conselho Superior de Obras Públicas e Transportes.
 
-###### Art. 6.º - 1. É aprovado o quadro do pessoal constante do mapa I anexo a este diploma e que dele faz parte integrante.
+Art. 6.º - 1. É aprovado o quadro do pessoal constante do mapa I anexo a este diploma e que dele faz parte integrante.
 
 2. O lugar de presidente do Conselho Superior de Obras Públicas e Transportes será preenchido por escolha do Ministro das Obras Públicas entre os engenheiros inspectores-gerais e inspectores superiores de obras públicas.
 
@@ -291,29 +555,29 @@ h) Todos os restantes assuntos para os quais as leis e regulamentos exijam o seu
 
 II) Direcção-Geral de Viação
 
-###### Art. 7.º É criada no Ministério das Comunicações a Direcção-Geral de Viação, que passa a exercer a competência que, em matéria de circulação rodoviária, é atribuída à Direcção-Geral de Transportes Terrestres pelo Código da Estrada, seu regulamento e disposições complementares, bem como a que lhe é conferida pelo Regulamento de Transportes em Automóveis e disposições complementares, no respeitante a material automóvel.
+Art. 7.º É criada no Ministério das Comunicações a Direcção-Geral de Viação, que passa a exercer a competência que, em matéria de circulação rodoviária, é atribuída à Direcção-Geral de Transportes Terrestres pelo Código da Estrada, seu regulamento e disposições complementares, bem como a que lhe é conferida pelo Regulamento de Transportes em Automóveis e disposições complementares, no respeitante a material automóvel.
 
-###### Art. 8.º - 1. A Direcção-Geral de Viação disporá dos seguintes serviços técnicos e administrativos:
+Art. 8.º - 1. A Direcção-Geral de Viação disporá dos seguintes serviços técnicos e administrativos:
 
 a) Direcção dos Serviços de Estudos, compreendendo:
 
 ##### Divisão de Circulação;
 
-##### Divisão de Segurança Rodoviária;
+Divisão de Segurança Rodoviária;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 b) Direcção dos Serviços de Condutores e Veículos, compreendendo:
 
 ##### Divisão de Condutores;
 
-##### Divisão de Veículos;
+Divisão de Veículos;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 c) Direcção dos Serviços Centrais, compreendendo:
 
-##### Divisão de Transgressões e Acidentes, com Secção de Transgressões, Secção de Acidentes e Secção de Cadastro;
+Divisão de Transgressões e Acidentes, com Secção de Transgressões, Secção de Acidentes e Secção de Cadastro;
 
 Repartição dos Serviços Administrativos, com Secção de Contabilidade, Secção de Expediente Geral e Pessoal e Secção de Relações Públicas;
 
@@ -333,7 +597,7 @@ Direcção de Viação da Horta, anexada à Direcção de Obras Públicas do Dis
 
 3. O Ministro das Comunicações poderá criar outras secções de viação além das previstas no presente diploma.
 
-###### Art. 9.º - 1. Junto da Direcção-Geral de Viação funcionará em órgão consultivo, designado Conselho Nacional de Trânsito, com a seguinte constituição:
+Art. 9.º - 1. Junto da Direcção-Geral de Viação funcionará em órgão consultivo, designado Conselho Nacional de Trânsito, com a seguinte constituição:
 
 a) O director-geral, que presidirá;
 
@@ -373,7 +637,7 @@ p) O chefe da Repartição dos Serviços Administrativos, que servirá de secret
 
 4. Os vogais do Conselho, com excepção dos funcionários da Direcção-Geral de Viação, têm direito a uma gratificação mensal, a fixar pelo Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
-###### Art. 10.º Além das atribuições que lhe possam vir a caber de harmonia com as leis e regulamentos, compete:
+Art. 10.º Além das atribuições que lhe possam vir a caber de harmonia com as leis e regulamentos, compete:
 
 a) À Divisão de Circulação: proceder a estudos e análises de tráfego; estabelecer planos de ordenamento e contrôle de tráfego; elaborar estudos de direito rodoviário;
 
@@ -389,47 +653,47 @@ f) À Repartição dos Serviços Administrativos: centralizar, informar e dar an
 
 g) Às direcções de viação: a inspecção e matrícula de veículos automóveis; emitir livretes; atribuir a lotação ou carga útil dos veículos inspeccionados; proceder a exames de candidatos a condutores de veículos, efectuando o respectivo registo e emitindo as cartas dos condutores aprovados.
 
-###### Art. 11.º - 1. É aprovado o quadro do pessoal constante do mapa II anexo a este diploma e que dele faz parte integrante.
+Art. 11.º - 1. É aprovado o quadro do pessoal constante do mapa II anexo a este diploma e que dele faz parte integrante.
 
 2. Os lugares de examinador de condução serão providos por concurso de provas práticas entre indivíduos com a habilitação mínima do curso completo das escolas industriais ou equivalente e que tenham obtido aproveitamento em curso especializado organizado pela Direcção-Geral de Viação.
 
 III) Direcção-Geral de Transportes Terrestres
 
-###### Art. 12.º À Direcção-Geral de Transportes Terrestres continuará a competir a coordenação e o desenvolvimento dos meios de transporte terrestres, em conformidade com a [Lei n.º 2008](https://diariodarepublica.pt/dr/detalhe/lei/2008-1945-468608), de 7 de Setembro de 1945, e legislação subsequente e complementar.
+Art. 12.º À Direcção-Geral de Transportes Terrestres continuará a competir a coordenação e o desenvolvimento dos meios de transporte terrestres, em conformidade com a [Lei n.º 2008](https://diariodarepublica.pt/dr/detalhe/lei/2008-1945-468608), de 7 de Setembro de 1945, e legislação subsequente e complementar.
 
-###### Art. 13.º - 1. A Direcção-Geral de Transportes Terrestres disporá dos seguintes serviços técnicos e administrativos:
+Art. 13.º - 1. A Direcção-Geral de Transportes Terrestres disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento;
 
 b) Direcção dos Serviços de Transportes, compreendendo:
 
-##### Divisão de Transportes Regulares;
+Divisão de Transportes Regulares;
 
-##### Divisão de Transportes Ocasionais;
+Divisão de Transportes Ocasionais;
 
-##### Divisão de Transportes Internacionais;
+Divisão de Transportes Internacionais;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 c) Direcção dos Serviços de Equipamento, compreendendo:
 
-##### Divisão de Equipamento Ferroviário;
+Divisão de Equipamento Ferroviário;
 
-##### Divisão de Instalações Rodoviárias;
+Divisão de Instalações Rodoviárias;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 d) Direcção dos Serviços de Liquidação, compreendendo:
 
-##### Divisão de Liquidação, com a Secção de Expediente, a Secção de Liquidação e a Secção de Reclamações;
+Divisão de Liquidação, com a Secção de Expediente, a Secção de Liquidação e a Secção de Reclamações;
 
-##### Divisão de Mecanografia;
+Divisão de Mecanografia;
 
 e) Repartição dos Serviços Administrativos, compreendendo:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Expediente Geral e Pessoal;
+Secção de Expediente Geral e Pessoal;
 
 f) Serviços externos, compreendendo as Direcções de Transportes do Norte, do Centro, de Lisboa e do Sul, com sedes, respectivamente, no Porto, em Coimbra, em Lisboa e em Évora.
 
@@ -437,7 +701,7 @@ f) Serviços externos, compreendendo as Direcções de Transportes do Norte, do 
 
 3. O Ministro das Comunicações poderá determinar que, transitòriamente, a competência das direcções de transportes seja exercida pelas direcções de viação.
 
-###### Art. 14.º - 1. Junto da Direcção-Geral de Transportes Terrestres funcionará um conselho consultivo, com a seguinte constituição:
+Art. 14.º - 1. Junto da Direcção-Geral de Transportes Terrestres funcionará um conselho consultivo, com a seguinte constituição:
 
 a) O director-geral, que presidirá;
 
@@ -475,7 +739,7 @@ o) O chefe da Repartição dos Serviços Administrativos, que servirá de secret
 
 4. Os vogais do conselho, com excepção dos funcionários da Direcção-Geral de Transportes Terrestres, têm direito a uma gratificação mensal, a fixar pelo Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
-###### Art. 15.º Além das atribuições que lhe possam vir a caber de harmonia com as leis e regulamentos, compete:
+Art. 15.º Além das atribuições que lhe possam vir a caber de harmonia com as leis e regulamentos, compete:
 
 a) Ao Gabinete de Estudos e Planeamento: elaborar estudos da procura de transportes terrestres de passageiros e mercadorias; elaborar estudos de custos e contas nacionais de transportes; elaborar estudos de ordenamento e repartição do tráfego e estabelecer bases de sistemas tarifários; fornecer, sob a forma de estudos da sua especialidade, o necessário apoio às restantes direcções de serviços, nomeadamente em matéria de exploração, de equipamento e de fiscalidade; assegurar as ligações com o Gabinete de Planeamento dos Ministérios das Obras Públicas e das Comunicações e com o Secretariado Técnico da Presidência do Conselho em quanto respeite à organização e à execução dos planos de fomento;
 
@@ -497,11 +761,11 @@ i) À Repartição dos Serviços Administrativos: centralizar, informar e dar an
 
 j) Às direcções de transportes: assegurar a recepção de requerimentos sobre matéria da competência dos Serviços Centrais; efectuar a passagem de licenças de transporte concedidas pelos Serviços Centrais; conceder licenças de transportes, cuja competência lhes seja atribuída; promover o estudo e informação de problemas referentes ao sector dos transportes, afectos à respectiva área de jurisdição; fiscalizar o cumprimento das leis e regulamentos sobre transportes rodo e ferroviários.
 
-###### Art. 16.º É aprovado o quadro do pessoal constante do mapa III anexo a este diploma e que dele faz parte integrante.
+Art. 16.º É aprovado o quadro do pessoal constante do mapa III anexo a este diploma e que dele faz parte integrante.
 
 IV) Fundo Especial de Transportes Terrestres
 
-###### Art. 17.º - 1. O Fundo Especial de Transportes Terrestres, adiante designado por Fundo, criado pelo [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, goza de personalidade jurídica e de autonomia administrativa e financeira, funcionando na dependência directa do Ministro das Comunicações.
+Art. 17.º - 1. O Fundo Especial de Transportes Terrestres, adiante designado por Fundo, criado pelo [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, goza de personalidade jurídica e de autonomia administrativa e financeira, funcionando na dependência directa do Ministro das Comunicações.
 
 2. O Fundo tem por objectivo prestar assistência financeira à política de desenvolvimento e coordenação dos transportes terrestres, competindo-lhe, designadamente:
 
@@ -549,7 +813,7 @@ O Fundo consignará prioritàriamente ao pagamento desses compromissos ou obriga
 
 5. O Fundo condicionará correlativamente a sua intervenção nas respectivas operações de crédito à prestação, por via contratual, da garantia de que as entidades devedoras consignarão com prioridade, ao reembolso ou pagamento directo dos juros, amortizações e demais encargos resultantes daquelas operações, a parte necessária das suas receitas próprias e dos financiamentos que lhes vierem a ser facultados ou ainda a parte disponível dos seus saldos de exploração.
 
-###### Art. 18.º - 1. A actividade do Fundo será regulada por:
+Art. 18.º - 1. A actividade do Fundo será regulada por:
 
 a) Programas financeiros plurianuais, móveis, dos quais constarão, discriminados, os recursos e as correspondentes utilizações previstas;
 
@@ -563,7 +827,7 @@ c) Orçamentos anuais.
 
 4. Os orçamentos suplementares de aplicação dos saldos de que trata o número anterior não serão contados para a determinação do número máximo desses orçamentos que é permitido elaborar em cada ano.
 
-###### Art. 19.º - 1. Constituem receitas do Fundo:
+Art. 19.º - 1. Constituem receitas do Fundo:
 
 a) 90 por cento do produto do imposto ferroviário;
 
@@ -595,7 +859,7 @@ l) Quaisquer outras receitas que, por lei, contrato ou a qualquer outro título,
 
 4. As operações de crédito previstas no n.º 1, alínea f), deste artigo, serão reguladas por forma que a totalidade dos encargos de qualquer espécie sucessivamente contraídos caiba nas disponibilidades do Fundo, sem se terem em conta os produtos de empréstimos nem os aumentos que acidentalmente tais disponibilidades possam ter.
 
-###### Art. 20.º - 1. As receitas do Fundo serão entregues nos termos seguintes:
+Art. 20.º - 1. As receitas do Fundo serão entregues nos termos seguintes:
 
 a) O produto da participação no imposto ferroviário a entregar pelas empresas exploradoras de caminhos de ferro será depositado mensalmente nos cofres do Estado, mediante guias passadas pela Direcção-Geral de Transportes Terrestres;
 
@@ -609,7 +873,7 @@ c) As receitas previstas na alínea e) e seguintes do artigo anterior serão dep
 
 4. Os serviços do Fundo farão a escritura das receitas arrecadadas, segundo as rubricas do seu orçamento, habilitando mensalmente o conselho administrativo com os dados relativos à comparação entre a previsão orçamental e a liquidação e cobrança efectuadas por conta de cada rubrica.
 
-###### Art. 21.º - 1. O Fundo será gerido por um conselho administrativo.
+Art. 21.º - 1. O Fundo será gerido por um conselho administrativo.
 
 2. Compõem o conselho administrativo:
 
@@ -671,7 +935,7 @@ b) Exercer a competência do presidente que por este lhe seja delegada.
 
 9. Os membros do conselho administrativo, quando tenham de se deslocar no desempenho das suas funções, terão direito ao abono de transportes e ajudas de custo, nos termos da legislação vigente.
 
-###### Art. 22.º - 1. O lugar de presidente do Fundo será preenchido, mediante livre escolha do Ministro das Comunicações, de entre diplomados com curso superior adequado ao exercício das respectivas funções, cabendo-lhe o ordenado fixado para a letra B.
+Art. 22.º - 1. O lugar de presidente do Fundo será preenchido, mediante livre escolha do Ministro das Comunicações, de entre diplomados com curso superior adequado ao exercício das respectivas funções, cabendo-lhe o ordenado fixado para a letra B.
 
 2. O presidente do Fundo poderá desempenhar o cargo em regime de acumulação com outras funções públicas, sendo nesse caso remunerado por gratificação de montante a fixar pelo Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
@@ -681,7 +945,7 @@ b) Exercer a competência do presidente que por este lhe seja delegada.
 
 5. O pessoal dos quadros do Ministério das Comunicações que for colocado no Fundo será considerado em comissão de serviço pelo tempo fixado pelo Ministro, podendo as respectivas vagas ser preenchidas, interinamente, nas categorias e classes respectivas.
 
-###### Art. 23.º É revogada a seguinte legislação:
+Art. 23.º É revogada a seguinte legislação:
 
 Artigos 21.º a 28.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951;
 
@@ -697,7 +961,7 @@ Artigos 21.º a 28.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/d
 
 V) Direcção-Geral de Portos
 
-###### Art. 24.º - 1. É criada no Ministério das Comunicações a Direcção-Geral de Portos, que passa a exercer a competência atribuída à Junta Central de Portos e à Direcção-Geral dos Serviços Hidráulicos, em matéria de portos e costas marítimas.
+Art. 24.º - 1. É criada no Ministério das Comunicações a Direcção-Geral de Portos, que passa a exercer a competência atribuída à Junta Central de Portos e à Direcção-Geral dos Serviços Hidráulicos, em matéria de portos e costas marítimas.
 
 2. Sem prejuízo do estabelecido na base III da [Lei n.º 2035](https://diariodarepublica.pt/dr/detalhe/lei/2035-1949-260163), de 30 de Julho de 1949, quanto aos portos de Lisboa e do Douro e Leixões, compete especialmente à Direcção-Geral de Portos:
 
@@ -735,7 +999,7 @@ p) De um modo geral, estabelecer a ligação administrativa entre as juntas e o 
 
 q) Exercer todas as demais funções até agora da competência dos serviços do Ministério das Obras Públicas relativos a portos e costas marítimas, incluindo os respeitantes ao domínio público marítimo.
 
-###### Art. 25.º A Direcção-Geral de Portos disporá dos seguintes serviços técnicos e administrativos:
+Art. 25.º A Direcção-Geral de Portos disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento;
 
@@ -743,29 +1007,29 @@ b) Direcção dos Serviços de Exploração, compreendendo:
 
 ##### Divisão de Tráfego;
 
-##### Divisão de Equipamentos;
+Divisão de Equipamentos;
 
 ##### Divisão de Dragagens;
 
-##### Divisão de Licenças;
+Divisão de Licenças;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 c) Direcção dos Serviços de Obras, compreendendo:
 
-##### Divisão de Estudos e Projectos;
+Divisão de Estudos e Projectos;
 
-##### Divisão de Construção e Conservação;
+Divisão de Construção e Conservação;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 d) Repartição dos Serviços Administrativos, compreendendo:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Expediente Geral e Pessoal.
+Secção de Expediente Geral e Pessoal.
 
-###### Art. 26.º - 1. Junto da Direcção-Geral de Portos funcionará um conselho consultivo, com a seguinte constituição:
+Art. 26.º - 1. Junto da Direcção-Geral de Portos funcionará um conselho consultivo, com a seguinte constituição:
 
 a) O director-geral, que servirá de presidente;
 
@@ -799,19 +1063,19 @@ n) O chefe da Repartição dos Serviços Administrativos, que servirá de secret
 
 3. Os vogais do conselho, com excepção dos funcionários da Direcção-Geral de Portos, têm direito a uma gratificação mensal a fixar pelo Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
-###### Art. 27.º - 1. É aprovado o quadro do pessoal constante do mapa IV anexo a este diploma e que dele faz parte integrante.
+Art. 27.º - 1. É aprovado o quadro do pessoal constante do mapa IV anexo a este diploma e que dele faz parte integrante.
 
 2. A distribuição do pessoal técnico, administrativo e auxiliar pela Direcção-Geral de Portos e pelas diferentes juntas autónomas será feita por despacho do Ministro das Comunicações, ouvidas as juntas.
 
 3. Salvo o disposto na alínea f) do artigo 30.º do presente diploma, é da competência do director-geral de Portos a colocação do pessoal do quadro na Direcção-Geral e nas juntas autónomas.
 
-###### Art. 28.º - 1. Até 31 de Outubro de cada ano será fixada pelo Ministro das Comunicações, com o acordo do Ministro das Finanças, a importância da contribuição de cada junta autónoma para as despesas da Direcção-Geral de Portos.
+Art. 28.º - 1. Até 31 de Outubro de cada ano será fixada pelo Ministro das Comunicações, com o acordo do Ministro das Finanças, a importância da contribuição de cada junta autónoma para as despesas da Direcção-Geral de Portos.
 
 2. Essas contribuições constituirão receita do Estado e serão entregues nos cofres do Tesouro mediante guias passadas pela 12.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
 VI) Disposições comuns e gerais
 
-###### Art. 29.º - 1. Para a admissão aos lugares abaixo designados serão exigíveis as seguintes habilitações mínimas, ou outras equivalentes ou que vierem a corresponder-lhes:
+Art. 29.º - 1. Para a admissão aos lugares abaixo designados serão exigíveis as seguintes habilitações mínimas, ou outras equivalentes ou que vierem a corresponder-lhes:
 
 a) Técnicos: curso superior adequado;
 
@@ -833,7 +1097,7 @@ i) Operador-chefe de máquinas auxiliares e operador de máquinas auxiliares: ci
 
 2. As habilitações dos cursos especiais referidos no número anterior serão comprovadas por certificado passado pela entidade que tenha contratado com o Estado o aluguer do equipamento a utilizar, ou por certificado que aquela entidade reconheça como equivalente.
 
-###### Art. 30.º - 1. São preenchidos por escolha do Ministro das Comunicações os seguintes lugares das Direcções-Gerais de Transportes Terrestres, de Viação e de Portos:
+Art. 30.º - 1. São preenchidos por escolha do Ministro das Comunicações os seguintes lugares das Direcções-Gerais de Transportes Terrestres, de Viação e de Portos:
 
 a) Directores-gerais - em comissão de serviço, entre engenheiros inspectores-gerais de obras públicas, engenheiros inspectores superiores de obras públicas, subdirectores-gerais e engenheiros directores de serviços dos quadros do Ministério das Comunicações ou engenheiros de reconhecida competência estranhos aos quadros;
 
@@ -851,31 +1115,31 @@ g) Directores de viação - em comissão de serviço, entre engenheiros-chefes o
 
 2. As nomeações para os cargos referidos nas alíneas b), c), d) e e) do número anterior só poderão tornar-se definitivas depois de um ano de bom e efectivo serviço.
 
-###### Art. 31.º As funções de director-geral, de presidente da Junta Autónoma de Estradas e de presidente do Fundo de Fomento da Habitação, do Ministério das Obras Públicas, e de director-geral de Transportes Terrestres, de Viação e de Portos, do Ministério das Comunicações, serão exercidas em comissão, pelo período de três anos, sucessivamente renovável, podendo os respectivos Ministros dar a comissão por finda a todo o tempo.
+Art. 31.º As funções de director-geral, de presidente da Junta Autónoma de Estradas e de presidente do Fundo de Fomento da Habitação, do Ministério das Obras Públicas, e de director-geral de Transportes Terrestres, de Viação e de Portos, do Ministério das Comunicações, serão exercidas em comissão, pelo período de três anos, sucessivamente renovável, podendo os respectivos Ministros dar a comissão por finda a todo o tempo.
 
-###### Art. 32.º - 1. Por escolha do Ministro das Obras Públicas, os subdirectores-gerais dos serviços dos Ministérios das Obras Públicas e das Comunicações poderão ser investidos em lugares de engenheiros inspectores superiores de obras públicas.
+Art. 32.º - 1. Por escolha do Ministro das Obras Públicas, os subdirectores-gerais dos serviços dos Ministérios das Obras Públicas e das Comunicações poderão ser investidos em lugares de engenheiros inspectores superiores de obras públicas.
 
 2. A escolha de engenheiros do Ministério das Comunicações carece da aprovação do respectivo Ministro.
 
-###### Art. 33.º - 1. Os lugares de tesoureiro serão preenchidos por escolha do Ministro entre os oficiais de secretaria e os escriturários-dactilógrafos dos quadros dos respectivos organismos.
+Art. 33.º - 1. Os lugares de tesoureiro serão preenchidos por escolha do Ministro entre os oficiais de secretaria e os escriturários-dactilógrafos dos quadros dos respectivos organismos.
 
 2. Os tesoureiros terão direito ao abono mensal de 400$00 para falhas.
 
-###### Art. 34.º Quando a um cargo correspondam alternativamente duas classes, os funcionários respectivos poderão ser promovidos mediante concurso, depois de três anos de bom e efectivo serviço na categoria e na classe de admissão.
+Art. 34.º Quando a um cargo correspondam alternativamente duas classes, os funcionários respectivos poderão ser promovidos mediante concurso, depois de três anos de bom e efectivo serviço na categoria e na classe de admissão.
 
-###### Art. 35.º O Ministro das Comunicações fixará, por despacho, a distribuição dos adjuntos técnicos de cada quadro, por especialidades, segundo as necessidades dos serviços.
+Art. 35.º O Ministro das Comunicações fixará, por despacho, a distribuição dos adjuntos técnicos de cada quadro, por especialidades, segundo as necessidades dos serviços.
 
-###### Art. 36.º A organização dos serviços da Direcção-Geral de Transportes Terrestres, da Direcção-Geral de Viação e da Direcção-Geral de Portos e a composição dos quadros de pessoal poderão ser alterados por decreto do Ministro das Comunicações, desde que daí não resulte aumento de despesa.
+Art. 36.º A organização dos serviços da Direcção-Geral de Transportes Terrestres, da Direcção-Geral de Viação e da Direcção-Geral de Portos e a composição dos quadros de pessoal poderão ser alterados por decreto do Ministro das Comunicações, desde que daí não resulte aumento de despesa.
 
-###### Art. 37.º As direcções-gerais do Ministério das Comunicações e o Fundo Especial de Transportes Terrestres poderão contratar ou ajustar com entidades ou indivíduos a elas estranhos a realização de estudos ou trabalhos e a elaboração de pareceres, anteprojectos ou projectos, inquéritos ou outros trabalhos de carácter técnico ou económico, em regime de prestação eventual de serviços ou tarefa.
+Art. 37.º As direcções-gerais do Ministério das Comunicações e o Fundo Especial de Transportes Terrestres poderão contratar ou ajustar com entidades ou indivíduos a elas estranhos a realização de estudos ou trabalhos e a elaboração de pareceres, anteprojectos ou projectos, inquéritos ou outros trabalhos de carácter técnico ou económico, em regime de prestação eventual de serviços ou tarefa.
 
-###### Art. 38.º É suprimida a Direcção dos Serviços Marítimos na orgânica da Direcção-Geral dos Serviços Hidráulicos, cujo quadro de pessoal passa a ser o constante do mapa V anexo ao presente diploma.
+Art. 38.º É suprimida a Direcção dos Serviços Marítimos na orgânica da Direcção-Geral dos Serviços Hidráulicos, cujo quadro de pessoal passa a ser o constante do mapa V anexo ao presente diploma.
 
-###### Art. 39.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas ou do Ministro das Comunicações, consoante a competência.
+Art. 39.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas ou do Ministro das Comunicações, consoante a competência.
 
 VII) Disposições transitórias
 
-###### Art. 40.º - 1. O primeiro preenchimento das vagas dos quadros aprovados por este diploma poderá ser feito:
+Art. 40.º - 1. O primeiro preenchimento das vagas dos quadros aprovados por este diploma poderá ser feito:
 
 a) De entre funcionários vitalícios e contratados dos quadros do Conselho Superior de Obras Públicas, da Direcção-Geral de Transportes Terrestres, da Junta Central de Portos e da Direcção-Geral dos Serviços Hidráulicos;
 
@@ -889,13 +1153,13 @@ b) De entre pessoal do Conselho Superior de Obras Públicas, da Direcção-Geral
 
 5. A integração do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 41.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Comunicações autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
+Art. 41.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Comunicações autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
 
 2. O Ministro das Comunicações poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários, em número suficiente, com o tempo mínimo de serviço referido na disposição anterior.
 
-###### Art. 42.º O actual presidente da Junta Central de Portos é colocado, com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas e posse, como presidente do Fundo Especial de Transportes Terrestres.
+Art. 42.º O actual presidente da Junta Central de Portos é colocado, com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas e posse, como presidente do Fundo Especial de Transportes Terrestres.
 
-###### Art. 43.º - 1. Ingressam no quadro do Conselho Superior de Obras Públicas:
+Art. 43.º - 1. Ingressam no quadro do Conselho Superior de Obras Públicas:
 
 a) Como inspector-geral de obras públicas e presidente da 4.ª Secção (Transportes), o engenheiro que exerce actualmente o cargo de presidente do conselho directivo do Gabinete de Estudos e Planeamento de Transportes Terrestres;
 
@@ -903,7 +1167,7 @@ b) Como inspectores superiores de obras públicas, os engenheiros que exercem ac
 
 2. É integrado no quadro do Conselho Superior de Obras Públicas a que se refere o mapa I o pessoal referido no artigo 15.º do [Decreto-Lei n.º 35196](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35196-1945-219712), de 24 de Novembro de 1945, com a redacção do [Decreto-Lei n.º 44393](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44393-1962-164836), de 9 de Junho de 1962.
 
-###### Art. 44.º São extintos:
+Art. 44.º São extintos:
 
 a) O Conselho Superior de Transportes Terrestres;
 
@@ -917,9 +1181,9 @@ e) A Comissão de Reorganização e Simplificação de Serviços, criada pelo [D
 
 f) O Serviço de Estudos de Trânsito e Segurança Rodoviária, criado pela [Portaria n.º 23220](https://diariodarepublica.pt/dr/detalhe/portaria/23220-1968-233687), de 12 de Fevereiro de 1968.
 
-###### Art. 45.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1972, podendo, todavia, ser publicadas antes dessa data, mas para produzirem efeitos a partir da mesma, as listas a que se refere o artigo 40.º
+Art. 45.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1972, podendo, todavia, ser publicadas antes dessa data, mas para produzirem efeitos a partir da mesma, as listas a que se refere o artigo 40.º
 
-###### Art. 46.º Os encargos resultantes deste diploma que não tenham cabimento nas respectivas dotações do Orçamento Geral do Estado serão suportados da seguinte forma:
+Art. 46.º Os encargos resultantes deste diploma que não tenham cabimento nas respectivas dotações do Orçamento Geral do Estado serão suportados da seguinte forma:
 
 a) Os referentes ao Conselho Superior de Obras Públicas e Transportes, nos termos do artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968;
 
@@ -927,14 +1191,14 @@ b) Os respeitantes às Direcções-Gerais de Viação e de Transportes Terrestre
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 27 de Outubro de 1971.**
+Promulgado em 27 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26300/17161730.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26300/17161730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26300/17161730.pdf)
 
-**O Ministro das Obras Públicas e das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas e das Comunicações, Rui Alves da Silva Sanches.

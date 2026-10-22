@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30200/31293153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1977-276612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4adf82ca85fb44efeba21b2ca3d65a0c94923f92fc450e3c78df6bbc6343a981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d3f2b63dccae4ae26319550e69f9fe3455e7531853cdc7290f76a02c1549dbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297410:por
+  label: "Alterado o nº 3 do art. 2º do presente diploma, na redacção que conferiu ao Dec Lei 42656 de 18-Nov de 1959, pelo\
+    \ DEC LEI.186/78.19.07.1978.MFP, DR.IS [164] de 19.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1978-297410
+  date: '1978-07-19'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:210661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598125:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:425334:por
+  label: Retificados a als. b) e c) da regra 3 nas regras gerais para interpretação da Pauta constantes do art. 1.º, a nota
+    1 do cap. 4.º, a nota 5 do cap. 5.º, a nota 2 do cap. 12.º, a posição 17.02 do cap. 17.º, a subposição 19.07.02 do cap.
+    19.º, a al. d) da nota 1 do cap. 21.º, o n.º 3º da nota 3 da secção VI, a al. h) da nota 3 e a subposição 28.58.01 do
+    cap. 28.º, as als. h) da notas 1 e 2 do cap. 29.º, a posição 33.01. e a subposição 33.01.03 do cap. 33.º, a posição 35.04
+    do cap. 35.º, as posições 38.03 e 38.09 e a subposição 38.09.02 do cap. 38.º, a última linha do cap. 39.º. a nota à subposição
+    41.02.05 do cap. 41.º, a nota 1 do cap. 42.º, a subposições 44.09.01 e 44.28.04 do cap. 44.º, a posição 48.01., a nota
+    à subposição 48.07.09 e a posição 48.16 do cap. 48.º, a subposição 49.11.09 do cap. 49.º, a posição 50.07 do cap. 50.º,
+    as subposições 57.07.05 e 57.11.06 do cap. 57.º, a nota «Pedras de amolar ou polir» do cap. 68.º, a al. j) da nota 3 e
+    a nota 5 do cap. 71.º, a al. b) da regra 3 e a regra 3 da secção XV, o cap. 73.º, a subposição 74.11.01, a posição 74.15,
+    e a subposição 74.19.02 do cap. 74.º, a posição 82.09 do cap. 82.º, o cap. 85.º, a secção XVIII, o cap. 92.º, a subposição
+    92.11.03 do cap. 92.º, a al. b) da nota 2, a subposição 95.05.09, a referência «Outras matérias» antes da subposição 95.08.05
+    e a subposição 95.08.05, todas do cap. 95.º, a posição 96.01. do cap. 96.º e o n.º 1 do art. 2.º pelo(a) Declaração -
+    Diário da República n.º 83/1978, Série I de 1978-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-425334
+  date: '1978-04-10'
 article_structure:
-  article_count: 1
-  section_count: 77
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 69
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:11Z'
   warnings: []
   errors: []
 ---
@@ -94,31 +154,31 @@ Havendo vantagem em suprir ou actualizar o texto da Pauta dos Direitos de Import
 
 Usando da autorização conferida pela [Lei n.º 24/77](https://diariodarepublica.pt/dr/detalhe/lei/24-1977-345164), de 18 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alteradas, pela forma seguinte, as redacções das secções, capítulos, notas, posições e subposições da Pauta dos Direitos de Importação:
+Artigo 1.º São alteradas, pela forma seguinte, as redacções das secções, capítulos, notas, posições e subposições da Pauta dos Direitos de Importação:
 
 SUMÁRIO
 
 #### SECÇÃO II - ...:
 
-### CAPÍTULO 13.º - Gomas, resinas e outros sucos e extractos vegetais.
+CAPÍTULO 13.º - Gomas, resinas e outros sucos e extractos vegetais.
 
-### CAPÍTULO 14.º - Matérias para entrançamento e produtos não especificados de origem vegetal.
+CAPÍTULO 14.º - Matérias para entrançamento e produtos não especificados de origem vegetal.
 
 #### SECÇÃO VI - ...:
 
-### CAPÍTULO 35.º - Matérias albuminóides, colas e enzimas.
+CAPÍTULO 35.º - Matérias albuminóides, colas e enzimas.
 
-#### SECÇÃO XII - Calçado; chapéus e artefactos de uso semelhante; guarda-chuvas e guarda-sóis; penas de adorno preparadas e respectivas obras; flores artificiais; obras de cabelo:
+SECÇÃO XII - Calçado; chapéus e artefactos de uso semelhante; guarda-chuvas e guarda-sóis; penas de adorno preparadas e respectivas obras; flores artificiais; obras de cabelo:
 
-### CAPÍTULO 67.º - Penas de adorno preparadas e respectivas obras; flores artificiais; obras de cabelo.
+CAPÍTULO 67.º - Penas de adorno preparadas e respectivas obras; flores artificiais; obras de cabelo.
 
-#### SECÇÃO XVIII - Instrumentos e aparelhos de óptica, fotografia e cinematografia, medida, verificação e precisão; instrumentos e aparelhos médico-cirúrgicos; relojoaria; instrumentos músicos; aparelhos de registo ou de reprodução de som; aparelhos utilizados em televisão para registo ou reprodução de imagens e de som:
+SECÇÃO XVIII - Instrumentos e aparelhos de óptica, fotografia e cinematografia, medida, verificação e precisão; instrumentos e aparelhos médico-cirúrgicos; relojoaria; instrumentos músicos; aparelhos de registo ou de reprodução de som; aparelhos utilizados em televisão para registo ou reprodução de imagens e de som:
 
-### CAPÍTULO 92.º - Instrumentos músicos; aparelhos de registo ou de reprodução de som; aparelhos utilizados em televisão para registo ou reprodução de imagens e de som; partes e acessórios destes instrumentos e aparelhos.
+CAPÍTULO 92.º - Instrumentos músicos; aparelhos de registo ou de reprodução de som; aparelhos utilizados em televisão para registo ou reprodução de imagens e de som; partes e acessórios destes instrumentos e aparelhos.
 
 #### SECÇÃO XX - ...:
 
-### CAPÍTULO 96.º - Escovas, pincéis, vassouras, borlas, peneiros e crivos.
+CAPÍTULO 96.º - Escovas, pincéis, vassouras, borlas, peneiros e crivos.
 
 Regras gerais para interpretação da Pauta
 
@@ -3798,7 +3858,7 @@ Pauta mínima - Quilograma, 32$00.
 
 (nota a) Alterada pelo [Decreto-Lei n.º 315/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1977-255450), de 5 de Agosto.
 
-###### Art. 2.º - 1 - São eliminadas do texto da pauta de importação as seguintes posições: 05.06, 05.10, 05.11, 11.03, 11.06, 12.05, 13.01, 14.04, 15.09, 15.14, 17.05, 19.01, 19.06, 21.01, 25.09, 25.25, 25.29, 27.05, 28.07, 28.11, 28.26, 28.33, 28.34, 28.41, 28.53, 29.17, 29.18, 29.20, 29.32, 29.40, 32.02, 33.02, 33.05, 36.03, 36.07, 37.06, 38.02, 38.04, 38.10, 41.07, 44.06, 44.08, 44.10, 46.01, 48.02, 48.06, 48.09, 48.17, 50.06, 50.08, 50.10, 53.13, 57.05, 57.08, 57.09, 57.12, 59.09, 61.08, 67.05, 68.05, 70.02, 73.28, 73.39, 74.09, 74.12, 74.13, 74.14, 76.13, 76.14, 77.03, 79.05, 82.10, 83.10, 83.12, 84.04, 86.01, 92.09, 95.01, 95.02, 95.03, 95.04, 95.06, 95.07, 96.02, 96.03, 96.04 e 98.13.
+Art. 2.º - 1 - São eliminadas do texto da pauta de importação as seguintes posições: 05.06, 05.10, 05.11, 11.03, 11.06, 12.05, 13.01, 14.04, 15.09, 15.14, 17.05, 19.01, 19.06, 21.01, 25.09, 25.25, 25.29, 27.05, 28.07, 28.11, 28.26, 28.33, 28.34, 28.41, 28.53, 29.17, 29.18, 29.20, 29.32, 29.40, 32.02, 33.02, 33.05, 36.03, 36.07, 37.06, 38.02, 38.04, 38.10, 41.07, 44.06, 44.08, 44.10, 46.01, 48.02, 48.06, 48.09, 48.17, 50.06, 50.08, 50.10, 53.13, 57.05, 57.08, 57.09, 57.12, 59.09, 61.08, 67.05, 68.05, 70.02, 73.28, 73.39, 74.09, 74.12, 74.13, 74.14, 76.13, 76.14, 77.03, 79.05, 82.10, 83.10, 83.12, 84.04, 86.01, 92.09, 95.01, 95.02, 95.03, 95.04, 95.06, 95.07, 96.02, 96.03, 96.04 e 98.13.
 
 2 - São eliminadas a nota à posição 01.02, a nota à subposição 02.01.01, a nota à posição 03.02, a nota *3 ao capítulo 8.º, a nota à posição 16.04, a nota à subposição 17.03.02, a nota 1 à subposição 17.03.03, a nota *3 ao capítulo 22.º, a nota à posição 44.03 e a alínea d) da nota 2 ao capítulo 67.º
 
@@ -3806,7 +3866,7 @@ Pauta mínima - Quilograma, 32$00.
 
 b) É eliminada a alínea b) da nota ao capítulo 95.º; as actuais alíneas c) a n) passam a b) a m).
 
-###### Art. 3.º - 1 - Nas notas às posições 03.01 e 03.03, à subposição 03.02.03 e à posição 16.05, substituir Direcção-Geral do Comércio por Direcção-Geral do Comércio Externo.
+Art. 3.º - 1 - Nas notas às posições 03.01 e 03.03, à subposição 03.02.03 e à posição 16.05, substituir Direcção-Geral do Comércio por Direcção-Geral do Comércio Externo.
 
 2 - Na nota à posição 15.02, eliminar Ministério do Ultramar e substituir Ministério da Economia por Ministério do Comércio e Turismo.
 
@@ -3816,16 +3876,16 @@ b) É eliminada a alínea b) da nota ao capítulo 95.º; as actuais alíneas c) 
 
 5 - Nas notas às subposições 40.08.02, 41.02.01, 41.02.02, 41.02.03, às posições 41.06 e 41.08 e às subposições 59.08.01, 64.05.02, 64.05.03 e 64.05.04, substituir Secretário de Estado do Comércio por Secretário de Estado do Comércio Externo.
 
-###### Art. 4.º É estabelecida pela forma indicada na lista seguinte a correspondência entre as posições transferidas ou eliminadas e as novas posições resultantes:
+Art. 4.º É estabelecida pela forma indicada na lista seguinte a correspondência entre as posições transferidas ou eliminadas e as novas posições resultantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30200/31293153.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30200/31293153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30200/31293153.pdf)
 
-###### Art. 5.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1978.
+Art. 5.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1978.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 20 de Dezembro de 1977.**
+Promulgado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

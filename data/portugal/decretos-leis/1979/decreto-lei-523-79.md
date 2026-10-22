@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30000/34633466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1979-353735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e65a4699c7c6f6c3eff0500458d06dae57a82f7e8db0d149745652e42c561be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c001c7193706c7c5659f769f6499e791b623fdfb34a171c731fa0588a3fb4406
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:357279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576492:por
+  label: "Alterado o nº 1 do art. 1.º, o nº 1 do art. 3.º e as als. a) e b) do art. 4.º pela LEI.20/81.1981.08.19.AR DR.IS\
+    \ [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-1981-576492
+  date: '1981-08-19'
+- type: cites
+  target: pt:dre:446919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623237:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692612:por
+  label: Rectificado pela DECL.DD6685.14.01.1980.PCM, DR.IS [27] de 01.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692612
+  date: '1980-01-14'
+- type: repealed_by
+  target: pt:dre:357279:por
+  label: "Revogado (e suas alterações) pelo DEC LEI.438/88.29.11.1988.MAI, DR.IS [276] de 29.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1988-357279
+  date: '1988-11-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:49Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +139,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O passaporte especial destina-se exclusivamente:
+Artigo 1.º - 1 - O passaporte especial destina-se exclusivamente:
 
 a) Aos membros da Assembleia da República;
 
@@ -116,42 +149,42 @@ c) Às pessoas incumbidas pelo Governo de missão extraordinária de serviço p�
 
 2 - O passaporte especial pode ser extensivo, por averbamento, ao cônjuge e filhos menores, quando viajem na companhia do seu titular.
 
-###### Art. 2.º - 1 - A concessão do passaporte especial é da competência do Ministro da Administração Interna, que a poderá, contudo, delegar no secretário-geral do Ministério.
+Art. 2.º - 1 - A concessão do passaporte especial é da competência do Ministro da Administração Interna, que a poderá, contudo, delegar no secretário-geral do Ministério.
 
 2 - Compete à Secretaria-Geral do Ministério da Administração Interna a emissão dos passaportes especiais.
 
 3 - Os passaportes especiais serão assinados pelo Ministro da Administração Interna ou, na sua falta ou impedimentos, pelo secretário-geral do Ministério.
 
-###### Art. 3.º - 1 - As requisições de passaportes especiais serão dirigidas ao Ministro da Administração Interna pelo secretário-geral da Assembleia da República e pelo membro do Governo ou entidade que tiver ordenado a emissão ou em cuja dependência se encontrem as pessoas referidas na alínea c) do n.º 1 do artigo 1.º
+Art. 3.º - 1 - As requisições de passaportes especiais serão dirigidas ao Ministro da Administração Interna pelo secretário-geral da Assembleia da República e pelo membro do Governo ou entidade que tiver ordenado a emissão ou em cuja dependência se encontrem as pessoas referidas na alínea c) do n.º 1 do artigo 1.º
 
 2 - Nas requisições far-se-á referência à categoria da entidade a quem se destina o passaporte, e, sendo caso disso, à natureza da missão e ao despacho que a ordenou.
 
-###### Art. 4.º O passaporte especial é válido:
+Art. 4.º O passaporte especial é válido:
 
 a) Por dois anos e para número ilimitado de viagens, quando concedido às entidades referidas nas alíneas a) e b) do n.º 1 do artigo 1.º;
 
 b) Para uma viagem de ida e regresso nos casos da alínea c) do n.º 1 do artigo 1.º
 
-###### Art. 5.º O impresso de passaporte especial passa a ser o constante do modelo III anexo ao presente diploma.
+Art. 5.º O impresso de passaporte especial passa a ser o constante do modelo III anexo ao presente diploma.
 
-###### Art. 6.º O passaporte especial não poderá ser utilizado desde que o titular deixe de exercer as funções em atenção às quais o passaporte foi emitido, devendo devolvê-lo, quando isso ocorrer, à entidade emitente.
+Art. 6.º O passaporte especial não poderá ser utilizado desde que o titular deixe de exercer as funções em atenção às quais o passaporte foi emitido, devendo devolvê-lo, quando isso ocorrer, à entidade emitente.
 
-###### Art. 7.º - 1 - É permitida a utilização de fotografias a cores na emissão dos tipos de passaportes referidos no artigo 3.º do [Decreto n.º 46748](https://diariodarepublica.pt/dr/detalhe/decreto/46748-1965-508021), de 15 de Dezembro de 1965.
+Art. 7.º - 1 - É permitida a utilização de fotografias a cores na emissão dos tipos de passaportes referidos no artigo 3.º do [Decreto n.º 46748](https://diariodarepublica.pt/dr/detalhe/decreto/46748-1965-508021), de 15 de Dezembro de 1965.
 
 2 - São mantidas, com as necessárias adaptações, as disposições do artigo 53.º do [Decreto n.º 46748](https://diariodarepublica.pt/dr/detalhe/decreto/46748-1965-508021), de 15 de Dezembro de 1965.
 
-###### Art. 8.º Ficam revogados os artigos 4.º a 7.º do [Decreto n.º 46748](https://diariodarepublica.pt/dr/detalhe/decreto/46748-1965-508021), de 15 de Dezembro de 1965, e a alínea a) do artigo 3.º do [Decreto-Lei n.º 215/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1974-623237), de 22 de Maio, bem como o [Decreto n.º 35/78](https://diariodarepublica.pt/dr/detalhe/decreto/35-1978-446919), de 8 de Abril.
+Art. 8.º Ficam revogados os artigos 4.º a 7.º do [Decreto n.º 46748](https://diariodarepublica.pt/dr/detalhe/decreto/46748-1965-508021), de 15 de Dezembro de 1965, e a alínea a) do artigo 3.º do [Decreto-Lei n.º 215/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1974-623237), de 22 de Maio, bem como o [Decreto n.º 35/78](https://diariodarepublica.pt/dr/detalhe/decreto/35-1978-446919), de 8 de Abril.
 
-###### Art. 9.º Serão resolvidas por despacho do Ministro da Administração Interna as dúvidas surgidas na aplicação do presente diploma.
+Art. 9.º Serão resolvidas por despacho do Ministro da Administração Interna as dúvidas surgidas na aplicação do presente diploma.
 
-###### Art. 10.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República. ANTÓNIO RAMALHO EANES.**
+O Presidente da República. ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30000/34633466.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30000/34633466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30000/34633466.pdf)

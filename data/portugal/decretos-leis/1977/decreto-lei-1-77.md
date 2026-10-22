@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/00100/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1977-492472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27d9f85bbfd45eba0adedb5b77ca12979f4f7163330be7caec50e144605fac86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6668c4830f2f9d6ebbd43a1b5e851066b754154a42188aa2eb745a1d7d0b65b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Autarquia Local
+- Concelho
+- Freguesia
+- Gestão Administrativa
+- Madeira.região Autónoma
+- Metrópole
+- Organização Territorial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250418:por
+  label: "Alterado o art. 2º pelo DEC LEI.268/77.02.07.1977.PCM, DR.IS [151] de 02.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1977-250418
+  date: '1977-07-02'
+- type: amended_by
+  target: pt:dre:250842:por
+  label: "Alterado o mapa anexo a que se refere o art. 1º do presente diploma, pelo DEC LEI.289/77.19.07.1977.MAI, DR.IS [165]\
+    \ de 19.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1977-250842
+  date: '1977-07-19'
+- type: amended_by
+  target: pt:dre:447958:por
+  label: "Alterado o mapa anexo ao art. 1º pelo DEC LEI.10/78.14.01.1978.MAI, DR.IS [12] de 14.01.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1978-447958
+  date: '1978-01-14'
+- type: amended_by
+  target: pt:dre:473573:por
+  label: "Alterado o mapa anexo pelo DEC LEI.202/80.26.06.1980.MAI, DR.IS [145] de 26.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1980-473573
+  date: '1980-06-26'
+- type: amended_by
+  target: pt:dre:472479:por
+  label: "Alterado o mapa anexo pelo DEC LEI.234/80.18.07.1980.MAI, DR.IS [164] de 18.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1980-472479
+  date: '1980-07-18'
+- type: amended_by
+  target: pt:dre:461819:por
+  label: "Alterado o mapa anexo pelo DEC LEI.396/80.25.09.1980.MAI, DR.IS [222] de 25.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1980-461819
+  date: '1980-09-25'
+- type: amended_by
+  target: pt:dre:461622:por
+  label: "Alterado o mapa anexo pelo DEC LEI.424/80.30.09.1980.MAI, DR.IS [226] de 30.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/424-1980-461622
+  date: '1980-09-30'
+- type: amended_by
+  target: pt:dre:461623:por
+  label: "Alterado o mapa anexo pelo DEC LEI.425/80.30.09.1980.MAI, DR.IS [226] de 30.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/425-1980-461623
+  date: '1980-09-30'
+- type: amended_by
+  target: pt:dre:388602:por
+  label: "Alterado o mapa anexo pelo DEC LEI.33/81.02.03.1981.MAI, DR.IS [51] de 02.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1981-388602
+  date: '1981-03-02'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considera revogado, a partir de 13.05.2018 e nos termos do art. 1.º, o Dec Lei 1/77 de 03-jan DR.IS [1] 1977-01-03
+    pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:355113:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:17Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +162,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os concelhos do continente e das ilhas adjacentes e a sua classificação são os constantes do mapa anexo a este diploma.
+Artigo 1.º Os concelhos do continente e das ilhas adjacentes e a sua classificação são os constantes do mapa anexo a este diploma.
 
-###### Art. 2.º Os funcionários providos em cargos dos concelhos que mudam de ordem mantêm a categoria e classe em que actualmente se encontram.
+Art. 2.º Os funcionários providos em cargos dos concelhos que mudam de ordem mantêm a categoria e classe em que actualmente se encontram.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 14 de Dezembro de 1976.**
+Promulgado em 14 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapas das circunscrições administrativas (concelhos)
 
@@ -948,4 +1012,4 @@ Vila Franca do Campo.
 
 Vila do Porto.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

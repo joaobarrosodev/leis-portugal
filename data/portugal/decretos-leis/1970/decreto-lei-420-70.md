@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/20400/11591162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1970-148827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63ea2cad920e95ee5b981428a18ddfddf033140f8397f1ca6e9523fd42eb37dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00452e16b93a66e8ab5200b4b5ec2259c947157f91763345c5dec04c23bba77a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Consumo
+- Crime
+- Direito Penal
+- Droga
+- Exportação
+- Importação
+- Medicamento
+- Multa
+- Responsabilidade Criminal
+- Sanção Penal
+- Saúde Pública
+- Toxicodependente
+- Venda
 relationships:
 - type: amended_by
   target: pt:dre:443290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575917:por
+  label: "Alterado o art. 13º, pela LEI.25/81.1981.08.21.AR, DR.IS [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/25-1981-575917
+  date: '1981-08-21'
+- type: cites
+  target: pt:dre:162653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443290:por
+  label: "Revogado pelo DEC LEI.430/83.13.12.1983.MJ, DR.IS [285] de 13.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1983-443290
+  date: '1983-12-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:13Z'
   warnings: []
   errors: []
 ---
@@ -98,45 +134,45 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Consideram-se estupefacientes todos os produtos e drogas constantes da lista anexa ao presente diploma e que deste faz parte integrante.
+Artigo 1.º - 1. Consideram-se estupefacientes todos os produtos e drogas constantes da lista anexa ao presente diploma e que deste faz parte integrante.
 
 2. Para os efeitos deste diploma, aos produtos enumerados na lista anexa consideram-se associados os sais respectivos, seus ésteres ou éteres, quando possam existir, e os sais destes, ainda que não constem da referida lista.
 
 3. A lista anexa ao presente diploma pode ser alterada mediante portaria conjunta dos Ministros da Justiça e da Saúde e Assistência, ouvidas a Directoria da Policia Judiciária e a Direcção-Geral de Saúde.
 
-###### Art. 2.º - 1. Aquele que importe, exporte, compre, obtenha de qualquer modo, produza, prepare, cultive as plantas donde se possam extrair, prescreva, ministre, detenha, guarde, transporte, venda, exponha à venda ou de qualquer modo ofereça ou entregue ao consumo estupefacientes será condenado a prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
+Art. 2.º - 1. Aquele que importe, exporte, compre, obtenha de qualquer modo, produza, prepare, cultive as plantas donde se possam extrair, prescreva, ministre, detenha, guarde, transporte, venda, exponha à venda ou de qualquer modo ofereça ou entregue ao consumo estupefacientes será condenado a prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
 
 2. Se os actos previstos no número anterior se destinarem a uso pessoal do agente, ou a uso alheio, mas sem intenção lucrativa, quando se não destinem à prática de crimes sexuais, a pena será de prisão até dois anos e multa de 5000$00 a 50000$00.
 
 3. Se as substâncias forem ilegalmente prescritas, ministradas ou fornecidas a menor de 18 anos, a pena prevista no n.º 1 deste artigo será aplicada em medida não inferior a metade da sua duração máxima.
 
-###### Art. 3.º - 1. Os actos referidos no artigo anterior não são ilícitos quando praticados com fins industriais, científicos ou terapêuticos, ou outros legalmente autorizados.
+Art. 3.º - 1. Os actos referidos no artigo anterior não são ilícitos quando praticados com fins industriais, científicos ou terapêuticos, ou outros legalmente autorizados.
 
 2. Considera-se uso industrial o que é feito em estabelecimentos de produtos químicos e farmacêuticos legalmente autorizados, no exercício das funções que lhes são próprias; uso científico, o que visa a ministração de conhecimentos ou a pesquisa científica, sob a directa orientação e responsabilidade de professores ou investigadores qualificados; e uso terapêutico o que, para tratamento de uma enfermidade, é feito mediante receita médica, nas condições previstas nos artigos 58.º e 59.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968.
 
-###### Art. 4.º - 1. Quem, por efeito do uso habitual de estupefacientes, se torne perigoso para si ou para outros, ou provoque escândalo público, será punido com prisão de seis meses a dois anos e multa de 5000$00 a 50000$00.
+Art. 4.º - 1. Quem, por efeito do uso habitual de estupefacientes, se torne perigoso para si ou para outros, ou provoque escândalo público, será punido com prisão de seis meses a dois anos e multa de 5000$00 a 50000$00.
 
 2. Na mesma pena incorre quem consuma estupefacientes na presença de terceiros com a consciência de poder incentivar ou difundir o uso de estupefacientes.
 
 3. Quando o uso habitual de estupefacientes houver provocado uma toxicomania, aplicar-se-á o regime do § 2.º do artigo 71.º do Código Penal.
 
-###### Art. 5.º - 1. O médico que prescreva estupefacientes sem que para tal haja necessidade terapêutica ou em doses superiores às necessidades terapêuticas com intenção de favorecer o abuso de estupefacientes será punido com prisão de dois a oito anos e multa de 10000$00 a 100000$00.
+Art. 5.º - 1. O médico que prescreva estupefacientes sem que para tal haja necessidade terapêutica ou em doses superiores às necessidades terapêuticas com intenção de favorecer o abuso de estupefacientes será punido com prisão de dois a oito anos e multa de 10000$00 a 100000$00.
 
 2. Aquele que forneça indicações falsas para obter uma receita ou requisição de estupefacientes será punido com prisão até três anos e multa de 5000$00 a 50000$00.
 
-###### Art. 6.º - 1. O proprietário, possuidor, detentor, administrador ou gerente de casas ou recintos, ou por eles de qualquer modo responsável, que nesses locais consentir o uso ou guarda ilegal de substâncias da lista anexa será condenado a prisão e multa de 10000$00 a 100000$00.
+Art. 6.º - 1. O proprietário, possuidor, detentor, administrador ou gerente de casas ou recintos, ou por eles de qualquer modo responsável, que nesses locais consentir o uso ou guarda ilegal de substâncias da lista anexa será condenado a prisão e multa de 10000$00 a 100000$00.
 
 2. Quem entrar em tais locais com o fim de consumir estupefacientes será punido com prisão até seis meses e multa até 5000$00.
 
-###### Art. 7.º O anúncio ou propaganda de substâncias constantes da lista anexa, quando em contravenção do regime estabelecido nos artigos 104.º a 106.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, é punível com multa de 5000$00 a 20000$00.
+Art. 7.º O anúncio ou propaganda de substâncias constantes da lista anexa, quando em contravenção do regime estabelecido nos artigos 104.º a 106.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, é punível com multa de 5000$00 a 20000$00.
 
-###### Art. 8.º Aquele que, não sendo abrangido pelas disposições relativas à comparticipação ou por outra punição mais grave, dolosa e directamente instigue ou por outra forma determine outrem ao consumo de estupefacientes será punido com prisão e multa de 10000$00 a 50000$00.
+Art. 8.º Aquele que, não sendo abrangido pelas disposições relativas à comparticipação ou por outra punição mais grave, dolosa e directamente instigue ou por outra forma determine outrem ao consumo de estupefacientes será punido com prisão e multa de 10000$00 a 50000$00.
 
-###### Art. 9.º Os crimes previstos nos artigos 2.º, 4.º, n.º 1, e 5.º, n.º 2, quando cometidos por negligência, são puníveis com prisão até um ano e multa até 10000$00.
+Art. 9.º Os crimes previstos nos artigos 2.º, 4.º, n.º 1, e 5.º, n.º 2, quando cometidos por negligência, são puníveis com prisão até um ano e multa até 10000$00.
 
-###### Art. 10.º A tentativa dos crimes previstos nos artigos 2.º, n.º 2, 5.º, n.º 2, e 6.º, n.º 2, é punível.
+Art. 10.º A tentativa dos crimes previstos nos artigos 2.º, n.º 2, 5.º, n.º 2, e 6.º, n.º 2, é punível.
 
-###### Art. 11.º - 1. Além das penas previstas para as infracções descritas neste diploma poderá ser imposta a interdição do exercício da profissão, relacionada com a prática daquelas, a qualquer comerciante ou industrial ou, com as necessárias adaptações, às sociedades civis e comerciais. Tal medida, com a natureza, duração e efeitos previstos no § 5.º do artigo 70.º do Código Penal, importa ainda:
+Art. 11.º - 1. Além das penas previstas para as infracções descritas neste diploma poderá ser imposta a interdição do exercício da profissão, relacionada com a prática daquelas, a qualquer comerciante ou industrial ou, com as necessárias adaptações, às sociedades civis e comerciais. Tal medida, com a natureza, duração e efeitos previstos no § 5.º do artigo 70.º do Código Penal, importa ainda:
 
 a) O encerramento do estabelecimento;
 
@@ -146,13 +182,13 @@ c) A suspensão do exercício dos direitos provenientes da inscrição no grémi
 
 2. Não obsta à aplicação do disposto no n.º 1 a transmissão do estabelecimento efectuada após a prática do crime que dê lugar à interdição do exercício da profissão.
 
-###### Art. 12.º Se o delinquente for estrangeiro, a execução da pena será sempre seguida de expulsão do território nacional, sem limitação de tempo.
+Art. 12.º Se o delinquente for estrangeiro, a execução da pena será sempre seguida de expulsão do território nacional, sem limitação de tempo.
 
-###### Art. 13.º - 1. As substâncias compreendidas na lista anexa, que serviram ou se destinavam à prática de infracções ou são produtos destas, serão apreendidas, declaradas perdidas a favor do Estado e entregues à Direcção-Geral de Saúde, para o seu aproveitamento lícito, ou à Directoria da Polícia Judiciária, se o director informar que interessam à investigação criminal, ao Laboratório de Polícia Científica ou ao Museu Criminalístico.
+Art. 13.º - 1. As substâncias compreendidas na lista anexa, que serviram ou se destinavam à prática de infracções ou são produtos destas, serão apreendidas, declaradas perdidas a favor do Estado e entregues à Direcção-Geral de Saúde, para o seu aproveitamento lícito, ou à Directoria da Polícia Judiciária, se o director informar que interessam à investigação criminal, ao Laboratório de Polícia Científica ou ao Museu Criminalístico.
 
 2. As mesmas substâncias serão destruídas quando não lhes possa ser dado algum dos destinos indicados no número anterior ou as entidades aí referidas não respondam, no prazo de noventa dias, à consulta que lhes for feita e se reconheça que, pelo seu pequeno valor, não se justificam consultas posteriores.
 
-###### Art. 14.º Ficam isentas do regime deste diploma as preparações seguintes:
+Art. 14.º Ficam isentas do regime deste diploma as preparações seguintes:
 
 a) Preparações de acetildi-hidrocodeína, codeína, di-hidrocodeína, etilmorfina, norcodeína e folcodina, desde que, contendo um outro ou mais componentes, a quantidade de estupefaciente não exceda 100 mg por unidade de administração e a concentração, nas preparações farmacêuticas em forma não dividida, não seja superior a 2,5 por cento;
 
@@ -172,9 +208,9 @@ e) Preparações correspondentes a qualquer das fórmulas indicadas nas alíneas
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 7 de Agosto de 1970.**
+Promulgado em 7 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Setembro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

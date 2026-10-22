@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/395-1971-632754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aafc38790a72a08cdc8df3f0fef43d0f573dd7ee4bfcee2ecfa7020034b62d97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5469a07c6ed3931a1573dfb15bb53c892ee006aee7ea0a675a8a959575b0084e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:11Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +97,14 @@ Nestas circunstâncias, tendo em vista o disposto no artigo 6.º, n.º 1, do [De
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com a firma Luz - Sociedade de Construções, com sede na Avenida do Dr. Antunes Guimarães, 68, 4.º, direito, Porto, para o arrendamento do 1.º andar do prédio sito na Avenida de França, 201, na cidade do Porto, por um período mínimo inicial de cinco anos, seguido de períodos anuais renováveis.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com a firma Luz - Sociedade de Construções, com sede na Avenida do Dr. Antunes Guimarães, 68, 4.º, direito, Porto, para o arrendamento do 1.º andar do prédio sito na Avenida de França, 201, na cidade do Porto, por um período mínimo inicial de cinco anos, seguido de períodos anuais renováveis.
 
-###### Art. 2.º A renda correspondente será de 20000$00 mensais e constituirá no corrente ano económico encargo na dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia sob o capítulo 26.º, artigo 376.º, n.º 6) «Dinamização dos sectores-chaves de produção», no empreendimento «Expansão do património florestal do Estado», e de futuro na verba própria inscrita em orçamento.
+Art. 2.º A renda correspondente será de 20000$00 mensais e constituirá no corrente ano económico encargo na dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia sob o capítulo 26.º, artigo 376.º, n.º 6) «Dinamização dos sectores-chaves de produção», no empreendimento «Expansão do património florestal do Estado», e de futuro na verba própria inscrita em orçamento.
 
 Marcello Caetano - Augusto Victor Coelho - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 10 de Setembro de 1971.**
+Promulgado em 10 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

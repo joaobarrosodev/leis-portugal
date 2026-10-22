@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/470-1971-631402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9997e59a99d3daf0f9791e11079c6759567f66365f84b7a3897810d2942628ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 107c6b86daa992c98f6f83c9b0560ac3470638fdb824d6a4ce8252b2258d241e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:633894:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:51Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +93,14 @@ de 5 de Novembro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Nas Universidades de Luanda e de Lourenço Marques os cursos de Ciências passam a ser professados segundo o regime definido pelo [Decreto n.º 443/71](https://diariodarepublica.pt/dr/detalhe/decreto/443-1971-633894), de 23 de Outubro, e os planos anexos ao mesmo diploma.
+Artigo único. Nas Universidades de Luanda e de Lourenço Marques os cursos de Ciências passam a ser professados segundo o regime definido pelo [Decreto n.º 443/71](https://diariodarepublica.pt/dr/detalhe/decreto/443-1971-633894), de 23 de Outubro, e os planos anexos ao mesmo diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 20 de Outubro de 1971.**
+Promulgado em 20 de Outubro de 1971.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

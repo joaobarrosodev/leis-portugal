@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/10/23100/14411442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1972-691861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ee8a2e3aa48f5015fdffe4b958ccaedbf78af5d90301320f08864da20e9e0f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 103650338418d99b8bba433bf59bd61ad22733d35dc744d952ad3f5dce497673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Produto Cosmetico
 relationships:
 - type: amended_by
   target: pt:dre:226855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:173156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642723:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226855:por
+  label: Revogado pelo(a) Decreto-Lei n.º 128/86 - Diário da República n.º 126/1986, Série I de 1986-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1986-226855
+  date: '1986-06-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:00Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +122,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para efeitos de aplicação do presente diploma, consideram-se genèricamente «cosméticos» os preparados destinados a serem postos em contacto com a pele, fâneros e mucosas do corpo humano, com vista a limpá-las, protegê-las, embelezá-las ou modificar-lhes o aspecto, odor ou função, sem acção nem intenção terapêutica.
+Artigo 1.º Para efeitos de aplicação do presente diploma, consideram-se genèricamente «cosméticos» os preparados destinados a serem postos em contacto com a pele, fâneros e mucosas do corpo humano, com vista a limpá-las, protegê-las, embelezá-las ou modificar-lhes o aspecto, odor ou função, sem acção nem intenção terapêutica.
 
-###### Art. 2.º - 1. Os produtos definidos no artigo 1.º distribuem-se nas seguintes categorias:
+Art. 2.º - 1. Os produtos definidos no artigo 1.º distribuem-se nas seguintes categorias:
 
 a) Perfumes, águas de toilette e águas-de-colónia;
 
@@ -116,35 +136,35 @@ c) Produtos de beleza.
 
 3. Em caso de dúvida sobre a natureza de qualquer preparado, compete à Direcção-Geral de Saúde classificá-lo.
 
-###### Art. 3.º - 1. Em portaria do Ministro da Saúde e Assistência e Secretário de Estado do Comércio serão aprovadas as listas das substâncias cuja utilização é proibida na preparação de cosméticos, totalmente ou a partir de determinadas concentrações, ou para fins diferentes dos que forem indicados, e com a indicação taxativa dos corantes ou pigmentos que podem ser utilizados em cosméticos para determinadas aplicações.
+Art. 3.º - 1. Em portaria do Ministro da Saúde e Assistência e Secretário de Estado do Comércio serão aprovadas as listas das substâncias cuja utilização é proibida na preparação de cosméticos, totalmente ou a partir de determinadas concentrações, ou para fins diferentes dos que forem indicados, e com a indicação taxativa dos corantes ou pigmentos que podem ser utilizados em cosméticos para determinadas aplicações.
 
 2. Serão fixados, nos mesmos termos, os limites de pH a que ficam sujeitos os cosméticos, as condições de segurança a que devem obedecer os que forem apresentados sob a forma de aerosol e, de modo geral, as que são de observar nas respectivas embalagens.
 
-###### Art. 4.º Serão igualmente definidas em portaria, nos termos do artigo anterior, as especificações sobre o grau de pureza das substâncias utilizadas como matérias-primas na fabricação dos cosméticos, bem como normalizados os respectivos métodos analíticos.
+Art. 4.º Serão igualmente definidas em portaria, nos termos do artigo anterior, as especificações sobre o grau de pureza das substâncias utilizadas como matérias-primas na fabricação dos cosméticos, bem como normalizados os respectivos métodos analíticos.
 
-###### Art. 5.º - 1. Quando for julgado conveniente, as condições impostas nas portarias que forem publicadas nos termos dos artigos anteriores poderão ser verificadas pela Direcção-Geral de Saúde, sobre o produto acabado, pelos métodos analíticos estabelecidos.
+Art. 5.º - 1. Quando for julgado conveniente, as condições impostas nas portarias que forem publicadas nos termos dos artigos anteriores poderão ser verificadas pela Direcção-Geral de Saúde, sobre o produto acabado, pelos métodos analíticos estabelecidos.
 
 2. A presença ocasional de substâncias proibidas, resultantes de impurezas toleradas nas matérias-primas, não se considera infracção.
 
-###### Art. 6.º - 1. Compete à Direcção-Geral de Saúde propor, quando o julgar conveniente, e mediante parecer do Grémio Nacional dos Industriais de Óleos Vegetais, Seus Derivados e Equiparados, a actualização das listas e da regulamentação a publicar, de acordo com os novos conhecimentos científicos.
+Art. 6.º - 1. Compete à Direcção-Geral de Saúde propor, quando o julgar conveniente, e mediante parecer do Grémio Nacional dos Industriais de Óleos Vegetais, Seus Derivados e Equiparados, a actualização das listas e da regulamentação a publicar, de acordo com os novos conhecimentos científicos.
 
 2. Para o efeito, a Direcção-Geral de Saúde poderá ouvir as entidades que entender com competência na matéria.
 
-###### Art. 7.º A fabricação de cosméticos só poderá ser feita em instalações próprias, obedecendo às normas emanadas da Direcção-Geral dos Serviços Industriais e às condições impostas pela regulamentação da respectiva indústria.
+Art. 7.º A fabricação de cosméticos só poderá ser feita em instalações próprias, obedecendo às normas emanadas da Direcção-Geral dos Serviços Industriais e às condições impostas pela regulamentação da respectiva indústria.
 
-###### Art. 8.º Sem embargo do cumprimento das disposições anteriores, os fabricantes de cosméticos são sempre responsáveis pelas condições técnico-sanitárias de composição, fabricação e acondicionamento dos seus produtos.
+Art. 8.º Sem embargo do cumprimento das disposições anteriores, os fabricantes de cosméticos são sempre responsáveis pelas condições técnico-sanitárias de composição, fabricação e acondicionamento dos seus produtos.
 
-###### Art. 9.º Os cosméticos não podem ser postos no mercado para consumo público sem que prèviamente tenha sido enviado à Direcção-Geral de Saúde um termo de responsabilidade, no qual o produtor ou importador declare que o cosmético em questão obedece às disposições estabelecidas na lei.
+Art. 9.º Os cosméticos não podem ser postos no mercado para consumo público sem que prèviamente tenha sido enviado à Direcção-Geral de Saúde um termo de responsabilidade, no qual o produtor ou importador declare que o cosmético em questão obedece às disposições estabelecidas na lei.
 
-###### Art. 10.º A importação de cosméticos fica sujeita à presente legislação e a respectiva responsabilidade cabe à entidade importadora.
+Art. 10.º A importação de cosméticos fica sujeita à presente legislação e a respectiva responsabilidade cabe à entidade importadora.
 
-###### Art. 11.º As embalagens dos cosméticos postos à disposição do consumo público devem ter, de uma forma clara e legível, a identificação do produtor ou importador.
+Art. 11.º As embalagens dos cosméticos postos à disposição do consumo público devem ter, de uma forma clara e legível, a identificação do produtor ou importador.
 
-###### Art. 12.º - 1. Sem prejuízo da competência legal que caiba a outros serviços, compete em especial à Direcção-Geral de Saúde fiscalizar a execução do disposto neste diploma, ficando os proprietários, administradores, directores, ou seus representantes, de estabelecimentos que se dediquem ao fabrico, armazenagem ou venda de cosméticos obrigados a facultar a todos os agentes encarregados da fiscalização e devidamente identificados a entrada nas dependências dos seus estabelecimentos e escritórios pelo tempo que for julgado necessário e, bem assim, a prestar-lhes todas as informações e declarações solicitadas.
+Art. 12.º - 1. Sem prejuízo da competência legal que caiba a outros serviços, compete em especial à Direcção-Geral de Saúde fiscalizar a execução do disposto neste diploma, ficando os proprietários, administradores, directores, ou seus representantes, de estabelecimentos que se dediquem ao fabrico, armazenagem ou venda de cosméticos obrigados a facultar a todos os agentes encarregados da fiscalização e devidamente identificados a entrada nas dependências dos seus estabelecimentos e escritórios pelo tempo que for julgado necessário e, bem assim, a prestar-lhes todas as informações e declarações solicitadas.
 
 2. Na sua actividade fiscalizadora, os agentes da Direcção-Geral de Saúde poderão colher amostras dos cosméticos já preparados ou em qualquer fase da sua preparação, bem como das respectivas matérias-primas e dos materiais acondicionados.
 
-###### Art. 13.º - 1. As infracções ao disposto no presente diploma constituem infracções contra a saúde pública, ficando sujeitas ao regime previsto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com as alterações constantes do [Decreto-Lei n.º 43860](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43860-1961-173156), de 16 de Agosto de 1961, e [Decreto-Lei n.º 308/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1971-642723), de 16 de Julho, com as especificações constantes dos números seguintes.
+Art. 13.º - 1. As infracções ao disposto no presente diploma constituem infracções contra a saúde pública, ficando sujeitas ao regime previsto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com as alterações constantes do [Decreto-Lei n.º 43860](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43860-1961-173156), de 16 de Agosto de 1961, e [Decreto-Lei n.º 308/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1971-642723), de 16 de Julho, com as especificações constantes dos números seguintes.
 
 2. As infracções ao disposto em portaria a publicar nos termos do n.º 1 do artigo 3.º e ao disposto no artigo 9.º são punidas com prisão de três dias a dois anos e multa.
 
@@ -152,8 +172,8 @@ c) Produtos de beleza.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 21 de Setembro de 1972.**
+Promulgado em 21 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

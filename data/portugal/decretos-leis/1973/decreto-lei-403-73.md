@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/08/18800/14061409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1973-419195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2108150b23c8076c67d3b8777791d5017ee029d22f5620943c5fd7354f117eb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b363296d8c194e20fd9ceb7fbfcded3f5a7a84051ea4ca3a723d596d582ddefe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Economia
+- Definição de Competências
+- Ministro da Economia
+- Orgânica
+- Organismo Corporativo
+- Presidente
+- Quadro de Pessoal
+- Remuneração
+- Secretário de Estado da Agricultura
+- Secretário de Estado da Indústria
+- Secretário de Estado do Comércio
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:475297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475297:por
+  label: "Extinto o Conselho Superior de Economia criado pelo Decreto-Lei n.º 49122, de 15 de Maio de 1969, reorganizado no\
+    \ presente diploma, pelo DEC LEI.108/80.10.05.1980.MFP, DR.IS [108] de 10.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1980-475297
+  date: '1980-05-10'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633724:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585845:por
+  label: "Revogados os nºs 1 e 2 do art. 3º e os nºs 1, 2 e 3 do art. 4º pelo DEC LEI.539/74.12.10.1974.MECO, DG.IS [238-Supl]\
+    \ de 12.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/539-1974-585845
+  date: '1974-10-12'
+- type: repealed_by
+  target: pt:dre:475297:por
+  label: "Revogado pelo DEC LEI.108/80.10.05.1980.MFP, DR.IS [108] de 10.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1980-475297
+  date: '1980-05-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:58Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +146,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Atribuições, composição e funcionamento do Conselho Superior de Economia
 
-###### Artigo 1.º O Conselho Superior de Economia, criado pelo [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), de 15 de Julho de 1969, passa a reger-se pelas disposições do presente diploma.
+Artigo 1.º O Conselho Superior de Economia, criado pelo [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), de 15 de Julho de 1969, passa a reger-se pelas disposições do presente diploma.
 
-###### Art. 2.º São atribuições do Conselho:
+Art. 2.º São atribuições do Conselho:
 
 a) Dar parecer sobre as orientações genéricas da política agrícola, industrial e comercial;
 
@@ -112,13 +158,13 @@ c) Promover a instrução e apreciar os processos relativos às práticas restri
 
 d) Coordenar a acção de comissões permanentes ou eventuais constituídas sob a presidência de vogais efectivos do Conselho.
 
-###### Art. 3.º - 1. Salvo nos casos do n.º 3, o Conselho Superior de Economia será presidido pelo Ministro da Economia.
+Art. 3.º - 1. Salvo nos casos do n.º 3, o Conselho Superior de Economia será presidido pelo Ministro da Economia.
 
 2. Os Secretários de Estado da Agricultura, do Comércio e da Indústria terão assento no Conselho, podendo o Ministro da Economia delegar em qualquer deles a respectiva presidência.
 
 3. O Conselho, no exercício das funções que lhe comete a [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298) em matéria de práticas restritivas da concorrência, será presidido por um vice-presidente designado, nos termos do artigo 16.º exclusivamente para esse efeito.
 
-###### Art. 4.º - 1. São membros efectivos do Conselho:
+Art. 4.º - 1. São membros efectivos do Conselho:
 
 a) O vice-presidente designado a que se refere o n.º 3 do artigo anterior;
 
@@ -134,19 +180,19 @@ d) Seis vogais, nomeados pelo Ministro da Economia, por períodos renováveis de
 
 4. Para os assuntos que respeitem a práticas restritivas da concorrência, o Conselho terá a composição que o vice-presidente determinar, de acordo com o disposto no n.º 3 da base VIII da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298), e aos seus membros são aplicáveis, com as necessárias adaptações, os artigos 122.º e seguintes do Código de Processo Civil.
 
-###### Art. 5.º Os vogais efectivos do Conselho referidos na alínea b) do n.º 1 do artigo 4.º podem ser incumbidos, pelo Ministro da Economia, do desempenho de missões de estudo ou de quaisquer comissões transitórias de serviço público, bem como nomeados para presidentes de comissões constituídas com vista à realização de funções específicas em que interfiram vários departamentos do Estado e actividades privadas.
+Art. 5.º Os vogais efectivos do Conselho referidos na alínea b) do n.º 1 do artigo 4.º podem ser incumbidos, pelo Ministro da Economia, do desempenho de missões de estudo ou de quaisquer comissões transitórias de serviço público, bem como nomeados para presidentes de comissões constituídas com vista à realização de funções específicas em que interfiram vários departamentos do Estado e actividades privadas.
 
-###### Art. 6.º - 1. O Conselho reunirá ordinariamente de três em três meses e, extraordinariamente, quando convocado pelo presidente, por sua iniciativa ou a pedido de qualquer dos vogais efectivos.
+Art. 6.º - 1. O Conselho reunirá ordinariamente de três em três meses e, extraordinariamente, quando convocado pelo presidente, por sua iniciativa ou a pedido de qualquer dos vogais efectivos.
 
 2. Para as sessões ordinárias serão convocados todos os vogais efectivos e os eventuais designados pelo presidente e para as sessões extraordinárias apenas aqueles que o presidente indicar, consoante a natureza da matéria sobre que versar a reunião.
 
 3. Para as sessões que respeitem as práticas restritivas da concorrência serão convocadas as entidades designadas pelo vice-presidente, nos termos referidos no n.º 4 do artigo 4.º deste diploma, observando-se também o disposto nos n.os 4 e 5 da base VIII da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298).
 
-###### Art. 7.º - 1. As convocações do Conselho serão efectuadas com o mínimo de oito dias de antecedência e mencionarão especificadamente os assuntos a tratar.
+Art. 7.º - 1. As convocações do Conselho serão efectuadas com o mínimo de oito dias de antecedência e mencionarão especificadamente os assuntos a tratar.
 
 2. Sempre que razões de urgência o justifiquem e estejam presentes, pelo menos, dois terços dos membros efectivos, o presidente poderá submeter à apreciação do Conselho assuntos não mencionados nas convocatórias.
 
-###### Art. 8.º - 1. Nas sessões do Conselho, as deliberações serão tomadas por maioria absoluta dos membros presentes, tendo o presidente voto de qualidade.
+Art. 8.º - 1. Nas sessões do Conselho, as deliberações serão tomadas por maioria absoluta dos membros presentes, tendo o presidente voto de qualidade.
 
 2. O voto é obrigatório, sendo a indicação de vencido acompanhada de declaração que a justifique.
 
@@ -156,11 +202,11 @@ d) Seis vogais, nomeados pelo Ministro da Economia, por períodos renováveis de
 
 ### CAPÍTULO II — Do processo relativo às práticas restritivas da concorrência
 
-###### Art. 9.º - 1. Quando estejam em causa práticas restritivas da concorrência, as entidades referidas nas alíneas b) e c) do n.º 1 da base IX da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298) deverão apresentar, no Conselho Superior de Economia, exposição fundamentada, em que se mencionem os factos e as circunstâncias que possam interessar ao processo, bem como a indicação do seu presumível autor ou autores, juntando todos os elementos que possam contribuir para o esclarecimento do caso.
+Art. 9.º - 1. Quando estejam em causa práticas restritivas da concorrência, as entidades referidas nas alíneas b) e c) do n.º 1 da base IX da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298) deverão apresentar, no Conselho Superior de Economia, exposição fundamentada, em que se mencionem os factos e as circunstâncias que possam interessar ao processo, bem como a indicação do seu presumível autor ou autores, juntando todos os elementos que possam contribuir para o esclarecimento do caso.
 
 2. Se a iniciativa partir do Ministro da Economia ou de outro membro do Governo, nos termos da alínea a) do n.º 1 da referida base IX, competirá aos serviços do respectivo Ministério prestar ao Conselho todos os esclarecimentos necessários.
 
-###### Art. 10.º - 1. Nos quinze dias seguintes à participação, o vice-presidente, na qualidade referida no n.º 3 do artigo 3.º, decidirá sobre se há ou não fundamento para o prosseguimento do processo.
+Art. 10.º - 1. Nos quinze dias seguintes à participação, o vice-presidente, na qualidade referida no n.º 3 do artigo 3.º, decidirá sobre se há ou não fundamento para o prosseguimento do processo.
 
 2. Se a decisão for afirmativa, determinará logo a composição do Conselho, para o efeito do disposto no n.º 4 do artigo 4.º, e ordenará o início da instrução.
 
@@ -170,11 +216,11 @@ d) Seis vogais, nomeados pelo Ministro da Economia, por períodos renováveis de
 
 5. Ao apreciar a reclamação, o Conselho poderá determinar que o processo seja arquivado, fique a aguardar melhor prova ou prossiga, ordenando, neste último caso, o início da instrução.
 
-###### Art. 11.º - 1. O Conselho pode ordenar e efectuar diligências conducentes à prova dos factos indicados na participação ou de quaisquer outros com eles relacionados ou que conduzam ao seu apuramento.
+Art. 11.º - 1. O Conselho pode ordenar e efectuar diligências conducentes à prova dos factos indicados na participação ou de quaisquer outros com eles relacionados ou que conduzam ao seu apuramento.
 
 2. À instrução referida no número anterior são aplicáveis os artigos 11.º, 12.º, 17.º, 18.º e 19.º do [Decreto-Lei n.º 452/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1971-633724), de 27 de Outubro.
 
-###### Art. 12.º - 1. A instrução deverá realizar-se no prazo máximo de cento e vinte dias.
+Art. 12.º - 1. A instrução deverá realizar-se no prazo máximo de cento e vinte dias.
 
 2. Nos trinta dias subsequentes ao termo da instrução, será deduzida a acusação e esta notificada àquele ou àqueles a quem sejam imputadas as práticas restritivas, os quais, no prazo que lhes for determinado, apresentarão a sua defesa por escrito, acompanhada de todos os meios de prova que julgam convenientes.
 
@@ -182,80 +228,80 @@ d) Seis vogais, nomeados pelo Ministro da Economia, por períodos renováveis de
 
 4. Até ao termo do prazo que for determinado para a apresentação da defesa, as entidades que tenham participado as práticas restritivas da concorrência e aqueles a quem as mesmas tenham sido imputadas podem apresentar ao Conselho memoriais, estudos e pareceres, bem como requerimentos de diligências de prova, que serão tomados em consideração se se entender que podem contribuir para a descoberta da verdade.
 
-###### Art. 13.º - 1. No prazo máximo de cento e vinte dias, a contar do termo da instrução, o Conselho deliberará sobre se se verifica a existência de qualquer das práticas restritivas a que se refere a base V da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298).
+Art. 13.º - 1. No prazo máximo de cento e vinte dias, a contar do termo da instrução, o Conselho deliberará sobre se se verifica a existência de qualquer das práticas restritivas a que se refere a base V da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298).
 
 2. Se se concluir pela existência de práticas restritivas, o Conselho notificará aquele ou aqueles a quem sejam imputáveis para adoptarem as providências indispensáveis à sua cessação ou à cessação dos seus efeitos, fixando um prazo não inferior a trinta dias para cumprimento da deliberação.
 
 3. Das deliberações do Conselho proferidas nos termos deste artigo, quando arguidas de ilegalidade, cabe recurso para o Supremo Tribunal Administrativo, nos mesmos termos em que o cabe das deliberações dos órgãos dirigentes dos serviços personalizados do Estado dotados de autonomia administrativa.
 
-###### Art. 14.º No seguimento dos processos relativos às práticas restritivas da concorrência aplicar-se-á o disposto nas bases XIII e XIV da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298).
+Art. 14.º No seguimento dos processos relativos às práticas restritivas da concorrência aplicar-se-á o disposto nas bases XIII e XIV da [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298).
 
 ### CAPÍTULO III — Dos serviços e pessoal
 
-###### Art. 15.º - 1. O Conselho disporá dos serviços e pessoal necessários ao desempenho das atribuições que lhe são cometidas por este diploma, bem como daquelas que resultam das funções desempenhadas pelos vogais efectivos nos termos previstos no artigo 5.º
+Art. 15.º - 1. O Conselho disporá dos serviços e pessoal necessários ao desempenho das atribuições que lhe são cometidas por este diploma, bem como daquelas que resultam das funções desempenhadas pelos vogais efectivos nos termos previstos no artigo 5.º
 
 2. A organização dos serviços será fixada em despacho do Ministro da Economia e o pessoal será o constante do quadro anexo ao presente decreto-lei.
 
 3. O quadro poderá ser alargado por simples decreto dos Ministros das Finanças e da Economia, ficando este autorizado, sempre que razões de serviço assim o imponham, a contratar pessoal além do quadro.
 
-###### Art. 16.º - 1. O vice-presidente será escolhido pelo Ministro da Economia, de entre individualidades de reconhecida competência e prestigio, pertencentes ou não ao Conselho.
+Art. 16.º - 1. O vice-presidente será escolhido pelo Ministro da Economia, de entre individualidades de reconhecida competência e prestigio, pertencentes ou não ao Conselho.
 
 2. Quando a escolha recair em funcionário do Estado que se mantenha ao serviço, o cargo poderá ser exercido em regime de acumulação, com direito a uma gratificação mensal, a fixar pelo Ministro da Economia, com o acordo do Ministro das Finanças.
 
 3. Nas faltas ou impedimentos do vice-presidente, as suas funções serão desempenhadas pelo vogal do Conselho que for designado por despacho do Ministro da Economia, o qual terá direito à remuneração que for fixada no mesmo despacho enquanto desempenhar essas funções.
 
-###### Art. 17.º - 1. Os vogais efectivos referidos na alínea b) do n.º 1 do artigo 4.º deste diploma serão colocados no Conselho em comissão de serviço por três anos renováveis, sendo, porém, a colocação feita a título vitalício se à data da sua nomeação para o Conselho ocuparem lugares em que tenham sido providos a igual título.
+Art. 17.º - 1. Os vogais efectivos referidos na alínea b) do n.º 1 do artigo 4.º deste diploma serão colocados no Conselho em comissão de serviço por três anos renováveis, sendo, porém, a colocação feita a título vitalício se à data da sua nomeação para o Conselho ocuparem lugares em que tenham sido providos a igual título.
 
 2. Os vogais indicados no número anterior adquirirão, se a não possuírem já, a categoria de inspector-geral, correspondente à letra B do mapa do pessoal civil dos Ministérios civis anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 3. Os actuais vogais do Conselho Superior de Economia, nomeados nos termos do artigo 10.º do [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), consideram-se automaticamente providos nos lugares correspondentes referidos na alínea b) do n.º 1 do artigo 4.º deste decreto-lei, com dispensa de quaisquer formalidades.
 
-###### Art. 18.º - 1. O Conselho terá um assessor jurídico e um assessor económico, nomeados pelo Ministro da Economia, que lhe prestarão a assistência técnica de que necessitar.
+Art. 18.º - 1. O Conselho terá um assessor jurídico e um assessor económico, nomeados pelo Ministro da Economia, que lhe prestarão a assistência técnica de que necessitar.
 
 2. As funções de assessor poderão ser desempenhadas em acumulação por funcionário de qualquer departamento, obtida a concordância do Ministro a que esteja subordinado, tendo nesse caso direito a uma gratificação mensal de quantitativo a fixar pelo Ministro da Economia, com o acordo do Ministro das Finanças.
 
-###### Art. 19.º O Conselho terá um secretário, a quem competirá secretariar as reuniões e dirigir os serviços de secretaria e que será nomeado pelo Ministro da Economia, sob proposta do vice-presidente, de entre diplomados com curso adequado.
+Art. 19.º O Conselho terá um secretário, a quem competirá secretariar as reuniões e dirigir os serviços de secretaria e que será nomeado pelo Ministro da Economia, sob proposta do vice-presidente, de entre diplomados com curso adequado.
 
-###### Art. 20.º - 1. O provimento do pessoal do quadro do Conselho será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 20.º - 1. O provimento do pessoal do quadro do Conselho será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
-###### Art. 21.º - 1. Quando se mostre conveniente, o provimento de lugares do quadro pode ser feito por requisição a quaisquer serviços públicos ou aos organismos de coordenação económica.
+Art. 21.º - 1. Quando se mostre conveniente, o provimento de lugares do quadro pode ser feito por requisição a quaisquer serviços públicos ou aos organismos de coordenação económica.
 
 2. O pessoal requisitado não abre vaga nos quadros donde provenha, durante três anos, podendo, contudo, os lugares ser preenchidos por nomeação interina, que cessará logo que os respectivos titulares regressem ao serviço do seu quadro.
 
 3. O tempo de serviço prestado no Conselho por pessoal requisitado contar-se-á, para todos os efeitos, como se o tivesse sido nos quadros donde provém.
 
-###### Art. 22.º - 1. O pessoal requisitado pode ingressar nos lugares do quadro do Conselho após dois anos de bom e efectivo serviço, com dispensa de idade e contando-se para efeitos de promoção o tempo de serviço aí prestado.
+Art. 22.º - 1. O pessoal requisitado pode ingressar nos lugares do quadro do Conselho após dois anos de bom e efectivo serviço, com dispensa de idade e contando-se para efeitos de promoção o tempo de serviço aí prestado.
 
 2. Se, findos três anos de serviço, não se tiver verificado o ingresso nos lugares do quadro do Conselho, dar-se-á por finda a requisição.
 
-###### Art. 23.º - O pessoal contratado além do quadro poderá ingressar neste, havendo vaga, se possuir as habilitações requeridas e um mínimo de dois anos de bom e efectivo serviço na mesma categoria, contando-se para todos os efeitos legais o tempo de serviço já prestado fora do quadro.
+Art. 23.º - O pessoal contratado além do quadro poderá ingressar neste, havendo vaga, se possuir as habilitações requeridas e um mínimo de dois anos de bom e efectivo serviço na mesma categoria, contando-se para todos os efeitos legais o tempo de serviço já prestado fora do quadro.
 
-###### Art. 24. Os vogais do Conselho, efectivos e eventuais, terão direito, por cada sessão a que assistirem e nos termos fixados pelo Ministro da Economia, com o acordo do Ministro das Finanças, ao abono de despesas de deslocação e transporte, bem como de ajudas de custo, se às mesmas houver lugar.
+Art. 24. Os vogais do Conselho, efectivos e eventuais, terão direito, por cada sessão a que assistirem e nos termos fixados pelo Ministro da Economia, com o acordo do Ministro das Finanças, ao abono de despesas de deslocação e transporte, bem como de ajudas de custo, se às mesmas houver lugar.
 
-###### Art. 25.º O vice-presidente do Conselho poderá, no exercício das suas funções, solicitar de quaisquer entidades ou organismos, públicos ou privados, todas as informações de que careça para o desempenho das atribuições do Conselho.
+Art. 25.º O vice-presidente do Conselho poderá, no exercício das suas funções, solicitar de quaisquer entidades ou organismos, públicos ou privados, todas as informações de que careça para o desempenho das atribuições do Conselho.
 
-###### Art. 26.º - 1. Enquanto o volume dos trabalhos do Conselho o permitir, os serviços de expediente serão assegurados pela Secretaria-Geral do Ministério da Economia.
+Art. 26.º - 1. Enquanto o volume dos trabalhos do Conselho o permitir, os serviços de expediente serão assegurados pela Secretaria-Geral do Ministério da Economia.
 
 2. O pessoal que, por força do disposto no número anterior, preste simultaneamente serviços à Secretaria-Geral e ao Conselho poderá ser remunerado em regime de prestação de serviços ou por uma gratificação mensal, nos termos autorizados pelo Ministro da Economia, sob proposta do vice-presidente.
 
-###### Art. 27.º Para satisfação no corrente ano dos encargos resultantes da execução do presente decreto-lei podem ser utilizadas as verbas disponíveis dos artigos 11.º a 19.º do capítulo 1.º do orçamento de despesa ordinária do Ministério da Economia, independentemente da classificação das despesas.
+Art. 27.º Para satisfação no corrente ano dos encargos resultantes da execução do presente decreto-lei podem ser utilizadas as verbas disponíveis dos artigos 11.º a 19.º do capítulo 1.º do orçamento de despesa ordinária do Ministério da Economia, independentemente da classificação das despesas.
 
-###### Art. 28.º O mandato dos actuais representantes da actividade privada designados ao abrigo dos artigos 3.º e 4.º do [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), de 15 de Julho de 1969, cessa com a entrada em vigor do presente diploma.
+Art. 28.º O mandato dos actuais representantes da actividade privada designados ao abrigo dos artigos 3.º e 4.º do [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), de 15 de Julho de 1969, cessa com a entrada em vigor do presente diploma.
 
-###### Art. 29.º É revogado o [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), de 15 de Julho de 1969.
+Art. 29.º É revogado o [Decreto-Lei n.º 49122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49122-1969-199622), de 15 de Julho de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 31 de Julho de 1973.**
+Promulgado em 31 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro a que se refere o n.º 2 do artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/18800/14061409.pdf))](https://files.diariodarepublica.pt/1s/1973/08/18800/14061409.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/18800/14061409.pdf)
 
 Manuel Artur Cotta Agostinho Dias.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/07/15700/08920894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/315-1970-140168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f37df9419b41b71aed299282ef3e1a20825f9b4a0c4e99e288d20cd5111f2cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f83de2c64411abc75a05af48d1784e05ded39e115f514e342d85212fc05b77d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Etiquetagem
+- Produto Alimentar
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:659545:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388197:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:555833:por
+  label: "Revogado, na parte em que é exigida a intervenção do Conselho Superior da Acção Social, o art. 8.º pelo DEC LEI.318/90.13.10.1990.MS,\
+    \ DR.IS [237] de 13.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1990-555833
+  date: '1990-10-13'
+- type: repealed_by
+  target: pt:dre:659545:por
+  label: "Revogado pelo DEC LEI.227/91.19.06.1991.MS, DR.IS-A [138] de 19.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1991-659545
+  date: '1991-06-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:12Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +131,7 @@ Por estas razões, os alimentos dietéticos devem estar devidamente identificado
 
 Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Para efeito da aplicação deste diploma, designa-se por «alimento dietético», «produto dietético», «alimento para regime especial» ou «produto para regime especial» o produto de natureza alimentar que, possuindo valor nutritivo exclusivo ou predominante, se distinga dos géneros alimentícios correntes pela sua composição particular e pelas modificações de ordem física, química ou biológica ou de outras resultantes do seu processo de fabrico e se destine a completar ou substituir parcialmente os alimentos habituais ou a satisfazer necessidades nutritivas especiais de pessoas em que o processo normal de assimilação ou o metabolismo estejam perturbados.
+Artigo 1.º - 1. Para efeito da aplicação deste diploma, designa-se por «alimento dietético», «produto dietético», «alimento para regime especial» ou «produto para regime especial» o produto de natureza alimentar que, possuindo valor nutritivo exclusivo ou predominante, se distinga dos géneros alimentícios correntes pela sua composição particular e pelas modificações de ordem física, química ou biológica ou de outras resultantes do seu processo de fabrico e se destine a completar ou substituir parcialmente os alimentos habituais ou a satisfazer necessidades nutritivas especiais de pessoas em que o processo normal de assimilação ou o metabolismo estejam perturbados.
 
 2. São considerados alimentos dietéticos os alimentos enriquecidos com nutrientes numa concentração que não ultrapasse as necessidades diárias humanas do princípio ou princípios adicionados para o consumo normal do alimento em causa.
 
@@ -118,7 +141,7 @@ Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da 
 
 5. Não são alimentos dietéticos os sucedâneos do sal de cozinha, os edulcorantes não alimentares e outras substâncias activas. Estes produtos podem, no entanto, mediante autorização da Direcção-Geral de Saúde, ser adicionados a produtos dietéticos, como os destinados a obesos e a diabéticos.
 
-###### Art. 2.º Os alimentos dietéticos classificam-se, quanto à sua finalidade, nos seguintes grupos:
+Art. 2.º Os alimentos dietéticos classificam-se, quanto à sua finalidade, nos seguintes grupos:
 
 I) Produtos alimentares correspondendo às necessidades fisiológicas particulares de pessoas em boas condições de saúde.
 
@@ -142,15 +165,15 @@ II) Produtos alimentares destinados a pessoas em boas condições de saúde, sub
 
 III) Produtos alimentares destinados a pessoas que se encontram em condições metabólicas anormais e às quais seja aconselhada alimentação enriquecida ou empobrecida num ou mais dos constituintes habituais dos alimentos.
 
-###### Art. 3.º Só podem ser postos à venda com a designação de alimentos dietéticos os produtos a que, nos termos deste diploma, a Direcção-Geral de Saúde autorize o uso dessa designação. As autorizações concedidas serão, por esta Direcção-Geral, comunicadas às Inspecções-Gerais dos Produtos Agrícolas e Industriais e das Actividades Económicas.
+Art. 3.º Só podem ser postos à venda com a designação de alimentos dietéticos os produtos a que, nos termos deste diploma, a Direcção-Geral de Saúde autorize o uso dessa designação. As autorizações concedidas serão, por esta Direcção-Geral, comunicadas às Inspecções-Gerais dos Produtos Agrícolas e Industriais e das Actividades Económicas.
 
-###### Art. 4.º - 1. Os alimentos dietéticos devem ser postos à venda em embalagens ou recipientes fechados.
+Art. 4.º - 1. Os alimentos dietéticos devem ser postos à venda em embalagens ou recipientes fechados.
 
 2. No caso de os alimentos dietéticos sofrerem qualquer alteração com a abertura do recipiente em que estão contidos, deverá mencionar-se no rótulo deste que o produto após a abertura do recipiente é de «consumo imediato».
 
 3. As embalagens ou recipientes dos alimentos dietéticos têm de mantê-los sem alteração e oferecer as necessárias garantias de higiene e integridade, devendo satisfazer às condições gerais estabelecidas no n.º 22 da [Portaria n.º 22970](https://diariodarepublica.pt/dr/detalhe/portaria/22970-1967-388197), de 20 de Outubro de 1967, e outras que a Direcção-Geral de Saúde venha a estabelecer.
 
-###### Art. 5.º Os alimentos dietéticos postos à venda devem ter rótulos ou etiquetas, mencionando em língua portuguesa:
+Art. 5.º Os alimentos dietéticos postos à venda devem ter rótulos ou etiquetas, mencionando em língua portuguesa:
 
 a) Nome do produto e finalidade a que se destina;
 
@@ -168,30 +191,30 @@ Composição alimentar por 100 g do produto posto à venda;
 
 Processos utilizados na preparação e que lhe confiram propriedades características.
 
-###### Art. 6.º - 1. É proibido inscrever nos recipientes ou nas embalagens dos alimentos dietéticos, nos impressos comerciais ou em qualquer outra forma de publicidade, salvo na literatura destinada exclusivamente à classe médica, quaisquer alusões a propriedades preventivas ou curativas de doença ou outras susceptíveis de causar no espírito do comprador confusão sobre a composição, qualidades, teores em princípios úteis, peso ou origem dos produtos considerados.
+Art. 6.º - 1. É proibido inscrever nos recipientes ou nas embalagens dos alimentos dietéticos, nos impressos comerciais ou em qualquer outra forma de publicidade, salvo na literatura destinada exclusivamente à classe médica, quaisquer alusões a propriedades preventivas ou curativas de doença ou outras susceptíveis de causar no espírito do comprador confusão sobre a composição, qualidades, teores em princípios úteis, peso ou origem dos produtos considerados.
 
 2. Os produtos com propriedades medicamentosas não podem ser vendidos como alimentos dietéticos nem sobre eles incidir qualquer forma de publicidade que os faça supor que se trata de tais alimentos.
 
-###### Art. 7.º - 1. Os pedidos para lançar no mercado, nos termos do artigo 3.º deste decreto, um alimento dietético, nacional ou estrangeiro, devem ser instruídos com documento proveniente de laboratório oficial, referindo a composição e características higiénicas, modelo de embalagem, textos de literatura e de rotulagem e outras referências que se revelem convenientes.
+Art. 7.º - 1. Os pedidos para lançar no mercado, nos termos do artigo 3.º deste decreto, um alimento dietético, nacional ou estrangeiro, devem ser instruídos com documento proveniente de laboratório oficial, referindo a composição e características higiénicas, modelo de embalagem, textos de literatura e de rotulagem e outras referências que se revelem convenientes.
 
 2. Os estabelecimentos de fabrico, a armazenagem, o transporte e a venda de produtos abrangidos por este diploma são sujeitos a vistoria da Direcção-Geral de Saúde.
 
-###### Art. 8.º Dos pareceres ou decisões desfavoráveis emitidos sobre alimentos dietéticos podem os requerentes, no prazo de trinta dias, a contar da recepção da comunicação, interpor recurso para o Ministro da Saúde e Assistência, que decidirá, depois de ouvido o Conselho Superior de Higiene e Assistência Social.
+Art. 8.º Dos pareceres ou decisões desfavoráveis emitidos sobre alimentos dietéticos podem os requerentes, no prazo de trinta dias, a contar da recepção da comunicação, interpor recurso para o Ministro da Saúde e Assistência, que decidirá, depois de ouvido o Conselho Superior de Higiene e Assistência Social.
 
-###### Art. 9.º - 1. A fiscalização das disposições contidas neste decreto compete à Direcção-Geral de Saúde e às Inspecções-Gerais dos Produtos Agrícolas e Industriais e das Actividades Económicas, incumbindo a estas Inspecções-Gerais a organização dos respectivos processos.
+Art. 9.º - 1. A fiscalização das disposições contidas neste decreto compete à Direcção-Geral de Saúde e às Inspecções-Gerais dos Produtos Agrícolas e Industriais e das Actividades Económicas, incumbindo a estas Inspecções-Gerais a organização dos respectivos processos.
 
 2. Dos autos levantados pelas Inspecções-Gerais será dado conhecimento à Direcção-Geral de Saúde para a aplicação das medidas de ordem sanitária que se imponham, sem prejuízo da organização e andamento do processo competente.
 
-###### Art. 10.º As infracções ao disposto neste decreto são punidas nos termos dos artigos 16.º e seguintes do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 10.º As infracções ao disposto neste decreto são punidas nos termos dos artigos 16.º e seguintes do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 11.º As dúvidas suscitadas quanto à execução deste diploma são resolvidas por despacho do Ministro da Saúde e Assistência, ouvida a Direcção-Geral de Saúde.
+Art. 11.º As dúvidas suscitadas quanto à execução deste diploma são resolvidas por despacho do Ministro da Saúde e Assistência, ouvida a Direcção-Geral de Saúde.
 
-###### Art. 12.º Dentro do prazo de cento e oitenta dias, a contar da data da entrada em vigor do presente decreto, deverá ser retirada a designação de alimento dietético ou outro equivalente aos produtos que se encontrem à venda e que não obedecem às condições estabelecidas neste diploma.
+Art. 12.º Dentro do prazo de cento e oitenta dias, a contar da data da entrada em vigor do presente decreto, deverá ser retirada a designação de alimento dietético ou outro equivalente aos produtos que se encontrem à venda e que não obedecem às condições estabelecidas neste diploma.
 
 Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 19 de Junho de 1970.**
+Promulgado em 19 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

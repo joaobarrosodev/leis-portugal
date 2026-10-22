@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42868-1960-281850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 100cdaef084a6a4a8e78a920f9038cba745ae2b04da330dca298d69623989ef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6071531e15a22bc0aeba74e929b2e52221b86127716933dd2d2dd7b2ebe401f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331617:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:23Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +107,22 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada na Direcção-Geral de Transportes Terrestres a Direcção dos Serviços Administrativos, que compreenderá as actuais Repartição de Pessoal, Expediente e Contabilidade e Repartição de Transgressões e Acidentes, às quais se referem as alíneas A) e B) do artigo 2.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951.
+Artigo 1.º É criada na Direcção-Geral de Transportes Terrestres a Direcção dos Serviços Administrativos, que compreenderá as actuais Repartição de Pessoal, Expediente e Contabilidade e Repartição de Transgressões e Acidentes, às quais se referem as alíneas A) e B) do artigo 2.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951.
 
-###### Art. 2.º São criados na Direcção-Geral de Transportes Terrestres dois lugares de assessor jurídico, devendo o seu provimento recair em indivíduos licenciados em Direito, de reconhecida competência, por escolha do Ministro das Comunicações, sob proposta do director-geral de Transportes Terrestres.
+Art. 2.º São criados na Direcção-Geral de Transportes Terrestres dois lugares de assessor jurídico, devendo o seu provimento recair em indivíduos licenciados em Direito, de reconhecida competência, por escolha do Ministro das Comunicações, sob proposta do director-geral de Transportes Terrestres.
 
 § único. Estas nomeações poderão tornar-se definitivas depois de um ano de bom e efectivo serviço.
 
-###### Art. 3.º O provimento do lugar de director dos Serviços Administrativos, que poderá tornar-se definitivo depois de um ano de bom e efectivo serviço, será feito por escolha do Ministro das Comunicações entre chefes de repartição e engenheiros de 1.ª classe dos quadros da Direcção-Geral, ou entre indivíduos estranhos aos quadros, de reconhecida competência e habilitados com um curso superior adequado.
+Art. 3.º O provimento do lugar de director dos Serviços Administrativos, que poderá tornar-se definitivo depois de um ano de bom e efectivo serviço, será feito por escolha do Ministro das Comunicações entre chefes de repartição e engenheiros de 1.ª classe dos quadros da Direcção-Geral, ou entre indivíduos estranhos aos quadros, de reconhecida competência e habilitados com um curso superior adequado.
 
 § único (transitório). Exceptua-se do disposto neste artigo o primeiro provimento do lugar, que recairá no director de serviços referido no artigo 31.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, o qual se considerará provido definitivamente, independentemente de qualquer outra exigência ou formalidade legal, após a entrada em vigor do presente diploma.
 
-###### Art. 4.º O director-geral de Transportes Terrestres poderá delegar nos directores de serviços as atribuições que digam respeito ao despacho corrente respectivo; anàlogamente, os directores de serviços e os chefes de repartição poderão delegar em funcionários da sua dependência o despacho dos assuntos correntes dos seus serviços, mediante prévia autorização do director-geral.
+Art. 4.º O director-geral de Transportes Terrestres poderá delegar nos directores de serviços as atribuições que digam respeito ao despacho corrente respectivo; anàlogamente, os directores de serviços e os chefes de repartição poderão delegar em funcionários da sua dependência o despacho dos assuntos correntes dos seus serviços, mediante prévia autorização do director-geral.
 
-###### Art. 5.º É alterado o quadro do pessoal da Direcção-Geral de Transportes Terrestres constante do mapa anexo ao [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), acrescentando-se-lhe um lugar de director de serviços, na categoria de pessoal superior e com o vencimento definido pela letra D do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e dois de assessor jurídico, na categoria de pessoal administrativo e com o vencimento da letra H do mesmo preceito.
+Art. 5.º É alterado o quadro do pessoal da Direcção-Geral de Transportes Terrestres constante do mapa anexo ao [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), acrescentando-se-lhe um lugar de director de serviços, na categoria de pessoal superior e com o vencimento definido pela letra D do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e dois de assessor jurídico, na categoria de pessoal administrativo e com o vencimento da letra H do mesmo preceito.
 
-###### Art. 6.º Os encargos a que derem lugar, no corrente ano, as remunerações do director de serviços continuarão a ser suportados pela dotação inscrita no capítulo 3.º do orçamento do Ministério das Comunicações, para pessoal além dos quadros, sendo os encargos resultantes das remunerações dos assessores jurídicos satisfeitos pelas disponibilidades que se verificarem nas dotações do mesmo orçamento destinadas a pessoal dos quadros aprovados por lei, convenientemente reforçadas se vierem a mostrar-se insuficientes.
+Art. 6.º Os encargos a que derem lugar, no corrente ano, as remunerações do director de serviços continuarão a ser suportados pela dotação inscrita no capítulo 3.º do orçamento do Ministério das Comunicações, para pessoal além dos quadros, sendo os encargos resultantes das remunerações dos assessores jurídicos satisfeitos pelas disponibilidades que se verificarem nas dotações do mesmo orçamento destinadas a pessoal dos quadros aprovados por lei, convenientemente reforçadas se vierem a mostrar-se insuficientes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Março de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48566-1968-265113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 278e24ea3caac782922121c9790b8fb3c46ddc3f63626b90b8e22ac45ab949ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d45ac64975724702d45f2853e8827db25b39146b045bb38ce8ca7952937d7591
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimentos Fabris do Exército
+- Laboratório Militar de Produtos Químicos e Farmacêuticos
+- Manutenção Militar
+- Ministério do Exército
+- Oficinas Gerais de Fardamento e Equipamento
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:583587:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473745:por
+  label: "Alterado o quadro de pessoal civil, assalariado e contratado da Manutenção Militar constante do Dec Lei 41892 de\
+    \ 03-Out de 1958, com as alterações constantes do presente diploma, pelo DEC LEI.429/74.11.09.1974.CCEMFA, DG.IS [212]\
+    \ de 11.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/429-1974-473745
+  date: '1974-09-11'
+- type: amended_by
+  target: pt:dre:501588:por
+  label: Substituído o mapa VI anexo pelo(a) Portaria n.º 135/76 - Diário do Governo n.º 60/1976, Série I de 1976-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-1976-501588
+  date: '1976-03-11'
+- type: amended_by
+  target: pt:dre:583584:por
+  label: "Substituídas as designações do pessoal civil referidas no quadro orgânico do Laboratório Militar de Produtos Químicos\
+    \ e Farmacêuticos constantes do anexo VII pela PORT.642-C/78.26.10.1978.CR, DR.IS [247-Supl] de 26.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-c-1978-583584
+  date: '1978-10-26'
+- type: amended_by
+  target: pt:dre:583587:por
+  label: "Substituídas as designações do pessoal civil referidas no quadro orgânico da Manutenção Militar constante do mapa\
+    \ VI anexo pela PORT.642-F/78.26.10.1978.CR, DR.IS [247-Supl] de 26.10.1978\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-f-1978-583587
+  date: '1978-10-26'
+- type: cites
+  target: pt:dre:181605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:28Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +129,9 @@ Tornando-se necessário alterar os quadros orgânicos das Oficinas Gerais de Far
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os mapas V, VI e VII anexos ao [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, alterado pelo [Decreto-Lei n.º 44045](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44045-1961-181605), de 20 de Novembro de 1961, são substituídos pelos anexos ao presente diploma.
+Artigo único. Os mapas V, VI e VII anexos ao [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, alterado pelo [Decreto-Lei n.º 44045](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44045-1961-181605), de 20 de Novembro de 1961, são substituídos pelos anexos ao presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -103,7 +141,7 @@ Oficinas Gerais de Fardamento
 
 Quadro orgânico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf))](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf)
 
 MAPA VI
 
@@ -111,7 +149,7 @@ Manutenção Militar
 
 Quadro orgânico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf))](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf)
 
 MAPA VII
 
@@ -119,6 +157,6 @@ Laboratório Militar de Produtos Químicos e Farmacêuticos
 
 Quadro orgânico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf))](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/20800/12751280.pdf)
 
 Ministério do Exército, 3 de Setembro de 1968. - O Ministro do Exército, Joaquim da Luz Cunha.

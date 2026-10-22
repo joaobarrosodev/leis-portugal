@@ -49,36 +49,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49017-1969-200833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a71ced3d256e95417cf20fa97e5a24f79f0b8e9ee193f4b6c01853aefa22e5c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e87a322b507928fdf73e7cc3ad5d7fd716718344e21af3ed8d85ae1a898a78a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Direcção Geral da Fazenda Pública
+- Fundo de Turismo
+- Plano de Fomento
+relationships:
+- type: cites
+  target: pt:dre:272046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:22Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +113,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os n.os 2 do artigo 3.º e 3 do artigo 5.º do [Decreto-Lei n.º 48449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48449-1968-272046), de 24 de Junho de 1968, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 2 do artigo 3.º e 3 do artigo 5.º do [Decreto-Lei n.º 48449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48449-1968-272046), de 24 de Junho de 1968, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -107,13 +123,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 ...
 
 3.º O Fundo de Turismo, cujas receitas próprias assegurarão prioritàriamente o pagamento dos juros e amortizações deste empréstimo, entregará anualmente no Tesouro, com a antecipação necessária, as importâncias que deverão fazer face a esses encargos, as quais serão inscritas no orçamento de receita, inscrevendo-se no orçamento de despesa do Ministério das Finanças igual importância.
 
-###### Art. 2.º - 1. A Direcção-Geral da Fazenda Pública é autorizada a emitir a obrigação geral correspondente à 1.ª série de obrigações do «Empréstimo para fomento do turismo - III Plano de Fomento», pelo montante de 120000 contos.
+Art. 2.º - 1. A Direcção-Geral da Fazenda Pública é autorizada a emitir a obrigação geral correspondente à 1.ª série de obrigações do «Empréstimo para fomento do turismo - III Plano de Fomento», pelo montante de 120000 contos.
 
 2. O juro nominal das obrigações será da taxa de 5 3/4 por cento ao ano, pagável aos semestres, em 30 de Junho e 31 de Dezembro de cada ano, com início em 31 de Dezembro de 1969, correspondendo ao tempo de efectivo desembolso dos obrigacionistas.
 
@@ -121,8 +137,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 14 de Maio de 1969.**
+Promulgado em 14 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

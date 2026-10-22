@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45846-1964-580085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 311299ff61d21173b3e1c71bc61499d0e31736decbefbb3da2090af1dc6b4c42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e2af039c54554aba2991217437366baff3bf22b048b7308c14d657acb09c9eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caminhos de Ferro Portugueses
+- Despesas de Deslocação
+- Funcionário Público
+- Transporte Ferroviário
+relationships:
+- type: cites
+  target: pt:dre:627386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:06Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +99,12 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os servidores civis do Estado que, por força da aplicação dos regulamentos orgânicos dos serviços a que pertençam, ou de outros que expressamente lhes respeitem, têm direito ao abono das despesas de transporte em 2.ª classe nas suas deslocações em serviço público por caminho de ferro passam a utilizar a 1.ª classe daquele meio de transporte.
+Artigo 1.º Os servidores civis do Estado que, por força da aplicação dos regulamentos orgânicos dos serviços a que pertençam, ou de outros que expressamente lhes respeitem, têm direito ao abono das despesas de transporte em 2.ª classe nas suas deslocações em serviço público por caminho de ferro passam a utilizar a 1.ª classe daquele meio de transporte.
 
 § único. Esta autorização não é extensiva aos casos em que a utilização da 2.ª classe esteja prevista em regulamento orgânico do serviço, ou outro porventura aplicável, promulgado posteriormente à publicação da [Portaria n.º 19916](https://diariodarepublica.pt/dr/detalhe/portaria/19916-1963-627386), de 22 de Junho de 1963.
 
-###### Art. 2.º Passam a viajar em 2.ª classe os servidores civis do Estado que por disposição legal tinham direito ao abono das despesas de transporte em 3.ª classe nas deslocações em caminho de ferro por motivo de serviço público.
+Art. 2.º Passam a viajar em 2.ª classe os servidores civis do Estado que por disposição legal tinham direito ao abono das despesas de transporte em 3.ª classe nas deslocações em caminho de ferro por motivo de serviço público.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

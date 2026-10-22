@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/271-1971-643348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3a55e211ef95c5879bb1c1b8f5fee302f4fc4eb5c72ee3e8d3f0edd7030dba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e189e52a2e3bc18363f4459d45f02cb2932ffc4cd77218e5d99d287a7102872
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência de Turismo
+- Carteira Profissional
+- Direcção Geral do Turismo
+- Formação Profissional
+- Informação Turística
+- Regulamento
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445948:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:59Z'
   warnings: []
   errors: []
 ---
@@ -94,25 +109,25 @@ REGULAMENTO DAS ACTIVIDADES DE INFORMAÇÃO TURÍSTICA
 
 ### CAPÍTULO I — Das categorias profissionais e condições do seu exercício
 
-###### Artigo 1.º As categorias profissionais de transferista, guia regional, guia-intérprete, correio de turismo e guia de arte e o exercício das respectivas actividades ficam sujeitos ao estabelecido no [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), de 26 de Janeiro, e no presente Regulamento.
+Artigo 1.º As categorias profissionais de transferista, guia regional, guia-intérprete, correio de turismo e guia de arte e o exercício das respectivas actividades ficam sujeitos ao estabelecido no [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), de 26 de Janeiro, e no presente Regulamento.
 
-###### Art. 2.º Transferista é o indivíduo cuja actividade consiste em acolher e acompanhar, por conta de outrem, turistas prèviamente determinados, de estações terrestres, marítimas ou aéreas, para estabelecimentos hoteleiros e similares, ou destes para aquelas ou, ainda, em trânsito de uma estação para outra.
+Art. 2.º Transferista é o indivíduo cuja actividade consiste em acolher e acompanhar, por conta de outrem, turistas prèviamente determinados, de estações terrestres, marítimas ou aéreas, para estabelecimentos hoteleiros e similares, ou destes para aquelas ou, ainda, em trânsito de uma estação para outra.
 
-###### Art. 3.º Entende-se por guia regional aquele que acompanha turistas em viagens turísticas e visitas a locais de interesse, tais como museus, palácios e monumentos nacionais, prestando informações de carácter geral e histórico-cultural, e cuja actividade se exerce exclusivamente numa região definida.
+Art. 3.º Entende-se por guia regional aquele que acompanha turistas em viagens turísticas e visitas a locais de interesse, tais como museus, palácios e monumentos nacionais, prestando informações de carácter geral e histórico-cultural, e cuja actividade se exerce exclusivamente numa região definida.
 
-###### Art. 4.º Entende-se por guia-intérprete aquele que acompanha turistas em viagens turísticas e visitas a locais de interesse, tais como museus, palácios e monumentos nacionais, prestando informações de carácter geral e histórico-cultural, cuja actividade abrange todo o território nacional.
+Art. 4.º Entende-se por guia-intérprete aquele que acompanha turistas em viagens turísticas e visitas a locais de interesse, tais como museus, palácios e monumentos nacionais, prestando informações de carácter geral e histórico-cultural, cuja actividade abrange todo o território nacional.
 
-###### Art. 5.º Correio de turismo é o indivíduo que, além da actividade indicada no artigo anterior, acompanha viagens turísticas para o estrangeiro como representante dos respectivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens.
+Art. 5.º Correio de turismo é o indivíduo que, além da actividade indicada no artigo anterior, acompanha viagens turísticas para o estrangeiro como representante dos respectivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens.
 
-###### Art. 6.º Guia de arte é o indivíduo que conduz visitas nas museus, palácios e monumentos em relação aos quais prèviamente se especializou.
+Art. 6.º Guia de arte é o indivíduo que conduz visitas nas museus, palácios e monumentos em relação aos quais prèviamente se especializou.
 
-###### Art. 7.º - 1. A actividade de transferista poderá ser exercida por indivíduos habilitados com o respectivo curso de formação ou que, possuindo o 2.º ciclo liceal ou equivalente e conhecimentos adequados das línguas francesa ou inglesa, sejam considerados aptos pelas organizações interessadas.
+Art. 7.º - 1. A actividade de transferista poderá ser exercida por indivíduos habilitados com o respectivo curso de formação ou que, possuindo o 2.º ciclo liceal ou equivalente e conhecimentos adequados das línguas francesa ou inglesa, sejam considerados aptos pelas organizações interessadas.
 
 2. O conhecimento das línguas francesa ou inglesa será comprovado mediante exame para o efeito organizado pelo Centro Nacional de Formação Turística e Hoteleira.
 
 3. O serviço de transferista poderá também ser prestado acidentalmente por outros empregados dos quadros das empresas, habilitados com o exame referido no número anterior, desde que as empresas remetam prèviamente a relação nominal do pessoal a utilizar nesse serviço à Direcção-Geral do Turismo e, por cópia, ao Sindicato Nacional dos Guias e Intérpretes.
 
-###### Art. 8.º - 1. A actividade de guia regional só poderá ser exercida por indivíduos habilitados com o respectivo curso de formação.
+Art. 8.º - 1. A actividade de guia regional só poderá ser exercida por indivíduos habilitados com o respectivo curso de formação.
 
 2. O guia regional exercerá a sua actividade na região abrangida pelo curso em que haja obtido aprovação.
 
@@ -120,31 +135,31 @@ REGULAMENTO DAS ACTIVIDADES DE INFORMAÇÃO TURÍSTICA
 
 4. Os guias regionais poderão acompanhar turistas, apenas em serviço contínuo de ida e volta com a duração máxima de dois dias, a regiões vizinhas, excluídas as cidades e regiões indicadas no n.º 3.
 
-###### Art. 9.º A actividade de guia-intérprete só poderá ser exercida por indivíduos habilitados com o respectivo curso de formação.
+Art. 9.º A actividade de guia-intérprete só poderá ser exercida por indivíduos habilitados com o respectivo curso de formação.
 
-###### Art. 10.º - 1. A actividade de correio de turismo só poderá ser exercida por indivíduos habilitados com o respectivo curso de formação e que exerçam a profissão de guia-intérprete há mais de dois anos.
+Art. 10.º - 1. A actividade de correio de turismo só poderá ser exercida por indivíduos habilitados com o respectivo curso de formação e que exerçam a profissão de guia-intérprete há mais de dois anos.
 
 2. Exceptuam-se do disposto no número anterior os correios de turismo de nacionalidade estrangeira que entrem em Portugal no exercício da sua profissão.
 
 3. Os correios de turismo estrangeiros não poderão, porém, conduzir visitas em museus, palácios e monumentos nacionais ou outros locais de interesse turístico, devendo a sua actividade restringir-se, nesses lugares, a assistir os turistas que acompanham.
 
-###### Art. 11.º - 1. A actividade de guia de arte poderá ser exercida por indivíduos habilitados com o respectivo curso de formação e que possuam a categoria profissional de guia-intérprete.
+Art. 11.º - 1. A actividade de guia de arte poderá ser exercida por indivíduos habilitados com o respectivo curso de formação e que possuam a categoria profissional de guia-intérprete.
 
 2. Excepcionalmente, o Secretário de Estado da Informação e Turismo poderá autorizar o exercício da actividade de guia de arte, independentemente da posse dos requisitos estabelecidos no número anterior, aos indivíduos a quem reconheça competência para exercer a referida actividade no museu, palácio ou monumento em relação ao qual possuam conhecimentos especializados.
 
-###### Art. 12.º - 1. Os cursos de formação do pessoal de informação turística serão instituídos ou aprovados pelo Centro Nacional de Formação Turística e Hoteleira, de acordo com o estabelecido na portaria prevista no número seguinte.
+Art. 12.º - 1. Os cursos de formação do pessoal de informação turística serão instituídos ou aprovados pelo Centro Nacional de Formação Turística e Hoteleira, de acordo com o estabelecido na portaria prevista no número seguinte.
 
 2. As habilitações mínimas de admissão aos cursos de formação turística, os correspondentes planos de estudos e planos de cursos, bem como as condições de concessão dos respectivos diplomas, serão estabelecidos por portaria conjunta do Ministro da Educação Nacional e do Secretário de Estado da Informação e Turismo, mediante proposta do Centro Nacional de Formação Turística e Hoteleira.
 
 3. Compete ainda ao Centro a definição das regiões a considerar para efeito dos cursos de formação de guias regionais.
 
-###### Art. 13.º - 1. Quando não existam profissionais desocupados, a Direcção-Geral do Turismo poderá autorizar, por períodos não superiores a sessenta dias, o exercício das actividades de guia regional, guia-intérprete, correio de turismo ou guia de arte, independentemente da posse da respectiva carteira profissional, a indivíduos de nacionalidade portuguesa alunos dos cursos de turismo instituídos ou aprovados pelo Centro Nacional de Formação Turística e Hoteleira.
+Art. 13.º - 1. Quando não existam profissionais desocupados, a Direcção-Geral do Turismo poderá autorizar, por períodos não superiores a sessenta dias, o exercício das actividades de guia regional, guia-intérprete, correio de turismo ou guia de arte, independentemente da posse da respectiva carteira profissional, a indivíduos de nacionalidade portuguesa alunos dos cursos de turismo instituídos ou aprovados pelo Centro Nacional de Formação Turística e Hoteleira.
 
 2. A autorização a que se refere o n.º 1 deverá ser solicitada ao director-geral do Turismo em requerimento contendo a identificação dos indivíduos que irão desempenhar essas actividades, acompanhado de declaração, prestada sob compromisso de honra, de que os mesmos não estão abrangidos pelo estabelecido no artigo 5.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), e bem assim de documento comprovativo da informação do Sindicato a que se refere o n.º 1 do artigo seguinte ou, quando esta não tenha sido dada, do recibo mencionado no n.º 4 do mesmo artigo.
 
 3. A Direcção-Geral do Turismo enviará ao Sindicato Nacional dos Guias e Intérpretes relação nominal dos indivíduos autorizados nos termos do n.º 1.
 
-###### Art. 14.º - 1. Considera-se que não há pessoal de informação turística desocupado quando, tendo sido requisitado ao Sindicato Nacional dos Guias e Intérpretes, com a antecedência mínima de vinte e quatro horas, este informe que não existem, nos seus registos, profissionais disponíveis para realização do serviço pretendido.
+Art. 14.º - 1. Considera-se que não há pessoal de informação turística desocupado quando, tendo sido requisitado ao Sindicato Nacional dos Guias e Intérpretes, com a antecedência mínima de vinte e quatro horas, este informe que não existem, nos seus registos, profissionais disponíveis para realização do serviço pretendido.
 
 2. O Sindicato deverá prestar a informação prevista no número anterior dentro das seis horas seguintes ao recebimento do pedido, sob cominação de se considerar que não existe pessoal desocupado.
 
@@ -152,7 +167,7 @@ REGULAMENTO DAS ACTIVIDADES DE INFORMAÇÃO TURÍSTICA
 
 4. O Sindicato deverá passar recibo das requisições que lhe sejam apresentadas nos termos do n.º 1.
 
-###### Art. 15.º - 1. Verificada, nos termos do n.º 1 do artigo anterior, a falta de guias regionais, guias-intérpretes ou correios de turismo, as agências de viagens considerar-se-ão autorizadas a utilizar empregados seus no exercício daquelas actividades, exclusivamente para o serviço em questão, mediante prévia comunicação do facto à Direcção-Geral do Turismo.
+Art. 15.º - 1. Verificada, nos termos do n.º 1 do artigo anterior, a falta de guias regionais, guias-intérpretes ou correios de turismo, as agências de viagens considerar-se-ão autorizadas a utilizar empregados seus no exercício daquelas actividades, exclusivamente para o serviço em questão, mediante prévia comunicação do facto à Direcção-Geral do Turismo.
 
 2. Desta comunicação será enviada cópia ao Sindicato Nacional dos Guias e Intérpretes no prazo de vinte e quatro horas.
 
@@ -164,9 +179,9 @@ REGULAMENTO DAS ACTIVIDADES DE INFORMAÇÃO TURÍSTICA
 
 6. As agências de viagens só poderão utilizar nos serviços previstos neste artigo indivíduos que satisfaçam os requisitos estabelecidos no n.º 1 do artigo 4.º e no artigo 5.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
 
-###### Art. 16.º O mesmo indivíduo poderá exercer cumulativamente mais que uma profissão de informação turística, desde que satisfaça simultâneamente as condições exigidas para cada uma delas.
+Art. 16.º O mesmo indivíduo poderá exercer cumulativamente mais que uma profissão de informação turística, desde que satisfaça simultâneamente as condições exigidas para cada uma delas.
 
-###### Art. 17.º - 1. A carteira profissional é título obrigatório para o exercício das profissões de informação turística, salvo o disposto no número seguinte.
+Art. 17.º - 1. A carteira profissional é título obrigatório para o exercício das profissões de informação turística, salvo o disposto no número seguinte.
 
 2. Não carecem de carteira profissional os indivíduos habilitados nos termos do n.º 3 do artigo 7.º, do n.º 1 do artigo 13.º e do artigo 15.º e os correios de turismo estrangeiros que exerçam a sua actividade nos termos do n.º 2 do artigo 10.º
 
@@ -176,13 +191,13 @@ REGULAMENTO DAS ACTIVIDADES DE INFORMAÇÃO TURÍSTICA
 
 5. Relativamente aos correios de turismo estrangeiros, constitui título bastante o documento comprovativo da respectiva categoria, nos termos da legislação do seu país de origem.
 
-###### Art. 18.º - 1. A carteira profissional só poderá ser concedida aos indivíduos que satisfaçam aos requisitos para o exercício das profissões de informação turística previstos no [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948) e no presente Regulamento.
+Art. 18.º - 1. A carteira profissional só poderá ser concedida aos indivíduos que satisfaçam aos requisitos para o exercício das profissões de informação turística previstos no [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948) e no presente Regulamento.
 
 2. A carteira profissional será cassada sempre que o respectivo titular deixe de satisfazer a algum dos requisitos referidos no número anterior.
 
 3. A carteira profissional será ainda temporàriamente cassada enquanto se verificarem as incompatibilidades resultantes do disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
 
-###### Art. 19.º Não são consideradas actividades de informação turística as exercidas por:
+Art. 19.º Não são consideradas actividades de informação turística as exercidas por:
 
 a) Corretores de estabelecimentos hoteleiros e similares, desde que se limitem exclusivamente à angariação de clientes e seu acompanhamento;
 
@@ -190,55 +205,55 @@ b) Empregados de museus, palácios e monumentos nos respectivos locais de trabal
 
 ### CAPÍTULO II — Da disciplina
 
-###### Art. 20.º - 1. O pessoal de informação turística deverá exibir a carteira profissional aos funcionários da Direcção-Geral do Turismo com funções de chefia ou fiscalização, à Inspecção do Trabalho, às autoridades e seus agentes e às pessoas a quem prestem serviço sempre que tal lhes seja solicitado.
+Art. 20.º - 1. O pessoal de informação turística deverá exibir a carteira profissional aos funcionários da Direcção-Geral do Turismo com funções de chefia ou fiscalização, à Inspecção do Trabalho, às autoridades e seus agentes e às pessoas a quem prestem serviço sempre que tal lhes seja solicitado.
 
 2. A obrigação estabelecida no número anterior é igualmente aplicável em relação aos documentos referidos nos n.os 3, 4 e 5 artigo 17.º
 
-###### Art. 21.º O pessoal de informação turística é obrigado a defender os interesses dos turistas que acompanha e a usar de toda a diligência no sentido de impedir que sejam lesados, devendo comunicar imediatamente à Direcção-Geral do Turismo qualquer facto anormal que verifique.
+Art. 21.º O pessoal de informação turística é obrigado a defender os interesses dos turistas que acompanha e a usar de toda a diligência no sentido de impedir que sejam lesados, devendo comunicar imediatamente à Direcção-Geral do Turismo qualquer facto anormal que verifique.
 
-###### Art. 22.º Os guias regionais, guias-intérpretes, correios de turismo e guias de arte devem entregar, quando contratados directamente pelas entidades a quem prestem serviço e lhes seja por elas pedido, uma nota, segundo modelo estabelecido pela Direcção-Geral do Turismo, donde conste discriminadamente a hora do início e do termo do serviço, o número de pessoas acompanhadas, o itinerário, a importância recebida pelo serviço e o número de matrícula do veículo utilizado no transporte.
+Art. 22.º Os guias regionais, guias-intérpretes, correios de turismo e guias de arte devem entregar, quando contratados directamente pelas entidades a quem prestem serviço e lhes seja por elas pedido, uma nota, segundo modelo estabelecido pela Direcção-Geral do Turismo, donde conste discriminadamente a hora do início e do termo do serviço, o número de pessoas acompanhadas, o itinerário, a importância recebida pelo serviço e o número de matrícula do veículo utilizado no transporte.
 
-###### Art. 23.º O pessoal a que este diploma respeita não deverá interferir na destinação dos turistas, sendo-lhe designadamente vedado desviar ou tentar desviar estes da agência de viagens, estabelecimento hoteleiro e similar ou outra organização a que forem destinados, bem como receber qualquer comissão ou gratificação pelo encaminhamento de turistas para esses estabelecimentos.
+Art. 23.º O pessoal a que este diploma respeita não deverá interferir na destinação dos turistas, sendo-lhe designadamente vedado desviar ou tentar desviar estes da agência de viagens, estabelecimento hoteleiro e similar ou outra organização a que forem destinados, bem como receber qualquer comissão ou gratificação pelo encaminhamento de turistas para esses estabelecimentos.
 
-###### Art. 24.º O pessoal de informação turística deverá ter sempre uma boa apresentação e usar da maior urbanidade com todos aqueles a quem preste serviço.
+Art. 24.º O pessoal de informação turística deverá ter sempre uma boa apresentação e usar da maior urbanidade com todos aqueles a quem preste serviço.
 
-###### Art. 25.º - 1. No exercício da respectiva profissão, o pessoal de informação turística usará obrigatòriamente um distintivo de modelo aprovado pela Direcção-Geral do Turismo, com exclusão de qualquer outro, salvo o disposto no número seguinte.
+Art. 25.º - 1. No exercício da respectiva profissão, o pessoal de informação turística usará obrigatòriamente um distintivo de modelo aprovado pela Direcção-Geral do Turismo, com exclusão de qualquer outro, salvo o disposto no número seguinte.
 
 2. Os transferistas poderão usar também o distintivo da empresa respectiva.
 
 3. O disposto neste artigo não se aplica ao pessoal de informação turística que exerça a respectiva actividade a título acidental ou temporário e aos correios de turismo estrangeiros.
 
-###### Art. 26.º É vedado ao pessoal de informação turística interferir no despacho aduaneiro, salvo a pedido das respectivas autoridades.
+Art. 26.º É vedado ao pessoal de informação turística interferir no despacho aduaneiro, salvo a pedido das respectivas autoridades.
 
 ### CAPÍTULO III — Das infracções e sua sanção
 
 #### SECÇÃO I — Das sanções disciplinares
 
-###### Art. 27.º As infracções ao disposto nos artigos 20.º, 24.º, 25.º e 26.º serão punidas com advertência.
+Art. 27.º As infracções ao disposto nos artigos 20.º, 24.º, 25.º e 26.º serão punidas com advertência.
 
-###### Art. 28.º - 1. A infracção ao disposto no artigo 21.º será punida com repreensão registada.
+Art. 28.º - 1. A infracção ao disposto no artigo 21.º será punida com repreensão registada.
 
 2. O preenchimento inexacto, com intenção de prejudicar, da nota referida no artigo 22.º será punido com a mesma sanção.
 
 3. Às importâncias indevidamente recebidas aplicar-se-á o disposto no artigo 19.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
 
-###### Art. 29.º A infracção ao disposto no artigo 23.º será punida com advertência ou repreensão, conforme a gravidade da falta, e ainda, no caso de recebimento de comissão ou gratificação, com a perda da respectiva importância a favor do Fundo de Turismo.
+Art. 29.º A infracção ao disposto no artigo 23.º será punida com advertência ou repreensão, conforme a gravidade da falta, e ainda, no caso de recebimento de comissão ou gratificação, com a perda da respectiva importância a favor do Fundo de Turismo.
 
-###### Art. 30.º O exercício da actividade de transferista em regime de profissão livre por indivíduos munidos de título bastante para o desempenho da mesma actividade será punido com repreensão registada e, em caso de reincidência, com a suspensão do exercício da profissão até seis meses.
+Art. 30.º O exercício da actividade de transferista em regime de profissão livre por indivíduos munidos de título bastante para o desempenho da mesma actividade será punido com repreensão registada e, em caso de reincidência, com a suspensão do exercício da profissão até seis meses.
 
-###### Art. 31.º A infracção ao disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948) será punida com a suspensão do exercício da profissão até um ano.
+Art. 31.º A infracção ao disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948) será punida com a suspensão do exercício da profissão até um ano.
 
-###### Art. 32.º Ao pessoal de informação turística cujo comportamento se mostre susceptível de comprometer gravemente os interesses morais e materiais dos turistas e a segurança ou o prestígio do País, ou que, por faltas repetidas e graves, revelem não possuir os requisitos inerentes ao exercício dessas profissões, será aplicada a sanção de interdição definitiva do exercício da profissão.
+Art. 32.º Ao pessoal de informação turística cujo comportamento se mostre susceptível de comprometer gravemente os interesses morais e materiais dos turistas e a segurança ou o prestígio do País, ou que, por faltas repetidas e graves, revelem não possuir os requisitos inerentes ao exercício dessas profissões, será aplicada a sanção de interdição definitiva do exercício da profissão.
 
 #### SECÇÃO II — Das restantes sanções
 
-###### Art. 33.º As entidades que utilizem os serviços de transferistes sem título bastante serão punidas com multa de 5000$00 a 10000$00.
+Art. 33.º As entidades que utilizem os serviços de transferistes sem título bastante serão punidas com multa de 5000$00 a 10000$00.
 
-###### Art. 34.º As entidades que utilizem os serviços de guias regionais sem título bastante serão punidas com multa de 5000$00 a 15000$00.
+Art. 34.º As entidades que utilizem os serviços de guias regionais sem título bastante serão punidas com multa de 5000$00 a 15000$00.
 
-###### Art. 35.º As entidades que utilizem os serviços de indivíduos que exerçam as profissões de guias-intérpretes, correios de turismo e guias de arte sem título bastante serão punidas com multa de 10000$00 a 20000$00.
+Art. 35.º As entidades que utilizem os serviços de indivíduos que exerçam as profissões de guias-intérpretes, correios de turismo e guias de arte sem título bastante serão punidas com multa de 10000$00 a 20000$00.
 
-###### Art. 36.º - 1. Pelas infracções ao estabelecido no artigo 15.º as empresas exploradoras de agências de viagens serão punidas nos termos seguintes:
+Art. 36.º - 1. Pelas infracções ao estabelecido no artigo 15.º as empresas exploradoras de agências de viagens serão punidas nos termos seguintes:
 
 a) Pela falta da comunicação prévia referida no n.º 1, multa de 1000$00 a 5000$00;
 
@@ -250,27 +265,27 @@ d) Pela infracção ao disposto no n.º 6, multa de 5000$00 a 20000$00.
 
 2. O quantitativo da multa a aplicar será fixado tendo em atenção a natureza do serviço efectuado.
 
-###### Art. 37.º Os responsáveis pela gerência das empresas que sejam autores morais da infracção ao disposto no artigo 23.º, ou que dela tenham conscientemente aproveitado, serão punidos com multa de 5000$00 a 15000$00.
+Art. 37.º Os responsáveis pela gerência das empresas que sejam autores morais da infracção ao disposto no artigo 23.º, ou que dela tenham conscientemente aproveitado, serão punidos com multa de 5000$00 a 15000$00.
 
-###### Art. 38.º O exercício da actividade de guia regional em regime de profissão livre, sem título bastante, será punido com multa de 5000$00 a 10000$00.
+Art. 38.º O exercício da actividade de guia regional em regime de profissão livre, sem título bastante, será punido com multa de 5000$00 a 10000$00.
 
-###### Art. 39.º O exercício das actividades de guia-intérprete, correio de turismo e guia de arte em regime de profissão livre, sem título bastante, será punido com multa de 10000$00 a 15000$00.
+Art. 39.º O exercício das actividades de guia-intérprete, correio de turismo e guia de arte em regime de profissão livre, sem título bastante, será punido com multa de 10000$00 a 15000$00.
 
 #### SECÇÃO III — Das normas de processo
 
 ##### SUBSECÇÃO I — Dos processos da competência da comissão corporativa
 
-###### Art. 40.º Compete à comissão corporativa, criada nos termos do n.º 2 do artigo 11.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), a instrução dos processos relativos às infracções disciplinares cometidas pelo pessoal de informação turística e a aplicação das respectivas sanções.
+Art. 40.º Compete à comissão corporativa, criada nos termos do n.º 2 do artigo 11.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), a instrução dos processos relativos às infracções disciplinares cometidas pelo pessoal de informação turística e a aplicação das respectivas sanções.
 
-###### Art. 41.º As autoridades administrativas e policiais e seus agentes participarão à Direcção-Geral do Turismo ou à Inspecção do Trabalho, no prazo de dois dias, as infracções cometidas pelo pessoal de informação turística de que tenham conhecimento.
+Art. 41.º As autoridades administrativas e policiais e seus agentes participarão à Direcção-Geral do Turismo ou à Inspecção do Trabalho, no prazo de dois dias, as infracções cometidas pelo pessoal de informação turística de que tenham conhecimento.
 
-###### Art. 42.º - 1. A Direcção-Geral do Turismo, a Inspecção do Trabalho e o Sindicato Nacional dos Guias e Intérpretes remeterão à comissão corporativa, no prazo de dez dias, para efeitos do disposto no artigo 41.º, os autos relativos às infracções de que tenham conhecimento.
+Art. 42.º - 1. A Direcção-Geral do Turismo, a Inspecção do Trabalho e o Sindicato Nacional dos Guias e Intérpretes remeterão à comissão corporativa, no prazo de dez dias, para efeitos do disposto no artigo 41.º, os autos relativos às infracções de que tenham conhecimento.
 
 2. Recebido o auto, o presidente da comissão submetê-lo-á à apreciação desta na primeira reunião que se realizar.
 
 3. Sendo decidido instaurar procedimento disciplinar, a comissão designará logo o respectivo instrutor.
 
-###### Art. 43.º - 1. A instrução do processo é secreta.
+Art. 43.º - 1. A instrução do processo é secreta.
 
 2. A instrução destina-se a provar a existência ou inexistência da infracção, devendo nela efectuar-se todas as diligências necessárias ao apuramento da verdade.
 
@@ -280,50 +295,50 @@ d) Pela infracção ao disposto no n.º 6, multa de 5000$00 a 20000$00.
 
 5. As declarações e os depoimentos devem constar do auto, sem prejuízo do disposto no número anterior.
 
-###### Art. 44.º - 1. Concluída a instrução do processo, será elaborado um relatório sucinto.
+Art. 44.º - 1. Concluída a instrução do processo, será elaborado um relatório sucinto.
 
 2. Se houver prova bastante da prática da infracção, far-se-á constar do relatório a matéria de facto apurada, indicando-se as normas legais aplicáveis e a identidade dos agentes da infracção; no caso de não haver prova bastante ou de se ter concluído pela inexistência da infracção, isso se fará constar, fundamentadamente, do relatório.
 
 3. O processo será em de submetido à apreciação da comissão corporativa, que decidirá.
 
-###### Art. 45.º - 1. O arguido será notificado da decisão que declare a inexistência da infracção ou aplique a correspondente sanção, sem o que esta não produzirá efeito.
+Art. 45.º - 1. O arguido será notificado da decisão que declare a inexistência da infracção ou aplique a correspondente sanção, sem o que esta não produzirá efeito.
 
 2. Da decisão cabe recurso, no prazo de oito dias, para a Junta Disciplinar da Corporação dos Transportes e Turismo.
 
 3. Das decisões da Junta Disciplinar que aplicarem a pena de interdição cabe ainda recurso, nos termos gerais de direito, para o Supremo Tribunal Administrativo.
 
-###### Art. 46.º A comissão corporativa comunicará à Direcção-Geral do Turismo e ao Sindicato Nacional dos Guias e Intérpretes as decisões disciplinares proferidas a final.
+Art. 46.º A comissão corporativa comunicará à Direcção-Geral do Turismo e ao Sindicato Nacional dos Guias e Intérpretes as decisões disciplinares proferidas a final.
 
 ##### SUBSECÇÃO II — Dos processos da competência da Direcção-Geral do Turismo
 
-###### Art. 47.º Compete à Direcção-Geral do Turismo organizar os processos relativos às infracções previstas no n.º 1 do artigo 14.º de [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
+Art. 47.º Compete à Direcção-Geral do Turismo organizar os processos relativos às infracções previstas no n.º 1 do artigo 14.º de [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
 
-###### Art. 48.º Na organização e instrução dos processos referidos no artigo anterior será aplicável o disposto nos artigos 4.º a 12.º do [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março.
+Art. 48.º Na organização e instrução dos processos referidos no artigo anterior será aplicável o disposto nos artigos 4.º a 12.º do [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março.
 
 ### CAPÍTULO IV — Disposições transitórias e finais
 
-###### Art. 49.º - 1. Poderão requerer a carteira profissional de transferista os indivíduos que à data da entrada em vigor deste diploma exerçam a respectiva actividade há mais de dois anos, sejam considerados aptos pela entidade que servem e falem a língua francesa ou inglesa, ainda que não possuam o 2.º ciclo liceal ou equivalente.
+Art. 49.º - 1. Poderão requerer a carteira profissional de transferista os indivíduos que à data da entrada em vigor deste diploma exerçam a respectiva actividade há mais de dois anos, sejam considerados aptos pela entidade que servem e falem a língua francesa ou inglesa, ainda que não possuam o 2.º ciclo liceal ou equivalente.
 
 2. O conhecimento de uma das línguas referidas no número anterior será comprovado mediante exame organizado pelo Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 50.º - 1. Será concedida a carteira profissional de guia-intérprete aos indivíduos que a requeiram e que, segundo a legislação anterior, possuam título bastante para o exercício da respectiva actividade.
+Art. 50.º - 1. Será concedida a carteira profissional de guia-intérprete aos indivíduos que a requeiram e que, segundo a legislação anterior, possuam título bastante para o exercício da respectiva actividade.
 
 2. Poderão requerer a passagem da carteira profissional de guia-intérprete os indivíduos aprovados em exames para guias-intérpretes realizados pelos serviços de turismo, ainda que não possuam título bastante para o exercício da profissão.
 
 3. Nos casos previstos no número anterior, a carteira profissional será passada desde que os requerentes satisfaçam ao disposto no n.º 1 do artigo 4.º e no artigo 5.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
 
-###### Art. 51.º - 1. Será concedida a carteira profissional de correio de turismo aos guias-intérpretes que a requeiram e provem ter mais de dois anos de exercício daquela actividade à data da entrada em vigor deste diploma.
+Art. 51.º - 1. Será concedida a carteira profissional de correio de turismo aos guias-intérpretes que a requeiram e provem ter mais de dois anos de exercício daquela actividade à data da entrada em vigor deste diploma.
 
 2. A carteira profissional de correio de turismo será igualmente concedida, mediante requerimento, aos indivíduos como tais inscritos no Sindicato Nacional dos Guias e Intérpretes e que provem exercer a actividade correspondente há mais de dois anos, contados nos termos do número anterior.
 
-###### Art. 52.º O direito a requerer a carteira profissional previsto nos artigos 49.º, 50.º e 51.º caduca no prazo de seis meses, a contar da entrada em vigor do presente diploma.
+Art. 52.º O direito a requerer a carteira profissional previsto nos artigos 49.º, 50.º e 51.º caduca no prazo de seis meses, a contar da entrada em vigor do presente diploma.
 
-###### Art. 53.º O presente decreto entra em vigor conjuntamente com a portaria que aprovar o Regulamento da Carteira Profissional do Pessoal de Informação Turística, prevista no artigo 9.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
+Art. 53.º O presente decreto entra em vigor conjuntamente com a portaria que aprovar o Regulamento da Carteira Profissional do Pessoal de Informação Turística, prevista no artigo 9.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948).
 
 Marcello Caetano - César Henrique Moreira Baptista.
 
-**Promulgado em 11 de Junho de 1971.**
+Promulgado em 11 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

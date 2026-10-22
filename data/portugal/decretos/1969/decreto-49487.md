@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49487-1969-213057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b448d7d804a65a4ed79bf55970865a1edcd7197d2e719e4b362f9ad12a941c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d5bd10a509ef8262e4107e62d99ae5e13042bd661b7cf1368527c0018078e9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:11Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +107,19 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a província de Cabo Verde a participar na constituição de uma sociedade de economia mista denominada Detosal - Sociedade para o Desenvolvimento e Turismo da Ilha do Sal, S. A. R. L., que terá a sua sede em Santa Maria do Sal e cujo objecto social será o de assegurar e fomentar o desenvolvimento do turismo na referida ilha.
+Artigo 1.º É autorizada a província de Cabo Verde a participar na constituição de uma sociedade de economia mista denominada Detosal - Sociedade para o Desenvolvimento e Turismo da Ilha do Sal, S. A. R. L., que terá a sua sede em Santa Maria do Sal e cujo objecto social será o de assegurar e fomentar o desenvolvimento do turismo na referida ilha.
 
-###### Art. 2.º Em execução do disposto no artigo anterior, a província de Cabo Verde poderá subscrever, pelo seu valor nominal, um número de acções correspondente a 60 por cento do capital social previsto nos respectivos estatutos, que deverão ser aprovados por despacho do Ministro do Ultramar.
+Art. 2.º Em execução do disposto no artigo anterior, a província de Cabo Verde poderá subscrever, pelo seu valor nominal, um número de acções correspondente a 60 por cento do capital social previsto nos respectivos estatutos, que deverão ser aprovados por despacho do Ministro do Ultramar.
 
-###### Art. 3.º As acções subscritas serão realizadas em terrenos, avaliados em 7200000$00, situados naquela ilha a sul do paralelo 16º 43' de latitude norte e pertencentes à província de Cabo Verde, com excepção dos incluídos no domínio público e sob reserva dos direitos regularmente adquiridos por particulares antes de 1 de Janeiro de 1968.
+Art. 3.º As acções subscritas serão realizadas em terrenos, avaliados em 7200000$00, situados naquela ilha a sul do paralelo 16º 43' de latitude norte e pertencentes à província de Cabo Verde, com excepção dos incluídos no domínio público e sob reserva dos direitos regularmente adquiridos por particulares antes de 1 de Janeiro de 1968.
 
-###### Art. 4.º O Ministro do Ultramar é autorizado a celebrar, em representação da província de Cabo Verde, com os Srs. Gaspard Richard Vynckier e Valère Darchambeau, em representação da sociedade a constituir, um contrato nos termos estabelecidos na minuta anexa que faz parte integrante deste diploma e baixa assinada pelo Ministro do Ultramar.
+Art. 4.º O Ministro do Ultramar é autorizado a celebrar, em representação da província de Cabo Verde, com os Srs. Gaspard Richard Vynckier e Valère Darchambeau, em representação da sociedade a constituir, um contrato nos termos estabelecidos na minuta anexa que faz parte integrante deste diploma e baixa assinada pelo Ministro do Ultramar.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Dezembro de 1969.**
+Promulgado em 22 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -115,11 +127,11 @@ Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 
 Minuta do contrato a que refere o Decreto n.º 49487
 
-###### Artigo 1.º De acordo com os estatutos anexos ao presente contrato, será constituída entre a província de Cabo Verde, os Srs. Garpard-Richard Vynckier e Valère Darchambeau e ainda outros associados privados representados por estes últimos, uma sociedade de economia mista, sob a forma de sociedade anónima, denominada Detosal - Sociedade para o Desenvolvimento e Turismo da Ilha do Sal, S. A. R. L.
+Artigo 1.º De acordo com os estatutos anexos ao presente contrato, será constituída entre a província de Cabo Verde, os Srs. Garpard-Richard Vynckier e Valère Darchambeau e ainda outros associados privados representados por estes últimos, uma sociedade de economia mista, sob a forma de sociedade anónima, denominada Detosal - Sociedade para o Desenvolvimento e Turismo da Ilha do Sal, S. A. R. L.
 
-###### Art. 2.º A Sociedade fica sujeita à lei portuguesa em tudo o que não estiver previsto no presente contrato e nos seus estatutos.
+Art. 2.º A Sociedade fica sujeita à lei portuguesa em tudo o que não estiver previsto no presente contrato e nos seus estatutos.
 
-###### Art. 3.º - 1. A constituição da Sociedade efectuar-se-á até seis meses após a assinatura deste contrato.
+Art. 3.º - 1. A constituição da Sociedade efectuar-se-á até seis meses após a assinatura deste contrato.
 
 2. A província de Cabo Verde transfere para a Sociedade a propriedade dos terrenos situados a sul do paralelo 16º 43' de latitude norte, sob reserva dos direitos regularmente adquiridos por particulares antes de 1 de Janeiro de 1968 e com excepção dos pertencentes ao domínio público. Esta transferência é feita com o encargo para a Sociedade de estabelecer nessa zona uma infra-estrutura de natureza pública e proceder ao seu loteamento de acordo com as finalidades residenciais e turísticas pretendidas.
 
@@ -131,7 +143,7 @@ Minuta do contrato a que refere o Decreto n.º 49487
 
 6. Em caso de necessidade, as instalações da Sociedade poderão ultrapassar, no sentido norte, a linha limite fixada no n.º 2 deste artigo, desde que os terrenos onde forem implantadas pertençam ao domínio privado da província.
 
-###### Art. 4.º - 1. A Sociedade terá sobre os terrenos transferidos pela província em plena propriedade poderes de administração, de gestão e de alienação, devendo, porém, observar todas as disposições legais em vigor.
+Art. 4.º - 1. A Sociedade terá sobre os terrenos transferidos pela província em plena propriedade poderes de administração, de gestão e de alienação, devendo, porém, observar todas as disposições legais em vigor.
 
 2. A Sociedade procederá à descrição topográfica pormenorizada dos terrenos a urbanizar no mais curto prazo, assim como ao estabelecimento de planos cadastrais. A Sociedade deverá acordar com a província não só o plano director, como ainda todos os planos e regulamentos de urbanização.
 
@@ -141,11 +153,11 @@ Minuta do contrato a que refere o Decreto n.º 49487
 
 5. O Estado assegurará, por intermédio da província de Cabo Verde, a criação dos serviços de administração pública, de saúde e de higiene, sociais e de segurança necessários ao complexo urbano que a Sociedade vai construir.
 
-###### Art. 5.º - 1. O Estado tem sobre todas as medidas de administração tomadas pelos órgãos da Sociedade o direito de administração tomada pela Sociedade que ele julgue gado do Governo com a competência e atribuições fixadas na lei.
+Art. 5.º - 1. O Estado tem sobre todas as medidas de administração tomadas pelos órgãos da Sociedade o direito de administração tomada pela Sociedade que ele julgue gado do Governo com a competência e atribuições fixadas na lei.
 
 2. O delegado do Governo pode suspender toda a medida de administração tomada pela sociedade que ele julgue contrária às disposições legais ou regulamentares, aos estatutos ou ao interesse geral.
 
-###### Art. 6.º - 1. A Sociedade e as suas afiliadas beneficiarão sempre do regime mais favorável de investimentos que vier a ser concedido pela província de Cabo Verde, tal como resulta da legislação actualmente em vigor e, em particular, do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 20 de Abril de 1965.
+Art. 6.º - 1. A Sociedade e as suas afiliadas beneficiarão sempre do regime mais favorável de investimentos que vier a ser concedido pela província de Cabo Verde, tal como resulta da legislação actualmente em vigor e, em particular, do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 20 de Abril de 1965.
 
 2. O Ministro do Ultramar procurará que os objectivos prosseguidos pela Sociedade e suas afiliadas, que não constem ainda das listas de prioridade aprovadas pelo Conselho de Ministros para os Assuntos Económicos (nos termos do artigo 4.º do referido decreto-lei), ali sejam inscritos o mais cedo possível.
 
@@ -159,7 +171,7 @@ Minuta do contrato a que refere o Decreto n.º 49487
 
 7. Estas autorizações poderão ser suspensas nas condições dos §§ 1.º e 2.º do artigo 14.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701).
 
-###### Art. 7.º - 1. A Sociedade e as suas afiliadas beneficiarão do regime fiscal mais favorável, de acordo com as disposições legais que regulam as empresas similares, designadamente com a [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954.
+Art. 7.º - 1. A Sociedade e as suas afiliadas beneficiarão do regime fiscal mais favorável, de acordo com as disposições legais que regulam as empresas similares, designadamente com a [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954.
 
 2. Este regime será acordado por um período de vinte anos, a partir do início da actividade efectiva de cada uma das empresas, e poderá compreender:
 
@@ -183,7 +195,7 @@ g) Isenção ou redução dos direitos aduaneiros devidos pela importação do m
 
 5. No caso de o Estado vir a celebrar quaisquer acordos para eliminar duplas tributações, esses acordos são imediatamente aplicáveis à Sociedade, às suas afiliadas e dependentes.
 
-###### Art. 8.º - 1. A Sociedade e as suas afiliadas e dependentes beneficiarão da assistência do Estado, tal como resulta do Diploma Legislativo de Cabo Verde n.º 1649, de 30 de Dezembro de 1967.
+Art. 8.º - 1. A Sociedade e as suas afiliadas e dependentes beneficiarão da assistência do Estado, tal como resulta do Diploma Legislativo de Cabo Verde n.º 1649, de 30 de Dezembro de 1967.
 
 2. Concretamente, poderão ser-lhes concedidos, ao abrigo deste diploma:
 
@@ -199,17 +211,17 @@ c) Prémios tendo por objecto estimular ou recompensar os esforços dos que cont
 
 5. No caso de o financiamento das infra-estruturas da ilha do Sal não poder ser realizado com os meios próprios da Sociedade ou através do auxílio do Fundo de Turismo e das instituições nacionais de crédito, o Estado e a Sociedade deverão estudar em conjunto uma solução satisfatória para os problemas da tomada de compromissos financeiros a subscrever pela Sociedade junto de quaisquer instituições financeiras ou de crédito.
 
-###### Art. 9.º O Estado poderá rever os compromissos que para ele resultem deste contrato se a Sociedade não se constituir no prazo fixado no n.º 1 do artigo 3.º
+Art. 9.º O Estado poderá rever os compromissos que para ele resultem deste contrato se a Sociedade não se constituir no prazo fixado no n.º 1 do artigo 3.º
 
-###### Art. 10.º O Estado declarará zona de turismo, de acordo com o [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959, a zona situada a sul do paralelo 16º 43' de latitude norte da ilha do Sal.
+Art. 10.º O Estado declarará zona de turismo, de acordo com o [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959, a zona situada a sul do paralelo 16º 43' de latitude norte da ilha do Sal.
 
-###### Art. 11.º Dado o interesse social e financeiro dos objectivos da Sociedade, o Estado poderá integrar estes mesmos objectivos nos planos de fomento em curso ou a estabelecer para a província de Cabo Verde e poderá rever as ordens de prioridade já consideradas para esta província, tendo em vista favorecer um desenvolvimento mais rápido do projecto relativo à ilha do Sal.
+Art. 11.º Dado o interesse social e financeiro dos objectivos da Sociedade, o Estado poderá integrar estes mesmos objectivos nos planos de fomento em curso ou a estabelecer para a província de Cabo Verde e poderá rever as ordens de prioridade já consideradas para esta província, tendo em vista favorecer um desenvolvimento mais rápido do projecto relativo à ilha do Sal.
 
-###### Art. 12.º Dada a importância, decisiva para o êxito da Sociedade, da existência de ligações aéreas directas entre os países de origem da sua futura clientela e a ilha do Sal, o Estado procurará que sejam empreendidas negociações, em devido tempo, para o estabelecimento das facilidades de transporte indispensáveis.
+Art. 12.º Dada a importância, decisiva para o êxito da Sociedade, da existência de ligações aéreas directas entre os países de origem da sua futura clientela e a ilha do Sal, o Estado procurará que sejam empreendidas negociações, em devido tempo, para o estabelecimento das facilidades de transporte indispensáveis.
 
-###### Art. 13.º O Estado prestará os seus bons ofícios à Sociedade com o fim de esta chegar a um acordo satisfatório com a concessionária das comunicações com e sem fio para que as necessidades de comunicação internacional da Sociedade possam ser satisfeitas ràpidamente e ao menor custo. O Estado procurará ainda que sejam estabelecidas entre as ilhas do arquipélago comunicações sem fio num nível de funcionamento satisfatório.
+Art. 13.º O Estado prestará os seus bons ofícios à Sociedade com o fim de esta chegar a um acordo satisfatório com a concessionária das comunicações com e sem fio para que as necessidades de comunicação internacional da Sociedade possam ser satisfeitas ràpidamente e ao menor custo. O Estado procurará ainda que sejam estabelecidas entre as ilhas do arquipélago comunicações sem fio num nível de funcionamento satisfatório.
 
-###### Art. 14.º - 1. A Sociedade e as suas afiliadas ou dependentes darão emprego, tanto quanto possível, a nacionais portugueses.
+Art. 14.º - 1. A Sociedade e as suas afiliadas ou dependentes darão emprego, tanto quanto possível, a nacionais portugueses.
 
 2. Elas poderão, no entanto, empregar pessoal dirigente e pessoal especializado estrangeiro desde que, em igualdade de condições quanto a competência, dêem preferência aos nacionais portugueses.
 
@@ -217,7 +229,7 @@ c) Prémios tendo por objecto estimular ou recompensar os esforços dos que cont
 
 4. O pessoal português beneficiará das mesmas garantias de natureza social que são atribuídas ao pessoal estrangeiro.
 
-###### Art. 15.º - 1. Os pedidos de autorização de estada ou de trabalho para os estrangeiros, feitos pela Sociedade, serão dados sem demora pelos serviços competentes, sem prejuízo de todas as investigações a realizar posteriormente pelos serviços de segurança.
+Art. 15.º - 1. Os pedidos de autorização de estada ou de trabalho para os estrangeiros, feitos pela Sociedade, serão dados sem demora pelos serviços competentes, sem prejuízo de todas as investigações a realizar posteriormente pelos serviços de segurança.
 
 2. Logo que a zona de turismo esteja em regime de exploração, os pedidos de visto, quer para fins residenciais, quer para fins turísticos, serão satisfeitos sem qualquer demora.
 

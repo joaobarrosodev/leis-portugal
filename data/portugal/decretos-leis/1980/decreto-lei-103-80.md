@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 107/1980, 1º Suplemento, Série I de 1980-05-09
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 932-(2) a 932-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10701/00020008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,143 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75decc3b1cdfeb19fce49d8090cee1179ceb2aec01cdc811f63958f1944237ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b60d71c3f1671f53c041b50f2614ea64b978273587d490fcc59a6070b467d41c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Dívidas à Segurança Social
+- Previdência Social
+- Regime Contributivo da Segurança Social
+- Regime Geral da Segurança Social
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31003104:por
+  label: "Prorrogado, até 31.12.1980, os prazos referidos no n.º 3 do art. 22.º, art. 24.º e n.º 1 do art. 27.º, pela PORT.58-A/80.02.12.1980.SRAS-RAA,\
+    \ JOA-IS [39] de 02.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-a-1980-31003104
+  date: '1980-12-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ARTIGOS 18, 21, 22 E 25 PELO DECRETO LEI 275/82, DE 15 DE JULHO, PUBLICADO NO DR.IS, 161.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:394278:por
+  label: Alterados, a partir de 01.08.1982, os arts.18.º, 21.º, 22.º e 25.º pelo(a) Decreto-Lei n.º 275/82 - Diário da República
+    n.º 161/1982, Série I de 1982-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1982-394278
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:654547:por
+  label: "Alterado o nº 2 do art. 19º pelo DEC LEI.118/84.1984.04.09.PCM DR.IS [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1984-654547
+  date: '1984-04-09'
+- type: amended_by
+  target: pt:dre:183217:por
+  label: "Alterado o nº 2 do artigo 17º pelo DEC LEI.285/85.22.07.1985.MFP, DR.IS [166] de 22.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1985-183217
+  date: '1985-07-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ARTIGO 17 E REVOGADOS OS NUMEROS 3, 5, 6 E 10 DO MESMO ARTIGO 17 E OS ARTIGOS 20, 22 E 24 A 28 PELO DECRETO
+    LEI 52/88, DE 19 DE FEVEREIRO, PUBLICADO NO DR.IS, 41, SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-02-19'
+- type: amended_by
+  target: pt:dre:375980:por
+  label: Alterado o art. 17.º e revogados os n.ºs 3, 5, 6 e 10 do mesmo art. 17.º e os arts. 20.º, 22.º e 24.º a 28.º do presente
+    diploma pelo(a) Decreto-Lei n.º 52/88 - Diário da República n.º 41/1988, 1º Suplemento, Série I de 1988-02-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-1988-375980
+  date: '1988-02-19'
+- type: amended_by
+  target: pt:dre:655746:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral, das normas constantes do art. 11º quando interpretadas\
+    \ no sentido do ponto IV pelo AC.363/2002.2002.09.17.TCS, DR.IS-A [239] de 16/Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/363-2002-655746
+  date: '2002-09-17'
+- type: cites
+  target: pt:dre:138282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382776:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:397756:por
+  label: Retificado o art. 1.º do Dec Lei 275/82 de 15-jul, na parte em que alterou o n.º 2 do art. 25.º do presente diploma,
+    pelo(a) Declaração - Diário da República n.º 187/1982, Série I de 1982-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-397756
+  date: '1982-08-14'
+- type: repealed_by
+  target: pt:dre:451218:por
+  label: "Revogado o n.º 3 do artigo 19.º, pelo DEC LEI.194/83.17.05.1983.MJ, DR.IS [113] de 17.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1983-451218
+  date: '1983-05-17'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ARTIGO 21 PELO DECRETO LEI 64/89, DE 25 DE FEVEREIRO, PUBLICADO NO DR.IS, 47.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-02-25'
+- type: repealed_by
+  target: pt:dre:612243:por
+  label: Revogado, a partir de 01.05.1989, o art. 21.º do presente diploma, pelo(a) Decreto-Lei n.º 64/89 - Diário da República
+    n.º 47/1989, Série I de 1989-02-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1989-612243
+  date: '1989-02-25'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o presente diploma, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º\
+    \ 119/2009, de 30 de Dezembro), na redacção do Dec Lei 275/82, de 15-Jul, do Dec Lei 194/83, de 17-Maio, do Dec Lei 118/84,\
+    \ de 09-Abr, do Dec Lei 52/88, de 19-Fev e do Dec Lei 64/89, de 25-Fev, pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de\
+    \ 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do presente diploma que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:00Z'
   warnings: []
   errors: []
 ---
@@ -374,8 +477,8 @@ O presente decreto-lei aplica-se a todo o território nacional, ficando a sua ex
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 5 de Maio de 1980.**
+Promulgado em 5 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

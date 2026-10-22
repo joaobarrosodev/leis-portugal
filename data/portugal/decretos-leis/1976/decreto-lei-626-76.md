@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17500/17261728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9a15eb2bdb60d5947d048d855f7930af7e8615d29a020c065b839937c7f0c6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2be91520540714f1340632af7ac79639b68d23b959b135a97489a29347c11023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Mais-valias
+- Imposto de Mais-Valias
+- Mais-Valias
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:321292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408725:por
+  label: Rectificado pela DECL.DD8177.01.09.1976.PCM, DR.IS [205] de 01.09.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408725
+  date: '1976-09-01'
+- type: corrected_by
+  target: pt:dre:409299:por
+  label: Rectificada a Declaração DD8177, da Presidência do Conselho de Ministros, de 1 de Setembro 1976, que rectificou o
+    presente diploma, pela DECL.DD9684.02.11.1976.PCM, DR.IS [256] de 02.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-409299
+  date: '1976-11-02'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:52Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +129,7 @@ Amplia-se ainda a tributação dos ganhos realizados através do aumento do capi
 
 Usando da faculdade conferida pelo artigo 3.º n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É eliminado o artigo 8.º do Código do Imposto de Mais-Valias, e os artigos 1.º, 7.º, 12.º, 15.º, 18.º, 19.º, 21.º, 23.º, 24.º, 26.º, 27.º, 28.º, 40.º, 41.º, 44.º, 45.º, 46.º -A, 47.º e 48.º do mesmo Código passam a ter a redacção seguinte:
+Artigo 1.º É eliminado o artigo 8.º do Código do Imposto de Mais-Valias, e os artigos 1.º, 7.º, 12.º, 15.º, 18.º, 19.º, 21.º, 23.º, 24.º, 26.º, 27.º, 28.º, 40.º, 41.º, 44.º, 45.º, 46.º -A, 47.º e 48.º do mesmo Código passam a ter a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -118,13 +149,13 @@ Do mesmo modo, não se compreende no n.º 1.º deste artigo a transmissão que, 
 
 § 5.º Os ganhos a que respeita o n.º 2.º, quando realizados mediante transmissão onerosa de terreno para construção ou de acções ou outras participações sociais, só ficarão sujeitos a imposto por força do que dispõem, respectivamente, os n.º 1.º e 4.º ...
 
-###### Art. 7.º Poderá ser concedida isenção do imposto de mais-valias nos termos da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e demais legislação posterior ao Código.
+Art. 7.º Poderá ser concedida isenção do imposto de mais-valias nos termos da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e demais legislação posterior ao Código.
 
 § único. Na falta de disposição em contrário, a isenção será concedida pelo Ministro das Finanças.
 
 ...
 
-###### Art. 12.º A correcção a efectuar eventualmente no valor de aquisição dos elementos, bens ou valores referidos no n.º 2.º do artigo 1.º respeitará não só à desvalorização da moeda que porventura ocorra, como também às importâncias que deviam ter sido destinadas a reintegrá-lo ou amortizá-lo nos termos da [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, de modo a tornar-se o valor que, tida em conta a desvalorização da moeda e feitas as competentes reintegrações ou amortizações, deveria figurar no último balanço.
+Art. 12.º A correcção a efectuar eventualmente no valor de aquisição dos elementos, bens ou valores referidos no n.º 2.º do artigo 1.º respeitará não só à desvalorização da moeda que porventura ocorra, como também às importâncias que deviam ter sido destinadas a reintegrá-lo ou amortizá-lo nos termos da [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, de modo a tornar-se o valor que, tida em conta a desvalorização da moeda e feitas as competentes reintegrações ou amortizações, deveria figurar no último balanço.
 
 § 1.º Quando a razoabilidade das reintegrações e amortizações praticadas deva ser apreciada pela Direcção-Geral das Contribuições e Impostos, para efeitos de contribuição industrial, a correcção terá de conter-se dentro dos limites que lhes houverem sido assinados, sem prejuízo, porém, do disposto no artigo 138.º do respectivo Código.
 
@@ -134,17 +165,17 @@ Do mesmo modo, não se compreende no n.º 1.º deste artigo a transmissão que, 
 
 ...
 
-###### Art. 15.º Ocorrendo desvalorização da moeda, os valores de aquisição mencionados nas alíneas a), b) e c) do artigo 2.º serão sempre corrigidos pelos coeficientes que, para o efeito, sejam publicados em portaria do Ministro das Finanças.
+Art. 15.º Ocorrendo desvalorização da moeda, os valores de aquisição mencionados nas alíneas a), b) e c) do artigo 2.º serão sempre corrigidos pelos coeficientes que, para o efeito, sejam publicados em portaria do Ministro das Finanças.
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 § 1.º Na hipótese prevista no § 4.º do artigo 1.º, a declaração a que se refere este artigo será apresentada no prazo de trinta dias, a contar da data da desistência.
 
 § 2.º Excluem-se da obrigação estabelecida no corpo deste artigo as pessoas ou entidades que transmitam terreno para construção, quando tributadas em contribuição industrial pela actividade de compra de prédios para revenda e, bem assim, nos casos previstos no § 3.º do artigo 1.º
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § 1.º ...
 
@@ -154,49 +185,49 @@ Do mesmo modo, não se compreende no n.º 1.º deste artigo a transmissão que, 
 
 ...
 
-###### Art. 21.º Os contribuintes tributados em contribuição industrial pelos grupos A ou B apresentarão, na repartição de finanças competente para a liquidação da contribuição industrial, com a declaração referida nos artigos 45.º, 47.º, 55.º e 58.º do Código da Contribuição Industrial, uma declaração modelo n.º 2, na qual mencionarão as importâncias das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração, em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
+Art. 21.º Os contribuintes tributados em contribuição industrial pelos grupos A ou B apresentarão, na repartição de finanças competente para a liquidação da contribuição industrial, com a declaração referida nos artigos 45.º, 47.º, 55.º e 58.º do Código da Contribuição Industrial, uma declaração modelo n.º 2, na qual mencionarão as importâncias das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração, em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
 
 § único. Não tendo havido transmissão onerosa de elementos do activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, será feita menção nesse sentido no final da declaração apresentada para efeitos da contribuição industrial.
 
 ...
 
-###### Art. 23.º As sociedades anónimas, em comandita por acções ou por quotas, que queiram proceder a aumentos do capital, mediante incorporação de fundos de reserva ou emissão de acções, participá-lo-ão ao chefe da repartição de finanças do concelho ou bairro onde tiverem a sua sede, em impresso modelo n.º 3, para efeitos da liquidação do imposto, se for devido.
+Art. 23.º As sociedades anónimas, em comandita por acções ou por quotas, que queiram proceder a aumentos do capital, mediante incorporação de fundos de reserva ou emissão de acções, participá-lo-ão ao chefe da repartição de finanças do concelho ou bairro onde tiverem a sua sede, em impresso modelo n.º 3, para efeitos da liquidação do imposto, se for devido.
 
 § único. São igualmente obrigadas ao disposto neste artigo as sociedades por quotas que pretendam transformar-se em anónimas e aumentar o capital social.
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 § único. No caso de emissão de acções, a participação será também acompanhada de uma certidão do síndico da Bolsa, donde conste a cotação média das acções nos últimos seis meses.
 
 ...
 
-###### Art. 26.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 26.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. ...
 
 ...
 
-###### Art. 27.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.
+Art. 27.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.
 
-###### Art. 28.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele em que houverem sido praticados os actos que, nos termos do artigo 1.º, directamente respeitam aos ganhos realizados, ou no caso previsto no § 4.º do mesmo artigo nos cinco anos seguintes àquele em que tenha ocorrido a desistência da construção.
+Art. 28.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele em que houverem sido praticados os actos que, nos termos do artigo 1.º, directamente respeitam aos ganhos realizados, ou no caso previsto no § 4.º do mesmo artigo nos cinco anos seguintes àquele em que tenha ocorrido a desistência da construção.
 
 ...
 
-###### Art. 40.º Sem que se mostre estar pago ou não ser devido o respectivo imposto, os notários, ainda que privativos, não poderão lavrar escrituras donde constem aumentos do capital de sociedades anónimas, em comandita por acções ou por quotas, operados mediante incorporação de fundos de reserva ou emissão de acções.
+Art. 40.º Sem que se mostre estar pago ou não ser devido o respectivo imposto, os notários, ainda que privativos, não poderão lavrar escrituras donde constem aumentos do capital de sociedades anónimas, em comandita por acções ou por quotas, operados mediante incorporação de fundos de reserva ou emissão de acções.
 
 § único. A proibição referida neste artigo é extensiva às escrituras donde conste a transformação de sociedades por quotas em sociedades anónimas, com aumento de capital.
 
-###### Art. 41.º Até ao dia 15 de cada mês os notários enviarão às repartições de finanças competentes para liquidar o imposto a que respeita o n.º 4.º do artigo 1.º, relações modelo n.º 5, donde constem todas as escrituras celebradas no mês anterior, de aumento de capital de sociedades anónimas, em comandita por acções ou por quotas, quando realizado mediante incorporação de fundos de reserva ou emissão de acções.
+Art. 41.º Até ao dia 15 de cada mês os notários enviarão às repartições de finanças competentes para liquidar o imposto a que respeita o n.º 4.º do artigo 1.º, relações modelo n.º 5, donde constem todas as escrituras celebradas no mês anterior, de aumento de capital de sociedades anónimas, em comandita por acções ou por quotas, quando realizado mediante incorporação de fundos de reserva ou emissão de acções.
 
 § único. Das relações modelo n.º 5 constarão também as escrituras que respeitem à transformação de sociedades por quotas em sociedades anónimas, com aumento de capital.
 
 ...
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 100$00.
 
-###### Art. 45.º...
+Art. 45.º...
 
 § 1.º Contar-se-ão juros de 12% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
@@ -204,26 +235,26 @@ Do mesmo modo, não se compreende no n.º 1.º deste artigo a transmissão que, 
 
 ...
 
-###### Art. 46.º-A. A falta de apresentação das participações exigidas pelos artigos 18.º e 23.º antes de efectuadas as transmissões, os trespasses ou as escrituras de aumento de capital ou, no caso previsto no § 1.º do artigo 18.º, dentro do prazo nele estabelecido, será punida com multa igual ao imposto devido, com o mínimo de 500$00.
+Art. 46.º-A. A falta de apresentação das participações exigidas pelos artigos 18.º e 23.º antes de efectuadas as transmissões, os trespasses ou as escrituras de aumento de capital ou, no caso previsto no § 1.º do artigo 18.º, dentro do prazo nele estabelecido, será punida com multa igual ao imposto devido, com o mínimo de 500$00.
 
 § único. ...
 
-###### Art. 47.º A falta das declarações exigidas no corpo do artigo 21.º e no artigo 22.º será punida com multa de 100$00 a 20000$00 e a falta da declaração a que se refere o artigo 22.º-A com a multa de 200 a 50000$00.
+Art. 47.º A falta das declarações exigidas no corpo do artigo 21.º e no artigo 22.º será punida com multa de 100$00 a 20000$00 e a falta da declaração a que se refere o artigo 22.º-A com a multa de 200 a 50000$00.
 
 § único. ...
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § único. As inexactidões ou omissões respeitantes a elementos exigidos pelo artigo 20.º e a inobservância do disposto no § único do artigo 21.º, serão punidas nos termos das disposições do Código da Contribuição Industrial aplicáveis a idênticas faltas cometidas nas declarações em que tais elementos devem figurar.
 
-###### Art. 2.º Este diploma entra em vigor na data da sua publicação.
+Art. 2.º Este diploma entra em vigor na data da sua publicação.
 
-###### Art. 3.º As alterações relativas aos aumentos de capital por emissão de acções aplicar-se-ão apenas aos deliberados após a entrada em vigor deste diploma.
+Art. 3.º As alterações relativas aos aumentos de capital por emissão de acções aplicar-se-ão apenas aos deliberados após a entrada em vigor deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida Costa - Francisco Salgado Zenha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

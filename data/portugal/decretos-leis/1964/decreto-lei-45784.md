@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45784-1964-578131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5076c92f5b7500a302b51064ee12ec5f973a77ed3a75479df822018af457b61c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8a8e840e14c0bd39c20a3cf1255497d165e1e977d3ee5a2adebb5965f90ee1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Ensino Superior Militar
+- Formas de Provimento
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:163995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590728:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:36Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +102,20 @@ Tendo em conta que é possível solucionar em parte os problemas assim criados p
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sempre que não seja possível prover os cargos de mestre ou instrutor de ginástica, de esgrima e de luta na Academia Militar com oficiais devidamente especializados, pode fazer-se o provimento desses cargos, a título excepcional, com mestres e instrutores civis diplomados e de comprovada idoneidade, nacionais ou estrangeiros, contratados pelo Ministério do Exército, mediante proposta fundamentada do comando da Academia Militar, nos termos do § único do artigo 43.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959.
+Artigo 1.º Sempre que não seja possível prover os cargos de mestre ou instrutor de ginástica, de esgrima e de luta na Academia Militar com oficiais devidamente especializados, pode fazer-se o provimento desses cargos, a título excepcional, com mestres e instrutores civis diplomados e de comprovada idoneidade, nacionais ou estrangeiros, contratados pelo Ministério do Exército, mediante proposta fundamentada do comando da Academia Militar, nos termos do § único do artigo 43.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959.
 
 § único. Os mestres e instrutores assim providos têm a designação de mestres ou instrutores eventuais, semelhantemente ao que sucede com os professores catedráticos e adjuntos providos nos cargos docentes da Academia, ao abrigo da [Portaria n.º 19316](https://diariodarepublica.pt/dr/detalhe/portaria/19316-1962-163995), de 3 de Agosto de 1962.
 
-###### Art. 2.º Para efeito de vencimentos e de número de horas de instrução semanais a que são obrigados, os mestres e instrutores civis eventuais de ginástica, esgrima e luta são equiparados aos técnicos contratados e aos professores de Educação Física sem diuturnidade do Instituto Nacional de Educação Física, com o vencimento anual de 58800$00 e 48000$00, respectivamente.
+Art. 2.º Para efeito de vencimentos e de número de horas de instrução semanais a que são obrigados, os mestres e instrutores civis eventuais de ginástica, esgrima e luta são equiparados aos técnicos contratados e aos professores de Educação Física sem diuturnidade do Instituto Nacional de Educação Física, com o vencimento anual de 58800$00 e 48000$00, respectivamente.
 
 § 1.º O desempenho de horas extraordinárias de instrução poderá ser retribuído com uma gratificação mensal do quantitativo máximo de 1000$00, a fixar pelo Ministro do Exército, mediante proposta do comandante da Academia Militar.
 
 § 2.º Os vencimentos e gratificações a que se refere este artigo são vencidos desde a data em que passam a desempenhar as respectivas funções.
 
-###### Art. 3.º Os vencimentos dos mestres ou instrutores civis eventuais de ginástica, de esgrima e de luta da Academia Militar, a que se refere o artigo 1.º, são liquidados pelos saldos existentes nas verbas de pessoal dos quadros aprovados por lei do orçamento do Ministério do Exército consignadas à Academia Militar.
+Art. 3.º Os vencimentos dos mestres ou instrutores civis eventuais de ginástica, de esgrima e de luta da Academia Militar, a que se refere o artigo 1.º, são liquidados pelos saldos existentes nas verbas de pessoal dos quadros aprovados por lei do orçamento do Ministério do Exército consignadas à Academia Militar.
 
 As gratificações pelo desempenho de horas extraordinárias a que tenham direito os mestres ou instrutores civis eventuais a que se refere o § 1.º do artigo 2.º constituem encargo da verba do orçamento do Ministério do Exército atribuída à Academia Militar para pagamento de gratificações pelo desempenho de funções especiais, a qual será devidamente reforçada, se necessário, por compensação dada pelas disponibilidades de outras verbas consignadas à mesma Academia Militar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

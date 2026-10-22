@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48501-1968-273624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9752443c9467936d93ffc4cf847dc81189029a7c5c188a2014bb814659a93d03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dd6d72d2b38a9b140222bf35441f36719a323337d052b818b0885d6370d9f84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissariado Geral de Portugal para a Exposição Japonesa Universal e Internacional de Osaka
+- Orgânica
+- Presidência do Conselho
+- Representação Portuguesa
 relationships: []
 article_structure:
-  article_count: 2
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:09Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +102,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado na Presidência do Conselho o Comissariado-Geral de Portugal para a Exposição Japonesa Universal e Internacional de Osaka de 1970, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, com a missão de organizar e dirigir os trabalhos necessários para levar a efeito a representação do País naquele certame.
+Artigo 1.º É criado na Presidência do Conselho o Comissariado-Geral de Portugal para a Exposição Japonesa Universal e Internacional de Osaka de 1970, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, com a missão de organizar e dirigir os trabalhos necessários para levar a efeito a representação do País naquele certame.
 
-###### Art. 2.º Os serviços centrais do Comissariado funcionarão em local a designar pela Presidência do Conselho e terão uma delegação em Tóquio.
+Art. 2.º Os serviços centrais do Comissariado funcionarão em local a designar pela Presidência do Conselho e terão uma delegação em Tóquio.
 
-###### Art. 3.º Os serviços do Comissariado serão dirigidos por um comissário-geral, coadjuvado por um comissário-adjunto no Japão, um adjunto técnico e um secretário administrativo, todos da livre nomeação do Presidente do Conselho.
+Art. 3.º Os serviços do Comissariado serão dirigidos por um comissário-geral, coadjuvado por um comissário-adjunto no Japão, um adjunto técnico e um secretário administrativo, todos da livre nomeação do Presidente do Conselho.
 
 § 1.º Se a escolha recair em funcionários públicos, poderão os nomeados acumular as funções no Comissariado com o exercício dos cargos nos quadros a que pertencem, ou exercer aquelas funções em comissão de serviço, conforme se determinar na portaria de nomeação.
 
@@ -118,7 +122,7 @@ Neste último caso, considera-se como prestado no próprio quadro, para todos os
 
 § 6.º Quando em missão no estrangeiro, o comissário-geral terá direito ao passaporte diplomático e às regalias inerentes.
 
-###### Art. 4.º Ao comissário-geral compete superintender em tudo que disser respeito à organização e funcionamento da participação portuguesa na Exposição e representar o Comissariado, incumbindo-lhe, especialmente:
+Art. 4.º Ao comissário-geral compete superintender em tudo que disser respeito à organização e funcionamento da participação portuguesa na Exposição e representar o Comissariado, incumbindo-lhe, especialmente:
 
 a) Celebrar em nome do Governo Português, com o comissário-geral do Governo Japonês, o contrato de participação na Exposição e praticar os demais actos necessários à representação do País;
 
@@ -146,23 +150,23 @@ l) Propor superiormente tudo o mais que considerar necessário ao bom desempenho
 
 § único. O comissário-geral poderá delegar no comissário-adjunto no Japão os poderes para a prática naquele país dos actos necessários à organização e funcionamento da representação portuguesa na Exposição.
 
-###### Art. 5.º Todos os serviços do Estado e dos organismos corporativos, na metrópole e no ultramar, prestarão ao Comissariado a colaboração e os elementos que, para a consecução dos seus objectivos, lhes forem solicitados.
+Art. 5.º Todos os serviços do Estado e dos organismos corporativos, na metrópole e no ultramar, prestarão ao Comissariado a colaboração e os elementos que, para a consecução dos seus objectivos, lhes forem solicitados.
 
 § 1.º O Secretariado Nacional da Informação, Cultura Popular e Turismo dispensará ao Comissariado toda a assistência necessária para o desempenho da sua missão.
 
 § 2.º Mediante autorização do respectivo Ministro, as autoridades que tiverem a seu cargo os museus, bibliotecas e arquivos dependentes dos diferentes Ministérios porão à disposição do Comissariado os elementos e objectos que lhes forem requisitados, tomando-se todas as precauções para garantir a boa guarda e conservação dos mesmos.
 
-###### Art. 6.º O comissário-geral poderá propor a nomeação de consultores que o assistam no estudo e organização da Exposição, e bem assim nas relações do Comissariado com os outros serviços.
+Art. 6.º O comissário-geral poderá propor a nomeação de consultores que o assistam no estudo e organização da Exposição, e bem assim nas relações do Comissariado com os outros serviços.
 
 § 1.º Quatro dos consultores serão designados, respectivamente, pelos Ministros dos Negócios Estrangeiros, do Ultramar, da Educação Nacional e da Economia.
 
 § 2.º A fiscalização da gestão financeira do Comissariado incumbirá a um funcionário delegado da Direcção-Geral da Contabilidade Pública, designado pelo Ministro das Finanças.
 
-###### Art. 7.º Ao pessoal requisitado nos termos da alínea f) do artigo 4.º são mantidos todos os direitos dos seus cargos, como se os estivessem efectivamente desempenhando, mas os seus vencimentos serão pagos pelos fundos atribuídos ao Comissariado.
+Art. 7.º Ao pessoal requisitado nos termos da alínea f) do artigo 4.º são mantidos todos os direitos dos seus cargos, como se os estivessem efectivamente desempenhando, mas os seus vencimentos serão pagos pelos fundos atribuídos ao Comissariado.
 
 § único. Os funcionários de que trata este artigo regressarão aos seus lugares logo que seja dada por finda a missão para que forem requisitados.
 
-###### Art. 8.º Na medida em que o exigirem os planos, estimativas e orçamentos a que se refere a alínea b) do artigo 4.º, e de harmonia com as directrizes e condições que forem aprovadas pelo Presidente do Conselho, com a concordância do Ministro das Finanças, serão inscritas, para ocorrer a todos os encargos resultantes da execução deste diploma, dotações globais nos orçamentos dos Encargos Gerais da Nação nos anos de 1968 a 1970.
+Art. 8.º Na medida em que o exigirem os planos, estimativas e orçamentos a que se refere a alínea b) do artigo 4.º, e de harmonia com as directrizes e condições que forem aprovadas pelo Presidente do Conselho, com a concordância do Ministro das Finanças, serão inscritas, para ocorrer a todos os encargos resultantes da execução deste diploma, dotações globais nos orçamentos dos Encargos Gerais da Nação nos anos de 1968 a 1970.
 
 § 1.º O Fundo de Fomento de Exportação comparticipará em 50 por cento do montante das referidas dotações, sem prejuízo das actividades normalmente a cargo do mesmo Fundo.
 
@@ -174,7 +178,7 @@ Comissariado-Geral de Portugal para a Exposição Japonesa Universal e Internaci
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 70.º-A «Outros encargos»:
+Artigo 70.º-A «Outros encargos»:
 
 N.º 1) «Para pagamento de todos os encargos do Comissariado-Geral, criado pelo Decreto-Lei n.º 48501, de 27 de Julho de 1968».
 
@@ -182,26 +186,26 @@ N.º 1) «Para pagamento de todos os encargos do Comissariado-Geral, criado pelo
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 192.º-A «Reembolso pelo Fundo de Fomento de Exportação de parte das despesas com o Comissariado-Geral de Portugal para a Exposição Japonesa Universal e Internacional de Osaka de 1970» ... 2500000$00
+Capítulo 7.º, artigo 192.º-A «Reembolso pelo Fundo de Fomento de Exportação de parte das despesas com o Comissariado-Geral de Portugal para a Exposição Japonesa Universal e Internacional de Osaka de 1970» ... 2500000$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 11.º, n.º 2) ... 2500000$00
+Capítulo 1.º, artigo 11.º, n.º 2) ... 2500000$00
 
 § 4.º Os saldos de gerência das dotações inscritas em cada ano económico transitarão para a gerência do ano seguinte, até que sejam aprovados o relatório final e as contas da participação nacional na Exposição.
 
-###### Art. 9.º Fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a mandar satisfazer, sem dependência de qualquer formalidade, até ao limite das dotações a que se refere o artigo anterior, todas as requisições de fundos que lhe forem enviadas pelo Comissariado, assinadas pelo comissário-geral, ou, no seu impedimento, pelo secretário administrativo e pelo delegado daquela Direcção-Geral.
+Art. 9.º Fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a mandar satisfazer, sem dependência de qualquer formalidade, até ao limite das dotações a que se refere o artigo anterior, todas as requisições de fundos que lhe forem enviadas pelo Comissariado, assinadas pelo comissário-geral, ou, no seu impedimento, pelo secretário administrativo e pelo delegado daquela Direcção-Geral.
 
 § único. A mesma Repartição promoverá, junto da Direcção-Geral da Fazenda Pública, a conversão em divisas estrangeiras das importâncias que para esse fim lhe forem requisitadas, e que serão postas à ordem do Comissariado em Lisboa, Tóquio ou Osaka, conforme melhor convier.
 
-###### Art. 10.º As importâncias que não tiverem imediata aplicação serão depositadas, em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a movimentação posterior por meio de cheques, assinados pelo comissário-geral, ou, na sua ausência, pelo secretário administrativo e pelo delegado da Direcção-Geral da Contabilidade Pública.
+Art. 10.º As importâncias que não tiverem imediata aplicação serão depositadas, em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a movimentação posterior por meio de cheques, assinados pelo comissário-geral, ou, na sua ausência, pelo secretário administrativo e pelo delegado da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 11.º As aquisições e os contratos, quer respeitem a pessoal, quer a material, e seja qual for a importância a despender, serão realizados com dispensa de quaisquer formalidades, incluindo o visto do Tribunal de Contas, carecendo apenas do visto do delegado da Direcção-Geral da Contabilidade Pública, salvo aqueles que devam ser realizados no Japão e não se compadeçam com a observância desta formalidade.
+Art. 11.º As aquisições e os contratos, quer respeitem a pessoal, quer a material, e seja qual for a importância a despender, serão realizados com dispensa de quaisquer formalidades, incluindo o visto do Tribunal de Contas, carecendo apenas do visto do delegado da Direcção-Geral da Contabilidade Pública, salvo aqueles que devam ser realizados no Japão e não se compadeçam com a observância desta formalidade.
 
-###### Art. 12.º São isentos dos direitos de exportação e de importação e de quaisquer taxas adicionais e impostos cobrados nas alfândegas ou devidos às administrações dos portos todos os materiais, artigos, objectos, produtos ou animais consignados ao Comissariado, procedentes da metrópole ou do ultramar, com destino à Exposição, quer para serem aplicados na construção e ornamentação do pavilhão português, quer para serem expostos, quer ainda para fins de propaganda.
+Art. 12.º São isentos dos direitos de exportação e de importação e de quaisquer taxas adicionais e impostos cobrados nas alfândegas ou devidos às administrações dos portos todos os materiais, artigos, objectos, produtos ou animais consignados ao Comissariado, procedentes da metrópole ou do ultramar, com destino à Exposição, quer para serem aplicados na construção e ornamentação do pavilhão português, quer para serem expostos, quer ainda para fins de propaganda.
 
-###### Art. 13.º As contas das despesas realizadas em cada ano serão apresentadas, até ao fim do mês de Fevereiro do ano seguinte, ao exame da 1.ª Repartição da Direcção-Geral da Contabilidade Pública e, quando consideradas em ordem, submetidas à aprovação do Ministério das Finanças.
+Art. 13.º As contas das despesas realizadas em cada ano serão apresentadas, até ao fim do mês de Fevereiro do ano seguinte, ao exame da 1.ª Repartição da Direcção-Geral da Contabilidade Pública e, quando consideradas em ordem, submetidas à aprovação do Ministério das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de A guiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

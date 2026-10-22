@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26200/17901790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/619-1975-310582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a98031d0b38d8714354de0c6c0e04155df95b453f58203f997f737b237418866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b192ec7e9479a38e50766d478389fbc451b115a1ab9a8720087830908f5fa066
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjunto
+- Agente da Autoridade
+- Nomeação
+- Polícia Judiciária Militar
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:662344:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:20Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +106,9 @@ de 12 de Novembro
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 257/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1974-662344), de 15 de Junho, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 257/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1974-662344), de 15 de Junho, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Por despacho do chefe do Estado-Maior-General das Forças Armadas ou da entidade em quem o mesmo delegar, e em casos de reconhecida necessidade, podem ser nomeados ad hoc licenciados em Direito ou técnicos de investigação criminal para servirem como adjuntos dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.
+Artigo 1.º - 1. Por despacho do chefe do Estado-Maior-General das Forças Armadas ou da entidade em quem o mesmo delegar, e em casos de reconhecida necessidade, podem ser nomeados ad hoc licenciados em Direito ou técnicos de investigação criminal para servirem como adjuntos dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.
 
 2. Os adjuntos recebem a competência que lhes for delegada e podem substituir os promotores de justiça, sem prejuízo da orientação destes.
 
@@ -106,8 +120,8 @@ Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, 
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 31 de Outubro de 1975.**
+Promulgado em 31 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

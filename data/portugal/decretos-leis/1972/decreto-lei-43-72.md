@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1972-398475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c29f3536e807714d3ea1c4b7689ebd46c5c5e87a8e413d97a249e3c565a78f25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19b1cc0e83c22cf395a92dc7878cd900f892ac779dfc1fd59df496a003fcd917
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CABO Verde.Colónia Portuguesa
+- Empréstimo
+- Pagamento
+- Plano de Fomento
+relationships:
+- type: cites
+  target: pt:dre:507855:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:29Z'
   warnings: []
   errors: []
 ---
@@ -93,23 +101,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a suspensão do pagamento das amortizações dos empréstimos concedidos à província de Cabo Verde, ao abrigo dos Decretos-Leis n.os 39194, 40379 e 46683, respectivamente de 6 de Maio de 1953, 15 de Novembro de 1955 e 3 de Dezembro de 1965, enquanto se mantiverem as dificuldades financeiras da província.
+Artigo 1.º - 1. É autorizada a suspensão do pagamento das amortizações dos empréstimos concedidos à província de Cabo Verde, ao abrigo dos Decretos-Leis n.os 39194, 40379 e 46683, respectivamente de 6 de Maio de 1953, 15 de Novembro de 1955 e 3 de Dezembro de 1965, enquanto se mantiverem as dificuldades financeiras da província.
 
 2. A suspensão a que se refere o número anterior abrange as prestações vencidas antes da vigência do presente diploma.
 
-###### Art. 2.º - 1. Será fixada por despacho conjunto dos Ministros das Finanças e do Ultramar a data a partir da qual deverá ser levantada a suspensão do pagamento das amortizações dos empréstimos referidos no artigo 1.º
+Art. 2.º - 1. Será fixada por despacho conjunto dos Ministros das Finanças e do Ultramar a data a partir da qual deverá ser levantada a suspensão do pagamento das amortizações dos empréstimos referidos no artigo 1.º
 
 2. Para o efeito, a província de Cabo Verde, por intermédio do Ministério do Ultramar, fica obrigada a apresentar, anualmente, até 30 de Abril, à Direcção-Geral da Contabilidade Pública ou à Direcção-Geral da Fazenda Pública, consoante se trate dos empréstimos autorizados pelos Decretos-Leis n.os 39194 e 40379 ou pelo [Decreto-Lei n.º 46683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46683-1965-507855), um estudo da sua situação financeira, em particular sobre o comportamento das receitas orçamentais cobradas localmente.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Janeiro de 1972.**
+Promulgado em 26 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 

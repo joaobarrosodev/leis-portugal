@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20500/21622165.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1977-286493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eb7e3f3c1704614e534bf0d44c8169d98aa7fff5a4b138056e70b82fe32f0da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 633cdd5e514bb95ede353a62663405aaf9d53e77b0b66e8e37c8716a11782b63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água
+- Águas Subterrâneas
+- Autarquia Local
+- Coimbra
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Fiscalização
+- Leiria
+- Licenciamento
+- Multa
+- Poupança de ÁGUA
+- Recursos Hídricos
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:537249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: TORNADAS EXTENSIVAS A DIVERSOS CONCELHOS AS DISPOSIÇÕES CONTIDAS NO NUMERO 1 DO ARTIGO 1 PELA PORTARIA 251/79, DE
+    30 DE MAIO, PUBLICADA NO DR.IS, 124.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-05-30'
+- type: amended_by
+  target: pt:dre:397890:por
+  label: "Alteradas as importâncias das taxas, emolumentos e multas previstas no presente diploma, pelo DEC LEI.328/82.17.08.1982.MHOPT,\
+    \ DR.IS [189] de 17.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1982-397890
+  date: '1982-08-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: TORNADAS EXTENSIVAS A DIVERSOS CONCELHOS AS DISPOSIÇÕES CONTIDAS NO NUMERO 1 DO ARTIGO 1, PELA PORTARIA 43/85, DE
+    21 DE JANEIRO, PUBLICADA NO DR.IS, 17.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-01-21'
+- type: amended_by
+  target: pt:dre:557787:por
+  label: "Tornado extensivo aos concelhos do Cartaxo, de Santiago do Cacém e de Sines o disposto no nº 1 do art. 1º do presente\
+    \ diploma, pela PORT.839/90.14.09.1990.MARN, DR.IS [213] de 14.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-1990-557787
+  date: '1990-09-14'
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a não aplicação do presente diploma, na matéria respeitante ao DEC LEI.46/94.1994.02.22.MARN, DR.IS-A\
+    \ [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: cites
+  target: pt:dre:265174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:537249:por
+  label: "Revogado pela LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:04Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +163,7 @@ Tendo em conta o exposto:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Na área dos concelhos de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal carece de prévia licença, nos termos deste diploma, a abertura de poços e furos de pesquisa e de captação de água com profundidade superior a 20 m, ainda que se destinem a substituir outros poços ou furos existentes, e a execução de quaisquer obras ou trabalhos destinados a alterar as condições de captação dos poços e furos existentes, desde que resulte ser excedida aquela profundidade.
+Artigo 1.º - 1. Na área dos concelhos de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal carece de prévia licença, nos termos deste diploma, a abertura de poços e furos de pesquisa e de captação de água com profundidade superior a 20 m, ainda que se destinem a substituir outros poços ou furos existentes, e a execução de quaisquer obras ou trabalhos destinados a alterar as condições de captação dos poços e furos existentes, desde que resulte ser excedida aquela profundidade.
 
 2. Nas áreas dos concelhos de Cantanhede, Coimbra, Condeixa-a-Nova, Figueira da Foz, Montemor-o-Velho, Penela e Soure, do distrito de Coimbra, e dos concelhos de Alcobaça, Alvaiázere, Ansião, Batalha, Bombarral, Caídas da Rainha, Leiria, Marinha Grande, Nazaré, Óbidos, Peniche, Pombal e Porto de Mós, do distrito de Leiria, é obrigatória a observância do disposto no número anterior, mas somente em relação aos poços e furos com profundidade superior a 50 m.
 
@@ -118,7 +173,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5. É proibida a extracção de água dos poços ou furos que forem substituídos.
 
-###### Art. 2.º - 1. A licença deve ser pedida em requerimento dirigido ao Secretário de Estado dos Recursos Hídricos e Saneamento Básico e apresentado na DGRAH.
+Art. 2.º - 1. A licença deve ser pedida em requerimento dirigido ao Secretário de Estado dos Recursos Hídricos e Saneamento Básico e apresentado na DGRAH.
 
 2. O requerimento, assinado pelo proprietário do terreno onde se pretende executar a pesquisa ou a captação de água subterrânea e pelo dono da obra, se não for a mesma entidade, e com as assinaturas reconhecidas por notário, será acompanhado de uma memória descritiva, em triplicado, contendo os seguintes elementos: localização do poço ou furo (propriedade, lugar, freguesia, concelho e planta na escala de 1:25000 ou indicação das respectivas coordenadas); tipo de pesquisa ou de captação e profundidade prevista; caudal pretendido e finalidade a que se destina; equipamento cuja instalação se prevê.
 
@@ -126,7 +181,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. A DGRAH poderá exigir a apresentação de outros elementos que julgar indispensáveis à apreciação do pedido.
 
-###### Art. 3.º - 1. A licença incluirá as seguintes condições:
+Art. 3.º - 1. A licença incluirá as seguintes condições:
 
 a) Na execução do poço ou furo, seja qual for a sua finalidade, deverá proceder-se de modo que não possa haver poluição química ou bacteriológica da água dos aquíferos a explorar, quer por infiltração de águas de superfície ou de escorrências, quer por mistura com águas subterrâneas de má qualidade;
 
@@ -138,27 +193,27 @@ d) Os volumes de água a extrair mensalmente da captação não poderão exceder
 
 2. Logo que possível, e mediante pedido do interessado, a DGRAH fixará a profundidade máxima da captação e a potência máxima do equipamento a instalar para a extracção da água e definirá os limites superiores dos volumes de água a extrair mensalmente, em face das características da captação e da utilização pretendida.
 
-###### Art. 4.º O titular da licença ou a empresa que executou a obra e as entidades referidas no n.º 3 do artigo 1.º são obrigados a enviar à DGRAH, no prazo de sessenta dias, a contar do termo dos trabalhos, relatório com a exacta situação do poço ou furo, identificada com os elementos de localização referidos no n.º 2 do artigo 2.º, diâmetros de entubamento, profundidade máxima atingida, profundidades a que foram encontradas as formações aquíferas, níveis hidrostáticos, caudais extraídos e respectivos níveis hidrodinâmicos e a sua recuperação, corte geológico, com indicação das camadas atravessadas, boletim de análise química sumária da água feita em qualquer laboratório oficial e outros elementos colhidos, tais como diagrafias e temperaturas.
+Art. 4.º O titular da licença ou a empresa que executou a obra e as entidades referidas no n.º 3 do artigo 1.º são obrigados a enviar à DGRAH, no prazo de sessenta dias, a contar do termo dos trabalhos, relatório com a exacta situação do poço ou furo, identificada com os elementos de localização referidos no n.º 2 do artigo 2.º, diâmetros de entubamento, profundidade máxima atingida, profundidades a que foram encontradas as formações aquíferas, níveis hidrostáticos, caudais extraídos e respectivos níveis hidrodinâmicos e a sua recuperação, corte geológico, com indicação das camadas atravessadas, boletim de análise química sumária da água feita em qualquer laboratório oficial e outros elementos colhidos, tais como diagrafias e temperaturas.
 
-###### Art. 5.º As licenças para a abertura ou para a execução de obras ou trabalhos em furos ou poços supõem-se sempre concedidas sem prejuízo dos direitos dos proprietários que possam utilizar o mesmo manancial subterrâneo.
+Art. 5.º As licenças para a abertura ou para a execução de obras ou trabalhos em furos ou poços supõem-se sempre concedidas sem prejuízo dos direitos dos proprietários que possam utilizar o mesmo manancial subterrâneo.
 
-###### Art. 6.º - 1. No caso de insuficiência das reservas aquíferas subterrâneas para satisfação das necessidades de todos os proprietários que delas se podem servir, será convenientemente reduzida a extracção de água dos furos e poços que excedam os limites de profundidade indicados nos n.os 1 e 2 do artigo 1.º, tendo em atenção a área de cada proprietário e o uso dado à àgua extraída.
+Art. 6.º - 1. No caso de insuficiência das reservas aquíferas subterrâneas para satisfação das necessidades de todos os proprietários que delas se podem servir, será convenientemente reduzida a extracção de água dos furos e poços que excedam os limites de profundidade indicados nos n.os 1 e 2 do artigo 1.º, tendo em atenção a área de cada proprietário e o uso dado à àgua extraída.
 
 2. Para a determinação dos volumes de água a reduzir na extracção de cada furo ou poço são aplicáveis os princípios que regulam a divisão das águas superficiais.
 
-###### Art. 7.º Reconhecendo-se que da redução da capacidade de um furo ou poço, determinada pela insuficiência das reservas aquíferas, resulta para o seu proprietário dano grave, poderá este ser autorizado a manter o volume da sua extracção, mas, para tal, fica obrigado a indemnizar aqueles que com isso sofram prejuízo.
+Art. 7.º Reconhecendo-se que da redução da capacidade de um furo ou poço, determinada pela insuficiência das reservas aquíferas, resulta para o seu proprietário dano grave, poderá este ser autorizado a manter o volume da sua extracção, mas, para tal, fica obrigado a indemnizar aqueles que com isso sofram prejuízo.
 
-###### Art. 8.º Se se suscitarem questões a respeito do disposto nos artigos 5.º, 6.º e 7.º do presente decreto-lei e os interessados recorrerem aos tribunais, o juiz, quer se trate de águas subterrâneas públicas ou particulares, nomeará sempre para perito um engenheiro da DGRAH.
+Art. 8.º Se se suscitarem questões a respeito do disposto nos artigos 5.º, 6.º e 7.º do presente decreto-lei e os interessados recorrerem aos tribunais, o juiz, quer se trate de águas subterrâneas públicas ou particulares, nomeará sempre para perito um engenheiro da DGRAH.
 
-###### Art. 9.º Salvo ocorrendo caso fortuito ou de força maior, e sem prejuízo da aplicação de outras leis, gerais ou especiais, a infracção às disposições do presente decreto-lei será punível nos termos dos artigos seguintes.
+Art. 9.º Salvo ocorrendo caso fortuito ou de força maior, e sem prejuízo da aplicação de outras leis, gerais ou especiais, a infracção às disposições do presente decreto-lei será punível nos termos dos artigos seguintes.
 
-###### Art. 10. - 1. A falta de cumprimento do disposto nos n.os 1 e 2 do artigo 1.º será punida com multa de 5000$00 a 50000$00, pagável em partes iguais pelo dono da obra e pela empresa que executou ou estiver executando os trabalhos de pesquisa ou de captação.
+Art. 10. - 1. A falta de cumprimento do disposto nos n.os 1 e 2 do artigo 1.º será punida com multa de 5000$00 a 50000$00, pagável em partes iguais pelo dono da obra e pela empresa que executou ou estiver executando os trabalhos de pesquisa ou de captação.
 
 2. A infracção ao disposto no n.º 5 do artigo 1.º será punida com multa de 10000$00 a 50000$00, devendo o proprietário proceder à inutilização do furo ou poço no prazo que lhe for fixado pela DGRAH. Se este prazo não for cumprido, poderá aquela Direcção-Geral proceder à execução coerciva dos trabalhos necessários, cobrando do transgressor, se necessário, as despesas feitas, pelo processo das execuções fiscais, seguindo-se o prescrito nos n.os 2 e 3 do artigo 15.º
 
-###### Art. 11.º A falta de cumprimento do disposto no artigo 4.º será punida com multa de 10000$00, acrescida de uma importância fixada entre 100$00 e 500$00 por cada dia de demora além do novo prazo marcado pela DGRAH para a entrega do relatório a que aquele artigo se refere, uma e outra pagáveis, em partes iguais, pelo dono da obra e pela empresa executora do poço ou do furo.
+Art. 11.º A falta de cumprimento do disposto no artigo 4.º será punida com multa de 10000$00, acrescida de uma importância fixada entre 100$00 e 500$00 por cada dia de demora além do novo prazo marcado pela DGRAH para a entrega do relatório a que aquele artigo se refere, uma e outra pagáveis, em partes iguais, pelo dono da obra e pela empresa executora do poço ou do furo.
 
-###### Art. 12.º - 1. As faltas de cumprimento do disposto no n.º 3 do artigo 2.º e de satisfação das condições de licença expressas nas alíneas a) e b) do n.º 1 do artigo 3.º serão punidas com multa de 20000$00, acrescida de uma importância fixada entre 100$00 e 1000$00 por cada dia de demora além do prazo marcado pela DGRAH para regularização das faltas, uma e outra pagáveis, em partes iguais, pelo dono da obra e pela empresa executora do poço ou do furo.
+Art. 12.º - 1. As faltas de cumprimento do disposto no n.º 3 do artigo 2.º e de satisfação das condições de licença expressas nas alíneas a) e b) do n.º 1 do artigo 3.º serão punidas com multa de 20000$00, acrescida de uma importância fixada entre 100$00 e 1000$00 por cada dia de demora além do prazo marcado pela DGRAH para regularização das faltas, uma e outra pagáveis, em partes iguais, pelo dono da obra e pela empresa executora do poço ou do furo.
 
 2. A falta de cumprimento do disposto na alínea c) do n.º 1 do artigo 3.º será punida com multa de 5000$00, acrescida de 200$00 por cada dia de demora além do prazo fixado pela DGRAH para regularização da situação, a pagar pelo dono da obra.
 
@@ -168,19 +223,19 @@ d) Os volumes de água a extrair mensalmente da captação não poderão exceder
 
 5. Se, decorridos trinta dias além do prazo fixado pela DGRAH para regularização da satisfação das condições de licença expressas nas alíneas a), b) e c) do n.º 1 do artigo 3.º, o dono da obra não o tiver feito, aquela Direcção-Geral promoverá os trabalhos necessários, cobrando dos transgressores as despesas feitas, se necessário, pelo processo das execuções fiscais, seguindo-se o prescrito nos n.os 2 e 3 do artigo 15.º
 
-###### Art. 13.º A fiscalização das disposições deste decreto-lei compete às Direcções-Gerais dos Recursos e Aproveitamentos Hidráulicos e do Saneamento Básico, às autarquias locais, à Guarda Nacional Republicana e à Polícia de Segurança Pública.
+Art. 13.º A fiscalização das disposições deste decreto-lei compete às Direcções-Gerais dos Recursos e Aproveitamentos Hidráulicos e do Saneamento Básico, às autarquias locais, à Guarda Nacional Republicana e à Polícia de Segurança Pública.
 
-###### Art. 14.º - 1. O auto de transgressão será enviado à DGRAH, que fixará a multa e o remeterá à secretaria da câmara municipal do concelho onde a transgressão se tiver verificado, e aí o auto aguardará, por dez dias, o pagamento voluntário da multa. Findo este prazo sem que o pagamento seja efectuado, será o auto enviado a juízo dentro de cinco dias.
+Art. 14.º - 1. O auto de transgressão será enviado à DGRAH, que fixará a multa e o remeterá à secretaria da câmara municipal do concelho onde a transgressão se tiver verificado, e aí o auto aguardará, por dez dias, o pagamento voluntário da multa. Findo este prazo sem que o pagamento seja efectuado, será o auto enviado a juízo dentro de cinco dias.
 
 2. Nos autos de transgressão levantados por infracção ao disposto nos artigos 1.º e 4.º é dispensada a indicação de testemunhas sempre que as circunstâncias de verificação da transgressão não permitam indicá-las; estes autos farão fé em juízo até prova em contrário.
 
-###### Art. 15.º - 1. Todas as pesquisas e captações em execução ou concluídas sem licença, quando esta deva ser pedida, ou em contravenção com o disposto no n.º 3 do artigo 2.º, ou que não satisfaçam às condições fixadas na respectiva licença, poderão ser embargadas ou proibida a sua exploração, sem prejuízo da aplicação das sanções previstas neste diploma, devendo a DGRAH definir o procedimento a seguir ulteriormente, que pode ir desde a correcção das anomalias até à inutilização das captações. Para o efeito, aquela Direcção-Geral marcará um prazo, decorrido o qual, se a situação não estiver regularizada, procederá, sem mais intimações nem processos, aos trabalhos necessários, sendo as despesas feitas com estes trabalhos cobradas dos transgressores pelo processo das execuções fiscais, se voluntariamente as não quiserem pagar no prazo que lhes for designado pela referida Direcção-Geral.
+Art. 15.º - 1. Todas as pesquisas e captações em execução ou concluídas sem licença, quando esta deva ser pedida, ou em contravenção com o disposto no n.º 3 do artigo 2.º, ou que não satisfaçam às condições fixadas na respectiva licença, poderão ser embargadas ou proibida a sua exploração, sem prejuízo da aplicação das sanções previstas neste diploma, devendo a DGRAH definir o procedimento a seguir ulteriormente, que pode ir desde a correcção das anomalias até à inutilização das captações. Para o efeito, aquela Direcção-Geral marcará um prazo, decorrido o qual, se a situação não estiver regularizada, procederá, sem mais intimações nem processos, aos trabalhos necessários, sendo as despesas feitas com estes trabalhos cobradas dos transgressores pelo processo das execuções fiscais, se voluntariamente as não quiserem pagar no prazo que lhes for designado pela referida Direcção-Geral.
 
 2. Para o efeito do disposto no número anterior, no n.º 2 do artigo 10.º e no n.º 5 do artigo 12.º, será levantado auto em que se declare o estado da obra, a natureza da transgressão e respectivos elementos circunstanciais, indicando-se sempre a empresa executora do poço ou furo; este auto será imediatamente remetido à DGRAH e é independente do auto a que se refere o artigo anterior.
 
 3. Os autos levantados nos termos do número anterior servirão de base aos processos de execução fiscal, quando acompanhados do despacho que fixa o montante das despesas efectuadas com os trabalhos realizados pela DGRAH e de certidão de que não foram pagas.
 
-###### Art. 16.º - 1. Todas as entidades possuidoras de poços ou furos de captação de água com profundidade superior a 20 m na área dos concelhos referidos no n.º 1 do artigo 1.º são obrigadas a fornecer mensalmente à DGRAH elementos sobre os volumes de água extraídos, níveis e períodos de funcionamento das captações, segundo impressos a fornecer por aquela Direcção-Geral e seus serviços externos ou pelas câmaras municipais dos respectivos concelhos.
+Art. 16.º - 1. Todas as entidades possuidoras de poços ou furos de captação de água com profundidade superior a 20 m na área dos concelhos referidos no n.º 1 do artigo 1.º são obrigadas a fornecer mensalmente à DGRAH elementos sobre os volumes de água extraídos, níveis e períodos de funcionamento das captações, segundo impressos a fornecer por aquela Direcção-Geral e seus serviços externos ou pelas câmaras municipais dos respectivos concelhos.
 
 2. Os impressos deverão ser enviados, depois de preenchidos, à DGRAH até ao dia 15 do mês seguinte àquele a que disserem respeito.
 
@@ -190,42 +245,42 @@ d) Os volumes de água a extrair mensalmente da captação não poderão exceder
 
 5. Compete aos funcionários da DGRAH e das autarquias locais a fiscalização e verificação do cumprimento do disposto neste artigo.
 
-###### Art. 17.º - 1. A falta de cumprimento do disposto no n.º 2 do artigo 16.º será punida com muita de 2000$00 por cada trinta dias ou fracção de demora além do prazo nele fixado.
+Art. 17.º - 1. A falta de cumprimento do disposto no n.º 2 do artigo 16.º será punida com muita de 2000$00 por cada trinta dias ou fracção de demora além do prazo nele fixado.
 
 2. A falta de cumprimento do disposto no n.º 3 do artigo 16.º será punida com multa de 10000$00, acrescida de uma importância fixada entre 200$00 e 1000$00 por cada dia de demora além do prazo marcado pela DGRAH para regularização da situação, podendo ser proibida a exploração do poço ou do furo se aquela demora exceder sessenta dias.
 
-###### Art. 18.º Quando o interesse público o justificar, poderá, por despacho devidamente fundamentado do Secretário de Estado dos Recursos Hídricos e Saneamento Básico, sob proposta da DGRAH, ouvido o Conselho Nacional da Água, ser restringida ou proibida a extracção de água das captações que a evolução das respectivas condições hídricas aconselhar.
+Art. 18.º Quando o interesse público o justificar, poderá, por despacho devidamente fundamentado do Secretário de Estado dos Recursos Hídricos e Saneamento Básico, sob proposta da DGRAH, ouvido o Conselho Nacional da Água, ser restringida ou proibida a extracção de água das captações que a evolução das respectivas condições hídricas aconselhar.
 
-###### Art. 19.º - 1. No prazo de cento e oitenta dias, a contar da data da publicação do presente diploma, os possuidores, quer públicos, quer privados, de poços ou furos de captação de água existentes na área dos concelhos referidos no artigo 1.º que excedam os limites de profundidade nele estabelecidos e ainda não tenham sido manifestados são obrigados a fazer o respectivo manifesto na DGRAH em impressos que para o efeito lhes serão fornecidos por aquela Direcção-Geral e seus serviços externos ou pelas câmaras municipais dos respectivos concelhos.
+Art. 19.º - 1. No prazo de cento e oitenta dias, a contar da data da publicação do presente diploma, os possuidores, quer públicos, quer privados, de poços ou furos de captação de água existentes na área dos concelhos referidos no artigo 1.º que excedam os limites de profundidade nele estabelecidos e ainda não tenham sido manifestados são obrigados a fazer o respectivo manifesto na DGRAH em impressos que para o efeito lhes serão fornecidos por aquela Direcção-Geral e seus serviços externos ou pelas câmaras municipais dos respectivos concelhos.
 
 2. A falta de cumprimento do prazo estipulado no número anterior será punida com multa de 5000$00, acrescida de 100$00 por cada dia de demora além daquele prazo.
 
-###### Art. 20.º Os poços ou furos que estiverem actualmente nas condições previstas no n.º 3 do artigo 16.º deverão ser munidos da aparelhagem de medida no prazo de cento e vinte dias, a partir da data de entrada em vigor deste diploma, prazo findo o qual serão considerados em transgressão no caso de não cumprimento da referida disposição, aplicando-se-lhes o disposto no n.º 2 do artigo 17.º
+Art. 20.º Os poços ou furos que estiverem actualmente nas condições previstas no n.º 3 do artigo 16.º deverão ser munidos da aparelhagem de medida no prazo de cento e vinte dias, a partir da data de entrada em vigor deste diploma, prazo findo o qual serão considerados em transgressão no caso de não cumprimento da referida disposição, aplicando-se-lhes o disposto no n.º 2 do artigo 17.º
 
-###### Art. 21.º - 1. No caso de as transgressões aplicadas nos termos deste diploma ocorrerem por actividade ou omissão no âmbito das autarquias locais, organismos estatais ou paraestatais, será tomado procedimento disciplinar contra os agentes responsáveis, sem prejuízo da aplicação àquelas entidades das multas previstas e da exigibilidade de responsabilidade civil pelos prejuízos sofridos, sempre que aquele procedimento ou estas medidas sejam possíveis.
+Art. 21.º - 1. No caso de as transgressões aplicadas nos termos deste diploma ocorrerem por actividade ou omissão no âmbito das autarquias locais, organismos estatais ou paraestatais, será tomado procedimento disciplinar contra os agentes responsáveis, sem prejuízo da aplicação àquelas entidades das multas previstas e da exigibilidade de responsabilidade civil pelos prejuízos sofridos, sempre que aquele procedimento ou estas medidas sejam possíveis.
 
 2. Têm legitimidade para a exigência da responsabilidade civil nos termos do número anterior as pessoas colectivas que por lei prossigam os interesses públicos lesados.
 
-###### Art. 22.º As multas aplicadas nos termos deste diploma constituem receita do Estado.
+Art. 22.º As multas aplicadas nos termos deste diploma constituem receita do Estado.
 
-###### Art. 23.º - 1. Compete à DGRAH graduar os montantes das multas a aplicar em consequência das transgressões referidas no presente diploma.
+Art. 23.º - 1. Compete à DGRAH graduar os montantes das multas a aplicar em consequência das transgressões referidas no presente diploma.
 
 2. Se, por falta de pagamento voluntário da multa, o processo for remetido a tribunal, este não está vinculado à graduação feita pela DGRAH, mas o transgressor não poderá pagar voluntariamente em juízo, antes da sentença, outro quantitativo de multa.
 
 3. O tribunal das execuções fiscais competente para a cobrança das multas aplicadas nos termos deste diploma será o do local da prática da infracção.
 
-###### Art. 24.º Por diploma referendado pelo Ministro das Obras Públicas, as disposições do presente decreto-lei poderão ser tornadas extensíveis a outros concelhos do País.
+Art. 24.º Por diploma referendado pelo Ministro das Obras Públicas, as disposições do presente decreto-lei poderão ser tornadas extensíveis a outros concelhos do País.
 
-###### Art. 25.º Ficam revogados o [Decreto-Lei n.º 47892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47892-1967-390474) e o [Decreto n.º 48543](https://diariodarepublica.pt/dr/detalhe/decreto/48543-1968-265174), respectivamente de 4 de Setembro de 1967 e 26 de Agosto de 1968.
+Art. 25.º Ficam revogados o [Decreto-Lei n.º 47892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47892-1967-390474) e o [Decreto n.º 48543](https://diariodarepublica.pt/dr/detalhe/decreto/48543-1968-265174), respectivamente de 4 de Setembro de 1967 e 26 de Agosto de 1968.
 
-###### Art. 26.º As dúvidas na aplicação deste diploma serão resolvidas por despacho do Ministro das Obras Públicas.
+Art. 26.º As dúvidas na aplicação deste diploma serão resolvidas por despacho do Ministro das Obras Públicas.
 
-###### Art. 27.º O presente diploma entra em vigor na data da sua publicação.
+Art. 27.º O presente diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - João Orlindo de Almeida Pina.
 
-**Promulgado em 15 de Agosto de 1977.**
+Promulgado em 15 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

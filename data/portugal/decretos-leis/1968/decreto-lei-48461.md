@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/15400/09430944.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48461-1968-272861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37e197805409738c694f0928b7a89aa6d221de4396a16aedab06f493a2119727
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 930ca1e9505edda234de675c06e9a26992c122b224a9b24831c7ebf159095264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Conselho de Administração
+- Definição de Competências
+- Delegado do Governo
+- Diretor
+- Fiscalização
+- Gestão Financeira
+- Ministro das Comunicações
+- Ministro do Interior
+- Orgânica
+- Porto
+- Presidente
+- Receita
+- Serviço de Transportes Colectivos do Porto
 relationships:
 - type: amended_by
   target: pt:dre:298235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:154984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553972:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159307:por
+  label: "Revogado, com excepção do art. 4.º, pelo DEC LEI.33/75.28.01.1975.MESA, DG.IS [23] de 28.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1975-159307
+  date: '1975-01-28'
+- type: repealed_by
+  target: pt:dre:298235:por
+  label: "Revogado pelo DEC LEI.202/94.1994.07.23.MOPTC, DR.IS-A [169)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1994-298235
+  date: '1994-07-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:50Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +152,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São alterados os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, que passam a ter a seguinte redacção:
 
-###### Art. 3.º O Serviço de Transportes Colectivos do Porto será gerido por um conselho de administração, presidido pelo presidente da Câmara Municipal do Porto ou pelo vice-presidente, ou por vereador efectivo em quem sejam delegadas tais funções, e dele farão parte, como vogais:
+Art. 3.º O Serviço de Transportes Colectivos do Porto será gerido por um conselho de administração, presidido pelo presidente da Câmara Municipal do Porto ou pelo vice-presidente, ou por vereador efectivo em quem sejam delegadas tais funções, e dele farão parte, como vogais:
 
 a) Um vereador efectivo, eleito pela Câmara Municipal do Porto;
 
@@ -134,17 +174,17 @@ d) Um indivíduo de reconhecida competência em matéria de coordenação geral 
 
 § 5.º De cada reunião será lavrada acta, redigida pelo director e, depois de lida e aprovada na reunião seguinte, assinada pelas pessoas presentes à primeira. Nos casos de urgência reconhecida pelo conselho de administração poderá ser assinada em minuta no final da reunião a que disser respeito e lançada depois no respectivo livro.
 
-###### Art. 4.º Junto do conselho de administração poderá haver um delegado do Governo, que acompanhará a parte financeira e administrativa dos serviços, competindo-lhe, em geral, fiscalizar o cumprimento das leis e regulamentos em vigor e dar parecer sobre o orçamento anual, as contas de gerência, as operações de crédito a efectuar pelo Serviço e os planos financeiros plurianuais que o conselho de administração deva submeter à apreciação superior.
+Art. 4.º Junto do conselho de administração poderá haver um delegado do Governo, que acompanhará a parte financeira e administrativa dos serviços, competindo-lhe, em geral, fiscalizar o cumprimento das leis e regulamentos em vigor e dar parecer sobre o orçamento anual, as contas de gerência, as operações de crédito a efectuar pelo Serviço e os planos financeiros plurianuais que o conselho de administração deva submeter à apreciação superior.
 
 § único. O delegado do Governo deverá assistir às reuniões do conselho de administração.
 
-###### Art. 5.º Os membros do conselho de administração e o delegado do Governo terão direito às gratificações que lhes forem fixadas por despacho do Ministro das Comunicações, as quais serão acumuláveis com as remunerações que os nomeados percebam pelo exercício de funções noutros serviços do Estado, incluindo os organismos de coordenação económica, ou dos corpos administrativos, desde que, no conjunto, não excedam o limite fixado no artigo 1.º da [Lei n.º 2105](https://diariodarepublica.pt/dr/detalhe/lei/2105-1960-503782), de 6 de Junho de 1960.
+Art. 5.º Os membros do conselho de administração e o delegado do Governo terão direito às gratificações que lhes forem fixadas por despacho do Ministro das Comunicações, as quais serão acumuláveis com as remunerações que os nomeados percebam pelo exercício de funções noutros serviços do Estado, incluindo os organismos de coordenação económica, ou dos corpos administrativos, desde que, no conjunto, não excedam o limite fixado no artigo 1.º da [Lei n.º 2105](https://diariodarepublica.pt/dr/detalhe/lei/2105-1960-503782), de 6 de Junho de 1960.
 
-###### Art. 2.º - 1. Durante o triénio de 1968 a 1970, o Serviço de Transportes Colectivos do Porto destinará das suas receitas, em cada ano, à Câmara Municipal do Porto a importância de 3000 contos.
+Art. 2.º - 1. Durante o triénio de 1968 a 1970, o Serviço de Transportes Colectivos do Porto destinará das suas receitas, em cada ano, à Câmara Municipal do Porto a importância de 3000 contos.
 
 2. Findo o triénio, este quantitativo poderá ser revisto e aprovado por portaria conjunta dos Ministros do Interior e das Comunicações, depois de obtido o acordo das partes interessadas e tendo em vista as condições económicas e financeiras do Serviço.
 
-###### Art. 3.º - 1. A orgânica do Serviço de Transportes Colectivos do Porto e seu regime de exploração serão revistos no prazo de dois anos a contar da data da entrada em vigor do presente diploma.
+Art. 3.º - 1. A orgânica do Serviço de Transportes Colectivos do Porto e seu regime de exploração serão revistos no prazo de dois anos a contar da data da entrada em vigor do presente diploma.
 
 2. Para este efeito, deverá o conselho de administração, seis meses antes do termo deste prazo, apresentar à Câmara Municipal do Porto relatório circunstanciado acerca dos problemas fundamentais da exploração exercida e propostas sobre as alterações a introduzir na orgânica e regime do Serviço.
 
@@ -152,10 +192,10 @@ d) Um indivíduo de reconhecida competência em matéria de coordenação geral 
 
 4. As alterações a introduzir na orgânica e regime do Serviço de Transportes Colectivos do Porto serão estabelecidas mediante decreto referendado pelos Ministros do Interior e das Comunicações.
 
-###### Art. 4.º São revogados os artigos 13.º e 17.º do [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, bem como o [Decreto-Lei n.º 46110](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46110-1964-553972), de 28 de Dezembro de 1964.
+Art. 4.º São revogados os artigos 13.º e 17.º do [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, bem como o [Decreto-Lei n.º 46110](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46110-1964-553972), de 28 de Dezembro de 1964.
 
-###### Art. 5.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

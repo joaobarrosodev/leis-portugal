@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28700/32173217.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-1979-366442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f299e6a48610a49da2c10240385fd9e54d315ff8aee42bb94294086aa250100
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a8873458413afa3ca56fc16c2e5c1b5e629e1e6d44c153f474fb331e6e47b7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comemoração
+- Comissão Organizadora
+- Dia de Portugal de Camões e das Comunidades Portuguesas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUSPENSO DE EXECUÇÃO PELA RESOLUÇÃO DA ASSEMBLEIA DA REPÚBLICA NUMERO 51/80, PUBLICADO NO DIÁRIO DA REPÚBLICA, I\
+    \ SÉRIE, NUMERO 38, DE 800214, ATE QUE SEJA PUBLICADA A LEI QUE O ALTERAR POR RATIFICAÇÃO.\0IFICAÇÃO.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:473915:por
+  label: "Alterado o art. único, na redacção dada ao art. 5º do Dec Lei 39-B/78, de 14-Dez pela LEI.7/80.1980.05.13.AR, DR.IS\
+    \ [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-1980-473915
+  date: '1980-05-13'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508582:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:22Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +124,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 5.º do [Decreto-Lei n.º 39-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-b-1978-508582), de 2 de Março, passa a ter a seguinte redacção:
+Artigo único. O artigo 5.º do [Decreto-Lei n.º 39-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-b-1978-508582), de 2 de Março, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - A comissão organizadora é considerada serviço dotado de autonomia administrativa para efeitos do disposto na alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho.
+Art. 5.º - 1 - A comissão organizadora é considerada serviço dotado de autonomia administrativa para efeitos do disposto na alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho.
 
 2 - O apoio administrativo à comissão será prestado pela Secretaria-Geral da Presidência do Conselho de Ministros, que poderá, para o efeito, proceder ao alargamento do seu quadro de pessoal, em correspondência com o acréscimo de serviço.
 
@@ -106,8 +134,8 @@ O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, 
 
 Visto e aprovado em Conselho de Ministros de 19 de Setembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 10 de Dezembro de 1979.**
+Promulgado em 10 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

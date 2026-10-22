@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15900/14891495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d68f58ac53f1477f7821f0cf4fb8c6d64c8dc87d43b51fbc157aef3e2053940a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb972d3030fa92f0351d93a06d9bf7c3ca1b486215b96f793e3fbf2d0f66bca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Concurso Público
+- Conservação e Restauro
+- Obras Públicas
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:484427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183014:por
+  label: "Alterado o art. 4 nº 3, art. 5º nº 1, al. a) e b), art. 5º nº 2 al. a) e b), art. 5º nº 3, art. 8º nº 1, al. a)\
+    \ e b), art. 10º nº 1, art. 16º nº 2 e 3, art. 20º nº 1, al. a), b), c), d) e), art. 21º al. a), b), c), d), e), f) e\
+    \ art. 22º nº 1 al. d), pelo DEC LEI.227/85.1985.07.04.MFP, DR.IS [151]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1985-183014
+  date: '1985-07-04'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Aditado um nº 5 ao art. 23º, pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:173688:por
+  label: "Revogado pelo DEC LEI.55/95.1995.03.29.MF DR.IS-A [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1995-173688
+  date: '1995-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:01Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +146,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Âmbito
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito)
 
@@ -114,7 +158,7 @@ a) Serviços dotados de autonomia administrativa aqueles cujos órgãos sejam co
 
 b) Serviços dotados de autonomia financeira, ou simplesmente serviços autónomos, os que, além de autonomia administrativa, possuam contabilidade e orçamento privativos, com afectação de receitas próprias às despesas da sua manutenção.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Despesas com aquisição de bens)
 
@@ -124,7 +168,7 @@ a) As despesas resultantes de fornecimentos, os quais englobam todas as prestaç
 
 b) As despesas que visem permitir a utilização ou fruição temporária de coisas móveis, nomeadamente por aluguer.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Despesas com aquisição de serviços)
 
@@ -134,7 +178,7 @@ b) As despesas que visem permitir a utilização ou fruição temporária de coi
 
 Concursos e ajuste directo
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Concursos público e limitado e ajuste directo)
 
@@ -144,7 +188,7 @@ Concursos e ajuste directo
 
 3 - O ajuste directo deverá ser precedido, sempre que possível, de consulta a, pelo menos, três entidades, sendo a consulta obrigatória para a realização de despesas superiores a 10000$00 ou a 100000$00 quando, respectivamente, se trate de despesas com aquisição de bens e serviços ou de despesas com obras e com os estudos referidos no n.º 2 do artigo 3.º
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Realização e dispensa de concurso)
 
@@ -178,7 +222,7 @@ f) Quando se trate de encomenda ou obtenção de estudos.
 
 5 - Se for dispensado o concurso público, deverá ser realizado concurso limitado, salvo se este também for dispensado, mas, neste caso, será obrigatória a consulta, com excepção dos casos previstos nas alíneas a) a c) e e) do n.º 4 anterior e na alínea f) no que respeita à obtenção de estudos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Trâmites dos processos de concursos)
 
@@ -186,7 +230,7 @@ f) Quando se trate de encomenda ou obtenção de estudos.
 
 2 - No caso de não haver leis ou regulamentos especialmente aplicáveis, observar-se-ão as normas que vigorarem para os serviços do Ministério da Habitação e Obras Públicas.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Requisitos para dispensa de concurso)
 
@@ -196,7 +240,7 @@ f) Quando se trate de encomenda ou obtenção de estudos.
 
 Contratos
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Celebração de contrato escrito)
 
@@ -216,13 +260,13 @@ b) Se trate de artigos que estejam prontos a ser entregues imediatamente e as re
 
 c) Se trate de despesas provenientes de revisões de preços de obras ou fornecimentos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Requisitos para a dispensa de contrato escrito)
 
 Às propostas para dispensa de contrato escrito aplicam-se as regras contidas no artigo 7.º
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Repartição de encargos em mais de um ano económico)
 
@@ -232,7 +276,7 @@ c) Se trate de despesas provenientes de revisões de preços de obras ou forneci
 
 3 - Fica dispensada do cumprimento das disposições deste artigo a celebração de contratos relativos a trabalhos a mais ou imprevistos em empreitadas de obras públicas cujos contratos iniciais tenham sido precedidos de diploma publicado ao abrigo das mesmas disposições, desde que os novos encargos tenham cabimento no orçamento em vigor à data do adicional.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Aprovação das minutas dos contratos)
 
@@ -246,7 +290,7 @@ b) Se foram cumpridas as disposições legais e regulamentares aplicáveis à fo
 
 c) Se foram observadas as prescrições legais sobre a realização das despesas públicas.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Cláusulas contratuais)
 
@@ -268,7 +312,7 @@ g) O encargo total resultante do contrato, a classificação orçamental da dota
 
 2 - Os contratos de fornecimento, de empreitadas, de arrendamento ou de aluguer serão lavrados segundo modelos aprovados por portaria do Ministro das Finanças e do Plano, podendo, no entanto, os Ministros, Secretários ou Subsecretários de Estado autorizar que esses contratos sejam lavrados sem obediência aos modelos legais nos casos em que se verifiquem peculiaridades que justifiquem a elaboração de minuta especial.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Formalidades dos contratos)
 
@@ -276,7 +320,7 @@ g) O encargo total resultante do contrato, a classificação orçamental da dota
 
 2 - Os contratos serão precedidos de minuta, e quando, pela complexidade das estipulações contratuais, for julgado conveniente, poderá o Ministro autorizar que a mesma seja elaborada por notário, ao qual serão pagos os emolumentos correspondentes à prestação do respectivo serviço.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Representação na outorga de contrato escrito)
 
@@ -286,7 +330,7 @@ g) O encargo total resultante do contrato, a classificação orçamental da dota
 
 3 - Qualquer delegação para efeitos de outorga em representação do Estado será conferida no despacho que aprovar a minuta.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Formalidades subsequentes)
 
@@ -296,7 +340,7 @@ g) O encargo total resultante do contrato, a classificação orçamental da dota
 
 3 - São dispensados de registo na competente delegação da Direcção-Geral da Contabilidade Pública as minutas e os contratos que hajam sido celebrados pelos organismos do Estado dotados de autonomia administrativa ou financeira.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Contratos de arrendamento para a instalação de serviços públicos)
 
@@ -310,7 +354,7 @@ g) O encargo total resultante do contrato, a classificação orçamental da dota
 
 5 - Nos contratos a que se refere este artigo, que serão dispensados de minuta, outorgará como inquilino o Estado, representado pela entidade que para isso for designada nos termos do n.º 1 do artigo 13.º deste diploma.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Contratos de obras e fornecimentos celebrados no estrangeiro)
 
@@ -318,7 +362,7 @@ g) O encargo total resultante do contrato, a classificação orçamental da dota
 
 2 - Se o contrato tiver de ser escrito em língua estrangeira, a minuta a aprovar e visar será redigida em português e devolvida à sede do serviço, após a celebração do contrato, com a declaração do funcionário responsável de que o texto em língua estrangeira do título contratual está conforme com os seus termos.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Adjudicação de fornecimentos e celebração de arrendamentos destinadas a ter efeitos no início do ano económico seguinte).
 
@@ -332,7 +376,7 @@ b) Não excederem os encargos contraídos a importância de dois duodécimos da 
 
 3 - A declaração referida no número anterior supre a informação de cabimento exigida no instrumento do contrato e obedecerá sempre à dupla condição de o encargo não exceder a importância de dois duodécimos da verba destinada a despesas da mesma espécie no orçamento que vigorar e de vir a ser suportado pela correspondente verba do orçamento do ano económico imediato.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Utilização de importâncias sobrantes)
 
@@ -342,7 +386,7 @@ b) Não excederem os encargos contraídos a importância de dois duodécimos da 
 
 Competência para autorização de despesas
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Entidades competentes para autorizar despesas)
 
@@ -378,7 +422,7 @@ e) Até 50000000$00 pelos Secretários e Subsecretários de Estado;
 
 f) Sem limitação, pelo Primeiro-Ministro e pelos Ministros.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Limites de competência para autorização de despesas com dispensa de concurso e contrato escrito)
 
@@ -398,7 +442,7 @@ f) Até 50000000$00, o Primeiro-Ministro;
 
 g) Sem limitação, o Conselho de Ministros.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Despesas da exclusiva competência ministerial)
 
@@ -424,7 +468,7 @@ d) Que devam considerar-se excepcionais para o serviço que as tenha de realizar
 
 3 - O disposto na alínea d) do n.º 1 deste artigo aplica-se às despesas de qualquer natureza e classificação orçamental.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Delegação e subdelegação de competência)
 
@@ -436,7 +480,7 @@ d) Que devam considerar-se excepcionais para o serviço que as tenha de realizar
 
 4 - Às delegações e subdelegações referidas no presente artigo é aplicável o disposto nos artigos 8.º e 9.º do [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1967.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Fraccionamento das despesas)
 
@@ -452,13 +496,13 @@ d) Que devam considerar-se excepcionais para o serviço que as tenha de realizar
 
 Regimes especiais
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Regime de vendas)
 
 O regime do presente diploma é aplicável, com as necessárias adaptações, às vendas de quaisquer géneros e artigos que os organismos hajam de realizar.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Outros regimes especiais)
 
@@ -466,25 +510,25 @@ Os regimes especiais sobre matérias versadas no presente diploma poderão ser r
 
 Disposições gerais
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Alteração de quantitativos)
 
 As importâncias fixadas no presente diploma poderão ser alteradas por resolução do Conselho de Ministros, mediante proposta apresentada pelo Ministro das Finanças e do Plano.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Revogação de legislação anterior)
 
 São revogados pelo presente diploma o [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, e o [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968, com excepção dos seus artigos 10.º e 11.º
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Resolução de dúvidas)
 
 As dúvidas emergentes da execução do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Entrada em vigor)
 
@@ -492,8 +536,8 @@ O presente diploma entra em vigor sessenta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 18 de Junho de 1979.**
+Promulgado em 18 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES**
+O Presidente da República, ANTÓNIO RAMALHO EANES

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22200/29062907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1980-461820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ba06071973be8ace2aa3273872014f6f83764577b258c8ee307cec8e084ddac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7007f243f259363a41010b51b4b01f8f037c6d448fc37f13f9e739491e88283c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Autor
+- Propriedade do Estado
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:606764:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474144:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606764:por
+  label: "Revogado pelo DEC LEI.150/82.29.04.1982.MCCC, DR.IS [99] de 29.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1982-606764
+  date: '1982-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:02Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +111,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Compete à Secretaria de Estado da Cultura a defesa da integridade e genuinidade das obras intelectuais nacionais caídas no domínio público.
+Artigo 1.º - 1 - Compete à Secretaria de Estado da Cultura a defesa da integridade e genuinidade das obras intelectuais nacionais caídas no domínio público.
 
 2 - A competência da Secretaria de Estado da Cultura no respeito à defesa da integridade e genuinidade das obras intelectuais nacionais caídas no domínio público é exercida através da Direcção-Geral dos Espectáculos e do Direito de Autor, sem prejuízo da competência que neste domínio é atribuída pelo [Decreto Regulamentar n.º 17/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1980-474144), de 23 de Maio, ao Instituto Português do Livro.
 
 3 - A Secretaria de Estado da Cultura poderá também, através da mesma Direcção-Geral, zelar pela integridade e genuinidade das obras que ainda não tenham caído no domínio público, quando aquelas se mostrem ameaçadas ou sejam violadas e os titulares dos respectivos direitos notificados para exercê-los, o não fizerem sem motivo atendível.
 
-###### Art. 2.º - 1 - A publicação ou utilização, por qualquer meio ou em qualquer suporte, das obras intelectuais nacionais caídas no domínio público por quaisquer pessoas singulares ou colectivas não carece de autorização prévia, mas só poderá fazer-se desde que:
+Art. 2.º - 1 - A publicação ou utilização, por qualquer meio ou em qualquer suporte, das obras intelectuais nacionais caídas no domínio público por quaisquer pessoas singulares ou colectivas não carece de autorização prévia, mas só poderá fazer-se desde que:
 
 a) Seja mencionado o nome do autor, quando conhecido;
 
@@ -117,7 +129,7 @@ c) Seja paga a taxa correspondente e que consta da tabela anexa a este diploma, 
 
 3 - São igualmente abrangidos pelo disposto neste artigo os fonogramas ou videogramas de folclore português.
 
-###### Art. 3.º - 1 - As taxas referidas na alínea c) do n.º 1 do artigo anterior, bem como o produto das multas previstas nos n.os 2 e 3 do artigo 5.º, constituem receita do Fundo de Fomento Cultural, que será exclusivamente aplicada na protecção e divulgação de obras intelectuais caídas no domínio público, de acordo com a natureza do meio ou suporte da obra.
+Art. 3.º - 1 - As taxas referidas na alínea c) do n.º 1 do artigo anterior, bem como o produto das multas previstas nos n.os 2 e 3 do artigo 5.º, constituem receita do Fundo de Fomento Cultural, que será exclusivamente aplicada na protecção e divulgação de obras intelectuais caídas no domínio público, de acordo com a natureza do meio ou suporte da obra.
 
 2 - A importância das taxas será depositada, em conta à ordem do Fundo de Fomento Cultural, na Caixa Geral de Depósitos.
 
@@ -125,9 +137,9 @@ c) Seja paga a taxa correspondente e que consta da tabela anexa a este diploma, 
 
 4 - Qualquer alteração às taxas constantes da tabela anexa ao presente decreto-lei será efectuada por portaria do membro do Governo responsável pela área da cultura.
 
-###### Art. 4.º Quando se suscitem dúvidas sobre o respeito pela genuinidade e integridade da obra intelectual, poderá ser solicitado parecer à Direcção-Geral dos Espectáculos e do Direito de Autor e ao Instituto Português do Livro.
+Art. 4.º Quando se suscitem dúvidas sobre o respeito pela genuinidade e integridade da obra intelectual, poderá ser solicitado parecer à Direcção-Geral dos Espectáculos e do Direito de Autor e ao Instituto Português do Livro.
 
-###### Art. 5.º - 1 - O incumprimento do disposto no presente diploma será punido nos termos dos números seguintes, devendo a graduação da multa, quando a isso houver lugar, fazer-se de harmonia com a natureza, gravidade e circunstâncias de infracção, os antecedentes do infractor e a sua capacidade económica.
+Art. 5.º - 1 - O incumprimento do disposto no presente diploma será punido nos termos dos números seguintes, devendo a graduação da multa, quando a isso houver lugar, fazer-se de harmonia com a natureza, gravidade e circunstâncias de infracção, os antecedentes do infractor e a sua capacidade económica.
 
 2 - Quando não forem respeitadas as alíneas a) e b) do n.º 1 do artigo 2.º, haverá lugar ao pagamento de multa de 20000$00 a 150000$00.
 
@@ -135,17 +147,17 @@ c) Seja paga a taxa correspondente e que consta da tabela anexa a este diploma, 
 
 4 - Incumbe à Direcção-Geral dos Espectáculos e do Direito de Autor organizar e instruir os processos relativos às infracções previstas nos números anteriores e ao director-geral dos Espectáculos e do Direito de Autor compete fixar o quantitativo da multa a aplicar.
 
-###### Art. 6.º São revogados os Decretos-Leis n.º 53/80 e 54/80, de 26 de Março.
+Art. 6.º São revogados os Decretos-Leis n.º 53/80 e 54/80, de 26 de Março.
 
-###### Art. 7.º Este diploma entra em vigor trinta dias após a sua publicação.
+Art. 7.º Este diploma entra em vigor trinta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Agosto de 1980.**
+Promulgado em 21 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela das taxas referidas na alínea c) do artigo 2.º
 
@@ -167,4 +179,4 @@ Direitos de edição gráfica:
 
 1% por exemplar editado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22200/29062907.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22200/29062907.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22200/29062907.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/443-1972-686218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a0a28392e458adca368ede2204ceba0d994c639e854218e6d982218b7ff890e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04a8d3b7b1af3f1c9a5f2dcc191bc98e0add65470e9fc9f04b0323a4e2a829cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:30Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Macau são criados dois lugares de chefe de serviços técnicos de 2.ª classe com a categoria correspondente à da letra H dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino.
+Artigo 1.º - 1. No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Macau são criados dois lugares de chefe de serviços técnicos de 2.ª classe com a categoria correspondente à da letra H dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. No mesmo quadro são extintos os seguintes lugares:
 
@@ -98,7 +106,7 @@ Chefe de serviços técnicos de 1.ª classe;
 
 Assistente técnico.
 
-###### Art. 2.º - 1. Para um dos lugares de chefe de serviços técnicos de 2.ª classe a que se refere o n.º 1 do artigo 1.º do presente decreto transitará, com dispensa de visto e posse, o actual assistente técnico, cujo lugar é extinto.
+Art. 2.º - 1. Para um dos lugares de chefe de serviços técnicos de 2.ª classe a que se refere o n.º 1 do artigo 1.º do presente decreto transitará, com dispensa de visto e posse, o actual assistente técnico, cujo lugar é extinto.
 
 2. O primeiro provimento do outro lugar de chefe de serviços técnicos de 2.ª classe criado pelo artigo 1.º do presente decreto será feito por escolha do Governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, devendo recair em indivíduo habilitado com o curso de agente técnico de engenharia electro-mecânica dos institutos industriais, funcionário ou não dos correios, telégrafos e telefones, que o requeira e possua prática do serviço de telecomunicações.
 
@@ -112,15 +120,15 @@ Assistente técnico.
 
 7. O júri do concurso será constituído nos termos do artigo 258.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
-###### Art. 3.º - 1. Na escolha e concurso a que se referem os n.os 2, 3 e 4 do artigo anterior deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada.
+Art. 3.º - 1. Na escolha e concurso a que se referem os n.os 2, 3 e 4 do artigo anterior deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada.
 
 2. O mérito será avaliado tendo em conta os factores de qualidade de serviço e habilitações profissionais e literárias, a considerar pela ordem enunciada, pelo que só se deverá passar da apreciação de um factor ao imediato para graduar concorrentes em situação de paridade naquele que o antecede.
 
 3. Na avaliação da qualificação profissional tomar-se-ão em conta as informações anuais, os louvores, os castigos, o exercício de cargos superiores ou de elevada responsabilidade, a classificação de curso e tudo o mais que revele aptidão para o cargo.
 
-###### Art. 4.º Os lugares criados pelo artigo 1.º do presente decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones da província o permitam e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário ou suplementar dos mesmos Serviços que possam fazer face aos encargos consequentes.
+Art. 4.º Os lugares criados pelo artigo 1.º do presente decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones da província o permitam e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário ou suplementar dos mesmos Serviços que possam fazer face aos encargos consequentes.
 
-###### Art. 5.º - 1. O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones de Macau passa a ser constituído pelo chefe da Repartição Provincial, que será o presidente, e por dois vogais, sendo um deles o adjunto da Repartição e o outro nomeado anualmente pelo Governador de entre os chefes de secção dos mesmos Serviços.
+Art. 5.º - 1. O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones de Macau passa a ser constituído pelo chefe da Repartição Provincial, que será o presidente, e por dois vogais, sendo um deles o adjunto da Repartição e o outro nomeado anualmente pelo Governador de entre os chefes de secção dos mesmos Serviços.
 
 2. Nas faltas ou impedimentos de alguns dos vogais membros do conselho de administração, servirão os substitutos, designados também anualmente pelo Governador de entre os funcionários dos correios, telégrafos e telefones, de nomeação ou contratados.
 
@@ -128,13 +136,13 @@ Assistente técnico.
 
 4. O delegado dos Serviços de Fazenda e Contabilidade a que se refere o artigo 7.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, perceberá a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 6.º - 1. Aos funcionários dos Correios, Telégrafos e Telefones de Macau serão abonadas as gratificações mensais, os abonos para falhas e as senhas de presença constantes do quadro I anexo a este decreto.
+Art. 6.º - 1. Aos funcionários dos Correios, Telégrafos e Telefones de Macau serão abonadas as gratificações mensais, os abonos para falhas e as senhas de presença constantes do quadro I anexo a este decreto.
 
 2. Aos funcionários que recebam as gratificações mensais e os abonos para falhas previstos no n.º 1 não serão abonados as gratificações e os abonos para falhas referidos nos artigos 382.º e 383.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, exceptuando as que respeitam ao conselho de administração dos Correios, Telégrafos e Telefones.
 
 3. As gratificações atribuídas aos chefes de estação de 3.ª classe, variáveis entre 100$00 e 300$00 mensais, consoante os serviços que desempenhem e o movimento da respectiva estação, serão fixadas por portaria do Governador sob proposta do conselho de administração dos Correios, Telégrafos e Telefones.
 
-###### Art. 7.º - 1. É autorizado o Governador da província, mediante proposta fundamentada do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, a atribuir subsídios diários ao pessoal técnico e especializado dos mesmos Serviços, independentemente de quaisquer outros abonos, gratificações ou senhas de presença a que tenham direito, dentro dos seguintes limites:
+Art. 7.º - 1. É autorizado o Governador da província, mediante proposta fundamentada do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, a atribuir subsídios diários ao pessoal técnico e especializado dos mesmos Serviços, independentemente de quaisquer outros abonos, gratificações ou senhas de presença a que tenham direito, dentro dos seguintes limites:
 
 a) Pessoal técnico com curso superior - 70$00 a 150$00;
 
@@ -150,11 +158,11 @@ c) Outro pessoal técnico - 20$00 a 70$00.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Outubro de 1972.**
+Promulgado em 30 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Macau. - J. da Silva Cunha.
 
@@ -164,6 +172,6 @@ Gratificações, abonos para falhas e senhas de presença
 
 (Artigo 6.º do Decreto n.º 443/72)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/26100/16191620.pdf))](https://files.diariodarepublica.pt/1s/1972/11/26100/16191620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/26100/16191620.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

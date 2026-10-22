@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96bb0e39513a43d56beb3aef3118caa02da0d226e8d6a45be164c174b43e3fb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b16b1a8db4813e60652d3a142deb54501756b1ca5d892a3f2d734a7ddf2baba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angra do Heroísmo
+- Bragança
+- Código Administrativo
+- Governador Civil
+- Governo Civil
+- Leiria
+- Lisboa
+- Organização Territorial
+- Portalegre
+- Porto
+- Quadro de Pessoal
+- Serviços Administrativos
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:621936:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227236:por
+  label: "Alterados os arts. 4º e 5º e revogado o art. 13º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1970-227236
+  date: '1970-01-16'
+- type: amended_by
+  target: pt:dre:472892:por
+  label: "Alterado o art. 406º do Código Administrativo aprovado pelo Dec Lei 31095 de 31-Dez de 1940, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.530/74.09.10.1974.MAI, DG.IS [235] de 09.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1974-472892
+  date: '1974-10-09'
+- type: amended_by
+  target: pt:dre:621936:por
+  label: "Alterado o § 3º do art. 406º do Código Administrativo aprovado pelo Dec Lei 31095 de 31-Dez de 1940, com a redacção\
+    \ constante do presente diploma, pelo DEC LEI.399-B/84.28.12.1984.PCM, DR.IS [299]Supl de 28.12.1984, que aditou ao mesmo\
+    \ art. um § 5º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-b-1984-621936
+  date: '1984-12-28'
+- type: cites
+  target: pt:dre:184901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691054:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:263527:por
+  label: "Revogado o § 1º do art. 10º pelo DEC LEI.48669.07.11.1968.MI, DG.IS [262] de 07.11.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48669-1968-263527
+  date: '1968-11-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:42Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +145,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As secretarias dos Governos Civis de Lisboa e do Porto dividem-se nas seguintes: secções:
+Artigo 1.º As secretarias dos Governos Civis de Lisboa e do Porto dividem-se nas seguintes: secções:
 
 Governo Civil de Lisboa:
 
@@ -105,19 +161,19 @@ a) Secção central;
 
 b) Secção de contabilidade, de licenças e de passaportes.
 
-###### Art. 2.º As secções dos Governos Civis de Lisboa e do Porto serão chefiadas por primeiros-oficiais.
+Art. 2.º As secções dos Governos Civis de Lisboa e do Porto serão chefiadas por primeiros-oficiais.
 
 § único. Aos funcionários que tiverem a seu cargo a chefia de secções será atribuída gratificação de importância igual à autorizada para os primeiros-oficiais em serviço nas secretarias das câmaras municipais dos concelhos urbanos de 1.ª ordem.
 
-###### Art. 3.º A arrecadação das receitas, a guarda dos fundos e valores, o pagamento das despesas e quaisquer movimentos de dinheiro dos cofres privativos dos Governos Civis de Lisboa e do Porto, ou que pelos mesmos cofres devam legalmente transitar, incumbem à tesouraria, que constitui serviço das secções a que se referem as alíneas b) do ortiga 1.º
+Art. 3.º A arrecadação das receitas, a guarda dos fundos e valores, o pagamento das despesas e quaisquer movimentos de dinheiro dos cofres privativos dos Governos Civis de Lisboa e do Porto, ou que pelos mesmos cofres devam legalmente transitar, incumbem à tesouraria, que constitui serviço das secções a que se referem as alíneas b) do ortiga 1.º
 
-###### Art. 4.º As funções de tesoureiro dos Governos Civis de Lisboa e do Porto serão exercidas por um funcionário de carteira, escolhido pelo secretário do governo civil, de acorda com o governador civil.
+Art. 4.º As funções de tesoureiro dos Governos Civis de Lisboa e do Porto serão exercidas por um funcionário de carteira, escolhido pelo secretário do governo civil, de acorda com o governador civil.
 
 § 1.º O tesoureiro, além do ordenado que lhe caiba, perceberá abono mensal para falhas de importância igual à que estiver atribuída aos tesoureiros das câmaras municipais dos concelhos de 1.ª ordem.
 
 § 2.º O tesoureiro é obrigado a prestar caução, do valor de 25000$00, mediante depósito de dinheiro ou de títulos da dívida pública fundada, primeira hipoteca sobre prédios urbanos ou seguro de caução.
 
-###### Art. 5.º O tesoureiro dos Governos Civis de Lisboa e do Parto será coadjuvado por um proposto, que também o substituirá nas suas faltas e impedimentos.
+Art. 5.º O tesoureiro dos Governos Civis de Lisboa e do Parto será coadjuvado por um proposto, que também o substituirá nas suas faltas e impedimentos.
 
 § 1.º O proposto será escolhido pelo tesoureiro, com o acordo do secretário do governo civil, entre os escriturários ou aspirantes:
 
@@ -125,7 +181,7 @@ b) Secção de contabilidade, de licenças e de passaportes.
 
 § 3.º Sempre que o movimento da tesouraria o justifique, poderá o secretário do governo civil, sob proposta do tesoureiro, mandar destacar um ou mais escriturários ou aspirantes para ali prestarem serviço.
 
-###### Art. 6.º O quadro da pessoal da secretaria da Governo Civil de Lisboa passa a ser constituído como segue:
+Art. 6.º O quadro da pessoal da secretaria da Governo Civil de Lisboa passa a ser constituído como segue:
 
 1 secretário;
 
@@ -155,7 +211,7 @@ b) Secção de contabilidade, de licenças e de passaportes.
 
 § 2.º Ao adjunto do secretário do governo civil, para além da competência a que se refere o artigo 793.º do Código Administrativo, incumbe coadjuvar o secretário da governo civil, praticando, por delegação, os actos da competência deste.
 
-###### Art. 7.º O quadro do pessoal da secretaria do Governo Civil do Porto passa a ser constituído como segue:
+Art. 7.º O quadro do pessoal da secretaria do Governo Civil do Porto passa a ser constituído como segue:
 
 1 secretário;
 
@@ -179,31 +235,31 @@ b) Secção de contabilidade, de licenças e de passaportes.
 
 1 guarda-portão.
 
-###### Art. 8.º É criado mais um lugar de escriturário de 2.ª classe nos quadros das secretarias dos Governos Civis de Angra do Heroísmo, Bragança, Leiria, Portalegre e Setúbal.
+Art. 8.º É criado mais um lugar de escriturário de 2.ª classe nos quadros das secretarias dos Governos Civis de Angra do Heroísmo, Bragança, Leiria, Portalegre e Setúbal.
 
-###### Art. 9.º É criado mais um lugar de segundo-oficial na secretaria do Governo Civil de Angra do Heroísmo.
+Art. 9.º É criado mais um lugar de segundo-oficial na secretaria do Governo Civil de Angra do Heroísmo.
 
-###### Art. 10.º O provimento dos lugares de dactilógrafo das secretarias dos governos civis será feito precedendo concurso de provas práticas, a que poderão ser admitidos indivíduos, de idade não inferior a 18 anos nem superior a 35, habilitados com o 1.º ciclo dos liceus ou equivalente.
+Art. 10.º O provimento dos lugares de dactilógrafo das secretarias dos governos civis será feito precedendo concurso de provas práticas, a que poderão ser admitidos indivíduos, de idade não inferior a 18 anos nem superior a 35, habilitados com o 1.º ciclo dos liceus ou equivalente.
 
 § 1.º O júri dos concursos é constituído por três funcionários do quadro interno da Direcção-Geral de Administração Política e Civil, designados pelo director-geral, e o respectivo programa será o estabelecido para o provimento de idênticos cargos do quadro interno acima referido.
 
 § 2.º Em tudo quanto não fica especialmente regulado, aplicar-se-ão aos dactilógrafos as disposições do Código Administrativo respeitantes aos funcionários de carteira dos quadros privativos das secretarias dos governos civis.
 
-###### Art. 11.º À classe de telefonista dos quadros do pessoal dos governos civis, a prover por contrato, é aplicável o disposto nos artigos 654.º e seguintes do Código Administrativo.
+Art. 11.º À classe de telefonista dos quadros do pessoal dos governos civis, a prover por contrato, é aplicável o disposto nos artigos 654.º e seguintes do Código Administrativo.
 
-###### Art. 12.º O ordenado do cargo de telefonista dos quadros dos governos civis será o correspondente à categoria X do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Art. 12.º O ordenado do cargo de telefonista dos quadros dos governos civis será o correspondente à categoria X do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 13.º Sem prejuízo do disposto no n.º 12.º do artigo 86.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes, os novos encargos resultantes da publicação deste decreto-lei serão satisfeitos através do Orçamento Geral do Estado, mas custeados pelo cofre privativo do respectivo governo civil, que reembolsará o Tesouro das importâncias efectivamente despendidas.
+Art. 13.º Sem prejuízo do disposto no n.º 12.º do artigo 86.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes, os novos encargos resultantes da publicação deste decreto-lei serão satisfeitos através do Orçamento Geral do Estado, mas custeados pelo cofre privativo do respectivo governo civil, que reembolsará o Tesouro das importâncias efectivamente despendidas.
 
 § único. Para o efeito do disposto no corpo deste artigo, a 3.ª Repartição da Direcção-Geral da Contabilidade Pública emitirá guias para pagamento das importâncias das despesas efectuadas no semestre anterior, as quais serão remetidas ao respectivo governo civil.
 
-###### Art. 14.º Sem prejuízo do disposto nos n.os 6.º a 8.º do artigo 414.º do Código Administrativo, os governadores civis poderão delegar nos secretários dos respectivos governos civis a resolução de assuntos correntes, bem como a realização de despesas por conta de verbas inscritas no Orçamento Geral do Estado e a assinatura das respectivas folhas e outros documentos.
+Art. 14.º Sem prejuízo do disposto nos n.os 6.º a 8.º do artigo 414.º do Código Administrativo, os governadores civis poderão delegar nos secretários dos respectivos governos civis a resolução de assuntos correntes, bem como a realização de despesas por conta de verbas inscritas no Orçamento Geral do Estado e a assinatura das respectivas folhas e outros documentos.
 
 § 1.º O secretário do Governo Civil de Lisboa poderá delegar no adjunto a competência que o governador civil nele tiver delegado.
 
 § 2.º Com autorização do governador civil, os secretários dos Governos Civis de Lisboa e do Porto, tal como o adjunto do primeiro, poderão delegar nos primeiros-oficiais que chefiem as secções a competência que por aquele lhes tenha sido delegada na parte que respeite a assuntos de mero expediente, bem como, com idêntica restrição, a competência própria.
 
-###### Art. 15.º Os requerimentos para concessão de licenças policiais da competência dos governadores civis poderão ser formulados em impresso próprio, fornecido pelo serviço onde devam ser apresentados, pagando-se o respectivo imposto do selo em dinheiro.
+Art. 15.º Os requerimentos para concessão de licenças policiais da competência dos governadores civis poderão ser formulados em impresso próprio, fornecido pelo serviço onde devam ser apresentados, pagando-se o respectivo imposto do selo em dinheiro.
 
 § 1.º Tanto os serviços como os utentes observarão o disposto no § 2.º do artigo 6.º do Regulamento do Imposto do Selo, conforme a redacção que a este preceito foi dada pelo [Decreto n.º 44083](https://diariodarepublica.pt/dr/detalhe/decreto/44083-1961-184901), de 12 de Dezembro de 1961.
 
@@ -211,28 +267,28 @@ b) Secção de contabilidade, de licenças e de passaportes.
 
 § 3.º A receita proveniente do imposto do selo cobrado nos termos deste artigo será escriturada em livro próprio e entregue ao Tesouro, por meio de guia, até ao dia 10 do mês seguinte ao da cobrança, mencionando-se na verba do respectivo documento o número de registo que lhe corresponda naquele livro.
 
-###### Art. 16.º O imposto do selo respeitante a licenças concedidas de harmonia com o preceituado nos regulamentos policiais dos distritos, os emolumentos cobrados nas secretarias dos governos civis e das administrações de bairro, nos termos da tabela anexa ao [Decreto n.º 14027](https://diariodarepublica.pt/dr/detalhe/decreto/14027-1927-691054), de 2 de Agosto de 1927, bem como o adicional a que se refere o artigo 11.º do mesmo diploma, passam a ser arrecadados totalmente em dinheiro.
+Art. 16.º O imposto do selo respeitante a licenças concedidas de harmonia com o preceituado nos regulamentos policiais dos distritos, os emolumentos cobrados nas secretarias dos governos civis e das administrações de bairro, nos termos da tabela anexa ao [Decreto n.º 14027](https://diariodarepublica.pt/dr/detalhe/decreto/14027-1927-691054), de 2 de Agosto de 1927, bem como o adicional a que se refere o artigo 11.º do mesmo diploma, passam a ser arrecadados totalmente em dinheiro.
 
 § único. As importâncias a que se refere o corpo deste artigo serão entregues mensalmente nos cofres do Estado até ao dia 10 do mês seguinte ao da cobrança.
 
-###### Art. 17.º A contabilidade dos cofres privativos dos governos civis passa a estar sujeita à inspecção periódica da Inspecção-Geral de Finanças, de harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 32322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32322-1942-339804), de 15 de Outubro de 1942, e nos artigos 2.º e 3.º, alínea a), do regulamento aprovado pelo [Decreto n.º 32341](https://diariodarepublica.pt/dr/detalhe/decreto/32341-1942-344176), de 30 do mesmo mês.
+Art. 17.º A contabilidade dos cofres privativos dos governos civis passa a estar sujeita à inspecção periódica da Inspecção-Geral de Finanças, de harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 32322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32322-1942-339804), de 15 de Outubro de 1942, e nos artigos 2.º e 3.º, alínea a), do regulamento aprovado pelo [Decreto n.º 32341](https://diariodarepublica.pt/dr/detalhe/decreto/32341-1942-344176), de 30 do mesmo mês.
 
-###### Art. 18.º Ao pessoal menor dos governos civis serão atribuídos fardamentos em termos idênticos aos prescritos para o que depende dos serviços centrais dos Ministérios.
+Art. 18.º Ao pessoal menor dos governos civis serão atribuídos fardamentos em termos idênticos aos prescritos para o que depende dos serviços centrais dos Ministérios.
 
 § único. Constitui encargo dos respectivos cofres privativos a despesa com o fornecimento de fardamentos a que se refere o corpo deste artigo.
 
-###### Art. 19.º Os encargos a que este diploma dará lugar serão satisfeitos, no ano corrente, pelas sobras da verba do n.º 1) do artigo 43.º do Orçamento do Ministério do Interior.
+Art. 19.º Os encargos a que este diploma dará lugar serão satisfeitos, no ano corrente, pelas sobras da verba do n.º 1) do artigo 43.º do Orçamento do Ministério do Interior.
 
-###### Art. 20.º O § 3.º do artigo 406.º do Código Administrativo passa ater a seguinte redacção:
+Art. 20.º O § 3.º do artigo 406.º do Código Administrativo passa ater a seguinte redacção:
 
-###### Art. 406.º ...
+Art. 406.º ...
 
 ...
 
 § 3.º Os governadores civis têm direito a utilizar automóveis do Estado de 2.ª categoria e os dos distritos de Lisboa e do Porto podem escolher para secretário um funcionário do quadro do respectivo governo civil de categoria não superior à de segundo-oficial.
 
-###### Art. 21.º Este decreto-lei entra em vigor 60 dias após a data da sua publicação.
+Art. 21.º Este decreto-lei entra em vigor 60 dias após a data da sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

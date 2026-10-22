@@ -47,36 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1981-578335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2062e297d83127b88f805f6129dd3a9b2fd60624211762fdb534b0248598d011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a4912017828b3a9e633ae1d636adf79de65e26a1982be21ef7cce83272cead5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Médica Hospitalar
+- Centro Hospitalar de Coimbra
+- Centro Hospitalar de VILA NOVA de GAIA
+- Coimbra
+- Ensino Médico
+- Ensino Superior
+- Estabelecimento Hospitalar
+- Faculdade de Medicina
+- Formas de Provimento
+- Hospitais da Universidade de Coimbra
+- Hospital de EGAS Moniz
+- Hospital de Miguel Bombarda
+- Hospital de Pulido Valente
+- Hospital de Santa Maria
+- Hospital de São João
+- Hospital Geral de Santo António
+- Lisboa
+- Maternidade Alfredo da Costa
+- Pessoal Docente
+- Porto
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:301226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684868:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579358:por
+  label: Rectificado pela DECL.DD6565.16.07.1981.PCM, DR.IS [172] de 29.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-579358
+  date: '1981-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:01Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +141,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Tendo em vista a satisfação das necessidades e a especificidade do ensino conducente à licenciatura em Medicina, as Faculdades de Medicina e de Ciências Médicas e as instituições hospitalares poderão ser chamadas a colaborar entre si, nos termos do presente diploma.
+Artigo 1.º - 1 - Tendo em vista a satisfação das necessidades e a especificidade do ensino conducente à licenciatura em Medicina, as Faculdades de Medicina e de Ciências Médicas e as instituições hospitalares poderão ser chamadas a colaborar entre si, nos termos do presente diploma.
 
 2 - A colaboração entre as Faculdades de Medicina e de Ciências Médicas e as instituições hospitalares não poderão afectar o fim que cada instituição prossegue.
 
-###### Art. 2.º A colaboração entre as Faculdades de Medicina e de Ciências Médicas e as instituições hospitalares, com vista ao ensino, far-se-á com respeito pelos seguintes princípios:
+Art. 2.º A colaboração entre as Faculdades de Medicina e de Ciências Médicas e as instituições hospitalares, com vista ao ensino, far-se-á com respeito pelos seguintes princípios:
 
 a) Cada Faculdade funcionará em articulação com as instituições hospitalares que se mostrem necessárias e adequadas à sua dimensão e ao tipo de ensino nelas ministrado;
 
@@ -111,7 +157,7 @@ d) A colaboração entre as Faculdades de Medicina e de Ciências Médicas e as 
 
 e) No espírito de colaboração que presidirá à articulação, as instituições hospitalares poderão recorrer ao apoio dos serviços laboratoriais, auxiliares de diagnóstico e outros das Faculdades de Medicina e de Ciências Médicas e vice-versa.
 
-###### Art. 3.º - 1 - A progressão na carreira do pessoal docente do ciclo clínico das Faculdades de Medicina e de Ciências Médicas far-se-á com respeito pelas normas aplicáveis do Estatuto da Carreira Docente Universitária e pelo disposto no número seguinte.
+Art. 3.º - 1 - A progressão na carreira do pessoal docente do ciclo clínico das Faculdades de Medicina e de Ciências Médicas far-se-á com respeito pelas normas aplicáveis do Estatuto da Carreira Docente Universitária e pelo disposto no número seguinte.
 
 2 - O recrutamento do pessoal docente das Faculdades de Medicina e de Ciências Médicas para as disciplinas do ciclo clínico obedecerá aos seguintes princípios:
 
@@ -131,21 +177,21 @@ e) O recrutamento do professores catedráticos processar-se-á de entre os profe
 
 5 - O pessoal da carreira docente é responsável pelo desenvolvimento das actividades assistenciais compreendidas no serviço a que estiver vinculado de acordo com o conteúdo funcional das correspondentes categorias da carreira hospitalar, subordinando-se, para o efeito, às normas regulamentares da organização hospitalar e à orientação das entidades competentes hierarquicamente superiores.
 
-###### Art. 4.º - 1 - No quadro do pessoal dos serviços que, em cada instituição hospitalar em articulação com uma Faculdade de Medicina ou de Ciências Médicas, participem no ensino serão cativados 50% dos lugares de chefe de clínica e 30% dos lugares de especialista, a serem preenchidos pelo pessoal docente da Faculdade, com respeito pelo disposto no n.º 2 do artigo anterior e por proposta dos seus órgãos competentes.
+Art. 4.º - 1 - No quadro do pessoal dos serviços que, em cada instituição hospitalar em articulação com uma Faculdade de Medicina ou de Ciências Médicas, participem no ensino serão cativados 50% dos lugares de chefe de clínica e 30% dos lugares de especialista, a serem preenchidos pelo pessoal docente da Faculdade, com respeito pelo disposto no n.º 2 do artigo anterior e por proposta dos seus órgãos competentes.
 
 2 - Para efeitos do disposto no número anterior, os quadros das instituições hospitalares em articulação com as Faculdades de Medicina ou de Ciências Médicas serão revistos logo após a publicação do presente diploma.
 
 3 - Os quadros das Faculdades de Medicina e de Ciências Médicas e os das instituições hospitalares com as quais estejam articuladas serão revistos, em paralelismo, de três em três anos, tendo em conta as necessidades de ensino e assistenciais.
 
-###### Art. 5.º - 1 - Os lugares de chefe de clínica cativados nos termos do n.º 1 do artigo anterior serão preenchidos, a título definitivo ou provisório, por professores catedráticos e associados, consoante a natureza do respectivo provimento na carreira docente.
+Art. 5.º - 1 - Os lugares de chefe de clínica cativados nos termos do n.º 1 do artigo anterior serão preenchidos, a título definitivo ou provisório, por professores catedráticos e associados, consoante a natureza do respectivo provimento na carreira docente.
 
 2 - Os lugares de especialista cativados nos termos do n.º 1 do artigo anterior serão preenchidos, a título definitivo ou provisório, por professores auxiliares e assistentes, consoante a natureza do respectivo provimento na carreira docente.
 
 3 - O preenchimento de lugares a título provisório só se verificará enquanto os respectivos titulares mantiverem funções na carreira docente.
 
-###### Art. 6.º Sempre que se verifique que o número de docentes de uma Faculdade de Medicina ou de Ciências Médicas e as necessidades do ensino não exigem o preenchimento, na totalidade, do número de lugares cativados no quadro da instituição hospitalar, o preenchimento dos lugares sobrantes far-se-á nas condições a fixar, por acordo, entre os órgãos competentes das duas instituições e por forma a salvaguardar o direito conferido pelo n.º 1 do artigo 4.º do presente diploma às Faculdades de Medicina ou de Ciências Médicas.
+Art. 6.º Sempre que se verifique que o número de docentes de uma Faculdade de Medicina ou de Ciências Médicas e as necessidades do ensino não exigem o preenchimento, na totalidade, do número de lugares cativados no quadro da instituição hospitalar, o preenchimento dos lugares sobrantes far-se-á nas condições a fixar, por acordo, entre os órgãos competentes das duas instituições e por forma a salvaguardar o direito conferido pelo n.º 1 do artigo 4.º do presente diploma às Faculdades de Medicina ou de Ciências Médicas.
 
-###### Art. 7.º - 1 - A direcção dos serviços com ensino caberá ao médico que, exercendo funções no respectivo serviço e pertencendo ao quadro referido no n.º 1 do artigo 4.º do presente diploma, tenha a categoria mais elevada da carreira hospitalar.
+Art. 7.º - 1 - A direcção dos serviços com ensino caberá ao médico que, exercendo funções no respectivo serviço e pertencendo ao quadro referido no n.º 1 do artigo 4.º do presente diploma, tenha a categoria mais elevada da carreira hospitalar.
 
 2 - Em caso de igualdade de categoria da carreira hospitalar, prefere o médico que tenha mais elevada categoria na carreira docente universitária e exerça funções docentes em área científica que compreenda a especialidade do serviço.
 
@@ -153,7 +199,7 @@ e) O recrutamento do professores catedráticos processar-se-á de entre os profe
 
 4 - Os actuais directores de serviço providos a título definitivo manter-se-ão no exercício das suas funções nos lugares respectivos.
 
-###### Art. 8.º - 1 - Os médicos de qualquer categoria da carreira hospitalar poderão acumular as funções nela compreendidas com as de docentes das disciplinas básicas e de Medicina Preventiva ou Saúde Pública, até ao limite máximo de seis horas de aulas semanais, mediante autorização do Ministro dos Assuntos Sociais.
+Art. 8.º - 1 - Os médicos de qualquer categoria da carreira hospitalar poderão acumular as funções nela compreendidas com as de docentes das disciplinas básicas e de Medicina Preventiva ou Saúde Pública, até ao limite máximo de seis horas de aulas semanais, mediante autorização do Ministro dos Assuntos Sociais.
 
 2 - A acumulação referida no número anterior por parte dos médicos da carreira hospitalar pode efectuar-se dentro do horário de serviço hospitalar a que estão sujeitos, ouvido o respectivo director de serviço, com a concordância da direcção médica do hospital, que visará garantir o respeito pelos parâmetros estabelecidos para a sua formação profissional.
 
@@ -163,9 +209,9 @@ e) O recrutamento do professores catedráticos processar-se-á de entre os profe
 
 5 - Por despacho conjunto dos Ministros da Educação e Ciência e dos Assuntos Sociais, os docentes das Faculdades de Medicina e de Ciências Médicas poderão prestar serviço periférico em zonas compatíveis com a acumulação de funções, desde que haja vantagens para as funções de ensino e de investigação.
 
-###### Art. 9.º Os contratos celebrados ao abrigo do disposto no artigo anterior não prejudicarão os direitos dos contratados na sua qualidade de pessoal da carreira médica hospitalar.
+Art. 9.º Os contratos celebrados ao abrigo do disposto no artigo anterior não prejudicarão os direitos dos contratados na sua qualidade de pessoal da carreira médica hospitalar.
 
-###### Art. 10.º - 1 - Fora dos casos previstos no n.º 2 do artigo 3.º do presente diploma, o contrato pelas Faculdades de Medicina ou de Ciências Médicas de pessoal da carreira médica hospitalar necessário às actividades docentes será feito nos termos dos princípios legais aplicáveis do Estatuto da Carreira Docente Universitária e de acordo com as seguintes regras:
+Art. 10.º - 1 - Fora dos casos previstos no n.º 2 do artigo 3.º do presente diploma, o contrato pelas Faculdades de Medicina ou de Ciências Médicas de pessoal da carreira médica hospitalar necessário às actividades docentes será feito nos termos dos princípios legais aplicáveis do Estatuto da Carreira Docente Universitária e de acordo com as seguintes regras:
 
 a) Os especialistas da mesma instituição hospitalar serão contratados como assistentes convidados;
 
@@ -175,17 +221,17 @@ c) Os chefes de clínica da carreira hospitalar que vão assegurar a regência d
 
 2 - Os contratos de pessoal da carreira médica hospitalar a que se refere o número anterior terão a duração máxima de cinco anos, nos termos dos quais, a manterem-se as necessidades do ensino que as justificaram, as Universidades abrirão concurso para professor associado, desde que haja vagas no quadro.
 
-###### Art. 11.º - 1 - O exercício de actividades docentes do ciclo clínico efectivar-se-á dentro do tempo de serviço hospitalar.
+Art. 11.º - 1 - O exercício de actividades docentes do ciclo clínico efectivar-se-á dentro do tempo de serviço hospitalar.
 
 2 - O pessoal da carreira docente das Faculdades de Medicina e de Ciências Médicas em regime de tempo completo receberá, além do vencimento correspondente à letra de docente, um suplemento de 30% sobre o vencimento da categoria hospitalar respectiva, desde que exerça actividade assistencial nos termos do n.º 5 do artigo 3.º a abonar pelo hospital, mesmo que se encontre em regime de dedicação exclusiva.
 
 3 - O pessoal da carreira médica hospitalar que exerça actividades docentes nos termos de contratos celebrados ao abrigo do disposto no artigo 6.º receberá, para além do vencimento correspondente à sua letra hospitalar, um suplemento de 30% sobre o vencimento da categoria da carreira docente para que for convidado, a abonar pela Faculdade, mesmo que se encontre em regime de dedicação exclusiva.
 
-###### Art. 12.º Para os efeitos previstos no presente diploma, não é aplicável ao pessoal médico da carreira hospitalar o disposto no artigo 12.º do [Decreto-Lei n.º 373/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639), de 8 de Setembro.
+Art. 12.º Para os efeitos previstos no presente diploma, não é aplicável ao pessoal médico da carreira hospitalar o disposto no artigo 12.º do [Decreto-Lei n.º 373/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639), de 8 de Setembro.
 
-###### Art. 13.º A tudo quanto não estiver especificamente regulado neste diploma, é aplicável a legislação geral em vigor, designadamente os Estatutos da Carreira Docente Universitária e da Carreira Médica Hospitalar.
+Art. 13.º A tudo quanto não estiver especificamente regulado neste diploma, é aplicável a legislação geral em vigor, designadamente os Estatutos da Carreira Docente Universitária e da Carreira Médica Hospitalar.
 
-###### Art. 14.º - 1 - O presente diploma aplica-se às seguintes instituições:
+Art. 14.º - 1 - O presente diploma aplica-se às seguintes instituições:
 
 a) Faculdade de Medicina de Coimbra e Hospital da Universidade de Coimbra;
 
@@ -205,14 +251,14 @@ c) Faculdade de Ciências Médicas de Lisboa, Hospital de Egas Moniz, Hospital d
 
 d) Instituto de Ciências Biomédicas de Abel Salazar e Hospital Geral de Santo António.
 
-###### Art. 15.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Educação e Ciência e dos Assuntos Sociais.
+Art. 15.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Educação e Ciência e dos Assuntos Sociais.
 
-###### Art. 16.º São revogados os Decretos-Leis n.os [33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), de 6 de Fevereiro, [182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), de 4 de Maio, o n.º 1 do artigo 13.º do [Decreto-Lei n.º 481/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1977-305456), de 15 de Novembro, bem como as disposições do [Decreto-Lei n.º 674/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1975-309502), de 27 de Novembro, que se mostrem contrárias ao preceituado neste diploma.
+Art. 16.º São revogados os Decretos-Leis n.os [33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), de 6 de Fevereiro, [182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), de 4 de Maio, o n.º 1 do artigo 13.º do [Decreto-Lei n.º 481/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1977-305456), de 15 de Novembro, bem como as disposições do [Decreto-Lei n.º 674/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1975-309502), de 27 de Novembro, que se mostrem contrárias ao preceituado neste diploma.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
 
-**Promulgado em 15 de Junho de 1981.**
+Promulgado em 15 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

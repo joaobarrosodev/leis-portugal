@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1973-411173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bb896d6a18b3fbac360a81d384394ac6fb8bfdf1db620fbd581759d82fab1a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f34e9112a568aaf1c2befedc83386caced7ab68a7c544799e006b92be63915f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Câmara Municipal
+- Direcção Geral das Construções Escolares
+- Edifício Público
+- Ensino Primário
+- Estabelecimento de Ensino
+- Obras de Conservação e Restauro
+relationships:
+- type: cites
+  target: pt:dre:140544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631263:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408287:por
+  label: Rectificado pela DECL.DD9427.19.01.1974.PC, DG.IS [16] de 19.01.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-408287
+  date: '1974-01-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:39Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +122,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A conservação das construções escolares executadas ao abrigo do Plano dos Centenários e da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, compete às câmaras municipais e compreende:
+Artigo 1.º - 1. A conservação das construções escolares executadas ao abrigo do Plano dos Centenários e da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, compete às câmaras municipais e compreende:
 
 a) A conservação corrente, abrangendo as pequenas reparações de carácter eventual e urgente;
 
@@ -109,30 +132,30 @@ c) A execução oportuna de quaisquer trabalhos de reparação não compreendido
 
 2. A periodicidade referida na alínea b) do número anterior poderá ser alterada, por portaria do Ministro das Obras Públicas, sempre que circunstâncias especiais o justifiquem.
 
-###### Art. 2.º O Ministro das Obras Públicas poderá autorizar, quando o julgue conveniente e as câmaras municipais fundamentadamente o solicitem, que a conservação periódica das construções escolares seja assegurada pela Direcção-Geral das Construções Escolares.
+Art. 2.º O Ministro das Obras Públicas poderá autorizar, quando o julgue conveniente e as câmaras municipais fundamentadamente o solicitem, que a conservação periódica das construções escolares seja assegurada pela Direcção-Geral das Construções Escolares.
 
-###### Art. 3.º - 1. Será inscrita anualmente no orçamento da despesa ordinária da Direcção-Geral das Construções Escolares a verba necessária à execução das obras de conservação periódica, calculada a partir de índices de custo médio dos trabalhos.
+Art. 3.º - 1. Será inscrita anualmente no orçamento da despesa ordinária da Direcção-Geral das Construções Escolares a verba necessária à execução das obras de conservação periódica, calculada a partir de índices de custo médio dos trabalhos.
 
 2. Os índices de custo médio serão fixados e actualizados periodicamente por portaria dos Ministros das Finanças e das Obras Públicas.
 
-###### Art. 4.º - 1. Na execução das obras de conservação periódica, as câmaras municipais terão de respeitar os cadernos de encargos aprovados pela Direcção-Geral das Construções Escolares.
+Art. 4.º - 1. Na execução das obras de conservação periódica, as câmaras municipais terão de respeitar os cadernos de encargos aprovados pela Direcção-Geral das Construções Escolares.
 
 2. O pagamento pelo Estado do custo previsto das obras à câmara municipal interessada será feito adiantadamente pelo valor do orçamento aprovado, o qual poderá posteriormente ser ajustado de acordo com o prazo da respectiva empreitada.
 
-###### Art. 5.º Não sendo as obras de conservação periódica executadas no prazo estabelecido, ou não estando terminadas dentro do prazo fixado no caderno de encargos, salvo caso de força maior reconhecido pelo Ministério das Obras Públicas, poderá este chamar a si a sua execução ou conclusão.
+Art. 5.º Não sendo as obras de conservação periódica executadas no prazo estabelecido, ou não estando terminadas dentro do prazo fixado no caderno de encargos, salvo caso de força maior reconhecido pelo Ministério das Obras Públicas, poderá este chamar a si a sua execução ou conclusão.
 
-###### Art. 6.º As importâncias despendidas por conta do Orçamento Geral do Estado com a conservação periódica, nos termos do presente decreto-lei, serão reembolsadas pela seguinte forma:
+Art. 6.º As importâncias despendidas por conta do Orçamento Geral do Estado com a conservação periódica, nos termos do presente decreto-lei, serão reembolsadas pela seguinte forma:
 
 a) O Comissariado do Desemprego entrará anualmente nos cofres do Estado com 50% das importâncias efectivamente despendidas no ano anterior, por conta da dotação a inscrever para este efeito no seu orçamento;
 
 b) Os outros 50% serão adicionados aos débitos das câmaras municipais ao Estado provenientes das obras de construções escolares, para serem liquidados conforme o regime estabelecido nas bases V e VI da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043).
 
-###### Art. 7.º São revogadas as bases XIII, XV, XVI, XVII e XVIII da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043).
+Art. 7.º São revogadas as bases XIII, XV, XVI, XVII e XVIII da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043).
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - César Henrique Moreira Baptista - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 5 de Dezembro de 1973.**
+Promulgado em 5 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

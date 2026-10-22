@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1972-685198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b8fa9f08d2c89ed202c255e60aa45ff5e46daa702169d26e4fc127ba000a9ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad13aad9b48c637e9201f2f9f8303a53db2370078f72741844d6d7425163f6af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- CABO Verde.Colónia Portuguesa
+- Despesas Públicas
+- Gestão Orçamental
+- Ministério do Ultramar
+- Ministro das Finanças
+- Subsídio não Reembolsável
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:55Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +105,21 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro das Finanças a conceder, em 1973, à província ultramarina de Cabo Verde um subsídio extraordinário não reembolsável do montante de 360000000$00.
+Artigo 1.º É autorizado o Ministro das Finanças a conceder, em 1973, à província ultramarina de Cabo Verde um subsídio extraordinário não reembolsável do montante de 360000000$00.
 
-###### Art. 2.º O subsídio referido no artigo anterior será inscrito no próximo Orçamento Geral do Estado para 1973, no Ministério do Ultramar, com a seguinte classificação:
+Art. 2.º O subsídio referido no artigo anterior será inscrito no próximo Orçamento Geral do Estado para 1973, no Ministério do Ultramar, com a seguinte classificação:
 
 «Outras despesas extraordinárias - Direcção - Geral de Fazenda - Cabo Verde»
 
-###### Art. 3.º O processamento das importâncias totalizando 360000000$00 terá lugar mediante folhas a processar pela Direcção-Geral de Fazenda, do Ministério do Ultramar, que, depois de visadas pelos Ministros das Finanças e do Ultramar, serão postas a pagamento no Banco de Portugal.
+Art. 3.º O processamento das importâncias totalizando 360000000$00 terá lugar mediante folhas a processar pela Direcção-Geral de Fazenda, do Ministério do Ultramar, que, depois de visadas pelos Ministros das Finanças e do Ultramar, serão postas a pagamento no Banco de Portugal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 2 de Dezembro de 1972.**
+Promulgado em 2 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS ROPRIGUES THOMAZ**
+O Presidente da República, AMÉRICO DEUS ROPRIGUES THOMAZ
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 

@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/12-1986-221133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ff4b1cea9d0b7b17024adbbe1e645ab941574c270fc4fc6b6b92da2062a0a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dad9ffe6de7766d13322454fc210408500d11a78bbd25ae0e4d32661b71c5e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Braga
+- Instalação Militar
+- Quartel
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:41Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +110,7 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Quartel do Areal, situado na freguesia de São Vicente, concelho de Braga, abrangendo duas zonas distintas:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Quartel do Areal, situado na freguesia de São Vicente, concelho de Braga, abrangendo duas zonas distintas:
 
 a) Uma primeira zona, limitada interiormente pelo muro de vedação do Quartel e exteriormente da seguinte forma:
 
@@ -109,7 +126,7 @@ b) Uma segunda zona, limitada interiormente pelo perímetro interior da primeira
 
 2) A nordeste e sudoeste, por linhas traçadas paralelamente ao mesmo muro e dele distantes 150 m.
 
-###### Art. 2.º As áreas descritas nas alíneas a) e b) do artigo anterior ficam sujeitas à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibidas, sem autorização devidamente condicionada da autoridade militar competente, a execução dos trabalhos e ou as actividades seguintes:
+Art. 2.º As áreas descritas nas alíneas a) e b) do artigo anterior ficam sujeitas à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibidas, sem autorização devidamente condicionada da autoridade militar competente, a execução dos trabalhos e ou as actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -125,11 +142,11 @@ f) Montagem de linhas de energia eléctrica ou de ligações telefónicas ou tel
 
 g) Outros trabalhos ou actividades que possam, inequivocamente, prejudicar a segurança das missões que competem às Forças Armadas.
 
-###### Art. 3.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas autorizações, incumbe ao comando, chefia ou direcção da unidade ou estabelecimento militar ali instalado, à Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
+Art. 3.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas autorizações, incumbe ao comando, chefia ou direcção da unidade ou estabelecimento militar ali instalado, à Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
 
-###### Art. 4.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
+Art. 4.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
 
-###### Art. 5.º As áreas descritas no artigo 1.º serão demarcadas em planta, na escala de 1:1000, com a classificação de «Reservado», da qual se destinam cópias a cada um dos seguintes departamentos:
+Art. 5.º As áreas descritas no artigo 1.º serão demarcadas em planta, na escala de 1:1000, com a classificação de «Reservado», da qual se destinam cópias a cada um dos seguintes departamentos:
 
 Uma ao Ministério da Defesa Nacional;
 
@@ -147,12 +164,12 @@ Duas ao Ministério da Administração Interna.
 
 Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 25 de Outubro de 1986.**
+Assinado em 25 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1986.**
+Referendado em 28 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

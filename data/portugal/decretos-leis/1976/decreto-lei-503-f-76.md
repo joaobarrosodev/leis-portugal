@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 151/1976, 5º Suplemento, Série I de 1976-06-30
   number: '151'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 1448-(31) a 1448-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/15105/00310035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18f83600bc3f2aadd1c14b76bdb9c77299396e9e8a68d96c65cbe9499f3aef94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a83711a103ba0bde4f081c9e4ffcbfcf51ed2556451f7447b6460347c209e85b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Constitucional
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409566:por
+  label: "Alterado o nº1 do art. 12º pelo DEC LEI.731/76.15.10.1976.CR, DR.IS [242] de 15.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/731-1976-409566
+  date: '1976-10-15'
+- type: corrected_by
+  target: pt:dre:429994:por
+  label: Rectificado pela DECL.DD8231.06.08.1976.CR, DR.IS [183] de 06.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-429994
+  date: '1976-08-06'
+- type: corrected_by
+  target: pt:dre:430228:por
+  label: Rectificado pela DECL.DD8256.17.08.1976.CR, DR.IS [192] de 17.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430228
+  date: '1976-08-17'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:08Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +118,7 @@ ESTATUTO DA COMISSÃO CONSTITUCIONAL
 
 #### SECÇÃO I — Composição
 
-###### Artigo 1.º - 1. A Comissão Constitucional funciona junto do Conselho da Revolução e é composta por um presidente e oito vogais.
+Artigo 1.º - 1. A Comissão Constitucional funciona junto do Conselho da Revolução e é composta por um presidente e oito vogais.
 
 2. O presidente da Comissão Constitucional é um membro do Conselho da Revolução, por ele designado.
 
@@ -110,31 +132,31 @@ c) Um cidadão de reconhecido mérito designado pela Assembleia da República;
 
 d) Dois cidadãos de reconhecido mérito designados pelo Conselho da Revolução, sendo um deles jurista de comprovada competência.
 
-###### Art. 2.º - 1. A designação dos membros da Comissão Constitucional será publicada na 1.ª série do Diário da República e revestirá a forma de decreto não referendado, no caso da alínea b) do n.º 3 do artigo anterior, e a de resolução do órgão competente, nos restantes casos.
+Art. 2.º - 1. A designação dos membros da Comissão Constitucional será publicada na 1.ª série do Diário da República e revestirá a forma de decreto não referendado, no caso da alínea b) do n.º 3 do artigo anterior, e a de resolução do órgão competente, nos restantes casos.
 
 2. Sem prejuízo dos requisitos previstos no n.º 3 de artigo anterior, só podem ser designados vogais da Comissão Constitucional os cidadãos que reúnam as condições de elegibilidade para a Assembleia da República.
 
 3. Os membros da Comissão Constitucional tomam posse e prestam compromisso de honra perante o Presidente da República, na qualidade de presidente do Conselho da Revolução.
 
-###### Art. 3.º - 1. Os membros da Comissão Constitucional são designados pelo prazo de quatro anos, contado a partir da data da posse, e apenas cessam funções com a posse dos novos membros designados para ocupar os respectivos cargos.
+Art. 3.º - 1. Os membros da Comissão Constitucional são designados pelo prazo de quatro anos, contado a partir da data da posse, e apenas cessam funções com a posse dos novos membros designados para ocupar os respectivos cargos.
 
 2. A designação dos novos membros da Comissão Constitucional deverá efectuar-se entre o trigésimo e o vigésimo dia imediatamente anteriores ao termo do prazo por que foram designados os membros em exercício cujos cargos hajam de ocupar.
 
 3. Os membros da Comissão Constitucional podem ser reconduzidos consecutivamente por uma vez.
 
-###### Art. 4.º - 1. Nos casos em que se verificar vacatura antecipada do cargo de membro da Comissão Constitucional, o órgão que houver designado o membro que tiver cessado funções procederá a nova designação no prazo de trinta dias.
+Art. 4.º - 1. Nos casos em que se verificar vacatura antecipada do cargo de membro da Comissão Constitucional, o órgão que houver designado o membro que tiver cessado funções procederá a nova designação no prazo de trinta dias.
 
 2. Quando a designação prevista no número anterior competir à Assembleia da República e esta se encontrar dissolvida ou não estiver em sessão, o prazo de trinta dias conta-se, respectivamente, da data da primeira reunião da Assembleia eleita ou da data do início da nova sessão, sem prejuízo, naquele último caso, da possibilidade de convocação extraordinária para o efeito.
 
 3. Os membros designados nos termos deste artigo terminam o quadriénio daqueles cujo cargo venham ocupar.
 
-###### Art. 5.º O presidente da Comissão Constitucional é substituído nas suas faltas e impedimentos pelo membro do Conselho da Revolução que este designar ou, na ausência de designação, pelo presidente dos Serviços de Apoio do Conselho da Revolução.
+Art. 5.º O presidente da Comissão Constitucional é substituído nas suas faltas e impedimentos pelo membro do Conselho da Revolução que este designar ou, na ausência de designação, pelo presidente dos Serviços de Apoio do Conselho da Revolução.
 
 #### SECÇÃO II — Estatuto dos membros
 
-###### Art. 6.º Os membros da Comissão Constitucional são independentes e inamovíveis, não podendo as suas funções cessar antes do termo do quadriénio por que foram designados, salvo nos casos previstos no presente diploma.
+Art. 6.º Os membros da Comissão Constitucional são independentes e inamovíveis, não podendo as suas funções cessar antes do termo do quadriénio por que foram designados, salvo nos casos previstos no presente diploma.
 
-###### Art. 7.º - 1. As funções dos membros da Comissão Constitucional cessam antes do termo do quadriénio nos casos seguintes:
+Art. 7.º - 1. As funções dos membros da Comissão Constitucional cessam antes do termo do quadriénio nos casos seguintes:
 
 a) Quanto a qualquer dos membros, por morte ou renúncia;
 
@@ -148,37 +170,37 @@ c) Quanto aos vogais, por impossibilidade física permanente, perda dos requisit
 
 4. As publicações referidas nos n.os 2 e 3 deste artigo serão efectuadas na 1.ª série do Diário da República.
 
-###### Art. 8.º - 1. Os membros da Comissão Constitucional não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções e dentro dos limites destas.
+Art. 8.º - 1. Os membros da Comissão Constitucional não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções e dentro dos limites destas.
 
 2. Quando no exercício de funções jurisdicionais, os membros da Comissão gozam da garantia constitucional de irresponsabilidade própria dos juízes, só podendo ser responsabilizados pelas suas decisões nos mesmos casos em que o podem ser os juízes dos tribunais judiciais.
 
-###### Art. 9.º Os vogais da Comissão Constitucional têm honras, direitos, categoria, vencimentos e regalias dos juízes do Supremo Tribunal de Justiça.
+Art. 9.º Os vogais da Comissão Constitucional têm honras, direitos, categoria, vencimentos e regalias dos juízes do Supremo Tribunal de Justiça.
 
-###### Art. 10.º - 1. Compete exclusivamente à Comissão Constitucional o exercício do poder disciplinar sobre os seus vogais, pertencendo-lhe, designadamente, instaurar o processo disciplinar, nomear o respectivo instrutor dentre os seus membros, deliberar sobre eventual suspensão preventiva e julgar definitivamente.
+Art. 10.º - 1. Compete exclusivamente à Comissão Constitucional o exercício do poder disciplinar sobre os seus vogais, pertencendo-lhe, designadamente, instaurar o processo disciplinar, nomear o respectivo instrutor dentre os seus membros, deliberar sobre eventual suspensão preventiva e julgar definitivamente.
 
 2. Salvo o disposto no número anterior, aplica-se aos vogais da Comissão Constitucional o regime disciplinar estabelecido na lei para os magistrados judiciais.
 
-###### Art. 11.º - 1. São aplicáveis aos vogais da Comissão Constitucional as normas que regulam a efectivação da responsabilidade civil ou criminal, bem como a prisão preventiva, dos juízes do Supremo Tribunal de Justiça.
+Art. 11.º - 1. São aplicáveis aos vogais da Comissão Constitucional as normas que regulam a efectivação da responsabilidade civil ou criminal, bem como a prisão preventiva, dos juízes do Supremo Tribunal de Justiça.
 
 2. Todavia, salvo no caso de crime punível com pena maior, o Supremo Tribunal de Justiça só poderá pronunciar-se sobre a admissibilidade e procedência da acusação se a Comissão Constitucional deliberar suspender o vogal arguido para efeito de seguimento do processo.
 
-###### Art. 12.º - 1. Os vogais da Comissão Constitucional estão sujeitos ao regime de incompatibilidades fixado para os juízes.
+Art. 12.º - 1. Os vogais da Comissão Constitucional estão sujeitos ao regime de incompatibilidades fixado para os juízes.
 
 2. É especialmente vedado aos membros da Comissão Constitucional o exercício de quaisquer funções em órgãos de partidos ou associações políticas e o desenvolvimento de actividades partidárias, ficando suspensos, durante o período de desempenho do cargo, todos os deveres decorrentes da filiação em partido ou associação política.
 
-###### Art. 13.º - 1. O regime de impedimentos e suspeições dos juízes é aplicável aos membros da Comissão Constitucional quando no exercício de funções jurisdicionais.
+Art. 13.º - 1. O regime de impedimentos e suspeições dos juízes é aplicável aos membros da Comissão Constitucional quando no exercício de funções jurisdicionais.
 
 2. A filiação em partido ou associação política não constitui fundamento de suspeição.
 
 3. A verificação do impedimento e a apreciação da suspeição competem à própria Comissão Constitucional.
 
-###### Art. 14.º Os membros da Comissão Constitucional não estão sujeitos às disposições legais em vigor sobre a aposentação ou reforma por limite de idade.
+Art. 14.º Os membros da Comissão Constitucional não estão sujeitos às disposições legais em vigor sobre a aposentação ou reforma por limite de idade.
 
-###### Art. 15.º Os vogais da Comissão Constitucional não podem ser prejudicados na estabilidade do seu emprego, na sua carreira e no regime de segurança social de que beneficiem por causa do exercício das suas funções.
+Art. 15.º Os vogais da Comissão Constitucional não podem ser prejudicados na estabilidade do seu emprego, na sua carreira e no regime de segurança social de que beneficiem por causa do exercício das suas funções.
 
 #### SECÇÃO III — Competência
 
-###### Art. 16.º Compete à Comissão Constitucional:
+Art. 16.º Compete à Comissão Constitucional:
 
 a) Dar obrigatoriamente parecer sobre a constitucionalidade dos diplomas que hajam de ser apreciados pelo Conselho da Revolução, nos termos do n.º 4 do artigo 235.º, do artigo 277.º e do n.º 1 do artigo 281.º da Constituição;
 
@@ -190,9 +212,9 @@ d) Praticar os actos internos previstos no presente diploma.
 
 #### SECÇÃO IV — Secretaria e serviços de apoio
 
-###### Art. 17.º A Comissão Constitucional dispõe de secretaria privativa dirigida por um secretário, sob a superintendência do presidente da Comissão, bem como de serviços de apoio.
+Art. 17.º A Comissão Constitucional dispõe de secretaria privativa dirigida por um secretário, sob a superintendência do presidente da Comissão, bem como de serviços de apoio.
 
-###### Art. 18.º - 1. O Conselho da Revolução, através dos seus Serviços de Apoio, requisitará o pessoal necessário para assegurar os serviços da secretaria e contratará ou requisitará o pessoal dos serviços de apoio.
+Art. 18.º - 1. O Conselho da Revolução, através dos seus Serviços de Apoio, requisitará o pessoal necessário para assegurar os serviços da secretaria e contratará ou requisitará o pessoal dos serviços de apoio.
 
 2. O secretário da Comissão Constitucional tem categoria idêntica à do secretário do Supremo Tribunal de Justiça.
 
@@ -202,13 +224,13 @@ d) Praticar os actos internos previstos no presente diploma.
 
 ### CAPÍTULO II — Do funcionamento
 
-###### Art. 19.º - 1. A Comissão Constitucional funciona em sessões plenárias.
+Art. 19.º - 1. A Comissão Constitucional funciona em sessões plenárias.
 
 2. Haverá duas sessões ordinárias por semana, nos dias e horas que o presidente fixar no início do ano judicial.
 
 3. A Comissão Constitucional reúne, ainda, extraordinariamente, sempre que o presidente a convocar.
 
-###### Art. 20.º - 1. A Comissão Constitucional só pode funcionar estando presentes cinco membros, entre os quais o presidente ou o seu substituto, e, pelo menos, dois dos vogais referidos na alínea a) do n.º 3 do artigo 1.º e dois dos vogais referidos nas restantes alíneas do mesmo número daquele artigo.
+Art. 20.º - 1. A Comissão Constitucional só pode funcionar estando presentes cinco membros, entre os quais o presidente ou o seu substituto, e, pelo menos, dois dos vogais referidos na alínea a) do n.º 3 do artigo 1.º e dois dos vogais referidos nas restantes alíneas do mesmo número daquele artigo.
 
 2. Salvo o disposto no número seguinte, as deliberações são tomadas à pluralidade dos votos dos membros presentes.
 
@@ -220,7 +242,7 @@ d) Praticar os actos internos previstos no presente diploma.
 
 6. Os membros da Comissão Constitucional têm sempre direito de fazer lavrar voto de vencido.
 
-###### Art. 21.º Compete ao presidente da Comissão Constitucional:
+Art. 21.º Compete ao presidente da Comissão Constitucional:
 
 a) Representar a Comissão Constitucional e assegurar as relações entre esta e o Conselho da Revolução;
 
@@ -240,7 +262,7 @@ h) Distribuir as férias dos vogais, nos termos do n.º 4 do artigo 23.º;
 
 i) Superintender no serviço de secretaria e nos serviços de apoio, dar posse ao respectivo pessoal e exercer sobre ele o poder disciplinar.
 
-###### Art. 22.º - 1. No que respeita aos processos de recurso, aplicam-se à Comissão Constitucional as regras gerais sobre férias judiciais.
+Art. 22.º - 1. No que respeita aos processos de recurso, aplicam-se à Comissão Constitucional as regras gerais sobre férias judiciais.
 
 2. No que respeita aos restantes processos, não há férias.
 
@@ -248,7 +270,7 @@ i) Superintender no serviço de secretaria e nos serviços de apoio, dar posse a
 
 4. Compete ao presidente distribuir as férias dos vogais, de modo a assegurar a permanente existência de quórum para funcionamento da Comissão.
 
-###### Art. 23.º - 1. O presidente da Comissão Constitucional distribuirá pelos vogais os decretos enviados ao Conselho da Revolução, nos termos do disposto no n.º 1 do artigo 277.º da Constituição, os quais lhe poderão sugerir que transmita àquele órgão a conveniência em se efectuar a apreciação preventiva da respectiva constitucionalidade.
+Art. 23.º - 1. O presidente da Comissão Constitucional distribuirá pelos vogais os decretos enviados ao Conselho da Revolução, nos termos do disposto no n.º 1 do artigo 277.º da Constituição, os quais lhe poderão sugerir que transmita àquele órgão a conveniência em se efectuar a apreciação preventiva da respectiva constitucionalidade.
 
 2. Os vogais da Comissão Constitucional estão sujeitos ao dever de sigilo relativamente aos factos de que tomem conhecimento, nos termos do número anterior.
 
@@ -256,7 +278,7 @@ i) Superintender no serviço de secretaria e nos serviços de apoio, dar posse a
 
 #### SECÇÃO I — Distribuição
 
-###### Art. 24.º - 1. Para efeitos de distribuição haverá duas espécies:
+Art. 24.º - 1. Para efeitos de distribuição haverá duas espécies:
 
 a) Pareceres;
 
@@ -268,21 +290,21 @@ b) Recursos.
 
 4. Para efeitos de distribuição e de substituição de relatores, a ordem dos vogais será sorteada na primeira sessão de cada ano judicial.
 
-###### Art. 25.º O vogal a quem for distribuído qualquer processo será o relator.
+Art. 25.º O vogal a quem for distribuído qualquer processo será o relator.
 
 #### SECÇÃO II — Pareceres
 
-###### Art. 26.º - 1. Os processos respeitantes a pareceres solicitados pelo Conselho da Revolução, nos termos constitucionais, são conclusos ao relator nas vinte e quadro horas seguintes à distribuição.
+Art. 26.º - 1. Os processos respeitantes a pareceres solicitados pelo Conselho da Revolução, nos termos constitucionais, são conclusos ao relator nas vinte e quadro horas seguintes à distribuição.
 
 2. O relator elaborará o projecto de parecer, no prazo de trinta dias, após o que a secretaria distribuirá cópia do mesmo por todos os membros da Comissão.
 
 3. Com a entrega da cópia que se lhe destina é o processo concluso ao presidente para o inscrever na ordem do dia, para apreciação, na primeira sessão plenária a realizar em data inferior a quinze dias após a entrega das cópias referidas no número anterior.
 
-###### Art. 27.º - 1. Os prazos referidos nos n.os 2 e 3 do artigo anterior são reduzidos, respectivamente, para oito e três dias se se tratar de pareceres respeitantes a fiscalização preventiva da constitucionalidade.
+Art. 27.º - 1. Os prazos referidos nos n.os 2 e 3 do artigo anterior são reduzidos, respectivamente, para oito e três dias se se tratar de pareceres respeitantes a fiscalização preventiva da constitucionalidade.
 
 2. O presidente da Comissão Constitucional poderá, mediante despacho proferido no momento da distribuição, encurtar os prazos mencionados no número anterior se o Presidente da República tiver usado da faculdade conferida pela parte final do n.º 4 do artigo 277.º da Constituição; e poderá ainda encurtar os prazos mencionados no artigo precedente, por iniciativa própria ou determinação do Conselho da Revolução, se ponderosas razões o justificarem.
 
-###### Art. 28.º - 1. No caso previsto no artigo 281.º da Constituição, seguem-se, antes da distribuição, os trâmites estabelecidos nos números seguintes.
+Art. 28.º - 1. No caso previsto no artigo 281.º da Constituição, seguem-se, antes da distribuição, os trâmites estabelecidos nos números seguintes.
 
 2. O presidente da Comissão Constitucional verifica se o pedido de parecer emanado do Conselho da Revolução se encontra instruído com a justificação da entidade que haja solicitado a apreciação e declaração da inconstitucionalidade e, em caso negativo, notificá-la-á para proceder à respectiva junção no prazo de dez dias.
 
@@ -292,7 +314,7 @@ b) Recursos.
 
 #### SECÇÃO III — Recursos
 
-###### Art. 29.º - 1. Cabe recurso para a Comissão Constitucional:
+Art. 29.º - 1. Cabe recurso para a Comissão Constitucional:
 
 a) Da decisão de qualquer tribunal que se tenha recusado a aplicar uma norma constante de lei, decreto-lei, decreto regulamentar, decreto regional ou diploma equiparável, com fundamento em inconstitucionalidade, desde que se encontrem esgotados os recursos ordinários que no processo caibam;
 
@@ -300,11 +322,11 @@ b) Da decisão que aplique uma norma anteriormente julgada inconstitucional pela
 
 2. Entende-se que os recursos ordinários que no processo caibam se encontram esgotados quando a decisão em causa já os não admita ou quando, admitindo-os, tenha havido renúncia, haja decorrido o respectivo prazo sem a sua interposição ou não possam ter seguimento.
 
-###### Art. 30.º Os recursos para a Comissão Constitucional são restritos à questão da inconstitucionalidade.
+Art. 30.º Os recursos para a Comissão Constitucional são restritos à questão da inconstitucionalidade.
 
-###### Art. 31.º A interposição dos recursos previstos nesta secção não está dependente de prévio pagamento de custas ou despesas do processo.
+Art. 31.º A interposição dos recursos previstos nesta secção não está dependente de prévio pagamento de custas ou despesas do processo.
 
-###### Art. 32.º - 1. Podem recorrer para a Comissão Constitucional:
+Art. 32.º - 1. Podem recorrer para a Comissão Constitucional:
 
 a) O Ministério Público;
 
@@ -312,23 +334,23 @@ b) As pessoas que, de acordo com as regras da lei reguladora do processo em que 
 
 2. O recurso é obrigatório para o Ministério Público, independentemente da sua interposição pelas partes.
 
-###### Art. 33.º O direito de recorrer para a Comissão Constitucional é irrenunciável.
+Art. 33.º O direito de recorrer para a Comissão Constitucional é irrenunciável.
 
-###### Art. 34.º - 1. O recurso interposto pelo Ministério Público aproveita a todos os que tivessem legitimidade para recorrer.
+Art. 34.º - 1. O recurso interposto pelo Ministério Público aproveita a todos os que tivessem legitimidade para recorrer.
 
 2. O recurso interposto por um interessado aproveita aos restantes, nos termos e limites estabelecidos na lei reguladora do processo em que a decisão foi proferida.
 
-###### Art. 35.º O Ministério Público é representado junto da Comissão Constitucional pelo procurador-geral da República, que poderá delegar as suas funções num dos adjuntos.
+Art. 35.º O Ministério Público é representado junto da Comissão Constitucional pelo procurador-geral da República, que poderá delegar as suas funções num dos adjuntos.
 
-###### Art. 36.º - 1. Nos recursos para a Comissão Constitucional é obrigatória a constituição de advogado, podendo as partes utilizar o benefício da assistência judiciária, nos termos gerais de direito.
+Art. 36.º - 1. Nos recursos para a Comissão Constitucional é obrigatória a constituição de advogado, podendo as partes utilizar o benefício da assistência judiciária, nos termos gerais de direito.
 
 2. Só pode advogar perante a Comissão Constitucional quem o puder fazer junto do Supremo Tribunal de Justiça.
 
-###### Art. 37.º - 1. O prazo para interpor recurso para a Comissão Constitucional é de oito dias.
+Art. 37.º - 1. O prazo para interpor recurso para a Comissão Constitucional é de oito dias.
 
 2. Não pode haver recurso subordinado nem adesão ao recurso.
 
-###### Art. 38.º - 1. No caso da alínea a) do n.º 1 do artigo 29.º, o prazo referido no artigo anterior conta-se:
+Art. 38.º - 1. No caso da alínea a) do n.º 1 do artigo 29.º, o prazo referido no artigo anterior conta-se:
 
 a) Se a decisão não admitir recurso ordinário, da respectiva notificação;
 
@@ -336,13 +358,13 @@ b) Se a decisão o admitir, do termo do prazo para recorrer ou da notificação 
 
 2. Se houver sido interposto recurso e este não for admitido, com fundamento em irrecorribilidade da decisão, o prazo para recorrer para a Comissão Constitucional conta-se do momento em que se torne definitiva a decisão sobre a inadmissibilidade do recurso.
 
-###### Art. 39.º - 1. No caso da alínea b) do n.º 1 do artigo 29.º, o prazo conta-se da notificação da decisão.
+Art. 39.º - 1. No caso da alínea b) do n.º 1 do artigo 29.º, o prazo conta-se da notificação da decisão.
 
 2. A interposição de recurso para a Comissão Constitucional interrompe os prazos para a interposição de outros recursos que porventura caibam também da decisão.
 
 3. Os recursos a que se refere o número anterior só poderão ser interpostos depois de cessada a interrupção.
 
-###### Art. 40.º - 1. O recurso interposto de decisão de 1.ª instância que não admita outro, por razões de valor ou alçada, terá os efeitos e o regime de subida do recurso que se poderia interpor se o valor ou alçada o permitissem.
+Art. 40.º - 1. O recurso interposto de decisão de 1.ª instância que não admita outro, por razões de valor ou alçada, terá os efeitos e o regime de subida do recurso que se poderia interpor se o valor ou alçada o permitissem.
 
 2. O recurso interposto de decisão da qual não coubesse recurso ordinário, que, todavia, não foi interposto ou foi declarado extinto, terá os efeitos e o regime de subida próprios do referido recurso ordinário.
 
@@ -350,9 +372,9 @@ b) Se a decisão o admitir, do termo do prazo para recorrer ou da notificação 
 
 4. Nos outros casos, o recurso tem efeito suspensivo e sobe nos próprios autos.
 
-###### Art. 41.º À tramitação dos recursos para a Comissão Constitucional são aplicáveis as normas do Código de Processo Civil, e, em particular, as normas sobre o recurso de apelação, salvo o que diferentemente se estabelecer no presente diploma, ou dele resultar.
+Art. 41.º À tramitação dos recursos para a Comissão Constitucional são aplicáveis as normas do Código de Processo Civil, e, em particular, as normas sobre o recurso de apelação, salvo o que diferentemente se estabelecer no presente diploma, ou dele resultar.
 
-###### Art. 42.º - 1. O julgamento da reclamação do despacho que indefira o requerimento do recurso compete à Comissão Constitucional.
+Art. 42.º - 1. O julgamento da reclamação do despacho que indefira o requerimento do recurso compete à Comissão Constitucional.
 
 2. O prazo de vista é de cinco dias para o relator e de quarenta e oito horas para os restantes membros.
 
@@ -360,38 +382,38 @@ b) Se a decisão o admitir, do termo do prazo para recorrer ou da notificação 
 
 4. A decisão da Comissão Constitucional que revogue o despacho de indeferimento do requerimento de recurso faz caso julgado quanto à admissibilidade deste.
 
-###### Art. 43.º A decisão do recurso faz caso julgado no processo, quanto à questão de inconstitucionalidade suscitada.
+Art. 43.º A decisão do recurso faz caso julgado no processo, quanto à questão de inconstitucionalidade suscitada.
 
-###### Art. 44.º - 1. Se a Comissão Constitucional der provimento ao recurso, ainda que só parcialmente, os autos baixarão ao tribunal que lhos remeteu, a fim de que este, consoante for o caso, reforme a decisão ou a mande reformar, em conformidade com o julgamento proferido sobre a questão da inconstitucionalidade.
+Art. 44.º - 1. Se a Comissão Constitucional der provimento ao recurso, ainda que só parcialmente, os autos baixarão ao tribunal que lhos remeteu, a fim de que este, consoante for o caso, reforme a decisão ou a mande reformar, em conformidade com o julgamento proferido sobre a questão da inconstitucionalidade.
 
 2. No caso de o juízo de constitucionalidade sobre a norma a que a decisão recorrida recusara aplicação se fundar em determinada interpretação da mesma norma, esta deverá ser aplicada com tal interpretação no processo em causa.
 
-###### Art. 45.º Transitada em julgado a decisão que não admita o recurso ou que lhe negue provimento, transitará também em julgado a decisão recorrida, no caso de estarem esgotados os recursos ordinários, ou começarão a correr os prazos para estes, no caso contrário.
+Art. 45.º Transitada em julgado a decisão que não admita o recurso ou que lhe negue provimento, transitará também em julgado a decisão recorrida, no caso de estarem esgotados os recursos ordinários, ou começarão a correr os prazos para estes, no caso contrário.
 
-###### Art. 46.º Da decisão dos recursos pela Comissão Constitucional não há qualquer recurso ulterior, mas cabem as medidas previstas nos artigos 667.º e seguintes do Código de Processo Civil.
+Art. 46.º Da decisão dos recursos pela Comissão Constitucional não há qualquer recurso ulterior, mas cabem as medidas previstas nos artigos 667.º e seguintes do Código de Processo Civil.
 
-###### Art. 47.º Os recursos previstos nesta secção estão isentos de custas e selos; mas a Comissão Constitucional pode, sendo caso disso, condenar os recorrentes em multa e indemnização como litigantes de má fé.
+Art. 47.º Os recursos previstos nesta secção estão isentos de custas e selos; mas a Comissão Constitucional pode, sendo caso disso, condenar os recorrentes em multa e indemnização como litigantes de má fé.
 
-###### Art. 48.º Sempre que a Comissão Constitucional tiver julgado uma norma inconstitucional em três casos concretos, ou num só, se se tratar de inconstitucionalidade orgânica ou formal, comunicará o facto ao Conselho da Revolução, para o efeito de este exercer, querendo, a faculdade conferida pelo n.º 2 do artigo 281.º da Constituição.
+Art. 48.º Sempre que a Comissão Constitucional tiver julgado uma norma inconstitucional em três casos concretos, ou num só, se se tratar de inconstitucionalidade orgânica ou formal, comunicará o facto ao Conselho da Revolução, para o efeito de este exercer, querendo, a faculdade conferida pelo n.º 2 do artigo 281.º da Constituição.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 49.º Os acórdãos da Comissão Constitucional serão publicados em apêndice ao Diário da República.
+Art. 49.º Os acórdãos da Comissão Constitucional serão publicados em apêndice ao Diário da República.
 
-###### Art. 50.º Enquanto não tomarem posse os vogais que devem ser nomeados pelo Conselho Superior da Magistratura, a Comissão Constitucional funcionará com os restantes membros, podendo deliberar desde que estejam presentes cinco, independentemente da origem da sua designação.
+Art. 50.º Enquanto não tomarem posse os vogais que devem ser nomeados pelo Conselho Superior da Magistratura, a Comissão Constitucional funcionará com os restantes membros, podendo deliberar desde que estejam presentes cinco, independentemente da origem da sua designação.
 
-###### Art. 51.º Até 31 de Julho de 1976:
+Art. 51.º Até 31 de Julho de 1976:
 
 a) O Conselho da Revolução estabelecerá por decreto regulamentar a organização e funcionamento da secretaria e dos serviços de apoio;
 
 b) O Governo regulamentará as garantias constantes do artigo 15.º e dos n.os 3 e 4 do artigo 18.º
 
-###### Art. 52.º O Ministério das Finanças tomará as providências orçamentais necessárias à execução do presente diploma.
+Art. 52.º O Ministério das Finanças tomará as providências orçamentais necessárias à execução do presente diploma.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 30 de Junho de 1976.**
+Promulgado em 30 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 96/1978, 1º Suplemento, Série I de 1978-04-26
   number: '96'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 768-(9) a 768-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf
 entry_into_force_dates: []
@@ -46,40 +46,200 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1978-332190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b42e4f99363afeec7453de566666aeb0f4098c44c9b7bdc4469d15db6a592c5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53f212e78f82e3eb4be6ac7b9fc6d70d18583d94306f44b86ab80171df2c3f0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alteração Orçamental
+- Aquisição de Imóveis
+- Autonomia Administrativa
+- Benefícios Fiscais
+- Contrato de Viabilização
+- Contribuição Industrial
+- Contribuição Predial
+- Contribuições e Impostos
+- Cooperação Internacional
+- Definição de Competências
+- Despesas Públicas
+- Direcção Geral de Pessoal
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Dotação Orçamental
+- Duodécimo
+- Empresa Privada
+- Empresa Pública
+- Estabelecimento Prisional
+- Execução do Orçamento
+- Fundo de Fomento da Habitação
+- Gestão Financeira
+- Gestão Orçamental
+- Habitação
+- Imposto de Capitais
+- Imposto Profissional
+- Imposto sobre Consumos Supérfluos ou de Luxo
+- Imposto sobre Sucessões e Doações
+- Inspecção Geral dos Tribunais do Trabalho
+- Integração de Trabalhadores
+- Investimento
+- Isenção Fiscal
+- Ministério da Habitação e Obras Públicas
+- Ministério da Justiça
+- Ministério do Trabalho
+- Ministro das Finanças e Plano
+- Obras Públicas
+- Orçamento Geral do Estado
+- Pessoal Docente
+- Quadro Geral de Adidos
+- Receita Pública
+- Saneamento Económico e Financeiro
+- Sisa
+- Situação Económica Dificil
+- Subsídio
+- Taxa
+- Tributação
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274059:por
+  label: "Alterados os prazos indicados no artigo 18.º do do presente diploma, mantendo-se em vigor as disposições que não\
+    \ forem contrariadas pelo presente diploma, pelo DEC LEI.442/78.29.12.1978.MFP, DR.IS [299-4ºSupl] de 30.12.1978\078\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/442-1978-274059
+  date: '1978-12-29'
+- type: amended_by
+  target: pt:dre:274055:por
+  label: "Mantidas em vigor na parte aplicável as disposições constantes do presente diploma pelo DEC LEI.444/78.30.12.1978.MFP,\
+    \ DR.IS [299-4º Supl] de 30.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1978-274055
+  date: '1978-12-30'
+- type: cites
+  target: pt:dre:165009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do art. 28º, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301]2ºSupl, a\
+    \ partir da entrada em vigor do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:49Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +336,7 @@ QUADRO I
 
 Orçamento do sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 O deficit do orçamento de capital do sector público administrativo atingirá, em 1978, 45 milhões de contos, contra 37,6 milhões previstos em 1977, mercê do decréscimo esperado nas receitas de capital e nas transferências e do acréscimo das despesas em investimentos (+14,9%). Os investimentos são realizados, quase exclusivamente, pelo Estado (61,8%) e pela administração local (30,9%), prevendo-se que, no corrente ano, este subsector quase duplique o seu esforço de investimento.
 
@@ -210,7 +370,7 @@ QUADRO I-A
 
 Sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Passando à análise comparativa, verificam-se agora, como seria de esperar, maiores afastamentos entre os números constantes do Orçamento para 1978 e os possíveis valores realizados em 1977. As receitas correntes apresentam agora um acréscimo de 30,1%, com relevo para as de natureza fiscal (+31,3%), enquanto as despesas correntes registam um aumento de 26,7%. O consumo público (despesas em bens e serviços) regista agora uma taxa de acréscimo de 21,8% que, deduzida da taxa de quebra da execução orçamental, se admite constituir o índice de preços nele implícito, pelo que não se prevê aumento público, em termos reais.
 
@@ -234,7 +394,7 @@ QUADRO II
 
 Orçamento Geral do Estado para 1978
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Para fins de análise económica é do maior interesse, como se sabe, dispor também dos mesmos valores classificados e agrupados segundo a metodologia das contas nacionais, a qual requer a sua apresentação em termos líquidos nalguns casos.
 
@@ -262,7 +422,7 @@ QUADRO III
 
 Orçamento Geral do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Expõem-se adiante, em linhas gerais, os critérios seguidos na previsão das receitas orçamentais e as razões que determinaram os valores fixados para as despesas, atendendo às várias classificações existentes.
 
@@ -290,7 +450,7 @@ QUADRO IV
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Descreve-se a seguir a evolução prevista para as receitas orçamentais no corrente ano, em comparação com os valores das cobranças realizadas em 1977.
 
@@ -308,7 +468,7 @@ QUADRO V
 
 Impostos directos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Relativamente à contribuição industrial, prevê-se que as cobranças ascendam a 6,9 milhões de contos, incluindo uma pequena parcela respeitante a receitas que provêm do ano transacto. A previsão baseia-se na expectativa de um acréscimo de 30% na matéria colectável relativa aos rendimentos formados em 1977, bem como na aplicação do adicional de 15% agora introduzido.
 
@@ -332,7 +492,7 @@ QUADRO VI
 
 Impostos indirectos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Com base no acréscimo de 17% do valor das importações considerado nas projecções macroeconómicas, o qual resulta, apesar da sua diminuição em termos reais, da incidência que a descida do valor do escudo terá nos preços dos bens importados, já de si sujeitos também a pressões inflacionistas, prevê-se que a cobrança dos direitos de importação se eleve a 6,6 milhões de contos, mais 1 milhão do que no ano precedente.
 
@@ -420,7 +580,7 @@ QUADRO VII
 
 Receitas cobradas em Janeiro-Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Despesas orçamentais
 
@@ -476,7 +636,7 @@ Despesas orçamentais
 
 Classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 19. De um modo geral, a estrutura das despesas orçamentadas para 1978, consideradas segundo a sua natureza económica, não difere praticamente da observada para a posição final do Orçamento do ano anterior. Assim, as despesas correntes e as despesas de capital correspondem, neste Orçamento, respectivamente, a 74,8% e 25,2% das despesas totais, excluídas as «Contas de ordem».
 
@@ -508,7 +668,7 @@ QUADRO X
 
 Investimentos e despesas de desenvolvimento do Plano incluídos no Orçamento Geral do Estado, por fontes de financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 No conjunto, o valor dos empreendimentos constantes do programa de investimentos que se encontram abrangidos no Orçamento para 1978 totaliza 38,2 milhões de contos. Observa-se, assim, um acréscimo global das despesas com os investimentos do Plano de 7,3 milhões de contos em comparação com as despesas realizadas em 1977, comparação esta que se afigura mais significativa, considerando que, dentro do montante global, poderão ser efectuados durante o ano os ajustamentos que se justifiquem em face do ritmo de execução dos projectos.
 
@@ -528,7 +688,7 @@ Despesas orçamentais
 
 Classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Convém salientar, todavia, que na comparação entre os dois Orçamentos haverá que ter em conta que determinadas verbas de carácter geral inscritas para 1978, particularmente a provisão de 9 milhões de contos, apenas serão discriminadas pelas funções correspondentes no decurso da execução deste Orçamento. Este facto explica a descida que se observa na participação relativa de algumas rubricas no total das despesas. Entre as variações mais salientes, destacam-se as que ocorrem nos valores das despesas classificadas em «Serviços gerais da administração pública» (devido precisamente à inclusão das aludidas verbas de carácter geral) e em «Saúde», por aí terem passado a figurar os encargos com os Serviços Médico-Sociais.
 
@@ -550,7 +710,7 @@ QUADRO XII
 
 Despesas autorizadas em Janeiro-Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Orçamentos dos serviços e fundos autónomos
 
@@ -564,7 +724,7 @@ QUADRO XIII
 
 Orçamento dos serviços autónomos (1978)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Prevê-se que as receitas correntes dos serviços autónomos, em 1978, provenham, essencialmente, e em parcelas semelhantes, quer da venda de bens e serviços, quer de transferências correntes do Estado (OGE).
 
@@ -582,7 +742,7 @@ QUADRO XIV
 
 Orçamentos de fundos autónomos (1978)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Assim, embora se verifique uma redução real dos subsídios a atribuir em 1978, como no caso do «cabaz de compras», ou mesmo uma eliminação, como no caso do fuel para produção de energia eléctrica, os números apresentados não traduzem, exactamente, aquela evolução, uma vez que representam apenas movimentos de tesouraria, por se adoptar um orçamento de caixa, e não de exercício.
 
@@ -664,7 +824,7 @@ QUADRO XV
 
 Orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Directamente a cargo do Orçamento Geral do Estado e destinadas aos serviços ainda não transferidos encontram-se despesas no valor de 180000 contos, em particular para os serviços de justiça, do trabalho, agrícolas e florestais, de estradas, habitação e urbanização e para as forças de segurança.
 
@@ -676,7 +836,7 @@ QUADRO XVI
 
 Orçamento da Região Autónoma da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Financiamento do «deficit»
 
@@ -688,7 +848,7 @@ QUADRO XVII
 
 «Deficit» global a financiar em 1978
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Com base nos resultados das subscrições de obrigações do Tesouro realizadas em 1977 e já no corrente ano por particulares e investidores institucionais não bancários, parece legítimo prever que a mobilização de poupanças privadas no decurso do presente ano possa atingir, no mínimo, 8 milhões de contos.
 
@@ -716,7 +876,7 @@ QUADRO XVIII
 
 Dívida pública e serviço da dívida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 Conclusão
 
@@ -902,11 +1062,11 @@ Os benefícios fiscais previstos na [Lei n.º 36/77](https://diariodarepublica.p
 
 ###### Artigo 27.º — (Benefícios fiscais a empresas desintervencionadas)
 
-**O Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvido o Ministério da Tutela, permitir a aplicação do regime de benefícios fiscais estabelecidos na [Lei n.º 36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193), de 17 de Junho, a casos especiais de desintervenção de empresas que não celebrem contratos de viabilização.**
+O Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvido o Ministério da Tutela, permitir a aplicação do regime de benefícios fiscais estabelecidos na [Lei n.º 36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193), de 17 de Junho, a casos especiais de desintervenção de empresas que não celebrem contratos de viabilização.
 
 ###### Artigo 28.º — (Benefícios fiscais às estruturas de empresas públicas)
 
-**O Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvido o Ministério da Tutela, conceder a isenção de contribuições, impostos, taxas, emolumentos e outros encargos legais, relativamente às fusões, incorporações ou cisões de empresas públicas integradas em sectores vedados à iniciativa privada.**
+O Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvido o Ministério da Tutela, conceder a isenção de contribuições, impostos, taxas, emolumentos e outros encargos legais, relativamente às fusões, incorporações ou cisões de empresas públicas integradas em sectores vedados à iniciativa privada.
 
 ###### Artigo 29.º — (Criação de adicionais)
 
@@ -948,24 +1108,24 @@ Este decreto-lei entra em vigor na data de início da vigência da [Lei n.º 20/
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 26 de Abril de 1978.**
+Promulgado em 26 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO 1 — Mapa das receitas previstas para 1978
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 ## ANEXO 2 — Mapa das despesas fixadas para 1978
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
 ## ANEXO 3 — Orçamento Geral do Estado
 
 Resumo, por objectivos finais, das despesas do ano de 1978
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09601/00090056.pdf)
 
-**O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.**
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.

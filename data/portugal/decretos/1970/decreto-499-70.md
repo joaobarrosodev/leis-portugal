@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8565afdb5e50e01ddc21dd101ac5086bc30e8d39ced69a4541acd4567097c778
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1415e1a8d4b5f87ee940706639eb380213bd3729ea4d34b380aa5cb2ec526ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador Hospitalar
+- Conselho de Administração
+- Conselho de Direção
+- Conselho Técnico
+- Definição de Competências
+- Director Clínico
+- Estabelecimento Hospitalar
+- Gestão de Recursos Humanos
+- Hospitais Civis de Lisboa
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+- Regulamento Geral dos Hospitais
 relationships:
 - type: amended_by
   target: pt:dre:336549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336549:por
+  label: Prorrogado o período transitório estabelecido no art. 2.º para aplicação das regras da carreira de administração
+    hospitalar pelo(a) Decreto n.º 376/75 - Diário do Governo n.º 163/1975, Série I de 1975-07-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/376-1975-336549
+  date: '1975-07-17'
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:49Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +118,9 @@ Em execução do disposto no artigo 91.º do [Decreto-Lei n.º 48357](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 37.º, 38.º, 39.º, 40.º e 41.º do Regulamento Geral dos Hospitais, aprovado pelo [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968, passam a ter a redacção seguinte:
+Artigo 1.º Os artigos 37.º, 38.º, 39.º, 40.º e 41.º do Regulamento Geral dos Hospitais, aprovado pelo [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968, passam a ter a redacção seguinte:
 
-###### Art. 37.º - 1. A carreira de pessoal de administração hospitalar a que se refere a alínea a) do artigo 72.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, abrange os seguintes graus:
+Art. 37.º - 1. A carreira de pessoal de administração hospitalar a que se refere a alínea a) do artigo 72.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, abrange os seguintes graus:
 
 a) Administrador de 3.º grau;
 
@@ -106,7 +132,7 @@ c) Administrador de 1.º grau.
 
 3. Os graus da carreira constituem título independente dos lugares ocupados nos quadros, mas são condição de provimento nesses lugares, de acordo com o disposto no artigo seguinte.
 
-###### Art. 38.º - 1. A carreira de pessoal de administração hospitalar compreende, ainda, os lugares de chefe de serviço de apoio geral, nos hospitais centrais,
+Art. 38.º - 1. A carreira de pessoal de administração hospitalar compreende, ainda, os lugares de chefe de serviço de apoio geral, nos hospitais centrais,
 
 e de, administrador dos hospitais regionais do grupo III e dos sub-regionais que, nos termos do n.º 3 do artigo 120.º do Regulamento Geral dos Hospitais, lhes sejam equiparados.
 
@@ -116,25 +142,25 @@ e de, administrador dos hospitais regionais do grupo III e dos sub-regionais que
 
 4. Depois de dois anos de bom e efectivo exercício, pode o interessado requerer ao Ministro da Saúde e Assistência o título de administrador de 3.º grau.
 
-###### Art. 39.º - 1. Os administradores de 3.º grau, depois de dois anos de exercício nos lugares referidos no artigo anterior, podem concorrer aos lugares de administrador dos hospitais regionais dos grupos I e II e de director de serviço administrativo dos hospitais centrais e, sendo aprovados, em mérito absoluto, adquirem o título de administrador de 2.º grau.
+Art. 39.º - 1. Os administradores de 3.º grau, depois de dois anos de exercício nos lugares referidos no artigo anterior, podem concorrer aos lugares de administrador dos hospitais regionais dos grupos I e II e de director de serviço administrativo dos hospitais centrais e, sendo aprovados, em mérito absoluto, adquirem o título de administrador de 2.º grau.
 
 2. Os administradores de 2.º grau, depois de quatro anos de exercício nos lugares referidos no número anterior, podem concorrer aos de administrador de hospitais centrais não escolares e de hospitais ou estabelecimento integrados em grupos ou centros hospitalares; sendo aprovados em mérito absoluto, adquirem o título de administrador de 1.º grau.
 
 3. Os administradores de 1.º grau, depois de três anos de exercício nos lugares referidos no número anterior, podem concorrer aos de administrador dos Hospitais Civis de Lisboa, dos hospitais escolares e dos grupos ou centros hospitalares, desde que, em relação a estes últimos, estejam previstos nos quadros respectivos.
 
-###### Art. 40.º Os concursos referidos no artigo anterior são documentais, fixando-se, por despacho do Ministro da Saúde e Assistência, as normas de organização, notação e recursos dos candidatos.
+Art. 40.º Os concursos referidos no artigo anterior são documentais, fixando-se, por despacho do Ministro da Saúde e Assistência, as normas de organização, notação e recursos dos candidatos.
 
-###### Art. 41.º Para efeitos de carreira, os diplomas de administração hospitalar obtidos em escolas ou cursos estrangeiros, podem ser equiparados aos das escolas e cursos nacionais, por despacho do Ministro da Saúde e Assistência, sob proposta da Direcção-Geral dos Hospitais e ouvida a Escola Nacional de Saúde Pública e de Medicina Tropical.
+Art. 41.º Para efeitos de carreira, os diplomas de administração hospitalar obtidos em escolas ou cursos estrangeiros, podem ser equiparados aos das escolas e cursos nacionais, por despacho do Ministro da Saúde e Assistência, sob proposta da Direcção-Geral dos Hospitais e ouvida a Escola Nacional de Saúde Pública e de Medicina Tropical.
 
-###### Art. 2.º - 1. Nos termos do n.º 3 do artigo 70.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), é estabelecido, a partir desta data, um período transitório, que terminará em 31 de Dezembro de 1972.
+Art. 2.º - 1. Nos termos do n.º 3 do artigo 70.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), é estabelecido, a partir desta data, um período transitório, que terminará em 31 de Dezembro de 1972.
 
 2. Serão fixadas por despacho ministerial as condições de provimento e acesso do pessoal de administração durante o referido período.
 
 3. Os actuais administradores dos hospitais centrais que, até ao fim do ano corrente, completem seis anos de provimento no cargo poderão ser dispensados da frequência do curso a que se refere o n.º 2 do artigo 37.º, que será substituído por um curso de actualização, nas condições a estabelecer por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 3.º Os artigos 83.º, 84.º, 85.º, 86.º, 87.º, 88.º, 89.º, 90.º e 91.º do Regulamento Geral dos Hospitais passam a ter a redacção seguinte:
+Art. 3.º Os artigos 83.º, 84.º, 85.º, 86.º, 87.º, 88.º, 89.º, 90.º e 91.º do Regulamento Geral dos Hospitais passam a ter a redacção seguinte:
 
-###### Art. 83.º - 1. Nos hospitais centrais são órgãos de administração:
+Art. 83.º - 1. Nos hospitais centrais são órgãos de administração:
 
 a) O conselho de administração;
 
@@ -148,7 +174,7 @@ b) O conselho de direcção.
 
 5. Os hospitais escolares terão os órgãos que constarem de legislação própria, sendo-lhes, porém, aplicável, nos casos omissos, o disposto no presente Regulamento.
 
-###### Art. 84.º - 1. O conselho de administração é presidido pelo director do hospital ou pelo provedor da Misericórdia a que o hospital pertença e tem como vogais:
+Art. 84.º - 1. O conselho de administração é presidido pelo director do hospital ou pelo provedor da Misericórdia a que o hospital pertença e tem como vogais:
 
 a) Os membros do conselho de direcção do hospital;
 
@@ -178,7 +204,7 @@ e) Apreciar os relatórios trimestrais e anual e do conselho de direcção.
 
 5. O presidente pode convocar para o conselho os funcionários cujo parecer entenda vantajoso e, bem assim, determinar a constituição de grupos de trabalho para estudo de problemas específicos; no caso de o hospital pertencer a Misericórdia pode, também, solicitar a colaboração dos mesários.
 
-###### Art. 85.º - 1. O conselho de direcção é presidido pelo director do hospital ou pelo provedor da Misericórdia a que o hospital pertença e tem como vogais o director clínico e o administrador.
+Art. 85.º - 1. O conselho de direcção é presidido pelo director do hospital ou pelo provedor da Misericórdia a que o hospital pertença e tem como vogais o director clínico e o administrador.
 
 2. O conselho de direcção responde pela realização dos fins do hospital e respectiva gestão, competindo-lhe orientar, coordenar e fiscalizar o funcionamento dos serviços e promover a actualização das respectivas estruturas orgânicas.
 
@@ -204,7 +230,7 @@ g) Tomar as providências necessárias à conservação do património;
 
 h) Elaborar os relatórios trimestrais e anual do hospital.
 
-###### Art. 86.º - 1. O conselho técnico é presidido pelo director do hospital ou pelo provedor da Misericórdia e tem como vogais:
+Art. 86.º - 1. O conselho técnico é presidido pelo director do hospital ou pelo provedor da Misericórdia e tem como vogais:
 
 a) Os membros do conselho de direcção;
 
@@ -254,7 +280,7 @@ e) Dar parecer sobre os mais assuntos que lhe sejam apresentados ou venham a ser
 
 4. A repartição dos vogais pelas diversas comissões referidas no n.º 2 e a competência específica destas serão estabelecidas no regulamento interno de cada hospital.
 
-###### Art. 87.º - 1. O director do hospital será nomeado pelo Ministro da Saúde e Assistência, de entre os directores de serviços de acção médica, sob proposta do conselho técnico.
+Art. 87.º - 1. O director do hospital será nomeado pelo Ministro da Saúde e Assistência, de entre os directores de serviços de acção médica, sob proposta do conselho técnico.
 
 2. O lugar, a desempenhar em comissão de serviço por um período de quatro anos, renovável por uma só vez, e em regime de tempo completo, não pode ser exercido cumulativamente com qualquer outro cargo da organização hospitalar.
 
@@ -278,19 +304,19 @@ g) Representar o hospital em juízo e fora dele.
 
 5. O provedor da Misericórdia a que o hospital pertença poderá delegar os poderes da sua competência e fazer-se substituir nas suas faltas e impedimentos por um dos vogais da mesa administrativa, de preferência médico.
 
-###### Art. 88.º - 1. O director clínico é nomeado pelo Ministro da Saúde e Assistência, sob proposta da comissão médica, de entre os directores de serviço de acção médica; no caso de o hospital pertencer a Misericórdia, a nomeação cabe à respectiva mesa, sob proposta da comissão médica, ficando a nomeação sujeita a confirmação ministerial.
+Art. 88.º - 1. O director clínico é nomeado pelo Ministro da Saúde e Assistência, sob proposta da comissão médica, de entre os directores de serviço de acção médica; no caso de o hospital pertencer a Misericórdia, a nomeação cabe à respectiva mesa, sob proposta da comissão médica, ficando a nomeação sujeita a confirmação ministerial.
 
 2. O director clínico responde pela orientação, coordenação e eficiência dos serviços de assistência.
 
 3. Nas suas faltas e impedimentos, o director clínico é substituído por um director de serviço de acção médica, designado pelo conselho de direcção.
 
-###### Art. 89.º - 1. O administrador é nomeado nos termos previstos na carreira do pessoal superior de administração.
+Art. 89.º - 1. O administrador é nomeado nos termos previstos na carreira do pessoal superior de administração.
 
 2. O administrador é responsável pela orientação, coordenação e eficiência dos serviços de apoio geral.
 
 3. Nos Hospitais Civis de Lisboa e nos grupos ou centros hospitalares o administrador é substituído, nas suas faltas e impedimentos, por um dos administradores dos hospitais ou estabelecimentos integrados; nos outros hospitais centrais, por um director de serviço administrativo, a designar pelo conselho de direcção.
 
-###### Art. 90.º - 1. A direcção de cada um dos hospitais ou estabelecimentos integrados é constituída pelo director clínico e pelo administrador, competindo-lhe, em especial, orientar, coordenar e fiscalizar o funcionamento dos serviços, e responde pela realização das finalidades do estabelecimento e pela sua gestão privativa.
+Art. 90.º - 1. A direcção de cada um dos hospitais ou estabelecimentos integrados é constituída pelo director clínico e pelo administrador, competindo-lhe, em especial, orientar, coordenar e fiscalizar o funcionamento dos serviços, e responde pela realização das finalidades do estabelecimento e pela sua gestão privativa.
 
 2. A comissão técnica de cada hospital ou estabelecimento integrado tem constituição e competência semelhantes às do conselho técnico, com as adaptações que forem estabelecidas no regulamento interno.
 
@@ -298,7 +324,7 @@ g) Representar o hospital em juízo e fora dele.
 
 4. O administrador de cada hospital ou estabelecimento integrado é provido nos termos da carreira respectiva e é o responsável pela coordenação e eficiência dos serviços de apoio geral, dentro da autonomia que lhe for concedida.
 
-###### Art. 91.º - 1. A orientação dos serviços de urgência fica a cargo de uma direcção, constituída por um director e dois adjuntos, que deverão ter formação médica diferente.
+Art. 91.º - 1. A orientação dos serviços de urgência fica a cargo de uma direcção, constituída por um director e dois adjuntos, que deverão ter formação médica diferente.
 
 2. O director dos serviços de urgência é nomeado de entre directores, chefes ou assistentes de serviços de acção médica, sob proposta do director do hospital, ouvida a comissão médica, e exercerá o cargo nas condições referidas no n.º 2 do artigo 87.º
 
@@ -306,34 +332,34 @@ g) Representar o hospital em juízo e fora dele.
 
 4. Por proposta do respectivo conselho de direcção poderá estabelecer-se regime diferente do constante dos números anteriores, que será submetido à aprovação do Ministro da Saúde e Assistência.
 
-###### Art. 4.º - 1. Quando se verificar a impossibilidade de provimento dos lugares de director e de director clínico com elementos do próprio estabelecimento hospitalar, pode o Ministro da Saúde e Assistência provê-los com médicos pertencentes a outros hospitais ou serviços de saúde.
+Art. 4.º - 1. Quando se verificar a impossibilidade de provimento dos lugares de director e de director clínico com elementos do próprio estabelecimento hospitalar, pode o Ministro da Saúde e Assistência provê-los com médicos pertencentes a outros hospitais ou serviços de saúde.
 
 2. Os médicos nomeados de acordo com a parte final do número anterior servem pelos períodos e nas condições estabelecidas no n.º 2 do artigo 87.º
 
-###### Art. 5.º Os actuais administradores dos hospitais centrais mantêm os seus direitos, mas a atribuição dos graus da carreira será feita de acordo com as regras transitórias referidas no n.º 2 do artigo 2.º deste diploma.
+Art. 5.º Os actuais administradores dos hospitais centrais mantêm os seus direitos, mas a atribuição dos graus da carreira será feita de acordo com as regras transitórias referidas no n.º 2 do artigo 2.º deste diploma.
 
-###### Art. 6.º O Ministro da Saúde e Assistência, sempre que haja conveniência em que os directores clínicos desempenhem as funções em regime de tempo completo, pode dispensá-los da direcção dos respectivos serviços de acção médica, sendo substituídos pelos chefes de serviço ou assistentes por eles designados.
+Art. 6.º O Ministro da Saúde e Assistência, sempre que haja conveniência em que os directores clínicos desempenhem as funções em regime de tempo completo, pode dispensá-los da direcção dos respectivos serviços de acção médica, sendo substituídos pelos chefes de serviço ou assistentes por eles designados.
 
-###### Art. 7.º - 1. Compete à Direcção-Geral dos Hospitais promover, até final do ano corrente, as diligências necessárias à constituição dos novos órgãos de administração.
+Art. 7.º - 1. Compete à Direcção-Geral dos Hospitais promover, até final do ano corrente, as diligências necessárias à constituição dos novos órgãos de administração.
 
 2. Durante o período em curso, continuam em exercício os actuais corpos gerentes, que cessarão as suas funções à medida que aqueles forem sendo instituídos.
 
-###### Art. 8.º É revogada a alínea a) do n.º 2.º do artigo 12.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640).
+Art. 8.º É revogada a alínea a) do n.º 2.º do artigo 12.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640).
 
-###### Art. 9.º No quadro tipo anexo ao Regulamento Geral dos Hospitais são introduzidas as alterações que nele se assinalam, na forma que a seguir se publica, e vão assinadas pelo Ministro da Saúde e Assistência.
+Art. 9.º No quadro tipo anexo ao Regulamento Geral dos Hospitais são introduzidas as alterações que nele se assinalam, na forma que a seguir se publica, e vão assinadas pelo Ministro da Saúde e Assistência.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 13 de Outubro de 1970.**
+Promulgado em 13 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro tipo a que se refere o artigo 36.º
 
 Hospitais regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/24700/15531556.pdf))](https://files.diariodarepublica.pt/1s/1970/10/24700/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/24700/15531556.pdf)
 
-**O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

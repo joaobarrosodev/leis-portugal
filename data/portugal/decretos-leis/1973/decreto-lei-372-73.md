@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/07/17200/13021303.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1973-421834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb05ef7b7316f4214aa36ab6658121f002642ad138d1867df23c3211407a5438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca2f3e4b024f5c9ae5c02f91a5b3502083881f9bf31e945dda29477857b9f60c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- ADSE
+- Assistência Médica
+- Assistência Medicamentosa
+- Autarquia Local
+- Câmara Municipal
+- Comparticipação do Estado
+- Funcionário Público
+- Junta de Freguesia
 relationships:
 - type: amended_by
   target: pt:dre:327346:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:216145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:327346:por
+  label: "Revogado na parte referente a reembolso o art. 2º do Dec Lei 49313 de 23-Out de 1969, com a redacção constante do\
+    \ presente diploma, pelo DEC LEI.324/78.08.11.1978.MFP, DR.IS [257] de 08.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1978-327346
+  date: '1978-11-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:44Z'
   warnings: []
   errors: []
 ---
@@ -101,14 +120,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 23 de Outubro de 1969, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 23 de Outubro de 1969, passa a ter a seguinte redacção:
 
-###### Art. 2.º Fora dos casos de consultas e visitas domiciliárias, de meios auxiliares de diagnóstico e terapêutica e de internamentos em clínicas particulares, os encargos com a assistência serão satisfeitos através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), competindo, porém, aos corpos administrativos, seus serviços municipalizados ou federações de municípios reembolsá-la directamente das importâncias pagas, na parte que exceda a participação dos beneficiários, dentro dos sessenta dias seguintes àquele em que for recebida a comunicação respectiva.
+Art. 2.º Fora dos casos de consultas e visitas domiciliárias, de meios auxiliares de diagnóstico e terapêutica e de internamentos em clínicas particulares, os encargos com a assistência serão satisfeitos através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), competindo, porém, aos corpos administrativos, seus serviços municipalizados ou federações de municípios reembolsá-la directamente das importâncias pagas, na parte que exceda a participação dos beneficiários, dentro dos sessenta dias seguintes àquele em que for recebida a comunicação respectiva.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 11 de Julho de 1973.**
+Promulgado em 11 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

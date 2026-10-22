@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/415-1972-690822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e82bf6f77d8ff0f9761612a7ce65ddc1e78f3ee5ef670c300a1c27c79f01859
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d228b434fd1ac0c23784fb241ec09053320826e58394b7a54224709247e4addf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:315103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679984:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:12Z'
   warnings: []
   errors: []
 ---
@@ -91,24 +103,24 @@ Nestes termos:
 
 Usando da faculdade conferida no n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Cabe à Direcção da Marinha Mercante, da Direcção-Geral dos Serviços de Fomento Marítimo, fiscalizar as condições de nacionalidade das empresas de navegação, definidas nos artigos 1.º e 2.º do [Decreto-Lei n.º 135/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1972-679984).
+Artigo 1.º - 1. Cabe à Direcção da Marinha Mercante, da Direcção-Geral dos Serviços de Fomento Marítimo, fiscalizar as condições de nacionalidade das empresas de navegação, definidas nos artigos 1.º e 2.º do [Decreto-Lei n.º 135/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1972-679984).
 
 2. A fiscalização do cumprimento do disposto no artigo 2.º do citado diploma será feita onde ficarem depositadas as acções para efeitos da assembleia geral, antes de esta se efectuar.
 
 3. Nas assembleias gerais realizadas nas ilhas adjacentes, ou quando haja dificuldade de fiscalização directa pela Direcção da Marinha Mercante, será a acção fiscalizadora desempenhada pelos capitães dos portos.
 
-###### Art. 2.º Em relação às empresas de navegação em que exista delegado do Governo, o disposto no artigo anterior não prejudica a fiscalização que, nesta matéria e no âmbito das suas atribuições, lhe compete.
+Art. 2.º Em relação às empresas de navegação em que exista delegado do Governo, o disposto no artigo anterior não prejudica a fiscalização que, nesta matéria e no âmbito das suas atribuições, lhe compete.
 
-###### Art. 3.º As empresas de navegação de que trata este diploma são obrigadas a apresentar às entidades encarregadas de efectuar a verificação das condições de nacionalidade os livros de registo das acções, as acções em depósito e outros documentos para se efectuarem as verificações.
+Art. 3.º As empresas de navegação de que trata este diploma são obrigadas a apresentar às entidades encarregadas de efectuar a verificação das condições de nacionalidade os livros de registo das acções, as acções em depósito e outros documentos para se efectuarem as verificações.
 
-###### Art. 4.º Os accionistas, singulares ou colectivos, os administradores, directores e gerentes de empresas nacionais de navegação deverão provar a sua nacionalidade sempre que tal lhes seja exigido para efeitos de fiscalização da nacionalidade das empresas.
+Art. 4.º Os accionistas, singulares ou colectivos, os administradores, directores e gerentes de empresas nacionais de navegação deverão provar a sua nacionalidade sempre que tal lhes seja exigido para efeitos de fiscalização da nacionalidade das empresas.
 
-###### Art. 5.º Fica revogado o [Decreto n.º 47849](https://diariodarepublica.pt/dr/detalhe/decreto/47849-1967-315103), de 16 de Agosto de 1967.
+Art. 5.º Fica revogado o [Decreto n.º 47849](https://diariodarepublica.pt/dr/detalhe/decreto/47849-1967-315103), de 16 de Agosto de 1967.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 14 de Outubro de 1972.**
+Promulgado em 14 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

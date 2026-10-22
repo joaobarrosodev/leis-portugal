@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/12/30200/29222922.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43455-1960-479933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcd002ebd05ba553935ec568e92b052f5c15bf138dab108d151e7ddabc06ad67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3b15e15ad9457782924f942f3892a38d2f25af1bece59835bcd36bcd3b5ad0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conservação e Restauro
+- Edifício Público
+- Imóvel Classificado
 relationships:
 - type: amended_by
   target: pt:dre:262668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262668:por
+  label: "Revogado pelo DEC LEI.48741.05.12.1968.MOP, DG.IS [286] de 05.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48741-1968-262668
+  date: '1968-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:17Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +117,7 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Enquanto se mantiverem as actuais circunstâncias, são introduzidas as seguintes alterações no [Decreto-Lei n.º 31271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31271-1941-328670), de 17 de Maio de 1941:
+Artigo 1.º Enquanto se mantiverem as actuais circunstâncias, são introduzidas as seguintes alterações no [Decreto-Lei n.º 31271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31271-1941-328670), de 17 de Maio de 1941:
 
 a) O limite estabelecido no § 1.º do artigo 3.º é elevado para 60000$00;
 
@@ -109,9 +125,9 @@ b) Os valores dos orçamentos a que se refere a alínea b) do artigo 4.º passam
 
 c) Os projectos das obras indicadas na alínea b) que respeitem a construções de novos edifícios e tenham orçamento superior a 30000$00 carecem de aprovação do Ministério das Obras Públicas.
 
-###### Art. 2.º Fica revogado o [Decreto-Lei n.º 35672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35672-1946-158243), de 29 de Maio de 1946.
+Art. 2.º Fica revogado o [Decreto-Lei n.º 35672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35672-1946-158243), de 29 de Maio de 1946.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

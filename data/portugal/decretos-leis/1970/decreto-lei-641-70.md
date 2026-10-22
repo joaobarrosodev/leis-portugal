@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1970-146176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97ec2aed3c49bea77e1cb120e54588f32362adb8d773b83268f9ffc463ef65f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d473a254c8661c6368a8bccce755ac399a4ee11b3fd428b8cf8039ac66126b2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Conselho de Câmbios
+- Definição de Competências
+- Inspecção Provincial de Comércio Bancário
+- Macau
+relationships:
+- type: cites
+  target: pt:dre:216289:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:13Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +101,19 @@ Verificando-se, porém, face às circunstâncias que caracterizam a actual situa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 49.º do [Decreto-Lei n.º 49304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49304-1969-216289), de 16 de Outubro de 1969, passa a ter a seguinte redacção:
+Artigo único. O artigo 49.º do [Decreto-Lei n.º 49304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49304-1969-216289), de 16 de Outubro de 1969, passa a ter a seguinte redacção:
 
-###### Art. 49.º - 1. Enquanto persistirem as circunstâncias a que alude o artigo 22.º, na província de Macau as funções atribuídas aos fundos cambiais pelos artigos 34.º, 37.º, 38.º e 39.º serão exercidas pelo banco emissor da mesma província.
+Art. 49.º - 1. Enquanto persistirem as circunstâncias a que alude o artigo 22.º, na província de Macau as funções atribuídas aos fundos cambiais pelos artigos 34.º, 37.º, 38.º e 39.º serão exercidas pelo banco emissor da mesma província.
 
 2. O Governo de Macau poderá, por despacho, aumentar a representação das actividades económicas da província no Conselho de Câmbios até três unidades, elevando simultâneamente do mesmo número a representação dos serviços provinciais referida na alínea b) do n.º 1 do artigo 25.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Dezembro de 1970.**
+Promulgado em 15 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Macau. - J. da Silva Cunha.
 

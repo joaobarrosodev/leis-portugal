@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1970-147246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d500120d8ff74a470c69312392c4cbab92fb121075d6cc46e0451909f735bb56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c7c7da70da5e1b0a1e66bd130097a68cf100375066766f3f25bb8ab89205d2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contravenção
+- Crime
+- Imposto de Justiça
+- Multa
+- Orgânica
+- Pessoal de Justiça
+- Processo Civil
+- Processo de Execução
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:429839:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:33Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +100,7 @@ de 19 de Novembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O imposto de justiça devido nos processos da competência do Tribunal Colectivo dos Géneros Alimentícios, a aplicar na decisão, pode variar, atendendo à natureza da infracção, à situação económica do infractor e à complexidade do processo, entre os seguintes limites:
+Artigo 1.º - 1. O imposto de justiça devido nos processos da competência do Tribunal Colectivo dos Géneros Alimentícios, a aplicar na decisão, pode variar, atendendo à natureza da infracção, à situação económica do infractor e à complexidade do processo, entre os seguintes limites:
 
 a) Em caso de condenação por transgressão - 110$00 a 3000$00;
 
@@ -98,48 +112,48 @@ b) Em caso de condenação por crime - 440$00 a 5000$00.
 
 4. Se o réu contestar a indiciação e vier a desistir do julgamento, podendo fazê-lo, o juiz, ao deferir o requerimento, e consoante as circunstâncias e diligências efectuadas, fixará novo imposto de justiça, que não poderá ser superior ao dobro do fixado no despacho de indiciação.
 
-###### Art. 2.º O promotor de justiça terá, em relação à instrução preparatória, os poderes e funções que a legislação em vigor atribui ao Ministério Público nos tribunais comuns.
+Art. 2.º O promotor de justiça terá, em relação à instrução preparatória, os poderes e funções que a legislação em vigor atribui ao Ministério Público nos tribunais comuns.
 
-###### Art. 3.º O promotor de justiça será nomeado pelo Ministro do Interior, de entre licenciados em Direito, com reconhecida competência e idoneidade para o exercício do cargo, ou delegados do procurador da República, em comissão de serviço.
+Art. 3.º O promotor de justiça será nomeado pelo Ministro do Interior, de entre licenciados em Direito, com reconhecida competência e idoneidade para o exercício do cargo, ou delegados do procurador da República, em comissão de serviço.
 
-###### Art. 4.º O chefe da secretaria será nomeado pelo Ministro de Interior, de preferência, entre o chefe do arquivo e tesouraria e os escrivães do Tribunal providos vitalìciamente, podendo, porém, ser escolhidos licenciados em Direito, do sexo masculino, ou chefes de secretaria dos tribunais judiciais.
+Art. 4.º O chefe da secretaria será nomeado pelo Ministro de Interior, de preferência, entre o chefe do arquivo e tesouraria e os escrivães do Tribunal providos vitalìciamente, podendo, porém, ser escolhidos licenciados em Direito, do sexo masculino, ou chefes de secretaria dos tribunais judiciais.
 
-###### Art. 5.º - 1. Os lugares de chefe do arquivo e tesouraria e de escrivão serão providos, mediante concurso de provas públicas, a regulamentar em portaria, de entre os terceiros-oficiais e os escriturários-dactilógrafos de 1.ª classe do mesmo quadro, do sexo masculino, com mais de dez anos de serviço no Tribunal.
+Art. 5.º - 1. Os lugares de chefe do arquivo e tesouraria e de escrivão serão providos, mediante concurso de provas públicas, a regulamentar em portaria, de entre os terceiros-oficiais e os escriturários-dactilógrafos de 1.ª classe do mesmo quadro, do sexo masculino, com mais de dez anos de serviço no Tribunal.
 
 2. No caso de não haver candidatos aprovados em concurso, poderão ser requisitados para desempenhar essas funções, chefes de secretaria ou escrivães de direito de qualquer classe, escolhidos pelo Ministro do Interior, com o acordo do Ministro da Justiça, para servirem em comissão de serviço, por tempo nunca superior a seis anos.
 
-###### Art. 6.º Os lugares de terceiro-oficial serão providos, mediante concurso de prestação de provas, de entre os escriturários-dactilógrafos de 1.ª classe com, pelo menos, seis anos de serviço como escriturários-dactilógrafos.
+Art. 6.º Os lugares de terceiro-oficial serão providos, mediante concurso de prestação de provas, de entre os escriturários-dactilógrafos de 1.ª classe com, pelo menos, seis anos de serviço como escriturários-dactilógrafos.
 
-###### Art. 7.º Os lugares de escriturário-dactilógrafo de 1.ª classe serão providos de entre os escriturários-dactilógrafos de 2.ª classe com o mínimo de três anos de serviço.
+Art. 7.º Os lugares de escriturário-dactilógrafo de 1.ª classe serão providos de entre os escriturários-dactilógrafos de 2.ª classe com o mínimo de três anos de serviço.
 
-###### Art. 8.º Os lugares de escriturário-dactilógrafo de 2.ª classe serão providos em indivíduos que tenham as habilitações literárias e todos os requisitos exigidos para igual categoria nos tribunais judiciais.
+Art. 8.º Os lugares de escriturário-dactilógrafo de 2.ª classe serão providos em indivíduos que tenham as habilitações literárias e todos os requisitos exigidos para igual categoria nos tribunais judiciais.
 
-###### Art. 9.º Os lugares de oficial de diligências serão providos em indivíduos que tenham as habilitações literárias e os restantes requisitos exigidos para igual categoria nos tribunais judiciais.
+Art. 9.º Os lugares de oficial de diligências serão providos em indivíduos que tenham as habilitações literárias e os restantes requisitos exigidos para igual categoria nos tribunais judiciais.
 
-###### Art. 10.º - 1. O quadro e os vencimentos do pessoal do Tribunal são os constantes do mapa anexo a este decreto-lei.
+Art. 10.º - 1. O quadro e os vencimentos do pessoal do Tribunal são os constantes do mapa anexo a este decreto-lei.
 
 2. Os funcionários do quadro do Tribunal serão nomeados a título definitivo.
 
-###### Art. 11.º O Ministro do Interior fará publicar no Diário do Governo, no prazo de quinze dias, a contar da data da publicação deste decreto-lei, e proposta pelo presidente do Tribunal, a lista nominal de todo o pessoal já existente, que continuará a fazer parte do quadro do pessoal da secretaria estabelecido no artigo 10.º, com as suas novas designações, ficando os funcionários providos definitivamente. A colocação deste pessoal não carece de qualquer formalidade, além da respectiva anotação pelo Tribunal de Contas.
+Art. 11.º O Ministro do Interior fará publicar no Diário do Governo, no prazo de quinze dias, a contar da data da publicação deste decreto-lei, e proposta pelo presidente do Tribunal, a lista nominal de todo o pessoal já existente, que continuará a fazer parte do quadro do pessoal da secretaria estabelecido no artigo 10.º, com as suas novas designações, ficando os funcionários providos definitivamente. A colocação deste pessoal não carece de qualquer formalidade, além da respectiva anotação pelo Tribunal de Contas.
 
-###### Art. 12.º O chefe do arquivo e tesouraria do Tribunal terá direito ao abono mensal de 200$00 para falhas.
+Art. 12.º O chefe do arquivo e tesouraria do Tribunal terá direito ao abono mensal de 200$00 para falhas.
 
-###### Art. 13.º O pessoal do Tribunal Colectivo dos Géneros Alimentícios gozará de todas as regalias concedidas ao pessoal civil do Comando-Geral da Polícia de Segurança Pública, nomeadamente no que se refere a assistência e previdência, podendo inscrever-se, em igualdade de condições, nos Serviços Sociais da Polícia de Segurança Pública.
+Art. 13.º O pessoal do Tribunal Colectivo dos Géneros Alimentícios gozará de todas as regalias concedidas ao pessoal civil do Comando-Geral da Polícia de Segurança Pública, nomeadamente no que se refere a assistência e previdência, podendo inscrever-se, em igualdade de condições, nos Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 14.º É revogado o [Decreto-Lei n.º 42533](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42533-1959-429839), de 26 de Setembro de 1959.
+Art. 14.º É revogado o [Decreto-Lei n.º 42533](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42533-1959-429839), de 26 de Setembro de 1959.
 
-###### Art. 15.º No corrente ano, os encargos resultantes deste diploma serão satisfeitos pelas sobras do capítulo 5.º, artigo 76.º, n.os 1) e 2), do Orçamento Geral do Estado.
+Art. 15.º No corrente ano, os encargos resultantes deste diploma serão satisfeitos pelas sobras do capítulo 5.º, artigo 76.º, n.os 1) e 2), do Orçamento Geral do Estado.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Novembro de 1970.**
+Promulgado em 11 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro a que se refere o artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/26900/17261727.pdf))](https://files.diariodarepublica.pt/1s/1970/11/26900/17261727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/26900/17261727.pdf)
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

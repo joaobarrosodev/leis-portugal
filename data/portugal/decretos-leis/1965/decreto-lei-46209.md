@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46209-1965-238843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f58bebade41b6ddb2589d173dba3904c6b9da12cc7bd2bd6e6f187d504cb1841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f52038aa1151a22cf83266d6be85f272c7d84b1632f6069b86d49c94c37b50ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Rural
+- Direcção Geral dos Serviços Hidráulicos
+- Domínio Público Marítimo
+- Hasta Pública
+- Olhão
+- Salicultura
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:24Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +104,8 @@ Assim, e tendo em consideração o disposto no alínea b) do artigo 30.º do [De
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizada a Direcção-Geral dos Serviços Hidráulicos a promover, mediante hasta pública, o arrendamento pelo prazo de vinte anos de uma parcela de terreno (sapal) do domínio público marítimo, com a área de 455000 m2, situada no lugar de Bias do Sul, freguesia de Moncarapacho, concelho de Olhão, distrito de Faro, destinada à instalação e exploração de salinas.
+Artigo único. É autorizada a Direcção-Geral dos Serviços Hidráulicos a promover, mediante hasta pública, o arrendamento pelo prazo de vinte anos de uma parcela de terreno (sapal) do domínio público marítimo, com a área de 455000 m2, situada no lugar de Bias do Sul, freguesia de Moncarapacho, concelho de Olhão, distrito de Faro, destinada à instalação e exploração de salinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Fevereiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

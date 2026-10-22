@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1973-422176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5094ac8102eb5617cfbfc69fab2fd3f22b01e097a20c82a5a94cf810a4950b88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5975568ba947fcc264e14592c23b219d6263cf903614ec462838201ae75124c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Previdência
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:574502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430775:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Previdência pela PORT.452/76.26.07.1976.MAI, DR.IS [173] de 26.07.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-1976-430775
+  date: '1976-07-26'
+- type: amended_by
+  target: pt:dre:277288:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Previdência pelo DR.70/77.27.10.1977.PCM, DR.IS [249] de 27.10.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/70-1977-277288
+  date: '1977-10-27'
+- type: amended_by
+  target: pt:dre:326738:por
+  label: Alterado o mapa de pessoal constante do art. 20.º do presente diploma, pelo(a) Portaria n.º 683/78 - Diário da República
+    n.º 274/1978, Série I de 1978-11-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-1978-326738
+  date: '1978-11-28'
+- type: amended_by
+  target: pt:dre:353726:por
+  label: "Aumentado o quadro de pessoal da Direcção-Geral da Previdência pela PORT.714/79.31.12.1979.PCM, DR.IS [300] de 31.12.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-1979-353726
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:461825:por
+  label: "Extinta a carreira de arquivista constante do mapa anexo ao presente diploma, pelo DR.49/80.1980.09.25.PCM, DR.IS\
+    \ [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-1980-461825
+  date: '1980-09-25'
+- type: cites
+  target: pt:dre:140331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278929:por
+  label: "Revogado o art. 30º pelo DEC LEI.425/77.11.10.1977.MAS, DR.IS [235] de 11.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/425-1977-278929
+  date: '1977-10-11'
 article_structure:
   article_count: 0
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:50Z'
   warnings: []
   errors: []
 ---
@@ -326,13 +419,17 @@ c) A Divisão dos Serviços de Organização e Métodos.
 
 3. O chefe da Divisão dos Serviços de Contencioso e os respectivos técnicos serão licenciados em Direito.
 
-###### ARTIGO 17.º — Divisão dos Serviços de Contencioso
+###### ARTIGO 17.º
+
+##### Divisão dos Serviços de Contencioso
 
 1. A Divisão dos Serviços de Contencioso exerce funções de consulta e apoio técnico-jurídico na Direcção-Geral da Previdência, podendo o director-geral avocar a respectiva orientação.
 
 2. A esta divisão de serviços compete emitir pareceres fundamentados em todos os assuntos jurídicos sobre que for consultada e elaborar os estudos de natureza jurídica que interessem à resolução de problemas de segurança social.
 
-###### ARTIGO 18.º — Divisão dos Serviços de Estudos Técnicos
+###### ARTIGO 18.º
+
+##### Divisão dos Serviços de Estudos Técnicos
 
 1. Na Divisão dos Serviços de Estudos Técnicos é integrado o núcleo de planeamento constituído nos termos do disposto no n.º 2 do artigo 7.º do [Decreto n.º 8/70](https://diariodarepublica.pt/dr/detalhe/decreto/8-1970-275254), de 6 de Janeiro, com competência para:
 
@@ -354,7 +451,9 @@ d) Emitir pareceres fundamentados sobre assuntos que exijam a publicação de no
 
 e) Pronunciar-se sobre consultas formuladas pelas instituições de previdência, que aconselhem estudo especializado.
 
-###### ARTIGO 19.º — Divisão dos Serviços de Organização e Métodos
+###### ARTIGO 19.º
+
+##### Divisão dos Serviços de Organização e Métodos
 
 A Divisão dos Serviços de Organização e Métodos tem como funções essenciais a coordenação e apoio técnico-administrativo das actividades de organização e métodos específicos das instituições de previdência dependentes do Ministério das Corporações e Previdência Social.
 
@@ -514,16 +613,16 @@ O presente diploma entra imediatamente em vigor, e no que respeita à situação
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Maio de 1973.**
+Promulgado em 3 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 20.º do Decreto-Lei n.º 228/73 de 12 de Maio
 
 Pessoal e vencimentos da Direcção-Geral da Previdência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11200/07980804.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11200/07980804.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11200/07980804.pdf)
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16800/14281428.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1978-297459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 402e7296330b65c72fb3d52087a66824a44b26f74d054b3c87154327ad4a470d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e945f631f27d0177b220b7112937fb34c16c782f32f04aecfbf64151a2c48c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Penal
+- Definição de Competências
+- Magistrado Judicial
+- Orgânica
+- Pessoal Dirigente
+- Presidente
+- Tribunal de Execução das Penas
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409310:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448110:por
+  label: "Revogado o art. 97º do Dec Lei 783/76 de 29-Out, na redacção do presente diploma, pela LEI.59/98.1998.08.25.AR,\
+    \ DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-1998-448110
+  date: '1998-08-25'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:22Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +126,13 @@ Nestes termos:
 
 Usando de autorização conferida pela lei, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 20.º, 52.º e 92.º do [Decreto-Lei n.º 783/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/783-1976-409310), de 29 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 20.º, 52.º e 92.º do [Decreto-Lei n.º 783/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/783-1976-409310), de 29 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - A presidência do tribunal é exercida rotativamente por períodos de mês.
 
-###### Art. 20.º - 1 - ...
+Art. 20.º - 1 - ...
 
 2 - ...
 
@@ -118,9 +140,9 @@ Usando de autorização conferida pela lei, o Governo decreta, nos termos da al�
 
 4 - O juiz a quem tenha competido a instrução preparatória fica impedido de intervir no julgamento.
 
-###### Art. 52.º O requerimento deve ser fundamentado, fazendo-se nele menção das circunstâncias de que houver conhecimento sobre o modo de vida, situação familiar, meio ambiente, antecedentes policiais e criminais e tudo o mais que possa contribuir para a conveniente caracterização da personalidade do arguido e concluir com indicação sobre a medida de segurança considerada adequada.
+Art. 52.º O requerimento deve ser fundamentado, fazendo-se nele menção das circunstâncias de que houver conhecimento sobre o modo de vida, situação familiar, meio ambiente, antecedentes policiais e criminais e tudo o mais que possa contribuir para a conveniente caracterização da personalidade do arguido e concluir com indicação sobre a medida de segurança considerada adequada.
 
-###### Art. 92.º - 1 - Com antecedência não inferior a sessenta dias do cumprimento de metade da pena privativa da liberdade, a administração prisional remeterá ao tribunal de execução das penas um extracto do processo individual do condenado.
+Art. 92.º - 1 - Com antecedência não inferior a sessenta dias do cumprimento de metade da pena privativa da liberdade, a administração prisional remeterá ao tribunal de execução das penas um extracto do processo individual do condenado.
 
 2 - Desse extracto, além de outros elementos que a administração prisional considere úteis para a apreciação do plano a que se refere o artigo anterior, constarão, obrigatoriamente:
 
@@ -128,14 +150,14 @@ Usando de autorização conferida pela lei, o Governo decreta, nos termos da al�
 
 2.º ...
 
-###### Art. 2.º - 1 - Compete aos juízes de instrução, além das demais funções que lhes são atribuídas por lei, aplicar medidas provisórias de segurança.
+Art. 2.º - 1 - Compete aos juízes de instrução, além das demais funções que lhes são atribuídas por lei, aplicar medidas provisórias de segurança.
 
 2 - A medida provisória de segurança é imposta pela urgência de prover à defesa social, funda-se em gravidade da conduta do arguido que faça justificadamente supor a sua perigosidade, tem a duração máxima de dois meses e será aplicada com observância do disposto no § 1.º do artigo 71.º do Código Penal.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Dias dos Santos Pais.
 
-**Promulgado em 3 de Julho de 1978.**
+Promulgado em 3 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

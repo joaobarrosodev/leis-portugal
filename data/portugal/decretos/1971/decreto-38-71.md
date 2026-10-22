@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-1971-446765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17616b643742f24522e61f4f9c3a4c8a2703d3190bd00ec55ebbccaf9d27adca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56a7e15132bd00e8d088df1b703326cf640669223d5248dfa4cd5c5ede7c2b4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:683631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:213062:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:05Z'
   warnings: []
   errors: []
 ---
@@ -93,26 +97,26 @@ Tornando-se necessário regular a execução do disposto no artigo 5.º do [Decr
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São promovidos por diuturnidade ao posto imediato os segundos-sargentos da Guarda Nacional Republicana e da Guarda Fiscal que completem quatro anos de permanência no posto.
+Artigo 1.º São promovidos por diuturnidade ao posto imediato os segundos-sargentos da Guarda Nacional Republicana e da Guarda Fiscal que completem quatro anos de permanência no posto.
 
-###### Art. 2.º As promoções por diuturnidade nos termos do artigo anterior processar-se-ão segundo instruções dos respectivos comandos-gerais, que respeitarão quanto possível as do Exército.
+Art. 2.º As promoções por diuturnidade nos termos do artigo anterior processar-se-ão segundo instruções dos respectivos comandos-gerais, que respeitarão quanto possível as do Exército.
 
-###### Art. 3.º Os segundos-sargentos da Guarda Nacional Republicana e da Guarda Fiscal que se encontrem aprovados em concurso válido para a promoção a primeiro-sargento serão colocados à direita de todos os segundos-sargentos que não estejam aprovados nos referidos concursos.
+Art. 3.º Os segundos-sargentos da Guarda Nacional Republicana e da Guarda Fiscal que se encontrem aprovados em concurso válido para a promoção a primeiro-sargento serão colocados à direita de todos os segundos-sargentos que não estejam aprovados nos referidos concursos.
 
-###### Art. 4.º O tempo de permanência no posto de segundo-sargento, para efeitos de diuturnidade, é contado a partir da data de antiguidade nesse posto.
+Art. 4.º O tempo de permanência no posto de segundo-sargento, para efeitos de diuturnidade, é contado a partir da data de antiguidade nesse posto.
 
-###### Art. 5.º - 1. A admissão à Escola Central de Sargentos dos sargentos da Guarda Nacional Republicana e da Guarda Fiscal continuará a processar-se segundo as condições estabelecidas ou a estabelecer para o Exército.
+Art. 5.º - 1. A admissão à Escola Central de Sargentos dos sargentos da Guarda Nacional Republicana e da Guarda Fiscal continuará a processar-se segundo as condições estabelecidas ou a estabelecer para o Exército.
 
 2. Os primeiros-sargentos da Guarda Nacional Republicana e da Guarda Fiscal que desistirem da frequência da Escola Central de Sargentos ou nela não obtenham aproveitamento e os que, pelo limite de idade ou por qualquer outro motivo, não venham a frequentar aquela Escola continuarão nas mesmas situações até atingirem os limites de idade fixados nas duas corporações para a sua passagem à situação de reforma.
 
-###### Art. 6.º Passa a existir em cada uma das corporações o quadro orçamental único de primeiros e segundos-sargentos, cujo efectivo é o correspondente à soma dos quantitativos actualmente fixados para cada um desses postos.
+Art. 6.º Passa a existir em cada uma das corporações o quadro orçamental único de primeiros e segundos-sargentos, cujo efectivo é o correspondente à soma dos quantitativos actualmente fixados para cada um desses postos.
 
-###### Art. 7.º As disposições do presente decreto têm efeito a partir de 1 de Janeiro de 1971, devendo os encargos resultantes da sua execução ser suportados pelas disponibilidades das rubricas orçamentais consignadas ao pessoal dos quadros aprovados por lei.
+Art. 7.º As disposições do presente decreto têm efeito a partir de 1 de Janeiro de 1971, devendo os encargos resultantes da sua execução ser suportados pelas disponibilidades das rubricas orçamentais consignadas ao pessoal dos quadros aprovados por lei.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 6 de Fevereiro de 1971.**
+Promulgado em 6 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

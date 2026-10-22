@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43811-1961-172708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3daa27f779b228c4e133f8604518cfc883c93aeb8c20f96d7758c3bc710b2c65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7672efec1ee21570e7480a712c7f0537f611e7ec24dc7d37df4fea15bf18df9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Definição de Competências
+- Militar
+- Ministro das Finanças
+- Óbito
+- Pensão de Preço de Sangue
+- Proteção Social
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:291183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:45Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +107,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Estado assegura às pessoas da família dos indivíduos falecidos em resultado de acção nas províncias ultramarinas nas condições previstas no artigo 2.º do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, o pagamento de um subsídio, enquanto não lhes for concedida a pensão de preço de sangue a que tenham direito, nos termos do mesmo decreto.
+Artigo 1.º - 1. O Estado assegura às pessoas da família dos indivíduos falecidos em resultado de acção nas províncias ultramarinas nas condições previstas no artigo 2.º do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, o pagamento de um subsídio, enquanto não lhes for concedida a pensão de preço de sangue a que tenham direito, nos termos do mesmo decreto.
 
 2. O subsídio é concedido pelo Ministro das Finanças a solicitação dos interessados.
 
-###### Art. 2.º - 1. As pessoas de família que, nos termos do artigo anterior, poderão habilitar-se à concessão do subsídio são as seguintes:
+Art. 2.º - 1. As pessoas de família que, nos termos do artigo anterior, poderão habilitar-se à concessão do subsídio são as seguintes:
 
 a) Viúva e órfãos;
 
@@ -113,9 +125,9 @@ d) Irmãos, órfãos de pai e mãe.
 
 3. Só devem habilitar-se ao subsídio os indivíduos referidos no n.º 1 que se julguem nas condições estabelecidas pelo [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, para a concessão de pensões de preço de sangue.
 
-###### Art. 3.º O quantitativo do subsídio é de 75 por cento da pensão de preço de sangue a que presumìvelmente os interessados terão direito, no caso de viúvas e órfãos, e de 50 por cento nos restantes casos, vencendo-se a partir do dia imediato ao do falecimento do autor.
+Art. 3.º O quantitativo do subsídio é de 75 por cento da pensão de preço de sangue a que presumìvelmente os interessados terão direito, no caso de viúvas e órfãos, e de 50 por cento nos restantes casos, vencendo-se a partir do dia imediato ao do falecimento do autor.
 
-###### Art. 4.º - 1. A habilitação à concessão do subsídio faz-se mediante a apresentação de impresso, devidamente preenchido, do modelo anexo a este diploma, a que deve ser junta declaração passada pela competente autoridade militar comprovativa do falecimento do autor.
+Art. 4.º - 1. A habilitação à concessão do subsídio faz-se mediante a apresentação de impresso, devidamente preenchido, do modelo anexo a este diploma, a que deve ser junta declaração passada pela competente autoridade militar comprovativa do falecimento do autor.
 
 2. A entidade que comunicar o óbito à família deverá remeter-lhe o impresso referido no número anterior.
 
@@ -123,23 +135,23 @@ d) Irmãos, órfãos de pai e mãe.
 
 4. A petição, as declarações dela constantes e quaisquer documentos que eventualmente haja necessidade de lhe juntar estão isentos do imposto do selo, bem como de outras imposições legais, incluindo o pagamento de emolumentos.
 
-###### Art. 5.º - 1. O abono do subsídio previsto neste diploma não dispensa os interessados de, no mais curto prazo, se habilitarem à pensão de preço de sangue e cessará no fim do mês em que se completarem seis meses sobre o seu vencimento.
+Art. 5.º - 1. O abono do subsídio previsto neste diploma não dispensa os interessados de, no mais curto prazo, se habilitarem à pensão de preço de sangue e cessará no fim do mês em que se completarem seis meses sobre o seu vencimento.
 
 2. Este prazo pode ser prorrogado, até mais seis meses, mediante autorização do Ministro das Finanças, desde que haja motivo que o justifique.
 
 3. Independentemente dos prazos referidos nos números anteriores, o abono do subsídio cessará a partir do fim do mês em que se verifique não haver direito a pensão de preço de sangue.
 
-###### Art. 6.º A pensão de preço de sangue vence-se a partir do dia em que a petição do subsídio tenha sido entregue na primeira instância oficial, tendo os interessados direito desde essa data às diferenças a menos abonadas.
+Art. 6.º A pensão de preço de sangue vence-se a partir do dia em que a petição do subsídio tenha sido entregue na primeira instância oficial, tendo os interessados direito desde essa data às diferenças a menos abonadas.
 
-###### Art. 7.º As pessoas a quem seja concedido o subsídio com base em declarações prestadas de má fé terão de repor nos cofres do Estado as importâncias indevidamente recebidas.
+Art. 7.º As pessoas a quem seja concedido o subsídio com base em declarações prestadas de má fé terão de repor nos cofres do Estado as importâncias indevidamente recebidas.
 
-###### Art. 8.º Os encargos resultantes da execução deste diploma serão suportados, no ano a que disserem respeito, pela dotação orçamental destinada ao pagamento de pensões de preço de sangue.
+Art. 8.º Os encargos resultantes da execução deste diploma serão suportados, no ano a que disserem respeito, pela dotação orçamental destinada ao pagamento de pensões de preço de sangue.
 
-###### Art. 9.º (transitório). Aos indivíduos que tenham já requerido a pensão de preço de sangue são aplicáveis as disposições do presente diploma se à data da entrega da petição do subsídio não tiver ainda sido concedida aquela pensão.
+Art. 9.º (transitório). Aos indivíduos que tenham já requerido a pensão de preço de sangue são aplicáveis as disposições do presente diploma se à data da entrega da petição do subsídio não tiver ainda sido concedida aquela pensão.
 
-###### Art. 10.º Este diploma entra imediatamente em vigor.
+Art. 10.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -147,4 +159,4 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A.
 
 Modelo n.º 40 (Exclusivo da Imprensa Nacional de Lisboa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/07/16800/08960898.pdf))](https://files.diariodarepublica.pt/1s/1961/07/16800/08960898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/16800/08960898.pdf)

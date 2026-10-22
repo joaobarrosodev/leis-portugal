@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1973-422390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b408a4e63228c9f03224fab39ebda2c78338ce20b574d752aa5f5ab6a2b9ad2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edacf76458de91cf633da8782185b7ad51f4f69ee220ec4dd222c108ca3d5ba2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito
+- Empréstimo
+- Instituição de Crédito
+- Política de Crédito
+- TAXA de JURO
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:238615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:12Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +103,9 @@ Considerando a necessidade de rever a redacção da alínea a) do artigo 111.º 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Ao artigo 111.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, com nova redacção dada pelo artigo 1.º do [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), de 19 de Março de 1965, é alterada a alínea a) e aditado um novo parágrafo, que passam a ter a seguinte redacção:
+Artigo único. Ao artigo 111.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, com nova redacção dada pelo artigo 1.º do [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), de 19 de Março de 1965, é alterada a alínea a) e aditado um novo parágrafo, que passam a ter a seguinte redacção:
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 a) Tratando-se da sua primeira dependência nessa província ultramarina, que será considerada seu estabelecimento principal na mesma província, obter prévia autorização conjunta dos Ministros das Finanças e do Ultramar e afectar a essa dependência, por transferência do território da sua sede, um capital não inferior ao capital mínimo exigido pelos artigos 48.º e 89.º do presente diploma, conforme se trate, respectivamente, de um banco comercial ou de um banco de investimento.
 
@@ -101,10 +115,10 @@ a) Tratando-se da sua primeira dependência nessa província ultramarina, que se
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 17 de Maio de 1973.**
+Promulgado em 17 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, com excepção da de Macau. - J. da Silva Cunha.

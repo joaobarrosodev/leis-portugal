@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46503-1965-292891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d18e26522206979ff2738f137c6a46be6f6de4fe55b13e6e76e8af22a2d4e427
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bca895395cf3d3120af35b3107fcb8646963e72587e68733035662a6b5c87f97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Código Penal
+- Crime
+- Direito Penal
+- Sanção Penal
+relationships:
+- type: cites
+  target: pt:dre:163593:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:24Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +103,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São amnistiados pelo presente diploma:
+Artigo 1.º São amnistiados pelo presente diploma:
 
 1.º Os crimes previstos nos artigos 407.º e 410.º do Código Penal que tenham sido cometidos através da imprensa, nos termos dos artigos 11.º e seguintes do [Decreto n.º 12008](https://diariodarepublica.pt/dr/detalhe/decreto/12008-1926-163593), de 29 de Julho de 1926;
 
@@ -106,7 +115,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5.º Os crimes de ofensas corporais previstos nos n.os 1.º, 2.º, 3.º e 4.º do artigo 360.º, bem como os crimes previstos no artigo 363.º do Código Penal, cometidos por um cônjuge contra o outro, ou por um irmão contra o outro irmão, ou por ascendente contra um descendente, desde que o ofendido conceda o seu perdão.
 
-###### Art. 2.º São perdoados:
+Art. 2.º São perdoados:
 
 1.º Um terço das penas correccionais de prisão e de multa que tenham sido aplicadas em decisões já proferidas, ainda que não transitadas em julgado, por crimes contra a propriedade;
 
@@ -114,12 +123,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Metade do tempo de prisão resultante da conversão do imposto de justiça e das multas, desde que se tenha iniciado já o cumprimento da prisão resultante dessa conversão.
 
-###### Art. 3.º Os benefícios constantes deste diploma não aproveitam aos reincidentes, aos delinquentes de difícil correcção, nem aos vadios ou equiparados.
+Art. 3.º Os benefícios constantes deste diploma não aproveitam aos reincidentes, aos delinquentes de difícil correcção, nem aos vadios ou equiparados.
 
-###### Art. 4.º A amnistia não extingue a responsabilidade civil emergente dos factos praticados, de harmonia com o disposto no § 1.º do artigo 125.º do Código Penal.
+Art. 4.º A amnistia não extingue a responsabilidade civil emergente dos factos praticados, de harmonia com o disposto no § 1.º do artigo 125.º do Código Penal.
 
-###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+Art. 5.º O presente decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

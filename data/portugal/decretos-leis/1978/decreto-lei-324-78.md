@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/25700/23392340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1978-327346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ae01774408b7b45e9585f5a3521fed8610b51508b0babe510a431a14c35b4d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 081df419f935824d127cacf4bacb7eab730dff1cba4fd8f28e554877a02aea37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Gestão Financeira
+- Gestão Orçamental
+- Orçamento
+- Receita Própria
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:216145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421834:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:14Z'
   warnings: []
   errors: []
 ---
@@ -100,27 +122,27 @@ Tudo ponderando:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Sempre que no decurso do ano económico se verifique a necessidade de reforçar a verba inscrita no orçamento do Ministério das Finanças e do Plano para fazer face às despesas da Assistência na Doença aos Servidores Civis do Estado (ADSE), poderá ser utilizado para sua cobertura o saldo da rubrica de operações de tesouraria «Assistência na tuberculose aos funcionários civis e seus familiares», na parte que exceder as despesas de manutenção do serviço de assistência aos funcionários civis tuberculosos, nos termos do artigo 35.º do [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 27 de Abril de 1968.
+Artigo 1.º - 1 - Sempre que no decurso do ano económico se verifique a necessidade de reforçar a verba inscrita no orçamento do Ministério das Finanças e do Plano para fazer face às despesas da Assistência na Doença aos Servidores Civis do Estado (ADSE), poderá ser utilizado para sua cobertura o saldo da rubrica de operações de tesouraria «Assistência na tuberculose aos funcionários civis e seus familiares», na parte que exceder as despesas de manutenção do serviço de assistência aos funcionários civis tuberculosos, nos termos do artigo 35.º do [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 27 de Abril de 1968.
 
 2 - As importâncias respeitantes à cobertura dos reforços referidos no número anterior transitarão de operações de tesouraria para receita orçamental à medida que os respectivos levantamentos de fundos forem sendo autorizados.
 
-###### Art. 2.º - 1 - Os encargos a pagar pela ADSE provenientes da assistência medicamentosa, de conta dos corpos administrativos e organismos autónomos com os quais tenha celebrado acordos, deixam, a partir de 1 de Janeiro de 1979, de ser por eles reembolsados.
+Art. 2.º - 1 - Os encargos a pagar pela ADSE provenientes da assistência medicamentosa, de conta dos corpos administrativos e organismos autónomos com os quais tenha celebrado acordos, deixam, a partir de 1 de Janeiro de 1979, de ser por eles reembolsados.
 
 2 - A regra do n.º 1 entende-se sem prejuízo do pagamento dos reembolsos que àquela data se encontrem em atraso.
 
-###### Art. 3.º - 1 - O quantitativo anual devido pelos corpos administrativos à ADSE por cada funcionário nela inscrito será aumentado de montante a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
+Art. 3.º - 1 - O quantitativo anual devido pelos corpos administrativos à ADSE por cada funcionário nela inscrito será aumentado de montante a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
 
 2 - Também os quantitativos devidos por beneficiário inscrito pelos oragnismos autónomos serão aumentados identicamente, por despacho conjunto dos Ministros das Finanças e do Plano e da Tutela.
 
 3 - O quantitativo dos aumentos referidos nos números anteriores, que se destina a compensar a ADSE da diminuição de receita advinda da dispensa de reembolsos estabelecida no artigo 2.º, será revisto sempre que o Ministro das Finanças e do Plano o entenda oportuno.
 
-###### Art. 4.º - 1 - Passam a constituir receita privativa da ADSE as contribuições anuais dos corpos administrativos previstas no artigo 6.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 23 de Outubro de 1969.
+Art. 4.º - 1 - Passam a constituir receita privativa da ADSE as contribuições anuais dos corpos administrativos previstas no artigo 6.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 23 de Outubro de 1969.
 
 2 - Igualmente constituirá receita privativa do serviço o montante do aumento que for fixado nos termos do n.º 1 do artigo anterior, bem como as suas eventuais actualizações.
 
-###### Art. 5.º Os saldos de gerência da ADSE transitam para o ano económico seguinte.
+Art. 5.º Os saldos de gerência da ADSE transitam para o ano económico seguinte.
 
-###### Art. 6.º São revogados:
+Art. 6.º São revogados:
 
 a) O artigo 2.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), referido, com a alteração introduzida pelo [Decreto-Lei n.º 372/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1973-421834), de 24 de Julho, na parte em que dispõe sobre reembolsos;
 
@@ -130,8 +152,8 @@ c) O artigo 4.º do Decreto-Lei n.º 45688, de 27 de Abril de 1964, na parte em 
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - António Gonçalves Ribeiro - Acácio Manuel Pereira Magro.
 
-**Promulgado em 31 de Outubro de 1978.**
+Promulgado em 31 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21100/22822288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1979-369575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfb22497868fd8bc96d5cbb8706f61529ccd47ab230b99768d56d5372465abbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 587bcc3fe60b6462c8f393d9eafe29e0c00e476f758f8945842a4be604fe18ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Produção Cavalar
+- Conselho Administrativo
+- Conselho Técnico
+- Criação de Serviços
+- Definição de Competências
+- Gado Equino
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:42Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +116,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Criação, fins o atribuições
 
-###### Artigo 1.º - 1 - É criado na dependência do Ministro da Agricultura e Pescas o Centro Nacional de Produção Cavalar, abreviadamente CNPC, e adiante designado por Centro.
+Artigo 1.º - 1 - É criado na dependência do Ministro da Agricultura e Pescas o Centro Nacional de Produção Cavalar, abreviadamente CNPC, e adiante designado por Centro.
 
 2 - As instalações do Centro abrangem o território delimitado no mapa I e na descrição complementar anexa ao presente diploma.
 
 3 - Os terrenos abrangidos pelo Centro e os bens nele compreendidos ficarão sujeitos a servidões e restrições administrativas a definir em decreto, depois de aprovado o plano director do Centro.
 
-###### Art. 2.º O Centro tem por fins:
+Art. 2.º O Centro tem por fins:
 
 a) Promover o fomento da produção cavalar e coordenar todas as acções desenvolvidas nesse âmbito pelos serviços civis do Estado com objectivos da valorização e expansão do cavalo;
 
 b) Promover a divulgação da utilização do cavalo, apoiar a divulgação do ensino da equitação e incentivar a realização de provas desportivas equestres.
 
-###### Art. 3.º Para a prossecução dos seus fins, compete ao Centro:
+Art. 3.º Para a prossecução dos seus fins, compete ao Centro:
 
 a) Executar e apoiar tecnicamente as acções que visem o fomento da produção cavalar;
 
@@ -134,7 +152,7 @@ j) Editar uma publicação periódica onde se explanem os problemas da equinicul
 
 l) Estudar e aplicar as medidas técnicas, legislativas e económicas necessárias à optimização da produção cavalar.
 
-###### Art. 4.º - 1 - O Centro dispõe de autonomia administrativa.
+Art. 4.º - 1 - O Centro dispõe de autonomia administrativa.
 
 2 - Constituem receitas do Centro:
 
@@ -150,21 +168,21 @@ e) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam at
 
 3 - As receitas referidas no número anterior serão entregues e escrituradas em «Contas de ordem», mediante guias expedidas pelas entidades competentes, sendo aplicadas prioritariamente, através do orçamento privativo, na cobertura dos encargos dos sectores que as originaram.
 
-###### Art. 5.º No exercício das suas atribuições, o Centro colabora estreitamente com os serviços designados na alínea f) do artigo 3.º, com vista ao estudo e aplicação das medidas técnicas, legislativas e económicas necessárias à optimização da produção cavalar e múltiplas utilizações do cavalo.
+Art. 5.º No exercício das suas atribuições, o Centro colabora estreitamente com os serviços designados na alínea f) do artigo 3.º, com vista ao estudo e aplicação das medidas técnicas, legislativas e económicas necessárias à optimização da produção cavalar e múltiplas utilizações do cavalo.
 
-###### Art. 6.º O Centro Nacional de Produção Cavalar é dirigido por um director com categoria equiparada a subdirector-geral.
+Art. 6.º O Centro Nacional de Produção Cavalar é dirigido por um director com categoria equiparada a subdirector-geral.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 7.º - São órgãos do Centro:
+Art. 7.º - São órgãos do Centro:
 
 a) O Conselho Técnico;
 
 b) O Conselho Administrativo.
 
-###### Art. 8.º - 1 - O Conselho Técnico é um órgão de consulta e apoio ao director do Centro, por ele presidido.
+Art. 8.º - 1 - O Conselho Técnico é um órgão de consulta e apoio ao director do Centro, por ele presidido.
 
 2 - O Conselho Técnico tem a seguinte composição:
 
@@ -196,7 +214,7 @@ l) O representante do Ministério do Comércio e Turismo.
 
 5 - Os membros do Conselho estranhos ao MAP e as entidades convidadas de conformidade com o número anterior terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transporte, nos termos legais.
 
-###### Art. 9.º - 1 - Ao Conselho Técnico compete emitir parecer sobre:
+Art. 9.º - 1 - Ao Conselho Técnico compete emitir parecer sobre:
 
 a) Os projectos de diploma que interfiram com a actividade do Centro;
 
@@ -226,13 +244,13 @@ b) Elaborar as actas das reuniões e desenvolver as acções dela resultantes;
 
 c) Assegurar o arquivo e o expediente do Conselho.
 
-###### Art. 10.º - 1 - O Conselho funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 10.º - 1 - O Conselho funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Da agenda das reuniões ordinárias constará obrigatoriamente a apreciação do relatório sobre o cumprimento dos programas do Centro nos períodos correspondentes.
 
 3 - Os assuntos submetidos a apreciação do Conselho Técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 11.º - 1 - O Conselho Administrativo é órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 11.º - 1 - O Conselho Administrativo é órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director do Centro, que presidirá;
 
@@ -246,7 +264,7 @@ e) O chefe da Repartição Administrativa.
 
 2 - Servirá de secretário o chefe da Secção de Administração Financeira.
 
-###### Art. 12.º - 1 - Compete ao Conselho Administrativo:
+Art. 12.º - 1 - Compete ao Conselho Administrativo:
 
 a) Elaborar o projecto de orçamento do Centro de conta das dotações consignadas no OGE e propor as alterações orçamentais consideradas necessárias;
 
@@ -280,7 +298,7 @@ d) Convocar e dirigir as reuniões do Conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 13.º O Centro dispõe dos seguintes serviços:
+Art. 13.º O Centro dispõe dos seguintes serviços:
 
 a) Direcção de Serviços de Produção Cavalar;
 
@@ -290,7 +308,7 @@ c) Divisão de Promoção Hípica;
 
 d) Repartição Administrativa.
 
-###### Art. 14.º A Direcção de Serviços de Produção Cavalar compreende as seguintes divisões:
+Art. 14.º A Direcção de Serviços de Produção Cavalar compreende as seguintes divisões:
 
 a) Produção Cavalar;
 
@@ -298,7 +316,7 @@ b) Avaliação Genética de Reprodutores;
 
 c) Registo e Contrôle dos Efectivos.
 
-###### Art. 15.º À Divisão de Produção Cavalar compete:
+Art. 15.º À Divisão de Produção Cavalar compete:
 
 a) Efectivar a produção de cavalos, a partir das eguadas do Centro, destinados ao depósito de garanhões e a fins desportivos, de recreio e outros;
 
@@ -316,7 +334,7 @@ g) Prestar assistência técnica especializada no seu âmbito;
 
 h) Promover a formação profissional de pessoal técnico e auxiliar no âmbito da produção cavalar.
 
-###### Art. 16.º À Divisão de Avaliação Genética de Reprodutores compete:
+Art. 16.º À Divisão de Avaliação Genética de Reprodutores compete:
 
 a) Assegurar a existência de reprodutores necessários ao melhoramento da espécie cavalar nos depósitos do Centro;
 
@@ -332,7 +350,7 @@ f) Distribuir os garanhões destinados a beneficiação dos efectivos estatais e
 
 g) Promover, coordenar e realizar provas funcionais.
 
-###### Art. 17.º À Divisão do Registo e Contrôle dos Efectivos compete:
+Art. 17.º À Divisão do Registo e Contrôle dos Efectivos compete:
 
 a) Incentivar e apoiar a criação de associações de criadores;
 
@@ -350,7 +368,7 @@ g) Propor os secretários técnicos dos livros genealógicos das raças cavalare
 
 h) Estabelecer a classificação dos concursos de apresentação, definindo as regras do seu funcionamento e aprovando os respectivos regulamentos e os júris que neles actuarão.
 
-###### Art. 18.º Adstrita à Direcção de Serviços de Produção Cavalar funciona uma enfermaria veterinária orientada por um médico veterinário, à qual compete:
+Art. 18.º Adstrita à Direcção de Serviços de Produção Cavalar funciona uma enfermaria veterinária orientada por um médico veterinário, à qual compete:
 
 a) Executar as normas de sanidade e higiene nos efectivos do Centro;
 
@@ -358,7 +376,7 @@ b) Efectuar tratamentos clínicos e cirúrgicos indispensáveis à boa saúde do
 
 c) Efectuar tratamentos clínicos e cirúrgicos, nas suas instalações, em animais de raça cavalar pertencentes a particulares que o solicitem.
 
-###### Art. 19.º À Divisão de Exploração Agrária compete:
+Art. 19.º À Divisão de Exploração Agrária compete:
 
 a) Proceder à defesa e conservação do solo do património fundiário a cargo do Centro, melhorando as terras e os mananciais de água;
 
@@ -376,7 +394,7 @@ g) Planear os esquemas culturais e coordenar as explorações agrícolas a cargo
 
 h) Colaborar com os organismos do MAP ligados à produção vegetal no sentido de melhorar a qualidade de pastagens e forragens destinadas à alimentação das raças cavalares.
 
-###### Art. 20.º À Divisão de Promoção Hípica compete:
+Art. 20.º À Divisão de Promoção Hípica compete:
 
 a) Promover as acções necessárias à criação da Escola Portuguesa de Arte Equestre e à divulgação da prática de equitação;
 
@@ -392,7 +410,7 @@ f) Propor a distribuição de subsídios e prémios a acções concernentes à p
 
 g) Promover o tratamento e difusão dos elementos de carácter zootécnico considerados de interesse para os criadores e outras entidades.
 
-###### Art. 21.º A Repartição Administrativa compreende as seguintes secções:
+Art. 21.º A Repartição Administrativa compreende as seguintes secções:
 
 a) Secção de Administração Patrimonial;
 
@@ -400,7 +418,7 @@ b) Secção de Pessoal e Expediente;
 
 c) Secção de Administração Financeira.
 
-###### Art. 22.º À Secção de Administração Patrimonial compete:
+Art. 22.º À Secção de Administração Patrimonial compete:
 
 a) Organizar e manter actualizado o inventário do Centro respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -414,7 +432,7 @@ e) Processar os documentos de despesa das aquisições referidas nas alíneas b)
 
 f) Zelar pela segurança dos edifícios e outras instalações.
 
-###### Art. 23.º À Secção de Pessoal e Expediente compete:
+Art. 23.º À Secção de Pessoal e Expediente compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal do Centro;
 
@@ -434,7 +452,7 @@ h) Elaborar directivas de processamento e arquivo de correspondência e promover
 
 i) Assegurar uma adequada circulação de documentos e normas pelos diversos serviços.
 
-###### Art. 24.º À Secção de Administração Financeira compete:
+Art. 24.º À Secção de Administração Financeira compete:
 
 a) Coligir todos os elementos de receita e despesa indispensáveis à organização dos orçamentos do Centro;
 
@@ -458,7 +476,7 @@ j) Organizar a conta de gerência e preparar os elementos necessários à elabor
 
 l) Manter organizado o arquivo de toda a documentação das gerências findas.
 
-###### Art. 25.º Adstrita à Secção de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 25.º Adstrita à Secção de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes ao Centro;
 
@@ -470,29 +488,29 @@ c) Manter devidamente escriturados todos os livros de tesouraria.
 
 #### SECÇÃO I — Dos quadros do pessoal
 
-###### Art. 26.º O Centro disporá para o desempenho das suas atribuições do contingente de pessoal dirigente e de pessoal dos quadros únicos do MAP constantes do mapa II anexo ao presente diploma, que dele faz parte integrante.
+Art. 26.º O Centro disporá para o desempenho das suas atribuições do contingente de pessoal dirigente e de pessoal dos quadros únicos do MAP constantes do mapa II anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 27.º - 1 - O lugar de director do Centro será provido em comissão de serviço, por livre escolha do Ministro, de entre licenciados possuidores de experiência profissional e reconhecida capacidade técnica para o desempenho do cargo.
+Art. 27.º - 1 - O lugar de director do Centro será provido em comissão de serviço, por livre escolha do Ministro, de entre licenciados possuidores de experiência profissional e reconhecida capacidade técnica para o desempenho do cargo.
 
 2 - Os restantes lugares serão providos nos termos do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, e demais disposições legais em vigor.
 
-###### Art. 28.º O tesoureiro terá direito a abono para falhas nos termos da lei geral.
+Art. 28.º O tesoureiro terá direito a abono para falhas nos termos da lei geral.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 29.º O director do Centro será substituído nas suas ausências e impedimentos pelo director de Serviços de Produção Cavalar.
+Art. 29.º O director do Centro será substituído nas suas ausências e impedimentos pelo director de Serviços de Produção Cavalar.
 
-###### Art. 30.º O director de serviços e os chefes de divisão serão substituídos nas suas ausências e impedimentos pelos funcionários que forem designados por despacho do director do Centro.
+Art. 30.º O director de serviços e os chefes de divisão serão substituídos nas suas ausências e impedimentos pelos funcionários que forem designados por despacho do director do Centro.
 
-###### Art. 31.º O chefe da Repartição Administrativa será substituído nas suas ausências e impedimentos pelo chefe de secção que for designado pelo director do Centro e, na falta de designação, pelo chefe de secção mais antigo.
+Art. 31.º O chefe da Repartição Administrativa será substituído nas suas ausências e impedimentos pelo chefe de secção que for designado pelo director do Centro e, na falta de designação, pelo chefe de secção mais antigo.
 
-###### Art. 32.º O tesoureiro será substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta e ouvido o chefe da Repartição Administrativa, for designado pelo director do Centro.
+Art. 32.º O tesoureiro será substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta e ouvido o chefe da Repartição Administrativa, for designado pelo director do Centro.
 
 ### CAPÍTULO IV — Disposições gerais e finais
 
-###### Art. 33.º Ao Centro caberá, no âmbito das suas atribuições e competências, a representação do País em organizações internacionais específicas e nos actos e manifestações de natureza técnica decorrentes de convénios e acordos assumidos ou a assumir, assegurando o cumprimento das respectivas obrigações.
+Art. 33.º Ao Centro caberá, no âmbito das suas atribuições e competências, a representação do País em organizações internacionais específicas e nos actos e manifestações de natureza técnica decorrentes de convénios e acordos assumidos ou a assumir, assegurando o cumprimento das respectivas obrigações.
 
-###### Art. 34.º Até à entrada em vigor do decreto que defina e estabeleça as adequadas servidões e as restrições administrativas, fica dependente de autorização do director do Centro, com o parecer favorável do Conselho Técnico, a realização, nos terrenos compreendidos pelo Centro, dos seguintes trabalhos ou actividades:
+Art. 34.º Até à entrada em vigor do decreto que defina e estabeleça as adequadas servidões e as restrições administrativas, fica dependente de autorização do director do Centro, com o parecer favorável do Conselho Técnico, a realização, nos terrenos compreendidos pelo Centro, dos seguintes trabalhos ou actividades:
 
 a) Abertura de novas vias de comunicação;
 
@@ -500,7 +518,7 @@ b) Construção, demolição e alteração de quaisquer construções;
 
 c) Captação e desvio de águas.
 
-###### Art. 35.º Constituem contravenção:
+Art. 35.º Constituem contravenção:
 
 a) Introdução, circulação e estacionamento nos terrenos abrangidos pelo Centro de pessoas, veículos ou animais, com inobservância das proibições ou condicionamentos que forem estabelecidos;
 
@@ -516,29 +534,29 @@ f) A utilização de aparelhos do fotografia, filmagem ou radiodifusão, sonora 
 
 g) O exercício da caça e pesca nos terrenos do Centro.
 
-###### Art. 36.º - 1 - As contravenções previstas no artigo anterior são punidas com multa de 500$00 a 10000$00.
+Art. 36.º - 1 - As contravenções previstas no artigo anterior são punidas com multa de 500$00 a 10000$00.
 
 2 - Os autos de notícia por infracções ao disposto no artigo anterior serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal.
 
-###### Art. 37.º Serão aprovados por portaria conjunta do Secretário de Estado do Fomento Agrário e do Secretário de Estado do Ambiente os sinais indicativos de proibição, permissão e condicionamento previstos neste decreto para os quais não existam já modelos legalmente estabelecidos.
+Art. 37.º Serão aprovados por portaria conjunta do Secretário de Estado do Fomento Agrário e do Secretário de Estado do Ambiente os sinais indicativos de proibição, permissão e condicionamento previstos neste decreto para os quais não existam já modelos legalmente estabelecidos.
 
-###### Art. 38.º O Centro promoverá a elaboração, no prazo máximo de um ano, do plano director do Centro.
+Art. 38.º O Centro promoverá a elaboração, no prazo máximo de um ano, do plano director do Centro.
 
-###### Art. 39.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 39.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 40.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 40.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros em 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 13 de Agosto de 1979.**
+Promulgado em 13 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21100/22822288.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21100/22822288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21100/22822288.pdf)
 
 Descrição a que se refere o n.º 2 do artigo 1.º
 
@@ -564,6 +582,6 @@ g) Finalmente, partindo deste ponto da Herdade, seu limite mais a poente, segue 
 
 Mapa II a que se refere o artigo 26.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21100/22822288.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21100/22822288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21100/22822288.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

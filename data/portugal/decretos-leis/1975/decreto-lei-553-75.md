@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22700/15201520.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1975-312194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b54cd599499a6795c23c817f3ee79f5c051a6a285e14dcd4ed63ae1c3f19344
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9ee8c98d8fcc8c5f7ebd859f3d2f9bf67352dd831d88f7ff0ecd03ed111b5d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Exército
+- Força Aérea
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:278508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278508:por
+  label: Revogado a partir de 01.03.1978 pelo DEC LEI.399-A/77.22.09.1977.CR, DR.IS [220] de 22.09.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1977-278508
+  date: '1977-09-22'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:24Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +113,9 @@ Considerando justo conceder às praças readmitidas do Exército e da Força Aé
 
 Usando da faculdade conferida pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O bilhete de identidade militar das praças readmitidas do Exército e da Força Aérea substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
+Artigo 1.º O bilhete de identidade militar das praças readmitidas do Exército e da Força Aérea substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
 
-###### Art. 2.º O disposto no [Decreto-Lei n.º 48992](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48992-1969-201651), de 7 de Maio de 1969, aplica-se também às praças readmitidas do Exército, com as seguintes alterações:
+Art. 2.º O disposto no [Decreto-Lei n.º 48992](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48992-1969-201651), de 7 de Maio de 1969, aplica-se também às praças readmitidas do Exército, com as seguintes alterações:
 
 a) O bilhete de identidade das praças readmitidas do Exército será na cor branca para as praças do activo e alaranjada para as reformadas;
 
@@ -104,7 +125,7 @@ c) Os modelos dos bilhetes de identidade terão inscrito a letra vermelha, por b
 
 d) Em virtude do regime disposto na [Portaria n.º 389/75](https://diariodarepublica.pt/dr/detalhe/portaria/389-1975-337178), de 26 de Junho, não se torna necessário o averbamento no bilhete de identidade do desconto em caminhos de ferro, devendo, no espaço reservado a esse averbamento, ser inscrito o prazo de validade do bilhete de identidade, que para as praças readmitidas do Exército no activo corresponderá ao termo dos períodos de readmissão.
 
-###### Art. 3.º - 1. Relativamente às praças readmitidas na Força Aérea, os artigos 1.º e 3.º do [Decreto-Lei n.º 543/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1970-147183), de 12 de Novembro, passam a ter os seguintes aditamentos:
+Art. 3.º - 1. Relativamente às praças readmitidas na Força Aérea, os artigos 1.º e 3.º do [Decreto-Lei n.º 543/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1970-147183), de 12 de Novembro, passam a ter os seguintes aditamentos:
 
 ###### Artigo 1.º ...
 
@@ -114,7 +135,7 @@ f) Praças readmitidas no activo e na reforma.
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 2. ...
 
@@ -132,8 +153,8 @@ Praça readmitida reformada.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 23 de Setembro de 1975.**
+Promulgado em 23 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

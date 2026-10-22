@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/20400/13051306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1975-307618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5ed6e7c8beee3f982bb6a2397fbcf438a9578247e21434dc93b6c3d4f26311
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fe09e86330f23f8fb534915f7d45f691b7d626153707102664a95839cec4631
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Distrital dos Serviços de Saúde
+- Assistência Médica
+- Conselho de Administração
+- Criação de Serviços
+- Escola de Enfermagem
+- Integração de Serviços
+- Personalidade Jurídica
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:395514:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:156815:por
+  label: "Revogado pelo DEC LEI.519-O2/79.29.12.1979.PCM, DR.IS [299-14º Supl] de 29.12.1979 (Mantida em vigor a norma revogada,\
+    \ conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-o2-1979-156815
+  date: '1979-12-29'
+- type: repealed_by
+  target: pt:dre:395514:por
+  label: "Revogado pelo DEC LEI.254/82.29.06.1982.MAS, DR.IS [147] de 29.06.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1982-395514
+  date: '1982-06-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:30Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +129,7 @@ Considerando as razões acima aduzidas, bem como revelarem-se já, em alguns dis
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Serão criadas administrações distritais dos serviços de saúde, adiante designadas abreviadamente administrações distritais, com vista à prossecução dos seguintes objectivos:
+Artigo 1.º Serão criadas administrações distritais dos serviços de saúde, adiante designadas abreviadamente administrações distritais, com vista à prossecução dos seguintes objectivos:
 
 Promoção e vigilância da saúde e prevenção das doenças;
 
@@ -110,7 +137,7 @@ Diagnóstico e tratamento dos indivíduos doentes e reabilitação de diminuído
 
 Ensino e formação de trabalhadores de saúde.
 
-###### Art. 2.º - 1. As administrações distritais terão, em princípio, o âmbito dos distritos e nelas serão integrados os estabelecimentos e serviços de saúde oficiais do distrito, com todos os seus direitos e obrigações.
+Art. 2.º - 1. As administrações distritais terão, em princípio, o âmbito dos distritos e nelas serão integrados os estabelecimentos e serviços de saúde oficiais do distrito, com todos os seus direitos e obrigações.
 
 2. As instituições particulares poderão também vir a ser integradas, em termos a definir.
 
@@ -118,11 +145,11 @@ Ensino e formação de trabalhadores de saúde.
 
 4. A criação de cada administração distrital dependerá de portaria do Secretário de Estado da Saúde, que fixará a data da sua efectiva entrada em vigor e mencionará todos os estabelecimentos e serviços integrados.
 
-###### Art. 3.º - 1. As administrações distritais gozam de personalidade jurídica e de autonomia administrativa, nos termos definidos neste diploma e regulamentação subsequente.
+Art. 3.º - 1. As administrações distritais gozam de personalidade jurídica e de autonomia administrativa, nos termos definidos neste diploma e regulamentação subsequente.
 
 2. Os estabelecimentos e serviços integrados disporão da autonomia que lhes vier a ser conferida por regulamentos aprovados pelo Secretário de Estado da Saúde, sob proposta das administrações distritais.
 
-###### Art. 4.º - 1. Haverá em cada administração distrital um conselho de administração composto pelos seguintes membros:
+Art. 4.º - 1. Haverá em cada administração distrital um conselho de administração composto pelos seguintes membros:
 
 a) Delegado da Secretaria de Estado da Saúde, que presidirá;
 
@@ -144,36 +171,36 @@ g) Dois representantes dos utentes designados pelos sindicatos existentes no dis
 
 4. O conselho de administração proporá os regulamentos necessários ao funcionamento da administração distrital, que serão aprovados por despacho do Secretário de Estado da Saúde.
 
-###### Art. 5.º Em cada estabelecimento ou serviço integrado haverá órgãos de gestão a definir para cada caso, plenários de trabalhadores e assembleias de sectores profissionais para apreciação de assuntos de interesse de todo o pessoal ou de cada sector e eleição dos seus representantes nos órgãos de gestão, devendo as eleições sectoriais ser ratificadas pelo plenário dos trabalhadores.
+Art. 5.º Em cada estabelecimento ou serviço integrado haverá órgãos de gestão a definir para cada caso, plenários de trabalhadores e assembleias de sectores profissionais para apreciação de assuntos de interesse de todo o pessoal ou de cada sector e eleição dos seus representantes nos órgãos de gestão, devendo as eleições sectoriais ser ratificadas pelo plenário dos trabalhadores.
 
-###### Art. 6.º - 1. As escolas de enfermagem integradas passam a constituir escolas de saúde pública para formação e aperfeiçoamento de profissionais de saúde.
+Art. 6.º - 1. As escolas de enfermagem integradas passam a constituir escolas de saúde pública para formação e aperfeiçoamento de profissionais de saúde.
 
 2. Cada escola disporá de um órgão de gestão, composto por representantes do corpo docente e do corpo discente de cada curso nela ministrado e por representantes do pessoal não pertencente ao corpo docente, cabendo aos respectivos sectores eleger os seus representantes.
 
-###### Art. 7.º - 1. A orientação técnica de cada um dos estabelecimentos integrados far-se-á pelas direcções-gerais ou departamentos técnicos centrais respectivos, competindo ao delegado da Secretaria de Estado da Saúde no conselho de administração colher a nível central as orientações pertinentes que fundamentarão a sua actuação no conselho de administração.
+Art. 7.º - 1. A orientação técnica de cada um dos estabelecimentos integrados far-se-á pelas direcções-gerais ou departamentos técnicos centrais respectivos, competindo ao delegado da Secretaria de Estado da Saúde no conselho de administração colher a nível central as orientações pertinentes que fundamentarão a sua actuação no conselho de administração.
 
 2. Sempre que as administrações distritais se desviarem dos objectivos consignados na política geral de saúde definida pelo Governo ou da legislação geral aplicável, poderá o delegado da Secretaria de Estado da Saúde propor a nomeação de uma comissão administrativa, em substituição do conselho de administração, a designar pelo Secretário de Estado, e que exercerá o seu mandato pelo prazo de um ano.
 
-###### Art. 8.º A cobertura financeira das administrações distritais será assegurada pelas verbas disponíveis no orçamento do Ministério dos Assuntos Sociais para cada um dos estabelecimentos e serviços integrados, pelas suas receitas próprias, pelos rendimentos dos serviços e outras receitas que forem determinadas superiormente.
+Art. 8.º A cobertura financeira das administrações distritais será assegurada pelas verbas disponíveis no orçamento do Ministério dos Assuntos Sociais para cada um dos estabelecimentos e serviços integrados, pelas suas receitas próprias, pelos rendimentos dos serviços e outras receitas que forem determinadas superiormente.
 
-###### Art. 9.º - 1. É aplicável ao pessoal das administrações distritais o estatuto do funcionalismo público em geral e dos serviços de saúde em especial, nos termos dos Decretos-Leis n.os [413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738) e [414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
+Art. 9.º - 1. É aplicável ao pessoal das administrações distritais o estatuto do funcionalismo público em geral e dos serviços de saúde em especial, nos termos dos Decretos-Leis n.os [413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738) e [414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
 
 2. O pessoal que transitar dos estabelecimentos e serviços integrados manterá os direitos e regalias de que vinha fruindo, designadamente o de continuar a descontar para a instituição de previdência em que estiver inscrito, contando-se para efeitos de aposentação todo o tempo de serviço prestado, nos termos da legislação aplicável.
 
-###### Art. 10.º - 1. As administrações distritais entram no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 10.º - 1. As administrações distritais entram no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 2. O delegado da Secretaria de Estado da Saúde, de colaboração com as comissões instaladoras existentes, promoverá a constituição do conselho de administração e dos restantes órgãos, nos moldes atrás referidos.
 
-###### Art. 11.º As administrações distritais deverão estabelecer as articulações que julgarem mais convenientes com as comissões integradoras dos serviços de saúde locais, a fim de se encontrar uma coordenação funcional.
+Art. 11.º As administrações distritais deverão estabelecer as articulações que julgarem mais convenientes com as comissões integradoras dos serviços de saúde locais, a fim de se encontrar uma coordenação funcional.
 
-###### Art. 12.º A estruturação dos serviços de saúde prevista neste diploma deverá acompanhar, no que respeita aos equipamentos, o ordenamento do território que vier a ser legalmente definido.
+Art. 12.º A estruturação dos serviços de saúde prevista neste diploma deverá acompanhar, no que respeita aos equipamentos, o ordenamento do território que vier a ser legalmente definido.
 
-###### Art. 13.º Este diploma entra imediatamente em vigor.
+Art. 13.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 7 de Agosto de 1975.**
+Promulgado em 7 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

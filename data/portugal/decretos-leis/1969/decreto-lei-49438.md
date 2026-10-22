@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/28800/17561765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49438-1969-217367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63e9c8ed3f56fdf5c2404373d29fa781ef9508cd14ed8f6480910b2125a6be23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1bf06892b4f906730d45ea5f73d90ac338a2f200ea38a6055c832b3e360309b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Contribuições e Impostos
+- Emolumento
+- Governo Civil
+- Isenção Fiscal
+- Licenciamento
+- Organismo do Estado
+- PSP
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:476532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684780:por
+  label: "Dada nova redacção às observações 4ª e 7ª da subsecção II da secção I do cap. IV da tabela de taxas pelo DEC LEI.55/73.24.02.1973.MI,\
+    \ DG.IS [47] de 24.02.1973 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1973-684780
+  date: '1973-02-24'
+- type: cites
+  target: pt:dre:158453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691054:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476532:por
+  label: "Revogado o presente diploma, alterado pelo Dec Lei 55/73, de 24-Fev, pela LEI.1/79.02.01.1979.AR, DR.IS [1] de 02.01.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-1979-476532
+  date: '1979-01-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:03Z'
   warnings: []
   errors: []
 ---
@@ -99,31 +144,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovada a tabela anexa, de taxas a cobrar nos governos civis, corpos administrativos, administrações de bairro e serviços policiais dependentes das câmaras municipais ou dos comandos distritais ou de secções da Polícia de Segurança Pública, a qual revoga e substitui a tabela de emolumentos aprovada pelo [Decreto n.º 14027](https://diariodarepublica.pt/dr/detalhe/decreto/14027-1927-691054), de 2 de Agosto de 1927, e a tabela B anexa ao Código Administrativo, aprovado pelo [Decreto-Lei n.º 31095](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31095-1940-158453), de 31 de Dezembro de 1940.
+Artigo 1.º É aprovada a tabela anexa, de taxas a cobrar nos governos civis, corpos administrativos, administrações de bairro e serviços policiais dependentes das câmaras municipais ou dos comandos distritais ou de secções da Polícia de Segurança Pública, a qual revoga e substitui a tabela de emolumentos aprovada pelo [Decreto n.º 14027](https://diariodarepublica.pt/dr/detalhe/decreto/14027-1927-691054), de 2 de Agosto de 1927, e a tabela B anexa ao Código Administrativo, aprovado pelo [Decreto-Lei n.º 31095](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31095-1940-158453), de 31 de Dezembro de 1940.
 
-###### Art. 2.º - 1. Continua a haver lugar ao pagamento de custas, a liquidar, nos termos do Código das Custas Judiciais, nos processos administrativos de exclusivo interesse particular.
+Art. 2.º - 1. Continua a haver lugar ao pagamento de custas, a liquidar, nos termos do Código das Custas Judiciais, nos processos administrativos de exclusivo interesse particular.
 
 2. Os encargos que não constituam compensação de despesas dos funcionários, nem se destinem às partes ou a particulares que intervenham nos processos, revertem para a câmara municipal respectiva.
 
-###### Art. 3.º As taxas das licenças passadas nos termos dos regulamentos da competência dos governadores civis ficam sujeitas ao regime previsto no § único do artigo 724.º do Código Administrativo.
+Art. 3.º As taxas das licenças passadas nos termos dos regulamentos da competência dos governadores civis ficam sujeitas ao regime previsto no § único do artigo 724.º do Código Administrativo.
 
-###### Art. 4.º É lícito às câmaras municipais isentar de taxas as licenças para obras promovidas por pessoas colectivas de direito público ou de utilidade pública administrativa e por associações culturais, desportivas ou recreativas, quando se destinem directamente à realização dos seus fins.
+Art. 4.º É lícito às câmaras municipais isentar de taxas as licenças para obras promovidas por pessoas colectivas de direito público ou de utilidade pública administrativa e por associações culturais, desportivas ou recreativas, quando se destinem directamente à realização dos seus fins.
 
-###### Art. 5.º Salvo resolução das câmaras municipais em contrário, poderão fazer-se verbalmente os pedidos de renovação de licenças da competência das mesmas câmaras.
+Art. 5.º Salvo resolução das câmaras municipais em contrário, poderão fazer-se verbalmente os pedidos de renovação de licenças da competência das mesmas câmaras.
 
-###### Art. 6.º - 1. Sempre que o pedido de renovação de licenças se efectue fora dos prazos fixados em lei ou regulamento, será a taxa acrescida de 30 por cento, não havendo lugar ao pagamento de multa, salvo se, entretanto, tiver sido autuada a transgressão.
+Art. 6.º - 1. Sempre que o pedido de renovação de licenças se efectue fora dos prazos fixados em lei ou regulamento, será a taxa acrescida de 30 por cento, não havendo lugar ao pagamento de multa, salvo se, entretanto, tiver sido autuada a transgressão.
 
 2. O disposto neste artigo não se aplica às licenças de obras.
 
-###### Art. 7.º As taxas diárias, semanais, mensais ou anuais são devidas por cada dia, semana, mês, ano civil ou fracção, e a sua validade, com excepção das respeitantes às licenças de obras, caduca, em qualquer caso, no final do ano em que forem liquidadas.
+Art. 7.º As taxas diárias, semanais, mensais ou anuais são devidas por cada dia, semana, mês, ano civil ou fracção, e a sua validade, com excepção das respeitantes às licenças de obras, caduca, em qualquer caso, no final do ano em que forem liquidadas.
 
-###### Art. 8.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1970.
+Art. 8.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1970.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 26 de Novembro de 1969**
+Promulgado em 26 de Novembro de 1969
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -139,7 +184,7 @@ Secretaria
 
 Taxas
 
-###### Artigo 1.º Taxas a cobrar pela prestação dos seguintes serviços:
+Artigo 1.º Taxas a cobrar pela prestação dos seguintes serviços:
 
 ... Taxas fixas
 
@@ -197,9 +242,9 @@ b) De duas faces ... 5$50
 
 17) Termos de responsabilidade, identidade, idoneidade, justificação administrativa, ou semelhante ... 40$00
 
-###### Art. 2.º Fornecimento, a pedido dos interessados, de documentos necessários à substituição dos que tenham sido extraviados ou estejam em mau estado - cada documento ... 10$00
+Art. 2.º Fornecimento, a pedido dos interessados, de documentos necessários à substituição dos que tenham sido extraviados ou estejam em mau estado - cada documento ... 10$00
 
-###### Art. 3.º Outras pretensões de interesse particular, ou prestações de serviços ao público, quando não haja taxa especialmente prevista:
+Art. 3.º Outras pretensões de interesse particular, ou prestações de serviços ao público, quando não haja taxa especialmente prevista:
 
 A fixar pelos corpos administrativos.
 
@@ -215,11 +260,11 @@ II
 
 Armas e ratoeiras de fogo, furões e exercício de caça
 
-###### Art. 4.º Uso, porte e transacção de armas de fogo e montagem de ratoeiras de fogo:
+Art. 4.º Uso, porte e transacção de armas de fogo e montagem de ratoeiras de fogo:
 
 As receitas a cobrar são as fixadas na tabela B anexa ao [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
 
-###### Art. 5.º Licenças relativas ao exercício da caça:
+Art. 5.º Licenças relativas ao exercício da caça:
 
 As taxas a cobrar são as estabelecidas no Regulamento da Caça, promulgado pelo Decreto n.º 47847, de 14 de Agosto de 1967.
 
@@ -235,9 +280,9 @@ Registo de cães
 
 ... Máximos
 
-###### Art. 7.º Cães de guarda - por animal e por ano ... 20$00
+Art. 7.º Cães de guarda - por animal e por ano ... 20$00
 
-###### Art. 8.º Outros cães - por animal e por ano:
+Art. 8.º Outros cães - por animal e por ano:
 
 a) Em Lisboa e Porto ... 80$00
 
@@ -245,7 +290,7 @@ b) Nos outros concelhos ... 60$00
 
 #### SECÇÃO II — Taxas
 
-###### Art. 9.º Chapas de canídeos:
+Art. 9.º Chapas de canídeos:
 
 ... Máximos
 
@@ -271,7 +316,7 @@ Obras
 
 ##### SUBSECÇÃO I — Inscrição de técnicos
 
-###### Art. 10.º Inscrição:
+Art. 10.º Inscrição:
 
 ... Máximos
 
@@ -283,15 +328,15 @@ Obras
 
 ... Máximos
 
-###### Art. 11.º Registo de declarações de responsabilidade de técnicos - por técnico e por cada obra ... 30$00
+Art. 11.º Registo de declarações de responsabilidade de técnicos - por técnico e por cada obra ... 30$00
 
-###### Art. 12.º Taxa geral a aplicar em todas as licenças:
+Art. 12.º Taxa geral a aplicar em todas as licenças:
 
 1) Por período até quinze dias ou fracção ... 30$00
 
 2) Por período superior a quinze dias e por cada mês ou fracção ... 60$00
 
-###### Art. 13.º Taxas especiais a acumular com o do artigo anterior, quando devidas:
+Art. 13.º Taxas especiais a acumular com o do artigo anterior, quando devidas:
 
 1) Construção, reconstrução ou modificação de muros de suporte ou de vedação ou de outras vedações definitivas confinantes com a via pública - por metro linear ou fracção ... 10$00
 
@@ -323,7 +368,7 @@ a) Edifícios - por piso demolido ... 70$00
 
 b) Pavilhões ou congéneres, instalados na via pública - cada um ... 50$00
 
-###### Art. 14.º Corpos salientes de construções, na parte projectada sobre vias públicas, logradouros ou outros lugares públicos, sob administração municipal - Taxas a acumular com as dos artigos 12.º e 13.º, por piso e por metro quadrado ou fracção:
+Art. 14.º Corpos salientes de construções, na parte projectada sobre vias públicas, logradouros ou outros lugares públicos, sob administração municipal - Taxas a acumular com as dos artigos 12.º e 13.º, por piso e por metro quadrado ou fracção:
 
 a) Varandas, alpendres integrados na construção, janelas de sacada e semelhantes ... 100$00
 
@@ -363,7 +408,7 @@ Se a prorrogação for solicitada para além do referido prazo, acrescerá a sob
 
 ##### SUBSECÇÃO III — Ocupação da via pública por motivo de obras
 
-###### Art. 15.º Ocupação da via pública delimitada por resguardos ou tapumes:
+Art. 15.º Ocupação da via pública delimitada por resguardos ou tapumes:
 
 1) Tapumes ou outros resguardos - por cada período de trinta dias ou fracção:
 
@@ -375,7 +420,7 @@ b) Por metro quadrado ou fracção da superfície da via pública ... 8$00
 
 2) Andaimes - por andar ou pavimento a que correspondam (mas só na parte não defendida pelo tapume) - por metro linear ou fracção e por cada trinta dias ou fracção ... 2$00
 
-###### Art. 16.º Ocupação da via pública fora dos tapumes ou resguardos:
+Art. 16.º Ocupação da via pública fora dos tapumes ou resguardos:
 
 1) Caldeiras ou tubos de descarga de entulho - por unidade e por cada trinta dias ou fracção ... 60$00
 
@@ -391,9 +436,9 @@ Observações:
 
 ... Máximos
 
-###### Art. 17.º Licenças para habitação - por fogo e seus anexos ... 50$00
+Art. 17.º Licenças para habitação - por fogo e seus anexos ... 50$00
 
-###### Art. 18.º Outras licenças de utilização - por cada 50 m2 ou fracção e relativamente a cada piso ... 40$00
+Art. 18.º Outras licenças de utilização - por cada 50 m2 ou fracção e relativamente a cada piso ... 40$00
 
 Observações:
 
@@ -405,7 +450,7 @@ Observações:
 
 ##### SUBSECÇÃO V — Prorrogação de prazos para início da execução obrigatória de obras
 
-###### Art. 19.º Para obras periódicas de reparação e beneficiação geral:
+Art. 19.º Para obras periódicas de reparação e beneficiação geral:
 
 ... Máximos
 
@@ -417,11 +462,11 @@ Observações:
 
 4) De outras construções, incluindo barracas, telheiros e similares - por trinta dias ou fracção e por cada um ... 6$00
 
-###### Art. 20.º Para outras obras intimadas pela câmara - por período de trinta dias ou fracção ... 25$00
+Art. 20.º Para outras obras intimadas pela câmara - por período de trinta dias ou fracção ... 25$00
 
 #### SECÇÃO II — Taxas
 
-###### Art. 21.º Vistorias (incluindo deslocação e remuneração de peritos e outras despesas):
+Art. 21.º Vistorias (incluindo deslocação e remuneração de peritos e outras despesas):
 
 1) Para licenças de utilização:
 
@@ -435,7 +480,7 @@ b) Por cada fogo ou unidade de ocupação a mais ... 20$00
 
 3) Outras vistorias ... 300$00
 
-###### Art. 22.º Serviços diversos:
+Art. 22.º Serviços diversos:
 
 1) Averbamento em processo e licença de obra de nome do novo proprietário do prédio ... 100$00
 
@@ -461,7 +506,7 @@ Higiene e salubridade
 
 #### SECÇÃO I — Licenças
 
-###### Art. 23.º Alvarás de licença de hotéis, restaurantes, casas de chá, cafés, cervejarias, botequins (bares) e pensões:
+Art. 23.º Alvarás de licença de hotéis, restaurantes, casas de chá, cafés, cervejarias, botequins (bares) e pensões:
 
 ... Máximos
 
@@ -471,7 +516,7 @@ b) Restaurantes, casas de chá, cafés, cervejarias e botequins (bares) ... 900$
 
 c) Pensões ... 400$00
 
-###### Art. 24.º Alvarás de licença de pousadas, estalagens, pastelarias, confeitarias, leitarias, mercearias, estabelecimentos de venda de pão que não estejam anexos aos estabelecimentos de fabrico, casas de pasto, casas de hóspedes, hospedarias, tabernas e outros estabelecimentos abrangidos pelo artigo 40.º da [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929:
+Art. 24.º Alvarás de licença de pousadas, estalagens, pastelarias, confeitarias, leitarias, mercearias, estabelecimentos de venda de pão que não estejam anexos aos estabelecimentos de fabrico, casas de pasto, casas de hóspedes, hospedarias, tabernas e outros estabelecimentos abrangidos pelo artigo 40.º da [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929:
 
 ... Máximos
 
@@ -481,7 +526,7 @@ b) Pastelarias, confeitarias e leitarias ... 700$00
 
 c) Mercearias, estabelecimentos de venda de pão, casas de pasto, casas de hóspedes, hospedarias, tabernas e outros estabelecimentos não especificados ... 400$00
 
-###### Art. 25.º Alvarás de outros estabelecimentos sujeitos a licenciamento sanitário:
+Art. 25.º Alvarás de outros estabelecimentos sujeitos a licenciamento sanitário:
 
 a) De 1.ª classe ... 300$00
 
@@ -501,7 +546,7 @@ Observações:
 
 #### SECÇÃO II — Taxas
 
-###### Art. 26.º Vistorias a habitações pela mudança de inquilinos - por cada vistoria, incluindo deslocação e remuneração de peritos e outras despesas a efectuar pela câmara:
+Art. 26.º Vistorias a habitações pela mudança de inquilinos - por cada vistoria, incluindo deslocação e remuneração de peritos e outras despesas a efectuar pela câmara:
 
 ... Máximos
 
@@ -509,7 +554,7 @@ a) Até quatro divisões ... 80$00
 
 b) Por cada divisão além de quatro ... 10$00
 
-###### Art. 27.º Limpeza e saneamento urbanos:
+Art. 27.º Limpeza e saneamento urbanos:
 
 1) Regas em locais particulares - por hora ou fracção:
 
@@ -523,7 +568,7 @@ b) Com viatura hipomóvel ou por outro modo ... 30$00
 
 Taxas a fixar de harmonia com a legislação especial.
 
-###### Art. 28.º Penso a animais - por animal e por cada período de vinte e quatro horas ou fracção:
+Art. 28.º Penso a animais - por animal e por cada período de vinte e quatro horas ou fracção:
 
 1) A canídeos e felinos ... 5$00
 
@@ -531,13 +576,13 @@ Taxas a fixar de harmonia com a legislação especial.
 
 3) A outros animais ... 10$00
 
-###### Art. 29.º Diversos:
+Art. 29.º Diversos:
 
 a) Fornecimento de água a particulares - por cada metro cúbico ... 10$00
 
 b) Utilização de sentinas públicas - cada ... $60
 
-###### Art. 30.º Averbamento no alvará do nome do seu novo proprietário ... 20$00
+Art. 30.º Averbamento no alvará do nome do seu novo proprietário ... 20$00
 
 Observações:
 
@@ -555,7 +600,7 @@ Cemitérios
 
 #### SECÇÃO I — Taxas
 
-###### Art. 31.º Inumação em covais:
+Art. 31.º Inumação em covais:
 
 ... Máximos
 
@@ -569,9 +614,9 @@ c) Sepulturas perpétuas:
 
 2) Em caixão de chumbo ou zinco ... 500$00
 
-###### Art. 32.º Inumação em jazigos particulares ... 250$00
+Art. 32.º Inumação em jazigos particulares ... 250$00
 
-###### Art. 33.º Inumação em jazigos municipais e sua ocupação:
+Art. 33.º Inumação em jazigos municipais e sua ocupação:
 
 1) Por cada período de um ano ou fracção:
 
@@ -585,21 +630,21 @@ a) Em compartimentos do 1.º e 2.º pisos ... 7000$00
 
 b) Idem de outros pisos ... 5000$00
 
-###### Art. 34.º Exumação - por cada ossada, incluindo limpeza e transladação dentro do cemitério ... 150$00
+Art. 34.º Exumação - por cada ossada, incluindo limpeza e transladação dentro do cemitério ... 150$00
 
-###### Art. 35.º Ocupação de ossários municipais - cada ossada:
+Art. 35.º Ocupação de ossários municipais - cada ossada:
 
 1) Por cada período de um ano ou fracção ... 60$00
 
 2) Com carácter de perpetuidade ... 3000$00
 
-###### Art. 36.º Depósito transitório de caixões:
+Art. 36.º Depósito transitório de caixões:
 
 1) Pelo período de vinte e quatro horas ou fracção ... 30$00
 
 2) Pelo período de quinze dias ou fracção, para efeito de obras ... 50$00
 
-###### Art. 37.º Concessão de terrenos:
+Art. 37.º Concessão de terrenos:
 
 1) Para sepultura perpétua ... 3000$00
 
@@ -617,7 +662,7 @@ O sétimo metro quadrado ... 2000$00
 
 Cada metro quadrado ou fracção a mais ... 4000$00
 
-###### Art. 38.º Tratamento de sepulturas e sinais funerários:
+Art. 38.º Tratamento de sepulturas e sinais funerários:
 
 1) Ajardinamento de sepulturas:
 
@@ -649,7 +694,7 @@ b) Em cantaria ... 500$0
 
 6) Colocação de floreira em sepultura revestida ... 50$00
 
-###### Art. 39.º Utilização da capela e sua decoração:
+Art. 39.º Utilização da capela e sua decoração:
 
 1) Utilização da capela, incluindo banqueta, tarima e tocheiros ... 40$00
 
@@ -657,7 +702,7 @@ b) Em cantaria ... 500$0
 
 3) Utilização de paramentos e guisamentos da câmara, para missa ... 30$00
 
-###### Art. 40.º Serviços diversos:
+Art. 40.º Serviços diversos:
 
 ... Máximos
 
@@ -703,7 +748,7 @@ Observações:
 
 #### SECÇÃO II — Licenças
 
-###### Art. 41.º Obras em jazigos e sepulturas perpétuas ou prorrogação do prazo para a execução de obras determinadas pela câmara:
+Art. 41.º Obras em jazigos e sepulturas perpétuas ou prorrogação do prazo para a execução de obras determinadas pela câmara:
 
 Aplicam-se as taxas e normas fixadas no capítulo «Obras».
 
@@ -717,7 +762,7 @@ Aproveitamento de bens destinados a utilização do público
 
 Taxas
 
-###### Art. 42.º Parques de estacionamento de viaturas:
+Art. 42.º Parques de estacionamento de viaturas:
 
 ... Máximos
 
@@ -725,7 +770,7 @@ a) Pelo período de quatro horas ou fracção ... 2$00
 
 b) Pelo período de vinte e quatro horas, com início às 2 horas ... 5$00
 
-###### Art. 43.º Apascentação de gado - por animal e por ano:
+Art. 43.º Apascentação de gado - por animal e por ano:
 
 ... Máximos
 
@@ -741,11 +786,11 @@ e) Suínos ... $50
 
 Nota. - Não são devidas taxas pela apascentação das crias.
 
-###### Art. 44.º Entradas em museus e locais vedados destinados ao conforto, comodidade ou recreio do público:
+Art. 44.º Entradas em museus e locais vedados destinados ao conforto, comodidade ou recreio do público:
 
 A fixar pelas câmaras.
 
-###### Art. 45.º Utilização de terrenos de jardins e outros que não sejam considerados via pública:
+Art. 45.º Utilização de terrenos de jardins e outros que não sejam considerados via pública:
 
 A fixar pelas câmaras segundo a utilidade prestada, a localização dos terrenos e outras razões de interesse público.
 
@@ -761,7 +806,7 @@ Ocupação da via pública
 
 Licenças
 
-###### Art. 46.º Ocupação do espaço aéreo da via pública:
+Art. 46.º Ocupação do espaço aéreo da via pública:
 
 ... Máximos
 
@@ -789,7 +834,7 @@ b) De mais de 1 m de avanço ... 60$00
 
 8) Passarelas e outras construções ou ocupações do espaço aéreo - por metro quadrado ou fracção de projecção sobre a via pública e por ano ... 100$00
 
-###### Art. 47.º Construções ou instalações especiais no solo ou no subsolo:
+Art. 47.º Construções ou instalações especiais no solo ou no subsolo:
 
 1) Construções ou instalações provisórias por motivo de festejos ou outras celebrações ou para exercício de comércio ou indústria - por metro quadrado ou fracção:
 
@@ -811,7 +856,7 @@ b) Por cada metro cúbico a mais ou fracção ... 100$00
 
 5) Pavilhões, quiosques ou outras construções não incluídas nos números anteriores - por metro quadrado ou fracção e por mês ... 600$00
 
-###### Art. 48.º Ocupações diversas:
+Art. 48.º Ocupações diversas:
 
 1) Postes e marcos - por cada um:
 
@@ -863,7 +908,7 @@ Instalações abastecedoras de carburantes líquidos, ar e água
 
 Licenças
 
-###### Art. 49.º Bombas de carburantes líquidos - por cada uma e por ano:
+Art. 49.º Bombas de carburantes líquidos - por cada uma e por ano:
 
 ... Máximos
 
@@ -875,7 +920,7 @@ c) Instaladas em propriedade particular mas com depósito na via pública ... 25
 
 d) Instaladas inteiramente em propriedade particular mas abastecendo na via pública ... 1000$00
 
-###### Art. 50.º Bombas de ar ou de água - por cada uma e por ano:
+Art. 50.º Bombas de ar ou de água - por cada uma e por ano:
 
 ... Máximos
 
@@ -887,9 +932,9 @@ c) Instaladas em propriedade particular mas com depósito ou compressor na via p
 
 d) Instaladas inteiramente em propriedade particular mas abastecendo na via pública ... 400$00
 
-###### Art. 51.º Bombas volantes, abastecendo na via pública - por cada uma e por ano ... 1000$00
+Art. 51.º Bombas volantes, abastecendo na via pública - por cada uma e por ano ... 1000$00
 
-###### Art. 52.º Tomadas de ar instaladas noutras bombas - por cada uma e por ano:
+Art. 52.º Tomadas de ar instaladas noutras bombas - por cada uma e por ano:
 
 a) Com o compressor saliente na via pública ... 600$00
 
@@ -897,7 +942,7 @@ b) Com o compressor ocupando apenas o subsolo da via pública ... 500$00
 
 c) Com o compressor em propriedade particular ou dentro de qualquer bomba, mas abastecendo na via pública ... 300$00
 
-###### Art. 53.º Tomadas de água, abastecendo na via pública - por cada uma e por ano ... 300$00
+Art. 53.º Tomadas de água, abastecendo na via pública - por cada uma e por ano ... 300$00
 
 Observações:
 
@@ -921,7 +966,7 @@ Condução e trânsito de animais ou veículos
 
 #### SECÇÃO I — Licenças
 
-###### Art. 54.º De condução (por uma só vez):
+Art. 54.º De condução (por uma só vez):
 
 ... Taxas fixas
 
@@ -929,7 +974,7 @@ Condução e trânsito de animais ou veículos
 
 2) De carros de tracção eléctrica, que circulem nas vias públicas ... 100$00
 
-###### Art. 55.º De trânsito de animais ou veículos matriculados nos concelhos onde não seja devido imposto de trânsito - por ano e por cada um:
+Art. 55.º De trânsito de animais ou veículos matriculados nos concelhos onde não seja devido imposto de trânsito - por ano e por cada um:
 
 1) Animais de carga ou sela ... 40$00
 
@@ -963,7 +1008,7 @@ b) Os veículos pertencentes a pessoas mutiladas ou aleijadas quando utilizados 
 
 #### SECÇÃO II — Taxas
 
-###### Art. 56.º Matrícula, incluindo o custo do livrete - por uma só vez:
+Art. 56.º Matrícula, incluindo o custo do livrete - por uma só vez:
 
 ... Máximos
 
@@ -971,7 +1016,7 @@ b) Os veículos pertencentes a pessoas mutiladas ou aleijadas quando utilizados 
 
 2) De veículos de tracção animal ... 20$00
 
-###### Art. 57.º Chapas de identificação - cada uma:
+Art. 57.º Chapas de identificação - cada uma:
 
 1) De velocípedes ... 12$50
 
@@ -993,7 +1038,7 @@ Publicidade
 
 Licenças
 
-###### Art. 58.º Anúncios luminosos - por metro quadrado ou fracção e por ano:
+Art. 58.º Anúncios luminosos - por metro quadrado ou fracção e por ano:
 
 ... Máximos
 
@@ -1001,23 +1046,23 @@ a) Instalação e licença no primeiro ano ... 30$00
 
 b) Renovação das licenças ... 10$00
 
-###### Art. 59.º Frisos luminosos, quando sejam complementares dos anúncios e não entrem na sua medição - por metro linear ou fracção e por ano ... 2$00
+Art. 59.º Frisos luminosos, quando sejam complementares dos anúncios e não entrem na sua medição - por metro linear ou fracção e por ano ... 2$00
 
-###### Art. 60.º Bandeiras de leilão - por cada uma e por mês ... 40$00
+Art. 60.º Bandeiras de leilão - por cada uma e por mês ... 40$00
 
-###### Art. 61.º Exposição no exterior dos estabelecimentos ou dos prédios onde aqueles se encontram:
+Art. 61.º Exposição no exterior dos estabelecimentos ou dos prédios onde aqueles se encontram:
 
 a) De jornais, revistas ou livros - por metro quadrado ou fracção e por ano ... 100$00
 
 b) De fazendas e de outros objectos - por metro quadrado ou fracção e por ano ... 200$00
 
-###### Art. 62.º Publicidade nos transportes colectivos - por metro quadrado ou fracção e por ano:
+Art. 62.º Publicidade nos transportes colectivos - por metro quadrado ou fracção e por ano:
 
 a) No exterior ... 60$00
 
 b) No interior, mas destinada a ser visível da via pública ... 30$00
 
-###### Art. 63.º Aparelhos de rádio ou televisão, altifalantes ou outros aparelhos sonoros, fazendo emissões directas, com fins publicitários, na ou para a via pública:
+Art. 63.º Aparelhos de rádio ou televisão, altifalantes ou outros aparelhos sonoros, fazendo emissões directas, com fins publicitários, na ou para a via pública:
 
 a) Por semana ... 50$00
 
@@ -1025,9 +1070,9 @@ b) Por mês ... 150$00
 
 c) Por ano ... 1000$00
 
-###### Art. 64.º Placas de proibição de afixação de anúncios - por cada uma e por ano ... 30$00
+Art. 64.º Placas de proibição de afixação de anúncios - por cada uma e por ano ... 30$00
 
-###### Art. 65.º Exibição transitória de publicidade em carro, avião ou por qualquer outra forma - por cada anúncio ou reclamo:
+Art. 65.º Exibição transitória de publicidade em carro, avião ou por qualquer outra forma - por cada anúncio ou reclamo:
 
 ... Máximos
 
@@ -1035,7 +1080,7 @@ a) Por dia ... 30$00
 
 b) Por semana ... 100$00
 
-###### Art. 66.º Cartazes (de papel ou tela), a afixar nas vedações, tapumes, muros, paredes e locais semelhantes, confinando com a via pública, onde não haja o indicativo de ser proibida aquela afixação:
+Art. 66.º Cartazes (de papel ou tela), a afixar nas vedações, tapumes, muros, paredes e locais semelhantes, confinando com a via pública, onde não haja o indicativo de ser proibida aquela afixação:
 
 a) Em exclusivo - por concessão mediante concurso público;
 
@@ -1045,15 +1090,15 @@ b) Não havendo exclusivo - por cartaz e por mês:
 
 2) Por cada metro quadrado além de dois ... 5$00
 
-###### Art. 67.º Distribuição de impressos publicitários na via pública:
+Art. 67.º Distribuição de impressos publicitários na via pública:
 
 a) Concessão de exclusivo - por concurso público;
 
 b) Não havendo exclusivo - por dia ... 50$00
 
-###### Art. 68.º Vitrinas, mostradores e semelhantes, em lugar que enteste com a via pública - por metro quadrado ou fracção e por ano ... 60$00
+Art. 68.º Vitrinas, mostradores e semelhantes, em lugar que enteste com a via pública - por metro quadrado ou fracção e por ano ... 60$00
 
-###### Art. 69.º Publicidade de espectáculos públicos e outra, não incluída nos artigos anteriores:
+Art. 69.º Publicidade de espectáculos públicos e outra, não incluída nos artigos anteriores:
 
 1) Sendo mensurável em superfície - por metro quadrado ou fracção da área incluída na moldura ou num polígono rectangular envolvente da superfície publicitária:
 
@@ -1115,11 +1160,11 @@ Matadouros e frigoríficos
 
 Taxas
 
-###### Art. 70.º Utilização de matadouro:
+Art. 70.º Utilização de matadouro:
 
 Matança, inspecção e preparação de reses. As taxas constantes de portaria dos Ministros do Interior e Economia.
 
-###### Art. 71.º Preparação de miudezas:
+Art. 71.º Preparação de miudezas:
 
 Pela preparação das miudezas dos seguintes animais, exceptuando os produtos com industrialização especial:
 
@@ -1131,7 +1176,7 @@ b) De ovinos e caprinos - cada um ... $80
 
 c) De suínos e equídeos - cada um ... 1$00
 
-###### Art. 72.º Industrialização:
+Art. 72.º Industrialização:
 
 1) Salga de peles - por cada pele:
 
@@ -1177,7 +1222,7 @@ b) Industriais ... 1$00
 
 Taxas a fixar pelas câmaras.
 
-###### Art. 73.º Armazenagem e conservação de produtos industrializados:
+Art. 73.º Armazenagem e conservação de produtos industrializados:
 
 Armazenagem além do período destinado à industrialização - por cada período de quatro semanas ou fracção, sobre a taxa de industrialização:
 
@@ -1185,7 +1230,7 @@ a) O primeiro período ... 25%
 
 b) Cada período a mais ... 5%
 
-###### Art. 74.º Reinspecção de animais rejeitados em vida ou reprovados após o abate:
+Art. 74.º Reinspecção de animais rejeitados em vida ou reprovados após o abate:
 
 ... Máximos
 
@@ -1195,7 +1240,7 @@ b) De bovinos adolescentes e suínos ... 60$00
 
 c) De ovinos e caprinos ... 20$00
 
-###### Art. 75.º Admissão de gado fora do horário normal - por animal:
+Art. 75.º Admissão de gado fora do horário normal - por animal:
 
 a) De bovinos adultos e equídeos ... 5$00
 
@@ -1203,7 +1248,7 @@ b) De bovinos adolescentes e suínos ... 3$00
 
 c) De ovinos e caprinos ... $60
 
-###### Art. 76.º Tratamento de gado - por animal e por dia:
+Art. 76.º Tratamento de gado - por animal e por dia:
 
 a) De bovinos adultos e equídeos ... 2$50
 
@@ -1213,11 +1258,11 @@ c) De ovinos e caprinos ... $50
 
 Nota. - Acresce a estas taxas o reembolso do custo da alimentação, a cobrar conforme a despesa realizada.
 
-###### Art. 77.º Sobretaxa para a construção e equipamento de matadouros:
+Art. 77.º Sobretaxa para a construção e equipamento de matadouros:
 
 Para o matadouro de Lisboa a sobretaxa é de $20 por quilograma de carne abatida, e para os matadouros dos demais concelhos, a que for fixada pelo Governo em portaria.
 
-###### Art. 78.º Utilização de frigorífico, de veículos de transporte de produtos alimentares e de outros serviços municipais, incluindo inscrições e fornecimento de cartões de identificação:
+Art. 78.º Utilização de frigorífico, de veículos de transporte de produtos alimentares e de outros serviços municipais, incluindo inscrições e fornecimento de cartões de identificação:
 
 Taxas a fixar pelas câmaras.
 
@@ -1257,7 +1302,7 @@ Taxas
 
 #### SECÇÃO I — Ocupação
 
-###### Art. 79.º Venda a retalho:
+Art. 79.º Venda a retalho:
 
 ... Máximos
 
@@ -1295,7 +1340,7 @@ g) Crias ... $50
 
 E) Outras áreas de terrado, quando não haja arruamentos próprios do mercado ou feira - por metro quadrado e por dia ... 6$00
 
-###### Art. 80.º Venda por grosso:
+Art. 80.º Venda por grosso:
 
 1) Em lote ou processo semelhante:
 
@@ -1303,21 +1348,21 @@ Taxa a fixar sobre o valor da venda diária ... 3%
 
 2) Por outro processo de venda - por metro quadrado e por dia ... 15$00
 
-###### Art. 81.º Local privativo para depósito e armazenagem - por metro quadrado e por dia ... 1$50
+Art. 81.º Local privativo para depósito e armazenagem - por metro quadrado e por dia ... 1$50
 
-###### Art. 82.º Local privativo, para manutenção, preparação e acondicionamento de produtos - por metro quadrado e por dia:
+Art. 82.º Local privativo, para manutenção, preparação e acondicionamento de produtos - por metro quadrado e por dia:
 
 1) Em recinto fechado ... 5$00
 
 2) No terrado ... 3$00
 
-###### Art. 83.º Outras instalações especiais - por metro quadrado:
+Art. 83.º Outras instalações especiais - por metro quadrado:
 
 1) Por dia ... 10$00
 
 2) Por mês ... 120$00
 
-###### Art. 84.º Entrada de volumes, quando sobre eles não incida a taxa de ocupação referida nos artigos anteriores - por cada um ... 5$00
+Art. 84.º Entrada de volumes, quando sobre eles não incida a taxa de ocupação referida nos artigos anteriores - por cada um ... 5$00
 
 Observações:
 
@@ -1335,7 +1380,7 @@ Observações:
 
 #### SECÇÃO II — Actividades em mercados
 
-###### Art. 85.º Pelo exercício das seguintes actividades:
+Art. 85.º Pelo exercício das seguintes actividades:
 
 ... Máximos
 
@@ -1377,7 +1422,7 @@ As taxas das alíneas b) podem ser graduadas segundo a natureza e a categoria do
 
 #### SECÇÃO III — Diversos
 
-###### Art. 86.º Arrecadação em armazéns ou depósitos comuns dos mercados ou feiras - cada volume:
+Art. 86.º Arrecadação em armazéns ou depósitos comuns dos mercados ou feiras - cada volume:
 
 ... Máximos
 
@@ -1387,11 +1432,11 @@ Por semana ... 10$00
 
 Por mês ... 30$00
 
-###### Art. 87.º Manutenção e guarda de volumes ou taras deixadas nos lugares de terrado desde a hora do fecho de mercado ou feira até à sua abertura - por volume e por dia ... 2$00
+Art. 87.º Manutenção e guarda de volumes ou taras deixadas nos lugares de terrado desde a hora do fecho de mercado ou feira até à sua abertura - por volume e por dia ... 2$00
 
-###### Art. 88.º Estacionamento nos mercados ou feiras dos veículos de transporte, quando haja parque ou recinto próprio - por cada período de doze horas ou fracção e por veículo ... 3$00
+Art. 88.º Estacionamento nos mercados ou feiras dos veículos de transporte, quando haja parque ou recinto próprio - por cada período de doze horas ou fracção e por veículo ... 3$00
 
-###### Art. 89.º Utilização de materiais e outros artigos municipais, quando não incluídos na taxa de ocupação:
+Art. 89.º Utilização de materiais e outros artigos municipais, quando não incluídos na taxa de ocupação:
 
 1) Balanças - por cada pesagem:
 
@@ -1403,7 +1448,7 @@ b) Noutras balanças ... 1$00
 
 3) Outros utensílios, materiais e artigos municipais - por unidade e por dia, até ... 7$00
 
-###### Art. 90.º Outras taxas:
+Art. 90.º Outras taxas:
 
 A fixar pelas câmaras.
 
@@ -1443,17 +1488,17 @@ Diversos
 
 ... Máximos
 
-###### Art. 91.º Guarda de mobiliário, utensílios, etc., em local reservado do município - por metro quadrado ocupado e por dia ou fracção ... 3$00
+Art. 91.º Guarda de mobiliário, utensílios, etc., em local reservado do município - por metro quadrado ocupado e por dia ou fracção ... 3$00
 
-###### Art. 92.º Fornecimento de plantas topográficas ou outras:
+Art. 92.º Fornecimento de plantas topográficas ou outras:
 
 A fixar pelas câmaras.
 
-###### Art. 93.º Ajardinamento de logradouros comuns às edificações vizinhas e sua conservação:
+Art. 93.º Ajardinamento de logradouros comuns às edificações vizinhas e sua conservação:
 
 A fixar pelas câmaras, não podendo exceder 2 por cento do rendimento colectável dos prédios.
 
-###### Art. 94.º Vistorias não incluídas noutros capítulos da tabela:
+Art. 94.º Vistorias não incluídas noutros capítulos da tabela:
 
 1) A utensílios ou veículos usados no transporte ou no exercício de profissão, comércio ou indústria na via pública, para verificação das condições de salubridade ou outras, em cumprimento das disposições legais ou regulamentares - por vistoria:
 
@@ -1475,7 +1520,7 @@ Observações:
 
 #### SECÇÃO II — Licenças
 
-###### Art. 95.º Licenças policiais não especificadas na tabela:
+Art. 95.º Licenças policiais não especificadas na tabela:
 
 Taxas a fixar pelas câmaras.
 

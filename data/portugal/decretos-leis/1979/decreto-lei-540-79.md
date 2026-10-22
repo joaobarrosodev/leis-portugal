@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1979, 11º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 11º Suplemento
+  supplement: null
   pages: 3478-(282) a 3478-(292)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6389609454b32c9c5c3d7ebb459b7487d5a477cda0b9006ece8c9fe848ef909
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff5a3dc5025f36802170535f4cb0eb624ff27a88f008b78f3c04031dc004a6e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Ensino Particular e Cooperativo
+- Inspecção Geral do Ensino
+- Ministério da Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549377:por
+  label: "Extinta a Direcção Geral do Ensino Particular e Cooperativo, pelo DR.30/89.1989.10.20.ME, DR.IS [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-1989-549377
+  date: '1989-10-20'
+- type: amended_by
+  target: pt:dre:621550:por
+  label: "Mantidas em vigor as disposições do presente diploma, vigentes à data da entrada em vigor do Dec Lei 271/95 de 23-Out,\
+    \ que não sejam prejudicadas pela aplicação dos artigos expressamente mantidos em vigor pelo art. 1º do Dec Lei 2/96 de\
+    \ 04-Jan, pelo DEC LEI.2/96.1996.01.04.ME, DR.IS-A [3], pelo mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1996-621550
+  date: '1996-01-04'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ART 65 PELO DEC LEI 249/83 DE 11-JUN DR.IS [133] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-06-11'
+- type: repealed_by
+  target: pt:dre:674184:por
+  label: "Revogado, a partir de 15.09.1991, à excepção das disposições contidas no capítulo IV e não anteriormente revogadas,\
+    \ bem como os arts. 57º, 60º e 63º, pelo DEC LEI.304/91.16.08.1991.ME, DR.IS-A [187] de 16.08.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1991-674184
+  date: '1991-08-16'
+- type: repealed_by
+  target: pt:dre:668484:por
+  label: "Revogadas todas as disposições do presente diploma que tenham sido mantidas por legislação posterior, pelo DEC LEI.271/95.1995.10.23.ME,\
+    \ DR.IS-A [245], sem prejuízo do disposto no art. 38º deste último diploma\0ma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-1995-668484
+  date: '1995-10-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:05Z'
   warnings: []
   errors: []
 ---
@@ -135,9 +210,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Das atribuições e competências
 
-###### Artigo 1.º É criada a Inspecção-Geral de Ensino, do Ministério da Educação, a seguir designada por Inspecção-Geral, dotada de autonomia administrativa.
+Artigo 1.º É criada a Inspecção-Geral de Ensino, do Ministério da Educação, a seguir designada por Inspecção-Geral, dotada de autonomia administrativa.
 
-###### Art. 2.º A Inspecção-Geral é um serviço de contrôle pedagógico, administrativo-financeiro e disciplinar no subsistema do ensino não superior, competindo-lhe essencialmente:
+Art. 2.º A Inspecção-Geral é um serviço de contrôle pedagógico, administrativo-financeiro e disciplinar no subsistema do ensino não superior, competindo-lhe essencialmente:
 
 a) Verificar e assegurar o cumprimento das disposições legais e das orientações definidas superiormente;
 
@@ -149,7 +224,7 @@ d) Superintender na classificação do serviço do pessoal não discente;
 
 e) Exercer a acção disciplinar que se mostrar indispensável ou lhe for determinada.
 
-###### Art. 3.º Na prossecução das competências referidas no artigo anterior, incumbe especialmente à Inspecção-Geral:
+Art. 3.º Na prossecução das competências referidas no artigo anterior, incumbe especialmente à Inspecção-Geral:
 
 a) Acompanhar com regularidade o funcionamento dos serviços regionais e dos estabelecimentos de ensino do subsistema, velando pela qualidade do ensino e pela eficiência administrativa;
 
@@ -175,11 +250,11 @@ l) Assegurar a recolha de informações e dados sistemáticos sobre a actuação
 
 m) Corrigir e superar, com prontidão, deficiências e anomalias pontuais, intervindo disciplinarmente sempre que se mostrar indispensável ou lhe for determinado.
 
-###### Art. 4.º A Inspecção-Geral poderá prestar apoio técnico aos restantes órgãos dos serviços centrais do Ministério da Educação não afectos ao ensino não superior sempre que tal seja determinado por despacho do Ministro da Educação.
+Art. 4.º A Inspecção-Geral poderá prestar apoio técnico aos restantes órgãos dos serviços centrais do Ministério da Educação não afectos ao ensino não superior sempre que tal seja determinado por despacho do Ministro da Educação.
 
-###### Art. 5.º Para o cabal exercício das suas funções, a Inspecção-Geral estabelecerá a conveniente articulação com os órgãos e serviços centrais, nomeadamente os de concepção e os de execução no subsistema de ensino não superior, de modo a dispor, a todo o tempo, da documentação, informação e orientação deles dimanada nos sectores da sua actividade.
+Art. 5.º Para o cabal exercício das suas funções, a Inspecção-Geral estabelecerá a conveniente articulação com os órgãos e serviços centrais, nomeadamente os de concepção e os de execução no subsistema de ensino não superior, de modo a dispor, a todo o tempo, da documentação, informação e orientação deles dimanada nos sectores da sua actividade.
 
-###### Art. 6.º - 1 - A Inspecção-Geral é dirigida pelo inspector-geral, ao qual compete:
+Art. 6.º - 1 - A Inspecção-Geral é dirigida pelo inspector-geral, ao qual compete:
 
 a) Superintender em toda a actividade da Inspecção-Geral, submetendo a despacho ministerial os assuntos que careçam de decisão superior;
 
@@ -205,9 +280,9 @@ h) Representar a Inspecção-Geral.
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
-###### Art. 7.º A Inspecção-Geral compreende um Departamento Central, delegações regionais e subdelegações regionais.
+Art. 7.º A Inspecção-Geral compreende um Departamento Central, delegações regionais e subdelegações regionais.
 
-###### Art. 8.º - 1 - O Departamento Central é constituído pelos seguintes órgãos e serviços:
+Art. 8.º - 1 - O Departamento Central é constituído pelos seguintes órgãos e serviços:
 
 a) Conselho coordenador;
 
@@ -223,7 +298,7 @@ f) Repartição Administrativa.
 
 2 - A Inspecção-Geral dispõe ainda do conselho administrativo.
 
-###### Art. 9.º - 1 - O conselho coordenador é um órgão consultivo e de apoio técnico ao inspector-geral.
+Art. 9.º - 1 - O conselho coordenador é um órgão consultivo e de apoio técnico ao inspector-geral.
 
 2 - O conselho coordenador tem a seguinte constituição:
 
@@ -237,7 +312,7 @@ c) Os inspectores-coordenadores-chefes das delegações regionais.
 
 4 - O conselho coordenador reunirá em plenário uma vez por trimestre e extraordinariamente sempre que o inspector-geral o julgar conveniente.
 
-###### Art. 10.º Compete ao conselho coordenador:
+Art. 10.º Compete ao conselho coordenador:
 
 a) Assistir ao inspector-geral na elaboração do plano anual de actividades, assegurando a conveniente articulação entre os sectores de actividade da Inspecção-Geral;
 
@@ -255,9 +330,9 @@ g) Dar parecer sobre os processos de inquérito, sindicância ou disciplinares q
 
 h) Propor as formas de articulação com os restantes órgãos e serviços centrais do Ministério da Educação.
 
-###### Art. 11.º As inspecções referidas nas alíneas b), c) e d) do artigo 8.º são dirigidas por subinspectores-gerais.
+Art. 11.º As inspecções referidas nas alíneas b), c) e d) do artigo 8.º são dirigidas por subinspectores-gerais.
 
-###### Art. 12.º Para cumprimento das atribuições referidas nos artigos 2.º e 3.º, incumbe à Inspecção para o Contrôle Pedagógico:
+Art. 12.º Para cumprimento das atribuições referidas nos artigos 2.º e 3.º, incumbe à Inspecção para o Contrôle Pedagógico:
 
 a) Velar pela qualidade do ensino;
 
@@ -277,7 +352,7 @@ h) Propor a realização de acções de informação e de formação que visem a
 
 i) Propor a classificação de serviço do pessoal docente.
 
-###### Art. 13.º Para cumprimento das atribuições que lhe são conferidas pelos artigos 2.º e 3.º, incumbe à Inspecção para o Contrôle das Actividades Administrativo-Financeiras:
+Art. 13.º Para cumprimento das atribuições que lhe são conferidas pelos artigos 2.º e 3.º, incumbe à Inspecção para o Contrôle das Actividades Administrativo-Financeiras:
 
 a) Velar pela eficiência da gestão administrativa e financeira dos estabelecimentos de ensino e dos órgãos e serviços regionais do Ministério da Educação;
 
@@ -289,7 +364,7 @@ d) Propor a realização de acções de informação e formação do pessoal adm
 
 e) Garantir a recepção atempada por parte dos estabelecimentos de ensino das informações dos serviços centrais no âmbito do seu sector de actividade.
 
-###### Art. 14.º Para cumprimento das atribuições que lhe são conferidas pelos artigos 2.º e 3.º, incumbe especificadamente à Inspecção para o Contrôle Disciplinar:
+Art. 14.º Para cumprimento das atribuições que lhe são conferidas pelos artigos 2.º e 3.º, incumbe especificadamente à Inspecção para o Contrôle Disciplinar:
 
 a) Instruir os processos disciplinares que lhe forem cometidos;
 
@@ -297,25 +372,25 @@ b) Instruir os processos de inquérito e de sindicância que lhe tenham sido com
 
 c) Executar quaisquer outras acções de natureza disciplinar que lhe tenham sido determinadas por despacho ministerial ou por despacho do director-geral.
 
-###### Art. 15.º - 1 - A Inspecção-Geral organiza-se regionalmente em delegações e subdelegações, de modo a assegurar a conveniente desconcentração das suas atribuições.
+Art. 15.º - 1 - A Inspecção-Geral organiza-se regionalmente em delegações e subdelegações, de modo a assegurar a conveniente desconcentração das suas atribuições.
 
 2 - A estrutura das delegações regionais integra os sectores de actividades referidas nas alíneas b) a e) do n.º 1 do artigo 8.º
 
 3 - As atribuições das delegações e subdelegações regionais e o âmbito territorial da sua actividade serão definidos em portaria do Ministro da Educação.
 
-###### Art. 16.º - 1 - São desde já criadas as Delegações do Norte, Centro e Sul, com sede, respectivamente, no Porto, em Coimbra e em Évora.
+Art. 16.º - 1 - São desde já criadas as Delegações do Norte, Centro e Sul, com sede, respectivamente, no Porto, em Coimbra e em Évora.
 
 2 - A criação de novas delegações e de subdelegações far-se-á por portaria dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
 3 - A portaria referida no número anterior definirá, igualmente, a orgânica das subdelegações.
 
-###### Art. 17.º - 1 - As delegações regionais são dirigidas por inspectores-coordenadores-chefes.
+Art. 17.º - 1 - As delegações regionais são dirigidas por inspectores-coordenadores-chefes.
 
 2 - As delegações regionais dependerão do subinspector-geral, para o efeito designado por despacho do inspector-geral.
 
-###### Art. 18.º O inspector-geral poderá determinar que, para a realização de missões específicas, sejam constituídas equipas de inspectores de vários sectores, bem como autorizar que inspectores de um sector de actividade colaborem temporariamente em acções de inspecção que visem funcionários, serviços ou estabelecimentos de outros sectores.
+Art. 18.º O inspector-geral poderá determinar que, para a realização de missões específicas, sejam constituídas equipas de inspectores de vários sectores, bem como autorizar que inspectores de um sector de actividade colaborem temporariamente em acções de inspecção que visem funcionários, serviços ou estabelecimentos de outros sectores.
 
-###### Art. 19.º A Repartição Administrativa depende directamente do inspector-geral, competindo-lhe:
+Art. 19.º A Repartição Administrativa depende directamente do inspector-geral, competindo-lhe:
 
 a) Assegurar a gestão administrativa dos recursos humanos e todas as acções relativas a pessoal;
 
@@ -327,17 +402,17 @@ d) Promover, em colaboração com os restantes serviços da Inspecção-Geral, a
 
 e) Preparar a conta de gerência, nos termos e prazos legais, a fim de ser submetida à aprovação do conselho administrativo.
 
-###### Art. 20.º Em cada uma das delegações funciona uma secção administrativa hierarquicamente dependente da Repartição Administrativa e funcionalmente do inspector-coordenador-chefe.
+Art. 20.º Em cada uma das delegações funciona uma secção administrativa hierarquicamente dependente da Repartição Administrativa e funcionalmente do inspector-coordenador-chefe.
 
-###### Art. 21.º - 1 - O Gabinete Jurídico, que depende directamente do inspector-geral, presta apoio técnico especializado à Inspecção-Geral e compete-lhe emitir parecer sobre todos os processos disciplinares instruídos no âmbito da Inspecção-Geral quando não envolvam a aplicação de penas de competência ministerial não delegada, dispensando-se naqueles casos o parecer previsto nos n.os 3 e 4 do artigo 64.º do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
+Art. 21.º - 1 - O Gabinete Jurídico, que depende directamente do inspector-geral, presta apoio técnico especializado à Inspecção-Geral e compete-lhe emitir parecer sobre todos os processos disciplinares instruídos no âmbito da Inspecção-Geral quando não envolvam a aplicação de penas de competência ministerial não delegada, dispensando-se naqueles casos o parecer previsto nos n.os 3 e 4 do artigo 64.º do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
 
 2 - O disposto no número anterior não prejudica que, por despacho ministerial, seja consultada a Auditoria Jurídica do Ministério da Educação.
 
-###### Art. 22.º - 1 - O Gabinete Jurídico será dirigido por um director de serviços, obrigatoriamente licenciado em Direito e de reconhecida competência.
+Art. 22.º - 1 - O Gabinete Jurídico será dirigido por um director de serviços, obrigatoriamente licenciado em Direito e de reconhecida competência.
 
 2 - O inspector-geral destacará para cada uma das delegações, sob proposta do director do Gabinete, pelo menos, dois técnicos juristas, para prestarem o respectivo apoio.
 
-###### Art. 23.º - 1 - O conselho administrativo é constituído por um presidente, que será o inspector-geral, e por dois vogais.
+Art. 23.º - 1 - O conselho administrativo é constituído por um presidente, que será o inspector-geral, e por dois vogais.
 
 2 - Um vogal será designado pelo inspector-geral, por rotação anual, de entre os subinspectores-gerais, sendo o restante vogal o chefe da Repartição Administrativa.
 
@@ -345,7 +420,7 @@ e) Preparar a conta de gerência, nos termos e prazos legais, a fim de ser subme
 
 4 - O conselho administrativo terá ainda como secretário, sem direito a voto, um funcionário da Repartição Administrativa, a designar pelo inspector-geral, sob proposta do chefe de repartição.
 
-###### Art. 24.º - 1 - O conselho administrativo reunirá obrigatoriamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente.
+Art. 24.º - 1 - O conselho administrativo reunirá obrigatoriamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente.
 
 2 - Compete ao conselho administrativo:
 
@@ -367,51 +442,51 @@ h) Propor anualmente a constituição de fundos permanentes.
 
 3 - As sessões são convocadas pelo presidente com, pelo menos, quarenta e oito horas de antecedência.
 
-###### Art. 25.º - 1 - As deliberações do conselho administrativo serão tomadas por maioria de votos dos membros presentes, gozando o presidente, em cano de empate, de voto de qualidade.
+Art. 25.º - 1 - As deliberações do conselho administrativo serão tomadas por maioria de votos dos membros presentes, gozando o presidente, em cano de empate, de voto de qualidade.
 
 2 - As deliberações só podem ser tomadas estando presente a maioria absoluta dos membros do conselho.
 
 3 - As deliberações e pareceres do conselho administrativo serão sempre exaradas em acta.
 
-###### Art. 26.º Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas em violação das leis ou regulamentos em vigor, salvo se não tiverem estado presentes ou se houverem feito exarar voto de vencido, devidamente fundamentado.
+Art. 26.º Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas em violação das leis ou regulamentos em vigor, salvo se não tiverem estado presentes ou se houverem feito exarar voto de vencido, devidamente fundamentado.
 
-###### Art. 27.º Serão submetidos a despacho ministerial, para efeitos de homologação, relatórios trimestrais das deliberações do conselho administrativo sobre a aplicação das verbas orçamentadas.
+Art. 27.º Serão submetidos a despacho ministerial, para efeitos de homologação, relatórios trimestrais das deliberações do conselho administrativo sobre a aplicação das verbas orçamentadas.
 
-###### Art. 28.º - 1 - O numerário da Inspecção-Geral será depositado na Caixa Geral de Depósitos e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do conselho administrativo, ou do seu substituto legal, e de um vogal do mesmo conselho.
+Art. 28.º - 1 - O numerário da Inspecção-Geral será depositado na Caixa Geral de Depósitos e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do conselho administrativo, ou do seu substituto legal, e de um vogal do mesmo conselho.
 
 2 - O conselho administrativo poderá manter em cofre um fundo de maneio para satisfação de despesas correntes, de quantitativo a fixar por despacho ministerial.
 
-###### Art. 29.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou pelo seu substituto legal, e por um vogal do mesmo conselho.
+Art. 29.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou pelo seu substituto legal, e por um vogal do mesmo conselho.
 
 ### CAPÍTULO III — Da Direcção-Geral do Ensino Particular e Cooperativo
 
-###### Art. 30.º - 1 - A Inspecção-Geral do Ensino Particular é transformada em Direcção-Geral do Ensino Particular e Cooperativo.
+Art. 30.º - 1 - A Inspecção-Geral do Ensino Particular é transformada em Direcção-Geral do Ensino Particular e Cooperativo.
 
 2 - Transitam para a Direcção-Geral do Ensino Particular e Cooperativo as funções que competiam à Inspecção-Geral do Ensino Particular, exceptuando as que passam a ser das atribuições da Inspecção-Geral e que para a mesma transitam nos termos do artigo 44.º
 
-###### Art. 31.º - 1 - Sem prejuízo do disposto no artigo 52.º e enquanto não se proceder à estruturação orgânica da Direcção-Geral do Ensino Particular e Cooperativo, mantém-se as situações de quadros e funcionais do pessoal da agora extinta Inspecção-Geral do Ensino Particular.
+Art. 31.º - 1 - Sem prejuízo do disposto no artigo 52.º e enquanto não se proceder à estruturação orgânica da Direcção-Geral do Ensino Particular e Cooperativo, mantém-se as situações de quadros e funcionais do pessoal da agora extinta Inspecção-Geral do Ensino Particular.
 
 2 - É criado o lugar de director-geral do Ensino Particular e Cooperativo, a prover nos termos da legislação geral.
 
 3 - Por portaria dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, proceder-se-á à adaptação dos quadros da extinta Inspecção-Geral do Ensino Particular, para efeitos da exclusiva satisfação das necessidades da Direcção-Geral do Ensino Particular e Cooperativo e até ao limite do número de lugares de quadro afectos pelo [Decreto-Lei n.º 47/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013), de 12 de Fevereiro.
 
-###### Art. 32.º A estruturação orgânica da Direcção-Geral do Ensino Particular e Cooperativo far-se-á no período em que decorrer o regime de instalação da Inspecção-Geral previsto no artigo 50.º do presente diploma.
+Art. 32.º A estruturação orgânica da Direcção-Geral do Ensino Particular e Cooperativo far-se-á no período em que decorrer o regime de instalação da Inspecção-Geral previsto no artigo 50.º do presente diploma.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 33.º - 1 - A Inspecção-Geral tem o pessoal dirigente, técnico superior e técnico constante do mapa I anexo ao presente diploma, o qual ficará a fazer parte dos quadros comuns dos serviços centrais do Ministério da Educação.
+Art. 33.º - 1 - A Inspecção-Geral tem o pessoal dirigente, técnico superior e técnico constante do mapa I anexo ao presente diploma, o qual ficará a fazer parte dos quadros comuns dos serviços centrais do Ministério da Educação.
 
 2 - A Inspecção-Geral tem ainda o pessoal técnico-profissional, administrativo e auxiliar constante dos mapas II e III anexos ao presente diploma, o qual ficará a fazer parte dos quadros comuns dos serviços centrais do Ministério da Educação.
 
 3 - Os quadros referidos nos números anteriores poderão ser alterados por portaria dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
-###### Art. 34.º - 1 - São abatidos aos quadros constantes dos Decretos-Leis n.os [44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), [45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), [47/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013), todos de 12 de Fevereiro, e [552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, os lugares de inspector superior, inspector-orientador de 1.ª classe, inspector-orientador de 2.ª classe, inspector de 1.ª classe e inspector de 2.ª classe.
+Art. 34.º - 1 - São abatidos aos quadros constantes dos Decretos-Leis n.os [44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), [45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), [47/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013), todos de 12 de Fevereiro, e [552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, os lugares de inspector superior, inspector-orientador de 1.ª classe, inspector-orientador de 2.ª classe, inspector de 1.ª classe e inspector de 2.ª classe.
 
 2 - São igualmente abatidos os lugares de inspector-geral do quadro da Secretaria-Geral do Ministério da Educação.
 
-###### Art. 35.º As formas de recrutamento e os regimes de provimento do pessoal da Inspecção-Geral serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, no Decreto n.º 20/77, de 24 de Fevereiro, e no [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, em tudo o que não estiver previsto nos artigos seguintes.
+Art. 35.º As formas de recrutamento e os regimes de provimento do pessoal da Inspecção-Geral serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, no Decreto n.º 20/77, de 24 de Fevereiro, e no [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, em tudo o que não estiver previsto nos artigos seguintes.
 
-###### Art. 36.º - 1 - O lugar de inspector-geral será provido, por escolha do Primeiro-Ministro e do Ministro da Educação, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre os funcionários que se encontrem nas condições referidas nas alíneas seguintes:
+Art. 36.º - 1 - O lugar de inspector-geral será provido, por escolha do Primeiro-Ministro e do Ministro da Educação, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre os funcionários que se encontrem nas condições referidas nas alíneas seguintes:
 
 a) Inspectores-gerais do Ministério da Educação;
 
@@ -425,7 +500,7 @@ e) Personalidades de reconhecida competência fundamentada curricularmente.
 
 2 - Os funcionários referidos no número anterior terão de possuir, pelo menos, dez anos de serviço na função docente e ou inspectiva ou no somatório de ambas.
 
-###### Art. 37.º - 1 - Os lugares de subinspector-geral serão providos por despacho do Ministro da Educação, sob proposta do inspector-geral, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre os funcionários que se encontrem nas condições referidas nas alíneas seguintes:
+Art. 37.º - 1 - Os lugares de subinspector-geral serão providos por despacho do Ministro da Educação, sob proposta do inspector-geral, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre os funcionários que se encontrem nas condições referidas nas alíneas seguintes:
 
 a) Inspectores-gerais do Ministério da Educação;
 
@@ -437,9 +512,9 @@ d) Personalidades de reconhecida competência fundamentada curricularmente.
 
 2 - Os funcionários referidos no número anterior terão de possuir, pelo menos, seis anos de serviço na função docente e ou inspectiva ou no somatório de ambas.
 
-###### Art. 38.º O lugar de director de serviços será provido por despacho do Ministro da Educação, sob proposta do inspector-geral, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953).
+Art. 38.º O lugar de director de serviços será provido por despacho do Ministro da Educação, sob proposta do inspector-geral, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953).
 
-###### Art. 39.º - 1 - Os lugares de inspecção serão providos de acordo com o estabelecido nas alíneas seguintes:
+Art. 39.º - 1 - Os lugares de inspecção serão providos de acordo com o estabelecido nas alíneas seguintes:
 
 a) Os lugares de inspector-coordenador-chefe serão providos por despacho do Ministro da Educação, por promoção dos inspectores-coordenadores com mais de três anos de efectivo serviço prestado na categoria, mediante frequência, com aprovação, de um curso específico a definir por portaria do Ministro da Educação;
 
@@ -469,13 +544,13 @@ f) Os lugares de inspector-adjunto serão providos por concurso documental de en
 
 9 - O ingresso no curso referido na alínea f) do n.º 1 far-se-á mediante concurso púbico com aviso e regulamento a publicar no Diário da República.
 
-###### Art. 40.º - 1 - Aos inspectores referidos no presente diploma é facultado o regresso à função docente.
+Art. 40.º - 1 - Aos inspectores referidos no presente diploma é facultado o regresso à função docente.
 
 2 - O regresso previsto no número anterior far-se-á na categoria docente que o inspector possuía à data do seu provimento na carreira inspectiva, considerando-se, para o efeito, não vinculado a qualquer estabelecimento de ensino ou a qualquer lugar dos quadros docentes do ensino a que respeita a sua profissionalização.
 
 3 - O serviço prestado e a prestar nas funções de inspector independentemente da sua categoria, é equiparado a serviço docente bem qualificado, para todos os efeitos legais, designadamente para graduação em concursos e integração nas fases, de acordo com a legislação vigente, relativamente aos que à data de serem providos como inspectores se encontravam no exercício de funções docentes.
 
-###### Art. 41.º - 1 - A todo o pessoal inspectivo oriundo da função docente é permitido optar entre o vencimento que lhe compete nos tempos do mapa I anexo ao presente diploma e o que lhe competiria se estivesse em exercício efectivo de funções docentes.
+Art. 41.º - 1 - A todo o pessoal inspectivo oriundo da função docente é permitido optar entre o vencimento que lhe compete nos tempos do mapa I anexo ao presente diploma e o que lhe competiria se estivesse em exercício efectivo de funções docentes.
 
 2 - Aos inspectores referidos no número anterior é concedido o direito a solicitarem a integração nas fases da carreira docente, nos termos da lei vigente, considerando-se para estes efeitos como se estivessem em exercício naquelas funções.
 
@@ -483,19 +558,19 @@ f) Os lugares de inspector-adjunto serão providos por concurso documental de en
 
 4 - Os vencimentos devidos aos inspectores em resultado da opção referida nos n.os 1 e 3 deste artigo serão abonados pela competente rubrica de vencimentos para o pessoal dos serviços centrais do orçamento do Ministério da Educação.
 
-###### Art. 42.º - 1 - Os provimentos dos lugares do quadro do pessoal técnico superior constantes do mapa I anexo a este decreto-lei recairão sempre em licenciados em Direito.
+Art. 42.º - 1 - Os provimentos dos lugares do quadro do pessoal técnico superior constantes do mapa I anexo a este decreto-lei recairão sempre em licenciados em Direito.
 
 2 - Os lugares de acesso do quadro do pessoal técnico superior serão sempre providos, sob proposta do inspector-geral, por promoção do pessoal em exercício na Inspecção-Geral.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 43.º São extintos os serviços inspectivos das Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo, bem como a Inspecção Administrativo-Financeira da Direcção-Geral de Pessoal.
+Art. 43.º São extintos os serviços inspectivos das Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo, bem como a Inspecção Administrativo-Financeira da Direcção-Geral de Pessoal.
 
-###### Art. 44.º - 1 - Transita para a Inspecção-Geral o pessoal inspectivo dos serviços referidos no artigo anterior, bem como todo o pessoal que no âmbito do Ministério da Educação exerce funções inspectivas, com as regras fixadas no artigo seguinte.
+Art. 44.º - 1 - Transita para a Inspecção-Geral o pessoal inspectivo dos serviços referidos no artigo anterior, bem como todo o pessoal que no âmbito do Ministério da Educação exerce funções inspectivas, com as regras fixadas no artigo seguinte.
 
 2 - O trânsito referido no número anterior depende de declaração de opção passada pelo interessado em papel selado e assinatura reconhecida notarialmente, excepto no que se refere ao pessoal da Inspecção Administrativo-Financeira, para o qual a transição é obrigatória.
 
-###### Art. 45.º - 1 - Independentemente da natureza do provimento que possuam os inspectores superiores das Direcções-Gerais do Ensino Básico, do Ensino Secundário e de Pessoal e da Direcção-Geral do Ensino Particular e Cooperativo em exercício de funções à data da entrada em vigor do presente diploma, poderão optar, no prazo de sessenta dias, pelo provimento definitivo no cargo de inspector-coordenador-chefe da Inspecção-Geral, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, desde que vinculados à função pública há, pelo menos, sete anos.
+Art. 45.º - 1 - Independentemente da natureza do provimento que possuam os inspectores superiores das Direcções-Gerais do Ensino Básico, do Ensino Secundário e de Pessoal e da Direcção-Geral do Ensino Particular e Cooperativo em exercício de funções à data da entrada em vigor do presente diploma, poderão optar, no prazo de sessenta dias, pelo provimento definitivo no cargo de inspector-coordenador-chefe da Inspecção-Geral, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, desde que vinculados à função pública há, pelo menos, sete anos.
 
 2 - Os inspectores superiores não abrangidos pelo número anterior e que optem pelo provimento em lugares do quadro da Inspecção-Geral serão providos, a título definitivo, no cargo de inspector-coordenador.
 
@@ -515,9 +590,9 @@ f) Os lugares de inspector-adjunto serão providos por concurso documental de en
 
 10 - Os inspectores de 1.ª classe e os inspectores de 2.ª classe são providos, a título definitivo, independentemente de quaisquer formalidades legais, salvo o visto do Tribunal de Contas, respectivamente, nos cargos de inspector principal e inspector-adjunto.
 
-###### Art. 46.º Os inspectores-gerais do Ministério da Educação providos definitivamente nesses lugares transitam, independentemente de quaisquer formalidades legais, excepto anotação do Tribunal de Contas, para idênticos lugares da Inspecção-Geral.
+Art. 46.º Os inspectores-gerais do Ministério da Educação providos definitivamente nesses lugares transitam, independentemente de quaisquer formalidades legais, excepto anotação do Tribunal de Contas, para idênticos lugares da Inspecção-Geral.
 
-###### Art. 47.º - 1 - Os inspectores providos a título definitivo ou em regime de comissão de serviço das Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo que não optarem pelo provimento nos lugares da Inspecção-Geral mantêm-se em funções nos respectivos serviços.
+Art. 47.º - 1 - Os inspectores providos a título definitivo ou em regime de comissão de serviço das Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo que não optarem pelo provimento nos lugares da Inspecção-Geral mantêm-se em funções nos respectivos serviços.
 
 2 - Para efeitos do disposto no número anterior, observar-se-á:
 
@@ -531,21 +606,21 @@ b) Os inspectores providos em regime de comissão de serviço mantêm-se, em id�
 
 5 - Enquanto não se verificar o provimento referido no número anterior, o pessoal a que se refere o n.º 2 deste artigo mantém, independentemente de todas as formalidades legais, a situação funcional que já possuía.
 
-###### Art. 48.º - 1 - Os docentes que se encontrarem à data da entrada em vigor do presente diploma em exercício de funções inspectivas e pedagógicas nas Direcções-Gerais referidas no número anterior e que não optem, nos termos dos artigos 44.º e 45.º, pelo provimento na Inspecção-Geral mantém-se em funções de orientação pedagógica em idêntico regime àquele em que já se encontravam.
+Art. 48.º - 1 - Os docentes que se encontrarem à data da entrada em vigor do presente diploma em exercício de funções inspectivas e pedagógicas nas Direcções-Gerais referidas no número anterior e que não optem, nos termos dos artigos 44.º e 45.º, pelo provimento na Inspecção-Geral mantém-se em funções de orientação pedagógica em idêntico regime àquele em que já se encontravam.
 
 2 - O disposto no número anterior aplica-se até à revisão orgânica daqueles serviços.
 
-###### Art. 49.º - 1 - O pessoal técnico superior, técnico, técnico-profissional, administrativo e auxiliar que à data da entrada em vigor do presente diploma se encontre afecto, por despacho dos respectivos directores-gerais, aos serviços inspectivos das Direcções-Gerais do Ensino Básico, do Ensino Secundário, do Ensino Particular e Cooperativo e de Pessoal pode optar pelo provimento em idênticos lugares da Inspecção-Geral.
+Art. 49.º - 1 - O pessoal técnico superior, técnico, técnico-profissional, administrativo e auxiliar que à data da entrada em vigor do presente diploma se encontre afecto, por despacho dos respectivos directores-gerais, aos serviços inspectivos das Direcções-Gerais do Ensino Básico, do Ensino Secundário, do Ensino Particular e Cooperativo e de Pessoal pode optar pelo provimento em idênticos lugares da Inspecção-Geral.
 
 2 - O provimento referido no número anterior far-se-á independentemente de quaisquer formalidades legais, excepto o visto do Tribunal de Contas.
 
 ### CAPÍTULO VI — Do regime de instalação
 
-###### Art. 50.º - 1 - Por um período de dois anos, contado a partir da entrada em vigor do presente diploma, a Inspecção-Geral considera-se em regime de instalação.
+Art. 50.º - 1 - Por um período de dois anos, contado a partir da entrada em vigor do presente diploma, a Inspecção-Geral considera-se em regime de instalação.
 
 2 - No período referido no número anterior observar-se-ão as regras estabelecidas neste capítulo.
 
-###### Art. 51.º - 1 - Sem prejuízo do disposto no artigo anterior, até ao provimento dos cargos de inspector-geral e de subinspector-geral, a Inspecção-Geral será dirigida por uma comissão instaladora constituída por um inspector-geral do Ministério da Educação, provido definitivamente nesse cargo, que presidirá, e por três inspectores superiores ou inspectores-coordenadores-chefes, desde que estes últimos já se encontrem providos, na qualidade de vogais, a constituir por despacho do Ministro da Educação.
+Art. 51.º - 1 - Sem prejuízo do disposto no artigo anterior, até ao provimento dos cargos de inspector-geral e de subinspector-geral, a Inspecção-Geral será dirigida por uma comissão instaladora constituída por um inspector-geral do Ministério da Educação, provido definitivamente nesse cargo, que presidirá, e por três inspectores superiores ou inspectores-coordenadores-chefes, desde que estes últimos já se encontrem providos, na qualidade de vogais, a constituir por despacho do Ministro da Educação.
 
 2 - As competências da comissão instaladora serão fixadas no despacho referido no número anterior.
 
@@ -555,37 +630,37 @@ a) O presidente, como inspector-geral;
 
 b) Os vogais, como subinspectores-gerais.
 
-###### Art. 52.º - 1 - No período de instalação far-se-á a transição gradual para a Inspecção-Geral das funções até agora cometidas, nos termos das respectivas leis orgânicas, aos serviços referidos no artigo 4.º e que, por força do presente diploma, passam a ser da competência exclusiva da Inspecção-Geral.
+Art. 52.º - 1 - No período de instalação far-se-á a transição gradual para a Inspecção-Geral das funções até agora cometidas, nos termos das respectivas leis orgânicas, aos serviços referidos no artigo 4.º e que, por força do presente diploma, passam a ser da competência exclusiva da Inspecção-Geral.
 
 2 - A transição referida no número anterior far-se-á por despacho do Ministro da Educação, a proferir em proposta conjunta dos serviços interessados.
 
-###### Art. 53.º O provimento, por promoção, dos lugares referidos no mapa I anexo ao presente diploma poderá efectuar-se até 50% dos lugares vagos após a aplicação do disposto no artigo 45.º, com dispensa do tempo de serviço exigido no mesmo artigo, de acordo com as necessidades do serviço.
+Art. 53.º O provimento, por promoção, dos lugares referidos no mapa I anexo ao presente diploma poderá efectuar-se até 50% dos lugares vagos após a aplicação do disposto no artigo 45.º, com dispensa do tempo de serviço exigido no mesmo artigo, de acordo com as necessidades do serviço.
 
-###### Art. 54.º - 1 - Até que os restantes 50% dos lugares referidos no número anterior sejam providos, o Ministro da Educação poderá autorizar que para o exercício de funções inspectivas sejam requisitados, nos termos do disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, professores habilitados com Exame de Estado ou equivalente.
+Art. 54.º - 1 - Até que os restantes 50% dos lugares referidos no número anterior sejam providos, o Ministro da Educação poderá autorizar que para o exercício de funções inspectivas sejam requisitados, nos termos do disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, professores habilitados com Exame de Estado ou equivalente.
 
 2 - O tempo de serviço prestado pelos professores referidos no número anterior é contado, para todos os efeitos legais, como serviço docente.
 
-###### Art. 55.º A revisão orgânica das Direcções-Gerais do Ensino Básico e do Ensino Secundário far-se-á no período em que decorrer o regime de instalação da Inspecção-Geral.
+Art. 55.º A revisão orgânica das Direcções-Gerais do Ensino Básico e do Ensino Secundário far-se-á no período em que decorrer o regime de instalação da Inspecção-Geral.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 56.º Todo o pessoal da Inspecção-Geral será afecto a cada um dos seus sectores de actividades por despacho do inspector-geral.
+Art. 56.º Todo o pessoal da Inspecção-Geral será afecto a cada um dos seus sectores de actividades por despacho do inspector-geral.
 
-###### Art. 57.º A partir da categoria de inspector principal-adjunto, inclusive, todo o pessoal inspector possui competência para instruir qualquer processo disciplinar, independentemente da categoria do arguido, desde que este se inclua no pessoal docente ou não docente.
+Art. 57.º A partir da categoria de inspector principal-adjunto, inclusive, todo o pessoal inspector possui competência para instruir qualquer processo disciplinar, independentemente da categoria do arguido, desde que este se inclua no pessoal docente ou não docente.
 
-###### Art. 58.º Ao pessoal da Inspecção-Geral é contado, para efeito do disposto no artigo 45.º, o tempo de serviço prestado como inspector ou em funções inspectivo-pedagógicas nas Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo e no Instituto de Tecnologia Educativa e ainda nos serviços de educação dos territórios de expressão portuguesa ou de orientação pedagógica no Instituto de Tecnologia Educativa.
+Art. 58.º Ao pessoal da Inspecção-Geral é contado, para efeito do disposto no artigo 45.º, o tempo de serviço prestado como inspector ou em funções inspectivo-pedagógicas nas Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo e no Instituto de Tecnologia Educativa e ainda nos serviços de educação dos territórios de expressão portuguesa ou de orientação pedagógica no Instituto de Tecnologia Educativa.
 
-###### Art. 59.º Até ao provimento dos lugares constantes dos mapas II e III, e após cumprimento do estabelecido no artigo 49.º, por despacho do Ministro da Educação poderão ser mandados prestar serviço na Inspecção-Geral funcionários dos serviços centrais ou externos, desde que haja concordância dos interessados.
+Art. 59.º Até ao provimento dos lugares constantes dos mapas II e III, e após cumprimento do estabelecido no artigo 49.º, por despacho do Ministro da Educação poderão ser mandados prestar serviço na Inspecção-Geral funcionários dos serviços centrais ou externos, desde que haja concordância dos interessados.
 
-###### Art. 60.º Podem o inspector-geral ou a comissão referida no artigo 51.º, sob proposta do subinspector-geral do sector ou do inspector superior e com a concordância dos interessados, fixar residência fora dos centros previstos neste diploma ao pessoal inspectivo, sem prejuízo da organização regional ou local e sempre que desta medida não resulte prejuízo para o Estado.
+Art. 60.º Podem o inspector-geral ou a comissão referida no artigo 51.º, sob proposta do subinspector-geral do sector ou do inspector superior e com a concordância dos interessados, fixar residência fora dos centros previstos neste diploma ao pessoal inspectivo, sem prejuízo da organização regional ou local e sempre que desta medida não resulte prejuízo para o Estado.
 
-###### Art. 61.º Transita para a Inspecção-Geral o mobiliário e equipamento das Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo distribuído ao pessoal inspector que, nos termos do presente diploma, transite para a Inspecção-Geral.
+Art. 61.º Transita para a Inspecção-Geral o mobiliário e equipamento das Direcções-Gerais do Ensino Básico, do Ensino Secundário e do Ensino Particular e Cooperativo distribuído ao pessoal inspector que, nos termos do presente diploma, transite para a Inspecção-Geral.
 
-###### Art. 62.º O regulamento da Inspecção-Geral será publicado no prazo de um ano, contado a partir da data de entrada em vigor do presente diploma.
+Art. 62.º O regulamento da Inspecção-Geral será publicado no prazo de um ano, contado a partir da data de entrada em vigor do presente diploma.
 
-###### Art. 63.º Serão atribuídos à Inspecção-Geral os meios de transporte necessários ao exercício cabal, efectivo e permanente das suas funções, competindo ao inspector-geral regulamentar a sua utilização.
+Art. 63.º Serão atribuídos à Inspecção-Geral os meios de transporte necessários ao exercício cabal, efectivo e permanente das suas funções, competindo ao inspector-geral regulamentar a sua utilização.
 
-###### Art. 64.º O presente diploma será revisto no termo do prazo de instalação previsto no artigo 50.º, devendo a sua revisão ter por base:
+Art. 64.º O presente diploma será revisto no termo do prazo de instalação previsto no artigo 50.º, devendo a sua revisão ter por base:
 
 a) A experiência colhida no período de instalação;
 
@@ -593,36 +668,36 @@ b) As necessidades de serviço suscitadas naquele período;
 
 c) A sua adaptação ao sistema de ensino que vier a ser institucionalizado pela lei das bases.
 
-###### Art. 65.º Ao pessoal técnico de inspecção é mantida a gratificação prevista no artigo 14.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), no artigo 20.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008) e no artigo 15.º do [Decreto-Lei n.º 47/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013), todos de 12 de Fevereiro.
+Art. 65.º Ao pessoal técnico de inspecção é mantida a gratificação prevista no artigo 14.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), no artigo 20.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008) e no artigo 15.º do [Decreto-Lei n.º 47/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013), todos de 12 de Fevereiro.
 
-###### Art. 66.º Os encargos resultantes do presente diploma serão suportados pela rubrica 02 do orçamento do Ministério da Educação.
+Art. 66.º Os encargos resultantes do presente diploma serão suportados pela rubrica 02 do orçamento do Ministério da Educação.
 
-###### Art. 67.º Por despacho dos Ministros das Finanças e da Educação será atribuída à Inspecção-Geral uma verba de arranque até que, nos termos legais, a mesma disponha de orçamento próprio.
+Art. 67.º Por despacho dos Ministros das Finanças e da Educação será atribuída à Inspecção-Geral uma verba de arranque até que, nos termos legais, a mesma disponha de orçamento próprio.
 
-###### Art. 68.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 68.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 69.º É revogada toda a legislação em contrário, nomeadamente o [Decreto-Lei n.º 337/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1978-325936), de 14 de Novembro.
+Art. 69.º É revogada toda a legislação em contrário, nomeadamente o [Decreto-Lei n.º 337/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1978-325936), de 14 de Novembro.
 
-###### Art. 70.º O presente diploma entra em vigor noventa dias após a sua publicação.
+Art. 70.º O presente diploma entra em vigor noventa dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o artigo 33.º do Decreto-Lei n.º 540/79, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf)
 
 Mapa II a que se refere o artigo 33.º do Decreto-Lei n.º 540/79, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf)
 
 Mapa III a que se refere o artigo 33.º do Decreto-Lei n.º 540/79, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30011/02820292.pdf)
 
 Luís Eugénio Caldas Veiga da Cunha.

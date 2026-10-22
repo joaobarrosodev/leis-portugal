@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17000/16371638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1976-430819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00bac2c522b66beb352bb9377549fb85a229f362d65ccfe4e32d1514a11f82c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fa83af83b6a925c2f49e66f5700629f4d97735172e810c980af5eced7f06923
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Contabilidade Pública
+- Direcção Geral da Contabilidade Pública
+- Gestão Administrativa
+- Gestão Financeira
+- Gestão Orçamental
+- Organismo Autónomo
+- Regime Jurídico
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:299220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:461430:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:299220:por
+  label: "Revogado pelo DEC LEI.264/78.30.08.1978.MFP, DR.IS [199] de 30.08.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1978-299220
+  date: '1978-08-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:22Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +116,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A actividade financeira dos fundos autónomos e dos organismos dotados de autonomia administrativa e financeira fica sujeita ao regime geral estabelecido no presente diploma, relativamente à movimentação e utilização das suas receitas próprias, à organização dos seus orçamentos privativos e à prestação e publicidade das contas de gerência.
+Artigo 1.º A actividade financeira dos fundos autónomos e dos organismos dotados de autonomia administrativa e financeira fica sujeita ao regime geral estabelecido no presente diploma, relativamente à movimentação e utilização das suas receitas próprias, à organização dos seus orçamentos privativos e à prestação e publicidade das contas de gerência.
 
-###### Art. 2.º - 1. As receitas das entidades referidas no artigo anterior, excluídas as que provenham de dotações de despesa que lhes sejam atribuídas no Orçamento Geral do Estado, serão entregues nos cofres do Tesouro e escrituradas em «Contas de ordem» do mesmo orçamento, mediante guias passadas pelas mesmas entidades ou por outras para o efeito legalmente competentes.
+Art. 2.º - 1. As receitas das entidades referidas no artigo anterior, excluídas as que provenham de dotações de despesa que lhes sejam atribuídas no Orçamento Geral do Estado, serão entregues nos cofres do Tesouro e escrituradas em «Contas de ordem» do mesmo orçamento, mediante guias passadas pelas mesmas entidades ou por outras para o efeito legalmente competentes.
 
 2. Um exemplar das referidas guias, averbado de pagamento, será enviado à delegação da Direcção-Geral da Contabilidade Pública junto do respectivo Ministério.
 
-###### Art. 3.º - 1. No orçamento de despesa de cada Ministério serão inscritas como «Contas de ordem» as verbas correspondentes às receitas que devam entrar nos cofres do Tesouro, nos termos do artigo anterior.
+Art. 3.º - 1. No orçamento de despesa de cada Ministério serão inscritas como «Contas de ordem» as verbas correspondentes às receitas que devam entrar nos cofres do Tesouro, nos termos do artigo anterior.
 
 2. Para o efeito do número anterior, os fundos e organismos abrangidos por este diploma enviarão à respectiva delegação da Direcção-Geral da Contabilidade Pública, até 30 de Junho de cada ano, projectos orçamentais incluindo as dotações a inscrever no orçamento do ano seguinte como despesa de «Contas de ordem».
 
@@ -111,26 +130,26 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. Os saldos das dotações de «Contas de ordem» não utilizados pelas respectivas entidades serão transferidos para o ano seguinte na escrita do Estado, a fim de ser possível a sua ulterior aplicação.
 
-###### Art. 4.º As dotações de despesa referidas no n.º 1 do artigo anterior, bem como outras que forem atribuídas no Orçamento Geral do Estado, serão aplicadas mediante orçamento privativo, nos termos legalmente estabelecidos.
+Art. 4.º As dotações de despesa referidas no n.º 1 do artigo anterior, bem como outras que forem atribuídas no Orçamento Geral do Estado, serão aplicadas mediante orçamento privativo, nos termos legalmente estabelecidos.
 
-###### Art. 5.º As entidades a que se refere o artigo 1.º apresentarão as suas contas de gerência a julgamento do Tribunal de Contas, de harmonia com os precitos legais vigentes.
+Art. 5.º As entidades a que se refere o artigo 1.º apresentarão as suas contas de gerência a julgamento do Tribunal de Contas, de harmonia com os precitos legais vigentes.
 
-###### Art. 6.º Às entidades mencionadas no artigo 1.º cujas receitas e despesas não transitam pelo Orçamento Geral do Estado para 1976, os preceitos contidos nos artigos anteriores, ou parte deles, começarão a ser-lhes aplicados no ano seguinte àquele em que, nesse sentido, for proferido despacho conjunto dos Ministros da pasta respectiva e das Finanças, mediante proposta da Direcção-Geral da Contabilidade Pública e ouvidos os serviços a abranger.
+Art. 6.º Às entidades mencionadas no artigo 1.º cujas receitas e despesas não transitam pelo Orçamento Geral do Estado para 1976, os preceitos contidos nos artigos anteriores, ou parte deles, começarão a ser-lhes aplicados no ano seguinte àquele em que, nesse sentido, for proferido despacho conjunto dos Ministros da pasta respectiva e das Finanças, mediante proposta da Direcção-Geral da Contabilidade Pública e ouvidos os serviços a abranger.
 
-###### Art. 7.º - 1. Os orçamentos privativos para aplicação das diversas dotações de despesa que figurem em «Contas de ordem» do Orçamento Geral do Estado, bem como os das entidades a que se refere o artigo 1.º, passam a constar, em anexo, do orçamento do ministério respectivo, devendo, para o efeito, ser remetidos pelos serviços, em triplicado, às correspondentes delegações da Direcção-Geral da Contabilidade Pública até ao dia 1 de Setembro do ano anterior àquele a que respeitam.
+Art. 7.º - 1. Os orçamentos privativos para aplicação das diversas dotações de despesa que figurem em «Contas de ordem» do Orçamento Geral do Estado, bem como os das entidades a que se refere o artigo 1.º, passam a constar, em anexo, do orçamento do ministério respectivo, devendo, para o efeito, ser remetidos pelos serviços, em triplicado, às correspondentes delegações da Direcção-Geral da Contabilidade Pública até ao dia 1 de Setembro do ano anterior àquele a que respeitam.
 
 2. As correspondentes contas de gerência passam igualmente a figurar, em anexo, na conta do respectivo Ministério, pela forma que for determinada em despacho do Ministro das Finanças, para o que serão enviadas à Direcção-Geral da Contabilidade Pública até 31 de Maio do ano seguinte àquele a que respeitam.
 
-###### Art. 8.º É aumentado para três o número de orçamentos suplementares que os diferentes serviços abrangidos pelo artigo anterior podem normalmente elaborar em cada ano, sem prejuízo de este número ser excedido nos casos especiais legalmente previstos.
+Art. 8.º É aumentado para três o número de orçamentos suplementares que os diferentes serviços abrangidos pelo artigo anterior podem normalmente elaborar em cada ano, sem prejuízo de este número ser excedido nos casos especiais legalmente previstos.
 
-###### Art. 9.º As dúvidas que surgirem na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da respectiva pasta e das Finanças.
+Art. 9.º As dúvidas que surgirem na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da respectiva pasta e das Finanças.
 
-###### Art. 10.º Ficam revogados o [Decreto-Lei n.º 742/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/742-1974-461430), de 27 de Dezembro, e as disposições gerais e especiais que contrariem os preceitos contidos neste decreto-lei.
+Art. 10.º Ficam revogados o [Decreto-Lei n.º 742/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/742-1974-461430), de 27 de Dezembro, e as disposições gerais e especiais que contrariem os preceitos contidos neste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

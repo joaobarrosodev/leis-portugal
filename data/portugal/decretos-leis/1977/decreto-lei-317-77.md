@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18000/19221923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1977-255442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbd5ddf891ae4e0a7bc09ee1eeade60d90818ee6b76f71ac4cf47eef7bbf5dd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09cd9800b1ed5ac96ade3ea11fe3e7954a14572d5350ee8ba46a49402caad45f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Autarquia Local
+- Benefícios Fiscais
+- Construção Civil
+- Contrato de Desenvolvimento
+- Financiamento
+- Habitação
+- Habitação Social
+- Política de Habitação
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:621561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621561:por
+  label: "Revogado pelo DEC LEI.412-A/77.1977.09.29.MHUC, DR.IS [226]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-a-1977-621561
+  date: '1977-09-29'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:54Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +121,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980), de 29 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980), de 29 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1. ...
 
@@ -116,12 +139,12 @@ b) A quota-parte do preço correspondente ao terreno e sua urbanização.
 
 6. Sendo o «contrato de desenvolvimento» celebrado com grupos de empresas, definir-se-á, precisamente, a responsabilidade de cada uma pelo cumprimento das obrigações contratuais, designadamente no que se refere à pontual consecução dos objectivos parciais e globais estabelecidos.
 
-###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 19 de Julho de 1977.**
+Promulgado em 19 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

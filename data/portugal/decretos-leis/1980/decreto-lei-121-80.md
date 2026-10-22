@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1980-473931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a08a18d14ef488ca12a64202af7864727b2a18d625793c4a05c83d029f384b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66ee8a9aac4204375a5dcb93c8b8fa54a9071db5022996cb40327219368c1f6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Superior de Geologia e Minas
+- Definição de Competências
+relationships:
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:19Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Conselho Superior de Minas e Serviços Geológicos passa a denominar-se Conselho Superior de Geologia e Minas, será presidido pelo Ministro da Indústria e Energia e terá como vogais:
+Artigo 1.º - 1 - O Conselho Superior de Minas e Serviços Geológicos passa a denominar-se Conselho Superior de Geologia e Minas, será presidido pelo Ministro da Indústria e Energia e terá como vogais:
 
 a) Três individualidades de reconhecida competência, designadas directamente pelo Ministro da Indústria e Energia e normalmente, mas não necessariamente, recrutadas nos serviços centrais ou regionais da Direcção-Geral de Geologia e Minas;
 
@@ -142,17 +148,17 @@ f) Um funcionário da Secretaria-Geral do Ministério da Indústria e Energia co
 
 7 - Em caso de impedimento, temporário ou definitivo, dos vogais do Conselho, serão os mesmos substituídos pela forma adoptada para a sua designação.
 
-###### Art. 2.º Quando designe vice-presidente, poderá o Ministro da Indústria e Energia delegar nele o exercício total ou parcial das suas funções no Conselho, sem prejuízo de se reservar o direito de as assumir, sempre que o entenda conveniente.
+Art. 2.º Quando designe vice-presidente, poderá o Ministro da Indústria e Energia delegar nele o exercício total ou parcial das suas funções no Conselho, sem prejuízo de se reservar o direito de as assumir, sempre que o entenda conveniente.
 
-###### Art. 3.º - 1 - O vencimento do vice-presidente será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Energia.
+Art. 3.º - 1 - O vencimento do vice-presidente será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Energia.
 
 2 - Quando o cargo de vice-presidente for exercido em tempo integral, em regime de comissão de serviço ou requisição, o funcionário ou trabalhador designado poderá optar pela remuneração do seu lugar de origem.
 
-###### Art. 4.º - 1 - Aos vogais com domicílio fora de Lisboa serão abonados, sempre que tenham de comparecer às sessões, o transporte e ajudas de custo a que tiverem direito nos termos da lei geral.
+Art. 4.º - 1 - Aos vogais com domicílio fora de Lisboa serão abonados, sempre que tenham de comparecer às sessões, o transporte e ajudas de custo a que tiverem direito nos termos da lei geral.
 
 2 - Em caso de deslocação a outros locais serão, também, abonados o transporte e ajudas de custo em termos idênticos aos referidos no n.º 1.
 
-###### Art. 5.º - 1 - O Conselho Superior de Geologia e Minas é um órgão de consulta do Ministro da Indústria e Energia, competindo-lhe, quando para tal seja solicitado, prestar pareceres sobre:
+Art. 5.º - 1 - O Conselho Superior de Geologia e Minas é um órgão de consulta do Ministro da Indústria e Energia, competindo-lhe, quando para tal seja solicitado, prestar pareceres sobre:
 
 a) Política geral do sector;
 
@@ -166,7 +172,7 @@ d) Todos os processos que digam respeito a casos concretos e lhe sejam submetido
 
 3 - Para além das funções referidas no n.º 1, o Conselho poderá deliberar sobre as regras do seu próprio funcionamento, com as limitações que do presente diploma resultam.
 
-###### Art. 6.º - 1 - O Conselho Superior de Geologia e Minas pode reunir em sessão plenária ou por secções, nos termos da respectiva convocação.
+Art. 6.º - 1 - O Conselho Superior de Geologia e Minas pode reunir em sessão plenária ou por secções, nos termos da respectiva convocação.
 
 2 - São as seguintes as secções em que o Conselho se poderá desdobrar:
 
@@ -180,7 +186,7 @@ d) Todos os processos que digam respeito a casos concretos e lhe sejam submetido
 
 4 - Quando tal se revelar conveniente pela natureza das matérias a tratar, poderá o Conselho solicitar a outras entidades públicas ou privadas, colectivas ou singulares, a sua representação ou presença nas reuniões a efectuar, bem como qualquer outra forma de colaboração.
 
-###### Art. 7.º - 1 - A composição e regras de funcionamento das diferentes secções serão afixadas em deliberação do próprio Conselho, sendo, porém, obrigatório que de todas façam parte o presidente, as individualidades referidas na alínea a) do n.º 1 do artigo 1.º, o auditor jurídico ou consultor em que tenha delegado e o secretário.
+Art. 7.º - 1 - A composição e regras de funcionamento das diferentes secções serão afixadas em deliberação do próprio Conselho, sendo, porém, obrigatório que de todas façam parte o presidente, as individualidades referidas na alínea a) do n.º 1 do artigo 1.º, o auditor jurídico ou consultor em que tenha delegado e o secretário.
 
 2 - As deliberações serão sempre tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.
 
@@ -188,20 +194,20 @@ d) Todos os processos que digam respeito a casos concretos e lhe sejam submetido
 
 4 - Nas suas faltas e impedimentos, o presidente ou vice-presidente poderão ser substituídos por uma das individualidades referidas na alínea a) do n.º 1 do artigo 1.º, preferindo o mais antigo no serviço público.
 
-###### Art. 8.º A consulta ao Conselho é sempre facultativa para o Ministro da Indústria e Energia, pelo que qualquer disposição legal que a tal consulta se refira deve considerar-se não vinculativa.
+Art. 8.º A consulta ao Conselho é sempre facultativa para o Ministro da Indústria e Energia, pelo que qualquer disposição legal que a tal consulta se refira deve considerar-se não vinculativa.
 
-###### Art. 9.º - 1 - O apoio administrativo ao Conselho será prestado pela Secretaria-Geral do Ministério da Indústria e Energia.
+Art. 9.º - 1 - O apoio administrativo ao Conselho será prestado pela Secretaria-Geral do Ministério da Indústria e Energia.
 
 2 - As verbas necessárias para pagamento de despesas correntes inerentes ao funcionamento do Conselho serão inscritas em divisão do orçamento do Gabinete do Ministro da Indústria e Energia.
 
 3 - No ano corrente, porém, as despesas resultantes do funcionamento deste Conselho serão pagas por verba atribuída no orçamento vigente à Direcção-Geral de Geologia e Minas.
 
-###### Art. 10.º As dúvidas surgidas na interpretação e para aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria e Energia.
+Art. 10.º As dúvidas surgidas na interpretação e para aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria e Energia.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 6 de Maio de 1980.**
+Promulgado em 6 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

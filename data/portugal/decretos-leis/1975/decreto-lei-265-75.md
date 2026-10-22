@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1975-335936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfc46c0a737105653debc74d1a8ca1c0afe1bd200d5ea2363e9e3a21d015b602
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18983294b781ede6df15685b619366034cb5bc3cae64770580b53b0ba6e80be7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banca
+- Caixa Geral de Depósitos
 relationships:
 - type: amended_by
   target: pt:dre:324487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577093:por
+  label: "Alterados os arts. 6.º, 7.º e 8.º, n.º 2 do art. 12.º, n.º 1 do 14.º e o art. 16.º e revogado o art. 5.º do presente\
+    \ diploma, pelo DEC LEI.236/81.06.08.1981.MFP, DR.IS [179] de 06.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1981-577093
+  date: '1981-08-06'
+- type: cites
+  target: pt:dre:414457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324487:por
+  label: "Revogado, salvo no que respeita à sua aplicação à Caixa Geral de Aposentações, pelo DEC LEI.287/93.1993.08.20.MF\
+    \ DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1993-324487
+  date: '1993-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:55Z'
   warnings: []
   errors: []
 ---
@@ -100,23 +122,23 @@ Mediante proposta do conselho de administração da Caixa Geral de Depósitos ao
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As dependências da Caixa no estrangeiro terão a sua sede onde for determinado na respectiva autorização de funcionamento e serão dotadas de personalidade jurídica, autonomia financeira e património próprio.
+Artigo 1.º - 1. As dependências da Caixa no estrangeiro terão a sua sede onde for determinado na respectiva autorização de funcionamento e serão dotadas de personalidade jurídica, autonomia financeira e património próprio.
 
 2. A gestão superior e a fiscalização de cada dependência competem à Caixa Geral de Depósitos, que as exercerá nos termos da lei e do regulamento que for adoptado para a sua execução, a aprovar pelo conselho de administração da mesma Caixa, observada a legislação estrangeira aplicável.
 
-###### Art. 2.º São atribuições das dependências da Caixa as práticas de operações bancárias no âmbito da autorização concedida para o seu funcionamento.
+Art. 2.º São atribuições das dependências da Caixa as práticas de operações bancárias no âmbito da autorização concedida para o seu funcionamento.
 
-###### Art. 3.º - 1. O capital de cada dependência será fixado de acordo com as autoridades competentes do país onde a mesma se situar, carecendo também da concordância das autoridades cambiais portuguesas.
+Art. 3.º - 1. O capital de cada dependência será fixado de acordo com as autoridades competentes do país onde a mesma se situar, carecendo também da concordância das autoridades cambiais portuguesas.
 
 2. Os fundos que, nos termos do número anterior, forem afectados às operações de uma dependência serão escriturados pela Caixa Geral de Depósitos como participações financeiras, sendo considerados como contrapartida, na contabilidade da dependência, como capital da Caixa Geral de Depósitos em rubrica, a estabelecer de harmonia com a legislação do respectivo país.
 
-###### Art. 4.º As modalidades das operações activas e passivas, as prestações de serviço e as demais actividades da dependência, decorrentes das suas atribuições, constarão do respectivo regulamento, ouvido o Banco de Portugal.
+Art. 4.º As modalidades das operações activas e passivas, as prestações de serviço e as demais actividades da dependência, decorrentes das suas atribuições, constarão do respectivo regulamento, ouvido o Banco de Portugal.
 
-###### Art. 5.º - 1. As dependências terão um conselho orientador composto de um presidente e dois vogais designados pelo conselho de administração.
+Art. 5.º - 1. As dependências terão um conselho orientador composto de um presidente e dois vogais designados pelo conselho de administração.
 
 2. Constarão do regulamento da dependência as atribuições do conselho orientador e as respectivas normas de funcionamento.
 
-###### Art. 6.º - 1. A direcção executiva no estrangeiro de cada dependência caberá a um conselho de gestão, constituído por um director e um ou mais subdirectores.
+Art. 6.º - 1. A direcção executiva no estrangeiro de cada dependência caberá a um conselho de gestão, constituído por um director e um ou mais subdirectores.
 
 2. Os cargos a que se refere o número anterior são providos por escolha do conselho de administração da Caixa e podem ser desempenhados por funcionários deste estabelecimento, contratados em comissão transitória de serviço público, sem depender de visto e com garantia dos seus direitos.
 
@@ -126,48 +148,48 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 5. Constarão do regulamento da dependência as atribuições do conselho de gestão e as respectivas normas de funcionamento.
 
-###### Art. 7.º - 1. Ao pessoal da Caixa, contratado para outros cargos numa dependência no estrangeiro, é aplicável o disposto nos n.os 2 e 3 do artigo 6.º
+Art. 7.º - 1. Ao pessoal da Caixa, contratado para outros cargos numa dependência no estrangeiro, é aplicável o disposto nos n.os 2 e 3 do artigo 6.º
 
 2. As condições da prestação de serviços, quer do pessoal referido no n.º 1, quer do que for admitido no estrangeiro, constarão do regulamento da dependência.
 
-###### Art. 8.º A organização dos serviços da dependência será estabelecida em regulamento interno aprovado pelo conselho de administração da Caixa, sobre proposta do conselho orientador.
+Art. 8.º A organização dos serviços da dependência será estabelecida em regulamento interno aprovado pelo conselho de administração da Caixa, sobre proposta do conselho orientador.
 
-###### Art. 9.º - 1. A Caixa Geral de Depósitos abrirá uma conta corrente para o movimento das operações realizadas com as suas dependências.
+Art. 9.º - 1. A Caixa Geral de Depósitos abrirá uma conta corrente para o movimento das operações realizadas com as suas dependências.
 
 2. Além desta conta, poderá a Caixa abrir outras a favor de uma dependência, nas condições a estabelecer pelo conselho de administração, para os movimentos de fundos que devam ser contabilizados separadamente.
 
-###### Art. 10.º As operações que forem efectuadas em Portugal, entre a Caixa e as suas dependências no estrangeiro, serão realizadas de conformidade com a regulamentação cambial portuguesa.
+Art. 10.º As operações que forem efectuadas em Portugal, entre a Caixa e as suas dependências no estrangeiro, serão realizadas de conformidade com a regulamentação cambial portuguesa.
 
-###### Art. 11.º Mediante despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros, as dependências da Caixa no estrangeiro poderão ser chamadas a desempenhar, com os ajustamentos adequados, as funções previstas nos artigos 12.º e 13.º do [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho.
+Art. 11.º Mediante despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros, as dependências da Caixa no estrangeiro poderão ser chamadas a desempenhar, com os ajustamentos adequados, as funções previstas nos artigos 12.º e 13.º do [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho.
 
-###### Art. 12.º - 1. As dependências terão orçamento privativo, expresso na moeda do país onde se situarem, de acordo com o plano de actividades a desenvolver em cada ano, o qual regulará a respectiva gestão financeira.
+Art. 12.º - 1. As dependências terão orçamento privativo, expresso na moeda do país onde se situarem, de acordo com o plano de actividades a desenvolver em cada ano, o qual regulará a respectiva gestão financeira.
 
 2. Compete ao conselho orientador aprovar o orçamento e o plano de actividades referido no n.º 1.
 
-###### Art. 13.º A contabilidade, as contas e o apuramento dos resultados de uma dependência são separados dos da Caixa Geral de Depósitos e neles serão observadas as normas legais do país onde se situa.
+Art. 13.º A contabilidade, as contas e o apuramento dos resultados de uma dependência são separados dos da Caixa Geral de Depósitos e neles serão observadas as normas legais do país onde se situa.
 
-###### Art. 14.º - 1. Na aplicação dos resultados o conselho orientador constituirá as reservas e provisões convenientes e considerará, também, a retribuição a conceder à participação financeira da Caixa, a que alude o artigo 3.º
+Art. 14.º - 1. Na aplicação dos resultados o conselho orientador constituirá as reservas e provisões convenientes e considerará, também, a retribuição a conceder à participação financeira da Caixa, a que alude o artigo 3.º
 
 2. Serão de conta e responsabilidade da Caixa Geral de Depósitos, que providenciará pela sua regularização, os resultados negativos de exercício que eventualmente se apurem numa dependência.
 
-###### Art. 15.º O conselho de administração da Caixa poderá facultar às dependências no estrangeiro, observadas as formalidades legais, os fundos necessários para fazer face à aquisição de bens destinados às suas instalações, mobiliários ou não, a despesas de gestão e a outras indispensáveis ao funcionamento dos serviços.
+Art. 15.º O conselho de administração da Caixa poderá facultar às dependências no estrangeiro, observadas as formalidades legais, os fundos necessários para fazer face à aquisição de bens destinados às suas instalações, mobiliários ou não, a despesas de gestão e a outras indispensáveis ao funcionamento dos serviços.
 
-###### Art. 16.º As contas das dependências serão apreciadas pelo conselho de administração da Caixa, cuja aprovação as legitima para todos os efeitos.
+Art. 16.º As contas das dependências serão apreciadas pelo conselho de administração da Caixa, cuja aprovação as legitima para todos os efeitos.
 
-###### Art. 17.º - 1. Nas localidades do estrangeiro onde a Caixa não possua dependência própria, os seus serviços poderão ser executados com a colaboração dos consulados, desde que a lei do respectivo país o não proíba.
+Art. 17.º - 1. Nas localidades do estrangeiro onde a Caixa não possua dependência própria, os seus serviços poderão ser executados com a colaboração dos consulados, desde que a lei do respectivo país o não proíba.
 
 2. Fica autorizado o conselho de administração da Caixa a contratar com o Ministério dos Negócios Estrangeiros os termos e condições da colaboração referida no número anterior, abrangendo a especificação dos serviços, o modo do seu funcionamento e competências, bem como a forma de fiscalização e de retribuição dos trabalhos.
 
-###### Art. 18.º - 1. A Caixa Geral de Depósitos responde pela restituição de todos os depósitos que forem efectuados nas dependências, nas condições legais.
+Art. 18.º - 1. A Caixa Geral de Depósitos responde pela restituição de todos os depósitos que forem efectuados nas dependências, nas condições legais.
 
 2. A Caixa indicará mensalmente ao Banco de Portugal o quantitativo global dos depósitos referidos no n.º 1.
 
-###### Art. 19.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças, ouvido o conselho de administração da Caixa.
+Art. 19.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças, ouvido o conselho de administração da Caixa.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso.
 
-**Promulgado em 13 de Maio de 1975.**
+Promulgado em 13 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

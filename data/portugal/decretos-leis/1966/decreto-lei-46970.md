@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46970-1966-487301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07576c021651e6b2e76b277e521c57f1e450a32aa6cd625df750c553de009453
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c924d475a142ef01e3abbf8f9d97abee0d047a17ab6420623bb0b27beb1dc7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Reorganização e Simplificação de Serviços
+- Direcção Geral dos Transportes Terrestres
+- Gratificação
+- Licenciamento de Obras
+- Ministério das Comunicações
+- Pessoal Administrativo
+- Pessoal Especializado
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Subsídio
+- Tráfego Ferroviário
+- Transporte
+- Transporte Ferroviário
+- Transporte Terrestre
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:54Z'
   warnings: []
   errors: []
 ---
@@ -102,58 +137,58 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal da Direcção-Geral de Transportes Terrestres, aprovado pelo [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, é substituído pelo constante do mapa anexo ao presente diploma, que vigorará até à próxima reorganização dos serviços da referida Direcção-Geral.
+Artigo 1.º O quadro do pessoal da Direcção-Geral de Transportes Terrestres, aprovado pelo [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, é substituído pelo constante do mapa anexo ao presente diploma, que vigorará até à próxima reorganização dos serviços da referida Direcção-Geral.
 
-###### Art. 2.º O preenchimento das vagas resultantes da alteração dos quadros aprovados por este diploma será feito de entre os funcionários vitalícios e contratados do actual quadro permanente da referida Direcção-Geral, consoante a sua especialização, categorias e antiguidades, segundo normas aprovadas pelo Ministro das Comunicações, sem prejuízo do disposto na legislação em vigor em matéria de habilitações.
+Art. 2.º O preenchimento das vagas resultantes da alteração dos quadros aprovados por este diploma será feito de entre os funcionários vitalícios e contratados do actual quadro permanente da referida Direcção-Geral, consoante a sua especialização, categorias e antiguidades, segundo normas aprovadas pelo Ministro das Comunicações, sem prejuízo do disposto na legislação em vigor em matéria de habilitações.
 
 § único. A integração nos lugares de chefia será feita por escolha do Ministro das Comunicações, sob proposta do director-geral de Transportes Terrestres.
 
-###### Art. 3.º O ministro das Comunicações fará publicar, no prazo de 30 dias, a contar da data da publicação deste diploma, a relação do pessoal da Direcção-Geral de Transportes Terrestres, com a indicação dos lugares que fica ocupando em conformidade com o disposto no artigo 2.º, considerando-se os funcionários neles providos, a partir do dia 1 do mês seguinte, com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.
+Art. 3.º O ministro das Comunicações fará publicar, no prazo de 30 dias, a contar da data da publicação deste diploma, a relação do pessoal da Direcção-Geral de Transportes Terrestres, com a indicação dos lugares que fica ocupando em conformidade com o disposto no artigo 2.º, considerando-se os funcionários neles providos, a partir do dia 1 do mês seguinte, com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.
 
-###### Art. 4.º Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Comunicações autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
+Art. 4.º Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Comunicações autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
 
-###### Art. 5.º O pessoal contratado além dos quadros e o actualmente assalariado nos serviços da Direcção-Geral de Transportes Terrestres gozará do direito de preferência absoluta sobre os restantes candidatos nos concursos de primeiro preenchimento das vacaturas dos lugares de entrada das categorias dos quadros, desde que satisfaça aos requisitos legais exigidos, salvo no que se refere ao limite de idade, que será dispensado para o que preenchesse essa condição à data da sua entrada para os mesmos serviços.
+Art. 5.º O pessoal contratado além dos quadros e o actualmente assalariado nos serviços da Direcção-Geral de Transportes Terrestres gozará do direito de preferência absoluta sobre os restantes candidatos nos concursos de primeiro preenchimento das vacaturas dos lugares de entrada das categorias dos quadros, desde que satisfaça aos requisitos legais exigidos, salvo no que se refere ao limite de idade, que será dispensado para o que preenchesse essa condição à data da sua entrada para os mesmos serviços.
 
-###### Art. 6.º Salvo os casos previstos no presente diploma, a promoção dos funcionários dos quadros far-se-á normalmente à categoria ou classe imediatamente superior, mediante concurso, desde que os funcionários tenham, pelo menos, três anos de bom e efectivo serviço na categoria ou classe em que estiverem providos, contando-se, para esse efeito, também o tempo de serviço como contratados.
+Art. 6.º Salvo os casos previstos no presente diploma, a promoção dos funcionários dos quadros far-se-á normalmente à categoria ou classe imediatamente superior, mediante concurso, desde que os funcionários tenham, pelo menos, três anos de bom e efectivo serviço na categoria ou classe em que estiverem providos, contando-se, para esse efeito, também o tempo de serviço como contratados.
 
-###### Art. 7.º É tornado extensivo a todos os directores dos serviços externos da Direcção-Geral de Transportes Terrestres o disposto no artigo 40.º do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, para os directores dos serviços externos com sede em Lisboa e Porto.
+Art. 7.º É tornado extensivo a todos os directores dos serviços externos da Direcção-Geral de Transportes Terrestres o disposto no artigo 40.º do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, para os directores dos serviços externos com sede em Lisboa e Porto.
 
 § único. Até ao fim do corrente ano poderão as gratificações fixadas no corpo deste artigo ser abonadas por força das sobras das dotações orçamentais consignadas ao pagamento do pessoal dos quadros aprovados por lei.
 
-###### Art. 8.º Os artigos 2.º, § 1.º, 9.º e 10.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, passam a ter a seguinte redacção:
+Art. 8.º Os artigos 2.º, § 1.º, 9.º e 10.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º As secretarias das direcções de viação serão chefiadas por chefes de secção, primeiros ou segundos-oficiais.
 
 ...
 
-###### Art. 9.º o director-geral será substituído, na sua falta ou impedimento, por um dos directores de serviço designado pelo Ministro das Comunicações, sob proposta do director-geral.
+Art. 9.º o director-geral será substituído, na sua falta ou impedimento, por um dos directores de serviço designado pelo Ministro das Comunicações, sob proposta do director-geral.
 
-###### Art. 10.º O director-geral poderá delegar nos directores de serviço as atribuições que digam respeito ao despacho corrente das respectivas direcções; anàlogamente poderão os referidos directores delegar nos chefes de repartição e estes em funcionários da sua dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização do director-geral.
+Art. 10.º O director-geral poderá delegar nos directores de serviço as atribuições que digam respeito ao despacho corrente das respectivas direcções; anàlogamente poderão os referidos directores delegar nos chefes de repartição e estes em funcionários da sua dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização do director-geral.
 
 As delegações dadas nos termos deste artigo continuam válidas a favor dos substitutos legais durante a ausência ou impedimento dos mandatários.
 
-###### Art. 9.º Além do pessoal dos quadros referidos no artigo 1.º deste diploma, poderá a Direcção-Geral de Transportes Terrestres contratar ou assalariar, mediante autorização ministerial e para as categorias ou classes de entrada, o pessoal indispensável à boa execução dos serviços, sendo pagas as respectivas remunerações pela verba especial para esse fim inscrita no orçamento.
+Art. 9.º Além do pessoal dos quadros referidos no artigo 1.º deste diploma, poderá a Direcção-Geral de Transportes Terrestres contratar ou assalariar, mediante autorização ministerial e para as categorias ou classes de entrada, o pessoal indispensável à boa execução dos serviços, sendo pagas as respectivas remunerações pela verba especial para esse fim inscrita no orçamento.
 
 § único. As remunerações certas do pessoal a admitir nos termos deste artigo não poderão exceder as estabelecidas para as mesmas categorias do quadro permanente na falta de equiparação, serão fixadas pelo Ministro das Comunicações por analogia com aquelas.
 
-###### Art. 10.º A Direcção-Geral de Transportes Terrestres poderá contratar ou ajustar com entidades ou indivíduos a ela estranhos a realização de estudos ou trabalhos e elaboração de pareceres, anteprojectos ou projectos, em regime de prestação eventual de serviços ou tarefa.
+Art. 10.º A Direcção-Geral de Transportes Terrestres poderá contratar ou ajustar com entidades ou indivíduos a ela estranhos a realização de estudos ou trabalhos e elaboração de pareceres, anteprojectos ou projectos, em regime de prestação eventual de serviços ou tarefa.
 
 § 1.º Em casos cuja natureza ou urgência o aconselhem poderá ser autorizada a efectivação dos contratos ou ajustes referidos no corpo do artigo com dispensa da realização de concurso, público ou limitado, e da celebração de contrato escrito.
 
 § 2.º A realização das despesas referidos no corpo do artigo será regulada pelas disposições aplicáveis do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, nomeadamente quanto a competência e limites, os quais serão os constantes dos seus artigos 10.º ou 11.º, consoante os casos.
 
-###### Art. 11.º Salvo o disposto no artigo 7.º, os encargos que, para execução deste diploma, efectivamente excedam a dotação destinada a pessoal dos quadros aprovados por lei, inscrita no orçamento actualmente em vigor, serão suportados em conta das receitas próprias do Fundo Especial de Transportes Terrestres, que os depositará, mediante guia, nos cofres do Tesouro.
+Art. 11.º Salvo o disposto no artigo 7.º, os encargos que, para execução deste diploma, efectivamente excedam a dotação destinada a pessoal dos quadros aprovados por lei, inscrita no orçamento actualmente em vigor, serão suportados em conta das receitas próprias do Fundo Especial de Transportes Terrestres, que os depositará, mediante guia, nos cofres do Tesouro.
 
-###### Art. 12.º Mediante decreto assinado pelos Ministros das Finanças e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
+Art. 12.º Mediante decreto assinado pelos Ministros das Finanças e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Quadro do pessoal da Direcção-Geral de Transportes Terrestres, anexo ao Decreto-Lei n.º 46970
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/09700/06030604.pdf))](https://files.diariodarepublica.pt/1s/1966/04/09700/06030604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/09700/06030604.pdf)
 
 Ministério das Comunicações, 25 de Abril de 1966. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

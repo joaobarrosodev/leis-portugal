@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 278/1974, 1º Suplemento, Série I de 1974-11-29
   number: '278'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1476-(1) a 1476-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27801/00010005.pdf
 entry_into_force_dates: []
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/677-1974-168988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36826bcea2bf7b18c2ee5724e2430580dd50e0b2960984736bd55b7782214b68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07eb83cba0ff3d0d99baa3516e7964787f4386978cab5207faea1ff46aa6fb04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola
+- Contrato de Concessão
+- Serviço Público
+- Televisão
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421019:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:19Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +102,15 @@ Verificando-se, porém, que o referido decreto-lei se reveste de uma feição de
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. O Governo de Angola, adiante designado Governo, promoverá a constituição de uma sociedade anónima de responsabilidade limitada com a qual contratará a concessão do serviço público de televisão em Angola, nos termos das bases anexas a este diploma e que dele fazem parte integrante.
+Artigo 1.º - 1. O Governo de Angola, adiante designado Governo, promoverá a constituição de uma sociedade anónima de responsabilidade limitada com a qual contratará a concessão do serviço público de televisão em Angola, nos termos das bases anexas a este diploma e que dele fazem parte integrante.
 
 2. O capital da sociedade será distribuído por forma a que uma percentagem não inferior a 51% pertença ao Governo e o restante a todas as entidades detentoras, em Angola, a qualquer título, de meios de telecomunicação social, quer de radiodifusão, quer de televisão, que o desejarem, e ao público, na proporção que vier a ser determinada no contrato de concessão e conforme as directrizes que, para o efeito, vierem a ser definidas pelo Governo.
 
-###### Art. 2.º - 1. O Governo fica autorizado a subscrever a quantia com que entenda dever participar no capital da respectiva sociedade concessionária.
+Art. 2.º - 1. O Governo fica autorizado a subscrever a quantia com que entenda dever participar no capital da respectiva sociedade concessionária.
 
 2. O título constitutivo da sociedade concessionária e o contrato de concessão, bem como os actos e documentos a eles relativos, serão isentos de todos os impostos, incluindo o do selo.
 
-###### Art. 3.º - 1. Os corpos gerentes da sociedade concessionária do serviço público considerada neste diploma serão constituídos, exclusivamente, por cidadãos portugueses originários ou naturalizados há mais de dez anos.
+Art. 3.º - 1. Os corpos gerentes da sociedade concessionária do serviço público considerada neste diploma serão constituídos, exclusivamente, por cidadãos portugueses originários ou naturalizados há mais de dez anos.
 
 2. O Governo, através do órgão competente, promoverá a nomeação de um ou dois administradores da sociedade concessionária, consoante o respectivo conselho de administração seja composto de três ou de cinco membros, e designará o delegado do Governo junto da mesma sociedade.
 
@@ -106,19 +118,19 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. Os membros dos corpos gerentes, nomeados nos termos dos n.os 2 e 3 deste artigo, exercerão as suas funções por períodos de três anos, podendo ser reconduzidos, e são movíveis a todo o tempo, conforme a legislação em vigor.
 
-###### Art. 4.º - 1. A utilização ou simples detenção de aparelhos receptores de televisão no território de Angola obriga, salvo nos casos de isenção previstos na lei, ao pagamento de uma taxa denominada «taxa de televisão», cujo quantitativo será fixado em despacho do Governo.
+Art. 4.º - 1. A utilização ou simples detenção de aparelhos receptores de televisão no território de Angola obriga, salvo nos casos de isenção previstos na lei, ao pagamento de uma taxa denominada «taxa de televisão», cujo quantitativo será fixado em despacho do Governo.
 
 2. O licenciamento e a cobrança desta taxa serão feitos pela entidade oficial que o Governo designar, em condições a fixar.
 
-###### Art. 5.º Fica revogado o [Decreto-Lei n.º 319/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1973-421019) na parte aplicável a Angola.
+Art. 5.º Fica revogado o [Decreto-Lei n.º 319/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1973-421019) na parte aplicável a Angola.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 27 de Novembro de 1974.**
+Promulgado em 27 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - A. Almeida Santos.
 
@@ -344,4 +356,4 @@ BASE XX
 
 4 - As despesas efectuadas com a constituição e funcionamento do tribunal arbitral serão suportadas pela verba vencida, na proporção em que o for.
 
-**O Ministro da Coordenação Interterritorial, António de Almeida Santos.**
+O Ministro da Coordenação Interterritorial, António de Almeida Santos.

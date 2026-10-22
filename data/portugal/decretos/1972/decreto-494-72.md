@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/494-1972-685071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e563326b3a50244f1fd55e9a68064de9c53c8d9f744df1d1623727544b594d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e642094b1eae33f1f779b9f9a3b81f9d49732c23317f3371a57d8a2b505201b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:00Z'
   warnings: []
   errors: []
 ---
@@ -90,12 +94,12 @@ Nos termos do artigo 8.º do [Decreto-Lei n.º 457/72](https://diariodarepublica
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aplicáveis a todo o pessoal pago por verbas inscritas nos orçamentos privativos dos Cofres Geral dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça as disposições do [Decreto-Lei n.º 457/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1972-686179).
+Artigo único. São aplicáveis a todo o pessoal pago por verbas inscritas nos orçamentos privativos dos Cofres Geral dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça as disposições do [Decreto-Lei n.º 457/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1972-686179).
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 27 de Novembro de 1972.**
+Promulgado em 27 de Novembro de 1972.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES TROMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES TROMAZ.

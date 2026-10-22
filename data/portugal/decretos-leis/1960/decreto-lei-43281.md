@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43281-1960-514459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5092b61b6744a9f7cb0f06bd36bdb1588f0092067bee4d6b8ccce862a55518a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bcc70fb211a9eb8b4fcd44c7f8520272af6cb2ad3df8c0c6866f35aa171aa93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso ao Emprego
+- Artesanato
+- Convenção
+- Desenvolvimento Cultural
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Direitos do Indivíduo
+- Formação Profissional
+- Genebra
+- Grupo Sociocultural
+- Inserção Social
+- OIT
+- Portugal
+- Saúde
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:489228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489228:por
+  label: "Ratificada a retirada por parte da República Portuguesa da Convenção Relativa à Protecção e Integração das Populações\
+    \ Aborígenes e Outras Populações Tribais e Semitribais nos Países Independentes (aprovada pela Res 83/2009, de 07-Set,\
+    \ da AR), aprovada para ratificação pelo presente diploma, pelo DEC.82/2009.07.09.2009.PR, DR.IS [173] de 07.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/82-2009-489228
+  date: '2009-09-07'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:10Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +113,15 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção relativa à protecção e integração das populações aborígenes e outras populações tribais e semitribais nos países independentes, adoptada pela Conferência Internacional do Trabalho na sua quadragésima sessão, em Genebra, em 26 de Junho de 1957 (Convenção 107), cujo texto em francês e respectiva tradução são os que seguem anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção relativa à protecção e integração das populações aborígenes e outras populações tribais e semitribais nos países independentes, adoptada pela Conferência Internacional do Trabalho na sua quadragésima sessão, em Genebra, em 26 de Junho de 1957 (Convenção 107), cujo texto em francês e respectiva tradução são os que seguem anexos ao presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/10/25200/23532362.pdf))](https://files.diariodarepublica.pt/1s/1960/10/25200/23532362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/10/25200/23532362.pdf)
 
 TRADUÇÃO
 
@@ -126,7 +149,7 @@ Notando que estas normas têm sido elaboradas a níveis adequados e nos seus res
 
 adopta neste vigésimo sexto dia de Junho do ano de mil novecentos e cinquenta e sete a seguinte convenção, que será denominada Convenção de 1957 sobre populações aborígenes e tribais.
 
-# PARTE I — Política geral
+## PARTE I — Política geral
 
 ###### ARTIGO 1.º
 
@@ -220,7 +243,7 @@ Excepto nos casos previstos na lei em relação a todos os cidadãos, a prestaç
 
 3. Deverá ser dada preferência aos métodos de reabilitação sobre os de detenção.
 
-# PARTE II — Terras
+## PARTE II — Terras
 
 ###### ARTIGO 11.º
 
@@ -250,7 +273,7 @@ a) À concessão de terras suplementares quando as de que essas populações dis
 
 b) À concessão de meios necessários para a exploração das terras que essas populações já possuem.
 
-# PARTE III — Recrutamento e condições de emprego
+## PARTE III — Recrutamento e condições de emprego
 
 ###### ARTIGO 15.º
 
@@ -266,7 +289,7 @@ c) À assistência médica e social, à prevenção e reparação dos acidentes 
 
 d) Ao direito de associação e de livre actividade sindical não contrárias às leis e ao direito de celebrar acordos colectivos com os patrões ou com as organizações patronais.
 
-# PARTE IV — Formação profissional, artesanato e indústrias rurais
+## PARTE IV — Formação profissional, artesanato e indústrias rurais
 
 ###### ARTIGO 16.º
 
@@ -286,7 +309,7 @@ As pessoas pertencentes às populações interessadas gozarão das mesmas facili
 
 2. O artesanato e as indústrias rurais serão desenvolvidos de modo a salvaguardar a herança cultural destas populações e aperfeiçoar os seus valores artísticos e os modos particulares de expressão cultural.
 
-# PARTE V — Segurança social e saúde
+## PARTE V — Segurança social e saúde
 
 ###### ARTIGO 19.º
 
@@ -304,7 +327,7 @@ b) Os outros indivíduos pertencentes a estas populações.
 
 3. O desenvolvimento de tais serviços será coordenado com a aplicação de medidas gerais de progresso social, económico e cultural.
 
-# PARTE VI — Educação e meios de informação
+## PARTE VI — Educação e meios de informação
 
 ###### ARTIGO 21.º
 
@@ -338,7 +361,7 @@ Medidas de carácter educativo deverão ser tomadas nos outros sectores da comun
 
 2. Traduções escritas e informações largamente difundidas nas línguas dessas populações serão, se necessário, utilizadas para esse fim.
 
-# PARTE VII — Administração
+## PARTE VII — Administração
 
 ###### ARTIGO 27.º
 
@@ -352,7 +375,7 @@ b) A proposta às autoridades competentes de medidas legislativas e de outra nat
 
 c) A fiscalização da aplicação destas medidas.
 
-# PARTE VIII — Disposições gerais
+## PARTE VIII — Disposições gerais
 
 ###### ARTIGO 28.º
 
@@ -412,7 +435,7 @@ O que precede é o texto autêntico da Convenção devidamente adoptada pela Con
 
 Em fé do que, apuseram as suas assinaturas, neste quarto dia de Julho de 1957:
 
-**O Presidente da Conferência:**
+O Presidente da Conferência:
 
 Harold Holt.
 

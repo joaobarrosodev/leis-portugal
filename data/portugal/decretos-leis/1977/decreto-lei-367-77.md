@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20300/21342135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1977-286513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0da96b07dd26af410ba02138a9c0ddec8d4d9c1ef7097ab240e01b97d5591ee8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7aa1478be7bf3ae210922c83209b8dec3c236fa00f97fab2ad3cf3c85f68d8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aluguer
+- Alvará
+- Estacionamento
+- Licenciamento
+- Multa
+- Transporte de Mercadorias
+- Transporte Internacional
+- Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:251454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665165:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:59Z'
   warnings: []
   errors: []
 ---
@@ -101,21 +140,21 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 51/77](https://diariodarepublica.pt/dr/detalhe/lei/51-1977-408721), de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Aos cidadãos portugueses regressados das ex-colónias depois de 25 de Abril de 1974, que aí exercessem a indústria de transportes de aluguer ocasional de mercadorias, ou participassem como sócios em sociedades por quotas, em nome colectivo ou cooperativas que tivessem esse objecto, ou às sociedades por eles integradas, serão atribuídas licenças para a exploração daquela actividade.
+Artigo 1.º - 1. Aos cidadãos portugueses regressados das ex-colónias depois de 25 de Abril de 1974, que aí exercessem a indústria de transportes de aluguer ocasional de mercadorias, ou participassem como sócios em sociedades por quotas, em nome colectivo ou cooperativas que tivessem esse objecto, ou às sociedades por eles integradas, serão atribuídas licenças para a exploração daquela actividade.
 
 2. Às sociedades integradas por pessoas que reúnam as condições referidas no número anterior poderão ser atribuídas licenças para o transporte internacional rodoviário de mercadorias.
 
 3. As licenças referidas nos números anteriores serão atribuídas pela Direcção-Geral de Transportes Terrestres, nos termos e condições fixados nos artigos seguintes e em portaria conjunta dos Ministros da Administração Interna e dos Transportes e Comunicações.
 
-###### Art. 2.º - 1. Para efeito da atribuição das licenças referidas na artigo anterior, deverão ser exibidas, juntamente com o requerimento respectivo, as licenças referentes ao exercício da actividade transportadora naqueles territórios.
+Art. 2.º - 1. Para efeito da atribuição das licenças referidas na artigo anterior, deverão ser exibidas, juntamente com o requerimento respectivo, as licenças referentes ao exercício da actividade transportadora naqueles territórios.
 
 2. A participação em sociedades nas ex-colónias deverá ser documentada com escritura comprovativa da qualidade de sócio.
 
 3. Na impossibilidade de apresentação dos documentos acima referidos, poderá a falta ser suprida mediante declaração subscrita por dois outros requerentes, em nome individual, que tenham provado documentalmente as condições referidas nos números anteriores.
 
-###### Art. 3.º As licenças para transportes públicos ocasionais de mercadorias a que se refere o artigo 1.º serão concedidas, dentro dos limites a fixar por despacho do director-geral de Transportes Terrestres, para os raios de acção de 30 km, 50 km ou 100 km.
+Art. 3.º As licenças para transportes públicos ocasionais de mercadorias a que se refere o artigo 1.º serão concedidas, dentro dos limites a fixar por despacho do director-geral de Transportes Terrestres, para os raios de acção de 30 km, 50 km ou 100 km.
 
-###### Art. 4.º - 1. Poderão ser licenciados para a realização de transportes internacionais, nos termos da alínea b) do n.º 1 do artigo 34.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, sociedades em que participem, na percentagem mínima nela estabelecida, as pessoas a que se refere o n.º 2 do artigo 1.º que:
+Art. 4.º - 1. Poderão ser licenciados para a realização de transportes internacionais, nos termos da alínea b) do n.º 1 do artigo 34.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, sociedades em que participem, na percentagem mínima nela estabelecida, as pessoas a que se refere o n.º 2 do artigo 1.º que:
 
 a) Satisfaçam ao disposto na alínea a) e, não sendo maioritária essa participação, na alínea c) do n.º 6 da [Portaria n.º 778/72](https://diariodarepublica.pt/dr/detalhe/portaria/778-1972-665165), de 28 de Dezembro;
 
@@ -123,31 +162,31 @@ b) Se proponham iniciar a sua actividade com um parque de veículos exclusivamen
 
 2. Às sociedades criadas nos termos do número anterior poderão também ser concedidas licenças ao abrigo do artigo 3.º
 
-###### Art. 5.º - 1. Por cada pessoa a que se refere o artigo 1.º, apenas será atribuída uma licença, quer a requeira individualmente ou em nome de sociedade a constituir, quer seja requerida por sociedade que integre essa pessoa.
+Art. 5.º - 1. Por cada pessoa a que se refere o artigo 1.º, apenas será atribuída uma licença, quer a requeira individualmente ou em nome de sociedade a constituir, quer seja requerida por sociedade que integre essa pessoa.
 
 2. As sociedades referidas no número anterior deverão integrar, no mínimo, quatro daquelas pessoas.
 
 3. O disposto no n.º 1 aplica-se ao licenciamento de veículos pelas sociedades a que se refere o artigo 4.º pelo prazo de dois anos, a contar da emissão do respectivo alvará, salvo tratando-se de veículos transferidos das ex-colónias a licenciar para a exclusiva realização de transportes internacionais.
 
-###### Art. 6.º O alvará para a exploração da indústria de transportes internacionais só será concedido quando for requerido à respectiva direcção de transportes o licenciamento de veículos que perfaçam a tonelagem mínima estabelecida na alínea b) do n.º 1 do artigo 4.º
+Art. 6.º O alvará para a exploração da indústria de transportes internacionais só será concedido quando for requerido à respectiva direcção de transportes o licenciamento de veículos que perfaçam a tonelagem mínima estabelecida na alínea b) do n.º 1 do artigo 4.º
 
-###### Art. 7.º Aos industriais de transportes ocasionais de mercadorias titulares de licenças concedidas, até à data da publicação deste diploma, ao abrigo do corpo do artigo 16.º do Regulamento de Tranportes em Automóveis (R. T. A.), aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com a redacção dada pelo [Decreto n.º 45060](https://diariodarepublica.pt/dr/detalhe/decreto/45060-1963-627595), será autorizado, a todo o tempo, mediante requerimento, o aumento de raio para 100 km dos veículos de que sejam proprietários e estejam licenciados para raios inferiores.
+Art. 7.º Aos industriais de transportes ocasionais de mercadorias titulares de licenças concedidas, até à data da publicação deste diploma, ao abrigo do corpo do artigo 16.º do Regulamento de Tranportes em Automóveis (R. T. A.), aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com a redacção dada pelo [Decreto n.º 45060](https://diariodarepublica.pt/dr/detalhe/decreto/45060-1963-627595), será autorizado, a todo o tempo, mediante requerimento, o aumento de raio para 100 km dos veículos de que sejam proprietários e estejam licenciados para raios inferiores.
 
-###### Art. 8.º - 1. Às empresas de transporte ocasional que possuam um parque de viaturas de, pelo menos, 125 t de peso bruto, licenciadas ao abrigo do disposto no corpo do artigo 16.º do R. T. A. até à data da publicação do presente diploma, ou licenciadas nos termos do artigo 3.º deste decreto-lei, poderá ser autorizada a mudança para raio sem limite de uma ou mais viaturas, desde que o peso bruto dos veículos dessa categoria não venha a exceder 20% daquele parque.
+Art. 8.º - 1. Às empresas de transporte ocasional que possuam um parque de viaturas de, pelo menos, 125 t de peso bruto, licenciadas ao abrigo do disposto no corpo do artigo 16.º do R. T. A. até à data da publicação do presente diploma, ou licenciadas nos termos do artigo 3.º deste decreto-lei, poderá ser autorizada a mudança para raio sem limite de uma ou mais viaturas, desde que o peso bruto dos veículos dessa categoria não venha a exceder 20% daquele parque.
 
 2. O número de veículos a que pode ser autorizada a mudança de raio referida no número anterior será determinado à razão de um por cada fracção de 110 t de peso bruto do parque.
 
 3. A mudança de raio prevista nos números anteriores só será autorizada às empresas com licenças concedidas ao abrigo do artigo 3.º do presente diploma desde que o número de veículos a licenciar para raio sem limite não seja superior ao dos veículos licenciados nos raios de 30 km ou 50 km.
 
-###### Art. 9.º O peso bruto dos veículos cujos raios de acção se pretenda aumentar nas condições previstas nos artigos 7.º e 8.º não poderá ser superior ao que a [Portaria n.º 254/77](https://diariodarepublica.pt/dr/detalhe/portaria/254-1977-251454), de 11 de Maio, autorizaria se a mudança de raio se tivesse efectuado com os veículos licenciados à data da publicação do presente diploma, ou nos termos do artigo 3.º
+Art. 9.º O peso bruto dos veículos cujos raios de acção se pretenda aumentar nas condições previstas nos artigos 7.º e 8.º não poderá ser superior ao que a [Portaria n.º 254/77](https://diariodarepublica.pt/dr/detalhe/portaria/254-1977-251454), de 11 de Maio, autorizaria se a mudança de raio se tivesse efectuado com os veículos licenciados à data da publicação do presente diploma, ou nos termos do artigo 3.º
 
-###### Art. 10.º - 1. Às empresas de transporte ocasional de mercadorias que possuam um parque de viaturas ligeiras licenciadas, até à data da publicação do presente diploma, ao abrigo do corpo do artigo 16.º do R. T. A., ou licenciadas nos termos do artigo 3.º do presente diploma, poderá ser autorizada a mudança para raio sem limite de uma em cada quatro daquelas viaturas.
+Art. 10.º - 1. Às empresas de transporte ocasional de mercadorias que possuam um parque de viaturas ligeiras licenciadas, até à data da publicação do presente diploma, ao abrigo do corpo do artigo 16.º do R. T. A., ou licenciadas nos termos do artigo 3.º do presente diploma, poderá ser autorizada a mudança para raio sem limite de uma em cada quatro daquelas viaturas.
 
 2. Para efeitos do disposto no número anterior, não poderão considerar-se as viaturas cuja tonelagem tenha sido ou venha a ser utilizada para o cálculo do peso bruto do parque da respectiva empresa resultante da aplicação do n.º 1 do artigo 8.º
 
 3. Às mudanças de raio requeridas nos termos deste artigo aplica-se o n.º 3 do artigo 8.º
 
-###### Art. 11.º - 1. Serão canceladas as licenças concedidas com fundamento em declarações falsas ou pressupostos afectados por erro a que possa haver lugar.
+Art. 11.º - 1. Serão canceladas as licenças concedidas com fundamento em declarações falsas ou pressupostos afectados por erro a que possa haver lugar.
 
 2. Os infractores serão sempre punidos com multa no valor de 10000$00, sem prejuízo da responsabilidade criminal.
 
@@ -155,8 +194,8 @@ b) Se proponham iniciar a sua actividade com um parque de veículos exclusivamen
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 12 de Agosto de 1977.**
+Promulgado em 12 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49480-1969-213064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eab371ef5e491ed2b6793424ca6c6715705e89c13a41fa57a2f7137d0926c121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db658d4528cf5d214dab4481d580af9c80d8395a675a09d4c984375dc6eeff37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:07Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério das Finanças
 
@@ -114,17 +130,17 @@ Do artigo 54.º, n.º 1) «Pessoal dos quadros ... - Continente» ... -30000$00
 
 Para o artigo 56.º, n.º 3), alínea 1 «Subsídio de residência, ...» ... +30000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 11273973$10 destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 11273973$10 destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 9.º «Departamento da Defesa Nacional - Secretariado-Geral da Defesa Nacional»:
+Capítulo 9.º «Departamento da Defesa Nacional - Secretariado-Geral da Defesa Nacional»:
 
-###### Artigo 154.º, n.º 1) «Rendas de casa» ... 4500$00
+Artigo 154.º, n.º 1) «Rendas de casa» ... 4500$00
 
-### Capítulo 10.º «Secretaria de Estado da Aeronáutica - Regimento de Caçadores Pára-Quedistas (Tancos)»:
+Capítulo 10.º «Secretaria de Estado da Aeronáutica - Regimento de Caçadores Pára-Quedistas (Tancos)»:
 
-###### Artigo 324.º «Material de consumo corrente»:
+Artigo 324.º «Material de consumo corrente»:
 
 N.º 3) «Artigos de expediente ...» ... 100000$00
 
@@ -134,35 +150,35 @@ N.º 4) «Material para elaboração de compêndios, ...» ... 20000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 10.º, n.º 3) «Despesas de instalação» ... 200000$00
+Artigo 10.º, n.º 3) «Despesas de instalação» ... 200000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços internos»:
+Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços internos»:
 
-###### Artigo 27.º, n.º 5) «Outras despesas resultantes de deslocações ao estrangeiro ...» ... 325390$00
+Artigo 27.º, n.º 5) «Outras despesas resultantes de deslocações ao estrangeiro ...» ... 325390$00
 
 ... 525390$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 55.º, n.º 1) «Luz, ...» ... 5439$30
+Artigo 55.º, n.º 1) «Luz, ...» ... 5439$30
 
-###### Artigo 56.º, n.º 2) «Telefones» ... 13348$70
+Artigo 56.º, n.º 2) «Telefones» ... 13348$70
 
 ... 18788$00
 
 Ministério da Educação Nacional
 
-### Capítulo 4.º «Direcção-Geral do Ensino Liceal»:
+Capítulo 4.º «Direcção-Geral do Ensino Liceal»:
 
 Ensino liceal
 
 Liceus
 
-###### Artigo 786.º «Despesas de conservação ...»:
+Artigo 786.º «Despesas de conservação ...»:
 
 N.º 1), alínea 1 «Prédios urbanos»:
 
@@ -176,11 +192,11 @@ N.º 2) «De móveis»:
 
 Liceu Nacional da Rainha Santa Isabel (Porto) ... 7000$00
 
-###### Artigo 787.º, n.º 1) «Impressos»:
+Artigo 787.º, n.º 1) «Impressos»:
 
 Liceu de Cascais ... 8000$00
 
-###### Artigo 788.º, n.º 2) «Luz, ...»:
+Artigo 788.º, n.º 2) «Luz, ...»:
 
 Liceu de Cascais ... 15000$00
 
@@ -188,11 +204,11 @@ Liceu da Covilhã ... 12000$00
 
 ... 27000$00
 
-###### Artigo 789.º, n.º 2) «Telefones»:
+Artigo 789.º, n.º 2) «Telefones»:
 
 Liceu de Viana do Castelo ... 1500$00
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
 
 Ensino industrial e comercial
 
@@ -200,17 +216,17 @@ Ensino médio
 
 Instituto Industrial de Lisboa
 
-###### Artigo 817.º «Despesas de conservação ...»:
+Artigo 817.º «Despesas de conservação ...»:
 
 N.º 1), alínea 1 «Prédios urbanos» ... 29000$00
 
 N.º 2) «De móveis» ... 62000$00
 
-###### Artigo 819.º, n.º 1) «Luz, ...» ... 5000$00
+Artigo 819.º, n.º 1) «Luz, ...» ... 5000$00
 
 Escolas técnicas industriais, comerciais e industriais-comerciais
 
-###### Artigo 860.º «Material de consumo corrente»:
+Artigo 860.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...»:
 
@@ -224,7 +240,7 @@ N.º 3) «Artigos de expediente ...»:
 
 Escola Industrial de Clara de Resende (Porto) ... 3000$00
 
-###### Artigo 861.º, n.º 2) «Luz, ...»:
+Artigo 861.º, n.º 2) «Luz, ...»:
 
 Escola Industrial e Comercial de Peniche ... 5500$00
 
@@ -238,7 +254,7 @@ Ensino médio
 
 Escola de Regentes Agrícolas de Coimbra
 
-###### Artigo 872.º, n.º 2) «Luz, ...» ... 32000$00
+Artigo 872.º, n.º 2) «Luz, ...» ... 32000$00
 
 ... 224000$00
 
@@ -246,59 +262,59 @@ Ministério da Economia
 
 Secretaria de Estado da Indústria
 
-### Capítulo 13.º «Gabinete do Secretário de Estado»:
+Capítulo 13.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 264.º, n.º 1) «Pagamento de serviços ...» ... 280000$00
+Artigo 264.º, n.º 1) «Pagamento de serviços ...» ... 280000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 64.º, n.º 3) «Encargos com a assistência a diminuídos físicos» ... 10101295$10
+Artigo 64.º, n.º 3) «Encargos com a assistência a diminuídos físicos» ... 10101295$10
 
 ... 11273973$10
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 8.º, artigo 206.º «Assistência a diminuídos físicos» ... 10101295$10
+Capítulo 8.º, artigo 206.º «Assistência a diminuídos físicos» ... 10101295$10
 
 Encargos Gerais da Nação
 
-### Capítulo 9.º, artigo 146.º, n.º 1) ... 4500$00
+Capítulo 9.º, artigo 146.º, n.º 1) ... 4500$00
 
-### Capítulo 10.º, artigo 313.º, n.º 1), alínea 2 ... 120000$00
+Capítulo 10.º, artigo 313.º, n.º 1), alínea 2 ... 120000$00
 
 ... 124500$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 325390$00
+Capítulo 1.º, artigo 13.º ... 325390$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 5.º, artigo 30.º, n.º 2) ... 200000$00
+Capítulo 5.º, artigo 30.º, n.º 2) ... 200000$00
 
 Ministério das Obras PúblicasCapítulo 4.º, artigo 53.º, n.º 1), alínea 34 ... 18788$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º, artigo 22.º, n.º 3), alínea 6 ... 39000$00
+Capítulo 2.º, artigo 22.º, n.º 3), alínea 6 ... 39000$00
 
-### Capítulo 4.º, artigo 782.º, n.º 1) ... 14000$00
+Capítulo 4.º, artigo 782.º, n.º 1) ... 14000$00
 
-### Capítulo 5.º, artigo 855.º, n.º 1) ... 171000$00
+Capítulo 5.º, artigo 855.º, n.º 1) ... 171000$00
 
 ... 224000$00
 
 Ministério da Economia
 
-### Capítulo 18.º, artigo 324.º, n.º 1) ... 30000$00
+Capítulo 18.º, artigo 324.º, n.º 1) ... 30000$00
 
-### Capítulo 18.º, artigo 331.º, n.º 1), alínea 1 ... 100000$00
+Capítulo 18.º, artigo 331.º, n.º 1), alínea 1 ... 100000$00
 
-### Capítulo 18.º, artigo 332.º, n.º 4) ... 150000$00
+Capítulo 18.º, artigo 332.º, n.º 4) ... 150000$00
 
 ... 280000$00
 
@@ -308,8 +324,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Dezembro de 1969.**
+Promulgado em 30 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

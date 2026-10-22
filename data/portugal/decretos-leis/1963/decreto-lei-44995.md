@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/04/09700/04010402.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44aa9c9cbf16ba081682f9d862434d811ee40499ae7a1652e3435f93c17a4d14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 757fa4f0e3b98f28a6ef299c6d6ef0e8f4570aebe64c06580dea97ccba20501e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente das Forças Armadas
+- Forças Armadas
+- Incapacidade Física
+- Militar
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:421985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:421985:por
+  label: "Revogado pelo DEC LEI.210/73.1973.05.09.PC DG.IS [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1973-421985
+  date: '1973-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:45Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +108,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os militares dos quadros permanentes das forças armadas mutilados em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública ou em serviço directamente relacionado podem, se assim o desejarem, continuar no serviço activo ainda que a sua capacidade física apenas lhes permita o seu desempenho em cargos ou funções que dispensam plena validez.
+Artigo 1.º Os militares dos quadros permanentes das forças armadas mutilados em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública ou em serviço directamente relacionado podem, se assim o desejarem, continuar no serviço activo ainda que a sua capacidade física apenas lhes permita o seu desempenho em cargos ou funções que dispensam plena validez.
 
 § 1.º Para efeitos do disposto neste diploma, consideram-se mutilados os militares que, em consequência dos ferimentos ou acidentes referidos, hajam sofrido perda anatómica, prejuízo ou perda de qualquer órgão ou função.
 
 § 2.º Ficam exceptuados do âmbito definido no corpo do artigo os ferimentos ou acidentes intencionalmente provocados pelo próprio mutilado ou provenientes de acções ou omissões por ele cometidas contra ordens expressas superiores ou em desrespeito das condições de segurança determinadas por autoridade competente.
 
-###### Art. 2.º Os militares nas condições do artigo anterior, logo que esteja concluído o respectivo tratamento, são presentes a uma junta médica, que julgará se se encontram aptos para todo o serviço activo ou apenas para o desempenho de cargos que dispensem plena validez, segundo normas a estabelecer para cada departamento por portaria do titular respectivo.
+Art. 2.º Os militares nas condições do artigo anterior, logo que esteja concluído o respectivo tratamento, são presentes a uma junta médica, que julgará se se encontram aptos para todo o serviço activo ou apenas para o desempenho de cargos que dispensem plena validez, segundo normas a estabelecer para cada departamento por portaria do titular respectivo.
 
 § 1.º Os militares que, nos termos deste artigo, forem considerados aptos para todo o serviço activo continuam ao serviço nas mesmas condições e circunstâncias como se não tivessem sofrido mutilação.
 
@@ -112,17 +122,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Os militares nas condições do § 1.º podem ser de novo presentes à junta, para serem colocados na situação referida no § 2.º, quando as consequências da respectiva mutilação venham posteriormente a ser agravadas por motivos de saúde, mesmo que não decorrentes de razões de serviço.
 
-###### Art. 3.º Os mutilados na situação referida no § 2.º do artigo anterior são dispensados das condições especiais de promoção que a junta que os examinou tenha reconhecido serem incompatíveis com o seu grau de invalidez. Em caso algum, porém, será dispensada a realização de cursos, estágios ou provas que constituam condições especiais de promoção.
+Art. 3.º Os mutilados na situação referida no § 2.º do artigo anterior são dispensados das condições especiais de promoção que a junta que os examinou tenha reconhecido serem incompatíveis com o seu grau de invalidez. Em caso algum, porém, será dispensada a realização de cursos, estágios ou provas que constituam condições especiais de promoção.
 
 § único. Na promoção dos militares de que trata este artigo, a verificação da aptidão física será feita tendo em conta as limitações naturalmente decorrentes da sua condição de mutilados.
 
-###### Art. 4.º Os militares nas condições do artigo 1.º do presente diploma que, em resultado do tratamento a que tenham de ser submetidos, não hajam completado as condições de promoção quando esta lhes competir, não serão preteridos e a sua promoção terá lugar logo que o seu estado físico permitir a realização dessas condições ou delas venham a ser dispensados nos termos do artigo anterior.
+Art. 4.º Os militares nas condições do artigo 1.º do presente diploma que, em resultado do tratamento a que tenham de ser submetidos, não hajam completado as condições de promoção quando esta lhes competir, não serão preteridos e a sua promoção terá lugar logo que o seu estado físico permitir a realização dessas condições ou delas venham a ser dispensados nos termos do artigo anterior.
 
 § 1.º Os militares abrangidos pelo preceituado no corpo deste artigo, ao serem promovidos, vão ocupar na escala o lugar que lhes caberia se a promoção tivesse sido feita na devida altura, contando, para todos os efeitos, a respectiva antiguidade, e percebem o aumento de vencimentos correspondente ao novo posto a partir da data em que o teriam percebido se não fora a demora, a qual será fixada sempre no instrumento legal respectivo.
 
 § 2.º O disposto neste artigo aplica-se igualmente aos militares que hajam sido feridos ou sofrido acidentes nas condições expressas no artigo 1.º, mesmo que de tal não haja resultado mutilação.
 
-###### Art. 5.º A apreciação da capacidade física dos mutilados para o efeito de continuarem no serviço activo, de que trata o artigo 2.º, compete à Junta Hospitalar de Inspecção, que funciona no Hospital Militar Principal, para os militares do Exército, à Junta de Saúde Naval, para os militares da Armada, e à Junta de Saúde da Aeronáutica, para os militares da Força Aérea.
+Art. 5.º A apreciação da capacidade física dos mutilados para o efeito de continuarem no serviço activo, de que trata o artigo 2.º, compete à Junta Hospitalar de Inspecção, que funciona no Hospital Militar Principal, para os militares do Exército, à Junta de Saúde Naval, para os militares da Armada, e à Junta de Saúde da Aeronáutica, para os militares da Força Aérea.
 
 § 1.º As deliberações das referidas Juntas carecem de ser homologadas pelo titular do departamento respectivo, ainda que não envolvam mudanças de situação - reserva ou reforma.
 
@@ -132,13 +142,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º É permitido ao recorrente juntar ao processo atestados, relatórios ou outros elementos clínicos que julgue convenientes.
 
-###### Art. 6.º O disposto neste diploma aplica-se aos militares com posto ou graduação igual ou superior a primeiro-cabo no Exército e na Força Aérea e a marinheiro na Armada que façam parte dos respectivos quadros permanentes.
+Art. 6.º O disposto neste diploma aplica-se aos militares com posto ou graduação igual ou superior a primeiro-cabo no Exército e na Força Aérea e a marinheiro na Armada que façam parte dos respectivos quadros permanentes.
 
-###### Art. 7.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho conjunto do Ministro da Defesa Nacional e do titular ou titulares dos departamentos militares interessados.
+Art. 7.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho conjunto do Ministro da Defesa Nacional e do titular ou titulares dos departamentos militares interessados.
 
-###### Art. 8.º As disposições do presente diploma são aplicáveis aos militares feridos ou vítimas de acidentes posteriormente a 1 de Janeiro de 1961, ainda que, por virtude da incapacidade sofrida, hajam já mudado de situação anteriormente à sua entrada em vigor.
+Art. 8.º As disposições do presente diploma são aplicáveis aos militares feridos ou vítimas de acidentes posteriormente a 1 de Janeiro de 1961, ainda que, por virtude da incapacidade sofrida, hajam já mudado de situação anteriormente à sua entrada em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Ferrando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Francisco António das Chagas.
 

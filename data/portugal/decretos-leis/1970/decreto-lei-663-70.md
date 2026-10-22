@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1970-154466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e89a40c974103b23fe34aa0f6c76db4ba244b8b1f114565eb9260916c01fa5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ebaec272109d73d77f107aa0d90a3b7aaa4738e43b139821188dce37911772d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Investimento
+- Banco de Portugal
+- Contrato
+- Definição de Competências
+- Emissão de Títulos
+- Financiamento
+- Instituto Público
+- Ministro das Finanças
+- Plano de Fomento
+- Promissoria do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:21Z'
   warnings: []
   errors: []
 ---
@@ -100,25 +126,25 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério das Finanças a celebrar com o Banco de Portugal um contrato nos termos constantes das bases anexas a este decreto-lei e que dele são parte integrante.
+Artigo 1.º É autorizado o Ministério das Finanças a celebrar com o Banco de Portugal um contrato nos termos constantes das bases anexas a este decreto-lei e que dele são parte integrante.
 
-###### Art. 2.º Os artigos 17.º, 18.º e § único, 19.º, 20.º, 21.º, 22.º e § único do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 17.º, 18.º e § único, 19.º, 20.º, 21.º, 22.º e § único do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960, passam a ter a seguinte redacção:
 
-###### Art. 17.º O produto da emissão de promissórias de fomento nacional poderá ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimento e institutos públicos, para ser por eles utilizado de harmonia com as aplicações indicadas nos respectivos planos de emissão.
+Art. 17.º O produto da emissão de promissórias de fomento nacional poderá ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimento e institutos públicos, para ser por eles utilizado de harmonia com as aplicações indicadas nos respectivos planos de emissão.
 
-###### Art. 18.º Os empréstimos e suprimentos mencionados no artigo anterior, cujas condições gerais ficam sujeitas a aprovação por despacho do Ministro das Finanças, publicado no Diário do Governo, serão titulados por via de escritura assinada pelo director-geral da Fazenda Pública e pelos legais representantes das entidades interessadas nas operações.
+Art. 18.º Os empréstimos e suprimentos mencionados no artigo anterior, cujas condições gerais ficam sujeitas a aprovação por despacho do Ministro das Finanças, publicado no Diário do Governo, serão titulados por via de escritura assinada pelo director-geral da Fazenda Pública e pelos legais representantes das entidades interessadas nas operações.
 
 § único. Dos despachos de aprovação deverão constar, além das importâncias dos empréstimos ou suprimentos, as condições de juro e de reembolso, as garantias e a indicação expressa das aplicações reprodutivas a que se destinam os capitais mutuados, bem como as condições de juro ou outras a que os interessados devam obedecer na utilização dos mesmos capitais.
 
-###### Art. 19.º As entidades referidas no artigo 17.º não poderão empregar para fins diferentes dos acordados os capitais recebidos nos termos dos artigos precedentes, sob pena de os respectivos empréstimos e suprimentos se considerarem desde logo vencidos, sem prejuízo de outras sanções legais ou contratuais aplicáveis.
+Art. 19.º As entidades referidas no artigo 17.º não poderão empregar para fins diferentes dos acordados os capitais recebidos nos termos dos artigos precedentes, sob pena de os respectivos empréstimos e suprimentos se considerarem desde logo vencidos, sem prejuízo de outras sanções legais ou contratuais aplicáveis.
 
-###### Art. 20.º As entidades referidas no artigo 17.º deverão escriturar nos seus livros e levar aos respectivos balanços os empréstimos ou suprimentos recebidos do Estado, pelo valor do respectivo capital em dívida e sob a designação «Empréstimos e suprimentos do Estado Português - Conta aplicação de promissórias de fomento nacional», indicando nos mesmos balanços, por categorias, as operações resultantes da aplicação dos capitais dos referidos empréstimos e suprimentos.
+Art. 20.º As entidades referidas no artigo 17.º deverão escriturar nos seus livros e levar aos respectivos balanços os empréstimos ou suprimentos recebidos do Estado, pelo valor do respectivo capital em dívida e sob a designação «Empréstimos e suprimentos do Estado Português - Conta aplicação de promissórias de fomento nacional», indicando nos mesmos balanços, por categorias, as operações resultantes da aplicação dos capitais dos referidos empréstimos e suprimentos.
 
-###### Art. 21.º As Direcções-Gerais da Fazenda Pública e da Contabilidade Pública tomarão as providências necessárias para se abrir na escrita do Estado uma conta especial sob a designação «Empréstimos e suprimentos em aplicação do produto da emissão de promissórias de fomento nacional», na qual serão escrituradas todas as operações referidas nos artigos 17.º e 18.º do presente decreto-lei.
+Art. 21.º As Direcções-Gerais da Fazenda Pública e da Contabilidade Pública tomarão as providências necessárias para se abrir na escrita do Estado uma conta especial sob a designação «Empréstimos e suprimentos em aplicação do produto da emissão de promissórias de fomento nacional», na qual serão escrituradas todas as operações referidas nos artigos 17.º e 18.º do presente decreto-lei.
 
 § único. Esta conta especial poderá ser desdobrada por forma a considerarem-se em separado os movimentos de cada uma das aplicações previstas para o produto da emissão das promissórias de fomento nacional.
 
-###### Art. 22.º Os juros dos empréstimos e suprimentos concedidos pelo Estado nos termos previstos no presente diploma, tal como os de outras operações de crédito que venham a efectuar-se em aplicação do produto da emissão de promissórias de fomento nacional, serão escriturados em «Operações de tesouraria», numa conta sob a designação «Conta de compensação de juros de créditos», pela qual serão pagos os juros das promissórias em circulação.
+Art. 22.º Os juros dos empréstimos e suprimentos concedidos pelo Estado nos termos previstos no presente diploma, tal como os de outras operações de crédito que venham a efectuar-se em aplicação do produto da emissão de promissórias de fomento nacional, serão escriturados em «Operações de tesouraria», numa conta sob a designação «Conta de compensação de juros de créditos», pela qual serão pagos os juros das promissórias em circulação.
 
 § 1.º Os excedentes que venham a acumular-se na conta referida no corpo do presente artigo poderão ser utilizados pelo Ministro das Finanças para:
 
@@ -134,11 +160,11 @@ d) Financiamento de despesas de fomento a realizar através do Orçamento Geral 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -156,4 +182,4 @@ O Banco obriga-se a adquirir as promissórias de fomento nacional emitidas, quer
 
 § único. A obrigação de aquisição pelo Banco de Portugal limitar-se-á às promissórias que tenham sido emitidas com o seu prévio acordo, de conformidade com o previsto no artigo 11.º do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), e a totalidade das promissórias adquiridas pelo Banco nunca poderá exceder a importância global fixada na base I do presente contrato.
 
-**O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro das Finanças, João Augusto Dias Rosas.

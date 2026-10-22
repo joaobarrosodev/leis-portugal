@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11100/11261126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1981-573899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60b4da369309b066eca80c9a1531f7ebcbe02a37fada89cf17b03eb868b2e8d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 679d6d41fecae3a094c351a7306878e7d1bb00af94f40bb64c1b6d7bcecd384e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Pessoal Docente
+- Telescola
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451654:por
+  label: "Prorrogado por um período de 2 anos o prazo estabelecido no artigo único do presente diploma, pelo DEC LEI.234/83.30.05.1983.ME,\
+    \ DR.IS [124] de 30.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1983-451654
+  date: '1983-05-30'
+- type: cites
+  target: pt:dre:448941:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:07Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +115,12 @@ Considerando, porém, a necessidade de, entretanto, manter o adequado nível de 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O prazo de três anos estabelecido no n.º 2 do artigo 15.º do [Decreto-Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1978-448941), de 27 de Janeiro, pode ser prorrogado por um período de dois anos.
+Artigo único. O prazo de três anos estabelecido no n.º 2 do artigo 15.º do [Decreto-Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1978-448941), de 27 de Janeiro, pode ser prorrogado por um período de dois anos.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Maio de 1981.**
+Promulgado em 6 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

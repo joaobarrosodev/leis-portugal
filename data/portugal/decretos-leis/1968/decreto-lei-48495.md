@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48495-1968-273596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3275eb784e7ee9da04edc8bb774ff9902fea892054fc7b44ea25a1f1aa853114
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4599caf5a42cfda47a0c3836173ace562c52d2b43bc349f7e9bfac2ed0808060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Criança
+- HAIA
+- Menoridade
+- Obrigação Alimentar
+- Portugal
+- Proteção à Infância
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:06Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +92,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Relativa à Lei Aplicável em Matéria de Prestação de Alimentos a Menores, concluída na Haia em 24 de Outubro de 1956, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção Relativa à Lei Aplicável em Matéria de Prestação de Alimentos a Menores, concluída na Haia em 24 de Outubro de 1956, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha-Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -195,7 +202,7 @@ Desejando estabelecer disposições comuns relativas à lei aplicável às obrig
 
 Decidiram celebrar uma Convenção destinada a esse efeito e acordaram nas seguintes disposições:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A lei da residência habitual do menor determina se, em que medida e a quem ele pode reclamar a prestação de alimentos.
 
@@ -205,7 +212,7 @@ A referida lei regula também a questão de saber quem é admitido a intentar a 
 
 Pelo termo «menor» entende-se, para os fins da presente Convenção, todo o indivíduo filho legítimo, ilegítimo ou adoptivo que, sem ter ainda completado 21 anos, não esteja casado.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Por derrogação às disposições do artigo 1.º, qualquer dos Estados contratantes pode declarar aplicável a sua própria lei, nos casos em que:
 
@@ -215,25 +222,25 @@ b) Tanto a pessoa a quem seja reclamada a prestação de alimentos como o menor 
 
 c) A pessoa a quem a prestação de alimentos seja reclamada tenha residência habitual nesse Estado.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 No caso de a lei da residência habitual do menor lhe recusar qualquer direito a obter prestação de alimentos, será aplicada, contràriamente às disposições que antecedem, a lei resultante das regras nacionais de conflitos da autoridade requerida.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 A lei declarada aplicável pela presente Convenção só pode ser afastada em caso de manifesta incompatibilidade com a ordem pública do Estado a que pertence a autoridade requerida.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 A presente Convenção não se aplica às relações da prestação de alimentos entre colaterais.
 
 Regula apenas os conflitos de leis em matéria de obrigação de prestação de alimentos. As decisões proferidas em aplicação da presente Convenção não podem pronunciar-se sobre questões de filiação e relações de família entre o devedor e o credor.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 A Convenção não se aplica senão aos casos em que a lei designada no artigo 1.º é a de um dos Estados contratantes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 A presente Convenção está aberta à assinatura dos Estados representantes na Oitava Sessão da Conferência da Haia de Direito Internacional Privado.
 
@@ -241,13 +248,13 @@ Será ratificada e os instrumentos de ratificação depositados junto do Minist�
 
 De cada depósito de instrumentos de ratificação será lavrada acta, da qual será enviada, por via diplomática, cópia autenticada a cada um dos Estados signatários.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A presente Convenção entrará em vigor no 60.º dia a contar do depósito do quarto instrumento de ratificação previsto pelo artigo 7.º, alínea 2.
 
 Em relação a cada Estado signatário que a ratifique posteriormente, a Convenção entrará em vigor no 60.º dia a contar da data do depósito do respectivo instrumento de ratificação.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 A presente Convenção aplica-se de pleno direito aos territórios metropolitanos dos Estados contratantes.
 
@@ -255,17 +262,17 @@ Se um Estado contratante desejar que a presente Convenção vigore em todos os o
 
 A Convenção entrará em vigor nas relações entre os Estados que não apresentarem objecção dentro de seis meses após aquela comunicação e o território ou territórios por cujas relações internacionais o Estado em questão é responsável e em relação ao qual ou aos quais a notificação tiver sido feita.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Qualquer Estado não representado na Oitava Sessão da Conferência poderá aderir à presente Convenção, a menos que um ou vários Estados que tenham ratificado a Convenção a isso se oponha, no prazo de seis meses a contar da data em que o Governo Holandês comunicar essa adesão, que será feita pelo modo previsto no artigo 7.º, alínea 2.
 
 Entende-se que as adesões só poderão ser efectuadas depois da presente Convenção entrar em vigor, em conformidade com o artigo 8.º, alínea 1.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Cada Estado contratante, ao assinar ou ratificar a presente Convenção, ou ao aderir a esta, pode fazer reserva da sua não aplicação aos menores que sejam filhos adoptivos.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 A presente Convenção terá a duração de cinco anos, a partir da data indicada no artigo 8.º, alínea 1, mesmo para os Estados que a tenham ratificado ou a ela tenham aderido posteriormente.
 

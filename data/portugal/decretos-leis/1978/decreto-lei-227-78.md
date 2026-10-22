@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1978-299628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b172d41cc004acd4830c012c9efcf4d67965f53787343b20e2603674337bcfbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 147c414f55537732b554d4657eaf482bef1e9137280dc5acede28991811601cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diuturnidades
+- GNR
+- Guarda Fiscal
+- Marinha
+- Militar
+- Pessoal Militarizado
+- PSP
+- Quadro de Pessoal
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:161891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:43Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +111,9 @@ Considerando a necessidade de reajustar em conformidade, no que for relevante, o
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 18.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, toma a redacção seguinte:
+Artigo 1.º O n.º 3 do artigo 18.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, toma a redacção seguinte:
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - ...
 
@@ -104,12 +125,12 @@ b) Para os indivíduos transferidos para o QPMM ao abrigo do artigo 22.º do [De
 
 c) Por forma a incluir todo o tempo de serviço prestado em qualquer dos ramos das forças armadas, nos quadros da Polícia de Segurança Pública, Guarda Nacional Republicana e Guarda Fiscal ou nos quadros de pessoal civil militarizado dos ramos onde eles existem.
 
-###### Art. 2.º Os encargos decorrentes da execução deste diploma no ano em curso serão suportados pela verba adequada do orçamento da Marinha.
+Art. 2.º Os encargos decorrentes da execução deste diploma no ano em curso serão suportados pela verba adequada do orçamento da Marinha.
 
 Visto e aprovado em Conselho da Revolução em 12 de Julho de 1978.
 
-**Promulgado em 18 de Julho de 1978.**
+Promulgado em 18 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

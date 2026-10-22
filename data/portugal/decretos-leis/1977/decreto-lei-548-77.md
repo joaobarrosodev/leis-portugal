@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,193 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f82ce4806a6e55604e3d7099f263165891af4aa9eb3dbc3d80362e291b5e061
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80d0b8ea809d24153d53e7e998d6473ba15c14bbda9db7170e8c056a04cbabc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Centro de Coordenação da Indústria Metalo-mecânica Pesada
+- Centro de Coordenação da Indústria Naval
+- Comissão de Protecção contra as Radiações Ionizantes
+- Conselho Superior da Indústria
+- Conselho Superior de Electricidade
+- Conselho Superior de Minas
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Qualidade
+- Direcção Geral da Qualidade e Segurança Industrial
+- Direcção Geral das Indústrias Alimentares
+- Direcção Geral das Indústrias da Madeira e da Cortiça
+- Direcção Geral das Indústrias Electromecânicas
+- Direcção Geral das Indústrias Electromecânicas e Electrónicas
+- Direcção Geral das Indústrias Química e Metalúrgica
+- Direcção Geral das Indústrias Químicas Cerâmicas e Vidreiras
+- Direcção Geral das Indústrias Químicas de BASE
+- Direcção Geral das Indústrias Têxteis e do Vestuário
+- Direcção Geral das Indústrias Transformadoras Ligeiras
+- Direcção Geral de Energia
+- Direcção Geral de Geologia e Minas
+- Direcção Geral de Minas e Metalurgia
+- Direcção Geral de Minas e Serviços Geológicos
+- Direcção Geral dos Combustíveis
+- Direcção Geral dos Serviços Eléctricos
+- Direcção Geral dos Serviços Industriais
+- Extinção de Serviços
+- Gabinete de Estudos e Planeamento
+- Gabinete de Formação e Informação Técnica
+- Gabinete de Organização e Relações de Trabalho
+- Gabinete de Promoção do Investimento
+- Gabinete de Protecção e Segurança Nuclear
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Inspecção Geral dos Produtos Agrícolas e Industriais
+- Instituto de Geologia Minas e Metalurgia
+- Instituto Nacional de Investigação Industrial
+- Instituto Português de Electricidade
+- Junta de Energia Nuclear
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Ministério da Indústria e Tecnologia
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Técnico
+- Quadro de Pessoal
+- Secretaria de Estado da Energia e Minas
+- Secretaria de Estado da Indústria Ligeira
+- Secretaria de Estado da Indústria Pesada
+- Secretaria Geral
+- Serviço de Apoio ao Investidor
+- Serviço Regional
+- Transferência de Competências
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO POR 60 DIAS O PRAZO ESTABELECIDO NO NUMERO 1 DO ARTIGO 63 E INTRODUZIDAS DISPOSIÇÕES AOS ARTIGOS 55 E\
+    \ 65, PELO DECRETO LEI 105/78, PUBLICADO NO DR.IS, 118, DE 780523. ESCLARECIDAS DÚVIDAS SOBRE A INTERPRETAÇÃO A DAR A\
+    \ PARTE FINAL DO NUMERO 3 DO ARTIGO 48, PELO DESPACHO NORMATIVO 29/79, PUBLICADO NO DR.IS, 31, DE 700206. DEFINIDA A COMPOSICAO\
+    \ DO QUADRO DE PESSOAL DIRIGENTE DO GABINETE DE PROTECÇÃO E SEGURANÇA NUCLEAR QUE LHE E ATRIBUIDO PELO MAPA ANEXO AO PRESENTE\
+    \ DIPLOMA, PELA PORTARIA 345/79, PUBLICADA NO DR.IS, 160, DE 790713. ALTERADO O NUMERO 1 DO ARTIGO 55, PELO DECRETO LEI\
+    \ 284/79, PUBLICADO NO DR.IS, 185, DE 790811. REVOGADAS AS DISPOSIÇÕES RESPEITANTES A DIRECÇÃO GERAL DA QUALIDADE, PELO\
+    \ DECRETO LEI 183/86, PUBLICADO NO DR.IS, 158, DE 860712. EXTINTO O GABINETE DE PROMOÇÃO DO INVESTIMENTO PELO DECRETO\
+    \ LEI 152/86, PUBLICADO NO DR.IS, 138, DE 860619. REVOGADO PELO DECRETO LEI 206/89, PUBLICADO NO DR.IS, 145, DE 890627.\
+    \ EXTINTO O GABINETE DE PROTECÇÃO E SEGURANÇA NUCLEAR, PELO DECRETO LEI 187/93, PUBLICADO NO DR.IS-A, 120, DE 930524.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:654681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:296375:por
+  label: Prorrogado por 60 dias o prazo estabelecido no n.º 1 do art. 63.º e complementadas algumas disposições contidas nos
+    arts. 55.º e 65.º pelo(a) Decreto-Lei n.º 105/78 - Diário da República n.º 118/1978, Série I de 1978-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1978-296375
+  date: '1978-05-23'
+- type: amended_by
+  target: pt:dre:381758:por
+  label: "Alterados os quadros de pessoal dirigente e técnico anexos ao presente diploma, pela PORT.345/79.13.07.1979.PCM,\
+    \ DR.IS [160] de 13.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-1979-381758
+  date: '1979-07-13'
+- type: amended_by
+  target: pt:dre:377878:por
+  label: "Alterado o n.º 1 do artigo 55.º do presente diploma, pelo DEC LEI.284/79.11.08.1979.MIT, DR.IS [185] de 11.08.1979\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1979-377878
+  date: '1979-08-11'
+- type: amended_by
+  target: pt:dre:217702:por
+  label: "Alterada a designação do Laboratório Nacional de Engenharia e Tecnologia Industrial, criado pelo presente diploma,\
+    \ pelo DEC LEI.240/92.1992.10.29.MIE, DR.IS-A [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1992-217702
+  date: '1992-10-29'
+- type: amended_by
+  target: pt:dre:654681:por
+  label: "Extinta a Direcção Geral da Energia pelo DEC LEI.186/2003.2003.08.20.MECO DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2003-654681
+  date: '2003-08-20'
+- type: cites
+  target: pt:dre:159907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430647:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:448770:por
+  label: Rectificado pela DECL.DD7543.30.01.1978.PCM, DR.IS [25] de 30.01.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-448770
+  date: '1978-01-30'
+- type: corrected_by
+  target: pt:dre:446547:por
+  label: Rectificado pela DECL.DD7592.22.02.1978.PCM, DR.IS [44] de 22.02.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-446547
+  date: '1978-02-22'
+- type: corrected_by
+  target: pt:dre:445965:por
+  label: Rectificado pela DECL.DD7609.03.03.1978.PCM, DR.IS [52] de 03.03.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-445965
+  date: '1978-03-03'
+- type: corrected_by
+  target: pt:dre:425172:por
+  label: Retificado o art. 56.º pelo(a) Declaração - Diário da República n.º 90/1978, Série I de 1978-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-425172
+  date: '1978-04-18'
+- type: repealed_by
+  target: pt:dre:228207:por
+  label: "Revogado, na parte respeitante à Direcção-Geral da Qualidade, o presente diploma e legislação complementar, pelo\
+    \ DEC LEI.183/86.12.07.1986.MIC, DR.IS [158] de 12.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1986-228207
+  date: '1986-07-12'
+- type: repealed_by
+  target: pt:dre:620758:por
+  label: "Revogado pelo DEC LEI.206/89.27.06.1989.MIE, DR.IS [145]de 27.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1989-620758
+  date: '1989-06-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:16Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +265,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Atribuições
 
-###### Artigo 1.º O Ministério da Indústria e Tecnologia é superiormente dirigido pelo Ministro da Indústria e Tecnologia, tendo por atribuições executar as acções necessárias ao cumprimento da política definida pelo Governo nos sectores industrial e energético, designadamente:
+Artigo 1.º O Ministério da Indústria e Tecnologia é superiormente dirigido pelo Ministro da Indústria e Tecnologia, tendo por atribuições executar as acções necessárias ao cumprimento da política definida pelo Governo nos sectores industrial e energético, designadamente:
 
 a) Elaborar e propor o plano de desenvolvimento industrial e energético a integrar no plano geral de desenvolvimento do País;
 
@@ -130,11 +283,11 @@ g) Efectuar a cartografia geológica de todo o território nacional, a inventari
 
 h) Disciplinar o exercício da actividade nos sectores industrial e energético.
 
-###### Art. 2.º A função administrativa do Ministro poderá ser exercida por Secretários e Subsecretários de Estado.
+Art. 2.º A função administrativa do Ministro poderá ser exercida por Secretários e Subsecretários de Estado.
 
 ### CAPÍTULO II — Competências do Ministro, Secretários de Estado e Subsecretários de Estado
 
-###### Art. 3.º Compete ao Ministro, designadamente:
+Art. 3.º Compete ao Ministro, designadamente:
 
 a) Propor a política industrial e energética e fazer executar a que for definida pelo Governo;
 
@@ -144,19 +297,19 @@ c) Superintender e coordenar toda a acção do Ministério;
 
 d) Assegurar a orientação e coordenação dos Serviços que lhe estejam directamente dependentes.
 
-###### Art. 4.º Compete aos Secretários de Estado, designadamente:
+Art. 4.º Compete aos Secretários de Estado, designadamente:
 
 a) Coadjuvar o Ministro no estabelecimento da política industrial e energética a propor e colaborar na execução da que for definida, praticando todos os actos da sua competência;
 
 b) Orientar e coordenar os serviços que funcionarem na sua dependência.
 
-###### Art. 5.º Compete aos Subsecretários de Estado exercer as funções que lhes forem delegadas pelo Ministro.
+Art. 5.º Compete aos Subsecretários de Estado exercer as funções que lhes forem delegadas pelo Ministro.
 
-###### Art. 6.º O Ministro, Secretários e Subsecretários de Estado serão apoiados pelos respectivos gabinetes.
+Art. 6.º O Ministro, Secretários e Subsecretários de Estado serão apoiados pelos respectivos gabinetes.
 
 ### CAPÍTULO III — Estrutura do Ministério
 
-###### Art. 7.º - 1 - A estrutura do Ministério compreende os serviços centrais e as delegações regionais.
+Art. 7.º - 1 - A estrutura do Ministério compreende os serviços centrais e as delegações regionais.
 
 2 - Os serviços centrais compreendem:
 
@@ -196,19 +349,19 @@ Auditoria Jurídica.
 
 3 - Integrado na Secretaria-Geral, mas podendo ter a dependência funcional que lhe for fixada por despacho do Ministro, funciona o Gabinete de Organização e Recursos Humanos.
 
-###### Art. 8.º A competência, a organização, as normas de funcionamento e as dotações em pessoal dos serviços referidos no artigo anterior, bem como as demais disposições necessárias para assegurar o desempenho das suas atribuições, serão definidas nos respectivos diplomas orgânicos.
+Art. 8.º A competência, a organização, as normas de funcionamento e as dotações em pessoal dos serviços referidos no artigo anterior, bem como as demais disposições necessárias para assegurar o desempenho das suas atribuições, serão definidas nos respectivos diplomas orgânicos.
 
-###### Art. 9.º - 1 - Os serviços de inspecção, de investigação e de coordenação e apoio desenvolverão a sua actividade em estreita articulação com os serviços operativos do Ministério.
+Art. 9.º - 1 - Os serviços de inspecção, de investigação e de coordenação e apoio desenvolverão a sua actividade em estreita articulação com os serviços operativos do Ministério.
 
 2 - Os diplomas orgânicos dos serviços referidos definirão as formas pelas quais se efectuará a referida articulação.
 
-###### Art. 10.º - 1 - Os serviços operativos compreenderão, para além de serviços de coordenação e apoio, na dependência directa do director-geral, serviços executivos, a integrar em departamentos sectoriais a definir nos respectivos diplomas orgânicos, e que serão dirigidos por um subdirector-geral.
+Art. 10.º - 1 - Os serviços operativos compreenderão, para além de serviços de coordenação e apoio, na dependência directa do director-geral, serviços executivos, a integrar em departamentos sectoriais a definir nos respectivos diplomas orgânicos, e que serão dirigidos por um subdirector-geral.
 
 2 - O Ministro da Indústria e Tecnologia definirá por portaria as indústrias abrangidas por cada serviço operativo.
 
 3 - A afectação das indústrias referidas no número anterior a cada departamento sectorial será estabelecida por despacho do Ministro ou Secretário de Estado respectivo.
 
-###### Art. 11.º - 1 - As delegações regionais serão organizadas de modo a responder às necessidades de desenvolvimento da região sob sua jurisdição, nos sectores produtivos e nos domínios de actuação que encontrem justificação no condicionalismo regional.
+Art. 11.º - 1 - As delegações regionais serão organizadas de modo a responder às necessidades de desenvolvimento da região sob sua jurisdição, nos sectores produtivos e nos domínios de actuação que encontrem justificação no condicionalismo regional.
 
 2 - As áreas de jurisdição de cada delegação corresponderão às regiões Plano definidas pela Assembleia da República.
 
@@ -216,37 +369,37 @@ Auditoria Jurídica.
 
 4 - Na área de cada delegação, por decreto do Ministro das Finanças, do Ministro que tenha a seu cargo a Administração Pública e do Ministro da Indústria e Tecnologia, poderão ser criadas subdelegações regionais.
 
-###### Art. 12.º - 1 - Dependem directamente do Ministro da Indústria e Tecnologia os serviços de inspecção, de investigação e de coordenação e apoio.
+Art. 12.º - 1 - Dependem directamente do Ministro da Indústria e Tecnologia os serviços de inspecção, de investigação e de coordenação e apoio.
 
 2 - O Ministro poderá, porém, delegar nos Secretários e Subsecretários de Estado a orientação dos serviços referidos no número anterior.
 
-###### Art. 13.º O Ministro da Indústria e Tecnologia definirá, por despacho, as competências dos Secretários e Subsecretários de Estado no que se refere à orientação dos serviços operativos.
+Art. 13.º O Ministro da Indústria e Tecnologia definirá, por despacho, as competências dos Secretários e Subsecretários de Estado no que se refere à orientação dos serviços operativos.
 
-###### Art. 14.º - 1 - As delegações regionais dependerão no plano administrativo da Secretaria-Geral e no plano funcional dos serviços operativos e de inspecção do Ministério.
+Art. 14.º - 1 - As delegações regionais dependerão no plano administrativo da Secretaria-Geral e no plano funcional dos serviços operativos e de inspecção do Ministério.
 
 2 - Os assuntos que não caiam especificamente nas competências dos serviços referidos no número anterior serão resolvidos por despacho do Ministro. O Ministro poderá delegar num dos Secretários de Estado ou Subsecretários de Estado o exercício desta competência.
 
-###### Art. 15.º - 1 - Para apoio ao desenvolvimento industrial e energético poderão ser constituídos sob tutela do Ministério os institutos especializados que se considerem necessários.
+Art. 15.º - 1 - Para apoio ao desenvolvimento industrial e energético poderão ser constituídos sob tutela do Ministério os institutos especializados que se considerem necessários.
 
 2 - Ficam desde já sob tutela do Ministro da Indústria e Tecnologia o Instituto de Apoio às Pequenas e Médias Empresas Industriais, criado pelo [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro, e o Instituto de Desenvolvimento Industrial, criado pelo [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio.
 
-###### Art. 16.º - 1 - Para o exercício de funções de estudo ou executivas de carácter transitório e cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes poderão ser constituídos no Ministério, mediante despacho do Ministro da Indústria e Tecnologia, os grupos de trabalho ou comissões que se mostrarem convenientes.
+Art. 16.º - 1 - Para o exercício de funções de estudo ou executivas de carácter transitório e cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes poderão ser constituídos no Ministério, mediante despacho do Ministro da Indústria e Tecnologia, os grupos de trabalho ou comissões que se mostrarem convenientes.
 
 2 - Os despachos de constituição fixarão o mandato, a composição e o regime de funcionamento das comissões ou grupos de trabalho a que alude o número anterior e determinarão a forma como serão suportados os respectivos encargos.
 
 3 - As condições de remuneração serão fixadas de acordo com o disposto no artigo 3.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro.
 
-###### Art. 17.º O Ministro definirá, por despacho, as competências dos Secretários e Subsecretários de Estado no que se refere à orientação dos institutos, comissões e grupos de trabalho a que se referem os artigos anteriores.
+Art. 17.º O Ministro definirá, por despacho, as competências dos Secretários e Subsecretários de Estado no que se refere à orientação dos institutos, comissões e grupos de trabalho a que se referem os artigos anteriores.
 
-###### Art. 18.º O Ministro poderá delegar nos Secretários e Subsecretários de Estado as suas competências no que respeita à tutela administrativa sobre as empresas públicas ou nacionalizadas dos sectores industriais e energético.
+Art. 18.º O Ministro poderá delegar nos Secretários e Subsecretários de Estado as suas competências no que respeita à tutela administrativa sobre as empresas públicas ou nacionalizadas dos sectores industriais e energético.
 
-###### Art. 19.º As actividades dos serviços do Ministério da Indústria e Tecnologia decorrerão segundo um programa anual a aprovar pelo Ministro ou respectivos Secretários de Estado, devendo os mesmos ser objecto de um relatório de execução a submeter às referidas entidades até ao dia 31 de Março do ano seguinte.
+Art. 19.º As actividades dos serviços do Ministério da Indústria e Tecnologia decorrerão segundo um programa anual a aprovar pelo Ministro ou respectivos Secretários de Estado, devendo os mesmos ser objecto de um relatório de execução a submeter às referidas entidades até ao dia 31 de Março do ano seguinte.
 
 ### CAPÍTULO IV — Natureza e atribuições dos serviços centrais
 
 #### SECÇÃO I — Serviços operativos
 
-###### Art. 20.º - 1 - As Direcções-Gerais de Energia, Geologia e Minas, das Indústrias Química e Metalúrgica, das Indústrias Electromecânicas, das Indústrias Transformadoras Ligeiras são serviços de orientação dos sectores que lhes são afectos e de apoio à sua expansão e melhoria.
+Art. 20.º - 1 - As Direcções-Gerais de Energia, Geologia e Minas, das Indústrias Química e Metalúrgica, das Indústrias Electromecânicas, das Indústrias Transformadoras Ligeiras são serviços de orientação dos sectores que lhes são afectos e de apoio à sua expansão e melhoria.
 
 2 - São atribuições destas direcções-gerais:
 
@@ -272,7 +425,7 @@ d) À Direcção-Geral das Indústrias Electromecânicas, as indústrias de fabr
 
 e) À Direcção-Geral das Indústrias Transformadoras Ligeiras, as indústrias de alimentação, bebidas e tabaco (com excepção das que forem afectas ao Ministério da Agricultura e Pescas através do decreto a que se refere o n.º 2 do artigo 32.º e do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 23 de Maio), as indústrias de têxteis, vestuário e couro, as indústrias da madeira e da cortiça, as indústrias do papel, as indústrias de minerais não metálicos, as indústrias de artesanato e outras indústrias transformadoras não integradas no âmbito das restantes direcções-gerais.
 
-###### Art. 21.º - 1 - O Gabinete para a Pesquisa e Exploração do Petróleo é um serviço de contrôle e coordenação das acções de prospecção, pesquisa, desenvolvimento e exploração de recursos petrolíferos.
+Art. 21.º - 1 - O Gabinete para a Pesquisa e Exploração do Petróleo é um serviço de contrôle e coordenação das acções de prospecção, pesquisa, desenvolvimento e exploração de recursos petrolíferos.
 
 2 - São atribuições do Gabinete para a Pesquisa e Exploração do Petróleo:
 
@@ -282,7 +435,7 @@ b) Preparar e conduzir as negociações conducentes à celebração de contratos
 
 #### SECÇÃO II — Serviços de inspecção
 
-###### Art. 22.º - 1 - A Direcção-Geral da Qualidade é um serviço de estudo, de coordenação e execução das acções que respeitam à qualidade dos produtos e instalações industriais e à protecção do ambiente.
+Art. 22.º - 1 - A Direcção-Geral da Qualidade é um serviço de estudo, de coordenação e execução das acções que respeitam à qualidade dos produtos e instalações industriais e à protecção do ambiente.
 
 2 - São atribuições da Direcção-Geral da Qualidade:
 
@@ -294,7 +447,7 @@ c) Promover o estudo, a homologação e a publicação das normas nacionais;
 
 d) Assegurar as características e qualidades metrológicas dos instrumentos de medição.
 
-###### Art. 23.º - 1 - O Gabinete de Protecção e Segurança Nuclear é um serviço de contrôle e fiscalização no domínio da utilização de energia nuclear para fins pacíficos.
+Art. 23.º - 1 - O Gabinete de Protecção e Segurança Nuclear é um serviço de contrôle e fiscalização no domínio da utilização de energia nuclear para fins pacíficos.
 
 2 - São atribuições do Gabinete de Protecção e Segurança Nuclear:
 
@@ -306,7 +459,7 @@ c) Promover a elaboração de projectos de normas nacionais, de regulamentos e d
 
 #### SECÇÃO III — Serviço de investigação
 
-###### Art. 24.º - 1 - O Laboratório Nacional de Engenharia e Tecnologia Industrial é um serviço laboratorial, de investigação e desenvolvimento tecnológico, para apoio aos diferentes sectores industriais.
+Art. 24.º - 1 - O Laboratório Nacional de Engenharia e Tecnologia Industrial é um serviço laboratorial, de investigação e desenvolvimento tecnológico, para apoio aos diferentes sectores industriais.
 
 2 - São atribuições do Laboratório Nacional de Engenharia e Tecnologia Industrial:
 
@@ -326,7 +479,7 @@ f) Assegurar a realização de acções de formação com vista ao melhoramento 
 
 #### SECÇÃO IV — Serviços de coordenação e apoio
 
-###### Art. 25.º - 1 - A Secretaria-Geral é um serviço de coordenação e apoio técnico-administrativo aos gabinetes dos membros do Governo, bem como aos demais serviços do Ministério em assuntos de pessoal, administrativos e outros de interesse comum.
+Art. 25.º - 1 - A Secretaria-Geral é um serviço de coordenação e apoio técnico-administrativo aos gabinetes dos membros do Governo, bem como aos demais serviços do Ministério em assuntos de pessoal, administrativos e outros de interesse comum.
 
 2 - São atribuições da Secretaria-Geral:
 
@@ -344,7 +497,7 @@ b) Estudar, propor e acompanhar a execução das medidas necessárias à gestão
 
 c) Promover acções de formação e aperfeiçoamento profissional do pessoal do Ministério.
 
-###### Art. 26.º - 1 - O Gabinete de Estudos e Planeamento é um serviço de estudo, coordenação e apoio aos gabinetes dos membros do Governo em todos os assuntos que interessem à formulação da política e do planeamento industrial e energético.
+Art. 26.º - 1 - O Gabinete de Estudos e Planeamento é um serviço de estudo, coordenação e apoio aos gabinetes dos membros do Governo em todos os assuntos que interessem à formulação da política e do planeamento industrial e energético.
 
 2 - São atribuições do Gabinete de Estudos e Planeamento:
 
@@ -356,7 +509,7 @@ c) Colaborar na definição das estratégias de cooperação económica externa,
 
 d) Organizar a produção dos indicadores estatísticos dos sectores respectivos.
 
-###### Art. 27.º - 1 - O Gabinete de Promoção do Investimento é um serviço de coordenação e apoio aos gabinetes dos membros do Governo bem como aos restantes serviços do Ministério no domínio da divulgação das actividades do Ministério com interesse para o desenvolvimento do sector industrial.
+Art. 27.º - 1 - O Gabinete de Promoção do Investimento é um serviço de coordenação e apoio aos gabinetes dos membros do Governo bem como aos restantes serviços do Ministério no domínio da divulgação das actividades do Ministério com interesse para o desenvolvimento do sector industrial.
 
 2 - São atribuições do Gabinete de Promoção do Investimento:
 
@@ -370,13 +523,13 @@ d) Realizar contactos internacionais com vista à promoção do investimento est
 
 e) Editar um boletim de informação industrial e outros tipos de publicações sobre a actividade global do Ministério.
 
-###### Art. 28.º - 1 - A Auditoria Jurídica é um serviço de estudo e apoio aos gabinetes dos membros do Governo em assuntos de natureza jurídica, funcionando em ligação com a Secretaria-Geral.
+Art. 28.º - 1 - A Auditoria Jurídica é um serviço de estudo e apoio aos gabinetes dos membros do Governo em assuntos de natureza jurídica, funcionando em ligação com a Secretaria-Geral.
 
 2 - São atribuições da Auditoria Jurídica apoiar a actividade do Ministério nos domínios da elaboração e apoio legislativos, consulta jurídica, contencioso administrativo e exercício do poder disciplinar.
 
 ### CAPÍTULO V — Natureza e atribuições das delegações regionais
 
-###### Art. 29.º - 1 - As delegações são serviços de representação e actuação desconcentrada do Ministério no âmbito regional.
+Art. 29.º - 1 - As delegações são serviços de representação e actuação desconcentrada do Ministério no âmbito regional.
 
 2 - São atribuições das delegações:
 
@@ -388,7 +541,7 @@ c) Assegurar, no exercício das atribuições do Ministério ao nível regional,
 
 ### CAPÍTULO VI — Pessoal
 
-###### Art. 30.º - 1 - O pessoal do Ministério agrupar-se-á de harmonia com a classificação seguinte:
+Art. 30.º - 1 - O pessoal do Ministério agrupar-se-á de harmonia com a classificação seguinte:
 
 a) Pessoal dirigente;
 
@@ -410,7 +563,7 @@ e) Pessoal operário.
 
 6 - O diploma orgânico do Laboratório Nacional de Engenharia e Tecnologia Industrial estabelecerá as categorias próprias do pessoal de cantina e jardinagem que nele ficará integrado.
 
-###### Art. 31.º - 1 - O provimento do pessoal do Ministério será feito por nomeação provisória ou comissão de serviço durante o período de um ano, salvo os casos de provimento por contrato nos termos da lei geral e sem prejuízo do disposto no artigo 33.º
+Art. 31.º - 1 - O provimento do pessoal do Ministério será feito por nomeação provisória ou comissão de serviço durante o período de um ano, salvo os casos de provimento por contrato nos termos da lei geral e sem prejuízo do disposto no artigo 33.º
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -424,23 +577,23 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 5 - Para efeitos do disposto no n.º 1 será contado o tempo de serviço prestado ao Ministério em regime de contrato.
 
-###### Art. 32.º - 1 - Poderá ser contratado além do quadro o pessoal indispensável à realização de tarefas que não possam ser asseguradas pelo pessoal permanente.
+Art. 32.º - 1 - Poderá ser contratado além do quadro o pessoal indispensável à realização de tarefas que não possam ser asseguradas pelo pessoal permanente.
 
 2 - O contrato será celebrado a prazo certo e tacitamente renovável, com dispensa de qualquer formalidade, por período igual ao da celebração e até ao limite máximo de três anos.
 
 3 - Se o contrato for renovado até ao limite referido no número anterior e as necessidades de serviço se mantiverem, será criado o correspondente lugar no quadro e nele provido o trabalhador contratado.
 
-###### Art. 33.º - 1 - Os lugares de director-geral, secretário-geral, director, subdirector-geral e subdirector serão providos por escolha do Ministro, em comissão de serviço por tempo indeterminado, de entre diplomados com curso superior adequado e de reconhecida competência.
+Art. 33.º - 1 - Os lugares de director-geral, secretário-geral, director, subdirector-geral e subdirector serão providos por escolha do Ministro, em comissão de serviço por tempo indeterminado, de entre diplomados com curso superior adequado e de reconhecida competência.
 
 2 - Os lugares de director de serviço serão providos por escolha do Ministro, sob proposta do responsável do organismo, em comissão de serviço por tempo indeterminado, de entre diplomados com curso superior adequado e de reconhecida competência.
 
 3 - Os lugares de chefe de divisão serão providos por nomeação do Ministro, sob proposta do responsável do organismo, de entre os técnicos de 1.ª, ou funcionários com categoria equivalente ou superior, do Ministério, de reconhecida competência, ou de entre funcionários com a requerida experiência administrativa e habilitados com curso superior adequado, consoante os lugares a prover.
 
-###### Art. 34.º - 1 - Os funcionários nomeados em comissão de serviço nos termos dos artigos 31.º e 33.º manterão na pendência dessa situação o direito ao lugar de origem, que poderá, durante aquele período, ser provido interinamente.
+Art. 34.º - 1 - Os funcionários nomeados em comissão de serviço nos termos dos artigos 31.º e 33.º manterão na pendência dessa situação o direito ao lugar de origem, que poderá, durante aquele período, ser provido interinamente.
 
 2 - O tempo de serviço prestado nos termos dos artigos 31.º e 33.º considera-se para todos os efeitos, inclusivamente para promoção, como prestado no lugar de origem.
 
-###### Art. 35.º - 1 - O ingresso nas carreiras constantes do quadro II anexo a este diploma será efectuado pela categoria mais baixa da respectiva carreira, de entre indivíduos que possuam as habilitações literárias seguintes:
+Art. 35.º - 1 - O ingresso nas carreiras constantes do quadro II anexo a este diploma será efectuado pela categoria mais baixa da respectiva carreira, de entre indivíduos que possuam as habilitações literárias seguintes:
 
 a) Carreiras de técnico superior e de investigario - bacharelato adequado ao desempenho das funções;
 
@@ -456,7 +609,7 @@ e) Carreiras de auxiliar técnico e de auxiliar de laboratório - escolaridade o
 
 3 - O provimento dos lugares de ingresso far-se-á prioritariamente de entre o pessoal integrado em qualquer dos quadros do Ministério que preencha as condições estipuladas nos números anteriores, observados os critérios de selecção a definir nos termos do n.º 2 do artigo 44.º
 
-###### Art. 36.º O provimento de lugares de ingresso da carreira operária far-se-á de entre indivíduos que preencham as condições a seguir indicadas:
+Art. 36.º O provimento de lugares de ingresso da carreira operária far-se-á de entre indivíduos que preencham as condições a seguir indicadas:
 
 a) Qualificados:
 
@@ -468,7 +621,7 @@ b) Semiqualificados:
 
 Aprendiz - indivíduos habilitados com a escolaridade obrigatória, de harmonia com a idade, que demonstrem em provas práticas aptidão para o exercício das funções.
 
-###### Art. 37.º - 1 - O provimento de lugares de acesso nas carreiras constantes do quadro II anexo a este diploma far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e respeitando os seguintes princípios:
+Art. 37.º - 1 - O provimento de lugares de acesso nas carreiras constantes do quadro II anexo a este diploma far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e respeitando os seguintes princípios:
 
 a) Nas carreiras de técnico superior e de investigador:
 
@@ -494,7 +647,7 @@ e) Nas carreiras de auxiliar técnico e de auxiliar de laboratório:
 
 Os lugares de auxiliar técnico principal e de auxiliar técnico de 1.ª ou de auxiliar de laboratório principal e de auxiliar de laboratório de 1.ª serão providos de entre os funcionários de categoria
 
-###### Art. 38.º - 1 - O provimento de lugares de acesso na carreira operária far-se-á de entre funcionários que preencham as seguintes condições:
+Art. 38.º - 1 - O provimento de lugares de acesso na carreira operária far-se-á de entre funcionários que preencham as seguintes condições:
 
 a) Qualificados:
 
@@ -516,7 +669,7 @@ iii) Encarregado - de entre os operários de 1.ª classe com pelo menos cinco an
 
 2 - O número de lugares da categoria de encarregado e encarregado geral deverá ser determinado nos termos dos quadros de densidades que vierem a ser definidas por portaria conjunta do Ministro da Indústria e Tecnologia, Ministro das Finanças e Ministro que tiver a seu cargo a função pública.
 
-###### Art. 39.º - 1 - Excepcionalmente, poderão ser providos directamente em lugares de acesso das carreiras técnicas ou operária, com respeito pelas habilitações literárias referidas para cada carreira nos artigos 35.º e 36.º, indivíduos de comprovada experiência profissional, mediante proposta do responsável pelo organismo, ouvido o Gabinete de Organização e Recursos Humanos.
+Art. 39.º - 1 - Excepcionalmente, poderão ser providos directamente em lugares de acesso das carreiras técnicas ou operária, com respeito pelas habilitações literárias referidas para cada carreira nos artigos 35.º e 36.º, indivíduos de comprovada experiência profissional, mediante proposta do responsável pelo organismo, ouvido o Gabinete de Organização e Recursos Humanos.
 
 imediatamente inferior do respectivo quadro com pelo menos três anos de bom e efectivo serviço na categoria.
 
@@ -524,11 +677,11 @@ imediatamente inferior do respectivo quadro com pelo menos três anos de bom e e
 
 3 - A experiência profissional referida no n.º 1 não poderá ter uma duração inferior ao período de progressão normal para atingir idêntica categoria caso fizesse a entrada pelo lugar de ingresso da respectiva carreira.
 
-###### Art. 40.º - 1 - Os serviços do Ministério poderão celebrar contratos de prestação de serviços com entidades privadas ou públicas para realização de trabalhos ou estudos de carácter eventual.
+Art. 40.º - 1 - Os serviços do Ministério poderão celebrar contratos de prestação de serviços com entidades privadas ou públicas para realização de trabalhos ou estudos de carácter eventual.
 
 2 - Os contratos deverão ser reduzidos a escrito e mencionar a natureza do trabalho, o seu montante e o prazo previsto para a execução, não conferindo em nenhum caso às entidades contratadas a qualidade de agente administrativo.
 
-###### Art. 41.º - 1 - Quando se mostre indispensável, o Ministro da Indústria e Tecnologia poderá requisitar pessoal, ouvido o funcionário interessado e com acordo do serviço requisitando, de outros serviços ou Ministérios, o qual será pago por dotação especial para esse efeito inscrita ou a inscrever no orçamento do Ministério.
+Art. 41.º - 1 - Quando se mostre indispensável, o Ministro da Indústria e Tecnologia poderá requisitar pessoal, ouvido o funcionário interessado e com acordo do serviço requisitando, de outros serviços ou Ministérios, o qual será pago por dotação especial para esse efeito inscrita ou a inscrever no orçamento do Ministério.
 
 2 - A requisição referida no número anterior não depende da existência de vaga no quadro de pessoal do MIT e deve fixar, desde logo, as funções correspondentes a um dos lugares do mesmo quadro que o requisitado irá exercer.
 
@@ -536,25 +689,25 @@ imediatamente inferior do respectivo quadro com pelo menos três anos de bom e e
 
 4 - O funcionário requisitado poderá optar pelo vencimento que auferia no serviço de origem, devendo a dotação prevista no n.º 1 comportar a despesa correspondente.
 
-###### Art. 42.º - 1 - Para a realização de estudos que não possam ser efectuados pelo pessoal permanente poderão ser destacados temporariamente, para os serviços do Ministério, por despacho ministerial e mediante proposta do responsável pelo serviço, técnicos de outros departamentos do Ministério ou de empresas sob tutela deste, ouvido o funcionário interessado e com acordo do serviço requisitando.
+Art. 42.º - 1 - Para a realização de estudos que não possam ser efectuados pelo pessoal permanente poderão ser destacados temporariamente, para os serviços do Ministério, por despacho ministerial e mediante proposta do responsável pelo serviço, técnicos de outros departamentos do Ministério ou de empresas sob tutela deste, ouvido o funcionário interessado e com acordo do serviço requisitando.
 
 2 - O pessoal destacado nos termos do número anterior considerar-se-á para todos os efeitos legais, e enquanto permanecer naquela situação, como se prestasse serviço no departamento ou empresa de origem.
 
-###### Art. 43.º Aos funcionários do MIT requisitados para outros Ministérios aplicar-se-á o regime estabelecido nos artigos anteriores ou o regime próprio do Ministério para onde for requisitado, de acordo com o que for definido no despacho que autoriza a requisição.
+Art. 43.º Aos funcionários do MIT requisitados para outros Ministérios aplicar-se-á o regime estabelecido nos artigos anteriores ou o regime próprio do Ministério para onde for requisitado, de acordo com o que for definido no despacho que autoriza a requisição.
 
-###### Art. 44.º - 1 - O recrutamento de pessoal, seja para o preenchimento de vagas nos quadros, seja para atender a necessidades de serviço que justifiquem o contrato além do quadro, será sempre objecto de divulgação, que o serviço interessado realizará através do órgão de informação interna do Ministério e, quando as circunstâncias o recomendarem, através dos órgãos de comunicação social.
+Art. 44.º - 1 - O recrutamento de pessoal, seja para o preenchimento de vagas nos quadros, seja para atender a necessidades de serviço que justifiquem o contrato além do quadro, será sempre objecto de divulgação, que o serviço interessado realizará através do órgão de informação interna do Ministério e, quando as circunstâncias o recomendarem, através dos órgãos de comunicação social.
 
 2 - A selecção de pessoal para o preenchimento dos diferentes lugares obedecerá a critérios a definir pelo Gabinete de Organização e Recursos Humanos em colaboração com os responsáveis dos diferentes serviços ou organismos do Ministério e superiormente aprovados, mediante recurso a sistemas de concurso documental ou de prestação de provas.
 
-###### Art. 45.º O Ministério efectuará o estudo das necessidades de formação do seu pessoal, providenciando à realização de cursos, seminários e estágios que possibilitem um melhor aproveitamento de recursos humanos existentes.
+Art. 45.º O Ministério efectuará o estudo das necessidades de formação do seu pessoal, providenciando à realização de cursos, seminários e estágios que possibilitem um melhor aproveitamento de recursos humanos existentes.
 
-###### Art. 46.º O Ministério desenvolverá as suas actividades segundo uma política participativa dos trabalhadores, de harmonia com os critérios a definir em lei geral.
+Art. 46.º O Ministério desenvolverá as suas actividades segundo uma política participativa dos trabalhadores, de harmonia com os critérios a definir em lei geral.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 47.º Por portaria dos Ministros da Indústria e Tecnologia, das Finanças e do Secretário de Estado da Administração Pública, as diferentes categorias das carreiras técnicas e operárias do Ministério que possuam idêntico conteúdo funcional e para as quais sejam exigidas as mesmas habilitações literárias serão harmonizadas com as categorias constantes dos quadros II e III anexos ao presente diploma.
+Art. 47.º Por portaria dos Ministros da Indústria e Tecnologia, das Finanças e do Secretário de Estado da Administração Pública, as diferentes categorias das carreiras técnicas e operárias do Ministério que possuam idêntico conteúdo funcional e para as quais sejam exigidas as mesmas habilitações literárias serão harmonizadas com as categorias constantes dos quadros II e III anexos ao presente diploma.
 
-###### Art. 48.º - 1 - De modo a permitir uma gradual implementação da nova estrutura e assegurar a continuidade de funções no âmbito do Ministério, poderá o Ministro, por simples despacho publicado no Diário da República e até à entrada em vigor dos diplomas orgânicos referidos no artigo 8.º e sem prejuízo do que neles vier a ser estabelecido, proceder à integração funcional nos serviços criados ou mantidos pelo presente diploma dos poderes funcionais, actividades, direitos e obrigações exercidos ou criados no âmbito dos organismos a extinguir, bem como definir a respectiva estrutura, competência e normas de funcionamento.
+Art. 48.º - 1 - De modo a permitir uma gradual implementação da nova estrutura e assegurar a continuidade de funções no âmbito do Ministério, poderá o Ministro, por simples despacho publicado no Diário da República e até à entrada em vigor dos diplomas orgânicos referidos no artigo 8.º e sem prejuízo do que neles vier a ser estabelecido, proceder à integração funcional nos serviços criados ou mantidos pelo presente diploma dos poderes funcionais, actividades, direitos e obrigações exercidos ou criados no âmbito dos organismos a extinguir, bem como definir a respectiva estrutura, competência e normas de funcionamento.
 
 2 - Mediante despacho conjunto dos Ministros da Indústria e Tecnologia e das Finanças, e nos termos nele definidos, podem ser utilizadas, até à efectivação das convenientes alterações orçamentais, as verbas dos Gabinetes do Ministro e dos Secretários de Estado, bem como a dos organismos extintos ou a extinguir pelos serviços agora criados, à medida que forem sendo postos em funcionamento.
 
@@ -562,7 +715,7 @@ imediatamente inferior do respectivo quadro com pelo menos três anos de bom e e
 
 4 - A Secretaria-Geral do Ministério deve entretanto, e pelo período de transição, apoiar os gabinetes e serviços na gestão das respectivas verbas e assegurar o processamento dos vencimentos de pessoal para eles destacado.
 
-###### Art. 49.º - 1 - Por despacho do Ministro da Indústria e Tecnologia será nomeada uma comissão de reestruturação do Ministério, com carácter temporário, nos termos do artigo 16.º do presente diploma, à qual incumbe genericamente desenvolver as acções necessárias à rápida implementação da presente estrutura do Ministério, competindo-lhe obrigatoriamente:
+Art. 49.º - 1 - Por despacho do Ministro da Indústria e Tecnologia será nomeada uma comissão de reestruturação do Ministério, com carácter temporário, nos termos do artigo 16.º do presente diploma, à qual incumbe genericamente desenvolver as acções necessárias à rápida implementação da presente estrutura do Ministério, competindo-lhe obrigatoriamente:
 
 a) A preparação dos diplomas orgânicos dos diferentes serviços previstos neste diploma;
 
@@ -582,7 +735,7 @@ f) O estudo dos diferentes conteúdos funcionais das carreiras definidas no Mini
 
 4 - A comissão será extinta por despacho do Ministro da Indústria e Tecnologia a publicar na 1.ª série do Diário da República uma vez terminadas as tarefas de que é incumbida ou quando pelo grau de adiantamento dos referidos trabalhos se considere oportuna a sua extinção.
 
-###### Art. 50.º - 1 - Por despacho do Ministro da Indústria e Tecnologia será nomeada uma comissão instaladora do Laboratório Nacional de Engenharia e Tecnologia Industrial, a qual será composta por cinco membros, um presidente e quatro vogais, com as categorias definidas no mapa anexo ao presente diploma, e à qual compete:
+Art. 50.º - 1 - Por despacho do Ministro da Indústria e Tecnologia será nomeada uma comissão instaladora do Laboratório Nacional de Engenharia e Tecnologia Industrial, a qual será composta por cinco membros, um presidente e quatro vogais, com as categorias definidas no mapa anexo ao presente diploma, e à qual compete:
 
 a) Assegurar a gestão do Laboratório de Física e Engenharia Nucleares, dos serviços de investigação e laboratoriais do Instituto Nacional de Investigação Industrial, da Direcção-Geral dos Combustíveis, da Direcção-Geral dos Serviços Eléctricos e da Inspecção-Geral dos Produtos Agrícolas e Industriais e das divisões de informação técnica e formação e aperfeiçoamento do Instituto Nacional de Investigação Industrial, serviços estes a integrar no Laboratório Nacional de Engenharia e Tecnologia Industrial;
 
@@ -592,19 +745,19 @@ c) Proceder à integração progressiva dos serviços referidos na alínea a) na
 
 2 - À comissão instaladora ficam atribuídos os poderes conferidos por lei aos órgãos de direcção da Junta de Energia Nuclear e do Instituto Nacional de Investigação Industrial pelos Decretos-Leis n.º 41996, de 5 de Dezembro de 1958, n.º 446/75, de 20 de Agosto, e n.º 42121, de 23 de Janeiro de 1959, salvo os poderes que forem atribuídos aos serviços agora criados e que para eles transitem, através do despacho de integração funcional a que se refere o artigo 48.º, e nos termos do que nele vier a ser estabelecido.
 
-###### Art. 51.º Deverá a Secretaria-Geral promover a constituição de comissões para a verificação de cadastro e distribuição de bens dos serviços a extinguir, pelos serviços criados ou mantidos pelo presente diploma.
+Art. 51.º Deverá a Secretaria-Geral promover a constituição de comissões para a verificação de cadastro e distribuição de bens dos serviços a extinguir, pelos serviços criados ou mantidos pelo presente diploma.
 
-###### Art. 52.º Os projectos em curso no âmbito do plano de investimentos da Administração Pública poderão ser transferidos para os serviços agora criados, com o orçamento para os mesmos aprovado.
+Art. 52.º Os projectos em curso no âmbito do plano de investimentos da Administração Pública poderão ser transferidos para os serviços agora criados, com o orçamento para os mesmos aprovado.
 
-###### Art. 53.º Consideram-se criados, a partir da data de entrada em vigor do presente diploma, todos os serviços referidos no artigo 7.º e não existentes à data da sua publicação.
+Art. 53.º Consideram-se criados, a partir da data de entrada em vigor do presente diploma, todos os serviços referidos no artigo 7.º e não existentes à data da sua publicação.
 
-###### Art. 54.º - 1 - São criadas as Delegações Regionais do Ministério no Porto, Lisboa, Évora, Coimbra e Faro.
+Art. 54.º - 1 - São criadas as Delegações Regionais do Ministério no Porto, Lisboa, Évora, Coimbra e Faro.
 
 2 - A área de jurisdição de cada delegação regional será definida por portaria do Ministério da Indústria e Tecnologia.
 
 3 - As sedes das delegações regionais agora criadas, bem como das respectivas áreas de jurisdição, serão revistas, uma vez aprovadas pela Assembleia da República as regiões Plano, de acordo com o referido no artigo 11.º
 
-###### Art. 55.º - 1 - O primeiro provimento dos lugares dos quadros dos serviços mantidos ou criados pelo presente diploma far-se-á, prioritariamente, com todo o pessoal que à data da entrada em vigor deste diploma preste serviço no Ministério, a qualquer título, atendendo aos critérios de integração, definidos de acordo com o previsto no artigo 49.º e superiormente aprovados.
+Art. 55.º - 1 - O primeiro provimento dos lugares dos quadros dos serviços mantidos ou criados pelo presente diploma far-se-á, prioritariamente, com todo o pessoal que à data da entrada em vigor deste diploma preste serviço no Ministério, a qualquer título, atendendo aos critérios de integração, definidos de acordo com o previsto no artigo 49.º e superiormente aprovados.
 
 2 - Estabelece-se como condição mínima de primeiro provimento em lugares de assessor técnico e de investigador doze anos de antiguidade nas respectivas carreiras.
 
@@ -614,29 +767,29 @@ c) Proceder à integração progressiva dos serviços referidos na alínea a) na
 
 5 - Quando o funcionário ocupe cargo a que corresponda letra de vencimento não prevista ou superior à prevista nos quadros anexos ao presente diploma, será integrado nos quadros dos serviços agora criados, com a mesma categoria que possui, sendo os lugares extintos à medida que vagarem.
 
-###### Art. 56.º Independentemente da publicação dos diplomas previstos no artigo 8.º, e dentro dos limites resultantes do mapa anexo ao presente decreto-lei e que dele faz parte integrante, poderão ser providos nos termos do artigo 38.º os lugares de director-geral, subdirector-geral e director de serviços ou equivalentes, cujo preenchimento se mostrar indispensável à necessária continuidade de funções do Ministério da Indústria e Tecnologia.
+Art. 56.º Independentemente da publicação dos diplomas previstos no artigo 8.º, e dentro dos limites resultantes do mapa anexo ao presente decreto-lei e que dele faz parte integrante, poderão ser providos nos termos do artigo 38.º os lugares de director-geral, subdirector-geral e director de serviços ou equivalentes, cujo preenchimento se mostrar indispensável à necessária continuidade de funções do Ministério da Indústria e Tecnologia.
 
-###### Art. 57.º Os directores-gerais, ou funcionários de categoria equiparada, poderão receber delegação de poderes do Ministro e Secretários de Estado para despachar quaisquer assuntos que corram pelos respectivos serviços.
+Art. 57.º Os directores-gerais, ou funcionários de categoria equiparada, poderão receber delegação de poderes do Ministro e Secretários de Estado para despachar quaisquer assuntos que corram pelos respectivos serviços.
 
-###### Art. 58.º - 1 - Os funcionários com provimento definitivo em lugares de chefia, a que se referem os n.os 1 e 2 do artigo 33.º, manterão a actual categoria ou serão providos a título definitivo em lugares equivalentes da carreira de técnico superior ou de investigador nos quadros dos serviços do Ministério, desde que preencham os requisitos previstos no n.º 2 do artigo 55.º
+Art. 58.º - 1 - Os funcionários com provimento definitivo em lugares de chefia, a que se referem os n.os 1 e 2 do artigo 33.º, manterão a actual categoria ou serão providos a título definitivo em lugares equivalentes da carreira de técnico superior ou de investigador nos quadros dos serviços do Ministério, desde que preencham os requisitos previstos no n.º 2 do artigo 55.º
 
 2 - Os funcionários não integrados nos termos do número anterior poderão ser nomeados por despacho do Ministro da Indústria e Tecnologia, em comissão de serviço, para lugares do quadro de pessoal dirigente do Ministério ou para o desempenho de quaisquer outras funções compatíveis com a respectiva categoria, sendo, neste caso, pagos por conta de verba própria a inscrever no orçamento da Secretaria-Geral.
 
-###### Art. 59.º São extintas as Secretarias de Estado da Energia e Minas, da Indústria Pesada e da Indústria Ligeira, criadas pelo [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), mantendo-se porém nos termos dos artigos 61.º e 63.º os serviços que as integram.
+Art. 59.º São extintas as Secretarias de Estado da Energia e Minas, da Indústria Pesada e da Indústria Ligeira, criadas pelo [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), mantendo-se porém nos termos dos artigos 61.º e 63.º os serviços que as integram.
 
-###### Art. 60.º É extinto o Conselho Superior da Indústria a que se refere o artigo 2.º, n.º 1, alínea a), do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio.
+Art. 60.º É extinto o Conselho Superior da Indústria a que se refere o artigo 2.º, n.º 1, alínea a), do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio.
 
-###### Art. 61.º - 1 - O Conselho Superior de Electricidade, o Conselho Superior de Minas, a Direcção-Geral de Minas e Serviços Geológicos, a Direcção-Geral dos Serviços Industriais, a Inspecção-Geral dos Produtos Agrícolas e Industriais, a Direcção-Geral dos Combustíveis, a Direcção-Geral dos Serviços Eléctricos, a Junta de Energia Nuclear, o Instituto Nacional de Investigação Industrial, o Serviço de Apoio ao Investidor e a Direcção-Geral de Qualidade e Segurança Industrial serão extintos uma vez publicados os diplomas orgânicos que regulamentam os serviços centrais e delegações regionais do Ministério agora criados e efectuada a integração do respectivo pessoal nos termos do artigo 55.º
+Art. 61.º - 1 - O Conselho Superior de Electricidade, o Conselho Superior de Minas, a Direcção-Geral de Minas e Serviços Geológicos, a Direcção-Geral dos Serviços Industriais, a Inspecção-Geral dos Produtos Agrícolas e Industriais, a Direcção-Geral dos Combustíveis, a Direcção-Geral dos Serviços Eléctricos, a Junta de Energia Nuclear, o Instituto Nacional de Investigação Industrial, o Serviço de Apoio ao Investidor e a Direcção-Geral de Qualidade e Segurança Industrial serão extintos uma vez publicados os diplomas orgânicos que regulamentam os serviços centrais e delegações regionais do Ministério agora criados e efectuada a integração do respectivo pessoal nos termos do artigo 55.º
 
 2 - A data efectiva da extinção dos serviços referidos no número anterior será determinada por despacho do Ministro da Indústria e Tecnologia, a publicar na 1.ª série do Diário da República, o qual regulará igualmente quaisquer outros aspectos relativos a essa extinção, para além do que se dispõe no presente diploma.
 
-###### Art. 62.º - 1 - O activo e o passivo dos serviços referidos no artigo anterior, bem como quaisquer obrigações, valores e direitos, incluindo os emergentes de contratos de arrendamento, transitam para os serviços agora criados nos termos que forem definidos no despacho a que se refere o n.º 2 do artigo anterior.
+Art. 62.º - 1 - O activo e o passivo dos serviços referidos no artigo anterior, bem como quaisquer obrigações, valores e direitos, incluindo os emergentes de contratos de arrendamento, transitam para os serviços agora criados nos termos que forem definidos no despacho a que se refere o n.º 2 do artigo anterior.
 
 2 - O despacho referido no número anterior constitui título comprovativo de transferência, para todos os efeitos legais, incluindo os do registo, sendo em caso de dúvida bastante a simples declaração feita pela Secretaria-Geral, e confirmada pela Direcção-Geral da Fazenda Pública, de que os bens se incluem entre os referidos no n.º 1 do presente artigo.
 
 3 - Será transferido para o Laboratório Nacional de Engenharia e Tecnologia Industrial o saldo da conta de gerência da Junta de Energia Nuclear, a qual será encerrada com referência ao último dia de existência deste organismo.
 
-###### Art. 63.º - 1 - São considerados extintos, no prazo de noventa dias a contar da data da entrada em vigor do presente diploma, os serviços a seguir indicados e a que se refere o [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio:
+Art. 63.º - 1 - São considerados extintos, no prazo de noventa dias a contar da data da entrada em vigor do presente diploma, os serviços a seguir indicados e a que se refere o [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio:
 
 Gabinete de Organização e Relações de Trabalho, Gabinete de Formação e Informação Técnica, Direcção-Geral das Indústrias Alimentares, Direcção-Geral das Indústrias Têxteis e do Vestuário, Direcção-Geral das Indústrias da Madeira e da Cortiça, Direcção-Geral das Indústrias Químicas, Cerâmicas e Vidreiras, Direcção-Geral das Indústrias Electrometalomecânicas e Electrónicas, Direcção-Geral das Indústrias Químicas de Base, Direcção-Geral de Minas e Metalurgia, Instituto de Geologia e Minas e Metalurgia e Instituto Português de Electricidade.
 
@@ -644,27 +797,27 @@ Gabinete de Organização e Relações de Trabalho, Gabinete de Formação e Inf
 
 3 - Serão igualmente considerados extintos, no prazo de trinta dias a contar da data de entrada em vigor do presente diploma, os Centros de Coordenação da Indústria Metalo-Mecânica Pesada e da Indústria Naval, criados, respectivamente, pelos Decretos n.os [556/76](https://diariodarepublica.pt/dr/detalhe/decreto/556-1976-430606), de 15 de Julho, e [598/76](https://diariodarepublica.pt/dr/detalhe/decreto/598-1976-430647), de 23 de Julho, transitando para a Direcção-Geral das Indústrias Electromecânicas toda a documentação, estudos e relatórios em seu poder.
 
-###### Art. 64.º Será extinta a Comissão de Protecção Contra as Radiações Ionizantes, criada pelo [Decreto-Lei n.º 44060](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44060-1961-185310), de 25 de Novembro de 1961, por decreto do Primeiro-Ministro e Ministros da Indústria e Tecnologia, Assuntos Sociais, Trabalho e Finanças, o qual procederá à integração na Direcção-Geral de Saúde das suas atribuições e competência e regulamentará a competência que neste domínio continuará a ser exercida pelo Ministério.
+Art. 64.º Será extinta a Comissão de Protecção Contra as Radiações Ionizantes, criada pelo [Decreto-Lei n.º 44060](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44060-1961-185310), de 25 de Novembro de 1961, por decreto do Primeiro-Ministro e Ministros da Indústria e Tecnologia, Assuntos Sociais, Trabalho e Finanças, o qual procederá à integração na Direcção-Geral de Saúde das suas atribuições e competência e regulamentará a competência que neste domínio continuará a ser exercida pelo Ministério.
 
-###### Art. 65.º A Secretaria-Geral, o Gabinete de Estudos e Planeamento, a Auditoria Jurídica e o Gabinete para a Pesquisa e Exploração do Petróleo, enquanto não forem revistos os respectivos diplomas orgânicos, continuarão a reger-se pela legislação que lhes é aplicável.
+Art. 65.º A Secretaria-Geral, o Gabinete de Estudos e Planeamento, a Auditoria Jurídica e o Gabinete para a Pesquisa e Exploração do Petróleo, enquanto não forem revistos os respectivos diplomas orgânicos, continuarão a reger-se pela legislação que lhes é aplicável.
 
-###### Art. 66.º Ao pessoal nomeado para os lugares do quadro dirigente, previstos no mapa anexo ao [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de serviços não extintos, são aplicáveis as disposições deste decreto no que se refere à forma de nomeação, sendo para o efeito considerado em comissão de serviço por tempo indeterminado.
+Art. 66.º Ao pessoal nomeado para os lugares do quadro dirigente, previstos no mapa anexo ao [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de serviços não extintos, são aplicáveis as disposições deste decreto no que se refere à forma de nomeação, sendo para o efeito considerado em comissão de serviço por tempo indeterminado.
 
-###### Art. 67.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria e Tecnologia, conjunto com o Ministro das Finanças ou com o Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 67.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria e Tecnologia, conjunto com o Ministro das Finanças ou com o Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 68.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 68.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa.
 
-**Promulgado em 22 de Dezembro de 1977.**
+Promulgado em 22 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o artigo 56.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf)
 
 Quadros anexos a que se refere o artigo 30.º
 
@@ -672,12 +825,12 @@ QUADRO I
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf)
 
 QUADRO II
 
 Pessoal técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30200/31573168.pdf)
 
-**O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.**
+O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.

@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1974-474337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6116189f9da69b9777f68d1c8df7bf6bba9d5857fda53b95d6c3556f62eceb14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab819f1dfc899686f9d4b9b4e19abf94121bb3f0bb5ae257720a5b1190ce227f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Inquérito
+- Crime
+- Definição de Competências
+- Ministério da Justiça
+relationships:
+- type: amended_by
+  target: pt:dre:431272:por
+  label: "Prorrogado por um ano o prazo da duração da Comissão, previsto no art. 13º, pela RES.DD1592.30.06.1976.PCM, DR.IS\
+    \ [151] de 30.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1976-431272
+  date: '1976-06-30'
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:10Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +114,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada, na dependência do Ministério da Justiça, uma Comissão Nacional de Inquérito, com sede em Lisboa, no edifício do Tribunal da Boa Hora.
+Artigo 1.º É criada, na dependência do Ministério da Justiça, uma Comissão Nacional de Inquérito, com sede em Lisboa, no edifício do Tribunal da Boa Hora.
 
-###### Art. 2.º - 1. Essa Comissão tem por finalidade averiguar do fundamento das queixas sobre actos praticados entre 28 de Maio de 1926 e 25 de Abril de 1974 a ela participados ou dos quais haja notícia pública, que envolvam:
+Art. 2.º - 1. Essa Comissão tem por finalidade averiguar do fundamento das queixas sobre actos praticados entre 28 de Maio de 1926 e 25 de Abril de 1974 a ela participados ou dos quais haja notícia pública, que envolvam:
 
 a) Abuso do poder, atentados contra os direitos dos cidadãos, práticas de corrupção, violências contra as pessoas e esbanjamento ou defraudação de dinheiros públicos;
 
@@ -110,9 +124,9 @@ b) Tráfico de influências ou gestões fraudulentas como meio de aquisição de
 
 2. As queixas acima referidas podem ser apresentadas directamente à Comissão Nacional de Inquérito ou a ela remetidas por outras entidades.
 
-###### Art. 3.º O prazo de prescrição do procedimento criminal ou disciplinar relativo à prática dos actos a que se reporta o artigo anterior, qualquer que tenha sido a data em que foram praticados, conta-se desde o dia 25 de Abril de 1974.
+Art. 3.º O prazo de prescrição do procedimento criminal ou disciplinar relativo à prática dos actos a que se reporta o artigo anterior, qualquer que tenha sido a data em que foram praticados, conta-se desde o dia 25 de Abril de 1974.
 
-###### Art. 4.º A Comissão terá três secções:
+Art. 4.º A Comissão terá três secções:
 
 a) Abusos de poder e atentados contra os direitos dos cidadãos;
 
@@ -120,50 +134,50 @@ b) Violência contra as pessoas;
 
 c) Práticas de corrupção, esbanjamento ou defraudação de dinheiros públicos e tráfico de influências.
 
-###### Art. 5.º - 1. A Comissão será constituída por um presidente, magistrado judicial ou do Ministério Público, nomeado pelo Ministro da Justiça, e por três directores de secção, nomeados por despacho conjunto dos Ministros da Administração Interna e da Justiça.
+Art. 5.º - 1. A Comissão será constituída por um presidente, magistrado judicial ou do Ministério Público, nomeado pelo Ministro da Justiça, e por três directores de secção, nomeados por despacho conjunto dos Ministros da Administração Interna e da Justiça.
 
 2. Se as necessidades do serviço o exigirem, e mediante proposta do presidente da Comissão, poderão os referidos Ministros nomear novos directores.
 
-###### Art. 6.º - 1. Após a sua nomeação, o presidente, ouvidos os directores, requisitará o pessoal necessário ao funcionamento da Comissão.
+Art. 6.º - 1. Após a sua nomeação, o presidente, ouvidos os directores, requisitará o pessoal necessário ao funcionamento da Comissão.
 
 2. Tal requisição será feita por intermédio do Ministro da Justiça, devendo recair, na medida do possível, em trabalhadores da função pública.
 
 3. A Comissão poderá agregar colaboradores não remunerados da escolha dos respectivos directores e, bem assim, instituir comissões regionais.
 
-###### Art. 7.º - 1. À instrução dos processos de inquérito organizados pela Comissão são aplicáveis, com as ressalvas constantes deste diploma, as disposçiões do Código de Processo Penal e legislação complementar.
+Art. 7.º - 1. À instrução dos processos de inquérito organizados pela Comissão são aplicáveis, com as ressalvas constantes deste diploma, as disposçiões do Código de Processo Penal e legislação complementar.
 
 2. A Comissão terá os poderes que assistem ao Ministério Público em matéria de instrução preparatória, não podendo, no entanto, ordenar ou efectuar quaisquer detenções.
 
 3. Os directores de secção referidos no artigo 5.º poderão deprecar ao Ministério Público ou às autoridades administrativas ou policiais das localidades onde devam ser efectuados os actos processuais ou diligências probatórias que forem necessários.
 
-###### Art. 8.º - 1. Os inquéritos têm valor meramente informativo.
+Art. 8.º - 1. Os inquéritos têm valor meramente informativo.
 
 2. Só depois de reunidos indícios da existência de infracção criminal ou disciplinar poderá ter lugar o interrogatório do suspeito, devendo observar-se o disposto no artigo 265.º do Código de Processo Penal.
 
-###### Art. 9.º - 1. Se após o interrogatório do suspeito persistirem os indícios da existência de infracção criminal ou disciplinar, o presidente ordenará a remessa à entidade judiciária ou administrativa competente, mediante proposta do respectivo director, do processo de inquérito ou a parte pertinente à matéria a participar.
+Art. 9.º - 1. Se após o interrogatório do suspeito persistirem os indícios da existência de infracção criminal ou disciplinar, o presidente ordenará a remessa à entidade judiciária ou administrativa competente, mediante proposta do respectivo director, do processo de inquérito ou a parte pertinente à matéria a participar.
 
 2. Ao presidente compete igualmente, sob proposta do director respectivo, ordenar o arquivamento dos processos em que não se recolha prova bastante dos elementos da infracção ou da identidade dos seus agentes.
 
 3. Ao presidente compete ainda, sempre que as circunstâncias o aconselhem, ordenar a publicação das conclusões alcançadas nos processo de inquérito que tenham determinado a instauração de procedimento criminal ou disciplinar, utilizando para tanto, se necessário, os órgãos da informação.
 
-###### Art. 10.º - 1. Do despacho do presidente da Comissão que ordenar o arquivamento do processo de inquérito cabe reclamação do denunciante para o procurador-geral da República. A reclamação será entregue na secretaria da Comissão no prazo de dez dias, a contar da notificação do despacho que ordenar o arquivamento.
+Art. 10.º - 1. Do despacho do presidente da Comissão que ordenar o arquivamento do processo de inquérito cabe reclamação do denunciante para o procurador-geral da República. A reclamação será entregue na secretaria da Comissão no prazo de dez dias, a contar da notificação do despacho que ordenar o arquivamento.
 
 2. São igualmente susceptíveis de reclamação para o procurador-geral da República os despachos dos directores ou do presidente da Comissão que envolvam a prática de quaisquer nulidades ou irregularidades processuais.
 
-###### Art. 11.º Sempre que se verifique da instrução do processo que a denúncia foi feita de má fé ou com negligência grave, o presidente da Comissão promeverá junto do juízo de turno a condenação do denunciante em impostos de justiça, nos termos do artigo 178.º, n.º 1, alínea a), do Código das Custas Judiciais, sem prejuízo da responsabilidade criminal, se a ela houver lugar.
+Art. 11.º Sempre que se verifique da instrução do processo que a denúncia foi feita de má fé ou com negligência grave, o presidente da Comissão promeverá junto do juízo de turno a condenação do denunciante em impostos de justiça, nos termos do artigo 178.º, n.º 1, alínea a), do Código das Custas Judiciais, sem prejuízo da responsabilidade criminal, se a ela houver lugar.
 
-###### Art. 12.º - 1. Os directores de secção auferirão vencimento idêntico ao de inspector de 1.ª classe da Polícia Judiciária.
+Art. 12.º - 1. Os directores de secção auferirão vencimento idêntico ao de inspector de 1.ª classe da Polícia Judiciária.
 
 2. Os encargos com a execução do presente decreto-lei que não devam ser integrados no Orçamento Geral do Estado serão suportados pelo Cofre Geral dos Tribunais.
 
-###### Art. 13.º A Comissão Nacional de Inquérito terá a duração de dois anos, salvo se for oportunamente decidida a prorrogação desse prazo.
+Art. 13.º A Comissão Nacional de Inquérito terá a duração de dois anos, salvo se for oportunamente decidida a prorrogação desse prazo.
 
-###### Art. 14.º À Comissão Nacional de Inquérito é conferida competência para elaborar o seu regimento interno, o qual, depois de aprovado pelo procurador-geral da República, deverá ser publicado.
+Art. 14.º À Comissão Nacional de Inquérito é conferida competência para elaborar o seu regimento interno, o qual, depois de aprovado pelo procurador-geral da República, deverá ser publicado.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha.
 
-**Promulgado em 23 de Agosto de 1974.**
+Promulgado em 23 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/04/09900/05240528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0af660c80498bbe4b83af569bd5ed0ea28492aebb9d9b357e01108f9c65056ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 191703aab301d3dbd998c9e820be95cd517219e235334124086e884d9cc05eeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Exportação de Capitais
+- Importação de Capitais
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:640952:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397920:por
+  label: "Alterado o art. 25º pelo DEC LEI.323/82.1982.08.13.MFP, DR.IS [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1982-397920
+  date: '1982-08-13'
+- type: amended_by
+  target: pt:dre:328983:por
+  label: "Alterado o art. 4º pelo DEC LEI.16/85.1985.01.15.MFP DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1985-328983
+  date: '1985-01-15'
+- type: amended_by
+  target: pt:dre:183432:por
+  label: "Alterado o art. 4º pelo DEC LEI.261/85.1985.07.15.MFP DR.IS [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1985-183432
+  date: '1985-07-15'
+- type: amended_by
+  target: pt:dre:419180:por
+  label: "Alterado o nº6 e aditado o nº5-A ambos da classe 2 do Anexo, bem como aditados o nº5 ao art. 2º e o nº6 ao art.\
+    \ 6º ao presente diploma, pelo DEC LEI.238/87.1987.06.12.MF DR.IS [134]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1987-419180
+  date: '1987-06-12'
+- type: cites
+  target: pt:dre:145866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503245:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640952:por
+  label: "Revogado pelo DEC LEI.176/91.1991.05.14.MF DR.IS-A [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1991-640952
+  date: '1991-05-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:18Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +169,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As operações de importação e exportação de capitais privados entre territórios nacionais e entre estes territórios e o estrangeiro ficam sujeitas ao disposto no presente diploma, aplicando-se às correspondentes operações cambiais e de pagamentos interterritoriais o estabelecido na respectiva legislação.
+Artigo 1.º - 1. As operações de importação e exportação de capitais privados entre territórios nacionais e entre estes territórios e o estrangeiro ficam sujeitas ao disposto no presente diploma, aplicando-se às correspondentes operações cambiais e de pagamentos interterritoriais o estabelecido na respectiva legislação.
 
 2. Serão consideradas abrangidas pelo número anterior as operações de importação e exportação de capitais que se destinem a qualquer dos fins indicados no anexo ao presente decreto-lei, que dele faz parte integrante, quando nelas não forem interessadas o Estado ou qualquer outra pessoa colectiva de direito público, que não seja instituição de crédito.
 
 3. O anexo a que se refere o número anterior poderá ser alterado por portaria conjunta dos Ministros das Finanças e do Ultramar.
 
-###### Art. 2.º - 1. A realização de operações de importação e exportação de capitais privados carecerá de autorização, a conceder pelas entidades referidas nos números seguintes.
+Art. 2.º - 1. A realização de operações de importação e exportação de capitais privados carecerá de autorização, a conceder pelas entidades referidas nos números seguintes.
 
 2. Serão competentes para conceder a autorização:
 
@@ -117,7 +187,7 @@ b) As respectivas inspecções provinciais de crédito e seguros ou do comércio
 
 4. Quando a operação tiver lugar entre dois territórios nacionais, a autorização deverá ser concedida por ambas as entidades competentes.
 
-###### Art. 3.º - 1. As entidades competentes poderão dispensar de autorização prévia as operações cujo valor não exceder 100 milhares de escudos.
+Art. 3.º - 1. As entidades competentes poderão dispensar de autorização prévia as operações cujo valor não exceder 100 milhares de escudos.
 
 2. O limite referido no anterior n.º 1 poderá ser alterado:
 
@@ -127,17 +197,17 @@ b) Por portaria do Ministro do Ultramar, quanto às operações entre as provín
 
 c) Por portaria conjunta dos Ministros das Finanças e do Ultramar, para as operações entre territórios nacionais.
 
-###### Art. 4.º - 1. As autorizações a conceder pelo Banco de Portugal deverão ser homologadas por despacho do Ministro das Finanças, quando, tratando-se de operações com prazo superior a um ano, o valor das mesmas operações exceder 50 milhões de escudos.
+Art. 4.º - 1. As autorizações a conceder pelo Banco de Portugal deverão ser homologadas por despacho do Ministro das Finanças, quando, tratando-se de operações com prazo superior a um ano, o valor das mesmas operações exceder 50 milhões de escudos.
 
 2. As autorizações a conceder pelas inspecções provinciais, quando se trate de operações com prazo superior a um ano, deverão ser homologadas por despacho do governador da província, se o valor das mesmas operações exceder 10 milhões de escudos, e do Ministro do Ultramar, se o valor exceder 50 milhões de escudos.
 
 3. Os limites indicados dos n.os 1 e 2 do presente artigo podem ser alterados por portaria, respectivamente, do Ministro das Finanças ou do Ministro do Ultramar.
 
-###### Art. 5.º - 1. Os pedidos de autorização serão apresentados à entidade a quem competir a concessão da mesma.
+Art. 5.º - 1. Os pedidos de autorização serão apresentados à entidade a quem competir a concessão da mesma.
 
 2. No caso de operações entre territórios nacionais, o pedido de autorização será apresentado em primeiro lugar no território da exportação, nos termos do artigo 7.º deste diploma.
 
-###### Art. 6.º - 1. Os pedidos de autorização a conceder pelo Banco de Portugal, para as operações entre o continente ou ilhas adjacentes e o estrangeiro, serão formulados mediante o preenchimento de três exemplares, marcados de A a C.
+Art. 6.º - 1. Os pedidos de autorização a conceder pelo Banco de Portugal, para as operações entre o continente ou ilhas adjacentes e o estrangeiro, serão formulados mediante o preenchimento de três exemplares, marcados de A a C.
 
 2. Os pedidos de autorização a conceder pelas inspecções provinciais, para as operações entre uma província ultramarina e o estrangeiro, serão formulados mediante o preenchimento de quatro exemplares marcados de A a D, mas, para facilidade de registo e verificação de utilização das autorizações, poderão as referidas inspecções provinciais determinar, sempre que o julguem conveniente, o desdobramento, em duas ou mais vias, do exemplar D.
 
@@ -147,7 +217,7 @@ c) Por portaria conjunta dos Ministros das Finanças e do Ultramar, para as oper
 
 5. O exemplar D destinar-se-á à inspecção que houver concedido a autorização.
 
-###### Art. 7.º - 1. Os pedidos de autorização a conceder para operações entre territórios nacionais serão formulados mediante o preenchimento, pelo exportador de capitais, de seis exemplares, marcados de A a F, correspondendo os três primeiros às operações de exportação de capitais e os restantes à correlativa importação; mas para facilidade de registo, poderão as entidades competentes determinar, quando o julguem conveniente, o desdobramento, em duas ou mais vias, de qualquer dos exemplares referidos.
+Art. 7.º - 1. Os pedidos de autorização a conceder para operações entre territórios nacionais serão formulados mediante o preenchimento, pelo exportador de capitais, de seis exemplares, marcados de A a F, correspondendo os três primeiros às operações de exportação de capitais e os restantes à correlativa importação; mas para facilidade de registo, poderão as entidades competentes determinar, quando o julguem conveniente, o desdobramento, em duas ou mais vias, de qualquer dos exemplares referidos.
 
 2. Autorizada a exportação, a entidade competente aporá a respectiva indicação nos exemplares A a C e o seu visto nos exemplares D a F.
 
@@ -157,7 +227,7 @@ c) Por portaria conjunta dos Ministros das Finanças e do Ultramar, para as oper
 
 5. Os exemplares B e E servirão para utilização bancária da autorização, nos termos dos artigos 12.º e 14.º
 
-###### Art. 8.º - 1. Os pedidos de autorização deverão conter ou ser acompanhados de todos os elementos de informação ou de prova necessários para a completa identificação dos intervenientes, a perfeita determinação da natureza e valor das operações e o preciso conhecimento dos direitos e obrigações delas decorrentes, sendo os respectivos requerentes responsáveis pela inexactidão ou omissão de quaisquer elementos.
+Art. 8.º - 1. Os pedidos de autorização deverão conter ou ser acompanhados de todos os elementos de informação ou de prova necessários para a completa identificação dos intervenientes, a perfeita determinação da natureza e valor das operações e o preciso conhecimento dos direitos e obrigações delas decorrentes, sendo os respectivos requerentes responsáveis pela inexactidão ou omissão de quaisquer elementos.
 
 2. Para a instrução dos pedidos, e sempre que for considerado necessário, poderão ser exigidos dos requerentes esclarecimentos adicionais e solicitados os pareceres de quaisquer departamentos oficiais ou organismos corporativos.
 
@@ -165,17 +235,17 @@ c) Por portaria conjunta dos Ministros das Finanças e do Ultramar, para as oper
 
 4. Os requerentes com residência no estrangeiro deverão apresentar os pedidos de autorização através de entidade com residência no território nacional onde estes forem formulados, para o que conferirão a este residente, sempre que for caso disso, os adequados poderes de representação.
 
-###### Art. 9.º - 1. Das autorizações constará sempre o prazo da respectiva validade, o qual não deverá, em regra, exceder noventa dias, a contar da data da concessão da autorização.
+Art. 9.º - 1. Das autorizações constará sempre o prazo da respectiva validade, o qual não deverá, em regra, exceder noventa dias, a contar da data da concessão da autorização.
 
 2. Quando, em virtude da natureza ou das características das operações, ou de outras circunstâncias ponderosas, for considerado justificável, poderão ser fixados prazos de validade superiores ao referido no número anterior.
 
-###### Art. 10.º - 1. Poderá ser prorrogado ou revalidado o prazo de validade de autorizações que não hajam sido utilizadas, total ou parcialmente, dentro do prazo fixado nos termos do artigo anterior, desde que sejam reputados procedentes os motivos apresentados pelos requerentes.
+Art. 10.º - 1. Poderá ser prorrogado ou revalidado o prazo de validade de autorizações que não hajam sido utilizadas, total ou parcialmente, dentro do prazo fixado nos termos do artigo anterior, desde que sejam reputados procedentes os motivos apresentados pelos requerentes.
 
 2. A prorrogação deverá ser solicitada dentro do prazo de cinco dias, a contar da data limite para a utilização das mencionadas autorizações.
 
 3. Findo esse prazo, poderá ainda ser solicitada a revalidação da autorização, mas sem prejuízo do competente procedimento contravencional.
 
-###### Art. 11.º - 1. Os titulares das autorizações, sendo caso disso, deverão celebrar, dentro do prazo de validade das mesmas, os actos notariais destinados a formalizar os actos para cuja realização hajam sido concedidas.
+Art. 11.º - 1. Os titulares das autorizações, sendo caso disso, deverão celebrar, dentro do prazo de validade das mesmas, os actos notariais destinados a formalizar os actos para cuja realização hajam sido concedidas.
 
 2. Dentro do mesmo prazo deverão também requerer o registo, predial, comercial ou de outra espécie, a que estejam sujeitos os actos mencionados.
 
@@ -183,45 +253,45 @@ c) Por portaria conjunta dos Ministros das Finanças e do Ultramar, para as oper
 
 4. A falta de realização tempestiva dos mencionados actos notariais ou pedidos de registo deverá, dentro do prazo a que se refere o número precedente, ser justificada, consoante o caso, perante o Banco de Portugal ou a competente inspecção provincial, que poderão prorrogar o prazo dessa realização.
 
-###### Art. 12.º - 1. As operações cambiais correspondentes às operações de capitais autorizadas serão efectuadas por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios num território nacional.
+Art. 12.º - 1. As operações cambiais correspondentes às operações de capitais autorizadas serão efectuadas por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios num território nacional.
 
 2. As operações de pagamentos interterritoriais correspondentes às operações de capitais autorizadas serão efectuadas por intermédio de instituições de crédito a quem estejam permitidas e sejam domiciliadas nos territórios em causa.
 
-###### Art. 13.º - 1. Sempre que uma operação de importação ou exportação de capitais privados entre um território nacional e o estrangeiro corresponder inteiramente a uma operação de mercadoria sujeita a registo prévio, os titulares das autorizações deverão remeter, conforme o caso, ao Banco de Portugal ou à respectiva inspecção provincial o exemplar C da autorização, juntamente com os exemplares E dos boletins de registo prévio das operações de mercadorias.
+Art. 13.º - 1. Sempre que uma operação de importação ou exportação de capitais privados entre um território nacional e o estrangeiro corresponder inteiramente a uma operação de mercadoria sujeita a registo prévio, os titulares das autorizações deverão remeter, conforme o caso, ao Banco de Portugal ou à respectiva inspecção provincial o exemplar C da autorização, juntamente com os exemplares E dos boletins de registo prévio das operações de mercadorias.
 
 2. Quando, porém, o valor das operações de importação ou exportação de capitais não corresponder inteiramente ao valor das correlativas operações de importação ou exportação de mercadorias, os titulares das autorizações entregarão à instituição de crédito, a que recorrerem para a efectivação das operações cambiais, os exemplares C da autorização e E dos boletins de registo prévio, cumprindo, neste caso, à referida instituição a sua transmissão ao Banco de Portugal ou à respectiva inspecção provincial, nos termos do artigo 19.º
 
-###### Art. 14.º - 1. Sempre que uma operação de capitais privados entre territórios nacionais corresponder inteiramente a uma operação de mercadorias sujeita a registo, o titular da autorização de exportação dos capitais deverá remeter à entidade competente do respectivo território, o exemplar B da correspondente autorização; o titular da autorização de importação dos capitais deverá remeter à entidade competente do respectivo território, o exemplar E da autorização, juntamente com os exemplares III e IV dos boletins de registo, incumbindo à referida entidade enviar, seguidamente, o exemplar IV à entidade competente do território de exportação dos capitais, com a indicação adequada.
+Art. 14.º - 1. Sempre que uma operação de capitais privados entre territórios nacionais corresponder inteiramente a uma operação de mercadorias sujeita a registo, o titular da autorização de exportação dos capitais deverá remeter à entidade competente do respectivo território, o exemplar B da correspondente autorização; o titular da autorização de importação dos capitais deverá remeter à entidade competente do respectivo território, o exemplar E da autorização, juntamente com os exemplares III e IV dos boletins de registo, incumbindo à referida entidade enviar, seguidamente, o exemplar IV à entidade competente do território de exportação dos capitais, com a indicação adequada.
 
 2. Quando, porém, o valor da operação de capitais não corresponder inteiramente ao valor da correlativa operação de exportação e importação de mercadorias, os titulares das autorizações de exportação e importação dos capitais entregarão às instituições de crédito que intervierem na liquidação das operações, respectivamente, o exemplar B da autorização de exportação de capitais e o exemplar E da autorização de importação dos mesmos capitais, juntamente com os exemplares III e IV dos boletins de registo; a instituição de crédito do território de importação dos capitais enviará, em seguida, o referido exemplar IV à instituição de crédito do território de exportação, devendo esta instituição enviar os exemplares B e IV, com as adequadas anotações, à entidade competente do respectivo território; a instituição de crédito do território de importação dos capitais, por seu lado, enviará à respectiva entidade competente os exemplares E e III, também com as adequadas anotações.
 
-###### Art. 15.º A entidade que tiver concedido a autorização poderá permitir que à importância total das operações cambiais ou de pagamentos interterritoriais sejam deduzidas comissões, despesas no estrangeiro ou no território nacional de exportação dos capitais, e outros encargos que considere legítimos.
+Art. 15.º A entidade que tiver concedido a autorização poderá permitir que à importância total das operações cambiais ou de pagamentos interterritoriais sejam deduzidas comissões, despesas no estrangeiro ou no território nacional de exportação dos capitais, e outros encargos que considere legítimos.
 
-###### Art. 16.º - 1. Na liquidação de operações de capitais entre um território nacional e o estrangeiro observar-se-á o disposto nas directivas monetárias estabelecidas para a liquidação das operações de importação e de exportação ou reexportação de mercadorias, devendo as importações de capitais ser liquidadas nas moedas indicadas relativamente à exportação ou reexportação de mercadorias e as exportações de capitais nas moedas previstas para a importação de mercadorias.
+Art. 16.º - 1. Na liquidação de operações de capitais entre um território nacional e o estrangeiro observar-se-á o disposto nas directivas monetárias estabelecidas para a liquidação das operações de importação e de exportação ou reexportação de mercadorias, devendo as importações de capitais ser liquidadas nas moedas indicadas relativamente à exportação ou reexportação de mercadorias e as exportações de capitais nas moedas previstas para a importação de mercadorias.
 
 2. A liquidação das operações de capitais entre territórios nacionais será sempre efectuada em moeda portuguesa.
 
-###### Art. 17.º - 1. A entidade que tiver concedido a autorização para uma operação de capitais com o estrangeiro poderá autorizar também que a liquidação se faça por forma diferente da estabelecida nos artigos 12.º, 13.º e 16.º, n.º 1.
+Art. 17.º - 1. A entidade que tiver concedido a autorização para uma operação de capitais com o estrangeiro poderá autorizar também que a liquidação se faça por forma diferente da estabelecida nos artigos 12.º, 13.º e 16.º, n.º 1.
 
 2. As inspecções provinciais sòmente poderão conceder tal autorização sob parecer favorável do Banco de Portugal.
 
-###### Art. 18.º Os capitais importados ou exportados não poderão ser aplicados por forma ou com fim diversos daqueles para que houverem sido concedidas as respectivas autorizações.
+Art. 18.º Os capitais importados ou exportados não poderão ser aplicados por forma ou com fim diversos daqueles para que houverem sido concedidas as respectivas autorizações.
 
-###### Art. 19.º - 1. As instituições de crédito que tiverem efectuado as operações cambiais ou de pagamentos interterritoriais, correspondentes às operações de capitais autorizadas, anotarão, nos respectivos exemplares das autorizações, os elementos essenciais das operações realizadas e enviá-los-ão, no prazo de cinco dias, às entidades que houverem concedido as autorizações.
+Art. 19.º - 1. As instituições de crédito que tiverem efectuado as operações cambiais ou de pagamentos interterritoriais, correspondentes às operações de capitais autorizadas, anotarão, nos respectivos exemplares das autorizações, os elementos essenciais das operações realizadas e enviá-los-ão, no prazo de cinco dias, às entidades que houverem concedido as autorizações.
 
 2. O prazo a que se refere o número anterior contar-se-á da data da liquidação da operação cambial ou da data da execução da transferência ou da liquidação quando se trate de operações de pagamentos interterritoriais; sendo interessada a própria instituição de crédito, entender-se-á que a data em referência será a da escrituração das respectivas operações.
 
 3. O envio dos exemplares anotados poderá ter lugar directamente ou por intermédio da entidade do território em que houver sido efectuada a operação.
 
-###### Art. 20.º Quando a autorização não for utilizada pela totalidade da respectiva importância, a instituição de crédito anotará, no exemplar a que se refere o artigo anterior, a utilização parcial realizada e comunicá-la-á, em impresso próprio, e nos demais termos daquele artigo, à entidade que houver concedido a autorização.
+Art. 20.º Quando a autorização não for utilizada pela totalidade da respectiva importância, a instituição de crédito anotará, no exemplar a que se refere o artigo anterior, a utilização parcial realizada e comunicá-la-á, em impresso próprio, e nos demais termos daquele artigo, à entidade que houver concedido a autorização.
 
-###### Art. 21.º - 1. Quando os titulares das autorizações não as utilizarem dentro do prazo da respectiva validade, deverão solicitar a prorrogação das mesmas nos termos do artigo 10.º ou, no prazo de cinco dias a que se refere o n.º 2 desse artigo, devolver os exemplares das autorizações em seu poder à entidade que concedeu a autorização.
+Art. 21.º - 1. Quando os titulares das autorizações não as utilizarem dentro do prazo da respectiva validade, deverão solicitar a prorrogação das mesmas nos termos do artigo 10.º ou, no prazo de cinco dias a que se refere o n.º 2 desse artigo, devolver os exemplares das autorizações em seu poder à entidade que concedeu a autorização.
 
 2. Quando a autorização não for utilizada na sua totalidade e não houver lugar à utilização do saldo, deverá o titular, dentro do prazo de validade, ou no prazo de cinco dias a que alude o número anterior, pedir a rectificação da autorização concedida, justificando devidamente o motivo da não utilização do saldo.
 
 3. No caso de uma operação de importação ou exportação de mercadorias se transformar, por alargamento do prazo, em operação de importação ou exportação de capitais, não poderão os titulares das autorizações utilizar a faculdade de devolução de exemplares, contemplada no n.º 1, mantendo-se as obrigações de realização das operações cambiais ou de pagamentos interterritoriais que eram inerentes à operação de mercadorias.
 
-###### Art. 22.º - 1. Sem prejuízos dos recursos hierárquicos ou contenciosos a que haja lugar segundo a lei geral, será admissível recurso, no caso de não ser concedida a autorização para qualquer operação requerida:
+Art. 22.º - 1. Sem prejuízos dos recursos hierárquicos ou contenciosos a que haja lugar segundo a lei geral, será admissível recurso, no caso de não ser concedida a autorização para qualquer operação requerida:
 
 a) Das decisões do Banco de Portugal, para o Ministro das Finanças;
 
@@ -229,13 +299,13 @@ b) Das decisões do Ministro das Finanças ou do Ultramar, ou de ambos conjuntam
 
 2. O recurso deverá ser interposto no prazo de noventa dias, a contar da data em que da decisão haja sido dado conhecimento ao interessado.
 
-###### Art. 23.º - 1. Serão publicadas no Diário do Governo, ou neste e nos Boletins Oficiais das províncias ultramarinas, consoante o caso, as listas das operações de importação e exportação de capitais privados que forem liberalizadas, quer entre territórios nacionais, quer entre estes territórios e o estrangeiro.
+Art. 23.º - 1. Serão publicadas no Diário do Governo, ou neste e nos Boletins Oficiais das províncias ultramarinas, consoante o caso, as listas das operações de importação e exportação de capitais privados que forem liberalizadas, quer entre territórios nacionais, quer entre estes territórios e o estrangeiro.
 
 2. A publicação referida no número anterior será ordenada por despacho, simples ou conjunto, dos Ministros das Finanças e do Ultramar, conforme os territórios a que as listas de liberalização disserem respeito.
 
 3. O respectivo expediente correrá pela Inspecção-Geral de Crédito e Seguros e pela Direcção-Geral de Economia do Ministério do Ultramar
 
-###### Art. 24.º - 1. Serão elaborados periòdicamente balanços das importações e exportações de capitais, entre os territórios nacionais e o estrangeiro, procedendo-se também à determinação do valor líquido do crédito ou endividamento externo da economia nacional, em complemento dos elementos respeitantes às balanças de pagamentos internacionais.
+Art. 24.º - 1. Serão elaborados periòdicamente balanços das importações e exportações de capitais, entre os territórios nacionais e o estrangeiro, procedendo-se também à determinação do valor líquido do crédito ou endividamento externo da economia nacional, em complemento dos elementos respeitantes às balanças de pagamentos internacionais.
 
 2. Para cumprimento do disposto no número anterior, todas as entidades públicas e privadas são obrigadas a enviar ao Banco de Portugal e às inspecções provinciais de crédito e seguros ou do comércio bancário os adequados elementos de informação que aqueles lhes solicitem.
 
@@ -243,23 +313,23 @@ b) Das decisões do Ministro das Finanças ou do Ultramar, ou de ambos conjuntam
 
 4. Na determinação dos elementos de informação a solicitar pelas inspecções provinciais nos termos do n.º 2, estas inspecções terão em conta as instruções transmitidas para o mesmo efeito pelo Banco de Portugal e enviarão a este cópia dos quadros que vierem a elaborar para os fins indicados no n.º 1.
 
-###### Art. 25.º - 1. Nas escrituras, instrumentos, autos, cartas de arrematação ou outros títulos ou documentos relativos aos actos para realização dos quais tenha ou deva ter lugar qualquer das operações de capitais reguladas neste diploma, deverá sempre transcrever-se o boletim de autorização e o despacho de homologação quando haja, sob pena de nulidade dos mesmos actos e da sua inadmissibilidade a registo predial, comercial ou de outra espécie.
+Art. 25.º - 1. Nas escrituras, instrumentos, autos, cartas de arrematação ou outros títulos ou documentos relativos aos actos para realização dos quais tenha ou deva ter lugar qualquer das operações de capitais reguladas neste diploma, deverá sempre transcrever-se o boletim de autorização e o despacho de homologação quando haja, sob pena de nulidade dos mesmos actos e da sua inadmissibilidade a registo predial, comercial ou de outra espécie.
 
 2. Os notários, conservadores ou outros funcionários que intervenham nos aludidos actos deverão assegurar o rigoroso cumprimento do disposto no número anterior, podendo, a solicitação dos Ministérios das Finanças ou do Ultramar ou do Banco de Portugal, ser-lhes transmitidas instruções para velar por esse cumprimento.
 
-###### Art. 26.º As transgressões ao disposto no presente decreto-lei serão punidas de conformidade com o regime estabelecido no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967, devendo o Banco de Portugal e as outras instituições de crédito participar à Inspecção-Geral de Crédito e Seguros, ou às competentes inspecções provinciais de crédito e seguros ou do comércio bancário, as transgressões de que tiverem conhecimento.
+Art. 26.º As transgressões ao disposto no presente decreto-lei serão punidas de conformidade com o regime estabelecido no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967, devendo o Banco de Portugal e as outras instituições de crédito participar à Inspecção-Geral de Crédito e Seguros, ou às competentes inspecções provinciais de crédito e seguros ou do comércio bancário, as transgressões de que tiverem conhecimento.
 
-###### Art. 27.º A emissão de certificados para créditos à exportação nacional no continente ou ilhas adjacentes e o estabelecimento dos respectivos modelos passarão a ser da competência do Banco de Portugal.
+Art. 27.º A emissão de certificados para créditos à exportação nacional no continente ou ilhas adjacentes e o estabelecimento dos respectivos modelos passarão a ser da competência do Banco de Portugal.
 
-###### Art. 28.º - 1. São revogadas as normas aprovadas pelo Conselho de Ministros para o Comércio Externo em 28 de Junho de 1960 e publicadas no Diário do Governo, 1.ª série, de 29 desse mês e ano, os artigos 19.º a 24.º e anexo II do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), os Decretos n.os 44890 e 44893, de 20 de Fevereiro de 1963, o artigo 26.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965, o artigo 29.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965, e o artigo 22.º do [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 6 de Maio de 1968.
+Art. 28.º - 1. São revogadas as normas aprovadas pelo Conselho de Ministros para o Comércio Externo em 28 de Junho de 1960 e publicadas no Diário do Governo, 1.ª série, de 29 desse mês e ano, os artigos 19.º a 24.º e anexo II do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), os Decretos n.os 44890 e 44893, de 20 de Fevereiro de 1963, o artigo 26.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965, o artigo 29.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965, e o artigo 22.º do [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 6 de Maio de 1968.
 
 2. Todas as remissões feitas em outros diplomas para as disposições revogadas considerar-se-ão feitas para as disposições correspondentes do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Abril de 1970**
+Promulgado em 20 de Abril de 1970
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

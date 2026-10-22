@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/11/27300/20502057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48058-1967-400845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76ccf628d2e500b34e9b05b7d552686ec08a6e8e2ff13e3b3aa4896211541335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b34ee9f4b8a79c967ed7b030364344d5ea0205d95686bfd9834706223a732ee4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Formas de Provimento
+- Presidência do Conselho
+- Quadro de Pessoal
+- Secretariado da Reforma Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:336361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336361:por
+  label: Determinado que a categoria de técnico especialista, criada pelo presente diploma, passe a designar-se como técnico
+    principal pelo(a) Portaria n.º 462/75 - Diário do Governo n.º 172/1975, Série I de 1975-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/462-1975-336361
+  date: '1975-07-28'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146574:por
+  label: "Revogado pelo DEC LEI.622/70.1970.12.18.PC, DG.IS [292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/622-1970-146574
+  date: '1970-12-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:23Z'
   warnings: []
   errors: []
 ---
@@ -239,9 +292,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado na Presidência do Conselho o Secretariado da Reforma Administrativa, como órgão central incumbido de estudar, planear, coordenar e acompanhar a execução das providências tendentes a promover, de forma permanente e sistemática, o aperfeiçoamento da administração pública e a melhoria da produtividade dos respectivos serviços, em correspondência com as exigências do desenvolvimento económico e social da Nação.
+Artigo 1.º É criado na Presidência do Conselho o Secretariado da Reforma Administrativa, como órgão central incumbido de estudar, planear, coordenar e acompanhar a execução das providências tendentes a promover, de forma permanente e sistemática, o aperfeiçoamento da administração pública e a melhoria da produtividade dos respectivos serviços, em correspondência com as exigências do desenvolvimento económico e social da Nação.
 
-###### Art. 2.º As atribuições do Secretariado, a que se refere o artigo 1.º, serão exercidas, fundamentalmente, nos seguintes domínios:
+Art. 2.º As atribuições do Secretariado, a que se refere o artigo 1.º, serão exercidas, fundamentalmente, nos seguintes domínios:
 
 a) Estatuto jurídico e condições económico-sociais dos servidores do Estado;
 
@@ -257,7 +310,7 @@ f) Relações humanas e relações públicas;
 
 g) Revisão, codificação e divulgação de providências legislativas e regulamentares sobre os assuntos referidos nas alíneas precedentes.
 
-###### Art. 3.º - 1. Para o exercício das suas atribuições, compete ao Secretariado proceder, por iniciativa própria ou determinação do Presidente do Conselho, aos estudos, inquéritos ou trabalhos de outra natureza sobre qualquer das matérias indicadas no artigo 2.º e, nomeadamente:
+Art. 3.º - 1. Para o exercício das suas atribuições, compete ao Secretariado proceder, por iniciativa própria ou determinação do Presidente do Conselho, aos estudos, inquéritos ou trabalhos de outra natureza sobre qualquer das matérias indicadas no artigo 2.º e, nomeadamente:
 
 a) Promover a aplicação e coordenar e acompanhar a execução das providências que pelo Governo sejam aprovadas no sentido da gradual realização da Reforma Administrativa;
 
@@ -291,13 +344,13 @@ p) Promover a realização de missões e visitas, no País ou no estrangeiro, pa
 
 2. A competência a que se referem as alíneas c) e d) do n.º 1 não prejudica a atribuída por lei a outros organismos com funções consultivas, designadamente a Procuradoria-Geral da República e a Direcção-Geral da Contabilidade Pública.
 
-###### Art. 4.º Os pareceres referidos nas alíneas c) e d) do n.º 1 do artigo anterior serão emitidos dentro de prazos a definir em regulamento ou a fixar, para cada caso, pelo Presidente do Conselho.
+Art. 4.º Os pareceres referidos nas alíneas c) e d) do n.º 1 do artigo anterior serão emitidos dentro de prazos a definir em regulamento ou a fixar, para cada caso, pelo Presidente do Conselho.
 
-###### Art. 5.º - 1. A aplicação de quaisquer providências de reforma administrativa à administração local autárquica, aos institutos públicos e aos serviços da Administração Central do Estado que se regulem por estatuto privativo, quando não resulte dos diplomas que as aprovarem, poderá ser determinada por simples decreto, referendado pelo Presidente do Conselho e pelo Ministro ou Ministros interessados, donde constem as alterações ou adaptações ao regime geral que forem julgadas convenientes.
+Art. 5.º - 1. A aplicação de quaisquer providências de reforma administrativa à administração local autárquica, aos institutos públicos e aos serviços da Administração Central do Estado que se regulem por estatuto privativo, quando não resulte dos diplomas que as aprovarem, poderá ser determinada por simples decreto, referendado pelo Presidente do Conselho e pelo Ministro ou Ministros interessados, donde constem as alterações ou adaptações ao regime geral que forem julgadas convenientes.
 
 2. Relativamente à administração ultramarina e aos sectores e serviços mencionados no número anterior, a emissão de pareceres nos termos das alíneas c) e d) do n.º 1 do artigo 3.º fica dependente de decisão do Presidente do Conselho ou de proposta do Ministro respectivo.
 
-###### Art. 6.º - 1. O Secretariado da Reforma Administrativa deverá manter estreita ligação e cooperação com os Ministérios e com os serviços encarregados do planeamento e da integração económica, designadamente o Secretariado Técnico da Presidência do Conselho.
+Art. 6.º - 1. O Secretariado da Reforma Administrativa deverá manter estreita ligação e cooperação com os Ministérios e com os serviços encarregados do planeamento e da integração económica, designadamente o Secretariado Técnico da Presidência do Conselho.
 
 2. Com vista ao eficiente desempenho das suas atribuições, poderá o Secretariado:
 
@@ -307,13 +360,13 @@ b) Suscitar, acolher e utilizar, dentro de um plano de acção, conjunta e coord
 
 c) Recorrer à colaboração de entidades privadas que se dediquem a assuntos de organização administrativa.
 
-###### Art. 7.º - 1. A organização interna do Secretariado será definida em regulamento, que atenderá à conveniência de distribuir por direcções de serviço os assuntos respeitantes aos domínios fundamentais das respectivas atribuições.
+Art. 7.º - 1. A organização interna do Secretariado será definida em regulamento, que atenderá à conveniência de distribuir por direcções de serviço os assuntos respeitantes aos domínios fundamentais das respectivas atribuições.
 
 2. Será igualmente estabelecida por via regulamentar a competência do pessoal, designadamente nos escalões de direcção e chefia.
 
 3. À medida que as circunstâncias o permitam, o Secretariado deverá organizar, como serviços próprios, uma biblioteca e um centro de documentação administrativa e promover a edição de publicações sobre assuntos de interesse para a administração pública.
 
-###### Art. 8.º - 1. Junto do Secretariado funcionará o Conselho Coordenador para a Reforma Administrativa, ao qual competirá:
+Art. 8.º - 1. Junto do Secretariado funcionará o Conselho Coordenador para a Reforma Administrativa, ao qual competirá:
 
 a) Assegurar a ligação com os diversos Ministérios, prevista no n.º 1 do artigo 6.º do presente diploma;
 
@@ -339,29 +392,29 @@ f) Coordenar, no âmbito de cada Ministério e Secretaria de Estado, a recolha d
 
 7. Um dos técnicos do Secretariado exercerá as funções de secretário, sem voto, do Conselho Coordenador.
 
-###### Art. 9.º Os representantes do Ministério das Finanças e do Secretariado Técnico da Presidência do Conselho no Conselho Coordenador, ou seus delegados, darão assídua colaboração ao Secretariado da Reforma Administrativa, com vista a assegurar a ligação, esclarecimento e apoio quanto às matérias da competência dos respectivos departamentos.
+Art. 9.º Os representantes do Ministério das Finanças e do Secretariado Técnico da Presidência do Conselho no Conselho Coordenador, ou seus delegados, darão assídua colaboração ao Secretariado da Reforma Administrativa, com vista a assegurar a ligação, esclarecimento e apoio quanto às matérias da competência dos respectivos departamentos.
 
-###### Art. 10.º - 1. O Secretariado submeterá à apreciação do Governo, até 30 de Novembro de cada ano, o seu programa de actividades relativo ao ano seguinte.
+Art. 10.º - 1. O Secretariado submeterá à apreciação do Governo, até 30 de Novembro de cada ano, o seu programa de actividades relativo ao ano seguinte.
 
 2. Na organização dos programas anuais serão consideradas as prioridades a estabelecer em função das exigências do desenvolvimento económico-social do País.
 
 3. O Secretariado submeterá à apreciação do Governo o relatório anual das suas actividades, acompanhado do parecer do Conselho Coordenador.
 
-###### Art. 11.º O pessoal dirigente e técnico do Secretariado será o constante do quadro publicado em anexo ao presente diploma.
+Art. 11.º O pessoal dirigente e técnico do Secretariado será o constante do quadro publicado em anexo ao presente diploma.
 
-###### Art. 12.º - 1. Os lugares de director-geral e de subdirector-geral serão providos, em comissão de serviço, por tempo indeterminado, mediante livre escolha do Presidente do Conselho, em indivíduos de reconhecida competência, diplomados com um curso superior, sendo-lhes aplicável, após dois anos de exercício do cargo, o regime estabelecido no n.º 3 do artigo 14.º, caso tenham já a qualidade de funcionários.
+Art. 12.º - 1. Os lugares de director-geral e de subdirector-geral serão providos, em comissão de serviço, por tempo indeterminado, mediante livre escolha do Presidente do Conselho, em indivíduos de reconhecida competência, diplomados com um curso superior, sendo-lhes aplicável, após dois anos de exercício do cargo, o regime estabelecido no n.º 3 do artigo 14.º, caso tenham já a qualidade de funcionários.
 
 2. Os lugares de directores de serviço e técnicos de 2.ª classe serão providos, por nomeação do Presidente do Conselho, sob proposta do director-geral, entre diplomados com um curso superior adequado ao exercício das respectivas funções.
 
 3. O provimento dos lugares de especialistas e técnicos de 1.ª classe far-se-á, por promoção, entre os funcionários da categoria ou classe imediatamente inferior.
 
-###### Art. 13.º - 1. Os lugares de técnico auxiliar de 2.ª classe serão providos, por nomeação, entre indivíduos que hajam concluído o 3.º ciclo do ensino liceal ou possuam habilitação equivalente.
+Art. 13.º - 1. Os lugares de técnico auxiliar de 2.ª classe serão providos, por nomeação, entre indivíduos que hajam concluído o 3.º ciclo do ensino liceal ou possuam habilitação equivalente.
 
 2. Os lugares de técnico auxiliar de 1.ª classe serão preenchidos, por promoção, entre os técnicos auxiliares de 2.ª classe.
 
 3. Mediante despacho normativo do Presidente do Conselho, ouvido o Ministro da Educação Nacional, poderá ser autorizado o provimento dos cargos a que se refere este artigo em diplomados por escolas particulares onde se professem cursos adequados de organização do trabalho, direcção administrativa ou outros semelhantes. O despacho será publicado no Diário do Governo.
 
-###### Art. 14.º - 1. As nomeações para os cargos a que se referem o n.º 2 do artigo 12.º e o n.º 1 do artigo 13.º terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver bom e efectivo serviço, ou exonerado, no caso contrário.
+Art. 14.º - 1. As nomeações para os cargos a que se referem o n.º 2 do artigo 12.º e o n.º 1 do artigo 13.º terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver bom e efectivo serviço, ou exonerado, no caso contrário.
 
 2. Se, porém, a nomeação recair em funcionário público ou administrativo, será feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
 
@@ -369,9 +422,9 @@ f) Coordenar, no âmbito de cada Ministério e Secretaria de Estado, a recolha d
 
 Se a comissão cessar por decisão ministerial e não existir vaga onde o funcionário possa ser provido, ser-lhe-ão abonados, por conta do Secretariado, os vencimentos a que tiver direito no quadro de origem, até que nele reingresse. Entretanto, o funcionário nessa situação prestará serviço em qualquer organismo dependente da Presidência do Conselho ou do Ministério donde proveio.
 
-###### Art. 15.º Os processos de recrutamento para os lugares de ingresso no quadro e os sistemas de promoção serão definidos em regulamento.
+Art. 15.º Os processos de recrutamento para os lugares de ingresso no quadro e os sistemas de promoção serão definidos em regulamento.
 
-###### Art. 16.º O director-geral poderá propor superiormente:
+Art. 16.º O director-geral poderá propor superiormente:
 
 a) O contrato ou assalariamento do pessoal administrativo, auxiliar ou menor indispensável ao funcionamento dos serviços, nos termos e com as remunerações que forem aprovados por despacho do Presidente do Conselho, ouvido o Ministro das Finanças;
 
@@ -381,15 +434,15 @@ c) A realização de estudos, inquéritos ou trabalhos de carácter eventual, co
 
 d) A constituição de comissões de estudo, cuja composição, normas de funcionamento e condições de remuneração dos respectivos membros se regularão, na parte aplicável, pelas disposições relativas aos grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica.
 
-###### Art. 17.º O primeiro provimento dos lugares do quadro do Secretariado poderá ser feito directamente para qualquer das categorias ou classes, e sem dependência do tempo de serviço prestado em categoria inferior.
+Art. 17.º O primeiro provimento dos lugares do quadro do Secretariado poderá ser feito directamente para qualquer das categorias ou classes, e sem dependência do tempo de serviço prestado em categoria inferior.
 
-###### Art. 18.º Quando o titular do cargo de subdirector-geral não se encontre em efectivo exercício de funções, o director-geral do Secretariado será substituído, nas suas faltas ou impedimentos, pelo director de serviços que, para o efeito, for designado por despacho do Presidente do Conselho, sob proposta do director-geral.
+Art. 18.º Quando o titular do cargo de subdirector-geral não se encontre em efectivo exercício de funções, o director-geral do Secretariado será substituído, nas suas faltas ou impedimentos, pelo director de serviços que, para o efeito, for designado por despacho do Presidente do Conselho, sob proposta do director-geral.
 
-###### Art. 19.º - 1. Enquanto não for provido o lugar de director-geral do Secretariado, as respectivas funções serão exercidas, por inerência, pelo secretário-geral da Presidência do Conselho.
+Art. 19.º - 1. Enquanto não for provido o lugar de director-geral do Secretariado, as respectivas funções serão exercidas, por inerência, pelo secretário-geral da Presidência do Conselho.
 
 2. Na pendência da situação referida no n.º 1 deste artigo, os assuntos de carácter administrativo e burocrático respeitantes ao Secretariado correrão pela Repartição Administrativa da Secretaria-Geral da Presidência do Conselho.
 
-###### Art. 20.º - 1. O quadro do pessoal administrativo da Secretaria-Geral da Presidência do Conselho é acrescido dos seguintes lugares:
+Art. 20.º - 1. O quadro do pessoal administrativo da Secretaria-Geral da Presidência do Conselho é acrescido dos seguintes lugares:
 
 2 chefes de secção;
 
@@ -405,11 +458,11 @@ d) A constituição de comissões de estudo, cuja composição, normas de funcio
 
 3. O primeiro provimento nos lugares de primeiro e segundo-oficial criados por este artigo poderá ser feito, por escolha do Presidente do Conselho, sob proposta do secretário-geral da Presidência do Conselho, de entre os funcionários da categoria imediatamente inferior pertencentes ao quadro único a que alude o n.º 2, de preferência já habilitados com o concurso de promoção.
 
-###### Art. 21.º O Secretariado da Reforma Administrativa entrará em funcionamento e exercerá a sua competência por forma gradual e progressiva, à medida que reúna os indispensáveis meios de acção, e de harmonia com a orientação que for fixada pelo Presidente do Conselho.
+Art. 21.º O Secretariado da Reforma Administrativa entrará em funcionamento e exercerá a sua competência por forma gradual e progressiva, à medida que reúna os indispensáveis meios de acção, e de harmonia com a orientação que for fixada pelo Presidente do Conselho.
 
-###### Art. 22.º Os encargos resultantes da criação do Secretariado da Reforma Administrativa e do seu funcionamento no ano em curso serão satisfeitos por conta de dotação ou dotações a inscrever no orçamento da Presidência do Conselho, mediante decreto referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
+Art. 22.º Os encargos resultantes da criação do Secretariado da Reforma Administrativa e do seu funcionamento no ano em curso serão satisfeitos por conta de dotação ou dotações a inscrever no orçamento da Presidência do Conselho, mediante decreto referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República 23 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -417,6 +470,6 @@ Para ser presente à Assembleia Nacional.
 
 Quadro do pessoal a que se refere o artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/11/27300/20502057.pdf))](https://files.diariodarepublica.pt/1s/1967/11/27300/20502057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/27300/20502057.pdf)
 
 Presidência do Conselho, 23 de Novembro de 1967. - O Presidente do Conselho, António de Oliveira Salazar.

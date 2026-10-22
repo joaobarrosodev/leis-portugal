@@ -49,36 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46097-1964-535213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df61e4d25653ce5cd88a056c13b39f615bafb9525eaa38cd1203575c9de90045
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a638e5fabb9d6fe90c7d26c2c5b9c4cf2c78bf69d68885162c4739b0829b34ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Imóveis
+- Câmara Municipal
+- Construção Civil
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Habitação Social
+- Lisboa
+- Porto
+- Serviço de Construção de Casas Económicas
+relationships:
+- type: cites
+  target: pt:dre:182647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423450:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:23Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +125,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sem prejuízo das demais disposições da legislação vigente, estabelece-se que, para efeito da utilização das verbas consignadas no [Decreto-Lei n.º 35602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35602-1946-339857), de 17 de Abril de 1946, a aplicação deste diploma, no referente à construção de casas económicas nas cidades de Lisboa e Porto, é extensiva às respectivas zonas suburbanas.
+Artigo 1.º Sem prejuízo das demais disposições da legislação vigente, estabelece-se que, para efeito da utilização das verbas consignadas no [Decreto-Lei n.º 35602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35602-1946-339857), de 17 de Abril de 1946, a aplicação deste diploma, no referente à construção de casas económicas nas cidades de Lisboa e Porto, é extensiva às respectivas zonas suburbanas.
 
-###### Art. 2.º O disposto no artigo 5.º do [Decreto-Lei n.º 35602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35602-1946-339857), de 17 de Abril de 1946, considera-se aplicável ùnicamente aos casos em que a construção de moradias seja feita exclusivamente por força das verbas aprovadas pelo referido diploma.
+Art. 2.º O disposto no artigo 5.º do [Decreto-Lei n.º 35602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35602-1946-339857), de 17 de Abril de 1946, considera-se aplicável ùnicamente aos casos em que a construção de moradias seja feita exclusivamente por força das verbas aprovadas pelo referido diploma.
 
-###### Art. 3.º Sempre que se torne conveniente, para mais rápida execução dos empreendimentos prèviamente acordados entre os Ministérios das Obras Públicas e das Corporações e Previdência Social, poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais, pelo Serviço de Construção de Casas Económicas, ouvidas as câmaras municipais respectivas, proceder à aquisição directa dos terrenos destinados à construção de casas económicas e à sua urbanização, de harmonia com o que for estabelecido em contrato para o efeito celebrado nos termos do artigo 5.º do [Decreto-Lei n.º 40246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40246-1955-238396), de 6 de Julho de 1955, com a nova redacção dada pelo [Decreto-Lei n.º 42263](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42263-1959-423450), de 14 de Maio de 1959.
+Art. 3.º Sempre que se torne conveniente, para mais rápida execução dos empreendimentos prèviamente acordados entre os Ministérios das Obras Públicas e das Corporações e Previdência Social, poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais, pelo Serviço de Construção de Casas Económicas, ouvidas as câmaras municipais respectivas, proceder à aquisição directa dos terrenos destinados à construção de casas económicas e à sua urbanização, de harmonia com o que for estabelecido em contrato para o efeito celebrado nos termos do artigo 5.º do [Decreto-Lei n.º 40246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40246-1955-238396), de 6 de Julho de 1955, com a nova redacção dada pelo [Decreto-Lei n.º 42263](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42263-1959-423450), de 14 de Maio de 1959.
 
 § único. Nestes casos os arruamentos e demais espaços públicos serão entregues às câmaras municipais, uma vez concluídos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Dezembro de 1964, - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

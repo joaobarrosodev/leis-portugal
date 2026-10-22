@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49078-1969-200261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b5bb4e5270cb6ac9b0240299112d4a2babbc96824e9df8efeff34b7f60829a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b38b3bdd926157b1de93752fb0d264aef3a34b1341a953912b89d691e3b7703b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capitania
+- Comissão Central da Corporação Geral dos Pilotos
+- Comissão do Domínio Público Marítimo
+- Comissão Nacional contra a Poluição do MAR
+- Comissão Nacional para os Navios Nucleares
+- Comissão para Estudo do Aproveitamento do Leito do MAR
+- Departamento Marítimo do Centro
+- Departamento Marítimo do Norte
+- Departamento Marítimo do SUL
+- Direcção de Faróis
+- Direcção Geral da Marinha
+- Direcção Geral dos Serviços de Fomento Marítimo
+- Escola de Faroleiros
+- Escola de Mestrança e Marinhagem
+- Escola Náutica
+- Instituto de Biologia Marítima
+- Instituto de Socorros a Náufragos
+- Ministério da Marinha
+- Orgânica
+- Polícia Marítima
 relationships:
 - type: amended_by
   target: pt:dre:545646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445476:por
+  label: "Alterado e revogado o nº 4 do art. 14º pelo DEC LEI.88/71.1971.03.20.MMAR, DG.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-1971-445476
+  date: '1971-03-20'
+- type: amended_by
+  target: pt:dre:396733:por
+  label: "Alterado o nº 4 do art. 24º, com as alterações introduzidas pelo Dec Lei 88/71 de 20-Mar, pelo DEC LEI.94/72.1972.03.20.MMAR,\
+    \ DG.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1972-396733
+  date: '1972-03-20'
+- type: amended_by
+  target: pt:dre:279623:por
+  label: "Alterado o art. 10º pelo DEC LEI.519/77.16.12.1977.CR, DR.IS [289] de 16.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-1977-279623
+  date: '1977-12-16'
+- type: amended_by
+  target: pt:dre:2286240:por
+  label: "Alterado o n.º 4 do artigo 24.º do presente diploma, pelo Decreto-Lei 94/72, de 20 de Março, pelo DESP.DD986.29.06.1983.MDN,\
+    \ DR.IIS [147] de 29.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1983-2286240
+  date: '1983-06-29'
+- type: amended_by
+  target: pt:dre:386424:por
+  label: "Dada nova redacção ao art. 14.º do presente diploma, pelo DEC LEI.191/84.08.06.1984.MDN, DR.IS [191] de 08.06.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1984-386424
+  date: '1984-06-08'
+- type: amended_by
+  target: pt:dre:283521:por
+  label: "Extinta a Comissão Nacional contra a Poluíção do Mar, pelo DEC LEI.187/93.1993.05.24.MARN, DR.IS-A [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-1993-283521
+  date: '1993-05-24'
+- type: amended_by
+  target: pt:dre:655516:por
+  label: "Extinta a Escola de Mestrança e Marinhagem, pelo DEC LEI.322/93.1993.09.21.MM, DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1993-655516
+  date: '1993-09-21'
+- type: amended_by
+  target: pt:dre:545646:por
+  label: "Transferida a Escola Náutica Infante D. Henrique criada (com a designação de Escola Náutica) pelo presente diploma,\
+    \ e alterado pelo Dec 348/72, de 05-Set, nos termos do nº 3 do art. 26.º para o âmbito do Ministério da Ciência, Tecnologia\
+    \ e do Ensino Superior, pelo DEC LEI.210/2006.27.10.2006.MOPTC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2006-545646
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:251581:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:373428:por
+  label: "Revogado pelo DEC LEI.300/84.1984.09.07.PCM, DR.IS [208], e extinta a Direcção-Geral dos Serviços de Fomento Marítimo\
+    \ pelo referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1984-373428
+  date: '1984-09-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:46Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +168,13 @@ Tendo em conta a conveniência de designar aquele departamento do Ministério da
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Direcção-Geral da Marinha passa a designar-se Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) e tem como atribuições os assuntos relativos às marinhas de comércio, de pesca e de recreio, às pescas, faróis, socorros a náufragos e ao domínio marítimo.
+Artigo 1.º - 1. A Direcção-Geral da Marinha passa a designar-se Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) e tem como atribuições os assuntos relativos às marinhas de comércio, de pesca e de recreio, às pescas, faróis, socorros a náufragos e ao domínio marítimo.
 
 2. As atribuições da D. G. S. F. M. no que se refere às marinhas de comércio e de pesca e às pescas não envolvem aspectos relacionados com a exploração económica daquelas actividades, nem os que, em conformidade com a legislação em vigor, pertencem ao Ministério das Corporações e Previdência Social; também não abrangem, no que respeita à marinha de recreio, os assuntos que, de acordo com a legislação em vigor, pertencem à Brigada Naval da Legião Portuguesa.
 
 3. A D. G. S. F. M. é dirigida por um contra-almirante.
 
-###### Art. 2.º - 1. A Direcção-Geral dos Serviços de Fomento Marítimo compreende:
+Art. 2.º - 1. A Direcção-Geral dos Serviços de Fomento Marítimo compreende:
 
 a) Secretaria Central;
 
@@ -147,17 +222,17 @@ v) Comissão Central da Corporação Geral dos Pilotos.
 
 3. A Direcção do Serviço de Electricidade e Comunicações, da Superintendência dos Serviços de Material, e a Direcção do Serviço de Navegação, do Instituto Hidrográfico, funcionam como organismos da D. G. S. F. M. quando a sua acção incidir sobre as marinhas de comércio, de pesca e de recreio ou sobre as reservas da Marinha (material).
 
-###### Art. 3.º - 1. A Secretaria Central destina-se a realizar os trabalhos de expediente e de arquivo necessários ao funcionamento da Direcção-Geral dos Serviços de Fomento Marítimo.
+Art. 3.º - 1. A Secretaria Central destina-se a realizar os trabalhos de expediente e de arquivo necessários ao funcionamento da Direcção-Geral dos Serviços de Fomento Marítimo.
 
 2. A Secretaria Central serve todos os organismos centrais da D. G. S. F. M. que não disponham de secretaria própria.
 
 3. A Secretaria Central é chefiada por um oficial superior do serviço geral, que fica directamente subordinado ao director do Gabinete de Estudos.
 
-###### Art. 4.º - 1. O Gabinete de Estudos é um órgão de apoio do director-geral dos Serviços de Fomento Marítimo, com funções de estudo, planeamento e coordenação, incumbindo-lhe especialmente emitir pareceres, sugerir providências, coordenar actividades, reunir e preparar documentação e elementos estatísticos e elaborar projectos de diplomas legislativos ou regulamentares.
+Art. 4.º - 1. O Gabinete de Estudos é um órgão de apoio do director-geral dos Serviços de Fomento Marítimo, com funções de estudo, planeamento e coordenação, incumbindo-lhe especialmente emitir pareceres, sugerir providências, coordenar actividades, reunir e preparar documentação e elementos estatísticos e elaborar projectos de diplomas legislativos ou regulamentares.
 
 2. O Gabinete de Estudos é dirigido por um capitão-de-mar-e-guera.
 
-###### Art. 5.º - 1. A Direcção da Marinha Mercante tem como atribuições os assuntos relativos às marinhas de comércio e de pesca, competindo-lhe, designadamente, os que se relacionam com:
+Art. 5.º - 1. A Direcção da Marinha Mercante tem como atribuições os assuntos relativos às marinhas de comércio e de pesca, competindo-lhe, designadamente, os que se relacionam com:
 
 a) Inscrição marítima e matrícula do pessoal;
 
@@ -183,7 +258,7 @@ j) Reservas da Marinha em material, nos termos do disposto no [Decreto-Lei n.º 
 
 3. A Direcção da Marinha Mercante é dirigida por um capitão-de-mar-e-guerra da classe de marinha.
 
-###### Art. 6.º - 1. A Direcção das Pescas e do Domínio Marítimo tem como atribuições os assuntos relativos às pescas, às culturas de peixes, crustáceos e moluscos, à colheita de plantas marinhas e ao domínio marítimo, competindo-lhe, designadamente, os seguintes:
+Art. 6.º - 1. A Direcção das Pescas e do Domínio Marítimo tem como atribuições os assuntos relativos às pescas, às culturas de peixes, crustáceos e moluscos, à colheita de plantas marinhas e ao domínio marítimo, competindo-lhe, designadamente, os seguintes:
 
 a) Estudo e informação sobre questões de pesca que interessem à actuação das capitanias dos portos;
 
@@ -199,15 +274,15 @@ f) Estudo e informação sobre questões de domínio marítimo.
 
 2. A Direcção das Pescas e do Domínio Marítimo é dirigida por um capitão-de-mar-e-guerra.
 
-###### Art. 7.º - 1. A Direcção de Faróis tem como atribuições os assuntos relativos ao alumiamento e assinalamento marítimos.
+Art. 7.º - 1. A Direcção de Faróis tem como atribuições os assuntos relativos ao alumiamento e assinalamento marítimos.
 
 2. A Direcção de Faróis é dirigida por um capitão-de-mar-e-guerra da classe de marinha.
 
-###### Art. 8.º - 1. O Instituto de Socorros a Náufragos destina-se a manter e a accionar serviços de socorros a náufragos e de assistência a banhistas.
+Art. 8.º - 1. O Instituto de Socorros a Náufragos destina-se a manter e a accionar serviços de socorros a náufragos e de assistência a banhistas.
 
 2. O Instituto de Socorros a Náufragos é dirigido por um oficial general do quadro da reserva ou por um capitão-de-mar-e-guerra dos quadros do activo ou da reserva.
 
-###### Art. 9.º - 1. - A Intendência das Capitanias destina-se a coordenar o funcionamento das capitanias dos portos de forma a obter-se a maior eficiência e a desejável uniformidade de procedimentos nestes organismos.
+Art. 9.º - 1. - A Intendência das Capitanias destina-se a coordenar o funcionamento das capitanias dos portos de forma a obter-se a maior eficiência e a desejável uniformidade de procedimentos nestes organismos.
 
 2. Ao intendente das Capitanias, que é um comodoro da classe de marinha, compete, designadamente, inspeccionar, com a necessária frequência, as capitanias dos portos.
 
@@ -217,7 +292,7 @@ f) Estudo e informação sobre questões de domínio marítimo.
 
 5. O intendente das Capitanias substitui o director-geral dos Serviços de Fomento Marítimo nas suas faltas ou impedimentos.
 
-###### Art. 10.º - 1. Os departamentos marítimos são os órgãos com jurisdição nas áreas em que é dividido o litoral e águas costeiras do continente para fins relacionados com as atribuições que pertencem à Direcção-Geral dos Serviços de Fomento Marítimo.
+Art. 10.º - 1. Os departamentos marítimos são os órgãos com jurisdição nas áreas em que é dividido o litoral e águas costeiras do continente para fins relacionados com as atribuições que pertencem à Direcção-Geral dos Serviços de Fomento Marítimo.
 
 2. São criados os Departamentos Marítimos do Norte, do Centro e do Sul, cujos limites jurisdicionais são estabelecidos por portarias do Ministro da Marinha.
 
@@ -227,7 +302,7 @@ f) Estudo e informação sobre questões de domínio marítimo.
 
 5. Os chefes dos Departamentos Marítimos do Norte, do Centro e do Sul exercem, respectivamente e em acumulação, as funções de capitães dos Portos do Douro, de Lisboa e de Faro.
 
-###### Art. 11.º - 1. As capitanias dos portos são os órgãos externos executivos da Direcção-Geral dos Serviços de Fomento Marítimo, tendo, nas respectivas áreas de jurisdição, as atribuições estabelecidas na legislação em vigor.
+Art. 11.º - 1. As capitanias dos portos são os órgãos externos executivos da Direcção-Geral dos Serviços de Fomento Marítimo, tendo, nas respectivas áreas de jurisdição, as atribuições estabelecidas na legislação em vigor.
 
 2. São mantidas as capitanias dos portos existentes na data da publicação deste diploma e suas áreas de jurisdição.
 
@@ -237,7 +312,7 @@ f) Estudo e informação sobre questões de domínio marítimo.
 
 5. Todos os capitães de portos ficam directamente subordinados ao intendente das Capitanias.
 
-###### Art. 12.º - 1. As delegações marítimas são órgãos da mesma natureza, mas de escalão inferior ao das capitanias, e têm as atribuições estabelecidas na legislação em vigor.
+Art. 12.º - 1. As delegações marítimas são órgãos da mesma natureza, mas de escalão inferior ao das capitanias, e têm as atribuições estabelecidas na legislação em vigor.
 
 2. São mantidas as delegações marítimas existentes na data da publicação deste diploma e as respectivas áreas de jurisdição.
 
@@ -245,11 +320,11 @@ f) Estudo e informação sobre questões de domínio marítimo.
 
 4. Os delegados marítimos ficam subordinados ao capitão do porto em cuja área de jurisdição se encontram as respectivas delegações.
 
-###### Art. 13.º - 1. Em cada uma das capitanias haverá um tribunal marítimo, que apreciará e julgará as infracções penais classificadas como crimes marítimos no Código Penal e Disciplinar da Marinha Mercante.
+Art. 13.º - 1. Em cada uma das capitanias haverá um tribunal marítimo, que apreciará e julgará as infracções penais classificadas como crimes marítimos no Código Penal e Disciplinar da Marinha Mercante.
 
 2. A constituição dos tribunais marítimos é a estabelecida no Código citado no número anterior.
 
-###### Art. 14.º - 1. A Polícia Marítima é o instrumento preventivo e repressivo de que dispõem as capitanias dos portos para assegurar o cumprimento das leis e dos regulamentos marítimos e o policiamento geral nas áreas de jurisdição marítima, cumprindo-lhe, ainda, a investigação dos crimes sob a alçada do Código Penal e Disciplinar da Marinha Mercante e, nos termos do Contencioso Aduaneiro, a repressão do contrabando.
+Art. 14.º - 1. A Polícia Marítima é o instrumento preventivo e repressivo de que dispõem as capitanias dos portos para assegurar o cumprimento das leis e dos regulamentos marítimos e o policiamento geral nas áreas de jurisdição marítima, cumprindo-lhe, ainda, a investigação dos crimes sob a alçada do Código Penal e Disciplinar da Marinha Mercante e, nos termos do Contencioso Aduaneiro, a repressão do contrabando.
 
 2. O pessoal da Polícia Marítima forma o Corpo da Polícia Marítima.
 
@@ -261,7 +336,7 @@ a) A instrução, movimento e registo do pessoal do Corpo da Polícia Marítima;
 
 b) O desempenho de funções policiais que, pela sua natureza, não devam ser exercidas no âmbito das capitanias dos portos.
 
-###### Art. 15.º - 1. O Instituto de Biologia Marítima tem por finalidade a investigação no domínio da biologia marítima aplicada às pescas.
+Art. 15.º - 1. O Instituto de Biologia Marítima tem por finalidade a investigação no domínio da biologia marítima aplicada às pescas.
 
 2. O Instituto de Biologia Marítima é dirigido por um licenciado em Ciências Biológicas do quadro dos funcionários civis do Ministério da Marinha.
 
@@ -269,21 +344,21 @@ b) O desempenho de funções policiais que, pela sua natureza, não devam ser ex
 
 4. O director do Instituto de Biologia Marítima fica na dependência do director das Pescas e do Domínio Marítimo.
 
-###### Art. 16.º - 1. A Escola Náutica é um estabelecimento de ensino destinado a formar capitães, oficiais náuticos, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.
+Art. 16.º - 1. A Escola Náutica é um estabelecimento de ensino destinado a formar capitães, oficiais náuticos, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.
 
 2. Por decreto, podem ser criados na Escola Náutica cursos destinados a preparar oficiais da marinha mercante de classes diferentes das referidas no número anterior ou técnicos de construção naval.
 
 3. A Escola Náutica é dirigida por um oficial general do quadro da reserva ou por um capitão-de-mar-e-guerra, dos quadros do activo ou da reserva, na dependência do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 17.º - 1. A Escola de Mestrança e Marinhagem é um estabelecimento de ensino destinado a preparar tripulantes da marinha mercante com categoria inferior à de oficial.
+Art. 17.º - 1. A Escola de Mestrança e Marinhagem é um estabelecimento de ensino destinado a preparar tripulantes da marinha mercante com categoria inferior à de oficial.
 
 2. A Escola de Mestrança e Marinhagem é dirigida por um oficial superior da Armada, dos quadros do activo ou da reserva, na dependência do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 18.º - 1. A Escola de Faroleiros é um estabelecimento de ensino onde são ministrados os conhecimentos necessários ao desempenho das funções de faroleiros.
+Art. 18.º - 1. A Escola de Faroleiros é um estabelecimento de ensino onde são ministrados os conhecimentos necessários ao desempenho das funções de faroleiros.
 
 2. A Escola de Faroleiros é dirigida por um dos oficiais em serviço na Direcção de Faróis, na dependência do respectivo director.
 
-###### Art. 19.º - 1. A Comissão do Domínio Público Marítimo destina-se a estudar e dar parecer sobre todos os assuntos relativos à utilização, manutenção e defesa dos terrenos do domínio público marítimo.
+Art. 19.º - 1. A Comissão do Domínio Público Marítimo destina-se a estudar e dar parecer sobre todos os assuntos relativos à utilização, manutenção e defesa dos terrenos do domínio público marítimo.
 
 2. A Comissão do Domínio Público Marítimo funciona na dependência do director-geral dos Serviços de Fomento Marítimo, sendo constituída por:
 
@@ -313,7 +388,7 @@ O juiz auditor do Tribunal Militar da Marinha;
 
 Um oficial da Direcção das Pescas e do Domínio Marítimo, sem direito a voto, que será o secretário.
 
-###### Art. 20.º - 1. A Comissão Nacional contra a Poluição do Mar destina-se a estudar os problemas da poluição das águas em todos os seus aspectos, propor as medidas adequadas para a evitar e promover os trabalhos necessários para o mesmo fim.
+Art. 20.º - 1. A Comissão Nacional contra a Poluição do Mar destina-se a estudar os problemas da poluição das águas em todos os seus aspectos, propor as medidas adequadas para a evitar e promover os trabalhos necessários para o mesmo fim.
 
 2. A Comissão Nacional contra a Poluição do Mar é constituída por:
 
@@ -339,7 +414,7 @@ Um representante da Direcção das Pescas e do Domínio Marítimo;
 
 Um oficial da Direcção da Marinha Mercante, sem direito a voto, que será o secretário.
 
-###### Art. 21.º - 1. A Comissão Nacional para os Navios Nucleares destina-se a estudar e dar parecer sobre questões referentes à visita de navios nucleares a águas territoriais ou a portos nacionais, designadamente nos seguintes aspectos:
+Art. 21.º - 1. A Comissão Nacional para os Navios Nucleares destina-se a estudar e dar parecer sobre questões referentes à visita de navios nucleares a águas territoriais ou a portos nacionais, designadamente nos seguintes aspectos:
 
 a) Concessão ou denegação do direito de entrada e de navegação em águas territoriais e portos nacionais;
 
@@ -371,7 +446,7 @@ Um representante da Comissão de Direito Marítimo Internacional;
 
 Um oficial da Direcção da Marinha Mercante, sem direito a voto, que será o secretário.
 
-###### Art. 22.º - 1. A Comissão para Estudo do Aproveitamento do Leito do Mar destina-se a, no âmbito do Ministério da Marinha, estudar e dar parecer sobre todos os assuntos relativos ao aproveitamento do leito do mar.
+Art. 22.º - 1. A Comissão para Estudo do Aproveitamento do Leito do Mar destina-se a, no âmbito do Ministério da Marinha, estudar e dar parecer sobre todos os assuntos relativos ao aproveitamento do leito do mar.
 
 2. A Comissão para Estudo do Aproveitamento do Leito do Mar é constituída por:
 
@@ -387,9 +462,9 @@ O director do Instituto de Biologia Marítima;
 
 Um oficial da Direcção das Pescas e do Domínio Marítimo, sem direito a voto, que será o secretário.
 
-###### Art. 23.º A comissão central da Corporação Geral dos Pilotos tem as atribuições e constituição estabelecidas no Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes.
+Art. 23.º A comissão central da Corporação Geral dos Pilotos tem as atribuições e constituição estabelecidas no Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes.
 
-###### Art. 24.º - 1. Os regulamentos dos organismos referidos nas alíneas b), c), d), e), m) e q) a u), inclusive, do n.º 1 do artigo 2.º deste decreto-lei são estabelecidos por portaria do Ministro da Marinha.
+Art. 24.º - 1. Os regulamentos dos organismos referidos nas alíneas b), c), d), e), m) e q) a u), inclusive, do n.º 1 do artigo 2.º deste decreto-lei são estabelecidos por portaria do Ministro da Marinha.
 
 2. O Instituto de Socorros a Náufragos e o Instituto de Biologia Marítima continuarão a reger-se pelas disposições legais em vigor até que sejam actualizadas as suas estruturas orgânicas por diplomas próprios.
 
@@ -399,31 +474,31 @@ Um oficial da Direcção das Pescas e do Domínio Marítimo, sem direito a voto,
 
 5. A criação ou extinção de capitanias de portos e de delegações marítimas pode realizar-se por decreto; os limites das áreas de jurisdição das capitanias de portos e das delegações marítimas podem ser estabelecidos ou modificados por portaria do Ministro da Marinha.
 
-###### Art. 25.º - 1. Os membros das comissões referidas nas alíneas r), s), t) e u) do n.º 1 do artigo 2.º deste diploma têm direito a senhas de presença pela assistência a reuniões das mesmas comissões, de acordo com as disposições legais em vigor.
+Art. 25.º - 1. Os membros das comissões referidas nas alíneas r), s), t) e u) do n.º 1 do artigo 2.º deste diploma têm direito a senhas de presença pela assistência a reuniões das mesmas comissões, de acordo com as disposições legais em vigor.
 
 2. As senhas de presença serão fixadas por despacho do Ministro da Marinha, com a concordância do Ministro das Finanças.
 
-###### Art. 26.º - 1. A acção da Direcção-Geral dos Serviços de Fomento Marítimo é limitada ao continente e ilhas adjacentes, com excepção do que respeita às comissões referidas nas alíneas s) e t) do n.º 1 do artigo 2.º, cujas atribuições se estendem também às províncias ultramarinas.
+Art. 26.º - 1. A acção da Direcção-Geral dos Serviços de Fomento Marítimo é limitada ao continente e ilhas adjacentes, com excepção do que respeita às comissões referidas nas alíneas s) e t) do n.º 1 do artigo 2.º, cujas atribuições se estendem também às províncias ultramarinas.
 
 2. Por decreto referendado pelos Ministros da Marinha e do Ultramar pode ser regulamentada a maneira como a D. G. S. F. M. orientará, no âmbito das suas atribuições, as direcções e repartições provinciais dos serviços de marinha das províncias ultramarinas, noutros aspectos em que tal orientação seja considerada vantajosa.
 
-###### Art. 27.º As condições em que os navios da Armada desempenham missões que interessam à D. G. S. F. M. são estabelecidas por portaria do Ministro da Marinha.
+Art. 27.º As condições em que os navios da Armada desempenham missões que interessam à D. G. S. F. M. são estabelecidas por portaria do Ministro da Marinha.
 
-###### Art. 28.º - 1. Por despacho do Ministro da Marinha serão reguladas as condições em que o pessoal, material e infra-estruturas da Direcção-Geral da Marinha são transferidos para a Direcção-Geral dos Serviços de Fomento Marítimo.
+Art. 28.º - 1. Por despacho do Ministro da Marinha serão reguladas as condições em que o pessoal, material e infra-estruturas da Direcção-Geral da Marinha são transferidos para a Direcção-Geral dos Serviços de Fomento Marítimo.
 
 2. As actividades em curso no conselho administrativo da Direcção-Geral da Marinha passam, sem solução de continuidade, para o conselho administrativo da Direcção-Geral dos Serviços de Fomento Marítimo.
 
-###### Art. 29.º - 1. O Aquário de Vasco da Gama continuará a reger-se pelas disposições legais em vigor até que seja actualizada a sua estrutura orgânica por diploma próprio.
+Art. 29.º - 1. O Aquário de Vasco da Gama continuará a reger-se pelas disposições legais em vigor até que seja actualizada a sua estrutura orgânica por diploma próprio.
 
 2. A situação do Aquário de Vasco da Gama na estrutura orgânica do Ministério da Marinha será definida por portaria do Ministro da Marinha.
 
-###### Art. 30.º As dúvidas que se suscitem na execução deste decreto-lei serão esclarecidas por despacho do Ministro da Marinha.
+Art. 30.º As dúvidas que se suscitem na execução deste decreto-lei serão esclarecidas por despacho do Ministro da Marinha.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 11 de Junho de 1969.**
+Promulgado em 11 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

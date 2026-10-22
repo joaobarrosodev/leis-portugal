@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/25400/23192322.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc8efb8b1f44c5321153dc919ced87384615bd2183abc533df2d5f37f756910
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6220e408f20d7b2fbf9f2e2591c0d4b587e34148cbe321d31d503dccfe179e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior da Força Aérea
+- Criação de Serviços
+- Definição de Competências
+- Escola Superior da Força Aérea
+- Estabelecimento de Ensino
+- Extinção de Serviços
+- Força Aérea
+- Instituto de Altos Estudos da Força Aérea
+- Militar
+- Orgânica
+- Pessoal Docente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:148000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183422:por
+  label: "Alterados os arts. 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.º, 21.º, 23.º\
+    \ e 24.º pelo DEC LEI.250/85.15.07.1985.MDN, DR.IS [160] de 15.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1985-183422
+  date: '1985-07-15'
+- type: amended_by
+  target: pt:dre:148000:por
+  label: "Extinto o Instituto de Altos Estudos da Força Aérea, criado pelo presente diploma, que é revogado, com a redacção\
+    \ que lhe foi dada pelo Dec Lei 250/85 de 15-Jul, pelo DEC LEI.161/2005.22.09.2005.MDN, DR.IS-A [183] de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2005-148000
+  date: '2005-09-22'
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528254:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:08Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +136,11 @@ Considerando que a concentração do curso superior de guerra aérea e curso ger
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Instituto de Altos Estudos da Força Aérea (IAEFA), na dependência directa do Chefe do Estado-Maior da Força Aérea (CEMFA).
+Artigo 1.º É criado o Instituto de Altos Estudos da Força Aérea (IAEFA), na dependência directa do Chefe do Estado-Maior da Força Aérea (CEMFA).
 
 Missão
 
-###### Art. 2.º - 1 - O Instituto de Altos Estudos da Força Aérea tem por missão essencial:
+Art. 2.º - 1 - O Instituto de Altos Estudos da Força Aérea tem por missão essencial:
 
 a) Ministrar conhecimentos relativos à preparação e condução da guerra e outros, necessários ao desempenho das funções inerentes à categoria de oficial general da Força Aérea;
 
@@ -112,7 +152,7 @@ a) Realização de cursos ou estágios com vista a ampliar a cultura dos oficiai
 
 b) Colaboração com o Estado-Maior da Força Aérea em estudos de organização, regulamentação e doutrina de emprego.
 
-###### Art. 3.º - 1 - Para cumprimento da missão referida no n.º 1 do artigo 2.º, o Instituto de Altos Estudos da Força Aérea realiza os seguintes cursos:
+Art. 3.º - 1 - Para cumprimento da missão referida no n.º 1 do artigo 2.º, o Instituto de Altos Estudos da Força Aérea realiza os seguintes cursos:
 
 a) Curso superior de guerra aérea (CSGA), que substitui, para todos os efeitos, o curso indicado no Estatuto do Oficial da Força Aérea (EOFAP) com a designação de curso de altos comandos e constitui condição especial de promoção a oficial general;
 
@@ -122,29 +162,29 @@ b) Curso geral de guerra aérea (CGGA), que constitui condição especial de pro
 
 Dos cursos
 
-###### Art. 4.º - 1 - O curso superior de guerra aérea e o curso geral de guerra aérea são frequentados pelos oficiais nomeados pelo Chefe do Estado-Maior da Força Aérea, nos termos do EOFAP.
+Art. 4.º - 1 - O curso superior de guerra aérea e o curso geral de guerra aérea são frequentados pelos oficiais nomeados pelo Chefe do Estado-Maior da Força Aérea, nos termos do EOFAP.
 
 2 - Os cursos referidos no número anterior podem, ainda, ser frequentados por oficiais do Exército e da Armada ou de forças armadas estrangeiras, mediante autorização do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 5.º - 1 - O ensino nos cursos de guerra aérea visa a obtenção de unidade de doutrina e flexibilidade intelectual para a preparação, apoio e execução das acções militares nas suas diversas modalidades e é ministrado através dos métodos didácticos adequados.
+Art. 5.º - 1 - O ensino nos cursos de guerra aérea visa a obtenção de unidade de doutrina e flexibilidade intelectual para a preparação, apoio e execução das acções militares nas suas diversas modalidades e é ministrado através dos métodos didácticos adequados.
 
 2 - A duração de cada um dos referidos cursos é, normalmente, de um ano lectivo.
 
-###### Art. 6.º - 1 - O CSGA e o CGGA são organizados em áreas de actividade sob a responsabilidade primária, respectivamente, de um assessor ou de um professor efectivo.
+Art. 6.º - 1 - O CSGA e o CGGA são organizados em áreas de actividade sob a responsabilidade primária, respectivamente, de um assessor ou de um professor efectivo.
 
 2 - As designações das áreas de actividade referidas no número anterior, as matérias incluídas nas mesmas e a discriminação dos assuntos a tratar constarão do plano de estudos aprovado pelo CEMFA para cada ano lectivo.
 
-###### Art. 7.º - 1 - O CSGA e o CGGA constituem, por si, habilitação bastante para o desempenho de funções de estado-maior na Força Aérea e em comandos conjuntos e combinados.
+Art. 7.º - 1 - O CSGA e o CGGA constituem, por si, habilitação bastante para o desempenho de funções de estado-maior na Força Aérea e em comandos conjuntos e combinados.
 
 2 - Os oficiais que tenham concluído ou venham a concluir com aproveitamento outros cursos, nacionais ou estrangeiros, cuja finalidade, reconhecida em despacho do CEMFA, inclua a preparação para funções de comando e estado-maior consideram-se habilitados com o curso geral de guerra aérea.
 
-###### Art. 8.º A frequência do CSGA ou do CGGA não é acumulável com o desempenho de outras funções.
+Art. 8.º A frequência do CSGA ou do CGGA não é acumulável com o desempenho de outras funções.
 
-###### Art. 9.º - 1 - O aproveitamento escolar dos alunos dos CSGA e CGGA é avaliado por meio de provas e/ou outros padrões significativos de comportamento escolar.
+Art. 9.º - 1 - O aproveitamento escolar dos alunos dos CSGA e CGGA é avaliado por meio de provas e/ou outros padrões significativos de comportamento escolar.
 
 2 - A classificação final de cada aluno é atribuída da seguinte forma: Com aproveitamento ou Sem aproveitamento.
 
-###### Art. 10.º - 1 - São normalmente eliminados da frequência do CSGA e CGGA os oficiais que:
+Art. 10.º - 1 - São normalmente eliminados da frequência do CSGA e CGGA os oficiais que:
 
 a) Faltem a mais de um quinto dos dias úteis de trabalho escolar;
 
@@ -156,7 +196,7 @@ c) Sejam propostos pelo conselho escolar, antes do final dos cursos, por constit
 
 Da organização do IAEFA
 
-###### Art. 11.º O IAEFA compreende:
+Art. 11.º O IAEFA compreende:
 
 a) Direcção;
 
@@ -166,7 +206,7 @@ c) Corpo docente;
 
 d) Serviços de apoio.
 
-###### Art. 12.º - 1 - A direcção é constituída por:
+Art. 12.º - 1 - A direcção é constituída por:
 
 a) Director do IAEFA, oficial com o posto de general da Força Aérea;
 
@@ -196,7 +236,7 @@ d) Professores do CGGA.
 
 4 - Os serviços de apoio são chefiados por um oficial superior da Força Aérea, que exerce as funções de adjunto da direcção.
 
-###### Art. 13.º - 1 - Os directores dos cursos são:
+Art. 13.º - 1 - Os directores dos cursos são:
 
 a) Do CSGA, o subdirector do IAEFA;
 
@@ -232,7 +272,7 @@ Três individualidades de reconhecida competência e idoneidade para ministrar m
 
 Atribuições
 
-###### Art. 14.º - 1 - Compete essencialmente ao director do IAEFA:
+Art. 14.º - 1 - Compete essencialmente ao director do IAEFA:
 
 a) Superintender em todas as actividades do Instituto;
 
@@ -262,7 +302,7 @@ e) Estabelecer a classificação de segurança de todos os trabalhos realizados 
 
 f) Elaborar, com a colaboração de professores ou assessores, mapas de classificação dos cursos e informações individuais dos oficiais que os frequentem.
 
-###### Art. 15.º - 1 - Compete aos assessores do CSGA:
+Art. 15.º - 1 - Compete aos assessores do CSGA:
 
 a) Cooperar com o director do curso na programação e coordenação das várias áreas de actividade;
 
@@ -284,7 +324,7 @@ c) Colaborar nos trabalhos do conselho escolar;
 
 d) Desempenhar outras tarefas que lhes sejam determinadas pelo director do Instituto, no âmbito das actividades do IAEFA.
 
-###### Art. 16.º - 1 - O conselho escolar, como órgão de consulta e de estudo do director do IAEFA em assuntos de carácter pedagógico e doutrinário, tem composição variável, de acordo com os assuntos a tratar, competindo ao director do Instituto, na oportunidade da convocação, fixar a sua constituição específica, e tem especialmente as seguintes atribuições:
+Art. 16.º - 1 - O conselho escolar, como órgão de consulta e de estudo do director do IAEFA em assuntos de carácter pedagógico e doutrinário, tem composição variável, de acordo com os assuntos a tratar, competindo ao director do Instituto, na oportunidade da convocação, fixar a sua constituição específica, e tem especialmente as seguintes atribuições:
 
 a) Organizar os planos dos cursos;
 
@@ -298,7 +338,7 @@ d) Dar parecer sobre os assuntos que sejam submetidos à sua apreciação pelo d
 
 3 - Às reuniões do conselho escolar podem assistir, ainda, quando convocados, em representação dos respectivos cursos, os chefes de curso e outro oficial designado para o efeito pelos alunos.
 
-###### Art. 17.º Compete aos serviços de apoio:
+Art. 17.º Compete aos serviços de apoio:
 
 a) O suporte técnico, administrativo e logístico das actividades pedagógicas do IAEFA;
 
@@ -308,7 +348,7 @@ c) A coordenação do apoio a fornecer pelo comando da base aérea onde o IAEFA 
 
 Da administração e diversos
 
-###### Art. 18.º - 1 - O director, subdirector, assessores do CSGA e professores efectivos titulares do CGGA, oficiais da Força Aérea, são nomeados por portaria do CEMFA e são considerados na situação de adidos aos respectivos quadros.
+Art. 18.º - 1 - O director, subdirector, assessores do CSGA e professores efectivos titulares do CGGA, oficiais da Força Aérea, são nomeados por portaria do CEMFA e são considerados na situação de adidos aos respectivos quadros.
 
 2 - Os professores efectivos titulares, oficiais do Exército ou da Armada, são nomeados por diploma conjunto do Chefe do Estado-Maior respectivo e do CEMFA.
 
@@ -318,32 +358,32 @@ Da administração e diversos
 
 5 - As nomeações referidas nos números anteriores são feitas mediante proposta do director do IAEFA, ouvido o conselho escolar.
 
-###### Art. 19.º - 1 - Os oficiais da Força Aérea, assessores e professores efectivos titulares, não acumulam as funções no IAEFA com outros cargos.
+Art. 19.º - 1 - Os oficiais da Força Aérea, assessores e professores efectivos titulares, não acumulam as funções no IAEFA com outros cargos.
 
 2 - Os professores efectivos adjuntos e os eventuais podem acumular as funções do IAEFA com outros cargos ou serviços.
 
-###### Art. 20.º Os professores em exercício no IAEFA têm direito à gratificação mensal prevista na alínea b) do n.º 3 do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, com actualização pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
+Art. 20.º Os professores em exercício no IAEFA têm direito à gratificação mensal prevista na alínea b) do n.º 3 do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, com actualização pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
 
-###### Art. 21.º - 1 - As remunerações dos professores civis contratados são fixadas por despacho conjunto do Ministro das Finanças e do Plano e do Chefe do Estado-Maior da Força Aérea.
+Art. 21.º - 1 - As remunerações dos professores civis contratados são fixadas por despacho conjunto do Ministro das Finanças e do Plano e do Chefe do Estado-Maior da Força Aérea.
 
 2 - As conferências realizadas no IAEFA por militares ou entidades civis estranhas ao respectivo corpo docente dão, normalmente, direito à remuneração/hora que estiver fixada por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores dos três ramos das forças armadas.
 
-###### Art. 22.º Os oficiais do Exército e da Armada professores do IAEFA recebem os seus vencimentos pela Força Aérea se não exercerem as suas funções em acumulação com outras nos órgãos dependentes dos respectivos Estados-Maiores.
+Art. 22.º Os oficiais do Exército e da Armada professores do IAEFA recebem os seus vencimentos pela Força Aérea se não exercerem as suas funções em acumulação com outras nos órgãos dependentes dos respectivos Estados-Maiores.
 
-###### Art. 23.º O quadro orgânico do IAEFA é estabelecido por portaria do CEMFA, tendo em conta as necessidades apresentadas neste diploma, bem como o restante pessoal destinado às tarefas a cargo dos serviços de apoio.
+Art. 23.º O quadro orgânico do IAEFA é estabelecido por portaria do CEMFA, tendo em conta as necessidades apresentadas neste diploma, bem como o restante pessoal destinado às tarefas a cargo dos serviços de apoio.
 
-###### Art. 24.º - 1 - A pormenorização dos assuntos tratados neste diploma constará do Regulamento do Instituto de Altos Estudos da Força Aérea, a publicar por portaria do CEMFA.
+Art. 24.º - 1 - A pormenorização dos assuntos tratados neste diploma constará do Regulamento do Instituto de Altos Estudos da Força Aérea, a publicar por portaria do CEMFA.
 
 2 - As dúvidas e casos omissos serão esclarecidos por despacho do CEMFA, mas, quando envolverem despesas públicas, sê-lo-ão por despacho conjunto do Ministro das Finanças e do Plano e do CEMFA.
 
-###### Art. 25.º Os encargos resultantes da organização do IAEFA e do seu regular funcionamento serão inscritos em divisão apropriada do orçamento ordinário da Defesa Nacional - Departamento da Força Aérea, por transferência do orçamento previsto para a Escola Superior da Força Aérea, que se extingue, e por reforço com outras dotações necessárias.
+Art. 25.º Os encargos resultantes da organização do IAEFA e do seu regular funcionamento serão inscritos em divisão apropriada do orçamento ordinário da Defesa Nacional - Departamento da Força Aérea, por transferência do orçamento previsto para a Escola Superior da Força Aérea, que se extingue, e por reforço com outras dotações necessárias.
 
-###### Art. 26.º É desactivada a Escola Superior da Força Aérea, que vinha funcionando de acordo com as disposições dos Decretos-Leis n.os [49/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1971-446899), de 23 de Fevereiro, e [641/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1975-310268), de 15 de Novembro, diplomas que são revogados, com excepção do artigo 16.º do [Decreto-Lei n.º 49/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1971-446899), de 23 de Fevereiro, com a alteração introduzida pelo artigo único do [Decreto-Lei n.º 641/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1975-310268), de 15 de Novembro, que se mantém em vigor.
+Art. 26.º É desactivada a Escola Superior da Força Aérea, que vinha funcionando de acordo com as disposições dos Decretos-Leis n.os [49/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1971-446899), de 23 de Fevereiro, e [641/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1975-310268), de 15 de Novembro, diplomas que são revogados, com excepção do artigo 16.º do [Decreto-Lei n.º 49/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1971-446899), de 23 de Fevereiro, com a alteração introduzida pelo artigo único do [Decreto-Lei n.º 641/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1975-310268), de 15 de Novembro, que se mantém em vigor.
 
 Visto e aprovado em Conselho da Revolução em 29 de Setembro de 1978.
 
-**Promulgado em 30 de Setembro de 1978.**
+Promulgado em 30 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.

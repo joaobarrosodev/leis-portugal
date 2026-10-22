@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1980-457474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa6004b543e35a25a3f9da6a3d66fa2a8bd1a5069f51b37f91ddcae7407acac0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c58ed09e8c14b5d769d202710fa480b063e466c39681ac960f8284b0e6ce441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ANA
+- Madeira.região Autónoma
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:381295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470792:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:16Z'
   warnings: []
   errors: []
 ---
@@ -91,38 +102,38 @@ Assim, ouvido o Governo da Região Autónoma da Madeira:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os bens dominiais e patrimoniais de que a ANA, E. P., é titular na Região Autónoma da Madeira são transferidos, sem alteração da sua natureza, para a entidade pública a quem competir a prestação do serviço público regional de apoio à aviação civil na mesma Região.
+Artigo 1.º Os bens dominiais e patrimoniais de que a ANA, E. P., é titular na Região Autónoma da Madeira são transferidos, sem alteração da sua natureza, para a entidade pública a quem competir a prestação do serviço público regional de apoio à aviação civil na mesma Região.
 
-###### Art. 2.º - 1 - Mantêm-se na titularidade da ANA, E. P., e sob a sua exclusiva responsabilidade os equipamentos afectos à actividade de navegação aérea, incluindo móveis, utensílios e acessórios.
+Art. 2.º - 1 - Mantêm-se na titularidade da ANA, E. P., e sob a sua exclusiva responsabilidade os equipamentos afectos à actividade de navegação aérea, incluindo móveis, utensílios e acessórios.
 
 2 - Exceptuam-se do disposto no número anterior os sistemas visuais de aproximação e aterragem, nomeadamente os VASIS, e os respeitantes à iluminação e à marcação das pistas.
 
-###### Art. 3.º - 1 - São da exclusiva responsabilidade da entidade a quem competir a prestação do serviço público de apoio à aviação civil na Região Autónoma da Madeira as obrigações relativas à construção e manutenção de edifícios, instalações, acessos e demais infra-estruturas fixas afectas à actividade de navegação aérea na Região Autónoma da Madeira.
+Art. 3.º - 1 - São da exclusiva responsabilidade da entidade a quem competir a prestação do serviço público de apoio à aviação civil na Região Autónoma da Madeira as obrigações relativas à construção e manutenção de edifícios, instalações, acessos e demais infra-estruturas fixas afectas à actividade de navegação aérea na Região Autónoma da Madeira.
 
 2 - As obrigações referidas no número anterior serão cumpridas de acordo com os requisitos fornecidos pela ANA, E. P., e homologadas pela Direcção-Geral da Aviação Civil, em obediência aos procedimentos e recomendações constantes dos anexos da Convenção da Aviação Civil Internacional e da regulamentação nacional aplicável.
 
-###### Art. 4.º A transmissão dos bens referidos no artigo 1.º operar-se-á mediante despacho conjunto dos Ministros dos Transportes e Comunicações, das Finanças e do Plano e da República para a Região Autónoma da Madeira, ouvido o Governo Regional, o qual servirá de título de registo e será publicado no prazo de noventa dias após a publicação do presente diploma, salvo se ainda não tiver ocorrido a do despacho a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 246/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1979-381295), de 25 de Julho, caso em que o referido prazo se contará a partir da entrada em vigor deste último.
+Art. 4.º A transmissão dos bens referidos no artigo 1.º operar-se-á mediante despacho conjunto dos Ministros dos Transportes e Comunicações, das Finanças e do Plano e da República para a Região Autónoma da Madeira, ouvido o Governo Regional, o qual servirá de título de registo e será publicado no prazo de noventa dias após a publicação do presente diploma, salvo se ainda não tiver ocorrido a do despacho a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 246/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1979-381295), de 25 de Julho, caso em que o referido prazo se contará a partir da entrada em vigor deste último.
 
-###### Art. 5.º - 1 - São igualmente transferidos para a entidade pública a quem competir a prestação do serviço público regional de apoio à aviação civil todos os direitos e obrigações da ANA, E. P., incluindo posições contratuais decorrentes do exercício das suas atribuições e competências nos aeroportos do Funchal e de Porto Santo.
+Art. 5.º - 1 - São igualmente transferidos para a entidade pública a quem competir a prestação do serviço público regional de apoio à aviação civil todos os direitos e obrigações da ANA, E. P., incluindo posições contratuais decorrentes do exercício das suas atribuições e competências nos aeroportos do Funchal e de Porto Santo.
 
 2 - Exceptuam-se do referido no número anterior os direitos e obrigações que se relacionem directamente com os equipamentos e actividades de navegação aérea.
 
 3 - A transmissão das posições contratuais referidas no n.º 1 do presente artigo abrange as respectivas garantias prestadas pelo Estado a credores da ANA, E. P., as quais se mantêm nos termos em que foram assumidas.
 
-###### Art. 6.º No prazo de noventa dias após a publicação do presente diploma, a ANA, E. P., apresentará ao Ministério dos Transportes e Comunicações, com referência a esta última data, um balanço de transmissão relativo aos aeroportos do Funchal e de Porto Santo.
+Art. 6.º No prazo de noventa dias após a publicação do presente diploma, a ANA, E. P., apresentará ao Ministério dos Transportes e Comunicações, com referência a esta última data, um balanço de transmissão relativo aos aeroportos do Funchal e de Porto Santo.
 
-###### Art. 7.º As condições de prestação de serviços de navegação aérea por parte da ANA, E. P., nos aeroportos do Funchal e de Porto Santo, não previstas no presente diploma, designadamente no domínio da cooperação funcional, aproveitamento de meios comuns e compensações mútuas, serão fixadas por despacho conjunto do Ministro dos Transportes e Comunicações e do Presidente do Governo da Região Autónoma da Madeira.
+Art. 7.º As condições de prestação de serviços de navegação aérea por parte da ANA, E. P., nos aeroportos do Funchal e de Porto Santo, não previstas no presente diploma, designadamente no domínio da cooperação funcional, aproveitamento de meios comuns e compensações mútuas, serão fixadas por despacho conjunto do Ministro dos Transportes e Comunicações e do Presidente do Governo da Região Autónoma da Madeira.
 
-###### Art. 8.º Independentemente do disposto no número anterior, a ANA, E. P., facultará, nos domínios da sua actividade, assistência técnica à entidade a quem competir a prestação do serviço público regional de apoio à aviação civil da Região Autónoma, mediante contratos a celebrar em conformidade com as circunstâncias de cada caso.
+Art. 8.º Independentemente do disposto no número anterior, a ANA, E. P., facultará, nos domínios da sua actividade, assistência técnica à entidade a quem competir a prestação do serviço público regional de apoio à aviação civil da Região Autónoma, mediante contratos a celebrar em conformidade com as circunstâncias de cada caso.
 
-###### Art. 9.º Para efeitos do presente diploma, considera-se que o sector da navegação aérea é formado pelo conjunto dos serviços operacionais de tráfego aéreo, e telecomunicações e informação aeronáutica e ainda o de manutenção de telecomunicações e electrónica.
+Art. 9.º Para efeitos do presente diploma, considera-se que o sector da navegação aérea é formado pelo conjunto dos serviços operacionais de tráfego aéreo, e telecomunicações e informação aeronáutica e ainda o de manutenção de telecomunicações e electrónica.
 
-###### Art. 10.º As dúvidas suscitadas com a interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros dos Transportes e Comunicações, da República para a Região Autónoma da Madeira e, quando for caso disso, das Finanças e do Plano, ouvido o Governo Regional.
+Art. 10.º As dúvidas suscitadas com a interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros dos Transportes e Comunicações, da República para a Região Autónoma da Madeira e, quando for caso disso, das Finanças e do Plano, ouvido o Governo Regional.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 28 de Outubro de 1980.**
+Promulgado em 28 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

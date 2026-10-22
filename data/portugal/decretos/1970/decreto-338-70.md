@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/338-1970-141605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a2eeffd0cabb1f5695a2072cd82e7202f12d0247176169c7d15aa19462adf8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59f629cfaf11aba1116db7cf060c220aa0eee2a1d22e0e82eaeb5221a42d9c3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:584581:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:22Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +103,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Da natureza, fins e atribuições
 
-###### Artigo 1.º - 1. É instituída na província de Angola a Junta Provincial de Habitação com os objectivos de coordenar e orientar, no domínio da habitação, os esforços das entidades públicas que actuam neste domínio, de promover os estudos de base que se lhe referem e de impulsionar a resolução do problema habitacional dos sectores populacionais mais carecidos.
+Artigo 1.º - 1. É instituída na província de Angola a Junta Provincial de Habitação com os objectivos de coordenar e orientar, no domínio da habitação, os esforços das entidades públicas que actuam neste domínio, de promover os estudos de base que se lhe referem e de impulsionar a resolução do problema habitacional dos sectores populacionais mais carecidos.
 
 2. A Junta é um organismo dotado de personalidade jurídica, património privativo e autonomia administrativa e financeira.
 
@@ -109,11 +113,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 #### SECÇÃO I — Da constituição da Junta
 
-###### Art. 2.º A Junta é constituída por um conselho geral, um gabinete de estudos e planeamento, uma comissão administrativa e uma direcção de serviços.
+Art. 2.º A Junta é constituída por um conselho geral, um gabinete de estudos e planeamento, uma comissão administrativa e uma direcção de serviços.
 
 #### SECÇÃO II — Do Conselho Geral
 
-###### Art. 3.º - 1. O Conselho Geral, presidido pelo governador-geral, é formado pelos secretários provinciais de Obras Públicas; de Planeamento, Integração Económica, Fazenda e Contabilidade; de Saúde e Assistência; de Trabalho, Previdência e Acção Social; de Fomento Rural; inspector provincial de Habitação; directores dos Serviços da Junta; dos Serviços de Administração Civil; dos Serviços de Obras Públicas e Transportes; do Laboratório de Engenharia de Angola, e um representante dos trabalhadores a designar pelos sindicatos.
+Art. 3.º - 1. O Conselho Geral, presidido pelo governador-geral, é formado pelos secretários provinciais de Obras Públicas; de Planeamento, Integração Económica, Fazenda e Contabilidade; de Saúde e Assistência; de Trabalho, Previdência e Acção Social; de Fomento Rural; inspector provincial de Habitação; directores dos Serviços da Junta; dos Serviços de Administração Civil; dos Serviços de Obras Públicas e Transportes; do Laboratório de Engenharia de Angola, e um representante dos trabalhadores a designar pelos sindicatos.
 
 2. Compete ao Conselho Geral:
 
@@ -139,7 +143,7 @@ e) Aprovar o orçamento ordinário e os suplementares, os planos de trabalhos, a
 
 #### SECÇÃO III — Do Gabinete de Estudos e Planeamento
 
-###### Art. 4.º - 1. Na dependência directa do Conselho Geral funciona o Gabinete de Estudos e Planeamento.
+Art. 4.º - 1. Na dependência directa do Conselho Geral funciona o Gabinete de Estudos e Planeamento.
 
 2. Ao Gabinete cabo coadjuvar o Conselho Geral no desempenho das suas funções, procedendo aos estudos e trabalhos necessários e preparando os processos que a ele devam ser presentes, competindo-lhe, nomeadamente:
 
@@ -167,7 +171,7 @@ g) Promover a colaboração de entidades públicas ou privadas interessadas nos 
 
 #### SECÇÃO IV — Do inspector provincial de Habitação
 
-###### Art. 5.º Ao inspector provincial de Habitação, que depende directamente do Conselho Geral, compete:,
+Art. 5.º Ao inspector provincial de Habitação, que depende directamente do Conselho Geral, compete:,
 
 a) Dirigir a actividade do Gabinete de Estudos e Planeamento;
 
@@ -183,7 +187,7 @@ f) Prestar os pareceres, elaborar os relatórios e realizar os estudos, trabalho
 
 #### SECÇÃO V — Da Comissão Administrativa
 
-###### Art. 6.º - 1. A Comissão Administrativa é constituída pelo director dos Serviços da Junta, que preside, pelos chefes das Repartições Administrativa, Técnica e Social e por um director de Fazenda nomeado pelo governador-geral sob proposta do director provincial dos Serviços de Fazenda e Contabilidade.
+Art. 6.º - 1. A Comissão Administrativa é constituída pelo director dos Serviços da Junta, que preside, pelos chefes das Repartições Administrativa, Técnica e Social e por um director de Fazenda nomeado pelo governador-geral sob proposta do director provincial dos Serviços de Fazenda e Contabilidade.
 
 2. Compete à Comissão Administrativa:
 
@@ -225,7 +229,7 @@ n) Delegar no director de serviços as atribuições que entender, dentro da sua
 
 #### SECÇÃO VI — Da Direcção de Serviços
 
-###### Art. 7.º - 1. Os serviços da Junta, centrais e regionais, constituem uma Direcção de Serviços, à qual compete:
+Art. 7.º - 1. Os serviços da Junta, centrais e regionais, constituem uma Direcção de Serviços, à qual compete:
 
 a) Executar as deliberações do Conselho Administrativo ou promover a sua execução;
 
@@ -237,7 +241,7 @@ c) Promover adequada actuação social, assistencial e educativa junto das famí
 
 3. O governador-geral pode delegar no secretário provincial de Obras Públicas o despacho corrente dos serviços.
 
-###### Art. 8.º - 1. Os serviços centrais da Junta compreendem os seguintes departamentos:
+Art. 8.º - 1. Os serviços centrais da Junta compreendem os seguintes departamentos:
 
 a) Repartição Administrativa;
 
@@ -265,7 +269,7 @@ a) Divisão de Fiscalização e Manutenção de Bairros;
 
 b) Divisão de Acção Social.
 
-###### Art. 9.º - 1. Os serviços regionais da Junta são constituídos por delegações, em regra com carácter distrital, actuando nos núcleos urbanos directamente ou por intermédio de outras entidades.
+Art. 9.º - 1. Os serviços regionais da Junta são constituídos por delegações, em regra com carácter distrital, actuando nos núcleos urbanos directamente ou por intermédio de outras entidades.
 
 2. As delegações são criadas por portaria do governador-geral, à medida que as necessidades do serviço o justifiquem e desde que as possibilidades da Junta o permitam.
 
@@ -273,7 +277,7 @@ b) Divisão de Acção Social.
 
 #### SECÇÃO VII — Do director de serviços
 
-###### Art. 10.º - 1. A Direcção de Serviços da Junta é exercida por um director de serviços, ao qual compete superintender em todos os serviços da Junta, zelando pelo cumprimento dos regulamentos e instruções em vigor e promovendo o bom funcionamento e eficiência das suas actividades, designadamente:
+Art. 10.º - 1. A Direcção de Serviços da Junta é exercida por um director de serviços, ao qual compete superintender em todos os serviços da Junta, zelando pelo cumprimento dos regulamentos e instruções em vigor e promovendo o bom funcionamento e eficiência das suas actividades, designadamente:
 
 a) Propor superiormente a reunião do Conselho Geral e convocar e presidir às sessões da Comissão Administrativa;
 
@@ -313,7 +317,7 @@ p) Representar a Junta em juízo e fora dele.
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 11.º O pessoal dos serviços da Junta é classificado, de acordo com os mapas anexos a este diploma, da seguinte forma:
+Art. 11.º O pessoal dos serviços da Junta é classificado, de acordo com os mapas anexos a este diploma, da seguinte forma:
 
 a) Pessoal superior;
 
@@ -325,7 +329,7 @@ d) Pessoal administrativo;
 
 e) Pessoal operário e serventuário.
 
-###### Art. 12.º - 1. O pessoal superior da Junta é constituído, exclusivamente, por funcionários com curso superior universitário e compreende as seguintes categorias, com o numero de unidades constantes dos mapas I e II anexos a este diploma:
+Art. 12.º - 1. O pessoal superior da Junta é constituído, exclusivamente, por funcionários com curso superior universitário e compreende as seguintes categorias, com o numero de unidades constantes dos mapas I e II anexos a este diploma:
 
 a) Director - com a letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino;
 
@@ -345,17 +349,17 @@ e) Técnico de 1.ª classe - com a letra F do § 1.º do artigo 91.º do Estatut
 
 5. A Repartição Social é chefiada por indivíduo licenciado com curso superior que possua adequada especialização no campo social.
 
-###### Art. 13.º - 1. O pessoal dos serviços da Junta consta dos mapas I, II e III anexos a este diploma, dele fazendo parte integrante.
+Art. 13.º - 1. O pessoal dos serviços da Junta consta dos mapas I, II e III anexos a este diploma, dele fazendo parte integrante.
 
 2. Os lugares constantes dos mapas I, II e III serão preenchidos à medida do desenvolvimento da Junta e das disponibilidades financeiras existentes.
 
 3. Além do pessoal previsto nos números anteriores, poderá ser contratado ou assalariado, nos termos legais, o pessoal que as necessidades do serviço exigirem, dentro das disponibilidades orçamentais existentes.
 
-###### Art. 14.º O inspector provincial e o director de serviços da Junta são nomeados em comissão de serviço pelo Ministro do Ultramar, sob proposta do governador-geral da província.
+Art. 14.º O inspector provincial e o director de serviços da Junta são nomeados em comissão de serviço pelo Ministro do Ultramar, sob proposta do governador-geral da província.
 
 #### SECÇÃO II — Dos vencimentos e remunerações
 
-###### Art. 15.º - 1. O pesosal dos serviços da Junta percebe os vencimentos, subsídios e mais abonos estabelecidos pela legislação em vigor.
+Art. 15.º - 1. O pesosal dos serviços da Junta percebe os vencimentos, subsídios e mais abonos estabelecidos pela legislação em vigor.
 
 2. Ao pessoal superior da Junta são atribuídas gratificações mensais cujos quantitativos serão fixados por portaria do governador-geral.
 
@@ -369,7 +373,7 @@ e) Técnico de 1.ª classe - com a letra F do § 1.º do artigo 91.º do Estatut
 
 ### CAPÍTULO IV — Da administração financeira
 
-###### Art. 16.º Constituem receitas da Junta:
+Art. 16.º Constituem receitas da Junta:
 
 a) As dotações que lhe sejam consignadas no orçageral da província e nos orçamentos dos corpos administrativos e de quaisquer organismos oficiais;
 
@@ -391,15 +395,15 @@ i) Produtos de empréstimos a médio e a longo prazos que possam ser concedidos 
 
 j) Outras receitas ou subsídios que vierem a ser consignados.
 
-###### Art. 17.º São despesas obrigatórias da Junta todos os encargos com o pessoal, material e pagamento de serviços decorrentes do desempenho da sua missão, incluindo as dos correspondentes órgãos de estudo e de execução.
+Art. 17.º São despesas obrigatórias da Junta todos os encargos com o pessoal, material e pagamento de serviços decorrentes do desempenho da sua missão, incluindo as dos correspondentes órgãos de estudo e de execução.
 
-###### Art. 18.º A Junta pode, mediante autorização do Governo da província, contrair empréstimos nos termos legais para realização dos seus fins, podendo dar como garantia os seus próprios recursos patrimoniais.
+Art. 18.º A Junta pode, mediante autorização do Governo da província, contrair empréstimos nos termos legais para realização dos seus fins, podendo dar como garantia os seus próprios recursos patrimoniais.
 
-###### Art. 19.º Todas as dívidas à Junta da responsabilidade dos arrendatários ou dos moradores-adquirentes, qualquer que seja a sua natureza ou proveniência, serão cobradas pelo processo de execuções fiscais, servindo de título exequível documento bastante comprovativo da dívida emitido pela Junta.
+Art. 19.º Todas as dívidas à Junta da responsabilidade dos arrendatários ou dos moradores-adquirentes, qualquer que seja a sua natureza ou proveniência, serão cobradas pelo processo de execuções fiscais, servindo de título exequível documento bastante comprovativo da dívida emitido pela Junta.
 
-###### Art. 20.º A transmissão da propriedade dos terrenos adquiridos pela Junta para a realização dos fins previstos neste decreto está isenta de pagamento de sisa, de selos e de quaisquer emolumentos, inclusive os do registo predial, taxas e licenças camarárias.
+Art. 20.º A transmissão da propriedade dos terrenos adquiridos pela Junta para a realização dos fins previstos neste decreto está isenta de pagamento de sisa, de selos e de quaisquer emolumentos, inclusive os do registo predial, taxas e licenças camarárias.
 
-###### Art. 21.º As casas construídas ou administradas pela Junta estão isentas:
+Art. 21.º As casas construídas ou administradas pela Junta estão isentas:
 
 a) Do pagamento de sisa na transmissão para o morador-adquirente e deste para a Junta;
 
@@ -411,11 +415,11 @@ d) Pagamento de taxas, emolumentos e selos por quaisquer actos de arrendamento d
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 22.º O governador-geral fixará em portaria o regulamento interno da Junta, as condições de recrutamento e promoção do seu pessoal e as condições de distribuição e aquisição de habitações.
+Art. 22.º O governador-geral fixará em portaria o regulamento interno da Junta, as condições de recrutamento e promoção do seu pessoal e as condições de distribuição e aquisição de habitações.
 
-###### Art. 23.º É extinta a Comissão Administrativa do Fundo dos Bairros Populares de Angola, sendo o seu património integrado no da Junta Provincial de Habitação, bem como os fundos sob a sua administração, com todos os seus actuais direitos, obrigações e poderes.
+Art. 23.º É extinta a Comissão Administrativa do Fundo dos Bairros Populares de Angola, sendo o seu património integrado no da Junta Provincial de Habitação, bem como os fundos sob a sua administração, com todos os seus actuais direitos, obrigações e poderes.
 
-###### Art. 24.º - 1. O pessoal dos quadros da Comissão Administrativa do Fundo dos Bairros Populares de Angola transita para os quadros da Junta, da forma seguinte:
+Art. 24.º - 1. O pessoal dos quadros da Comissão Administrativa do Fundo dos Bairros Populares de Angola transita para os quadros da Junta, da forma seguinte:
 
 a) Para o lugar de inspector provincial, o actual presidente;
 
@@ -429,25 +433,25 @@ e) Para os lugares de chefe de secção, os actuais primeiros-oficiais contratad
 
 2. A transição a que se refere o número anterior faz-se a partir da data de entrada em vigor do presente diploma, independentemente de nomeação, visto, posse e de quaisquer outras formalidades legais.
 
-###### Art. 25.º - 1. O pessoal dos quadros da Comissão Administrativa do Fundo dos Bairros Populares de Angola não mencionado no artigo 24.º transita para o serviço da Junta sem quaisquer formalidades e com dispensa de visto do Tribunal Administrativo, mediante relação nominal aprovada por despacho do governador-geral, publicada no Boletim Oficial.
+Art. 25.º - 1. O pessoal dos quadros da Comissão Administrativa do Fundo dos Bairros Populares de Angola não mencionado no artigo 24.º transita para o serviço da Junta sem quaisquer formalidades e com dispensa de visto do Tribunal Administrativo, mediante relação nominal aprovada por despacho do governador-geral, publicada no Boletim Oficial.
 
 2. Enquanto não for publicada a lista nominal referida no número anterior, o pessoal dos quadros da Comissão Administrativa do Fundo dos Bairros Populares de Angola transita para o serviço efectivo da Junta, nas situações em que se encontra na referida Comissão Administrativa.
 
 3. Os lugares preenchidos por pessoal que não transite para os novos quadros criados por este diploma mantêm-se enquanto estiverem ocupados pelos actuais titulares.
 
-###### Art. 26.º - 1. O pessoal que transitar para os quadros permanentes da Junta, nos termos dos artigos anteriores, com mais de cinco anos de bom e efectivo serviço ao Estado ou corpos administrativos, em qualquer situação, será provido definitivamente nos novos lugares.
+Art. 26.º - 1. O pessoal que transitar para os quadros permanentes da Junta, nos termos dos artigos anteriores, com mais de cinco anos de bom e efectivo serviço ao Estado ou corpos administrativos, em qualquer situação, será provido definitivamente nos novos lugares.
 
 2. Para efeito de provimento definitivo do pessoal agora provido nos lugares da Junta contar-se-á o tempo de bom e efectivo serviço na Comissão Administrativa do Fundo dos Bairros Populares de Angola, em qualquer situação.
 
-###### Art. 27.º O pessoal assalariado eventual em serviço no organismo extinto, à data da publicação do presente diploma, mantém-se em idêntica situação à que se encontrava, pelo período que se mostrar indispensável.
+Art. 27.º O pessoal assalariado eventual em serviço no organismo extinto, à data da publicação do presente diploma, mantém-se em idêntica situação à que se encontrava, pelo período que se mostrar indispensável.
 
-###### Art. 28.º O primeiro provimento dos lugares que ficarem vagos pode ser feito livremente pelo Ministro do Ultramar ou pelo governador-geral, de acordo com a competência que a lei confere para cada caso.
+Art. 28.º O primeiro provimento dos lugares que ficarem vagos pode ser feito livremente pelo Ministro do Ultramar ou pelo governador-geral, de acordo com a competência que a lei confere para cada caso.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1970.**
+Promulgado em 29 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -455,6 +459,6 @@ Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
 Do MAPA I ao MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/07/16300/09330938.pdf))](https://files.diariodarepublica.pt/1s/1970/07/16300/09330938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/07/16300/09330938.pdf)
 
 Ministério do Ultramar, 29 de Junho de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

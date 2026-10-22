@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d60334a8107bee9d3d8232c9585054ee2bc755c2b4f86fa6e79d3f965c8f6ed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bae3230d8a0ee99e0ea108d5271a072b1eabb6dcf98e9ee58009c2606de15bdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,28 @@ relationships:
   target: pt:dre:690841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526589:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:45Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +123,9 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS DE FINANÇAS DO ULTRAMAR
 
 ## TÍTULO I — Definição e atribuições
 
-###### Artigo 1.º Os serviços de finanças do ultramar são o sector da administração pública que, sob a superintendência do respectivo governador, orienta, centraliza e fiscaliza a actividade financeira nas províncias ultramarinas.
+Artigo 1.º Os serviços de finanças do ultramar são o sector da administração pública que, sob a superintendência do respectivo governador, orienta, centraliza e fiscaliza a actividade financeira nas províncias ultramarinas.
 
-###### Art. 2.º São atribuições dos serviços de finanças:
+Art. 2.º São atribuições dos serviços de finanças:
 
 a) Contabilizar e fiscalizar a administração financeira do Estado no ultramar e promover o seu aperfeiçoamento;
 
@@ -129,9 +141,9 @@ e) Promover o progresso da técnica financeira e contribuir para o desenvolvimen
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 3.º Os serviços de finanças estão a cargo de direcções provinciais, nas províncias de governo-geral, e de repartições provinciais, nas restantes províncias ultramarinas.
+Art. 3.º Os serviços de finanças estão a cargo de direcções provinciais, nas províncias de governo-geral, e de repartições provinciais, nas restantes províncias ultramarinas.
 
-###### Art. 4.º Compete às direcções e repartições provinciais:
+Art. 4.º Compete às direcções e repartições provinciais:
 
 a) Organizar o orçamento geral da província e superintender na sua execução;
 
@@ -157,13 +169,13 @@ l) Promover as diligências indispensáveis à integração dos preceitos fiscai
 
 m) Realizar estudos e trabalhos de investigação ou outros necessários ao progresso e eficiência dos serviços, à formação e aperfeiçoamento do seu pessoal e ao esclarecimento do público.
 
-###### Art. 5.º - 1. As atribuições das direcções e repartições provinciais são asseguradas por serviços centrais e serviços regionais.
+Art. 5.º - 1. As atribuições das direcções e repartições provinciais são asseguradas por serviços centrais e serviços regionais.
 
 2. São serviços centrais, nas províncias de governo-geral, os de contabilidade pública, Fazenda Pública, contribuições e impostos, prevenção e fiscalização tributária, o gabinete de estudos, a secretaria central e a tesouraria central; nas restantes províncias são serviços centrais a secção de contabilidade, a do Tesouro e património, a de contribuições e impostos, a secretaria e a tesouraria central.
 
 3. São serviços regionais, nas províncias de governo-geral, as direcções distritais, as repartições de finanças de área fiscal, as tesourarias distritais e recebedorias e os juízos de execuções fiscais; nas restantes províncias são serviços regionais as repartições de finanças de área fiscal, as recebedorias e os juízos de execuções fiscais.
 
-###### Art. 6.º - 1. As direcções provinciais são dirigidas por directores provinciais, que são coadjuvados, no exercício das suas funções, por três subdirectores.
+Art. 6.º - 1. As direcções provinciais são dirigidas por directores provinciais, que são coadjuvados, no exercício das suas funções, por três subdirectores.
 
 2. As repartições provinciais são chefiadas por chefes de repartição provincial, coadjuvados por adjuntos.
 
@@ -173,7 +185,7 @@ m) Realizar estudos e trabalhos de investigação ou outros necessários ao prog
 
 ##### SUBSECÇÃO I — Disposição geral
 
-###### Art. 7.º - 1. Cada um dos serviços de contabilidade pública, de Fazenda Pública e de contribuições e impostos é directamente dirigido por um subdirector e as suas repartições compõem-se de secções, cujo número e competência serão fixados em portaria provincial quando não expressamente estabelecidos no presente diploma.
+Art. 7.º - 1. Cada um dos serviços de contabilidade pública, de Fazenda Pública e de contribuições e impostos é directamente dirigido por um subdirector e as suas repartições compõem-se de secções, cujo número e competência serão fixados em portaria provincial quando não expressamente estabelecidos no presente diploma.
 
 2. O serviço de prevenção e fiscalização tributária é chefiado por um chefe de serviços e depende do subdirector que tiver a seu cargo o serviço de contribuições e impostos.
 
@@ -183,7 +195,7 @@ m) Realizar estudos e trabalhos de investigação ou outros necessários ao prog
 
 ##### SUBSECÇÃO II — Serviço de contabilidade pública
 
-###### Art. 8.º - 1. O serviço de contabilidade pública tem a composição seguinte:
+Art. 8.º - 1. O serviço de contabilidade pública tem a composição seguinte:
 
 a) Repartição do orçamento;
 
@@ -197,7 +209,7 @@ d) Repartições de contabilidade junto dos serviços dependentes de cada secret
 
 3. Cada uma das repartições referidas na alínea d) do n.º 1 deste artigo desempenha funções de contabilidade e fiscalização da administração orçamental do departamento a que respeita, recolhendo os respectivos elementos de contabilidade pública.
 
-###### Art. 9.º Compete ao serviço de contabilidade pública:
+Art. 9.º Compete ao serviço de contabilidade pública:
 
 a) Organizar o orçamento e as contas gerais da província;
 
@@ -207,7 +219,7 @@ c) Superintender na realização das despesas orçamentais e proceder à sua liq
 
 d) Estudar a uniformização e simplificação do serviço de contabilidade orçamental dos serviços públicos da província.
 
-###### Art. 10.º Compete à repartição do orçamento:
+Art. 10.º Compete à repartição do orçamento:
 
 a) Organizar o orçamento da província, elaborando o mapa anual de avaliação das receitas e coordenando o orçamento das despesas, com base nos projectos parciais preparados pelos diversos serviços;
 
@@ -223,7 +235,7 @@ f) Fiscalizar a aplicação das verbas de modo a alcançar-se o máximo de rendi
 
 g) Dar parecer sobre os projectos de orçamento privativo dos distritos, dos serviços autónomos e organismos e fundos dotados de autonomia administrativa e financeira.
 
-###### Art. 11.º Compete à repartição das contas gerais:
+Art. 11.º Compete à repartição das contas gerais:
 
 a) Escriturar as operações relativas à receita orçamental e aos fundos saídos para pagamento das despesas orçamentais;
 
@@ -241,7 +253,7 @@ g) Proceder à organização do balanço com base nos elementos fornecidos pelo 
 
 h) Coligir e coordenar os elementos respeitantes ao orçamento da receita e proceder, dentro dos prazos legais, à sua remessa à repartição do orçamento, para efeitos da elaboração anual do respectivo mapa de avaliação.
 
-###### Art. 12.º - 1. Compete à repartição de despesa e às repartições de contabilidade a que se refere a alínea d) do n.º 1 do artigo 8.º:
+Art. 12.º - 1. Compete à repartição de despesa e às repartições de contabilidade a que se refere a alínea d) do n.º 1 do artigo 8.º:
 
 a) Verificar, liquidar e autorizar o pagamento das despesas a seu cargo;
 
@@ -257,13 +269,13 @@ e) Emitir parecer sobre os processos de despesa a remeter ao tribunal administra
 
 ##### SUBSECÇÃO III — Serviço de Fazenda Pública
 
-###### Art. 13.º O serviço de Fazenda Pública tem a composição seguinte:
+Art. 13.º O serviço de Fazenda Pública tem a composição seguinte:
 
 a) Repartição do tesouro;
 
 b) Repartição do património.
 
-###### Art. 14.º Compete ao serviço de Fazenda Pública:
+Art. 14.º Compete ao serviço de Fazenda Pública:
 
 a) Organizar a conta de responsabilidade do banco emissor da província como caixa geral do Tesouro;
 
@@ -275,7 +287,7 @@ d) Realizar o expediente relativo à dívida pública da província;
 
 e) Administrar os bens do património nacional e efectuar a respectiva escrita.
 
-###### Art. 15.º Compete à repartição do Tesouro:
+Art. 15.º Compete à repartição do Tesouro:
 
 a) Realizar o expediente resultante da execução do contrato com o banco emissor da província e organizar a conta da responsabilidade deste como caixa geral do Tesouro;
 
@@ -291,7 +303,7 @@ f) Verificar, examinar, ajustar e relatar as contas de responsabilidade dos rece
 
 g) Realizar o expediente respeitante a cauções de exactores e outros responsáveis para com a Fazenda Nacional.
 
-###### Art. 16.º Compete à repartição do património:
+Art. 16.º Compete à repartição do património:
 
 a) Registar o movimento de entrada e saída dos títulos da dívida pública na posse da Fazenda Nacional;
 
@@ -317,7 +329,7 @@ l) Realizar o expediente legalmente estabelecido para as aquisições cujos enca
 
 ##### SUBSECÇÃO IV — Serviço de contribuições e impostos
 
-###### Art. 17.º O serviço de contribuições e impostos tem a composição seguinte:
+Art. 17.º O serviço de contribuições e impostos tem a composição seguinte:
 
 a) 1.ª repartição - contribuição industrial, contribuição predial urbana e imposto de explorações;
 
@@ -325,7 +337,7 @@ b) 2.ª repartição - imposto profissional, imposto sobre a aplicação de capi
 
 c) 3.ª repartição - impostos sobre as transmissões, taxa militar, impostos indirectos e outras receitas.
 
-###### Art. 18.º Compete ao serviço de contribuições e impostos:
+Art. 18.º Compete ao serviço de contribuições e impostos:
 
 a) Fiscalizar a organização dos registos ou inscrições de factos tributários e proceder à instauração dos processos necessários à liquidação e cobrança dos impostos e outras receitas;
 
@@ -343,7 +355,7 @@ g) Fiscalizar o serviço das execuções fiscais e do contencioso das contribui�
 
 ##### SUBSECÇÃO V — Serviço de prevenção e fiscalização tributária
 
-###### Art. 19.º O serviço de prevenção e fiscalização tributária destina-se a preparar e auxiliar a acção da justiça fiscal, competindo-lhe fiscalizar a cobrança de todas as contribuições, impostos, taxas e demais receitas cobradas pelos serviços de finanças e designadamente:
+Art. 19.º O serviço de prevenção e fiscalização tributária destina-se a preparar e auxiliar a acção da justiça fiscal, competindo-lhe fiscalizar a cobrança de todas as contribuições, impostos, taxas e demais receitas cobradas pelos serviços de finanças e designadamente:
 
 a) A observação, averiguação e notação dos factos que interessem à aplicação das leis fiscais;
 
@@ -359,7 +371,7 @@ f) A emissão de certificados de infracções para instrução dos processos de 
 
 ##### SUBSECÇÃO VI — Gabinete de estudos
 
-###### Art. 20.º Compete ao gabinete de estudos:
+Art. 20.º Compete ao gabinete de estudos:
 
 a) Realizar estudos, inquéritos e trabalhos necessários ao eficiente e correcto desempenho das funções a cargo dos serviços de finanças;
 
@@ -377,7 +389,7 @@ g) Preparar e publicar os elementos ou órgãos de divulgação que lhe sejam af
 
 ##### SUBSECÇÃO VII — Secretaria central
 
-###### Art. 21.º Compete à secretaria central:
+Art. 21.º Compete à secretaria central:
 
 a) Organizar os processos e o expediente relativos ao provimento, promoção, transferência, exoneração, aposentação, licenças e demais situações do pessoal;
 
@@ -405,7 +417,7 @@ m) Assegurar o expediente da direcção provincial que não esteja especialmente
 
 ##### SUBSECÇÃO VIII — Tesouraria central
 
-###### Art. 22.º A tesouraria da capital de cada província de governo-geral, além das funções próprias das tesourarias distritais, tem funções de tesouraria central, competindo-lhe nesta qualidade:
+Art. 22.º A tesouraria da capital de cada província de governo-geral, além das funções próprias das tesourarias distritais, tem funções de tesouraria central, competindo-lhe nesta qualidade:
 
 a) A transferência de fundos para o exterior da província;
 
@@ -421,13 +433,13 @@ e) Quaisquer outras funções especialmente previstas por lei.
 
 ##### SUBSECÇÃO I — Direcções distritais
 
-###### Art. 23.º Na sede de cada um dos distritos das províncias de governo-geral, incluindo o da capital da província, funciona uma direcção distrital de finanças, hierárquica e tècnicamente dependente da direcção provincial dos serviços, sem prejuízo da competência atribuída por lei aos respectivos governadores de distrito.
+Art. 23.º Na sede de cada um dos distritos das províncias de governo-geral, incluindo o da capital da província, funciona uma direcção distrital de finanças, hierárquica e tècnicamente dependente da direcção provincial dos serviços, sem prejuízo da competência atribuída por lei aos respectivos governadores de distrito.
 
-###### Art. 24.º Às direcções distritais incumbem, no âmbito do distrito, as funções próprias dos serviços de finanças em matéria de administração financeira, justiça fiscal e prevenção e fiscalização tributária.
+Art. 24.º Às direcções distritais incumbem, no âmbito do distrito, as funções próprias dos serviços de finanças em matéria de administração financeira, justiça fiscal e prevenção e fiscalização tributária.
 
-###### Art. 25.º As direcções distritais são dirigidas por directores de finanças de 3.ª classe, que, no exercício das suas funções, serão coadjuvados por um subdirector, nomeado pelo governador-geral, sob proposta do director provincial e escolhido entre os chefes de secção.
+Art. 25.º As direcções distritais são dirigidas por directores de finanças de 3.ª classe, que, no exercício das suas funções, serão coadjuvados por um subdirector, nomeado pelo governador-geral, sob proposta do director provincial e escolhido entre os chefes de secção.
 
-###### Art. 26.º - 1. As direcções distritais têm a composição seguinte:
+Art. 26.º - 1. As direcções distritais têm a composição seguinte:
 
 a) Secção de contabilidade;
 
@@ -443,11 +455,11 @@ d) Secretaria.
 
 ##### SUBSECÇÃO II — Repartições de finanças de áreas fiscais
 
-###### Art. 27.º - 1. Os governadores-gerais fixarão, em portaria, o número e categoria das áreas fiscais em que se dividem as respectivas províncias, definindo os limites territoriais da jurisdição de cada uma.
+Art. 27.º - 1. Os governadores-gerais fixarão, em portaria, o número e categoria das áreas fiscais em que se dividem as respectivas províncias, definindo os limites territoriais da jurisdição de cada uma.
 
 2. As áreas fiscais são classificadas, conforme a importância que tiverem, em 1.ª, 2.ª ou 3.ª classe e tomam o nome da localidade onde é instalada a sua repartição de finanças.
 
-###### Art. 28.º - 1. Em cada área fiscal das províncias de governo-geral funcionam repartições de finanças, directamente subordinadas à direcção de finanças do respectivo distrito.
+Art. 28.º - 1. Em cada área fiscal das províncias de governo-geral funcionam repartições de finanças, directamente subordinadas à direcção de finanças do respectivo distrito.
 
 2. Quando as áreas fiscais coincidam com um concelho ou uma circunscrição administrativa, a repartição de finanças situar-se-á na sede desse concelho ou circunscrição.
 
@@ -457,9 +469,9 @@ d) Secretaria.
 
 5. No caso previsto no número anterior e, em geral, quando o volume de serviço o justifique, podem os governadores-gerais, em portaria, dotar de secções, com competência que lhes fixarão, as repartições de finanças de área fiscal que disso carecerem.
 
-###### Art. 29.º As repartições de finanças reguladas nesta subsecção têm a classe da área fiscal a que respeitam.
+Art. 29.º As repartições de finanças reguladas nesta subsecção têm a classe da área fiscal a que respeitam.
 
-###### Art. 30.º As repartições de finanças de área fiscal exercem, no âmbito das respectivas jurisdições territoriais, as funções próprias dos serviços de finanças em matéria de administração financeira, justiça fiscal e prevenção e fiscalização tributária, competindo-lhes, designadamente:
+Art. 30.º As repartições de finanças de área fiscal exercem, no âmbito das respectivas jurisdições territoriais, as funções próprias dos serviços de finanças em matéria de administração financeira, justiça fiscal e prevenção e fiscalização tributária, competindo-lhes, designadamente:
 
 a) Lançar, liquidar e debitar ao recebedor, para cobrança, as contribuições, impostos e demais receitas;
 
@@ -473,7 +485,7 @@ e) Organizar o processo das contas do recebedor;
 
 f) Remeter à direcção distrital os processos de contabilidade mensal.
 
-###### Art. 31.º - 1. As repartições de finanças de área fiscal são chefiadas por secretários de finanças de 1.ª, 2.ª ou 3.ª classe, consoante a categoria da respectiva repartição.
+Art. 31.º - 1. As repartições de finanças de área fiscal são chefiadas por secretários de finanças de 1.ª, 2.ª ou 3.ª classe, consoante a categoria da respectiva repartição.
 
 2. Os secretários de finanças serão coadjuvados por um adjunto escolhido entre os secretários de finanças de categoria imediatamente inferior ou, nas repartições de 3.ª classe, entre os aspirantes.
 
@@ -481,7 +493,7 @@ f) Remeter à direcção distrital os processos de contabilidade mensal.
 
 ##### SUBSECÇÃO III — Tesourarias distritais e recebedorias
 
-###### Art. 32.º - 1. Os serviços regionais de tesouraria compreendem:
+Art. 32.º - 1. Os serviços regionais de tesouraria compreendem:
 
 a) Tesourarias distritais, nas capitais de distrito;
 
@@ -489,13 +501,13 @@ b) Recebedorias de Fazenda, junto das repartições de finanças.
 
 2. Podem também funcionar recebedorias junto dos juízos privativos das execuções fiscais.
 
-###### Art. 33.º Compete às tesourarias distritais efectuar o pagamento das despesas públicas e arrecadar as receitas do Estado ou outros valores cuja guarda seja de sua responsabilidade; receber as transferências e passagens de fundos e os depósitos de operações de tesouraria; proceder às transferências e passagens de fundos; organizar diàriamente as relações de receita e despesa referentes ao movimento de entrada e saída de fundos, apresentando os respectivos balancetes; manter devidamente escriturados os livros do movimento de conta da tesouraria.
+Art. 33.º Compete às tesourarias distritais efectuar o pagamento das despesas públicas e arrecadar as receitas do Estado ou outros valores cuja guarda seja de sua responsabilidade; receber as transferências e passagens de fundos e os depósitos de operações de tesouraria; proceder às transferências e passagens de fundos; organizar diàriamente as relações de receita e despesa referentes ao movimento de entrada e saída de fundos, apresentando os respectivos balancetes; manter devidamente escriturados os livros do movimento de conta da tesouraria.
 
-###### Art. 34.º - 1. As tesourarias estarão a cargo do banco emissor, conforme as respectivas leis e contratos, e funcionam sob a superintendência dos serviços de finanças.
+Art. 34.º - 1. As tesourarias estarão a cargo do banco emissor, conforme as respectivas leis e contratos, e funcionam sob a superintendência dos serviços de finanças.
 
 2. Nas sedes de distrito em que não haja dependências privativas do banco emissor as funções correspondentes à tesouraria distrital serão desempenhadas, em acumulação, pelos recebedores da respectiva área fiscal.
 
-###### Art. 35.º - 1. Compete às recebedorias:
+Art. 35.º - 1. Compete às recebedorias:
 
 a) A cobrança e a arrecadação das contribuições, impostos e demais receitas do Estado;
 
@@ -507,15 +519,15 @@ c) O recebimento dos depósitos consignados a diversos cofres e que, por lei, a�
 
 3. Às recebedorias previstas no n.º 2 do artigo 32.º compete a cobrança de dívidas objecto de relaxe e de outras receitas relativas a processos que corram pelos juízos privativos de execuções fiscais e a venda de valores selados.
 
-###### Art. 36.º - 1. As recebedorias são de 1.ª, 2.ª ou 3.ª classe, conforme a classificação das respectivas repartições de finanças.
+Art. 36.º - 1. As recebedorias são de 1.ª, 2.ª ou 3.ª classe, conforme a classificação das respectivas repartições de finanças.
 
 2. Serão sempre de 2.ª classe as recebedorias previstas no n.º 2 do artigo 32.º
 
-###### Art. 37.º - 1. As recebedorias ficarão a cargo de recebedores da correspondente classe.
+Art. 37.º - 1. As recebedorias ficarão a cargo de recebedores da correspondente classe.
 
 2. Os recebedores são coadjuvados, no exercício das suas funções, por recebedores de classe inferior, em número considerado bastante para o movimento da respectiva recebedoria, competindo-lhes desempenhar as funções que lhes forem distribuídas pelo recebedor e sob a responsabilidade deste.
 
-###### Art. 38.º - 1. Os fundos, valores selados e documentos de cobrança a cargo dos recebedores serão guardados no cofre da recebedoria.
+Art. 38.º - 1. Os fundos, valores selados e documentos de cobrança a cargo dos recebedores serão guardados no cofre da recebedoria.
 
 2. O cofre terá duas chaves e dele serão claviculários o secretário de finanças e o recebedor.
 
@@ -523,11 +535,11 @@ c) O recebimento dos depósitos consignados a diversos cofres e que, por lei, a�
 
 ##### SUBSECÇÃO IV — Juízos de execuções fiscais
 
-###### Art. 39.º Os juízos de execuções fiscais são regulados por lei especial.
+Art. 39.º Os juízos de execuções fiscais são regulados por lei especial.
 
 ### CAPÍTULO III — Organização dos serviços de finanças nas províncias de governo simples
 
-###### Art. 40.º - 1. As repartições provinciais de finanças compreendem os seguintes serviços centrais:
+Art. 40.º - 1. As repartições provinciais de finanças compreendem os seguintes serviços centrais:
 
 a) Secção de contabilidade;
 
@@ -541,15 +553,15 @@ d) Secretaria.
 
 3. Junto das repartições provinciais dos diversos serviços e da administração dos organismos públicos não dotados de autonomia administrativa e financeira poderão funcionar secções de contabilidade, dependentes, técnica e hieràrquicamente, do chefe dos serviços provinciais e com as atribuições e competência que forem definidas nos diplomas que as criarem ou regulamentarem.
 
-###### Art. 41.º As secções em que se dividem os serviços centrais serão dirigidas por chefes de secção.
+Art. 41.º As secções em que se dividem os serviços centrais serão dirigidas por chefes de secção.
 
-###### Art. 42.º Na capital de cada uma das províncias a que este capítulo respeita funciona, além dos serviços centrais compreendidos na repartição provincial, uma tesouraria central, a cargo de dependências privativas do banco emissor e competência idêntica à prevista no artigo 22.º para as províncias de governo-geral.
+Art. 42.º Na capital de cada uma das províncias a que este capítulo respeita funciona, além dos serviços centrais compreendidos na repartição provincial, uma tesouraria central, a cargo de dependências privativas do banco emissor e competência idêntica à prevista no artigo 22.º para as províncias de governo-geral.
 
-###### Art. 43.º - 1. Nas sedes dos mais importantes concelhos ou circunscrições funcionarão repartições de finanças, de 1.ª, 2.ª e 3.ª classes, consoante a importância da respectiva área fiscal.
+Art. 43.º - 1. Nas sedes dos mais importantes concelhos ou circunscrições funcionarão repartições de finanças, de 1.ª, 2.ª e 3.ª classes, consoante a importância da respectiva área fiscal.
 
 2. Compete ao governador fixar, por portaria, o número e categoria das áreas fiscais da província e definir os limites territoriais da sua jurisdição.
 
-###### Art. 44.º - 1. A chefia das repartições de finanças será desempenhada por secretários de finanças, escolhidos entre primeiros-oficiais, segundos-oficiais ou terceiros-oficiais, conforme a categoria das repartições.
+Art. 44.º - 1. A chefia das repartições de finanças será desempenhada por secretários de finanças, escolhidos entre primeiros-oficiais, segundos-oficiais ou terceiros-oficiais, conforme a categoria das repartições.
 
 2. Nas províncias de Cabo Verde, Guiné e Macau o cargo de secretário de finanças do concelho da capital será exercido por um chefe de secção.
 
@@ -557,17 +569,17 @@ d) Secretaria.
 
 4. A nomeação dos adjuntos compete ao governador, sob proposta do chefe de repartição provincial.
 
-###### Art. 45.º - 1. Junto de cada repartição de finanças funciona uma recebedoria, com a competência definida no artigo 35.º
+Art. 45.º - 1. Junto de cada repartição de finanças funciona uma recebedoria, com a competência definida no artigo 35.º
 
 2. É aplicável às recebedorias das províncias a que este capítulo respeita o disposto no n.º 1 do artigo 36.º e nos artigos 37.º e 38.º para as das províncias de governo-geral.
 
-###### Art. 46.º Aos juízos de execuções fiscais das províncias a que este capítulo respeita é aplicável o disposto no artigo 39.º para as províncias de governo-geral.
+Art. 46.º Aos juízos de execuções fiscais das províncias a que este capítulo respeita é aplicável o disposto no artigo 39.º para as províncias de governo-geral.
 
 ## TÍTULO III — Pessoal
 
 ### CAPÍTULO I — Quadros de pessoal
 
-###### Art. 47.º - 1. O pessoal dos serviços provinciais de finanças do ultramar distribui-se pelos seguintes quadros:
+Art. 47.º - 1. O pessoal dos serviços provinciais de finanças do ultramar distribui-se pelos seguintes quadros:
 
 a) Quadro comum;
 
@@ -577,7 +589,7 @@ b) Quadros privativos.
 
 3. A organização dos quadros privativos é da competência dos governos provinciais e far-se-á de acordo com as categorias indicadas nos mapas II e III anexos a este diploma.
 
-###### Art. 48.º Constituem quadros especiais dentro dos serviços de finanças das províncias de governo geral:
+Art. 48.º Constituem quadros especiais dentro dos serviços de finanças das províncias de governo geral:
 
 a) O quadro das contribuições e impostos;
 
@@ -591,17 +603,17 @@ e) O quadro do gabinete de estudos;
 
 f) O quadro auxiliar.
 
-###### Art. 49.º Os quadros privativos das províncias de governo simples são:
+Art. 49.º Os quadros privativos das províncias de governo simples são:
 
 a) Quadro geral;
 
 b) Quadro auxiliar.
 
-###### Art. 50.º Quando as necessidades dos serviços o justifiquem, poderão ser contratados além dos quadros, nos termos das disposições legais em vigor, técnicos de reconhecido mérito e especialização aos quais convenha recorrer para a realização de estudos ou trabalhos especiais.
+Art. 50.º Quando as necessidades dos serviços o justifiquem, poderão ser contratados além dos quadros, nos termos das disposições legais em vigor, técnicos de reconhecido mérito e especialização aos quais convenha recorrer para a realização de estudos ou trabalhos especiais.
 
 ### CAPÍTULO II — Competência do pessoal
 
-###### Art. 51.º Compete aos directores e chefes de repartição provincial de finanças:
+Art. 51.º Compete aos directores e chefes de repartição provincial de finanças:
 
 a) Planear e orientar a actividade dos serviços, em conformidade com a legislação aplicável e as directivas definidas pelo governador da província;
 
@@ -627,13 +639,13 @@ l) Mandar elaborar e fazer registar os actos a que se refere o número anterior;
 
 m) Delegar parte da sua competência nos subdirectores ou adjuntos provinciais.
 
-###### Art. 52.º - 1. Compete aos subdirectores ou adjuntos provinciais de finanças coadjuvar os directores ou chefes dos serviços, segundo a orientação por estes estabelecida, e exercer os poderes que lhes tenham sido delegados.
+Art. 52.º - 1. Compete aos subdirectores ou adjuntos provinciais de finanças coadjuvar os directores ou chefes dos serviços, segundo a orientação por estes estabelecida, e exercer os poderes que lhes tenham sido delegados.
 
 2. Aos subdirectores cabe em especial orientar e dirigir o serviço ou serviços a seu cargo e decidir os assuntos para que tenham competência específica ou delegação, podendo levar directamente a despacho do governador-geral as matérias correntes dos mesmos serviços.
 
 3. Os subdirectores e os adjuntos funcionam como notários das respectivas direcções ou repartições provinciais, cumprindo-lhes, na forma da lei, lavrar todos os instrumentos públicos que aí tenham de ser realizados e superintender em todo o expediente e execução de tal serviço.
 
-###### Art. 53.º - 1. Compete aos chefes de repartição dos serviços centrais:
+Art. 53.º - 1. Compete aos chefes de repartição dos serviços centrais:
 
 a) Coordenar os serviços das repartições respectivas;
 
@@ -657,7 +669,7 @@ j) Submeter ao subdirector respectivo, devidamente informados, todos os assuntos
 
 2. Os chefes das repartições dos serviços centrais só poderão transmitir aos directores distritais de finanças ou a outros serviços, e nos termos que forem estabelecidos pelos directores ou subdirectores provinciais, as ordens ou comunicações que lhes sejam especìficamente determinadas ou que se compreendam numa orientação geral superiormente fixada.
 
-###### Art. 54.º Compete aos directores distritais:
+Art. 54.º Compete aos directores distritais:
 
 a) Dirigir e fiscalizar os serviços que lhes estão subordinados;
 
@@ -673,11 +685,11 @@ f) Remeter prontamente à direcção provincial as queixas ou reclamações cont
 
 g) Delegar parte da sua competência nos subdirectores distritais.
 
-###### Art. 55.º - 1. Compete aos subdirectores distritais, coadjuvar os directores, segundo a orientação por estes estabelecida, funcionar como notário da respectiva direcção de finanças e o exercício dos demais poderes que neles forem delegados.
+Art. 55.º - 1. Compete aos subdirectores distritais, coadjuvar os directores, segundo a orientação por estes estabelecida, funcionar como notário da respectiva direcção de finanças e o exercício dos demais poderes que neles forem delegados.
 
 2. Como notários das direcções de finanças, compete aos subdirectores lavrar todos os instrumentos públicos que aí devam ser realizados e superintender em todo o expediente referente a tal serviço.
 
-###### Art. 56.º Compete aos chefes de secção:
+Art. 56.º Compete aos chefes de secção:
 
 a) Coadjuvar o seu directo superior hierárquico, chefiar e participar na execução dos serviços que competirem à secção;
 
@@ -687,7 +699,7 @@ c) Informar o seu directo superior hierárquico da assiduidade, aplicação e co
 
 d) Expor superiormente as dúvidas que lhes surjam na execução dos serviços que lhes incumbem.
 
-###### Art. 57.º Compete aos secretários de finanças:
+Art. 57.º Compete aos secretários de finanças:
 
 a) Orientar o serviço da repartição a seu cargo e zelar pelo exacto cumprimento das leis e regulamentos tributários;
 
@@ -719,7 +731,7 @@ o) Informar sobre o merecimento dos funcionários da repartição e da recebedor
 
 p) Orientar e chefiar os serviços de prevenção e fiscalização tributária na respectiva área fiscal.
 
-###### Art. 58.º - 1. Compete aos recebedores:
+Art. 58.º - 1. Compete aos recebedores:
 
 a) Enviar aos contribuintes, nos termos e prazos marcados na lei, os avisos de pagamento das contribuições, impostos e outros rendimentos públicos;
 
@@ -757,7 +769,7 @@ r) Fiscalizar os cofres e caixas dos recebedores que os coadjuvarem, conferindo-
 
 2. Quando desempenhem, em acumulação, o serviço de tesouraria, nos termos do n.º 2 do artigo 34.º, compete ainda aos recebedores o exercício das funções enunciadas no artigo 33.º do presente diploma que tenham aplicação.
 
-###### Art. 59.º Compete ao chefe do serviço de prevenção e fiscalização tributária:
+Art. 59.º Compete ao chefe do serviço de prevenção e fiscalização tributária:
 
 a) Dirigir os respectivos serviços e fazer executar as ordens e instruções que receber sobre o serviço a seu cargo;
 
@@ -771,9 +783,9 @@ e) Manter a ordem e disciplina no serviço, vigiando a sua eficiência e o zelo 
 
 f) Organizar um relatório anual sobre a acção desenvolvida durante o ano anterior, com apreciação pormenorizada das condições de facto verificadas que justifiquem, pelos seus reflexos e circunstâncias, a sua consideração em futuras alterações legais, com vista a evitar-se a evasão fiscal, a fraude, os factores de distorção ou de injustiça, bem como sobre os efeitos económicos e sociais dos vários impostos.
 
-###### Art. 60.º Compete aos técnicos economistas estudar e interpretar os resultados apurados em avaliações, exames ou outras formas de arbitramento e praticar quaisquer outros actos de natureza técnica compatíveis com os seus conhecimentos e as suas atribuições dos serviços em que se integram.
+Art. 60.º Compete aos técnicos economistas estudar e interpretar os resultados apurados em avaliações, exames ou outras formas de arbitramento e praticar quaisquer outros actos de natureza técnica compatíveis com os seus conhecimentos e as suas atribuições dos serviços em que se integram.
 
-###### Art. 61.º - 1. Compete aos técnicos verificadores e aos ajudantes de verificador:
+Art. 61.º - 1. Compete aos técnicos verificadores e aos ajudantes de verificador:
 
 a) Observar e verificar os factos tributários e investigar sobre a existência de matéria colectável susceptível de imposto ou de sujeição ao cumprimento das obrigações fiscais;
 
@@ -809,19 +821,19 @@ d) Não poderá voltar a exercê-las o funcionário que nelas tenha revelado ins
 
 e) São exercidas principalmente em actividade externa.
 
-###### Art. 62.º A competência dos funcionários do quadro do serviço de prevenção e fiscalização tributária de categoria superior à de ajudante de verificador colocados na direcção provincial dos serviços exerce-se em todo o território da província e a dos funcionários da mesma categoria colocados nas direcções distritais na área do respectivo distrito; a dos restantes funcionários restringe-se à área fiscal em que estejam colocados.
+Art. 62.º A competência dos funcionários do quadro do serviço de prevenção e fiscalização tributária de categoria superior à de ajudante de verificador colocados na direcção provincial dos serviços exerce-se em todo o território da província e a dos funcionários da mesma categoria colocados nas direcções distritais na área do respectivo distrito; a dos restantes funcionários restringe-se à área fiscal em que estejam colocados.
 
-###### Art. 63.º - 1. Sempre que na lei se reconheça aos directores distritais ou secretários de finanças o poder de se fazerem representar no exame de livros ou documentos dos contribuintes ou responsáveis, sejam estes comerciantes ou não, entender-se-á que a representação recai automàticamente sobre os funcionários de prevenção e fiscalização tributária que directamente lhes estão subordinados.
+Art. 63.º - 1. Sempre que na lei se reconheça aos directores distritais ou secretários de finanças o poder de se fazerem representar no exame de livros ou documentos dos contribuintes ou responsáveis, sejam estes comerciantes ou não, entender-se-á que a representação recai automàticamente sobre os funcionários de prevenção e fiscalização tributária que directamente lhes estão subordinados.
 
 2. O disposto no número anterior não impede que a representação venha a ser conferida a outros funcionários, mas, neste caso, deverá ser demonstrada por credencial passada para a realização do exame.
 
-###### Art. 64.º Compete aos juristas e economistas do gabinete de estudos, conforme a sua especialidade e na imediata dependência do director provincial, a realização dos trabalhos referidos no artigo 20.º deste diploma e a elaboração de pareceres fundamentados sobre matérias de natureza jurídica ou económico-financeira, decorrentes da execução dos serviços da direcção provincial.
+Art. 64.º Compete aos juristas e economistas do gabinete de estudos, conforme a sua especialidade e na imediata dependência do director provincial, a realização dos trabalhos referidos no artigo 20.º deste diploma e a elaboração de pareceres fundamentados sobre matérias de natureza jurídica ou económico-financeira, decorrentes da execução dos serviços da direcção provincial.
 
-###### Art. 65.º - 1. Aos funcionários sem competência específica definida por lei compete desempenhar as funções correspondentes aos seus cargos ou aquelas de que sejam encarregados pelos respectivos superiores hierárquicos.
+Art. 65.º - 1. Aos funcionários sem competência específica definida por lei compete desempenhar as funções correspondentes aos seus cargos ou aquelas de que sejam encarregados pelos respectivos superiores hierárquicos.
 
 2. A realização de serviço externo das repartições de finanças, que não seja da competência específica de outros funcionários, incumbe aos aspirantes e escriturários que nelas se encontrem colocados.
 
-###### Art. 66.º - 1. Os funcionários que desempenhem cargos de direcção ou chefia poderão, mediante autorização do director ou chefe dos serviços provinciais de finanças, delegar nos que lhes estejam directamente subordinados a competência para a prática de actos próprios das suas funções.
+Art. 66.º - 1. Os funcionários que desempenhem cargos de direcção ou chefia poderão, mediante autorização do director ou chefe dos serviços provinciais de finanças, delegar nos que lhes estejam directamente subordinados a competência para a prática de actos próprios das suas funções.
 
 2. As delegações de competência são revogáveis a todo o tempo, caducam com a substituição do delegante ou do delegado, salvo nos casos de faltas ou impedimentos temporários, e não prejudicam o direito de avocação nem o poder de definir orientações gerais e emitir instruções de serviço.
 
@@ -833,7 +845,7 @@ e) São exercidas principalmente em actividade externa.
 
 ### CAPÍTULO III — Recrutamento e provimento
 
-###### Art. 67.º Os directores e subdirectores provinciais de finanças são nomeados pelo Ministro do Ultramar, em regra entre:
+Art. 67.º Os directores e subdirectores provinciais de finanças são nomeados pelo Ministro do Ultramar, em regra entre:
 
 a) Directores de finanças de 1.ª classe do ultramar;
 
@@ -841,7 +853,7 @@ b) Licenciados em Direito, Finanças, Economia, Ciências Económicas e Financei
 
 c) Funcionários do Ministério das Finanças de categoria não inferior a chefe de repartição ou director de finanças, obtido o prévio assentimento do seu Ministério.
 
-###### Art. 68.º Os chefes de repartição provincial de finanças são nomeados pelo Ministro do Ultramar, em regra entre:
+Art. 68.º Os chefes de repartição provincial de finanças são nomeados pelo Ministro do Ultramar, em regra entre:
 
 a) Directores de finanças de 2.ª classe do ultramar;
 
@@ -849,21 +861,21 @@ b) Licenciados em Direito, Finanças, Economia, Ciências Económicas e Financei
 
 c) Funcionários do Ministério das Finanças de categoria não inferior a subdirector de finanças, obtido o prévio assentimento do seu Ministério.
 
-###### Art. 69.º Os adjuntos dos chefes de repartição provincial de finanças são nomeados pelo Ministro do Ultramar, em regra entre directores de finanças de 2.ª classe do ultramar.
+Art. 69.º Os adjuntos dos chefes de repartição provincial de finanças são nomeados pelo Ministro do Ultramar, em regra entre directores de finanças de 2.ª classe do ultramar.
 
-###### Art. 70.º O director do gabinete de estudos será nomeado pelo Ministro do Ultramar, entre licenciados em Direito, Finanças, Economia ou Ciências Económicas e Financeiras cuja especialização e competência em matéria financeira o justifiquem.
+Art. 70.º O director do gabinete de estudos será nomeado pelo Ministro do Ultramar, entre licenciados em Direito, Finanças, Economia ou Ciências Económicas e Financeiras cuja especialização e competência em matéria financeira o justifiquem.
 
-###### Art. 71.º - 1. Os directores de finanças de 1.ª e 2.ª classes serão nomeados, por escolha do Ministro do Ultramar, entre directores de finanças da categoria imediatamente inferior que tenham revelado especial competência e qualidades de chefia, independentemente do tempo de serviço nessa categoria.
+Art. 71.º - 1. Os directores de finanças de 1.ª e 2.ª classes serão nomeados, por escolha do Ministro do Ultramar, entre directores de finanças da categoria imediatamente inferior que tenham revelado especial competência e qualidades de chefia, independentemente do tempo de serviço nessa categoria.
 
 2. Na apreciação das qualidades do funcionário ter-se-ão em conta as informações anuais de serviço, os louvores e castigos, o desempenho de cargos superiores e de elevada responsabilidade, as suas habilitações literárias e trabalhos publicados e tudo o mais que revele aptidão para o cargo.
 
 3. Beneficiarão de preferência os funcionários licenciados em Direito, Finanças, Economia, Ciências Económicas e Financeiras ou Ciências Sociais e Política Ultramarina quando possuam informações de serviço não inferiores a Muito bom.
 
-###### Art. 72.º Os técnicos economistas de 1.ª classe do serviço de prevenção e fiscalização tributária serão providos pelo Ministro do Ultramar por escolha entre técnicos economistas de 2.ª classe com informação de serviço não inferior a Muito bom.
+Art. 72.º Os técnicos economistas de 1.ª classe do serviço de prevenção e fiscalização tributária serão providos pelo Ministro do Ultramar por escolha entre técnicos economistas de 2.ª classe com informação de serviço não inferior a Muito bom.
 
-###### Art. 73.º Os juristas e economistas do gabinete de estudos, os técnicos economistas de 2.ª classe e os técnicos verificadores de 1.ª e 2.ª classes serão providos entre indivíduos aprovados no respectivo concurso.
+Art. 73.º Os juristas e economistas do gabinete de estudos, os técnicos economistas de 2.ª classe e os técnicos verificadores de 1.ª e 2.ª classes serão providos entre indivíduos aprovados no respectivo concurso.
 
-###### Art. 74.º O recrutamento para os restantes cargos dos serviços de finanças será feito observando-se as seguintes condições:
+Art. 74.º O recrutamento para os restantes cargos dos serviços de finanças será feito observando-se as seguintes condições:
 
 a) Chefes de repartição e directores distritais de finanças, entre directores de finanças de 3.ª classe;
 
@@ -873,7 +885,7 @@ c) Ajudantes de verificador, entre terceiros-oficiais ou aspirantes que tenham, 
 
 d) Outros lugares dos quadros privativos segundo a legislação em vigor na respectiva província, em conformidade com as disposições do presente diploma.
 
-###### Art. 75.º - 1. São candidatos aos concursos para as seguintes categorias:
+Art. 75.º - 1. São candidatos aos concursos para as seguintes categorias:
 
 a) Director de finanças de 3.ª classe: chefes de secção, secretários de finanças de 1.ª classe, primeiros-oficiais da Direcção-Geral de Fazenda do Ultramar e inspectores contabilistas de Fazenda;
 
@@ -925,19 +937,19 @@ v) Escriturários: indivíduos de ambos os sexos com o 1.º ciclo liceal ou habi
 
 5. O limite máximo de idade fixado na alínea u) do n.º 1 deste artigo não se aplica aos candidatos já funcionários.
 
-###### Art. 76.º Aos concursos a que se refere o artigo anterior são candidatos obrigatórios, logo que completem dois anos de serviço efectivo na respectiva categoria ou classe:
+Art. 76.º Aos concursos a que se refere o artigo anterior são candidatos obrigatórios, logo que completem dois anos de serviço efectivo na respectiva categoria ou classe:
 
 a) Os chefes de secção, secretários de finanças de 1.ª classe e primeiros-oficiais da Direcção-Geral de Fazenda, aos concursos para director de finanças de 3.ª classe;
 
 b) Os segundos-oficiais e terceiros-oficiais, os secretários de finanças de 2.ª e 3.ª classes, os aspirantes, os recebedores de 2.ª e 3.ª classes e os escrivães de 2.ª e 3.ª classes, para as classes ou categorias imediatamente superiores dos seus quadros.
 
-###### Art. 77.º - 1. Os concursos são documentais ou de provas práticas.
+Art. 77.º - 1. Os concursos são documentais ou de provas práticas.
 
 2. São documentais os concursos para juristas e economistas, técnicos economistas de 2.ª classe, técnicos verificadores de 1.ª e 2.ª classes, aspirantes, escrivães de execuções fiscais de 3.ª classe e escriturários.
 
 3. São de provas práticas os concursos para directores de finanças de 3.ª classe, chefes de secção, primeiros, segundos e terceiros-oficiais, secretários de finanças de 1.ª, 2.ª e 3.ª classes, recebedores de 1.ª, 2.ª e 3.ª classes e escrivães das execuções fiscais de 1.ª e 2.ª classes e terceiros-mecanógrafos.
 
-###### Art. 78.º - 1. Nos concursos documentais para provimento dos lugares de jurista e economista, técnico economista de 2.ª classe e técnico verificador de 1.ª e 2.ª classes será sempre exigida a apresentação de curriculum vitae.
+Art. 78.º - 1. Nos concursos documentais para provimento dos lugares de jurista e economista, técnico economista de 2.ª classe e técnico verificador de 1.ª e 2.ª classes será sempre exigida a apresentação de curriculum vitae.
 
 2. Os concursos têm a validade de três anos, mas a entidade competente poderá, em qualquer altura, declarar sem efeito os concursos ou fazer cessar a sua validade e ordenar a abertura de outros, desde que o considere vantajoso para o recrutamento e selecção do pessoal.
 
@@ -945,7 +957,7 @@ b) Os segundos-oficiais e terceiros-oficiais, os secretários de finanças de 2.
 
 4. Aos concursos para os lugares do serviço de prevenção e fiscalização tributária só podem candidatar-se indivíduos do sexo masculino.
 
-###### Art. 79.º - 1. Nos concursos de provas práticas haverá provas escritas e orais.
+Art. 79.º - 1. Nos concursos de provas práticas haverá provas escritas e orais.
 
 2. As provas escritas do concurso para directores de finanças de 3.ª classe compreenderão três pontos versando, respectivamente, matérias de contabilidade pública, Tesouro e património e direito e processo tributários.
 
@@ -955,11 +967,11 @@ b) Os segundos-oficiais e terceiros-oficiais, os secretários de finanças de 2.
 
 5. Os candidatos aos concursos para directores de finanças de 3.ª classe deverão elaborar uma dissertação escrita sobre qualquer tema de direito financeiro ou ciência das finanças, livremente escolhido pelo candidato, a qual será objecto de discussão na prova oral.
 
-###### Art. 80.º Os programas dos concursos e a constituição dos respectivos júris serão fixados pelo Ministro do Ultramar ou pelo governador da província, consoante se destinem ao preenchimento de lugares do quadro comum ou dos quadros privativos.
+Art. 80.º Os programas dos concursos e a constituição dos respectivos júris serão fixados pelo Ministro do Ultramar ou pelo governador da província, consoante se destinem ao preenchimento de lugares do quadro comum ou dos quadros privativos.
 
-###### Art. 81.º O acesso a segundo-mecanógrafo e primeiro-mecanógrafo será feito por escolha, respectivamente, entre os terceiros-mecanógrafos e segundos-mecanógrafos que contem, na sua categoria, três anos de bom e efectivo serviço.
+Art. 81.º O acesso a segundo-mecanógrafo e primeiro-mecanógrafo será feito por escolha, respectivamente, entre os terceiros-mecanógrafos e segundos-mecanógrafos que contem, na sua categoria, três anos de bom e efectivo serviço.
 
-###### Art. 82.º - 1. A forma de provimento dos funcionários dos serviços de finanças é a estabelecida nas regras seguintes:
+Art. 82.º - 1. A forma de provimento dos funcionários dos serviços de finanças é a estabelecida nas regras seguintes:
 
 a) Nomeação definitiva, para directores de finanças, chefes de secção, secretários de finanças de 1.ª, 2.ª e 3.ª classes, primeiros-oficiais, segundos-oficiais e terceiros-oficiais, recebedores de 1.ª, 2.ª e 3.ª classes e escrivães das execuções fiscais de 1.ª e 2.ª classes;
 
@@ -971,7 +983,7 @@ d) Contrato por dois anos, sucessivamente renovável, para aspirantes, escrivãe
 
 2. Se durante o período em que o funcionário desempenhar o cargo em comissão não revelar as qualidades exigidas ao seu completo exercício, regressará ao seu quadro de origem, logo que houver vaga.
 
-###### Art. 83.º - 1. Os recebedores são obrigados, antes da posse dos respectivos lugares, a prestar caução nos termos legalmente estabelecidos e nos quantitativos que forem fixados em diploma legislativo, tendo em conta as responsabilidades e movimento de dinheiros públicos nas respectivas recebedorias.
+Art. 83.º - 1. Os recebedores são obrigados, antes da posse dos respectivos lugares, a prestar caução nos termos legalmente estabelecidos e nos quantitativos que forem fixados em diploma legislativo, tendo em conta as responsabilidades e movimento de dinheiros públicos nas respectivas recebedorias.
 
 2. As cauções dos recebedores que coadjuvam os recebedores de classe superior garantem os valores que por estes lhes tenham sido confiados solidàriamente com as cauções deles.
 
@@ -979,11 +991,11 @@ d) Contrato por dois anos, sucessivamente renovável, para aspirantes, escrivãe
 
 4. Os recebedores terão em juízo, sobre os recebedores que os coadjuvam nas suas funções, todos os direitos e acções que o Estado tem sobre os seus exactores, logo que tenham entrado nos cofres públicos com a importância de qualquer alcance em que os recebedores que os coadjuvam forem encontrados.
 
-###### Art. 84.º Os secretários de finanças de qualquer classe e os respectivos adjuntos serão sempre transferidos para distrito ou área fiscal diferente, consoante se trate de províncias de governo-geral ou de outra província ultramarina, após quatro anos de serviço na mesma localidade, só nela podendo ser novamente colocados decorridos quatro anos.
+Art. 84.º Os secretários de finanças de qualquer classe e os respectivos adjuntos serão sempre transferidos para distrito ou área fiscal diferente, consoante se trate de províncias de governo-geral ou de outra província ultramarina, após quatro anos de serviço na mesma localidade, só nela podendo ser novamente colocados decorridos quatro anos.
 
 ### CAPÍTULO IV — Substituições
 
-###### Art. 85.º Os funcionários que exerçam cargos de chefia serão substituídos, nas suas ausências ou impedimentos, pela forma seguinte:
+Art. 85.º Os funcionários que exerçam cargos de chefia serão substituídos, nas suas ausências ou impedimentos, pela forma seguinte:
 
 a) O director provincial, pelo subdirector provincial que o governador-geral designar;
 
@@ -1011,23 +1023,23 @@ m) Os recebedores, pelo recebedor que para tal for designado pelo director ou ch
 
 ### CAPÍTULO V — Direitos e deveres dos funcionários
 
-###### Art. 86.º Em tudo o que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal dos serviços de finanças regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
+Art. 86.º Em tudo o que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal dos serviços de finanças regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 87.º Os funcionários dos serviços de finanças têm direito aos vencimentos e demais remunerações estabelecidas para os restantes funcionários no Estatuto do Funcionalismo Ultramarino e outras disposições legais em vigor, não contrariadas pelo presente diploma.
+Art. 87.º Os funcionários dos serviços de finanças têm direito aos vencimentos e demais remunerações estabelecidas para os restantes funcionários no Estatuto do Funcionalismo Ultramarino e outras disposições legais em vigor, não contrariadas pelo presente diploma.
 
-###### Art. 88.º - 1. O produto das multas por infracções das leis tributárias será dividido, em partes iguais, pelo Estado e por todos os funcionários dos serviços de finanças da província.
+Art. 88.º - 1. O produto das multas por infracções das leis tributárias será dividido, em partes iguais, pelo Estado e por todos os funcionários dos serviços de finanças da província.
 
 2. A parte que, nos termos do número anterior, pertencer aos funcionários será distribuída igualmente por todos eles.
 
 3. A participação de cada funcionário nas multas que exceder o vencimento anual correspondente à sua classe ou categoria reverterá para o Estado e será escriturada em conta do Tesouro.
 
-###### Art. 89.º Aos funcionários que exerçam funções de chefia ou de especial responsabilidade podem ser atribuídas, pelo governo da província, gratificações mensais até ao limite dos quantitativos fixados no mapa IV anexo a este diploma.
+Art. 89.º Aos funcionários que exerçam funções de chefia ou de especial responsabilidade podem ser atribuídas, pelo governo da província, gratificações mensais até ao limite dos quantitativos fixados no mapa IV anexo a este diploma.
 
-###### Art. 90.º Os recebedores têm direito a um abono mensal para falhas dos quantitativos fixados no mapa V anexo a este diploma.
+Art. 90.º Os recebedores têm direito a um abono mensal para falhas dos quantitativos fixados no mapa V anexo a este diploma.
 
-###### Art. 91.º Os funcionários do quadro do serviço de prevenção e fiscalização tributária têm direito, por deslocação dentro da província, ao abono de ajudas de custo nos termos da lei geral.
+Art. 91.º Os funcionários do quadro do serviço de prevenção e fiscalização tributária têm direito, por deslocação dentro da província, ao abono de ajudas de custo nos termos da lei geral.
 
-###### Art. 92.º - 1. Para o bom desempenho das suas funções ficam os directores e subdirectores provinciais, os chefes das repartições provinciais de finanças e seus adjuntos, os directores distritais, o pessoal do serviço de prevenção e fiscalização tributária, os secretários de finanças e demais pessoal dos serviços externos com funções de inspecção ou fiscalização:
+Art. 92.º - 1. Para o bom desempenho das suas funções ficam os directores e subdirectores provinciais, os chefes das repartições provinciais de finanças e seus adjuntos, os directores distritais, o pessoal do serviço de prevenção e fiscalização tributária, os secretários de finanças e demais pessoal dos serviços externos com funções de inspecção ou fiscalização:
 
 a) Dispensados de licença de uso e porte de arma de defesa;
 
@@ -1041,17 +1053,17 @@ d) Com direito a passe permanente gratuito nos transportes colectivos do Estado 
 
 3. A cada funcionário a que se refere o n.º 1 será distribuída uma arma de defesa por conta do Estado.
 
-###### Art. 93.º - 1. Os funcionários dos serviços de finanças só poderão desempenhar funções estranhas ao seu quadro nos casos previstos na lei ou com autorização expressa do Ministro do Ultramar.
+Art. 93.º - 1. Os funcionários dos serviços de finanças só poderão desempenhar funções estranhas ao seu quadro nos casos previstos na lei ou com autorização expressa do Ministro do Ultramar.
 
 2. Ao pessoal do serviço de prevenção e fiscalização tributária e ao em serviço no sector das contribuições e impostos, tanto nas direcções e repartições provinciais como nas direcções distritais, repartições de finanças, recebedorias e juízes das execuções fiscais é, porém, expressamente vedado o exercício de qualquer outra actividade, pública ou privada, remunerada ou não, salvo as funções oficiais permitidas por lei.
 
 3. Aos juristas do gabinete de estudos é permitido, mediante licença do governador-geral, exercer advocacia, excepto em causas fiscais ou contra a Fazenda Nacional.
 
-###### Art. 94.º - 1. Os funcionários dos serviços de finanças devem zelar pelo cumprimento das leis relativas à administração financeira da província, tomando as providências que estiverem nos limites da sua competência para o exacto cumprimento das mesmas.
+Art. 94.º - 1. Os funcionários dos serviços de finanças devem zelar pelo cumprimento das leis relativas à administração financeira da província, tomando as providências que estiverem nos limites da sua competência para o exacto cumprimento das mesmas.
 
 2. Para efeitos da obrigação geral de fiscalização e para o cumprimento de deveres e exercício de direitos os funcionários de finanças consideram-se como estando permanentemente no exercício das suas funções.
 
-###### Art. 95.º - 1. Os funcionários dos serviços de finanças que procedam a verificação ou exame em escrita de qualquer empresa comercial ou industrial ficam inibidos, antes de decorridos cinco anos e seja qual for a situação em que se encontrem, de exercer qualquer cargo ou de prestar serviços, mesmo de procuradoria, nessa empresa ou em qualquer outra que dela seja filiada, dependente ou que em relação a ela se encontre em situação análoga.
+Art. 95.º - 1. Os funcionários dos serviços de finanças que procedam a verificação ou exame em escrita de qualquer empresa comercial ou industrial ficam inibidos, antes de decorridos cinco anos e seja qual for a situação em que se encontrem, de exercer qualquer cargo ou de prestar serviços, mesmo de procuradoria, nessa empresa ou em qualquer outra que dela seja filiada, dependente ou que em relação a ela se encontre em situação análoga.
 
 2. A infracção do disposto no número anterior será punida nos termos do § 2.º do artigo 236.º do Código Penal.
 
@@ -1059,13 +1071,13 @@ d) Com direito a passe permanente gratuito nos transportes colectivos do Estado 
 
 ### CAPÍTULO I — Disposições diversas
 
-###### Art. 96.º Para suprir as carências ocasionais de pessoal nas direcções distritais, repartições de finanças e recebedorias ou para obviar a atrasos na liquidação de impostos ou outras receitas poderão ser constituídas, em cada uma das províncias de governo-geral, uma ou mais brigadas móveis, cujos componentes se deslocarão, por períodos nunca superiores a três meses, aos serviços em que a sua presença seja considerada necessária.
+Art. 96.º Para suprir as carências ocasionais de pessoal nas direcções distritais, repartições de finanças e recebedorias ou para obviar a atrasos na liquidação de impostos ou outras receitas poderão ser constituídas, em cada uma das províncias de governo-geral, uma ou mais brigadas móveis, cujos componentes se deslocarão, por períodos nunca superiores a três meses, aos serviços em que a sua presença seja considerada necessária.
 
-###### Art. 97.º - 1. Os directores dos serviços provinciais de finanças poderão escolher, entre o pessoal dos respectivos quadros privativos, um funcionário de categoria não superior a segundo-oficial para lhes servir de secretário.
+Art. 97.º - 1. Os directores dos serviços provinciais de finanças poderão escolher, entre o pessoal dos respectivos quadros privativos, um funcionário de categoria não superior a segundo-oficial para lhes servir de secretário.
 
 2. O secretário terá direito a uma gratificação mensal especial.
 
-###### Art. 98.º - 1. Com vista ao aperfeiçoamento e actualização do seu pessoal, devem os serviços organizar estágios e cursos sobre matérias de contabilidade, direito financeiro e ciência das finanças e proporcionar aos seus funcionários a frequência dos cursos de aperfeiçoamento profissional professados em qualquer estabelecimento público ou privado de ensino ou investigação.
+Art. 98.º - 1. Com vista ao aperfeiçoamento e actualização do seu pessoal, devem os serviços organizar estágios e cursos sobre matérias de contabilidade, direito financeiro e ciência das finanças e proporcionar aos seus funcionários a frequência dos cursos de aperfeiçoamento profissional professados em qualquer estabelecimento público ou privado de ensino ou investigação.
 
 2. Com idêntico objectivo, será editado em cada uma das províncias de governo-geral um boletim periódico contendo estudos sobre questões jurídico-financeiras e económicas, recensões de livros e artigos da especialidade, decisões jurisprudenciais ou administrativas e informações e pareceres que, pelo seu valor doutrinário, mereçam a divulgação por esta forma.
 
@@ -1073,31 +1085,31 @@ d) Com direito a passe permanente gratuito nos transportes colectivos do Estado 
 
 4. Na província de Angola, a publicação referida no n.º 2 substituirá o actual Boletim de Fazenda.
 
-###### Art. 99.º Nas direcções e repartições provinciais, nas direcções distritais e nas repartições de finanças funcionarão, com organização adequada, bibliotecas técnicas providas de obras e publicações periódicas de carácter financeiro, jurídico, económico e contabilístico, para estudo e consulta dos respectivos funcionários e do público em geral.
+Art. 99.º Nas direcções e repartições provinciais, nas direcções distritais e nas repartições de finanças funcionarão, com organização adequada, bibliotecas técnicas providas de obras e publicações periódicas de carácter financeiro, jurídico, económico e contabilístico, para estudo e consulta dos respectivos funcionários e do público em geral.
 
-###### Art. 100.º - 1. Nas cidades das províncias de governo-geral onde o seu funcionamento se justifique, poderão ser criados serviços de informações fiscais, chefiados por um secretário de finanças e dotados do pessoal necessário.
+Art. 100.º - 1. Nas cidades das províncias de governo-geral onde o seu funcionamento se justifique, poderão ser criados serviços de informações fiscais, chefiados por um secretário de finanças e dotados do pessoal necessário.
 
 2. Aos serviços de informações fiscais competirá exercer acção de esclarecimento sobre o conteúdo das leis tributárias e auxiliar os contribuintes no cumprimento das suas obrigações fiscais.
 
-###### Art. 101.º - 1. Os recebedores poderão ser nomeados pelos corpos administrativos para exercer as funções de seus tesoureiros, vencendo uma gratificação a arbitrar pelo corpo administrativo e que não poderá exceder 750$00 mensais.
+Art. 101.º - 1. Os recebedores poderão ser nomeados pelos corpos administrativos para exercer as funções de seus tesoureiros, vencendo uma gratificação a arbitrar pelo corpo administrativo e que não poderá exceder 750$00 mensais.
 
 2. Os recebedores nomeados para o exercício de funções de tesoureiros dos corpos administrativos são considerados, no desempenho de tais funções, como seus funcionários, cabendo-lhes obedecer aos respectivos regulamentos e deliberações.
 
 3. O exercício das funções de tesoureiro nos termos deste artigo será garantido com a quantia que o corpo administrativo estabelecer, e, não o fazendo, pela caução prestada para as funções de recebedor.
 
-###### Art. 102.º Nos distritos de Angola e de Moçambique diversos dos das respectivas capitais provinciais e nas outras províncias ultramarinas os recebedores podem ser incumbidos da pagadoria dos serviços de obras públicas e transportes, vencendo a gratificação que, para cada caso, estiver ou vier a ser fixada por lei.
+Art. 102.º Nos distritos de Angola e de Moçambique diversos dos das respectivas capitais provinciais e nas outras províncias ultramarinas os recebedores podem ser incumbidos da pagadoria dos serviços de obras públicas e transportes, vencendo a gratificação que, para cada caso, estiver ou vier a ser fixada por lei.
 
 ### CAPÍTULO II — Disposições transitórias
 
-###### Art. 103.º A Secretaria Provincial de Planeamento, Integração Económica, Fazenda e Contabilidade, criada pelo [Decreto n.º 48955](https://diariodarepublica.pt/dr/detalhe/decreto/48955-1969-526589), de 7 de Abril de 1969, passa a denominar-se Secretaria Provincial de Planeamento e Finanças.
+Art. 103.º A Secretaria Provincial de Planeamento, Integração Económica, Fazenda e Contabilidade, criada pelo [Decreto n.º 48955](https://diariodarepublica.pt/dr/detalhe/decreto/48955-1969-526589), de 7 de Abril de 1969, passa a denominar-se Secretaria Provincial de Planeamento e Finanças.
 
-###### Art. 104.º Enquanto não for reformada a organização dos serviços de justiça fiscal do ultramar, os juízos de execuções fiscais e o seu pessoal continuam a reger-se pela legislação em vigor em tudo o que não for contrariado pelo presente diploma.
+Art. 104.º Enquanto não for reformada a organização dos serviços de justiça fiscal do ultramar, os juízos de execuções fiscais e o seu pessoal continuam a reger-se pela legislação em vigor em tudo o que não for contrariado pelo presente diploma.
 
-###### Art. 105.º - 1. É assegurada aos actuais funcionários a permanência na categoria a que pertençam por provimento definitivo, assim como a expectativa de ingresso nos quadros ou de promoção baseada em aprovação em concurso já realizado.
+Art. 105.º - 1. É assegurada aos actuais funcionários a permanência na categoria a que pertençam por provimento definitivo, assim como a expectativa de ingresso nos quadros ou de promoção baseada em aprovação em concurso já realizado.
 
 2. Nos casos em que os funcionários hajam obtido aprovação em categorias cujas designações foram substituídas ou alteradas, o direito à promoção mantém-se relativamente às novas categorias.
 
-###### Art. 106.º - 1. Os funcionários dos actuais quadros de Fazenda e Contabilidade que, nas províncias ultramarinas, se encontrem nomeados, em comissão ordinária de serviço, para o exercício de funções em serviços ou organismos estranhos àqueles deverão regressar aos quadros a que pertencem, sendo-lhes dadas por findas as respectivas comissões, dentro de sessenta dias após a publicação do presente diploma no Boletim Oficial.
+Art. 106.º - 1. Os funcionários dos actuais quadros de Fazenda e Contabilidade que, nas províncias ultramarinas, se encontrem nomeados, em comissão ordinária de serviço, para o exercício de funções em serviços ou organismos estranhos àqueles deverão regressar aos quadros a que pertencem, sendo-lhes dadas por findas as respectivas comissões, dentro de sessenta dias após a publicação do presente diploma no Boletim Oficial.
 
 2. Os funcionários que se encontrem nas situações previstas no número anterior podem, dentro do mesmo prazo de sessenta dias, optar pelo ingresso definitivo nos lugares que vêm exercendo em comissão.
 
@@ -1105,11 +1117,11 @@ d) Com direito a passe permanente gratuito nos transportes colectivos do Estado 
 
 4. O disposto neste artigo não é aplicável aos funcionários nomeados chefes de gabinete ou secretários de membros do Governo, governadores, secretários provinciais ou governadores de distrito.
 
-###### Art. 107.º - 1. Os segundos e terceiros-oficiais e aspirantes que, com boas informações, há mais de dois anos, vêm exercendo, interinamente, funções de categoria imediatamente superior em vagas definitivas serão promovidos, com dispensa de concurso e em função das informações de serviço e habilitações literárias, para as categorias que ocupam a título interino.
+Art. 107.º - 1. Os segundos e terceiros-oficiais e aspirantes que, com boas informações, há mais de dois anos, vêm exercendo, interinamente, funções de categoria imediatamente superior em vagas definitivas serão promovidos, com dispensa de concurso e em função das informações de serviço e habilitações literárias, para as categorias que ocupam a título interino.
 
 2. Os terceiros-oficiais do quadro privativo de Fazenda e contabilidade da província de Angola que, com boas informações de serviço, vêm exercendo, há mais de três anos, os lugares de secretário de Fazenda transitam para a categoria de secretário de finanças de 3.ª classe.
 
-###### Art. 108.º - 1. São extintos os actuais almoxarifados de Fazenda, transitando os seus serviços para a repartição do património, nas províncias de governo-geral, e para a secção de Fazenda Pública, nas restantes províncias ultramarinas.
+Art. 108.º - 1. São extintos os actuais almoxarifados de Fazenda, transitando os seus serviços para a repartição do património, nas províncias de governo-geral, e para a secção de Fazenda Pública, nas restantes províncias ultramarinas.
 
 2. São extintos os lugares de almoxarife da Direcção Provincial de Angola e da Repartição Provincial de Macau, transitando os actuais serventuários para o quadro privativo dos serviços de finanças, na categoria de segundo-oficial.
 
@@ -1125,7 +1137,7 @@ d) Com direito a passe permanente gratuito nos transportes colectivos do Estado 
 
 8. As oficinas e os parques de viaturas dos diversos serviços públicos, sem prejuízo da sua actividade específica, e tanto quanto for julgado conveniente, poderão ser integrados nos Serviços de Obras Públicas e Transportes.
 
-###### Art. 109.º - 1. A partir da entrada em execução deste diploma, são extintos os quadros especiais de recebedores a que se refere o [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947, transitando os actuais recebedores, nas respectivas classes, para o quadro especial das recebedorias, nas províncias de governo-geral, e para os quadros privativos dos serviços de finanças, nas restantes províncias.
+Art. 109.º - 1. A partir da entrada em execução deste diploma, são extintos os quadros especiais de recebedores a que se refere o [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947, transitando os actuais recebedores, nas respectivas classes, para o quadro especial das recebedorias, nas províncias de governo-geral, e para os quadros privativos dos serviços de finanças, nas restantes províncias.
 
 2. O fiel de recebedor dos Serviços de Fazenda e Contabilidade de Moçambique, cujo lugar fica extinto, transita para a categoria de recebedor de 2.ª classe.
 
@@ -1133,59 +1145,59 @@ d) Com direito a passe permanente gratuito nos transportes colectivos do Estado 
 
 4. O fiel de recebedor e o escriturário de 1.ª classe da Secção de Contabilidade de Fazenda de Joanesburgo, cujos lugares ficam extintos, transitarão, respectivamente, para as categorias de recebedor de 2.ª classe e de terceiro-oficial.
 
-###### Art. 110.º - 1. Nos quadros privativos dos serviços de Fazenda e contabilidade de todas as províncias são extintos os lugares de auxiliares de administração de 1.ª, 2.ª e 3.ª classes, auxiliar de contabilidade e escriturário das várias classes, sendo substituídos por lugares de escriturário, a que corresponde a letra T prevista no § único do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 110.º - 1. Nos quadros privativos dos serviços de Fazenda e contabilidade de todas as províncias são extintos os lugares de auxiliares de administração de 1.ª, 2.ª e 3.ª classes, auxiliar de contabilidade e escriturário das várias classes, sendo substituídos por lugares de escriturário, a que corresponde a letra T prevista no § único do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. Os serventuários dos lugares agora extintos transitam para a categoria de escriturário.
 
 3. Os escriturários de 1.ª classe das províncias da Guiné e Macau transitam para o quadro privativo dos serviços de finanças como aspirantes.
 
-###### Art. 111.º O escrivão das execuções fiscais, com mais de vinte anos de serviço, da província da Guiné transita para escrivão das execuções fiscais de 1.ª classe e os escrivães das execuções fiscais da letra S das províncias da Guiné, S. Tomé e Príncipe e Macau transitam para escrivães de 3.ª classe.
+Art. 111.º O escrivão das execuções fiscais, com mais de vinte anos de serviço, da província da Guiné transita para escrivão das execuções fiscais de 1.ª classe e os escrivães das execuções fiscais da letra S das províncias da Guiné, S. Tomé e Príncipe e Macau transitam para escrivães de 3.ª classe.
 
-###### Art. 112.º - 1. Os actuais fiscais de impostos da província de Cabo Verde transitam para escriturários.
+Art. 112.º - 1. Os actuais fiscais de impostos da província de Cabo Verde transitam para escriturários.
 
 2. O fiscal de impostos da província de Timor transita para o quadro geral na categoria de terceiro-oficial.
 
-###### Art. 113.º As transições de pessoal, em execução do disposto neste capítulo, efectuar-se-ão independentemente de quaisquer formalidades e ùnicamente mediante listas nominais, anotadas pelos tribunais administrativos e publicadas nos Boletins Oficiais, devendo os funcionários ser abonados dos seus actuais vencimentos e outras remunerações até à data da publicação das mesmas listas.
+Art. 113.º As transições de pessoal, em execução do disposto neste capítulo, efectuar-se-ão independentemente de quaisquer formalidades e ùnicamente mediante listas nominais, anotadas pelos tribunais administrativos e publicadas nos Boletins Oficiais, devendo os funcionários ser abonados dos seus actuais vencimentos e outras remunerações até à data da publicação das mesmas listas.
 
-###### Art. 114.º Na falta de candidatos especialmente habilitados, os secretários de finanças de 1.ª e 2.ª classes poderão ser nomeados, em comissão ordinária de serviço, técnicos verificadores de 1.ª ou 2.ª classe, respectivamente, do serviço de prevenção e fiscalização tributária.
+Art. 114.º Na falta de candidatos especialmente habilitados, os secretários de finanças de 1.ª e 2.ª classes poderão ser nomeados, em comissão ordinária de serviço, técnicos verificadores de 1.ª ou 2.ª classe, respectivamente, do serviço de prevenção e fiscalização tributária.
 
-###### Art. 115.º Na província de Moçambique, enquanto não for criado, no quadro privativo, o lugar de secretário de finanças, estas funções continuarão a regular-se pelo disposto no artigo 7.º do [Decreto n.º 48277](https://diariodarepublica.pt/dr/detalhe/decreto/48277-1968-234774), de 16 de Março de 1968.
+Art. 115.º Na província de Moçambique, enquanto não for criado, no quadro privativo, o lugar de secretário de finanças, estas funções continuarão a regular-se pelo disposto no artigo 7.º do [Decreto n.º 48277](https://diariodarepublica.pt/dr/detalhe/decreto/48277-1968-234774), de 16 de Março de 1968.
 
-###### Art. 116.º Os agentes que, há mais de três anos, a título interino ou eventual, e sem interrupção de funções, exercem com boas informações os cargos de recebedores de 3.ª classe, recebedores praticantes, aspirantes e escrivães das execuções fiscais, auxiliares de administração, telefonistas, dactilógrafos e contínuos, serão nomeados provisòriamente para as correspondentes categorias dos respectivos quadros, se assim o requererem dentro de trinta dias contados da publicação deste diploma no Boletim Oficial da província.
+Art. 116.º Os agentes que, há mais de três anos, a título interino ou eventual, e sem interrupção de funções, exercem com boas informações os cargos de recebedores de 3.ª classe, recebedores praticantes, aspirantes e escrivães das execuções fiscais, auxiliares de administração, telefonistas, dactilógrafos e contínuos, serão nomeados provisòriamente para as correspondentes categorias dos respectivos quadros, se assim o requererem dentro de trinta dias contados da publicação deste diploma no Boletim Oficial da província.
 
-###### Art. 117.º São extintas as secções de fiscalização das Direcções dos Serviços de Fazenda e Contabilidade junto dos conselhos de administração dos portos, caminhos de ferro e transportes de Angola e de Moçambique, devendo as funções de secretário do conselho fiscal passar a ser exercidas por um funcionário da Divisão de Finanças dos mesmos serviços, nomeado pelo governador-geral, sob proposta do respectivo director dos serviços.
+Art. 117.º São extintas as secções de fiscalização das Direcções dos Serviços de Fazenda e Contabilidade junto dos conselhos de administração dos portos, caminhos de ferro e transportes de Angola e de Moçambique, devendo as funções de secretário do conselho fiscal passar a ser exercidas por um funcionário da Divisão de Finanças dos mesmos serviços, nomeado pelo governador-geral, sob proposta do respectivo director dos serviços.
 
-###### Art. 118.º - 1. A chefia da secção de contabilidade junto da delegação do Instituto do Trabalho, Previdência e Acção Social em Joanesburgo é cometida a um chefe de secção, que terá como substituto legal um primeiro-oficial, a quem compete o exercício das funções de subchefe da mesma secção.
+Art. 118.º - 1. A chefia da secção de contabilidade junto da delegação do Instituto do Trabalho, Previdência e Acção Social em Joanesburgo é cometida a um chefe de secção, que terá como substituto legal um primeiro-oficial, a quem compete o exercício das funções de subchefe da mesma secção.
 
 2. As funções de tesoureiro na secção de contabilidade referida no número anterior serão exercidas por um recebedor de 2.ª classe, que, além das suas funções, coadjuvará o chefe de secção nos serviços que não forem incompatíveis com as suas responsabilidades de tesoureiro.
 
 3. Na secção de contabilidade é criado um lugar de arquivista da categoria da letra Q, para o qual transitará o funcionário que interinamente vem exercendo as funções de terceiro-oficial contratado na mesma secção, ficando extinto este lugar.
 
-###### Art. 119.º É mantida, com a sua actual estrutura e atribuições, a secção de contabilidade junto da delegação do Instituto do Trabalho, Previdência e Acção Social em Salisbúria.
+Art. 119.º É mantida, com a sua actual estrutura e atribuições, a secção de contabilidade junto da delegação do Instituto do Trabalho, Previdência e Acção Social em Salisbúria.
 
-###### Art. 120.º - 1. Os governadores-gerais providenciarão para que as secções de contabilidade privativas existentes nas direcções provinciais e diversos serviços sejam integradas nas repartições de contabilidade junto das secretarias provinciais de que esses serviços dependam.
+Art. 120.º - 1. Os governadores-gerais providenciarão para que as secções de contabilidade privativas existentes nas direcções provinciais e diversos serviços sejam integradas nas repartições de contabilidade junto das secretarias provinciais de que esses serviços dependam.
 
 2. O pessoal das secções de contabilidade que forem integradas prestará serviço na repartição de contabilidade junto da respectiva secretaria provincial e na dependência do chefe desta, mantendo todos os direitos no quadro a que pertença.
 
 3. À medida que nos respectivos quadros forem ocorrendo vacaturas de pessoal das secções de contabilidade privativas, serão as mesmas extintas e criados nos quadros dos serviços de finanças os lugares julgados necessários à sua substituição na respectiva repartição de contabilidade.
 
-###### Art. 121.º São revogadas as disposições legais que estabeleçam para os funcionários dos serviços de finanças gratificações diferentes das previstas neste decreto.
+Art. 121.º São revogadas as disposições legais que estabeleçam para os funcionários dos serviços de finanças gratificações diferentes das previstas neste decreto.
 
-###### Art. 122.º A execução do presente diploma quanto aos novos lugares criados que envolvam aumento de despesa será feita, em cada uma das províncias ultramarinas, de harmonia com as possibilidades orçamentais.
+Art. 122.º A execução do presente diploma quanto aos novos lugares criados que envolvam aumento de despesa será feita, em cada uma das províncias ultramarinas, de harmonia com as possibilidades orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Abril de 1972.**
+Promulgado em 7 de Abril de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Do MAPA I ao MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/09300/04400456.pdf))](https://files.diariodarepublica.pt/1s/1972/04/09300/04400456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/09300/04400456.pdf)
 
 MAPA IV
 
@@ -1229,4 +1241,4 @@ Recebedores de 2.ª classe ... 500$00
 
 Recebedores de 3.ª classe ... 800$00
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

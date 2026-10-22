@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/54-1984-399253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d87d6782faa24f8666088a8f498bc72ae5f3b5198b59642a59d4fa49ae7396b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6a8cee36ab3feb4482f8b5d5e9f5b9c155643691b150af304d879f86e405d07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Permanente do Formulário e de Informação de Medicamentos
+- Direcção Geral dos Hospitais
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:237991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517785:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:20Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +111,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterada a redacção da alínea c) do n.º 1 do artigo 3.º do [Decreto n.º 445/76](https://diariodarepublica.pt/dr/detalhe/decreto/445-1976-427174), de 4 de Junho, como segue:
+Artigo 1.º É alterada a redacção da alínea c) do n.º 1 do artigo 3.º do [Decreto n.º 445/76](https://diariodarepublica.pt/dr/detalhe/decreto/445-1976-427174), de 4 de Junho, como segue:
 
-###### Art. 3.º - 1 - A Comissão é composta por:
+Art. 3.º - 1 - A Comissão é composta por:
 
 a) ...
 
@@ -108,16 +123,16 @@ c) 3 farmacêuticos pertencentes à carreira hospitalar, um dos quais com experi
 
 d) ...
 
-###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha.
 
-**Assinado em 3 de Setembro de 1984.**
+Assinado em 3 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Setembro de 1984.**
+Referendado em 10 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

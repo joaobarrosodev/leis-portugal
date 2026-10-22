@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1970-225840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e4cec6e6528a449dbefb4a6547fcf5c63f477a4a3d1c8daf8a3ae0961ae1a3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dfa509a1fd709a6f8e5bf0e6db095c10a40b6b41dd084a0095df226a2187798
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Profissional
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Formas de Provimento
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Reestruturação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:256621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537064:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:09Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +107,7 @@ Considerando que se torna indispensável regular a situação dos funcionários 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único - 1. O pessoal dos quadros que, nos termos do disposto quer no n.º 2 do artigo 8.º do [Decreto n.º 45980](https://diariodarepublica.pt/dr/detalhe/decreto/45980-1964-537064), de 20 de Outubro de 1964, quer no n.º 2 do artigo 11.º do [Decreto n.º 47228](https://diariodarepublica.pt/dr/detalhe/decreto/47228-1966-480109), de 30 de Setembro de 1966, se encontre a prestar serviço nas secções das escolas técnicas profissionais mencionadas no artigo 2.º do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621), de 28 de Dezembro de 1968, terá o seguinte destino:
+Artigo único - 1. O pessoal dos quadros que, nos termos do disposto quer no n.º 2 do artigo 8.º do [Decreto n.º 45980](https://diariodarepublica.pt/dr/detalhe/decreto/45980-1964-537064), de 20 de Outubro de 1964, quer no n.º 2 do artigo 11.º do [Decreto n.º 47228](https://diariodarepublica.pt/dr/detalhe/decreto/47228-1966-480109), de 30 de Setembro de 1966, se encontre a prestar serviço nas secções das escolas técnicas profissionais mencionadas no artigo 2.º do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621), de 28 de Dezembro de 1968, terá o seguinte destino:
 
 a) Os mestres ocuparão, na escola em que foi convertida a secção, os correspondentes lugares de mestre principal;
 
@@ -97,9 +117,9 @@ b) Os funcionários de secretaria e auxiliares serão mantidos na escola a cujo 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 13 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

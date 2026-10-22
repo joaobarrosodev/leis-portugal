@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/07400/04960502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 528bcf3c12905de8cc865169cab5245f70a451c9d9e9b5f28e5573c6db244236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad92b79544012d624c21ef09af20c2f1e062890b4acb9d826849e055bd85eb72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tribunal de Contas
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:694226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470665:por
+  label: "Substituído o quadro de pessoal aprovado pelo artigo 16.º pela PORT.501/80.12.08.1980.PCM, DR.IS [185] de 12.08.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/501-1980-470665
+  date: '1980-08-12'
+- type: amended_by
+  target: pt:dre:389872:por
+  label: "Alterados os artigos 7.º e 15.º, pelo DEC LEI.17/81.28.01.1981.MFP, DR.IS [23] de 28.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1981-389872
+  date: '1981-01-28'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685439:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:382445:por
+  label: Rectificado pela DECL.DD7303.15.05.1979.PCM, DR.IS [111] de 15.05.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-382445
+  date: '1979-05-15'
+- type: corrected_by
+  target: pt:dre:383576:por
+  label: Rectificada a Decl DD7303, de 15 de Maio de 1979, que rectificou o presente diploma, pela DECL.DD7440.18.06.1979.PCM,
+    DR.IS [138] de 18.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383576
+  date: '1979-06-18'
+- type: repealed_by
+  target: pt:dre:694226:por
+  label: "Revogado pelo DEC LEI.440/99.1999.11.02.MF, DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/440-1999-694226
+  date: '1999-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:10Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +166,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral do Tribunal de Contas, como órgão de gestão, execução e apoio do Tribunal de Contas, é reorganizada nos termos do presente diploma, tendo como atribuições:
+Artigo 1.º A Direcção-Geral do Tribunal de Contas, como órgão de gestão, execução e apoio do Tribunal de Contas, é reorganizada nos termos do presente diploma, tendo como atribuições:
 
 a) Os trabalhos preparatórios destinados ao relatório e parecer sobre a Conta Geral do Estado;
 
@@ -136,7 +194,7 @@ l) Outras atribuições conferidas por lei.
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 2.º A Direcção-Geral do Tribunal de Contas, para o desempenho das suas atribuições, dispõe de serviços centrais e regionais:
+Art. 2.º A Direcção-Geral do Tribunal de Contas, para o desempenho das suas atribuições, dispõe de serviços centrais e regionais:
 
 a) Os serviços centrais compreendem:
 
@@ -150,7 +208,7 @@ Contadorias-Gerais de Contas;
 
 Contadoria-Geral do Visto;
 
-##### Divisão do Arquivo Geral e Biblioteca;
+Divisão do Arquivo Geral e Biblioteca;
 
 Núcleo de Informação Pública e Relações Exteriores;
 
@@ -158,7 +216,7 @@ b) Os serviços regionais terão a composição e estrutura que vierem a ser est
 
 #### SECÇÃO II — Gabinete de Estudos
 
-###### Art. 3.º - 1 - O Gabinete de Estudos, a cargo de um contador-geral, compreende duas contadorias:
+Art. 3.º - 1 - O Gabinete de Estudos, a cargo de um contador-geral, compreende duas contadorias:
 
 2 - À 1.ª Contadoria compete:
 
@@ -180,7 +238,7 @@ c) Coligir informações provenientes de instituições congéneres estrangeiras
 
 #### SECÇÃO III — Contadoria-Geral dos Serviços Administrativos
 
-###### Art. 4.º - 1 - A Contadoria-Geral dos Serviços Administrativos compreende três contadorias:
+Art. 4.º - 1 - A Contadoria-Geral dos Serviços Administrativos compreende três contadorias:
 
 2 - À 1.ª Contadoria compete:
 
@@ -224,7 +282,7 @@ e) Os trabalhos relativos à administração e contabilidade do Cofre do Tribuna
 
 #### SECÇÃO IV — Contadoria-Geral da Conta Geral do Estado
 
-###### Art. 5.º - 1 - A Contadoria-Geral da Conta Geral do Estado compreende três contadorias.
+Art. 5.º - 1 - A Contadoria-Geral da Conta Geral do Estado compreende três contadorias.
 
 2 - À 1.ª Contadoria competem os trabalhos inerentes à preparação e elaboração do relatório e parecer sobre a Conta Geral do Estado e a conferência, apuramento e liquidação das contas da Junta do Crédito Público e da Caixa Geral de Depósitos, Crédito e Previdência.
 
@@ -234,7 +292,7 @@ e) Os trabalhos relativos à administração e contabilidade do Cofre do Tribuna
 
 #### SECÇÃO V — Contadorias-Gerais de Contas
 
-###### Art. 6.º - 1 - As Contadorias-Gerais de Contas são duas, cada uma com cinco contadorias, cabendo-lhes a preparação e instrução dos processos de contas dos responsáveis sujeitos ao julgamento do Tribunal de Contas, com excepção dos que se encontram afectos à Contadoria-Geral da Conta Geral do Estado.
+Art. 6.º - 1 - As Contadorias-Gerais de Contas são duas, cada uma com cinco contadorias, cabendo-lhes a preparação e instrução dos processos de contas dos responsáveis sujeitos ao julgamento do Tribunal de Contas, com excepção dos que se encontram afectos à Contadoria-Geral da Conta Geral do Estado.
 
 2 - À 1.ª Contadoria-Geral de Contas compete o exame, conferência, apuramento e liquidação das contas dos seguintes organismos, serviços e entidades:
 
@@ -328,7 +386,7 @@ Serviços, organismos e entidades não atribuídos a qualquer outra contadoria.
 
 #### SECÇÃO VI — Contadoria-Geral do Visto
 
-###### Art. 7.º - 1 - A Contadoria-Geral do Visto compreende duas contadoras, às quais compete:
+Art. 7.º - 1 - A Contadoria-Geral do Visto compreende duas contadoras, às quais compete:
 
 a) O exame preparatório dos processos referentes aos diplomas, contratos e despachos a submeter ao visto do Tribunal de Contas;
 
@@ -346,9 +404,11 @@ d) Todo o expediente dos processos afectos à Contadoria-Geral.
 
 5 - Quando se mostrar necessário, o director-geral, sob proposta do contador-geral, poderá transferir de uma para outra contadoria toda ou parte da distribuição de serviço fixada nos n.os 2 a 4.
 
-#### SECÇÃO VII — Divisão do Arquivo Geral e Biblioteca
+#### SECÇÃO VII
 
-###### Art. 8.º À Divisão do Arquivo Geral e Biblioteca, directamente dependente do director-geral, compete:
+##### Divisão do Arquivo Geral e Biblioteca
+
+Art. 8.º À Divisão do Arquivo Geral e Biblioteca, directamente dependente do director-geral, compete:
 
 a) O assentamento geral dos responsáveis por contas julgadas;
 
@@ -362,7 +422,7 @@ e) O estudo da documentação relativa aos fundes existentes, com vista à sua d
 
 #### SECÇÃO VIII — Núcleo de Informação Pública e Relações Exteriores
 
-###### Art. 9.º O Núcleo de Informação Pública e Relações Exteriores funciona na dependência directa do director-geral, competindo-lhe:
+Art. 9.º O Núcleo de Informação Pública e Relações Exteriores funciona na dependência directa do director-geral, competindo-lhe:
 
 a) Atender o público que acorra ao Tribunal de Contas, prestando-lhe as informações e esclarecimentos que lhe possam ser facultados;
 
@@ -372,49 +432,49 @@ c) Coligir sistematicamente informações ou quaisquer elementos divulgados por 
 
 ### CAPÍTULO III — Funcionamento dos serviços
 
-###### Art. 10.º O funcionamento da Direcção-Geral rege-se pelas disposições do presente diploma, bem como pelas anteriores leis orgânicas, nas partes que não disponham em contrário.
+Art. 10.º O funcionamento da Direcção-Geral rege-se pelas disposições do presente diploma, bem como pelas anteriores leis orgânicas, nas partes que não disponham em contrário.
 
-###### Art. 11.º Os processos de fixação de jurisprudência correm seus termos pela Contadoria-Geral a que pertencerem.
+Art. 11.º Os processos de fixação de jurisprudência correm seus termos pela Contadoria-Geral a que pertencerem.
 
-###### Art. 12.º Os processos de embargo à execução dos acórdãos do Tribunal de Contas correm seus termos pelas contadorias que conferirem e liquidarem as respectivas contas.
+Art. 12.º Os processos de embargo à execução dos acórdãos do Tribunal de Contas correm seus termos pelas contadorias que conferirem e liquidarem as respectivas contas.
 
-###### Art. 13.º Os recursos dos acórdãos ou decisões proferidas por quaisquer entidades em matéria de julgamento de contas ou de exame e visto que, por lei, devam ser submetidos ao Tribunal de Contas, correm seus termos, respectivamente, pelas contadorias cuja competência abranja as contas de organismos e serviços similares ou pela contadoria do visto julgada adequada
+Art. 13.º Os recursos dos acórdãos ou decisões proferidas por quaisquer entidades em matéria de julgamento de contas ou de exame e visto que, por lei, devam ser submetidos ao Tribunal de Contas, correm seus termos, respectivamente, pelas contadorias cuja competência abranja as contas de organismos e serviços similares ou pela contadoria do visto julgada adequada
 
-###### Art. 14.º Os processos de multa correm seus termos pelos serviços cuja competência inclua a verificação da infracção que lhes deu origem.
+Art. 14.º Os processos de multa correm seus termos pelos serviços cuja competência inclua a verificação da infracção que lhes deu origem.
 
-###### Art. 15.º - 1 - O conselho administrativo do Tribunal de Contas será constituído pelo director-geral, pelo contador-geral da Conta Geral do Estado e pelo contador-geral dos Serviços Administrativos, que desempenharão, respectivamente, as funções de presidente, secretário e tesoureiro.
+Art. 15.º - 1 - O conselho administrativo do Tribunal de Contas será constituído pelo director-geral, pelo contador-geral da Conta Geral do Estado e pelo contador-geral dos Serviços Administrativos, que desempenharão, respectivamente, as funções de presidente, secretário e tesoureiro.
 
 2 - Nos impedimentos prolongados dos membros do conselho administrativo, as substituições far-se-ão por despacho do presidente do Tribunal de Contas.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 16.º O quadro do pessoal permanente da Direcção-Geral do Tribunal de Contas é o que consta do mapa anexo a este decreto-lei e poderá ser alterado mediante portaria conjunta dos Secretários de Estado das Finanças e da Administração Pública.
+Art. 16.º O quadro do pessoal permanente da Direcção-Geral do Tribunal de Contas é o que consta do mapa anexo a este decreto-lei e poderá ser alterado mediante portaria conjunta dos Secretários de Estado das Finanças e da Administração Pública.
 
-###### Art. 17.º - 1 - Os lugares previstos no quadro do pessoal serão providos mediante nomeação, com excepção daqueles que nos termos da lei geral o devam ser mediante contrato.
+Art. 17.º - 1 - Os lugares previstos no quadro do pessoal serão providos mediante nomeação, com excepção daqueles que nos termos da lei geral o devam ser mediante contrato.
 
 2 - O ingresso na carreira de contador-verificador é feito na categoria de contador-verificador auxiliar.
 
-###### Art. 18.º O provimento do lugar de director-geral é feito em comissão de serviço por tempo indeterminado, mediante despacho conjunto do Primeiro-Ministro e do Ministro das Finanças e do Plano, de entre indivíduos licenciados em Direito.
+Art. 18.º O provimento do lugar de director-geral é feito em comissão de serviço por tempo indeterminado, mediante despacho conjunto do Primeiro-Ministro e do Ministro das Finanças e do Plano, de entre indivíduos licenciados em Direito.
 
-###### Art. 19.º O provimento do lugar de adjunto do director-geral é feito mediante proposta deste, em comissão de serviço por tempo indeterminado, de entre os contadores-gerais.
+Art. 19.º O provimento do lugar de adjunto do director-geral é feito mediante proposta deste, em comissão de serviço por tempo indeterminado, de entre os contadores-gerais.
 
-###### Art. 20.º Os lugares de contador-geral são providos, por escolha, de entre os contadores-chefes com o mínimo de três anos de bom e efectivo serviço na categoria, sob proposta do director-geral.
+Art. 20.º Os lugares de contador-geral são providos, por escolha, de entre os contadores-chefes com o mínimo de três anos de bom e efectivo serviço na categoria, sob proposta do director-geral.
 
-###### Art. 21.º O lugar de chefe de divisão do Arquivo Geral e Biblioteca é provido mediante concurso documental de entre indivíduos habilitados com o curso de bibliotecário-arquivista-documentalista.
+Art. 21.º O lugar de chefe de divisão do Arquivo Geral e Biblioteca é provido mediante concurso documental de entre indivíduos habilitados com o curso de bibliotecário-arquivista-documentalista.
 
-###### Art. 22.º Os lugares de contador-chefe são providos, por escolha, de entre os contadores-verificadores de 1.ª classe com o mínimo de três anos de bom e efectivo serviço na categoria, sob proposta do director-geral, ouvidos os contadores-gerais.
+Art. 22.º Os lugares de contador-chefe são providos, por escolha, de entre os contadores-verificadores de 1.ª classe com o mínimo de três anos de bom e efectivo serviço na categoria, sob proposta do director-geral, ouvidos os contadores-gerais.
 
-###### Art. 23.º Os lugares de contadores-verificadores de 1.ª e 2.ª classes são providos de entre os funcionários de categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço nessa categoria e que tenham obtido aproveitamento nos cursos referidos no n.º 1 do artigo 45.º
+Art. 23.º Os lugares de contadores-verificadores de 1.ª e 2.ª classes são providos de entre os funcionários de categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço nessa categoria e que tenham obtido aproveitamento nos cursos referidos no n.º 1 do artigo 45.º
 
-###### Art. 24.º Os lugares de contador-verificador auxiliar são providos pelos contadores-verificadores estagiários que hajam obtido aproveitamento nas provas de competência a levar a efeito no período formativo referido no n.º 1 do artigo 26.º
+Art. 24.º Os lugares de contador-verificador auxiliar são providos pelos contadores-verificadores estagiários que hajam obtido aproveitamento nas provas de competência a levar a efeito no período formativo referido no n.º 1 do artigo 26.º
 
-###### Art. 25.º Os contadores-verificadores estagiários serão nomeados provisoriamente, consoante o número de vagas existentes na carreira de contador-verificador, mediante prestação de provas de capacidade intelectual e de dactilografia, a que poderão concorrer:
+Art. 25.º Os contadores-verificadores estagiários serão nomeados provisoriamente, consoante o número de vagas existentes na carreira de contador-verificador, mediante prestação de provas de capacidade intelectual e de dactilografia, a que poderão concorrer:
 
 a) Os indivíduos habilitados com o curso complementar dos liceus, ou equivalente;
 
 b) Os escriturários-dactilógrafos com, pelo menos, três anos de bom e efectivo serviço.
 
-###### Art. 26.º - 1 - O período formativo, ou de estágio, dos contadores-verificadores estagiários será de um ano de serviço efectivo.
+Art. 26.º - 1 - O período formativo, ou de estágio, dos contadores-verificadores estagiários será de um ano de serviço efectivo.
 
 2 - Os contadores-verificadores estagiários que não obtiverem aproveitamento nas provas referidas no artigo 24.º serão exonerados.
 
@@ -422,57 +482,57 @@ b) Os escriturários-dactilógrafos com, pelo menos, três anos de bom e efectiv
 
 4 - Se algum contador-verificador estagiário já desempenhar funções noutra categoria da Direcção-Geral, manterá o direito ao respectivo lugar durante o período de estágio e às remunerações acessórias que lhe vêm sendo atribuídas.
 
-###### Art. 27.º O lugar de tradutor-correspondente é provido por concurso documental, de entre indivíduos que possuam como habilitação mínima o curso geral dos liceus ou equivalente e o perfeito domínio de línguas, obrigatoriamente francês e inglês.
+Art. 27.º O lugar de tradutor-correspondente é provido por concurso documental, de entre indivíduos que possuam como habilitação mínima o curso geral dos liceus ou equivalente e o perfeito domínio de línguas, obrigatoriamente francês e inglês.
 
-###### Art. 28.º - 1 - O lugar de técnico auxiliar de 2.ª classe é provido por concurso documental, de entre indivíduos com a habilitação mínima do curso geral dos liceus ou equivalente.
+Art. 28.º - 1 - O lugar de técnico auxiliar de 2.ª classe é provido por concurso documental, de entre indivíduos com a habilitação mínima do curso geral dos liceus ou equivalente.
 
 2 - A nomeação decorrente do número anterior terá carácter provisório durante um ano, findo o qual será convertida em definitiva, se o funcionário houver demonstrado aptidão para o exercício do lugar, sendo exonerado caso contrário.
 
 3 - O funcionário provido definitivamente será, após dois anos de bom e efectivo serviço, promovido a técnico auxiliar de 1.ª classe.
 
-###### Art. 29.º O lugar de operador de microfilmagem será provido mediante concurso documental, de entre indivíduos com as qualificações profissionais consideradas necessárias para o desempenho do cargo e a habilitação literária mínima do curso geral dos liceus ou equivalente.
+Art. 29.º O lugar de operador de microfilmagem será provido mediante concurso documental, de entre indivíduos com as qualificações profissionais consideradas necessárias para o desempenho do cargo e a habilitação literária mínima do curso geral dos liceus ou equivalente.
 
-###### Art. 30.º As funções de tradutor-correspondente e de operador de microfilmagem podem ser exercidas em regime de tempo parcial, com observância do condicionalismo estabelecido no n.º 2 do artigo 3.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 30.º As funções de tradutor-correspondente e de operador de microfilmagem podem ser exercidas em regime de tempo parcial, com observância do condicionalismo estabelecido no n.º 2 do artigo 3.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 31.º - 1 - O ingresso no quadro de catalogadores faz-se pela 2.ª classe, mediante concurso de provas práticas, ao qual serão admitidos os indivíduos que reúnam as condições estabelecidas na lei geral.
+Art. 31.º - 1 - O ingresso no quadro de catalogadores faz-se pela 2.ª classe, mediante concurso de provas práticas, ao qual serão admitidos os indivíduos que reúnam as condições estabelecidas na lei geral.
 
 2 - Os catalogadores de 2.ª classe serão promovidos à 1.ª classe logo que completem três anos de bom e efectivo serviço e possuam o curso geral dos liceus ou habilitação equivalente.
 
-###### Art. 32.º Os escriturários-dactilógrafos serão providos mediante concurso de provas práticas, a que serão admitidos indivíduos habilitados com o curso geral dos liceus, ou equivalente, dando-se preferência aos que a qualquer título prestam serviço na Direcção-Geral.
+Art. 32.º Os escriturários-dactilógrafos serão providos mediante concurso de provas práticas, a que serão admitidos indivíduos habilitados com o curso geral dos liceus, ou equivalente, dando-se preferência aos que a qualquer título prestam serviço na Direcção-Geral.
 
-###### Art. 33.º - 1 - O lugar de fiel de arquivo é provido de entre os fiéis auxiliares com, pelo menos, três anos de bom e efectivo serviço.
+Art. 33.º - 1 - O lugar de fiel de arquivo é provido de entre os fiéis auxiliares com, pelo menos, três anos de bom e efectivo serviço.
 
 2 - Os lugares de fiéis auxiliares serão providos de entre indivíduos habilitados com a escolaridade obrigatória, dando-se preferência ao restante pessoal auxiliar do quadro da Direcção-Geral.
 
 3 - Os lugares referidos nos números anteriores são providos por escolha, sob proposta do director-geral.
 
-###### Art. 34.º - 1 - Os lugares de telefonista são providos, por escolha, de entre indivíduos habilitados com a escolaridade obrigatória, segundo a idade, podendo aquela recair em diminuídos físicos.
+Art. 34.º - 1 - Os lugares de telefonista são providos, por escolha, de entre indivíduos habilitados com a escolaridade obrigatória, segundo a idade, podendo aquela recair em diminuídos físicos.
 
 2 - O provimento a que se refere o número anterior será sempre antecedido de prova de aptidão para o cargo, mediante o seu exercício, em regime de estágio remunerado, por tempo não superior a trinta dias.
 
 3 - A remuneração pelo estágio corresponderá ao vencimento atribuído às telefonistas do quadro e será paga por conta da dotação da rubrica orçamental de «Remunerações de pessoal diverso», sendo o respectivo abono efectuado com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas.
 
-###### Art. 35.º Ao provimento dos lugares de motorista, contínuo e porteiro são aplicáveis as normas estabelecidas na lei geral.
+Art. 35.º Ao provimento dos lugares de motorista, contínuo e porteiro são aplicáveis as normas estabelecidas na lei geral.
 
-###### Art. 36.º Ao director-geral compete, além do estabelecido na legislação em vigor, orientar e distribuir os serviços e o pessoal da Direcção-Geral, superintender nos trabalhos a realizar, dar posse aos funcionários e resolver todos os assuntos que, por sua natureza, disposição de lei, delegação ou determinação ministerial ou da presidência do Tribunal, lhe caiba despachar.
+Art. 36.º Ao director-geral compete, além do estabelecido na legislação em vigor, orientar e distribuir os serviços e o pessoal da Direcção-Geral, superintender nos trabalhos a realizar, dar posse aos funcionários e resolver todos os assuntos que, por sua natureza, disposição de lei, delegação ou determinação ministerial ou da presidência do Tribunal, lhe caiba despachar.
 
-###### Art. 37.º O adjunto do director-geral coadjuvará o director-geral no desempenho das suas funções.
+Art. 37.º O adjunto do director-geral coadjuvará o director-geral no desempenho das suas funções.
 
-###### Art. 38.º Aos contadores-verificadores auxiliares compete não só coadjuvar os contadores-verificadores nas suas funções técnicas, como também executar os trabalhos que lhes forem indicados pelos seus superiores, de harmonia com as necessidades e conveniências dos serviços, nomeadamente os de dactilografia.
+Art. 38.º Aos contadores-verificadores auxiliares compete não só coadjuvar os contadores-verificadores nas suas funções técnicas, como também executar os trabalhos que lhes forem indicados pelos seus superiores, de harmonia com as necessidades e conveniências dos serviços, nomeadamente os de dactilografia.
 
-###### Art. 39.º Ao fiel de arquivo compete supervisionar e manter a boa organização dos arquivos das Contadorias-Gerais de Contas e do Visto e, bem assim, coordenar e fiscalizar a actividade do pessoal auxiliar da Direcção-Geral.
+Art. 39.º Ao fiel de arquivo compete supervisionar e manter a boa organização dos arquivos das Contadorias-Gerais de Contas e do Visto e, bem assim, coordenar e fiscalizar a actividade do pessoal auxiliar da Direcção-Geral.
 
-###### Art. 40.º Aos fiéis auxiliares compete a guarda, conservação, catalogação, arrumação, entrada e saída de documentos, contas e processos do Arquivo Geral e dos arquivos privativos das contadorias a que estão adstritos, bem como quaisquer outros trabalhos auxiliares ordenados pelos seus superiores, de harmonia com as necessidades do serviço.
+Art. 40.º Aos fiéis auxiliares compete a guarda, conservação, catalogação, arrumação, entrada e saída de documentos, contas e processos do Arquivo Geral e dos arquivos privativos das contadorias a que estão adstritos, bem como quaisquer outros trabalhos auxiliares ordenados pelos seus superiores, de harmonia com as necessidades do serviço.
 
-###### Art. 41.º Os restantes funcionários terão as atribuições e a competência que resultam das leis orgânicas do Tribunal de Contas e da sua Direcção-Geral e ainda as que forem fixadas no regulamento a que se refere o artigo 46.º
+Art. 41.º Os restantes funcionários terão as atribuições e a competência que resultam das leis orgânicas do Tribunal de Contas e da sua Direcção-Geral e ainda as que forem fixadas no regulamento a que se refere o artigo 46.º
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 42.º - 1 - O director-geral poderá delegar no seu adjunto, contadores-gerais e contadores-chefes a competência para a prática dos actos mais correntes ou repetidos, relativos às funções específicas dos serviços.
+Art. 42.º - 1 - O director-geral poderá delegar no seu adjunto, contadores-gerais e contadores-chefes a competência para a prática dos actos mais correntes ou repetidos, relativos às funções específicas dos serviços.
 
 2 - Para a prática dos referidos actos o director-geral poderá, igualmente, autorizar a subdelegação nos contadores-gerais e destes nos contadores-chefes.
 
-###### Art. 43.º Os cargos de direcção e chefia serão exercidos, na falta, ausência ou impedimento dos respectivos titulares, pela seguinte forma:
+Art. 43.º Os cargos de direcção e chefia serão exercidos, na falta, ausência ou impedimento dos respectivos titulares, pela seguinte forma:
 
 a) O director-geral, pelo seu adjunto;
 
@@ -484,9 +544,9 @@ d) Os contadores-chefes, pelos contadores-verificadores mais categorizados e, en
 
 e) O fiel de arquivo, pelo fiel auxiliar a designar pelo director-geral.
 
-###### Art. 44.º Poderão ser destacados para exercerem as funções de secretário do presidente do Tribunal e do director-geral os funcionários da Direcção-Geral de categoria não superior a contador-verificador de 1.ª classe.
+Art. 44.º Poderão ser destacados para exercerem as funções de secretário do presidente do Tribunal e do director-geral os funcionários da Direcção-Geral de categoria não superior a contador-verificador de 1.ª classe.
 
-###### Art. 45.º - 1 - Para a preparação, aperfeiçoamento e promoção do pessoal a Direcção-Geral deverá organizar os seguintes cursos, cuja frequência é obrigatória:
+Art. 45.º - 1 - Para a preparação, aperfeiçoamento e promoção do pessoal a Direcção-Geral deverá organizar os seguintes cursos, cuja frequência é obrigatória:
 
 a) Cursos de promoção destinados a ministrar aos funcionários os conhecimentos adequados com vista à sua promoção; e
 
@@ -494,13 +554,13 @@ b) Em colaboração com o Serviço Central de Pessoal, cursos de formação e ap
 
 2 - Os cursos poderão ser professados por funcionários da Direcção-Geral do Tribunal de Contas, ou por indivíduos estranhos com especial competência nas matérias a tratar, sendo as respectivas remunerações fixadas pelo Secretário de Estado das Finanças, mediante proposta do director-geral.
 
-###### Art. 46.º A definição da competência e atribuições do pessoal, o sistema de avaliação do mérito profissional, bem como a organização e funcionamento dos cursos e dos concursos previstos no presente diploma, serão objecto de regulamentação por decreto simples.
+Art. 46.º A definição da competência e atribuições do pessoal, o sistema de avaliação do mérito profissional, bem como a organização e funcionamento dos cursos e dos concursos previstos no presente diploma, serão objecto de regulamentação por decreto simples.
 
-###### Art. 47.º Os funcionários da Direcção-Geral do Tribunal de Contas poderão desempenhar funções noutros serviços do Estado, em qualquer situação, mediante prévia autorização do Ministro das Finanças e do Plano, sob informação do director-geral.
+Art. 47.º Os funcionários da Direcção-Geral do Tribunal de Contas poderão desempenhar funções noutros serviços do Estado, em qualquer situação, mediante prévia autorização do Ministro das Finanças e do Plano, sob informação do director-geral.
 
-###### Art. 48.º A participação dos trabalhadores na organização e funcionamento dos serviços será estabelecida de harmonia com critérios a definir em lei geral.
+Art. 48.º A participação dos trabalhadores na organização e funcionamento dos serviços será estabelecida de harmonia com critérios a definir em lei geral.
 
-###### Art. 49.º - 1 - O primeiro provimento dos lugares do quadro anexo ao presente diploma pelo pessoal que actualmente presta serviço na Direcção-Geral do Tribunal de Contas poderá ser feito mediante lista ou listas nominativas aprovadas nos termos legais, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, de acordo com as seguintes regras:
+Art. 49.º - 1 - O primeiro provimento dos lugares do quadro anexo ao presente diploma pelo pessoal que actualmente presta serviço na Direcção-Geral do Tribunal de Contas poderá ser feito mediante lista ou listas nominativas aprovadas nos termos legais, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, de acordo com as seguintes regras:
 
 a) Em lugar imediatamente superior da respectiva carreira, para os funcionários que possuam mais de três anos de bom e efectivo serviço na categoria em que se encontram providos, observado o disposto nos artigos 20.º e 22.º;
 
@@ -518,34 +578,34 @@ e) Os contadores-verificadores de 3.ª classe e os escriturários-dactilógrafos
 
 4 - Os funcionários do quadro geral de adidos em exercício na Direcção-Geral em regime de requisição são integrados no novo quadro por despacho do Secretário de Estado das Finanças, nos termos da alínea a) do n.º 3 do artigo 41.º e do n.º 1 do artigo 42.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
 
-###### Art. 50.º - 1 - O provimento dos lugares que ficarem por preencher, após a aplicação do artigo antecedente, será condicionado à realização dos cursos previstos nas alíneas a) ou b) do n.º 1 do artigo 45.º, consoante se trate de provimento de lugares de contadores-verificadores de 1.ª e 2.ª classes ou contadores-chefes.
+Art. 50.º - 1 - O provimento dos lugares que ficarem por preencher, após a aplicação do artigo antecedente, será condicionado à realização dos cursos previstos nas alíneas a) ou b) do n.º 1 do artigo 45.º, consoante se trate de provimento de lugares de contadores-verificadores de 1.ª e 2.ª classes ou contadores-chefes.
 
 2 - O disposto no número anterior é somente aplicável ao actual pessoal do quadro e vigora durante os primeiros três anos após a publicação das listas a que se refere o n.º 1 do artigo 49.º
 
-###### Art. 51.º O preenchimento das vagas do quadro do pessoal só se efectuará à medida das necessidades dos serviços.
+Art. 51.º O preenchimento das vagas do quadro do pessoal só se efectuará à medida das necessidades dos serviços.
 
-###### Art. 52.º Enquanto não forem estabelecidas normas gerais que regulamentem as remunerações acessórias aos trabalhadores da função pública, são mantidos os princípios que presidiram à sua atribuição ao pessoal da Direcção-Geral, através do Cofre do Tribunal de Contas, sem prejuízo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro.
+Art. 52.º Enquanto não forem estabelecidas normas gerais que regulamentem as remunerações acessórias aos trabalhadores da função pública, são mantidos os princípios que presidiram à sua atribuição ao pessoal da Direcção-Geral, através do Cofre do Tribunal de Contas, sem prejuízo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro.
 
-###### Art. 53.º Deixa de ser aplicável à Direcção-Geral do Tribunal de Contas o regulamento aprovado pelo [Decreto-Lei n.º 31317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31317-1941-329619), de 13 de Junho de 1941.
+Art. 53.º Deixa de ser aplicável à Direcção-Geral do Tribunal de Contas o regulamento aprovado pelo [Decreto-Lei n.º 31317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31317-1941-329619), de 13 de Junho de 1941.
 
-###### Art. 54.º - 1 - É o Ministro das Finanças e do Plano autorizado a tomar providências financeiras indispensáveis à execução deste diploma.
+Art. 54.º - 1 - É o Ministro das Finanças e do Plano autorizado a tomar providências financeiras indispensáveis à execução deste diploma.
 
 2 - Até se proceder ao reforço das verbas necessárias para essa execução, considerar-se-ão como dotações globais as verbas destinadas a despesas com o pessoal no orçamento em vigor do Tribunal de Contas.
 
-###### Art. 55.º As dúvidas que se suscitarem na interpretação e execução deste diploma serão resolvidas por despacho conjunto dos Secretários de Estado das Finanças e da Administração Pública.
+Art. 55.º As dúvidas que se suscitarem na interpretação e execução deste diploma serão resolvidas por despacho conjunto dos Secretários de Estado das Finanças e da Administração Pública.
 
-###### Art. 56.º Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 56.º Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 21 de Março de 1979.**
+Promulgado em 21 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, TEÓFILO CARVALHO DOS SANTOS.**
+O Presidente da República Interino, TEÓFILO CARVALHO DOS SANTOS.
 
 Quadro do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/03/07400/04960502.pdf))](https://files.diariodarepublica.pt/1s/1979/03/07400/04960502.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/03/07400/04960502.pdf)
 
-**O Ministro das Finanças, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

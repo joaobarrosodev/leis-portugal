@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/287-1970-140990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2754ed549ebad21eb1c66fd914cd51c0a6bf9bd681b3a4d951e57713ca919ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e2c05bd4aa3bc3007d9beb97f369d5e3c8f0788cbe8c6549ffea99a54d0d097
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:194443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:01Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +118,13 @@ Orgânica do Laboratório de Engenharia de Moçambique
 
 ### CAPÍTULO I — Da natureza, fins e atribuições
 
-###### Artigo 1.º O Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique passa a designar-se Laboratório de Engenharia de Moçambique, abreviadamente L. E. M., e a reger-se pelas disposições do presente diploma.
+Artigo 1.º O Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique passa a designar-se Laboratório de Engenharia de Moçambique, abreviadamente L. E. M., e a reger-se pelas disposições do presente diploma.
 
-###### Art. 2.º O Laboratório de Engenharia de Moçambique constitui um organismo com personalidade jurídica e autonomia administrativa e financeira.
+Art. 2.º O Laboratório de Engenharia de Moçambique constitui um organismo com personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 3.º O Laboratório de Engenharia de Moçambique tem por objectivos empreender, promover e coordenar a investigação e os estudos experimentais no campo da engenharia civil, quer por sua própria iniciativa, quer por requisição de entidades públicas ou privadas, e colaborar com os estabelecimentos de ensino na preparação de pessoal técnico dos vários graus de especialização.
+Art. 3.º O Laboratório de Engenharia de Moçambique tem por objectivos empreender, promover e coordenar a investigação e os estudos experimentais no campo da engenharia civil, quer por sua própria iniciativa, quer por requisição de entidades públicas ou privadas, e colaborar com os estabelecimentos de ensino na preparação de pessoal técnico dos vários graus de especialização.
 
-###### Art. 4.º Para consecução do disposto no artigo anterior, compete em especial ao Laboratório:
+Art. 4.º Para consecução do disposto no artigo anterior, compete em especial ao Laboratório:
 
 a) Empreender, de sua iniciativa, investigações ou estudos que repute de interesse, ouvidas as entidades que for julgado conveniente;
 
@@ -132,23 +152,25 @@ l) Dispor de um serviço de publicação de obras de natureza técnica ou cient�
 
 m) Colaborar, no âmbito da sua especialização, com os outros serviços públicos, mantendo com eles as relações convenientes à mais ampla utilização das respectivas possibilidades.
 
-###### Art. 5.º O director do Laboratório de Engenharia de Moçambique submeterá à apreciação do governador-geral, até 30 de Abril de cada ano, o relatório dos trabalhos realizados no ano anterior.
+Art. 5.º O director do Laboratório de Engenharia de Moçambique submeterá à apreciação do governador-geral, até 30 de Abril de cada ano, o relatório dos trabalhos realizados no ano anterior.
 
-###### Art. 6.º Os planos anuais de trabalhos, elaborados de acordo com o disposto no [Decreto-Lei n.º 46370](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46370-1965-294481), de 7 de Junho de 1963, serão submetidos à aprovação do governador-geral.
+Art. 6.º Os planos anuais de trabalhos, elaborados de acordo com o disposto no [Decreto-Lei n.º 46370](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46370-1965-294481), de 7 de Junho de 1963, serão submetidos à aprovação do governador-geral.
 
-###### Art. 7.º Além dos trabalhos previstos nos planos anuais e sem prejuízo da sua integral concretização, poderá o governador-geral, ouvido o conselho técnico do Laboratório de Engenharia de Moçambique, autorizar a realização de quaisquer outros que sejam requisitados por entidades oficiais ou particulares, indicando a ordem da respectiva execução.
+Art. 7.º Além dos trabalhos previstos nos planos anuais e sem prejuízo da sua integral concretização, poderá o governador-geral, ouvido o conselho técnico do Laboratório de Engenharia de Moçambique, autorizar a realização de quaisquer outros que sejam requisitados por entidades oficiais ou particulares, indicando a ordem da respectiva execução.
 
-###### Art. 8.º Sob proposta do director, aprovada por despacho do governador-geral, o Laboratório poderá, quando as necessidades de serviço o impuseram, proceder à criação e montagem de laboratórios especializados, com campo de acção regional ou local, fora do concelho de Lourenço Marques.
+Art. 8.º Sob proposta do director, aprovada por despacho do governador-geral, o Laboratório poderá, quando as necessidades de serviço o impuseram, proceder à criação e montagem de laboratórios especializados, com campo de acção regional ou local, fora do concelho de Lourenço Marques.
 
-###### Art. 9.º O Laboratório poderá organizar cursos de aperfeiçoamento e especialização de técnicos de engenharia dos vários graus e passar os respectivos certificados de frequência e de aproveitamento, quando requeridos.
+Art. 9.º O Laboratório poderá organizar cursos de aperfeiçoamento e especialização de técnicos de engenharia dos vários graus e passar os respectivos certificados de frequência e de aproveitamento, quando requeridos.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 Órgãos directivos
 
-###### Art. 10.º A direcção do Laboratório de Engenharia de Moçambique será exercida pelo respectivo director, coadjuvado pelo subdirector e assistido pelos conselhos técnico e administrativo.
+Art. 10.º A direcção do Laboratório de Engenharia de Moçambique será exercida pelo respectivo director, coadjuvado pelo subdirector e assistido pelos conselhos técnico e administrativo.
 
-###### Art. 11.º - 1. Compete ao director:
+Art. 11.º - 1. Compete ao director:
 
 a) Imprimir orientação científica, coordenar e dirigir os trabalhos do organismo a seu cargo;
 
@@ -182,7 +204,7 @@ o) Admitir e dispensar, nos termos legais, o pessoal assalariado eventual.
 
 2. O director poderá exercer a chefia do departamento de especialidade mais de acordo com a sua preparação científica.
 
-###### Art. 12.º - 1. Compete ao subdirector:
+Art. 12.º - 1. Compete ao subdirector:
 
 a) Substituir o director nas suas faltas e impedimentos, desempenhando então todas as funções que àquele competem;
 
@@ -192,7 +214,7 @@ b) Colaborar na direcção do Laboratório, exercendo as funções que lhe forem
 
 #### SECÇÃO II — Conselho técnico
 
-###### Art. 13.º - 1. O conselho técnico será presidido pelo director do Laboratório e dele farão parte o subdirector, os investigadores e os chefes dos serviços técnicos, assistindo às respectivas reuniões o chefe de secretaria, que servirá de secretário, sem direito a voto.
+Art. 13.º - 1. O conselho técnico será presidido pelo director do Laboratório e dele farão parte o subdirector, os investigadores e os chefes dos serviços técnicos, assistindo às respectivas reuniões o chefe de secretaria, que servirá de secretário, sem direito a voto.
 
 2. Quando se ocupe de assuntos de natureza administrativa, do conselho técnico fará ainda parte o adjunto administrativo.
 
@@ -200,9 +222,9 @@ b) Colaborar na direcção do Laboratório, exercendo as funções que lhe forem
 
 4. O presidente do conselho técnico, sempre que o tenha por conveniente, poderá promover que tomem parte nos respectivos trabalhos entidades estranhas ao Laboratório de Engenharia de Moçambique, as quais podem intervir na discussão, sem direito a voto.
 
-###### Art. 14.º O conselho técnico reunirá ordinàriamente uma vez por trimestre e extraordinàriamente sempre que o seu presidente o convoque.
+Art. 14.º O conselho técnico reunirá ordinàriamente uma vez por trimestre e extraordinàriamente sempre que o seu presidente o convoque.
 
-###### Art. 15.º - 1. O conselho técnico só poderá deliberar quando estiver presente a maioria dos seus membros.
+Art. 15.º - 1. O conselho técnico só poderá deliberar quando estiver presente a maioria dos seus membros.
 
 2. As resoluções são tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
@@ -210,13 +232,13 @@ b) Colaborar na direcção do Laboratório, exercendo as funções que lhe forem
 
 4. As resoluções que não obtiverem o acordo do presidente só adquirirão força executiva depois de confirmadas pelo governador-geral, a quem serão presentes para decisão.
 
-###### Art. 16.º - 1. Das sessões do conselho técnico lavrar-se-ão actas em livro especial, que, depois de aprovadas, serão assinadas pelo presidente e pelo secretário.
+Art. 16.º - 1. Das sessões do conselho técnico lavrar-se-ão actas em livro especial, que, depois de aprovadas, serão assinadas pelo presidente e pelo secretário.
 
 2. Considera-se aprovada a acta cuja minuta recolha as assinaturas de todos os membros do conselho que assistiram à sessão.
 
 3. Nenhuma deliberação será válida desde que não conste da acta da sessão devidamente aprovada.
 
-###### Art. 17.º Ao conselho técnico compete:
+Art. 17.º Ao conselho técnico compete:
 
 a) Conhecer dos trabalhos em curso no Laboratório, através de exposições para o efeito elaboradas pelos chefes dos respectivos departamentos;
 
@@ -240,7 +262,7 @@ j) Pronunciar-se sobre a distribuição das verbas a atribuir aos diferentes dep
 
 #### SECÇÃO III — Conselho administrativo
 
-###### Art. 18.º - 1. O conselho administrativo será presidido pelo director do Laboratório e dele farão parte o subdirector, o adjunto administrativo, o chefe da contabilidade, que servirá de secretário, e um representante da Direcção Provincial dos Serviços de Fazenda e Contabilidade de categoria não inferior a director de 3.ª classe.
+Art. 18.º - 1. O conselho administrativo será presidido pelo director do Laboratório e dele farão parte o subdirector, o adjunto administrativo, o chefe da contabilidade, que servirá de secretário, e um representante da Direcção Provincial dos Serviços de Fazenda e Contabilidade de categoria não inferior a director de 3.ª classe.
 
 2. Qualquer dos vogais, nas suas faltas ou impedimentos, à excepção do representante da Direcção Provincial dos Serviços de Fazenda e Contabilidade, será substituído por quem o presidente designar em ordem de serviço.
 
@@ -248,9 +270,9 @@ j) Pronunciar-se sobre a distribuição das verbas a atribuir aos diferentes dep
 
 4. O representante dos Serviços de Fazenda e Contabilidade será remunerado nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 19.º O conselho administrativo reunirá, em sessão ordinária, em regra duas vezes por mês, podendo o presidente, por sua iniciativa ou sob proposta de qualquer dos vogais, convocar sessões extraordinárias sempre que tal seja necessário ou conveniente.
+Art. 19.º O conselho administrativo reunirá, em sessão ordinária, em regra duas vezes por mês, podendo o presidente, por sua iniciativa ou sob proposta de qualquer dos vogais, convocar sessões extraordinárias sempre que tal seja necessário ou conveniente.
 
-###### Art. 20.º - 1. Ao conselho administrativo compete:
+Art. 20.º - 1. Ao conselho administrativo compete:
 
 a) Administrar as verbas inscritas no orçamento do Laboratório de Engenharia de Moçambique e autorizar a realização de despesas, nos termos da legislação aplicável;
 
@@ -274,11 +296,11 @@ j) Apresentar, para resolução do governador-geral, as propostas de ordem finan
 
 2. O conselho administrativo pode delegar no presidente a resolução dos assuntos de sua competência que entenda convenientes e os poderes consignados nas alíneas c), d) e e), até ao montante de 50000$00.
 
-###### Art. 21.º - 1. Nas sessões do conselho administrativo apenas serão tratados os assuntos da sua competência que hajam sido mencionados na respectiva convocatória, a enviar com a antecedência mínima de quarenta e oito horas.
+Art. 21.º - 1. Nas sessões do conselho administrativo apenas serão tratados os assuntos da sua competência que hajam sido mencionados na respectiva convocatória, a enviar com a antecedência mínima de quarenta e oito horas.
 
 2. Sempre que no decorrer das sessões o conselho reconheça urgência em tratar de qualquer assunto em especial, pode ele ser discutido e resolvido.
 
-###### Art. 22.º - 1. O conselho administrativo só poderá deliberar quando estiver presente a maioria dos seus membros.
+Art. 22.º - 1. O conselho administrativo só poderá deliberar quando estiver presente a maioria dos seus membros.
 
 2. As resoluções serão tomadas por maioria de votos, sendo estes nominais e tendo o presidente voto de qualidade.
 
@@ -288,7 +310,7 @@ j) Apresentar, para resolução do governador-geral, as propostas de ordem finan
 
 5. As resoluções sobre assuntos de administração financeira tomadas contra o parecer do representante dos Serviços de Fazenda e Contabilidade também só adquirirão força executiva depois de confirmadas pelo governador-geral, a quem serão presentes para decisão.
 
-###### Art. 23.º - 1. Das sessões do conselho administrativo lavrar-se-ão actas em livro especial, que, depois de aprovadas, serão assinadas pelo presidente e pelo secretário.
+Art. 23.º - 1. Das sessões do conselho administrativo lavrar-se-ão actas em livro especial, que, depois de aprovadas, serão assinadas pelo presidente e pelo secretário.
 
 2. Considera-se aprovada a acta cuja minuta recolha as assinaturas dos membros do conselho que assistiram a sessão.
 
@@ -296,7 +318,7 @@ j) Apresentar, para resolução do governador-geral, as propostas de ordem finan
 
 ### CAPÍTULO III — Serviços e divisões
 
-###### Art. 24.º - 1. O Laboratório de Engenharia de Moçambique compreenderá os departamentos seguintes:
+Art. 24.º - 1. O Laboratório de Engenharia de Moçambique compreenderá os departamentos seguintes:
 
 a) Serviço administrativo;
 
@@ -316,21 +338,21 @@ h) Centro de Documentação Técnica.
 
 2. O governador-geral, ouvido o conselho técnico do Laboratório de Engenharia de Moçambique, poderá modificar o domínio de acção, a designação e o número de departamentos constantes do corpo do artigo, por forma a melhor os adaptar à evolução do Laboratório.
 
-###### Art. 25.º - 1. Cada departamento será estruturado consoante a natureza das respectivas atribuições, compreendendo divisões e secções a fixar em regulamento interno.
+Art. 25.º - 1. Cada departamento será estruturado consoante a natureza das respectivas atribuições, compreendendo divisões e secções a fixar em regulamento interno.
 
 2. Poderão ser constituídas divisões directamente subordinadas à direcção do Laboratório de Engenharia de Moçambique.
 
-###### Art. 26.º Ao serviço administrativo compete encarregar-se de todas as funções de carácter administrativo e financeiro que lhe sejam confiadas pela direcção.
+Art. 26.º Ao serviço administrativo compete encarregar-se de todas as funções de carácter administrativo e financeiro que lhe sejam confiadas pela direcção.
 
-###### Art. 27.º Aos serviços de estradas e aeródromos, de estruturas, de fundações, de materiais e de química compete executar, no âmbito das respectivas especialidades, os trabalhos de que o Laboratório seja incumbido ou realize por sua iniciativa.
+Art. 27.º Aos serviços de estradas e aeródromos, de estruturas, de fundações, de materiais e de química compete executar, no âmbito das respectivas especialidades, os trabalhos de que o Laboratório seja incumbido ou realize por sua iniciativa.
 
-###### Art. 28.º O Centro de Documentação Técnica tem por objectivo fundamental funcionar como central colectora, selectora, informadora, orientadora e difusora da documentação que interesse à actividade tanto do pessoal do Laboratório de Engenharia de Moçambique como de quaisquer outros técnicos do domínio da engenharia civil.
+Art. 28.º O Centro de Documentação Técnica tem por objectivo fundamental funcionar como central colectora, selectora, informadora, orientadora e difusora da documentação que interesse à actividade tanto do pessoal do Laboratório de Engenharia de Moçambique como de quaisquer outros técnicos do domínio da engenharia civil.
 
-###### Art. 29.º Aos serviços gerais compete ocupar-se dos trabalhos que não caibam dentro do âmbito da especialização dos outros serviços, mas que sejam essenciais ao funcionamento dos mesmos, nomeadamente a manutenção de todas as dependências e equipamento do Laboratório de Engenharia de Moçambique e o estudo e realização de modificações, adaptações e execução de aparelhagem.
+Art. 29.º Aos serviços gerais compete ocupar-se dos trabalhos que não caibam dentro do âmbito da especialização dos outros serviços, mas que sejam essenciais ao funcionamento dos mesmos, nomeadamente a manutenção de todas as dependências e equipamento do Laboratório de Engenharia de Moçambique e o estudo e realização de modificações, adaptações e execução de aparelhagem.
 
 ### CAPÍTULO IV — Da administração financeira
 
-###### Art. 30.º Constituem receitas do Laboratório de Engenharia de Moçambique:
+Art. 30.º Constituem receitas do Laboratório de Engenharia de Moçambique:
 
 a) As dotações e subsídios inscritos no orçamento geral da província e os concedidos pelos corpos administrativos ou quaisquer entidades públicas ou particulares, quer para os seus fins gerais, quer para aplicações específicas que nos mesmos se enquadrem e sejam de reconhecido interesse;
 
@@ -354,23 +376,23 @@ j) O saldo de gerências anteriores;
 
 k) Quaisquer outras receitas que, nos termos legais, lhe venham a ser atribuídas.
 
-###### Art. 31.º - 1. O director de Laboratório submeterá anualmente à apreciação do governador-geral, para ser aprovado e mandado entrar em execução, o projecto do orçamento privativo daquele organismo.
+Art. 31.º - 1. O director de Laboratório submeterá anualmente à apreciação do governador-geral, para ser aprovado e mandado entrar em execução, o projecto do orçamento privativo daquele organismo.
 
 2. No decorrer do ano, poderá o director do Laboratório submeter ao governador-geral os orçamentos suplementareis que forem tidos por necessários.
 
-###### Art. 32.º O Laboratório requisitará mensalmente à Direcção Provincial dos Serviços de Fazenda e Contabilidade e às demais entidades comparticipantes as importâncias correspondentes aos duodécimos das verbas respectivas, inscritas no seu orçamento privativo.
+Art. 32.º O Laboratório requisitará mensalmente à Direcção Provincial dos Serviços de Fazenda e Contabilidade e às demais entidades comparticipantes as importâncias correspondentes aos duodécimos das verbas respectivas, inscritas no seu orçamento privativo.
 
-###### Art. 33.º - 1. As importâncias recebidas serão obrigatória e imediatamente depositadas.
+Art. 33.º - 1. As importâncias recebidas serão obrigatória e imediatamente depositadas.
 
 2. Em regra, todos os pagamentos serão feitos por meio de cheques entregues em troca dos competentes recibos devidamente legalizados.
 
 3. Os cheques e mais documentos relativos ao levantamento e recebimento de fundos deverão levar as assinaturas do director e do chefe do serviço administrativo ou, nas faltas ou impedimentos destes funcionários, de quem legalmente os substitua ou, por ordem de serviço, for designado pelo director.
 
-###### Art. 34.º - 1. O tesoureiro poderá ter em seu poder uma importância não superior a 5000$00 destinada a ocorrer ao pagamento de pequenas despesas de carácter urgente e devidamente autorizadas pelo director; dessa importância prestará mensalmente contas ao conselho administrativo.
+Art. 34.º - 1. O tesoureiro poderá ter em seu poder uma importância não superior a 5000$00 destinada a ocorrer ao pagamento de pequenas despesas de carácter urgente e devidamente autorizadas pelo director; dessa importância prestará mensalmente contas ao conselho administrativo.
 
 2. A caução do tesoureiro será fixada em portaria do Governo da província.
 
-###### Art. 35. º - 1. Depois de aprovados os orçamentos, as despesas serão realizadas mediante decisão do conselho administrativo.
+Art. 35. º - 1. Depois de aprovados os orçamentos, as despesas serão realizadas mediante decisão do conselho administrativo.
 
 2. O Laboratório poderá efectuar obras de reparação, remodelação e adaptação nos edifícios ou equipamento da sua propriedade ou que lhe tenham sido concedidos nos termos da lei, até ao montante de 400000$00.
 
@@ -382,15 +404,15 @@ b) Aquisições e obras de reparação, remodelação e adaptação cujo valor e
 
 c) Subsídios para bolsas de estudo.
 
-###### Art. 36.º - 1. Com observância dos preceitos legais aplicáveis, o Laboratório poderá receber, a título gratuito, quaisquer bens relacionados com a realização dos objectivos que lhe competem; se, porém, sobre eles incidirem quaisquer ónus, a sua aceitação carecerá de prévia concordância do governador-geral.
+Art. 36.º - 1. Com observância dos preceitos legais aplicáveis, o Laboratório poderá receber, a título gratuito, quaisquer bens relacionados com a realização dos objectivos que lhe competem; se, porém, sobre eles incidirem quaisquer ónus, a sua aceitação carecerá de prévia concordância do governador-geral.
 
 2. Os bens legados ou doados sob qualquer cláusula modal que se integre nos objectivos do Laboratório terão o destino que lhes haja sido fixado pelo testador ou doador.
 
-###### Art. 37.º No caso de serem doados ou legados ao Laboratório de Engenharia de Moçambique, sem dependência de qualquer cláusula modal, bens mobiliários desnecessários à consecução dos objectivos do organismo, serão os mesmos alienados e o produto da alienação destinado aos fins que venham a ser determinados pelo governador-geral, sob proposta do director do Laboratório.
+Art. 37.º No caso de serem doados ou legados ao Laboratório de Engenharia de Moçambique, sem dependência de qualquer cláusula modal, bens mobiliários desnecessários à consecução dos objectivos do organismo, serão os mesmos alienados e o produto da alienação destinado aos fins que venham a ser determinados pelo governador-geral, sob proposta do director do Laboratório.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 38.º - 1. O pessoal do Laboratório de Engenharia de Moçambique e seus vencimentos são os que constam dos quadros I, II e III anexos a este diploma e que dele fazem parte integrante.
+Art. 38.º - 1. O pessoal do Laboratório de Engenharia de Moçambique e seus vencimentos são os que constam dos quadros I, II e III anexos a este diploma e que dele fazem parte integrante.
 
 2. O preenchimento das vagas nos quadros será efectuado de acordo com as necessidades de serviço.
 
@@ -398,9 +420,9 @@ c) Subsídios para bolsas de estudo.
 
 4. O Laboratório pode assalariar o pessoal eventual que seja necessário ao bom desenvolvimento dos trabalhos e consoante as dotações orçamentais.
 
-###### Art. 39.º Os lugares de director, subdirector, investigadores e especialistas serão providos nos termos do [Decreto-Lei n.º 48691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48691-1968-263200), de 18 de Novembro de 1968.
+Art. 39.º Os lugares de director, subdirector, investigadores e especialistas serão providos nos termos do [Decreto-Lei n.º 48691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48691-1968-263200), de 18 de Novembro de 1968.
 
-###### Art. 40.º - 1. O provimento dos lugares de pessoal técnico, quando não efectuados por acesso de categoria inferior, será precedido de estágio, com duração mínima de dois anos, destinado à preparação dos candidatos e ao julgamento das suas aptidões para o desempenho das funções a que se destinam.
+Art. 40.º - 1. O provimento dos lugares de pessoal técnico, quando não efectuados por acesso de categoria inferior, será precedido de estágio, com duração mínima de dois anos, destinado à preparação dos candidatos e ao julgamento das suas aptidões para o desempenho das funções a que se destinam.
 
 2. A admissão de estagiários, excepto para desenhadores, será feito por escolha, com base em concurso documental, de harmonia com as necessidades e conveniência de serviço, em particular no respeitante a especialização, e dentro das dotações a consignar anualmente no orçamento do Laboratório para esse fim.
 
@@ -416,45 +438,45 @@ Estes indivíduos só serão, contudo, admitidos aos concursos a que se refere o
 
 6. Para efeitos de duração de estágio, e sem prejuízo das suas finalidades, sob proposta do director, poderá o governador-geral autorizar, a título excepcional, a contagem total ou parcial do tempo de bom e efectivo serviço anteriormente prestado pelo candidato, em funções equiparáveis no Laboratório de Engenharia de Moçambique ou noutro organismo oficial.
 
-###### Art. 41.º Os estagiários receberão durante o período de estágio uma remuneração mensal correspondente à letra atribuída à classe de entrada da categoria a que o estágio dá acesso.
+Art. 41.º Os estagiários receberão durante o período de estágio uma remuneração mensal correspondente à letra atribuída à classe de entrada da categoria a que o estágio dá acesso.
 
-###### Art. 42.º - 1. Os estágios terminam com a realização de um concurso de provas práticas, cujas normas serão definidas no regulamento interno, para obtenção do certificado de estágio.
+Art. 42.º - 1. Os estágios terminam com a realização de um concurso de provas práticas, cujas normas serão definidas no regulamento interno, para obtenção do certificado de estágio.
 
 2. Os estagiários para experimentador, ajudante de experimentador e desenhador são obrigados a apresentar-se ao primeiro concurso para obtenção de certificado de estágio da respectiva categoria que for aberto após um período de estágio efectivo de dois anos.
 
-###### Art. 43.º - 1. Os lugares das classes de entrada das categorias do pessoal técnico serão preenchidos, de harmonia com as necessidades de serviço, por indivíduos com a especialização requerida, habilitados com o respectivo certificado de estágio e pela ordem da classificação obtida, desde que não tenham interrompido a prestação de serviço no Laboratório por prazo superior a três anos.
+Art. 43.º - 1. Os lugares das classes de entrada das categorias do pessoal técnico serão preenchidos, de harmonia com as necessidades de serviço, por indivíduos com a especialização requerida, habilitados com o respectivo certificado de estágio e pela ordem da classificação obtida, desde que não tenham interrompido a prestação de serviço no Laboratório por prazo superior a três anos.
 
 2. Quando houver candidatos com a mesma classificação, serão razões de preferência, em primeiro lugar, a antiguidade do concurso e, em segundo lugar, as conveniências de serviço.
 
 3. Os estagiários poderão ser admitidos no quadro sem dependência do limite de idade legal, desde que tenham sido admitidos a concurso para estagiários antes dos 35 anos e se tenham mantido ao serviço de um dos laboratórios de engenharia, da metrópole ou do ultramar, sem interrupção.
 
-###### Art. 44.º Serão automàticamente suspensos os estágios dos estagiários que se não apresentem aos concursos a que se refere o n.º 2 do artigo 42.º e dos que forem reprovados, salvo os daqueles que não compareçam por estarem impedidos por serviço militar, caso em que, após o seu regresso ao Laboratório, serão obrigados a apresentar-se aos referidos concursos.
+Art. 44.º Serão automàticamente suspensos os estágios dos estagiários que se não apresentem aos concursos a que se refere o n.º 2 do artigo 42.º e dos que forem reprovados, salvo os daqueles que não compareçam por estarem impedidos por serviço militar, caso em que, após o seu regresso ao Laboratório, serão obrigados a apresentar-se aos referidos concursos.
 
-###### Art. 45.º Aos concursos para admissão ao estágio para experimentador poderão apresentar-se os indivíduos habilitados com um curso adequado de um instituto industrial ou com as cadeiras de Cálculo Integral e Infinitesimal e de Física Geral de um curso superior de natureza adequada.
+Art. 45.º Aos concursos para admissão ao estágio para experimentador poderão apresentar-se os indivíduos habilitados com um curso adequado de um instituto industrial ou com as cadeiras de Cálculo Integral e Infinitesimal e de Física Geral de um curso superior de natureza adequada.
 
-###### Art. 46.º Aos concursos para obtenção do certificado de estágio para experimentador poderão também apresentar-se os ajudantes de experimentador que contem, pelo menos, três anos de bom e efectivo serviço no exercício destas funções, dentro ou fora do quadro.
+Art. 46.º Aos concursos para obtenção do certificado de estágio para experimentador poderão também apresentar-se os ajudantes de experimentador que contem, pelo menos, três anos de bom e efectivo serviço no exercício destas funções, dentro ou fora do quadro.
 
-###### Art. 47.º Aos concursos para admissão ao estágio para ajudante de experimentador poderão apresentar-se os indivíduos habilitados com a secção preparatória para os institutos industriais de formação profissional adequada, o curso geral dos liceus ou formação escolar equivalente.
+Art. 47.º Aos concursos para admissão ao estágio para ajudante de experimentador poderão apresentar-se os indivíduos habilitados com a secção preparatória para os institutos industriais de formação profissional adequada, o curso geral dos liceus ou formação escolar equivalente.
 
-###### Art. 48.º Aos concursos para admissão a estágio para desenhador poderão apresentar-se os indivíduos habilitados com o curso industrial de formação profissional adequada ou o curso geral dos liceus.
+Art. 48.º Aos concursos para admissão a estágio para desenhador poderão apresentar-se os indivíduos habilitados com o curso industrial de formação profissional adequada ou o curso geral dos liceus.
 
-###### Art. 49.º As normas a que deverão obedecer os concursos de admissão dos técnicos documentalistas e de promoção do pessoal técnico dos quadros do Laboratório de Engenharia de Moçambique serão fixadas no regulamento interno.
+Art. 49.º As normas a que deverão obedecer os concursos de admissão dos técnicos documentalistas e de promoção do pessoal técnico dos quadros do Laboratório de Engenharia de Moçambique serão fixadas no regulamento interno.
 
-###### Art. 50.º As normas a que deverão obedecer os concursos de admissão e promoção do pessoal administrativo, artífice e motorista e pessoal menor dos quadros do Laboratório de Engenharia de Moçambique serão fixadas no regulamento interno.
+Art. 50.º As normas a que deverão obedecer os concursos de admissão e promoção do pessoal administrativo, artífice e motorista e pessoal menor dos quadros do Laboratório de Engenharia de Moçambique serão fixadas no regulamento interno.
 
-###### Art. 51.º Quando a natureza do serviço o impuser, poderá, mediante autorização do governador-geral, ser vedada a apresentação aos concursos de admissão de candidatos do sexo feminino ou limitado o número de candidatos a admitir.
+Art. 51.º Quando a natureza do serviço o impuser, poderá, mediante autorização do governador-geral, ser vedada a apresentação aos concursos de admissão de candidatos do sexo feminino ou limitado o número de candidatos a admitir.
 
-###### Art. 52.º Enquanto não houver indivíduos habilitados com certificado de estágio ou não forem realizados concursos de admissão ou promoção no quadro, poderão ser feitas admissões, em regime de contrato fora do quadro, até 2/3 do número de vagas existentes nas diversas classes da mesma categoria.
+Art. 52.º Enquanto não houver indivíduos habilitados com certificado de estágio ou não forem realizados concursos de admissão ou promoção no quadro, poderão ser feitas admissões, em regime de contrato fora do quadro, até 2/3 do número de vagas existentes nas diversas classes da mesma categoria.
 
-###### Art. 53.º A validade dos concursos para estagiários será fixada, para cada concurso, por despacho do Ministro do Ultramar, mediante proposta do governador-geral, nos termos do § 2.º do artigo 6.º do Decreto n.º 48691, de 18 de Novembro de 1968.
+Art. 53.º A validade dos concursos para estagiários será fixada, para cada concurso, por despacho do Ministro do Ultramar, mediante proposta do governador-geral, nos termos do § 2.º do artigo 6.º do Decreto n.º 48691, de 18 de Novembro de 1968.
 
-###### Art. 54.º Sob proposta do director, superiormente sancionada e com prévia concordância dos serviços ou organismos a que pertençam, poderão ser requisitados funcionários de outros quadros para, em comissão ordinária, preencherem as vagas existentes nos quadros do Laboratório, quer o seu provimento normal seja por nomeação ou por contrato.
+Art. 54.º Sob proposta do director, superiormente sancionada e com prévia concordância dos serviços ou organismos a que pertençam, poderão ser requisitados funcionários de outros quadros para, em comissão ordinária, preencherem as vagas existentes nos quadros do Laboratório, quer o seu provimento normal seja por nomeação ou por contrato.
 
-###### Art. 55.º O pessoal dos quadros do Laboratório e estagiário terá direito a casa ou subsídio para renda de casa a fixar pelo governador-geral, de harmonia com as condições locais.
+Art. 55.º O pessoal dos quadros do Laboratório e estagiário terá direito a casa ou subsídio para renda de casa a fixar pelo governador-geral, de harmonia com as condições locais.
 
-###### Art. 56.º O pessoal do Laboratório terá direito a abono de família, ajudas de custo, subsídios de campo e isolamento e outras regalias, nas condições em que são atribuídos aos funcionários da província de igual categoria.
+Art. 56.º O pessoal do Laboratório terá direito a abono de família, ajudas de custo, subsídios de campo e isolamento e outras regalias, nas condições em que são atribuídos aos funcionários da província de igual categoria.
 
-###### Art. 57.º - 1. Ao pessoal técnico abaixo indicado serão abonados cumulativamente os seguintes subsídios diários:
+Art. 57.º - 1. Ao pessoal técnico abaixo indicado serão abonados cumulativamente os seguintes subsídios diários:
 
 Primeiros e segundos-assistentes ... 100$00
 
@@ -466,7 +488,7 @@ Idem das letras P e seguintes ... 30$00
 
 2. O abono destes subsídios diários acarreta a proibição de qualquer actividade particular remunerada.
 
-###### Art. 58.º Ao pessoal administrativo serão abonadas cumulativamente as seguintes gratificações mensais:
+Art. 58.º Ao pessoal administrativo serão abonadas cumulativamente as seguintes gratificações mensais:
 
 Adjunto administrativo ... 1250$00
 
@@ -478,41 +500,41 @@ Funcionários que exerçam funções de chefia de secção ... 500$00
 
 ### CAPÍTULO VI — Disposições Gerais
 
-###### Art. 59.º - 1. Até cento e oitenta dias, contados a partir da data de entrada em vigor do presente diploma, o director do Laboratório submeterá à aprovação do governador-geral o projecto do regulamento interno.
+Art. 59.º - 1. Até cento e oitenta dias, contados a partir da data de entrada em vigor do presente diploma, o director do Laboratório submeterá à aprovação do governador-geral o projecto do regulamento interno.
 
 2. O regulamento acima referido será revisto, pelo menos, de cinco em cinco anos.
 
-###### Art. 60.º O Laboratório poderá obter patentes das suas invenções e explorá-las do modo mais conveniente aos seus interesses.
+Art. 60.º O Laboratório poderá obter patentes das suas invenções e explorá-las do modo mais conveniente aos seus interesses.
 
-###### Art. 61.º A venda de patentes de invenção de aparelhagem desenvolvida no Laboratório e de publicações, a que se refere a alínea e) do artigo 30.º, poderá ser feita independentemente de quaisquer formalidades legais.
+Art. 61.º A venda de patentes de invenção de aparelhagem desenvolvida no Laboratório e de publicações, a que se refere a alínea e) do artigo 30.º, poderá ser feita independentemente de quaisquer formalidades legais.
 
-###### Art. 62.º O Laboratório pode, em termos fixados por despacho do governador-geral, instituir e manter obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas e que revistam o carácter acima referido.
+Art. 62.º O Laboratório pode, em termos fixados por despacho do governador-geral, instituir e manter obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas e que revistam o carácter acima referido.
 
-###### Art. 63.º Quando qualquer trabalho de natureza especial o imponha, poderá o horário dos funcionários que dele se ocupem ser fixado pelo director, de harmonia com as conveniências de serviço e sem prejuízo do cumprimento do número de horas de trabalho fixado por lei.
+Art. 63.º Quando qualquer trabalho de natureza especial o imponha, poderá o horário dos funcionários que dele se ocupem ser fixado pelo director, de harmonia com as conveniências de serviço e sem prejuízo do cumprimento do número de horas de trabalho fixado por lei.
 
-###### Art. 64.º O Laboratório promoverá o aperfeiçoamento do seu pessoal por todos os meios ao seu alcance, tais como subsídios para viagens, estágios, missões de estudo, participação em reuniões científicas e concessões de bolsas de estudo.
+Art. 64.º O Laboratório promoverá o aperfeiçoamento do seu pessoal por todos os meios ao seu alcance, tais como subsídios para viagens, estágios, missões de estudo, participação em reuniões científicas e concessões de bolsas de estudo.
 
 O Laboratório deverá ainda promover a organização de cursos de formação, de actualização ou de especialização de técnicos dos seus serviços ou a eles estranhos.
 
-###### Art. 65.º - 1. Os técnicos do Laboratório poderão ser encarregados de orientar cursos das suas especialidades ou de neles colaborar.
+Art. 65.º - 1. Os técnicos do Laboratório poderão ser encarregados de orientar cursos das suas especialidades ou de neles colaborar.
 
 2. Os cursos referidos no n.º 1 deste artigo subordinar-se-ão a programas e duração superiormente fixados.
 
-###### Art. 66.º O serviço extraordinário do pessoal do Laboratório imposto por trabalhos especiais que tenham de ser executados fora das horas de trabalho normais será remunerado nos termos previstos na lei ou compensado por dispensa de serviço normal com duração igual à do serviço extraordinário prestado.
+Art. 66.º O serviço extraordinário do pessoal do Laboratório imposto por trabalhos especiais que tenham de ser executados fora das horas de trabalho normais será remunerado nos termos previstos na lei ou compensado por dispensa de serviço normal com duração igual à do serviço extraordinário prestado.
 
-###### Art. 67.º Ao pessoal do Laboratório é proibido, salvo autorização expressa do director, divulgar as actividades do organismo e os resultados alcançados.
+Art. 67.º Ao pessoal do Laboratório é proibido, salvo autorização expressa do director, divulgar as actividades do organismo e os resultados alcançados.
 
-###### Art. 68.º O pessoal do Laboratório, quando no desempenho das suas funções, terá livre entrada nos estaleiros de obras e nos estabelecimentos das indústrias de materiais e elementos de construção, mediante exibição de cartão de identidade, em cujo verso se encontrará transcrita a presente disposição.
+Art. 68.º O pessoal do Laboratório, quando no desempenho das suas funções, terá livre entrada nos estaleiros de obras e nos estabelecimentos das indústrias de materiais e elementos de construção, mediante exibição de cartão de identidade, em cujo verso se encontrará transcrita a presente disposição.
 
-###### Art. 69.º O pessoal do Laboratório, quando no desempenho de actividades que ocasionem desgaste anormal dos seus artigos de vestuário ou que exijam calçado especial, terá direito à concessão de fatos de trabalho e de calçado adequados.
+Art. 69.º O pessoal do Laboratório, quando no desempenho de actividades que ocasionem desgaste anormal dos seus artigos de vestuário ou que exijam calçado especial, terá direito à concessão de fatos de trabalho e de calçado adequados.
 
-###### Art. 70.º O exercício de quaisquer funções de carácter permanente no Laboratório é incompatível com a gerência ou participação, a título particular e directamente ou por interposta pessoa, nas obras ou fornecimentos destinados ao Laboratório.
+Art. 70.º O exercício de quaisquer funções de carácter permanente no Laboratório é incompatível com a gerência ou participação, a título particular e directamente ou por interposta pessoa, nas obras ou fornecimentos destinados ao Laboratório.
 
-###### Art. 71.º É vedado ao pessoal do Laboratório o exercício de quaisquer actividades, a título particular, que possam comprometer real ou aparentemente a independência de acção ou de julgamento da instituição ou o seu prestígio.
+Art. 71.º É vedado ao pessoal do Laboratório o exercício de quaisquer actividades, a título particular, que possam comprometer real ou aparentemente a independência de acção ou de julgamento da instituição ou o seu prestígio.
 
-###### Art. 72.º O Laboratório poderá instituir prémios ou outras formas de recompensa, segundo normas a estabelecer no seu regulamento interno, destinados aos seus servidores que tenham contribuído de forma excepcional para o progresso e bom nome do organismo.
+Art. 72.º O Laboratório poderá instituir prémios ou outras formas de recompensa, segundo normas a estabelecer no seu regulamento interno, destinados aos seus servidores que tenham contribuído de forma excepcional para o progresso e bom nome do organismo.
 
-###### Art. 73.º - 1. Quando realizada directamente pelo Laboratório e se destine às suas actividades, a importação de aparelhos, instrumentos, utensílios, produtos químicos, automóveis e demais semoventes, sobresselentes e acessórios e quaisquer outros materiais, equipamentos ou artefactos de natureza semelhante será isenta de direitos e outras imposições aduaneiras.
+Art. 73.º - 1. Quando realizada directamente pelo Laboratório e se destine às suas actividades, a importação de aparelhos, instrumentos, utensílios, produtos químicos, automóveis e demais semoventes, sobresselentes e acessórios e quaisquer outros materiais, equipamentos ou artefactos de natureza semelhante será isenta de direitos e outras imposições aduaneiras.
 
 2. As mercadorias a que se refere o n.º 1 deste artigo terão preferência no despacho e poderão ser desembaraçadas pelas alfândegas, sem dependência de formalidades, mediante assinatura de termo de responsabilidade pelo director do Laboratório.
 
@@ -520,7 +542,7 @@ O Laboratório deverá ainda promover a organização de cursos de formação, d
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 74.º - 1. O pessoal dos diversos quadros do Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique transitará para os quadros do Laboratório de Engenharia de Moçambique, nas categorias que possui e sem dependência de quaisquer formalidades.
+Art. 74.º - 1. O pessoal dos diversos quadros do Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique transitará para os quadros do Laboratório de Engenharia de Moçambique, nas categorias que possui e sem dependência de quaisquer formalidades.
 
 2. Do disposto no n.º 1 deste artigo exceptua-se o pessoal dos quadros de nomeação e contratado do Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique abaixo mencionado, que será provido ou transitará para os quadros do Laboratório de Engenharia de Moçambique referidos neste diploma, sem interrupção de serviço, pela forma seguinte:
 
@@ -554,7 +576,7 @@ n) O desenhador de 1.ª classe do serviço de sondagens e fundações, para um d
 
 o) O chefe de secretaria, para o lugar de adjunto administrativo.
 
-###### Art. 75.º - 1. O pessoal assalariado fora do quadro poderá transitar, independentemente da sua idade e habilitações literárias, para lugares equivalentes aos que ocupa actualmente.
+Art. 75.º - 1. O pessoal assalariado fora do quadro poderá transitar, independentemente da sua idade e habilitações literárias, para lugares equivalentes aos que ocupa actualmente.
 
 2. Independentemente de proposta, transitarão para o quadro de contratados os seguintes agentes:
 
@@ -568,7 +590,7 @@ d) O olheiro com mais de cinco anos de serviço, para o lugar de ajudante de exp
 
 3. Ao primeiro concurso de promoção a terceiro-oficial poderão concorrer, independentemente das habilitações e idade, os escriturários e auxiliares de contabilidade com mais de um ano de serviço efectivo.
 
-###### Art. 76.º - 1. O pessoal contratado além do quadro, em comissão ordinária ou requisitado a outros serviços, poderá ser provido ou transitar para os quadros do Laboratório de Engenharia de Moçambique pela forma seguinte:
+Art. 76.º - 1. O pessoal contratado além do quadro, em comissão ordinária ou requisitado a outros serviços, poderá ser provido ou transitar para os quadros do Laboratório de Engenharia de Moçambique pela forma seguinte:
 
 a) O primeiro-oficial do quadro dos Serviços de Obras Públicas e Transportes, para o lugar de chefe de contabilidade;
 
@@ -586,23 +608,23 @@ f) O ajudante técnico, para o lugar de ajudante de experimentador de 3.ª class
 
 3. As transições a que se refere o n.º 1 deste artigo deverão ser requeridas pelos interessados no prazo de trinta dias, a partir da publicação do presente diploma no Boletim Oficial de Moçambique.
 
-###### Art. 77.º - 1. Aos concursos para obtenção de certificado de estágio para ajudante de experimentador poderão também apresentar-se os ajudantes técnicos.
+Art. 77.º - 1. Aos concursos para obtenção de certificado de estágio para ajudante de experimentador poderão também apresentar-se os ajudantes técnicos.
 
 2. Não será preenchido um número de lugares de ajudante de experimentador de 3.ª classe igual ao número de lugares de ajudante técnico.
 
 3. Se os ajudantes técnicos não requererem a admissão a concursos para obtenção de certificados de estágio para ajudante de experimentador no prazo de seis anos, a contar da data do presente diploma, poderão ser preenchidos os correspondentes lugares de ajudante de experimentador de 3.ª classe que forem deixados vagos, nos termos do número anterior.
 
-###### Art. 78.º O governador-geral fará publicar no Boletim Oficial, dentro de sessenta dias, contados da data do presente diploma, a relação do pessoal do Laboratório, com indicação dos lugares e situação em que ficar provido.
+Art. 78.º O governador-geral fará publicar no Boletim Oficial, dentro de sessenta dias, contados da data do presente diploma, a relação do pessoal do Laboratório, com indicação dos lugares e situação em que ficar provido.
 
-###### Art. 79.º Por portaria do Governo-Geral, a publicar no Boletim Oficial dentro de cento e oitenta dias, contados da data do presente diploma, deverão ser definidas quais as instalações e áreas de expansão a transitar para o património do Laboratório de Engenharia de Moçambique.
+Art. 79.º Por portaria do Governo-Geral, a publicar no Boletim Oficial dentro de cento e oitenta dias, contados da data do presente diploma, deverão ser definidas quais as instalações e áreas de expansão a transitar para o património do Laboratório de Engenharia de Moçambique.
 
-###### Art. 80.º O presente diploma entra imediatamente em vigor, considerando-se revogados a [Portaria n.º 19748](https://diariodarepublica.pt/dr/detalhe/portaria/19748-1963-194443), de 5 de Março de 1963, e os Diplomas Legislativos n.os 2442, de 11 de Janeiro de 1964, e 2490, de 6 de Junho de 1964.
+Art. 80.º O presente diploma entra imediatamente em vigor, considerando-se revogados a [Portaria n.º 19748](https://diariodarepublica.pt/dr/detalhe/portaria/19748-1963-194443), de 5 de Março de 1963, e os Diplomas Legislativos n.os 2442, de 11 de Janeiro de 1964, e 2490, de 6 de Junho de 1964.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Junho de 1970.**
+Promulgado em 1 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 23 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -610,6 +632,6 @@ Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
 Do QUADRO I ao QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/06/14400/08130820.pdf))](https://files.diariodarepublica.pt/1s/1970/06/14400/08130820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/06/14400/08130820.pdf)
 
 Ministério do Ultramar, 1 de Junho de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

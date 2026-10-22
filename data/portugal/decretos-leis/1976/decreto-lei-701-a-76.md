@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 229/1976, 1º Suplemento, Série I de 1976-09-29
   number: '229'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2238-(2) a 2238-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22901/00020008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-a-1976-223432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcd87d0b0394823b2b44c8bddb564e73c238dbf35892962b4fc493f1b770c2a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1bc6b6cd3e79f62e2c4ab9b2a0b5b23ccf9c0a6da98e87469c783766e42f539
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Definição de Competências
+- Descentralização
+- Freguesia
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:524039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278015:por
+  label: "Alterados os arts. 3º e 36º pelo DEC LEI.778-A/76.27.10.1976.MAI, DR.IS [252-Supl] de 27.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/778-a-1976-278015
+  date: '1976-10-27'
+- type: amended_by
+  target: pt:dre:408111:por
+  label: Ratificado pelo(a) Resolução n.º 4/76 - Diário da República n.º 286/1976, Série I de 1976-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/4-1976-408111
+  date: '1976-12-09'
+- type: corrected_by
+  target: pt:dre:398494:por
+  label: Rectificado pela DECL.DD8141.13.10.1976.PCM, DR.IS [240]Supl de 13.10.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-398494
+  date: '1976-10-13'
+- type: repealed_by
+  target: pt:dre:277277:por
+  label: "Revogados os arts. 1º, 3º, 4º, 6º a 14º, nº 2 do art. 15º e os arts. 16º a 21º, 23º a 30º, 32º, 34º a 41º e 44º\
+    \ a 51º, pela LEI.79/77.1977.10.25.AR, DR.IS [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/79-1977-277277
+  date: '1977-10-25'
+- type: repealed_by
+  target: pt:dre:524039:por
+  label: "Revogado, bem como todas as disposições que o alterou, pela LEI ORG.1/2001.14.08.2001.AR, DR.IS-A [188] de 14.08.2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2001-524039
+  date: '2001-08-14'
 article_structure:
   article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:44Z'
   warnings: []
   errors: []
 ---
@@ -524,8 +556,8 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 27 de Setembro de 1976.**
+Promulgado em 27 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

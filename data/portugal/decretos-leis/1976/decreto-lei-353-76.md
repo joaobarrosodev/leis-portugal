@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11200/10701072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1976-427833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d78ce01751e060dae8c3f12291b42420983eda4793ba5448216a43e4a550a10f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a53c81e6fdde99391d51ee958b6d040418839237fed1c8207214c31adbeb0a8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Comércio
+- Contribuições e Impostos
+- Equipamento Eletrónico
+- Indústria Electrónica
+- Licenciamento
+- RTP
+- TAXA de Televisão
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:56Z'
   warnings: []
   errors: []
 ---
@@ -111,41 +129,41 @@ Tudo para que, a partir de agora, o serviço nacional de televisão passe a mere
 
 Nestes termos, e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os fabricantes, montadores, importadores, vendedores grossistas e revendedores intermediários da cadeia de comercialização de receptores de televisão deverão preencher em quadruplicado, e assinar, um boletim contendo a identificação e o domicílio do alienante e do adquirente, e a relação das unidades transaccionadas, além de quaisquer outras menções constantes do despacho da administração da empresa pública Radiotelevisão Portuguesa, E. P., que aprovar o respectivo modelo.
+Artigo 1.º - 1. Os fabricantes, montadores, importadores, vendedores grossistas e revendedores intermediários da cadeia de comercialização de receptores de televisão deverão preencher em quadruplicado, e assinar, um boletim contendo a identificação e o domicílio do alienante e do adquirente, e a relação das unidades transaccionadas, além de quaisquer outras menções constantes do despacho da administração da empresa pública Radiotelevisão Portuguesa, E. P., que aprovar o respectivo modelo.
 
 2. Um dos exemplares assinado pelo alienante deve ser remetido, sob registo e com aviso de recepção, à administração da empresa pública mencionada no número antecedente até ao décimo dia do mês seguinte aquele a que as transacções disserem respeito. Dos restantes três exemplares um destina-se a ficar desde logo na posse do alienante e os dois restantes a serem enviados ao adquirente, que deverá devolver àquele um deles, devidamente assinado.
 
-###### Art. 2.º - 1. No termo da cadeia de comercialização dos receptores de televisão deverá o alienante obter do adquirente-utente o preenchimento e a assinatura de um boletim a solicitar a respectiva licença.
+Art. 2.º - 1. No termo da cadeia de comercialização dos receptores de televisão deverá o alienante obter do adquirente-utente o preenchimento e a assinatura de um boletim a solicitar a respectiva licença.
 
 2. Se o comprador-utente possuir a licença única prevista no artigo 16.º do [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Outubro de 1957, disso se fará menção em lugar apropriado do mesmo boletim, cujos requisitos, a aprovar também por despacho da administração da empresa pública Radiotelevisão Portuguesa, E. P., deverão conter nomeadamente o preço de aquisição do aparelho, a assinatura, a completa identificação e o domicílio do alienante e do adquirente e ainda, se for diferente, o local em que este tenciona usar o receptor ou receptores transaccionados.
 
 3. O boletim deverá ser preenchido e assinado em triplicado, destinando-se um dos exemplares a ficar na posse do alienante, outro a ser entregue ao adquirente e o terceiro a ser remetido, sob registo e com aviso de recepção, à administração da empresa pública mencionada no número antecedente até ao décimo dia do mês seguinte àquele em que as transacções tiverem ocorrido.
 
-###### Art. 3.º - 1. Qualquer falsa menção constante do exemplar dos boletins referidos nos artigos antecedentes que for remetido à Radiotelevisão Portuguesa faz incorrer o seu autor ou autores na correspondente responsabilidade penal e em responsabilidade civil igual ao dobro do montante das taxas de televisão cuja falta de cobrança causalmente determinar.
+Art. 3.º - 1. Qualquer falsa menção constante do exemplar dos boletins referidos nos artigos antecedentes que for remetido à Radiotelevisão Portuguesa faz incorrer o seu autor ou autores na correspondente responsabilidade penal e em responsabilidade civil igual ao dobro do montante das taxas de televisão cuja falta de cobrança causalmente determinar.
 
 2. Em igual responsabilidade civil, além da pena de multa de 2500$00 por cada unidade clandestinamente transaccionada, incorrerão os que venderem aparelhos receptores de televisão, nos termos dos artigos 1.º e 2.º, sem remeterem pontualmente à Radiotelevisão Portuguesa, devidamente preenchidos e assinados, os boletins aí previstos.
 
 3. Em caso de terceira ou ulteriores reincidências, poderá ainda, a requerimento da administração da Radiotelevisão Portuguesa, ser cassada ao vendedor faltoso a licença de comercialização de aparelhos receptores de televisão.
 
-###### Art. 4.º - 1. A taxa de televisão de aparelhos receptores acabados de adquirir é devida a partir do mês seguinte ao da remessa do boletim mencionado ao n.º 1 do artigo 2.º
+Art. 4.º - 1. A taxa de televisão de aparelhos receptores acabados de adquirir é devida a partir do mês seguinte ao da remessa do boletim mencionado ao n.º 1 do artigo 2.º
 
 2. A remessa pontual do boletim referido no número antecedente não isenta o comprador utente de um aparelho receptor de televisão da obrigação de avisar o funcionário do serviço de cobrança, mencionado no subsequente artigo 8.º, de que é possuidor de um novo aparelho.
 
-###### Art. 5.º - 1. Os receptores de televisão que actualmente se encontrem em situação ilegal, por falta ou desactualização de licença, poderão ser voluntariamente licenciados, a requerimento dos respectivos utentes, até 30 de Junho de 1976, hipótese em que serão consideradas amnistiadas as correspondentes contravenções e perdoadas as taxas em dívida, independentemente de qualquer formalidade.
+Art. 5.º - 1. Os receptores de televisão que actualmente se encontrem em situação ilegal, por falta ou desactualização de licença, poderão ser voluntariamente licenciados, a requerimento dos respectivos utentes, até 30 de Junho de 1976, hipótese em que serão consideradas amnistiadas as correspondentes contravenções e perdoadas as taxas em dívida, independentemente de qualquer formalidade.
 
 2. A data limite prevista no número antecedente poderá ser prorrogada por um máximo de três períodos de um mês cada, por despacho da administração da Radiotelevisão Portuguesa.
 
 2. A licença pode ser requerida por simples carta à administração da Radiotelevisão Portuguesa, endereçada a qualquer dos seus departamentos, ou remetida por intermédio de qualquer autoridade fiscal, policial ou administrativa, que a remeterá ao seu destino, ou ainda mediante simples revelação da posse de um aparelho clandestino ao funcionário do serviço de cobrança mencionado no subsequente artigo 8.º, que providenciará no sentido de facultar ao possuidor um boletim de requisição da licença, para preenchimento e assinatura, e de o fazer chegar ao seu destino.
 
-###### Art. 6.º - 1. O conhecimento, pela empresa pública Radiotelevisão Portuguesa, E. P., da existência não voluntariamente denunciada pelo seu proprietário, de um receptor de televisão, fará incorrer o mesmo proprietário na pena de multa de 2500$00 a 10000$00 por cada aparelho, consoante o grau de fortuna do infractor.
+Art. 6.º - 1. O conhecimento, pela empresa pública Radiotelevisão Portuguesa, E. P., da existência não voluntariamente denunciada pelo seu proprietário, de um receptor de televisão, fará incorrer o mesmo proprietário na pena de multa de 2500$00 a 10000$00 por cada aparelho, consoante o grau de fortuna do infractor.
 
 2. Para os efeitos do disposto no número antecedente presume-se, até prova em contrário, que o proprietário do aparelho é quem o possui ou detém.
 
-###### Art. 7.º - 1. Até 30 de Junho de 1976 é também facultado aos proprietários de receptores de televisão já licenciados o pagamento voluntário das taxas de televisão em atraso, independentemente de serem ou não objecto de processo de cobrança judicial, hipótese em que o pagamento de metade das quantias em dívida será considerado liberatório da dívida total, e fará extinguir o procedimento contravencional a que haja lugar, com isenção de custas.
+Art. 7.º - 1. Até 30 de Junho de 1976 é também facultado aos proprietários de receptores de televisão já licenciados o pagamento voluntário das taxas de televisão em atraso, independentemente de serem ou não objecto de processo de cobrança judicial, hipótese em que o pagamento de metade das quantias em dívida será considerado liberatório da dívida total, e fará extinguir o procedimento contravencional a que haja lugar, com isenção de custas.
 
 2. O pagamento poderá ser feito por depósito no processo, em mão do respectivo escrivão, ou directamente aos serviços competentes da Radiotelevisão Portuguesa, que providenciarão no sentido de dele darem conhecimento no respectivo processo.
 
-###### Art. 8.º - 1. A taxa de televisão é fixada para o território do continente em 480$00 e 540$00 por aparelho de televisão e por ano, consoante o preço de aquisição do aparelho tenha sido inferior a 10000$00 ou igual ou superior a este montante, mantendo-se em 360$00 a taxa aplicável ao território das ilhas adjacentes, e será paga em duodécimos mensais, iguais e sucessivos, a menos que o proprietário do aparelho receptor prefira pagá-la de uma só vez aquando do vencimento do primeiro duodécimo, devendo, neste caso, manifestar essa intenção ao cobrador ou à Radiotelevisão Portuguesa no mês de Dezembro do ano anterior ao do pagamento único.
+Art. 8.º - 1. A taxa de televisão é fixada para o território do continente em 480$00 e 540$00 por aparelho de televisão e por ano, consoante o preço de aquisição do aparelho tenha sido inferior a 10000$00 ou igual ou superior a este montante, mantendo-se em 360$00 a taxa aplicável ao território das ilhas adjacentes, e será paga em duodécimos mensais, iguais e sucessivos, a menos que o proprietário do aparelho receptor prefira pagá-la de uma só vez aquando do vencimento do primeiro duodécimo, devendo, neste caso, manifestar essa intenção ao cobrador ou à Radiotelevisão Portuguesa no mês de Dezembro do ano anterior ao do pagamento único.
 
 2. Aos aparelhos instalados no continente anteriormente à data da entrada em vigor deste diploma aplicar-se-á a taxa de 480$00, qualquer que tenha sido o seu preço de aquisição.
 
@@ -153,7 +171,7 @@ Nestes termos, e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea
 
 4. O sistema de cobrança instituído pelo presente artigo entrará em vigor na data que for determinada por despacho do Ministro da Comunicação Social, sob proposta da administração da empresa pública Radiotelevisão Portuguesa, E. P., relativamente aos aparelhos licenciados até essa data, e a partir do mês seguinte ao do licenciamento, inclusive, relativamente aos aparelhos posteriormente licenciados.
 
-###### Art. 9.º - 1. O não pagamento pontual de um dos duodécimos da nova taxa devida acarretará o vencimento jurídico imediato dos restantes duodécimos, para o efeito da sua cobrança coerciva, sendo a mesma exigível em dobro.
+Art. 9.º - 1. O não pagamento pontual de um dos duodécimos da nova taxa devida acarretará o vencimento jurídico imediato dos restantes duodécimos, para o efeito da sua cobrança coerciva, sendo a mesma exigível em dobro.
 
 2. O pagamento voluntário em dobro dos duodécimos cronologicamente vencidos e não pagos obstará à instauração ou ao prosseguimento da cobrança coerciva do montante correspondente ao dobro da taxa anual vencida, nos termos do número anterior, restabelecendo o direito ao pagamento prestacional em singelo dos duodécimos vincendos.
 
@@ -161,16 +179,16 @@ Nestes termos, e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea
 
 4. As quantias em dívida vencerão juros de mora à taxa anual de 10%.
 
-###### Art. 10.º - 1. A execução do disposto no presente diploma, nomeadamente no que se refere ao sistema de fiscalização do licenciamento de receptores e ao sistema de cobrança da taxa de televisão, será regulamentada, até onde se mostre necessário, por portaria conjunta dos Ministros das Finanças, da Indústria e Tecnologia e da Comunicação Social, nas penalidades correspondentes às normas regulamentares que venham a ser estabelecidas.
+Art. 10.º - 1. A execução do disposto no presente diploma, nomeadamente no que se refere ao sistema de fiscalização do licenciamento de receptores e ao sistema de cobrança da taxa de televisão, será regulamentada, até onde se mostre necessário, por portaria conjunta dos Ministros das Finanças, da Indústria e Tecnologia e da Comunicação Social, nas penalidades correspondentes às normas regulamentares que venham a ser estabelecidas.
 
-###### Art. 11.º Enquanto não entrar em plena execução o novo sistema de cobrança das taxas da Radiotelevisão Portuguesa previsto no presente diploma, poderá a administração daquela empresa, com o prévio acordo da Radiotelevisão Portuguesa, introduzir as alterações transitórias convenientes no actual sistema de cobrança, incluindo a cobrança das novas taxas pelo actual sistema de cobrança.
+Art. 11.º Enquanto não entrar em plena execução o novo sistema de cobrança das taxas da Radiotelevisão Portuguesa previsto no presente diploma, poderá a administração daquela empresa, com o prévio acordo da Radiotelevisão Portuguesa, introduzir as alterações transitórias convenientes no actual sistema de cobrança, incluindo a cobrança das novas taxas pelo actual sistema de cobrança.
 
-###### Art. 12.º O presente diploma entra em vigor na data da sua publicação.
+Art. 12.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António de Almeida Santos - Artur Eduardo Brochado dos Santos Silva.
 
-**Promulgado em 3 de Maio de 1976.**
+Promulgado em 3 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18100/19131916.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/666-1976-429790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36508ad9fae3e64f2f7a009c24c579c6df6dd907aca35bdcb43cc8cf7a9d9e19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9df8445b2f3c136f1d08b3361272ca5f305552083c21e7aaa76a5d6ad01de94b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Bragança
+- CASA PIA de Lisboa
+- Centro de Educação Especial
+- Conselho Administrativo
+- Conselho Diretivo
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral do Ensino Básico
+- Direcção Geral do Ensino Secundário
+- Educação Especial
+- Estabelecimento de Ensino
+- Évora
+- Instituto da Família e Acção Social
+- Instituto Jacob Rodrigues Pereira
+- Lisboa
+- Madeira.região Autónoma
+- Ministério da Educação e Investigação Científica
+- Porto
+- Presidente
+- Santa Casa da Misericórdia
+- Secretariado do Ensino Especial
+- Serviço Regional
+- Serviços Administrativos
+- Transferência de Serviços
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:171541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:20Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +158,11 @@ I
 
 Da criação
 
-###### Artigo 1.º - 1. criado no Ministério da Educação e Investigação Científica, ao abrigo do n.º 2 do artigo 2.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, o Secretariado do Ensino Especial, adiante designado por Secretariado.
+Artigo 1.º - 1. criado no Ministério da Educação e Investigação Científica, ao abrigo do n.º 2 do artigo 2.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, o Secretariado do Ensino Especial, adiante designado por Secretariado.
 
 2. O Secretariado destina-se a assegurar, transitoriamente, as finalidades educativas do Ministério da Educação e Investigação Científica, no que respeita ao ensino especial.
 
-###### Art. 2.º - 1. O Secretariado tem personalidade jurídica e goza de autonomia técnica e administrativa.
+Art. 2.º - 1. O Secretariado tem personalidade jurídica e goza de autonomia técnica e administrativa.
 
 2. A coordenação entre os Ministério da Educação e Investigação Científica e Ministério dos Assuntos Sociais será assegurada pela Comissão Permanente de Reabilitação, prevista no [Decreto-Lei n.º 474/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1973-412819), de 25 de Setembro.
 
@@ -122,7 +170,7 @@ II
 
 Das atribuições e competência
 
-###### Art. 3.º São atribuições do Secretariado:
+Art. 3.º São atribuições do Secretariado:
 
 a) Contribuir para a definição de uma política global e unitária no domínio da educação do ensino especial;
 
@@ -136,7 +184,7 @@ e) Estudar e propor a reclassificação do pessoal implicado, caso tal se venha 
 
 f) Acompanhar a preparação de pessoal técnico.
 
-###### Art. 4.º Para o exercício das suas atribuições, compete ao Secretariado:
+Art. 4.º Para o exercício das suas atribuições, compete ao Secretariado:
 
 a) Garantir a audição dos serviços interessados no ensino especial através de uma ampla estrutura de participação;
 
@@ -146,7 +194,7 @@ III
 
 Da estrutura e composição
 
-###### Art. 5.º O Secretariado é constituído pelos seguintes órgãos e serviços:
+Art. 5.º O Secretariado é constituído pelos seguintes órgãos e serviços:
 
 a) Conselho directivo;
 
@@ -160,7 +208,7 @@ e) Serviços regionais;
 
 f) Serviços administrativos.
 
-###### Art. 6.º - 1. O conselho directivo é constituído pelo presidente, pelo responsável por cada um dos serviços de coordenação a nível nacional, pelo responsável pelos serviços administrativos e pelo presidente do núcleo de reestruturação.
+Art. 6.º - 1. O conselho directivo é constituído pelo presidente, pelo responsável por cada um dos serviços de coordenação a nível nacional, pelo responsável pelos serviços administrativos e pelo presidente do núcleo de reestruturação.
 
 2. O núcleo de reestruturação é formado por cinco elementos, devendo um dos elementos ser professor do ensino especial.
 
@@ -202,7 +250,7 @@ l) Escolas do ensino especial funcionando junto dos centros de saúde mental inf
 
 6. Os serviços administrativos serão assegurados por pessoal a transitar do Ministério dos Assuntos Sociais e do Ministério da Educação e Investigação Científica, sem prejuízo do disposto no artigo 16.º
 
-###### Art. 7.º - 1. O presidente do conselho directivo é nomeado pelo Ministro da Educação e Investigação Científica, ouvido o Ministro dos Assuntos Sociais e os elementos que no conselho se integram automaticamente.
+Art. 7.º - 1. O presidente do conselho directivo é nomeado pelo Ministro da Educação e Investigação Científica, ouvido o Ministro dos Assuntos Sociais e os elementos que no conselho se integram automaticamente.
 
 2. O presidente, do núcleo de reestruturação é nomeado pelo Ministro da Educação e Investigação Científica, ouvidos os representantes dos trabalhadores dos serviços referidos no artigo anterior.
 
@@ -212,7 +260,7 @@ IV
 
 Das atribuições dos órgãos do Secretariado
 
-###### Art. 8.º São atribuições do conselho directivo:
+Art. 8.º São atribuições do conselho directivo:
 
 a) Articular a actividade dos serviços de coordenação a nível nacional;
 
@@ -222,11 +270,11 @@ c) Superintender na gestão administrativa do Secretariado;
 
 d) Assegurar as ligações necessárias com outros Ministérios e serviços.
 
-###### Art. 9.º - 1. As deliberações do conselho directivo serão tornadas por maioria, devendo o presidente do núcleo da reestruturação ser obrigatoriamente ouvido nas questões que digam respeito à reestruturação.
+Art. 9.º - 1. As deliberações do conselho directivo serão tornadas por maioria, devendo o presidente do núcleo da reestruturação ser obrigatoriamente ouvido nas questões que digam respeito à reestruturação.
 
 2. O conselho directivo pode delegar no seu presidente o exercício de quaisquer das suas atribuições, com excepção da referida na alínea b) do artigo anterior.
 
-###### Art. 10.º São atribuições do núcleo de reestruturação:
+Art. 10.º São atribuições do núcleo de reestruturação:
 
 a) Promover os estudos necessários para a reestruturação do ensino especial, através da dinamização dos restantes órgãos do Secretariado e do estabelecimento das ligações necessárias com outros Ministérios, entidades e serviços;
 
@@ -234,11 +282,11 @@ b) Recolher os dados provenientes de grupos de trabalho sobre a reestruturação
 
 c) Propor a reestruturação do ensino especial, garantindo em cada fase do trabalho uma efectiva participação de todos os interessados.
 
-###### Art. 11.º O núcleo de reestruturação deve tomar em consideração os problemas do pessoal técnico, administrativo e auxiliar, propondo medidas necessárias à sua integração em quadros de pessoal do Ministério da Educação e Investigação Científica e, designadamente, a criação de um quadro de professores do ensino especial.
+Art. 11.º O núcleo de reestruturação deve tomar em consideração os problemas do pessoal técnico, administrativo e auxiliar, propondo medidas necessárias à sua integração em quadros de pessoal do Ministério da Educação e Investigação Científica e, designadamente, a criação de um quadro de professores do ensino especial.
 
-###### Art. 12.º Os serviços de coordenação a nível nacional e os serviços regionais mantêm as competências que lhes estão atribuídas, bem como os serviços que deles dependem, em tudo o que não contrariar o disposto no presente diploma.
+Art. 12.º Os serviços de coordenação a nível nacional e os serviços regionais mantêm as competências que lhes estão atribuídas, bem como os serviços que deles dependem, em tudo o que não contrariar o disposto no presente diploma.
 
-###### Art. 13.º Passam para o Secretariado as atribuições e competências da Inspecção-Geral do Ensino Particular, no que respeita a estabelecimentos e instituições particulares de ensino especial, nomeadamente as seguintes:
+Art. 13.º Passam para o Secretariado as atribuições e competências da Inspecção-Geral do Ensino Particular, no que respeita a estabelecimentos e instituições particulares de ensino especial, nomeadamente as seguintes:
 
 a) Orientação pedagógica do ensino especial;
 
@@ -250,7 +298,7 @@ V
 
 Das transferências
 
-###### Art. 14.º - 1. São transferidos para o Secretariado:
+Art. 14.º - 1. São transferidos para o Secretariado:
 
 a) A Divisão de Integração Social de Menores Dificientes, referida no artigo 6.º;
 
@@ -266,7 +314,7 @@ VI
 
 Das receitas
 
-###### Art. 15.º - 1. Constituem receitas do Secretariado:
+Art. 15.º - 1. Constituem receitas do Secretariado:
 
 a) As dotações inscritas no Orçamento Geral do Estado afectas aos serviços indicados no artigo 6.º;
 
@@ -282,36 +330,36 @@ VII
 
 Disposições finais e transitórias
 
-###### Art. 16.º - 1. O Secretariado pode requisitar, mediante despacho ministerial, o pessoal necessário ao prosseguimento das atribuições que lhe são cometidas, depois de obtida a concordância do respectivo Ministro.
+Art. 16.º - 1. O Secretariado pode requisitar, mediante despacho ministerial, o pessoal necessário ao prosseguimento das atribuições que lhe são cometidas, depois de obtida a concordância do respectivo Ministro.
 
 2. O presidente do conselho directivo poderá propor superiormente a contratação de pessoas de reconhecido mérito para a execução de tarefas urgentes, sendo os encargos suportados pelas verbas que constituem dotação do Secretariado.
 
-###### Art. 17.º - 1. Depois de ouvidos os respectivos directores de serviços e os próprios interessados, são requisitados os funcionários do Ministério dos Assuntos Sociais afectos às acções de ensino especial, que constarão de lista assinada conjuntamente pelos Ministros dos Assuntos Sociais e da Educação e Investigação Científica, a publicar no prazo de trinta dias, a partir da data da publicação do presente diploma, mantendo os direitos e regalias adquiridos.
+Art. 17.º - 1. Depois de ouvidos os respectivos directores de serviços e os próprios interessados, são requisitados os funcionários do Ministério dos Assuntos Sociais afectos às acções de ensino especial, que constarão de lista assinada conjuntamente pelos Ministros dos Assuntos Sociais e da Educação e Investigação Científica, a publicar no prazo de trinta dias, a partir da data da publicação do presente diploma, mantendo os direitos e regalias adquiridos.
 
 2. O pessoal que presta funções no âmbito do ensino especial, integrado no Ministério da Educação e Investigação Científica, passará a ficar adstrito ao Secretariado, conforme lista a publicar e em termos idênticos aos referidos no número anterior.
 
-###### Art. 18.º O pessoal afecto aos centros de educação especial mantém os direitos e regalias de que goza actualmente.
+Art. 18.º O pessoal afecto aos centros de educação especial mantém os direitos e regalias de que goza actualmente.
 
-###### Art. 19.º São destacados para o Secretariado os funcionários dos serviços referidos nas alíneas b), c) e d) do n.º 4 do artigo 6.º, mantendo os mesmos direitos e regalias de que gozam actualmente.
+Art. 19.º São destacados para o Secretariado os funcionários dos serviços referidos nas alíneas b), c) e d) do n.º 4 do artigo 6.º, mantendo os mesmos direitos e regalias de que gozam actualmente.
 
-###### Art. 20.º Os acordos de cooperação celebrados entre o Instituto da Família e Acção Social e as instituições particulares de assistência relativos ao ensino especial são transferidos, com todos os seus direitos e obrigações, para o Secretariado, mantendo as finalidades que visavam.
+Art. 20.º Os acordos de cooperação celebrados entre o Instituto da Família e Acção Social e as instituições particulares de assistência relativos ao ensino especial são transferidos, com todos os seus direitos e obrigações, para o Secretariado, mantendo as finalidades que visavam.
 
-###### Art. 21.º - 1. O prazo de reestruturação do ensino especial será de nove meses, a contar da entrada em vigor do presente diploma. Este prazo poderá, todavia, ser prorrogado por mais três meses, por despacho conjunto dos Ministros da Educação e Investigação Científica e dos Assuntos Sociais.
+Art. 21.º - 1. O prazo de reestruturação do ensino especial será de nove meses, a contar da entrada em vigor do presente diploma. Este prazo poderá, todavia, ser prorrogado por mais três meses, por despacho conjunto dos Ministros da Educação e Investigação Científica e dos Assuntos Sociais.
 
 2. O Secretariado extinguir-se-á logo que seja aprovada a nova estrutura elaborada nos termos do artigo 10.º
 
-###### Art. 22.º - 1. Os encargos resultantes do presente diploma serão suportados pelas receitas referidas no artigo 15.º e ainda pelo capítulo 12.º do Orçamento Geral do Estado - Gabinete do Secretário de Estado - Secretariado do Ensino Especial - Despesas correntes.
+Art. 22.º - 1. Os encargos resultantes do presente diploma serão suportados pelas receitas referidas no artigo 15.º e ainda pelo capítulo 12.º do Orçamento Geral do Estado - Gabinete do Secretário de Estado - Secretariado do Ensino Especial - Despesas correntes.
 
 2. Fica o Ministério das Finanças autorizado a proceder às alterações orçamentais necessárias à execução do presente diploma.
 
-###### Art. 23.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro ou Ministros interessados, ouvidas as direcções dos serviços implicados.
+Art. 23.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro ou Ministros interessados, ouvidas as direcções dos serviços implicados.
 
-###### Art. 24.º Este decreto-lei entra em vigor à data da sua publicação.
+Art. 24.º Este decreto-lei entra em vigor à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

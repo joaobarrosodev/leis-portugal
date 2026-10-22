@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44650-1962-156469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be5b1a0e565b12baa041ab6b21770d5922a5ab4276dab14fed4d63282a5404c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb4506f30ea119ee9f18cd43958b9ae7dbea4940de0d3fe9d97dc1a17b8c3944
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contabilidade Pública
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Gestão Orçamental
+- Ministério da Educação Nacional
+- Ministério da Justiça
+- Ministério das Finanças
+- Ministério do Exército
+relationships:
+- type: cites
+  target: pt:dre:173359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:45Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +102,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública junto dos Ministérios abaixo designados a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos respectivos orçamentos do actual ano económico, as quantias seguintes:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública junto dos Ministérios abaixo designados a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos respectivos orçamentos do actual ano económico, as quantias seguintes:
 
 Ministério das Finanças
 
@@ -116,9 +132,9 @@ Ministério da Educação Nacional
 
 Despesas do ano de 1961, referentes ao consumo de energia eléctrica e a telefones, do Instituto Português de Oncologia e da Faculdade de Ciências da Universidade de Lisboa ... 58126$90
 
-###### Art. 2.º É autorizada a 10.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, pela verba consignada a despesas de anos económicos findos inscrita no orçamento vigente do Ministério da Educação Nacional, independentemente do cumprimento de quaisquer formalidades legais, a quantia de 750$00, referente a despesas com pessoal assalariado do Teatro Nacional de S. Carlos.
+Art. 2.º É autorizada a 10.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, pela verba consignada a despesas de anos económicos findos inscrita no orçamento vigente do Ministério da Educação Nacional, independentemente do cumprimento de quaisquer formalidades legais, a quantia de 750$00, referente a despesas com pessoal assalariado do Teatro Nacional de S. Carlos.
 
-###### Art. 3.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, pela verba consignada a despesas de anos económicos findos dos seus orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, pela verba consignada a despesas de anos económicos findos dos seus orçamentos privativos, os seguintes serviços:
 
 Instituto de Assistência Psiquiátrica
 
@@ -128,6 +144,6 @@ Junta Autónoma dos Portos de Sotavento do Algarve
 
 Despesas com dragagens efectuadas na barra do rio Guadiana nos anos de 1956 a 1960 ... 265487$30
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

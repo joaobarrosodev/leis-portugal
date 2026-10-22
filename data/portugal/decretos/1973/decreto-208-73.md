@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/208-1973-422029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcaff5683442662297aed5440b864bb31663935b11e26c66af64ab733773557f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b5d18acc9a1f1bb364a252f5d1ad8ce81c5e043f970abf880b011fe0130c18c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ARMA Biológica
+- ARMA Química
+- Armazenagem
+- Convenção
+- Desarmamento
+- Portugal
+- Produção
+- Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:21Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +95,15 @@ de 8 de Maio
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento das Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, assinada em Washington em 29 de Junho de 1972, cujos textos, em francês e na respectiva tradução em português, vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento das Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, assinada em Washington em 29 de Junho de 1972, cujos textos, em francês e na respectiva tradução em português, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 12 de Abril de 1973.**
+Assinado em 12 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO
 
@@ -125,7 +133,7 @@ Convencidos de que a consciência da humanidade reprovaria o emprego de tais mé
 
 Acordam no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Cada Estado Parte na presente Convenção compromete-se a nunca, e em nenhuma circunstância, desenvolver, produzir, armazenar, nem por qualquer forma adquirir ou conservar:
 
@@ -133,61 +141,61 @@ Cada Estado Parte na presente Convenção compromete-se a nunca, e em nenhuma ci
 
 2) Armas, equipamento ou vectores destinados ao emprego de tais agentes ou de toxinas com fins hostis ou em conflitos armados.
 
-ARTIGO II
+###### ARTIGO II
 
 Cada Estado Parte na presente Convenção compromete-se a destruir ou a desviar para fins pacíficos, tão depressa quanto possível e de qualquer modo nunca mais tarde do que nove meses depois da entrada em vigor da Convenção, todos os agentes, toxinas, armas, equipamentos e vectores referidos no artigo I da Convenção que se encontram na sua posse ou sob a sua jurisdição ou contrôle. Quando da execução das disposições do presente artigo, haverá que tomar todas as precauções necessárias para proteger as populações e o meio ambiente.
 
-ARTIGO III
+###### ARTIGO III
 
 Cada Estado Parte na presente Convenção compromete-se a não transferir, seja a quem for, nem directa nem indirectamente, qualquer dos agentes, toxinas, armas, equipamentos ou vectores referidos no artigo I da Convenção e a não ajudar, encorajar ou incitar, seja de que maneira for, um Estado, um grupo de Estados ou uma organização internacional a produzir ou a adquirir, por outra forma qualquer, qualquer dos ditos agentes, toxinas, armas, equipamentos ou vectores.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada Estado Parte na presente Convenção compromete-se a tomar, em conformidade com os processos previstos na sua Constituição, as medidas necessárias a interdizer e a impedir o desenvolvimento, a produção, o armazenamento, a aquisição ou a conservação dos agentes, das toxinas, das armas, do equipamento e dos vectores mencionados no artigo I da Convenção, no território do mesmo Estado, sob a sua jurisdição ou sob o seu contrôle, seja onde for.
 
-ARTIGO V
+###### ARTIGO V
 
 Os Estados Partes na presente Convenção comprometem-se a consultar-se e a cooperar entre si para solução de todos os problemas que possam surgir quanto ao objectivo da Convenção ou quanto à aplicação das suas disposições. As consultas e a cooperação previstas no presente artigo poderão igualmente ser empreendidas por meio de processos internacionais apropriados no quadro da Organização das Nações Unidas e em conformidade com a respectiva Carta.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1. Cada Estado Parte na presente Convenção que verifique agir outra Parte em violação das obrigações decorrentes das disposições da Convenção pode depor uma queixa perante o Conselho de Segurança das Nações Unidas. Essa queixa deve apresentar todas as provas possíveis do seu bem-fundado e incluir o pedido do respectivo exame pelo Conselho de Segurança.
 
 2. Cada Estado Parte na presente Convenção compromete-se a colaborar em qualquer investigação que o Conselho de Segurança possa empreender de harmonia com as disposições da Carta das Nações Unidas, na sequência de uma queixa recebida pelo mesmo Conselho. O Conselho de Segurança informará os Estados Partes na Convenção dos resultados da investigação.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Cada Estado Parte na presente Convenção compromete-se a fornecer assistência, ou a apoiá-la, de harmonia com a Carta das Nações Unidas, a qualquer das Partes na Convenção que a solicite, se o Conselho de Segurança decidir que a mesma Parte foi exposta a um perigo em consequência de uma violação da Convenção.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Nenhuma disposição da presente Convenção poderá ser interpretada no sentido de restringir ou de enfraquecer, seja de que maneira for, os compromissos que qualquer Estado haja assumido por força do Protocolo relativo à proibição do emprego na guerra de gases asfixiantes, tóxicos ou similares, e de meios bacteriológicos, assinado em Genebra a 17 de Junho de 1925.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Cada Estado Parte na presente Convenção afirma o reconhecido objectivo de uma interdição eficaz das armas químicas e, para esse fim, compromete-se a prosseguir, num espírito de boa vontade, negociações com vista ao alcance, em breve, de um acordo sobre medidas eficazes para a interdição dó respectivo desenvolvimento, produção e armazenamento e para a respectiva destruição, bem como sobre medidas apropriadas no tocante ao equipamento e aos vectores especialmente destinados ao fabrico ou ao uso de agentes químicos para fins de armamento.
 
-ARTIGO X
+###### ARTIGO X
 
 1. Os Estados Partes na presente Convenção comprometem-se a facilitar um intercâmbio tão vasto quanto possível de equipamento, materiais e informação científica e técnica, relacionados com a utilização de agentes bacteriológicos (biológicos) e de toxinas para fins pacíficos e têm o direito de participar nesse intercâmbio. As Partes na Convenção que estejam em medida de o fazer cooperarão também, dando, individualmente ou em comum com outros Estados ou organizações internacionais, o seu concurso à futura extensão e à aplicação das descobertas científicas no domínio da bacteriologia (biologia), com vista à prevenção das doenças ou a outros fins pacíficos.
 
 2. A presente Convenção será aplicada de modo a evitar todo o entrave ao desenvolvimento económico ou técnico dos Estados Partes na Convenção ou à cooperação internacional no domínio das actividades bacteriológicas (biológicas) pacificas, incluindo o intercâmbio internacional de agentes bacteriológicos (biológicos) e de toxinas, bem como de material para o desenvolvimento, o emprego ou a produção de agentes bacteriológicos (biológicos) e de toxinas destinados a fins pacíficos em conformidade com as disposições da Convenção.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Todo o Estado Parte pode propor emendas à presente Convenção. Essas emendas entrarão em vigor, em relação a todo o Estado Parte que as tiver aceite, desde a sua aceitação pela maioria dos Estados Partes na Convenção e, ulteriormente, em relação a cada um dos outros Estados Partes, na data em que cada um deles as tiver aceite.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Cinco anos depois da entrada em vigor da presente Convenção, ou antes dessa data se a maioria das Partes na mesma Convenção o solicitar apresentando aos Governos depositários uma proposta para o efeito, terá lugar em Genebra (Suíça) uma conferência dos Estados Partes na Convenção, a fim de examinar o funcionamento desta, com vista a assegurar-se de que estão a ter cumprimento os objectivos enunciados no preâmbulo e as disposições da Convenção, incluindo as relativas às negociações sobre as armas químicas. Nesse exame serão tidas em conta todas as novas realizações científicas e técnicas que tenham relação com a Convenção.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1. A presente Convenção fica estabelecida para duração ilimitada.
 
 2. Cada Estado Parte na presente Convenção tem, no exercício da sua soberania nacional, o direito de se retirar da Convenção, se considerar que acontecimentos extraordinários, relacionados com a matéria da Convenção, puseram em perigo os interesses superiores do país. Desse recesso deverá notificar os outros Estados Partes na Convenção e o Conselho de Segurança da Organização das Nações Unidas com uma antecedência de três meses. Na notificação indicará os acontecimentos extraordinários que considera terem posto em perigo os seus interesses superiores.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1. A presente Convenção está aberta à assinatura de todos os Estados. Todo o Estado que não tiver assinado a Convenção antes da sua entrada em vigor, de harmonia com o parágrafo 3 do presente artigo, poderá a ela aderir em qualquer altura.
 
@@ -201,7 +209,7 @@ ARTIGO XIV
 
 6. A presente Convenção será registada pelos Governos depositários em conformidade com o artigo 102.º da Carta das Nações Unidas.
 
-ARTIGO XV
+###### ARTIGO XV
 
 A presente Convenção, cujos textos inglês, russo, espanhol, francês e chinês fazem igualmente fé, será depositada nos arquivos dos Governos depositários.
 

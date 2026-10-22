@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48487-1968-272642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc0aa00caeec685d664eb2b287fbf27e23dcd162f60a38a8bf1a4afb658ceb89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 821cb08a74c9d04b5012f082a96a7f01eb47f37d3ff42e903affdd5793c8c290
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- AVAL do Estado
+- Caminhos de Ferro Portugueses
+- Despesas Públicas
+- Emissão de Títulos
+- Financiamento
+- Isenção Fiscal
+- Plano de Fomento
+relationships:
+- type: cites
+  target: pt:dre:215561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401694:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:00Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +108,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para facultar a execução de empreendimentos compreendidos no III Plano de Fomento, é a Companhia dos Caminhos de Ferro Portugueses, S. A. R. L., autorizada a emitir nos anos de 1968. a 1970, por séries, obrigações até ao limite de 930000 contos.
+Artigo 1.º Para facultar a execução de empreendimentos compreendidos no III Plano de Fomento, é a Companhia dos Caminhos de Ferro Portugueses, S. A. R. L., autorizada a emitir nos anos de 1968. a 1970, por séries, obrigações até ao limite de 930000 contos.
 
-###### Art. 2.º - 1. O valor de cada série será fixado, caso por caso, mediante portaria conjunta dos Ministros das Finanças e das Comunicações, sobre requerimento da Companhia, tendo em atenção o que anualmente for aprovado pelo Conselho de Ministros para os Assuntos Económicos, de harmonia com o disposto na base VI da [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967.
+Art. 2.º - 1. O valor de cada série será fixado, caso por caso, mediante portaria conjunta dos Ministros das Finanças e das Comunicações, sobre requerimento da Companhia, tendo em atenção o que anualmente for aprovado pelo Conselho de Ministros para os Assuntos Económicos, de harmonia com o disposto na base VI da [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967.
 
 2. Na mesma portaria se fixarão para cada série as condições de emissão não estabelecidas no presente diploma.
 
-###### Art. 3.º - 1. As obrigações a emitir gozarão do aval do Estado, nos termos do artigo 2.º do [Decreto-Lei n.º 39531](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39531-1954-215561), de 6 de Fevereiro de 1954.
+Art. 3.º - 1. As obrigações a emitir gozarão do aval do Estado, nos termos do artigo 2.º do [Decreto-Lei n.º 39531](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39531-1954-215561), de 6 de Fevereiro de 1954.
 
 2. Igualmente se concede às obrigações representativas deste empréstimo as isenções fiscais definidas pelo artigo 3.º do mesmo [Decreto-Lei n.º 39531](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39531-1954-215561).
 
-###### Art. 4.º A emissão das obrigações será feita por subscrição pública ou venda no mercado, podendo para tanto a Companhia realizar com instituições de crédito contratos para a sua colocação.
+Art. 4.º A emissão das obrigações será feita por subscrição pública ou venda no mercado, podendo para tanto a Companhia realizar com instituições de crédito contratos para a sua colocação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/424-1970-148831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 149e036fc1820f550a0e70b51343a6a8decc0165a99c3bc8cfe8aaba67c768f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5948e487c99e56c2c9cd6d4d0c68de772686829ce9b32468d9ffb5bb794e5074
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,40 @@ relationships:
   target: pt:dre:147990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681817:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:04Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +120,7 @@ Considerando o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 31.º, 35.º, 38.º, 46.º, 47.º, 48.º, 54.º e 55.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 31.º, 35.º, 38.º, 46.º, 47.º, 48.º, 54.º e 55.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### Artigo 7.º — Velocidades
 
@@ -128,7 +152,7 @@ Nas pontes, túneis e passagens de nível os animais, atrelados ou não, devem s
 
 3. Os veículos automóveis, além das restrições constantes do número anterior e da alínea b) do n.º 1 do artigo 24.º, estão sujeitos aos limites máximos de velocidade instantânea a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/20500/11841190.pdf))](https://files.diariodarepublica.pt/1s/1970/09/20500/11841190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/20500/11841190.pdf)
 
 As velocidades dos veículos articulados e dos automóveis pesados de mercadorias e mistos com reboque será a que corresponder ao peso bruto do conjunto.
 
@@ -492,16 +516,16 @@ Nos casos previstos nas alíneas d), f) e g) a apreensão manter-se-á até que 
 
 3. Das decisões do director-geral de Transportes Terrestres sobre a apreensão das licenças de condução cabe recurso para o Ministro das Comunicações, a interpor no prazo de dez dias, a contar da notificação ao interessado, que pode apresentar com o requerimento quaisquer documentos.
 
-**O Ministro pode ordenar as diligências que julgue necessárias para averiguar no processo de recurso a veracidade dos factos alegados pelo recorrente.**
+O Ministro pode ordenar as diligências que julgue necessárias para averiguar no processo de recurso a veracidade dos factos alegados pelo recorrente.
 
-###### Art. 2.º O Ministro das Comunicações poderá determinar, por portaria, a aplicação gradual do disposto no n.º 4 do artigo 35.º do Código da Estrada, aos veículos que nele se referem, tendo em atenção a data da respectiva matrícula.
+Art. 2.º O Ministro das Comunicações poderá determinar, por portaria, a aplicação gradual do disposto no n.º 4 do artigo 35.º do Código da Estrada, aos veículos que nele se referem, tendo em atenção a data da respectiva matrícula.
 
-###### Art. 3.º O presente diploma entra em vigor em 1 de Julho de 1971, salvo quanto às disposições relativas às habilitações necessárias para a passagem de cartas de condução de tractores, que entram imediatamente em vigor, e às disposições referentes aos condutores de veículos cuja classe estejam habilitados a conduzir há menos de um ano, que entram em vigor em 1 de Outubro de 1970.
+Art. 3.º O presente diploma entra em vigor em 1 de Julho de 1971, salvo quanto às disposições relativas às habilitações necessárias para a passagem de cartas de condução de tractores, que entram imediatamente em vigor, e às disposições referentes aos condutores de veículos cuja classe estejam habilitados a conduzir há menos de um ano, que entram em vigor em 1 de Outubro de 1970.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 25 de Agosto de 1970.**
+Promulgado em 25 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Setembro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

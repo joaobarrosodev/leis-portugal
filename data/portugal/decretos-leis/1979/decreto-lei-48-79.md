@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 59/1979, 2º Suplemento, Série I de 1979-03-12
   number: '59'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 402-(4) a 402-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/05902/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1979-289614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaca501d99b0d88d818a4736d43c8123967a2f681676478a3d86bf20802a7e60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a008ed96ecb416a89204d79565641f3f9cfa22450fdce9fea3674dc454c24b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Governo IV
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revoga, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:28Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +118,11 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Enquanto o Orçamento Geral do Estado não for alterado por força da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro, a transferência de verbas para as autarquias obedece ao regime previsto neste diploma.
+Artigo 1.º Enquanto o Orçamento Geral do Estado não for alterado por força da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro, a transferência de verbas para as autarquias obedece ao regime previsto neste diploma.
 
-###### Art. 2.º As transferências destinadas a despesas correntes das autarquias serão feitas utilizando as verbas afectas ao MAI por força do n.º 2 do artigo 2.º do [Decreto-Lei n.º 444/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1978-274055).
+Art. 2.º As transferências destinadas a despesas correntes das autarquias serão feitas utilizando as verbas afectas ao MAI por força do n.º 2 do artigo 2.º do [Decreto-Lei n.º 444/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1978-274055).
 
-###### Art. 3.º - 1 - Para o financiamento das suas despesas de capital, e durante o prazo referido no artigo 1.º, será posta à disposição das autarquias uma verba resultante das seguintes parcelas:
+Art. 3.º - 1 - Para o financiamento das suas despesas de capital, e durante o prazo referido no artigo 1.º, será posta à disposição das autarquias uma verba resultante das seguintes parcelas:
 
 a) A parte dos duodécimos fixados para os vários Ministérios pelo mapa anexo ao [Decreto-Lei n.º 444/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1978-274055), de 30 de Dezembro, destinada a transferências para as autarquias por comparticipações;
 
@@ -116,28 +132,28 @@ b) A parcela da verba inscrita a cargo do MAI no mapa anexo referido na alínea 
 
 3 - A utilização das verbas referidas no número anterior será autorizada por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
 
-###### Art. 4.º - 1 - Para execução do disposto na alínea a) do artigo anterior, as verbas disponíveis inscritas nos orçamentos dos diferentes Ministérios serão processadas e pagas pelos respectivos serviços a favor da Direcção-Geral do Tesouro e postas à disposição das autarquias locais através de listas a elaborar pelo MAI e remetidas àquela Direcção-Geral.
+Art. 4.º - 1 - Para execução do disposto na alínea a) do artigo anterior, as verbas disponíveis inscritas nos orçamentos dos diferentes Ministérios serão processadas e pagas pelos respectivos serviços a favor da Direcção-Geral do Tesouro e postas à disposição das autarquias locais através de listas a elaborar pelo MAI e remetidas àquela Direcção-Geral.
 
 2 - As transferências para despesas correntes e de capital já executadas por qualquer Ministério serão comunicadas ao MAI com indicação do quantitativo e da autarquia destinatária.
 
-###### Art. 5.º - 1 - Das verbas previstas na alínea a) do artigo 3.º, as destinadas à satisfação de compromissos assumidos em 1978 são postas à disposição das autarquias de acordo com um plano, por municípios, elaborado pelo MAI com base nos dados fornecidos pelos diversos Ministérios e relativos às obras já comparticipadas.
+Art. 5.º - 1 - Das verbas previstas na alínea a) do artigo 3.º, as destinadas à satisfação de compromissos assumidos em 1978 são postas à disposição das autarquias de acordo com um plano, por municípios, elaborado pelo MAI com base nos dados fornecidos pelos diversos Ministérios e relativos às obras já comparticipadas.
 
 2 - As restantes verbas previstas na alínea a) e as previstas na alínea b) do n.º 1 e do n.º 2 do artigo 3.º são distribuídas segundo os critérios previstos no n.º 2 do artigo 9.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532).
 
 3 - As verbas previstas nos artigos 2.º e 3.º são transferidas, por municípios, no âmbito do regime de duodécimos.
 
-###### Art. 6.º - 1 - As verbas transferidas para despesas correntes das autarquias serão deduzidas ao montante que as autarquias têm direito a receber por força da alínea b) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532).
+Art. 6.º - 1 - As verbas transferidas para despesas correntes das autarquias serão deduzidas ao montante que as autarquias têm direito a receber por força da alínea b) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532).
 
 2 - As verbas transferidas para despesas de capital das autarquias nos termos do n.º 1, alínea b), e do n.º 2 do artigo 3.º serão deduzidas na participação dos municípios no fundo de equilíbrio financeiro a que se refere a alínea c) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532).
 
-###### Art. 7.º As dúvidas resultantes da aplicação do presente decreto-lei serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
+Art. 7.º As dúvidas resultantes da aplicação do presente decreto-lei serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
 
-###### Art. 8.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
 
-**Promulgado em 12 de Março de 1979.**
+Promulgado em 12 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 134/1976, 2º Suplemento, Série I de 1976-06-08
   number: '134'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1280-(3) a 1280-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/13402/00030005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-a-1976-629458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ef4ea2b20a9b990d7dec5e52e94f37a5867aba0ad6fa4bc9867e3210fffa3b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1cd0faeac55212aa2f1f64ea56c5debe2e7e6447bf19ae23261f6fbfba504a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Voto
+- Eleição
+- Eleição Presidencial
+- Presidente da República
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306947:por
+  label: "Alterado o art. 70º do Dec Lei n.º 319-A/76, de 03-Mai, na redacção do presente diploma, pela LEI ORG.3/2010.15.12.2010.AR,\
+    \ DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2010-306947
+  date: '2010-12-15'
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Alterado, a partir de 18.08.2018, e nos termos do art. 11.º, o art. 70.º do Dec Lei 319-A/76, de 03-mai, na redação
+    do presente diploma, pelo(a) Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2018-116090196
+  date: '2018-08-17'
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:272251:por
+  label: Rectificado pela DECL.DD8969.18.06.1976.PCM, DR.IS [141]Supl de 18.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-272251
+  date: '1976-06-18'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:21Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +149,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É alterado o artigo 70.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio, que passa a ter a seguinte redacção:
+Artigo 1.º É alterado o artigo 70.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio, que passa a ter a seguinte redacção:
 
 ###### Artigo 70.º — (Exercício presencial do voto)
 
@@ -144,15 +169,15 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 8. Os nomes dos eleitores que votarem através de representantes constarão obrigatoriamente da acta das operações eleitorais.
 
-###### Art. 2.º Este diploma entra em vigor na data da publicação.
+Art. 2.º Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - António de Almeida Santos - Armando Bacelar.
 
-**Promulgado em 8 de Junho de 1976.**
+Promulgado em 8 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Telegrama
 
@@ -166,4 +191,4 @@ Delego em ... (nome completo do representante), recenseado nessa freguesia, exer
 
 Nota. - Não será considerada válida a nomeação de representante feita por telegrama com quaisquer outros elementos, nem por qualquer outra forma.
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.

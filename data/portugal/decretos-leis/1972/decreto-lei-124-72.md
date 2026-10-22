@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 92/1972, 1º Suplemento, Série I de 1972-04-19
   number: '92'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 438-(1) a 438-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/04/09201/00010041.pdf
 entry_into_force_dates: []
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1972-459182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e472f8a3f513bf0f2e2fe333db63ec5fa515a188b64c5561d8668fe1b92b45e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c1254e45c0df2cf31b975620f69d59e69e27baad57a9dcd70fb90168c5c80ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicação por Satélite
+- Comunicações
+- Conflito de LEIS
+- Convenção
+- Estatuto Jurídico
+- Intelsat
+- ONU
+- Portugal
+- Privilegios e Imunidades
+- Secretário Geral
+- Serviço Público
+- Washington
 relationships:
 - type: amended_by
   target: pt:dre:333366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469044:por
+  label: "Alterada a al f) do artº XVII do presente Acordo, pela alteração aprovada para ratificação, pelo DEC.17/97.1997.04.12.MNE,\
+    \ DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/17-1997-469044
+  date: '1997-04-12'
+- type: amended_by
+  target: pt:dre:641996:por
+  label: "Alterados os seguintes parágrafos: g) - do artº I b) - do artº II e) - do artº VIII a) - do artº IX d), e), f),\
+    \ g), K) e r) do artº XVI do presente acordo pelas alterações aprovadas para ratificação pelo DEC.43/97.1997.08.30.MNE,\
+    \ DR.IS-A [200]\0 [200]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43-1997-641996
+  date: '1997-08-30'
+- type: amended_by
+  target: pt:dre:604186:por
+  label: "Ratificadas as Emendas ao presente Acordo (aprovadas para ratificação pela Res 6/2005 de 15-Fev da AR) pelo DEC.11/2005.15.02.2005.PR,\
+    \ DR.IS-A [32] de 15.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2005-604186
+  date: '2005-02-15'
+- type: amended_by
+  target: pt:dre:333366:por
+  label: "Aprovada a emenda à sub. ii) da al. c) do art. xii do Acordo, pela RES.87/2010.05.08.2010.AR, DR.IS [151] de 05.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/87-2010-333366
+  date: '2010-08-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:14Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +128,15 @@ de 19 de Abril
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Relativo à Organização Internacional de Telecomunicações por Satélites (Intelsat), assinado em Washington em 20 de Agosto de 1971, cujos textos em inglês e na respectiva tradução em português vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo Relativo à Organização Internacional de Telecomunicações por Satélites (Intelsat), assinado em Washington em 20 de Agosto de 1971, cujos textos em inglês e na respectiva tradução em português vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches.
 
-**Promulgado em 28 de Março de 1972.**
+Promulgado em 28 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -2195,15 +2232,15 @@ h) O fornecimento pelo contratante dos serviços de gestão ao Conselho de Gover
 
 ## ANEXO C — Disposições relativas à resolução de litígios referidas no artigo XVIII do presente Acordo e no artigo 20 do Acordo de Exploração
 
-###### ARTIGO 1
+ARTIGO 1
 
 Os únicos litigantes em processos de arbitragem, instituídos nos termos do presente Anexo, serão os referidos no artigo XVIII do presente Acordo e no artigo 20 do Acordo e no artigo 20 do Acordo de Exploração, bem como no Anexo a este último Acordo.
 
-###### ARTIGO 2
+ARTIGO 2
 
 Um tribunal de arbitragem de três membros, devidamente constituído consoante as disposições do presente Anexo, será competente para dar uma sentença sobre qualquer litígio que possa surgir conforme o previsto no artigo XVIII do presente Acordo e no artigo 20 do Acordo de Exploração, bem como no Anexo a este último Acordo.
 
-###### ARTIGO 3
+ARTIGO 3
 
 a) Sessenta dias, o mais tardar, antes da data da abertura da primeira sessão ordinária da Assembleia de Partes, e de cada sessão ordinária subsequente daquela Assembleia, cada Parte pode apresentar ao órgão executivo os nomes de dois peritos jurídicos, no máximo, que ficarão disponíveis para servir como presidentes ou membros dos tribunais constituídos nos termos do presente Anexo, durante o período iniciado no fim da referida sessão e que termina no fim da sessão ordinária seguinte da Assembleia de Partes. Na base dos nomes assim apresentados, o órgão executivo preparará uma lista de todas as pessoas assim nomeadas e juntará a esta lista quaisquer dados biográficos apresentados pela Parte que as designou e distribuirá essa lista a todas as Partes o mais tardar trinta dias antes da data da abertura da sessão em causa. Se por qualquer motivo uma pessoa designada deixar de estar disponível para ser escolhida para o grupo de peritos durante um período de sessenta dias antes da data da abertura da sessão da Assembleia de Partes, a Parte que as apresentou pode, o mais tardar catorze dias antes da data da abertura da sessão da Assembleia de Partes, apresentar, em sua substituição, o nome de um outro perito jurídico.
 
@@ -2219,7 +2256,7 @@ f) Qualquer membro do grupo de peritos, ou o seu suplente, com assento num tribu
 
 g) Se, durante o período entre a data da entrada em vigor do presente Acordo e a constituição do primeiro grupo de peritos e dos seus suplentes, nos termos das disposições do parágrafo b) deste artigo, surgir um litígio de natureza jurídica entre as partes mencionadas no artigo 1 deste Anexo, o grupo constituído em conformidade com o parágrafo b) do artigo 3 do Acordo Suplementar sobre a Arbitragem, de 4 de Junho de 1965, será o grupo utilizado para a solução do litígio. Esse grupo actuará em conformidade com as disposições deste Anexo para os fins do artigo XVIII do presente Acordo, do artigo 20 do Acordo de Exploração e do Anexo a este último Acordo.
 
-###### ARTIGO 4
+ARTIGO 4
 
 a) Qualquer requerente que deseje submeter um litígio jurídico à arbitragem, deverá enviar a cada requerido e ao órgão executivo um documento que contenha:
 
@@ -2235,7 +2272,7 @@ v) O nome da pessoa designada pelo requerente para fazer parte do tribunal.
 
 b) O órgão executivo distribuirá, sem demora, a cada Parte e a cada Signatário, bem como ao presidente do grupo de peritos, um exemplar do documento fornecido em conformidade com o parágrafo a) deste artigo.
 
-###### ARTIGO 5
+ARTIGO 5
 
 a) Dentro do prazo de sessenta dias a contar da data da recepção das cópias do documento descrito no parágrafo a) do artigo 4 deste Anexo por todos os requeridos, a parte requerida designará uma pessoa para servir como membro do tribunal. Dentro daquele período, os requeridos podem, conjunta ou individualmente, enviar a cada parte e ao órgão executivo um documento que contenha as suas respostas ao documento referido no parágrafo a) do artigo 4 deste Anexo e incluindo as contestações que tenham surgido da matéria sujeita ao litígio. O órgão executivo fornecerá, sem demora, ao presidente do grupo de peritos um exemplar do referido documento.
 
@@ -2245,7 +2282,7 @@ c) Dentro do prazo de trinta dias após a designação dos dois membros do tribu
 
 d) O tribunal fica constituído logo que o presidente tenha sido escolhido.
 
-###### ARTIGO 6
+ARTIGO 6
 
 a) Quando se abrir uma vaga no tribunal por razões que o presidente ou os restantes membros do tribunal decidam não ter ocorrido por acção das partes, ou que sejam comparáveis com a condução apropriada do processo de arbitragem, a vaga será preenchida em conformidade com as seguintes disposições:
 
@@ -2255,7 +2292,7 @@ ii) Se a vaga tiver ocorrido como resultado da retirada do presidente do tribuna
 
 b) Se a vaga tiver ocorrido no tribunal por outras razões, além das estipuladas no parágrafo a) deste artigo, ou se a vaga aberta em conformidade com esse parágrafo não tiver sido preenchida, os restantes membros do tribunal, a pedido de uma das partes, terão o poder de continuar o processo e de dar a decisão final do tribunal, não obstante as disposições do artigo 2 do presente Anexo.
 
-###### ARTIGO 7
+ARTIGO 7
 
 a) O tribunal decidirá sobre a data e o local das suas sessões.
 
@@ -2281,29 +2318,29 @@ k) O tribunal comunicará a sua decisão ao órgão executivo, o qual a distribu
 
 l) O tribunal pode adoptar as regras processuais adicionais compatíveis com as estabelecidas no presente Anexo, e que sejam necessárias ao processo.
 
-###### ARTIGO 8
+ARTIGO 8
 
 Se uma parte faltar à apresentação do seu ponto de vista, a outra parte pode pedir ao tribunal para proferir uma sentença a seu favor. Antes de proferir a sua decisão, o tribunal assegurar-se-á de que tem competência e de que o assunto está bem fundamentado de facto e de direito.
 
-###### ARTIGO 9
+ARTIGO 9
 
 a) Qualquer Parte cujo Signatário designado é parte num litígio terá o direito de intervir e de se tornar parte adicional no litígio. A intervenção deverá ser notificada por escrito ao tribunal e às outras partes.
 
 b) Se qualquer outra Parte, outro Signatário ou a Intelsat considerar que tem um interesse substancial na decisão do litígio, pode solicitar ao tribunal autorização para intervir e tornar-se parte adicional no litígio. Se o tribunal determinar que o requerente tem um interesse substancial na decisão do litígio, ele deferirá a petição.
 
-###### ARTIGO 10
+ARTIGO 10
 
 Quer a pedido de uma parte, quer de sua própria iniciativa, o tribunal pode nomear os peritos que considere necessários para o coadjuvar.
 
-###### ARTIGO 11
+ARTIGO 11
 
 Cada Parte, cada Signatário e a Intelsat, quer a pedido de uma parte, quer por sua própria iniciativa, fornecerão todas as informações consideradas pelo tribunal como necessárias para a instrução e a resolução do litígio.
 
-###### ARTIGO 12
+ARTIGO 12
 
 No decurso do exame do processo, o tribunal pode, enquanto estiver pendente a decisão final, tomar quaisquer medidas provisórias que considere susceptíveis de proteger os respectivos direitos das partes.
 
-###### ARTIGO 13
+ARTIGO 13
 
 a) A decisão do tribunal deverá basear-se:
 
@@ -2315,7 +2352,7 @@ b) A decisão do tribunal, incluindo a que contenha o acordo das partes, nos ter
 
 c) No caso de desacordo sobre o significado ou o alcance da sentença, o tribunal interpretá-la-á a pedido de qualquer das partes.
 
-###### ARTIGO 14
+ARTIGO 14
 
 A não ser que o tribunal decida em contrário, devido a circunstâncias especiais do processo, as despesas do tribunal, incluindo a remuneração dos membros do tribunal, serão suportadas igualmente por cada parte. Se a um lado corresponder mais do que uma parte, os encargos desse lado serão rateados pelo tribunal entre as suas partes. Se a Intelsat for uma parte, as suas despesas relacionadas com a arbitragem serão consideradas como despesas administrativas da Intelsat para o efeito do artigo 8 do Acordo de Exploração.
 
@@ -2563,7 +2600,7 @@ Gunnar Haerum.
 
 Pelo Pasquistão:
 
-**Assinado sujeito a ratificação.**
+Assinado sujeito a ratificação.
 
 A. Hilaly.
 

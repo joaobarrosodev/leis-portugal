@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/00500/00260027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1981-570321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c3c7c1e7657cb74a5455c695be7828d9387a5af29427fa284f62fab5549af25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eabfbfb13360c8002508e3ddcdbe825e097efe4855275bf5a834aeaae1b98ed4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Investigação Científica e Tecnológica
+- Zona Económica Exclusiva
 relationships:
 - type: amended_by
   target: pt:dre:600345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600345:por
+  label: "Declarada a inconstitucionalidade pela RES.30/82.1982.01.27, DR.IS [35] de 11/Fev/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/30-1982-600345
+  date: '1982-01-27'
+- type: cites
+  target: pt:dre:252870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294550:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:31Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +111,13 @@ Considerando que se torna necessário definir as condições em que se podem efe
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A realização, tanto por entidades privadas nacionais como por outros Estados, entidades públicas ou privadas estrangeiras, ou organizações internacionais, de actividades de investigação científica marinha na zona económica exclusiva, abreviadamente designada neste diploma por ZEE, fica condicionada à autorização do Estado Português.
+Artigo 1.º A realização, tanto por entidades privadas nacionais como por outros Estados, entidades públicas ou privadas estrangeiras, ou organizações internacionais, de actividades de investigação científica marinha na zona económica exclusiva, abreviadamente designada neste diploma por ZEE, fica condicionada à autorização do Estado Português.
 
-###### Art. 2.º - 1 - A autorização referida no artigo anterior só será concedida desde que as actividades de investigação científica prossigam fins pacíficos, que os trabalhos sejam efectuados segundo métodos científicos e técnicos apropriados, que não sejam lesados os legítimos interesses públicos ou particulares e que seja assegurado o respeito pelas leis e regulamentos, incluindo os destinados a proteger e a preservar o meio ambiente aquático.
+Art. 2.º - 1 - A autorização referida no artigo anterior só será concedida desde que as actividades de investigação científica prossigam fins pacíficos, que os trabalhos sejam efectuados segundo métodos científicos e técnicos apropriados, que não sejam lesados os legítimos interesses públicos ou particulares e que seja assegurado o respeito pelas leis e regulamentos, incluindo os destinados a proteger e a preservar o meio ambiente aquático.
 
 2 - A autorização mencionada no artigo precedente não será concedida para áreas seleccionadas para fins de defesa nacional ou de reserva constituída para efeitos de protecção do meio ambiente.
 
-###### Art. 3.º Os Estados e as organizações internacionais, assim como as demais entidades não nacionais interessadas em realizar actividades de investigação científica marinha na ZEE, deverão entregar no Ministério dos Negócios Estrangeiros, até seis meses antes da data prevista para o início dos trabalhos, o pedido de autorização mencionado no artigo 1.º do qual deverão constar os seguintes elementos:
+Art. 3.º Os Estados e as organizações internacionais, assim como as demais entidades não nacionais interessadas em realizar actividades de investigação científica marinha na ZEE, deverão entregar no Ministério dos Negócios Estrangeiros, até seis meses antes da data prevista para o início dos trabalhos, o pedido de autorização mencionado no artigo 1.º do qual deverão constar os seguintes elementos:
 
 a) Índole e objecto das actividades;
 
@@ -116,9 +131,9 @@ e) A identificação da entidade responsável, do respectivo director e da pesso
 
 f) A indicação das disponibilidades existentes para a participação de cientistas ou técnicos portugueses.
 
-###### Art. 4.º As entidades privadas nacionais interessadas apresentarão no organismo competente, em razão do objecto das actividades a realizar, o pedido referido no artigo anterior, acompanhado dos elementos nele mencionados.
+Art. 4.º As entidades privadas nacionais interessadas apresentarão no organismo competente, em razão do objecto das actividades a realizar, o pedido referido no artigo anterior, acompanhado dos elementos nele mencionados.
 
-###### Art. 5.º A concessão da autorização referida neste diploma constitui o respectivo beneficiário na obrigação de fornecer ao Estado Português, e antes da sua divulgação, os seguintes elementos:
+Art. 5.º A concessão da autorização referida neste diploma constitui o respectivo beneficiário na obrigação de fornecer ao Estado Português, e antes da sua divulgação, os seguintes elementos:
 
 a) Dados processados;
 
@@ -128,20 +143,20 @@ c) Resultados finais;
 
 d) Conclusão dos trabalhos efectuados.
 
-###### Art. 6.º Em caso de desrespeito pelas condições a que devam obedecer as actividades de investigação científica marinha na ZEE cuja realização esteja autorizada, poderá o Estado Português determinar a sua imediata suspensão ou cessação definitiva, sem que à entidade beneficiária dessa autorização assista o direito a qualquer compensação pelos danos ou prejuízos daí resultantes.
+Art. 6.º Em caso de desrespeito pelas condições a que devam obedecer as actividades de investigação científica marinha na ZEE cuja realização esteja autorizada, poderá o Estado Português determinar a sua imediata suspensão ou cessação definitiva, sem que à entidade beneficiária dessa autorização assista o direito a qualquer compensação pelos danos ou prejuízos daí resultantes.
 
-###### Art. 7.º O presente diploma em nada afecta o estatuto jurídico da plataforma continental.
+Art. 7.º O presente diploma em nada afecta o estatuto jurídico da plataforma continental.
 
-###### Art. 8.º - 1 - As dúvidas que resultarem da execução do presente diploma serão resolvidas por portaria conjunta dos Ministros da Agricultura e Pescas e da Indústria e Energia.
+Art. 8.º - 1 - As dúvidas que resultarem da execução do presente diploma serão resolvidas por portaria conjunta dos Ministros da Agricultura e Pescas e da Indústria e Energia.
 
 2 - Se as dúvidas a esclarecer respeitarem à investigação arqueológica marinha, a portaria a que se refere o número precedente será também assinada pelo membro do Governo responsável pela área da Cultura.
 
-###### Art. 9.º O presente diploma entrará em vigor trinta dias após a data da sua publicação.
+Art. 9.º O presente diploma entrará em vigor trinta dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 29 de Dezembro de 1980.**
+Promulgado em 29 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

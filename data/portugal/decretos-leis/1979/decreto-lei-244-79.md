@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17000/16791687.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1979-381293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa1786415930d0f8fe5305632ee8e6197ce658f9b20444f340b6e02170544343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ced145e76c9e491b5394dc31c6e9193f3173639b173863add199a82f145a521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619705:por
+  label: "Transformada em sociedade anónima de capitais maioritáriamente públicos, a empresa pública Petroquimica e Gás de\
+    \ Portugal, E.P., criada pelo presente diploma, pelo DEC LEI.226/89.07.07.1989.MIE, DR.IS [154] de 07.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1989-619705
+  date: '1989-07-07'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:276624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:365297:por
+  label: Rectificado pela DECL.DD7121.03.10.1979.PCM, DR.IS [229] de 03.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-365297
+  date: '1979-10-03'
 article_structure:
   article_count: 52
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:31Z'
   warnings: []
   errors: []
 ---
@@ -106,29 +148,29 @@ A nova empresa resultante da fusão, cujos objectivos não colidem com os de out
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É instituída a empresa Petroquímica e Gás de Portugal, E. P., abreviadamente designada por «Empresa», a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas de direito privado.
+Artigo 1.º É instituída a empresa Petroquímica e Gás de Portugal, E. P., abreviadamente designada por «Empresa», a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas de direito privado.
 
-###### Art. 2.º - 1 - São transferidos para a Empresa, na data da entrada em vigor do presente diploma, as universalidades dos direitos e obrigações das empresas Petroquímica e Fibras Sintéticas, E. P. Petrofibras e EPG - Empresa de Petroquímica e Gás, E. P., a que se referem, respectivamente, o [Decreto-Lei n.º 842/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/842-1976-408107), de 9 de Dezembro, e o [Decreto-Lei n.º 529/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1977-276624), de 30 de Dezembro.
+Art. 2.º - 1 - São transferidos para a Empresa, na data da entrada em vigor do presente diploma, as universalidades dos direitos e obrigações das empresas Petroquímica e Fibras Sintéticas, E. P. Petrofibras e EPG - Empresa de Petroquímica e Gás, E. P., a que se referem, respectivamente, o [Decreto-Lei n.º 842/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/842-1976-408107), de 9 de Dezembro, e o [Decreto-Lei n.º 529/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1977-276624), de 30 de Dezembro.
 
 2 - As transmissões a que se refere o número anterior operam-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, inclusive os de registo.
 
-###### Art. 3.º Transitam para a Empresa, na data da entrada em vigor do presente diploma, e independentemente de quaisquer formalidades, os trabalhadores que se encontrem ao serviço das empresas referidas no n.º 1 do artigo anterior, com todos os direitos e obrigações que tenham em relação às respectivas empresas.
+Art. 3.º Transitam para a Empresa, na data da entrada em vigor do presente diploma, e independentemente de quaisquer formalidades, os trabalhadores que se encontrem ao serviço das empresas referidas no n.º 1 do artigo anterior, com todos os direitos e obrigações que tenham em relação às respectivas empresas.
 
-###### Art. 4.º São extintas, a partir da data da entrada em vigor do presente diploma, as empresas Petroquímica e Fibras Sintéticas, E. P. Petrofibras e EPG - Empresa de Petroquímica e Gás, E. P., referidas no n.º 1 do artigo 2.º
+Art. 4.º São extintas, a partir da data da entrada em vigor do presente diploma, as empresas Petroquímica e Fibras Sintéticas, E. P. Petrofibras e EPG - Empresa de Petroquímica e Gás, E. P., referidas no n.º 1 do artigo 2.º
 
-###### Art. 5.º O Ministério da Tutela da Petrogás será o Ministério da Indústria e Tecnologia.
+Art. 5.º O Ministério da Tutela da Petrogás será o Ministério da Indústria e Tecnologia.
 
-###### Art. 6.º As dúvidas que se suscitarem na aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e do Ministro ou Ministros competentes em razão da matéria.
+Art. 6.º As dúvidas que se suscitarem na aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e do Ministro ou Ministros competentes em razão da matéria.
 
-###### Art. 7.º Este diploma entra em vigor em 31 de Agosto de 1979.
+Art. 7.º Este diploma entra em vigor em 31 de Agosto de 1979.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Julho de 1979.**
+Promulgado em 5 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA EMPRESA PETROQUÍMICA E GÁS DE PORTUGAL, E. P.
 
@@ -174,7 +216,9 @@ O capital estatutário será fixado nos termos do [Decreto-Lei n.º 490/76](http
 
 ### CAPÍTULO II — Dos órgãos da Empresa
 
-#### SECÇÃO I — Artigo 7.º
+#### SECÇÃO I
+
+###### Artigo 7.º
 
 (Órgãos da Empresa)
 
@@ -636,4 +680,4 @@ Os trabalhadores da Empresa exercerão, através dos seus órgãos representativ
 
 A Empresa fica sujeita à tributação directa e indirecta, nos termos gerais do direito fiscal.
 
-**O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.

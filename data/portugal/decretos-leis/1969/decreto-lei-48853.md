@@ -49,36 +49,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48853-1969-526655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3d44d8938d6fee913e55214f876a3d261d70c37e79cdd66f4d9eabe57fa7efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ac4b92c8150d60eaefcec5e554874cc04cb1ce94accfe312bb0a1324823e7e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
+relationships:
+- type: cites
+  target: pt:dre:281448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545667:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:525264:por
+  label: Rectificado pela DECL.DD10648.06.03.1969.PC, DG.IS [55] de 06.03.1969
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1969-525264
+  date: '1969-03-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:20Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +102,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 52.º, 195.º, n.º 2, 258.º e 264.º do Código das Custas Judiciais, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 52.º, 195.º, n.º 2, 258.º e 264.º do Código das Custas Judiciais, passam a ter a seguinte redacção:
 
 ###### ARTIGO 52.º — (Limites do imposto de justiça e das custas)
 
@@ -139,13 +154,13 @@ e) Os subsídios ao Cofre Geral dos Tribunais que, sob proposta do conselho admi
 
 2. Observar-se-á o disposto no [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960, se as importâncias, incluindo os vencimentos, não puderem ser pagas por o interessado ter falecido.
 
-###### Art. 2.º As percentagens de remuneração global, líquida da contribuição industrial, a que aludem os artigos 4.º e 5.º do [Decreto-Lei n.º 44330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44330-1962-545667), de 8 de Maio de 1962, serão calculadas em cada mês, e o excesso que se apurar ficará retido até que se atinja o máximo anual fixado nas mesmas disposições.
+Art. 2.º As percentagens de remuneração global, líquida da contribuição industrial, a que aludem os artigos 4.º e 5.º do [Decreto-Lei n.º 44330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44330-1962-545667), de 8 de Maio de 1962, serão calculadas em cada mês, e o excesso que se apurar ficará retido até que se atinja o máximo anual fixado nas mesmas disposições.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio brito de Almeida Costa.
 
-**Promulgado em 24 de Janeiro de 1969.**
+Promulgado em 24 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

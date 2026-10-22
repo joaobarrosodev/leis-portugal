@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c534df2c297459b1fb4d7ec8875053c776414e283953d187458a5d854f45401e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcad5fe30a4f2ab57787084eb760b1c429e15c0f3236b28c83c11f94626fbcf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amortização
+- Aproveitamento Agrícola
+- Assistência Técnica
+- Comparticipação do Estado
+- Cooperativa Agrícola
+- Crédito Agrícola
+- Desenvolvimento Rural
+- Exploração Agrícola
+- Fundo de Melhoramentos Agrícolas
+- Grémios da Lavoura
+- Junta de Colonização Interna
+- Organismo Corporativo
+- Secretaria de Estado da Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:183021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163639:por
+  label: "Dada nova redacção aos arts. 1º e 2º, ao § 6º do art. 10º e ao art. 20º pelo DEC LEI.44534.21.08.1962.MECO, DG.IS\
+    \ [191] de 21.08.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44534-1962-163639
+  date: '1962-08-21'
+- type: amended_by
+  target: pt:dre:683780:por
+  label: "Elevado para 50 contos o limite estabelecido nos §§ 2.º e 3.º do art. 10º do presente diploma, pelo DEC LEI.45401.02.12.1963.MECO,\
+    \ DG.IS [282] de 02.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45401-1963-683780
+  date: '1963-12-02'
+- type: amended_by
+  target: pt:dre:215933:por
+  label: "Dada nova redacção à al. j) do art. 2º, aos §§ 1º, 2º 3º e 8º do art. 10º, ao corpo do art. 18º e seus §§ 2º e 3º,\
+    \ e aos arts. 20º e 34º e, revogado o § 2º do art. 22º pelo DEC LEI.49294.08.10.1969.MECO, DG.IS [236] de 08.10.1969\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49294-1969-215933
+  date: '1969-10-08'
+- type: amended_by
+  target: pt:dre:346076:por
+  label: "Alterado o artigo 1.º, os §§ 1.º, 2.º, 3.º e 4.º do artigo 10.º e o artigo 20.º, pelo DEC LEI.406-B/75.29.07.1975.MAP,\
+    \ DG.IS [173]Supl de 29.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-b-1975-346076
+  date: '1975-07-29'
+- type: cites
+  target: pt:dre:149426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424684:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:183021:por
+  label: "Revogadas as disposições do presente diploma que contrariem o DEC LEI.233/85.04.07.1985.MA, DR.IS [151] de 04.07.1985,\
+    \ pelo mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-1985-183021
+  date: '1985-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:45Z'
   warnings: []
   errors: []
 ---
@@ -139,9 +203,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A assistência técnica e financeira a prestar pelo Estado nos termos da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, visa a execução em propriedades rústicas de melhoramentos fundiários de reconhecido interesse económico e social que tenham por fim manter ou aumentar a capacidade produtiva da terra, facilitar a sua exploração ou valorizar os produtos agrícolas.
+Artigo 1.º A assistência técnica e financeira a prestar pelo Estado nos termos da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, visa a execução em propriedades rústicas de melhoramentos fundiários de reconhecido interesse económico e social que tenham por fim manter ou aumentar a capacidade produtiva da terra, facilitar a sua exploração ou valorizar os produtos agrícolas.
 
-###### Art. 2.º São especialmente considerados melhoramentos de reconhecido interesse económico e social os seguintes:
+Art. 2.º São especialmente considerados melhoramentos de reconhecido interesse económico e social os seguintes:
 
 a) Captação, elevação ou distribuição de águas, destinadas a rega ou abastecimento das explorações agrícolas;
 
@@ -187,15 +251,15 @@ u) Aquisição, pelo senhorio, das benfeitorias realizadas pelo rendeiro.
 
 § único. Para efeito do disposto na alíneas r), s) e t) do presente artigo, define-se como exploração familiar econòmicamente viável aquela que, dispondo de uma superfície na sua maior parte dominável pelo trabalho directo uma família-tipo, assegure o rendimento necessário a um razoável nível de vida, quando gerida com eficácia normal e considerando índices médios de produtividade.
 
-###### Art. 3.º A assistência técnica e financeira do Estado a que se refere o artigo 1.º deste decreto-lei será exercida pela Secretaria de Estado da Agricultura, por intermédio da Junta de Colonização Interna, sem prejuízo da competência, quanto a assistência daquela natureza, que pertence ou vem sendo executada por outros serviços do Estado ou pelos organismos corporativos e de coordenação económica.
+Art. 3.º A assistência técnica e financeira do Estado a que se refere o artigo 1.º deste decreto-lei será exercida pela Secretaria de Estado da Agricultura, por intermédio da Junta de Colonização Interna, sem prejuízo da competência, quanto a assistência daquela natureza, que pertence ou vem sendo executada por outros serviços do Estado ou pelos organismos corporativos e de coordenação económica.
 
 § 1.º Quando a assistência respeitar aos melhoramentos relativos a realização, exploração e conservação de obras hidroagrícolas de interesse local, incluindo as de melhoria de regadios antigos, se os mesmos tiverem carácter colectivo e forem requeridos nos termos do § 4.º do artigo 5.º ou se forem considerados de levar a efeito por iniciativa do Estado, nos termos do artigo 8.º, os processos serão transferidos para a Direcção-Geral dos Serviços Hidráulicos, que lhes prestará a assistência prevista nas suas leis orgânicas.
 
 § 2.º O disposto no parágrafo anterior não terá, porém, aplicação quando à Direcção-Geral dos Serviços Hidráulicos não for possível incluir os melhoramentos nele referidos nos seus planos de trabalho, com a oportunidade requerida pela execução conjugada desses e outros melhoramentos que, no seu conjunto, se revistam de especial interesse económico-social.
 
-###### Art. 4.º À Junta de Colonização Interna compete ainda, com base nos elementos que já possui e nos que venha a obter por via de inquéritos a realizar, proceder ao estudo ordenado, por zonas, dos melhoramentos fundiários manifestamente reprodutivos e que mais se imponham pelo seu carácter económico e social.
+Art. 4.º À Junta de Colonização Interna compete ainda, com base nos elementos que já possui e nos que venha a obter por via de inquéritos a realizar, proceder ao estudo ordenado, por zonas, dos melhoramentos fundiários manifestamente reprodutivos e que mais se imponham pelo seu carácter económico e social.
 
-###### Art. 5.º A assistência técnica ou financeira do Estado para a execução de melhoramentos agrícolas deverá ser requerida ao presidente da Junta de Colonização Interna por um ou mais interessados, conforme o melhoramento a realizar seja de interesse individual ou colectivo.
+Art. 5.º A assistência técnica ou financeira do Estado para a execução de melhoramentos agrícolas deverá ser requerida ao presidente da Junta de Colonização Interna por um ou mais interessados, conforme o melhoramento a realizar seja de interesse individual ou colectivo.
 
 § 1.º A assistência poderá, igualmente, ser requerida por intermédio do grémio da lavoura a que pertença um, pelo menos, dos interessados.
 
@@ -211,11 +275,11 @@ u) Aquisição, pelo senhorio, das benfeitorias realizadas pelo rendeiro.
 
 § 7.º A importância das indemnizações será incluída no custo das obras.
 
-###### Art. 6.º Os pedidos de assistência técnica ou financeira serão feitos em impressos fornecidos pela Junta de Colonização Interna e podem ser entregues ao delegado da Junta na região agrícola da situação do prédio a beneficiar ou na sede dos grémios da lavoura.
+Art. 6.º Os pedidos de assistência técnica ou financeira serão feitos em impressos fornecidos pela Junta de Colonização Interna e podem ser entregues ao delegado da Junta na região agrícola da situação do prédio a beneficiar ou na sede dos grémios da lavoura.
 
-###### Art. 7.º No caso previsto no § 1.º do artigo 5.º deve o grémio da lavoura elaborar os pedidos de assistência técnica e financeira em nome dos interessados, observando-se o disposto nos artigos 9.º e 12.º deste decreto-lei, bem como promover a instrução dos pedidos de harmonia com o preceituado no artigo 13.º
+Art. 7.º No caso previsto no § 1.º do artigo 5.º deve o grémio da lavoura elaborar os pedidos de assistência técnica e financeira em nome dos interessados, observando-se o disposto nos artigos 9.º e 12.º deste decreto-lei, bem como promover a instrução dos pedidos de harmonia com o preceituado no artigo 13.º
 
-###### Art. 8.º Sem prejuízo do disposto nos §§ 1.º e 2.º do artigo 3.º, a assistência técnica será prestada gratuitamente aos produtores agrícolas, cooperativas de produtores e grémios da lavoura e consistirá, essencialmente, na orientação dos interessados quanto à concepção e execução dos melhoramentos a que se refere o artigo 2.º e no fornecimento dos respectivos projectos-tipo.
+Art. 8.º Sem prejuízo do disposto nos §§ 1.º e 2.º do artigo 3.º, a assistência técnica será prestada gratuitamente aos produtores agrícolas, cooperativas de produtores e grémios da lavoura e consistirá, essencialmente, na orientação dos interessados quanto à concepção e execução dos melhoramentos a que se refere o artigo 2.º e no fornecimento dos respectivos projectos-tipo.
 
 § 1.º No caso de as obras interessarem a um conjunto de agricultores, sempre que não se verifique acordo entre todos os beneficiários, e a obra seja de reconhecido interesse económico-social, a Junta de Colonização Interna tomará a iniciativa da execução das obras que serão custeadas por força das disponibilidades existentes no Fundo de Melhoramentos Agrícolas e na verba referida no § 6.º do artigo 10.º deste diploma.
 
@@ -223,7 +287,7 @@ u) Aquisição, pelo senhorio, das benfeitorias realizadas pelo rendeiro.
 
 § 3.º A execução dos estudos, trabalhos e obras previstos no § 1.º deverá reger-se em tudo o que respeita a ocupação, trânsito, desvio de águas e vias de comunicação pelo disposto na legislação respeitante às obras de fomento hidroagrícola, ou qualquer que for aplicável.
 
-###### Art. 9.º Os pedidos de assistência técnica serão assinados pelos interessados, ou a seu rogo, ou ainda pelos seus representantes legais, ou a rogo destes, e neles deve indicar-se:
+Art. 9.º Os pedidos de assistência técnica serão assinados pelos interessados, ou a seu rogo, ou ainda pelos seus representantes legais, ou a rogo destes, e neles deve indicar-se:
 
 a) A natureza do melhoramento a realizar;
 
@@ -235,7 +299,7 @@ d) Os recursos em dinheiro, materiais e mão-de-obra de que o peticionário disp
 
 e) Outros quaisquer elementos ou informações convenientes à apreciação do pedido.
 
-###### Art. 10.º A assistência financeira consistirá na concessão de empréstimos amortizáveis e de comparticipações não reembolsáveis e destinar-se-á exclusivamente à execução das obras e melhoramentos aprovados pelo Secretário de Estado da Agricultura, sobre proposta da Junta de Colonização Interna.
+Art. 10.º A assistência financeira consistirá na concessão de empréstimos amortizáveis e de comparticipações não reembolsáveis e destinar-se-á exclusivamente à execução das obras e melhoramentos aprovados pelo Secretário de Estado da Agricultura, sobre proposta da Junta de Colonização Interna.
 
 § 1.º Os empréstimos de importância superior a 20 contos só podem ser concedidos com garantia hipotecária, e, no caso de organismos corporativos da agricultura, cooperativas agrícolas, autarquias locais e agremiações de proprietários, com consignação de receitas e penhor, sendo neste último caso aplicável o regime estabelecido no artigo 1.º e seus parágrafos do [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939.
 
@@ -263,7 +327,7 @@ c) Obras de electrificação ligadas às explorações agrícolas.
 
 § 10.º Excepcionalmente, podem ser concedidas comparticipações individuais até ao máximo de 50 por cento para os melhoramentos com vincado interesse social ou cujos resultados económicos se verificam a longo prazo, nomeadamente os destinados a facilitar o problema da habitação dos pequenos agricultores e assalariados rurais, quando requeridos pelos próprios, ou para reparação dos estragos provocados pelas intempéries nas propriedades rústicas.
 
-###### Art. 11.º Os empréstimos só podem ser concedidos:
+Art. 11.º Os empréstimos só podem ser concedidos:
 
 a) Aos proprietários e co-proprietários;
 
@@ -279,7 +343,7 @@ f) Aos organismos corporativos da agricultura e às autarquiuas locais ou associ
 
 g) Aos rendeiros que demonstrem, por documento autêntico, estarem autorizados por quem de direito a realizar as benfeitorias para que solicitam assistência financeira.
 
-###### Art. 12.º Os pedidos de assistência financeira subscritos pelas entidades mencionadas no artigo anterior, ou a seu rogo, ou ainda pelos seus representantes legais, ou a rogo destes, devem, além dos elementos referidos no artigo 9.º, conter mais os seguintes:
+Art. 12.º Os pedidos de assistência financeira subscritos pelas entidades mencionadas no artigo anterior, ou a seu rogo, ou ainda pelos seus representantes legais, ou a rogo destes, devem, além dos elementos referidos no artigo 9.º, conter mais os seguintes:
 
 a) O prazo previsto para a execução da obra ou melhoramentos;
 
@@ -297,7 +361,7 @@ f) O montante da comparticipação do Estado na realização da obra, quando aqu
 
 § 2.º No caso previsto na alínea c) do artigo precedente o pedido de assistência financeira terá de ser subscrito pelo proprietário da raiz e pelo usufrutuário conjuntamente.
 
-###### Art. 13.º Os pedidos de assistência financeira serão obrigatòriamente instruídos com:
+Art. 13.º Os pedidos de assistência financeira serão obrigatòriamente instruídos com:
 
 a) Memória descritiva e justificativa da obra ou melhoramento e respectiva estimativa orçamental;
 
@@ -311,13 +375,13 @@ c) Títulos de licença exigidos por lei para as obras a realizar.
 
 § 3.º O registo de mera posse será feito em face de sentença com trânsito em julgado que mostre haver-se cumprido o disposto no artigo 524.º do Código Civil, seguindo-se sempre à acção respectiva os termos do processo sumário.
 
-###### Art. 14.º A Junta de Colonização Interna submeterá à apreciação do Secretário de Estado da Agricultura, depois de devidamente informados, os pedidos de assistência financeira que lhe forem dirigidos, segundo a ordem de precedência por ela estabelecida em cada ano económico, tendo em atenção a urgência ou o maior interesse social dos melhoramentos.
+Art. 14.º A Junta de Colonização Interna submeterá à apreciação do Secretário de Estado da Agricultura, depois de devidamente informados, os pedidos de assistência financeira que lhe forem dirigidos, segundo a ordem de precedência por ela estabelecida em cada ano económico, tendo em atenção a urgência ou o maior interesse social dos melhoramentos.
 
-###### Art. 15.º A Junta poderá averiguar da exactidão das declarações prestadas pelos requerentes, bem como colher todos os esclarecimentos complementares que reputar convenientes, efectuando as inspecções, exames vistorias e avaliações necessárias a estes fins.
+Art. 15.º A Junta poderá averiguar da exactidão das declarações prestadas pelos requerentes, bem como colher todos os esclarecimentos complementares que reputar convenientes, efectuando as inspecções, exames vistorias e avaliações necessárias a estes fins.
 
-###### Art. 16.º Antes de informar o pedido de assistência financeira e de o submeter à aprovação do Secretário de Estado da Agricultura, poderá a Junta de Colonização Interna, sempre que julgue conveniente, sugerir aos requerentes a alteração, redução ou ampliação da proposta de melhoramento e consequente modificação do empréstimo pedido.
+Art. 16.º Antes de informar o pedido de assistência financeira e de o submeter à aprovação do Secretário de Estado da Agricultura, poderá a Junta de Colonização Interna, sempre que julgue conveniente, sugerir aos requerentes a alteração, redução ou ampliação da proposta de melhoramento e consequente modificação do empréstimo pedido.
 
-###### Art. 17.º Os contratos de empréstimo serão celebrados nas condições e com as cláusulas aprovadas pelo Secretário de Estado da Agricultura, para o que a informação da Junta de Colonização Interna acerca dos pedidos de assistência financeira incidirá, além do mais, sobre o seguinte:
+Art. 17.º Os contratos de empréstimo serão celebrados nas condições e com as cláusulas aprovadas pelo Secretário de Estado da Agricultura, para o que a informação da Junta de Colonização Interna acerca dos pedidos de assistência financeira incidirá, além do mais, sobre o seguinte:
 
 1.º Interesse do melhoramento ou obra a que se destina o empréstimo;
 
@@ -335,35 +399,35 @@ c) Títulos de licença exigidos por lei para as obras a realizar.
 
 8.º Prazo em que as mesmas devem ficar concluídas.
 
-###### Art. 18.º O montante do empréstimo não poderá ser superior a 90 por cento do custo orçamentado para a execução do melhoramento, nem o prazo de amortização poderá exceder 30 anos.
+Art. 18.º O montante do empréstimo não poderá ser superior a 90 por cento do custo orçamentado para a execução do melhoramento, nem o prazo de amortização poderá exceder 30 anos.
 
 § 1.º Este prazo será estabelecido para cada caso, considerando o interesse económico e social do melhoramento, as importâncias a despender e os recursos dos interessados.
 
 § 2.º O prazo de amortização para os empréstimos com garantia pessoal não poderá exceder cinco anos, nem ultrapassar, quando concedidos a rendeiros, a duração do arrendamento.
 
-###### Art. 19.º O capital mutuado poderá ser entregue ao mutuário de uma só vez ou em prestações, conforme a natureza ou o custo do melhoramento.
+Art. 19.º O capital mutuado poderá ser entregue ao mutuário de uma só vez ou em prestações, conforme a natureza ou o custo do melhoramento.
 
-###### Art. 20.º Durante o período da amortização, que terá início dois anos após a conclusão do melhoramento para que o empréstimo foi destinado, será devido juro à taxa de 2 por cento e por ano, sendo fixado para 31 de Janeiro o vencimento das anuidades constantes para pagamento de capital e juro.
+Art. 20.º Durante o período da amortização, que terá início dois anos após a conclusão do melhoramento para que o empréstimo foi destinado, será devido juro à taxa de 2 por cento e por ano, sendo fixado para 31 de Janeiro o vencimento das anuidades constantes para pagamento de capital e juro.
 
 § único. Contam-se como ano completo os meses que decorrerem da data da conclusão do melhoramento até ao começo do ano seguinte.
 
-###### Art. 21.º Sobre as anuidades vencidas e não pagas incidirão juros, contados à mesma taxa do empréstimo.
+Art. 21.º Sobre as anuidades vencidas e não pagas incidirão juros, contados à mesma taxa do empréstimo.
 
-###### Art. 22.º Ao devedor fica assegurado o direito de antecipar todas ou algumas das anuidades, sempre com referência ao primeiro vencimento seguinte e mediante aviso prévio, feito por escrito à entidade credora, até 31 de Dezembro de cada ano para as antecipações parciais.
+Art. 22.º Ao devedor fica assegurado o direito de antecipar todas ou algumas das anuidades, sempre com referência ao primeiro vencimento seguinte e mediante aviso prévio, feito por escrito à entidade credora, até 31 de Dezembro de cada ano para as antecipações parciais.
 
 § 1.º Nas antecipações totais serão cobrados juros apenas sobre o capital em dívida até ao fim do mês em que foi feita a antecipação.
 
 § 2.º Nos casos de antecipação será concedido um bónus ao devedor igual à diferença entre os valores actuais das anuidades, calculadas à taxa de 2 por cento e 3 por cento.
 
-###### Art. 23.º A Junta de Colonização Interna comunicará por escrito aos requerentes da assistência financeira os termos do despacho do Secretário de Estado da Agricultura que recair sobre a informação referida no artigo 17.º, bem como, no caso de aprovação do pedido, lhes indicará pormenorizadamente as condições em que os empréstimos se hão-de efectuar.
+Art. 23.º A Junta de Colonização Interna comunicará por escrito aos requerentes da assistência financeira os termos do despacho do Secretário de Estado da Agricultura que recair sobre a informação referida no artigo 17.º, bem como, no caso de aprovação do pedido, lhes indicará pormenorizadamente as condições em que os empréstimos se hão-de efectuar.
 
-###### Art. 24.º Os contratos de empréstimo constarão de título particular, em duplicado, com as assinaturas dos mutuários feitas na presença do notário, o que este certificará no reconhecimento, ou, não podendo ou não sabendo eles escrever, assinados a rogo, na presença do notário, que certificará o rogo e a identidade dos rogantes.
+Art. 24.º Os contratos de empréstimo constarão de título particular, em duplicado, com as assinaturas dos mutuários feitas na presença do notário, o que este certificará no reconhecimento, ou, não podendo ou não sabendo eles escrever, assinados a rogo, na presença do notário, que certificará o rogo e a identidade dos rogantes.
 
 § 1.º Se o mutuário for casado, deverá a mulher obrigar-se conjuntamente no contrato.
 
 § 2.º Os títulos referidos no corpo do artigo têm a natureza e são, para todos os efeitos, considerados títulos exequíveis, com força de escritura pública.
 
-###### Art. 25.º O crédito resultante dos empréstimos constitui ónus real de hipoteca sobre o prédio ou prédios que forem identificados nos respectivos contratos.
+Art. 25.º O crédito resultante dos empréstimos constitui ónus real de hipoteca sobre o prédio ou prédios que forem identificados nos respectivos contratos.
 
 § 1.º A Junta de Colonização Interna fixará para cada caso a forma por que deverão ser repartidos os encargos das obras de interesse de mais de um agricultor e o número de anuidades em que estes encargos deverão ser amortizados.
 
@@ -373,19 +437,19 @@ c) Títulos de licença exigidos por lei para as obras a realizar.
 
 § 4.º As parcelas de terreno do Estado serão sempre tomadas em consideração na distribuição dos encargos.
 
-###### Art. 26.º O registo definitivo ou provisório do ónus real poderá ser feito a requerimento da Junta, do Ministério Público ou dos interessados, que, relativamente aos prédios indicados nos contratos de empréstimo, deverão também requerer o certificado de registo e a certidão de encargos.
+Art. 26.º O registo definitivo ou provisório do ónus real poderá ser feito a requerimento da Junta, do Ministério Público ou dos interessados, que, relativamente aos prédios indicados nos contratos de empréstimo, deverão também requerer o certificado de registo e a certidão de encargos.
 
 § 1.º Para efeito do disposto neste artigo a Junta de Colonização Interna enviará os elementos necessários aos interessados ou aos delegados do procurador da República nas comarcas da situação dos prédios onde se hão-de executar os melhoramentos.
 
 § 2.º A todos os actos que a Junta, o Ministério Público ou os interessados requererem nos termos deste artigo é aplicável o disposto no n.º 1 do artigo 274.º do Código do Registo Predial.
 
-###### Art. 27.º Tanto o requerimento de registo como a remessa dos certificados e certidões à Junta de Colonização Interna constituem serviço urgente para os agentes do Ministério Público.
+Art. 27.º Tanto o requerimento de registo como a remessa dos certificados e certidões à Junta de Colonização Interna constituem serviço urgente para os agentes do Ministério Público.
 
-###### Art. 28.º A Junta de Colonização Interna não entregará qualquer parcela do capital se, à data do registo do ónus do empréstimo, tiverem de qualquer maneira diminuído as garantias constantes do contrato.
+Art. 28.º A Junta de Colonização Interna não entregará qualquer parcela do capital se, à data do registo do ónus do empréstimo, tiverem de qualquer maneira diminuído as garantias constantes do contrato.
 
 § único. Neste caso, o contrato do empréstimo será declarado nulo e de nenhuns efeitos por despacho do Secretário de Estado da Agricultura.
 
-###### Art. 29.º São causas de distrate ou de redução dos empréstimos, conforme as circunstâncias:
+Art. 29.º São causas de distrate ou de redução dos empréstimos, conforme as circunstâncias:
 
 1.º A demora, sem motivo justificado, no início ou conclusão do melhoramento, considerando os os prazos fixados nos termos dos n.os 7.º e 8.º do artigo 17.º
 
@@ -395,7 +459,7 @@ c) Títulos de licença exigidos por lei para as obras a realizar.
 
 § único. A Junta de Colonização Interna poderá fiscalizar o andamento dos trabalhos dos melhoramentos e a aquisição dos respectivos materiais.
 
-###### Art. 30.º É autorizada a Junta de Colonização Interna a contratar com a Caixa Geral de Depósitos, Crédito e Previdência a transferência dos créditos provenientes dos empréstimos celebrados ao abrigo deste decreto-lei, com todos os seus direitos e obrigações acessórias.
+Art. 30.º É autorizada a Junta de Colonização Interna a contratar com a Caixa Geral de Depósitos, Crédito e Previdência a transferência dos créditos provenientes dos empréstimos celebrados ao abrigo deste decreto-lei, com todos os seus direitos e obrigações acessórias.
 
 § 1.º A transferência dos créditos sòmente terá lugar depois da conclusão dos melhoramentos.
 
@@ -403,42 +467,42 @@ c) Títulos de licença exigidos por lei para as obras a realizar.
 
 § 3.º A comunicação referida no parágrafo anterior produzirá todos os efeitos da notificação previstos no artigo 789.º do Código Civil.
 
-###### Art. 31.º A transferência dos créditos referida no artigo anterior constará de documento particular, autenticado com os selos brancos no qual outorgarão a Junta de Colonização Interna e a Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 31.º A transferência dos créditos referida no artigo anterior constará de documento particular, autenticado com os selos brancos no qual outorgarão a Junta de Colonização Interna e a Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 32.º O averbamento de transferência de créditos a favor da Caixa Geral de Depósitos, Crédito e Previdência será feito a requerimento dos delegados da comarca onde estiverem feitos os registos de hipoteca e a simples pedido da Junta de Colonização Interna.
+Art. 32.º O averbamento de transferência de créditos a favor da Caixa Geral de Depósitos, Crédito e Previdência será feito a requerimento dos delegados da comarca onde estiverem feitos os registos de hipoteca e a simples pedido da Junta de Colonização Interna.
 
 § único. É aplicável ao registo do averbamento referido neste artigo o disposto no § 2.º do artigo 26.º
 
-###### Art. 33.º Os créditos transferidos para a Caixa Geral de Depósitos, Crédito e Previdência nos termos do artigo 30.º serão pagos à Junta de Colonização Interna pelas importâncias do capital em dívida e consideram-se avalizados pelo Fundo de Melhoramentos Agrícolas a partir da data do documento de transferência.
+Art. 33.º Os créditos transferidos para a Caixa Geral de Depósitos, Crédito e Previdência nos termos do artigo 30.º serão pagos à Junta de Colonização Interna pelas importâncias do capital em dívida e consideram-se avalizados pelo Fundo de Melhoramentos Agrícolas a partir da data do documento de transferência.
 
 § 1.º O Estado responderá ainda perante a Caixa pelos juros relativos ao período que anteceder o de amortização, pelos bónus concedidos nos termos do § 2.º do artigo 22.º e também por qualquer diferença de juros, de harmonia com o que entre ambos tiver sido acordado.
 
 § 2.º A Caixa debitará a Junta pelas importâncias pelas quais o Estado for responsável, nos termos deste artigo e seu § 1.º, devendo a Junta dar imediato pagamento ao que à Caixa for devido.
 
-###### Art. 34.º As cobranças relativas aos empréstimos serão realizadas por intermédio das secções de finanças competentes, às quais a Junta fornecerá os elementos indispensáveis. Mas, uma vez operada a transferência dos créditos para a Caixa Geral de Depósitos, Crédito e Previdência, poderá este estabelecimento ocupar-se delas directamente e segundo o regime que lhe é próprio.
+Art. 34.º As cobranças relativas aos empréstimos serão realizadas por intermédio das secções de finanças competentes, às quais a Junta fornecerá os elementos indispensáveis. Mas, uma vez operada a transferência dos créditos para a Caixa Geral de Depósitos, Crédito e Previdência, poderá este estabelecimento ocupar-se delas directamente e segundo o regime que lhe é próprio.
 
 § 1.º As secções de finanças, nos casos em que devam intervir de conta da Junta de Colonização Interna, procederão à cobrança das anuidades no mês de Janeiro e de uma só vez, juntamente com a contribuição predial dos prédios beneficiados, se estes dela não estiverem isentos, mas por documento separado.
 
 § 2.º As secções de finanças enviarão à Junta de Colonização Interna, até ao dia 10 de Fevereiro de cada ano, notas discriminativas das anuidades cobradas e das vencidas e não pagas.
 
-###### Art. 35.º O distrate dos empréstimos torna logo exigíveis pela Junta de Colonização Interna todas as importâncias entregues, bem como a falta de pagamento de uma anuidade autoriza a entidade credora a exigir imediatamente todas as restantes se a anuidade vencida não for paga dentro do prazo de 60 dias, a contar da notificação dos devedores, em carta registada com aviso de recepção.
+Art. 35.º O distrate dos empréstimos torna logo exigíveis pela Junta de Colonização Interna todas as importâncias entregues, bem como a falta de pagamento de uma anuidade autoriza a entidade credora a exigir imediatamente todas as restantes se a anuidade vencida não for paga dentro do prazo de 60 dias, a contar da notificação dos devedores, em carta registada com aviso de recepção.
 
-###### Art. 36.º Para cobrança coerciva dos créditos poderá a entidade credora fazer seguir as suas execuções através do Tribunal das Execuções Fiscais de Lisboa.
+Art. 36.º Para cobrança coerciva dos créditos poderá a entidade credora fazer seguir as suas execuções através do Tribunal das Execuções Fiscais de Lisboa.
 
-###### Art. 37.º Os documentos de quitação da Junta de Colonização ou da Caixa Geral de Depósitos, Crédito e Previdência, e ainda o da declaração da nulidade do contrato nos termos do § único do artigo 28.º, serão suficientes para o cancelamento nas conservatórias do registo predial dos encargos resultantes dos empréstimos.
+Art. 37.º Os documentos de quitação da Junta de Colonização ou da Caixa Geral de Depósitos, Crédito e Previdência, e ainda o da declaração da nulidade do contrato nos termos do § único do artigo 28.º, serão suficientes para o cancelamento nas conservatórias do registo predial dos encargos resultantes dos empréstimos.
 
-###### Art. 38.º A compensação devida pelo arrendatário ao senhorio em virtude de melhoramentos ou obras realizadas no prédio nos termos deste decreto-lei será estabelecida por mútuo acordo e por forma idêntica à que tiver sido adoptada para o respectivo contrato de arrendamento.
+Art. 38.º A compensação devida pelo arrendatário ao senhorio em virtude de melhoramentos ou obras realizadas no prédio nos termos deste decreto-lei será estabelecida por mútuo acordo e por forma idêntica à que tiver sido adoptada para o respectivo contrato de arrendamento.
 
 § único. Na falta de acordo e a requerimento de qualquer dos interessados a Junta de Colonização Interna, ouvidas as partes, fixará o aumento de renda de maneira equitativa, considerando-se, para os efeitos legais, alterado nesse sentido o respectivo contrato de arrendamento.
 
-###### Art. 39.º Para assegurar os serviços respeitantes à execução deste decreto-lei a Junta de Colonização Interna manterá delegados seus onde julgar conveniente, aos quais especialmente competirá a orientação, coordenação e fiscalização das obras de melhoramentos agrícolas.
+Art. 39.º Para assegurar os serviços respeitantes à execução deste decreto-lei a Junta de Colonização Interna manterá delegados seus onde julgar conveniente, aos quais especialmente competirá a orientação, coordenação e fiscalização das obras de melhoramentos agrícolas.
 
 § 1.º No desempenho das suas atribuições os delegados da Junta, além de serem assistidos pelos técnicos necessários, poderão, para o efeito do disposto no § único do artigo 29.º, recorrer aos funcionários do Estado da respectiva área, os quais terão sempre o dever de lhes prestar pronta coadjuvação, na medida da sua competência, mas sem prejuízo dos serviços dos seus cargos.
 
 § 2.º A Junta satisfará os transportes, as ajudas de custo e os subsídios de marcha que forem devidos.
 
-###### Art. 40.º Ficam revogados o [Decreto n.º 35994](https://diariodarepublica.pt/dr/detalhe/decreto/35994-1946-149426), de 23 de Novembro de 1946, e os Decretos-Leis n.os 39809, de 9 de Setembro de 1954, e 40689, de 16 de Julho de 1956.
+Art. 40.º Ficam revogados o [Decreto n.º 35994](https://diariodarepublica.pt/dr/detalhe/decreto/35994-1946-149426), de 23 de Novembro de 1946, e os Decretos-Leis n.os 39809, de 9 de Setembro de 1954, e 40689, de 16 de Julho de 1956.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19600/20832089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1979-378678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fa5a6d3f4270beb90522a7636ee2e557bc7a961205c38e5f730a56d3cec1139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8542a0ff3ebdae953a5d2db9b25207d152361022fc84a99ed521b1f17800f45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Armazenagem
+- Carne de Coelho
+- Coelho
+- Controlo Sanitário
+- Direcção Geral dos Serviços Veterinários
+- Doença Animal
+- Matadouro
+- Produto Animal
+- Regulamento
+- Saúde Pública
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:275605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:369800:por
+  label: Rectificado pela DECL.DD7219.20.09.1979.PCM, DR.IS [218] de 20.09.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-369800
+  date: '1979-09-20'
+- type: repealed_by
+  target: pt:dre:275605:por
+  label: "Revogado pelo DEC LEI.179/93.12.05.1993.MA, DR.IS-A [110] de 12.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1993-275605
+  date: '1993-05-12'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:02Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +120,25 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento da Inspecção Sanitária dos Coelhos, Suas Carnes, Subprodutos e Despojos, que vai apenso a este diploma, dele fazendo parte.
+Artigo único. É aprovado o Regulamento da Inspecção Sanitária dos Coelhos, Suas Carnes, Subprodutos e Despojos, que vai apenso a este diploma, dele fazendo parte.
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - Apolinário José Barbosa da Cruz Vaz Portugal - Abel Pinto Repolho Correia - Acácio Manuel Pereira Magro - José Ricardo Marques da Costa.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DA INSPECÇÃO SANITÁRIA DOS COELHOS, SUAS CARNES, SUBPRODUTOS E DESPOJOS
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A inspecção sanitária dos coelhos, respectivas carnes, frescas ou refrigeradas, congeladas ou por qualquer forma preparadas ou conservadas, quando destinadas ao consumo público, bem como os seus subprodutos e despojos, fica sujeita às disposições deste Regulamento.
+Artigo 1.º A inspecção sanitária dos coelhos, respectivas carnes, frescas ou refrigeradas, congeladas ou por qualquer forma preparadas ou conservadas, quando destinadas ao consumo público, bem como os seus subprodutos e despojos, fica sujeita às disposições deste Regulamento.
 
-###### Art. 2.º Compete à Direcção-Geral dos Serviços Veterinários a superintendência técnica, de harmonia com as disposições constantes no Regulamento da Inspecção Sanitária dos Coelhos, Suas Carnes, Subprodutos e Despojos.
+Art. 2.º Compete à Direcção-Geral dos Serviços Veterinários a superintendência técnica, de harmonia com as disposições constantes no Regulamento da Inspecção Sanitária dos Coelhos, Suas Carnes, Subprodutos e Despojos.
 
-###### Art. 3.º Para os efeitos deste Regulamento, entende-se por:
+Art. 3.º Para os efeitos deste Regulamento, entende-se por:
 
 a) Médico veterinário inspector - o médico veterinário, nomeado pelo serviço oficial, responsável pela inspecção sanitária dos produtos de origem animal;
 
@@ -140,25 +162,25 @@ j) Tolerância - concentração máxima de resíduos admitida nos produtos cuní
 
 l) Intervalo de segurança - o tempo mínimo que deve correr entre o momento da última administração a um coelho e o momento em que os produtos provenientes desse coelho podem ser destinados a consumo.
 
-###### Art. 4.º Em todos os casos em que, de acordo com as determinações deste Regulamento, seja duvidoso o destino a dar às carnes, subprodutos e despojos, atento o grau de insalubridade dos coelhos, tal resolução ficará ao prudente arbítrio do médico veterinário inspector.
+Art. 4.º Em todos os casos em que, de acordo com as determinações deste Regulamento, seja duvidoso o destino a dar às carnes, subprodutos e despojos, atento o grau de insalubridade dos coelhos, tal resolução ficará ao prudente arbítrio do médico veterinário inspector.
 
 ### CAPÍTULO II
 
 Da Inspecção sanitária «ante mortem»
 
-###### Art. 5.º Os coelhos destinados ao consumo público devem ser inspeccionados em vida dentro das vinte e quatro horas que precedem o abate.
+Art. 5.º Os coelhos destinados ao consumo público devem ser inspeccionados em vida dentro das vinte e quatro horas que precedem o abate.
 
-###### Art. 6.º O tempo de permanência para repouso e jejum nos estabelecimentos de abate será determinado pelo médico veterinário inspector em função das condições em que se efectuou o transporte (distância percorrida e tempo) e também de acordo com as indicações constantes do certificado sanitário respectivo, quando emitido nos termos do artigo 12.º deste Regulamento, e os resultados dos exames em vida, quando efectuados nos próprios locais.
+Art. 6.º O tempo de permanência para repouso e jejum nos estabelecimentos de abate será determinado pelo médico veterinário inspector em função das condições em que se efectuou o transporte (distância percorrida e tempo) e também de acordo com as indicações constantes do certificado sanitário respectivo, quando emitido nos termos do artigo 12.º deste Regulamento, e os resultados dos exames em vida, quando efectuados nos próprios locais.
 
-###### Art. 7.º Os coelhos mortos durante o transporte ou no período que precede a sua entrada nas linhas de matança serão rejeitados.
+Art. 7.º Os coelhos mortos durante o transporte ou no período que precede a sua entrada nas linhas de matança serão rejeitados.
 
-###### Art. 8.º Não serão aprovados no exame ante mortem para consumo público os coelhos:
+Art. 8.º Não serão aprovados no exame ante mortem para consumo público os coelhos:
 
 1) Atingidos por doença transmissível ao homem ou aos animais e que se encontrem em estado geral ou apresentem sintomas que permitam recear a eclosão de uma tal doença;
 
 2) Que apresentem sintomas de doença ou perturbações do seu aspecto geral susceptíveis de tornar as carnes impróprias para consumo.
 
-###### Art. 9.º Serão reprovados para consumo público os coelhos que no exame ante mortem revelem estar atingidos por:
+Art. 9.º Serão reprovados para consumo público os coelhos que no exame ante mortem revelem estar atingidos por:
 
 1) Raiva;
 
@@ -176,13 +198,13 @@ Da Inspecção sanitária «ante mortem»
 
 8) Toxoplasmose ou quaisquer outras afecções abrangidas pela legislação em vigor.
 
-###### Art. 10.º Os coelhos referidos nos artigos 8.º e 9.º deste Regulamento ficam sujeitos às disposições legais em vigor sobre sanidade veterinária.
+Art. 10.º Os coelhos referidos nos artigos 8.º e 9.º deste Regulamento ficam sujeitos às disposições legais em vigor sobre sanidade veterinária.
 
-###### Art. 11.º - 1 - Não será permitida a saída de coelhos vivos dos estabelecimentos de abate, a não ser que, por motivos justificados, o médico veterinário inspector a autorize.
+Art. 11.º - 1 - Não será permitida a saída de coelhos vivos dos estabelecimentos de abate, a não ser que, por motivos justificados, o médico veterinário inspector a autorize.
 
 2 - A saída dos coelhos dos estabelecimentos de abate far-se-á mediante a emissão de uma guia de trânsito.
 
-###### Art. 12.º - 1 - Sempre que a Direcção-Geral dos Serviços Veterinários o entenda, por razões de ordem sanitária, em relação a uma ou mais explorações cunículas, poderá determinar que o exame ante mortem dos coelhos destinados aos estabelecimentos de abate seja efectuado na origem.
+Art. 12.º - 1 - Sempre que a Direcção-Geral dos Serviços Veterinários o entenda, por razões de ordem sanitária, em relação a uma ou mais explorações cunículas, poderá determinar que o exame ante mortem dos coelhos destinados aos estabelecimentos de abate seja efectuado na origem.
 
 2 - O exame ante mortem na origem, a que se refere o número anterior, será efectuado pelo médico veterinário inspector da área ou quem o substitua nas vinte e quatro horas que precederem o envio dos coelhos.
 
@@ -194,25 +216,25 @@ b) Coelhos que estejam em tratamento ou que, tendo sido tratados, não tenha dec
 
 4 - O médico veterinário inspector ou quem o substitua passará um certificado sanitário, conforme modelo anexo I, para acompanhar obrigatoriamente os lotes de coelhos a enviar para o estabelecimento de abate, sempre que haja lugar ao cumprimento do disposto neste artigo.
 
-###### Art. 13.º Os veículos utilizados no transporte dos coelhos serão obrigatoriamente lavados e desinfectados nos estabelecimentos de abate, após cada utilização, sob contrôle do serviço de inspecção sanitária, que impedirá a sua saída sem que sejam observadas aquelas determinações.
+Art. 13.º Os veículos utilizados no transporte dos coelhos serão obrigatoriamente lavados e desinfectados nos estabelecimentos de abate, após cada utilização, sob contrôle do serviço de inspecção sanitária, que impedirá a sua saída sem que sejam observadas aquelas determinações.
 
 ### CAPÍTULO III — Do abate e preparação de coelhos
 
 #### SECÇÃO I — Dos estabelecimentos
 
-###### Art. 14.º Todos os estabelecimentos destinados ao abate e preparação de coelhos carecem de aprovação oficial, conforme as disposições legais em vigor.
+Art. 14.º Todos os estabelecimentos destinados ao abate e preparação de coelhos carecem de aprovação oficial, conforme as disposições legais em vigor.
 
-###### Art. 15.º Todos os estabelecimentos de abate devem dispor para a inspecção sanitária especial de um sector convenientemente apetrechado, devidamente iluminado e susceptível de garantir o isolamento dos coelhos ou dos seus produtos.
+Art. 15.º Todos os estabelecimentos de abate devem dispor para a inspecção sanitária especial de um sector convenientemente apetrechado, devidamente iluminado e susceptível de garantir o isolamento dos coelhos ou dos seus produtos.
 
-###### Art. 16.º O médico veterinário inspector estabelecerá os princípios essenciais para a manutenção da higiene dos locais, máquinas e utensílios, podendo colher material para análise sempre que entenda necessário.
+Art. 16.º O médico veterinário inspector estabelecerá os princípios essenciais para a manutenção da higiene dos locais, máquinas e utensílios, podendo colher material para análise sempre que entenda necessário.
 
-###### Art. 17.º Não é permitida a circulação de animais no interior dos estabelecimentos onde se abatam e preparem os coelhos.
+Art. 17.º Não é permitida a circulação de animais no interior dos estabelecimentos onde se abatam e preparem os coelhos.
 
-###### Art. 18.º Todas as operações de natureza hígio-sanitária efectuadas nos estabelecimentos de abate são da responsabilidade do médico veterinário inspector.
+Art. 18.º Todas as operações de natureza hígio-sanitária efectuadas nos estabelecimentos de abate são da responsabilidade do médico veterinário inspector.
 
 #### SECÇÃO II — Do pessoal
 
-###### Art. 19.º Nos estabelecimentos de abate dos coelhos o pessoal observará, designadamente, as seguintes normas de higiene e sanidade:
+Art. 19.º Nos estabelecimentos de abate dos coelhos o pessoal observará, designadamente, as seguintes normas de higiene e sanidade:
 
 a) Lavagem e desinfecção das mãos antes de iniciar o serviço, depois de usarem as instalações sanitárias e após a manipulação de material infectante ou suspeito;
 
@@ -222,35 +244,35 @@ c) Protecção ou isolamento de feridas ou golpes, depois de convenientemente de
 
 d) Cumprimento do disposto na legislação vigente sobre o boletim de sanidade e de outros boletins de contrôle médico.
 
-###### Art. 20.º Compete ao médico veterinário inspector assegurar o cumprimento das disposições estabelecidas pelo artigo anterior.
+Art. 20.º Compete ao médico veterinário inspector assegurar o cumprimento das disposições estabelecidas pelo artigo anterior.
 
-###### Art. 21.º O pessoal, operário e de inspecção, usará vestuário adequado às funções que exerce, conforme for determinado pelas entidades oficiais.
+Art. 21.º O pessoal, operário e de inspecção, usará vestuário adequado às funções que exerce, conforme for determinado pelas entidades oficiais.
 
 ### CAPÍTULO IV — Da higiene dos abates
 
-###### Art. 22.º - 1 - Terminado o período de repouso e jejum, devem os coelhos aprovados no exame ante mortem ser conduzidos para o local da matança, onde se procederá, de seguida, ao abate e sangria.
+Art. 22.º - 1 - Terminado o período de repouso e jejum, devem os coelhos aprovados no exame ante mortem ser conduzidos para o local da matança, onde se procederá, de seguida, ao abate e sangria.
 
 2 - O abate efectuar-se-á por atordoamento ou por método tecnicamente tido por mais conveniente pelo médico veterinário inspector.
 
-###### Art. 23.º - 1 - A sangria será efectuada por corte das jugulares e das carótidas, com os animais suspensos, de modo que seja completa.
+Art. 23.º - 1 - A sangria será efectuada por corte das jugulares e das carótidas, com os animais suspensos, de modo que seja completa.
 
 2 - Após a sangria, proceder-se-á imediatamente as operações de esfola, a que se seguirá sem demora a de evisceração, observando-se sempre os preceitos técnicos que a higiene e salubridade dos produtos exige.
 
-###### Art. 24.º O local de abate e preparação será dividido em dois sectores distintos:
+Art. 24.º O local de abate e preparação será dividido em dois sectores distintos:
 
 a) Uma zona suja, destinada à sangria, esfola, evisceração e recolha de subprodutos;
 
 b) Uma zona limpa, na qual se manterão as carcaças antes da entrada na câmara de enxugo.
 
-###### Art. 25.º Não é permitido o uso de panos, papéis ou esponjas para a limpeza das carnes.
+Art. 25.º Não é permitido o uso de panos, papéis ou esponjas para a limpeza das carnes.
 
-###### Art. 26.º A inspecção sanitária terá lugar em todo e qualquer momento do circuito, de modo a permitir que se retirem do mesmo os casos suspeitos, a fim de serem submetidos a exames especiais.
+Art. 26.º A inspecção sanitária terá lugar em todo e qualquer momento do circuito, de modo a permitir que se retirem do mesmo os casos suspeitos, a fim de serem submetidos a exames especiais.
 
-###### Art. 27.º Não será permitido o fraccionamento das carcaças sem que a inspecção sanitária esteja concluída.
+Art. 27.º Não será permitido o fraccionamento das carcaças sem que a inspecção sanitária esteja concluída.
 
-###### Art. 28.º Os coelhos e as carnes a submeter a exames ulteriores devem ser conduzidos, sem perdas de tempo, para os locais destinados a tal fim.
+Art. 28.º Os coelhos e as carnes a submeter a exames ulteriores devem ser conduzidos, sem perdas de tempo, para os locais destinados a tal fim.
 
-###### Art. 29.º - 1 - Não será permitida a presença de pessoas estranhas aos serviços, a não ser em casos especiais e depois de prévia autorização do médico veterinário inspector ou de quem o substitua.
+Art. 29.º - 1 - Não será permitida a presença de pessoas estranhas aos serviços, a não ser em casos especiais e depois de prévia autorização do médico veterinário inspector ou de quem o substitua.
 
 2 - A entrada de pessoas estranhas nos termos do número anterior fica condicionada ao uso de vestuário apropriado.
 
@@ -260,9 +282,9 @@ Da inspecção sanitária «post mortem»
 
 #### SECÇÃO I — Normas gerais
 
-###### Art. 30.º A inspecção post mortem inicia-se com o abate e sangria e incide sobre as carcaças, suas vísceras e órgãos, prosseguindo durante as operações de preparação até à expedição.
+Art. 30.º A inspecção post mortem inicia-se com o abate e sangria e incide sobre as carcaças, suas vísceras e órgãos, prosseguindo durante as operações de preparação até à expedição.
 
-###### Art. 31.º A inspecção post mortem compreenderá:
+Art. 31.º A inspecção post mortem compreenderá:
 
 a) O exame visual do animal abatido e palpação, se necessária;
 
@@ -272,7 +294,7 @@ c) A prática de incisões, sempre que forem tidas como necessárias;
 
 d) Exames laboratoriais para esclarecimento dos casos duvidosos.
 
-###### Art. 32.º O médico veterinário inspector determinará:
+Art. 32.º O médico veterinário inspector determinará:
 
 a) A aprovação para consumo, sempre que não haja quaisquer suspeitas de doença ou quando os exames especiais realizados não confirmem as existentes;
 
@@ -280,25 +302,25 @@ b) A aprovação condicional, sempre que seja possível proceder a operações d
 
 c) Rejeição, total ou parcial, em conformidade com o disposto neste Regulamento.
 
-###### Art. 33.º - 1 - As carnes rejeitadas, quando se tornar inviável a sua beneficiação ou industrialização, terão o destino que o médico veterinário inspector decidir, em conformidade com o disposto neste Regulamento.
+Art. 33.º - 1 - As carnes rejeitadas, quando se tornar inviável a sua beneficiação ou industrialização, terão o destino que o médico veterinário inspector decidir, em conformidade com o disposto neste Regulamento.
 
 2 - A beneficiação ou industrialização das carnes rejeitadas será sempre efectuada mediante autorização e contrôle do serviço de inspecção sanitária.
 
-###### Art. 34.º O número de médicos veterinários inspectores e de pessoal auxiliar de inspecção será determinado pelo serviço oficial competente em matéria de inspecção sanitária, de acordo com a capacidade de laboração do estabelecimento.
+Art. 34.º O número de médicos veterinários inspectores e de pessoal auxiliar de inspecção será determinado pelo serviço oficial competente em matéria de inspecção sanitária, de acordo com a capacidade de laboração do estabelecimento.
 
-###### Art. 35.º O material utilizado na inspecção sanitária não será usado para quaisquer outros fins.
+Art. 35.º O material utilizado na inspecção sanitária não será usado para quaisquer outros fins.
 
-###### Art. 36.º - 1 - O médico veterinário inspector organizará o registo das rejeições e suas causas e promoverá, mensalmente, o envio de cópias às entidades competentes, designadamente as responsáveis quer pela inspecção sanitária quer pela sanidade cunícula, bem como à administração do estabelecimento.
+Art. 36.º - 1 - O médico veterinário inspector organizará o registo das rejeições e suas causas e promoverá, mensalmente, o envio de cópias às entidades competentes, designadamente as responsáveis quer pela inspecção sanitária quer pela sanidade cunícula, bem como à administração do estabelecimento.
 
 2 - O registo das rejeições deverá incluir obrigatoriamente a indicação da origem dos coelhos.
 
-###### Art. 37.º Os resultados dos exames laboratoriais e as medidas recomendadas serão transmitidos pelo inspector ao organismo de que depende a inspecção sanitária e à administração do estabelecimento.
+Art. 37.º Os resultados dos exames laboratoriais e as medidas recomendadas serão transmitidos pelo inspector ao organismo de que depende a inspecção sanitária e à administração do estabelecimento.
 
 #### SECÇÃO II — Normas especiais
 
 ##### SUBSECÇÃO I — Alterações anteriores à evisceração
 
-###### Art. 38.º Serão totalmente reprovados os coelhos em que se verifiquem:
+Art. 38.º Serão totalmente reprovados os coelhos em que se verifiquem:
 
 A) Aspectos repugnantes por;
 
@@ -324,15 +346,15 @@ C) Septicemia ou toxemia;
 
 D) Carnes fatigadas.
 
-###### Art. 39.º Poderão ser aprovados para consumo os coelhos que apresentem apenas lesões traumáticas bem localizadas, uma vez retiradas as partes lesionadas e desde que tal não afecte a sua salubridade.
+Art. 39.º Poderão ser aprovados para consumo os coelhos que apresentem apenas lesões traumáticas bem localizadas, uma vez retiradas as partes lesionadas e desde que tal não afecte a sua salubridade.
 
-###### Art. 40.º - 1 - As carnes de coelhos magros poderão ser aprovadas condicionalmente para fins industriais alimentares, desde que as massas musculares não apresentem alteração dos seus caracteres organolépticos.
+Art. 40.º - 1 - As carnes de coelhos magros poderão ser aprovadas condicionalmente para fins industriais alimentares, desde que as massas musculares não apresentem alteração dos seus caracteres organolépticos.
 
 2 - As carnes aprovadas nos termos do número anterior serão seguidamente fragmentadas e refrigeradas.
 
 ##### SUBSECÇÃO II — Doenças ou estados patológicos detectáveis pelo exame das carcaças e vísceras
 
-###### Art. 41.º Serão totalmente reprovados os coelhos em que se verifique a existência de:
+Art. 41.º Serão totalmente reprovados os coelhos em que se verifique a existência de:
 
 1) Mixomatose;
 
@@ -418,13 +440,13 @@ D) Carnes fatigadas.
 
 ##### SUBSECÇÃO III — Carnes de coelhos parasitados
 
-###### Art. 42.º - 1 - Serão totalmente reprovadas para consumo público as carnes dos coelhos com parasitismo, qualquer que seja a sua localização e intensidade, desde que coincida com magreza ou outras repercussões sobre o estado geral da carcaça (reacção orgânica geral).
+Art. 42.º - 1 - Serão totalmente reprovadas para consumo público as carnes dos coelhos com parasitismo, qualquer que seja a sua localização e intensidade, desde que coincida com magreza ou outras repercussões sobre o estado geral da carcaça (reacção orgânica geral).
 
 2 - A reprovação será parcial, com expurgo e destruição das partes afectadas, quando o animal esteja em bom estado de carnes e não haja reacção orgânica geral.
 
 ##### SUBSECÇÃO IV — Das intoxicações nas carnes de coelhos
 
-###### Art. 43.º - 1 - As carnes de coelhos que apresentem quaisquer sinais de doença ou afecção, lesões ou alterações que revelem intoxicação de origem química, alimentar ou medicamentosa serão totalmente reprovadas para o consumo.
+Art. 43.º - 1 - As carnes de coelhos que apresentem quaisquer sinais de doença ou afecção, lesões ou alterações que revelem intoxicação de origem química, alimentar ou medicamentosa serão totalmente reprovadas para o consumo.
 
 2 - As carnes suspeitas ficarão sob observação, no local de retenção do estabelecimento de abate, se tal for considerado necessário, em condições adequadas de conservação, até completo esclarecimento da situação.
 
@@ -432,39 +454,39 @@ D) Carnes fatigadas.
 
 #### SECÇÃO I — Marcação, acondicionamento e embalagem das carnes aprovadas
 
-###### Art. 44.º - 1 - As carcaças dos coelhos e as miudezas aprovadas para consumo devem ser arrefecidas imediatamente após a sua preparação.
+Art. 44.º - 1 - As carcaças dos coelhos e as miudezas aprovadas para consumo devem ser arrefecidas imediatamente após a sua preparação.
 
 2 - O arrefecimento deve fazer-se segundo as regras de higiene, de modo a que a temperatura interna da carne não seja superior a +4ºC.
 
-###### Art. 45.º - 1 - As carcaças aprovadas para consumo público deverão ser identificadas com a respectiva marca de aprovação sanitária oficial, conforme o anexo II.
+Art. 45.º - 1 - As carcaças aprovadas para consumo público deverão ser identificadas com a respectiva marca de aprovação sanitária oficial, conforme o anexo II.
 
 2 - A guarda dos carimbos ou marcas oficiais e a sua utilização são da responsabilidade do médico veterinário inspector.
 
 #### SECÇÃO II — Da higiene do transporte
 
-###### Art. 46.º - 1 - O médico veterinário inspector somente autorizará o transporte de carnes em veículos, contentores ou caixas que não apresentem indícios de terem sido utilizados para fins diferentes, designadamente o transporte de coelhos vivos.
+Art. 46.º - 1 - O médico veterinário inspector somente autorizará o transporte de carnes em veículos, contentores ou caixas que não apresentem indícios de terem sido utilizados para fins diferentes, designadamente o transporte de coelhos vivos.
 
 2 - As carnes não poderão ser colocadas a granel dentro dos veículos e contentores de transporte, o que será controlado pelo serviço de inspecção sanitária.
 
-###### Art. 47.º Só poderão ser utilizados no transporte de carnes os veículos, contentores ou caixas que, após cada utilização, sejam lavados e desinfectados e, semestralmente, submetidos a vistoria sanitária.
+Art. 47.º Só poderão ser utilizados no transporte de carnes os veículos, contentores ou caixas que, após cada utilização, sejam lavados e desinfectados e, semestralmente, submetidos a vistoria sanitária.
 
 #### SECÇÃO III — Das carnes rejeitadas
 
-###### Art. 48.º - 1 - As carcaças rejeitadas, quando não susceptíveis de aproveitamento para subprodutos, devem ser golpeadas repetidas vezes e, de seguida, inutilizadas pela adição de produtos que as tornem repugnantes, designadamente petróleo ou solução de creolina.
+Art. 48.º - 1 - As carcaças rejeitadas, quando não susceptíveis de aproveitamento para subprodutos, devem ser golpeadas repetidas vezes e, de seguida, inutilizadas pela adição de produtos que as tornem repugnantes, designadamente petróleo ou solução de creolina.
 
 2 - Os produtos químicos referidos no número anterior serão igualmente utilizados nas vísceras e partes rejeitadas.
 
-###### Art. 49.º As carnes rejeitadas para consumo serão colocadas num sector isolado, próprio para o efeito, enquanto aguardam a sua remoção.
+Art. 49.º As carnes rejeitadas para consumo serão colocadas num sector isolado, próprio para o efeito, enquanto aguardam a sua remoção.
 
-###### Art. 50.º As operações de inutilização das carnes são da responsabilidade do médico veterinário inspector.
+Art. 50.º As operações de inutilização das carnes são da responsabilidade do médico veterinário inspector.
 
 ### CAPÍTULO VII — Da armazenagem das carnes e subprodutos
 
-###### Art. 51.º Os estabelecimentos de abate emitirão guias de remessa em que conste a data de saída das carnes congeladas destinadas a ser armazenadas noutro local.
+Art. 51.º Os estabelecimentos de abate emitirão guias de remessa em que conste a data de saída das carnes congeladas destinadas a ser armazenadas noutro local.
 
-###### Art. 52.º Os produtos destinados a armazenagem fora do estabelecimento de abate serão acompanhados de um certificado de origem em que conste a data da preparação, independentemente das marcas de aprovação sanitária.
+Art. 52.º Os produtos destinados a armazenagem fora do estabelecimento de abate serão acompanhados de um certificado de origem em que conste a data da preparação, independentemente das marcas de aprovação sanitária.
 
-###### Art. 53.º O médico veterinário inspector deverá ter em conta, quando efectuar a inspecção das carnes armazenadas em câmaras frigoríficas, designadamente os seguintes aspectos:
+Art. 53.º O médico veterinário inspector deverá ter em conta, quando efectuar a inspecção das carnes armazenadas em câmaras frigoríficas, designadamente os seguintes aspectos:
 
 a) Registo gráfico das temperaturas;
 
@@ -482,11 +504,11 @@ g) Mau estado de isolamento das câmaras frigoríficas;
 
 h) Deficiente limpeza de paredes, pavimentos e estrados.
 
-###### Art. 54.º As câmaras de frio destinadas ao armazenamento das carnes frescas ou refrigeradas não poderão ser, simultaneamente, usadas para a conservação de quaisquer outros produtos.
+Art. 54.º As câmaras de frio destinadas ao armazenamento das carnes frescas ou refrigeradas não poderão ser, simultaneamente, usadas para a conservação de quaisquer outros produtos.
 
-###### Art. 55.º A observação de quaisquer anomalias, designadamente as previstas nos artigos 54.º e 55.º do presente Regulamento, quando conduzam à suspeita de alterações das carnes armazenadas, implica a sua reinspecção sanitária com eventual colheita de amostras para exames laboratoriais.
+Art. 55.º A observação de quaisquer anomalias, designadamente as previstas nos artigos 54.º e 55.º do presente Regulamento, quando conduzam à suspeita de alterações das carnes armazenadas, implica a sua reinspecção sanitária com eventual colheita de amostras para exames laboratoriais.
 
-###### Art. 56.º - 1 - As carnes de coelhos frescas ou refrigeradas e congeladas devem ser mantidas em condições que permitam:
+Art. 56.º - 1 - As carnes de coelhos frescas ou refrigeradas e congeladas devem ser mantidas em condições que permitam:
 
 a) Manutenção de temperatura uniforme e adequada;
 
@@ -494,13 +516,13 @@ b) Protecção completa contra quaisquer conspurcações resultantes do meio amb
 
 2 - As carnes frescas ou refrigeradas devem ser mantidas separadas de outros produtos, designadamente de carnes de outras espécies e produtos não alimentares.
 
-###### Art. 57.º As carnes de coelhos devem exibir as marcas comprovativas da inspecção sanitária.
+Art. 57.º As carnes de coelhos devem exibir as marcas comprovativas da inspecção sanitária.
 
 ### CAPÍTULO VIII — Do recurso
 
-###### Art. 58.º Todas as rejeições são susceptíveis de recurso por parte dos proprietários ou legítimos representantes.
+Art. 58.º Todas as rejeições são susceptíveis de recurso por parte dos proprietários ou legítimos representantes.
 
-###### Art. 59.º - 1 - A intenção de interpor recurso será comunicada imediatamente, após a rejeição, ao médico veterinário inspector.
+Art. 59.º - 1 - A intenção de interpor recurso será comunicada imediatamente, após a rejeição, ao médico veterinário inspector.
 
 2 - O recurso será apresentado mediante requerimento em duplicado, sendo o original em papel selado, dirigido à entidade oficial que superintende na inspecção sanitária e entregue ao médico veterinário inspector, ou a quem o represente para o efeito, no prazo máximo de quatro horas após a rejeição.
 
@@ -516,7 +538,7 @@ c) A indicação do médico veterinário que o representará.
 
 5 - O duplicado do requerimento será devolvido ao recorrente após aposição da data e hora do recebimento do recurso e assinado pelo médico veterinário inspector, ou quem o represente para o efeito, servindo de recibo.
 
-###### Art. 60.º - 1 - A interposição do recurso obriga ao pagamento da taxa respectiva de harmonia com a seguinte tabela:
+Art. 60.º - 1 - A interposição do recurso obriga ao pagamento da taxa respectiva de harmonia com a seguinte tabela:
 
 500$00, de 1 a 100 coelhos ou carcaças rejeitadas;
 
@@ -530,43 +552,43 @@ c) A indicação do médico veterinário que o representará.
 
 2 - As taxas a que se refere o número anterior constituirão receita do Estado e serão pagas por estampilhas fiscais apostas no requerimento do recurso e devidamente inutilizadas no acto de entrega.
 
-###### Art. 61.º O recurso será apreciado por uma junta constituída por três médicos veterinários, sendo um designado entre os médicos veterinários inspectores da área, outro pelo requerente e o terceiro como perito de desempate, que será a entidade veterinária regional ou um seu representante.
+Art. 61.º O recurso será apreciado por uma junta constituída por três médicos veterinários, sendo um designado entre os médicos veterinários inspectores da área, outro pelo requerente e o terceiro como perito de desempate, que será a entidade veterinária regional ou um seu representante.
 
-###### Art. 62.º Se o recorrente não indicar um médico veterinário seu representante, compete aos serviços oficiais regionais designar um dos seus médicos veterinários para desempenhar essa função.
+Art. 62.º Se o recorrente não indicar um médico veterinário seu representante, compete aos serviços oficiais regionais designar um dos seus médicos veterinários para desempenhar essa função.
 
-###### Art. 63.º - 1 - A junta de recurso reunirá no prazo máximo de vinte e quatro horas após a recepção do requerimento.
+Art. 63.º - 1 - A junta de recurso reunirá no prazo máximo de vinte e quatro horas após a recepção do requerimento.
 
 2 - O prazo referido no número anterior poderá ser dilatado para o primeiro dia útil seguinte ao da rejeição, se houver condições de conservação para as carnes em causa.
 
 3 - Compete ao médico veterinário inspector providenciar para a boa conservação das carnes que deram origem ao recurso até à reunião da junta de recurso, assistindo à mesma para eventuais esclarecimentos, mas sem direito a voto.
 
-###### Art. 64.º Da reunião da junta de recurso será lavrada uma acta em que conste a decisão final, da qual não há recurso.
+Art. 64.º Da reunião da junta de recurso será lavrada uma acta em que conste a decisão final, da qual não há recurso.
 
-###### Art. 65.º Se for confirmada a rejeição, será dado às carnes o destino previsto neste regulamento.
+Art. 65.º Se for confirmada a rejeição, será dado às carnes o destino previsto neste regulamento.
 
-###### Art. 66.º Não se tendo confirmado a rejeição, compete ao presidente da junta de recurso mandar apor nas carnes em causa as respectivas marcas de aprovação sanitária.
+Art. 66.º Não se tendo confirmado a rejeição, compete ao presidente da junta de recurso mandar apor nas carnes em causa as respectivas marcas de aprovação sanitária.
 
 ### CAPÍTULO IX — Das sanções
 
-###### Art. 67.º A fiscalização do cumprimento das determinações constantes do presente Regulamento compete à Direcção-Geral dos Serviços Veterinários, coadjuvada pelas direcções regionais de agricultura.
+Art. 67.º A fiscalização do cumprimento das determinações constantes do presente Regulamento compete à Direcção-Geral dos Serviços Veterinários, coadjuvada pelas direcções regionais de agricultura.
 
-###### Art. 68.º Sempre que os médicos veterinários inspectores, no exercício das suas funções, não vejam atendidas as determinações que, em obediência ao disposto no presente Regulamento, entendam dever fixar para o regular funcionamento dos estabelecimentos de abate, darão conhecimento dos factos, através de informação circunstanciada, ao director-geral dos Serviços Veterinários.
+Art. 68.º Sempre que os médicos veterinários inspectores, no exercício das suas funções, não vejam atendidas as determinações que, em obediência ao disposto no presente Regulamento, entendam dever fixar para o regular funcionamento dos estabelecimentos de abate, darão conhecimento dos factos, através de informação circunstanciada, ao director-geral dos Serviços Veterinários.
 
-###### Art. 69.º - 1 - Com base na informação referida no artigo anterior, a Direcção-Geral dos Serviços Veterinários poderá determinar a instauração de um inquérito, a concluir num prazo máximo de quinze dias.
+Art. 69.º - 1 - Com base na informação referida no artigo anterior, a Direcção-Geral dos Serviços Veterinários poderá determinar a instauração de um inquérito, a concluir num prazo máximo de quinze dias.
 
 2 - Sempre que da laboração do estabelecimento de abate resulte perigo para a saúde pública, serão suspensos preventivamente o licenciamento sanitário, concedido nos termos da legislação em vigor, e o serviço de inspecção sanitária, até conclusão do inquérito referido no número anterior.
 
 3 - Após a conclusão do inquérito, poderão ser determinados novos períodos de suspensão até que seja regularizado o normal funcionamento do estabelecimento de abate, sem prejuízo da aplicação de outras sanções legalmente previstas.
 
-###### Art. 70.º Das decisões proferidas pelo director-geral dos Serviços Veterinários caberá recurso nos termos da legislação em vigor para o Secretário de Estado do Fomento Agrário.
+Art. 70.º Das decisões proferidas pelo director-geral dos Serviços Veterinários caberá recurso nos termos da legislação em vigor para o Secretário de Estado do Fomento Agrário.
 
 ### CAPÍTULO X — Das disposições transitórias
 
-###### Art. 71.º Enquanto se mantiverem as dificuldades para cobertura da inspecção sanitária a nível nacional, fica autorizada a Direcção-Geral dos Serviços Veterinários, sempre que necessário e a título precário, a ajuramentar médicos veterinários para a inspecção sanitária.
+Art. 71.º Enquanto se mantiverem as dificuldades para cobertura da inspecção sanitária a nível nacional, fica autorizada a Direcção-Geral dos Serviços Veterinários, sempre que necessário e a título precário, a ajuramentar médicos veterinários para a inspecção sanitária.
 
-###### Art. 72.º Nos matadouros de coelhos tanto os médicos veterinários inspectores como os médicos veterinários ajuramentados poderão propor à administração dos estabelecimentos de abate onde exercem as suas funções que um ou mais empregados os coadjuvem durante os serviços de inspecção sanitária.
+Art. 72.º Nos matadouros de coelhos tanto os médicos veterinários inspectores como os médicos veterinários ajuramentados poderão propor à administração dos estabelecimentos de abate onde exercem as suas funções que um ou mais empregados os coadjuvem durante os serviços de inspecção sanitária.
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia. - O Ministro dos Assuntos Sociais, Acácio Manuel Pereira Magro. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia. - O Ministro dos Assuntos Sociais, Acácio Manuel Pereira Magro. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.
 
 ## ANEXO I — MINISTÉRIO DA AGRICULTURA E PESCAS
 
@@ -602,6 +624,6 @@ O Médico Veterinário Inspector,
 
 ...
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19600/20832089.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19600/20832089.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19600/20832089.pdf)
 
 A marca sanitária será um círculo cujo diâmetro mínimo não poderá ser inferior a 18 mm, sendo a altura mínima dos caracteres mais pequenos 2 mm.

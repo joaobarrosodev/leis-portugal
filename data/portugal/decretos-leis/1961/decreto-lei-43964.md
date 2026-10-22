@@ -49,40 +49,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43964-1961-182781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d47e404813f29ef05aa20e3b883d74f40f2aadbedc37e47b5723c4de0c101208
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0653ddcede37d79968418eb553556544a68f7dd984856d8aa7cae6441ab2c53a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Juiz
+- Orgânica
+- Presidência do Conselho
+- Presidente do Supremo Tribunal Administrativo
+- Quadro de Pessoal
+- Supremo Tribunal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:408095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401521:por
+  label: "Alterado o artigo 1.º do Decreto-Lei n.º 40768, de 8 de Setembro de 1956, na redacção do artigo 1.º do presente\
+    \ diploma, pelo DEC LEI.48157.26.12.1967.PC, DG.IS [298] de 26.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48157-1967-401521
+  date: '1967-12-26'
+- type: amended_by
+  target: pt:dre:273204:por
+  label: "Alterado o quadro único de pessoal, no referente ao Supremo Tribunal Administrativo, aprovado pelo Dec Lei 39889\
+    \ de 05-Nov de 1954, com as alterações constantes do presente diploma, pelo DEC LEI.48516.06.08.1968.PC, DG.IS [185] de\
+    \ 06.08.1968, que determinou que os funcionários daquele tribunal passem a constituir um quadro privativo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48516-1968-273204
+  date: '1968-08-06'
+- type: amended_by
+  target: pt:dre:408095:por
+  label: "Transferidos os actuais juízes da 2.ª e da 4.ª secções, para uma secção do contencioso tributário (2.ª secção),\
+    \ constituída no DEC LEI.699/73.28.12.1973.PC, DG.IS [300] de 28.12.1973, e extintos os lugares de juízes suplentes do\
+    \ Supremo Tribunal Administrativo, criados no Decreto-Lei n.º 40768, de 8 de Setembro de 1956, na redacção presente diploma,\
+    \ pelo citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/699-1973-408095
+  date: '1973-12-28'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280710:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:36Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +130,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 1.º e os §§ 1.º e 2.º do artigo 3.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º e os §§ 1.º e 2.º do artigo 3.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O Supremo Tribunal Administrativo (S. T. A.) funciona junto da Presidência do Conselho, é formado por um presidente e doze juízes e compreende quatro secções:
+Artigo 1.º O Supremo Tribunal Administrativo (S. T. A.) funciona junto da Presidência do Conselho, é formado por um presidente e doze juízes e compreende quatro secções:
 
 a) 1.ª secção, do contencioso administrativo;
 
@@ -117,7 +156,7 @@ d) 4.ª secção, aduaneira.
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º Nas vagas da 2.ª secção poderão ser providos os juízes do Tribunal da 2.ª Instância do Contencioso das Contribuições e Impostos que tenham cinco anos, pelo menos, de exercício de funções nesse tribunal, e nas da 4.ª secção os auditores fiscais com dez anos de exercício de funções ou cinco se forem juízes de 1.ª classe.
 
@@ -125,15 +164,15 @@ d) 4.ª secção, aduaneira.
 
 Poderá ser também reduzido a dez anos o tempo exigido para os magistrados com a classificação de Muito bom e para os directores-gerais, ou equiparados, com funções de representação do Ministério Público nas secções em que se verificar a vaga a preencher.
 
-###### Art. 2.º Os juízes da 4.ª, secção transitam para a 3.ª e o mais moderno da 2.ª para a 4.ª secção, independentemente de nomeação, visto do Tribunal de Contas e posse.
+Art. 2.º Os juízes da 4.ª, secção transitam para a 3.ª e o mais moderno da 2.ª para a 4.ª secção, independentemente de nomeação, visto do Tribunal de Contas e posse.
 
-###### Art. 3.º O quadro anexo ao Decreto n.º 39889, de 5 de Novembro de 1954, é aumentado, no que respeita ao Supremo Tribunal Administrativo, com um lugar de arquivista e um de dactilógrafo.
+Art. 3.º O quadro anexo ao Decreto n.º 39889, de 5 de Novembro de 1954, é aumentado, no que respeita ao Supremo Tribunal Administrativo, com um lugar de arquivista e um de dactilógrafo.
 
-###### Art. 4.º O arquivista será nomeado de entre licenciados em Direito, sendo motivo de preferência a classificação de Bom ou superior e ainda o perfeito conhecimento de duas línguas estrangeiras, e terá o vencimento correspondente à letra L do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Art. 4.º O arquivista será nomeado de entre licenciados em Direito, sendo motivo de preferência a classificação de Bom ou superior e ainda o perfeito conhecimento de duas línguas estrangeiras, e terá o vencimento correspondente à letra L do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 5.º O provimento dos cargos a que se referem os artigos 3.º e 4.º será feito por contrato renovável de um ano, subentendendo-se a renovação, e a nomeação poderá ser convertida em definitiva passados três anos de bom e efectivo serviço.
+Art. 5.º O provimento dos cargos a que se referem os artigos 3.º e 4.º será feito por contrato renovável de um ano, subentendendo-se a renovação, e a nomeação poderá ser convertida em definitiva passados três anos de bom e efectivo serviço.
 
-###### Art. 6.º Ao arquivista incumbe designadamente:
+Art. 6.º Ao arquivista incumbe designadamente:
 
 1.º A substituição do secretário nas suas faltas e impedimentos;
 
@@ -145,8 +184,8 @@ Poderá ser também reduzido a dez anos o tempo exigido para os magistrados com 
 
 5.º A organização e actualização de ficheiros de legislação, jurisprudência e doutrina.
 
-###### Art. 7.º Fica revogado o artigo 6.º e seus parágrafos do regulamento aprovado pelo [Decreto n.º 41234](https://diariodarepublica.pt/dr/detalhe/decreto/41234-1957-280710), de 20 de Agosto de 1957.
+Art. 7.º Fica revogado o artigo 6.º e seus parágrafos do regulamento aprovado pelo [Decreto n.º 41234](https://diariodarepublica.pt/dr/detalhe/decreto/41234-1957-280710), de 20 de Agosto de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

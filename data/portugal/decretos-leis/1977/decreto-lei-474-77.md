@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26200/27012702.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1977-280699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 770b644a2af007d17efafdd7a862b3bdf07f76e1d43224ef4594bbec9a0f0bf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb87284361cc6487de4ee65d3a1508dcaab6ccf79927a5a35e21fdb47e21e404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Construção Civil
+- Contrato de Construção
+- Custo da Construção
+- Direcção Geral de Coordenação das Empresas de Construção Civil
+- Empreitada de Obras Públicas
+- Empreiteiro de Obras Públicas
+- Fixação de Preços
+- Obras Particulares
 relationships:
 - type: amended_by
   target: pt:dre:169780051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:626600:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240800:por
+  label: "Revogado pelo DEC LEI.6/2004.06.01.2004.MOPTH, DR.IS-A [4] de 06.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2004-240800
+  date: '2004-01-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:50Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +120,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A revisão dos preços das empreitadas, subempreitadas e fornecimentos de equipamento para incorporação em obras de construção civil particulares objecto de contrato escrito e adjudicadas a partir da data da entrada em vigor do presente diploma fica sujeita, em função das variações, para mais ou para menos, dos custos de mão-de-obra e dos materiais relativamente aos correspondentes valores em que se baseia o preço acordado, às normas seguintes.
+Artigo 1.º A revisão dos preços das empreitadas, subempreitadas e fornecimentos de equipamento para incorporação em obras de construção civil particulares objecto de contrato escrito e adjudicadas a partir da data da entrada em vigor do presente diploma fica sujeita, em função das variações, para mais ou para menos, dos custos de mão-de-obra e dos materiais relativamente aos correspondentes valores em que se baseia o preço acordado, às normas seguintes.
 
-###### Art. 2.º - 1 - A revisão será efectuada nos termos que foram estipulados em cláusulas insertas nos contratos ou em conformidade com as regras contidas no presente diploma.
+Art. 2.º - 1 - A revisão será efectuada nos termos que foram estipulados em cláusulas insertas nos contratos ou em conformidade com as regras contidas no presente diploma.
 
 2 - Em qualquer dos casos, o empreiteiro, na sua proposta, deverá sempre indicar as condições em que será efectuada a revisão de preços. A não observância deste princípio implica a perda do direito à revisão, sem prejuízo do disposto no artigo 437.º do Código Civil.
 
@@ -112,7 +130,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A revisão será feita por iniciativa do dono da obra ou a requerimento do empreiteiro, mas, em qualquer dos casos, somente quando o coeficiente de actualização a aplicar ao montante sujeito a revisão atingir uma variação igual a 10%.
 
-###### Art. 3.º - 1 - Não são revisíveis, nos termos deste diploma, os preços das empreitadas, subempreitadas e fornecimentos de equipamento para incorporação em obras de construção civil cujo valor global contratado seja inferior a 1000 contos.
+Art. 3.º - 1 - Não são revisíveis, nos termos deste diploma, os preços das empreitadas, subempreitadas e fornecimentos de equipamento para incorporação em obras de construção civil cujo valor global contratado seja inferior a 1000 contos.
 
 2 - Para as empreitadas, subempreitadas e fornecimentos cujo valor global contratado seja superior a 1000 contos e inferior a 5000 contos os preços são revisíveis, nos termos do presente diploma, se ambas as partes assim o estipularem.
 
@@ -120,11 +138,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os valores limites fixados nos números anteriores não incluem valores referentes a contratos adicionais.
 
-###### Art. 4.º - 1 - A revisão de preço será estabelecida mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos da fórmula geral prevista para a revisão de preços de empreitadas de obras públicas.
+Art. 4.º - 1 - A revisão de preço será estabelecida mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos da fórmula geral prevista para a revisão de preços de empreitadas de obras públicas.
 
 Poder-se-á recorrer a fórmulas simplificadas do tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/26200/27012702.pdf))](https://files.diariodarepublica.pt/1s/1977/11/26200/27012702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/26200/27012702.pdf)
 
 2 - Para efeitos de revisão no respeitante à mão-de-obra, não serão consideradas as variações dos encargos com o pessoal dirigente, com o pessoal técnico e de escritório e, ainda, os chefes de oficina, fiéis de armazém e equiparados.
 
@@ -136,34 +154,34 @@ Poder-se-á recorrer a fórmulas simplificadas do tipo:
 
 6 - Se não tiver sido acordado no contrato um programa de trabalho, tendo unicamente sido fixado o prazo de execução da obra, os trabalhos executados ou fornecimentos feitos para além deste prazo, por factos imputáveis ao empreiteiro, não serão sujeitos a revisão de preços.
 
-###### Art. 5.º Os índices ponderados dos custos de mão-de-obra e de materiais a considerar para a aplicação do presente diploma serão os fixados nos termos do diploma que regula a revisão de preços de empreitadas de obras públicas, prevendo-se também a futura publicação de outros índices para aplicação de fórmulas simplificadas como a referida no n.º 1 do artigo 4.º
+Art. 5.º Os índices ponderados dos custos de mão-de-obra e de materiais a considerar para a aplicação do presente diploma serão os fixados nos termos do diploma que regula a revisão de preços de empreitadas de obras públicas, prevendo-se também a futura publicação de outros índices para aplicação de fórmulas simplificadas como a referida no n.º 1 do artigo 4.º
 
-###### Art. 6.º - 1 - No decurso da execução das empreitadas ou fornecimentos serão efectuadas revisões de preços calculadas com base nos índices nessa data disponíveis. Na falta de índices oficiais correspondentes a determinado mês, serão efectuadas revisões provisórias calculadas com base nos últimos índices publicados. Estas revisões provisórias deverão ser rectificadas logo que sejam publicados os índices em atraso.
+Art. 6.º - 1 - No decurso da execução das empreitadas ou fornecimentos serão efectuadas revisões de preços calculadas com base nos índices nessa data disponíveis. Na falta de índices oficiais correspondentes a determinado mês, serão efectuadas revisões provisórias calculadas com base nos últimos índices publicados. Estas revisões provisórias deverão ser rectificadas logo que sejam publicados os índices em atraso.
 
 2 - O cálculo final da revisão e a sua liquidação reportar-se-ão à data da recepção da obra ou da entrega dos fornecimentos.
 
 3 - O direito à revisão de preços caducará noventa dias após a referida recepção ou entrega.
 
-###### Art. 7.º - 1 - Nos contratos em que se prevejam liquidações mensais atender-se-á, para a revisão, aos índices relativos ao mês a que ela se reporta.
+Art. 7.º - 1 - Nos contratos em que se prevejam liquidações mensais atender-se-á, para a revisão, aos índices relativos ao mês a que ela se reporta.
 
 2 - Nos contratos em que não se prevejam liquidações mensais atender-se-á, para a revisão, às médias aritméticas dos índices mensais do período a que ela se reporta, se se puder considerar a execução da empreitada ou fornecimento uniformemente distribuída pelos diferentes meses desse período e se neste se não tiverem verificado variações irregulares do custo de mão-de-obra e de materiais.
 
 No caso contrário, far-se-á a decomposição do mesmo período em parcelas a que sejam aplicáveis aquelas condições, procedendo-se, em relação a cada parcela, nos termos prescritos na regra anterior e somando-se algebricamente os resultados parciais obtidos.
 
-###### Art. 8.º - 1 - Nas obras em que se prevejam liquidações que não sejam referidas às quantidades de trabalho efectivamente medidas e controladas pelo dono da obra o cálculo do valor da revisão de preços far-se-á atendendo-se para o efeito às médias aritméticas dos índices mensais do período a que se refere a revisão, considerando para o efeito que a obra se distribui uniformemente pelo seu prazo real da execução, desde que antes da adjudicação tenha sido expressamente comunicado pelo empreiteiro que a revisão de preços se processará nestes moldes.
+Art. 8.º - 1 - Nas obras em que se prevejam liquidações que não sejam referidas às quantidades de trabalho efectivamente medidas e controladas pelo dono da obra o cálculo do valor da revisão de preços far-se-á atendendo-se para o efeito às médias aritméticas dos índices mensais do período a que se refere a revisão, considerando para o efeito que a obra se distribui uniformemente pelo seu prazo real da execução, desde que antes da adjudicação tenha sido expressamente comunicado pelo empreiteiro que a revisão de preços se processará nestes moldes.
 
 2 - A comunicação referida no número anterior será feita por carta registada com aviso de recepção. A falta dessa comunicação implica a perda do direito da revisão de preços, sem prejuízo do disposto no artigo 437.º do Código Civil.
 
-###### Art. 9.º Sendo concedidos ao empreiteiro adiantamentos para aquisição de materiais sujeitos a flutuações de preços, os valores dos índices a considerar, para efeitos de revisão de parcela de cada situação de trabalhos correspondentes a esses adiantamentos, serão os respeitantes à data da concessão dos mesmos.
+Art. 9.º Sendo concedidos ao empreiteiro adiantamentos para aquisição de materiais sujeitos a flutuações de preços, os valores dos índices a considerar, para efeitos de revisão de parcela de cada situação de trabalhos correspondentes a esses adiantamentos, serão os respeitantes à data da concessão dos mesmos.
 
-###### Art. 10.º - 1 - Sempre que assim o acordarem e em caso de divergência, podem as partes recorrer a uma comissão arbitral, constituída por três peritos, sendo um nomeado pelo dono da obra, outro pelo empreiteiro e o terceiro pela Direcção-Geral de Coordenação das Empresas de Construção Civil.
+Art. 10.º - 1 - Sempre que assim o acordarem e em caso de divergência, podem as partes recorrer a uma comissão arbitral, constituída por três peritos, sendo um nomeado pelo dono da obra, outro pelo empreiteiro e o terceiro pela Direcção-Geral de Coordenação das Empresas de Construção Civil.
 
 2 - Da decisão dessa comissão caberá recurso para os tribunais competentes.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Eduardo Ribeiro Pereira.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

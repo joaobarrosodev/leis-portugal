@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/235-1973-422063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35bee1c5e0229c587e3c65883602ad1c926ea76d47f3e6c411c3b36d255b6d3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 913edb7487f72fc0a7f5d57834a49cad4b765673d2f95b44ff8c3e39fb4013cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:29Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +95,12 @@ Nos termos do n.º 1.º do artigo 12.º do Código Administrativo;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A freguesia de S. Bartolomeu, do concelho e distrito autónomo de Angra do Heroísmo, passa a denominar-se S. Bartolomeu de Regatos.
+Artigo único. A freguesia de S. Bartolomeu, do concelho e distrito autónomo de Angra do Heroísmo, passa a denominar-se S. Bartolomeu de Regatos.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 26 de Abril de 1973.**
+Promulgado em 26 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45269-1963-686809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5da778d4b664c5125a7aeb8460fb088a0c36c38b8eb1799c02f0f0db1212b70b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68a2bd164f73dd8a8145d54b5d7eb5490df7f6876a8887c37c635e2964047f16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Contribuições e Impostos
+- Direitos Aduaneiros
+- Direitos de Exportação
+- Exportação
+- Gestão Financeira
+- Isenção Fiscal
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:24Z'
   warnings: []
   errors: []
 ---
@@ -91,33 +106,33 @@ Considerando que dentro dessa orientação se enquadram, no que se refere à exp
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º São livres de direitos de exportação as mercadorias compreendidas na classe 5.ª da respectiva pauta.
+Artigo 1.º São livres de direitos de exportação as mercadorias compreendidas na classe 5.ª da respectiva pauta.
 
-###### Art. 2.º São livres de direitos as mercadorias classificadas pelos artigos 26 e 58 da pauta de exportação.
+Art. 2.º São livres de direitos as mercadorias classificadas pelos artigos 26 e 58 da pauta de exportação.
 
-###### Art. 3.º É alterada, pela forma seguinte, a redacção do artigo 31-B da pauta de exportação:
+Art. 3.º É alterada, pela forma seguinte, a redacção do artigo 31-B da pauta de exportação:
 
-###### Artigo 31-B - Hematites e magnetites.
+Artigo 31-B - Hematites e magnetites.
 
-###### Art. 4.º São alteradas, pela forma seguinte, a redacção e a taxa do artigo 112-B da pauta de exportação:
+Art. 4.º São alteradas, pela forma seguinte, a redacção e a taxa do artigo 112-B da pauta de exportação:
 
-###### Artigo 112-B - Madeira em placas, prensada e em contraplacados ... Livre
+Artigo 112-B - Madeira em placas, prensada e em contraplacados ... Livre
 
-###### Art. 5.º É eliminado da pauta de exportação o artigo 103-A.
+Art. 5.º É eliminado da pauta de exportação o artigo 103-A.
 
-###### Art. 6.º São inseridos na pauta de exportação os artigos 62-B, 103-A, 103-B, 103-C e 112-C, com a redacção seguinte:
+Art. 6.º São inseridos na pauta de exportação os artigos 62-B, 103-A, 103-B, 103-C e 112-C, com a redacção seguinte:
 
-###### Artigo 62-B - Fios de lã penteada ... Livres
+Artigo 62-B - Fios de lã penteada ... Livres
 
-###### Artigo 103-A - Acessórios para ligações de tubos, de ferro ou aço ... Livres
+Artigo 103-A - Acessórios para ligações de tubos, de ferro ou aço ... Livres
 
-###### Artigo 103-B - Banheiras de ferro esmaltado ... Livres
+Artigo 103-B - Banheiras de ferro esmaltado ... Livres
 
-###### Artigo 103-C - Calçado ... Livre
+Artigo 103-C - Calçado ... Livre
 
-###### Artigo 112-C - Madeira em obra não especificada de carpintaria ... Livre
+Artigo 112-C - Madeira em obra não especificada de carpintaria ... Livre
 
-###### Art. 7.º São eliminadas do índice remissivo da pauta de exportação as seguintes rubricas e respectivas remissões:
+Art. 7.º São eliminadas do índice remissivo da pauta de exportação as seguintes rubricas e respectivas remissões:
 
 Calçado:
 
@@ -125,7 +140,7 @@ De lona com borracha ... 103-A
 
 Não especificado ... 120
 
-###### Art. 8.º São alteradas pela forma seguinte as remissões das rubricas do índice remissivo da pauta de exportação:
+Art. 8.º São alteradas pela forma seguinte as remissões das rubricas do índice remissivo da pauta de exportação:
 
 Alpargatas ... 103-C
 
@@ -137,7 +152,7 @@ Em caixilharia ... 112-C
 
 Solho e folho, aparelhados ... 112-C
 
-###### Art. 9.º São introduzidas no índice remissivo da pauta de exportação as seguintes rubricas e respectivas remissões:
+Art. 9.º São introduzidas no índice remissivo da pauta de exportação as seguintes rubricas e respectivas remissões:
 
 Acessórios para ligações de tubos, de ferro ou aço ... 103-A
 
@@ -157,6 +172,6 @@ Magnetites ... 31-B
 
 Placas de fibra de madeira prensada ... 112-B
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

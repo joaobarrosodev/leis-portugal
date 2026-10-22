@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46248-1965-238636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac3cb243b6fdea404b2e828e0326b307db4a393aab73d221830c96a6db969ecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8236fefc7b267e3fad0c083274173d720f1a8f1d50902ce58213f83cf9b4b641
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Engenharia
+- Militar
+- Oficial do Quadro Permanente
 relationships:
 - type: amended_by
   target: pt:dre:292315:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292315:por
+  label: "Alterada a al. e) do art. 3º e a al. c) do art. 14º pelo DEC LEI.46489.14.08.1965.MX, DG.IS [182] de 14.08.1965\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46489-1965-292315
+  date: '1965-08-14'
+- type: cites
+  target: pt:dre:500890:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:36Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +108,11 @@ Tornando-se necessário promover a admissão rápida de oficiais engenheiros no 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sempre que as circunstâncias o exijam, pode o Ministro do Exército mandar abrir concurso extraordinário para o recrutamento de oficiais engenheiros para o quadro permanente do serviço de material.
+Artigo 1.º Sempre que as circunstâncias o exijam, pode o Ministro do Exército mandar abrir concurso extraordinário para o recrutamento de oficiais engenheiros para o quadro permanente do serviço de material.
 
-###### Art. 2.º O prazo de admissão ao concurso será de 30 dias, contados a partir da data da publicação da abertura do concurso no Diário do Governo.
+Art. 2.º O prazo de admissão ao concurso será de 30 dias, contados a partir da data da publicação da abertura do concurso no Diário do Governo.
 
-###### Art. 3.º São condições indispensáveis de admissão ao referido concurso:
+Art. 3.º São condições indispensáveis de admissão ao referido concurso:
 
 a) Ser cidadão português, filho de pais portugueses originários;
 
@@ -132,7 +146,7 @@ Maior antiguidade;
 
 Menor idade.
 
-###### Art. 4.º Os candidatos deverão instruir o seu processo para admissão ao concurso com os seguintes documentos:
+Art. 4.º Os candidatos deverão instruir o seu processo para admissão ao concurso com os seguintes documentos:
 
 a) Requerimento dirigido ao Ministro do Exército;
 
@@ -154,29 +168,29 @@ h) Certificado do registo criminal devidamente actualizado.
 
 § 2.º A informação a que se refere a alínea f) do artigo 3.º poderá ser enviada até 30 dias após a data de encerramento, sendo os candidatos que a não possuam admitidos condicionalmente.
 
-###### Art. 5.º A lista dos candidatos admitidos será publicada em Ordem do Exército.
+Art. 5.º A lista dos candidatos admitidos será publicada em Ordem do Exército.
 
-###### Art. 6.º Os candidatos admitidos frequentarão, conforme a especialidade, um curso na Academia Militar e um estágio em estabelecimentos fabris do Ministério do Exército, na Escola Prática do Serviço de Material ou na Escola Militar de Electromecânica.
+Art. 6.º Os candidatos admitidos frequentarão, conforme a especialidade, um curso na Academia Militar e um estágio em estabelecimentos fabris do Ministério do Exército, na Escola Prática do Serviço de Material ou na Escola Militar de Electromecânica.
 
 Os candidatos que não tenham aproveitamento no curso e estágios serão eliminados por despacho do Ministro do Exército.
 
-###### Art. 7.º Os candidatos admitidos à frequência do curso ingressarão na Academia Militar com o posto de tenente graduado, que manterão até lhes competir a promoção a tenente.
+Art. 7.º Os candidatos admitidos à frequência do curso ingressarão na Academia Militar com o posto de tenente graduado, que manterão até lhes competir a promoção a tenente.
 
 Logo que ingressem no quadro permanente, ficarão colocados imediatamente à esquerda do último classificado do curso normal da Academia Militar saído no mesmo ano lectivo.
 
-###### Art. 8.º A antiguidade relativa dos candidatos para efeito de colocação na escala do quadro permanente resultará da média das classificações obtidas no curso civil, curso da Academia Militar e estágios.
+Art. 8.º A antiguidade relativa dos candidatos para efeito de colocação na escala do quadro permanente resultará da média das classificações obtidas no curso civil, curso da Academia Militar e estágios.
 
 Em caso de igualdade de médias atender-se-á à antiguidade.
 
-###### Art. 9.º Os admitidos contam o tempo de serviço que tenham prestado como oficiais milicianos para efeito de passagem à situação de reserva.
+Art. 9.º Os admitidos contam o tempo de serviço que tenham prestado como oficiais milicianos para efeito de passagem à situação de reserva.
 
-###### Art. 10.º Os oficiais ou aspirantes a oficial miliciano que se encontrem no ultramar prestando serviço em comissão militar à data da abertura dos concursos e desejem concorrer serão mandados regressar à metrópole a tempo de frequentarem o curso, caso reúnam as condições exigidas para tal. O mesmo se aplicará àqueles que se encontrem mobilizados.
+Art. 10.º Os oficiais ou aspirantes a oficial miliciano que se encontrem no ultramar prestando serviço em comissão militar à data da abertura dos concursos e desejem concorrer serão mandados regressar à metrópole a tempo de frequentarem o curso, caso reúnam as condições exigidas para tal. O mesmo se aplicará àqueles que se encontrem mobilizados.
 
-###### Art. 11.º O curso a organizar na Academia Militar não terá duração superior a oito meses, e o estágio não excederá três meses.
+Art. 11.º O curso a organizar na Academia Militar não terá duração superior a oito meses, e o estágio não excederá três meses.
 
-###### Art. 12.º O curso será organizado de acordo com a parte final do § 3.º do artigo 33.º da [Portaria n.º 17894](https://diariodarepublica.pt/dr/detalhe/portaria/17894-1960-500890), de 10 de Agosto de 1960.
+Art. 12.º O curso será organizado de acordo com a parte final do § 3.º do artigo 33.º da [Portaria n.º 17894](https://diariodarepublica.pt/dr/detalhe/portaria/17894-1960-500890), de 10 de Agosto de 1960.
 
-###### Art. 13.º As cadeiras professadas neste curso serão:
+Art. 13.º As cadeiras professadas neste curso serão:
 
 11.ª Elementos de Química e Explosivos.
 
@@ -200,7 +214,7 @@ Agressivos Químicos.
 
 Electricidade Aplicada à Balística.
 
-###### Art. 14.º A distribuição das cadeiras pelas especialidades consideradas é a seguinte:
+Art. 14.º A distribuição das cadeiras pelas especialidades consideradas é a seguinte:
 
 a) Engenharia Mecânica Militar:
 
@@ -222,17 +236,17 @@ Cadeiras semestrais - 42.ª
 
 § único. Na 34.ª cadeira serão incluídas noções gerais de Organização e Táctica Geral.
 
-###### Art. 15.º Sob a forma de conferências, serão ministrados aos alunos conhecimentos gerais da 25.ª cadeira (Estudos Ultramarinos) e da 21.ª cadeira (Deontologia Militar, 2.ª parte).
+Art. 15.º Sob a forma de conferências, serão ministrados aos alunos conhecimentos gerais da 25.ª cadeira (Estudos Ultramarinos) e da 21.ª cadeira (Deontologia Militar, 2.ª parte).
 
-###### Art. 16.º Será também ministrada instrução de educação física, dentro de um programa devidamente adaptado à idade dos alunos e às suas futuras funções como oficiais do quadro permanente.
+Art. 16.º Será também ministrada instrução de educação física, dentro de um programa devidamente adaptado à idade dos alunos e às suas futuras funções como oficiais do quadro permanente.
 
-###### Art. 17.º Aos alunos deste curso será ministrada pelo corpo de alunos instrução militar geral.
+Art. 17.º Aos alunos deste curso será ministrada pelo corpo de alunos instrução militar geral.
 
-###### Art. 18.º O regime de funcionamento das aulas e dos trabalhos escolares destes cursos é o previsto para os restantes cursos que funcionam na Academia Militar, em tudo que for aplicável.
+Art. 18.º O regime de funcionamento das aulas e dos trabalhos escolares destes cursos é o previsto para os restantes cursos que funcionam na Academia Militar, em tudo que for aplicável.
 
-###### Art. 19.º Os casos não previstos neste diploma serão resolvidos por despacho ministerial.
+Art. 19.º Os casos não previstos neste diploma serão resolvidos por despacho ministerial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

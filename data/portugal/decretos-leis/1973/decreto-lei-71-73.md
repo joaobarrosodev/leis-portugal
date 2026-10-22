@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55730ad3130af6fcb774d6ad71244780c3a38d40a2ad63468dea4017f0f7478c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6df26c2a25f0a7a0620413d81ef2c51783a880082d80d2ff0d1b6daf9cec3f6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Instituto de Meios Audiovisuais de Educação
+- Instituto de Tecnologia Educativa
+- Integração de Trabalhadores
+- Ministério da Educação Nacional
+- OBRA Social
+- Orgânica
+- Quadro de Pessoal
+- Serviços Sociais
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:357130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312409:por
+  label: O quadro referido no n.º1 do art. 1.º, acresce-se ao do Instituto de Tecnologia Educativa, constante do presente
+    diploma, pelo(a) Decreto n.º 601/75 - Diário do Governo n.º 251/1975, Série I de 1975-10-29, deste.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/601-1975-312409
+  date: '1975-10-29'
+- type: amended_by
+  target: pt:dre:408758:por
+  label: "Reposto em vigor pelo DEC LEI.676/76.31.08.1976.MEIC, DR.IS [204] de 31.08.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/676-1976-408758
+  date: '1976-08-31'
+- type: amended_by
+  target: pt:dre:357130:por
+  label: "Extinto o Instituto de Tecnologia Educativa criado primeiramente como Instituto de Meios Áudio-Visuais do Ensino,\
+    \ pelo Dec Lei 46135 de 31-Dez de 1964 (posteriormente redenominado pelos Dec Lei 48962 de 14-Abr de 1969 e 408/71 de\
+    \ 27-Set) cuja orgânica consta do presente diploma, pelo DEC LEI.444/88.02.12.1988.ME, DR.IS [278] de 02.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1988-357130
+  date: '1988-12-02'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:429806:por
+  label: "Revogado o presente diploma e extinto o Instituto de Tecnologia Educativa, pelo DEC LEI.659/76.03.08.1976.MEIC,\
+    \ DR.IS [180] de 03.08.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/659-1976-429806
+  date: '1976-08-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:57Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +160,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I - Das atribuições e competência
 
-###### Artigo 1.º - 1. O Instituto de Tecnologia Educativa, instituído pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, goza de personalidade jurídica e de autonomia administrativa e financeira.
+Artigo 1.º - 1. O Instituto de Tecnologia Educativa, instituído pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, goza de personalidade jurídica e de autonomia administrativa e financeira.
 
 2. O Instituto de Tecnologia Educativa sucede e substitui o Instituto de Meios Áudio-Visuais de Educação, para ele transitando todos os seus direitos e obrigações.
 
-###### Art. 2.º São atribuições do Instituto de Tecnologia Educativa:
+Art. 2.º São atribuições do Instituto de Tecnologia Educativa:
 
 a) Promover a utilização dos recursos proporcionados pelas técnicas modernas na actualização dos métodos pedagógicos e na harmonização permanente do conteúdo do ensino com essas técnicas;
 
@@ -116,7 +172,7 @@ b) Organizar e manter, através da radiodifusão sonora e da televisão, activid
 
 c) Dar apoio técnico, no seu domínio específico, aos restantes serviços do Ministério da Educação Nacional e, ainda, quando for caso disso, a quaisquer outros departamentos interessados no aperfeiçoamento da sua própria acção educativa.
 
-###### Art. 3.º No desempenho das atribuições fixadas pelo artigo anterior, cabe, designadamente, ao Instituto de Tecnologia Educativa:
+Art. 3.º No desempenho das atribuições fixadas pelo artigo anterior, cabe, designadamente, ao Instituto de Tecnologia Educativa:
 
 a) Realizar, através da Telescola ou em colaboração com outros organismos, nomeadamente com as direcções-gerais de ensino, estudos e experiências pedagógicas relacionadas com as suas finalidades;
 
@@ -134,9 +190,9 @@ g) Prestar apoio pedagógico e técnico às realizações previstas na alínea a
 
 h) Celebrar acordos e contratos com quaisquer entidades ou organizações, nacionais ou estrangeiras, oficiais ou privadas, ou participar em sociedades para a produção ou aquisição e distribuição e venda de programas e material educativo.
 
-###### Art. 4.º Sempre que tal se mostre necessário para melhor realização das suas finalidades, poderão ser criados centros regionais do Instituto de Tecnologia Educativa, integrados nos órgãos e serviços externos do Ministério, que serão objecto de legislação especial.
+Art. 4.º Sempre que tal se mostre necessário para melhor realização das suas finalidades, poderão ser criados centros regionais do Instituto de Tecnologia Educativa, integrados nos órgãos e serviços externos do Ministério, que serão objecto de legislação especial.
 
-###### Art. 5.º - 1. O Instituto de Tecnologia Educativa tornará pública anualmente a lista de aparelhagem áudio-visual destinada a fins didácticos e culturais que poderá ser adquirida pelos serviços dependentes do Ministério da Educação Nacional.
+Art. 5.º - 1. O Instituto de Tecnologia Educativa tornará pública anualmente a lista de aparelhagem áudio-visual destinada a fins didácticos e culturais que poderá ser adquirida pelos serviços dependentes do Ministério da Educação Nacional.
 
 2. A aquisição de material não constante da lista referida no número anterior fica dependente de parecer do Instituto.
 
@@ -146,7 +202,7 @@ h) Celebrar acordos e contratos com quaisquer entidades ou organizações, nacio
 
 II - Órgãos e serviços
 
-###### Art. 6.º - 1. São órgãos do Instituto de Tecnologia Educativa:
+Art. 6.º - 1. São órgãos do Instituto de Tecnologia Educativa:
 
 a) A direcção;
 
@@ -164,7 +220,7 @@ b) Direcção dos Serviços Operacionais;
 
 c) Repartição Administrativa.
 
-###### Art. 7.º - 1. A direcção tem a seguinte constituição:
+Art. 7.º - 1. A direcção tem a seguinte constituição:
 
 a) Um presidente;
 
@@ -180,7 +236,7 @@ e) Dois vogais do Ministério da Educação Nacional.
 
 3. Os vogais da direcção mencionados no número anterior poderão ser, total ou parcialmente, dispensados do desempenho das suas funções próprias.
 
-###### Art. 8.º - 1. A direcção tem a seu cargo a orientação superior das actividades do Instituto, competindo-lhe, designadamente:
+Art. 8.º - 1. A direcção tem a seu cargo a orientação superior das actividades do Instituto, competindo-lhe, designadamente:
 
 a) Elaborar os planos de actividades e os orçamentos e pronunciar-se sobre as contas de gerência do Instituto;
 
@@ -192,7 +248,7 @@ d) Decidir sobre as aquisições necessárias ao funcionamento dos serviços.
 
 2. A direcção delibera por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 9.º Ao presidente da direcção compete dirigir, orientar e coordenar todas as actividades do Instituto, imprimindo-lhes unidade, continuidade e eficiência e, ainda:
+Art. 9.º Ao presidente da direcção compete dirigir, orientar e coordenar todas as actividades do Instituto, imprimindo-lhes unidade, continuidade e eficiência e, ainda:
 
 a) Representar o Instituto;
 
@@ -202,17 +258,17 @@ c) Submeter à apreciação do Ministro da Educação Nacional as deliberações
 
 d) Presidir ao conselho administrativo.
 
-###### Art. 10.º - 1. O presidente será coadjuvado por um vice-presidente, que o substitui nas suas faltas e impedimentos.
+Art. 10.º - 1. O presidente será coadjuvado por um vice-presidente, que o substitui nas suas faltas e impedimentos.
 
 2. O presidente, mediante despacho do Ministro da Educação Nacional, poderá delegar no vice-presidente algumas das suas atribuições.
 
 3. O vice-presidente pode dirigir um serviço na falta do respectivo director.
 
-###### Art. 11.º - 1. O conselho administrativo é constituído pelo presidente da direcção do Instituto, pelo chefe da Repartição Administrativa e por dois vogais nomeados pelo Ministro da Educação Nacional.
+Art. 11.º - 1. O conselho administrativo é constituído pelo presidente da direcção do Instituto, pelo chefe da Repartição Administrativa e por dois vogais nomeados pelo Ministro da Educação Nacional.
 
 2. O conselho administrativo delibera por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 12.º Compete ao conselho administrativo:
+Art. 12.º Compete ao conselho administrativo:
 
 a) Aprovar os projectos de orçamento;
 
@@ -222,7 +278,7 @@ c) Fiscalizar a cobrança das receitas e o pagamento das despesas;
 
 d) Dar mensalmente balanço ao cofre a cargo do tesoureiro.
 
-###### Art. 13.º - 1. O conselho consultivo funciona junto da direcção e tem a constituição seguinte:
+Art. 13.º - 1. O conselho consultivo funciona junto da direcção e tem a constituição seguinte:
 
 a) O director do Instituto Nacional de Pedagogia, que preside;
 
@@ -242,11 +298,11 @@ g) Representantes de serviços de outros Ministérios cuja participação seja c
 
 3. As reuniões do conselho serão convocadas pelo seu presidente, podendo o mesmo funcionar por secções, a instituir mediante despacho do Ministro da Educação Nacional.
 
-###### Art. 14.º Ao conselho consultivo compete emitir parecer e apresentar sugestões de natureza técnica e pedagógica relacionadas com as actividades do Instituto.
+Art. 14.º Ao conselho consultivo compete emitir parecer e apresentar sugestões de natureza técnica e pedagógica relacionadas com as actividades do Instituto.
 
-###### Art. 15.º Os membros da direcção, do conselho administrativo e do conselho consultivo que não pertençam aos quadros do Instituto terão direito a senhas de presença.
+Art. 15.º Os membros da direcção, do conselho administrativo e do conselho consultivo que não pertençam aos quadros do Instituto terão direito a senhas de presença.
 
-###### Art. 16.º - 1. À Direcção dos Serviços Pedagógicos compete:
+Art. 16.º - 1. À Direcção dos Serviços Pedagógicos compete:
 
 a) Assegurar a realização de actividades educativas e escolares, nomeadamente a da Telescola, em íntima colaboração com os serviços do Ministério nelas interessados;
 
@@ -266,7 +322,7 @@ a) Divisão de Estudos e Planeamento;
 
 b) Divisão de Documentação e Informação.
 
-###### Art. 17.º - 1. À Direcção dos Serviços Operacionais compete:
+Art. 17.º - 1. À Direcção dos Serviços Operacionais compete:
 
 a) Produzir material destinado às actividades referidas no artigo anterior;
 
@@ -282,11 +338,11 @@ a) Divisão de Produção e Realização;
 
 b) Divisão de Assistência e Manutenção.
 
-###### Art. 18.º À Repartição Administrativa compete assegurar todo o serviço de contabilidade, economato, estatística, expediente geral e, ainda, o serviço de administração do pessoal.
+Art. 18.º À Repartição Administrativa compete assegurar todo o serviço de contabilidade, economato, estatística, expediente geral e, ainda, o serviço de administração do pessoal.
 
 III - Das receitas e despesas
 
-###### Art. 19.º Constituem receitas do Instituto de Tecnologia Educativa:
+Art. 19.º Constituem receitas do Instituto de Tecnologia Educativa:
 
 a) As dotações que lhe forem consignadas no Orçamento Geral do Estado ou atribuídas pelos corpos administrativos;
 
@@ -302,7 +358,7 @@ f) O produto de propinas e emolumentos relativos a cursos promovidos pelo Instit
 
 g) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou outro título.
 
-###### Art. 20.º - 1. Constituem despesas do Instituto as que resultarem da execução das suas actividades.
+Art. 20.º - 1. Constituem despesas do Instituto as que resultarem da execução das suas actividades.
 
 2. As despesas de realização e transmissão dos programas de radiodifusão sonora ficam a cargo da Emissora Nacional de Radiodifusão e as dos programas de televisão são satisfeitas nos termos da legislação aplicável.
 
@@ -312,7 +368,7 @@ g) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou 
 
 IV - Do pessoal
 
-###### Art. 21.º - 1. O pessoal do Instituto e os respectivos vencimentos constam do quadro anexo ao presente diploma.
+Art. 21.º - 1. O pessoal do Instituto e os respectivos vencimentos constam do quadro anexo ao presente diploma.
 
 2. O quadro referido no número anterior é acrescido aos quadros únicos a que se referem os artigos 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e 22.º, n.º 3, do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
@@ -320,7 +376,7 @@ IV - Do pessoal
 
 4. O pessoal do Instituto será distribuído pelos diversos serviços, mediante despacho do presidente da direcção.
 
-###### Art. 22.º - 1. As formas de recrutamento e os regimes de provimento do pessoal do quadro do Instituto de Tecnologia Educativa serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 22.º - 1. As formas de recrutamento e os regimes de provimento do pessoal do quadro do Instituto de Tecnologia Educativa serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de presidente será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior adequado e de reconhecida competência ou de entre inspectores-gerais da Junta Nacional de Educação;
 
@@ -332,60 +388,60 @@ b) Os lugares de vice-presidente e de director de serviços serão providos por 
 
 4. Quando os vogais da direcção forem totalmente dispensados do desempenho das funções próprias, poderá o Ministro da Educação Nacional autorizar o provimento interino dos respectivos cargos.
 
-###### Art. 23.º - 1. Pode o Ministro da Educação Nacional, pelo prazo de três anos, mandar prestar serviço em actividades inspectivas ou pedagógicas especializadas dependentes do Instituto de Tecnologia Educativa a agentes de ensino de qualquer grau, em regime de tempo integral ou parcial e até ao número de dez.
+Art. 23.º - 1. Pode o Ministro da Educação Nacional, pelo prazo de três anos, mandar prestar serviço em actividades inspectivas ou pedagógicas especializadas dependentes do Instituto de Tecnologia Educativa a agentes de ensino de qualquer grau, em regime de tempo integral ou parcial e até ao número de dez.
 
 2. Os referidos agentes de ensino conservam as remunerações correspondentes ao desempenho das suas funções e, quando em regime de tempo integral, serão abonados pelo Instituto.
 
 3. Ao pessoal destacado nos termos, dos números anteriores e aos vogais da direcção que forem incumbidos de funções inspectivas será abonada a gratificação mensal de 2000$00 ou de 1000$00, conforme exerçam funções no Instituto em regime de tempo integral ou parcial.
 
-###### Art. 24.º - 1. As funções correspondentes à colaboração a que se refere o artigo anterior consideram-se, para todos os efeitos, como desempenhadas nos serviços a que os agentes de ensino pertencem.
+Art. 24.º - 1. As funções correspondentes à colaboração a que se refere o artigo anterior consideram-se, para todos os efeitos, como desempenhadas nos serviços a que os agentes de ensino pertencem.
 
 2. A classificação de serviço é feita pelo Instituto de Tecnologia Educativa, enquanto o funcionário estiver nele e trabalhar em regime de tempo integral.
 
-###### Art. 25.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado além do quadro pessoal técnico ou administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
+Art. 25.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado além do quadro pessoal técnico ou administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades dos vencimentos do pessoal dos quadros para efeitos do disposto no presente artigo carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 26.º - 1. Pode ainda o Ministro da Educação Nacional autorizar o contrato ou o assalariamento de pessoal destinado a actividades de natureza técnica e cujos cargos não estejam previstos no quadro anexo ao presente diploma.
+Art. 26.º - 1. Pode ainda o Ministro da Educação Nacional autorizar o contrato ou o assalariamento de pessoal destinado a actividades de natureza técnica e cujos cargos não estejam previstos no quadro anexo ao presente diploma.
 
 2. Ao pessoal a que se refere o número anterior poderá aplicar-se o disposto no n.º 3 do artigo 25.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 3. O pessoal que presta serviço no Instituto de Tecnologia Educativa e não pertencer ao quadro a que se refere o n.º 1 do artigo 21.º do presente diploma poderá ser abrangido pelas respectivas caixas de previdência, competindo ao Instituto o pagamento dos encargos normalmente atribuídos às entidades patronais.
 
-###### Art. 27.º O presidente da direcção poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Instituto, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+Art. 27.º O presidente da direcção poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Instituto, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 28.º Os membros da direcção do Instituto de Tecnologia Educativa gozam da isenção estabelecida no artigo 31.º do [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957.
+Art. 28.º Os membros da direcção do Instituto de Tecnologia Educativa gozam da isenção estabelecida no artigo 31.º do [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957.
 
-###### Art. 29.º Aos membros da direcção e dos conselhos administrativo e consultivo, bem como ao pessoal do Instituto de Tecnologia Educativa e ao que for chamado a colaborar nas suas actividades, serão abonadas ajudas de custo e despesas de transporte quando tiverem de se deslocar em serviço do Instituto.
+Art. 29.º Aos membros da direcção e dos conselhos administrativo e consultivo, bem como ao pessoal do Instituto de Tecnologia Educativa e ao que for chamado a colaborar nas suas actividades, serão abonadas ajudas de custo e despesas de transporte quando tiverem de se deslocar em serviço do Instituto.
 
 V - Disposições finais e transitórias
 
-###### Art. 30.º Até à integração dos serviços sociais do Instituto na Obra Social do Ministério, pode aquele organismo subsidiar iniciativas de carácter social e assistencial em benefício dos seus servidores.
+Art. 30.º Até à integração dos serviços sociais do Instituto na Obra Social do Ministério, pode aquele organismo subsidiar iniciativas de carácter social e assistencial em benefício dos seus servidores.
 
-###### Art. 31.º - 1. O pessoal, nomeado ou contratado, que actualmente presta serviço no Instituto de Meios Áudio-Visuais de Educação será provido em lugares idênticos ou de categoria equivalente do quadro anexo a este diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 31.º - 1. O pessoal, nomeado ou contratado, que actualmente presta serviço no Instituto de Meios Áudio-Visuais de Educação será provido em lugares idênticos ou de categoria equivalente do quadro anexo a este diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados além do quadro, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, para o Instituto de Meios Áudio-Visuais de Educação, desde que os mesmos satisfaçam os requisitos exigidos no presente diploma relativos a habilitações.
 
 3. O pessoal que actualmente presta serviço no Instituto de Meios Áudio-Visuais de Educação e que não for possível prover nos termos previstos nos números anteriores deste artigo transita para o Instituto de Tecnologia Educativa na situação em que se encontrar à data da publicação deste decreto-lei.
 
-###### Art. 32.º Este decreto-lei entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 31.º
+Art. 32.º Este decreto-lei entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 31.º
 
-###### Art. 33.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas dotações inscritas no orçamento privativo do Instituto de Tecnologia Educativa para o ano de 1973.
+Art. 33.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas dotações inscritas no orçamento privativo do Instituto de Tecnologia Educativa para o ano de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 16 de Fevereiro de 1973.**
+Promulgado em 16 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Quadro a que se refere o n.º 1 do artigo 21.º do Decreto-Lei n.º 71/73, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/04900/03130316.pdf))](https://files.diariodarepublica.pt/1s/1973/02/04900/03130316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/04900/03130316.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o presidente da direcção, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

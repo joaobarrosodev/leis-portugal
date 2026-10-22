@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1979-382776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84a9f2b803849b3c1ceb8f7830d51c711574932da8c9dc168bbea5537d4f0ebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02355a2619e95e39b3f022eb0f6de7c2082760af2b5f26cc24875c96e5b97701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dívidas a Previdência
+- Previdência Social
 relationships:
 - type: amended_by
   target: pt:dre:442305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "E DECLARADA, COM FOR&#199;A OBRIGAT&#211;RIA GERAL, A INCONSTITUCIONALIDADE ORG ANICA DA NORMA CONSTANTE DO ART\
+    \ 3 PELA RES DO CR 70/81 DR.IS [78]\0]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-04-03'
+- type: cites
+  target: pt:dre:138282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431396:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442305:por
+  label: "Revogado o disposto nos artigos 6.º a 9.º, pelo DEC LEI.103/80.09.05.1980.PCM, DR.IS [107]Supl de 09.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1980-442305
+  date: '1980-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:55Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +123,9 @@ Coerentemente com as medidas legislativas anteriores, mas sempre com a condiçã
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 8.º do [Decreto-Lei n.º 25/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1977-138282), de 19 de Janeiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 8.º do [Decreto-Lei n.º 25/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1977-138282), de 19 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 8.º - 1 - O Estado, as pessoas colectivas de direito público e as empresas públicas ou nacionalizadas, ao concederem algum subsídio ou financiamento ou ao procederem a qualquer pagamento a entidades contribuintes do regime geral de previdência superiores a 50000$00, deverão reter até 25% da quantia a entregar, desde que estas não provem, através de certidão, ter a sua situação contributiva regularizada perante a caixa ou caixas de previdência de que forem contribuintes.
+Art. 8.º - 1 - O Estado, as pessoas colectivas de direito público e as empresas públicas ou nacionalizadas, ao concederem algum subsídio ou financiamento ou ao procederem a qualquer pagamento a entidades contribuintes do regime geral de previdência superiores a 50000$00, deverão reter até 25% da quantia a entregar, desde que estas não provem, através de certidão, ter a sua situação contributiva regularizada perante a caixa ou caixas de previdência de que forem contribuintes.
 
 2 - Considera-se como tendo a situação contributiva regularizada o contribuinte que nada deva ou, devendo contribuições já vencidas, tenha sido autorizado a proceder à sua regularização através de prestações e estas estejam a ser pagas pontualmente.
 
@@ -116,9 +141,9 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 8 - O disposto no n.º 1 não se aplica aos financiamentos concedidos pelas instituições bancárias.
 
-###### Art. 2.º O n.º 3 do artigo 6.º do [Decreto-Lei n.º 511/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1976-431396), de 3 de Julho, alterado pelo artigo 1.º do [Decreto-Lei n.º 25/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1977-138282), de 19 de Janeiro, passa a ter a seguinte redacção:
+Art. 2.º O n.º 3 do artigo 6.º do [Decreto-Lei n.º 511/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1976-431396), de 3 de Julho, alterado pelo artigo 1.º do [Decreto-Lei n.º 25/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1977-138282), de 19 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
@@ -126,52 +151,52 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 4 - A taxa de juros de mora poderá ser reduzida por despacho dos Ministros das Finanças e do Plano e dos Assuntos Sociais em relação aos contribuintes que cumpram rigorosamente as condições estabelecidas para o pagamento de contribuições em atraso.
 
-###### Art. 3.º Serão amnistiadas as transgressões resultantes da falta de entrega das folhas de retribuições ou equivalentes cometidas até à data da entrada em vigor deste diploma, desde que a sua entrega se verifique no prazo de sessenta dias a contar desta data.
+Art. 3.º Serão amnistiadas as transgressões resultantes da falta de entrega das folhas de retribuições ou equivalentes cometidas até à data da entrada em vigor deste diploma, desde que a sua entrega se verifique no prazo de sessenta dias a contar desta data.
 
-###### Art. 4.º Os contribuintes que, no prazo de sessenta dias, procederem ao pagamento total ou parcial das contribuições em dívida à data da publicação do presente diploma serão isentos do pagamento dos correspondentes juros de mora e, bem assim, das custas judiciais e demais encargos na parte respectiva.
+Art. 4.º Os contribuintes que, no prazo de sessenta dias, procederem ao pagamento total ou parcial das contribuições em dívida à data da publicação do presente diploma serão isentos do pagamento dos correspondentes juros de mora e, bem assim, das custas judiciais e demais encargos na parte respectiva.
 
-###### Art. 5.º A concessão e a vigência de quaisquer facilidades no pagamento de contribuições em atraso dependerá sempre do cumprimento pontual das contribuições vincendas.
+Art. 5.º A concessão e a vigência de quaisquer facilidades no pagamento de contribuições em atraso dependerá sempre do cumprimento pontual das contribuições vincendas.
 
-###### Art. 6.º - 1 - Cabe ao Instituto de Gestão Financeira da Segurança Social, ouvida a caixa de previdência credora, definir a forma de regularização contributiva dos contribuintes devedores perante a Previdência.
+Art. 6.º - 1 - Cabe ao Instituto de Gestão Financeira da Segurança Social, ouvida a caixa de previdência credora, definir a forma de regularização contributiva dos contribuintes devedores perante a Previdência.
 
 2 - Quando a caixa discordar da decisão do Instituto, pode recorrer, no prazo de cinco dias, para o Secretário de Estado da Segurança Social.
 
-###### Art. 7.º - 1 - Quando o contribuinte devedor pretenda celebrar um contrato de viabilização ao abrigo do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e legislação complementar, deste fará sempre parte integrante o acordo para pagamento das contribuições em dívida à Previdência, que fica sujeito ao regime do próprio contrato de viabilização.
+Art. 7.º - 1 - Quando o contribuinte devedor pretenda celebrar um contrato de viabilização ao abrigo do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e legislação complementar, deste fará sempre parte integrante o acordo para pagamento das contribuições em dívida à Previdência, que fica sujeito ao regime do próprio contrato de viabilização.
 
 2 - O contrato de viabilização só subsistirá desde que o acordo com a Previdência seja pontualmente cumprido.
 
 3 - Na altura da celebração do contrato de viabilização, se o contribuinte declarar nada dever à Previdência, deverá apresentar certidão comprovativa, dependendo a manutenção do contrato de viabilização do pagamento pontual das contribuições à Previdência.
 
-###### Art. 8.º - 1 - Sem prejuízo do disposto no artigo anterior, sob proposta devidamente fundamentada do Ministério competente, com o parecer favorável do Instituto de Gestão Financeira da Segurança Social, poderá o Secretário de Estado da Segurança Social autorizar a concessão de moratórias, até ao prazo máximo de três anos, relativamente ao pagamento de contribuições e juros em atraso devidos por empresas em reestruturação, com ou sem apoio do Estado, ou que tenham sido submetidas à sua intervenção.
+Art. 8.º - 1 - Sem prejuízo do disposto no artigo anterior, sob proposta devidamente fundamentada do Ministério competente, com o parecer favorável do Instituto de Gestão Financeira da Segurança Social, poderá o Secretário de Estado da Segurança Social autorizar a concessão de moratórias, até ao prazo máximo de três anos, relativamente ao pagamento de contribuições e juros em atraso devidos por empresas em reestruturação, com ou sem apoio do Estado, ou que tenham sido submetidas à sua intervenção.
 
 2 - Nos mesmos termos, e relativamente a determinados sectores da actividade económica nacional, poderão ser definidos esquemas específicos de pagamento, de molde a facilitar a regularização de contribuições em dívida.
 
 3 - As moratórias e as restantes facilidades de pagamento só poderão ser concedidas sem prejuízo do disposto no artigo 5.º
 
-###### Art. 9.º - 1 - A concessão de moratórias ou a autorização do pagamento de contribuições em atraso através de prestações não obstam ao vencimento dos juros de mora respectivos, os quais poderão ser liquidados após o integral pagamento das contribuições e pagos no prazo máximo de dois anos.
+Art. 9.º - 1 - A concessão de moratórias ou a autorização do pagamento de contribuições em atraso através de prestações não obstam ao vencimento dos juros de mora respectivos, os quais poderão ser liquidados após o integral pagamento das contribuições e pagos no prazo máximo de dois anos.
 
 2 - A prescrição dos juros de mora fica suspensa durante os períodos de moratória e do pagamento de contribuições através de prestações.
 
-###### Art. 10.º - 1 - As caixas de previdência deverão promover a aceitação, por parte dos seus contribuintes devedores, da cedência de parte ou da totalidade de créditos certos e exigíveis que estes detenham sobre pessoas colectivas de direito público ou serviços personalizados do Estado para regularização total ou parcial de contribuições em dívida.
+Art. 10.º - 1 - As caixas de previdência deverão promover a aceitação, por parte dos seus contribuintes devedores, da cedência de parte ou da totalidade de créditos certos e exigíveis que estes detenham sobre pessoas colectivas de direito público ou serviços personalizados do Estado para regularização total ou parcial de contribuições em dívida.
 
 2 - Nos casos previstos no número anterior haverá isenção de juros de mora a partir da data do vencimento dos créditos.
 
 3 - Quando o contribuinte se encontre inscrito em mais de uma caixa de previdência, a aceitação da cedência de créditos competirá ao Instituto de Gestão Financeira da Segurança Social.
 
-###### Art. 11.º - 1 - O contribuinte simultaneamente credor e devedor de uma instituição de previdência pode invocar perante esta a compensação.
+Art. 11.º - 1 - O contribuinte simultaneamente credor e devedor de uma instituição de previdência pode invocar perante esta a compensação.
 
 2 - Se o crédito do contribuinte se verificar sobre diferentes instituições de previdência, a compensação referida no número anterior far-se-á através do Instituto de Gestão Financeira da Segurança Social.
 
-###### Art. 12.º - 1 - Os contribuintes que se encontram a proceder ao pagamento de contribuições em dívida através de prestações poderão, em qualquer altura, requerer a sua adequação às normas deste decreto-lei.
+Art. 12.º - 1 - Os contribuintes que se encontram a proceder ao pagamento de contribuições em dívida através de prestações poderão, em qualquer altura, requerer a sua adequação às normas deste decreto-lei.
 
 2 - As novas condições previstas neste diploma só serão aplicadas, no caso do número anterior, após a apresentação do requerimento.
 
-###### Art. 13.º Cabe ao Secretário de Estado da Segurança Social e ao Secretário Regional competente regulamentar e esclarecer as dúvidas que resultem do presente diploma.
+Art. 13.º Cabe ao Secretário de Estado da Segurança Social e ao Secretário Regional competente regulamentar e esclarecer as dúvidas que resultem do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Eduardo Henrique da Silva Correia - Acácio Manuel Pereira Magro.
 
-**Promulgado em 10 de Maio de 1979.**
+Promulgado em 10 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

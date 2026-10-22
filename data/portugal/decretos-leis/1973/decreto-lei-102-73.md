@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1973-684231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b6284a7cdf179e4c759407d08f47b4b9b49d9118a044f1eb8a86bb99f877230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81bd7b4be2a2632a5f6ca13b89faa5952d3455fe91ef7e41208f8ba323f7de7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diretor
+- Ensino Liceal
+- Ensino Preparatório
+- Ensino Técnico
+- Estabelecimento de Ensino
+- Formas de Provimento
+- Pessoal Dirigente
+- Reitor
+- Remuneração
+- Sistema de Ensino
+- Sistema Retributivo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:52Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +108,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Nos estabelecimentos de ensino técnico médio e de ensino secundário poderão ser organizadas secções desde que se verifique um dos seguintes requisitos:
+Artigo 1.º - 1. Nos estabelecimentos de ensino técnico médio e de ensino secundário poderão ser organizadas secções desde que se verifique um dos seguintes requisitos:
 
 a) Existência de turmas em localidades diferentes da do estabelecimento sede;
 
@@ -111,41 +122,41 @@ d) Existência de turmas cujas actividades lectivas se iniciem depois das 17 hor
 
 3. As secções a que se refere o n.º 1 deste artigo serão orientadas por um subdirector ou por um vice-reitor.
 
-###### Art. 2.º - 1. O provimento nos cargos de director ou reitor dos estabelecimentos referidos no artigo anterior, bem como nos do ensino preparatório e do magistério primário, confere o direito ao abono do vencimento fixado, dentro do ramo de ensino a que pertençam, para os professores ordinários ou efectivos com a última diuturnidade, sempre que o provido se encontre habilitado com Exame de Estado do ensino secundário ou do ciclo preparatório.
+Art. 2.º - 1. O provimento nos cargos de director ou reitor dos estabelecimentos referidos no artigo anterior, bem como nos do ensino preparatório e do magistério primário, confere o direito ao abono do vencimento fixado, dentro do ramo de ensino a que pertençam, para os professores ordinários ou efectivos com a última diuturnidade, sempre que o provido se encontre habilitado com Exame de Estado do ensino secundário ou do ciclo preparatório.
 
 2. Não se verificando as condições referidas no número anterior, os directores e reitores serão abonados do vencimento a que tiverem direito como professores dos estabelecimentos de ensino a que pertencerem.
 
-###### Art. 3.º O exercício da função de director ou reitor dos estabelecimentos de ensino técnico médio, secundário e preparatório, bem como das escolas de magistério primário, confere ainda o direito à gratificação fixada na tabela anexa ao presente diploma.
+Art. 3.º O exercício da função de director ou reitor dos estabelecimentos de ensino técnico médio, secundário e preparatório, bem como das escolas de magistério primário, confere ainda o direito à gratificação fixada na tabela anexa ao presente diploma.
 
-###### Art. 4.º - 1. O cargo de director de turma já existente no ensino preparatório é extensivo ao ensino secundário liceal e técnico.
+Art. 4.º - 1. O cargo de director de turma já existente no ensino preparatório é extensivo ao ensino secundário liceal e técnico.
 
 2. Compete ao director de turma presidir ao conselho de turma, apreciar os problemas educativos e disciplinares dos alunos e assegurar os contactos com as famílias.
 
-###### Art. 5.º - 1. É extensivo aos liceus e escolas preparatórias o cargo de professor-delegado já existente nas escolas técnicas secundárias.
+Art. 5.º - 1. É extensivo aos liceus e escolas preparatórias o cargo de professor-delegado já existente nas escolas técnicas secundárias.
 
 2. Compete ao professor delegado orientar e coordenar o ensino de uma disciplina ou de um grupo de disciplinas.
 
-###### Art. 6.º - 1. O exercício das funções directivas nos estabelecimentos de ensino técnico médio, secundário liceal e técnico, bem como nas escolas do magistério primário e preparatórias, confere o direito às gratificações constantes da tabela I anexa ao presente diploma.
+Art. 6.º - 1. O exercício das funções directivas nos estabelecimentos de ensino técnico médio, secundário liceal e técnico, bem como nas escolas do magistério primário e preparatórias, confere o direito às gratificações constantes da tabela I anexa ao presente diploma.
 
 2. Os directores, subdirectores e professores-secretários dos estabelecimentos de ensino técnico médio e das escolas do magistério primário têm direito, além da gratificação, à redução constante da tabela II, no tempo de serviço docente que na sua qualidade de professor legalmente lhe compete.
 
 3. A tabela III anexa ao presente diploma é aplicável, nas condições referidas no número anterior, aos titulares dos cargos nela mencionados em exercício nos estabelecimentos de ensino secundário e preparatório.
 
-###### Art. 7.º - 1. As nomeações para as funções directivas mencionadas no presente diploma consideram-se sempre feitas por conveniência urgente de serviço.
+Art. 7.º - 1. As nomeações para as funções directivas mencionadas no presente diploma consideram-se sempre feitas por conveniência urgente de serviço.
 
 2. As gratificações e reduções de serviço por um cargo não são acumuláveis com quaisquer outras previstas neste diploma.
 
 3. É vedada aos directores e reitores a prestação de serviço docente extraordinário.
 
-###### Art. 8.º O presente decreto-lei entra em vigor no dia 1 de Março de 1973.
+Art. 8.º O presente decreto-lei entra em vigor no dia 1 de Março de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 28 de Fevereiro de 1973.**
+Promulgado em 28 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -165,10 +176,10 @@ Directores de turma, directores de instalações e professores-delegados (ver no
 
 Tabela II (n.º 2 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/06100/04110412.pdf))](https://files.diariodarepublica.pt/1s/1973/03/06100/04110412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/06100/04110412.pdf)
 
 Tabela III (n.º 3 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/06100/04110412.pdf))](https://files.diariodarepublica.pt/1s/1973/03/06100/04110412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/06100/04110412.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

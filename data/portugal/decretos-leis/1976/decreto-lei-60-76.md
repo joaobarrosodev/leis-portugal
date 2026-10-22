@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1976-505988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 579a57fcfa3ee26f9662461b52db03f9b3f2ed2913dfb1eb857cde4b55c7481d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a067df7b0356d3d314497eb3a56c9e45b7f1dcbd3af97e7d4f49d99718f130d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Criação de Serviços
+- Faro
+- Juiz
+- Lisboa
+- Pessoal de Justiça
+- Porto
+- Quadro de Pessoal
+- Setúbal
+- Tribunal do Trabalho
+relationships:
+- type: cites
+  target: pt:dre:352516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:33Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +114,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São criadas, nos tribunais do trabalho que se indicam, as seguintes novas varas:
+Artigo 1.º - 1. São criadas, nos tribunais do trabalho que se indicam, as seguintes novas varas:
 
 a) Lisboa - cinco, com sede na respectiva comarca;
 
@@ -114,7 +132,7 @@ d) Faro - uma, com sede em Portimão.
 
 5. A constituição do quadro do funcionalismo judicial da 3.ª Vara do Tribunal do Trabalho de Setúbal, com sede no Barreiro, e da 2.ª Vara do Tribunal do Trabalho de Faro, com sede em Portimão, será estabelecida por decreto simples dos Ministros da Administração Interna, das Finanças e do Trabalho.
 
-###### Art. 2.º - 1. Pode um tribunal ou vara funcionar com mais de um juiz, sempre que o movimento o exigir ou quando, por circunstâncias de carácter transitório, o respectivo serviço se encontrar atrasado.
+Art. 2.º - 1. Pode um tribunal ou vara funcionar com mais de um juiz, sempre que o movimento o exigir ou quando, por circunstâncias de carácter transitório, o respectivo serviço se encontrar atrasado.
 
 2. Para o efeito do número anterior é criado um quadro de juízes auxiliares anexo aos quadros dos Tribunais do Trabalho de Lisboa e do Porto, que poderá ser alterado ou extinto por portaria do Ministério das Finanças e do Trabalho.
 
@@ -122,42 +140,42 @@ d) Faro - uma, com sede em Portimão.
 
 4. Os magistrados atrás referidos auferirão vencimento correspondente ao dos juízes de direito de 2.ª classe, tendo direito a ajudas de custo quando deslocados para outros tribunais.
 
-###### Art. 3.º - 1. São criados lugares de escrivães auxiliares junto da 2.ª e 3.ª Varas do Tribunal do Trabalho de Aveiro, da 2.ª e 3.ª Varas do Tribunal do Trabalho de Braga, da 1.ª Vara do Tribunal do Trabalho de Faro, da 2.ª Vara do Tribunal do Trabalho de Setúbal e da 2.ª Vara do Tribunal do Trabalho de Tomar.
+Art. 3.º - 1. São criados lugares de escrivães auxiliares junto da 2.ª e 3.ª Varas do Tribunal do Trabalho de Aveiro, da 2.ª e 3.ª Varas do Tribunal do Trabalho de Braga, da 1.ª Vara do Tribunal do Trabalho de Faro, da 2.ª Vara do Tribunal do Trabalho de Setúbal e da 2.ª Vara do Tribunal do Trabalho de Tomar.
 
 2. Os funcionários referidos no número anterior são equiparados, para efeito de vencimento e regalias, aos escrivães das varas onde forem colocados, com excepção do escrivão auxiliar da 1.ª Vara do Tribunal do Trabalho de Faro, que auferirá vencimento igual ao dos escrivães de 3.ª classe dos tribunais judiciais em comarcas de 3.ª classe, sem prejuízo das demais regalias inerentes à sua categoria.
 
-###### Art. 4.º O Ministro do Trabalho pode, quando o interesse dos serviços o exija, alterar a composição de qualquer das secretarias dos tribunais do trabalho.
+Art. 4.º O Ministro do Trabalho pode, quando o interesse dos serviços o exija, alterar a composição de qualquer das secretarias dos tribunais do trabalho.
 
-###### Art. 5.º O número e categorias dos magistrados e demais funcionários previstos neste diploma são os referidos no mapa anexo.
+Art. 5.º O número e categorias dos magistrados e demais funcionários previstos neste diploma são os referidos no mapa anexo.
 
-###### Art. 6.º - 1. No caso de vacatura, os chefes de secretaria e escrivães que exerçam as suas funções interinamente e que tenham as habilitações legalmente exigidas serão providos como efectivos nesses lugares por despacho ministerial, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, a publicação no Diário do Governo e averbamento no termo de posse.
+Art. 6.º - 1. No caso de vacatura, os chefes de secretaria e escrivães que exerçam as suas funções interinamente e que tenham as habilitações legalmente exigidas serão providos como efectivos nesses lugares por despacho ministerial, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, a publicação no Diário do Governo e averbamento no termo de posse.
 
 2. A interinidade referida no número anterior é equiparada a efectividade, para os efeitos do artigo 98.º do Estatuto dos Tribunais do Trabalho, desde que seja superior a um ano de bom e efectivo serviço.
 
-###### Art. 7.º - 1. Os lugares de escriturários-dactilógrafos serão providos em indivíduos com o ciclo preparatório do ensino secundário ou curso equivalente, que saibam escrecer correctamente à máquina.
+Art. 7.º - 1. Os lugares de escriturários-dactilógrafos serão providos em indivíduos com o ciclo preparatório do ensino secundário ou curso equivalente, que saibam escrecer correctamente à máquina.
 
 2. Oc actuais copistas e oficiais de diligências efectivos, interinos ou provisórios com classificação não inferior à de Bom terão preferência sobre os candidatos referidos no corpo deste artigo.
 
 3. Os escriturários nomeados nos termos do § 2.º do artigo 95.º do Estatuto dos Tribunais do Trabalho, desde que tenham as habilitações literárias acima exigidas e as vagas sejam de natureza efectiva, passarão a efectivos mediante lista nominativa elaborada pela Inspecção-Geral dos Tribunais do Trabalho, aprovada por despacho ministerial independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, a publicação no Diário do Governo e o averbamento no termo de posse.
 
-###### Art. 8.º O acesso aos quadros da magistratura do trabalho e do funcionalismo judicial do trabalho é facultado a todos os cidadãos portugueses, independentemente do seu sexo.
+Art. 8.º O acesso aos quadros da magistratura do trabalho e do funcionalismo judicial do trabalho é facultado a todos os cidadãos portugueses, independentemente do seu sexo.
 
-###### Art. 9.º Além dos casos previstos no artigo 84.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, poderão ainda ser providos nos lugares de juiz dos tribunais do trabalho os presidentes das comissões de conciliação e julgamento com mais de cinco anos de serviço e a classificação de Bom ou superior.
+Art. 9.º Além dos casos previstos no artigo 84.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, poderão ainda ser providos nos lugares de juiz dos tribunais do trabalho os presidentes das comissões de conciliação e julgamento com mais de cinco anos de serviço e a classificação de Bom ou superior.
 
-###### Art. 10.º É aplicável aos magistrados de Lisboa, Porto e Coimbra e aos juízes auxiliares, com as necessárias adaptações, o disposto no segundo período do artigo 167.º do Estatuto Judiciário, sendo o respectivo encargo suportado pelo fundo criado pelo Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964.
+Art. 10.º É aplicável aos magistrados de Lisboa, Porto e Coimbra e aos juízes auxiliares, com as necessárias adaptações, o disposto no segundo período do artigo 167.º do Estatuto Judiciário, sendo o respectivo encargo suportado pelo fundo criado pelo Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964.
 
-###### Art. 11.º Os encargos resultantes da criação dos lugares de escrivão auxiliar nas 3.as Varas do Tribunal do Trabalho de Aveiro e Braga serão igualmente suportados pelo fundo a que se refere o artigo anterior.
+Art. 11.º Os encargos resultantes da criação dos lugares de escrivão auxiliar nas 3.as Varas do Tribunal do Trabalho de Aveiro e Braga serão igualmente suportados pelo fundo a que se refere o artigo anterior.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - João Pedro Tomás Rosa.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa a que se refere o artigo 5.º do Decreto-Lei n.º 60/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01900/01340135.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01900/01340135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01900/01340135.pdf)
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro da Justiça, João de Deus Pinheiro Farinha. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro do Trabalho, João Pedro Tomás Rosa.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro da Justiça, João de Deus Pinheiro Farinha. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro do Trabalho, João Pedro Tomás Rosa.

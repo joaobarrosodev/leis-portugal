@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1973-674832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6625bc841b34601ac654deaad4591ec791e4d04f74c1f6dd119ec5b5f90600a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edff88b5e5cec575bb9f92b90a85d0a3c5583222673f9c666809d01a7d9e38d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Planeamento Urbano
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:283526:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336738:por
+  label: "Prorrogado até 30 de Junho de 1976 o prazo para a elaboração do Plano Geral de Urbanização da Região do Porto, a\
+    \ que se refere o presente diploma, pelo DEC LEI.344/75.24.06.1975.MESA, DR.IS [151] de 03.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/344-1975-336738
+  date: '1975-06-24'
+- type: amended_by
+  target: pt:dre:286520:por
+  label: "Prorrogado até 30 de Junho de 1978 o prazo destinado à elaboração do planeamento urbanístico da região do Porto,\
+    \ previsto no art. 1º do presente diploma, prorrogado posteriormente pelo Dec Lei 344/75 de 03-Jul, pelo DEC LEI.361/77.15.08.1977.MHUC,\
+    \ DR.IS [202] de 01.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1977-286520
+  date: '1977-08-15'
+- type: amended_by
+  target: pt:dre:283526:por
+  label: "Alterada a alínea a) do n.º 1 do artigo 3.º pelo DEC LEI.14/88.16.01.1988.MPLAT, DR.IS [13] de 16.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1988-283526
+  date: '1988-01-16'
+- type: cites
+  target: pt:dre:169656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632252:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:04Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +136,7 @@ Importando, para tanto, a adopção de medidas legais análogas às da [Lei n.º
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro das Obras Públicas promoverá que, no prazo de dois anos, contados da data do presente diploma, esteja elaborado, nos termos do [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro, e do [Decreto n.º 561/71](https://diariodarepublica.pt/dr/detalhe/decreto/561-1971-632252), da mesma data, o plano geral de urbanização da região do Porto, abreviadamente designado por plano da região do Porto.
+Artigo 1.º - 1. O Ministro das Obras Públicas promoverá que, no prazo de dois anos, contados da data do presente diploma, esteja elaborado, nos termos do [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro, e do [Decreto n.º 561/71](https://diariodarepublica.pt/dr/detalhe/decreto/561-1971-632252), da mesma data, o plano geral de urbanização da região do Porto, abreviadamente designado por plano da região do Porto.
 
 2. A região do Porto, para os efeitos do presente diploma, abrange os seguintes concelhos:
 
@@ -106,11 +146,11 @@ b) No distrito de Braga: Barcelos, Braga, Esposende, Guimarães e Vila Nova de F
 
 3. O Ministro das Obras Públicas poderá determinar na delimitação da região os ajustamentos que, durante a elaboração do plano, vierem a mostrar-se convenientes.
 
-###### Art. 2.º - 1. A aprovação do plano da região do Porto será da competência do Conselho de Ministros, mediante proposta do Ministro das Obras Públicas e ouvida a Câmara Corporativa.
+Art. 2.º - 1. A aprovação do plano da região do Porto será da competência do Conselho de Ministros, mediante proposta do Ministro das Obras Públicas e ouvida a Câmara Corporativa.
 
 2. Aprovado o plano da região do Porto, proceder-se-á imediatamente à revisão dos planos de urbanização locais que estiverem em vigor, a fim de os ajustar àquele, considerando-se desde logo revogadas as disposições que o contrariem.
 
-###### Art. 3.º 1. Na área definida nos termos do n.º 2 do artigo 1.º e até à aprovação do plano da região do Porto, carecem de autorização do Ministro das Obras Públicas, ouvidas a respectiva câmara municipal, a Direcção-Geral dos Serviços de Urbanização e, consoante os casos, a Direcção-Geral dos Serviços Agrícolas e a Direcção-Geral dos Serviços Florestais e Aquícolas:
+Art. 3.º 1. Na área definida nos termos do n.º 2 do artigo 1.º e até à aprovação do plano da região do Porto, carecem de autorização do Ministro das Obras Públicas, ouvidas a respectiva câmara municipal, a Direcção-Geral dos Serviços de Urbanização e, consoante os casos, a Direcção-Geral dos Serviços Agrícolas e a Direcção-Geral dos Serviços Florestais e Aquícolas:
 
 a) A criação de novos núcleos populacionais e a construção, reconstrução ou ampliação de instalações industriais de 1.ª ou 2.ª classes, quando, num e noutro caso, se situem fora das zonas previstas, para esse efeito, nos planos de urbanização legalmente aprovados;
 
@@ -134,15 +174,15 @@ b) Para as restantes hipóteses previstas, noventa dias.
 
 8. A falta de decisão nos prazos referidos no número anterior interpreta-se, para todos os efeitos, como consentimento.
 
-###### Art. 4.º - 1. A Direcção-Geral dos Serviços de Urbanização e as câmaras municipais são competentes para promover o embargo e a demolição das obras executadas com violação do preceituado no artigo anterior.
+Art. 4.º - 1. A Direcção-Geral dos Serviços de Urbanização e as câmaras municipais são competentes para promover o embargo e a demolição das obras executadas com violação do preceituado no artigo anterior.
 
 2. A demolição será feita à custa dos proprietários, sem direito a qualquer indemnização.
 
 3. A cobrança das importâncias a que der lugar a aplicação desta disposição, na falta de pagamento voluntário, competirá aos tribunais das contribuições e impostos, constituindo título executivo a certidão passada pelos serviços donde constem todos os requisitos referidos no artigo 156.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 5.º O Ministro das Obras Públicas poderá determinar que na área a que se refere o presente diploma, e simultaneamente com os trabalhos referidos no artigo 1.º, sejam revistos os planos de urbanização que estiverem em vigor e elaborados planos sub-regionais.
+Art. 5.º O Ministro das Obras Públicas poderá determinar que na área a que se refere o presente diploma, e simultaneamente com os trabalhos referidos no artigo 1.º, sejam revistos os planos de urbanização que estiverem em vigor e elaborados planos sub-regionais.
 
-###### Art. 6.º - 1. A cooperação das entidades interessadas na elaboração do plano da região do Porto será assegurada por uma comissão, de carácter eventual, a constituir no Ministério das Obras Públicas e na dependência do respectivo Ministro, denominada Comissão do Plano da Região do Porto.
+Art. 6.º - 1. A cooperação das entidades interessadas na elaboração do plano da região do Porto será assegurada por uma comissão, de carácter eventual, a constituir no Ministério das Obras Públicas e na dependência do respectivo Ministro, denominada Comissão do Plano da Região do Porto.
 
 2. Compete à Comissão:
 
@@ -194,24 +234,24 @@ n) Um técnico da Direcção-Geral dos Serviços de Urbanização, que servirá 
 
 7. A nomeação dos vogais será feita em portaria do Ministro das Obras Públicas.
 
-###### Art. 7.º Por cada reunião a que assistirem, os membros da Comissão do Plano da Região do Porto terão direito à senha de presença do montante fixado na lei.
+Art. 7.º Por cada reunião a que assistirem, os membros da Comissão do Plano da Região do Porto terão direito à senha de presença do montante fixado na lei.
 
-###### Art. 8.º - 1. É criado na Direcção-Geral dos Serviços de Urbanização, na dependência imediata do respectivo director-geral, o Gabinete do Plano da Região do Porto, ao qual compete tudo o que respeita à preparação e elaboração do plano, incluindo a execução das recomendações da Comissão a que se refere o artigo 6.º
+Art. 8.º - 1. É criado na Direcção-Geral dos Serviços de Urbanização, na dependência imediata do respectivo director-geral, o Gabinete do Plano da Região do Porto, ao qual compete tudo o que respeita à preparação e elaboração do plano, incluindo a execução das recomendações da Comissão a que se refere o artigo 6.º
 
 2. As funções de director do Gabinete serão exercidas em acumulação pelo director da Circunscrição de Urbanização do Norte.
 
-###### Art. 9.º O Secretariado Técnico da Presidência do Conselho terá um ou mais representantes junto do Gabinete do Plano, a fim de facilitar a coordenação dos trabalhos do plano com o planeamento nacional e regional.
+Art. 9.º O Secretariado Técnico da Presidência do Conselho terá um ou mais representantes junto do Gabinete do Plano, a fim de facilitar a coordenação dos trabalhos do plano com o planeamento nacional e regional.
 
-###### Art. 10.º São tornadas extensivas ao Gabinete do Plano da Região do Porto as disposições do [Decreto-Lei n.º 43635](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43635-1961-169656), de 1 de Maio de 1961.
+Art. 10.º São tornadas extensivas ao Gabinete do Plano da Região do Porto as disposições do [Decreto-Lei n.º 43635](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43635-1961-169656), de 1 de Maio de 1961.
 
-###### Art. 11.º Os encargos a que der lugar a execução do presente diploma serão suportados pelas dotações adequadas do orçamento da Direcção-Geral dos Serviços de Urbanização.
+Art. 11.º Os encargos a que der lugar a execução do presente diploma serão suportados pelas dotações adequadas do orçamento da Direcção-Geral dos Serviços de Urbanização.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 19 de Março de 1973.**
+Promulgado em 19 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

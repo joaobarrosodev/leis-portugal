@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 136/1975, 1º Suplemento, Série I de 1975-06-16
   number: '136'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 822-(1) a 822-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13601/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79bd2ce3da5cc630e633de7b927bd1945728e2f651f270b3978b116fd01291a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 739fe029537a78d73add8d8f4471a27c05d927ad668c5c2176f391719ea69212
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500935:por
+  label: "Suspensa transitoriamente a execução do disposto no nº 1 do art. 6º pelo DEC LEI.216/76.25.03.1976.MAI, DG.IS [72]\
+    \ de 25.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1976-500935
+  date: '1976-03-25'
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476287:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:314635:por
+  label: "Rectificado pela RECT.DD173.18.08.1975.PCM, DG.IS [189] de 18.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-314635
+  date: '1975-08-18'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:28Z'
   warnings: []
   errors: []
 ---
@@ -107,54 +132,54 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Aos trabalhadores da Administração Central, Local e Regional, incluindo federações de municípios e serviços municipalizados, pessoas colectivas de direito público, designadamente os serviços e institutos autónomos, e pessoas colectivas de direito privado e utilidade pública administrativa, na efectividade de serviço, com as excepções referidas nas alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, respeitantes ao pessoal dos três ramos das forças armadas e corporações militarizadas e aos trabalhadores rurais, é garantida uma remuneração mínima mensal de 4000$00 pelo trabalho prestado em regime de tempo completo, sendo proporcional ao número de horas praticadas no caso de trabalho a tempo parcial.
+Artigo 1.º - 1. Aos trabalhadores da Administração Central, Local e Regional, incluindo federações de municípios e serviços municipalizados, pessoas colectivas de direito público, designadamente os serviços e institutos autónomos, e pessoas colectivas de direito privado e utilidade pública administrativa, na efectividade de serviço, com as excepções referidas nas alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, respeitantes ao pessoal dos três ramos das forças armadas e corporações militarizadas e aos trabalhadores rurais, é garantida uma remuneração mínima mensal de 4000$00 pelo trabalho prestado em regime de tempo completo, sendo proporcional ao número de horas praticadas no caso de trabalho a tempo parcial.
 
 2. O disposto no número anterior é aplicável ao pessoal eventual e aos trabalhadores do Estado que recebam remunerações principais abonadas com carácter de permanência, ainda que não se achem vinculados por adequado título de provimento, mas não abrange quaisquer gratificações, nomeadamente as que constituam única forma de remuneração do exercício de determinados cargos ou funções.
 
 3. O valor da remuneração horária do trabalho traduz-se na fórmula (V x 12)/(52 x n), sendo V a remuneração mensal correspondente e n o número de horas de trabalho correspondente ao horário mensal.
 
-###### Art. 2.º A proposta de actualização das remunerações do pessoal a que se refere a alínea c) do artigo 4.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), referente aos paquetes, aprendizes ou praticantes com menos de 20 anos, caberá à comissão criada nos termos do artigo 7.º
+Art. 2.º A proposta de actualização das remunerações do pessoal a que se refere a alínea c) do artigo 4.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), referente aos paquetes, aprendizes ou praticantes com menos de 20 anos, caberá à comissão criada nos termos do artigo 7.º
 
-###### Art. 3.º - 1. Na fixação de retribuições, o valor de aumento global em relação aos vencimentos fixados, nos termos do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, não deverá traduzir-se num encargo global anual superior a quatro milhões de contos.
+Art. 3.º - 1. Na fixação de retribuições, o valor de aumento global em relação aos vencimentos fixados, nos termos do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, não deverá traduzir-se num encargo global anual superior a quatro milhões de contos.
 
 2. Os aumentos de vencimentos a que se refere o número anterior, a aprovar por decreto dos Ministros da Administração Interna e das Finanças, serão estabelecidos sob proposta da comissão a constituir nos termos do artigo 7.º, a qual observará na sua fixação um critério percentual degressivo.
 
-###### Art. 4.º - 1. Não sofrerão quaisquer alterações as tabelas salariais referentes a serviços e organismos mencionados no artigo 1.º que, a qualquer título, pratiquem remunerações de montante superior ao das que vierem a ser aprovadas nos termos dos artigos anteriores.
+Art. 4.º - 1. Não sofrerão quaisquer alterações as tabelas salariais referentes a serviços e organismos mencionados no artigo 1.º que, a qualquer título, pratiquem remunerações de montante superior ao das que vierem a ser aprovadas nos termos dos artigos anteriores.
 
 2. As remunerações que tenham sofrido aumento posterior a 1 de Julho de 1974, não resultante da aplicação do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, beneficiarão, no máximo, da melhoria correspondente à diferença entre aquele aumento e o resultante da aplicação do disposto no artigo 3.º
 
-###### Art. 5.º O disposto no artigo anterior é extensivo aos assalariados cujos vencimentos, por força da aplicação do n.º 2 do artigo 2.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, relativo à mensualização, tenham ultrapassado os dos trabalhadores contratados e vitalícios, de categorias iguais ou equivalentes.
+Art. 5.º O disposto no artigo anterior é extensivo aos assalariados cujos vencimentos, por força da aplicação do n.º 2 do artigo 2.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, relativo à mensualização, tenham ultrapassado os dos trabalhadores contratados e vitalícios, de categorias iguais ou equivalentes.
 
-###### Art. 6.º - 1. São deduzidas do valor correspondente ao aumento de vencimento fixado nos termos do presente diploma para a respectiva categoria as remunerações acessórias, em dinheiro ou em espécie, percebidas com carácter de regularidade, ainda que de valor variável.
+Art. 6.º - 1. São deduzidas do valor correspondente ao aumento de vencimento fixado nos termos do presente diploma para a respectiva categoria as remunerações acessórias, em dinheiro ou em espécie, percebidas com carácter de regularidade, ainda que de valor variável.
 
 2. Nas remunerações acessórias a que se refere o número anterior não se incluem designadamente os subsídios de férias e de Natal, o abono de família, as diuturnidades e os abonos para falhas.
 
-###### Art. 7.º - 1. A comissão a que aludem os artigos 2.º e 3.º será criada, no prazo de dez dias, a contar da publicação deste diploma legal, por despacho conjunto dos Ministros da Administração Interna e das Finanças e integrará representantes destes dois Ministérios.
+Art. 7.º - 1. A comissão a que aludem os artigos 2.º e 3.º será criada, no prazo de dez dias, a contar da publicação deste diploma legal, por despacho conjunto dos Ministros da Administração Interna e das Finanças e integrará representantes destes dois Ministérios.
 
 2. Na realização das tarefas da comissão participarão as organizações pró-sindicais da função pública.
 
-###### Art. 8.º - 1. Os trabalhadores a que se refere o presente diploma têm direito a receber, no mês de Junho de cada ano, um subsídio de férias de valor correspondente ao vencimento do período de férias a que tiverem direito, aferido relativamente ao vencimento base referente ao mês anterior, no mínimo de quinze dias.
+Art. 8.º - 1. Os trabalhadores a que se refere o presente diploma têm direito a receber, no mês de Junho de cada ano, um subsídio de férias de valor correspondente ao vencimento do período de férias a que tiverem direito, aferido relativamente ao vencimento base referente ao mês anterior, no mínimo de quinze dias.
 
 2. Aos trabalhadores que completarem entre 1 de Junho e 31 de Dezembro o seu primeiro ano de serviço efectivo será abonado o subsídio de férias no mês seguinte àquele em que atingirem esse tempo de serviço.
 
-###### Art. 9.º Fica dependente da publicação de diploma especial a actualização das pensões atribuídas na situação de reserva, aposentação e reforma, bem como as pensões de invalidez.
+Art. 9.º Fica dependente da publicação de diploma especial a actualização das pensões atribuídas na situação de reserva, aposentação e reforma, bem como as pensões de invalidez.
 
-###### Art. 10.º - 1. Os encargos do Estado com os aumentos de vencimentos ao pessoal abrangido na despesa extraordinária serão satisfeitos pelas verbas por onde são liquidadas essas remunerações e os respeitantes a todo o outro pessoal, no corrente ano, por dotações do capítulo «Despesas comuns» do orçamento ordinário de cada Ministério.
+Art. 10.º - 1. Os encargos do Estado com os aumentos de vencimentos ao pessoal abrangido na despesa extraordinária serão satisfeitos pelas verbas por onde são liquidadas essas remunerações e os respeitantes a todo o outro pessoal, no corrente ano, por dotações do capítulo «Despesas comuns» do orçamento ordinário de cada Ministério.
 
 2. O Ministro das Finanças efectuará no Orçamento Geral do Estado em vigor as alterações necessárias à execução deste decreto-lei.
 
 3. De idêntica forma se procederá em relação aos serviços com orçamentos privativos, que ficam autorizados a elaborar um orçamento suplementar além dos que legalmente podem organizar.
 
-###### Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
+Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
 
-###### Art. 12.º - 1. Este diploma entra imediatamente em vigor.
+Art. 12.º - 1. Este diploma entra imediatamente em vigor.
 
 2. O disposto nos artigos 1.º, 2.º, 3.º e 9.º do presente diploma produz efeitos desde 1 de Maio de 1975.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 12 de Junho de 1975.**
+Promulgado em 12 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

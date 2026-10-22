@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51ab6551b3d0476c2fdd793e37513de29d0a4ea149e9d45c4c47cbd208eea992
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8c329e301d01a8f63a94b1757b358313224c4f0cb99956fb4555efd1c6efb69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Desporto
+- Direcção Geral da Educação Física e Desportos
+- Diretor Geral
+- Formas de Provimento
+- Inspecção Superior de Medicina Desportiva
+- Inspecção Superior do Desporto Federado
+- Integração de Trabalhadores
+- Ministério da Educação Nacional
+- Monitor
+- Orgânica
+- Pessoal Administrativo
+- Pessoal de Inspecção
+- Pessoal Dirigente
+- Pessoal Técnico
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:404488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466829:por
+  label: "Alterada para Direcção-Geral dos Desportos a designação da Direcção-Geral da Educação Física e Desportos (criada\
+    \ pelo Dec Lei 408/71 de 27-Set) organizada no presente diploma, assim como são alterados os arts 3º, 9º, 23º e 25º e\
+    \ revogados os arts. 2º e 18º deste mesmo diploma pelo DEC LEI.694/74.05.12.1974.MEC, DG.IS [283] de 05.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/694-1974-466829
+  date: '1974-12-05'
+- type: amended_by
+  target: pt:dre:161302:por
+  label: "Alterado o mapa II anexo pela PORT.198/75.21.03.1975.MEC, DG.IS [68] de 21.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/198-1975-161302
+  date: '1975-03-21'
+- type: amended_by
+  target: pt:dre:253180:por
+  label: "Extinta a Inspecção Superior de Medicina Desportiva a que se refere a al. c) do art. 5º, e alterado o mapa I em\
+    \ anexo pelo DEC LEI.257/77.18.06.1977.MEIC, DR.IS [139] de 18.06.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1977-253180
+  date: '1977-06-18'
+- type: amended_by
+  target: pt:dre:250634:por
+  label: "Alterado o mapa I anexo pelo DEC.97/77.13.07.1977.MF, DR.IS [160] de 13.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/97-1977-250634
+  date: '1977-07-13'
+- type: amended_by
+  target: pt:dre:279392:por
+  label: "Dada nova redacção ao nº 2 do art. 2º do Dec 97/77 de 13-Jul, na alteração que efectuou ao mapa I do presente diploma,\
+    \ pelo DR.67/77.15.10.1977.PCM, DR.IS [239] de 15.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/67-1977-279392
+  date: '1977-10-15'
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:675175:por
+  label: Rectificado [no referente ao art. 29º e ao mapa II anexo] pela DECL.DD9708.29.03.1973.PC, DG.IS [75] de 29.03.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-675175
+  date: '1973-03-29'
+- type: corrected_by
+  target: pt:dre:675466:por
+  label: "Rectificado [no referente ao mapa I anexo] pela RECT.DD325.10.04.1973.PC, DG.IS [85] de 10.04.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-675466
+  date: '1973-04-10'
+- type: repealed_by
+  target: pt:dre:277804:por
+  label: "Revogadas as als. b) e c) do nº1 do art. 3º (na redacção do Dec Lei 694/74, de 05-Dez) do presente diploma, pelo\
+    \ DEC LEI.453/77.29.10.1977.MEIC, DR.IS [251] de 29.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/453-1977-277804
+  date: '1977-10-29'
+- type: repealed_by
+  target: pt:dre:404488:por
+  label: "Revogado pelo DEC LEI.553/77.31.12.1977.MEIC, DR.IS [302-2ºSupl] de 31.12.1977, com excepção do art. 4.º, que se\
+    \ manterá em vigor até à publicação do decreto regulamentar, previsto na al. a) do art. 7.º daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1977-404488
+  date: '1977-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:09Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +195,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I - Atribuições e competência
 
-###### Artigo 1.º A Direcção-Geral da Educação Física e Desportos, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, tem por atribuições:
+Artigo 1.º A Direcção-Geral da Educação Física e Desportos, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, tem por atribuições:
 
 a) Fomentar, promover e orientar as actividades gimnodesportivas no sector da educação física escolar e do desporto juvenil não federado, no sector do desporto universitário e no sector do desporto federado;
 
@@ -120,7 +207,7 @@ d) Manter actualizada a Carta Gimnodesportiva do País, organizando para o efeit
 
 e) Cooperar com quaisquer entidades, nomeadamente locais, para o fomento das práticas gimnodesportivas.
 
-###### Art. 2.º No âmbito da educação física escolar e do desporto escolar juvenil não universitário compete à Direcção-Geral da Educação Física e Desportos:
+Art. 2.º No âmbito da educação física escolar e do desporto escolar juvenil não universitário compete à Direcção-Geral da Educação Física e Desportos:
 
 a) Dirigir e regulamentar as actividades gimnodesportivas escolares e juvenis não federadas;
 
@@ -130,11 +217,11 @@ c) Programar e orientar o ensino da educação física ministrado nos estabeleci
 
 d) Orientar, inspeccionar e classificar o pessoal docente que, nos estabelecimentos de ensino, públicos e particulares, não universitários, ministra a disciplina de Educação Física e orienta a prática de desportos.
 
-###### Art. 3.º - 1. No âmbito do desporto universitário, compete à Direcção-Geral da Educação Física e Desportos, ouvida a Direcção-Geral do Ensino Superior, promover, dirigir e regulamentar as relações desportivas a nível nacional entre as Universidades, bem como a participação portuguesa em competições universitárias internacionais.
+Art. 3.º - 1. No âmbito do desporto universitário, compete à Direcção-Geral da Educação Física e Desportos, ouvida a Direcção-Geral do Ensino Superior, promover, dirigir e regulamentar as relações desportivas a nível nacional entre as Universidades, bem como a participação portuguesa em competições universitárias internacionais.
 
 2. Enquanto não for possível dotar cada uma das Universidades de Lisboa com instalações desportivas próprias, competirá à Direcção-Geral da Educação Física e Desportos a organização do desporto universitário nesta cidade, estabelecendo com as mesmas colaboração nos termos que forem fixados por despacho ministerial.
 
-###### Art. 4.º - 1. No âmbito do desporto federado, compete à Direcção-Geral da Educação Física e Desportos:
+Art. 4.º - 1. No âmbito do desporto federado, compete à Direcção-Geral da Educação Física e Desportos:
 
 a) Orientar e regulamentar, directamente ou através dos organismos da hierarquia desportiva, as actividades do sector;
 
@@ -150,7 +237,7 @@ e) Avocar a apreciação e decisão dos assuntos relativos à actividade gimnode
 
 II - Serviços e organismos
 
-###### Art. 5.º A Direcção-Geral da Educação Física e Desportos compreende os seguintes serviços:
+Art. 5.º A Direcção-Geral da Educação Física e Desportos compreende os seguintes serviços:
 
 a) Inspecção Superior da Educação Física;
 
@@ -166,7 +253,7 @@ f) Repartição Administrativa;
 
 g) Delegações.
 
-###### Art. 6.º - 1. Compete à Inspecção Superior da Educação Física:
+Art. 6.º - 1. Compete à Inspecção Superior da Educação Física:
 
 a) Programar e orientar o ensino da educação física nos estabelecimentos de ensino públicos e particulares dependentes do Ministério da Educação Nacional, com excepção dos do ensino superior, assegurando a sua constante actualização;
 
@@ -188,7 +275,7 @@ i) Promover a realização de cursos de actualização de pessoal docente de edu
 
 2. A Inspecção Superior de Educação Física compreende uma Divisão de Educação Física Escolar, à qual compete assegurar todas as funções de secretariado da Inspecção e colaborar activamente na formação e actualização do pessoal docente de educação física para o sector escolar.
 
-###### Art. 7.ª - 1. Compete à Inspecção Superior do Desporto Federado:
+Art. 7.ª - 1. Compete à Inspecção Superior do Desporto Federado:
 
 a) Superintender em toda a actividade desportiva no âmbito do desporto federado, zelando pela observância das normas que disciplinam a acção dos organismos desportivos e a prática dos desportos;
 
@@ -206,7 +293,7 @@ g) Organizar e manter actualizado o registo disciplinar dos desportistas e organ
 
 2. A Inspecção Superior do Desporto Federado compreende uma Divisão do Desporto Federado, à qual compete assegurar as funções de secretariado da Inspecção e colaborar na organização e cadastro dos desportistas e organismos desportivos.
 
-###### Art. 8.º Compete à Inspecção Superior de Medicina Desportiva:
+Art. 8.º Compete à Inspecção Superior de Medicina Desportiva:
 
 a) Organizar, dirigir e regulamentar os serviços de medicina desportiva no País, em coordenação com o Ministério da Saúde e Assistência e os demais departamentos interessados;
 
@@ -220,7 +307,7 @@ e) Proceder à realização de cursos destinados ao pessoal médico e de enferma
 
 f) Promover e organizar actividades de investigação, tendo como objectivo o progresso da medicina desportiva e o aperfeiçoamento das suas técnicas.
 
-###### Art. 9.º - 1. Compete especialmente à Divisão do Desporto Juvenil:
+Art. 9.º - 1. Compete especialmente à Divisão do Desporto Juvenil:
 
 a) Difundir entre a juventude, no âmbito dos estabelecimentos de ensino ou fora deles, a prática dos desportos, programando-a, orientando-a e regulamentando-a;
 
@@ -232,7 +319,7 @@ d) Colaborar na formação e actualização dos técnicos desportivos.
 
 2. A Divisão do Desporto Juvenil exercerá as suas funções em íntima colaboração e numa acção coordenada com os serviços que, no Secretariado para a Juventude, se ocupam de actividades de ar livre e de apoio aos organismos e centros de juventude.
 
-###### Art. 10.º - 1. Compete à Divisão de Programação e Equipamento:
+Art. 10.º - 1. Compete à Divisão de Programação e Equipamento:
 
 a) Preparar os planos de fomento gimnodesportivo;
 
@@ -246,7 +333,7 @@ e) Fazer estudos sobre instalações e apetrechamento gimnodesportivos;
 
 f) Organizar os processos relativos à construção e beneficiação de instalações gimnodesportivas e aquisição e fornecimento do respectivo apetrechamento.
 
-###### Art. 11.º Compete especialmente à Repartição Administrativa:
+Art. 11.º Compete especialmente à Repartição Administrativa:
 
 a) Exercer a função de administração do pessoal, sem prejuízo da competência da Secretaria-Geral e da Direcção-Geral da Administração Escolar;
 
@@ -254,7 +341,7 @@ b) Organizar e assegurar o funcionamento regular dos serviços de contabilidade,
 
 c) Proceder à recolha e assegurar a divulgação de documentos e informações relacionadas com a educação física e os desportos.
 
-###### Art. 12.º - 1. Em cada distrito haverá um delegado do Ministério da Educação Nacional para a educação física e desportos, com competência sobre todos os sectores desportivos em que o Ministério superintende, nos termos que vierem a ser definidos em regulamento.
+Art. 12.º - 1. Em cada distrito haverá um delegado do Ministério da Educação Nacional para a educação física e desportos, com competência sobre todos os sectores desportivos em que o Ministério superintende, nos termos que vierem a ser definidos em regulamento.
 
 2. Na dependência da Direcção-Geral funcionarão centros de medicina desportiva.
 
@@ -262,11 +349,11 @@ c) Proceder à recolha e assegurar a divulgação de documentos e informações 
 
 4. Sempre que as circunstâncias o aconselhem, os centros de medicina desportiva funcionarão integrados nos centros de saúde, sujeitos à disciplina destes, e as suas actividades serão regulamentadas por portaria conjunta dos Ministros da Educação Nacional e da Saúde e Assistência.
 
-###### Art. 13.º São organismos dependentes da Direcção-Geral o Estádio Nacional e as escolas de instrutores de Educação Física.
+Art. 13.º São organismos dependentes da Direcção-Geral o Estádio Nacional e as escolas de instrutores de Educação Física.
 
 III - Do pessoal
 
-###### Art. 14.º - 1. A Direcção-Geral da Educação Física e Desportos tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 14.º - 1. A Direcção-Geral da Educação Física e Desportos tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2. A Direcção-Geral da Educação Física e Desportos disporá ainda do pessoal administrativo, técnico e auxiliar constante do mapa II anexo ao presente decreto-lei, o qual será acrescentado ao quadro único do Ministério, de acordo com o n.º 3.º do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
@@ -274,7 +361,7 @@ III - Do pessoal
 
 4. A distribuição do pessoal da Direcção-Geral pelos diversos serviços é feita por despacho do director-geral.
 
-###### Art. 15.º - 1. As formas de recrutamento e o regime de provimento do pessoal da Direcção-Geral da Educação Física e Desportos serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 15.º - 1. As formas de recrutamento e o regime de provimento do pessoal da Direcção-Geral da Educação Física e Desportos serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de entre diplomados com curso superior adequado e de reconhecida competência ou de entre inspectores-gerais da Junta Nacional da Educação;
 
@@ -292,45 +379,45 @@ f) Os inspectores-orientadores de 2.ª classe serão escolhidos pelo Ministro de
 
 3. O inspector superior de Medicina Desportiva exercerá, por inerência de funções, o cargo de adjunto do director-geral de Saúde, do Ministério da Saúde e Assistência, para os assuntos do respectivo âmbito, ficando assim alterado, e em conformidade, o quadro VI anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 16.º - 1. O Ministro da Educação Nacional poderá autorizar que pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários seja contratado ou assalariado além dos quadros pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços e à manutenção das instalações gimnodesportivas afectas à Direcção-Geral.
+Art. 16.º - 1. O Ministro da Educação Nacional poderá autorizar que pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários seja contratado ou assalariado além dos quadros pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços e à manutenção das instalações gimnodesportivas afectas à Direcção-Geral.
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 17.º - 1. O director-geral poderá propor, superiormente, a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao desempenho das atribuições confiadas à Direcção-Geral, nos termos estabelecidos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 17.º - 1. O director-geral poderá propor, superiormente, a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao desempenho das atribuições confiadas à Direcção-Geral, nos termos estabelecidos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 2. O pessoal referido no número anterior terá direito a ajudas de custo e despesas, de transporte quando haja de deslocar-se no desempenho das suas funções, sendo as ajudas de custo fixadas de harmonia com as disposições gerais em vigor.
 
-###### Art. 18.º O estatuto do pessoal docente de educação física e dos desportos será estabelecido em decreto referendado pelos Ministros das Finanças e da Educação Nacional.
+Art. 18.º O estatuto do pessoal docente de educação física e dos desportos será estabelecido em decreto referendado pelos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 19.º Em relação ao pessoal referido no artigo anterior, passam para a Direcção-Geral da Educação Física e Desportos as atribuições exercidas até ao presente pelas Direcções-Gerais do Ensino Liceal e do Ensino Técnico e pela Direcção dos Serviços do Ciclo Preparatório, salvo no que respeita à gestão desse pessoal, que passará a caber à Direcção-Geral da Administração Escolar.
+Art. 19.º Em relação ao pessoal referido no artigo anterior, passam para a Direcção-Geral da Educação Física e Desportos as atribuições exercidas até ao presente pelas Direcções-Gerais do Ensino Liceal e do Ensino Técnico e pela Direcção dos Serviços do Ciclo Preparatório, salvo no que respeita à gestão desse pessoal, que passará a caber à Direcção-Geral da Administração Escolar.
 
-###### Art. 20.º Os Ministros das Finanças e da Educação Nacional poderão alterar, por despacho conjunto, o quadro dos estabelecimentos de ensino no que respeita ao número de professores e de instrutores de Educação Física.
+Art. 20.º Os Ministros das Finanças e da Educação Nacional poderão alterar, por despacho conjunto, o quadro dos estabelecimentos de ensino no que respeita ao número de professores e de instrutores de Educação Física.
 
-###### Art. 21.º O Ministro da Educação Nacional poderá autorizar, em caso de manifesta necessidade, o preenchimento de lugares em princípio reservados só a homens ou a senhoras por docentes de sexo diverso.
+Art. 21.º O Ministro da Educação Nacional poderá autorizar, em caso de manifesta necessidade, o preenchimento de lugares em princípio reservados só a homens ou a senhoras por docentes de sexo diverso.
 
-###### Art. 22.º Quando as necessidades do ensino o exijam, poderá, por despacho do Ministro da Educação Nacional, ser transferido pessoal docente de um para outro estabelecimento de ensino público da mesma localidade.
+Art. 22.º Quando as necessidades do ensino o exijam, poderá, por despacho do Ministro da Educação Nacional, ser transferido pessoal docente de um para outro estabelecimento de ensino público da mesma localidade.
 
-###### Art. 23.º - 1. O Ministro da Educação Nacional pode autorizar que para actividades pedagógicas ou inspectivas especializadas sejam destacados para a Direcção-Geral, por períodos de três anos, em regime de tempo integral ou parcial, e até ao limite de dez, professores de Educação Física dos estabelecimentos de ensino dependentes do Ministério da Educação Nacional, considerando-se para todos os efeitos legais como serviço docente o que prestam nestas condições.
+Art. 23.º - 1. O Ministro da Educação Nacional pode autorizar que para actividades pedagógicas ou inspectivas especializadas sejam destacados para a Direcção-Geral, por períodos de três anos, em regime de tempo integral ou parcial, e até ao limite de dez, professores de Educação Física dos estabelecimentos de ensino dependentes do Ministério da Educação Nacional, considerando-se para todos os efeitos legais como serviço docente o que prestam nestas condições.
 
 2. O Ministro da Educação Nacional poderá ainda autorizar, nos termos do número anterior, que sejam destacados professores ou instrutores de Educação Física para a coordenação local das actividades pedagógicas de educação física nos ensinos primário, preparatório e secundário, mas de modo a não exceder a média de cinco por distrito.
 
 3. Os inspectores-orientadores, os inspectores-chefes e os professores destacados nos termos dos números anteriores têm direito a uma gratificação mensal de 2000$00 e 1000$00, consoante prestarem serviço em regime de tempo integral ou parcial.
 
-###### Art. 24.º Cabe aos reitores ou directores dos estabelecimentos de ensino a fiscalização da assiduidade dos agentes de ensino de educação física sobre os quais exercerão ainda o poder disciplinar que lhes compete quanto aos outros professores.
+Art. 24.º Cabe aos reitores ou directores dos estabelecimentos de ensino a fiscalização da assiduidade dos agentes de ensino de educação física sobre os quais exercerão ainda o poder disciplinar que lhes compete quanto aos outros professores.
 
-###### Art. 25.º - 1. Fica o Ministro da Educação Nacional autorizado a contratar, por força das verbas inscritas no orçamento para «Pessoal contratado não pertencente aos quadros», como monitores de Educação Física e Desportos, praticantes ou antigos praticantes de reconhecida idoneidade.
+Art. 25.º - 1. Fica o Ministro da Educação Nacional autorizado a contratar, por força das verbas inscritas no orçamento para «Pessoal contratado não pertencente aos quadros», como monitores de Educação Física e Desportos, praticantes ou antigos praticantes de reconhecida idoneidade.
 
 2. Os monitores de Educação Física e Desportos serão contratados por períodos anuais, sucessivamente prorrogáveis.
 
 3. Aos monitiores de Educação Física e Desportos é exigida a escolaridade obrigatória e perceberão uma gratificação mensal de 2300$00.
 
-###### Art. 26.º Os funcionários encarregados de serviços de inspecção, quando não se encontrem em funções no exterior, devem permanecer na Direcção-Geral ou suas delegações durante o horário normal do seu funcionamento e executar os trabalhos técnicos de que forem incumbidos.
+Art. 26.º Os funcionários encarregados de serviços de inspecção, quando não se encontrem em funções no exterior, devem permanecer na Direcção-Geral ou suas delegações durante o horário normal do seu funcionamento e executar os trabalhos técnicos de que forem incumbidos.
 
-###### Art. 27.º Terá direito a fardamento concedido pela Direcção-Geral de Educação Física e Desportos o pessoal auxiliar das suas delegações.
+Art. 27.º Terá direito a fardamento concedido pela Direcção-Geral de Educação Física e Desportos o pessoal auxiliar das suas delegações.
 
 IV - Disposições finais e transitórias
 
-###### Art. 28.º - 1. Serão suportados pelas dotações da Direcção-Geral da Educação Física e Desportos os subsídios destinados aos seguintes fins:
+Art. 28.º - 1. Serão suportados pelas dotações da Direcção-Geral da Educação Física e Desportos os subsídios destinados aos seguintes fins:
 
 a) Actividades das comissões organizadoras do desporto escolar, juvenil não federado e universitário;
 
@@ -340,11 +427,11 @@ c) Actividades do desporto federado não profissional;
 
 d) Funcionamento dos serviços de medicina desportiva e das delegações.
 
-###### Art. 29.º A Direcção-Geral da Educação Física e Desportos, o Estádio Nacional, as escolas de instrutores de Educação Física e outros estabelecimentos de ensino dependentes da Direcção-Geral continuam a beneficiar das vantagens estabelecidas no artigo 58.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1967, na aquisição de combustíveis líquidos e produtos afins, desde, que se destinem exclusivamente ao funcionamento de piscinas para o fomento da natação.
+Art. 29.º A Direcção-Geral da Educação Física e Desportos, o Estádio Nacional, as escolas de instrutores de Educação Física e outros estabelecimentos de ensino dependentes da Direcção-Geral continuam a beneficiar das vantagens estabelecidas no artigo 58.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1967, na aquisição de combustíveis líquidos e produtos afins, desde, que se destinem exclusivamente ao funcionamento de piscinas para o fomento da natação.
 
-###### Art. 30.º A Direcção-Geral da Educação Física e Desportos pode directamente promover a realização de obras de conservação e beneficiação nas instalações que lhe sejam afectas, bem como levar a efeito construções de natureza desportiva, cujo custo não seja superior a 2000000$00.
+Art. 30.º A Direcção-Geral da Educação Física e Desportos pode directamente promover a realização de obras de conservação e beneficiação nas instalações que lhe sejam afectas, bem como levar a efeito construções de natureza desportiva, cujo custo não seja superior a 2000000$00.
 
-###### Art. 31.º - 1. Compete a cada Universidade apresentar anualmente à aprovação do Governo, pela Secretaria de Estado da Juventude e Desportos, o plano de promoção da educação física e dos desportos, no seu âmbito, dirigir e regulamentar as actividades gimnodesportivas, bem como superintender sobre as instalações gimnodesportivas, que lhe estejam afectas por despacho ministerial, sem prejuízo de as mesmas poderem ser, pela mesma forma, abertas à utilização de alunos do ensino básico e secundário e de colectividades desportivas.
+Art. 31.º - 1. Compete a cada Universidade apresentar anualmente à aprovação do Governo, pela Secretaria de Estado da Juventude e Desportos, o plano de promoção da educação física e dos desportos, no seu âmbito, dirigir e regulamentar as actividades gimnodesportivas, bem como superintender sobre as instalações gimnodesportivas, que lhe estejam afectas por despacho ministerial, sem prejuízo de as mesmas poderem ser, pela mesma forma, abertas à utilização de alunos do ensino básico e secundário e de colectividades desportivas.
 
 2. O director das actividades e instalações desportivas de cada Universidade é designado pelo Ministro da Educação Nacional, ouvido o reitor.
 
@@ -354,29 +441,29 @@ d) Funcionamento dos serviços de medicina desportiva e das delegações.
 
 5. O Ministro da Educação Nacional fará publicar, pela Secretaria de Estado da Juventude e Desportos, dentro de cento e vinte dias, o regulamento do desporto universitário.
 
-###### Art. 32.º No prazo de cento e oitenta dias será aprovado, por decreto, o regulamento da Direcção-Geral da Educação Física e Desportos.
+Art. 32.º No prazo de cento e oitenta dias será aprovado, por decreto, o regulamento da Direcção-Geral da Educação Física e Desportos.
 
-###### Art. 33.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral da Educação Física, Desportos e Saúde Escolar e no Fundo de Fomento do Desporto será provido em lugares idênticos ou de categoria equivalente dos mapas anexos ao presente diploma, nos termos das regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 33.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral da Educação Física, Desportos e Saúde Escolar e no Fundo de Fomento do Desporto será provido em lugares idênticos ou de categoria equivalente dos mapas anexos ao presente diploma, nos termos das regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados para a Direcção-Geral da Educação Física e Desportos e para o Fundo de Fomento do Desporto, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
 
 3. O pessoal que actualmente presta serviço nas condições do número anterior e que não for possível prover nos termos previstos no mesmo transita para a Direcção-Geral da Educação Física e Desportos na situação em que se encontrar à data da publicação deste decreto-lei.
 
-###### Art. 34.º As funções exercidas no Fundo de Fomento do Desporto, em comissão de serviço, por funcionários do Ministério da Educação Nacional, consideram-se, para todos os efeitos legais, como tendo sido desempenhadas no serviço de origem.
+Art. 34.º As funções exercidas no Fundo de Fomento do Desporto, em comissão de serviço, por funcionários do Ministério da Educação Nacional, consideram-se, para todos os efeitos legais, como tendo sido desempenhadas no serviço de origem.
 
-###### Art. 35.º Enquanto não prestarem serviço nos quadros da Direcção-Geral inspectores-orientadores de 1.ª classe, poderão ser providos no lugar de inspector-chefe os actuais inspectores de desportos, ainda que exercendo estas funções em regime de comissão de serviço, desde que possuam as competentes habilitações legais.
+Art. 35.º Enquanto não prestarem serviço nos quadros da Direcção-Geral inspectores-orientadores de 1.ª classe, poderão ser providos no lugar de inspector-chefe os actuais inspectores de desportos, ainda que exercendo estas funções em regime de comissão de serviço, desde que possuam as competentes habilitações legais.
 
-###### Art. 36.º O director-geral da Educação Física, Desportos e Saúde Escolar que actualmente se encontra na situação de licença ilimitada passa à categoria de inspector-geral da Junta Nacional da Educação, mantendo-se na mesma situação.
+Art. 36.º O director-geral da Educação Física, Desportos e Saúde Escolar que actualmente se encontra na situação de licença ilimitada passa à categoria de inspector-geral da Junta Nacional da Educação, mantendo-se na mesma situação.
 
-###### Art. 37.º Os encargos resultantes da execução do presente diploma serão suportados, no que respeita a pessoal, pelas disponibilidades das dotações inscritas no orçamento da Secretaria-Geral e, no que respeita a funcionamento, pelas dotações inscritas no orçamento da Direcção-Geral da Educação Física e Desportos, do Ministério da Educação Nacional, para o ano de 1973.
+Art. 37.º Os encargos resultantes da execução do presente diploma serão suportados, no que respeita a pessoal, pelas disponibilidades das dotações inscritas no orçamento da Secretaria-Geral e, no que respeita a funcionamento, pelas dotações inscritas no orçamento da Direcção-Geral da Educação Física e Desportos, do Ministério da Educação Nacional, para o ano de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Fevereiro de 1973.**
+Promulgado em 16 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -384,12 +471,12 @@ MAPA I
 
 Pessoal integrado no quadro único a que se refere o n.º 1 do artigo 14.º do Decreto-Lei n.º 82/73, de 3 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/05300/03580363.pdf))](https://files.diariodarepublica.pt/1s/1973/03/05300/03580363.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/05300/03580363.pdf)
 
 Pessoal a que se refere o n.º 2 do artigo 14.º do Decreto-Lei n.º 82/73, de 3 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/05300/03580363.pdf))](https://files.diariodarepublica.pt/1s/1973/03/05300/03580363.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/05300/03580363.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

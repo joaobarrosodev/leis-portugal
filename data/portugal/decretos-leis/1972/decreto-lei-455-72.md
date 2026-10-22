@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1972-686061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73338dd8136d3f1c1bc80990ca3ee792068bd1ace13c83bb3769ce06fb9d1fc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43435f44d71cb6a900225a200388f5701b6e003f7f565c1a01f0465d19013e28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Emolumento
+- Estatuto
+- Extinção de Lugares
+- Formas de Provimento
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Inspecção Geral dos Tribunais do Trabalho
+- Lisboa
+- Magistrado Judicial
+- Oficial de Justiça
+- Orgânica
+- Pessoal de Justiça
+- Porto
+- Quadro de Pessoal
+- Remuneração
+- Secretário
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:431057:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443136:por
+  label: "Alterado o art. 150º do Estatuto dos Tribunais do Trabalho, aprovado pelo Dec Lei 41745, de 21-Jul, 1958, na redacção\
+    \ do presente diploma, pelo DEC LEI.274-A/75.02.06.1975.MT, DG.IS [126-4SUPL] de 02.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-a-1975-443136
+  date: '1975-06-02'
+- type: amended_by
+  target: pt:dre:311393:por
+  label: "Alterado o quadro de pessoal referido no art. 5º e constante do anexo pelo DEC LEI.680/75.09.12.1975.MT, DG.IS [283]\
+    \ de 09.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/680-1975-311393
+  date: '1975-12-09'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352516:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:685453:por
+  label: Rectificado [no referente ao mapa anexo] pela DECL.DD9375.20.12.1972.PC, DG.IS [294] de 20.12.1972
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1972-685453
+  date: '1972-12-20'
+- type: corrected_by
+  target: pt:dre:675655:por
+  label: "Rectificado [no referente ao art. 1º] pela RECT.DD324.04.04.1973.PC, DG.IS [80] de 04.04.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-675655
+  date: '1973-04-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:38Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +153,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 5.º, 21.º, 39.º, 40.º, 52.º, 53.º, 87.º, 98.º, 104.º, 105.º, 150.º e 151.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958 e alterado pelos Decretos-Leis n.os 43357, de 24 de Novembro de 1960, e 49372, de 11 de Novembro de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 5.º, 21.º, 39.º, 40.º, 52.º, 53.º, 87.º, 98.º, 104.º, 105.º, 150.º e 151.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958 e alterado pelos Decretos-Leis n.os 43357, de 24 de Novembro de 1960, e 49372, de 11 de Novembro de 1969, passam a ter a seguinte redacção:
 
-###### Art. 2.º Em cada distrito administrativo do continente e das ilhas adjacentes haverá, pelo menos, um tribunal do trabalho.
+Art. 2.º Em cada distrito administrativo do continente e das ilhas adjacentes haverá, pelo menos, um tribunal do trabalho.
 
 § único. Os Tribunais do Trabalho de Lisboa e Porto são constituídos por nove e seis varas, respectivamente, os de Braga e de Aveiro por três varas e os de Coimbra, Covilhã, Leiria, Setúbal, Tomar e Viseu por duas varas.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § único. Sempre que o tribunal seja constituído por mais de uma vara e ponderosas razões o justifiquem, o Ministro das Corporações e Previdência Social poderá determinar, em portaria, que uma funcione em localidade sede de comarca diferente daquela em que o tribunal está situado, sendo, neste caso, a área de jurisdição fixada na mesma portaria.
 
@@ -121,7 +169,7 @@ No caso de varas deslocadas da sede dos Tribunais do Trabalho de Lisboa e Porto,
 
 ...
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 1.º ...
 
@@ -135,13 +183,13 @@ No caso de varas deslocadas da sede dos Tribunais do Trabalho de Lisboa e Porto,
 
 ...
 
-###### Art. 21.º Nos tribunais com mais de uma vara funcionando na seda do tribunal haverá sempre um juiz e um agente do Ministério Público de turno, competindo ao primeiro presidir à distribuição e ordenar as diligências que possam praticar-se sem dependência desse acto e ao segundo receber especialmente participações de acidentes de trabalho e doenças profissionais e pedidos de tentativa de conciliação.
+Art. 21.º Nos tribunais com mais de uma vara funcionando na seda do tribunal haverá sempre um juiz e um agente do Ministério Público de turno, competindo ao primeiro presidir à distribuição e ordenar as diligências que possam praticar-se sem dependência desse acto e ao segundo receber especialmente participações de acidentes de trabalho e doenças profissionais e pedidos de tentativa de conciliação.
 
 § único ...
 
 ...
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 1.º ...
 
@@ -153,17 +201,17 @@ No caso de varas deslocadas da sede dos Tribunais do Trabalho de Lisboa e Porto,
 
 § 2.º ...
 
-###### Art. 40.º Quando a substituição não possa ser feita nos termos do artigo anterior, o juiz designará para cada caso pessoa idónea para o exercício das funções do Ministério Público, devendo, quando o impedimento seja de presumível duração, propor à Inspecção-Geral dos Tribunais do Trabalho a nomeação do substituto.
+Art. 40.º Quando a substituição não possa ser feita nos termos do artigo anterior, o juiz designará para cada caso pessoa idónea para o exercício das funções do Ministério Público, devendo, quando o impedimento seja de presumível duração, propor à Inspecção-Geral dos Tribunais do Trabalho a nomeação do substituto.
 
 § único
 
 ...
 
-###### Art. 52.º ...
+Art. 52.º ...
 
 § único. Nos tribunais com mais de uma vara poderá haver peritos em número igual ao das varas.
 
-###### Art. 53.º ...
+Art. 53.º ...
 
 § 1.º O contrato poderá ser renovado por iguais períodos mediante despacho do Ministro das Corporações e Previdência Social, devendo, para esse fim, o perito enviar à Inspecção-Geral dos Tribunais do Trabalho, trinta dias antes de findar o período em curso, relatório pormenorizado sobre a sua actuação, do qual constarão quaisquer sugestões julgadas necessárias para o aperfeiçoamento da Tabela Nacional de Incapacidades.
 
@@ -171,11 +219,11 @@ No caso de varas deslocadas da sede dos Tribunais do Trabalho de Lisboa e Porto,
 
 ...
 
-###### Art. 87.º Os juizes dos tribunais do trabalho não poderão ser colocados em tribunais onde tenham desempenhado funções de magistrado do Ministério Público nos últimos três anos ou em cuja sede residam ou tenham residido durante o mesmo período os seus ascendentes ou os do seu cônjuge.
+Art. 87.º Os juizes dos tribunais do trabalho não poderão ser colocados em tribunais onde tenham desempenhado funções de magistrado do Ministério Público nos últimos três anos ou em cuja sede residam ou tenham residido durante o mesmo período os seus ascendentes ou os do seu cônjuge.
 
 ...
 
-###### Art. 98.º Os lugares de secretário dos Tribunais do Trabalho de Lisboa e Porto serão providos livremente pelo Ministro das Corporações e Previdência Social em licenciados em direito ou em chefes de secretaria a escrivães dos tribunais do trabalho com a classificação de Muito bom e com mais de dez anos de serviço.
+Art. 98.º Os lugares de secretário dos Tribunais do Trabalho de Lisboa e Porto serão providos livremente pelo Ministro das Corporações e Previdência Social em licenciados em direito ou em chefes de secretaria a escrivães dos tribunais do trabalho com a classificação de Muito bom e com mais de dez anos de serviço.
 
 Os chefes de secretaria e os escrivães serão providos por concurso documental em funcionários da mesma categoria, sendo motivo de preferência a melhor classificação de serviço à data da sua nomeação.
 
@@ -189,13 +237,13 @@ Os chefes de secretaria e os escrivães serão providos por concurso documental 
 
 ...
 
-###### Art. 104.º Os lugares de ajudante de escrivão serão providos entre escriturários-dactilógrafos aprovados em concurso para chefe de secretaria ou escrivão e, na sua falta, entre escriturários-dactilógrafos de 1.ª classe com a classificação de serviço superior a Bom.
+Art. 104.º Os lugares de ajudante de escrivão serão providos entre escriturários-dactilógrafos aprovados em concurso para chefe de secretaria ou escrivão e, na sua falta, entre escriturários-dactilógrafos de 1.ª classe com a classificação de serviço superior a Bom.
 
-###### Art. 105.º Os lugares de copistas e de oficiais de diligências serão providos em indivíduos com o 1.º ciclo dos liceus ou equivalente e que saibam escrever correctamente à máquina.
+Art. 105.º Os lugares de copistas e de oficiais de diligências serão providos em indivíduos com o 1.º ciclo dos liceus ou equivalente e que saibam escrever correctamente à máquina.
 
 ...
 
-###### Art. 150.º Os secretários, os chefes de secretaria e as escrivães dos tribunais do trabalho auferirão o vencimento correspondente à parte fixa das remunerações atribuídas aos funcionários de idênticas categorias dos tribunais judiciais cíveis e a percentagem emolumentar prevista no § 3.º deste artigo, observando-se, quanto à parte fixa, as seguintes equiparações:
+Art. 150.º Os secretários, os chefes de secretaria e as escrivães dos tribunais do trabalho auferirão o vencimento correspondente à parte fixa das remunerações atribuídas aos funcionários de idênticas categorias dos tribunais judiciais cíveis e a percentagem emolumentar prevista no § 3.º deste artigo, observando-se, quanto à parte fixa, as seguintes equiparações:
 
 a) ...
 
@@ -211,38 +259,38 @@ c) ...
 
 § 4.º A Inspecção-Geral dos Tribunais do Trabalho solicitará ao Ministério da Justiça os elementos indispensáveis à fixação da parte emolumentar prevista no parágrafo anterior.
 
-###### Art. 151.º Os vencimentos dos oficiais de diligências dos Tribunais do Trabalho de Lisboa, Porto e Funchal, dos Tribunais do Trabalho de Aveiro, Braga, Coimbra, Leiria, Setúbal, Tomar e Ponta Delgada e os dos restantes tribunais do trabalho serão iguais à parte fixa da remuneração estabelecida para os funcionários da mesma categoria que prestem serviço, respectivamente, nos tribunais judiciais de 1.ª instância de Lisboa e Porto, nos tribunais das comarcas de 2.ª classe e nos tribunais das comarcas de 3.ª classe, sem prejuízo da parte emolumentar.
+Art. 151.º Os vencimentos dos oficiais de diligências dos Tribunais do Trabalho de Lisboa, Porto e Funchal, dos Tribunais do Trabalho de Aveiro, Braga, Coimbra, Leiria, Setúbal, Tomar e Ponta Delgada e os dos restantes tribunais do trabalho serão iguais à parte fixa da remuneração estabelecida para os funcionários da mesma categoria que prestem serviço, respectivamente, nos tribunais judiciais de 1.ª instância de Lisboa e Porto, nos tribunais das comarcas de 2.ª classe e nos tribunais das comarcas de 3.ª classe, sem prejuízo da parte emolumentar.
 
 § 1.º Na hipótese prevista no § único do artigo 3.º, os vencimentos dos oficiais de diligências serão iguais à parte fixa da remuneração estabelecida para os funcionários da mesma categoria que prestem serviço nos tribunais judiciais das comarcas de 2.ª ou 3.ª classe, conforme a vara funcione em comarcas de 1.ª ou 2.ª classe ou de 3.ª classe, sem prejuízo da parte emolumentar.
 
 § 2.º A parte emolumentar devida aos oficiais de diligências será fixada nos termos do § 3.º do artigo anterior.
 
-###### Art. 2.º A secção III do capítulo III do título III do Estatuto dos Tribunais do Trabalho para a ser subordinada ao título:
+Art. 2.º A secção III do capítulo III do título III do Estatuto dos Tribunais do Trabalho para a ser subordinada ao título:
 
 Dos ajudantes de escrivão, escriturários-dactilógrafos, copistas e oficiais de diligências.
 
-###### Art. 3.º Os ajudantes de escrivão auferirão o vencimento da letra Q do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 3.º Os ajudantes de escrivão auferirão o vencimento da letra Q do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 4.º São extintos os lugares de copista vagos antes e depois da entrada em vigor deste diploma.
+Art. 4.º São extintos os lugares de copista vagos antes e depois da entrada em vigor deste diploma.
 
-###### Art. 5.º - 1. O quadro dos funcionários da justiça é aumentado nos termos do mapa anexo.
+Art. 5.º - 1. O quadro dos funcionários da justiça é aumentado nos termos do mapa anexo.
 
 2. O provimento dos funcionários indicados no mapa referido no número anterior dependerá das disponibilidades orçamentais criadas pela extinção da categoria de copista e das necessidades do serviço.
 
-###### Art. 6.º O quadro da secretaria da Inspecção-Geral dos Tribunais do Trabalho é acrescido de um adjunto da Inspecção.
+Art. 6.º O quadro da secretaria da Inspecção-Geral dos Tribunais do Trabalho é acrescido de um adjunto da Inspecção.
 
-###### Art. 7.º Os encargos a que der lugar a execução do presente diploma quanto à criação de novos tribunais do trabalho são reembolsados ao Estado trimestralmente pela receita prevista no artigo 152.º do Decreto-Lei n.º 45598, de 30 de Abril de 1964, mediante competente guia passada perla repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e das Corporações e Previdência Social, e os restantes encargos serão directamente suportados pela mesma receita, salvo a despesa resultante do artigo 6.º do presente diploma, a cargo do Orçamento Geral do Estado.
+Art. 7.º Os encargos a que der lugar a execução do presente diploma quanto à criação de novos tribunais do trabalho são reembolsados ao Estado trimestralmente pela receita prevista no artigo 152.º do Decreto-Lei n.º 45598, de 30 de Abril de 1964, mediante competente guia passada perla repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e das Corporações e Previdência Social, e os restantes encargos serão directamente suportados pela mesma receita, salvo a despesa resultante do artigo 6.º do presente diploma, a cargo do Orçamento Geral do Estado.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Novembro de 1972.**
+Promulgado em 3 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 5.º do Decreto-Lei n.º 455/72, de 14 de Novembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/26500/16601662.pdf))](https://files.diariodarepublica.pt/1s/1972/11/26500/16601662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/26500/16601662.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

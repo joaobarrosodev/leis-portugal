@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/08/19000/10761078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cd2ff9819cf63dc0de7fac25bb26c6837f1ba11c6e5c9c7d59335c91a1e6793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0286c2ccb4d36796288fa637bb0d6223872c4d7073039b3e8d7f75ecc55c5dac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doutoramento
+- Ensino Superior
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:225809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453184:por
+  label: "Aditado um n.º 5 ao artigo 8.º, e alterado o artigo 13.º, pelo DEC LEI.316/83.02.07.1983.ME, DR.IS [150] de 02.07.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1983-453184
+  date: '1983-07-02'
+- type: repealed_by
+  target: pt:dre:225809:por
+  label: "Revogado pelo DEC LEI.216/92.13.10.1992.ME, DR.IS-A [236] de 13.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1992-225809
+  date: '1992-10-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:41Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +120,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Disposições gerais
 
-###### Artigo 1.º - 1. O grau de doutor é conferido pelas Universidades em cada uma das suas escolas e comprova alto nível cultural e aptidão para a investigação científica em determinado ramo do saber.
+Artigo 1.º - 1. O grau de doutor é conferido pelas Universidades em cada uma das suas escolas e comprova alto nível cultural e aptidão para a investigação científica em determinado ramo do saber.
 
 2. O grau de doutor é designado pelos ramos do conhecimento correspondentes ao objecto principal da escola que o confere, acrescentando-se, quando necessário, a especialidade sobre que incidiram as provas.
 
-###### Art. 2.º - 1. O Ministro da Educação Nacional fixará, sob proposta dos senados ou conselho universitários e parecer da Junta Nacional da Educação, as diferentes especialidades sobre as quais poderá ser admitido o doutoramento em cada escola.
+Art. 2.º - 1. O Ministro da Educação Nacional fixará, sob proposta dos senados ou conselho universitários e parecer da Junta Nacional da Educação, as diferentes especialidades sobre as quais poderá ser admitido o doutoramento em cada escola.
 
 2. As provas de doutoramento incidirão sobre matéria de um grupo de disciplinas afins, professadas em escolas superiores e incluídas no elenco das respectivas licenciaturas.
 
@@ -118,7 +132,7 @@ Disposições gerais
 
 Condições da admissão ao doutoramento
 
-###### Art. 3.º - 1. O candidato ao doutoramento deverá ter a licenciatura correspondente ou outra cujo plano de estudos contenha disciplinas que o conselho escolar entenda assegurarem formação suficiente para aquele acto.
+Art. 3.º - 1. O candidato ao doutoramento deverá ter a licenciatura correspondente ou outra cujo plano de estudos contenha disciplinas que o conselho escolar entenda assegurarem formação suficiente para aquele acto.
 
 2. Podem candidatar-se ao grau de doutor:
 
@@ -130,13 +144,13 @@ c) Mediante parecer fundamentado do conselho escolar, aprovado por maioria de do
 
 Preparação das provas de doutoramento
 
-###### Art. 4.º - 1. A preparação da dissertação deverá normalmente efectuar-se sob a orientação de um professor da Universidade em que o candidato pretende doutorar-se.
+Art. 4.º - 1. A preparação da dissertação deverá normalmente efectuar-se sob a orientação de um professor da Universidade em que o candidato pretende doutorar-se.
 
 2. A orientação referida no número anterior poderá ainda caber a um investigador pertencente a outra instituição de ensino ou de investigação científica e reconhecido como idóneo pela escola.
 
 3. Quando o conselho escolar julgar justificado, poderão ser aceites dissertações realizadas sob a responsabilidade individual do doutorando.
 
-###### Art. 5.º - 1. Nos casos dos n.os 1 e 2 do artigo anterior, o candidato deverá comunicar ao conselho escolar, com um ano de antecedência pelo menos, a intenção de se preparar para o doutoramento, designando o orientador escolhido que o aceitou ou solicitando que lhe seja indicado um.
+Art. 5.º - 1. Nos casos dos n.os 1 e 2 do artigo anterior, o candidato deverá comunicar ao conselho escolar, com um ano de antecedência pelo menos, a intenção de se preparar para o doutoramento, designando o orientador escolhido que o aceitou ou solicitando que lhe seja indicado um.
 
 2. O conselho escolar decidirá, nos casos dos n.os 2 e 3 do artigo anterior, no prazo de trinta dias, sobre a admissão do candidato, e da decisão devidamente fundamentada ser-lhe-á dado conhecimento.
 
@@ -152,7 +166,7 @@ Preparação das provas de doutoramento
 
 Admissibilidade do candidato às provas de doutoramento
 
-###### Art. 6.º - 1. Para a prestação das provas de doutoramento o candidato apresentará o seu requerimento na escola em que pretende realizá-las, com a indicação da disciplina ou grupo de disciplinas a que elas hão-de respeitar.
+Art. 6.º - 1. Para a prestação das provas de doutoramento o candidato apresentará o seu requerimento na escola em que pretende realizá-las, com a indicação da disciplina ou grupo de disciplinas a que elas hão-de respeitar.
 
 2. O requerimento, que poderá ser apresentado em qualquer época do ano lectivo será instruído com os seguintes elementos:
 
@@ -164,7 +178,7 @@ c) Dissertação de doutoramento, impressa ou policopiada, em número de exempla
 
 d) Idêntico número de exemplares, impressos ou policopiados, do curriculum vitae.
 
-###### Art. 7.º - 1. Em face do processo organizado nos termos do n.º 2 do artigo antecedente e do parecer favorável do orientador, o conselho escolar autorizará, no prazo máximo de trinta dias, a realização das provas.
+Art. 7.º - 1. Em face do processo organizado nos termos do n.º 2 do artigo antecedente e do parecer favorável do orientador, o conselho escolar autorizará, no prazo máximo de trinta dias, a realização das provas.
 
 2. No caso do n.º 3 do artigo 4.º, o conselho decidirá, no prazo de sessenta dias, sobre a admissão às provas, com base em parecer fundamentado, subscrito por dois professores da especialidade, designados para o efeito pelo conselho.
 
@@ -174,7 +188,7 @@ d) Idêntico número de exemplares, impressos ou policopiados, do curriculum vit
 
 Provas de doutoramento
 
-###### Art. 8.º - 1. As provas de doutoramento incluem a crítica e defesa de uma dissertação original e especialmente escrita para o efeito.
+Art. 8.º - 1. As provas de doutoramento incluem a crítica e defesa de uma dissertação original e especialmente escrita para o efeito.
 
 2. É admitido na elaboração da dissertação o aproveitamento, total ou parcial, do resultado de trabalhos já publicados, mesmo em colaboração, devendo, neste caso, o candidato esclarecer qual a sua contribuição pessoal.
 
@@ -188,11 +202,11 @@ c) Discussão de um projecto de investigação apresentado pelo candidato dentro
 
 4. O texto do estudo ou do projecto de investigação referidos nas alíneas b) e c) do número anterior não deverá exceder cinquenta páginas de formato 21 cm x 29,7 cm, dactilografados a dois espaços.
 
-###### Art. 9.º - 1. A dissertação será apreciada por um ou dois membros do júri, um dos quais, neste caso e sempre que possível, pertencerá a escola diferente daquela em que se realizarem as provas.
+Art. 9.º - 1. A dissertação será apreciada por um ou dois membros do júri, um dos quais, neste caso e sempre que possível, pertencerá a escola diferente daquela em que se realizarem as provas.
 
 2. A discussão não poderá exceder cento e vinte minutos, ou uma hora, quando seja um só arguente, cabendo um período máximo de trinta minutos a cada arguente e devendo ser proporcionada ao candidato a possibilidade de responder às críticas feitas.
 
-###### Art. 10.º - 1. Os pontos para a discussão a que se refere a alínea a) do n.º 3 do artigo 8.º serão sorteados entre quinze propostos pelo júri.
+Art. 10.º - 1. Os pontos para a discussão a que se refere a alínea a) do n.º 3 do artigo 8.º serão sorteados entre quinze propostos pelo júri.
 
 2. A afixação dos pontos e o respectivo sorteio terão lugar trinta dias antes da data do início da prestação das provas.
 
@@ -200,11 +214,11 @@ c) Discussão de um projecto de investigação apresentado pelo candidato dentro
 
 4. As discussões a que se referem as alíneas b) e c) do n.º 3 do artigo 8.º ficarão a cargo de um único membro do júri e terão a duração máxima de duas horas.
 
-###### Art. 11.º - As provas de que consta o doutoramento serão separadas por intervalos mínimos de vinte e quatro horas.
+Art. 11.º - As provas de que consta o doutoramento serão separadas por intervalos mínimos de vinte e quatro horas.
 
 Júri do doutoramento
 
-###### Art. 12.º - 1. O júri das provas do doutoramento será constituído:
+Art. 12.º - 1. O júri das provas do doutoramento será constituído:
 
 a) Pelo reitor da Universidade, presidente, o qual poderá fazer-se substituir por um vice-reitor ou pelo director da Faculdade ou Escola;
 
@@ -214,7 +228,7 @@ c) Por mais três a cinco vogais professores de matérias do grupo de disciplina
 
 2. Um dos vogais do júri poderá ser, se necessário, professor de outra Universidade ou investigador de um organismo de investigação de reconhecida idoneidade, nacionais ou estrangeiros.
 
-###### Art. 13.º - 1. Concluídas as provas, o júri reunir-se-á para a apreciação destas, cujo resumo constará da respectiva acta, e para a classificação do candidato por votação em escrutínio secreto.
+Art. 13.º - 1. Concluídas as provas, o júri reunir-se-á para a apreciação destas, cujo resumo constará da respectiva acta, e para a classificação do candidato por votação em escrutínio secreto.
 
 2. Só podem participar na votação os membros do júri que tenham assistido a todas as provas.
 
@@ -224,7 +238,7 @@ c) Por mais três a cinco vogais professores de matérias do grupo de disciplina
 
 Doutoramento «honoris causa»
 
-###### Art. 14.º - 1. As Universidades poderão conferir o grau de doutor honoris causa a individualidades eminentes, nacionais ou estrangeiras, sob proposta devidamente fundamentada apresentada pelo menos por dois professores e aprovada pela maioria de dois terços do número de componentes do respectivo conselho escolar.
+Art. 14.º - 1. As Universidades poderão conferir o grau de doutor honoris causa a individualidades eminentes, nacionais ou estrangeiras, sob proposta devidamente fundamentada apresentada pelo menos por dois professores e aprovada pela maioria de dois terços do número de componentes do respectivo conselho escolar.
 
 2. A deliberação compete ao respectivo senado universitário.
 
@@ -232,14 +246,14 @@ Doutoramento «honoris causa»
 
 Disposições finais
 
-###### Art. 15.º - Durante dois anos a contar da entrada em vigor deste diploma, os candidatos ao doutoramento poderão optar pelo regime agora instituído ou pelo anteriormente vigente.
+Art. 15.º - Durante dois anos a contar da entrada em vigor deste diploma, os candidatos ao doutoramento poderão optar pelo regime agora instituído ou pelo anteriormente vigente.
 
-###### Art. 16.º - As dúvidas sobre a interpretação e aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, ouvidos os senados ou conselho universitários e sob parecer da Junta Nacional da Educação.
+Art. 16.º - As dúvidas sobre a interpretação e aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, ouvidos os senados ou conselho universitários e sob parecer da Junta Nacional da Educação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 5 de Agosto de 1970.**
+Promulgado em 5 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

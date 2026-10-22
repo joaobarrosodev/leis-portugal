@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1980, 2º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4244-(44) a 4244-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30102/00440047.pdf
 entry_into_force_dates: []
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1980-226588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaf9c174cc4f7f838bae2bb8635bbc0ac120c26e90058d6c809eb3388e1c21ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 270fd900b8494af1b54c29cb60645636c25e7033237892237517620d393ceca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:577107:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:316751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:12Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +127,11 @@ Considerando que a experiência colhida na aplicação do [Decreto-Lei n.º 263/
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O provimento de lugares do quadro geral do ensino primário será feito por concurso anual, a abrir, mediante aviso a publicar no Diário da República, pela Direcção-Geral de Pessoal até 31 de Dezembro de cada ano.
+Artigo 1.º - 1 - O provimento de lugares do quadro geral do ensino primário será feito por concurso anual, a abrir, mediante aviso a publicar no Diário da República, pela Direcção-Geral de Pessoal até 31 de Dezembro de cada ano.
 
 2 - O Ministro da Educação e Ciência poderá, em casos excepcionais devidamente justificados, alterar, por despacho a publicar no Diário da República, a data referida no número anterior.
 
-###### Art. 2.º - 1 - A Direcção-Geral de Pessoal inventariará, até ao último dia do mês anterior ao da abertura do concurso, as vagas existentes e mandará afixar a correspondente relação em todas as direcções de distrito escolar, independentemente da publicação no Diário da República.
+Art. 2.º - 1 - A Direcção-Geral de Pessoal inventariará, até ao último dia do mês anterior ao da abertura do concurso, as vagas existentes e mandará afixar a correspondente relação em todas as direcções de distrito escolar, independentemente da publicação no Diário da República.
 
 2 - Para além das vagas referidas no número anterior, serão ainda considerados os novos lugares criados posteriormente à afixação da relação mencionada no número anterior, os quais constarão também do aviso de abertura de concurso.
 
@@ -108,7 +143,7 @@ b) Funcionem ao abrigo das experiências pedagógicas instituídas nos termos do
 
 c) Sejam considerados susceptíveis de extinção ou de suspensão no prazo de um ano, devido à sua reduzida frequência, nos termos dos artigos 12.º e 13.º do [Decreto-Lei n.º 412/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1980-461650), de 27 de Setembro.
 
-###### Art. 3.º - 1 - O prazo para requerer a admissão ao concurso é de quinze dias, contado a partir do dia seguinte ao da publicação no Diário da República do aviso referido no n.º 1 do artigo 1.º do presente diploma.
+Art. 3.º - 1 - O prazo para requerer a admissão ao concurso é de quinze dias, contado a partir do dia seguinte ao da publicação no Diário da República do aviso referido no n.º 1 do artigo 1.º do presente diploma.
 
 2 - O prazo a que se refere o número anterior beneficiará de uma dilação de vinte dias para os candidatos que se encontrem numa das seguintes situações:
 
@@ -118,15 +153,15 @@ b) Estejam como cooperantes em países de expressão portuguesa;
 
 c) Se encontrem em serviço no âmbito do ensino português no estrangeiro.
 
-###### Art. 4.º - 1 - A admissão a concurso será feita através do preenchimento de um impresso próprio, que será acompanhado de uma ficha profissional, de uma ficha-resumo destacável e de uma capa própria, a editar pela Imprensa Nacional-Casa da Moeda e cujos modelos serão aprovados por portaria do Ministro da Educação e Ciência.
+Art. 4.º - 1 - A admissão a concurso será feita através do preenchimento de um impresso próprio, que será acompanhado de uma ficha profissional, de uma ficha-resumo destacável e de uma capa própria, a editar pela Imprensa Nacional-Casa da Moeda e cujos modelos serão aprovados por portaria do Ministro da Educação e Ciência.
 
 2 - Os modelos referidos no número anterior serão remetidos às direcções dos distritos escolares, que confirmarão os elementos constantes do processo de concurso.
 
-###### Art. 5.º O concurso realiza-se com recuperação automática de vagas, de forma que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
+Art. 5.º O concurso realiza-se com recuperação automática de vagas, de forma que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
 
-###### Art. 6.º O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Diário da República da data de vacatura do lugar, coincidindo esta com a data do despacho ministerial que autorize a transferência do antigo titular.
+Art. 6.º O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Diário da República da data de vacatura do lugar, coincidindo esta com a data do despacho ministerial que autorize a transferência do antigo titular.
 
-###### Art. 7.º - 1 - Podem ser opositores ao concurso referido no artigo 1.º os candidatos que se encontrem em algum dos escalões que a seguir se indicam, por ordem de prioridade:
+Art. 7.º - 1 - Podem ser opositores ao concurso referido no artigo 1.º os candidatos que se encontrem em algum dos escalões que a seguir se indicam, por ordem de prioridade:
 
 a) Professores efectivos do ensino primário, ainda que na situação de licença ilimitada há mais de um ano, e professores exonerados do quadro geral que, sem interrupção, se tenham mantido no exercício de funções no âmbito do Ministério da Educação e Ciência;
 
@@ -134,7 +169,7 @@ b) Candidatos habilitados com o curso das escolas do magistério primário ou eq
 
 2 - Para efeitos do disposto no número anterior, consideram-se efectivos os professores dos quadros do ensino primário das ex-colónias que nessa qualidade hajam ingressado no quadro geral de adidos, desde que façam prova da sua integração naquele quadro dentro do prazo referido no n.º 1 do artigo 3.º do presente decreto-lei.
 
-###### Art. 8.º - 1 - Dentro de cada um dos escalões referidos no artigo anterior, os candidatos serão ordenados em função dos seguintes elementos:
+Art. 8.º - 1 - Dentro de cada um dos escalões referidos no artigo anterior, os candidatos serão ordenados em função dos seguintes elementos:
 
 a) Graduação profissional;
 
@@ -144,7 +179,7 @@ c) Tempo de serviço docente prestado no ensino primário antes do Exame de Esta
 
 2 - O tempo de serviço docente em estabelecimentos de ensino particular referido na alínea b) do número anterior será contado e comprovado nos termos do Estatuto do Ensino Particular e Cooperativo.
 
-###### Art. 9.º - 1 - A graduação profissional de cada candidato é a classificação do Exame de Estado ou equivalente, acrescida de 1 valor por cada ano de serviço bem qualificado e até ao limite de 20 valores.
+Art. 9.º - 1 - A graduação profissional de cada candidato é a classificação do Exame de Estado ou equivalente, acrescida de 1 valor por cada ano de serviço bem qualificado e até ao limite de 20 valores.
 
 2 - O número de anos de serviço mencionado no número anterior é o quociente inteiro da divisão por 365 do número de dias de serviço prestado nas condições referidas na alínea b) do artigo anterior, desde o dia 1 de Setembro do ano em que o professor concluiu o Exame de Estado ou equivalente até 31 de Agosto imediatamente anterior à data de abertura do concurso.
 
@@ -168,13 +203,13 @@ b) Não ofereça dúvidas sobre a sua qualidade e duração, tratando-se de serv
 
 6 - Para efeitos da graduação a que se refere este artigo, o aproveitamento nos cursos especiais criados pelo [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, considera-se equivalente ao Exame de Estado.
 
-###### Art. 10.º A antiguidade referida na alínea b) do artigo 8.º deste decreto-lei é expressa em dias e corresponde ao tempo que, nos termos do artigo 9.º, não seja possível considerar para efeitos de graduação profissional.
+Art. 10.º A antiguidade referida na alínea b) do artigo 8.º deste decreto-lei é expressa em dias e corresponde ao tempo que, nos termos do artigo 9.º, não seja possível considerar para efeitos de graduação profissional.
 
-###### Art. 11.º - 1 - A antiguidade referida na alínea c) do artigo 8.º do presente diploma é expressa em dias e corresponde a todo o serviço docente prestado no ensino primário antes do dia 1 de Setembro do ano em que o professor concluiu o Exame de Estado ou equivalente em estabelecimentos de ensino oficiais, oficializados ou particulares.
+Art. 11.º - 1 - A antiguidade referida na alínea c) do artigo 8.º do presente diploma é expressa em dias e corresponde a todo o serviço docente prestado no ensino primário antes do dia 1 de Setembro do ano em que o professor concluiu o Exame de Estado ou equivalente em estabelecimentos de ensino oficiais, oficializados ou particulares.
 
 2 - Exceptua-se do disposto no número anterior o tempo referido na alínea a) do n.º 4 do artigo 9.º, que é contado, exclusivamente, para efeitos de graduação profissional.
 
-###### Art. 12.º - 1 - Dentro de cada um dos escalões referidos no n.º 1 do artigo 7.º deste decreto-lei, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
+Art. 12.º - 1 - Dentro de cada um dos escalões referidos no n.º 1 do artigo 7.º deste decreto-lei, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
 
 2 - Em caso de empate, prefere, sucessivamente:
 
@@ -186,11 +221,11 @@ c) O candidato mais idoso;
 
 d) O candidato com melhor classificação no Exame de Estado ou equivalente.
 
-###### Art. 13.º - 1 - Não serão admitidos ao concurso para o provimento no quadro geral do ensino primário os professores que, tendo sido providos mediante permuta, não houverem prestado três anos de bom e efectivo serviço nos lugares em que se encontrem por efeitos da mesma.
+Art. 13.º - 1 - Não serão admitidos ao concurso para o provimento no quadro geral do ensino primário os professores que, tendo sido providos mediante permuta, não houverem prestado três anos de bom e efectivo serviço nos lugares em que se encontrem por efeitos da mesma.
 
 2 - Os professores transferidos de determinado lugar por motivos disciplinares não poderão, no concurso imediatamente seguinte à transferência, candidatar-se ao lugar de onde foram transferidos.
 
-###### Art. 14.º - 1 - A lista provisória ordenada de candidatos admitidos será publicada no Diário da República, podendo os concorrentes, no prazo de dez dias a contar do dia seguinte ao da mesma publicação, reclamar da sua ordenação ou da sua não admissão.
+Art. 14.º - 1 - A lista provisória ordenada de candidatos admitidos será publicada no Diário da República, podendo os concorrentes, no prazo de dez dias a contar do dia seguinte ao da mesma publicação, reclamar da sua ordenação ou da sua não admissão.
 
 2 - O prazo referido no número anterior beneficiará de uma dilação de vinte dias para os candidatos referidos no n.º 2 do artigo 3.º
 
@@ -200,22 +235,22 @@ d) O candidato com melhor classificação no Exame de Estado ou equivalente.
 
 5 - As desistências do concurso só são permitidas até ao final do prazo de reclamações, devendo ser apresentadas em papel selado e com assinatura reconhecida notarialmente.
 
-###### Art. 15.º É obrigatória a aceitação do lugar que, em resultado do concurso, vier a caber a cada um dos concorrentes.
+Art. 15.º É obrigatória a aceitação do lugar que, em resultado do concurso, vier a caber a cada um dos concorrentes.
 
-###### Art. 16.º O professor que não tomar posse, no prazo estabelecido por lei, do lugar em que for provido perde a qualidade de professor efectivo, sem prejuízo da sua condição de profissionalizado e da respectiva graduação profissional.
+Art. 16.º O professor que não tomar posse, no prazo estabelecido por lei, do lugar em que for provido perde a qualidade de professor efectivo, sem prejuízo da sua condição de profissionalizado e da respectiva graduação profissional.
 
-###### Art. 17.º A regulamentação do concurso para professores do quadro geral do ensino primário, bem como as regras de provimento resultantes da recuperação automática de vagas, serão estabelecidas por portaria do Ministro da Educação e Ciência.
+Art. 17.º A regulamentação do concurso para professores do quadro geral do ensino primário, bem como as regras de provimento resultantes da recuperação automática de vagas, serão estabelecidas por portaria do Ministro da Educação e Ciência.
 
-###### Art. 18.º É revogado o [Decreto-Lei n.º 263/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1977-316751), de 23 de Junho.
+Art. 18.º É revogado o [Decreto-Lei n.º 263/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1977-316751), de 23 de Junho.
 
-###### Art. 19.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Ciência, a publicar no Diário da República.
+Art. 19.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Ciência, a publicar no Diário da República.
 
-###### Art. 20.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 20.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 20 de Dezembro de 1980.**
+Promulgado em 20 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

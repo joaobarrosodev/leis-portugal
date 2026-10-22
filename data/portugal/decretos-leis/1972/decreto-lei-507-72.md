@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1972-685201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bc0e477e3a042c104a59057d25d7886314b85277b0d89e6dfdf84f55267f7eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43efa605cc68b7c5203935f0ce31289a93ddad16eaa38ea72874fa2627d8ba8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código Penal
+- Código Penal e Disciplinar da Marinha Mercante
+- Crime
+- Direito Internacional
+- Direito Marítimo
+- Embarcação
+- Multa
+- Regulamento Geral das Capitanias
+- Sanção Penal
+relationships:
+- type: cites
+  target: pt:dre:174323:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:56Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +105,9 @@ Considerando, ainda, conveniente definir e aplicar, com clareza, em matéria pro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As infracções previstas e punidas nos termos do presente diploma praticadas em território nacional, incluindo águas interiores e mar territorial, ou no alto mar, desde que o respectivo agente seja membro da tripulação de embarcação portuguesa, são consideradas crimes marítimos e como tais sujeitas às disposições do Código Penal e Disciplinar da Marinha Mercante, em tudo o que não seja contrariado pelo mesmo diploma.
+Artigo 1.º As infracções previstas e punidas nos termos do presente diploma praticadas em território nacional, incluindo águas interiores e mar territorial, ou no alto mar, desde que o respectivo agente seja membro da tripulação de embarcação portuguesa, são consideradas crimes marítimos e como tais sujeitas às disposições do Código Penal e Disciplinar da Marinha Mercante, em tudo o que não seja contrariado pelo mesmo diploma.
 
-###### Art. 2.º - 1. O comandante de uma embarcação ocupada na reparação ou colocação de um cabo submarino ou sub-fluvial que não respeitar, na parte que lhe for aplicável, as normas respeitantes a sinais do Regulamento para Evitar Abalroamentos no Mar será punido com prisão até dois meses, agravada com multa de 5000$00 a 50000$00 se a infracção der causa a que outra embarcação quebre ou deteriore outro cabo, interrompendo ou dificultando as comunicações efectuadas através dele.
+Art. 2.º - 1. O comandante de uma embarcação ocupada na reparação ou colocação de um cabo submarino ou sub-fluvial que não respeitar, na parte que lhe for aplicável, as normas respeitantes a sinais do Regulamento para Evitar Abalroamentos no Mar será punido com prisão até dois meses, agravada com multa de 5000$00 a 50000$00 se a infracção der causa a que outra embarcação quebre ou deteriore outro cabo, interrompendo ou dificultando as comunicações efectuadas através dele.
 
 2. Na mesma pena incorrem:
 
@@ -102,7 +115,7 @@ a) O comandante, mestre, arrais ou patrão de qualquer embarcação que, avistan
 
 b) O comandante, mestre, arrais ou patrão de qualquer embarcação que, vendo ou podendo ver as bóias assinalando um cabo em colocação, avariado ou em estado de rotura, não mantenha a sua embarcação afastada dessas bóias pelo menos um quarto de milha marítima.
 
-###### Art. 3.º - 1. É punido com prisão até dois meses, agravada com multa de 5000$00 a 50000$00:
+Art. 3.º - 1. É punido com prisão até dois meses, agravada com multa de 5000$00 a 50000$00:
 
 a) O comandante, mestre, arrais ou patrão de qualquer embarcação que fundear a menos de um quarto de milha marítima de um cabo submarino ou subfluvial em reparação ou colocação e cuja posição estiver assinalada pelas bóias respectivas, ou amarrar a uma destas bóias;
 
@@ -114,39 +127,39 @@ c) O comandante, mestre ou arrais de qualquer embarcação de pesca que não con
 
 3. Se, com a antecedência mínima de vinte e quatro horas, tiver sido feito aviso à navegação, indicando o local e a data da realização dos trabalhos de reparação ou colocação de cabos, as embarcações de pesca que possam ter tomado conhecimento do aviso não beneficiam do prazo referido no número anterior.
 
-###### Art. 4.º - 1. O comandante da embarcação ocupada na reparação ou colocação de um cabo submarino ou subfluvial deve proceder de forma que dessas operações resulte o mínimo prejuízo possível para a navegação, sob pena de incorrer em multa de 5000$00 a 20000$00.
+Art. 4.º - 1. O comandante da embarcação ocupada na reparação ou colocação de um cabo submarino ou subfluvial deve proceder de forma que dessas operações resulte o mínimo prejuízo possível para a navegação, sob pena de incorrer em multa de 5000$00 a 20000$00.
 
 2. O comandante da embarcação ocupada na reparação ou colocação de um cabo que, contrariando o disposto na parte final do n.º 2 do artigo anterior, der causa a que a embarcação de pesca perca as suas redes ou aparelhos de pesca é punido com prisão até dois meses e multa de 5000$00 a 50000$00.
 
-###### Art. 5.º - 1. Todo aquele que por negligência quebrar ou deteriorar um cabo submarino ou subfluvial, interrompendo ou dificultando as comunicações efectuadas através desse cabo, é punido com prisão até nove meses e multa de 20000$00 a 100000$00.
+Art. 5.º - 1. Todo aquele que por negligência quebrar ou deteriorar um cabo submarino ou subfluvial, interrompendo ou dificultando as comunicações efectuadas através desse cabo, é punido com prisão até nove meses e multa de 20000$00 a 100000$00.
 
 2. Quando se verifique que o corte ou deterioração do cabo foi intencional, a pena será de prisão de quatro meses a dois anos e multa de 60000$00 a 300000$00.
 
 3. Relativamente ao disposto no número anterior, a tentativa é punida com prisão até quatro meses e multa até 60000$00.
 
-###### Art. 6.º - 1. O comandante, mestre, arrais ou patrão da embarcação a cuja tripulação pertencer o autor material de uma infracção ocorrida em qualquer das circunstâncias previstas no n.º 1 do artigo anterior é também punido como autor.
+Art. 6.º - 1. O comandante, mestre, arrais ou patrão da embarcação a cuja tripulação pertencer o autor material de uma infracção ocorrida em qualquer das circunstâncias previstas no n.º 1 do artigo anterior é também punido como autor.
 
 2. O facto de, pelo comandante, mestre, arrais ou patrão da embarcação a cuja tripulação pertencer o infractor, ter sido dado conhecimento da infracção à autoridade marítima competente será tomado em conta como atenuante de especial valor.
 
-###### Art. 7.º - 1. As penas previstas nos artigos anteriores para a rotura ou deterioração de um cabo não são aplicáveis quando essa rotura ou deterioração se der no mar territorial ou águas interiores portuguesas na porção do cabo que, segundo o contrato com as respectivas companhias, deva ser protegido por uma linha de bóias ou por sinais, e estes ou aqueles não existirem ou não forem visíveis.
+Art. 7.º - 1. As penas previstas nos artigos anteriores para a rotura ou deterioração de um cabo não são aplicáveis quando essa rotura ou deterioração se der no mar territorial ou águas interiores portuguesas na porção do cabo que, segundo o contrato com as respectivas companhias, deva ser protegido por uma linha de bóias ou por sinais, e estes ou aqueles não existirem ou não forem visíveis.
 
 2. Nos portos ou ancoradouros onde o cabo passar ou amarrar é permitido fundear ou conservar as redes ou aparelhos de pesca a menos de um quarto de milha marítima dos cabos em reparação ou colocação, quando tal seja determinado pelo respectivo capitão do porto, atendendo às condições do fundeadouro.
 
-###### Art. 8.º - 1. Quando no mar territorial ou em águas interiores portuguesas for necessário efectuar o levantamento das armações de pesca para se proceder às operações de reparação ou colocação de um cabo, o capitão do porto estabelecerá o prazo dentro do qual aquelas armações devem ser levantadas.
+Art. 8.º - 1. Quando no mar territorial ou em águas interiores portuguesas for necessário efectuar o levantamento das armações de pesca para se proceder às operações de reparação ou colocação de um cabo, o capitão do porto estabelecerá o prazo dentro do qual aquelas armações devem ser levantadas.
 
 2. Ao comandante da embarcação ocupada na reparação ou colocação de um cabo que dolosamente não respeite o prazo referido no número anterior é aplicável o disposto no n.º 2 do artigo 4.º
 
-###### Art. 9.º - 1. O disposto nos n.os 2 e 3 do artigo 5.º não é aplicável se a rotura ou deterioração for determinada pelo comandante, mestre, arrais ou patrão e uma embarcação a fim de garantir a segurança desta ou se necessária para salvaguarda de vidas humanas, depois de terem sido tomadas todas as precauções necessárias para evitar essas roturas ou deteriorações.
+Art. 9.º - 1. O disposto nos n.os 2 e 3 do artigo 5.º não é aplicável se a rotura ou deterioração for determinada pelo comandante, mestre, arrais ou patrão e uma embarcação a fim de garantir a segurança desta ou se necessária para salvaguarda de vidas humanas, depois de terem sido tomadas todas as precauções necessárias para evitar essas roturas ou deteriorações.
 
 2. A rotura ou deterioração de um cabo nas condições do número anterior deve ser comunicada, no prazo de vinte e quatro horas, à autoridade marítima do primeiro porto nacional onde a embarcação entrar, pelo respectivo comandante, mestre, arrais ou patrão, sob pena de lhe ser aplicada a multa de 5000$00 a 50000$00.
 
-###### Art. 10.º Quando uma embarcação tenha a bordo um piloto das barras e portos nacionais, a responsabilidade criminal pelas infracções resultantes de acto ou omissão ocorrido a bordo pertence a esse piloto, salvo nos casos em que o Regulamento Geral dos Serviços de Pilotagem das Barras e dos Portos do Continente e das Ilhas Adjacentes dispuser em contrário.
+Art. 10.º Quando uma embarcação tenha a bordo um piloto das barras e portos nacionais, a responsabilidade criminal pelas infracções resultantes de acto ou omissão ocorrido a bordo pertence a esse piloto, salvo nos casos em que o Regulamento Geral dos Serviços de Pilotagem das Barras e dos Portos do Continente e das Ilhas Adjacentes dispuser em contrário.
 
-###### Art. 11.º As condições a que devem obedecer as portas das redes das embarcações de pesca nacionais, a fim de evitar a rotura ou deterioração dos cabos submarinos ou subfluviais, são estabelecidas nas disposições que regulam a pesca de arrasto.
+Art. 11.º As condições a que devem obedecer as portas das redes das embarcações de pesca nacionais, a fim de evitar a rotura ou deterioração dos cabos submarinos ou subfluviais, são estabelecidas nas disposições que regulam a pesca de arrasto.
 
-###### Art. 12.º Todo aquele que fabricar, vender, embarcar ou fizer embarcar instrumentos ou aparelhos que sirvam para cortar ou deteriorar cabos submarinos ou subfluviais, quando haja fundadas suspeitas de que se destinam a algum desses fins, é punido com a multa de 5000$00 a 50000$00, que pode ser agravada, conforme as circunstâncias, com prisão de oito dias a dois meses.
+Art. 12.º Todo aquele que fabricar, vender, embarcar ou fizer embarcar instrumentos ou aparelhos que sirvam para cortar ou deteriorar cabos submarinos ou subfluviais, quando haja fundadas suspeitas de que se destinam a algum desses fins, é punido com a multa de 5000$00 a 50000$00, que pode ser agravada, conforme as circunstâncias, com prisão de oito dias a dois meses.
 
-###### Art. 13.º - 1. São competentes para conhecer das infracções previstas nos artigos anteriores:
+Art. 13.º - 1. São competentes para conhecer das infracções previstas nos artigos anteriores:
 
 a) O tribunal marítimo da sede da capitania do porto onde tiver sido feita a matricula da embarcação, quanto às infracções praticadas no alto mar;
 
@@ -154,7 +167,7 @@ b) O tribunal marítimo da sede da capitania do porto em cuja área de jurisdiç
 
 2. Sendo a embarcação de nacionalidade estrangeira, e a infracção cometida, no mar territorial ou em águas interiores portuguesas, quando aquela se dirigir para o mar, o tribunal competente é o da sede da capitania do primeiro porto português em que a embarcação tocar ou o infractor desembarcar.
 
-###### Art. 14.º O exercício da acção penal depende:
+Art. 14.º O exercício da acção penal depende:
 
 a) Quanto às infracções cometidas no mar territorial e em águas interiores portuguesas, do disposto no Código Penal e Disciplinar da Marinha Mercante quanto à notícia da infracção;
 
@@ -166,7 +179,7 @@ b) Quanto às infracções cometidas no alto mar e em execução do disposto da 
 
 3) De denúncia à mesma autoridade marítima feita pelo ofendido.
 
-###### Art. 15.º - 1. Os comandantes dos navios da Armada ou dos navios encarregados pelo Governo Português de fiscalizar o cumprimento da Convenção, quando tiverem seguros indícios da prática no alto mar de qualquer das infracções previstas neste diploma por embarcação de nacionalidade portuguesa ou de qualquer Estado contratante, mandarão lavrar auto de notícia do facto.
+Art. 15.º - 1. Os comandantes dos navios da Armada ou dos navios encarregados pelo Governo Português de fiscalizar o cumprimento da Convenção, quando tiverem seguros indícios da prática no alto mar de qualquer das infracções previstas neste diploma por embarcação de nacionalidade portuguesa ou de qualquer Estado contratante, mandarão lavrar auto de notícia do facto.
 
 2. Dos autos de notícia devem constar com a maior clareza possível os elementos e as circunstâncias da prática da infracção, com a indicação do dia, hora e local em que foi cometida, identificação do infractor e de pelo menos duas testemunhas que possam depor sobre os factos, a assinatura do oficial que levanta o auto, das testemunhas quando for possível e do infractor se quiser assinar.
 
@@ -176,33 +189,33 @@ b) Quanto às infracções cometidas no alto mar e em execução do disposto da 
 
 5. O superior hierárquico que recebeu os documentos a que se refere o número anterior, ou qualquer entidade do Ministério da Marinha que, por qualquer razão, recebeu os processos verbais de que trata a subalínea 2) da alínea b) do artigo anterior, providencia para que os mesmos sejam remetidos o mais breve possível ao capitão do porto onde tem sede o tribunal marítimo competente, ou, no caso de a embarcação ser estrangeira, às autoridades do Estado do pavilhão da embarcação pela competente via diplomática.
 
-###### Art. 16.º - 1. No que respeita à acção civil por danos resultantes de qualquer infracção punível por este diploma, observar-se-á, na parte aplicável, o disposto nos artigos respectivos do Código de Processo Penal.
+Art. 16.º - 1. No que respeita à acção civil por danos resultantes de qualquer infracção punível por este diploma, observar-se-á, na parte aplicável, o disposto nos artigos respectivos do Código de Processo Penal.
 
 2. O pedido de indemnização será deduzido no prazo estabelecido para a acusação, podendo o lesado deduzi-lo contra as pessoas que só sejam civilmente responsáveis pelo facto imputado ao arguido.
 
-###### Art. 17.º Têm direito a ser indemnizados pelos proprietários dos cabos:
+Art. 17.º Têm direito a ser indemnizados pelos proprietários dos cabos:
 
 a) Os proprietários das armações de pesca que devido à reparação ou colocação dos cabos tenham de as levantar;
 
 b) Os proprietários ou armadores de embarcações que provem que sacrificaram um ferro, uma rede ou um aparelho de pesca para não danificarem um cabo submarino ou subfluvial.
 
-###### Art. 18.º - 1. Para os efeitos do artigo anterior e quanto aos factos ocorridos na área de jurisdição de qualquer repartição marítima, aplicam-se as disposições do Regulamento Geral das Capitanias quanto a avarias da embarcações.
+Art. 18.º - 1. Para os efeitos do artigo anterior e quanto aos factos ocorridos na área de jurisdição de qualquer repartição marítima, aplicam-se as disposições do Regulamento Geral das Capitanias quanto a avarias da embarcações.
 
 2. A decisão proferida pela autoridade marítima será comunicada à autoridade consular do país a que pertencer o cabo e ao proprietário deste quando for caso disso.
 
-###### Art. 19.º - 1. Para os efeitos do artigo 17.º e quanto aos factos acorridos no alto mar, a direito de indemnização só é reconhecido se tiver sido lavrado, tanto quanto possível logo após o acidente, e para dele dar fé, um processo verbal confirmado por testemunho dos membros da tripulação, e se o comandante, mestre, arrais ou patrão apresentar, na prazo de vinte e quatro horas a contar da sua chegada ao primeiro porto português de destino ou de arribada, o respectivo relatório de mar ao capitão do porto, que, por sua vez, deve dar logo conhecimento do facto às autoridades consulares do Estado de que for nacional o proprietário do cabo, quando disso for caso.
+Art. 19.º - 1. Para os efeitos do artigo 17.º e quanto aos factos acorridos no alto mar, a direito de indemnização só é reconhecido se tiver sido lavrado, tanto quanto possível logo após o acidente, e para dele dar fé, um processo verbal confirmado por testemunho dos membros da tripulação, e se o comandante, mestre, arrais ou patrão apresentar, na prazo de vinte e quatro horas a contar da sua chegada ao primeiro porto português de destino ou de arribada, o respectivo relatório de mar ao capitão do porto, que, por sua vez, deve dar logo conhecimento do facto às autoridades consulares do Estado de que for nacional o proprietário do cabo, quando disso for caso.
 
 2. Recebidos os elementos referidos no n.º 1 observar-se-á o disposto no artigo anterior.
 
-###### Art. 20.º São revogados a Carta de Lei de 21 de Abril de 1886 e o [Decreto n.º 8257](https://diariodarepublica.pt/dr/detalhe/decreto/8257-1922-174323), de 11 de Julho de 1922.
+Art. 20.º São revogados a Carta de Lei de 21 de Abril de 1886 e o [Decreto n.º 8257](https://diariodarepublica.pt/dr/detalhe/decreto/8257-1922-174323), de 11 de Julho de 1922.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 2 de Dezembro de 1972.**
+Promulgado em 2 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas - J. da Silva Cunha.
 

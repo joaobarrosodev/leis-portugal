@@ -48,40 +48,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76beb5ffd49a901c395a47586a43c6969bd43ebecbd719a845519f6bced2f533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a312bbb9ab2b688b0ddd6763abc83a06f119273ff108f142271ef380a24cb296
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certidão
+- Código do Registo Civil
+- Conservatória do Registo Civil
+- Direcção Geral dos Registos e do Notariado
+- Emolumento
+- Emolumento do Notariado
+- Integração de Trabalhadores
+- Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:506818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474744:por
+  label: "Alterados os arts. 9º, 12º, 66º, 116º e 117º do Código do Registo Civil aprovado pelo Dec Lei 47678 de 05-Mai de\
+    \ 1967, com as alterações constantes do presente diploma, pelo DEC LEI.419/74.07.09.1974.MJ, DG.IS [209] de 07.09.1974\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/419-1974-474744
+  date: '1974-09-07'
+- type: cites
+  target: pt:dre:302701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506818:por
+  label: "Revogados os artigos 3.º a 6.º pelo DEC LEI.64/76.24.01.1976.MJ, DG.IS [20] de 24.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1976-506818
+  date: '1976-01-24'
 article_structure:
-  article_count: 31
+  article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:37Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +138,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 12.º, 21.º, 26.º, 48.º, 58.º, 66.º, 68.º, 76.º, 94.º, 96.º, 97.º, 104.º, 116.º, 117.º, 155.º, 168.º, 246.º, 282.º, 292.º, 293.º, 296.º, 299.º e 402.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 47678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47678-1967-508385), de 5 de Maio de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 12.º, 21.º, 26.º, 48.º, 58.º, 66.º, 68.º, 76.º, 94.º, 96.º, 97.º, 104.º, 116.º, 117.º, 155.º, 168.º, 246.º, 282.º, 292.º, 293.º, 296.º, 299.º e 402.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 47678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47678-1967-508385), de 5 de Maio de 1967, passam a ter a seguinte redacção:
 
 ###### Artigo 9.º
 
@@ -408,7 +444,7 @@ A cédula, uma vez emitida, deve ser apresentada na conservatória onde tenha de
 
 2. Os actos lavrados pelos órgãos especiais do registo, a que se refere o artigo 11.º, poderão obedecer aos modelos actuais até 1 de Janeiro de 1971.
 
-###### Art. 2.º Os artigos 17.º, 28.º, 31.º, 32.º e 33.º da tabela de emolumentos anexa ao Código do Registo Civil em vigor passam a ter a seguinte redacção:
+Art. 2.º Os artigos 17.º, 28.º, 31.º, 32.º e 33.º da tabela de emolumentos anexa ao Código do Registo Civil em vigor passam a ter a seguinte redacção:
 
 ###### Artigo 17.º
 
@@ -440,9 +476,9 @@ Pela urgência pedida pelo requisitante na passagem de qualquer certidão ou dos
 
 2. Pela requisição de cada bilhete de identidade ou averbamento e pela aposição em cada impresso do pedido do visto de conferência com a cédula pessoal ... 5$00
 
-###### Art. 3.º Pelos serviços de identificação serão cobradas as taxas constantes da tabela anexa a este diploma, a qual substitui a tabela a que se refere o artigo 35.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957.
+Art. 3.º Pelos serviços de identificação serão cobradas as taxas constantes da tabela anexa a este diploma, a qual substitui a tabela a que se refere o artigo 35.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957.
 
-###### Art. 4.º - 1. O pagamento das taxas cobradas pelos serviços de identificação passa a ser efectuado por meio de estampilhas fiscais.
+Art. 4.º - 1. O pagamento das taxas cobradas pelos serviços de identificação passa a ser efectuado por meio de estampilhas fiscais.
 
 2. As estampilhas correspondentes à taxa devida serão coladas no pedido de bilhete de identidade ou de averbamento e no requerimento de certificado ou da certidão inutilizadas pelo interessado ou pelo serviço de recepção, nos termos gerais, e pelos serviços de identificação, mediante perfuração.
 
@@ -452,29 +488,29 @@ Pela urgência pedida pelo requisitante na passagem de qualquer certidão ou dos
 
 5. Até ao dia 10 de cada mês, a Direcção dos Serviços de Identificação deve remeter à 4.ª Repartição da Direcção-Geral da Contabilidade Pública, sob a forma de mapa, a indicação do número de bilhetes de identidade, de averbamentos, de certidões e de certificados de registo criminal requeridos no mês anterior e da correspondente receita.
 
-###### Art. 5.º - 1. Os quadros do pessoal da Direcção dos Serviços de Identificação, da Secção Central e das Subsecções do Porto e de Coimbra, da Secção do Arquivo-Geral do Registo Criminal e Policial e do Posto do Registo Criminal e Policial do Porto passam a constituir um quadro único da Direcção dos Serviços de Identificação.
+Art. 5.º - 1. Os quadros do pessoal da Direcção dos Serviços de Identificação, da Secção Central e das Subsecções do Porto e de Coimbra, da Secção do Arquivo-Geral do Registo Criminal e Policial e do Posto do Registo Criminal e Policial do Porto passam a constituir um quadro único da Direcção dos Serviços de Identificação.
 
 2. A designação do pessoal que deve prestar serviço em cada secção, subsecção ou posto será feita por despacho do Ministro da Justiça, sob proposta da Direcção dos Serviços de Identificação.
 
-###### Art. 6.º O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, e no artigo único do [Decreto-Lei n.º 41602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41602-1958-302701), de 30 de Abril de 1958, é aplicável às tarefas extraordinárias preparatórias da mecanização e automação dos serviços de identificação.
+Art. 6.º O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, e no artigo único do [Decreto-Lei n.º 41602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41602-1958-302701), de 30 de Abril de 1958, é aplicável às tarefas extraordinárias preparatórias da mecanização e automação dos serviços de identificação.
 
-###### Art. 7.º - 1. Os funcionários dos quadros da Direcção-Geral dos Registos e do Notariado, do pessoal auxiliar das conservatórias e cartórios notariais e dos serviços de identificação que, em virtude das medidas de simplificação e automação dos respectivos serviços, vierem a ser dispensados poderão ser colocados, por despacho do Ministro da Justiça, independentemente de concurso, nas vagas das categorias equivalentes abertas em qualquer serviço dependente do Ministério da Justiça.
+Art. 7.º - 1. Os funcionários dos quadros da Direcção-Geral dos Registos e do Notariado, do pessoal auxiliar das conservatórias e cartórios notariais e dos serviços de identificação que, em virtude das medidas de simplificação e automação dos respectivos serviços, vierem a ser dispensados poderão ser colocados, por despacho do Ministro da Justiça, independentemente de concurso, nas vagas das categorias equivalentes abertas em qualquer serviço dependente do Ministério da Justiça.
 
 2. Os funcionários a que se refere o número anterior, com mais de três anos de bom e efectivo serviço, serão admitidos aos concursos documentais para provimento das vagas de lugares da categoria imediatamente superior dos quadros de qualquer serviço dependente do Ministério da Justiça e nelas poderão ser providos desde que possuam as respectivas habilitações legais.
 
-###### Art. 8.º O disposto no n.º 2 do artigo 287.º do Código do Registo Civil em vigor é aplicável a todos os impressos, do modelo oficial, utilizados nos serviços de registo e do notariado não exceptuados por despacho do Ministro da Justiça.
+Art. 8.º O disposto no n.º 2 do artigo 287.º do Código do Registo Civil em vigor é aplicável a todos os impressos, do modelo oficial, utilizados nos serviços de registo e do notariado não exceptuados por despacho do Ministro da Justiça.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Maio de 1969.**
+Promulgado em 16 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Tabela de emolumentos dos serviços de identificação
 
-###### Artigo único. Nos serviços de identificação serão cobradas as seguintes taxas:
+Artigo único. Nos serviços de identificação serão cobradas as seguintes taxas:
 
 1. Pela passagem de bilhetes de identidade, incluindo segundas vias:
 

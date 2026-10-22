@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/23500/21082113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39738e2508b2828350c05114ab8b1d4cc1614a228677e9f78f9f2fd0fbe5f86d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 967597338df34cc648bdd9ec5ebbe4e2ab35ffcb3602b6647593f6b9c7c92cdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Equipamento Escolar
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:297237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226790:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo do presente diploma, pela PORT.1110/80.31.12.1980.PCM, DR.IS\
+    \ [301-6.º Supl] de 31.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1110-1980-226790
+  date: '1980-12-31'
+- type: amended_by
+  target: pt:dre:600708:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.119/82.1982.01.28.MFP DR.IS [23] DE 28/JAN/1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-1982-600708
+  date: '1982-01-07'
+- type: cites
+  target: pt:dre:138289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686834:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:325937:por
+  label: Rectificado pela DECL.DD7412.14.11.1978.PCM, DR.IS [262] de 14.11.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-325937
+  date: '1978-11-14'
+- type: repealed_by
+  target: pt:dre:297237:por
+  label: "Revogado pelo DEC LEI.151-E/86.18.06.1986.MEC, DR.IS [137]2ºSupl de 18.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-e-1986-297237
+  date: '1986-06-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:58Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +158,7 @@ I
 
 Das atribuições e competências
 
-###### Artigo 1.º - 1 - A Direcção-Geral do Equipamento Escolar, abreviadamente designada neste diploma por DGEE, constitui serviço central do Ministério da Educação e Cultura e tem por atribuições gerais a elaboração de planos anuais e plurianuais de necessidades de instalações escolares e sua caracterização, a partir do planeamento geral elaborado pelo Gabinete de Estudos e Planeamento do Ministério da Educação e Cultura.
+Artigo 1.º - 1 - A Direcção-Geral do Equipamento Escolar, abreviadamente designada neste diploma por DGEE, constitui serviço central do Ministério da Educação e Cultura e tem por atribuições gerais a elaboração de planos anuais e plurianuais de necessidades de instalações escolares e sua caracterização, a partir do planeamento geral elaborado pelo Gabinete de Estudos e Planeamento do Ministério da Educação e Cultura.
 
 2 - À Direcção-Geral do Equipamento Escolar compete, ainda, a definição do equipamento escolar e, nos termos da legislação aplicável, proceder à aquisição daquele equipamento e ao arrendamento e aquisição de imóveis para instalar estabelecimentos de ensino.
 
@@ -110,7 +166,7 @@ Das atribuições e competências
 
 4 - Para efeitos das atribuições referidas no n.º 2, considera-se equipamento escolar o material didáctico, o mobiliário, maquinaria fixa e outro equipamento para instalações acessórias e de apoio.
 
-###### Art. 2.º Para a prossecução das suas atribuições é da competência da Direcção-Geral do Equipamento Escolar:
+Art. 2.º Para a prossecução das suas atribuições é da competência da Direcção-Geral do Equipamento Escolar:
 
 1 - Em matéria de estudo e planeamento:
 
@@ -150,11 +206,11 @@ c) Gerir a rede escolar dos vários níveis e ramos de ensino, incluindo as inst
 
 d) Gerir as existências de equipamento escolar dos estabelecimentos de ensino, ajustando-as às efectivas necessidades pedagógicas.
 
-###### Art. 3.º A DGEE exercerá as suas funções em estreita colaboração com os restantes órgãos e serviços do MEC, bem como com os organismos públicos de execução de obras públicas, nomeadamente a Direcção-Geral das Construções Escolares.
+Art. 3.º A DGEE exercerá as suas funções em estreita colaboração com os restantes órgãos e serviços do MEC, bem como com os organismos públicos de execução de obras públicas, nomeadamente a Direcção-Geral das Construções Escolares.
 
-###### Art. 4.º Em ordem à prossecução das suas atribuições, a Direcção-Geral do Equipamento Escolar recorrerá, por si, ou em colaboração com outros órgãos e serviços do Ministério da Educação e Cultura e outras entidades públicas ou privadas, às modernas técnicas de gestão.
+Art. 4.º Em ordem à prossecução das suas atribuições, a Direcção-Geral do Equipamento Escolar recorrerá, por si, ou em colaboração com outros órgãos e serviços do Ministério da Educação e Cultura e outras entidades públicas ou privadas, às modernas técnicas de gestão.
 
-###### Art. 5.º Sem prejuízo de delegação de poderes que vier a ser conferida pelo Ministro da Educação e Cultura, é da competência própria do director-geral:
+Art. 5.º Sem prejuízo de delegação de poderes que vier a ser conferida pelo Ministro da Educação e Cultura, é da competência própria do director-geral:
 
 a) Determinar a realização de estudos e outros trabalhos considerados necessários à Direcção-Geral;
 
@@ -164,7 +220,7 @@ c) Autorizar despesas resultantes de viagens e deslocações dos funcionários, 
 
 d) Autorizar que os funcionários se desloquem utilizando a via aérea, sempre que a exigência do serviço tal imponha.
 
-###### Art. 6.º - 1 - O director-geral poderá, nos termos da lei, delegar ou subdelegar poderes da sua competência.
+Art. 6.º - 1 - O director-geral poderá, nos termos da lei, delegar ou subdelegar poderes da sua competência.
 
 2 - Os despachos que estabeleçam as delegações ou subdelegações deverão especificar as matérias ou os poderes neles abrangidos.
 
@@ -176,7 +232,7 @@ II
 
 Dos órgãos e serviços
 
-###### Art. 7.º - 1 - A Direcção-Geral do Equipamento Escolar compreende os seguintes órgãos e serviços:
+Art. 7.º - 1 - A Direcção-Geral do Equipamento Escolar compreende os seguintes órgãos e serviços:
 
 a) Direcção de Serviços de Instalações;
 
@@ -192,7 +248,7 @@ f) Repartição Administrativa;
 
 g) Comissão de Equipamento Escolar.
 
-###### Art. 8.º À Direcção de Serviços de Instalações, constituída por duas divisões, compete:
+Art. 8.º À Direcção de Serviços de Instalações, constituída por duas divisões, compete:
 
 a) Proceder à preparação das operações atinentes à satisfação das necessidades em matéria de instalações escolares;
 
@@ -206,7 +262,7 @@ e) Providenciar pela obtenção de soluções de recurso que garantam a adequaç
 
 f) Prestar assistência e apoio técnico às actividades de gestão de instalações e equipamento que o justifiquem, tendo em conta a normalidade de funcionamento dos estabelecimentos escolares.
 
-###### Art. 9.º À Direcção de Serviços de Equipamento, constituída por três divisões, compete:
+Art. 9.º À Direcção de Serviços de Equipamento, constituída por três divisões, compete:
 
 a) Proceder ao lançamento de concursos e à adjudicação de fornecimentos, seu acompanhamento e contrôle;
 
@@ -220,7 +276,7 @@ e) Assegurar o funcionamento eficaz do armazém;
 
 f) Assegurar a assistência técnica à escolha e recepção do equipamento.
 
-###### Art. 10.º À Direcção de Serviços de Gestão, constituída por quatro divisões, compete:
+Art. 10.º À Direcção de Serviços de Gestão, constituída por quatro divisões, compete:
 
 a) Inventariar e caracterizar, por localidade, os estabelecimentos de ensino em funcionamento, bem como outras instalações a eles afectas;
 
@@ -240,7 +296,7 @@ h) Proceder à fiscalização das actividades de gestão das instalações escol
 
 i) Fornecer à Direcção-Geral do Património os elementos de que esta careça para efeitos de organização do cadastro e inventário dos bens do domínio privado do Estado que estejam na sua posse ou superintendência.
 
-###### Art. 11.º À Direcção de Serviços de Estado, constituída por três divisões, compete:
+Art. 11.º À Direcção de Serviços de Estado, constituída por três divisões, compete:
 
 a) Caracterizar, com base em indicadores de carácter pedagógico e administrativo decorrentes de políticas educacionais definidas, os modelos das instalações e os tipos de equipamento;
 
@@ -250,13 +306,13 @@ c) Intervir no domínio da rede escolar, tendo em vista o estabelecimento de cri
 
 d) Adquirir, codificar, divulgar e arquivar a documentação e legislação considerada de interesse no âmbito da gestão, de instalações e equipamento escolar e participar em trabalhos de estudo e investigação a realizar por organismos nacionais ou estrangeiros.
 
-###### Art. 12.º O Gabinete Jurídico-Financeiro é dirigido por um director de serviços e compete-lhe:
+Art. 12.º O Gabinete Jurídico-Financeiro é dirigido por um director de serviços e compete-lhe:
 
 a) Prestar apoio jurídico-administrativo aos serviços da Direcção-Geral do Equipamento Escolar que dele careçam;
 
 b) Proceder a estudos económico-financeiros relacionados com as actividades da DGEE.
 
-###### Art. 13.º Compete à Repartição Administrativa:
+Art. 13.º Compete à Repartição Administrativa:
 
 a) Assegurar o expediente geral, promovendo o registo de entrada e saída de correspondência, assegurando o serviço de arquivo da repartição e prestando apoio administrativo aos demais serviços da DGEE;
 
@@ -266,17 +322,17 @@ c) Assegurar o apetrechamento material dos serviços da DGEE, organizando, acomp
 
 d) Propor as medidas tendentes à permanente actualização da estrutura e do funcionamento dos serviços.
 
-###### Art. 14.º A Comissão de Equipamento Escolar, adiante designada abreviadamente por CEE, goza de autonomia administrativa.
+Art. 14.º A Comissão de Equipamento Escolar, adiante designada abreviadamente por CEE, goza de autonomia administrativa.
 
-###### Art. 15.º Compete à CEE financiar as actividades da Direcção-Geral do Equipamento Escolar, no âmbito das competências que lhe são cometidas pelo presente diploma.
+Art. 15.º Compete à CEE financiar as actividades da Direcção-Geral do Equipamento Escolar, no âmbito das competências que lhe são cometidas pelo presente diploma.
 
-###### Art. 16.º A CEE compreende:
+Art. 16.º A CEE compreende:
 
 a) O Conselho Administrativo;
 
 b) A Repartição de Contabilidade e Tesouraria.
 
-###### Art. 17.º - 1 - Constituem o Conselho Administrativo da CEE:
+Art. 17.º - 1 - Constituem o Conselho Administrativo da CEE:
 
 a) O director-geral do Equipamento Escolar, que será o presidente;
 
@@ -290,7 +346,7 @@ e) O chefe da Repartição de Contabilidade e Tesouraria.
 
 2 - Os membros do Conselho Administrativo referidos nas alíneas b), c), d) e e) do número anterior serão os seus vogais.
 
-###### Art. 18.º - 1 - Ao Conselho Administrativo compete tomar as decisões sobre os encargos orçamentais da Direcção-Geral no que se refere a aquisição de equipamento, adjudicação de obras e aquisição e arrendamento de imóveis.
+Art. 18.º - 1 - Ao Conselho Administrativo compete tomar as decisões sobre os encargos orçamentais da Direcção-Geral no que se refere a aquisição de equipamento, adjudicação de obras e aquisição e arrendamento de imóveis.
 
 2 - Compete nomeadamente ao Conselho Administrativo:
 
@@ -304,7 +360,7 @@ d) Prestar contas da sua gerência ao Tribunal de Contas, nos termos legais;
 
 e) Autorizar a concessão de subsídios ou indemnizações por utilização de edifícios, para funcionamento de instalações escolares, pertencentes a terceiros.
 
-###### Art. 19.º - 1 - O Conselho Administrativo reunirá quinzenalmente em sessão ordinária e, extraordinariamente, sempre que for convocado pelo presidente.
+Art. 19.º - 1 - O Conselho Administrativo reunirá quinzenalmente em sessão ordinária e, extraordinariamente, sempre que for convocado pelo presidente.
 
 2 - De cada reunião será lavrada acta, assinada pelo presidente e pelos demais membros presentes.
 
@@ -316,33 +372,33 @@ e) Autorizar a concessão de subsídios ou indemnizações por utilização de e
 
 6 - A preparação e execução das deliberações do Conselho Administrativo serão asseguradas pela Direcção-Geral do Equipamento Escolar.
 
-###### Art. 20.º À Repartição de Contabilidade e Tesouraria compete assegurar as funções de economato e fiscalização da execução orçamental das despesas, para o que deverá:
+Art. 20.º À Repartição de Contabilidade e Tesouraria compete assegurar as funções de economato e fiscalização da execução orçamental das despesas, para o que deverá:
 
 a) Elaborar a conta de gerência da CEE;
 
 b) Promover o processamento e contabilização das despesas da CEE.
 
-###### Art. 21.º A CEE pode promover directamente a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe estejam afectas.
+Art. 21.º A CEE pode promover directamente a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe estejam afectas.
 
-###### Art. 22.º Serão submetidos a despacho ministerial, para efeitos de homologação, relatórios trimestrais das deliberações da CEE sobre a aplicação das verbas orçamentais.
+Art. 22.º Serão submetidos a despacho ministerial, para efeitos de homologação, relatórios trimestrais das deliberações da CEE sobre a aplicação das verbas orçamentais.
 
-###### Art. 23.º - 1 - O numerário da CEE será depositado na Caixa Geral de Depósitos e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do Conselho Administrativo, ou do seu substituto legal, e de um vogal do mesmo Conselho.
+Art. 23.º - 1 - O numerário da CEE será depositado na Caixa Geral de Depósitos e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do Conselho Administrativo, ou do seu substituto legal, e de um vogal do mesmo Conselho.
 
 2 - O Conselho Administrativo poderá manter em cofre um fundo de maneio para satisfação de despesas correntes, de quantitativo a fixar por despacho ministerial.
 
-###### Art. 24.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo, ou pelo seu substituto legal, e por um vogal do mesmo Conselho.
+Art. 24.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo, ou pelo seu substituto legal, e por um vogal do mesmo Conselho.
 
 III
 
 Do pessoal
 
-###### Art. 25.º - 1 - A DGEE tem o pessoal dirigente e técnico constante do mapa I, anexo a este diploma, o qual ficará a fazer parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, operando-se neste os necessários ajustamentos.
+Art. 25.º - 1 - A DGEE tem o pessoal dirigente e técnico constante do mapa I, anexo a este diploma, o qual ficará a fazer parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, operando-se neste os necessários ajustamentos.
 
 2 - A DGEE disporá do pessoal constante do mapa II, anexo a este diploma, o qual ficará a fazer parte do quadro único do Ministério da Educação e Cultura a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, operando-se neste os necessários ajustamentos.
 
 3 - Os quadros referidos nos números anteriores poderão ser alterados por portaria conjunta dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura.
 
-###### Art. 26.º As formas de recrutamento e os regimes de provimento do pessoal da DGEE são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 26.º As formas de recrutamento e os regimes de provimento do pessoal da DGEE são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral será provido por escolha do Primeiro-Ministro e do Ministro da Educação e Cultura, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior adequado e de reconhecida competência;
 
@@ -360,48 +416,48 @@ IV
 
 Disposições gerais e transitórias
 
-###### Art. 27.º A identificação de cada uma das divisões da Direcção-Geral do Equipamento Escolar bem como a atribuição específica das funções que a cada uma competem serão determinadas por portaria conjunta dos Ministros da Reforma Administrativa e da Educação e Cultura.
+Art. 27.º A identificação de cada uma das divisões da Direcção-Geral do Equipamento Escolar bem como a atribuição específica das funções que a cada uma competem serão determinadas por portaria conjunta dos Ministros da Reforma Administrativa e da Educação e Cultura.
 
-###### Art. 28.º O regulamento interno da Direcção-Geral do Equipamento Escolar será aprovado por portaria do Ministro da Educação e Cultura.
+Art. 28.º O regulamento interno da Direcção-Geral do Equipamento Escolar será aprovado por portaria do Ministro da Educação e Cultura.
 
-###### Art. 29.º - 1 - Serão transferidas para a DGEE, mediante despacho ministerial a exarar em propostas das direcções-gerais respectivas, as funções que, antes atribuídas a outros serviços centrais do MEC, passam pelo presente diploma a competir à Direcção-Geral do Equipamento Escolar.
+Art. 29.º - 1 - Serão transferidas para a DGEE, mediante despacho ministerial a exarar em propostas das direcções-gerais respectivas, as funções que, antes atribuídas a outros serviços centrais do MEC, passam pelo presente diploma a competir à Direcção-Geral do Equipamento Escolar.
 
 2 - Quando forem efectuadas as transferências dessas funções, serão de igual modo transferidos os funcionários que as executem e ajustados os quadros das leis orgânicas envolvidas.
 
-###### Art. 30.º - 1 - O pessoal que actualmente presta serviço na DGEE a qualquer título poderá ser provido nos quadros anexos ao presente diploma através de lista nominativa aprovada pelo Ministro da Educação e Cultura e publicada no Diário da República.
+Art. 30.º - 1 - O pessoal que actualmente presta serviço na DGEE a qualquer título poderá ser provido nos quadros anexos ao presente diploma através de lista nominativa aprovada pelo Ministro da Educação e Cultura e publicada no Diário da República.
 
 2 - Os provimentos referidos no número anterior não dependem de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, observando-se, porém, nos mesmos provimentos, as regras estabelecidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, nomeadamente o que naquele diploma se dispõe sobre habilitações literárias, e ainda as fixadas no artigo 26.º deste diploma.
 
-###### Art. 31.º O pessoal que à data da entrada em vigor do presente diploma esteja provido, além dos quadros, na DGEE e não venha a constar da lista nominativa prevista no n.º 1 do artigo 30.º deste diploma poderá ser colocado, por despacho ministerial, em qualquer serviço do Ministério da Educação e Cultura ou nomeado para qualquer outro departamento do Estado mediante despacho conjunto do Ministro da Educação e Cultura e do Ministro de cuja pasta dependa o referido departamento.
+Art. 31.º O pessoal que à data da entrada em vigor do presente diploma esteja provido, além dos quadros, na DGEE e não venha a constar da lista nominativa prevista no n.º 1 do artigo 30.º deste diploma poderá ser colocado, por despacho ministerial, em qualquer serviço do Ministério da Educação e Cultura ou nomeado para qualquer outro departamento do Estado mediante despacho conjunto do Ministro da Educação e Cultura e do Ministro de cuja pasta dependa o referido departamento.
 
-###### Art. 32.º Os lugares que ficarem vagos após a publicação da lista referida no artigo 30.º irão sendo preenchidos de harmonia com as necessidades dos serviços.
+Art. 32.º Os lugares que ficarem vagos após a publicação da lista referida no artigo 30.º irão sendo preenchidos de harmonia com as necessidades dos serviços.
 
-###### Art. 33.º As disponibilidades apuradas nas verbas orçamentadas para o presente ano económico a favor da Comissão de Equipamento Escolar servirão de contrapartida às inscrições que se mostrarem necessárias no orçamento da Direcção-Geral do Equipamento Escolar.
+Art. 33.º As disponibilidades apuradas nas verbas orçamentadas para o presente ano económico a favor da Comissão de Equipamento Escolar servirão de contrapartida às inscrições que se mostrarem necessárias no orçamento da Direcção-Geral do Equipamento Escolar.
 
-###### Art. 34.º Os encargos com as remunerações certas e permanentes resultantes da execução do presente diploma serão suportados, no corrente ano, pelas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Cultura.
+Art. 34.º Os encargos com as remunerações certas e permanentes resultantes da execução do presente diploma serão suportados, no corrente ano, pelas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Cultura.
 
-###### Art. 35.º São revogados:
+Art. 35.º São revogados:
 
 a) O [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro, na parte ainda não revogada pelo [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro;
 
 b) O [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602), de 5 de Setembro, em tudo o que respeita à Direcção-Geral do Equipamento Escolar.
 
-###### Art. 36.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, conforme a sua natureza.
+Art. 36.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, conforme a sua natureza.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 26 de Setembro de 1978.**
+Promulgado em 26 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o n.º 1 do artigo 25.º do Decreto-Lei n.º 303/78, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/23500/21082113.pdf))](https://files.diariodarepublica.pt/1s/1978/10/23500/21082113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/23500/21082113.pdf)
 
 Mapa II a que se refere o n.º 2 do artigo 25.º do Decreto-Lei n.º 303/78, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/23500/21082113.pdf))](https://files.diariodarepublica.pt/1s/1978/10/23500/21082113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/23500/21082113.pdf)
 
-**O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.

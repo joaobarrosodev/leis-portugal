@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1970-147826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41cd3beb26b66a3afd0c777c21f46d7d2ce82a74f75c5ddff5b208cc5e1ec736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68e565891855411bfbad1ed05c33efe842f554827765fa1230d07455a9cf60dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimentos Fabris das Forças Armadas
+- Formas de Provimento
+- Ministério da Marinha
+- Ministério do Exército
+- Pessoal Assalariado
+- Pessoal Civil
+- Recrutamento de Pessoal
+- Secretaria de Estado da Aeronáutica
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:56Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +106,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, é aplicável a todo o pessoal civil das unidades, órgãos e estabelecimentos, incluindo os fabris, do Departamento da Defesa Nacional, dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica, com as adaptações constantes dos artigos seguintes:
+Artigo 1.º O [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, é aplicável a todo o pessoal civil das unidades, órgãos e estabelecimentos, incluindo os fabris, do Departamento da Defesa Nacional, dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica, com as adaptações constantes dos artigos seguintes:
 
-###### Art. 2.º - 1. A competência para a prática dos actos referidos no artigo 1.º e nas alíneas d) e e) do n.º 1 do artigo 3.º do Decreto-Lei n.º 49307 pertence ao titular do departamento respectivo ou à entidade em que este delegue.
+Art. 2.º - 1. A competência para a prática dos actos referidos no artigo 1.º e nas alíneas d) e e) do n.º 1 do artigo 3.º do Decreto-Lei n.º 49307 pertence ao titular do departamento respectivo ou à entidade em que este delegue.
 
 2. O assalariamento de pessoal eventual é da competência dos comandantes, directores ou chefes dos respectivos serviços, de acordo com as necessidades próprias das unidades, órgãos ou estabelecimentos, respectivamente, e as disponibilidades orçamentais.
 
-###### Art. 3.º O diploma de provimento é assinado pelo comandante, director ou chefe dos respectivos serviços.
+Art. 3.º O diploma de provimento é assinado pelo comandante, director ou chefe dos respectivos serviços.
 
-###### Art. 4.º Compete ao titular do Departamento, mediante proposta do comandante, director ou chefe dos respectivos serviços, definir, para cada espécie de concurso, os documentos não abrangidos pela dispensa prevista no artigo 9.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107).
+Art. 4.º Compete ao titular do Departamento, mediante proposta do comandante, director ou chefe dos respectivos serviços, definir, para cada espécie de concurso, os documentos não abrangidos pela dispensa prevista no artigo 9.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107).
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

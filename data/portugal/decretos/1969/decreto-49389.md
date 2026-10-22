@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49389-1969-216974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dbc6009918289c3c46de1e372c483a25538ce0e6be1f2405d75d6aaed9a50c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7639b80a5dccb0f6fef1f1f0f335d174458205f636083de0426497c62022352
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: pt:dre:684459:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:271982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525985:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:28Z'
   warnings: []
   errors: []
 ---
@@ -112,21 +120,21 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É prorrogado até 31 de Dezembro de 1974 o prazo de exclusivo de pesquisas estabelecido nos Decretos n.os 46017 e 46022, respectivamente de 10 e de 11 de Novembro de 1964.
+Artigo 1.º É prorrogado até 31 de Dezembro de 1974 o prazo de exclusivo de pesquisas estabelecido nos Decretos n.os 46017 e 46022, respectivamente de 10 e de 11 de Novembro de 1964.
 
-###### Art. 2.º A prorrogação referida no artigo anterior conformar-se-á com as disposições do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969 que define a natureza, competência e poderes da Junta de Energia Nuclear relativamente às províncias ultramarinas.
+Art. 2.º A prorrogação referida no artigo anterior conformar-se-á com as disposições do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969 que define a natureza, competência e poderes da Junta de Energia Nuclear relativamente às províncias ultramarinas.
 
-###### Art. 3.º Decorridos os três primeiros anos da prorrogação a que se refere o artigo 1.º, serão revistas as cláusulas contratuais ao abrigo das quais a Companhia Mineira do Lobito exerce a sua actividade, com a finalidade da sua uniformização e equiparação às dos demais contratos entre o Estado e sociedades mineiras vigentes no ultramar português e respeitantes a substâncias minerais de natureza comparável.
+Art. 3.º Decorridos os três primeiros anos da prorrogação a que se refere o artigo 1.º, serão revistas as cláusulas contratuais ao abrigo das quais a Companhia Mineira do Lobito exerce a sua actividade, com a finalidade da sua uniformização e equiparação às dos demais contratos entre o Estado e sociedades mineiras vigentes no ultramar português e respeitantes a substâncias minerais de natureza comparável.
 
-###### Art. 4.º - 1. O Ministro do Ultramar poderá, a todo o tempo, acrescentar às áreas que são objecto da prorrogação referida no artigo 1.º, durante a vigência da mesma, por portaria ministerial, outras áreas situadas na província de Angola, ao sul do paralelo 14º 00' 00" do hemisfério sul e a oeste do meridiano 14º 30' 00" este de Greenwich.
+Art. 4.º - 1. O Ministro do Ultramar poderá, a todo o tempo, acrescentar às áreas que são objecto da prorrogação referida no artigo 1.º, durante a vigência da mesma, por portaria ministerial, outras áreas situadas na província de Angola, ao sul do paralelo 14º 00' 00" do hemisfério sul e a oeste do meridiano 14º 30' 00" este de Greenwich.
 
 2. A portaria a que se refere o número anterior fixará também os prazos em que a pesquisa deve ser feita, os investimentos mínimos a efectivar e o mecanismo de libertação das áreas a pesquisar quanto a prazos, extensão e configuração das parcelas libertadas.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Novembro de 1969.**
+Promulgado em 4 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

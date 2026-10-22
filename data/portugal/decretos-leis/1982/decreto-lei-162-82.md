@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1982-392800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 822a2e9ee0c81798f01d625673bcb5eac069826e32100bd5d5d8a998c626b6d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70148bf53fd0eb7513b48ae668d37d7e703eb94e4a00e5b1e38bab8beac1db51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Ensino Superior
+- Estágio de Formação
+- Pessoal Docente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:30Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +98,18 @@ Considerando que é indispensável que esse pessoal, depois de preparado, dê co
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal docente de todas as universidades e institutos universitários que tenha efectuado estudos de pós-graduação e estágios na situação de bolseiro é obrigado a prestar à universidade ou ao instituto universitário a que pertencia no momento em que se deslocou tempo de serviço igual àquele durante o qual permaneceu fora da referida instituição universitária, com a manutenção de todos os direitos e regalias inerentes à sua categoria, sob pena de ter de repor todas as verbas despendidas e os vencimentos correspondentes ao período em que esteve ausente.
+Artigo 1.º - 1 - O pessoal docente de todas as universidades e institutos universitários que tenha efectuado estudos de pós-graduação e estágios na situação de bolseiro é obrigado a prestar à universidade ou ao instituto universitário a que pertencia no momento em que se deslocou tempo de serviço igual àquele durante o qual permaneceu fora da referida instituição universitária, com a manutenção de todos os direitos e regalias inerentes à sua categoria, sob pena de ter de repor todas as verbas despendidas e os vencimentos correspondentes ao período em que esteve ausente.
 
 2 - O docente vinculado às obrigações estipuladas no número anterior poderá, contudo, transferir-se para outro ou idêntico lugar noutra instituição universitária portuguesa por acordo dos 2 reitores, após parecer favorável dos conselhos científicos das respectivas escolas ou órgãos equivalentes.
 
 3 - Se o período a que respeitar a obrigação de prestar serviço terminar antes de 31 de Outubro, considera-se sempre prorrogado até esta data, de modo que o docente possa assegurar até ao fim o serviço do apuramento final das disciplinas respectivas.
 
-###### Art. 2.º O presente diploma aplica-se a todas as concessões de novas bolsas e a todas as prorrogações que se verifiquem após a sua entrada em vigor.
+Art. 2.º O presente diploma aplica-se a todas as concessões de novas bolsas e a todas as prorrogações que se verifiquem após a sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Abril de 1982.**
+Promulgado em 26 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

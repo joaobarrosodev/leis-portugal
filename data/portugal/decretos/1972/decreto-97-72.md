@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/97-1972-396744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f0f125d3fad0d09b12c250c1aed811b3b1d878f940b06fafa5c0ad4f90ec3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 927dcc1029c8a1a86380364d9242156894ff59a937b0d7bc324f879d7bab9c9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:20Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +90,18 @@ Posteriormente, verificou-se que alguns terrenos indicados como municipais eram 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O perímetro florestal de S. Miguel e S. Lourenço, a que se referem os artigos 1.os dos decretos publicados no Diário do Governo, 2.ª série, n.º 285, de 8 de Dezembro de 1941, 1.ª série, n.º 29, de 7 de Fevereiro de 1955, e 2.ª série, n.º 9, de 11 de Janeiro de 1961, é constituído pelos seguintes terrenos baldios, que continuam sujeitos ao regime florestal parcial:
+Artigo 1.º O perímetro florestal de S. Miguel e S. Lourenço, a que se referem os artigos 1.os dos decretos publicados no Diário do Governo, 2.ª série, n.º 285, de 8 de Dezembro de 1941, 1.ª série, n.º 29, de 7 de Fevereiro de 1955, e 2.ª série, n.º 9, de 11 de Janeiro de 1961, é constituído pelos seguintes terrenos baldios, que continuam sujeitos ao regime florestal parcial:
 
 a) Baldios municipais da Câmara Municipal de Vila Nova de Paiva;
 
 b) Baldios paroquiais das Juntas de Freguesia de Cepões e Cota, do concelho de Viseu; de Moledo e Mões, do concelho de Castro Daire, e de Queiriga, do concelho de Vila Nova de Paiva.
 
-###### Art. 2.º Passam a fazer parte deste perímetro florestal os terrenos baldios paroquiais da freguesia de Barreiros, concelho de Viseu, que, por lapso, foram incluídos no perímetro florestal de S. Salvador, por decreto publicado no Diário do Governo, 2.ª série, n.º 64, de 16 de Maio de 1962.
+Art. 2.º Passam a fazer parte deste perímetro florestal os terrenos baldios paroquiais da freguesia de Barreiros, concelho de Viseu, que, por lapso, foram incluídos no perímetro florestal de S. Salvador, por decreto publicado no Diário do Governo, 2.ª série, n.º 64, de 16 de Maio de 1962.
 
 Marcello Caetano - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 8 de Março de 1972.**
+Promulgado em 8 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

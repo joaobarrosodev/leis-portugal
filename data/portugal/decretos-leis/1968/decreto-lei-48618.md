@@ -49,40 +49,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48618-1968-264349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 419dadf70b127e1196c680d5281f35faf01f6e7bd87be8cbdaaa1ae13079d88a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a5c46370befd6c56071f00960987c7c0e10d57d39fbeab4bff0e33e62f14227
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Nacional
+- Câmara Corporativa
+- Criação de Lugares
+- Criação de Serviços
+- Definição de Competências
+- Procurador da República
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:635636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635636:por
+  label: "Dada nova redacção ao nº 1 do art. 4º pelo DEC LEI.338/71.09.08.1971.PC, DG.IS [186] de 09.08.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1971-635636
+  date: '1971-08-09'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:46Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +110,17 @@ Há muito é reconhecida em todos os países a necessidade de um órgão consult
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Haverá na Câmara Corporativa uma secção permanente composta pelo Presidente da Câmara e por oito Procuradores designados por este de entre os membros da secção de Interesses de ordem administrativa.
+Artigo 1.º - 1. Haverá na Câmara Corporativa uma secção permanente composta pelo Presidente da Câmara e por oito Procuradores designados por este de entre os membros da secção de Interesses de ordem administrativa.
 
 2. Compete à secção permanente emitir parecer no prazo de 30 dias, ou no que for fixado pelo Governo em caso de urgência, sobre os projectos de diploma que sejam submetidos à Câmara nos termos do artigo 105.º da Constituição.
 
 3. O Presidente da Câmara, ouvido o Conselho da presidência, poderá agregar à secção permanente, para efeito de dar parecer sobre determinado projecto, até oito Procuradores escolhidos em quaisquer secções pela sua competência na matéria a estudar.
 
-###### Art. 2.º A Câmara emitirá parecer, na forma estabelecida pelo seu Regimento, quando, mesmo no intervalo das sessões legislativas, seja consultada pelo Governo sobre projectos de propostas de lei a apresentar à Assembleia Nacional ou sobre planos de fomento ou de administração.
+Art. 2.º A Câmara emitirá parecer, na forma estabelecida pelo seu Regimento, quando, mesmo no intervalo das sessões legislativas, seja consultada pelo Governo sobre projectos de propostas de lei a apresentar à Assembleia Nacional ou sobre planos de fomento ou de administração.
 
-###### Art. 3.º O Conselho da Presidência da Câmara Corporativa é composto pelos antigos Presidentes da Câmara que sejam Procuradores, pelos Vice-Presidentes da Mesa, pelos presidentes das corporações e por quatro Procuradores escolhidos pelo Presidente de entre antigos membros do Governo.
+Art. 3.º O Conselho da Presidência da Câmara Corporativa é composto pelos antigos Presidentes da Câmara que sejam Procuradores, pelos Vice-Presidentes da Mesa, pelos presidentes das corporações e por quatro Procuradores escolhidos pelo Presidente de entre antigos membros do Governo.
 
-###### Art. 4.º - 1. São criados no quadro da Secretaria-Geral da Assembleia Nacional três lugares de auditor e três de técnico de 1.ª classe, para prestarem serviço na Câmara Corporativa, nomeados pelo Presidente do Conselho, sob proposta do Presidente da Câmara, de entre licenciados em Direito ou em Economia.
+Art. 4.º - 1. São criados no quadro da Secretaria-Geral da Assembleia Nacional três lugares de auditor e três de técnico de 1.ª classe, para prestarem serviço na Câmara Corporativa, nomeados pelo Presidente do Conselho, sob proposta do Presidente da Câmara, de entre licenciados em Direito ou em Economia.
 
 2. Os auditores e técnicos coadjuvarão os relatores dos pareceres em tudo o que por estes lhes seja incumbido.
 
@@ -111,6 +128,6 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os lugares de auditor a que se refere o n.º 1 terão a categoria correspondente à letra E do quadro do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17100/17261727.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1979-381325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65dabc79e4c79812d46501ca9342ad03a426f2cda17d7c9e8324acdeacdabc5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a45670a8967ba51fa563054b14d848d26adc5019a31c1ccc6e3255699837126b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto sobre Veículos
+- Regulamento do Imposto sobre Veículos
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:370785:por
+  label: Rectificado pela DECL.DD7190.04.09.1979.PCM, DR.IS [204] de 04.09.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-370785
+  date: '1979-09-04'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:36Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +117,9 @@ Nesta conformidade:
 
 O Governo decreta, nos termos da alínea c) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 10.º, 12.º, 13.º, 17.º, 29.º, 36.º 37.º do regulamento aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 10.º, 12.º, 13.º, 17.º, 29.º, 36.º 37.º do regulamento aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 10.º - 1 - Os dísticos modelo n.º 4, comprovativos do pagamento do imposto relativo a automóveis e motociclos, serão adquiridos em qualquer das tesourarias da Fazenda Pública da área do concelho da residência ou sede do contribuinte.
+Art. 10.º - 1 - Os dísticos modelo n.º 4, comprovativos do pagamento do imposto relativo a automóveis e motociclos, serão adquiridos em qualquer das tesourarias da Fazenda Pública da área do concelho da residência ou sede do contribuinte.
 
 2 - ...
 
@@ -106,21 +127,21 @@ O Governo decreta, nos termos da alínea c) do artigo 201.º da Constituição, 
 
 4 - A prova da residência ou sede do contribuinte é feita através da exibição do título de registo de propriedade do veículo.
 
-###### Art. 12.º - 1 - O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral e dentro dos limites da respectiva competência, por todas as autoridades, e em especial pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação, dos Recursos e Aproveitamentos Hidráulicos e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das câmaras municipais, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.
+Art. 12.º - 1 - O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral e dentro dos limites da respectiva competência, por todas as autoridades, e em especial pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação, dos Recursos e Aproveitamentos Hidráulicos e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das câmaras municipais, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.
 
 2 - ...
 
 3 - Os funcionários que no exercício ou por causa do exercício das suas funções verificarem transgressões ao presente diploma e não forem competentes para levantar autos de notícia e, bem assim, quaisquer outras pessoas que delas tenham conhecimento deverão participá-las ou denunciá-las, nos termos dos artigos 110.º ou 111.º do Código de Processo das Contribuições e Impostos, à repartição de finanças da área da residência ou sede do infractor.
 
-###### Art. 13.º - 1 - Os proprietárias de automóveis e motociclos sujeitos a imposto, embora dele isentos, com exclusão dos referidos no n.º 4 do artigo 7.º, apresentarão na repartição de finanças referida no artigo 10.º, dentro dos prazos previstos no artigo 9.º, declaração modelo n.º 11 para efeitos de registo dos dísticos modelos n.os 2 e 4, os quais, depois de preenchidos pelos interessados, serão exibidos conjuntamente com a declaração, a fim de esta ser averbada e autenticada, devolvendo-se o duplicado ao apresentante.
+Art. 13.º - 1 - Os proprietárias de automóveis e motociclos sujeitos a imposto, embora dele isentos, com exclusão dos referidos no n.º 4 do artigo 7.º, apresentarão na repartição de finanças referida no artigo 10.º, dentro dos prazos previstos no artigo 9.º, declaração modelo n.º 11 para efeitos de registo dos dísticos modelos n.os 2 e 4, os quais, depois de preenchidos pelos interessados, serão exibidos conjuntamente com a declaração, a fim de esta ser averbada e autenticada, devolvendo-se o duplicado ao apresentante.
 
 2 - ...
 
-###### Art. 17.º - 1 - As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 17.º - 1 - As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
 2 - As multas impostas nos termos deste Regulamento revertem para o Estado, sem prejuízo do disposto no artigo 31.º
 
-###### Art. 29.º - 1 ...
+Art. 29.º - 1 ...
 
 2 - O auto de notícia, bem como o duplicado do recibo provisório e a respectiva importância, serão enviados pelo autuante, no prazo de três dias, à repartição de finanças da área da residência ou sede do infractor, para efeitos de instrução do competente processo de transgressão; se, porém, se mostrar mais conveniente, poderá o autuante fazer a apresentação, no mesmo prazo, na repartição de finanças da área do posto ou serviço a que pertença ou noutra que lhe for mais acessível, a qual remeterá de imediato à repartição de finanças da área da residência ou sede do infractor a documentação apresentada, bem como o cheque para o pagamento.
 
@@ -140,18 +161,18 @@ b) Tratando-se de aeronaves e barcos de recreio - através da guia modelo n.º 5
 
 8 - ...
 
-###### Art. 36.º - Será cobrada, a título de reembolso do custo do papel e impressão dos títulos modelo n.º 1, dos dísticos modelos n.os 2 e 7 e das declarações modelo n.º 11, a importância que vier a ser fixada por portaria do Secretário de Estado do Orçamento, a qual constituirá receita do Estado.
+Art. 36.º - Será cobrada, a título de reembolso do custo do papel e impressão dos títulos modelo n.º 1, dos dísticos modelos n.os 2 e 7 e das declarações modelo n.º 11, a importância que vier a ser fixada por portaria do Secretário de Estado do Orçamento, a qual constituirá receita do Estado.
 
-###### Art. 37.º - Os títulos modelo n.º 1, os dísticos modelos n.os 2, 4 e 7 e as declarações modelo n.º 11 serão fornecidos às tesourarias da Fazenda Pública nos mesmos termos em que o são os valores selados e impressos de modelo exclusivo da Imprensa Nacional-Casa da Moeda.
+Art. 37.º - Os títulos modelo n.º 1, os dísticos modelos n.os 2, 4 e 7 e as declarações modelo n.º 11 serão fornecidos às tesourarias da Fazenda Pública nos mesmos termos em que o são os valores selados e impressos de modelo exclusivo da Imprensa Nacional-Casa da Moeda.
 
-###### Art. 2.º - 1 - Cada município pagará ao Tesouro, como compensação dos encargos de cobrança do imposto sobre veículos, mediante dedução na respectiva ordem de entrega de receita, 5% das quantias entregues.
+Art. 2.º - 1 - Cada município pagará ao Tesouro, como compensação dos encargos de cobrança do imposto sobre veículos, mediante dedução na respectiva ordem de entrega de receita, 5% das quantias entregues.
 
 2 - Esta percentagem poderá ser revista quando se mostrar necessário.
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 8 de Julho de 1979.**
+Promulgado em 8 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

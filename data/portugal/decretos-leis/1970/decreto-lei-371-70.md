@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/08/18500/10321036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1970-139242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e07fe13dc2da8075e2f8e4bf88eb5c621e884f93ea9ed58d67bcd383acabf36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bef41b1233e8228322e1344c438d65724b6d7b888a6ef9147a276e96d010f42b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colégio Militar
+- Estabelecimento de Ensino
+- Estudante
+- Exército
+- Forças Armadas
+- Instituto de Odivelas
+- Instituto Técnico Militar dos Pupilos do Exército
+- Militar
+- Política de Educação
 relationships:
 - type: amended_by
   target: pt:dre:255395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:649915:por
+  label: "Alterados os arts. 3º, 14º, 28º e 31º pelo DEC LEI.213-B/75.22.04.1975.CR, DG.IS [94-2SUPL] de 22.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-b-1975-649915
+  date: '1975-04-22'
+- type: cites
+  target: pt:dre:164445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:255395:por
+  label: "Revogado pelo DEC LEI.326/77.10.08.1977.CR, DR.IS [184] de 10.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-1977-255395
+  date: '1977-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:36Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +127,15 @@ Considerando ainda que se torna necessário proceder a um ajustamento das normas
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As condições de admissão, distribuição de vagas, ordenação e classificação final dos candidatos, bem como a definição dos grupos de mensalidades, a classificação dos alunos de acordo com esses grupos e a forma como devem ser satisfeitas as mensalidades relativamente ao Colégio Militar, Instituto de Odivelas e Instituto Técnico Militar dos Pupilos do Exército, passam a reger-se pelas disposições do presente diploma.
+Artigo 1.º As condições de admissão, distribuição de vagas, ordenação e classificação final dos candidatos, bem como a definição dos grupos de mensalidades, a classificação dos alunos de acordo com esses grupos e a forma como devem ser satisfeitas as mensalidades relativamente ao Colégio Militar, Instituto de Odivelas e Instituto Técnico Militar dos Pupilos do Exército, passam a reger-se pelas disposições do presente diploma.
 
 ### CAPÍTULO I — Condições de admissão
 
-###### Art. 2.º - 1. A admissão dos alunos faz-se para o 1.º ou 2.º ano do ciclo preparatório do ensino secundário.
+Art. 2.º - 1. A admissão dos alunos faz-se para o 1.º ou 2.º ano do ciclo preparatório do ensino secundário.
 
 2. Pode excepcionalmente, mediante despacho ministerial, ser autorizada a admissão para o 1.º ano de qualquer dos ramos professados do ensino secundário a filhos de militares dos quadros permanentes das forças armadas e aos filhos de indivíduos falecidos, mutilados, estropiados ou por qualquer forma incapacitados em campanha ou na manutenção da ordem pública.
 
-###### Art. 3.º São condições gerais de admissão:
+Art. 3.º São condições gerais de admissão:
 
 a) Ser português e filho legítimo de pais portugueses;
 
@@ -112,13 +143,13 @@ b) Possuir as condições físicas indispensáveis ao regime próprio do estabel
 
 c) Revelar possuir, em exame psicotécnico, a capacidade indispensável à frequência de, pelo menos, um dos cursos do plano de estudos do estabelecimento a que se destina.
 
-###### Art. 4.º São condições especiais de admissão ao 1.º ano do ciclo preparatório do ensino secundário:
+Art. 4.º São condições especiais de admissão ao 1.º ano do ciclo preparatório do ensino secundário:
 
 a) Ter menos de 12 anos de idade até ao final do ano civil em que tem lugar o concurso;
 
 b) Ter sido aprovado no exame do ciclo elementar do ensino primário.
 
-###### Art. 5.º São condições especiais de admissão no 2.º ano do ciclo preparatório do ensino secundário:
+Art. 5.º São condições especiais de admissão no 2.º ano do ciclo preparatório do ensino secundário:
 
 a) Ter menos de 13 anos de idade até ao final do ano civil em que tem lugar o concurso;
 
@@ -126,13 +157,13 @@ b) Ter sido aprovado na frequência do 1.º ano do ciclo preparatório do ensino
 
 c) Obter aprovação no exame de transição para o 2.º ano do ciclo preparatório do ensino secundário, a efectuar no estabelecimento de ensino a que concorrer, quando se trate de candidatos provenientes do ensino particular.
 
-###### Art. 6.º São condições especiais de admissão ao 1.º ano de qualquer ramo do ensino secundário professados nos estabelecimentos:
+Art. 6.º São condições especiais de admissão ao 1.º ano de qualquer ramo do ensino secundário professados nos estabelecimentos:
 
 a) Ter menos de 14 anos de idade até ao final do ano civil em que tem lugar o concurso;
 
 b) Ter sido aprovado no exame de aptidão ao ramo do ensino secundário por que haja optado ou, enquanto este não se realizar, no exame de fim do ciclo preparatório do ensino secundário.
 
-###### Art. 7.º - 1. A inspecção médica, a que se refere a alínea b) do artigo 3.º, é realizada nos estabelecimentos de ensino a que os candidatos concorrem por uma junta de inspecção constituída por dois médicos do respectivo estabelecimento e um elemento da direcção, que presidirá.
+Art. 7.º - 1. A inspecção médica, a que se refere a alínea b) do artigo 3.º, é realizada nos estabelecimentos de ensino a que os candidatos concorrem por uma junta de inspecção constituída por dois médicos do respectivo estabelecimento e um elemento da direcção, que presidirá.
 
 2. Da junta referida no número anterior poderá fazer parte um professor de Educação Física.
 
@@ -142,7 +173,7 @@ b) Ter sido aprovado no exame de aptidão ao ramo do ensino secundário por que 
 
 5. Os candidatos devem apresentar no acto da inspecção médica os documentos que para cada estabelecimento de ensino forem estabelecidos em normas próprias a elaborar, de acordo com o artigo 35.º deste decreto-lei.
 
-###### Art. 8.º - 1. A junta de inspecção julga da aptidão ou inaptidão dos candidatou para a frequência do estabelecimento respectivo, classificando-os nas categorias de «apto», «apto condicionalmente», «não apto temporàriamente» ou «não apto»:
+Art. 8.º - 1. A junta de inspecção julga da aptidão ou inaptidão dos candidatou para a frequência do estabelecimento respectivo, classificando-os nas categorias de «apto», «apto condicionalmente», «não apto temporàriamente» ou «não apto»:
 
 a) São considerados «aptos» os candidatos julgados em condições de poderem ser admitidos nesse ano lectivo;
 
@@ -154,7 +185,7 @@ d) São considerados «não aptos» os candidatos que não forem julgados em con
 
 2. Podem ser considerados «aptos» os candidatos sobre os quais a junta de inspecção se possa pronunciar definitivamente, apesar de virem a necessitar de ser submetidos a qualquer intervenção cirúrgica em data posterior ao início do ano lectivo, desde que o pai ou encarregado de educação tome, por escrito, o compromisso de autorizar essa intervenção cirúrgica na data em que o médico-chefe dos serviços de saúde do respectivo estabelecimento de ensino a venha a determinar.
 
-###### Art. 9.º - 1. Das decisões da junta de inspecção pode ser interposto recurso pelo pai ou encarregado de educação do candidato para o Ministro do Exército, que decidirá, em face do relatório a elaborar pela respectiva junta escolar, baseado em parecer da Direcção do Serviço de Saúde Militar, se o candidato deverá ou não ser presente a nova inspecção médica a efectuar por uma junta do Hospital Militar Principal.
+Art. 9.º - 1. Das decisões da junta de inspecção pode ser interposto recurso pelo pai ou encarregado de educação do candidato para o Ministro do Exército, que decidirá, em face do relatório a elaborar pela respectiva junta escolar, baseado em parecer da Direcção do Serviço de Saúde Militar, se o candidato deverá ou não ser presente a nova inspecção médica a efectuar por uma junta do Hospital Militar Principal.
 
 2. No caso de deferimento do recurso a que se refere o número anterior, o resultado da junta do Hospital Militar Principal substituirá o anterior, para todos os efeitos legais.
 
@@ -162,21 +193,21 @@ d) São considerados «não aptos» os candidatos que não forem julgados em con
 
 4. Da decisão da junta do Hospital Militar Principal, depois de homologada pelo Ministro do Exército, não há recurso.
 
-###### Art. 10.º Os candidatos julgados «não aptos» pelas juntas de inspecção não poderão voltar a concorrer a qualquer estabelecimento de ensino abrangido por este diploma.
+Art. 10.º Os candidatos julgados «não aptos» pelas juntas de inspecção não poderão voltar a concorrer a qualquer estabelecimento de ensino abrangido por este diploma.
 
-###### Art. 11.º - 1. Os exames psicotécnicos, a que se refere a alínea c) do artigo 3.º, são realizados pelo Centro de Estudos Psicotécnicos do Exército nos estabelecimentos de ensino a que os candidatos concorrem.
+Art. 11.º - 1. Os exames psicotécnicos, a que se refere a alínea c) do artigo 3.º, são realizados pelo Centro de Estudos Psicotécnicos do Exército nos estabelecimentos de ensino a que os candidatos concorrem.
 
 2. Os candidatos residentes nas ilhas adjacentes e nas províncias ultramarinas serão submetidos localmente a provas psicotécnicas elaboradas e controladas pelo Centro de Estudos Psicotécnicos do Exército, por intermédio das suas delegações, sendo, no entanto, a classificação feita na sede do Centro de Estudos Psicotécnicos.
 
 3. São submetidos a este exame os candidatos classificados «aptos» e os considerados «aptos condicionalmente» e ainda os «não aptos» e «não aptos temporàriamente», mediante solicitação dos pais ou encarregados de educação que declarem desejar recorrer da decisão das juntas de inspecção médica.
 
-###### Art. 12.º - 1. O exame psicotécnico ordena os candidatos de acordo com as classificações obtidas nas provas psicotécnicas, excluindo os que revelem não possuir as capacidades mínimas necessárias à frequência de qualquer dos cursos do plano de estudos do respectivo estabelecimento.
+Art. 12.º - 1. O exame psicotécnico ordena os candidatos de acordo com as classificações obtidas nas provas psicotécnicas, excluindo os que revelem não possuir as capacidades mínimas necessárias à frequência de qualquer dos cursos do plano de estudos do respectivo estabelecimento.
 
 2. Sempre que o Centro de Estudos Psicotécnicos do Exército verificar a existência de anomalias nas provas psicotécnicas dos candidatos, que justifiquem um exame individual mais completo, informará os respectivos estabelecimentos, a fim de que os pais ou encarregados de educação possam solicitar, no prazo de cinco dias, que os candidatos sejam submetidos a provas especiais.
 
 ### CAPÍTULO II — Distribuição de vagas
 
-###### Art. 13.º - 1. Com base em informação dos estabelecimentos de ensino e mediante propostas do Estado-Maior do Exército, o Ministro do Exército fixará anualmente, por despacho, o número de vagas a atribuir em cada um deles para filhos de militares dos quadros permanentes das forças armadas e para civis, sendo aquelas divididas por filhos de oficiais, sargentos e praças quando o estabelecimento o admita.
+Art. 13.º - 1. Com base em informação dos estabelecimentos de ensino e mediante propostas do Estado-Maior do Exército, o Ministro do Exército fixará anualmente, por despacho, o número de vagas a atribuir em cada um deles para filhos de militares dos quadros permanentes das forças armadas e para civis, sendo aquelas divididas por filhos de oficiais, sargentos e praças quando o estabelecimento o admita.
 
 2. As vagas destinadas a filhos de militares dos quadros permanentes das forças armadas, que não forem preenchidas, reverterão a favor de filhos de civis.
 
@@ -188,7 +219,7 @@ d) São considerados «não aptos» os candidatos que não forem julgados em con
 
 6. Pode o Ministro do Exército, ouvido o director do estabelecimento de ensino respectivo, mandar admitir excepcionalmente, para além das vagas estabelecidas, até um limite que não represente grave prejuízo para os serviços escolares e de internato, candidatos - filhos de militares dos quadros permanentes das forças armadas - que, satisfazendo às condições gerais e especiais de admissão, não tenham obtido vaga.
 
-###### Art. 14.º Para efeitos de admissão, são equiparados a filhos de militares dos quadros permanentes, de acordo com as suas categorias hierárquicas:
+Art. 14.º Para efeitos de admissão, são equiparados a filhos de militares dos quadros permanentes, de acordo com as suas categorias hierárquicas:
 
 a) Os órfãos de pai, filhos legítimos de militares dos quadros permanentes das forças armadas, ainda que a mãe tenha posteriormente casado com indivíduo civil;
 
@@ -196,7 +227,7 @@ b) Os órfãos de pais, filhos legítimos de civil, cuja mãe tenha posteriormen
 
 ### CAPÍTULO III — Ordenação e classificação final dos candidatos
 
-###### Art. 15.º As prioridades a considerar para preenchimento das vagas estabelecidas por despacho ministerial são as seguintes:
+Art. 15.º As prioridades a considerar para preenchimento das vagas estabelecidas por despacho ministerial são as seguintes:
 
 a) Candidatos, filhos de militares dos quadros permanentes das forças armadas:
 
@@ -242,15 +273,15 @@ b) Candidatos filhos de civis:
 
 c) Os filhos dos militares na situação de reforma compulsiva, de reserva nos termos do n.º 3.º da alínea a) do artigo 46.º do [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965 (E. O. F. A.), e na licença ilimitada, só poderão ser admitidos nas vagas que não tenham sido preenchidas pelos restantes candidatos filhos de militares.
 
-###### Art. 16.º Os candidatos julgados aptos na inspecção médica, nos termos do artigo 8.º, e que possuam as capacidades mínimas necessárias à frequência de, pelo menos, um dos cursos do plano de estudos do respectivo estabelecimento de ensino, avaliadas em exame psicotécnico, nos termos do artigo 12.º, são ordenados, de acordo com as prioridades estabelecidas no artigo 15.º, por um júri, constituído, em cada um dos estabelecimentos de ensino, pelo director, que presidirá, e dois vogais, a nomear anualmente por aquele.
+Art. 16.º Os candidatos julgados aptos na inspecção médica, nos termos do artigo 8.º, e que possuam as capacidades mínimas necessárias à frequência de, pelo menos, um dos cursos do plano de estudos do respectivo estabelecimento de ensino, avaliadas em exame psicotécnico, nos termos do artigo 12.º, são ordenados, de acordo com as prioridades estabelecidas no artigo 15.º, por um júri, constituído, em cada um dos estabelecimentos de ensino, pelo director, que presidirá, e dois vogais, a nomear anualmente por aquele.
 
-###### Art. 17.º - 1. Concluídos os trabalhos de ordenação, o júri referido no artigo anterior elaborará as relações dos candidatos a admitir e a excluir no respectivo estabelecimento de ensino, salientando os casos de excepção previstos neste diploma.
+Art. 17.º - 1. Concluídos os trabalhos de ordenação, o júri referido no artigo anterior elaborará as relações dos candidatos a admitir e a excluir no respectivo estabelecimento de ensino, salientando os casos de excepção previstos neste diploma.
 
 2. As relações, devidamente informadas, serão enviadas ao Estado-Maior do Exército para homologação pelo Ministro do Exército.
 
 ### CAPÍTULO IV — Mensalidades
 
-###### Art. 18.º Para efeito das mensalidades a estabelecer, os alunos são classificados nos seguintes grupos:
+Art. 18.º Para efeito das mensalidades a estabelecer, os alunos são classificados nos seguintes grupos:
 
 a) 1.º grupo: órfãos;
 
@@ -276,15 +307,15 @@ j) 10.º grupo: filhos de coronéis ou equivalentes;
 
 m) 12.º grupo: filhos de civis.
 
-###### Art. 19.º A importância a receber pelos estabelecimentos de ensino respeitante às mensalidades de cada aluno matriculado, que deverá ser paga pelos respectivos encarregados de educação e pelo Estado, ou somente por este, bem como as despesas a que se destinam as referidas mensalidades, serão fixadas anualmente por despacho ministerial, mediante proposta do Estado-Maior do Exército, ouvidos os estabelecimentos de ensino.
+Art. 19.º A importância a receber pelos estabelecimentos de ensino respeitante às mensalidades de cada aluno matriculado, que deverá ser paga pelos respectivos encarregados de educação e pelo Estado, ou somente por este, bem como as despesas a que se destinam as referidas mensalidades, serão fixadas anualmente por despacho ministerial, mediante proposta do Estado-Maior do Exército, ouvidos os estabelecimentos de ensino.
 
-###### Art. 20.º - 1. Durante os meses de Outubro a Junho as mensalidades serão sempre devidas por inteiro.
+Art. 20.º - 1. Durante os meses de Outubro a Junho as mensalidades serão sempre devidas por inteiro.
 
 2. Os alunos que deixem a situação de internos são dispensados do pagamento das mensalidades a partir do mês seguinte àquele em que se verificar a saída do estabelecimento de ensino.
 
-###### Art. 21.º Aos alunos que se mantiverem no estabelecimento de 1 de Julho a 30 de Setembro será debitada apenas a importância correspondente aos dias de permanência.
+Art. 21.º Aos alunos que se mantiverem no estabelecimento de 1 de Julho a 30 de Setembro será debitada apenas a importância correspondente aos dias de permanência.
 
-###### Art. 22.º - 1. O pagamento das mensalidades deverá fazer-se antecipadamente aos meses a que respeitam, em dias a fixar por cada um dos estabelecimentos de ensino, de acordo com as conveniências do serviço.
+Art. 22.º - 1. O pagamento das mensalidades deverá fazer-se antecipadamente aos meses a que respeitam, em dias a fixar por cada um dos estabelecimentos de ensino, de acordo com as conveniências do serviço.
 
 2. Quando o pagamento das mensalidades e outras despesas extraordinárias não for efectuado dentro dos prazos fixados por cada estabelecimento de ensino, deverão os responsáveis pelo pagamento ser avisados através dos respectivos conselhos administrativos de que os seus educandos serão abatidos ao efectivo se não efectuarem os pagamentos dentro do prazo que lhes será designado, podendo os directores dos respectivos estabelecimentos suspender os alunos das actividades escolares e determinar que sejam entregues aos seus familiares.
 
@@ -292,17 +323,17 @@ m) 12.º grupo: filhos de civis.
 
 4. O abate ao efectivo do respectivo estabelecimento, nos termos dos números anteriores, não isenta o responsável pelo pagamento da satisfação do seu débito, promovendo-se a cobrança coerciva.
 
-###### Art. 23.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por oito ou mais pessoas serão equiparados aos do 1.º grupo, para efeitos de mensalidades.
+Art. 23.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por oito ou mais pessoas serão equiparados aos do 1.º grupo, para efeitos de mensalidades.
 
-###### Art. 24.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por sete pessoas são considerados, para efeito de mensalidades, três grupos imediatamente abaixo do que lhes corresponde nos termos do artigo 18.º
+Art. 24.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por sete pessoas são considerados, para efeito de mensalidades, três grupos imediatamente abaixo do que lhes corresponde nos termos do artigo 18.º
 
-###### Art. 25.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por seis pessoas são considerados, para efeito de mensalidades, dois grupos imediatamente abaixo do que lhes corresponde nos termos do artigo 18.º
+Art. 25.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por seis pessoas são considerados, para efeito de mensalidades, dois grupos imediatamente abaixo do que lhes corresponde nos termos do artigo 18.º
 
-###### Art. 26.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por cinco pessoas são considerados, para efeito de mensalidades, no grupo imediatamente inferior ao que lhes corresponde nos termos do artigo 18.º
+Art. 26.º Os filhos dos militares dos quadros permanentes cujo agregado familiar seja constituído por cinco pessoas são considerados, para efeito de mensalidades, no grupo imediatamente inferior ao que lhes corresponde nos termos do artigo 18.º
 
-###### Art. 27.º Os filhos de militares dos quadros permanentes cujos vencimentos sejam inferiores aos do respectivo posto na actividade de serviço serão classificados no grupo correspondente ao vencimento percebido.
+Art. 27.º Os filhos de militares dos quadros permanentes cujos vencimentos sejam inferiores aos do respectivo posto na actividade de serviço serão classificados no grupo correspondente ao vencimento percebido.
 
-###### Art. 28.º - 1. Os órfãos com rendimentos próprios e os filhos de militares, ainda que abrangidos pelo disposto nos artigos 23.º, 24.º, 25.º, 26.º e 27 º, quando o seu agregado familiar possua outros proventos, além dos vencimentos normais do militar, são classificados pelos grupos de mensalidades, de acordo com os seus rendimentos ou situação, traduzidos em capitações.
+Art. 28.º - 1. Os órfãos com rendimentos próprios e os filhos de militares, ainda que abrangidos pelo disposto nos artigos 23.º, 24.º, 25.º, 26.º e 27 º, quando o seu agregado familiar possua outros proventos, além dos vencimentos normais do militar, são classificados pelos grupos de mensalidades, de acordo com os seus rendimentos ou situação, traduzidos em capitações.
 
 2. Os proventos além dos vencimentos normais do militar, mencionados no número anterior, não incluem remunerações resultantes de serviços militares.
 
@@ -310,23 +341,23 @@ m) 12.º grupo: filhos de civis.
 
 4. Nos casos em que os rendimentos totais do agregado familiar a que o aluno pertença, ou próprios do aluno, não corresponderem exactamente aos rendimentos mínimos dos vários grupos de mensalidades, a classificação dos alunos nos grupos referidos no artigo 18.º será feita sempre pelo grupo inferior.
 
-###### Art. 29.º - 1. O cálculo dos rendimentos dos agregados familiares ou dos órfãos deve ser determinado com base em elementos comprovativos, concretos e precisos.
+Art. 29.º - 1. O cálculo dos rendimentos dos agregados familiares ou dos órfãos deve ser determinado com base em elementos comprovativos, concretos e precisos.
 
 2. Para efeito do número anterior, deverão os militares ou órfãos juntarem aos documentos de concurso certificados de imposto complementar, imposto profissional, contribuição predial, seus e dos restantes membros do agregado familiar ou outros documentos que lhes sejam solicitados pelos estabelecimentos de ensino para efeitos de prova, mesmo negativa, dos rendimentos usufruídos.
 
-###### Art. 30.º A classificação dos alunos será revista anualmente, ou logo que se produzam quaisquer modificações na situação económica do agregado familiar a que pertencem, ou própria, sendo os alunos reclassificados, se for caso disso, com início no mês seguinte àquele em que se verificarem as modificações e de acordo com estas.
+Art. 30.º A classificação dos alunos será revista anualmente, ou logo que se produzam quaisquer modificações na situação económica do agregado familiar a que pertencem, ou própria, sendo os alunos reclassificados, se for caso disso, com início no mês seguinte àquele em que se verificarem as modificações e de acordo com estas.
 
-###### Art. 31.º - 1. Para efeitos de classificação nos grupos do mensalidades são equiparados a filhos de oficiais dos quadros permanentes, de acordo com os proventos do agregado familiar, os filhos legítimos de professores civis efectivos dos três estabelecimentos de ensino.
+Art. 31.º - 1. Para efeitos de classificação nos grupos do mensalidades são equiparados a filhos de oficiais dos quadros permanentes, de acordo com os proventos do agregado familiar, os filhos legítimos de professores civis efectivos dos três estabelecimentos de ensino.
 
 2. Os alunos nas condições do número anterior passam a ser considerados como filhos de civis, para efeitos de mensalidades, desde que os pais cessem as funções que lhes conferiam os direitos mencionados, excepto se o cessamento das funções for motivado por falecimento ou incapacidade adquirida ao serviço do estabelecimento, caso em que serão reclassificados de acordo com os novos proventos do agregado familiar.
 
-###### Art. 32.º Os filhos de civis, cujo pai esteja nas condições da 1.ª prioridade da alínea b) do artigo 15.º, beneficiam do disposto no [Decreto-Lei n.º 44356](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44356-1962-164445), de 21 de Maio de 1962.
+Art. 32.º Os filhos de civis, cujo pai esteja nas condições da 1.ª prioridade da alínea b) do artigo 15.º, beneficiam do disposto no [Decreto-Lei n.º 44356](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44356-1962-164445), de 21 de Maio de 1962.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 33.º Para efeitos de aplicação deste diploma, consideram-se militares dos quadros permanentes das forças armadas os oficiais dos quadros permanentes em qualquer situação, excepto os separados do serviço, os sargentos dos quadros permanentes, excepto na situação de disponibilidade, e as praças dos quadros permanentes ou readmitidas.
+Art. 33.º Para efeitos de aplicação deste diploma, consideram-se militares dos quadros permanentes das forças armadas os oficiais dos quadros permanentes em qualquer situação, excepto os separados do serviço, os sargentos dos quadros permanentes, excepto na situação de disponibilidade, e as praças dos quadros permanentes ou readmitidas.
 
-###### Art. 34.º Para efeito de aplicação deste diploma consideram-se como componentes do agregado familiar do militar:
+Art. 34.º Para efeito de aplicação deste diploma consideram-se como componentes do agregado familiar do militar:
 
 a) O cônjuge;
 
@@ -334,14 +365,14 @@ b) Os filhos menores ou estudantes, com menos de 25 anos, e as filhas solteiras,
 
 c) Outras pessoas que, estando a cargo do militar, confiram direito a abono de família.
 
-###### Art. 35.º A execução do presente diploma será regulada por normas especiais para cada um dos estabelecimentos de ensino, que entrarão em vigor, depois de aprovadas pelo Ministro do Exército, ouvido o Estado-Maior do Exército.
+Art. 35.º A execução do presente diploma será regulada por normas especiais para cada um dos estabelecimentos de ensino, que entrarão em vigor, depois de aprovadas pelo Ministro do Exército, ouvido o Estado-Maior do Exército.
 
-###### Art. 36.º O presente diploma deverá ser revisto obrigatòriamente passados três anos após a data da sua publicação.
+Art. 36.º O presente diploma deverá ser revisto obrigatòriamente passados três anos após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 28 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 28 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Agosto de 1970. - MARCELLO CAETANO.

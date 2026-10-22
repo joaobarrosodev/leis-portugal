@@ -48,40 +48,139 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd3c1c639a07bb70e6a2c71a024e7918561a53a241fba1557b9f2dd04ac28f25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9e02c134c7a2f9fefeaee14b7752823bccc8381980e537b51e7ecd37d839c35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheias
+- Domínio Público Hídrico
+- Gestão dos Recursos
+- Recursos Hídricos
+- Regime Jurídico
+- ZONA Adjacente
 relationships:
 - type: amended_by
   target: pt:dre:1511695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 20 PELO DECRETO LEI 53/74, DE 15 DE FEVEREIRO, PUBLICADO NO DG.IS, 39.L\0ICADO NO DG.IS, 39.L"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1974-02-15'
+- type: amended_by
+  target: pt:dre:407488:por
+  label: "Alterado o artigo 20.º pelo DEC LEI.53/74.15.02.1974.MMAR, DG.IS [39] de 15.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1974-407488
+  date: '1974-02-15'
+- type: amended_by
+  target: pt:dre:662721:por
+  label: "Alterados os artigos 14.º e 15.º, a designação do capítulo IV e dos artigos 32.º, 33.º e 34.º para, respectivamente,\
+    \ capítulo V e artigos 36.º, 37.º e 38.º, e aditado um novo capítulo IV, denominado 'Fiscalização e sanções' pelo DEC\
+    \ LEI.89/87.26.02.1987.MPAT, DR.IS [48] de 26.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1987-662721
+  date: '1987-02-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: TRANSFERIDAS PARA A DIRECCAO GERAL DE RECURSOS NATURAIS, COM EXCEPCAO DO LEITO DAS AGUAS DO MAR TAL COMO DEFINIDO
+    NOS NUMEROS 1 E 2, NA PARTE APLICAVEL DO ARTIGO 2, PELO DECRETO LEI 201/92, PUBLICADO NO DR.IS-A, 225.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-09-29'
+- type: amended_by
+  target: pt:dre:233118:por
+  label: "Transferidas para a Direcção-Geral dos Recursos Naturais as competências constantes do presente diploma, com excepção\
+    \ do leito das águas do mar, definido nos nº.s 1 e 2, na parte aplicável, do artigo 2.º, pelo DEC LEI.201/92.29.09.1992.MARN,\
+    \ DR.IS-A [225] de 29.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1992-233118
+  date: '1992-09-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DETERMINADA A NAO APLICACAO DOS ARTIGOS 17 A 31 DO PRESENTE DIPLOMA, NA MATERIA RESPEITANTE AO DECRETO LEI 46/94,
+    DE 22 DE FEVEREIRO, PUBLICADO NO DR.IS-A, 44.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-22'
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a não aplicação dos arts. 17º a 31º do presente diploma, na matéria respeitante ao DEC LEI.46/94.1994.02.22.MARN,\
+    \ DR.IS-A [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: TRANSFERIDAS PARA AS COMISSOES DE COORDENACAO REGIONAL AS COMPETENCIAS DOS SERVICOS DE PLANEAMENTO, EXERCIDAS PELA
+    DIRECCAO GERAL DO ORDENAMENTO DO TERRITORIO, PELO DECRETO LEI 108/94, DE 23 DE ABRIL, PUBLICADO NO DR.IS-A, 95.,
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-23'
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95], com as alterações introduzidas\
+    \ pelo Dec Lei 89/87 de 26-Fev\0v\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: amended_by
+  target: pt:dre:553431:por
+  label: "Alterados os arts. 3º, 4º, 5º, 13º e 36º, com as alterações indtroduzidas pelos Dec Lei 53/74 de 15-Fev, 89/87 de\
+    \ 26-Fev, 201/92 de 29-Set 46/94 de 22-Fev e 108/94 de 23-Abr pela LEI.16/2003.2003.06.04.AR DR.IS-A [129], que procede\
+    \ à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2003-553431
+  date: '2003-06-04'
+- type: cites
+  target: pt:dre:159281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464419:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:632229:por
+  label: "Rectificado o nº2 do art. 11º e o nº1 do art. 27º do presente diploma, pela RECT.DD340.21.12.1971.PC, DG.IS [297]\
+    \ de 21.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-632229
+  date: '1971-12-21'
+- type: repealed_by
+  target: pt:dre:583983:por
+  label: "Revogados os capítulos I e II do presente diploma, pela LEI.54/2005.15.11.2005.AR, DR.IS-A [219] de 15.11.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/54-2005-583983
+  date: '2005-11-15'
+- type: repealed_by
+  target: pt:dre:469068:por
+  label: "Revogados os caps. III e IV do presente diploma, nos termos do nº2 do art. 98º, na data da entrada em vigor dos\
+    \ actos legislativos previstos nos nºs. 1 e 2 do art. 102º pela LEI.58/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005\0\
+    05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2005-469068
+  date: '2005-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:27Z'
   warnings: []
   errors: []
 ---
@@ -418,8 +517,8 @@ O presente diploma entra em vigor noventa dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
 
-**Promulgado em 27 de Outubro de 1971.**
+Promulgado em 27 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

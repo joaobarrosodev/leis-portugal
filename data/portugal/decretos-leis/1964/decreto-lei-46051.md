@@ -49,40 +49,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46051-1964-535815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd0181e0a383be22d0c4b5912928c38fac6c5ce1c5d50f8b5f0911efcbfe30e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f04c4fee486fd78e4e1f0f903ed04377dcdbb9b5be6d70e7c8eaffb8c92e0865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistente Social
+- Farmacêutico
+- Médico
+- Ministério da Saúde e Assistência
+- Pessoal de Enfermagem
+- Pessoal de Saúde
+- Reintegração de Pessoal
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:492675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644531:por
+  label: "Acrescentadas as categorias de pessoal técnico auxiliar e de pessoal auxiliar dos serviços farmacêuticos hospitalares\
+    \ às categorias de pessoal mencionadas no art. 1º do presente diploma, pelo DEC LEI.199/71.12.05.1971.MSA, DG.IS [111]\
+    \ de 12.05.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1971-644531
+  date: '1971-05-12'
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:492675:por
+  label: "Revogada a condição 8ª do art. 2º pelo DEC LEI.5/77.05.01.1977.MAS, DR.IS [3] de 05.01.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1977-492675
+  date: '1977-01-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:16Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +125,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os médicos, farmacêuticos, enfermeiros, auxiliares de enfermagem, parteiras, assistentes e auxiliares sociais, bem como os técnicos dos serviços complementares de diagnóstico e terapêutica que, a seu pedido, tenham sido exonerados dos quadros ou mapas de pessoal dos estabelecimentos e serviços do Ministério da Saúde e Assistência poderão, nos termos deste diploma, requerer a reintegração na categoria que tinham quando lhes foi concedida a exoneração.
+Artigo 1.º Os médicos, farmacêuticos, enfermeiros, auxiliares de enfermagem, parteiras, assistentes e auxiliares sociais, bem como os técnicos dos serviços complementares de diagnóstico e terapêutica que, a seu pedido, tenham sido exonerados dos quadros ou mapas de pessoal dos estabelecimentos e serviços do Ministério da Saúde e Assistência poderão, nos termos deste diploma, requerer a reintegração na categoria que tinham quando lhes foi concedida a exoneração.
 
 § único. O tempo de serviço efectivo prestado anteriormente à reintegração será contado para todos os efeitos legais.
 
-###### Art. 2.º A reintegração poderá ser autorizada por despacho do Ministro da Saúde e Assistência, quando se verifiquem cumulativamente as seguintes condições:
+Art. 2.º A reintegração poderá ser autorizada por despacho do Ministro da Saúde e Assistência, quando se verifiquem cumulativamente as seguintes condições:
 
 1.ª Haver vaga na categoria respectiva;
 
@@ -119,9 +147,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 8.ª Não ter o requerente idade superior a 55 anos na data do deferimento da pretensão.
 
-###### Art. 3.º Fica revogado o [Decreto n.º 22144](https://diariodarepublica.pt/dr/detalhe/decreto/22144-1933-267673), de 20 de Janeiro de 1933.
+Art. 3.º Fica revogado o [Decreto n.º 22144](https://diariodarepublica.pt/dr/detalhe/decreto/22144-1933-267673), de 20 de Janeiro de 1933.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16600/17531755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1980-472357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d25517be397ad2f3ba343eec521a77ec4d3879dca39023a7eb45daa6dd08f381
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91979ec5e3169c780fae29e1c5f544e505e47dedd23457fb745ae79dc3b07c8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Fiscalização
+- Imposto de Transacções
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:568961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461842:por
+  label: Rectificado pela DECL.DD6914.12.09.1980.PCM, DR.IS [221] de 24.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-461842
+  date: '1980-09-12'
+- type: repealed_by
+  target: pt:dre:568961:por
+  label: "Revogado pelo DEC LEI.298/81.30.10.1981.MFP, DR.IS [250] de 30.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1981-568961
+  date: '1981-10-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:46Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +124,11 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Todas as mercadorias em circulação, seja qual for a sua natureza ou espécie, que provenham de importadores, produtores, grossistas ou equiparados, registados ou sujeitos a registo nos termos do Código do Imposto de Transacções, ou que a eles sejam destinadas, deverão ser acompanhadas de guia de remessa, factura ou documento equivalente, que deverá conter todos os elementos referidos no artigo 70.º do mencionado Código.
+Artigo 1.º Todas as mercadorias em circulação, seja qual for a sua natureza ou espécie, que provenham de importadores, produtores, grossistas ou equiparados, registados ou sujeitos a registo nos termos do Código do Imposto de Transacções, ou que a eles sejam destinadas, deverão ser acompanhadas de guia de remessa, factura ou documento equivalente, que deverá conter todos os elementos referidos no artigo 70.º do mencionado Código.
 
-###### Art. 2.º Para efeitos do presente decreto-lei, considera-se mercadoria todo o bem móvel abrangido pelo âmbito da incidência do Código do Imposto de Transacções.
+Art. 2.º Para efeitos do presente decreto-lei, considera-se mercadoria todo o bem móvel abrangido pelo âmbito da incidência do Código do Imposto de Transacções.
 
-###### Art. 3.º - 1 - Considera-se mercadoria em circulação toda aquela que for encontrada fora dos locais de produção, fabrico ou transformação, de exposição, dos estabelecimentos de venda por grosso e a retalho, ou de armazém de retém, por motivo de venda efectiva, troca, transmissão gratuita, afectação a uso próprio, experiência, demonstração e remessa à consignação ou de simples transferência, efectuadas pelas pessoas referidas no artigo 1.º
+Art. 3.º - 1 - Considera-se mercadoria em circulação toda aquela que for encontrada fora dos locais de produção, fabrico ou transformação, de exposição, dos estabelecimentos de venda por grosso e a retalho, ou de armazém de retém, por motivo de venda efectiva, troca, transmissão gratuita, afectação a uso próprio, experiência, demonstração e remessa à consignação ou de simples transferência, efectuadas pelas pessoas referidas no artigo 1.º
 
 2 - Quando, em relação às mercadorias encontradas fora dos locais a que se refere o número anterior, o seu detentor ou transportador declare que as mesmas não provêm das pessoas indicadas no artigo 1.º, poderá exigir-se prova da proveniência sempre que se levantem dúvidas ou suspeitas de fraude, procedendo-se à apreensão provisória dessas mercadorias e dos veículos transportadores nas condições do n.º 5 do artigo 7.º e do artigo 8.º se essa prova não for imediatamente feita.
 
@@ -118,7 +136,7 @@ Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 8-A/80](https://dia
 
 4 - Excluem-se do âmbito do presente diploma as mercadorias que se destinem manifestamente a uso pessoal e sejam transportadas em veículos ligeiros de transporte de passageiros.
 
-###### Art. 4.º - 1 - Os documentos a que se refere o artigo 1.º serão processados, em duplicado, pelas pessoas nele indicadas, no momento da venda, transferência para qualquer dos seus estabelecimentos, troca, transmissão gratuita, afectação a uso próprio ou naquele em que a mercadoria for enviada para experiência, demonstração ou à consignação.
+Art. 4.º - 1 - Os documentos a que se refere o artigo 1.º serão processados, em duplicado, pelas pessoas nele indicadas, no momento da venda, transferência para qualquer dos seus estabelecimentos, troca, transmissão gratuita, afectação a uso próprio ou naquele em que a mercadoria for enviada para experiência, demonstração ou à consignação.
 
 2 - Os documentos referidos no número anterior são destinados:
 
@@ -130,15 +148,15 @@ b) O duplicado, ao remetente das mercadorias, que o arquivará.
 
 4 - Findo o acto de fiscalização, será o envelope original encerrado, com as necessárias garantias de inviolabilidade, em envelope da entidade fiscalizadora.
 
-###### Art. 5.º - 1 - Os transportadores de mercadorias, sejam quais forem os meios utilizados para o transporte e o destino das mercadorias, exigirão sempre aos remetentes das mesmas o original do documento referido no artigo 1.º
+Art. 5.º - 1 - Os transportadores de mercadorias, sejam quais forem os meios utilizados para o transporte e o destino das mercadorias, exigirão sempre aos remetentes das mesmas o original do documento referido no artigo 1.º
 
 2 - Tratando-se de mercadorias de importação, desembaraçadas de acção aduaneira, circulando entre a alfândega e o armazém do importador, o transportador poderá fazer-se acompanhar, em substituição dos documentos referidos no número anterior, de documento comprovativo do respectivo desembaraço aduaneiro.
 
 3 - Tratando-se de mercadorias ainda sob acção aduaneira, os transportadores deverão fazer-se acompanhar dos documentos exigidos pelas alfândegas.
 
-###### Art. 6.º O cumprimento das obrigações impostas por este diploma será fiscalizado em geral, e dentro dos limites da respectiva competência, por todas as autoridades, em especial pelo pessoal da Direcção-Geral das Contribuições e Impostos, da Direcção-Geral das Alfândegas, da Direcção-Geral de Fiscalização Económica, da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública.
+Art. 6.º O cumprimento das obrigações impostas por este diploma será fiscalizado em geral, e dentro dos limites da respectiva competência, por todas as autoridades, em especial pelo pessoal da Direcção-Geral das Contribuições e Impostos, da Direcção-Geral das Alfândegas, da Direcção-Geral de Fiscalização Económica, da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública.
 
-###### Art. 7.º - 1 - A falta de emissão ou de exibição de qualquer dos documentos aludidos nos artigos 1.º e 5.º do presente diploma fará incorrer os faltosos nas seguintes penalidades:
+Art. 7.º - 1 - A falta de emissão ou de exibição de qualquer dos documentos aludidos nos artigos 1.º e 5.º do presente diploma fará incorrer os faltosos nas seguintes penalidades:
 
 a) Multa variável entre 500$00 e 500000$00, para a falta de emissão de guia de remessa, factura ou documento equivalente;
 
@@ -150,28 +168,28 @@ Em igual multa incorrerão as pessoas aludidas no artigo 1.º quando o veículo 
 
 3 - Independentemente das penalidades referidas no número anterior, a falta de exibição da guia de remessa, factura ou documento equivalente respeitante às mercadorias em circulação implica a apreensão das mesmas mercadorias e dos veículos que as transportarem, desde que estes não estejam afectos aos transportes públicos regulares de passageiros ou mercadorias.
 
-###### Art. 8.º - 1 - Das mercadorias e dos veículos apreendidos será lavrado auto de apreensão, em duplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor provável dos bens apreendidos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
+Art. 8.º - 1 - Das mercadorias e dos veículos apreendidos será lavrado auto de apreensão, em duplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor provável dos bens apreendidos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
 
 2 - O original do auto de apreensão e os autos de notícia ou participações relativos às infracções verificadas serão entregues na repartição de finanças da área onde foi consumada a transgressão.
 
 3 - O duplicado do auto de apreensão será entregue ao transportador das mercadorias, mediante recibo.
 
-###### Art. 9.º - 1 - Nos oito dias seguintes à apreensão referida no artigo anterior poderão os transgressores regularizar a situação encontrada em falta, mediante a exibição dos documentos referidos nos artigos 1.º e 5.º deste diploma e pagamento das multas aplicadas, na repartição de finanças aludida no n.º 2 do artigo anterior.
+Art. 9.º - 1 - Nos oito dias seguintes à apreensão referida no artigo anterior poderão os transgressores regularizar a situação encontrada em falta, mediante a exibição dos documentos referidos nos artigos 1.º e 5.º deste diploma e pagamento das multas aplicadas, na repartição de finanças aludida no n.º 2 do artigo anterior.
 
 2 - As despesas originadas pela apreensão serão da responsabilidade do remetente das mercadorias, sendo cobradas conjuntamente com as multas que lhe forem aplicadas.
 
-###### Art. 10.º A sentença condenatória declarará sempre perdidas a favor da Fazenda Nacional as mercadorias apreendidas.
+Art. 10.º A sentença condenatória declarará sempre perdidas a favor da Fazenda Nacional as mercadorias apreendidas.
 
-###### Art. 11.º Quando em relação a uma mesma mercadoria se verificar, simultaneamente, a existência de uma infracção prevista no presente diploma e de outra de natureza fiscal-aduaneira, esta última absorverá a primeira, sendo o seu conhecimento do foro dos tribunais competentes.
+Art. 11.º Quando em relação a uma mesma mercadoria se verificar, simultaneamente, a existência de uma infracção prevista no presente diploma e de outra de natureza fiscal-aduaneira, esta última absorverá a primeira, sendo o seu conhecimento do foro dos tribunais competentes.
 
-###### Art. 12.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 12.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 13.º Este diploma entra em vigor no dia 1 de Agosto de 1980.
+Art. 13.º Este diploma entra em vigor no dia 1 de Agosto de 1980.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 7 de Julho de 1980.**
+Promulgado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

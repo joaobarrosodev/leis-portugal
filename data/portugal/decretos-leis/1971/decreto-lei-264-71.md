@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1971-643292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96bf11b208bd098374c7f6fecc3da7967f7cff9f81e0cdf4a93c82fe4ab89a57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 422208ad701e7973500077f89100deec92f5f6f907df38b24071a81784892bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Freguesia
+- Ponta Delgada
+- Ribeira Grande
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:05Z'
   warnings: []
   errors: []
 ---
@@ -97,28 +101,28 @@ Considerando que se verificam as demais condições enumeradas no artigo 9.º do
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada no concelho da Ribeira Grande, do distrito autónomo de Ponta Delgada, a freguesia de Santa Bárbara, com sede na povoação de Lomba de Santa Bárbara.
+Artigo 1.º - 1. É criada no concelho da Ribeira Grande, do distrito autónomo de Ponta Delgada, a freguesia de Santa Bárbara, com sede na povoação de Lomba de Santa Bárbara.
 
 2. A referida povoação passa também a denominar-se Santa Bárbara.
 
-###### Art. 2.º A freguesia de Santa Bárbara é classificada de 2.ª ordem.
+Art. 2.º A freguesia de Santa Bárbara é classificada de 2.ª ordem.
 
-###### Art. 3.º Os limites da nova freguesia são definidos por uma linha que, partindo do vértice do ângulo norte formado pelas Ruas de Nossa Senhora da Quietação e de Santa Bárbara, progride para poente em linha recta, em direcção à Canada da Maça, após o que atravessa a Canada do Ratinho e continua paralelamente à estrada nacional denominada «Mediana» até ao Caminho das Casas Telhadas, numa profundidade de 50 m a oeste da estrada e caminho referidos, até atingir o limite da freguesia de Rabo de Peixe e o eixo do mesmo limite até à confluência dos concelhos da Ribeira Grande e Lagoa; daqui, segue, na direcção poente-nascente, a linha de demarcação dos dois citados concelhos, pelo lado sul, até ao Mato de Verde-Tinta, voltando, então, pelo norte, até ao Caminho do Vulcão, que acompanha paralelamente e à distância de 50 m para nascente, até à inserção da Canada do Taveira, dali prosseguindo pelo eixo desta, de novo, até ao Caminho do Vulcão, e depois, em linha recta, até ao ponto inicial da presente descrição.
+Art. 3.º Os limites da nova freguesia são definidos por uma linha que, partindo do vértice do ângulo norte formado pelas Ruas de Nossa Senhora da Quietação e de Santa Bárbara, progride para poente em linha recta, em direcção à Canada da Maça, após o que atravessa a Canada do Ratinho e continua paralelamente à estrada nacional denominada «Mediana» até ao Caminho das Casas Telhadas, numa profundidade de 50 m a oeste da estrada e caminho referidos, até atingir o limite da freguesia de Rabo de Peixe e o eixo do mesmo limite até à confluência dos concelhos da Ribeira Grande e Lagoa; daqui, segue, na direcção poente-nascente, a linha de demarcação dos dois citados concelhos, pelo lado sul, até ao Mato de Verde-Tinta, voltando, então, pelo norte, até ao Caminho do Vulcão, que acompanha paralelamente e à distância de 50 m para nascente, até à inserção da Canada do Taveira, dali prosseguindo pelo eixo desta, de novo, até ao Caminho do Vulcão, e depois, em linha recta, até ao ponto inicial da presente descrição.
 
-###### Art. 4.º - 1. A eleição da Junta de Freguesia de Santa Bárbara realizar-se-á no dia que for designado pelo presidente da Câmara Municipal da Ribeira Grande e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Ribeira Seca.
+Art. 4.º - 1. A eleição da Junta de Freguesia de Santa Bárbara realizar-se-á no dia que for designado pelo presidente da Câmara Municipal da Ribeira Grande e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Ribeira Seca.
 
 2. A Junta eleita, nos termos do n.º 1, servirá até 31 de Dezembro de 1975.
 
 3. A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal da Ribeira Grande.
 
-###### Art. 5.º A Câmara Municipal da Ribeira Grande procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
+Art. 5.º A Câmara Municipal da Ribeira Grande procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 11 de Junho de 1971.**
+Promulgado em 11 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

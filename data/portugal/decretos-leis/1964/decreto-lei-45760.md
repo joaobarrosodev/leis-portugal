@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45760-1964-577324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bfb0ecadcc47328972830c9368dd1feaa71355a5ca62d1921bebfb44c49e1ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35c0b7f9607cfaacc621e1e3b59e97aa8941e014cfe0d9d4a18672b996f9ba63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Direcção Geral das Contribuições e Impostos
+- Gestão Financeira
+- Política Fiscal
+relationships:
+- type: cites
+  target: pt:dre:683622:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:26Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ Nestes termos:
 
 Usando da autorização do artigo 11.º da [Lei n.º 2121](https://diariodarepublica.pt/dr/detalhe/lei/2121-1963-683622), de 21 de Dezembro de 1963, e da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para execução do futuro Código do Imposto de Transacções, ficam obrigadas ao cumprimento das disposições do presente diploma todas as pessoas singulares ou colectivas que, no continente ou ilhas adjacentes, estejam sujeitas a contribuição industrial pelos grupos A ou B, ou dela isentas, nos termos dos n.os 8.º e 11.º do artigo 14.º e artigos 18.º, 19.º e 20.º do Código da Contribuição Industrial, pelo exercício de qualquer das actividades seguintes:
+Artigo 1.º Para execução do futuro Código do Imposto de Transacções, ficam obrigadas ao cumprimento das disposições do presente diploma todas as pessoas singulares ou colectivas que, no continente ou ilhas adjacentes, estejam sujeitas a contribuição industrial pelos grupos A ou B, ou dela isentas, nos termos dos n.os 8.º e 11.º do artigo 14.º e artigos 18.º, 19.º e 20.º do Código da Contribuição Industrial, pelo exercício de qualquer das actividades seguintes:
 
 a) Venda por grosso ou atacado, para revenda, de quaisquer mercadorias ou produtos;
 
@@ -105,11 +114,11 @@ c) Importação ou exportação.
 
 § único. As filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes das pessoas a que se refere o corpo do artigo são consideradas, para os efeitos deste diploma, como estabelecimentos autónomos.
 
-###### Art. 2.º As pessoas singulares ou colectivas a que se refere o artigo anterior, ficam obrigadas a apresentar, em triplicado, durante o mês de Junho de 1964, declaração conforme o modelo n.º 1 anexo a este diploma na repartição de finanças do concelho ou bairro da situação do estabelecimento principal e das filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes, ou na do domicílio, quando não tenham qualquer estabelecimento.
+Art. 2.º As pessoas singulares ou colectivas a que se refere o artigo anterior, ficam obrigadas a apresentar, em triplicado, durante o mês de Junho de 1964, declaração conforme o modelo n.º 1 anexo a este diploma na repartição de finanças do concelho ou bairro da situação do estabelecimento principal e das filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes, ou na do domicílio, quando não tenham qualquer estabelecimento.
 
 § único. As declarações não deverão conter emendas ou rasuras que não sejam ressalvadas e serão assinadas pelas pessoas obrigadas à sua apresentação, pelos seus representantes legais ou mandatários e ainda, quando o houver, pelo respectivo técnico de contas responsável.
 
-###### Art. 3.º A partir da entrada em vigor do presente decreto-lei, é obrigatório, para as pessoas singulares ou colectivas referidas no artigo 1.º, o processamento de facturas, pelo menos em duplicado, com designação explícita das mercadorias ou produtos e indicação das quantidades, relativamente a todas as saídas dos mesmos produtos ou mercadorias, seja a que título for.
+Art. 3.º A partir da entrada em vigor do presente decreto-lei, é obrigatório, para as pessoas singulares ou colectivas referidas no artigo 1.º, o processamento de facturas, pelo menos em duplicado, com designação explícita das mercadorias ou produtos e indicação das quantidades, relativamente a todas as saídas dos mesmos produtos ou mercadorias, seja a que título for.
 
 § 1.º As facturas serão emitidas em prazo não excedente a cinco dias a contar da data em que as transacções ou operações a que se refere o corpo deste artigo se tiverem realizado.
 
@@ -117,30 +126,30 @@ c) Importação ou exportação.
 
 § 3.º As facturas deverão manter-se arquivadas por ordem cronológica e pelo prazo de cinco anos.
 
-###### Art. 4.º As saídas de produtos ou mercadorias para o estrangeiro ou províncias ultramarinas deverão ficar documentadas com o duplicado da declaração de exportação do modelo n.º 2 anexo a este diploma, devidamente rubricado e autenticado por funcionário dos competentes serviços da Direcção-Geral das Alfândegas, Guarda Fiscal ou Administração-Geral dos Correios, Telégrafos e Telefones, conforme o caso.
+Art. 4.º As saídas de produtos ou mercadorias para o estrangeiro ou províncias ultramarinas deverão ficar documentadas com o duplicado da declaração de exportação do modelo n.º 2 anexo a este diploma, devidamente rubricado e autenticado por funcionário dos competentes serviços da Direcção-Geral das Alfândegas, Guarda Fiscal ou Administração-Geral dos Correios, Telégrafos e Telefones, conforme o caso.
 
-###### Art. 5.º As repartições de finanças darão entrada imediata às declarações a que se refere o artigo 2.º, passando no duplicado o competente certificado de registo provisório de grossista ou equiparado, que entregarão ao apresentante depois de devidamente autenticado com o selo branco, remetendo os dois restantes exemplares directamente à Direcção-Geral das Contribuições e Impostos, após ter sido prestada informação, no original, pelos serviços de fiscalização tributária.
+Art. 5.º As repartições de finanças darão entrada imediata às declarações a que se refere o artigo 2.º, passando no duplicado o competente certificado de registo provisório de grossista ou equiparado, que entregarão ao apresentante depois de devidamente autenticado com o selo branco, remetendo os dois restantes exemplares directamente à Direcção-Geral das Contribuições e Impostos, após ter sido prestada informação, no original, pelos serviços de fiscalização tributária.
 
-###### Art. 6.º A Direcção-Geral das Contribuições e Impostos, depois de recebidos os exemplares da declaração e de verificada a sua conformidade, efectuará o competente registo, devolvendo à repartição de finanças o triplicado após ter sido nele exarado o respectivo certificado.
+Art. 6.º A Direcção-Geral das Contribuições e Impostos, depois de recebidos os exemplares da declaração e de verificada a sua conformidade, efectuará o competente registo, devolvendo à repartição de finanças o triplicado após ter sido nele exarado o respectivo certificado.
 
 § único. Os certificados a que se refere o corpo deste artigo poderão ser assinados de chancela e serão sempre autenticados com o selo branco.
 
-###### Art. 7.º A repartição de finanças, depois de receber o triplicado da declaração com o certificado referido no artigo anterior, promoverá a sua entrega ao interessado, cobrando recibo no verso do certificado do registo provisório para ser arquivado no processo individual do contribuinte.
+Art. 7.º A repartição de finanças, depois de receber o triplicado da declaração com o certificado referido no artigo anterior, promoverá a sua entrega ao interessado, cobrando recibo no verso do certificado do registo provisório para ser arquivado no processo individual do contribuinte.
 
-###### Art. 8.º As declarações e os certificados a que se referem os artigos 2.º, 5.º e 6.º são isentos de imposto do selo.
+Art. 8.º As declarações e os certificados a que se referem os artigos 2.º, 5.º e 6.º são isentos de imposto do selo.
 
-###### Art. 9.º A falta de apresentação das declarações a que se refere o artigo 2.º ou a sua entrega fora de prazo são punidas com multa de 100$00 a 20000$00, conforme a gravidade da culpa e as demais circunstâncias do caso.
+Art. 9.º A falta de apresentação das declarações a que se refere o artigo 2.º ou a sua entrega fora de prazo são punidas com multa de 100$00 a 20000$00, conforme a gravidade da culpa e as demais circunstâncias do caso.
 
-###### Art. 10.º Por qualquer infracção não especialmente prevenida no artigo anterior será aplicada multa até 1000$00, graduada nos termos do mesmo artigo.
+Art. 10.º Por qualquer infracção não especialmente prevenida no artigo anterior será aplicada multa até 1000$00, graduada nos termos do mesmo artigo.
 
-###### Art. 11.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
+Art. 11.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
 
-###### Art. 12.º Este decreto-lei entra imediatamente em vigor.
+Art. 12.º Este decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/13900/07830785.pdf))](https://files.diariodarepublica.pt/1s/1964/06/13900/07830785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/13900/07830785.pdf)
 
 Ministério das Finanças, 15 de Junho de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.

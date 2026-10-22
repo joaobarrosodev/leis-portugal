@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/26200/15351536.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49364-1969-215771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 389eb491c7e85c7de9f6d5be4772477e111db17c86917663529033b9d7a3c99c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f8dba291b46c3aa7842ab12276de56b0d78b34c6c177eb6693251f430c336ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:365886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:525225:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365886:por
+  label: "Revogado pelo DEC LEI.494/79.21.12.1979.MAI, DR.IS [293] de 21.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/494-1979-365886
+  date: '1979-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:18Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +101,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Da designação, constituição e funcionamento das comissões consultivas regionais
 
-###### Artigo 1.º As comissões a que se refere o artigo 4.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225) designar-se-ão abreviadamente por:
+Artigo 1.º As comissões a que se refere o artigo 4.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225) designar-se-ão abreviadamente por:
 
 Comissão de Planeamento da Região do Norte.
 
@@ -106,25 +115,25 @@ Comissão de Planeamento da Região dos Açores.
 
 Comissão de Planeamento da Região da Madeira.
 
-###### Art. 2.º - 1. O mandato das comissões de planeamento tem início no dia 1 de Janeiro do primeiro ano do período para que foram constituídas.
+Art. 2.º - 1. O mandato das comissões de planeamento tem início no dia 1 de Janeiro do primeiro ano do período para que foram constituídas.
 
 2. As juntas distritais ou juntas gerais de distrito da região designarão os seus representantes até ao dia 10 do mês de Dezembro anterior, de entre personalidades que residam na área do distrito, gozem aí de reconhecido prestígio e possuam conhecimento qualificado dos seus problemas económico-sociais.
 
 3. A designação dos vogais deverá ser comunicada ao presidente da comissão pelos presidentes das juntas distritais ou juntas gerais de distrito até ao dia 15 de Dezembro.
 
-###### Art. 3.º As comissões de planeamento reunirão sempre que forem convocadas pelo respectivo presidente.
+Art. 3.º As comissões de planeamento reunirão sempre que forem convocadas pelo respectivo presidente.
 
-###### Art. 4.º Os governadores civis dos distritos abrangidos pela região poderão assistir ou fazer-se representar nas reuniões da respectiva comissão.
+Art. 4.º Os governadores civis dos distritos abrangidos pela região poderão assistir ou fazer-se representar nas reuniões da respectiva comissão.
 
-###### Art. 5.º Poderão tomar parte nas reuniões da comissão, a convite ou com autorização do seu presidente, entidades especialmente qualificadas para prestarem colaboração na apreciação das matérias a tratar.
+Art. 5.º Poderão tomar parte nas reuniões da comissão, a convite ou com autorização do seu presidente, entidades especialmente qualificadas para prestarem colaboração na apreciação das matérias a tratar.
 
-###### Art. 6.º Será lavrada acta de cada reunião da comissão, da qual o presidente enviará um duplicado ao Secretariado Técnico da Presidência do Conselho, no prazo de dez dias, para efeitos de acompanhamento da execução da política de desenvolvimento regional.
+Art. 6.º Será lavrada acta de cada reunião da comissão, da qual o presidente enviará um duplicado ao Secretariado Técnico da Presidência do Conselho, no prazo de dez dias, para efeitos de acompanhamento da execução da política de desenvolvimento regional.
 
-###### Art. 7.º A comissão e o respectivo presidente serão secretariados permanentemente por técnico qualificado, a nomear ao abrigo do artigo 21.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225).
+Art. 7.º A comissão e o respectivo presidente serão secretariados permanentemente por técnico qualificado, a nomear ao abrigo do artigo 21.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225).
 
 ### CAPÍTULO II — Do presidente da comissão
 
-###### Art. 8.º - 1. Ao presidente da comissão de planeamento compete especialmente:
+Art. 8.º - 1. Ao presidente da comissão de planeamento compete especialmente:
 
 a) Promover e orientar, para efeitos da coordenação prevista na alínea c) do artigo 4.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), as reuniões que julgue útil convocar dos chefes dos serviços públicos ao nível da região e dos mais responsáveis pelos meios de acção regional;
 
@@ -140,33 +149,33 @@ f) Ajustar com o presidente da junta distrital as providências materiais e buro
 
 2. O presidente da comissão enviará trimestralmente à Presidência do Conselho um relatório sobre as actividades da comissão no período considerado.
 
-###### Art. 9.º O presidente da comissão é substituído nas suas faltas e impedimentos por um vice-presidente, a eleger pela comissão, de entre os seus membros, no início de cada mandato, tendo o presidente, quando necessário, voto de qualidade.
+Art. 9.º O presidente da comissão é substituído nas suas faltas e impedimentos por um vice-presidente, a eleger pela comissão, de entre os seus membros, no início de cada mandato, tendo o presidente, quando necessário, voto de qualidade.
 
 ### CAPÍTULO III — Dos grupos de trabalho
 
-###### Art. 10.º Em cada comissão consultiva regional serão constituídos os grupos de trabalho permanentes que o presidente, ouvido o Secretariado Técnico da Presidência do Conselho, julgar conveniente para os estudos dos problemas relativos ao desenvolvimento económico-social da região, com observância, porém, da estrutura mínima imposta no n.º 2 do artigo 8.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), de 11 de Março de 1969.
+Art. 10.º Em cada comissão consultiva regional serão constituídos os grupos de trabalho permanentes que o presidente, ouvido o Secretariado Técnico da Presidência do Conselho, julgar conveniente para os estudos dos problemas relativos ao desenvolvimento económico-social da região, com observância, porém, da estrutura mínima imposta no n.º 2 do artigo 8.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), de 11 de Março de 1969.
 
-###### Art. 11.º Por iniciativa do presidente da comissão ou indicação do Secretariado Técnico da Presidência do Conselho poderão constituir-se para o estudo de problemas específicos grupos de trabalho ad hoc, os quais se dissolverão finda a tarefa que lhes for confiada.
+Art. 11.º Por iniciativa do presidente da comissão ou indicação do Secretariado Técnico da Presidência do Conselho poderão constituir-se para o estudo de problemas específicos grupos de trabalho ad hoc, os quais se dissolverão finda a tarefa que lhes for confiada.
 
-###### Art. 12.º A composição, presidência e competência dos diversos grupos de trabalho serão determinadas pelo presidente da comissão, que também estabelecerá o prazo de funcionamento dos grupos não permanentes.
+Art. 12.º A composição, presidência e competência dos diversos grupos de trabalho serão determinadas pelo presidente da comissão, que também estabelecerá o prazo de funcionamento dos grupos não permanentes.
 
-###### Art. 13.º - 1. Os grupos de trabalho serão formados por representantes dos serviços e das entidades públicas e privadas directamente interessadas nos problemas respeitantes às matérias a estudar.
+Art. 13.º - 1. Os grupos de trabalho serão formados por representantes dos serviços e das entidades públicas e privadas directamente interessadas nos problemas respeitantes às matérias a estudar.
 
 2. O presidente da comissão poderá solicitar a colaboração nos grupos de trabalho, a título transitório, de representantes de entidades públicas ou privadas ou de especialistas, sempre que essa colaboração seja considerada conveniente para o estudo de determinados assuntos.
 
 3. A designação de funcionários do Estado e das autarquias locais deverá respeitar o estabelecido no artigo 14.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), de 11 de Março de 1969.
 
-###### Art. 14.º - 1. As reuniões dos grupos de trabalho poderão ser convocadas pelo presidente da comissão ou pelo presidente do respectivo grupo.
+Art. 14.º - 1. As reuniões dos grupos de trabalho poderão ser convocadas pelo presidente da comissão ou pelo presidente do respectivo grupo.
 
 2. O presidente da comissão poderá assistir sempre às reuniões dos grupos de trabalho, assumindo a presidência da reunião.
 
-###### Art. 15.º Cada grupo de trabalho será secretariado por um dos seus membros, a designar pelo respectivo presidente.
+Art. 15.º Cada grupo de trabalho será secretariado por um dos seus membros, a designar pelo respectivo presidente.
 
-###### Art. 16.º As ajudas de custo e despesas de transporte dos membros dos grupos de trabalho serão consideradas encargos inerentes ao funcionamento dos mesmos.
+Art. 16.º As ajudas de custo e despesas de transporte dos membros dos grupos de trabalho serão consideradas encargos inerentes ao funcionamento dos mesmos.
 
 ### CAPÍTULO IV — Da colaboração do Secretariado Técnico da Presidência do Conselho
 
-###### Art. 17.º No desempenho da sua função de apoio técnico às comissões consultivas, compete especialmente ao Secretariado Técnico da Presidência do Conselho:
+Art. 17.º No desempenho da sua função de apoio técnico às comissões consultivas, compete especialmente ao Secretariado Técnico da Presidência do Conselho:
 
 a) Coadjuvar os presidentes das comissões na condução de estudos a realizar pelos grupos de trabalho e no estabelecimento de contactos com os diversos departamentos do Estado;
 
@@ -180,14 +189,14 @@ e) Suscitar a apreciação de estudos realizados pelo Secretariado, ou por outro
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 18.º A designação dos vogais para o primeiro mandato das comissões consultivas deverá ser comunicada ao presidente da comissão pelos presidentes das juntas distritais ou juntas gerais de distrito no prazo de um mês a contar da data da publicação deste diploma.
+Art. 18.º A designação dos vogais para o primeiro mandato das comissões consultivas deverá ser comunicada ao presidente da comissão pelos presidentes das juntas distritais ou juntas gerais de distrito no prazo de um mês a contar da data da publicação deste diploma.
 
-###### Art. 19.º O primeiro mandato das comissões consultivas regionais terminará em 31 de Dezembro de 1971.
+Art. 19.º O primeiro mandato das comissões consultivas regionais terminará em 31 de Dezembro de 1971.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Outubro de 1969.**
+Promulgado em 29 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

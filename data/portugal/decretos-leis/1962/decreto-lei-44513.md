@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44513-1962-163408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69b5bf6f87b9be79e256ee3505cf15f71782ae7eeab928d239370f3db0d6749c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a76bbe7144ba8ed3c0f691be43c2face824329700358aebce8784036e328950a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Banco Nacional Ultramarino
+- Gestão Financeira
+- Moçambique.Colónia Portuguesa
+- Obras Públicas
+- Plano de Fomento
 relationships:
 - type: amended_by
   target: pt:dre:693235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693235:por
+  label: "Alterados os arts. 2º e 7º pelo DEC LEI.45094.29.06.1963.MF, DG.IS [152] de 29.06.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45094-1963-693235
+  date: '1963-06-29'
+- type: cites
+  target: pt:dre:164401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643174:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:159699:por
+  label: Rectificado o art. 6º pela DECL.DD11771.08.09.1962.PC, DG.IS [207] de 08.09.1962
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1962-159699
+  date: '1962-09-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:53Z'
   warnings: []
   errors: []
 ---
@@ -97,39 +129,39 @@ Os certificados representativos do empréstimo poderão ser afectados à reserva
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto no [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, é autorizada a emissão de um empréstimo interno amortizável, denominado «Empréstimo de 2,5 por cento de 1962 - Província de Moçambique», até ao montante de 500000 contos.
+Artigo 1.º De harmonia com o disposto no [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, é autorizada a emissão de um empréstimo interno amortizável, denominado «Empréstimo de 2,5 por cento de 1962 - Província de Moçambique», até ao montante de 500000 contos.
 
-###### Art. 2.º O empréstimo será tomado integralmente pelo Banco Nacional Ultramarino, que porá à ordem da província o respectivo contravalor em escudos moçambicanos, a fim de serem aplicados em obras do II Plano de Fomento a realizar na referida província de Moçambique.
+Art. 2.º O empréstimo será tomado integralmente pelo Banco Nacional Ultramarino, que porá à ordem da província o respectivo contravalor em escudos moçambicanos, a fim de serem aplicados em obras do II Plano de Fomento a realizar na referida província de Moçambique.
 
-###### Art. 3.º O empréstimo desdobrar-se-á em séries de 100000 contos e será representado em certificados de dívida inscrita correspondentes a 5000 obrigações, do valor nominal de 1000$00 cada uma.
+Art. 3.º O empréstimo desdobrar-se-á em séries de 100000 contos e será representado em certificados de dívida inscrita correspondentes a 5000 obrigações, do valor nominal de 1000$00 cada uma.
 
 § único. Os certificados representativos do empréstimo poderão ser revertidos em títulos de cupão de uma ou de dez obrigações, ficando o tomador isento do pagamento dos emolumentos e da taxa de 3$00, a que se referem os n.os I e IX da tabela anexa ao [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, quando se efectuar pela primeira vez, relativamente a cada certificado, a respectiva operação de reversão.
 
-###### Art. 4.º Fica desde já autorizada a Direcção-Geral da Fazenda Pública a emitir imediatamente a obrigação geral correspondente à totalidade do empréstimo.
+Art. 4.º Fica desde já autorizada a Direcção-Geral da Fazenda Pública a emitir imediatamente a obrigação geral correspondente à totalidade do empréstimo.
 
-###### Art. 5.º As obrigações do empréstimo vencerão o juro de 2,5 por cento ao ano, pagável aos semestres, em 1 de Junho e em 1 de Dezembro.
+Art. 5.º As obrigações do empréstimo vencerão o juro de 2,5 por cento ao ano, pagável aos semestres, em 1 de Junho e em 1 de Dezembro.
 
 Nos primeiros juros a pagar observar-se-á o disposto no artigo 9.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio do corrente ano.
 
-###### Art. 6.º O empréstimo será amortizado em vinte anuidades iguais, pelo valor nominal dos certificados ou títulos, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 do Junho de 1958 e em 1 de Junho de 1969.
+Art. 6.º O empréstimo será amortizado em vinte anuidades iguais, pelo valor nominal dos certificados ou títulos, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 do Junho de 1958 e em 1 de Junho de 1969.
 
-###### Art. 7.º Nas datas fixadas nos artigos 5.º e 6.º, a província de Moçambique entregará ao Tesouro, em escudos metropolitanos, quantias iguais às despendidas por este para pagamento de juros e amortizações.
+Art. 7.º Nas datas fixadas nos artigos 5.º e 6.º, a província de Moçambique entregará ao Tesouro, em escudos metropolitanos, quantias iguais às despendidas por este para pagamento de juros e amortizações.
 
 § único. Sempre que o julgar conveniente, pode a província proceder a amortizações antecipadas.
 
 Nesse caso, poderá também o Tesouro, se assim o entender, antecipar as amortizações a que se refere o artigo 6.º
 
-###### Art. 8.º Os certificados representativos das diversas séries do empréstimo serão assentados ao Banco Nacional Ultramarino e poderão ser afectos à reserva monetária do Banco, nos termos da alínea b) da cláusula 36.ª do contrato de 16 de Junho de 1953, aprovado pelo [Decreto-Lei n.º 39221](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39221-1953-643174), de 25 de Maio do mesmo ano, independentemente do disposto no § 2.º da mesma cláusula.
+Art. 8.º Os certificados representativos das diversas séries do empréstimo serão assentados ao Banco Nacional Ultramarino e poderão ser afectos à reserva monetária do Banco, nos termos da alínea b) da cláusula 36.ª do contrato de 16 de Junho de 1953, aprovado pelo [Decreto-Lei n.º 39221](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39221-1953-643174), de 25 de Maio do mesmo ano, independentemente do disposto no § 2.º da mesma cláusula.
 
 § único. Quando isso se mostrar necessário ao bom funcionamento da reserva monetária do Banco, poderão os certificados ou os títulos ser utilizados para caucionar créditos concedidos pelo Banco de Portugal ou ser adquiridos por este.
 
-###### Art. 9.º Os certificados ou os títulos representativos do empréstimo gozam dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, que lhes forem aplicáveis. Gozam igualmente da isenção do imposto sobre as sucessões e doações quando fizerem parte da reserva monetária do Banco.
+Art. 9.º Os certificados ou os títulos representativos do empréstimo gozam dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, que lhes forem aplicáveis. Gozam igualmente da isenção do imposto sobre as sucessões e doações quando fizerem parte da reserva monetária do Banco.
 
-###### Art. 10.º Os encargos efectivos do empréstimo, excluídas as despesas da sua representação, não poderão exceder 2,5 por cento.
+Art. 10.º Os encargos efectivos do empréstimo, excluídas as despesas da sua representação, não poderão exceder 2,5 por cento.
 
-###### Art. 11.º No Orçamento Geral do Estado serão inscritas, anualmente, nos termos do artigo 14.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, as verbas necessárias para ocorrer aos encargos deste empréstimo. Em contrapartida serão inscritas importâncias iguais, a favor do Tesouro, no orçamento da província de Moçambique.
+Art. 11.º No Orçamento Geral do Estado serão inscritas, anualmente, nos termos do artigo 14.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, as verbas necessárias para ocorrer aos encargos deste empréstimo. Em contrapartida serão inscritas importâncias iguais, a favor do Tesouro, no orçamento da província de Moçambique.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

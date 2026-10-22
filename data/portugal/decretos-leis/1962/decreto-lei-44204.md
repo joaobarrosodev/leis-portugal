@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44204-1962-517785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a33daf6b2efd8d097015d5158a247b9ed5dc7d9a5781d231f14b534193056eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3203566373130bb2481e133910583825264aa7c1aa0afc15ad7ab4de0633134f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Hospitais
+- Farmácia Hospitalar
+- Ministério da Saúde e Assistência
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:223427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643335:por
+  label: "Alterado o quadro tipo a que se refere o presente diploma, pelo Dec Lei.274/71.22.06.1971.MSA, DG.IS [145] de 22.06.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-1971-643335
+  date: '1971-06-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:55Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +109,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Designa-se por farmácia hospitalar, para efeitos deste diploma, o conjunto de actividades farmacêuticas exercidas em organismos hospitalares ou serviços a eles ligados para colaborar nas funções de assistência que pertencem a esses organismos e serviços e promover a acção de investigação científica e de ensino que lhes couber.
+Artigo 1.º Designa-se por farmácia hospitalar, para efeitos deste diploma, o conjunto de actividades farmacêuticas exercidas em organismos hospitalares ou serviços a eles ligados para colaborar nas funções de assistência que pertencem a esses organismos e serviços e promover a acção de investigação científica e de ensino que lhes couber.
 
 § único. As actividades da farmácia hospitalar referidas no corpo do artigo exercem-se através de serviços farmacêuticos.
 
-###### Art. 2.º Os serviços farmacêuticos constituem departamentos com autonomia técnica, sem prejuízo de estarem sujeitos à orientação geral dos órgãos da administração, perante os quais respondem pelos resultados do seu exercício.
+Art. 2.º Os serviços farmacêuticos constituem departamentos com autonomia técnica, sem prejuízo de estarem sujeitos à orientação geral dos órgãos da administração, perante os quais respondem pelos resultados do seu exercício.
 
-###### Art. 3.º Em cada região e em cada zona hospitalar serão estabelecidos meios convenientes para uma eficiente colaboração funcional e científica dos serviços farmacêuticos.
+Art. 3.º Em cada região e em cada zona hospitalar serão estabelecidos meios convenientes para uma eficiente colaboração funcional e científica dos serviços farmacêuticos.
 
-###### Art. 4.º Os serviços farmacêuticos devem ter as dimensões técnicas adequadas à natureza e categoria dos organismos a que dão apoio, nos termos seguintes:
+Art. 4.º Os serviços farmacêuticos devem ter as dimensões técnicas adequadas à natureza e categoria dos organismos a que dão apoio, nos termos seguintes:
 
 1.º Nos hospitais centrais e nos outros hospitais ou organismos de categoria equivalente, os serviços farmacêuticos serão principalmente centros de produção, de investigação científica e de ensino;
 
@@ -122,7 +133,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO II — Do funcionamento dos serviços farmacêuticos hospitalares
 
-###### Art. 5.º Aos serviços farmacêuticos hospitalares compete especialmente:
+Art. 5.º Aos serviços farmacêuticos hospitalares compete especialmente:
 
 a) Preparar, verificar analìticamente, armazenar e distribuir drogas e medicamentos;
 
@@ -136,7 +147,7 @@ e) Promover ou apoiar a investigação no campo das ciências e da técnica farm
 
 f) Colaborar na preparação e aperfeiçoamento de pessoal destinado a estes serviços e na educação farmacêutica de outros serviços com que estejam em ligação.
 
-###### Art. 6.º Os serviços farmacêuticos dos hospitais centrais e bem assim os de outros hospitais ou organismos de categoria equivalente deverão ter as secções seguintes:
+Art. 6.º Os serviços farmacêuticos dos hospitais centrais e bem assim os de outros hospitais ou organismos de categoria equivalente deverão ter as secções seguintes:
 
 a) Armazenamento e distribuição;
 
@@ -152,19 +163,19 @@ e) Documentação e arquivo.
 
 § 2.º Os hospitais sub-regionais deverão obrigatòriamente possuir a secção de armazenamento e distribuição, podendo ser autorizados pelo serviço de farmácia hospitalar a manter uma secção de produção, cuja dimensão técnica será fixada em cada caso.
 
-###### Art. 7.º A entrada em funcionamento de serviços farmacêuticos hospitalares depende de autorização da Direcção-Geral dos Hospitais, que fixará os tipos de preparações farmacêuticas que podem ou devem ser executadas em cada um deles.
+Art. 7.º A entrada em funcionamento de serviços farmacêuticos hospitalares depende de autorização da Direcção-Geral dos Hospitais, que fixará os tipos de preparações farmacêuticas que podem ou devem ser executadas em cada um deles.
 
 § único. A autorização referida no número anterior será dada mediante vistoria prévia e pode ser retirada sempre que, posteriormente, se verifique a ausência das condições de funcionamento que forem fixadas em regulamento.
 
-###### Art. 8.º Em cada hospital ou organismo equivalente, os serviços farmacêuticos funcionam em ligação com os serviços clínicos e de enfermagem e estarão representados no conselho técnico, na comissão de farmácia e terapêutica e nas comissões de escolha e de recepção de drogas e medicamentos.
+Art. 8.º Em cada hospital ou organismo equivalente, os serviços farmacêuticos funcionam em ligação com os serviços clínicos e de enfermagem e estarão representados no conselho técnico, na comissão de farmácia e terapêutica e nas comissões de escolha e de recepção de drogas e medicamentos.
 
-###### Art. 9.º Os serviços farmacêuticos hospitalares receberão apoio e directivas dos serviços administrativos em matéria da competência destes, podendo funcionar junto dos serviços farmacêuticos secções dos serviços de abastecimentos ou de contabilidade.
+Art. 9.º Os serviços farmacêuticos hospitalares receberão apoio e directivas dos serviços administrativos em matéria da competência destes, podendo funcionar junto dos serviços farmacêuticos secções dos serviços de abastecimentos ou de contabilidade.
 
-###### Art. 10.º Os serviços farmacêuticos dos hospitais centrais e de outros hospitais ou organismos de categoria equivalente serão dirigidos por um farmacêutico com a categoria de director de serviço. Os serviços farmacêuticos dos hospitais regionais, sub-regionais ou outros de categoria equivalente serão dirigidos por chefes de serviço ou por primeiros ou segundos-químicos-farmacêuticos, conforme as dimensões técnicas de cada serviço.
+Art. 10.º Os serviços farmacêuticos dos hospitais centrais e de outros hospitais ou organismos de categoria equivalente serão dirigidos por um farmacêutico com a categoria de director de serviço. Os serviços farmacêuticos dos hospitais regionais, sub-regionais ou outros de categoria equivalente serão dirigidos por chefes de serviço ou por primeiros ou segundos-químicos-farmacêuticos, conforme as dimensões técnicas de cada serviço.
 
 § único. Nenhum farmacêutico poderá dirigir mais do que um serviço hospitalar, salvo tratando-se de postos de medicamentos cuja orientação técnica lhe seja atribuída nos termos deste diploma.
 
-###### Art. 11.º Não é permitido às farmácias ou serviços hospitalares vender medicamentos ao público, excepto:
+Art. 11.º Não é permitido às farmácias ou serviços hospitalares vender medicamentos ao público, excepto:
 
 a) Quando na localidade não exista farmácia particular;
 
@@ -172,51 +183,51 @@ b) Quando em situação de emergência individual ou colectiva, se apure não ha
 
 c) Quando as farmácias pertençam a Santas Casas da Misericórdia que já possuam alvará de venda ao público.
 
-###### Art. 12.º Os serviços farmacêuticos hospitalares que vendam medicamentos ao público devem sempre dar rigoroso cumprimento às disposições legais que regem o exercício das actividades farmacêuticas e às instruções da Direcção-Geral de Saúde, em matéria que seja da sua competência.
+Art. 12.º Os serviços farmacêuticos hospitalares que vendam medicamentos ao público devem sempre dar rigoroso cumprimento às disposições legais que regem o exercício das actividades farmacêuticas e às instruções da Direcção-Geral de Saúde, em matéria que seja da sua competência.
 
 ### CAPÍTULO III — Do pessoal dos serviços farmacêuticos hospitalares
 
-###### Art. 13.º O pessoal dos serviços farmacêuticos hospitalares divide-se em técnico e auxiliar. Pertencem ao pessoal técnico os farmacêuticos licenciados e os habilitados com o curso profissional; e ao pessoal auxiliar os indivíduos possuidores do curso ou do título de ajudantes de farmácia, de preparador de análises ou de auxiliar de manipulador.
+Art. 13.º O pessoal dos serviços farmacêuticos hospitalares divide-se em técnico e auxiliar. Pertencem ao pessoal técnico os farmacêuticos licenciados e os habilitados com o curso profissional; e ao pessoal auxiliar os indivíduos possuidores do curso ou do título de ajudantes de farmácia, de preparador de análises ou de auxiliar de manipulador.
 
 § único. Os quadros-tipo de pessoal técnico e auxiliar dos hospitais centrais do Estado ou de outros serviços que lhes vierem a ser equiparados vão anexos a este diploma.
 
-###### Art. 14.º Nos hospitais centrais e nos outros hospitais ou organismos de categoria equivalente, a habilitação para as categorias do pessoal técnico é adquirida em concurso de provas públicas, organizado nas condições genèricamente determinadas pela Direcção-Geral dos Hospitais, e realizado entre os profissionais da categoria imediatamente inferior com pelo menos três anos de exercício nela, ou entre os farmacêuticos com o diploma adequado, quando se tratar de ingresso no quadro.
+Art. 14.º Nos hospitais centrais e nos outros hospitais ou organismos de categoria equivalente, a habilitação para as categorias do pessoal técnico é adquirida em concurso de provas públicas, organizado nas condições genèricamente determinadas pela Direcção-Geral dos Hospitais, e realizado entre os profissionais da categoria imediatamente inferior com pelo menos três anos de exercício nela, ou entre os farmacêuticos com o diploma adequado, quando se tratar de ingresso no quadro.
 
 O provimento depende de concurso documental levado a efeito pelos hospitais interessados.
 
 § único. Os lugares de director de serviço serão providos por concurso documental de entre os chefes de serviço.
 
-###### Art. 15.º Os lugares de internos, químicos-farmacêuticos, chefes e directores de serviço só poderão ser providos por licenciados em farmácia.
+Art. 15.º Os lugares de internos, químicos-farmacêuticos, chefes e directores de serviço só poderão ser providos por licenciados em farmácia.
 
-###### Art. 16.º O provimento nas categorias de pessoal auxiliar efectua-se através de concursos de provas realizados nos hospitais com vagas para prover, a que podem concorrer os indivíduos com as habilitações legais.
+Art. 16.º O provimento nas categorias de pessoal auxiliar efectua-se através de concursos de provas realizados nos hospitais com vagas para prover, a que podem concorrer os indivíduos com as habilitações legais.
 
 § único. À categoria de preparador de laboratório farmacêutico deverá corresponder a habilitação mínima de preparador de análises.
 
-###### Art. 17.º Nos hospitais regionais e sub-regionais, a habilitação e provimento do pessoal técnico são feitos nos termos dos artigos anteriores. Mas, não havendo concorrentes, pode o provimento efectuar-se entre os licenciados em farmácia, mediante simples concurso documental organizado pelos hospitais interessados.
+Art. 17.º Nos hospitais regionais e sub-regionais, a habilitação e provimento do pessoal técnico são feitos nos termos dos artigos anteriores. Mas, não havendo concorrentes, pode o provimento efectuar-se entre os licenciados em farmácia, mediante simples concurso documental organizado pelos hospitais interessados.
 
 § único. Na impossibilidade de cumprimento do disposto neste artigo, poderão ser admitidos a concurso farmacêuticos habilitados com o curso profissional de farmácia.
 
-###### Art. 18.º Nos hospitais centrais e nos outros hospitais ou organismos equivalentes funcionará o internato farmacêutico, para aperfeiçoamento pós-universitário dos licenciados em farmácia e início da sua carreira hospitalar.
+Art. 18.º Nos hospitais centrais e nos outros hospitais ou organismos equivalentes funcionará o internato farmacêutico, para aperfeiçoamento pós-universitário dos licenciados em farmácia e início da sua carreira hospitalar.
 
 § único. O regulamento do internato farmacêutico será aprovado por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 19.º Os farmacêuticos hospitalares estão subordinados aos preceitos de deontologia profissional estabelecidos nos diplomas que regulam o exercício da profissão ou definidos pelos organismos corporativos que a enquadram.
+Art. 19.º Os farmacêuticos hospitalares estão subordinados aos preceitos de deontologia profissional estabelecidos nos diplomas que regulam o exercício da profissão ou definidos pelos organismos corporativos que a enquadram.
 
 ### CAPÍTULO IV — Disposições especiais e transitórias
 
-###### Art. 20.º Os serviços farmacêuticos hospitalares ficam sujeitos à orientação, coordenação e fiscalização da Direcção-Geral dos Hospitais, através do Serviço da Farmácia Hospitalar.
+Art. 20.º Os serviços farmacêuticos hospitalares ficam sujeitos à orientação, coordenação e fiscalização da Direcção-Geral dos Hospitais, através do Serviço da Farmácia Hospitalar.
 
-###### Art. 21.º Haverá um formulário hospitalar nacional de medicamentos, de uso obrigatório em todos os serviços farmacêuticos hospitalares.
+Art. 21.º Haverá um formulário hospitalar nacional de medicamentos, de uso obrigatório em todos os serviços farmacêuticos hospitalares.
 
 § único. A elaboração e actualização do referido formulário nacional incumbirá a uma comissão permanente, funcionando junto do Serviço da Medicina Hospitalar da Direcção-Geral dos Hospitais e constituída por delegados deste, do Serviço da Farmácia Hospitalar da mesma Direcção-Geral e do serviço técnico correspondente da Direcção-Geral de Saúde.
 
-###### Art. 22.º A Direcção-Geral dos Hospitais elaborará um regulamento-tipo de serviços farmacêuticos, adaptável às necessidades particulares de cada hospital ou organismo assistencial.
+Art. 22.º A Direcção-Geral dos Hospitais elaborará um regulamento-tipo de serviços farmacêuticos, adaptável às necessidades particulares de cada hospital ou organismo assistencial.
 
 § único. O referido regulamento-tipo será aprovado por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 23.º Os hospitais e outros organismos ou serviços a eles ligados devem organizar manuais de rotinas para informação dos departamentos hospitalares em ligação com os serviços farmacêuticos. Os referidos manuais conterão instruções de carácter técnico e administrativo sobre a requisição, conservação e consumo de medicamentos.
+Art. 23.º Os hospitais e outros organismos ou serviços a eles ligados devem organizar manuais de rotinas para informação dos departamentos hospitalares em ligação com os serviços farmacêuticos. Os referidos manuais conterão instruções de carácter técnico e administrativo sobre a requisição, conservação e consumo de medicamentos.
 
-###### Art. 24.º Nos hospitais centrais, especiais, regionais ou outros organismos de idêntica categoria funcionará uma comissão de farmácia e terapêutica, composta de médicos e farmacêuticos do quadro do hospital, à qual compete:
+Art. 24.º Nos hospitais centrais, especiais, regionais ou outros organismos de idêntica categoria funcionará uma comissão de farmácia e terapêutica, composta de médicos e farmacêuticos do quadro do hospital, à qual compete:
 
 a) Actuar como órgão consultivo e de ligação entre os serviços clínicos e farmacêuticos;
 
@@ -228,17 +239,17 @@ d) Elaborar a lista de medicamentos de urgência que devem existir nos serviços
 
 e) Elaborar as agendas privativas do formulário de medicamentos e o manual da farmácia.
 
-###### Art. 25.º O pessoal dos serviços farmacêuticos hospitalares actualmente em serviço que não satisfaça às condições exigidas por este diploma mantém os direitos, incluindo o de acesso, que possuía no momento de admissão.
+Art. 25.º O pessoal dos serviços farmacêuticos hospitalares actualmente em serviço que não satisfaça às condições exigidas por este diploma mantém os direitos, incluindo o de acesso, que possuía no momento de admissão.
 
-###### Art. 26.º São desde já substituídas as categorias de preparador de farmácia, ajudante de farmácia e auxiliar ou serventuário de farmácia, respectivamente pelas de preparador de laboratório farmacêutico, manipulador de farmácia e auxiliar de manipulador de farmácia.
+Art. 26.º São desde já substituídas as categorias de preparador de farmácia, ajudante de farmácia e auxiliar ou serventuário de farmácia, respectivamente pelas de preparador de laboratório farmacêutico, manipulador de farmácia e auxiliar de manipulador de farmácia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-## Anexo ao Decreto-Lei n.º 44204, desta data
+Anexo ao Decreto-Lei n.º 44204, desta data
 
 Quadros-tipo do pessoal de farmácia hospitalar
 

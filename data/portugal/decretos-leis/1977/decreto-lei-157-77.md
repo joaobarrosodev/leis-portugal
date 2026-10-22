@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08900/08550856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1977-139941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ba3c63167cf3ddf1ddf0618c2ff84b6455358747cf9c41a47a13c164d6c1381
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ace67a128d63b57f9c18ef3a78bfa47c4b4aed279127f95a2ab568c948020900
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Gabinete Governamental
+- Junta Geral
+- Madeira.ilha Adjacente
+- Ministro da República
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
+- Remuneração
+- Requisição de Pessoal
+- Serviços Administrativos
+- Serviços de Apoio ao Gabinete do Ministro da República
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:227236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407301:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325159:por
+  label: "Revogado o art. 1º, pelo DEC LEI.414/78.1978.12.20.PCM, DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1978-325159
+  date: '1978-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:18Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +125,9 @@ Dada a necessidade de fazer transitar para os novos quadros o pessoal pertencent
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 810/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/810-1976-407301), de 9 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 810/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/810-1976-407301), de 9 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1. O preenchimento dos lugares nos quadros a que se referem os artigos anteriores será feito por nomeação ou contrato de pessoal de qualquer serviço, mediante despacho do Ministro da República, depois de obtida a concordância do membro do Governo que superintenda nesse serviço, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
+Art. 3.º - 1. O preenchimento dos lugares nos quadros a que se referem os artigos anteriores será feito por nomeação ou contrato de pessoal de qualquer serviço, mediante despacho do Ministro da República, depois de obtida a concordância do membro do Governo que superintenda nesse serviço, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
 
 2. O lugar de encarregado das instalações será provido por indivíduos habilitados com o curso geral dos liceus ou equivalente ou por escolha do Ministro da República de entre os motoristas ou contínuos da ex-Junta Geral do Distrito que prestavam serviço no Governo Civil habilitados com a escolaridade obrigatória à data da admissão e que tenham mais de três anos de serviço.
 
@@ -107,14 +137,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5. Os vencimentos do pessoal a que se referem os n.os 1 e 3, a partir do momento em que se apresente ou seja admitido ao serviço do Gabinete do Ministro da República, serão pagos pela Presidência do Conselho de Ministros.
 
-###### Art. 2.º - 1. É extinto o quadro especial de pessoal criado pelo artigo 20.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro.
+Art. 2.º - 1. É extinto o quadro especial de pessoal criado pelo artigo 20.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro.
 
 2. O pessoal existente no quadro agora extinto será integrado no quadro do pessoal auxiliar criado pelo artigo 2.º do [Decreto-Lei n.º 810/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/810-1976-407301), de 9 de Novembro, mediante despacho do Ministro da República, visado pelo Tribunal de Contas e publicado no Diário da República, com efeitos a partir da data de entrada em vigor do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - Lino Dias Miguel.
 
-**Promulgado em 6 de Abril de 1977.**
+Promulgado em 6 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

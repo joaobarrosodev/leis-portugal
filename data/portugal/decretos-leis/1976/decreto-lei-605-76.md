@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17200/16701673.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1976-430656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7a0b24bae16c9297985b1abc2fd41ef27dbb3132b54815cdb4e80f0c56fa7ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a204f9481db00a58245e7cba43ce295fe34c444ac254657334357b0a072ea249
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casamento
+- Código Civil
+- Código do Processo Civil
+- Cônjuge
+- Custas Judiciais
+- Definição de Competências
+- Direito Civil
+- Direito de Família
+- Direito Privado
+- Divórcio
+- Falência
+- Inventário
+- Julgamento
+- Processo Civil
+- Processo Declarativo
+- Processo Judicial
+- Responsabilidade Civil
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286482:por
+  label: "Alterado o art. 1404.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.368/77.03.09.1977.MJ, DR.IS [204] de 03.09.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1977-286482
+  date: '1977-09-03'
+- type: amended_by
+  target: pt:dre:300030:por
+  label: "Alterados, a partir de 01.04.1978, os art.s 1786º, 1788º, 1794º e 1795º do Código Civil, aprovado pelo Dec Lei 47344,\
+    \ de 25-Nov de 1966, na redacção do presente diploma, pelo DEC LEI.496/77.25.11.1977.MJ, DR.IS [273-Supl] de 25.11.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/496-1977-300030
+  date: '1977-11-25'
+- type: amended_by
+  target: pt:dre:147384:por
+  label: "Alterados os arts.1419º, 1420º, 1421º, 1423º e 1424º, todos do Código de Processo Civil, aprovado pelo Dec Lei 44129,\
+    \ de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.513-X/79.27.12.1979.MJ, DR.IS [297-Supl] de 27.12.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-x-1979-147384
+  date: '1979-12-27'
+- type: amended_by
+  target: pt:dre:473526:por
+  label: "Alterado o art 1407.º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez 1961, DG.IS [299], pelo\
+    \ DEC LEI.207/80.01.07.1980.PCM, DR.IS [[149]] de 01.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1980-473526
+  date: '1980-07-01'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 1407.º e 1408.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na\
+    \ redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:141866:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:37Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +160,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1786.º, 1788.º, 1794.º e 1795.º do Código Civil passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1786.º, 1788.º, 1794.º e 1795.º do Código Civil passam a ter a seguinte redacção:
 
 ###### ARTIGO 1786.º — (Requisitos)
 
@@ -121,7 +180,7 @@ A separação por mútuo consentimento não será homologada definitivamente sem
 
 É aplicável ao divórcio por mútuo consentimento, com as necessárias adaptações, o disposto nos artigos 1786.º e 1788.º
 
-###### Art. 2.º Os artigos 1404.º a 1408.º e 1419.º, 1420.º, 1421.º, 1423.º e 1424.º do Código de Processo Civil passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1404.º a 1408.º e 1419.º, 1420.º, 1421.º, 1423.º e 1424.º do Código de Processo Civil passam a ter a seguinte redacção:
 
 ###### ARTIGO 1404.º — (Inventário em consequência de separação, divórcio, declaração de nulidade ou anulação de casamento)
 
@@ -249,12 +308,12 @@ b) Se não houver justificação e, decorridos trinta dias, nada for requerido p
 
 Os efeitos da sentença que decrete a separação ou o divórcio definitivos retrotraem-se, quanto aos bens e quanto às pessoas, à data em que foram autorizados a separação ou o divórcio provisórios.
 
-###### Art. 3.º O disposto no artigo 1788.º do Código Civil aplica-se às acções pendentes, designadamente àquelas em que estejam decretados o divórcio ou a separação provisórios.
+Art. 3.º O disposto no artigo 1788.º do Código Civil aplica-se às acções pendentes, designadamente àquelas em que estejam decretados o divórcio ou a separação provisórios.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

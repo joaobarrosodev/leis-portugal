@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44427-1962-164589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa23783fd9ba6fd965a802276fae3921ccf632ed998e69e0e6e0e1ddde99608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce51d163186c1f328de9cdd59936562797190bca25667266cb88bee551206048
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emigração
+- Emigrante
+- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:357279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:194237:por
+  label: "Tornado extensivo às províncias ultramarinas, pela PORT.19756.12.03.1963.MU, DG.IS [60] de 12.03.1963, com excepção\
+    \ dos seus art.s 7º e 8º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19756-1963-194237
+  date: '1963-03-12'
+- type: cites
+  target: pt:dre:288846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639157:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357279:por
+  label: "Revogado o § único do art. 3.º, os arts. 7.º e 8.º e a tabela anexa, pelo DEC LEI.438/88.29.11.1988.MAI, DR.IS [276]\
+    \ de 29.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1988-357279
+  date: '1988-11-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:21Z'
   warnings: []
   errors: []
 ---
@@ -95,35 +134,35 @@ Considerando, assim, a necessidade de definir as bases do regime de emigração 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei o seguinte:
 
-###### Artigo 1.º É livre a emigração dos cidadãos portugueses, sem prejuízo do disposto no artigo 31.º da Constituição Política e nas demais leis em vigor.
+Artigo 1.º É livre a emigração dos cidadãos portugueses, sem prejuízo do disposto no artigo 31.º da Constituição Política e nas demais leis em vigor.
 
 § único. Quando circunstâncias especiais o impuserem, o Governo, pelo Ministro do Interior, poderá determinar a suspensão total ou parcial da emigração para determinado país ou região.
 
-###### Art. 2.º Compete ao Ministro do Interior, com a audiência dos Ministérios interessados, conforme os casos, estabelecer, de harmonia com a evolução das circunstâncias, as normas relativas ao condicionamento da emigração.
+Art. 2.º Compete ao Ministro do Interior, com a audiência dos Ministérios interessados, conforme os casos, estabelecer, de harmonia com a evolução das circunstâncias, as normas relativas ao condicionamento da emigração.
 
-###### Art. 3.º Considera-se emigração a saída do País de indivíduos de nacionalidade portuguesa, originária ou adquirida, para se estabelecerem definitiva ou temporàriamente no estrangeiro, salvo nos casos exceptuados por lei.
+Art. 3.º Considera-se emigração a saída do País de indivíduos de nacionalidade portuguesa, originária ou adquirida, para se estabelecerem definitiva ou temporàriamente no estrangeiro, salvo nos casos exceptuados por lei.
 
 § único. Os portugueses que se proponham ausentar-se do território nacional nas condições a que se refere este artigo deverão ser portadores de passaporte de emigrante, a conceder nos termos do presente diploma e seu regulamento.
 
-###### Art. 4.º As disposições de protecção ao emigrante são de carácter tutelar e não podem ser renunciadas.
+Art. 4.º As disposições de protecção ao emigrante são de carácter tutelar e não podem ser renunciadas.
 
 § único. A acção tutelar do Estado em matéria de emigração exerce-se no País, desde que o emigrante inicia os actos preparatórios da sua saída do território nacional, durante as viagens do emigrante e ainda no estrangeiro.
 
-###### Art. 5.º O recrutamento, no País, de indivíduos de nacionalidade portuguesa para trabalharem no estrangeiro depende de autorização da Junta, da Emigração, mediante parecer favorável da Direcção-Geral do Trabalho e Corporações.
+Art. 5.º O recrutamento, no País, de indivíduos de nacionalidade portuguesa para trabalharem no estrangeiro depende de autorização da Junta, da Emigração, mediante parecer favorável da Direcção-Geral do Trabalho e Corporações.
 
 § único. As bases dos contratos de trabalho necessários para a concessão de passaporte de emigrante trabalhadores recrutados nos termos deste artigo ficam sujeitas a aprovação pelo Ministério das Corporações e Previdência Social.
 
-###### Art. 6.º Os representantes diplomáticos e consulares procurarão fazer respeitar os direitos dos emigrantes nos territórios onde exerçam o seu cargo, prestando-lhes concurso, especialmente no sentido de que as pessoas, companhias ou empresas por conta de quem foram chamados ou contratados cumpram as obrigações legais e contratuais que tenham assumido.
+Art. 6.º Os representantes diplomáticos e consulares procurarão fazer respeitar os direitos dos emigrantes nos territórios onde exerçam o seu cargo, prestando-lhes concurso, especialmente no sentido de que as pessoas, companhias ou empresas por conta de quem foram chamados ou contratados cumpram as obrigações legais e contratuais que tenham assumido.
 
 § único. Os autos levantados pelas autoridades referidas neste artigo, respeitantes a factos pelas mesmas verificados em matéria de emigração, fazem fé em juízo até prova em contrário.
 
-###### Art. 7.º O custo dos passaportes para emigrantes é o constante da tabela anexa a este diploma e pela sua concessão não é devida outra importância, a qualquer título.
+Art. 7.º O custo dos passaportes para emigrantes é o constante da tabela anexa a este diploma e pela sua concessão não é devida outra importância, a qualquer título.
 
-###### Art. 8.º Quando o emigrante não satisfaça o custo dos passaportes emitidos, proceder-se-á à cobrança pelo processo estabelecido no artigo 5.º do [Decreto n.º 17730](https://diariodarepublica.pt/dr/detalhe/decreto/17730-1929-288846), de 7 de Dezembro de 1929.
+Art. 8.º Quando o emigrante não satisfaça o custo dos passaportes emitidos, proceder-se-á à cobrança pelo processo estabelecido no artigo 5.º do [Decreto n.º 17730](https://diariodarepublica.pt/dr/detalhe/decreto/17730-1929-288846), de 7 de Dezembro de 1929.
 
-###### Art. 9.º Ficam revogados: o Decreto com força de lei n.º 5624, de 10 de Maio de 1919, com excepção do artigo 27.º, o [Decreto n.º 5886](https://diariodarepublica.pt/dr/detalhe/decreto/5886-1919-364298), de 19 de Junho de 1919, com excepção do artigo 68.º, o [Decreto n.º 34330](https://diariodarepublica.pt/dr/detalhe/decreto/34330-1944-568709), de 27 de Dezembro de 1944, o [Decreto-Lei n.º 36199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36199-1947-414782), de 29 de Março de 1947, e o artigo 30.º do [Decreto n.º 39794](https://diariodarepublica.pt/dr/detalhe/decreto/39794-1954-639157), de 28 de Agosto de 1954.
+Art. 9.º Ficam revogados: o Decreto com força de lei n.º 5624, de 10 de Maio de 1919, com excepção do artigo 27.º, o [Decreto n.º 5886](https://diariodarepublica.pt/dr/detalhe/decreto/5886-1919-364298), de 19 de Junho de 1919, com excepção do artigo 68.º, o [Decreto n.º 34330](https://diariodarepublica.pt/dr/detalhe/decreto/34330-1944-568709), de 27 de Dezembro de 1944, o [Decreto-Lei n.º 36199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36199-1947-414782), de 29 de Março de 1947, e o artigo 30.º do [Decreto n.º 39794](https://diariodarepublica.pt/dr/detalhe/decreto/39794-1954-639157), de 28 de Agosto de 1954.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Fogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

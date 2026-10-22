@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/07/17400/09250925.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45830-1964-579496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb0f182d0ea9bba4531754d4978a2f33554d25db4fa00e33ed6c4b5009e1434f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c284fa33f6a2e5c16919ae6f3df5077cfee489df3f5a67ef0b47cae4f65c444
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Corporativa
+- Procurador da República
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:216969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:216969:por
+  label: "Revogado pelo DEC LEI.49384.18.11.1969.PC, DG.IS [270] de 18.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49384-1969-216969
+  date: '1969-11-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:58Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +99,13 @@ Tendo em vista o disposto na base VII, n.º II, da Lei Orgânica do Ultramar e n
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º Será de onze o número de procuradores à Câmara Corporativa a designar pelos conselhos económicos e sociais e pelos conselhos de governo das províncias ultramarinas, na proporção de dois por cada província de governo-geral e um por cada província de governo simples.
+Artigo 1.º Será de onze o número de procuradores à Câmara Corporativa a designar pelos conselhos económicos e sociais e pelos conselhos de governo das províncias ultramarinas, na proporção de dois por cada província de governo-geral e um por cada província de governo simples.
 
 § único. Enquanto se mantiver a actual situação do Estado da Índia os procuradores desta província serão designados pelo Ministro do Ultramar.
 
-###### Art. 2.º A distribuição dos procuradores representantes das províncias ultramarinas pelas secções e subsecções da Câmara compete ao Conselho Corporativo.
+Art. 2.º A distribuição dos procuradores representantes das províncias ultramarinas pelas secções e subsecções da Câmara compete ao Conselho Corporativo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15800/16841685.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1981-580161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab843e089ecb7a45145fa8b37e2c16daa49e69f130d5579b2146f460c2fe0901
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fbd6644c6f1218a8b9953ac8d8fe143ef264bb478cc4c1a0894c074274a0fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Regime de Prescrição
 relationships:
 - type: amended_by
   target: pt:dre:441520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUSPENSA A APLICACACAO DESTE DIPLOMA, PELO DECRETO LEI NUMERO 384/83, PUBLICADO NO DIARIO DA REPUBLICA PRIMEIRA\
+    \ SERIE NUMERO 238 DE 15/10/83.a\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-10-15'
+- type: amended_by
+  target: pt:dre:441520:por
+  label: "Determinada a suspensão, até 31.01.1984, da aplicação do presente diploma, pelo DEC LEI.384/83.15.10.1983.ME, DR.IS\
+    \ [238] de 15.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1983-441520
+  date: '1983-10-15'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI NUMERO 289/86, PUBLICADO NO DIARIO DA REPUBLICA PRIMEIRA SERIE, NUMERO 206, DE 08/09/86.N\0\
+    N\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-09-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:43Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +120,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O número máximo de anos lectivos em que cada aluno se pode inscrever, consecutiva ou interpoladamente, no ensino superior público é igual ao número de anos lectivos de duração normal do curso acrescido de 50% daquele número, com arredondamento para a unidade superior, ou de 100%, no caso de se tratar de estudante-trabalhador.
+Artigo 1.º - 1 - O número máximo de anos lectivos em que cada aluno se pode inscrever, consecutiva ou interpoladamente, no ensino superior público é igual ao número de anos lectivos de duração normal do curso acrescido de 50% daquele número, com arredondamento para a unidade superior, ou de 100%, no caso de se tratar de estudante-trabalhador.
 
 2 - Quando se verifique pedido de mudança de curso, o número máximo de anos lectivos em que cada aluno se pode inscrever, consecutiva ou interpoladamente, será igual à diferença entre o número máximo de inscrições no curso para que pretende mudar, calculado nos termos do número anterior, e o número total de inscrições já feitas no ensino superior acrescido de uma unidade.
 
@@ -114,23 +134,23 @@ b) Nos cursos cujos planos não se encontrem estruturados em anos e ou semestres
 
 c) Nos planos de estudo individuais, a duração que for fixada pela entidade que os estabelecer.
 
-###### Art. 2.º - 1 - Prescreve o aluno em relação ao qual, no final de um ano lectivo, se verifique a impossibilidade de completar o curso nos termos do disposto no artigo anterior.
+Art. 2.º - 1 - Prescreve o aluno em relação ao qual, no final de um ano lectivo, se verifique a impossibilidade de completar o curso nos termos do disposto no artigo anterior.
 
 2 - O disposto no número anterior aplica-se igualmente aos cursos exclusivamente organizados em regime de escolaridade semestral.
 
-###### Art. 3.º Os alunos que prescreverem não poderão proceder à matrícula e inscrição em qualquer estabelecimento de ensino superior público nos três anos lectivos subsequentes àquele em que ocorrer a prescrição.
+Art. 3.º Os alunos que prescreverem não poderão proceder à matrícula e inscrição em qualquer estabelecimento de ensino superior público nos três anos lectivos subsequentes àquele em que ocorrer a prescrição.
 
-###### Art. 4.º Findo o prazo referido no artigo anterior, o interessado poderá reingressar no ensino superior nos termos da lei geral.
+Art. 4.º Findo o prazo referido no artigo anterior, o interessado poderá reingressar no ensino superior nos termos da lei geral.
 
-###### Art. 5.º Em caso de reingresso no ensino superior ao abrigo do artigo anterior, o número máximo de anos lectivos em que o aluno se pode inscrever é igual ao número de anos lectivos em falta para conclusão do curso acrescido de 50% desse número, com arredondamento para a unidade superior, ou de 100%, no caso de se tratar de estudante-trabalhador.
+Art. 5.º Em caso de reingresso no ensino superior ao abrigo do artigo anterior, o número máximo de anos lectivos em que o aluno se pode inscrever é igual ao número de anos lectivos em falta para conclusão do curso acrescido de 50% desse número, com arredondamento para a unidade superior, ou de 100%, no caso de se tratar de estudante-trabalhador.
 
-###### Art. 6.º - 1 - Aos diplomados com um curso superior que ingressem noutro curso superior público tendo aquele como habilitação de acesso é aplicável o disposto no artigo anterior, com exclusão do regime próprio dos estudantes-trabalhadores.
+Art. 6.º - 1 - Aos diplomados com um curso superior que ingressem noutro curso superior público tendo aquele como habilitação de acesso é aplicável o disposto no artigo anterior, com exclusão do regime próprio dos estudantes-trabalhadores.
 
 2 - Aos estudantes que, nos termos da lei geral, ingressem no ensino superior público provenientes de outras instituições de ensino superior, nacionais ou estrangeiras, é aplicável o disposto no artigo anterior.
 
-###### Art. 7.º Aos alunos que se encontrem nas condições previstas no n.º 1 do artigo 2.º do presente diploma e a quem não faltem mais de três cadeiras anuais ou seis semestrais para concluir o respectivo curso poderá, sempre que circunstâncias especiais o aconselhem, após audição dos conselhos científico e pedagógico, ser autorizada, por uma só vez, nova inscrição pelo reitor ou, no caso de estabelecimentos de ensino superior não integrados em universidade ou instituto universitário, pelo presidente do respectivo conselho directivo.
+Art. 7.º Aos alunos que se encontrem nas condições previstas no n.º 1 do artigo 2.º do presente diploma e a quem não faltem mais de três cadeiras anuais ou seis semestrais para concluir o respectivo curso poderá, sempre que circunstâncias especiais o aconselhem, após audição dos conselhos científico e pedagógico, ser autorizada, por uma só vez, nova inscrição pelo reitor ou, no caso de estabelecimentos de ensino superior não integrados em universidade ou instituto universitário, pelo presidente do respectivo conselho directivo.
 
-###### Art. 8.º - 1 - A aplicação do regime de prescrição especialmente previsto neste diploma para estudantes-trabalhadores será regulamentada por portaria do Ministro da Educação e Ciência, onde se fixarão, designadamente, as características e meios de prova da condição de estudante-trabalhador, seu início e cessação.
+Art. 8.º - 1 - A aplicação do regime de prescrição especialmente previsto neste diploma para estudantes-trabalhadores será regulamentada por portaria do Ministro da Educação e Ciência, onde se fixarão, designadamente, as características e meios de prova da condição de estudante-trabalhador, seu início e cessação.
 
 2 - Para efeitos de cálculo do número de inscrições correspondente no novo regime às inscrições já feitas no regime anterior, quando se verifique a passagem do regime de prescrição normal para o regime de prescrição dos estudantes-trabalhadores, e vice-versa, aplicar-se-á a seguinte fórmula, cujo resultado, quando não inteiro, será arredondado à unidade mais próxima:
 
@@ -144,18 +164,18 @@ C - Número de inscrições do estudante não trabalhador;
 
 D - Número máximo de inscrições no curso pelo regime dos estudantes-trabalhadores.
 
-###### Art. 9.º Os alunos que à data da entrada em vigor do presente diploma se encontrem inscritos no ensino superior público deverão concluir os respectivos cursos no número máximo de anos lectivos que resultar da aplicação da regra constante do artigo 5.º sob pena de incorrerem em prescrição, nos termos do presente diploma.
+Art. 9.º Os alunos que à data da entrada em vigor do presente diploma se encontrem inscritos no ensino superior público deverão concluir os respectivos cursos no número máximo de anos lectivos que resultar da aplicação da regra constante do artigo 5.º sob pena de incorrerem em prescrição, nos termos do presente diploma.
 
-###### Art. 10.º Fica revogada toda a legislação geral e especial que regula a matéria contida no presente diploma.
+Art. 10.º Fica revogada toda a legislação geral e especial que regula a matéria contida no presente diploma.
 
-###### Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência.
+Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência.
 
-###### Art. 12.º O disposto no presente diploma aplica-se a partir do início do ano escolar de 1981-1982.
+Art. 12.º O disposto no presente diploma aplica-se a partir do início do ano escolar de 1981-1982.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1981. - Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
 
-**Promulgado em 1 de Julho de 1981.**
+Promulgado em 1 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República. ANTÓNIO RAMALHO EANES.**
+O Presidente da República. ANTÓNIO RAMALHO EANES.

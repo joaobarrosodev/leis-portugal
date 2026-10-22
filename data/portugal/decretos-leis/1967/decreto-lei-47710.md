@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/05/11700/10761082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f491dcf75b7785271090c84e164b2c9b5199f883d98ff3aa6d15c98f7d5218d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8112cb150ad06271d86f5d0c824a2d104974894762756d0097bee402cb6b259a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento
+- Leite
 relationships:
 - type: amended_by
   target: pt:dre:152367:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693601:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:314378:por
+  label: "Rectificado o § 2º do art. 2º, o § 2º do art. 5º e o art. 22º do presente diploma, pela RECT.DD544.14.07.1967.PC,\
+    \ DG.IS [163] de 14.07.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-314378
+  date: '1967-07-14'
+- type: repealed_by
+  target: pt:dre:382612:por
+  label: "Revogadas as normas constantes dos capítulos I e IV, pelo DEC LEI.138/79.1979.05.18.MAP, DR.IS [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1979-382612
+  date: '1979-05-18'
+- type: repealed_by
+  target: pt:dre:152367:por
+  label: "Revogados os caps. II e III pelo DEC LEI.148/85.1985.05.08.MA, DR.IS [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1985-152367
+  date: '1985-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:13Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +177,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Da produção
 
-###### Artigo 1.º É atribuída à organização corporativa da lavoura, em conformidade com as normas estabelecidas no presente diploma, a função de recolha e concentração do leite destinado ao abastecimento público em natureza e à indústria.
+Artigo 1.º É atribuída à organização corporativa da lavoura, em conformidade com as normas estabelecidas no presente diploma, a função de recolha e concentração do leite destinado ao abastecimento público em natureza e à indústria.
 
 § 1.º Sempre que circunstâncias económicas e financeiras o justifiquem, a organização corporativa poderá utilizar o serviço de empresas privadas para o exercício da função a que se refere este artigo, mediante concurso e nas condições que vierem a ser estabelecidas em contrato, por períodos não superiores a cinco anos.
 
@@ -131,7 +185,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Onde estiver organizada a recolha e concentração do leite, o produtor é obrigado a entregar o leite destinado ao abastecimento público ou à indústria nos postos existentes para esse fim.
 
-###### Art. 2.º O leite entregue pela produção será pago nos postos de recepção pelo preço que vier a ser fixado pelo Secretário de Estado do Comércio e posto à venda nos postos de concentração com base no preço que resultar do acréscimo de encargos derivados das operações inerentes à recolha e concentração.
+Art. 2.º O leite entregue pela produção será pago nos postos de recepção pelo preço que vier a ser fixado pelo Secretário de Estado do Comércio e posto à venda nos postos de concentração com base no preço que resultar do acréscimo de encargos derivados das operações inerentes à recolha e concentração.
 
 § 1.º O pagamento do leite efectuar-se-á em função das suas características, das condições de produção da região e da época do ano em que é produzido.
 
@@ -139,7 +193,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º As normas referidas no parágrafo anterior indicarão, para as várias regiões de diferente estádio de evolução, os limites mínimos de exigência de características higio-sanitárias do leite, quer nos postos de recepção, quer nos de concentração.
 
-###### Art. 3.º No exercício das funções cometidas nos termos do artigo 1.º, compete à organização corporativa da lavoura:
+Art. 3.º No exercício das funções cometidas nos termos do artigo 1.º, compete à organização corporativa da lavoura:
 
 a) Instalar, manter e explorar postos de recepção e concentração;
 
@@ -175,13 +229,13 @@ e) Proceder ao tratamento térmico e ao acondicionamento em embalagens individua
 
 § 3.º A Direcção-Geral dos Serviços Pecuários prestará assistência técnica aos serviços mencionados na alínea b) deste artigo, elaborando os regulamentos necessários à sua actividade, os quais serão aprovados pelo Secretário de Estado da Agricultura.
 
-###### Art. 4.º A competência dada à organização corporativa da lavoura nos termos deste diploma será exercida pelas federações de grémios da lavoura, cabendo aos grémios proceder à instalação dos postos de recepção e assegurar o seu funcionamento.
+Art. 4.º A competência dada à organização corporativa da lavoura nos termos deste diploma será exercida pelas federações de grémios da lavoura, cabendo aos grémios proceder à instalação dos postos de recepção e assegurar o seu funcionamento.
 
 § 1.º Nas ilhas adjacentes, enquanto não forem criadas as federações, a competência a que se refere este artigo será exercida pelos grémios da lavoura distritais.
 
 § 2.º O licenciamento dos postos de recepção e concentração far-se-á nos termos da legislação em vigor, efectuando-se em nome dos grémios da lavoura no que respeita aos postos de recepção, os quais serão averbados às cooperativas de produtores quando estas actuem nos termos previstos no artigo 5.º
 
-###### Art. 5.º Os actos em que se traduz o exercício da competência dada à organização corporativa da lavoura por força do artigo 1.º do presente diploma deverão ser praticados, no todo ou em parte, pelas cooperativas de produtores ou suas uniões, sempre que estas possuam dimensão económica suficiente e disponham, além de capacidade técnica e financeira adequada, de posição regional relevante quanto ao número de produtores e ao volume de leite correspondente.
+Art. 5.º Os actos em que se traduz o exercício da competência dada à organização corporativa da lavoura por força do artigo 1.º do presente diploma deverão ser praticados, no todo ou em parte, pelas cooperativas de produtores ou suas uniões, sempre que estas possuam dimensão económica suficiente e disponham, além de capacidade técnica e financeira adequada, de posição regional relevante quanto ao número de produtores e ao volume de leite correspondente.
 
 § 1.º No exercício destas funções, as cooperativas e suas uniões poderão actuar em relação a todos os produtores da sua área de influência, inscritas no grémio ou grémios da lavoura respectivos, não obstante só lhes ficar a pertencer o leite que recolham dos seus associados.
 
@@ -191,35 +245,35 @@ e) Proceder ao tratamento térmico e ao acondicionamento em embalagens individua
 
 § 4.º As cooperativas e suas uniões são responsáveis perante a organização corporativa da lavoura pelos actos que praticarem de acordo com o disposto neste artigo.
 
-###### Art. 6.º O estabelecimento da rede de postos a que se refere o artigo 3.º depende de aprovação do Secretário de Estado da Agricultura, mediante parecer da Direcção-Geral dos Serviços Pecuários, após ter sido efectuado, em cada região, o estudo competente, pela organização corporativa da lavoura, sob a orientação e assistência da Direcção-Geral dos Serviços Agrícolas.
+Art. 6.º O estabelecimento da rede de postos a que se refere o artigo 3.º depende de aprovação do Secretário de Estado da Agricultura, mediante parecer da Direcção-Geral dos Serviços Pecuários, após ter sido efectuado, em cada região, o estudo competente, pela organização corporativa da lavoura, sob a orientação e assistência da Direcção-Geral dos Serviços Agrícolas.
 
 § 1.º O estudo previsto neste artigo conterá os dados necessários para apreciação da viabilidade técnica e económica da exploração, a indicação dos postos considerados necessários, sua localização, área de influência e laboração provável, discriminando-se os novos postos, os já existentes susceptíveis de serem enquadrados na rede e os que deverão ser encerrados.
 
 § 2.º No despacho de aprovação a que se refere este artigo será fixado o prazo em que os postos deverão entrar em funcionamento.
 
-###### Art. 7.º Quando for considerada conveniente a utilização pela organização corporativa da lavoura de postos de recepção e concentração que anteriormente eram explorados por empresas industriais ou comerciais, aquela negociará com os interessados as condições em que essa utilização se deverá efectuar.
+Art. 7.º Quando for considerada conveniente a utilização pela organização corporativa da lavoura de postos de recepção e concentração que anteriormente eram explorados por empresas industriais ou comerciais, aquela negociará com os interessados as condições em que essa utilização se deverá efectuar.
 
 § 1.º Se as entidades referidas neste artigo não chegarem a acordo dentro do prazo que for determinado nos termos do § 2.º do artigo 6.º, as divergências serão resolvidas e a solução será adoptada por uma comissão arbitral constituída por três árbitros, um designado pelo Ministério da Justiça e os outros dois pelas Corporações da Lavoura e da Indústria, servindo o primeiro de presidente.
 
 § 2.º Enquanto não se verificar a utilização dos postos previstos neste artigo, a organização corporativa da lavoura deverá tomar as providências necessárias por forma a garantir o funcionamento da rede, designadamente pela ocupação dos postos, mediante retribuição a fixar posteriormente pelos árbitros referidos no parágrafo anterior.
 
-###### Art. 8.º Os postos que não forem integrados na rede aprovada não poderão continuar em funcionamento, tendo as entidades que os exploram direito a uma indemnização que será estabelecida por acordo com a organização corporativa da lavoura ou, na falta de acordo, fixada pelos árbitros indicados no § 1.º do artigo anterior.
+Art. 8.º Os postos que não forem integrados na rede aprovada não poderão continuar em funcionamento, tendo as entidades que os exploram direito a uma indemnização que será estabelecida por acordo com a organização corporativa da lavoura ou, na falta de acordo, fixada pelos árbitros indicados no § 1.º do artigo anterior.
 
-###### Art. 9.º O equipamento dos postos pertencentes a empresas industriais ou comerciais, quer venham ou não a ser aproveitados pela organização corporativa da lavoura, poderá ser adquirido ou utilizado por esta nos termos que vierem a ser acordados com as entidades suas proprietárias.
+Art. 9.º O equipamento dos postos pertencentes a empresas industriais ou comerciais, quer venham ou não a ser aproveitados pela organização corporativa da lavoura, poderá ser adquirido ou utilizado por esta nos termos que vierem a ser acordados com as entidades suas proprietárias.
 
 § único. Se as entidades referidas neste artigo não chegarem a acordo ou o equipamento não for utilizado, a comissão arbitral a que se refere o § 1.º do artigo 7.º pronunciar-se-á sobre as condições da sua utilização ou sobre a indemnização a conceder, se a ela houver lugar.
 
-###### Art. 10.º Os postos não enquadrados na rede que continuem a laborar para além do prazo determinado no § 2.º do artigo 6.º serão encerrados pela Inspecção-Geral das Actividades Económicas, perdendo o direito a qualquer indemnização.
+Art. 10.º Os postos não enquadrados na rede que continuem a laborar para além do prazo determinado no § 2.º do artigo 6.º serão encerrados pela Inspecção-Geral das Actividades Económicas, perdendo o direito a qualquer indemnização.
 
-###### Art. 11.º A organização corporativa da lavoura deverá adquirir ou utilizar, sempre que as empresas industriais ou comerciais o desejem, os veículos de que estas dispunham para transporte de leite e que deixaram de ter aplicação em consequência do estabelecimento da rede única prevista no artigo 3.º, desde que sejam necessários para o exercício das funções que lhe são cometidas por este diploma.
+Art. 11.º A organização corporativa da lavoura deverá adquirir ou utilizar, sempre que as empresas industriais ou comerciais o desejem, os veículos de que estas dispunham para transporte de leite e que deixaram de ter aplicação em consequência do estabelecimento da rede única prevista no artigo 3.º, desde que sejam necessários para o exercício das funções que lhe são cometidas por este diploma.
 
 § único. Quando a organização corporativa da lavoura não aceitar as propostas das empresas referidas no corpo deste artigo, a corporação da lavoura, se concordar com a recusa, submeterá o caso à apreciação do Ministro da Economia, com a indicação das razões invocadas.
 
-###### Art. 12.º Na hipótese prevista no artigo 5.º, a repartição dos encargos e outras responsabilidades resultantes da exploração de postos de recepção e concentração será efectuada por acordo entre a organização corporativa da lavoura e as cooperativas ou suas uniões e, quando este não se verifique, decidirá o Secretário de Estado da Agricultura.
+Art. 12.º Na hipótese prevista no artigo 5.º, a repartição dos encargos e outras responsabilidades resultantes da exploração de postos de recepção e concentração será efectuada por acordo entre a organização corporativa da lavoura e as cooperativas ou suas uniões e, quando este não se verifique, decidirá o Secretário de Estado da Agricultura.
 
 ### CAPÍTULO II — Do abastecimento
 
-###### Art. 13.º A Comissão de Abastecimento de Leite, que funciona na Junta Nacional dos Produtos Pecuários, com apoio nos serviços respectivos da produção e comércio de lacticínios, sob a presidência do presidente da Junta, tendo como assessor o director daqueles serviços, será constituída por um representante de cada uma das seguintes entidades:
+Art. 13.º A Comissão de Abastecimento de Leite, que funciona na Junta Nacional dos Produtos Pecuários, com apoio nos serviços respectivos da produção e comércio de lacticínios, sob a presidência do presidente da Junta, tendo como assessor o director daqueles serviços, será constituída por um representante de cada uma das seguintes entidades:
 
 Ministério do Interior (em representação dos municípios);
 
@@ -243,7 +297,7 @@ Corporação da Indústria.
 
 § 3.º O presidente da Junta será substituído, nas suas faltas e impedimentos, por um dos vice-presidentes.
 
-###### Art. 14.º À Comissão de Abastecimento de Leite compete:
+Art. 14.º À Comissão de Abastecimento de Leite compete:
 
 a) Assegurar a execução das normas estabelecidas e conducentes à valorização do leite e derivados, bem como ao fomento da produção leiteira, propondo as providências de ordem legislativa e administrativa consideradas necessárias a essa execução;
 
@@ -275,11 +329,11 @@ n) Dar parecer sobre quaisquer outros assuntos que sejam submetidos à sua aprec
 
 § único. No exercício das funções a que se refere a alínea c) deste artigo, a Comissão de Abastecimento de Leite, através da Junta Nacional dos Produtos Pecuários, poderá promover a requisição do leite em poder das entidades que tenham procedido à sua recolha.
 
-###### Art. 15.º A Comissão reunirá obrigatòriamente uma vez por mês e sempre que o presidente a convocar, por sua iniciativa ou a pedido de alguns dos seus membros, devendo ficar exarados os pareceres respectivos nas actas respeitantes às deliberações sujeitas à apreciação superior.
+Art. 15.º A Comissão reunirá obrigatòriamente uma vez por mês e sempre que o presidente a convocar, por sua iniciativa ou a pedido de alguns dos seus membros, devendo ficar exarados os pareceres respectivos nas actas respeitantes às deliberações sujeitas à apreciação superior.
 
 § único. A Comissão poderá reunir em sessões plenárias ou com os membros que forem convocados pelo presidente, devendo, neste caso, as deliberações tomadas ser levadas ao conhecimento de todos os membros na reunião plenária seguinte.
 
-###### Art. 16.º As deliberações da Comissão de Abastecimento de Leite serão tomadas por maioria de votos dos vogais presentes.
+Art. 16.º As deliberações da Comissão de Abastecimento de Leite serão tomadas por maioria de votos dos vogais presentes.
 
 § 1.º Em caso de empate, o presidente tem voto de qualidade.
 
@@ -287,9 +341,9 @@ n) Dar parecer sobre quaisquer outros assuntos que sejam submetidos à sua aprec
 
 § 3.º Das deliberações da Comissão de Abastecimento de Leite cabe recurso, no prazo de dez dias, para o Secretário de Estado do Comércio.
 
-###### Art. 17.º As disponibilidades de leite em natureza serão utilizadas de modo a satisfazer, em primeiro lugar, o abastecimento dos centros de consumo, aos preços que vierem a ser fixados, para as diversas regiões, em despacho do Secretário de Estado do Comércio.
+Art. 17.º As disponibilidades de leite em natureza serão utilizadas de modo a satisfazer, em primeiro lugar, o abastecimento dos centros de consumo, aos preços que vierem a ser fixados, para as diversas regiões, em despacho do Secretário de Estado do Comércio.
 
-###### Art. 18.º O abastecimento de leite em natureza será efectuado, em conformidade com planos aprovados pelo Secretário de Estado do Comércio, por associações cooperativas de produtores, por empresas industriais e comerciais ou ainda pela organização corporativa da lavoura, quando for considerado econòmicamente conveniente.
+Art. 18.º O abastecimento de leite em natureza será efectuado, em conformidade com planos aprovados pelo Secretário de Estado do Comércio, por associações cooperativas de produtores, por empresas industriais e comerciais ou ainda pela organização corporativa da lavoura, quando for considerado econòmicamente conveniente.
 
 § 1.º As entidades referidas neste artigo deverão submeter a parecer da Comissão de Abastecimento de Leite os seus planos de abastecimento, indicando as condições em que a actividade será exercida, durante que prazo, os preços a praticar nos postos de concentração e ao consumo, os tipos, marcas e quantidades de leite a distribuir, os centros abrangidos e a rede de distribuição a utilizar.
 
@@ -297,7 +351,7 @@ n) Dar parecer sobre quaisquer outros assuntos que sejam submetidos à sua aprec
 
 § 3.º A organização corporativa da lavoura terá de assegurar às empresas autorizadas a proceder ao abastecimento de leite em natureza, nos termos deste artigo, as quantidades mínimas diárias de leite por ela recolhido que se mostrem indispensáveis ao cumprimento das condições estabelecidas.
 
-###### Art. 19.º Para o exercício da actividade a que se refere o artigo anterior, as entidades nele mencionadas poderão instalar, manter e explorar estações de tratamento e postos de abastecimento.
+Art. 19.º Para o exercício da actividade a que se refere o artigo anterior, as entidades nele mencionadas poderão instalar, manter e explorar estações de tratamento e postos de abastecimento.
 
 § 1.º As estações de tratamento destinam-se à realização das operações de pasteurização, esterilização ou tratamento do leite por qualquer processo autorizado, bem como à preparação de produtos complementares do abastecimento de leite em natureza, e devem obedecer às características que vierem a ser aprovadas pelo Secretário de Estado da Agricultura, mediante parecer da Direcção-Geral dos Serviços Pecuários e da Direcção-Geral de Saúde.
 
@@ -307,21 +361,21 @@ n) Dar parecer sobre quaisquer outros assuntos que sejam submetidos à sua aprec
 
 § 4.º As entidades autorizadas a realizar abastecimento deverão utilizar as estações de tratamento e os postos de abastecimento existentes, desde que estes possuam capacidade e as demais condições técnicas requeridas, mediante justa retribuição, que, na falta de acordo entre os interessados, será fixada pela comissão arbitral referida no § 1.º do artigo 7.º
 
-###### Art. 20.º Quando intervier directamente no abastecimento e sempre que as empresas industriais e comerciais o desejem, a organização corporativa da lavoura deverá utilizar as estações de tratamento destas entidades que reúnam as condições técnicas necessárias, nos termos e mediante a retribuição que forem estabelecidos por acordo entre as partes interessadas.
+Art. 20.º Quando intervier directamente no abastecimento e sempre que as empresas industriais e comerciais o desejem, a organização corporativa da lavoura deverá utilizar as estações de tratamento destas entidades que reúnam as condições técnicas necessárias, nos termos e mediante a retribuição que forem estabelecidos por acordo entre as partes interessadas.
 
 § 1.º Na hipótese de a organização corporativa da lavoura não aceitar as propostas que lhe forem apresentadas pelas empresas referidas no corpo deste artigo, a Corporação da Lavoura, se concordar com a recusa, submeterá o caso à apreciação do Secretário de Estado do Comércio, com a indicação das razões invocadas.
 
 § 2.º As empresas industriais e comerciais cujas instalações sejam utilizadas pela organização corporativa da lavoura não poderão proceder ao alargamento das suas instalações invocando tal utilização, a menos que, para o efeito, tenham sido expressamente autorizadas por despacho conjunto dos Secretários de Estado da Agricultura e da Indústria.
 
-###### Art. 21.º Sempre que se verifiquem deficiências no abastecimento de leite em natureza resultantes de alterações das necessidades e exigências dos vários tipos de consumo, os planos referidos no artigo 18.º serão revistos pela Comissão de Abastecimento de Leite e as soluções propostas submetidas à aprovação do Secretário de Estado do Comércio.
+Art. 21.º Sempre que se verifiquem deficiências no abastecimento de leite em natureza resultantes de alterações das necessidades e exigências dos vários tipos de consumo, os planos referidos no artigo 18.º serão revistos pela Comissão de Abastecimento de Leite e as soluções propostas submetidas à aprovação do Secretário de Estado do Comércio.
 
 § único. Quando as deficiências resultem da actuação das entidades encarregadas do abastecimento ou sejam da sua exclusiva responsabilidade, poderá ser retirada a autorização concedida no despacho do Secretário de Estado do Comércio a que se alude no artigo anterior.
 
-###### Art. 22.º No caso de o abastecimento de leite em natureza ser efectuado por cooperativas de produtos ou suas uniões, estas poderão, para o efeito e desde que actuem nos termos previstos do artigo 5.º, adquirir o leite dos produtores não associados das suas áreas e, quando se situem em centros deficitários, adquiri-lo a quaisquer produtores, seja qual for a sua localização.
+Art. 22.º No caso de o abastecimento de leite em natureza ser efectuado por cooperativas de produtos ou suas uniões, estas poderão, para o efeito e desde que actuem nos termos previstos do artigo 5.º, adquirir o leite dos produtores não associados das suas áreas e, quando se situem em centros deficitários, adquiri-lo a quaisquer produtores, seja qual for a sua localização.
 
 § único. A faculdade prevista neste artigo só se poderá efectivar com autorização e nas condições estabelecidas pelo Secretário de Estado do Comércio.
 
-###### Art. 23.º O abastecimento da indústria será efectuado com os excedentes de leite do consumo em natureza.
+Art. 23.º O abastecimento da indústria será efectuado com os excedentes de leite do consumo em natureza.
 
 § 1.º No caso de haver excedentes de leite das classes mais elevadas, a Comissão de Abastecimento de Leite poderá propor a sua atribuição às unidades industriais que o paguem melhor, segundo regras aprovadas pelo Secretário de Estado do Comércio.
 
@@ -333,63 +387,63 @@ n) Dar parecer sobre quaisquer outros assuntos que sejam submetidos à sua aprec
 
 § 5.º Fica autorizado o Ministro das Finanças a isentar ou reduzir, por simples despacho, os direitos incidentes sobre a importação de produtos necessários à actividade da indústria de lacticínios, sempre que essa necessidade seja reconhecida, em proposta do Secretário de Estado do Comércio.
 
-###### Art. 24.º Quando as circunstâncias do abastecimento o justificarem, o limite fixado na alínea b) do artigo 3.º do [Decreto n.º 36974](https://diariodarepublica.pt/dr/detalhe/decreto/36974-1948-385421), de 17 de Julho de 1948, para o teor butiroso do leite alimentar, poderá ser alterado até ao mínimo de 2,5 por cento por despacho dos Secretários de Estado da Agricultura e do Comércio, mediante parecer do Ministro da Saúde e Assistência.
+Art. 24.º Quando as circunstâncias do abastecimento o justificarem, o limite fixado na alínea b) do artigo 3.º do [Decreto n.º 36974](https://diariodarepublica.pt/dr/detalhe/decreto/36974-1948-385421), de 17 de Julho de 1948, para o teor butiroso do leite alimentar, poderá ser alterado até ao mínimo de 2,5 por cento por despacho dos Secretários de Estado da Agricultura e do Comércio, mediante parecer do Ministro da Saúde e Assistência.
 
 § único. A normalização do teor butiroso do leite para consumo só poderá ser efectuada nos postos de concentração, estações de tratamento ou nas centrais leiteiras e pasteurizadoras.
 
 ### CAPÍTULO III — Do apoio financeiro
 
-###### Art. 25.º O apoio financeiro do Estado à produção leiteira realizar-se-á através de incentivos à organização da rede de recepção e concentração prevista neste diploma, bem como ao equipamento da produção e das suas organizações, e ainda mediante dotações de fomento da qualidade e da quantidade do leite.
+Art. 25.º O apoio financeiro do Estado à produção leiteira realizar-se-á através de incentivos à organização da rede de recepção e concentração prevista neste diploma, bem como ao equipamento da produção e das suas organizações, e ainda mediante dotações de fomento da qualidade e da quantidade do leite.
 
 § 1.º O apoio financeiro a conceder aos produtores ou suas organizações consistirá, consoante os casos, em empréstimos directos, prestação de garantias para a realização de operações de crédito, comparticipação na liquidação de juros de empréstimos contraídos e dotações.
 
 § 2.º Tendo em vista os objectivos de fomento pecuário e de reconversão da actividade agro-pecuária e silvo-pastoril, bem como a perfeita coordenação das disponibilidades das respectivas Secretarias de Estado, o Ministro da Economia e os Secretários de Estado da Agricultura e do Comércio definirão, em cada ano e por despacho, os limites do apoio financeiro a conceder, as suas modalidades e a escala de prioridades para efeito de apreciação dos pedidos.
 
-###### Art. 26.º O apoio para a organização da rede de recepção e concentração, bem como para o equipamento e apetrechamento das explorações agrícolas e das organizações de produtores, será concedido através do Fundo de Melhoramentos Agrícolas, que, para esse efeito, contará com as suas próprias disponibilidades, com as verbas que lhe forem atribuídas anualmente no Orçamento Geral do Estado, com os subsídios, empréstimos ou prestação de garantias concedidas pelo Fundo de Abastecimento e outras verbas consignadas para esse fim.
+Art. 26.º O apoio para a organização da rede de recepção e concentração, bem como para o equipamento e apetrechamento das explorações agrícolas e das organizações de produtores, será concedido através do Fundo de Melhoramentos Agrícolas, que, para esse efeito, contará com as suas próprias disponibilidades, com as verbas que lhe forem atribuídas anualmente no Orçamento Geral do Estado, com os subsídios, empréstimos ou prestação de garantias concedidas pelo Fundo de Abastecimento e outras verbas consignadas para esse fim.
 
 § único. Quando a organização corporativa da lavoura requerer apoio financeiro para a realização da rede a que se refere este artigo, deverá apresentar os planos financeiros e técnicos da respectiva exploração, a fim de se apreciar da vantagem de o serviço em causa ser directamente realizado pela organização corporativa da lavoura ou por entidades privadas, nos termos do § 1.º do artigo 1.º
 
-###### Art. 27.º O apoio financeiro para fomento da qualidade e quantidade do leite será concedido, pelo Fundo de Abastecimento, através de dotações que acrescerão aos preços de garantia, nos quantitativos e nas condições fixados em despacho do Secretário de Estado do Comércio.
+Art. 27.º O apoio financeiro para fomento da qualidade e quantidade do leite será concedido, pelo Fundo de Abastecimento, através de dotações que acrescerão aos preços de garantia, nos quantitativos e nas condições fixados em despacho do Secretário de Estado do Comércio.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 28.º As entidades que à data da entrada em vigor deste diploma realizem operações de abastecimento de leite em natureza deverão, no prazo de 60 dias, a partir da data referida, submeter os seus planos de abastecimento à aprovação do Secretário de Estado do Comércio, observando-se o disposto no artigo 18.º quanto aos elementos a apresentar.
+Art. 28.º As entidades que à data da entrada em vigor deste diploma realizem operações de abastecimento de leite em natureza deverão, no prazo de 60 dias, a partir da data referida, submeter os seus planos de abastecimento à aprovação do Secretário de Estado do Comércio, observando-se o disposto no artigo 18.º quanto aos elementos a apresentar.
 
 § único. Quando os elementos apresentados pelas referidas entidades não forem julgados suficientes, serão notificados os interessados para procederem às devidas correcções ou aos esclarecimentos julgados necessários, na prazo de 30 dias e nos termos que lhes forem indicados.
 
-###### Art. 29.º O leite pasteurizado nas estações de tratamento pode ser comercializado sob a designação de «pasteurizado».
+Art. 29.º O leite pasteurizado nas estações de tratamento pode ser comercializado sob a designação de «pasteurizado».
 
-###### Art. 30.º O tratamento, distribuição e venda de leite pasteurizado de tipo especial, de marca registada, dependem de autorização a conceder pelos Secretários de Estado da Agricultura e do Comércio, ouvida a Direcção-Geral dos Serviços Pecuários, desde que produzido e recolhido nos termos e com observância das regras constantes do despacho do Secretário de Estado da Agricultura publicado no Diário do Governo n.º 294, 1.ª série, de 16 de Dezembro de 1963.
+Art. 30.º O tratamento, distribuição e venda de leite pasteurizado de tipo especial, de marca registada, dependem de autorização a conceder pelos Secretários de Estado da Agricultura e do Comércio, ouvida a Direcção-Geral dos Serviços Pecuários, desde que produzido e recolhido nos termos e com observância das regras constantes do despacho do Secretário de Estado da Agricultura publicado no Diário do Governo n.º 294, 1.ª série, de 16 de Dezembro de 1963.
 
-###### Art. 31.º O leite destinado ao abastecimento público ou à indústria que não for entregue nos postos de recepção autorizados nos termos deste diploma será apreendido, constituindo este facto contravenção punível com as seguintes multas:
+Art. 31.º O leite destinado ao abastecimento público ou à indústria que não for entregue nos postos de recepção autorizados nos termos deste diploma será apreendido, constituindo este facto contravenção punível com as seguintes multas:
 
 a) Para o produtor, 200$00 a 500$00;
 
 b) Para o comerciante, 500$00 a 10000$00, elevada para o dobro na primeira reincidência e para o triplo na segunda.
 
-###### Art. 32.º Sempre que a violação das normas deste diploma constitua infracção disciplinar contra a economia nacional, serão aplicadas, pelos organismos competentes, as sanções disciplinares estabelecidas no artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 32.º Sempre que a violação das normas deste diploma constitua infracção disciplinar contra a economia nacional, serão aplicadas, pelos organismos competentes, as sanções disciplinares estabelecidas no artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 § único. Quando, no exercício da acção disciplinar prevista neste artigo, for aplicada a pena de suspensão de actividade, os infractores ficam obrigados, durante o tempo que ela durar, a satisfazer os salários devidos ao pessoal que à data da infracção estiver ao seu serviço.
 
-###### Art. 33.º A fiscalização do cumprimento deste diploma pertence às Direcções-Gerais dos Serviços Agrícolas e dos Serviços Pecuários, à Inspecção-Geral das Actividades Económicas e à Junta Nacional dos Produtos Pecuários, sem prejuízo da competência genérica atribuída por lei à Direcção-Geral de Saúde.
+Art. 33.º A fiscalização do cumprimento deste diploma pertence às Direcções-Gerais dos Serviços Agrícolas e dos Serviços Pecuários, à Inspecção-Geral das Actividades Económicas e à Junta Nacional dos Produtos Pecuários, sem prejuízo da competência genérica atribuída por lei à Direcção-Geral de Saúde.
 
-###### Art. 34.º Este decreto-lei aplica-se imediatamente nas zonas que se encontram organizadas de harmonia com o estabelecido no [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175), de 20 de Abril de 1953.
+Art. 34.º Este decreto-lei aplica-se imediatamente nas zonas que se encontram organizadas de harmonia com o estabelecido no [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175), de 20 de Abril de 1953.
 
 § 1.º As federações de grémios da lavoura a que respeitarem as zonas referidas neste artigo deverão, no prazo de seis meses, a partir da publicação deste diploma, elaborar ou rever o estudo a que se refere o artigo 6.º em relação à totalidade das respectivas áreas.
 
 § 2.º Depois de apresentado o estudo nos termos do parágrafo anterior, seguir-se-ão os demais trâmites estabelecidos no artigo 6.º, com as adaptações que forem julgadas necessárias em despacho do Secretário de Estado da Agricultura.
 
-###### Art. 35.º A aplicação do presente diploma às restantes regiões do País será determinada pelo Ministro da Economia em despacho publicado no Diário do Governo, no qual se fixará o prazo para apresentação do estudo referido no artigo 6.º
+Art. 35.º A aplicação do presente diploma às restantes regiões do País será determinada pelo Ministro da Economia em despacho publicado no Diário do Governo, no qual se fixará o prazo para apresentação do estudo referido no artigo 6.º
 
-###### Art. 36.º Por despacho do Secretário de Estado do Comércio, poderão ser estabelecidas normas respeitantes às embalagens usadas na venda dos vários tipos de leite, bem como restrições relativas à utilização do leite pelas entidades que o destinem para consumo no próprio estabelecimento ou para venda ao público.
+Art. 36.º Por despacho do Secretário de Estado do Comércio, poderão ser estabelecidas normas respeitantes às embalagens usadas na venda dos vários tipos de leite, bem como restrições relativas à utilização do leite pelas entidades que o destinem para consumo no próprio estabelecimento ou para venda ao público.
 
-###### Art. 37.º Em portaria dos Secretários de Estado da Agricultura e do Comércio, consoante os casos, serão estabelecidas as normas indispensáveis à execução dos preceitos deste decreto-lei, designadamente no que se refere aos planos de abastecimento estudados e propostos pela Comissão de Abastecimento de Leite.
+Art. 37.º Em portaria dos Secretários de Estado da Agricultura e do Comércio, consoante os casos, serão estabelecidas as normas indispensáveis à execução dos preceitos deste decreto-lei, designadamente no que se refere aos planos de abastecimento estudados e propostos pela Comissão de Abastecimento de Leite.
 
-###### Art. 38.º No que se refere a transportes, tomará o Ministério das Comunicações as providências adequadas à boa execução do presente decreto-lei e, se para tanto for necessário adaptar o regime legal vigente, o mesmo Ministério introduzir-lhe-á as indispensáveis modificações por decreto simples, que será também referendado pelo Ministro da Economia.
+Art. 38.º No que se refere a transportes, tomará o Ministério das Comunicações as providências adequadas à boa execução do presente decreto-lei e, se para tanto for necessário adaptar o regime legal vigente, o mesmo Ministério introduzir-lhe-á as indispensáveis modificações por decreto simples, que será também referendado pelo Ministro da Economia.
 
-###### Art. 39.º As dúvidas e casos omissos serão resolvidos por despacho do Ministro da Economia.
+Art. 39.º As dúvidas e casos omissos serão resolvidos por despacho do Ministro da Economia.
 
-###### Art. 40.º Ficam revogados os seguintes diplomas:
+Art. 40.º Ficam revogados os seguintes diplomas:
 
 [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175), de 20 de Abril de 1953;
 
@@ -401,6 +455,6 @@ b) Para o comerciante, 500$00 a 10000$00, elevada para o dobro na primeira reinc
 
 [Portaria n.º 21543](https://diariodarepublica.pt/dr/detalhe/portaria/21543-1965-510212), de 21 de Setembro de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.

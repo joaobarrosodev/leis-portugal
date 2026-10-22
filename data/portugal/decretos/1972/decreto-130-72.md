@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/130-1972-396973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b34bdcc1c6dbd66c29c3213dddd7aeb0d12f1ace27e0560dd2ada1c2312e276
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d609ca6af878f632d611623e7a76b9435e79a96a0e03c4ecbd093b3154f6cf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:47Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações do Campo de Tiro da Serra da Carregueira, limitada como segue:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações do Campo de Tiro da Serra da Carregueira, limitada como segue:
 
 A sul e poente - linha quebrada A B C paralela à vedação do Campo de Tiro e distando dela 100 m, sendo A na estrada para a Venda Seca, B na estrada para Tala e C o ponto de coordenadas M = 98,828 . P = 204,990, nas vizinhanças do vértice trigonométrico Moinho Novo da Mata ((Delta) = 271);
 
-A noroeste - alinhamento recto [([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/09900/05200521.pdf))](https://files.diariodarepublica.pt/1s/1972/04/09900/05200521.pdf), sendo D definido pelas coordenadas M = 100,050 . P = 205,700;
+A noroeste - alinhamento recto [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/09900/05200521.pdf), sendo D definido pelas coordenadas M = 100,050 . P = 205,700;
 
 A nordeste, nascente e sudeste - linha quebrada D E F G A, tendo os pontos intermédios as coordenadas:
 
@@ -107,7 +115,7 @@ F (M = 100,800 . P = 204,000);
 
 G (M = 100,575 . P = 203,210).
 
-###### Art. 2.º A área descrita no artigo anterior fica sujeita à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+Art. 2.º A área descrita no artigo anterior fica sujeita à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -121,15 +129,15 @@ e) Montagem de linhas de energia eléctrica ou de ligações telefónicas, quer 
 
 f) Movimento ou permanência de peões, semoventes ou veículos durante a realização das sessões de tiro.
 
-###### Art. 3.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo anterior.
+Art. 3.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo anterior.
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Campo, ao Comando da Região Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Campo, ao Comando da Região Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
 
-###### Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da Competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Lisboa.
+Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da Competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Lisboa.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita à demolição das obras feitas ilegalmente cabe recurso para o governador militar de Lisboa.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita à demolição das obras feitas ilegalmente cabe recurso para o governador militar de Lisboa.
 
-###### Art. 7.º A área descrita no artigo 1.º será demarcada na folha 416 da carta na escala de 1:25000 do Serviço Cartográfico do Exército, organizando-se oito colecções com a classificação de «reservado», as quais se destinam a cada um dos seguintes departamentos:
+Art. 7.º A área descrita no artigo 1.º será demarcada na folha 416 da carta na escala de 1:25000 do Serviço Cartográfico do Exército, organizando-se oito colecções com a classificação de «reservado», as quais se destinam a cada um dos seguintes departamentos:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -147,8 +155,8 @@ Duas ao Ministério do Interior.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches.
 
-**Promulgado em 13 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 13 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.

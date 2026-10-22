@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46290-1965-237444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cecc7b614fed4711cb1c33fa9eae8aa3b1e3da73d2cfb12c4307bd0c5abfe2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63f6b6de62e8d2fbd67ccf96a2f4bb4e5463136b5743f4db8ded7f71c54bc62d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Forças Armadas
+- Gratificação
+- Militar
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:504547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:168471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193229:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504547:por
+  label: "Revogado o art. 1º pelo DEC LEI.47550.22.02.1967.PC, DG.IS [45] de 22.02.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47550-1967-504547
+  date: '1967-02-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:54Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +109,19 @@ Considerando que o diploma que fixa os vencimentos dos militares que prestam ser
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aditados ao artigo 19.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, os seguintes números:
+Artigo 1.º São aditados ao artigo 19.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, os seguintes números:
 
 9.º Quando um militar for nomeado para prestar serviço numa determinada província ultramarina, se, antes de atingir o seu destino, for obrigado a apresentar-se noutra província para nela prestar serviço, em situação de diligência, durante um certo período, deverá ser processado de vencimentos pela província onde ficou prestando serviço, em diligência.
 
 10.º O pessoal militar que, estando a prestar serviço nas forças armadas das províncias ultramarinas, passe às situações de reserva ou de reforma, tem direito, enquanto permanecer na província aguardando embarque, ao vencimento correspondente à futura pensão de reserva ou reforma e ao vencimento complementar fixado para a sua patente, mas a soma da pensão e do vencimento complementar não poderão exceder o vencimento que vinha percebendo na situação anterior.
 
-###### Art. 2.º O artigo 13.º, a alínea a) do n.º 7.º do artigo 19.º e o artigo 43.º do mesmo diploma passam a ter a seguinte redacção:
+Art. 2.º O artigo 13.º, a alínea a) do n.º 7.º do artigo 19.º e o artigo 43.º do mesmo diploma passam a ter a seguinte redacção:
 
-###### Art. 13.º O complemento de vencimento a que se refere o § único do artigo 14.º do [Decreto-Lei n.º 31896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31896-1942-168471), de 27 de Fevereiro de 1942, é mantido para as respectivas forças terrestres, navais e aéreas ultramarinas precisamente nas condições legais em que estiver a ser abonado aos funcionários civis e enquanto se mantiver para estes o respectivo direito.
+Art. 13.º O complemento de vencimento a que se refere o § único do artigo 14.º do [Decreto-Lei n.º 31896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31896-1942-168471), de 27 de Fevereiro de 1942, é mantido para as respectivas forças terrestres, navais e aéreas ultramarinas precisamente nas condições legais em que estiver a ser abonado aos funcionários civis e enquanto se mantiver para estes o respectivo direito.
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 ...
 
@@ -113,11 +131,11 @@ a) Na metrópole: o vencimento-base e o vencimento complementar da sua patente o
 
 ...
 
-###### Art. 43.º Os vencimentos do pessoal civil do Exército, da Marinha e da Força Aérea serão fixados em portaria assinada pelo Ministro da Defesa Nacional e pelo Ministro ou Secretário da pasta respectiva.
+Art. 43.º Os vencimentos do pessoal civil do Exército, da Marinha e da Força Aérea serão fixados em portaria assinada pelo Ministro da Defesa Nacional e pelo Ministro ou Secretário da pasta respectiva.
 
-###### Art. 3.º Na tabela n.º 10 (gratificações mensais de oficiais do Exército) é modificada para 3000$00 a gratificação por despesas de representação ao comandante de S. Tomé e Príncipe e incluída a gratificação de 1500$00 para despesas de representação ao chefe do Estado-Maior de S. Tomé e Príncipe e 2250$00 para despesas de representação ao 2.º comandante do Comando Territorial Independente da Guiné. Na tabela n.º 11 (gratificações de oficiais da Armada) é alterada para 3000$00 a gratificação para despesas de representação ao comandante da defesa marítima de S. Tomé e Príncipe e incluída a gratificação de 2250$00 para despesas de representação ao 2.º comandante da Defesa Marítima da Guiné e a gratificação de 600$00 aos oficiais superiores e primeiros-tenentes que desempenhem na Guiné as funções especiais de serviço de estado-maior.
+Art. 3.º Na tabela n.º 10 (gratificações mensais de oficiais do Exército) é modificada para 3000$00 a gratificação por despesas de representação ao comandante de S. Tomé e Príncipe e incluída a gratificação de 1500$00 para despesas de representação ao chefe do Estado-Maior de S. Tomé e Príncipe e 2250$00 para despesas de representação ao 2.º comandante do Comando Territorial Independente da Guiné. Na tabela n.º 11 (gratificações de oficiais da Armada) é alterada para 3000$00 a gratificação para despesas de representação ao comandante da defesa marítima de S. Tomé e Príncipe e incluída a gratificação de 2250$00 para despesas de representação ao 2.º comandante da Defesa Marítima da Guiné e a gratificação de 600$00 aos oficiais superiores e primeiros-tenentes que desempenhem na Guiné as funções especiais de serviço de estado-maior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
 

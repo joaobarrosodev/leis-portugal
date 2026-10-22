@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/16-1983-311399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1202bd6de684e3940d7b99ccef3654bedd8b7d226ecbc8a6f5a83ef215fd7ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a58022093d91b892623ab725378aed67850aab59fbdf8258660f48cd97ad2eb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Farmácia
+- Ensino Superior
+- Prorrogação de Prazo
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
+relationships:
+- type: cites
+  target: pt:dre:328026:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:28Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +106,7 @@ Assim, sob proposta das faculdades de farmácia das Universidades de Coimbra, Li
 
 O Governo decreta, ao abrigo da alínea g) do artigo 202.º da Constituição:
 
-###### Artigo único - 1 - É facultada a conclusão do curso profissional de Farmácia até à época de exames de recurso de Outubro do ano lectivo de 1982-1983.
+Artigo único - 1 - É facultada a conclusão do curso profissional de Farmácia até à época de exames de recurso de Outubro do ano lectivo de 1982-1983.
 
 2 - Os alunos prestarão exame em disciplinas do novo plano de estudos que cada conselho científico considere equivalentes às do anterior plano de estudos.
 
@@ -104,12 +114,12 @@ O Governo decreta, ao abrigo da alínea g) do artigo 202.º da Constituição:
 
 Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
 
-**Promulgado em 2 de Fevereiro de 1983.**
+Promulgado em 2 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Fevereiro de 1983.**
+Referendado em 4 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

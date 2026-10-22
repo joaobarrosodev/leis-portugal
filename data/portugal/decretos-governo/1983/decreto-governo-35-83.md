@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/35-1983-451605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e7fbf525fcf377731103bda8f31cfc79ed0103a03bce2bfd8882c25ddec2017
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbbf529b26fd0662a754021be9a43b8addc20d2179659754f97a69370929a5c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Código Europeu de Segurança Social
+- Conselho da Europa
+- Estrasburgo
+- Portugal
+- Proteção no Desemprego
+- Segurança Social
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:182241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182241:por
+  label: "Alterada a alínea b) do artigo 2º pelo DEC.14/85.25.06.1985.MNE, DR.IS [143] de 25.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/14-1985-182241
+  date: '1985-06-25'
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:45Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +103,9 @@ de 13 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado para ratificação o Código Europeu de Segurança Social e seu Protocolo, cujos textos em português e francês são publicados em anexo ao presente diploma.
+Artigo 1.º É aprovado para ratificação o Código Europeu de Segurança Social e seu Protocolo, cujos textos em português e francês são publicados em anexo ao presente diploma.
 
-###### Art. 2.º Aos textos do Código e do Protocolo respectivos são formuladas as seguintes reservas:
+Art. 2.º Aos textos do Código e do Protocolo respectivos são formuladas as seguintes reservas:
 
 1) Quanto ao Código Europeu de Segurança Social, Portugal não se considera vinculado às obrigações decorrentes da parte VI, relativa às prestações em caso de acidentes de trabalho e doenças profissionais;
 
@@ -104,15 +117,15 @@ b) O disposto na subalínea iii) da alínea a) do n.º 2 do artigo 10.º e na al
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 15 de Março de 1983.**
+Assinado em 15 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Março de 1983.**
+Referendado em 17 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 CÓDIGO EUROPEU DE SEGURANÇA SOCIAL
 
@@ -130,9 +143,9 @@ Na convicção de que é desejável estabelecer um Código Europeu de Segurança
 
 acordaram nas disposições seguintes, que foram elaboradas com a colaboração da Repartição Internacional do Trabalho:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - Para os fins do presente Código:
 
@@ -156,7 +169,7 @@ i) O termo «período de garantia» significa um período, de contribuição, um
 
 2 - Para efeitos dos artigos 10.º, 34.º e 49.º, o termo «prestações» significa quer a assistência concedida directamente quer prestações indirectas, consistindo estas num reembolso das despesas suportadas pelo interessado.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - Qualquer Parte Contratante aplicará:
 
@@ -182,21 +195,21 @@ iii) Os ramos que não atinjam as normas do Código.
 
 3 - Qualquer signatário que deseje beneficiar da alínea b) do parágrafo 2 do presente artigo apresentará pedido para o efeito, no relatório a submeter ao secretário-geral, de acordo com as disposições do artigo 78.º O comité, baseando-se no princípio de equivalência de custos, estabelecerá regras para coordenar e determinar as condições em que podem ser tomadas em consideração as disposições previstas na alínea b) do parágrafo 2 do presente artigo. Estas disposições só podem ser tomadas em consideração, relativamente a cada caso, mediante aprovação do comité, cuja decisão tenha sido tomada por maioria de dois terços.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Qualquer Parte Contratante deve especificar, no respectivo instrumento de ratificação, quais as partes de II a X cujas obrigações decorrentes do presente Código aceita e, também, se e em que medida utiliza as disposições do parágrafo 2 do artigo 2.º
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Qualquer Parte Contratante pode, posteriormente, notificar o secretário-geral, que aceita as obrigações decorrentes do presente Código, relativamente a uma ou mais das partes II a X que não tenham sido especificadas na sua ratificação.
 
 2 - Os compromissos previstos no parágrafo 1 do presente artigo serão considerados parte integrante da ratificação e produzirão efeitos idênticos a partir da data da sua notificação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Quando para aplicação de qualquer das partes II a X do presente Código, que tenha sido objecto de ratificação por uma Parte Contratante, esta for obrigada a proteger categorias prescritas de pessoas cujo total constitua, pelo menos, uma percentagem determinada dos salariados ou residentes, essa Parte Contratante deve assegurar-se, antes de se comprometer a aplicar a parte em questão, de que a percentagem em causa está atingida.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Com vista à aplicação das partes II III, IV, V, VIII (no que se refere à assistência médica), IX ou X do presente Código, uma Parte Contratante pode tomar em conta a protecção resultante de seguros que, em virtude da legislação nacional, não sejam obrigatórios para as pessoas protegidas, quando esses seguros:
 
@@ -206,17 +219,17 @@ b) Cobrirem uma parte substancial das pessoas cuja remuneração não exceda a d
 
 c) Satisfizerem conjuntamente com outras formas de protecção, caso existam, as correspondentes disposições do presente Código.
 
-# PARTE II — Assistência médica
+## PARTE II — Assistência médica
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar a atribuição de prestações às pessoas protegidas, quando o seu estado necessitar de assistência médica de carácter preventivo ou curativo, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A eventualidade coberta deve abranger todos os estados de doença, seja qual for a sua causa, a gravidez, o parto e suas sequelas.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 As pessoas protegidas devem abranger:
 
@@ -226,7 +239,7 @@ b) Quer categorias prescritas da população activa, cujo total constitua, pelo 
 
 c) Quer categorias prescritas de residentes cujo total constitua, pelo menos, 50% do conjunto dos residentes.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - As prestações devem abranger, pelo menos:
 
@@ -252,25 +265,25 @@ ii) Hospitalização, quando necessária.
 
 4 - Os departamentos governamentais ou as instituições que atribuem as prestações devem, por todos os meios adequados, encorajar as pessoas protegidas a recorrer aos serviços gerais de saúde postos à sua disposição pelas autoridades públicas ou por outros organismos reconhecidos pelas autoridades públicas.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 As prestações mencionadas no artigo 10.º devem, na eventualidade coberta, ser asseguradas, pelo menos, às pessoas protegidas que tenham cumprido, ou cujo amparo de família tenha cumprido, um período de garantia que possa considerar-se necessário para evitar abusos.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 As prestações mencionadas no artigo 10.º devem ser concedidas por todo o tempo de duração da eventualidade coberta, com a ressalva de, em caso de doença, a duração das prestações poder ser limitada a 26 semanas em cada caso; todavia, as prestações médicas não podem ser suspensas enquanto for pago subsídio de doença e devem ser tomadas medidas para alargamento do limite supracitado no caso de doenças previstas pela legislação nacional para as quais se reconheça necessidade de uma assistência prolongada.
 
-# PARTE III — Subsídio de doença
+## PARTE III — Subsídio de doença
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição de subsídio de doença, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 A eventualidade coberta deve compreender a incapacidade de trabalho que resulte de doença e determine a suspensão da remuneração tal como é definida pela legislação nacional.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 As pessoas protegidas devem abranger:
 
@@ -280,31 +293,31 @@ b) Quer categorias prescritas da população activa cujo total constitua, pela m
 
 c) Quer todos os residentes cujos recursos, durante a eventualidade, não excedam limites prescritos, de acordo com as disposições do artigo 67.º
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - Quando forem protegidas categorias de salariados ou categorias da população activa, a prestação consistirá num pagamento periódico calculado de acordo com as disposições do artigo 65.º ou do artigo 66.º
 
 2 - Quando forem protegidos todos os residentes cujos recursos, durante a eventualidade, não excedam limites prescritos, a prestação consistirá num pagamento periódico calculado de acordo com as disposições do artigo 67.º Uma prestação prescrita deve, porém, ser assegurada sem condições de recursos às categorias definidas, de acordo quer com a alínea a) quer com a alínea b) do artigo 15.º
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 A prestação mencionada no artigo 16.º deve, na eventualidade coberta, ser assegurada, pelo menos, às pessoas protegidas que tenham cumprido um período de garantia que possa considerar-se necessário para evitar abusos.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 A prestação mencionada no artigo 16.º deve ser concedida por todo o tempo de duração da eventualidade, com a ressalva de a duração da prestação poder ser limitada a 26 semanas, em cada caso de doença, com a possibilidade de não ser concedida pelos 3 primeiros dias de suspensão de remuneração.
 
-# PARTE IV — Prestações de desemprego
+## PARTE IV — Prestações de desemprego
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição das prestações de desemprego de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 A eventualidade coberta deve abranger a suspensão da remuneração - tal como esteja definido pela legislação nacional -, devido à impossibilidade de obter um emprego adequado, no caso de uma pessoa protegida que esteja apta e disponível para o trabalho.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 As pessoas protegidas devem abranger:
 
@@ -312,17 +325,17 @@ a) Quer categorias prescritas de salariados cujo total constitua, pelo menos, 50
 
 b) Quer todos os residentes cujos recursos, durante a eventualidade, não excedam limites prescritos de acordo com as disposições do artigo 67.º
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1 - Quando forem protegidas categorias de salariados, a prestação consistirá num pagamento periódico calculado de acordo com as disposições do artigo 65.º ou do artigo 66.º
 
 2 - Quando forem protegidos todos os residentes cujos recursos, durante a eventualidade, não excedam limites prescritos, a prestação consistirá num pagamento periódico calculado de acordo com as disposições do artigo 67.º Uma prestação prescrita deve, porém, ser assegurada sem condição de recursos às categorias definidas, de acordo com a alínea a) do artigo 21.º
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 As prestações mencionadas no artigo 22.º devem, na eventualidade coberta, ser asseguradas, pelo menos, às pessoas protegidas que tenham cumprido um período de garantia que possa considerar-se necessário para evitar abusos.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 1 - A prestação mencionada no artigo 22.º deve ser concedida por todo o tempo de duração da eventualidade, com a ressalva de a duração da prestação poder ser limitada:
 
@@ -336,13 +349,13 @@ b) Quando forem protegidos todos os residentes cujos recursos, durante a eventua
 
 4 - Quando se trate de trabalhadores sazonais, a duração da prestação e o período de espera podem ser adaptados às condições de emprego.
 
-# PARTE V — Prestações de velhice
+## PARTE V — Prestações de velhice
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição de prestações de velhice, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 1 - A eventualidade coberta será a sobrevivência após uma idade prescrita.
 
@@ -350,7 +363,7 @@ Qualquer Parte Contratante em que vigore a presente parte do Código deve assegu
 
 3 - A legislação nacional poderá suspender as prestações se a pessoa que tiver direito às mesmas exercer certas actividades remuneradas prescritas, ou poderá reduzir as prestações contributivas quando a remuneração do beneficiário exceder um montante prescrito, e as prestações não contributivas quando a remuneração do beneficiário ou os outros rendimentos ou ambos adicionados excederem um montante prescrito.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 As pessoas protegidas devem abranger:
 
@@ -360,7 +373,7 @@ b) Quer categorias prescritas da população activa, cujo total constitua, pelo 
 
 c) Quer todos os residentes cujos recursos, durante a eventualidade, não excedam limites prescritos de acordo com as disposições do artigo 67.º
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 A prestação consistirá num pagamento periódico calculado da seguinte forma:
 
@@ -368,7 +381,7 @@ a) De acordo com as disposições do artigo 65.º ou do artigo 66.º conforme fo
 
 b) De acordo com as disposições do artigo 67.º quando forem protegidos todos os residentes cujos recursos, durante a eventualidade, não excedam limites prescritos.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 1 - A prestação mencionada no artigo 28.º deve, na eventualidade coberta, ser assegurada, pelo menos:
 
@@ -388,17 +401,17 @@ b) Quando, em princípio, todas as pessoas activas forem protegidas, a qualquer 
 
 5 - Quando a atribuição da prestação mencionada nos parágrafos 1, 3 ou 4 do presente artigo estiver subordinada ao cumprimento de um período mínimo de contribuição ou de emprego, deve ser assegurada uma prestação reduzida, nas condições prescritas, a qualquer pessoa protegida que, devido apenas à sua idade avançada no momento em que as disposições que permitem aplicar a presente parte do Código tenham entrado em vigor, não tenha podido satisfazer as condições prescritas de acordo com o parágrafo 2 do presente artigo, a não ser que se atribua a essa pessoa, numa idade mais avançada que a normal, uma prestação de acordo com as disposições dos parágrafos 1, 3 ou 4 do presente artigo.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 As prestações mencionadas nos artigos 28.º e 29.º devem ser concedidas por todo o tempo de duração da eventualidade.
 
-# PARTE VI — Prestações em caso de acidentes de trabalho e de doenças profissionais
+## PARTE VI — Prestações em caso de acidentes de trabalho e de doenças profissionais
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição de prestações em caso de acidentes de trabalho e de doenças profissionais, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 As eventualidades cobertas devem abranger as seguintes, quando forem devidas a acidentes de trabalho ou a doenças profissionais prescritas:
 
@@ -410,11 +423,11 @@ c) Perda total da capacidade de ganho, ou perda parcial da capacidade de ganho a
 
 d) Perda de meios de subsistência sofrida pela viúva ou filhos, em resultado da morte do amparo de família; no caso da viúva, o direito à prestação pode ser subordinado ao pressuposto de que ela está incapacitada, de acordo com a legislação nacional, de prover às suas necessidades pessoais.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 As pessoas protegidas devem abranger categorias prescritas de salariados cujo total constitua, pelo menos, 50% do conjunto dos salariados e, também, a esposa e os filhos dos salariados dessas categorias, relativamente às prestações cujo direito é aberto pela morte do amparo de família.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 1 - Quando se trate de doença, as prestações devem abranger a assistência médica mencionada nos parágrafos 2 e 3 do presente artigo.
 
@@ -434,13 +447,13 @@ f) Assistência prestada por membros de outra profissão legalmente reconhecida 
 
 3 - A assistência médica prestada de acordo com os parágrafos anteriores deve tender a preservar, restabelecer ou melhorar a saúde da pessoa protegida, assim como a sua aptidão para trabalhar e para prover às suas necessidades pessoais.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 1 - Os departamentos governamentais ou instituições encarregados da administração da assistência médica devem cooperar, sempre que for oportuno, com os serviços gerais de reabilitação profissional, com vista a readaptar para um trabalho adequado as pessoas de capacidade diminuída.
 
 2 - A legislação nacional pode autorizar os departamentos ou instituições mencionados a tomarem medidas destinadas à reabilitação profissional das pessoas de capacidade diminuída.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 1 - Relativamente à incapacidade para o trabalho ou à perda total da capacidade de ganho, quando se preveja que essa perda venha a ser permanente, ou à diminuição correspondente da incapacidade física, ou à morte do amparo de família, a prestação consistirá num pagamento periódico, calculado de acordo com as disposições do artigo 65.º ou do artigo 66.º
 
@@ -452,25 +465,25 @@ a) Quer quando o grau da incapacidade for mínimo;
 
 b) Quer quando às autoridades competentes for dada garantia de que aquele será bem aplicado.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 As prestações mencionadas nos artigos 34.º e 36.º devem, na eventualidade coberta, ser asseguradas, pelo menos, às pessoas protegidas que estivessem empregadas como salariados no território da Parte Contratante em causa na altura do acidente ou na altura em que a doença tenha sido contraída e, no caso de pagamentos periódicos resultantes da morte do amparo de família, à viúva e aos filhos deste.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 As prestações mencionadas nos artigos 34.º e 36.º devem ser concedidas por todo o tempo de duração da eventualidade; todavia, quando se trate de incapacidade para o trabalho, a prestação poderá não ser paga pelos 3 primeiros dias em cada caso de suspensão de remuneração.
 
-# PARTE VII — Prestações familiares
+## PARTE VII — Prestações familiares
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição de prestações familiares, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 A eventualidade coberta será o encargo com as crianças segundo o que for prescrito.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 As pessoas protegidas devem abranger, relativamente às prestações periódicas mencionadas no artigo 42.º:
 
@@ -478,7 +491,7 @@ a) Quer categorias prescritas de salariados cujo total constitua, pelo menos, 50
 
 b) Quer categorias prescritas da população activa cujo total constitua, pelo menos, 20% do conjunto dos residentes.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 As prestações devem abranger:
 
@@ -488,29 +501,29 @@ b) Quer a concessão às crianças ou para as crianças da alimentação, vestu�
 
 c) Quer uma combinação das prestações a que se referem as alíneas a) e b) do presente artigo.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 As prestações mencionadas no artigo 42.º devem ser asseguradas, pelo menos, a qualquer pessoa protegida que tenha cumprido, no decurso de um período prescrito, um período de garantia que pode consistir quer em 1 mês de contribuição ou de emprego quer em 6 meses de residência.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 O valor total das prestações atribuídas de acordo com o artigo 42.º às pessoas protegidas deverá ser tal que represente 1,5% do salário de 1 operário indiferenciado adulto masculino, determinado de acordo com as regras fixadas no artigo 66.º multiplicado pelo número total de crianças de todos os residentes.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 Quando as prestações consistirem num pagamento periódico, devem ser concedidas por todo o tempo de duração da eventualidade.
 
-# PARTE VIII — Prestações de maternidade
+## PARTE VIII — Prestações de maternidade
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição de prestações de maternidade, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 A eventualidade coberta será a gravidez, o parto e suas sequelas e a suspensão da remuneração daí resultante, tal como esteja definida pela legislação nacional.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 As pessoas protegidas devem abranger:
 
@@ -518,7 +531,7 @@ a) Quer todas as mulheres pertencentes a categorias prescritas de salariados, co
 
 b) Quer todas as mulheres pertencentes a categorias prescritas da população activa, constituindo o total dessas categorias, pelo menos, 20% do conjunto dos residentes, e, no respeitante às prestações médicas em caso de maternidade, igualmente as esposas dos homens pertencentes a essas mesmas categorias.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 1 - No que se refere à gravidez, ao parto e suas sequelas, as prestações médicas de maternidade consistirão na assistência médica mencionada nos parágrafos 2 e 3 do presente artigo.
 
@@ -532,29 +545,29 @@ b) A hospitalização, quando necessária.
 
 4 - Os departamentos governamentais ou instituições que atribuam as prestações médicas em caso de maternidade devem, por todos os meios adequados, encorajar as mulheres protegidas a recorrer aos serviços gerais de saúde postos à sua disposição pelas autoridades públicas ou por outros organismos reconhecidos pelas autoridades públicas.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 Quando se trate de suspensão da remuneração resultante da gravidez, do parto e suas sequelas, a prestação consistirá num pagamento periódico calculado de acordo com as disposições do artigo 65.º ou do artigo 66.º O montante do pagamento periódico pode variar no decurso da eventualidade, desde que o montante médio esteja de acordo com as disposições supracitadas.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 As prestações mencionadas nos artigos 49.º e 50.º devem, na eventualidade coberta, ser asseguradas, pelo menos, a qualquer mulher pertencente às categorias protegidas que tenha cumprido um período de garantia que possa considerar-se necessário para evitar abusos; as prestações mencionadas no artigo 49.º devem igualmente ser asseguradas à esposa de qualquer homem das categorias protegidas, quando este tenha cumprido o período de garantia previsto.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 As prestações mencionadas nos artigos 49.º e 50.º devem ser concedidas por todo o tempo de duração da eventualidade coberta; todavia, os pagamentos periódicos podem ser limitados a 12 semanas, a não ser que a legislação nacional imponha ou autorize um período mais longo de ausência do trabalho, caso em que os pagamentos não poderão ser limitados a um período de menor duração.
 
-# PARTE IX — Prestações de invalidez
+## PARTE IX — Prestações de invalidez
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição de prestações de invalidez, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 A eventualidade coberta será a incapacidade para exercer uma actividade profissional de grau prescrito, quando se preveja que essa incapacidade venha a ser permanente ou quando a mesma subsistir após a concessão do subsídio de doença.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 As pessoas protegidas devem abranger:
 
@@ -572,7 +585,7 @@ a) De acordo com as disposições do artigo 65.º ou do artigo 66.º, quando for
 
 b) De acordo com as disposições do artigo 67.º, quando forem protegidos todos os residentes cujos recursos, durante a eventualidade, não excedam limites prescritos.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 1 - A prestação mencionada no artigo 56.º deve, na eventualidade coberta, ser assegurada, pelo menos:
 
@@ -590,23 +603,23 @@ b) Quando, em princípio, todas as pessoas activas forem protegidas, a qualquer 
 
 4 - A percentagem indicada no quadro anexo à parte XI pode sofrer uma redução proporcional quando o período de garantia para a prestação que corresponder à percentagem reduzida for superior a 5 anos de contribuição ou de emprego, mas inferior a 15 anos de contribuição ou de emprego. Atribuir-se-á uma prestação reduzida de acordo com o parágrafo 2 do presente artigo.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 As prestações mencionadas nos artigos 56.º e 57.º devem ser concedidas por todo o tempo de duração da eventualidade ou até à sua substituição por uma prestação de velhice.
 
-# PARTE X — Prestações de sobrevivência
+## PARTE X — Prestações de sobrevivência
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 Qualquer Parte Contratante em que vigore a presente parte do Código deve assegurar às pessoas protegidas a atribuição de prestações de sobrevivência, de acordo com os artigos seguintes desta parte.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 1 - A eventualidade coberta deve abranger a perda de meios de subsistência sofrida pela viúva ou filhos, em resultado da morte do amparo de família; no caso da viúva, o direito à prestação pode ser subordinado ao pressuposto, de acordo com a legislação nacional, de que a mesma está incapacitada de prover às suas necessidades pessoais.
 
 2 - A legislação nacional poderá suspender a prestação se a pessoa que a ela tiver direito exercer certas actividades remuneradas prescritas, ou poderá reduzir as prestações contributivas quando a remuneração do beneficiário exceder um montante prescrito e as prestações não contributivas quando a remuneração do beneficiário ou os seus outros recursos ou ambos adicionados excederem um montante prescrito.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 As pessoas protegidas devem abranger:
 
@@ -616,7 +629,7 @@ b) Quer as esposas e filhos de amparos de família pertencentes a categorias pre
 
 c) Quer, quando tiverem a qualidade de residentes, todas as viúvas e todas as crianças que tenham perdido o seu amparo de família e cujos recursos durante a eventualidade coberta não excedam os limites prescritos, de acordo com as disposições do artigo 67.º
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 A prestação consistirá num pagamento periódico, calculado da seguinte forma:
 
@@ -624,7 +637,7 @@ a) De acordo com as disposições do artigo 65.º ou do artigo 66.º, quando for
 
 b) De acordo com as disposições do artigo 67.º, quando forem protegidas todas as viúvas e todas as crianças que tenham a qualidade de residentes e cujos recursos, durante a eventualidade, não excedam limites prescritos.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 1 - A prestação mencionada no artigo 62.º deve, na eventualidade coberta, ser assegurada, pelo menos:
 
@@ -644,13 +657,13 @@ b) Quando, em princípio, forem protegidas as esposas e os filhos de todas as pe
 
 5 - Para que uma viúva sem filhos, considerada incapacitada de prover às suas necessidades pessoais, tenha direito a uma prestação de sobrevivência, pode ser prescrita uma duração mínima de casamento.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 As prestações mencionadas nos artigos 62.º e 63.º devem ser concedidas por todo o tempo de duração da eventualidade.
 
-# PARTE XI — Cálculo dos pagamentos periódicos
+## PARTE XI — Cálculo dos pagamentos periódicos
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 1 - No caso de pagamentos periódicos a que se aplique o presente artigo, o montante da prestação, acrescido do montante dos abonos de família pagos durante a eventualidade, deverá ser tal que, para o beneficiário tipo a que se refere o quadro anexo à presente parte, seja, pelo menos, igual, no tocante à eventualidade em questão, à percentagem indicada nesse quadro relativamente ao total da remuneração anterior do beneficiário ou do seu amparo de família e do montante dos abonos de família pagos a uma pessoa protegida com os mesmos encargos de família que o beneficiário tipo.
 
@@ -678,7 +691,7 @@ c) Quer uma pessoa cuja remuneração seja igual a 125% da remuneração média 
 
 10 - Os montantes dos pagamentos periódicos em curso, atribuídos em caso de velhice, de acidentes de trabalho e de doenças profissionais (excepto os que cobrem a incapacidade de trabalho), invalidez e morte do amparo de família, serão revistos em consequência de variações sensíveis do nível geral das remunerações que resultem de variações sensíveis do custo de vida.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 1 - No caso de qualquer pagamento periódico a que se aplique o presente artigo, o montante da prestação, acrescido do montante dos abonos de família pagos durante a eventualidade, deverá ser tal que, para o beneficiário tipo a que se refere o quadro anexo à presente parte, seja pelo menos igual, para a eventualidade em questão, à percentagem indicada nesse quadro, relativamente ao total do salário de um operário indiferenciado adulto masculino, e do montante dos abonos de família pagos a uma pessoa protegida com os mesmos encargos de família que o beneficiário tipo.
 
@@ -700,7 +713,7 @@ b) Quer um operário indiferenciado tipo, definido de acordo com as disposiçõe
 
 8 - Os montantes dos pagamentos periódicos em curso, atribuídos em caso de velhice, de acidentes de trabalho e de doenças profissionais (excepto os que cobrem a incapacidade de trabalho), invalidez e morte do amparo de família, serão revistos em consequência de variações sensíveis do nível geral das remunerações que resultem de variações sensíveis do custo de vida.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 Nos casos de pagamentos periódicos a que o presente artigo seja aplicável:
 
@@ -724,11 +737,11 @@ QUADRO (ANEXO À PARTE XI)
 
 Pagamentos periódicos aos beneficiários tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
 
-# PARTE XII — Disposições comuns
+## PARTE XII — Disposições comuns
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 Uma prestação a que uma pessoa protegida teria direito, em cumprimento de qualquer das partes II a X do presente Código, pode ser suspensa dentro de limites que podem ser prescritos:
 
@@ -752,7 +765,7 @@ i) Relativamente à prestação de desemprego, quando o interessado tiver perdid
 
 j) Relativamente à prestação de sobrevivência, enquanto a viúva viver em concubinato.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 1 - Qualquer requerente deve ter o direito de recurso em caso de recusa da prestação ou de contestação relativamente à quantidade da mesma.
 
@@ -760,7 +773,7 @@ j) Relativamente à prestação de sobrevivência, enquanto a viúva viver em co
 
 3 - Quando as reclamações forem apresentadas a tribunais especialmente criados para tratar das questões de segurança social e nos quais as pessoas protegidas estejam representadas, o direito de recurso pode não ser concedido.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 1 - O custo das prestações atribuídas em cumprimento do presente Código e as despesas de administração dessas prestações devem ser financiadas colectivamente por meio de contribuições ou de impostos, ou por ambos, segundo modalidades que evitem que as pessoas com fracos recursos tenham de suportar um encargo muito pesado e que tenham em conta a situação económica da Parte Contratante e das categorias de pessoas protegidas.
 
@@ -768,15 +781,15 @@ j) Relativamente à prestação de sobrevivência, enquanto a viúva viver em co
 
 3 - A Parte Contratante em causa deve assumir uma responsabilidade geral relativamente ao pagamento das prestações atribuídas em cumprimento do presente Código e tomar todas as medidas necessárias para atingir esse fim. Deve, se necessário, assegurar-se de que os estudos e cálculos actuariais necessários, relativos ao equilíbrio financeiro, são efectuados periodicamente e, de qualquer modo, antes de qualquer modificação das prestações, da taxa das contribuições para o seguro ou dos impostos afectos à cobertura das eventualidades em questão.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 1 - Quando a administração não for assegurada por um departamento governamental responsável perante um parlamento, devem participar na administração representantes das pessoas protegidas ou ser a ela associados com poder consultivo em condições prescritas; a legislação nacional pode também prever a participação de representantes das entidades patronais e das autoridades públicas.
 
 2 - A Parte Contratante em causa deve assumir uma responsabilidade geral com vista à boa administração das instituições e serviços que concorrem para a aplicação do presente Código.
 
-# PARTE XIII — Disposições diversas
+## PARTE XIII — Disposições diversas
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 O presente Código não será aplicável:
 
@@ -784,11 +797,11 @@ a) Às eventualidades ocorridas antes da entrada em vigor da parte correspondent
 
 b) Às prestações atribuídas por eventualidades sobrevindas depois da entrada em vigor da correspondente parte do Código para a Parte Contratante interessada, na medida em que os direitos a estas prestações resultem de períodos anteriores àquela data.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 As Partes Contratantes em causa esforçar-se-ão por regulamentar, em instrumento especial, as questões referentes à segurança social dos estrangeiros e dos migrantes, designadamente no que respeita à igualdade de tratamento com os nacionais e à conservação dos direitos adquiridos ou em curso de aquisição.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 1 - Cada Parte Contratante apresentará ao secretário-geral um relatório anual sobre a aplicação do presente Código. Este relatório incluirá:
 
@@ -814,19 +827,19 @@ Estas provas deverão, na medida do possível, ser apresentadas segundo o modo e
 
 5 - Os relatórios e informações complementares mencionados, bem como as conclusões do órgão da Organização Internacional do Trabalho referido no parágrafo 4 do presente artigo, serão examinados pelo comité, que apresentará ao Conselho de Ministros um relatório contendo as suas conclusões.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 1 - Após ter consultado a assembleia consultiva, se necessário, o Conselho de Ministros decidirá por maioria de dois terços, de acordo com o artigo 20.º, parágrafo d) do Estatuto do Conselho da Europa, se cada uma das Partes Contratantes cumpriu as obrigações do presente Código que aceitou.
 
 2 - Se o Conselho de Ministros considerar que uma Parte Contratante não cumpre as obrigações do presente Código por si assumidas, convidará a Parte Contratante em causa a tomar as medidas julgadas necessárias pelo Conselho de Ministros para assegurar tal cumprimento.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 Cada Parte Contratante dirigirá, de 2 em 2 anos, ao secretário-geral um relatório sobre o estado da respectiva legislação e sua prática no que respeita às disposições de cada uma das partes II a X do Código que, de acordo com o artigo 3.º, não tenham sido especificadas na ratificação ou em notificação posterior feita por aplicação do artigo 4.º
 
-# PARTE XIV — Disposições finais
+## PARTE XIV — Disposições finais
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 1 - O presente Código está aberto à assinatura dos Estados membros do Conselho da Europa. O mesmo ficará sujeito a ratificação. Os instrumentos de ratificação serão depositados junto do secretário-geral, com a ressalva, se necessário, da decisão afirmativa e prévia do Conselho de Ministros, referida no parágrafo 4 do artigo 78.º
 
@@ -834,7 +847,7 @@ Cada Parte Contratante dirigirá, de 2 em 2 anos, ao secretário-geral um relat�
 
 3 - Para qualquer signatário que o ratifique posteriormente, o Código entrará em vigor 1 ano após a data do depósito do respectivo instrumento de ratificação.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 1 - Qualquer Estado signatário que deseje recorrer às disposições do artigo 2.º, parágrafo 2, apresentará ao secretário-geral antes da ratificação, um relatório indicando em que medida o seu sistema de segurança social está em conformidade com as disposições do Código.
 
@@ -864,7 +877,7 @@ Estas provas deverão, na medida do possível, ser apresentadas segundo o modo e
 
 5 - Se o Conselho de Ministros decidir que o referido sistema de segurança social não está em conformidade com as disposições do Código, informará do facto o Estado signatário interessado e poderá dirigir-lhe recomendações sobre o modo como essa conformidade pode ser efectuada.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 1 - Após a entrada em vigor do presente Código, o Conselho de Ministros poderá convidar qualquer Estado não membro do Conselho da Europa a aderir ao mesmo. Esta adesão ficará sujeita às condições e ao processo de ratificação previstos pelo presente Código.
 
@@ -872,7 +885,7 @@ Estas provas deverão, na medida do possível, ser apresentadas segundo o modo e
 
 3 - As obrigações e os direitos de qualquer Estado aderente serão idênticos aos previstos pelo presente Código para os Estados signatários que o tenham ratificado.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 1 - O presente Código será aplicável ao território metropolitano de cada Parte Contratante. Qualquer Parte Contratante poderá, no momento da assinatura ou do depósito do respectivo instrumento de ratificação ou de adesão, especificar em declaração dirigida ao secretário-geral qual o território que, para este efeito, será considerado como seu território metropolitano.
 
@@ -880,13 +893,13 @@ Estas provas deverão, na medida do possível, ser apresentadas segundo o modo e
 
 3 - Qualquer Parte Contratante poderá, durante os períodos no decurso dos quais pode denunciar o Código, de acordo com as disposições do artigo 81.º, notificar o secretário-geral de que o Código cessa de ser aplicável a qualquer parte do seu território metropolitano ou a qualquer dos outros territórios a que o Código se tenha tornado extensivo, de acordo com o parágrafo 2 do presente artigo.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 Qualquer Parte Contratante só poderá denunciar o presente Código ou uma ou diversas das partes II a X quando da expiração de um período de 5 anos após a data em que o Código tenha entrado em vigor para essa Parte Contratante, ou quando da expiração de qualquer período posterior de 5 anos e, em qualquer caso, mediante aviso prévio de 1 ano, notificado ao secretário-geral. Tal denúncia não afectará a validade do Código relativamente às outras Partes Contratantes desde que o número de Estados para os quais o Código esteja em vigor não seja inferior a 3.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
-**O secretário-geral notificará os Estados membros do Conselho da Europa e o Governo de cada Estado aderente, bem como o director-geral da Repartição Internacional do Trabalho:**
+O secretário-geral notificará os Estados membros do Conselho da Europa e o Governo de cada Estado aderente, bem como o director-geral da Repartição Internacional do Trabalho:
 
 i) Da data de entrada em vigor do presente Código e dos nomes dos signatários que o tenham ratificado;
 
@@ -896,7 +909,7 @@ iii) De qualquer notificação recebida, de acordo com as disposições dos arti
 
 iv) De qualquer pré-aviso recebido, de acordo com as disposições do artigo 81.º
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 O anexo ao presente Código constitui parte integrante do mesmo.
 
@@ -976,7 +989,9 @@ Estrasburgo, 14 de Março de 1967.
 
 E. B. Boothby.
 
-## Anexo — ARTIGO 68.º, i)
+## Anexo
+
+###### ARTIGO 68.º, i)
 
 Entende-se que o artigo 68.º, i), do presente Código será interpretado de acordo com a legislação nacional de cada Parte Contratante.
 
@@ -1096,7 +1111,7 @@ ADENDA 2
 
 Benefícios suplementares
 
-# PARTE II — Assistência médica
+## PARTE II — Assistência médica
 
 1 - Assistência prestada fora dos hospitais, por médicos de clínica geral ou por especialistas, incluindo as visitas domiciliárias, sem limite de duração; porém, o beneficiário ou o seu amparo de família pode ser obrigado a comparticipar nas despesas da assistência recebida até ao limite de 25%.
 
@@ -1108,15 +1123,15 @@ Benefícios suplementares
 
 5 - Quando a comparticipação do beneficiário ou do seu amparo de família for fixada num montante uniforme para cada caso de tratamento ou para cada receita de produtos farmacêuticos, o total dos pagamentos efectuados por todas as pessoas protegidas relativamente a cada categoria de prestações mencionadas nos números 1, 2 e 4 anteriores não deve exceder a percentagem prescrita do custo total da categoria em causa, durante determinado período.
 
-# PARTE III — Subsídio de doença
+## PARTE III — Subsídio de doença
 
 6 - Subsídio de doença, na percentagem especificada no artigo 16.º, por um período que não pode ser limitado a menos de 52 semanas por caso.
 
-# PARTE IV — Prestações de desemprego
+## PARTE IV — Prestações de desemprego
 
 7 - A prestação de desemprego, na percentagem especificada no artigo 22.º, por um período que não pode ser limitado a menos de 21 semanas no decurso de um período de 12 meses.
 
-# PARTE V — Prestação de velhice
+## PARTE V — Prestação de velhice
 
 8 - A prestação de velhice, numa percentagem de, pelo menos, 50% da prestação mencionada no artigo 28.º:
 
@@ -1124,15 +1139,15 @@ a) No caso previsto no parágrafo 2 do artigo 29.º ou, quando a prestação men
 
 b) No caso previsto no Parágrafo 5 do artigo 29.º, com a ressalva das condições prescritas relativamente às actividades económicas anteriores da pesca protegida.
 
-# PARTE VII — Prestações familiares
+## PARTE VII — Prestações familiares
 
 9 - Prestações pecuniárias, sob forma de pagamentos periódicos, até que a criança que abre o direito às prestações e que prossegue os estudos atinja uma idade prescrita, que não pode ser inferior a 16 anos.
 
-# PARTE VIII — Prestações de maturidade
+## PARTE VIII — Prestações de maturidade
 
 10 - Concessão das prestações de maternidade sem condição de período de garantia.
 
-# PARTE IX — Prestações de invalidez
+## PARTE IX — Prestações de invalidez
 
 11 - A prestação de invalidez, numa percentagem de, pelo menos, 50% da prestação mencionada no artigo 56.º:
 
@@ -1140,7 +1155,7 @@ a) No caso previsto no parágrafo 2 do artigo 57.º ou, quando a prestação men
 
 b) No caso de a pessoa protegida não ter preenchido as condições prescritas de acordo com as disposições do parágrafo 2 do artigo 57.º, devido apenas à sua idade avançada no momento da entrada em vigor das disposições relativas à aplicação desta parte, com a ressalva das condições prescritas relativamente às actividades económicas anteriores da pessoa protegida.
 
-# PARTE X — Prestações de sobrevivência
+## PARTE X — Prestações de sobrevivência
 
 12 - Prestações de sobrevivência, numa percentagem de, pelo menos, 50% da prestação mencionada no artigo 62.º:
 
@@ -1380,7 +1395,7 @@ QUADRO ANEXO À PARTE XI
 
 Pagamentos periódicos aos beneficiários tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
 
 O artigo 74.º, parágrafos 1 e 2, terá a seguinte redacção:
 
@@ -1434,7 +1449,7 @@ Qualquer Estado membro que tenha ratificado o Código e o presente Protocolo ou 
 
 O artigo 82.º terá a seguinte redacção:
 
-**O secretário-geral notificará os Estados membros do Conselho, o governo de cada Estado aderente, bem como o director-geral da Repartição Internacional do Trabalho:**
+O secretário-geral notificará os Estados membros do Conselho, o governo de cada Estado aderente, bem como o director-geral da Repartição Internacional do Trabalho:
 
 i) Da data de entrada em vigor do presente Protocolo e do nome dos Estados membros que o tenham ratificado;
 
@@ -1554,7 +1569,7 @@ ADENDA 2
 
 Benefícios suplementares
 
-# PARTE II — Assistência médica
+## PARTE II — Assistência médica
 
 1 - Controle médico ou tratamento médico, segundo a necessidade, manutenção, cuidados de enfermagem e outros serviços auxiliares, em lares de convalescença, cura e preventórios e estabelecimentos similares, para prevenção da tuberculose; porém, o beneficiário ou o seu amparo de família pode ser obrigado a comparticipar nas despesas da assistência recebida até ao limite de um terço.
 
@@ -1576,17 +1591,17 @@ Benefícios suplementares
 
 10 - Assistência médica, na medida estipulada pelo artigo 10.º do Código, modificado pelo presente Protocolo, sem condição de período de garantia.
 
-# PARTE III — Subsídio de doença
+## PARTE III — Subsídio de doença
 
 11 - Subsídio de doença, numa percentagem que não deve ser inferior à mencionada no artigo 16.º do Código, sem limite de duração.
 
-# PARTE IV — Prestações de desemprego
+## PARTE IV — Prestações de desemprego
 
 12 - Prestações de desemprego, numa percentagem que não deve ser inferior à mencionada no artigo 22.º do Código, sem limite de duração, quando para efeitos de ratificação se recorra ao artigo 21.º, alínea a), do Código, modificado pelo presente Protocolo.
 
 13 - Prestações para os trabalhadores que não tenham possibilidade de abrir direito segundo as disposições normais da lei, ou que tenham ultrapassado o período de pagamento das prestações normais.
 
-# PARTE V — Prestações de velhice
+## PARTE V — Prestações de velhice
 
 14 - Prestações de velhice numa percentagem de, pelo menos, 50% da prestação mencionada no artigo 28.º do Código, modificado pelo presente Protocolo:
 
@@ -1594,7 +1609,7 @@ a) No caso previsto no parágrafo 2 do artigo 29.º do Código ou quando a prest
 
 b) No caso previsto no parágrafo 5 do artigo 29.º do Código, com a ressalva das condições prescritas relativamente às actividades económicas anteriores da pessoa protegida.
 
-# PARTE VI — Prestações em caso de acidente de trabalho e de doenças profissionais
+## PARTE VI — Prestações em caso de acidente de trabalho e de doenças profissionais
 
 15 - Reabilitação profissional das vítimas de acidentes de trabalho ou de doenças profissionais.
 
@@ -1602,7 +1617,7 @@ b) No caso previsto no parágrafo 5 do artigo 29.º do Código, com a ressalva d
 
 17 - Em caso de morte do amparo de família protegido, que não seja devida a acidente de trabalho ou a doença profissional, pagamentos periódicos aos sobreviventes do amparo de família, se este beneficiava de pensão a título de perda total ou grave de capacidade de ganho; esses pagamentos aos sobreviventes devem ser calculados de acordo com as adequadas disposições do Código, modificado pelo presente Protocolo.
 
-# PARTE VIII — Prestações de maternidade
+## PARTE VIII — Prestações de maternidade
 
 18 - Um subsídio ou subsídios de nascimento, ou um pagamento periódico durante o período de aleitação da criança pela mãe.
 
@@ -1610,7 +1625,7 @@ b) No caso previsto no parágrafo 5 do artigo 29.º do Código, com a ressalva d
 
 20 - Prestações de maternidade sem condição de período de garantia.
 
-# PARTE IX — Prestações de invalidez
+## PARTE IX — Prestações de invalidez
 
 21 - Prestação de invalidez numa percentagem de, pelo menos, 50% da prestação mencionada no artigo 55.º do Código, modificado pelo presente Protocolo:
 
@@ -1620,7 +1635,7 @@ b) No caso de a pessoa protegida não ter preenchido as condições prescritas d
 
 22 - Reabilitação profissional dos inválidos.
 
-# PARTE X — Prestações de sobrevivência
+## PARTE X — Prestações de sobrevivência
 
 23 - Prestações de sobrevivência, numa percentagem de, pelo menos, 50% da prestação mencionada no artigo 62.º do Código, modificado pelo presente Protocolo:
 
@@ -2278,7 +2293,7 @@ TABLEAU (ANNEXÉ À LA PARTIE XI)
 
 Paiments périodiques aux bénéficiaires-type
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
 
 PARTIE XII
 
@@ -2956,7 +2971,7 @@ TABLEAU ANNEXÉ À LA PARTIE XI
 
 Paiements périodiques aux bénéficiaires type
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11000/17091756.pdf)
 
 L'article 74, paragraphes 1 et 2, sera libellé comme suit:
 

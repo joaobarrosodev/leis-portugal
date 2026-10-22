@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1977-286509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c52ab294187da74ad468d573b07de00de11e0e17e518257e334e1e7ea2fe5bd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 212195773bc3e437c621138a7bada26f3b99748c6ab8d8ba2bf242d25bcf6028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Casamento
+- Código Comercial
+- Comércio
+- Cônjuge
+- Contrato de Compra e Venda
+- Direito Comercial
+- Dívida
+- Documento Autentico
+- Fiscalização
+- Igualdade de Tratamento
+- Profissão Comercial
+- Sociedade Comercial
+- Sociedade em Comandita
+- Sociedade em NOME Colectivo
+relationships:
+- type: cites
+  target: pt:dre:408723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438927:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:54Z'
   warnings: []
   errors: []
 ---
@@ -136,31 +158,31 @@ Aproveita-se ainda o ensejo para preencher uma lacuna da regulamentação legal 
 
 Assim, no uso da autorização legislativa conferida pela [Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/lei/55-1977-408723), de 26 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São revogados os artigos 8.º, 9.º, 11.º e 16.º do Código Comercial.
+Artigo 1.º São revogados os artigos 8.º, 9.º, 11.º e 16.º do Código Comercial.
 
-###### Art. 2.º O artigo 10.º do Código Comercial passa a ter a seguinte redacção:
+Art. 2.º O artigo 10.º do Código Comercial passa a ter a seguinte redacção:
 
-###### Art. 10.º Não há lugar à moratória estabelecida no n.º 1 do artigo 1696.º do Código Civil quando for exigido de qualquer dos cônjuges o cumprimento de uma obrigação emergente de acto de comércio, ainda que este o seja apenas em relação a uma das partes.
+Art. 10.º Não há lugar à moratória estabelecida no n.º 1 do artigo 1696.º do Código Civil quando for exigido de qualquer dos cônjuges o cumprimento de uma obrigação emergente de acto de comércio, ainda que este o seja apenas em relação a uma das partes.
 
-###### Art. 3.º O artigo 15.º do Código Comercial passa a ter a seguinte redacção:
+Art. 3.º O artigo 15.º do Código Comercial passa a ter a seguinte redacção:
 
-###### Art. 15.º As dívidas comerciais do cônjuge comerciante presume-se contraídas no exercício do seu comércio.
+Art. 15.º As dívidas comerciais do cônjuge comerciante presume-se contraídas no exercício do seu comércio.
 
-###### Art. 4.º O artigo 113.º do Código Comercial passa a ter a seguinte redacção:
+Art. 4.º O artigo 113.º do Código Comercial passa a ter a seguinte redacção:
 
-###### Art. 113.º As sociedades comerciais constituem-se por escritura pública.
+Art. 113.º As sociedades comerciais constituem-se por escritura pública.
 
-###### Art. 5.º O § 4.º do artigo 118.º do Código Comercial passa a ter a seguinte redacção:
+Art. 5.º O § 4.º do artigo 118.º do Código Comercial passa a ter a seguinte redacção:
 
-###### Art. 118.º ...
+Art. 118.º ...
 
 ...
 
 § 4.º Na falta de acordo entre os sócios, a indústria com que qualquer deles entrar para a sociedade será estimada pelo tribunal segundo juízos de equidade.
 
-###### Art. 6.º - 1. O § 1.º do artigo 120.º do Código Comercial passa a ter a seguinte redacção:
+Art. 6.º - 1. O § 1.º do artigo 120.º do Código Comercial passa a ter a seguinte redacção:
 
-###### Art. 120.º ...
+Art. 120.º ...
 
 § 1.º As sociedades em comandita dissolvem-se pelo desaparecimento de todos os sócios de responsabilidade ilimitada ou de todos os comanditários, a menos que a situação seja regularizada nos seis meses seguintes à verificação do facto.
 
@@ -168,36 +190,36 @@ Assim, no uso da autorização legislativa conferida pela [Lei n.º 55/77](https
 
 3. Os actuais §§ 3.º e 4.º do referido artigo 120.º passam a ser, respectivamente, os §§ 2.º e 3.º do mesmo artigo.
 
-###### Art. 7.º Os artigos 154.º, 155.º e 156.º do Código Comercial passam a ter a seguinte redacção:
+Art. 7.º Os artigos 154.º, 155.º e 156.º do Código Comercial passam a ter a seguinte redacção:
 
-###### Art. 154.º A administração da sociedade rege-se pelo disposto nos artigos 985.º a 987.º do Código Civil.
+Art. 154.º A administração da sociedade rege-se pelo disposto nos artigos 985.º a 987.º do Código Civil.
 
-###### Art. 155.º Os sócios têm o direito de fiscalizar a actividade social nos termos previstos no n.º 1 do artigo 988.º do Código Civil.
+Art. 155.º Os sócios têm o direito de fiscalizar a actividade social nos termos previstos no n.º 1 do artigo 988.º do Código Civil.
 
-###### Art. 156.º O disposto nos artigos 1001.º a 1005.º e 1006.º, n.º 1, do Código Civil é aplicável no caso de morte, exoneração ou exclusão de sócios das sociedades em nome colectivo.
+Art. 156.º O disposto nos artigos 1001.º a 1005.º e 1006.º, n.º 1, do Código Civil é aplicável no caso de morte, exoneração ou exclusão de sócios das sociedades em nome colectivo.
 
-###### Art. 8.º O n.º 1 do artigo 467.º do Código Comercial passa a ter a seguinte redacção:
+Art. 8.º O n.º 1 do artigo 467.º do Código Comercial passa a ter a seguinte redacção:
 
-###### Art. 467.º ...
+Art. 467.º ...
 
 1. A compra e venda de coisas incertas ou de esperanças, salvo o disposto nos artigos 876.º, 881.º, 2008.º e 2028.º do Código Civil.
 
-###### Art. 9.º A alínea i) do artigo 3.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, passa a ter a seguinte redacção:
+Art. 9.º A alínea i) do artigo 3.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
 i) A amortização de quotas, a exoneração e a exclusão de sócios das sociedades comerciais.
 
-###### Art. 10.º - 1. O presente diploma entra em vigor quinze dias após a data da sua publicação.
+Art. 10.º - 1. O presente diploma entra em vigor quinze dias após a data da sua publicação.
 
 2. A revogação do artigo 8.º do Código Comercial, no entanto, só produzirá efeitos a partir da data da entrada em vigor da lei de adequação do Código Civil à Constituição da República Portuguesa.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos.
 
-**Promulgado em 15 de Agosto de 1977.**
+Promulgado em 15 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -49,36 +49,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43480-1961-557194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27a1d21b9202b2881ed12397b8f21c4be919ede0632152e36828e8fc7cf634a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25b4a52e64916910a2fe8401c6fa9ef52f640de30022be8e9999317be6ab2a56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Comissão
+- Comissão Revisora das Pautas Aduaneiras do Ultramar
+- Conselho Superior Técnico Aduaneiro
+- Criação de Lugares
+- Definição de Competências
+- Extinção de Lugares
+- Inspecção Superior das Alfândegas do Ultramar
+- Ministério do Ultramar
+- Orgânica
+- Pauta Aduaneira
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642497:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:554419:por
+  label: "Rectificados os arts. 11º e 28º pela RECT.DD780.01.03.1961.PC, DG.IS [49] de 01.03.1961\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1961-554419
+  date: '1961-03-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:31Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +172,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Da Comissão Revisora das Pautas Aduaneiras do Ultramar
 
-###### Artigo 1.º A Comissão Revisora das Pautas Aduaneiras do Ultramar, como organismo consultivo do Ministério do Ultramar, e o Conselho Superior Técnico-Aduaneiro, como tribunal técnico-aduaneiro de 2.ª e última instância e ainda como órgão consultivo dependente daquele Ministério, passam a exercer as suas funções de harmonia com as disposições deste decreto-lei.
+Artigo 1.º A Comissão Revisora das Pautas Aduaneiras do Ultramar, como organismo consultivo do Ministério do Ultramar, e o Conselho Superior Técnico-Aduaneiro, como tribunal técnico-aduaneiro de 2.ª e última instância e ainda como órgão consultivo dependente daquele Ministério, passam a exercer as suas funções de harmonia com as disposições deste decreto-lei.
 
-###### Art. 2.º A Comissão Revisora das Pautas Aduaneiras do Ultramar tem por atribuições estudar:
+Art. 2.º A Comissão Revisora das Pautas Aduaneiras do Ultramar tem por atribuições estudar:
 
 1.º A reforma geral das pautas aduaneiras ultramarinas no sentido do desenvolvimento e nacionalização da economia das províncias ultramarinas;
 
@@ -137,7 +190,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. Quando o estudo e informação de alguns dos assuntos referidos nos n.os 2.º a 5.º do corpo do artigo revistam natureza acentuadamente técnica, poderão ser afectos ao Conselho Superior Técnico-Aduaneiro por despacho do Ministro do Ultramar.
 
-###### Art. 3.º A Comissão Revisora das Pautas Aduaneiras do Ultramar é presidida pelo Ministro do Ultramar e tem a seguinte composição:
+Art. 3.º A Comissão Revisora das Pautas Aduaneiras do Ultramar é presidida pelo Ministro do Ultramar e tem a seguinte composição:
 
 a) O inspector superior das Alfândegas do Ultramar, que será o vice-presidente e presidirá às reuniões da comissão;
 
@@ -155,17 +208,17 @@ g) Um representante das actividades económicas de cada uma das províncias ultr
 
 h) Um representante de cada uma das corporações do Comércio, da Indústria e dos Transportes e Turismo, designados pelo respectivo Ministro.
 
-###### Art. 4.º O presidente ou o vice-presidente da Comissão poderão convocar qualquer entidade que, pelos seus conhecimentos e competência, haja conveniência em ser ouvida e que poderá intervir na discussão dos assuntos que motivaram a sua convocação, mas sem direito a voto.
+Art. 4.º O presidente ou o vice-presidente da Comissão poderão convocar qualquer entidade que, pelos seus conhecimentos e competência, haja conveniência em ser ouvida e que poderá intervir na discussão dos assuntos que motivaram a sua convocação, mas sem direito a voto.
 
-###### Art. 5.º O expediente e correspondência da Comissão correrão pela Repartição das Alfândegas do Ultramar, sendo assinada pelo vice-presidente a que não for dirigida aos vogais.
+Art. 5.º O expediente e correspondência da Comissão correrão pela Repartição das Alfândegas do Ultramar, sendo assinada pelo vice-presidente a que não for dirigida aos vogais.
 
-###### Art. 6.º A Comissão reunirá, a convocação do presidente ou do vice-presidente, sempre que seja necessário e só poderá funcionar quando estiver presente a maioria dos vogais.
+Art. 6.º A Comissão reunirá, a convocação do presidente ou do vice-presidente, sempre que seja necessário e só poderá funcionar quando estiver presente a maioria dos vogais.
 
-###### Art. 7.º A Comissão poderá distribuir o estudo dos assuntos submetidos à sua apreciação por relatores designados pelo vice-presidente, ou por subcomissões constituídas pelos vogais também por ele indicados, um dos quais, designado por eleição entre eles, será o relator da subcomissão.
+Art. 7.º A Comissão poderá distribuir o estudo dos assuntos submetidos à sua apreciação por relatores designados pelo vice-presidente, ou por subcomissões constituídas pelos vogais também por ele indicados, um dos quais, designado por eleição entre eles, será o relator da subcomissão.
 
 ### CAPÍTULO II — Do Conselho superior Técnico-Aduaneiro do Ultramar
 
-###### Art. 8.º São atribuições do Conselho Superior Técnico-Aduaneiro, como tribunal de 2.ª e última instância do contencioso técnico-aduaneiro do ultramar:
+Art. 8.º São atribuições do Conselho Superior Técnico-Aduaneiro, como tribunal de 2.ª e última instância do contencioso técnico-aduaneiro do ultramar:
 
 1.º Resolver todos os processos de contestação e de divergência que subirem em recurso das deliberações dos conselhos do serviço técnico-aduaneiro das províncias ultramarinas;
 
@@ -173,7 +226,7 @@ h) Um representante de cada uma das corporações do Comércio, da Indústria e 
 
 § único. As deliberações do Conselho como tribunal técnico-aduaneiro são definitivas e têm a forma de acórdão.
 
-###### Art. 9.º O Conselho Superior Técnico-Aduaneiro emitirá parecer sobre:
+Art. 9.º O Conselho Superior Técnico-Aduaneiro emitirá parecer sobre:
 
 a) As consultas prévias respeitantes à classificação pautal de mercadorias, depois de terem emitido pareceres os conselhos do serviço técnico-aduaneiro do ultramar;
 
@@ -181,7 +234,7 @@ b) Os processos referentes a mercadorias consideradas omissas pelos referidos co
 
 § único. Solicitar-se-ão os pareceres dos governos das províncias ultramarinas acerca dos direitos que entendam que devem ser atribuídos na respectiva província às mercadorias consideradas omissas pelo Conselho.
 
-###### Art. 10.º Como órgão de consulta e de informação, o Conselho Superior Técnico-Aduaneiro emitirá parecer sobre:
+Art. 10.º Como órgão de consulta e de informação, o Conselho Superior Técnico-Aduaneiro emitirá parecer sobre:
 
 1.º As providências de carácter legislativo acerca da concessão de prémios de exportação, draubaques, restituições de direitos, importações ou exportações temporárias de mercadorias e sobre quaisquer outros regimes aduaneiros especiais em face de pareceres emitidos pelos conselhos do serviço técnico-aduaneiro das províncias ultramarinas;
 
@@ -193,13 +246,13 @@ b) Os processos referentes a mercadorias consideradas omissas pelos referidos co
 
 § 2.º Constará de portaria a execução dos acórdãos sobre as omissões declaradas pelo Conselho, quando sejam aprovadas pelo Ministro do Ultramar.
 
-###### Art. 11.º A designação dos relatores dos processos referentes aos assuntos compreendidos no n.º 1.º do artigo 8.º será feita pelo vice-presidente de entre os vogais do Conselho. Os processos de revisão de que trata o n.º 2.º daquele artigo, assim como os relativos aos assuntos constantes dos artigos 9.º e 10.º, serão relatados pelo vogal designado na alínea a) do artigo 17.º ou pelo seu substituto em exercício, sem prejuízo do desempenho de outras funções inerentes às suas categorias.
+Art. 11.º A designação dos relatores dos processos referentes aos assuntos compreendidos no n.º 1.º do artigo 8.º será feita pelo vice-presidente de entre os vogais do Conselho. Os processos de revisão de que trata o n.º 2.º daquele artigo, assim como os relativos aos assuntos constantes dos artigos 9.º e 10.º, serão relatados pelo vogal designado na alínea a) do artigo 17.º ou pelo seu substituto em exercício, sem prejuízo do desempenho de outras funções inerentes às suas categorias.
 
-###### Art. 12.º O expediente e a correspondências do Conselho Superior Técnico-Aduaneiro correrão pela repartição referida no artigo 5.º, junto da qual existirão um museu onde serão coleccionadas as amostras, modelos, desenhos, fotografias ou descrições das mercadorias referentes aos processos de que o Conselho tiver de se ocupar, e uma biblioteca dotada das publicações necessárias ao estudo dos assuntos da competência do Conselho.
+Art. 12.º O expediente e a correspondências do Conselho Superior Técnico-Aduaneiro correrão pela repartição referida no artigo 5.º, junto da qual existirão um museu onde serão coleccionadas as amostras, modelos, desenhos, fotografias ou descrições das mercadorias referentes aos processos de que o Conselho tiver de se ocupar, e uma biblioteca dotada das publicações necessárias ao estudo dos assuntos da competência do Conselho.
 
-###### Art. 13.º Se, para efeito da apreciação dos processos apresentados ao Conselho, houver necessidade de se realizar qualquer análise, será ela requisitada ao laboratório da Direcção-Geral das Alfândegas, do Ministério das Finanças, sendo o seu custo pago por conta da verba destinada a despesas do Conselho ou pelas partes, quando hajam decaído nos processos em recurso por eles interposto ou em que tenham produzido alegações.
+Art. 13.º Se, para efeito da apreciação dos processos apresentados ao Conselho, houver necessidade de se realizar qualquer análise, será ela requisitada ao laboratório da Direcção-Geral das Alfândegas, do Ministério das Finanças, sendo o seu custo pago por conta da verba destinada a despesas do Conselho ou pelas partes, quando hajam decaído nos processos em recurso por eles interposto ou em que tenham produzido alegações.
 
-###### Art. 14.º Quando se suscitarem divergências entre os resultados das análises efectuadas nos laboratórios das províncias ultramarinas e da Direcção-Geral das Alfândegas acerca das análises requisitadas nos termos do artigo anterior, serão tais divergências resolvidas conforme os preceitos do [Decreto-Lei n.º 39279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39279-1953-642497), de 17 de Julho de 1953, na parte aplicável, se os detentores legais das mercadorias quiserem recorrer do resultado da análise efectuada no laboratório daquela Direcção-Geral. Podem também recorrer dos resultados das análises que hajam sido requisitadas a este laboratório nos termos do artigo anterior, embora as respectivas amostras não tenham sido objecto de análise em qualquer laboratório da província.
+Art. 14.º Quando se suscitarem divergências entre os resultados das análises efectuadas nos laboratórios das províncias ultramarinas e da Direcção-Geral das Alfândegas acerca das análises requisitadas nos termos do artigo anterior, serão tais divergências resolvidas conforme os preceitos do [Decreto-Lei n.º 39279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39279-1953-642497), de 17 de Julho de 1953, na parte aplicável, se os detentores legais das mercadorias quiserem recorrer do resultado da análise efectuada no laboratório daquela Direcção-Geral. Podem também recorrer dos resultados das análises que hajam sido requisitadas a este laboratório nos termos do artigo anterior, embora as respectivas amostras não tenham sido objecto de análise em qualquer laboratório da província.
 
 § 1.º Para cumprimento das disposições do corpo do artigo, o presidente do Conselho Superior Técnico-Aduaneiro fará remeter ao governo da respectiva província duas fotocópias do boletim de análise que haja sido recebido do laboratório da Direcção-Geral das Alfândegas, competindo à secretaria do conselho do serviço técnico-aduaneiro da província promover a notificação do resultado da análise das mercadorias em causa ao seu detentor legal, a quem se fará também entrega de uma fotocópia no acto da notificação e ficando a outra fotocópia arquivada naquela secretaria.
 
@@ -207,13 +260,13 @@ b) Os processos referentes a mercadorias consideradas omissas pelos referidos co
 
 § 3.º Compete também à secretaria do conselho do serviço técnico-aduaneiro da província promover a remessa, dentro do prazo referido no parágrafo anterior, ao Conselho Superior Técnico-Aduaneiro, da certidão da notificação referida no § 1.º, da qual constará a declaração do notificado respeitante ao recebimento da fotocópia do boletim de análise. Se, depois de expirado o prazo de vinte dias mencionado no parágrafo anterior, não houver sido apresentada qualquer petição de recurso pelos interessados, será o facto comunicado ao Conselho Superior Técnico-Aduaneiro, a fim de o respectivo processo seguir os seus trâmites normais.
 
-###### Art. 15.º Os acórdãos do Conselho Superior Técnico-Aduaneiro que ponham termo a processos sobre litígios técnico-aduaneiros, referidos nos n.os 1.º e 2.º do artigo 8.º, serão publicados no Diário do Governo e nos boletins oficiais das províncias ultramarinas, assim como em volume, que abrangerá os referentes a um ou mais anos. Serão publicados apenas nos boletins oficiais os pareceres respeitantes aos processos de que trata o artigo 9.º deste decreto-lei.
+Art. 15.º Os acórdãos do Conselho Superior Técnico-Aduaneiro que ponham termo a processos sobre litígios técnico-aduaneiros, referidos nos n.os 1.º e 2.º do artigo 8.º, serão publicados no Diário do Governo e nos boletins oficiais das províncias ultramarinas, assim como em volume, que abrangerá os referentes a um ou mais anos. Serão publicados apenas nos boletins oficiais os pareceres respeitantes aos processos de que trata o artigo 9.º deste decreto-lei.
 
 § único. Pode o Ministro do Ultramar determinar que sejam também publicados nos boletins das alfândegas das províncias ultramarinas os pareceres referidos no artigo 10.º, quando contenham matéria que mereça ser divulgada.
 
-###### Art. 16.º As custas a cobrar nos processos apreciados pelo Conselho, quando forem devidas, serão iguais às que se cobram nos processos da secção do Contencioso do Conselho Ultramarino.
+Art. 16.º As custas a cobrar nos processos apreciados pelo Conselho, quando forem devidas, serão iguais às que se cobram nos processos da secção do Contencioso do Conselho Ultramarino.
 
-###### Art. 17.º O Conselho Superior Técnico-Aduaneiro será presidido pelo inspector superior das Alfândegas do Ultramar e terá a seguinte composição:
+Art. 17.º O Conselho Superior Técnico-Aduaneiro será presidido pelo inspector superior das Alfândegas do Ultramar e terá a seguinte composição:
 
 a) O juiz técnico-aduaneiro referido no artigo 25.º deste decreto-lei;
 
@@ -229,25 +282,25 @@ f) Um representante das províncias ultramarinas escolhido pelo Ministro do Ultr
 
 § único. O juiz técnico-aduaneiro e o chefe da Repartição das Alfândegas do Ultramar serão substituídos nas suas faltas ou impedimentos legais pelo inspector do quadro dos serviços aduaneiros do Ministério do Ultramar. Os restantes vogais serão substituídos pelos suplentes que tiverem sido designados por ocasião da sua nomeação.
 
-###### Art. 18.º Exercerá as funções de secretário da Comissão Revisora das Pautas Aduaneiras do Ultramar e do Conselho Superior Técnico-Aduaneiro, por nomeação do Ministro do Ultramar, um primeiro ou um segundo-oficial do quadro dos serviços aduaneiros do Ministério do Ultramar, ao qual competirá, em regime de acumulação de serviço, executar o expediente do Conselho e desempenhar as funções de escrivão dos processos, assim como as de encarregado do museu de amostras e da biblioteca a que se refere o artigo 12.º deste decreto-lei, tendo preferência os funcionários que possuam um curso superior ou o de peritos aduaneiros.
+Art. 18.º Exercerá as funções de secretário da Comissão Revisora das Pautas Aduaneiras do Ultramar e do Conselho Superior Técnico-Aduaneiro, por nomeação do Ministro do Ultramar, um primeiro ou um segundo-oficial do quadro dos serviços aduaneiros do Ministério do Ultramar, ao qual competirá, em regime de acumulação de serviço, executar o expediente do Conselho e desempenhar as funções de escrivão dos processos, assim como as de encarregado do museu de amostras e da biblioteca a que se refere o artigo 12.º deste decreto-lei, tendo preferência os funcionários que possuam um curso superior ou o de peritos aduaneiros.
 
-###### Art. 19.º O Conselho Superior Técnico-Aduaneiro terá, em regra, duas sessões mensais e só poderá funcionar quando estiver presente a maioria dos vogais. Terá as férias do Conselho Ultramarino, sem prejuízo da realização de qualquer sessão extraordinária que o Ministro do Ultramar julgue necessário mandar convocar.
+Art. 19.º O Conselho Superior Técnico-Aduaneiro terá, em regra, duas sessões mensais e só poderá funcionar quando estiver presente a maioria dos vogais. Terá as férias do Conselho Ultramarino, sem prejuízo da realização de qualquer sessão extraordinária que o Ministro do Ultramar julgue necessário mandar convocar.
 
-###### Art. 20.º O expediente e funcionamento do Conselho Superior Técnico-Aduaneiro continuam a regular-se pelas disposições dos artigos 5.º a 17.º, 19.º e 20.º do [Decreto-Lei n.º 33530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33530-1944-272440), de 21 de Fevereiro de 1944, além das que constam deste decreto-lei.
+Art. 20.º O expediente e funcionamento do Conselho Superior Técnico-Aduaneiro continuam a regular-se pelas disposições dos artigos 5.º a 17.º, 19.º e 20.º do [Decreto-Lei n.º 33530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33530-1944-272440), de 21 de Fevereiro de 1944, além das que constam deste decreto-lei.
 
-###### Art. 21.º O artigo 18.º do decreto-lei referido no artigo anterior passa a ter a redacção seguinte:
+Art. 21.º O artigo 18.º do decreto-lei referido no artigo anterior passa a ter a redacção seguinte:
 
 No prazo de cinco dias, a contar da data da publicação no Diário do Governo dos acórdãos proferidos nos processos que hajam subido ao Conselho Superior Técnico-Aduaneiro em recurso, assim como nos respeitantes a omissões e consultas prévias, promover-se-á a remessa à respectiva província de uma cópia autêntica ou fotocópia de cada um dos acórdãos, a fim de o conselho do serviço técnico-aduaneiro da província promover, por sua vez, a notificação pela sua secretaria aos detentores legais das mercadorias, ou aos seus representantes junto das alfândegas, da decisão que constar do respectivo acórdão, aos quais será entregue aquela cópia ou fotocópia. À secretaria do conselho do serviço técnico-aduaneiro competirá ainda promover a remessa ao Conselho Superior Técnico-Aduaneiro da certidão de haver sido efectuada aquela notificação, a fim de ser mandado arquivar o respectivo processo após a recepção daquele documento.
 
-###### Art. 22.º Os processos respeitantes aos assuntos mencionados no artigo 2.º serão enviados ao Conselho Ultramarino, com todos os seus elementos constitutivos, assim como os pareceres respeitantes aos assuntos referidos no artigo 10.º, mediante despacho do Ministro do Ultramar, quando a execução das conclusões daqueles pareceres tenha de constar de providências inseridas em decreto.
+Art. 22.º Os processos respeitantes aos assuntos mencionados no artigo 2.º serão enviados ao Conselho Ultramarino, com todos os seus elementos constitutivos, assim como os pareceres respeitantes aos assuntos referidos no artigo 10.º, mediante despacho do Ministro do Ultramar, quando a execução das conclusões daqueles pareceres tenha de constar de providências inseridas em decreto.
 
-###### Art. 23.º Os membros do Conselho Superior Técnico-Aduaneiro têm direito a uma senha de presença da importância de 150$00 por cada sessão a que assistirem. Ao secretário do Conselho será abonada uma gratificação mensal de 500$00.
+Art. 23.º Os membros do Conselho Superior Técnico-Aduaneiro têm direito a uma senha de presença da importância de 150$00 por cada sessão a que assistirem. Ao secretário do Conselho será abonada uma gratificação mensal de 500$00.
 
-###### Art. 24.º As despesas relativas ao pagamento das senhas de presença e da gratificação de que trata o artigo anterior, assim como as do material e outros serviços e encargos dos dois órgãos referidos no artigo 1.º, serão custeadas pelas verbas inscritas, para esse efeito, nos orçamentos de todas as províncias ultramarinas.
+Art. 24.º As despesas relativas ao pagamento das senhas de presença e da gratificação de que trata o artigo anterior, assim como as do material e outros serviços e encargos dos dois órgãos referidos no artigo 1.º, serão custeadas pelas verbas inscritas, para esse efeito, nos orçamentos de todas as províncias ultramarinas.
 
 ### CAPÍTULO III — Disposições diversas
 
-###### Art. 25.º São criados nos quadros de pessoal do Ministério do Ultramar os lugares a seguir indicados:
+Art. 25.º São criados nos quadros de pessoal do Ministério do Ultramar os lugares a seguir indicados:
 
 a) Nos serviços aduaneiros:
 
@@ -265,35 +318,35 @@ c) No quadro dos serviços gerais, um lugar de contínuo de 2.ª classe.
 
 § 3.º Para os lugares de dactilógrafo e de contínuo criados por este artigo transitarão, sem mais formalidades, a dactilógrafa contratada nos termos do [Decreto n.º 31395](https://diariodarepublica.pt/dr/detalhe/decreto/31395-1941-330667), de 16 de Julho de 1941, e o contínuo de 2.ª classe referido no artigo 4.º do [Decreto n.º 35706](https://diariodarepublica.pt/dr/detalhe/decreto/35706-1946-155022), de 18 de Junho de 1946.
 
-###### Art. 26.º Os cargos de chefe de repartição e de inspector dos serviços aduaneiros do Ministério do Ultramar serão providos em directores de serviços do quadro técnico-aduaneiro comum do ultramar, os quais continuam a partencer a este quadro.
+Art. 26.º Os cargos de chefe de repartição e de inspector dos serviços aduaneiros do Ministério do Ultramar serão providos em directores de serviços do quadro técnico-aduaneiro comum do ultramar, os quais continuam a partencer a este quadro.
 
-###### Art. 27.º Aos funcionários referidos na alínea a) do artigo 25.º compete o desempenho das funções a seguir indicadas:
+Art. 27.º Aos funcionários referidos na alínea a) do artigo 25.º compete o desempenho das funções a seguir indicadas:
 
 a) Ao juiz técnico-aduaneiro, as prescritas no artigo 11.º e quaisquer outras de que seja incumbido pelo Ministro do Ultramar ou pelo inspector superior, incluindo a de vogal do júri referido no artigo 258.º do Estatuto Orgânico das Alfândegas do Ultramar, assim como a substituição do inspector superior na sua ausência ou impedimento legal, podendo ainda ser incumbido, assim como o chefe de repartição, da realização de inspecções aos serviços das alfândegas de qualquer província ultramarina;
 
 b) Ao despachante, a realização, na Alfândega de Lisboa, dos despachos das mercadorias consignadas ou expedidas pelo Ministério do Ultramar.
 
-###### Art. 28.º As funções de agente do Ministério Público nos processos de contencioso fiscal e aduaneiro da secção de contencioso do Conselho Ultramarino, referidas no artigo 19.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, serão exercidas pelo chefe da Repartição das Alfândegas do Ultramar e, nas suas faltas ou impedimentos, pelo inspector referido no artigo 26.º, competindo a este desempenhar também quaisquer outras funções que estejam cometidas ao chefe da repartição.
+Art. 28.º As funções de agente do Ministério Público nos processos de contencioso fiscal e aduaneiro da secção de contencioso do Conselho Ultramarino, referidas no artigo 19.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, serão exercidas pelo chefe da Repartição das Alfândegas do Ultramar e, nas suas faltas ou impedimentos, pelo inspector referido no artigo 26.º, competindo a este desempenhar também quaisquer outras funções que estejam cometidas ao chefe da repartição.
 
-###### Art. 29.º Serão extintos logo que vaguem dois lugares de inspector incluídos no mapa n.º 11 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
+Art. 29.º Serão extintos logo que vaguem dois lugares de inspector incluídos no mapa n.º 11 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
 
-###### Art. 30.º Os prazos de estada dos inspectores dos serviços aduaneiros nas diversas províncias ultramarinas serão os fixados no capítulo III do título I do livro II do Estatuto Orgânico das Alfândegas do Ultramar.
+Art. 30.º Os prazos de estada dos inspectores dos serviços aduaneiros nas diversas províncias ultramarinas serão os fixados no capítulo III do título I do livro II do Estatuto Orgânico das Alfândegas do Ultramar.
 
-###### Art. 31.º Pode o Ministro do Ultramar autorizar, a requerimento dos interessados, que os estágios prescritos no artigo 52.º do decreto-lei referido no artigo 29.º sejam prestados no decurso da licença graciosa, que será interrompida para esse efeito.
+Art. 31.º Pode o Ministro do Ultramar autorizar, a requerimento dos interessados, que os estágios prescritos no artigo 52.º do decreto-lei referido no artigo 29.º sejam prestados no decurso da licença graciosa, que será interrompida para esse efeito.
 
-###### Art. 32.º São extensivas ao director provincial dos serviços das alfândegas do Estado da Índia as disposições do artigo 4.º do [Decreto-Lei n.º 33530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33530-1944-272440), de 21 de Fevereiro de 1944.
+Art. 32.º São extensivas ao director provincial dos serviços das alfândegas do Estado da Índia as disposições do artigo 4.º do [Decreto-Lei n.º 33530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33530-1944-272440), de 21 de Fevereiro de 1944.
 
-###### Art. 33.º O provimento das vagas de terceiro-oficial dos serviços aduaneiros será efectuado por meio de concurso documental a que serão admitidos indivíduos diplomados pelo Instituto Superior de Estudos Ultramarinos e, no caso de o concurso ficar deserto, por indivíduos habilitados com o curso de peritos aduaneiros dos institutos comerciais, ou pela forma prescrita no artigo 149.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
+Art. 33.º O provimento das vagas de terceiro-oficial dos serviços aduaneiros será efectuado por meio de concurso documental a que serão admitidos indivíduos diplomados pelo Instituto Superior de Estudos Ultramarinos e, no caso de o concurso ficar deserto, por indivíduos habilitados com o curso de peritos aduaneiros dos institutos comerciais, ou pela forma prescrita no artigo 149.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
 
-###### Art. 34.º O provimento das vagas de segundo-oficial dos serviços referidos no artigo anterior será efectuado por concurso de provas práticas a que serão admitidos os terceiros-oficiais que hajam obtido a primeira recondução e desempenhado, com boas informações, as funções de caixeiro despachante na Alfândega de Lisboa, ou realizado o estágio prescrito no artigo 52.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), tendo preferência, em igualdade de valorização, os que possuam maior número de habilitações científicas.
+Art. 34.º O provimento das vagas de segundo-oficial dos serviços referidos no artigo anterior será efectuado por concurso de provas práticas a que serão admitidos os terceiros-oficiais que hajam obtido a primeira recondução e desempenhado, com boas informações, as funções de caixeiro despachante na Alfândega de Lisboa, ou realizado o estágio prescrito no artigo 52.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), tendo preferência, em igualdade de valorização, os que possuam maior número de habilitações científicas.
 
-###### Art. 35.º O provimento das vagas de primeiro-oficial dos mesmos serviços será efectuado por meio de concurso de provas práticas a que serão admitidos os segundos-oficiais com mais de três anos de bom e efectivo serviço, assim como os terceiros-oficiais que possuam um curso superior e três anos também de bom e efectivo serviço na respectiva categoria, desde que tenham desempenhado, uns e outros, no decurso de tais períodos, as funções prescritas no artigo anterior ou realizado o estágio nele referido. Se os concursos referidos neste artigo e no artigo anterior ficarem desertos, serão as respectivas vagas providas nos termos do artigo 149.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817).
+Art. 35.º O provimento das vagas de primeiro-oficial dos mesmos serviços será efectuado por meio de concurso de provas práticas a que serão admitidos os segundos-oficiais com mais de três anos de bom e efectivo serviço, assim como os terceiros-oficiais que possuam um curso superior e três anos também de bom e efectivo serviço na respectiva categoria, desde que tenham desempenhado, uns e outros, no decurso de tais períodos, as funções prescritas no artigo anterior ou realizado o estágio nele referido. Se os concursos referidos neste artigo e no artigo anterior ficarem desertos, serão as respectivas vagas providas nos termos do artigo 149.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817).
 
-###### Art. 36.º Os programas dos concursos para as categorias referidas nos artigos 34.º e 35.º são os estabelecidos em portaria do Ministro do Ultramar para as correspondentes categorias do quatro técnico-aduaneiro privativo de qualquer província ultramarina.
+Art. 36.º Os programas dos concursos para as categorias referidas nos artigos 34.º e 35.º são os estabelecidos em portaria do Ministro do Ultramar para as correspondentes categorias do quatro técnico-aduaneiro privativo de qualquer província ultramarina.
 
-###### Art. 37.º Os funcionários referidos nos artigos 33.º a 35.º são considerados, para todos os efeitos, funcionários técnico-aduaneiros, sendo as suas categorias equivalentes às dos quadros técnico-aduaneiros privativos de cada província ultramarina, conforme o disposto no artigo 139.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817).
+Art. 37.º Os funcionários referidos nos artigos 33.º a 35.º são considerados, para todos os efeitos, funcionários técnico-aduaneiros, sendo as suas categorias equivalentes às dos quadros técnico-aduaneiros privativos de cada província ultramarina, conforme o disposto no artigo 139.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817).
 
-###### Art. 38.º Ficam revogados os diplomas a seguir indicados:
+Art. 38.º Ficam revogados os diplomas a seguir indicados:
 
 1.º [Decreto-Lei n.º 28778](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28778-1938-365331), de 22 de Junho de 1938;
 
@@ -305,7 +358,7 @@ b) Ao despachante, a realização, na Alfândega de Lisboa, dos despachos das me
 
 § único do artigo 51.º e artigo 90.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

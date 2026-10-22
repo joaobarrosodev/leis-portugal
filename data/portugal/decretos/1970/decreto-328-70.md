@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/328-1970-140310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57cef28ff28467e0dc990af8ff1571a0cb1e0d1cd7c9bd50a9828f484beca346
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 698e8b43f92bc6c8d4cd8004e5a83a1f7ee6cd0f44525f5046338334274911db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:17Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +92,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. As despesas a efectuar, referidas no artigo 2.º do Decreto n.º 49069, de 20 de Junho de 1969, não deverão exceder os montantes de 4639058$20 em 1970 e 2000000$00 em 1971, ou o que neste ano vier a apurar-se como saldo.
+Artigo único. As despesas a efectuar, referidas no artigo 2.º do Decreto n.º 49069, de 20 de Junho de 1969, não deverão exceder os montantes de 4639058$20 em 1970 e 2000000$00 em 1971, ou o que neste ano vier a apurar-se como saldo.
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches - José Veiga Simão.
 
-**Promulgado em 29 de Junho de 1970.**
+Promulgado em 29 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 13 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

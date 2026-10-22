@@ -46,36 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/825-1976-407157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3da8c426ada460e44f9c29ddc826d27267f65485f296a96c9f71426135ec8f11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73087d326e1f794d1cbc50649d67a2cba47d28921c9f8348b6af748add049635
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Comutação da Pena
+- Crime Militar
+- Infracção Disciplinar
+- Sanção Penal
+- Uso e porte de arma
+relationships:
+- type: cites
+  target: pt:dre:146881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662343:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:212220:por
+  label: Rectificado pela DECL.DD8096.23.11.1976.CR, DR.IS [274]Supl de 23.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-212220
+  date: '1976-11-23'
+- type: corrected_by
+  target: pt:dre:447943:por
+  label: Rectificado pela DECL.DD7957.02.12.1976.CR, DR.IS [281]Supl de 02.12.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-447943
+  date: '1976-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:34Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +128,15 @@ Considerando as disposições do [Decreto-Lei n.º 758/76](https://diariodarepub
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São amnistiados os crimes previstos e punidos nas seguintes disposições do Código de Justiça Militar cometidos por praças: n.º 4 do artigo 144.º, n.º 3 do artigo 146.º, n.º 4 do artigo 147.º, n.º 3 do artigo 148.º, n.os 2 e 3 do artigo 157.º, artigos 158.º e 170.º, com vista ao artigo 163.º e ainda os artigos 218.º, 226.º e 228.º, quando o valor exceda 5000$00 e o agente tiver já reparado totalmente o prejuízo causado.
+Artigo 1.º - 1. São amnistiados os crimes previstos e punidos nas seguintes disposições do Código de Justiça Militar cometidos por praças: n.º 4 do artigo 144.º, n.º 3 do artigo 146.º, n.º 4 do artigo 147.º, n.º 3 do artigo 148.º, n.os 2 e 3 do artigo 157.º, artigos 158.º e 170.º, com vista ao artigo 163.º e ainda os artigos 218.º, 226.º e 228.º, quando o valor exceda 5000$00 e o agente tiver já reparado totalmente o prejuízo causado.
 
 2. É também amnistiado o crime previsto e punido no n.º. 2 do artigo 65.º da Lei do Serviço Militar, aprovada pela [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, quando cometido no domínio da [Lei n.º 5/71](https://diariodarepublica.pt/dr/detalhe/lei/5-1971-631404), de 5 de Novembro.
 
 3. São igualmente amnistiadas as infracções de uso e porte ilegal de qualquer das armas de defesa referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, bem como o das armas brancas ou outros instrumentos sem aplicação definida, a que se refere a alínea f) do artigo 3.º do mesmo diploma, cujos processos estejam afectos ao foro militar e desde que o detentor regularize a situação das primeiras no prazo de sessenta dias.
 
-###### Art. 2.º São amnistiadas todas as infracções disciplinares, com excepção das violadoras dos deveres cominados nos n.os 20.º, 27.º, 38.º, 40.º, 44.º, 47.º e 49.º do artigo 4.º do Regulamento de Disciplina Militar.
+Art. 2.º São amnistiadas todas as infracções disciplinares, com excepção das violadoras dos deveres cominados nos n.os 20.º, 27.º, 38.º, 40.º, 44.º, 47.º e 49.º do artigo 4.º do Regulamento de Disciplina Militar.
 
-###### Art. 3.º São amnistiados os crimes comuns sujeitos ao foro militar:
+Art. 3.º São amnistiados os crimes comuns sujeitos ao foro militar:
 
 a) A que corresponda pena de prisão, quando cometidos por menores de 18 anos;
 
@@ -108,7 +144,7 @@ b) Culposos;
 
 c) A que corresponda pena de prisão não superior a 3 meses, desde que não sejam abrangidos pelo artigo 6.º
 
-###### Art. 4.º - 1. São perdoados noventa dias às penas criminais privativas da liberdade já aplicadas, ainda que por decisão não transitada, por quaisquer crimes de foro militar.
+Art. 4.º - 1. São perdoados noventa dias às penas criminais privativas da liberdade já aplicadas, ainda que por decisão não transitada, por quaisquer crimes de foro militar.
 
 2. O mesmo perdão é concedido, relativamente às penas criminais privativas da liberdade ainda não aplicadas, por crimes sujeitos ao foro militar não abrangidos pelo artigo 1.º e cometidos até à data da publicação do presente diploma.
 
@@ -116,9 +152,9 @@ c) A que corresponda pena de prisão não superior a 3 meses, desde que não sej
 
 4. Não beneficiam do perdão das penas os delinquentes de difícil correcção e os que, tendo beneficiado do perdão concedido pelo [Decreto-Lei n.º 259/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1974-662343), de 15 de Junho, perderam tal benefício, nos termos do n.º 2 do artigo 1.º desse diploma.
 
-###### Art. 5.º Os benefícios previstos no presente diploma não extinguem a responsabilidade cível emergente dos factos delituosos praticados, nem compreendem a anulação dos efeitos das penas, se já verificados, tais como transferências, mudanças de quadro, baixa de posto ou de serviço, eliminação, expulsão, demissão, despedimento do serviço, reforma e descida na escala de antiguidade.
+Art. 5.º Os benefícios previstos no presente diploma não extinguem a responsabilidade cível emergente dos factos delituosos praticados, nem compreendem a anulação dos efeitos das penas, se já verificados, tais como transferências, mudanças de quadro, baixa de posto ou de serviço, eliminação, expulsão, demissão, despedimento do serviço, reforma e descida na escala de antiguidade.
 
-###### Art. 6.º Os benefícios constantes neste diploma não abrangem os delitos tentados, frustrados ou consumados:
+Art. 6.º Os benefícios constantes neste diploma não abrangem os delitos tentados, frustrados ou consumados:
 
 a) Cometidos na preparação e execução dos actos sediciosos de 11 de Março e 25 de Novembro de 1975;
 
@@ -130,14 +166,14 @@ d) A que corresponda pena superior à do n.º 4 do artigo 55.º do Código Penal
 
 e) Contra a liberdade e a integridade física e moral das pessoas, nomeadamente sevícias, de furto, de dano e de abuso de autoridade, ainda que não consumados.
 
-###### Art. 7.º Serão isentos de procedimento penal pela posse ou porte ilegal de armas os detentores do armamento ou material de guerra proibido, discriminado no artigo 3.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, que dele fizerem entrega espontânea e voluntária a qualquer autoridade pública, civil ou militar, até 31 de Dezembro de 1976.
+Art. 7.º Serão isentos de procedimento penal pela posse ou porte ilegal de armas os detentores do armamento ou material de guerra proibido, discriminado no artigo 3.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, que dele fizerem entrega espontânea e voluntária a qualquer autoridade pública, civil ou militar, até 31 de Dezembro de 1976.
 
-###### Art. 8.º Este diploma entra em vigor na data da sua publicação.
+Art. 8.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 9 de Novembro de 1976.**
+Promulgado em 9 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

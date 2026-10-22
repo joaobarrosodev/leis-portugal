@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/77-1972-398778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30b9a6195b9829dc46be21c97f7016008c7ae7c05f43741a1400de637e70fa9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7741eba78594b6786ecdf5a8d3bef0984d3c3773f989955f53f80238cbc3fd41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,28 @@ relationships:
   target: pt:dre:476323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:398776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653087:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:12Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o
 
 A) Finalidade e atribuições gerais
 
-###### Artigo 1.º Os Serviços da Aeronáutica Civil (S. A. C.), segundo a orientação e directrizes da Direcção-Geral da Aeronáutica Civil (D. G. A. C.), têm como objectivo fundamental a promoção geral e tudo quanto respeita à boa utilização dos meios aeronáuticos da província e, em especial:
+Artigo 1.º Os Serviços da Aeronáutica Civil (S. A. C.), segundo a orientação e directrizes da Direcção-Geral da Aeronáutica Civil (D. G. A. C.), têm como objectivo fundamental a promoção geral e tudo quanto respeita à boa utilização dos meios aeronáuticos da província e, em especial:
 
 a) Fiscalizar o cumprimento das leis e regulamentos nacionais, assim como dos padrões, práticas e normas internacionais em vigor, nos diversos aspectos da sua aplicabilidade;
 
@@ -139,9 +151,9 @@ B) Da orgânica dos serviços
 
 #### SECÇÃO I — Dos serviços em geral
 
-###### Art. 2.º Para integral desempenho das suas atribuições, a aeronáutica civil dispõe de uma direcção provincial, de serviços centrais e serviços externos.
+Art. 2.º Para integral desempenho das suas atribuições, a aeronáutica civil dispõe de uma direcção provincial, de serviços centrais e serviços externos.
 
-###### Art. 3.º Compete designadamente aos Serviços da Aeronáutica Civil:
+Art. 3.º Compete designadamente aos Serviços da Aeronáutica Civil:
 
 a) Imprimir orientação à sua actividade de acordo com a política aeronáutica provincial;
 
@@ -159,9 +171,9 @@ g) Assegurar o bom estado de conservação de todo o material e equipamento, pel
 
 #### SECÇÃO II — Da Direcção Provincial (DIR)
 
-###### Art. 4.º A Direcção compete a um director provincial, ao qual incumbe orientar e coordenar os serviços, coadjuvado por um director provincial-adjunto, com as atribuições que lhes estão cometidas no presente diploma.
+Art. 4.º A Direcção compete a um director provincial, ao qual incumbe orientar e coordenar os serviços, coadjuvado por um director provincial-adjunto, com as atribuições que lhes estão cometidas no presente diploma.
 
-###### Art. 5.º - 1. Como órgão complementar de cada Direcção Provincial funciona o Gabinete de Estudos e Planeamento, dependente do director provincial ou, por sua delegação, do director provincial-adjunto, com dois departamentos que funcionam ao nível de conselhos:
+Art. 5.º - 1. Como órgão complementar de cada Direcção Provincial funciona o Gabinete de Estudos e Planeamento, dependente do director provincial ou, por sua delegação, do director provincial-adjunto, com dois departamentos que funcionam ao nível de conselhos:
 
 Departamento Técnico (GTC).
 
@@ -171,15 +183,15 @@ Departamento Consultivo (GCO).
 
 3. O Departamento Consultivo será constituído pelos consultores e demais elementos nomeados para tal pelo director provincial.
 
-###### Art. 6.º Como órgão de preparação e aperfeiçoamento técnico do pessoal, incluindo os assuntos relativos a medicina, funciona o Centro Aeronáutico, dependente directamente da Direcção.
+Art. 6.º Como órgão de preparação e aperfeiçoamento técnico do pessoal, incluindo os assuntos relativos a medicina, funciona o Centro Aeronáutico, dependente directamente da Direcção.
 
-###### Art. 7.º Como órgão de divulgação funciona o Centro de Documentação dos S. A. C., que fica dependente directamente da Direcção.
+Art. 7.º Como órgão de divulgação funciona o Centro de Documentação dos S. A. C., que fica dependente directamente da Direcção.
 
-###### Art. 8.º Poderão ser criadas nos Serviços da Aeronáutica Civil, observadas as disposições legais, brigadas de estudos, de construção ou de fiscalização, assim como grupos de trabalho, estes com possibilidades de integrar elementos pertencentes à Direcção-Geral da Aeronáutica Civil e ao Ministério do Ultramar, mediante despachos de concordância dos Ministros das Comunicações e do Ultramar.
+Art. 8.º Poderão ser criadas nos Serviços da Aeronáutica Civil, observadas as disposições legais, brigadas de estudos, de construção ou de fiscalização, assim como grupos de trabalho, estes com possibilidades de integrar elementos pertencentes à Direcção-Geral da Aeronáutica Civil e ao Ministério do Ultramar, mediante despachos de concordância dos Ministros das Comunicações e do Ultramar.
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 9.º - 1. Os serviços centrais compreendem cinco serviços técnicos e um serviço administrativo, que se dividem em divisões técnicas e repartições, as quais poderão ser subdivididas em secções, a considerar por legislação provincial.
+Art. 9.º - 1. Os serviços centrais compreendem cinco serviços técnicos e um serviço administrativo, que se dividem em divisões técnicas e repartições, as quais poderão ser subdivididas em secções, a considerar por legislação provincial.
 
 2. Os serviços técnicos são:
 
@@ -227,13 +239,13 @@ Departamento de Transportes (TRA).
 
 #### SECÇÃO IV — Dos serviços externos
 
-###### Art. 10.º Os serviços externos são órgãos de execução e exploração, que funcionam sob a autoridade técnica e administrativa da D. P. S. A. C. e actuam nos locais que forem entendidos como servindo mais eficientemente os fins aeronáuticos provinciais.
+Art. 10.º Os serviços externos são órgãos de execução e exploração, que funcionam sob a autoridade técnica e administrativa da D. P. S. A. C. e actuam nos locais que forem entendidos como servindo mais eficientemente os fins aeronáuticos provinciais.
 
-###### Art. 11.º - 1. Os serviços externos compreendem centros e subcentros de busca e salvamento, aeroportos, aeródromos, centros de contrôle regional de tráfego aéreo, torres de contrôle de tráfego aéreo, centros regionais de telecomunicações e centros de telecomunicações de aeródromo.
+Art. 11.º - 1. Os serviços externos compreendem centros e subcentros de busca e salvamento, aeroportos, aeródromos, centros de contrôle regional de tráfego aéreo, torres de contrôle de tráfego aéreo, centros regionais de telecomunicações e centros de telecomunicações de aeródromo.
 
 2. Junto de cada serviço externo poderá funcionar, sempre que se entender conveniente, uma secretaria técnica, nas condições referidas no n.º 4 do artigo 9.º do presente diploma.
 
-###### Art. 12.º No que respeita à inspecção e vistoria de instalações e infra-estruturas aeronáuticas, o director provincial pode delegar toda ou parte da sua competência nos chefes de serviços externos, ou noutros funcionários, os quais deverão apresentar directamente relatório circunstanciado da missão atribuída.
+Art. 12.º No que respeita à inspecção e vistoria de instalações e infra-estruturas aeronáuticas, o director provincial pode delegar toda ou parte da sua competência nos chefes de serviços externos, ou noutros funcionários, os quais deverão apresentar directamente relatório circunstanciado da missão atribuída.
 
 ### CAPÍTULO II — Das atribuições dos órgãos dos serviços
 
@@ -241,7 +253,7 @@ A) Da Direcção (DIR)
 
 #### SECÇÃO I — Do director provincial e director provincial-adjunto (ADJ)
 
-###### Art. 13.º Ao director provincial compete:
+Art. 13.º Ao director provincial compete:
 
 a) Dirigir e orientar todas as actividades dos serviços para a integral execução das missões superiormente confiadas;
 
@@ -279,7 +291,7 @@ q) Presidir, ou delegar no director provincial-adjunto, a todas as reuniões efe
 
 r) Aplicar aos operadores e pessoal aeronáutico as sanções estabelecidas de acordo com a legislação em vigor.
 
-###### Art. 14.º Ao director provincial-adjunto compete:
+Art. 14.º Ao director provincial-adjunto compete:
 
 a) Coadjuvar o director provincial na execução de todas as missões atribuídas aos S. A. C.;
 
@@ -295,15 +307,15 @@ f) Efectuar relatório detalhado de cada inspecção realizada e submetê-lo a d
 
 #### SECÇÃO II — Do Gabinete de Estudos e Planeamento (CEP)
 
-###### Art. 15.º Ao Gabinete de Estudos e Planeamento incumbe fundamentalmente uma acção coordenadora, orientadora e estimulante das actividades de cada serviço e fomentar a resolução dos assuntos que, pela sua amplitude e complexidade, não possam ser accionados e resolvidos por cada serviço isoladamente.
+Art. 15.º Ao Gabinete de Estudos e Planeamento incumbe fundamentalmente uma acção coordenadora, orientadora e estimulante das actividades de cada serviço e fomentar a resolução dos assuntos que, pela sua amplitude e complexidade, não possam ser accionados e resolvidos por cada serviço isoladamente.
 
-###### Art. 16.º O Departamento Técnico (GTC) reunir-se-á quinzenalmente e ainda quando o director provincial o entenda.
+Art. 16.º O Departamento Técnico (GTC) reunir-se-á quinzenalmente e ainda quando o director provincial o entenda.
 
-###### Art. 17.º As reuniões do Departamento Técnico têm como membros eventuais os chefes dos serviços externos, assim como outros funcionários que o director provincial entenda por conveniente convocar, incluindo os membros do Departamento Consultivo.
+Art. 17.º As reuniões do Departamento Técnico têm como membros eventuais os chefes dos serviços externos, assim como outros funcionários que o director provincial entenda por conveniente convocar, incluindo os membros do Departamento Consultivo.
 
-###### Art. 18.º O director provincial convocará para as reuniões do Departamento Técnico os membros que repute necessários.
+Art. 18.º O director provincial convocará para as reuniões do Departamento Técnico os membros que repute necessários.
 
-###### Art. 19.º Compete aos membros do Departamento Técnico:
+Art. 19.º Compete aos membros do Departamento Técnico:
 
 a) Elaborar relatórios e pareceres acerca das matérias confiadas ao seu estudo;
 
@@ -311,25 +323,25 @@ b) Discutir e votar pareceres sobre assuntos submetidos à sua aprovação;
 
 c) Apresentar as sugestões que julgarem convenientes relativas a assuntos de interesse técnico e administrativo.
 
-###### Art. 20.º As sessões do Departamento Técnico são secretariadas pelo bibliotecário ou pelo funcionário designado pelo director provincial para o efeito.
+Art. 20.º As sessões do Departamento Técnico são secretariadas pelo bibliotecário ou pelo funcionário designado pelo director provincial para o efeito.
 
-###### Art. 21.º Para as sessões ordinárias devem os chefes de serviço remeter, até ao dia 15 de cada mês, todos os assuntos a serem discutidos, a fim de ser elaborada a respectiva agenda.
+Art. 21.º Para as sessões ordinárias devem os chefes de serviço remeter, até ao dia 15 de cada mês, todos os assuntos a serem discutidos, a fim de ser elaborada a respectiva agenda.
 
-###### Art. 22.º Das sessões do Departamento Técnico serão lavradas actas, que ficarão arquivadas na Biblioteca, depois de assinadas.
+Art. 22.º Das sessões do Departamento Técnico serão lavradas actas, que ficarão arquivadas na Biblioteca, depois de assinadas.
 
-###### Art. 23.º O Departamento Consultivo (GCO) funcionará com carácter de continuidade, tratando dos assuntos que lhe tenham sido entregues pelo director provincial, dos quais deverão apresentar relatórios devidamente detalhados, a fim de poderem ser resolvidos superiormente.
+Art. 23.º O Departamento Consultivo (GCO) funcionará com carácter de continuidade, tratando dos assuntos que lhe tenham sido entregues pelo director provincial, dos quais deverão apresentar relatórios devidamente detalhados, a fim de poderem ser resolvidos superiormente.
 
 #### SECÇÃO III — Do Centro Aeronáutico (CEA)
 
-###### Art. 24.º Ao Centro Aeronáutico incumbe tratar e superintender nos assuntos referentes à medicina aeronáutica e à preparação técnica e aperfeiçoamento do pessoal.
+Art. 24.º Ao Centro Aeronáutico incumbe tratar e superintender nos assuntos referentes à medicina aeronáutica e à preparação técnica e aperfeiçoamento do pessoal.
 
-###### Art. 25.º O Centro Aeronáutico, para cumprimento das suas atribuições, compreende um centro médico para a efectivação de juntas médicas aeronáuticas e um centro de instrução para a preparação e aperfeiçoamento profissional do pessoal.
+Art. 25.º O Centro Aeronáutico, para cumprimento das suas atribuições, compreende um centro médico para a efectivação de juntas médicas aeronáuticas e um centro de instrução para a preparação e aperfeiçoamento profissional do pessoal.
 
-###### Art. 26.º Compete ao Centro Médico (CAM) tratar de todos os assuntos relacionados com a medicina aeronáutica e sua aplicabilidade na província, incluindo os de primeiros socorros dos serviços externos.
+Art. 26.º Compete ao Centro Médico (CAM) tratar de todos os assuntos relacionados com a medicina aeronáutica e sua aplicabilidade na província, incluindo os de primeiros socorros dos serviços externos.
 
-###### Art. 27.º Compete ao Centro de Instrução (CAI) organizar e realizar os cursos práticos e teóricos, de preparação e de aperfeiçoamento do pessoal aeronáutico, sempre que for julgado necessário e os meios o permitam.
+Art. 27.º Compete ao Centro de Instrução (CAI) organizar e realizar os cursos práticos e teóricos, de preparação e de aperfeiçoamento do pessoal aeronáutico, sempre que for julgado necessário e os meios o permitam.
 
-###### Art. 28.º - 1. Os S. A. C. procurarão preparar o seu pessoal das diferentes categorias de acordo com as respectivas exigências, devendo ser organizados cursos, a ministrar em cada província com programas comuns; esta preparação poderá ser extensiva a indivíduos estranhos aos serviços.
+Art. 28.º - 1. Os S. A. C. procurarão preparar o seu pessoal das diferentes categorias de acordo com as respectivas exigências, devendo ser organizados cursos, a ministrar em cada província com programas comuns; esta preparação poderá ser extensiva a indivíduos estranhos aos serviços.
 
 2. Ao director provincial compete definir a organização e funcionamento dos cursos e promover a publicação de textos ou manuais necessários para facilitação de aprendizagem, podendo delegar estas atribuições num funcionário que desempenhará as funções de director do Centro de Instrução.
 
@@ -339,21 +351,21 @@ c) Apresentar as sugestões que julgarem convenientes relativas a assuntos de in
 
 5. Os programas e exames finais dos cursos ministrados pelo CAI carecem de homologação da Direcção-Geral da Aeronáutica Civil sempre que esses cursos formem pessoal com responsabilidade de contrôle do tráfego aéreo ou de fiscalização das empresas exploradoras de transporte aéreo e trabalho aéreo, ou ainda nos casos em que tais cursos dêem direito à passagem de licenças profissionais com validade noutras parcelas do território nacional.
 
-###### Art. 29.º As D. P. S. A. C. devem promover a edição de publicações periódicas de divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos, no âmbito das suas actividades, efectuados por outras entidades oficiais ou particulares. Poderão também publicar, independentemente das publicações anteriormente referidas, quaisquer estudos e trabalhos de assinalado interesse técnico, científico ou de administração que seja útil divulgar, efectuados ou custeados pela própria D. P. S. A. C.
+Art. 29.º As D. P. S. A. C. devem promover a edição de publicações periódicas de divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos, no âmbito das suas actividades, efectuados por outras entidades oficiais ou particulares. Poderão também publicar, independentemente das publicações anteriormente referidas, quaisquer estudos e trabalhos de assinalado interesse técnico, científico ou de administração que seja útil divulgar, efectuados ou custeados pela própria D. P. S. A. C.
 
-###### Art. 30.º O pessoal com mais de um ano de actividade nos S. A. C. e com boas informações técnicas poderá, sob proposta do director provincial, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou a realizar estágios na mesma província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
+Art. 30.º O pessoal com mais de um ano de actividade nos S. A. C. e com boas informações técnicas poderá, sob proposta do director provincial, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou a realizar estágios na mesma província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
 
-###### Art. 31.º Os cursos e estágios referidos no artigo anterior e concluídos com aproveitamento pelo pessoal servir-lhe-ão como adicional às habilitações literárias para todos os efeitos que delas dependem.
+Art. 31.º Os cursos e estágios referidos no artigo anterior e concluídos com aproveitamento pelo pessoal servir-lhe-ão como adicional às habilitações literárias para todos os efeitos que delas dependem.
 
-###### Art. 32.º Sob proposta da D. P. S. A. C., podem ser organizados colóquios de informação técnica ou científica das respectivas actividades, com a colaboração de especialistas nacionais ou estrangeiros de reconhecida competência.
+Art. 32.º Sob proposta da D. P. S. A. C., podem ser organizados colóquios de informação técnica ou científica das respectivas actividades, com a colaboração de especialistas nacionais ou estrangeiros de reconhecida competência.
 
 #### SECÇÃO IV — Do Centro de Documentação (DOC)
 
-###### Art. 33.º Dependente do director provincial funcionará o Centro de Documentação, ao qual compete a centralização e a divulgação de toda a documentação técnica aeronáutica.
+Art. 33.º Dependente do director provincial funcionará o Centro de Documentação, ao qual compete a centralização e a divulgação de toda a documentação técnica aeronáutica.
 
-###### Art. 34.º O Centro de Documentação compreende a Biblioteca e o Departamento de Publicações.
+Art. 34.º O Centro de Documentação compreende a Biblioteca e o Departamento de Publicações.
 
-###### Art. 35.º - 1. À Biblioteca (DBI), que funciona como central colectora, informadora e difusora dos livros, revistas e documentos de trabalho úteis à actividade do pessoal técnico e administrativo, compete:
+Art. 35.º - 1. À Biblioteca (DBI), que funciona como central colectora, informadora e difusora dos livros, revistas e documentos de trabalho úteis à actividade do pessoal técnico e administrativo, compete:
 
 a) Assegurar a obtenção e distribuição dos documentos emanados de organismos internacionais de aviação civil e providenciar para que tais documentos sejam mantidos devidamente actualizados nos serviços interessados;
 
@@ -375,7 +387,7 @@ i) Manter informação bibliográfica que faculte a todos os funcionários dos s
 
 2. A DBI poderá criar nos vários serviços agências suas com publicações técnicas constituindo o material distribuído como carga dela.
 
-###### Art. 36.º Ao Departamento de Publicações (DPU) compete:
+Art. 36.º Ao Departamento de Publicações (DPU) compete:
 
 a) Estudar e propor a normalização dos impressos em uso nos S. A. C., sem prejuízo da legislação em vigor sobre a matéria;
 
@@ -387,11 +399,11 @@ B) Dos serviços centrais
 
 #### SECÇÃO I — Do Serviço de Transporte Aéreo (STA)
 
-###### Art. 37.º Ao Serviço de Transporte Aéreo incumbe a orientação, coordenação e fiscalização das actividades do transporte e trabalho aéreos e de outras com elas relacionadas e, de uma maneira geral, todas as questões relativas à política aérea de âmbito provincial.
+Art. 37.º Ao Serviço de Transporte Aéreo incumbe a orientação, coordenação e fiscalização das actividades do transporte e trabalho aéreos e de outras com elas relacionadas e, de uma maneira geral, todas as questões relativas à política aérea de âmbito provincial.
 
-###### Art. 38.º O Serviço de Transporte Aéreo compreende a Divisão de Fomento Aeronáutico e a Divisão de Intercâmbio Aeronáutico.
+Art. 38.º O Serviço de Transporte Aéreo compreende a Divisão de Fomento Aeronáutico e a Divisão de Intercâmbio Aeronáutico.
 
-###### Art. 39.º À Divisão de Fomento Aeronáutico (SFO) compete:
+Art. 39.º À Divisão de Fomento Aeronáutico (SFO) compete:
 
 a) Estudar e informar sobre questões de política aérea;
 
@@ -401,7 +413,7 @@ c) Estudar e propor a regulamentação a que deva sujeitar-se o exercício das d
 
 d) Colaborar na realização de estudos relativos à viabilidade económica de empreendimentos aeronáuticos ou de outros que interessem ao desenvolvimento do transporte e do trabalho aéreos.
 
-###### Art. 40.º À Divisão de Intercâmbio Aeronáutico (SIN) compete:
+Art. 40.º À Divisão de Intercâmbio Aeronáutico (SIN) compete:
 
 a) Assegurar o serviço relacionado com a coordenação, centralização e difusão dos elementos de informação, intercâmbio e estatística de toda a actividade aeronáutica da província;
 
@@ -411,9 +423,9 @@ c) Assegurar o expediente relativo ao exercício das diversas actividades que se
 
 d) Estudar e propor as medidas necessárias à facilitação de transporte aéreo nos aeroportos e aeródromos da província.
 
-###### Art. 41.º A Divisão de Fomento Aeronáutico compreende a Repartição de Economia e a Repartição de Licenciamento.
+Art. 41.º A Divisão de Fomento Aeronáutico compreende a Repartição de Economia e a Repartição de Licenciamento.
 
-###### Art. 42.º À Repartição de Economia (SFE) compete:
+Art. 42.º À Repartição de Economia (SFE) compete:
 
 a) Estudar e informar tudo o que se relacione com a determinação da viabilidade económica de empreendimentos aeronáuticos, quer de carácter comercial, quer industrial, que interessem ao transporte ou ao trabalho aéreos;
 
@@ -427,7 +439,7 @@ e) Estudar e propor os planos de reapetrechamento das frotas dos operadores prov
 
 f) Estudar e propor as bases gerais para a exploração de serviços ou actividades comerciais, industriais e outras nos aeroportos e aeródromos da rede provincial.
 
-###### Art. 43.º À Repartição de Licenciamento (SFL) compete:
+Art. 43.º À Repartição de Licenciamento (SFL) compete:
 
 a) Organizar os processos relativos a pedidos de concessão e licenciamento de transporte e trabalho aéreo, bem como aos de transferência de direitos, solicitando o parecer, sempre que necessário, de outro ou outros serviços;
 
@@ -439,19 +451,19 @@ d) Estudar e propor a regulamentação de seguros de pessoal a aplicar às empre
 
 e) Estudar e propor a legislação relativa a contratos de pessoal afecto às empresas citadas no número anterior.
 
-###### Art. 44.º Junto da Divisão de Intercâmbio Aeronáutico haverá um órgão designado por Secretariado de Facilitação e de Segurança, cujo funcionamento será assegurado por pessoal designado eventualmente para o efeito, e ao qual competirá centralizar e executar todo o expediente a submeter a apreciação da Comissão Provincial de Facilitação (CPF) e da Comissão Provincial de Segurança (CPS) sempre que superiormente lhe seja determinado.
+Art. 44.º Junto da Divisão de Intercâmbio Aeronáutico haverá um órgão designado por Secretariado de Facilitação e de Segurança, cujo funcionamento será assegurado por pessoal designado eventualmente para o efeito, e ao qual competirá centralizar e executar todo o expediente a submeter a apreciação da Comissão Provincial de Facilitação (CPF) e da Comissão Provincial de Segurança (CPS) sempre que superiormente lhe seja determinado.
 
 #### SECÇÃO II — Do Serviço de Obras (OBR)
 
-###### Art. 45.º Ao Serviço de Obras incumbe tratar dos assuntos de engenharia civil, electrotécnica e mecânica, arquitectura e urbanização relacionados com as infra-estruturas da aeronáutica civil da província.
+Art. 45.º Ao Serviço de Obras incumbe tratar dos assuntos de engenharia civil, electrotécnica e mecânica, arquitectura e urbanização relacionados com as infra-estruturas da aeronáutica civil da província.
 
-###### Art. 46.º O Serviço de Obras compreende a Divisão Técnica de Áreas Operacionais e a Divisão Técnica de Edifícios, cada uma com as duas Repartições de Estudos e Projectos e as de Construção e Conservação; e a Divisão Técnica de Electricidade e Mecânica terá as Repartições de Electricidade e de Mecânica.
+Art. 46.º O Serviço de Obras compreende a Divisão Técnica de Áreas Operacionais e a Divisão Técnica de Edifícios, cada uma com as duas Repartições de Estudos e Projectos e as de Construção e Conservação; e a Divisão Técnica de Electricidade e Mecânica terá as Repartições de Electricidade e de Mecânica.
 
-###### Art. 47.º Como órgão complementar da Divisão Técnica de Áreas Operacionais funciona o Departamento de Pesquisa de Solos e Pavimentos.
+Art. 47.º Como órgão complementar da Divisão Técnica de Áreas Operacionais funciona o Departamento de Pesquisa de Solos e Pavimentos.
 
-###### Art. 48.º À Divisão Técnica de Áreas Operacionais (OAO) incumbe estudar e elaborar, reunidos os elementos de campo necessários, os de outros serviços intervenientes, os projectos de toda a infra-estrutura aeronáutica provincial, relativos a terraplenagens, drenagem e pavimentação das áreas operacionais, quer na parte de construção, quer na de manutenção, e ainda estudar e definir os limites das servidões aéreas dos aeroportos, aeródromos e pistas e elaborar as respectivas cartas de obstrução sempre que necessárias, e informar todos os assuntos correlativos.
+Art. 48.º À Divisão Técnica de Áreas Operacionais (OAO) incumbe estudar e elaborar, reunidos os elementos de campo necessários, os de outros serviços intervenientes, os projectos de toda a infra-estrutura aeronáutica provincial, relativos a terraplenagens, drenagem e pavimentação das áreas operacionais, quer na parte de construção, quer na de manutenção, e ainda estudar e definir os limites das servidões aéreas dos aeroportos, aeródromos e pistas e elaborar as respectivas cartas de obstrução sempre que necessárias, e informar todos os assuntos correlativos.
 
-###### Art. 49.º À Repartição de Estudos e Projectos da Divisão Técnica de Áreas Operacionais (OAE) compete:
+Art. 49.º À Repartição de Estudos e Projectos da Divisão Técnica de Áreas Operacionais (OAE) compete:
 
 a) Elaborar e calcular os projectos das áreas operacionais dos aeroportos e aeródromos;
 
@@ -479,7 +491,7 @@ l) Após aprovação do relatório mencionado no número anterior, preencher ou 
 
 m) Organizar e manter actualizado o cadastro da infra-estrutura aeronáutica provincial relativa a áreas operacionais, incluindo terrenos e servidões aéreas.
 
-###### Art. 50.º À Repartição de Construção e Conservação da Divisão Técnica de Áreas Operacionais (OAC) compete:
+Art. 50.º À Repartição de Construção e Conservação da Divisão Técnica de Áreas Operacionais (OAC) compete:
 
 a) Executar ou orientar as obras de construção e conservação das áreas operacionais nos aeroportos, aeródromos e pistas da província que lhe forem cometidas por administração directa;
 
@@ -503,7 +515,7 @@ j) Propor as vistorias para efeitos de recepção provisória e definitiva, cola
 
 k) Propor a libertação de garantias bancárias ou depósitos feitos pelas entidades adjudicatárias, após aprovação superior da vistoria definitiva.
 
-###### Art. 51.º Ao Departamento de Pesquisa de Solos e Pavimentos (DSP) compete:
+Art. 51.º Ao Departamento de Pesquisa de Solos e Pavimentos (DSP) compete:
 
 a) Organizar e orientar os trabalhos de ensaios de materiais de construção, bem como dos que se liguem ao estudo das características dos solos e pavimentos;
 
@@ -513,9 +525,9 @@ e) Executar ou promover os ensaios julgados convenientes ao contrôle da execuç
 
 d) Colaborar com a Divisão Técnica de Edifícios sempre que esta o julgue necessário.
 
-###### Art. 52.º À Divisão Técnica de Edifícios (OED) incumbe estudar e elaborar, reunidos os elementos dos outros serviços intervenientes, os projectos de edifícios e respectivos equipamentos, de instalações especiais e mobiliário, a construção e conservação dos mesmos, bem como os planos de urbanização dos aeroportos, aeródromos e demais instalações do S. A. C.
+Art. 52.º À Divisão Técnica de Edifícios (OED) incumbe estudar e elaborar, reunidos os elementos dos outros serviços intervenientes, os projectos de edifícios e respectivos equipamentos, de instalações especiais e mobiliário, a construção e conservação dos mesmos, bem como os planos de urbanização dos aeroportos, aeródromos e demais instalações do S. A. C.
 
-###### Art. 53.º À Repartição de Estudos e Projectos da Divisão Técnica de Edifícios (OEE) compete:
+Art. 53.º À Repartição de Estudos e Projectos da Divisão Técnica de Edifícios (OEE) compete:
 
 a) Elaborar os planos de urbanização dos aeroportos, aeródromos e demais instalações dos S. A. C., bem como estudar, projectar e calcular todos os edifícios que se destinem à instalação dos serviços centrais e externos;
 
@@ -541,7 +553,7 @@ k) Após aprovação do relatório mencionado no número anterior, preencher ou 
 
 l) Organizar e manter actualizado o cadastro da infra-estrutura aeronáutica provincial relativa aos edifícios dos S. A. C.
 
-###### Art. 54.º À Repartição de Construção e Conservação da Divisão Técnica de Edifícios (OEC) compete:
+Art. 54.º À Repartição de Construção e Conservação da Divisão Técnica de Edifícios (OEC) compete:
 
 a) Executar ou orientar as obras de construção e conservação dos edifícios nos aeroportos, aeródromos e pistas da província e nas restantes instalações dos S. A. C. que lhe forem cometidas por administração directa;
 
@@ -565,9 +577,9 @@ j) Propor as vistorias para efeitos de recepção provisória e definitiva, cola
 
 k) Propor a libertação de garantias bancárias ou depósitos feitos pelas entidades adjudicatárias, após aprovação superior da vistoria definitiva.
 
-###### Art. 55.º À Divisão Técnica de Electricidade e Mecânica (OEM) incumbe tratar dos assuntos relativos à produção, transformação, transporte e distribuição de energia eléctrica e sua legalização, nos aeroportos, aeródromos e outras instalações da aeronáutica civil, bem como da iluminação, balizagem e sinalização luminosa dos mesmos e ainda dos que digam respeito a equipamentos mecânicos, máquinas e viaturas dos S. A. C.
+Art. 55.º À Divisão Técnica de Electricidade e Mecânica (OEM) incumbe tratar dos assuntos relativos à produção, transformação, transporte e distribuição de energia eléctrica e sua legalização, nos aeroportos, aeródromos e outras instalações da aeronáutica civil, bem como da iluminação, balizagem e sinalização luminosa dos mesmos e ainda dos que digam respeito a equipamentos mecânicos, máquinas e viaturas dos S. A. C.
 
-###### Art. 56.º À Repartição de Electricidade (OEL) incumbe tratar de todos os assuntos relacionados com a iluminação, balizagem e sinalização luminosa dos aeroportos, aeródromos e demais instalações, competindo-lhe, nomeadamente:
+Art. 56.º À Repartição de Electricidade (OEL) incumbe tratar de todos os assuntos relacionados com a iluminação, balizagem e sinalização luminosa dos aeroportos, aeródromos e demais instalações, competindo-lhe, nomeadamente:
 
 a) Estudar e elaborar os planos para as instalações eléctricas de força, conforto, iluminação, balizagem e sinalização dos aeroportos, aeródromos, ajudas-rádio e outras instalações a cargo dos S. A. C.;
 
@@ -595,7 +607,7 @@ l) Organizar, orientar e acompanhar a acção dos órgãos dos S. A. C. directam
 
 m) Organizar e orientar o registo de consumos de energia eléctrica das instalações e dos equipamentos.
 
-###### Art. 57.º À Repartição de Mecânica (OMC) incumbe em especial tratar dos assuntos relacionados com a energia no que se refere a produção de energia e com o equipamento mecânico e de viaturas, competindo-lhe, nomeadamente:
+Art. 57.º À Repartição de Mecânica (OMC) incumbe em especial tratar dos assuntos relacionados com a energia no que se refere a produção de energia e com o equipamento mecânico e de viaturas, competindo-lhe, nomeadamente:
 
 a) Estudar as características dos equipamentos, viaturas e dos materiais e informar as propostas de aquisição e instalação, de acordo com as solicitações dos outros serviços;
 
@@ -619,13 +631,13 @@ j) Organizar, orientar e acompanhar a acção dos órgãos dos S. A. C. directam
 
 k) Organizar e manter actualizados registos cronológicos dos abastecimentos e gastos de combustíveis e lubrificantes, para todas a instalações a cargo dos S. A. C.
 
-###### Art. 58.º Como departamento comum às duas Repartições, existe a oficina de electricidade e mecânica, que disporá de instalações oficinais nos locais mais convenientes para garantia de funcionamento de todos os equipamentos eléctricos e mecânicos a cargo dos S. A. C.
+Art. 58.º Como departamento comum às duas Repartições, existe a oficina de electricidade e mecânica, que disporá de instalações oficinais nos locais mais convenientes para garantia de funcionamento de todos os equipamentos eléctricos e mecânicos a cargo dos S. A. C.
 
 #### SECÇÃO III — Do Serviço de Voo (VOO)
 
-###### Art. 59.º Ao Serviço de Voo incumbe tratar de todos os assuntos relativos ao pessoal técnico, à engenharia e a exploração técnica de aeronaves da província, incluindo o licenciamento, orientação e fiscalização dos respectivos exercícios, profissional e utilização técnica, ao despacho de aeronaves, e, ainda, os assuntos relacionados com socorros a aeronaves no solo.
+Art. 59.º Ao Serviço de Voo incumbe tratar de todos os assuntos relativos ao pessoal técnico, à engenharia e a exploração técnica de aeronaves da província, incluindo o licenciamento, orientação e fiscalização dos respectivos exercícios, profissional e utilização técnica, ao despacho de aeronaves, e, ainda, os assuntos relacionados com socorros a aeronaves no solo.
 
-###### Art. 60.º - 1. O Serviço de Voo compreende a Divisão Técnica de Operações e Pessoal com as Repartições de:
+Art. 60.º - 1. O Serviço de Voo compreende a Divisão Técnica de Operações e Pessoal com as Repartições de:
 
 Estudos e Legislação;
 
@@ -639,15 +651,15 @@ Inspecção de Material e de Serviços.
 
 2. A Secretaria Técnica deste Serviço trata, além do expediente geral, nomeadamente, do relativo a licenças de pessoal, registo de aeronaves, e da elaboração e emissão dos respectivos certificados, licenças e cadernetas técnicas.
 
-###### Art. 61.º - 1. Directamente dependentes do chefe da Divisão Técnica de Operações e Pessoal funcionam como órgãos complementares os Departamentos de Pilotos (VPI) e de Actividades Aerodesportivas (VAA).
+Art. 61.º - 1. Directamente dependentes do chefe da Divisão Técnica de Operações e Pessoal funcionam como órgãos complementares os Departamentos de Pilotos (VPI) e de Actividades Aerodesportivas (VAA).
 
 2. Ao Departamento de Pilotos, constituído pelos pilotos dos quadros dos S. A. C., incumbe a execução de toda e qualquer missão sancionada pelo director provincial.
 
 3. Ao Departamento de Actividades Aerodesportivas incumbe fomentar e informar os assuntos respeitantes a administração e funcionamento dos aeroclubes, escolas civis de aviação e demais actividades aeronáuticas e para-aeronáuticas de carácter desportivo, nos termos da legislação e normas especiais aplicáveis.
 
-###### Art. 62.º À Divisão Técnica de Operações e Pessoal (VOP) incumbem todos os assuntos relativos ao pessoal navegante, operações de voo e despacho de aeronaves.
+Art. 62.º À Divisão Técnica de Operações e Pessoal (VOP) incumbem todos os assuntos relativos ao pessoal navegante, operações de voo e despacho de aeronaves.
 
-###### Art. 63.º À Repartição de Estudos e Legislação, da Divisão Técnica de Operações e Pessoal (VOE), compete:
+Art. 63.º À Repartição de Estudos e Legislação, da Divisão Técnica de Operações e Pessoal (VOE), compete:
 
 a) Emitir parecer sobre todos os processos de concessão de licenças e qualificações de pessoal de operações de voo, de acordo com a legislação, doutrina e normas em vigor;
 
@@ -661,7 +673,7 @@ e) Proceder à divulgação das normas, instruções e procedimentos relacionado
 
 f) Preparar, elaborar e difundir programas de instrução e aperfeiçoamento para o pessoal de operações de voo, das várias actividades do seu âmbito, após homologação do director provincial.
 
-###### Art. 64.º À Repartição de Verificação de Pessoal e Inspecção de Serviços (VOV) compete:
+Art. 64.º À Repartição de Verificação de Pessoal e Inspecção de Serviços (VOV) compete:
 
 a) Proceder ao estudo dos assuntos de ordem operacional que forem julgados necessários, e aos quais a Repartição se encontre apta a dar execução ou a dar o parecer quando para isso for solicitada;
 
@@ -687,9 +699,9 @@ k) Organizar e executar exames e verificações de conhecimento e aptidão prát
 
 l) Garantir o integral cumprimento da legislação aeronáutica nacional ou internacional aceites pelo País.
 
-###### Art. 65.º À Divisão Técnica de Material Aeronáutico (VMA) incumbe tratar dos assuntos próprios das actividades de engenharia de aeronaves, seus componentes e equipamentos, incluindo os serviços e o pessoal de fabricação, modificação e manutenção, tendo em vista as normas internacionais e as instruções e recomendações dos fabricantes, e das autoridades aeronáuticas dos países de origem e os assuntos relativos ao material de luta contra incêndios de aeronaves e de desobstrução de pistas e à sua exploração técnica.
+Art. 65.º À Divisão Técnica de Material Aeronáutico (VMA) incumbe tratar dos assuntos próprios das actividades de engenharia de aeronaves, seus componentes e equipamentos, incluindo os serviços e o pessoal de fabricação, modificação e manutenção, tendo em vista as normas internacionais e as instruções e recomendações dos fabricantes, e das autoridades aeronáuticas dos países de origem e os assuntos relativos ao material de luta contra incêndios de aeronaves e de desobstrução de pistas e à sua exploração técnica.
 
-###### Art. 66.º À Repartição de Estudos e Legislação da Divisão Técnica de Material Aeronáutico (VME) compete:
+Art. 66.º À Repartição de Estudos e Legislação da Divisão Técnica de Material Aeronáutico (VME) compete:
 
 a) Proceder aos estudos de técnica aeronáutica relativamente à engenharia e à exploração técnica de aeronaves, incluindo todo o equipamento de bordo, componentes e ingredientes, e os equipamentos e materiais de manutenção;
 
@@ -703,7 +715,7 @@ e) Proceder à divulgação das normas, instruções e procedimentos relacionado
 
 f) Preparar, elaborar e difundir programas de instrução e aperfeiçoamento para o pessoal técnico de material de voo das várias actividades do seu âmbito, após homologação do director provincial.
 
-###### Art. 67.º À Repartição de Inspecção de Material e de Serviços (VMI) compete:
+Art. 67.º À Repartição de Inspecção de Material e de Serviços (VMI) compete:
 
 a) Organizar e manter em dia o cadastro de todo o material aeronáutico certificado e registado nos S. A. C.;
 
@@ -725,11 +737,11 @@ i) Manter o contrôle e o registo das inspecções e homologações dos serviço
 
 #### SECÇÃO IV — Do Serviço de Tráfego Aéreo (NAV)
 
-###### Art. 68.º Ao Serviço de Tráfego Aéreo incumbe promover a segurança da navegação aérea, nos espaços aéreos da província e nos internacionais delegados à responsabilidade dos órgãos provinciais de tráfego aéreo, o planeamento geral, o estudo e a exploração técnica dos órgãos de tráfego aéreo e de busca e salvamento, a preparação e participação nas reuniões internacionais relacionadas com o tráfego aéreo e o estudo dos investimentos em equipamentos, instalações e preparação do pessoal e, conforme os casos, à execução dos programas ou à fiscalização dos trabalhos aprovados.
+Art. 68.º Ao Serviço de Tráfego Aéreo incumbe promover a segurança da navegação aérea, nos espaços aéreos da província e nos internacionais delegados à responsabilidade dos órgãos provinciais de tráfego aéreo, o planeamento geral, o estudo e a exploração técnica dos órgãos de tráfego aéreo e de busca e salvamento, a preparação e participação nas reuniões internacionais relacionadas com o tráfego aéreo e o estudo dos investimentos em equipamentos, instalações e preparação do pessoal e, conforme os casos, à execução dos programas ou à fiscalização dos trabalhos aprovados.
 
-###### Art. 69.º O Serviço de Tráfego Aéreo compreende a Divisão Técnica de Estudos, Normas e Procedimentos e a Divisão Técnica de Exploração.
+Art. 69.º O Serviço de Tráfego Aéreo compreende a Divisão Técnica de Estudos, Normas e Procedimentos e a Divisão Técnica de Exploração.
 
-###### Art. 70.º À Divisão Técnica de Estudos, Normas e Procedimentos (NEP) compete:
+Art. 70.º À Divisão Técnica de Estudos, Normas e Procedimentos (NEP) compete:
 
 a) Estudar a estruturação do espaço aéreo sob responsabilidade aeronáutica provincial;
 
@@ -749,7 +761,7 @@ h) O planeamento dos equipamentos e instalações dos órgãos de tráfego aére
 
 i) A análise de informações estatísticas, com vista a promover o aperfeiçoamento técnico de exploração e o estudo e apreciação de equipamentos e sistemas de contrôle utilizados por outras administrações de aeronáutica civil com o objectivo de acompanhar a evolução geral.
 
-###### Art. 71.º À Divisão Técnica de Exploração (NEX) compete:
+Art. 71.º À Divisão Técnica de Exploração (NEX) compete:
 
 a) A orientação da rotina de exploração dos serviços externos e inspecção da sua actividade;
 
@@ -763,13 +775,13 @@ e) Analisar e coordenar os assuntos referentes a restrições no espaço aéreo 
 
 #### SECÇÃO V — Do Serviço de Telecomunicações (TEL)
 
-###### Art. 72.º Ao Serviço de Telecomunicações incumbe tratar todos os assuntos relativos ao planeamento, estudo, instalação e funcionamento dos meios e serviços destinados a satisfazer as necessidades da província em matéria de telecomunicações aeronáuticas e as internacionais que nesta matéria tenham sido delegadas no SAC, bem assim como a preparação e participação nas reuniões internacionais relacionadas com as telecomunicações.
+Art. 72.º Ao Serviço de Telecomunicações incumbe tratar todos os assuntos relativos ao planeamento, estudo, instalação e funcionamento dos meios e serviços destinados a satisfazer as necessidades da província em matéria de telecomunicações aeronáuticas e as internacionais que nesta matéria tenham sido delegadas no SAC, bem assim como a preparação e participação nas reuniões internacionais relacionadas com as telecomunicações.
 
-###### Art. 73.º O Serviço de Telecomunicações compreende a Divisão Técnica de Planeamento e Instalação com as Repartições de Estudos e de Instalações e Aprovisionamento, e a Divisão Técnica de Exploração com as Repartições de Manutenção e de Operação.
+Art. 73.º O Serviço de Telecomunicações compreende a Divisão Técnica de Planeamento e Instalação com as Repartições de Estudos e de Instalações e Aprovisionamento, e a Divisão Técnica de Exploração com as Repartições de Manutenção e de Operação.
 
-###### Art. 74.º À Divisão Técnica de Planeamento e Instalação (TPI) incumbe garantir a actualização, desenvolvimento e planeamento dos meios necessários às telecomunicações e a orientação das novas instalações e o andamento dos processos de aquisição e fornecimento de equipamentos e materiais.
+Art. 74.º À Divisão Técnica de Planeamento e Instalação (TPI) incumbe garantir a actualização, desenvolvimento e planeamento dos meios necessários às telecomunicações e a orientação das novas instalações e o andamento dos processos de aquisição e fornecimento de equipamentos e materiais.
 
-###### Art. 75.º À Repartição de Estudos (TPE) compete:
+Art. 75.º À Repartição de Estudos (TPE) compete:
 
 a) Estudar os novos sistemas e equipamentos;
 
@@ -779,7 +791,7 @@ c) Definir as condições técnicas dos cadernos de encargos relativos às aquis
 
 d) Normalização dos serviços e instalações.
 
-###### Art. 76.º À Repartição de Instalações e Aprovisionamento (TPA) compete:
+Art. 76.º À Repartição de Instalações e Aprovisionamento (TPA) compete:
 
 a) Executar, ou orientar e fiscalizar a materialização de novas instalações de equipamentos e serviços;
 
@@ -791,9 +803,9 @@ d) Actualização e contrôle dos materiais e respectivas cargas;
 
 e) Distribuição e expedição dos materiais e equipamentos sobresselentes.
 
-###### Art. 77.º À Divisão Técnica de Exploração (TEX) incumbe a orientação e fiscalização dos centros de telecomunicações, regionais e dos aeródromos, incluindo a verificação do grau de eficiência, estado das instalações e cumprimento das normas de serviço.
+Art. 77.º À Divisão Técnica de Exploração (TEX) incumbe a orientação e fiscalização dos centros de telecomunicações, regionais e dos aeródromos, incluindo a verificação do grau de eficiência, estado das instalações e cumprimento das normas de serviço.
 
-###### Art. 78.º À Repartição de Manutenção (TEM) compete:
+Art. 78.º À Repartição de Manutenção (TEM) compete:
 
 a) Estudar a resolução dos problemas correntes de manutenção dos serviços externos;
 
@@ -807,7 +819,7 @@ e) A definição das condições dos cadernos de encargos relativos às aquisiç
 
 f) A orientação da rotina de manutenção dos serviços externos e inspecção da sua actividade.
 
-###### Art. 79.º À Repartição de Operações (TEO) compete:
+Art. 79.º À Repartição de Operações (TEO) compete:
 
 a) A fiscalização da aplicação das normas nacionais e internacionais;
 
@@ -823,15 +835,15 @@ f) A orientação da rotina de operação dos serviços externos e inspecção d
 
 #### SECÇÃO VI — Do Serviço Administrativo (ADM)
 
-###### Art. 80.º Ao Serviço Administrativo incumbe assegurar o funcionamento dos diversos sectores dos serviços, no que diz respeito aos assuntos do pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
+Art. 80.º Ao Serviço Administrativo incumbe assegurar o funcionamento dos diversos sectores dos serviços, no que diz respeito aos assuntos do pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
 
-###### Art. 81.º O Serviço Administrativo compreende a Repartição Central e a Repartição de Finanças.
+Art. 81.º O Serviço Administrativo compreende a Repartição Central e a Repartição de Finanças.
 
-###### Art. 82.º À Repartição Central (ARC) incumbe todo o serviço relacionado com o pessoal e expediente geral.
+Art. 82.º À Repartição Central (ARC) incumbe todo o serviço relacionado com o pessoal e expediente geral.
 
-###### Art. 83.º À Repartição de Finanças (ARF) incumbe todo o serviço relacionado com as receitas e despesas dos S. A. C.
+Art. 83.º À Repartição de Finanças (ARF) incumbe todo o serviço relacionado com as receitas e despesas dos S. A. C.
 
-###### Art. 84.º - 1. Dependente directamente do Serviço Administrativo funciona o departamento de Transportes (TRA), cuja função é promover o desenvolvimento dos planos de aquisição de viaturas e proceder à sua distribuição pelos vários serviços, após aprovação superior.
+Art. 84.º - 1. Dependente directamente do Serviço Administrativo funciona o departamento de Transportes (TRA), cuja função é promover o desenvolvimento dos planos de aquisição de viaturas e proceder à sua distribuição pelos vários serviços, após aprovação superior.
 
 2. A responsabilidade pela utilização das viaturas distribuídas aos serviços cabe aos respectivos chefes.
 
@@ -839,65 +851,65 @@ C) Dos serviços externos
 
 #### SECÇÃO I — Dos centros de coordenação de busca e salvamento (CCBS)
 
-###### Art. 85.º Os centros de coordenação de busca e salvamento (C. C. B. S.) dependem directamente do director provincial.
+Art. 85.º Os centros de coordenação de busca e salvamento (C. C. B. S.) dependem directamente do director provincial.
 
-###### Art. 86.º Aos C. C. B. S. compete a execução das normas e planos de pesquisa e socorro às aeronaves em emergência e a coordenação dos elementos à sua disposição, de acordo com as disposições aplicáveis.
+Art. 86.º Aos C. C. B. S. compete a execução das normas e planos de pesquisa e socorro às aeronaves em emergência e a coordenação dos elementos à sua disposição, de acordo com as disposições aplicáveis.
 
-###### Art. 87.º O pessoal a prestar serviço com carácter permanente nos C. C. B. S. será designado por simples despacho do director provincial.
+Art. 87.º O pessoal a prestar serviço com carácter permanente nos C. C. B. S. será designado por simples despacho do director provincial.
 
 #### SECÇÃO II — Dos aeroportos (ARP) e aeródromos (ARD)
 
-###### Art. 88.º A classificação dos aeródromos é feita de acordo com as possibilidades técnico-operacionais que os mesmos possuem.
+Art. 88.º A classificação dos aeródromos é feita de acordo com as possibilidades técnico-operacionais que os mesmos possuem.
 
-###### Art. 89.º Os aeródromos que permitem o tráfego internacional possuindo os meios recomendados pelos organismos nacionais e internacionais designam-se por aeroportos, e a sua classificação é definida pela Direcção-Geral da Aeronáutica Civil.
+Art. 89.º Os aeródromos que permitem o tráfego internacional possuindo os meios recomendados pelos organismos nacionais e internacionais designam-se por aeroportos, e a sua classificação é definida pela Direcção-Geral da Aeronáutica Civil.
 
-###### Art. 90.º As zonas de servidões aéreas dos aeródromos são fixadas por portaria do governador-geral, sob proposta da D. P. S. A. C.
+Art. 90.º As zonas de servidões aéreas dos aeródromos são fixadas por portaria do governador-geral, sob proposta da D. P. S. A. C.
 
-###### Art. 91.º Os aeroportos (ARP) e aeródromos (ARD) são órgãos de exploração dos serviços externos, competindo-lhes a execução dos serviços próprios dos aeródromos, e outros afins que lhe sejam atribuídos.
+Art. 91.º Os aeroportos (ARP) e aeródromos (ARD) são órgãos de exploração dos serviços externos, competindo-lhes a execução dos serviços próprios dos aeródromos, e outros afins que lhe sejam atribuídos.
 
-###### Art. 92.º - 1. A chefia dos aeroportos e aeródromos competirá, respectivamente, a directores de aeroporto e directores de aeródromo.
+Art. 92.º - 1. A chefia dos aeroportos e aeródromos competirá, respectivamente, a directores de aeroporto e directores de aeródromo.
 
 2. Quando as circunstâncias o justifiquem, pode um director de aeródromo ser colocado como adjunto do director de um aeroporto.
 
 3. Nos aeródromos cuja infra-estrutura técnico-operacional não justifique a chefia referida no n.º 1 deste artigo, esta poderá ser entregue ao funcionário a quem o director provincial reconheça qualidades para o exercício do cargo.
 
-###### Art. 93.º - 1. Compete ao director de aeroporto ou de aeródromo superintender e dirigir os serviços próprios do aeroporto ou aeródromo e coordenar e apoiar as actividades de carácter técnico, administrativo e outras que nele se exerçam.
+Art. 93.º - 1. Compete ao director de aeroporto ou de aeródromo superintender e dirigir os serviços próprios do aeroporto ou aeródromo e coordenar e apoiar as actividades de carácter técnico, administrativo e outras que nele se exerçam.
 
 2. Outras competências ou atribuições dos directores de aeroportos e aeródromos serão definidas pelo director provincial.
 
-###### Art. 94.º O director de aeroporto ou aeródromo é obrigado a participar imediatamente ao director provincial qualquer atitude ou acto, julgado punível, cometido na área da sua jurisdição por entidades ou agentes de serviços estranhos aos S. A. C.
+Art. 94.º O director de aeroporto ou aeródromo é obrigado a participar imediatamente ao director provincial qualquer atitude ou acto, julgado punível, cometido na área da sua jurisdição por entidades ou agentes de serviços estranhos aos S. A. C.
 
-###### Art. 95.º Tanto os serviços oficiais como as entidades particulares instalados nos aeroportos ou aeródromos são obrigados a dar conhecimento do movimento do seu pessoal ao director do mesmo.
+Art. 95.º Tanto os serviços oficiais como as entidades particulares instalados nos aeroportos ou aeródromos são obrigados a dar conhecimento do movimento do seu pessoal ao director do mesmo.
 
-###### Art. 96.º Para manutenção da ordem pública será destacado pela autoridade competente o pessoal que seja considerado necessário.
+Art. 96.º Para manutenção da ordem pública será destacado pela autoridade competente o pessoal que seja considerado necessário.
 
-###### Art. 97.º Os directores dos aeroportos dependem directamente do director provincial.
+Art. 97.º Os directores dos aeroportos dependem directamente do director provincial.
 
 #### SECÇÃO III — Dos centros de «contrôle» regional (CCR)
 
-###### Art. 98.º A D. P. S. A. C. estabelecerá os centros de contrôle regional (CCR), de acordo com as obrigações internacionais aceites pelo País.
+Art. 98.º A D. P. S. A. C. estabelecerá os centros de contrôle regional (CCR), de acordo com as obrigações internacionais aceites pelo País.
 
-###### Art. 99.º Os centros de contrôle regional são órgãos de exploração dos serviços externos que têm por finalidade a execução dos serviços relativos ao contrôle e segurança do tráfego aéreo e a activação dos C. C. B. S.
+Art. 99.º Os centros de contrôle regional são órgãos de exploração dos serviços externos que têm por finalidade a execução dos serviços relativos ao contrôle e segurança do tráfego aéreo e a activação dos C. C. B. S.
 
-###### Art. 100.º A chefia dos CCR será exercida por um chefe recrutado entre os controladores principais de tráfego aéreo, competindo-lhe superintende, dirigir e coordenar todas as actividades dos órgãos de tráfego aéreo, segundo as normas dimanadas dos serviços centrais dos S. A. C.
+Art. 100.º A chefia dos CCR será exercida por um chefe recrutado entre os controladores principais de tráfego aéreo, competindo-lhe superintende, dirigir e coordenar todas as actividades dos órgãos de tráfego aéreo, segundo as normas dimanadas dos serviços centrais dos S. A. C.
 
-###### Art. 101.º O chefe do CCR depende directamente do chefe de Serviço de Tráfego Aéreo.
+Art. 101.º O chefe do CCR depende directamente do chefe de Serviço de Tráfego Aéreo.
 
 #### SECÇÃO IV — Dos centros de telecomunicações
 
-###### Art. 102.º De acordo com a finalidade a atingir, a D. P. S. A. C. instalará os centros regionais de telecomunicações, centros de telecomunicações de aeródromo e instalações de ajuda rádio que reputar necessários.
+Art. 102.º De acordo com a finalidade a atingir, a D. P. S. A. C. instalará os centros regionais de telecomunicações, centros de telecomunicações de aeródromo e instalações de ajuda rádio que reputar necessários.
 
-###### Art. 103.º Os centros regionais de telecomunicações (CRT) são órgãos dos serviços externos que têm por finalidade a manutenção e a operação das telecomunicações, salvo quando a operação estiver cometida a pessoal do Serviço de Tráfego Aéreo; as instalações das telecomunicações compreendem os órgãos necessários ao serviço fixo, serviço móvel a longa, média e curta distância e as ajudas-rádio à navegação aérea.
+Art. 103.º Os centros regionais de telecomunicações (CRT) são órgãos dos serviços externos que têm por finalidade a manutenção e a operação das telecomunicações, salvo quando a operação estiver cometida a pessoal do Serviço de Tráfego Aéreo; as instalações das telecomunicações compreendem os órgãos necessários ao serviço fixo, serviço móvel a longa, média e curta distância e as ajudas-rádio à navegação aérea.
 
-###### Art. 104.º Os centros de telecomunicações de aeródromo (CTD) são órgãos dos serviços externos que têm por finalidade a manutenção e a operação das instalações de serviço fixo, de serviço móvel a curta distância, salvo quando esta operação estiver cometida a pessoal do Serviço de Tráfego Aéreo, e as ajudas-rádio servindo o aeródromo respectivo. Desde que as circunstâncias o recomendem, os centros de telecomunicações de aeródromo podem incluir a manutenção e operação do serviço móvel a longa e média distância.
+Art. 104.º Os centros de telecomunicações de aeródromo (CTD) são órgãos dos serviços externos que têm por finalidade a manutenção e a operação das instalações de serviço fixo, de serviço móvel a curta distância, salvo quando esta operação estiver cometida a pessoal do Serviço de Tráfego Aéreo, e as ajudas-rádio servindo o aeródromo respectivo. Desde que as circunstâncias o recomendem, os centros de telecomunicações de aeródromo podem incluir a manutenção e operação do serviço móvel a longa e média distância.
 
-###### Art. 105.º A chefia dos centros regionais de telecomunicações será exercida por um chefe recrutado entre os engenheiros electrotécnicos, competindo-lhe superintender, dirigir e coordenar todas as actividades dos órgãos das telecomunicações, segundo as normas dimanadas dos serviços centrais dos S. A. C.
+Art. 105.º A chefia dos centros regionais de telecomunicações será exercida por um chefe recrutado entre os engenheiros electrotécnicos, competindo-lhe superintender, dirigir e coordenar todas as actividades dos órgãos das telecomunicações, segundo as normas dimanadas dos serviços centrais dos S. A. C.
 
-###### Art. 106.º - 1 A chefia dos centros de telecomunicações de aeródromo é exercida por um técnico de telecomunicações principal, competindo-lhe superintender, dirigir e coordenar todas as actividades de telecomunicações e ajudas-rádio do respectivo centro, segundo as normas dimanadas pelo Centro Regional de Telecomunicações.
+Art. 106.º - 1 A chefia dos centros de telecomunicações de aeródromo é exercida por um técnico de telecomunicações principal, competindo-lhe superintender, dirigir e coordenar todas as actividades de telecomunicações e ajudas-rádio do respectivo centro, segundo as normas dimanadas pelo Centro Regional de Telecomunicações.
 
 2. Quando as circunstâncias o aconselharem, a chefia do Centro será exercida por um engenheiro electrotécnico.
 
-###### Art. 107.º - 1. Os centros regionais de telecomunicações dependem directamente do Serviço de Telecomunicações.
+Art. 107.º - 1. Os centros regionais de telecomunicações dependem directamente do Serviço de Telecomunicações.
 
 2. Os centros de telecomunicações de aeródromo dependem directamente do Centro Regional de Telecomunicações.
 
@@ -905,7 +917,7 @@ C) Dos serviços externos
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 108.º - 1. O pessoal dos S. A. C. é classificado pela seguinte forma:
+Art. 108.º - 1. O pessoal dos S. A. C. é classificado pela seguinte forma:
 
 a) Pessoal superior;
 
@@ -933,17 +945,17 @@ f) Pessoal operário e serventuário.
 
 8. O pessoal dos S. A. C. distribui-se ainda pelo quadro comum e pelos quadros privativos; pertence ao primeiro todo o pessoal superior e técnico de categoria igual ou superior ao grupo da letra G referida no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, e o pessoal administrativo de categoria igual ou superior ao grupo da letra J; todo o restante pessoal pertence aos respectivos quadros privativos.
 
-###### Art. 109.º Sempre que os S. A. C. necessitem de pessoal para o exercício de serviços especiais, este poderá ser subsidiado, por despacho do Governador-Geral, sob proposta do director provincial.
+Art. 109.º Sempre que os S. A. C. necessitem de pessoal para o exercício de serviços especiais, este poderá ser subsidiado, por despacho do Governador-Geral, sob proposta do director provincial.
 
-###### Art. 110.º - 1. Os quadros do pessoal dos S. A. C., de Angola e de Moçambique, são os fixados nos respectivos mapas I e II anexos ao presente diploma e que dele fazem parte integrante e baixam assinados pelo Ministro do Ultramar.
+Art. 110.º - 1. Os quadros do pessoal dos S. A. C., de Angola e de Moçambique, são os fixados nos respectivos mapas I e II anexos ao presente diploma e que dele fazem parte integrante e baixam assinados pelo Ministro do Ultramar.
 
 2. Observadas as designações e categorias que constam do mapa II, o número de unidades do quadro privativo será fixado pelo Governador Geral respectivo.
 
 #### SECÇÃO II — Das condições de provimento
 
-###### Art. 111.º O pessoal dos S. A. C. é provido em conformidade com o disposto no Estatuto do Funcionalismo Ultramarino.
+Art. 111.º O pessoal dos S. A. C. é provido em conformidade com o disposto no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 112.º - 1. O recrutamento e provimento dos diferentes lugares do quadro do pessoal superior dos S. A. C. obedecerá às seguintes regras:
+Art. 112.º - 1. O recrutamento e provimento dos diferentes lugares do quadro do pessoal superior dos S. A. C. obedecerá às seguintes regras:
 
 a) Inspectores provinciais, directores provinciais, directores provinciais-adjuntos e directores de aeroporto de 1.ª classe - nomeados em comissão, por escolha do Ministro do Ultramar, ouvido o director-geral da Aeronáutica Civil, entre os possuidores de curso técnico superior, experiência aeronáutica e aptidão comprovada no exercício de cargos anteriores;
 
@@ -1003,17 +1015,17 @@ l) Tesoureiro - por promoção dos tesoureiros-pagadores com três ou mais anos 
 
 m) Chefes de secção - por promoção, mediante prévio concurso de provas práticas, entre os primeiros-oficiais com o mínimo de três anos de serviço ou dois anos se tiver informação de Muito bom.
 
-###### Art. 113.º O regime de recrutamento, ingresso e promoções de pessoal dos quadros privativos, bem como os respectivos programas dos concursos, deve ser regulado por diploma provincial.
+Art. 113.º O regime de recrutamento, ingresso e promoções de pessoal dos quadros privativos, bem como os respectivos programas dos concursos, deve ser regulado por diploma provincial.
 
-###### Art. 114.º Nos concursos para lugares do quadro comum, quando se verifique igualdade de candidatos, preferem os que já prestem serviço na Aeronáutica Civil há mais de um ano.
+Art. 114.º Nos concursos para lugares do quadro comum, quando se verifique igualdade de candidatos, preferem os que já prestem serviço na Aeronáutica Civil há mais de um ano.
 
-###### Art. 115.º O pessoal assalariado com a designação de assistente de quaisquer especialidades é dispensado do serviço sempre que não obtenha aprovação nos respectivos cursos de formação profissional a que se refere o artigo 27.º
+Art. 115.º O pessoal assalariado com a designação de assistente de quaisquer especialidades é dispensado do serviço sempre que não obtenha aprovação nos respectivos cursos de formação profissional a que se refere o artigo 27.º
 
-###### Art. 116.º Quando, por falta ou insuficiência de candidatos aprovados no respectivo concurso, não puderem ser preenchidas todas as vagas existentes, poderão estas ser providas por contrato de indivíduos com as habilitações e qualificações legais, mas com dispensa do limite de idade.
+Art. 116.º Quando, por falta ou insuficiência de candidatos aprovados no respectivo concurso, não puderem ser preenchidas todas as vagas existentes, poderão estas ser providas por contrato de indivíduos com as habilitações e qualificações legais, mas com dispensa do limite de idade.
 
 #### SECÇÃO III — Dos vencimentos, gratificações e outras remunerações
 
-###### Art. 117.º - 1. Além dos vencimentos e demais remunerações previstas na lei geral, o pessoal dos S. A. C. terá direito ao abono das gratificações mensais seguintes:
+Art. 117.º - 1. Além dos vencimentos e demais remunerações previstas na lei geral, o pessoal dos S. A. C. terá direito ao abono das gratificações mensais seguintes:
 
 a) Inspectores provinciais e directores provinciais ... 3000$00
 
@@ -1033,7 +1045,7 @@ h) Contínuos designados como chefes de pessoal menor e serventes desempenhando 
 
 2. As gratificações a que se refere o número anterior não são acumuláveis entre si, sendo sempre abonada a mais elevada.
 
-###### Art. 118.º - 1. Tem direito ao abono de um subsídio de voo o pessoal navegante quando faça parte da tripulação de uma aeronave, e de uma gratificação por serviço aéreo eventual todo o restante pessoal que se desloque dentro da província com fins expressos de estudo, verificação e fiscalização a definir pelo director provincial.
+Art. 118.º - 1. Tem direito ao abono de um subsídio de voo o pessoal navegante quando faça parte da tripulação de uma aeronave, e de uma gratificação por serviço aéreo eventual todo o restante pessoal que se desloque dentro da província com fins expressos de estudo, verificação e fiscalização a definir pelo director provincial.
 
 2. O quantitativo do subsídio de voo é de 200$00 por hora de voo para os pilotos e de 130$00 para os mecânicos.
 
@@ -1041,15 +1053,15 @@ h) Contínuos designados como chefes de pessoal menor e serventes desempenhando 
 
 4. Estas gratificações acumulam com as ajudas de custo previstas na legislação geral, quando houver lugar a estas.
 
-###### Art. 119.º Para efeitos de remuneração considera-se trabalho nocturno o que for efectuado entre as 22 e as 6 horas.
+Art. 119.º Para efeitos de remuneração considera-se trabalho nocturno o que for efectuado entre as 22 e as 6 horas.
 
-###### Art. 120.º O trabalho nocturno prestado por todo o pessoal que o efectue dentro do período referido no artigo anterior dá direito aos seguintes abonos por hora:
+Art. 120.º O trabalho nocturno prestado por todo o pessoal que o efectue dentro do período referido no artigo anterior dá direito aos seguintes abonos por hora:
 
 Igual ou superior à letra M ... 15$00
 
 Letras inferiores a M ... 10$00
 
-###### Art. 121.º - 1. Considera-se trabalho normal do pessoal dos S. A. C. trinta e seis horas semanais com as excepções seguintes:
+Art. 121.º - 1. Considera-se trabalho normal do pessoal dos S. A. C. trinta e seis horas semanais com as excepções seguintes:
 
 ... Horas
 
@@ -1065,13 +1077,13 @@ Pessoal da Polícia de Segurança Pública ... 48
 
 2. A duração do trabalho normal do pessoal dos serviços externos dos S. A. C. com funcionamento permanente é reduzida do número de horas de trabalho diário sempre que na semana haja um feriado nacional.
 
-###### Art. 122.º - 1. Considera-se trabalho extraordinário o que for executado além dos períodos referidos nos n.os 1 e 2 do artigo anterior, sendo remunerado na sua totalidade.
+Art. 122.º - 1. Considera-se trabalho extraordinário o que for executado além dos períodos referidos nos n.os 1 e 2 do artigo anterior, sendo remunerado na sua totalidade.
 
 2. Em tudo o mais referente a este tipo de remuneração observar-se-á o disposto no Estatuto do Funcionalismo Ultramarino e mais legislação em vigor.
 
-###### Art. 123.º Ao secretário do conselho aeronáutico provincial serão abonadas senhas de presença de 250$00 por cada sessão, não podendo o abono mensal ultrapassar 1000$00.
+Art. 123.º Ao secretário do conselho aeronáutico provincial serão abonadas senhas de presença de 250$00 por cada sessão, não podendo o abono mensal ultrapassar 1000$00.
 
-###### Art. 124.º - 1. São ainda fixadas, além das gratificações e remunerações indicadas nos artigos anteriores, os seguintes quantitativos de subsídio diário, a abonar ao pessoal superior, técnico e técnico-auxiliar que opte pelo mesmo:
+Art. 124.º - 1. São ainda fixadas, além das gratificações e remunerações indicadas nos artigos anteriores, os seguintes quantitativos de subsídio diário, a abonar ao pessoal superior, técnico e técnico-auxiliar que opte pelo mesmo:
 
 a) Pessoal superior, com exclusão do administrativo e do considerado nos grupos seguintes, e pessoal técnico com curso superior - 70$00 a 180$00;
 
@@ -1091,71 +1103,71 @@ f) Pessoal técnico auxiliar de categoria inferior à letra V - 10$00 a 20$00.
 
 4. Os quantitativos do subsídio diário serão fixados pelos órgãos legislativos provinciais dentro dos limites definidos no n.º 1 deste artigo.
 
-###### Art. 125.º - 1. O subsídio diário a que se refere o artigo anterior é acumulável com quaisquer gratificações, subsídios ou ajudas de custo a que os funcionários tenham direito.
+Art. 125.º - 1. O subsídio diário a que se refere o artigo anterior é acumulável com quaisquer gratificações, subsídios ou ajudas de custo a que os funcionários tenham direito.
 
 2. Só há lugar ao abono de subsídio diário e gratificações quando as condições que estabelecem o direito ao mesmo são inerentes às funções desempenhadas.
 
-###### Art. 126.º O subsídio para o pessoal referido no artigo 109.º será fixado, em cada caso, por despacho do respectivo Governador-Geral.
+Art. 126.º O subsídio para o pessoal referido no artigo 109.º será fixado, em cada caso, por despacho do respectivo Governador-Geral.
 
-###### Art. 127.º Cumulativamente com as gratificações a que se referem os artigos anteriores, ao director do Centro de Instrução e aos directores de instrução e a cada um dos instrutores de escolas de preparação e aperfeiçoamento profissional que venham a entrar em funcionamento é abonada a gratificação mensal, respectivamente de 2500$00 e 1500$00, durante os cursos.
+Art. 127.º Cumulativamente com as gratificações a que se referem os artigos anteriores, ao director do Centro de Instrução e aos directores de instrução e a cada um dos instrutores de escolas de preparação e aperfeiçoamento profissional que venham a entrar em funcionamento é abonada a gratificação mensal, respectivamente de 2500$00 e 1500$00, durante os cursos.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 128.º São consideradas especificamente autoridades aeronáuticas provinciais de fiscalização em Angola e Moçambique, além dos inspectores e directores provinciais e seus adjuntos, os chefes de serviço, os directores dos aeroportos e dos aeródromos e todos os funcionários que sejam designados e devidamente credenciados para tal fim.
+Art. 128.º São consideradas especificamente autoridades aeronáuticas provinciais de fiscalização em Angola e Moçambique, além dos inspectores e directores provinciais e seus adjuntos, os chefes de serviço, os directores dos aeroportos e dos aeródromos e todos os funcionários que sejam designados e devidamente credenciados para tal fim.
 
-###### Art. 129.º Os S. A. C. de Angola e de Moçambique usarão, para identificação dos bens patrimoniais que lhes estão afectos, documentos e tudo o mais que se relacione com os respectivos serviços, o emblema aprovado pela [Portaria n.º 14581](https://diariodarepublica.pt/dr/detalhe/portaria/14581-1953-653087), de 22 de Outubro de 1953.
+Art. 129.º Os S. A. C. de Angola e de Moçambique usarão, para identificação dos bens patrimoniais que lhes estão afectos, documentos e tudo o mais que se relacione com os respectivos serviços, o emblema aprovado pela [Portaria n.º 14581](https://diariodarepublica.pt/dr/detalhe/portaria/14581-1953-653087), de 22 de Outubro de 1953.
 
-###### Art. 130.º O director provincial submeterá a aprovação do Governador-Geral um regulamento que determine qual o pessoal que em serviço deve usar uniforme, assim como qual o seu tipo, uso e subsídios a que tal der lugar.
+Art. 130.º O director provincial submeterá a aprovação do Governador-Geral um regulamento que determine qual o pessoal que em serviço deve usar uniforme, assim como qual o seu tipo, uso e subsídios a que tal der lugar.
 
-###### Art. 131.º Em assuntos de carácter técnico, a Direcção-Geral da Aeronáutica Civil e as D. P. S. A. C. corresponder-se-ão directamente.
+Art. 131.º Em assuntos de carácter técnico, a Direcção-Geral da Aeronáutica Civil e as D. P. S. A. C. corresponder-se-ão directamente.
 
-###### Art. 132.º O produto da cobrança de taxas e emolumentos aeronáuticos, bem como as importâncias que se apurarem na venda de cartas ou de quaisquer publicações dos serviços, constituem receita do Estado e serão entregues mensalmente aos cofres da Fazenda por meio de guia modelo B como receita eventual sob a rubrica «Rendimento do Serviço da Aeronáutica Civil».
+Art. 132.º O produto da cobrança de taxas e emolumentos aeronáuticos, bem como as importâncias que se apurarem na venda de cartas ou de quaisquer publicações dos serviços, constituem receita do Estado e serão entregues mensalmente aos cofres da Fazenda por meio de guia modelo B como receita eventual sob a rubrica «Rendimento do Serviço da Aeronáutica Civil».
 
-###### Art. 133.º - 1. Nos S. A. C. haverá em depósito um fundo permanente destinado a ocorrer a despesas de carácter urgente, fixado e administrado nos termos da legislação em vigor aplicável.
+Art. 133.º - 1. Nos S. A. C. haverá em depósito um fundo permanente destinado a ocorrer a despesas de carácter urgente, fixado e administrado nos termos da legislação em vigor aplicável.
 
 2. Sempre que razões de serviço o justifiquem, poderá também ser atribuído aos aeroportos e aeródromos um fundo permanente nos mesmos termos do disposto no número anterior.
 
-###### Art. 134.º É aplicável aos Serviços da Aeronáutica Civil de Angola e de Moçambique o disposto nos artigos 165.º a 169.º do Regulamento de Fazenda Pública, de 3 de Outubro de 1901.
+Art. 134.º É aplicável aos Serviços da Aeronáutica Civil de Angola e de Moçambique o disposto nos artigos 165.º a 169.º do Regulamento de Fazenda Pública, de 3 de Outubro de 1901.
 
-###### Art. 135.º Aos funcionários do Serviço da Aeronáutica Civil continua a aplicar-se o estatuído no artigo 2.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 135.º Aos funcionários do Serviço da Aeronáutica Civil continua a aplicar-se o estatuído no artigo 2.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
-###### Art. 136.º O pessoal dos S. A. C. com funções de fiscalização, do exactor, de brigada, os tesoureiros e tesoureiros-pagadores têm direito ao uso e porte de arma de defesa, o que lhes será passada a respectiva documentação nos termos da legislação em vigor.
+Art. 136.º O pessoal dos S. A. C. com funções de fiscalização, do exactor, de brigada, os tesoureiros e tesoureiros-pagadores têm direito ao uso e porte de arma de defesa, o que lhes será passada a respectiva documentação nos termos da legislação em vigor.
 
-###### Art. 137.º Dentro da área dos aeroportos e aeródromos o director provincial e os respectivos directores podem deter e mandar entregar em juízo os contraventores das leis e regulamentos cujo cumprimento lhes compita executar ou fazer executar.
+Art. 137.º Dentro da área dos aeroportos e aeródromos o director provincial e os respectivos directores podem deter e mandar entregar em juízo os contraventores das leis e regulamentos cujo cumprimento lhes compita executar ou fazer executar.
 
-###### Art. 138.º - 1. É expressamente vedado o ingresso a pessoas estranhas ao serviço dos aeroportos e aeródromos e a veículos de qualquer espécie, em qualquer ponto dos limites dos respectivos aeroportos e aeródromos.
+Art. 138.º - 1. É expressamente vedado o ingresso a pessoas estranhas ao serviço dos aeroportos e aeródromos e a veículos de qualquer espécie, em qualquer ponto dos limites dos respectivos aeroportos e aeródromos.
 
 2. As pessoas e veículos de qualquer espécie só terão ingresso nos aeroportos e aeródromos pelas vias de acesso respectivas e cumprirão o que estiver determinado quanto a circulação e estacionamento junto das aerogares ou, na falta destas, em relação aos locais fixados para aguardar a recepção e a saída dos passageiros e das tripulações dos aviões.
 
 3. A circulação dos passageiros entrados e saídos far-se-á de acordo com o que estiver estabelecido pelo S. A. C. e da mesma forma se procederá em relação às pessoas que careçam de informações ou de tratar de quaisquer assuntos relativamente àquele serviço e que só nos aeroportos ou aeródromos possam ser atendidos.
 
-###### Art. 139.º O pessoal destacado nos S. A. C., dos quadros da Polícia de Segurança Pública, percebe os vencimentos, subsídios e demais remunerações legais a que tiver direito como estabelece o disposto no n.º 1 do artigo 117.º
+Art. 139.º O pessoal destacado nos S. A. C., dos quadros da Polícia de Segurança Pública, percebe os vencimentos, subsídios e demais remunerações legais a que tiver direito como estabelece o disposto no n.º 1 do artigo 117.º
 
-###### Art. 140.º Ao pessoal navegante do quadro técnico dos S. A. C. é fixado o aumento de 40 por cento para efeitos de aposentação no tempo de serviço que no exercício dessa especialidade lhe venha a ser legalmente contado.
+Art. 140.º Ao pessoal navegante do quadro técnico dos S. A. C. é fixado o aumento de 40 por cento para efeitos de aposentação no tempo de serviço que no exercício dessa especialidade lhe venha a ser legalmente contado.
 
-###### Art. 141.º Os S. A. C. de Angola e de Moçambique promoverão a construção de residências para o pessoal, cuja permanência junto dos locais de trabalho se torne necessária.
+Art. 141.º Os S. A. C. de Angola e de Moçambique promoverão a construção de residências para o pessoal, cuja permanência junto dos locais de trabalho se torne necessária.
 
-###### Art. 142.º O serviço de todos os funcionários dos S. A. C. será objecto de informação anual, que incidirá também sobre a sua conduta moral e profissional, a prestar em modelo a aprovar por portaria ministerial.
+Art. 142.º O serviço de todos os funcionários dos S. A. C. será objecto de informação anual, que incidirá também sobre a sua conduta moral e profissional, a prestar em modelo a aprovar por portaria ministerial.
 
-###### Art. 143.º Os regulamentos internos dos S. A. C., bem como outros consequentes ou complementares do presente diploma, serão em regra revistos de cinco em cinco anos.
+Art. 143.º Os regulamentos internos dos S. A. C., bem como outros consequentes ou complementares do presente diploma, serão em regra revistos de cinco em cinco anos.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 144.º - 1. Transita para os novos quadros dos Serviços da Aeronáutica Civil de Angola e de Moçambique o pessoal superior, técnico, técnico subalterno, técnico auxiliar, administrativo e menor dos actuais quadros dos mesmos Serviços, respectivamente.
+Art. 144.º - 1. Transita para os novos quadros dos Serviços da Aeronáutica Civil de Angola e de Moçambique o pessoal superior, técnico, técnico subalterno, técnico auxiliar, administrativo e menor dos actuais quadros dos mesmos Serviços, respectivamente.
 
 2. O pessoal em regime de contrato de prestação de serviço, eventual ou interino transita para os novos quadros aprovados pelo presente diploma desde que o mereça pelas suas informações e forma como tem desempenhado as funções que lhe têm sido confiadas, levando-se em linha de conta a antiguidade; quando o provimento for por nomeação, esta será definitiva se este pessoal tiver mais de cinco anos de serviço, e provisória se tiver menos de cinco anos.
 
-###### Art. 145.º O primeiro provimento dos diversos lugares dos quadros aprovados por este diploma, nos termos do artigo anterior, é feito mediante escolha entre os funcionários dos actuais quadros dos Serviços da Aeronáutica Civil que reúnam as habilitações e qualificações exigidas para os novos cargos e boas informações de serviço; na falta de pessoal nas condições anteriores, o provimento pode fazer-se com dispensa de parte dessas habilitações ou qualificações desde que se não trate de lugares de chefe de serviço ou de chefes de divisão técnica que pela sua importância e especialização não possam dispensar a habilitação com o curso superior adequado.
+Art. 145.º O primeiro provimento dos diversos lugares dos quadros aprovados por este diploma, nos termos do artigo anterior, é feito mediante escolha entre os funcionários dos actuais quadros dos Serviços da Aeronáutica Civil que reúnam as habilitações e qualificações exigidas para os novos cargos e boas informações de serviço; na falta de pessoal nas condições anteriores, o provimento pode fazer-se com dispensa de parte dessas habilitações ou qualificações desde que se não trate de lugares de chefe de serviço ou de chefes de divisão técnica que pela sua importância e especialização não possam dispensar a habilitação com o curso superior adequado.
 
-###### Art. 146.º A transição e primeiro provimento dos diversos lugares de pessoal do quadro comum ou equiparado que resulta da aplicação do disposto nos artigos 144.º e 145.º faz-se por despacho do Ministro do Ultramar, mediante lista nominal a publicar, depois de anotado pelo Tribunal de Contas, por proposta do Governador-Geral e parecer do director provincial.
+Art. 146.º A transição e primeiro provimento dos diversos lugares de pessoal do quadro comum ou equiparado que resulta da aplicação do disposto nos artigos 144.º e 145.º faz-se por despacho do Ministro do Ultramar, mediante lista nominal a publicar, depois de anotado pelo Tribunal de Contas, por proposta do Governador-Geral e parecer do director provincial.
 
-###### Art. 147.º A transição e primeiro provimento dos diversos lugares de pessoal dos quadros privativos ou equiparado que resulta da aplicação do disposto nos artigos 144.º e 145.º faz-se por despacho do Governador-Geral, mediante lista nominal a publicar, depois de anotado pelo Tribunal Administrativo, por proposta do director provincial.
+Art. 147.º A transição e primeiro provimento dos diversos lugares de pessoal dos quadros privativos ou equiparado que resulta da aplicação do disposto nos artigos 144.º e 145.º faz-se por despacho do Governador-Geral, mediante lista nominal a publicar, depois de anotado pelo Tribunal Administrativo, por proposta do director provincial.
 
-###### Art. 148.º Na falta de pessoal superior, técnico, técnico subalterno e técnico auxiliar nos actuais quadros dos Serviços da Aeronáutica Civil, nas condições dos artigos 144.º e 145.º, poderá o primeiro provimento dos lugares para os quais se exija curso superior, médio, licenças ou qualificações oficiais actualizadas fazer-se por convite a técnicos com iguais habilitações, de comprovada e reconhecida competência profissional, independentemente de terem ou não idade superior a 35 anos.
+Art. 148.º Na falta de pessoal superior, técnico, técnico subalterno e técnico auxiliar nos actuais quadros dos Serviços da Aeronáutica Civil, nas condições dos artigos 144.º e 145.º, poderá o primeiro provimento dos lugares para os quais se exija curso superior, médio, licenças ou qualificações oficiais actualizadas fazer-se por convite a técnicos com iguais habilitações, de comprovada e reconhecida competência profissional, independentemente de terem ou não idade superior a 35 anos.
 
-###### Art. 149.º Na falta de pessoal administrativo nos actuais quadros dos Serviços da Aeronáutica Civil nas condições dos artigos 144.º e 145.º, poderá o primeiro provimento dos lugares dos quadros de pessoal administrativo e administrativo auxiliar fazer-se entre indivíduos de categoria igual ou imediatamente inferior de outros quadros administrativos de serviços públicos, organismos autónomos ou corpos administrativos, que reúnam pelo menos dois anos de exercício efectivo e boas informações de serviço.
+Art. 149.º Na falta de pessoal administrativo nos actuais quadros dos Serviços da Aeronáutica Civil nas condições dos artigos 144.º e 145.º, poderá o primeiro provimento dos lugares dos quadros de pessoal administrativo e administrativo auxiliar fazer-se entre indivíduos de categoria igual ou imediatamente inferior de outros quadros administrativos de serviços públicos, organismos autónomos ou corpos administrativos, que reúnam pelo menos dois anos de exercício efectivo e boas informações de serviço.
 
-###### Art. 150.º - 1. O pessoal que transitar para os novos quadros dos S. A. C., nos termos dos artigos 144.º e 145.º do presente diploma, considera-se empossado sem mais formalidades na data da publicação das respectivas relações nominais nos boletins oficiais das respectivas províncias.
+Art. 150.º - 1. O pessoal que transitar para os novos quadros dos S. A. C., nos termos dos artigos 144.º e 145.º do presente diploma, considera-se empossado sem mais formalidades na data da publicação das respectivas relações nominais nos boletins oficiais das respectivas províncias.
 
 2. O pessoal que transitar para os novos quadros continuará a perceber os vencimentos e demais remunerações atribuídas aos cargos que desempenham à data deste diploma, enquanto não forem orçamentados os vencimentos relativos às novas categorias.
 
@@ -1165,23 +1177,23 @@ f) Pessoal técnico auxiliar de categoria inferior à letra V - 10$00 a 20$00.
 
 5. O pessoal que vier a aposentar-se dentro do regime referido no n.º 2 deste artigo terá direito a aposentação correspondente à sua nova categoria.
 
-###### Art. 151.º A extinção de lugares resultante da execução do presente diploma só será considerada após efectivado o respectivo movimento da transição de uns lugares para outros, a qual tem efeitos automàticamente na data da entrada em vigor deste diploma, promovendo-se para tal a publicação das listas nominais a que se referem os artigos 146.º e 147.º
+Art. 151.º A extinção de lugares resultante da execução do presente diploma só será considerada após efectivado o respectivo movimento da transição de uns lugares para outros, a qual tem efeitos automàticamente na data da entrada em vigor deste diploma, promovendo-se para tal a publicação das listas nominais a que se referem os artigos 146.º e 147.º
 
-###### Art. 152.º Enquanto, por falta de pessoal dos quadros, especialmente do pessoal técnico, não for possível estabelecer o funcionamento dos serviços integralmente de acordo com a orgânica definida no presente diploma ou ainda quando as circunstâncias o justificarem, poderão ser fixados por despacho do Governador-Geral, mediante proposta do director provincial, os ajustamentos convenientes, atendendo aos meios de que os serviços possam dispor.
+Art. 152.º Enquanto, por falta de pessoal dos quadros, especialmente do pessoal técnico, não for possível estabelecer o funcionamento dos serviços integralmente de acordo com a orgânica definida no presente diploma ou ainda quando as circunstâncias o justificarem, poderão ser fixados por despacho do Governador-Geral, mediante proposta do director provincial, os ajustamentos convenientes, atendendo aos meios de que os serviços possam dispor.
 
-###### Art. 153.º Os Governos-Gerais de Angola e de Moçambique deverão publicar no prazo de noventa dias a partir da data da entrada em vigor do presente diploma os regulamentos necessários à sua execução.
+Art. 153.º Os Governos-Gerais de Angola e de Moçambique deverão publicar no prazo de noventa dias a partir da data da entrada em vigor do presente diploma os regulamentos necessários à sua execução.
 
-###### Art. 154.º Exceptuados os lugares cujo provimento é feito por transição na data da sua entrada em vigor, todos os outros lugares criados pelo presente diploma serão dotados à medida que as disponibilidades financeiras de cada uma das províncias o permitam e as necessidades dos serviços o exijam de acordo com o plano de execução anual, mediante proposta do director provincial.
+Art. 154.º Exceptuados os lugares cujo provimento é feito por transição na data da sua entrada em vigor, todos os outros lugares criados pelo presente diploma serão dotados à medida que as disponibilidades financeiras de cada uma das províncias o permitam e as necessidades dos serviços o exijam de acordo com o plano de execução anual, mediante proposta do director provincial.
 
-###### Art. 155.º Este diploma entrará em vigor sessenta dias depois da sua publicação no Diário do Governo.
+Art. 155.º Este diploma entrará em vigor sessenta dias depois da sua publicação no Diário do Governo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Fevereiro de 1972.**
+Promulgado em 26 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e de Moçambique. - J. da Silva Cunha.
 
@@ -1191,7 +1203,7 @@ MAPA I
 
 Quadro comum do pessoal dos Serviços da Aeronáutica Civil de Angola e de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/03/05600/02770293.pdf))](https://files.diariodarepublica.pt/1s/1972/03/05600/02770293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/03/05600/02770293.pdf)
 
 MAPA II
 
@@ -1199,6 +1211,6 @@ MAPA II
 
 Quadro privativo do pessoal dos Serviços da Aeronáutica Civil de Angola e de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/03/05600/02770293.pdf))](https://files.diariodarepublica.pt/1s/1972/03/05600/02770293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/03/05600/02770293.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1973-422184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9478f9f9077555151e3009b107395682b251726b854bb1ac0dddedb620fbb7ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 955ccd8cf12abb163716673f26a9434493a37e980e17407960dedc6c4f23461f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentação
+- CABO Verde.Colónia Portuguesa
+- Comando Naval
+- Marinha
+- Pagamento
+- Pensão de Aposentação
+- Pessoal Civil
+- Proteção Social
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:241068:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:53Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +103,11 @@ Tornando-se necessário regular, por diploma de igual força, a execução daque
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O pagamento das pensões de aposentação do pessoal civil das Oficinas Navais de S. Vicente (O. N. S. V.) que não estiver nas condições previstas no § 2.º do artigo 14.º do [Decreto-Lei n.º 48193](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48193-1968-241068), de 4 de Janeiro de 1968, constitui encargo do respectivo orçamento, em contrapartida da receita proveniente dos descontos para compensação de aposentação efectuados com essa finalidade nas remunerações daquele pessoal.
+Artigo 1.º - 1. O pagamento das pensões de aposentação do pessoal civil das Oficinas Navais de S. Vicente (O. N. S. V.) que não estiver nas condições previstas no § 2.º do artigo 14.º do [Decreto-Lei n.º 48193](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48193-1968-241068), de 4 de Janeiro de 1968, constitui encargo do respectivo orçamento, em contrapartida da receita proveniente dos descontos para compensação de aposentação efectuados com essa finalidade nas remunerações daquele pessoal.
 
 2. Nos descontos a efectuar para compensação de aposentação ao pessoal a que se refere o n.º 1, na determinação dos quantitativos das respectivas pensões e em tudo o mais que lhes respeita serão observadas as disposições aplicáveis do Estatuto do Funcionalismo Ultramarino, em conformidade com o que estiver estabelecido para os servidores do Estado na província de Cabo Verde.
 
-###### Art. 2.º - 1. Ao pessoal civil que na data de entrada em funcionamento das O. N. S. V. se encontrava ao serviço da empresa cessante, tendo transitado, sem solução de continuidade, para aquelas Oficinas, será contado como tempo de serviço para efeitos de aposentação todo o tempo de inscrição na respectiva caixa sindical de previdência.
+Art. 2.º - 1. Ao pessoal civil que na data de entrada em funcionamento das O. N. S. V. se encontrava ao serviço da empresa cessante, tendo transitado, sem solução de continuidade, para aquelas Oficinas, será contado como tempo de serviço para efeitos de aposentação todo o tempo de inscrição na respectiva caixa sindical de previdência.
 
 2. As importâncias recebidas pelas caixas sindicais com destino à reforma do pessoal referido no número anterior serão transferidas para o fundo de compensação para aposentação das O. N. S. V., em condições a regular pelo Governo da província de Cabo Verde.
 
@@ -104,14 +117,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. O limite de idade para aposentação do pessoal de que trata este artigo poderá ser elevado por despacho conjunto dos Ministros da Marinha e do Ultramar, a requerimento dos interessados, desde que se não verifique a existência de incapacidade física nem inconveniente para o serviço das O. N. S. V.
 
-###### Art. 3.º As normas para a execução do disposto neste diploma serão aprovadas por despacho do Ministro da Marinha, que, quando for caso disso e conforme a matéria tratada, ouvirá os Ministros das Finanças ou do Ultramar, seguindo-se igual critério na resolução de dúvidas e casos omissos que eventualmente se suscitem.
+Art. 3.º As normas para a execução do disposto neste diploma serão aprovadas por despacho do Ministro da Marinha, que, quando for caso disso e conforme a matéria tratada, ouvirá os Ministros das Finanças ou do Ultramar, seguindo-se igual critério na resolução de dúvidas e casos omissos que eventualmente se suscitem.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Maio de 1973.**
+Promulgado em 3 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

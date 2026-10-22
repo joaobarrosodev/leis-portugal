@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-1972-400067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25fa132bc8e0c3efc7b9b1013727fab75086fb887d31f037c56f687d8e90d899
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fd0eba463b3a316bc15879c2b1d3b779d12b3cd32059c3f114ad3dbe1f60fe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:407518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:06Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Tendo em consideração as potencialidades turísticas e recreativas da zona cir
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Durante o prazo de dois anos fica dependente da autorização da Direcção-Geral dos Serviços de Urbanização, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área definida na planta anexa a este diploma e no n.º 2 deste artigo dos actos ou actividades seguintes:
+Artigo 1.º - 1. Durante o prazo de dois anos fica dependente da autorização da Direcção-Geral dos Serviços de Urbanização, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área definida na planta anexa a este diploma e no n.º 2 deste artigo dos actos ou actividades seguintes:
 
 a) Construção, reconstrução ou ampliação de edifícios ou outras instalações;
 
@@ -106,16 +110,16 @@ c) Derrube de árvores em maciço.
 
 3. É aplicável às medidas preventivas a que se refere o número antecedente o disposto nos artigos 3.º a 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro.
 
-###### Art. 2.º O presente decreto entra imediatamente em vigor.
+Art. 2.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 5 de Janeiro de 1972.**
+Promulgado em 5 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/01/01000/00690070.pdf))](https://files.diariodarepublica.pt/1s/1972/01/01000/00690070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/01/01000/00690070.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

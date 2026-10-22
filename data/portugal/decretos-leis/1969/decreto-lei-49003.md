@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49003-1969-201236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2169bfadd76e9e0ebfe88f33f3a9330c8a24903a6288c9c3024d97dc0159d8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 759ff2caeb49a5aa989264ee8e1dd273e4e81a2580661b93f2ce7ff4174d8c7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito
+- Empréstimo
+- Instituição de Crédito
+- Política de Crédito
+- TAXA de JURO
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:238615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:19Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +108,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 68.º, o § 1.º do artigo 70.º e os §§ 4.º e 5.º do artigo 111.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, na redacção dada pelo [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), de 19 de Março de 1965, passam a ter a seguinte redacção:
+Artigo único. O artigo 68.º, o § 1.º do artigo 70.º e os §§ 4.º e 5.º do artigo 111.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, na redacção dada pelo [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), de 19 de Março de 1965, passam a ter a seguinte redacção:
 
-###### Art. 68.º As operações de crédito a médio e longo prazo dos departamentos financeiros dos bancos comerciais conformar-se-ão com o regime que vier a ser estabelecido em diploma regulamentar e, bem assim, com as regras especiais que forem fixadas no decreto de autorização.
+Art. 68.º As operações de crédito a médio e longo prazo dos departamentos financeiros dos bancos comerciais conformar-se-ão com o regime que vier a ser estabelecido em diploma regulamentar e, bem assim, com as regras especiais que forem fixadas no decreto de autorização.
 
 ...
 
-###### Art. 70.º ...
+Art. 70.º ...
 
 § 1.º Os fundos de garantia dos departamentos financeiros serão exclusivamente destinados a suportar prejuízos das operações desses departamentos decorrentes de dívidas incobráveis e serão aplicados em títulos de obrigação emitidos ou garantidos pelo Estado ou pelas províncias ultramarinas.
 
 ...
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 ...
 
@@ -112,9 +130,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Abril de 1969.**
+Promulgado em 30 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

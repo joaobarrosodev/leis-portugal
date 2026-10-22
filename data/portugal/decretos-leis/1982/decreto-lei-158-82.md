@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10400/11681169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1982-392839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d353f76aaae2bad4d6bdec84878e4b85aade196e2eb7afb306ad6fec4bce411
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1c89c7e6a5498594a51e2309245b63ef64b1f67c676f629134f4df5c5857edd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Edma-empresa de Desenvolvimento Mineiro do Alentejo
+- Empresa Mineira e Metalúrgica do Alentejo
+- Exploração Mineira
+- Pirites
+- Quimigal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393862:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395322:por
+  label: Rectificado pela DECL.DD3613.1982.06.08.PCM, DR.IS [140] de 21.06.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395322
+  date: '1982-06-08'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:27Z'
   warnings: []
   errors: []
 ---
@@ -108,19 +135,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É integrada na QUIMIGAL - Química de Portugal, E. P., a universalidade dos bens, direitos e obrigações da Empresa Mineira e Metalúrgica do Alentejo, E. P. - EMMA, relativa às suas actividades de transformação de pirites complexas e outros minérios sulfurados e dos metais e substâncias minerais derivados desses minérios e, bem assim, as participações sociais, neste sector, da EMMA.
+Artigo 1.º - 1 - É integrada na QUIMIGAL - Química de Portugal, E. P., a universalidade dos bens, direitos e obrigações da Empresa Mineira e Metalúrgica do Alentejo, E. P. - EMMA, relativa às suas actividades de transformação de pirites complexas e outros minérios sulfurados e dos metais e substâncias minerais derivados desses minérios e, bem assim, as participações sociais, neste sector, da EMMA.
 
 2 - Consideram-se como fazendo parte da universalidade dos bens, direitos e obrigações da EMMA que são integrados na QUIMIGAL o know-how, patentes, licenças, estudos e outra documentação relativos a, ou relacionados com, actividade de transformação de pirites complexas e outros minérios sulfurados e dos metais e substâncias minerais derivados desses minérios, pertencentes ou detidos pela EMMA.
 
 3 - A integração estabelecida neste artigo opera-se por virtude deste diploma, que servirá de título bastante para todos os efeitos legais, incluindo os de registo.
 
-###### Art. 2.º - 1 - A Empresa Mineira e Metalúrgica do Alentejo, E. P., designada abreviadamente por EMMA, passará a denominar-se Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e abreviadamente EDMA.
+Art. 2.º - 1 - A Empresa Mineira e Metalúrgica do Alentejo, E. P., designada abreviadamente por EMMA, passará a denominar-se Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e abreviadamente EDMA.
 
 2 - A denominação de Empresa Mineira e Metalúrgica do Alentejo, E. P., e a sigla EMMA, constantes do [Decreto-Lei n.º 510/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/510-1979-393862), de 24 de Dezembro, e dos Estatutos anexos, são alteradas para Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e EDMA, respectivamente.
 
-###### Art. 3.º Sem prejuízo das alterações decorrentes da aplicação do artigo anterior deste diploma, é alterado o artigo 3.º dos Estatutos da EDMA, que passará a ter a redacção seguinte:
+Art. 3.º Sem prejuízo das alterações decorrentes da aplicação do artigo anterior deste diploma, é alterado o artigo 3.º dos Estatutos da EDMA, que passará a ter a redacção seguinte:
 
-###### Art. 3.º - 1 - A EDMA tem por objectivo principal:
+Art. 3.º - 1 - A EDMA tem por objectivo principal:
 
 a) As actividades de prospecção, pesquisa, extracção, preparação e beneficiação e comércio de pirites complexas e outros minérios sulfurados;
 
@@ -130,9 +157,9 @@ c) As actividades referidas na alínea anterior relativas a outros minérios.
 
 2 - A EDMA poderá associar-se a outras empresas, nacionais ou estrangeiras, em empreendimentos comuns, no âmbito do seu objecto estatutário, definido neste artigo e no seguinte.
 
-###### Art. 4.º São alterados os artigos 3.º e 4.º dos Estatutos da QUIMIGAL, aprovados pelo [Decreto-Lei n.º 530/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1977-276642), de 30 de Dezembro, que passarão a ter a redacção seguinte:
+Art. 4.º São alterados os artigos 3.º e 4.º dos Estatutos da QUIMIGAL, aprovados pelo [Decreto-Lei n.º 530/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1977-276642), de 30 de Dezembro, que passarão a ter a redacção seguinte:
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Objecto principal)
 
@@ -144,7 +171,7 @@ b) A transformação de pirites complexas e outros minérios sulfurados e dos me
 
 c) O exercício dos direitos de participação social e a centralização das participações do Estado em empresas que se dediquem às actividades indicadas nas alíneas a) e b).
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Objecto acessório)
 
@@ -152,16 +179,16 @@ c) O exercício dos direitos de participação social e a centralização das pa
 
 2 - Para o exercício das suas actividades, a QUIMIGAL pode criar ou participar em associações e sociedades, constituídas ou a constituir, nomeadamente nos domínios que constituem o seu objecto principal.
 
-###### Art. 5.º - 1 - Os trabalhadores que, à data da entrada em vigor deste decreto-lei, estavam ao serviço da EMMA no seu sector metalúrgico poderão optar, no prazo de 60 dias, pela transição para a QUIMIGAL ou pela permanência na EDMA, dando conhecimento, por escrito, da opção aos respectivos conselhos de gerência.
+Art. 5.º - 1 - Os trabalhadores que, à data da entrada em vigor deste decreto-lei, estavam ao serviço da EMMA no seu sector metalúrgico poderão optar, no prazo de 60 dias, pela transição para a QUIMIGAL ou pela permanência na EDMA, dando conhecimento, por escrito, da opção aos respectivos conselhos de gerência.
 
 2 - Quando optem pela transição, esta efectuar-se-á independentemente de quaisquer formalidades, mantendo os trabalhadores todos os direitos e obrigações emergentes da sua situação no quadro de origem.
 
-###### Art. 6.º As dúvidas que se suscitem na interpretação ou aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação.
+Art. 6.º As dúvidas que se suscitem na interpretação ou aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Abril de 1982.**
+Promulgado em 26 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

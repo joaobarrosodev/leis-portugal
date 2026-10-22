@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/113-1971-445900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f183738cdbdf12eebe1fab94263bb39a283aa474e4b3e1a58cafd434127cdd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce5c095e6e2db502ace8424be23c23d88be08d7fac173b7b8dbd013fb1a9941
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:43Z'
   warnings: []
   errors: []
 ---
@@ -116,11 +128,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É extinto o Repartidor Nacional de Cargas (R. N. C.), criado pelo [Decreto n.º 38186](https://diariodarepublica.pt/dr/detalhe/decreto/38186-1951-323907), de 28 de Fevereiro de 1951.
+Artigo 1.º É extinto o Repartidor Nacional de Cargas (R. N. C.), criado pelo [Decreto n.º 38186](https://diariodarepublica.pt/dr/detalhe/decreto/38186-1951-323907), de 28 de Fevereiro de 1951.
 
-###### Art. 2.º As funções de repartição de cargas, que têm competido ao R. N. C., passam a ser exercidas pela Companhia Portuguesa de Electricidade (C. P. E.).
+Art. 2.º As funções de repartição de cargas, que têm competido ao R. N. C., passam a ser exercidas pela Companhia Portuguesa de Electricidade (C. P. E.).
 
-###### Art. 3.º Compete à C. P. E., no exercício das funções de repartição de cargas:
+Art. 3.º Compete à C. P. E., no exercício das funções de repartição de cargas:
 
 a) Solicitar, receber e utilizar os elementos informativos das empresas e outras entidades distribuidoras de energia eléctrica que interessem aos serviços de repartição de cargas;
 
@@ -130,9 +142,9 @@ c) Controlar os programas do movimento da energia nas fronteiras da rede primár
 
 d) Coordenar as manobras de exploração da rede eléctrica nacional, de acordo com os códigos de manobras aprovados e disposições contratuais normais vigentes, podendo, no entanto, adoptar medidas de emergência em caso de justificada necessidade para a regularização do abastecimento dos consumos.
 
-###### Art. 4.º As medidas tomadas, no exercício das funções de repartição de cargas, pela C. P. E. e que interessem directamente às redes de distribuição deverão ser comunicadas às respectivas empresas, podendo, porém, sê-lo directamente aos correspondentes centros de exploração nos casos de urgência ou justificada necessidade, ou sempre que tal esteja previsto nos códigos de manobras em vigor.
+Art. 4.º As medidas tomadas, no exercício das funções de repartição de cargas, pela C. P. E. e que interessem directamente às redes de distribuição deverão ser comunicadas às respectivas empresas, podendo, porém, sê-lo directamente aos correspondentes centros de exploração nos casos de urgência ou justificada necessidade, ou sempre que tal esteja previsto nos códigos de manobras em vigor.
 
-###### Art. 5.º - 1. Os concessionários das redes de distribuição directamente ligados à rede primária deverão informar com prontidão a C. P. E. de quaisquer irregularidades de serviço que estejam notando, fornecer-lhe todas as indicações de interesse quanto ao funcionamento da rede interligada e prestar-lhe toda a colaboração que lhes seja solicitada no sentido de assegurar a continuidade ou a qualidade do serviço, ou de facilitar a sua reposição, em caso de incidente.
+Art. 5.º - 1. Os concessionários das redes de distribuição directamente ligados à rede primária deverão informar com prontidão a C. P. E. de quaisquer irregularidades de serviço que estejam notando, fornecer-lhe todas as indicações de interesse quanto ao funcionamento da rede interligada e prestar-lhe toda a colaboração que lhes seja solicitada no sentido de assegurar a continuidade ou a qualidade do serviço, ou de facilitar a sua reposição, em caso de incidente.
 
 2. Os contactos inerentes ao cumprimento do determinado no número anterior serão realizados pela forma que seja fixada nos códigos de manobras, e, em regra, directamente entre centros de exploração.
 
@@ -140,7 +152,7 @@ d) Coordenar as manobras de exploração da rede eléctrica nacional, de acordo 
 
 4. Na falta de acordo poderá qualquer das empresas interessadas requerer, por intermédio da Direcção-Geral dos Serviços Eléctricos, que o assunto seja submetido à consideração do Secretário de Estado da Indústria, que resolverá definitivamente.
 
-###### Art. 6.º Compete à Direcção-Geral dos Serviços Eléctricos:
+Art. 6.º Compete à Direcção-Geral dos Serviços Eléctricos:
 
 a) Acompanhar o regular funcionamento da rede eléctrica nacional e, de um modo geral, fiscalizar a acção desenvolvida pela C. P. E. no desempenho das funções de repartição de cargas, particularmente nos aspectos de qualidade e garantia do abastecimento dos consumos;
 
@@ -150,26 +162,26 @@ c) Aprovar, mediante proposta da C. P. E., os elementos informativos a solicitar
 
 d) Apreciar e submeter à aprovação do Governo os contratos ou acordos de trocas de energia nas interligações internacionais e controlar a sua execução.
 
-###### Art. 7.º A Direcção-Geral dos Serviços Eléctricos estabelecerá a orgânica necessária a uma eventual acção em caso de restrições de consumos e promoverá a adopção das medidas necessárias através da C. P. E. e das empresas distribuidoras, que ficam obrigadas a acatar e a dar execução ao que for determinado para o efeito.
+Art. 7.º A Direcção-Geral dos Serviços Eléctricos estabelecerá a orgânica necessária a uma eventual acção em caso de restrições de consumos e promoverá a adopção das medidas necessárias através da C. P. E. e das empresas distribuidoras, que ficam obrigadas a acatar e a dar execução ao que for determinado para o efeito.
 
-###### Art. 8.º - 1. O director-geral dos Serviços Eléctricos poderá determinar a suspensão de todas as deliberações ou adopção de critérios susceptíveis de afectar gravemente a qualidade ou a segurança do serviço.
+Art. 8.º - 1. O director-geral dos Serviços Eléctricos poderá determinar a suspensão de todas as deliberações ou adopção de critérios susceptíveis de afectar gravemente a qualidade ou a segurança do serviço.
 
 2. A determinação tornar-se-á definitiva se for confirmada no prazo de oito dias, por despacho do Secretário de Estado da Indústria, a quem o assunto deverá ser apresentado no prazo de três dias a contar da data da suspensão.
 
 3. O despacho do Secretário de Estado da Indústria obriga a C. P. E. e restantes empresas interessadas, sem prejuízo do direito de recurso conferido por lei.
 
-###### Art. 9.º - 1. O director-geral dos Serviços Eléctricos poderá propor ao Secretário de Estado da Indústria a nomeação de um engenheiro electrotécnico em quem serão delegadas as funções referidas no artigo 6.º
+Art. 9.º - 1. O director-geral dos Serviços Eléctricos poderá propor ao Secretário de Estado da Indústria a nomeação de um engenheiro electrotécnico em quem serão delegadas as funções referidas no artigo 6.º
 
 2. O engenheiro designado pertencerá ao quadro da Direcção-Geral dos Serviços Eléctricos e pelo exercício das suas funções perceberá uma gratificação, encargo da C. P. E., fixada pelo Secretário de Estado da Indústria, segundo proposta do director-geral das Serviços Eléctricos e ouvido o Ministro das Finanças.
 
-###### Art. 10.º (transitório). Serão convocadas as entidades constituintes do conselho geral do extinto Repartidor Nacional de Cargas para apreciarem e aprovarem as contas e a respectiva repartição de encargos dos exercícios de 1969 e 1970 e da parte do exercício de 1971 até à data da entrada em vigor do presente decreto.
+Art. 10.º (transitório). Serão convocadas as entidades constituintes do conselho geral do extinto Repartidor Nacional de Cargas para apreciarem e aprovarem as contas e a respectiva repartição de encargos dos exercícios de 1969 e 1970 e da parte do exercício de 1971 até à data da entrada em vigor do presente decreto.
 
-###### Art. 11.º É revogado o [Decreto n.º 38186](https://diariodarepublica.pt/dr/detalhe/decreto/38186-1951-323907), de 28 de Fevereiro de 1951.
+Art. 11.º É revogado o [Decreto n.º 38186](https://diariodarepublica.pt/dr/detalhe/decreto/38186-1951-323907), de 28 de Fevereiro de 1951.
 
 Marcello Caetano - João Augusto Dias Rosas - Rogério da Conceição Serafim Martins.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/22200/14871487.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1975-312052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51aa40dd3bfff12470242992f186d26712f953e6161a74cbfc48a953931d0964
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8383e0f739ceac687076c6df9d0f8c49c66d58450c1cc7527a995f666c05c04d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Fazenda Pública
+- Formas de Provimento
+- Nomeação
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:430595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:318701:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430594:por
+  label: "Revogado pelo DEC LEI.564/76.17.07.1976.MF, DR.IS [166] de 17.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1976-430594
+  date: '1976-07-17'
+- type: repealed_by
+  target: pt:dre:430595:por
+  label: "Revogado pelo DEC LEI.562/76.17.07.1976.MF, DR.IS [166] de 17.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/562-1976-430595
+  date: '1976-07-17'
+- type: repealed_by
+  target: pt:dre:430596:por
+  label: "Revogado pelo DEC LEI.563/76.17.07.1976.MF, DR.IS [166] de 17.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/563-1976-430596
+  date: '1976-07-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:03Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +120,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É revogado o § 1.º do artigo 13.º do [Decreto-Lei n.º 22728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22728-1933-318701), de 24 de Junho de 1933.
+Artigo 1.º É revogado o § 1.º do artigo 13.º do [Decreto-Lei n.º 22728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22728-1933-318701), de 24 de Junho de 1933.
 
-###### Art. 2.º O pessoal dirigente da Direcçção-Geral da Fazenda Pública é nomeado em comissão de serviço por períodos de dois anos.
+Art. 2.º O pessoal dirigente da Direcçção-Geral da Fazenda Pública é nomeado em comissão de serviço por períodos de dois anos.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Alfredo António Cândido de Moura - José Joaquim Fragoso.
 
-**Promulgado em 17 de Setembro de 1975.**
+Promulgado em 17 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

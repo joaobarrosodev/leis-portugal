@@ -52,18 +52,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/261-1971-643310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b368ffa350d3dc25aa85d4021f3110e98fe9f7a906b4df8745e5ab79ed5d52b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a8e23ca28254ed2dbd75b24fd1c09279144cc119e18790a0c7755bd603d2f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:55Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Ministério das Finanças
 
@@ -128,14 +132,14 @@ Ministério das Corporações e Previdência Social
 
 Encargos do ano de 1970, respeitantes a ajudas de custo e telefones contraídos pela Inspecção-Geral e Tribunais do Trabalho de Viana do Castelo e Porto ... 17204$80
 
-###### Art. 2.º É autorizada a 1.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer em conta da dotação descrita no n.º 1 do artigo 356.º, capítulo 14.º «Despesa extraordinária», do actual orçamento de Encargos Gerais da Nação, a quantia de 241592$40, proveniente do XI Recenseamento Geral da População e I da Habitação e ao Inquérito à Distribuição de Serviços, efectuados pelo Instituto Nacional de Estatística.
+Art. 2.º É autorizada a 1.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer em conta da dotação descrita no n.º 1 do artigo 356.º, capítulo 14.º «Despesa extraordinária», do actual orçamento de Encargos Gerais da Nação, a quantia de 241592$40, proveniente do XI Recenseamento Geral da População e I da Habitação e ao Inquérito à Distribuição de Serviços, efectuados pelo Instituto Nacional de Estatística.
 
-###### Art. 3.º Fica igualmente autorizada a Colónia Penal do Bié a satisfazer, em conta da verba de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 461310$90, resultante de diversos fornecimentos efectuados durante o ano de 1970, à referida Colónia.
+Art. 3.º Fica igualmente autorizada a Colónia Penal do Bié a satisfazer, em conta da verba de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 461310$90, resultante de diversos fornecimentos efectuados durante o ano de 1970, à referida Colónia.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Junho de 1971.**
+Promulgado em 3 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

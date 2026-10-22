@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1973-413024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23516e4920b663fbc8a4b806e9f800a5c7675ec85ed0a540ddda94059c87d7c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6721c01fde116de6648e4f2b70be2078c288340e2def4404276e8af396d972c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Biblioteca
+- Biblioteca Pública
+- Escola Primária
+- Estabelecimento de Ensino
+- Ministério da Educação Nacional
+- Política de Educação
+relationships:
+- type: cites
+  target: pt:dre:413671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:27Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +113,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As bibliotecas populares destinam-se a contribuir para a educação extra-escolar dos Portugueses e para o progresso social dos meios em que se inserem, nomeadamente através da divulgação generalizada de obras literárias, científicas, artísticas e técnicas entre as populações que mais dificilmente têm acesso à cultura.
+Artigo 1.º - 1. As bibliotecas populares destinam-se a contribuir para a educação extra-escolar dos Portugueses e para o progresso social dos meios em que se inserem, nomeadamente através da divulgação generalizada de obras literárias, científicas, artísticas e técnicas entre as populações que mais dificilmente têm acesso à cultura.
 
 2. As bibliotecas criadas pelo [Decreto-Lei n.º 36147](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36147-1947-413671), de 5 de Fevereiro de 1947, para funcionarem junto das escolas primárias, são reorganizadas e passam a reger-se pelo presente diploma.
 
-###### Art. 2.º - 1. As bibliotecas populares têm por fim:
+Art. 2.º - 1. As bibliotecas populares têm por fim:
 
 a) Estimular o gosto e hábito da leitura;
 
@@ -119,7 +133,7 @@ f) Servir aos professores para apoio de um ensino activo, contribuindo para a fo
 
 g) Melhorar o convívio entre professores, alunos e encarregados de educação, como instrumento de acção escolar e extra-escolar.
 
-###### Art. 3.º - 1. As bibliotecas populares serão integradas em centros de educação permanente, à medida que estes venham a ser criados.
+Art. 3.º - 1. As bibliotecas populares serão integradas em centros de educação permanente, à medida que estes venham a ser criados.
 
 2. A organização, atribuições, funcionamento e quadros de pessoal dos centros de educação permanente serão estabelecidos no diploma que criar os serviços regionais do Ministério previstos no artigo 23.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
@@ -127,7 +141,7 @@ g) Melhorar o convívio entre professores, alunos e encarregados de educação, 
 
 4. Aos directores dos distritos escolares e aos professores mencionados neste artigo, até ao número médio de cinco por distrito, poderá ser abonada a gratificação mensal de 1000$00.
 
-###### Art. 4.º - 1. As bibliotecas populares disporão, sempre que possível, de instalações próprias, quer em salas cedidas para o efeito pelos estabelecimentos de ensino, quer em locais postos à disposição por Casas do Povo ou outros organismos corporativos, por quaisquer outras entidades oficiais e de administração local, associações de carácter religioso, cultural, económico ou recreativo, bem como por entidades particulares idóneas.
+Art. 4.º - 1. As bibliotecas populares disporão, sempre que possível, de instalações próprias, quer em salas cedidas para o efeito pelos estabelecimentos de ensino, quer em locais postos à disposição por Casas do Povo ou outros organismos corporativos, por quaisquer outras entidades oficiais e de administração local, associações de carácter religioso, cultural, económico ou recreativo, bem como por entidades particulares idóneas.
 
 2. Na instalação de bibliotecas populares será dada prioridade às freguesias rurais e às situadas nas zonas menos favorecidas dos grandes centros urbanos.
 
@@ -135,11 +149,11 @@ g) Melhorar o convívio entre professores, alunos e encarregados de educação, 
 
 4. A Direcção-Geral da Educação Permanente prestará apoio à instalação das bibliotecas a criar junto dos núcleos de portugueses no estrangeiro.
 
-###### Art. 5.º - 1. As bibliotecas serão constituídas predominantemente por livros e outras publicações em língua portuguesa, de autores nacionais ou estrangeiros, correctamente traduzidos.
+Art. 5.º - 1. As bibliotecas serão constituídas predominantemente por livros e outras publicações em língua portuguesa, de autores nacionais ou estrangeiros, correctamente traduzidos.
 
 2. As normas de funcionamento das bibliotecas serão aprovadas por portaria do Ministro da Educação Nacional, ouvidas, quando for caso disso, as instituições referidas no n.º 1 do artigo 4.º, ou as entidades que nelas superintendam.
 
-###### Art. 6.º - 1. As bibliotecas fixas serão dirigidas por um professor que tenha residência permanente na freguesia onde se localizem, tendo preferência os professores ou pessoas idóneas habilitados com o curso de aperfeiçoamento adequado.
+Art. 6.º - 1. As bibliotecas fixas serão dirigidas por um professor que tenha residência permanente na freguesia onde se localizem, tendo preferência os professores ou pessoas idóneas habilitados com o curso de aperfeiçoamento adequado.
 
 2. Não ocorrendo as circunstâncias previstas no número anterior, poderá ser designado encarregado da biblioteca, por períodos anuais, qualquer professor ou qualquer pessoa idónea que resida permanentemente na freguesia que a biblioteca vise servir.
 
@@ -149,7 +163,7 @@ g) Melhorar o convívio entre professores, alunos e encarregados de educação, 
 
 5. Os encarregados das bibliotecas serão de livre escolha do Ministro da Educação Nacional.
 
-###### Art. 7.º - 1. Compete ao encarregado da biblioteca:
+Art. 7.º - 1. Compete ao encarregado da biblioteca:
 
 a) Dirigir a biblioteca por forma que ela constitua centro activo de promoção cultural;
 
@@ -159,15 +173,15 @@ c) Velar pela guarda e conservação das espécies existentes na biblioteca;
 
 d) Elaborar a estatística do movimento da biblioteca e o relatório anual das suas actividades.
 
-###### Art. 8.º Os professores da freguesia em que a biblioteca se situe deverão prestar ao encarregado desta toda a cooperação possível no campo do fomento da leitura e estimular entre os seus alunos a utilização do livro.
+Art. 8.º Os professores da freguesia em que a biblioteca se situe deverão prestar ao encarregado desta toda a cooperação possível no campo do fomento da leitura e estimular entre os seus alunos a utilização do livro.
 
-###### Art. 9.º Os inspectores dependentes das Direcções-Gerais dos Ensinos Secundário e Básico exercerão junto das bibliotecas as funções que lhes forem cometidas pelo Ministro da Educação Nacional.
+Art. 9.º Os inspectores dependentes das Direcções-Gerais dos Ensinos Secundário e Básico exercerão junto das bibliotecas as funções que lhes forem cometidas pelo Ministro da Educação Nacional.
 
-###### Art. 10.º - 1. A escolha dos livros e outras publicações para as bibliotecas populares e secções populares referidas no artigo 12.º compete à Direcção-Geral da Educação Permanente.
+Art. 10.º - 1. A escolha dos livros e outras publicações para as bibliotecas populares e secções populares referidas no artigo 12.º compete à Direcção-Geral da Educação Permanente.
 
 2. Na escolha referida no número anterior ter-se-á sempre em consideração as condições geográficas, históricas, sociais e económicas, a forma de trabalho, as tradições, os costumes e o grau de cultura da população da região a que se destinam.
 
-###### Art. 11.º Compete à Direcção-Geral da Educação Permanente orientar superiormente as actividades das bibliotecas populares, assegurando o seu regular funcionamento e, designadamente:
+Art. 11.º Compete à Direcção-Geral da Educação Permanente orientar superiormente as actividades das bibliotecas populares, assegurando o seu regular funcionamento e, designadamente:
 
 a) Promover, comparticipar ou realizar a aquisição, impressão e fornecimento de livros, manuscritos e outras publicações;
 
@@ -179,14 +193,14 @@ d) Coordenar as acções das bibliotecas populares no sentido de organizar ou co
 
 e) Estimular a prossecução dos objectivos definidos nas alíneas precedentes, mediante a atribuição de prémios pecuniários ou de outra natureza, a autores, ilustradores, editores, livreiros, professores e outras entidades cuja acção nesse sentido mais se haja salientado.
 
-###### Art. 12.º A Direcção-Geral da Educação Permanente poderá estabelecer acordos de cooperação com entidades oficiais ou particulares, designadamente as mencionadas no artigo 4.º deste diploma e com as bibliotecas municipais e secções populares destas por força dos quais, como contrapartida de serviços, poderá subsidiar o funcionamento de bibliotecas, assegurar o fornecimento de livros e outras publicações e participar nas despesas de equipamento.
+Art. 12.º A Direcção-Geral da Educação Permanente poderá estabelecer acordos de cooperação com entidades oficiais ou particulares, designadamente as mencionadas no artigo 4.º deste diploma e com as bibliotecas municipais e secções populares destas por força dos quais, como contrapartida de serviços, poderá subsidiar o funcionamento de bibliotecas, assegurar o fornecimento de livros e outras publicações e participar nas despesas de equipamento.
 
-###### Art. 13.º - Os encargos com as bibliotecas populares serão satisfeitos pela dotação global inscrita no orçamento do Ministério da Educação Nacional para difusão da cultura popular e outras acções de educação permanente.
+Art. 13.º - Os encargos com as bibliotecas populares serão satisfeitos pela dotação global inscrita no orçamento do Ministério da Educação Nacional para difusão da cultura popular e outras acções de educação permanente.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 26 de Setembro de 1973.**
+Promulgado em 26 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

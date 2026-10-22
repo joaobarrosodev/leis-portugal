@@ -48,36 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48317-1968-234927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db230cca4ba5f19a1d1ab2caf0a999781ca5cd61a6383183331f8fc19df53504
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b5f4004bfc80dd63e2033b37948bad40e2902f3027f08c2b81655be31b0bddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Regulamento do Imposto do SELO
+- Tabela Geral do Imposto do SELO
+- Valores Selados
+relationships:
+- type: cites
+  target: pt:dre:161312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676994:por
+  label: null
+  source: null
 article_structure:
-  article_count: 108
+  article_count: 51
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:54Z'
   warnings: []
   errors: []
 ---
@@ -88,201 +117,201 @@ Em cumprimento do disposto no artigo 10.º, alínea b), da [Lei n.º 2134](https
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo, 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É fixada em 6$00 a taxa do papel selado referido no artigo 6.º do regulamento aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e seus aditamentos, cujo pagamento deva fazer-se por aquela forma.
+Artigo 1.º É fixada em 6$00 a taxa do papel selado referido no artigo 6.º do regulamento aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e seus aditamentos, cujo pagamento deva fazer-se por aquela forma.
 
 § único. Continua em vigor, até à sua extinção, o papel selado da taxa de 5$00, podendo completar-se a taxa agora fixada por meio de estampilha fiscal, colada e inutilizada na parte superior, junto ao selo, ou em seguida ao contexto.
 
-###### Art. 2.º São alteradas as taxas da tabela geral do imposto do selo não abrangidas pelo artigo anterior, que passam a ser as seguintes:
+Art. 2.º São alteradas as taxas da tabela geral do imposto do selo não abrangidas pelo artigo anterior, que passam a ser as seguintes:
 
 ###### Artigo 6 - 2000$00.
 
-###### Artigo 10 - 3$00, 12$00, 24$00, 3$00, 150$00 e 50$00, respectivamente.
+Artigo 10 - 3$00, 12$00, 24$00, 3$00, 150$00 e 50$00, respectivamente.
 
 ###### Artigo 11-A - $004.
 
-###### Artigo 14 - 90$00.
+Artigo 14 - 90$00.
 
 ###### Artigo 17 - 6$00.
 
-###### Artigo 17-A - $004.
+Artigo 17-A - $004.
 
 ###### Artigo 18 - 70$00.
 
-###### Artigo 19 - 6$00.
+Artigo 19 - 6$00.
 
 ###### Artigo 20 - 100$00.
 
-###### Artigo 22 - 25$00.
+Artigo 22 - 25$00.
 
 ###### Artigo 26 - 6$00.
 
-###### Artigo 35 - $60 e $30, respectivamente.
+Artigo 35 - $60 e $30, respectivamente.
 
 ###### Artigo 38 - 6$00.
 
-###### Artigo 42 - $40.
+Artigo 42 - $40.
 
 ###### Artigo 43 - 1$20.
 
-###### Artigo 44 - 6$00 (segunda taxa).
+Artigo 44 - 6$00 (segunda taxa).
 
-###### Artigo 45 - 6$00 (segunda e terceira taxas).
+Artigo 45 - 6$00 (segunda e terceira taxas).
 
-###### Artigo 48 - 1$50, 2$50 e 1$50, respectivamente.
+Artigo 48 - 1$50, 2$50 e 1$50, respectivamente.
 
-###### Artigo 51 - 3000$00, 1500$00 e 750$00, respectivamente.
+Artigo 51 - 3000$00, 1500$00 e 750$00, respectivamente.
 
-###### Artigo 52 - 6000$00 e 4800$00, respectivamente.
+Artigo 52 - 6000$00 e 4800$00, respectivamente.
 
 ###### Artigo 53 - 12000$00.
 
-###### Artigo 56 - 6$00.
+Artigo 56 - 6$00.
 
 ###### Artigo 57 - 6$00.
 
-###### Artigo 58 - 6$00.
+Artigo 58 - 6$00.
 
-###### Artigo 61 - 60$00 e 12$00, respectivamente.
+Artigo 61 - 60$00 e 12$00, respectivamente.
 
-###### Artigo 61-A - 150$00 (última taxa).
+Artigo 61-A - 150$00 (última taxa).
 
 ###### Artigo 62 - 6$00.
 
-###### Artigo 64 - 250$00, 30$00 e 300$00 (1.ª, 3.ª e 4.ª taxas), respectivamente.
+Artigo 64 - 250$00, 30$00 e 300$00 (1.ª, 3.ª e 4.ª taxas), respectivamente.
 
 ###### Artigo 65 - 6$00.
 
-###### Artigo 68 - 100$00.
+Artigo 68 - 100$00.
 
 ###### Artigo 69 - 30$00.
 
-###### Artigo 71 - 2500$00.
+Artigo 71 - 2500$00.
 
 ###### Artigo 73 - 1500$00
 
-###### Artigo 74 - 300$00, 150$00 90$00, 150$00, 80$00 e 50$00, respectivamente.
+Artigo 74 - 300$00, 150$00 90$00, 150$00, 80$00 e 50$00, respectivamente.
 
-###### Artigo 75 - 300$00, 150$00 e 90$00, respectivamente.
+Artigo 75 - 300$00, 150$00 e 90$00, respectivamente.
 
 ###### Artigo 76 - 50$00.
 
-###### Artigo 77 - 600$00.
+Artigo 77 - 600$00.
 
 ###### Artigo 78 - 60$00.
 
-###### Artigo 79 - 2500$00, 800$00, 350$00 e 200$00, respectivamente.
+Artigo 79 - 2500$00, 800$00, 350$00 e 200$00, respectivamente.
 
-###### Artigo 80 - 5$00 (primeira taxa).
+Artigo 80 - 5$00 (primeira taxa).
 
 ###### Artigo 84 - 600$00.
 
-###### Artigo 86 - 6$00.
+Artigo 86 - 6$00.
 
 ###### Artigo 87 - 6$00.
 
-###### Artigo 88 - 6$00.
+Artigo 88 - 6$00.
 
 ###### Artigo 89 - 6$00.
 
-###### Artigo 90 - 6$00.
+Artigo 90 - 6$00.
 
-###### Artigo 91 - 150$00 (última taxa).
+Artigo 91 - 150$00 (última taxa).
 
-###### Artigo 92 - 30$00 (no corpo e no texto do artigo).
+Artigo 92 - 30$00 (no corpo e no texto do artigo).
 
 ###### Artigo 93 - 100$00.
 
-###### Artigo 93-A - 1$00 (primeira taxa).
+Artigo 93-A - 1$00 (primeira taxa).
 
 ###### Artigo 94-A - 6$00.
 
-###### Artigo 95 - 30$00 e 90$00, respectivamente.
+Artigo 95 - 30$00 e 90$00, respectivamente.
 
 ###### Artigo 99-A - 6$00.
 
-###### Artigo 100 - 30$00.
+Artigo 100 - 30$00.
 
 ###### Artigo 107 - 10$00.
 
-###### Artigo 108 - 20$00 e 40$00, respectivamente.
+Artigo 108 - 20$00 e 40$00, respectivamente.
 
 ###### Artigo 109 - 7$50.
 
-###### Artigo 110 - 6$00.
+Artigo 110 - 6$00.
 
 ###### Artigo 111 - 6$00.
 
-###### Artigo 112 - 6$00.
+Artigo 112 - 6$00.
 
 ###### Artigo 113 - 1$50.
 
-###### Artigo 114 - 7$50, 15$00, 1$50 e 3$00, respectivamente.
+Artigo 114 - 7$50, 15$00, 1$50 e 3$00, respectivamente.
 
-###### Artigo 115 - $60 e $20, respectivamente.
+Artigo 115 - $60 e $20, respectivamente.
 
-###### Artigo 116-A - 6$00, 10$00, 20$00, 10$00, 500$00 e 500$00, 6$00, 10$00, 1$00, 3$00 e 500$00, respectivamente.
+Artigo 116-A - 6$00, 10$00, 20$00, 10$00, 500$00 e 500$00, 6$00, 10$00, 1$00, 3$00 e 500$00, respectivamente.
 
 ###### Artigo 117 - 100$00.
 
-###### Artigo 118 - 500$00, 150$00 e 50$00, respectivamente.
+Artigo 118 - 500$00, 150$00 e 50$00, respectivamente.
 
-###### Artigo 119 - 6$00, 6$00, 6$00 e 6$00, respectivamente.
+Artigo 119 - 6$00, 6$00, 6$00 e 6$00, respectivamente.
 
 ###### Artigo 122 - 6$00.
 
-###### Artigo 125 - 20$00, 40$00, 20$00, 15$00 e 10$00, respectivamente.
+Artigo 125 - 20$00, 40$00, 20$00, 15$00 e 10$00, respectivamente.
 
 ###### Artigo 126 - 15$00.
 
-###### Artigo 127 - 15$00.
+Artigo 127 - 15$00.
 
 ###### Artigo 128 - 15$00.
 
-###### Artigo 129 - 1$00, 4$00, 8$00 e 10$00, respectivamente.
+Artigo 129 - 1$00, 4$00, 8$00 e 10$00, respectivamente.
 
 ###### Artigo 130 - 150$00.
 
-###### Artigo 131 - 7$50 e 7$50, respectivamente.
+Artigo 131 - 7$50 e 7$50, respectivamente.
 
 ###### Artigo 132 - 20$00.
 
-###### Artigo 187 - 6$00.
+Artigo 187 - 6$00.
 
 ###### Artigo 138 - 7$50.
 
-###### Artigo 142 - 1$50.
+Artigo 142 - 1$50.
 
-###### Artigo 144 - 60$00, 30$00 e 60$00, respectivamente.
+Artigo 144 - 60$00, 30$00 e 60$00, respectivamente.
 
 ###### Artigo 146 - 20$00.
 
-###### Artigo 148 - 3$00, 2$00, 150$00 e 40$00, respectivamente.
+Artigo 148 - 3$00, 2$00, 150$00 e 40$00, respectivamente.
 
 ###### Artigo 149 - 6$00.
 
-###### Artigo 150 - 10$00.
+Artigo 150 - 10$00.
 
 ###### Artigo 151 - 6$00.
 
-###### Artigo 152 - 10$00.
+Artigo 152 - 10$00.
 
 ###### Artigo 153 - 6$00.
 
-###### Artigo 154 - 25$00 (segunda taxa).
+Artigo 154 - 25$00 (segunda taxa).
 
-###### Artigo 157 - 18$00 (última taxa).
+Artigo 157 - 18$00 (última taxa).
 
 ###### Artigo 158 - 7$50.
 
-###### Artigo 159 - 80$00.
+Artigo 159 - 80$00.
 
 ###### Artigo 160 - 16$00.
 
-###### Artigo 162 - 100$00.
+Artigo 162 - 100$00.
 
 ###### Artigo 169 - 20$00.
 
-###### Art. 3.º Aos artigos 4, 17, 45, 94-A e 139 da tabela geral do imposto do selo são feitos os aditamentos seguintes:
+Art. 3.º Aos artigos 4, 17, 45, 94-A e 139 da tabela geral do imposto do selo são feitos os aditamentos seguintes:
 
 ###### Artigo 4 ...
 
@@ -320,15 +349,15 @@ E por cada documento fotocopiado - mais 10$00 (estampilha).
 
 E por cada pública-forma - mais 10$00 (estampilha).
 
-###### Art. 4.º Os artigos 7, 8, 13 (disposição final), 105, 141, 164 e 168 da tabela geral do imposto do selo passam a ter a seguinte redacção:
+Art. 4.º Os artigos 7, 8, 13 (disposição final), 105, 141, 164 e 168 da tabela geral do imposto do selo passam a ter a seguinte redacção:
 
-###### Artigo 7 - Alvará de nomeação de despachante oficial, despachante privativo e agente aduaneiro:
+Artigo 7 - Alvará de nomeação de despachante oficial, despachante privativo e agente aduaneiro:
 
 Nas sedes das alfândegas e suas estâncias urbanas - 600$00 (estampilha).
 
 Nas outras estâncias aduaneiras - 300$00 (estampilha).
 
-###### Artigo 8 - Alvará de nomeação de pessoal auxiliar de despachante:
+Artigo 8 - Alvará de nomeação de pessoal auxiliar de despachante:
 
 a) Ajudante de despachante:
 
@@ -548,9 +577,9 @@ Cada um - $50 (selo especial).
 
 Ficam isentos os vales de correio chamados «de serviço».
 
-###### Art. 5.º É revogado o § 3.º do artigo 1.º do [Decreto-Lei n.º 33103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33103-1943-255603), de 29 de Setembro de 1943, e os artigos 7.º, 12.º e 60.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
+Art. 5.º É revogado o § 3.º do artigo 1.º do [Decreto-Lei n.º 33103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33103-1943-255603), de 29 de Setembro de 1943, e os artigos 7.º, 12.º e 60.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § único. As taxas do papel de que trata este artigo serão de 1$00 a 5000$00, pela forma seguinte:
 
@@ -568,7 +597,7 @@ Além da taxa de 500$00 haverá ainda as taxas de 1000$00 e de 5000$00.
 
 ...
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § 1.º ...
 
@@ -588,13 +617,13 @@ b) Pela entrega feita pelos tesoureiros da Fazenda Pública dos bairros e concel
 
 ...
 
-###### Art. 60.º A liquidação e pagamento do imposto referido no artigo 59.º far-se-ão até ao último dia útil do mês imediato ao da extracção dos recibos para cobrança dos mesmos prémios.
+Art. 60.º A liquidação e pagamento do imposto referido no artigo 59.º far-se-ão até ao último dia útil do mês imediato ao da extracção dos recibos para cobrança dos mesmos prémios.
 
-###### Art. 6.º Continuam a ser utilizadas até á sua extinção as letras seladas, inclusive as privativas, da taxa de $50 e os cartões selados para a venda de tabaco a retalho e para uso de acendedores e isqueiros actualmente existentes, completando-se a taxa mínima das letras e as dos cartões das licenças de tabaco e acendedores por meio de estampilhas fiscais.
+Art. 6.º Continuam a ser utilizadas até á sua extinção as letras seladas, inclusive as privativas, da taxa de $50 e os cartões selados para a venda de tabaco a retalho e para uso de acendedores e isqueiros actualmente existentes, completando-se a taxa mínima das letras e as dos cartões das licenças de tabaco e acendedores por meio de estampilhas fiscais.
 
 § único. A taxa mínima das letras completar-se-á nos termos estabelecidos no artigo 112.º e § único do Regulamento do Imposto do Selo, aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926. As estampilhas complementares das novas taxas das licenças para venda de tabacos e uso de acendedores e isqueiros serão coladas do lado direito do selo a tinta de óleo e inutilizadas pelo chefe da repartição de finanças competente para passar as licenças.
 
-###### Art. 7.º Quando as taxas das letras e das estampilhas fiscais ultrapassar o dobro das taxas máximas fixadas no Regulamento do Imposto do Selo, poderá o imposto ser pago por meio de verba, nos termos seguintes:
+Art. 7.º Quando as taxas das letras e das estampilhas fiscais ultrapassar o dobro das taxas máximas fixadas no Regulamento do Imposto do Selo, poderá o imposto ser pago por meio de verba, nos termos seguintes:
 
 a) Nas letras, a liquidação corresponderá apenas à diferença entre a taxa máxima do papel para letras e a efectivamente devida;
 
@@ -602,6 +631,6 @@ b) Quando o imposto deva ser pago por estampilha, a liquidação abrangerá a im
 
 § único. A repartição de finanças que, a pedido do interessado, proceder à liquidação a que se refere este artigo referenciará no documento o número e data da respectiva verba de pagamento e a indicação da tesouraria da Fazenda Pública onde este se realizou, o que será autenticado com o selo branco.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governa da República, 5 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

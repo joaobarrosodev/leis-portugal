@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/20000/21362139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5431209c35ceed3f7a4f06aba467560cf1cce1aeb4dd4e4bbb450d123ea860b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 655e41d6a09485e3cd1db70b6574fbaafdc3e9ab33fc2774acf95b78c3b7aa0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Importação de Veículos
+- Indústria Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:220498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147409:por
+  label: Alterado o n.º 3 do artigo 6.º e rectificado o anexo I pelo DEC LEI.513-G1/79.27.12.1979.MF, DR.IS [297]3ºSupl de
+    27.12.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-g1-1979-147409
+  date: '1979-12-27'
+- type: amended_by
+  target: pt:dre:563375:por
+  label: "Alterado o art. 14º pelo DEC LEI.270/81.18.09.1981.MFP, DR.IS [215] de 18.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1981-563375
+  date: '1981-09-18'
+- type: amended_by
+  target: pt:dre:601296:por
+  label: Alterado o n.º 2 do artigo 4.º, os artigos 6.º e 7.º, o n.º 2 do artigo 9.º, os n.ºs 2 e 4 do artigo 13.º, o artigo
+    16.º, o n.º 1 do artigo 17.º, rectificados os n.ºs 1, 2 e 3 do artigo 3.º, o n.º 1 do artigo 4.º, o artigo 5.º, o n.º
+    1 do artigo 11.º e o n.º 1 do artigo 13.º, alterado o anexo II e aditado um anexo III, pelo DEC LEI.7/82.14.01.1982.MFP,
+    DR.IS [11] de 14.01.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1982-601296
+  date: '1982-01-14'
+- type: cites
+  target: pt:dre:161879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220498:por
+  label: "Revogado pelo DEC LEI.405/84.31.12.1984.MFP, DR.IS [301]3ºSupl de 31.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1984-220498
+  date: '1984-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:12Z'
   warnings: []
   errors: []
 ---
@@ -121,15 +165,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A importação de veículos automóveis desmontados (CKD) e montados (CRU), destinada à actividade industrial e comercial, fica sujeita às regras constantes do presente decreto-lei.
+Artigo 1.º A importação de veículos automóveis desmontados (CKD) e montados (CRU), destinada à actividade industrial e comercial, fica sujeita às regras constantes do presente decreto-lei.
 
-###### Art. 2.º - 1 - A importação de veículos automóveis no estado CKD só pode ser feita por industriais de montagem.
+Art. 2.º - 1 - A importação de veículos automóveis no estado CKD só pode ser feita por industriais de montagem.
 
 2 - Consideram-se industriais de montagem não só as empresas que efectuem, em nome próprio, a montagem de veículos automóveis, como também as empresas sócias de quaisquer sociedades proprietárias de linhas de montagem, desde que as suas participações no respectivo capital social não sejam inferiores a 10%.
 
 3 - Se as sociedades proprietárias de linhas de montagem forem por acções, estas terão necessariamente de ser nominativas, não podendo ser endossadas em branco.
 
-###### Art. 3.º - 1 - Até 31 de Dezembro de 1985 só poderão ser importados, em cada ano e por marca, veículos automóveis no estado CBU de peso bruto inferior ou igual a 3500 kg, em número correspondente a 2% dos veículos automóveis da mesma marca montados no País e despachados no ano imediatamente anterior, no mínimo de quinze unidades, sem prejuízo do disposto nos números seguintes e no artigo 18.º
+Art. 3.º - 1 - Até 31 de Dezembro de 1985 só poderão ser importados, em cada ano e por marca, veículos automóveis no estado CBU de peso bruto inferior ou igual a 3500 kg, em número correspondente a 2% dos veículos automóveis da mesma marca montados no País e despachados no ano imediatamente anterior, no mínimo de quinze unidades, sem prejuízo do disposto nos números seguintes e no artigo 18.º
 
 2 - Até 31 de Dezembro de 1985 os contingentes anuais de importação de veículos automóveis no estado CBU, de peso bruto inferior ou igual a 3500 kg, originários dos países da CEE e EFTA, serão, por cada marca constante do anexo I a este diploma, os fixados no anexo II ao mesmo diploma, sem prejuízo do estabelecido no número anterior se a sua aplicação for mais favorável para os importadores.
 
@@ -137,27 +181,27 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A importação de veículos automóveis no estado CBU, de peso bruto inferior ou igual a 3500 kg, não originários da CEE, cujas marcas não tenham sido montadas em Portugal no ano imediatamente anterior, fica sujeita ao limite máximo de quinze unidades por ano e por marca.
 
-###### Art. 4.º - Até 31 de Dezembro de 1985 não será permitida a importação de veículos automóveis no estado CBU de peso bruto superior a 3500 kg, sem prejuízo do disposto nos números seguintes.
+Art. 4.º - Até 31 de Dezembro de 1985 não será permitida a importação de veículos automóveis no estado CBU de peso bruto superior a 3500 kg, sem prejuízo do disposto nos números seguintes.
 
 2 - Até à data referida no número anterior serão abertos contingentes globais para importação de veículos automóveis no estado CBU, de peso bruto superior a 3500 kg, de cento e cinquenta e cento e cinquenta unidades por ano, para marcas originárias de países da CEE e EFTA, respectivamente.
 
 3 - Os veículos automóveis de peso bruto superior a 3500 kg com ou sem caixa basculante, ou para tracção de semi-reboque, considerados tipos não correntes, poderão ser importados no estado CBU.
 
-###### Art. 5.º A importação de veículos automóveis ligeiros de passageiros, de carga e mistos de peso bruto inferior ou igual a 2000 kg, no estado CKD, fica sujeita a contingentação até 31 de Dezembro de 1985.
+Art. 5.º A importação de veículos automóveis ligeiros de passageiros, de carga e mistos de peso bruto inferior ou igual a 2000 kg, no estado CKD, fica sujeita a contingentação até 31 de Dezembro de 1985.
 
-###### Art. 6.º - 1 - O Governo, através de portaria dos Ministros das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo, fixará, em função das previsões do mercado, o contingente dos veículos automóveis referidos no artigo 5.º e as condições da sua utilização.
+Art. 6.º - 1 - O Governo, através de portaria dos Ministros das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo, fixará, em função das previsões do mercado, o contingente dos veículos automóveis referidos no artigo 5.º e as condições da sua utilização.
 
 2 - A portaria referida no n.º 1 deste artigo será publicada durante o ano imediatamente anterior para o qual o contingente é fixado.
 
 3 - O contingente será rateado entre as marcas através da atribuição de contingentes directamente proporcionais ao valor das importações a que cada uma teve direito no ano imediatamente anterior ao da publicação da portaria.
 
-###### Art. 7.º - 1 - A utilização dos contingentes atribuídos ao abrigo do artigo 6.º só poderá ser feita livremente até 80% do respectivo montante.
+Art. 7.º - 1 - A utilização dos contingentes atribuídos ao abrigo do artigo 6.º só poderá ser feita livremente até 80% do respectivo montante.
 
 2 - A utilização dos restantes 20% ficará condicionada à realização de exportações de produtos fabricados no País, nas condições definidas no artigo seguinte.
 
-###### Art. 8.º As exportações a efectuar para efeitos do n.º 2 do artigo 7.º só podem englobar componentes ou artigos produzidos pela indústria nacional para veículos automóveis e veículos automóveis produzidos em Portugal, sendo em qualquer caso considerado somente o valor nacional acrescentado.
+Art. 8.º As exportações a efectuar para efeitos do n.º 2 do artigo 7.º só podem englobar componentes ou artigos produzidos pela indústria nacional para veículos automóveis e veículos automóveis produzidos em Portugal, sendo em qualquer caso considerado somente o valor nacional acrescentado.
 
-###### Art. 9.º - 1 - Para além dos contingentes atribuídos nos termos do artigo 6.º, poderão ser autorizadas, por despacho conjunto dos Ministros da Indústria e Tecnologia e do Comércio e Turismo, a requerimento da entidade interessada, importações adicionais em valor que não exceda o valor nacional acrescentado nas seguintes mercadorias exportadas:
+Art. 9.º - 1 - Para além dos contingentes atribuídos nos termos do artigo 6.º, poderão ser autorizadas, por despacho conjunto dos Ministros da Indústria e Tecnologia e do Comércio e Turismo, a requerimento da entidade interessada, importações adicionais em valor que não exceda o valor nacional acrescentado nas seguintes mercadorias exportadas:
 
 a) Veículos automóveis no estado CKD e veículos automóveis no estado CBU;
 
@@ -167,19 +211,19 @@ c) Produtos de indústrias nacionais destinados aos construtores das marcas dos 
 
 2 - As importações adicionais referidas no n.º 1 deste artigo só poderão ser autorizadas depois de a marca ter efectivamente compensado, com as exportações definidas no n.º 1 do artigo 8.º, 20% do contingente atribuído nos termos do artigo 6.º
 
-###### Art. 10.º - 1 - A requerimento do interessado, a Direcção-Geral do Comércio Externo concederá contingentes suplementares para importação de veículos automóveis no estado CKD em substituição dos veículos automóveis no estado CBU que deixarem de ser importados e a que a marca tenha direito no ano para o qual o contingente foi atribuído.
+Art. 10.º - 1 - A requerimento do interessado, a Direcção-Geral do Comércio Externo concederá contingentes suplementares para importação de veículos automóveis no estado CKD em substituição dos veículos automóveis no estado CBU que deixarem de ser importados e a que a marca tenha direito no ano para o qual o contingente foi atribuído.
 
 2 - O valor dos contingentes suplementares será calculado na base do preço actual do CBU do modelo correspondente ao modelo da marca montado em maior quantidade no ano anterior.
 
-###### Art. 11.º - 1 - O Governo poderá atribuir, até 31 de Dezembro de 1985, contingentes adicionais de importação como contrapartida de investimentos na indústria automóvel a que reconheça incidência significativa no desenvolvimento da indústria de componentes, na criação de postos de trabalho, no desenvolvimento tecnológico do sector e no montante das exportações.
+Art. 11.º - 1 - O Governo poderá atribuir, até 31 de Dezembro de 1985, contingentes adicionais de importação como contrapartida de investimentos na indústria automóvel a que reconheça incidência significativa no desenvolvimento da indústria de componentes, na criação de postos de trabalho, no desenvolvimento tecnológico do sector e no montante das exportações.
 
 2 - Essa atribuição será feita por contrato celebrado nos termos do Código do Investimento Estrangeiro ou por resolução do Conselho de Ministros sob proposta do Ministério da indústria e Tecnologia, quando se trate, respectivamente, de investimentos estrangeiros ou nacionais.
 
 3 - Quando se verifique a atribuição de contingentes adicionais nos termos do n.º 1 deste artigo, não haverá lugar à atribuição de contingentes nos termos do artigo 9.º
 
-###### Art. 12.º Verificada a condição de duas ou mais marcas serem importadas pelo mesmo industrial de montagem, poderá, a requerimento do interessado, ser autorizada a transferência, de uma para outra daquelas marcas, da totalidade dos respectivos contingentes, por despacho conjunto dos Ministros da Indústria e Tecnologia e do Comércio e Turismo.
+Art. 12.º Verificada a condição de duas ou mais marcas serem importadas pelo mesmo industrial de montagem, poderá, a requerimento do interessado, ser autorizada a transferência, de uma para outra daquelas marcas, da totalidade dos respectivos contingentes, por despacho conjunto dos Ministros da Indústria e Tecnologia e do Comércio e Turismo.
 
-###### Art. 13.º - 1 - Os veículos automóveis montados em Portugal e destinados ao mercado interno ficam sujeitos até 1985 a uma percentagem mínima obrigatória de incorporação de componentes fabricados pela indústria nacional.
+Art. 13.º - 1 - Os veículos automóveis montados em Portugal e destinados ao mercado interno ficam sujeitos até 1985 a uma percentagem mínima obrigatória de incorporação de componentes fabricados pela indústria nacional.
 
 2 - Para veículos automóveis ligeiros de passageiros, carga e mistos de peso bruto inferior ou igual a 2000 kg, a percentagem referida no n.º 1 deste artigo será a seguinte para cada ano:
 
@@ -203,11 +247,11 @@ c) Produtos de indústrias nacionais destinados aos construtores das marcas dos 
 
 5 - Para efeitos do n.º 4 deste artigo, consideram-se as mercadorias caracterizadas nas alíneas a), b) e c) do n.º 1 do artigo 9.º deste decreto-lei.
 
-###### Art. 14.º Os componentes importados pelos industriais de montagem e que se destinem a ser incorporados nos veículos por eles produzidos entrarão nas oficinas de montagem em regime de depósito franco, sendo devidos pela saída de cada veículo os direitos que lhe corresponderiam se fosse importado montado e completo.
+Art. 14.º Os componentes importados pelos industriais de montagem e que se destinem a ser incorporados nos veículos por eles produzidos entrarão nas oficinas de montagem em regime de depósito franco, sendo devidos pela saída de cada veículo os direitos que lhe corresponderiam se fosse importado montado e completo.
 
-###### Art. 15.º São isentos de direitos de importação os componentes importados e incorporados em veículos automóveis que sejam exportados no estado CKD ou CBU.
+Art. 15.º São isentos de direitos de importação os componentes importados e incorporados em veículos automóveis que sejam exportados no estado CKD ou CBU.
 
-###### Art. 16.º - 1 - A não verificação da incorporação mínima obrigatória por parte dos industriais de montagem, nos termos do disposto no artigo 13.º, implicará, no ano imediatamente a seguir ao da comunicação da infracção:
+Art. 16.º - 1 - A não verificação da incorporação mínima obrigatória por parte dos industriais de montagem, nos termos do disposto no artigo 13.º, implicará, no ano imediatamente a seguir ao da comunicação da infracção:
 
 a) Para os veículos ligeiros de passageiros, de carga e mistos de peso bruto inferior ou igual a 2000 kg, sujeitos a contingentação, uma redução do contingente atribuído nos termos do artigo 6.º para um montante obtido pela multiplicação do valor daquele contingente por um coeficiente de redução determinado pelo quociente da percentagem de incorporação atingida pela percentagem de incorporação mínima obrigatória no ano da infracção;
 
@@ -215,15 +259,15 @@ b) Para os veículos de passageiros carga e mistos de peso bruto superior a 2000
 
 2 - A não verificação de incorporação mínima obrigatória nos anos de 1984 e 1985 considerar-se-á contra-ordenação e fica sujeita a coima em montante igual ao décuplo da diferença entre o valor efectivamente incorporado e o valor da percentagem mínima obrigatória.
 
-###### Art. 17.º - 1 - Os châssis montados no continente e ilhas adjacentes e destinados a carroçamento fora das linhas de montagem, como veículos pesados de passageiros, não estão sujeitos a incorporação mínima obrigatória dos componentes nacionais.
+Art. 17.º - 1 - Os châssis montados no continente e ilhas adjacentes e destinados a carroçamento fora das linhas de montagem, como veículos pesados de passageiros, não estão sujeitos a incorporação mínima obrigatória dos componentes nacionais.
 
 2 - Os châssis despachados ao abrigo do n.º 1 deste artigo aos quais seja dado destino diferente do nele consignado serão considerados em descaminho dos direitos que lhes corresponderiam se fossem importados montados.
 
-###### Art. 18.º - 1 - Os industriais de montagem de veículos automóveis ligeiros de passageiros, de carga e mistos de peso bruto inferior ou igual a 2000 kg poderão ser autorizados por despacho do Ministro da Indústria e Tecnologia a importar veículos automóveis daquele tipo no estado CBU para além das quantidades estipuladas no artigo 3.º e em substituição de veículos automóveis no estado CKD, desde que procedam à reconversão total das suas linhas de montagem, nas condições previstas nos artigos seguintes.
+Art. 18.º - 1 - Os industriais de montagem de veículos automóveis ligeiros de passageiros, de carga e mistos de peso bruto inferior ou igual a 2000 kg poderão ser autorizados por despacho do Ministro da Indústria e Tecnologia a importar veículos automóveis daquele tipo no estado CBU para além das quantidades estipuladas no artigo 3.º e em substituição de veículos automóveis no estado CKD, desde que procedam à reconversão total das suas linhas de montagem, nas condições previstas nos artigos seguintes.
 
 2 - O valor das importações de veículos automóveis no estado CBU efectuadas ao abrigo do disposto no n.º 1 deste artigo será descontado ao contingente atribuído à marca nos termos do artigo 6.º e aos contingentes adicionais atribuídos nos termos do artigo 9.º ou 11.º
 
-###### Art. 19.º - 1 - Considera-se que há reconversão de uma linha de montagem desde que se verifiquem, obrigatória e cumulativamente, as seguintes condições:
+Art. 19.º - 1 - Considera-se que há reconversão de uma linha de montagem desde que se verifiquem, obrigatória e cumulativamente, as seguintes condições:
 
 a) Ser o produto final diferente do automóvel ligeiro de passageiros, carga e misto de peso bruto inferior ou igual a 2000 kg, excepto se pelo menos 50% da produção se destinar à exportação;
 
@@ -237,21 +281,21 @@ c) Permanecer a nova actividade industrial no local das instalações da linha d
 
 4 - O não cumprimento, por parte do proponente, do plano de reconversão acordado dará lugar ao cancelamento imediato da autorização de importação de veículos automóveis no estado CBU.
 
-###### Art. 20.º O Governo assegurará, através de negociações apropriadas, a conformidade da execução do presente decreto-lei com os compromissos decorrentes dos seus acordos internacionais.
+Art. 20.º O Governo assegurará, através de negociações apropriadas, a conformidade da execução do presente decreto-lei com os compromissos decorrentes dos seus acordos internacionais.
 
-###### Art. 21.º São revogados o [Decreto-Lei n.º 157/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1972-680808), de 12 de Maio, o Decreto-Lei n.º 602/72, de 30 de Dezembro, o [Decreto n.º 713/74](https://diariodarepublica.pt/dr/detalhe/decreto/713-1974-467055), de 11 de Dezembro, o [Decreto-Lei n.º 770/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/770-1974-461245), de 31 de Dezembro, e o [Decreto n.º 197/75](https://diariodarepublica.pt/dr/detalhe/decreto/197-1975-161879), de 14 de Abril.
+Art. 21.º São revogados o [Decreto-Lei n.º 157/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1972-680808), de 12 de Maio, o Decreto-Lei n.º 602/72, de 30 de Dezembro, o [Decreto n.º 713/74](https://diariodarepublica.pt/dr/detalhe/decreto/713-1974-467055), de 11 de Dezembro, o [Decreto-Lei n.º 770/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/770-1974-461245), de 31 de Dezembro, e o [Decreto n.º 197/75](https://diariodarepublica.pt/dr/detalhe/decreto/197-1975-161879), de 14 de Abril.
 
-###### Art. 22.º Quaisquer dúvidas que resultem da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo.
+Art. 22.º Quaisquer dúvidas que resultem da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo.
 
-###### Art. 23.º Este diploma entra em vigor em 1 de Janeiro de 1980.
+Art. 23.º Este diploma entra em vigor em 1 de Janeiro de 1980.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Álvaro Roque de Pinho Bissaia Barreto - Abel Pinto Repolho Correia - João Pinto Ribeiro.
 
-**Promulgado em 13 de Agosto de 1979**
+Promulgado em 13 de Agosto de 1979
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I
 
@@ -297,6 +341,6 @@ Volvo (Holanda).
 
 Volvo (Suécia).
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/20000/21362139.pdf))](https://files.diariodarepublica.pt/1s/1979/08/20000/21362139.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/20000/21362139.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - Pelo Ministro das Finanças e do Plano, João Pinto Ribeiro, Secretário de Estado do Orçamento. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - Pelo Ministro das Finanças e do Plano, João Pinto Ribeiro, Secretário de Estado do Orçamento. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.

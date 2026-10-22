@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/09/21000/16251628.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe502832813bbeccf997959d23f60ea9f09a3d310ecefb89ff1944d67f37f74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 183413f0b9c7cebcb132efd71bef549b25dabeed581f10f379fd4285595802ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação de Capitais
+- Importação de Capitais
+- Operações de Invisiveis Correntes
 relationships:
 - type: amended_by
   target: pt:dre:692224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240851:por
+  label: "Revogados os arts. 2.º a 7.º pelo DEC LEI.353-F/77.1977.08.29.MPCE DR.IS [199]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-f-1977-240851
+  date: '1977-08-29'
+- type: repealed_by
+  target: pt:dre:451790:por
+  label: "Revogado o artigo 8.º, pelo DEC LEI.227/83.27.05.1983.MFP, DR.IS [122] de 27.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1983-451790
+  date: '1983-05-27'
+- type: repealed_by
+  target: pt:dre:692224:por
+  label: "Revogado o Decreto-Lei n.º 44698, de 17 de Novembro de 1962, com as alterações introduzidas no presente diploma,\
+    \ pelo DEC LEI.351-C/85.26.08.1985.MFP, DR.IS [195]Supl de 26.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-c-1985-692224
+  date: '1985-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:33Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +131,9 @@ Nestas circunstâncias, tendo em atenção os princípios que informaram o dispo
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os prazos a que aludem o § 1.º do artigo 12.º e o § 1.º do artigo 15.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, são reduzidos a 90 dias, a contar da data em que tenham sido constituídos os direitos ou as obrigações a que as operações de invisíveis correntes respeitem, ficando igualmente modificado, nesta conformidade, o estabelecido no artigo 14.º do mesmo decreto-lei.
+Artigo 1.º Os prazos a que aludem o § 1.º do artigo 12.º e o § 1.º do artigo 15.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, são reduzidos a 90 dias, a contar da data em que tenham sido constituídos os direitos ou as obrigações a que as operações de invisíveis correntes respeitem, ficando igualmente modificado, nesta conformidade, o estabelecido no artigo 14.º do mesmo decreto-lei.
 
-###### Art. 2.º - 1. A emissão, num território nacional, de boletins de registo prévio de importação de mercadorias do estrangeiro com a cláusula de dispensa de oportuna liquidação cambial e, portanto, só para efeitos de despacho aduaneiro, ou a concessão posterior da dispensa de liquidação quando os referidos boletins de registo prévio hajam sido emitidos sem essa cláusula e as importações das mercadorias não constituírem forma de regularização total ou parcial de operações de capitais privados mencionadas no anexo II ao [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), será normalmente efectuada apenas nos casos seguintes:
+Art. 2.º - 1. A emissão, num território nacional, de boletins de registo prévio de importação de mercadorias do estrangeiro com a cláusula de dispensa de oportuna liquidação cambial e, portanto, só para efeitos de despacho aduaneiro, ou a concessão posterior da dispensa de liquidação quando os referidos boletins de registo prévio hajam sido emitidos sem essa cláusula e as importações das mercadorias não constituírem forma de regularização total ou parcial de operações de capitais privados mencionadas no anexo II ao [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), será normalmente efectuada apenas nos casos seguintes:
 
 a) A importação das mercadorias já haver sido liquidada ao abrigo de boletim de registo prévio cujo prazo tenha caducado e não possa er prorrogado, ou por qualquer outra forma prevista na legislação vigente;
 
@@ -122,17 +153,17 @@ g) As importações de quaisquer bens de consumo, duradouro ou não, oferecidos 
 
 3. Quando a emissão de boletins de registo prévio for efectuada com dispensa de liquidação cambial, os serviços ou entidades que procedam a essa emissão não entregarão aos interessados os exemplares E dos boletins de registo, enviando estes exemplares à autoridade cambial do respectivo território. Nos casos em que a concessão da dispensa de liquidação cambial seja posterior à emissão dos boletins de registo prévio, os ditos serviços ou entidades requererão os exemplares E dos respectivos boletins em posse dos interessados e enviá-los-ão à autoridade cambial antes aludida.
 
-###### Art. 3.º O disposto no artigo precedente poderá aplicar-se a outras importações de mercadorias provenientes do estrangeiro, com natureza ou finalidades semelhantes às das indicadas nas alíneas do n.º 1 do mesmo artigo, mediante despacho, conforme o caso, do Ministro das Finanças ou do Ministro do Ultramar, a publicar no Diário do Governo ou no Boletim Oficial de cada uma das províncias ultramarinas.
+Art. 3.º O disposto no artigo precedente poderá aplicar-se a outras importações de mercadorias provenientes do estrangeiro, com natureza ou finalidades semelhantes às das indicadas nas alíneas do n.º 1 do mesmo artigo, mediante despacho, conforme o caso, do Ministro das Finanças ou do Ministro do Ultramar, a publicar no Diário do Governo ou no Boletim Oficial de cada uma das províncias ultramarinas.
 
-###### Art. 4.º - 1. As importações, num território nacional, de mercadorias provenientes de outro território nacional apenas serão normalmente dispensadas de liquidação mediante a oportuna realização de operações de pagamentos interterritoriais quando se trate de casos idênticos aos referidos no n.º 1 do artigo 2.º ou dos que forem definidos por despacho conjunto dos Ministros das Finanças e do Ultramar.
+Art. 4.º - 1. As importações, num território nacional, de mercadorias provenientes de outro território nacional apenas serão normalmente dispensadas de liquidação mediante a oportuna realização de operações de pagamentos interterritoriais quando se trate de casos idênticos aos referidos no n.º 1 do artigo 2.º ou dos que forem definidos por despacho conjunto dos Ministros das Finanças e do Ultramar.
 
 2. Os importadores que pretenderem efectuar operações de importação ao abrigo do previsto no número precedente deverão solicitar a concessão da dispensa de pagamento interterritorial aos serviços ou entidades mencionados no n.º 2 do artigo 2.º, que, também para essa concessão, poderão solicitar, quando o julguem necessário ou conveniente, o parecer da autoridade cambial do território nacional de importação das mercadorias.
 
 3. Quando os serviços alfandegários verificarem, pelo documento comprovativo da concessão de dispensa de pagamento interterritorial, que os interessados ficam obrigados a apresentar-lhes, desde que hajam obtido essa dispensa antes do despacho das mercadorias, que determinada importação foi dispensada do dito pagamento interterritorial, aporão nos exemplares dos boletins de registo a pertinente anotação e remeterão, no próprio dia do despacho ou no dia útil imediato, o exemplar III desses boletins à autoridade cambial do território de importação das mercadorias e o exemplar IV à autoridade cambial do território de exportação das mesmas mercadorias, procedendo em tudo o mais conforme se encontra estatuído no artigo 7.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460). Mas nos casos em que a concessão da dispensa de pagamento interterritorial for posterior ao despacho alfandegário das mercadorias e, por conseguinte, à emissão dos correspondentes boletins de registo, os serviços ou entidades competentes requererão aos interessados a entrega dos exemplares III e IV dos boletins na sua posse e aporão nesses exemplares a anotação adequada, remetendo, no próprio dia da concessão da dispensa de liquidação ou no dia útil imediato, o exemplar III à autoridade cambial do território de importação das mercadorias e o exemplar IV à autoridade cambial do território de exportação das mesmas mercadorias.
 
-###### Art. 5.º As importações de mercadorias num território nacional, quando isentas de registo, nos termos da norma 17.ª das normas aprovadas pelo Conselho de Ministros para o Comércio Externo em 5 de Fevereiro de 1948 e publicadas no Diário do Governo, 1.ª série, de 6 de Fevereiro desse ano, ou nos termos do § 5.º do artigo 4.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) ou, ainda, nos do § 2.º do artigo 7.º do mesmo decreto-lei, só poderão normalmente beneficiar de dispensa de liquidação desde que sejam abrangidas nos casos previstos pelos artigos 2.º, 3.º e 4.º do presente diploma.
+Art. 5.º As importações de mercadorias num território nacional, quando isentas de registo, nos termos da norma 17.ª das normas aprovadas pelo Conselho de Ministros para o Comércio Externo em 5 de Fevereiro de 1948 e publicadas no Diário do Governo, 1.ª série, de 6 de Fevereiro desse ano, ou nos termos do § 5.º do artigo 4.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) ou, ainda, nos do § 2.º do artigo 7.º do mesmo decreto-lei, só poderão normalmente beneficiar de dispensa de liquidação desde que sejam abrangidas nos casos previstos pelos artigos 2.º, 3.º e 4.º do presente diploma.
 
-###### Art. 6.º - 1. Poderá ser ainda concedida, na importação de mercadorias liberalizadas ou sujeitas a restrições quantitativas desde que o respectivo valor seja abatido no contingente aplicável, a dispensa de liquidação mediante a oportuna realização de operações cambiais ou de pagamentos interterritoriais nos casos seguintes:
+Art. 6.º - 1. Poderá ser ainda concedida, na importação de mercadorias liberalizadas ou sujeitas a restrições quantitativas desde que o respectivo valor seja abatido no contingente aplicável, a dispensa de liquidação mediante a oportuna realização de operações cambiais ou de pagamentos interterritoriais nos casos seguintes:
 
 a) Quando o importador das mercadorias haja constituído, em seu nome e à sua ordem, disponibilidades em meios de pagamento sobre o exterior que possam ser utilizadas na liquidação das importações em causa;
 
@@ -142,13 +173,13 @@ b) Quando o importador das mercadorias possuir, num território nacional ou estr
 
 3. Nos casos em que a concessão da dispensa de liquidação haja sido obtida antes da emissão dos boletins de registo prévio, para as importações do estrangeiro, ou do despacho alfandegário, para as operações entre territórios nacionais, seguir-se-á, conforme o caso, o processo indicado na primeira parte do n.º 3 do artigo 2.º ou na primeira parte do n.º 3 do artigo 4.º do presente diploma. Mas quando a aludida dispensa de liquidação for solicitada posteriormente à emissão dos boletins de registo prévio ou ao despacho alfandegário, a autoridade cambial do território de importação requererá dos interessados, conforme o caso, os exemplares E dos boletins de registo prévio ou os exemplares III e IV dos boletins de registo nos serviços alfandegários, apondo nesses exemplares as pertinentes anotações e, tratando-se de operações entre territórios nacionais, remetendo, no próprio dia da concessão de dispensa de liquidação ou no dia útil imediato, o exemplar IV à autoridade cambial do território de exportação das mercadorias.
 
-###### Art. 7.º Não serão utilizáveis, para efeitos do previsto no n.º 1 do precedente artigo, as disponibilidades em meios de pagamento sobre o exterior, ou os fundos bloqueados, que um importador residente num território nacional poderia eventualmente obter por cedência de outro residente no mesmo território ou de um residente noutro território nacional, salvo se essa cedência for prèviamente autorizada para esse fim, no continente e ilhas adjacentes, pelo Banco de Portugal e, nas províncias ultramarinas, pela competente inspecção provincial de crédito e seguros ou do comércio bancário, ou, tratando-se de uma cedência interessando dois ou mais territórios nacionais, pelas autoridades cambiais dos mesmos territórios.
+Art. 7.º Não serão utilizáveis, para efeitos do previsto no n.º 1 do precedente artigo, as disponibilidades em meios de pagamento sobre o exterior, ou os fundos bloqueados, que um importador residente num território nacional poderia eventualmente obter por cedência de outro residente no mesmo território ou de um residente noutro território nacional, salvo se essa cedência for prèviamente autorizada para esse fim, no continente e ilhas adjacentes, pelo Banco de Portugal e, nas províncias ultramarinas, pela competente inspecção provincial de crédito e seguros ou do comércio bancário, ou, tratando-se de uma cedência interessando dois ou mais territórios nacionais, pelas autoridades cambiais dos mesmos territórios.
 
-###### Art. 8.º Salvo em situações excepcionais definidas em contratos celebrados entre o Estado e as empresas, ou em casos especialmente autorizados por despacho do Ministro das Finanças, para transacções da continente e ilhas adjacentes com o estrangeiro, por despacho do Ministro do Ultramar, para transacções das províncias ultramarinas com o estrangeiro, ou por despacho conjunto dos Ministros das Finanças e do Ultramar, para transacções entre territórios nacionais, não será permitida quer a regularização, total ou parcial, do valor de importações de mercadorias efectuadas por um residente em território nacional, por compensação com o valor de exportações de outras mercadorias ou com o de créditos resultantes de operações de invisíveis correntes, quer a regularização, total ou parcial, do valor de exportações de mercadorias por compensação com o valor de importações de outras mercadorias ou com o de débitos consequentes de operações de invisíveis correntes, quer também a regularização, total ou parcial, de débitos ou créditos advenientes de operações de invisíveis correntes por compensação com o valor de exportações ou de importações de mercadorias ou com o de outros créditos ou débitos provenientes de operações de invisíveis correntes ou de capitais, quer, ainda, a regularização, total ou parcial, do valor de exportação de capitais por compensação com o de importação de outros capitais, mesmo que todos os valores em causa constituam direitos e obrigações do mesmo residente em território nacional.
+Art. 8.º Salvo em situações excepcionais definidas em contratos celebrados entre o Estado e as empresas, ou em casos especialmente autorizados por despacho do Ministro das Finanças, para transacções da continente e ilhas adjacentes com o estrangeiro, por despacho do Ministro do Ultramar, para transacções das províncias ultramarinas com o estrangeiro, ou por despacho conjunto dos Ministros das Finanças e do Ultramar, para transacções entre territórios nacionais, não será permitida quer a regularização, total ou parcial, do valor de importações de mercadorias efectuadas por um residente em território nacional, por compensação com o valor de exportações de outras mercadorias ou com o de créditos resultantes de operações de invisíveis correntes, quer a regularização, total ou parcial, do valor de exportações de mercadorias por compensação com o valor de importações de outras mercadorias ou com o de débitos consequentes de operações de invisíveis correntes, quer também a regularização, total ou parcial, de débitos ou créditos advenientes de operações de invisíveis correntes por compensação com o valor de exportações ou de importações de mercadorias ou com o de outros créditos ou débitos provenientes de operações de invisíveis correntes ou de capitais, quer, ainda, a regularização, total ou parcial, do valor de exportação de capitais por compensação com o de importação de outros capitais, mesmo que todos os valores em causa constituam direitos e obrigações do mesmo residente em território nacional.
 
-###### Art. 9.º O não cumprimento do disposto no presente diploma constitui transgressão punível nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 9.º O não cumprimento do disposto no presente diploma constitui transgressão punível nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

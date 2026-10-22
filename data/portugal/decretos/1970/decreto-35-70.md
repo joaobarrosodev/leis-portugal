@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1970-227633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddf2aec2c8a3895a5c4d7eb725c8ea6028381792f0e2fce36671aad7b84c9771
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3676eb2a0f02dd05b7f4486da8c82665ec2d68afa89f002294b9c0e9778ee0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:31Z'
   warnings: []
   errors: []
 ---
@@ -90,12 +90,12 @@ Tendo em vista o parecer favorável do Ministério das Obras Públicas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os limites da cidade de Braga são definidos por uma linha que, partindo da Casa da Irmandade de Santa Marta da Falperra, se desenvolve em sucessivos segmentos de recta, no sentido da marcha dos ponteiros do relógio, por forma a constituir figura poligonal com os vértices situados nos seguintes pontos: capela da Misericórdia, do lugar do mesmo nome, da freguesia de Ferreiros; igreja de Gondizalves; igreja de Semelhe; entroncamento do caminho municipal n.º 1278-2 com a estrada nacional n.º 201; ponto de intercepção da linha recta que, do entroncamento atrás mencionado, inflecte para leste, de um ângulo de 261 grados, com a estrada nacional n.º 101, a 600 m para norte do cruzamento desta estrada com a estrada nacional n.º 205-4; cruzamento da estrada nacional n.º 103 com a estrada municipal n.º 587, no lugar da Bela Vista, da freguesia de Gualtar; igreja de Espinho; ponto de intercepção do segmento de recta que parte da referida igreja, na direcção do cruzeiro do Monte Sameiro, com o limite do concelho de Braga, que passa desde aí a coincidir com o da cidade até ao ponto inicial da presente descrição.
+Artigo único. Os limites da cidade de Braga são definidos por uma linha que, partindo da Casa da Irmandade de Santa Marta da Falperra, se desenvolve em sucessivos segmentos de recta, no sentido da marcha dos ponteiros do relógio, por forma a constituir figura poligonal com os vértices situados nos seguintes pontos: capela da Misericórdia, do lugar do mesmo nome, da freguesia de Ferreiros; igreja de Gondizalves; igreja de Semelhe; entroncamento do caminho municipal n.º 1278-2 com a estrada nacional n.º 201; ponto de intercepção da linha recta que, do entroncamento atrás mencionado, inflecte para leste, de um ângulo de 261 grados, com a estrada nacional n.º 101, a 600 m para norte do cruzamento desta estrada com a estrada nacional n.º 205-4; cruzamento da estrada nacional n.º 103 com a estrada municipal n.º 587, no lugar da Bela Vista, da freguesia de Gualtar; igreja de Espinho; ponto de intercepção do segmento de recta que parte da referida igreja, na direcção do cruzeiro do Monte Sameiro, com o limite do concelho de Braga, que passa desde aí a coincidir com o da cidade até ao ponto inicial da presente descrição.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 15 de Janeiro de 1970.**
+Promulgado em 15 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

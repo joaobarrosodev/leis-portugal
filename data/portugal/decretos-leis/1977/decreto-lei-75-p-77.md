@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(34) a 318-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00340038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-p-1977-509025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a984bdf6e089514fd9263b9ef0df8fcd357c51bbcde6d8aafc1977b6e49dd38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c75941fb2c926b8413fc90da8b2879a8218e8fcffb692038657524887e3ca1c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- Comércio
+- Controlo de Qualidade
+- Crime
+- Especificação Técnica
+- Fabrico Industrial
+- Indústria da Panificação
+- Indústria Pasteleira
+- Preço
+- Produção Vegetal
 relationships:
 - type: amended_by
   target: pt:dre:425320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278245:por
+  label: "Alterado o nº1 do art. 1º do presente diploma, pelo DEC LEI.408/77.26.09.1977.MAP, DR.IS [223] de 26.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1977-278245
+  date: '1977-09-26'
+- type: cites
+  target: pt:dre:184207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656378:por
+  label: Revogado pelo DEC LEI.70/78.07.04.1978.MAP, DR.IS [81-2ºSupl] de 07.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1978-656378
+  date: '1978-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:01Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +166,7 @@ I
 
 Dos cereais
 
-###### Artigo 1.º - 1. O Instituto dos Cereais adquirirá em exclusivo todo o trigo, cevada vulgar e aveia de produção nacional.
+Artigo 1.º - 1. O Instituto dos Cereais adquirirá em exclusivo todo o trigo, cevada vulgar e aveia de produção nacional.
 
 2. Por despacho dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno serão estabelecidos:
 
@@ -124,25 +176,25 @@ b) Os preços e condições de aquisição e venda dos restantes cereais e semen
 
 c) Os preços e condições de fornecimento à lavoura de sementes seleccionadas de cereais e sementes forrageiras.
 
-###### Art. 2.º - 1. Fica o Secretário de Estado do Comércio e Indústrias Agrícolas autorizado a actualizar, por despacho, as regras a aplicar na apreciação e valorização dos trigos e, bem assim, uniformizar os métodos de determinação do peso do hectolitro.
+Art. 2.º - 1. Fica o Secretário de Estado do Comércio e Indústrias Agrícolas autorizado a actualizar, por despacho, as regras a aplicar na apreciação e valorização dos trigos e, bem assim, uniformizar os métodos de determinação do peso do hectolitro.
 
 2. Os trigos de produção nacional que, em determinada colheita, vierem a revelar-se com características ou defeitos que possam prejudicar a qualidade das farinhas para consumo humano poderão ser destinados, mediante proposta do Instituto dos Cereais, à alimentação animal ou a qualquer outra utilização, nos termos e nas condições a fixar em despacho do Secretário de Estado do Comércio e Indústrias Agrícolas.
 
-###### Art. 3.º - 1. Os produtores de trigo, cevada vulgar e aveia ficam obrigados a manifestar, no Instituto dos Cereais, o cereal utilizado na sementeira e o produzido.
+Art. 3.º - 1. Os produtores de trigo, cevada vulgar e aveia ficam obrigados a manifestar, no Instituto dos Cereais, o cereal utilizado na sementeira e o produzido.
 
 2. O Instituto dos Cereais avisará os interessados, em tempo útil, dos prazos limite para entrega dos manifestos referidos no número anterior, bem como das datas de abertura e encerramento dos seus silos, celeiros e armazéns.
 
-###### Art. 4.º Os trigos manifestados para consumo das casas agrícolas só podem ser trocados por farinhas nas fábricas de moagem e seus depósitos sendo estes devidamente autorizados pelo Instituto dos Cereais.
+Art. 4.º Os trigos manifestados para consumo das casas agrícolas só podem ser trocados por farinhas nas fábricas de moagem e seus depósitos sendo estes devidamente autorizados pelo Instituto dos Cereais.
 
-###### Art. 5.º As regras a observar na distribuição de cereais às indústrias transformadoras, bem como a constituição de reservas, serão fixadas por despacho conjunto dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, mediante proposta do Instituto dos Cereais.
+Art. 5.º As regras a observar na distribuição de cereais às indústrias transformadoras, bem como a constituição de reservas, serão fixadas por despacho conjunto dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, mediante proposta do Instituto dos Cereais.
 
 II
 
 Das farinhas
 
-###### Art. 6.º - 1. As farinhas espoadas de trigo e sêmolas do mesmo cereal, a produzir pela respectiva indústria, terão as seguintes características como limites máximos:
+Art. 6.º - 1. As farinhas espoadas de trigo e sêmolas do mesmo cereal, a produzir pela respectiva indústria, terão as seguintes características como limites máximos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/04901/00340038.pdf))](https://files.diariodarepublica.pt/1s/1977/02/04901/00340038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/04901/00340038.pdf)
 
 2. As farinhas e as sêmolas deverão ter um mínimo de 7% e 8% de glúten seco, respectivamente.
 
@@ -152,29 +204,29 @@ Das farinhas
 
 5. A farinha de 2.ª qualidade só pode ser vendida à indústria de panificação, destinando-se exclusivamente ao fabrico de pão de 2.ª qualidade.
 
-###### Art. 7.º Os preços máximos por tonelada das farinhas espoadas de trigo nas fábricas de moagem ou sobre vagão são os seguintes:
+Art. 7.º Os preços máximos por tonelada das farinhas espoadas de trigo nas fábricas de moagem ou sobre vagão são os seguintes:
 
 Farinha de 1.ª qualidade ... 6287$00
 
 Farinha de 2.ª qualidade ... 4600$00
 
-###### Art. 8.º A farinha de trigo espoada destinada ao consumo humano só pode ser entregue pelas moagens produtoras no período compreendido entre dez e sessenta dias após o seu fabrico.
+Art. 8.º A farinha de trigo espoada destinada ao consumo humano só pode ser entregue pelas moagens produtoras no período compreendido entre dez e sessenta dias após o seu fabrico.
 
-###### Art. 9.º As moagens poderão beneficiar, conforme as condições a estabelecer em despacho conjunto dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, de subsídios por quilograma de farinha espoada de trigo de 2.ª qualidade, e de farinha em rama de trigo com incorporação, entregues à indústria de panificação, e por quilograma de farinha (m 2) destinada ao fabrico de massas alimentícias de consumo corrente, entregue a esta indústria.
+Art. 9.º As moagens poderão beneficiar, conforme as condições a estabelecer em despacho conjunto dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, de subsídios por quilograma de farinha espoada de trigo de 2.ª qualidade, e de farinha em rama de trigo com incorporação, entregues à indústria de panificação, e por quilograma de farinha (m 2) destinada ao fabrico de massas alimentícias de consumo corrente, entregue a esta indústria.
 
-###### Art. 10.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por despacho conjunto:
+Art. 10.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por despacho conjunto:
 
 a) Fixar ou alterar os preços e características das farinhas, sêmolas e seus subprodutos;
 
 b) Estabelecer os requisitos e características a que devem obedecer as embalagens das farinhas e sêmolas, sem prejuízo do preceituado no [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e disposições complementares.
 
-###### Art. 11.º As regras a observar na distribuição das farinhas e sêmolas e seus subprodutos serão estabelecidas pelo Instituto dos Cereais.
+Art. 11.º As regras a observar na distribuição das farinhas e sêmolas e seus subprodutos serão estabelecidas pelo Instituto dos Cereais.
 
 III
 
 Do pão e produtos afins
 
-###### Art. 12.º - 1. O pão de 1.ª qualidade é fabricado com farinha de 1.ª qualidade.
+Art. 12.º - 1. O pão de 1.ª qualidade é fabricado com farinha de 1.ª qualidade.
 
 2. O pão de 1.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:
 
@@ -190,7 +242,7 @@ Múltiplos de 500 g - ao preço correspondente a 15$00 por quilograma.
 
 4. Ficam livres os preços de venda de pão fabricado em unidades de 30 g e de pão de forma.
 
-###### Art. 13.º - 1. O pão de 2.ª qualidade é fabricado com farinha de 2.ª qualidade.
+Art. 13.º - 1. O pão de 2.ª qualidade é fabricado com farinha de 2.ª qualidade.
 
 2. O pão de 2.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:
 
@@ -200,11 +252,11 @@ Múltiplos de 500 g - ao preço correspondente a 10$60 por quilograma.
 
 3. Aplica-se ao pão de 2.ª qualidade o disposto no n.º 3 do artigo anterior.
 
-###### Art. 14.º - 1. O pão de farinha de trigo em rama e o pão de mistura só podem ser fabricados em unidades de 100 g, 400 g e múltiplos de 400 g e serão vendidos, respectivamente, aos preços máximos correspondentes a 12$00 e 15$00 por quilograma.
+Art. 14.º - 1. O pão de farinha de trigo em rama e o pão de mistura só podem ser fabricados em unidades de 100 g, 400 g e múltiplos de 400 g e serão vendidos, respectivamente, aos preços máximos correspondentes a 12$00 e 15$00 por quilograma.
 
 2. Aplica-se a estes tipos de pão o disposto no n.º 3 do artigo 12.º
 
-###### Art. 15.º Na venda ao domicílio poderão acrescer aos preços máximos fixados nos artigos 12.º e 13.º as seguintes importâncias:
+Art. 15.º Na venda ao domicílio poderão acrescer aos preços máximos fixados nos artigos 12.º e 13.º as seguintes importâncias:
 
 I - Pão de 1.ª qualidade:
 
@@ -222,11 +274,11 @@ a) Por cada unidade de 500 g ... $40
 
 b) Múltiplos de 500 g ... $60
 
-###### Art. 16.º São livres os preços de venda de pão de milho, pão de centeio, pão alvo regional, pão enriquecido e dietético, tosta e outros produtos afins do pão.
+Art. 16.º São livres os preços de venda de pão de milho, pão de centeio, pão alvo regional, pão enriquecido e dietético, tosta e outros produtos afins do pão.
 
-###### Art. 17.º Por portaria dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno serão fixadas as tolerâncias de peso no fabrico de pão e regulada a forma da respectiva verificação.
+Art. 17.º Por portaria dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno serão fixadas as tolerâncias de peso no fabrico de pão e regulada a forma da respectiva verificação.
 
-###### Art. 18.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por despacho conjunto:
+Art. 18.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por despacho conjunto:
 
 1) Alterar, fixar ou libertar os preços do pão e dos produtos afins;
 
@@ -234,7 +286,7 @@ b) Múltiplos de 500 g ... $60
 
 3) Alterar as margens permitidas na venda de pão ao domicílio.
 
-###### Art. 19.º - 1. Os tipos de pão referidos no n.º 2 dos artigos 12.º e 13.º e no n.º 1 do artigo 14.º deverão ter, por peso nominal de cada unidade expresso em gramas (m), o correspondente resíduo seco total mínimo a seguir indicado:
+Art. 19.º - 1. Os tipos de pão referidos no n.º 2 dos artigos 12.º e 13.º e no n.º 1 do artigo 14.º deverão ter, por peso nominal de cada unidade expresso em gramas (m), o correspondente resíduo seco total mínimo a seguir indicado:
 
 a) No pão de 1.ª qualidade e de mistura - 0,70 m para valores de m iguais ou inferiores a 333 g e 0,67 m para valores de m superiores a 333 g;
 
@@ -244,11 +296,11 @@ b) No pão de 2.ª qualidade de farinha de trigo em rama - 0,67 m para valores d
 
 3. As regras de colheita das amostras e os processos de análise a adoptar para verificação do cumprimento do determinado neste artigo serão os constantes do Regulamento Interno da Comissão Técnica dos Métodos Químico-Analíticos, aprovado pela [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950.
 
-###### Art. 20.º No pão de mistura de farinha de trigo, centeio e milho, ou apenas de duas destas, nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.
+Art. 20.º No pão de mistura de farinha de trigo, centeio e milho, ou apenas de duas destas, nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.
 
-###### Art. 21.º Os produtos afins do pão só podem ser fabricados em formatos que se não confundam com os adoptados para o pão e a partir de massas sovadas e levedadas de tipo panar, com adição de leite, açúcar, gordura, ovos, frutas, arómatas naturais e outras substâncias legalmente autorizadas e em que a percentagem de açúcar, expressa em sacarose, não seja inferior a 3% nem superior a 22%.
+Art. 21.º Os produtos afins do pão só podem ser fabricados em formatos que se não confundam com os adoptados para o pão e a partir de massas sovadas e levedadas de tipo panar, com adição de leite, açúcar, gordura, ovos, frutas, arómatas naturais e outras substâncias legalmente autorizadas e em que a percentagem de açúcar, expressa em sacarose, não seja inferior a 3% nem superior a 22%.
 
-###### Art. 22.º - 1. No fabrico do pão e dos produtos afins, as substâncias autorizadas como aditivos, além da água, sal, fermento ou levedura, são as seguintes:
+Art. 22.º - 1. No fabrico do pão e dos produtos afins, as substâncias autorizadas como aditivos, além da água, sal, fermento ou levedura, são as seguintes:
 
 a) Farinha de glúten, com riqueza mínima de 60%;
 
@@ -276,7 +328,7 @@ l) Produtos constituídos por misturas de aditivos indicados nas alíneas a) a j
 
 2. É proibido o uso na indústria de panificação de levedantes químicos, branqueadores, conservantes e corantes, inclusive riboflavina ou lactoflavina.
 
-###### Art. 23.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por despacho conjunto:
+Art. 23.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por despacho conjunto:
 
 1) Proceder à classificação de produtos afins do pão, estabelecer ou modificar as respectivas características e regular o seu fabrico e venda;
 
@@ -284,19 +336,19 @@ l) Produtos constituídos por misturas de aditivos indicados nas alíneas a) a j
 
 Disposições gerais e transitórias
 
-###### Art. 24.º - 1. Nos preços de venda dos cereais e sementes adquiridos no território nacional ou importados pelo Instituto dos Cereais será incluída uma importância, a fixar pelo Secretário de Estado do Comércio e Indústrias Agrícolas, destinada à cobertura dos encargos de exploração e autofinanciamento daquele Instituto.
+Art. 24.º - 1. Nos preços de venda dos cereais e sementes adquiridos no território nacional ou importados pelo Instituto dos Cereais será incluída uma importância, a fixar pelo Secretário de Estado do Comércio e Indústrias Agrícolas, destinada à cobertura dos encargos de exploração e autofinanciamento daquele Instituto.
 
 2. Os cereais e sementes importados pelo Instituto dos Cereais beneficiam de isenção de direitos alfandegários.
 
-###### Art. 25.º Os diferenciais de preços, relativamente a sementes, cereais, farinhas e pão, que possam resultar da aplicação do presente diploma e legislação complementar constituirão encargo ou receita do Fundo de Abastecimento.
+Art. 25.º Os diferenciais de preços, relativamente a sementes, cereais, farinhas e pão, que possam resultar da aplicação do presente diploma e legislação complementar constituirão encargo ou receita do Fundo de Abastecimento.
 
-###### Art. 2.º Sempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo ou receita para o Fundo de Abastecimento, terá de ser obtido o visto prévio do Ministro das Finanças.
+Art. 2.º Sempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo ou receita para o Fundo de Abastecimento, terá de ser obtido o visto prévio do Ministro das Finanças.
 
-###### Art. 27.º - 1. As fábricas de farinhas espoadas de trigo e milho e as fábricas de alimentos compostos para animais liquidarão ao Instituto dos Cereais, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, a diferença entre os preços por que adquiriram os cereais em seu poder à data da entrada em vigor do presente diploma e os novos preços fixados no despacho a publicar ao abrigo do disposto no n.º 2 do artigo 1.º deste decreto-lei.
+Art. 27.º - 1. As fábricas de farinhas espoadas de trigo e milho e as fábricas de alimentos compostos para animais liquidarão ao Instituto dos Cereais, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, a diferença entre os preços por que adquiriram os cereais em seu poder à data da entrada em vigor do presente diploma e os novos preços fixados no despacho a publicar ao abrigo do disposto no n.º 2 do artigo 1.º deste decreto-lei.
 
 2. As fábricas de farinhas espoadas de trigo liquidarão ao Instituto dos Cereais, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, o diferencial entre os actuais preços de venda das farinhas espoadas de trigo de 1.ª e 2.ª qualidades e os novos preços fixados no artigo 7.º deste decreto-lei.
 
-###### Art. 28.º - 1. As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis às infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.
+Art. 28.º - 1. As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis às infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.
 
 2. A compra e venda de trigo, cevada vulgar e aveia com violação das disposições legais aplicáveis sujeita os seus intervenientes a prisão de três dias a dois anos e multa correspondente ao valor do cereal objecto da infracção.
 
@@ -310,15 +362,15 @@ Disposições gerais e transitórias
 
 7. A utilização no fabrico do pão e nos produtos afins de substâncias não autorizadas constitui crime de falsificação punível nos termos da legislação aplicável.
 
-###### Art. 29.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a decidir, consoante a matéria da sua competência, por despacho e para um período máximo de noventa dias, a contar da data da publicação do presente diploma, sobre os ajustamentos a que seja necessário proceder em virtude da transição para o regime criado por este decreto-lei.
+Art. 29.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a decidir, consoante a matéria da sua competência, por despacho e para um período máximo de noventa dias, a contar da data da publicação do presente diploma, sobre os ajustamentos a que seja necessário proceder em virtude da transição para o regime criado por este decreto-lei.
 
-###### Art. 30.º Fica o Secretário de Estado do Comércio e Indústrias Agrícolas autorizado a fixar em despacho o início e o termo de cada ano cerealífero.
+Art. 30.º Fica o Secretário de Estado do Comércio e Indústrias Agrícolas autorizado a fixar em despacho o início e o termo de cada ano cerealífero.
 
-###### Art. 31.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por portaria, proceder à revisão dos preços de venda dos cereais e dos regimes de farinhas e pão nos arquipélagos dos Açores e da Madeira, ouvidos os respectivos Governos Regionais.
+Art. 31.º Ficam os Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno autorizados a, por portaria, proceder à revisão dos preços de venda dos cereais e dos regimes de farinhas e pão nos arquipélagos dos Açores e da Madeira, ouvidos os respectivos Governos Regionais.
 
-###### Art. 32.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, consoante as matérias em causa.
+Art. 32.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, consoante as matérias em causa.
 
-###### Art. 33.º Ficam revogados:
+Art. 33.º Ficam revogados:
 
 a) O [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224), de 19 de Agosto;
 
@@ -332,12 +384,12 @@ e) O despacho relativo ao subsídio a conceder às moagens de ramas, publicado n
 
 f) O despacho de 19 de Agosto de 1974, relativo à importância a cobrar pelo Instituto dos Cereais correspondente aos serviços prestados pela importação de produtos.
 
-###### Art. 34.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 34.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

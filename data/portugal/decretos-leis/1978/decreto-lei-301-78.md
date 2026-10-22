@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1978-328601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ad506b9a97326dadcbbbafe28b9bf02943cffe0a3ac6e728ea1de63fb1622fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34125c55d704915db409194b0959821d8ae05af14391a6a8dd41766a1a0d2d6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Social
+- Centro de Apoio Social
+- Centro Social
+- Criação de Serviços
+- Gestão Orçamental
+- Lisboa
+- Orgânica
+- Regime de Instalação
+- Secretaria de Estado da Segurança Social
+- Serviço Distrital de Acolhimento de Lisboa
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "INTEGRADO O CENTRO DE APOIO SOCIAL NO CENTRO REGIONAL DE SEGURANÇA SOCIAL DE LISBOA, PELO DECRETO LEI 6/85, PUBLICADO\
+    \ NO DR.IS, DE 780107. ALTERADO PELO DECRETO LEI 181/80, PUBLICADO NO DR.IS, 128, DE 800603.\0DE 800603.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:622288:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622288:por
+  label: Integrado o Centro de Apoio Social, criado pelo presente diploma, no Centro Regional de Segurança Social de Lisboa,
+    criado pelo DR 3/81, de 15-jan, pelo(a) Decreto-Lei n.º 6/85 - Diário da República n.º 5/1985, Série I de 1985-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1985-622288
+  date: '1985-01-07'
+- type: cites
+  target: pt:dre:428013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:53Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +133,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, na dependência da Secretaria de Estado da Segurança Social, o Centro de Apoio Social de Lisboa, destinado à protecção à terceira idade, dotado de personalidade jurídica e autonomia administrativa.
+Artigo 1.º É criado, na dependência da Secretaria de Estado da Segurança Social, o Centro de Apoio Social de Lisboa, destinado à protecção à terceira idade, dotado de personalidade jurídica e autonomia administrativa.
 
-###### Art. 2.º São integrados no Centro de Apoio Social de Lisboa os estabelecimentos que constituíam o extinto Albergue Distrital de Mendicidade de Lisboa.
+Art. 2.º São integrados no Centro de Apoio Social de Lisboa os estabelecimentos que constituíam o extinto Albergue Distrital de Mendicidade de Lisboa.
 
-###### Art. 3.º Constituem receitas do Centro de Apoio Social de Lisboa:
+Art. 3.º Constituem receitas do Centro de Apoio Social de Lisboa:
 
 a) As provenientes da venda de bens ou serviços;
 
@@ -120,11 +149,11 @@ d) As doações ou subsídios;
 
 e) Quaisquer outras legalmente autorizadas.
 
-###### Art. 4.º Ao Centro de Apoio Social de Lisboa aplicar-se-á, até 31 de Janeiro de 1979, o regime de instalação, sendo gerido por uma comissão instaladora, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 4.º Ao Centro de Apoio Social de Lisboa aplicar-se-á, até 31 de Janeiro de 1979, o regime de instalação, sendo gerido por uma comissão instaladora, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 5.º É simultaneamente criado, na dependência da Secretaria de Estado da Segurança Social, o Serviço Distrital de Acolhimento de Lisboa, igualmente dotado de personalidade jurídica e autonomia administrativa, que tem como atribuições proporcionar o acolhimento dos utentes e fazer a sua triagem e encaminhamento para as soluções adequadas.
+Art. 5.º É simultaneamente criado, na dependência da Secretaria de Estado da Segurança Social, o Serviço Distrital de Acolhimento de Lisboa, igualmente dotado de personalidade jurídica e autonomia administrativa, que tem como atribuições proporcionar o acolhimento dos utentes e fazer a sua triagem e encaminhamento para as soluções adequadas.
 
-###### Art. 6.º Constituem receitas do Serviço Distrital de Acolhimento de Lisboa:
+Art. 6.º Constituem receitas do Serviço Distrital de Acolhimento de Lisboa:
 
 a) As dotações inscritas no Orçamento Geral do Estado;
 
@@ -132,26 +161,26 @@ b) As doações ou subsídios;
 
 c) Quaisquer outras receitas que por disposições especiais lhe sejam atribuídas ou venham a ser autorizadas.
 
-###### Art. 7.º Ao Serviço Distrital de Acolhimento de Lisboa será aplicado o regime de instalação nos termos previstos no artigo 4.º
+Art. 7.º Ao Serviço Distrital de Acolhimento de Lisboa será aplicado o regime de instalação nos termos previstos no artigo 4.º
 
-###### Art. 8.º Sem prejuízo do seu objectivo, o Centro de Apoio Social de Lisboa cederá, transitoriamente, parte das suas instalações para funcionamento do Serviço Distrital de Acolhimento de Lisboa, bem como da necessária estrutura polivalente de retaguarda que lhe servirá de apoio.
+Art. 8.º Sem prejuízo do seu objectivo, o Centro de Apoio Social de Lisboa cederá, transitoriamente, parte das suas instalações para funcionamento do Serviço Distrital de Acolhimento de Lisboa, bem como da necessária estrutura polivalente de retaguarda que lhe servirá de apoio.
 
-###### Art. 9.º O funcionamento do Serviço Distrital de Acolhimento de Lisboa e do Centro de Apoio Social de Lisboa será regulamentado por portarias do Secretário de Estado da Segurança Social.
+Art. 9.º O funcionamento do Serviço Distrital de Acolhimento de Lisboa e do Centro de Apoio Social de Lisboa será regulamentado por portarias do Secretário de Estado da Segurança Social.
 
-###### Art. 10.º - 1 - O pessoal privativo do extinto Albergue Distrital de Mendicidade de Lisboa transitará, sem perda de quaisquer direitos ou regalias, para os organismos ora criados.
+Art. 10.º - 1 - O pessoal privativo do extinto Albergue Distrital de Mendicidade de Lisboa transitará, sem perda de quaisquer direitos ou regalias, para os organismos ora criados.
 
 2 - A integração do pessoal em cada um destes organismos far-se-á, sem prejuízo das habilitações legais exigidas, por portaria do Secretário de Estado da Segurança Social, mediante os mapas respectivos a elaborar de acordo com as funções desempenhadas por esse mesmo pessoal e as necessidades de cada sector.
 
 3 - Quando as necessidades de pessoal nos respectivos períodos de instalação não puderem ser satisfeitas pelo pessoal referido no n.º 1 deste artigo, será recrutado, sempre que possível, pessoal dos serviços ou instituições dependentes da Secretaria de Estado da Segurança Social.
 
-###### Art. 11.º São revogados os artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 365/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1976-428013), de 15 de Maio.
+Art. 11.º São revogados os artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 365/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1976-428013), de 15 de Maio.
 
-###### Art. 12.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais ou com a intervenção dos Ministros da Reforma Administrativa ou das Finanças e do Plano, através de despacho conjunto, quando envolvam matérias das suas competências.
+Art. 12.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais ou com a intervenção dos Ministros da Reforma Administrativa ou das Finanças e do Plano, através de despacho conjunto, quando envolvam matérias das suas competências.
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 1978. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - António Duarte Arnaut.
 
-**Promulgado em 18 de Setembro de 1978.**
+Promulgado em 18 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

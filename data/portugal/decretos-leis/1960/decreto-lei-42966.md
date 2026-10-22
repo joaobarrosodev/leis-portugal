@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42966-1960-505422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75b14b4124fcbffab0f1f5632774c4dbed10910058232d1351c915e3a85c9c13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0a814f4c5a616ad02b4699e0782e900f075832406fc43ccf3a4555dc1638111
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo Sanitário
+- Direcção Geral dos Serviços Pecuários
+- Doença Animal
+- Exploração Pecuária
+- Medicina Veterinária
+- Saúde Animal
+- Vacinação
+relationships:
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:15Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +133,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os proprietários ou possuidores de animais abrangidos por quaisquer medidas de defesa sanitária que sejam impostas pela Direcção-Geral dos Serviços Pecuários, ao abrigo do artigo 5.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, e artigos 8.º e 12.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, ficam obrigadas à execução das providências necessárias para a observância das mesmas medidas.
+Artigo 1.º Os proprietários ou possuidores de animais abrangidos por quaisquer medidas de defesa sanitária que sejam impostas pela Direcção-Geral dos Serviços Pecuários, ao abrigo do artigo 5.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, e artigos 8.º e 12.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, ficam obrigadas à execução das providências necessárias para a observância das mesmas medidas.
 
 § 1.º Em caso de recusa, poderão aquelas providências ser executadas pela referida Direcção-Geral, ficando os donos ou possuidores dos animais obrigados ao pagamento das respectivas despesas.
 
@@ -126,23 +141,23 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Para os efeitos do que dispõe o parágrafo anterior, a participação da Direcção-Geral poderá consistir na cedência gratuita ou a preços reduzidos dos produtos, impressos ou meios de identificação a utilizar.
 
-###### Art. 2.º Quando a obrigatoriedade da aplicação das providências, constantes do n.º 6.º do artigo 5.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502) for determinada sob a forma de campanhas orientadas ou executadas por aquela Direcção-Geral, as importâncias correspondentes ao encargo a suportar pelos particulares serão as fixadas pelo Secretário de Estado da Agricultura, nos termos do artigo anterior, com o acordo do Ministro das Finanças.
+Art. 2.º Quando a obrigatoriedade da aplicação das providências, constantes do n.º 6.º do artigo 5.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502) for determinada sob a forma de campanhas orientadas ou executadas por aquela Direcção-Geral, as importâncias correspondentes ao encargo a suportar pelos particulares serão as fixadas pelo Secretário de Estado da Agricultura, nos termos do artigo anterior, com o acordo do Ministro das Finanças.
 
 § único. O Secretário de Estado da Agricultura fixará também, com o acordo do Ministro das Finanças, as importâncias a pagar aos médicos veterinários estranhos aos quadros da Direcção-Geral dos Serviços Pecuários que forem encarregados da execução das providências de defesa sanitária referidas neste artigo.
 
-###### Art. 3.º Quando for determinada a vacinação obrigatória contra qualquer doença infecto-contagiosa poderá ser permitido aos proprietários ou possuidores dos animais fazê-la executar por médico veterinário à sua escolha, devendo neste caso ser apresentado o respectivo atestado ou boletim de vacinação à entidade encarregada oficialmente da execução desta providência de defesa sanitária.
+Art. 3.º Quando for determinada a vacinação obrigatória contra qualquer doença infecto-contagiosa poderá ser permitido aos proprietários ou possuidores dos animais fazê-la executar por médico veterinário à sua escolha, devendo neste caso ser apresentado o respectivo atestado ou boletim de vacinação à entidade encarregada oficialmente da execução desta providência de defesa sanitária.
 
-###### Art. 4.º Os médicos veterinários que, no exercício da sua actividade clínica, efectuarem vacinações comunicarão, mensalmente, às intendências de pecuária das áreas onde estas forem executadas, até ao dia 5 do mês seguinte, as espécies e número de animais vacinados, os tipos de vacina utilizada, a localização dos rebanhos e os elementos nosográficos relacionados com estas intervenções, em conformidade com os modelos emitidos pela Direcção-Geral.
+Art. 4.º Os médicos veterinários que, no exercício da sua actividade clínica, efectuarem vacinações comunicarão, mensalmente, às intendências de pecuária das áreas onde estas forem executadas, até ao dia 5 do mês seguinte, as espécies e número de animais vacinados, os tipos de vacina utilizada, a localização dos rebanhos e os elementos nosográficos relacionados com estas intervenções, em conformidade com os modelos emitidos pela Direcção-Geral.
 
-###### Art. 5.º As receitas arrecadadas pela Direcção-Geral dos Serviços Pecuários por força da execução deste diploma darão entrada nos cofres do Estado, sob a rubrica «Consignações de receita - Fundos especiais para fomento - Serviços pecuários - Diversas receitas», para serem aplicadas nos serviços de que as mesmas provenham.
+Art. 5.º As receitas arrecadadas pela Direcção-Geral dos Serviços Pecuários por força da execução deste diploma darão entrada nos cofres do Estado, sob a rubrica «Consignações de receita - Fundos especiais para fomento - Serviços pecuários - Diversas receitas», para serem aplicadas nos serviços de que as mesmas provenham.
 
-###### Art. 6.º Só há lugar a indemnização nos termos do artigo 8.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502) quando as providências a que o mesmo se refere forem executadas pela Direcção-Geral dos Serviços Pecuários e de acordo com as normas técnicas que a mesma Direcção-Geral estabelecer.
+Art. 6.º Só há lugar a indemnização nos termos do artigo 8.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502) quando as providências a que o mesmo se refere forem executadas pela Direcção-Geral dos Serviços Pecuários e de acordo com as normas técnicas que a mesma Direcção-Geral estabelecer.
 
-###### Art. 7.º Fica o Secretário de Estado da Agricultura autorizado a instituir o registo nosográfico obrigatório dos efectivos pecuários.
+Art. 7.º Fica o Secretário de Estado da Agricultura autorizado a instituir o registo nosográfico obrigatório dos efectivos pecuários.
 
 § único. Os donos ou possuidores de gado deverão manter aqueles registos actualizados, nos termos das instruções da Direcção-Geral, em impressos pela mesma emitidos, e apresentá-los às autoridades de sanidade veterinária sempre que isso lhes seja solicitado.
 
-###### Art. 8.º Considera-se infracção sanitária:
+Art. 8.º Considera-se infracção sanitária:
 
 a) A inobservância das instruções gerais de defesa sanitária, ou ainda das relativas à venda e aplicação de produtos biológicos virulentos e de alérgenos, que, depois de aprovadas pelo Secretário de Estado da Agricultura, tenham sido publicadas no Diário do Governo ou directamente notificadas pela Direcção-Geral dos Serviços Pecuários;
 
@@ -152,14 +167,14 @@ c) A vacinação dos animais que não seja executada por médico veterinário ou
 
 § único. Os médicos veterinários são solidários na responsabilidade consignada neste artigo pelas infracções que, por sua indicação ou consentimento, cometerem os que actuarem sob a sua orientação.
 
-###### Art. 9.º As infracções ao presente diploma serão punidas pela Direcção-Geral dos Serviços Pecuários com as penas previstas no artigo 14.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953.
+Art. 9.º As infracções ao presente diploma serão punidas pela Direcção-Geral dos Serviços Pecuários com as penas previstas no artigo 14.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953.
 
 § 1.º A cobrança coerciva das despesas e das multas referidas neste diploma será efectuada pelo processo das execuções fiscais, servindo de título exequível o certificado de dívida passado pela Direcção-Geral dos Serviços Pecuários.
 
 § 2.º Os agentes que levantarem os autos nos termos deste diploma e do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502) participarão em 25 por cento da importância das multas.
 
-###### Art. 10.º Fica o Secretário de Estado da Agricultura autorizado a publicar os regulamentos necessários para a execução deste diploma.
+Art. 10.º Fica o Secretário de Estado da Agricultura autorizado a publicar os regulamentos necessários para a execução deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça.

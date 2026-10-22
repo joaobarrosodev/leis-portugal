@@ -48,36 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48731-1968-262809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74e90583fac439ea0eed6dad18882247b4519457128c68a1c5d5d33ab4d0b37c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f09834388c157ea7787b4ec9b9000ab210d034be7c613c984b04bfcf5d503651
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Portugal
+- Contrato
+- Definição de Competências
+- Instituição de Crédito
+- Instituição Financeira
+- Ministro das Finanças
+- Serviço de Centralização de Riscos do Crédito
+relationships:
+- type: cites
+  target: pt:dre:236711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:34Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +119,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 1.º e o artigo 7.º do [Decreto-Lei n.º 47909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47909-1967-390267), de 7 de Setembro de 1967, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 1.º e o artigo 7.º do [Decreto-Lei n.º 47909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47909-1967-390267), de 7 de Setembro de 1967, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1. ...
 
@@ -106,17 +129,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 7.º O Ministro das Finanças, ouvido o Banco de Portugal, poderá, por portaria, estender o regime estabelecido neste decreto-lei aos riscos da concessão e aplicação de crédito de natureza diferente da referida no artigo 1.º
+Art. 7.º O Ministro das Finanças, ouvido o Banco de Portugal, poderá, por portaria, estender o regime estabelecido neste decreto-lei aos riscos da concessão e aplicação de crédito de natureza diferente da referida no artigo 1.º
 
-###### Art. 2.º É autorizado o Ministro das Finanças a realizar, em representação do Estado, com o Banco de Portugal um contrato nos termos das bases anexas a este diploma e que dele são parte integrante.
+Art. 2.º É autorizado o Ministro das Finanças a realizar, em representação do Estado, com o Banco de Portugal um contrato nos termos das bases anexas a este diploma e que dele são parte integrante.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado pelo Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 21 de Novembro de 1968.**
+Promulgado em 21 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -156,6 +179,6 @@ BASE V
 
 BASE VI
 
-**O Ministro das Finanças, ouvido o Banco de Portugal, poderá estender o regime estabelecido neste contrato aos riscos da concessão e aplicação de crédito de natureza diferente da referida na base I.**
+O Ministro das Finanças, ouvido o Banco de Portugal, poderá estender o regime estabelecido neste contrato aos riscos da concessão e aplicação de crédito de natureza diferente da referida na base I.
 
 Ministério das Finanças, 21 de Novembro de 1968. - O Ministro das Finanças, João Augusto Dias Rosas.

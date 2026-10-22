@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22700/15251525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/559-1975-312197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d64533df8dcdf41350565ddd33621bbc71ad8601a92dbeaa08d4696bcd9b28c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 768810e9be8077c483bf6dcc67b4367c9bc62873a8d1b3fdb0cd165203456b99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- CABO Verde.Colónia Portuguesa
+- Direcção Geral da Aeronáutica Civil
+- Extinção de Serviços
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- ILHA do SAL
+- Integração de Trabalhadores
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:27Z'
   warnings: []
   errors: []
 ---
@@ -96,33 +111,33 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Consideram-se extintos, a partir de 5 de Julho de 1975, os serviços do Centro de Contrôle Regional da Navegação Aérea de Cabo Verde e do Aeroporto do Sal.
+Artigo 1.º Consideram-se extintos, a partir de 5 de Julho de 1975, os serviços do Centro de Contrôle Regional da Navegação Aérea de Cabo Verde e do Aeroporto do Sal.
 
-###### Art. 2.º - 1. O pessoal pertencente ao Centro de Contrôle Regional da Navegação Aérea de Cabo Verde, qualquer que seja a sua forma de provimento, passará, a partir da data referida no artigo anterior, a fazer parte do Centro de Contrôle Regional da Navegação Aérea do Continente.
+Art. 2.º - 1. O pessoal pertencente ao Centro de Contrôle Regional da Navegação Aérea de Cabo Verde, qualquer que seja a sua forma de provimento, passará, a partir da data referida no artigo anterior, a fazer parte do Centro de Contrôle Regional da Navegação Aérea do Continente.
 
 2. As verbas para pagamento de vencimentos e salários inscritas no orçamento do corrente ano económico do Ministério do Equipamento Social e do Ambiente - Secretaria de Estado dos Transportes e Comunicações - destinadas ao pessoal do Centro de Contrôle Regional da Navegação Aérea de Cabo Verde passam a ser atribuídas ao Centro de Contrôle Regional da Navegação Aérea do Continente.
 
-###### Art. 3.º - 1. Os lugares do quadro de pessoal aprovado por lei do Aeroporto do Sal serão distribuídos pelos idênticos quadros dos outros aeroportos e serviços centrais, segundo o mapa anexo a este diploma.
+Art. 3.º - 1. Os lugares do quadro de pessoal aprovado por lei do Aeroporto do Sal serão distribuídos pelos idênticos quadros dos outros aeroportos e serviços centrais, segundo o mapa anexo a este diploma.
 
 2. Os encargos resultantes das alterações previstas no número anterior serão satisfeitos com a dotação orçamental de vencimentos do pessoal do quadro atribuído ao Aeroporto do Sal, considerando-se o orçamento do Ministério do Equipamento Social e do Ambiente - Secretaria de Estado dos Transportes e Comunicações - para o corrente ano económico alterado de harmonia com a respectiva distribuição.
 
-###### Art. 4.º - 1. O pessoal contratado não pertencente ao quadro e o pessoal assalariado consideram-se transferidos para os Serviços Centrais da Direcção-Geral da Aeronáutica Civil, até posterior distribuição.
+Art. 4.º - 1. O pessoal contratado não pertencente ao quadro e o pessoal assalariado consideram-se transferidos para os Serviços Centrais da Direcção-Geral da Aeronáutica Civil, até posterior distribuição.
 
 2. As verbas orçamentais consignadas ao pagamento dos vencimentos e salários referidos no número anterior consideram-se também transferidas para reforço do orçamento da Direcção-Geral da Aeronáutica Civil.
 
-###### Art. 5.º A transferência do pessoal a que se refere o presente diploma far-se-á sem dependência de quaisquer formalidades, salvo anotação do Tribunal de Contas.
+Art. 5.º A transferência do pessoal a que se refere o presente diploma far-se-á sem dependência de quaisquer formalidades, salvo anotação do Tribunal de Contas.
 
-###### Art. 6.º Os encargos resultantes da deslocação do pessoal dos serviços agora extintos são suportados pelo remanescente das restantes verbas inscritas no orçamento do Aeroporto do Sal, que para o efeito são transferidas para o orçamento da Direcção-Geral da Aeronáutica Civil e a inscrever sob a rubrica «Encargos com a extinção do Centro de Contrôle Regional de Cabo Verde e do Aeroporto do Sal».
+Art. 6.º Os encargos resultantes da deslocação do pessoal dos serviços agora extintos são suportados pelo remanescente das restantes verbas inscritas no orçamento do Aeroporto do Sal, que para o efeito são transferidas para o orçamento da Direcção-Geral da Aeronáutica Civil e a inscrever sob a rubrica «Encargos com a extinção do Centro de Contrôle Regional de Cabo Verde e do Aeroporto do Sal».
 
-###### Art. 7.º Este diploma produz efeitos a partir de 5 de Julho de 1975.
+Art. 7.º Este diploma produz efeitos a partir de 5 de Julho de 1975.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - Henrique Manuel Araújo de Oliveira Sá.
 
-**Promulgado em 17 de Setembro de 1975.**
+Promulgado em 17 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA ANEXO
 
@@ -214,4 +229,4 @@ Serviços Centrais
 
 1 escriturário-dactilógrafo.
 
-**O Ministro dos Transportes e Comunicações, Henrique Manuel Araújo de Oliveira Sá.**
+O Ministro dos Transportes e Comunicações, Henrique Manuel Araújo de Oliveira Sá.

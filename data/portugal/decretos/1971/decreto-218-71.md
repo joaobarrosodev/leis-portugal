@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/05/12100/07860787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/218-1971-643908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26bc2b5a656b3f7fb7f8b39510411a50c957eabf8d83c198871276206be6c56a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6228caaf7437aaded31533c63c8df16b2d8cc222ff75a659b2291d4e94891192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Equipamento Eléctrico
+- Fiscalização
+- Instalações Radioelétricas
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:485058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:686805:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485058:por
+  label: "Revogado pelo DEC LEI.190/98.1998.07.10.MEPAT, DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1998-485058
+  date: '1998-07-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:35Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +110,13 @@ Considerando ainda a necessidade de alterar algumas outras disposições do mesm
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º de Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No artigo 46.º do Regulamento do Serviço Radioeléctrico das Embarcações, aprovado pelo [Decreto n.º 45267](https://diariodarepublica.pt/dr/detalhe/decreto/45267-1963-686805), de 24 de Setembro de 1963, é incluído um parágrafo, com a seguinte redacção:
+Artigo 1.º No artigo 46.º do Regulamento do Serviço Radioeléctrico das Embarcações, aprovado pelo [Decreto n.º 45267](https://diariodarepublica.pt/dr/detalhe/decreto/45267-1963-686805), de 24 de Setembro de 1963, é incluído um parágrafo, com a seguinte redacção:
 
 § único. As embarcações deverão comparecer nos locais indicados pelo armador, na data e hora prèviamente acordadas, prontas para a execução dos trabalhos.
 
-###### Art. 2.º O corpo do artigo 58.º do mesmo Regulamento passa a ter a seguinte redacção:
+Art. 2.º O corpo do artigo 58.º do mesmo Regulamento passa a ter a seguinte redacção:
 
-###### Art. 58.º As verbas a cobrar pelas inspecções, calibrações e verificações de calibração, exames e outros serviços consignados no Regulamento são as seguintes:
+Art. 58.º As verbas a cobrar pelas inspecções, calibrações e verificações de calibração, exames e outros serviços consignados no Regulamento são as seguintes:
 
 a) Pela inspecção a uma instalação radiotelegráfica:
 
@@ -176,7 +190,7 @@ o) Pelo exame de operador geral de radiotelefonia ... 250$00
 
 p) Pelo exame para concessão de certificado especial de radiotelegrafista ... 250$00
 
-###### Art. 3.º O § único do artigo 58.º do citado Regulamento passa a ter a redacção seguinte:
+Art. 3.º O § único do artigo 58.º do citado Regulamento passa a ter a redacção seguinte:
 
 § único. Os serviços consignados neste artigo serão efectuados dentro das horas normais de expediente. Quando, porém, a pedido dos interessados, forem, no todo ou em parte, efectuados fora dessas horas, com a necessária autorização da Direcção, serão observadas as seguintes disposições:
 
@@ -184,18 +198,18 @@ a) Se tiverem lugar a partir das 20 horas ou antes das 8, aos sábados, da parte
 
 b) Se esses serviços forem feitos fora das horas de expediente não previstas na alínea anterior, o acréscimo será de 100 por cento.
 
-###### Art. 4.º A alínea e) do artigo 62.º do mesmo Regulamento passa a ter a seguinte redacção:
+Art. 4.º A alínea e) do artigo 62.º do mesmo Regulamento passa a ter a seguinte redacção:
 
 e) Por cada fracção de meia hora de atraso no início dos trabalhos devido ao não cumprimento do preceituado no § único do artigo 46.º ... 250$00
 
-###### Art. 5.º Ao artigo referido no artigo anterior é acrescentada uma nova alínea, com a redacção seguinte:
+Art. 5.º Ao artigo referido no artigo anterior é acrescentada uma nova alínea, com a redacção seguinte:
 
 f) Por outras infracções não especificadas ... 500$00 a 5000$00
 
 Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 12 de Maio de 1971.**
+Promulgado em 12 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

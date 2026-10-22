@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1972-689842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: add259f2aa3147d4fd43fda8ac748ce1a18f8b69a7bb5f9cf9677d414fce5c91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc1e133c3220971afd82174c6d5ff576db9afd13de6b7ff7e53c8a92070b7d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conservatório Nacional
+- Diretor
+- Diuturnidades
+- Pessoal Docente
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:141786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141786:por
+  label: Feito aplicar ao pessoal do Conservatório Nacional a Tabela anexa ao presente diploma pelo(a) Decreto n.º 16/77 -
+    Diário da República n.º 41/1977, Série I de 1977-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/16-1977-141786
+  date: '1977-02-18'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:14Z'
   warnings: []
   errors: []
 ---
@@ -102,24 +126,24 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As categorias e os vencimentos dos professores do Conservatório Nacional são os constantes da tabela anexa ao presente diploma.
+Artigo 1.º As categorias e os vencimentos dos professores do Conservatório Nacional são os constantes da tabela anexa ao presente diploma.
 
-###### Art. 2.º - 1. Os professores da 1.ª e 2.ª categorias terão direito a uma diuturnidade decorridos quinze anos sobre o início das suas funções nestas categorias.
+Art. 2.º - 1. Os professores da 1.ª e 2.ª categorias terão direito a uma diuturnidade decorridos quinze anos sobre o início das suas funções nestas categorias.
 
 2. Fica revogado o anterior regime de diuturnidades.
 
-###### Art. 3.º Os encargos resultantes da promulgação do presente diploma serão, no corrente ano, satisfeitos pelas disponibilidades das dotações orçamentais para pessoal.
+Art. 3.º Os encargos resultantes da promulgação do presente diploma serão, no corrente ano, satisfeitos pelas disponibilidades das dotações orçamentais para pessoal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 18 de Outubro de 1972.**
+Promulgado em 18 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Tabela a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/10/24800/15411541.pdf))](https://files.diariodarepublica.pt/1s/1972/10/24800/15411541.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/10/24800/15411541.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

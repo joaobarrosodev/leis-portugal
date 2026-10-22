@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49273-1969-214257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f6300e85105dad7a1c57592005e41c79f8e9fc1c3b7136b9240e5c62d045043
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a681362db19f76056442c66a9fba347068d901734551b01b47dbff940c401992
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Instituição de Crédito
+- Sociedade Financeira Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes dos nºs. 1 e 2 do art. 14º, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS\
+    \ [301]2ºSupl, a partir da entrada em vigor do referido diploma, sem prejuízo da manutenção dos benefícios já concedidos\
+    \ e dos regimes de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:02Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +138,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Governo promoverá a constituição de um estabelecimento especial de crédito, nos termos da alínea d) do artigo 2.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, com a denominação de Sociedade Financeira Portuguesa, S. A. R. L., destinado a desempenhar as funções previstas no presente diploma.
+Artigo 1.º - 1. O Governo promoverá a constituição de um estabelecimento especial de crédito, nos termos da alínea d) do artigo 2.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, com a denominação de Sociedade Financeira Portuguesa, S. A. R. L., destinado a desempenhar as funções previstas no presente diploma.
 
 2. A sociedade constituir-se-á sob a forma de sociedade anónima, com dispensa da observância do disposto no artigo 162.º do Código Comercial e com isenção de todos os impostos, incluindo o do selo, nos actos e documentos necessários à sua constituição.
 
-###### Art. 2.º A Sociedade Financeira Portuguesa reger-se-á pelo presente decreto-lei e pelos respectivos estatutos, cujo texto, assinado pelos Ministros das Finanças e do Ultramar, se junta em anexo ao presente decreto-lei e dele faz parte integrante.
+Art. 2.º A Sociedade Financeira Portuguesa reger-se-á pelo presente decreto-lei e pelos respectivos estatutos, cujo texto, assinado pelos Ministros das Finanças e do Ultramar, se junta em anexo ao presente decreto-lei e dele faz parte integrante.
 
-###### Art. 3.º - 1. A sociedade tem por objecto o estudo, a promoção e a prática de quaisquer operações financeiras e de investimento, nomeadamente daquelas que envolvam relações com o estrangeiro e das referentes a títulos ou outros valores ou participações.
+Art. 3.º - 1. A sociedade tem por objecto o estudo, a promoção e a prática de quaisquer operações financeiras e de investimento, nomeadamente daquelas que envolvam relações com o estrangeiro e das referentes a títulos ou outros valores ou participações.
 
 2. Compreende-se designadamente neste objecto:
 
@@ -138,7 +168,7 @@ i) A prática de outras operações de carácter económico e financeiro, cujas 
 
 3. É vedada à sociedade a aquisição de imóveis com fins permanentes, com excepção dos necessários para instalação própria.
 
-###### Art. 4.º - 1. O capital inicial da sociedade será de 1 milhão de contos, a subscrever pelo Estado, províncias ultramarinas, Caixa Geral de Depósitos, Crédito e Previdência, Banco de Fomento Nacional e outras instituições de crédito.
+Art. 4.º - 1. O capital inicial da sociedade será de 1 milhão de contos, a subscrever pelo Estado, províncias ultramarinas, Caixa Geral de Depósitos, Crédito e Previdência, Banco de Fomento Nacional e outras instituições de crédito.
 
 2. Para efeitos de aquisição de acções da sociedade pelas instituições de crédito, esta é equiparada aos bancos de investimento a que se refere o § 2.º do artigo 2.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
@@ -146,47 +176,47 @@ i) A prática de outras operações de carácter económico e financeiro, cujas 
 
 4. Parte do capital da sociedade poderá ser representado por acções de mera participação, realizadas a dinheiro, com direito a juros certos e determinados e podendo ainda beneficiar, a título de dividendo, da atribuição de uma parcela dos lucros. Estas acções destinar-se-ão a ser subscritas por Misericórdias, fundações, instituições de previdência social e outras instituições públicas, bem como por pequenas poupanças particulares.
 
-###### Art. 5.º - 1. Ficam desde já autorizados o Estado, as províncias ultramarinas, os institutos públicos e os organismos corporativos ou de coordenação económica a transmitir para a sociedade, as acções e obrigações, nacionais ou estrangeiras, de que sejam titulares, para, nos termos dos estatutos anexos, realizarem as suas participações no capital social.
+Art. 5.º - 1. Ficam desde já autorizados o Estado, as províncias ultramarinas, os institutos públicos e os organismos corporativos ou de coordenação económica a transmitir para a sociedade, as acções e obrigações, nacionais ou estrangeiras, de que sejam titulares, para, nos termos dos estatutos anexos, realizarem as suas participações no capital social.
 
 2. Fica igualmente autorizada a transmissão, por qualquer outro título oneroso, daquelas acções ou obrigações ou a sua entrega à sociedade para a respectiva gestão.
 
 3. À transmissão de acções e obrigações prevista no n.º 1 não se aplicará o disposto no § 2.º do artigo 118.º do Código Comercial, sendo ainda dispensada a indicação exigida pelo artigo 114.º, § 2.º, n.º 1, daquele Código quanto ao modo de calcular o valor daquelas acções ou obrigações.
 
-###### Art. 6.º A participação do Estado e das províncias ultramarinas na administração das sociedades cujas acções hajam sido transmitidas para a Sociedade Financeira Portuguesa nos termos do artigo 5.º deste decreto-lei manter-se-á nos termos regulados pelo [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, quando aquela participação não resulte da mera titularidade de acções.
+Art. 6.º A participação do Estado e das províncias ultramarinas na administração das sociedades cujas acções hajam sido transmitidas para a Sociedade Financeira Portuguesa nos termos do artigo 5.º deste decreto-lei manter-se-á nos termos regulados pelo [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, quando aquela participação não resulte da mera titularidade de acções.
 
-###### Art. 7.º As acções, obrigações e outros títulos de dívida emitidos pela sociedade consideram-se, para os efeitos da base XVIII da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, equiparados aos títulos mencionados na alínea a) do seu n.º 1.
+Art. 7.º As acções, obrigações e outros títulos de dívida emitidos pela sociedade consideram-se, para os efeitos da base XVIII da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, equiparados aos títulos mencionados na alínea a) do seu n.º 1.
 
-###### Art. 8.º - 1. O Estado e as províncias ultramarinas, bem como quaisquer institutos públicos ou organismos corporativos ou de coordenação económica, poderão conceder à sociedade o auxílio financeiro de que ela careça, quer sob a forma de empréstimo ou subsídio, quer por meio de garantias a créditos que a sociedade obtenha junto de terceiros, quer ainda pela atribuição à sociedade de quaisquer outros rendimentos ou recursos.
+Art. 8.º - 1. O Estado e as províncias ultramarinas, bem como quaisquer institutos públicos ou organismos corporativos ou de coordenação económica, poderão conceder à sociedade o auxílio financeiro de que ela careça, quer sob a forma de empréstimo ou subsídio, quer por meio de garantias a créditos que a sociedade obtenha junto de terceiros, quer ainda pela atribuição à sociedade de quaisquer outros rendimentos ou recursos.
 
 2. A sociedade será, para todas as suas operações, considerada como susceptível de beneficiar de crédito, qualquer que seja a sua natureza e duração, incluindo toda e qualquer espécie de regime de crédito a médio ou a longo prazo.
 
-###### Art. 9.º - 1. Nas assembleias gerais de sociedades em que intervenha como accionista, como representante de um fundo de investimentos ou como gestora de uma carteira de acções, a sociedade terá tantos votos quantos os correspondentes às acções que por qualquer dos referidos títulos detenha.
+Art. 9.º - 1. Nas assembleias gerais de sociedades em que intervenha como accionista, como representante de um fundo de investimentos ou como gestora de uma carteira de acções, a sociedade terá tantos votos quantos os correspondentes às acções que por qualquer dos referidos títulos detenha.
 
 2. A participação, a qualquer título, da sociedade no capital de outras empresas poderá ficar condicionada ao direito de designar administradores ou membros do conselho fiscal.
 
-###### Art. 10.º - 1. Os membros dos corpos gerentes da sociedade poderão ser nomeados ou eleitos de entre quaisquer pessoas de reconhecida idoneidade e competência, mesmo que não sejam accionistas, com ressalva das obrigações de caucionamento de cargo previstas nos estatutos anexos.
+Art. 10.º - 1. Os membros dos corpos gerentes da sociedade poderão ser nomeados ou eleitos de entre quaisquer pessoas de reconhecida idoneidade e competência, mesmo que não sejam accionistas, com ressalva das obrigações de caucionamento de cargo previstas nos estatutos anexos.
 
 2. Nas sociedades a que se refere o n.º 3 do artigo 9.º deste decreto-lei aplicar-se-á também o disposto no número anterior deste artigo aos membros dos respectivos corpos gerentes que forem designados pela sociedade.
 
-###### Art. 11.º Os presidentes da assembleia geral e dos conselhos de administração e fiscal da sociedade serão nomeados pelo Conselho de Ministros para os Assuntos Económicos, pelo período de cinco anos, renovável.
+Art. 11.º Os presidentes da assembleia geral e dos conselhos de administração e fiscal da sociedade serão nomeados pelo Conselho de Ministros para os Assuntos Económicos, pelo período de cinco anos, renovável.
 
-###### Art. 12.º - 1. Os rendimentos, capitais e outros fundos que a sociedade tenha direito a receber, provindos das províncias ultramarinas, terão prioridades nas respectivas transferências, sempre que as mesmas se encontrem sujeitas a condicionamento.
+Art. 12.º - 1. Os rendimentos, capitais e outros fundos que a sociedade tenha direito a receber, provindos das províncias ultramarinas, terão prioridades nas respectivas transferências, sempre que as mesmas se encontrem sujeitas a condicionamento.
 
 2. O disposto no número anterior poderá ser regulamentado por despacho conjunto dos Ministros das Finanças e do Ultramar.
 
-###### Art. 13.º - 1. A movimentação dos fundos e valores necessários às operações sociais poderá ser feita directamente pela própria sociedade, quer no País, quer no estrangeiro.
+Art. 13.º - 1. A movimentação dos fundos e valores necessários às operações sociais poderá ser feita directamente pela própria sociedade, quer no País, quer no estrangeiro.
 
 2. A sociedade poderá, designadamente, ter abertas em seu nome, em instituições de crédito no estrangeiro, contas de disponibilidades à ordem ou a prazo, expressas em moeda estrangeira, as quais só poderão ser movimentadas a débito para a realização de operações compreendidas no objecto social ou por cedência directa ao Banco de Portugal ou aos fundos cambiais das províncias ultramarinas, conforme o caso.
 
 3. O disposto nos números anteriores poderá ser objecto de regulamentação, ou limitação, por despacho do Ministro das Finanças.
 
-###### Art. 14.º - 1. Os rendimentos dos títulos averbados ou registados em nome da sociedade são isentos, tanto na metrópole como nas províncias ultramarinas, de todos e quaisquer impostos.
+Art. 14.º - 1. Os rendimentos dos títulos averbados ou registados em nome da sociedade são isentos, tanto na metrópole como nas províncias ultramarinas, de todos e quaisquer impostos.
 
 2. Os juros das obrigações emitidas pela sociedade são isentos de imposto de capitais e de imposto complementar.
 
-###### Art. 15.º Competirá aos Ministros das Finanças e do Ultramar, por despacho conjunto, fixar as condições de funcionamento da sociedade na parte em que nos estatutos se exige, para o efeito, a intervenção ou o acordo do Governo e em tudo o que aquelas condições de funcionamento necessitem de ser regulamentadas.
+Art. 15.º Competirá aos Ministros das Finanças e do Ultramar, por despacho conjunto, fixar as condições de funcionamento da sociedade na parte em que nos estatutos se exige, para o efeito, a intervenção ou o acordo do Governo e em tudo o que aquelas condições de funcionamento necessitem de ser regulamentadas.
 
-###### Art. 16.º - 1. Não serão aplicáveis à sociedade as seguintes disposições legais:
+Art. 16.º - 1. Não serão aplicáveis à sociedade as seguintes disposições legais:
 
 a) Artigos 120.º, § 3.º, e 196.º do Código Comercial;
 
@@ -196,23 +226,23 @@ c) Artigos 19.º, n.º 2.º, 22.º, 25.º e 26.º do [Decreto-Lei n.º 42641](ht
 
 2. A constituição e gestão, pela sociedade, de fundos de investimento obedecerão ao disposto nos Decretos-Leis n.os 46302, de 27 de Abril de 1965, e 46342, de 20 de Maio de 1965, com as modificações que resultem da natureza específica da sociedade, a estabelecer nas respectivas portarias de autorização.
 
-###### Art. 17.º O volume máximo de obrigações que a sociedade poderá ter em circulação será fixado com base numa relação com o capital social, a definir por despacho do Ministro das Finanças.
+Art. 17.º O volume máximo de obrigações que a sociedade poderá ter em circulação será fixado com base numa relação com o capital social, a definir por despacho do Ministro das Finanças.
 
-###### Art. 18.º - 1. As alterações aos estatutos da sociedade serão aprovadas por portaria conjunta dos Ministros das Finanças e do Ultramar.
+Art. 18.º - 1. As alterações aos estatutos da sociedade serão aprovadas por portaria conjunta dos Ministros das Finanças e do Ultramar.
 
 2. No prazo de três anos, a contar da constituição da sociedade, esta procederá à revisão dos estatutos anexos, no sentido que for aconselhado pela experiência da sua aplicação.
 
-###### Art. 19.º Ficam autorizados o Ministro das Finanças, em representação do Estado, e o Ministro do Ultramar, em representação das províncias ultramarinas, a intervir na celebração dos contratos indispensáveis à constituição da sociedade e a tomar as providências necessárias à realização das respectivas participações no capital da sociedade.
+Art. 19.º Ficam autorizados o Ministro das Finanças, em representação do Estado, e o Ministro do Ultramar, em representação das províncias ultramarinas, a intervir na celebração dos contratos indispensáveis à constituição da sociedade e a tomar as providências necessárias à realização das respectivas participações no capital da sociedade.
 
-###### Art. 20.º A sociedade poderá corresponder-se directamente com quaisquer serviços do Estado e entidades públicas, solicitando-lhes os elementos de informação necessários ao desempenho das suas atribuições.
+Art. 20.º A sociedade poderá corresponder-se directamente com quaisquer serviços do Estado e entidades públicas, solicitando-lhes os elementos de informação necessários ao desempenho das suas atribuições.
 
-###### Art. 21.º As dúvidas que surjam sobre a interpretação e aplicação do presente decreto-lei ou dos estatutos anexos, bem como quaisquer questões relativas ao regime legal do funcionamento da sociedade, serão resolvidas por despacho conjunto dos Ministros das Finanças e do Ultramar.
+Art. 21.º As dúvidas que surjam sobre a interpretação e aplicação do presente decreto-lei ou dos estatutos anexos, bem como quaisquer questões relativas ao regime legal do funcionamento da sociedade, serão resolvidas por despacho conjunto dos Ministros das Finanças e do Ultramar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Setembro de 1969.**
+Promulgado em 24 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -224,15 +254,15 @@ Estatutos da Sociedade Financeira Portuguesa, S. A. R. L.
 
 ### CAPÍTULO I — Denominação, sede, duração, objecto
 
-###### Artigo 1.º Nos termos da lei, designadamente do Decreto-Lei n.º 49273, de 27 de Setembro de 1969, e dos presentes estatutos, é constituída uma sociedade anónima de responsabilidade limitada sob a denominação de Sociedade Financeira Portuguesa, S. A. R. L.
+Artigo 1.º Nos termos da lei, designadamente do Decreto-Lei n.º 49273, de 27 de Setembro de 1969, e dos presentes estatutos, é constituída uma sociedade anónima de responsabilidade limitada sob a denominação de Sociedade Financeira Portuguesa, S. A. R. L.
 
-###### Art. 2.º - 1. A sociedade é constituída por tempo indeterminado e tem a sua sede em Lisboa.
+Art. 2.º - 1. A sociedade é constituída por tempo indeterminado e tem a sua sede em Lisboa.
 
 2. Por deliberação do conselho de administração, poderão estabelecer-se em qualquer local, no País ou no estrangeiro, as filiais, agências ou outras sucursais que forem necessárias ao exercício das suas funções.
 
 3. Sem prejuízo do disposto no número anterior, a sociedade poderá contratar com os institutos de crédito do Estado e com os bancos emissores a sua representação através das filiais, agências ou outras sucursais daqueles institutos ou bancos, bem como a utilização dos respectivos serviços.
 
-###### Art. 3.º - 1. A sociedade tem por objecto o estudo, a promoção e a prática de quaisquer operações financeiras e de investimento, nomeadamente daquelas que envolvam relações com o estrangeiro e das referentes a títulos ou outros valores ou participações.
+Art. 3.º - 1. A sociedade tem por objecto o estudo, a promoção e a prática de quaisquer operações financeiras e de investimento, nomeadamente daquelas que envolvam relações com o estrangeiro e das referentes a títulos ou outros valores ou participações.
 
 2. Compreende-se, designadamente, neste objecto:
 
@@ -258,13 +288,13 @@ i) A prática de outras operações de carácter económico e financeiro, cujas 
 
 ### CAPÍTULO II — Capital social e outros recursos
 
-###### Art. 4.º - 1. O capital social é de 1 milhão de contos, dividido em 1 milhão de acções com o valor nominal de 1000$00 cada uma, encontra-se integralmente subscrito e está realizado com numerário em 30 por cento.
+Art. 4.º - 1. O capital social é de 1 milhão de contos, dividido em 1 milhão de acções com o valor nominal de 1000$00 cada uma, encontra-se integralmente subscrito e está realizado com numerário em 30 por cento.
 
 2. As condições de realização dos restantes 70 por cento do capital serão fixadas por deliberação do conselho geral.
 
 3. Quando a realização do capital for efectuada, mediante a transferência de acções e obrigações para a sociedade, a fixação do respectivo valor será feita por acordo com base nos critérios correntes de avaliação dos referidos títulos, atendendo-se a todos os elementos que permitam apurar o valor real e, designadamente, ao valor do rendimento emergente do dividendo médio dos últimos seis anos, ao do juro e ao valor da bolsa, em face da cotação média dos últimos doze meses.
 
-###### Art. 5.º - 1. O conselho geral poderá deliberar o aumento do capital social, por uma ou mais vezes, até ao montante máximo de 2 milhões de contos.
+Art. 5.º - 1. O conselho geral poderá deliberar o aumento do capital social, por uma ou mais vezes, até ao montante máximo de 2 milhões de contos.
 
 2. Na subscrição de novas acções têm preferência os titulares de acções anteriores na proporção das que possuírem, excepto deliberação em contrário da assembleia geral.
 
@@ -276,9 +306,9 @@ i) A prática de outras operações de carácter económico e financeiro, cujas 
 
 6. Enquanto o capital social inicial, ou qualquer dos aumentos que forem deliberados, não se encontrar integralmente realizado, poderá o conselho geral, em vez de exigir a realização do restante valor subscrito, solicitar dos accionistas, na proporção da respectiva participação no capital social, a assunção de obrigações para com terceiros em benefício da sociedade. Exceptuam-se deste regime as acções de mera participação e as reservadas aos empregados.
 
-###### Art. 6.º As acções serão sempre nominativas e serão representadas por títulos de 1, 5, 10, 50 e 100 acções, podendo as averbadas em nome de pessoas de direito público ser representadas por um ou mais certificados.
+Art. 6.º As acções serão sempre nominativas e serão representadas por títulos de 1, 5, 10, 50 e 100 acções, podendo as averbadas em nome de pessoas de direito público ser representadas por um ou mais certificados.
 
-###### Art. 7.º - 1. A sociedade poderá adquirir acções próprias e realizar sobre elas as operações que se mostrem convenientes aos interesses sociais.
+Art. 7.º - 1. A sociedade poderá adquirir acções próprias e realizar sobre elas as operações que se mostrem convenientes aos interesses sociais.
 
 2. A carteira de acções próprias que a sociedade adquira deve, designadamente, assegurar o direito que se reconhece aos membros dos corpos gerentes de comprarem essas acções até ao limite de 5 por cento do capital social, pertencendo, dessa percentagem, 3 por cento ao conselho de administração, a dividir pro rata entre os seus membros.
 
@@ -288,9 +318,9 @@ i) A prática de outras operações de carácter económico e financeiro, cujas 
 
 5. As acções referidas nos n.os 2 e 3 deste artigo serão endossadas em branco, no momento da compra, pelos membros dos corpos gerentes que as adquirirem e deverão permanecer em depósito nos cofres sociais.
 
-###### Art. 8.º Por deliberação do conselho geral poderá a sociedade adquirir obrigações e títulos de dívida próprios e realizar sobre eles as operações convenientes aos interesses sociais.
+Art. 8.º Por deliberação do conselho geral poderá a sociedade adquirir obrigações e títulos de dívida próprios e realizar sobre eles as operações convenientes aos interesses sociais.
 
-###### Art. 9.º - 1. A sociedade poderá realizar, quer no País, quer no estrangeiro, todas as operações adequadas à obtenção dos fundos de que necessitar, para além dos seus capitais próprios, podendo, designadamente, emitir obrigações ou outros títulos de dívida, contrair empréstimos por qualquer título com entidades públicas ou instituições financeiras ou de crédito nacionais, estrangeiras ou internacionais, realizar para o efeito quaisquer operações sobre títulos que detenha em carteira e receber todos os rendimentos ou recursos que legalmente lhe sejam atribuídos.
+Art. 9.º - 1. A sociedade poderá realizar, quer no País, quer no estrangeiro, todas as operações adequadas à obtenção dos fundos de que necessitar, para além dos seus capitais próprios, podendo, designadamente, emitir obrigações ou outros títulos de dívida, contrair empréstimos por qualquer título com entidades públicas ou instituições financeiras ou de crédito nacionais, estrangeiras ou internacionais, realizar para o efeito quaisquer operações sobre títulos que detenha em carteira e receber todos os rendimentos ou recursos que legalmente lhe sejam atribuídos.
 
 2. As obrigações emitidas pela sociedade poderão ser colocadas em qualquer mercado nacional ou estrangeiro e ser expressas nas várias moedas com curso legal nos territórios a que se destinem.
 
@@ -302,7 +332,7 @@ i) A prática de outras operações de carácter económico e financeiro, cujas 
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 10.º - 1. A assembleia geral é constituída pela universalidade dos accionistas.
+Art. 10.º - 1. A assembleia geral é constituída pela universalidade dos accionistas.
 
 2. As acções de mera participação não conferem aos respectivos titulares o direito de participar na assembleia geral.
 
@@ -310,7 +340,7 @@ i) A prática de outras operações de carácter económico e financeiro, cujas 
 
 4. Os membros do conselho de administração e do conselho fiscal podem sempre assistir às assembleias gerais e discutir os assuntos nelas tratados, ainda que não entrem na sua constituição.
 
-###### Art. 11.º Compete à assembleia geral:
+Art. 11.º Compete à assembleia geral:
 
 a) Eleger a mesa da assembleia geral e os membros do conselho de administração, do conselho fiscal e da comissão referida no artigo 24.º, n.º 1, destes estatutos, com excepção dos presidentes da referida mesa e dos conselhos de administração e fiscal;
 
@@ -320,15 +350,15 @@ c) Deliberar sobre quaisquer alterações dos estatutos, para serem submetidas �
 
 d) Tratar de qualquer outro assunto para que seja convocada.
 
-###### Art. 12.º - 1. A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que terá dois secretários, eleitos trienalmente.
+Art. 12.º - 1. A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que terá dois secretários, eleitos trienalmente.
 
 2. O presidente da assembleia geral será nomeado pelo Governo pelo período de cinco anos, renovável.
 
 3. A assembleia elegerá, para as faltas ou impedimentos do presidente e dos secretários, um vice-presidente e dois vice-secretários.
 
-###### Art. 13.º A assembleia reunirá ordinàriamente uma vez por ano e extraordinàriamente sempre que o conselho geral o julgar necessário ou sempre que seja requerida por accionistas que representem, pelo menos, 20 por cento do capital social.
+Art. 13.º A assembleia reunirá ordinàriamente uma vez por ano e extraordinàriamente sempre que o conselho geral o julgar necessário ou sempre que seja requerida por accionistas que representem, pelo menos, 20 por cento do capital social.
 
-###### Art. 14.º - 1. A cada grupo de 100 acções corresponde um voto.
+Art. 14.º - 1. A cada grupo de 100 acções corresponde um voto.
 
 2. Os accionistas possuidores de um número de acções inferior ao estabelecido no número anterior poderão agrupar-se de forma a completarem o número exigido, fazendo-se representar por um dos agrupados.
 
@@ -336,13 +366,13 @@ d) Tratar de qualquer outro assunto para que seja convocada.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 15.º - 1. A sociedade será administrada por um conselho de administração, com um máximo de cinco membros.
+Art. 15.º - 1. A sociedade será administrada por um conselho de administração, com um máximo de cinco membros.
 
 2. O presidente do conselho de administração será nomeado pelo Governo e exerce o cargo pelo período de cinco anos, renovável.
 
 3. Os restantes administradores serão trienalmente eleitos pela assembleia geral, devendo a eleição de um deles ser feita sem intervenção dos votos pertencentes ao Estado ou a qualquer pessoa portuguesa de direito público, desde que a participação privada no capital social exceda 15 por cento desse capital.
 
-###### Art. 16.º Ao conselho de administração compete dirigir a actividade social com todas as atribuições legais e especialmente:
+Art. 16.º Ao conselho de administração compete dirigir a actividade social com todas as atribuições legais e especialmente:
 
 a) Estabelecer a organização técnico-administrativa da sociedade e as normas sobre o pessoal e sua remuneração;
 
@@ -356,9 +386,9 @@ e) Constituir mandatários com os poderes que julgue convenientes;
 
 f) Preencher até à próxima reunião da assembleia geral as vagas que ocorram entre os administradores eleitos.
 
-###### Art. 17.º A sociedade ficará obrigada pela assinatura do presidente do conselho de administração ou de, pelo menos, dois dos restantes administradores.
+Art. 17.º A sociedade ficará obrigada pela assinatura do presidente do conselho de administração ou de, pelo menos, dois dos restantes administradores.
 
-###### Art. 18.º - 1. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente, mesmo no estrangeiro ou em local diverso da sede social, sempre que o interesse da sociedade o exija.
+Art. 18.º - 1. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente, mesmo no estrangeiro ou em local diverso da sede social, sempre que o interesse da sociedade o exija.
 
 2. O conselho só poderá deliberar vàlidamente com a presença da maioria dos seus membros.
 
@@ -368,19 +398,19 @@ f) Preencher até à próxima reunião da assembleia geral as vagas que ocorram 
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 19.º - 1. A fiscalização dos negócios da sociedade, com todas as atribuições legais, é conferida ao conselho fiscal, composto de um presidente e dois membros.
+Art. 19.º - 1. A fiscalização dos negócios da sociedade, com todas as atribuições legais, é conferida ao conselho fiscal, composto de um presidente e dois membros.
 
 2. O presidente será nomeado pelo Governo, pelo período de cinco anos, renovável, e os vogais serão eleitos trienalmente pela assembleia geral, devendo a eleição de um deles ser feita sem intervenção do Estado ou de qualquer pessoa portuguesa de direito público, desde que a participação privada no capital exceda 15 por cento desse capital.
 
-###### Art. 20.º O conselho fiscal poderá preencher, até à próxima reunião da assembleia geral, as vagas que se verifiquem entre os seus membros eleitos.
+Art. 20.º O conselho fiscal poderá preencher, até à próxima reunião da assembleia geral, as vagas que se verifiquem entre os seus membros eleitos.
 
-###### Art. 21.º - 1. O conselho fiscal reunirá obrigatòriamente uma vez por mês e extraordinàriamente sempre que for convocado pelo respectivo presidente.
+Art. 21.º - 1. O conselho fiscal reunirá obrigatòriamente uma vez por mês e extraordinàriamente sempre que for convocado pelo respectivo presidente.
 
 2. Os membros do conselho fiscal, sempre que o julguem conveniente, poderão assistir, sem direito de voto, às reuniões do conselho de administração.
 
 #### SECÇÃO IV — Conselho geral
 
-###### Art. 22.º - 1. A sociedade terá um conselho geral, composto por todos os membros do conselho de administração e do conselho fiscal e presidido pelo presidente do conselho de administração.
+Art. 22.º - 1. A sociedade terá um conselho geral, composto por todos os membros do conselho de administração e do conselho fiscal e presidido pelo presidente do conselho de administração.
 
 2. O conselho geral reunir-se-á pelo menos uma vez por mês, onde o seu presidente designar, sendo necessária a presença da maioria absoluta dos seus membros.
 
@@ -398,13 +428,13 @@ d) Dar parecer, mediante proposta do conselho de administração, sobre as alter
 
 #### SECÇÃO V — Disposições comuns
 
-###### Art. 23.º - 1. Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal a eleger pela assembleia podem ser reeleitos.
+Art. 23.º - 1. Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal a eleger pela assembleia podem ser reeleitos.
 
 2. Os membros do conselho de administração e os do conselho fiscal caucionarão prèviamente o exercício dos seus cargos mediante o depósito na sede da sociedade de 100 acções, para os primeiros, e de 50, para os segundos, devidamente averbadas a seu favor e com o endosso em branco, ou do correspondente valor em numerário.
 
 3. A caução referida no número anterior poderá ser prestada por terceiro, entendendo-se, neste caso, que deixará de produzir efeitos logo que, quem a houver prestado, o comunicar por escrito à sociedade, com a antecedência de quinze dias, comunicação essa que implicará a caducidade automática do mandato, sem prejuízo do disposto no artigo 190.º do Código Comercial.
 
-###### Art. 24.º - 1. Os membros do conselho de administração e fiscal terão a remuneração que lhes for fixada por uma comissão de vencimentos de três accionistas, eleitos trienalmente pela assembleia geral ordinária.
+Art. 24.º - 1. Os membros do conselho de administração e fiscal terão a remuneração que lhes for fixada por uma comissão de vencimentos de três accionistas, eleitos trienalmente pela assembleia geral ordinária.
 
 2. Além das remunerações fixadas nos termos do número anterior aos membros dos corpos gerentes e aos empregados da sociedade, poderá ser atribuída pela assembleia geral uma participação nos lucros líquidos apurados em cada exercício, que não será superior a:
 
@@ -418,11 +448,11 @@ d) Dar parecer, mediante proposta do conselho de administração, sobre as alter
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 25.º - 1. O ano social é o civil, procedendo-se ao fecho de contas e balanço com referência a 31 de Dezembro.
+Art. 25.º - 1. O ano social é o civil, procedendo-se ao fecho de contas e balanço com referência a 31 de Dezembro.
 
 2. O primeiro exercício social findará, porém, em 31 de Dezembro de 1970.
 
-###### Art. 26.º Os lucros líquidos apurados, depois de constituídas as reservas e as provisões tècnicamente aconselháveis, terão a seguinte aplicação:
+Art. 26.º Os lucros líquidos apurados, depois de constituídas as reservas e as provisões tècnicamente aconselháveis, terão a seguinte aplicação:
 
 a) A percentagem de 10 por cento para o fundo de reserva legal, até que atinja montante igual ao do capital social;
 
@@ -432,6 +462,6 @@ c) Até 7 por cento para distribuição nos termos do artigo 24.º, n.º 2;
 
 d) O remanescente, para dividendos ou para qualquer outra aplicação que seja votada pela assembleia geral.
 
-###### Art. 27.º A assembleia geral reunir-se-á imediatamente a seguir à constituição da sociedade, com dispensa dos requisitos fixados no artigo 181.º do Código Comercial, para eleger os membros electivos da sua mesa e dos conselhos de administração e fiscal, bem como a comissão de vencimentos, e ainda para deliberar sobre quaisquer assuntos de interesse da sociedade.
+Art. 27.º A assembleia geral reunir-se-á imediatamente a seguir à constituição da sociedade, com dispensa dos requisitos fixados no artigo 181.º do Código Comercial, para eleger os membros electivos da sua mesa e dos conselhos de administração e fiscal, bem como a comissão de vencimentos, e ainda para deliberar sobre quaisquer assuntos de interesse da sociedade.
 
 João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.

@@ -47,40 +47,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 406ca27a36bf781fa10d4d8135c100a15e2e92ab7e2e6409f9758d6b8fad93a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aaab8fe2ccf05e71f1ea6a62a5f31e659496f9d66654fd1118890e2b54312f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Activo Imobilizado Corpóreo
+- Contribuições e Impostos
+- Empresa Privada
+- Imposto de Mais-Valias
+- Mais-Valias
+- Saneamento Económico e Financeiro
+- Viabilidade Económica
 relationships:
 - type: amended_by
   target: pt:dre:287401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240847:por
+  label: Aditado o n.º 2 ao art. 1.º pelo(a) Decreto-Lei n.º 353-B/77 - Diário da República n.º 199/1977, 2º Suplemento, Série
+    I de 1977-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-b-1977-240847
+  date: '1977-08-29'
+- type: amended_by
+  target: pt:dre:294729:por
+  label: Prorrogado até 31.12.1978 o prazo estabelecido nos n.ºs 1 e 2 do art. 1.º pelo DEC LEI.126/78.03.06.1978.MFP, DR.IS
+    [127] de 03.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-1978-294729
+  date: '1978-06-03'
+- type: amended_by
+  target: pt:dre:329833:por
+  label: "Alterados o nº 3 do art. 5º e o nº 2 do art. 6º, bem como as regras 1, 2, 3 e 7 anexas, e aditados os arts. 6º-A\
+    \ e 6º-B pelo DEC LEI.280/78.08.09.1978.MFP, DR.IS [207] de 08.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1978-329833
+  date: '1978-09-08'
+- type: amended_by
+  target: pt:dre:393207:por
+  label: "Prorrogado o prazo estabelecido nos n.ºs 1 e 2 do artigo 1.º pelo DEC LEI.20/79.12.02.1979.MFP, DR.IS [36] de 12.02.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1979-393207
+  date: '1979-02-12'
+- type: amended_by
+  target: pt:dre:382999:por
+  label: "Alterado o n.º 3 do anexo ao presente diploma, na redacção do Dec Lei 280/78 de 8-Set, pelo DEC LEI.66/79.30.03.1979.MFP,\
+    \ DR.IS [75] de 30.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1979-382999
+  date: '1979-03-30'
+- type: amended_by
+  target: pt:dre:157018:por
+  label: "Prorrogado até 31.12.1980 o prazo estabelecido nos nºs 1 e 2 do art. 1º pelo DEC LEI.519-M2/79.29.12.1979.MF, DR.IS\
+    \ [299-13.º Sup] de 29.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-m2-1979-157018
+  date: '1979-12-29'
+- type: amended_by
+  target: pt:dre:459659:por
+  label: "Prorrogado até 31.12.1981 o prazo estabelecido nos n.ºs 1 e 2 do art. 1.º para as empresas referidas nesse artigo\
+    \ ou que venham a ser assistidas pela Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L.,\
+    \ requererem a reavaliação dos bens do seu activo imobilizado corpóreo, pelo DEC LEI.569/80.11.12.1980.MFP, DR.IS [285]\
+    \ de 11.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/569-1980-459659
+  date: '1980-12-11'
+- type: amended_by
+  target: pt:dre:661139:por
+  label: "Prorrogado até 31 de Dezembro de 1984 o prazo estabelecido nos nºs 1 e 2 do art 1º pelo DEC LEI.72/84.1984.03.01.MFP\
+    \ DR.IS [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-1984-661139
+  date: '1984-03-01'
+- type: amended_by
+  target: pt:dre:183020:por
+  label: "Prorrogado até 31 de Dezembro de 1985 o prazo estabelecido nos nºs. 1 e 2 do artigo 1º pelo DEC LEI.230/85.04.07.1985.MFP,\
+    \ DR.IS [151] de 04.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1985-183020
+  date: '1985-07-04'
+- type: amended_by
+  target: pt:dre:287401:por
+  label: Prorrogado até 31.12.1988 o prazo estabelecido nos n.ºs 1 e 2 do art. 1.º pelo DEC LEI.79/88.09.03.1988.MF
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1988-287401
+  date: '1988-03-09'
+- type: cites
+  target: pt:dre:408715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680463:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:42Z'
   warnings: []
   errors: []
 ---
@@ -103,37 +183,37 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A reavaliação dos bens do activo imobilizado corpóreo de empresas privadas de demonstrada viabilidade económica e que sejam objecto de saneamento económico-financeiro, directamente acompanhado pelo Estado ou por entidade por este designada para o efeito, incluindo as empresas sob intervenção do Estado, será considerada para efeitos fiscais, nos termos do presente diploma, desde que tal reavaliação seja requerida no prazo de um ano a contar da data de publicação do presente diploma.
+Artigo 1.º A reavaliação dos bens do activo imobilizado corpóreo de empresas privadas de demonstrada viabilidade económica e que sejam objecto de saneamento económico-financeiro, directamente acompanhado pelo Estado ou por entidade por este designada para o efeito, incluindo as empresas sob intervenção do Estado, será considerada para efeitos fiscais, nos termos do presente diploma, desde que tal reavaliação seja requerida no prazo de um ano a contar da data de publicação do presente diploma.
 
-###### Art. 2.º - 1. As reavaliações a que se refere o presente diploma serão autorizadas, caso a caso, por despacho conjunto do Ministro do Plano e Coordenação Económica, do Ministro das Finanças e do Ministro que superintenda no sector da actividade a que a empresa pertença.
+Art. 2.º - 1. As reavaliações a que se refere o presente diploma serão autorizadas, caso a caso, por despacho conjunto do Ministro do Plano e Coordenação Económica, do Ministro das Finanças e do Ministro que superintenda no sector da actividade a que a empresa pertença.
 
 2. Poderá, pelo despacho referido no número anterior, autorizar-se que o cômputo dos valores dos elementos a reavaliar se efectue globalmente, por grupos ou categorias de elementos, quando, do ponto de vista das amortizações ou reintegrações, tenham sido tratados na contabilidade como um conjunto.
 
-###### Art. 3.º A reavaliação será requerida ao Ministro das Finanças, devendo o pedido ser acompanhado de uma relação dos bens a reavaliar, com indicação dos valores de aquisição ou construção e instalação, anos em que foram efectuadas, amortizações ou reintegrações acumuladas, valores de substituição e valores de reavaliação propostos.
+Art. 3.º A reavaliação será requerida ao Ministro das Finanças, devendo o pedido ser acompanhado de uma relação dos bens a reavaliar, com indicação dos valores de aquisição ou construção e instalação, anos em que foram efectuadas, amortizações ou reintegrações acumuladas, valores de substituição e valores de reavaliação propostos.
 
-###### Art. 4.º A reavaliação dos diferentes elementos do imobilizado corpóreo deve efectuar-se em conformidade com as regras anexas a este diploma.
+Art. 4.º A reavaliação dos diferentes elementos do imobilizado corpóreo deve efectuar-se em conformidade com as regras anexas a este diploma.
 
-###### Art. 5.º - 1. Na determinação do lucro tributável, nos termos do Código da Contribuição Industrial, das empresas que tenham procedido à reavaliação prevista no presente diploma, aceitar-se-ão, como custos do exercício, e tratando-se de bens ainda não totalmente amortizados, as amortizações calculadas com base no valor reavaliado, aplicando-se, no demais, as regras estabelecidas na [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, e outra legislação aplicável.
+Art. 5.º - 1. Na determinação do lucro tributável, nos termos do Código da Contribuição Industrial, das empresas que tenham procedido à reavaliação prevista no presente diploma, aceitar-se-ão, como custos do exercício, e tratando-se de bens ainda não totalmente amortizados, as amortizações calculadas com base no valor reavaliado, aplicando-se, no demais, as regras estabelecidas na [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, e outra legislação aplicável.
 
 2. Tratando-se de bens já totalmente amortizados à data da reavaliação, aceitar-se-ão como custos do exercício as amortizações calculadas de harmonia com a regra estabelecida no n.º 5 da [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, para os bens reavaliados nos termos da [Portaria n.º 20258](https://diariodarepublica.pt/dr/detalhe/portaria/20258-1963-680463), de 28 de Dezembro de 1963, e com observância, na parte aplicável, das demais regras estabelecidas na referida [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132).
 
 3. Os bens reavaliados figurarão em mapas autónomos, do modelo n.º 7, a que se refere a alínea c) do artigo 46.º do Código da Contribuição Industrial, com menção ao presente diploma, na parte superior, e, quanto aos bens que não estavam ainda totalmente amortizados, na coluna (3), do valor de reavaliação, e na coluna (9), do valor das amortizações actualizadas feitas nos exercícios anteriores.
 
-###### Art. 6.º - 1. Se as empresas venderem bens depois de reavaliados, deverão investir o preço da venda no prazo de um ano, a partir da alienação.
+Art. 6.º - 1. Se as empresas venderem bens depois de reavaliados, deverão investir o preço da venda no prazo de um ano, a partir da alienação.
 
 2. Na falta de reinvestimento, nos termos do número anterior, será a reavaliação considerada nula para efeito de determinação de matéria colectável, nos termos do Código do Imposto de Mais-Valias.
 
 3. No caso de só parte do preço ser reinvestido, aplica-se o disposto no número anterior, na proporção da parte não reinvestida para o total.
 
-###### Art. 7.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas através de despacho do director-geral das Contribuições e Impostos.
+Art. 7.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas através de despacho do director-geral das Contribuições e Impostos.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Regras para reavaliação do activo imobilizado
 
@@ -153,4 +233,4 @@ Se o critério usado para reavaliação de tais bens for o do valor de substitui
 
 7. A reavaliação só será considerada se se traduzir em aumento global do valor líquido dos bens reavaliados de, pelo menos, 10% e limitar-se-á, em princípio, quaisquer que sejam os critérios adoptados, ao valor global resultante da aplicação do critério da actualização monetária referido no n.º 3, a menos que, após exame solicitado à Direcção-Geral das Contribuições e Impostos, se decida manter valor excedente daquele limite, desde que calculado de acordo com os critérios definidos.
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.

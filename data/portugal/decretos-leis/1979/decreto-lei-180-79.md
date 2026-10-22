@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/13400/13171318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1979-383258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 149b7760c86d3e921576eff53556681b80e97e5d07484efcbcbc84299c63473d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0405456f4696b3183fefc6c28eb1b147d2492167504820171981c00f7c4cd93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educação Física
+- Ensino Preparatório
+- Estágio de Formação
+- Formação Profissional
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412192:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:25Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +141,27 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A formação pedagógica dos professores de Educação Física dos ensinos preparatório e secundário passa a ser assegurada pelos estágios pedagógicos previstos no [Decreto-Lei n.º 49119](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49119-1969-199428), de 14 de Julho de 1969, e nos Decretos n.os 49204 e 49205, ambos de 25 de Agosto de 1969.
+Artigo 1.º A formação pedagógica dos professores de Educação Física dos ensinos preparatório e secundário passa a ser assegurada pelos estágios pedagógicos previstos no [Decreto-Lei n.º 49119](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49119-1969-199428), de 14 de Julho de 1969, e nos Decretos n.os 49204 e 49205, ambos de 25 de Agosto de 1969.
 
-###### Art. 2.º - 1 - Podem concorrer aos estágios pedagógicos de Educação Física os titulares da licenciatura ou do bacharelato em Educação Física, criados pelos artigos 6.º e 7.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, ou de habilitação declarada equivalente.
+Art. 2.º - 1 - Podem concorrer aos estágios pedagógicos de Educação Física os titulares da licenciatura ou do bacharelato em Educação Física, criados pelos artigos 6.º e 7.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, ou de habilitação declarada equivalente.
 
 2 - O disposto no número anterior é igualmente aplicável aos equiparados a bacharéis em Educação Física, nos termos dos n.os 1 a 3 do artigo 21.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534).
 
-###### Art. 3.º - 1 - Aos estágios referidos no presente diploma aplica-se o disposto no [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril, e demais legislação em vigor sobre estágios pedagógicos.
+Art. 3.º - 1 - Aos estágios referidos no presente diploma aplica-se o disposto no [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril, e demais legislação em vigor sobre estágios pedagógicos.
 
 2 - É aplicável aos instrutores de Educação Física equiparados a bacharéis, nos termos dos n.os 1 a 3 do artigo 21.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), o estabelecido no n.º 3 da [Portaria n.º 219/77](https://diariodarepublica.pt/dr/detalhe/portaria/219-1977-139044), de 22 de Abril.
 
-###### Art. 4.º - 1 - A orientação dos estágios pedagógicos de Educação Física será realizada por professores profissionalizados da respectiva disciplina.
+Art. 4.º - 1 - A orientação dos estágios pedagógicos de Educação Física será realizada por professores profissionalizados da respectiva disciplina.
 
 2 - Aos orientadores referidos no número anterior é aplicável o disposto no artigo 5.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192).
 
-###### Art. 5.º - 1 - Os professores profissionalizados de Educação Física poderão concorrer a lugares de quadro no nível de ensino onde efectuaram o seu estágio pedagógico.
+Art. 5.º - 1 - Os professores profissionalizados de Educação Física poderão concorrer a lugares de quadro no nível de ensino onde efectuaram o seu estágio pedagógico.
 
 2 - Os professores dos quadros de Educação Física optarão definitivamente, nos concursos a realizar para o ano escolar de 1980-1981, por um dos ramos de ensino, secundário ou preparatório, considerando-se a não apresentação a concurso como opção pelo ramo de ensino a cujos quadros pertencem.
 
-###### Art. 6.º Os estagiários de Educação Física terão, enquanto tal, para todos os efeitos legais, o estatuto de professor provisório ou eventual, atribuindo-se-lhes por um período de doze meses o vencimento previsto na tabela anexa ao [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, para os professores provisórios ou eventuais portadores de habilitação própria de grau superior.
+Art. 6.º Os estagiários de Educação Física terão, enquanto tal, para todos os efeitos legais, o estatuto de professor provisório ou eventual, atribuindo-se-lhes por um período de doze meses o vencimento previsto na tabela anexa ao [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, para os professores provisórios ou eventuais portadores de habilitação própria de grau superior.
 
-###### Art. 7.º - 1 - Para exclusivos efeitos de colocação como professores provisórios ou eventuais dos ensinos preparatório e secundário, os docentes habilitados com o curso das ex-escolas de instrutores de Educação Física que não reúnam as condições previstas no n.º 1 do artigo 21.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534):
+Art. 7.º - 1 - Para exclusivos efeitos de colocação como professores provisórios ou eventuais dos ensinos preparatório e secundário, os docentes habilitados com o curso das ex-escolas de instrutores de Educação Física que não reúnam as condições previstas no n.º 1 do artigo 21.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534):
 
 a) São integrados na alínea e) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), de 7 de Fevereiro, se se encontrarem ao serviço no ano escolar imediatamente anterior ao que o concurso respeita, independentemente do vínculo que os ligue ao Ministério da Educação e Investigação Científica;
 
@@ -136,20 +179,20 @@ e) São integrados no n.º 5 do artigo 4.º do [Decreto-Lei n.º 15/79](https://
 
 4 - O disposto no presente artigo é aplicável ao concurso de professores provisórios ou eventuais dos ensinos preparatório e secundário para o ano escolar de 1980-1981 e por período a fixar em despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 8.º O disposto nos artigos 1.º a 6.º do presente diploma é já aplicável aos estágios pedagógicos de Educação Física a efectuar no ano escolar de 1979-1980 e o respectivo aviso de abertura de concurso deverá ser publicado no Diário da República no prazo de dez dias a contar da entrada em vigor do presente diploma.
+Art. 8.º O disposto nos artigos 1.º a 6.º do presente diploma é já aplicável aos estágios pedagógicos de Educação Física a efectuar no ano escolar de 1979-1980 e o respectivo aviso de abertura de concurso deverá ser publicado no Diário da República no prazo de dez dias a contar da entrada em vigor do presente diploma.
 
-###### Art. 9.º As despesas resultantes da execução do presente diploma serão suportadas por verbas já inscritas no orçamento do Ministério da Educação e Investigação Científica.
+Art. 9.º As despesas resultantes da execução do presente diploma serão suportadas por verbas já inscritas no orçamento do Ministério da Educação e Investigação Científica.
 
-###### Art. 10.º As dúvidas verificadas na execução do presente decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica, salvo se da resolução das mesmas resultar aumento de encargos orçamentais, caso em que o despacho será conjunto com o Ministro das Finanças e do Plano.
+Art. 10.º As dúvidas verificadas na execução do presente decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica, salvo se da resolução das mesmas resultar aumento de encargos orçamentais, caso em que o despacho será conjunto com o Ministro das Finanças e do Plano.
 
-###### Art. 11.º Serão revogadas as Portarias n.os [300/77](https://diariodarepublica.pt/dr/detalhe/portaria/300-1977-252807) e [684/77](https://diariodarepublica.pt/dr/detalhe/portaria/684-1977-280890), respectivamente de 25 de Maio e 10 de Novembro, a partir da data da publicação das classificações profissionais relativas ao estágio do ano escolar de 1978-1979 por elas regulado.
+Art. 11.º Serão revogadas as Portarias n.os [300/77](https://diariodarepublica.pt/dr/detalhe/portaria/300-1977-252807) e [684/77](https://diariodarepublica.pt/dr/detalhe/portaria/684-1977-280890), respectivamente de 25 de Maio e 10 de Novembro, a partir da data da publicação das classificações profissionais relativas ao estágio do ano escolar de 1978-1979 por elas regulado.
 
-###### Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 28 de Maio de 1979.**
+Promulgado em 28 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

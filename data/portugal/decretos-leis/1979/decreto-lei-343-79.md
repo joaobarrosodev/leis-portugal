@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1979-378553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ef114bbff4d98724803a6260cac2bae3e26da278981d835442b20fc2e89b725
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d32cd1b7f143111ce52f5fbbcf8f568cfae166d0e50060844d7faf6853b6ee4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Aposentações
+- Caixa Sindical de Previdência
+- Trabalhador
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:06Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +98,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São obrigatoriamente inscritos nas caixas sindicais de previdência todos os trabalhadores que, concorrendo com a sua actividade profissional para a satisfação de necessidades normais do Estado, institutos públicos, e autarquias locais, suas federações e uniões, zonas de turismo e demais pessoas colectivas de direito público, não reúnam as condições de inscrição na Caixa Geral de Aposentações.
+Artigo 1.º São obrigatoriamente inscritos nas caixas sindicais de previdência todos os trabalhadores que, concorrendo com a sua actividade profissional para a satisfação de necessidades normais do Estado, institutos públicos, e autarquias locais, suas federações e uniões, zonas de turismo e demais pessoas colectivas de direito público, não reúnam as condições de inscrição na Caixa Geral de Aposentações.
 
-###### Art. 2.º Os departamentos a que se reporta o artigo antecedente e os seus trabalhadores deverão contribuir para as referidas caixas nos termos do regime geral da previdência, o qual, a partir da entrada em vigor deste diploma, passa a aplicar-se-lhes.
+Art. 2.º Os departamentos a que se reporta o artigo antecedente e os seus trabalhadores deverão contribuir para as referidas caixas nos termos do regime geral da previdência, o qual, a partir da entrada em vigor deste diploma, passa a aplicar-se-lhes.
 
-###### Art. 3.º São competentes para a inscrição destes trabalhadores, nos diversos distritos, as respectivas caixas distritais e, em Lisboa e Porto, as respectivas caixas de previdência e abono de família dos serviços.
+Art. 3.º São competentes para a inscrição destes trabalhadores, nos diversos distritos, as respectivas caixas distritais e, em Lisboa e Porto, as respectivas caixas de previdência e abono de família dos serviços.
 
-###### Art. 4.º As dúvidas e os casos omissos serão resolvidos por despacho dos Ministros das Finanças e do Plano, da Administração Interna e dos Assuntos Sociais.
+Art. 4.º As dúvidas e os casos omissos serão resolvidos por despacho dos Ministros das Finanças e do Plano, da Administração Interna e dos Assuntos Sociais.
 
-###### Art. 5.º Este diploma entra em vigor no início do mês seguinte ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no início do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - Acácio Manuel Pereira Magro.
 
-**Promulgado em 9 de Agosto de 1979.**
+Promulgado em 9 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

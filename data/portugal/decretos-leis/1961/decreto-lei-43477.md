@@ -49,36 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43477-1961-557061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b72b4805b067cc55eff828e0c294bc3d6cdc0a254c76834bb002f1e87f8e2287
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32b61b102c44f2b4259b7614f1855acc32c0217a363d4eccec569446930c7af8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Instruções Preliminares das Pautas
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
+relationships:
+- type: cites
+  target: pt:dre:643881:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:561441:por
+  label: Rectificados aos arts. 4º e 7º (nas alterações que introduziram à pauta dos direitos de importação, aprovada pelo
+    Dec Lei 42656 de 18-Nov de 1959) pela DECL.DD12372.02.03.1961.PC, DG.IS [50] de 02.03.1961
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1961-561441
+  date: '1961-03-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:31Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +104,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São alteradas pela forma seguinte as redacções dos artigos 19.º (segundo período) e 65.º das instruções preliminares da pauta de importação:
+Artigo 1.º São alteradas pela forma seguinte as redacções dos artigos 19.º (segundo período) e 65.º das instruções preliminares da pauta de importação:
 
 ###### ARTIGO 19.º
 
@@ -111,9 +128,9 @@ Restantes mercadorias ... 30
 
 ###### ARTIGO 65.º
 
-**O Ministro das Finanças, mediante parecer favorável dos Ministérios da Economia e do Ultramar, poderá autorizar que o milho destinado à alimentação de animais, sem prejuízo da classificação que lhe competir de acordo com o texto da pauta, quando originário das províncias ultramarinas portuguesas e prèviamente desnaturado com azul de metilene, fique sujeito à taxa de $02(4) por quilograma.**
+O Ministro das Finanças, mediante parecer favorável dos Ministérios da Economia e do Ultramar, poderá autorizar que o milho destinado à alimentação de animais, sem prejuízo da classificação que lhe competir de acordo com o texto da pauta, quando originário das províncias ultramarinas portuguesas e prèviamente desnaturado com azul de metilene, fique sujeito à taxa de $02(4) por quilograma.
 
-###### Art. 2.º Passa a 21.º o n.º 19.º do artigo 72.º das instruções preliminares da pauta de importação e são aditados ao mesmo artigo os n.os 19.º e 20.º, com a seguinte redacção:
+Art. 2.º Passa a 21.º o n.º 19.º do artigo 72.º das instruções preliminares da pauta de importação e são aditados ao mesmo artigo os n.os 19.º e 20.º, com a seguinte redacção:
 
 ###### ARTIGO 72.º
 
@@ -125,9 +142,9 @@ Restantes mercadorias ... 30
 
 ...
 
-###### Art. 3.º Os actuais artigos da pauta de importação n.os 39.01.02, 39.01.04 a 39.01.19, 48.01.12, 48.04.01 a 48.04.03, 58.07.02 a 58.07.04, 59.17.07 a 59.17.17, 84.38.08 e 95.08.02 passam a ter os n.os 39.01.05, 39.01.09 a 39.01.24, 48.01.13, 48.04.02 a 48.04.04, 58.07.03 a 58.07.05, 59.17.08 a 59.17.18, 84.38.09 e 95.08.03.
+Art. 3.º Os actuais artigos da pauta de importação n.os 39.01.02, 39.01.04 a 39.01.19, 48.01.12, 48.04.01 a 48.04.03, 58.07.02 a 58.07.04, 59.17.07 a 59.17.17, 84.38.08 e 95.08.02 passam a ter os n.os 39.01.05, 39.01.09 a 39.01.24, 48.01.13, 48.04.02 a 48.04.04, 58.07.03 a 58.07.05, 59.17.08 a 59.17.18, 84.38.09 e 95.08.03.
 
-###### Art. 4.º São introduzidas no texto da pauta de importação as seguintes alterações:
+Art. 4.º São introduzidas no texto da pauta de importação as seguintes alterações:
 
 29.11.02 ...
 
@@ -349,7 +366,7 @@ Pauta máxima, ad valorem 12 por cento.
 
 Pauta mínima, ad valorem 6 por cento.
 
-###### Art. 5.º São substituídos deste modo os dizeres dos seguintes artigos e notas da pauta de importação:
+Art. 5.º São substituídos deste modo os dizeres dos seguintes artigos e notas da pauta de importação:
 
 39.01.11 Em chapas, folhas ou tiras, rígidas, pesando mais de 160 g por metro quadrado, com ou sem dizeres.
 
@@ -413,7 +430,7 @@ Nota. - Compreende apenas os artefactos importados pelos fabricantes de puados. 
 
 95.08.03 Obras não especificadas destas matérias.
 
-###### Art. 6.º São alteradas as taxas dos seguintes artigos da pauta de importação:
+Art. 6.º São alteradas as taxas dos seguintes artigos da pauta de importação:
 
 75.04 ...
 
@@ -451,17 +468,17 @@ Pauta máxima, livre
 
 Pauta mínima, livre.
 
-###### Art. 7.º Nas notas aos artigos 85.15.05, 85.18.01, 85.18.02, 85.18.03 e 85.19.13 da pauta de importação, substituir as palavras «de radiodifusão» por «de televisão e de radiodifusão».
+Art. 7.º Nas notas aos artigos 85.15.05, 85.18.01, 85.18.02, 85.18.03 e 85.19.13 da pauta de importação, substituir as palavras «de radiodifusão» por «de televisão e de radiodifusão».
 
-###### Art. 8.º É inserido na pauta de exportação o artigo 31-B, com a seguinte redacção:
+Art. 8.º É inserido na pauta de exportação o artigo 31-B, com a seguinte redacção:
 
-###### Artigo 31-B - Hematites ... Tonelada $00(6)
+Artigo 31-B - Hematites ... Tonelada $00(6)
 
-###### Art. 9.º É inserida no índice remissivo da pauta de exportação a seguinte rubrica e respectiva remissão:
+Art. 9.º É inserida no índice remissivo da pauta de exportação a seguinte rubrica e respectiva remissão:
 
 Hematites ... Artigo 31-B
 
-###### Art. 10.º É desdobrada pela forma seguinte a rubrica do índice remissivo da pauta de exportação:
+Art. 10.º É desdobrada pela forma seguinte a rubrica do índice remissivo da pauta de exportação:
 
 Azulejos:
 
@@ -469,9 +486,9 @@ Cerâmicos ... Artigo 116
 
 Não especificados ... Artigo 120
 
-###### Art. 11.º As mercadorias importadas cujos direitos se encontrem garantidos em virtude de reclamações apresentadas relativamente à pauta em vigor pagarão as taxas consignadas no presente diploma.
+Art. 11.º As mercadorias importadas cujos direitos se encontrem garantidos em virtude de reclamações apresentadas relativamente à pauta em vigor pagarão as taxas consignadas no presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

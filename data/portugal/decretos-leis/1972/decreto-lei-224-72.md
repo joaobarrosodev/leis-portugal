@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1972-674456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24010d1077dc67694fc440a44cb16017c701d5a10a89c032e22bbf6d3dc9c6a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9274aea869f6e254a3bd282aa84dd326e4ded05cda61a522cc46bb66b221c16a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Direcção Geral dos Serviços de Fomento Marítimo
+- Documentação
+- Genebra
+- Inscrição Marítima
+- Marinha Mercante
+- Ministério da Marinha
+- OIT
+- Pessoal do MAR
+relationships:
+- type: cites
+  target: pt:dre:313194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:04Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +105,16 @@ Havendo necessidade de regular a sua execução no nosso país;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O documento de identificação de marítimo, exigido pela Convenção n.º 108, adoptada em 13 de Maio de 1958 na 41.ª sessão da Conferência Geral da Organização Internacional do Trabalho, reunida em Genebra, será emitido pela Direcção-Geral dos Serviços de Fomento Marítimo, do Ministério da Marinha, na metrópole, e, no ultramar, pelos serviços de marinha de cada província.
+Artigo 1.º O documento de identificação de marítimo, exigido pela Convenção n.º 108, adoptada em 13 de Maio de 1958 na 41.ª sessão da Conferência Geral da Organização Internacional do Trabalho, reunida em Genebra, será emitido pela Direcção-Geral dos Serviços de Fomento Marítimo, do Ministério da Marinha, na metrópole, e, no ultramar, pelos serviços de marinha de cada província.
 
-###### Art. 2.º Sem prejuízo do que a Convenção determina sobre a matéria, o Ministro da Marinha estabelecerá, por portaria, as normas respeitantes à utilização do documento de identificação de marítimo e o respectivo modelo.
+Art. 2.º Sem prejuízo do que a Convenção determina sobre a matéria, o Ministro da Marinha estabelecerá, por portaria, as normas respeitantes à utilização do documento de identificação de marítimo e o respectivo modelo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 23 de Junho de 1972.**
+Promulgado em 23 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

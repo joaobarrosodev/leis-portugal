@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47424-1966-488335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2438503a58f8be8fcd9d722487346cfbbec58d12484c9c72e5972ce8155d1c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6872ebf64cb59985f2907c0bdb1c77bb98550614ed4afecbf9c0517169f75ebf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Direção
+- Gestão Financeira
+- Instituto de ALTA Cultura
+- Orgânica
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:33Z'
   warnings: []
   errors: []
 ---
@@ -103,17 +110,17 @@ Considerando que se dispõe dos meios necessários para a sua conveniente instal
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Instituto de Física e Matemática, estabelecimento de investigação científica que fica na dependência do Instituto de Alta Cultura.
+Artigo 1.º É criado o Instituto de Física e Matemática, estabelecimento de investigação científica que fica na dependência do Instituto de Alta Cultura.
 
-###### Art. 2.º O Instituto de Física e Matemática, adiante designado abreviadamente por Instituto, tem personalidade jurídica e governa-se autònomamente, nos termos do presente diploma e regulamento ou regulamentos a expedir, mas sem prejuízo da faculdade que assiste ao Instituto de Alta Cultura em conformidade com a respectiva lei orgânica, de adoptar as providências que porventura se tornem necessárias para assegurar o exacto cumprimento da lei e a perfeita realização dos seus objectivos.
+Art. 2.º O Instituto de Física e Matemática, adiante designado abreviadamente por Instituto, tem personalidade jurídica e governa-se autònomamente, nos termos do presente diploma e regulamento ou regulamentos a expedir, mas sem prejuízo da faculdade que assiste ao Instituto de Alta Cultura em conformidade com a respectiva lei orgânica, de adoptar as providências que porventura se tornem necessárias para assegurar o exacto cumprimento da lei e a perfeita realização dos seus objectivos.
 
-###### Art. 3.º O Instituto de Física e Matemática tem por fim:
+Art. 3.º O Instituto de Física e Matemática tem por fim:
 
 a) Promover o desenvolvimento harmónico da investigação fundamental nos diversos ramos da física e da matemática, sem prejuízo dos problemas actuais de maior importância;
 
 b) Criar e fomentar, por todos os meios ao seu alcance, o interesse pelas carreiras científicas nos domínios da física e da matemática.
 
-###### Art. 4.º - 1. Para a realização dos seus fins, o Instituto de Física e Matemática tem, essencialmente, as seguintes atribuições:
+Art. 4.º - 1. Para a realização dos seus fins, o Instituto de Física e Matemática tem, essencialmente, as seguintes atribuições:
 
 a) Desenvolver, nos domínios da física e da matemática, uma actividade própria de investigação fundamental, livre e orientada ou tematizada, com carácter individual ou colectivo;
 
@@ -135,7 +142,7 @@ i) Promover a realização, no País, de congressos, simpósios ou outras reuni�
 
 2. As actividades mencionadas nas alíneas a) e b) do número anterior têm carácter prioritário, devendo todas as demais ser exercidas de modo a não as afectar.
 
-###### Art. 5.º - 1. O Instituto compreende dois departamentos, que devem colaborar entre si, sem prejuízo da sua independência:
+Art. 5.º - 1. O Instituto compreende dois departamentos, que devem colaborar entre si, sem prejuízo da sua independência:
 
 a) Departamento de Física;
 
@@ -155,7 +162,7 @@ b) Divisão de Matemática Aplicada.
 
 4. Haverá ainda o Serviço de Cálculo Numérico e Máquinas Matemáticas, que dependerá dos dois departamentos e exercerá a sua actividade em colaboração com as deles, em termos a estabelecer em regulamento.
 
-###### Art. 6.º - 1. O Instituto tem os seguintes órgãos:
+Art. 6.º - 1. O Instituto tem os seguintes órgãos:
 
 a) Direcção;
 
@@ -167,7 +174,7 @@ b) Conselho administrativo.
 
 4. Os planos de acção, orçamento e relatório do Instituto de Física e Matemática serão levados ao conhecimento do Instituto de Alta Cultura; e as contas anuais, elaboradas pelo conselho administrativo do primeiro, sujeitas a aprovação do conselho administrativo do segundo.
 
-###### Art. 7.º Constituem receitas do Instituto:
+Art. 7.º Constituem receitas do Instituto:
 
 a) A dotação que, como subsídio, lhe for consignada no Orçamento Geral do Estado;
 
@@ -181,25 +188,25 @@ e) Os rendimentos dos capitais próprios;
 
 f) Outras receitas permitidas por lei.
 
-###### Art. 8.º - 1. O estatuto do pessoal do Instituto, nacional ou estrangeiro, científico e das outras categorias, constará de regulamento, que designadamente definirá as condições da sua admissão e promoção.
+Art. 8.º - 1. O estatuto do pessoal do Instituto, nacional ou estrangeiro, científico e das outras categorias, constará de regulamento, que designadamente definirá as condições da sua admissão e promoção.
 
 2. Os encargos com o pessoal serão satisfeitos pela verba prevista na alínea a) do artigo anterior.
 
 3. Por portaria dos Ministros das Finanças e da Educação Nacional, poderá vir a ser fixado um quadro de pessoal destinado ao Instituto.
 
-###### Art. 9.º - 1. O tempo de serviço prestado no Instituto pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, uma vez que a dispensa deste seja prèviamente autorizada por despacho ministerial, continuando as remunerações correspondentes ao desempenho das funções próprias a ser abonadas pelos respectivos serviços.
+Art. 9.º - 1. O tempo de serviço prestado no Instituto pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, uma vez que a dispensa deste seja prèviamente autorizada por despacho ministerial, continuando as remunerações correspondentes ao desempenho das funções próprias a ser abonadas pelos respectivos serviços.
 
 2. A referida dispensa poderá ser total ou parcial.
 
-###### Art. 10.º O Instituto pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante prévia autorização do Ministro da Educação Nacional, concedida caso a caso.
+Art. 10.º O Instituto pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante prévia autorização do Ministro da Educação Nacional, concedida caso a caso.
 
-###### Art. 11.º O Instituto está isento de encargos fiscais e de licenças administrativas, nos mesmos termos do Estado.
+Art. 11.º O Instituto está isento de encargos fiscais e de licenças administrativas, nos mesmos termos do Estado.
 
-###### Art. 12.º Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento do Instituto às circunstâncias que forem ocorrendo.
+Art. 12.º Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento do Instituto às circunstâncias que forem ocorrendo.
 
-###### Art. 13.º Dentro de seis meses, a contar da entrada em vigor do presente diploma, o Instituto de Alta Cultura submeterá à aprovação do Ministro da Educação Nacional o Regulamento do Instituto de Física e Matemática.
+Art. 13.º Dentro de seis meses, a contar da entrada em vigor do presente diploma, o Instituto de Alta Cultura submeterá à aprovação do Ministro da Educação Nacional o Regulamento do Instituto de Física e Matemática.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

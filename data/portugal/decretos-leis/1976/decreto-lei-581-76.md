@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17000/16301631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1976-430814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afb0731ca3bfa2cf2d1503eabc1a935bbe359efd9027e9d8b394cf18cfac5c84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 416d1d75ec6573e357fe817a736ca8768de5094c27f6ffd0f884e29a343ddb04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Funcionário Ultramarino
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Quadro Geral de Adidos
+- Secretaria de Estado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:159123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646092:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:20Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +133,9 @@ Considerando a necessidade de clarificar e rever algumas das disposições do [D
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 5.º, 17.º, 21.º, n.º1, 28.º, n.º 1, 30.º, 31.º e 46.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, passam a ter a seguinte redacção:
+Artigo único. Os artigos 5.º, 17.º, 21.º, n.º1, 28.º, n.º 1, 30.º, 31.º e 46.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. Participarão nos trabalhos da Comissão representantes das organizações sindicais dos trabalhadores da função pública, um pela Administração Central, outro pela Administração Local e um dos próprios excedentes de pessoal.
 
@@ -125,7 +165,7 @@ e) Pelas respectivas organizações representativas, no caso do n.º 2.
 
 ...
 
-###### Art. 17.º - 1. É criado na Secretaria de Estado da Administração o quadro geral de adidos, que abrangerá os seguintes excedentes de pessoal:
+Art. 17.º - 1. É criado na Secretaria de Estado da Administração o quadro geral de adidos, que abrangerá os seguintes excedentes de pessoal:
 
 a) Agentes vinculados ao Estado e corpos administrativos da administração ultramarina antes de 22 de Janeiro de 1975, contando nessa data um ano de serviço, pertençam ou não aos quadros, e que, mantendo a nacionalidade portuguesa, de acordo com a lei vigente, ao abrigo dos acordos de descolonização, pretendam ingressar no quadro geral de adidos e, ainda, os que à data da entrada em vigor do presente diploma tenham ingressado, ao abrigo do [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), de 22 de Janeiro, no quadro de adidos do Ministério da Cooperação;
 
@@ -147,7 +187,7 @@ f) Outros agentes que, ao abrigo de diplomas legais já publicados, tenham sido 
 
 ...
 
-###### Art. 21.º- 1. Os agentes referidos na alínea a) do n.º 1 do artigo 17.º deste diploma poderão requerer ao Secretário de Estado da Descolonização o ingresso no quadro geral de adidos:
+Art. 21.º- 1. Os agentes referidos na alínea a) do n.º 1 do artigo 17.º deste diploma poderão requerer ao Secretário de Estado da Descolonização o ingresso no quadro geral de adidos:
 
 a) Nos prazos previstos na legislação aplicável, para os que, em virtude do acesso à independência resultante de acordos de descolonização celebrados, pretendam ingressar naquele quadro;
 
@@ -155,15 +195,15 @@ b) A todo o tempo, para os que, continuando a prestar serviço nos territórios 
 
 ...
 
-###### Art. 28.º - 1. Os agentes integrados no quadro geral de adidos ficam sujeitos ao regime de incompatibilidade do funcionalismo público.
+Art. 28.º - 1. Os agentes integrados no quadro geral de adidos ficam sujeitos ao regime de incompatibilidade do funcionalismo público.
 
-###### Art. 30.º - 1. ...
+Art. 30.º - 1. ...
 
 2. ...
 
 3. A determinação do requisito a que se refere a alínea b) do n.º 1 será feita pelo Serviço Central de Pessoal e pelo serviço utilizador, sendo de considerar as qualificações fixadas na lei orgânica do respectivo serviço ou organismo ou, na sua ausência, na lei geral.
 
-###### Art. 31.º - 1. O adido poderá recusar a sua passagem à actividade por qualquer das formas previstas no artigo 29.º, desde que se verifiquem motivos ponderosos, devidamente justificados.
+Art. 31.º - 1. O adido poderá recusar a sua passagem à actividade por qualquer das formas previstas no artigo 29.º, desde que se verifiquem motivos ponderosos, devidamente justificados.
 
 2. O adido terá de fazer prova dos motivos de recusa no prazo de trinta dias a contar da sua convocatória.
 
@@ -171,12 +211,12 @@ b) A todo o tempo, para os que, continuando a prestar serviço nos territórios 
 
 ...
 
-###### Art. 46.º À recusa do agente em ser integrado, nos termos desta subsecção, é aplicável o regime previsto no artigo 31.º
+Art. 46.º À recusa do agente em ser integrado, nos termos desta subsecção, é aplicável o regime previsto no artigo 31.º
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha.
 
-**Promulgado em 10 de Julho de 1976.**
+Promulgado em 10 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

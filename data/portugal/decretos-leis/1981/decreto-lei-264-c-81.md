@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 202/1981, 1º Suplemento, Série I de 1981-09-03
   number: '202'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2350-(11) a 2350-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf
 entry_into_force_dates: []
@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-c-1981-517228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 937563ab843d4edf5189ac6800d1b539cfee750fd84cea713d4523a25a120ad7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c7db336aaccc59bfcbc892548ddc1c834b01373b49d4ba5b0a51c38d3b72d90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto dos Magistrados Judiciais
+- Magistrado Judicial
+- Ministério Público
+- Orgânica
+- Organização Judiciária
+- Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:528236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:528236:por
+  label: "Declarada a inconstitucionalidade do n.º 2 do artigo 101º e do n.º 5 do artigo 121º da Lei 39/78, de 05 de Julho,\
+    \ na redacção do presente diploma, pela RES.189-A/82.20.10.1982.CR, DR.IS [247-Supl] de 25.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/189-a-1982-528236
+  date: '1982-10-20'
+- type: cites
+  target: pt:dre:313194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691070:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:561801:por
+  label: Rectificado (a epígrafe já está referenciada correctamente), pela DECL.DD6308.29.09.1981.PCM, DR.IS [237] de 15.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-561801
+  date: '1981-09-29'
+- type: corrected_by
+  target: pt:dre:567412:por
+  label: Rectificado pela DECL.DD6162.26.11.1981.PCM, DR.IS [283] de 10.12.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-567412
+  date: '1981-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:43Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +165,9 @@ Usando das autorizações conferidas pelas Leis n.os [12-G/81](https://diariodar
 
 ### CAPÍTULO I — Entrada e saída do território nacional
 
-###### Artigo 1.º Os estrangeiros que pretendam entrar no território nacional ou sair dele terão de o fazer pelos postos de fronteira qualificados para esse efeito.
+Artigo 1.º Os estrangeiros que pretendam entrar no território nacional ou sair dele terão de o fazer pelos postos de fronteira qualificados para esse efeito.
 
-###### Art. 2.º - 1 - Para a entrada no território nacional ou a saída dele terão os estrangeiros de ser portadores de passaporte válido.
+Art. 2.º - 1 - Para a entrada no território nacional ou a saída dele terão os estrangeiros de ser portadores de passaporte válido.
 
 2 - Podem, no entanto, entrar no País ou sair dele sem passaporte os estrangeiros que:
 
@@ -139,9 +201,9 @@ m) Sejam nacionais de país com o qual Portugal tenha estabelecido acordo nesse 
 
 5 - Estão ainda autorizados a sair do território nacional os estrangeiros habilitados com o salvo-conduto previsto no artigo 28.º do presente diploma.
 
-###### Art. 3.º Em casos excepcionais, devidamente fundamentados, o Serviço de Estrangeiros poderá autorizar a entrada no País de estrangeiros que não reúnam os requisitos legais exigidos para o efeito.
+Art. 3.º Em casos excepcionais, devidamente fundamentados, o Serviço de Estrangeiros poderá autorizar a entrada no País de estrangeiros que não reúnam os requisitos legais exigidos para o efeito.
 
-###### Art. 4.º Será interdita a entrada no território nacional:
+Art. 4.º Será interdita a entrada no território nacional:
 
 a) Aos estrangeiros expulsos, enquanto não expirar o prazo durante o qual lhes está vedada a entrada no País;
 
@@ -151,7 +213,7 @@ b) Aos estrangeiros que desenvolvam actividades que, praticadas no País, implic
 
 #### SECÇÃO I — Vistos concedidos no estrangeiro
 
-###### Art. 5.º - 1 - Os estrangeiros que pretendam entrar no território nacional carecem de visto diplomático, de serviço ou consular.
+Art. 5.º - 1 - Os estrangeiros que pretendam entrar no território nacional carecem de visto diplomático, de serviço ou consular.
 
 2 - Podem, no entanto, entrar no País sem visto:
 
@@ -159,11 +221,11 @@ a) Os estrangeiros titulares dos documentos referidos nas alíneas a), b), c), d
 
 b) Os nacionais de países com os quais Portugal tenha acordos nesse sentido.
 
-###### Art. 6.º - 1 - Os vistos diplomáticos e de serviço são concedidos pelas embaixadas de Portugal, devendo ser utilizados dentro de sessenta dias após a sua concessão.
+Art. 6.º - 1 - Os vistos diplomáticos e de serviço são concedidos pelas embaixadas de Portugal, devendo ser utilizados dentro de sessenta dias após a sua concessão.
 
 2 - Os vistos referidos no número anterior garantem uma permanência até sessenta dias.
 
-###### Art. 7.º - 1 - Os vistos consulares são concedidos pelos postos portugueses autorizados para o efeito, devendo ser utilizados dentro de cento e vinte dias após a sua concessão.
+Art. 7.º - 1 - Os vistos consulares são concedidos pelos postos portugueses autorizados para o efeito, devendo ser utilizados dentro de cento e vinte dias após a sua concessão.
 
 2 - Os vistos consulares podem ser:
 
@@ -173,15 +235,15 @@ b) De turismo ou negócios;
 
 c) Para fixação de residência.
 
-###### Art. 8.º Os vistos de trânsito destinam-se a permitir aos seus titulares, quando tenham por destino outros países, a travessia do território português, durante o período de quatro dias.
+Art. 8.º Os vistos de trânsito destinam-se a permitir aos seus titulares, quando tenham por destino outros países, a travessia do território português, durante o período de quatro dias.
 
-###### Art. 9.º - 1 - Os vistos de turismo ou negócios destinam-se a permitir a entrada em território português ao seu titular com fins turísticos ou de negócios.
+Art. 9.º - 1 - Os vistos de turismo ou negócios destinam-se a permitir a entrada em território português ao seu titular com fins turísticos ou de negócios.
 
 2 - Os vistos referidos no número anterior são válidos para duas entradas no País.
 
 3 - Em casos excepcionais, devidamente fundamentados, os postos consulares podem conceder vistos de turismo ou negócios para mais de duas entradas.
 
-###### Art. 10.º - 1 - Sem prejuízo de regimes especiais contemplados em acordos, os vistos de turismo ou negócios habilitam os seus titulares a permanecerem em território nacional por período não superior a noventa dias.
+Art. 10.º - 1 - Sem prejuízo de regimes especiais contemplados em acordos, os vistos de turismo ou negócios habilitam os seus titulares a permanecerem em território nacional por período não superior a noventa dias.
 
 2 - Podem, porém, ser concedidos vistos de turismo ou negócios para permanência até um ano aos seguintes indivíduos:
 
@@ -189,11 +251,11 @@ a) Estrangeiros, filhos de portugueses;
 
 b) Portugueses de origem, que tenham adquirido a nacionalidade estrangeira.
 
-###### Art. 11.º - 1 - Os vistos para fixação de residência destinam-se a permitir a entrada em território português aos seus titulares que aqui pretendam fixar residência.
+Art. 11.º - 1 - Os vistos para fixação de residência destinam-se a permitir a entrada em território português aos seus titulares que aqui pretendam fixar residência.
 
 2 - Os vistos referidos no número anterior são válidos para uma entrada e habilitam os seus titulares a permanecerem em território nacional por um período de noventa dias.
 
-###### Art. 12.º - 1 - Carece de consulta prévia ao Serviço de Estrangeiros por parte dos postos consulares a concessão de visto nos seguintes casos:
+Art. 12.º - 1 - Carece de consulta prévia ao Serviço de Estrangeiros por parte dos postos consulares a concessão de visto nos seguintes casos:
 
 a) Quando os interessados sejam nacionais de países com os quais Portugal não tenha relações diplomáticas ou consulares;
 
@@ -207,31 +269,31 @@ d) Quando o gerente do posto consular tenha dúvidas fundadas sobre se o visto d
 
 #### SECÇÃO II — Vistos concedidos em território nacional
 
-###### Art. 13.º Os estrangeiros que entrem no País ao abrigo do disposto nas alíneas c), d), e) e l) do n.º 2 do artigo 2.º terão de possuir passaporte, para aposição de visto, se pretenderem permanecer mais tempo do que o concedido à entrada da fronteira.
+Art. 13.º Os estrangeiros que entrem no País ao abrigo do disposto nas alíneas c), d), e) e l) do n.º 2 do artigo 2.º terão de possuir passaporte, para aposição de visto, se pretenderem permanecer mais tempo do que o concedido à entrada da fronteira.
 
-###### Art. 14.º Aos estrangeiros que desejarem permanecer em Portugal por período de tempo superior ao que lhes foi facultado à entrada do País poderão ser concedidos:
+Art. 14.º Aos estrangeiros que desejarem permanecer em Portugal por período de tempo superior ao que lhes foi facultado à entrada do País poderão ser concedidos:
 
 a) Um visto de permanência até sessenta dias, prorrogável por idêntico período, quando não sejam titulares de visto;
 
 b) Duas prorrogações de visto, não podendo exceder cada uma sessenta dias, quando sejam titulares de visto diplomático, de serviço ou de turismo ou negócios.
 
-###### Art. 15.º - 1 - Os estrangeiros que pretendam fixar residência no País e não sejam titulares do respectivo visto consular terão de solicitar um visto para esse efeito até trinta dias antes de expirar o período de permanência que lhe foi concedido.
+Art. 15.º - 1 - Os estrangeiros que pretendam fixar residência no País e não sejam titulares do respectivo visto consular terão de solicitar um visto para esse efeito até trinta dias antes de expirar o período de permanência que lhe foi concedido.
 
 2 - O pedido só deverá ser satisfeito em casos excepcionais, devidamente justificados.
 
-###### Art. 16.º Sem prejuízo de regimes especiais contemplados em acordos ou tratados, os estrangeiros que pretendam exercer uma actividade profissional no País terão de obter um visto prévio de trabalho.
+Art. 16.º Sem prejuízo de regimes especiais contemplados em acordos ou tratados, os estrangeiros que pretendam exercer uma actividade profissional no País terão de obter um visto prévio de trabalho.
 
-###### Art. 17.º Os estrangeiros habilitados com documentos de viagem emitidos em território nacional pelas missões diplomáticas ou postos consulares carecem de visto para saírem do País.
+Art. 17.º Os estrangeiros habilitados com documentos de viagem emitidos em território nacional pelas missões diplomáticas ou postos consulares carecem de visto para saírem do País.
 
-###### Art. 18.º Compete ao Serviço de Estrangeiros conceder os vistos e prorrogações referidos nos artigos anteriores.
+Art. 18.º Compete ao Serviço de Estrangeiros conceder os vistos e prorrogações referidos nos artigos anteriores.
 
-###### Art. 19.º - 1 - Nos postos de fronteira poderão ser concedidos vistos de trânsito, até quatro dias, a estrangeiros que, não sendo detentores do necessário visto consular, provem possuir bilhetes de passagem assegurada, dentro desse prazo, e tenham garantida a entrada no país a que se destinam.
+Art. 19.º - 1 - Nos postos de fronteira poderão ser concedidos vistos de trânsito, até quatro dias, a estrangeiros que, não sendo detentores do necessário visto consular, provem possuir bilhetes de passagem assegurada, dentro desse prazo, e tenham garantida a entrada no país a que se destinam.
 
 2 - Os vistos referidos no número anterior poderão a requerimento dos interessados, ser prorrogados por um período máximo de quatro dias, competindo o seu despacho ao Serviço de Estrangeiros.
 
 ### CAPÍTULO III — Documentos de viagem emitidos por autoridades portuguesas
 
-###### Art. 20.º Pode ser concedido passaporte para estrangeiros:
+Art. 20.º Pode ser concedido passaporte para estrangeiros:
 
 a) Aos indivíduos que, residindo em território português, sejam apátridas ou nacionais de países sem representação diplomática ou consular em Portugal ou que demonstrem não poder obter outro passaporte;
 
@@ -239,17 +301,17 @@ b) Aos nacionais de países com os quais Portugal tenha acordos nesse sentido;
 
 c) Aos indivíduos não residentes em território nacional, quando razões excepcionais aconselhem a concessão.
 
-###### Art. 21.º - 1 - O passaporte para estrangeiros é válido pelo período de dois anos, improrrogáveis, e pode ser utilizado em número ilimitado de viagens.
+Art. 21.º - 1 - O passaporte para estrangeiros é válido pelo período de dois anos, improrrogáveis, e pode ser utilizado em número ilimitado de viagens.
 
 2 - Quando emitido em território nacional, permite o regresso a Portugal do seu titular, desde que se faça menção desse direito no referido documento.
 
-###### Art. 22.º O passaporte para estrangeiros é do modelo anexo ao presente diploma, sendo-lhe aplicáveis, em tudo o que não estiver especialmente regulado, as disposições respeitantes aos passaportes ordinários.
+Art. 22.º O passaporte para estrangeiros é do modelo anexo ao presente diploma, sendo-lhe aplicáveis, em tudo o que não estiver especialmente regulado, as disposições respeitantes aos passaportes ordinários.
 
-###### Art. 23.º Os estrangeiros residentes no País na qualidade de refugiados, ao abrigo da [Lei n.º 38/80](https://diariodarepublica.pt/dr/detalhe/lei/38-1980-470246), de 1 de Agosto, bem como os refugiados abrangidos pelo disposto no § 11.º do Anexo à Convenção de Genebra de 1951, poderão obter um título de viagem do modelo anexo ao presente diploma.
+Art. 23.º Os estrangeiros residentes no País na qualidade de refugiados, ao abrigo da [Lei n.º 38/80](https://diariodarepublica.pt/dr/detalhe/lei/38-1980-470246), de 1 de Agosto, bem como os refugiados abrangidos pelo disposto no § 11.º do Anexo à Convenção de Genebra de 1951, poderão obter um título de viagem do modelo anexo ao presente diploma.
 
-###### Art. 24.º O título de viagem para refugiados é válido pelo período de dois anos, prorrogável, e pode ser utilizado em número ilimitado de viagens, permitindo o regresso do seu titular, dentro do respectivo prazo de validade.
+Art. 24.º O título de viagem para refugiados é válido pelo período de dois anos, prorrogável, e pode ser utilizado em número ilimitado de viagens, permitindo o regresso do seu titular, dentro do respectivo prazo de validade.
 
-###### Art. 25.º - 1 - O título de viagem para refugiados pode ser individual ou familiar.
+Art. 25.º - 1 - O título de viagem para refugiados pode ser individual ou familiar.
 
 2 - O título de viagem individual é exigível a partir dos 14 anos de idade, se os menores não viajarem em companhia do pai ou da mãe.
 
@@ -259,27 +321,27 @@ c) Aos indivíduos não residentes em território nacional, quando razões excep
 
 5 - Os refugiados menores de 14 anos poderão ser mencionados, por averbamento, no título de viagem da pessoa à qual tenham sido confiados.
 
-###### Art. 26.º O refugiado que, utilizando o título de viagem concedido nos termos do presente diploma, tenha estado em país relativamente ao qual adquira qualquer das situações previstas nos §§ (1) a (4) da secção C do artigo 1.º da Convenção de Genebra de 28 de Julho de 1951, deverá munir-se de título de viagem desse país.
+Art. 26.º O refugiado que, utilizando o título de viagem concedido nos termos do presente diploma, tenha estado em país relativamente ao qual adquira qualquer das situações previstas nos §§ (1) a (4) da secção C do artigo 1.º da Convenção de Genebra de 28 de Julho de 1951, deverá munir-se de título de viagem desse país.
 
-###### Art. 27.º São competentes para emitir passaportes para estrangeiros e títulos de viagem para refugiados:
+Art. 27.º São competentes para emitir passaportes para estrangeiros e títulos de viagem para refugiados:
 
 a) Em território nacional, o Serviço de Estrangeiros;
 
 b) No estrangeiro, os cônsules, mediante parecer favorável do Serviço de Estrangeiros, ou, nos casos previstos nas alíneas b) e c) do artigo 20.º, mediante autorização do Ministério dos Negócios Estrangeiros.
 
-###### Art. 28.º Pode ser concedido salvo-conduto aos estrangeiros que, não residindo no País, demonstrem impossibilidade ou dificuldade na obtenção de outro documento que os habilite a sair do território nacional.
+Art. 28.º Pode ser concedido salvo-conduto aos estrangeiros que, não residindo no País, demonstrem impossibilidade ou dificuldade na obtenção de outro documento que os habilite a sair do território nacional.
 
-###### Art. 29.º O salvo-conduto previsto no artigo anterior é do modelo anexo ao presente diploma, competindo a sua emissão ao Serviço de Estrangeiros.
+Art. 29.º O salvo-conduto previsto no artigo anterior é do modelo anexo ao presente diploma, competindo a sua emissão ao Serviço de Estrangeiros.
 
 ### CAPÍTULO IV — Autorização de residência
 
-###### Art. 30.º Considera-se residente o estrangeiro a quem tenha sido concedida autorização para residir em Portugal.
+Art. 30.º Considera-se residente o estrangeiro a quem tenha sido concedida autorização para residir em Portugal.
 
-###### Art. 31.º - 1 - A autorização para residir deve ser solicitada pelos titulares de visto para fixação de residência junto do Serviço de Estrangeiros.
+Art. 31.º - 1 - A autorização para residir deve ser solicitada pelos titulares de visto para fixação de residência junto do Serviço de Estrangeiros.
 
 2 - O pedido pode ser extensivo aos menores de 14 anos que se encontrem a cargo do peticionário.
 
-###### Art. 32.º Na apreciação do pedido o Serviço de Estrangeiros atenderá, designadamente, aos seguintes critérios:
+Art. 32.º Na apreciação do pedido o Serviço de Estrangeiros atenderá, designadamente, aos seguintes critérios:
 
 a) Cumprimento, por parte do interessado, das leis portuguesas, nomeadamente das referentes a estrangeiros;
 
@@ -289,11 +351,11 @@ c) Finalidades pretendidas com a estada e sua viabilidade;
 
 d) Laços familiares existentes com os residentes no País, nacionais ou estrangeiros.
 
-###### Art. 33.º - 1 - Aos estrangeiros a quem for concedida autorização para residir será passada uma autorização de residência.
+Art. 33.º - 1 - Aos estrangeiros a quem for concedida autorização para residir será passada uma autorização de residência.
 
 2 - Os indivíduos referidos no n.º 2 do artigo 31.º, quando residentes, devem solicitar, até um mês depois de completarem 14 anos de idade, a passagem de uma autorização de residência individual.
 
-###### Art. 34.º - 1 - As autorizações de residência são de três tipos, cujos modelos figuram em anexo ao presente diploma.
+Art. 34.º - 1 - As autorizações de residência são de três tipos, cujos modelos figuram em anexo ao presente diploma.
 
 2 - A autorização de residência tipo A é válida por um ano, a partir da data de emissão, e renovável por períodos iguais.
 
@@ -301,25 +363,25 @@ d) Laços familiares existentes com os residentes no País, nacionais ou estrang
 
 4 - Ao estrangeiro residente no País há vinte anos consecutivos poderá ser concedida uma autorização de residência tipo C, vitalícia.
 
-###### Art. 35.º As renovações de autorização de residência devem ser solicitadas pelos interessados e estão sujeitas aos critérios referidos no artigo 32.º
+Art. 35.º As renovações de autorização de residência devem ser solicitadas pelos interessados e estão sujeitas aos critérios referidos no artigo 32.º
 
-###### Art. 36.º Os residentes são obrigados a comunicar ao Serviço de Estrangeiros qualquer mudança de domicilio ou ausência do País por período superior a noventa dias, devendo as comunicações ser feitas no prazo de oito dias contados da data da mudança e, no caso de ausência do País, antes de a mesma se iniciar.
+Art. 36.º Os residentes são obrigados a comunicar ao Serviço de Estrangeiros qualquer mudança de domicilio ou ausência do País por período superior a noventa dias, devendo as comunicações ser feitas no prazo de oito dias contados da data da mudança e, no caso de ausência do País, antes de a mesma se iniciar.
 
-###### Art. 37.º As autorizações de residência poderão ser retiradas aos estrangeiros que não cumpram as condições exigidas para a sua estada como residentes.
+Art. 37.º As autorizações de residência poderão ser retiradas aos estrangeiros que não cumpram as condições exigidas para a sua estada como residentes.
 
-###### Art. 38.º - 1 - A autorização de residência não é exigida aos agentes diplomáticos e consulares dos Estados acreditados em Portugal, ao pessoal administrativo e doméstico ou equiparado de nacionalidade estrangeira que venha prestar serviço nas missões diplomáticas ou postos consulares dos referidos Estados, nem aos membros das suas famílias.
+Art. 38.º - 1 - A autorização de residência não é exigida aos agentes diplomáticos e consulares dos Estados acreditados em Portugal, ao pessoal administrativo e doméstico ou equiparado de nacionalidade estrangeira que venha prestar serviço nas missões diplomáticas ou postos consulares dos referidos Estados, nem aos membros das suas famílias.
 
 2 - O cartão de identidade passado pelo Ministério dos Negócios Estrangeiros deve ser visado pelo director do Serviço de Estrangeiros e confere ao seu titular o direito de residir no País.
 
 3 - As pessoas abrangidas pelos números anteriores, logo que cessem os motivos que determinaram a concessão pelo Ministério dos Negócios Estrangeiros dos cartões de identidade de que são titulares, deverão restituir a esta entidade os referidos documentos, os quais serão remetidos ao Serviço de Estrangeiros.
 
-###### Art. 39.º O disposto neste capítulo não prejudica os regimes especiais previstos em tratados ou convenções internacionais de que Portugal seja parte ou a que adira.
+Art. 39.º O disposto neste capítulo não prejudica os regimes especiais previstos em tratados ou convenções internacionais de que Portugal seja parte ou a que adira.
 
 ### CAPÍTULO V — Boletim de alojamento
 
-###### Art. 40.º O boletim de alojamento destina-se a permitir o controle dos estrangeiros em território nacional.
+Art. 40.º O boletim de alojamento destina-se a permitir o controle dos estrangeiros em território nacional.
 
-###### Art. 41.º - 1 - Os proprietários de estabelecimentos hoteleiros e similares e de parques de campismo, bem como aqueles que alberguem estrangeiros ou arrendem, mesmo por sublocação, ou cedam, a qualquer título, casa para habitação de estrangeiros, ficam obrigados a comunicá-lo, no prazo de quarenta e oito horas, por meio de boletim individual de alojamento, ao Serviço de Estrangeiros ou às câmaras municipais nos concelhos onde não exista o referido Serviço.
+Art. 41.º - 1 - Os proprietários de estabelecimentos hoteleiros e similares e de parques de campismo, bem como aqueles que alberguem estrangeiros ou arrendem, mesmo por sublocação, ou cedam, a qualquer título, casa para habitação de estrangeiros, ficam obrigados a comunicá-lo, no prazo de quarenta e oito horas, por meio de boletim individual de alojamento, ao Serviço de Estrangeiros ou às câmaras municipais nos concelhos onde não exista o referido Serviço.
 
 2 - Ficam igualmente obrigados a enviar boletins de alojamento, nas condições estabelecidas no número anterior, os estrangeiros não residentes que se instalem em habitação própria.
 
@@ -327,7 +389,7 @@ d) Laços familiares existentes com os residentes no País, nacionais ou estrang
 
 ### CAPÍTULO VI — Expulsão do território nacional
 
-###### Art. 42.º - 1 - Sem prejuízo das disposições constantes de tratado ou convenção internacional de que Portugal seja parte, serão expulsos do território nacional os cidadãos estrangeiros:
+Art. 42.º - 1 - Sem prejuízo das disposições constantes de tratado ou convenção internacional de que Portugal seja parte, serão expulsos do território nacional os cidadãos estrangeiros:
 
 a) Que entrem irregularmente no País;
 
@@ -345,7 +407,7 @@ f) Que tenham praticado actos que se fossem conhecidos pelas autoridades portugu
 
 3 - Aos refugiados aplicar-se-á sempre o regime mais benéfico que resulte da lei ou acordo internacional a que o Estado Português esteja obrigado.
 
-###### Art. 43.º Sem prejuízo do disposto na legislação penal, será aplicada a pena acessória de expulsão:
+Art. 43.º Sem prejuízo do disposto na legislação penal, será aplicada a pena acessória de expulsão:
 
 a) Ao estrangeiro não residente no País condenado por crime doloso em pena superior a seis meses de prisão;
 
@@ -353,11 +415,11 @@ b) Ao estrangeiro residente no País há menos de cinco anos condenado por crime
 
 c) Ao estrangeiro residente no País há mais de cinco anos e menos de vinte condenado a pena maior.
 
-###### Art. 44.º - 1 - A expulsão não pode ser efectuada para qualquer país onde o estrangeiro possa ser perseguido por razões políticas.
+Art. 44.º - 1 - A expulsão não pode ser efectuada para qualquer país onde o estrangeiro possa ser perseguido por razões políticas.
 
 2 - No caso de se demonstrar que no país do seu eventual destino poderá sofrer perseguição política, o estrangeiro deverá ser encaminhado para outro país que o aceite.
 
-###### Art. 45.º - 1 - São competentes para proferir decisões de expulsão, com os fundamentos referidos no artigo 42.º:
+Art. 45.º - 1 - São competentes para proferir decisões de expulsão, com os fundamentos referidos no artigo 42.º:
 
 a) No continente, os juízes de polícia da comarca de Lisboa;
 
@@ -365,7 +427,7 @@ b) Nas áreas das respectivas regiões autónomas, os Tribunais das Comarcas do 
 
 2 - A competência territorial determina-se em função da residência em Portugal do cidadão estrangeiro, e, na falta desta, do lugar em que for encontrado.
 
-###### Art. 46.º - 1 - Sempre que tenha conhecimento de qualquer facto que possa constituir fundamento de expulsão, o Serviço de Estrangeiros organizará um processo onde sejam recolhidas, de forma sumária, as provas necessárias à decisão judicial.
+Art. 46.º - 1 - Sempre que tenha conhecimento de qualquer facto que possa constituir fundamento de expulsão, o Serviço de Estrangeiros organizará um processo onde sejam recolhidas, de forma sumária, as provas necessárias à decisão judicial.
 
 2 - Do processo constará igualmente um relatório sucinto, no qual se fará a descrição dos factos que fundamentam a expulsão.
 
@@ -373,7 +435,7 @@ b) Nas áreas das respectivas regiões autónomas, os Tribunais das Comarcas do 
 
 4 - Na organização do processo o Serviço terá em conta a circunstância de o estrangeiro ser ou não residente, e, sendo-o, o período de residência.
 
-###### Art. 47.º - 1 - Recebido o processo, o juiz marcará julgamento para as quarenta e oito horas seguintes, mandando notificar o estrangeiro e as testemunhas.
+Art. 47.º - 1 - Recebido o processo, o juiz marcará julgamento para as quarenta e oito horas seguintes, mandando notificar o estrangeiro e as testemunhas.
 
 2 - O julgamento designado nos termos do número anterior só poderá ser adiado uma única vez quando:
 
@@ -385,7 +447,7 @@ c) Faltem as testemunhas de acusação de que o Serviço de Estrangeiros não pr
 
 3 - Verificada alguma das causas de adiamento previstas no número anterior, o juiz marcará novo julgamento dentro dos oito dias seguintes, mandando notificar, para o efeito, o Serviço de Estrangeiros, o estrangeiro e as testemunhas que devam comparecer na audiência.
 
-###### Art. 48.º - 1 - A decisão conterá obrigatoriamente:
+Art. 48.º - 1 - A decisão conterá obrigatoriamente:
 
 a) Os fundamentos, salvo quando a expulsão tenha a natureza de pena acessória;
 
@@ -397,9 +459,9 @@ d) O país para onde deve ser encaminhado o estrangeiro abrangido pelo disposto 
 
 2 - Ao Serviço de Estrangeiros compete fornecer os elementos que permitam ao tribunal fixar o país de destino, conforme o disposto na alínea d) do número precedente.
 
-###### Art. 49.º Das decisões proferidas nos termos do artigo 45.º cabe recurso com efeito meramente devolutivo.
+Art. 49.º Das decisões proferidas nos termos do artigo 45.º cabe recurso com efeito meramente devolutivo.
 
-###### Art. 50.º - 1 - O estrangeiro contra quem haja sido proferida a ordem de expulsão é obrigado a abandonar o território nacional no prazo que lhe foi determinado.
+Art. 50.º - 1 - O estrangeiro contra quem haja sido proferida a ordem de expulsão é obrigado a abandonar o território nacional no prazo que lhe foi determinado.
 
 2 - Enquanto não expirar o prazo previsto no número antecedente, o estrangeiro ficará sujeito às seguintes obrigações:
 
@@ -411,61 +473,61 @@ c) Apresentar-se periodicamente no Serviço de Estrangeiros ou às autoridades p
 
 3 - O estrangeiro que viole o disposto no n.º 1 ou que se furte ao cumprimento de alguma das obrigações previstas no n.º 2 será detido por qualquer autoridade, executando-se, de imediato, a decisão de expulsão.
 
-###### Art. 51.º - 1 - Ao Serviço de Estrangeiros compete dar execução às decisões de expulsão proferidas pelos tribunais.
+Art. 51.º - 1 - Ao Serviço de Estrangeiros compete dar execução às decisões de expulsão proferidas pelos tribunais.
 
 2 - A pena acessória de expulsão será executada ainda que o expulsando se encontre em liberdade condicional.
 
-###### Art. 52.º - 1 - O estrangeiro que entre irregularmente no território nacional será detido por qualquer autoridade e entregue ao Serviço de Estrangeiros, que o apresentará, no prazo de quarenta e oito horas, ao tribunal competente para decidir da expulsão.
+Art. 52.º - 1 - O estrangeiro que entre irregularmente no território nacional será detido por qualquer autoridade e entregue ao Serviço de Estrangeiros, que o apresentará, no prazo de quarenta e oito horas, ao tribunal competente para decidir da expulsão.
 
 2 - Não será conduzido a tribunal o cidadão que, tendo entrado irregularmente no território nacional, se apresente sem demora às autoridades, solicitando a concessão de asilo político.
 
 3 - O estrangeiro nas condições referidas no número anterior aguardará em liberdade a decisão do seu pedido, devendo permanecer à disposição do Serviço de Estrangeiros, que lhe indicará as obrigações a que fica sujeito.
 
-###### Art. 53.º - 1 - Constitui crime punível com prisão e correspondente multa a entrada em território nacional de estrangeiro durante o período por que a mesma lhe foi vedada.
+Art. 53.º - 1 - Constitui crime punível com prisão e correspondente multa a entrada em território nacional de estrangeiro durante o período por que a mesma lhe foi vedada.
 
 2 - Em caso de condenação, o tribunal decretará acessoriamente a expulsão do estrangeiro.
 
 3 - Após o cumprimento da pena pelo crime referido no n.º 1, o estrangeiro é obrigado a abandonar, de imediato, o território nacional.
 
-###### Art. 54.º Os tribunais enviarão ao Serviço de Estrangeiros, com a maior brevidade, certidões das sentenças condenatórias proferidas, em processo crime, contra cidadãos estrangeiros.
+Art. 54.º Os tribunais enviarão ao Serviço de Estrangeiros, com a maior brevidade, certidões das sentenças condenatórias proferidas, em processo crime, contra cidadãos estrangeiros.
 
-###### Art. 55.º A ordem de expulsão deve ser comunicada, pela via diplomática, às autoridades competentes do país para onde o estrangeiro vai ser enviado.
+Art. 55.º A ordem de expulsão deve ser comunicada, pela via diplomática, às autoridades competentes do país para onde o estrangeiro vai ser enviado.
 
-###### Art. 56.º - 1 - Em tudo quanto não esteja especialmente previsto neste diploma observar-se-ão os termos do processo sumário em processo penal.
+Art. 56.º - 1 - Em tudo quanto não esteja especialmente previsto neste diploma observar-se-ão os termos do processo sumário em processo penal.
 
 2 - Os processos de expulsão têm carácter urgente.
 
-###### Art. 57.º - 1 - Sempre que o estrangeiro não possa suportar as despesas necessárias ao abandono do País serão as mesmas custeadas pelo Estado.
+Art. 57.º - 1 - Sempre que o estrangeiro não possa suportar as despesas necessárias ao abandono do País serão as mesmas custeadas pelo Estado.
 
 2 - Para satisfação dos encargos resultantes da aplicação deste diploma serão inscritas no orçamento do Ministério da Administração Interna as necessárias dotações.
 
 ### CAPÍTULO VII — Taxas
 
-###### Art. 58.º - 1 - Os vistos diplomáticos e de serviço são gratuitos.
+Art. 58.º - 1 - Os vistos diplomáticos e de serviço são gratuitos.
 
 2 - As taxas a cobrar pela concessão de vistos consulares são as que constam da Tabela de Emolumentos Consulares.
 
 3 - As restantes taxas serão fixadas por portaria dos Ministros da Administração Interna e das Finanças e do Plano.
 
-###### Art. 59.º Beneficiam de isenção ou redução de taxas os nacionais de países com os quais Portugal tenha acordos nesse sentido.
+Art. 59.º Beneficiam de isenção ou redução de taxas os nacionais de países com os quais Portugal tenha acordos nesse sentido.
 
-###### Art. 60.º Aos estrangeiros que, pretendendo obter autorizações de residência ou suas renovações, demonstrem impossibilidade ou dificuldade em satisfazer o pagamento da respectiva taxa poderá, excepcionalmente, o director do Serviço de Estrangeiros conceder a isenção ou redução de 50% do seu montante.
+Art. 60.º Aos estrangeiros que, pretendendo obter autorizações de residência ou suas renovações, demonstrem impossibilidade ou dificuldade em satisfazer o pagamento da respectiva taxa poderá, excepcionalmente, o director do Serviço de Estrangeiros conceder a isenção ou redução de 50% do seu montante.
 
-###### Art. 61.º - 1 - Ao estrangeiro que exceda o período de permanência que lhe foi autorizado poderá ser concedida a respectiva prorrogação, nos termos deste diploma, mediante a aplicação da multa de 600$00 e adicionais.
+Art. 61.º - 1 - Ao estrangeiro que exceda o período de permanência que lhe foi autorizado poderá ser concedida a respectiva prorrogação, nos termos deste diploma, mediante a aplicação da multa de 600$00 e adicionais.
 
 2 - A mesma penalidade será aplicada quando a transgressão prevista no número anterior for detectada à saída do País.
 
-###### Art. 62.º Ao estrangeiro que se encontre a trabalhar no País sem o visto referido no artigo 16.º será aplicada a multa de 1000$00.
+Art. 62.º Ao estrangeiro que se encontre a trabalhar no País sem o visto referido no artigo 16.º será aplicada a multa de 1000$00.
 
-###### Art. 63.º A infracção ao disposto no artigo 26.º será punida com a multa de 2000$00.
+Art. 63.º A infracção ao disposto no artigo 26.º será punida com a multa de 2000$00.
 
-###### Art. 64.º A infracção ao disposto no n.º 2 do artigo 33.º será punida com a multa de 500$00, acrescida dos respectivos adicionais.
+Art. 64.º A infracção ao disposto no n.º 2 do artigo 33.º será punida com a multa de 500$00, acrescida dos respectivos adicionais.
 
-###### Art. 65.º Ao estrangeiro que deixe caducar a autorização de residência poderá ser concedida a renovação, nos termos do presente diploma, mediante a aplicação da multa de 800$00 a 2000$00, acrescida dos respectivos adicionais.
+Art. 65.º Ao estrangeiro que deixe caducar a autorização de residência poderá ser concedida a renovação, nos termos do presente diploma, mediante a aplicação da multa de 800$00 a 2000$00, acrescida dos respectivos adicionais.
 
-###### Art. 66.º Ao estrangeiro que não cumpra com o disposto no artigo 36.º será aplicada a multa de 600$00 a 1500$00.
+Art. 66.º Ao estrangeiro que não cumpra com o disposto no artigo 36.º será aplicada a multa de 600$00 a 1500$00.
 
-###### Art. 67.º - 1 - As infracções ao disposto no artigo 41.º serão punidas:
+Art. 67.º - 1 - As infracções ao disposto no artigo 41.º serão punidas:
 
 a) Por cada boletim individual de alojamento que deixe de ser apresentado nos termos dos n.os 1 e 2 do artigo 41.º será aplicada a multa de 500$00 a 1500$00, acrescida dos respectivos adicionais;
 
@@ -473,7 +535,7 @@ b) Por cada talão do boletim que deixe de ser apresentado nos termos do n.º 3 
 
 2 - Quando se trate de transgressores que reconhecidamente tenham grande dificuldade em pagar aquelas importâncias, poderá o director do Serviço de Estrangeiros, a requerimento devidamente fundamentado do interessado, reduzi-las até ao mínimo de 250$00 e respectivos adicionais.
 
-###### Art. 68.º - 1 - A aplicação e fixação das multas previstas neste diploma é da competência do Serviço de Estrangeiros, cabendo, porém, às autoridades de fronteira, na zona da sua jurisdição, aplicar a multa prevista no n.º 2 do artigo 45.º
+Art. 68.º - 1 - A aplicação e fixação das multas previstas neste diploma é da competência do Serviço de Estrangeiros, cabendo, porém, às autoridades de fronteira, na zona da sua jurisdição, aplicar a multa prevista no n.º 2 do artigo 45.º
 
 2 - Verificada alguma infracção, a entidade competente levantará auto de notícia, que fará fé até prova em contrário.
 
@@ -483,11 +545,11 @@ b) Por cada talão do boletim que deixe de ser apresentado nos termos do n.º 3 
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 69.º Considera-se estrangeiro, para os efeitos do presente diploma, todo aquele que não prove possuir a nacionalidade portuguesa.
+Art. 69.º Considera-se estrangeiro, para os efeitos do presente diploma, todo aquele que não prove possuir a nacionalidade portuguesa.
 
-###### Art. 70.º As empresas e agentes de navegação que transportem para portos ou aeroportos nacionais passageiros ou tripulantes indocumentados são responsáveis por todas as despesas a efectuar com aqueles, designadamente as inerentes ao seu retorno.
+Art. 70.º As empresas e agentes de navegação que transportem para portos ou aeroportos nacionais passageiros ou tripulantes indocumentados são responsáveis por todas as despesas a efectuar com aqueles, designadamente as inerentes ao seu retorno.
 
-###### Art. 71.º - 1 - Os estrangeiros que adquiram a nacionalidade portuguesa com perda da de origem são obrigados a comunicá-lo ao Serviço de Estrangeiros.
+Art. 71.º - 1 - Os estrangeiros que adquiram a nacionalidade portuguesa com perda da de origem são obrigados a comunicá-lo ao Serviço de Estrangeiros.
 
 2 - Os portugueses que adquiram nacionalidade estrangeira com perda da portuguesa são obrigados a comunicá-lo ao Serviço de Estrangeiros.
 
@@ -495,9 +557,9 @@ b) Por cada talão do boletim que deixe de ser apresentado nos termos do n.º 3 
 
 4 - As comunicações a que se referem os n.os 1 e 2 deste artigo devem ser feitas no prazo de trinta dias a aceitar das alterações de nacionalidade, e a comunicação a que se refere o n.º 3 no prazo de quinze dias a contar do registo.
 
-###### Art. 72.º Nos locais onde não houver dependências do Serviço de Estrangeiros compete aos comandos da Polícia de Segurança Pública, onde existam, ou às câmaras municipais dar andamento a todos os assuntos relacionados com estrangeiros, nos termos a definir pelo Ministro da Administração Interna sob proposta do director do Serviço de Estrangeiros.
+Art. 72.º Nos locais onde não houver dependências do Serviço de Estrangeiros compete aos comandos da Polícia de Segurança Pública, onde existam, ou às câmaras municipais dar andamento a todos os assuntos relacionados com estrangeiros, nos termos a definir pelo Ministro da Administração Interna sob proposta do director do Serviço de Estrangeiros.
 
-###### Art. 73.º São revogados:
+Art. 73.º São revogados:
 
 a) O [Decreto-Lei n.º 46557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46557-1965-510451), de 28 de Setembro de 1965;
 
@@ -509,17 +571,17 @@ d) O [Decreto-Lei n.º 592/74](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 e) O [Decreto-Lei n.º 582/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1976-430816), de 22 de Julho.
 
-###### Art. 74.º O presente diploma entra em vigor trinta dias após a data da sua publicação, excepto o seu capítulo VI, cuja vigência se iniciará no oitavo dia posterior à da mesma publicação.
+Art. 74.º O presente diploma entra em vigor trinta dias após a data da sua publicação, excepto o seu capítulo VI, cuja vigência se iniciará no oitavo dia posterior à da mesma publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Agosto de 1981.**
+Promulgado em 29 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf)
 
 ## ANEXO II — Modelo de título de viagem
 
@@ -527,6 +589,6 @@ O documento terá a forma de uma caderneta (15 cm x 10 cm, aproximadamente).
 
 Recomenda-se que seja impresso de tal maneira que as rasuras ou alterações por meios químicos ou outros possam notar-se facilmente e que as palavras «Convenção de 28 de Julho de 1951» sejam impressas repetida e continuadamente sobre cada uma das páginas na língua do país que emite o título.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20201/00110024.pdf)

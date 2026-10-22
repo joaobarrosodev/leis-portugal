@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 66/1976, 1º Suplemento, Série I de 1976-03-18
   number: '66'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 558-(1) a 558-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06601/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-1976-593137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e41b1d99915a7548663879ba651469439ad27335fca91267ba4e115637f6bb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 390063dcda5bbb1e871f8d343add25d91a4c3d9abb9a5435b6e57a311d07f95f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Câmara Municipal
+- Campanha Eleitoral
+- Círculo Eleitoral
+- Comissão Nacional de Eleições
+- Crime
+- Definição de Competências
+- Eleição Legislativa
+- Governador de Macau
+- Juiz
+- Macau
+- Parlamentar
+- Partido Político
+- Propaganda Política
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144462:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:37Z'
   warnings: []
   errors: []
 ---
@@ -92,38 +119,38 @@ Tendo em vista o disposto no artigo 159.º do [Decreto-Lei n.º 93-C/76](https:/
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/76, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É tornado extensivo a Macau o [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462), de 29 de Janeiro, com as alterações seguintes.
+Artigo 1.º É tornado extensivo a Macau o [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462), de 29 de Janeiro, com as alterações seguintes.
 
-###### Art. 2.º O território de Macau não constitui círculo eleitoral; os eleitores ali recenseados votarão nas listas apresentadas no círculo de Lisboa, as quais serão remetidas, nos termos e para os efeitos do artigo 26.º daquele diploma, ao governador do território.
+Art. 2.º O território de Macau não constitui círculo eleitoral; os eleitores ali recenseados votarão nas listas apresentadas no círculo de Lisboa, as quais serão remetidas, nos termos e para os efeitos do artigo 26.º daquele diploma, ao governador do território.
 
-###### Art. 3.º Em relação aos actos eleitorais que devam praticar-se em Macau, as referências feitas no [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462) a governador civil, junta de freguesia, corregedor e Ministério da Comunicação Social consideram-se feitas, respectivamente, a governador do território, câmara municipal, juiz de direito e Centro de Informação e Turismo.
+Art. 3.º Em relação aos actos eleitorais que devam praticar-se em Macau, as referências feitas no [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462) a governador civil, junta de freguesia, corregedor e Ministério da Comunicação Social consideram-se feitas, respectivamente, a governador do território, câmara municipal, juiz de direito e Centro de Informação e Turismo.
 
-###### Art. 4.º Os artigos 50.º, 57.º e 58.º do [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462) terão a seguinte redacção:
+Art. 4.º Os artigos 50.º, 57.º e 58.º do [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462) terão a seguinte redacção:
 
-###### Art. 50.º Qualquer candidato ou partido político poderá livremente realizar a campanha eleitoral em todo o território eleitoral, e bem assim no território de Macau.
+Art. 50.º Qualquer candidato ou partido político poderá livremente realizar a campanha eleitoral em todo o território eleitoral, e bem assim no território de Macau.
 
-###### Art. 57.º Os partidos políticos terão direito de acesso, para propaganda eleitoral, à emissora oficial de radiodifusão.
+Art. 57.º Os partidos políticos terão direito de acesso, para propaganda eleitoral, à emissora oficial de radiodifusão.
 
-###### Art. 58.º - 1. A distribuição do tempo de antena será regulamentada pelo Governo do território, de modo a assegurar a igualdade de tratamento a todos os partidos políticos e coligações ou frentes que tivessem apresentado candidatos no círculo eleitoral de Lisboa.
+Art. 58.º - 1. A distribuição do tempo de antena será regulamentada pelo Governo do território, de modo a assegurar a igualdade de tratamento a todos os partidos políticos e coligações ou frentes que tivessem apresentado candidatos no círculo eleitoral de Lisboa.
 
 2. Para o efeito referido no número anterior, a Comissão Nacional de Eleições remeterá oportunamente ao governador do território indicação dos partidos políticos e coligações ou frentes com candidatos naquele círculo eleitoral.
 
-###### Art. 5.º Não é aplicável a Macau o disposto no artigo 77.º do [Decreto-Lei n.º 93-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-a-1976-144447).
+Art. 5.º Não é aplicável a Macau o disposto no artigo 77.º do [Decreto-Lei n.º 93-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-a-1976-144447).
 
-###### Art. 6.º Ao artigo 104.º é aditado um n.º 4, com a seguinte redacção:
+Art. 6.º Ao artigo 104.º é aditado um n.º 4, com a seguinte redacção:
 
 4. O disposto no número anterior é também aplicável ao território de Macau.
 
-###### Art. 7.º As penas pecuniárias referidas no [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462) são convertidas em patacas, ao câmbio oficial do dia em que for cometida a infracção.
+Art. 7.º As penas pecuniárias referidas no [Decreto-Lei n.º 93-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462) são convertidas em patacas, ao câmbio oficial do dia em que for cometida a infracção.
 
-###### Art. 8.º Este diploma entra em vigor na data da sua publicação.
+Art. 8.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - José Meneres Pimentel.
 
-**Promulgado em 18 de Março de 1976.**
+Promulgado em 18 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial de Macau. - Vítor Manuel Trigueiros Crespo.

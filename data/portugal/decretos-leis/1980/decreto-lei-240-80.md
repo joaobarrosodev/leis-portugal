@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1980-472347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98dd782ed773c81797b49ac797c56b9458d1cf0eb760216cb5a0bf183e343d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccf699b8fe71c1345002fc12d5f27ac9736ad9caf783361018f83b56c046c245
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANO de Escolaridade 12
+- ANO Propedêutico
+- Criação de Serviços
+- Extinção de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:455939:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RATIFICADO PELA RESOLUCAO DA AR, 165/81, PUBLICADA NO DR.IS, 171, DE 810728. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-07-28'
+- type: cites
+  target: pt:dre:259204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281414:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADAS AS NORMAS QUE SE REFEREM A VIA PROFISSIONALIZANTE, PELO DECRETO LEI 223/93, PUBLICADO NO DR.IS-A, 141,\
+    \ DE 930618.T\0T\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:43Z'
   warnings: []
   errors: []
 ---
@@ -104,43 +127,43 @@ Assim:
 
 Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado o 12.º ano de escolaridade, que passará a constituir o ano terminal dos cursos complementares do ensino secundário.
+Artigo 1.º - 1 - É criado o 12.º ano de escolaridade, que passará a constituir o ano terminal dos cursos complementares do ensino secundário.
 
 2 - É extinto o Ano Propedêutico do ensino superior e revogada toda a legislação que lhe é aplicável.
 
-###### Art. 2.º A articulação, acompanhamento e supervisão pedagógica do 12.º ano serão da competência da Direcção-Geral do Ensino Secundário, cabendo à Direcção-Geral de Pessoal a superintendência administrativa.
+Art. 2.º A articulação, acompanhamento e supervisão pedagógica do 12.º ano serão da competência da Direcção-Geral do Ensino Secundário, cabendo à Direcção-Geral de Pessoal a superintendência administrativa.
 
-###### Art. 3.º - 1 - O 12.º ano será estruturado em duas vias: a via de ensino e a via profissionalizante.
+Art. 3.º - 1 - O 12.º ano será estruturado em duas vias: a via de ensino e a via profissionalizante.
 
 2 - A via de ensino prepara especialmente para o prosseguimento dos estudos e terá como objectivo reforçar a informação e preparação nas disciplinas básicas adequadas ao ingresso nos diversos cursos do ensino superior.
 
 3 - A via profissionalizante prepara especificamente para um primeiro nível de qualificação profissional, mediante uma informação e prática em áreas tecnológicas diversificadas.
 
-###### Art. 4.º - 1 - Os planos de estudos da via de ensino terão âmbito nacional, sendo constituídos por disciplinas obrigatórias e optativas.
+Art. 4.º - 1 - Os planos de estudos da via de ensino terão âmbito nacional, sendo constituídos por disciplinas obrigatórias e optativas.
 
 2 - Os planos de estudos da via profissionalizante procurarão enquadrar-se na satisfação das necessidades e perspectivas de desenvolvimento sócio-económico das regiões.
 
-###### Art. 5.º O elenco das disciplinas que integram os planos de estudos do 12.º ano de escolaridade será fixado por despacho do Ministro da Educação e Ciência.
+Art. 5.º O elenco das disciplinas que integram os planos de estudos do 12.º ano de escolaridade será fixado por despacho do Ministro da Educação e Ciência.
 
-###### Art. 6.º - 1 - O 12.º ano de escolaridade funcionará essencialmente como ensino presencial, sendo ministrado em estabelecimentos de ensino secundário oficial, particular ou cooperativo.
+Art. 6.º - 1 - O 12.º ano de escolaridade funcionará essencialmente como ensino presencial, sendo ministrado em estabelecimentos de ensino secundário oficial, particular ou cooperativo.
 
 2 - A via profissionalizante do 12.º ano poderá ainda funcionar em instalações de serviços oficiais dependentes de outros Ministérios, de empresas ou outras instituições privadas.
 
 3 - Nos casos previstos no número anterior, a colaboração de entidades ou serviços estranhos às escolas obedecerá a convénio a celebrar entre os estabelecimentos de ensino e aquelas entidades ou serviços, mediante parecer da Direcção-Geral do Ensino Secundário e homologação ministerial.
 
-###### Art. 7.º - 1 - A frequência do 12.º ano de escolaridade depende de matrícula.
+Art. 7.º - 1 - A frequência do 12.º ano de escolaridade depende de matrícula.
 
 2 - Podem matricular-se no 12.º ano os alunos que tiverem completado o 11.º ano e ainda aqueles cujas habilitações forem consideradas equivalentes ou suficientes para o efeito.
 
 3 - As condições de matrícula e a equivalência ou suficiência de habilitações, bem como o montante das propinas a satisfazer, serão fixadas, conforme os casos, por portaria do Ministro da Educação e Ciência ou em conjunto com o Ministro das Finanças e do Plano.
 
-###### Art. 8.º - 1 - A docência do 12.º ano de escolaridade será assegurada por professores do ensino secundário portadores de habilitação académica adequada.
+Art. 8.º - 1 - A docência do 12.º ano de escolaridade será assegurada por professores do ensino secundário portadores de habilitação académica adequada.
 
 2 - Para a docência de disciplinas ou áreas específicas da via profissionalizante poderá, se necessário, recorrer-se a contratos com profissionais qualificados das áreas referidas.
 
 3 - O estatuto e habilitações dos docentes do 12.º ano, bem como as formas e regras de contratação dos profissionais referidos no número anterior, serão regulamentados por portaria do Ministro da Educação e Ciência.
 
-###### Art. 9.º - 1 - A aprovação em todas as disciplinas de qualquer dos planos de estudos da via de ensino do 12.º ano habilita à candidatura de ingresso nos cursos do ensino superior, segundo regras a definir para cada curso por portaria do Ministro da Educação e Ciência.
+Art. 9.º - 1 - A aprovação em todas as disciplinas de qualquer dos planos de estudos da via de ensino do 12.º ano habilita à candidatura de ingresso nos cursos do ensino superior, segundo regras a definir para cada curso por portaria do Ministro da Educação e Ciência.
 
 2 - A aprovação em todas as disciplinas de qualquer dos planos de estudos da via profissionalizante do 12.º ano habilita à candidatura ao ingresso em cursos correspondentes do ensino superior politécnico em condições de bonificação relativamente aos candidatos oriundos da via de ensino.
 
@@ -148,20 +171,20 @@ Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira, o Governo 
 
 4 - Sem prejuízo do preceituado nos números anteriores, serão definidas oportunamente as condições que permitirão a alunos habilitados com o 12.º ano da via profissionalizante e com disciplinas do Ano Propedêutico a obtenção dos requisitos de candidatura ao ingresso no ensino superior.
 
-###### Art. 10.º - 1 - Sem prejuízo do disposto no artigo 6.º e enquanto não for possível garantir o regime de ensino presencial através da rede de estabelecimentos de ensino secundário, poderão admitir-se regimes mistos de frequência, a definir por portaria do Ministro da Educação e Ciência.
+Art. 10.º - 1 - Sem prejuízo do disposto no artigo 6.º e enquanto não for possível garantir o regime de ensino presencial através da rede de estabelecimentos de ensino secundário, poderão admitir-se regimes mistos de frequência, a definir por portaria do Ministro da Educação e Ciência.
 
 2 - O estabelecimento dos regimes mistos previstos no número anterior caberá ao Instituto Português de Ensino à Distância, que, para o efeito, procederá em estreita ligação com a Direcção-Geral do Ensino Secundário.
 
-###### Art. 11.º O regime estabelecido por este decreto-lei vigorará a partir do ano lectivo de 1980-1981 e será revisto no âmbito de uma futura reorganização do ensino secundário.
+Art. 11.º O regime estabelecido por este decreto-lei vigorará a partir do ano lectivo de 1980-1981 e será revisto no âmbito de uma futura reorganização do ensino secundário.
 
-###### Art. 12.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência.
+Art. 12.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência.
 
-###### Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 14 de Julho de 1980.**
+Promulgado em 14 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

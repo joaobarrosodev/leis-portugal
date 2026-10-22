@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 199/1977, 2º Suplemento, Série I de 1977-08-29
   number: '199'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2080-(16) a 2080-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19902/00160018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1604cb62dfcd4c6034f3c2a967232eb5cc7d4654bc8e962905f4a673b9a0d7ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e795293000782e51a78804e637b5be91520874944556ff47c4804dc1f53a67b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Comercial
+- Crédito a Longo Prazo
+- Crédito a Médio Prazo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381528:por
+  label: "Alterados os artigos 4.º e 10.º pelo DEC LEI.260/79.31.07.1979.MFP, DR.IS [175] de 31.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1979-381528
+  date: '1979-07-31'
+- type: amended_by
+  target: pt:dre:193613:por
+  label: Alterado o art. 3.º e acrescentado um n.º5 ao art. 3.º do presente diploma, pelo(a) Decreto-Lei n.º 34/86 - Diário
+    da República n.º 51/1986, Série I de 1986-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1986-193613
+  date: '1986-03-03'
+- type: cites
+  target: pt:dre:142087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526201:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:34Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +132,7 @@ Considerando, em ordem à concretização deste propósito, a necessidade de pro
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os bancos comerciais podem efectuar operações de crédito a médio ou longo prazo que resultem da aplicação de capitais alheios, observados os princípios estabelecidos no presente diploma e demais condicionalismos estabelecidos em disposições legais e regulamentares em vigor.
+Artigo 1.º - 1. Os bancos comerciais podem efectuar operações de crédito a médio ou longo prazo que resultem da aplicação de capitais alheios, observados os princípios estabelecidos no presente diploma e demais condicionalismos estabelecidos em disposições legais e regulamentares em vigor.
 
 2. Considerar-se-ão operações de crédito a médio prazo aquelas em que o crédito é concedido por um prazo superior a um ano e inferior a cinco anos.
 
@@ -111,7 +142,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5. O prazo das operações será contado a partir da data em que, nos termos acordados com o respectivo beneficiário, os fundos mutuados forem colocados à sua disposição.
 
-###### Art. 2.º - 1. Na realização das operações contempladas neste diploma, os bancos comerciais poderão utilizar os seguintes recursos:
+Art. 2.º - 1. Na realização das operações contempladas neste diploma, os bancos comerciais poderão utilizar os seguintes recursos:
 
 a) Depósitos a prazo superior a cento e oitenta dias;
 
@@ -121,7 +152,7 @@ c) Quaisquer outros fundos obtidos nos mercados nacional ou estrangeiro em condi
 
 2. O Ministro das Finanças poderá autorizar por portaria os bancos comerciais a emitir obrigações, cujo regime fixará, ficando o produto das emissões consignado à realização de operações de crédito a médio ou longo prazo que tenham por objecto o financiamento de empreendimentos de reconhecido interesse para o desenvolvimento da economia nacional.
 
-###### Art. 3.º - 1. Das operações de crédito a médio ou longo prazo podem beneficiar empresas dos sectores primário e secundário e dos transportes e comunicações, bem como do turismo, desde que a natureza das aplicações respeite os princípios regulamentares a emitir pelo Banco de Portugal.
+Art. 3.º - 1. Das operações de crédito a médio ou longo prazo podem beneficiar empresas dos sectores primário e secundário e dos transportes e comunicações, bem como do turismo, desde que a natureza das aplicações respeite os princípios regulamentares a emitir pelo Banco de Portugal.
 
 2. As operações de crédito predial poderão, igualmente, ser para o efeito consideradas, sempre que, respeitada a respectiva regulamentação do Banco de Portugal, tenham por objecto facultar recursos financeiros a utilizar em:
 
@@ -133,7 +164,7 @@ b) Quaisquer outras construções de reconhecido interesse para o fomento da act
 
 4. Serão do mesmo modo abrangidas pelas disposições deste diploma as operações de saneamento financeiro de empresas economicamente viáveis, realizadas pelas instituições de crédito, e que obedeçam às disposições legais aplicáveis e às respectivas instruções complementares do Banco de Portugal.
 
-###### Art. 4.º - 1. Os bancos comerciais deverão, anualmente, aplicar, directa ou indirectamente, em operações de crédito a médio ou longo prazo, uma percentagem, a fixar por portaria do Ministro das Finanças, do aumento que, no mesmo período, se verifique no volume dos seus depósitos a prazo superior a cento e oitenta dias.
+Art. 4.º - 1. Os bancos comerciais deverão, anualmente, aplicar, directa ou indirectamente, em operações de crédito a médio ou longo prazo, uma percentagem, a fixar por portaria do Ministro das Finanças, do aumento que, no mesmo período, se verifique no volume dos seus depósitos a prazo superior a cento e oitenta dias.
 
 2. Para efeito do disposto no número anterior, considerar-se-á, designadamente, aplicação indirecta a que consistir em:
 
@@ -149,11 +180,11 @@ e) Constituição de depósitos a prazo superior a um ano na Caixa Geral de Dep�
 
 3. A verificação do preceituado no n.º 1 far-se-á semestralmente e as correcções a que haja lugar deverão efectuar-se até ao termo do primeiro mês do semestre seguinte.
 
-###### Art. 5.º - 1. A concessão de crédito a médio e a longo prazos supõe a existência de estudos que demonstrem a viabilidade económico-financeira da empresa e do respectivo projecto de investimento, podendo ser solicitadas as garantias que se julguem adequadas à cobertura do risco de crédito a conceder.
+Art. 5.º - 1. A concessão de crédito a médio e a longo prazos supõe a existência de estudos que demonstrem a viabilidade económico-financeira da empresa e do respectivo projecto de investimento, podendo ser solicitadas as garantias que se julguem adequadas à cobertura do risco de crédito a conceder.
 
 2. Tratando-se de garantia real, os bens sobre que incida deverão ser seguros contra os riscos usuais.
 
-###### Art. 6.º - 1. O Banco de Portugal, dentro da orientação geral do crédito definida pelo Governo, e no uso da competência que lhe é atribuída, poderá refinanciar, por prazo não superior a um ano, as instituições de crédito que intervenham nas operações a que respeita o presente diploma.
+Art. 6.º - 1. O Banco de Portugal, dentro da orientação geral do crédito definida pelo Governo, e no uso da competência que lhe é atribuída, poderá refinanciar, por prazo não superior a um ano, as instituições de crédito que intervenham nas operações a que respeita o presente diploma.
 
 2. A Caixa Geral de Depósitos poderá, igualmente, conceder crédito às instituições que intervenham nas operações a médio ou longo prazo, nos termos da [Portaria n.º 99-B/77](https://diariodarepublica.pt/dr/detalhe/portaria/99-b-1977-509030), de 28 de Fevereiro.
 
@@ -161,26 +192,26 @@ e) Constituição de depósitos a prazo superior a um ano na Caixa Geral de Dep�
 
 4. Poderão ser acordadas entre o Banco de Portugal ou a Caixa Geral de Depósitos e os bancos comerciais cláusulas relativas ao pagamento antecipado dos créditos concedidos nos termos deste artigo.
 
-###### Art. 7.º - 1. Independentemente do previsto na lei geral ou do acordado pelas partes, os créditos concedidos ao abrigo do presente diploma tornam-se imediatamente exigíveis quando, sem autorização do credor, as efectivas aplicações forem diferentes das que justificaram a sua concessão.
+Art. 7.º - 1. Independentemente do previsto na lei geral ou do acordado pelas partes, os créditos concedidos ao abrigo do presente diploma tornam-se imediatamente exigíveis quando, sem autorização do credor, as efectivas aplicações forem diferentes das que justificaram a sua concessão.
 
 2. Em qualquer caso de exigibilidade antecipada, poderá o banco credor, por meio de interpelação judicial ou extrajudicial, exigir ao devedor a totalidade da dívida.
 
 3. Se a exigibilidade antecipada decorrer da circunstância prevista no n.º 1 deste artigo, o banco credor tem direito a exigir metade do juro correspondente ao período de antecipação.
 
-###### Art. 8.º - 1. As instituições de crédito deverão dispor, de acordo com modelo a fornecer pelo Banco de Portugal, de um registo dos pedidos de crédito ou de prestação de garantia em financiamentos externos, cuja justificação se encontre na realização de investimentos.
+Art. 8.º - 1. As instituições de crédito deverão dispor, de acordo com modelo a fornecer pelo Banco de Portugal, de um registo dos pedidos de crédito ou de prestação de garantia em financiamentos externos, cuja justificação se encontre na realização de investimentos.
 
 2. Mensalmente, e até ao dia 15 do mês seguinte àquele a que respeitem, cada instituição de crédito fornecerá ao Banco de Portugal informação das alterações sofridas pelos registos indicados no n.º 1.
 
-###### Art. 9.º As instituições especiais de crédito enviarão ao Banco de Portugal, de acordo com as instruções que por este lhes foram transmitidas, elementos de informação sobre as operações de crédito que realizarem com os bancos comerciais nos termos da alínea b) do n.º 1 do artigo 2.º deste diploma.
+Art. 9.º As instituições especiais de crédito enviarão ao Banco de Portugal, de acordo com as instruções que por este lhes foram transmitidas, elementos de informação sobre as operações de crédito que realizarem com os bancos comerciais nos termos da alínea b) do n.º 1 do artigo 2.º deste diploma.
 
-###### Art. 10.º Sempre que os bancos comerciais não atinjam os objectivos resultantes da aplicação do disposto no n.º 1 do artigo 4.º do presente diploma, poderá o Banco de Portugal determinar a constituição de depósitos especiais até ao montante em falta.
+Art. 10.º Sempre que os bancos comerciais não atinjam os objectivos resultantes da aplicação do disposto no n.º 1 do artigo 4.º do presente diploma, poderá o Banco de Portugal determinar a constituição de depósitos especiais até ao montante em falta.
 
-###### Art. 11.º São revogados os artigos 1.º a 14.º do [Decreto-Lei n.º 48948](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48948-1969-526201), de 3 de Abril de 1969, bem como, na parte aplicável, o artigo 1.º do [Decreto-Lei n.º 199/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1970-142087), de 8 de Maio.
+Art. 11.º São revogados os artigos 1.º a 14.º do [Decreto-Lei n.º 48948](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48948-1969-526201), de 3 de Abril de 1969, bem como, na parte aplicável, o artigo 1.º do [Decreto-Lei n.º 199/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1970-142087), de 8 de Maio.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 29 de Agosto de 1977.**
+Promulgado em 29 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

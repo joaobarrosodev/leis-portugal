@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/28600/26862695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/842-1976-408107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fc59f9f2c6089fb4c0cb46d61104333db46a81b9ad4b7e0a22c28950da5a895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 327d703268c365d3dd3a101d9f5b6b7787d2d52cbb06e6c358bce14bd0589580
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Arquivo
+- Comissão de Fiscalização
+- Conselho de Administração
+- Contabilidade
+- Criação de Empresas
+- Definição de Competências
+- Despesas de Deslocação
+- Empresa Pública
+- Estatuto
+- Mandato
+- Ministro da Indústria e Tecnologia
+- Ministro das Finanças
+- Ministro do Comércio e Turismo
+- Orçamento
+- Património
+- Pessoal Dirigente
+- Petroquímica
+- Presidente
+- Prestação de Contas
+- Previdência Social
+- Receita
+- Regime de Pessoal
+- Regime Fiscal
+- Responsabilidade Civil
+- Responsabilidade Criminal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considera revogado, a partir de 13.05.2018 e nos termos do art. 1.º, o Dec Lei 842/76 de 09-dez DR.IS [286] 1976-12-09
+    pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:690273:por
+  label: Retificado pelo(a) Declaração - Diário da República n.º 302/1976, 2º Suplemento, Série I de 1976-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-690273
+  date: '1976-12-30'
 article_structure:
-  article_count: 58
+  article_count: 57
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:53Z'
   warnings: []
   errors: []
 ---
@@ -109,27 +150,27 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criada a empresa pública Petroquímica e Fibras Sintéticas, E. P., abreviadamente designada por Petrofibras.
+Artigo 1.º - 1. É criada a empresa pública Petroquímica e Fibras Sintéticas, E. P., abreviadamente designada por Petrofibras.
 
 2. A Petrofibras é uma pessoa colectiva dotada de personalidade jurídica, autonomia administrativa, financeira e patrimonial, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo que faz parte integrante do presente diploma e, subsidiariamente, pelas normas de direito privado.
 
-###### Art. 2.º O capital inicial da Petrofibras será constituído por dotação do Estado ou de outras pessoas colectivas de direito público, no montante de 120000 contos, a atribuir para o efeito por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, no prazo de trinta dias, a contar da publicação do presente diploma.
+Art. 2.º O capital inicial da Petrofibras será constituído por dotação do Estado ou de outras pessoas colectivas de direito público, no montante de 120000 contos, a atribuir para o efeito por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, no prazo de trinta dias, a contar da publicação do presente diploma.
 
-###### Art. 3.º Os poderes de tutela do Governo sobre a Petrofibras são exercidos pelo Ministro da Indústria e Tecnologia.
+Art. 3.º Os poderes de tutela do Governo sobre a Petrofibras são exercidos pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 4.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeite a mais de um Ministério.
+Art. 4.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeite a mais de um Ministério.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 25 de Novembro de 1976.**
+Promulgado em 25 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo ao Decreto-Lei n.º 842/76
+Anexo ao Decreto-Lei n.º 842/76
 
 Estatuto da Petroquímica e Fibras Sintéticas, E. P., Petrofibras
 
@@ -719,4 +760,4 @@ Os rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação 
 
 A empresa fica sujeita à tributação directa e indirecta, nos termos gerais de direito fiscal.
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

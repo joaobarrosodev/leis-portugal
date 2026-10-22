@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12100/11671168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1976-426928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc726cc47e1220902b6e48da7b1bbd2f6557cd3d5a4c08ff467355310334c6d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d53d1a244c6ccd3f0e519d7b85a13b50af62c001acf89ea939482156912fd6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Avicultura
+- Controlo Sanitário
+- Direcção Geral dos Serviços Pecuários
+- Exportação
+- Importação
+- OVO
+- Produção Animal
+- Reprodução Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:383456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:534975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:427163:por
+  label: Rectificado pela DECL.DD8930.05.06.1976.PCM, DR.IS [132] de 05.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427163
+  date: '1976-06-05'
+- type: corrected_by
+  target: pt:dre:431381:por
+  label: Rectificado, e publicada a tabela a que se refere o artigo 15.º, pela DECL.DD8292.01.07.1976.PCM, DR.IS [152] de
+    01.07.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-431381
+  date: '1976-07-01'
+- type: repealed_by
+  target: pt:dre:383456:por
+  label: "Revogado pelo DEC LEI.182/79.15.06.1979.MAP, DR.IS [136] de 15.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1979-383456
+  date: '1979-06-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:22Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +130,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Para os fins do presente diploma, as actividades avícolas classificam-se em actividades de reprodução e actividades de produção.
+Artigo 1.º - 1. Para os fins do presente diploma, as actividades avícolas classificam-se em actividades de reprodução e actividades de produção.
 
 2. As actividades de reprodução compreendem:
 
@@ -106,7 +140,7 @@ b) Aviários de multiplicação - os que, mediante a utilização exclusiva dos 
 
 3. As actividades de produção compreendem os aviários que, a partir de aves fornecidas pelos aviários de multiplicação, se dedicam à exploração de carne ou de ovos.
 
-###### Art. 2.º - 1. O exercício das actividades avícolas de selecção e de multiplicação carece de autorização da Direcção-Geral dos Serviços Pecuários.
+Art. 2.º - 1. O exercício das actividades avícolas de selecção e de multiplicação carece de autorização da Direcção-Geral dos Serviços Pecuários.
 
 2. A autorização mencionada no número anterior só será concedida aos aviários que tenham assegurada assistência de um médico veterinário credenciado pelo Sindicato Nacional dos Médicos Veterinários e ajuramentado pela Direcção-Geral dos Serviços Pecuários.
 
@@ -114,9 +148,9 @@ b) Aviários de multiplicação - os que, mediante a utilização exclusiva dos 
 
 4. A autorização referida neste artigo poderá vir a ser condicionada, suspensa ou retirada.
 
-###### Art. 3.º É obrigatório o registo na Direcção-Geral dos Serviços Pecuários dos aviários de produção que obedeçam às condições que venham a ser regulamentadas nos termos das alíneas b) e c) do artigo 4.º
+Art. 3.º É obrigatório o registo na Direcção-Geral dos Serviços Pecuários dos aviários de produção que obedeçam às condições que venham a ser regulamentadas nos termos das alíneas b) e c) do artigo 4.º
 
-###### Art. 4.º O Secretário de Estado do Fomento Agrário definirá por portaria:
+Art. 4.º O Secretário de Estado do Fomento Agrário definirá por portaria:
 
 a) Os requisitos a que devem obedecer os produtos a ceder por aviários de reprodução e, bem assim, os relativos ao transporte dos mesmos produtos;
 
@@ -128,11 +162,11 @@ d) As condições em que a autorização a que respeita o artigo 2.º pode ser c
 
 e) O processo de aplicação das sanções consignadas nos artigos 9.º a 12.º
 
-###### Art. 5.º - 1. É vedada a implantação de outros aviários, centros de abate, fábricas de alimentos compostos e centros de classificação de ovos a menos de 200 m dos locais onde já se exerçam actividades de reprodução e de produção autorizadas e registadas nos termos dos artigos 2.º e 3.º
+Art. 5.º - 1. É vedada a implantação de outros aviários, centros de abate, fábricas de alimentos compostos e centros de classificação de ovos a menos de 200 m dos locais onde já se exerçam actividades de reprodução e de produção autorizadas e registadas nos termos dos artigos 2.º e 3.º
 
 2. A implantação de quaisquer explorações de aves a distância superior a 200 m, mas inferior a 500 m, das actividades referidas no número antecedente determina a obrigatoriedade de assistência prestada por médico veterinário credenciado pelo Sindicato Nacional dos Médicos Veterinários e ajuramentado perante a Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 6.º Os aviários que exerçam actividades de reprodução ou de produção ficam obrigados, perante a Direcção-Geral dos Serviços Pecuários, a dar cumprimento às prescrições legais de índole hígio-sanitária e zootécnica que visem salvaguardar o património avícola nacional, nomeadamente:
+Art. 6.º Os aviários que exerçam actividades de reprodução ou de produção ficam obrigados, perante a Direcção-Geral dos Serviços Pecuários, a dar cumprimento às prescrições legais de índole hígio-sanitária e zootécnica que visem salvaguardar o património avícola nacional, nomeadamente:
 
 a) Assegurar permanente contrôle das doenças infecto-contagiosas e parasitárias, sobretudo de índole enzoótica e epizoótica;
 
@@ -140,58 +174,58 @@ b) Facilitar as inspecções que visem garantir a origem, a qualidade e a sanida
 
 c) Fornecer os elementos de ordem sanitária e zootécnica que lhes forem solicitados.
 
-###### Art. 7.º Os aviários de reprodução são obrigados a comunicar, com a possível exactidão, todas as vendas e cedências de aves, indicando, em relação a cada partida, a data da expedição, o número de aves e sua aptidão e o aviário do destino.
+Art. 7.º Os aviários de reprodução são obrigados a comunicar, com a possível exactidão, todas as vendas e cedências de aves, indicando, em relação a cada partida, a data da expedição, o número de aves e sua aptidão e o aviário do destino.
 
-###### Art. 8.º - 1. A importação de aves reprodutoras ou de ovos para incubação carece de parecer favorável da Direcção-Geral dos Serviços Pecuários.
+Art. 8.º - 1. A importação de aves reprodutoras ou de ovos para incubação carece de parecer favorável da Direcção-Geral dos Serviços Pecuários.
 
 2. É aplicável à importação de aves reprodutoras o disposto no artigo 6.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, seja qual for o seu valor e o meio de transporte utilizado, devendo exigir-se sempre a apresentação de certificado zootécnico oficial do país de origem.
 
 3. O preceituado no número anterior aplica-se à importação de ovos para incubação, a qual, todavia, só será permitida a título excepcional.
 
-###### Art. 9.º - O exercício de actividades avícolas com inobservância do disposto no n.º 1 do artigo 2.º constitui contravenção punível com multa de 50000$00 para os aviários de selecção e de 25000$00 para os de multiplicação.
+Art. 9.º - O exercício de actividades avícolas com inobservância do disposto no n.º 1 do artigo 2.º constitui contravenção punível com multa de 50000$00 para os aviários de selecção e de 25000$00 para os de multiplicação.
 
 2. Quando o contraventor não tenha diligenciado a obtenção de autorização no prazo que lhe venha a ser determinado após aplicação da multa antes referida, continuando ilegalmente a exploração, ser-lhe-á aplicado o dobro da multa e suspensão da actividade até que se mostre autorizado.
 
-###### Art. 10.º - 1. A falta de cumprimento do disposto no artigo 3.º dá lugar a advertência e à fixação de um prazo reputado suficiente para satisfação dessa obrigação.
+Art. 10.º - 1. A falta de cumprimento do disposto no artigo 3.º dá lugar a advertência e à fixação de um prazo reputado suficiente para satisfação dessa obrigação.
 
 2. Decorrido o prazo sem que o interessado tenha solicitado o registo, nem tenha suspendido a actividade, ser-lhe-á aplicada multa de 5000$00 e marcado novo prazo para o mesmo efeito.
 
 3. Se ainda assim não der cumprimento à obrigação, o interessado será punido com o dobro da multa anterior e suspensão da actividade até que se ache satisfeita a condição.
 
-###### Art. 11.º - 1. A inobservância do preceituado nos artigos 6.º e 7.º acarreta, para os aviários de reprodução, multa de 500$00, e de 2500$00, para os de produção.
+Art. 11.º - 1. A inobservância do preceituado nos artigos 6.º e 7.º acarreta, para os aviários de reprodução, multa de 500$00, e de 2500$00, para os de produção.
 
 2. As multas serão elevadas para o dobro no caso de reincidência.
 
 3. Se houver segunda reincidência, a multa será elevada ao dobro da antecedente e cumulada com o encerramento da actividade.
 
-###### Art. 12.º A contravenção do disposto no artigo 5.º implicará o encerramento das actividades que tenham lugar nas instalações ilegalmente implantadas e multa de 10000$00.
+Art. 12.º A contravenção do disposto no artigo 5.º implicará o encerramento das actividades que tenham lugar nas instalações ilegalmente implantadas e multa de 10000$00.
 
-###### Art. 13.º A aplicação das sanções previstas no presente diploma é da competência da Direcção-Geral dos Serviços Pecuários, cabendo dela recurso para o Ministro da Agricultura e Pescas.
+Art. 13.º A aplicação das sanções previstas no presente diploma é da competência da Direcção-Geral dos Serviços Pecuários, cabendo dela recurso para o Ministro da Agricultura e Pescas.
 
-###### Art. 14.º O encerramento de actividade, a que se referem os artigos 9.º a 12.º, efectuar-se-á, quando necessário, mediante intervenção da autoridade policial solicitada pela Direcção-Geral dos Serviços Pecuários.
+Art. 14.º O encerramento de actividade, a que se referem os artigos 9.º a 12.º, efectuar-se-á, quando necessário, mediante intervenção da autoridade policial solicitada pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 15.º - 1. Pelo exercício das actividades de selecção e de multiplicação consideradas no presente diploma serão cobradas as importâncias constantes da tabela anexa, as quais constituirão receitas da Direcção-Geral dos Serviços Pecuários, a inscrever em «Conta de ordem», sob a rubrica «Melhoramento avícola».
+Art. 15.º - 1. Pelo exercício das actividades de selecção e de multiplicação consideradas no presente diploma serão cobradas as importâncias constantes da tabela anexa, as quais constituirão receitas da Direcção-Geral dos Serviços Pecuários, a inscrever em «Conta de ordem», sob a rubrica «Melhoramento avícola».
 
 2. Estas receitas destinam-se a fazer face a despesas relacionadas com a concessão das autorizações para o exercício das actividades avícolas de selecção e multiplicação e com o registo de aviários de produção, a que se referem os artigos 2.º e 3.º, e ainda com as verificações efectuadas para cumprimento do disposto no artigo 6.º
 
 3. A tabela acima mencionada poderá ser actualizada por despacho do Secretário de Estado do Fomento Agrário.
 
-###### Art. 16.º O produto da cobrança das multas devidas nos termos deste diploma constitui receita do Estado.
+Art. 16.º O produto da cobrança das multas devidas nos termos deste diploma constitui receita do Estado.
 
-###### Art. 17.º Para efeito de cobrança coerciva das importâncias advindas da aplicação do disposto no artigo 15.º e das multas a que se referem os artigos 9.º a 12.º, servirá de título executivo o certificado de dívida passado pela Direcção-Geral dos Serviços Pecuários.
+Art. 17.º Para efeito de cobrança coerciva das importâncias advindas da aplicação do disposto no artigo 15.º e das multas a que se referem os artigos 9.º a 12.º, servirá de título executivo o certificado de dívida passado pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 18.º Cabem às Juntas Regionais dos Açores e da Madeira, através das Intendências de Pecuária, as atribuições que no continente são cometidas por este diploma à Direcção-Geral dos Serviços Pecuários.
+Art. 18.º Cabem às Juntas Regionais dos Açores e da Madeira, através das Intendências de Pecuária, as atribuições que no continente são cometidas por este diploma à Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 19.º O disposto no presente diploma não é aplicável às aves cinegéticas, ornamentais e canoras, nessa qualidade exploradas ou mantidas.
+Art. 19.º O disposto no presente diploma não é aplicável às aves cinegéticas, ornamentais e canoras, nessa qualidade exploradas ou mantidas.
 
-###### Art. 20.º A Direcção-Geral dos Serviços Pecuários fixará os prazos para a legalização do exercício das actividades referentes à exploração das aves dos diferentes géneros.
+Art. 20.º A Direcção-Geral dos Serviços Pecuários fixará os prazos para a legalização do exercício das actividades referentes à exploração das aves dos diferentes géneros.
 
-###### Art. 21.º Fica revogado o [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), de 19 de Agosto de 1964.
+Art. 21.º Fica revogado o [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), de 19 de Agosto de 1964.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Artur Eduardo Brochado dos Santos Silva.
 
-**Promulgado em 13 de Maio de 1976.**
+Promulgado em 13 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

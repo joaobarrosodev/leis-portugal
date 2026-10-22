@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1970-140101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b964b75f523944c0b63463fff43c165acd05fb8cd1fad9fa6bd33e212f83c37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19d698f3fe9be8ba865a0d54ec463dda6e81990bcb5b101d6e144db85a1dd522
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Definição de Competências
+- Forças Armadas
+- Formas de Provimento
+- Ministro da Marinha
+- Ministro do Exército
+- Ministro do Ultramar
+- Pessoal Civil
+- Quadro de Pessoal
+- Secretário de Estado da Aeronáutica
 relationships:
 - type: amended_by
   target: pt:dre:476359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476359:por
+  label: "Dada nova redacção ao art. 7º pelo DEC LEI.321/74.10.07.1974.MDN, DG.IS [159] de 10.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1974-476359
+  date: '1974-07-10'
+- type: cites
+  target: pt:dre:478183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:15Z'
   warnings: []
   errors: []
 ---
@@ -95,39 +114,39 @@ Convindo reunir num único diploma a legislação sobre a matéria no que respei
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Em cada província ultramarina é criado um quadro de pessoal civil para as guarnições normais de cada um dos ramos das forças armadas, cuja constituição é fixada por portarias conjuntas dos Ministros da Defesa Nacional e do Ultramar e de titular de departamento militar interessado.
+Artigo 1.º Em cada província ultramarina é criado um quadro de pessoal civil para as guarnições normais de cada um dos ramos das forças armadas, cuja constituição é fixada por portarias conjuntas dos Ministros da Defesa Nacional e do Ultramar e de titular de departamento militar interessado.
 
-###### Art. 2.º - 1. O Estatuto do Funcionalismo Ultramarino é aplicável ao pessoal civil das guarnições normais dos três ramos das forças armadas em serviço nas províncias ultramarinas, sempre que tal aplicação não prejudique as disposições específicas do seu departamento militar.
+Art. 2.º - 1. O Estatuto do Funcionalismo Ultramarino é aplicável ao pessoal civil das guarnições normais dos três ramos das forças armadas em serviço nas províncias ultramarinas, sempre que tal aplicação não prejudique as disposições específicas do seu departamento militar.
 
 2. O pessoal referido neste artigo fica sob a alçada do Regulamento de Disciplina Militar, na parte aplicável a civis.
 
-###### Art. 3.º - 1. Compete aos Ministros do Exército e da Marinha e ao Secretário de Estado da Aeronáutica, em relação ao pessoal civil dos seus departamentos, o exercício da competência conferida ao Ministro do Ultramar e governadores pelo Estatuto do Funcionalismo Ultramarino.
+Art. 3.º - 1. Compete aos Ministros do Exército e da Marinha e ao Secretário de Estado da Aeronáutica, em relação ao pessoal civil dos seus departamentos, o exercício da competência conferida ao Ministro do Ultramar e governadores pelo Estatuto do Funcionalismo Ultramarino.
 
 2. A competência referida no número anterior pode ser delegada nos comandantes das regiões militares ou dos comandos territoriais independentes, nos comandantes das regiões navais ou de defesas marítimas territoriais ou nos comandantes das regiões ou zonas aéreas ultramarinas, conforme os casos.
 
-###### Art. 4.º Sempre que se verifique impossibilidade de recrutar pessoal civil, por assalariamento, satisfazendo à condição c) do artigo 12.º do Estatuto do Funcionalismo Ultramarino, pode a mesma ser dispensada.
+Art. 4.º Sempre que se verifique impossibilidade de recrutar pessoal civil, por assalariamento, satisfazendo à condição c) do artigo 12.º do Estatuto do Funcionalismo Ultramarino, pode a mesma ser dispensada.
 
-###### Art. 5.º Todos os encargos com o pessoal civil de que trata este diploma são suportados pelos orçamentos privativos das guarnições normais das províncias ultramarinas.
+Art. 5.º Todos os encargos com o pessoal civil de que trata este diploma são suportados pelos orçamentos privativos das guarnições normais das províncias ultramarinas.
 
-###### Art. 6.º - 1. Os descontos para a aposentação a efectuar nos vencimentos do pessoal de que trata este diploma são consignados ao tesouro de cada província, onde serão contabilizados em separado.
+Art. 6.º - 1. Os descontos para a aposentação a efectuar nos vencimentos do pessoal de que trata este diploma são consignados ao tesouro de cada província, onde serão contabilizados em separado.
 
 2. Se eventualmente se vierem a verificar insuficiências dos descontos efectuados para suportar os encargos com a aposentação, serão inscritos nos orçamentos privativos das guarnições normais os subsídios necessários para cobrirem essas deficiências.
 
 3. Quando necessário, serão inscritas nos mesmos orçamentos, sob a designação de duplicação de vencimentos, verbas destinadas a assegurar a execução do disposto no § 3.º do artigo 444.º do Estatuto do Funcionalismo Ultramarino relativamente ao pessoal de que trata este diploma
 
-###### Art. 7.º O pessoal civil que à data da publicação deste diploma se encontre ao serviço das forças armadas nas províncias ultramarinas poderá, mediante proposta fundamentada do comando em que sirva e despacho favorável do respectivo Ministro ou Secretário de Estado, ingressar nos quadros a publicar nos termos do artigo 1.º, com dispensa de concurso e da observância do disposto no § 1.º do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
+Art. 7.º O pessoal civil que à data da publicação deste diploma se encontre ao serviço das forças armadas nas províncias ultramarinas poderá, mediante proposta fundamentada do comando em que sirva e despacho favorável do respectivo Ministro ou Secretário de Estado, ingressar nos quadros a publicar nos termos do artigo 1.º, com dispensa de concurso e da observância do disposto no § 1.º do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 8.º Sem prejuízo no disposto na lei geral, o pessoal de que trata o presente diploma pode requerer, em qualquer altura, a contagem, para efeitos de aposentação, do tempo de serviço já prestado às forças armadas, em qualquer situação, pagando a indemnização correspondente nas condições estabelecidas no § 5.º do artigo 437.º do Estatuto do Funcionalismo Ultramarino.
+Art. 8.º Sem prejuízo no disposto na lei geral, o pessoal de que trata o presente diploma pode requerer, em qualquer altura, a contagem, para efeitos de aposentação, do tempo de serviço já prestado às forças armadas, em qualquer situação, pagando a indemnização correspondente nas condições estabelecidas no § 5.º do artigo 437.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 9.º O pessoal civil da Força Aérea dos quadros criados ao abrigo da legislação anterior transita para os quadros criados nos termos do artigo 1.º deste diploma, sem dependência de quaisquer formalidades e sem prejuízo de qualquer dos seus direitos.
+Art. 9.º O pessoal civil da Força Aérea dos quadros criados ao abrigo da legislação anterior transita para os quadros criados nos termos do artigo 1.º deste diploma, sem dependência de quaisquer formalidades e sem prejuízo de qualquer dos seus direitos.
 
-###### Art. 10.º É revogado o [Decreto n.º 47242](https://diariodarepublica.pt/dr/detalhe/decreto/47242-1966-478183), de 7 de Outubro de 1966.
+Art. 10.º É revogado o [Decreto n.º 47242](https://diariodarepublica.pt/dr/detalhe/decreto/47242-1966-478183), de 7 de Outubro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Julho de 1970.**
+Promulgado em 1 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

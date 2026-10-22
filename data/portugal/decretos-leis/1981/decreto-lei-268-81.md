@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/21300/24442465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,298 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f33877bf1d33e0dd306be83b184f3d507c16a0538cca59e8e630b48e9027174e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04740b12bb27f138942f83757e1cb3d5a2b948b55291f0b944e35009da24a066
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
+- Execução de Penas
+- Ministério da Justiça
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:520978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:185929:por
+  label: "Alargada a área de recrutamento para o pessoal dirigente pela PORT.6/83.1983.01.03.MJ DR.IS [1]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/6-1983-185929
+  date: '1983-01-03'
+- type: amended_by
+  target: pt:dre:381083:por
+  label: "Alterado, na parte referente ao pessoal técnico superior (pessoal médico) o quadro de pessoal constante do mapa\
+    \ III anexo ao presente diploma, pela PORT.620/84.22.08.1984.MJ, DR.IS [194] de 22.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/620-1984-381083
+  date: '1984-08-22'
+- type: amended_by
+  target: pt:dre:380941:por
+  label: "Alargado o quadro de pessoal aprovado pelo presente diploma, pela PORT.643/84.27.08.1984.PCM, DR.IS [198] de 27.08.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-1984-380941
+  date: '1984-08-27'
+- type: amended_by
+  target: pt:dre:151909:por
+  label: "Substituído o quadro de pessoal de enfermagem da Direcção-Geral dos Serviços Prisionais constante do mapa III anexo\
+    \ ao presente diploma, pela PORT.313/85.1985.05.28.PCM DR.IS [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-1985-151909
+  date: '1985-05-28'
+- type: amended_by
+  target: pt:dre:371585:por
+  label: "Alterada, na parte referente ao pessoal técnico auxiliar dos serviços complementares de diagnóstico e terapêutica,\
+    \ o quadro de pessoal constante do mapa III anexo ao presente diploma pela PORT.401/88.1988.06.24.MF, DR.IS [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/401-1988-371585
+  date: '1988-06-24'
+- type: amended_by
+  target: pt:dre:288191:por
+  label: "Alterado o quadro do pessoal pelo DN.114/92.06.07.1992.MF, DR.IS-B [151] de 06.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/114-1992-288191
+  date: '1992-07-06'
+- type: amended_by
+  target: pt:dre:267036:por
+  label: "Criado, no quadro de pessoal, o quadro paralelo pelo DEC LEI.230/93.26.06.1993.MAI, DR.IS-A [148] de 26.06.1993,\
+    \ constante do mapa III anexo ao citado diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1993-267036
+  date: '1993-06-26'
+- type: amended_by
+  target: pt:dre:554133:por
+  label: "Alterado o quadro do pessoal pelo DN.412/93.07.12.1993.MF, DR.IS-B [285] de 07.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/412-1993-554133
+  date: '1993-12-07'
+- type: amended_by
+  target: pt:dre:513632:por
+  label: "Extintos os institutos de criminologia referidos no n.º 1 do artigo 43.º, e revogada a legislação a eles referente,\
+    \ pelo DEC LEI.96/95.10.05.1995.MJ, DR.IS-A [108] de 10.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1995-513632
+  date: '1995-05-10'
+- type: amended_by
+  target: pt:dre:532239:por
+  label: "Alterada a redacção da Subsecção I da Secção II do Cap II e dos art 70º e 72º pelo Dec-Lei.10/97.1997.01.14.MJ,\
+    \ DR.IS-A [11]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1997-532239
+  date: '1997-01-14'
+- type: amended_by
+  target: pt:dre:3242808:por
+  label: "Alterado o quadro de pessoal pela PORT.197/98(2ªSÉRIE).1998.02.04.PCM, DR.IIS [43] de 20/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/197-1998-3242808
+  date: '1998-02-04'
+- type: amended_by
+  target: pt:dre:1717012:por
+  label: "Alterado o quadro de pessoal pela PORT.416/98(2ªSÉRIE).1998.03.31.PCM DR.IIS [90] DE 17/ABR/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/416-1998-1717012
+  date: '1998-03-31'
+- type: amended_by
+  target: pt:dre:3133031:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.550/98(2ªSÉRIE).1998.05.06.PCM DR.IIS [131]\
+    \ de 06/Jun/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-1998-3133031
+  date: '1998-05-06'
+- type: amended_by
+  target: pt:dre:3520670:por
+  label: "Alterado o quadro de pessoal PORT.1045/98(2ªSÉRIE).1998.10.01.PCM, DR.IIS [238] de 15/Out/1998 \0998 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1045-1998-3520670
+  date: '1998-10-01'
+- type: amended_by
+  target: pt:dre:1206902:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.373/99(2ªSÉRIE).1999.03.19.PCM, DR.IIS [81]\
+    \ de 07/Abr/1999, na redacção dada pela Port 316/87 de 16-Abr\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/373-1999-1206902
+  date: '1999-03-19'
+- type: amended_by
+  target: pt:dre:2235924:por
+  label: "Alterado o quadro de pessoal, pela PORT.573/99(2ªSÉRIE).1999.05.15.PCM DR.IIS [127] DE 01/JUN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/573-1999-2235924
+  date: '1999-05-15'
+- type: amended_by
+  target: pt:dre:374615:por
+  label: "Alterados os arts. 2º, 5º, 7º, 8º, 10º, 11º, 12º, 14º, 15º, 16º, 17º, 18º, 21º, 36º-D, 38º, 43º, 46º, 47º, 50º,\
+    \ 62º e 113º, na redacção dada pelo Dec Lei 10/97 de 14-Jan, aditados os arts. 17º-A e 17º-B e revogados os arts. 37º,\
+    \ 39º e 66º pelo DEC LEI.257/99.1999.07.07.MJ,DR.IS-A [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1999-374615
+  date: '1999-07-07'
+- type: amended_by
+  target: pt:dre:582196:por
+  label: "Alterados os arts. 2º, 8º, 12º, 46º, 47º, 62º, 71º e 72º e aditados os arts. 70º-A e 70º-B pelo DEC LEI.351/99.1999.09.03.MJ,DR.IS-A\
+    \ [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-1999-582196
+  date: '1999-09-03'
+- type: amended_by
+  target: pt:dre:2529701:por
+  label: "Alterado o quadro de pessoal (aprovado pelo presente diploma), pela PORT.306/2000(2ªSÉRIE).2000.02.11.MJ, DR.IIS\
+    \ [49] de 28/Fev/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-2000-2529701
+  date: '2000-02-11'
+- type: amended_by
+  target: pt:dre:2777633:por
+  label: "Alterado o quadro de pessoal, pela PORT.1508/2001(2ªSÉRIE).2001.08.23.MJ, DR.IIS [213] de 13/Set/2001, alterado\
+    \ pela Port 316/87, de 16-Abr\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1508-2001-2777633
+  date: '2001-08-23'
+- type: amended_by
+  target: pt:dre:3008079:por
+  label: "Alterado o quadro de pessoal pela PORT.1856/2001(2ªSÉRIE).2001.10.26.MJ, DR.IIS [265] de 15/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1856-2001-3008079
+  date: '2001-10-26'
+- type: amended_by
+  target: pt:dre:1167320:por
+  label: "Alterado o quadro de pessoal pela PORT.685/2002(2ªSÉRIE).2002.03.26.MJ, DR.IIS [100] de 30/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/685-2002-1167320
+  date: '2002-03-26'
+- type: amended_by
+  target: pt:dre:3499936:por
+  label: "Alterado o quadro de pessoal pela PORT.640/2002(2ªSÉRIE).2002.04.02.MJ, DR.IIS [92] de 19/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-2002-3499936
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:3499937:por
+  label: "Alterado o quadro de pessoal pela PORT.641/2002(2ªSÉRIE).2002.04.02.MJ DR.IIS [92] DE 19/ABR/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/641-2002-3499937
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:3499938:por
+  label: "Alterado o quadro de pessoal pela PORT.642/2002(2ªSÉRIE).2002.04.02.MJ, DR.IIS [92] de 19/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-2002-3499938
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:3499939:por
+  label: "Alterado o quadro de pessoal, pela PORT.643/2002(2ªSÉRIE).2002.04.02.MJ, DR.IIS [92] de 19/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-2002-3499939
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:817075:por
+  label: "Alterado o quadro de pessoal pela PORT.654/2002(2ªSÉRIE).2002.04.02.MJ, DR.IIS [94] de 22/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/654-2002-817075
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:817076:por
+  label: "Alterado o quadro de pessoal pela PORT.655/2002(2ªSÉRIE).2002.04.02.MJ, DR.IIS [94] de 22/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/655-2002-817076
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:817077:por
+  label: "Alterado o quadro de pessoal pela PORT.656/2002(2ªSÉRIE).2002.04.02.MJ, DR.IIS [94] de 22/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/656-2002-817077
+  date: '2002-04-02'
+- type: amended_by
+  target: pt:dre:1555231:por
+  label: "ALTERADO O QAUADRO DE PESSOAL PELA PORT.1454/2002(2ªSÉRIE).2002.08.22.MF, MJ, DR.IIS [232] DE 8/OUT/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1454-2002-1555231
+  date: '2002-08-22'
+- type: amended_by
+  target: pt:dre:1555232:por
+  label: "ALTERADO O QUADRO DE PESSSOAL PELA PORT.1455/2002(2ªSÉRIE).2002.08.22.MF, MJ, DR.IIS [232] DE 8/OUT/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1455-2002-1555232
+  date: '2002-08-22'
+- type: amended_by
+  target: pt:dre:2025281:por
+  label: "Alterado o quadro de pessoal pela PORT.984/2003(2ªSÉRIE).2002.12.17.MF e MJ, DR.IIS [174] de 30/Jul/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-2003-2025281
+  date: '2003-07-30'
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663336:por
+  label: "Revogadas as als. c), d) e e) do art. 70º, pelo DEC LEI.255/91.18.07.1991.MJ, DR.IS-A [[163]] de 18.07.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/255-1991-663336
+  date: '1991-07-18'
+- type: repealed_by
+  target: pt:dre:520978:por
+  label: "Revogado a partir de 01.05.2007 pelo DEC LEI.125/2007.27.04.2007.MJ, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2007-520978
+  date: '2007-04-27'
 article_structure:
   article_count: 115
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:47Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +456,7 @@ k) Exercer todos os demais poderes que lhe sejam conferidos pelas leis em vigor.
 
 ###### Artigo 6.º — (Delegação de competência)
 
-**O Ministro da Justiça pode delegar no director-geral competência para despachar assuntos de gestão corrente no domínio das atribuições da DGSP, bem como autorizar a sua subdelegação.**
+O Ministro da Justiça pode delegar no director-geral competência para despachar assuntos de gestão corrente no domínio das atribuições da DGSP, bem como autorizar a sua subdelegação.
 
 ###### Artigo 7.º — (Substituição)
 
@@ -1320,16 +1578,16 @@ j) O [Decreto-Lei n.º 168/80](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 31 de Agosto de 1981.**
+Promulgado em 31 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela de equivalências prevista nos artigos 87.º e 91.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21300/24442465.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21300/24442465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21300/24442465.pdf)
 
 Do MAPA I ao MAPA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21300/24442465.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21300/24442465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21300/24442465.pdf)

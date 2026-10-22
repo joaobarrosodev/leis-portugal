@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/564-1972-685606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c25f1e22979efe994fca8cf2636d595751cbcddd61ed354bb417fd328ab4ba13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0968a893331083262bda4af6da038b69ffc021ed7bf34c7f5e60fb14849dcd4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:219338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340841:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:35Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +99,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 26.º do [Decreto n.º 37279](https://diariodarepublica.pt/dr/detalhe/decreto/37279-1949-219338), de 14 de Janeiro de 1949, passa a ter a seguinte redacção:
+Artigo único. O artigo 26.º do [Decreto n.º 37279](https://diariodarepublica.pt/dr/detalhe/decreto/37279-1949-219338), de 14 de Janeiro de 1949, passa a ter a seguinte redacção:
 
-###### Art. 26.º A empresa pública Correios e Telecomunicações de Portugal tem o direito de revogar as licenças concedidas para utilização das máquinas de franquiar nos seguintes casos:
+Art. 26.º A empresa pública Correios e Telecomunicações de Portugal tem o direito de revogar as licenças concedidas para utilização das máquinas de franquiar nos seguintes casos:
 
 a) Mau ou irregular funcionamento das máquinas;
 
@@ -113,8 +121,8 @@ Decorrido o prazo de três anos, a contar do dia imediato ao da sua recolha, as 
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 18 de Dezembro de 1972.**
+Promulgado em 18 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

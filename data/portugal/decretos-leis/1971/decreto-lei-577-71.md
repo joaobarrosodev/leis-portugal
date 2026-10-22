@@ -49,36 +49,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1971-632228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e09f966dd91dab74c9503dc709bf30f1d8d13c3ca7119bd00029c02ff1c482c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ce8330199e11546b97219764e7100b61a26c80a9453cae60349395db3bd61ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Contrato
+- Financiamento
+- Fundo Nacional de Abono de Família
+- Habitação Social
+- Lisboa
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:25Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +105,9 @@ Não se exclui a possibilidade de, na medida do possível, serem autorizados nov
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Fundo Nacional do Abono de Família é autorizado a financiar, até ao limite de 60000 contos, a construção de habitações destinadas a famílias cujos chefes sejam beneficiários de uma caixa sindical de previdência e se encontrem abrangidos pelo contrato celebrado em escritura pública de 7 de Outubro de 1971 entre a Câmara Municipal de Lisboa e a Prodac - Associação de Produtividade na Auto-Construção.
+Artigo 1.º O Fundo Nacional do Abono de Família é autorizado a financiar, até ao limite de 60000 contos, a construção de habitações destinadas a famílias cujos chefes sejam beneficiários de uma caixa sindical de previdência e se encontrem abrangidos pelo contrato celebrado em escritura pública de 7 de Outubro de 1971 entre a Câmara Municipal de Lisboa e a Prodac - Associação de Produtividade na Auto-Construção.
 
-###### Art. 2.º - 1. O financiamento far-se-á mediante empréstimo à Prodac, pelo prazo de doze anos, e vence juros calculados à taxa de 2 por cento ao ano.
+Art. 2.º - 1. O financiamento far-se-á mediante empréstimo à Prodac, pelo prazo de doze anos, e vence juros calculados à taxa de 2 por cento ao ano.
 
 2. No contrato de mútuo outorgará também a Câmara Municipal de Lisboa, dando a garantia do Município quanto ao pontual reembolso dos capitais mutuados, nos termos dos planos de amortização que forem aprovados pelo Ministro das Corporações e Previdência Social.
 
@@ -109,20 +115,20 @@ Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do art
 
 4. Os depósitos por parte da Câmara Municipal de Lisboa far-se-ão no prazo de dez dias, a contar da data da respectiva interpelação pelo Fundo Nacional do Abono de Família.
 
-###### Art. 3.º A atribuição de uma casa construída com o financiamento previsto neste diploma a uma família cujo chefe não seja beneficiário de uma caixa sindical de previdência implica o imediato pagamento do valor das prestações vincendas respeitantes a essa habitação.
+Art. 3.º A atribuição de uma casa construída com o financiamento previsto neste diploma a uma família cujo chefe não seja beneficiário de uma caixa sindical de previdência implica o imediato pagamento do valor das prestações vincendas respeitantes a essa habitação.
 
-###### Art. 4.º Os pagamentos a favor do Fundo Nacional do Abono de Família para execução do presente diploma serão efectuados mediante guia de depósito, em quadruplicado, na Caixa Geral de Depósitos, Crédito e Previdência, devendo um dos exemplares ser remetido pela entidade depositante à Direcção-Geral da Previdência e Habitações Económicas.
+Art. 4.º Os pagamentos a favor do Fundo Nacional do Abono de Família para execução do presente diploma serão efectuados mediante guia de depósito, em quadruplicado, na Caixa Geral de Depósitos, Crédito e Previdência, devendo um dos exemplares ser remetido pela entidade depositante à Direcção-Geral da Previdência e Habitações Económicas.
 
-###### Art. 5.º - 1. Os juros dos capitais mutuados, nos termos deste decreto-lei, são isentos do imposto de capitais.
+Art. 5.º - 1. Os juros dos capitais mutuados, nos termos deste decreto-lei, são isentos do imposto de capitais.
 
 2. São isentas do imposto do selo a escritura de constituição do empréstimo e as guias de depósito das importâncias do reembolso dos referidos capitais.
 
-###### Art. 6.º Os casos omissos e as dúvidas suscitadas na execução deste diploma serão resolvidos por despacho do Ministro das Corporações e Previdência Social.
+Art. 6.º Os casos omissos e as dúvidas suscitadas na execução deste diploma serão resolvidos por despacho do Ministro das Corporações e Previdência Social.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Dezembro de 1971.**
+Promulgado em 10 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

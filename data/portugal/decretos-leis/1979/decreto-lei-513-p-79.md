@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 296/1979, 1º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3350-(16) a 3350-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29601/00160016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-p-1979-430019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25370569889c55e14465ffe2d5e0300bbb06200fe0ae094cd141875c65009bdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 378659aa507ae3f5dc70c652f238099dad0e14e779439e7621f786e9c4ebc48a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheias
+- Domínio Público Hídrico
+- Gestão dos Recursos
+- Recursos Hídricos
+- ZONA Adjacente
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:464419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:38Z'
   warnings: []
   errors: []
 ---
@@ -101,14 +119,14 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - Repõe-se em vigor a disciplina dos artigos 261.º do Regulamento dos Serviços Hidráulicos, aprovado por Decreto de 19 de Dezembro de 1892, e 5.º do [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934, mantendo-se a sua vigência até à publicação dos diplomas que vierem a definir, nos termos do artigo 14.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, as zonas adjacentes dos cursos de água, lagos e lagoas.
+Artigo único. - 1 - Repõe-se em vigor a disciplina dos artigos 261.º do Regulamento dos Serviços Hidráulicos, aprovado por Decreto de 19 de Dezembro de 1892, e 5.º do [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934, mantendo-se a sua vigência até à publicação dos diplomas que vierem a definir, nos termos do artigo 14.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, as zonas adjacentes dos cursos de água, lagos e lagoas.
 
 2 - As disposições do artigo 15.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, para os casos em que não se encontrem ainda definidas as zonas adjacentes dos cursos de água, nos termos do artigo 14.º do mesmo diploma, são aplicáveis aos campos marginais tradicionalmente inundados pelas águas, quer ordinárias, quer de cheias.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

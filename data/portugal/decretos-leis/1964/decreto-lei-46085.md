@@ -49,36 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46085-1964-535176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 723ced7f6aa81ffa398f90d381e81c04e4588df2e3e9734d9ab41f3d31914d47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 685bf8cadef192b6f71d151a16ac14032495f9006b5899d20f437352137e718c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Administrativo
+- Direcção Geral da Contabilidade Pública
+- Empréstimo
+- Formas de Provimento
+- Produção Animal
+- Promoção Profissional
+- Quadro de Pessoal
+- Secretaria de Estado da Agricultura
+- Senha de Presença
+- Serviço de Campanha de Fomento Pecuário
+relationships:
+- type: cites
+  target: pt:dre:154874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:22Z'
   warnings: []
   errors: []
 ---
@@ -97,27 +119,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os empréstimos referidos no artigo 2.º do [Decreto-Lei n.º 44419](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44419-1962-164576), de 26 de Junho de 1962, poderão ser em dinheiro ou em espécie, vencendo o juro mínimo fixado na [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946.
+Artigo 1.º Os empréstimos referidos no artigo 2.º do [Decreto-Lei n.º 44419](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44419-1962-164576), de 26 de Junho de 1962, poderão ser em dinheiro ou em espécie, vencendo o juro mínimo fixado na [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946.
 
-###### Art. 2.º Quando não haja garantia hipotecária, o gado emprestado ou adquirido com o produto do empréstimo constitui penhor do mesmo empréstimo, ficando o devedor seu fiel depositário e não podendo dispor dele sem prévia autorização do Serviço de Campanha de Fomento Pecuário.
+Art. 2.º Quando não haja garantia hipotecária, o gado emprestado ou adquirido com o produto do empréstimo constitui penhor do mesmo empréstimo, ficando o devedor seu fiel depositário e não podendo dispor dele sem prévia autorização do Serviço de Campanha de Fomento Pecuário.
 
-###### Art. 3.º As condições dos empréstimos, bem como a constituição de hipotecas, constarão de contrato celebrado por título particular, com reconhecimento presencial das assinaturas dos mutuários.
+Art. 3.º As condições dos empréstimos, bem como a constituição de hipotecas, constarão de contrato celebrado por título particular, com reconhecimento presencial das assinaturas dos mutuários.
 
 § 1.º Os empréstimos presumem-se aplicados em proveito comum do casal mutuário, se este for casado.
 
 § 2.º Os documentos particulares referidos no corpo do artigo, mesmo quando titulem empréstimos em espécie, têm força executiva.
 
-###### Art. 4.º Quando houver lugar a execução, para ela será competente o Tribunal de 1.ª Instância das Contribuições e Impostos de Lisboa.
+Art. 4.º Quando houver lugar a execução, para ela será competente o Tribunal de 1.ª Instância das Contribuições e Impostos de Lisboa.
 
 No caso do empréstimo em espécie, a execução fiscal terá por fim a cobrança de quantia certa correspondente ao valor atribuído ao gado no título que se executa.
 
 § único. Quando o crédito estiver garantido por penhor, será competente para a sua venda o mesmo Tribunal, observando-se o disposto nos artigos 1008.º e seguintes do Código de Processo Civil.
 
-###### Art. 5.º O pessoal contratado nos termos do artigo 1.º do [Decreto-Lei n.º 45457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45457-1963-680412), de 23 de Dezembro de 1963, poderá concorrer, com dispensa do limite de idade, aos quadros dos serviços da Secretaria de Estado da Agricultura, desde que haja sido admitido com menos de 35 anos de idade e possua, além de boas informações de serviço, as habilitações legalmente exigidas para os lugares a prover e não tenha tido interrupção de funções.
+Art. 5.º O pessoal contratado nos termos do artigo 1.º do [Decreto-Lei n.º 45457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45457-1963-680412), de 23 de Dezembro de 1963, poderá concorrer, com dispensa do limite de idade, aos quadros dos serviços da Secretaria de Estado da Agricultura, desde que haja sido admitido com menos de 35 anos de idade e possua, além de boas informações de serviço, as habilitações legalmente exigidas para os lugares a prover e não tenha tido interrupção de funções.
 
-###### Art. 6.º Os membros do conselho administrativo e o representante da Direcção-Geral da Contabilidade Pública junto do mesmo conselho têm direito ao abono, aqueles de uma gratificação e este de senhas de presença, cujos quantitativos serão fixados pelo Secretário de Estado da Agricultura com o acordo do Ministro das Finanças.
+Art. 6.º Os membros do conselho administrativo e o representante da Direcção-Geral da Contabilidade Pública junto do mesmo conselho têm direito ao abono, aqueles de uma gratificação e este de senhas de presença, cujos quantitativos serão fixados pelo Secretário de Estado da Agricultura com o acordo do Ministro das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
 

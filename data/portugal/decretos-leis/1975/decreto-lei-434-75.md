@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1975-314608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd199e248ca0dfdcd536ce43458182f673f460e5873ea3bb24ac91b7b68c641d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1028b67e9d58486413a187ed4ff50681d48e30a19d55641c08dab3f150785de3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Exoneração
+- Nacionalização
+- Pirites Alentejanas
+- Sociedade Mineira de Santiago
 relationships:
 - type: amended_by
   target: pt:dre:393862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393862:por
+  label: Extinta a Sociedade Mineira de Santigago, S.A.R.L., nacionalizada pelo presente diploma, pelo DEC LEI.510/79.1979.12.24.MIND
+    DR.IS [295] e determinada a transferência da universalidade dos direitos e obrigações da empresa e a tansição dos seus
+    tabalhadores para a Empresa Mineira e Metalúrgica do Alentejo, E. P. (EMMA).
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/510-1979-393862
+  date: '1979-12-24'
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:44Z'
   warnings: []
   errors: []
 ---
@@ -98,33 +118,33 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É declarada nacionalizada, com eficácia a contar de 10 de Julho de 1975, a Sociedade Mineira Santiago, S. A. R. L.
+Artigo 1.º - 1. É declarada nacionalizada, com eficácia a contar de 10 de Julho de 1975, a Sociedade Mineira Santiago, S. A. R. L.
 
 2. São igualmente declaradas nacionalizadas, com eficácia a contar da mesma data, as acções das Pirites Alentejanas, S. A. R. L., salvo as pertencentes a indivíduos de nacionalidade estrangeira que as tenham adquirido mediante importação de capitais devidamente autorizada ou a sociedades que não reúnam os requisitos de nacionalidade portuguesa estabelecidos no artigo 22.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
 3. As nacionalizações previstas nos n.os 1 e 2 deste artigo são feitas sem prejuízo dos direitos dos actuais titulares de acções representativas do capital privado a serem indemnizados.
 
-###### Art. 2.º O Estado pagará às entidades privadas titulares de acções nacionalizadas, contra entrega dos respectivos títulos, uma indemnização, a definir, quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias, a contar da data do início da eficácia da nacionalização.
+Art. 2.º O Estado pagará às entidades privadas titulares de acções nacionalizadas, contra entrega dos respectivos títulos, uma indemnização, a definir, quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias, a contar da data do início da eficácia da nacionalização.
 
-###### Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da sociedade a que se refere o n.º 1 do artigo 1.º, ou que se encontrem afectos à sua exploração, são transferidos para o Estado, integrados no património autónomo da empresa ou a ela igualmente afectos.
+Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da sociedade a que se refere o n.º 1 do artigo 1.º, ou que se encontrem afectos à sua exploração, são transferidos para o Estado, integrados no património autónomo da empresa ou a ela igualmente afectos.
 
 2. O disposto no número anterior constitui título comprovativo da transferência para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pela empresa e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
 
-###### Art. 4.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos e contratos celebrados pela sociedade referida no n.º 1 do artigo 1.º, a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
+Art. 4.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos e contratos celebrados pela sociedade referida no n.º 1 do artigo 1.º, a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
 
 2. A empresa nacionalizada assumirá igualmente a posição social que a empresa referida no n.º 1 do artigo 1.º detiver nas sociedades de que seja sócia à data do início da eficácia da nacionalização.
 
-###### Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da empresa referida no n.º 1 do artigo 1.º transitará automaticamente para a empresa nacionalizada.
+Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da empresa referida no n.º 1 do artigo 1.º transitará automaticamente para a empresa nacionalizada.
 
 2. Até entrar em vigor o regime a definir no estatuto a que se refere a alínea c) do artigo 14.º do presente decreto-lei, mantém-se a vigência da legislação aplicável ao trabalho prestado na empresa referida no n.º 1 do artigo 1.º, bem como as convenções de trabalho às quais tem estado vinculada aquela sociedade e o seu pessoal.
 
-###### Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da sociedade nacionalizada.
+Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da sociedade nacionalizada.
 
 2. Por resolução do Conselho de Ministros e mediante proposta do Ministro da Indústria e Tecnologia, será nomeada uma comissão administrativa para a sociedade nacionalizada, composta por três elementos de reconhecida competência.
 
 3. A comissão administrativa exercerá funções até à designação dos titulares dos órgãos de gestão que venham a resultar da reestruturação da empresa nacionalizada, prevista no artigo 13.º
 
-###### Art. 7.º - 1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos da sociedade, pertenciam ao conselho de administração, com excepção:
+Art. 7.º - 1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos da sociedade, pertenciam ao conselho de administração, com excepção:
 
 a) Da faculdade de demissão ou, quando assumam carácter colectivo, de alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
 
@@ -132,21 +152,21 @@ b) Da capacidade para a prática de actos que não estejam estritamente relacion
 
 2. A prática dos actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização do Ministro da Indústria e Tecnologia.
 
-###### Art. 8.º As remunerações dos membros da comissão administrativa serão fixadas por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo da sociedade nacionalizada.
+Art. 8.º As remunerações dos membros da comissão administrativa serão fixadas por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo da sociedade nacionalizada.
 
-###### Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
 
-###### Art. 10.º A comissão administrativa elaborará, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade, para apreciação do Ministro da Indústria e Tecnologia.
+Art. 10.º A comissão administrativa elaborará, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade, para apreciação do Ministro da Indústria e Tecnologia.
 
-###### Art. 11.º Os membros dos órgãos de administração e de fiscalização dissolvidos nos termos do presente diploma ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+Art. 11.º Os membros dos órgãos de administração e de fiscalização dissolvidos nos termos do presente diploma ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
 
-###### Art. 12.º - 1. São destituídos todos os membros do conselho de administração das Pirites Alentejanas, S. A. R. L.
+Art. 12.º - 1. São destituídos todos os membros do conselho de administração das Pirites Alentejanas, S. A. R. L.
 
 2. O conselho de administração das Pirites Alentejanas, S. A. R. L., passa a ser constituído por três administradores por parte do Estado, que coincidirão com os elementos da comissão administrativa a que se refere o artigo 6.º, e por um administrador eleito pelos accionistas estrangeiros.
 
-###### Art. 13.º As empresas a que se refere o artigo 1.º serão reestruturadas por diploma a publicar no prazo de noventa dias, contados a partir da data da publicação deste decreto-lei.
+Art. 13.º As empresas a que se refere o artigo 1.º serão reestruturadas por diploma a publicar no prazo de noventa dias, contados a partir da data da publicação deste decreto-lei.
 
-###### Art. 14.º A fim de preparar a reestruturação prevista no artigo anterior, a comissão administrativa da Sociedade Mineira Santiago, S. A. R. L., e o conselho de administração das Pirites Alentejanas, S. A. R. L., ficarão incumbidos de:
+Art. 14.º A fim de preparar a reestruturação prevista no artigo anterior, a comissão administrativa da Sociedade Mineira Santiago, S. A. R. L., e o conselho de administração das Pirites Alentejanas, S. A. R. L., ficarão incumbidos de:
 
 a) Proceder aos estudos organizatórios, técnicos, económicos, financeiros e jurídicos indispensáveis, bem como realizar as diligências que se mostrarem convenientes;
 
@@ -154,12 +174,12 @@ b) Realizar os estudos necessários para a elaboração de um estatuto unificado
 
 c) Estudar e propor as medidas legislativas ou de outra natureza requeridas pela execução útil das nacionalizações decretadas neste diploma.
 
-###### Art. 15.º O presente diploma entra imediatamente em vigor.
+Art. 15.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho.
 
-**Promulgado em 4 de Agosto de 1975.**
+Promulgado em 4 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

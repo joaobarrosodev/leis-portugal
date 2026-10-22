@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45016-1963-627981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c70713f845f6f7419d6adc3453a5161420a76d1385f02428821f334ef04afe0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 476667c8c13f6438ca724fbe034e2097e3d0c1221835252bc04a3890419a2df0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Militar
+- Ministro do Exército
+- Reforma
+- Regime de Pessoal
+- Reserva
+relationships:
+- type: cites
+  target: pt:dre:586846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668687:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:53Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +106,14 @@ Uma defeituosa aplicação da doutrina daqueles diplomas fez com que alguns inte
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro do Exército a mandar rever a situação dos sargentos-ajudantes e primeiros-sargentos passados à reserva ou à reforma sob invocação indevida ou inoportuna dos artigos 17.º do [Decreto n.º 22039](https://diariodarepublica.pt/dr/detalhe/decreto/22039-1932-586846), de 28 de Dezembro de 1932, e 62.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937.
+Artigo 1.º É autorizado o Ministro do Exército a mandar rever a situação dos sargentos-ajudantes e primeiros-sargentos passados à reserva ou à reforma sob invocação indevida ou inoportuna dos artigos 17.º do [Decreto n.º 22039](https://diariodarepublica.pt/dr/detalhe/decreto/22039-1932-586846), de 28 de Dezembro de 1932, e 62.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937.
 
-###### Art. 2.º A revisão far-se-á a requerimento dos interessados formulado no prazo de 180 dias, a contar da publicação deste decreto-lei.
+Art. 2.º A revisão far-se-á a requerimento dos interessados formulado no prazo de 180 dias, a contar da publicação deste decreto-lei.
 
-###### Art. 3.º A revisão importará a colocação dos interessados na situação e posto que normalmente lhes caberia se não tivessem passado à reserva ou à reforma.
+Art. 3.º A revisão importará a colocação dos interessados na situação e posto que normalmente lhes caberia se não tivessem passado à reserva ou à reforma.
 
-###### Art. 4.º Julgada procedente a revisão, os interessados não poderão pedir qualquer indemnização a título de perda ou diferença de vencimentos ou pensões deixadas de receber.
+Art. 4.º Julgada procedente a revisão, os interessados não poderão pedir qualquer indemnização a título de perda ou diferença de vencimentos ou pensões deixadas de receber.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

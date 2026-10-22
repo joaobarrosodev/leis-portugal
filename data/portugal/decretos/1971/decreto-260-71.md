@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/260-1971-643317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f11149a3baeac672511252ed24814aadb920f4c122e09b190786e5f1e631c87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18dc913427de902e8cc8c5cf1ef3cddc630b53ff0f0853627780ed02a25b890b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611509:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:55Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +111,9 @@ Sendo indispensável harmonizar as correspondentes disposições dos seus Estatu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 26.º, 55.º e 56.º do Estatuto Político-Administrativo da Província de Angola, aprovado pelo [Decreto n.º 45374](https://diariodarepublica.pt/dr/detalhe/decreto/45374-1963-611508), de 22 de Novembro de 1963, passa a ter a seguinte redacção:
+Artigo 1.º Os artigos 26.º, 55.º e 56.º do Estatuto Político-Administrativo da Província de Angola, aprovado pelo [Decreto n.º 45374](https://diariodarepublica.pt/dr/detalhe/decreto/45374-1963-611508), de 22 de Novembro de 1963, passa a ter a seguinte redacção:
 
-###### Art. 26.º - 1. O Conselho Legislativo é constituído por trinta e cinco vogais eleitos, e pelo procurador da República e director dos Serviços de Fazenda e Contabilidade como vogais natos.
+Art. 26.º - 1. O Conselho Legislativo é constituído por trinta e cinco vogais eleitos, e pelo procurador da República e director dos Serviços de Fazenda e Contabilidade como vogais natos.
 
 2. ...
 
@@ -117,7 +137,7 @@ g) Dezasseis serão eleitos por sufrágio directo dos cidadãos inscritos nos ca
 
 ...
 
-###### Art. 55.º As denominações e sedes dos distritos são:
+Art. 55.º As denominações e sedes dos distritos são:
 
 a) ...
 
@@ -151,11 +171,11 @@ p) ...
 
 q) Distrito do Cunene, com sede em Pereira de Eça.
 
-###### Art. 56.º As áreas dos distritos referidos no artigo anterior são as que resultam dos limites fixados em legislação especial.
+Art. 56.º As áreas dos distritos referidos no artigo anterior são as que resultam dos limites fixados em legislação especial.
 
-###### Art. 2.º Os artigos 26.º, 55.º e 56.º do Estatuto Político-Administrativo da Província de Moçambique, aprovado pelo [Decreto n.º 45375](https://diariodarepublica.pt/dr/detalhe/decreto/45375-1963-611509), de 22 de Novembro de 1963, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 26.º, 55.º e 56.º do Estatuto Político-Administrativo da Província de Moçambique, aprovado pelo [Decreto n.º 45375](https://diariodarepublica.pt/dr/detalhe/decreto/45375-1963-611509), de 22 de Novembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 26.º - 1. O Conselho Legislativo é constituído por vinte e oito vogais eleitos, e pelo procurador da República e director dos Serviços de Fazenda e Contabilidade como vogais natos.
+Art. 26.º - 1. O Conselho Legislativo é constituído por vinte e oito vogais eleitos, e pelo procurador da República e director dos Serviços de Fazenda e Contabilidade como vogais natos.
 
 2. ...
 
@@ -179,7 +199,7 @@ g) Dez serão eleitos por sufrágio directo dos cidadãos inscritos nos cadernos
 
 ...
 
-###### Art. 55.º As denominações e sedes dos distritos são:
+Art. 55.º As denominações e sedes dos distritos são:
 
 a) ...
 
@@ -201,14 +221,14 @@ i) ...
 
 j) Distrito de Vila Pery, com sede em Vila Pery.
 
-###### Art. 56.º As áreas dos distritos referidos no artigo anterior são as que resultam dos limites fixados em legislação especial.
+Art. 56.º As áreas dos distritos referidos no artigo anterior são as que resultam dos limites fixados em legislação especial.
 
 Marcelo Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Junho de 1971.**
+Promulgado em 3 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique - J. da Silva Cunha.

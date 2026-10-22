@@ -48,36 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1971-445761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9238abe97c58ef32aec7c7b53ce843662fd96805cf6c83ba7e53d458f431978
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2960c0e8bf172ac532e3f37dff52b6662b8acd331f6c53720ae7f4a555c757b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção de Despejo
+- Arrendamento Urbano para Habitação
+- BENS Imóveis do Estado
+- Caixa de Previdência
+- Caixa Sindical de Previdência
+- CASA do Estado
+- Habitação Social
+- Indemnização
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:53Z'
   warnings: []
   errors: []
 ---
@@ -110,37 +142,37 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As caixas de previdência quando pretenderem usar da faculdade conferida pelo n.º 3 da base XI da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, deverão comunicar o facto e os respectivos fundamentos aos serviços competentes do Ministério das Corporações e Previdência Social.
+Artigo 1.º - 1. As caixas de previdência quando pretenderem usar da faculdade conferida pelo n.º 3 da base XI da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, deverão comunicar o facto e os respectivos fundamentos aos serviços competentes do Ministério das Corporações e Previdência Social.
 
 2. As caixas de previdência podem usar da faculdade referida no número anterior quanto aos edifícios parcialmente ocupados pela Federação de Caixas de Previdência e Abono de Família e pelo Instituto de Obras Sociais, quando seja necessária a ampliação das instalações de tais entidades.
 
 3. A regalia prevista no n.º 3 da base XI da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986) poderá ser usada mesmo quando seja necessário proceder à demolição e ampliação do imóvel.
 
-###### Art. 2.º - 1. O arrendatário será notificado da denúncia do arrendamento para o termo de prazo, com antecedência não inferior a seis meses, através de carta registada com aviso de recepção.
+Art. 2.º - 1. O arrendatário será notificado da denúncia do arrendamento para o termo de prazo, com antecedência não inferior a seis meses, através de carta registada com aviso de recepção.
 
 2. Se o arrendatário despedido não desocupar o prédio no termo do prazo, aplicar-se-á o disposto no artigo 3.º do [Decreto-Lei n.º 23465](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23465-1934-675400), de 18 de Janeiro de 1934.
 
-###### Art. 3.º - 1. Os arrendatários despedidos cujos contratos de arrendamento tenham sido celebrados anteriormente à instalação no respectivo edifício dos serviços da caixa de previdência ou anteriormente à data de aquisição do prédio pela caixa gozam de preferência na distribuição de casas económicas e de renda económica, bem como no arrendamento das casas das caixas de previdência em regime de renda livre, nos termos dos artigos seguintes.
+Art. 3.º - 1. Os arrendatários despedidos cujos contratos de arrendamento tenham sido celebrados anteriormente à instalação no respectivo edifício dos serviços da caixa de previdência ou anteriormente à data de aquisição do prédio pela caixa gozam de preferência na distribuição de casas económicas e de renda económica, bem como no arrendamento das casas das caixas de previdência em regime de renda livre, nos termos dos artigos seguintes.
 
 2. O disposto nos artigos seguintes não prejudica as preferências estabelecidas em favor dos desalojados, nos termos do [Decreto-Lei n.º 34486](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34486-1945-615631), de 6 de Abril de 1945, e legislação complementar.
 
-###### Art. 4.º - 1. Na distribuição de casas económicas considerar-se-á como condição de preferência, além das circunstâncias previstas no artigo 34.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, e legislação complementar, o facto de o pretendente ter sido desalojado.
+Art. 4.º - 1. Na distribuição de casas económicas considerar-se-á como condição de preferência, além das circunstâncias previstas no artigo 34.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, e legislação complementar, o facto de o pretendente ter sido desalojado.
 
 2. Quando o arrendatário despedido tenha atingido um limite de idade fixado para a aquisição de uma casa económica, a mesma pode ser-lhe atribuída em regime de arrendamento.
 
-###### Art. 5.º Na distribuição de casas de renda económica os arrendatários despedidos têm preferência nas condições a fixar por despacho do Ministro das Corporações e Previdência Social.
+Art. 5.º Na distribuição de casas de renda económica os arrendatários despedidos têm preferência nas condições a fixar por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 6.º As vagas que ocorrerem num agrupamento de casas económicas ou de renda económica podem ser preenchidas, à medida que se forem verificando, pelos arrendatários despedidos, independentemente da realização do concurso de distribuição das mesmas casas.
+Art. 6.º As vagas que ocorrerem num agrupamento de casas económicas ou de renda económica podem ser preenchidas, à medida que se forem verificando, pelos arrendatários despedidos, independentemente da realização do concurso de distribuição das mesmas casas.
 
-###### Art. 7.º - 1. Se as caixas de previdência forem proprietárias de prédios urbanos em regime de renda livre, os arrendatários despedidos têm preferência no arrendamento das casas vagas.
+Art. 7.º - 1. Se as caixas de previdência forem proprietárias de prédios urbanos em regime de renda livre, os arrendatários despedidos têm preferência no arrendamento das casas vagas.
 
 2. O arrendatário fica obrigado ao pagamento de renda, cuja importância corresponderá inicialmente à que vinha sendo paga à data do despejo, sendo depois sujeita a aumentos semestrais de 20 por cento até atingir o valor da renda fixada pela comissão permanente de avaliação à data do arrendamento.
 
-###### Art. 8.º - 1. O arrendatário despedido tem direito à indemnização prescrita no n.º 1 do artigo 1099.º do Código Civil quando não queira ou não possa beneficiar do alojamento em casa económica ou de renda económica ou de habitação em regime de renda livre.
+Art. 8.º - 1. O arrendatário despedido tem direito à indemnização prescrita no n.º 1 do artigo 1099.º do Código Civil quando não queira ou não possa beneficiar do alojamento em casa económica ou de renda económica ou de habitação em regime de renda livre.
 
 2. A opção deve ser feita no prazo prescrito no n.º 1 do artigo 2.º
 
-###### Art. 9.º - 1. Se o prédio ou suas dependências for utilizado para estabelecimento comercial ou industrial ou exercício de profissão liberal, o arrendatário despedido que se encontre nas condições do artigo 3.º, além da indemnização prevista no n.º 1 do artigo 1099.º do Código Civil, tem direito a uma compensação, sempre que por facto seu o prédio arrendado tenha aumentado de valor locativo.
+Art. 9.º - 1. Se o prédio ou suas dependências for utilizado para estabelecimento comercial ou industrial ou exercício de profissão liberal, o arrendatário despedido que se encontre nas condições do artigo 3.º, além da indemnização prevista no n.º 1 do artigo 1099.º do Código Civil, tem direito a uma compensação, sempre que por facto seu o prédio arrendado tenha aumentado de valor locativo.
 
 2. A importância da compensação é fixada por despacho do Ministro das Corporações e Previdência Social, não podendo exceder dez vezes a renda anual.
 
@@ -148,8 +180,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

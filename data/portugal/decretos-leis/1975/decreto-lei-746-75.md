@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 300/1975, 1º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2160-(2) a 2160-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30001/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1975-355159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e51fd253b20bd5b048197f4e6ee368a51df48503580ae3949d00bd70ad716889
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df5bae99faecee7261dc38901dee7f569fd1ee3c692224ce220c0363f13df427
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Pagamento a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314913:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506810:por
+  label: Rectificado pela DECL.DD8514.14.02.1976.PCM, DG.IS [38] de 14.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-506810
+  date: '1976-02-14'
+- type: repealed_by
+  target: pt:dre:256638:por
+  label: "Revogado, a partir de 01.10.1979, o art. 5.º do presente diploma pelo DEC LEI.374-B/79.10.09.1979.MF, DR.IS [209-Supl]\
+    \ de 10.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-b-1979-256638
+  date: '1979-09-10'
+- type: repealed_by
+  target: pt:dre:286745:por
+  label: "Revogado o artigo 4.º pelo DEC LEI.53/88.25.02.1988.MF, DR.IS [46] de 25.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1988-286745
+  date: '1988-02-25'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:09Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +132,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É prorrogado por cento e vinte dias o prazo de pagamento com juros de mora, que antecede o relaxe das contribuições industrial e predial e dos impostos profissional, de capitais (secção A), complementar, sobre a indústria agrícola e para a defesa e valorização do ultramar, cujos prazos de cobrança voluntária se encontram a decorrer na data da publicação do presente diploma.
+Artigo 1.º É prorrogado por cento e vinte dias o prazo de pagamento com juros de mora, que antecede o relaxe das contribuições industrial e predial e dos impostos profissional, de capitais (secção A), complementar, sobre a indústria agrícola e para a defesa e valorização do ultramar, cujos prazos de cobrança voluntária se encontram a decorrer na data da publicação do presente diploma.
 
-###### Art. 2.º - 1. A contribuição industrial e os impostos profissional, de capitais (secção A) e sobre a indústria agrícola, respeitantes aos rendimentos do ano de 1975 e que, nos termos dos respectivos Códigos, devam ser cobrados em 1976, sê-lo-ão pela forma seguinte:
+Art. 2.º - 1. A contribuição industrial e os impostos profissional, de capitais (secção A) e sobre a indústria agrícola, respeitantes aos rendimentos do ano de 1975 e que, nos termos dos respectivos Códigos, devam ser cobrados em 1976, sê-lo-ão pela forma seguinte:
 
 A) Contribuição industrial
 
@@ -152,13 +184,13 @@ Em quatro prestações, com vencimento em Julho e Outubro de 1976 e Janeiro e Ab
 
 5. Passados sessenta dias sobre o vencimento da contribuição ou do imposto, ou sobre o da última de duas prestações sucessivas, sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo para arrecadação da totalidade da contribuição ou do imposto em dívida, considerando-se, para o efeito, vencidas as prestações ainda não pagas.
 
-###### Art. 3.º - 1. Nos casos de omissão ao lançamento, de liquidação adicional ou de qualquer outra liquidação fora dos prazos normais, das contribuições industrial e predial e dos impostos profissional, de capitais (secção A), complementar, sobre a indústria agrícola e para a defesa e valorização do ultramar e, bem assim, no caso de cessação total da actividade comercial ou industrial, cuja notificação para pagamento nos termos da legislação em vigor tenha lugar até 31 de Dezembro de 1976, este deverá ser efectuado em quatro prestações, com vencimento da primeira no mês imediato ao da notificação e de cada uma das restantes no terceiro mês seguinte ao do vencimento da imediatamente anterior.
+Art. 3.º - 1. Nos casos de omissão ao lançamento, de liquidação adicional ou de qualquer outra liquidação fora dos prazos normais, das contribuições industrial e predial e dos impostos profissional, de capitais (secção A), complementar, sobre a indústria agrícola e para a defesa e valorização do ultramar e, bem assim, no caso de cessação total da actividade comercial ou industrial, cuja notificação para pagamento nos termos da legislação em vigor tenha lugar até 31 de Dezembro de 1976, este deverá ser efectuado em quatro prestações, com vencimento da primeira no mês imediato ao da notificação e de cada uma das restantes no terceiro mês seguinte ao do vencimento da imediatamente anterior.
 
 2. Na divisão em prestações e na falta de pagamento nos prazos do seu vencimento aplicar-se-ão as disposições dos n.os 2, 4 e 5 do artigo 2.º
 
 3. O disposto nos números anteriores aplicar-se-á igualmente às contribuições e impostos referidos no n.º 1, para cujo pagamento foi já efectuada a notificação, mas de que não foi feito, até à data da publicação do presente diploma, débito ao tesoureiro para cobrança virtual, considerando-se substituída, para efeitos do vencimento das prestações, a data da notificação pela daquela publicação.
 
-###### Art. 4.º - 1. É permitido aos executados em processo de execução fiscal, sem a exigência de qualquer condição, o pagamento da quantia exequenda e do acrescido, em prestações trimestrais até quatro, não podendo a importância de cada prestação ser inferior a 250$00.
+Art. 4.º - 1. É permitido aos executados em processo de execução fiscal, sem a exigência de qualquer condição, o pagamento da quantia exequenda e do acrescido, em prestações trimestrais até quatro, não podendo a importância de cada prestação ser inferior a 250$00.
 
 2. O pagamento será requerido ao juiz do processo, que fixará o mês do respectivo vencimento e o montante de cada prestação.
 
@@ -170,7 +202,7 @@ Em quatro prestações, com vencimento em Julho e Outubro de 1976 e Janeiro e Ab
 
 6. O disposto neste artigo não é aplicável às dívidas que estejam a ser pagas em prestações ao abrigo do artigo 163.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 5.º - 1. O imposto de transacções, liquidado pelos produtores ou grossistas registados ou sujeitos a registo nos termos da alínea a) do artigo 26.º do Código do Imposto de Transacções, poderá ser entregue nos cofres do Estado em duas prestações iguais, nos seguintes prazos:
+Art. 5.º - 1. O imposto de transacções, liquidado pelos produtores ou grossistas registados ou sujeitos a registo nos termos da alínea a) do artigo 26.º do Código do Imposto de Transacções, poderá ser entregue nos cofres do Estado em duas prestações iguais, nos seguintes prazos:
 
 a) Metade do imposto liquidado - nos dois meses imediatos àquele em que as respectivas transacções se tiverem efectuado;
 
@@ -178,15 +210,15 @@ b) A restante metade - nos dois meses seguintes aos indicados na alínea a).
 
 2. As guias modelo n.º 3, a processar em conformidade com o disposto na alínea a) do artigo 41.º do Código, deverão compreender, apenas, o imposto correspondente a cada prestação, indicando-se na guia relativa à segunda o número da verba de receita eventual e a data do pagamento da primeira prestação, não sendo permitido incluir na mesma guia imposto respeitante a transacções efectuadas em meses diferentes.
 
-###### Art. 6.º É suspenso até 31 de Dezembro de 1976 o [Decreto-Lei n.º 452/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1975-314913), de 21 de Agosto, passando a vigorar durante o período desta suspensão o n.º 1 do artigo 5.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969, com a sua redacção inicial.
+Art. 6.º É suspenso até 31 de Dezembro de 1976 o [Decreto-Lei n.º 452/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1975-314913), de 21 de Agosto, passando a vigorar durante o período desta suspensão o n.º 1 do artigo 5.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969, com a sua redacção inicial.
 
-###### Art. 7.º É reposto em vigor o artigo 28.º do Código do Imposto Profissional, com a seguinte redacção:
+Art. 7.º É reposto em vigor o artigo 28.º do Código do Imposto Profissional, com a seguinte redacção:
 
-###### Art. 28.º É facultado aos contribuintes que exerçam actividades por conta própria a entrega nos cofres do Estado, nos prazos previstos no artigo 29.º, das importâncias do imposto correspondente à matéria colectável estimada com base nas remunerações recebidas ou postas à sua disposição em cada trimestre, imposto que será apurado em função da taxa correspondente ao presumível rendimento colectável anual.
+Art. 28.º É facultado aos contribuintes que exerçam actividades por conta própria a entrega nos cofres do Estado, nos prazos previstos no artigo 29.º, das importâncias do imposto correspondente à matéria colectável estimada com base nas remunerações recebidas ou postas à sua disposição em cada trimestre, imposto que será apurado em função da taxa correspondente ao presumível rendimento colectável anual.
 
 § único. Em relação aos contribuintes que optarem pela entrega do imposto nos termos do corpo deste artigo serão organizados os verbetes individuais a que se refere o artigo 30.º; e, determinado o rendimento colectável nos termos do artigo 11.º, observar-se-ão, com as necessárias adaptações, as demais disposições do Código, designadamente os artigos 32.º e 33.º
 
-###### Art. 8.º - 1. As penalidades estabelecidas na lei para a falta de cumprimento de obrigações fiscais serão reduzidas às multas a seguir indicadas, sempre que o infractor se apresente a regularizar a sua situação tributária dentro dos quinze dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
+Art. 8.º - 1. As penalidades estabelecidas na lei para a falta de cumprimento de obrigações fiscais serão reduzidas às multas a seguir indicadas, sempre que o infractor se apresente a regularizar a sua situação tributária dentro dos quinze dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
 
 a) Multa de 5% do quantitativo em falta, quando a obrigação consistir no pagamento ou entrega nos cofres do Estado de contribuições, impostos ou taxas;
 
@@ -194,16 +226,16 @@ b) Multa variável entre 100$00 e 20000$00, a graduar nos termos do artigo 112.�
 
 2. O produto das multas cobradas nos termos do número anterior reverterá integralmente para o Estado.
 
-###### Art. 9.º - 1. São relevadas as faltas de cumprimento de obrigações tributárias, cometidas anteriormente à data da publicação deste diploma, desde que a situação fiscal do infractor tenha sido ou venha a ser regularizada dentro dos dez dias imediatos ao último do respectivo prazo legal.
+Art. 9.º - 1. São relevadas as faltas de cumprimento de obrigações tributárias, cometidas anteriormente à data da publicação deste diploma, desde que a situação fiscal do infractor tenha sido ou venha a ser regularizada dentro dos dez dias imediatos ao último do respectivo prazo legal.
 
 2. Havendo processo instaurado para aplicação de penalidade, será o mesmo arquivado logo que regularizada a situação nos termos do número anterior, mediante simples despacho do juiz do processo ou da autoridade instrutora.
 
-###### Art. 10.º Este diploma entra em vigor na data da publicação, com excepção dos artigos 6.º e 7.º que entram em vigor em 1 de Janeiro de 1976.
+Art. 10.º Este diploma entra em vigor na data da publicação, com excepção dos artigos 6.º e 7.º que entram em vigor em 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 19 de Dezembro de 1975.**
+Promulgado em 19 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

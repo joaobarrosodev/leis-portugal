@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1971-635607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 710c5905c6dc669c36067f6fbffcfe682133ea73d024e7bcba165e8645cd1da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 473d66faa5f67191df0b3bd0942ff1d41433878fd37215ca24e7743366dc42af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estado Português da Índia
+- Justiça Militar
+- Militar
+- Processo Disciplinar
+relationships:
+- type: cites
+  target: pt:dre:536065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:43Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +94,9 @@ de 11 de Agosto
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os indivíduos punidos disciplinarmente, nos termos das leis militares, por factos relacionados com a invasão do Estado da Índia em 1961 poderão pedir a revisão dos respectivos processos disciplinares, no prazo de noventa dias a contar da publicação do presente decreto-lei, independentemente da alegação de novas circunstâncias ou meios de prova, quando invoquem ilegalidade de forma ou de fundo que inquine as decisões.
+Artigo 1.º Os indivíduos punidos disciplinarmente, nos termos das leis militares, por factos relacionados com a invasão do Estado da Índia em 1961 poderão pedir a revisão dos respectivos processos disciplinares, no prazo de noventa dias a contar da publicação do presente decreto-lei, independentemente da alegação de novas circunstâncias ou meios de prova, quando invoquem ilegalidade de forma ou de fundo que inquine as decisões.
 
-###### Art. 2.º O processo de revisão seguirá os trâmites estabelecidos no [Decreto-Lei n.º 46001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46001-1964-536065), de 2 de Novembro de 1964, com as seguintes alterações:
+Art. 2.º O processo de revisão seguirá os trâmites estabelecidos no [Decreto-Lei n.º 46001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46001-1964-536065), de 2 de Novembro de 1964, com as seguintes alterações:
 
 a) O Conselho Superior de Disciplina designará um oficial, no activo ou na reserva, para instruir o processo de revisão, podendo o mesmo instrutor acumular até dez processos;
 
@@ -100,8 +108,8 @@ d) Concluída a instrução pelo instrutor, elaborará este o seu relatório e c
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.
 
-**Promulgado em 28 de Julho de 1971.**
+Promulgado em 28 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

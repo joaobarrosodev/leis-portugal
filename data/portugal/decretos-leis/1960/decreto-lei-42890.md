@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42890-1960-282163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73972699e7a055a646321915a48a6e087ae8543d40df8d0595951b2c029390fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35c9533364a29a4aed32b0a53b53f35996dbaff26787982c18e0a8c1bd5d8e2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Definição de Competências
+- Estaleiro Naval
+- Grupo de Trabalho
+- Lisboa
+- Ministro das Comunicações
+relationships:
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:37Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +112,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O estudo da construção de um estaleiro naval na área do porto de Lisboa será assegurado por uma comissão de carácter eventual, que se denominará «Comissão de Estudo para a Construção da Doca e Estaleiro Naval» (C. E. C. D. E. N.), subordinada ao Ministro das Comunicações.
+Artigo 1.º O estudo da construção de um estaleiro naval na área do porto de Lisboa será assegurado por uma comissão de carácter eventual, que se denominará «Comissão de Estudo para a Construção da Doca e Estaleiro Naval» (C. E. C. D. E. N.), subordinada ao Ministro das Comunicações.
 
-###### Art. 2.º Compete à Comissão:
+Art. 2.º Compete à Comissão:
 
 a) Coligir e apreciar todos os elementos existentes e trabalhos efectuados até ao presente, relativos ao empreendimento;
 
@@ -126,7 +136,7 @@ i) Estudar a possibilidade de se suprir a insuficiência actual de meios de quer
 
 j) Promover ou propor a execução de quaisquer providências eventualmente necessárias ao bom resultado dos seus trabalhos.
 
-###### Art. 3.º A Comissão terá a seguinte composição:
+Art. 3.º A Comissão terá a seguinte composição:
 
 Presidente: individualidade de formação técnica de reconhecida competência.
 
@@ -150,7 +160,7 @@ f) Um representante do Grémio dos Armadores da Marinha Mercante.
 
 § 3.º Os representantes a que se referem as alíneas a), b) e c) serão indicados, respectivamente, pelos Ministros das Finanças, Marinha e Economia.
 
-###### Art. 4.º Ao presidente compete em especial:
+Art. 4.º Ao presidente compete em especial:
 
 1.º Orientar e dirigir os serviços da Comissão de acordo com as directrizes fixadas pelo Ministro das Comunicações;
 
@@ -160,23 +170,23 @@ f) Um representante do Grémio dos Armadores da Marinha Mercante.
 
 § único. O presidente será substituído nos seus impedimentos pelo vogal que for designado pelo Ministro das Comunicações.
 
-###### Art. 5.º Aos vogais incumbe auxiliar o presidente no exercício das suas funções e orientar ou executar os serviços que lhes forem atribuídos pelo presidente.
+Art. 5.º Aos vogais incumbe auxiliar o presidente no exercício das suas funções e orientar ou executar os serviços que lhes forem atribuídos pelo presidente.
 
-###### Art. 6.º Os membros da Comissão poderão ser funcionários do Estado ou outras pessoas de reconhecida competência, em regime de prestação de serviços eventuais. As correspondentes remunerações serão fixadas pelo Ministro das Comunicações, com o acordo do Ministro das Finanças, após a apresentação dos relatórios referidos no § único do artigo 8.º do presente diploma.
+Art. 6.º Os membros da Comissão poderão ser funcionários do Estado ou outras pessoas de reconhecida competência, em regime de prestação de serviços eventuais. As correspondentes remunerações serão fixadas pelo Ministro das Comunicações, com o acordo do Ministro das Finanças, após a apresentação dos relatórios referidos no § único do artigo 8.º do presente diploma.
 
 § único. Aos membros da Comissão, quando hajam de deslocar-se no desempenho das suas funções, serão abonadas ajudas de custo e despesas de transporte. Sendo funcionários públicos, a ajuda de custo será correspondente à sua categoria; no caso de indivíduos não servidores do Estado será a ajuda de custo estabelecida conforme o disposto no artigo 11.º do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944.
 
-###### Art. 7.º Mediante autorização do Ministro das Comunicações poderá a Comissão enviar missões ao estrangeiro, a fim de estudarem assuntos relacionados com as suas atribuições.
+Art. 7.º Mediante autorização do Ministro das Comunicações poderá a Comissão enviar missões ao estrangeiro, a fim de estudarem assuntos relacionados com as suas atribuições.
 
-###### Art. 8.º O prazo para a conclusão dos trabalhos será fixado pelo Ministro das Comunicações, devendo entretanto a Comissão apresentar periòdicamente relatórios sucintos sobre o andamento dos seus trabalhos.
+Art. 8.º O prazo para a conclusão dos trabalhos será fixado pelo Ministro das Comunicações, devendo entretanto a Comissão apresentar periòdicamente relatórios sucintos sobre o andamento dos seus trabalhos.
 
 § único. Independentemente destes relatórios periódicos a Comissão elaborará relatórios especiais à medida que for completando as sucessivas fases do seu trabalho e segundo o que lhe for determinado pelo Ministro das Comunicações. Estes relatórios serão submetidos à apreciação dos Ministros das Finanças, Marinha, Economia e Comunicações.
 
-###### Art. 9.º As despesas a que se referem o artigo 6.º e seu § único e artigo 7.º do presente diploma, bem como as de aquisição de móveis e utensílios e de expediente corrente, serão suportadas pelo Fundo de Melhoramentos do Porto de Lisboa. Os encargos resultantes da aplicação das alíneas c), d) e j) do artigo 2.º serão liquidados pelas forças do mesmo Fundo e posteriormente reembolsados pelas verbas inscritas no Orçamento Geral do Estado para a construção do estaleiro naval de Lisboa, em execução do II Plano de Fomento.
+Art. 9.º As despesas a que se referem o artigo 6.º e seu § único e artigo 7.º do presente diploma, bem como as de aquisição de móveis e utensílios e de expediente corrente, serão suportadas pelo Fundo de Melhoramentos do Porto de Lisboa. Os encargos resultantes da aplicação das alíneas c), d) e j) do artigo 2.º serão liquidados pelas forças do mesmo Fundo e posteriormente reembolsados pelas verbas inscritas no Orçamento Geral do Estado para a construção do estaleiro naval de Lisboa, em execução do II Plano de Fomento.
 
-###### Art. 10.º Será integrado no património afecto à Administração-Geral do Porto de Lisboa todo o material de utilização permanente adquirido para a Comissão, quando esta for extinta.
+Art. 10.º Será integrado no património afecto à Administração-Geral do Porto de Lisboa todo o material de utilização permanente adquirido para a Comissão, quando esta for extinta.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Março de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

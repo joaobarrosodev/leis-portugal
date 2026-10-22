@@ -48,36 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47004-1966-472938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45f5f9a3bc33606d3a78b32411f6ee1efaf97af69dfcb88a29634a552666888c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc149a503eda6d9abf3f6a0ae2fbc265da71b39bb11a576797b818ba33707892
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Baldio
+- Circunscrição Florestal
+- Crime
+- Direcção Geral dos Serviços Florestais e Aquícolas
+- Exploração Florestal
+- Funchal
+- GADO
+- Gado Caprino
+- Gado Ovino
+- Gado Suíno
+- Madeira.ilha Adjacente
+- Pastagens
+- Regime Florestal
+relationships:
+- type: cites
+  target: pt:dre:281604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:04Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +133,19 @@ Reconhecendo que importa facultar aos serviços oficiais o apoio necessário e o
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No arquipélago da Madeira é proibida a apascentação ou a simples entrada de gados caprino e suíno nos baldios, submetidos ou não ao regime florestal, assim como nos terrenos ou matas do Estado; e nas propriedades particulares a existência dos mesmos gados só é permitida em regime de estabulação.
+Artigo 1.º No arquipélago da Madeira é proibida a apascentação ou a simples entrada de gados caprino e suíno nos baldios, submetidos ou não ao regime florestal, assim como nos terrenos ou matas do Estado; e nas propriedades particulares a existência dos mesmos gados só é permitida em regime de estabulação.
 
 § único. Todavia, nos terrenos já submetidos ao regime florestal, quando tal se afigure consentâneo com o ritmo dos trabalhos de arborização ou com a regeneração natural dos arvoredos, poderá a Direcção-Geral dos Serviços Florestais e Aquícolas, por intermédio da Circunscrição Florestal do Funchal, mediante requerimento dos interessados, autorizar que, a título precário, seja mantido algum gado caprino, confinado, porém, a áreas restritas e ao número de cabeças que se considere poderem admitir-se, áreas essas que, para o efeito, deverão ser eficientemente vedadas pelos proprietários do gado.
 
-###### Art. 2.º A infracção ao disposto no artigo 1.º ou a inobservância do condicionamento estabelecido no § único do mesmo artigo serão punidas nos termos seguintes:
+Art. 2.º A infracção ao disposto no artigo 1.º ou a inobservância do condicionamento estabelecido no § único do mesmo artigo serão punidas nos termos seguintes:
 
 a) Quando ocorrer em terrenos baldios ou em quaisquer outros submetidos ao regime florestal, será o gado apreendido nos termos dos artigos 16.º a 19.º do Regulamento do Serviço da Polícia Florestal ([Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 24 de Novembro de 1954), ou simplesmente abatido se se tornar difícil ou perigosa a sua captura, incorrendo ainda o proprietário do gado no pagamento das penalidades previstas no artigo 15.º do mesmo regulamento.
 
 b) Quando ocorrer em terrenos particulares, o proprietário do gado incorre na pena de 50$00 por cabeça de gado caprino e 5$00 por cabeça de gado suíno.
 
-###### Art. 3.º A apascentação de gados vacum e ovino nos terrenos submetidos ao regime florestal fica dependente da concessão da respectiva licença, sob pena de aplicação das penalidades prescritas no Regulamento do Serviço da Polícia Florestal.
+Art. 3.º A apascentação de gados vacum e ovino nos terrenos submetidos ao regime florestal fica dependente da concessão da respectiva licença, sob pena de aplicação das penalidades prescritas no Regulamento do Serviço da Polícia Florestal.
 
-###### Art. 4.º As pessoas singulares ou colectivas que se julguem com direito de propriedade ou posse sobre qualquer parcela de terreno que tenha sido incluída no inventário a que alude o artigo 391.º do Código Administrativo poderão, além do recurso a que aludem os §§ 1.º e 2.º do artigo 392.º do mesmo Código, propor a competente acção nos tribunais ordinários.
+Art. 4.º As pessoas singulares ou colectivas que se julguem com direito de propriedade ou posse sobre qualquer parcela de terreno que tenha sido incluída no inventário a que alude o artigo 391.º do Código Administrativo poderão, além do recurso a que aludem os §§ 1.º e 2.º do artigo 392.º do mesmo Código, propor a competente acção nos tribunais ordinários.
 
 Esta acção deverá ser posta, sob pena de caducidade do direito, nos prazos seguintes:
 
@@ -126,8 +155,8 @@ b) 180 dias a partir da entrada em vigor deste decreto-lei quanto aos baldios cu
 
 § único. Findos aqueles prazos, considerar-se-ão definitivos os limites propostos pelas comissões fixadoras oficialmente nomeadas, desde que homologadas pelas respectivas câmaras municipais.
 
-###### Art. 5.º Ficam revogadas as disposições contidas nos artigos 7.º e 19.º do [Decreto n.º 42967](https://diariodarepublica.pt/dr/detalhe/decreto/42967-1960-505423), no âmbito das atribuições da Circunscrição Florestal do Funchal.
+Art. 5.º Ficam revogadas as disposições contidas nos artigos 7.º e 19.º do [Decreto n.º 42967](https://diariodarepublica.pt/dr/detalhe/decreto/42967-1960-505423), no âmbito das atribuições da Circunscrição Florestal do Funchal.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.

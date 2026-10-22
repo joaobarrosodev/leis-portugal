@@ -48,36 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48798-1968-256578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0479fdc5cb872cbb9d18294d5ffa0de5f2764e57c879f1767f62d3fb7ab2558
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23111cd8bb79ce2072a0ea478f95d9e7db1b7f66446bdb4ff897f8c561fcff30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Director Adjunto
+- Director Escolar
+- Ensino Primário
+- Formas de Provimento
+- Gratificação
+- Pessoal de Inspecção
+- Qualificação Profissional
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433874:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:00Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +121,19 @@ estes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os inspectores-orientadores do ensino primário são nomeados pelo Ministro da Educação Nacional entre professores diplomados pelas escolas do magistério primário que, em funções desempenhadas na dependência da Direcção-Geral do Ensino Primário, revelem excepcional mérito, possuam o curso de Ciências Pedagógicas das Faculdades de Letras e tenham obtido aproveitamento em curso de especialização, que funcionará segundo normas a estabelecer em despacho ministerial.
+Artigo 1.º - 1. Os inspectores-orientadores do ensino primário são nomeados pelo Ministro da Educação Nacional entre professores diplomados pelas escolas do magistério primário que, em funções desempenhadas na dependência da Direcção-Geral do Ensino Primário, revelem excepcional mérito, possuam o curso de Ciências Pedagógicas das Faculdades de Letras e tenham obtido aproveitamento em curso de especialização, que funcionará segundo normas a estabelecer em despacho ministerial.
 
 2. Os inspectores-orientadores em serviço à data da publicação deste diploma devem obter, dentro do prazo de três anos, a habilitação do curso de especialização a que se refere o n.º 1, sob pena de aplicação do disposto na parte final do artigo 10.º do [Decreto-Lei n.º 28081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28081-1937-433874), de 9 de Outubro de 1937.
 
-###### Art. 2.º - 1. É fixado em cinquenta o número de lugares de inspector-orientador do ensino primário, não podendo, porém, exceder trinta no ano de 1969.
+Art. 2.º - 1. É fixado em cinquenta o número de lugares de inspector-orientador do ensino primário, não podendo, porém, exceder trinta no ano de 1969.
 
 2. Nos anos subsequentes e à medida que as necessidades do serviço o exijam, o número de inspectores-orientadores será elevado, até o limite estabelecido no n.º 1, mediante portaria conjunta dos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 3.º - 1. Os directores de distrito escolar e os seus adjuntos são nomeados pelo Ministro da Educação Nacional entre professores do ensino primário que tenham dado provas de especial competência e de dedicação ao ensino e hajam frequentado com aproveitamento o curso previsto na parte final do n.º 1 do artigo 1.º
+Art. 3.º - 1. Os directores de distrito escolar e os seus adjuntos são nomeados pelo Ministro da Educação Nacional entre professores do ensino primário que tenham dado provas de especial competência e de dedicação ao ensino e hajam frequentado com aproveitamento o curso previsto na parte final do n.º 1 do artigo 1.º
 
 2. Aos directores e adjuntos que se encontrem em serviço à data da publicação deste diploma é aplicável o disposto no n.º 2 do artigo 1.º
 
-###### Art. 4.º Os vencimentos dos inspectores-orientadores, directores de distrito escolar e seus adjuntos são, a partir de 1 de Janeiro de 1969, os correspondentes às seguintes categorias estabelecidas pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958:
+Art. 4.º Os vencimentos dos inspectores-orientadores, directores de distrito escolar e seus adjuntos são, a partir de 1 de Janeiro de 1969, os correspondentes às seguintes categorias estabelecidas pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958:
 
 J - Inspectores-orientadores.
 
@@ -120,7 +141,7 @@ K - Directores de distrito escolar.
 
 L - Adjuntos de director de distrito escolar.
 
-###### Art. 5.º - 1. As gratificações mensais dos secretários de zona, delegados escolares, seus adjuntos e directores de escolas são as seguintes:
+Art. 5.º - 1. As gratificações mensais dos secretários de zona, delegados escolares, seus adjuntos e directores de escolas são as seguintes:
 
 a) Secretários de zona e delegados escolares:
 
@@ -144,7 +165,7 @@ c) Directores de escolas:
 
 3. Os lugares a que se faz referência na alína a) do n.º 1 são contados nos termos do artigo 44.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956.
 
-###### Art. 6.º - 1. O Ministro da Educação Nacional poderá dispensar da prestação de serviço docente os secretários de zona e os delegados escolares das zonas ou concelhos com cem ou mais lugares.
+Art. 6.º - 1. O Ministro da Educação Nacional poderá dispensar da prestação de serviço docente os secretários de zona e os delegados escolares das zonas ou concelhos com cem ou mais lugares.
 
 2. Os secretários de zona e os delegados escolares dispensados do serviço docente nos termos do n.º 1 ficam sujeitos ao horário estabelecido na lei geral para os serviços públicos em repartições do Estado.
 
@@ -160,15 +181,15 @@ c) Por um professor designado pelo director escolar, nas zonas e concelhos em qu
 
 5. O substituto a que se refere a alínea c) do n.º 4 terá direito à gratificação de adjunto durante o tempo da substituição, se for superior a cinco dias.
 
-###### Art. 7.º Em conformidade com as necessidades impostas pelo desenvolvimento do ensino primário, poderá o quadro do pessoal das direcções dos distritos escolares ser aumentado com o número de unidades que for fixado em portarias expedidas conjuntamente pelos Ministros das Finanças e da Educação Nacional.
+Art. 7.º Em conformidade com as necessidades impostas pelo desenvolvimento do ensino primário, poderá o quadro do pessoal das direcções dos distritos escolares ser aumentado com o número de unidades que for fixado em portarias expedidas conjuntamente pelos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 8.º O pessoal menor das direcções de distrito escolar é obrigado a apresentar-se fardado, quando em serviço, e tem direito à concessão do fardamento por contado Estado.
+Art. 8.º O pessoal menor das direcções de distrito escolar é obrigado a apresentar-se fardado, quando em serviço, e tem direito à concessão do fardamento por contado Estado.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Hermano Saraiva.
 
-**Promulgado em 18 de Dezembro de 1968.**
+Promulgado em 18 de Dezembro de 1968.
 
-**Publique-se**
+Publique-se
 
 Presidência da República, 26 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

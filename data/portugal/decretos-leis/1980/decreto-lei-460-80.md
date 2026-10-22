@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23500/33193320.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1980-462250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0c8c7b54380c4a18077541943e3fcaf28f16c08b236093f8ac513cf20130dd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f46e0a5f8b85c3ebdb7930cd3f8a916a2b92cfe235bd9dd0b1b32d6224abdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aguardente
+- Armazenagem
+- Comércio
+- GAIA
+- Instituto do Vinho do Porto
+- Região Demarcada do Douro
+- Vinho
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:493025:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:163440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576091:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493025:por
+  label: "Revogado, a partir de 02.09.2009, mantendo-se transitoriamente em vigor até à publicação das portarias e dos regulamentos\
+    \ previstos, relativamente às matérias que estes visam regulamentar, pelo DEC LEI.173/2009.03.08.2009.MADRP, DR.IS [148]\
+    \ de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2009-493025
+  date: '2009-08-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:10Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +147,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica autorizada a entrada por estrada (via ordinária) na área do Entreposto de Gaia, descrita no artigo 1.º do [Decreto n.º 42605](https://diariodarepublica.pt/dr/detalhe/decreto/42605-1959-440492), de 21 de Outubro de 1959, e a sua comercialização:
+Artigo 1.º - 1 - Fica autorizada a entrada por estrada (via ordinária) na área do Entreposto de Gaia, descrita no artigo 1.º do [Decreto n.º 42605](https://diariodarepublica.pt/dr/detalhe/decreto/42605-1959-440492), de 21 de Outubro de 1959, e a sua comercialização:
 
 a) Aos vinhos de pasto engarrafados ou engarrafonados e bebidas alcoólicas de procedência nacional ou estrangeira em garrafas de capacidade até 2 l destinados a comerciantes particulares, com exclusão do vinho licoroso do Sul, a que se referem o artigo 5.º e seu § único do [Decreto-Lei n.º 24276](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24276-1934-467624), de 31 de Julho de 1934;
 
@@ -126,12 +161,12 @@ e) Aos vinhos de pasto a granel, procedentes da Região Demarcada do Douro, que 
 
 2 - A entrada, no Entreposto de Gaia, dos produtos vínicos a que este decreto-lei se refere apenas poderá fazer-se pelo posto do Instituto do Vinho do Porto nas Devesas e de acordo com a regulamentação a elaborar pelo mesmo Instituto.
 
-###### Art. 2.º Fica revogado o artigo 11.º do [Decreto n.º 42605](https://diariodarepublica.pt/dr/detalhe/decreto/42605-1959-440492), de 21 de Outubro de 1959.
+Art. 2.º Fica revogado o artigo 11.º do [Decreto n.º 42605](https://diariodarepublica.pt/dr/detalhe/decreto/42605-1959-440492), de 21 de Outubro de 1959.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

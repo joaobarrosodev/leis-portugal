@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28300/19741976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/679-1975-311392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8ab94c7b746489153526c3fc7db868f00bcc894a4bfda4846ebbe4a826d5a21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab4d5f18c44be2207f103a74debc95d2cf729a2fd9a99a088950323424232818
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Julgamento
+- Jurados
+- Processo Penal
+- Recrutamento de Pessoal
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416404:por
+  label: "Mantida em vigor, durante o ano de 1977, a pauta definitiva relativa ao ano de 1976, referida no nº2 do art. 15º\
+    \ do presente diploma, pelo DEC LEI.879/76.29.12.1976.MAI, DR.IS [301] de 29.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/879-1976-416404
+  date: '1976-12-29'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:05Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +120,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os jurados serão recrutados de entre os cidadãos portugueses, inscritos no recenseamento eleitoral e que satisfaçam as seguintes condições:
+Artigo 1.º Os jurados serão recrutados de entre os cidadãos portugueses, inscritos no recenseamento eleitoral e que satisfaçam as seguintes condições:
 
 a) Ter mais de 25 e menos de 70 anos de idade;
 
@@ -116,7 +132,7 @@ d) Não se achar preso;
 
 e) Estar no pleno gozo dos direitos civis e políticos.
 
-###### Art. 2.º Não podem ser jurados:
+Art. 2.º Não podem ser jurados:
 
 a) O Presidente da República;
 
@@ -146,23 +162,23 @@ n) As autoridades policiais e agentes de autoridade;
 
 o) Os que padeçam de doença ou anomalia que torne impossível o bom exercício do cargo.
 
-###### Art. 3.º Não podem ser jurados em determinada causa as pessoas sobre as quais incidirem os impedimentos previstos no artigo 107.º do Código de Processo Penal ou os motivos de suspeição dos juízes e ainda aquelas que por outras razões não ofereçam garantias de imparcialidade na apreciação dos factos.
+Art. 3.º Não podem ser jurados em determinada causa as pessoas sobre as quais incidirem os impedimentos previstos no artigo 107.º do Código de Processo Penal ou os motivos de suspeição dos juízes e ainda aquelas que por outras razões não ofereçam garantias de imparcialidade na apreciação dos factos.
 
-###### Art. 4.º - 1. Anualmente, durante o mês de Outubro, as câmaras municipais ou, nos concelhos de Lisboa e Porto, as administrações de bairro prepararão as relações de jurados por concelho ou bairro, respectivamente.
+Art. 4.º - 1. Anualmente, durante o mês de Outubro, as câmaras municipais ou, nos concelhos de Lisboa e Porto, as administrações de bairro prepararão as relações de jurados por concelho ou bairro, respectivamente.
 
 2. No caso de as freguesias de um concelho corresponderem a mais de uma comarca, a câmara municipal preparará diversas relações de jurados, por forma que cada relação de jurados corresponda ao grupo de freguesias que pertença à mesma comarca.
 
-###### Art. 5.º - 1. O número de pessoas que deve compreender a relação de jurados por bairro, concelho ou grupo de freguesia será fixado, para cada comarca, por despacho conjunto dos Ministros da Administração Interna e da Justiça.
+Art. 5.º - 1. O número de pessoas que deve compreender a relação de jurados por bairro, concelho ou grupo de freguesia será fixado, para cada comarca, por despacho conjunto dos Ministros da Administração Interna e da Justiça.
 
 2. A fixação do número de jurados, nos termos do número anterior, atenderá, por um lado, ao número de processos de querela na comarca durante o ano transacto e, por outro, à proporção do número dos eleitores do concelho, bairro ou grupo de freguesias relativamente ao número total de eleitores na comarca.
 
-###### Art. 6.º - 1. As pessoas que constituirão a relação de jurados por concelho, bairro ou grupo de freguesias serão seleccionadas por sorteio.
+Art. 6.º - 1. As pessoas que constituirão a relação de jurados por concelho, bairro ou grupo de freguesias serão seleccionadas por sorteio.
 
 2. O sorteio será realizado em acto público pelo presidente da câmara municipal ou, nos concelhos de Lisboa e Porto, pelo administrador do bairro, na presença de um magistrado do Ministério Público da comarca para cuja pauta de jurados se realiza o sorteio e de um representante dos cidadãos eleitores presentes ao acto.
 
 3. Serão sorteadas pessoas em número igual ao dobro do que deve corresponder à relação de jurados por concelho, bairro ou grupo de freguesias.
 
-###### Art. 7.º - 1. Para o sorteio serão utilizados os cadernos de recenseamento existentes relativos às freguesias em causa, sendo os mesmos numerados, incluindo-se os supletivos, e respeitando-se a ordem alfabética das freguesias.
+Art. 7.º - 1. Para o sorteio serão utilizados os cadernos de recenseamento existentes relativos às freguesias em causa, sendo os mesmos numerados, incluindo-se os supletivos, e respeitando-se a ordem alfabética das freguesias.
 
 2. Será utilizada uma urna eleitoral em cada local de sorteio, na qual serão lançados dez cartões de papel, dobrados em quatro, representando cada um um algarismo de 1 a 0.
 
@@ -178,15 +194,15 @@ b) Repetem-se depois as operações para a determinação do número da folha do
 
 c) E, finalmente, repetem-se as operações destinadas a determinar o número de linha dessa folha, encontrando-se assim a pessoa sorteada.
 
-###### Art. 8.º - 1. O presidente da câmara municipal ou, nos concelhos de Lisboa e Porto, o administrador do bairro apurarão se as pessoas sorteadas reúnem os requisitos previstos no artigo 1.º e se não estão abrangidos pelo artigo 2.º, até atingir um número de pessoas com capacidade para jurar igual ao número de jurados que cabe ao concelho, bairro ou grupo de freguesias.
+Art. 8.º - 1. O presidente da câmara municipal ou, nos concelhos de Lisboa e Porto, o administrador do bairro apurarão se as pessoas sorteadas reúnem os requisitos previstos no artigo 1.º e se não estão abrangidos pelo artigo 2.º, até atingir um número de pessoas com capacidade para jurar igual ao número de jurados que cabe ao concelho, bairro ou grupo de freguesias.
 
 2. Para efeitos dessa verificação, poderão aquelas entidades exigir e obter das pessoas sorteadas as informações necessárias, salvo quanto à matéria da alínea c) do artigo 1.º, que deverá ser inquirida pelo juiz presidente da comarca e socorrer-se de quaisquer outros elementos ao seu dispor.
 
-###### Art. 9.º - 1. O juiz da comarca (ou o do 1.º juízo, quando exista mais de um, ou o do 1.º juízo criminal em Lisboa e Porto), depois de recebidas as relações dos sorteados por concelho ou bairro, poderá delas mandar riscar as pessoas relativamente às quais haja verificado a existência de incapacidade.
+Art. 9.º - 1. O juiz da comarca (ou o do 1.º juízo, quando exista mais de um, ou o do 1.º juízo criminal em Lisboa e Porto), depois de recebidas as relações dos sorteados por concelho ou bairro, poderá delas mandar riscar as pessoas relativamente às quais haja verificado a existência de incapacidade.
 
 2. Dentro dos dez dias seguintes ao recebimento das relações indicadas no número anterior, o juiz fará afixar à entrada do tribunal a pauta dos jurados da comarca, que assinará em todas as folhas.
 
-###### Art. 10.º - 1. Durante o período de dez dias após a afixação da pauta pode qualquer pessoa reclamar contra irregularidades no processo de selecção ou invocar incapacidade das pessoas que constituem a pauta de jurados da comarca.
+Art. 10.º - 1. Durante o período de dez dias após a afixação da pauta pode qualquer pessoa reclamar contra irregularidades no processo de selecção ou invocar incapacidade das pessoas que constituem a pauta de jurados da comarca.
 
 2. Tais reclamações serão dirigidas ao juiz da comarca ou ao do 1.º juízo e resolvidas no prazo de cinco dias, a contar do termo do concedido para as reclamações.
 
@@ -196,13 +212,13 @@ Das decisões tomadas oficiosamente pelo juiz sobre a matéria não cabe igualme
 
 4. Até ao dia 1 de Dezembro de cada ano o juiz fará afixar a pauta definitiva da comarca, a qual vigorará para o ano civil subsequente.
 
-###### Art. 11.º - 1. No caso de a pauta de jurados da comarca se vir a revelar insuficiente, poderá o juiz solicitar aos presidentes das câmaras ou aos administradores do bairro a realização de nova operação de selecção de jurados, indicando o número necessário de jurados para a pauta adicional.
+Art. 11.º - 1. No caso de a pauta de jurados da comarca se vir a revelar insuficiente, poderá o juiz solicitar aos presidentes das câmaras ou aos administradores do bairro a realização de nova operação de selecção de jurados, indicando o número necessário de jurados para a pauta adicional.
 
 2. A circunstância de, em consequência das operações previstas nos artigos 8.º a 10.º, o número de jurados da pauta ser inferior ao número fixado pelo despacho a que se refere o artigo 5.º não obriga, só por si, à realização de sorteio adicional.
 
-###### Art. 12.º Sempre que haja lugar à intervenção do júri, o juiz do processo procederá ao sorteio dos jurados que hão-de constar da pauta do julgamento. Serão sorteados pelo menos vinte pessoas, as quais serão imediatamente convocadas para a audiência.
+Art. 12.º Sempre que haja lugar à intervenção do júri, o juiz do processo procederá ao sorteio dos jurados que hão-de constar da pauta do julgamento. Serão sorteados pelo menos vinte pessoas, as quais serão imediatamente convocadas para a audiência.
 
-###### Art. 13.º Podem requerer escusa do exercício da função de jurado:
+Art. 13.º Podem requerer escusa do exercício da função de jurado:
 
 a) Os militares, quando no activo;
 
@@ -212,18 +228,18 @@ c) As pessoas que hajam desempenhado como efectivos ou suplentes funções de ju
 
 d) A doença grave ou morte do cônjuge, ascendente, descendente, irmão ou afim nos mesmos graus.
 
-###### Art. 14.º - 1. As pessoas que venham a ser designadas para o exercício da função de jurado em determinado processo terão direito a receber um subsídio correspondente às despesas de transporte, alimentação e alojamento e a uma compensação pela perda de remuneração que hajam tido de suportar por virtude de tal exercício.
+Art. 14.º - 1. As pessoas que venham a ser designadas para o exercício da função de jurado em determinado processo terão direito a receber um subsídio correspondente às despesas de transporte, alimentação e alojamento e a uma compensação pela perda de remuneração que hajam tido de suportar por virtude de tal exercício.
 
 2. Tais retribuições serão fixadas e mandadas liquidar pelo juiz do processo, dentro dos limites que venham a ser estabelecidos pelo Ministro das Finanças, e serão suportadas pelo Cofre Geral dos Tribunais.
 
-###### Art. 15.º - 1. No corrente ano as câmaras municipais e as administrações de bairro organizarão as relações de jurados a que se refere o artigo 4.º, no prazo de trinta dias, a contar da publicação do despacho a que se refere o artigo 5.º
+Art. 15.º - 1. No corrente ano as câmaras municipais e as administrações de bairro organizarão as relações de jurados a que se refere o artigo 4.º, no prazo de trinta dias, a contar da publicação do despacho a que se refere o artigo 5.º
 
 2. Observar-se-ão nos tribunais, logo que recebidas as relações de jurados, os prazos indicados nos artigos 9.º e 10.º, 1 e 2, devendo o juiz fazer afixar a pauta definitiva dentro dos trinta dias seguintes àquele recebimento.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 22 de Novembro de 1975.**
+Promulgado em 22 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

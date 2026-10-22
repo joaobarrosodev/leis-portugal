@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1973-419615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eeff57cbbba53054757a33c20c364658b59ced0e6ecd46b470df1abd939ff60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e29859f509ff99995e4cdbab22aa5c6b0d12cb0b3745faec1e976706dfeb22a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Advogado
+- Câmara dos Solicitadores
+- Concurso
+- Concurso de Habilitação
+- Conselho Superior do Ministério Público
+- Emolumento
+- Estatuto Judiciário
+- Incompatibilidades
+- Juiz Municipal
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Ministério Público
+- Ordem dos Advogados
+- Organização Tutelar de Menores
+- Pessoal de Justiça
+- Processo Disciplinar
+- Procuradoria Geral da República
+- Sanção Disciplinar
+- Secretaria Judicial
+- Solicitador
+- Supremo Tribunal de Justiça
+- Tempo de Serviço
+- Tribunal
+- Tribunal Colectivo
+- Tribunal da Relação
+- Tribunal de Comarca
+- Tribunal de Execução das Penas
+- Tribunal de Família
+- Tribunal de Instrução Criminal
+- Tribunal Judicial
+- Tribunal Municipal
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:670073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476479:por
+  label: "Alterado o mapa V anexo ao Estatuto Judiciário aprovado pelo Dec lei 44278 de 14-Abr de 1962, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.325/74.10.07.1974.MJ, DG.IS [159] de 10.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1974-476479
+  date: '1974-07-10'
+- type: amended_by
+  target: pt:dre:161107:por
+  label: "Alterado o art. 385º do Estatuto Judiciário, aprovado pelo Dec Lei 44278, de 14-Abr 1962, na redacção do presente\
+    \ diploma, pelo DEC LEI.130/75.14.03.1975.MJ, DG.IS [62] de 14.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1975-161107
+  date: '1975-03-14'
+- type: amended_by
+  target: pt:dre:209606:por
+  label: "Alterados os arts. 193º e 196º do Estatuto Judiciário aprovado pelo Dec Lei 44278 de 14-Abr de 1962 DG.IS [84]Supl,\
+    \ com as alterações constantes do presente diploma, pelo DEC LEI.369-A/75.14.07.1975.MJ, DG.IS [160-Supl] de 14.07.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-a-1975-209606
+  date: '1975-07-14'
+- type: amended_by
+  target: pt:dre:310387:por
+  label: "Alterado o art. 226º do Estatuto Judiciário aprovado pelo Dec Lei 44278 de 14-Abr de 1962, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.633/75.14.11.1975.MJ, DG.IS [264] de 14.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/633-1975-310387
+  date: '1975-11-14'
+- type: amended_by
+  target: pt:dre:501432:por
+  label: "Alterados os arts. 42º, 341º, 342º, 403º, 404º, 407º, 416º, 451º, 453º, 460º, 515º e 516º do Estatuto Judiciário,\
+    \ aprovado pelo Dec Lei 44278, de 14-ABR 1962, na redacção do presente diploma, pelo DEC LEI.201/76.1976.03.19.MJ, DG.IS\
+    \ [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1976-501432
+  date: '1976-03-19'
+- type: cites
+  target: pt:dre:141866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680658:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670073:por
+  label: "Revogado o artigo 3.º pelo DEC LEI.387-C/87.29.12.1987.MJ, DR.IS [298]Supl de 29.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-c-1987-670073
+  date: '1987-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:03Z'
   warnings: []
   errors: []
 ---
@@ -160,13 +261,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As disposições adiante referidas do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Artigo 1.º As disposições adiante referidas do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. São considerados da classe da respectiva comarca todos os cargos nela existentes que devam ser providos em magistrados, com excepção dos casos a que se referem o n.º 4 do artigo 26.º e os artigos 51.º e 57.º e ainda os juízos de instrução criminal, em que o provimento pode recair em magistrados de classe inferior.
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. Nas comarcas de Lisboa e Porto há um tribunal cível, um tribunal criminal, um tribunal de família e juízos de instrução criminal, com a composição descrita no mapa anexo ao presente Estatuto. Junto do tribunal cível funciona uma câmara de falências. A área de jurisdição dos tribunais de família e câmaras pode exceder a da comarca onde tem a sua sede.
 
@@ -176,7 +277,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 11.º - 1. (Texto do actual artigo.)
+Art. 11.º - 1. (Texto do actual artigo.)
 
 2. Quando o serviço do Supremo se encontre consideravelmente atrasado ou em riscos de aglomeração extraordinária por causas duradouras de carácter excepcional, podem ser nomeados, além do quadro, os juízes que se reputem necessários para alcançar a normalização ou evitar acumulação de serviço. A nomeação será feita de entre os juízes da Relação que ocupem o terço superior da escala de antiguidade e constem de uma lista de cinco nomes elaborada pelo Conselho Superior Judiciário.
 
@@ -184,7 +285,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. Nas suas faltas ou impedimentos é o presidente substituído pelo vice-presidente; na falta ou impedimento de ambos, são as respectivas funções desempenhadas pelo mais antigo dos juízes em exercício no tribunal ou pelo juiz em exercício que aquele designar.
 
@@ -192,13 +293,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 20.º - 1. ...
+Art. 20.º - 1. ...
 
 2. ...
 
 3. É aplicável às Relações o disposto nos n.os 2 e 3 do artigo 11.º A nomeação dos juízes além do quadro será feita de entre os juízes do quinto superior da escala de antiguidade da 1.ª classe com classificação de Muito bom.
 
-###### Art. 21.º - 1. ...
+Art. 21.º - 1. ...
 
 2. Na falta ou impedimento do presidente, são as suas atribuições desempenhadas pelo mais antigo dos juízes em exercício ou pelo juiz que aquele designar. Na presidência das secções observa-se o disposto no n.º 3 do artigo 13.º
 
@@ -208,7 +309,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 26.º - 1. Em cada comarca há um juiz de direito; mas se o tribunal compreender mais de um juízo, haverá tantos juízes quantos os juízos em que estiver dividido.
+Art. 26.º - 1. Em cada comarca há um juiz de direito; mas se o tribunal compreender mais de um juízo, haverá tantos juízes quantos os juízos em que estiver dividido.
 
 Em cada vara cível haverá três juízes: um corregedor presidente e dois corregedores adjuntos.
 
@@ -224,11 +325,11 @@ Para esse efeito, serão destacados em comissão de serviço, pelo período máx
 
 A distribuição do serviço entre todos os magistrados é efectuada nos termos que entre si acordarem e de que será dado conhecimento ao Conselho Superior Judiciário ou nos termos que por este Conselho forem fixados.
 
-###### Art. 27.º O tribunal de comarca e os tribunais de família funcionam com um ou três juízes, conforme a lei do processo exija a intervenção, na causa, só do tribunal singular ou do tribunal colectivo.
+Art. 27.º O tribunal de comarca e os tribunais de família funcionam com um ou três juízes, conforme a lei do processo exija a intervenção, na causa, só do tribunal singular ou do tribunal colectivo.
 
 ...
 
-###### Art. 29.º - 1. ...
+Art. 29.º - 1. ...
 
 2. A composição de cada tribunal colectivo, no que respeita ao 2.º vogal, pode ser alterada, sob proposta do Conselho Superior Judiciário, por simples decreto; mas, sempre que a alteração resulte de acumulação de serviço no tribunal do 2.º vogal, ou em virtude de constituição de agrupamento de comarcas nos termos do n.º 3 do artigo 26.º, pode ser determinada, sob proposta do Conselho Superior Judiciário, por despacho do Ministro da Justiça.
 
@@ -238,7 +339,7 @@ A distribuição do serviço entre todos os magistrados é efectuada nos termos 
 
 ...
 
-###### Art. 31.º - 1. ...
+Art. 31.º - 1. ...
 
 2. O tribunal colectivo dos juízos cíveis é constituído pelo juiz do juízo por onde corre o processo, que preside, e por dois dos titulares dos outros juízos cíveis, segundo a composição fixada em mapa anexo a este Estatuto.
 
@@ -256,7 +357,7 @@ a) Pelo juiz a quem o processo tiver sido distribuído para o efeito, nas varas 
 
 b) Pelo juiz do juízo a que pertencer o processo, nos juízos cíveis e no tribunal de família.
 
-###### Art. 32.º - 1. O tribunal colectivo dos juízos criminais é constituído pelo corregedor do juízo criminal por onde corre o processo, que preside, e por dois juízes adjuntos, nos termos do mapa anexo a este Estatuto.
+Art. 32.º - 1. O tribunal colectivo dos juízos criminais é constituído pelo corregedor do juízo criminal por onde corre o processo, que preside, e por dois juízes adjuntos, nos termos do mapa anexo a este Estatuto.
 
 2. O tribunal colectivo dos juízos correccionais e dos juízos de polícia será constituído pelo juiz do juízo por onde corre o processo, que preside, e por dois juízes adjuntos, como consta do mapa a que se refere o número anterior.
 
@@ -264,7 +365,7 @@ b) Pelo juiz do juízo a que pertencer o processo, nos juízos cíveis e no trib
 
 4. O encargo de tirar acórdão cabe sempre ao presidente do tribunal.
 
-###### Art. 33.º - 1. ...
+Art. 33.º - 1. ...
 
 2. Compete-lhes ainda, em matéria criminal:
 
@@ -296,7 +397,7 @@ e) ...
 
 f) Dar posse, sem prejuízo do especialmente disposto sobre a matéria, aos magistrados do Ministério Público e aos funcionários do seu tribunal, e bem assim aos notários e conservadores da comarca, nos termos da respectiva lei orgânica.
 
-###### Art. 34.º Incumbe ao juiz presidente do círculo judicial, na presidência dos tribunais colectivos:
+Art. 34.º Incumbe ao juiz presidente do círculo judicial, na presidência dos tribunais colectivos:
 
 a) ...
 
@@ -310,7 +411,7 @@ e) Suprir as omissões das sentenças por ele proferidas, esclarecê-las ou refo
 
 ...
 
-###### Art. 36.º - 1. ...
+Art. 36.º - 1. ...
 
 2. ...
 
@@ -336,7 +437,7 @@ f) Providências cíveis atribuídas pela lei vigente aos tribunais tutelares de
 
 ...
 
-###### Art. 42.º - 1. (Texto actual do artigo.)
+Art. 42.º - 1. (Texto actual do artigo.)
 
 2. Compete ao juízos de instrução criminal exercer as funções jurisdicionais relativas à instrução preparatória e, durante a instrução contraditória nos processos comuns e nos processos de segurança instruídos pela Polícia Judiciária, dirigir a instrução contraditória e proferir os despachos de pronúncia ou equivalentes e os despachos de não pronúncia.
 
@@ -344,7 +445,7 @@ f) Providências cíveis atribuídas pela lei vigente aos tribunais tutelares de
 
 4. Transitado em julgado o despacho de pronúncia ou equivalente, o juiz de instrução criminal ordenará a remessa dos processos ao tribunal competente.
 
-###### Art. 43.º - 1. ...
+Art. 43.º - 1. ...
 
 2. ...
 
@@ -352,13 +453,13 @@ f) Providências cíveis atribuídas pela lei vigente aos tribunais tutelares de
 
 4. ...
 
-###### Art. 44.º - 1. ...
+Art. 44.º - 1. ...
 
 2. ...
 
 3. Para o efeito da organização dos turnos nas férias de Verão, considera-se como fazendo parte do tribunal criminal o tribunal de execução das penas e como excluídos os juízos de polícia e de instrução criminal.
 
-###### Art. 45.º - 1. Salvo o disposto nos artigos seguintes, a substituição dos juízes de direito, nas suas faltas ou impedimentos, compete:
+Art. 45.º - 1. Salvo o disposto nos artigos seguintes, a substituição dos juízes de direito, nas suas faltas ou impedimentos, compete:
 
 a) Ao juiz do outro juízo ou ao juiz auxiliar, quando o haja;
 
@@ -380,7 +481,7 @@ e) Ao presidente da câmara municipal do concelho da sede da respectiva comarca,
 
 ...
 
-###### Art. 47.º No tribunal criminal de Lisboa as substituições são feitas nos termos seguintes:
+Art. 47.º No tribunal criminal de Lisboa as substituições são feitas nos termos seguintes:
 
 a) ...
 
@@ -388,7 +489,7 @@ b) Os corregedores dos juízos criminais e os juízes dos juízos correccionais 
 
 c) Os juízes dos juízos de polícia e dos juízos de instrução criminal são substituídos segundo a ordem estabelecida na alínea c) do n.º 1 do artigo anterior, mas, estando todos impedidos, os primeiros são substituídos pelos juízes do tribunal de execução das penas, a começar pelo mais moderno, e os segundos, pelo juiz de turno a que se refere o artigo 44.º
 
-###### Art. 48.º - 1. ...
+Art. 48.º - 1. ...
 
 2. Ao tribunal criminal da mesma comarca são aplicáveis as regras do artigo antecedente.
 
@@ -398,23 +499,23 @@ Estando impedidos todos os juízes dos juízos de polícia, são chamados como s
 
 3. ...
 
-###### Art. 49.º Quando as faltas ou impedimentos excedam o limite fixado no artigo 46.º ou quando, fora desse caso, as conveniências do serviço o exijam, os juízes das comarcas de Lisboa e Porto e daquelas em que haja mais de um juízo serão substituídos por qualquer outro juiz em exercício na comarca ou conservador dos registos predial e civil que o presidente da Relação designar.
+Art. 49.º Quando as faltas ou impedimentos excedam o limite fixado no artigo 46.º ou quando, fora desse caso, as conveniências do serviço o exijam, os juízes das comarcas de Lisboa e Porto e daquelas em que haja mais de um juízo serão substituídos por qualquer outro juiz em exercício na comarca ou conservador dos registos predial e civil que o presidente da Relação designar.
 
 ...
 
-###### Art. 51.º - 1. Verificando-se em algum caso concreto inconveniente grave na aplicação das regras de substituição definidas nos artigos anteriores, pode o Conselho Superior Judiciário determinar a modificação que se mostrar adequada, recorrendo, se necessário, a um juiz de comarca próxima.
+Art. 51.º - 1. Verificando-se em algum caso concreto inconveniente grave na aplicação das regras de substituição definidas nos artigos anteriores, pode o Conselho Superior Judiciário determinar a modificação que se mostrar adequada, recorrendo, se necessário, a um juiz de comarca próxima.
 
 2. Desde que se não verifique urgência e quando seja de prever que o impedimento do juiz vai ser prolongado ou frequentemente repetido, o Conselho, ponderando o volume do serviço da comarca e a possível insuficiência do regime de substituições anteriormente previsto, pode determinar que vá prestar serviço no tribunal, enquanto durar o impedimento, um juiz de classe igual ou inferior à do juiz impedido, acumulando ou não essas funções com a de titular de outro tribunal, conforme se mostrar conveniente.
 
 ...
 
-###### Art. 63.º - 1. ...
+Art. 63.º - 1. ...
 
 2. Logo que seja concluída a instrução, os processos referidos na alínea b) do número anterior sobem oficiosamente ao tribunal da comarca para nele seguirem os ulteriores termos, incluindo a abstenção ou dedução de acusação; todavia, se houver réus presos, pode o subdelegado acusar e o juiz municipal proferir despacho de pronúncia, se assim for necessário, para evitar que seja excedido o prazo de prisão preventiva.
 
 ...
 
-###### Art. 81.º - 1. ...
+Art. 81.º - 1. ...
 
 a) Os secretários são escolhidos de entre diplomados com curso superior adequado ou o arquivista-caixa da câmara com dez anos de serviço e boas informações e o curso geral dos liceus;
 
@@ -430,7 +531,7 @@ d) ...
 
 ...
 
-###### Art. 96.º - 1. Aos agentes orientadores do tribunal de execução das penas incumbe a realização de inquéritos ou averiguações que os juízes ordenarem, bem como as diligências que lhes sejam determinadas pelos magistrados do Ministério Público, na fase de instrução preparatória.
+Art. 96.º - 1. Aos agentes orientadores do tribunal de execução das penas incumbe a realização de inquéritos ou averiguações que os juízes ordenarem, bem como as diligências que lhes sejam determinadas pelos magistrados do Ministério Público, na fase de instrução preparatória.
 
 2. No tribunal de execução das penas de Lisboa há dois lugares de orientador de 1.ª classe e outros dois de 2.ª classe; no do Porto há um lugar de 1.ª classe e outro de 2.ª classe.
 
@@ -438,7 +539,7 @@ d) ...
 
 ...
 
-###### Art. 105.º - 1. ...
+Art. 105.º - 1. ...
 
 2. Nos juízos de polícia e nos juízos de instrução criminal não há férias judiciais, sem prejuízo do direito a férias dos juízes que exerçam as respectivas funções nos termos da parte final do n.º 2 do artigo 26.º
 
@@ -448,7 +549,7 @@ d) ...
 
 ...
 
-###### Art. 112.º - 1. ...
+Art. 112.º - 1. ...
 
 2. Os juízes do Supremo têm o título de conselheiro, os das Relações o de desembargador e os juízes de direito, quando presidentes de círculo judicial ou colocados nos juízos criminais, nas varas cíveis ou nos tribunais de família, o de corregedor.
 
@@ -458,7 +559,7 @@ d) ...
 
 ...
 
-###### Art. 123.º - 1. ...
+Art. 123.º - 1. ...
 
 2. ...
 
@@ -470,9 +571,9 @@ Os restantes processos, se os houver, serão redistribuídos por todos os juíze
 
 ...
 
-###### Art. 133.º Além das incompatibilidades e inibições fixadas na legislação geral, os juízes na efectividade de serviço não podem em caso algum exercer, por si ou por interposta pessoa, as profissões de comerciante, industrial ou advogado, exercer cargos de administração, direcção ou gerência de quaisquer sociedades comerciais, nem desempenhar quaisquer funções nos corpos administrativos; podem, no entanto, advogar em causa própria, do seu cônjuge ou de algum descendente ou ascendente incapaz, independentemente de inscrição na Ordem dos Advogados.
+Art. 133.º Além das incompatibilidades e inibições fixadas na legislação geral, os juízes na efectividade de serviço não podem em caso algum exercer, por si ou por interposta pessoa, as profissões de comerciante, industrial ou advogado, exercer cargos de administração, direcção ou gerência de quaisquer sociedades comerciais, nem desempenhar quaisquer funções nos corpos administrativos; podem, no entanto, advogar em causa própria, do seu cônjuge ou de algum descendente ou ascendente incapaz, independentemente de inscrição na Ordem dos Advogados.
 
-###### Art. 135.º - 1. É proibido aos magistrados:
+Art. 135.º - 1. É proibido aos magistrados:
 
 a) Residir fora da sua circunscrição judicial, podendo fazê-lo em qualquer ponto dentro da área da comarca que seja servida por carreira regular de transportes urbanos. O Conselho Superior Judiciário pode, porém, autorizar a residência fora da comarca em localidade que não diste da sede desta mais de 30 km, desde que a facilidade das comunicações permita rápida deslocação entre a residência e o tribunal;
 
@@ -488,7 +589,7 @@ h) Exercer funções arbitrais que lhes não caibam por disposição legal, salv
 
 ...
 
-###### Art. 138.º - 1. ...
+Art. 138.º - 1. ...
 
 2. Quando a urgência não permita a obtenção prévia de autorização, cumpre aos magistrados comunicá-la imediatamente, enviando a conveniente justificação logo que possível.
 
@@ -496,7 +597,7 @@ h) Exercer funções arbitrais que lhes não caibam por disposição legal, salv
 
 ...
 
-###### Art. 141.º - 1. ...
+Art. 141.º - 1. ...
 
 2. Os juízes que perfaçam dez anos de bom e efectivo serviço na mesma classe da 1.ª instância ou na 2.ª instância têm direito, enquanto não ascenderem à categoria imediata, a uma participação emolumentar cuja taxa será superior em 10% à que vigore para os restantes magistrados e abonada nos mesmos termos; o vencimento e a participação emolumentar assim determinada não podem exceder 95% do montante global do vencimento e participação emolumentar da categoria imediatamente superior.
 
@@ -514,7 +615,7 @@ h) Exercer funções arbitrais que lhes não caibam por disposição legal, salv
 
 ...
 
-###### Art. 167.º - 1. ...
+Art. 167.º - 1. ...
 
 2 ...
 
@@ -526,7 +627,7 @@ h) Exercer funções arbitrais que lhes não caibam por disposição legal, salv
 
 ...
 
-###### Art. 169.º - 1. Logo que o magistrado for habitar a casa receberá por inventário, de um representante da câmara municipal ou do delegado dos Serviços Sociais do Ministério da Justiça, o mobiliário e demais apetrechamento existente, e pela mesma forma se procederá quando a deixar. No acto se registará qualquer anomalia verificada ou nota de conformidade.
+Art. 169.º - 1. Logo que o magistrado for habitar a casa receberá por inventário, de um representante da câmara municipal ou do delegado dos Serviços Sociais do Ministério da Justiça, o mobiliário e demais apetrechamento existente, e pela mesma forma se procederá quando a deixar. No acto se registará qualquer anomalia verificada ou nota de conformidade.
 
 2. Os magistrados são responsáveis pelos artigos de mobiliário ou apetrechamento que se inutilizem ou danifiquem por uso diverso daquele a que são destinados, ou por culpa ou negligência sua ou das pessoas que com ele habitam, e devem comunicar à câmara municipal ou aos Serviços Sociais qualquer ocorrência que se refira ao estado de conservação e à manutenção desses artigos de mobiliário e equipamento ou ao edifício.
 
@@ -534,7 +635,7 @@ h) Exercer funções arbitrais que lhes não caibam por disposição legal, salv
 
 ...
 
-###### Art. 171.º Incumbe ao Ministro da Justiça, na superintendência das funções do Ministério Público:
+Art. 171.º Incumbe ao Ministro da Justiça, na superintendência das funções do Ministério Público:
 
 ...
 
@@ -544,7 +645,7 @@ d) Autorizar o Ministério Público a confessar, transigir ou desistir, mesmo da
 
 ...
 
-###### Art. 175.º - 1. O Ministério Público junto dos tribunais é representado:
+Art. 175.º - 1. O Ministério Público junto dos tribunais é representado:
 
 a) No Supremo Tribunal de Justiça, pelo procurador-geral da República ou pelo
 
@@ -574,17 +675,17 @@ g) Em cada tribunal municipal, por um subdelegado do procurador da República.
 
 ...
 
-###### Art. 178.º - 1. Nos tribunais de comarca haverá um delegado do procurador da República por cada juízo.
+Art. 178.º - 1. Nos tribunais de comarca haverá um delegado do procurador da República por cada juízo.
 
 2. Nas comarcas de Lisboa e do Porto, o Ministério Público é representado por delegados do procurador da República em número constante do mapa anexo a este diploma, cabendo ao procurador a distribuição do serviço entre esses delegados, sem prejuízo do disposto no artigo anterior.
 
 3. Por determinação do procurador-geral da República ou dos procuradores da República, pode ser atribuída a um adjunto do procurador a representação directa do Ministério Público em um ou mais processos pendentes na mesma comarca ou em comarcas diversas, sem prejuízo da possibilidade de intervenção dos adjuntos em quaisquer actos processuais para assegurar a coordenação e eficiência da actividade do Ministério Público.
 
-###### Art. 179.º São aplicáveis ao Ministério Público, com as necessárias adaptações, as disposições deste diploma que permitem a colocação temporária de magistrados além do quadro em quaisquer tribunais cujo serviço, por circunstâncias de carácter transitório, se encontre sensivelmente atrasado ou em risco de grave acumulação.
+Art. 179.º São aplicáveis ao Ministério Público, com as necessárias adaptações, as disposições deste diploma que permitem a colocação temporária de magistrados além do quadro em quaisquer tribunais cujo serviço, por circunstâncias de carácter transitório, se encontre sensivelmente atrasado ou em risco de grave acumulação.
 
 ...
 
-###### Art. 183.º - 1. Junto dos círculos judiciais, a substituição do adjunto do procurador da República compete ao delegado da comarca sede do círculo; havendo mais de um delegado, o substituto será o mais antigo.
+Art. 183.º - 1. Junto dos círculos judiciais, a substituição do adjunto do procurador da República compete ao delegado da comarca sede do círculo; havendo mais de um delegado, o substituto será o mais antigo.
 
 2. ...
 
@@ -598,7 +699,7 @@ g) Em cada tribunal municipal, por um subdelegado do procurador da República.
 
 7. ...
 
-###### Art. 184.º - 1. Ao Ministério Público compete:
+Art. 184.º - 1. Ao Ministério Público compete:
 
 a) ...
 
@@ -628,7 +729,7 @@ m) Exercer as mais atribuições que lhe sejam cometidas por lei.
 
 3. ...
 
-###### Art. 185.º - 1. O Ministério Público intervém nos processos como parte principal:
+Art. 185.º - 1. O Ministério Público intervém nos processos como parte principal:
 
 a) ...
 
@@ -650,21 +751,21 @@ f) ...
 
 3. Quando intervier como parte principal ou acessória, o Ministério Público tem sempre vista nos processos em recurso nos tribunais superiores, para dizer o que se lhe oferecer em defesa dos interesses da pessoa representada ou assistida, independentemente de despacho do relator.
 
-###### Art. 186.º - 1. ...
+Art. 186.º - 1. ...
 
 2. Se a lei não regular expressamente a forma e os termos da intervenção, o Ministério Público deve, na 1.ª instância, ser notificado para a audiência preparatória e para a discussão e julgamento da causa, ter vista do processo antes do despacho saneador e da sentença final e ser oportunamente notificado da organização do questionário; pode dizer, oralmente e por escrito, o que se lhe oferecer em defesa dos interesses da pessoa assistida, requerer ou produzir meios de prova, e, além disso, é ouvido sempre que o requeira ou o juiz o determine.
 
 ...
 
-###### Art. 190.º - 1. Logo que estejam empossados, os magistrados do Ministério Público remeterão um exemplar do termo de posse ao seu superior hierárquico, com destino ao processo individual, e outro à Direcção-Geral dos Serviços Judiciários.
+Art. 190.º - 1. Logo que estejam empossados, os magistrados do Ministério Público remeterão um exemplar do termo de posse ao seu superior hierárquico, com destino ao processo individual, e outro à Direcção-Geral dos Serviços Judiciários.
 
 2. Quando se trate de primeira nomeação, o termo de posse será acompanhado de uma nota com os elementos de identificação e biográficos que forem determinados genericamente pelo procurador-geral da República.
 
 ...
 
-###### Art. 192.º Em tudo quanto não vem especialmente regulado neste capítulo é extensivo ao Ministério Público o disposto nos artigos 43.º, 44.º, 61.º, 65.º, 103.º, 112.º a 114.º, 117.º, 123.º a 158.º e 167.º a 169.º, com as adaptações que se mostrem necessárias.
+Art. 192.º Em tudo quanto não vem especialmente regulado neste capítulo é extensivo ao Ministério Público o disposto nos artigos 43.º, 44.º, 61.º, 65.º, 103.º, 112.º a 114.º, 117.º, 123.º a 158.º e 167.º a 169.º, com as adaptações que se mostrem necessárias.
 
-###### Art. 193.º - 1. ...
+Art. 193.º - 1. ...
 
 2. ...
 
@@ -678,7 +779,7 @@ f) ...
 
 ...
 
-###### Art. 216.º - 1. ...
+Art. 216.º - 1. ...
 
 2. ...
 
@@ -688,7 +789,7 @@ f) ...
 
 ...
 
-###### Art. 218.º Para a execução dos serviços a que se acha adstrita, compete à secretaria:
+Art. 218.º Para a execução dos serviços a que se acha adstrita, compete à secretaria:
 
 a) ...
 
@@ -710,17 +811,17 @@ i) ...
 
 j) ...
 
-###### Art. 219.º - 1. A secretaria enviará à Secretaria-Geral do Ministério da Justiça, a fim de serem integrados na biblioteca e no centro de documentação do Ministério, duplicados de todas as fichas ou índices que elabore em cumprimento da alínea i) do artigo anterior e nota de todos os livros e publicações que adquira para a biblioteca da Procuradoria-Geral.
+Art. 219.º - 1. A secretaria enviará à Secretaria-Geral do Ministério da Justiça, a fim de serem integrados na biblioteca e no centro de documentação do Ministério, duplicados de todas as fichas ou índices que elabore em cumprimento da alínea i) do artigo anterior e nota de todos os livros e publicações que adquira para a biblioteca da Procuradoria-Geral.
 
 2. A biblioteca do Ministério enviará à Procuradoria-Geral da República, periodicamente, nota de todos os livros ou publicações que adquirir.
 
 ...
 
-###### Art. 224.º - 1. As procuradorias da República junto das Relações são dirigidas por um ajudante do procurador-geral, com a categoria de procurador da República, o qual é coadjuvado por um ou mais adjuntos nos termos do mapa anexo a este estatuto.
+Art. 224.º - 1. As procuradorias da República junto das Relações são dirigidas por um ajudante do procurador-geral, com a categoria de procurador da República, o qual é coadjuvado por um ou mais adjuntos nos termos do mapa anexo a este estatuto.
 
 2. O número de adjuntos do procurador pode ser aumentado em portaria dos Ministros da Justiça e das Finanças.
 
-###### Art. 225.º Os procuradores da República distribuirão com os adjuntos as atribuições do Ministério Público que lhes caibam; compete-lhes, porém, pessoalmente:
+Art. 225.º Os procuradores da República distribuirão com os adjuntos as atribuições do Ministério Público que lhes caibam; compete-lhes, porém, pessoalmente:
 
 a) ...
 
@@ -738,7 +839,7 @@ g) ...
 
 h) Dar posse aos seus adjuntos e aos delegados e subdelegados da comarca sede da Relação.
 
-###### Art. 226.º - 1. Os adjuntos do procurador da República são nomeados, em comissão, de entre os delegados aprovados em concurso para juiz de direito ou juízes de direito de 3.ª classe. A primeira nomeação não poderá ser recusada quando recair em delegados.
+Art. 226.º - 1. Os adjuntos do procurador da República são nomeados, em comissão, de entre os delegados aprovados em concurso para juiz de direito ou juízes de direito de 3.ª classe. A primeira nomeação não poderá ser recusada quando recair em delegados.
 
 2. A nomeação é feita por três anos, prorrogáveis por novos triénios, mas cessa, em qualquer caso, logo que o magistrado seja promovido a juiz de direito de 1.ª classe.
 
@@ -746,7 +847,7 @@ h) Dar posse aos seus adjuntos e aos delegados e subdelegados da comarca sede da
 
 4. Para efeitos de vencimentos os adjuntos do procurador da República são equiparados a juízes de direito de 2.ª classe.
 
-###### Art. 227.º Além da função de coadjuvar o procurador, compete especialmente aos adjuntos colocados nas procuradorias:
+Art. 227.º Além da função de coadjuvar o procurador, compete especialmente aos adjuntos colocados nas procuradorias:
 
 ...
 
@@ -758,9 +859,9 @@ h) Prestar serviço de turno na procuradoria de que dependam e assegurar a subst
 
 ...
 
-###### Art. 229.º Nos círculos judiciais onde prestam serviço compete aos adjuntos as funções discriminadas nas alíneas a), b) e d) a g) do artigo 227.º, sem prejuízo da direcção superior dos respectivos procuradores.
+Art. 229.º Nos círculos judiciais onde prestam serviço compete aos adjuntos as funções discriminadas nas alíneas a), b) e d) a g) do artigo 227.º, sem prejuízo da direcção superior dos respectivos procuradores.
 
-###### Art. 230.º - 1. ...
+Art. 230.º - 1. ...
 
 2. ...
 
@@ -768,7 +869,7 @@ h) Prestar serviço de turno na procuradoria de que dependam e assegurar a subst
 
 ...
 
-###### Art. 233.º - 1. Os delegados são nomeados de entre os indivíduos que não tenham ainda completado 35 anos de idade, sem prejuízo do disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, e hajam sido aprovados no concurso de habilitação para o exercício do cargo; a primeira nomeação faz-se para comarcas de 3.ª classe, sendo o acesso à 2.ª e à 1.ª classes feito mediante promoção, por antiguidade, com exclusão dos delegados que tenham classificação inferior à de Bom.
+Art. 233.º - 1. Os delegados são nomeados de entre os indivíduos que não tenham ainda completado 35 anos de idade, sem prejuízo do disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, e hajam sido aprovados no concurso de habilitação para o exercício do cargo; a primeira nomeação faz-se para comarcas de 3.ª classe, sendo o acesso à 2.ª e à 1.ª classes feito mediante promoção, por antiguidade, com exclusão dos delegados que tenham classificação inferior à de Bom.
 
 2. Poderão ser nomeados independentemente de concurso os requerentes que, reunindo os demais requisitos, tenham classificação universitária igual ou superior a 14 valores e tenham sido considerados aptos para o exercício do cargo pelo Conselho Superior do Ministério Público, com base na apreciação de trabalhos forenses e de informações prestadas pelo procurador da República e pelo adjunto no circulo onde tenham exercido funções de delegado interino ou subdelegado durante um ano.
 
@@ -776,23 +877,23 @@ h) Prestar serviço de turno na procuradoria de que dependam e assegurar a subst
 
 ...
 
-###### Art. 239.º Sob proposta do procurador-geral da República, o Ministro da Justiça determinará quais os registos e arquivos que devem existir em cada delegação, bem como as regras a observar na organização e manutenção desses registos e arquivos.
+Art. 239.º Sob proposta do procurador-geral da República, o Ministro da Justiça determinará quais os registos e arquivos que devem existir em cada delegação, bem como as regras a observar na organização e manutenção desses registos e arquivos.
 
 ...
 
-###### Art. 243.º - 1. ...
+Art. 243.º - 1. ...
 
 2. Quando hajam de ser vendidos bens móveis ou imóveis em processos nos quais sejam exequentes ou tenham reclamado créditos com garantia real o Estado ou institutos públicos representados pelo Ministério Público, os delegados consultarão obrigatoriamente, com a antecedência necessária, as repartições interessadas, sobre a conveniência da arrematação para essas entidades, enviando-lhes os necessários elementos; para o efeito, os escrivães de direito entregarão aos delegados, com a devida antecedência, certidão do despacho que ordene a venda e, no caso de bens imóveis, também certidão da sua descrição.
 
 A falta de resposta das repartições consultadas, até à véspera do dia designado, equivale a indicação no sentido de que não há conveniência na arrematação.
 
-###### Art. 244.º Logo que, em quaisquer processos sejam declarados perdidos a favor do Estado objectos ou valores, devem os delegados comunicar o facto ao procurador da República, a fim de este tomar as providências necessárias sobre o destino a dar a tais bens.
+Art. 244.º Logo que, em quaisquer processos sejam declarados perdidos a favor do Estado objectos ou valores, devem os delegados comunicar o facto ao procurador da República, a fim de este tomar as providências necessárias sobre o destino a dar a tais bens.
 
-###### Art. 245.º É aplicável aos substitutos dos delegados o disposto no n.º 8 do artigo 141.º
+Art. 245.º É aplicável aos substitutos dos delegados o disposto no n.º 8 do artigo 141.º
 
 ...
 
-###### Art. 247.º - 1. Os subdelegados são nomeados de preferência entre licenciados em Direito ou alunos dos cursos mais adiantados das Faculdades de Direito, sendo a sua nomeação precedida de proposta do delegado do procurador da República na comarca onde vão servir.
+Art. 247.º - 1. Os subdelegados são nomeados de preferência entre licenciados em Direito ou alunos dos cursos mais adiantados das Faculdades de Direito, sendo a sua nomeação precedida de proposta do delegado do procurador da República na comarca onde vão servir.
 
 2 ...
 
@@ -800,7 +901,7 @@ A falta de resposta das repartições consultadas, até à véspera do dia desig
 
 ...
 
-###### Art. 255.º - 1. ...
+Art. 255.º - 1. ...
 
 2. Quando seja de prever que o impedimento se prolongue, abrir-se-á concurso para provimento interino. Mas, se a duração provável do impedimento ou a urgência no provimento não aconselharem a abertura de concurso, o Ministro da Justiça preencherá imediata e livremente a vaga, sendo esta nomeação equiparada ao provimento em concurso para efeitos do artigo 191.º
 
@@ -808,7 +909,7 @@ A falta de resposta das repartições consultadas, até à véspera do dia desig
 
 ...
 
-###### Art. 263.º - 1. ...
+Art. 263.º - 1. ...
 
 2 ...
 
@@ -816,7 +917,7 @@ A falta de resposta das repartições consultadas, até à véspera do dia desig
 
 ...
 
-###### Art. 269.º - 1. ...
+Art. 269.º - 1. ...
 
 a) ...
 
@@ -828,17 +929,17 @@ b) Velar pelo cumprimento dos deveres dos funcionários, superintender nos servi
 
 ...
 
-###### Art. 317.º - 1. (Texto do actual artigo.)
+Art. 317.º - 1. (Texto do actual artigo.)
 
 2. O disposto no número anterior não se aplica nas secretarias dos juízos de polícia, nas quais os processos continuam a ser movimentados pelos escrivães das secções de processos até darem entrada no arquivo.
 
-###### Art. 318.º - 1. Sempre que as circunstâncias o exigirem, haverá nos tribunais oficiais porteiros encarregados da guarda do edifício onde esses tribunais funcionam e da fiscalização da sua limpeza e estado de conservação, da condução das instalações de aquecimento, eléctricas e outras e ainda da realização de pequenas reparações.
+Art. 318.º - 1. Sempre que as circunstâncias o exigirem, haverá nos tribunais oficiais porteiros encarregados da guarda do edifício onde esses tribunais funcionam e da fiscalização da sua limpeza e estado de conservação, da condução das instalações de aquecimento, eléctricas e outras e ainda da realização de pequenas reparações.
 
 2. Os oficiais porteiros são obrigados a frequentar os cursos de preparação profissional que o Ministério da Justiça organizar, para bom desempenho das funções que lhes são cometidas. A falta de comparência a esses cursos equivale a ausência ilegítima do serviço e a verificação de não aproveitamento e desinteresse constituem faltas disciplinares.
 
 3. ...
 
-###### Art. 319.º - 1. ...
+Art. 319.º - 1. ...
 
 2 ...
 
@@ -846,17 +947,17 @@ b) Velar pelo cumprimento dos deveres dos funcionários, superintender nos servi
 
 ...
 
-###### Art. 331.º - 1. Além das incompatibilidades e inibições fixadas na lei geral, os lugares das secretarias judiciais são incompatíveis com qualquer outro emprego público, com as profisssões de comerciante, industrial, advogado ou solicitador, com as de perito ou louvado nomeado pelas partes em processos pendentes nos tribunais, ou de administrador de falências ou insolvências, não podendo outrossim os respectivos serventuários fazer por outrem quaisquer requerimentos, ainda mesmo que a lei não exija que sejam assinados por advogado ou solicitador.
+Art. 331.º - 1. Além das incompatibilidades e inibições fixadas na lei geral, os lugares das secretarias judiciais são incompatíveis com qualquer outro emprego público, com as profisssões de comerciante, industrial, advogado ou solicitador, com as de perito ou louvado nomeado pelas partes em processos pendentes nos tribunais, ou de administrador de falências ou insolvências, não podendo outrossim os respectivos serventuários fazer por outrem quaisquer requerimentos, ainda mesmo que a lei não exija que sejam assinados por advogado ou solicitador.
 
 2. ...
 
 ...
 
-###### Art. 337.º - 1. (Texto actual do artigo.)
+Art. 337.º - 1. (Texto actual do artigo.)
 
 2. Na falta de chefes de secretaria ou escrivães de direito de 1.ª classe, ou quando o seu registo disciplinar mostre a inconveniência da sua nomeação, o provimento dos lugares referidos no número anterior é feito de harmonia com o disposto no artigo 338.º
 
-###### Art. 338.º - 1. Os lugares de chefe de secretaria são providos em chefes de secretaria ou escrivães de direito, por transferência, e em indivíduos habilitados com o concurso para escrivão de direito, todos com classificação de serviço não inferior à de Bom, e em diplomados em Direito.
+Art. 338.º - 1. Os lugares de chefe de secretaria são providos em chefes de secretaria ou escrivães de direito, por transferência, e em indivíduos habilitados com o concurso para escrivão de direito, todos com classificação de serviço não inferior à de Bom, e em diplomados em Direito.
 
 2. ...
 
@@ -866,7 +967,7 @@ b) Velar pelo cumprimento dos deveres dos funcionários, superintender nos servi
 
 ...
 
-###### Art. 342.º - 1. ...
+Art. 342.º - 1. ...
 
 2. ...
 
@@ -882,11 +983,11 @@ b) Velar pelo cumprimento dos deveres dos funcionários, superintender nos servi
 
 ...
 
-###### Art. 346.º O provimento dos lugares de escriturário-dactilógrafo, telefonista, contínuo, correio, oficial porteiro e motorista é feito por contrato, e o dos demais funcionários de justiça, por nomeação.
+Art. 346.º O provimento dos lugares de escriturário-dactilógrafo, telefonista, contínuo, correio, oficial porteiro e motorista é feito por contrato, e o dos demais funcionários de justiça, por nomeação.
 
 ...
 
-###### Art. 353.º - 1. ...
+Art. 353.º - 1. ...
 
 2. Os funcionários de justiça podem ser destacados para a Polícia Judiciária, em comissão e além do quadro, por períodos renováveis de dois anos, continuando os seus vencimentos a ser processados pelos quadros de origem.
 
@@ -894,7 +995,7 @@ b) Velar pelo cumprimento dos deveres dos funcionários, superintender nos servi
 
 ...
 
-###### Art. 365.º - 1. Os requerimentos, escritos e assinados por cada concorrente, além de conterem a declaração da naturalidade e do domicilio, serão acompanhados de documentos comprovativos dos seguintes requisitos:
+Art. 365.º - 1. Os requerimentos, escritos e assinados por cada concorrente, além de conterem a declaração da naturalidade e do domicilio, serão acompanhados de documentos comprovativos dos seguintes requisitos:
 
 ...
 
@@ -906,11 +1007,11 @@ e) Ter efectuado o depósito a que se refere o artigo seguinte.
 
 ...
 
-###### Art. 370.º - 1. Os membros do júri têm direito à gratificação, livre de descontos, que for fixada por despacho do Ministro da Justiça além das ajudas de custo e das despesas de transporte devidas aos que residam fora de Lisboa.
+Art. 370.º - 1. Os membros do júri têm direito à gratificação, livre de descontos, que for fixada por despacho do Ministro da Justiça além das ajudas de custo e das despesas de transporte devidas aos que residam fora de Lisboa.
 
 2 ...
 
-###### Art. 377 º - 1. ...
+Art. 377 º - 1. ...
 
 2 ...
 
@@ -918,13 +1019,13 @@ e) Ter efectuado o depósito a que se refere o artigo seguinte.
 
 ...
 
-###### Art. 380.º - 1. ...
+Art. 380.º - 1. ...
 
 2. São também admitidos como concorrentes voluntários os diplomados em Direito com informação final universitária não inferior a 15 valores, desde que tenham o mínimo de cinco anos de bom e efectivo serviço nas funções de delegado do procurador da República, inspector da Polícia Judiciária, conservador do Registo Predial ou Civil, notário ou advogado.
 
 ...
 
-###### Art. 385.º - 1. ...
+Art. 385.º - 1. ...
 
 2. ...
 
@@ -934,7 +1035,7 @@ e) Ter efectuado o depósito a que se refere o artigo seguinte.
 
 ...
 
-###### Art. 387.º 1. ...
+Art. 387.º 1. ...
 
 2. O júri, quando reconheça especiais qualidades em algum candidato excluído, poderá recomendar a sua manutenção em funções públicas para que revele aptidão.
 
@@ -942,7 +1043,7 @@ e) Ter efectuado o depósito a que se refere o artigo seguinte.
 
 ...
 
-###### Art. 396.º - 1. Aos concursos para solicitador encartado são admitidos os requerentes que satisfaçam os requisitos mencionados no n.º 1 do artigo 365.º e, ainda, aos seguintes:
+Art. 396.º - 1. Aos concursos para solicitador encartado são admitidos os requerentes que satisfaçam os requisitos mencionados no n.º 1 do artigo 365.º e, ainda, aos seguintes:
 
 a) ...
 
@@ -956,7 +1057,7 @@ c) ...
 
 ...
 
-###### Art. 403.º Compete ainda ao Conselho:
+Art. 403.º Compete ainda ao Conselho:
 
 a) ...
 
@@ -968,7 +1069,7 @@ d) Estabelecer os critérios a observar na classificação do mérito dos magist
 
 ...
 
-###### Art. 411.º Compete ao vice-presidente:
+Art. 411.º Compete ao vice-presidente:
 
 ...
 
@@ -976,7 +1077,7 @@ i) Promover reuniões de inspectores, a fim de se assentar em critérios uniform
 
 ...
 
-###### Art. 416.º - 1. ...
+Art. 416.º - 1. ...
 
 2. Na secretaria exercerão funções, em comissão de serviço, quatro funcionários de justiça, escolhidos pelo Conselho, com vencimento igual ao dos chefes de secretaria dos tribunais cíveis de Lisboa, dos escrivães de direito dos mesmos tribunais e dos chefes de secretaria dos tribunais criminais da referida comarca, conforme se trate de escrivães de 1.ª, 2.ª, ou 3.ª classe, respectivamente. O vencimento será abonado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
@@ -986,7 +1087,7 @@ i) Promover reuniões de inspectores, a fim de se assentar em critérios uniform
 
 5. ...
 
-###### Art. 418.º - 1. ...
+Art. 418.º - 1. ...
 
 2. ...
 
@@ -1000,7 +1101,7 @@ i) Promover reuniões de inspectores, a fim de se assentar em critérios uniform
 
 ...
 
-###### Art. 420.º - 1. ...
+Art. 420.º - 1. ...
 
 a) ...
 
@@ -1014,7 +1115,7 @@ d) ...
 
 ...
 
-###### Art. 424.º - 1. ...
+Art. 424.º - 1. ...
 
 2. Os magistrados em serviço nas ilhas adjacentes há mais de dezoito meses têm preferência para a colocação no continente, com excepção dos que tenham classificação de serviço inferior à de Bom ou que tenham sido punidos há menos de dois anos com qualquer pena disciplinar registada, sem prejuízo do disposto na alínea a) do número anterior.
 
@@ -1022,7 +1123,7 @@ d) ...
 
 ...
 
-###### Art. 430.º - 1. ...
+Art. 430.º - 1. ...
 
 a) Se encontrem no quinto superior da escala de antiguidade da respectiva classe;
 
@@ -1036,7 +1137,7 @@ b) ...
 
 ...
 
-###### Art. 433.º - 1. Os corregedores e os juízes de quaisquer círculos, tribunais, varas ou juízos, os adjuntos do procurador da República nos círculos judiciais e os delegados e curadores junto de quaisquer tribunais, varas ou juízos, remeterão ao respectivo superior hierárquico, até ao dia 20 de Janeiro de cada ano, um relatório em duplicado acerca dos serviços a seu cargo, bem como do julgado municipal, se na comarca o houver, e, também em duplicado, a sua informação acerca da competência, assiduidade, diligência e honestidade de cada funcionário de justiça, designado pelo seu nome individual, deixando cópia em livro a isso especialmente destinado.
+Art. 433.º - 1. Os corregedores e os juízes de quaisquer círculos, tribunais, varas ou juízos, os adjuntos do procurador da República nos círculos judiciais e os delegados e curadores junto de quaisquer tribunais, varas ou juízos, remeterão ao respectivo superior hierárquico, até ao dia 20 de Janeiro de cada ano, um relatório em duplicado acerca dos serviços a seu cargo, bem como do julgado municipal, se na comarca o houver, e, também em duplicado, a sua informação acerca da competência, assiduidade, diligência e honestidade de cada funcionário de justiça, designado pelo seu nome individual, deixando cópia em livro a isso especialmente destinado.
 
 O relatório será acompanhado de dois exemplares das informações recebidas dos juízes e subdelegados municipais, nos termos do número seguinte.
 
@@ -1050,7 +1151,7 @@ O relatório será acompanhado de dois exemplares das informações recebidas do
 
 ...
 
-###### Art. 445.º - 1. ...
+Art. 445.º - 1. ...
 
 ...
 
@@ -1060,11 +1161,11 @@ r) Instalação, arrumação e estado de asseio, conservação e segurança do t
 
 2 ...
 
-###### Art. 446.º - 1. Os inspectores devem ouvir os magistrados e funcionários sobre todas as faltas ou procedimentos anómalos que notem. Para esse efeito, entregarão ao magistrado ou funcionário nota articulada. Recebida a resposta, procederão a quaisquer diligências complementares que se mostrem necessárias.
+Art. 446.º - 1. Os inspectores devem ouvir os magistrados e funcionários sobre todas as faltas ou procedimentos anómalos que notem. Para esse efeito, entregarão ao magistrado ou funcionário nota articulada. Recebida a resposta, procederão a quaisquer diligências complementares que se mostrem necessárias.
 
 2. O inspeccionado não pode ser classificado sem a observância das formalidades referidas no número anterior.
 
-###### Art. 447.º - 1. ...
+Art. 447.º - 1. ...
 
 2. ...
 
@@ -1080,7 +1181,7 @@ r) Instalação, arrumação e estado de asseio, conservação e segurança do t
 
 ...
 
-###### Art. 459.º - 1. Os magistrados e funcionários sob a jurisdição disciplinar do Conselho Superior Judiciário ou do Conselho Superior do Ministério Público estão sujeitos às penas seguintes:
+Art. 459.º - 1. Os magistrados e funcionários sob a jurisdição disciplinar do Conselho Superior Judiciário ou do Conselho Superior do Ministério Público estão sujeitos às penas seguintes:
 
 ...
 
@@ -1092,13 +1193,13 @@ r) Instalação, arrumação e estado de asseio, conservação e segurança do t
 
 ...
 
-###### Art. 464.º - 1. ...
+Art. 464.º - 1. ...
 
 2. As penas específicas de multa por infracções cometidas simultaneamente ou sucessivamente são acumuláveis, mas o seu quantitativo total não pode exceder 10000$00.
 
 ...
 
-###### Art. 537.º - 1. ...
+Art. 537.º - 1. ...
 
 2. ...
 
@@ -1114,13 +1215,13 @@ b) Os gabinetes ou consultórios de patrocínio gratuito estabelecidos pela Orde
 
 ...
 
-###### Art. 672.º - 1. (Texto actual do artigo.)
+Art. 672.º - 1. (Texto actual do artigo.)
 
 2. Serão imediatamente comunicadas ao Conselho Superior Judiciário ou à Procuradoria-Geral da República as decisões transitadas que apliquem quaisquer penas disciplinares a advogados que exerçam cargos a que esteja ligada a substituição do juiz de direito ou delegado do procurador da República ou a que sejam inerentes funções judiciais ou do Ministério Público.
 
 ...
 
-###### Art. 679.º - 1. ...
+Art. 679.º - 1. ...
 
 2. O quadro de solicitadores nas comarcas do continente e ilhas adjacentes é de quatro nas comarcas de 1.ª classe com mais de um juízo, de três nas comarcas de 1.ª classe com um único juízo e nas comarcas de 2.ª classe com mais de um juízo, de dois nas comarcas de 2.ª classe com um único juízo e nas comarcas de 3.ª classe. Se a comarca tiver julgado municipal, na sede deste poderá ter escritório mais um solicitador.
 
@@ -1130,7 +1231,7 @@ b) Os gabinetes ou consultórios de patrocínio gratuito estabelecidos pela Orde
 
 5. ...
 
-###### Art. 691.º - 1. Nas comarcas. onde não esteja completo, pode o quadro de solicitadores ser completado com solicitadores provisionários se, ouvida a Ordem dos Advogados e a Câmara dos Solicitadores e obtido parecer do Conselho Superior Judiciário, houver nisso conveniência.
+Art. 691.º - 1. Nas comarcas. onde não esteja completo, pode o quadro de solicitadores ser completado com solicitadores provisionários se, ouvida a Ordem dos Advogados e a Câmara dos Solicitadores e obtido parecer do Conselho Superior Judiciário, houver nisso conveniência.
 
 2. A nomeação compete ao juiz e é válida por um ano, podendo ser renovada por períodos iguais, nos termos do número anterior, sem que acresçam novas custas.
 
@@ -1138,7 +1239,7 @@ b) Os gabinetes ou consultórios de patrocínio gratuito estabelecidos pela Orde
 
 4. Da decisão do juiz cabe reclamação para o presidente da Relação do distrito, a processar nos termos dos artigos 688.º e 689.º do Código de Processo Civil.
 
-###### Art. 693.º - 1. Podem ser nomeados definitivamente, preenchendo vaga, os solicitadores provisionários cuja nomeação se tenha mantido durante vinte anos consecutivos.
+Art. 693.º - 1. Podem ser nomeados definitivamente, preenchendo vaga, os solicitadores provisionários cuja nomeação se tenha mantido durante vinte anos consecutivos.
 
 2. A verificação dos pressupostos legais para a conversão em definitiva das nomeações dos solicitadores provisionários é feita, a requerimento dos interessados, nos processos de nomeação.
 
@@ -1146,19 +1247,19 @@ Tendo o solicitador exercido em mais de uma comarca, o juiz da comarca onde exer
 
 3. A nomeação definitiva será feita pelo Ministro da Justiça, sob informação do juiz da comarca.
 
-###### Art. 2.º Os mapas II e V anexos ao Estatuto Judiciário são alterados nos termos indicados no final do presente diploma.
+Art. 2.º Os mapas II e V anexos ao Estatuto Judiciário são alterados nos termos indicados no final do presente diploma.
 
-###### Art. 3.º - 1. A circunscrição médico-legal com sede em Lisboa compreende o distrito judicial de Évora.
+Art. 3.º - 1. A circunscrição médico-legal com sede em Lisboa compreende o distrito judicial de Évora.
 
 2. Nas comarcas cujos tribunais são constituídos por mais de um juízo, é de três ou mais o número de peritos a que se refere o artigo 1.º do [Decreto-Lei n.º 42216](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42216-1959-585840), de 15 de Abril de 1959; nas restantes comarcas e nos julgados municipais, esse número é de dois ou três.
 
-###### Art. 4.º Os ajudantes de escrivão são equiparados, para efeitos de participação emolumentar, aos oficiais de diligências do respectivo tribunal.
+Art. 4.º Os ajudantes de escrivão são equiparados, para efeitos de participação emolumentar, aos oficiais de diligências do respectivo tribunal.
 
-###### Art. 5.º Os actuais auxiliares sociais dos tribunais de execução das penas transitam para os lugares de agente orientador, segundo lista a publicar no Diário do Governo, sem necessidade de qualquer outra formalidade.
+Art. 5.º Os actuais auxiliares sociais dos tribunais de execução das penas transitam para os lugares de agente orientador, segundo lista a publicar no Diário do Governo, sem necessidade de qualquer outra formalidade.
 
-###### Art. 6.º O artigo 3.º da Organização Tutelar de Menores aprovada pelo [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44288-1962-322682), de 20 de Abril de 1962, passa a ter a redacção seguinte:
+Art. 6.º O artigo 3.º da Organização Tutelar de Menores aprovada pelo [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44288-1962-322682), de 20 de Abril de 1962, passa a ter a redacção seguinte:
 
-###### Art. 3.º - 1. ...
+Art. 3.º - 1. ...
 
 2. Os tribunais centrais de Lisboa e Porto são constituídos por três juízos, cada um dos quais tem um juiz e um curador de menores, sendo a secretaria comum aos três juízos.
 
@@ -1166,15 +1267,15 @@ Tendo o solicitador exercido em mais de uma comarca, o juiz da comarca onde exer
 
 4. (Texto do actual n.º 3.)
 
-###### Art. 7.º Serão resolvidas por despacho do Ministro da Justiça as dúvidas que se suscitem na execução do presente diploma.
+Art. 7.º Serão resolvidas por despacho do Ministro da Justiça as dúvidas que se suscitem na execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 25 de Julho de 1973.**
+Promulgado em 25 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ
 
 MAPA II
 
@@ -1198,7 +1299,7 @@ Lisboa: 19 delegados e 38 subdelegados;
 
 Porto: 10 delegados e 19 subdelegados.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.
 
 MAPA V
 
@@ -1228,4 +1329,4 @@ Comarca do Porto
 
 5.º juízo correccional - os juízes do 4.º juízo correccional e do 2.º juízo de polícia;
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

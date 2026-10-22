@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/64-1984-400007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2371e083865fa34dbfea501c7b1093dc63986932a82e417ff5c929bf052b7093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2abeda24aa230f89387f05277f0e55fa2cfd06982ded54ee40dc7ff8a587a0ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Marinha
+- Ministério da Defesa Nacional
+- Servidão Militar
+- Vila Franca de Xira
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687999:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:30Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +114,7 @@ Observando, finalmente, o disposto na [Lei n.º 2078](https://diariodarepublica.
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea d) do artigo 1.º do [Decreto n.º 45335](https://diariodarepublica.pt/dr/detalhe/decreto/45335-1963-687999), de 2 de Novembro de 1963, alterada pelo [Decreto n.º 99/78](https://diariodarepublica.pt/dr/detalhe/decreto/99-1978-329790), de 15 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º A alínea d) do artigo 1.º do [Decreto n.º 45335](https://diariodarepublica.pt/dr/detalhe/decreto/45335-1963-687999), de 2 de Novembro de 1963, alterada pelo [Decreto n.º 99/78](https://diariodarepublica.pt/dr/detalhe/decreto/99-1978-329790), de 15 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -102,16 +122,16 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 d) A sul, pela perpendicular à linha de caminho de ferro que passa junto às instalações do Grupo n.º 1 de Escolas da Armada, traçada à distância de 130 m da esquina sudoeste do pavilhão gimnodesportivo das mesmas instalações.
 
-###### Art. 2.º Fica revogado o [Decreto n.º 99/78](https://diariodarepublica.pt/dr/detalhe/decreto/99-1978-329790), de 15 de Setembro.
+Art. 2.º Fica revogado o [Decreto n.º 99/78](https://diariodarepublica.pt/dr/detalhe/decreto/99-1978-329790), de 15 de Setembro.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - João Rosado Correia.
 
-**Assinado em 27 de Setembro de 1984.**
+Assinado em 27 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Setembro de 1984.**
+Referendado em 28 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

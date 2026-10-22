@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,166 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47619-1967-509209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de7cb84279839d0d6094ddc36bde86b36a0c394f4efbef2aab2f08ff03f6f6de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c7c4ee4a7c761a41f47dfb42afde9fa0727cb4fc7859111e424e7c6c6e7619e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo
+- Código do Notariado
+- Conservatória dos Registos Centrais
+- Notário
+- Reconhecimento Notarial
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:478043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200814:por
+  label: "Alterados os arts. 35º, 36º, 44º, 53º, 55º, 56º, 62º, 63º, 75º, 78º, 91º, 112º, 114º, 115º, 130º, 135º, 136º, 138º,\
+    \ 140º, 142º, 151º, 163º, 165º, 167º, 205º, 207º e 214º, do Código do Notariado pelo DEC LEI.49056.1969.06.12.MJ, DG.IS\
+    \ [137] de 12/Jun/1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49056-1969-200814
+  date: '1969-06-12'
+- type: amended_by
+  target: pt:dre:419807:por
+  label: "Conferida nova redacção ao nº 2 do art. 133º do Código do Notariado pelo DEC LEI.429/73.1973.08.25.MJ, DR.IS [199]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/429-1973-419807
+  date: '1973-08-25'
+- type: amended_by
+  target: pt:dre:336681:por
+  label: "Conferida nova redacção ao nº 3 do art. 133º do Código do Notariado pelo DEC LEI.389/75.1975.07.22.MJ, DR.IS [167]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1975-336681
+  date: '1975-07-22'
+- type: amended_by
+  target: pt:dre:252033:por
+  label: "Alterado o nº 3 do art. 133º do Código do Notariado, na redacção dada pelo Dec Lei 389/75 de 22-Jul, pelo DEC LEI.202/77.1977.05.20.MJ,\
+    \ DR.IS, [117]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1977-252033
+  date: '1977-05-20'
+- type: amended_by
+  target: pt:dre:446961:por
+  label: "Mantido em vigor durante noventa dias (prazo de suspensão da aplicação do art. 23º da Tabela de Emolumentos do Notariado\
+    \ anexa ao Dec Lei 31/78 de 09-Fev) o art. 24º da tabela anexa ao presente Código pelo DEC LEI.60/78.03.04.1978.MJ, DR.IS\
+    \ [77] de 03.04.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1978-446961
+  date: '1978-04-03'
+- type: amended_by
+  target: pt:dre:393782:por
+  label: "Alterados os arts. 10º, 12º, 13º, 14º, 23º, 29º, 30º, 31º, 32º, 33º, 34º, 35º e 36º (estes dois últimos na redacção\
+    \ do Dec Lei 49056, de 12-Jun de 1969), 38º, 43º, 44º (este na redacção do Dec Lei 49056, de 12- Jun de 1969), 48º, 62º\
+    \ (o último na redacção do Dec Lei 49056, de 12-Jun 1969), 71º, 72º, 76º, 77º, 78º (o último na redacção do Dec Lei 49056,\
+    \ de 12-Jun 1969), 81º, 98º, 108º, 109º, 114º (o último na redacção do Dec Lei 49056, de 12-Jun 1969), 118º, 122º, 133º\
+    \ (este último na redacção do Dec Lei 429/73, de 25-Ago, Dec Lei 389/75, de 22-Jul e Dec Lei 202/77, de 20-Mai), 138º,\
+    \ 142º (estes dois na redacção do Dec Lei 49056, de 12-Jun 1969), 143º, 149º, 150º, 153º, 157º, 169º, 170º, 179º, 182º,\
+    \ 191º, 202º, 203º, 211º, 212º e 216º e revogados os arts. 25º, 94º e 97º do Código do Notariado, pelo DEC LEI.513-F/79.1979.12.24.MJ,\
+    \ DG.IS, [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-f-1979-393782
+  date: '1979-12-24'
+- type: amended_by
+  target: pt:dre:381682:por
+  label: "Alterados os arts. 74º, 77º (este na redacção do Dec Lei 513-F/79 de 24-Dez) 133º, (na redacção dos Dec Leis 429/73,\
+    \ de 25-Ago, 389/75, de 22-Jul, 202/77, de 20-Mai e 513-F/79m de 24-Dez) e 179º (na redacção do Dec Lei 513-F/79, de 24-Dez)\
+    \ do Código do Notariado, pelo DEC LEI.193-A/80.1980.06.18.MJ, DR.IS [138]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-a-1980-381682
+  date: '1980-06-18'
+- type: amended_by
+  target: pt:dre:451218:por
+  label: "Alterados os arts. 33º e 34º (na redacção do Dec Lei 513-F/79, de 24-Dez), 36º (na redacção do Dec Lei 49056, de\
+    \ 12-Jun 1969 e do Dec Lei 513-F/79, de 24-Dez), 39º, 41º, 56º (este último na redacção do Dec Lei 49056, de 12-Jun 1969),\
+    \ 134º, 143 (este último na redacção do Dec Lei 513-F/79, de 24-Dez), 144º, 169º e 203º (os dois últimos, na redacção\
+    \ do Dec Lei 513-F/79, de 24-Dez) 209º e 211º (este último na redacção do Dec Lei 513-F/79, de 24-Dez) do Código do Notariado,\
+    \ pelo DEC LEI.194/83.1983.05.17.MJ, DR.IS [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1983-451218
+  date: '1983-05-17'
+- type: amended_by
+  target: pt:dre:380970:por
+  label: "Alteradas as seguintes normas do Código do Notariado pelo DEC LEI.286/84.1984.08.23.MJ, DR.IS [195]: art. 63º, nºs\
+    \ 1 e 4 (na redacção conferida pelo Dec Lei 49056, de 12-Jun 1969), art. 71º a 75º (na redacção conferida, sucessivamente,\
+    \ pelos Dec Leis 49056, de 12-Jun 1969, (art. 75º), 513-F/79, de 24-Dez, (arts. 71º e 72º) 193-A/80, de 18-Jun, art. 77º,\
+    \ nº 2 (na redacção conferida, sucessivamente, pelos Dec Leis 513-F/79, de 24-Dez e 193-A/80, de 18-Jun), arts. 100º a\
+    \ 109º (na redacção dada pelo Dec Lei 513-F/79, de 24-Dez, art. 108º e 109º, art. 142º, nº 1 (na redacção dada, sucessivamente,\
+    \ pelos Dec Leis 49046, de 12-Jun 1969 e 513-F/79, de 24-Dez), art. 203º, nº 2 (na redacção dada, sucessivamente, pelos\
+    \ Dec Leis 513-F/79, de 24-Dez e 194/83, 17-Mai), art. 204º, nº 3, aditados pelo mesmo diploma os arts. 74º-A, 74º-B,\
+    \ 74º-C, bem como os arts. 101º-A, 102º-A e 109º-A\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1984-380970
+  date: '1984-08-23'
+- type: amended_by
+  target: pt:dre:399780:por
+  label: "Conferida nova redacção aos arts.: 134º (na redacção do Dec Lei 194/83, de 17-Mai), 169º (na redacção dos Dec Leis\
+    \ 513-F/79, de 24-Dez e 194/83, de 17-Mai), 203º (na redacção dos Dec Leis 513-F/79, de 24-Dez e 194/83, de 17-Mai e 286/84,\
+    \ de 23-Ago) pelo DEC LEI.321/84.1984.10.02.MFP, DR.IS [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1984-399780
+  date: '1984-10-02'
+- type: amended_by
+  target: pt:dre:332393:por
+  label: "Alteradas as seguintes normas: art. 5º, 22º, 32º (este último na redacção do Dec Lei 513-F/79, de 24-Dez], 33º (na\
+    \ redacção do Dec Lei 513-F/79, de 24-Dez e do Dec Lei 194/83, de 17-Mai), 34º (na redacção do Dec Lei 513-F/79, de 24-Dez\
+    \ e do Dec Lei 194/83, de 17-Mai), 35º (na redacção do Dec Lei 49056, de 12-Jun 1969 e do Dec Lei 513-F/79, de 24-Dez),\
+    \ 36º (na redacção do Dec Lei 49056, de 12-Jun 1969 e do Dec Lei 194/83, de 17-Mai), 39º (na redacção do Dec Lei 194/83,\
+    \ de 17-Mai), 41º (na redacção do Dec Lei 513-F/79, de 24-Dez e do Dec Lei 194/83, de 17-Mai), 42º, 44º (na redacção do\
+    \ Dec Lei 49056, de 12-Jun 1969 e do Dec Lei 513-F/79, de 24-Dez), 46º, 47º e 48º (na redacção do Dec Lei 513-F/79, de\
+    \ 24-Dez), 49º e 54º (na redacção do Dec Lei 49056, de 12-Jun 1969 e do Dec Lei 194/83, de 17-Mai), 62º (na redacção do\
+    \ Dec Lei 49056, de 12-Jun 1969 e do Dec Lei 513-F/79, de 24-Dez), 63º (na redacção do Dec Lei 49056, de 12-Jun 1969 e\
+    \ do Dec Lei 286/84, de 23-Ago), 64º, 67º e 71º (na redacção do Dec Lei 513-F/79, de 24-Dez e do Dec Lei 286/84, de 23-Ago),\
+    \ 73º e 74º (na redacção do Dec Lei 286/84, de 23-Ago), 76º (na redacção do Dec Lei 513-F/79, de 24-Dez), 77º (na redacção\
+    \ do Dec Lei 513-F/79, 24-Dez e do Dec Lei 286/84, de 24-Ago), 78º (na redacção do Dec Lei 49056, de 12-Jun 1969 e do\
+    \ Dec Lei 513-F/79, de 24-Dez),\0),\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1990-332393
+  date: '1990-03-01'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Conferida nova redacção aos arts. 63º e 91º do Código do Notariado, pelo DEC LEI.227/94.1994.09.08.MJ, DR.IS-A [208]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:478043:por
+  label: "Revogado o Código do Notariado, aprovado pelo presente diploma, com as alterações que lhe foram introduzidas pelos\
+    \ Decs Lei 513-F/79, de 24-Dez, 193-A/80, de 18-Jun, 194/83, de 17-Mai, 286/84, de 23-Ago, 321/84, de 02-Out, 67/90, de\
+    \ 01-Mar, e pelo art. 5.º do Dec Lei 227/94, de 08-Set, pelo DEC LEI.207/95.1995.08.14.MJ, DR.IS-A [187],\0,\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1995-478043
+  date: '1995-08-14'
 article_structure:
-  article_count: 258
-  section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 257
+  section_count: 63
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:42Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +216,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Notariado, que faz parte do presente diploma e segue assinado pelo Ministro da Justiça.
+Artigo 1.º É aprovado o Código do Notariado, que faz parte do presente diploma e segue assinado pelo Ministro da Justiça.
 
-###### Art. 2.º A tabela de emolumentos notariais, aprovada pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, é substituída pela tabela anexa ao presente diploma.
+Art. 2.º A tabela de emolumentos notariais, aprovada pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, é substituída pela tabela anexa ao presente diploma.
 
-###### Art. 3.º O Código do Notariado entra em vigor no dia 1 de Junho de 1967.
+Art. 3.º O Código do Notariado entra em vigor no dia 1 de Junho de 1967.
 
-###### Art. 4.º Desde a entrada em vigor do novo código fica revogada toda a legislação relativa à matéria nele abrangida, com ressalva da legislação especial a que se faça expressa referência.
+Art. 4.º Desde a entrada em vigor do novo código fica revogada toda a legislação relativa à matéria nele abrangida, com ressalva da legislação especial a que se faça expressa referência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -502,7 +628,9 @@ Os livros e documentos só podem sair das repartições notariais mediante autor
 
 ## TÍTULO II — Dos actos notariais
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Disposições gerais
 
@@ -2018,15 +2146,15 @@ Ministério da Justiça, 31 de Março de 1967. - O Ministro da Justiça, João d
 
 MODELO DO LIVRO A QUE SE REFERE A ALÍNEA E) DO N.º 1 DO ARTIGO 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf))](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf)
 
 MODELO DO LIVRO A QUE SE REFERE A ALÍNEA F) DO N.º 1 DO ARTIGO 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf))](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf)
 
 MODELO DO LIVRO A QUE SE REFERE A ALÍNEA G) DO N.º 1 DO ARTIGO 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf))](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/07700/06650697.pdf)
 
 Ministério da Justiça, 31 de Março de 1967. - O Ministro da Justiça, João de Matos Antunes Varela.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10400/11581161.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1982-392835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 078e49271f80e991f113f861f2f2f5650ba77431b606985ab14a2c920f2be2a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39be24f418762b0066f561ecff35cebea2ad168f65d1a5ace9cecfe702d46209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Código do Imposto de Capitais
+- Código do Imposto de Mais-valias
+- Imposto de Capitais
+- Imposto de Mais-Valias
+- Imposto do SELO
+- Imposto sobre Sucessões e Doações
+- Mais-Valias
+- Regulamento do Imposto do SELO
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:657421:por
+  label: "Alteradas as fórmulas a que se referem as als a) e b) da regra 5ª do parágrafo 3º do art. 20º do Código da Sisa\
+    \ e do Imposto sobre as Sucessões e Doações aprovado pelo Dec Lei 41969 de 24-Nov 1958, na redacção dada pelo presente\
+    \ diploma, pela PORT.792/94.1994.09.06.MF, DR.IS-B [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/792-1994-657421
+  date: '1994-09-06'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395754:por
+  label: Rectificado pela DECL.DD31.1982.05.27.PCM, DR.IS [135] de 15.06.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395754
+  date: '1982-05-27'
+- type: corrected_by
+  target: pt:dre:394164:por
+  label: Rectificado pela DECL.DD32.1982.07.06.SG-PCM, DR.IS [162] de 16/Jul/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394164
+  date: '1982-07-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:24Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +145,9 @@ Usando da autorização legislativa concedida ao Governo pelo artigo 31.º da [L
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditadas a regra 5.ª-A ao § 3.º do artigo 20.º e as alíneas c'), c"), c'") e c"") ao artigo 69.º e alterada a regra 5.ª daquele § 3.º do artigo 20.º, bem como o corpo do artigo 68.º, a alínea c) do artigo 69.º e o seu § 3.º, o artigo 77.º, o n.º 3.º do artigo 87.º e o § 3.º do artigo 93.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, pela forma seguinte:
+Artigo 1.º São aditadas a regra 5.ª-A ao § 3.º do artigo 20.º e as alíneas c'), c"), c'") e c"") ao artigo 69.º e alterada a regra 5.ª daquele § 3.º do artigo 20.º, bem como o corpo do artigo 68.º, a alínea c) do artigo 69.º e o seu § 3.º, o artigo 77.º, o n.º 3.º do artigo 87.º e o § 3.º do artigo 93.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, pela forma seguinte:
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 ...
 
@@ -166,11 +207,11 @@ c) O valor das acções que apenas dão direito a participação nos lucros ser�
 
 ...
 
-###### Art. 68.º A relação dos bens conterá a indicação dos valores que o apresentante lhes atribuir, salvo tratando-se de prédios com rendimento na matriz ou de estabelecimentos comerciais e industriais e de quotas e partes sociais, quando haja balanço, partilha ou liquidação, ou dos bens referidos nos regras 1.ª, 5.ª e 5.ª-A do § 3.º do artigo 20.º e na regra 12.ª do artigo 31.º
+Art. 68.º A relação dos bens conterá a indicação dos valores que o apresentante lhes atribuir, salvo tratando-se de prédios com rendimento na matriz ou de estabelecimentos comerciais e industriais e de quotas e partes sociais, quando haja balanço, partilha ou liquidação, ou dos bens referidos nos regras 1.ª, 5.ª e 5.ª-A do § 3.º do artigo 20.º e na regra 12.ª do artigo 31.º
 
 ...
 
-###### Art. 69.º - ...
+Art. 69.º - ...
 
 ...
 
@@ -190,7 +231,7 @@ c"") No caso referido na alínea c) da citada regra 5.ª-A deverá ser apresenta
 
 ...
 
-###### Art. 77.º Fazendo parte da herança ou da doação qualquer estabelecimento comercial ou industrial, ou quotas e partes em sociedades que não sejam por acções cujo valor de liquidação não esteja fixado no pacto social, ou ainda quando façam parte da herança ou da doação acções cujo valor tenha de ser determinado por aplicação da fórmula constante da alínea a) da regra 5.ª do § 3.º do artigo 20.º, o chefe da repartição de finanças remeterá, por intermédio da direcção de finanças do distrito, aos serviços competentes da Direcção-Geral das Constribuições e Impostos e ou à Inspecção-Geral de Seguros, consoante os casos, o duplicado do extracto do balanço, havendo-o, e demais elementos apresentados ou de que dispuser.
+Art. 77.º Fazendo parte da herança ou da doação qualquer estabelecimento comercial ou industrial, ou quotas e partes em sociedades que não sejam por acções cujo valor de liquidação não esteja fixado no pacto social, ou ainda quando façam parte da herança ou da doação acções cujo valor tenha de ser determinado por aplicação da fórmula constante da alínea a) da regra 5.ª do § 3.º do artigo 20.º, o chefe da repartição de finanças remeterá, por intermédio da direcção de finanças do distrito, aos serviços competentes da Direcção-Geral das Constribuições e Impostos e ou à Inspecção-Geral de Seguros, consoante os casos, o duplicado do extracto do balanço, havendo-o, e demais elementos apresentados ou de que dispuser.
 
 § 1.º A Direcção-Geral, através dos seus serviços, ou a Inspecção-Geral, referidos no corpo deste artigo, deverão indicar, no prazo de 10 dias, o valor do estabelecimento ou das quotas e partes sociais ou das acções, salvo se entenderem necessário o exame à escrita, caso em que o prazo será de 60 dias.
 
@@ -200,7 +241,7 @@ No caso, porém, de a escrita não lhes fornecer elementos para corrigir valores
 
 § 3.º Se até ao termo do prazo de 60 dias não for possível a indicação do valor do estabelecimento ou das quotas e partes sociais ou das acções, os serviços referidos no § 1.º indicarão, dentro dos 10 dias imediatos, um valor provisório, o qual servirá de base à liquidação, sem prejuízo da sua correcção ulterior.
 
-###### Art. 87.º ...
+Art. 87.º ...
 
 ...
 
@@ -208,7 +249,7 @@ No caso, porém, de a escrita não lhes fornecer elementos para corrigir valores
 
 ...
 
-###### Art. 93.º ...
+Art. 93.º ...
 
 ...
 
@@ -216,9 +257,9 @@ No caso, porém, de a escrita não lhes fornecer elementos para corrigir valores
 
 ...
 
-###### Art. 2.º Os artigos 14.º e 24.º do Código do Imposto de Mais-Valias passam a ter a seguinte redacção:
+Art. 2.º Os artigos 14.º e 24.º do Código do Imposto de Mais-Valias passam a ter a seguinte redacção:
 
-###### Art. 14.º Para efeitos da alínea d) do artigo 2.º haver-se-á como valor das acções emitidas o que resultar da cotação média na bolsa dos últimos 6 meses ou, não havendo cotação, o que resultar da aplicação da seguinte fórmula:
+Art. 14.º Para efeitos da alínea d) do artigo 2.º haver-se-á como valor das acções emitidas o que resultar da cotação média na bolsa dos últimos 6 meses ou, não havendo cotação, o que resultar da aplicação da seguinte fórmula:
 
 V(índice a) = 1/2(índice n)[S + ((R(índice 1) + R(índice 2))/2)f]
 
@@ -234,13 +275,13 @@ R(índice 1) e R(índice 2) - São os resultados líquidos obtidos pela sociedad
 
 f - É o factor de capitalização dos resultados líquidos publicados anualmente por portaria do Ministro de Estado e das Finanças e do Plano para efeitos da alínea a) da regra 5.ª do § 3.º do artigo 20.º do Código da Sisa e do Imposto sobre as Sucessões e Doações.
 
-###### Art. 24.º A participação a que se refere o artigo anterior deverá ser acompanhada de um exemplar do balanço relativo ao exercício findo antes da deliberação da assembleia geral e das demonstrações de resultados líquidos relativos aos 2 últimos exercícios findos antes daquela deliberação, bem como de uma pública-forma da acta que desta houver sido lavrada.
+Art. 24.º A participação a que se refere o artigo anterior deverá ser acompanhada de um exemplar do balanço relativo ao exercício findo antes da deliberação da assembleia geral e das demonstrações de resultados líquidos relativos aos 2 últimos exercícios findos antes daquela deliberação, bem como de uma pública-forma da acta que desta houver sido lavrada.
 
 § único. No caso de emissão de acções, a participação será também acompanhada de uma certidão da bolsa, donde conste a cotação média das acções nos últimos 6 meses.
 
-###### Art. 3.º A alínea d) do artigo 20.º do Código do Imposto de Capitais passa a ter a seguinte redacção:
+Art. 3.º A alínea d) do artigo 20.º do Código do Imposto de Capitais passa a ter a seguinte redacção:
 
-###### Art. 20.º...
+Art. 20.º...
 
 ...
 
@@ -248,17 +289,17 @@ d) Tratando-se de acções, títulos e certificados da dívida pública e outros
 
 ...
 
-###### Art. 4.º A alínea a) do artigo 265.º do Regulamento Geral do Imposto do Selo passa a ter a seguinte redacção:
+Art. 4.º A alínea a) do artigo 265.º do Regulamento Geral do Imposto do Selo passa a ter a seguinte redacção:
 
-###### Art. 265.º ...
+Art. 265.º ...
 
 a) Quanto a fundos públicos, acções ou obrigações de bancos ou companhias e quaisquer outros papéis de crédito, o seu valor será o que se verificar pela última cotação oficial conhecida nos últimos 6 meses.
 
 ...
 
-###### Art. 5.º O disposto nas regras 5.ª e 5.ª-A do § 3.º do artigo 20.º do Código da Sisa e do Imposto sobre as Sucessões e Doações não prejudica o determinado no n.º 3 do artigo 38.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro.
+Art. 5.º O disposto nas regras 5.ª e 5.ª-A do § 3.º do artigo 20.º do Código da Sisa e do Imposto sobre as Sucessões e Doações não prejudica o determinado no n.º 3 do artigo 38.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro.
 
-###### Art. 6.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação, observando-se o seguinte:
+Art. 6.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação, observando-se o seguinte:
 
 a) O disposto nas regras 5.ª e 5.ª-A do § 3.º do artigo 20.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a redacção dada por este diploma, aplica-se às transmissões operadas a partir da entrada em vigor deste decreto-lei;
 
@@ -268,8 +309,8 @@ c) A nova redacção do artigo 20.º do Código do Imposto de Capitais aplica-se
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 23 de Abril de 1982.**
+Promulgado em 23 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1971-445536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17f8b1aa42bf603f3a51ebacceb78d6c5b1bc26d419fbcb918fc0c6b0a26a222
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76102b1cee3efca96d842f3a852bd186b1d6d01e101a078dfdee99116b7ec145
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Áustria
+- Contribuições e Impostos
+- Convenção
+- Dupla Tributação
+- Imposto sobre o Rendimento
+- Portugal
+- Viena
+relationships:
+- type: amended_by
+  target: pt:dre:398100:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pelo AV.DD3903.08.02.1972.MNE, DG.IS [32]\
+    \ de 08.02.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1972-398100
+  date: '1972-02-08'
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:643910:por
+  label: "Rectificado pela RECT.DD445.25.05.1971.PC, DG.IS [122] de 25.05.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-643910
+  date: '1971-05-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:48Z'
   warnings: []
   errors: []
 ---
@@ -87,23 +109,23 @@ de 8 de Março
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção entre Portugal e a Áustria para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e sobre o Capital, assinada em Viena em 29 de Dezembro de 1970, cujos textos em português e alemão vão anexos ao presente decreto-lei.
+Artigo único. É aprovada para ratificação a Convenção entre Portugal e a Áustria para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e sobre o Capital, assinada em Viena em 29 de Dezembro de 1970, cujos textos em português e alemão vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 10 de Fevereiro de 1971.**
+Promulgado em 10 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convenção entre a República Portuguesa e a República da Áustria para Evitar a Dupla Tributação em Matéria de Imposto sobre o Rendimento e sobre o Capital.
 
-**O Presidente da República Portuguesa e o Presidente Federal da República da Áustria, desejando evitar a dupla tributação em matéria de impostos sobre o rendimento e sobre o capital, decidiram concluir uma convenção e designaram para tal efeito como plenipotenciários:**
+O Presidente da República Portuguesa e o Presidente Federal da República da Áustria, desejando evitar a dupla tributação em matéria de impostos sobre o rendimento e sobre o capital, decidiram concluir uma convenção e designaram para tal efeito como plenipotenciários:
 
-**O Presidente da República Portuguesa: S.Ex.ª Guilherme Margarido de Castilho, embaixador extraordinário e plenipotenciário;**
+O Presidente da República Portuguesa: S.Ex.ª Guilherme Margarido de Castilho, embaixador extraordinário e plenipotenciário;
 
-**O Presidente Federal da República da Áustria: Dr. Josef Hammerschmidt, director-geral do Ministério Federal das Finanças;**
+O Presidente Federal da República da Áustria: Dr. Josef Hammerschmidt, director-geral do Ministério Federal das Finanças;
 
 os quais, depois de haverem trocado os seus plenos poderes e os terem achado em boa e devida forma, acordaram nas disposições seguintes:
 
@@ -583,4 +605,4 @@ Guilherme Margarido de Castilho.
 
 Ao Dr. Josef Hammerschmidt, director-geral do Ministério Federal das Finanças - Viena.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/03/05600/02890305.pdf))](https://files.diariodarepublica.pt/1s/1971/03/05600/02890305.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/03/05600/02890305.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/11600/06990701.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1975-336140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcf5e99ab74eded64b0d12eb76cc54b990471d07d8bbb2e6a6a39abf448dc3b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34d0bb9d6b09431963bd0c161750e3c71036cf4236eafcf6a7069ffbd588d7ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Jogos de Fortuna e Azar
 relationships:
 - type: amended_by
   target: pt:dre:550804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O DECRETO-LEI NUMERO 422/89 PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 277, DE 901202.\001202.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:550804:por
+  label: Revogado pelo(a) Decreto-Lei n.º 422/89 - Diário da República n.º 277/1989, Série I de 1989-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/422-1989-550804
+  date: '1989-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:27Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +123,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, 3.º, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a imposto do selo os cartões ou bilhetes de acesso às salas de jogos de fortuna ou azar e, bem assim, os documentos equivalentes, a que se referem os artigos 22.º e seguintes do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, e o artigo 29.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
+Artigo 1.º Ficam sujeitos a imposto do selo os cartões ou bilhetes de acesso às salas de jogos de fortuna ou azar e, bem assim, os documentos equivalentes, a que se referem os artigos 22.º e seguintes do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, e o artigo 29.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
 
-###### Art. 2.º - 1. Para efeitos do disposto no artigo anterior e no artigo 29.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), serão utilizados impressos dos seguintes modelos:
+Art. 2.º - 1. Para efeitos do disposto no artigo anterior e no artigo 29.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), serão utilizados impressos dos seguintes modelos:
 
 a) Cartões modelo A - Destinados a frequentadores nacionais e estrangeiros residentes no continente e ilhas adjacentes ou cuja permanência seja superior a sessenta dias;
 
@@ -121,7 +145,7 @@ g) Bilhetes modelo F - Destinados às pessoas indicadas na alínea anterior, mas
 
 3. Poderão igualmente ser emitidos pelo director do casino documentos ou bilhetes modelo D-1, nos termos e para os efeitos previstos na alínea e) do n.º 1, quando não se encontre no casino qualquer funcionário da inspecção de jogos.
 
-###### Art. 3.º A emissão e a utilização dos cartões, bilhetes e documentos equivalentes a que se refere o artigo anterior ficam sujeitas ao seguinte condicionalismo:
+Art. 3.º A emissão e a utilização dos cartões, bilhetes e documentos equivalentes a que se refere o artigo anterior ficam sujeitas ao seguinte condicionalismo:
 
 1.º A validade caduca em 31 de Dezembro do ano para que foram emitidos, quando se trate de zonas de jogo permanente, ou no termo da respectiva época, nas zonas de jogo temporário;
 
@@ -131,9 +155,9 @@ g) Bilhetes modelo F - Destinados às pessoas indicadas na alínea anterior, mas
 
 4.º É de seis ou três, consoante se trate de zonas de jogo permanente ou temporário, o número máximo de bilhetes ou documentos modelo D ou D-1 a conceder a cada frequentador e em cada ano ou época.
 
-###### Art. 4.º É aditado à Tabela Geral do Imposto do Selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, o artigo 27-A, com a seguinte redacção:
+Art. 4.º É aditado à Tabela Geral do Imposto do Selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, o artigo 27-A, com a seguinte redacção:
 
-###### Art. 27-A. Bilhetes ou cartões de acesso às salas de jogos de fortuna ou azar e os documentos para esse efeito equivalentes, nos termos do artigo 29.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, ainda que não seja devido o respectivo preço, este seja dispensado pelas empresas concessionárias ou não tenha sido solicitada a sua aprovação - por cada um (selo especial):
+Art. 27-A. Bilhetes ou cartões de acesso às salas de jogos de fortuna ou azar e os documentos para esse efeito equivalentes, nos termos do artigo 29.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, ainda que não seja devido o respectivo preço, este seja dispensado pelas empresas concessionárias ou não tenha sido solicitada a sua aprovação - por cada um (selo especial):
 
 I - Sendo de acesso às salas de jogos tradicionais, a que se referem os n.os 1) e 2) do artigo 4.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840):
 
@@ -207,38 +231,38 @@ c) Segundas vias dos cartões ou bilhetes compreendidos nas alíneas a) e b) - o
 
 2) Mediante cartões ou bilhetes modelo F, válidos por um dia ... 10$00
 
-###### Art. 5.º - 1. O imposto criado pelo presente decreto-lei é devido pelas pessoas a quem for concedido o acesso às salas de jogos e será cobrado, no acto da emissão dos competentes cartões, bilhetes ou documentos equivalentes, pelo serviço de identificação da empresa concessionária, única responsável perante a Fazenda Nacional pelo imposto devido.
+Art. 5.º - 1. O imposto criado pelo presente decreto-lei é devido pelas pessoas a quem for concedido o acesso às salas de jogos e será cobrado, no acto da emissão dos competentes cartões, bilhetes ou documentos equivalentes, pelo serviço de identificação da empresa concessionária, única responsável perante a Fazenda Nacional pelo imposto devido.
 
 2. O imposto será integrado no preço dos cartões, bilhetes ou documentos equivalentes, não sendo permitido discriminar o imposto nele incluído.
 
 3. É vedado às empresas concessionárias, membros dos seus corpos sociais ou agentes substituírem-se aos frequentadores no pagamento do imposto.
 
-###### Art. 6.º - 1. O serviço de identificação da empresa concessionária efectuará diariamente o registo dos cartões, bilhetes e documentos equivalentes emitidos e do imposto do selo correspondente, registo que será conferido no dia seguinte pelo serviço de inspecção de jogos.
+Art. 6.º - 1. O serviço de identificação da empresa concessionária efectuará diariamente o registo dos cartões, bilhetes e documentos equivalentes emitidos e do imposto do selo correspondente, registo que será conferido no dia seguinte pelo serviço de inspecção de jogos.
 
 2. O registo a que se refere o número anterior será efectuado em impresso de modelo a aprovar pelo Conselho de Inspecção de Jogos, processado em triplicado, destinando-se um dos exemplares ao arquivo da empresa, outro ao serviço de inspecção e o terceiro ao Conselho de Inspecção de Jogos, ao qual será remetido até ao dia 5 do mês seguinte, ficando dispensado o registo de idêntica natureza que as empresas vêm efectuando.
 
-###### Art. 7.º O imposto do selo cobrado em cada mês será intregue pelas empresas concessionárias na tesouraria da Fazenda Pública do concelho ou bairro da situação do respectivo casino, até ao dia 10 do mês seguinte ao da cobrança, mediante guia, em triplicado, processada pelo Conselho de Inspecção de Jogos, ao qual será remetido o triplicado, averbado do pagamento pela respectiva empresa, nos três dias posteriores a esse pagamento.
+Art. 7.º O imposto do selo cobrado em cada mês será intregue pelas empresas concessionárias na tesouraria da Fazenda Pública do concelho ou bairro da situação do respectivo casino, até ao dia 10 do mês seguinte ao da cobrança, mediante guia, em triplicado, processada pelo Conselho de Inspecção de Jogos, ao qual será remetido o triplicado, averbado do pagamento pela respectiva empresa, nos três dias posteriores a esse pagamento.
 
-###### Art. 8.º Independentemente das sanções aplicáveis às empresas e aos frequentadores previstas na legislação especial sobre jogos de fortuna ou azar, o acesso às salas de jogos, sem o competente cartão, bilhete ou documento equivalente, referidos no presente diploma ou utilizando para o efeito documentação de outrem faz incorrer o frequentador na multa de 200$00 a 5000$00, elevada ao dobro no caso de reincidência, pela qual fica solidariamente responsável a empresa concessionária e, sendo caso disso, o cedente da documentação.
+Art. 8.º Independentemente das sanções aplicáveis às empresas e aos frequentadores previstas na legislação especial sobre jogos de fortuna ou azar, o acesso às salas de jogos, sem o competente cartão, bilhete ou documento equivalente, referidos no presente diploma ou utilizando para o efeito documentação de outrem faz incorrer o frequentador na multa de 200$00 a 5000$00, elevada ao dobro no caso de reincidência, pela qual fica solidariamente responsável a empresa concessionária e, sendo caso disso, o cedente da documentação.
 
-###### Art. 9.º A falsificação ou viciação dos cartões, bilhetes e documentos equivalentes, para acesso às salas de jogos de fortuna ou azar, é punida com a multa de 2000$00 a 20000$00, sem prejuízo do procedimento criminal que no caso couber.
+Art. 9.º A falsificação ou viciação dos cartões, bilhetes e documentos equivalentes, para acesso às salas de jogos de fortuna ou azar, é punida com a multa de 2000$00 a 20000$00, sem prejuízo do procedimento criminal que no caso couber.
 
-###### Art. 10.º A infracção ao disposto nos n.os 2 e 3 do artigo 5.º é punida com multa igual ao dobro do imposto devido, no mínimo de 500$00.
+Art. 10.º A infracção ao disposto nos n.os 2 e 3 do artigo 5.º é punida com multa igual ao dobro do imposto devido, no mínimo de 500$00.
 
-###### Art. 11.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 200$00 a 2000$00.
+Art. 11.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 200$00 a 2000$00.
 
-###### Art. 12.º As multas estabelecidas no presente diploma serão aplicadas nos termos do Código de Processo das Contribuições e Impostos.
+Art. 12.º As multas estabelecidas no presente diploma serão aplicadas nos termos do Código de Processo das Contribuições e Impostos.
 
-###### Art. 13.º - 1. Relativamente aos cartões e bilhetes já emitidos para acesso às salas de jogos tradicionais desde 1 de Janeiro até à data da entrada em vigor do presente diploma, será cobrado o imposto, em relação ao período da respectiva utilização, a contar da data em que sejam apresentados tais cartões ou bilhetes para entrada nas salas de jogos, por aposição de carimbo de modelo a aprovar pelo Conselho de Inspecção de Jogos, até à do termo da respectiva validade.
+Art. 13.º - 1. Relativamente aos cartões e bilhetes já emitidos para acesso às salas de jogos tradicionais desde 1 de Janeiro até à data da entrada em vigor do presente diploma, será cobrado o imposto, em relação ao período da respectiva utilização, a contar da data em que sejam apresentados tais cartões ou bilhetes para entrada nas salas de jogos, por aposição de carimbo de modelo a aprovar pelo Conselho de Inspecção de Jogos, até à do termo da respectiva validade.
 
 2. Para esse efeito, os períodos de validade descritos nos artigos anteriores contam-se, quando o dia da apresentação não coincida com aqueles períodos, pela totalidade dos períodos que abranja o prazo de concessão do respectivo cartão ou bilhete.
 
-###### Art. 14.º Este diploma entra em vigor no dia 1 do mês imediato ao correspondente ao termo do prazo de sessenta dias após a respectiva publicação.
+Art. 14.º Este diploma entra em vigor no dia 1 do mês imediato ao correspondente ao termo do prazo de sessenta dias após a respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - José da Silva Lopes.
 
-**Promulgado em 8 de Maio de 1975.**
+Promulgado em 8 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

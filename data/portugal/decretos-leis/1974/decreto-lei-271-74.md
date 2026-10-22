@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 143/1974, 1º Suplemento, Série I de 1974-06-21
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 738-(1) a 738-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14301/00010002.pdf
 entry_into_force_dates: []
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1974-220362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba30eef566211acb468d02526fb618fdf86b0d93a49da7c873ba521c3fbac48b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a82b941a85a02be7f551e1a17494ca260ed4e09d0cb792bd43a4fceb22e34a14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amnistia
+- Código Penal
+- Crime
+- Perdão da Pena
 relationships:
 - type: amended_by
   target: pt:dre:476350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476350:por
+  label: "Tornado extensivo às províncias ultramarinas o disposto no presente diploma pela PORT.411/74.05.07.1974.MCINT, DG.IS\
+    \ [155] de 05.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1974-476350
+  date: '1974-07-05'
+- type: cites
+  target: pt:dre:662343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662345:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:59Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +115,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O perdão a que se refere o artigo 1.º do [Decreto-Lei n.º 259/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1974-662343), de 15 de Junho, é concedido também:
+Artigo 1.º - 1. O perdão a que se refere o artigo 1.º do [Decreto-Lei n.º 259/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1974-662343), de 15 de Junho, é concedido também:
 
 a) Às penas que vierem a ser aplicadas em processos pendentes à data de 25 de Abril de 1974;
 
@@ -107,14 +125,14 @@ c) Às penas por crimes comuns julgados nos tribunais militares.
 
 2. Sempre que da aplicação do perdão referido na alínea b) do número anterior resulte ter sido abrangido todo o tempo da pena de prisão que faltava cumprir, deverão as situações dos reclusos ser apreciadas dentro do prazo de um mês pelos tribunais de execução das penas.
 
-###### Art. 2.º Aos reclusos condenados nos tribunais ultramarinos que se encontram a cumprir pena na metrópole é aplicável o disposto no n.º 1 do artigo 117.º do Código Penal.
+Art. 2.º Aos reclusos condenados nos tribunais ultramarinos que se encontram a cumprir pena na metrópole é aplicável o disposto no n.º 1 do artigo 117.º do Código Penal.
 
-###### Art. 3.º Para os efeitos do artigo 120.º do Código Penal, será considerado o tempo de pena que, descontado o perdão a que se refere o artigo 1.º do [Decreto-Lei n.º 258/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1974-662345), de 15 de Junho, e o artigo 1.º do presente decreto, os reclusos tiverem de cumprir.
+Art. 3.º Para os efeitos do artigo 120.º do Código Penal, será considerado o tempo de pena que, descontado o perdão a que se refere o artigo 1.º do [Decreto-Lei n.º 258/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1974-662345), de 15 de Junho, e o artigo 1.º do presente decreto, os reclusos tiverem de cumprir.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Salgado Zenha.
 
-**Promulgado em 20 de Junho de 1974.**
+Promulgado em 20 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/563-1972-685605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 640d460831199e03cb691f69e41f1fb01a50721e7e7b2046ab83a5d0acf5926c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 863301746b1730a8964fce08a9a7b2013d374b4702caa1afc97174e914fadc82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:228627:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:33Z'
   warnings: []
   errors: []
 ---
@@ -99,41 +103,41 @@ Por motivo de urgência, conforme o disposto no § 3.º do artigo 136.º da Cons
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. As entidades concessionárias ou detentoras de licença de tratamento de petróleo bruto, produtos seus derivados e resíduos deverão manter permanentemente em depósito, na província ultramarina onde exerçam a sua actividade, como reserva mínima, sob qualquer regime aduaneiro, uma quantidade de cada uma das matérias-primas tratadas nas suas instalações fabris que, adicionada aos produtos obtidos, mantidos em reserva, satisfaça um quarto da quantidade de qualquer derivado de petróleo de seu fabrico consumida no ano anterior no mercado interno e em bunkering.
+Artigo 1.º - 1. As entidades concessionárias ou detentoras de licença de tratamento de petróleo bruto, produtos seus derivados e resíduos deverão manter permanentemente em depósito, na província ultramarina onde exerçam a sua actividade, como reserva mínima, sob qualquer regime aduaneiro, uma quantidade de cada uma das matérias-primas tratadas nas suas instalações fabris que, adicionada aos produtos obtidos, mantidos em reserva, satisfaça um quarto da quantidade de qualquer derivado de petróleo de seu fabrico consumida no ano anterior no mercado interno e em bunkering.
 
 2. Para o efeito do número anterior, são contados os produtos obtidos pela sua quantidade real e as matérias-primas na proporção das quantidades de cada uma das categorias de produtos laborados pelos estabelecimentos de tratamento, segundo o respectivo plano anual de fabrico, aprovado pela entidade oficial competente.
 
 3. Quando a reserva mínima obrigatória calculada nos termos dos n.os 1 e 2 deste artigo ultrapassar um quarto da quantidade que a refinaria está autorizada a tratar anualmente, a reserva mínima a constituir será limitada a um quarto da tonelagem tratada na refinaria no ano anterior.
 
-###### Art. 2.º Para efeitos de cálculo da reserva mínima obrigatória a que se referem os artigos 1.º, 6.º, 7.º e 8.º, atender-se-á, em princípio, apenas ao bunkering fornecido à navegação nacional, marítima e aérea, podendo o Ministro do Ultramar, ouvidos o Departamento da Defesa Nacional, o Governo da província e as entidades fornecedoras determinar a inclusão da parte do bunkering fornecida à navegação internacional, marítima e aérea, de escala fixa, que considere de relevante interesse para a província.
+Art. 2.º Para efeitos de cálculo da reserva mínima obrigatória a que se referem os artigos 1.º, 6.º, 7.º e 8.º, atender-se-á, em princípio, apenas ao bunkering fornecido à navegação nacional, marítima e aérea, podendo o Ministro do Ultramar, ouvidos o Departamento da Defesa Nacional, o Governo da província e as entidades fornecedoras determinar a inclusão da parte do bunkering fornecida à navegação internacional, marítima e aérea, de escala fixa, que considere de relevante interesse para a província.
 
-###### Art. 3.º - 1. Para os efeitos do artigo 1.º só serão consideradas reservas de matérias-primas as quantidades contidas em reservatórios ou tanques de reserva, como definidos no artigo 11.º, existentes no recinto das instalações fabris ou em locais próximos a indicar pelo Governador da província ou delegado seu, ouvidas as entidades interessadas e tendo em atenção a segurança das instalações.
+Art. 3.º - 1. Para os efeitos do artigo 1.º só serão consideradas reservas de matérias-primas as quantidades contidas em reservatórios ou tanques de reserva, como definidos no artigo 11.º, existentes no recinto das instalações fabris ou em locais próximos a indicar pelo Governador da província ou delegado seu, ouvidas as entidades interessadas e tendo em atenção a segurança das instalações.
 
 2. Às reservas a que se refere o artigo 1.º constituídas por produtos acabados é aplicável o disposto no artigo 10.º
 
-###### Art. 4.º Quando as entidades referidas no artigo 1.º dispuserem, na província em que se encontrem instaladas, de jazigos de petróleo ou de outras substâncias petrolíferas, com reservas provadas, pode o respectivo Governo provincial, tendo em atenção a quantidade, qualidade, disponibilidade em condições de segurança e ponderadas outras circunstâncias que devam ser tidas em conta, autorizar a redução da reserva mínima permanente obrigatória, enquanto se mantiverem as condições que tal justificarem.
+Art. 4.º Quando as entidades referidas no artigo 1.º dispuserem, na província em que se encontrem instaladas, de jazigos de petróleo ou de outras substâncias petrolíferas, com reservas provadas, pode o respectivo Governo provincial, tendo em atenção a quantidade, qualidade, disponibilidade em condições de segurança e ponderadas outras circunstâncias que devam ser tidas em conta, autorizar a redução da reserva mínima permanente obrigatória, enquanto se mantiverem as condições que tal justificarem.
 
-###### Art. 5.º É proibida a saída para território estrangeiro de produtos refinados por qualquer refinaria instalada nas províncias ultramarinas, sempre que o abastecimento da refinaria imponha a utilização das reservas que se encontram em regime de reserva mínima obrigatória.
+Art. 5.º É proibida a saída para território estrangeiro de produtos refinados por qualquer refinaria instalada nas províncias ultramarinas, sempre que o abastecimento da refinaria imponha a utilização das reservas que se encontram em regime de reserva mínima obrigatória.
 
-###### Art. 6.º - 1. As entidades distribuidoras de produtos derivados de petróleo bruto ou de resíduos do seu tratamento, bem como as que praticam bunkering, quando os adquiram às entidades locais referidas nos artigos 1.º e 8.º, são obrigadas a manter permanentemente em depósito na província ultramarina onde exerçam a sua actividade, como reserva mínima, sob qualquer regime aduaneiro, uma quantidade de cada um dos produtos adquiridos localmente igual a 1/12 das quantidades dos produtos da mesma natureza que no ano anterior tenham distribuído no mercado interno e em bunkering.
+Art. 6.º - 1. As entidades distribuidoras de produtos derivados de petróleo bruto ou de resíduos do seu tratamento, bem como as que praticam bunkering, quando os adquiram às entidades locais referidas nos artigos 1.º e 8.º, são obrigadas a manter permanentemente em depósito na província ultramarina onde exerçam a sua actividade, como reserva mínima, sob qualquer regime aduaneiro, uma quantidade de cada um dos produtos adquiridos localmente igual a 1/12 das quantidades dos produtos da mesma natureza que no ano anterior tenham distribuído no mercado interno e em bunkering.
 
 2. Porém, nas províncias ultramarinas em que decorram operações militares, e enquanto se mantiver essa situação, a reserva a que se refere o número anterior será acrescida de um sexto das vendas efectuadas no ano anterior às forças militares e paramilitares, no mercado interno e em bunkering.
 
-###### Art. 7.º - 1. As entidades distribuidoras que importem derivados de petróleo bruto ou resíduos do seu tratamento, bem como as que praticam bunkering com qualquer destes produtos, são obrigadas a manter permanentemente em depósito na província ultramarina onde exerçam a sua actividade, como reserva mínima, sob qualquer regime aduaneiro, uma quantidade de cada um dos produtos do seu comércio igual a um terço das quantidades dos produtos da mesma natureza que hajam importado no ano anterior.
+Art. 7.º - 1. As entidades distribuidoras que importem derivados de petróleo bruto ou resíduos do seu tratamento, bem como as que praticam bunkering com qualquer destes produtos, são obrigadas a manter permanentemente em depósito na província ultramarina onde exerçam a sua actividade, como reserva mínima, sob qualquer regime aduaneiro, uma quantidade de cada um dos produtos do seu comércio igual a um terço das quantidades dos produtos da mesma natureza que hajam importado no ano anterior.
 
 2. Nas províncias em que se não desenvolvam operações militares poderão os respectivos Governadores fixar a reserva a que se refere o número anterior em um quarto das quantidades dos produtos da mesma natureza que hajam importado no ano anterior.
 
-###### Art. 8.º - 1. As entidades referidas no artigo 1.º que importem derivados de petróleo bruto ou resíduos do seu tratamento e os distribuam ou pratiquem bunkering com qualquer destes produtos são equiparadas, para os efeitos do presente diploma, às entidades referidas no artigo 7.º
+Art. 8.º - 1. As entidades referidas no artigo 1.º que importem derivados de petróleo bruto ou resíduos do seu tratamento e os distribuam ou pratiquem bunkering com qualquer destes produtos são equiparadas, para os efeitos do presente diploma, às entidades referidas no artigo 7.º
 
 2. As entidades referidas no artigo 1.º que importem derivados de petróleo bruto ou resíduos do seu tratamento, para venda às distribuidoras, ficam obrigadas a manter permanentemente em depósito na província ultramarina onde exerçam a sua actividade, como reserva mínima, sob qualquer regime aduaneiro, uma quantidade de cada um dos produtos importados igual a um quarto das quantidades dos produtos da mesma natureza que hajam importado no ano anterior.
 
-###### Art. 9.º - 1. Quanto a massas, óleos lubrificantes e óleos refrigerantes, as reservas mínimas das entidades distribuidoras serão constituídas por tipos comerciais ou por grupos de produtos a fixar em regulamento.
+Art. 9.º - 1. Quanto a massas, óleos lubrificantes e óleos refrigerantes, as reservas mínimas das entidades distribuidoras serão constituídas por tipos comerciais ou por grupos de produtos a fixar em regulamento.
 
 2. Podem ser considerados como reserva os óleos base a partir dos quais se obtêm os referidos produtos.
 
-###### Art. 10.º Para os efeitos dos artigos 6.º, 7.º, 8.º e 9.º só serão consideradas reservas as quantidades de cada produto contidas em reservatórios, tanques ou armazéns de reserva, tais como definidos no artigo 11.º, instalados em pólos de distribuição a fixar pelo Governador da província, ou delegado seu, ouvidos os serviços competentes e as entidades interessadas.
+Art. 10.º Para os efeitos dos artigos 6.º, 7.º, 8.º e 9.º só serão consideradas reservas as quantidades de cada produto contidas em reservatórios, tanques ou armazéns de reserva, tais como definidos no artigo 11.º, instalados em pólos de distribuição a fixar pelo Governador da província, ou delegado seu, ouvidos os serviços competentes e as entidades interessadas.
 
-###### Art. 11.º - 1. Designam-se por reservatórios ou tanques de reserva, quer fixos, quer flutuantes ou submarinos, os destinados a conter, embora não exclusivamente, matérias-primas ou produtos a granel para constituírem as reservas mínimas permanentes obrigatórias.
+Art. 11.º - 1. Designam-se por reservatórios ou tanques de reserva, quer fixos, quer flutuantes ou submarinos, os destinados a conter, embora não exclusivamente, matérias-primas ou produtos a granel para constituírem as reservas mínimas permanentes obrigatórias.
 
 2. Designam-se por armazéns de reserva os destinados a receber, embora não exclusivamente, produtos embalados em recipientes apropriados, para efeitos de constituição das reservas mínimas permanentes obrigatórias.
 
@@ -145,9 +149,9 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 6. As matérias-primas ou os produtos contidos nos reservatórios, tanques ou armazéns de reserva deverão satisfazer sempre as especificações estabelecidas.
 
-###### Art. 12.º As reservas mínimas permanentes obrigatórias a que se refere o presente diploma deverão estar integralmente constituídas no prazo de três anos, a contar da publicação do regulamento a que se refere o artigo 16.º no Boletim Oficial de cada província ultramarina, devendo estabelecer-se, pelo menos, um terço de cada um dos anos daquele prazo.
+Art. 12.º As reservas mínimas permanentes obrigatórias a que se refere o presente diploma deverão estar integralmente constituídas no prazo de três anos, a contar da publicação do regulamento a que se refere o artigo 16.º no Boletim Oficial de cada província ultramarina, devendo estabelecer-se, pelo menos, um terço de cada um dos anos daquele prazo.
 
-###### Art. 13.º - 1. Salvo caso de força maior, como tal devidamente aceite, a inobservância pelas empresas das disposições do presente diploma implicará a aplicação pelo Governador da província de uma multa até 10 por cento do valor das mercadorias em falta, sendo-lhes concedido, nesse caso, no despacho que aplicar a multa, um prazo não excedente a trinta dias para sanar a situação faltosa.
+Art. 13.º - 1. Salvo caso de força maior, como tal devidamente aceite, a inobservância pelas empresas das disposições do presente diploma implicará a aplicação pelo Governador da província de uma multa até 10 por cento do valor das mercadorias em falta, sendo-lhes concedido, nesse caso, no despacho que aplicar a multa, um prazo não excedente a trinta dias para sanar a situação faltosa.
 
 2. Em caso de não cumprimento, o quantitativo da muita elevar-se-á sucessivamente ao dobro por cada novo período em que se mantenha a situação faltosa.
 
@@ -155,24 +159,24 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. Nenhuma multa aplicada ao abrigo deste diploma será considerada custo para efeitos de tributação das empresas em causa nem para determinação dos lucros das empresas em que o Estado participe.
 
-###### Art. 14.º O Governador da província poderá autorizar, por motivos excepcionais devidamente fundamentados, a manutenção, em relação a cada entidade, das reservas mínimas em nível inferior ao obrigatório, durante o prazo não superior a noventa dias, a fixar no despacho de autorização.
+Art. 14.º O Governador da província poderá autorizar, por motivos excepcionais devidamente fundamentados, a manutenção, em relação a cada entidade, das reservas mínimas em nível inferior ao obrigatório, durante o prazo não superior a noventa dias, a fixar no despacho de autorização.
 
-###### Art. 15.º - 1. As entidades a que se refere o presente diploma poderão transferir entre si ou para terceiros a obrigação de constituição de reservas, mediante autorização do Governador da província ou delegado seu.
+Art. 15.º - 1. As entidades a que se refere o presente diploma poderão transferir entre si ou para terceiros a obrigação de constituição de reservas, mediante autorização do Governador da província ou delegado seu.
 
 2. A autorização a que se refere o número anterior especificará as condições da transferência e fixará o regime da responsabilidade da cedente e da cessionária.
 
-###### Art. 16.º Os Governos das províncias ultramarinas regulamentarão o presente diploma no prazo máximo de noventa dias, a contar da data da publicação deste no respectivo Boletim Oficial.
+Art. 16.º Os Governos das províncias ultramarinas regulamentarão o presente diploma no prazo máximo de noventa dias, a contar da data da publicação deste no respectivo Boletim Oficial.
 
-###### Art. 17.º As dúvidas e omissões que surjam na aplicação deste diploma serão resolvidas por despacho do Ministro do Ultramar, ouvida a respectiva província e a Inspecção-Geral de Minas.
+Art. 17.º As dúvidas e omissões que surjam na aplicação deste diploma serão resolvidas por despacho do Ministro do Ultramar, ouvida a respectiva província e a Inspecção-Geral de Minas.
 
-###### Art. 18.º Fica revogado o [Decreto n.º 126/70](https://diariodarepublica.pt/dr/detalhe/decreto/126-1970-228627), de 23 de Março.
+Art. 18.º Fica revogado o [Decreto n.º 126/70](https://diariodarepublica.pt/dr/detalhe/decreto/126-1970-228627), de 23 de Março.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Dezembro de 1972.**
+Promulgado em 7 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

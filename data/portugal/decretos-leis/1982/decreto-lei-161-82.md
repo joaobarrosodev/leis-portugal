@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1982-392777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecb939eb898fde046a7b202c5790852c563c56a342b8d19328c5aeb9fcabdfc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 268c3a7df26475f70b12d235ee9016639025e6e6fdbce745acaf444e0c218cae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- Pesca
+- Sociedade Nacional dos Armadores da Pesca do Arrasto
 relationships:
 - type: amended_by
   target: pt:dre:611075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611075:por
+  label: "Revogado o art. 2º pelo DEC LEI.161/89.13.05.1989.MF, DR.IS [110] de 13.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1989-611075
+  date: '1989-05-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:29Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +116,13 @@ Assim, visto o disposto nos artigos 1.º, n.º 2, e 38.º do [Decreto-Lei n.º 2
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L.
+Artigo 1.º - 1 - É extinta a SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L.
 
 2 - A SNAPA mantém a sua personalidade jurídica, para efeitos de liquidação, até à aprovação final das contas apresentadas pelos liquidatários.
 
-###### Art. 2.º Por despacho conjunto dos Secretários de Estado das Finanças e das Pescas será nomeada, no prazo de 5 dias a contar da data da publicação do presente diploma, uma comissão liquidatária, constituída por 1 presidente e 2 vogais.
+Art. 2.º Por despacho conjunto dos Secretários de Estado das Finanças e das Pescas será nomeada, no prazo de 5 dias a contar da data da publicação do presente diploma, uma comissão liquidatária, constituída por 1 presidente e 2 vogais.
 
-###### Art. 3.º A partir da entrada em vigor deste diploma:
+Art. 3.º A partir da entrada em vigor deste diploma:
 
 1) É fixado em 1 mês o período durante o qual os credores da SNAPA residentes no País podem reclamar os seus créditos, na sede da SNAPA, no armazém n.º 2, da Docapesca;
 
@@ -118,14 +130,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3) A partir das datas fixadas no número anterior, consideram-se encerradas as contas correntes e vencidas todas as dívidas e cessa a contagem dos juros respectivos, assim como os direitos de acção contra a empresa ou sobre os seus bens.
 
-###### Art. 4.º - 1 - O presente diploma será regulamentado por portaria dos Ministros de Estado e das Finanças e do Plano e da Agricultura, Comércio e Pescas.
+Art. 4.º - 1 - O presente diploma será regulamentado por portaria dos Ministros de Estado e das Finanças e do Plano e da Agricultura, Comércio e Pescas.
 
 2 - Em tudo o que não contrarie a regulamentação prevista no número anterior aplicam-se, subsidiariamente, as regras do Código de Processo Civil relativas à liquidação extrajudicial.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 23 de Abril de 1982.**
+Promulgado em 23 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42855-1960-282130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d357529dfa19910beb89f05db170d8c65fc89e75ed3e35a401eca87e46bf8fac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1aeb2dfb3bc06d8b595150d3033fb5dd269de0f5e8b1e7ed87896844278a69f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centenário da Morte do Infante DOM Henrique
+- Comemoração
+- Contribuição Industrial
+- Estabelecimento Hoteleiro
+- Isenção Fiscal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:15Z'
   warnings: []
   errors: []
 ---
@@ -92,38 +97,38 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São isentos de contribuição industrial, de licenças ou de quaisquer impostos ou taxas do Estado ou dos corpos administrativos os particulares que pretendam admitir hóspedes em suas casas durante o período das comemorações henriquinas.
+Artigo 1.º São isentos de contribuição industrial, de licenças ou de quaisquer impostos ou taxas do Estado ou dos corpos administrativos os particulares que pretendam admitir hóspedes em suas casas durante o período das comemorações henriquinas.
 
 § único. Da mesma isenção beneficiam os proprietários dos hotéis, pensões, hospedarias e estalagens que arrendem casas para instalar hóspedes que não tenham lugar nos respectivos estabelecimentos.
 
-###### Art. 2.º As pessoas ou entidades que queiram aproveitar-se das vantagens conferidas por este diploma deverão inscrever-se no Secretariado Nacional da Informação, no prazo de 60 dias, a contar da respectiva publicação.
+Art. 2.º As pessoas ou entidades que queiram aproveitar-se das vantagens conferidas por este diploma deverão inscrever-se no Secretariado Nacional da Informação, no prazo de 60 dias, a contar da respectiva publicação.
 
 § único. O Secretariado poderá delegar nas câmaras municipais, juntas e comissões regionais de turismo o recebimento das inscrições.
 
-###### Art. 3.º As casas a que se refere este decreto não estão sujeitas às vistorias impostas pela legislação vigente para as destinadas ao exercício de hospedagem.
+Art. 3.º As casas a que se refere este decreto não estão sujeitas às vistorias impostas pela legislação vigente para as destinadas ao exercício de hospedagem.
 
-###### Art. 4.º O Secretariado Nacional da Informação procederá, directamente ou por intermédio das câmaras municipais, juntas e comissões regionais de turismo, a vistorias destinadas a verificar se as casas oferecem as condições necessárias para poder ser autorizada a sua utilização para a recepção de hóspedes, nos termos deste diploma.
+Art. 4.º O Secretariado Nacional da Informação procederá, directamente ou por intermédio das câmaras municipais, juntas e comissões regionais de turismo, a vistorias destinadas a verificar se as casas oferecem as condições necessárias para poder ser autorizada a sua utilização para a recepção de hóspedes, nos termos deste diploma.
 
 § único. Estas vistorias serão isentas de quaisquer taxas ou emolumentos.
 
-###### Art. 5.º Reconhecendo-se que as habitações reúnem os requisitos indispensáveis, o Secretariado fixará os preços a adoptar em cada caso e passará licença especial para hospedagem durante o período das comemorações.
+Art. 5.º Reconhecendo-se que as habitações reúnem os requisitos indispensáveis, o Secretariado fixará os preços a adoptar em cada caso e passará licença especial para hospedagem durante o período das comemorações.
 
 § 1.º A vistoria poderá indicar as obras ou os arranjos a efectuar na casa e no mobiliário, dentro do prazo que for julgado conveniente; quando assim suceda, só será passada a licença a que se refere o parágrafo anterior depois de verificada a execução das beneficiações determinadas.
 
 § 2.º A licença a que se refere este artigo constitui título indispensável para a usufruição das regalias concedidas pelo presente diploma.
 
-###### Art. 6.º Sobre o preço do alojamento ou da pensão, líquido da remuneração do pessoal, quando exista, incidirá um adicional de 5 por cento para o Fundo de Turismo.
+Art. 6.º Sobre o preço do alojamento ou da pensão, líquido da remuneração do pessoal, quando exista, incidirá um adicional de 5 por cento para o Fundo de Turismo.
 
 § 1.º O produto deste adicional será depositado pelo hospedeiro nos cofres do Estado, por meio de guia, até ao dia 8 do mês seguinte àquele em que tenha sido cobrado, e será escriturado em operações de tesouraria para ser entregue ao Fundo de Turismo.
 
 § 2.º O Secretariado Nacional da Informação providenciará sobre a fiscalização a exercer quanto à cobrança do referido adicional.
 
-###### Art. 7.º O período das isenções estabelecidas por este decreto findará em 30 de Novembro de 1960.
+Art. 7.º O período das isenções estabelecidas por este decreto findará em 30 de Novembro de 1960.
 
-###### Art. 8.º Não poderá constituir fundamento de despejo ou de pedido de aumento de renda a utilização da casa para os fins do presente diploma.
+Art. 8.º Não poderá constituir fundamento de despejo ou de pedido de aumento de renda a utilização da casa para os fins do presente diploma.
 
-###### Art. 9.º As localidades onde se verificar haver conveniência na aplicação do que neste diploma se contém serão indicadas em portaria a expedir pela Presidência do Conselho.
+Art. 9.º As localidades onde se verificar haver conveniência na aplicação do que neste diploma se contém serão indicadas em portaria a expedir pela Presidência do Conselho.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

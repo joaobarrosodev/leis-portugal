@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46621-1965-511207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11ef3df9f149a897fab5a469d8f91557e214415f17fda9a21a980b5a26b50835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f4362aec8e362d08bedd9d546f2611f08cac189b7626c980b963ef5f10a9ad5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Boletim de Saúde
+- Definição de Competências
+- Direção Geral da Saúde
+- Ministério da Saúde e Assistência
+- Ministro da Saúde e Assistência
+- Vacinação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:05Z'
   warnings: []
   errors: []
 ---
@@ -99,25 +105,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Boletim individual de saúde
 
-###### Artigo 1.º - 1. É criado o boletim individual de saúde, cujo modelo baixa assinado pelo Ministro da Saúde e Assistência.
+Artigo 1.º - 1. É criado o boletim individual de saúde, cujo modelo baixa assinado pelo Ministro da Saúde e Assistência.
 
 2. Sempre que necessário, poderá o boletim individual de saúde ser alterado, sob proposta da Direcção-Geral de Saúde, por simples portaria do Ministro da Saúde e Assistência.
 
-###### Art. 2.º - 1. Os serviços do Ministério da Saúde e Assistência farão a entrega gratuita do boletim a todos os indivíduos que neles sejam vacinados e solicitarão a sua passagem pelos serviços de outros Ministérios ou entidades particulares que com eles colaborem nos programas de vacinação.
+Art. 2.º - 1. Os serviços do Ministério da Saúde e Assistência farão a entrega gratuita do boletim a todos os indivíduos que neles sejam vacinados e solicitarão a sua passagem pelos serviços de outros Ministérios ou entidades particulares que com eles colaborem nos programas de vacinação.
 
 2. Poderá ser passado boletim individual de saúde a qualquer outro indivíduo que o solicite nas delegações e subdelegações de saúde ou em outros serviços do Ministério da Saúde e Assistência para tanto autorizados.
 
 3. Nos casos a que este artigo se refere, o preenchimento da parte reservada à identificação será feito pelos estabelecimentos nele referidos contra a apresentação da cédula pessoal ou do bilhete de identidade.
 
-###### Art. 3.º - 1. Os indivíduos dos grupos etários compreendidos desde o nascimento até ao fim da idade escolar primária têm obrigação, por si ou pelos seus pais, tutores ou encarregados de educação, de conservar o boletim, devendo apresentá-lo, para seu próprio interesse, em todos os actos médico-sanitários ou exames médicos oficiais a que se submetam.
+Art. 3.º - 1. Os indivíduos dos grupos etários compreendidos desde o nascimento até ao fim da idade escolar primária têm obrigação, por si ou pelos seus pais, tutores ou encarregados de educação, de conservar o boletim, devendo apresentá-lo, para seu próprio interesse, em todos os actos médico-sanitários ou exames médicos oficiais a que se submetam.
 
 2. Quando o boletim inicial haja sido perdido e se torne necessário substituí-lo, pelo novo boletim será cobrada, pelos serviços, a importância de 10$00.
 
-###### Art. 4.º - 1. É obrigatória a apresentação do boletim individual de saúde para matrícula no ensino primário e para admissão aos exames da 4.ª classe ou admissão aos liceus e escolas técnicas.
+Art. 4.º - 1. É obrigatória a apresentação do boletim individual de saúde para matrícula no ensino primário e para admissão aos exames da 4.ª classe ou admissão aos liceus e escolas técnicas.
 
 2. A prova das vacinas exigidas por lei faz-se através de simples apresentação do boletim.
 
-###### Art. 5.º - 1. Os registos de vacinas, no boletim individual, só podem ser efectuados por serviços oficiais, ou da previdência social, devendo ser rubricados pelo responsável pela vacinação e autenticados com chancela apropriada, aprovada pela Direcção-Geral de Saúde.
+Art. 5.º - 1. Os registos de vacinas, no boletim individual, só podem ser efectuados por serviços oficiais, ou da previdência social, devendo ser rubricados pelo responsável pela vacinação e autenticados com chancela apropriada, aprovada pela Direcção-Geral de Saúde.
 
 2. Os registos realizados nos termos deste artigo fazem prova, para todos os efeitos, em termos idênticos aos dos atestados médicos, mas a sua apresentação em serviços oficiais fica sujeita ao disposto no artigo 17 da tabela geral do imposto do selo, excepto quando a prova a fazer respeite às vacinas antivariólica, antidiftérica e antitetânica.
 
@@ -127,32 +133,32 @@ Boletim individual de saúde
 
 5. Os registos e averbamentos de vacinas no boletim individual de saúde são gratuitos.
 
-###### Art. 6.º - 1. As vacinas efectuadas por médicos de empresa, em relação ao pessoal e familiares do pessoal da mesma empresa, poderão ser averbadas, pelos mesmos médicos, nos boletins individuais de saúde, enviando-os à delegação e subdelegação de saúde da respectiva área para autenticação.
+Art. 6.º - 1. As vacinas efectuadas por médicos de empresa, em relação ao pessoal e familiares do pessoal da mesma empresa, poderão ser averbadas, pelos mesmos médicos, nos boletins individuais de saúde, enviando-os à delegação e subdelegação de saúde da respectiva área para autenticação.
 
 2. Os boletins serão acompanhados de lista onde se indiquem os nomes dos seus titulares e vacinas a que foram submetidos. As listas indicarão o nome do médico responsável e o número da sua cédula profissional e serão assinadas por ele e autenticadas com a adequada chancela da empresa.
 
 3. Idêntico procedimento poderá ser adoptado em relação a quaisquer outras entidades, mediante autorização do Ministro da Saúde e Assistência;
 
-###### Art. 7.º Poderá ser obrigatória, para os serviços do Ministério da Saúde e Assistência, a inscrição, no boletim individual de saúde, dos actos sanitários que venham a ser enumerados em portaria do Ministro da Saúde e Assistência.
+Art. 7.º Poderá ser obrigatória, para os serviços do Ministério da Saúde e Assistência, a inscrição, no boletim individual de saúde, dos actos sanitários que venham a ser enumerados em portaria do Ministro da Saúde e Assistência.
 
-###### Art. 8.º - 1. Todos os demais casos de registo podem ser efectuados por quaisquer médicos, com indicação do serviço a que pertençam ou do número da sua cédula profissional, sendo médicos particulares.
+Art. 8.º - 1. Todos os demais casos de registo podem ser efectuados por quaisquer médicos, com indicação do serviço a que pertençam ou do número da sua cédula profissional, sendo médicos particulares.
 
 2. Estes registos não têm força probatória.
 
-###### Art. 9.º O boletim individual de saúde não substitui os certificados internacionais de vacinação, mas serve de fundamento para a sua passagem.
+Art. 9.º O boletim individual de saúde não substitui os certificados internacionais de vacinação, mas serve de fundamento para a sua passagem.
 
-###### Art. 10.º Quando as circunstâncias o justificarem, a prova facultada pelo boletim individual de saúde poderá ser produzida por fotocópia notarial da folha com interesse para o fim indicado e, conjuntamente, da parte destinada à identificação do titular.
+Art. 10.º Quando as circunstâncias o justificarem, a prova facultada pelo boletim individual de saúde poderá ser produzida por fotocópia notarial da folha com interesse para o fim indicado e, conjuntamente, da parte destinada à identificação do titular.
 
-###### Art. 11.º Os registos que forem falsamente efectuados no boletim são punidos com a pena do artigo 242.º do Código Penal.
+Art. 11.º Os registos que forem falsamente efectuados no boletim são punidos com a pena do artigo 242.º do Código Penal.
 
-###### Art. 12.º A impressão do boletim compete ao Ministério da Saúde e Assistência e será feita pela Direcção-Geral de Saúde, excepto nos casos em que, por despacho do Ministro da Saúde e Assistência, seja esse encargo cometido a outro serviço.
+Art. 12.º A impressão do boletim compete ao Ministério da Saúde e Assistência e será feita pela Direcção-Geral de Saúde, excepto nos casos em que, por despacho do Ministro da Saúde e Assistência, seja esse encargo cometido a outro serviço.
 
-###### Art. 13.º Este diploma entra em vigor no dia 1 de Novembro do ano corrente.
+Art. 13.º Este diploma entra em vigor no dia 1 de Novembro do ano corrente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/10/24400/14021406.pdf))](https://files.diariodarepublica.pt/1s/1965/10/24400/14021406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/10/24400/14021406.pdf)
 
 Ministério da Saúde e Assistência, 27 de Outubro de 1965. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

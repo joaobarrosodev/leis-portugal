@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08800/08040806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66282907d7b507ba2e936954c017db86c443bc5c4344169e41369ac67ae92bb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcbd0897bbf2d18aaec0d1fe2bcf88fee2787cbc926723445f9e73d468340045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Clandestina
+- Licenciamento de Obras
+- Loteamento Urbano
 relationships:
 - type: amended_by
   target: pt:dre:389826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:426934:por
+  label: Rectificado pela DECL.DD8866.22.05.1976.PCM, DR.IS [120] de 22.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-426934
+  date: '1976-05-22'
+- type: repealed_by
+  target: pt:dre:389826:por
+  label: "Revogado pelo DEC LEI.400/84.31.12.1984.PCM, DR.IS [301] de 31.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1984-389826
+  date: '1984-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:56Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +149,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os órgãos de administração municipal competentes para a concessão de licenças de loteamento poderão tomar posse administrativa dos prédios, situados em zonas urbanas ou rurais, em relação aos quais se verifique algum dos factos seguintes:
+Artigo 1.º - 1. Os órgãos de administração municipal competentes para a concessão de licenças de loteamento poderão tomar posse administrativa dos prédios, situados em zonas urbanas ou rurais, em relação aos quais se verifique algum dos factos seguintes:
 
 a) A divisão em lotes, de qualquer área, destinados imediata e subsequentemente à construção, sem licença legalmente exigida, ou depois de esta ter caducado ou de a respectiva validade se encontrar suspensa, nos termos do [Decreto-Lei n.º 511/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1975-307264), de 20 de Setembro;
 
@@ -136,7 +165,7 @@ b) Derrube de árvores em maciço não integrado em exploração florestal norma
 
 c) Constituição por qualquer título, embora juridicamente inválido, de Lotes de terreno com área inferior à da unidade de cultura.
 
-###### Art. 2.º - 1. A posse administrativa prevista no artigo anterior tem como efeitos:
+Art. 2.º - 1. A posse administrativa prevista no artigo anterior tem como efeitos:
 
 a) A imediata suspensão dos trabalhos ou actividades que tenham fundamentado a deliberação;
 
@@ -146,7 +175,7 @@ c) O direito de este adoptar as providências que se mostrem convenientes para g
 
 2. Quando assim se mostre necessário, pode o município, ao deliberar a posse administrativa ou posteriormente, nomear um administrador para o prédio, o qual exercerá, por conta dos interessados, a exploração normal daquele, com os poderes e deveres correspondentes aos dos depositários judiciais, sendo a respectiva retribuição fixada na sentença que julgue a prestação de contas.
 
-###### Art. 3.º - 1. A posse administrativa opera-se pela simples notificação aos interessados, considerando-se como tais o proprietário do prédio e o usufrutuário.
+Art. 3.º - 1. A posse administrativa opera-se pela simples notificação aos interessados, considerando-se como tais o proprietário do prédio e o usufrutuário.
 
 2. Havendo contitularidade na propriedade ou no usufruto, é suficiente a notificação de um dos contitulares no respectivo direito.
 
@@ -168,7 +197,7 @@ b) A proibição referida na alínea b) desse preceito, se não tiver sido nomea
 
 c) A nomeação do administrador do prédio, se tiver sido deliberada.
 
-###### Art. 4.º - 1. A posse administrativa será deliberada sem prévia audiência dos interessados, mas qualquer deles poderá reclamar, perante o município, para demonstrar a falta de fundamento da providência.
+Art. 4.º - 1. A posse administrativa será deliberada sem prévia audiência dos interessados, mas qualquer deles poderá reclamar, perante o município, para demonstrar a falta de fundamento da providência.
 
 2. A reclamação deverá ser apresentada no prazo de dez dias, a contar da data da última notificação efectuada nos termos do artigo 3.º
 
@@ -176,7 +205,7 @@ c) A nomeação do administrador do prédio, se tiver sido deliberada.
 
 4. Se não for apresentada reclamação, ou se esta for indeferida, será feita participação dos factos que fundamentaram a posse administrativa à entidade competente para promover o respectivo procedimento criminal.
 
-###### Art. 5.º - 1. A posse administrativa mantém-se, salvo revogação pelo município:
+Art. 5.º - 1. A posse administrativa mantém-se, salvo revogação pelo município:
 
 a) Se for deduzida e recebida acusação até ao trânsito em julgado da decisão que vier a ser proferida no respectivo processo;
 
@@ -186,7 +215,7 @@ c) Se a acusação não for recebida até ao trânsito em julgado do despacho qu
 
 2. O agente do Ministério Público deverá comunicar ao município logo que se verifique qualquer dos factos previstos no número anterior.
 
-###### Art. 6.º - 1. Os municípios poderão demolir as obras de urbanização realizadas sem licença, em desconformidade com o projecto aprovado ou com violação de prescrições constantes do alvará de loteamento ou de normas legais ou regulamentares.
+Art. 6.º - 1. Os municípios poderão demolir as obras de urbanização realizadas sem licença, em desconformidade com o projecto aprovado ou com violação de prescrições constantes do alvará de loteamento ou de normas legais ou regulamentares.
 
 2. A Direcção-Geral dos Serviços de Urbanização poderá embargar administrativamente quaisquer trabalhos ou actividades previstas no artigo 1.º, bem como demolir as obras a que se refere o número anterior, desde que o município não tenha ainda procedido à posse administrativa permitida no artigo 1.º
 
@@ -194,7 +223,7 @@ c) Se a acusação não for recebida até ao trânsito em julgado do despacho qu
 
 4. Salvo se os factos que as fundamentem e os respectivos responsáveis já tiverem sido reconhecidos por decisão judicial transitada em julgado, as demolições previstas nos n.os 1 e 2 serão ordenadas depois de notificados os interessados para apresentarem a defesa que tiverem por conveniente e de apreciada a defesa apresentada ou decorrido o prazo para a mesma, que é de dez dias, ou, no caso de notificação edital, de trinta dias, com observância no n.º 3 do artigo 4.º
 
-###### Art. 7.º - 1. Os proprietários ou usufrutários dos prédios que a elas tenham dado causa são responsáveis pelas despesas efectuadas com a execução:
+Art. 7.º - 1. Os proprietários ou usufrutários dos prédios que a elas tenham dado causa são responsáveis pelas despesas efectuadas com a execução:
 
 a) Das providências adoptadas ao abrigo da alínea c) do n.º 1 do artigo 2.º;
 
@@ -204,7 +233,7 @@ b) Das demolições autorizadas pelo artigo antecedente.
 
 3. A cobrança será efectuada através dos tribunais das contribuições e impostos, no caso de créditos do Estado, e através do sistema de cobrança de dívidas aos corpos administrativos, nos casos de créditos dos municípios.
 
-###### Art. 8.º - 1. Serão punidos:
+Art. 8.º - 1. Serão punidos:
 
 a) Os factos previstos no n.º 1 do artigo 1.º e do prosseguimento dos trabalhos cuja suspensão tenha sido determinada nos termos da alínea a) do n.º 1 do artigo 2.º ou do n.º 2 do artigo 6.º, com prisão não inferior a trinta dias de multa de 30000$00 a 1000000$00, sendo estes limites da multa elevados para o dobro em caso de reincidência;
 
@@ -226,7 +255,7 @@ b) Se evadiram, nas circunstâncias previstas no artigo 565.º do Código de Pro
 
 c) Se ausentarem do País ou da localidade, com violação das obrigações 1.ª e 2.ª do n.º 2.º do artigo 270.º do mesmo Código, não podendo, por esse motivo, ser notificados para o julgamento.
 
-###### Art. 9.º - 1. A decisão judicial que condena o proprietário por qualquer dos factos a que se refere a alínea a) do n.º 1 do artigo anterior decretará a perda, a favor do município, do prédio ou prédios objecto da infracção.
+Art. 9.º - 1. A decisão judicial que condena o proprietário por qualquer dos factos a que se refere a alínea a) do n.º 1 do artigo anterior decretará a perda, a favor do município, do prédio ou prédios objecto da infracção.
 
 2. No caso de compropriedade, a perda limitar-se-á às quotas dos comproprietários condenados.
 
@@ -234,14 +263,14 @@ c) Se ausentarem do País ou da localidade, com violação das obrigações 1.ª
 
 4. A perda prevista nos números anteriores não é prejudicada pelo facto de o objecto da mesma pertencer aos bens comuns do casal e o cônjuge não haver sido condenado pela infracção.
 
-###### Art. 10.º - 1. O presente diploma aplica-se exclusivamente aos actos praticados posteriormente ao início da sua vigência.
+Art. 10.º - 1. O presente diploma aplica-se exclusivamente aos actos praticados posteriormente ao início da sua vigência.
 
 2. Os actos praticados anteriormente continuam sujeitos à legislação actual, cujas disposições permanecem em vigor em tudo aquilo que não seja contrariado pelo presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Eduardo Ribeiro Pereira.
 
-**Promulgado em 30 de Março de 1976.**
+Promulgado em 30 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

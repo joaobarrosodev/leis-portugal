@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25800/37853786.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1980-457611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2978bc629992c3c112598ff90c1819ac50fc5926965a976576fdeac6e9b60d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff09f72da51e8ed83c2aa9a1921dafb12d88ed41ce8a3c087a0cc0eac81b5e30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Combustível
+- Contrato de Concessão
+- Importação
+- Petróleo
+- Petroquímica
+- Produto Petrolífero
+- Setor Público
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:383264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631419:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459020:por
+  label: Rectificado o nº 3 do art. 1º pela DECL.DD6737.27.11.1980.PCM, DR.IS [275] de 27.11.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459020
+  date: '1980-11-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:21Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +132,7 @@ Mas agora não se trata de reconstituir a coerência substancial desses comandos
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A faculdade em que o Estado se encontra investido nos termos do n.º 4 do artigo 16.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro, é exercitada mediante a concessão de autorizações excepcionais de importação de combustíveis líquidos, sem prejuízo das autorizações gerais de importação para distribuição no mercado interno conferidas ao abrigo da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, e legislação complementar.
+Artigo 1.º - 1 - A faculdade em que o Estado se encontra investido nos termos do n.º 4 do artigo 16.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro, é exercitada mediante a concessão de autorizações excepcionais de importação de combustíveis líquidos, sem prejuízo das autorizações gerais de importação para distribuição no mercado interno conferidas ao abrigo da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, e legislação complementar.
 
 2 - As autorizações excepcionais de importação de combustíveis líquidos poderão ser concedidas:
 
@@ -108,7 +142,7 @@ b) A outras entidades, nos casos em que, de harmonia com o presente decreto-lei,
 
 3 - Para além da quota de distribuição correspondente à quota de mercado interno e à quota da autorização geral de importação que se encontram conferidas à Petrogal, também se entende atribuída a essa empresa a quota de distribuição que anualmente resultar da diferença entre o valor do mercado interno, deduzido do valor daquelas suas quotas, e a soma dos valores das quotas de autorizações gerais e excepcionais que sejam concedidas a outras entidades.
 
-###### Art. 2.º - 1 - O regime da concessão das autorizações excepcionais a que se refere o n.º 2 do artigo precedente observará os seguintes condicionamentos básicos:
+Art. 2.º - 1 - O regime da concessão das autorizações excepcionais a que se refere o n.º 2 do artigo precedente observará os seguintes condicionamentos básicos:
 
 a) Segurança e melhores condições de abastecimento em petróleo bruto;
 
@@ -122,12 +156,12 @@ e) Margens de refinação e comercialização em níveis tendencialmente semelha
 
 2 - O regime da concessão dessas autorizações será definido por despacho do Ministro da Indústria e Energia.
 
-###### Art. 3.º Consideram-se revogados pelo [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril, os n.os 2 e 3 do artigo 16.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro.
+Art. 3.º Consideram-se revogados pelo [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril, os n.os 2 e 3 do artigo 16.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 28 de Outubro de 1980.**
+Promulgado em 28 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

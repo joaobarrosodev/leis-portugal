@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/07400/05020504.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1979-382846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5403aeea284ce56dc18d2828cc4b5e5e2546f59b0e2c602508b151e12cf9ac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2087032e32380f0a13ccb31cbb7a55511394b1922ae37de051d4354dca145db1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Industrial
+- Gabinete da Área de Sines
+- Multa
+- Poluição Atmosférica
+- Proteção do Ambiente
+- Sines
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:368235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420995:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:470389:por
+  label: "Revogado pelo DEC LEI.255/80.30.07.1980.PCM, DR.IS [174] de 30.07.1980, na parte em que o contrarie \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/255-1980-470389
+  date: '1980-07-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:10Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +128,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É atribuída competência ao Gabinete da Área de Sines para, em relação à zona de sua actuação directa, fazer cumprir limites de concentração à superfície de poluentes atmosféricos emitidos por unidades industriais instaladas ou a instalar naquela zona.
+Artigo 1.º - 1 - É atribuída competência ao Gabinete da Área de Sines para, em relação à zona de sua actuação directa, fazer cumprir limites de concentração à superfície de poluentes atmosféricos emitidos por unidades industriais instaladas ou a instalar naquela zona.
 
 2 - Para efeitos deste diploma, consideram-se como poluentes atmosféricos quaisquer fumos, poeiras, gases, vapores e cheiros de todas as espécies susceptíveis de alterar as condições normais de qualidade do ar, criando situações de potencial ou efectivo prejuízo, directo ou indirecto, às populações, que altere, por qualquer forma, o equilíbrio ecológico da zona, causando danos à fauna, flora e solo e modifique, por qualquer processo, de natureza física ou química, as matérias sujeitas à sua acção.
 
@@ -111,7 +136,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Entende-se por «concentração à superfície» os valores medidos à altura de 1,5 m acima do solo de todas as substâncias poluentes que se encontrem na zona sujeita à influência das diversas fontes emissoras.
 
-###### Art. 2.º - 1 - Os valores dos limites máximos de concentrações à superfície dos diversos poluentes serão fixados por portaria conjunta da Secretaria de Estado do Planeamento e da Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
+Art. 2.º - 1 - Os valores dos limites máximos de concentrações à superfície dos diversos poluentes serão fixados por portaria conjunta da Secretaria de Estado do Planeamento e da Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
 Estes valores serão propostos pela Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente após o respectivo estudo prévio feito sob a sua responsabilidade.
 
@@ -119,7 +144,7 @@ Estes valores serão propostos pela Secretaria de Estado do Ordenamento Físico,
 
 3 - O Gabinete da Área de Sines será consultado para a elaboração da lista de valores referidos no n.º 1 deste artigo, assim como para eventuais alterações posteriores, atendendo à sua particular competência nas condicionantes da zona em causa e aos meios de avaliação e detecção que já possui ou que virá a possuir em consequência da aplicação deste decreto-lei.
 
-###### Art. 3.º - 1 - Quando se tratar de poluentes emitidos por várias unidades industriais, a fixação dos teores e condições da emissão a cumprir por cada unidade industrial, por forma a respeitar as quotas-partes de concentração máxima à superfície que lhes forem atribuídas, será efectuada pelo Gabinete da Área de Sines mediante notificação ou nos termos do artigo 4.º, alíena e), do articulado do modelo n.º 1 anexo à [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho.
+Art. 3.º - 1 - Quando se tratar de poluentes emitidos por várias unidades industriais, a fixação dos teores e condições da emissão a cumprir por cada unidade industrial, por forma a respeitar as quotas-partes de concentração máxima à superfície que lhes forem atribuídas, será efectuada pelo Gabinete da Área de Sines mediante notificação ou nos termos do artigo 4.º, alíena e), do articulado do modelo n.º 1 anexo à [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho.
 
 2 - Os valores fixados a cada unidade industrial poderão ser revistos caso as medições de concentração à superfície o aconselharem e desde que se mantenham dentro dos limites máximos previstos no artigo anterior.
 
@@ -131,7 +156,7 @@ a) Sejam ultrapassados os limites de concentração à superfície fixados no â
 
 b) Sejam ultrapassados os limites de concentração à superfície devido a causas que se situem fora das possibilidades de contrôle do Gabinete da Área de Sines.
 
-###### Art. 4.º - 1 - O Gabinete da Área de Sines instalará e manterá postos autónomos de medição de concentrações à superfície para cada poluente e promoverá o tratamento da informação obtida junto das unidades industriais ou de quaisquer serviços públicos competentes numa instalação central de contrôle.
+Art. 4.º - 1 - O Gabinete da Área de Sines instalará e manterá postos autónomos de medição de concentrações à superfície para cada poluente e promoverá o tratamento da informação obtida junto das unidades industriais ou de quaisquer serviços públicos competentes numa instalação central de contrôle.
 
 A medição das concentrações será efectuada em aparelhos de registo contínuo utilizando métodos de medição actualizados, ambos a fixar em portaria conjunta da Secretaria de Estado do Planeamento e da Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente e sob proposta desta última.
 
@@ -147,7 +172,7 @@ A medição das concentrações será efectuada em aparelhos de registo contínu
 
 O mesmo Gabinete fornecerá àqueles serviços quaisquer informações suplementares que estes lhe solicitarem.
 
-###### Art. 5.º - 1 - Quando, por quaisquer motivos de força maior, designadamente os de natureza meteorológica ou directamente imputáveis à laboração das unidades industriais, se verifiquem situações de emergência que constituam sério e iminente risco ou ameaça à saúde e segurança dos trabalhadores e da população da área, poderá o Gabinete da Área de Sines suspender a laboração de instalações fabris até que deixem de verificar-se as condições referidas.
+Art. 5.º - 1 - Quando, por quaisquer motivos de força maior, designadamente os de natureza meteorológica ou directamente imputáveis à laboração das unidades industriais, se verifiquem situações de emergência que constituam sério e iminente risco ou ameaça à saúde e segurança dos trabalhadores e da população da área, poderá o Gabinete da Área de Sines suspender a laboração de instalações fabris até que deixem de verificar-se as condições referidas.
 
 2 - Desta decisão cabe recurso, sem efeito suspensivo, para o Secretário de Estado do Planeamento. O recurso deverá ser interposto no prazo de trinta dias, a contar da notificação, conhecimento oficial ou começo de execução da decisão recorrida, consoante o facto que primeiramente ocorrer.
 
@@ -155,23 +180,23 @@ O mesmo Gabinete fornecerá àqueles serviços quaisquer informações suplement
 
 4 - As petições que não obtenham despacho definitivo dentro deste prazo consideram-se, para todos os efeitos, como deferidas.
 
-###### Art. 6.º - 1 - Compete ao Gabinete da Área de Sines a fixação das características a que devem obedecer todas as chaminés e fachos de qualquer unidade industrial a instalar no complexo de Sines.
+Art. 6.º - 1 - Compete ao Gabinete da Área de Sines a fixação das características a que devem obedecer todas as chaminés e fachos de qualquer unidade industrial a instalar no complexo de Sines.
 
 2 - O Gabinete da Área de Sines atribuirá a cada unidade industrial a quota-parte dos teores máximos admitidos para cada uma das substâncias poluentes consideradas, tendo em conta as respectivas quantidades totais emitidas, a localização das fontes emissoras e os níveis de poluição existentes na área.
 
-###### Art. 7.º - 1 - As unidades industriais utilizadoras de fuel-óleo de queima deverão possuir armazenagem efectiva deste combustível com um máximo teor de enxofre fixado na [Portaria n.º 767/71](https://diariodarepublica.pt/dr/detalhe/portaria/767-1971-368235), da Secretaria de Estado da Indústria, Direcção-Geral dos Combustíveis.
+Art. 7.º - 1 - As unidades industriais utilizadoras de fuel-óleo de queima deverão possuir armazenagem efectiva deste combustível com um máximo teor de enxofre fixado na [Portaria n.º 767/71](https://diariodarepublica.pt/dr/detalhe/portaria/767-1971-368235), da Secretaria de Estado da Indústria, Direcção-Geral dos Combustíveis.
 
 2 - A capacidade de armazenagem referida no número anterior será fixada caso a caso pela Direcção-Geral dos Combustíveis e pelo Gabinete da Área de Sines segundo os regulamentos de segurança previstos na lei.
 
 3 - O Gabinete da Área de Sines e a Direcção-Geral dos Combustíveis fiscalizarão o cumprimento desta disposição.
 
-###### Art. 8.º - 1 - A infracção por parte das unidades industriais dos condicionantes técnicos fixados ao abrigo deste diploma fará incorrê-las em responsabilidade civil, nos termos gerais de direito, e ainda no pagamento de multas com carácter cumulativo, nos termos a definir por portaria conjunta do Secretário de Estado do Planeamento e do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
+Art. 8.º - 1 - A infracção por parte das unidades industriais dos condicionantes técnicos fixados ao abrigo deste diploma fará incorrê-las em responsabilidade civil, nos termos gerais de direito, e ainda no pagamento de multas com carácter cumulativo, nos termos a definir por portaria conjunta do Secretário de Estado do Planeamento e do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
 2 - As multas aplicadas nos termos do número anterior serão recebidas pelo Gabinete da Área de Sines e constituirão receitas do Estado, de acordo com a lei geral.
 
 3 - A prática reiterada das infracções a que se refere o número anterior, devido a negligência comprovada, determinará que o Gabinete da Área de Sines obtenha a reversão do direito de superfície da unidade industrial mediante justa indemnização calculada nos termos do artigo 8.º da [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995).
 
-###### Art. 9.º - 1 - A aplicação de multas compete ao director do Gabinete da Área de Sines até sessenta dias após a verificação da infracção.
+Art. 9.º - 1 - A aplicação de multas compete ao director do Gabinete da Área de Sines até sessenta dias após a verificação da infracção.
 
 2 - O acto de aplicação de multa é definitivo e executório e dele cabe recurso contencioso de plena jurisdição, sem efeito suspensivo.
 
@@ -181,14 +206,14 @@ O mesmo Gabinete fornecerá àqueles serviços quaisquer informações suplement
 
 5 - Será competente para a execução o tribunal de 1.ª instância das contribuições e impostos que abranja a sede do GAS.
 
-###### Art. 10.º As dúvidas resultantes da aplicação do presente diploma, que entra imediatamente em vigor, são resolvidas por despacho conjunto do Secretário de Estado do Planeamento e do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
+Art. 10.º As dúvidas resultantes da aplicação do presente diploma, que entra imediatamente em vigor, são resolvidas por despacho conjunto do Secretário de Estado do Planeamento e do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
 Os direitos e deveres consignados ao Gabinete da Área de Sines neste decreto-lei têm carácter transitório e cessarão no momento em que os órgãos e serviços do citado Gabinete que respeitem à qualidade do ambiente sejam integrados na Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente, momento a partir do qual a competência atribuída neste diploma à Secretaria de Estado do Planeamento caberá à Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.
 
-**Promulgado em 15 de Março de 1979.**
+Promulgado em 15 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

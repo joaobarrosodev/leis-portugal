@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17200/16831684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/611-1976-430660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52d191723df31a3ac97d40d521d3ef09f7ce9d65253b00cefaf04b99db66abea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 763da8b5c173cd571e01e9e987a4c6a58e5f81c2d78950479b50fbd2079f3c03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diuturnidades
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:140343:por
+  label: "Revogados os arts. 2º e 3º pelo DEC LEI.81/77.04.03.1977.MEIC, DR.IS [53] de 04.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1977-140343
+  date: '1977-03-04'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:42Z'
   warnings: []
   errors: []
 ---
@@ -103,22 +123,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É revogado o n.º 2 do artigo 4.º do [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio.
+Artigo 1.º É revogado o n.º 2 do artigo 4.º do [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio.
 
-###### Art. 2.º - 1. É suspensa a atribuição de diuturnidades ao pessoal docente abrangido pelo sistema de fases previsto no [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+Art. 2.º - 1. É suspensa a atribuição de diuturnidades ao pessoal docente abrangido pelo sistema de fases previsto no [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
 2. O disposto no número anterior vigorará até à regulamentação da transição de fases, mantendo-se, contudo, as já atribuídas ou a atribuir, nos termos da legislação em vigor.
 
 3. Fica igualmente suspensa a atribuição de novas fases desde que o direito às mesmas se venha a efectivar após a publicação do [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio.
 
-###### Art. 3.º Logo que seja regulamentada a transição das fases previstas no [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, serão, além daquelas, atribuídas aos docentes as diuturnidades a que, nos termos do [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, tiverem direito.
+Art. 3.º Logo que seja regulamentada a transição das fases previstas no [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, serão, além daquelas, atribuídas aos docentes as diuturnidades a que, nos termos do [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, tiverem direito.
 
 2. O disposto no número precedente produzirá efeitos desde 1 de Abril de 1976.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

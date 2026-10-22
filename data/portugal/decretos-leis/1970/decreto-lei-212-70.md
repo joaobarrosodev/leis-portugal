@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1970-142276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d84b7c9fa7cc975d2832d4275c9684e2e8101c035d0976ad8041c20473f5984b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 391008da4640b546a4438cdf0f3e05fd0afe3566ac988656374dd6bc20cd7edb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Espanha
+- Madrid
+- Ponte Internacional
+- Portugal
+- Rio Guadiana
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:29Z'
   warnings: []
   errors: []
 ---
@@ -85,13 +91,13 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção entre Portugal e Espanha para a Construção de Uma Ponte Internacional sobre o Rio Guadiana, assinada em Madrid, em 2 de Abril de 1970, cujo texto em português vai anexo ao presente decreto-lei.
+Artigo único. É aprovada para ratificação a Convenção entre Portugal e Espanha para a Construção de Uma Ponte Internacional sobre o Rio Guadiana, assinada em Madrid, em 2 de Abril de 1970, cujo texto em português vai anexo ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 6 de Maio de 1970.**
+Promulgado em 6 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -99,27 +105,27 @@ Convenção entre Portugal e Espanha para a Construção de Uma Ponte Internacio
 
 Tendo em vista o grande desenvolvimento que provocará nas estruturas económicas e turísticas da região algarvia e nas regiões do Sul e Sudeste de Espanha, e, considerando as recomendações da Comissão Internacional de Limites entre Portugal e Espanha nas suas reuniões de Madrid em Novembro de 1963, de Lisboa em Novembro de 1966 e de Madrid em Fevereiro de 1969, o Governo Português e o Governo Espanhol convieram no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Entre Vila Real de Santo António e Aiamonte levar-se-á a efeito a construção de uma ponte ligando Portugal com a Espanha, integrada numa estrada internacional.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Esta ponte destinar-se-á ao tráfego rodoviário e as suas características serão as constantes de um projecto a elaborar e a aprovar por ambos os Governos, tendo em atenção a necessidade de não prejudicar a navegação de longo curso entre o mar e a parte do rio para montante da ponte.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 É atribuída ao Governo Português a elaboração do projecto, tanto da ponte como dos seus acessos, nos lados português e espanhol.
 
 As despesas efectuadas por esse motivo serão pagas pelos Governos Português e Espanhol, em partes iguais.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Os dois Governos interessados concederão as facilidades necessárias à elaboração do projecto e à execução da obra nos territórios respectivos.
 
 Nesse sentido realizarão, na forma e momento oportunos, as diligências destinadas a facilitar as licenças, autorizações e terrenos necessários aos trabalhos correspondentes.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Uma vez aprovado o projecto a que se refere o artigo 2.º e autorizada por ambos os Governos a execução da obra correspondente proceder-se-á à sua adjudicação por meio de concurso.
 
@@ -135,7 +141,7 @@ O custo da nova ponte será pago, em partes iguais, pelos orçamentos de cada Es
 
 O custo de cada um dos acessos da nova ponte será pago pelo orçamento do Estado em cujo território se encontre situado.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 No que respeita às despesas efectuadas com a elaboração do projecto, nos termos do artigo 3.º, o Governo Espanhol reembolsará o Governo Português de metade das mesmas, uma vez aprovado o projecto por ambos os Governos.
 
@@ -143,21 +149,21 @@ Os pagamentos correspondentes à execução da obra por parte do Governo não ex
 
 As situações trimestrais relativas à execução da obra, bem como a liquidação definitiva, serão estabelecidas pelos serviços técnicos do Governo encarregado da obra, aprovados pela comissão técnica a que se refere o artigo 10.º
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Não obstante o estabelecido nos artigos anteriores, os dois Governos poderão vir a acordar nas modalidades a que poderia obedecer um contrato especial a estabelecer, com vista a regular o regime da exploração da ponte internacional e dos seus acessos rodoviários.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 As empresas encarregadas da execução dos trabalhos poderão recrutar operários portugueses ou espanhóis, residentes em Portugal ou em Espanha.
 
 Estes operários estarão sujeitos à regulamentação do país da sua residência habitual.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 No que respeita às condições de trabalho e segurança social, a legislação e os regulamentos aplicáveis serão os vigentes em Portugal no que respeita à elaboração do projecto, e os vigentes no Estado cujo Governo se encarregue da execução da obra, no que se refere à execução da mesma.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Para assegurar a elaboração do projecto e a boa execução das obras e ainda estabelecer ligação permanente entre os serviços interessados dos dois países será constituída uma comissão técnica luso-espanhola.
 
@@ -171,7 +177,7 @@ A comissão será presidida alternadamente cada seis meses pelo presidente de ca
 
 Os Governos constituirão a comissão por via diplomática. A comissão reunir-se-á sempre que seja necessário, a pedido de qualquer das partes.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Depois de concluída a obra, será esta objecto, por parte do Governo encarregado da sua construção e em conformidade com o outro Governo, de uma recepção provisória, e, um ano mais tarde, de uma recepção definitiva.
 
@@ -185,7 +191,7 @@ Se as necessidades técnicas o aconselharem, poderão adoptar-se disposições e
 
 Estas disposições poderão ser fixadas no protocolo relativo à obra, ou por meio de comunicações por via diplomática.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Cada um dos Governos contratantes compromete-se a:
 
@@ -197,13 +203,13 @@ c) Permitir a entrada dos materiais de construção, matérias-primas, material 
 
 Todos os elementos mencionados nas alíneas a), b) e c) deste artigo deverão ser devolvidos ao país de procedência, uma vez terminada a obra, se não tiverem sido incorporados na mesma.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 A empresa encarregada da elaboração do projecto, bem como a empresa, ou grupo de empresas, encarregadas da execução da obra, pagarão em cada país, e de harmonia com a legislação em vigor, os impostos correspondentes aos trabalhos e obras que realizem.
 
 Quando haja casos de dupla tributação, será esta evitada mediante a aplicação de método estabelecido no artigo 24.º da Convenção entre os dois países para evitar a dupla tributação em matéria de impostos sobre o rendimento, assinada em 29 de Maio de 1968 e em vias de ratificação.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Os contratos relativos à elaboração do projecto obedecerão às normas de direito público vigentes em Portugal.
 
@@ -211,23 +217,23 @@ Os contratos relativos à execução da obra obedecerão às normas de direito p
 
 As divergências que possam surgir entre a Administração e as empresas encarregadas da execução dos trabalhos serão exclusivamente da competência das autoridades do país encarregado da sua execução.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Cada Estado será proprietário da parte da ponte e dos acessos que se situam no seu território.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 A linha de delimitação da fronteira entre ambos os países será traçada sobre a ponte pela Comissão Internacional de Limites entre Portugal e Espanha, de acordo com as convenções internacionais em vigor.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Os postos de fiscalização policial e aduaneira ficarão localizados de acordo com o projecto e de forma a assegurar as melhores condições de funcionamento.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 O regime de exploração da ponte (livre ou com portagem) será objecto de acordo entre os dois Governos, tendo em conta a importância dos correspondentes investimentos efectuados.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 A presente Convenção entrará em vigor na data da troca dos instrumentos de ratificação.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 259/1976, 1º Suplemento, Série I de 1976-11-05
   number: '259'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2524-(1) a 2524-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/25901/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-a-1976-508459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9075be5cb499bc53d5cc024f0c2bef69f760430ec0c91a772bc62e66f1d13ade
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f74cb50e2b966e4f75bd655d938f121c08311b25629c5f637e5c42695d4368f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Definição de Competências
+- Provedor de Justiça
 relationships:
 - type: amended_by
   target: pt:dre:281427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158401:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:281427:por
+  label: "Revogado pela LEI.81/77.22.11.1977.AR, DR.IS [270] de 22.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/81-1977-281427
+  date: '1977-11-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:11Z'
   warnings: []
   errors: []
 ---
@@ -98,20 +110,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401) de 21 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401) de 21 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1. O Provedor de Justiça é designado pela Assembleia da República, tomando posse perante o respectivo presidente.
+Art. 2.º - 1. O Provedor de Justiça é designado pela Assembleia da República, tomando posse perante o respectivo presidente.
 
 2. O adjunto é da livre escolha do Provedor de Justiça.
 
-###### Art. 2.º Fica revogado o artigo 18.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), de 21 de Abril.
+Art. 2.º Fica revogado o artigo 18.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), de 21 de Abril.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 3 de Novembro de 1976.**
+Promulgado em 3 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

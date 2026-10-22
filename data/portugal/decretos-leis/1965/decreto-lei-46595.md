@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,147 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93090241a1662f6390d5c5e79fa7d0fc5fe866bcdf03b3912e4805ccfa64c4d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17be980c1221c0d002d097159e5a2e6a2085b883ef0a7100e9503171161ea5ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Caixa Nacional de Crédito
+- Centeio
+- Cereal
+- Comércio
+- Comissão Reguladora do Comércio de Cereais do Arquipélago dos Açores
+- Especificação Técnica
+- Farinha
+- Federação Nacional dos Produtores de Trigo
+- Fertilizante
+- Financiamento
+- Fundo de Abastecimento
+- Indústria da Panificação
+- Indústria Pasteleira
+- Milho
+- Preço
+- Preço de Campanha
+- Preço de Venda
+- Produção Agrícola
+- Subsídio
+- Taxa
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:380929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312227:por
+  label: "Prorrogado até 30 de Setembro de 1967 o prazo para a liquidação dos empréstimos referidos no art. 27.º pelo DEC\
+    \ LEI.47750.06.06.1967.MECO, DG.IS [132] de 06.06.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47750-1967-312227
+  date: '1967-06-06'
+- type: amended_by
+  target: pt:dre:656378:por
+  label: "Alterado o § 1º do art. 18º pelo DEC LEI.70/78.07.04.1978.MAP, DR.IS [81-2ºSupl] de 07.04.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1978-656378
+  date: '1978-04-07'
+- type: cites
+  target: pt:dre:181656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147601:por
+  label: "Revogados os arts. 9º e 14º pelo DEC LEI.491/70.22.10.1970.MECO, DG.IS [245] de 22.10.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/491-1970-147601
+  date: '1970-10-22'
+- type: repealed_by
+  target: pt:dre:380929:por
+  label: Revogado, a partir de 01.01.1985, pelo(a) Decreto-Lei n.º 288/84 - Diário da República n.º 196/1984, Série I de 1984-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1984-380929
+  date: '1984-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:55Z'
   warnings: []
   errors: []
 ---
@@ -302,7 +409,7 @@ Distritos de Portalegre, Évora, Beja e Faro - 3,01 por cento.
 
 Em 1963, ano bom para o centeio, a produção dos três principais cereais na zona do centeio tem esta composição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf))](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf)
 
 Temos, assim, que, mesmo dentro da sua zona, a produção de centeio já está a ser batida pela do trigo nos distritos de Bragança e Castelo Branco e que, neste último, também a do milho a ultrapassa já e em muito.
 
@@ -398,7 +505,7 @@ Em 1963 a produção total foi de 523000 t, obtida numa área de 488000 ha. Esta
 
 Se examinarmos o comportamento da produção em 1963 - aquela em que se registou a segunda maior colheita nos últimos quinze anos -, verificaremos que, nos distritos onde a cultura é mais significativa, se produziu:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf))](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf)
 
 Ainda que nos baseássemos nestas produções maiores, mesmo assim seria impossível assegurar a rentabilidade do hectare da terra regada através de uma simples elevação do preço actual do milho, tanto mais que a quantidade de forragens outonais que nesses terrenos se produzem fica, tanto como a do milho, muito longe da quantidade que se poderia obter se a cultura obedecesse às técnicas convenientes.
 
@@ -528,11 +635,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A tabela reguladora do preço do trigo é a seguinte:
+Artigo 1.º A tabela reguladora do preço do trigo é a seguinte:
 
 1. Trigo mole:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf))](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/10/23400/13321346.pdf)
 
 2. Trigo rijo de grão escuro:
 
@@ -554,9 +661,9 @@ O preço estabelecido para o trigo mole, para igual peso de hectolitro, para os 
 
 § 4.º É fixado em 1$70 o subsídio a que se refere o § 1.º do artigo 1.º do [Decreto-Lei n.º 30579](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30579-1940-190256), de 10 de Junho de 1940.
 
-###### Art. 2.º A tabela reguladora do preço dos trigos e o subsídio referidos no artigo anterior aplicar-se-ão também ao arquipélago dos Açores, continuando as condições especiais do regime cerealífero do mesmo território a depender de portaria, nos termos do artigo 16.º do [Decreto-Lei n.º 36469](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36469-1947-181656), de 15 de Agosto de 1947.
+Art. 2.º A tabela reguladora do preço dos trigos e o subsídio referidos no artigo anterior aplicar-se-ão também ao arquipélago dos Açores, continuando as condições especiais do regime cerealífero do mesmo território a depender de portaria, nos termos do artigo 16.º do [Decreto-Lei n.º 36469](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36469-1947-181656), de 15 de Agosto de 1947.
 
-###### Art. 3.º Sempre que a produção de trigo da campanha entregue para vender à Federação Nacional dos Produtores de Trigo for inferior a 410000 t será atribuído a cada produtor, por quilograma entregue, um diferencial de correcção, de valor calculado pela seguinte regra:
+Art. 3.º Sempre que a produção de trigo da campanha entregue para vender à Federação Nacional dos Produtores de Trigo for inferior a 410000 t será atribuído a cada produtor, por quilograma entregue, um diferencial de correcção, de valor calculado pela seguinte regra:
 
 (410 - E/80) x $30
 
@@ -568,19 +675,19 @@ em que E representa a totalidade (em milhares de toneladas) das entregas de trig
 
 § 3.º O diferencial de correcção a atribuir aos produtores de trigo do arquipélago dos Açores será calculado com base em regra a fixar por portaria conjunta dos Secretários de Estado da Agricultura e do Comércio.
 
-###### Art. 4.º Por cada quilograma de trigo vendido às indústrias transformadoras, reverterá para o Instituto Nacional do Pão a importância de $005, a cobrar pela Federação Nacional dos Produtores de Trigo ou pela Federação Nacional dos Industriais de Moagem, consoante a entidade fornecedora do cereal.
+Art. 4.º Por cada quilograma de trigo vendido às indústrias transformadoras, reverterá para o Instituto Nacional do Pão a importância de $005, a cobrar pela Federação Nacional dos Produtores de Trigo ou pela Federação Nacional dos Industriais de Moagem, consoante a entidade fornecedora do cereal.
 
 § único. As respectivas importâncias serão processadas, mensalmente, a favor do Instituto Nacional do Pão e debitadas ao Fundo de Abastecimento.
 
-###### Art. 5.º As taxas estabelecidas no § 3.º do artigo 25.º do [Decreto-Lei n.º 22872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22872-1933-317531), de 24 de Julho de 1933, e no § 1.º do n.º 5.º do artigo 24.º do [Decreto-Lei n.º 24949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24949-1935-467801), de 10 de Janeiro de 1935, são elevados para $05 por quilograma.
+Art. 5.º As taxas estabelecidas no § 3.º do artigo 25.º do [Decreto-Lei n.º 22872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22872-1933-317531), de 24 de Julho de 1933, e no § 1.º do n.º 5.º do artigo 24.º do [Decreto-Lei n.º 24949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24949-1935-467801), de 10 de Janeiro de 1935, são elevados para $05 por quilograma.
 
-###### Art. 6.º A partir da colheita do corrente ano o preço-base de aquisição de centeio pela Federação Nacional dos Produtores de Trigo é fixado em 2$60 por quilograma.
+Art. 6.º A partir da colheita do corrente ano o preço-base de aquisição de centeio pela Federação Nacional dos Produtores de Trigo é fixado em 2$60 por quilograma.
 
 § único. Os preços de venda do centeio pela Federação Nacional dos Produtores de Trigo, bem como as condições da sua aquisição e venda, serão fixados por despacho do Secretário de Estado do Comércio.
 
-###### Art. 7.º Sempre que as disponibilidades de armazenagem ou a economia da conservação e transporte o justifiquem, poderá a Federação Nacional dos Produtores de Trigo entregar o centeio à guarda e conservação dos respectivos utilizadores, aplicando-se o regime estabelecido para o trigo nos artigos 10.º e 11.º do [Decreto-Lei n.º 24688](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24688-1934-446141), de 27 de Novembro de 1934.
+Art. 7.º Sempre que as disponibilidades de armazenagem ou a economia da conservação e transporte o justifiquem, poderá a Federação Nacional dos Produtores de Trigo entregar o centeio à guarda e conservação dos respectivos utilizadores, aplicando-se o regime estabelecido para o trigo nos artigos 10.º e 11.º do [Decreto-Lei n.º 24688](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24688-1934-446141), de 27 de Novembro de 1934.
 
-###### Art. 8.º A partir da colheita do corrente ano, os preços de aquisição de milho pela Federação Nacional dos Produtores de Trigo serão os seguintes, por quilograma:
+Art. 8.º A partir da colheita do corrente ano, os preços de aquisição de milho pela Federação Nacional dos Produtores de Trigo serão os seguintes, por quilograma:
 
 a) Nos meses de Setembro, Outubro e Novembro, 2$30;
 
@@ -598,7 +705,7 @@ c) Nos meses de Março, Abril e Maio, 2$50.
 
 § 5.º O disposto no corpo deste artigo e seus parágrafos poderá ser alterado por despacho do Secretário de Estado da Agricultura ou do Comércio, consoante a matéria de que se tratar.
 
-###### Art. 9.º Os agricultores que durante o quinquénio contado a partir do ano agrícola de 1965-1966 iniciem a reconversão e a melhoria das técnicas culturais da sua exploração em conformidade com as normas regulamentares superiormente estabelecidas beneficiarão de uma dotação anual sobre as suas produções de trigo, centeio e milho calculada da seguinte forma:
+Art. 9.º Os agricultores que durante o quinquénio contado a partir do ano agrícola de 1965-1966 iniciem a reconversão e a melhoria das técnicas culturais da sua exploração em conformidade com as normas regulamentares superiormente estabelecidas beneficiarão de uma dotação anual sobre as suas produções de trigo, centeio e milho calculada da seguinte forma:
 
 1) Trigo: $30 por quilograma entregue na Federação Nacional dos Produtores de Trigo ou na Comissão Reguladora dos Cereais do Arquipélago dos Açores.
 
@@ -614,23 +721,23 @@ b) Para verde (milho-forragem): 750$00 por hectare de milho híbrido, até ao li
 
 § 2.º O pagamento das dotações referidas neste artigo será efectuado em datas que serão fixadas pelo Secretário de Estado do Comércio.
 
-###### Art. 10.º O Ministro da Economia regulará por despacho as condições a que deverá obedecer a concessão da dotação para reconversão e melhoria das técnicas culturais referida nos artigo anterior.
+Art. 10.º O Ministro da Economia regulará por despacho as condições a que deverá obedecer a concessão da dotação para reconversão e melhoria das técnicas culturais referida nos artigo anterior.
 
-###### Art. 11.º Os produtores de trigo e de centeio, a título de apoio financeiro à exploração das suas empresas, beneficiarão já em relação à colheita do corrente ano entregue na Federação Nacional dos Produtores de Trigo e na Comissão Reguladora dos Cereais do Arquipélago dos Açores da elevação de $20 e da dotação de $30 referidas nos artigos 1.º e 9.º por cada quilograma de trigo e da dotação de $30 também neste último artigo prevista por cada quilograma de centeio.
+Art. 11.º Os produtores de trigo e de centeio, a título de apoio financeiro à exploração das suas empresas, beneficiarão já em relação à colheita do corrente ano entregue na Federação Nacional dos Produtores de Trigo e na Comissão Reguladora dos Cereais do Arquipélago dos Açores da elevação de $20 e da dotação de $30 referidas nos artigos 1.º e 9.º por cada quilograma de trigo e da dotação de $30 também neste último artigo prevista por cada quilograma de centeio.
 
-###### Art. 12.º Os encargos resultantes da execução do disposto no § 4.º do artigo 1.º e nos artigos 2.º, 3.º, 9.º e 11.º do presente diploma serão cobertos pelo Fundo de Abastecimento.
+Art. 12.º Os encargos resultantes da execução do disposto no § 4.º do artigo 1.º e nos artigos 2.º, 3.º, 9.º e 11.º do presente diploma serão cobertos pelo Fundo de Abastecimento.
 
-###### Art. 13.º Destinam-se ao fabrico de sêmolas e farinhas para massas alimentícias os trigos rijos de grão claro das classes A e B.
+Art. 13.º Destinam-se ao fabrico de sêmolas e farinhas para massas alimentícias os trigos rijos de grão claro das classes A e B.
 
 § único. Serão facturados ao preço do trigo da classe A, estabelecido no presente decreto-lei, constituindo receita do Fundo Especial de Compensação a diferença entre este preço e o estabelecido pelo mesmo diploma para os da classe B.
 
 Reverterão igualmente para o mesmo Fundo as diferenças de preço correspondentes aos trigos da classe C (rijo de grão claro), bem como os moles e rijos comuns que possam vir a ser distribuídos para o mesmo efeito.
 
-###### Art. 14.º Por cada quilograma de trigo entregue pela Federação Nacional dos Produtores de Trigo às fábricas especializadas na produção de farinhas alimentares compostas e autorizadas a moer cereais com esse destino, reverterá para o Fundo de Abastecimento a importância de $10, que será creditada àquele Fundo por aquele organismo.
+Art. 14.º Por cada quilograma de trigo entregue pela Federação Nacional dos Produtores de Trigo às fábricas especializadas na produção de farinhas alimentares compostas e autorizadas a moer cereais com esse destino, reverterá para o Fundo de Abastecimento a importância de $10, que será creditada àquele Fundo por aquele organismo.
 
-###### Art. 15.º O preço máximo da farinha espoada de 2.ª qualidade, referida no artigo 6.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, nas fábricas de moagem ou sobre vagão, passa a ser de 3$40 por quilograma.
+Art. 15.º O preço máximo da farinha espoada de 2.ª qualidade, referida no artigo 6.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, nas fábricas de moagem ou sobre vagão, passa a ser de 3$40 por quilograma.
 
-###### Art. 16.º Os limites máximos da percentagem de cinzas das farinhas de trigo, referidas no artigo 10.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), passam a ser as seguintes:
+Art. 16.º Os limites máximos da percentagem de cinzas das farinhas de trigo, referidas no artigo 10.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), passam a ser as seguintes:
 
 a) Para a panificação:
 
@@ -650,9 +757,9 @@ Qualidade superior - 0,45;
 
 Consumo corrente - 0,75.
 
-###### Art. 17.º A colheita de amostras de farinha para determinação da humidade ou de outras características pode ser feita em qualquer local onde ela se encontre.
+Art. 17.º A colheita de amostras de farinha para determinação da humidade ou de outras características pode ser feita em qualquer local onde ela se encontre.
 
-###### Art. 18.º Todas as farinhas destinadas à panificação e para serem aplicadas no consumo público, seja qual for o seu tipo ou qualidade, têm de estar contidas em sacas limpas e higiénicas de 50 kg ou de 75 kg, seladas e etiquetadas de modo a identificar-se o fabricante, o cereal ou a mistura de cereais que as compõem e a data do fabrico.
+Art. 18.º Todas as farinhas destinadas à panificação e para serem aplicadas no consumo público, seja qual for o seu tipo ou qualidade, têm de estar contidas em sacas limpas e higiénicas de 50 kg ou de 75 kg, seladas e etiquetadas de modo a identificar-se o fabricante, o cereal ou a mistura de cereais que as compõem e a data do fabrico.
 
 § 1.º Para as sacas que contenham farinhas de ramas de cereais e de espoadas de milho ou de centeio as etiquetas serão de modelo uniforme, fornecidas pela Comissão Reguladora das Moagens de Ramas, mediante requisição dos fabricantes inscritos para a laboração de farinhas destinadas à panificação e para serem aplicadas ao consumo público.
 
@@ -660,13 +767,13 @@ Consumo corrente - 0,75.
 
 § 3.º As sacas com farinhas que não satisfaçam as condições previstas neste artigo serão apreendidas e entregues às instituições de assistência, sem prejuízo de outras penalidades aplicáveis.
 
-###### Art. 19.º As entidades que exercem a indústria de fabrico de farinhas alimentares de cereais, legumes ou outras e as que importam produtos similares, além de serem obrigadas a inscrever-se no Instituto Nacional do Pão, ficam subordinadas à acção fiscalizadora e coordenadora do mesmo organismo, que lhes poderá aplicar as penas disciplinares previstas pelo artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, alterado pelos Decretos-Leis n.os 43860 e 45279, de 16 de Agosto de 1961 e de 30 de Setembro de 1963, respectivamente.
+Art. 19.º As entidades que exercem a indústria de fabrico de farinhas alimentares de cereais, legumes ou outras e as que importam produtos similares, além de serem obrigadas a inscrever-se no Instituto Nacional do Pão, ficam subordinadas à acção fiscalizadora e coordenadora do mesmo organismo, que lhes poderá aplicar as penas disciplinares previstas pelo artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, alterado pelos Decretos-Leis n.os 43860 e 45279, de 16 de Agosto de 1961 e de 30 de Setembro de 1963, respectivamente.
 
 § único. Em diploma a publicar pelo Ministério da Economia serão definidos os produtos e regulamentada a actividade das entidades referidas no corpo deste artigo, bem como fixada a taxa prevista pelo artigo 17.º do citado [Decreto-Lei n.º 33782](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33782-1944-550644).
 
-###### Art. 20.º O preço e condições de venda de sêmeas poderão ser estabelecidos por despacho do Secretário de Estado do Comércio.
+Art. 20.º O preço e condições de venda de sêmeas poderão ser estabelecidos por despacho do Secretário de Estado do Comércio.
 
-###### Art. 21.º A humidade do pão não pode exceder os seguintes valores:
+Art. 21.º A humidade do pão não pode exceder os seguintes valores:
 
 Pão de 1.ª qualidade, unidades de peso até 333 g - 30 por cento;
 
@@ -674,7 +781,7 @@ Pão de 1.ª qualidade, unidades de peso superiores a 333 g - 33 por cento;
 
 Pão de 2.ª qualidade - 38 por cento.
 
-###### Art. 22.º Mantêm-se os preços máximos do pão fixados por legislação anterior, bem como os pesos, por unidade, também determinados.
+Art. 22.º Mantêm-se os preços máximos do pão fixados por legislação anterior, bem como os pesos, por unidade, também determinados.
 
 § 1.º Observar-se-ão as condições de venda previstas no Regulamento do Comércio de Pão e Produtos Afins, aprovado pelo [Decreto-Lei n.º 43557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43557-1961-560073), de 24 de Março de 1961.
 
@@ -684,22 +791,22 @@ Pão de 2.ª qualidade - 38 por cento.
 
 § 4.º A verificação referida no parágrafo anterior poderá ser feita antes de o pão ser exposto para a venda ao público.
 
-###### Art. 23.º Fica autorizada a venda, nas secções de venda dos estabelecimentos de fabrico de pão, seus depósitos ou sucursais, de farinhas alimentares, devidamente empacotadas em embalagens de origem; e ainda dos produtos fabricados com farinhas e sêmolas, tais como: massas alimentícias, bolachas, biscoitos e produtos afins do pão fabricados a partir de massas levedadas e sovadas e com uma percentagem de açúcar não superior a 18 por cento, expresso em sacarose.
+Art. 23.º Fica autorizada a venda, nas secções de venda dos estabelecimentos de fabrico de pão, seus depósitos ou sucursais, de farinhas alimentares, devidamente empacotadas em embalagens de origem; e ainda dos produtos fabricados com farinhas e sêmolas, tais como: massas alimentícias, bolachas, biscoitos e produtos afins do pão fabricados a partir de massas levedadas e sovadas e com uma percentagem de açúcar não superior a 18 por cento, expresso em sacarose.
 
 § único. Deixa de ser permitida a venda a granel de farinha de qualquer tipo ou qualidade.
 
-###### Art. 24.º Nos adubos designados no regulamento aprovado pelo [Decreto n.º 21204](https://diariodarepublica.pt/dr/detalhe/decreto/21204-1932-557873), de 4 de Maio de 1932, por adubos químicos mistos e químico-orgânicos, a soma das percentagens dos elementos fertilizadores que entram na sua composição não pode ser inferior a 15 por cento, contados em singelo.
+Art. 24.º Nos adubos designados no regulamento aprovado pelo [Decreto n.º 21204](https://diariodarepublica.pt/dr/detalhe/decreto/21204-1932-557873), de 4 de Maio de 1932, por adubos químicos mistos e químico-orgânicos, a soma das percentagens dos elementos fertilizadores que entram na sua composição não pode ser inferior a 15 por cento, contados em singelo.
 
-###### Art. 25.º O preço dos adubos agrícolas será sempre referido a 100 kg de peso bruto por líquido, excepto nas vendas em fracções de saco, em relação às quais o preço poderá referir-se a 1 kg, e as dosagens expressar-se-ão sempre em percentagem.
+Art. 25.º O preço dos adubos agrícolas será sempre referido a 100 kg de peso bruto por líquido, excepto nas vendas em fracções de saco, em relação às quais o preço poderá referir-se a 1 kg, e as dosagens expressar-se-ão sempre em percentagem.
 
-###### Art. 26.º É permitido o transporte e a venda a granel dos adubos que forem especificados em despacho do Secretário de Estado do Comércio quando se destinem a organismos da lavoura ou a produtores agrícolas, desde que as quantidades transaccionadas e transportadas sejam directamente expedidas das fábricas e correspondam a um ou mais vagões completos ou a contentores adequados.
+Art. 26.º É permitido o transporte e a venda a granel dos adubos que forem especificados em despacho do Secretário de Estado do Comércio quando se destinem a organismos da lavoura ou a produtores agrícolas, desde que as quantidades transaccionadas e transportadas sejam directamente expedidas das fábricas e correspondam a um ou mais vagões completos ou a contentores adequados.
 
-###### Art. 27.º O financiamento à campanha do trigo de 1965-1966, concedido pela Caixa Nacional de Crédito, ao abrigo do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941, será de 600$00 por hectare, dividido em duas fracções, sendo a primeira de 400$00 e a segunda de 200$00.
+Art. 27.º O financiamento à campanha do trigo de 1965-1966, concedido pela Caixa Nacional de Crédito, ao abrigo do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941, será de 600$00 por hectare, dividido em duas fracções, sendo a primeira de 400$00 e a segunda de 200$00.
 
 § 1.º O valor a mutuar por cada beneficiário, para efeito de atribuição do financiamento previsto no corpo deste artigo, não poderá exceder 60 por cento do máximo mutuado nas campanhas de 1960-1961 e 1962-1963.
 
 § 2.º O montante global a conceder a cada produtor não poderá ir além de 170000$00.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.

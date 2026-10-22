@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/11900/06410641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1974-623238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6b8d617c09328b42b9ad287a68ca24e6168bba4e28d0ed729ea1b98ca77a3aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac071ba825828761947e15d89f4d27d14b33b284aa7e1a9862f5a04a3a41a7cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Polícia Judiciária
+- PSP
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466869:por
+  label: "Alterado o nº2 do art. 1º pelo DEC LEI.686/74.02.12.1974.MAI, DG.IS [280] de 02.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/686-1974-466869
+  date: '1974-12-02'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:523191:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:20Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +111,16 @@ de 22 de Maio
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É revogada a alínea b) do artigo 6.º do [Decreto-Lei n.º 171/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1974-523191), de 25 de Abril.
+Artigo 1.º - 1. É revogada a alínea b) do artigo 6.º do [Decreto-Lei n.º 171/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1974-523191), de 25 de Abril.
 
 2. As atribuições cometidas à Polícia Judiciária por aquela alínea b) passam a pertencer ao Comando-Geral da Polícia de Segurança Pública.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 15 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado em todos os Boletins Oficiais dos Estados e províncias ultramarinos.

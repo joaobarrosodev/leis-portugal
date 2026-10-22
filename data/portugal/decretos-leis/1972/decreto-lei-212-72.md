@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1972-673825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11ce441663b45a7965387044d07e774a1f15b693902387496cd7f17268e32210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c2e7b2e34ca910742a3a160f1b318fb82f5e5bad5990e4549230030d694c741
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco Nacional Ultramarino
+- Contrato
+- Estatuto
+- Ministro do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:158611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643948:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:59Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +119,19 @@ Ouvido o Banco de Angola quanto à cláusula 12.ª;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro do Ultramar a realizar, em representação do Estado, um contrato com o Banco Nacional Ultramarino, nos termos das cláusulas anexas a este decreto-lei e que dele são parte integrante.
+Artigo 1.º É autorizado o Ministro do Ultramar a realizar, em representação do Estado, um contrato com o Banco Nacional Ultramarino, nos termos das cláusulas anexas a este decreto-lei e que dele são parte integrante.
 
-###### Art. 2.º É aprovada a alteração dos Estatutos do Banco Nacional Ultramarino, que vai assinada pelo Ministro do Ultramar e é igualmente parte integrante do presente decreto-lei.
+Art. 2.º É aprovada a alteração dos Estatutos do Banco Nacional Ultramarino, que vai assinada pelo Ministro do Ultramar e é igualmente parte integrante do presente decreto-lei.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 21 de Junho de 1972.**
+Promulgado em 21 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -297,4 +325,4 @@ Os vice-governadores coadjuvam o governador, que neles pode delegar qualquer das
 
 § único. Quando vagar o lugar de vice-governador de eleição será convocada a assembleia geral, que elegerá um accionista para preencher a vaga durante o tempo que faltar para findar o prazo por que o vice-governador cessante havia sido eleito.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1975-307264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 573594af23e8aa96cd4cbc43f3a2d05c62ef5a6abd8be555e32a3957802d5dfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09dc1a08642ce90dbd76e3814f7566c41b7b7dd9ec87a44dfb3a68ccf423df71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Indemnização
+- Licença de Loteamento
+- Licenciamento
+- Loteamento Urbano
+- Ordenamento do Território
+- Política de Solos
+- Secretário de Estado da Habitação e Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:378567:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427110:por
+  label: "Determinado que só possa ser exercida até 20.07.1976 a suspensão da validade das licenças de loteamento concedidas\
+    \ anteriormente à data do início da vigência deste diploma, e alterado por mais 180 dias o prazo previsto no art. 11º\
+    \ do mesmo pelo DEC LEI.467/76.11.06.1976.MHUC, DR.IS [136] de 11.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/467-1976-427110
+  date: '1976-06-11'
+- type: amended_by
+  target: pt:dre:378567:por
+  label: "Determinada a caducidade, em 01.10.1979, de todos os despachos exarados nos termos do art. 2.º do presente diploma,\
+    \ sem prejuízo do estabelecido nos n.ºs 1 a 3 do seu art. 5.º, pelo DEC LEI.341/79.27.08.1979.MHOP, DR.IS [197] de 27.08.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/341-1979-378567
+  date: '1979-08-27'
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:49Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +148,7 @@ Nestes termos:
 
 Usando da faculadade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Poderá ser declarada a suspensão da validade das licenças de loteamento concedidas anteriormente à data do início da vigência do presente diploma ou dentro dos noventa dias seguintes a essa mesma data, quando haja justificado receio:
+Artigo 1.º - 1. Poderá ser declarada a suspensão da validade das licenças de loteamento concedidas anteriormente à data do início da vigência do presente diploma ou dentro dos noventa dias seguintes a essa mesma data, quando haja justificado receio:
 
 a) De o loteamento, ainda que conforme com plano de urbanização aprovado, ser prejudicial para o desenvolvimento ordenado da zona, para o harmónico ordenamento do território, para o equilíbrio ecológico da região ou por abranger solos de excepcional aptidão agrícola (solos das classes de capacidade de uso A, B, A/B e subclasse CH, classificação do Serviço de Reconhecimento e Ordenamento Agrário);
 
@@ -132,9 +158,9 @@ b) De o respectivo projecto apresentar graves deficiências de estrutura ou de n
 
 3. A suspensão das licenças de loteamento não abrange os lotes nos quais já tenha sido iniciada a construção de edifícios, devidamente licenciada.
 
-###### Art. 2.º A suspensão da validade das licenças de loteamento será declarada por despacho do Secretário de Estado da Habitação e Urbanismo, oficiosamente ou mediante proposta dos órgãos de administração municipal competentes para a sua concessão ou de qualquer entidade que tenha sido ouvida no processo ou à qual esteja confiada a prossecução dos interesses que fundamentem a proposta de suspensão.
+Art. 2.º A suspensão da validade das licenças de loteamento será declarada por despacho do Secretário de Estado da Habitação e Urbanismo, oficiosamente ou mediante proposta dos órgãos de administração municipal competentes para a sua concessão ou de qualquer entidade que tenha sido ouvida no processo ou à qual esteja confiada a prossecução dos interesses que fundamentem a proposta de suspensão.
 
-###### Art. 3.º - 1. Por despacho do Secretário de Estado da Habitação e Urbanismo, poderá ser suspenso o recebimento de pedidos de licença de loteamento, para áreas em relação às quais, ainda que abrangidas por planos de urbanização, haja justificado receio de a concessão de novas licenças poder causar prejuízos para o desenvolvimento ordenado da zona ou para o harmónico ordenamento do território.
+Art. 3.º - 1. Por despacho do Secretário de Estado da Habitação e Urbanismo, poderá ser suspenso o recebimento de pedidos de licença de loteamento, para áreas em relação às quais, ainda que abrangidas por planos de urbanização, haja justificado receio de a concessão de novas licenças poder causar prejuízos para o desenvolvimento ordenado da zona ou para o harmónico ordenamento do território.
 
 2. As suspensões declaradas ao abrigo do número anterior têm também como efeitos, para as áreas a que se apliquem:
 
@@ -144,11 +170,11 @@ b) A suspensão dos processos de pedido dessas informações ou de concessão de
 
 3. As suspensões previstas neste artigo podem ser declaradas oficiosamente ou mediante proposta dos órgãos de administração municipal competentes para o licenciamento ou de qualquer entidade à qual esteja confiada a prossecução dos interesses que fundamentem a proposta.
 
-###### Art. 4.º - 1. As suspensões declaradas ao abrigo dos artigos 1.º e 3.º cessarão nas datas que forem sendo fixadas por despacho do Secretário de Estado da Habitação e Urbanismo, à medida que forem sendo definidos os critérios necessários para as decisões a tomar sobre os loteamentos, com vista à defesa dos interesses públicos que justificaram a suspensão.
+Art. 4.º - 1. As suspensões declaradas ao abrigo dos artigos 1.º e 3.º cessarão nas datas que forem sendo fixadas por despacho do Secretário de Estado da Habitação e Urbanismo, à medida que forem sendo definidos os critérios necessários para as decisões a tomar sobre os loteamentos, com vista à defesa dos interesses públicos que justificaram a suspensão.
 
 2. As suspensões poderão cessar por deliberação do órgão de administração municipal competente para a concessão das licenças, quando assim se estabeleça no despacho que tenha declarado a suspensão.
 
-###### Art. 5.º - 1. O termo da suspensão da validade das licenças de loteamento não implica a renovação automática das mesmas, conferindo apenas aos respectivos titulares a faculdade de pedirem a revisão das licenças concedidas; poderá proceder-se oficiosamente, porém, à revisão das licenças de loteamentos que sejam considerados de interesse público.
+Art. 5.º - 1. O termo da suspensão da validade das licenças de loteamento não implica a renovação automática das mesmas, conferindo apenas aos respectivos titulares a faculdade de pedirem a revisão das licenças concedidas; poderá proceder-se oficiosamente, porém, à revisão das licenças de loteamentos que sejam considerados de interesse público.
 
 2. Na revisão das licenças poderá ser decidida a sua confirmação, com ou sem alterações, ou o respectivo cancelamento.
 
@@ -158,7 +184,7 @@ b) A suspensão dos processos de pedido dessas informações ou de concessão de
 
 5. Serão regulamentados por despacho do Secretário de Estado da Habitação e Urbanismo as regras e prazos a observar nos processos de revisão das licenças.
 
-###### Art. 6.º - 1. O termo da suspensão a que se refere o artigo 3.º não determina a movimentação oficiosa dos processos de pedido de licença de loteamento ou de informação sobre a possibilidade de operações dessa natureza, conferindo apenas aos interessados a faculdade de requererem o respectivo prosseguimento; poderá ordenar-se oficiosamente o prosseguimento do processo, porém, quando se considere o loteamento de interesse público.
+Art. 6.º - 1. O termo da suspensão a que se refere o artigo 3.º não determina a movimentação oficiosa dos processos de pedido de licença de loteamento ou de informação sobre a possibilidade de operações dessa natureza, conferindo apenas aos interessados a faculdade de requererem o respectivo prosseguimento; poderá ordenar-se oficiosamente o prosseguimento do processo, porém, quando se considere o loteamento de interesse público.
 
 2. Considera-se haver desistência do pedido se os interessados não solicitarem o prosseguimento do processo dentro dos quarenta e cinco dias seguintes ao último acto de publicidade do termo da suspensão, salvo nos casos de prosseguimento oficioso do processo, ao abrigo da última parte do número anterior.
 
@@ -166,34 +192,34 @@ b) A suspensão dos processos de pedido dessas informações ou de concessão de
 
 4. No caso previsto no número anterior, o prazo para a formação de acto tácito será acrescido de período correspondente ao prazo a que se refere o mesmo número.
 
-###### Art. 7.º - 1. Os órgãos de administração municipal competentes para a concessão de licenças de loteamento poderão deliberar que todos ou alguns dos processos que, à data do início da vigência do presente diploma, não tenham ainda decisão final, voltem a iniciar os respectivos termos ou sejam objecto de nova apreciação por quaisquer das entidades que tenham já dado parecer, autorização ou aprovação.
+Art. 7.º - 1. Os órgãos de administração municipal competentes para a concessão de licenças de loteamento poderão deliberar que todos ou alguns dos processos que, à data do início da vigência do presente diploma, não tenham ainda decisão final, voltem a iniciar os respectivos termos ou sejam objecto de nova apreciação por quaisquer das entidades que tenham já dado parecer, autorização ou aprovação.
 
 2. As medidas previstas no número anterior poderão ser determinadas, por despacho do Secretário de Estado da Habitação e Urbanismo, para todos os processos de licenças de loteamento relativos a prédios situados em certas áreas.
 
 3. Nos casos contemplados na última parte do n.º 1, o prazo para a formação de acto tácito será acrescido dos prazos respeitantes à emissão de novos pareceres, autorizações ou aprovações.
 
-###### Art. 8.º - 1. Às suspensões declaradas ao abrigo do disposto nos artigos 1.º e 3.º e às decisões sobre o respectivo termo, bem como às previstas no n.º 2 do artigo anterior, será dada publicidade no Diário do Governo e pelos meios a que se refere o n.º 3 do artigo 19.º do [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho.
+Art. 8.º - 1. Às suspensões declaradas ao abrigo do disposto nos artigos 1.º e 3.º e às decisões sobre o respectivo termo, bem como às previstas no n.º 2 do artigo anterior, será dada publicidade no Diário do Governo e pelos meios a que se refere o n.º 3 do artigo 19.º do [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho.
 
 2. As suspensões produzem efeitos a partir da data em que primeiramente tiver lugar qualquer dos meios de publicidade mencionados no número anterior.
 
 3. O reinício dos processos de licenciamento e a solicitação de novos pareceres, autorizações ou aprovações, nos termos do n.º 1 do artigo antecedente, serão notificados aos requerentes.
 
-###### Art. 9.º A suspensão da validade das licenças de loteamento dá direito ao levantamento da caução prestada segundo o artigo 13.º do [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), sem prejuízo da prestação de nova caução, se a licença for confirmada.
+Art. 9.º A suspensão da validade das licenças de loteamento dá direito ao levantamento da caução prestada segundo o artigo 13.º do [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), sem prejuízo da prestação de nova caução, se a licença for confirmada.
 
-###### Art. 10.º A suspensão da validade das licenças de loteamento é equiparada à falta de licença no que respeita a actos posteriores à suspensão, designadamente para os efeitos do disposto na parte final do n.º 3 do artigo 24.º e nos artigos 27.º e 30.º a 32.º do [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822).
+Art. 10.º A suspensão da validade das licenças de loteamento é equiparada à falta de licença no que respeita a actos posteriores à suspensão, designadamente para os efeitos do disposto na parte final do n.º 3 do artigo 24.º e nos artigos 27.º e 30.º a 32.º do [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822).
 
-###### Art. 11.º - 1. Será definida, em decreto a publicar no prazo de cento e oitenta dias, a eventual indemnização pela prática de actos autorizados pelo presente decreto-lei em atenção aos prejuízos que se considere socialmente justo ressarcir.
+Art. 11.º - 1. Será definida, em decreto a publicar no prazo de cento e oitenta dias, a eventual indemnização pela prática de actos autorizados pelo presente decreto-lei em atenção aos prejuízos que se considere socialmente justo ressarcir.
 
 2. Até ao início da vigência do diploma previsto no número anterior, não será admitida a propositura de acções em que se peça indemnização pela prática de actos autorizados pelo presente decreto-lei ou a declaração de responsabilidade do Estado ou de outros entes públicos pelos mesmos actos.
 
-###### Art. 12.º O Secretário de Estado da Habitação e Urbanismo poderá delegar a competência que lhe é atribuída no presente diploma nos órgãos que considerar mais adequados para o seu exercício.
+Art. 12.º O Secretário de Estado da Habitação e Urbanismo poderá delegar a competência que lhe é atribuída no presente diploma nos órgãos que considerar mais adequados para o seu exercício.
 
-###### Art. 13.º Este diploma entra imediatamente em vigor.
+Art. 13.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - José Augusto Fernandes.
 
-**Promulgado em 12 de Setembro de 1975.**
+Promulgado em 12 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

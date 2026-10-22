@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/10000/07970798.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1978-295782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfc5bfc9a621c8dee075f327943a716a346c6e4f85346fd4f51620a38e5746a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 338fb34777324890c78912975185712921f90e23e2c379e865bb0063798f7578
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente
+- Educação Especial
+- Ensino Oficial
+- Ensino Primário
+- Proteção ao Deficiente
 relationships:
 - type: amended_by
   target: pt:dre:403296:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 319/91 DE 23-AGO DR.IS-A [193]\0[193]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-23'
+- type: repealed_by
+  target: pt:dre:403296:por
+  label: Revogado pelo(a) Decreto-Lei n.º 319/91 - Diário da República n.º 193/1991, Série I-A de 1991-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-1991-403296
+  date: '1991-08-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:59Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +116,14 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º São aplicáveis ao ensino primário os princípios definidos no [Decreto-Lei n.º 174/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1977-251617), de 2 de Maio, mediante as adaptações que se tornarem necessárias em face das condições específicas deste ramo de ensino.
+Artigo 1.º São aplicáveis ao ensino primário os princípios definidos no [Decreto-Lei n.º 174/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1977-251617), de 2 de Maio, mediante as adaptações que se tornarem necessárias em face das condições específicas deste ramo de ensino.
 
-###### Art. 2.º O Ministro da Educação e Cultura determinará, por portaria, as adaptações previstas no artigo precedente.
+Art. 2.º O Ministro da Educação e Cultura determinará, por portaria, as adaptações previstas no artigo precedente.
 
 Visto e aprovado em Conselho de Ministros. - Mário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 14 de Abril de 1978.**
+Promulgado em 14 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/12500/15311535.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e0eaa559fc935b226f82c22d3806ef95e697aefc2c594698a5e80b9ae06047e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87d5cebaa3581e65967b9bab0fc182191657f61cfd4db8c5ae8a83703b07f0d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Cooperativo
+- Cooperativa de Habitação
+- Habitação Social
 relationships:
 - type: amended_by
   target: pt:dre:634925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324343:por
+  label: "Aditado o artigo 28.º pelo DEC LEI.129/85.26.04.1985.MJ, DR.IS [96] de 26.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1985-324343
+  date: '1985-04-26'
+- type: cites
+  target: pt:dre:468051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541874:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395340:por
+  label: Rectificado o n.º 1 dos artigos 11.º e 17.º pela DECL.DD11800.28.06.1982.PCM, DR.IS [146] de 28.06.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395340
+  date: '1982-06-28'
+- type: repealed_by
+  target: pt:dre:634925:por
+  label: "Revogado pelo DEC LEI.502/99.1999.11.19.MTS,DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/502-1999-634925
+  date: '1999-11-19'
 article_structure:
   article_count: 27
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:24Z'
   warnings: []
   errors: []
 ---
@@ -304,8 +334,8 @@ Sem prejuízo do disposto no artigo 30.º do Código Cooperativo, a concessão p
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Maio de 1982.**
+Promulgado em 21 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

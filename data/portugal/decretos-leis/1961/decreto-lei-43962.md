@@ -49,40 +49,197 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b40ea53bd1beceb7bcda51516886251b54244c368b33e862b01c8d949605f54b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3521b047c2e62b4faae673c4c65674cebdeede93f323d0a83d2039476c54c744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Análise Económica
+- Comissão
+- Direitos de Importação
+- Empresa Privada
+- Importação
+- Ministro da Economia
+- Ministro da Marinha
+- Ministro das Comunicações
+- Ministro das Finanças
+- Multa
+- Política Económica
+- Transporte
+- Transporte de Carga
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
 relationships:
 - type: amended_by
   target: pt:dre:401322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689033:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:35Z'
   warnings: []
   errors: []
 ---
@@ -227,11 +384,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I) Isenções de direitos
 
-###### Artigo 1.º Com ressalva das isenções estabelecidas nos n.os 1 a 20 do artigo 72.º das instruções preliminares da pauta dos direitos de importação, aprovada pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, tendo em atenção a redacção que lhe foi dada pelo artigo 2.º do [Decreto-Lei n.º 43477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43477-1961-557061), de 20 de Janeiro de 1961, das constantes do artigo 2.º do presente diploma e regime preferencial adoptado para as mercadorias ultramarinas, caducam no dia 31 de Maio de 1962 todas as isenções ou reduções de direitos de importação até agora concedidas no território do continente e ilhas adjacentes, que tenham nessa data duração superior a quatro anos, caducando todas as restantes ao atingirem este período de vigência.
+Artigo 1.º Com ressalva das isenções estabelecidas nos n.os 1 a 20 do artigo 72.º das instruções preliminares da pauta dos direitos de importação, aprovada pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, tendo em atenção a redacção que lhe foi dada pelo artigo 2.º do [Decreto-Lei n.º 43477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43477-1961-557061), de 20 de Janeiro de 1961, das constantes do artigo 2.º do presente diploma e regime preferencial adoptado para as mercadorias ultramarinas, caducam no dia 31 de Maio de 1962 todas as isenções ou reduções de direitos de importação até agora concedidas no território do continente e ilhas adjacentes, que tenham nessa data duração superior a quatro anos, caducando todas as restantes ao atingirem este período de vigência.
 
 § único. Os actuais beneficiários que por motivo de contrato com o Estado, se julguem com direito a conservar aquela regalia, bem como os que a considerem imprescindível por motivos de natureza económica, deverão apresentar a sua pretensão devidamente documentada até 30 de Novembro do ano corrente à comissão a que se refere o artigo 3.º do presente diploma.
 
-###### Art. 2.º Não são abrangidas pelo disposto no artigo antecedente as mercadorias importadas ao abrigo de acordos ou convenções internacionais em vigor no nosso país e, bem assim, as que a seguir se mencionam, de harmonia com os diplomas adiante indicados:
+Art. 2.º Não são abrangidas pelo disposto no artigo antecedente as mercadorias importadas ao abrigo de acordos ou convenções internacionais em vigor no nosso país e, bem assim, as que a seguir se mencionam, de harmonia com os diplomas adiante indicados:
 
 1) As obras de arte, de pintura e escultura executadas e assinadas por artistas portugueses residentes no estrangeiro, acompanhadas de certificado do respectivo cônsul, nos termos da Lei de 14 de Setembro de 1897;
 
@@ -271,7 +428,7 @@ I) Isenções de direitos
 
 19) Os veículos automóveis pertencentes a passageiros ou importados temporàriamente e os que já tenham pago direitos de importação em qualquer dos territórios portugueses do ultramar, nos termos dos Decretos-Leis n.os 38164 e 41673, respectivamente de 7 de Fevereiro de 1951 e 11 de Junho de 1958.
 
-###### Art. 3.º Uma comissão constituída por um professor do ensino superior de comprovada competência nestas matérias, que presidirá, e um representante de cada um dos Ministérios das Finanças e da Economia ficará encarregada de estudar as pretensões que se ofereçam nos termos do § único do artigo 1.º, apreciando-as à luz da conjuntura económica presente, da economia deste decreto e das obrigações contratuais do Estado.
+Art. 3.º Uma comissão constituída por um professor do ensino superior de comprovada competência nestas matérias, que presidirá, e um representante de cada um dos Ministérios das Finanças e da Economia ficará encarregada de estudar as pretensões que se ofereçam nos termos do § único do artigo 1.º, apreciando-as à luz da conjuntura económica presente, da economia deste decreto e das obrigações contratuais do Estado.
 
 § 1.º A comissão incluirá um representante do Ministério das Comunicações sempre que se trate de apreciar casos do âmbito deste Ministério.
 
@@ -281,7 +438,7 @@ I) Isenções de direitos
 
 § 4.º O Ministério das Finanças fará publicar no Diário do Governo, até 30 de Maio de 1962, mediante diploma legal, a lista das entidades a quem for mantido, com carácter permanente, o regime de isenção de direitos, com indicação das condições particulares de cada caso, quando as haja.
 
-###### Art. 4.º As isenções de direitos de importação a favor de entidades públicas ou privadas obedecerão a um dos três tipos seguintes:
+Art. 4.º As isenções de direitos de importação a favor de entidades públicas ou privadas obedecerão a um dos três tipos seguintes:
 
 a) Quando respeite a entidade que esteja incluída na lista a que se refere o § 4.º do artigo anterior ou venha a ser expressamente designada em lei ou decreto-lei, respeitar-se-ão as condições particulares fixadas em cada caso;
 
@@ -291,7 +448,7 @@ c) Quando respeite a entidade não incluída em qualquer das alíneas anteriores
 
 § único. No o caso previsto na primeira parte da alínea b), a isenção aplica-se aos materiais que venham a ser submetidos a despacho dentro do seu período de validade.
 
-###### Art. 5.º As isenções de direitos existentes ou a conceder no futuro não serão aplicáveis a material que possa ser produzido no País em boas condições de qualidade, entendendo-se que esse material, quando importado, fica sujeito às imposições da pauta em vigor, salvo se houver no diploma que venha a conceder isenção menção expressa em contrário.
+Art. 5.º As isenções de direitos existentes ou a conceder no futuro não serão aplicáveis a material que possa ser produzido no País em boas condições de qualidade, entendendo-se que esse material, quando importado, fica sujeito às imposições da pauta em vigor, salvo se houver no diploma que venha a conceder isenção menção expressa em contrário.
 
 § 1.º Se não houver razão fundamentada para que o preço do produto nacional exceda o preço médio C. I. F. dos artigos similares estrangeiros, poderá o comprador recorrer para a Inspecção-Geral dos Produtos Agrícolas e Industriais, que ouvirá sobre o assunto o ou os organismos do Estado cuja especialização o aconselhe e fixará o preço justo, tanto quanto possível próximo daquele preço médio. Desta fixação caberá recurso para o Secretário de Estado da Indústria.
 
@@ -305,7 +462,7 @@ c) Quando respeite a entidade não incluída em qualquer das alíneas anteriores
 
 § 6.º Por excepção ao disposto no corpo do artigo, poderá ser autorizada, por despacho do Ministro das Finanças, ouvido o Ministério da Economia, a entidades gozando de isenção, a importação sem direitos de material que possa ser produzido no País, quando se trate de aquisição urgente por causas independentes de culpa ou atraso do comprador.
 
-###### Art. 6.º As partidas de material gozando de isenção de direitos que venham a apresentar-se a despacho aduaneiro serão desembaraçadas mediante caução ou garantia bancária no valor dos direitos a qual será liberta se a isenção for mantida de acordo com o que estabelecem os §§ 2.º e 3.º do presente artigo.
+Art. 6.º As partidas de material gozando de isenção de direitos que venham a apresentar-se a despacho aduaneiro serão desembaraçadas mediante caução ou garantia bancária no valor dos direitos a qual será liberta se a isenção for mantida de acordo com o que estabelecem os §§ 2.º e 3.º do presente artigo.
 
 § 1.º Antes do desembaraço aduaneiro, a Direcção-Geral das Alfândegas enviará à Inspecção-Geral dos Produtos Agrícolas e Industriais uma relação em duplicado das mercadorias que vão ser despachadas, a fim de facilitar a fiscalização de que se trata de material não produzido pela indústria nacional em boas condições de qualidade.
 
@@ -317,11 +474,11 @@ c) Quando respeite a entidade não incluída em qualquer das alíneas anteriores
 
 II) Transportes
 
-###### Art. 7.º Os serviços do Estado e dos corpos ou corporações administrativas, bem como os organismos de coordenação económica e corporativos, ficam obrigados, quando não utilizem a via fluvial ou marítima, a preferir o caminho de ferro nos transportes de mercadorias em remessas de peso superior a 1000 kg entre pontos do continente, salvo quando este meio não possa utilizar-se racionalmente ou implique uma diferença de encargo superior a 10 por cento, consideradas as tarifas legalmente fixadas ou os custos de transporte resultantes da execução de contratos celebrados em conformidade com a regulamentação em vigor.
+Art. 7.º Os serviços do Estado e dos corpos ou corporações administrativas, bem como os organismos de coordenação económica e corporativos, ficam obrigados, quando não utilizem a via fluvial ou marítima, a preferir o caminho de ferro nos transportes de mercadorias em remessas de peso superior a 1000 kg entre pontos do continente, salvo quando este meio não possa utilizar-se racionalmente ou implique uma diferença de encargo superior a 10 por cento, consideradas as tarifas legalmente fixadas ou os custos de transporte resultantes da execução de contratos celebrados em conformidade com a regulamentação em vigor.
 
 § único. A mesma regra se aplicará para a via aérea quanto aos aviões de empresas concessionárias nacionais, abrangendo o transporte de mercadorias sem limite de peso e o de pessoas que se desloquem entre territórios nacionais em serviço das referidas entidades, ou cujo transporte, a qualquer título, seja por elas pago, exceptuados os casos em que a baixa frequência dos serviços assegurados por essas empresas origine demoras ou encargos inaceitáveis.
 
-###### Art. 8.º O Conselho Económico ou a entidade que for competente em cada caso poderá condicionar à aceitação de regras quanto ao transporte de mercadorias a concessão a empresas privadas de quaisquer dos benefícios seguintes:
+Art. 8.º O Conselho Económico ou a entidade que for competente em cada caso poderá condicionar à aceitação de regras quanto ao transporte de mercadorias a concessão a empresas privadas de quaisquer dos benefícios seguintes:
 
 a) Facilidades nos termos da base V da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, das bases IV e XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, ou dos artigos 12.º a 16.º da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954;
 
@@ -335,9 +492,9 @@ e) A tomada de capital ou concessão de créditos pelo Banco de Fomento;
 
 f) A inclusão no Plano de Fomento.
 
-###### Art. 9.º O despacho dos processos de condicionamento industrial passará a conter, sempre que seja julgado oportuno, as regras adequadas ao transporte entre pontos do continente das mercadorias recebidas ou expedidas pela unidade industrial em causa, fixando, eventualmente, a localização dessa unidade junto de uma via férrea à qual tenha acesso directo por meio de ramal, salvo se alguns condicionamentos o impedirem ou se os transportes se fizerem directamente por via fluvial ou marítima.
+Art. 9.º O despacho dos processos de condicionamento industrial passará a conter, sempre que seja julgado oportuno, as regras adequadas ao transporte entre pontos do continente das mercadorias recebidas ou expedidas pela unidade industrial em causa, fixando, eventualmente, a localização dessa unidade junto de uma via férrea à qual tenha acesso directo por meio de ramal, salvo se alguns condicionamentos o impedirem ou se os transportes se fizerem directamente por via fluvial ou marítima.
 
-###### Art. 10.º A fim de metodizar a aplicação dos artigos 7.º, 8.º e 9.º e estabelecer um princípio de coordenação nos transportes industriais, é criada no Ministério das Comunicações a Comissão de Coordenação dos Transportes Industriais, constituída por representantes do Ministério das Comunicações e da Secretaria de Estado da Indústria, incumbida de preparar programas de coordenação de transportes a aplicar às indústrias sujeitas a condicionamento e às que movimentem grandes quantidades de mercadorias.
+Art. 10.º A fim de metodizar a aplicação dos artigos 7.º, 8.º e 9.º e estabelecer um princípio de coordenação nos transportes industriais, é criada no Ministério das Comunicações a Comissão de Coordenação dos Transportes Industriais, constituída por representantes do Ministério das Comunicações e da Secretaria de Estado da Indústria, incumbida de preparar programas de coordenação de transportes a aplicar às indústrias sujeitas a condicionamento e às que movimentem grandes quantidades de mercadorias.
 
 § 1.º Estes programas serão elaborados progressivamente por indústrias e, dentro de cada uma delas, por unidades fabris, prevendo-se a conversão gradual dos meios de transporte em uso até à sua adaptação ao programa aprovado.
 
@@ -349,7 +506,7 @@ f) A inclusão no Plano de Fomento.
 
 § 5.º Quando se trate de transportes que envolvam a via marítima, deverá ser agregado à Comissão um representante do Ministério da Marinha; em tais casos, a aprovação dos programas será também da competência do Ministro da Marinha.
 
-###### Art. 11.º Sempre que as entidades abrangidas pelos quatro artigos anteriores tenham dúvidas quanto à realização dos seus transportes ou encontrem dificuldades na negociação das suas condições, quando eles não tenham sido objecto de um programa aprovado nos termos do artigo anterior, deverão apresentá-las, devidamente documentadas, na Direcção-Geral de Transportes Terrestres, na Direcção-Geral da Aeronáutica Civil ou na Junta Nacional da Marinha Mercante, conforme os casos; estes organismos proporão, se for caso disso, uma base de acordo dos interessados, levando-os, quando oportuno, à elaboração de contratos a longo prazo.
+Art. 11.º Sempre que as entidades abrangidas pelos quatro artigos anteriores tenham dúvidas quanto à realização dos seus transportes ou encontrem dificuldades na negociação das suas condições, quando eles não tenham sido objecto de um programa aprovado nos termos do artigo anterior, deverão apresentá-las, devidamente documentadas, na Direcção-Geral de Transportes Terrestres, na Direcção-Geral da Aeronáutica Civil ou na Junta Nacional da Marinha Mercante, conforme os casos; estes organismos proporão, se for caso disso, uma base de acordo dos interessados, levando-os, quando oportuno, à elaboração de contratos a longo prazo.
 
 § 1.º As decisões ou propostas destes organismos serão comunicadas dentro de 30 dias, a contar da entrada dos pedidos de intervenção, havendo recurso para os Ministros da Marinha ou das Comunicações, conforme os casos, ouvido o Secretário de Estado da Indústria.
 
@@ -357,12 +514,12 @@ f) A inclusão no Plano de Fomento.
 
 III) Disposições gerais
 
-###### Art. 12.º Os directores dos serviços do Estado, dos corpos administrativos, dos organismos de coordenação económica ou corporativos ou os funcionários a quem a falta for imputável, bem como os delegados do Governo ou administradores por parte do Estado nas empresas em que existam, responderão por negligência nos termos do Estatuto Disciplinar dos Funcionários Civis se não cumprirem ou consentirem que não se cumpra o disposto neste decreto, independentemente das sanções aplicadas às empresas.
+Art. 12.º Os directores dos serviços do Estado, dos corpos administrativos, dos organismos de coordenação económica ou corporativos ou os funcionários a quem a falta for imputável, bem como os delegados do Governo ou administradores por parte do Estado nas empresas em que existam, responderão por negligência nos termos do Estatuto Disciplinar dos Funcionários Civis se não cumprirem ou consentirem que não se cumpra o disposto neste decreto, independentemente das sanções aplicadas às empresas.
 
-###### Art. 13.º As empresas privadas que violarem a cláusula sobre transportes estabelecida nos termos do artigo 8.º ou os programas aprovados nos termos do artigo 10.º pagarão uma multa igual a dez vezes o valor dos transportes ilicitamente feitos e poderão, se houver reincidência e se for caso disso, ser privadas dos benefícios que lhes tenham sido concedidos em contrapartida.
+Art. 13.º As empresas privadas que violarem a cláusula sobre transportes estabelecida nos termos do artigo 8.º ou os programas aprovados nos termos do artigo 10.º pagarão uma multa igual a dez vezes o valor dos transportes ilicitamente feitos e poderão, se houver reincidência e se for caso disso, ser privadas dos benefícios que lhes tenham sido concedidos em contrapartida.
 
 § único. As multas serão aplicadas pela Inspecção-Geral dos Produtos Agrícolas e Industriais, com recurso para o Secretário de Estado da Indústria, podendo os autos de infracção ser levantados por aquele organismo ou pelos serviços dos Ministérios da Marinha, da Economia ou das Comunicações de que dependam as empresas interessadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

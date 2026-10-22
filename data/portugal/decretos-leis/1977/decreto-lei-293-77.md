@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/16600/17931797.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1977-250830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92cd374c94d1e28b10e756dc2f79b3e7c8ae53eca05e762e1fb668ebb83f178b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac6f075e119dd456e055ed561527e1aa3c242f1490612959b2f334d451091592
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção de Despejo
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:119397715:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567884:por
+  label: "Alterado o art. 1111.º do Código Civil aprovado pelo Dec Lei 47344, de 25-Nov 1966, na redacção do presente diploma,\
+    \ pelo DEC LEI.328/81.04.12.1981.MHOPT, DR.IS [279] de 04.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1981-567884
+  date: '1981-12-04'
+- type: amended_by
+  target: pt:dre:177451:por
+  label: "Alterado o 1111º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na redacção do presente diploma,\
+    \ pela LEI.46/85.20.09.1985.AR, DR.IS [217] de 20.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-1985-177451
+  date: '1985-09-20'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterado, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), o art. 1770º do Código Civil aprovado pelo Dec Lei 47344 de 25-Nov de 1966, com a redacção constante do presente\
+    \ diploma, pela LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: amended_by
+  target: pt:dre:259267:por
+  label: "Alterado, a partir de 02.09.2013, o art. 1770.º, na redação do presente diploma, pela LEI.23/2013.05.03.2013.AR,\
+    \ DR.IS [45] de 05.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2013-259267
+  date: '2013-03-05'
+- type: amended_by
+  target: pt:dre:119397715:por
+  label: Alterado, a partir de 13.02.2019, e nos termos do disposto nos n.ºs. 1 e 2 do art. 14.º, o art. 1041.ºdo Código Civil,
+    aprovado pelo Dec Lei 47344 de 25-nov 1966, na redação do presente diploma, pelo(a) Lei n.º 13/2019 - Diário da República
+    n.º 30/2019, Série I de 2019-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2019-119397715
+  date: '2019-02-12'
+- type: cites
+  target: pt:dre:161524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450263:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:255991:por
+  label: Rectificado pela DECL.DD7868.25.08.1977.PCM, DR.IS [196] de 25.08.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-255991
+  date: '1977-08-25'
+- type: repealed_by
+  target: pt:dre:667147:por
+  label: "Revogado pelo DEC LEI.321-B/90.1990.10.15.MOPTC, DR.IS [238]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-b-1990-667147
+  date: '1990-10-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:29Z'
   warnings: []
   errors: []
 ---
@@ -124,15 +189,15 @@ Usando da autorização conferida pela [Lei n.º 16/77](https://diariodarepublic
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. Na decisão proferida em acção de despejo de prédio urbano arrendado para habitação em que a causa de pedir seja qualquer dos motivos de resolução ou de denúncia do contrato previstos, respectivamente, nas alíneas a), d) a g) e j) do artigo 1093.º e no n.º 1 do artigo 1096.º do Código Civil, pode o juiz fixar prazo, não excedente a um ano, a contar do trânsi o em julgado da mesma decisão, para a desocupação do prédio.
+Artigo 1.º - 1. Na decisão proferida em acção de despejo de prédio urbano arrendado para habitação em que a causa de pedir seja qualquer dos motivos de resolução ou de denúncia do contrato previstos, respectivamente, nas alíneas a), d) a g) e j) do artigo 1093.º e no n.º 1 do artigo 1096.º do Código Civil, pode o juiz fixar prazo, não excedente a um ano, a contar do trânsi o em julgado da mesma decisão, para a desocupação do prédio.
 
 2. O limite máximo do prazo previsto no número anterior é reduzido a seis meses relativamente aos despejos decretados com base no n.º 1 do artigo 1096.º do Código Civil, salvo se o locatário renunciar expressamente à indemnização devida pela desocupação do prédio.
 
 3. O prazo referido no número anterior acrescerá ao previsto na segunda parte do artigo 1097.º do Código Civil.
 
-###### Art. 2.º Como medida de protecção do réu poderá, também, ser declarada a caducidade do direito à resolução do contrato de arrendamento, nos termos prescritos na secção IV.
+Art. 2.º Como medida de protecção do réu poderá, também, ser declarada a caducidade do direito à resolução do contrato de arrendamento, nos termos prescritos na secção IV.
 
-###### Art. 3.º - 1.º No juízo sobre o diferimento da desocupação, o juiz tomará em conta:
+Art. 3.º - 1.º No juízo sobre o diferimento da desocupação, o juiz tomará em conta:
 
 a) A carência de meios por parte do réu;
 
@@ -148,13 +213,13 @@ b) O número de pessoas que habitam no prédio, a sua idade, o seu estado de sa�
 
 c) O que constar do ficheiro referido no n.º 3 do artigo 16.º
 
-###### Art. 4. - 1. O diferendo da desocupação pode ser requerido pelo réu, pelo detentor que exiba algum dos títulos referidos no n.º 2 do artigo 986.º do Código de Processo Civil ou pelo Ministério Público.
+Art. 4. - 1. O diferendo da desocupação pode ser requerido pelo réu, pelo detentor que exiba algum dos títulos referidos no n.º 2 do artigo 986.º do Código de Processo Civil ou pelo Ministério Público.
 
 2. O diferendo da desocupação pode, também, ser ordenado pelo juiz em caso de inércia do réu ou do detentor referido no número anterior, quando disponha de elementos para fundamentar com segurança tal decisão.
 
 3. São impeditivos do diferimento da desocupação a alegação de falsos fundamentos, o recurso a artifícios fraudulentos tendentes à injustificada obtenção daquele resultado e, em geral, qualquer facto susceptível de fazer incorrer o requerente na qualificação de litigante de má fé, sem prejuízo da inerente responsabilidade nos termos da lei geral.
 
-###### Art. 5.º - 1. O réu e o detentor referido no n.º 1 do artigo 4.º podem requerer o diferimento da desocupação até ao momento da designação de dia para a audiência de discussão.
+Art. 5.º - 1. O réu e o detentor referido no n.º 1 do artigo 4.º podem requerer o diferimento da desocupação até ao momento da designação de dia para a audiência de discussão.
 
 2. Se nada tiver requerido, o juiz, quando disponha de elementos que indiciem a ocorrência de qualquer dos factos ou situações referidos no artigo 3.º, ordenará, até ao encerramento da discussão, a notificação do réu para, no prazo de oito dias, requerer, querendo, o diferimento da desocupação por prazo razoável, até aos limites fixados no artigo 1.º
 
@@ -164,7 +229,7 @@ c) O que constar do ficheiro referido no n.º 3 do artigo 16.º
 
 5. As notificações previstas nos números anteriores efectuar-se-ão nos termos do disposto no artigo 967.º do Código de Processo Civil, sendo igualmente notificado o advogado do réu.
 
-###### Art. 6.º - 1. O réu, os terceiros e o Ministério Público indicarão os fundamentos do pedido, e o autor, os da oposição, e oferecerão logo as provas do que dispuserem.
+Art. 6.º - 1. O réu, os terceiros e o Ministério Público indicarão os fundamentos do pedido, e o autor, os da oposição, e oferecerão logo as provas do que dispuserem.
 
 2. O juiz pode, em seu prudente arbítrio, admitir ou recusar a produção de prova pericial, e não podem ser oferecidas mais de três testemunhas por cada parte, podendo o juiz dispensar-se de ouvi-las quando disponha de outros elementos de convicção que considere suficientes.
 
@@ -172,39 +237,39 @@ c) O que constar do ficheiro referido no n.º 3 do artigo 16.º
 
 4. As partes ficam obrigadas a apresentar as testemunhas que tenham oferecido.
 
-###### Art. 7.º - 1. O juiz deverá sempre recolher todos os elementos ou informações de que carecer junto das entidades públicas ou particulares, nomeadamente os constantes do ficheiro previsto no n.º 3 do artigo 16.º
+Art. 7.º - 1. O juiz deverá sempre recolher todos os elementos ou informações de que carecer junto das entidades públicas ou particulares, nomeadamente os constantes do ficheiro previsto no n.º 3 do artigo 16.º
 
 2. Recolhidos os elementos ou informações considerados necessários, produzida a prova e encerrada a discussão, será proferida sentença no prazo de quinze dias.
 
-###### Art. 8.º Quando seja requerido o despejo provisório com base no disposto no artigo 974.º do Código de Processo Civil, o juiz, antes de o ordenar, mandará proceder às notificações referidas no artigo 5.º e não decretará o despejo provisório se lhe for requerido o diferimento da desocupação, o qual, porém, será apreciado na sentença.
+Art. 8.º Quando seja requerido o despejo provisório com base no disposto no artigo 974.º do Código de Processo Civil, o juiz, antes de o ordenar, mandará proceder às notificações referidas no artigo 5.º e não decretará o despejo provisório se lhe for requerido o diferimento da desocupação, o qual, porém, será apreciado na sentença.
 
-###### Art. 9.º - 1. Se até ao quinto dia imediatamente posterior ao termo do prazo do diferimento da desocupação o prédio não for voluntariamente despejado por todos os seus ocupantes, o juiz, a requerimento do autor, emitirá imediatamente mandado de despejo, que será prontamente cumprido nos termos da lei processual em vigor, e condenará o réu nas custas do incidente.
+Art. 9.º - 1. Se até ao quinto dia imediatamente posterior ao termo do prazo do diferimento da desocupação o prédio não for voluntariamente despejado por todos os seus ocupantes, o juiz, a requerimento do autor, emitirá imediatamente mandado de despejo, que será prontamente cumprido nos termos da lei processual em vigor, e condenará o réu nas custas do incidente.
 
 2. No caso de o réu pretender despejar o prédio no decurso do prazo de diferimento, deverá disso dar conhecimento ao juiz, sendo a sua declaração irretratável; outro tanto deve fazer o senhorio logo que tenha conhecimento de que o prédio foi despejado.
 
-###### Art. 10.º Da decisão que diferir a desocupação e respectivos fundamentos e da que declarar renovado o contrato, nos termos deste diploma, será oficiosamente dado imediato conhecimento ao Instituto da Família e Acção Social.
+Art. 10.º Da decisão que diferir a desocupação e respectivos fundamentos e da que declarar renovado o contrato, nos termos deste diploma, será oficiosamente dado imediato conhecimento ao Instituto da Família e Acção Social.
 
-###### Art. 11.º Às cauções referidas neste diploma são aplicáveis as disposições do artigo 623.º do Código Civil e dos n.os 1 e 2 do artigo 428.º do Código de Processo Civil.
+Art. 11.º Às cauções referidas neste diploma são aplicáveis as disposições do artigo 623.º do Código Civil e dos n.os 1 e 2 do artigo 428.º do Código de Processo Civil.
 
 #### SECÇÃO II — Diferimento da desocupação por carência de meios do réu
 
-###### Art. 12.º - 1. Quando a resolução do contrato de arrendamento para habitação tiver por fundamento o incumprimento a que se refere a alínea a) do artigo 1093.º do Código Civil e este se dever a carência de meios por parte do réu, a decisão que decretar a desocupação diferida declará-lo-á.
+Art. 12.º - 1. Quando a resolução do contrato de arrendamento para habitação tiver por fundamento o incumprimento a que se refere a alínea a) do artigo 1093.º do Código Civil e este se dever a carência de meios por parte do réu, a decisão que decretar a desocupação diferida declará-lo-á.
 
 2. A sentença proferida nos termos do número anterior tem carácter necessariamente provisório.
 
-###### Art. 13.º - 1. Se, findo o prazo de diferimento da desocupação, o réu não tiver pago integralmente as rendas em dívida, acrescidas de juros de mora, será, a requerimento do autor, proferida sentença convertendo em definitiva a decisão provisória e emitido mandado de despejo.
+Art. 13.º - 1. Se, findo o prazo de diferimento da desocupação, o réu não tiver pago integralmente as rendas em dívida, acrescidas de juros de mora, será, a requerimento do autor, proferida sentença convertendo em definitiva a decisão provisória e emitido mandado de despejo.
 
 2. Se no prazo referido no artigo anterior o réu tiver pago integralmente as rendas vencidas, acrescidas de juros de mora, será, a requerimento seu ou do Ministério Público, proferida sentença declarando renovado o contrato e extinta a instância.
 
-###### Art. 14.º - 1. Requerido o diferimento da desocupação por carência de meios, o réu adquire automaticamente o direito ao benefício de assistência judiciária na forma de dispensa do pagamento prévio de custas, que o juiz manterá ou não ao indeferir o requerimento ou ao ordenar a cessação do diferimento.
+Art. 14.º - 1. Requerido o diferimento da desocupação por carência de meios, o réu adquire automaticamente o direito ao benefício de assistência judiciária na forma de dispensa do pagamento prévio de custas, que o juiz manterá ou não ao indeferir o requerimento ou ao ordenar a cessação do diferimento.
 
 2. A nomeação de patrono oficioso depende de requerimento, nos termos da lei geral.
 
 3. Durante o diferimento da desocupação não são exigíveis quaisquer custas anteriormente contadas.
 
-###### Art. 15.º Comunicada a decisão ao Instituto da Família e Acção Social, nos termos previstos no artigo 10.º, deve este, após contacto com os serviços competentes, pronunciar-se, junto do juiz da causa, sobre a disponibilidade de casas susceptíveis de ser habitadas pelos ocupantes do prédio de que se trata se de outra não dispuserem, segundo qualquer dos títulos previstos nos esquemas de habitação social.
+Art. 15.º Comunicada a decisão ao Instituto da Família e Acção Social, nos termos previstos no artigo 10.º, deve este, após contacto com os serviços competentes, pronunciar-se, junto do juiz da causa, sobre a disponibilidade de casas susceptíveis de ser habitadas pelos ocupantes do prédio de que se trata se de outra não dispuserem, segundo qualquer dos títulos previstos nos esquemas de habitação social.
 
-###### Art. 16.º - 1. O Instituto da Família e Acção Social indemnizará o autor pelas rendas vencidas e não pagas durante o período de diferimento, acrescidas de juros de mora, ficando subrogado nos direitos daquele.
+Art. 16.º - 1. O Instituto da Família e Acção Social indemnizará o autor pelas rendas vencidas e não pagas durante o período de diferimento, acrescidas de juros de mora, ficando subrogado nos direitos daquele.
 
 2. A indemnização poderá ser paga, em termos a regulamentar, no termo do prazo de diferimento e de uma só vez ou à medida que as rendas se vencerem. Neste caso, o réu que pretenda beneficiar do disposto no n.º 2 do artigo 13.º deverá pagar directamente ao Instituto da Família e Acção Social, até ao termo do prazo de diferimento, as rendas pagas da sua conta pelo mesmo Instituto.
 
@@ -212,13 +277,13 @@ c) O que constar do ficheiro referido no n.º 3 do artigo 16.º
 
 #### SECÇÃO III — Diferimento da desocupação por excessiva onerosidade para o locatário
 
-###### Art. 17.º - 1. O réu pode ainda requerer o diferimento da desocupação alegando e provando que a execução imediata do despejo lhe causa prejuízo muito superior à vantagem conferida ao autor.
+Art. 17.º - 1. O réu pode ainda requerer o diferimento da desocupação alegando e provando que a execução imediata do despejo lhe causa prejuízo muito superior à vantagem conferida ao autor.
 
 2. O diferimento só será autorizado se o réu caucionar o pagamento das rendas vencidas e vincendas.
 
 #### SECÇÃO IV — Caducidade do direito à resolução judicial do arrendamento por cessação da causa
 
-###### Art. 18.º - 1. Nos casos previstos nas alíneas d) a g) do n.º 1 do artigo 1093.º do Código Civil, o réu pode pedir a declaração de caducidade do direito à resolução do arrendamento se, cumulativamente, provar que cessou a situação que deu causa ao pedido do autor e se dispuser a caucionar cláusula penal a fixar pelo juiz para obstar à repetição da mesma causa de resolução do contrato.
+Art. 18.º - 1. Nos casos previstos nas alíneas d) a g) do n.º 1 do artigo 1093.º do Código Civil, o réu pode pedir a declaração de caducidade do direito à resolução do arrendamento se, cumulativamente, provar que cessou a situação que deu causa ao pedido do autor e se dispuser a caucionar cláusula penal a fixar pelo juiz para obstar à repetição da mesma causa de resolução do contrato.
 
 2. No caso previsto na alínea d) do n.º 1 do artigo 1093.º do Código Civil, o réu pode, igualmente, pedir a declaração de caducidade ao direito de resolução do contrato se, cumulativamente:
 
@@ -228,7 +293,7 @@ b) Se prontificar a repor o prédio no estado anterior, indicando, para tal, um 
 
 c) Prestar caução de montante correspondente à importância necessária para o efeito.
 
-###### Art. 19.º - 1. A pretensão do réu deve ser formulada na contestação, indicando logo o valor da cláusula penal que julgue adequado e o modo como se propõe prestar a caução.
+Art. 19.º - 1. A pretensão do réu deve ser formulada na contestação, indicando logo o valor da cláusula penal que julgue adequado e o modo como se propõe prestar a caução.
 
 2. O autor deverá pronunciar-se na resposta à contestação sobre a pretensão do réu.
 
@@ -236,7 +301,7 @@ c) Prestar caução de montante correspondente à importância necessária para 
 
 4. Prestada a caução, o juiz proferirá sentença declarando a caducidade do direito à resolução do contrato.
 
-###### Art. 20.º - 1. Na hipótese prevista no n.º 2 do artigo 18.º, o réu indicará ainda o prazo que julga razoável para repor o prédio no estado anterior e o valor que entende adequado para a realização das obras.
+Art. 20.º - 1. Na hipótese prevista no n.º 2 do artigo 18.º, o réu indicará ainda o prazo que julga razoável para repor o prédio no estado anterior e o valor que entende adequado para a realização das obras.
 
 2. Apresentada a resposta pelo autor e produzida a prova que o juiz entender necessária, será proferida sentença provisória declarando a caducidade do direito à resolução do contrato, na qual se fixará a caução e o modo de a prestar, a indemnização, quando tiver lugar, e o prazo para o réu repor o prédio no estado anterior.
 
@@ -244,27 +309,27 @@ c) Prestar caução de montante correspondente à importância necessária para 
 
 4. Concluídas as obras no prazo designado e prestada a caução, a sentença provisória será convertida em definitiva. Se não for prestada a caução ou as obras não forem concluídas, em termos de cabal reposição no estado anterior, dentro do prazo, a decisão provisória não será confirmada e a sentença definitiva declarará a resolução do contrato, decretando o despejo.
 
-###### Art. 21.º - 1. O réu só pode aproveitar-se uma única vez dos benefícios constantes do artigo 18.º
+Art. 21.º - 1. O réu só pode aproveitar-se uma única vez dos benefícios constantes do artigo 18.º
 
 2. Mesmo que não seja declarada a resolução do contrato, o réu responderá pelas custas do processo e pelos honorários do mandatário ao autor que o juiz fixar.
 
 ### CAPÍTULO II — Extensão das medidas de protecção
 
-###### Art. 22.º - 1. O disposto nos artigos anteriores aplica-se, com as necessárias adaptações, às acções em que se peça a restituição da posse de prédio urbano ocupado, ainda que provisória, ou a sua entrega judicial.
+Art. 22.º - 1. O disposto nos artigos anteriores aplica-se, com as necessárias adaptações, às acções em que se peça a restituição da posse de prédio urbano ocupado, ainda que provisória, ou a sua entrega judicial.
 
 2. Sempre que os réus, nas acções referidas no número anterior, não possam razoavelmente desconhecer a falta de legitimidade da ocupação, o prazo referido no n.º 1 do artigo 1.º não poderá exceder seis meses.
 
-###### Art. 23.º - 1. Quando o réu, em qualquer das acções referidas no artigo anterior, alegue carência de meios, nos termos da secção II, o juiz, ouvido o autor e munido dos elementos de informação que tiver por necessários, arbitrará uma quantia a título de justo valor do uso mensal do prédio, para o efeito de ser paga directamente pelo réu, ou pelo Instituto da Família e Acção Social, com direito de acção sobre o réu para haver dele o que de sua conta tiver pago.
+Art. 23.º - 1. Quando o réu, em qualquer das acções referidas no artigo anterior, alegue carência de meios, nos termos da secção II, o juiz, ouvido o autor e munido dos elementos de informação que tiver por necessários, arbitrará uma quantia a título de justo valor do uso mensal do prédio, para o efeito de ser paga directamente pelo réu, ou pelo Instituto da Família e Acção Social, com direito de acção sobre o réu para haver dele o que de sua conta tiver pago.
 
 2. O Instituto da Família e Acção Social apenas pagará o preço do uso do prédio correspondente ao período do diferimento referido no n.º 2 do artigo 22.º, e esse pagamento não impedirá que, findo o mesmo período, a posse seja restituída ou o prédio judicialmente entregue.
 
-###### Art. 24.º O disposto neste capítulo aplica-se apenas às situações de facto já constituídas à data da entrada em vigor do presente diploma, independentemente de se encontrarem ou não já pendentes as acções nele previstas.
+Art. 24.º O disposto neste capítulo aplica-se apenas às situações de facto já constituídas à data da entrada em vigor do presente diploma, independentemente de se encontrarem ou não já pendentes as acções nele previstas.
 
-###### Art. 25.º De futuro, a restituição provisória da posse de prédio urbano destinado a habitação não poderá ser ordenada sem citação prévia do esbulhador.
+Art. 25.º De futuro, a restituição provisória da posse de prédio urbano destinado a habitação não poderá ser ordenada sem citação prévia do esbulhador.
 
 ### CAPÍTULO III — Regime orçamental
 
-###### Art. 26.º - 1. No orçamento do Ministério dos Assuntos Sociais, e a favor do Instituto da Família e Acção Social, será inscrita uma dotação global para satisfação dos encargos previstos nos artigos 16.º e 23.º deste diploma.
+Art. 26.º - 1. No orçamento do Ministério dos Assuntos Sociais, e a favor do Instituto da Família e Acção Social, será inscrita uma dotação global para satisfação dos encargos previstos nos artigos 16.º e 23.º deste diploma.
 
 2. A dotação orçamental referida no número anterior será levantada, mediante requisição de fundos e sem obediência ao regime de duodécimos, à medida das necessidades de liquidação dos respectivos encargos.
 
@@ -274,7 +339,7 @@ c) Prestar caução de montante correspondente à importância necessária para 
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 27.º Os artigos 1041.º e 1111.º do Código Civil passam a ter a seguinte redacção:
+Art. 27.º Os artigos 1041.º e 1111.º do Código Civil passam a ter a seguinte redacção:
 
 ###### ARTIGO 1041.º — (Mora do locatário)
 
@@ -294,9 +359,9 @@ c) Prestar caução de montante correspondente à importância necessária para 
 
 3. ...
 
-###### Art. 28.º O n.º 1 do artigo 1.º do [Decreto-Lei n.º 420/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1976-426879), de 28 de Maio, passa a ter a seguinte redacção:
+Art. 28.º O n.º 1 do artigo 1.º do [Decreto-Lei n.º 420/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1976-426879), de 28 de Maio, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Gozam do direito de preferência relativamente ao novo arrendamento para habitação, no caso de caducidade do anterior por morte do respectivo titular, ainda que não fosse o primitivo arrendatário, e no caso de resolução com fundamento nas alíneas a), d) a g) e j) do artigo 1093.º do Código Civil, sucessivamente:
+Artigo 1.º - 1. Gozam do direito de preferência relativamente ao novo arrendamento para habitação, no caso de caducidade do anterior por morte do respectivo titular, ainda que não fosse o primitivo arrendatário, e no caso de resolução com fundamento nas alíneas a), d) a g) e j) do artigo 1093.º do Código Civil, sucessivamente:
 
 a) ...
 
@@ -304,32 +369,32 @@ b) ...
 
 2. ...
 
-###### Art. 29.º - 1. Ao senhorio que se proponha edificar de novo, com licença de construção e projecto aprovado, em parte de terreno objecto de contrato de arrendamento, susceptível de aproveitamento autónomo, e sem prejuízo da continuidade da habitação do edifício ou edifícios abrangidos pelo mesmo contrato, é reconhecido o direito à correspondente redução do contrato, com equitativa redução da renda.
+Art. 29.º - 1. Ao senhorio que se proponha edificar de novo, com licença de construção e projecto aprovado, em parte de terreno objecto de contrato de arrendamento, susceptível de aproveitamento autónomo, e sem prejuízo da continuidade da habitação do edifício ou edifícios abrangidos pelo mesmo contrato, é reconhecido o direito à correspondente redução do contrato, com equitativa redução da renda.
 
 2. Na decisão que, na falta de acordo, ordenar a redução, o juiz delimitará a área a desocupar pelo inquilino e fixará a data limite para a desocupação, a nova renda e o prazo para o início e o acabamento da nova construção, os quais poderão ser prorrogados em face do pedido, devidamente fundamentado, do senhorio, ouvido o inquilino.
 
 3. Se o senhorio não der início à construção nem a completar dentro dos prazos a isso destinados, no primeiro caso o contrato poderá, a pedido do inquilino, e com custas a cargo do senhorio, retomar os termos anteriores à redução, havendo, no segundo caso, lugar à indemnização por perdas e danos, nos termos gerais de direito.
 
-###### Art. 30.º Nos processos a que se refere o presente diploma pendentes à data da sua entrada em vigor, em que ainda não tenha sido proferida sentença mas já tenha sido ultrapassado o momento referido no n.º 1 do artigo 5.º, o diferimento da desocupação poderá ser requerido nos termos deste diploma, em qualquer estado de causa, mesmo depois de encerrada a discussão.
+Art. 30.º Nos processos a que se refere o presente diploma pendentes à data da sua entrada em vigor, em que ainda não tenha sido proferida sentença mas já tenha sido ultrapassado o momento referido no n.º 1 do artigo 5.º, o diferimento da desocupação poderá ser requerido nos termos deste diploma, em qualquer estado de causa, mesmo depois de encerrada a discussão.
 
-###### Art. 31.º - 1. Nos processos referidos no artigo anterior em que já hajam sido ordenados o despejo, a restituição ou a entrega do prédio urbano destinado a habitação, sem que tenha ainda ocorrido a efectiva desocupação, poderá o réu, no prazo de quinze dias a contar da entrada em vigor do presente diploma, requerer a suspensão do mandado para a execução da sentença e o diferimento da desocupação, nos termos previstos neste diploma.
+Art. 31.º - 1. Nos processos referidos no artigo anterior em que já hajam sido ordenados o despejo, a restituição ou a entrega do prédio urbano destinado a habitação, sem que tenha ainda ocorrido a efectiva desocupação, poderá o réu, no prazo de quinze dias a contar da entrada em vigor do presente diploma, requerer a suspensão do mandado para a execução da sentença e o diferimento da desocupação, nos termos previstos neste diploma.
 
 2. Nos cinco dias posteriores à data da entrada do requerimento na secretaria o juiz pronunciar-se-á sobre ele e mandará recolher o mandado de despejo, se já tiver sido emitido, seguindo-se depois os termos do processo previsto neste diploma.
 
 3. Se o pedido não for atendido ou se, tendo sido atendido, houver que decretar o despejo findo o prazo de diferimento, não será emitido novo mandado, cumprindo-se aquele cuja eficácia ficou suspensa.
 
-###### Art. 32.º É aplicável aos casos previstos nos artigos 29.º e 30.º o disposto no artigo 10.º
+Art. 32.º É aplicável aos casos previstos nos artigos 29.º e 30.º o disposto no artigo 10.º
 
-###### Art. 33.º Todo aquele que, directa ou indirectamente, dificultar, por qualquer forma, a execução de mandados judiciais de despejo, entrega judicial ou restituição de posse de prédios urbanos destinados a habitação, ou incitar terceiros aos comportamentos atrás referidos, incorrerá na pena correspondente ao crime de resistência, acrescida de multa de 1000$00 a 100000$00 a favor do Estado.
+Art. 33.º Todo aquele que, directa ou indirectamente, dificultar, por qualquer forma, a execução de mandados judiciais de despejo, entrega judicial ou restituição de posse de prédios urbanos destinados a habitação, ou incitar terceiros aos comportamentos atrás referidos, incorrerá na pena correspondente ao crime de resistência, acrescida de multa de 1000$00 a 100000$00 a favor do Estado.
 
-###### Art. 34.º São revogados os Decretos-Leis n.os [155/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1975-161524), de 25 de Março, e [583/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1976-430817), de 22 de Junho, e o artigo 3.º do [Decreto-Lei n.º 366/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1976-428018), de 15 de Maio.
+Art. 34.º São revogados os Decretos-Leis n.os [155/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1975-161524), de 25 de Março, e [583/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1976-430817), de 22 de Junho, e o artigo 3.º do [Decreto-Lei n.º 366/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1976-428018), de 15 de Maio.
 
-###### Art. 35.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 35.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos.
 
-**Promulgado em 5 de Julho de 1977.**
+Promulgado em 5 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

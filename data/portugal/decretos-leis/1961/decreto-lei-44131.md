@@ -48,40 +48,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44131-1961-178851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8662782824cfe4b1423476d446484242244e2da2bc7082b48c85350447ea671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d106b491b9619dedfbfcd9b618c3d51462c5b4570a3665af9df653c71807cf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência a Familiares
+- Assistência aos Tuberculosos das Forças Armadas
+- Assistência Médica
+- Autonomia Administrativa
+- Cônjuge
+- Doença
+- Estatuto
+- Exército
+- Família
+- Força Aérea
+- Forças Armadas
+- GNR
+- Guarda Fiscal
+- Hospital Militar de Doenças Infecto-Contagiosas
+- Internamento Hospitalar
+- Marinha
+- Militar
+- Montepio dos Servidores do Estado
+- Pensão de Orfandade
+- Pensões
+- Personalidade Jurídica
+- Reforma
+- Saúde
+- Serviços Sociais
+- Tuberculose
 relationships:
 - type: amended_by
   target: pt:dre:329820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329820:por
+  label: "Altera o art. 52º do Estatuto pelo DEC LEI.284/78.11.09.1978.CR, DR.IS [209] de 11.09.1978 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1978-329820
+  date: '1978-09-11'
+- type: cites
+  target: pt:dre:185339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:251594:por
+  label: "Revogados os arts. 37º, 61º e 62º, ºdo Estatuto da Assistência aos Tuberculosos das Forças Armadas pelo DEC LEI.189/77.10.05.1977.CR,\
+    \ DR.IS [108] de 10.05.1977, excepto na parte que é integrada naquele diploma e que consta do seu art. 4º.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-1977-251594
+  date: '1977-05-10'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:23Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +150,11 @@ No prosseguimento da estruturação daqueles Serviços Sociais, reúnem-se agora
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É posto em execução em 1 de Janeiro de 1962 o Estatuto da Assistência aos Tuberculosos das Forças Armadas, que faz parte integrante do presente diploma e vai assinado pelo Ministro da Defesa Nacional.
+Artigo 1.º É posto em execução em 1 de Janeiro de 1962 o Estatuto da Assistência aos Tuberculosos das Forças Armadas, que faz parte integrante do presente diploma e vai assinado pelo Ministro da Defesa Nacional.
 
-###### Art. 2.º A partir da entrada em vigor do estatuto referido no artigo anterior ficam revogados os Decretos-Leis n.os 35191, de 24 de Novembro de 1945, e 37286, de 18 de Janeiro de 1949, bem como todas as disposições referentes à tuberculose nas forças armadas vigentes à data da publicação deste diploma.
+Art. 2.º A partir da entrada em vigor do estatuto referido no artigo anterior ficam revogados os Decretos-Leis n.os 35191, de 24 de Novembro de 1945, e 37286, de 18 de Janeiro de 1949, bem como todas as disposições referentes à tuberculose nas forças armadas vigentes à data da publicação deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Kaulza Oliveira de Arriaga.
 
@@ -110,13 +166,13 @@ Estatuto de Assistência aos Tuberculosos das Forças Armadas
 
 I) Natureza e fins
 
-###### Artigo 1.º A Assistência aos Tuberculosos do Exército e a Assistência aos Tuberculosos da Armada reúnem-se num único organismo, que passará a designar-se por Assistência aos Tuberculosos das Forças Armadas (A. T. F. A.) e funciona integrada nos Serviços Sociais das Forças Armadas.
+Artigo 1.º A Assistência aos Tuberculosos do Exército e a Assistência aos Tuberculosos da Armada reúnem-se num único organismo, que passará a designar-se por Assistência aos Tuberculosos das Forças Armadas (A. T. F. A.) e funciona integrada nos Serviços Sociais das Forças Armadas.
 
-###### Art. 2.º A Assistência aos Tuberculosos das Forças Armadas é um órgão de planeamento e de execução da assistência sanitária dos Serviços Sociais das Forças Armadas, dotado de personalidade jurídica e de autonomia administrativa, que visa especìficamente efectuar a profilaxia, o tratamento e a recuperação dos militares dos três ramos das forças armadas, bem como das pessoas de família a seu cargo, que sofram de tuberculose em qualquer grau, modalidade ou localização, nos termos estabelecidos no presente diploma.
+Art. 2.º A Assistência aos Tuberculosos das Forças Armadas é um órgão de planeamento e de execução da assistência sanitária dos Serviços Sociais das Forças Armadas, dotado de personalidade jurídica e de autonomia administrativa, que visa especìficamente efectuar a profilaxia, o tratamento e a recuperação dos militares dos três ramos das forças armadas, bem como das pessoas de família a seu cargo, que sofram de tuberculose em qualquer grau, modalidade ou localização, nos termos estabelecidos no presente diploma.
 
 II) Assistidos
 
-###### Art. 3.º Pela Assistência aos Tuberculosos das Forças Armadas são assistidos:
+Art. 3.º Pela Assistência aos Tuberculosos das Forças Armadas são assistidos:
 
 a) Os militares beneficiários dos Serviços Sociais das Forças Armadas;
 
@@ -152,7 +208,7 @@ e) As viúvas e os filhos dos militares que aufiram pensão do Montepio dos Serv
 
 III) Duração da assistência
 
-###### Art. 4.º Os benefícios prestados pela Assistência aos Tuberculosos das Forças Armadas findarão:
+Art. 4.º Os benefícios prestados pela Assistência aos Tuberculosos das Forças Armadas findarão:
 
 a) Quando o assistido, depois de considerado clìnicamente curado pela direcção da Assistência aos Tuberculosos das Forças Armadas, tiver terminado a licença para vigilância e consolidação da cura e tiver sido presente à junta daquela Assistência;
 
@@ -172,7 +228,7 @@ Finda a licença serão presentes à junta da Assistência aos Tuberculosos das 
 
 § 5.º As praças não readmitidas em relação às quais tenha cessado a assistência, nos termos da alínea b) deste artigo, terão baixa definitiva de serviço, devendo a Assistência aos Tuberculosos das Forças Armadas providenciar no sentido de passarem a ser assistidas pelo Instituto de Assistência Nacional aos Tuberculosos.
 
-###### Art. 5.º Os assistidos em relação aos quais, uma vez esgotado o prazo máximo fixado na alínea b) e § 1.º do artigo anterior, não se verifique a cura poderão excepcionalmente obter a sua prorrogação por períodos sucessivos de um ano, a conceder por despacho do Ministro da Defesa Nacional, mediante pareceres justificativos da junta e direcção da Assistência aos Tuberculosos das Forças Armadas, devendo, porém, transitar para enfermarias-abrigo ou estabelecimentos apropriados, onde lhes serão fornecidos medicamentos e custeadas as despesas de internamento.
+Art. 5.º Os assistidos em relação aos quais, uma vez esgotado o prazo máximo fixado na alínea b) e § 1.º do artigo anterior, não se verifique a cura poderão excepcionalmente obter a sua prorrogação por períodos sucessivos de um ano, a conceder por despacho do Ministro da Defesa Nacional, mediante pareceres justificativos da junta e direcção da Assistência aos Tuberculosos das Forças Armadas, devendo, porém, transitar para enfermarias-abrigo ou estabelecimentos apropriados, onde lhes serão fornecidos medicamentos e custeadas as despesas de internamento.
 
 § 1.º As enfermarias-abrigo e os estabelecimentos referidos no corpo deste artigo poderão pertencer à Assistência aos Tuberculosos das Forças Armadas ou ao Instituto de Assistência Nacional aos Tuberculosos, mediante contratos ou acordos a estabelecer.
 
@@ -180,7 +236,7 @@ Finda a licença serão presentes à junta da Assistência aos Tuberculosos das 
 
 § 3.º Exceptuam-se das disposições contidas no corpo deste artigo as praças não readmitidas, em relação às quais se deverá proceder como preceitua o § 5.º do artigo 4.º deste estatuto.
 
-###### Art. 6.º O assistido que pretenda desistir dos benefícios da Assistência aos Tuberculosos das Forças Armadas poderá requerê-lo ao Ministro da Defesa Nacional, fundamentando devidamente o seu pedido.
+Art. 6.º O assistido que pretenda desistir dos benefícios da Assistência aos Tuberculosos das Forças Armadas poderá requerê-lo ao Ministro da Defesa Nacional, fundamentando devidamente o seu pedido.
 
 § 1.º Quando se trate de assistidos que desejem ser tratados particularmente, deverão estes comparecer à junta da Assistência aos Tuberculosos das Forças Armadas, sempre que a direcção daquela Assistência o julgue conveniente para acompanhamento da evolução da doença, com os relatórios necessários dos clínicos que os tratam.
 
@@ -192,7 +248,7 @@ Estas observações deverão ser feitas num período mínimo de três meses e m�
 
 § 4.º Em qualquer dos casos previstos nos §§ 1.º e 3.º deste artigo, no final do tratamento terá de ser dado cumprimento ao que está expresso no § 2.º do artigo 4.º
 
-###### Art. 7.º Independentemente da aplicação das correspondentes penas disciplinares, poderá a assistência ser retirada ou modificada, se se comprovar que:
+Art. 7.º Independentemente da aplicação das correspondentes penas disciplinares, poderá a assistência ser retirada ou modificada, se se comprovar que:
 
 a) A prestação da assistência resultou de falsas declarações na indicação da situação económica, omitindo bens ou rendimentos;
 
@@ -204,7 +260,7 @@ d) Não foram prestadas declarações verdadeiras sobre o número de pessoas de 
 
 § único. A cessação ou a modificação da assistência é da competência do Ministro da Defesa Nacional, que julgará sobre proposta devidamente fundamentada da comissão directiva dos Serviços Sociais das Forças Armadas, sendo aplicáveis, quando for caso disso, as disposições constantes dos artigos 5.º, 8.º e 9.º deste estatuto.
 
-###### Art. 8.º Serão transferidos compulsòriamente para instituições de recuperação social, onde continuarão a tratar-se, os assistidos:
+Art. 8.º Serão transferidos compulsòriamente para instituições de recuperação social, onde continuarão a tratar-se, os assistidos:
 
 a) Que pratiquem graves infracções de natureza militar, disciplinar ou regulamentar ou não cumpram as prescrições médicas;
 
@@ -214,11 +270,11 @@ c) Cuja permanência seja prejudicial para a disciplina nos estabelecimentos de 
 
 § único. Tratando-se de relaxamento moral ou de grave indisciplina, o internamento será feito em sanatórios-prisões ou noutros estabelecimentos disciplinares.
 
-###### Art. 9.º Os militares em relação aos quais sejam aplicáveis as disposições constantes do artigo 5.º transitarão, de harmonia com as circunstâncias, para as situações de reforma ou de subsidiados nos termos do artigo 11.º, conforme o caso aplicável, se para o efeito reunirem as condições legais, ou terão baixa definitiva de serviço se aquelas condições se não verificarem.
+Art. 9.º Os militares em relação aos quais sejam aplicáveis as disposições constantes do artigo 5.º transitarão, de harmonia com as circunstâncias, para as situações de reforma ou de subsidiados nos termos do artigo 11.º, conforme o caso aplicável, se para o efeito reunirem as condições legais, ou terão baixa definitiva de serviço se aquelas condições se não verificarem.
 
 IV) Casamento de assistidos e de subsidiados
 
-###### Art. 10.º É proibido o casamento aos militares e civis beneficiários da Assistência, salvo in articulo mortis.
+Art. 10.º É proibido o casamento aos militares e civis beneficiários da Assistência, salvo in articulo mortis.
 
 § 1.º Pode, porém, a direcção da Assistência, mediante prévio inquérito aos factos invocados e parecer da junta da Assistência aos Tuberculosos das Forças Armadas, autorizar o casamento aos que pretendam legalizar situações irregulares anteriores ao ingresso na Assistência.
 
@@ -226,27 +282,27 @@ IV) Casamento de assistidos e de subsidiados
 
 V) Subsidiados
 
-###### Art. 11.º Os militares referidos nas alíneas a) e c) do artigo 3.º que, tendo baixa de serviço pela junta da Assistência aos Tuberculosos das Forças Armadas, nos termos previstos neste estatuto, não reunirem as condições legais indispensáveis para terem direito à pensão de reforma pela Caixa Geral de Aposentações, receberão da Assistência aos Tuberculosos das Forças Armadas um subsídio mensal para tratamento, correspondente à pensão mínima de reforma, durante o tempo necessário para completarem as condições que dêem direito a percebê-la por aquela Caixa.
+Art. 11.º Os militares referidos nas alíneas a) e c) do artigo 3.º que, tendo baixa de serviço pela junta da Assistência aos Tuberculosos das Forças Armadas, nos termos previstos neste estatuto, não reunirem as condições legais indispensáveis para terem direito à pensão de reforma pela Caixa Geral de Aposentações, receberão da Assistência aos Tuberculosos das Forças Armadas um subsídio mensal para tratamento, correspondente à pensão mínima de reforma, durante o tempo necessário para completarem as condições que dêem direito a percebê-la por aquela Caixa.
 
 § 1.º Os militares a quem tenha sido concedido o subsídio de tratamento nos termos deste artigo abrem vagas nos quadros respectivos, passando à situação de supranumerários desde a data em que começaram a vencer o subsídio.
 
 § 2.º Até ao fim do mês em que for concedido o subsídio mantêm-se os vencimentos que os militares estavam percebendo, pagos pelos respectivos conselhos administrativos. O subsídio só começa a ser vencido desde o primeiro dia do mês imediato àquele em que for concedido, constituindo a partir dessa data encargo da Assistência aos Tuberculosos das Forças Armadas.
 
-###### Art. 12.º Os militares a quem tenha sido concedido o subsídio de que trata o artigo anterior continuam pertencendo às suas unidades, departamentos ou estabelecimentos militares, dependendo da Assistência aos Tuberculosos das Forças Armadas sòmente para efeito do subsídio.
+Art. 12.º Os militares a quem tenha sido concedido o subsídio de que trata o artigo anterior continuam pertencendo às suas unidades, departamentos ou estabelecimentos militares, dependendo da Assistência aos Tuberculosos das Forças Armadas sòmente para efeito do subsídio.
 
 § 1.º O conselho administrativo da Assistência aos Tuberculosos das Forças Armadas providenciará para pôr à disposição dos assistidos, no período de 22 a 25 de cada mês, as importâncias dos subsídios respeitantes a esse mês, quer remetendo essas quantias aos conselhos administrativos dos departamentos, das unidades ou estabelecimentos militares a que os assistidos pertençam, quer directamente aos interessados, se houver conveniência nessa forma de pagamento, mas sempre, num e noutro caso, cobrando recibo das importâncias remetidas.
 
 § 2.º Aos militares a quem for concedido o subsídio de tratamento, conforme o disposto no artigo 11.º, continuará a ser feito o desconto para a Caixa Geral de Aposentações, correspondente aos vencimentos mensais que estavam percebendo à data da decisão da junta da Assistência aos Tuberculosos das Forças Armadas. Em consequência, a pensão de reforma a que os militares terão direito pela Caixa Geral de Aposentações, depois de completadas as necessárias condições legais, deverá ser calculada com base nos vencimentos anteriores à concessão dos subsídios de tratamento, contando-se como tempo de serviço prestado para o cálculo daquela pensão o período durante o qual estiveram recebendo subsídio de tratamento.
 
-###### Art. 13.º No caso de falecimento do subsidiado a Assistência aos Tuberculosos das Forças Armadas pagará sempre os subsídios relativos ao mês em que se verificar o óbito e ao mês imediato, como se se tratasse de outro qualquer vencimento, em obediência ao que se encontra estabelecido pelo [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960.
+Art. 13.º No caso de falecimento do subsidiado a Assistência aos Tuberculosos das Forças Armadas pagará sempre os subsídios relativos ao mês em que se verificar o óbito e ao mês imediato, como se se tratasse de outro qualquer vencimento, em obediência ao que se encontra estabelecido pelo [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960.
 
 VI) Profilaxia
 
-###### Art. 14.º A Assistência aos Tuberculosos das Forças Armadas deverá colaborar com quaisquer outros organismos oficiais ou particulares na profilaxia da tuberculose.
+Art. 14.º A Assistência aos Tuberculosos das Forças Armadas deverá colaborar com quaisquer outros organismos oficiais ou particulares na profilaxia da tuberculose.
 
 Para o efeito deverá, quando as necessidades o impuserem, sobretudo nas cidades com guarnições militares importantes, montar dispensários em que sejam dadas consultas aos beneficiários dos Serviços Sociais das Forças Armadas e suas famílias, vigiando especialmente o tratamento das crianças e a educação das mães no sentido de ser eliminado ou, tanto quanto possível, atenuado o contágio.
 
-###### Art. 15.º Quando um beneficiário dos Serviços Sociais das Forças Armadas apareça afectado de tuberculose, incumbe ao médico do departamento, unidade ou estabelecimento militar onde o beneficiário presta serviço observar todas as pessoas, de família ou não, que com ele coabitem, e, se verificar a necessidade de mandar proceder a exames complementares (radiografias, análises, etc.), requisitá-los imediatamente. Os exames feitos nestas condições constituirão encargo para a Assistência aos Tuberculosos das Forças Armadas.
+Art. 15.º Quando um beneficiário dos Serviços Sociais das Forças Armadas apareça afectado de tuberculose, incumbe ao médico do departamento, unidade ou estabelecimento militar onde o beneficiário presta serviço observar todas as pessoas, de família ou não, que com ele coabitem, e, se verificar a necessidade de mandar proceder a exames complementares (radiografias, análises, etc.), requisitá-los imediatamente. Os exames feitos nestas condições constituirão encargo para a Assistência aos Tuberculosos das Forças Armadas.
 
 § 1.º Se se comprovar a existência de tuberculose na pessoa examinada e esta for pessoa de família do militar compreendida nas designações da alínea d) do artigo 3.º, o médico remeterá os resultados daqueles exames, acompanhados do seu relatório, à Assistência aos Tuberculosos das Forças Armadas, a fim de a pessoa afectada ser assistida.
 
@@ -254,11 +310,11 @@ Se a pessoa afectada não estiver abrangida pela alínea d) do artigo 3.º, a As
 
 § 2.º Os exames a que se refere o corpo deste artigo serão requisitados, por intermédio do departamento, unidade ou estabelecimento militar, sempre que possível aos hospitais militares ou, na falta deles, aos estabelecimentos especializados do Instituto de Assistência Nacional aos Tuberculosos, podendo também recorrer-se aos laboratórios e clínicas particulares nos casos em que não seja possível a utilização daqueles.
 
-###### Art. 16.º É obrigatória, para todos os beneficiários dos Serviços Sociais das Forças Armadas, a participação ao chefe do departamento, comando de unidade ou estabelecimento militar onde prestem serviço dos casos de tuberculose ocorridos nas pessoas que com ele coabitem. Incumbe ao respectivo médico a observação dos casos participados e das restantes pessoas que com ele coabitem, procedendo-se como estabelece o artigo anterior.
+Art. 16.º É obrigatória, para todos os beneficiários dos Serviços Sociais das Forças Armadas, a participação ao chefe do departamento, comando de unidade ou estabelecimento militar onde prestem serviço dos casos de tuberculose ocorridos nas pessoas que com ele coabitem. Incumbe ao respectivo médico a observação dos casos participados e das restantes pessoas que com ele coabitem, procedendo-se como estabelece o artigo anterior.
 
-###### Art. 17.º Quando julgado conveniente, poderá o Ministro da Defesa Nacional determinar que sejam realizados exames radiológicos do pessoal dos departamentos, unidades e estabelecimentos militares.
+Art. 17.º Quando julgado conveniente, poderá o Ministro da Defesa Nacional determinar que sejam realizados exames radiológicos do pessoal dos departamentos, unidades e estabelecimentos militares.
 
-###### Art. 18.º Constitui uma atribuição da Assistência aos Tuberculosos das Forças Armadas a realização ou a colaboração, quando solicitadas pelos serviços de saúde militares, no radiorrastreio dos recrutas incorporados em todas as unidades do continente e ainda nas provas tuberculínicas e na aplicação do B. C. G. aos que dela necessitem.
+Art. 18.º Constitui uma atribuição da Assistência aos Tuberculosos das Forças Armadas a realização ou a colaboração, quando solicitadas pelos serviços de saúde militares, no radiorrastreio dos recrutas incorporados em todas as unidades do continente e ainda nas provas tuberculínicas e na aplicação do B. C. G. aos que dela necessitem.
 
 § 1.º Nenhum recruta pode subtrair-se aos rastreios, vacinação e provas, quando julgados necessários.
 
@@ -268,7 +324,7 @@ Se a pessoa afectada não estiver abrangida pela alínea d) do artigo 3.º, a As
 
 Esses rastreios e vacinação deverão ser realizados pelos serviços de saúde dos três ramos das forças armadas e pela Assistência aos Tuberculosos das Forças Armadas nos termos preceituados no corpo deste artigo e seu § 1.º
 
-###### Art. 19.º Além do que se refere aos militares mencionados no artigo anterior deverão os Ministérios e secretariados militares promover, quando necessário, através da Assistência aos Tuberculosos das Forças Armadas, um rastreio rigoroso da tuberculose:
+Art. 19.º Além do que se refere aos militares mencionados no artigo anterior deverão os Ministérios e secretariados militares promover, quando necessário, através da Assistência aos Tuberculosos das Forças Armadas, um rastreio rigoroso da tuberculose:
 
 a) Nos militares que sejam nomeados para fazer parte de forças expedicionárias ou de unidades ou forças de campanha que vão actuar fora da metrópole, antes da partida e imediatamente a seguir ao seu regresso;
 
@@ -282,7 +338,7 @@ d) Nos militares que, estando já nas situações de reserva ou de reforma, seja
 
 VII) Tratamento
 
-###### Art. 20.º Os benefícios da Assistência compreendem o direito a:
+Art. 20.º Os benefícios da Assistência compreendem o direito a:
 
 a) Consultas médicas nos dispensários ou no domicílio;
 
@@ -296,7 +352,7 @@ e) Operações cirúrgicas indicadas para a tuberculose.
 
 § único. A assistência clínica no domicílio só pode ter lugar quando exercida pelos clínicos da Assistência aos Tuberculosos das Forças Armadas ou, em casos especiais, por outros clínicos com que a Assistência tenha acordado utilizar os seus serviços.
 
-###### Art. 21.º O tratamento dos doentes a cargo da Assistência aos Tuberculosos das Forças Armadas pode, conforme a natureza particular da doença, as disponibilidades daquela Assistência ou outros factores, ser feito:
+Art. 21.º O tratamento dos doentes a cargo da Assistência aos Tuberculosos das Forças Armadas pode, conforme a natureza particular da doença, as disponibilidades daquela Assistência ou outros factores, ser feito:
 
 a) Em sanatórios e estâncias de repouso apropriadas, ou em hospitais especiais e quaisquer hospitais e enfermarias postos à sua disposição;
 
@@ -306,15 +362,15 @@ c) Nos locais em que não houver organismos ou Assistência aos Tuberculosos das
 
 d) No domicílio, quando a junta da Assistência aos Tuberculosos das Forças Armadas o julgar conveniente.
 
-###### Art. 22.º Compete à Assistência aos Tuberculosos das Forças Armadas orientar e vigiar, mensalmente, o tratamento dos doentes a seu cargo onde quer que se encontrem e qualquer que seja o regime a que estejam submetidos.
+Art. 22.º Compete à Assistência aos Tuberculosos das Forças Armadas orientar e vigiar, mensalmente, o tratamento dos doentes a seu cargo onde quer que se encontrem e qualquer que seja o regime a que estejam submetidos.
 
-###### Art. 23.º A admissão nos sanatórios ou nas estâncias de tratamento apropriadas é feita por ordem de inscrição numa escala, quando os fundos da Assistência aos Tuberculosos das Forças Armadas não permitam a sanatorização imediata de todos os doentes que dela necessitem.
+Art. 23.º A admissão nos sanatórios ou nas estâncias de tratamento apropriadas é feita por ordem de inscrição numa escala, quando os fundos da Assistência aos Tuberculosos das Forças Armadas não permitam a sanatorização imediata de todos os doentes que dela necessitem.
 
 § 1.º Para efeito de internamento, os militares em serviço activo terão prioridade desde que a situação clínica seja idêntica à dos outros militares.
 
 § 2.º Podem ser sanatorizados ou internados nos hospitais, independentemente da sua colocação na escala, os doentes acerca dos quais a junta da Assistência aos Tuberculosos das Forças Armadas reconheça a prioridade de admissão.
 
-###### Art. 24.º O tratamento em regime sanatorial terá lugar, sempre que aconselhável, no Sanatório Militar Dr. Oliveira Salazar.
+Art. 24.º O tratamento em regime sanatorial terá lugar, sempre que aconselhável, no Sanatório Militar Dr. Oliveira Salazar.
 
 § 1.º Pode também ter lugar noutros quaisquer sanatórios sempre que a natureza da doença ou outras circunstâncias o justifiquem.
 
@@ -326,9 +382,9 @@ Para esse fim o presidente da direcção da Assistência aos Tuberculosos das Fo
 
 Os sanatórios noutras situações não deverão ser utilizados.
 
-###### Art. 25.º À Assistência aos Tuberculosos das Forças Armadas reserva-se o direito de orientar e de periòdicamante inspeccionar o tratamento e os regimes terapêuticos e disciplinares adoptados nos estabelecimentos oficiais ou particulares onde tenha doentes internados segundo as normas preceituadas no artigo 22.º
+Art. 25.º À Assistência aos Tuberculosos das Forças Armadas reserva-se o direito de orientar e de periòdicamante inspeccionar o tratamento e os regimes terapêuticos e disciplinares adoptados nos estabelecimentos oficiais ou particulares onde tenha doentes internados segundo as normas preceituadas no artigo 22.º
 
-###### Art. 26.º O tratamento dos assistidos em regime hospitalar será regulado como segue:
+Art. 26.º O tratamento dos assistidos em regime hospitalar será regulado como segue:
 
 a) Os doentes serão recebidos e tratados em hospitais militares ou civis, com baixa passada pela Assistência aos Tuberculosos das Forças Armadas ou por um seu delegado;
 
@@ -340,13 +396,13 @@ a) As análises clínicas, exames radiológicos e tratamentos fisioterápicos ou
 
 b) No caso de internamento os hospitais militares receberão da Assistência aos Tuberculosos das Forças Armadas, pelos doentes assistidos, as importâncias correspondentes às diárias de hospitalização que estiverem em vigor para os restantes militares e à alimentação dietética fixada pelo Ministro da Defesa Nacional, nos termos da alínea b) do corpo deste artigo.
 
-###### Art. 27.º Os militares que tenham que baixar aos hospitais militares depois de lhes ser reconhecida a qualidade de assistidos serão internados por conta da Assistência aos Tuberculosos das Forças Armadas.
+Art. 27.º Os militares que tenham que baixar aos hospitais militares depois de lhes ser reconhecida a qualidade de assistidos serão internados por conta da Assistência aos Tuberculosos das Forças Armadas.
 
-###### Art. 28.º Os militares que passarem a ser assistidos já depois de internados em hospitais militares serão considerados com baixa por conta da Assistência aos Tuberculosos das Forças Armadas sòmente a partir da data do despacho que lhes reconheceu o direito à assistência.
+Art. 28.º Os militares que passarem a ser assistidos já depois de internados em hospitais militares serão considerados com baixa por conta da Assistência aos Tuberculosos das Forças Armadas sòmente a partir da data do despacho que lhes reconheceu o direito à assistência.
 
-###### Art. 29.º No caso de não haver militar encarregado da disciplina dos doentes internados em sanatórios ou estâncias de repouso apropriadas ficará a mesma a cargo do director do respectivo estabelecimento, que comunicará as faltas disciplinares ocorridas ao presidente da direcção da Assistência aos Tuberculosos das Forças Armadas.
+Art. 29.º No caso de não haver militar encarregado da disciplina dos doentes internados em sanatórios ou estâncias de repouso apropriadas ficará a mesma a cargo do director do respectivo estabelecimento, que comunicará as faltas disciplinares ocorridas ao presidente da direcção da Assistência aos Tuberculosos das Forças Armadas.
 
-###### Art. 30.º Para tratamento dos doentes em regime de hospitalização a Assistência aos Tuberculosos das Forças Armadas disporá, em princípio, de:
+Art. 30.º Para tratamento dos doentes em regime de hospitalização a Assistência aos Tuberculosos das Forças Armadas disporá, em princípio, de:
 
 a) Uma enfermaria anexa em cada um dos hospitais militares;
 
@@ -354,13 +410,13 @@ b) De dispensários nas localidades onde existam guarnições militares de grand
 
 § único. Em Lisboa haverá dispensários destinados à profilaxia de que trata o artigo 14.º e ao tratamento dos assistidos em regime de tratamento ambulatório referido no artigo 21.º
 
-###### Art. 31.º A Assistência aos Tuberculosos das Forças Armadas terá delegados nas localidades em que dispuser de dispensários privativos ou noutras em que o número de doentes a seu cargo o justifique. Os delegados da Assistência são sempre os directores dos dispensários quando estes existam.
+Art. 31.º A Assistência aos Tuberculosos das Forças Armadas terá delegados nas localidades em que dispuser de dispensários privativos ou noutras em que o número de doentes a seu cargo o justifique. Os delegados da Assistência são sempre os directores dos dispensários quando estes existam.
 
-###### Art. 32.º Os médicos, militares ou civis, contratados em serviço em departamentos, unidades e estabelecimentos militares onde não haja hospitais militares ou dispensários da Assistência aos Tuberculosos das Forças Armadas, caso em que o tratamento incumbe àqueles hospitais ou dispensários, devem tratar gratuitamente, mediante a apresentação da caderneta fornecida por aquela Assistência, os assistidos residentes na localidade onde estejam aquarteladas as unidades ou estabelecimentos militares.
+Art. 32.º Os médicos, militares ou civis, contratados em serviço em departamentos, unidades e estabelecimentos militares onde não haja hospitais militares ou dispensários da Assistência aos Tuberculosos das Forças Armadas, caso em que o tratamento incumbe àqueles hospitais ou dispensários, devem tratar gratuitamente, mediante a apresentação da caderneta fornecida por aquela Assistência, os assistidos residentes na localidade onde estejam aquarteladas as unidades ou estabelecimentos militares.
 
 Igual obrigação, nas mesmas condições, incumbe aos enfermeiros militares em serviço nas unidades ou estabelecimentos militares.
 
-###### Art. 33.º A vigilância dos assistidos não internados será efectuada em dispensários ou em visitas domiciliárias realizadas pelo pessoal indicado pela Assistência aos Tuberculosos das Forças Armadas.
+Art. 33.º A vigilância dos assistidos não internados será efectuada em dispensários ou em visitas domiciliárias realizadas pelo pessoal indicado pela Assistência aos Tuberculosos das Forças Armadas.
 
 § 1.º Além da vigilância de que trata este artigo, deverão os médicos assistentes destes doentes enviar mensalmente, e sempre que ocorrerem circunstâncias que interessem ser conhecidas ràpidamente, relatórios circunstanciados sobre a evolução e estado da doença.
 
@@ -368,7 +424,7 @@ Igual obrigação, nas mesmas condições, incumbe aos enfermeiros militares em 
 
 VIII) Organização
 
-###### Art. 34.º A Assistência aos Tuberculosos das Forças Armadas compreende os elementos seguintes:
+Art. 34.º A Assistência aos Tuberculosos das Forças Armadas compreende os elementos seguintes:
 
 a) Direcção;
 
@@ -382,7 +438,7 @@ e) Arquivo;
 
 f) Os órgãos de execução que dela dependam directamente ou com os quais haja estabelecido acordo para o desempenho da sua missão.
 
-###### Art. 35.º A direcção da Assistência aos Tuberculosos das Forças Armadas, que actua na dependência directa da comissão directiva dos Serviços Sociais das Forças Armadas, é composta por:
+Art. 35.º A direcção da Assistência aos Tuberculosos das Forças Armadas, que actua na dependência directa da comissão directiva dos Serviços Sociais das Forças Armadas, é composta por:
 
 a) Um presidente, oficial superior médico, no activo ou na situação de reserva, de qualquer ramo das forças armadas;
 
@@ -392,7 +448,7 @@ b) Dois vogais, oficiais superiores médicos, no activo ou na situação de rese
 
 § 2.º O vogal mais antigo será o mais directo colaborador do presidente na supervisão da Assistência aos Tuberculosos das Forças Armadas, além de o substituir, quando necessário, nos seus impedimentos.
 
-###### Art. 36.º O conselho técnico será constituído:
+Art. 36.º O conselho técnico será constituído:
 
 a) Pelos membros da direcção;
 
@@ -400,7 +456,7 @@ b) Por seis oficiais médicos, militares, no activo ou na situação de reserva,
 
 § único. Nas reuniões do conselho técnico terá assento, com voto consultivo, o director do Instituto de Assistência Nacional aos Tuberculosos ou um representante deste Instituto.
 
-###### Art. 37.º O conselho administrativo será composto por:
+Art. 37.º O conselho administrativo será composto por:
 
 a) Um presidente, que será o vogal mais moderno da direcção da Assistência;
 
@@ -410,13 +466,13 @@ c) Um tesoureiro, capitão ou subalterno, ou posto equivalente, dos serviços de
 
 § único. O conselho administrativo pode ainda dispor de pessoal militar ou civil.
 
-###### Art. 38.º A secretaria será chefiada por um oficial de patente não superior a capitão ou equivalente, do activo ou na situação de reserva, de qualquer ramo das forças armadas.
+Art. 38.º A secretaria será chefiada por um oficial de patente não superior a capitão ou equivalente, do activo ou na situação de reserva, de qualquer ramo das forças armadas.
 
 § único. A secretaria poderá ainda dispor de pessoal militar ou civil.
 
-###### Art. 39.º O arquivo ficará a cargo de um oficial de patente não superior a capitão ou equivalente, do activo ou na situação de reserva, de qualquer ramo das forças armadas, que desempenhará cumulativamente as funções de adjunto do chefe de secretaria.
+Art. 39.º O arquivo ficará a cargo de um oficial de patente não superior a capitão ou equivalente, do activo ou na situação de reserva, de qualquer ramo das forças armadas, que desempenhará cumulativamente as funções de adjunto do chefe de secretaria.
 
-###### Art. 40.º À direcção da Assistência aos Tuberculosos das Forças Armadas, como órgão técnico consultivo da comissão directiva dos Serviços Sociais das Forças Armadas, compete essencialmente o seguinte:
+Art. 40.º À direcção da Assistência aos Tuberculosos das Forças Armadas, como órgão técnico consultivo da comissão directiva dos Serviços Sociais das Forças Armadas, compete essencialmente o seguinte:
 
 a) Estudar todas as medidas que possam contribuir para o desempenho da missão consignada no artigo 2.º deste estatuto, propondo superiormente a adopção das que excederem a sua competência;
 
@@ -432,7 +488,7 @@ f) Inspeccionar, ou fazer inspeccionar, os órgãos e actividades da Assistênci
 
 § único. Nas reuniões do conselho técnico do Instituto de Assistência Nacional aos Tuberculosos terá assento, com voto consultivo, o presidente da direcção da Assistência aos Tuberculosos das Forças Armadas ou um representante desta Assistência.
 
-###### Art. 41.º Ao conselho técnico compete essencialmente:
+Art. 41.º Ao conselho técnico compete essencialmente:
 
 a) Dar parecer sobre todos os processos sujeitos à sua análise, propondo a assistência a prestar, bem como o destino a dar aos respectivos doentes, de harmonia com o seu estado e possibilidades de tratamento;
 
@@ -450,19 +506,19 @@ As votações são sempre nominais; nas votações o presidente, depois de recol
 
 § 4.º Das reuniões do conselho técnico será lavrada acta sempre que o assunto, pela sua importância, o justifique, ou ainda quando não se verifique unanimidade na votação.
 
-###### Art. 42.º O conselho administrativo rege-se pelo Regulamento Geral dos Conselhos Administrativos, competindo-lhe a colaboração no planeamento e nos estudos orçamentais relativos à direcção da Assistência aos Tuberculosos das Forças Armadas e aos órgãos dela dependentes que não disponham de conselho administrativo próprio.
+Art. 42.º O conselho administrativo rege-se pelo Regulamento Geral dos Conselhos Administrativos, competindo-lhe a colaboração no planeamento e nos estudos orçamentais relativos à direcção da Assistência aos Tuberculosos das Forças Armadas e aos órgãos dela dependentes que não disponham de conselho administrativo próprio.
 
-###### Art. 43.º À secretaria incumbem as funções normais de uma secretaria militar e o expediente geral de todos os assuntos relativos à assistência aos tuberculosos das forças armadas.
+Art. 43.º À secretaria incumbem as funções normais de uma secretaria militar e o expediente geral de todos os assuntos relativos à assistência aos tuberculosos das forças armadas.
 
-###### Art. 44.º O arquivo, além do serviço próprio, tem a seu cargo a estatística da tuberculose nas forças armadas e a matrícula ou alardo dos oficiais e sargentos em serviço na Assistência aos Tuberculosos das Forças Armadas.
+Art. 44.º O arquivo, além do serviço próprio, tem a seu cargo a estatística da tuberculose nas forças armadas e a matrícula ou alardo dos oficiais e sargentos em serviço na Assistência aos Tuberculosos das Forças Armadas.
 
-###### Art. 45.º Na secretaria, conselho administrativo e arquivo haverá os livros e registos em uso nas repartições congéneres das forças armadas e ainda quaisquer outros que forem julgados necessários para o fim especial da Assistência aos Tuberculosos das Forças Armadas e para o seu bom funcionamento.
+Art. 45.º Na secretaria, conselho administrativo e arquivo haverá os livros e registos em uso nas repartições congéneres das forças armadas e ainda quaisquer outros que forem julgados necessários para o fim especial da Assistência aos Tuberculosos das Forças Armadas e para o seu bom funcionamento.
 
 IX) Junta da Assistência aos Tuberculosos das Forças Armadas
 
-###### Art. 46.º A junta da Assistência aos Tuberculosos das Forças Armadas será sempre presidida por um membro da direcção daquela Assistência, tendo como vogais dois membros do conselho técnico, oriundos cada um deles de ramo diferente das forças armadas, de maneira que a junta tenha sempre representação dos três ramos das forças armadas.
+Art. 46.º A junta da Assistência aos Tuberculosos das Forças Armadas será sempre presidida por um membro da direcção daquela Assistência, tendo como vogais dois membros do conselho técnico, oriundos cada um deles de ramo diferente das forças armadas, de maneira que a junta tenha sempre representação dos três ramos das forças armadas.
 
-###### Art. 47.º Os militares e pessoas de família em observação ou tratamento de infecção tuberculosa só poderão ser presentes à junta da Assistência aos Tuberculosos das Forças Armadas mediante parecer da direcção daquela Assistência.
+Art. 47.º Os militares e pessoas de família em observação ou tratamento de infecção tuberculosa só poderão ser presentes à junta da Assistência aos Tuberculosos das Forças Armadas mediante parecer da direcção daquela Assistência.
 
 § 1.º Para efeito do disposto neste artigo, os processos, devidamente instruídos com as observações clínicas de toda a natureza e os exames laboratoriais necessários, serão presentes à direcção da Assistência aos Tuberculosos das Forças Armadas, para lhes ser apenso o seu parecer, submetendo-os seguidamente à junta, se for caso disso.
 
@@ -470,13 +526,13 @@ IX) Junta da Assistência aos Tuberculosos das Forças Armadas
 
 § 3.º Os processos enviados à Assistência aos Tuberculosos das Forças Armadas para efeito do que se dispõe no corpo deste artigo devem ser acompanhados de uma cópia de registo das alterações referentes aos militares assistidos, além da nota de assentos e do mapa modelo I.
 
-###### Art. 48.º Os militares doentes que forem considerados com direito à assistência serão julgados temporàriamente incapazes do serviço efectivo pelas juntas hospitalares ou de saúde do ramo da força armada a que aqueles pertençam, sendo aumentados à Assistência aos Tuberculosos das Forças Armadas para tratamento, continuando, todavia, a pertencer aos departamentos, unidades e estabelecimentos militares onde estavam colocados ou prestavam serviço.
+Art. 48.º Os militares doentes que forem considerados com direito à assistência serão julgados temporàriamente incapazes do serviço efectivo pelas juntas hospitalares ou de saúde do ramo da força armada a que aqueles pertençam, sendo aumentados à Assistência aos Tuberculosos das Forças Armadas para tratamento, continuando, todavia, a pertencer aos departamentos, unidades e estabelecimentos militares onde estavam colocados ou prestavam serviço.
 
 § único. Os resultados das juntas serão seguidamente comunicados aos hospitais onde se encontravam ou às juntas de saúde donde provieram.
 
-###### Art. 49.º Os assistidos que tenham esgotado o período de assistência sem terem obtido a cura serão presentes à junta da Assistência aos Tuberculosos das Forças Armadas, para lhes ser dado destino.
+Art. 49.º Os assistidos que tenham esgotado o período de assistência sem terem obtido a cura serão presentes à junta da Assistência aos Tuberculosos das Forças Armadas, para lhes ser dado destino.
 
-###### Art. 50.º Os militares que pela direcção da Assistência aos Tuberculosos das Forças Armadas forem considerados clìnicamente curados, tenham ou não terminado o período máximo de assistência a que se referem a alínea b) e o § 1.º do artigo 4.º, entrarão seguidamente de licença, com todos os vencimentos, para vigilância e consolidação da cura.
+Art. 50.º Os militares que pela direcção da Assistência aos Tuberculosos das Forças Armadas forem considerados clìnicamente curados, tenham ou não terminado o período máximo de assistência a que se referem a alínea b) e o § 1.º do artigo 4.º, entrarão seguidamente de licença, com todos os vencimentos, para vigilância e consolidação da cura.
 
 Esta licença, conforme a opinião daquela direcção, não poderá ter duração superior a seis meses.
 
@@ -484,9 +540,9 @@ Esta licença, conforme a opinião daquela direcção, não poderá ter duraçã
 
 § 2.º Se não for confirmada a cura e ainda não tiver expirado o período máximo de assistência, continuarão assistidos até serem considerados clìnicamente curados ou esgotarem aquele período e seguidamente propostos para a Junta da Assistência aos Tuberculosos das Forças Armadas.
 
-###### Art. 51.º As pessoas de família assistidas que pela direcção da Assistência aos Tuberculosos das Forças Armadas forem consideradas clìnicamente curadas, tenham ou não terminado o período máximo de assistência a que se referem a alínea b) e o § 1.º do artigo 4.º, terão igualmente direito a um período de vigilância para acompanhamento da evolução da cura, sem dispêndio para aquela Assistência, findo o qual serão presentes à junta da Assistência aos Tuberculosos das Forças Armadas, para lhes ser dado destino, sendo-lhes aplicável o disposto nos §§ 1.º e 2.º do artigo anterior.
+Art. 51.º As pessoas de família assistidas que pela direcção da Assistência aos Tuberculosos das Forças Armadas forem consideradas clìnicamente curadas, tenham ou não terminado o período máximo de assistência a que se referem a alínea b) e o § 1.º do artigo 4.º, terão igualmente direito a um período de vigilância para acompanhamento da evolução da cura, sem dispêndio para aquela Assistência, findo o qual serão presentes à junta da Assistência aos Tuberculosos das Forças Armadas, para lhes ser dado destino, sendo-lhes aplicável o disposto nos §§ 1.º e 2.º do artigo anterior.
 
-###### Art. 52.º Os militares propostos para a junta da Assistência aos Tuberculosos das Forças Armadas, nos termos dos artigos 49.º e 50.º, serão por esta julgados:
+Art. 52.º Os militares propostos para a junta da Assistência aos Tuberculosos das Forças Armadas, nos termos dos artigos 49.º e 50.º, serão por esta julgados:
 
 a) Prontos para o serviço;
 
@@ -494,7 +550,7 @@ b) Aptos para serviços moderados;
 
 c) Incapazes de todo o serviço.
 
-###### Art. 53.º Consideram-se serviços moderados para efeito do disposto neste estatuto:
+Art. 53.º Consideram-se serviços moderados para efeito do disposto neste estatuto:
 
 a) Para oficiais:
 
@@ -504,27 +560,27 @@ b) Para sargentos e praças:
 
 Todos os que tenham lugar na metrópole, com excepção de formaturas que exijam movimento de forças, dos de embarque, dos de escala em serviço nocturno, dos exercícios desportivos com demorada exposição à acção de más condições atmosféricas e dos que o médico da unidade ou estabelecimento considerar violentos.
 
-###### Art. 54.º Os militares considerados aptos para serviços moderados só poderão manter-se dois anos nesta situação, período durante o qual serão inspeccionados de seis em seis meses, de preferência nos dispensário ou hospitais militares.
+Art. 54.º Os militares considerados aptos para serviços moderados só poderão manter-se dois anos nesta situação, período durante o qual serão inspeccionados de seis em seis meses, de preferência nos dispensário ou hospitais militares.
 
 Findo aquele período, ou antes, se for julgado conveniente, serão novamente presentes à junta da Assistência aos Tuberculosos das Forças Armadas para lhes ser dado destino.
 
-###### Art. 55.º As pessoas de família dos beneficiários propostas para a junta da Assistência aos Tuberculosos das Forças Armadas, nos termos do artigo 51.º, serão por esta julgadas clìnicamente curadas ou não.
+Art. 55.º As pessoas de família dos beneficiários propostas para a junta da Assistência aos Tuberculosos das Forças Armadas, nos termos do artigo 51.º, serão por esta julgadas clìnicamente curadas ou não.
 
-###### Art. 56.º Quanto aos militares julgados incapazes de todo o serviço proceder-se-á em conformidade com o disposto no § 5.º do artigo 4.º e artigos 5.º e 9.º
+Art. 56.º Quanto aos militares julgados incapazes de todo o serviço proceder-se-á em conformidade com o disposto no § 5.º do artigo 4.º e artigos 5.º e 9.º
 
-###### Art. 57.º Em relação às pessoas de família que não forem consideradas clìnicamente curadas adoptar-se-á o procedimento constante do artigo 5.º
+Art. 57.º Em relação às pessoas de família que não forem consideradas clìnicamente curadas adoptar-se-á o procedimento constante do artigo 5.º
 
-###### Art. 58.º Os militares assistidos que venham a se punidos disciplinarmente por factos ocorridos durante o período de assistência sê-lo-ão sempre pelo directo do estabelecimento ou pelo presidente da comissão directiva dos Serviços Sociais das Forças Armadas, ainda que já não estejam sob as suas ordens ou dependência, e cumprirão sempre as respectivas penas nesse estabelecimento, desde que este disponha de lugares próprios para tanto. Nesta última hipótese, a unidade ou estabelecimento a que pertença o infractor pô-lo-ão à disposição de qualquer daquelas entidades.
+Art. 58.º Os militares assistidos que venham a se punidos disciplinarmente por factos ocorridos durante o período de assistência sê-lo-ão sempre pelo directo do estabelecimento ou pelo presidente da comissão directiva dos Serviços Sociais das Forças Armadas, ainda que já não estejam sob as suas ordens ou dependência, e cumprirão sempre as respectivas penas nesse estabelecimento, desde que este disponha de lugares próprios para tanto. Nesta última hipótese, a unidade ou estabelecimento a que pertença o infractor pô-lo-ão à disposição de qualquer daquelas entidades.
 
 § único. Os militares assistidos, clìnicamente curados, que tenham punições a cumprir, não deverão ser presentes à junta da Assistência aos Tuberculosos das Forças Armadas para lhes ser dado destino antes de terem cumprido aquelas punições nas unidades ou estabelecimentos militares a que pertençam.
 
-###### Art. 59.º Para cada assistido, militar ou civil, de Assistência aos Tuberculosos das Forças Armadas constituir-se-á um processo individual, que fica a fazer parte integrante do arquivo daquele organismo e do qual só por cópia, devidamente autorizada pela comissão directiva dos Serviços Sociais das Forças Armadas, se podem fornecer elementos solicitados por via oficial.
+Art. 59.º Para cada assistido, militar ou civil, de Assistência aos Tuberculosos das Forças Armadas constituir-se-á um processo individual, que fica a fazer parte integrante do arquivo daquele organismo e do qual só por cópia, devidamente autorizada pela comissão directiva dos Serviços Sociais das Forças Armadas, se podem fornecer elementos solicitados por via oficial.
 
 § único. Fazem parte do referido processo individual do assistido os mapas da junta, os boletins clínicos todos os documentos que serviram de base à admissão na Assistência aos Tuberculosos das Forças Armadas e ainda aqueles que durante o período de assistência se refiram ao doente.
 
 X) Administração
 
-###### Art. 60.º Constituem receitas a administrar pela Assistência aos Tuberculosos das Forças Armadas:
+Art. 60.º Constituem receitas a administrar pela Assistência aos Tuberculosos das Forças Armadas:
 
 a) Os subsídios que lhe sejam consignados no orçamento dos Serviços Sociais das Forças Armadas;
 
@@ -536,9 +592,9 @@ d) Os juros dos fundos capitalizados e outros rendimentos de qualquer natureza.
 
 § único (transitório). Enquanto houver militares do quadro permanente, em serviço activo ou na situação de reserva ou reforma, que não sejam beneficiários dos Serviços Sociais das Forças Armadas será estabelecido para eles, por despacho do Ministro da Defesa Nacional, um desconto para a Assistência aos Tuberculosos das Forças Armadas denominado «Desconto para a Assistência aos Tuberculosos das Forças Armadas».
 
-###### Art. 61.º Constituem receitas resultantes das actividades da Assistência aos Tuberculosos das Forças Armadas, nomeadamente as reduções das remunerações ou pensões ilíquidas dos militares a efectuar quando estes ou pessoas de família a seu cargo se encontrem internados ou sanatorizados.
+Art. 61.º Constituem receitas resultantes das actividades da Assistência aos Tuberculosos das Forças Armadas, nomeadamente as reduções das remunerações ou pensões ilíquidas dos militares a efectuar quando estes ou pessoas de família a seu cargo se encontrem internados ou sanatorizados.
 
-###### Art. 62.º Durante o período de assistência mantém-se o direito do militar à remuneração ou à pensão de reserva ou de reforma, que, quando se verifique internamento ou sanatorização do mesmo ou de pessoa de família, ficarão sujeitas às seguintes reduções:
+Art. 62.º Durante o período de assistência mantém-se o direito do militar à remuneração ou à pensão de reserva ou de reforma, que, quando se verifique internamento ou sanatorização do mesmo ou de pessoa de família, ficarão sujeitas às seguintes reduções:
 
 a) Quando casado ou com encargos de família legalmente constituída:
 
@@ -566,9 +622,9 @@ Para os restantes casos é aplicável o disposto na alínea b) do corpo deste ar
 
 § 8.º As reduções percentuais indicadas no corpo deste artigo e o quantitativo do vencimento ou da pensão que isenta de qualquer redução estabelecida no § 3.º deste artigo podem ser alterados por despacho do Ministro da Defesa Nacional quando se verificar necessário.
 
-###### Art. 63.º Correrão por conta das verbas da Assistência aos Tuberculosos das Forças Armadas constante da alínea a) do artigo 60.º a profilaxia, o tratamento e a recuperação dos militares indicados nas alíneas a), b) e c) do artigo 3.º, quando efectuados por aquela Assistência.
+Art. 63.º Correrão por conta das verbas da Assistência aos Tuberculosos das Forças Armadas constante da alínea a) do artigo 60.º a profilaxia, o tratamento e a recuperação dos militares indicados nas alíneas a), b) e c) do artigo 3.º, quando efectuados por aquela Assistência.
 
-###### Art. 64.º Da disposição constante do artigo anterior exceptuam-se:
+Art. 64.º Da disposição constante do artigo anterior exceptuam-se:
 
 a) As despesas com as ajudas de custo e transporte do pessoal da Assistência aos Tuberculosos das Forças Armadas no cumprimento dos serviços profilácticos a que se refere o artigo 18.º;
 
@@ -576,53 +632,53 @@ b) As despesas a efectuar com o rastreio no pessoal militar a que se referem as 
 
 § único. As despesas a que se refere o corpo deste artigo deverão constituir encargo a suportar pela tabela orçamental do Ministério ou secretariado a que pertença o militar examinado.
 
-###### Art. 65.º Correrão por conta das verbas da Assistência aos Tuberculosos das Forças Armadas constantes da alínea b) do artigo 60.º a profilaxia, o tratamento e a recuperação das pessoas de família dos beneficiários indicados nas alíneas d) e e) do artigo 3.º, quando assistidos.
+Art. 65.º Correrão por conta das verbas da Assistência aos Tuberculosos das Forças Armadas constantes da alínea b) do artigo 60.º a profilaxia, o tratamento e a recuperação das pessoas de família dos beneficiários indicados nas alíneas d) e e) do artigo 3.º, quando assistidos.
 
-###### Art. 66.º A administração da Assistência aos Tuberculosos das Forças Armadas é exercida em obediência ao orçamento de um fundo privativo. O orçamento referido será elaborado segundo os preceitos legais e dentro dos respectivos prazos e carecerá da aprovação que está prevista para documentos desta natureza.
+Art. 66.º A administração da Assistência aos Tuberculosos das Forças Armadas é exercida em obediência ao orçamento de um fundo privativo. O orçamento referido será elaborado segundo os preceitos legais e dentro dos respectivos prazos e carecerá da aprovação que está prevista para documentos desta natureza.
 
-###### Art. 67.º Quanto às contas de gerência, a Assistência aos Tuberculosos das Forças Armadas reger-se-á pelo disposto no [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, com as alterações introduzidas pelo [Decreto-Lei n.º 42864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42864-1960-281840), de 1 de Março de 1960.
+Art. 67.º Quanto às contas de gerência, a Assistência aos Tuberculosos das Forças Armadas reger-se-á pelo disposto no [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, com as alterações introduzidas pelo [Decreto-Lei n.º 42864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42864-1960-281840), de 1 de Março de 1960.
 
-###### Art. 68.º Os saldos que se verificarem na gerência de cada ano económico, qualquer que seja a sua proveniência, transitarão como saldo para o ano económico seguinte, em conformidade com o disposto no artigo 2.º do [Decreto-Lei n.º 42834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42834-1960-278714), de 1 de Março de 1960.
+Art. 68.º Os saldos que se verificarem na gerência de cada ano económico, qualquer que seja a sua proveniência, transitarão como saldo para o ano económico seguinte, em conformidade com o disposto no artigo 2.º do [Decreto-Lei n.º 42834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42834-1960-278714), de 1 de Março de 1960.
 
 XI) Pessoal
 
-###### Art. 69.º O quadro orgânico do pessoal, militar e civil, da Assistência aos Tuberculosos das Forças Armadas será fixado por portaria do Ministro da Defesa Nacional, com visto do Ministro das Finanças.
+Art. 69.º O quadro orgânico do pessoal, militar e civil, da Assistência aos Tuberculosos das Forças Armadas será fixado por portaria do Ministro da Defesa Nacional, com visto do Ministro das Finanças.
 
 § único. Enquanto não forem fixados os quadros orgânicos de pessoal a que se refere o corpo deste artigo mantêm-se os quadros orgânicos dos estabelecimentos ou serviços que forem integrados na Assistência aos Tuberculosos das Forças Armadas, conservando o seu pessoal todos os direitos que tinha à data da integração.
 
-###### Art. 70.º A admissão de médicos civis, de pessoal civil de enfermagem, de laboratório, de farmácia e de serventes, que as exigências de serviço forem determinando, far-se-á a título eventual de acordo com as disposições do [Decreto-Lei n.º 44059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44059-1961-185339), de 24 de Novembro de 1961.
+Art. 70.º A admissão de médicos civis, de pessoal civil de enfermagem, de laboratório, de farmácia e de serventes, que as exigências de serviço forem determinando, far-se-á a título eventual de acordo com as disposições do [Decreto-Lei n.º 44059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44059-1961-185339), de 24 de Novembro de 1961.
 
 § 1.º Os médicos civis devem ser especializados em qualquer especialidade relacionada com a tuberculose, conforme as necessidades o exigirem.
 
 § 2.º A admissão de médicos civis não deverá prejudicar a de médicos militares desde que estes possuam as condições de especialização exigidas para aqueles.
 
-###### Art. 71.º Ao pessoal da Assistência poderão ser abonadas, por desempenho de funções especiais, gratificações mensais cujos quantitativos serão fixados por despacho do Ministro da Defesa Nacional, com visto do Ministro das Finanças.
+Art. 71.º Ao pessoal da Assistência poderão ser abonadas, por desempenho de funções especiais, gratificações mensais cujos quantitativos serão fixados por despacho do Ministro da Defesa Nacional, com visto do Ministro das Finanças.
 
 XII) Diversos
 
-###### Art. 72.º Compete à Assistência aos Tuberculosos das Forças Armadas promover a especialização e a divulgação dos conhecimentos de tuberculose, em qualquer grau, modalidade ou localização, entre os médicos militares.
+Art. 72.º Compete à Assistência aos Tuberculosos das Forças Armadas promover a especialização e a divulgação dos conhecimentos de tuberculose, em qualquer grau, modalidade ou localização, entre os médicos militares.
 
 Para esse efeito assegurará a realização de estágios em hospitais especiais ou estâncias sanatoriais, militares ou civis, nacionais ou estrangeiras; no caso de estabelecimentos civis, deverá recorrer-se, de preferência, aos do Instituto de Assistência Nacional aos Tuberculosos.
 
 Promoverá, ainda, a passagem pelos seus serviços do maior número possível de médicos castrenses.
 
-###### Art. 73.º Todos os pedidos e requerimentos sobre assuntos do domínio da Assistência aos Tuberculosos das Forças Armadas deverão ser dirigidos ao presidente da comissão directiva dos Serviços Sociais das Forças Armadas, que os submeterá à sanção do Ministro da Defesa Nacional, quando for caso disso.
+Art. 73.º Todos os pedidos e requerimentos sobre assuntos do domínio da Assistência aos Tuberculosos das Forças Armadas deverão ser dirigidos ao presidente da comissão directiva dos Serviços Sociais das Forças Armadas, que os submeterá à sanção do Ministro da Defesa Nacional, quando for caso disso.
 
-###### Art. 74.º As reclamações dos assistidos sobre as decisões da direcção da Assistência aos Tuberculosos das Forças Armadas serão dirigidas ao presidente da comissão directiva dos Serviços Sociais das Forças Armadas, que sobre elas deliberará.
+Art. 74.º As reclamações dos assistidos sobre as decisões da direcção da Assistência aos Tuberculosos das Forças Armadas serão dirigidas ao presidente da comissão directiva dos Serviços Sociais das Forças Armadas, que sobre elas deliberará.
 
 § único. No caso de o interessado se não conformar com a decisão da comissão directiva dos Serviços Sociais das Forças Armadas poderá interpor recurso para o Ministro da Defesa Nacional.
 
 Da decisão ministerial não haverá recurso.
 
-###### Art. 75.º A comissão directiva dos Serviços Sociais das Forças Armadas deverá sempre fundamentar as suas decisões, mormente nos casos de indeferimento das pretensões.
+Art. 75.º A comissão directiva dos Serviços Sociais das Forças Armadas deverá sempre fundamentar as suas decisões, mormente nos casos de indeferimento das pretensões.
 
-###### Art. 76.º Será distribuída uma caderneta a cada assistido donde constem, em resumo, os seus deveres e direitos.
+Art. 76.º Será distribuída uma caderneta a cada assistido donde constem, em resumo, os seus deveres e direitos.
 
-###### Art. 77.º Nenhum assistido pode ser presente a qualquer junta estranha à Assistência aos Tuberculosos das Forças Armadas enquanto estiver a cargo desta Assistência.
+Art. 77.º Nenhum assistido pode ser presente a qualquer junta estranha à Assistência aos Tuberculosos das Forças Armadas enquanto estiver a cargo desta Assistência.
 
-###### Art. 78.º Aos oficiais, sargentos e praças que contraírem a tuberculose enquanto estiverem prestando serviço na Assistência aos Tuberculosos das Forças Armadas ou nos hospitais militares será considerada a doença como contraída em serviço.
+Art. 78.º Aos oficiais, sargentos e praças que contraírem a tuberculose enquanto estiverem prestando serviço na Assistência aos Tuberculosos das Forças Armadas ou nos hospitais militares será considerada a doença como contraída em serviço.
 
-###### Art. 79.º Compete ao Ministro da Defesa Nacional resolver por despacho:
+Art. 79.º Compete ao Ministro da Defesa Nacional resolver por despacho:
 
 a) Os problemas de equiparação ou equivalência que venham a suscitar-se em razão das diferenças que, tradicionalmente, existem na terminologia usada, para situações e categorias de pessoal, nos três ramos das forças armadas;
 
@@ -630,21 +686,21 @@ b) As dúvidas e os casos omissos na matéria do presente estatuto.
 
 XIII) Disposições transitórias
 
-###### Art. 80.º Aos sargentos da Guarda Nacional Republicana e da Guarda Fiscal que tenham sofrido, até data da publicação deste diploma, descontos para extinta Assistência aos Tuberculosos do Exército, com destino à assistência aos seus familiares, é mantido direito a esta assistência, nos mesmos termos em que vinha sendo concedida e com idênticos descontos.
+Art. 80.º Aos sargentos da Guarda Nacional Republicana e da Guarda Fiscal que tenham sofrido, até data da publicação deste diploma, descontos para extinta Assistência aos Tuberculosos do Exército, com destino à assistência aos seus familiares, é mantido direito a esta assistência, nos mesmos termos em que vinha sendo concedida e com idênticos descontos.
 
 § único. Consideram-se com direito à assistência as pessoas de família dos sargentos referidos no corpo do artigo que possam incluir-se em algumas das categorias mencionadas na alínea d) do artigo 3.º
 
-###### Art. 81.º Os sargentos da Guarda Nacional Republicana e da Guarda Fiscal que, posteriormente à publicação deste diploma, foram admitidos nos respectivos quadros não usufruirão das regalias concedidas no parágrafo anterior e não sofrerão, portanto, qualquer desconto para a Assistência aos Tuberculosos das Forças Armadas.
+Art. 81.º Os sargentos da Guarda Nacional Republicana e da Guarda Fiscal que, posteriormente à publicação deste diploma, foram admitidos nos respectivos quadros não usufruirão das regalias concedidas no parágrafo anterior e não sofrerão, portanto, qualquer desconto para a Assistência aos Tuberculosos das Forças Armadas.
 
-###### Art. 82.º Os sargentos da Guarda Nacional Republicana e da Guarda Fiscal referidos no artigo 80.º que queiram desistir dos benefícios da Assistência aos Tuberculosos das Forças Armadas podem fazê-lo, mediante declaração escrita, remetida oficialmente àquela Assistência, deixando, implìcitamente, de sofrer o desconto respectivo a partir do mês em que for feita a declaração.
+Art. 82.º Os sargentos da Guarda Nacional Republicana e da Guarda Fiscal referidos no artigo 80.º que queiram desistir dos benefícios da Assistência aos Tuberculosos das Forças Armadas podem fazê-lo, mediante declaração escrita, remetida oficialmente àquela Assistência, deixando, implìcitamente, de sofrer o desconto respectivo a partir do mês em que for feita a declaração.
 
-###### Art. 83.º As regras do artigo 62.º são aplicáveis às pessoas de família dos sargentos da Guarda Nacional Republicana e da Guarda Fiscal referidos no artigo 80.º
+Art. 83.º As regras do artigo 62.º são aplicáveis às pessoas de família dos sargentos da Guarda Nacional Republicana e da Guarda Fiscal referidos no artigo 80.º
 
-###### Art. 84.º Os saldos existentes nos fundos de assistência, de reserva ou quaisquer outros que existam na Assistência aos Tuberculosos do Exército e na Assistência aos Tuberculosos da Armada à data da sua extinção, serão convertidos num único saldo, que será entregue ao conselho administrativo dos Serviços Sociais das Forças Armadas e que transitará para o ano económico seguinte como saldo de gerência, nos termos do disposto no artigo 2.º do [Decreto-Lei n.º 42864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42864-1960-281840), de 1 de Março de 1960.
+Art. 84.º Os saldos existentes nos fundos de assistência, de reserva ou quaisquer outros que existam na Assistência aos Tuberculosos do Exército e na Assistência aos Tuberculosos da Armada à data da sua extinção, serão convertidos num único saldo, que será entregue ao conselho administrativo dos Serviços Sociais das Forças Armadas e que transitará para o ano económico seguinte como saldo de gerência, nos termos do disposto no artigo 2.º do [Decreto-Lei n.º 42864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42864-1960-281840), de 1 de Março de 1960.
 
 Este saldo só poderá ser utilizado por despacho do Ministro da Defesa Nacional.
 
-###### Art. 85.º Caso a administração do Hospital Militar de Doenças Infecto-Contagiosas do Ministério do Exército fique a cargo da Assistência aos Tuberculosos das Forças Armadas e a fim de o conselho administrativo desta Assistência poder gerir as verbas orçamentais das duas instituições, será aquele conselho administrativo, enquanto tal situação subsistir, constituído exclusivamente por oficiais do Exército, sendo, portanto, seu presidente o membro da direcção oriundo deste ramo das Forças Armadas.
+Art. 85.º Caso a administração do Hospital Militar de Doenças Infecto-Contagiosas do Ministério do Exército fique a cargo da Assistência aos Tuberculosos das Forças Armadas e a fim de o conselho administrativo desta Assistência poder gerir as verbas orçamentais das duas instituições, será aquele conselho administrativo, enquanto tal situação subsistir, constituído exclusivamente por oficiais do Exército, sendo, portanto, seu presidente o membro da direcção oriundo deste ramo das Forças Armadas.
 
 § único. Se se verificar a situação prevista no corpo deste artigo, fica a Assistência aos Tuberculosos das Forças Armadas autorizada a sacar as verbas inscritas no orçamento do Ministério do Exército para fazer face aos encargos respeitantes ao Hospital Militar de Doenças Infecto-Contagiosas, devendo a prestação de contas àquele Ministério ser efectuada nos termos legais.
 
@@ -652,4 +708,4 @@ Presidência do Conselho, 30 de Dezembro de 1961. - O Ministro da Defesa Naciona
 
 Modelo I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/12/30100/19721981.pdf))](https://files.diariodarepublica.pt/1s/1961/12/30100/19721981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/12/30100/19721981.pdf)

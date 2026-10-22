@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/18200/20552061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1981-576534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 131c905c6c99e6103cdce3940811074b4c7a66b80cd0becb96d4562216299fa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fd365f59449a31e6cc1ec83cd37901ff2b5b6a91e18e539b05881e5a2c872ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Cooperativo
+- Cooperativa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600355:por
+  label: "Alterado o art. 99º, do Código Copeerativo aprovado pelo Dec Lei 454/80 de 09-Out, na redacção dada pelo presente\
+    \ diploma, pelo DEC LEI.45/82.1982.02.10.PCM, DR.IS [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1982-600355
+  date: '1982-02-10'
+- type: amended_by
+  target: pt:dre:676035:por
+  label: "Alterados os art.s 3º, 4º, 5º, 7º, 11º, 12º, 15º, 17º, 20º, 27º, 28º, 37º, 39º, 50º, 54º, 82º, 86º e 95º do Código\
+    \ Cooperativo, aprovado pelo Dec Lei 454/80, de 09-Out, na redacção do presente diploma, pela LEI.1/83.10.01.1983.AR,\
+    \ DR.IS [7-Supl] de 10.01.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-1983-676035
+  date: '1983-01-10'
+- type: cites
+  target: pt:dre:207643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462212:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:568311:por
+  label: Rectificado pela DECL.DD6256.03.11.1981.PCM, DR.IS [261] de 12.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-568311
+  date: '1981-11-03'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 46
+  article_count: 45
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:11Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +135,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 5.º, 7.º, 11.º, 12.º, 13.º, 15.º, 17.º, 19.º, 20.º, 21.º, 23.º, 25.º, 27.º, 28.º, 29.º, 31.º, 37.º, 39.º, 50.º, 54.º, 67.º, 68.º, 69.º, 70.º, 71.º, 74.º, 77.º, 82.º, 83.º, 86.º, 87.º, 88.º, 89.º, 90.º, 91.º, 92.º, 93.º, 94.º, 95.º, 96.º, 99.º e 100.º do Código Cooperativo, aprovado pelo artigo 1.º do [Decreto-Lei n.º 454/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1980-462212), de 9 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 5.º, 7.º, 11.º, 12.º, 13.º, 15.º, 17.º, 19.º, 20.º, 21.º, 23.º, 25.º, 27.º, 28.º, 29.º, 31.º, 37.º, 39.º, 50.º, 54.º, 67.º, 68.º, 69.º, 70.º, 71.º, 74.º, 77.º, 82.º, 83.º, 86.º, 87.º, 88.º, 89.º, 90.º, 91.º, 92.º, 93.º, 94.º, 95.º, 96.º, 99.º e 100.º do Código Cooperativo, aprovado pelo artigo 1.º do [Decreto-Lei n.º 454/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1980-462212), de 9 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — (Princípios cooperativos)
 
@@ -560,28 +601,28 @@ d) ...
 
 2 - ...
 
-###### Art. 2.º A epígrafe do capítulo VI passa a ter a seguinte redacção:
+Art. 2.º A epígrafe do capítulo VI passa a ter a seguinte redacção:
 
 ### CAPÍTULO VI — Reservas e distribuição de excedentes
 
-###### Art. 3.º É eliminado o artigo 98.º
+Art. 3.º É eliminado o artigo 98.º
 
-###### Art. 4.º É aditado o artigo 102.º, que terá a seguinte redacção:
+Art. 4.º É aditado o artigo 102.º, que terá a seguinte redacção:
 
 ###### Artigo 102.º — (Aplicação da legislação anterior)
 
 Enquanto não se efectivar a adaptação prevista no artigo 99.º, o registo das cooperativas obedecerá à legislação vigente até à promulgação do Código Cooperativo.
 
-###### Art. 5.º Este diploma entra em vigor no dia 30 de Junho de 1981.
+Art. 5.º Este diploma entra em vigor no dia 30 de Junho de 1981.
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Julho de 1981.**
+Promulgado em 28 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, LEONARDO EUGÉNIO RAMOS RIBEIRO DE ALMEIDA.**
+O Presidente da República Interino, LEONARDO EUGÉNIO RAMOS RIBEIRO DE ALMEIDA.
 
 Modelo do livro J
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18200/20552061.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18200/20552061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18200/20552061.pdf)

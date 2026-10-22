@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(18) a 318-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00180022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c9d090de2ddeaadbf5cd2e3f5f5bf8e0af6cb4eabbce5c3b8718fc2b8d9d508
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3b87032e05ae70f716cd2501f5400b9b2934b60e986f5f9d0d92f0520c7aba1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Imposto de Transacções
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31004539:por
+  label: "Suspendida, na RAA, a execução do art. 1.º, pela RES.8/77.04.05.1977.PG-RAA, JOA-IS [3] de 04.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/8-1977-31004539
+  date: '1977-05-04'
+- type: amended_by
+  target: pt:dre:236682:por
+  label: "Aditada a verba nº 8-A e alteradas as verbas nºs. 30 e 38º da lista I; aditadas as verbas nºs 1-A, 3-A e 4-A e alteradas\
+    \ as verbas nºs. 3, 6 e 7 da lista II; aditadas as verbas nºs. 1-A e 32-A, alteradas as verbas nºs. 1, 2, 8, 16, 29 e\
+    \ 32 e eliminadas as verbas nºs. 6 e 11 da lista III e alteradas as verbas nºs. 19 e 22 e eliminadas as verbas nºs. 3\
+    \ e 14 da lV do Código do Imposto de Transacções aprovado pelo Dec Lei 47066, de 01-Jul de 1966, na redacção do presente\
+    \ diploma e rectificado o seu art. 3º pelo DEC LEI.427-A/77.14.10.1977.MF, DR.IS [238-2ºSupl] de 14.10.1977\077\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-a-1977-236682
+  date: '1977-10-14'
+- type: amended_by
+  target: pt:dre:332190:por
+  label: Elevado para 30%, relativamente às transacções efetuadas desde a entrada em vigor do presente diploma até 31.12.1978,
+    e que não recairá sobre o imposto que venha a ser devido pelas prestações de serviço, o adicional sobre o imposto de transacções
+    criado pelo art. 2.º do presente diploma, pelo(a) Decreto-Lei n.º 75-A/78 - Diário da República n.º 96/1978, 1º Suplemento,
+    Série I de 1978-04-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-a-1978-332190
+  date: '1978-04-26'
+- type: amended_by
+  target: pt:dre:426137:por
+  label: Alteradas as listas I, II, III e IV anexas ao Código do Imposto de Transacções aprovado pelo Dec Lei 47066 de 01-Jul
+    de 1966, e substituídas pelo presente diploma, pelo DEC LEI.142/78.12.06.1978.MFP, DR.IS [133]2º Supl de 12.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1978-426137
+  date: '1978-06-12'
+- type: amended_by
+  target: pt:dre:149261:por
+  label: "Alterado o artigo 4.º pelo DEC LEI.140-A/81.01.06.1981.MFP, DR.IS [125]2ºSupl de 01.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-1981-149261
+  date: '1981-06-01'
+- type: cites
+  target: pt:dre:390472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507036:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141027:por
+  label: Rectificado pela DECL.DD8112.23.03.1977.PCM, DR.IS [69] de 23.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-141027
+  date: '1977-03-23'
+- type: repealed_by
+  target: pt:dre:397337:por
+  label: "Revogados os artigos 4.º e 5.º pelo DEC LEI.303/82.31.07.1982.MFP, DR.IS [175] de 31.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1982-397337
+  date: '1982-07-31'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:56Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +152,13 @@ de 28 de Fevereiro
 
 Em execução do n.º 4 do artigo 10.º da [Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/lei/11-1976-390472), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovadas as novas listas I, II, III e IV, anexas a este diploma, as quais se consideram inseridas no Código do Imposto de Transacções e que substituirão, a partir da data da entrada em vigor do presente decreto-lei, as aprovadas pelo [Decreto-Lei n.º 95/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1976-507036), de 30 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 480/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1976-431042), de 18 de Junho.
+Artigo 1.º São aprovadas as novas listas I, II, III e IV, anexas a este diploma, as quais se consideram inseridas no Código do Imposto de Transacções e que substituirão, a partir da data da entrada em vigor do presente decreto-lei, as aprovadas pelo [Decreto-Lei n.º 95/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1976-507036), de 30 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 480/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1976-431042), de 18 de Junho.
 
-###### Art. 2.º É criado o adicional de 20% sobre o imposto de transacções, o qual será liquidado conjuntamente com o respectivo imposto.
+Art. 2.º É criado o adicional de 20% sobre o imposto de transacções, o qual será liquidado conjuntamente com o respectivo imposto.
 
-###### Art. 3.º O § 3.º do Código do Imposto de Transacções passa a ter a seguinte redacção:
+Art. 3.º O § 3.º do Código do Imposto de Transacções passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -108,21 +170,21 @@ b) As pessoas que habitualmente exerçam a actividade de florista;
 
 c) As pessoas que habitualmente exercam a actividade de venda ao consumidor de antiguidades, raridades ou de quaisquer mercadorias transaccionadas como tais.
 
-###### Art. 4.º - 1. O regime estabelecido pelos artigos 6.º a 12.º do [Decreto-Lei n.º 480/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1976-431042), de 18 de Junho, é aplicável às transacções dos aparelhos e máquinas referidos nas verbas n.os 2 e 16 da lista III e verbas n.os 2, 4, 5, 22 e 25 da lista IV, anexas ao Código do Imposto de Transacções.
+Art. 4.º - 1. O regime estabelecido pelos artigos 6.º a 12.º do [Decreto-Lei n.º 480/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1976-431042), de 18 de Junho, é aplicável às transacções dos aparelhos e máquinas referidos nas verbas n.os 2 e 16 da lista III e verbas n.os 2, 4, 5, 22 e 25 da lista IV, anexas ao Código do Imposto de Transacções.
 
 2. O regime referido no número anterior não é, porém, aplicável às transacções de aparelhos e máquinas cujas características os tornem exclusivamente utilizáveis em actividades industriais, comerciais ou agrícolas, continuando a tributação a fazer-se, nestes casos, nos termos gerais do Código do Imposto de Transacções.
 
-###### Art. 5.º - 1. Aos exportadores das mercadorias abrangidas pelo regime do n.º 1 do artigo anterior, como tal considerados pelo § 2.º do artigo 3.º do Código do Imposto de Transacções, é facultada a inscrição no registo a que se refere o artigo 48.º do mesmo Código.
+Art. 5.º - 1. Aos exportadores das mercadorias abrangidas pelo regime do n.º 1 do artigo anterior, como tal considerados pelo § 2.º do artigo 3.º do Código do Imposto de Transacções, é facultada a inscrição no registo a que se refere o artigo 48.º do mesmo Código.
 
 2. O imposto respeitante às mercadorias a que se refere o n.º 1 do artigo anterior, entregue nos cofres do Estado e pago por repercussão aos produtores pelos exportadores registados nos termos do número antecedente, poderá ser devolvido a estes, mediante condicionalismo a estabelecer em portaria do Secretário de Estado do Orçamento.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Imposto de transacções
 
@@ -706,4 +768,4 @@ Só se consideram obras aquelas em cujo valor as peles entrem em proporção sup
 
 (nota a) Compreendem-se nesta verba as partes, peças e acessórios, quando reconhecíveis como exclusiva ou principalmente destinados aos bens indicados na mesma verba.
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

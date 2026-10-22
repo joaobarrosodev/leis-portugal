@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20500/21572159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4acd554a99d3375cc8771c26185195f9b2c82bd49e7319d6e1f473b6b386bc71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aac88abb0dd665566d26be5ed8040583b51570451889642ebfd58197b68238bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Destacamento de Pessoal
+- Ensino Oficial
+- Mobilidade de Pessoal
+- Pessoal Docente
+- Requisição de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:411815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364732:por
+  label: "Alterado o artigo 16.º pelo DEC LEI.422/79.22.10.1979.ME, DR.IS [244] de 22.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/422-1979-364732
+  date: '1979-10-22'
+- type: cites
+  target: pt:dre:147236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411815:por
+  label: "Revogado pelo DEC LEI.139-A/90.28.04.1990.ME, DR.IS [98-Supl] de 28.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-a-1990-411815
+  date: '1990-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:04Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +124,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os professores dos quadros ou profissionalizados do ensino oficial, em serviço nos estabelecimentos de ensino, com excepção dos pertencentes ao ensino superior, poderão ser colocados em regime especial para exercício de:
+Artigo 1.º - 1. Os professores dos quadros ou profissionalizados do ensino oficial, em serviço nos estabelecimentos de ensino, com excepção dos pertencentes ao ensino superior, poderão ser colocados em regime especial para exercício de:
 
 a) Cargos ou funções directivas, técnicas, pedagógicas e inspectivas nos serviços centrais e serviços regionais do Ministério da Educação e Investigação Científica ou em outros Ministérios;
 
@@ -118,7 +146,7 @@ i) Outros cargos e funções ligados à educação, mediante despacho ministeria
 
 2. Em circunstâncias excepcionais, a reconhecer por despacho ministerial sob proposta devidamente fundamentada dos serviços interessados, podará ser autorizado o exercício de funções em regime equiparado ao de colocação especial, a docentes provisórios e eventuais dos ensinos preparatório e secundário, salvo se lei especial o impedir.
 
-###### Art. 2.º - 1. Os regimes de colocação especial referidos no n.º 1 do artigo anterior são:
+Art. 2.º - 1. Os regimes de colocação especial referidos no n.º 1 do artigo anterior são:
 
 a) Destacamento;
 
@@ -132,17 +160,17 @@ c) Comissão.
 
 4. Na situação de comissão o docente será provido e tomará posse num lugar do quadro.
 
-###### Art. 3.º - 1. Em qualquer das situações previstas no artigo anterior o docente mantém o direito ao lugar de origem, salvo nos casos especiais expressamente referidos neste diploma.
+Art. 3.º - 1. Em qualquer das situações previstas no artigo anterior o docente mantém o direito ao lugar de origem, salvo nos casos especiais expressamente referidos neste diploma.
 
 2. O tempo de serviço prestado em qualquer das situações mencionadas no artigo 2.º deste diploma considera-se para todos os efeitos como se tivesse sido prestado no lugar de origem.
 
 3. Os professores efectivos poderão, no entanto, optar pelos vencimentos que lhes correspondem no quadro de origem.
 
-###### Art. 4.º - 1. Para efeitos do disposto no artigo 2.º, o despacho ministerial que autorizar a situação especial de colocação definirá em que regime a mesma se processa, mediante proposta fundamentada dos serviços interessados, salvo nos casos expressamente referidos neste diploma.
+Art. 4.º - 1. Para efeitos do disposto no artigo 2.º, o despacho ministerial que autorizar a situação especial de colocação definirá em que regime a mesma se processa, mediante proposta fundamentada dos serviços interessados, salvo nos casos expressamente referidos neste diploma.
 
 2. Não são permitidas colocações de docentes, em regime de comissão, nos estabelecimentos de qualquer nível ou ramo de ensino.
 
-###### Art. 5.º - 1. As colocações em regime de destacamento, requisição e comissão para cargos ou funções exercidas nos serviços centrais ou nos serviços regionais do Ministério da Educação e Investigação Científica serão fixadas pelo prazo de dois anos, prorrogáveis por períodos idênticos, podendo cessar em qualquer momento, por decisão ministerial ou a pedido do interessado, desde que apresentado com a antecedência de sessenta dias.
+Art. 5.º - 1. As colocações em regime de destacamento, requisição e comissão para cargos ou funções exercidas nos serviços centrais ou nos serviços regionais do Ministério da Educação e Investigação Científica serão fixadas pelo prazo de dois anos, prorrogáveis por períodos idênticos, podendo cessar em qualquer momento, por decisão ministerial ou a pedido do interessado, desde que apresentado com a antecedência de sessenta dias.
 
 2. Findo o período correspondente à primeira prorrogação do prazo referido no número anterior, considera-se vago o lugar do quadro que ao tempo o professor ocupar.
 
@@ -150,49 +178,49 @@ c) Comissão.
 
 4. Enquanto durar a situação de supranumerário, o docente exercerá as suas funções no estabelecimento de ensino referido no número anterior.
 
-###### Art. 6.º - 1. A colocação em regime especial para o exercício de funções em outros Ministérios é válida pelo prazo de um ano, prorrogável por períodos idênticos, podendo cessar em qualqquer momento, por decisão ministerial ou a pedido do interessado, desde que apresentado com a antecedência de sessenta dias.
+Art. 6.º - 1. A colocação em regime especial para o exercício de funções em outros Ministérios é válida pelo prazo de um ano, prorrogável por períodos idênticos, podendo cessar em qualqquer momento, por decisão ministerial ou a pedido do interessado, desde que apresentado com a antecedência de sessenta dias.
 
 2. Findo o período anual, correspondente à primeira prorrogação referida no número anterior, considera-se vago o lugar do quadro que ao tempo o docente ocupar.
 
 3. Dada por finda a colocação especial, será o docente colocado no estabelecimento de ensino a cujo quadro pertencia, se neste houver vaga, ou, não havendo, no lugar vago da mesma categoria e de outro estabelecimento do mesmo nível ou ramo de ensino que preferir, até que possa regressar ao quadro a que pertencia à data do início da colocação em regime especial.
 
-###### Art. 7.º - 1. As colocações referidas nas alíneas c), d) e f) do n.º 1 do artigo 1.º são autorizadas por um período de dois anos, prorrogáveis por prazos idênticos por despacho ministerial, que recairá em proposta fundamentada dos serviços interessados.
+Art. 7.º - 1. As colocações referidas nas alíneas c), d) e f) do n.º 1 do artigo 1.º são autorizadas por um período de dois anos, prorrogáveis por prazos idênticos por despacho ministerial, que recairá em proposta fundamentada dos serviços interessados.
 
 2. A colocação referida na alínea b) do n.º 1 do artigo 1.º relativamente aos ensinos preparatório e secundário é autorizada pelo prazo fixado no n.º 1 do artigo 45.º do [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 23 de Outubro, ou pelo prazo que em diploma posterior ao referido decreto-lei vier a ser estabelecido.
 
 3. Para os restantes ensinos, a colocação será autorizada pelo prazo fixado nos termos dos diplomas respectivos para os competentes cargos directivos, ou no próprio despacho de autorização, se não estiver estabelecido qualquer outro prazo.
 
-###### Art. 8.º - 1. Os professores do ensino primário, habilitados com o curso complementar dos liceus e três anos de bom e efectivo serviço prestado no ensino primário podem ser nomeados professores provisórios do ensino preparatório em regime de requisição, sendo válida a sua nomeação por um ano escolar, renovável até ao limite máximo de quatro anos, seguidos ou alternados.
+Art. 8.º - 1. Os professores do ensino primário, habilitados com o curso complementar dos liceus e três anos de bom e efectivo serviço prestado no ensino primário podem ser nomeados professores provisórios do ensino preparatório em regime de requisição, sendo válida a sua nomeação por um ano escolar, renovável até ao limite máximo de quatro anos, seguidos ou alternados.
 
 2. A requisição referida no número anterior será renovada tacitamente até ao limite de quatro anos escolares sempre que, nos termos da lei, o professor possa continuar e tenha direito a exercer funções para que foi nomeado no ensino preparatório.
 
 3. Terminado o prazo limite de quatro anos mencionado no n.º 1 desde artigo, e durante o qual poderá, nos termos do número anterior, ser autorizada a requisição, o professor regressará ao seu lugar de origem ou será exonerado do referido lugar desde que, até 31 de Julho do respectivo ano escolar, opte pela continuação do exercício de funções docentes no ensino preparatório.
 
-###### Art. 9.º - 1. Os professores dos ensinos preparatório, secundário e médio nas condições referidas no n.º 1 do artigo 1.º deste diploma poderão exercer funções docentes no ensino superior em regime de colocação especial, que terá a duração normal de um a três anos, renovável por períodos de um ano, até ao limite máximo de seis anos.
+Art. 9.º - 1. Os professores dos ensinos preparatório, secundário e médio nas condições referidas no n.º 1 do artigo 1.º deste diploma poderão exercer funções docentes no ensino superior em regime de colocação especial, que terá a duração normal de um a três anos, renovável por períodos de um ano, até ao limite máximo de seis anos.
 
 2. Aos professores dos quadros que se encontrem na situação referida no número anterior é aplicável o disposto no artigo 5.º deste diploma, após quatro anos de exercício de funções docentes no ensino superior.
 
-###### Art. 10.º As colocações em regime especial para efeitos de exercício de funções de orientação de estágio pedagógico, enquanto não forem estabelecidas normas para recrutamento e nomeação dos respectivos orientadores, serão fixadas pelo prazo de um ano escolar, que poderá ser prorrogado por despacho ministerial, a proferir em proposta da respectiva direcção-geral de ensino.
+Art. 10.º As colocações em regime especial para efeitos de exercício de funções de orientação de estágio pedagógico, enquanto não forem estabelecidas normas para recrutamento e nomeação dos respectivos orientadores, serão fixadas pelo prazo de um ano escolar, que poderá ser prorrogado por despacho ministerial, a proferir em proposta da respectiva direcção-geral de ensino.
 
-###### Art. 11.º - 1. A colocação em funções docentes ao abrigo da preferência conjugal referida na alínea h) do n.º 1 do artigo 1.º far-se-á em regime de destacamento e será válida por um ano escolar.
+Art. 11.º - 1. A colocação em funções docentes ao abrigo da preferência conjugal referida na alínea h) do n.º 1 do artigo 1.º far-se-á em regime de destacamento e será válida por um ano escolar.
 
 2. A colocação prevista no número anterior depende de em cada ano escolar o interessado a ela adquirir direito nos termos fixados no diploma de colocações dos docentes provisórios e eventuais dos ensinos preparatório e secundário.
 
-###### Art. 12.º - 1. Podem ser colocados na localidade onde esteja colocado o cônjuge ao abrigo do disposto no artigo anterior os professores de ambos os sexos, efectivos, dos ensinos preparatório e secundário casados com funcionários públicos.
+Art. 12.º - 1. Podem ser colocados na localidade onde esteja colocado o cônjuge ao abrigo do disposto no artigo anterior os professores de ambos os sexos, efectivos, dos ensinos preparatório e secundário casados com funcionários públicos.
 
 2. Os professores colocados ao abrigo da preferência conjugal mantêm os vencimentos e regalias da sua categoria.
 
 3. As colocações referidas no n.º 1 só podem efectuar-se em estabelecimento do nível ou ramo de ensino a que o professor pertencer.
 
-###### Art. 13.º As colocações em regime especial referidas na alínea i) do n.º 1 do artigo 1.º e no n.º 2 do mesmo artigo serão autorizadas, caso a caso, por despacho ministerial, que fixará igualmente as condições em que as mesmas serão efectuadas.
+Art. 13.º As colocações em regime especial referidas na alínea i) do n.º 1 do artigo 1.º e no n.º 2 do mesmo artigo serão autorizadas, caso a caso, por despacho ministerial, que fixará igualmente as condições em que as mesmas serão efectuadas.
 
-###### Art. 14.º - 1. Os professores referidos no n.º 1 do artigo 1.º profissionalizados, mas não efectivos, deverão ser opositores ao concurso de professores efectivos, ainda que, em resultado do mesmo, não venham a obter efectivação, sem o que será dada por finda, no termo do ano escolar que estiver a decorrer, a colocação em regime especial em que se encontrarem a exercer funções, regressando ao estabelecimento em que exerciam funções à data do início da colocação em regime especial.
+Art. 14.º - 1. Os professores referidos no n.º 1 do artigo 1.º profissionalizados, mas não efectivos, deverão ser opositores ao concurso de professores efectivos, ainda que, em resultado do mesmo, não venham a obter efectivação, sem o que será dada por finda, no termo do ano escolar que estiver a decorrer, a colocação em regime especial em que se encontrarem a exercer funções, regressando ao estabelecimento em que exerciam funções à data do início da colocação em regime especial.
 
 2. Se o professor se efectivar no decurso da colocação em regime especial, poderá manter-se na mesma situação ou apresentar-se no estabelecimento de ensino a cujo quadro ficar a pertencer em resultado do concurso, no dia 1 de Setembro do ano escolar em que, a seu pedido, lhe for dada por finda a colocação.
 
 3. Se se verificar o disposto na primeira parte do número anterior, o professor deverá, após a publicação da sua nomeação no Diário da República, tomar posse do lugar, competindo à Direcção-Geral de Pessoal e Administração comunicar ao estabelecimento de ensino a situação de colocação especial em que o professor se encontra.
 
-###### Art. 15.º - 1. As propostas de colocação em regime especial devidamente fundamentadas pelos serviços interessados e acompanhadas de declaração de concordância do docente deverão ser submetidas a despacho ministerial até 20 de Julho do ano escolar imediatamente anterior ao que as mesmas respeitem.
+Art. 15.º - 1. As propostas de colocação em regime especial devidamente fundamentadas pelos serviços interessados e acompanhadas de declaração de concordância do docente deverão ser submetidas a despacho ministerial até 20 de Julho do ano escolar imediatamente anterior ao que as mesmas respeitem.
 
 2. Fora do prazo fixado no n.º 1 deste artigo só serão autorizadas colocações em regime especial desde que se verifique cumulativamente:
 
@@ -202,21 +230,21 @@ b) Superveniência da situação que a determina;
 
 c) Viabilidade na substituição do docente por outro portador de habilitação própria.
 
-###### Art. 16.º As colocações em regime especial previstas neste diploma dependem de despacho de autorização do Ministro da Educação e Investigação Científica e estão sujeitas a diploma de provimento e visto do Tribunal de Contas.
+Art. 16.º As colocações em regime especial previstas neste diploma dependem de despacho de autorização do Ministro da Educação e Investigação Científica e estão sujeitas a diploma de provimento e visto do Tribunal de Contas.
 
-###### Art. 17.º - 1. Consideram-se renovadas, independentemente de quaisquer formalidades, as comissões de serviço que estejam a ser exercidas por pessoal docente à data da entrada em vigor do presente diploma, salvo as que, a pedido dos interessados, sejam dadas por findas.
+Art. 17.º - 1. Consideram-se renovadas, independentemente de quaisquer formalidades, as comissões de serviço que estejam a ser exercidas por pessoal docente à data da entrada em vigor do presente diploma, salvo as que, a pedido dos interessados, sejam dadas por findas.
 
 2. O regime de colocação especial das comissões que, nos termos do número anterior, forem renovadas será o que for definido por despacho ministerial, que terá em consideração o que se estabelece no presente diploma.
 
-###### Art. 18.º Relativamente aos docentes a quem, nos termos do artigo anterior, seja renovada a comissão de serviço, os prazos previstos nos artigos 5.º, 6.º e 9.º e no n.º 1 do artigo 12.º só são contados a partir da entrada em vigor do presente diploma.
+Art. 18.º Relativamente aos docentes a quem, nos termos do artigo anterior, seja renovada a comissão de serviço, os prazos previstos nos artigos 5.º, 6.º e 9.º e no n.º 1 do artigo 12.º só são contados a partir da entrada em vigor do presente diploma.
 
-###### Art. 19.º Para o ano escolar de 1977-1978 o prazo previsto no n.º 1 do artigo 15.º poderá ser prorrogado por despacho ministerial.
+Art. 19.º Para o ano escolar de 1977-1978 o prazo previsto no n.º 1 do artigo 15.º poderá ser prorrogado por despacho ministerial.
 
-###### Art. 20.º O presente diploma não se aplica às colocações de docentes para o exercício de cargos políticos ou diplomáticos, relativamente às quais continua a ser observada a legislação que expressamente as regulamente ou venha a regulamentar.
+Art. 20.º O presente diploma não se aplica às colocações de docentes para o exercício de cargos políticos ou diplomáticos, relativamente às quais continua a ser observada a legislação que expressamente as regulamente ou venha a regulamentar.
 
-###### Art. 21.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto do Ministro da Educação e Investigação Científica e Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 21.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto do Ministro da Educação e Investigação Científica e Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 22.º São revogados:
+Art. 22.º São revogados:
 
 a) O artigo 29.º do Decreto com força de lei n.º 16836, de 4 de Maio de 1929;
 
@@ -226,8 +254,8 @@ c) O [Decreto n.º 559/70](https://diariodarepublica.pt/dr/detalhe/decreto/559-1
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Almerindo da Silva Marques.
 
-**Promulgado em 23 de Agosto de 1977.**
+Promulgado em 23 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

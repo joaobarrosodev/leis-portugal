@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/333-1972-676613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8764bbc9b427d1188d1de2b07b4f2d0caadf8f6f0c0196d46f52bf0bbfba3294
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1744dc465607a6d5f0a0c841abd87cf2f911cf8cef7fbe4dd908e940256b7cde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,36 @@ relationships:
   target: pt:dre:601299:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:198680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579328:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:25Z'
   warnings: []
   errors: []
 ---
@@ -97,32 +117,32 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A concessão do grau de bacharel àqueles que tenham cursado as Faculdades de Ciências segundo os planos de estudos em vigor à data da publicação do [Decreto n.º 45840](https://diariodarepublica.pt/dr/detalhe/decreto/45840-1964-579328), de 31 de Julho de 1964, obedece ao disposto nos artigos seguintes.
+Artigo 1.º A concessão do grau de bacharel àqueles que tenham cursado as Faculdades de Ciências segundo os planos de estudos em vigor à data da publicação do [Decreto n.º 45840](https://diariodarepublica.pt/dr/detalhe/decreto/45840-1964-579328), de 31 de Julho de 1964, obedece ao disposto nos artigos seguintes.
 
-###### Art. 2.º 1. A aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Matemáticas confere direito ao grau de bacharel em Ciências Matemáticas.
+Art. 2.º 1. A aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Matemáticas confere direito ao grau de bacharel em Ciências Matemáticas.
 
 2. Para o efeito do disposto no número anterior, a falta de aprovação em uma das seguintes disciplinas: Curso Geral de Química, Física Geral, Desenho Rigoroso ou Desenho de Máquinas pode ser suprida pela aprovação em qualquer das disciplinas do 4.º ano da referida licenciatura em Ciências Matemáticas.
 
-###### Art. 3.º - 1. A aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Físico-Químicas confere direito ao grau de bacharel em Ciências Físico-Químicas.
+Art. 3.º - 1. A aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Físico-Químicas confere direito ao grau de bacharel em Ciências Físico-Químicas.
 
 2. Para efeito do disposto no número anterior, a falta de aprovação em uma das seguintes disciplinas: Curso Geral de Mineralogia e Geologia, Cristalografia, Desenho de Máquinas, Mecânica Racional e Cálculo das Probabilidades pode ser suprida pela aprovação em qualquer das disciplinas a seguir referidas: Termodinâmica, Óptica, Química Física ou Mecânica Física.
 
-###### Art. 4.º - 1. A aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Geológicas ou a aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Biológicas conferem direito ao grau de bacharel em Ciências Naturais.
+Art. 4.º - 1. A aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Geológicas ou a aprovação em todas as disciplinas dos três primeiros anos da licenciatura em Ciências Biológicas conferem direito ao grau de bacharel em Ciências Naturais.
 
 2. Para efeito do disposto no número anterior, a falta de aprovação em uma das seguintes disciplinas: Curso Geral de Física, Análise Química (2.ª parte) e Topografia pode ser suprida pela aprovação em qualquer destas outras disciplinas: Geologia, Geomorfologia ou Antropologia.
 
-###### Art. 5.º - 1. À disciplina ou conjunto de disciplinas oferecidas para os suprimentos ou para a contagem de número de disciplinas previstos nos artigos anteriores deverá corresponder um número de semestres pelo menos igual ao da disciplina a suprir.
+Art. 5.º - 1. À disciplina ou conjunto de disciplinas oferecidas para os suprimentos ou para a contagem de número de disciplinas previstos nos artigos anteriores deverá corresponder um número de semestres pelo menos igual ao da disciplina a suprir.
 
 2. Em caso algum uma só disciplina poderá ser oferecida para suprimento de mais de uma.
 
-###### Art. 6.º São aplicáveis aos bacharelatos em Ciências Matemáticas, em Ciências Físico-Químicas e em Ciências Naturais as disposições dos artigos 2.º e 3.º do [Decreto n.º 48406](https://diariodarepublica.pt/dr/detalhe/decreto/48406-1968-271227), de 29 de Maio de 1968, o artigo 256.º, alínea b), do [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1068, o artigo 2.º do [Decreto n.º 49204](https://diariodarepublica.pt/dr/detalhe/decreto/49204-1969-198680), de 25 de Agosto de 1969, e o artigo 3.º do [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), de 25 de Agosto de 1969.
+Art. 6.º São aplicáveis aos bacharelatos em Ciências Matemáticas, em Ciências Físico-Químicas e em Ciências Naturais as disposições dos artigos 2.º e 3.º do [Decreto n.º 48406](https://diariodarepublica.pt/dr/detalhe/decreto/48406-1968-271227), de 29 de Maio de 1968, o artigo 256.º, alínea b), do [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1068, o artigo 2.º do [Decreto n.º 49204](https://diariodarepublica.pt/dr/detalhe/decreto/49204-1969-198680), de 25 de Agosto de 1969, e o artigo 3.º do [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), de 25 de Agosto de 1969.
 
-###### Art. 7.º As dúvidas suscitadas na execução do presente diploma serão resolvidas pelo Ministério da Educação Nacional, ouvida a Junta Nacional de Educação.
+Art. 7.º As dúvidas suscitadas na execução do presente diploma serão resolvidas pelo Ministério da Educação Nacional, ouvida a Junta Nacional de Educação.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

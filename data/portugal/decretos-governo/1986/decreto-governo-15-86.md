@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26700/34753495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/15-1986-220904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c813682a8e9ede1d11b63560d90fea53583f2fb06e7d9d753a35dd0109be552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e845b31858d414a8ad56019851a18108d24a02297f03eaee4b29280c6b818eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Administração Regional
+- Conselho da Europa
+- Convenção
+- Cooperação Transfronteira
+- Madrid
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:417796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:417796:por
+  label: "Revogado pelo DEC.29/87.13.08.1987.MNE, DR.IS [185] de 13.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/29-1987-417796
+  date: '1987-08-13'
 article_structure:
-  article_count: 53
+  article_count: 60
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:44Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +103,19 @@ de 19 de Novembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção-Quadro Europeia para a Cooperação Transfronteira entre as Comunidades ou Autoridades Territoriais, aberta à adesão dos Estados membros do Conselho da Europa em 21 de Maio de 1980, cuja versão original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada para adesão a Convenção-Quadro Europeia para a Cooperação Transfronteira entre as Comunidades ou Autoridades Territoriais, aberta à adesão dos Estados membros do Conselho da Europa em 21 de Maio de 1980, cuja versão original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda.
 
-**Assinado em 25 de Outubro de 1986.**
+Assinado em 25 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1986.**
+Referendado em 28 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Convention-Cadre européenne sur la Coopération transfrontalière des Collectivités ou Autorités territoriales
 
@@ -981,7 +993,7 @@ Cada Parte contratante providenciará para que as comunidades ou autoridades ter
 
 ###### ARTIGO 12.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, bem como todos os Estados que tenham aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, bem como todos os Estados que tenham aderido à presente Convenção:
 
 a) De qualquer assinatura;
 
@@ -1061,7 +1073,7 @@ Os Estados terão a possibilidade de recorrerem quer a uma só opção quer a v�
 
 Cláusulas gerais para modelos de acordo 1.1 a 1.5
 
-Artigo A
+###### Artigo A
 
 1 - Para os fins do presente acordo, a expressão «autoridades locais» designa as autoridades, comunidades ou organismos que exerçam funções locais em conformidade com o direito interno de cada Estado.
 
@@ -1069,37 +1081,37 @@ Artigo A
 
 (nota 2) O parágrafo 2 não será incluído nos modelos de acordo 1.3, 1.4 e 1.5.
 
-Artigo B
+###### Artigo B
 
 O presente acordo não prejudicará as diversas formas de cooperação transfronteira já existentes nos Estados Partes e, em particular, as estabelecidas com base num acordo internacional.
 
-Artigo C
+###### Artigo C
 
 As Partes informarão as autoridades regionais e locais dos meios de acção de que dispõem e encorajá-las-ão a recorrer a esses meios.
 
-Artigo D
+###### Artigo D
 
 Para os fins do presente acordo, a expressão «autoridades superiores» designa as autoridades de tutela designadas por cada Parte.
 
-Artigo E
+###### Artigo E
 
 O âmbito e a natureza das competências das autoridades locais, consoante são definidas pelo direito interno dos Estados Partes, não serão, de modo algum, alterados pelo presente acordo.
 
-Artigo F
+###### Artigo F
 
 Cada Estado pode, em qualquer momento, indicar as áreas do seu território, os objectivos e as formas de cooperação aos quais o presente acordo não será aplicável.
 
 Contudo, tal indicação não prejudicará os direitos adquiridos no âmbito das cooperações já existentes.
 
-Artigo G
+###### Artigo G
 
 As Partes manterão o Secretário-Geral do Conselho da Europa informado sobre as actividades das comissões, dos comités e de outros organismos investidos de qualquer missão no âmbito do presente acordo.
 
-Artigo H
+###### Artigo H
 
 As Partes poderão introduzir no presente acordo, por simples troca de notas, alterações de pouca importância suscitadas pela experiência adquirida.
 
-Artigo I
+###### Artigo I
 
 1 - Cada Parte notificará a outra de que já preencheu todos os requisitos exigidos pelo seu direito interno para a entrada em vigor do presente acordo o qual produzirá efeitos a partir da data da última notificação.
 
@@ -1613,7 +1625,7 @@ Modificação e resolução do contrato.
 
 O artigo 8.º estabelece as regras observáveis em caso de modificação ou resolução do contrato.
 
-###### Artigo 9.º As Partes informarão o Secretário-Geral do Conselho da Europa da celebração do presente acordo e transmitir-lhe-ão o respectivo texto.
+Artigo 9.º As Partes informarão o Secretário-Geral do Conselho da Europa da celebração do presente acordo e transmitir-lhe-ão o respectivo texto.
 
 2.5 - Esquema de contrato de prestação de serviços ou fornecimentos entre autoridades locais fronteiriças (de tipo «direito público»).
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 73/1975, 1º Suplemento, Série I de 1975-03-27
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 474-(1) a 474-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07301/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-1975-638884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a986afc10fa7e371e635a7e3798b99169e6a5b1288738644ad6a1033350ccce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efe39272cf9373d5402cc97910ca60e65cdfbbfd42b4693863b9070966f2f406
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Eleição Legislativa
+- Lei Eleitoral
+- Multa
+- Parlamentar
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372636:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:11Z'
   warnings: []
   errors: []
 ---
@@ -99,30 +122,30 @@ Considerando o disposto no n.º 11 do artigo 1.º da Lei Constitucional n.º 3/7
 
 Nos termos do disposto na Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Salvo pena mais grave aplicável nos termos do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, ou da legislação penal, serão punidos com a pena de prisão maior de dois a oito anos e multa de 10000$00 a 100000$00 os agentes das infracções previstas naquele diploma, quando cometidas com fraude, uso de violência ou ameaça contra pessoas, arrombamento, escalamento ou chaves falsas ou quando, directa ou indirectamente, dificultem ou tornem impossível o funcionamento das assembleias de voto ou o apuramento de resultados eleitorais.
+Artigo 1.º Salvo pena mais grave aplicável nos termos do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, ou da legislação penal, serão punidos com a pena de prisão maior de dois a oito anos e multa de 10000$00 a 100000$00 os agentes das infracções previstas naquele diploma, quando cometidas com fraude, uso de violência ou ameaça contra pessoas, arrombamento, escalamento ou chaves falsas ou quando, directa ou indirectamente, dificultem ou tornem impossível o funcionamento das assembleias de voto ou o apuramento de resultados eleitorais.
 
-###### Art. 2.º Aquele que, publicamente e por qualquer forma, preconize ou instigue à prática dos crimes a que se refere o presente diploma será punido com prisão até dois anos e multa de 5000$00 a 50000$00.
+Art. 2.º Aquele que, publicamente e por qualquer forma, preconize ou instigue à prática dos crimes a que se refere o presente diploma será punido com prisão até dois anos e multa de 5000$00 a 50000$00.
 
-###### Art. 3.º - 1. Sem prejuízo do disposto no [Decreto-Lei n.º 744/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/744-1974-372636), de 27 de Dezembro, as forças armadas devem prender em flagrante delito e podem prender fora dele os agentes de infracções ao presente diploma ou à legislação eleitoral.
+Art. 3.º - 1. Sem prejuízo do disposto no [Decreto-Lei n.º 744/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/744-1974-372636), de 27 de Dezembro, as forças armadas devem prender em flagrante delito e podem prender fora dele os agentes de infracções ao presente diploma ou à legislação eleitoral.
 
 2. O regime disposto no número anterior é aplicável aos agentes de infracções previstas na legislação penal quando visem dificultar ou impedir o normal decurso do processo eleitoral.
 
-###### Art. 4.º - 1. As prisões efectuadas nos termos do artigo 3.º devem ser sancionadas no prazo de vinte e quatro horas pelo comandante ou director da unidade ou estabelecimento a cuja guarda os detidos sejam confiados.
+Art. 4.º - 1. As prisões efectuadas nos termos do artigo 3.º devem ser sancionadas no prazo de vinte e quatro horas pelo comandante ou director da unidade ou estabelecimento a cuja guarda os detidos sejam confiados.
 
 2. As forças armadas podem manter sob a sua guarda os presos pelo prazo máximo de trinta dias, independentemente de outras formalidades além da prevista no número anterior.
 
 3. Terminado o prazo referido no número anterior, os presos, acompanhados dos respectivos autos, serão entregues à autoridade civil competente para instrução preparatória, salvo se estiverem sujeitos ao foro militar.
 
-###### Art. 5.º Em relação aos agentes das infracções previstas neste diploma não é admissível a liberdade provisória sob caução.
+Art. 5.º Em relação aos agentes das infracções previstas neste diploma não é admissível a liberdade provisória sob caução.
 
-###### Art. 6.º Às infracções previstas no presente diploma é aplicável o disposto nos artigos 44.º a 49.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro.
+Art. 6.º Às infracções previstas no presente diploma é aplicável o disposto nos artigos 44.º a 49.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor e manterá a sua vigência até à entrada em funcionamento da Assembleia Constituinte.
+Art. 7.º Este diploma entra imediatamente em vigor e manterá a sua vigência até à entrada em funcionamento da Assembleia Constituinte.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 27 de Março de 1975.**
+Promulgado em 27 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

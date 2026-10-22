@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/03/05800/02650265.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47583-1967-503627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8340e296ca1b53db07ca2c5499c20b1d2690f1b10e2785ef08205de162cc1ec0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 840845068d5d77252ec9767e95233e10b28a1d6b214e8ee49a954c20295f12f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Fundo de Fomento de Exportação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:607335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:693642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:255402:por
+  label: "Revogado na data efectiva de extinção do Fundo de Fomento de Exportação, pelo DEC LEI.321/77.1977.08.06.MCT, DG.IS\
+    \ [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1977-255402
+  date: '1977-08-06'
+- type: repealed_by
+  target: pt:dre:607335:por
+  label: "Revogado na data a que se refere o art. 38º, pelo DEC LEI.115/82.1982.04.14.MFP, DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1982-607335
+  date: '1982-04-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:27Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +113,7 @@ Resulta, assim, a necessidade de o conselho administrativo do Fundo de Fomento d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O conselho administrativo do Fundo de Fomento de Exportação será composto pelos seguintes membros:
+Artigo 1.º O conselho administrativo do Fundo de Fomento de Exportação será composto pelos seguintes membros:
 
 Presidente;
 
@@ -111,7 +129,7 @@ Vogal representante do Ministério do Ultramar.
 
 § único. Os membros do conselho administrativo serão nomeados pelo Ministro da Economia, sob designação, quanto aos vogais, respectivamente dos Ministros das Finanças, dos Negócios Estrangeiros e do Ultramar.
 
-###### Art. 2.º O conselho geral do Fundo de Fomento de Exportação, sob a mesma presidência, será composto pelos seguintes membros:
+Art. 2.º O conselho geral do Fundo de Fomento de Exportação, sob a mesma presidência, será composto pelos seguintes membros:
 
 a) Presidente;
 
@@ -135,11 +153,11 @@ j) Três vogais de livre nomeação do Secretário de Estado do Comércio.
 
 § único. Quando a natureza dos assuntos o justificar, poderão ser convocados para as reuniões do conselho geral representantes dos organismos de coordenação económica e corporativos cujas actividades se relacionem com os principais produtos de exportação.
 
-###### Art. 3.º O vice-presidente coadjuvará o presidente no exercício das suas funções e substituí-lo-á nas faltas e impedimentos, correspondendo-lhe o vencimento referente à letra C.
+Art. 3.º O vice-presidente coadjuvará o presidente no exercício das suas funções e substituí-lo-á nas faltas e impedimentos, correspondendo-lhe o vencimento referente à letra C.
 
-###### Art. 4.º São revogados os artigos 4.º e 5.º do [Decreto-Lei n.º 45151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45151-1963-693642), de 22 de Julho de 1963.
+Art. 4.º São revogados os artigos 4.º e 5.º do [Decreto-Lei n.º 45151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45151-1963-693642), de 22 de Julho de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
 

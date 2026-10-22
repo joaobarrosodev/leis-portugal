@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46471-1965-292675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa4976c7579fb5f3163b2d5a98e79d3adae0ddc17b22abc37df55813fe3a7b39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ed42796452f4418fe48741862a19b4bd49a8f3c03f5002b6d5ddec635750239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- FMI
+relationships:
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:09Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +105,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Governo autorizado a dar o seu acordo ao aumento da quota de Portugal no Fundo Monetário Internacional de 60 milhões para 75 milhões de dólares dos Estados Unidos da América, do peso e toque em vigor em 1 de Julho de 1944.
+Artigo 1.º É o Governo autorizado a dar o seu acordo ao aumento da quota de Portugal no Fundo Monetário Internacional de 60 milhões para 75 milhões de dólares dos Estados Unidos da América, do peso e toque em vigor em 1 de Julho de 1944.
 
-###### Art. 2.º A importância que se encontrar representada pelos títulos de obrigação emitidos em conformidade com o n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, não poderá exceder nunca o quantitativo correspondente ao contravalor, em moeda nacional, da parte da referida quota de Portugal no Fundo Monetário Internacional realizável nesta moeda, menos as somas que, nos termos que estiverem acordados entre o Estado e o Banco de Portugal, este Banco tenha entregue ao mesmo Fundo, por conta e ordem do Estado, relativas à integração daquela parte da mencionada quota e de que o Banco de Portugal não se encontre reembolsado.
+Art. 2.º A importância que se encontrar representada pelos títulos de obrigação emitidos em conformidade com o n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, não poderá exceder nunca o quantitativo correspondente ao contravalor, em moeda nacional, da parte da referida quota de Portugal no Fundo Monetário Internacional realizável nesta moeda, menos as somas que, nos termos que estiverem acordados entre o Estado e o Banco de Portugal, este Banco tenha entregue ao mesmo Fundo, por conta e ordem do Estado, relativas à integração daquela parte da mencionada quota e de que o Banco de Portugal não se encontre reembolsado.
 
-###### Art. 3.º A autorização concedida ao Governo pelo n.º 2.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, abrangerá todos os encargos inerentes à realização da quota de Portugal no Fundo Monetário Internacional até ao seu novo valor de 75 milhões de dólares dos Estados Unidos da América, do peso e toque referidos no artigo 1.º, designadamente os relativos a juros e comissões.
+Art. 3.º A autorização concedida ao Governo pelo n.º 2.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, abrangerá todos os encargos inerentes à realização da quota de Portugal no Fundo Monetário Internacional até ao seu novo valor de 75 milhões de dólares dos Estados Unidos da América, do peso e toque referidos no artigo 1.º, designadamente os relativos a juros e comissões.
 
-###### Art. 4.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, na parte referente ao Fundo Monetário Internacional e com as alterações introduzidas pelo presente diploma, vigorará com relação à totalidade da quota do País, isto é, tanto quanto à quota inicial, como quanto ao aumento agora autorizado no artigo 1.º
+Art. 4.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, na parte referente ao Fundo Monetário Internacional e com as alterações introduzidas pelo presente diploma, vigorará com relação à totalidade da quota do País, isto é, tanto quanto à quota inicial, como quanto ao aumento agora autorizado no artigo 1.º
 
-###### Art. 5.º Este decreto-lei entra imediatamente em vigor e é aplicável a todo o território da República Portuguesa.
+Art. 5.º Este decreto-lei entra imediatamente em vigor e é aplicável a todo o território da República Portuguesa.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

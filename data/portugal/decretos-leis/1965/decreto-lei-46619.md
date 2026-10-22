@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/10/24400/14001401.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46619-1965-511205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f0a4f091a1e0577921b83e73abe54505d219a6e5373dd79d9af256a24410ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88febeda6f77bc4eed4bcb7e04545bdbba51ec9f7624d7b727e77a99eabb3775
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional contra a Poluição do MAR
+- Direito Marítimo
+- Mar Territorial
+- Poluição da água
+- Poluição das Costas
+- Poluição Marinha
+- Poluição pelos Navios
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:445373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274842:por
+  label: "Tornado extensivo às províncias ultramarinas pela PORT.23343.03.05.1968.MU, DG.IS [106] de 03.05.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23343-1968-274842
+  date: '1968-05-03'
+- type: cites
+  target: pt:dre:263968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:445373:por
+  label: "Revogado pelo DEC LEI.90/71.1971.03.22.MM, DG.IS [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1971-445373
+  date: '1971-03-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:04Z'
   warnings: []
   errors: []
 ---
@@ -96,28 +122,28 @@ Entre nós, o assunto encontra-se regulamentado pelo [Decreto n.º 14354](https:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É proibida a descarga de quaisquer produtos petrolíferos, ou de misturas que os contenham, no mar territorial português, bem como nos portos, docas, caldeiras, leitos dos rios, praias e margens.
+Artigo 1.º É proibida a descarga de quaisquer produtos petrolíferos, ou de misturas que os contenham, no mar territorial português, bem como nos portos, docas, caldeiras, leitos dos rios, praias e margens.
 
 § único. As autoridades marítimas, por sua iniciativa ou a pedido das autoridades sanitárias, tomarão as medidas adequadas para impedir que os capitães dos navios derramem águas e substâncias residuais.
 
-###### Art. 2.º É proibida aos navios nacionais com mais de 150 t de arqueação bruta a descarga de óleos persistentes (petróleo bruto, fuel-oil, óleo Diesel pesado e óleos de lubrificação), ou de misturas que os contenham, dentro de 100 milhas de distância da costa portuguesa do continente europeu e dentro de 50 milhas de distância das restantes costas portuguesas.
+Art. 2.º É proibida aos navios nacionais com mais de 150 t de arqueação bruta a descarga de óleos persistentes (petróleo bruto, fuel-oil, óleo Diesel pesado e óleos de lubrificação), ou de misturas que os contenham, dentro de 100 milhas de distância da costa portuguesa do continente europeu e dentro de 50 milhas de distância das restantes costas portuguesas.
 
-###### Art. 3.º É proibida aos navios nacionais com mais de 150 t de arqueação bruta a descarga de óleos persistentes, ou de misturas que os contenham, dentro das zonas proibidas constantes do anexo A da Convenção internacional para prevenção da poluição do mar pelos óleos, tal como foram definidas na Conferência de Londres de 1962, relativamente aos países que tenham ratificado a dita Convenção.
+Art. 3.º É proibida aos navios nacionais com mais de 150 t de arqueação bruta a descarga de óleos persistentes, ou de misturas que os contenham, dentro das zonas proibidas constantes do anexo A da Convenção internacional para prevenção da poluição do mar pelos óleos, tal como foram definidas na Conferência de Londres de 1962, relativamente aos países que tenham ratificado a dita Convenção.
 
-###### Art. 4.º Os navios que forem encontrados em infracção ao disposto no presente decreto-lei incorrem na multa de 20000$00 a 100000$00.
+Art. 4.º Os navios que forem encontrados em infracção ao disposto no presente decreto-lei incorrem na multa de 20000$00 a 100000$00.
 
 § único. São competentes para aplicar as multas a que alude o artigo anterior as autoridades marítimas e as sanitárias.
 
-###### Art. 5.º O presente decreto-lei não será aplicável a:
+Art. 5.º O presente decreto-lei não será aplicável a:
 
 a) Descargas de óleo ou misturas oleosas feitas por um navio para assegurar a sua própria segurança ou de outro navio, evitar danos ao navio ou à carga ou para salvar vidas humanas no mar;
 
 b) Fugas de óleo ou misturas oleosas resultantes de avaria ou rombo, desde que tenham sido adoptadas depois da ocorrência da avaria ou do rombo todas as precauções julgadas convenientes para impedir ou reduzir a fuga.
 
-###### Art. 6.º A fim de permitir aos armadores dos navios nacionais que adoptem as medidas necessárias ao cumprimento das presentes disposições, este decreto-lei entra em vigor em todo o território nacional doze meses após a sua publicação.
+Art. 6.º A fim de permitir aos armadores dos navios nacionais que adoptem as medidas necessárias ao cumprimento das presentes disposições, este decreto-lei entra em vigor em todo o território nacional doze meses após a sua publicação.
 
-###### Art. 7.º Com a entrada em vigor do presente decreto-lei ficam revogados o [Decreto n.º 14354](https://diariodarepublica.pt/dr/detalhe/decreto/14354-1927-677241), de 29 de Setembro de 1927, e o [Decreto n.º 14853](https://diariodarepublica.pt/dr/detalhe/decreto/14853-1928-263968), de 5 de Janeiro de 1928.
+Art. 7.º Com a entrada em vigor do presente decreto-lei ficam revogados o [Decreto n.º 14354](https://diariodarepublica.pt/dr/detalhe/decreto/14354-1927-677241), de 29 de Setembro de 1927, e o [Decreto n.º 14853](https://diariodarepublica.pt/dr/detalhe/decreto/14853-1928-263968), de 5 de Janeiro de 1928.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

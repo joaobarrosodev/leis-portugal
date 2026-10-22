@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1980-458236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6735e8104e0e8cfefe1317fc9f0fdb3b4d17e9c278e038c6899509a2f74fd5ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75611a76a4ebc71f0c4cf81b3ea9d2871ef51b38c90e0e1da50406e7bc7be67d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério das Finanças e do Plano
+- Serviços de Segurança
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:38Z'
   warnings: []
   errors: []
 ---
@@ -95,24 +97,24 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O serviço de vigilância e segurança das áreas do Ministério das Finanças e do Plano reservadas ao Ministro e Secretários de Estado e das instalações do Instituto de Informática do mesmo Ministério é da competência da Guarda Fiscal.
+Artigo 1.º O serviço de vigilância e segurança das áreas do Ministério das Finanças e do Plano reservadas ao Ministro e Secretários de Estado e das instalações do Instituto de Informática do mesmo Ministério é da competência da Guarda Fiscal.
 
-###### Art. 2.º - 1 - Junto do Ministério das Finanças e do Plano e do seu Instituto de Informática funcionarão postos da Guarda Fiscal com os efectivos destinados para o efeito e constantes do mapa geral da organização daquele corpo militar.
+Art. 2.º - 1 - Junto do Ministério das Finanças e do Plano e do seu Instituto de Informática funcionarão postos da Guarda Fiscal com os efectivos destinados para o efeito e constantes do mapa geral da organização daquele corpo militar.
 
 2 - A actuação destes postos processa-se de acordo com directivas, ordens, regulamentos e normas emanados pelos comandos competentes da Guarda Fiscal, em coordenação com o secretário-geral do Ministério das Finanças e do Plano e com o presidente da direcção do Instituto de Informática do Ministério das Finanças e do Plano.
 
-###### Art. 3.º O pessoal da Guarda Fiscal no exercício das funções que lhe são cometidas pelo presente diploma tem o carácter de agente da força pública e a resistência ou desobediência às suas ordens legítimas sujeita os delinquentes às penas que a lei estabelece para os que resistem ou desobedeçam aos mandados da autoridade.
+Art. 3.º O pessoal da Guarda Fiscal no exercício das funções que lhe são cometidas pelo presente diploma tem o carácter de agente da força pública e a resistência ou desobediência às suas ordens legítimas sujeita os delinquentes às penas que a lei estabelece para os que resistem ou desobedeçam aos mandados da autoridade.
 
-###### Art. 4.º - 1 - A Secretaria-Geral do Ministério das Finanças e do Plano e o Instituto de Informática do Ministério das Finanças e do Plano fornecerão instalações para o serviço da Guarda Fiscal, de acordo com as necessidades expressas pelo comando-geral deste corpo militar.
+Art. 4.º - 1 - A Secretaria-Geral do Ministério das Finanças e do Plano e o Instituto de Informática do Ministério das Finanças e do Plano fornecerão instalações para o serviço da Guarda Fiscal, de acordo com as necessidades expressas pelo comando-geral deste corpo militar.
 
 2 - As despesas com a manutenção dos postos serão suportadas pelo Ministério das Finanças e do Plano e pelo Instituto de Informática.
 
-###### Art. 5.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 10 de Novembro de 1980.**
+Promulgado em 10 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES**
+O Presidente da República, ANTÓNIO RAMALHO EANES

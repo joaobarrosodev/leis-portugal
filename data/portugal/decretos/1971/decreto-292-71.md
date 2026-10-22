@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/292-1971-643521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1692936638e5dc0c9294b51abe8e44721d6880c64f3a217fd819b5ca50cb17e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de95bed7d46c8b40e6522ec6fb1c6b78427b93d186f7e83af8113c05e5a55759
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:10Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +114,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Economia:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Economia:
 
 No capítulo 17.º:
 
@@ -98,43 +122,43 @@ Do artigo 311.º, n.º 1) «Força motriz» ... -5000$00
 
 Para o artigo 309.º, n.º 1) «Rendas de casa ...» ... +5000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 186441410$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 186441410$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º «Serviços da Secretaria de Estado da Informação e Turismo»:
+Capítulo 8.º «Serviços da Secretaria de Estado da Informação e Turismo»:
 
-###### Artigo 152.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916)» ... 17500000$00
+Artigo 152.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916)» ... 17500000$00
 
-### Capítulo 13.º «Defesa nacional»:
+Capítulo 13.º «Defesa nacional»:
 
-###### Artigo 342.º «Forças militares extraordinárias do ultramar» ... 45000000$00
+Artigo 342.º «Forças militares extraordinárias do ultramar» ... 45000000$00
 
-### Capítulo 14.º «III Plano de Fomento»:
+Capítulo 14.º «III Plano de Fomento»:
 
 Turismo
 
-###### Artigo 355.º, n.º 2) «Promoção turística» ... 5000000$00
+Artigo 355.º, n.º 2) «Promoção turística» ... 5000000$00
 
 ... 67500000$00
 
 Ministério das Finanças
 
-### Capítulo 23.º «Segurança pública»:
+Capítulo 23.º «Segurança pública»:
 
-###### Artigo 257.º «Reapetrechamento da Guarda Fiscal, ...» ... 551410$00
+Artigo 257.º «Reapetrechamento da Guarda Fiscal, ...» ... 551410$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 51.º «Construções e obras novas»:
+Artigo 51.º «Construções e obras novas»:
 
 N.º 2) «Construções e melhoramentos a efectuar por contrapartidas da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal»:
 
 Alínea 16 «Construção da central térmica do Hospital Escolar de S. João, no Porto» ... 10317000$00
 
-###### Artigo 53.º «Despesas de conservação e aproveitamento do material ...»:
+Artigo 53.º «Despesas de conservação e aproveitamento do material ...»:
 
 N.º 2) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reeembolsado»:
 
@@ -144,9 +168,9 @@ Alínea 8 «Casa da Moeda - Serviços administrativos» ... 500000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 4.º «Direcção-Geral do Ensino Liceal - Ensino liceal - Liceus»:
+Capítulo 4.º «Direcção-Geral do Ensino Liceal - Ensino liceal - Liceus»:
 
-###### Artigo 803.º, n.º 1) «Rendas de casa»:
+Artigo 803.º, n.º 1) «Rendas de casa»:
 
 Liceu de Carolina Michaëlis (Porto) ... 55000$00
 
@@ -154,19 +178,19 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 4.º «Gabinete de Planeamento»:
+Capítulo 4.º «Gabinete de Planeamento»:
 
-###### Artigo 48.º-A «Outros encargos»:
+Artigo 48.º-A «Outros encargos»:
 
 N.º 1) «Missões de estudo e representação em reuniões internacionais» ... 100000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Agrícolas - Estação de Cultura Mecânica»:
+Capítulo 5.º «Direcção-Geral dos Serviços Agrícolas - Estação de Cultura Mecânica»:
 
-###### Artigo 81.º, n.º 1) «Participações em cobranças ou receitas» ... 3500000$00
+Artigo 81.º, n.º 1) «Participações em cobranças ou receitas» ... 3500000$00
 
-### Capítulo 6.º «Direcção-Geral dos Serviços Pecuários - Serviços centrais»:
+Capítulo 6.º «Direcção-Geral dos Serviços Pecuários - Serviços centrais»:
 
-###### Artigo 85.º «Aquisições de utilização permanente»:
+Artigo 85.º «Aquisições de utilização permanente»:
 
 N.º 3) «Imóveis»:
 
@@ -176,49 +200,49 @@ Alínea 1 «Prédios urbanos» ... 918000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 66.º, n.º 1) «Subsídios a cofres ...», alínea 3 «Assistência à família ...» ... 103000000$00
+Artigo 66.º, n.º 1) «Subsídios a cofres ...», alínea 3 «Assistência à família ...» ... 103000000$00
 
 ... 186441410$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçameno Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçameno Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 17.º «Imposto do selo» ... 17500000$00
+Capítulo 2.º, artigo 17.º «Imposto do selo» ... 17500000$00
 
-### Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 10817000$00
+Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 10817000$00
 
-### Capítulo 7.º, artigo 202.º «Reposições não abatidas nos pagamentos» ... 551410$00
+Capítulo 7.º, artigo 202.º «Reposições não abatidas nos pagamentos» ... 551410$00
 
-### Capítulo 8.º, artigo 204.º «Instituto de Assistência à Família» ... 103000000$00
+Capítulo 8.º, artigo 204.º «Instituto de Assistência à Família» ... 103000000$00
 
-### Capítulo 8.º, artigo 253.º «Estação de Cultura Mecânica» ... 3500000$00
+Capítulo 8.º, artigo 253.º «Estação de Cultura Mecânica» ... 3500000$00
 
-### Capítulo 9.º, artigo 287.º «Produto da venda de títulos ou de empréstimos» ... 45000000$00
+Capítulo 9.º, artigo 287.º «Produto da venda de títulos ou de empréstimos» ... 45000000$00
 
 ... 180368410$00
 
 Ministério das Finanças
 
-### Capítulo 13.º, artigo 152.º, n.º 1) ... 5000000$00
+Capítulo 13.º, artigo 152.º, n.º 1) ... 5000000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º, artigo 23.º, n.º 3), alínea 6 ... 55000$00
+Capítulo 2.º, artigo 23.º, n.º 3), alínea 6 ... 55000$00
 
 Ministério da Economia
 
-### Capítulo 4.º, artigo 40.º, n.º 1) ... 100000$00
+Capítulo 4.º, artigo 40.º, n.º 1) ... 100000$00
 
-### Capítulo 6.º, artigo 82.º, n.º 1) ... 918000$00
+Capítulo 6.º, artigo 82.º, n.º 1) ... 918000$00
 
 ... 1018000$00
 
 ... 186441410$00
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Saúde e Assistência:
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Saúde e Assistência:
 
 A observação (a) aposta à dotação do capítulo 4.º, artigo 66.º, n.º 1), alínea 3, é alterada para:
 
@@ -228,8 +252,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 30 de Junho de 1970.**
+Promulgado em 30 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

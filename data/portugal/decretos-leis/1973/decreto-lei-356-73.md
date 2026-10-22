@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/07/16400/12291231.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1973-421409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3e1113164392cc0845dc981ef4bc998f6791b1dcf9a95213d0ed1fef5c7ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 564414b6b00e5554c761e4edee19608e3426cee738e076fd971941f1187156e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cofre do Tribunal de Contas
+- Criação de Serviços
+- Emolumento
+- Tribunal de Contas
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:444680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301409:por
+  label: "Alterado o art. 6º da tabela anexa, pelo DEC LEI.161/94.1994.06.04.MF, DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1994-301409
+  date: '1994-06-04'
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444680:por
+  label: "Revogado pelo DEC LEI.66/96.1996.05.31.MF DR.IS-A [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1996-444680
+  date: '1996-05-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:39Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +117,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Pelos serviços do Tribunal de Contas e sua Direcção-Geral são devidos os emolumentos fixados na tabela anexa ao presente decreto-lei e que dele faz parte integrante.
+Artigo 1.º - 1. Pelos serviços do Tribunal de Contas e sua Direcção-Geral são devidos os emolumentos fixados na tabela anexa ao presente decreto-lei e que dele faz parte integrante.
 
 2. Dos processos relativamente aos quais os serviços sejam prestados constará sempre se são ou não devidos emolumentos e qual o seu quantitativo.
 
-###### Art. 2.º - 1. As importâncias percebidas nos termos do artigo anterior serão entregues no Tesouro por meio de guia e escrituradas nas seguintes rubricas do orçamento das receitas do Estado:
+Art. 2.º - 1. As importâncias percebidas nos termos do artigo anterior serão entregues no Tesouro por meio de guia e escrituradas nas seguintes rubricas do orçamento das receitas do Estado:
 
 a) Impostos indirectos:
 
@@ -124,9 +143,9 @@ Cofre do Tribunal de Contas.
 
 3. A guia de entrega de emolumentos será processada em quintuplicado, devendo um dos exemplares ser enviado à Direcção-Geral do Tribunal de Contas no prazo de trinta dias após o seu pagamento.
 
-###### Art. 3.º É criado o Cofre do Tribunal de Contas, cuja administração competirá ao conselho administrativo do mesmo Tribunal e será exercida com base em orçamento superiormente aprovado.
+Art. 3.º É criado o Cofre do Tribunal de Contas, cuja administração competirá ao conselho administrativo do mesmo Tribunal e será exercida com base em orçamento superiormente aprovado.
 
-###### Art. 4.º - 1. Constituirão receitas do Cofre do Tribunal de Contas, como tal depositadas na Caixa Geral de Depósitos em conta especial:
+Art. 4.º - 1. Constituirão receitas do Cofre do Tribunal de Contas, como tal depositadas na Caixa Geral de Depósitos em conta especial:
 
 a) A importância que, nos termos do n.º 2 do artigo 2.º, deva ser escriturada na rubrica indicada na alínea c) do n.º 1 do mesmo artigo;
 
@@ -138,7 +157,7 @@ d) Quaisquer outras importâncias que lhe forem atribuídas por lei.
 
 2. O levantamento, das importâncias referidas no número anterior só poderá efectivar-se mediante cheque assinado por dois membros do conselho administrativo.
 
-###### Art. 5.º - 1. Constituem encargos do Cofre do Tribunal de Contas:
+Art. 5.º - 1. Constituem encargos do Cofre do Tribunal de Contas:
 
 a) As despesas derivadas de estudos e trabalhos conducentes à reorganização do Tribunal de Contas e da sua Direcção-Geral, à revisão das funções que lhe estão atribuídas e à formação e reactualização profissional dos seus funcionários;
 
@@ -150,19 +169,19 @@ d) Outras despesas que lhe sejam cometidas por despacho do Ministro das Finança
 
 2. Carece de prévio despacho ministerial a realização das despesas previstas na alínea a) do número anterior.
 
-###### Art. 6.º - 1. As alterações que no decurso de cada gerência houver necessidade de introduzir no orçamento referido no artigo 3.º serão autorizadas por despacho ministerial, sob proposta do conselho administrativo.
+Art. 6.º - 1. As alterações que no decurso de cada gerência houver necessidade de introduzir no orçamento referido no artigo 3.º serão autorizadas por despacho ministerial, sob proposta do conselho administrativo.
 
 2. Os saldos anuais do Cofre transitarão para as gerências seguintes.
 
-###### Art. 7.º O presente decreto-lei produzirá todos os seus efeitos a partir da entrada em vigor, salvo quanto aos emolumentos devidos pela liquidação e julgamento de contas, que serão os da tabela que vigorar no fim da gerência a que as mesmas respeitarem.
+Art. 7.º O presente decreto-lei produzirá todos os seus efeitos a partir da entrada em vigor, salvo quanto aos emolumentos devidos pela liquidação e julgamento de contas, que serão os da tabela que vigorar no fim da gerência a que as mesmas respeitarem.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 29 de Junho de 1973.**
+Promulgado em 29 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 EMOLUMENTOS DEVIDOS AO TRIBUNAL DE CONTAS
 
@@ -170,7 +189,7 @@ EMOLUMENTOS DEVIDOS AO TRIBUNAL DE CONTAS
 
 #### SECÇÃO I — Processo ordinário
 
-###### Artigo 1.º - 1. Por julgamento de contas, e salvo o disposto no número seguinte, sobre o valor da sua receita, própria ou resultante de participação, desde que superior a 1000$00:
+Artigo 1.º - 1. Por julgamento de contas, e salvo o disposto no número seguinte, sobre o valor da sua receita, própria ou resultante de participação, desde que superior a 1000$00:
 
 a) Contas dos corpos administrativos e dos órgãos locais de turismo ... 1/8%
 
@@ -196,17 +215,17 @@ d) Das obras sociais dos serviços do Estado;
 
 e) Dos serviços ou organismos extintos e cujos saldos hajam sido entregues nos cofres do Estado.
 
-###### Art. 2.º Por acórdão de extinção de fianças ou de levantamento de caução, 100$00.
+Art. 2.º Por acórdão de extinção de fianças ou de levantamento de caução, 100$00.
 
 § único. O pagamento deste emolumento deverá efectuar-se nos trinta dias seguintes à data da notificação do respectivo acórdão.
 
-###### Art. 3.º Termo de conhecimento de acórdão ou de despacho, 50$00.
+Art. 3.º Termo de conhecimento de acórdão ou de despacho, 50$00.
 
 § único. O pagamento deste emolumento far-se-á no acto da emissão do termo de conhecimento a que respeita.
 
 #### SECÇÃO II — Recursos e processos especiais
 
-###### Art. 4.º - 1. Interposição de recurso ou pedido de anulação, 100$00.
+Art. 4.º - 1. Interposição de recurso ou pedido de anulação, 100$00.
 
 2. Distribuição, termo de vista, apresentação, junção de documentos, devolução em instância inferior ou qualquer outro que não tenha emolumento especial, 10$00.
 
@@ -228,7 +247,7 @@ e) Dos serviços ou organismos extintos e cujos saldos hajam sido entregues nos 
 
 Serviço de «visto»
 
-###### Art. 5.º Pela concessão de «visto» em diplomas, despachos e contratos de pessoal, incluindo os de prestação de serviços, e, de uma maneira geral, em todos os actos de que resultem abonos ou remunerações mensais:
+Art. 5.º Pela concessão de «visto» em diplomas, despachos e contratos de pessoal, incluindo os de prestação de serviços, e, de uma maneira geral, em todos os actos de que resultem abonos ou remunerações mensais:
 
 Quantitativo indeterminado ou até 3000$00 ... 80$00
 
@@ -250,7 +269,7 @@ c) Os despachos referentes a abonos para falhas, subsídios de residência, desp
 
 § 2.º O emolumento a que se refere este artigo será pago mediante desconto a efectuar pela estação processadora no primeiro abono em que se comporte, resultante do acto a que o «visto» respeita.
 
-###### Art. 6.º Pela concessão de «visto» em quaisquer contratos não abrangidos pelo artigo anterior, sobre o seu valor certo ou provável, 1 (por mil).
+Art. 6.º Pela concessão de «visto» em quaisquer contratos não abrangidos pelo artigo anterior, sobre o seu valor certo ou provável, 1 (por mil).
 
 § 1.º Nos contratos de arrematação ou de locação o emolumento será calculado sobre o seu valor anual.
 
@@ -268,7 +287,7 @@ d) Que devam ser executados por estabelecimentos do Estado.
 
 ### CAPÍTULO III — Serviço de secretaria
 
-###### Art. 7.º - 1. Certidões de corrente com a Fazenda Nacional ou outras extraídas de qualquer processo ou documento, 50$00.
+Art. 7.º - 1. Certidões de corrente com a Fazenda Nacional ou outras extraídas de qualquer processo ou documento, 50$00.
 
 2. Carta de sentença a requerimento de partes, 100$00.
 
@@ -276,7 +295,7 @@ d) Que devam ser executados por estabelecimentos do Estado.
 
 ### CAPÍTULO IV — Preparos
 
-###### Art. 8.º Preparos a efectuar, em dinheiro, perante o chefe da secretaria:
+Art. 8.º Preparos a efectuar, em dinheiro, perante o chefe da secretaria:
 
 a) Para interposição de recurso, pedido de anulação ou aclaração de acórdão ... 500$00
 
@@ -288,4 +307,4 @@ c) Para certidões de corrente com a Fazenda Nacional ou outras ... 50$00
 
 § 2.º Nos casos previstos nas alíneas a) e b) deste artigo, se a importância dos emolumentos for inferior ao preparo, o remanescente reverterá para o Estado desde que não seja reclamado no prazo de trinta dias após a publicação do respectivo acórdão no Diário do Governo.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

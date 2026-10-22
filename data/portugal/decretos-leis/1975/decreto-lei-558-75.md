@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22700/15241524.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1975-312201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c0f36137d7426eb23bac140a46e03411219ca18f1f7bb04bc00f303b143a5ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaef29b19cb9f74c9e9c7e4b6fcde8469e4cf9fbccd1f1624807fc12e733e3a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Autarquia Local
+- Benefícios Fiscais
+- Construção Civil
+- Contrato de Desenvolvimento
+- Financiamento
+- Fundo de Fomento da Habitação
+- Habitação Social
+- Política de Habitação
 relationships:
 - type: amended_by
   target: pt:dre:430980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466074:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430980:por
+  label: "Revogado pelo DEC LEI.638/76.1976.07.29.MHUC, DR.IS [176] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/638-1976-430980
+  date: '1976-07-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:26Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +114,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 4.º e 17.º do [Decreto-Lei n.º 663/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1974-466074), de 26 de Novembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 4.º e 17.º do [Decreto-Lei n.º 663/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1974-466074), de 26 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 ...
 
@@ -112,7 +130,7 @@ b) A quota-parte do preço correspondente ao terreno e sua urbanização.
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 1. A empresa ou empresas interessadas na celebração de um contrato de desenvolvimento apresentarão ao Fundo de Fomento da Habitação as suas propostas, juntando-se-lhes os documentos definidores do projecto, mesmo na fase de estudo prévio, acompanhados de uma descrição geral das respectivas características construtivas e de uma estimativa dos preços de venda das habitações, programa ou medidas a cuja execução se obrigam, identificando precisamente a situação e propriedade dos terrenos em que a construção se processará, bem como o número de habitações e suas características ou ainda a natureza e especificação dos bens e serviços a desenvolver, e sugerindo, para o período de contrato que desejam, os objectivos e metas a estabelecer nos termos do artigo 5.º, com indicação dos benefícios pretendidos.
 
@@ -124,8 +142,8 @@ b) A quota-parte do preço correspondente ao terreno e sua urbanização.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - Henrique Manuel Araújo de Oliveira Sá.
 
-**Promulgado em 19 de Setembro de 1975.**
+Promulgado em 19 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48056-1967-400869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 873bee6344f779490e5eeb089c7c46994ea91f00d240eb279c781e18aa139854
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48a9950aca823b40e21038c25df0b9236edd47448bab3ba2364f39a6089ae75e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Integração de Trabalhadores
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:22Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +96,7 @@ Considerando que o serviço de transmissões é indispensável à execução rá
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É incluído no quadro orgânico da Guarda Nacional Republicana, anexo ao [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, o pessoal especializado a seguir indicado, oriundo da mesma corporação, atribuído ao Comando-Geral e unidades, como vai designado:
+Artigo 1.º É incluído no quadro orgânico da Guarda Nacional Republicana, anexo ao [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, o pessoal especializado a seguir indicado, oriundo da mesma corporação, atribuído ao Comando-Geral e unidades, como vai designado:
 
 Comando-Geral:
 
@@ -139,11 +146,11 @@ Segundo-sargento, radiomontador ... 1
 
 Primeiro-cabo, radiomontador ... 1
 
-###### Art. 2.º Pelo exercício de funções especiais a que alude o artigo anterior, competirão as gratificações mensais a fixar por portaria conjunta dos Ministros do Interior e das Finanças.
+Art. 2.º Pelo exercício de funções especiais a que alude o artigo anterior, competirão as gratificações mensais a fixar por portaria conjunta dos Ministros do Interior e das Finanças.
 
-###### Art. 3.º Os encargos resultantes da execução do presente decreto-lei serão suportados, a partir de 1968, pelas dotações inscritas no orçamento do Ministério do Interior destinadas a «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei».
+Art. 3.º Os encargos resultantes da execução do presente decreto-lei serão suportados, a partir de 1968, pelas dotações inscritas no orçamento do Ministério do Interior destinadas a «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei».
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

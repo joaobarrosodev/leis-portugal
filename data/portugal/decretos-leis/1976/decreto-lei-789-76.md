@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/25800/24892497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f9665d2530b4bdca757fe5f0eb1f7ce261c5cfa81e8951fe6086d343585f0cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8e8b78300ab360fdd79b1c862801578811b68aed3e8628272ea7b4811f83a51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:300009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139064:por
+  label: "Alterados os arts. 21º e 24º pelo DEC LEI.160/77.21.04.1977.PCM, DR.IS [93] de 21.04.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1977-139064
+  date: '1977-04-21'
+- type: amended_by
+  target: pt:dre:381321:por
+  label: "Alterado o quadro de pessoal, pela PORT.367/79.1979.07.26.PCM, DR.IS [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-1979-381321
+  date: '1979-07-26'
+- type: amended_by
+  target: pt:dre:615850:por
+  label: "Alterado o art. 26º, pelo DEC LEI.1-A/80.1980.01.11.PCM, DR.IS [9]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-a-1980-615850
+  date: '1980-01-11'
+- type: amended_by
+  target: pt:dre:469776:por
+  label: "Substituído o quadro de pessoal, na redacção da Port 376/79, de 26-Jul e do Dec Lei 1-A/80, de 11-Jan, pelo quadro\
+    \ anexo à PORT.547/80.1980.08.28.PCM, DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1980-469776
+  date: '1980-08-28'
+- type: amended_by
+  target: pt:dre:460472:por
+  label: "Alterado o quadro de pessoal, com as alterações constantes da Port 367/79, de 26 de Jul e do Dec Lei 1-A/80, de\
+    \ 11-Jan, pela PORT.695/80.1980.09.22.PCM, DR.IS [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/695-1980-460472
+  date: '1980-09-22'
+- type: amended_by
+  target: pt:dre:228863:por
+  label: "Aditado um nº 6 ao art. 4º, pelo DEC LEI.153/86.1986.06.20.PCM, DR.IS [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-1986-228863
+  date: '1986-06-20'
+- type: amended_by
+  target: pt:dre:222270:por
+  label: "Alargado o quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros, aprovada pelo Dec Lei\
+    \ 789/76, de 04-Nov na redacção dos arts 14.º e 21.º do presente diploma, pela PORT.606/86.17.10.1986.PCM, DR.IS [240]\
+    \ de 17.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1986-222270
+  date: '1986-10-17'
+- type: amended_by
+  target: pt:dre:198546:por
+  label: "Transferido património e competências, pelo DEC LEI.48/92.1992.04.07.PCM, DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1992-198546
+  date: '1992-04-07'
+- type: amended_by
+  target: pt:dre:198547:por
+  label: "Alterados os arts. 3º, 4º, 5º, 6º, 9º, 12º, 14º, 15º, 19º e aditado o art. 16º-A, pelo DEC LEI.49/92.1992.04.07.PCM,\
+    \ DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1992-198547
+  date: '1992-04-07'
+- type: cites
+  target: pt:dre:146574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415648:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406772:por
+  label: Rectificado pela DECL.DD8105.27.11.1976.PCM, DR.IS [278] de 27.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-406772
+  date: '1976-11-27'
+- type: repealed_by
+  target: pt:dre:250416:por
+  label: "Revogado o nº 4 do art. 37º, pelo DEC LEI.267/77.1977.07.02.PCM, DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1977-250416
+  date: '1977-07-02'
+- type: repealed_by
+  target: pt:dre:621683:por
+  label: "Revogado o nº 3 do art. 6º, pelo DEC LEI.286/92.1992.12.26.PCM, DR.IS-A [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1992-621683
+  date: '1992-12-26'
+- type: repealed_by
+  target: pt:dre:300009:por
+  label: "Revogado pelo DEC LEI.147/93.1993.05.03.PCM, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1993-300009
+  date: '1993-05-03'
 article_structure:
   article_count: 38
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:05Z'
   warnings: []
   errors: []
 ---
@@ -388,7 +477,9 @@ h) A guarda, conservação e administração dos edifícios e respectivos anexos
 
 i) A escrituração diária dos mapas relativos aos automóveis afectos à Secretaria-Geral.
 
-#### SECÇÃO V — Divisão de Organização e Pessoal
+#### SECÇÃO V
+
+##### Divisão de Organização e Pessoal
 
 ###### Artigo 17.º — (Constituição da Divisão)
 
@@ -582,14 +673,14 @@ presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 28 de Outubro de 1976.**
+Promulgado em 28 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do pessoal a que se refere o artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/25800/24892497.pdf))](https://files.diariodarepublica.pt/1s/1976/11/25800/24892497.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/25800/24892497.pdf).
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

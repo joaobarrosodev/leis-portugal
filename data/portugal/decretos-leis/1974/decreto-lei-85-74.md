@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1974-412642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7eeea34b7b2f3a59a24fcd6a415526b70d5d34fee927e3fea411a081329f48e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e39d5113bb3481eaba13d92a57a7e959eaf0dc1ae37e7e87460d28f8167e83b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Estado Maior do Exército
+- Forças Armadas
+- Ministério do Exército
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:03Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +98,9 @@ Considerando que se torna conveniente alargar o âmbito de competência da Secç
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 47.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, passa a ter a seguinte redacção:
+Artigo único. O artigo 47.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 47.º À Secção de Publicações do Estado-Maior do Exército compete:
+Art. 47.º À Secção de Publicações do Estado-Maior do Exército compete:
 
 a) Promover a instrução das especialidades gráficas do Exército;
 
@@ -101,10 +110,10 @@ c) Funcionar como órgão consultivo para os assuntos do âmbito da sua activida
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Alberto de Andrade e Silva.
 
-**Promulgado em 20 de Fevereiro de 1974.**
+Promulgado em 20 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

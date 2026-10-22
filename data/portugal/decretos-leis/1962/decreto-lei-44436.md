@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44436-1962-164599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79e92ed23337762d0a90e664be1bbe3bae0a5928ad2e6a4d75dc780581142f14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a610389d00eda7464ad21ff6339e3e01b838e376423c05c4e77535ffec2e673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Arborização
+- Baldio
+- Exploração Florestal
+- Montalegre
+- Ordenamento do Território
+- Regime Florestal
 relationships:
 - type: amended_by
   target: pt:dre:273638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273638:por
+  label: "Excluída uma parcela de terreno baldio, integrada no perímetro florestal da Serra do Gerês, do regime florestal\
+    \ parcial a que foi submetida pelo presente diploma, pelo DEC.48508.30.07.1968.MECO, DG.IS [179] de 30.07.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48508-1968-273638
+  date: '1968-07-30'
+- type: cites
+  target: pt:dre:365973:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:23Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +112,11 @@ Atendendo ao parecer favorável do Conselho Técnico dos Serviços Florestais;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São submetidos, por utilidade pública, ao regime florestal parcial obrigatório os baldios paroquiais das freguesias de Cabril, Outeiro e Pitões das Junias e municipais situados também nos limites daquelas freguesias.
+Artigo 1.º São submetidos, por utilidade pública, ao regime florestal parcial obrigatório os baldios paroquiais das freguesias de Cabril, Outeiro e Pitões das Junias e municipais situados também nos limites daquelas freguesias.
 
-###### Art. 2.º A arborização e exploração destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos entre este e os corpos administrativos será feita proporcionalmente às despesas custeadas pelo Estado e ao valor médio atribuído ao terreno, que foi arbitrado em 750$00 por hectare.
+Art. 2.º A arborização e exploração destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos entre este e os corpos administrativos será feita proporcionalmente às despesas custeadas pelo Estado e ao valor médio atribuído ao terreno, que foi arbitrado em 750$00 por hectare.
 
-###### Art. 3.º Aos povos limítrofes são reconhecidos, dentro deste perímetro florestal, sem prejuízo dos trabalhos de arborização e segundo as prescrições a estabelecer:
+Art. 3.º Aos povos limítrofes são reconhecidos, dentro deste perímetro florestal, sem prejuízo dos trabalhos de arborização e segundo as prescrições a estabelecer:
 
 a) Apascentação de gados;
 
@@ -115,7 +132,7 @@ f) As serventias indispensáveis ao trânsito de pessoas, veículos e gados nos 
 
 g) A colheita de medronho, conforme é uso na região.
 
-###### Art. 4.º São reconhecidos os legítimos direitos sobre terrenos, de propriedade particular, encravados nos baldios.
+Art. 4.º São reconhecidos os legítimos direitos sobre terrenos, de propriedade particular, encravados nos baldios.
 
 § único. Com vista a dar continuidade ao perímetro e à rectificação das suas extremas, deverão os serviços florestais promover a eliminação dos prédios particulares que existam encravados no perímetro, podendo para esse efeito:
 
@@ -123,10 +140,10 @@ a) Propor ao corpo administrativo respectivo a sua troca, que se realizará com 
 
 b) Adquiri-los por compra ou expropriação, só podendo esta efectuar-se quando se não chegue a acordo quanto à sua aquisição por compra ou troca.
 
-###### Art. 5.º Estes baldios ficam constituindo o perímetro florestal da serra do Gerês (Montalegre).
+Art. 5.º Estes baldios ficam constituindo o perímetro florestal da serra do Gerês (Montalegre).
 
-###### Art. 6.º Os trabalhos projectados e superiormente aprovados serão levados a efeito em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
+Art. 6.º Os trabalhos projectados e superiormente aprovados serão levados a efeito em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

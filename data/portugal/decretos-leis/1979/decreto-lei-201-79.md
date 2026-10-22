@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14900/14161417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1979-381147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bbab66b021642c70c5d9c39fe123298c2651f5729bf680d391400b712a6eba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eacf9b61a5f0203e579f7d47b884e76b2e6f69831589286a457fff236b0e594c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Banco de Fomento Nacional
+- Benefícios Fiscais
+- Caixa Geral de Depósitos
+- Definição de Competências
+- Empresa
+- Financiamento
+- Fundo de Fomento Industrial
+- Incentivos Fiscais
+- Política Industrial
+- Sociedade Financeira Portuguesa
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:50Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +125,14 @@ Esta urgência de reorganização faz-se sentir, com maior acuidade, no domínio
 
 O Governo decreta, nos termos da alínea c) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É alterado o n.º 1 do artigo 10.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, que fica com a seguinte redacção:
+Artigo único. É alterado o n.º 1 do artigo 10.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, que fica com a seguinte redacção:
 
-###### Art. 10.º - 1 - Os incentivos incluídos nas classes C e D serão concedidos relativamente às unidades que as empresas instalem em sectores considerados de indústrias prioritárias, ou que reorganizem ou reconvertam no âmbito de planos sectoriais aprovados pelo Ministro da Indústria e Tecnologia, e ainda relativamente às PME (industriais) que se reorganizem, nos termos do n.º 3 da base XXV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), em resultado de actos de concentração ou de acordos de cooperação entre empresas com a finalidade de robustecer a capacidade produtiva nacional e desenvolvidos pelo IAPMEI e aprovados pelo mesmo Ministro.
+Art. 10.º - 1 - Os incentivos incluídos nas classes C e D serão concedidos relativamente às unidades que as empresas instalem em sectores considerados de indústrias prioritárias, ou que reorganizem ou reconvertam no âmbito de planos sectoriais aprovados pelo Ministro da Indústria e Tecnologia, e ainda relativamente às PME (industriais) que se reorganizem, nos termos do n.º 3 da base XXV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), em resultado de actos de concentração ou de acordos de cooperação entre empresas com a finalidade de robustecer a capacidade produtiva nacional e desenvolvidos pelo IAPMEI e aprovados pelo mesmo Ministro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 18 de Junho de 1979.**
+Promulgado em 18 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

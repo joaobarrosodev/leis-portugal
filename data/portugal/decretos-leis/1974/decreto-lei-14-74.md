@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/01600/00650067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1974-408290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce02deadb6606451e445b7b61a25c3abe9fb8a7a47f6be9eda74d8161a7c9135
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59d56fab3769d92f7bd540dc905c5b0346c560aea005bc2b697212d1121b184f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior dos Laboratórios de Engenharia Civil
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Orgânica
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:567926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:294481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509792:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157053:por
+  label: "Revogados o art. 7º, os nºs 1, 2 e 3 do art. 8º, o art9º e o nº 1 do art. 11º pelo DEC LEI.519-D1/79.1979.12.29.MHOP\
+    \ DR.IS [299]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-d1-1979-157053
+  date: '1979-12-29'
+- type: repealed_by
+  target: pt:dre:567926:por
+  label: Revogado pelo(a) Decreto-Lei n.º 318/81 - Diário da República n.º 274/1981, Série I de 1981-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1981-567926
+  date: '1981-11-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:32Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +118,17 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho Superior dos Laboratórios de Engenharia Civil (C. S. L. E. C.), criado pelo [Decreto-Lei n.º 46370](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46370-1965-294481), de 7 de Junho de 1965, será presidido por uma individualidade de excepcional mérito científico no domínio da investigação na engenharia civil e terá como membros permanentes o director do Laboratório Nacional de Engenharia Civil (L. N. E. C.), o director do Laboratório de Engenharia de Angola, o director do Laboratório de Engenharia de Moçambique e um representante do Ministério do Ultramar, nomeado pelo respectivo Ministro, escolhido de entre individualidades que se tenham distinguido como investigadores no campo da engenharia civil ou que tenham larga experiência dos problemas da construção, adquirida no exercício de cargos públicos de relevo.
+Artigo 1.º O Conselho Superior dos Laboratórios de Engenharia Civil (C. S. L. E. C.), criado pelo [Decreto-Lei n.º 46370](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46370-1965-294481), de 7 de Junho de 1965, será presidido por uma individualidade de excepcional mérito científico no domínio da investigação na engenharia civil e terá como membros permanentes o director do Laboratório Nacional de Engenharia Civil (L. N. E. C.), o director do Laboratório de Engenharia de Angola, o director do Laboratório de Engenharia de Moçambique e um representante do Ministério do Ultramar, nomeado pelo respectivo Ministro, escolhido de entre individualidades que se tenham distinguido como investigadores no campo da engenharia civil ou que tenham larga experiência dos problemas da construção, adquirida no exercício de cargos públicos de relevo.
 
-###### Art. 2.º O C. S. L. E. C. fica integrado no Ministério das Obras Públicas, sendo os seus pareceres submetidos pelo presidente aos Ministros das Obras Públicas e do Ultramar, consoante, respectivamente, digam respeito à metrópole ou às províncias ultramarinas.
+Art. 2.º O C. S. L. E. C. fica integrado no Ministério das Obras Públicas, sendo os seus pareceres submetidos pelo presidente aos Ministros das Obras Públicas e do Ultramar, consoante, respectivamente, digam respeito à metrópole ou às províncias ultramarinas.
 
-###### Art. 3.º - 1. O quadro do pessoal do Conselho Superior dos Laboratórios de Engenharia Civil é o constante do mapa anexo ao presente decreto-lei e que dele faz parte integrante.
+Art. 3.º - 1. O quadro do pessoal do Conselho Superior dos Laboratórios de Engenharia Civil é o constante do mapa anexo ao presente decreto-lei e que dele faz parte integrante.
 
 2. O Conselho poderá contratar ou assalariar, mediante autorização do Ministro das Obras Públicas e dentro das verbas para esse fim inscritas no orçamento, o pessoal indispensável à execução de trabalhos que não possam ser realizados pelo pessoal do quadro.
 
 3. São extensivos ao pessoal do C. S. L. E. C. os benefícios das obras sociais e culturais do Laboratório Nacional de Engenharia Civil.
 
-###### Art. 4.º - 1. O presidente do C. S. L. E. C. é nomeado por despacho conjunto do Presidente do Conselho de Ministros e dos Ministros das Obras Públicas e do Ultramar.
+Art. 4.º - 1. O presidente do C. S. L. E. C. é nomeado por despacho conjunto do Presidente do Conselho de Ministros e dos Ministros das Obras Públicas e do Ultramar.
 
 2. A nomeação para o cargo de presidente do C. S. L. E. C. não dá lugar à interrupção do recebimento de diuturnidades a que o nomeado tenha anteriormente direito, nos termos do artigo 6.º do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967.
 
@@ -112,15 +136,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Nas suas ausências e impedimentos, o presidente será substituído pelo director do L. N. E. C.
 
-###### Art. 5.º - 1. O lugar de secretário será preenchido por escolha do Ministro das Obras Públicas entre indivíduos de reconhecida competência, habilitados com um curso de engenharia e licenciados há mais de quatro anos.
+Art. 5.º - 1. O lugar de secretário será preenchido por escolha do Ministro das Obras Públicas entre indivíduos de reconhecida competência, habilitados com um curso de engenharia e licenciados há mais de quatro anos.
 
 2. Após três anos de bom e efectivo serviço, o secretário pode passar a perceber o vencimento correspondente à letra E, mediante despacho do Ministro das Obras Públicas, sob proposta do presidente do C. S. L. E. C.
 
 3. O engenheiro-secretário tomará parte nas sessões do Conselho, sem voto.
 
-###### Art. 6.º O lugar de chefe de secção será preenchido por escolha do Ministro das Obras Públicas entre os primeiros-oficiais do Ministério que tenham os conhecimentos de administração e de línguas estrangeiras necessários ao desempenho das funções.
+Art. 6.º O lugar de chefe de secção será preenchido por escolha do Ministro das Obras Públicas entre os primeiros-oficiais do Ministério que tenham os conhecimentos de administração e de línguas estrangeiras necessários ao desempenho das funções.
 
-###### Art. 7.º - 1. É criado o Conselho Consultivo do Laboratório Nacional de Engenharia Civil, que tem por fim aconselhar o Laboratório e apreciar a sua actividade, tendo em vista garantir, por um lado, o adequado desenvolvimento das acções de investigação e conexas destinadas a apoiar a indústria da construção e, por outro lado, a mais eficiente utilização dos meios disponíveis.
+Art. 7.º - 1. É criado o Conselho Consultivo do Laboratório Nacional de Engenharia Civil, que tem por fim aconselhar o Laboratório e apreciar a sua actividade, tendo em vista garantir, por um lado, o adequado desenvolvimento das acções de investigação e conexas destinadas a apoiar a indústria da construção e, por outro lado, a mais eficiente utilização dos meios disponíveis.
 
 2. Constituem, em especial, atribuições do Conselho Consultivo:
 
@@ -132,7 +156,7 @@ c) Dar parecer sobre os relatórios da actividade respeitante aos planos a que s
 
 d) Dar parecer sobre problemas postos pelo Ministro das Obras Públicas, dentro do âmbito de acção do Conselho.
 
-###### Art. 8.º - 1. O Conselho Consultivo do L. N. E. C. será constituído por:
+Art. 8.º - 1. O Conselho Consultivo do L. N. E. C. será constituído por:
 
 a) O presidente do Conselho Superior dos Laboratórios de Engenharia Civil, que servirá de presidente;
 
@@ -154,7 +178,7 @@ g) Até dez individualidades escolhidas pela sua competência e experiência.
 
 4. Nas suas ausências e impedimentos, o presidente do Conselho Consultivo será substituído pelo director do Laboratório.
 
-###### Art. 9.º - 1. O presidente pode constituir entre os vogais do Conselho comissões para se ocuparem de assuntos especializados.
+Art. 9.º - 1. O presidente pode constituir entre os vogais do Conselho comissões para se ocuparem de assuntos especializados.
 
 2. Ao Conselho e às comissões a que se refere o número anterior poderão ser agregadas individualidades, incluídos funcionários do Laboratório, quando a natureza dos assuntos a tratar o aconselhe.
 
@@ -166,29 +190,29 @@ g) Até dez individualidades escolhidas pela sua competência e experiência.
 
 6. O secretariado do Conselho Consultivo será assegurado pelo secretariado do C. S L. E. C.
 
-###### Art. 10.º O presidente do Conselho Consultivo do L. N. E. C. poderá assumir superiormente a orientação científica de certas actividades do Laboratório, mediante despacho do Ministro das Obras Públicas, ouvido o respectivo director.
+Art. 10.º O presidente do Conselho Consultivo do L. N. E. C. poderá assumir superiormente a orientação científica de certas actividades do Laboratório, mediante despacho do Ministro das Obras Públicas, ouvido o respectivo director.
 
-###### Art. 11.º - 1. Os membros do Conselho Consultivo e das comissões, exceptuados o presidente e os funcionários do L. N. E. C. e incluídos os membros agregados a que se refere o n.º 2 do artigo 9.º, terão direito, por cada sessão em que participarem, a senha de presença do valor que for fixado pelo Ministro das Obras Públicas, ouvido o Ministro das Finanças, e, bem assim, ao abono das despesas de transportes e das ajudas de custo atribuídas aos funcionários da letra B.
+Art. 11.º - 1. Os membros do Conselho Consultivo e das comissões, exceptuados o presidente e os funcionários do L. N. E. C. e incluídos os membros agregados a que se refere o n.º 2 do artigo 9.º, terão direito, por cada sessão em que participarem, a senha de presença do valor que for fixado pelo Ministro das Obras Públicas, ouvido o Ministro das Finanças, e, bem assim, ao abono das despesas de transportes e das ajudas de custo atribuídas aos funcionários da letra B.
 
 Os abonos referidos no número anterior serão liquidados por verbas do L. N. E. C.
 
-###### Art. 12.º O Laboratório Nacional de Engenharia Civil proporcionará instalações adequadas ao funcionamento do seu Conselho Consultivo e do Conselho Superior dos Laboratórios de Engenharia Civil.
+Art. 12.º O Laboratório Nacional de Engenharia Civil proporcionará instalações adequadas ao funcionamento do seu Conselho Consultivo e do Conselho Superior dos Laboratórios de Engenharia Civil.
 
-###### Art. 13.º - 1. Os encargos a que o presente diploma der lugar, exceptuados os respeitantes ao n.º 5 do artigo 9.º e ao artigo 11.º, serão satisfeitos através de dotação a inscrever no orçamento do Ministério das Obras Públicas.
+Art. 13.º - 1. Os encargos a que o presente diploma der lugar, exceptuados os respeitantes ao n.º 5 do artigo 9.º e ao artigo 11.º, serão satisfeitos através de dotação a inscrever no orçamento do Ministério das Obras Públicas.
 
 2. Enquanto não se concretizam as necessárias providências de carácter orçamental, todos os encargos serão suportados pelo Laboratório Nacional de Engenharia Civil.
 
-###### Art. 14.º São revogados os artigos 3.º, 5.º e 7.º do [Decreto-Lei n.º 46370](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46370-1965-294481), de 7 de Junho de 1965.
+Art. 14.º São revogados os artigos 3.º, 5.º e 7.º do [Decreto-Lei n.º 46370](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46370-1965-294481), de 7 de Junho de 1965.
 
-###### Art. 15.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1974.
+Art. 15.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Janeiro de 1974.**
+Promulgado em 11 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.
 
@@ -196,6 +220,6 @@ Para ser presente à Assembleia Nacional.
 
 Quadro do pessoal do Conselho Superior dos Laboratórios de Engenharia Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/01600/00650067.pdf))](https://files.diariodarepublica.pt/1s/1974/01/01600/00650067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/01600/00650067.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

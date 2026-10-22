@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 148/1975, 4º Suplemento, Série I de 1975-06-30
   number: '148'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 908-(81) a 908-(83)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14804/00810083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-j-1975-234087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c64543f5000e1e198468a0ff3163eb1f555295a6ba9872226b1edab11816d7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f731fa6ac0515fe92b803a2d5b779c2ca3121d46676fab7fa30ad7bd23c2e6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças
+- Orçamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:13Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +105,22 @@ Com fundamento no n.º 2 do artigo 10.º do [Decreto-Lei n.º 294/75](https://di
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 806896100$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 806896100$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/14804/00810083.pdf))](https://files.diariodarepublica.pt/1s/1975/06/14804/00810083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14804/00810083.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior é efectuada a seguinte alteração ao Orçamento Geral do Estado em vigor, representativa de aumento de previsão da seguinte receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior é efectuada a seguinte alteração ao Orçamento Geral do Estado em vigor, representativa de aumento de previsão da seguinte receita:
 
 Orçamento das Receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 2.º, grupo 3, artigo 23.º «Impostos sobre a venda de automóveis» ... 806896100$00
+Capítulo 2.º, grupo 3, artigo 23.º «Impostos sobre a venda de automóveis» ... 806896100$00
 
 Vasco dos Santos Gonçalves - José Joaquim Fragoso.
 
-**Promulgado em 30 de Junho de 1975.**
+Promulgado em 30 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

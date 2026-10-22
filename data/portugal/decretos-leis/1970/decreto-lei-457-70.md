@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1970-148463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 208bf0bfe41a2df17ec0cfd6f718aa1c6af8708f1a324b4781141adeecc65103
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f29c1499578477aecf3456439bf28e06911d1637ae15daa4b9c65e3d6790ab7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Beja
+- Câmara Municipal
+- Cessão de Imóveis
+- Direcção Geral da Fazenda Pública
+- Secretaria de Estado do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:239018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:22Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +114,7 @@ Tendo a Câmara Municipal de Beja declarado interessar-lhe adquirir não só os 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a Secretaria de Estado do Tesouro, pela Direcção-Geral da Fazenda Pública, a fazer a cessão definitiva à Câmara Municipal de Beja:
+Artigo 1.º - 1. É autorizada a Secretaria de Estado do Tesouro, pela Direcção-Geral da Fazenda Pública, a fazer a cessão definitiva à Câmara Municipal de Beja:
 
 a) Dos prédios por ela cedidos e não ocupados;
 
@@ -113,17 +126,17 @@ todos descritos no anexo 1 e assinalados no desenho, anexo 2, deste decreto-lei.
 
 2. Os valores a considerar de todos os prédios e partes de prédios referidos nas alíneas a), b) e c) do corpo deste artigo serão os pagos pela respectiva aquisição e o seu montante será deduzido da importância global da indemnização que, por acordo, foi atribuída à Câmara Municipal de Beja como compensação de prejuízos de natureza económica e administrativa por ela sofridos, indemnização essa calculada com base na revalorização feita e por ela aceite dos terrenos que cedeu e foram ocupados pela 1.ª fase do bairro. O saldo restante ser-lhe-á liquidado em numerário.
 
-###### Art. 2.º - 1. Poderá a Direcção-Geral da Fazenda Pública delegar na Comissão Administrativa das Novas Instalações para as Forças Armadas a outorga nos actos que derivem da aplicação do presente decreto-lei, e bem assim a promoção de todas as diligências que para o efeito se tornem necessárias.
+Art. 2.º - 1. Poderá a Direcção-Geral da Fazenda Pública delegar na Comissão Administrativa das Novas Instalações para as Forças Armadas a outorga nos actos que derivem da aplicação do presente decreto-lei, e bem assim a promoção de todas as diligências que para o efeito se tornem necessárias.
 
 2. A cessão efectivar-se-á por meio de auto, o qual constituirá título bastante para a consecução dos respectivos registos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Setembro de 1970.**
+Promulgado em 16 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO 1 — Descrição das parcelas de terreno a ceder à Câmara Municipal de Beja
 
@@ -229,6 +242,6 @@ Toda a área que resta, com 37810 m2, e que actualmente constitui todo o prédio
 
 Área de 1396 m2, com configuração triangular, toda a que actualmente constitui o prédio situado a Santo André, freguesia de Santiago Maior, da cidade de Beja, descrito na Conservatória do Registo Predial de Beja sob o n.º 22846, a fl. 82 V.º do livro B-62, registado a favor do Estado pela inscrição n.º 32690, a fl. 130 V.º do livro G-43, omisso na matriz, confrontando, nesta data, pelo norte, vértice do triângulo, com terrenos da Câmara Municipal de Beja e do Estado, pelo sul com Estrada da Lobeira, pelo nascente com terrenos da Câmara Municipal de Beja e pelo poente com terrenos do Estado.
 
-## ANEXO 2 — [([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23000/14091413.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23000/14091413.pdf)
+## ANEXO 2 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23000/14091413.pdf)
 
 Presidência do Conselho e Ministério das Finanças, 16 de Setembro de 1970. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, João Augusto Dias Rosas.

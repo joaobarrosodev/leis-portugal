@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 121/1975, 1º Suplemento, Série I de 1975-05-26
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 730-(8) a 730-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/12101/00080009.pdf
 entry_into_force_dates: []
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-b-1975-526219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6fe8c899723342de11c62278b7aeb9875c3303a762d57008aa26414660c6ea1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27f16612d60178c2da003a63b331847445ca374fcd35bc05791ec62f2627e761
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Beja
+- Braga
+- Bragança
+- Castelo Branco
+- Coimbra
+- Criação de Serviços
+- Denominação de Instituição
+- Estabelecimento de Ensino
+- Évora
+- Extinção de Serviços
+- Faro
+- Guarda
+- Leiria
+- Lisboa
+- Ponta Delgada
+- Portalegre
+- Porto
+- Santarém
+- Setúbal
+- Viana do Castelo
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:252253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252253:por
+  label: "Determinada a transição para a Escola Secundária de Vila do Conde, criada no presente diploma, da oficina de rendas\
+    \ de Vila do Conde, na dependência da Escola Industrial de Aurélia de Sousa, no Porto, a que se refere a al. b) do art.\
+    \ 14º do Dec Lei 37028 de 25-Ago de 1948, pelo DEC LEI.193/77.13.05.1977.MEIC, DR.IS [111] de 13.05.1977 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1977-252253
+  date: '1977-05-13'
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526218:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:389794:por
+  label: "Rectificado, o n.º 2 do artigo 2.º e republicado, e o n.º 2 do artigo 6.º, pela RECT.DD276.04.06.1975.PCM, DG.IS\
+    \ [128]3ºSupl de 04.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-389794
+  date: '1975-06-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:51Z'
   warnings: []
   errors: []
 ---
@@ -102,51 +146,51 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São criadas escolas secundárias nas localidades indicadas no mapa anexo ao presente diploma.
+Artigo 1.º - 1. São criadas escolas secundárias nas localidades indicadas no mapa anexo ao presente diploma.
 
 2. As escolas secundárias serão criadas de raiz em localidades onde até agora não existia o ensino secundário oficial ou resultarão da transformação de estabelecimentos ou secções dos ensinos liceal e técnico secundário já existentes.
 
-###### Art. 2.º - 1. No prazo de trinta dias, a contar da publicação do presente diploma, os Ministros das Finanças e da Educação e Cultura definirão em portaria a constituição dos quadros do pessoal docente, técnico, administrativo e auxiliar das escolas secundárias e as regras de provimento dos titulares dos lugares dos quadros dos estabelecimentos agora transformados, a situação do respectivo pessoal provisório ou eventual, bem como a possível extensão ou alteração de quadros já existentes.
+Art. 2.º - 1. No prazo de trinta dias, a contar da publicação do presente diploma, os Ministros das Finanças e da Educação e Cultura definirão em portaria a constituição dos quadros do pessoal docente, técnico, administrativo e auxiliar das escolas secundárias e as regras de provimento dos titulares dos lugares dos quadros dos estabelecimentos agora transformados, a situação do respectivo pessoal provisório ou eventual, bem como a possível extensão ou alteração de quadros já existentes.
 
 2. Na portaria referida no número anterior serão igualmente definidas as habilitações próprias para o magistério das escolas secundárias, bem como as respectivas regras de recrutamento e de provimento e ainda as regras de transição para os quadros das escolas secundárias, do pessoal administrativo e auxiliar dos estabelecimentos de ensino particular agora extintos pela sua criação.
 
 3. Sempre que a especificidade dos cursos ou actividades a realizar em escolas secundárias exijam para a sua regência profissionais de que os quadros não dispõem, poderão ser estabelecidas normas especiais de contratação, segundo regime a definir em portaria conjunta dos Ministros das Finanças e da Educação e Cultura.
 
-###### Art. 3.º - 1. O Ministro da Educação e Cultura determinará, mediante portaria, os cursos que serão ministrados em cada escola secundária, bem como os respectivos planos de estudos e programas, que, neste último caso, incluirão para vigorar já no ano lectivo de 1975-1976 os das disciplinas comuns aos ensinos liceal e técnico secundário que for julgado oportuno unificar.
+Art. 3.º - 1. O Ministro da Educação e Cultura determinará, mediante portaria, os cursos que serão ministrados em cada escola secundária, bem como os respectivos planos de estudos e programas, que, neste último caso, incluirão para vigorar já no ano lectivo de 1975-1976 os das disciplinas comuns aos ensinos liceal e técnico secundário que for julgado oportuno unificar.
 
 2. As escolas secundárias poderão ainda ser autorizadas a ministrar outros cursos não incluídos no esquema geral do ensino, promover ou colaborar na realização de actividades de reconversão, animação ou extensão culturais ou profissionais de verdadeiro interesse no desenvolvimento da região onde estão situadas.
 
-###### Art. 4.º A criação de escolas secundárias, bem com todas as alterações nos seus quadros privativos, dependem de portaria do Ministro da Educação e Cultura e de portaria conjunta com o Ministro das Finanças, sempre que envolvam aumento de encargos.
+Art. 4.º A criação de escolas secundárias, bem com todas as alterações nos seus quadros privativos, dependem de portaria do Ministro da Educação e Cultura e de portaria conjunta com o Ministro das Finanças, sempre que envolvam aumento de encargos.
 
-###### Art. 5.º - 1. As escolas secundárias serão designadas pelo nome da localidade em que funcionam.
+Art. 5.º - 1. As escolas secundárias serão designadas pelo nome da localidade em que funcionam.
 
 2. Se na mesma localidade existirem duas ou mais escolas secundárias, cada uma delas será designada pelo nome do patrono que lhe for atribuído.
 
-###### Art. 6.º - 1. A superintendência pedagógica, administrativa e disciplinar de cada escola secundária, mesmo que funcionando em diversas instalações, é exercida nos termos da legislação em vigor.
+Art. 6.º - 1. A superintendência pedagógica, administrativa e disciplinar de cada escola secundária, mesmo que funcionando em diversas instalações, é exercida nos termos da legislação em vigor.
 
 2. Sem prejuízo dos ajustamentos e reformulações que a implantação do novo sistema educativo vier a determinar e mediante audição prévia dos estabelecimentos interessados, o Ministro da Educação e Cultura publicará em portaria, no prazo de cento e vinte dias, o regulamento das escolas secundárias.
 
-###### Art. 7.º - 1. Os estabelecimentos de ensino secundário ou secções existentes nas localidades mencionadas no mapa anexo ao presente diploma são extintos, à excepção dos Liceus Nacionais de Aveiro, Cascais e Setúbal e das Escolas Industriais e Comerciais de Aveiro, Caldas da Rainha, Setúbal e Vila Franca de Xira.
+Art. 7.º - 1. Os estabelecimentos de ensino secundário ou secções existentes nas localidades mencionadas no mapa anexo ao presente diploma são extintos, à excepção dos Liceus Nacionais de Aveiro, Cascais e Setúbal e das Escolas Industriais e Comerciais de Aveiro, Caldas da Rainha, Setúbal e Vila Franca de Xira.
 
 2. Ficam afectos às escolas secundárias criadas pelo presente diploma as instalações e o equipamento dos estabelecimentos e secções referidos na primeira parte do número anterior.
 
-###### Art. 8.º Nos três anos subsequentes à entrada em vigor do presente diploma, o Ministro da Educação e Cultura tomará por meio de portarias ou despachos as providências necessárias para adaptar o regime das escolas secundárias à implantação da reforma do ensino.
+Art. 8.º Nos três anos subsequentes à entrada em vigor do presente diploma, o Ministro da Educação e Cultura tomará por meio de portarias ou despachos as providências necessárias para adaptar o regime das escolas secundárias à implantação da reforma do ensino.
 
-###### Art. 9.º Ao pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino técnico, agora transformados em escolas secundárias, são aplicáveis todas as disposições do [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), de 26 de Maio, que não contrariem o presente diploma.
+Art. 9.º Ao pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino técnico, agora transformados em escolas secundárias, são aplicáveis todas as disposições do [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), de 26 de Maio, que não contrariem o presente diploma.
 
-###### Art. 10.º As dúvidas ou casos omissos que se suscitarem na execução do presente diploma serão resolvidos por despacho do Ministro da Educação e Cultura desde que não envolvam aumento de encargos, caso em que será necessário despacho conjunto dos Ministros das Finanças e da Educação e Cultura.
+Art. 10.º As dúvidas ou casos omissos que se suscitarem na execução do presente diploma serão resolvidos por despacho do Ministro da Educação e Cultura desde que não envolvam aumento de encargos, caso em que será necessário despacho conjunto dos Ministros das Finanças e da Educação e Cultura.
 
-###### Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados, no presente ano económico, por verbas inscritas no Orçamento Geral do Estado, expressamente destinadas ao funcionamento das escolas secundárias ou, no caso das secções agora transformadas, por verbas inicialmente inscritas no orçamento dos estabelecimentos de que dependiam.
+Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados, no presente ano económico, por verbas inscritas no Orçamento Geral do Estado, expressamente destinadas ao funcionamento das escolas secundárias ou, no caso das secções agora transformadas, por verbas inicialmente inscritas no orçamento dos estabelecimentos de que dependiam.
 
-###### Art. 12.º O presente diploma entra imediatamente em vigor.
+Art. 12.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - Mário Luís da Silva Murteira - José Emílio da Silva.
 
-**Promulgado em 23 de Maio de 1975.**
+Promulgado em 23 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 260-B/75, de 26 de Maio
 
@@ -228,4 +272,4 @@ Distrito de Ponta Delgada:
 
 Ribeira Grande.
 
-**O Ministro da Educação e Cultura, José Emílio da Silva.**
+O Ministro da Educação e Cultura, José Emílio da Silva.

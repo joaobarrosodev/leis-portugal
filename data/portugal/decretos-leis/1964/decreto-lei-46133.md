@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46133-1964-554168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96cf788836e2e11723395269cebe6270f5b972640591a8f8686c0ca91aaec8c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9b51e34561bda0a370bd6959540e1ab1c11d1f1b23042a6b47e4a1c8e0cf3d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Curso
+- Instituto de Altos Estudos Militares
+- Militar
+- Pessoal Docente
+- Plano de Estudos
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:151101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:44Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +110,9 @@ Verificando-se, no entanto, não convir alterar o número de professores efectiv
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 6.º, 9.º, 12.º, 14.º e 15.º do [Decreto-Lei n.º 39941](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39941-1954-680824), de 25 de Novembro de 1954, passam a ter a seguinte redacção:
+Artigo único. Os artigos 6.º, 9.º, 12.º, 14.º e 15.º do [Decreto-Lei n.º 39941](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39941-1954-680824), de 25 de Novembro de 1954, passam a ter a seguinte redacção:
 
-###### Art. 6.º O corpo docente dos cursos de estado-maior será constituído pelo director, coronel do corpo de estado-maior, e por doze professores efectivos, oficiais superiores ou capitães do corpo de estado-maior, ou habilitados com o curso complementar de estado-maior, dos quais oito para o ensino das matérias do 1.º grupo e quatro para as do 2.º
+Art. 6.º O corpo docente dos cursos de estado-maior será constituído pelo director, coronel do corpo de estado-maior, e por doze professores efectivos, oficiais superiores ou capitães do corpo de estado-maior, ou habilitados com o curso complementar de estado-maior, dos quais oito para o ensino das matérias do 1.º grupo e quatro para as do 2.º
 
 No número de professores do 1.º grupo deverá estar sempre incluído um de aeronáutica, com o curso complementar de estado-maior, e outro de marinha, também devidamente habilitado.
 
@@ -117,7 +136,7 @@ A nomeação destes professores faz-se por períodos prorrogáveis de duração 
 
 ...
 
-###### Art. 9.º A nomeação de professores interinos e eventuais é feita pelo Ministro do Exército, mediante proposta fundamentada do conselho de instrução e ouvido o director do Instituto de Altos Estudos Militares e o chefe do Estado-Maior do Exército.
+Art. 9.º A nomeação de professores interinos e eventuais é feita pelo Ministro do Exército, mediante proposta fundamentada do conselho de instrução e ouvido o director do Instituto de Altos Estudos Militares e o chefe do Estado-Maior do Exército.
 
 § 1.º A nomeação de professores interinos oficiais de marinha e de aeronáutica é feita pelos Ministros do Exército e da Marinha e Secretário de Estado da Aeronáutica, conforme os casos, nas condições expressas no corpo deste artigo.
 
@@ -125,7 +144,7 @@ A nomeação destes professores faz-se por períodos prorrogáveis de duração 
 
 ...
 
-###### Art. 12.º Os professores efectivos dos cursos de estado-maior são exonerados:
+Art. 12.º Os professores efectivos dos cursos de estado-maior são exonerados:
 
 a) Quando, terminado o período de nomeação provisória, esta não for tornada definitiva;
 
@@ -141,13 +160,13 @@ Em caso algum poderá ser excedido o total de doze anos no exercício efectivo d
 
 ...
 
-###### Art. 14.º O director e os professores efectivos, interinos e eventuais dos cursos de estado-maior têm direito às gratificações-base fixadas no [Decreto-Lei n.º 29318](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29318-1938-151101), de 30 de Dezembro de 1938, para os professores do Instituto de Altos Estudos Militares.
+Art. 14.º O director e os professores efectivos, interinos e eventuais dos cursos de estado-maior têm direito às gratificações-base fixadas no [Decreto-Lei n.º 29318](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29318-1938-151101), de 30 de Dezembro de 1938, para os professores do Instituto de Altos Estudos Militares.
 
 Os instrutores de equitação, de condução de viaturas automóveis e de educação física têm direito às gratificações-base que lhes são fixadas no mesmo decreto-lei. As remunerações a atribuir aos professores contratados serão fixadas por portaria assinada pelos Ministros das Finanças e do Exército.
 
-###### Art. 15.º Os cursos de estado-maior funcionam sob a direcção pedagógica de um conselho de instrução, constituído pelos professores efectivos, interinos e eventuais, sob a presidência do respectivo director.
+Art. 15.º Os cursos de estado-maior funcionam sob a direcção pedagógica de um conselho de instrução, constituído pelos professores efectivos, interinos e eventuais, sob a presidência do respectivo director.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

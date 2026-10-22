@@ -47,40 +47,197 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ef89383062cd200b1a82ec5ce41abd77795084c1cbc9f36da5fe341e1b1e1d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b30e0854ce4aa89e87b85a4f951cf4e787c9ed37a4dbfee05444c325c31ff5db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Financial de Portugal no RIO de Janeiro
+- Caixa Geral de Aposentações
+- Caixa Geral de Depósitos
+- Instituição de Crédito
+- Montepio dos Servidores do Estado
+- Orgânica
+- Política de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:613684:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:414458:por
+  label: "Alterada a redacção dos arts. 12.º, 49.º, 52.º, 61.º e 65.º, mantido em vigor o n.º 3 do art. 64.º, nos termos do\
+    \ n.º 6 do art. 23.º e revogado o n.º 2 do art. 14.º pelo DEC LEI.693/70.31.12.1970.MF, DG.IS [301-2ºSupl] de 31.12.1970\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/693-1970-414458
+  date: '1970-12-31'
+- type: amended_by
+  target: pt:dre:390846:por
+  label: "Alterado o nº1 do art. 29º, nº2 do art. 33º e o artº 52º e revogado o nº1 do art. 33º e o art. 68º do presente diploma,\
+    \ pelo DEC LEI.948/76.31.12.1976.MF, DR.IS [303-4ºSupl] de 31.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/947-1976-390846
+  date: '1976-12-31'
+- type: amended_by
+  target: pt:dre:277833:por
+  label: "Alterados os arts. 32º e 36º do presente diploma, pelo DEC LEI.461/77.07.11.1977.MF, DR.IS [257] de 07.11.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/461-1977-277833
+  date: '1977-11-07'
+- type: amended_by
+  target: pt:dre:470452:por
+  label: "Alterados os arts. 39º, 40º e 41º, pelo DEC LEI.262/80.1980.08.07.MFP, DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1980-470452
+  date: '1980-08-07'
+- type: amended_by
+  target: pt:dre:662751:por
+  label: "Eliminada a isenção estabelecida no art. 73.º, pela LEI.2/88.1988.01.26.AR DR.IS [21]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1988-662751
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:620950:por
+  label: Alterado o art. 39.º do presente diploma, na redação do Dec Lei 262/80, de 07-ago, pelo DEC LEI.211/89.1989.06.30.MF,
+    DR.IS-A [148]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1989-620950
+  date: '1989-06-30'
+- type: amended_by
+  target: pt:dre:324487:por
+  label: "Mantido em vigor, unicamente para a aplicação aos trabalhadores da caixa que não optem pelo regime jurídico do contrato\
+    \ individual de trabalho, e com as necessárias adaptações os arts. 31.º, n.º 2, 32.º e 34.º, n.º 2, bem como o art. 16.º,\
+    \ em relação às operações e aos contratos de depósito nele previstos, que tenham sido realizados até à data da entrada\
+    \ em vigor do presente diploma, pelo DEC LEI.287/93.1993.08.20.MF DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1993-324487
+  date: '1993-08-20'
+- type: amended_by
+  target: pt:dre:613684:por
+  label: "Alterado o art. 9º do Dec Lei 287/93 de 20-Ago, na redacção que conferiu ao presente diploma [mantidos em vigor\
+    \ com as necessárias adaptações os arts. 39º, 40º, 43º, nºs 1 e 3 do art. 44º, 45º, 54º, 56º, 57º, nº s 1 e 2 do art.\
+    \ 65º e art. 70º], pelo DEC LEI.56-A/2005.03.03.2005.MFAP, DR.IS-A [44-Supl] de 03.03.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-a-2005-613684
+  date: '2005-03-03'
+- type: cites
+  target: pt:dre:160877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687238:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:201464:por
+  label: "Rectificado o nº1 do art. 9º, nº2 do art. 10º, nºs.1 e 3 do art. 21º, nº4 do art. 22º, nº4 do art. 22º, nº1 do art.\
+    \ 45º, nº3 do art. 64º, nº1 do art. 69º e art. 74º do presente diploma, pela RECT.DD533.14.05.1969.PC, DG.IS [114] de\
+    \ 14.05.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-201464
+  date: '1969-05-14'
+- type: repealed_by
+  target: pt:dre:465392:por
+  label: "Revogado o art. 67º pelo DEC LEI.611/74.13.11.1974.MF, DG.IS [264] de 13.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/611-1974-465392
+  date: '1974-11-13'
+- type: repealed_by
+  target: pt:dre:432671:por
+  label: "Revogado o nº 4 do art. 39º, pelo DEC LEI.191-A/79.1979.06.25.PCM, DR.IS [144]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-a-1979-432671
+  date: '1979-06-25'
+- type: repealed_by
+  target: pt:dre:324487:por
+  label: "Revogado, salvo no que respeita à sua aplicação à Caixa Geral de Aposentações, com excepção dos arts. 39.º a 41.º,\
+    \ 43.º, 44.º, n.ºs. 1 e 3, 45.º, 54.º, 56.º, 57.º, 65.º, n.º 1 e 2 e 70.º que se mantêm em vigor com as necessárias adaptações,\
+    \ pelo DEC LEI.287/93.1993.08.20.MF DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1993-324487
+  date: '1993-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:02Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +292,7 @@ QUADRO N.º 1
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/04/08100/03750386.pdf))](https://files.diariodarepublica.pt/1s/1969/04/08100/03750386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/04/08100/03750386.pdf)
 
 O quadro precedente, mesmo sem corrigir os números pelos índices de variação do valor da moeda, revela com toda a clareza como a actividade da Caixa se processou, ao longo destes quarenta anos, em curva fortemente ascensional, embora o ritmo de expansão não tenha sido idêntico de período para período.
 
@@ -151,7 +308,7 @@ QUADRO N.º 2
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/04/08100/03750386.pdf))](https://files.diariodarepublica.pt/1s/1969/04/08100/03750386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/04/08100/03750386.pdf)
 
 Estes dados confirmam o lugar saliente que a instituição tem assumido - e mantém - no conjunto dos organismos de crédito, com uma posição que ainda hoje corresponde a cerca de 1/5 do total.
 
@@ -283,25 +440,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A Caixa Geral de Depósitos, Crédito e Previdência, que pode designar-se apenas por Caixa Geral de Depósitos, passa a reger-se pelo disposto no presente diploma e nos regulamentos que venham a ser adoptados em sua execução, continuando em vigor a legislação que lhe é aplicável em tudo o que não seja alterado por este decreto-lei e suas normas regulamentares.
+Artigo 1.º A Caixa Geral de Depósitos, Crédito e Previdência, que pode designar-se apenas por Caixa Geral de Depósitos, passa a reger-se pelo disposto no presente diploma e nos regulamentos que venham a ser adoptados em sua execução, continuando em vigor a legislação que lhe é aplicável em tudo o que não seja alterado por este decreto-lei e suas normas regulamentares.
 
-###### Art. 2.º A Caixa é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio, competindo-lhe o exercício das funções de instituto de crédito do Estado e a administração das instituições a que se referem os artigos 4.º e 6.º
+Art. 2.º A Caixa é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio, competindo-lhe o exercício das funções de instituto de crédito do Estado e a administração das instituições a que se referem os artigos 4.º e 6.º
 
-###### Art. 3.º Como instituto de crédito do Estado, incumbe à Caixa colaborar na realização da política de crédito do Governo e, designadamente, no incentivo e mobilização da poupança para o financiamento do desenvolvimento económico e social, na acção reguladora dos mercados monetário e financeiro e na distribuição selectiva do crédito.
+Art. 3.º Como instituto de crédito do Estado, incumbe à Caixa colaborar na realização da política de crédito do Governo e, designadamente, no incentivo e mobilização da poupança para o financiamento do desenvolvimento económico e social, na acção reguladora dos mercados monetário e financeiro e na distribuição selectiva do crédito.
 
-###### Art. 4.º Anexas à Caixa e sob a sua administração são mantidas a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado, instituições dotadas de personalidade jurídica, autonomia financeira e património próprio, sob a designação genérica de Caixa Nacional de Previdência, as quais continuam a regular-se pela legislação vigente.
+Art. 4.º Anexas à Caixa e sob a sua administração são mantidas a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado, instituições dotadas de personalidade jurídica, autonomia financeira e património próprio, sob a designação genérica de Caixa Nacional de Previdência, as quais continuam a regular-se pela legislação vigente.
 
-###### Art. 5.º - 1. A Caixa Nacional de Crédito deixa de constituir uma instituição anexa da Caixa Geral de Depósitos e é incorporada neste estabelecimento, que passa a assumir as respectivas atribuições e para o qual são transferidos todos os direitos e obrigações, bem como todo o activo e passivo daquela instituição.
+Art. 5.º - 1. A Caixa Nacional de Crédito deixa de constituir uma instituição anexa da Caixa Geral de Depósitos e é incorporada neste estabelecimento, que passa a assumir as respectivas atribuições e para o qual são transferidos todos os direitos e obrigações, bem como todo o activo e passivo daquela instituição.
 
 2. Continuam em vigor os preceitos legais e regulamentares respeitantes à Caixa Nacional de Crédito em tudo o que não for modificado pelo presente decreto-lei e seus regulamentos, considerando-se como feitas à Caixa Geral de Depósitos as referências contidas nesses preceitos relativamente àquela instituição.
 
 3. Os registos e averbamentos a favor da Caixa Nacional de Crédito ter-se-ão igualmente por efectuados em nome da Caixa Geral de Depósitos.
 
-###### Art. 6.º A administração da Agência Financial de Portugal no Rio de Janeiro continua confiada à Caixa, nos termos da legislação aplicável.
+Art. 6.º A administração da Agência Financial de Portugal no Rio de Janeiro continua confiada à Caixa, nos termos da legislação aplicável.
 
 ### CAPÍTULO II — Atribuições
 
-###### Art. 7.º São atribuições da Caixa, como instituição de crédito:
+Art. 7.º São atribuições da Caixa, como instituição de crédito:
 
 1.º Arrecadar e restituir todos os valores em dinheiro, títulos ou outras espécies, cujos depósitos devam por lei fazer-se obrigatòriamente nos seus cofres;
 
@@ -345,19 +502,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 21.º Realizar quaisquer outras operações ou serviços, de natureza bancária, cambial ou financeira, que lhe sejam cometidos por lei ou determinados pelo conselho de administração.
 
-###### Art. 8.º As atribuições da Caixa, relativamente à administração das instituições mencionadas nos artigos 4.º e 6.º, são as estabelecidas na respectiva legislação.
+Art. 8.º As atribuições da Caixa, relativamente à administração das instituições mencionadas nos artigos 4.º e 6.º, são as estabelecidas na respectiva legislação.
 
 ### CAPÍTULO III — Operações
 
-###### Art. 9.º - 1. Os termos e condições em que podem realizar-se operações activas e passivas e os serviços da competência da Caixa são estabelecidos pela administração, de harmonia com a legislação aplicável.
+Art. 9.º - 1. Os termos e condições em que podem realizar-se operações activas e passivas e os serviços da competência da Caixa são estabelecidos pela administração, de harmonia com a legislação aplicável.
 
 2. A taxa de juro dos depósitos obrigatórios é fixada pelo Ministro das Finanças, mediante proposta do conselho de administração.
 
-###### Art. 10.º - 1. Os juros dos depósitos efectuados na Caixa estão isentos de quaisquer impostos, nos termos da lei.
+Art. 10.º - 1. Os juros dos depósitos efectuados na Caixa estão isentos de quaisquer impostos, nos termos da lei.
 
 2. As operações efectuadas pelo serviço da Caixa Económica Portuguesa com os seus depositantes são isentas de imposto do selo e os depósitos até à importância de 30000$00 são equiparados às pensões de que trata a alínea f) do n.º 1 do artigo 823.º do Código de Processo Civil, para efeito de penhora ou arresto.
 
-###### Art. 11.º - 1. As autoridades, tribunais e quaisquer serviços públicos, os estabelecimentos do Estado, autónomos ou não, as demais pessoas colectivas de direito público, os corpos administrativos, os organismos de coordenação económica, os organismos corporativos, as instituições de previdência social e as de beneficência ou assistência, criadas ou subsidiadas pelo Estado ou dele dependentes, não podem ordenar ou autorizar a constituição de depósitos fora da Caixa.
+Art. 11.º - 1. As autoridades, tribunais e quaisquer serviços públicos, os estabelecimentos do Estado, autónomos ou não, as demais pessoas colectivas de direito público, os corpos administrativos, os organismos de coordenação económica, os organismos corporativos, as instituições de previdência social e as de beneficência ou assistência, criadas ou subsidiadas pelo Estado ou dele dependentes, não podem ordenar ou autorizar a constituição de depósitos fora da Caixa.
 
 2. A mesma obrigação é extensiva às empresas, sociedades ou entidades particulares, quanto aos fundos criados por disposição legal e destinados a quaisquer fins de beneficência ou utilidade pública, salvo determinação da lei em contrário.
 
@@ -369,7 +526,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6. Os depósitos efectuados fora das condições indicadas neste artigo são nulos e de nenhum efeito, devendo as importâncias respectivas dar entrada nos cofres da Caixa, sem prejuízo da responsabilidade que couber aos infractores, nos termos da legislação em vigor, designadamente nos do Decreto com força de lei n.º 19706, de 7 de Maio de 1931.
 
-###### Art. 12.º - 1. Deixam de ser exigíveis e revertem a favor da Caixa:
+Art. 12.º - 1. Deixam de ser exigíveis e revertem a favor da Caixa:
 
 a) Os depósitos obrigatórios ou voluntários, em dinheiro, títulos ou outros valores, que durante trinta anos não sejam movimentados pelos interessados, salvo mostrando-se que há processo judicial pendente;
 
@@ -379,25 +536,25 @@ c) Os saldos das contas de depósitos de importância inferior a 20$00, que dura
 
 2. Os depósitos de serviços do Estado, em relação aos quais se verifiquem as hipóteses previstas neste artigo, serão entregues à Fazenda Pública.
 
-###### Art. 13.º - 1. As operações de crédito agrícola e industrial visam, de modo geral, a financiar e impulsionar o desenvolvimento económico, mediante a sua aplicação em empreendimentos reprodutivos, técnica e econòmicamente viáveis, designadamente para a formação de capital fixo e circulante das empresas, com preferência para os projectos incluídos em planos de fomento, nacionais ou regionais, ou outros empreendimentos de reconhecido interesse para a economia do País.
+Art. 13.º - 1. As operações de crédito agrícola e industrial visam, de modo geral, a financiar e impulsionar o desenvolvimento económico, mediante a sua aplicação em empreendimentos reprodutivos, técnica e econòmicamente viáveis, designadamente para a formação de capital fixo e circulante das empresas, com preferência para os projectos incluídos em planos de fomento, nacionais ou regionais, ou outros empreendimentos de reconhecido interesse para a economia do País.
 
 2. A Caixa tem a faculdade de mandar verificar, pela forma que considerar apropriada, a actividade das empresas por ela financiadas e a respectiva contabilidade.
 
-###### Art. 14.º - 1. As operações a que se refere o artigo anterior podem ser realizadas a curto, médio ou longo prazo, de acordo com os fins a que se destinem e o disposto nos regulamentos aplicáveis.
+Art. 14.º - 1. As operações a que se refere o artigo anterior podem ser realizadas a curto, médio ou longo prazo, de acordo com os fins a que se destinem e o disposto nos regulamentos aplicáveis.
 
 2. As operações a médio prazo serão efectuadas por período superior a um ano mas não excedente a cinco, e as de crédito a longo prazo por período superior a cinco anos mas não excedente a vinte, conforme for fixado, para cada caso, pela administração.
 
-###### Art. 15.º - 1. As operações de crédito terão, conforme a sua natureza, quaisquer das seguintes garantias: hipoteca, consignação de receitas ou de rendimentos, penhor, aval ou fiança.
+Art. 15.º - 1. As operações de crédito terão, conforme a sua natureza, quaisquer das seguintes garantias: hipoteca, consignação de receitas ou de rendimentos, penhor, aval ou fiança.
 
 2. Nas operações a curto ou médio prazo, pode o conselho de administração, em casos excepcionais devidamente justificados, dispensar as garantias indicadas no n.º 1 deste artigo.
 
-###### Art. 16.º - 1. A responsabilidade pelas operações realizadas pelos serviços privativos da Caixa e pelas instituições anexas, a que se refere o artigo 4.º, pertence exclusiva e separadamente a cada uma das referidas instituições e aos seus fundos, respondendo também por elas o Estado, nos termos da lei.
+Art. 16.º - 1. A responsabilidade pelas operações realizadas pelos serviços privativos da Caixa e pelas instituições anexas, a que se refere o artigo 4.º, pertence exclusiva e separadamente a cada uma das referidas instituições e aos seus fundos, respondendo também por elas o Estado, nos termos da lei.
 
 2. O Estado assegura, em especial, a restituição de todos os depósitos efectuados na Caixa, mesmo em casos fortuitos ou de força maior.
 
 ### CAPÍTULO IV — Administração e fiscalização
 
-###### Art. 17.º A Caixa e as suas instituições anexas são administradas e fiscalizadas pelos seguintes órgãos:
+Art. 17.º A Caixa e as suas instituições anexas são administradas e fiscalizadas pelos seguintes órgãos:
 
 a) Administrador-geral;
 
@@ -405,9 +562,9 @@ b) Conselho de administração;
 
 c) Conselho fiscal.
 
-###### Art. 18.º O administrador-geral é da livre nomeação do Ministro das Finanças e exerce o cargo, em comissão de serviço, pelo período de cinco anos, renovável por iguais períodos.
+Art. 18.º O administrador-geral é da livre nomeação do Ministro das Finanças e exerce o cargo, em comissão de serviço, pelo período de cinco anos, renovável por iguais períodos.
 
-###### Art. 19.º Compete ao administrador-geral ou a quem legalmente o substitui:
+Art. 19.º Compete ao administrador-geral ou a quem legalmente o substitui:
 
 1.º Superintender nos serviços da Caixa e resolver os assuntos que não sejam da competência exclusiva do conselho de administração;
 
@@ -425,11 +582,11 @@ c) Conselho fiscal.
 
 8.º Desempenhar quaisquer outras funções que lhe sejam cometidas por lei ou disposição regulamentar.
 
-###### Art. 20.º - 1. O conselho de administração é composto pelo administrador-geral, que será o presidente, e por seis a oito vogais, livremente nomeados pelo Ministro das Finanças, em comissão de serviço, pelo período de cinco anos, renovável por iguais períodos.
+Art. 20.º - 1. O conselho de administração é composto pelo administrador-geral, que será o presidente, e por seis a oito vogais, livremente nomeados pelo Ministro das Finanças, em comissão de serviço, pelo período de cinco anos, renovável por iguais períodos.
 
 2. Um dos administradores vogais, designado pelo Ministro, será administrador-geral substituto e vice-presidente do conselho de administração, substituindo o administrador-geral na sua falta e impedimento. Na falta ou impedimento de ambos, exercerá as funções respectivas o administrador escolhido pelo conselho.
 
-###### Art. 21.º - 1. O conselho de administração reúne ordinàriamente, pelo menos, uma vez por semana e extraordinàriamente sempre que for convocado pelo presidente.
+Art. 21.º - 1. O conselho de administração reúne ordinàriamente, pelo menos, uma vez por semana e extraordinàriamente sempre que for convocado pelo presidente.
 
 2. Para o conselho deliberar vàlidamente é indispensável a presença da maioria dos membros em exercício.
 
@@ -441,7 +598,7 @@ c) Conselho fiscal.
 
 6. O prazo máximo da suspensão a que se refere o número anterior será de quinze dias. Se o Governo não se pronunciar neste prazo, considerar-se-á que deixa ao prudente critério do conselho a resolução do assunto.
 
-###### Art. 22.º Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção superior do estabelecimento e, em especial:
+Art. 22.º Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção superior do estabelecimento e, em especial:
 
 1.º Autorizar a realização de todas as operações e serviços incluídos nas atribuições da Caixa, fixando os termos e condições a que devam obedecer, dentro das normas legais e regulamentares aplicáveis;
 
@@ -467,11 +624,11 @@ c) Conselho fiscal.
 
 12.º Deliberar sobre quaisquer assuntos que lhe sejam cometidos por lei ou acerca dos quais entenda dever tomar resolução.
 
-###### Art. 23.º - 1. O conselho fiscal é constituído pelos directores-gerais da Fazenda Pública, da Contabilidade Pública e do Tribunal de Contas, cabendo a presidência ao primeiro.
+Art. 23.º - 1. O conselho fiscal é constituído pelos directores-gerais da Fazenda Pública, da Contabilidade Pública e do Tribunal de Contas, cabendo a presidência ao primeiro.
 
 2. O conselho fiscal reúne ordinàriamente uma vez por trimestre e extraordinàriamente sempre que for convocado pelo presidente ou por quem suas vezes fizer, bem como a pedido do conselho de administração.
 
-###### Art. 24.º Compete ao conselho fiscal:
+Art. 24.º Compete ao conselho fiscal:
 
 1.º Examinar, em qualquer momento, a contabilidade da Caixa e verificar os valores existentes em casas-fortes e cofres;
 
@@ -479,39 +636,39 @@ c) Conselho fiscal.
 
 3.º Pronunciar-se sobre qualquer assunto de interesse para o estabelecimento que lhe seja submetido pelo conselho de administração.
 
-###### Art. 25.º A administração da Caixa é autónoma e independente, mas o Governo poderá em qualquer momento mandar inspeccionar a contabilidade e o movimento de fundos do estabelecimento, tornando responsável a mesma administração pelos abusos ou faltas que tenha praticado.
+Art. 25.º A administração da Caixa é autónoma e independente, mas o Governo poderá em qualquer momento mandar inspeccionar a contabilidade e o movimento de fundos do estabelecimento, tornando responsável a mesma administração pelos abusos ou faltas que tenha praticado.
 
-###### Art. 26.º - 1. O Ministro das Finanças é o fiscal superior da administração da Caixa, cabendo-lhe verificar se ela cumpre as leis e regulamentos aplicáveis e satisfaz aos objectivos financeiros, económicos e sociais do estabelecimento.
+Art. 26.º - 1. O Ministro das Finanças é o fiscal superior da administração da Caixa, cabendo-lhe verificar se ela cumpre as leis e regulamentos aplicáveis e satisfaz aos objectivos financeiros, económicos e sociais do estabelecimento.
 
 2. A administração da Caixa prestará ao Ministro das Finanças todas as informações que este lhe requisite sobre os seus serviços e operações.
 
-###### Art. 27.º - 1. Das deliberações da administração que neguem autorização para o estudo ou realização de quaisquer operações não cabe recurso algum.
+Art. 27.º - 1. Das deliberações da administração que neguem autorização para o estudo ou realização de quaisquer operações não cabe recurso algum.
 
 2. Das restantes deliberações definitivas e executórias da administração cabe recurso contencioso, nos termos gerais de direito, para o Supremo Tribunal Administrativo.
 
-###### Art. 28.º Os lugares de administrador-geral e administradores da Caixa são incompatíveis com o desempenho de quaisquer cargos ou funções em outros estabelecimentos de crédito.
+Art. 28.º Os lugares de administrador-geral e administradores da Caixa são incompatíveis com o desempenho de quaisquer cargos ou funções em outros estabelecimentos de crédito.
 
-###### Art. 29.º - 1. O administrador-geral e os administradores da Caixa percebem vencimento mensal, que será estabelecido pelo Ministro das Finanças. Mantêm, além disso, o direito a participar nos lucros do estabelecimento, de harmonia com o disposto no presente diploma, e as suas remunerações globais ficam apenas sujeitas ao limite que para o efeito for determinado pelo Conselho de Ministros.
+Art. 29.º - 1. O administrador-geral e os administradores da Caixa percebem vencimento mensal, que será estabelecido pelo Ministro das Finanças. Mantêm, além disso, o direito a participar nos lucros do estabelecimento, de harmonia com o disposto no presente diploma, e as suas remunerações globais ficam apenas sujeitas ao limite que para o efeito for determinado pelo Conselho de Ministros.
 
 2. Os membros do conselho fiscal terão direito a gratificação mensal fixada pelo Ministro das Finanças e acumulável independentemente do limite geral de vencimentos do funcionalismo público.
 
-###### Art. 30.º O administrador-geral e os administradores correspondem-se com todas as autoridades, serviços e organismos públicos e particulares.
+Art. 30.º O administrador-geral e os administradores correspondem-se com todas as autoridades, serviços e organismos públicos e particulares.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 31.º - 1. O pessoal da Caixa é comum aos seus serviços privativos e aos das instituições anexas.
+Art. 31.º - 1. O pessoal da Caixa é comum aos seus serviços privativos e aos das instituições anexas.
 
 2. O referido pessoal continua sujeito ao regime jurídico do funcionalismo público, com as modificações exigidas pela natureza específica da actividade da Caixa como instituição de crédito, de harmonia com o disposto no presente diploma e nos restantes preceitos especialmente aplicáveis ao estabelecimento.
 
-###### Art. 32.º - 1. As categorias e vencimentos do pessoal serão fixados pelo conselho de administração, tendo em conta as condições especiais a que se refere o n.º 2 do artigo precedente e as comuns à generalidade do sistema bancário, independentemente dos limites estabelecidos na lei geral, devendo ser submetidos à homologação do Ministro das Finanças.
+Art. 32.º - 1. As categorias e vencimentos do pessoal serão fixados pelo conselho de administração, tendo em conta as condições especiais a que se refere o n.º 2 do artigo precedente e as comuns à generalidade do sistema bancário, independentemente dos limites estabelecidos na lei geral, devendo ser submetidos à homologação do Ministro das Finanças.
 
 2. A integração do pessoal actualmente ao serviço nas novas categorias será feita por despacho do conselho de administração, após a homologação ministerial prevista no n.º 1 deste artigo e a aprovação da orgânica interna dos serviços, nos termos do artigo 46.º, independentemente de quaisquer formalidades.
 
-###### Art. 33.º - 1. A participação nos lucros do estabelecimento, a que tem direito o pessoal, será distribuída segundo os critérios definidos pelo conselho de administração, até ao limite fixado no artigo 68.º
+Art. 33.º - 1. A participação nos lucros do estabelecimento, a que tem direito o pessoal, será distribuída segundo os critérios definidos pelo conselho de administração, até ao limite fixado no artigo 68.º
 
 2. Aos gerentes das filiais e agências e a outros cargos de especial responsabilidade, bem como nos demais casos de reconhecida conveniência, poderão ser atribuídos pela administração, com a homologação do Ministro das Finanças, gratificações ou abonos acumuláveis com o vencimento e a participação nos lucros.
 
-###### Art. 34.º - 1. Todo o pessoal será contratado pela administração, dentro das respectivas dotações orçamentais e na medida das necessidades do serviço.
+Art. 34.º - 1. Todo o pessoal será contratado pela administração, dentro das respectivas dotações orçamentais e na medida das necessidades do serviço.
 
 2. Os funcionários com provimento vitalício actualmente ao serviço conservam essa situação.
 
@@ -519,17 +676,17 @@ c) Conselho fiscal.
 
 4. O limite de idade para a admissão a lugares de acesso na Caixa é o estabelecido na lei geral. O pessoal contratado ou recrutado, enquanto ao serviço, não está sujeito àquele limite para o acesso a outros lugares da instituição.
 
-###### Art. 35.º Independentemente do disposto no artigo anterior, pode o conselho de administração, sem dependência de quaisquer formalidades, ajustar a prestação de serviços profissionais ou técnicos que forem julgados convenientes e nas condições fixadas, em cada caso, pelo conselho.
+Art. 35.º Independentemente do disposto no artigo anterior, pode o conselho de administração, sem dependência de quaisquer formalidades, ajustar a prestação de serviços profissionais ou técnicos que forem julgados convenientes e nas condições fixadas, em cada caso, pelo conselho.
 
-###### Art. 36.º O pessoal continua sujeito ao regulamento disciplinar que actualmente lhe é aplicável, incumbindo ao conselho de administração exercer, em relação ao mesmo pessoal, a competência atribuída aos Ministros por aquele regulamento.
+Art. 36.º O pessoal continua sujeito ao regulamento disciplinar que actualmente lhe é aplicável, incumbindo ao conselho de administração exercer, em relação ao mesmo pessoal, a competência atribuída aos Ministros por aquele regulamento.
 
-###### Art. 37.º - 1. A Caixa promoverá a formação e o aperfeiçoamento profissional dos seus servidores por meio de cursos apropriados a cargo de funcionários designados pela administração ou de pessoal docente contratado, bem como pela frequência de cursos e estágios externos.
+Art. 37.º - 1. A Caixa promoverá a formação e o aperfeiçoamento profissional dos seus servidores por meio de cursos apropriados a cargo de funcionários designados pela administração ou de pessoal docente contratado, bem como pela frequência de cursos e estágios externos.
 
 2. Poderão também ser organizados seminários para o pessoal superior, técnico e administrativo, com vista à actualização de conhecimentos profissionais.
 
-###### Art. 38.º O bom aproveitamento nos cursos a que se refere o artigo anterior será um dos factores a considerar para o efeito da promoção dos funcionários às categorias superiores.
+Art. 38.º O bom aproveitamento nos cursos a que se refere o artigo anterior será um dos factores a considerar para o efeito da promoção dos funcionários às categorias superiores.
 
-###### Art. 39.º - 1. A Caixa e as suas instituições anexas passam a assumir o encargo com a aposentação do respectivo pessoal relativamente ao tempo de serviço a elas prestado.
+Art. 39.º - 1. A Caixa e as suas instituições anexas passam a assumir o encargo com a aposentação do respectivo pessoal relativamente ao tempo de serviço a elas prestado.
 
 2. O encargo respeitante ao tempo de serviço fora do estabelecimento será suportado, na devida proporção, pela Caixa Geral de Aposentações e outras entidades responsáveis pela aposentação dos seus serventuários.
 
@@ -539,15 +696,15 @@ c) Conselho fiscal.
 
 5. O disposto neste artigo aplica-se sòmente ao pessoal que de futuro passe à situação de aposentado e não prejudica a obrigatoriedade do desconto da quota legal para a aposentação.
 
-###### Art. 40.º - 1. Ao pessoal do estabelecimento será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado, aos seus serviços autónomos e aos corpos administrativos anteriormente à inscrição na Caixa Geral de Aposentações, aplicando-se à liquidação das quotas devidas o disposto na legislação respectiva.
+Art. 40.º - 1. Ao pessoal do estabelecimento será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado, aos seus serviços autónomos e aos corpos administrativos anteriormente à inscrição na Caixa Geral de Aposentações, aplicando-se à liquidação das quotas devidas o disposto na legislação respectiva.
 
 2. Para os efeitos do n.º 1, a documentação necessária à contagem de tempo deverá dar entrada na Caixa Geral de Aposentações antes de proferida a decisão declaratória do direito ao recebimento da pensão.
 
-###### Art. 41.º O disposto nos artigos 31.º, n.º 2, 39.º e 40.º é extensivo aos membros do conselho de administração, salvo no que respeita ao quantitativo das pensões de aposentação, que não poderá exceder o vencimento fixado nos termos do artigo 29.º
+Art. 41.º O disposto nos artigos 31.º, n.º 2, 39.º e 40.º é extensivo aos membros do conselho de administração, salvo no que respeita ao quantitativo das pensões de aposentação, que não poderá exceder o vencimento fixado nos termos do artigo 29.º
 
 ### CAPÍTULO VI — Organização dos serviços
 
-###### Art. 42.º - 1. Os serviços centrais serão organizados em direcções de serviços, correspondentes aos grandes departamentos por que se distribui a actividade da Caixa. O agrupamento dos serviços dentro de cada direcção será estabelecido pela forma mais conveniente à racional organização do trabalho.
+Art. 42.º - 1. Os serviços centrais serão organizados em direcções de serviços, correspondentes aos grandes departamentos por que se distribui a actividade da Caixa. O agrupamento dos serviços dentro de cada direcção será estabelecido pela forma mais conveniente à racional organização do trabalho.
 
 2. Sempre que necessário, poderão determinados serviços especializados ter orgânica diferente, de acordo com as suas características próprias.
 
@@ -555,81 +712,81 @@ c) Conselho fiscal.
 
 4. Nos concelhos onde a Caixa não possua dependências próprias, os serviços continuarão a ser executados pelas repartições de finanças e tesourarias da Fazenda Pública, como delegações do estabelecimento, sob a fiscalização e responsabilidade dos respectivos chefes de repartição, e nas condições regulamentares, cabendo a estes funcionários a qualidade de delegados da Caixa.
 
-###### Art. 43.º As estações dos correios, na qualidade de delegações postais da Caixa, continuarão a receber e a pagar depósitos e a efectuar outros serviços, nos termos da legislação em vigor.
+Art. 43.º As estações dos correios, na qualidade de delegações postais da Caixa, continuarão a receber e a pagar depósitos e a efectuar outros serviços, nos termos da legislação em vigor.
 
-###### Art. 44.º - 1. Os serviços do Banco de Portugal, em Lisboa e nas capitais de distrito, continuarão a arrecadar fundos destinados à Caixa, bem como a aceitar depósitos efectuados pelo estabelecimento e a satisfazer saques apresentados por este, movimentando tais operações em conta corrente com o Tesouro, nos termos das normas legais e regulamentares aplicáveis.
+Art. 44.º - 1. Os serviços do Banco de Portugal, em Lisboa e nas capitais de distrito, continuarão a arrecadar fundos destinados à Caixa, bem como a aceitar depósitos efectuados pelo estabelecimento e a satisfazer saques apresentados por este, movimentando tais operações em conta corrente com o Tesouro, nos termos das normas legais e regulamentares aplicáveis.
 
 2. As operações de fundos e outros valores realizadas de conta da Caixa pelas delegações a que se refere o n.º 4 do artigo 42.º continuam também a ser efectuadas em conta corrente com o Tesouro, de harmonia com os preceitos vigentes.
 
 3. Mantêm-se igualmente em vigor as disposições que regulam as transferências e remessas de fundos da Caixa por intermédio das estações dos correios.
 
-###### Art. 45.º - 1. A Caixa e as suas instituições anexas dispõem de notário privativo, com as habilitações e a competência dos notários públicos, para lavrar os actos e contratos em que intervenham aquelas instituições, e de ajudantes, todos nomeados pelo Ministro da Finanças, ouvido o Ministro das Justiça e mediante proposta do conselho de administração.
+Art. 45.º - 1. A Caixa e as suas instituições anexas dispõem de notário privativo, com as habilitações e a competência dos notários públicos, para lavrar os actos e contratos em que intervenham aquelas instituições, e de ajudantes, todos nomeados pelo Ministro da Finanças, ouvido o Ministro das Justiça e mediante proposta do conselho de administração.
 
 2. A competência do notário e dos seus ajudantes será cumulativa e exercida em todas as dependências da Caixa, conforme as conveniências do serviço e a comodidade dos clientes.
 
 3. Os documentos lavrados ou autenticados pelo notário e seus ajudantes serão, para todos os efeitos, considerados documentos autênticos.
 
-###### Art. 46.º A organização interna dos serviços da Caixa e a respectiva competência serão estabelecidas em regulamentos aprovados pelo conselho de administração.
+Art. 46.º A organização interna dos serviços da Caixa e a respectiva competência serão estabelecidas em regulamentos aprovados pelo conselho de administração.
 
 ### CAPÍTULO VII — Gestão financeira
 
-###### Art. 47.º - 1. Os orçamentos da Caixa e das suas instituições anexas, para cada ano económico, regulam a respectiva gestão financeira e são publicados na parte complementar do Orçamento Geral do Estado.
+Art. 47.º - 1. Os orçamentos da Caixa e das suas instituições anexas, para cada ano económico, regulam a respectiva gestão financeira e são publicados na parte complementar do Orçamento Geral do Estado.
 
 2. As alterações aos orçamentos serão autorizadas por despacho do conselho de administração, publicado no Diário do Governo.
 
-###### Art. 48.º - 1. A contabilidade da Caixa obedeces às regras da gestão empresarial que lhe é própria, mantendo-se paralelamente a escrita orçamental.
+Art. 48.º - 1. A contabilidade da Caixa obedeces às regras da gestão empresarial que lhe é própria, mantendo-se paralelamente a escrita orçamental.
 
 2. A contabilidade das delegações será adequada à natureza dos respectivos serviços, mediante instruções da administração.
 
 3. No termo de cada ano proceder-se-á ao inventário de todos os valores existentes nas tesourarias e casas-fortes e ao balanço da Caixa.
 
-###### Art. 49.º As disponibilidades do estabelecimento em numerário, sem aplicação imediata, serão depositadas à sua ordem no Banco de Portugal, salvo outro destino aprovado pelo Ministro das Finanças.
+Art. 49.º As disponibilidades do estabelecimento em numerário, sem aplicação imediata, serão depositadas à sua ordem no Banco de Portugal, salvo outro destino aprovado pelo Ministro das Finanças.
 
-###### Art. 50.º Os documentos de despesas realizadas em conformidade com o orçamento para cada ano não estão dependentes do cumprimento de qualquer formalidade por parte da Direcção-Geral da Contabilidade Pública.
+Art. 50.º Os documentos de despesas realizadas em conformidade com o orçamento para cada ano não estão dependentes do cumprimento de qualquer formalidade por parte da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 51.º - 1. A aquisição e alienação de quaisquer bens imóveis é da exclusiva competência do conselho de administração, nos termos das disposições em vigor.
+Art. 51.º - 1. A aquisição e alienação de quaisquer bens imóveis é da exclusiva competência do conselho de administração, nos termos das disposições em vigor.
 
 2. A aquisição e alienação de bens móveis e a realização de despesas administrativas serão autorizadas pelo administrador-geral, de harmonia com o disposto no n.º 4 do artigo 19.º
 
 3. O conselho de administração designará, além disso, os serviços incumbidos da realização de certas despesas dentro dos limites por ele fixados.
 
-###### Art. 52.º Os rendimentos e outras receitas da Caixa suportarão todas as despesas de gestão, incluindo encargos com juros ou outros, os prejuízos eventuais em operações e as amortizações normais.
+Art. 52.º Os rendimentos e outras receitas da Caixa suportarão todas as despesas de gestão, incluindo encargos com juros ou outros, os prejuízos eventuais em operações e as amortizações normais.
 
 Do lucro que resultar sairá a participação da administração e do pessoal e, depois de constituídas as necessárias reservas e provisões, o saldo final da conta «Ganhos e perdas» será aplicado na proporção de 20 por cento para o fundo de reserva e o restante para participação do Estado.
 
-###### Art. 53.º A prestação de contas da Caixa ao Tribunal de Contas continuará a efectuar-se segundo as regras actualmente aplicadas, de harmonia com as disposições próprias dos estabelecimentos de crédito do Estado.
+Art. 53.º A prestação de contas da Caixa ao Tribunal de Contas continuará a efectuar-se segundo as regras actualmente aplicadas, de harmonia com as disposições próprias dos estabelecimentos de crédito do Estado.
 
 ### CAPÍTULO VIII — Serviços Sociais
 
-###### Art. 54.º - 1. Os Serviços Sociais da Caixa, dotados de personalidade jurídica e autonomia administrativa e financeira, exercem a sua actividade nos domínios da formação cultural, previdência, assistência, habitação, recreio e actividades afins, com o objectivo de elevar o nível profissional dos servidores do estabelecimento e melhorar as suas condições económico-sociais e as dos seus familiares.
+Art. 54.º - 1. Os Serviços Sociais da Caixa, dotados de personalidade jurídica e autonomia administrativa e financeira, exercem a sua actividade nos domínios da formação cultural, previdência, assistência, habitação, recreio e actividades afins, com o objectivo de elevar o nível profissional dos servidores do estabelecimento e melhorar as suas condições económico-sociais e as dos seus familiares.
 
 2. Consideram-se integradas nos Serviços Sociais as organizações denominadas «Casa dos Funcionários» e «Caixa de Socorros dos Funcionários».
 
-###### Art. 55.º São extensivas aos Serviços Sociais as isenções e regalias de que goza a Caixa, incluindo a isenção de quaisquer encargos fiscais e licenças administrativas, bem como todas as facilidades conferidas por lei às instituições oficiais de assistência.
+Art. 55.º São extensivas aos Serviços Sociais as isenções e regalias de que goza a Caixa, incluindo a isenção de quaisquer encargos fiscais e licenças administrativas, bem como todas as facilidades conferidas por lei às instituições oficiais de assistência.
 
-###### Art. 56.º - 1. O quantitativo da dotação anual para os Serviços Sociais continuará a ser fixado pela conselho de administração.
+Art. 56.º - 1. O quantitativo da dotação anual para os Serviços Sociais continuará a ser fixado pela conselho de administração.
 
 2. As contas anuais de gerência dos Serviços Sociais, acompanhadas do parecer do seu conselho fiscal, serão submetidas ao conselho de administração, cuja aprovação legaliza, para todos os efeitos, as respectivas receitas e despesas.
 
 3. O conselho de administração poderá ceder aos Serviços Sociais bens ou valores que pertençam ao património do estabelecimento e considere necessários às finalidades prosseguidas por aqueles Serviços, fixando, em cada caso, as condições da cedência.
 
-###### Art. 57.º - Compete ao conselho de administração aprovar as alterações ao regulamento dos Serviços Sociais.
+Art. 57.º - Compete ao conselho de administração aprovar as alterações ao regulamento dos Serviços Sociais.
 
 ### CAPÍTULO IX — Disposições diversas
 
-###### Art. 58.º A Caixa e as suas instituições anexas gozam de isenção de todas as contribuições, impostos, taxas, licenças administrativas e mais imposições, gerais ou especiais, nos mesmos termos que o Estado.
+Art. 58.º A Caixa e as suas instituições anexas gozam de isenção de todas as contribuições, impostos, taxas, licenças administrativas e mais imposições, gerais ou especiais, nos mesmos termos que o Estado.
 
-###### Art. 59.º - 1. A Caixa e as suas instituições anexas são representadas em juízo pelos agentes do Ministério Público e estão isentas de imposto de justiça, selos e outros encargos.
+Art. 59.º - 1. A Caixa e as suas instituições anexas são representadas em juízo pelos agentes do Ministério Público e estão isentas de imposto de justiça, selos e outros encargos.
 
 2. Sem prejuízo do disposto no n.º 1, pode o conselho de administração, sempre que o entender conveniente, constituir advogado ou procurador que represente o estabelecimento em juízo nos processos em que for parte ou por qualquer forma interessado.
 
-###### Art. 60.º As hipotecas constituídas a favor da Caixa abrangem, independentemente de registo, os juros relativos a três anos.
+Art. 60.º As hipotecas constituídas a favor da Caixa abrangem, independentemente de registo, os juros relativos a três anos.
 
-###### Art. 61.º - 1. A cobrança coerciva de todas as dívidas de que seja credora a Caixa e suas instituições anexas é da competência dos tribunais de 1.ª instância das contribuições e impostos, servindo de títulos executivos as escrituras, títulos particulares, letras, livranças ou qualquer outro documento apresentado pela instituição exequente, incluindo as certidões extraídas dos livros da sua escrita.
+Art. 61.º - 1. A cobrança coerciva de todas as dívidas de que seja credora a Caixa e suas instituições anexas é da competência dos tribunais de 1.ª instância das contribuições e impostos, servindo de títulos executivos as escrituras, títulos particulares, letras, livranças ou qualquer outro documento apresentado pela instituição exequente, incluindo as certidões extraídas dos livros da sua escrita.
 
 2. Os documentos a que se refere o n.º 1 servirão igualmente para a Caixa e as instituições anexas deduzirem os seus direitos em quaisquer processos em que sejam reclamantes.
 
-###### Art. 62.º - 1. A suspensão dos termos das execuções mencionadas no artigo anterior pode ser autorizada pela administração e por esta solicitada ao tribunal:
+Art. 62.º - 1. A suspensão dos termos das execuções mencionadas no artigo anterior pode ser autorizada pela administração e por esta solicitada ao tribunal:
 
 a) Por uma ou mais vezes, mediante o pagamento dos juros e outros encargos em atraso e da amortização que for fixada;
 
@@ -637,13 +794,13 @@ b) Excepcionalmente, quando intervenham circunstâncias ponderosas, e sem necess
 
 2. Os termos processuais da suspensão continuam a regular-se pela legislação em vigor.
 
-###### Art. 63.º - 1. Os créditos sobre o estabelecimento provenientes de depósitos de qualquer natureza, operações de transferência ou cobrança, pensões, subsídios, vencimentos ou quaisquer outros podem ser entregues aos herdeiros do respectivo titular, mediante habilitação administrativa deduzida perante a administração da Caixa, desde que a quota-parte de cada um não exceda 500000$00.
+Art. 63.º - 1. Os créditos sobre o estabelecimento provenientes de depósitos de qualquer natureza, operações de transferência ou cobrança, pensões, subsídios, vencimentos ou quaisquer outros podem ser entregues aos herdeiros do respectivo titular, mediante habilitação administrativa deduzida perante a administração da Caixa, desde que a quota-parte de cada um não exceda 500000$00.
 
 2. Os limites estabelecidos nas alíneas a) e b) do artigo 7.º do [Decreto-Lei n.º 33276](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33276-1943-405972), de 24 de Novembro de 1943, são elevados, respectivamente, para 30000$00 e 10000$00.
 
 3. As habilitações de que trata este artigo estão sujeitas ao pagamento de 1 por cento do seu valor.
 
-###### Art. 64.º - 1. As obras de construção, ampliação e grande conservação de edifícios para instalação de serviços da Caixa continuam a ser administradas e fiscalizadas por uma comissão administrativa, nomeada pelo Ministro das Obras Públicas e composta de um representante da Caixa, proposto pelo conselho de administração, um engenheiro civil e um arquitecto.
+Art. 64.º - 1. As obras de construção, ampliação e grande conservação de edifícios para instalação de serviços da Caixa continuam a ser administradas e fiscalizadas por uma comissão administrativa, nomeada pelo Ministro das Obras Públicas e composta de um representante da Caixa, proposto pelo conselho de administração, um engenheiro civil e um arquitecto.
 
 2. A escolha de terrenos para a construção dos mencionados edifícios será feita pelo conselho de administração da Caixa, podendo este, quando o julgar conveniente, delegar aquela faculdade na comissão a que se refere o n.º 1.
 
@@ -651,35 +808,35 @@ b) Excepcionalmente, quando intervenham circunstâncias ponderosas, e sem necess
 
 4. As obras não incluídas no n.º 1 e as que o conselho de administração considerar urgentes podem ser efectuadas sem intervenção da comissão.
 
-###### Art. 65.º - 1. Os actos e contratos realizados pela Caixa e suas instituições anexas podem ser titulados por documento particular ou simples troca de correspondência, salvo tratando-se de actos sujeitos a registo, que deverão constar de documento exigido por lei para a prova do acto a registar.
+Art. 65.º - 1. Os actos e contratos realizados pela Caixa e suas instituições anexas podem ser titulados por documento particular ou simples troca de correspondência, salvo tratando-se de actos sujeitos a registo, que deverão constar de documento exigido por lei para a prova do acto a registar.
 
 2. Continuam isentas de emolumentos, por actos efectuados na nota privativa da Caixa, as entidades não sujeitas a imposto do selo pelos mesmos actos.
 
-###### Art. 66.º É extensiva à Caixa e suas instituições anexas, como accionistas ou obrigacionistas com direito de voto nas assembleias gerais de quaisquer sociedades anónimas, a excepção estabelecida a favor do Estado no § 3.º do artigo 183.º do Código Comercial.
+Art. 66.º É extensiva à Caixa e suas instituições anexas, como accionistas ou obrigacionistas com direito de voto nas assembleias gerais de quaisquer sociedades anónimas, a excepção estabelecida a favor do Estado no § 3.º do artigo 183.º do Código Comercial.
 
-###### Art. 67.º A percentagem a que se refere o § único do artigo 14.º do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, a cobrar pela Caixa às instituições de previdência e ao Fundo Nacional do Abono de Família pelos serviços a que se refere aquele diploma, será fixada por acordo, nos termos do § 2.º do artigo 10.º do mesmo diploma.
+Art. 67.º A percentagem a que se refere o § único do artigo 14.º do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, a cobrar pela Caixa às instituições de previdência e ao Fundo Nacional do Abono de Família pelos serviços a que se refere aquele diploma, será fixada por acordo, nos termos do § 2.º do artigo 10.º do mesmo diploma.
 
-###### Art. 68.º - 1. A participação nos lucros do estabelecimento é fixada em 0,3 por cento para a administração e 6 por cento para o pessoal, não podendo, porém, em cada gerência, ser inferior à média do último triénio, nem, individualmente, superior a 50 por cento do vencimento anual.
+Art. 68.º - 1. A participação nos lucros do estabelecimento é fixada em 0,3 por cento para a administração e 6 por cento para o pessoal, não podendo, porém, em cada gerência, ser inferior à média do último triénio, nem, individualmente, superior a 50 por cento do vencimento anual.
 
 2. Pode o conselho de administração, se o entender conveniente e com a aprovação do Ministro das Finanças, elevar a percentagem respeitante à participação do pessoal.
 
-###### Art. 69.º - 1. O prazo do artigo 40.º do Código Comercial é aplicável à Caixa quanto à obrigatoriedade de conservar em arquivo os elementos da sua escrita principal, correspondência, documentos comprovativos de operações realizadas e livres de contas correntes onde as mesmas se encontrem escrituradas. Nos demais casos, poderá a administração ordenar a inutilização dos documentos decorridos três anos.
+Art. 69.º - 1. O prazo do artigo 40.º do Código Comercial é aplicável à Caixa quanto à obrigatoriedade de conservar em arquivo os elementos da sua escrita principal, correspondência, documentos comprovativos de operações realizadas e livres de contas correntes onde as mesmas se encontrem escrituradas. Nos demais casos, poderá a administração ordenar a inutilização dos documentos decorridos três anos.
 
 2. A Caixa Geral de Aposentações e o Montepio dos Servidores do Estado não são obrigados a conservar em arquivo, por mais de três anos, os documentos comprovativos do pagamento de quaisquer pensões ou subsídios.
 
 3. Para além dos prazos indicados e em relação aos documentos a que os mesmos se referem, não será admitida reclamação em que se questione a validade das operações realizadas.
 
-###### Art. 70.º Os livros e documentos que devam ser conservados em arquivo serão microfilmados, conforme for determinado pela administração. Os microfilmes serão autenticados com a assinatura do responsável pelo serviço, e os originais poderão ser inutilizados após a microfilmagem. As fotocópias têm a mesma força probatória dos originais, mesmo quando se trate de ampliações dos microfilmes que os reproduzem.
+Art. 70.º Os livros e documentos que devam ser conservados em arquivo serão microfilmados, conforme for determinado pela administração. Os microfilmes serão autenticados com a assinatura do responsável pelo serviço, e os originais poderão ser inutilizados após a microfilmagem. As fotocópias têm a mesma força probatória dos originais, mesmo quando se trate de ampliações dos microfilmes que os reproduzem.
 
-###### Art. 71.º A Caixa pode requisitar directamente a quaisquer serviços do Estado e entidades públicas, bem como aos seus mutuários, os elementos de informação de que careça para o desempenho das suas atribuições.
+Art. 71.º A Caixa pode requisitar directamente a quaisquer serviços do Estado e entidades públicas, bem como aos seus mutuários, os elementos de informação de que careça para o desempenho das suas atribuições.
 
-###### Art. 72.º Os limites fixados no n.º 2.º do artigo 106.º e no artigo 365.º do Regulamento do Crédito Agrícola Mútuo, aprovado pelo [Decreto n.º 5219](https://diariodarepublica.pt/dr/detalhe/decreto/5219-1919-207643), de 8 de Janeiro de 1919, são elevados, respectivamente, para 75 e 50 por cento.
+Art. 72.º Os limites fixados no n.º 2.º do artigo 106.º e no artigo 365.º do Regulamento do Crédito Agrícola Mútuo, aprovado pelo [Decreto n.º 5219](https://diariodarepublica.pt/dr/detalhe/decreto/5219-1919-207643), de 8 de Janeiro de 1919, são elevados, respectivamente, para 75 e 50 por cento.
 
-###### Art. 73.º Ficam isentos de imposto de capitais os juros dos depósitos a prazo constituídos nas caixas de crédito agrícola mútuo.
+Art. 73.º Ficam isentos de imposto de capitais os juros dos depósitos a prazo constituídos nas caixas de crédito agrícola mútuo.
 
-###### Art. 74.º O Governo, pelo Ministro das Finanças, mediante proposta do conselho de administração da Caixa, fará publicar as normas regulamentares do presente decreto-lei que não sejam da competência daquele conselho, nos termos deste diploma.
+Art. 74.º O Governo, pelo Ministro das Finanças, mediante proposta do conselho de administração da Caixa, fará publicar as normas regulamentares do presente decreto-lei que não sejam da competência daquele conselho, nos termos deste diploma.
 
-###### Art. 75.º São revogados:
+Art. 75.º São revogados:
 
 O Decreto com força de lei n.º 4670, de 14 de Julho de 1918;
 
@@ -707,12 +864,12 @@ O artigo 2.º do [Decreto-Lei n.º 36670](https://diariodarepublica.pt/dr/detalh
 
 Os artigos 16.º a 18.º do [Decreto-Lei n.º 40100](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40100-1955-542187), de 21 de Março de 1955.
 
-###### Art. 76.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças.
+Art. 76.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 26 de Março de 1969.**
+Promulgado em 26 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/04/10200/08310832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47663-1967-310210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51b7d9a8ba97b4cdba889005d8afcc45f0620a7acf77f13f2a993ce377857578
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8afb60756804465a473742b1bcd76fdc900ea89d83492da20acedeb92f3d2508
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:586007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271669:por
+  label: "Alterada a al. c) do nº1 e a al. c) do nº2 do art. 16º e o art. 17º do presente diploma, pelo DEC LEI.48397.22.05.1968.MSA,\
+    \ DG.IS [122] de 22.05.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48397-1968-271669
+  date: '1968-05-22'
+- type: cites
+  target: pt:dre:181582:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:586007:por
+  label: "Revogado pelo DEC LEI.13/93.15.01.1993.MS, DR.IS-A [12] de 15.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1993-586007
+  date: '1993-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:57Z'
   warnings: []
   errors: []
 ---
@@ -98,35 +114,35 @@ Ouvida a Ordem dos Médicos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A criação das casas de saúde é livre, observados os preceitos do presente diploma.
+Artigo 1.º - 1. A criação das casas de saúde é livre, observados os preceitos do presente diploma.
 
 2. Consideram-se casas de saúde, qualquer que seja a sua designação, os estabelecimentos destinados ao internamento, exame, tratamento ou repouso, de doentes, convalescentes, depauperados, grávidas ou puérperas, desde que não estejam directamente sujeitos à tutela administrativa do Estado, embora o possam estar as entidades a que pertencem.
 
 3. As casas de saúde não podem adoptar a designação de «hospital».
 
-###### Art. 2.º - 1. Às casas de saúde poderá ser concedida assistência técnica do Estado, nos termos que forem determinados por despacho.
+Art. 2.º - 1. Às casas de saúde poderá ser concedida assistência técnica do Estado, nos termos que forem determinados por despacho.
 
 2. As autoridades sanitárias podem pedir a colaboração das casas de saúde nas campanhas e programas de saúde pública, superiormente aprovados.
 
 3. No conselho plenário de cada uma das comissões inter-hospitalares haverá um representante das casas de saúde da respectiva zona, cujo mandato coincidirá com o dos restantes membros eleitos.
 
-###### Art. 3.º - 1. O licenciamento das casas de saúde carece de alvará a passar pela Direcção-Geral dos Hospitais, ouvidos os institutos coordenadores interessados, quando for caso disso, e obtido despacho favorável do Ministro da Saúde e Assistência.
+Art. 3.º - 1. O licenciamento das casas de saúde carece de alvará a passar pela Direcção-Geral dos Hospitais, ouvidos os institutos coordenadores interessados, quando for caso disso, e obtido despacho favorável do Ministro da Saúde e Assistência.
 
 2. No alvará estabelecer-se-ão as lotações, as modalidades de assistência autorizadas e as demais condições de funcionamento das casas de saúde, as quais só poderão ser alteradas mediante passagem de novo alvará.
 
 3. Em circunstâncias excepcionais e para salvaguarda de importantes interesses gerais, regionais ou locais, pode ser indeferido o pedido de abertura da casa de saúde, em despacho ministerial devidamente fundamentado.
 
-###### Art. 4.º - 1. O disposto no n.º 1 do artigo 1.º não impede a elaboração de planos regionais de cobertura hospitalar.
+Art. 4.º - 1. O disposto no n.º 1 do artigo 1.º não impede a elaboração de planos regionais de cobertura hospitalar.
 
 2. Quando esses planos existirem, as casas de saúde a criar nessa área terão de se conformar com as directrizes neles estabelecidas.
 
-###### Art. 5.º - 1. Não pode ser iniciada a construção, ampliação ou remodelação de edifícios destinados a casas de saúde sem que tenha sido aprovado pelo Direcção-Geral dos Hospitais o respectivo projecto.
+Art. 5.º - 1. Não pode ser iniciada a construção, ampliação ou remodelação de edifícios destinados a casas de saúde sem que tenha sido aprovado pelo Direcção-Geral dos Hospitais o respectivo projecto.
 
 2. Poderão os interessados, querendo, submeter à aprovação da Direcção-Geral dos Hospitais os anteprojectos das obras que pretendam efectuar e pedir para eles o conselho técnico dos serviços da mesma Direcção-Geral, a qual, por sua vez, poderá ouvir a Comissão de Construções Hospitalares.
 
 3. As obras realizadas em contravenção do disposto no n.º 1 deste artigo impedem a passagem de alvará de licenciamento ou fazem caducar os que tenham sido passados anteriormente.
 
-###### Art. 6.º A entrada em funcionamento das casas de saúde, das suas ampliações ou dos sectores remodelados, depende de vistoria prévia, a efectuar pela Direcção-Geral dos Hospitais, na qual se verificará:
+Art. 6.º A entrada em funcionamento das casas de saúde, das suas ampliações ou dos sectores remodelados, depende de vistoria prévia, a efectuar pela Direcção-Geral dos Hospitais, na qual se verificará:
 
 a) A conformidade das obras com os projectos respectivos;
 
@@ -134,37 +150,37 @@ b) A suficiência e qualidade do apetrechamento;
 
 c) Os requisitos legais de organização interna e de pessoal.
 
-###### Art. 7.º - 1. Os regulamentos internos das casas de saúde e os preços da pensão e demais encargos relacionados com a aposentadoria, o piso de sala de operações, os preços das análises, radiografias, quaisquer outros meios complementares de diagnóstico e terapêutica, e restantes encargos, exceptuados os honorários clínicos, serão visados pela Direcção-Geral dos Hospitais.
+Art. 7.º - 1. Os regulamentos internos das casas de saúde e os preços da pensão e demais encargos relacionados com a aposentadoria, o piso de sala de operações, os preços das análises, radiografias, quaisquer outros meios complementares de diagnóstico e terapêutica, e restantes encargos, exceptuados os honorários clínicos, serão visados pela Direcção-Geral dos Hospitais.
 
 2. Os preçários visados deverão estar patentes, nos termos a regulamentar.
 
 3. Quando as circunstâncias o justifiquem, o Ministro da Saúde e Assistência pode mandar substituir o visto por aprovação.
 
-###### Art. 8.º As formalidades do licenciamento das casas de saúde, os requisitos a que estas devem obedecer quanto às instalações, organização e funcionamento, serão estabelecidos em portaria do Ministro da Saúde e Assistência, ouvida a Ordem dos Médicos.
+Art. 8.º As formalidades do licenciamento das casas de saúde, os requisitos a que estas devem obedecer quanto às instalações, organização e funcionamento, serão estabelecidos em portaria do Ministro da Saúde e Assistência, ouvida a Ordem dos Médicos.
 
-###### Art. 9.º - 1. A fim de verificar as condições de funcionamento das casas de saúde, a Direcção-Geral dos Hospitais promoverá a sua inspecção, se possível, pelo menos, uma vez em cada ano.
+Art. 9.º - 1. A fim de verificar as condições de funcionamento das casas de saúde, a Direcção-Geral dos Hospitais promoverá a sua inspecção, se possível, pelo menos, uma vez em cada ano.
 
 2. Sempre que o desejem, podem as casas de saúde solicitar vistorias eventuais para obter o parecer técnico dos serviços daquela Direcção-Geral.
 
-###### Art. 10.º Para salvaguarda do segredo profissional, só os médicos em missão de inspecção terão acesso aos processos clínicos das casas de saúde.
+Art. 10.º Para salvaguarda do segredo profissional, só os médicos em missão de inspecção terão acesso aos processos clínicos das casas de saúde.
 
-###### Art. 11.º As casas de saúde remeterão à Direcção-Geral dos Hospitais os apuramentos estatísticos que lhes sejam solicitados.
+Art. 11.º As casas de saúde remeterão à Direcção-Geral dos Hospitais os apuramentos estatísticos que lhes sejam solicitados.
 
-###### Art. 12.º - 1. A falta de cumprimento das disposições relativas ao licenciamento e funcionamento das casas de saúde, bem como do disposto no artigo 11.º, será punida com multa de 1000$00 a 50000$00.
+Art. 12.º - 1. A falta de cumprimento das disposições relativas ao licenciamento e funcionamento das casas de saúde, bem como do disposto no artigo 11.º, será punida com multa de 1000$00 a 50000$00.
 
 2. Se, aplicada a multa, não for dado cumprimento às condições estabelecidas dentro do prazo fixado, poderá ser determinado o encerramento temporário ou definitivo da casa de saúde, caducando, no segundo caso, o alvará.
 
-###### Art. 13.º - 1. As multas serão aplicadas pelo director-geral dos Hospitais e graduadas segundo a gravidade da falta.
+Art. 13.º - 1. As multas serão aplicadas pelo director-geral dos Hospitais e graduadas segundo a gravidade da falta.
 
 2. O encerramento temporário ou definitivo carece de despacho do Ministro da Saúde e Assistência e só deve ser determinado quando houver grave violação das normas legais de licenciamento ou de funcionamento e, neste último caso, depois de ouvida a Ordem dos Médicos, a qual emitirá parecer no prazo de quinze dias. Findo este prazo, a decisão será tomada, com dispensa do parecer, se não tiver sido recebido.
 
 3. O encerramento temporário poderá ser imediatamente imposto sem dependência de prévia aplicação de multa ou de audição da Ordem dos Médicos, quando houver urgência nessa determinação por o funcionamento da casa de saúde constituir perigo para os doentes internados.
 
-###### Art. 14.º Quando for determinado o encerramento de uma casa de saúde, serão simultâneamente adoptadas as providências adequadas em relação aos internados que não possam ter alta.
+Art. 14.º Quando for determinado o encerramento de uma casa de saúde, serão simultâneamente adoptadas as providências adequadas em relação aos internados que não possam ter alta.
 
-###### Art. 15.º As participações feitas pela Ordem dos Médicos à Direcção-Geral dos Hospitais, sobre as casas de saúde que estejam a funcionar fora das condições legais e regulamentares, têm o valor de auto de notícia.
+Art. 15.º As participações feitas pela Ordem dos Médicos à Direcção-Geral dos Hospitais, sobre as casas de saúde que estejam a funcionar fora das condições legais e regulamentares, têm o valor de auto de notícia.
 
-###### Art. 16.º - 1. Pelo licenciamento de novas casas de saúde, ou alargamento da capacidade das existentes, são devidas as seguintes taxas:
+Art. 16.º - 1. Pelo licenciamento de novas casas de saúde, ou alargamento da capacidade das existentes, são devidas as seguintes taxas:
 
 a) Apreciação do projecto:
 
@@ -210,16 +226,16 @@ c) Substituição de alvará, incluindo a vistoria prévia ... 1000$00
 
 5. A taxas serão pagas mediante aposição de estampilhas fiscais.
 
-###### Art. 17.º Os peritos ou funcionários encarregados das vistorias têm direito a transportes, bem como a ajudas de custo e a uma gratificação, por cada vistoria efectuada, a fixar por despacho dos Ministros das Finanças e da Saúde e Assistência.
+Art. 17.º Os peritos ou funcionários encarregados das vistorias têm direito a transportes, bem como a ajudas de custo e a uma gratificação, por cada vistoria efectuada, a fixar por despacho dos Ministros das Finanças e da Saúde e Assistência.
 
-###### Art. 18.º - 1. Em relação às casas de saúde instaladas em meios pequenos, pode a Direcção-Geral dos Hospitais, com autorização do Ministro da Saúde e Assistência, dispensar, excepcionalmente, as condições de instalação ou funcionamento que não sejam essenciais e se mostrem de difícil realização naqueles meios.
+Art. 18.º - 1. Em relação às casas de saúde instaladas em meios pequenos, pode a Direcção-Geral dos Hospitais, com autorização do Ministro da Saúde e Assistência, dispensar, excepcionalmente, as condições de instalação ou funcionamento que não sejam essenciais e se mostrem de difícil realização naqueles meios.
 
 2. O disposto neste artigo só se aplicará quando houver manifesto interesse público na existência da casa de saúde em apreço.
 
-###### Art. 19.º - 1. As casas de saúde em funcionamento à data da publicação do presente diploma devem adaptar-se, no prazo de três anos, sob pena de encerramento definitivo, às condições nele exigidas e às que forem fixadas na portaria a que se refere o artigo 8.º O Ministro da Saúde e Assistência poderá, atenta a gravidade das deficiências, fixar período inferior ao que fica previsto.
+Art. 19.º - 1. As casas de saúde em funcionamento à data da publicação do presente diploma devem adaptar-se, no prazo de três anos, sob pena de encerramento definitivo, às condições nele exigidas e às que forem fixadas na portaria a que se refere o artigo 8.º O Ministro da Saúde e Assistência poderá, atenta a gravidade das deficiências, fixar período inferior ao que fica previsto.
 
 2. O prazo a que se refere o n.º 1 pode ser prorrogado, mediante despacho ministerial, por períodos de um ano, ocorrendo motivo ponderoso e justificado, mas, a partir da segunda prorrogação, só o poderá ser havendo manifesta vantagem para a cobertura sanitária do País.
 
-**Publique-se e cumpra-se nele se contém.**
+Publique-se e cumpra-se nele se contém.
 
 Paços do Governo da República, 29 de Abril de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

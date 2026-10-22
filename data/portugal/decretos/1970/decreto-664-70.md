@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/664-1970-154575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f6ec8c9751c97c4733fbc938136283993e20332bfcb0da810d22c7c8e6d624d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13bd2ee9baa4c5f637813110016595421dd9ff7c5d8ba283ef9e025a0455bed1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito
+- Direcção Geral da Contabilidade Pública
+- Ministério da Educação Nacional
+- Ministério das Finanças
+relationships:
+- type: cites
+  target: pt:dre:154425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:10Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +105,11 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial da quantia de 800000$00, devendo a mesma importância ser adicionada à verba inscrita na alínea 1 «Empresa concessionária ...» do n.º 1) do artigo 672.º, capítulo 3.º, do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial da quantia de 800000$00, devendo a mesma importância ser adicionada à verba inscrita na alínea 1 «Empresa concessionária ...» do n.º 1) do artigo 672.º, capítulo 3.º, do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
 
-###### Art. 2.º É anulada a importância de 800000$00 no n.º 1) do artigo 483.º-A, capítulo 3.º, do vigente orçamento do Ministério da Educação Nacional.
+Art. 2.º É anulada a importância de 800000$00 no n.º 1) do artigo 483.º-A, capítulo 3.º, do vigente orçamento do Ministério da Educação Nacional.
 
-###### Art. 3.º À rubrica reforçada por força do artigo 1.º do presente diploma é aditado o seguinte:
+Art. 3.º À rubrica reforçada por força do artigo 1.º do presente diploma é aditado o seguinte:
 
 ... e [Decreto-Lei n.º 658/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/658-1970-154425), de 30 de Dezembro.
 
@@ -101,8 +117,8 @@ Este crédito foi registado na Direcção-Geral da Contabilidade Pública e a mi
 
 Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 30 de Dezembro de 1970.**
+Promulgado em 30 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

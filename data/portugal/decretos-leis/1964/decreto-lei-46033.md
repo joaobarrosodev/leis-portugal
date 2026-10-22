@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77047a115a75b6865620fefadd6d910c6a5864a5225133ccebec43a92d58ad48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9e21c506c7283ff0367388843ffd5cebbc0b255c25f894bd2cab25f24d0f4dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral dos Correios Telégrafos e Telefones
+- Autorização de Despesas
+- Comunicações
+- Contrato de Concessão
+- CTT
+- Empresa Pública
+- Serviço Público
+- Taxa
+- Telefone
 relationships:
 - type: amended_by
   target: pt:dre:286492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286492:por
+  label: "Extinto o Fundo de aquisição do estabelecimento da APT, criado pelo presente diploma, pelo DEC LEI.375/77.05.09.1977.MTC,\
+    \ DR.IS [205] de 05.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1977-286492
+  date: '1977-09-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:07Z'
   warnings: []
   errors: []
 ---
@@ -106,35 +121,35 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Fica o Governo autorizado a promover a aquisição da universalidade do estabelecimento de The Anglo Portuguese Telephone Company, Ltd., nos termos contratuais e de acordo com as providências complementares contidas no presente diploma.
+Artigo 1.º - 1. Fica o Governo autorizado a promover a aquisição da universalidade do estabelecimento de The Anglo Portuguese Telephone Company, Ltd., nos termos contratuais e de acordo com as providências complementares contidas no presente diploma.
 
 2. Estas providências têm em vista consentir a conveniente expansão dos serviços prestados pela referida companhia no período terminal da concessão, permitir ao Estado a obtenção dos empréstimos necessários à aquisição dos bens correspondentes e facilitar a transferência de uns e outros para a Administração-Geral dos Correios, Telégrafos e Telefones.
 
-###### Art. 2.º - 1. Os encargos que resultarem da aquisição referida no artigo anterior serão satisfeitos a partir de aumentos de taxas do tarifário em vigor nas áreas da actual concessão, não pertencendo, portanto, à companhia a receita correspondente.
+Art. 2.º - 1. Os encargos que resultarem da aquisição referida no artigo anterior serão satisfeitos a partir de aumentos de taxas do tarifário em vigor nas áreas da actual concessão, não pertencendo, portanto, à companhia a receita correspondente.
 
 2. Os aumentos das taxas de instalação e assinatura mensal dos postos principais, das conversações locais e regionais e dos serviços subsidiários serão fixados em portaria do Presidente do Conselho e dos Ministros das Finanças, da Economia e das Comunicações.
 
 3. As datas de entrada em vigor destes aumentos, bem como os ajustamentos que, por razões técnicas ou de exploração, haja que introduzir naquele tarifário, serão fixados em portaria do Ministro das Comunicações. Os referidos ajustamentos não ficam sujeitos ao disposto no presente decreto-lei.
 
-###### Art. 3.º - 1. Enquanto durar a concessão, a receita proveniente dos aumentos de taxas a que alude o n.º 2 do artigo anterior será escriturada pela Administração-Geral dos Correios, Telégrafos e Telefones, como «Fundo de aquisição do estabelecimento da APT», sendo facultada no todo ou em parte a The Anglo Portuguese Telephone Company, Ltd., a título de financiamento, vencendo o juro de 6 por cento.
+Art. 3.º - 1. Enquanto durar a concessão, a receita proveniente dos aumentos de taxas a que alude o n.º 2 do artigo anterior será escriturada pela Administração-Geral dos Correios, Telégrafos e Telefones, como «Fundo de aquisição do estabelecimento da APT», sendo facultada no todo ou em parte a The Anglo Portuguese Telephone Company, Ltd., a título de financiamento, vencendo o juro de 6 por cento.
 
 2. Os financiamentos e os juros contados sobre eles ficam em poder da referida companhia, por conta da aquisição.
 
 3. A parte da receita não utilizada para financiamento da companhia será entregue por esta à Administração-Geral dos Correios, Telégrafos e Telefones, que a depositará à sua ordem em conta especial.
 
-###### Art. 4.º - 1. Terminada a concessão e até o início do regime definitivo referido no subsequente artigo 8.º, a receita que se apurar proveniente do aumento de taxas a que alude o n.º 2 do artigo 2.º destinar-se-á a liquidar os encargos que o Estado venha a contrair com os empréstimos referidos no artigo 1.º
+Art. 4.º - 1. Terminada a concessão e até o início do regime definitivo referido no subsequente artigo 8.º, a receita que se apurar proveniente do aumento de taxas a que alude o n.º 2 do artigo 2.º destinar-se-á a liquidar os encargos que o Estado venha a contrair com os empréstimos referidos no artigo 1.º
 
 2. O remanescente pertencerá ao Estado, que o poderá aplicar em financiamentos ao sistema telefónico objecto da actual concessão e aos CTT, em condições a estabelecer em portaria dos Ministros das Finanças e das Comunicações.
 
-###### Art. 5.º Fica o Ministro das Comunicações autorizado a outorgar com The Anglo Portuguese Telephone Company, Ltd., um novo adicional ao contrato de concessão de 25 de Janeiro de 1928, nos termos estabelecidos nas bases anexas ao presente decreto-lei e que dele se consideram parte integrante. Este adicional fica dispensado do visto do Tribunal de Contas.
+Art. 5.º Fica o Ministro das Comunicações autorizado a outorgar com The Anglo Portuguese Telephone Company, Ltd., um novo adicional ao contrato de concessão de 25 de Janeiro de 1928, nos termos estabelecidos nas bases anexas ao presente decreto-lei e que dele se consideram parte integrante. Este adicional fica dispensado do visto do Tribunal de Contas.
 
-###### Art. 6.º - 1. Em execução da aquisição da presente concessão fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, a partir do termo da mesma concessão, a tomar sobre si os encargos de amortização e juros dos empréstimos obrigacionistas que, ao abrigo das portarias do Ministro das Finanças de 18 de Agosto de 1956 e de 13 de Março de 1958, publicadas no Diário do Governo n.os 199 e 64, 3.ª série, de 23 de Agosto de 1956 e de 17 de Março de 1958, respectivamente, a companhia contraiu em Portugal, obtendo para esse efeito o devido acordo dos representantes dos obrigacionistas.
+Art. 6.º - 1. Em execução da aquisição da presente concessão fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, a partir do termo da mesma concessão, a tomar sobre si os encargos de amortização e juros dos empréstimos obrigacionistas que, ao abrigo das portarias do Ministro das Finanças de 18 de Agosto de 1956 e de 13 de Março de 1958, publicadas no Diário do Governo n.os 199 e 64, 3.ª série, de 23 de Agosto de 1956 e de 17 de Março de 1958, respectivamente, a companhia contraiu em Portugal, obtendo para esse efeito o devido acordo dos representantes dos obrigacionistas.
 
 2. No caso de se acordar nesta transferência de encargos, a liquidação dos referidos empréstimos poderá ficar a cargo da Junta do Crédito Público, nos termos que vierem a ser fixados em portaria subscrita pelos Ministros das Finanças e das Comunicações, tendo em conta os correspondentes planos de amortização, publicados, respectivamente, no Diário do Governo n.os 205 e 69, 3.ª série, de 30 de Agosto de 1956 e de 22 de Março de 1958.
 
 3. No caso de a mesma transferência se efectivar, todos os encargos resultantes constituem despesa da exploração do sistema telefónico, objecto da actual concessão.
 
-###### Art. 7.º - 1. O Ministro das Comunicações nomeará, em portaria, uma comissão com o encargo de, durante o período que anteceder a transferência desta concessão para os CTT, cooperar activamente com a administração de The Anglo Portuguese Telephone Company, Ltd., em todos os assuntos que, de qualquer modo, se relacionem com a dita transferência, e, operada esta, exercer transitòriamente a administração efectiva dos bens e serviços abrangidos pela concessão até que seja estabelecido, nos termos do subsequente artigo 8.º, o regime definitivo de exploração desse mesmo sistema telefónico.
+Art. 7.º - 1. O Ministro das Comunicações nomeará, em portaria, uma comissão com o encargo de, durante o período que anteceder a transferência desta concessão para os CTT, cooperar activamente com a administração de The Anglo Portuguese Telephone Company, Ltd., em todos os assuntos que, de qualquer modo, se relacionem com a dita transferência, e, operada esta, exercer transitòriamente a administração efectiva dos bens e serviços abrangidos pela concessão até que seja estabelecido, nos termos do subsequente artigo 8.º, o regime definitivo de exploração desse mesmo sistema telefónico.
 
 2. A comissão fica incumbida de estudar, em colaboração com a mesma companhia, a situação financeira resultante da obrigação contratual assumida pelo Estado de adquirir a universalidade do respectivo estabelecimento, no termo da concessão, e, bem assim, de propor ao Governo as soluções que considere adequadas para os problemas emergentes desta obrigação. Para o bom desempenho das suas funções poderá a mesma comissão, quando o julgar útil, recorrer à colaboração de peritos ou de organizações, públicas ou particulares, especializadas nas matérias em questão.
 
@@ -142,9 +157,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Enquanto subsistir a administração transitória antes referida, manter-se-ão os direitos e deveres do pessoal da companhia existentes à data da transferência da concessão. A situação definitiva deste pessoal será fixada no diploma referido no subsequente artigo 8.º, tendo em conta a sua posição à data da mencionada transferência e a movimentação efectuada posteriormente quando homologada pelo Ministro das Comunicações.
 
-###### Art. 8.º O regime definitivo de administração do sistema que constitui a universalidade desta concessão será estabelecido em diploma bastante, mediante proposta da comissão referida no artigo anterior.
+Art. 8.º O regime definitivo de administração do sistema que constitui a universalidade desta concessão será estabelecido em diploma bastante, mediante proposta da comissão referida no artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

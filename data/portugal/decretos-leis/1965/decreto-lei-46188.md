@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46188-1965-238775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2b43dec311718653aeb10d83827f3d420b669054777879c6330f92ac3b88cb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33e6b5460e9c304d519d0ca76a1aa2b3f0fcf770550cd604963d7a1c751d1f02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mercadoria
+- Papel
+- Pauta dos Direitos de Importação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:11Z'
   warnings: []
   errors: []
 ---
@@ -84,7 +87,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aditadas, como segue, as notas aos artigos 48.01.09 e 48.01.10 da pauta de importação:
+Artigo único. São aditadas, como segue, as notas aos artigos 48.01.09 e 48.01.10 da pauta de importação:
 
 48.01.09 ...
 
@@ -94,6 +97,6 @@ Nota. - O papel próprio para a impressão de cartões perfurados para máquinas
 
 Nota. - A cartolina própria para a impressão de cartões perfurados para máquinas de estatística, quando importada por empresas que possuam instalações para a sua impressão e corte e a utilizem para o efeito, estará sujeita na sua importação às taxas de 1$00 e $50 por quilograma, respectivamente nas pautas máxima e mínima, mediante parecer favorável prestado pela Inspecção-Geral dos Produtos Agrícolas e Industriais do qual se mostre que a mesma não é fabricada econòmicamente no País. A cartolina a que for dada qualquer outra aplicação ou que tiver outro destino considera-se descaminhada aos direitos do presente artigo, podendo os desperdícios ser vendidos ùnicamente a fábricas de papel pelo preço corrente das aparas. Os interessados deverão registar em livro próprio as entradas da cartolina a que se refere esta nota e as aplicações que lhe foram dadas e ainda facultar ao exame da fiscalização aduaneira todos os elementos que se tornem necessários à averiguação dessas aplicações e à conferência das existências.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Fevereiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

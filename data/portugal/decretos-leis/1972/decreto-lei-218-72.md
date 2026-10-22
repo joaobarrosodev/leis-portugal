@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/06/14800/08340834.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1972-673850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 055a36bf28e9bfa459bb7535f55aae6f40c88b2407d8380e22a7fec95a0bc6fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c967a3671897d29af0eb978d54a73fa907d9376afc00c616991cd1c315269a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fretamento
+- Marinha Mercante
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:663361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654481:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663361:por
+  label: "Revogado pelo DEC LEI.34/87.20.01.1987.MOPTC, DR.IS [16] de 20.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1987-663361
+  date: '1987-01-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:00Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +113,7 @@ Convindo integrar num só diploma as disposições sobre reserva de tráfego à 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O tráfego marítimo, de passageiros e de mercadorias, entre portos nacionais é reservado aos navios portugueses explorados por empresas de navegação nacionais que de maneira regular o sirvam.
+Artigo 1.º - 1. O tráfego marítimo, de passageiros e de mercadorias, entre portos nacionais é reservado aos navios portugueses explorados por empresas de navegação nacionais que de maneira regular o sirvam.
 
 2. Podem, no entanto, ser transportados em navios estrangeiros:
 
@@ -111,24 +131,24 @@ e) A carga frigorífica.
 
 4. Em conformidade com a jurisdição estabelecida no número anterior, poderá o Ministro da Marinha ou o do Ultramar revogar por portaria qualquer das excepções previstas no n.º 2, salvo a primeira, logo que a navegação nacional seja suficiente para resolver as necessidades de tráfego abrangidas por essa excepção.
 
-###### Art. 2.º - 1. Os Ministros da Marinha e do Ultramar podem delegar a autorização a que se refere o n.º 3 do artigo anterior no presidente da Junta Nacional da Marinha Mercante.
+Art. 2.º - 1. Os Ministros da Marinha e do Ultramar podem delegar a autorização a que se refere o n.º 3 do artigo anterior no presidente da Junta Nacional da Marinha Mercante.
 
 2. O presidente da Junta Nacional da Marinha Mercante podo atribuir aos delegados do referido organismo nas províncias ultramarinas a competência, que lhe for delegada, em relação a carregamentos a efectuar na respectiva província, quer para portos da mesma ou de outra província ultramarina, quer para os da metrópole.
 
-###### Art. 3.º - 1. Salvo circunstâncias especiais, reconhecidas como tal por despacho do Ministro da Marinha, só as empresas de navegação de interesse nacional podem
+Art. 3.º - 1. Salvo circunstâncias especiais, reconhecidas como tal por despacho do Ministro da Marinha, só as empresas de navegação de interesse nacional podem
 
 explorar carreiras entre as várias parcelas do território nacional, nas condições pelo mesmo Ministro estabelecidas, ouvida a Junta Nacional da Marinha Mercante.
 
 2. Quando as carreiras disserem apenas respeito às províncias ultramarinas, será ouvido o Ministro do Ultramar sobre os despachos e as condições referidos no número anterior.
 
-###### Art. 4.º Ficam revogados o [Decreto-Lei n.º 39375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39375-1953-654481), de 3 de Outubro de 1953, o artigo 3.º do [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, e o [Decreto-Lei n.º 48855](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48855-1969-526643), de 1 de Fevereiro de 1969.
+Art. 4.º Ficam revogados o [Decreto-Lei n.º 39375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39375-1953-654481), de 3 de Outubro de 1953, o artigo 3.º do [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, e o [Decreto-Lei n.º 48855](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48855-1969-526643), de 1 de Fevereiro de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 21 de Junho de 1972.**
+Promulgado em 21 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as provinciais ultramarinas. - J. da Silva Cunha.

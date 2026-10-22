@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11700/11001100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1980-474107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f96f44f65ed7e3f82695609359b808b4625ab03cf67a8d5f4d91221f91cb614
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d910437996d0abe2f660878675a6619b9e710cdc73ddd1764a778819dc5dec88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cadastro Geométrico
+- Contribuições e Impostos
+- Emolumento Cadastral
+- Prédio Rústico
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:613240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:40Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +110,9 @@ Nesta conformidade:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto-Lei n.º 34456](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34456-1945-613240), de 22 de Março de 1945, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto-Lei n.º 34456](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34456-1945-613240), de 22 de Março de 1945, passa a ter a seguinte redacção:
 
-###### Art. 2.º A fim de compensar as despesas a efectuar com a conservação do cadastro geométrico da propriedade rústica será cobrado o emolumento de 10$00 por hectare ou fracção da área do prédio, o qual será devido, em todos os actos de transmissão, pelos adquirentes da propriedade transmitida e, nas modificações de cultura, pelos seus proprietários, usufrutuários, arrendatários ou possuidores por qualquer título.
+Art. 2.º A fim de compensar as despesas a efectuar com a conservação do cadastro geométrico da propriedade rústica será cobrado o emolumento de 10$00 por hectare ou fracção da área do prédio, o qual será devido, em todos os actos de transmissão, pelos adquirentes da propriedade transmitida e, nas modificações de cultura, pelos seus proprietários, usufrutuários, arrendatários ou possuidores por qualquer título.
 
 § 1.º O emolumento será devido em relação a cada um dos prédios ou parte de prédios que resultem da divisão a que se tiver procedido por qualquer título ou em relação às parcelas dos prédios em que tenha ocorrido modificação de cultura.
 
@@ -110,8 +124,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 9 de Maio de 1980.**
+Promulgado em 9 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

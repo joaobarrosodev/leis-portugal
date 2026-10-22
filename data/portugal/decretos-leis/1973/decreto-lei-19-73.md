@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1973-683634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 308d2f38357c8b18ab671d693b8d0f743499126eb141e3a8abfcdcaa74da4d42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eccc64f5067ace332a1d9ffb32e2ce54681ba3414ba7b2822444d7db80d090d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Coordenador
+- Conselho Superior de Fomento Ultramarino
+- Definição de Competências
+- Extinção de Serviços
+- Gabinete do Plano do Cunene
+- Gestão Financeira
+- Ministro do Ultramar
+- Presidente
+- Remuneração
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:198679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:33Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +117,13 @@ Reconhece-se, por outro lado, a conveniência da integração do colonato de Cap
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Gabinete do Plano do Cunene, criado pelo [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969, passa a dispor de autonomia administrativa e financeira e de património próprio, continuando a reger-se pelas disposições daquele decreto-lei não alteradas pelo presente diploma.
+Artigo 1.º O Gabinete do Plano do Cunene, criado pelo [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969, passa a dispor de autonomia administrativa e financeira e de património próprio, continuando a reger-se pelas disposições daquele decreto-lei não alteradas pelo presente diploma.
 
-###### Art. 2.º Os artigos 2.º, 3.º, 6.º, 7.º, 10.º, 15.º e 17.º do citado [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679) passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º, 3.º, 6.º, 7.º, 10.º, 15.º e 17.º do citado [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679) passam a ter a seguinte redacção:
 
-###### Art. 2.º O Gabinete do Plano do Cunene tem por objectivo geral promover, orientar e coordenar todas as actividades relacionadas com o aproveitamento dos recursos hídricos da região do Sul de Angola, que hajam de ser exercidas, para fins de desenvolvimento económico e social, nas áreas das bacias hidrográficas dos rios Cunene e Cuvelai e, eventualmente, noutras áreas da região, para o efeito definidas pelo Ministro do Ultramar, ouvido o Governo-Geral de Angola.
+Art. 2.º O Gabinete do Plano do Cunene tem por objectivo geral promover, orientar e coordenar todas as actividades relacionadas com o aproveitamento dos recursos hídricos da região do Sul de Angola, que hajam de ser exercidas, para fins de desenvolvimento económico e social, nas áreas das bacias hidrográficas dos rios Cunene e Cuvelai e, eventualmente, noutras áreas da região, para o efeito definidas pelo Ministro do Ultramar, ouvido o Governo-Geral de Angola.
 
-###### Art. 3.º Para execução do disposto no artigo anterior compete em especial ao Gabinete do Plano do Cunene:
+Art. 3.º Para execução do disposto no artigo anterior compete em especial ao Gabinete do Plano do Cunene:
 
 a) Promover a elaboração dos estudos de natureza técnica, económica e social necessários para a execução e efectiva utilização, para os fins a que se destinam, dos empreendimentos contemplados no esquema do aproveitamento hidráulico das bacias do Cunene e Cuvelai e, bem assim, noutros esquemas ou planos que venham a ser aprovados pelo Ministro do Ultramar com vista ao aproveitamento integral dos recursos hídricos do Sul de Angola;
 
@@ -124,7 +149,7 @@ i) ...
 
 ...
 
-###### Art. 6.º Para servir as necessidades de coordenação referidas no § único do artigo 3.º será constituído pelo Governador-Geral de Angola um conselho coordenador, com sede em Luanda, no qual terão representação o Gabinete do Plano do Cunene e os departamentos públicos provinciais com ingerência nos diversos sectores do desenvolvimento da região do Sul de Angola, devendo ainda participar nas reuniões os governadores dos distritos interessados, expressamente convocados para este fim.
+Art. 6.º Para servir as necessidades de coordenação referidas no § único do artigo 3.º será constituído pelo Governador-Geral de Angola um conselho coordenador, com sede em Luanda, no qual terão representação o Gabinete do Plano do Cunene e os departamentos públicos provinciais com ingerência nos diversos sectores do desenvolvimento da região do Sul de Angola, devendo ainda participar nas reuniões os governadores dos distritos interessados, expressamente convocados para este fim.
 
 § 1.º Os representantes dos departamentos públicos a que se refere o corpo deste artigo serão designados pelo Governador-Geral, em presença da agenda de trabalhos fixada para cada reunião, por sua própria iniciativa ou mediante proposta do director do Gabinete, quando a reunião tenha lugar a pedido deste.
 
@@ -138,7 +163,7 @@ i) ...
 
 § 6.º As reuniões das secções distritais do conselho coordenador serão presididas pelo governador do distrito, ou, nos seus impedimentos, pelo director-delegado do Gabinete, o qual deverá participar sempre nas reuniões ou fazer-se representar pelo substituto legal.
 
-###### Art. 7.º As actas das reuniões do conselho coordenador e das suas secções distritais serão submetidas à homologação do Governador-Geral, devendo as do conselho coordenador ser remetidas por cópia ao presidente do Conselho Superior de Fomento Ultramarino para serem presentes ao Ministro do Ultramar com as considerações que lhe merecerem.
+Art. 7.º As actas das reuniões do conselho coordenador e das suas secções distritais serão submetidas à homologação do Governador-Geral, devendo as do conselho coordenador ser remetidas por cópia ao presidente do Conselho Superior de Fomento Ultramarino para serem presentes ao Ministro do Ultramar com as considerações que lhe merecerem.
 
 § 1.º Uma vez homologadas pelo Governador-Geral e visadas pelo Ministro do Ultramar, as recomendações constantes das actas do conselho coordenador serão consideradas de carácter executório pelos departamentos a que digam respeito.
 
@@ -150,7 +175,7 @@ i) ...
 
 ...
 
-###### Art. 10.º Os vencimentos, gratificações, subsídios e quaisquer outras remunerações do presidente do Conselho Superior de Fomento Ultramarino, dos membros do Gabinete, do conselho coordenador e do pessoal ao serviço do Gabinete, nomeado em comissão de serviço, contratado ou pertencente aos quadros aprovados, serão fixados por despacho do Ministro do Ultramar.
+Art. 10.º Os vencimentos, gratificações, subsídios e quaisquer outras remunerações do presidente do Conselho Superior de Fomento Ultramarino, dos membros do Gabinete, do conselho coordenador e do pessoal ao serviço do Gabinete, nomeado em comissão de serviço, contratado ou pertencente aos quadros aprovados, serão fixados por despacho do Ministro do Ultramar.
 
 § 1.º ...
 
@@ -162,7 +187,7 @@ i) ...
 
 ...
 
-###### Art. 15.º As despesas de funcionamento do Gabinete, seja qual for a sua natureza, serão suportadas por verbas inscritas no orçamento geral do Estado de Angola, pelas receitas resultantes da exploração e reembolso ao Estado, cobradas de beneficiários dos empreendimentos ou serviços a seu cargo, e das comparticipações de outras origens que forem atribuídas para aquele fim.
+Art. 15.º As despesas de funcionamento do Gabinete, seja qual for a sua natureza, serão suportadas por verbas inscritas no orçamento geral do Estado de Angola, pelas receitas resultantes da exploração e reembolso ao Estado, cobradas de beneficiários dos empreendimentos ou serviços a seu cargo, e das comparticipações de outras origens que forem atribuídas para aquele fim.
 
 § 1.º Mediante requisição ao Governo-Geral de Angola, transitarão para o Gabinete as dotações a inscrever anualmente nos orçamentos do Estado de Angola, incluindo as previstas nos planos de fomento, para cobertura dos encargos atribuídos ao Gabinete, nos termos do presente diploma.
 
@@ -174,45 +199,45 @@ i) ...
 
 ...
 
-###### Art. 17.º São declaradas de utilidade pública urgente as expropriações necessárias à construção das obras a executar pelo Gabinete que forem aprovadas superiormente.
+Art. 17.º São declaradas de utilidade pública urgente as expropriações necessárias à construção das obras a executar pelo Gabinete que forem aprovadas superiormente.
 
-###### Art. 3.º - 1. A Brigada Técnica de Fomento e Povoamento do Cunene, criada pela [Portaria n.º 14226](https://diariodarepublica.pt/dr/detalhe/portaria/14226-1953-422992), de 10 de Janeiro de 1954, considera-se extinta a partir de 30 de Junho de 1973.
+Art. 3.º - 1. A Brigada Técnica de Fomento e Povoamento do Cunene, criada pela [Portaria n.º 14226](https://diariodarepublica.pt/dr/detalhe/portaria/14226-1953-422992), de 10 de Janeiro de 1954, considera-se extinta a partir de 30 de Junho de 1973.
 
 2. A partir da mesma data, as funções atribuídas à referida Brigada passam a ser exercidas pelo Gabinete do Plano do Cunene.
 
-###### Art. 4.º - 1. Até à data referida no artigo 3.º serão transferidos para o Gabinete do Plano do Cunene todos os bens, direitos e obrigações que, a qualquer título, se encontrem afectos à Brigada Técnica de Fomento e Povoamento do Cunene.
+Art. 4.º - 1. Até à data referida no artigo 3.º serão transferidos para o Gabinete do Plano do Cunene todos os bens, direitos e obrigações que, a qualquer título, se encontrem afectos à Brigada Técnica de Fomento e Povoamento do Cunene.
 
 2. A transferência para o património do Gabinete do Plano do Cunene dos bens referidos no número anterior será efectuada por meio de inventários consignados em autos e abrangerá todos os materiais, equipamentos, semoventes, arquivos, instalações e demais bens, móveis e imóveis, afectos ao serviço daquela Brigada.
 
 3. Os autos da transferência de bens, efectuada por força do disposto no n.º 2 deste artigo, serão considerados como títulos suficientes para todos os efeitos legais, qualquer que seja a forma pela qual os mesmos bens se encontrem registados.
 
-###### Art. 5.º - 1. O pessoal contratado da Brigada Técnica de Fomento e Povoamento do Cunene passa, a partir da data referida no artigo 3.º, independentemente de quaisquer formalidades e sem interrupção de serviço, a exercer funções semelhantes no Gabinete do Plano do Cunene, continuando em vigor todas as disposições que regem os respectivos contratos.
+Art. 5.º - 1. O pessoal contratado da Brigada Técnica de Fomento e Povoamento do Cunene passa, a partir da data referida no artigo 3.º, independentemente de quaisquer formalidades e sem interrupção de serviço, a exercer funções semelhantes no Gabinete do Plano do Cunene, continuando em vigor todas as disposições que regem os respectivos contratos.
 
 2. Para efeitos do disposto no número anterior, será elaborada relação nominal, aprovada pelo Ministro do Ultramar, a enviar ao Tribunal de Contas para efeitos de anotação.
 
 3. A partir da data fixada no artigo 3.º passa a constituir encargo do Gabinete do Plano do Cunene o pagamento das remunerações e dos restantes encargos legais relativos ao pessoal constante da relação a que se refere o número anterior.
 
-###### Art. 6.º - 1. Até 1 de Agosto de 1973 será publicada portaria do Ministro do Ultramar aumentando os quadros constantes da [Portaria n.º 549/72](https://diariodarepublica.pt/dr/detalhe/portaria/549-1972-691382), de 22 de Setembro, podendo os novos lugares ser preenchidos mediante contratos de provimento a celebrar para o efeito por funcionários que, nos termos do artigo 5.º deste diploma, tenham passado a prestar serviço no Gabinete.
+Art. 6.º - 1. Até 1 de Agosto de 1973 será publicada portaria do Ministro do Ultramar aumentando os quadros constantes da [Portaria n.º 549/72](https://diariodarepublica.pt/dr/detalhe/portaria/549-1972-691382), de 22 de Setembro, podendo os novos lugares ser preenchidos mediante contratos de provimento a celebrar para o efeito por funcionários que, nos termos do artigo 5.º deste diploma, tenham passado a prestar serviço no Gabinete.
 
 2. Os funcionários não providos nos quadros poderão, se assim o desejarem e mediante a celebração de novos contratos, continuar a prestar serviço no Gabinete do Plano do Cunene na situação de contratados além dos quadros, admitindo-se alteração das actuais categorias.
 
 3. Os contratos dos funcionários que não desejem optar pelo disposto no número anterior poderão ser mantidos por mútuo acordo, sendo os encargos satisfeitos pelo Gabinete do Plano do Cunene.
 
-###### Art. 7.º - 1. As dotações destinadas ao colonato de Capelongo nos programas de empreendimentos dos planos de fomento serão inscritas nos orçamentos do Gabinete do Plano do Cunene.
+Art. 7.º - 1. As dotações destinadas ao colonato de Capelongo nos programas de empreendimentos dos planos de fomento serão inscritas nos orçamentos do Gabinete do Plano do Cunene.
 
 2. O disposto no número anterior aplica-se ao saldo verificado na data referida no artigo 3.º, em relação às dotações atribuídas à Brigada Técnica de Fomento e Povoamento do Cunene no orçamento geral do Estado Português de Angola de 1973.
 
-###### Art. 8.º O Ministro do Ultramar poderá autorizar a constituição de representações do Gabinete do Plano do Cunene em localidades do Estado de Angola, sempre que as actividades desenvolvidas o recomendem.
+Art. 8.º O Ministro do Ultramar poderá autorizar a constituição de representações do Gabinete do Plano do Cunene em localidades do Estado de Angola, sempre que as actividades desenvolvidas o recomendem.
 
-###### Art. 9.º Constituirão encargo do Gabinete do Plano do Cunene os vencimentos, gratificações ou quaisquer outras remunerações, assim como as despesas de deslocação dos funcionários do Ministério do Ultramar ou dos serviços da administração ultramarina que o Ministro do Ultramar determine que prestem serviço no referido Gabinete, em regime de comissão eventual ou de acumulação.
+Art. 9.º Constituirão encargo do Gabinete do Plano do Cunene os vencimentos, gratificações ou quaisquer outras remunerações, assim como as despesas de deslocação dos funcionários do Ministério do Ultramar ou dos serviços da administração ultramarina que o Ministro do Ultramar determine que prestem serviço no referido Gabinete, em regime de comissão eventual ou de acumulação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Janeiro de 1973.**
+Promulgado em 11 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
 

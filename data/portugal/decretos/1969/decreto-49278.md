@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49278-1969-214250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfc24ee06f7f6e552bc0b0214618293d18636d497d1f8aa68d809015f4b770dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93fe6e0d0aa859a1c03c28f98e772ae10a1a72be592a5fbe5986b2dad0cc1be4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:28Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O pessoal da Junta Autónoma de Estradas de Angola distribui-se por dois quadros permanentes, um comum e outro privativo da província, a que se referem, respectivamente, os mapas I e II anexos ao presente diploma, que dele fazem parte integrante e baixam assinados pelo Ministro do Ultramar.
+Artigo 1.º - 1. O pessoal da Junta Autónoma de Estradas de Angola distribui-se por dois quadros permanentes, um comum e outro privativo da província, a que se referem, respectivamente, os mapas I e II anexos ao presente diploma, que dele fazem parte integrante e baixam assinados pelo Ministro do Ultramar.
 
 2. Observadas as designações e categorias que constam do mapa II, o número de unidades do quadro privativo será fixado pelo Governo-Geral de Angola.
 
@@ -103,9 +103,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5. Os lugares de nomeação pertencentes ao quadro comum poderão ser providos, em comissão ordinária de serviço, por pessoal requisitado a outros quadros, ultramarinos ou metropolitanos, nos termos previstos no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 2.º Para além dos quadros referidos no artigo anterior, poderá ser contratado ou assalariado outro pessoal para a execução de tarefas de carácter transitório ou eventual, pessoal ao qual não poderão ser atribuídos vencimentos ou outras regalias superiores às do pessoal permanente do mesmo ramo de serviço, de igual ou equivalente categoria.
+Art. 2.º Para além dos quadros referidos no artigo anterior, poderá ser contratado ou assalariado outro pessoal para a execução de tarefas de carácter transitório ou eventual, pessoal ao qual não poderão ser atribuídos vencimentos ou outras regalias superiores às do pessoal permanente do mesmo ramo de serviço, de igual ou equivalente categoria.
 
-###### Art. 3.º - 1. Sob proposta do Governo-Geral de Angola, o Ministro do Ultramar distribuirá, em lista nominal anotada pelo Tribunal de Contas e publicada no Diário do Governo, o pessoal de categoria igual ou superior à da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino pelos lugares do quadro comum constantes do mapa I.
+Art. 3.º - 1. Sob proposta do Governo-Geral de Angola, o Ministro do Ultramar distribuirá, em lista nominal anotada pelo Tribunal de Contas e publicada no Diário do Governo, o pessoal de categoria igual ou superior à da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino pelos lugares do quadro comum constantes do mapa I.
 
 2. O Governo-Geral de Angola distribuirá o restante pessoal dos actuais quadros, em lista nominal anotada pelo Tribunal Administrativo e publicada no Boletim Oficial, pelos lugares do quadro privativo referidos no mapa II.
 
@@ -117,21 +117,21 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 6. Ao pessoal da Junta que transite para os quadros permanentes referidos no presente diploma não poderá ser atribuída categoria inferior à que actualmente ocupa, mesmo quando entre os dois cargos não haja perfeita correspondência de categorias ou de vencimentos.
 
-###### Art. 4.º - 1. O recrutamento de pessoal para os lugares que, depois de feita a transição, fiquem por preencher ou para as vagas que de futuro venham a verificar-se far-se-á, em regra, mediante concurso documental ou de provas práticas, consoante a legislação aplicável.
+Art. 4.º - 1. O recrutamento de pessoal para os lugares que, depois de feita a transição, fiquem por preencher ou para as vagas que de futuro venham a verificar-se far-se-á, em regra, mediante concurso documental ou de provas práticas, consoante a legislação aplicável.
 
 2. Se para o lugar a prover estiver prevista nos mapas anexos mais de uma categoria, a admissão far-se-á pela categoria mais baixa.
 
-###### Art. 5.º Os lugares que ficarem vagos depois da transição a que se refere o artigo 3.º só serão preenchidos quando orçamentados e à medida que as disponibilidades da Junta o permitam.
+Art. 5.º Os lugares que ficarem vagos depois da transição a que se refere o artigo 3.º só serão preenchidos quando orçamentados e à medida que as disponibilidades da Junta o permitam.
 
-###### Art. 6.º Os órgãos legislativos da província expedirão, ao abrigo do n.º V da base XXIV da Lei Orgânica do Ultramar Português, diplomas reguladores da composição do quadro privativo e do recrutamento, atribuições, vencimentos, salários e outras formas de remuneração do seu pessoal.
+Art. 6.º Os órgãos legislativos da província expedirão, ao abrigo do n.º V da base XXIV da Lei Orgânica do Ultramar Português, diplomas reguladores da composição do quadro privativo e do recrutamento, atribuições, vencimentos, salários e outras formas de remuneração do seu pessoal.
 
-###### Art. 7.º Fica o Governo-Geral de Angola autorizado a tomar as disposições de ordem financeira necessárias para o cumprimento do disposto no presente diploma.
+Art. 7.º Fica o Governo-Geral de Angola autorizado a tomar as disposições de ordem financeira necessárias para o cumprimento do disposto no presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Setembro de 1969.**
+Promulgado em 15 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -141,12 +141,12 @@ Mapa I
 
 Pessoal da Junta Autónoma de Estradas de Angola (quadro comum)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/22800/13271329.pdf))](https://files.diariodarepublica.pt/1s/1969/09/22800/13271329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/22800/13271329.pdf)
 
 Mapa II
 
 Pessoal da Junta Autónoma de Estradas de Angola (quadro privativo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/22800/13271329.pdf))](https://files.diariodarepublica.pt/1s/1969/09/22800/13271329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/22800/13271329.pdf)
 
 Ministério do Ultramar, 15 de Setembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

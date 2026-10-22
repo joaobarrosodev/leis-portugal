@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/25400/12961296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1974-471369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eee2128d4de809c0b0c295c4967b25e1245be1ba9faa32ea153c13dae72d665e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 463a3799c364db7c8fcd266bf265765bb5d45643eb3df1fe887b6253f9a54ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido Militar
+- Criação de Lugares
+- Embaixada
+- Portugal
+- Profissão Diplomática
+- Washington
 relationships:
 - type: amended_by
   target: pt:dre:389378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:389378:por
+  label: "Revogado pelo DEC LEI.56/81.31.03.1981.CR, DR.IS [75] de 31.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1981-389378
+  date: '1981-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:58Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +101,18 @@ de 31 de Outubro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado o lugar de adido de defesa nacional junto da Embaixada de Portugal em Washington.
+Artigo 1.º - 1. É criado o lugar de adido de defesa nacional junto da Embaixada de Portugal em Washington.
 
 2. O cargo a que se refere o número anterior será desempenhado, cumulativamente, pelo adido, junto da mesma Embaixada, de hierarquia militar superior.
 
-###### Art. 2.º O adido de defesa nacional representa e serve o Estado-Maior-General das Forças Armadas, sem prejuízo da competência directiva atribuída por lei ao chefe da missão diplomática.
+Art. 2.º O adido de defesa nacional representa e serve o Estado-Maior-General das Forças Armadas, sem prejuízo da competência directiva atribuída por lei ao chefe da missão diplomática.
 
-###### Art. 3.º Ao adido da defesa nacional aplica-se, com as necessárias adaptações, a legislação relativa a missões militares.
+Art. 3.º Ao adido da defesa nacional aplica-se, com as necessárias adaptações, a legislação relativa a missões militares.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Mário Soares.
 
-**Promulgado em 21 de Outubro de 1974.**
+Promulgado em 21 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

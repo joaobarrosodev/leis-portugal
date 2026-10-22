@@ -47,40 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1979-382060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f714708aa1ab6d2ea4b20c4d7eab3d77e61d87763d0ea856e760c29f7b4075e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edf13d5f2675283a0f18a811dcc948901959e26e01056eb9b6edace29939e80c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Lisboa
+- Parque de Diversões
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579298:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:11Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +103,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os Parques Infantis de Santa Catarina, S. Pedro de Alcântara, Necessidades e Alcântara são integrados na Santa Casa da Misericórdia de Lisboa, passando o seu funcionamento a ser assegurado imediata e integralmente por esta instituição.
+Artigo 1.º Os Parques Infantis de Santa Catarina, S. Pedro de Alcântara, Necessidades e Alcântara são integrados na Santa Casa da Misericórdia de Lisboa, passando o seu funcionamento a ser assegurado imediata e integralmente por esta instituição.
 
-###### Art. 2.º Os trabalhadores actualmente ao serviço nestes Parques Infantis serão integrados, mediante lista nominativa visada pelo Tribunal de Contas e publicada no Diário da República:
+Art. 2.º Os trabalhadores actualmente ao serviço nestes Parques Infantis serão integrados, mediante lista nominativa visada pelo Tribunal de Contas e publicada no Diário da República:
 
 a) Em lugares do quadro de pessoal da Misericórdia de Lisboa para os quais possuam as habilitações legais;
 
@@ -109,8 +113,8 @@ b) Nos lugares que actualmente ocupam, quando não se verifique a hipótese refe
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 2 de Julho de 1979.**
+Promulgado em 2 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

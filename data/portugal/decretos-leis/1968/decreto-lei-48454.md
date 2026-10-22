@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06201381ecb8fb16050b1e66ead0e5bda970079ad84881da80927ad040b161e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fd07891771b9d4ac8f9f69567ace4c036ba42dccfe30ab3a5eadb6b756aa000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Normalização
+- Controlo de Qualidade
+- Definição de Competências
+- Norma Portuguesa
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:395749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160716:por
+  label: "Alterados os arts. 4º e 9º do Dec Lei 38801 de 25-Jun 1952, com a redacção introduzida pelo presente diploma, pelo\
+    \ DEC LEI.117/75.1975.03.08.MECO DG.IS [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1975-160716
+  date: '1975-03-08'
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:46Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +116,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 7.º e 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 7.º e 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, passam a ter a seguinte redacção:
 
-###### Art. 4.º Efectuado o estudo de uma norma, será o mesmo, com o respectivo relatório, presente ao Conselho de Normalização, que, depois de o apreciar e aprovar, mandará proceder a inquérito público durante 90 dias.
+Art. 4.º Efectuado o estudo de uma norma, será o mesmo, com o respectivo relatório, presente ao Conselho de Normalização, que, depois de o apreciar e aprovar, mandará proceder a inquérito público durante 90 dias.
 
-###### Art. 5.º O inquérito a que se refere o artigo anterior será editado pelo Centro de Normalização e enviado um exemplar a todos os organismos económicos, técnicos e culturais interessados e aos aderentes do Centro de Normalização; os exemplares para outras entidades e os que forem requisitados pelas entidades referidas na primeira parte deste artigo serão pagos pelo preço fixado para as normas.
+Art. 5.º O inquérito a que se refere o artigo anterior será editado pelo Centro de Normalização e enviado um exemplar a todos os organismos económicos, técnicos e culturais interessados e aos aderentes do Centro de Normalização; os exemplares para outras entidades e os que forem requisitados pelas entidades referidas na primeira parte deste artigo serão pagos pelo preço fixado para as normas.
 
 § 1.º Independentemente da distribuição a que se refere o corpo do artigo, o inquérito será anunciado no Boletim de Normalização, publicado pela Inspecção-Geral dos Produtos Agrícolas e Industriais, e em dois jornais de grande circulação de Lisboa e Porto.
 
@@ -113,11 +128,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 7.º O parecer do Conselho de Normalização a que se refere o § 2.º do artigo 5.º será submetido à aprovação do Secretário de Estado da Indústria e, uma vez homologado, será considerado norma definitiva e aprovado por portaria.
+Art. 7.º O parecer do Conselho de Normalização a que se refere o § 2.º do artigo 5.º será submetido à aprovação do Secretário de Estado da Indústria e, uma vez homologado, será considerado norma definitiva e aprovado por portaria.
 
-###### Art. 8.º As normas definitivas são obrigatórias sempre que tal conste de diploma disciplinador de qualquer sector económico ou cultural ou quando expressamente sejam declaradas por portaria assinada pelos Ministros dos sectores a que respeitam.
+Art. 8.º As normas definitivas são obrigatórias sempre que tal conste de diploma disciplinador de qualquer sector económico ou cultural ou quando expressamente sejam declaradas por portaria assinada pelos Ministros dos sectores a que respeitam.
 
-###### Art. 2.º Os §§ 1.º e 2.º do artigo 18.º do referido [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839) passam a ter a seguinte redacção:
+Art. 2.º Os §§ 1.º e 2.º do artigo 18.º do referido [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839) passam a ter a seguinte redacção:
 
 § 1.º Para os efeitos da alínea e) os aderentes do Centro de Normalização dividem-se em duas categorias: os aderentes individuais e os aderentes colectivos.
 
@@ -127,8 +142,8 @@ Estes valores podem ser alterados no fim de cada triénio por portaria do Secret
 
 § 2.º Os aderentes do Centro de Normalização têm direito a receber um exemplar dos inquéritos, das normas e respectivo catálogo e do Boletim de Normalização; igual regalia têm as entidades referidas na alínea c) do corpo do artigo quando participarem anualmente nas receitas do Centro de Normalização com uma quantia pelo menos igual à dos aderentes colectivos.
 
-###### Art. 3.º Independentemente das participações para o Centro de Normalização de acordo com a alínea c) do artigo 18.º do citado [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), os organismos de coordenação económica e os organismos corporativos interessados devem contribuir pelo menos com 50 por cento das despesas necessárias para o estudo e publicação das normas relativas a produtos ligados a actividades por aqueles organismos abrangidas.
+Art. 3.º Independentemente das participações para o Centro de Normalização de acordo com a alínea c) do artigo 18.º do citado [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), os organismos de coordenação económica e os organismos corporativos interessados devem contribuir pelo menos com 50 por cento das despesas necessárias para o estudo e publicação das normas relativas a produtos ligados a actividades por aqueles organismos abrangidas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.

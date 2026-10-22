@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/712-1973-407943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 185481b75cb0ba91f1042b98b4381edbe468e21f253472cdb5620990152d8772
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24a8fd92f4d0124bbc1806c67b3c15be37ec656bf402a7e243844daf4f0258dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bombeiro
+- Diuturnidades
+- Gratificação
+- Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:336357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:336357:por
+  label: "Revogado o art. 3º pelo DEC LEI.405/75.29.07.1975.MAI, DG.IS [173] de 29.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1975-336357
+  date: '1975-07-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:59Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +104,11 @@ Considerando a natureza e o regime de serviço a que está sujeito o pessoal dos
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O pessoal dos batalhões de sapadores bombeiros que seja nomeado, por escolha, para serviços com a duração de vinte e quatro horas seguidas, terá direito a abono para despesas de alimentação do quantitativo a fixar anualmente pelo respectivo presidente da câmara municipal.
+Artigo 1.º O pessoal dos batalhões de sapadores bombeiros que seja nomeado, por escolha, para serviços com a duração de vinte e quatro horas seguidas, terá direito a abono para despesas de alimentação do quantitativo a fixar anualmente pelo respectivo presidente da câmara municipal.
 
-###### Art. 2.º Aos cabos e aos sapadores bombeiros e sapadores bombeiros recrutas, dos batalhões de sapadores bombeiros, será concedida gratificação especial de serviço, das importâncias mensais, respectivamente, de 500$00 e 400$00 .
+Art. 2.º Aos cabos e aos sapadores bombeiros e sapadores bombeiros recrutas, dos batalhões de sapadores bombeiros, será concedida gratificação especial de serviço, das importâncias mensais, respectivamente, de 500$00 e 400$00 .
 
-###### Art. 3.º - 1. Os chefes-ajudantes, chefes, subchefes-ajudantes, subchefes, cabos e sapadores bombeiros dos batalhões de sapadores bombeiros têm direito a uma diuturnidade por cada cinco anos de serviço efectivo no batalhão, até ao máximo de quatro.
+Art. 3.º - 1. Os chefes-ajudantes, chefes, subchefes-ajudantes, subchefes, cabos e sapadores bombeiros dos batalhões de sapadores bombeiros têm direito a uma diuturnidade por cada cinco anos de serviço efectivo no batalhão, até ao máximo de quatro.
 
 2. Cada diuturnidade é de importância correspondente a 15% do ordenado de:
 
@@ -115,14 +126,14 @@ b) Sapador bombeiro, para os cargos de cabos e sapadores bombeiros.
 
 7 transitório. À data da entrada em vigor do presente diploma são atribuídas a todo o pessoal por ele abrangido uma ou duas diuturnidades, conforme tenha cinco ou dez anos, respectivamente, de serviço efectivo, nos termos do n.º 3 deste artigo, contando-se o período das diuturnidades seguintes a partir da mesma data.
 
-###### Art. 4.º O preceituado nos artigos anteriores, poderá aplicar-se, mediante autorização do Ministro do Interior, ao pessoal de categorias idênticas dos demais corpos de bombeiros municipais quando desempenhe as funções em regime igual ao do pessoal dos batalhões de sapadores bombeiros.
+Art. 4.º O preceituado nos artigos anteriores, poderá aplicar-se, mediante autorização do Ministro do Interior, ao pessoal de categorias idênticas dos demais corpos de bombeiros municipais quando desempenhe as funções em regime igual ao do pessoal dos batalhões de sapadores bombeiros.
 
-###### Art. 5.º Este diploma entra em vigor em 1 de Janeiro de 1974.
+Art. 5.º Este diploma entra em vigor em 1 de Janeiro de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - César Henrique Moreira Baptista.
 
-**Promulgado em 29 de Dezembro de 1973.**
+Promulgado em 29 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

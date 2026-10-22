@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47632-1967-509783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f905ab49be1c36c680baf1b2dc8e3f731f80a71afdfa963df422b27c8970e45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f10e13bb077b38f1ad04bee0f370b918ba48f71f75c9ec51e096c9d077a029c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colégio Militar
+- Estabelecimento de Ensino
+- Graduação Militar
+- Instituto Técnico Militar dos Pupilos do Exército
+- Militar
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:301397:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:47Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +99,12 @@ Verificando-se que é maior a garantia de permanência e continuidade no ensino 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § único do artigo 50.º do [Decreto-Lei n.º 32692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32692-1943-301397), de 20 de Fevereiro de 1943, passa a ter a seguinte redacção:
+Artigo 1.º O § único do artigo 50.º do [Decreto-Lei n.º 32692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32692-1943-301397), de 20 de Fevereiro de 1943, passa a ter a seguinte redacção:
 
 § único. Os professores do Colégio Militar e do Instituto Técnico Militar dos Pupilos do Exército, em serviço activo, não podem ter graduação superior a tenente-coronel, ficando, porém, limitado a cinco, por cada estabelecimento de ensino, o número máximo de tenentes-coronéis a nomear para preenchimento dos quadros aprovados por lei.
 
-###### Art. 2.º Os encargos resultantes da execução do presente diploma, no decurso deste ano, serão satisfeitos pelas sobras das dotações consignadas ao pagamento de vencimentos do pessoal dos quadros aprovados por lei de cada um dos estabelecimentos de ensino referidos no artigo 1.º
+Art. 2.º Os encargos resultantes da execução do presente diploma, no decurso deste ano, serão satisfeitos pelas sobras das dotações consignadas ao pagamento de vencimentos do pessoal dos quadros aprovados por lei de cada um dos estabelecimentos de ensino referidos no artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Abril de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

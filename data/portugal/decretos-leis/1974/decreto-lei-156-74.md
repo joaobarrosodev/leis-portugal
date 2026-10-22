@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09200/05510554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1974-411328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43493969dd4913a83ece94847852b1060fdf46b0c8064bb9542701aed47cc321
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23d8850c06512d43b2aa5f97a98645a5b718efb4d50703adc660878c97a4b1ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angra do Heroísmo
+- Aveiro
+- Beja
+- Bragança
+- Castelo Branco
+- Coimbra
+- Concurso
+- Évora
+- Faro
+- Formas de Provimento
+- Funchal
+- Governo Civil
+- Guarda
+- Horta
+- Leiria
+- Lisboa
+- Pessoal Assalariado
+- Pessoal Auxiliar
+- Pessoal Contratado
+- Ponta Delgada
+- Portalegre
+- Porto
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Santarém
+- Setúbal
+- Viana do Castelo
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473548:por
+  label: "Alterados os arts. 9º e 10º e renumerado o (antigo) art. 10º que passa a constituir o art. 15º do presente diploma,\
+    \ pelo DEC LEI.501/74.01.10.1974.MAI, DG.IS [229] de 01.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/501-1974-473548
+  date: '1974-10-01'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421599:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:266090:por
+  label: Rectificado pela DECL.DD9552.24.04.1974.PC, DG.IS [96-Supl] de 24.04.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-266090
+  date: '1974-04-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:37Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +183,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal maior das secretarias dos governos civis passa a ser assim constituído:
+Artigo 1.º O quadro do pessoal maior das secretarias dos governos civis passa a ser assim constituído:
 
 a) Distritos de 1.ª ordem:
 
@@ -284,11 +363,11 @@ Santarém:
 
 3 escriturários-dactilógrafos de 2.ª classe.
 
-###### Art. 2.º - 1. Para assegurar a conservação do edifício do Palácio de S. Lourenço, bem como do respectivo mobiliário e dos jardins anexos, mantém-se no quadro do pessoal do Governo Civil do Distrito do Funchal o cargo de conservador, criado pelo artigo 20.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro.
+Art. 2.º - 1. Para assegurar a conservação do edifício do Palácio de S. Lourenço, bem como do respectivo mobiliário e dos jardins anexos, mantém-se no quadro do pessoal do Governo Civil do Distrito do Funchal o cargo de conservador, criado pelo artigo 20.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro.
 
 2. O referido cargo será provido por contrato e terá a remuneração correspondente à letra Q do grupo de ordenados do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 3.º - 1. O quadro do pessoal auxiliar contratado de cada um dos governos civis é o seguinte:
+Art. 3.º - 1. O quadro do pessoal auxiliar contratado de cada um dos governos civis é o seguinte:
 
 a) Distritos de 1.ª ordem:
 
@@ -336,7 +415,7 @@ Restantes distritos:
 
 4. Igualmente se considera colocado em lugar idêntico e nas mesmas condições o contínuo de 2.ª classe do quadro do pessoal auxiliar do Governo Civil do Distrito de Lisboa com provimento mais antigo.
 
-###### Art. 4.º - 1. Nos governos civis dos distritos a seguir indicados haverá ainda, no quadro do pessoal auxiliar, mas providos por assalariamento a título permanente:
+Art. 4.º - 1. Nos governos civis dos distritos a seguir indicados haverá ainda, no quadro do pessoal auxiliar, mas providos por assalariamento a título permanente:
 
 Angra do Heroísmo:
 
@@ -366,21 +445,21 @@ Viana do Castelo:
 
 2. Aos cargos de mordomo, jardineiro e servente caberão as remunerações que no n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) correspondem, respectivamente, às letras T, X e Y.
 
-###### Art. 5.º - 1. Em cada governo civil haverá ainda um lugar de telefonista de 1.ª classe e outro de telefonista de 2.ª classe.
+Art. 5.º - 1. Em cada governo civil haverá ainda um lugar de telefonista de 1.ª classe e outro de telefonista de 2.ª classe.
 
 2. À classe de telefonista dos quadros do pessoal dos governos civis, a prover por contrato, é aplicável o disposto nos artigos 654.º e seguintes do Código Administrativo.
 
-###### Art. 6.º - 1. O cargo de chefe de secção das secretarias dos Governos Civis dos Distritos de Lisboa e do Porto considera-se integrado, para todos os efeitos, na 1.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local.
+Art. 6.º - 1. O cargo de chefe de secção das secretarias dos Governos Civis dos Distritos de Lisboa e do Porto considera-se integrado, para todos os efeitos, na 1.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local.
 
 2. Aos referidos chefes de secção e aos primeiros-oficiais das secretarias dos restantes governos civis é atribuída gratificação de chefia de importância igual à percebida pelos chefes de secretaria das câmaras municipais dos concelhos de 1.ª e de 2.ª ordem, respectivamente.
 
-###### Art. 7.º Os artigos 479.º e 485.º do Código Administrativo passam a ter a redacção seguinte:
+Art. 7.º Os artigos 479.º e 485.º do Código Administrativo passam a ter a redacção seguinte:
 
-###### Art. 479.º Os funcionários do quadro geral administrativo dos serviços externos da Direcção-Geral podem ser providos em lugares do quadro único da Secretaria-Geral do Ministério do Interior e da mesma Direcção-Geral nas condições para o efeito estabelecidas na Lei Orgânica destes departamentos.
+Art. 479.º Os funcionários do quadro geral administrativo dos serviços externos da Direcção-Geral podem ser providos em lugares do quadro único da Secretaria-Geral do Ministério do Interior e da mesma Direcção-Geral nas condições para o efeito estabelecidas na Lei Orgânica destes departamentos.
 
 ...
 
-###### Art. 485.º Só podem ser admitidos aos concursos de habilitação para promoção:
+Art. 485.º Só podem ser admitidos aos concursos de habilitação para promoção:
 
 1.º Tratando-se de promoção à 2.ª ou 1.ª classe da 2.ª categoria, os funcionários do quadro geral administrativo dos serviços externos pertencentes -Geral, com a habilitação mínima do 2.º ciclo dos liceus ou equivalente, pertencentes às classes imediatamente inferiores e que tenham dois anos, pelo menos, de bom e efectivo serviço na respectiva classe, bem como os licenciados em Direito, ainda que estranhos ao quadro;
 
@@ -398,28 +477,28 @@ c) Os licenciados em Direito com informação final mínima de Bom.
 
 § único. Na falta de candidatos nas condições a que se referem os n.os 3.º e 4.º deste artigo, poderá o Ministro do Interior autorizar que sejam admitidos aos concursos de habilitação licenciados em Direito, independentemente da informação final de curso.
 
-###### Art. 8.º - 1. O cargo de tesoureiro do Governo Civil do Distrito de Lisboa passa a pertencer à 2.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local.
+Art. 8.º - 1. O cargo de tesoureiro do Governo Civil do Distrito de Lisboa passa a pertencer à 2.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local.
 
 2. Ao funcionário actualmente provido no cargo a que se refere o número anterior é aplicável o regime prescrito no artigo 7.º do [Decreto-Lei n.º 46139](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46139-1964-355113), de 31 de Dezembro de 1964.
 
-###### Art. 9.º Os actuais segundos-oficiais das secretarias dos governos civis, com nomeação anterior a 1 de Janeiro de 1970, podem, sob proposta dos respectivos governadores civis, formulada dentro dos trinta dias seguintes ao da publicação deste diploma, ser providos, independentemente de concurso, nos novos cargos de primeiro-oficial das secretarias dos mesmos governos civis.
+Art. 9.º Os actuais segundos-oficiais das secretarias dos governos civis, com nomeação anterior a 1 de Janeiro de 1970, podem, sob proposta dos respectivos governadores civis, formulada dentro dos trinta dias seguintes ao da publicação deste diploma, ser providos, independentemente de concurso, nos novos cargos de primeiro-oficial das secretarias dos mesmos governos civis.
 
-###### Art. 10.º (transitório). Enquanto os actuais titulares se encontrarem providos nos lugares, é mantida aos primeiros-oficiais a que alude o artigo 2.º do [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988) a gratificação prevista no § único do mesmo preceito.
+Art. 10.º (transitório). Enquanto os actuais titulares se encontrarem providos nos lugares, é mantida aos primeiros-oficiais a que alude o artigo 2.º do [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988) a gratificação prevista no § único do mesmo preceito.
 
-###### Art. 11.º O Ministro das Finanças fica autorizado a tomar as providências financeiras indispensáveis à execução do presente diploma.
+Art. 11.º O Ministro das Finanças fica autorizado a tomar as providências financeiras indispensáveis à execução do presente diploma.
 
-###### Art. 12.º Serão resolvidas por despacho do Ministro do Interior as dúvidas que se suscitem na aplicação deste decreto-lei.
+Art. 12.º Serão resolvidas por despacho do Ministro do Interior as dúvidas que se suscitem na aplicação deste decreto-lei.
 
-###### Art. 13.º Além de outras disposições em contrário, ficam revogados a alínea e) do artigo 488.º do Código Administrativo e, sem prejuízo do disposto no artigo 10.º, o artigo 2.º e seu § único do referido [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988).
+Art. 13.º Além de outras disposições em contrário, ficam revogados a alínea e) do artigo 488.º do Código Administrativo e, sem prejuízo do disposto no artigo 10.º, o artigo 2.º e seu § único do referido [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988).
 
-###### Art. 14.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - César Henrique Moreira Baptista - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 11 de Abril de 1974.**
+Promulgado em 11 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

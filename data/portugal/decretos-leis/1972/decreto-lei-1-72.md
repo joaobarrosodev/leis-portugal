@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af9c6c8f38d75314177df1207a67159a4d0bbe9b6455b23b5e86e773674ae64a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a3daf17af1dcf03eb101689dc0ff4fe54618cf0bb0f68c8d0faf0793e0334e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Geral
+- Associação Profissional
+- Câmara dos Revisores Oficiais de Contas
+- Conselho Diretivo
+- Conselho Disciplinar
+- Definição de Competências
+- Estágio de Formação
+- Exame
+- Qualificação Profissional
+- Responsabilidade Criminal
+- Revisor Oficial de Contas
+- Sociedade de Revisores Oficiais de Contas
 relationships:
 - type: amended_by
   target: pt:dre:325547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330457:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:08Z'
   warnings: []
   errors: []
 ---
@@ -114,13 +134,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 REVISORES OFICIAIS DE CONTAS
 
-## TÍTULO I
+TÍTULO I
 
 Regime geral
 
 ### CAPÍTULO I — Funções dos revisores oficiais de contas
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Funções dos revisores)
 
@@ -130,7 +150,7 @@ Regime geral
 
 3. Podem ainda os revisores de contas exercer a sua actividade como empregados de sociedades de revisores.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Sociedades de revisores)
 
@@ -140,7 +160,7 @@ Regime geral
 
 ### CAPÍTULO II — Inscrição na lista
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Obrigatoriedade de inscrição. Organização da lista)
 
@@ -150,7 +170,7 @@ Regime geral
 
 3. Os revisores podem exercer a sua actividade em todo o território nacional.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Condições de inscrição)
 
@@ -176,7 +196,7 @@ b) Tenham sido declarados delinquentes de difícil correcção, vadios ou equipa
 
 c) Estejam interditos, inabilitados, falidos ou insolventes.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Inscrição de estrangeiros)
 
@@ -186,7 +206,7 @@ c) Estejam interditos, inabilitados, falidos ou insolventes.
 
 3. A correspondência de habilitações exclusivamente para os efeitos da alínea a) do n.º 1 do artigo anterior, quando não resulte da lei, será reconhecida por despacho dos Ministros da Justiça e da Educação Nacional.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Estágio profissional)
 
@@ -202,7 +222,7 @@ c) Estejam interditos, inabilitados, falidos ou insolventes.
 
 6. Feito o estágio, é passado um certificado com as apreciações do respectivo director.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Requerimento de admissão ao exame)
 
@@ -224,19 +244,19 @@ e) Certificado do registo criminal.
 
 4. Os nomes e domicílios dos candidatos, bem como a data da entrada do requerimento, são inscritos num registo organizado e mantido na secretaria do tribunal onde o exame deverá realizar-se.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Actos posteriores)
 
 Findo o prazo para se requerer a admissão ao exame, observar-se-á, com as necessárias adaptações, o disposto nos n.os 2 e seguintes do artigo 14.º e nos artigos 15.º e 17.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Publicação da relação dos candidatos)
 
 A relação dos candidatos será publicada no Diário do Governo, com o aviso do lugar, dia e hora do início da prestação das provas e a indicação dos membros do júri.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Júri do exame)
 
@@ -250,7 +270,7 @@ c) Dois revisores de contas, designados pelo conselho directivo da Câmara dos R
 
 2. Os membros do júri têm direito a uma gratificação fixada pelo Ministro da Justiça, bem como a ajudas de custo e a despesas de transporte, nos termos da lei, competindo o respectivo encargo à Câmara dos Revisores.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Exame)
 
@@ -264,7 +284,7 @@ c) Dois revisores de contas, designados pelo conselho directivo da Câmara dos R
 
 5. Para os efeitos dos n.os 3 e 4, a falta às provas e a desistência durante a prestação delas, quando não justificadas, são equiparadas à reprovação.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Comissão encarregada da inscrição na lista)
 
@@ -286,7 +306,7 @@ c) O presidente do conselho directivo da Câmara dos Revisores ou um seu represe
 
 6. A comissão funciona na sede da Relação de Lisboa.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Requerimento de inscrição)
 
@@ -310,7 +330,7 @@ c) Declaração nos termos da alínea b) do número anterior.
 
 5. Os estrangeiros devem ainda juntar, quando necessário, documento comprovativo da equivalência das suas habilitações.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Actos posteriores)
 
@@ -322,7 +342,7 @@ c) Declaração nos termos da alínea b) do número anterior.
 
 4. Não se procederá a inquérito sempre que esta diligência tenha sido realizada há menos de um ano, para efeitos de admissão a exame ou ao estágio.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Deliberações da comissão)
 
@@ -330,7 +350,7 @@ c) Declaração nos termos da alínea b) do número anterior.
 
 2. A deliberação da comissão deve ser notificada ao conselho directivo e ao interessado, por carta registada com aviso de recepção.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Organização e revisão da lista)
 
@@ -340,7 +360,7 @@ c) Declaração nos termos da alínea b) do número anterior.
 
 3. A lista anual deve ser afixada, até 15 de Janeiro, pelo secretário da comissão, na secretaria da Relação de Lisboa; dentro do mesmo prazo, deve também o secretário da comissão enviar uma cópia da lista ao conselho directivo da Câmara dos Revisores e aos secretários das outras Relações, para afixação nos respectivos locais, e à Imprensa Nacional, para publicação no Diário do Governo.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Recurso das deliberações da comissão)
 
@@ -358,7 +378,7 @@ b) Pelo conselho directivo da Câmara dos Revisores, quando a inscrição seja a
 
 5. Os fundamentos do recurso devem constar do próprio requerimento de interposição; se o recurso tiver sido interposto pelo conselho directivo, pode o interessado responder no prazo de oito dias a contar da notificação da junção do requerimento, e no mesmo prazo pode responder o conselho directivo quando o recurso tenha sido interposto pelo interessado.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Suspensão da inscrição)
 
@@ -378,7 +398,7 @@ f) Que não efectuar o pagamento das quotas em dívida à Câmara, depois de not
 
 2. O revisor a quem tiver sido suspensa a inscrição não pode, durante o período da suspensão, invocar a qualidade de revisor oficial de contas.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Cancelamento voluntário da inscrição)
 
@@ -406,7 +426,7 @@ c) Quando, no caso de falta de pagamento de quotas, decorra o prazo estabelecido
 
 ### CAPÍTULO III — Organização profissional
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Câmara dos Revisores Oficiais de Contas. Sua natureza)
 
@@ -416,7 +436,7 @@ c) Quando, no caso de falta de pagamento de quotas, decorra o prazo estabelecido
 
 3. Poderão ser criadas secções regionais da Câmara com âmbito e sede correspondentes aos dos distritos judiciais; a criação será feita por decreto, em que se regulará a respectiva organização e competência.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Atribuições da Câmara)
 
@@ -432,7 +452,7 @@ d) Criar, logo que possível, uma instituição de previdência a favor dos seus
 
 2. Enquanto não puder cumprir o disposto na alínea d) do número anterior, pode a Câmara, com autorização do Ministro da Justiça, determinar que os seus membros se inscrevam obrigatòriamente em alguma instituição que lhes assegure reforma e outras modalidades de previdência adequadas.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Órgãos da Câmara)
 
@@ -446,7 +466,7 @@ c) O conselho disciplinar;
 
 d) O auditor.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Assembleia geral)
 
@@ -468,7 +488,7 @@ d) O auditor.
 
 9. O aditamento à ordem do dia deverá ser levado ao conhecimento dos membros da assembleia, nos três dias imediatos à formulação do pedido de inscrição.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Assembleias gerais ordinárias)
 
@@ -484,13 +504,13 @@ b) Discutir e votar o orçamento para o ano seguinte.
 
 4. À assembleia geral cabe ainda pronunciar-se sobre quaisquer outros assuntos mencionados na ordem do dia e que interessem à Câmara.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Assembleia geral extraordinária)
 
 A assembleia geral extraordinária reúne por determinação do presidente, sempre que o conselho directivo o julgue necessário ou quando o requeira um terço dos revisores no pleno gozo dos seus direitos.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Composição do conselho directivo)
 
@@ -502,7 +522,7 @@ A assembleia geral extraordinária reúne por determinação do presidente, semp
 
 4. O conselho directivo só pode deliberar com a presença do presidente e de três, pelo menos, dos seus vogais, tendo aquele voto de qualidade em caso de empate.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Competência do conselho directivo)
 
@@ -518,7 +538,7 @@ d) Cobrar as receitas da Câmara e efectuar as respectivas despesas;
 
 e) Submeter anualmente à assembleia geral o orçamento para o ano seguinte e o relatório e contas do exercício anterior.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Conselho disciplinar)
 
@@ -532,7 +552,7 @@ e) Submeter anualmente à assembleia geral o orçamento para o ano seguinte e o 
 
 5. Compete ao conselho disciplinar o julgamento, em primeira instância, das infracções disciplinares cometida pelos revisores.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Auditor)
 
@@ -548,7 +568,7 @@ c) Presidir ao conselho disciplinar da Câmara;
 
 d) Apresentar ao Ministério da Justiça, no fim de cada ano, um relatório sobre o funcionamento da Câmara e dos serviços a seu cargo.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Representação da Câmara)
 
@@ -556,7 +576,7 @@ A Câmara é representada, judicial e extrajudicialmente pelo presidente do cons
 
 ### CAPÍTULO IV — Deveres e incompatibilidades dos revisores de contas
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Deveres gerais dos revisores de contas)
 
@@ -578,31 +598,31 @@ g) Pagar as quotas que forem fixadas pela assembleia geral.
 
 2. O revisores de contas que sejam pessoas singulares têm ainda o dever de aceitar e desempenhar os cargos para que forem eleitos ou designados pela Câmara, salvo nos casos de escusa por motivo atendível; o exercício desses cargos é gratuito.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Dever de sigilo profissional)
 
 Os revisores de contas não podem prestar a entidades oficiais ou particulares quaisquer informações relativas a factos de que tenham tomado conhecimento por motivo da prestação dos seus serviços, excepto quando a lei o imponha.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Proibição de aproveitamento de segredos)
 
 É vedado aos revisores de contas aproveitarem-se directa ou indirectamente, salvo autorização expressa e por escrito, de segredos comerciais ou industriais de que tenham tomado conhecimento no desempenho das suas funções.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Dever de agir com o próprio nome)
 
 Os revisores de contas que exerçam individualmente a profissão devem agir com o seu nome, não podendo fazê-lo com pseudónimo ou a título impessoal.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Proibição de publicidade pessoal)
 
 Os revisores de contas devem abster-se de toda a publicidade pessoal; podem, todavia, usar o título de revisor de contas e fazê-lo seguir da indicação do organismo profissional a que pertencem.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Deveres de comunicação e de organização de processos e registos)
 
@@ -614,13 +634,13 @@ Os revisores de contas devem abster-se de toda a publicidade pessoal; podem, tod
 
 4. Os processos e registos a que se referem os números anteriores devem ser conservados durante dez anos, podendo em qualquer altura ser mandados examinar pela Câmara.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Incompatibilidades absolutas)
 
 Os revisores de contas não podem ser administradores ou directores de sociedades anónimas, nem gerentes de sociedades em comandita por acções ou de sociedades por quotas.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Incompatibilidades relativas)
 
@@ -636,13 +656,13 @@ a) Os sócios da sociedade que preste os serviços e os sócios de sociedade de 
 
 b) Os empregados, com a qualidade de revisor, que, por qualquer forma, participem na prestação dos serviços.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Caução da responsabilidade)
 
 A responsabilidade dos revisores de contas pelo exercício das suas funções deve ser garantida por caução, nos termos a estabelecer em portaria dos Ministros da Justiça e das Finanças.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Incumprimento de deveres relativos ao desempenho de cargos)
 
@@ -650,7 +670,7 @@ A responsabilidade dos revisores de contas pelo exercício das suas funções de
 
 2. A deliberação sobre a destituição cabe ao órgão ao qual compete a designação para o cargo.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Falta de pagamento de quotas)
 
@@ -660,7 +680,7 @@ A responsabilidade dos revisores de contas pelo exercício das suas funções de
 
 ### CAPÍTULO V — Contratos de prestação de serviços
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Objecto. Forma)
 
@@ -670,7 +690,7 @@ A responsabilidade dos revisores de contas pelo exercício das suas funções de
 
 3. A nulidade do contrato por inobservância da forma escrita não pode ser invocada contra terceiros de boa fé.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Honorários e despesas)
 
@@ -678,7 +698,7 @@ A responsabilidade dos revisores de contas pelo exercício das suas funções de
 
 2. A matéria de honorários será objecto de portaria dos Ministros da Justiça e das Finanças.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Resolução do contrato por facto imputável ao revisor)
 
@@ -690,13 +710,13 @@ A responsabilidade dos revisores de contas pelo exercício das suas funções de
 
 ### CAPÍTULO VI — Responsabilidade disciplinar
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Infracção disciplinar)
 
 Comete infracção disciplinar o revisor de contas que, por acção ou omissão, violar, dolosa ou culposamente, algum dos deveres estabelecidos no presente diploma ou decorrentes das suas funções.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Penas disciplinares)
 
@@ -720,7 +740,7 @@ f) Expulsão.
 
 4. A violação do disposto no artigo 39.º será punida com pena não inferior à de suspensão; a violação do disposto no artigo 38.º será sempre punida com a pena de expulsão.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Processo disciplinar)
 
@@ -736,7 +756,7 @@ f) Expulsão.
 
 6. A deliberação do conselho, que é relatada pelo presidente, será proferida no prazo de vinte dias e notificada ao conselho directivo e ao arguido.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Recurso)
 
@@ -744,7 +764,7 @@ f) Expulsão.
 
 2. Em caso de absolvição, pode recorrer o conselho directivo; em caso de condenação, podem recorrer o conselho directivo e o arguido.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Destino e pagamento da multa)
 
@@ -754,7 +774,7 @@ f) Expulsão.
 
 3. Na falta de pagamento voluntário, proceder-se-á a cobrança coerciva nos tribunais comuns, constituindo título executivo a decisão condenatória.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Suspensão preventiva)
 
@@ -766,7 +786,7 @@ b) Em qualquer altura do processo, quando se verifique justo receio de perpetra�
 
 2. A suspensão preventiva é da competência do conselho disciplinar.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Suspensão e expulsão)
 
@@ -774,13 +794,13 @@ b) Em qualquer altura do processo, quando se verifique justo receio de perpetra�
 
 2. Os revisores suspensos ou expulsos devem restituir às entidades a quem prestavam serviços os documentos destas que tenham em seu poder, bem como as quantias já recebidas que não correspondam ao reembolso de despesas ou a trabalho realizado.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Prescrição)
 
 O procedimento disciplinar prescreve no prazo de cinco anos; mas, se as infracções constituírem também crimes, prescreve no mesmo prazo que o procedimento criminal, caso este seja superior àquele.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Isenção de custas e selos. Despesas do processo)
 
@@ -790,13 +810,13 @@ O procedimento disciplinar prescreve no prazo de cinco anos; mas, se as infracç
 
 3. Ao pagamento das quantias devidas pelo infractor, por força do número anterior, é aplicável o disposto nos n.os 2 e 3 do artigo 50.º
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Revisão da decisão disciplinar)
 
 O conselho disciplinar pode conceder a revisão da decisão disciplinar quando se tiverem produzido novos factos ou outras provas susceptíveis de modificar a apreciação anteriormente feita, e, concedida a revisão, determinar que o processo lhe seja novamente submetido, para seguir perante ele os seus trâmites, sem prejuízo dos recursos a que houver lugar, nos termos gerais.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Pedido de reinscrição na lista)
 
@@ -808,7 +828,7 @@ O conselho disciplinar pode conceder a revisão da decisão disciplinar quando s
 
 ### CAPÍTULO VII — Responsabilidade penal
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Sanções)
 
@@ -830,19 +850,19 @@ g) Não participar ao Ministério Público os factos de que tenha tomado conheci
 
 2. Será punido com multa de duas a cinco vezes o montante das importâncias recebidas pelas funções ilegalmente desempenhadas quem violar o disposto no n.º 3 do artigo 39.º
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Publicidade das decisões)
 
 O tribunal pode ordenar a publicação das decisões condenatórias ou absolutórias, nos termos previstos no artigo 454.º do Código de Processo Penal.
 
-## TÍTULO II
+TÍTULO II
 
 Sociedades de revisores
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Forma e personalidade. Regime subsidiário)
 
@@ -854,7 +874,7 @@ Sociedades de revisores
 
 4. Na falta de disposições especiais, observar-se-á o regime geral das sociedades civis.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Sócios)
 
@@ -864,7 +884,7 @@ Sociedades de revisores
 
 3. Os cônjuges não podem fazer parte da mesma sociedade de revisores, salvo encontrando-se separados judicialmente de pessoas e bens.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Menção obrigatória e privativa)
 
@@ -872,13 +892,13 @@ Sociedades de revisores
 
 2. É proibido às restantes sociedades utilizar o qualificativo de «sociedade de revisores oficiais de contas» ou qualquer outro susceptível de induzir em erro, bem como aos sócios de outras sociedades utilizar o qualificativo de «sócio de sociedade de revisores oficiais de contas» ou qualquer outro susceptível de induzir em erro.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Forma do acto constitutivo)
 
 As sociedades de revisores constituem-se por escritura pública, a qual só pode ser lavrada depois de apresentados os documentos comprovativos de que os sócios possuem a qualidade de revisor oficial de contas.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Estatutos)
 
@@ -898,7 +918,7 @@ f) Quanto às entradas em dinheiro, o montante que estiver liberado na data da c
 
 2. Os estatutos constarão da escritura de constituição da sociedade e só pela mesma forma podem ser alterados.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Inscrição na lista)
 
@@ -910,7 +930,7 @@ f) Quanto às entradas em dinheiro, o montante que estiver liberado na data da c
 
 4. A inscrição só pode ser recusada quando os estatutos se afastem das disposições legais imperativas que regem este tipo de sociedades.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Publicidade dos estatutos)
 
@@ -922,7 +942,7 @@ f) Quanto às entradas em dinheiro, o montante que estiver liberado na data da c
 
 4. Qualquer interessado pode requerer à Câmara dos Revisores que lhe certifique, em face dos estatutos da sociedade, a identidade dos sócios, a firma social, a sede, o objecto e a duração da sociedade, os poderes e responsabilidade dos sócios e o que deles conste sobre a dissolução da sociedade, bem como a indicação da data do Diário do Governo em que foram publicados os estatutos; a certidão será passada à custa do requerente.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Entrada e saída de sócios)
 
@@ -930,7 +950,7 @@ f) Quanto às entradas em dinheiro, o montante que estiver liberado na data da c
 
 2. Ocorrendo a morte ou extinção de algum sócio, é aplicável o disposto na segunda parte do número anterior, contando-se o prazo aí referido a partir do conhecimento do facto pela sociedade.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Escrituração)
 
@@ -938,7 +958,7 @@ f) Quanto às entradas em dinheiro, o montante que estiver liberado na data da c
 
 2. Os livros e os documentos sociais, na parte relativa a entidades a quem a sociedade preste ou tenha prestado os seus serviços, só podem ser exibidos ou examinados nos termos em que podem sê-lo os livros e os documentos das referidas entidades.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Assinatura de documentos)
 
@@ -946,7 +966,7 @@ Os relatórios e outros documentos emanados de uma sociedade de revisores de con
 
 ### CAPÍTULO II — Relações entre sócios
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Entradas)
 
@@ -962,7 +982,7 @@ d) Quaisquer outros direitos com interesse para a sociedade.
 
 2. A indústria a que se refere o número anterior não pode ser computada no capital social.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Capital e quotas sociais)
 
@@ -978,7 +998,7 @@ d) Quaisquer outros direitos com interesse para a sociedade.
 
 6. As quotas de indústria extinguir-se-ão se o sócio perder essa qualidade.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Destino das remunerações. Participação nos lucros)
 
@@ -986,7 +1006,7 @@ d) Quaisquer outros direitos com interesse para a sociedade.
 
 2. Os estatutos podem determinar que a distribuição dos lucros seja feita em proporção da parte do capital social representada por cada um dos sócios ou diversamente; no silêncio dos estatutos, efectuar-se-á a repartição em partes iguais.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Administração)
 
@@ -994,13 +1014,13 @@ d) Quaisquer outros direitos com interesse para a sociedade.
 
 2. Todos os sócios são administradores, salvo disposição contrária dos estatutos.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Assembleia geral)
 
 A assembleia geral deve reunir uma vez em cada ano e, além disso, sempre que o exijam sócios que representem, pelo menos, metade do seu número ou a quarta parte do capital e indiquem os assuntos que pretendem ver incluídos na ordem do dia.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Funcionamento da assembleia)
 
@@ -1018,7 +1038,7 @@ A assembleia geral deve reunir uma vez em cada ano e, além disso, sempre que o 
 
 7. As deliberações da assembleia geral devem constar de acta, que mencionará a data e o local da reunião, a identidade dos sócios presentes ou representados, os assuntos inscritos na ordem do dia, um resumo da discussão, o texto das deliberações votadas e o resultado da votação, e será assinada pelos sócios presentes, com menção das representações que tiverem de outros sócios.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Contas e relatório)
 
@@ -1028,13 +1048,13 @@ A assembleia geral deve reunir uma vez em cada ano e, além disso, sempre que o 
 
 3. Para os efeitos previstos no número anterior, os documentos nele mencionados e o texto das propostas da administração devem ser enviados a cada um dos sócios, com quinze dias, pelo menos, de antecedência relativamente à data da reunião da assembleia, e nunca depois da convocação desta.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Aplicação dos resultados)
 
 Os resultados apurados em cada exercício serão aplicados conforme deliberação da assembleia geral; havendo lucros, porém, destinar-se-ão obrigatòriamente 10 por cento do seu valor a reserva legal, enquanto o capital e a reserva legal não excedam 2000000$00.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Aumento do capital)
 
@@ -1042,13 +1062,13 @@ Os resultados apurados em cada exercício serão aplicados conforme deliberaçã
 
 2. As quotas criadas em consequência do aumento de capital referido no número anterior são repartidas pelos sócios, incluindo os que forem meros sócios de indústria, na mesma proporção em que participam nos lucros.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Exame de documentos pelos sócios)
 
 Qualquer sócio pode, a todo o tempo, tomar conhecimento, por si mesmo, das contas sociais e dos relatórios dos exercícios anteriores, das contas e do registo das actividades profissionais dos outros sócios ou de empregados e, de um modo geral, de todos os documentos em poder da sociedade.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Deveres dos sócios e dos empregados)
 
@@ -1080,7 +1100,7 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 ### CAPÍTULO III — Relações com terceiros
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Representação)
 
@@ -1094,7 +1114,7 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 5. O disposto nos números anteriores não prejudica a responsabilidade em que os administradores incorram perante a sociedade, por violação dos estatutos ou de deliberação social.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Responsabilidade dos sócios pelas dívidas sociais)
 
@@ -1104,7 +1124,7 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 3. Podem os estatutos fixar a proporção em que cada sócio, na relação com os outros, responde pelas dívidas sociais.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Responsabilidade civil dos sócios. Caução da responsabilidade)
 
@@ -1112,7 +1132,7 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 2. A responsabilidade dos sócios prevista no número anterior deve ser garantida por caução, de acordo com o estabelecido no artigo 40.º, podendo valer para esse efeito a que eles tenham prestado pessoalmente, desde que a sociedade verifique os respectivos limites e condições e cuide da sua validade e subsistência.
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Responsabilidade civil da sociedade)
 
@@ -1122,7 +1142,7 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 ### CAPÍTULO IV — Transmissão e oneração de quotas sociais
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Cessão de quotas)
 
@@ -1144,7 +1164,7 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 9. As quotas podem ser livremente cedidas entre sócios, salvo disposição em contrário dos estatutos; se estes exigirem o consentimento da sociedade, observar-se-á supletivamente o disposto nos n.os 2 a 7.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Exoneração de sócio)
 
@@ -1152,7 +1172,7 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 2. A sociedade é obrigada, dentro dos noventa dias subsequentes à data em que receba a comunicação, a propor a aquisição da quota ou a deliberar a sua amortização, observando-se o disposto nos n.os 4 a 8 do artigo anterior.
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Transmissão por morte)
 
@@ -1168,13 +1188,13 @@ c) As comunicações e informações de sócios a empregados, na medida estritam
 
 6. Se, decorrido o prazo a que se referem os n.os 3 e 4, os sucessores não tiverem cedido a quota a terceiro, nem solicitado o consentimento para a atribuição da mesma a um ou vários deles, tem a sociedade o prazo de noventa dias para fazer adquirir ou amortizar a quota, observando-se, com as devidas adaptações, o disposto nos n.os 4 a 8 do artigo 84.º
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Amortização de quotas)
 
 Sempre que amortize uma quota, nos termos do n.º 4 do artigo 84.º, do n.º 2 do artigo 85.º ou do n.º 6 do artigo 86.º, deverá a sociedade proceder à correspondente redução do seu capital.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Publicidade da transmissão)
 
@@ -1184,13 +1204,13 @@ Sempre que amortize uma quota, nos termos do n.º 4 do artigo 84.º, do n.º 2 d
 
 3. Qualquer interessado tem o direito de, à sua custa, obter da referida Câmara uma cópia do documento de transmissão, a qual só pode conter as indicações mencionadas no n.º 4 do artigo 65.º
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Quotas de indústria)
 
 As quotas de indústria são intransmissíveis e insusceptíveis de amortização.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Penhor)
 
@@ -1198,7 +1218,7 @@ As quotas sociais não podem constituir objecto de penhor.
 
 ### CAPÍTULO V — Suspensão e exclusão de sócios
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Suspensão dos direitos sociais)
 
@@ -1214,7 +1234,7 @@ d) Que for suspenso preventivamente, em processo disciplinar ou por virtude de p
 
 e) Que for suspenso nos termos do n.º 1 do artigo 42.º
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Causas da exclusão de sócio)
 
@@ -1252,7 +1272,7 @@ d) No caso da alínea e), da suspensão do sócio.
 
 5. A exclusão deve ser comunicada ao sócio excluído, por carta registada com aviso de recepção.
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 (Transmissão da quota de sócio excluído)
 
@@ -1262,7 +1282,7 @@ d) No caso da alínea e), da suspensão do sócio.
 
 ### CAPÍTULO VI — Dissolução e liquidação da sociedade
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 (Dissolução)
 
@@ -1274,7 +1294,7 @@ d) No caso da alínea e), da suspensão do sócio.
 
 4. Se o número de sócios se encontrar reduzido à unidade, pode o sócio único, no prazo de cento e oitenta dias, admitir novos sócios, mediante cessão de quotas; não o fazendo no referido prazo, a sociedade será dissolvida judicialmente a requerimento de qualquer interessado.
 
-###### ARTIGO 95.º
+ARTIGO 95.º
 
 (Liquidação)
 
@@ -1284,7 +1304,7 @@ d) No caso da alínea e), da suspensão do sócio.
 
 3. Durante a liquidação, a firma social deve ser seguida da menção «sociedade em liquidação.
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 (Liquidatários)
 
@@ -1298,7 +1318,7 @@ d) No caso da alínea e), da suspensão do sócio.
 
 5. Os sócios excluídos não podem ser nomeados liquidatários.
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 (Poderes e deveres do liquidatário)
 
@@ -1310,9 +1330,11 @@ d) No caso da alínea e), da suspensão do sócio.
 
 4. Finda a liquidação, deve o liquidatário convocar os sócios ou os seus representantes para deliberarem sobre as contas definitivas a sobre a sua exoneração, e para verificarem o encerramento da liquidação; a assembleia dos sócios delibera nos termos estabelecidos para a aprovação das contas anuais, e, se não puder deliberar ou não aprovar as contas do liquidatário, a decisão cabe ao tribunal, a requerimento de qualquer interessado.
 
-### CAPÍTULO VII — Sociedades estrangeiras
+CAPÍTULO VII
 
-###### ARTIGO 98.º
+Sociedades estrangeiras
+
+ARTIGO 98.º
 
 (Admissibilidade)
 
@@ -1322,15 +1344,17 @@ d) No caso da alínea e), da suspensão do sócio.
 
 3. As sociedades afiliadas podem constituir-se por cisão de sociedade estrangeira, ou por associação com sociedades de revisores ou com revisores a título individual, contanto que à sociedade estrangeira fiquem pertencendo, nos dois últimos casos, três quartos, pelo menos, do capital da afiliada; nos mesmos casos, poderá a comissão a que se refere o artigo 12.º dispensar a inscrição da sociedade estrangeira na lista dos revisores oficiais de contas, para efeito da constituição e inscrição da sociedade afiliada.
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 (Administração)
 
 A administração das sociedades afiliadas pode ser confiada a um ou mais administradores não sócios, os quais ficam sujeitos a todos os requisitos, deveres e responsabilidades dos sócios.
 
-### CAPÍTULO VIII — Contratos de prestação de serviços da sociedade
+CAPÍTULO VIII
 
-###### ARTIGO 100.º
+Contratos de prestação de serviços da sociedade
+
+ARTIGO 100.º
 
 (Disposições aplicáveis)
 
@@ -1338,19 +1362,19 @@ A administração das sociedades afiliadas pode ser confiada a um ou mais admini
 
 2. O disposto nos artigos 10.º a 13.º e 15.º do [Decreto-Lei n.º 49381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49381-1969-215705), de 15 de Novembro de 1969, é aplicável, devidamente adaptado, ao exercício das funções de conselho fiscal ou de fiscal único por sociedades de revisores de contas, considerando-se conferidos a essa sociedade os poderes e deveres atribuídos naqueles preceitos ao conselho fiscal, e aos seus dirigentes e sócios encarregados da fiscalização os poderes e deveres atribuídos aos respectivos membros.
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 (Sócio orientador ou executor)
 
 Relativamente a cada contrato, será designado um sócio responsável pela orientação ou execução directa do seu cumprimento.
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 (Assistência a reuniões da entidade fiscalizada)
 
 A sociedade encarregada da fiscalização deve designar até dois dos seus sócios ou empregados inscritos na lista dos revisores oficiais de contas para assistir às reuniões da assembleia geral e da administração da entidade fiscalizada.
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 (Cópia dos estatutos e do balanço e contas)
 
@@ -1358,15 +1382,17 @@ A sociedade encarregada da fiscalização deve designar até dois dos seus sóci
 
 2. Havendo alterações dos estatutos, a sociedade fornecerá oficiosamente às referidas entidades uma cópia das disposições alteradas.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 (Denúncia do contrato)
 
 Constitui justa causa de denúncia do contrato o facto de o sócio responsável pela orientação ou execução directa do seu cumprimento deixar de fazer parte da sociedade ou ficar impedido de prestar os respectivos serviços.
 
-### CAPÍTULO IX — Responsabilidade disciplinar
+CAPÍTULO IX
 
-###### ARTIGO 105.º
+Responsabilidade disciplinar
+
+ARTIGO 105.º
 
 (Normas aplicáveis)
 
@@ -1374,7 +1400,7 @@ Constitui justa causa de denúncia do contrato o facto de o sócio responsável 
 
 2. O procedimento disciplinar contra a sociedade é independente do que couber contra os seus sócios.
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 (Responsabilidade da sociedade)
 
@@ -1386,9 +1412,11 @@ b) Sendo a falta praticada por um sócio não administrador, tiver havido ordem 
 
 c) Sendo a falta praticada por um empregado, tiver havido ordem ou instrução concreta de sócio, a que o autor da falta tenha desobedecido.
 
-### CAPÍTULO X — Responsabilidade penal
+CAPÍTULO X
 
-###### ARTIGO 107.º
+Responsabilidade penal
+
+ARTIGO 107.º
 
 (Sanções)
 
@@ -1420,17 +1448,17 @@ b) Os sócios, pela violação do disposto na alínea c) do n.º 1 do artigo 79.
 
 c) Os liquidatários, pela violação do disposto no n.º 3 do artigo 95.º
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 (Publicidade das decisões)
 
 É aplicável às decisões condenatórias ou absolutórias o disposto no artigo 58.º
 
-## TÍTULO III
+TÍTULO III
 
 Disposições transitórias
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 (Estágio profissional)
 
@@ -1438,7 +1466,7 @@ Disposições transitórias
 
 2. Nos cinco anos seguintes à constituição da Câmara dos Revisores Oficiais de Contas, é de seis meses a duração do estágio, e dispensada a exigência constante da parte final do n.º 1 do mesmo artigo.
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 (Exame de aptidão e comissão de inscrição na lista)
 
@@ -1448,13 +1476,13 @@ a) Quem deve substituir os revisores de contas que fazem parte do júri de exame
 
 b) O regulamento e os programas dos exames de aptidão.
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 (Constituição da Câmara dos Revisores)
 
 Os Ministros da Justiça e das Finanças, mediante portaria, declararão constituída a Câmara dos Revisores Oficiais de Contas, logo que estejam inscritos revisores em número suficiente para assegurar o respectivo funcionamento.
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 (Primeira assembleia geral)
 
@@ -1462,19 +1490,19 @@ Os Ministros da Justiça e das Finanças, mediante portaria, declararão constit
 
 2. A convocação dessa assembleia compete ao presidente da comissão a que se refere o artigo 12.º
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Mandato inicial dos membros dos órgãos da Câmara)
 
 O primeiro mandato dos membros dos órgãos da Câmara dos Revisores abrangerá, além do triénio por que forem eleitos, o período de tempo que decorra até ao final do ano em que se verificar a respectiva constituição.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 (Lacunas relativas a organização e funcionamento)
 
 O primeiro conselho directivo da Câmara dos Revisores deve propor aos Ministros da Justiça e das Finanças as medidas que, no âmbito da sua competência, forem necessárias para suprir as lacunas da lei relativas à organização e ao funcionamento da Câmara.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Sociedades estrangeiras)
 
@@ -1484,7 +1512,7 @@ O primeiro conselho directivo da Câmara dos Revisores deve propor aos Ministros
 
 3. Os prazos fixados nos números anteriores poderão ser prorrogados em portaria dos Ministros da Justiça e das Finanças.
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 (Obrigatoriedade de revisores nos conselhos fiscais)
 
@@ -1492,8 +1520,8 @@ A obrigatoriedade estabelecida na segunda parte do n.º 3 do artigo 1.º do [Dec
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 23 de Dezembro de 1971.**
+Promulgado em 23 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

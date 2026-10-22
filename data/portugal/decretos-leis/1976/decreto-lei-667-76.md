@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/667-1976-430006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15069ecbd36935fa678d485552253bfa570d1673ada80118eb37f13ce5096d07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ffddf5eb5517f8133d5e1ca7479964fc79d6e03bf4efc51d77131cd450adbe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Código do Imposto Complementar
+- Código do Imposto Profissional
+- Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250824:por
+  label: "Interpretado o nº1 do art. 18º do presente diploma, pelo DEC LEI.296/77.20.07.1977.MF, DR.IS [166] de 20.07.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1977-250824
+  date: '1977-07-20'
+- type: amended_by
+  target: pt:dre:426136:por
+  label: Alterado o art. 21º do Código do Imposto Profissional aprovado pelo Dec Lei 44305 de 27-Abr de 1962, com a redacção
+    constante do presente diploma, pelo DEC LEI.138/78.12.06.1978.MFP, DR.IS [133-2ºSupl] de 12.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1978-426136
+  date: '1978-06-12'
+- type: amended_by
+  target: pt:dre:364105:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas contidas no art. 7º, na parte em que\
+    \ dá nova redacção ao art. 33º do Código do Imposto Complementar, e na al f) do nº 1 do art. 17º pela RES.307/79.1979.10.17.CR,DR.IS\
+    \ [248] de 26/Out/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/307-1979-364105
+  date: '1979-10-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ACTUALIZADAS AS IMPORTÂNCIAS DE LICENÇAS, TAXAS E MULTAS PELO DEC LEI 131/82 DE 23-ABR DR.IS [94], O QUAL FIXOU\
+    \ NOVOS COEFICIENTES DE ACTUALIZAÇÃO PARA AQUELAS IMPORTÂNCIAS\0MPORTÂNCIAS"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-04-23'
+- type: amended_by
+  target: pt:dre:606557:por
+  label: "Alterado o art. 80º do Código da Contribuição Industrial aprovado pelo Dec Lei 45103 de 01-Jul de 1963, com a redacção\
+    \ conferida no presente diploma, pelo DEC LEI.128/82.23.04.1982.MFP, DR.IS [94] de 23.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1982-606557
+  date: '1982-04-23'
+- type: amended_by
+  target: pt:dre:392414:por
+  label: "Alterado o art. 21º do Código do Imposto Profissional aprovado pelo Dec Lei 44305 de 27-Abr de 1962, com a redacção\
+    \ constante do presente diploma, pelo DEC LEI.198/82.21.05.1982.MFP, DR.IS [115] de 21.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1982-392414
+  date: '1982-05-21'
+- type: cites
+  target: pt:dre:161312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 88
+  article_count: 39
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:21Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +188,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 A - Imposto profissional
 
-###### Artigo 1.º Os artigos 13.º e 21.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º e 21.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 § 1.º Os rendimentos colectáveis que, por qualquer motivo, não sejam apurados até 31 de Março serão notificados aos interessados para, nos quinze dias imediatos à notificação, poderem usar do direito de reclamação previsto no artigo 15.º, observando-se em tudo o mais as disposições aplicáveis com as necessárias adaptações.
 
@@ -131,19 +198,19 @@ A - Imposto profissional
 
 ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf))](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf)
 
 § único. ...
 
-###### Art. 2.º As alterações constantes do artigo anterior são aplicáveis aos rendimentos ou remunerações recebidos ou postos à disposição dos contribuintes a partir de 1 de Janeiro de 1977.
+Art. 2.º As alterações constantes do artigo anterior são aplicáveis aos rendimentos ou remunerações recebidos ou postos à disposição dos contribuintes a partir de 1 de Janeiro de 1977.
 
 B - Contribuição industrial
 
-###### Art. 3.º Os artigos 80.º e 96.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Art. 3.º Os artigos 80.º e 96.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 80.º As taxas da contribuição industrial são as seguintes:
+Art. 80.º As taxas da contribuição industrial são as seguintes:
 
 a) 15% sobre a parte do rendimento colectável não superior a 1000000$00;
 
@@ -153,15 +220,15 @@ c) 20% sobre a parte do rendimento colectável superior a 5000000$00.
 
 ...
 
-###### Art. 96.º Serão incluídos na liquidação da contribuição industrial os adicionais e outras receitas que devam ser cobradas juntamente com ela, bem como a importância do agravamento a que alude o § único do artigo 75.º
+Art. 96.º Serão incluídos na liquidação da contribuição industrial os adicionais e outras receitas que devam ser cobradas juntamente com ela, bem como a importância do agravamento a que alude o § único do artigo 75.º
 
-###### Art. 4.º A alteração ao artigo 80.º do Código da Contribuição Industrial não prejudica o disposto no artigo 7.º do [Decreto-Lei n.º 503-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-b-1976-232737), de 30 de Junho, e aplica-se à contribuição industrial respeitante ao ano de 1976 ainda não liquidada à data da entrada em vigor deste diploma e, bom assim à dos anos seguintes.
+Art. 4.º A alteração ao artigo 80.º do Código da Contribuição Industrial não prejudica o disposto no artigo 7.º do [Decreto-Lei n.º 503-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-b-1976-232737), de 30 de Junho, e aplica-se à contribuição industrial respeitante ao ano de 1976 ainda não liquidada à data da entrada em vigor deste diploma e, bom assim à dos anos seguintes.
 
 C - Imposto de capitais
 
-###### Art. 5.º O artigo 21.º do Código do Imposto de Capitais passa a ter a seguinte redacção:
+Art. 5.º O artigo 21.º do Código do Imposto de Capitais passa a ter a seguinte redacção:
 
-###### Art. 21.º A taxa do imposto de capitais é de 22%, salvo nos casos previstos nos parágrafos seguintes.
+Art. 21.º A taxa do imposto de capitais é de 22%, salvo nos casos previstos nos parágrafos seguintes.
 
 § 1.º Quando se trate de lucros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 12%.
 
@@ -173,13 +240,13 @@ C - Imposto de capitais
 
 § 5.º Quando se trate de juros a que se refere o n.º 7.º do artigo 6.º, a taxa será de 10%.
 
-###### Art. 6.º As alterações constantes do artigo anterior são aplicáveis ao imposto de capitais, secção A, sobre os rendimentos respeitantes aos anos de 1976 e seguintes, liquidado posteriormente à entrada em vigor deste diploma, e ao imposto, secção B, sobre os rendimentos relativamente aos quais o acto que determina a obrigação da entrega do imposto ao Estado ocorra posteriormente àquela mesma data.
+Art. 6.º As alterações constantes do artigo anterior são aplicáveis ao imposto de capitais, secção A, sobre os rendimentos respeitantes aos anos de 1976 e seguintes, liquidado posteriormente à entrada em vigor deste diploma, e ao imposto, secção B, sobre os rendimentos relativamente aos quais o acto que determina a obrigação da entrega do imposto ao Estado ocorra posteriormente àquela mesma data.
 
 D - Imposto complementar
 
-###### Art. 7.º Os artigos 14.º, 30.º, 33.º 37.º e 94.º do Código do Imposto Complementar passam a ter a redacção seguinte:
+Art. 7.º Os artigos 14.º, 30.º, 33.º 37.º e 94.º do Código do Imposto Complementar passam a ter a redacção seguinte:
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 § 1.º ...
 
@@ -189,7 +256,7 @@ D - Imposto complementar
 
 ...
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 ...
 
@@ -207,9 +274,9 @@ f) As importâncias correspondentes às percentagens, abaixo indicadas, das quan
 
 ...
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf))](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf)
 
 § 1.º ...
 
@@ -217,15 +284,15 @@ f) As importâncias correspondentes às percentagens, abaixo indicadas, das quan
 
 ...
 
-###### Art. 37.º O englobamento dos rendimentos de cada contribuinte e a liquidação do respectivo imposto são da competência da repartição de finanças em que deve ser organizado, nos termos do artigo 48.º, o processo individual do contribuinte.
+Art. 37.º O englobamento dos rendimentos de cada contribuinte e a liquidação do respectivo imposto são da competência da repartição de finanças em que deve ser organizado, nos termos do artigo 48.º, o processo individual do contribuinte.
 
 ...
 
-###### Art. 94.º As taxas do imposto complementar, secção B, são as seguintes:
+Art. 94.º As taxas do imposto complementar, secção B, são as seguintes:
 
 a) Para as sociedades em geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf))](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/08/18200/19211927.pdf)
 
 b) ...
 
@@ -237,11 +304,11 @@ c) Para as pessoas colectivas não sociedades, as taxas constantes da alínea a)
 
 § 3.º As sociedades a que respeita a última parte do parágrafo anterior deixarão de ser consideradas de simples administração de bens logo que a média dos proveitos ou ganhos provenientes dos bens e valores ali referidos e relativos a três anos seguidos se torne inferior a 40% da totalidade dos seus proveitos ou ganhos.
 
-###### Art. 8.º É aditado ao n.º 1.º do artigo 8.º do Código do Imposto Complementar a alínea z'''') com a seguinte redacção:
+Art. 8.º É aditado ao n.º 1.º do artigo 8.º do Código do Imposto Complementar a alínea z'''') com a seguinte redacção:
 
 Z'''') Os rendimentos isentos de contribuição industrial nos termos do n.º 23.º do artigo 14.º do respectivo código.
 
-###### Art. 9.º - 1. Relativamente aos rendimentos do ano de 1975, o prazo para a apresentação da declaração modelo n.º 1 por parte dos contribuintes que não auferiram rendimentos da actividade comercial ou industrial - grupo A da respectiva contribuição - decorrerá até 10 de Setembro de 1976 para todos os contribuintes, e para os que não tenham feito a apresentação até aquele dia, nos prazos seguintes:
+Art. 9.º - 1. Relativamente aos rendimentos do ano de 1975, o prazo para a apresentação da declaração modelo n.º 1 por parte dos contribuintes que não auferiram rendimentos da actividade comercial ou industrial - grupo A da respectiva contribuição - decorrerá até 10 de Setembro de 1976 para todos os contribuintes, e para os que não tenham feito a apresentação até aquele dia, nos prazos seguintes:
 
 a) De 13 a 17 de Setembro de 1976 - para os contribuintes cujo nome comece por uma das letras A a F;
 
@@ -255,9 +322,9 @@ c) De 27 de Setembro a 1 de Outubro de 1976 - para os restantes contribuintes.
 
 4. Nos casos em que o contribuinte não tenha optado pela autoliquidação nos termos do artigo seguinte, a liquidação do imposto e a remessa aos contribuintes da nota demonstrativa dessa liquidação, quando as declarações devam ter sido apresentadas nos prazos estabelecidos nos n.os 1 e 3 deste artigo, serão efectuadas até 20 de Novembro de 1976 e o imposto deverá ser pago no mês seguinte.
 
-###### Art. 10.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos do ano de 1975 se a declaração for apresentada nos correspondentes prazos estabelecidos no artigo antecedente e no § 4.º do artigo 11.º e §§ 2.º e 3.º do artigo 17.º do Código, observando-se o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março.
+Art. 10.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos do ano de 1975 se a declaração for apresentada nos correspondentes prazos estabelecidos no artigo antecedente e no § 4.º do artigo 11.º e §§ 2.º e 3.º do artigo 17.º do Código, observando-se o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março.
 
-###### Art. 11.º - 1. As alterações aos artigos 14.º e 30.º do Código aplicam-se ao imposto respeitante aos rendimentos dos anos de 1976 e seguintes.
+Art. 11.º - 1. As alterações aos artigos 14.º e 30.º do Código aplicam-se ao imposto respeitante aos rendimentos dos anos de 1976 e seguintes.
 
 2. As alterações aos artigos 33.º e 94.º do Código aplicam-se aos rendimentos dos anos de 1975 e seguintes.
 
@@ -265,9 +332,9 @@ c) De 27 de Setembro a 1 de Outubro de 1976 - para os restantes contribuintes.
 
 E - Sisa e imposto sobre as sucessões e doações
 
-###### Art. 12.º O artigo 109.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:
+Art. 12.º O artigo 109.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:
 
-###### Art. 109.º ...
+Art. 109.º ...
 
 ...
 
@@ -277,17 +344,17 @@ E - Sisa e imposto sobre as sucessões e doações
 
 § 2.º No caso de segunda avaliação requerida, ao abrigo do n.º 4,º deste artigo, pelo alienante e pelo contribuinte, e tendo estes desistido da avaliação ou sendo o valor desta igual ou superior ao por eles contestado, serão as respectivas despesas suportadas por ambos em partes iguais.
 
-###### Art. 13.º A alteração ao artigo 109.º do Código é aplicável aos processos pendentes em que se não tenha tornado definitiva a avaliação.
+Art. 13.º A alteração ao artigo 109.º do Código é aplicável aos processos pendentes em que se não tenha tornado definitiva a avaliação.
 
 F - Imposto do selo
 
-###### Art. 14.º - 1. É fixada em 15$00 a taxa do papel selado a que se refere o artigo 6.º do Regulamento do Imposto do Selo, aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da Tabela Geral do Imposto do Selo, cujo pagamento deva ser feito por aquela forma.
+Art. 14.º - 1. É fixada em 15$00 a taxa do papel selado a que se refere o artigo 6.º do Regulamento do Imposto do Selo, aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da Tabela Geral do Imposto do Selo, cujo pagamento deva ser feito por aquela forma.
 
 2. Continua em vigor, até à sua extinção, o papel já selado com a taxa de 10$00, devendo a diferença entre esta e a nova taxa ser completada por meio de estampilhas fiscais, coladas na parte superior do papel e inutilizadas nos termos legais.
 
 3. A referida actualização será observada sempre que o imposto correspondente ao papel selado deva ou possa ser pago por meio de estampilha ou selo de verba.
 
-###### Art. 15.º São alteradas as taxas da Tabela Geral do Imposto do Selo não abrangidas pelo artigo anterior, que passam a ser as seguintes:
+Art. 15.º São alteradas as taxas da Tabela Geral do Imposto do Selo não abrangidas pelo artigo anterior, que passam a ser as seguintes:
 
 ###### Artigo 4:
 
@@ -341,13 +408,13 @@ Excedendo 500$00 - 100$00;
 
 ###### Artigo 6 - 6000$00;
 
-###### Artigo 7 - 1200$00 e 600$00 (respectivamente a primeira e a segunda taxas);
+Artigo 7 - 1200$00 e 600$00 (respectivamente a primeira e a segunda taxas);
 
-###### Artigo 8 - 600$00, 200$00, 300$00 e 100$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+Artigo 8 - 600$00, 200$00, 300$00 e 100$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
 
 ###### Artigo 9 - 1000$00;
 
-###### Artigo 10 - (Taxas do segundo e terceiro parágrafos deste artigo):
+Artigo 10 - (Taxas do segundo e terceiro parágrafos deste artigo):
 
 De valor ou soma até 5000$00 - 15$00;
 
@@ -371,25 +438,25 @@ Alínea a) - 40$00, 30$00 e 20$00 (respectivamente a primeira, a segunda e a ter
 
 ###### Artigo 14 - 400$00;
 
-###### Artigo 17 - 15$00 e 20$00 (respectivamente a segunda e a terceiras taxas); abolidas as taxas de $20, 1$00 e 10$00 constantes da anotação (a) ao primeiro parágrafo deste artigo;
+Artigo 17 - 15$00 e 20$00 (respectivamente a segunda e a terceiras taxas); abolidas as taxas de $20, 1$00 e 10$00 constantes da anotação (a) ao primeiro parágrafo deste artigo;
 
 ###### Artigo 18 - 150$00;
 
-###### Artigo 19 - 15$00 (última taxa);
+Artigo 19 - 15$00 (última taxa);
 
-###### Artigo 22 - 50$00 (segunda taxa);
+Artigo 22 - 50$00 (segunda taxa);
 
 ###### Artigo 26 - 15$00;
 
-###### Artigo 27 - 1$00 (ultima taxa);
+Artigo 27 - 1$00 (ultima taxa);
 
-###### Artigo 30 - 15$00, 40$00, 5$00, 20$00, 20$00 e 30$00 (respectivamente a primeira, a segunda, a terceira, a quarta, a quinta e a sexta taxas);
+Artigo 30 - 15$00, 40$00, 5$00, 20$00, 20$00 e 30$00 (respectivamente a primeira, a segunda, a terceira, a quarta, a quinta e a sexta taxas);
 
-###### Artigo 31 - 15$00 e 25$00 (respectivamente a primeira e a segunda taxas);
+Artigo 31 - 15$00 e 25$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 32 - 2$00;
 
-###### Artigo 35:
+Artigo 35:
 
 De valor até 500$00 - 2$50;
 
@@ -397,7 +464,7 @@ Cada 500$00 ou fracção a mais - 1$00;
 
 ###### Artigo 37 - 200$00;
 
-###### Artigo 38 - 15$00;
+Artigo 38 - 15$00;
 
 ###### Artigo 41:
 
@@ -413,17 +480,17 @@ N.º 5 - 25$00;
 
 N.º 6 - 10$00, 4$00 e 2$00 (respectivamente a primeira, a segunda e a terceira taxas);
 
-###### Artigo 42 - Cada 1000$00 ou fracção do valor da caução - 1$50;
+Artigo 42 - Cada 1000$00 ou fracção do valor da caução - 1$50;
 
 ###### Artigo 43 - 5$00;
 
-###### Artigo 44 - 15$00 todas as taxas, excepto as das seguintes certidões, que são fixadas em:
+Artigo 44 - 15$00 todas as taxas, excepto as das seguintes certidões, que são fixadas em:
 
 De exames com discriminação das diferentes provas, por cada lauda - 40$00;
 
 Passadas por qualquer outro serviço ou repartição, mais, por cada uma - 30$00;
 
-###### Artigo 45 - 15$00 todas as taxas, excepto a última, que é elevada para 25$00;
+Artigo 45 - 15$00 todas as taxas, excepto a última, que é elevada para 25$00;
 
 ###### Artigo 48:
 
@@ -433,35 +500,35 @@ De mais de 1000$00 até 5000$00 - 15$00;
 
 Cada 1000$00 ou fracção a mais - 3$00;
 
-###### Artigo 51 - 7500$00, 3000$00 e 1500$00 (respectivamente a primeira, a segunda e a terceira taxas);
+Artigo 51 - 7500$00, 3000$00 e 1500$00 (respectivamente a primeira, a segunda e a terceira taxas);
 
 ###### Artigo 56 - 15$00;
 
-###### Artigo 57 - 15$00;
+Artigo 57 - 15$00;
 
 ###### Artigo 58 - 15$00;
 
-###### Artigo 62 - 15$00;
+Artigo 62 - 15$00;
 
-###### Artigo 64 - 60$00 e 600$00 (respectivamente a terceira e a quarta taxas);
+Artigo 64 - 60$00 e 600$00 (respectivamente a terceira e a quarta taxas);
 
 ###### Artigo 65 - 15$00 (última taxa);
 
-###### Artigo 71 - 5000$00;
+Artigo 71 - 5000$00;
 
 ###### Artigo 73 - 3000$00;
 
-###### Artigo 74 - 900$00, 450$00, 270$00, 450$00, 240$00 e 150$00 (respectivamente a primeira, a segunda, a terceira, a quarta, a quinta e a sexta taxas);
+Artigo 74 - 900$00, 450$00, 270$00, 450$00, 240$00 e 150$00 (respectivamente a primeira, a segunda, a terceira, a quarta, a quinta e a sexta taxas);
 
-###### Artigo 75 - 900$00, 450$00 e 270$00 (respectivamente a primeira, a segunda e a terceira taxas);
+Artigo 75 - 900$00, 450$00 e 270$00 (respectivamente a primeira, a segunda e a terceira taxas);
 
 ###### Artigo 76 - 150$00;
 
-###### Artigo 77 - 1800$00;
+Artigo 77 - 1800$00;
 
 ###### Artigo 78 - 180$00;
 
-###### Artigo 79 - 5000$00; 1600$00, 700$00 e 400$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+Artigo 79 - 5000$00; 1600$00, 700$00 e 400$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
 
 ###### Artigo 80:
 
@@ -469,7 +536,7 @@ De pensão até 500$00 - 15$00;
 
 De mais de 500$00 - 3%;
 
-###### Artigo 81 - 1000$00 (ambas as taxas);
+Artigo 81 - 1000$00 (ambas as taxas);
 
 ###### Artigo 82:
 
@@ -489,29 +556,29 @@ Verba X - 200$00 e 100$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 84 - 750$00;
 
-###### Artigo 86 - 15$00;
+Artigo 86 - 15$00;
 
 ###### Artigo 87 - 15$00;
 
-###### Artigo 88 - 15$00;
+Artigo 88 - 15$00;
 
 ###### Artigo 89 - 15$00;
 
-###### Artigo 90 - 10$00 (segunda taxa);
+Artigo 90 - 10$00 (segunda taxa);
 
-###### Artigo 91 - 500$00 (última taxa);
+Artigo 91 - 500$00 (última taxa);
 
-###### Artigo 94-A - 15$00, 20$00, 15$00 e 10$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+Artigo 94-A - 15$00, 20$00, 15$00 e 10$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
 
-###### Artigo 95 - 50$00 e 150$00 (respectivamente a primeira e a segunda taxas);
+Artigo 95 - 50$00 e 150$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 97 - 7$50;
 
-###### Artigo 99-A - 15$00 (ambas as taxas);
+Artigo 99-A - 15$00 (ambas as taxas);
 
-###### Artigo 100 - 15$00 e 75$00 (respectivamente a primeira e a segunda taxas);
+Artigo 100 - 15$00 e 75$00 (respectivamente a primeira e a segunda taxas);
 
-###### Artigo 101 - 3(por mil), 5(por mil) e 1,5(por mil) (respectivamente a primeira, a segunda e a terceira taxas), sendo aditado o seguinte parágrafo:
+Artigo 101 - 3(por mil), 5(por mil) e 1,5(por mil) (respectivamente a primeira, a segunda e a terceira taxas), sendo aditado o seguinte parágrafo:
 
 Tratando-se de livranças descontadas por instituições bancárias, sobre o seu valor, selo único - 1,5(por mil) (papel selado ou selo a tinta de óleo).
 
@@ -557,17 +624,17 @@ Verbas IX e X - 10$00;
 
 Verba XI - 100$00, 500$00 e 2000$00 (respectivamente a primeira, a segunda e a terceira taxas);
 
-###### Artigo 108 - 30$00 e 50$00 (respectivamente a primeira e a segunda taxas);
+Artigo 108 - 30$00 e 50$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 109 - 15$00;
 
-###### Artigo 110 - 12$00;
+Artigo 110 - 12$00;
 
 ###### Artigo 111 - 12$00;
 
-###### Artigo 114 - 15$00, 25$00, 3$00 e 5$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+Artigo 114 - 15$00, 25$00, 3$00 e 5$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
 
-###### Artigo 115 - 1$20 e $40 (respectivamente a primeira e a segunda taxas);
+Artigo 115 - 1$20 e $40 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 116 - A:
 
@@ -585,17 +652,17 @@ Verba X - 6$00;
 
 ###### Artigo 117 - 250$00;
 
-###### Artigo 118 - 1000$00, 300$00 e 100$00 (respectivamente a primeira, a segunda e a terceira taxas);
+Artigo 118 - 1000$00, 300$00 e 100$00 (respectivamente a primeira, a segunda e a terceira taxas);
 
-###### Artigo 125 - 40$00, 80$00, 40$00, 30$00 e 20$00 (respectivamente a primeira, a segunda, a terceira, a quarta e a quinta taxas);
+Artigo 125 - 40$00, 80$00, 40$00, 30$00 e 20$00 (respectivamente a primeira, a segunda, a terceira, a quarta e a quinta taxas);
 
 ###### Artigo 126 - 25$00;
 
-###### Artigo 127 - 25$00;
+Artigo 127 - 25$00;
 
 ###### Artigo 128 - 25$00;
 
-###### Artigo 129 - Títulos de valor nominal:
+Artigo 129 - Títulos de valor nominal:
 
 Até 500$00 - 5$00;
 
@@ -607,13 +674,13 @@ Cada 1000$00 a mais ou fracção - 10$00;
 
 ###### Artigo 130 - 500$00;
 
-###### Artigo 131 - 10$00 (ambas as taxas);
+Artigo 131 - 10$00 (ambas as taxas);
 
-###### Artigo 137 - 20$00, 15$00 e 10$00 (respectivamente a segunda, a terceira e a quarta taxas);
+Artigo 137 - 20$00, 15$00 e 10$00 (respectivamente a segunda, a terceira e a quarta taxas);
 
 ###### Artigo 138 - 15$00;
 
-###### Artigo 139 - 20$00 (última taxa);
+Artigo 139 - 20$00 (última taxa);
 
 ###### Artigo 144:
 
@@ -623,19 +690,19 @@ Verba II - 100$00
 
 ###### Artigo 149 - 15$00;
 
-###### Artigo 150 - 20$00;
+Artigo 150 - 20$00;
 
 ###### Artigo 151 - 15$00;
 
-###### Artigo 152 - 20$00;
+Artigo 152 - 20$00;
 
 ###### Artigo 153 - 15$00;
 
-###### Artigo 154 - 100$00 e 200$00 (respectivamente a segunda e a terceira taxas);
+Artigo 154 - 100$00 e 200$00 (respectivamente a segunda e a terceira taxas);
 
 ###### Artigo 159 - 50$00;
 
-###### Artigo 164 - De vencimento ou lotação mensal:
+Artigo 164 - De vencimento ou lotação mensal:
 
 Até 6000$00 - 300$00;
 
@@ -649,11 +716,11 @@ Superior a 15000$00 - 1000$00;
 
 ###### Artigo 169 - 50$00.
 
-###### Art. 16.º o disposto nos artigos 14.º e 15.º entra em vigor, no continente, no décimo quinto dias após a publicação do presente diploma; e nas lhas adjacentes nos prazos estabelecidos no n.º 1.º do artigo 1.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933.
+Art. 16.º o disposto nos artigos 14.º e 15.º entra em vigor, no continente, no décimo quinto dias após a publicação do presente diploma; e nas lhas adjacentes nos prazos estabelecidos no n.º 1.º do artigo 1.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933.
 
 G - Disposições diversas
 
-###### Art. 17.º - 1. É criado um adicional de 10% às contribuições e impostos abaixo designados, cuja liquidação venha a ser efectuada posteriormente à entrada em vigor deste diploma, o qual incidirá sobre a parte do Estado e os adicionais para as autarquias locais:
+Art. 17.º - 1. É criado um adicional de 10% às contribuições e impostos abaixo designados, cuja liquidação venha a ser efectuada posteriormente à entrada em vigor deste diploma, o qual incidirá sobre a parte do Estado e os adicionais para as autarquias locais:
 
 a) Contribuição industrial sobre os rendimentos respeitantes ao ano de 1976;
 
@@ -675,7 +742,7 @@ i) Imposto sobre as sucessões e doações relativo a transmissões operadas dur
 
 2. O adicional será escriturado e contabilizado em conjunto com as importâncias sobre que incide.
 
-###### Art. 18.º - 1. As importâncias de licenças, taxas, multas e seus limites, bem como as pagas no acto da apresentação de denúncias em servços públios, fixadas em quantitativos específicos, e que constituam, no todo ou em parte, receita do Estado, são actualizadas com aplicação dos seguintes coeficientes, conforme o ano em que foi estabelecida a respectiva importância em vigor à data da publicação deste diploma:
+Art. 18.º - 1. As importâncias de licenças, taxas, multas e seus limites, bem como as pagas no acto da apresentação de denúncias em servços públios, fixadas em quantitativos específicos, e que constituam, no todo ou em parte, receita do Estado, são actualizadas com aplicação dos seguintes coeficientes, conforme o ano em que foi estabelecida a respectiva importância em vigor à data da publicação deste diploma:
 
 Anteriormente a 1921 ... 30
 
@@ -691,12 +758,12 @@ De 1960 a 1973 ... 2
 
 2. Excluem-se do disposto no número antecedente as licenças e taxas constantes da Tabela Geral do Imposto do Selo e, bem assim, a taxa militar.
 
-###### Art. 19.º Os contribuintes da contribuição industrial, grupo B, cujos rendimentos do ano de 1975 não estiveram em reclamação durante o prazo estabelecido na alínea a) do artigo 71.º do Código da Contribuição Industrial, poderão reclamar da sua fixação no prazo que decorre de 16 a 30 de Agosto de 1976.
+Art. 19.º Os contribuintes da contribuição industrial, grupo B, cujos rendimentos do ano de 1975 não estiveram em reclamação durante o prazo estabelecido na alínea a) do artigo 71.º do Código da Contribuição Industrial, poderão reclamar da sua fixação no prazo que decorre de 16 a 30 de Agosto de 1976.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

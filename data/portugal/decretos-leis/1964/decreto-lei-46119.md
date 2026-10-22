@@ -48,36 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46119-1964-554112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e1680bda960aee5a688fcec362d0dd804c9175984b42e9e4b7e8e4bdd28e637
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe6435b70841043e917d059874d46d525940ddb410a52ece22747df73ae67ef0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- EFTA
+- Importação
+- Lista
+- Mercadoria
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:172907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554111:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:36Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +114,11 @@ Considerando as disposições da Convenção que instituiu a Associação Europe
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As taxas pautais resultantes da aplicação do [Decreto-Lei n.º 46118](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46118-1964-554111), de hoje, devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as que se encontravam em vigor em consequência do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
+Artigo 1.º As taxas pautais resultantes da aplicação do [Decreto-Lei n.º 46118](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46118-1964-554111), de hoje, devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as que se encontravam em vigor em consequência do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
 
-###### Art. 2.º São eliminados da lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, os artigos 29.37.01 e 85.19.11.
+Art. 2.º São eliminados da lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, os artigos 29.37.01 e 85.19.11.
 
-###### Art. 3.º São introduzidos na lista a que se refere o artigo anterior os seguintes artigos:
+Art. 3.º São introduzidos na lista a que se refere o artigo anterior os seguintes artigos:
 
 29.35 - ...
 
@@ -120,7 +144,7 @@ Cermets:
 
 01 Aparelhos utilizados em televisão para registo e reprodução de imagens e de som, por processo magnético.
 
-###### Art. 4.º Na lista anteriormente citada, a redacção das posições pautais a seguir mencionadas é alterada para:
+Art. 4.º Na lista anteriormente citada, a redacção das posições pautais a seguir mencionadas é alterada para:
 
 13.03 - Sucos e extractos, vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes derivados de vegetais.
 
@@ -164,7 +188,7 @@ Cermets:
 
 85.21 - Lâmpadas, tubos e válvulas electrónicos (de cátodo aquecido, de cátodo frio ou de fotocátodo, excepto os do n.º 85.20), tais como lâmpadas, tubos e válvulas de vácuo, de vapor ou de gases (compreendendo os tubos rectificadores de vapor de mercúrio), tubos catódicos, tubos e válvulas para aparelhos de tomada de vistas, para televisão; células fotoeléctricas; transistors e elementos semelhantes, com semicondutores, montados; cristais piezoeléctricos montados.
 
-###### Art. 5.º Na lista a que se refere o artigo 2.º do [Decreto-Lei n.º 44861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44861-1963-192851), de 21 de Janeiro de 1963, são alteradas as redacções das posições a seguir indicadas pela seguinte forma:
+Art. 5.º Na lista a que se refere o artigo 2.º do [Decreto-Lei n.º 44861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44861-1963-192851), de 21 de Janeiro de 1963, são alteradas as redacções das posições a seguir indicadas pela seguinte forma:
 
 27.09 - Petróleo ou óleos minerais betuminosos, em bruto.
 
@@ -186,9 +210,9 @@ Protectores, tiras de rodagem amovíveis (para protectores), câmaras-de-ar e fl
 
 02 Artefactos não especificados.
 
-###### Art. 6.º O presente decreto-lei entra em vigor em 31 de Dezembro de 1964.
+Art. 6.º O presente decreto-lei entra em vigor em 31 de Dezembro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/711-1974-467051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 754df45297f69dbb420c1b23ee6ccd3fa32180f18c9103ff205f69176b73c9d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba760d5ea35a4b8a08f8def306df8377a2d561039950029af1e041b826266160
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Deserção
+- Serviço Militar
+relationships:
+- type: cites
+  target: pt:dre:623191:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:39Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +101,7 @@ Considerando o interesse em que um maior número de emigrantes possa tomar conta
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os nacionais residentes no estrangeiro e em situação militar irregular, abrangidos pela amnistia do [Decreto-Lei n.º 180/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1974-623191), de 2 de Maio, poderão vir livremente a Portugal, uma só vez, entre 15 de Dezembro e 31 de Janeiro.
+Artigo 1.º - 1. Os nacionais residentes no estrangeiro e em situação militar irregular, abrangidos pela amnistia do [Decreto-Lei n.º 180/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1974-623191), de 2 de Maio, poderão vir livremente a Portugal, uma só vez, entre 15 de Dezembro e 31 de Janeiro.
 
 2. A permanência em território nacional dos indivíduos abrangidos pelo n.º 1 não poderá exceder quarenta e cinco dias.
 
@@ -102,12 +109,12 @@ Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n
 
 4. Para efeitos do n.º 3 deste diploma, o prazo de quinze dias prescrito no n.º 1 do artigo 3.º do [Decreto-Lei n.º 180/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1974-623191), de 2 de Maio, começa a correr no primeiro dia do mês de Fevereiro de 1975.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 7 de Dezembro de 1974.**
+Promulgado em 7 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

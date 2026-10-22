@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1980-473560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63560fb0023464a3d639df3c9a3f49abc5a8be03706d1f5982da262de06eb8bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af8b37c27a12373feb4705f2fde998606c02d342b57856596fc9b2c9695f8bc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Feriado
+- Férias
+- Orgânica
+- Tribunal
+- Tribunal Judicial
+- Tribunal Militar
+relationships:
+- type: cites
+  target: pt:dre:218315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381980:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:10Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +108,15 @@ Assim:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extensivo aos tribunais militares o disposto na lei quanto a férias e feriados dos tribunais judiciais.
+Artigo 1.º É extensivo aos tribunais militares o disposto na lei quanto a férias e feriados dos tribunais judiciais.
 
-###### Art. 2.º - 1 - A licença para férias dos juízes militares, promotores de justiça, defensores oficiosos, secretários e restante pessoal dos tribunais militares só pode ser gozada durante as férias dos respectivos tribunais e sem prejuízo do normal funcionamento destes, salvo quando for assegurada a substituição por pessoa não pertencente ao quadro do tribunal.
+Art. 2.º - 1 - A licença para férias dos juízes militares, promotores de justiça, defensores oficiosos, secretários e restante pessoal dos tribunais militares só pode ser gozada durante as férias dos respectivos tribunais e sem prejuízo do normal funcionamento destes, salvo quando for assegurada a substituição por pessoa não pertencente ao quadro do tribunal.
 
 2 - No decurso das férias poderão os juízes militares, promotores de justiça e defensores oficiosos dos tribunais militares territoriais com a mesma sede exercer funções em mais de dois tribunais.
 
 3 - No mesmo período e em relação ao Tribunal Militar da Marinha, observar-se-á o disposto nos artigos 244.º, n.º 4, 255.º, ambos na redacção dada pelo [Decreto-Lei n.º 319-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1977-218315), de 5 de Agosto, e 262.º do Código de Justiça Militar, consoante se trate de juízes militares, promotores de justiça e defensores oficiosos.
 
-###### Art. 3.º - 1 - Os juízes relatores, auditores e adjuntos dos tribunais militares gozam as suas férias, durante o período de férias judiciais, mediante simples comunicação à secretaria do tribunal respectivo do local onde vão residir e ressalvado o disposto nos números seguintes.
+Art. 3.º - 1 - Os juízes relatores, auditores e adjuntos dos tribunais militares gozam as suas férias, durante o período de férias judiciais, mediante simples comunicação à secretaria do tribunal respectivo do local onde vão residir e ressalvado o disposto nos números seguintes.
 
 2 - Durante as férias de Verão, os tribunais militares de instância constituir-se-ão em grupos, a cada um dos quais será afectado, em regime de turnos, um auditor de entre os que prestam serviço nos tribunais do respectivo grupo.
 
@@ -124,8 +138,8 @@ b) Restantes tribunais militares de instância.
 
 Visto e aprovado em Conselho da Revolução em 9 de Junho de 1980.
 
-**Promulgado em 18 de Junho de 1980.**
+Promulgado em 18 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45179-1963-693412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca768b33cfa100a32b6b0c75641d794cd25f2a161ad61c531370dfcbda8af21e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f67d9d9e38e4593e3365430f6f264980eb2f57bf67a8bfb9a36d2ba7ce515473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algodão
+- Angola.Colónia Portuguesa
+- Comércio
+- Moçambique.Colónia Portuguesa
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:644532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312013:por
+  label: "Alterado o art. 18.º pelo DEC LEI.47765.24.06.1967.MU, DG.IS [146] de 24.06.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47765-1967-312013
+  date: '1967-06-24'
+- type: amended_by
+  target: pt:dre:644532:por
+  label: "Alterados os arts. 20º e 26º e revogados os arts. 19º e 21º pelo DEC LEI.202/71.13.05.1971.MU, DG.IS [112] de 13.05.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1971-644532
+  date: '1971-05-13'
+- type: cites
+  target: pt:dre:157012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557052:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:54Z'
   warnings: []
   errors: []
 ---
@@ -201,19 +245,19 @@ I
 
 Da cultura
 
-###### Artigo 1.º São extintas as zonas de concessão algodoeira constituídas ou modificadas ao abrigo do [Decreto n.º 35844](https://diariodarepublica.pt/dr/detalhe/decreto/35844-1946-157012), de 31 de Agosto de 1946, e do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955.
+Artigo 1.º São extintas as zonas de concessão algodoeira constituídas ou modificadas ao abrigo do [Decreto n.º 35844](https://diariodarepublica.pt/dr/detalhe/decreto/35844-1946-157012), de 31 de Agosto de 1946, e do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955.
 
-###### Art. 2.º Aos institutos do algodão compete fomentar a cultura algodoeira, coordenar e fiscalizar todas as actividades com ela relacionadas, assegurar aos produtores assistência técnica e proporcionar-lhes assistência financeira, quando necessária.
+Art. 2.º Aos institutos do algodão compete fomentar a cultura algodoeira, coordenar e fiscalizar todas as actividades com ela relacionadas, assegurar aos produtores assistência técnica e proporcionar-lhes assistência financeira, quando necessária.
 
-###### Art. 3.º Serão publicados os regulamentos gerais e especiais a que há-de submeter-se a cultura do algodoeiro, com vista, nomeadamente, à garantia da liberdade da produção, à defesa sanitária das culturas, ao seu enquadramento nas rotações e nos afolhamentos económica e tècnicamente aconselháveis, à produção e emprego de sementes seleccionadas e suas variedades, aos problemas inerentes à preparação e conservação do solo e à organização dos planos de cultura por cada campanha.
+Art. 3.º Serão publicados os regulamentos gerais e especiais a que há-de submeter-se a cultura do algodoeiro, com vista, nomeadamente, à garantia da liberdade da produção, à defesa sanitária das culturas, ao seu enquadramento nas rotações e nos afolhamentos económica e tècnicamente aconselháveis, à produção e emprego de sementes seleccionadas e suas variedades, aos problemas inerentes à preparação e conservação do solo e à organização dos planos de cultura por cada campanha.
 
 II
 
 Da comercialização do algodão-caroço
 
-###### Art. 4.º A comercialização do algodão-caroço será exercida em condições de igualdade e regime de concorrência, de harmonia com as normas regulamentares que forem estabelecidas, ficando absolutamente vedada a atribuição de qualquer exclusivo ou privilégio.
+Art. 4.º A comercialização do algodão-caroço será exercida em condições de igualdade e regime de concorrência, de harmonia com as normas regulamentares que forem estabelecidas, ficando absolutamente vedada a atribuição de qualquer exclusivo ou privilégio.
 
-###### Art. 5.º - 1. A compra do algodão-caroço é permitida a todas as pessoas singulares ou colectivas que satisfaçam às seguintes condições:
+Art. 5.º - 1. A compra do algodão-caroço é permitida a todas as pessoas singulares ou colectivas que satisfaçam às seguintes condições:
 
 a) Disporem de organização comercial e de capacidade técnica e financeira adequadas à compra do algodão-caroço e à venda do algodão em rama dele proveniente nos mercados consumidores;
 
@@ -221,29 +265,29 @@ b) Estarem inscritas no respectivo instituto do algodão, nos termos do artigo 2
 
 2. As operações de compra deverão recair indiscriminadamente sobre todos os tipos de algodão postos à venda em cada mercado, nos termos que vierem a ser fixados em regulamento.
 
-###### Art. 6.º Os institutos do algodão poderão ser autorizados por despacho do governador da província a adquirir algodão-caroço nos mercados, com o fim de assegurar o escoamento da produção, na falta de compradores.
+Art. 6.º Os institutos do algodão poderão ser autorizados por despacho do governador da província a adquirir algodão-caroço nos mercados, com o fim de assegurar o escoamento da produção, na falta de compradores.
 
-###### Art. 7.º Compete ao governador da província, sob proposta do instituto do algodão e ouvido o conselho económico e social, nas províncias de governo-geral, e o conselho do governo, nas províncias de governo simples, fixar anualmente a tabela de preços mínimos de compra do algodão-caroço ao produtor, a qual vigorará para todas as transacções, incluindo as realizadas pelo próprio instituto.
+Art. 7.º Compete ao governador da província, sob proposta do instituto do algodão e ouvido o conselho económico e social, nas províncias de governo-geral, e o conselho do governo, nas províncias de governo simples, fixar anualmente a tabela de preços mínimos de compra do algodão-caroço ao produtor, a qual vigorará para todas as transacções, incluindo as realizadas pelo próprio instituto.
 
-###### Art. 8.º As operações de compra e venda do algodão-caroço serão realizadas em mercados, cuja localização e regulamentação compete ao governador da província definir e estabelecer.
+Art. 8.º As operações de compra e venda do algodão-caroço serão realizadas em mercados, cuja localização e regulamentação compete ao governador da província definir e estabelecer.
 
-###### Art. 9.º A fiscalização dos mercados será da competência do instituto do algodão, que poderá solicitar a intervenção das autoridades locais sempre que o julgue necessário.
+Art. 9.º A fiscalização dos mercados será da competência do instituto do algodão, que poderá solicitar a intervenção das autoridades locais sempre que o julgue necessário.
 
-###### Art. 10.º Sobre o preço do algodão-caroço adquirido pelas entidades a que se refere o artigo 5.º incidirá uma taxa, a fixar pelo governo da província, que constituirá receita do Fundo de Fomento de Algodoeiro, e cujo valor será fixado na razão inversa da distância dos locais da transacção às fábricas de descaroçamento onde o algodão seja beneficiado e destas aos respectivos portos de embarque.
+Art. 10.º Sobre o preço do algodão-caroço adquirido pelas entidades a que se refere o artigo 5.º incidirá uma taxa, a fixar pelo governo da província, que constituirá receita do Fundo de Fomento de Algodoeiro, e cujo valor será fixado na razão inversa da distância dos locais da transacção às fábricas de descaroçamento onde o algodão seja beneficiado e destas aos respectivos portos de embarque.
 
-###### Art. 11.º Os institutos do algodão ficam autorizados a realizar com as instituições de crédito todas as operações que se tornem necessárias ao exercício das atribuições que lhes são conferidas nos artigos 2.º e 6.º deste decreto-lei.
+Art. 11.º Os institutos do algodão ficam autorizados a realizar com as instituições de crédito todas as operações que se tornem necessárias ao exercício das atribuições que lhes são conferidas nos artigos 2.º e 6.º deste decreto-lei.
 
 III
 
 Do descaroçamento e prensagem
 
-###### Art. 12.º - 1. As operações de descaroçamento e prensagem do algodão serão realizadas nas fábricas e oficinas existentes, que, para efeitos de condicionamento industrial, se consideram desde já autorizadas, ou nas fábricas que se instalarem de novo, nos termos da legislação que vigorar.
+Art. 12.º - 1. As operações de descaroçamento e prensagem do algodão serão realizadas nas fábricas e oficinas existentes, que, para efeitos de condicionamento industrial, se consideram desde já autorizadas, ou nas fábricas que se instalarem de novo, nos termos da legislação que vigorar.
 
 2. Não serão permitidas novas oficinas de descaroçamento e prensagem de algodão, devendo as existentes ser remodeladas ou substituídas nas condições e prazos a fixar em regulamento, e a instalação de novas fábricas será condicionada à circunstância de as existentes não possuírem capacidade para laborar a produção algodoeira das zonas que econòmicamente podem servir.
 
-###### Art. 13.º As fábricas e oficinas cobrarão por descaroçar e prensar o algodão que não for directamente adquirido pelos respectivos industriais uma importância que tenha em conta a justa remuneração do empresário, conforme vier a ser estabelecido em regulamentação a publicar pelo governo da respectiva província.
+Art. 13.º As fábricas e oficinas cobrarão por descaroçar e prensar o algodão que não for directamente adquirido pelos respectivos industriais uma importância que tenha em conta a justa remuneração do empresário, conforme vier a ser estabelecido em regulamentação a publicar pelo governo da respectiva província.
 
-###### Art. 14.º Os compradores de algodão-caroço devem entregar, para sementeira, aos institutos do algodão, até 30 por cento das quantidades de semente obtidas nas operações de descaroçamento, com observância das seguintes prescrições, entre as que forem consignadas em regulamento:
+Art. 14.º Os compradores de algodão-caroço devem entregar, para sementeira, aos institutos do algodão, até 30 por cento das quantidades de semente obtidas nas operações de descaroçamento, com observância das seguintes prescrições, entre as que forem consignadas em regulamento:
 
 1.º A semente escolhida para este fim será proveniente dos lotes e variedades que o instituto indicar;
 
@@ -251,15 +295,15 @@ Do descaroçamento e prensagem
 
 3.º O transporte da semente para os locais da distribuição será feito, tanto quanto possível, em regime de retorno, pelos compradores de algodão-caroço, os quais debitarão ao instituto do algodão a correspondente quota-parte dos fretes.
 
-###### Art. 15.º O produto da venda das sementes provenientes do algodão transaccionado por intermédio dos institutos, nos termos do artigo 6.º, bem como o produto da venda das que não forem utilizadas para sementeira nas condições previstas no artigo 14.º, destina-se ao Fundo de Fomento Algodoeiro.
+Art. 15.º O produto da venda das sementes provenientes do algodão transaccionado por intermédio dos institutos, nos termos do artigo 6.º, bem como o produto da venda das que não forem utilizadas para sementeira nas condições previstas no artigo 14.º, destina-se ao Fundo de Fomento Algodoeiro.
 
-###### Art. 16.º Os concessionários que desistiram ou venham a desistir das suas concessões, ao abrigo do artigo 8.º do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955, bem como os produtores e os restantes industriais de descaroçamento e prensagem de algodão, ficam sujeitos, a partir de 1 de Janeiro de 1964, ao regime tributário geral que vigorar na respectiva província ultramarina.
+Art. 16.º Os concessionários que desistiram ou venham a desistir das suas concessões, ao abrigo do artigo 8.º do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955, bem como os produtores e os restantes industriais de descaroçamento e prensagem de algodão, ficam sujeitos, a partir de 1 de Janeiro de 1964, ao regime tributário geral que vigorar na respectiva província ultramarina.
 
 IV
 
 Da comercialização do algodão em rama
 
-###### Art. 17.º Podem exercer o comércio do algodão em rama no ultramar, incluindo a sua exportação, nas condições legais:
+Art. 17.º Podem exercer o comércio do algodão em rama no ultramar, incluindo a sua exportação, nas condições legais:
 
 1.º As entidades a que se refere o artigo 5.º deste diploma;
 
@@ -267,15 +311,15 @@ Da comercialização do algodão em rama
 
 3.º Os institutos do algodão, no caso previsto no artigo 6.º ou quando solicitados pelos produtores a que se refere o número anterior.
 
-###### Art. 18.º No prazo máximo de cinco anos a comercialização do algodão ultramarino deverá fazer-se em moldes semelhantes aos praticados no mercado internacional.
+Art. 18.º No prazo máximo de cinco anos a comercialização do algodão ultramarino deverá fazer-se em moldes semelhantes aos praticados no mercado internacional.
 
-###### Art. 19.º Enquanto não estiver completamente processada a evolução prevista no artigo anterior, é proibida a exportação para o estrangeiro de algodão ultramarino, salvo se se mostrar assegurado o abastecimento da indústria nacional.
+Art. 19.º Enquanto não estiver completamente processada a evolução prevista no artigo anterior, é proibida a exportação para o estrangeiro de algodão ultramarino, salvo se se mostrar assegurado o abastecimento da indústria nacional.
 
-###### Art. 20.º - 1. Aos Ministros do Ultramar e da Economia, ouvidos os governos das províncias e a Comissão Reguladora do Comércio de Algodão em Rama, compete fixar por portaria, até 31 de Maio de cada ano, a quantidade de algodão ultramarino da respectiva colheita que os importadores nacionais deverão adquirir e, bem assim, os preços correspondentes.
+Art. 20.º - 1. Aos Ministros do Ultramar e da Economia, ouvidos os governos das províncias e a Comissão Reguladora do Comércio de Algodão em Rama, compete fixar por portaria, até 31 de Maio de cada ano, a quantidade de algodão ultramarino da respectiva colheita que os importadores nacionais deverão adquirir e, bem assim, os preços correspondentes.
 
 2. Ao Ministro do Ultramar caberá distribuir as quantidades fixadas pelas províncias ultramarinas produtoras.
 
-###### Art. 21.º - 1. Os importadores nacionais têm direito de opção, nos termos que vierem a ser estabelecidos, sobre o algodão ultramarino destinado à exportação para o estrangeiro.
+Art. 21.º - 1. Os importadores nacionais têm direito de opção, nos termos que vierem a ser estabelecidos, sobre o algodão ultramarino destinado à exportação para o estrangeiro.
 
 2. Este direito será exercido pela Comissão Reguladora do Comércio de Algodão em Rama.
 
@@ -283,53 +327,53 @@ Da comercialização do algodão em rama
 
 4. O algodão que for objecto de opção deverá sempre ser utilizado no mercado nacional.
 
-###### Art. 22.º O algodão necessário ao abastecimento das indústrias das províncias ultramarinas ser-lhes-á assegurado pela forma que, sob proposta dos institutos do algodão, vier a ser estabelecida pelo respectivo governador da província, mas sempre de modo que o vendedor não seja prejudicado em relação aos preços que se obtenham nas vendas para a metrópole.
+Art. 22.º O algodão necessário ao abastecimento das indústrias das províncias ultramarinas ser-lhes-á assegurado pela forma que, sob proposta dos institutos do algodão, vier a ser estabelecida pelo respectivo governador da província, mas sempre de modo que o vendedor não seja prejudicado em relação aos preços que se obtenham nas vendas para a metrópole.
 
-###### Art. 23.º As compras de algodão do ultramar devem efectuar-se quanto possível à medida que forem sendo feitas as operações do descaroçamento.
+Art. 23.º As compras de algodão do ultramar devem efectuar-se quanto possível à medida que forem sendo feitas as operações do descaroçamento.
 
-###### Art. 24.º A exportação de algodão do ultramar depende de autorização do competente instituto, que não permitirá a sua saída senão depois de o ter devidamente classificado.
+Art. 24.º A exportação de algodão do ultramar depende de autorização do competente instituto, que não permitirá a sua saída senão depois de o ter devidamente classificado.
 
-###### Art. 25.º Todo o algodão vendido deverá ser sempre acompanhado de um certificado de origem e qualidade passado pelo instituto do algodão.
+Art. 25.º Todo o algodão vendido deverá ser sempre acompanhado de um certificado de origem e qualidade passado pelo instituto do algodão.
 
-###### Art. 26.º Sobre cada quilo de algodão em rama transaccionado recairá uma taxa que constituirá receita do instituto do algodão e não deverá exceder a percentagem de 5 por cento sobre o preço C. I. F. Leixões.
+Art. 26.º Sobre cada quilo de algodão em rama transaccionado recairá uma taxa que constituirá receita do instituto do algodão e não deverá exceder a percentagem de 5 por cento sobre o preço C. I. F. Leixões.
 
 V
 
 Disposições gerais e transitórias
 
-###### Art. 27.º É obrigatória a inscrição no instituto do algodão da respectiva província dos produtores cuja lavra ultrapasse o limite a fixar em regulamento, dos industriais de descaroçamento e prensagem de algodão nas condições previstas no artigo 5.º deste diploma e dos exportadores e comerciantes de algodão que satisfaçam às exigências do artigo 22.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), de 24 de Agosto de 1961.
+Art. 27.º É obrigatória a inscrição no instituto do algodão da respectiva província dos produtores cuja lavra ultrapasse o limite a fixar em regulamento, dos industriais de descaroçamento e prensagem de algodão nas condições previstas no artigo 5.º deste diploma e dos exportadores e comerciantes de algodão que satisfaçam às exigências do artigo 22.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), de 24 de Agosto de 1961.
 
-###### Art. 28.º O não cumprimento das obrigações impostas por este e outros diplomas aos produtores e comerciantes de algodão e aos industriais de descaroçamento e prensagem, bem como a inobservância dos regulamentos e instruções dos institutos, dará lugar à aplicação das sanções previstas no artigo 23.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970).
+Art. 28.º O não cumprimento das obrigações impostas por este e outros diplomas aos produtores e comerciantes de algodão e aos industriais de descaroçamento e prensagem, bem como a inobservância dos regulamentos e instruções dos institutos, dará lugar à aplicação das sanções previstas no artigo 23.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970).
 
-###### Art. 29.º Os Fundos de Fomento Algodoeiro de Angola e Moçambique ficam autorizados a fornecer aos respectivos institutos do algodão, pelo produto das taxas que cobrarem, os meios financeiros para fazer face às despesas resultantes de novas obrigações criadas por este diploma, sem prejuízo do disposto no [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970).
+Art. 29.º Os Fundos de Fomento Algodoeiro de Angola e Moçambique ficam autorizados a fornecer aos respectivos institutos do algodão, pelo produto das taxas que cobrarem, os meios financeiros para fazer face às despesas resultantes de novas obrigações criadas por este diploma, sem prejuízo do disposto no [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970).
 
-###### Art. 30.º Os institutos do algodão podem tomar ao seu serviço, por conta de verbas destinadas ao fomento da cultura algodoeira e nas condições a regulamentar, o pessoal das empresas concessionárias que o deseje e cujas actuais funções estejam relacionadas com aquele fomento.
+Art. 30.º Os institutos do algodão podem tomar ao seu serviço, por conta de verbas destinadas ao fomento da cultura algodoeira e nas condições a regulamentar, o pessoal das empresas concessionárias que o deseje e cujas actuais funções estejam relacionadas com aquele fomento.
 
-###### Art. 31.º Os regulamentos previstos no presente diploma que recaiam sobre matérias comuns a mais de uma província ultramarina e que nelas se destinem a ter execução serão aprovados por decreto do Ministro do Ultramar.
+Art. 31.º Os regulamentos previstos no presente diploma que recaiam sobre matérias comuns a mais de uma província ultramarina e que nelas se destinem a ter execução serão aprovados por decreto do Ministro do Ultramar.
 
-###### Art. 32.º O artigo 33.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970) passa a ter a seguinte redacção:
+Art. 32.º O artigo 33.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970) passa a ter a seguinte redacção:
 
 Os fundos de fomento algodoeiro serão geridos em cada uma das províncias por uma comissão presidida pelo governador da província ou seu delegado e cujos vogais serão o director do respectivo instituto (quando este não for, como em regra deverá ser, o próprio delegado) e um ou dois dos seus chefes de serviços, a designar pelo governador, por forma que a comissão, em qualquer dos casos, seja composta de três membros.
 
-###### Art. 33.º O regime de concessões algodoeiras termina, em relação às empresas concessionárias que apresentaram os seus pedidos de desistência, ao abrigo do artigo 8.º do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), na data aí prevista, ou seja um ano após a declaração de desistência.
+Art. 33.º O regime de concessões algodoeiras termina, em relação às empresas concessionárias que apresentaram os seus pedidos de desistência, ao abrigo do artigo 8.º do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), na data aí prevista, ou seja um ano após a declaração de desistência.
 
-###### Art. 34.º As concessões das empresas que não apresentaram pedidos de desistência terminam no dia 31 de Agosto de 1966, na conformidade do disposto no artigo 73.º do citado decreto-lei, salvo se antes disso desistirem das suas concessões, como lhes é facultado pelo artigo 8.º do mesmo diploma, ou se se verificar algum dos casos de caducidade prevenidos no seu artigo 7.º
+Art. 34.º As concessões das empresas que não apresentaram pedidos de desistência terminam no dia 31 de Agosto de 1966, na conformidade do disposto no artigo 73.º do citado decreto-lei, salvo se antes disso desistirem das suas concessões, como lhes é facultado pelo artigo 8.º do mesmo diploma, ou se se verificar algum dos casos de caducidade prevenidos no seu artigo 7.º
 
-###### Art. 35.º As empresas concessionárias, enquanto subsistirem, continuam sujeitas aos preceitos do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955, e, bem assim, ao regime fiscal e ao sistema de taxas que actualmente lhes são aplicáveis na respectiva província.
+Art. 35.º As empresas concessionárias, enquanto subsistirem, continuam sujeitas aos preceitos do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955, e, bem assim, ao regime fiscal e ao sistema de taxas que actualmente lhes são aplicáveis na respectiva província.
 
-###### Art. 36.º Sem prejuízo do disposto no artigo antecedente, fica revogado o referido [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955, em tudo que for contrariado pelo presente diploma.
+Art. 36.º Sem prejuízo do disposto no artigo antecedente, fica revogado o referido [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955, em tudo que for contrariado pelo presente diploma.
 
-###### Art. 37.º Este decreto-lei entra imediatamente em vigor. Quanto às suas disposições que não puderem ser executadas imediatamente, expedir-se-ão pelo Ministro do Ultramar ou pelos governos das províncias ultramarinas os respectivos regulamentos dentro do prazo de seis meses.
+Art. 37.º Este decreto-lei entra imediatamente em vigor. Quanto às suas disposições que não puderem ser executadas imediatamente, expedir-se-ão pelo Ministro do Ultramar ou pelos governos das províncias ultramarinas os respectivos regulamentos dentro do prazo de seis meses.
 
-###### Art. 38.º As empresas a que se refere o artigo 33.º ficam obrigadas a executar os trabalhos preparatórios da campanha de 1963-1964 que, segundo a prática dos anos anteriores, tiverem lugar até à data em que a sua desistência se tornar efectiva.
+Art. 38.º As empresas a que se refere o artigo 33.º ficam obrigadas a executar os trabalhos preparatórios da campanha de 1963-1964 que, segundo a prática dos anos anteriores, tiverem lugar até à data em que a sua desistência se tornar efectiva.
 
-###### Art. 39.º - 1. No ano de 1964 as colectas a liquidar a cada contribuinte em execução do disposto no artigo 16.º deste diploma serão, no seu conjunto, de quantitativo igual ao que resultaria da aplicação do imposto algodoeiro, se continuasse em vigor, devendo, para o efeito, fazer-se a antecipação do lançamento e cobrança que se torne necessária.
+Art. 39.º - 1. No ano de 1964 as colectas a liquidar a cada contribuinte em execução do disposto no artigo 16.º deste diploma serão, no seu conjunto, de quantitativo igual ao que resultaria da aplicação do imposto algodoeiro, se continuasse em vigor, devendo, para o efeito, fazer-se a antecipação do lançamento e cobrança que se torne necessária.
 
 2. O quantitativo assim apurado será repartido pelas contribuições e impostos a que o contribuinte estiver sujeito por força do regime tributário geral da respectiva província e contabilizado, sob as rubricas orçamentais correspondentes, na proporção que o governo da província determinar, ouvida a Direcção dos Serviços de Fazenda e Contabilidade, mas por forma que fiquem definitivamente liquidadas as contribuições e impostos cujo lançamento não tenha havido necessidade de antecipar.
 
 3. No ano de 1965 as colectas liquidadas nos termos dos dois números precedentes serão encontradas com as que resultarem da aplicação do regime tributário geral e cuja matéria colectável tenha por base os rendimentos do ano de 1963, fazendo-se as necessárias correcções para mais ou para menos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

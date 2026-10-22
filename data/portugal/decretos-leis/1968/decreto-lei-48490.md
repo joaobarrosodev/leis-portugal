@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/17000/10441046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,40 +50,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48490-1968-273801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ca02b9ea3b5f4c62ac599d35835142174d87c8cbb48719339ad939a5d27cb69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec8af05821220bbba44a9354b5458c90f81fcf88954a210a1a5288c5e789e337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armador
+- Autorização de Despesas
+- AVAL do Estado
+- Definição de Competências
+- Delegado do Governo
+- Despesas Públicas
+- Financiamento
+- Fundo de Renovação da Marinha Mercante
+- Gestão Financeira
+- Junta Nacional da Marinha Mercante
+- Ministro da Marinha
+- Ministro das Finanças
+- Obrigações do Tesouro
+- Plano de Fomento
 relationships:
 - type: amended_by
   target: pt:dre:643941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227392:por
+  label: "Alterado o art. 13º pelo DEC LEI.41/70.30.01.1970.MF, DG.IS [25] de 30.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1970-227392
+  date: '1970-01-30'
+- type: cites
+  target: pt:dre:150556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693026:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643941:por
+  label: "Revogado pelo DEC LEI.228/71.28.05.1971.MF, DG.IS [125] de 28.05.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1971-643941
+  date: '1971-05-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:03Z'
   warnings: []
   errors: []
 ---
@@ -100,59 +156,59 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É mantido, anexo à Junta Nacional da Marinha Mercante, e com os objectivos e a constituição estabelecidos nos artigos 2.º a 10.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959, o Fundo de Renovação da Marinha Mercante, criado pelo [Decreto-Lei n.º 35876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35876-1946-150556), de 24 de Setembro de 1946.
+Artigo 1.º É mantido, anexo à Junta Nacional da Marinha Mercante, e com os objectivos e a constituição estabelecidos nos artigos 2.º a 10.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959, o Fundo de Renovação da Marinha Mercante, criado pelo [Decreto-Lei n.º 35876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35876-1946-150556), de 24 de Setembro de 1946.
 
-###### Art. 2.º Para ocorrer ao financiamento dos empreendimentos previstos no III Plano de Fomento, o Fundo é autorizado a contrair, nos três primeiros anos da sua execução (1968 a 1970), um empréstimo interno amortizável, até ao montante de 600000 contos, a emitir por séries de obrigações denominado «Empréstimo de renovação da marinha mercante - III Plano de Fomento».
+Art. 2.º Para ocorrer ao financiamento dos empreendimentos previstos no III Plano de Fomento, o Fundo é autorizado a contrair, nos três primeiros anos da sua execução (1968 a 1970), um empréstimo interno amortizável, até ao montante de 600000 contos, a emitir por séries de obrigações denominado «Empréstimo de renovação da marinha mercante - III Plano de Fomento».
 
-###### Art. 3.º - 1. O montante das obrigações de cada série, assim como as condições de emissão não estabelecidas neste diploma, será oportunamente fixado, caso por caso, mediante portaria conjunta dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa do Fundo, após o que a Direcção-Geral da Fazenda Pública emitirá a correspondente obrigação geral.
+Art. 3.º - 1. O montante das obrigações de cada série, assim como as condições de emissão não estabelecidas neste diploma, será oportunamente fixado, caso por caso, mediante portaria conjunta dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa do Fundo, após o que a Direcção-Geral da Fazenda Pública emitirá a correspondente obrigação geral.
 
 2. Na determinação destas condições deverá atender-se à natureza específica dos empreendimentos a financiar e às condições prevalecentes no mercado de capitais.
 
-###### Art. 4.º - 1. A representação do empréstimo far-se-á em títulos de cupão de uma, cinco e dez obrigações, do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
+Art. 4.º - 1. A representação do empréstimo far-se-á em títulos de cupão de uma, cinco e dez obrigações, do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
 
 2. Os títulos e certificados representativos das obrigações emitidas serão equiparados aos títulos da dívida pública portuguesa, gozando de aval do Estado, que garante o pagamento integral do capital e juros e dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e nos n.os 2.º a 6.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, continuando igualmente a beneficiar da isenção do imposto do selo e dos emolumentos para a sua admissão na Bolsa.
 
 3. Os títulos ou certificados representativos deste empréstimo poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de dois anos, e, no caso de serem entregues aos portadores certificados de dívida inscrita provisórios, será dispensável a indicação nos mesmos certificados dos números dos títulos neles representados.
 
-###### Art. 5.º - 1. Quando os tomadores das obrigações pretenderem receber os títulos já invertidos em certificados de dívida inscrita de qualquer montante, as operações de reversão serão isentas do pagamento de emolumentos e da taxa de 3$00 a que se referem os n.os I, III e IX da tabela anexa ao [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
+Art. 5.º - 1. Quando os tomadores das obrigações pretenderem receber os títulos já invertidos em certificados de dívida inscrita de qualquer montante, as operações de reversão serão isentas do pagamento de emolumentos e da taxa de 3$00 a que se referem os n.os I, III e IX da tabela anexa ao [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
 2. São aplicáveis aos títulos de cupão as disposições constantes do artigo 5.º do [Decreto-Lei n.º 45142](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45142-1963-693026), de 17 de Julho de 1963.
 
-###### Art. 6.º - 1. O serviço de administração do empréstimo será confiado à Junta do Crédito Público, criando-se no Fundo de Regularização da Dívida Pública da mesma Junta uma conta especial, na qual darão entrada os encargos prescritos e outras receitas que à mesma sejam mandadas reverter.
+Art. 6.º - 1. O serviço de administração do empréstimo será confiado à Junta do Crédito Público, criando-se no Fundo de Regularização da Dívida Pública da mesma Junta uma conta especial, na qual darão entrada os encargos prescritos e outras receitas que à mesma sejam mandadas reverter.
 
 2. No caso de resgate ou completa amortização, o saldo em numerário desta conta reverterá para a entidade emissora.
 
 3. No orçamento de despesa do Ministério das Finanças serão inscritas anualmente as importâncias necessárias ao pagamento dos encargos de juros e amortizações deste empréstimo, inscrevendo-se no orçamento de receita igual importância, a receber do Fundo de Renovação da Marinha Mercante.
 
-###### Art. 7.º - 1. Fica autorizado o Fundo de Renovação da Marinha Mercante a realizar com a Caixa Geral de Depósitos, Crédito e Previdência ou com as demais instituições de crédito nacionais quaisquer contratos para a colocação das obrigações ou a fazer esta colocação por subscrição pública ou venda no mercado, podendo também o Estado tomar para si parte da emissão.
+Art. 7.º - 1. Fica autorizado o Fundo de Renovação da Marinha Mercante a realizar com a Caixa Geral de Depósitos, Crédito e Previdência ou com as demais instituições de crédito nacionais quaisquer contratos para a colocação das obrigações ou a fazer esta colocação por subscrição pública ou venda no mercado, podendo também o Estado tomar para si parte da emissão.
 
 2. As despesas de colocação não poderão exceder 3 por cento do valor nominal.
 
-###### Art. 8.º Para a realização dos financiamentos a conceder no âmbito do III Plano de Fomento, o Fundo poderá ainda recorrer a outras operações e acordos de crédito interno e externo, incluindo contratos de compra, e efectuar operações de antecipação dos seus recursos, nos termos e condições a estabelecer ou a aprovar, caso por caso, por despacho ou diploma conjunto dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
+Art. 8.º Para a realização dos financiamentos a conceder no âmbito do III Plano de Fomento, o Fundo poderá ainda recorrer a outras operações e acordos de crédito interno e externo, incluindo contratos de compra, e efectuar operações de antecipação dos seus recursos, nos termos e condições a estabelecer ou a aprovar, caso por caso, por despacho ou diploma conjunto dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
 
-###### Art. 9.º Tratando-se, porém, de operações de antecipação dos recursos do Fundo a realizar com outras entidades administrativas dependentes do Governo, as respectivas condições e prazo serão estabelecidos ou aprovadas em despacho conjunto dos Ministros das Finanças e da Marinha e daquele a que estiver subordinada a entidade mutuante a que o Fundo recorrer.
+Art. 9.º Tratando-se, porém, de operações de antecipação dos recursos do Fundo a realizar com outras entidades administrativas dependentes do Governo, as respectivas condições e prazo serão estabelecidos ou aprovadas em despacho conjunto dos Ministros das Finanças e da Marinha e daquele a que estiver subordinada a entidade mutuante a que o Fundo recorrer.
 
-###### Art. 10.º - 1. Quando o Fundo usar da faculdade conferida para a antecipação dos seus recursos financeiros, será diferido de prazo igual ao das mesmas antecipações o início do pagamento dos empréstimos realizados aos armadores, continuando o referido pagamento a fazer-se no número de anuidades estabelecido para o reembolso das obrigações emitidas pelo Fundo.
+Art. 10.º - 1. Quando o Fundo usar da faculdade conferida para a antecipação dos seus recursos financeiros, será diferido de prazo igual ao das mesmas antecipações o início do pagamento dos empréstimos realizados aos armadores, continuando o referido pagamento a fazer-se no número de anuidades estabelecido para o reembolso das obrigações emitidas pelo Fundo.
 
 2. Durante o mesmo período os empréstimos vencerão juro de taxa igual à que o Fundo pagar à entidade mutuante.
 
 3. As garantias a prestar ao Fundo pelos armadores financiados, nos termos do artigo 15.º do presente diploma, cobrirão também o período a que se refere o corpo deste artigo.
 
-###### Art. 11.º O Fundo poderá, na realização das operações mencionadas no artigo 8.º do presente diploma, intervir como mutuário, avalista e principal pagador ou simples avalista, mas o total das responsabilidades que assim assumir não poderá exceder o montante fixado no III Plano de Fomento para as fontes de financiamento da mesma natureza e deverá ser coberto pelas garantias a que se refere o artigo 15.º deste diploma.
+Art. 11.º O Fundo poderá, na realização das operações mencionadas no artigo 8.º do presente diploma, intervir como mutuário, avalista e principal pagador ou simples avalista, mas o total das responsabilidades que assim assumir não poderá exceder o montante fixado no III Plano de Fomento para as fontes de financiamento da mesma natureza e deverá ser coberto pelas garantias a que se refere o artigo 15.º deste diploma.
 
-###### Art. 12.º O Fundo só concederá empréstimos depois de verificar se os empreendimentos para que os mesmos são solicitados estão incluídos no III Plano de Fomento ou nos programas anuais de execução do Plano e ainda se os respectivos projectos se encontram técnica e econòmicamente bem elaborados e os armadores inscritos na Junta Nacional da Marinha Mercante estão em condições de fazer face às obrigações resultantes desses empréstimos.
+Art. 12.º O Fundo só concederá empréstimos depois de verificar se os empreendimentos para que os mesmos são solicitados estão incluídos no III Plano de Fomento ou nos programas anuais de execução do Plano e ainda se os respectivos projectos se encontram técnica e econòmicamente bem elaborados e os armadores inscritos na Junta Nacional da Marinha Mercante estão em condições de fazer face às obrigações resultantes desses empréstimos.
 
-###### Art. 13.º As condições gerais de prazo, amortização e juro dos empréstimos a conceder pelo Fundo serão fixadas pelos Ministros das Finanças e da Marinha sob proposta da comissão administrativa, atendendo aos encargos dos meios financeiros postos à disposição do Fundo para o efeito.
+Art. 13.º As condições gerais de prazo, amortização e juro dos empréstimos a conceder pelo Fundo serão fixadas pelos Ministros das Finanças e da Marinha sob proposta da comissão administrativa, atendendo aos encargos dos meios financeiros postos à disposição do Fundo para o efeito.
 
-###### Art. 14º O Governo poderá conceder a redução do imposto de capitais relativamente aos juros das operações referidas nos artigos 10.º e 11.º do presente diploma.
+Art. 14º O Governo poderá conceder a redução do imposto de capitais relativamente aos juros das operações referidas nos artigos 10.º e 11.º do presente diploma.
 
-###### Art. 15.º - 1. Os empréstimos serão garantidos por hipoteca, constituída a favor do Fundo, quer sobre os navios construídos ou em construção com o produto dos mesmos, quer sobre outros bens, relativamente aos quais não incida qualquer ónus real.
+Art. 15.º - 1. Os empréstimos serão garantidos por hipoteca, constituída a favor do Fundo, quer sobre os navios construídos ou em construção com o produto dos mesmos, quer sobre outros bens, relativamente aos quais não incida qualquer ónus real.
 
 2. A garantia hipotecária será dispensada quando seja prestada garantia adequada por estabelecimento bancário nacional; esta última garantia poderá ser também prestada para reforço das anteriores. O reforço da garantia poderá ser exigido pelo Fundo sempre que o julgar necessário.
 
 3. Não sendo possíveis as referidas garantias, poderão os empréstimos ser caucionados por outras garantias, mediante autorização dos Ministros das Finanças e da Marinha.
 
-###### Art. 16.º - 1. Os navios construídos ou em construção com o produto destes empréstimos só poderão ser alienados ou hipotecados mediante autorização expressa do Fundo.
+Art. 16.º - 1. Os navios construídos ou em construção com o produto destes empréstimos só poderão ser alienados ou hipotecados mediante autorização expressa do Fundo.
 
 2. Nenhum contrato de alienação ou hipoteca pode ser lavrado pelos notários sem que o alienante ou hipotecante declare na respectiva escritura se o navio objecto do contrato foi ou está a ser construído ou não com o produto de empréstimos do Fundo, e, no caso afirmativo, exiba a autorização do mesmo Fundo.
 
@@ -160,7 +216,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os notários que lavrarem algum contrato com infracção do disposto no n.º 2 incorrerão em responsabilidade disciplinar.
 
-###### Art. 17.º - 1. Os bens dados em garantia ao Fundo serão seguros contra todos os riscos usuais.
+Art. 17.º - 1. Os bens dados em garantia ao Fundo serão seguros contra todos os riscos usuais.
 
 2. A quantia total da indemnização devida pela companhia seguradora, nomeadamente em caso de perda ou inavegabilidade de navios para cuja construção foi concedido financiamento, será depositada à ordem do Fundo.
 
@@ -168,22 +224,22 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Se o navio não for substituído, a importância total da indemnização e dos juros de depósito destinar-se-á à amortização da parte proporcional do empréstimo em dívida, garantido pelo navio, revertendo para o armador a parte restante.
 
-###### Art. 18.º As despesas feitas pelo Fundo com a emissão das obrigações e com a concessão de empréstimos, incluindo os trabalhos extraordinários que forem autorizados, serão incluídas no capítulo 2.º do orçamento de despesa da Junta Nacional da Marinha Mercante ou suportadas pelos beneficiários dos empréstimos.
+Art. 18.º As despesas feitas pelo Fundo com a emissão das obrigações e com a concessão de empréstimos, incluindo os trabalhos extraordinários que forem autorizados, serão incluídas no capítulo 2.º do orçamento de despesa da Junta Nacional da Marinha Mercante ou suportadas pelos beneficiários dos empréstimos.
 
-###### Art. 19.º Os empréstimos solicitados para a construção de novos navios só poderão ser concedidos até 75 por cento do valor total da nova unidade a construir, dando-se preferência à indústria nacional sempre que esta proporcione condições de preço, qualidade e prazo de execução semelhantes às praticadas por empresas estrangeiras.
+Art. 19.º Os empréstimos solicitados para a construção de novos navios só poderão ser concedidos até 75 por cento do valor total da nova unidade a construir, dando-se preferência à indústria nacional sempre que esta proporcione condições de preço, qualidade e prazo de execução semelhantes às praticadas por empresas estrangeiras.
 
-###### Art. 20.º - 1. Durante a vigência deste decreto-lei os delegados do Governo junto das empresas armadoras ficarão na dependência dos Ministros das Finanças e da Marinha em tudo quanto se refira à administração do Fundo.
+Art. 20.º - 1. Durante a vigência deste decreto-lei os delegados do Governo junto das empresas armadoras ficarão na dependência dos Ministros das Finanças e da Marinha em tudo quanto se refira à administração do Fundo.
 
 2. É obrigatória a existência de delegado do Governo nas empresas que recorram aos empréstimos do Fundo.
 
 3. A comissão administrativa do Fundo poderá solicitar aos delegados do Governo, sempre que o julgar conveniente, informações ou esclarecimentos sobre a situação das respectivas empresas.
 
-###### Art. 21.º - 1. Poderão os Ministros das Finanças e da Marinha, sob proposta da comissão administrativa, nomear um administrador para qualquer empresa beneficiária dos financiamentos do Fundo, quando se verifique que estes excedem 50 por cento do capital realizado, o qual ficará com as atribuições, direitos e deveres consignados no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956.
+Art. 21.º - 1. Poderão os Ministros das Finanças e da Marinha, sob proposta da comissão administrativa, nomear um administrador para qualquer empresa beneficiária dos financiamentos do Fundo, quando se verifique que estes excedem 50 por cento do capital realizado, o qual ficará com as atribuições, direitos e deveres consignados no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956.
 
 2. Os administradores assim nomeados entrarão imediatamente em exercício.
 
-###### Art. 21.º Ficam os Ministros das Finanças e da Marinha autorizados a tomar as providências necessárias à execução deste diploma.
+Art. 21.º Ficam os Ministros das Finanças e da Marinha autorizados a tomar as providências necessárias à execução deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

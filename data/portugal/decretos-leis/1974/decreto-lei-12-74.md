@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/01400/00530060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0faff4b20ae38dcbbe02d8aca2c34beda742aa25a63c4e04e6673a57650b523
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c85694d93c51df673896b4e421fd77bcc6cc8011e13f1d86a5194200bfec12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Empresas
+- Empresa de Electricidade da Madeira
+- Empresa Pública
+- Madeira.ilha Adjacente
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: TRANSFERIDOS PARA O MINISTÉRIO DA INDÚSTRIA E TECNOLOGIA OS PODERES TUTELARES DO ESTADO RELATIVOS A EMPRESA DE ELECTRICIDADE
+    DA MADEIRA, E.P., PELO DECRETO LEI 58/78, DE 1 DE ABRIL, PUBLICADO NO DR.IS, 76.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-04-01'
+- type: amended_by
+  target: pt:dre:446953:por
+  label: Transferidos para o Ministério da Indústria e Tecnologia os poderes conferidos ao Ministério das Obras Públicas relativos
+    à Empresa de Electricidade da Madeira (EEM) pelo(a) Decreto-Lei n.º 58/78 - Diário da República n.º 76/1978, Série I de
+    1978-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1978-446953
+  date: '1978-04-01'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685057:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, COM EXCEPÇÃO DO ARTIGO 1, PELO DECRETO LEI 30/79, DE 24 DE FEVEREIRO, PUBLICADO NO DR.IS, 47.\0REIRO,\
+    \ PUBLICADO NO DR.IS, 47."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:22Z'
   warnings: []
   errors: []
 ---
@@ -142,17 +235,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A actual Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira, abreviadamente C. A. A. H. M., serviço autónomo e eventual do Ministério das Obras Públicas, passa a constituir uma empresa pública do Estado, denominada «Empresa de Electricidade da Madeira» (E. E. M.).
+Artigo 1.º A actual Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira, abreviadamente C. A. A. H. M., serviço autónomo e eventual do Ministério das Obras Públicas, passa a constituir uma empresa pública do Estado, denominada «Empresa de Electricidade da Madeira» (E. E. M.).
 
-###### Art. 2.º - 1. A E. E. M. é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
+Art. 2.º - 1. A E. E. M. é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
 
 2. A E. E. M. tem sede no Funchal e exerce as suas funções em todo o território do arquipélago da Madeira.
 
-###### Art. 3.º - 1. A E. E. M. rege-se pelo disposto no presente diploma e mais legislação aplicável, bem como nos regulamentos que venham a ser emanados em sua execução.
+Art. 3.º - 1. A E. E. M. rege-se pelo disposto no presente diploma e mais legislação aplicável, bem como nos regulamentos que venham a ser emanados em sua execução.
 
 2. Nos casos omissos serão observadas, com as necessárias adaptações, as normas que regulam a actividade das empresas comerciais e a competência dos respectivos órgãos.
 
-###### Art. 4.º - 1. O objecto da empresa é a prossecução, em regime de exploração industrial, das seguintes actividades:
+Art. 4.º - 1. O objecto da empresa é a prossecução, em regime de exploração industrial, das seguintes actividades:
 
 a) Promoção dos planos de novos aproveitamentos hidroagrícolas e hidroeléctricos no arquipélago da Madeira e execução ou superintendência das respectivas obras;
 
@@ -170,7 +263,7 @@ c) Exploração do serviço público de produção, transporte e distribuição 
 
 #### SECÇÃO I — Enumeração
 
-###### Art. 5.º São órgãos da E. E. M.:
+Art. 5.º São órgãos da E. E. M.:
 
 a) O conselho geral;
 
@@ -196,7 +289,7 @@ e) Um representante de cada um dos Ministérios das Obras Públicas e da Economi
 
 4. Os membros do conselho geral têm direito a uma senha de presença por cada reunião em que participarem.
 
-###### Art. 7.º - 1. O conselho geral reúne ordinariamente em Maio e em Novembro de cada ano e extraordinariamente quando o seu presidente o convocar ou a pedido do conselho de administração.
+Art. 7.º - 1. O conselho geral reúne ordinariamente em Maio e em Novembro de cada ano e extraordinariamente quando o seu presidente o convocar ou a pedido do conselho de administração.
 
 2. O conselho só pode deliberar validamente com a presença da maioria do número legal dos seus membros.
 
@@ -204,7 +297,7 @@ e) Um representante de cada um dos Ministérios das Obras Públicas e da Economi
 
 4. De tudo o que ocorrer nas reuniões será lavrada acta, a qual será assinada pelos membros presentes.
 
-###### Art. 8.º Compete ao conselho geral:
+Art. 8.º Compete ao conselho geral:
 
 a) Eleger trienalmente dois dos vogais do conselho de administração;
 
@@ -222,19 +315,19 @@ g) Sugerir ao conselho de administração ou ao Governo as providências necess�
 
 #### SECÇÃO III — Conselho de administração
 
-###### Art. 9.º - 1. A E. E. M. é gerida por um conselho de administração composto por um presidente e quatro vogais, isentos de caução.
+Art. 9.º - 1. A E. E. M. é gerida por um conselho de administração composto por um presidente e quatro vogais, isentos de caução.
 
 2. O presidente e um vogal são nomeados livremente pelo Ministro das Obras Públicas; dos restantes vogais, um será designado pela Junta Geral do Distrito e dois eleitos pelo conselho geral da empresa.
 
 3. O mandato dos membros do conselho de administração é de três anos e renovável por períodos de igual duração, podendo no entanto cessar a todo o tempo, mediante decisão ou deliberação das entidades que os designam.
 
-###### Art. 10.º O lugar de membro do conselho de administração da E. E. M. é incompatível com o desempenho de quaisquer cargos ou funções noutras empresas afins.
+Art. 10.º O lugar de membro do conselho de administração da E. E. M. é incompatível com o desempenho de quaisquer cargos ou funções noutras empresas afins.
 
-###### Art. 11.º - 1. Os membros do conselho de administração têm direito a uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças, acumulável com quaisquer outras remunerações, mesmo que ultrapassem o limite legal.
+Art. 11.º - 1. Os membros do conselho de administração têm direito a uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças, acumulável com quaisquer outras remunerações, mesmo que ultrapassem o limite legal.
 
 2. O presidente e os vogais do conselho de administração, quando tenham de se deslocar no exercício das suas funções, terão direito ao abono de transportes e ajudas de custo, em montante a fixar pelo Ministro das Obras Públicas.
 
-###### Art. 12.º - 1. O conselho de administração terá, pelo menos, uma reunião ordinária quinzenal e as extraordinárias que o seu presidente entenda dever convocar.
+Art. 12.º - 1. O conselho de administração terá, pelo menos, uma reunião ordinária quinzenal e as extraordinárias que o seu presidente entenda dever convocar.
 
 2. O conselho só pode deliberar validamente com a presença de, pelo menos, três membros em exercício.
 
@@ -242,7 +335,7 @@ g) Sugerir ao conselho de administração ou ao Governo as providências necess�
 
 4. De tudo o que ocorrer nas reuniões será lavrada acta, a qual terá de ser assinada por todos os membros presentes.
 
-###### Art. 13.º Compete ao conselho de administração praticar todos os actos necessários à direcção e gestão da empresa e, nomeadamente:
+Art. 13.º Compete ao conselho de administração praticar todos os actos necessários à direcção e gestão da empresa e, nomeadamente:
 
 a) Estabelecer a organização interna da empresa e elaborar os respectivos regulamentos;
 
@@ -274,7 +367,7 @@ n) Constituir e gerir o fundo de reserva;
 
 o) Emitir obrigações, contrair empréstimos e obter outros financiamentos que se tornem necessários junto de instituições nacionais de crédito.
 
-###### Art. 14.º - 1. Compete ao presidente:
+Art. 14.º - 1. Compete ao presidente:
 
 a) Convocar e presidir as reuniões do conselho de administração;
 
@@ -290,7 +383,7 @@ f) Desempenhar quaisquer outras funções que lhe sejam cometidas por lei ou reg
 
 2. Nas suas faltas e impedimentos será o presidente substituído por um dos administradores, designado pelo Ministro das Obras Públicas.
 
-###### Art. 15.º - 1. A orientação técnica e a direcção administrativa da empresa serão confiadas pelo conselho de administração, em tudo quanto não seja da sua exclusiva competência, a um director-delegado, nomeado pelo Ministro das Obras Públicas, sob proposta do conselho de administração, e que poderá ser exonerado, nos mesmos termos, a todo o tempo.
+Art. 15.º - 1. A orientação técnica e a direcção administrativa da empresa serão confiadas pelo conselho de administração, em tudo quanto não seja da sua exclusiva competência, a um director-delegado, nomeado pelo Ministro das Obras Públicas, sob proposta do conselho de administração, e que poderá ser exonerado, nos mesmos termos, a todo o tempo.
 
 2. O director-delegado assistirá a todas as reuniões do conselho de administração na parte que for útil para efeitos de informação e consulta.
 
@@ -300,21 +393,21 @@ f) Desempenhar quaisquer outras funções que lhe sejam cometidas por lei ou reg
 
 #### SECÇÃO IV — Fiscalização
 
-###### Art. 16.º - 1. Sem prejuízo da autonomia administrativa e financeira da E. E. M., compete ao Ministro das Obras Públicas vigiar o cumprimento das leis e regulamentos aplicáveis e verificar se a empresa satisfaz os seus objectivos, devendo ser-lhe fornecidas todas as informações que, em matéria de serviço, o Ministro requerer.
+Art. 16.º - 1. Sem prejuízo da autonomia administrativa e financeira da E. E. M., compete ao Ministro das Obras Públicas vigiar o cumprimento das leis e regulamentos aplicáveis e verificar se a empresa satisfaz os seus objectivos, devendo ser-lhe fornecidas todas as informações que, em matéria de serviço, o Ministro requerer.
 
 2. Como fiscal supremo da gestão da empresa, cabe ao Ministro das Obras Públicas, através da Direcção-Geral dos Serviços Hidráulicos, inspeccionar em qualquer momento a contabilidade e o movimento de fundos da E. E. M., bem como examinar os valores existentes em cofre, tornando responsável o conselho de administração e o director-delegado pelos abusos ou faltas que tenham cometido.
 
-###### Art. 17.º - 1. A gestão da E. E. M. e os trabalhos por si executados ou mandados executar serão fiscalizados por um engenheiro dos quadros do Ministério das Obras Públicas, de categoria não inferior a inspector superior, designado para o efeito pelo respectivo Ministro, e ao qual compete informar o Governo sobre o que tiver por conveniente e opor o seu voto suspensivo a qualquer resolução que julgar inconveniente, de tudo dando conta ao Governo nos seus relatórios.
+Art. 17.º - 1. A gestão da E. E. M. e os trabalhos por si executados ou mandados executar serão fiscalizados por um engenheiro dos quadros do Ministério das Obras Públicas, de categoria não inferior a inspector superior, designado para o efeito pelo respectivo Ministro, e ao qual compete informar o Governo sobre o que tiver por conveniente e opor o seu voto suspensivo a qualquer resolução que julgar inconveniente, de tudo dando conta ao Governo nos seus relatórios.
 
 2. O funcionário referido no n.º 1 deste artigo tem direito a receber a gratificação, acumulável com o seu vencimento, que for fixada por despacho do Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 18.º - 1. Todo o pessoal da E. E. M. será contratado dentro das respectivas disponibilidades orçamentais.
+Art. 18.º - 1. Todo o pessoal da E. E. M. será contratado dentro das respectivas disponibilidades orçamentais.
 
 2. A integração do pessoal que actualmente presta serviço na C. A. A. H. M. nas novas categorias e lugares da E. E. M. far-se-á nos termos dos artigos 34.º e seguintes.
 
-###### Art. 19.º - 1. O pessoal da E. E. M. fica sujeito ao regime do contrato individual de trabalho, aprovado pelo [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, com as modificações introduzidas pelo presente diploma ou por decreto conjunto dos Ministros das Obras Públicas e das Corporações e Segurança Social.
+Art. 19.º - 1. O pessoal da E. E. M. fica sujeito ao regime do contrato individual de trabalho, aprovado pelo [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, com as modificações introduzidas pelo presente diploma ou por decreto conjunto dos Ministros das Obras Públicas e das Corporações e Segurança Social.
 
 2. O regime de duração do trabalho prestado à E. E. M. é o definido pelo [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, com as alterações constantes do [Decreto n.º 489/72](https://diariodarepublica.pt/dr/detalhe/decreto/489-1972-685057), de 5 de Dezembro.
 
@@ -322,37 +415,37 @@ f) Desempenhar quaisquer outras funções que lhe sejam cometidas por lei ou reg
 
 4. As questões de natureza contenciosa suscitadas entre a E. E. M. e os seus servidores em matéria de contrato de trabalho ficam sujeitas à jurisdição dos tribunais de trabalho.
 
-###### Art. 20.º - 1. As categorias e os vencimentos do pessoal da E. E. M. serão fixados pelo conselho de administração, carecendo as respectivas deliberações de aprovação do Ministro das Obras Públicas.
+Art. 20.º - 1. As categorias e os vencimentos do pessoal da E. E. M. serão fixados pelo conselho de administração, carecendo as respectivas deliberações de aprovação do Ministro das Obras Públicas.
 
 2. A organização dos quadros permanentes do pessoal da E. E. M., bem como as condições de acesso e promoção nos mesmos quadros, serão fixadas em regulamento elaborado pelo conselho de administração e aprovado pelo Ministro das Obras Públicas.
 
-###### Art. 21.º - 1. Mediante prévia deliberação do conselho de administração, poderá ser contratado o pessoal eventual que for necessário para ocorrer a tarefas ocasionais.
+Art. 21.º - 1. Mediante prévia deliberação do conselho de administração, poderá ser contratado o pessoal eventual que for necessário para ocorrer a tarefas ocasionais.
 
 2. Pode também o conselho de administração autorizar, sem dependência de quaisquer formalidades, o ajuste da prestação de serviços profissionais ou técnicos que forem julgados necessários, por certo tempo ou para tarefas determinadas, nas condições fixadas pelo conselho para cada caso.
 
-###### Art. 22.º - 1. Ao pessoal que se desloque em serviço dos seus locais normais de trabalho serão pagas despesas de transporte e atribuídas ajudas de custo, segundo regulamento elaborado pelo conselho de administração e aprovado pelo Ministro das Obras Públicas.
+Art. 22.º - 1. Ao pessoal que se desloque em serviço dos seus locais normais de trabalho serão pagas despesas de transporte e atribuídas ajudas de custo, segundo regulamento elaborado pelo conselho de administração e aprovado pelo Ministro das Obras Públicas.
 
 2. Ao pessoal contratado ou a contratar pela E. E. M. que não resida no distrito do Funchal serão pagas as despesas do transporte e, a partir do dia do embarque, os respectivos vencimentos, desde que à chegada à sede da empresa tenha entrado imediatamente ao seu serviço.
 
-###### Art. 23.º - 1. A E. E. M. organizará cursos de formação e aperfeiçoamento profissional dos seus servidores, a cargo de servidores da empresa ou de pessoal contratado para o efeito, e pode promover a frequência de cursos e estágios externos.
+Art. 23.º - 1. A E. E. M. organizará cursos de formação e aperfeiçoamento profissional dos seus servidores, a cargo de servidores da empresa ou de pessoal contratado para o efeito, e pode promover a frequência de cursos e estágios externos.
 
 2. O bom aproveitamento nos cursos e estágios referidos no número anterior será sempre considerado na promoção dos servidores da empresa.
 
 3. A fim de estimular os melhores servidores da empresa, pode o conselho de administração atribuir prémios de assiduidade, de produtividade e por sugestões, nos termos que por ele forem definidos em regulamento.
 
-###### Art. 24.º - 1. O pessoal da E. E. M. inscrever-se-á nas instituições de previdência que lhe corresponderem em função das profissões desempenhadas, salvo o disposto no artigo 35.º, n.º 3.
+Art. 24.º - 1. O pessoal da E. E. M. inscrever-se-á nas instituições de previdência que lhe corresponderem em função das profissões desempenhadas, salvo o disposto no artigo 35.º, n.º 3.
 
 2. As remunerações que vierem a ser atribuídas às várias categorias de pessoal a partir da entrada em vigor do presente diploma servirão de base para o cálculo das respectivas pensões de aposentação requeridas ou impostas depois daquela data.
 
 3. Ao pessoal da E. E. M. será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado, nomeadamente à C. A. A. H. M., aos serviços autónomos ou aos corpos administrativos, independentemente de inscrição na Caixa Geral de Aposentações.
 
-###### Art. 25.º O pessoal da E. E. M. poderá inscrever-se na Obra Social dos Ministérios das Obras Públicas e das Comunicações e beneficiará de todas as regalias e vantagens por ela proporcionadas aos servidores do Estado.
+Art. 25.º O pessoal da E. E. M. poderá inscrever-se na Obra Social dos Ministérios das Obras Públicas e das Comunicações e beneficiará de todas as regalias e vantagens por ela proporcionadas aos servidores do Estado.
 
 ### CAPÍTULO IV — Gestão económica e financeira
 
-###### Art. 26.º A E. E. M. possui património próprio, para o qual transitam, sem dependência de quaisquer formalidades, todos os bens e direitos, assim como todas as obrigações e encargos da C. A. A. H. M. ou a ela afectados ou vinculados.
+Art. 26.º A E. E. M. possui património próprio, para o qual transitam, sem dependência de quaisquer formalidades, todos os bens e direitos, assim como todas as obrigações e encargos da C. A. A. H. M. ou a ela afectados ou vinculados.
 
-###### Art. 27.º - 1. Constituem receitas da E. E. M.:
+Art. 27.º - 1. Constituem receitas da E. E. M.:
 
 a) O produto da venda da energia eléctrica produzida e da venda de água para o abastecimento público;
 
@@ -374,7 +467,7 @@ h) Os rendimentos dos bens que possua.
 
 3. A emissão de obrigações e a contracção de empréstimos a longo prazo dependem de autorização conjunta dos Ministros das Finanças e das Obras Públicas, dada em portaria, na qual se fixará o plano e demais condições da respectiva aplicação.
 
-###### Art. 28.º - 1. O conselho de administração constituirá um fundo de reserva destinado à amortização e reapetrechamento do material.
+Art. 28.º - 1. O conselho de administração constituirá um fundo de reserva destinado à amortização e reapetrechamento do material.
 
 2. O fundo de reserva será constituído:
 
@@ -390,7 +483,7 @@ d) Pelo produto da venda de bens móveis ou imóveis.
 
 4. A parte do fundo de reserva representada por dinheiro poderá ser utilizada no maneio dos serviços de tesouraria.
 
-###### Art. 29.º - 1. As receitas e despesas da E. E. M. serão inscritas em orçamento privativo, sujeito à aprovação do Ministro das Obras Públicas.
+Art. 29.º - 1. As receitas e despesas da E. E. M. serão inscritas em orçamento privativo, sujeito à aprovação do Ministro das Obras Públicas.
 
 2. Ao conselho de administração compete organizar, até 30 de Outubro de cada ano, o orçamento das receitas e despesas para o ano seguinte, de acordo com o respectivo plano de actividades.
 
@@ -398,11 +491,11 @@ d) Pelo produto da venda de bens móveis ou imóveis.
 
 4. O director-delegado tem competência para autorizar a realização de despesas previamente orçamentadas até à importância de 100000$00.
 
-###### Art. 30.º - 1. O conselho de administração submeterá ao Ministro das Obras Públicas os elementos orçamentais e contabilísticos necessários ao julgamento das verbas orçamentadas e despendidas.
+Art. 30.º - 1. O conselho de administração submeterá ao Ministro das Obras Públicas os elementos orçamentais e contabilísticos necessários ao julgamento das verbas orçamentadas e despendidas.
 
 2. Compete igualmente ao conselho de administração organizar as contas relativas ao ano económico anterior e submetê-las ao Tribunal de Contas até 31 de Maio de cada ano.
 
-###### Art. 31.º - 1. As contas da E. E. M. deverão exprimir, clara e concisamente, os resultados da gerência e constarão pelo menos dos seguintes documentos:
+Art. 31.º - 1. As contas da E. E. M. deverão exprimir, clara e concisamente, os resultados da gerência e constarão pelo menos dos seguintes documentos:
 
 a) Confronto entre as despesas orçamentadas e pagas, bem como entre as receitas orçamentadas e liquidadas;
 
@@ -416,7 +509,7 @@ e) Balanço, referido a 31 de Dezembro do ano anterior, acompanhado dos balanço
 
 f) Conta «Ganhos e perdas».
 
-###### Art. 32.º - 1. Quando a conta «Ganhos e perdas» de um exercício encerrar com lucros, o conselho de administração atribuirá 5% ao fundo de reserva e 10% ao Estado, 10% ao distrito autónomo do Funchal, dispondo do remanescente na forma dos números seguintes.
+Art. 32.º - 1. Quando a conta «Ganhos e perdas» de um exercício encerrar com lucros, o conselho de administração atribuirá 5% ao fundo de reserva e 10% ao Estado, 10% ao distrito autónomo do Funchal, dispondo do remanescente na forma dos números seguintes.
 
 2. Se a diminuta importância do lucro ou as previsões do próximo exercício o aconselharem, será o remanescente levado a conta nova.
 
@@ -430,33 +523,33 @@ c) O restante reverterá para os municípios do distrito, sendo 50% para o conce
 
 4. No caso de a conta «Ganhos e perdas» saldar com prejuízo que o fundo de reserva não possa suportar, será o mesmo levado à conta do exercício seguinte, devendo o conselho de administração informar do facto o Ministro das Obras Públicas, para efeitos do disposto no artigo 27.º, n.º 1, alínea g).
 
-###### Art. 33.º O relatório e contas do conselho de administração serão publicados no Diário do Governo e num jornal diário do Funchal ou em folheto gratuito com a tiragem mínima de quinhentos exemplares.
+Art. 33.º O relatório e contas do conselho de administração serão publicados no Diário do Governo e num jornal diário do Funchal ou em folheto gratuito com a tiragem mínima de quinhentos exemplares.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 34.º - 1. A integração do pessoal que tenha prestado serviço na C. A. A. H. M. nas novas categorias adoptadas nos termos do artigo 20.º será feita por deliberação do conselho de administração, independentemente de quaisquer formalidades.
+Art. 34.º - 1. A integração do pessoal que tenha prestado serviço na C. A. A. H. M. nas novas categorias adoptadas nos termos do artigo 20.º será feita por deliberação do conselho de administração, independentemente de quaisquer formalidades.
 
 2. Ao pessoal que mudar de categoria, em consequência do disposto no número anterior, será contado, para efeitos de antiguidade e promoção, o tempo de serviço prestado nas anteriores categorias, quando sejam equivalentes ou como tal declaradas pelo conselho de administração.
 
-###### Art. 35.º - 1. Os servidores com nomeação definitiva dos quadros permanentes do Estado que à data da entrada em vigor do presente diploma prestem serviço na C. A. A. H. M. conservarão, para além das regalias concedidas pelo contrato individual de trabalho, todas as regalias, direitos e deveres inerentes à condição de funcionários do Estado, nomeadamente a do provimento vitalício, ainda que lhes venham a ser atribuídas categorias diferentes daquelas a que até agora pertenciam.
+Art. 35.º - 1. Os servidores com nomeação definitiva dos quadros permanentes do Estado que à data da entrada em vigor do presente diploma prestem serviço na C. A. A. H. M. conservarão, para além das regalias concedidas pelo contrato individual de trabalho, todas as regalias, direitos e deveres inerentes à condição de funcionários do Estado, nomeadamente a do provimento vitalício, ainda que lhes venham a ser atribuídas categorias diferentes daquelas a que até agora pertenciam.
 
 2. Em matéria de impostos sobre os rendimentos de trabalho, o pessoal da E. E. M. referido no número anterior fica, até 31 de Dezembro de 1975, em situação idêntica à do funcionalismo público, passando a estar sujeito, nos dois anos seguintes, a 50% da tributação legal, após o que lhe será aplicada integralmente esta tributação.
 
 3. Ao pessoal referido nos números anteriores é autorizada a conservação da inscrição na Caixa Geral de Aposentações, se assim o desejar.
 
-###### Art. 36.º - 1. Todos os servidores eventuais ao serviço da C. A. A. H. M. que tenham completado, à data da entrada em vigor do presente diploma, três anos de serviço ininterrupto, bem como aqueles que, continuando como eventuais ao serviço da E. E. M. após aquela data, venham a completar um período global de três anos de serviço ininterrupto, poderão ser admitidos no quadro permanente da E. E. M.
+Art. 36.º - 1. Todos os servidores eventuais ao serviço da C. A. A. H. M. que tenham completado, à data da entrada em vigor do presente diploma, três anos de serviço ininterrupto, bem como aqueles que, continuando como eventuais ao serviço da E. E. M. após aquela data, venham a completar um período global de três anos de serviço ininterrupto, poderão ser admitidos no quadro permanente da E. E. M.
 
 2. Para os efeitos do número anterior não se contam as interrupções inferiores a noventa dias por ano.
 
-###### Art. 37.º - 1. É autorizada a celebração de um acordo entre a Câmara Municipal do Funchal e a E. E. M. no qual se estipule que os bens pertencentes ao Município do Funchal que à data da entrada em vigor do presente diploma se encontrassem na posse da C. A. A. H. M., afectados à prossecução dos fins desta, se considerarão integrados, em propriedade plena, no património da E. E. M., logo que esteja por esta amortizado o empréstimo concedido à Câmara Municipal do Funchal pelo [Decreto-Lei n.º 37716](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37716-1949-268268), de 31 de Dezembro de 1949.
+Art. 37.º - 1. É autorizada a celebração de um acordo entre a Câmara Municipal do Funchal e a E. E. M. no qual se estipule que os bens pertencentes ao Município do Funchal que à data da entrada em vigor do presente diploma se encontrassem na posse da C. A. A. H. M., afectados à prossecução dos fins desta, se considerarão integrados, em propriedade plena, no património da E. E. M., logo que esteja por esta amortizado o empréstimo concedido à Câmara Municipal do Funchal pelo [Decreto-Lei n.º 37716](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37716-1949-268268), de 31 de Dezembro de 1949.
 
 2. O acordo previsto no número anterior carece da aprovação do Ministro das Obras Públicas.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 38.º O director dos serviços jurídicos da E. E. M. será obrigatoriamente provido de entre licenciados em Direito e servirá de oficial público para os efeitos do disposto no artigo 14.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957.
+Art. 38.º O director dos serviços jurídicos da E. E. M. será obrigatoriamente provido de entre licenciados em Direito e servirá de oficial público para os efeitos do disposto no artigo 14.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957.
 
-###### Art. 39.º - 1. São expressamente revogados:
+Art. 39.º - 1. São expressamente revogados:
 
 a) O [Decreto-Lei n.º 34414](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34414-1945-624640), de 20 de Fevereiro de 1945, e o [Decreto-Lei n.º 42131](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42131-1959-591350), de 31 de Janeiro de 1959;
 
@@ -470,18 +563,18 @@ e) Os artigos 14.º, 15.º, 16.º, 19.º, 26.º e 27.º do [Decreto-Lei n.º 387
 
 2. Consideram-se feitas à E. E. M. as referências à C. A. A. H. M. contidas na legislação em vigor.
 
-###### Art. 40.º - 1. O presente diploma entra em vigor no dia 1 de Março de 1974.
+Art. 40.º - 1. O presente diploma entra em vigor no dia 1 de Março de 1974.
 
 2. Fica o Ministro das Obras Públicas autorizado a tomar todas as providências que se mostrem necessárias para assegurar a execução do presente diploma e, nomeadamente, para organizar e pôr em prática o processo de transformação da C. A. A. H. M. em empresa pública.
 
-###### Art. 41.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas.
+Art. 41.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - César Henrique Moreira Baptista - Manuel Artur Cotta Agostinho Dias. - Rui Alves da Silva Sanches.
 
-**Promulgado em 9 de Janeiro de 1974.**
+Promulgado em 9 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

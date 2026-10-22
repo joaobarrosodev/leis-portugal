@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12000/11341135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1980-474511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0d6d367298ba35324bc0c7e41082ae5bb28f07f8f4b36f6377241647d7c4671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29fa3c1f13fdafd47e1d8282db9cc2fb112ec56f1af753a85f13d0a4c0f71d46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Habilitações Literárias
+- Militar
+- Promoção Profissional
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:51Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +107,9 @@ Considerando a necessidade de tornar o artigo 76.º concordante com o regime leg
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 76.º do Decreto-Lei n.º 678/76, de 1 de Setembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 76.º do Decreto-Lei n.º 678/76, de 1 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 76.º - 1 - O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de alferes quando tenham sido graduados em aspirantes a oficial no início do tirocínio.
+Art. 76.º - 1 - O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de alferes quando tenham sido graduados em aspirantes a oficial no início do tirocínio.
 
 2 - O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de tenente quando tenham sido graduados em alferes alunos no início do 6.º ano do respectivo curso.
 
@@ -109,8 +119,8 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 Visto e aprovado em Conselho da Revolução em 6 de Maio de 1980.
 
-**Promulgado em 13 de Maio de 1980.**
+Promulgado em 13 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

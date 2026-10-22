@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1975-310594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee522def1607e319362f304954783966338ff85c60acb76f1139c0ad7add2c7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4155460425364ed3a896d1e8470905a80e770dc6dc65455dbbaf9d907d40c890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Comissão Coordenadora
+- Comissão Instaladora
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Hospital Concelhio
+- Integração de Serviços
+- Integração de Trabalhadores
+- Pessoa Coletiva de Utilidade Pública
+- Receita Própria
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1017369019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:486300:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157007:por
+  label: "Revogado o artigo 2.º, no respeitante às Misericórdias, pelo DEC LEI.519-G2/79.29.12.1979.MAS, DR.IS [299]10ºSupl\
+    \ de 29.12.1979\079\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-g2-1979-157007
+  date: '1979-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:21Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +123,22 @@ Na sequência das medidas já adoptadas quanto aos hospitais centrais e distrita
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São aplicáveis aos hospitais concelhios pertencentes a pessoas colectivas de utilidade pública administrativa as disposições constantes dos artigos 1.º a 7.º do [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), de 7 de Dezembro.
+Artigo 1.º - 1. São aplicáveis aos hospitais concelhios pertencentes a pessoas colectivas de utilidade pública administrativa as disposições constantes dos artigos 1.º a 7.º do [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), de 7 de Dezembro.
 
 2. Entende-se que a referência feita no n.º 2 do artigo 7.º do referido diploma à Direcção-Geral dos Hospitais se aplica, no presente diploma, à Direcção-Geral de Saúde.
 
-###### Art. 2.º - 1. Quando, em consequência do disposto no artigo anterior, se verifique que as pessoas colectivas de utilidade pública administrativa deixam de manter qualquer estabelecimento ou actividade integrada na política social aprovada pelo Governo, será determinada, por despacho do Secretário de Estado da Segurança Social, a respectiva extinção de direito, nos termos previstos no artigo 431.º, n.º 3, do Código Administrativo.
+Art. 2.º - 1. Quando, em consequência do disposto no artigo anterior, se verifique que as pessoas colectivas de utilidade pública administrativa deixam de manter qualquer estabelecimento ou actividade integrada na política social aprovada pelo Governo, será determinada, por despacho do Secretário de Estado da Segurança Social, a respectiva extinção de direito, nos termos previstos no artigo 431.º, n.º 3, do Código Administrativo.
 
 2. Todo o património das pessoas colectivas de utilidade pública administrativa extintas nas condições referidas no número anterior reverterá em propriedade para o Estado, continuando afecto ao hospital concelhio.
 
-###### Art. 3.º Sempre que as pessoas colectivas de utilidade pública administrativa continuarem a manter estabelecimentos que utilizem serviços comuns com o hospital, e sem prejuízo da respectiva integração neste, deverá ser assegurado, por acordo, o fornecimento dos serviços necessários ao bom funcionamento daqueles estabelecimentos.
+Art. 3.º Sempre que as pessoas colectivas de utilidade pública administrativa continuarem a manter estabelecimentos que utilizem serviços comuns com o hospital, e sem prejuízo da respectiva integração neste, deverá ser assegurado, por acordo, o fornecimento dos serviços necessários ao bom funcionamento daqueles estabelecimentos.
 
-###### Art. 4.º O regime instituído neste diploma é aplicável a cada hospital a partir da data de posse da respectiva comissão instaladora.
+Art. 4.º O regime instituído neste diploma é aplicável a cada hospital a partir da data de posse da respectiva comissão instaladora.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Joaquim Pinto da Rocha e Cunha - Mário Luís da Silva Murteira - José Joaquim Fragoso - Francisco José Cruz Pereira de Moura.
 
-**Promulgado em 31 de Outubro de 1975.**
+Promulgado em 31 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

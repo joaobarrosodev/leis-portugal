@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/2-1986-192041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3deba47fc744202652a7159433bbbc784d3996048bc41c2ca4a95f478bdd4a6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 055ab847b14452db8f32648ecea2348c454dc5246706652c0ab670b4433d8a54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fardamento
+- Guarda Fiscal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:177446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:47Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +104,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1) da alínea c) do n.º 307 do Regulamento de Uniformes da Guarda Fiscal, aprovado pelo [Decreto do Governo n.º 21/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/21-1985-182669), de 10 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 1) da alínea c) do n.º 307 do Regulamento de Uniformes da Guarda Fiscal, aprovado pelo [Decreto do Governo n.º 21/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/21-1985-182669), de 10 de Julho, passa a ter a seguinte redacção:
 
 1) As divisas por postos são:
 
@@ -105,24 +116,24 @@ c) Cabo-chefe - 2 divisas, com o vértice para cima (mangas) ou para o lado da g
 
 d) Cabo - 2 divisas, com o vértice para cima (mangas) ou para o lado da gola (passadeiras e platinas).
 
-###### Art. 2.º No capítulo VI do Regulamento referido no artigo anterior é adicionada a secção V «Pessoal de luto» com a seguinte redacção:
+Art. 2.º No capítulo VI do Regulamento referido no artigo anterior é adicionada a secção V «Pessoal de luto» com a seguinte redacção:
 
 #### SECÇÃO V — Pessoal de luto
 
 608 - A todo o pessoal da Guarda Fiscal, quando de luto, é permitido o uso, no braço esquerdo e acima do cotovelo, de um braçal de pano preto, sem brilho, de 7 cm de largura.
 
-###### Art. 3.º Em anexo ao presente diploma publicam-se as figuras 3.7 e 3.8 para substituírem as figuras de iguais números que fazem parte do referido Regulamento de Uniformes da Guarda Fiscal.
+Art. 3.º Em anexo ao presente diploma publicam-se as figuras 3.7 e 3.8 para substituírem as figuras de iguais números que fazem parte do referido Regulamento de Uniformes da Guarda Fiscal.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Assinado em 13 de Dezembro de 1985.**
+Assinado em 13 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Dezembro de 1985.**
+Referendado em 19 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/01300/01500151.pdf))](https://files.diariodarepublica.pt/1s/1986/01/01300/01500151.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/01300/01500151.pdf)

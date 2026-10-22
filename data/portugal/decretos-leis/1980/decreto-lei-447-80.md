@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 153f8f62fd4407e64a0eb7b25bfb7485fbf0657b6ed5d31040b9166146feb5e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5e38e84a743e932d8c400693f68706f5877b9126c51cbada5245fdfe47bb9ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Dívidas
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:401324:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375806:por
+  label: "Alterados os arts. 2.º, 4.º e 9.º pelo DEC LEI.383/82.15.10.1982.MFP, DR.IS [214] de 15.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1982-375806
+  date: '1982-10-15'
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474512:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:53Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +123,15 @@ Por outro lado, constituirá um passo importante no domínio da segurança dos v
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O sistema bancário colaborará no exercício das funções de cobrança que por lei estão cometidas às tesourarias da Fazenda Pública, sem prejuízo das atribuições específicas destas e segundo as normas constantes dos artigos seguintes.
+Artigo 1.º - 1 - O sistema bancário colaborará no exercício das funções de cobrança que por lei estão cometidas às tesourarias da Fazenda Pública, sem prejuízo das atribuições específicas destas e segundo as normas constantes dos artigos seguintes.
 
 2 - Pela prestação do serviço de cobrança previsto nos números anteriores não será devida qualquer remuneração.
 
-###### Art. 2.º A intervenção do sistema bancário nos termos previstos neste diploma fica limitada à cobrança dos impostos retidos na fonte desde que satisfeitos nos prazos legais e, bem assim, à dos que forem debitados para cobrança virtual, neste caso desde que pagos dentro do prazo de cobrança à boca do cofre, devendo para o efeito os avisos de cobrança virtual indicar a natureza virtual da dívida.
+Art. 2.º A intervenção do sistema bancário nos termos previstos neste diploma fica limitada à cobrança dos impostos retidos na fonte desde que satisfeitos nos prazos legais e, bem assim, à dos que forem debitados para cobrança virtual, neste caso desde que pagos dentro do prazo de cobrança à boca do cofre, devendo para o efeito os avisos de cobrança virtual indicar a natureza virtual da dívida.
 
-###### Art. 3.º Para efeitos do disposto no presente diploma poderão os interessados fazer as respectivas entregas em qualquer instituição de crédito em que possuam conta.
+Art. 3.º Para efeitos do disposto no presente diploma poderão os interessados fazer as respectivas entregas em qualquer instituição de crédito em que possuam conta.
 
-###### Art. 4.º - 1 - Os pagamentos de dívidas ao Estado através do sistema bancário, nos termos deste diploma, efectivam-se mediante ordem de pagamento dada ao banco ou através de depósitos bancários realizados para o efeito, sendo, em qualquer dos casos, um por contribuinte.
+Art. 4.º - 1 - Os pagamentos de dívidas ao Estado através do sistema bancário, nos termos deste diploma, efectivam-se mediante ordem de pagamento dada ao banco ou através de depósitos bancários realizados para o efeito, sendo, em qualquer dos casos, um por contribuinte.
 
 2 - No caso de depósito bancário, o talão comprovativo deste não servirá de quitação, mas apenas de recibo provisório.
 
@@ -118,23 +139,23 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 4 - Os pagamentos a que se refere o n.º 1 serão acompanhados das guias referentes a impostos retidos na fonte, devidamente processadas, bem como dos avisos de pagamento, no caso de receita virtual.
 
-###### Art. 5.º - 1 - Se a instituição de crédito utilizada pelo contribuinte para os efeitos do artigo anterior for aquela em que a tesouraria da Fazenda Pública tiver aberto a conta a que se refere o artigo 2.º do [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, com a redacção do [Decreto-Lei n.º 158/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1980-474512), de 24 de Maio, as importâncias recebidas serão creditadas, no dia útil imediato, na respectiva conta da Direcção-Geral do Tesouro.
+Art. 5.º - 1 - Se a instituição de crédito utilizada pelo contribuinte para os efeitos do artigo anterior for aquela em que a tesouraria da Fazenda Pública tiver aberto a conta a que se refere o artigo 2.º do [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, com a redacção do [Decreto-Lei n.º 158/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1980-474512), de 24 de Maio, as importâncias recebidas serão creditadas, no dia útil imediato, na respectiva conta da Direcção-Geral do Tesouro.
 
 2 - No início do primeiro dia útil seguinte a instituição de crédito apresentará na tesouraria da Fazenda Pública documento comprovativo do crédito lançado na conta referida no número anterior, correspondente à totalidade dos depósitos efectuados ou das ordens de pagamento recebidas, acompanhado dos avisos, tratando-se de pagamentos de natureza virtual, ou dos documentos de impostos retidos na fonte, competindo à tesouraria da Fazenda Pública praticar as demais diligências necessárias à ultimação da cobrança.
 
 3 - O documento comprovativo do crédito a que se refere o número anterior servirá de instrumento de pagamento das receitas a que se refere o presente artigo.
 
-###### Art. 6.º - 1 - No caso de a instituição de crédito utilizada pelo contribuinte não ser a mencionada no artigo precedente, mas se situar na localidade da tesouraria, aquela emitirá, no início do primeiro dia útil seguinte ao da realização do depósito ou à recepção da ordem de pagamento, cheque cruzado a favor do respectivo tesoureiro-gerente da tesouraria da Fazenda Pública, territorialmente competente, o qual será apresentado na tesouraria acompanhado dos elementos a que se referem, respectivamente, os n.os 2 e 3 do artigo anterior.
+Art. 6.º - 1 - No caso de a instituição de crédito utilizada pelo contribuinte não ser a mencionada no artigo precedente, mas se situar na localidade da tesouraria, aquela emitirá, no início do primeiro dia útil seguinte ao da realização do depósito ou à recepção da ordem de pagamento, cheque cruzado a favor do respectivo tesoureiro-gerente da tesouraria da Fazenda Pública, territorialmente competente, o qual será apresentado na tesouraria acompanhado dos elementos a que se referem, respectivamente, os n.os 2 e 3 do artigo anterior.
 
 2 - Se a instituição de crédito utilizada pelo contribuinte se situar em concelho ou localidade diferente da tesouraria, o cheque e demais documentos serão expedidos pela via postal e sob registo, no prazo fixado no número anterior, competindo à tesouraria da Fazenda Pública praticar as demais diligências necessárias para concretizar a cobrança.
 
-###### Art. 7.º Os pagamentos de dívida ao Estado efectuados em instituições de crédito, nos termos do presente diploma e dentro dos prazos e demais condições fixados na lei, não serão sujeitos a quaisquer imposições legais, ainda que o cumprimento das formalidades previstas nos artigos 5.º e 6.º do presente diploma, por parte das instituições de crédito, tenha lugar fora dos prazos de cobrança previstos no seu artigo 2.º
+Art. 7.º Os pagamentos de dívida ao Estado efectuados em instituições de crédito, nos termos do presente diploma e dentro dos prazos e demais condições fixados na lei, não serão sujeitos a quaisquer imposições legais, ainda que o cumprimento das formalidades previstas nos artigos 5.º e 6.º do presente diploma, por parte das instituições de crédito, tenha lugar fora dos prazos de cobrança previstos no seu artigo 2.º
 
-###### Art. 8.º - 1 - As diligências a praticar pela tesouraria da Fazenda Pública com vista ao prévio registo na repartição de finanças respectiva das receitas eventuais a que se refere o presente diploma deverão ficar ultimadas até ao primeiro dia útil seguinte ao da sua recepção, devendo a repartição de finanças proceder ao necessário registo até ao segundo dia útil imediato.
+Art. 8.º - 1 - As diligências a praticar pela tesouraria da Fazenda Pública com vista ao prévio registo na repartição de finanças respectiva das receitas eventuais a que se refere o presente diploma deverão ficar ultimadas até ao primeiro dia útil seguinte ao da sua recepção, devendo a repartição de finanças proceder ao necessário registo até ao segundo dia útil imediato.
 
 2 - Tratando-se de receita virtual, a contabilização deverá ficar ultimada até ao segundo dia útil seguinte à sua recepção na tesouraria da Fazenda Pública.
 
-###### Art. 9.º - 1 - Sempre que os pagamentos de dívidas ao Estado sejam efectuados em instituições de crédito, nos termos do presente diploma, mas fora dos prazos previstos no seu artigo 2.º, ou se verifique deficiências em qualquer documento que impeça a concretização da correspondente cobrança, deverá o tesoureiro-gerente da tesouraria da Fazenda Pública territorialmente competente:
+Art. 9.º - 1 - Sempre que os pagamentos de dívidas ao Estado sejam efectuados em instituições de crédito, nos termos do presente diploma, mas fora dos prazos previstos no seu artigo 2.º, ou se verifique deficiências em qualquer documento que impeça a concretização da correspondente cobrança, deverá o tesoureiro-gerente da tesouraria da Fazenda Pública territorialmente competente:
 
 a) Proceder à devolução, por ofício registado, ao contribuinte dos documentos relativos às dívidas ao Estado cuja cobrança não se possa concretizar, que lhe tenham sido remetidos pela instituição de crédito em causa, à excepção do cheque cruzado referido no artigo 6.º, que o tesoureiro-gerente deverá obrigatoriamente depositar na conta da Direcção-Geral do Tesouro, com indicação dos motivos da devolução;
 
@@ -142,18 +163,18 @@ b) Dar conhecimento do facto, por ofício registado, à instituição de crédit
 
 2 - Na hipótese prevista no número anterior, e para efeitos de satisfação integral da dívida ao Estado, cuja cobrança não se possa concretizar, fica o contribuinte sujeito ao pagamento das imposições legais a que haja lugar por falta de cumprimento de dívidas ao Estado nos prazos previstos no artigo 2.º
 
-###### Art. 10.º - 1 - O Banco de Portugal, ouvidas as Direcções-Gerais do Tesouro e das Contribuições e Impostos, emitirá as instruções necessárias à boa execução do presente diploma por parte do sistema bancário.
+Art. 10.º - 1 - O Banco de Portugal, ouvidas as Direcções-Gerais do Tesouro e das Contribuições e Impostos, emitirá as instruções necessárias à boa execução do presente diploma por parte do sistema bancário.
 
 2 - A Direcção-Geral do Tesouro ou a Direcção-Geral das Contribuições e Impostos, ouvido o Banco de Portugal, emitirão as instruções necessárias à boa execução do presente diploma, por parte, respectivamente, das tesourarias da Fazenda Pública ou das repartições de finanças.
 
-###### Art. 11.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 11.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 12.º O presente diploma entra em vigor no prazo de trinta dias após a sua publicação.
+Art. 12.º O presente diploma entra em vigor no prazo de trinta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 23 de Setembro de 1980.**
+Promulgado em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8f216bc0c800abdeaec1c7b40b777263127c2108f3097f941f75ada60f36d43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e4736a92ccc3b58a1715eb4ce0620081b4e3d0ee53becf0b1e420fbe32b3ba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional do Ambiente
+- Orgânica
+- Quadro de Pessoal
+- Secretaria de Estado do Ambiente
+- Serviço de Estudos do Ambiente
+- Serviço Nacional de Parques Reservas e Património Paisagistico
 relationships:
 - type: amended_by
   target: pt:dre:606739:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280731:por
+  label: "Substituído o quadro de pessoal do Serviço Nacional de Parques, Reservas e Património Paisagístico, constante do\
+    \ mapa II anexo ao presente diploma, pelo DR.76/77.15.11.1977.PCM, DR.IS [264] de 15.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/76-1977-280731
+  date: '1977-11-15'
+- type: amended_by
+  target: pt:dre:404553:por
+  label: "Aumentado o quadro de pessoal da Comissão Nacional do Ambiente, aprovado pelo presente diploma, pelo DEC LEI.564/77.31.12.1977.PCM,\
+    \ DR.IS [302-6ºSupl] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1977-404553
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:446530:por
+  label: "Alterado o quadro de pessoal anexo e revogado o nº 7 do art. 32º pelo DEC LEI.36/78.18.02.1978.PCM, DR.IS [41] de\
+    \ 18.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1978-446530
+  date: '1978-02-18'
+- type: amended_by
+  target: pt:dre:390231:por
+  label: "Alterado o quadro de pessoal constante do mapa II anexo ao presente diploma pela PORT.72/81.17.01.1981.PCM, DR.IS\
+    \ [14] de 17.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1981-390231
+  date: '1981-01-17'
+- type: amended_by
+  target: pt:dre:606739:por
+  label: "Alterado o quadro de pessoal constante do mapa III pela PORT.427/82.1982.04.28.MQV DR.IS [98]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1982-606739
+  date: '1982-04-28'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465382:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:389051:por
+  label: "Revogado pelo DEC LEI.73/81.07.04.1981.MQV, DR.IS [81] de 07.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1981-389051
+  date: '1981-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:21Z'
   warnings: []
   errors: []
 ---
@@ -140,9 +188,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º Compete ao Ministro do Equipamento Social e do Ambiente, através do Secretário de Estado do Ambiente, promover, coordenar, apoiar e participar na execução da Política Nacional do Ambiente, definida pelo Governo, em estreita colaboração com os departamentos de Estado responsáveis.
+Artigo 1.º Compete ao Ministro do Equipamento Social e do Ambiente, através do Secretário de Estado do Ambiente, promover, coordenar, apoiar e participar na execução da Política Nacional do Ambiente, definida pelo Governo, em estreita colaboração com os departamentos de Estado responsáveis.
 
-###### Art. 2.º São objectivos a prosseguir pelo Secretário de Estado do Ambiente, através de uma estreita colaboração com os departamentos de Estado responsáveis, no âmbito da política do ambiente:
+Art. 2.º São objectivos a prosseguir pelo Secretário de Estado do Ambiente, através de uma estreita colaboração com os departamentos de Estado responsáveis, no âmbito da política do ambiente:
 
 a) A promoção da qualidade de vida das populações;
 
@@ -172,7 +220,7 @@ l) A colaboração com o Ministério dos Assuntos Sociais nos aspectos de saúde
 
 m) A colaboração com o Ministério da Educação e Investigação Científica, o Ministério da Defesa Nacional e outros departamentos de Estado responsáveis, na preparação e desenvolvimento de planos de estudo a todos os níveis, desde o ensino básico, e de cursos indispensáveis para a concretização de uma política do ambiente (Arquitectura Paisagista, Engenharia Biológica e Sanitária, Ecologia Aplicada, etc.).
 
-###### Art. 3.º - 1. Para a realização dos seus objectivos, o Secretário de Estado do Ambiente superintenderá nos organismos seguintes:
+Art. 3.º - 1. Para a realização dos seus objectivos, o Secretário de Estado do Ambiente superintenderá nos organismos seguintes:
 
 a) Comissão Nacional do Ambiente;
 
@@ -186,13 +234,13 @@ d) Comissões regionais do ambiente.
 
 3. As funções dos assessores técnicos regionais serão cumulativas com outros cargos oficiais e com o exercício da profissão liberal.
 
-###### Art. 4.º Ao Ministro do Equipamento Social e do Ambiente compete a elaboração dos regulamentos que se afigurem necessários à execução deste decreto-lei, por si, ou conjuntamente com os outros membros do Governo quando esteja em causa matéria da competência de outros departamentos de Estado.
+Art. 4.º Ao Ministro do Equipamento Social e do Ambiente compete a elaboração dos regulamentos que se afigurem necessários à execução deste decreto-lei, por si, ou conjuntamente com os outros membros do Governo quando esteja em causa matéria da competência de outros departamentos de Estado.
 
 ### CAPÍTULO II — Da Comissão Nacional do Ambiente
 
-###### Art. 5.º A Comissão Nacional do Ambiente é um organismo com personalidade jurídica e autonomia administrativa e financeira.
+Art. 5.º A Comissão Nacional do Ambiente é um organismo com personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 6.º São atribuições da Comissão Nacional do Ambiente:
+Art. 6.º São atribuições da Comissão Nacional do Ambiente:
 
 a) Coordenar os programas e actividades relacionados com o ambiente, que sejam da responsabilidade dos vários departamentos de Estado;
 
@@ -218,7 +266,7 @@ l) Incentivar na juventude o interesse pelos problemas do ambiente, organizando 
 
 m) Estudar e dar parecer sobre outros assuntos respeitantes ao ambiente que lhe sejam submetidos.
 
-###### Art. 7.º - 1. São órgãos da Comissão Nacional do Ambiente:
+Art. 7.º - 1. São órgãos da Comissão Nacional do Ambiente:
 
 a) O presidente;
 
@@ -238,11 +286,11 @@ d) Fundo Nacional do Ambiente;
 
 e) Serviço Nacional de Participação das Populações.
 
-###### Art. 8.º - 1. A Comissão Nacional do Ambiente será presidida por uma individualidade nomeada pelo Ministro do Equipamento Social e do Ambiente nos termos da [Portaria n.º 724/74](https://diariodarepublica.pt/dr/detalhe/portaria/724-1974-465382), de 11 de Novembro.
+Art. 8.º - 1. A Comissão Nacional do Ambiente será presidida por uma individualidade nomeada pelo Ministro do Equipamento Social e do Ambiente nos termos da [Portaria n.º 724/74](https://diariodarepublica.pt/dr/detalhe/portaria/724-1974-465382), de 11 de Novembro.
 
 2. Ao presidente competirá dirigir e coordenar superiormente a actividade da Comissão Nacional do Ambiente e presidir à comissão interministerial e ao conselho administrativo.
 
-###### Art. 9.º - 1. Farão parte da comissão interministerial:
+Art. 9.º - 1. Farão parte da comissão interministerial:
 
 a) Representantes dos Ministros dos Negócios Estrangeiros, da Educação e Investigação Científica, da Comunicação Social, dos Transportes e Comunicações, da Indústria e Tecnologia, do Trabalho, da Defesa e da Administração Interna; do Chefe do Estado-Maior do Exército, do Chefe do Estado-Maior da Armada e do chefe do Estado-Maior da Força Aérea; e dos Secretários de Estado do Planeamento Económico, dos Recursos Humanos, das Obras Públicas, da Habitação e Urbanismo, das Pescas, da Reestruturação Agrária, do Fomento Agrário, do Turismo e da Saúde;
 
@@ -256,19 +304,19 @@ c) Representantes de entidades oficiais ou privadas escolhidas de acordo com a s
 
 4. À comissão interministerial competirá assegurar a representação e apoio de todos os sectores da administração interessados nos problemas do ambiente e coordenar as respectivas intervenções no âmbito da política nacional do ambiente.
 
-###### Art. 10.º O conselho administrativo é constituído pelo presidente e pelo chefe de Repartição dos Serviços Administrativos da Comissão Nacional do Ambiente e por um vogal a nomear, competindo-lhe arrecadar e administrar as receitas da Comissão e satisfazer por meio delas os encargos da sua actividade.
+Art. 10.º O conselho administrativo é constituído pelo presidente e pelo chefe de Repartição dos Serviços Administrativos da Comissão Nacional do Ambiente e por um vogal a nomear, competindo-lhe arrecadar e administrar as receitas da Comissão e satisfazer por meio delas os encargos da sua actividade.
 
-###### Art. 11.º Os serviços técnicos da Comissão Nacional do Ambiente promoverão a execução dos estudos e trabalhos que lhes forem atribuídos, apoiados nos grupos de trabalho a que se refere a alínea c) do n.º 2 do artigo 7.º deste decreto-lei.
+Art. 11.º Os serviços técnicos da Comissão Nacional do Ambiente promoverão a execução dos estudos e trabalhos que lhes forem atribuídos, apoiados nos grupos de trabalho a que se refere a alínea c) do n.º 2 do artigo 7.º deste decreto-lei.
 
-###### Art. 12.º Os serviços administrativos darão o apoio burocrático e administrativo indispensável ao funcionamento dos órgãos e serviços da Comissão.
+Art. 12.º Os serviços administrativos darão o apoio burocrático e administrativo indispensável ao funcionamento dos órgãos e serviços da Comissão.
 
-###### Art. 13.º - 1. Os grupos de trabalho poderão ser permanentes ou mandatados para execução de estudos específicos, assumindo então carácter transitório.
+Art. 13.º - 1. Os grupos de trabalho poderão ser permanentes ou mandatados para execução de estudos específicos, assumindo então carácter transitório.
 
 2. Competem aos grupos de trabalho as funções de órgãos sectoriais de apoio aos trabalhos e estudos em curso, e serão presididos por individualidades de reconhecida competência a designar pelo Secretário de Estado do Ambiente, mediante proposta do presidente da Comissão Nacional do Ambiente.
 
-###### Art. 14.º Ao Fundo Nacional do Ambiente competirá apoiar, ao nível nacional, através do financiamento, os grandes programas e projectos especiais de interesse público, aprovados pela Comissão Nacional do Ambiente, que se situem no âmbito da execução da política do ambiente, tomando em consideração as propostas das comissões regionais do ambiente quanto às acções de carácter regional, e realizar os respectivos estudos económicos e financeiros indispensáveis.
+Art. 14.º Ao Fundo Nacional do Ambiente competirá apoiar, ao nível nacional, através do financiamento, os grandes programas e projectos especiais de interesse público, aprovados pela Comissão Nacional do Ambiente, que se situem no âmbito da execução da política do ambiente, tomando em consideração as propostas das comissões regionais do ambiente quanto às acções de carácter regional, e realizar os respectivos estudos económicos e financeiros indispensáveis.
 
-###### Art. 15.º - 1. Compete ao Serviço Nacional de Participação das Populações assegurar a concretização de campanhas de divulgação, participação e formação da população em geral e da juventude em particular em ordem à consecução e concretização de uma política nacional, regional e local do ambiente.
+Art. 15.º - 1. Compete ao Serviço Nacional de Participação das Populações assegurar a concretização de campanhas de divulgação, participação e formação da população em geral e da juventude em particular em ordem à consecução e concretização de uma política nacional, regional e local do ambiente.
 
 2. O Serviço Nacional de Participação das Populações funcionará como uma direcção de serviço da Comissão Nacional do Ambiente.
 
@@ -292,7 +340,7 @@ f) Representante da televisão.
 
 6. Quando conveniente, o presidente da Comissão Nacional do Ambiente presidirá às sessões do conselho consultivo referido no n.º 3.
 
-###### Art. 16.º Constituem receitas da Comissão Nacional do Ambiente:
+Art. 16.º Constituem receitas da Comissão Nacional do Ambiente:
 
 a) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações orçamentais;
 
@@ -308,7 +356,7 @@ f) As taxas cobradas pelo fornecimento de serviços;
 
 g) Quaisquer outras que legalmente lhe venham a ser atribuídas.
 
-###### Art. 17.º - 1. A Comissão Nacional do Ambiente arrecadará e administrará as suas receitas e satisfará por meio delas os encargos da sua actividade.
+Art. 17.º - 1. A Comissão Nacional do Ambiente arrecadará e administrará as suas receitas e satisfará por meio delas os encargos da sua actividade.
 
 2. Para tanto organizará o orçamento anual das suas receitas e despesas, o qual será sujeito à aprovação do Ministro do Equipamento Social e do Ambiente e ao visto do Ministro das Finanças.
 
@@ -316,15 +364,15 @@ g) Quaisquer outras que legalmente lhe venham a ser atribuídas.
 
 4. Os saldos apurados no fim de cada ano económico serão transferidos para a gerência do ano seguinte, a fim de serem utilizados pela Comissão.
 
-###### Art. 18.º - 1. Logo que haja dotação orçamental correspondente, o conselho administrativo requisitará mensalmente à 8.ª Delegação da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações consignadas à Comissão no Orçamento Geral do Estado; essas requisições, depois de visadas pela mesma Delegação, serão expedidas com as competentes autorizações de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo as respectivas importâncias levantadas pela Comissão e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 18.º - 1. Logo que haja dotação orçamental correspondente, o conselho administrativo requisitará mensalmente à 8.ª Delegação da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações consignadas à Comissão no Orçamento Geral do Estado; essas requisições, depois de visadas pela mesma Delegação, serão expedidas com as competentes autorizações de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo as respectivas importâncias levantadas pela Comissão e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
 
 2. Ao Tribunal de Contas será enviada, até 31 de Maio de cada ano, a conta de gerência da Comissão, assinada pelo conselho administrativo.
 
 ### CAPÍTULO III — Do Serviço Nacional de Parques, Reservas e Património Paisagístico
 
-###### Art. 19.º O Serviço Nacional de Parques, Reservas e Património Paisagístico é um organismo com personalidade jurídica e autonomia administrativa e financeira.
+Art. 19.º O Serviço Nacional de Parques, Reservas e Património Paisagístico é um organismo com personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 20.º São atribuições do Serviço Nacional de Parques, Reservas e Património Paisagístico:
+Art. 20.º São atribuições do Serviço Nacional de Parques, Reservas e Património Paisagístico:
 
 a) A inventariação de paisagens e sítios e respectivos elementos caracterizantes, designadamente construções isoladas, conjuntos histórico-artísticos rurais ou mistos de carácter erudito ou popular e elementos naturais individualizados na paisagem, tais como rochedos, penedos, matas e árvores;
 
@@ -346,7 +394,7 @@ i) Criar e manter um serviço de manutenção de parques nacionais e reservas;
 
 j) Criar e manter um corpo de guias e vigilantes da Natureza.
 
-###### Art. 21.º - 1. São órgãos do Serviço Nacional de Parques, Reservas e Património Paisagístico:
+Art. 21.º - 1. São órgãos do Serviço Nacional de Parques, Reservas e Património Paisagístico:
 
 a) O presidente;
 
@@ -366,11 +414,11 @@ c) Grupos de trabalho;
 
 d) Fundo de parques, reservas e património paisagístico.
 
-###### Art. 22.º - 1. O Serviço Nacional de Parques, Reservas e Património Paisagístico será presidido por uma individualidade a nomear pelo Ministro do Equipamento Social e do Ambiente, mediante proposta do Secretário de Estado do Ambiente, correspondendo ao respectivo lugar a letra B do mapa do pessoal civil dos Ministérios civis, anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 22.º - 1. O Serviço Nacional de Parques, Reservas e Património Paisagístico será presidido por uma individualidade a nomear pelo Ministro do Equipamento Social e do Ambiente, mediante proposta do Secretário de Estado do Ambiente, correspondendo ao respectivo lugar a letra B do mapa do pessoal civil dos Ministérios civis, anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. Ao presidente competirá dirigir e coordenar superiormente a actividade do Serviço Nacional de Parques, Reservas e Património Paisagístico e presidir aos conselhos de planeamento, científico e administrativo.
 
-###### Art. 23.º - 1. Fazem parte do conselho de planeamento do Serviço Nacional de Parques, Reservas e Património Paisagístico:
+Art. 23.º - 1. Fazem parte do conselho de planeamento do Serviço Nacional de Parques, Reservas e Património Paisagístico:
 
 a) Representantes dos Ministros da Educação e Investigação Científica, dos Transportes e Comunicações, da Defesa e da Administração Interna e dos Secretários de Estado das Obras Públicas, da Habitação e Urbanismo, da Indústria e Tecnologia, das Pescas, da Reestruturação Agrária, do Fomento Agrário e do Turismo;
 
@@ -388,7 +436,7 @@ b) Promover a elaboração dos planos e projectos que concretizem os objectivos 
 
 c) Promover os estudos científicos e a elaboração dos programas turísticos, recreativos e culturais.
 
-###### Art. 24.º - 1. Fazem parte do conselho científico do Serviço Nacional de Parques, Reservas e Património Paisagístico representantes dos seguintes estabelecimentos e organismos a designar pelos respectivos Ministros e Secretários de Estado, que igualmente designarão os seus substitutos:
+Art. 24.º - 1. Fazem parte do conselho científico do Serviço Nacional de Parques, Reservas e Património Paisagístico representantes dos seguintes estabelecimentos e organismos a designar pelos respectivos Ministros e Secretários de Estado, que igualmente designarão os seus substitutos:
 
 a) Instituto Superior de Agronomia;
 
@@ -420,7 +468,7 @@ b) Coordenar e promover a elaboração de estudos científicos;
 
 c) Promover a inventariação científica.
 
-###### Art. 25.º - 1. O conselho administrativo é constituído pelo presidente e pelo chefe da Repartição dos Serviços Administrativos do Serviço Nacional de Parques, Reservas e Património Paisagístico e por um vogal a nomear.
+Art. 25.º - 1. O conselho administrativo é constituído pelo presidente e pelo chefe da Repartição dos Serviços Administrativos do Serviço Nacional de Parques, Reservas e Património Paisagístico e por um vogal a nomear.
 
 2. Compete ao conselho administrativo:
 
@@ -428,7 +476,7 @@ a) Arrecadar e administrar as receitas do Serviço e satisfazer por meio delas o
 
 b) Deliberar sobre os orçamentos e contas de gerência de parques e reservas.
 
-###### Art. 26.º - 1. Aos serviços técnicos do Serviço Nacional de Parques, Reservas e Património Paisagístico competirá:
+Art. 26.º - 1. Aos serviços técnicos do Serviço Nacional de Parques, Reservas e Património Paisagístico competirá:
 
 a) Promover a coordenação da gestão e administração dos parques e reservas;
 
@@ -442,15 +490,15 @@ e) Pronunciar-se sobre outros assuntos respeitantes a parques, reservas ou patri
 
 2. Os serviços técnicos do Serviço serão apoiados pelos grupos de trabalho a que se refere a alínea c) do n.º 2 do artigo 21.º
 
-###### Art. 27.º Os serviços administrativos darão o apoio burocrático e administrativo indispensável ao funcionamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
+Art. 27.º Os serviços administrativos darão o apoio burocrático e administrativo indispensável ao funcionamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 28.º - 1. Os grupos de trabalho referidos na alínea c) do n.º 2 do artigo 21.º poderão ser permanentes ou mandatados para execução de estudos específicos, assumindo então carácter transitório.
+Art. 28.º - 1. Os grupos de trabalho referidos na alínea c) do n.º 2 do artigo 21.º poderão ser permanentes ou mandatados para execução de estudos específicos, assumindo então carácter transitório.
 
 2. Competem aos grupos de trabalho as funções de órgãos sectoriais de apoio aos trabalhos e estudos em curso, e serão presididos por individualidades de reconhecida competência a designar pelo Secretário de Estado do Ambiente, mediante proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 29.º Ao fundo de parques, reservas e património paisagístico competirá apoiar e coordenar, ao nível nacional, o financiamento da constituição e manutenção de parques e reservas, realizando para tal os estudos de índole económica e financeira que se mostrarem indispensáveis.
+Art. 29.º Ao fundo de parques, reservas e património paisagístico competirá apoiar e coordenar, ao nível nacional, o financiamento da constituição e manutenção de parques e reservas, realizando para tal os estudos de índole económica e financeira que se mostrarem indispensáveis.
 
-###### Art. 30.º Constituem receitas do Serviço Nacional de Parques, Reservas e Património Paisagístico:
+Art. 30.º Constituem receitas do Serviço Nacional de Parques, Reservas e Património Paisagístico:
 
 a) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações orçamentais;
 
@@ -466,11 +514,11 @@ f) As taxas cobradas pela utilização ou concessão da exploração de serviço
 
 g) Quaisquer outras que legalmente lhe venham a ser atribuídas.
 
-###### Art. 31.º São aplicáveis à administração dos meios financeiros do Serviço Nacional de Parques, Reservas e Património Paisagístico as disposições sobre idêntica matéria relativa à Comissão Nacional do Ambiente, constantes dos artigos 17.º e 18.º do presente diploma.
+Art. 31.º São aplicáveis à administração dos meios financeiros do Serviço Nacional de Parques, Reservas e Património Paisagístico as disposições sobre idêntica matéria relativa à Comissão Nacional do Ambiente, constantes dos artigos 17.º e 18.º do presente diploma.
 
 ### CAPÍTULO IV — Do Serviço de Estudos do Ambiente
 
-###### Art. 32.º - 1. O Serviço de Estudos do Ambiente compreenderá os seguintes gabinetes:
+Art. 32.º - 1. O Serviço de Estudos do Ambiente compreenderá os seguintes gabinetes:
 
 a) Qualidade do Ambiente;
 
@@ -492,7 +540,7 @@ d) Sociologia do Ambiente.
 
 7. A Secretaria-Geral do Ministério do Equipamento Social e do Ambiente prestará o apoio burocrático e administrativo indispensável ao funcionamento do Serviço de Estudos do Ambiente.
 
-###### Art. 33.º São atribuições do Gabinete da Qualidade do Ambiente:
+Art. 33.º São atribuições do Gabinete da Qualidade do Ambiente:
 
 a) Participar no planeamento da investigação científica relativa aos elementos essenciais do ambiente, em estreita colaboração com os demais organismos responsáveis;
 
@@ -502,7 +550,7 @@ c) Proceder a estudos de investigação nos domínios científicos relativos ao 
 
 d) Estudar os problemas resultantes das actividades modificadoras do ambiente que não estejam adequadamente cobertos por outros organismos já existentes.
 
-###### Art. 34.º São atribuições do Gabinete das Novas Paisagens:
+Art. 34.º São atribuições do Gabinete das Novas Paisagens:
 
 a) Estudar e propor novas concepções de paisagem rural, urbana e industrial nas áreas a converter ou recuperar;
 
@@ -514,7 +562,7 @@ d) Estudar e propor conceitos, sistemas e estruturas de integração na paisagem
 
 e) Estudar e propor a integração na paisagem das infra-estruturas do desenvolvimento.
 
-###### Art. 35.º São atribuições do Gabinete da Conservação da Natureza e Protecção da Paisagem:
+Art. 35.º São atribuições do Gabinete da Conservação da Natureza e Protecção da Paisagem:
 
 a) Propor uma metodologia comum e uma acção coordenada aos diferentes organismos interessados na conservação da Natureza, protecção da paisagem e gestão dos rcursos naturais;
 
@@ -522,7 +570,7 @@ b) Planear e propor um sistema, à escala nacional, de conservação da Natureza
 
 c) Proceder a estudos de inventariação, classificação e outros, no que diz respeito ao conhecimento da Natureza e da paisagem.
 
-###### Art. 36.º São atribuições do Gabinete de Sociologia do Ambiente:
+Art. 36.º São atribuições do Gabinete de Sociologia do Ambiente:
 
 a) Estudar os aspectos de biologia e biogeografia humana que se relacionem com o ambiente;
 
@@ -532,7 +580,7 @@ c) Propor programas e esquemas sociais de intervenção.
 
 ### CAPÍTULO V — Das comissões regionais do ambiente
 
-###### Art. 37.º São atribuições das comissões regionais do ambiente a nível das respectivas regiões:
+Art. 37.º São atribuições das comissões regionais do ambiente a nível das respectivas regiões:
 
 a) Colaborar na coordenação das actividades relacionadas com o ambiente, com vista à eficiente aplicação da Política Nacional do Ambiente e das medidas preconizadas para a sua execução;
 
@@ -556,7 +604,7 @@ j) Apoiar a formação de associações visando, no contexto do ambiente, aspect
 
 l) Ocupar-se de outros assuntos respeitantes ao ambiente que lhes sejam superiormente confiados.
 
-###### Art. 38.º - 1. São órgãos das comissões regionais do ambiente:
+Art. 38.º - 1. São órgãos das comissões regionais do ambiente:
 
 a) O presidente;
 
@@ -568,7 +616,7 @@ c) Grupos de trabalho.
 
 3. Aos presidentes das comissões regionais do ambiente compete dirigir e coordenar superiormente as actividades da respectiva comissão regional e presidir à sua comissão consultiva.
 
-###### Art. 39.º - 1. Fazem parte da comissão consultiva das comissões regionais do ambiente representantes dos seguintes serviços públicos a designar pelos respectivos Ministros, Secretários e Subsecretários de Estado, que igualmente designarão os seus substitutos:
+Art. 39.º - 1. Fazem parte da comissão consultiva das comissões regionais do ambiente representantes dos seguintes serviços públicos a designar pelos respectivos Ministros, Secretários e Subsecretários de Estado, que igualmente designarão os seus substitutos:
 
 a) Direcção-Geral dos Serviços de Urbanização;
 
@@ -606,13 +654,13 @@ b) Eleger anualmente, entre os seus membros, o presidente da comissão regional 
 
 c) Promover a constituição de grupos de trabalho.
 
-###### Art. 40.º - 1. Os grupos de trabalho referidos na alínea c) do n.º 1 do artigo 38.º poderão ser permanentes ou com carácter transitório, competindo-lhes elaborar os estudos e trabalhos que permitam concretizar os programas estabelecidos pelas respectivas comissões consultivas das comissões regionais do ambiente.
+Art. 40.º - 1. Os grupos de trabalho referidos na alínea c) do n.º 1 do artigo 38.º poderão ser permanentes ou com carácter transitório, competindo-lhes elaborar os estudos e trabalhos que permitam concretizar os programas estabelecidos pelas respectivas comissões consultivas das comissões regionais do ambiente.
 
 2. Os grupos de trabalho serão presididos por individualidades de reconhecida competência, a designar pelo Secretário de Estado do Ambiente, mediante proposta do presidente da respectiva comissão regional do ambiente.
 
 ### CAPÍTULO VI — Do pessoal
 
-###### Art. 41.º - 1. São aprovados os quadros e vencimentos do pessoal dos organismos referidos nas alíneas a), b) e c) do n.º 1 do artigo 3.º constantes dos mapas anexos ao presente diploma, e que dele fazem parte integrante.
+Art. 41.º - 1. São aprovados os quadros e vencimentos do pessoal dos organismos referidos nas alíneas a), b) e c) do n.º 1 do artigo 3.º constantes dos mapas anexos ao presente diploma, e que dele fazem parte integrante.
 
 2. Os lugares de pessoal dos quadros só serão preenchidos na medida em que as necessidades do serviço o exigirem, podendo ser contratados, pelas disponibilidades dos respectivos quadros, funcionários em número não superior às vagas neles existentes.
 
@@ -620,7 +668,7 @@ c) Promover a constituição de grupos de trabalho.
 
 4. O provimento do pessoal dos quadros será feito por nomeação, salvo os casos de provimento por contrato ou assalariamento nos termos da lei geral.
 
-###### Art. 42.º - 1. O primeiro provimento dos lugares do quadro do pessoal da Comissão Nacional do Ambiente poderá ser feito de entre o pessoal que à data da entrada em vigor deste diploma se encontre, a qualquer título, ao serviço da actual Comissão.
+Art. 42.º - 1. O primeiro provimento dos lugares do quadro do pessoal da Comissão Nacional do Ambiente poderá ser feito de entre o pessoal que à data da entrada em vigor deste diploma se encontre, a qualquer título, ao serviço da actual Comissão.
 
 2. O provimento previsto no número anterior resultará de lista aprovada pelo Ministro do Equipamento Social e do Ambiente e publicada no Diário do Governo, donde conste o lugar em que cada funcionário fica provido.
 
@@ -630,48 +678,48 @@ c) Promover a constituição de grupos de trabalho.
 
 5. O primeiro provimento dos lugares dos quadros de pessoal anexos ao presente decreto-lei, que não forem preenchidos nos termos do disposto nos números anteriores deste artigo, poderá ser feito por escolha de entre pessoas de reconhecida competência que satisfaçam as condições de habilitação mínima a definir nos termos do artigo 46.º do presente diploma.
 
-###### Art. 43.º - 1. A Comissão Nacional do Ambiente, o Serviço Nacional de Parques, Reservas e Património Paisagístico e o Serviço de Estudos do Ambiente poderão contratar ou ajustar com indivíduos ou entidades a eles estranhos a realização de estudos e trabalhos em regime de prestação eventual de serviços ou tarefas, sendo os encargos correspondentes suportados pelas respectivas dotações orçamentais.
+Art. 43.º - 1. A Comissão Nacional do Ambiente, o Serviço Nacional de Parques, Reservas e Património Paisagístico e o Serviço de Estudos do Ambiente poderão contratar ou ajustar com indivíduos ou entidades a eles estranhos a realização de estudos e trabalhos em regime de prestação eventual de serviços ou tarefas, sendo os encargos correspondentes suportados pelas respectivas dotações orçamentais.
 
 2. Os vogais dos órgãos colegiais dos organismos abrangidos pelo presente decreto-lei terão direito à senha de presença fixada no artigo 12.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 44.º Os encargos emergentes da publicação deste diploma serão custeados por força das dotações que vierem a ser inscritas no Orçamento Geral do Estado.
+Art. 44.º Os encargos emergentes da publicação deste diploma serão custeados por força das dotações que vierem a ser inscritas no Orçamento Geral do Estado.
 
-###### Art. 45. - 1. A Secretaria-Geral do Ministério do Equipamento Social e do Ambiente elaborará o primeiro orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico, que será aprovado e visado nos termos do n.º 2 do artigo 17.º
+Art. 45. - 1. A Secretaria-Geral do Ministério do Equipamento Social e do Ambiente elaborará o primeiro orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico, que será aprovado e visado nos termos do n.º 2 do artigo 17.º
 
 2. A mesma Secretaria-Geral preparará o orçamento do Serviço de Estudos do Ambiente, a integrar nas verbas atribuídas ao Gabinete do Secretário de Estado do Ambiente no Orçamento Geral do Estado.
 
 3. Os primeiros orçamentos das comissões regionais de ambiente serão igualmente elaborados pela Secretaria-Geral do Ministério do Equipamento Social e do Ambiente, nos termos previstos no número anterior.
 
-###### Art. 46.º Até ser regulamentado o presente decreto-lei, tomar-se-ão por despacho conjunto com o Ministro da Administração Interna as providências complementares necessárias para assegurar a sua execução.
+Art. 46.º Até ser regulamentado o presente decreto-lei, tomar-se-ão por despacho conjunto com o Ministro da Administração Interna as providências complementares necessárias para assegurar a sua execução.
 
-###### Art. 47.º O presente decreto-lei entra imediatamente em vigor.
+Art. 47.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Alfredo António Cândido de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - Henrique Manuel Araújo de Oliveira Sá.
 
-**Promulgado em 17 de Setembro de 1975.**
+Promulgado em 17 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA I
 
 Quadro e vencimentos do pessoal da Comissão Nacional do Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf))](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf)
 
 Mapa II
 
 Quadro e vencimentos do pessoal do Serviço Nacional de Parques, Reservas e Património Paisagístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf))](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf)
 
 MAPA III
 
 Quadro e vencimentos do pessoal do Serviço de Estudos do Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf))](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/22600/15071516.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, Henrique Manuel Araújo de Oliveira Sá.**
+O Ministro do Equipamento Social e do Ambiente, Henrique Manuel Araújo de Oliveira Sá.

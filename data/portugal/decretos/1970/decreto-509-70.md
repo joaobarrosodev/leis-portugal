@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/509-1970-147810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7a3558f3aec4732f227f1dfb3ccb9018cf6e41aeff92d806f65978ecefae931
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d81889a69e608e3e05419b5e14ef4fa63549c678baff77341a3e448ab204bd9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Investigação Médica
+- Instituto Provincial de Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:304307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:57Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +112,17 @@ REGULAMENTO DOS INSTITUTOS PROVINCIAIS DE SAÚDE PÚBLICA
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. Os actuais Institutos de Investigação Médica de Angola e Moçambique passam a designar-se Institutos Provinciais de Saúde Pública de Angola e Moçambique.
+Artigo 1.º - 1. Os actuais Institutos de Investigação Médica de Angola e Moçambique passam a designar-se Institutos Provinciais de Saúde Pública de Angola e Moçambique.
 
 2. Os Institutos são organismos subordinados aos Governos-Gerais das respectivas províncias ultramarinas.
 
-###### Art. 2.º - 1. Os Institutos Provinciais de Saúde Pública de Angola e Moçambique receberão apoio e orientação técnica do Conselho Coordenador de Saúde Pública e da Escola Nacional de Saúde Pública e de Medicina Tropical, sem por isso ficar limitada a sua capacidade de iniciativa e decisão.
+Art. 2.º - 1. Os Institutos Provinciais de Saúde Pública de Angola e Moçambique receberão apoio e orientação técnica do Conselho Coordenador de Saúde Pública e da Escola Nacional de Saúde Pública e de Medicina Tropical, sem por isso ficar limitada a sua capacidade de iniciativa e decisão.
 
 2. Os Institutos manterão estreita colaboração com a Escola Nacional de Saúde Pública e de Medicina Tropical nos domínios da investigação e planeamento.
 
-###### Art. 3.º Os Institutos serão dotados no orçamento da respectiva província, gozarão de autonomia técnica e administrativa e terão personalidade jurídica com capacidade para aquisição e alienação de bens, mediante autorização do Governo-Geral.
+Art. 3.º Os Institutos serão dotados no orçamento da respectiva província, gozarão de autonomia técnica e administrativa e terão personalidade jurídica com capacidade para aquisição e alienação de bens, mediante autorização do Governo-Geral.
 
-###### Art. 4.º São atribuições dos Institutos:
+Art. 4.º São atribuições dos Institutos:
 
 a) Realizar trabalhos de investigação nos domínios da saúde pública e nos ligados à medicina tropical;
 
@@ -120,7 +130,7 @@ b) Colaborar no estudo de problemas de saúde pública das respectivas provínci
 
 c) Contribuir para a difusão dos conhecimentos médicos que possam beneficiar a saúde e o bem-estar das populações das províncias ultramarinas a que pertençam.
 
-###### Art. 5.º - 1. Para cumprimento das atribuições compete aos Institutos:
+Art. 5.º - 1. Para cumprimento das atribuições compete aos Institutos:
 
 a) Realizar trabalhos de investigação de saúde pública e de medicina tropical;
 
@@ -148,7 +158,7 @@ l) Tornar conhecidas na metrópole, nas províncias ultramarinas e no estrangeir
 
 2. Para o desenvolvimento dos trabalhos dos centros de saúde que forem criados pela Escola Nacional de Saúde Pública e de Medicina Tropical os Institutos darão todo o seu apoio em pessoal e material para a realização dos respectivos fins.
 
-###### Art. 6.º - 1. Os Institutos Provinciais de Saúde Pública de Angola e Moçambique têm a sede, respectivamente, em Luanda e Lourenço Marques.
+Art. 6.º - 1. Os Institutos Provinciais de Saúde Pública de Angola e Moçambique têm a sede, respectivamente, em Luanda e Lourenço Marques.
 
 2. Ouvidos os conselhos técnicos, os Institutos poderão estabelecer nas respectivas províncias núcleos de trabalho, de carácter permanente ou temporário, para realizar determinados estudos ou investigação ou para servir de base de apoio a trabalhos a realizar.
 
@@ -160,33 +170,33 @@ l) Tornar conhecidas na metrópole, nas províncias ultramarinas e no estrangeir
 
 #### SECÇÃO I — Órgãos directivos e de consulta
 
-###### Art. 7.º Haverá em cada Instituto uma direcção, um conselho técnico e um conselho administrativo.
+Art. 7.º Haverá em cada Instituto uma direcção, um conselho técnico e um conselho administrativo.
 
-###### Art. 8.º A direcção será exercida pelo director, coadjuvado pelo subdirector e assistido pelos conselhos técnico e administrativo.
+Art. 8.º A direcção será exercida pelo director, coadjuvado pelo subdirector e assistido pelos conselhos técnico e administrativo.
 
-###### Art. 9.º - 1. Os directores serão nomeados pelo Ministro do Ultramar de entre os professores da Escola Nacional de Saúde Pública e de Medicina Tropical ou das Faculdades de Medicina, ou dos investigadores de ambos os ramos daquela Escola que se tenham distinguido por trabalhos realizados no ultramar no domínio da saúde pública, sob proposta do Conselho Coordenador, ouvido o governador-geral.
+Art. 9.º - 1. Os directores serão nomeados pelo Ministro do Ultramar de entre os professores da Escola Nacional de Saúde Pública e de Medicina Tropical ou das Faculdades de Medicina, ou dos investigadores de ambos os ramos daquela Escola que se tenham distinguido por trabalhos realizados no ultramar no domínio da saúde pública, sob proposta do Conselho Coordenador, ouvido o governador-geral.
 
 2. Os directores dos Institutos serão nomeados em comissão ordinária de serviço, nos termos dos artigos 36.º e 37.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 10.º Os subdirectores serão nomeados pelo Ministro do Ultramar, por proposta do Governo-Geral, de entre os investigadores, ouvidos os directores dos Institutos da respectiva província.
+Art. 10.º Os subdirectores serão nomeados pelo Ministro do Ultramar, por proposta do Governo-Geral, de entre os investigadores, ouvidos os directores dos Institutos da respectiva província.
 
-###### Art. 11.º - 1. Os chefes dos departamentos serão escolhidos entre os investigadores e nomeados pelo Ministro do Ultramar, sob proposta do governador-geral, ouvido o conselho técnico do respectivo Instituto.
+Art. 11.º - 1. Os chefes dos departamentos serão escolhidos entre os investigadores e nomeados pelo Ministro do Ultramar, sob proposta do governador-geral, ouvido o conselho técnico do respectivo Instituto.
 
 2. Se num departamento não houver investigadores, a sua chefia poderá ser exercida interinamente por um primeiro-assistente e, se também não houver primeiros-assistentes, o departamento será orientado directamente pelo director.
 
-###### Art. 12.º - 1. O conselho técnico será constituído pelo director, como presidente, pelo subdirector e chefes de departamento, dos quais o mais moderno servirá de secretário.
+Art. 12.º - 1. O conselho técnico será constituído pelo director, como presidente, pelo subdirector e chefes de departamento, dos quais o mais moderno servirá de secretário.
 
 2. Quando a natureza dos assuntos o justifique, poderá o director convocar outras entidades, pertencentes ou não aos quadros do Instituto, para tomarem parte nos trabalhos do conselho a título consultivo e sem direito a voto.
 
 3. O conselho técnico reunirá obrigatòriamente pelo menos uma vez em cada trimestre e extraordinàriamente sempre que o seu presidente o convoque.
 
-###### Art. 13.º - 1. O conselho administrativo é constituído pelo director, que preside, subdirector, um chefe de departamento e o chefe dos serviços administrativos, que secretariará.
+Art. 13.º - 1. O conselho administrativo é constituído pelo director, que preside, subdirector, um chefe de departamento e o chefe dos serviços administrativos, que secretariará.
 
 2. O conselho administrativo reunirá pelo menos mensalmente, em geral na segunda semana de cada mês, e poderá ser convocado extraordinàriamente sempre que o director o julgue necessário.
 
 #### SECÇÃO II — Serviços
 
-###### Art. 14.º Os serviços dos Institutos compreenderão:
+Art. 14.º Os serviços dos Institutos compreenderão:
 
 a) Departamentos especializados;
 
@@ -194,7 +204,7 @@ b) Centros de documentação;
 
 c) Serviços administrativos.
 
-###### Art. 15.º - 1. Em cada Instituto haverá os seguintes departamentos especializados:
+Art. 15.º - 1. Em cada Instituto haverá os seguintes departamentos especializados:
 
 a) Departamento de higiene e epidemiologia;
 
@@ -210,9 +220,9 @@ d) Departamento de bioquímica e biofísica.
 
 4. Para o estudo de doenças e a realização de ensaios terapêuticos, o departamento de patologia e clínica poderá utilizar instalações dos serviços de saúde e assistência provinciais.
 
-###### Art. 16.º O centro de documentação de cada Instituto terá a organização que for definida no regulamento interno.
+Art. 16.º O centro de documentação de cada Instituto terá a organização que for definida no regulamento interno.
 
-###### Art. 17.º Os serviços administrativos compreenderão as secções de:
+Art. 17.º Os serviços administrativos compreenderão as secções de:
 
 a) Secretaria;
 
@@ -232,7 +242,7 @@ d) Oficinas e parque de viaturas.
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 18.º Os Institutos disporão dos seguintes quadros de pessoal:
+Art. 18.º Os Institutos disporão dos seguintes quadros de pessoal:
 
 Pessoal dirigente;
 
@@ -246,25 +256,25 @@ Pessoal auxiliar;
 
 Pessoal dos quadros complementares.
 
-###### Art. 19.º - 1. Os quadros de pessoal terão a constituição indicada nos mapas anexos a este diploma, com as categorias e gratificações neles assinaladas.
+Art. 19.º - 1. Os quadros de pessoal terão a constituição indicada nos mapas anexos a este diploma, com as categorias e gratificações neles assinaladas.
 
 2. Os quadros complementares de cada Instituto serão fixados, anualmente, no diploma que aprovar os respectivos orçamentos.
 
-###### Art. 20.º - 1. Sempre que as necessidades do serviço o exijam e as disponibilidades orçamentais o permitam, poderão os Institutos contratar ou assalariar pessoal além dos quadros.
+Art. 20.º - 1. Sempre que as necessidades do serviço o exijam e as disponibilidades orçamentais o permitam, poderão os Institutos contratar ou assalariar pessoal além dos quadros.
 
 2. Os direitos deste pessoal serão os que constarem do respectivo contrato ou dos documentos de assalariamento e os que lhe forem atribuídos pela legislação em vigor.
 
 #### SECÇÃO II — Pessoal dirigente e pessoal técnico superior
 
-###### Art. 21.º O pessoal dirigente será constituído pelo director e pelo subdirector.
+Art. 21.º O pessoal dirigente será constituído pelo director e pelo subdirector.
 
-###### Art. 22.º O pessoal técnico superior será constituído pelos segundos-assistentes, primeiros-assistentes e investigadores.
+Art. 22.º O pessoal técnico superior será constituído pelos segundos-assistentes, primeiros-assistentes e investigadores.
 
-###### Art. 23.º - 1. Poderão ser contratados como segundos-assistentes os diplomados com um curso superior que confira as habilitações necessárias às actividades dos Institutos.
+Art. 23.º - 1. Poderão ser contratados como segundos-assistentes os diplomados com um curso superior que confira as habilitações necessárias às actividades dos Institutos.
 
 2. Ouvido o conselho técnico, o director submeterá à aprovação superior as propostas de contrato.
 
-###### Art. 24.º - 1. Os segundos-assistentes serão inicialmente contratados por um ano, e durante este período estagiarão no ou nos departamentos que lhes forem designados.
+Art. 24.º - 1. Os segundos-assistentes serão inicialmente contratados por um ano, e durante este período estagiarão no ou nos departamentos que lhes forem designados.
 
 2. Três meses antes do termo deste contrato inicial, os segundos-assistentes deverão apresentar uma revisão de conjunto sobre assunto por eles escolhido entre os seus temas de trabalho e de preferência relacionado com problemas metodológicos.
 
@@ -274,11 +284,11 @@ Pessoal dos quadros complementares.
 
 5. Os contratos de segundo-assistente poderão vigorar, mediante sucessivas prorrogações, até um máximo de oito anos.
 
-###### Art. 25.º - 1. O provimento das categorias de primeiros-assistentes e de investigadores será precedido de concurso de provas públicas perante um júri a nomear pelo Ministro do Ultramar, sob proposta do Conselho Coordenador, e será constituído pelo presidente do Conselho Coordenador, que presidirá pelo director do respectivo Instituto, por dois investigadores dos Institutos, por dois professores da Escola Nacional de Saúde Pública e de Medicina Tropical e ainda por dois professores das Faculdades de Medicina de cadeiras afins.
+Art. 25.º - 1. O provimento das categorias de primeiros-assistentes e de investigadores será precedido de concurso de provas públicas perante um júri a nomear pelo Ministro do Ultramar, sob proposta do Conselho Coordenador, e será constituído pelo presidente do Conselho Coordenador, que presidirá pelo director do respectivo Instituto, por dois investigadores dos Institutos, por dois professores da Escola Nacional de Saúde Pública e de Medicina Tropical e ainda por dois professores das Faculdades de Medicina de cadeiras afins.
 
 2. O presidente do júri terá direito a voto de qualidade.
 
-###### Art. 26.º - 1. Poderão candidatar-se aos concursos para primeiros-assistentes, desde que possuam curriculum na matéria da especialidade:
+Art. 26.º - 1. Poderão candidatar-se aos concursos para primeiros-assistentes, desde que possuam curriculum na matéria da especialidade:
 
 a) Os segundos-assistentes do quadro do Instituto com, pelo menos, três anos de serviço contínuo e qualificado nessa categoria;
 
@@ -294,7 +304,7 @@ a) Discussão do respectivo curriculum científico por um ou mais membros do jú
 
 b) Discussão de um tema consistindo na exposição de um plano de investigação restrito, dado a conhecer ao candidato com trinta dias de antecedência, e a exposição será argumentada por um dos membros do júri, designado pelo presidente.
 
-###### Art. 27.º - 1. Poderão candidatar-se aos concursos para provimento dos lugares de investigador, desde que possuam curriculum na matéria da especialidade:
+Art. 27.º - 1. Poderão candidatar-se aos concursos para provimento dos lugares de investigador, desde que possuam curriculum na matéria da especialidade:
 
 a) Os primeiros-assistentes do quadro do Instituto com, pelo menos, três anos de serviço contínuo e qualificado nessa categoria;
 
@@ -310,15 +320,15 @@ a) Discussão do respectivo curriculum científico por um ou mais membros do jú
 
 b) Discussão de uma monografia, com contribuição original, cujo tema tenha sido prèviamente aceite pelo conselho técnico e que será efectuada por um ou mais membros do júri designados pelo presidente.
 
-###### Art. 28.º Das provas dos concursos será lavrada acta com a classificação dos candidatos aprovados, que acompanhará as propostas de contrato a submeter a despacho do Ministro do Ultramar, com vista ao provimento dos cargos a preencher.
+Art. 28.º Das provas dos concursos será lavrada acta com a classificação dos candidatos aprovados, que acompanhará as propostas de contrato a submeter a despacho do Ministro do Ultramar, com vista ao provimento dos cargos a preencher.
 
-###### Art. 29.º - 1. Para serem providos nos lugares dos quadros dos Institutos os médicos deverão ter o curso de Medicina Tropical.
+Art. 29.º - 1. Para serem providos nos lugares dos quadros dos Institutos os médicos deverão ter o curso de Medicina Tropical.
 
 2. Sob proposta do director e parecer favorável do conselho técnico poderão ser dispensados desta exigência os especialistas de matérias não clínicas.
 
 #### SECÇÃO III — Pessoal técnico médio
 
-###### Art. 30.º Poderão concorrer aos lugares de assistente técnico:
+Art. 30.º Poderão concorrer aos lugares de assistente técnico:
 
 a) Os preparadores de laboratório de 1.ª classe dos Institutos e dos quadros dos serviços de saúde e assistência com um mínimo de quatro anos de serviço contínuo e qualificado nessa categoria;
 
@@ -328,13 +338,13 @@ c) Os diplomados com os cursos de analistas dos institutos industriais;
 
 d) Os diplomados com o curso profissional de farmácia.
 
-###### Art. 31.º Poderão concorrer ao lugar de encarregado do centro de documentação:
+Art. 31.º Poderão concorrer ao lugar de encarregado do centro de documentação:
 
 a) Os diplomados com um curso de documentação professado em organismo nacional ou estrangeiro, reconhecido como idóneo pelo conselho técnico;
 
 b) Os indivíduos habilitados com a alínea f) do 3.º ciclo liceal e com, pelo menos, três anos de prática, com boas informações, num serviço ou centro de documentação considerado idóneo.
 
-###### Art. 32.º Poderão concorrer aos lugares de preparador de laboratório de 1.ª classe:
+Art. 32.º Poderão concorrer aos lugares de preparador de laboratório de 1.ª classe:
 
 a) Os preparadores de laboratório de 1.ª classe dos serviços de saúde das províncias ultramarinas;
 
@@ -342,9 +352,9 @@ b) Os preparadores de laboratório de 2.ª classe dos institutos ou dos serviço
 
 c) Os preparadores de laboratório da Escola Nacional de Saúde Pública e de Medicina Tropical, dos hospitais civis e escolares e de outras instituições em cujos laboratórios se exerçam actividades semelhantes às dos Institutos e que tenham um mínimo de três anos de serviço contínuo e qualificado nessa categoria.
 
-###### Art. 33.º O lugar de chefe dos trabalhos de campo será provido, por escolha, entre os preparadores de 2.ª classe do respectivo Instituto.
+Art. 33.º O lugar de chefe dos trabalhos de campo será provido, por escolha, entre os preparadores de 2.ª classe do respectivo Instituto.
 
-###### Art. 34.º Poderão concorrer aos lugares de preparador de laboratório de 2.ª classe:
+Art. 34.º Poderão concorrer aos lugares de preparador de laboratório de 2.ª classe:
 
 a) Os indivíduos com o curso de preparador das escolas técnicas dos serviços de saúde e assistência das províncias ultramarinas ou das escolas metropolitanas que confiram uma qualificação equiparável;
 
@@ -352,45 +362,45 @@ b) Os preparadores da Escola Nacional de Saúde Pública e de Medicina Tropical,
 
 c) Os diplomados com o curso de auxiliar de laboratório químico das escolas industriais.
 
-###### Art. 35.º Poderão concorrer ao lugar de taxidermista os indivíduos habilitados com o 2.º ciclo liceal completo e prática em taxidermia.
+Art. 35.º Poderão concorrer ao lugar de taxidermista os indivíduos habilitados com o 2.º ciclo liceal completo e prática em taxidermia.
 
-###### Art. 36.º Poderão concorrer aos lugares de enfermeiro de 1.ª classe:
+Art. 36.º Poderão concorrer aos lugares de enfermeiro de 1.ª classe:
 
 a) Os enfermeiros de 1.ª classe dos serviços de saúde e assistência das respectivas províncias ultramarinas;
 
 b) Os enfermeiros de 2.ª classe dos serviços de saúde das respectivas províncias ultramarinas e dos hospitais civis e escolares metropolitanos com um mínimo de três anos de serviço contínuo e qualificado nessa categoria.
 
-###### Art. 37.º Poderão concorrer ao lugar de desenhador os indivíduos habilitados com o 2.º ciclo dos liceus ou com o curso industrial das escolas técnicas, acrescido das disciplinas da secção preparatória para os institutos industriais.
+Art. 37.º Poderão concorrer ao lugar de desenhador os indivíduos habilitados com o 2.º ciclo dos liceus ou com o curso industrial das escolas técnicas, acrescido das disciplinas da secção preparatória para os institutos industriais.
 
-###### Art. 38.º Poderão concorrer ao lugar de fotógrafo os indivíduos habilitados com o 2.º ciclo liceal ou com o curso industrial das escolas técnicas, acrescido das disciplinas da secção preparatória para os institutos industriais e com prática de fotografia.
+Art. 38.º Poderão concorrer ao lugar de fotógrafo os indivíduos habilitados com o 2.º ciclo liceal ou com o curso industrial das escolas técnicas, acrescido das disciplinas da secção preparatória para os institutos industriais e com prática de fotografia.
 
-###### Art. 39.º Poderão concorrer aos lugares de auxiliar de enfermagem de 1.ª classe:
+Art. 39.º Poderão concorrer aos lugares de auxiliar de enfermagem de 1.ª classe:
 
 a) Os auxiliares de enfermagem de 1.ª classe dos serviços de saúde e assistência das respectivas províncias ultramarinas;
 
 b) Os auxiliares de enfermagem de 2.ª classe dos serviços de saúde das respectivas províncias ultramarinas com um mínimo de três anos de contínuo e qualificado serviço nessa categoria.
 
-###### Art. 40.º Poderão concorrer ao lugar de auxiliar de laboratório de 1.ª classe:
+Art. 40.º Poderão concorrer ao lugar de auxiliar de laboratório de 1.ª classe:
 
 a) Os auxiliares de laboratório de 2.ª classe com mais de cinco anos de bom e efectivo serviço na categoria;
 
 b) Os auxiliares de laboratório de 2.ª classe que na data de abertura do concurso possuam a habilitação do exame do 1.º ciclo liceal ou de curso equiparável e três anos de bom e efectivo serviço na categoria.
 
-###### Art. 41.º - 1. Poderão concorrer aos lugares de auxiliar de laboratório de 2.ª classe indivíduos habilitados, pelo menos, com a 4.ª classe de ensino primário.
+Art. 41.º - 1. Poderão concorrer aos lugares de auxiliar de laboratório de 2.ª classe indivíduos habilitados, pelo menos, com a 4.ª classe de ensino primário.
 
 2. O provimento será feito mediante concurso de provas práticas, prestadas após seis meses de assalariamento com boas informações.
 
-###### Art. 42.º Poderão concorrer ao lugar de auxiliar do centro de documentação os indivíduos com o 2.º ciclo dos liceus ou habilitação equivalente.
+Art. 42.º Poderão concorrer ao lugar de auxiliar do centro de documentação os indivíduos com o 2.º ciclo dos liceus ou habilitação equivalente.
 
 #### SECÇÃO IV — Pessoal administrativo
 
-###### Art. 43.º Poderão concorrer ao lugar de terceiro-oficial os indivíduos com o 2.º ciclo de ensino liceal ou habilitação equivalente.
+Art. 43.º Poderão concorrer ao lugar de terceiro-oficial os indivíduos com o 2.º ciclo de ensino liceal ou habilitação equivalente.
 
-###### Art. 44.º Poderão concorrer ao lugar de segundo-oficial os terceiros-oficiais dos quadros da respectiva província com o mínimo de três anos de serviço contínuo e qualificado nessa categoria.
+Art. 44.º Poderão concorrer ao lugar de segundo-oficial os terceiros-oficiais dos quadros da respectiva província com o mínimo de três anos de serviço contínuo e qualificado nessa categoria.
 
-###### Art. 45.º Poderão concorrer ao lugar de primeiro-oficial os segundos-oficiais dos quadros da respectiva província com o mínimo de três anos de serviço contínuo e qualificado nessa categoria.
+Art. 45.º Poderão concorrer ao lugar de primeiro-oficial os segundos-oficiais dos quadros da respectiva província com o mínimo de três anos de serviço contínuo e qualificado nessa categoria.
 
-###### Art. 46.º Poderão concorrer ao lugar de chefe dos serviços administrativos:
+Art. 46.º Poderão concorrer ao lugar de chefe dos serviços administrativos:
 
 a) Os primeiros-oficiais dos Institutos com mais de três anos de serviço nessa categoria;
 
@@ -398,35 +408,35 @@ b) Os primeiros-oficiais do quadro privativo administrativo dos serviços de sa�
 
 c) Os indivíduos diplomados com um curso médio adequado ao exercício desta função.
 
-###### Art. 47.º Poderão concorrer ao lugar de escriturário-dactilógrafo os indivíduos que possuam o 1.º ciclo dos liceus, o ciclo preparatório do ensino técnico ou habilitação equivalente.
+Art. 47.º Poderão concorrer ao lugar de escriturário-dactilógrafo os indivíduos que possuam o 1.º ciclo dos liceus, o ciclo preparatório do ensino técnico ou habilitação equivalente.
 
 #### SECÇÃO V — Outro pessoal
 
-###### Art. 48.º O lugar de encarregado de oficinas será provido por indivíduo diplomado pelas escolas industriais e com um mínimo de cinco anos de prática profissional, devidamente comprovada, com boas informações.
+Art. 48.º O lugar de encarregado de oficinas será provido por indivíduo diplomado pelas escolas industriais e com um mínimo de cinco anos de prática profissional, devidamente comprovada, com boas informações.
 
-###### Art. 49.º Os restantes lugares previstos no quadro do pessoal auxiliar serão providos por contrato, mediante simples proposta dos directores dos Institutos, dentro das normas legais.
+Art. 49.º Os restantes lugares previstos no quadro do pessoal auxiliar serão providos por contrato, mediante simples proposta dos directores dos Institutos, dentro das normas legais.
 
-###### Art. 50.º Nos regulamentos internos dos Institutos serão estabelecidos os quadros de pessoal assalariado necessário às respectivas actividades e fixadas as condições de assalariamento.
+Art. 50.º Nos regulamentos internos dos Institutos serão estabelecidos os quadros de pessoal assalariado necessário às respectivas actividades e fixadas as condições de assalariamento.
 
 #### SECÇÃO VI — Provimento do pessoal
 
-###### Art. 51.º Com excepção do director e subdirector, os lugares dos quadros dos Institutos serão providos por contrato, mas os funcionários que para eles transitem de funções públicas serão nomeados em comissão.
+Art. 51.º Com excepção do director e subdirector, os lugares dos quadros dos Institutos serão providos por contrato, mas os funcionários que para eles transitem de funções públicas serão nomeados em comissão.
 
-###### Art. 52.º As condições gerais de provimento dos lugares dos quadros privativos e complementares são as fixadas no artigo 12.º do Estatuto do Funcionalismo Ultramarino, exceptuando, para o pessoal técnico superior e médio, as respeitantes à idade.
+Art. 52.º As condições gerais de provimento dos lugares dos quadros privativos e complementares são as fixadas no artigo 12.º do Estatuto do Funcionalismo Ultramarino, exceptuando, para o pessoal técnico superior e médio, as respeitantes à idade.
 
-###### Art. 58.º - 1. Com as excepções expressamente assinaladas neste decreto, o provimento dos lugares dos quadros do pessoal técnico médio e de pessoal administrativo será feito mediante concurso de provas documentais e práticas, regulamentado pelos Governos-Gerais, sob proposta das direcções dos Institutos.
+Art. 58.º - 1. Com as excepções expressamente assinaladas neste decreto, o provimento dos lugares dos quadros do pessoal técnico médio e de pessoal administrativo será feito mediante concurso de provas documentais e práticas, regulamentado pelos Governos-Gerais, sob proposta das direcções dos Institutos.
 
 2. Em igualdade de qualificação e de provas, têm preferência os candidatos que desempenhem ou tenham desempenhado funções nos Institutos.
 
 #### SECÇÃO VII — Estágios de aperfeiçoamento
 
-###### Art. 54.º Sob proposta dos governadores-gerais poderá o Ministro do Ultramar autorizar estágios de aperfeiçoamento ou de formação especializada na metrópole ou no estrangeiro do pessoal do quadro técnico superior, quadros privativos e quadros complementares, sendo esta situação considerada e remunerada como comissão de serviço.
+Art. 54.º Sob proposta dos governadores-gerais poderá o Ministro do Ultramar autorizar estágios de aperfeiçoamento ou de formação especializada na metrópole ou no estrangeiro do pessoal do quadro técnico superior, quadros privativos e quadros complementares, sendo esta situação considerada e remunerada como comissão de serviço.
 
-###### Art. 55.º Os Institutos poderão facultar a realização de estágios a técnicos que sejam funcionários do Estado, desde que os serviços oficiais respectivos o solicitem, ou a técnicos particulares que o requeiram, mas neste caso em regime de voluntariado.
+Art. 55.º Os Institutos poderão facultar a realização de estágios a técnicos que sejam funcionários do Estado, desde que os serviços oficiais respectivos o solicitem, ou a técnicos particulares que o requeiram, mas neste caso em regime de voluntariado.
 
 ### CAPÍTULO IV — Actividades e competências
 
-###### Art. 56.º - 1. Os Institutos exercerão as suas actividades com base em programas anuais de trabalho, que serão apresentados até 30 de Novembro, depois de elaborados pelo conselho técnico.
+Art. 56.º - 1. Os Institutos exercerão as suas actividades com base em programas anuais de trabalho, que serão apresentados até 30 de Novembro, depois de elaborados pelo conselho técnico.
 
 2. Ao presidente compete estabelecer a agenda da sessão.
 
@@ -438,17 +448,17 @@ b) As sugestões das Direcções Provinciais dos Serviços de Saúde e Assistên
 
 c) As disponibilidades em meios materiais e humanos.
 
-###### Art. 57.º Além dos trabalhos previstos nos programas anuais, poderão os Institutos realizar outros que lhe sejam solicitados por entidades oficiais, de acordo com a urgência e interesse públicos reconhecidos.
+Art. 57.º Além dos trabalhos previstos nos programas anuais, poderão os Institutos realizar outros que lhe sejam solicitados por entidades oficiais, de acordo com a urgência e interesse públicos reconhecidos.
 
-###### Art. 58.º - 1. Os directores dos Institutos apresentarão até 31 de Maio um relatório pormenorizado das actividades realizadas no ano anterior.
+Art. 58.º - 1. Os directores dos Institutos apresentarão até 31 de Maio um relatório pormenorizado das actividades realizadas no ano anterior.
 
 2. Este relatório será apreciado pelo Conselho Coordenador na sua reunião anual.
 
-###### Art. 59.º - 1. Os programas e relatórios mencionados, respectivamente, nos artigos 56.º e 58.º, depois de apreciados pelo Conselho Coordenador, serão submetidos aos respectivos Governos-Gerais.
+Art. 59.º - 1. Os programas e relatórios mencionados, respectivamente, nos artigos 56.º e 58.º, depois de apreciados pelo Conselho Coordenador, serão submetidos aos respectivos Governos-Gerais.
 
 2. Dos documentos referidos, bem como dos pareceres emitidos pelo Conselho Coordenador, serão remetidas cópias à Direcção-Geral de Saúde e Assistência, ao conselho escolar da Escola Nacional de Saúde Pública e de Medicina Tropical e às Direcções Provinciais dos Serviços de Saúde e Assistência das respectivas províncias.
 
-###### Art. 60.º - 1. Compete aos directores dos Institutos:
+Art. 60.º - 1. Compete aos directores dos Institutos:
 
 a) Superintender e coordenar as actividades de todos os departamentos dos Institutos;
 
@@ -472,7 +482,7 @@ j) Autorizar as despesas até 10000$00, se importância maior não estiver autor
 
 2. Independentemente do disposto no artigo 11.º, n.º 2, poderá o director, sempre que o entender conveniente, chefiar o departamento mais adequado à sua preparação científica.
 
-###### Art. 61.º - 1. Compete ao subdirector:
+Art. 61.º - 1. Compete ao subdirector:
 
 a) Colaborar com o director em todas as suas atribuições, comunicando-lhe, por escrito ou verbalmente, todos os elementos de informação colhidos respeitantes aos problemas sujeitos à sua apreciação;
 
@@ -482,7 +492,7 @@ c) Substituir o director nas suas ausências, faltas ou impedimentos.
 
 2. Sempre que as condições o justifiquem, poderá o subdirector assumir transitòriamente a chefia de um departamento, se assim lhe for determinado.
 
-###### Art. 62.º Compete aos chefes de departamento:
+Art. 62.º Compete aos chefes de departamento:
 
 a) Planificar os projectos que lhe forem atribuídos pelo conselho técnico, definindo as tarefas que eles comportem e distribuindo-as pelas correspondentes secções do seu departamento;
 
@@ -492,7 +502,7 @@ c) Chefiar directamente a secção mais adequada à sua preparação científica
 
 d) Manter o director ao corrente do andamento dos trabalhos em curso e, bem assim, de todas as ocorrências e anormalidades registadas no seu departamento.
 
-###### Art. 63.º Compete aos chefes de secção:
+Art. 63.º Compete aos chefes de secção:
 
 a) Planificar as tarefas que lhe forem atribuídas pelos chefes dos respectivos departamentos, indicando os métodos, meios e prazos para as realizar e distribuindo funções pelo pessoal que lhe está subordinado;
 
@@ -504,7 +514,7 @@ d) Colaborar na redacção de trabalhos científicos e de divulgação;
 
 e) Participar nas reuniões científicas para que for convocado.
 
-###### Art. 64.º São funções do centro de documentação:
+Art. 64.º São funções do centro de documentação:
 
 a) Inventariar, conservar, catalogar, classificar, reproduzir e promover a aquisição e difusão de documentos de interesse para as actividades do Instituto e para a ciência médica em geral;
 
@@ -512,7 +522,7 @@ b) Promover a edição de publicações científicas ou de divulgação;
 
 c) Colaborar no aperfeiçoamento do pessoal do Instituto.
 
-###### Art. 65.º Compete aos serviços administrativos:
+Art. 65.º Compete aos serviços administrativos:
 
 a) Organizar e manter actualizados os processos relativos ao provimento, situação e disciplina do pessoal;
 
@@ -528,7 +538,7 @@ f) Organizar e orientar o funcionamento dos armazéns de material, oficinas e pa
 
 g) Organizar, realizar e manter actualizado o inventário dos bens do Instituto.
 
-###### Art. 66.º Compete especialmente às oficinas e parques de viaturas:
+Art. 66.º Compete especialmente às oficinas e parques de viaturas:
 
 a) Manter em eficientes condições de trabalho as viaturas do Instituto;
 
@@ -536,7 +546,7 @@ b) Efectuar pequenas reparações em máquinas, aparelhos, móveis e utensílios
 
 c) Preparar, dentro das suas possibilidades, o material de carpintaria, de serralharia ou outro, necessário às actividades dos diversos serviços.
 
-###### Art. 67.º Compete ao conselho técnico:
+Art. 67.º Compete ao conselho técnico:
 
 a) Colaborar com o conselho administrativo na elaboração dos projectos de regulamentos internos do Instituto e sugerir as alterações convenientes;
 
@@ -562,7 +572,7 @@ k) Colaborar com o conselho administrativo na elaboração dos orçamentos ordin
 
 l) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pelo director.
 
-###### Art. 68.º Compete ao conselho administrativo:
+Art. 68.º Compete ao conselho administrativo:
 
 a) Elaborar os projectos dos orçamentos ordinários e suplementares, em colaboração com o conselho técnico;
 
@@ -576,15 +586,15 @@ e) Propor e promover a venda em hasta pública do material considerado absolutam
 
 f) Prestar contas da sua gerência ao tribunal administrativo da província, nos termos e prazos legais.
 
-###### Art. 69.º No aviso convocatória das reuniões do conselho administrativo, nos termos do artigo 17.º, n.º 2, feito com quarenta e oito horas de antecedência, deve incluir-se a agenda dos assuntos a tratar.
+Art. 69.º No aviso convocatória das reuniões do conselho administrativo, nos termos do artigo 17.º, n.º 2, feito com quarenta e oito horas de antecedência, deve incluir-se a agenda dos assuntos a tratar.
 
-###### Art. 70.º - 1. Os conselhos técnico e administrativo só poderão deliberar em sessão com a presença de todos os seus membros efectivos ou dos seus substitutos legais, em caso de impedimento justificado daqueles.
+Art. 70.º - 1. Os conselhos técnico e administrativo só poderão deliberar em sessão com a presença de todos os seus membros efectivos ou dos seus substitutos legais, em caso de impedimento justificado daqueles.
 
 2. As deliberações serão tomadas por maioria, sendo o voto obrigatório e podendo os membros do conselho fazer exarar na acta a declaração fundamentada do seu voto que será tomada em consideração para efeitos legais.
 
-###### Art. 71.º Os secretários dos conselhos técnico e administrativo elaborarão as actas das respectivas sessões, pormenorizando os assuntos discutidos, discriminando os votos dos membros dos conselhos e registando-as em livros próprios, depois de lidas e aprovadas.
+Art. 71.º Os secretários dos conselhos técnico e administrativo elaborarão as actas das respectivas sessões, pormenorizando os assuntos discutidos, discriminando os votos dos membros dos conselhos e registando-as em livros próprios, depois de lidas e aprovadas.
 
-###### Art. 72.º Independentemente das atribuições que lhe são conferidas como membro do conselho administrativo, competirá ao presidente deste organismo:
+Art. 72.º Independentemente das atribuições que lhe são conferidas como membro do conselho administrativo, competirá ao presidente deste organismo:
 
 a) Proceder contra quem extraviar, danificar ou inutilizar quaisquer bens do Instituto, tomando as necessárias providências para que a importância do prejuízo seja recuperada;
 
@@ -594,9 +604,9 @@ c) Rubricar todas as folhas numeradas dos livros legais e assinar os respectivos
 
 ### CAPÍTULO V — Prémios
 
-###### Art. 73.º Com base na alínea h) do artigo 5.º deste regulamento poderão os Institutos, mediante autorização do respectivo governador-geral, estabelecer prémios permanentes ou transitórios destinados a estimular a investigação nos sectores da saúde pública e da medicina tropical.
+Art. 73.º Com base na alínea h) do artigo 5.º deste regulamento poderão os Institutos, mediante autorização do respectivo governador-geral, estabelecer prémios permanentes ou transitórios destinados a estimular a investigação nos sectores da saúde pública e da medicina tropical.
 
-###### Art. 74.º - 1. São desde já estabelecidos os seguintes prémios anuais, comuns aos dois Institutos:
+Art. 74.º - 1. São desde já estabelecidos os seguintes prémios anuais, comuns aos dois Institutos:
 
 a) Prémio Carlos França - para trabalhos relativos à medicina tropical e ao qual se podem candidatar individualidades nacionais ou estrangeiras com trabalhos originais;
 
@@ -608,21 +618,21 @@ b) Prémio Ayres Kopke - para trabalhos relacionados com a saúde pública em An
 
 4. Os trabalhos apresentados a concurso não serão devolvidos, podendo os Institutos promover a publicação dos que forem premiados.
 
-###### Art. 75.º - 1. Depois de o conselho técnico se pronunciar quanto ao enquadramento dos trabalhos apresentados nas condições estabelecidas no presente diploma, serão os mesmos remetidos para apreciação e classificação ao Conselho Coordenador, que funcionará como júri, podendo, para esse efeito, agregar uma ou mais individualidades de reconhecida competência na especialidade.
+Art. 75.º - 1. Depois de o conselho técnico se pronunciar quanto ao enquadramento dos trabalhos apresentados nas condições estabelecidas no presente diploma, serão os mesmos remetidos para apreciação e classificação ao Conselho Coordenador, que funcionará como júri, podendo, para esse efeito, agregar uma ou mais individualidades de reconhecida competência na especialidade.
 
 2. As decisões do júri serão tornadas por maioria e delas não haverá recurso.
 
 3. Os membros do júri não poderão concorrer aos prémios.
 
-###### Art. 76.º As despesas inerentes aos dois prémios serão suportadas em partes iguais pelos dois Institutos e o quantitativo de cada um será fixado anualmente por acordo entre as respectivas direcções.
+Art. 76.º As despesas inerentes aos dois prémios serão suportadas em partes iguais pelos dois Institutos e o quantitativo de cada um será fixado anualmente por acordo entre as respectivas direcções.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 77.º - 1. Os governadores-gerais providenciarão para que, dentro do prazo máximo de seis meses após a publicação deste diploma, sejam elaborados os regulamentos internos dos Institutos para aprovação superior.
+Art. 77.º - 1. Os governadores-gerais providenciarão para que, dentro do prazo máximo de seis meses após a publicação deste diploma, sejam elaborados os regulamentos internos dos Institutos para aprovação superior.
 
 2. Posteriormente, determinarão que sejam publicadas as restantes disposições legais que entendam necessárias para o bom funcionamento dos serviços.
 
-###### Art. 78.º - 1. O pessoal dos quadros privativos e dos quadros complementares existentes à data da publicação deste diploma transitará, sem mais formalidades, para igual número de lugares previstos nos mapas II, IV e V anexos ao presente diploma, mediante simples despacho do governador-geral publicado nos respectivos Boletins Oficiais.
+Art. 78.º - 1. O pessoal dos quadros privativos e dos quadros complementares existentes à data da publicação deste diploma transitará, sem mais formalidades, para igual número de lugares previstos nos mapas II, IV e V anexos ao presente diploma, mediante simples despacho do governador-geral publicado nos respectivos Boletins Oficiais.
 
 2. O conservador do museu transita, sem mais formalidades, incluindo as de visto e posse, para um dos lugares de assistente técnico.
 
@@ -634,7 +644,7 @@ b) Prémio Ayres Kopke - para trabalhos relacionados com a saúde pública em An
 
 6. Os actuais motoristas mecânicos transitam, sem mais formalidades, incluindo as de visto e posse, para igual número de lugares de condutor de automóveis.
 
-###### Art. 79.º - 1. A transição dos subdirectores e pessoal técnico superior será feita pelo Ministro do Ultramar, mediante proposta dos Governos-Gerais.
+Art. 79.º - 1. A transição dos subdirectores e pessoal técnico superior será feita pelo Ministro do Ultramar, mediante proposta dos Governos-Gerais.
 
 2. Os actuais chefes de departamento transitam, sem mais formalidades, incluindo as de visto e posse, para igual número de lugares de investigador.
 
@@ -642,11 +652,11 @@ b) Prémio Ayres Kopke - para trabalhos relacionados com a saúde pública em An
 
 4. O actual director, de nomeação interina, do Instituto de Investigação Médica de Angola transita, sem mais formalidades, incluindo as de visto e posse, para o lugar de subdirector do Instituto Provincial de Saúde Pública de Angola.
 
-###### Art. 80.º A entrada em funcionamento das diversas secções dos departamentos especializados será feita progressivamente, de acordo com as necessidades que forem surgindo e com as possibilidades de provimento do respectivo pessoal.
+Art. 80.º A entrada em funcionamento das diversas secções dos departamentos especializados será feita progressivamente, de acordo com as necessidades que forem surgindo e com as possibilidades de provimento do respectivo pessoal.
 
-###### Art. 81.º O pessoal técnico superior e médio dos Institutos poderá ser autorizado a prestar a colaboração que lhe for solicitada pelas Direcções Provinciais dos Serviços de Saúde e Assistência e pelas Universidades de Luanda e Lourenço Marques, sem prejuízo das funções a seu cargo.
+Art. 81.º O pessoal técnico superior e médio dos Institutos poderá ser autorizado a prestar a colaboração que lhe for solicitada pelas Direcções Provinciais dos Serviços de Saúde e Assistência e pelas Universidades de Luanda e Lourenço Marques, sem prejuízo das funções a seu cargo.
 
-###### Art. 82.º - 1. O pessoal dos Institutos, quando em exercício nas províncias, tem direito, além do vencimento e abono de família, a uma gratificação mensal por ocupação exclusiva, escalonada como segue:
+Art. 82.º - 1. O pessoal dos Institutos, quando em exercício nas províncias, tem direito, além do vencimento e abono de família, a uma gratificação mensal por ocupação exclusiva, escalonada como segue:
 
 Para os grupos C a F ... 6000$00
 
@@ -660,24 +670,24 @@ Para o grupo V ... 700$00
 
 2. O mesmo pessoal terá direito aos demais abonos que estiverem em vigor para os funcionários das respectivas províncias.
 
-###### Art. 83.º As gratificações e demais abonos referidos no artigo anterior são acumuláveis.
+Art. 83.º As gratificações e demais abonos referidos no artigo anterior são acumuláveis.
 
-###### Art. 84.º É revogada toda a legislação em contrário e designadamente os Decretos n.os 41536, de 24 de Fevereiro de 1958, e 46933, de 31 de Março de 1966, e os artigos 10.º, 11.º, 13.º e 14.º do [Decreto n.º 40078](https://diariodarepublica.pt/dr/detalhe/decreto/40078-1955-541460), de 7 de Março de 1955.
+Art. 84.º É revogada toda a legislação em contrário e designadamente os Decretos n.os 41536, de 24 de Fevereiro de 1958, e 46933, de 31 de Março de 1966, e os artigos 10.º, 11.º, 13.º e 14.º do [Decreto n.º 40078](https://diariodarepublica.pt/dr/detalhe/decreto/40078-1955-541460), de 7 de Março de 1955.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Outubro de 1970.**
+Promulgado em 10 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/25100/16041612.pdf))](https://files.diariodarepublica.pt/1s/1970/10/25100/16041612.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/25100/16041612.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

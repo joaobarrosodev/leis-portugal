@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 44/1968, 1º Suplemento, Série I de 1968-02-21
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 282 - 285
   pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04401/02820285.pdf
 entry_into_force_dates: []
@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48257-1968-143551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfdbb777e5814d4a6840934061207488c649d582c0865b004bfdd0504abd7535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a09a07db074df625b328032729711b051bb424cb17543f248289dd028d55a591
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Definição de Competências
+- Direcção Geral da Marinha
+- Embarcação
+- Fiscalização
+- Londres
+- Navegação Marítima
+- OMI
+- Pessoal do MAR
+- Salvaguarda da VIDA Humana no MAR
+- Segurança Marítima
+- Segurança no Trabalho
+relationships:
+- type: cites
+  target: pt:dre:645899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677996:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:28Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +110,19 @@ Considerando que se torna necessário generalizar, na medida do razoável, as di
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º São integradas em direito interno, em toda a área do território nacional, as disposições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar que constituem o Anexo A à Acta Final da Conferência de Londres de 1960 e revogadas as disposições legais que colidam com as da referida Convenção.
+Artigo 1.º São integradas em direito interno, em toda a área do território nacional, as disposições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar que constituem o Anexo A à Acta Final da Conferência de Londres de 1960 e revogadas as disposições legais que colidam com as da referida Convenção.
 
 § único. Os Ministérios da Marinha e do Ultramar actualizarão ou modificarão os regulamentos sobre segurança da navegação onde se tornar necessário para perfeita execução da Convenção ou publicarão, se necessário, novos regulamentos com idêntico fim.
 
-###### Art. 2.º As alterações a que se refere o artigo IX da Convenção serão tornadas públicas por aviso do Ministério dos Negócios Estrangeiros a publicar no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas.
+Art. 2.º As alterações a que se refere o artigo IX da Convenção serão tornadas públicas por aviso do Ministério dos Negócios Estrangeiros a publicar no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas.
 
 § único. Às alterações a que se refere o presente artigo são aplicáveis as disposições contidas no artigo anterior e seu § único.
 
-###### Art. 3.º Para execução do presente diploma e em relação a navios estrangeiros serão publicados, no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas, os nomes dos países vinculados ao mesmo regime plurilateral, por terem ratificado ou aderido à Convenção e os nomes dos que deixem de estar vinculados à mesma, por a terem denunciado nos termos do seu artigo XII.
+Art. 3.º Para execução do presente diploma e em relação a navios estrangeiros serão publicados, no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas, os nomes dos países vinculados ao mesmo regime plurilateral, por terem ratificado ou aderido à Convenção e os nomes dos que deixem de estar vinculados à mesma, por a terem denunciado nos termos do seu artigo XII.
 
 Definições
 
-###### Art. 4.º As definições que passam a servir de referência nas disposições legais sobre segurança da navegação são as seguintes:
+Art. 4.º As definições que passam a servir de referência nas disposições legais sobre segurança da navegação são as seguintes:
 
 a) «Passageiro» é toda a pessoa a bordo que não seja:
 
@@ -124,11 +144,11 @@ e) «Navio de pesca» é o navio usado para a captura de peixe, baleias, focas, 
 
 f) «Navio nuclear» é o navio provido de uma fonte de energia nuclear.
 
-###### Art. 5.º Qualquer referência à «Convenção» deve entender-se referência à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960.
+Art. 5.º Qualquer referência à «Convenção» deve entender-se referência à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960.
 
 Aplicação da Convenção
 
-###### Art. 6.º As regras da Convenção aplicam-se:
+Art. 6.º As regras da Convenção aplicam-se:
 
 a) Aos navios portugueses de comércio, com excepção dos de carga de menos de 500 t de arqueação bruta, sem prejuízo do disposto na regra 4 do capitulo IV da Convenção, relativamente a radiotelefonia;
 
@@ -136,13 +156,13 @@ b) Aos navios estrangeiros que efectuem viagens internacionais, não sejam de ne
 
 § único. Aos navios de comércio que, no continente e ilhas adjacentes, só façam viagens de navegação costeira nacional e, nas províncias ultramarinas, viagens exclusivamente entre portos dentro de cada província poderão, caso por caso, ser concedidas certas dispensas na aplicação das regras.
 
-###### Art. 7.º Os navios portugueses de comércio a que se refere a alínea a) do artigo 6.º cuja quilha tenha sido assente em 14 de Setembro de 1966 ou posteriormente a esta data devem satisfazer a todos os preceitos da Convenção.
+Art. 7.º Os navios portugueses de comércio a que se refere a alínea a) do artigo 6.º cuja quilha tenha sido assente em 14 de Setembro de 1966 ou posteriormente a esta data devem satisfazer a todos os preceitos da Convenção.
 
-###### Art. 8.º Os navios portugueses de comércio a que se refere a alínea a) do artigo 6.º cuja quilha tenha sido assente anteriormente a 14 de Setembro de 1966 devem, na medida em que for possível e razoável, dar satisfação às disposições da Convenção.
+Art. 8.º Os navios portugueses de comércio a que se refere a alínea a) do artigo 6.º cuja quilha tenha sido assente anteriormente a 14 de Setembro de 1966 devem, na medida em que for possível e razoável, dar satisfação às disposições da Convenção.
 
 § único. A Direcção-Geral da Marinha decidirá, caso por caso, as modificações ou adaptações a realizar, dentro do prudente arbítrio que resulta da orientação consignada na alínea ii) do parágrafo a) da regra 1 do capitulo II (Construção) e no parágrafo b) da regra 1 do capitulo III (Meios de salvação) e da regra 15 d) do capítulo IV (Instalações radiotelegráficas) da Convenção ou em conformidade com disposições que venham a ser aprovadas internacionalmente para navios existentes.
 
-###### Art. 9.º As regras da Convenção, excepto quando esteja expressamente indicado de forma diferente, não se aplicam a:
+Art. 9.º As regras da Convenção, excepto quando esteja expressamente indicado de forma diferente, não se aplicam a:
 
 a) Navios de guerra e de transporte de tropas;
 
@@ -158,27 +178,27 @@ f) Navios de pesca.
 
 Administração dos serviços da Convenção
 
-###### Art. 10.º A administração dos serviços da Convenção compete à Direcção-Geral da Marinha, do Ministério da Marinha.
+Art. 10.º A administração dos serviços da Convenção compete à Direcção-Geral da Marinha, do Ministério da Marinha.
 
 § único. Em relação às províncias ultramarinas e em condições a acordar entre os Ministérios da Marinha e do Ultramar, poderá a Direcção-Geral da Marinha delegar as suas atribuições de administração da Convenção nas direcções provinciais e repartições dos serviços de Marinha.
 
-###### Art. 11.º Para o desembaraço dos navios nacionais a que se refere a alínea a) do artigo 6.º será necessária a apresentação à autoridade marítima de certificados válidos da Convenção, além de outra documentação exigida pela legislação em vigor.
+Art. 11.º Para o desembaraço dos navios nacionais a que se refere a alínea a) do artigo 6.º será necessária a apresentação à autoridade marítima de certificados válidos da Convenção, além de outra documentação exigida pela legislação em vigor.
 
 § 1.º Os certificados portugueses da Convenção serão de acordo com os modelos publicados em anexo ao presente diploma.
 
 § 2.º Todos os certificados da Convenção deverão ser afixados em local de bordo bem visível e acessível.
 
-###### Art. 12.º No sentido de evitar duplicação das inspecções aos navios, salvos casos especiais justificados em motivos ponderosos, fica dispensado o certificado de navegabilidade, a que se refere o [Decreto n.º 15372](https://diariodarepublica.pt/dr/detalhe/decreto/15372-1928-645899), de 9 de Abril de 1928, aos navios de passageiros providos de certificado de segurança de navio de passageiros. Este certificado substitui para todos os efeitos o certificado de navegabilidade.
+Art. 12.º No sentido de evitar duplicação das inspecções aos navios, salvos casos especiais justificados em motivos ponderosos, fica dispensado o certificado de navegabilidade, a que se refere o [Decreto n.º 15372](https://diariodarepublica.pt/dr/detalhe/decreto/15372-1928-645899), de 9 de Abril de 1928, aos navios de passageiros providos de certificado de segurança de navio de passageiros. Este certificado substitui para todos os efeitos o certificado de navegabilidade.
 
 § único. Para os navios de carga da Convenção mantém-se o certificado de navegabilidade, por ser de periodicidade mais limitada que a de alguns dos da Convenção, mas, nos anos em que for emitido novo certificado de segurança de construção ou novo certificado de segurança do equipamento, não será necessária vistoria aos pontos cobertos por esses certificados, para emissão do certificando de navegabilidade.
 
-###### Art. 13.º Pelos serviços da Convenção feitos a navios nacionais ou estrangeiros e pelas aprovações de materiais e equipamentos nela previstas são devidos emolumentos segundo tabela que terá como referência emolumentos idênticos aplicados em países vinculados à Convenção e que será publicada em portaria ministerial.
+Art. 13.º Pelos serviços da Convenção feitos a navios nacionais ou estrangeiros e pelas aprovações de materiais e equipamentos nela previstas são devidos emolumentos segundo tabela que terá como referência emolumentos idênticos aplicados em países vinculados à Convenção e que será publicada em portaria ministerial.
 
 § único. Até à data da publicação da portaria referida no corpo do artigo vigorará, para os serviços da Convenção, a tabela da [Portaria n.º 15072](https://diariodarepublica.pt/dr/detalhe/portaria/15072-1954-677996), de 12 de Outubro de 1954.
 
 A) Regime aplicável ao continente e ilhas adjacentes
 
-###### Art. 14.º Os navios de passageiros que satisfaçam às disposições da Convenção recebem certificado de segurança de navio de passageiros, passado pela Direcção-Geral da Marinha, com fundamento em:
+Art. 14.º Os navios de passageiros que satisfaçam às disposições da Convenção recebem certificado de segurança de navio de passageiros, passado pela Direcção-Geral da Marinha, com fundamento em:
 
 a) Relatório da Repartição Técnica da Direcção da Marinha Mercante sobre os meios de salvação;
 
@@ -194,7 +214,7 @@ f) Relatório da capitania do porto sobre o casco e aparelho motor.
 
 § único. O prazo de validade do certificado de segurança de navio de passageiros não será superior a doze meses.
 
-###### Art. 15.º Os navios de carga que satisfaçam às disposições da Convenção recebem: certificado de segurança de construção de navio de carga, certificado de segurança do equipamento de navio de carga, certificado de segurança da radiotelegrafia de navio de carga ou certificado de segurança da radiotelefonia de navio de carga.
+Art. 15.º Os navios de carga que satisfaçam às disposições da Convenção recebem: certificado de segurança de construção de navio de carga, certificado de segurança do equipamento de navio de carga, certificado de segurança da radiotelegrafia de navio de carga ou certificado de segurança da radiotelefonia de navio de carga.
 
 § 1.º O certificado de segurança de construção de navio de carga será passado pela Direcção-Geral da Marinha, com fundamento em:
 
@@ -218,11 +238,11 @@ c) Relatório do Instituto Hidrográfico sobre as luzes de navegação e sinais 
 
 § 4.º O prazo de validade do certificado de segurança de construção de navio de carga não pode ser superior a 60 meses; o prazo de validade do certificado de segurança do equipamento do navio de carga não pode ser superior a 24 meses; o prazo de validade do certificado de segurança da radiotelegrafia de navio de carga e o do certificado de segurança da radiotelefonia de navio de carga não pode ser superior a 12 meses.
 
-###### Art. 16.º Os navios nucleares, de passageiros ou de carga, que satisfaçam às disposições da Convenção recebem, respectivamente, certificado de segurança de navio nuclear de passageiros ou certificado de segurança de navio nuclear de carga, passados pela Direcção-Geral da Marinha, com fundamento nos relatórios indicados, respectivamente, nos artigos 14.º e 15.º, e no de entidade oficial especializada em assuntos de energia nuclear.
+Art. 16.º Os navios nucleares, de passageiros ou de carga, que satisfaçam às disposições da Convenção recebem, respectivamente, certificado de segurança de navio nuclear de passageiros ou certificado de segurança de navio nuclear de carga, passados pela Direcção-Geral da Marinha, com fundamento nos relatórios indicados, respectivamente, nos artigos 14.º e 15.º, e no de entidade oficial especializada em assuntos de energia nuclear.
 
 § único. O prazo de validade do certificado de segurança de navio nuclear de passageiros e o do certificado de segurança de navio nuclear de carga não será superior a doze meses.
 
-###### Art. 17.º Quando for concedida uma dispensa a um navio, em aplicação e em conformidade com as prescrições da Convenção, será passado certificado de dispensa, com fundamento em relatório adequado.
+Art. 17.º Quando for concedida uma dispensa a um navio, em aplicação e em conformidade com as prescrições da Convenção, será passado certificado de dispensa, com fundamento em relatório adequado.
 
 § 1.º No certificado de dispensa devem ser especificadas as regras, indicadas no relatório, que justificam o mesmo certificado.
 
@@ -230,15 +250,15 @@ c) Relatório do Instituto Hidrográfico sobre as luzes de navegação e sinais 
 
 § 3.º O certificado de segurança que afirme o navio só satisfazer parcialmente a determinadas prescrições da Convenção não terá efeitos se não for acompanhado de certificado de dispensa.
 
-###### Art. 18.º Sempre que ocorra um acidente ou se descubra um defeito que ponha em risco a segurança do navio ou a completa eficiência dos meios de salvação ou de outros equipamentos, ou quando se efectuem importantes reparações ou renovações, deve considerar-se que o respectivo ou respectivos certificados da Convenção perdem a sua validade, só a retomando quando, mediante vistoria, se verificar que as deficiências foram corrigidas ou o navio mantém as devidas condições de segurança.
+Art. 18.º Sempre que ocorra um acidente ou se descubra um defeito que ponha em risco a segurança do navio ou a completa eficiência dos meios de salvação ou de outros equipamentos, ou quando se efectuem importantes reparações ou renovações, deve considerar-se que o respectivo ou respectivos certificados da Convenção perdem a sua validade, só a retomando quando, mediante vistoria, se verificar que as deficiências foram corrigidas ou o navio mantém as devidas condições de segurança.
 
-###### Art. 19.º Um certificado que não tenha sido prorrogado de acordo com as disposições do artigo 22.º pode ser prorrogado pela Administração por um período de graça que não exceda um mês além da data de expiração de validade nele indicada.
+Art. 19.º Um certificado que não tenha sido prorrogado de acordo com as disposições do artigo 22.º pode ser prorrogado pela Administração por um período de graça que não exceda um mês além da data de expiração de validade nele indicada.
 
 B) Regime aplicável às províncias ultramarinas
 
-###### Art. 20.º As entidades ou os peritos que, nas províncias ultramarinas, desempenham, em relação à Convenção e nos termos do § único do artigo 10.º, as funções do Instituto Hidrográfico, da Direcção do Serviço de Electricidade e Comunicações e da Repartição Técnica da Direcção da Marinha Mercante serão definidos em diploma a publicar pelo Governo da respectiva província ultramarina.
+Art. 20.º As entidades ou os peritos que, nas províncias ultramarinas, desempenham, em relação à Convenção e nos termos do § único do artigo 10.º, as funções do Instituto Hidrográfico, da Direcção do Serviço de Electricidade e Comunicações e da Repartição Técnica da Direcção da Marinha Mercante serão definidos em diploma a publicar pelo Governo da respectiva província ultramarina.
 
-###### Art. 21.º A tabela de emolumentos referida no artigo 13.º, a vigorar nas províncias ultramarinas, será aprovada por portaria do Ministro do Ultramar.
+Art. 21.º A tabela de emolumentos referida no artigo 13.º, a vigorar nas províncias ultramarinas, será aprovada por portaria do Ministro do Ultramar.
 
 § único. Até à data da portaria referida no corpo do artigo vigorará a tabela da [Portaria n.º 15072](https://diariodarepublica.pt/dr/detalhe/portaria/15072-1954-677996), com as alterações resultantes das delegações a que se refere o artigo 20.º, no que respeita às entidades e peritos que subscrevem os relatórios.
 
@@ -246,27 +266,27 @@ Relações internacionais
 
 A) Navios portugueses da Convenção em portos estrangeiros
 
-###### Art. 22.º Quando um navio português se encontre ou se encaminhe para porto estrangeiro quando expirar o prazo de um seu certificado da Convenção, poderá a Administração autorizar a prorrogação da validade do referido certificado por prazo não superior a cinco meses, mas tal prorrogação só pode ser concedida com o fim de permitir que o navio complete a sua viagem para porto nacional ou onde deva ser vistoriado, e isto sòmente quando tal medida se afigure oportuna e razoável.
+Art. 22.º Quando um navio português se encontre ou se encaminhe para porto estrangeiro quando expirar o prazo de um seu certificado da Convenção, poderá a Administração autorizar a prorrogação da validade do referido certificado por prazo não superior a cinco meses, mas tal prorrogação só pode ser concedida com o fim de permitir que o navio complete a sua viagem para porto nacional ou onde deva ser vistoriado, e isto sòmente quando tal medida se afigure oportuna e razoável.
 
-###### Art. 23.º No caso de navios portugueses que, por exigências do serviço em que se ocupam, não toquem normalmente em portos nacionais, poderão os respectivos capitães formular, sempre que o necessitem, petição a consulado de Portugal em país da Convenção, a fim de, pelas autoridades locais, serem efectuadas as vistorias e concedidos os certificados, nos termos estabelecidos na Convenção.
+Art. 23.º No caso de navios portugueses que, por exigências do serviço em que se ocupam, não toquem normalmente em portos nacionais, poderão os respectivos capitães formular, sempre que o necessitem, petição a consulado de Portugal em país da Convenção, a fim de, pelas autoridades locais, serem efectuadas as vistorias e concedidos os certificados, nos termos estabelecidos na Convenção.
 
 § único. Os certificados obtidos pela forma indicada, contendo a declaração de terem sido passados a pedido do Governo Português, terão a mesma força como se tivessem sido passados pela Direcção-Geral da Marinha.
 
 B) Navios estrangeiros da Convenção em portos nacionais
 
-###### Art. 24.º O desembaraço, em portos portugueses, de navio estrangeiro da Convenção dependerá da apresentação à autoridade marítima dos respectivos certificados válidos.
+Art. 24.º O desembaraço, em portos portugueses, de navio estrangeiro da Convenção dependerá da apresentação à autoridade marítima dos respectivos certificados válidos.
 
 § 1.º Certificados de acordo com a Convenção de 1948 emitidos em data anterior à da entrada em vigor da Convenção de 1960 no respectivo país deverão ser aceites como válidos.
 
 § 2.º Dos certificados da Convenção, o de segurança de construção de navio de carga será apenas exigível a partir de dois anos contados da data da entrada em vigor da Convenção no país respectivo.
 
-###### Art. 25.º Não serão, em princípio, necessárias vistorias, em navio estrangeiro da Convenção provido de certificados em vigor, sobre o cumprimento das disposições da Convenção, a coberto dos mesmos certificados, a não ser que a autoridade marítima tenha motivos ponderosos para supor que as condições de segurança não correspondem às expressas nos certificados, caso em que ela deverá então submeter o assunto, para resolução, à Direcção-Geral da Marinha, ou entidades que, nos termos do § único do artigo 10.º, para tal daquela tenham obtido delegação.
+Art. 25.º Não serão, em princípio, necessárias vistorias, em navio estrangeiro da Convenção provido de certificados em vigor, sobre o cumprimento das disposições da Convenção, a coberto dos mesmos certificados, a não ser que a autoridade marítima tenha motivos ponderosos para supor que as condições de segurança não correspondem às expressas nos certificados, caso em que ela deverá então submeter o assunto, para resolução, à Direcção-Geral da Marinha, ou entidades que, nos termos do § único do artigo 10.º, para tal daquela tenham obtido delegação.
 
-###### Art. 26.º Se o certificado de segurança passado por Governo de país da Convenção a respeito de navios de passageiros contiver apostila assinada por autoridade do país em que o navio está registado que modifique, para determinada viagem, em virtude do número de passageiros transportados nessa viagem, as indicações do certificado de segurança respeitantes a meios de salvação, tal certificado terá, para aquela viagem, o mesmo efeito como se tivesse sido passado em harmonia com a referida apostila.
+Art. 26.º Se o certificado de segurança passado por Governo de país da Convenção a respeito de navios de passageiros contiver apostila assinada por autoridade do país em que o navio está registado que modifique, para determinada viagem, em virtude do número de passageiros transportados nessa viagem, as indicações do certificado de segurança respeitantes a meios de salvação, tal certificado terá, para aquela viagem, o mesmo efeito como se tivesse sido passado em harmonia com a referida apostila.
 
-###### Art. 27.º A pedido de Governo de país da Convenção, a Direcção-Geral da Marinha ou as entidades que, nos termos do § único do artigo 10.º, para tal dela tenham obtido delegação, podem passar qualquer dos certificados da Convenção a favor de navio registado nesse país, desde que, dentro da forma de processo estabelecida para navio nacional, se conclua o dito navio satisfazer aos preceitos da Convenção a favor de navio registado nesse país, desde ração de ter sido passado a pedido do referido Governo.
+Art. 27.º A pedido de Governo de país da Convenção, a Direcção-Geral da Marinha ou as entidades que, nos termos do § único do artigo 10.º, para tal dela tenham obtido delegação, podem passar qualquer dos certificados da Convenção a favor de navio registado nesse país, desde que, dentro da forma de processo estabelecida para navio nacional, se conclua o dito navio satisfazer aos preceitos da Convenção a favor de navio registado nesse país, desde ração de ter sido passado a pedido do referido Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

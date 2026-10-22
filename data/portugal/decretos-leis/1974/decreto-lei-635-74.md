@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27000/14031403.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/635-1974-466056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6532cc79e3551c5a35a87b17d4334daa87c55283f2425a155b0741ba8024d19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd499b69b3ce89e7743e9624b069344a9abe6979c99d02448da8745145075e11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Direção
+- Exoneração
+- Instituto de Altos Estudos de Defesa Nacional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:181629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:401543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474321:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181629:por
+  label: "Revogado pelo DEC LEI.550-D/76.12.07.1976.CR, DR.IS [161]Supl de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-d-1976-181629
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:50Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +118,20 @@ Ponderando, finalmente, que o Estado-Maior-General das Forças Armadas, sucessor
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam suspensos sine die os cursos, ciclos de estudos e todas as demais actividades do Instituto de Altos Estudos de Defesa Nacional.
+Artigo 1.º Ficam suspensos sine die os cursos, ciclos de estudos e todas as demais actividades do Instituto de Altos Estudos de Defesa Nacional.
 
-###### Art. 2.º Os membros do Conselho de Direcção, militares e civis, bem como os assessores do director e do director de estudos, são exonerados das suas funções no Instituto de Altos Estudos de Defesa Nacional.
+Art. 2.º Os membros do Conselho de Direcção, militares e civis, bem como os assessores do director e do director de estudos, são exonerados das suas funções no Instituto de Altos Estudos de Defesa Nacional.
 
-###### Art. 3.º O pessoal menor e de secretaria, contratado ou assalariado, do quadro ou eventual, actualmente em serviço no Instituto de Altos Estudos de Defesa Nacional considera-se a partir da presente data apresentado no Estado-Maior-General das Forças Armadas, sem prejuízo algum para a sua situação e direitos adquiridos.
+Art. 3.º O pessoal menor e de secretaria, contratado ou assalariado, do quadro ou eventual, actualmente em serviço no Instituto de Altos Estudos de Defesa Nacional considera-se a partir da presente data apresentado no Estado-Maior-General das Forças Armadas, sem prejuízo algum para a sua situação e direitos adquiridos.
 
-###### Art. 4.º As instalações até esta data ocupadas pelo Instituto de Altos Estudos de Defesa Nacional ficam afectas aos serviços do Estado-Maior-General das Forças Armadas.
+Art. 4.º As instalações até esta data ocupadas pelo Instituto de Altos Estudos de Defesa Nacional ficam afectas aos serviços do Estado-Maior-General das Forças Armadas.
 
-###### Art. 5.º As dúvidas e casos omissos surgidos na aplicação do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 5.º As dúvidas e casos omissos surgidos na aplicação do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior-General das Forças Armadas.
 
 Visto e aprovado pelo Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 21 de Outubro de 1974.**
+Promulgado em 21 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

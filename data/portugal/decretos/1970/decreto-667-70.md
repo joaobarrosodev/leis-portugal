@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/667-1970-154583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5603e6159d8a80132866988cef667ee27b0e1901e26b983ae2699abcd872f03e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0224d18fe106d4bc63453af6dae7bff14eed80ce2cb4ca032965411cf9d3ebdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Comercial
+- Ensino Industrial
+- Ministério da Educação Nacional
+- Ministério das Comunicações
+- Ministério do Interior
+- Ministério dos Negócios Estrangeiros
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:142555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:12Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +116,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério dos Negócios Estrangeiros:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério dos Negócios Estrangeiros:
 
 No capítulo 5.º:
 
@@ -97,17 +124,17 @@ Do artigo 37.º, n.º 2) «Publicidade ...» -250000$00
 
 Para o artigo 38.º, n.º 3), alínea 2 «Despesas com a Delegação Portuguesa junto da Organização do Tratado do Atlântico Norte (DELNATO)» +250000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 495570$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 495570$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços externos do Ministério»:
+Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços externos do Ministério»:
 
-###### Artigo 38.º, n.º 3), alínea 2 «Despesas com a Delegação Portuguesa junto da Organização do Tratado do Atlântico Norte (DELNATO)» 200000$00
+Artigo 38.º, n.º 3), alínea 2 «Despesas com a Delegação Portuguesa junto da Organização do Tratado do Atlântico Norte (DELNATO)» 200000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
 
 Ensino Industrial e comercial
 
@@ -115,7 +142,7 @@ Escolas técnicas, industriais, comerciais e industriais-comerciais
 
 Escola Industrial e Comercial de Peniche
 
-###### Artigo 859.º «Material de consumo corrente»:
+Artigo 859.º «Material de consumo corrente»:
 
 N.º 2) «Impressos» 7750$00
 
@@ -125,31 +152,31 @@ N.º 3) «Artigos de expediente ...» 5500$00
 
 Ministério das Comunicações
 
-### Capítulo 3.º «Direcção-Geral de Transportes Terrestres»:
+Capítulo 3.º «Direcção-Geral de Transportes Terrestres»:
 
-###### Artigo 39.º «Outros encargos»:
+Artigo 39.º «Outros encargos»:
 
 N.º 4) «Despesas terminais resultantes do [Decreto-Lei n.º 265/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1970-142555), de 12 de Junho, que extinguiu a Polícia de Viação e Trânsito» 282320$00
 
 ... 495570$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério do Interior
 
-### Capítulo 7.º, artigo 95.º, n.º 3) 282320$00
+Capítulo 7.º, artigo 95.º, n.º 3) 282320$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 2.º, artigo 7.º, n.º 3), alínea 2 80000$00
+Capítulo 2.º, artigo 7.º, n.º 3), alínea 2 80000$00
 
-### Capítulo 2.º, artigo 8.º, n.º 2) 120000$00
+Capítulo 2.º, artigo 8.º, n.º 2) 120000$00
 
 ... 200000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º, artigo 854.º, n.º 1) 13250$00
+Capítulo 5.º, artigo 854.º, n.º 1) 13250$00
 
 ... 495570$00
 
@@ -157,8 +184,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

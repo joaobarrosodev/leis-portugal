@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10000/07810782.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1979-382984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e9dba2d90052e7726809c665e9c98b6278a29cad476f89315519ce3f876157e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0f87522c7c9583ea7ca22cbb411d05a08e7556ebde77bb7ec848d181c567bee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:417646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:417646:por
+  label: "Revogado pelo DEC LEI.311/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1987-417646
+  date: '1987-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:19Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +104,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a instalação de campos de treino para caçadores, destinados à prática, durante todo o ano, de actividades de carácter venatório, nomeadamente o exercício de tiro e o treino de cães de caça.
+Artigo 1.º É autorizada a instalação de campos de treino para caçadores, destinados à prática, durante todo o ano, de actividades de carácter venatório, nomeadamente o exercício de tiro e o treino de cães de caça.
 
-###### Art. 2.º - 1 - A instalação referida no artigo anterior será proposta pelas comissões venatórias à Direcção-Geral do Ordenamento e Gestão Florestal, para efeito de autorização e aprovação dos regulamentos das suas actividades.
+Art. 2.º - 1 - A instalação referida no artigo anterior será proposta pelas comissões venatórias à Direcção-Geral do Ordenamento e Gestão Florestal, para efeito de autorização e aprovação dos regulamentos das suas actividades.
 
 2 - A instalação antes referida poderá igualmente ser proposta por clubes de caçadores, ouvidas as comissões venatórias respectivas.
 
 3 - A autorização será sempre tornada pública por edital, a afixar na sede do concelho da sua localização.
 
-###### Art. 3.º - 1 - O Secretário de Estado do Fomento Agrário, em portaria, definirá os modelos de sinais e tabuletas a usar na delimitação dos referidos campos de treino.
+Art. 3.º - 1 - O Secretário de Estado do Fomento Agrário, em portaria, definirá os modelos de sinais e tabuletas a usar na delimitação dos referidos campos de treino.
 
 2 - Os sinais e tabuletas a utilizar na definição das áreas dos campos de treino serão colocados na linha perimetral do campo, em postes, à altura mínima de 1,50 m do solo, tendo os sinais um espaçamento máximo de 100 m e as tabuletas 1000 m.
 
@@ -114,16 +120,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Quando no mesmo poste forem colocados um sinal e uma tabuleta, esta será posta por cima do sinal.
 
-###### Art. 4.º Os campos de treino não poderão ter uma área superior a 15 ha e a sua instalação não será permitida quando se reconheça que deles resulta prejuízo para a criação natural de espécies cinegéticas ou de outras espécies animais ou culturas.
+Art. 4.º Os campos de treino não poderão ter uma área superior a 15 ha e a sua instalação não será permitida quando se reconheça que deles resulta prejuízo para a criação natural de espécies cinegéticas ou de outras espécies animais ou culturas.
 
-###### Art. 5.º Durante os treinos poderão também ser largados e abatidos exemplares de espécies cinegéticas criadas em cativeiro.
+Art. 5.º Durante os treinos poderão também ser largados e abatidos exemplares de espécies cinegéticas criadas em cativeiro.
 
-###### Art. 6.º O Secretário de Estado do Fomento Agrário, ouvida a Direcção-Geral do Ordenamento e Gestão Florestal, poderá anular a autorização concedida, ou suspender a realização das actividades a que se refere o artigo 1.º, quando o entender necessário, ou sempre que não forem respeitadas as disposições deste diploma ou do regulamento previsto no artigo 2.º
+Art. 6.º O Secretário de Estado do Fomento Agrário, ouvida a Direcção-Geral do Ordenamento e Gestão Florestal, poderá anular a autorização concedida, ou suspender a realização das actividades a que se refere o artigo 1.º, quando o entender necessário, ou sempre que não forem respeitadas as disposições deste diploma ou do regulamento previsto no artigo 2.º
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 16 de Abril de 1979.**
+Promulgado em 16 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente de República, ANTÓNIO RAMALHO EANES.**
+O Presidente de República, ANTÓNIO RAMALHO EANES.

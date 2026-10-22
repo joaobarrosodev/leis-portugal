@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29400/33473349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1981-566992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17595adb72b3fe0d6cc59b32db81eb1a184eee1e9ffc674d0b016fd777cd82a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac8046afe9842de4a12606d2439d01c6c41255d8bf777570833902928ac64955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Equipamento Social
+- Jardim de Infância
+- Lares
+- Licenciamento
 relationships:
 - type: amended_by
   target: pt:dre:610898:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:264897:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:610898:por
+  label: "Revogado pelo DEC LEI.30/89.24.01.1989.MESS, DR.IS [20] de 24.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1989-610898
+  date: '1989-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:06Z'
   warnings: []
   errors: []
 ---
@@ -110,66 +124,66 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os estabelecimentos com fins lucrativos que se destinem a receber crianças ou jovens ou a recolher pessoas idosas ou diminuídas, bem como as actividades com fins lucrativos de apoio social ou educativo a crianças ou jovens e de apoio social a pessoas idosas ou diminuídas, que neste diploma se designarão, abreviadamente, por «estabelecimentos», estão sujeitos à fiscalização por parte do Ministério dos Assuntos Sociais no que se refere às condições de instalação e funcionamento, nos termos do presente diploma.
+Artigo 1.º - 1 - Os estabelecimentos com fins lucrativos que se destinem a receber crianças ou jovens ou a recolher pessoas idosas ou diminuídas, bem como as actividades com fins lucrativos de apoio social ou educativo a crianças ou jovens e de apoio social a pessoas idosas ou diminuídas, que neste diploma se designarão, abreviadamente, por «estabelecimentos», estão sujeitos à fiscalização por parte do Ministério dos Assuntos Sociais no que se refere às condições de instalação e funcionamento, nos termos do presente diploma.
 
 2 - Excluem-se do disposto no número anterior os estabelecimentos destinados a crianças e jovens cujo licenciamento seja da competência do Ministério da Educação e das Universidades.
 
-###### Art. 2.º - 1 - O licenciamento dos estabelecimentos referidos no artigo anterior carece de alvará, passado pelo centro regional de segurança social em cuja área se localize o estabelecimento, donde constarão a identificação do proprietário, a indicação da actividade prosseguida, a localização do estabelecimento, sua denominação e lotação máxima autorizada.
+Art. 2.º - 1 - O licenciamento dos estabelecimentos referidos no artigo anterior carece de alvará, passado pelo centro regional de segurança social em cuja área se localize o estabelecimento, donde constarão a identificação do proprietário, a indicação da actividade prosseguida, a localização do estabelecimento, sua denominação e lotação máxima autorizada.
 
 2 - A alteração de algum dos elementos referidos no número anterior só pode ser autorizada mediante passagem de novo alvará.
 
-###### Art. 3.º O alvará só será passado a requerimento de pessoas de reconhecida idoneidade, e desde que se verifique que se dispõe de instalações adequadas e do pessoal técnico e auxiliar considerado necessário para o seu bom funcionamento.
+Art. 3.º O alvará só será passado a requerimento de pessoas de reconhecida idoneidade, e desde que se verifique que se dispõe de instalações adequadas e do pessoal técnico e auxiliar considerado necessário para o seu bom funcionamento.
 
-###### Art. 4.º A entrada em funcionamento dos edifícios destinados aos estabelecimentos a que se refere este diploma ou a sua alteração ou remodelação dependem de vistoria prévia a efectuar pelo centro regional de segurança social daquela área, o qual verificará, designadamente:
+Art. 4.º A entrada em funcionamento dos edifícios destinados aos estabelecimentos a que se refere este diploma ou a sua alteração ou remodelação dependem de vistoria prévia a efectuar pelo centro regional de segurança social daquela área, o qual verificará, designadamente:
 
 a) A suficiência e qualidade do apetrechamento;
 
 b) Os requisitos de organização interna e do pessoal.
 
-###### Art. 5.º - 1 - Os centros regionais de segurança social proferirão a sua decisão no prazo de 60 dias, a contar da data de recepção do requerimento.
+Art. 5.º - 1 - Os centros regionais de segurança social proferirão a sua decisão no prazo de 60 dias, a contar da data de recepção do requerimento.
 
 2 - Se no prazo a que se refere o artigo anterior não for proferida a decisão, considera-se concedido o alvará, com base nos elementos constantes do requerimento.
 
-###### Art. 6.º - 1 - Poderão os interessados, querendo, requerer aos centros regionais de segurança social um parecer técnico relativo às condições necessárias ao desenvolvimento da actividade pretendida, nomeadamente no que se refere a instalações, pelo qual será devida uma taxa, nos termos do artigo 12.º
+Art. 6.º - 1 - Poderão os interessados, querendo, requerer aos centros regionais de segurança social um parecer técnico relativo às condições necessárias ao desenvolvimento da actividade pretendida, nomeadamente no que se refere a instalações, pelo qual será devida uma taxa, nos termos do artigo 12.º
 
 2 - O disposto no número anterior não dispensa os centros regionais de prestarem aos interessados o máximo de informação e apoio técnico, mesmo no caso de estes não haverem utilizado a faculdade prevista no n.º 1.
 
-###### Art. 7.º As entidades responsáveis pelo exercício das actividades previstas neste diploma deverão prestar todos os esclarecimentos de ordem estatística que lhes forem solicitados pelos serviços competentes do Ministério dos Assuntos Sociais e bem assim facilitar a acção fiscalizadora dos mesmos serviços.
+Art. 7.º As entidades responsáveis pelo exercício das actividades previstas neste diploma deverão prestar todos os esclarecimentos de ordem estatística que lhes forem solicitados pelos serviços competentes do Ministério dos Assuntos Sociais e bem assim facilitar a acção fiscalizadora dos mesmos serviços.
 
-###### Art. 8.º Os estabelecimentos são obrigados a afixar, em lugar bem visível do público, fotocópia autenticada do alvará, o horário de funcionamento do estabelecimento, os horários do pessoal e os preços praticados.
+Art. 8.º Os estabelecimentos são obrigados a afixar, em lugar bem visível do público, fotocópia autenticada do alvará, o horário de funcionamento do estabelecimento, os horários do pessoal e os preços praticados.
 
-###### Art. 9.º - 1 - A falta de cumprimento das disposições relativas ao licenciamento e funcionamento dos estabelecimentos, bem como do disposto no artigo anterior, será punida com coima de 10000$00 a 100000$00, elevada para o dobro em caso de reincidência.
+Art. 9.º - 1 - A falta de cumprimento das disposições relativas ao licenciamento e funcionamento dos estabelecimentos, bem como do disposto no artigo anterior, será punida com coima de 10000$00 a 100000$00, elevada para o dobro em caso de reincidência.
 
 2 - Se, aplicada a coima, não for dado cumprimento às condições estabelecidas dentro do prazo fixado, poderá ser determinado o encerramento temporário ou definitivo do estabelecimento, caducando, no segundo caso, o alvará.
 
 3 - O encerramento poderá ser imediatamente ordenado, sem dependência de prévia aplicação de coima, desde que as condições morais, de salubridade ou de segurança física dos utentes o aconselhem.
 
-###### Art. 10.º - 1 - A aplicação das coimas é da competência do centro regional de segurança social em cuja área se localize o estabelecimento.
+Art. 10.º - 1 - A aplicação das coimas é da competência do centro regional de segurança social em cuja área se localize o estabelecimento.
 
 2 - Se não for efectuado o pagamento voluntário da coima, o centro regional remeterá o processo ao Ministério Público para promover a respectiva execução judicial.
 
-###### Art. 11.º Para efectivação do encerramento dos estabelecimentos podem os centros regionais solicitar a intervenção das autoridades administrativas ou policiais competentes.
+Art. 11.º Para efectivação do encerramento dos estabelecimentos podem os centros regionais solicitar a intervenção das autoridades administrativas ou policiais competentes.
 
-###### Art. 12.º Pelos actos requeridos aos centros regionais de segurança social serão devidas taxas, a fixar por portaria do Ministro dos Assuntos Sociais.
+Art. 12.º Pelos actos requeridos aos centros regionais de segurança social serão devidas taxas, a fixar por portaria do Ministro dos Assuntos Sociais.
 
-###### Art. 13.º - 1 - As entidades proprietárias de estabelecimentos que estejam em funcionamento sem possuírem alvará devem requerê-lo no prazo de 180 dias a contar da data da publicação do presente diploma.
+Art. 13.º - 1 - As entidades proprietárias de estabelecimentos que estejam em funcionamento sem possuírem alvará devem requerê-lo no prazo de 180 dias a contar da data da publicação do presente diploma.
 
 2 - Findo o prazo fixado no número anterior, ficam as referidas entidades sujeitas ao disposto nos artigos 9.º e 10.º do presente diploma.
 
 3 - O prazo para apreciação dos requerimentos apresentados ao abrigo do n.º 1 deste artigo é de 90 dias.
 
-###### Art. 14.º Nos casos em que o funcionamento dos estabelecimentos não licenciados afecte gravemente a segurança moral ou física dos utentes poderá ser determinado o seu encerramento antes de terminado o prazo concedido no n.º 1 do artigo anterior.
+Art. 14.º Nos casos em que o funcionamento dos estabelecimentos não licenciados afecte gravemente a segurança moral ou física dos utentes poderá ser determinado o seu encerramento antes de terminado o prazo concedido no n.º 1 do artigo anterior.
 
-###### Art. 15.º Os estabelecimentos em funcionamento à data da publicação do presente diploma devem adaptar-se, no prazo de 1 ano, às condições nele exigidas e às que forem fixadas nos diplomas regulamentares a que se refere o artigo seguinte.
+Art. 15.º Os estabelecimentos em funcionamento à data da publicação do presente diploma devem adaptar-se, no prazo de 1 ano, às condições nele exigidas e às que forem fixadas nos diplomas regulamentares a que se refere o artigo seguinte.
 
-###### Art. 16.º No prazo de 180 dias a contar da data da publicação deste diploma, o Governo emitirá os regulamentos necessários à sua execução.
+Art. 16.º No prazo de 180 dias a contar da data da publicação deste diploma, o Governo emitirá os regulamentos necessários à sua execução.
 
-###### Art. 17.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+Art. 17.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 3 de Dezembro de 1981.**
+Promulgado em 3 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

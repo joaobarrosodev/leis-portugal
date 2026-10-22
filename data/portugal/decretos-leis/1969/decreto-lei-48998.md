@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48998-1969-201660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aecd759256d8bc4ca4f28413a19ddf57323cc28a1053217afbe88bc68fde74e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e30580606c77a00a306aa58b742dcdfa458629998048aed4de9614c6f3fff2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Toxicologia dos Pesticidas
+- Criação de Serviços
+- Definição de Competências
+- Pesticida
+- Proteção dos Animais
+- Saúde Pública
+- Secretaria de Estado da Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:533822:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392040:por
+  label: "Actualizado, em resultado da nova lei orgânica do MAP, a designação dos organismos referidos no artigo 2.º do presente\
+    \ diploma, pelo DN.11/79.16.01.1979.MAP, DR.IS [13] de 16.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-1979-392040
+  date: '1979-01-16'
+- type: cites
+  target: pt:dre:314398:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533822:por
+  label: "Revogado, no referente a produtos fitofarmacêuticos, pelo DEC LEI.284/94.1994.11.11.MA, DR.IS-A [261]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1994-533822
+  date: '1994-11-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:16Z'
   warnings: []
   errors: []
 ---
@@ -99,42 +121,42 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada, na Secretaria de Estado da Agricultura, a Comissão de Toxicologia dos Pesticidas, á qual incumbe:
+Artigo 1.º É criada, na Secretaria de Estado da Agricultura, a Comissão de Toxicologia dos Pesticidas, á qual incumbe:
 
 a) Propor, para efeito do disposto no artigo 8.º do [Decreto-Lei n.º 47802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47802-1967-314398), de 19 de Julho de 1967, a classificação dos pesticidas do ponto de vista toxicológico e as restrições que seja necessário impor no seu emprego;
 
 b) Pronunciar-se sobre assuntos de ordem sanitária relacionados com o emprego dos pesticidas.
 
-###### Art. 2.º A Comissão de Toxicologia dos Pesticidas é composta por dois vogais representantes de cada uma das Direcções-Gerais de Saúde, dos Serviços Agrícolas, dos Serviços Florestais e Aquícolas e dos Serviços Pecuários, nomeados por portaria assinada pelo Ministro da Saúde e Assistência e pelo Secretário de Estado da Agricultura.
+Art. 2.º A Comissão de Toxicologia dos Pesticidas é composta por dois vogais representantes de cada uma das Direcções-Gerais de Saúde, dos Serviços Agrícolas, dos Serviços Florestais e Aquícolas e dos Serviços Pecuários, nomeados por portaria assinada pelo Ministro da Saúde e Assistência e pelo Secretário de Estado da Agricultura.
 
-###### Art. 3.º - 1. A presidência da Comissão compete, em regime de rotação anual, a cada uma das Direcções-Gerais, que designará qual dos seus representantes deverá assumi-la.
+Art. 3.º - 1. A presidência da Comissão compete, em regime de rotação anual, a cada uma das Direcções-Gerais, que designará qual dos seus representantes deverá assumi-la.
 
 2. O presidente será substituído na sua falta ou impedimento pelo outro representante da Direcção-Geral.
 
-###### Art. 4.º Podem ser convocadas para tomar parte nas sessões pessoas qualificadas que, em razão das funções ou cargos que exerçam ou do interesse que dediquem ao estudo e resolução dos problemas ligados com pesticidas, possam prestar à Comissão uma colaboração útil para a resolução dos problemas a apreciar.
+Art. 4.º Podem ser convocadas para tomar parte nas sessões pessoas qualificadas que, em razão das funções ou cargos que exerçam ou do interesse que dediquem ao estudo e resolução dos problemas ligados com pesticidas, possam prestar à Comissão uma colaboração útil para a resolução dos problemas a apreciar.
 
-###### Art. 5.º A Comissão pode promover a constituição de grupos de trabalho, permanentes ou temporários, para o estudo de problemas sobre os quais tenha de se pronunciar, bem como solicitar a elaboração desses estudos a pessoas com especial competência na matéria.
+Art. 5.º A Comissão pode promover a constituição de grupos de trabalho, permanentes ou temporários, para o estudo de problemas sobre os quais tenha de se pronunciar, bem como solicitar a elaboração desses estudos a pessoas com especial competência na matéria.
 
-###### Art. 6.º - 1. Os relatórios e os pareceres elaborados pelos grupos de trabalho ou pelas pessoas especialmente convidadas ao abrigo do disposto no artigo antecedente serão sempre apreciados pela Comissão.
+Art. 6.º - 1. Os relatórios e os pareceres elaborados pelos grupos de trabalho ou pelas pessoas especialmente convidadas ao abrigo do disposto no artigo antecedente serão sempre apreciados pela Comissão.
 
 2. A Comissão poderá propor superiormente, por intermédio do Laboratório de Fitofarmacologia e com o seu acordo, o pagamento dos relatórios e pareceres a que se refere o número anterior.
 
-###### Art. 7.º As reuniões da Comissão terão lugar em Lisboa, em instalação da Direcção-Geral dos Serviços Agrícolas.
+Art. 7.º As reuniões da Comissão terão lugar em Lisboa, em instalação da Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 8.º - 1. Os vogais têm direito, por cada reunião a que assistam, a uma senha de presença, cuja importância será fixada por despacho conjunto do Ministro da Saúde e Assistência e do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças.
+Art. 8.º - 1. Os vogais têm direito, por cada reunião a que assistam, a uma senha de presença, cuja importância será fixada por despacho conjunto do Ministro da Saúde e Assistência e do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças.
 
 2. O disposto neste artigo é aplicável às pessoas convocadas ao abrigo do artigo 4.º
 
-###### Art. 9.º - 1. A Comissão terá um secretário designado pelo director-geral dos Serviços Agrícolas de entre os funcionários do Laboratório de Fitofarmacologia, que terá direito a senhas de presença nas condições estabelecidas para os vogais no n.º 1 do artigo anterior.
+Art. 9.º - 1. A Comissão terá um secretário designado pelo director-geral dos Serviços Agrícolas de entre os funcionários do Laboratório de Fitofarmacologia, que terá direito a senhas de presença nas condições estabelecidas para os vogais no n.º 1 do artigo anterior.
 
 2. Ao secretário cabe a responsabilidade do expediente de todos os assuntos sujeitos à apreciação da Comissão, que correrá pela secretaria do Laboratório.
 
-###### Art. 10.º Os encargos derivados da execução do disposto neste diploma serão satisfeitos por força do orçamento de receita do Laboratório de Fitofarmacologia.
+Art. 10.º Os encargos derivados da execução do disposto neste diploma serão satisfeitos por força do orçamento de receita do Laboratório de Fitofarmacologia.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Abril de 1969.**
+Promulgado em 30 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 302/1977, 2º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3178-(22) a 3178-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30202/00220027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,171 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5633203b053a6d508beb9ec32f9bfaa9445b1249d869eba18a50981cea64e9f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98b833b2859672692ec5c0dcdd45ffe4f888ca68887dc672a142b30075143bd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Direcção Geral dos Desportos
+- Instituto Nacional de Desportos
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:665345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329029:por
+  label: "Alterado o primeiro período do último parágrafo do preâmbulo, as als. a), c), d) e f) do art. 2º, as als. b) e d)\
+    \ do art. 3º, o art. 5º, o corpo do nº 1 e o nº 2 do art. 6º, os arts 7º, 9º, 10º e 11º , o nº 1 do art. 12º, a al. c)\
+    \ do nº 1 do art. 18º e o art. 30º, aditados os arts. 32º-A e 32º-B, renumerado o (antigo) art. 33º, renumerado com alteração\
+    \ o art. 32º, todos do presente diploma, e republicado pela LEI.63/78.29.09.1978.AR, DR.IS [225] de 29.09.1978\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-1978-329029
+  date: '1978-09-29'
+- type: amended_by
+  target: pt:dre:378683:por
+  label: "Aditada a alínea k) ao artigo 11.º, na redacção da Lei n.º 63/78, de 29 de Setembro, pelo DEC LEI.338/79.25.08.1979.PCM,\
+    \ DR.IS [196] de 25.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1979-378683
+  date: '1979-08-25'
+- type: amended_by
+  target: pt:dre:370782:por
+  label: "Aditada a alínea l) ao artigo 11.º pelo DEC LEI.364/79.04.09.1979.PCM, DR.IS [204] de 04.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/364-1979-370782
+  date: '1979-09-04'
+- type: amended_by
+  target: pt:dre:395282:por
+  label: "Alargado o quadro de pessoal da Direcção-Geral dos Desportos, aprovado pelo presente diploma, pela PORT.695/82.14.07.1982.MQV,\
+    \ DR.IS [160] de 14.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/695-1982-395282
+  date: '1982-07-14'
+- type: amended_by
+  target: pt:dre:375401:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Desportos, aprovado pelo presente diploma, na redacção da Portaria\
+    \ 695/82, de 14 de Julho, pela PORT.924/82.01.10.1982.MQV, DR.IS [228] de 01.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/924-1982-375401
+  date: '1982-10-01'
+- type: amended_by
+  target: pt:dre:654678:por
+  label: "Alterado o quadro de pessoal pela PORT.234/84.1984.04.14.PCM DR.IS [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-1984-654678
+  date: '1984-04-14'
+- type: amended_by
+  target: pt:dre:325507:por
+  label: "Criado um lugar de técnico superior principal no quadro da Direcção-Geral dos Desportos, pela PORT.194/85.10.04.1985.PCM,\
+    \ DR.IS [83] de 10.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-1985-325507
+  date: '1985-04-10'
+- type: amended_by
+  target: pt:dre:222218:por
+  label: "Alargado o quadro de pessoal da Direcção-Geral dos Desportos, aprovado pelo presente diploma, pela PORT.624/86.25.10.1986.MF,\
+    \ DR.IS [247] de 25.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/624-1986-222218
+  date: '1986-10-25'
+- type: amended_by
+  target: pt:dre:495079:por
+  label: "Aumentado o número de lugares do quadro de pessoal da Direcção Geral dos Desportos, aprovado pelo presente diploma,\
+    \ pela PORT.769/87.05.09.1987.MF, DR.IS [204] de 05.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-1987-495079
+  date: '1987-09-05'
+- type: amended_by
+  target: pt:dre:371064:por
+  label: "Criados dois lugares no quadro da Direcção-Geral dos Desportos pela PORT.412/88.1988.06.30.MF,DR.IS [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/412-1988-371064
+  date: '1988-06-30'
+- type: amended_by
+  target: pt:dre:373416:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral dos Desportos pela PORT.423/88.1988.07.05.MF,DR.IS [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-1988-373416
+  date: '1988-07-05'
+- type: amended_by
+  target: pt:dre:471171:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal anexo ao presente diploma, pelo DEC LEI.119/91.21.03.1991.ME,\
+    \ DR.IS-A [67] de 21.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1991-471171
+  date: '1991-03-21'
+- type: cites
+  target: pt:dre:139445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684451:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447961:por
+  label: Rectificado pela DECL.DD7516.14.01.1978.PCM, DR.IS [12] de 14.01.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-447961
+  date: '1978-01-14'
+- type: repealed_by
+  target: pt:dre:606543:por
+  label: "Revogada a alínea d) do n.º 1 do artigo 3.º e os artigos 10.º, 11.º e 12.º do presente diploma, ratificado pela\
+    \ Lei n.º 63/78, de 29 de Setembro, pelo DEC LEI.127/82.23.04.1982.MQV, DR.IS [94] de 23.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1982-606543
+  date: '1982-04-23'
+- type: repealed_by
+  target: pt:dre:665345:por
+  label: "Revogado pelo DEC LEI.143/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1993-665345
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:21Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +239,9 @@ I
 
 Atribuições e competência
 
-###### Artigo 1.º A Direcção-Geral dos Desportos tem por atribuições o fomento e a orientação da prática gimnodesportiva e a criação de condições técnicas e materiais necessárias ao respectivo desenvolvimento.
+Artigo 1.º A Direcção-Geral dos Desportos tem por atribuições o fomento e a orientação da prática gimnodesportiva e a criação de condições técnicas e materiais necessárias ao respectivo desenvolvimento.
 
-###### Art. 2.º No exercício das atribuições referidas no artigo anterior compete à Direcção-Geral dos Desportos:
+Art. 2.º No exercício das atribuições referidas no artigo anterior compete à Direcção-Geral dos Desportos:
 
 a) Fomentar, promover e orientar as actividades gimnodesportivas nos sectores federado e de recreação;
 
@@ -128,7 +259,7 @@ II
 
 Dos serviços
 
-###### Art. 3.º - 1 - A Direcção-Geral dos Desportos compreende os seguintes serviços:
+Art. 3.º - 1 - A Direcção-Geral dos Desportos compreende os seguintes serviços:
 
 a) Direcção de Serviços de Programação e Apoio Técnico;
 
@@ -152,13 +283,13 @@ c) Escolas desportivas.
 
 3 - O funcionamento dos organismos previstos nas alíneas b) e c) do número anterior será regulamentado por portaria do Ministro da Educação e Investigação Científica e Secretário de Estado da Administração Pública.
 
-###### Art. 4.º A Direcção de Serviços de Programação e Apoio Técnico compreende:
+Art. 4.º A Direcção de Serviços de Programação e Apoio Técnico compreende:
 
 a) Divisão de Programação e Apoio Técnico;
 
 b) Divisão de Urbanização, Engenharia e Arquitectura Desportiva.
 
-###### Art. 5.º À Direcção de Serviços de Programação e Apoio Técnico compete:
+Art. 5.º À Direcção de Serviços de Programação e Apoio Técnico compete:
 
 a) Assegurar, em coordenação com os serviços centrais do Ministério, o planeamento e o contrôle de gestão relativos às actividades da Direcção-Geral e o funcionamento da área de estatística;
 
@@ -176,7 +307,7 @@ g) Orientar a política de fomento de instalações gimnodesportivas, assegurand
 
 h) Proceder ao levantamento das instalações gimnodesportivas existentes no País, mantendo actualizada a carta gimnodesportiva nacional.
 
-###### Art. 6.º - 1 - A Direcção do Desporto Federado e Recreação compreende:
+Art. 6.º - 1 - A Direcção do Desporto Federado e Recreação compreende:
 
 a) Divisão do Desporto Federado;
 
@@ -184,7 +315,7 @@ b) Divisão de Recreação.
 
 2 - A Direcção do Desporto Federado e Recreação é dirigida por um funcionário com a categoria de director de serviços.
 
-###### Art. 7.º À Direcção do Desporto Federado e Recreação compete:
+Art. 7.º À Direcção do Desporto Federado e Recreação compete:
 
 a) Exercer a tutela dos organismos não governamentais de carácter desportivo, de harmonia com a legislação em vigor e nos termos de decreto regulamentar a publicar;
 
@@ -202,7 +333,7 @@ g) Coordenar com a Direcção-Geral de Extensão Educativa as actividades de ocu
 
 h) Apoiar tecnicamente as iniciativas dos organismos governamentais e associações não governamentais, no âmbito da utilização da actividade desportiva como meio de ocupação de deficientes.
 
-###### Art. 8.º - 1 - O Instituto Nacional de Desportos compreende:
+Art. 8.º - 1 - O Instituto Nacional de Desportos compreende:
 
 a) Divisão de Formação;
 
@@ -214,7 +345,7 @@ d) Centros regionais de formação.
 
 2 - O Instituto Nacional de Desportos goza de autonomia administrativa e é dirigido por um funcionário com a categoria de director de serviços.
 
-###### Art. 9.º - 1 - Ao Instituto Nacional de Desportos compete:
+Art. 9.º - 1 - Ao Instituto Nacional de Desportos compete:
 
 a) A formação de quadros técnicos desportivos, com excepção de professores de Educação Física;
 
@@ -228,7 +359,7 @@ e) Proceder à recolha, selecção e difusão de documentos de natureza técnico
 
 2 - O funcionamento do Instituto Nacional de Desportos será regulamentado por portaria do Ministro da Educação e Investigação Científica e Secretário de Estado da Administração Pública.
 
-###### Art. 10.º Ao Conselho Técnico Coordenador dos Planos de Desenvolvimento Desportivo compete:
+Art. 10.º Ao Conselho Técnico Coordenador dos Planos de Desenvolvimento Desportivo compete:
 
 a) Elaborar, anual ou plurianualmente, os planos de desenvolvimento globais, integrando os sectores escolar, federado, recreativo e de formação técnica;
 
@@ -236,7 +367,7 @@ b) Atribuir aos sectores respectivos, obtida homologação superior, a execuçã
 
 c) Assegurar a coordenação permanente entre a Direcção-Geral dos Desportos e as Direcções-Gerais dos Ensinos Básico e Secundário e Inspecção-Geral do Ensino Particular, veiculando o apoio técnico e material previsto na alínea d) do artigo 2.º do presente diploma.
 
-###### Art. 11.º - 1 - O Conselho Técnico Coordenador dos Planos de Desenvolvimento Desportivo constitui um órgão consultivo com a seguinte composição:
+Art. 11.º - 1 - O Conselho Técnico Coordenador dos Planos de Desenvolvimento Desportivo constitui um órgão consultivo com a seguinte composição:
 
 a) Director-geral dos Desportos, que presidirá;
 
@@ -258,13 +389,13 @@ f) Dois técnicos, respectivamente dos ensinos básico e secundário, designados
 
 5 - As deliberações só serão válidas estando presente a maioria dos membros do gabinete.
 
-###### Art. 12.º - 1 - O Conselho Técnico Coordenador dos Planos de Desenvolvimento Desportivo disporá do pessoal técnico e administrativo que lhe for distribuído por despacho do director-geral.
+Art. 12.º - 1 - O Conselho Técnico Coordenador dos Planos de Desenvolvimento Desportivo disporá do pessoal técnico e administrativo que lhe for distribuído por despacho do director-geral.
 
 2 - Ao pessoal citado no número anterior competirá a recolha dos elementos necessários à preparação técnica de todos os assuntos destinados a serem objecto de estudo pelo Conselho, bem como a execução de tarefas técnicas necessárias ao exercício da respectiva competência.
 
 3 - No exercício das funções previstas no número anterior, o pessoal técnico e administrativo será dirigido por um técnico principal, ao qual competirá também secretariar as reuniões do Conselho, sem direito a voto.
 
-###### Art. 13.º À Repartição Administrativa compete, sem prejuízo da competência da Secretaria-Geral do Ministério:
+Art. 13.º À Repartição Administrativa compete, sem prejuízo da competência da Secretaria-Geral do Ministério:
 
 a) Exercer a gestão de pessoal da Direcção-Geral;
 
@@ -274,7 +405,7 @@ c) Assegurar a coordenação administrativa de todos os departamentos e instala�
 
 d) Exercer as funções de economato.
 
-###### Art. 14.º - 1 - As delegações regionais ficam integradas nos serviços regionais do Ministério da Educação e Investigação Científica, referidos no [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril.
+Art. 14.º - 1 - As delegações regionais ficam integradas nos serviços regionais do Ministério da Educação e Investigação Científica, referidos no [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril.
 
 2 - Em cada um dos serviços regionais haverá uma delegação regional.
 
@@ -288,15 +419,15 @@ III
 
 Do pessoal
 
-###### Art. 15.º - 1 - A Direcção-Geral dos Desportos tem o pessoal dirigente, técnico e técnico auxiliar constante do mapa n.º 1 anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 15.º - 1 - A Direcção-Geral dos Desportos tem o pessoal dirigente, técnico e técnico auxiliar constante do mapa n.º 1 anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2 - A Direcção-Geral dos Desportos dispõe ainda de pessoal administrativo e auxiliar constante do mapa n.º 2 anexo ao presente diploma, o qual se integra, para todos os efeitos, no quadro único do Ministério, de acordo com o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 16.º Os quadros referidos no artigo anterior poderão ser alterados por portaria dos Ministros das Finanças e da Educação e Investigação Científica e Secretário de Estado da Administração Pública.
+Art. 16.º Os quadros referidos no artigo anterior poderão ser alterados por portaria dos Ministros das Finanças e da Educação e Investigação Científica e Secretário de Estado da Administração Pública.
 
-###### Art. 17.º A distribuição do pessoal pelos serviços da Direcção-Geral será feita por despacho do director-geral dos Desportos.
+Art. 17.º A distribuição do pessoal pelos serviços da Direcção-Geral será feita por despacho do director-geral dos Desportos.
 
-###### Art. 18.º - 1 - As formas de recrutamento e o regime de provimento do pessoal da Direcção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 18.º - 1 - As formas de recrutamento e o regime de provimento do pessoal da Direcção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral será provido por escolha do Primeiro-Ministro e do Ministro da Educação e Investigação Científica, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior adequado e de reconhecida competência;
 
@@ -310,25 +441,25 @@ e) O lugar de chefe de repartição será provido por escolha do Ministro da Edu
 
 2 - Ao subdirector-geral compete coadjuvar o director-geral no exercício das respectivas funções e substituí-lo nas suas faltas e impedimentos.
 
-###### Art. 19.º - 1 - O Ministro da Educação e Investigação Científica poderá autorizar que para actividades específicas sejam destacados para a Direcção-Geral dos Desportos, em tempo parcial ou total e em colocação segundo o regime especial previsto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, professores de Educação Física dos estabelecimentos de ensino dependentes do Ministério da Educação e Investigação Científica, considerando-se para todos os efeitos legais como serviço docente o prestado nestas condições.
+Art. 19.º - 1 - O Ministro da Educação e Investigação Científica poderá autorizar que para actividades específicas sejam destacados para a Direcção-Geral dos Desportos, em tempo parcial ou total e em colocação segundo o regime especial previsto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, professores de Educação Física dos estabelecimentos de ensino dependentes do Ministério da Educação e Investigação Científica, considerando-se para todos os efeitos legais como serviço docente o prestado nestas condições.
 
 2 - O despacho ministerial que autorize a colocação em regime especial definirá em que termos a mesma se efectuará, com respeito, porém, do estabelecido no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
 3 - Os professores colocados ao abrigo do disposto nos números anteriores têm direito a uma gratificação mensal de 2000$00 e de 1000$00 mensais consoante a sua colocação for em regime total ou parcial.
 
-###### Art. 20.º - 1 - O Ministro da Educação e Investigação Científica poderá ainda autorizar o contrato pela Direcção-Geral dos Desportos, como monitores de desportos, de praticantes ou de antigos praticantes de reconhecida idoneidade e competência.
+Art. 20.º - 1 - O Ministro da Educação e Investigação Científica poderá ainda autorizar o contrato pela Direcção-Geral dos Desportos, como monitores de desportos, de praticantes ou de antigos praticantes de reconhecida idoneidade e competência.
 
 2 - Os monitores referidos no número anterior serão contratados ao abrigo do disposto nos n.os 1 e 2 do artigo 23.º deste diploma.
 
 3 - Aos monitores referidos no número anterior é exigida a habilitação correspondente, pelo menos, à escolaridade obrigatória.
 
-###### Art. 21.º Consideram-se inerência de funções as desempenhadas nos termos das alíneas a) a f) do n.º 1 do artigo 13.º deste diploma.
+Art. 21.º Consideram-se inerência de funções as desempenhadas nos termos das alíneas a) a f) do n.º 1 do artigo 13.º deste diploma.
 
-###### Art. 22.º - 1 - O Ministro da Educação e Investigação Científica poderá autorizar que pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos seja contratado além dos quadros ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 19 de Novembro de 1969, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços e à manutenção das instalações gimnodesportivas afectas à Direcção-Geral.
+Art. 22.º - 1 - O Ministro da Educação e Investigação Científica poderá autorizar que pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos seja contratado além dos quadros ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 19 de Novembro de 1969, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços e à manutenção das instalações gimnodesportivas afectas à Direcção-Geral.
 
 2 - A utilização das disponibilidades de vencimentos de pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 23.º - 1 - O director-geral poderá propor superiormente:
+Art. 23.º - 1 - O director-geral poderá propor superiormente:
 
 a) A realização de contratos de prestação de serviços que serão reduzidos a escrito com a indicação da tarefa, do prazo, da remuneração e que não conferirão, em qualquer caso, a qualidade de agente administrativo;
 
@@ -340,44 +471,44 @@ IV
 
 Disposições gerais e transitórias
 
-###### Art. 24.º O pessoal pertencente aos quadros da Direcção-Geral dos Desportos será provido independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas e publicação no Diário da República, em lugares idênticos, ou de categoria equivalente, nos quadros anexos ao presente diploma.
+Art. 24.º O pessoal pertencente aos quadros da Direcção-Geral dos Desportos será provido independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas e publicação no Diário da República, em lugares idênticos, ou de categoria equivalente, nos quadros anexos ao presente diploma.
 
-###### Art. 25.º - 1 - O pessoal na situação de além dos quadros, prestação eventual de serviços e outras situações, colocado na Direcção-Geral dos Desportos, será provido consoante as necessidades, nos quadros anexos ao presente diploma, mediante lista nominativa aprovada por despacho do Ministro da Educação e Investigação Científica e publicada no Diário da República.
+Art. 25.º - 1 - O pessoal na situação de além dos quadros, prestação eventual de serviços e outras situações, colocado na Direcção-Geral dos Desportos, será provido consoante as necessidades, nos quadros anexos ao presente diploma, mediante lista nominativa aprovada por despacho do Ministro da Educação e Investigação Científica e publicada no Diário da República.
 
 2 - Os provimentos referidos no número anterior não dependem de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas e publicação no Diário da República, observando-se, porém, nos mesmos provimentos as regras estabelecidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, nomeadamente do que naquele diploma se dispõe sobre habilitações literárias.
 
-###### Art. 26.º O pessoal que, à data da entrada em vigor do presente diploma, esteja provido além dos quadros da Direcção-Geral dos Desportos e não venha a constar da lista nominativa prevista no n.º 1 do artigo anterior poderá ser colocado por despacho ministerial em qualquer serviço do Ministério da Educação e Investigação Científica ou transferido para qualquer outro departamento do Estado mediante despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro da pasta do qual dependa o referido departamento.
+Art. 26.º O pessoal que, à data da entrada em vigor do presente diploma, esteja provido além dos quadros da Direcção-Geral dos Desportos e não venha a constar da lista nominativa prevista no n.º 1 do artigo anterior poderá ser colocado por despacho ministerial em qualquer serviço do Ministério da Educação e Investigação Científica ou transferido para qualquer outro departamento do Estado mediante despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro da pasta do qual dependa o referido departamento.
 
-###### Art. 27.º As instalações destinadas a sedes de organismos desportivos não governamentais (federações nacionais e associações regionais), cuja despesa de funcionamento seja suportada por verbas da Direcção-Geral dos Desportos, serão objecto de regulamentação pelo Ministro da Educação e Investigação Científica, com prévia audição dos organismos interessados.
+Art. 27.º As instalações destinadas a sedes de organismos desportivos não governamentais (federações nacionais e associações regionais), cuja despesa de funcionamento seja suportada por verbas da Direcção-Geral dos Desportos, serão objecto de regulamentação pelo Ministro da Educação e Investigação Científica, com prévia audição dos organismos interessados.
 
-###### Art. 28.º - 1 - As funções exercidas no Fundo de Fomento do Desporto em regime de comissão de serviço por funcionários do Ministério da Educação e Investigação Científica consideram-se para todos os efeitos legais como prestadas no serviço de origem.
+Art. 28.º - 1 - As funções exercidas no Fundo de Fomento do Desporto em regime de comissão de serviço por funcionários do Ministério da Educação e Investigação Científica consideram-se para todos os efeitos legais como prestadas no serviço de origem.
 
 2 - Se os funcionários referidos no número anterior forem professores, aplica-se-lhes o disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 29.º O regulamento interno da Direcção-Geral dos Desportos será aprovado por portaria do Ministro da Educação e Investigação Científica.
+Art. 29.º O regulamento interno da Direcção-Geral dos Desportos será aprovado por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 30.º Serão suportados pelas dotações da Direcção-Geral dos Desportos os subsídios destinados a comissões organizadoras de actividades desportivas, as quais serão objecto de regulamentação através de despacho ministerial.
+Art. 30.º Serão suportados pelas dotações da Direcção-Geral dos Desportos os subsídios destinados a comissões organizadoras de actividades desportivas, as quais serão objecto de regulamentação através de despacho ministerial.
 
-###### Art. 31.º Os encargos resultantes do presente diploma relativamente a «Remunerações certas e permanentes» serão suportados pelas disponibilidades das respectivas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Investigação Científica aprovado para o corrente ano económico.
+Art. 31.º Os encargos resultantes do presente diploma relativamente a «Remunerações certas e permanentes» serão suportados pelas disponibilidades das respectivas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Investigação Científica aprovado para o corrente ano económico.
 
-###### Art. 32.º São revogados o Decreto n.º 82/73, de 3 de Março, com excepção do respectivo artigo 4.º, que se manterá em vigor até à publicação do decreto regulamentar previsto na alínea a) do artigo 7.º do presente decreto-lei, os artigos 1.º, 4.º e 6.º do [Decreto-Lei n.º 694/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829), de 5 de Dezembro, e a [Portaria n.º 198/75](https://diariodarepublica.pt/dr/detalhe/portaria/198-1975-161302), de 21 de Março.
+Art. 32.º São revogados o Decreto n.º 82/73, de 3 de Março, com excepção do respectivo artigo 4.º, que se manterá em vigor até à publicação do decreto regulamentar previsto na alínea a) do artigo 7.º do presente decreto-lei, os artigos 1.º, 4.º e 6.º do [Decreto-Lei n.º 694/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829), de 5 de Dezembro, e a [Portaria n.º 198/75](https://diariodarepublica.pt/dr/detalhe/portaria/198-1975-161302), de 21 de Março.
 
-###### Art. 33.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e da Educação e Investigação Científica e Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 33.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e da Educação e Investigação Científica e Secretário de Estado da Administração Pública, consoante a sua natureza.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 21 de Dezembro de 1977.**
+Promulgado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa n.º 1 a que se refere o n.º 1 do artigo 15.º do Decreto-Lei n.º 553/77, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30202/00220027.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30202/00220027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30202/00220027.pdf)
 
 Mapa n.º 2 a que se refere o n.º 2 do artigo 15.º do Decreto-Lei n.º 553/77, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30202/00220027.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30202/00220027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30202/00220027.pdf)
 
-**O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.

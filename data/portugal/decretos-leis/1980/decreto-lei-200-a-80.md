@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(2) a 1456-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-a-1980-226037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14fd6cdf4747d4d8e64f27691a20b4f018451c8b3b2e436f0487599680df38d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4584789088fca0aebcb4bf74bf0ad0b03407a49bf3fa2e125692029523b9314c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Função Pública
+- Pensões
+- Remuneração
+- Subsídio de Refeição
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472553:por
+  label: "Anulada e procedida nova publicação da Decl DD6971, de 16 de Julho de 1980, que rectificou o presente diploma, pela\
+    \ DECL.DD6982.23.07.1980.PCM, DR.IS [168] de 23.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472553
+  date: '1980-07-23'
+- type: cites
+  target: pt:dre:159883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678041:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:471322:por
+  label: Rectificado pela DECL.DD6971.16.07.1980.PCM, DR.IS [162] de 16.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471322
+  date: '1980-07-16'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:55Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +166,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da Administração Pública Central, Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser a seguinte:
+Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da Administração Pública Central, Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
 
 2 - As remunerações principais não coincidentes com as constantes da tabela de vencimentos aprovada pelo [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, com exclusão das resultantes do artigo 5.º do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março, serão aumentadas em 10% e 19%, respectivamente, de Abril a Junho e a partir de Julho, até à sua integração no ordenamento de categorias da função pública.
 
@@ -123,7 +180,7 @@ b) Ao pessoal ao serviço das pessoas colectivas de direito privado e utilidade 
 
 4 - Os vencimentos dos aprendizes e praticantes que não estejam incluídos nas letras da tabela constante do n.º 1 são fixados nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
 
 5 - O tempo de serviço efectivamente prestado à data da publicação do presente diploma como aprendiz será contado para efeitos do disposto no número anterior.
 
@@ -131,19 +188,19 @@ b) Ao pessoal ao serviço das pessoas colectivas de direito privado e utilidade 
 
 7 - Sem prejuízo das remunerações superiores já praticadas, a remuneração mensal dos trabalhadores rurais ao serviço da Administração Pública Central e das Administrações Regional e Local e dos institutos públicos será fixada de acordo com o salário corrente da região, não podendo em caso algum ser inferior ao salário mínimo nacional fixado para os trabalhadores da agricultura, de acordo com as respectivas funções.
 
-###### Art. 2.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como dos dirigentes equiparados ao abrigo da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser os seguintes:
+Art. 2.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como dos dirigentes equiparados ao abrigo da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
 
 2 - Os vencimentos do pessoal dirigente constante do anexo II ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, passam a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14301/00020004.pdf)
 
-###### Art. 3.º As gratificações ou outros abonos que constituem única forma de remuneração do exercício de cargos ou funções serão alteradas, com efeitos desde 1 de Abril de 1980, de acordo com o disposto nas alíneas a) a c) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
+Art. 3.º As gratificações ou outros abonos que constituem única forma de remuneração do exercício de cargos ou funções serão alteradas, com efeitos desde 1 de Abril de 1980, de acordo com o disposto nas alíneas a) a c) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 4.º São reduzidas no quantitativo correspondente a 30% do aumento referido a Abril do corrente ano as remunerações acessórias referidas nas alíneas a) a e) do n.º 6 do artigo 4.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
+Art. 4.º São reduzidas no quantitativo correspondente a 30% do aumento referido a Abril do corrente ano as remunerações acessórias referidas nas alíneas a) a e) do n.º 6 do artigo 4.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 5.º - 1 - São aumentadas em 18%, com efeitos a partir de 1 de Julho de 1980, as seguintes pensões:
+Art. 5.º - 1 - São aumentadas em 18%, com efeitos a partir de 1 de Julho de 1980, as seguintes pensões:
 
 a) Pensões de aposentação, de reforma e de invalidez;
 
@@ -155,26 +212,26 @@ c) Pensões de preço de sangue e outras a cargo do Ministério das Finanças e 
 
 3 - As pensões pagas através da Caixa Geral de Aposentações, do Montepio dos Servidores do Estado e de outras entidades públicas, em cujo encargo o Estado não comparticipe, poderão ser actualizadas, nos termos dos números anteriores, mediante decisão das entidades competentes.
 
-###### Art. 6.º O quantitativo mínimo de cada diuturnidade a considerar no cálculo das pensões de preço de sangue e outras a cargo do Ministério das Finanças e do Plano, com excepção das resultantes de condecorações e das Leis n.os 1942, de 27 de Julho de 1936, e 2127, de 13 de Agosto de 1965, passa a ser o correspondente a 750$00, a partir da data em que por este diploma são aumentadas as referidas pensões.
+Art. 6.º O quantitativo mínimo de cada diuturnidade a considerar no cálculo das pensões de preço de sangue e outras a cargo do Ministério das Finanças e do Plano, com excepção das resultantes de condecorações e das Leis n.os 1942, de 27 de Julho de 1936, e 2127, de 13 de Agosto de 1965, passa a ser o correspondente a 750$00, a partir da data em que por este diploma são aumentadas as referidas pensões.
 
-###### Art. 7.º Com efeitos desde 1 de Junho de 1980, o subsídio de refeição previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, é fixado em 1000$00 mensais.
+Art. 7.º Com efeitos desde 1 de Junho de 1980, o subsídio de refeição previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, é fixado em 1000$00 mensais.
 
-###### Art. 8.º Os abonos correspondentes aos efeitos retroactivos do presente diploma serão pagos mediante regras a estabelecer por despacho do Ministro das Finanças e do Plano.
+Art. 8.º Os abonos correspondentes aos efeitos retroactivos do presente diploma serão pagos mediante regras a estabelecer por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 9.º - 1 - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para pagamento dos vencimentos.
+Art. 9.º - 1 - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para pagamento dos vencimentos.
 
 2 - Os orçamentos suplementares, a elaborar eventualmente para os efeitos do n.º 1, não contarão para o limite estabelecido no artigo 8.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
-###### Art. 10.º Mantêm-se em vigor os n.os 2, 3 e 4 do artigo 3.º, n.os 1 a 5 e 7 a 10 do artigo 4.º e os artigos 5.º, 7.º, 8.º, 9.º, 12.º, 14.º, 16.º e 17.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
+Art. 10.º Mantêm-se em vigor os n.os 2, 3 e 4 do artigo 3.º, n.os 1 a 5 e 7 a 10 do artigo 4.º e os artigos 5.º, 7.º, 8.º, 9.º, 12.º, 14.º, 16.º e 17.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 11.º O presente diploma prevalece sobre todas e quaisquer disposições especiais ou regulamentares em contrário.
+Art. 11.º O presente diploma prevalece sobre todas e quaisquer disposições especiais ou regulamentares em contrário.
 
-###### Art. 12.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Vice-Primeiro-Ministro e do Ministro das Finanças e do Plano, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
+Art. 12.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Vice-Primeiro-Ministro e do Ministro das Finanças e do Plano, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 24 de Junho de 1980.**
+Promulgado em 24 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

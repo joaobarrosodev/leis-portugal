@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44655-1962-156256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c848e4c5efb94881222de14c42b550c90f40319971c9b640b88344085e3bf1ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d19cb926c1a2a49ee6d0cb2f24d7ee7baf314fc1cb4921e40f68abdde83ed2b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abate de Animais
+- Controlo Sanitário
+- Direcção Geral dos Serviços Pecuários
+- Financiamento
+- Fundo de Abastecimento
+- Indemnização
+- Pecuária
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:279196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:48Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +116,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica a Direcção-Geral dos Serviços Pecuários autorizada a receber do Fundo de Abastecimento um subsídio reembolsável até ao limite de 25000000$00, destinado a satisfazer à lavoura as indemnizações nos termos do [Decreto-Lei n.º 41178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41178-1957-279196), de 8 de Julho de 1957, em dívida à data da entrada em vigor deste diploma.
+Artigo 1.º Fica a Direcção-Geral dos Serviços Pecuários autorizada a receber do Fundo de Abastecimento um subsídio reembolsável até ao limite de 25000000$00, destinado a satisfazer à lavoura as indemnizações nos termos do [Decreto-Lei n.º 41178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41178-1957-279196), de 8 de Julho de 1957, em dívida à data da entrada em vigor deste diploma.
 
 § 1.º Os pagamentos a efectuar por força do referido subsídio dependem do visto da 11.ª Repartição da Direcção-Geral da Contabilidade Pública nos documentos justificativos dos débitos, sendo dispensadas as formalidades aplicáveis a despesas de anos anteriores.
 
 § 2.º À medida que o Fundo de Abastecimento efectuar os adiantamentos a Direcção-Geral dos Serviços Pecuários depositará na Caixa Geral de Depósitos, Crédito e Previdência as quantias que não tiverem imediata aplicação, fazendo normalmente o movimento ulterior por meio de cheques.
 
-###### Art. 2.º Com base em plano aprovado pelos Secretários de Estado da Agricultura e do Comércio a Direcção-Geral dos Serviços Pecuários efectuará os reembolsos devidos ao Fundo de Abastecimento por meio de folhas devidamente documentadas e processadas a favor do mesmo Fundo de conta da dotação que anualmente lhe for atribuída para aplicação das receitas a que se refere o [Decreto-Lei n.º 44158](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44158-1962-520187), de 17 de Janeiro de 1962.
+Art. 2.º Com base em plano aprovado pelos Secretários de Estado da Agricultura e do Comércio a Direcção-Geral dos Serviços Pecuários efectuará os reembolsos devidos ao Fundo de Abastecimento por meio de folhas devidamente documentadas e processadas a favor do mesmo Fundo de conta da dotação que anualmente lhe for atribuída para aplicação das receitas a que se refere o [Decreto-Lei n.º 44158](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44158-1962-520187), de 17 de Janeiro de 1962.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos - Samuel Rodrigues Sanches.

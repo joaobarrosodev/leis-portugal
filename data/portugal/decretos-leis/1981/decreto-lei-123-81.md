@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11900/11991201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1981-573731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98fef9df56389c0df40c385dac5e5ae00a6f9d192748b9074cc44346e07d60b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e8aab4e3144185a21f6ec49bfd19f73c233d3150d288756b5ba9fbe0bddff69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Teatro Nacional de São Carlos
 relationships:
 - type: amended_by
   target: pt:dre:639336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:470194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:639336:por
+  label: Revogado pelo(a) Decreto-Lei n.º 195-A/92 - Diário da República n.º 207/1992, 1º Suplemento, Série I-A de 1992-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-a-1992-639336
+  date: '1992-09-08'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:17Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +105,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 8.º, 9.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 19.º e 26.º do estatuto anexo ao [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 8.º, 9.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 19.º e 26.º do estatuto anexo ao [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — (Órgãos do Teatro)
 
@@ -206,9 +217,9 @@ d) Pela assinatura de procuradores especialmente constituídos, dentro dos limit
 
 2 - Fora do caso previsto no número anterior, os membros da comissão de fiscalização poderão assistir individual ou conjuntamente às reuniões do conselho de gerência, por iniciativa própria ou por convocação do presidente daquele.
 
-###### Art. 2.º É revogada a secção II do capítulo II do estatuto aprovado pelo [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), passando as secções III e IV do mesmo capítulo a ser, respectivamente, as suas secções II e III.
+Art. 2.º É revogada a secção II do capítulo II do estatuto aprovado pelo [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), passando as secções III e IV do mesmo capítulo a ser, respectivamente, as suas secções II e III.
 
-###### Art. 3.º É aditado ao estatuto aprovado pelo [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194) o artigo 40.º-A, com a seguinte redacção:
+Art. 3.º É aditado ao estatuto aprovado pelo [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194) o artigo 40.º-A, com a seguinte redacção:
 
 ###### Artigo 40.º-A — (Director-geral)
 
@@ -216,8 +227,8 @@ A orientação e direcção artística do Teatro competirão ao director-geral, 
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 12 de Maio de 1981.**
+Promulgado em 12 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18800/11891190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1975-314625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1f5a5903f853f21ca92640a9000942e23c700e62b2ee8ff506935c4a7b3e0f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94f1d6d0fe05c95e7aac124cd32b10a01e2d0d1db6015ccd417f42232f83ac0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação de Recreio
+- Regulamento Provisório das Embarcações de Recreio
 relationships:
 - type: amended_by
   target: pt:dre:469195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA RECT DD13/75 DE 19-AGO DG.IS [244] DE 21/OUT/1975.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1975-10-21'
+- type: amended_by
+  target: pt:dre:370669:por
+  label: "Alterados os artigos 36.º, 37.º, 38.º, 40.º e 42.º do Regulamento, pelo DEC.97/79.05.09.1979.MTC, DR.IS [205] de\
+    \ 05.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/97-1979-370669
+  date: '1979-09-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADOS OS PARG 1 E 2 AO ART 34 DO REGULAMENTO, PELO DEC LEI 285/84 DE 22-AGO DR.IS [194]. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-08-22'
+- type: amended_by
+  target: pt:dre:381088:por
+  label: Aditados os §§ 1.º e 2.º ao art. 34.º do Regulamento Provisório das Embarcações de Recreio pelo(a) Decreto-Lei n.º
+    285/84 - Diário da República n.º 194/1984, Série I de 1984-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1984-381088
+  date: '1984-08-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DETERMINADA A NAO APLICAÇÃO DOS PARAG 1, 2 E 3 DO ART 12 DO REGULAMENTO, NO QUE CONCERNE A AQUISIÇÃO DE EMBARCACOES
+    DE RECREIO ORIUNDAS DOS ESTADOS MEMBROS DA COMUNIDADE PELO DEC LEI 167/88 DE 14-MAI DR.IS [112] SALVO O DISPOSTO NO MESMO
+    DIPLOMA.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-05-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 15, 16 E 36 DO REGULAMENTO PELO DEC LEI 202/92 DE 29-SET DR.IS-A [225].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-09-29'
+- type: amended_by
+  target: pt:dre:469195:por
+  label: "Mantido em vigor até 30-Nov de 1996 o Regulamento provisório das embarcações de recreio, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.38/96.1996.05.06.MEPAT DR.IS-A [105], com a redacção que lhe foi dada pelo Dec 97/79 de 05-Set\
+    \ DR.IS [205], pelo Dec Lei 167/88 de 14-Mai DR.IS [112] e pelo Dec Lei 202/92 de 29-Set DR.IS-A [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1996-469195
+  date: '1996-05-06'
+- type: cites
+  target: pt:dre:172772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584268:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:631866:por
+  label: "Revogado pelo DEC LEI.329/95.1995.12.09.MM, DR.IS-A [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1995-631866
+  date: '1995-12-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:47Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +178,18 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Provisório das Embarcações de Recreio anexo a este diploma, e do qual faz parte integrante.
+Artigo 1.º É aprovado o Regulamento Provisório das Embarcações de Recreio anexo a este diploma, e do qual faz parte integrante.
 
-###### Art. 2.º O Regulamento Provisório das Embarcações de Recreio entra imediatamente em vigor.
+Art. 2.º O Regulamento Provisório das Embarcações de Recreio entra imediatamente em vigor.
 
-###### Art. 3.º É revogada toda a legislação anterior relativa a embarcações de recreio, nomeadamente os seguintes diplomas:
+Art. 3.º É revogada toda a legislação anterior relativa a embarcações de recreio, nomeadamente os seguintes diplomas:
 
 [Decreto-Lei n.º 37218](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37218-1948-370403), de 17 de Dezembro de 1948, [Portaria n.º 12815](https://diariodarepublica.pt/dr/detalhe/portaria/12815-1949-259441), de 12 de Maio de 1949, [Portaria n.º 13647](https://diariodarepublica.pt/dr/detalhe/portaria/13647-1951-584268), de 16 de Agosto de 1951, [Decreto-Lei n.º 40498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40498-1956-305664), de 16 de Janeiro de 1956, [Portaria n.º 18578](https://diariodarepublica.pt/dr/detalhe/portaria/18578-1961-172772), de 7 de Julho de 1961, [Portaria n.º 21771](https://diariodarepublica.pt/dr/detalhe/portaria/21771-1966-233329), de 4 de Janeiro de 1966, [Portaria n.º 55/72](https://diariodarepublica.pt/dr/detalhe/portaria/55-1972-398340), de 31 de Janeiro, e [Portaria n.º 127/74](https://diariodarepublica.pt/dr/detalhe/portaria/127-1974-413004), de 19 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 4 de Agosto de 1975.**
+Promulgado em 4 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

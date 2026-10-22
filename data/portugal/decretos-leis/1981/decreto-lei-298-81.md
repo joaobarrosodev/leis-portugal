@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/25000/28762879.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1981-568961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d54d1fe4a0a0a3e154417bd288eac9b201a87e4f8614f71dd2dd4ced4e5fc7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd7b67784056d617dbab80c6e034db1d9ed6d485f65a21b7214fa30c27358755
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Fiscalização
+- Imposto de Transacções
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:227180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311045:por
+  label: "Alterada a alínea a) do nº 1 do artigo 1º pelo DEC LEI.96/83.17.02.1983.MFP, DR.IS [39] de 17.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1983-311045
+  date: '1983-02-17'
+- type: cites
+  target: pt:dre:472357:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:552984:por
+  label: Rectificado pela DECL.DD5850.29.12.1981.PCM, DR.IS [6] de 08.01.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-552984
+  date: '1981-12-29'
+- type: repealed_by
+  target: pt:dre:227180:por
+  label: "Revogado pelo DEC LEI.97/86.16.05.1986.MF, DR.IS [112] de 16.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-1986-227180
+  date: '1986-05-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:17Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +128,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Todas as mercadorias em circulação, seja qual for a sua natureza ou espécie, deverão ser acompanhadas de dois exemplares do documento de transporte, nos casos seguintes:
+Artigo 1.º - 1 - Todas as mercadorias em circulação, seja qual for a sua natureza ou espécie, deverão ser acompanhadas de dois exemplares do documento de transporte, nos casos seguintes:
 
 a) Quando provenham de importadores, produtores, grossistas ou equiparados registados ou sujeitos a registo, nos termos do Código do Imposto de Transacções; ou
 
@@ -137,9 +160,9 @@ e) Data, local do carregamento e local de descarga.
 
 9 - Os documentos de transporte que não satisfizerem aos requisitos referidos nos anteriores n.os 3 a 6 não terão qualquer valor jurídico para efeitos deste diploma.
 
-###### Art. 2.º Para efeitos do presente decreto-lei, considera-se mercadoria todo o bem móvel abrangido pelo âmbito da incidência do Código do Imposto de Transacções.
+Art. 2.º Para efeitos do presente decreto-lei, considera-se mercadoria todo o bem móvel abrangido pelo âmbito da incidência do Código do Imposto de Transacções.
 
-###### Art. 3.º - 1 - Considera-se mercadoria em circulação toda aquela que for encontrada fora dos locais de produção, fabrico ou transformação, de exposição, dos estabelecimentos de venda por grosso e a retalho, ou de armazém de retém, por motivo de venda efectiva, troca, transmissão gratuita, afectação a uso próprio, experiência, demonstração e remessa à consignação ou de simples transferência, efectuadas pelas pessoas referidas no n.º 1 do artigo 1.º
+Art. 3.º - 1 - Considera-se mercadoria em circulação toda aquela que for encontrada fora dos locais de produção, fabrico ou transformação, de exposição, dos estabelecimentos de venda por grosso e a retalho, ou de armazém de retém, por motivo de venda efectiva, troca, transmissão gratuita, afectação a uso próprio, experiência, demonstração e remessa à consignação ou de simples transferência, efectuadas pelas pessoas referidas no n.º 1 do artigo 1.º
 
 2 - Quando, em relação às mercadorias encontradas fora dos locais a que se refere o número anterior, o seu detentor ou transportador declare que as mesmas não provêm ou não se destinam a qualquer das pessoas indicadas no n.º 1 do artigo 1.º, poderá exigir-se prova da proveniência ou do destino sempre que se levantem dúvidas ou suspeitas de fraude, procedendo-se à apreensão provisória dessas mercadorias e dos veículos transportadores nas condições do n.º 6 do artigo 7.º e do artigo 8.º, se essa prova não for imediatamente feita.
 
@@ -147,7 +170,7 @@ e) Data, local do carregamento e local de descarga.
 
 4 - Excluem-se do âmbito do presente diploma as mercadorias que se destinem manifestamente a uso pessoal e sejam transportadas em veículos ligeiros de transporte de passageiros, bem como os produtos agrícolas, silvícolas ou pecuários das explorações próprias dos remetentes, isentas de imposto sobre a indústria agrícola.
 
-###### Art. 4.º - 1 - Os documentos de transporte serão processados, em triplicado, pelas pessoas indicadas no n.º 1 do artigo 1.º, no momento da venda, levantamento, transferência para qualquer dos seus estabelecimentos, troca, transmissão gratuita e afectação a uso próprio das mercadorias ou no momento em que as mesmas forem enviadas para experiência, demonstração ou à consignação.
+Art. 4.º - 1 - Os documentos de transporte serão processados, em triplicado, pelas pessoas indicadas no n.º 1 do artigo 1.º, no momento da venda, levantamento, transferência para qualquer dos seus estabelecimentos, troca, transmissão gratuita e afectação a uso próprio das mercadorias ou no momento em que as mesmas forem enviadas para experiência, demonstração ou à consignação.
 
 2 - Os exemplares dos documentos referidos no número anterior são destinados:
 
@@ -165,17 +188,17 @@ c) O triplicado, ao remetente das mercadorias.
 
 6 - Os remetentes das mercadorias, bem como os seus destinatários ou adquirentes, deverão manter arquivados, por ordem cronológica e pelo prazo de cinco anos, os exemplares dos documentos de transporte a eles destinados, bem como os seus duplicados, enquanto não forem recolhidos pelas entidades referidas no artigo 6.º
 
-###### Art. 5.º - 1 - Os transportadores de mercadorias, sejam quais forem os meios utilizados para o seu transporte e o destino daquelas, exigirão sempre aos remetentes das mesmas o original e o duplicado do documento referido no n.º 2 do artigo 1.º
+Art. 5.º - 1 - Os transportadores de mercadorias, sejam quais forem os meios utilizados para o seu transporte e o destino daquelas, exigirão sempre aos remetentes das mesmas o original e o duplicado do documento referido no n.º 2 do artigo 1.º
 
 2 - Tratando-se de mercadorias de importação, desembaraçadas de acção aduaneira, circulando entre a alfândega e o armazém do importador, o transportador poderá fazer-se acompanhar, em substituição dos documentos referidos no número anterior, de documento comprovativo do respectivo desembaraço aduaneiro.
 
 3 - Tratando-se de mercadorias ainda sob acção aduaneira, os transportadores deverão fazer-se acompanhar dos documentos exigidos pelas alfândegas.
 
-###### Art. 6.º - 1 - O cumprimento das obrigações impostas por este diploma será fiscalizado em geral, e dentro dos limites da respectiva competência, por todas as autoridades, e em especial pelo pessoal da Direcção-Geral das Contribuições e Impostos, da Direcção-Geral das Alfândegas, da Direcção-Geral de Fiscalização Económica, da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública.
+Art. 6.º - 1 - O cumprimento das obrigações impostas por este diploma será fiscalizado em geral, e dentro dos limites da respectiva competência, por todas as autoridades, e em especial pelo pessoal da Direcção-Geral das Contribuições e Impostos, da Direcção-Geral das Alfândegas, da Direcção-Geral de Fiscalização Económica, da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública.
 
 2 - Para assegurar a eficácia das acções de fiscalização, o pessoal referido no número anterior poderá, mesmo contra a vontade do detentor ou transportador das mercadorias, proceder à abertura das embalagens, malas ou outros quaisquer contentores de mercadorias.
 
-###### Art. 7.º - 1 - A falta de emissão ou de imediata exibição de qualquer dos documentos aludidos nos artigos 1.º e 5.º do presente diploma fará incorrer os infractores nas seguintes penalidades:
+Art. 7.º - 1 - A falta de emissão ou de imediata exibição de qualquer dos documentos aludidos nos artigos 1.º e 5.º do presente diploma fará incorrer os infractores nas seguintes penalidades:
 
 a) Multa variável entre 10000$00 e 1000000$00, para a falta de emissão, aplicável ao remetente das mercadorias;
 
@@ -193,7 +216,7 @@ c) Multa variável entre 25000$00 e 2500000$00, para a falta de imediata exibiç
 
 6 - Independentemente das penalidades referidas nos números anteriores, a falta de imediata exibição do original e do duplicado do documento de transporte e dos documentos referidos nos n.os 2 e 3 do artigo 5.º, respeitantes às mercadorias em circulação, implica a apreensão das mesmas mercadorias e dos veículos que as transportarem, desde que estes não estejam afectos aos transportes públicos regulares de passageiros ou mercadorias.
 
-###### Art. 8.º - 1 - Das mercadorias e dos veículos apreendidos será lavrado auto de apreensão, em duplicado, ou, no caso do n.º 4, em triplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor provável dos bens apreendidos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
+Art. 8.º - 1 - Das mercadorias e dos veículos apreendidos será lavrado auto de apreensão, em duplicado, ou, no caso do n.º 4, em triplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor provável dos bens apreendidos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
 
 2 - O original do auto de apreensão será entregue na repartição de finanças da área onde foi consumada a transgressão.
 
@@ -201,13 +224,13 @@ c) Multa variável entre 25000$00 e 2500000$00, para a falta de imediata exibiç
 
 4 - Quando o fiel depositário não for o condutor do veículo ou o transportador, a este, se estiver presente, ou, na sua ausência, àquele, será entregue um exemplar do auto de apreensão.
 
-###### Art. 9.º - 1 - Nos quinze dias seguintes à apreensão referida no artigo anterior poderão os transgressores regularizar a situação encontrada em falta, mediante a exibição do original e do duplicado do documento de transporte ou dos documentos referidos nos n.os 2 e 3 do artigo 5.º e pagamento das multas aplicáveis a que se refere o n.º 1 do artigo 7.º, com redução de 25%, na repartição de finanças aludida no n.º 2 do artigo anterior.
+Art. 9.º - 1 - Nos quinze dias seguintes à apreensão referida no artigo anterior poderão os transgressores regularizar a situação encontrada em falta, mediante a exibição do original e do duplicado do documento de transporte ou dos documentos referidos nos n.os 2 e 3 do artigo 5.º e pagamento das multas aplicáveis a que se refere o n.º 1 do artigo 7.º, com redução de 25%, na repartição de finanças aludida no n.º 2 do artigo anterior.
 
 2 - As despesas originadas pela apreensão serão da responsabilidade do remetente das mercadorias, sendo cobradas conjuntamente com as multas indicadas no número anterior.
 
 3 - Decorrido o prazo referido no n.º 1 sem que se encontre regularizada a situação, serão levantados os autos de notícia relativos às infracções verificadas e remetidos à repartição de finanças mencionada no mesmo número.
 
-###### Art. 10.º - 1 - A sentença condenatória declarará sempre perdidas a favor da Fazenda Nacional as mercadorias apreendidas.
+Art. 10.º - 1 - A sentença condenatória declarará sempre perdidas a favor da Fazenda Nacional as mercadorias apreendidas.
 
 2 - O levantamento da apreensão do veículo só se verificará quando:
 
@@ -217,11 +240,11 @@ b) For prestada caução, por meio de depósito de dinheiro ou de fiança bancá
 
 c) Se verificar o trânsito em julgado da sentença de absolvição.
 
-###### Art. 11.º Quando em relação a uma mesma mercadoria se verificar, simultaneamente, a existência de uma infracção prevista no presente diploma e de outra de natureza fiscal-aduaneira, esta última absorverá a primeira, sendo o seu conhecimento do foro dos tribunais competentes.
+Art. 11.º Quando em relação a uma mesma mercadoria se verificar, simultaneamente, a existência de uma infracção prevista no presente diploma e de outra de natureza fiscal-aduaneira, esta última absorverá a primeira, sendo o seu conhecimento do foro dos tribunais competentes.
 
-###### Art. 12.º Os artigos 65.º, 105.º, 107.º, 109.º, 110.º, 113.º, 114.º e 115.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
+Art. 12.º Os artigos 65.º, 105.º, 107.º, 109.º, 110.º, 113.º, 114.º e 115.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
 
-###### Art. 65.º ...
+Art. 65.º ...
 
 § 1.º No caso previsto no corpo deste artigo, a nota de encomenda a que se refere o artigo anterior será apresentada aos respectivos fornecedores até ao momento de cada transacção.
 
@@ -231,37 +254,37 @@ c) Se verificar o trânsito em julgado da sentença de absolvição.
 
 § 4.º ...
 
-###### Art. 105.º A falta de entrega nos cofres do Estado, ou a entrega fora dos prazos estabelecidos, de todo ou parte do imposto devido será punida com multa variável entre metade e a totalidade do imposto em falta, com o mínimo de 2000$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 10000$00, quando a infracção for cometida dolosamente.
+Art. 105.º A falta de entrega nos cofres do Estado, ou a entrega fora dos prazos estabelecidos, de todo ou parte do imposto devido será punida com multa variável entre metade e a totalidade do imposto em falta, com o mínimo de 2000$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 10000$00, quando a infracção for cometida dolosamente.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 107.º A falta de entrega, ou a entrega fora dos prazos estabelecidos, de quaisquer declarações ou documentos a apresentar nos termos do presente diploma, bem como as inexactidões ou omissões praticadas em quaisquer dos referidos elementos, serão punidas com multa de 500$00 a 50000$00, havendo simples negligência, e com multa de 20000$00 a 1000000$00, havendo dolo.
+Art. 107.º A falta de entrega, ou a entrega fora dos prazos estabelecidos, de quaisquer declarações ou documentos a apresentar nos termos do presente diploma, bem como as inexactidões ou omissões praticadas em quaisquer dos referidos elementos, serão punidas com multa de 500$00 a 50000$00, havendo simples negligência, e com multa de 20000$00 a 1000000$00, havendo dolo.
 
 § único ...
 
-###### Art. 109.º A inexistência ou a recusa de exibição dos livros, facturas e demais documentos exigidos neste Código, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 50000$00 a 5000000$00, na qual incorrerão, solidariamente com o contribuinte, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida, técnicos de contas e guarda-livros, ou outros que forem responsáveis, sem prejuízo do procedimento criminal que ao caso couber; nos casos de inexistência dos documentos referidos neste artigo, havendo simples negligência, será aplicada a multa de 5000$00 a 1000000$00.
+Art. 109.º A inexistência ou a recusa de exibição dos livros, facturas e demais documentos exigidos neste Código, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 50000$00 a 5000000$00, na qual incorrerão, solidariamente com o contribuinte, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida, técnicos de contas e guarda-livros, ou outros que forem responsáveis, sem prejuízo do procedimento criminal que ao caso couber; nos casos de inexistência dos documentos referidos neste artigo, havendo simples negligência, será aplicada a multa de 5000$00 a 1000000$00.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 110.º Por quaisquer inexactidões ou omissões, que não constituam falsificação, praticadas nos livros, facturas ou outros documentos exigidos neste Código, bem como pelo não cumprimento das regras estabelecidas para a sua escrituração, será paga a multa de 1000$00 a 100000$00.
+Art. 110.º Por quaisquer inexactidões ou omissões, que não constituam falsificação, praticadas nos livros, facturas ou outros documentos exigidos neste Código, bem como pelo não cumprimento das regras estabelecidas para a sua escrituração, será paga a multa de 1000$00 a 100000$00.
 
 § único ...
 
-###### Art. 113.º As infracções ao disposto nos artigos 90.º, 91.º e 92.º cometidas por produtores ou grossistas registados ou sujeitos a registo serão punidas com multa de 50000$00 a 5000000$00.
+Art. 113.º As infracções ao disposto nos artigos 90.º, 91.º e 92.º cometidas por produtores ou grossistas registados ou sujeitos a registo serão punidas com multa de 50000$00 a 5000000$00.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 114.º A não observância do disposto no § 2.º do artigo 25.º, quando tenha sido dispensado o pagamento do imposto, sujeita o adquirente à multa de 5000$00 a 500000$00, pela qual responderão solidariamente, tratando-se de actos de importação, os despachantes oficiais que intervierem no desembaraço alfandegário.
+Art. 114.º A não observância do disposto no § 2.º do artigo 25.º, quando tenha sido dispensado o pagamento do imposto, sujeita o adquirente à multa de 5000$00 a 500000$00, pela qual responderão solidariamente, tratando-se de actos de importação, os despachantes oficiais que intervierem no desembaraço alfandegário.
 
 § único. A falsificação da declaração feita nos termos do § 3.º do artigo 25.º sujeita o despachante oficial à multa de 50000$00 a 1000000$00, sem prejuízo do procedimento disciplinar e criminal que ao caso couber.
 
-###### Art. 115.º A utilização indevida de declarações de responsabilidade modelos n.os 5 ou 6 a que se referem os artigos 64.º e 65.º será punida nos seguintes termos:
+Art. 115.º A utilização indevida de declarações de responsabilidade modelos n.os 5 ou 6 a que se referem os artigos 64.º e 65.º será punida nos seguintes termos:
 
 a) Quando emitidas por produtores ou grossistas registados, mas sem que as mercadorias se destinem a serem utilizadas como matéria-prima ou para venda por grosso, com multa variável entre a importância igual à do imposto que deixou de ser liquidado e o dobro do mesmo imposto, no mínimo de 2000$00;
 
@@ -269,16 +292,16 @@ b) Quando emitidas por pessoas singulares ou colectivas que não se encontrem in
 
 § único ...
 
-###### Art. 13.º É revogado o [Decreto-Lei n.º 241/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1980-472357), de 21 de Julho.
+Art. 13.º É revogado o [Decreto-Lei n.º 241/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1980-472357), de 21 de Julho.
 
-###### Art. 14.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 14.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 15.º O presente decreto-lei entrará em vigor no dia 1 do segundo mês seguinte à sua publicação.
+Art. 15.º O presente decreto-lei entrará em vigor no dia 1 do segundo mês seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Outubro de 1981.**
+Promulgado em 21 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

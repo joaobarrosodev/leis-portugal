@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1981-574686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 542688c60a721a89849ff1214feefd82b51a0bf71bf9fdbe13d8121310085c00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53b7043430c1747c15ea5bc316f00298e713aa56f8f52d5d123708c2b2afda03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:226040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:27Z'
   warnings: []
   errors: []
 ---
@@ -93,23 +109,23 @@ Usando da autorização legislativa concedida pelo artigo 25.º da [Lei n.º 4/8
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os mapas n.os 1, 2 e 3 anexos ao Decreto-Lei n.º 149-A/79, de 19 de Junho, cuja última versão foi estabelecida pelo [Decreto-Lei n.º 200-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-d-1980-226040), de 24 de Junho, são substituídos, respectivamente, pelos mapas n.os 1, 2 e 3 anexos a este decreto-lei.
+Artigo 1.º Os mapas n.os 1, 2 e 3 anexos ao Decreto-Lei n.º 149-A/79, de 19 de Junho, cuja última versão foi estabelecida pelo [Decreto-Lei n.º 200-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-d-1980-226040), de 24 de Junho, são substituídos, respectivamente, pelos mapas n.os 1, 2 e 3 anexos a este decreto-lei.
 
-###### Art. 2.º O presente diploma entra em vigor em 3 de Junho de 1981.
+Art. 2.º O presente diploma entra em vigor em 3 de Junho de 1981.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Maio de 1981.**
+Promulgado em 14 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA N.º 1
 
 Classes de imposto de consumo para cigarros por unidade de venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf))](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf)
 
 Embalagens com mais de cinquenta cigarros: por cada grupo de cinquenta cigarros ou fracção aplica-se a taxa correspondente às equivalentes embalagens de cinquenta cigarros.
 
@@ -137,7 +153,7 @@ Taxa de imposto de consumo - Tabaco picado
 
 (Por unidade de venda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf))](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf)
 
 Nas embalagens com mais de 70 g, no excedente a este peso aplica-se por cada 30 g ou fracção a taxa correspondente à equivalente embalagem de 30 g.
 
@@ -159,7 +175,7 @@ MAPA N.º 3
 
 Taxas de imposto de consumo - Cigarrilhas e charutos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf))](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/12300/12331235.pdf)
 
 Notas explicativas
 

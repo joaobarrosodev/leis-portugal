@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/110-1970-228671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 237735a7c879030490373f313a63d8b591b8b216f6d94029749b704e5078b611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe34f7efb01b76af23e9f662cb021857b5470bffe0b46c137dac87fc7febb87a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:472876:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:198681:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:34Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), de 25 de Agosto de 1969, na parte a seguir indicada, e o artigo 44.º do mesmo diploma passam a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), de 25 de Agosto de 1969, na parte a seguir indicada, e o artigo 44.º do mesmo diploma passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -103,14 +107,14 @@ B - Licenciados em Ciências Físico-Químicas ou em Ciência Biológicas ou Geo
 
 ...
 
-###### Art. 44.º - 1. Os professores habilitados com Exame de Estado para o 1.º grupo que sejam licenciados em Ciências Físico-Químicas podem requerer o provimento em lugares do 4.º grupo A e os habilitados com Exame de Estado para o actual 4.º grupo podem requerer o provimento em lugares do 11.º grupo B, envolvendo a nomeação, em ambos os casos, a sua transferência definitiva para esse grupo.
+Art. 44.º - 1. Os professores habilitados com Exame de Estado para o 1.º grupo que sejam licenciados em Ciências Físico-Químicas podem requerer o provimento em lugares do 4.º grupo A e os habilitados com Exame de Estado para o actual 4.º grupo podem requerer o provimento em lugares do 11.º grupo B, envolvendo a nomeação, em ambos os casos, a sua transferência definitiva para esse grupo.
 
 2. Os professores efectivos e extraordinários do 1.º grupo licenciados em Ciências Físico-Químicas podem também, mediante despacho ministerial, preencher transitòriamente ou, a requerimento seu, definitivamente lugares vagos do 4.º grupo A nas escolas a cujo quadro pertencem.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 6 de Março de 1970.**
+Promulgado em 6 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

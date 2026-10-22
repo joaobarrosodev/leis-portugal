@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01e22671560676bb83a461df807cc936a5fdfcdf52ee0d66eb351a7f715906b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 325219d17a81b3f0d9cb8b0ce5fdce7d515e69644ec160be7d5963d0bd1f9b4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aborto
+- Criança
+- Maternidade
+- Óbito
+- Saúde Materna
+relationships:
+- type: cites
+  target: pt:dre:184543:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:08Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +104,9 @@ Sobre esta conveniência pronunciaram-se o grupo de trabalho encarregado de plan
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 4.º e 5.º do [Decreto-Lei n.º 44128](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44128-1961-184543), de 28 de Dezembro de 1961, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 3.º, 4.º e 5.º do [Decreto-Lei n.º 44128](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44128-1961-184543), de 28 de Dezembro de 1961, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Para efeitos estatísticos, a duração da gestação, que se designa por idade gestacional, será classificada nos seguintes grupos:
+Artigo 1.º Para efeitos estatísticos, a duração da gestação, que se designa por idade gestacional, será classificada nos seguintes grupos:
 
 1.º grupo: menos de vinte e duas semanas completas;
 
@@ -109,13 +118,13 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 § único. A idade gestacional é expressa em dias ou semanas completas e é calculada a partir do primeiro dia do último período menstrual normal.
 
-###### Art. 3.º - 1 - Segundo a duração da gestação, é de pré-termo o nascimento que ocorra antes de trinta e sete semanas completas de gestação; é de termo o que ocorre entre trinta e sete semanas e quarenta e uma semanas e seis dias de gestação; é de pós-termo o que ocorre com quarenta e duas semanas completas ou mais de gestação.
+Art. 3.º - 1 - Segundo a duração da gestação, é de pré-termo o nascimento que ocorra antes de trinta e sete semanas completas de gestação; é de termo o que ocorre entre trinta e sete semanas e quarenta e uma semanas e seis dias de gestação; é de pós-termo o que ocorre com quarenta e duas semanas completas ou mais de gestação.
 
 2 - Segundo o peso ao nascer, é de baixo peso o feto ou recém-nascido cuja primeira medida de peso seja inferior a 2500 g.
 
 § único. A primeira medida de peso deverá ser feita, de preferência, na primeira hora de vida, antes que ocorra uma significativa perda de peso pós-natal.
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § único. A morte fetal, com relação à duração da gestação, poderá ser:
 
@@ -125,16 +134,16 @@ b) Intermédia, se pertencer ao 2.º;
 
 c) Tardia, caso se classifique no 3.º
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 § único. A anterior designação de abortamento corresponde à actual designação de morte fetal precoce. A anterior designação de mortinatalidade, à de morte fetal intermédia ou tardia; e a de nado-morto, à de feto morto.
 
-###### Art. 2.º O presente decreto-lei entra em vigor na data da sua publicação.
+Art. 2.º O presente decreto-lei entra em vigor na data da sua publicação.
 
 Francisco Sá Carneiro - João António Morais Leitão.
 
-**Promulgado em 11 de Fevereiro de 1980.**
+Promulgado em 11 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

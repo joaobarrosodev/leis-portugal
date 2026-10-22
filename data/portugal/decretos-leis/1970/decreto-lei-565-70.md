@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1970-147249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58b1ef12b5861e490b989744add23d71e8f48049a4d82e41332e5f80f4266331
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dcc755880e91d1bb1e947a17dc13d2d36bc2b31c8f9c9bd7fedc5fa11ff4106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Predial Português
+- Estatuto
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:335880:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335880:por
+  label: "Alterado o § 2º do art. 6º dos Estatutos pela PORT.348/75.07.06.1975.MF, DG.IS [131] de 07.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/348-1975-335880
+  date: '1975-06-07'
+- type: cites
+  target: pt:dre:163214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146682:por
+  label: "Rectificados a al. c) do art. 3º, o § 1º do art. 15º, o § único do art. 32º, o § 1º do art. 35º e o § 1º do art.\
+    \ 36º dos Estatutos, aprovados pelo presente diploma, pela RECT.DD406.17.12.1970.PC, DG.IS [291] de 17.12.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-146682
+  date: '1970-12-17'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:39Z'
   warnings: []
   errors: []
 ---
@@ -96,27 +126,27 @@ Observado o disposto no artigo 12.º do [Decreto-Lei n.º 44652](https://diariod
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Companhia Geral de Crédito Predial Português passa a regular-se pelos estatutos que constam do anexo ao presente decreto-lei.
+Artigo 1.º A Companhia Geral de Crédito Predial Português passa a regular-se pelos estatutos que constam do anexo ao presente decreto-lei.
 
-###### Art. 2.º Nas assembleias gerais da Companhia, o Estado goza da excepção consignada na segunda parte do § 3.º do artigo 183.º do Código Comercial.
+Art. 2.º Nas assembleias gerais da Companhia, o Estado goza da excepção consignada na segunda parte do § 3.º do artigo 183.º do Código Comercial.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Novembro de 1970.**
+Promulgado em 11 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO — Estatutos da Companhia Geral de Crédito Predial Português
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto da Companhia
 
-###### Artigo 1.º A Companhia Geral de Crédito Predial Português, sociedade anónima de responsabilidade limitada, criada nos termos do artigo 5.º da Lei de 13 de Julho de 1863 e cuja constituição e estatutos primitivos foram aprovados por Decreto de 25 de Outubro de 1864, continua a sua existência jurídica por tempo indeterminado, podendo também usar a designação abreviada de «Crédito Predial Português», regendo-se de ora avante pelos presentes estatutos e disposições legais aplicáveis.
+Artigo 1.º A Companhia Geral de Crédito Predial Português, sociedade anónima de responsabilidade limitada, criada nos termos do artigo 5.º da Lei de 13 de Julho de 1863 e cuja constituição e estatutos primitivos foram aprovados por Decreto de 25 de Outubro de 1864, continua a sua existência jurídica por tempo indeterminado, podendo também usar a designação abreviada de «Crédito Predial Português», regendo-se de ora avante pelos presentes estatutos e disposições legais aplicáveis.
 
-###### Art. 2.º A sua sede é em Lisboa, mas o conselho de administração, ouvido o conselho fiscal, pode, onde o julgar conveniente, observadas as formalidades legais, instalar, manter e encerrar quaisquer delegações, filiais, agências, correspondências ou outras formas de representação.
+Art. 2.º A sua sede é em Lisboa, mas o conselho de administração, ouvido o conselho fiscal, pode, onde o julgar conveniente, observadas as formalidades legais, instalar, manter e encerrar quaisquer delegações, filiais, agências, correspondências ou outras formas de representação.
 
-###### Art. 3.º Constitui objecto social:
+Art. 3.º Constitui objecto social:
 
 a) Fomentar a construção imobiliária quer para fins industriais e comerciais, quer para a habitação, em especial quando se destinar a alojamento social, designadamente por empréstimos directos ou colaborando no financiamento de planos de urbanização e de construção;
 
@@ -140,7 +170,7 @@ h) Exercer as actividades complementares ou inerentes às descritas nas alíneas
 
 ### CAPÍTULO II — Dos empréstimos
 
-###### Art. 4.º Os empréstimos serão feitos:
+Art. 4.º Os empréstimos serão feitos:
 
 1.º Com amortização progressiva por meio de anuidades, que compreenderão a quota de amortização e o juro;
 
@@ -150,7 +180,7 @@ h) Exercer as actividades complementares ou inerentes às descritas nas alíneas
 
 § único. O prazo dos empréstimos hipotecários e o seu juro serão fixados pelo conselho de administração.
 
-###### Art. 5.º Só poderão servir de hipoteca os imóveis de rendimento certo e duradouro ou terrenos de urbanização, como tais definidos e aprovados.
+Art. 5.º Só poderão servir de hipoteca os imóveis de rendimento certo e duradouro ou terrenos de urbanização, como tais definidos e aprovados.
 
 São, portanto, excluídos:
 
@@ -160,7 +190,7 @@ São, portanto, excluídos:
 
 3.º A propriedade separada do usufruto, salvo quando se der também o consentimento do usufrutuário.
 
-###### Art. 6.º Os empréstimos referidos na primeira parte da alínea b) do artigo 3.º serão normalmente garantidos por primeira hipoteca, que deverá incidir sobre imóveis livres de quaisquer encargos.
+Art. 6.º Os empréstimos referidos na primeira parte da alínea b) do artigo 3.º serão normalmente garantidos por primeira hipoteca, que deverá incidir sobre imóveis livres de quaisquer encargos.
 
 § 1.º Excepcionalmente, quando a especial natureza do crédito a conceder o justifique, poderá ser dispensada a exigência de primeira hipoteca prevista no corpo deste artigo, desde que, nos termos e condições a fixar no regulamento referido no artigo 47.º, além de hipoteca seja prestada, cumulativamente, outra garantia especial.
 
@@ -168,27 +198,27 @@ São, portanto, excluídos:
 
 ### CAPÍTULO III — Das obrigações
 
-###### Art. 7.º As obrigações ou outros títulos de dívida poderão ser nominativos, ao portador ou de cupão e serão assinados pelo presidente do conselho de administração ou por um administrador, em sua substituição, e por um dos outros administradores, com o selo branco.
+Art. 7.º As obrigações ou outros títulos de dívida poderão ser nominativos, ao portador ou de cupão e serão assinados pelo presidente do conselho de administração ou por um administrador, em sua substituição, e por um dos outros administradores, com o selo branco.
 
 § 1.º As assinaturas poderão ser de chancela.
 
 § 2.º Poderá haver títulos de 1, 5, 10, 50 e 100 obrigações ou outros títulos de dívida.
 
-###### Art. 8.º Os portadores ou possuidores das obrigações terão acção pela importância nominal das mesmas e respectivos juros apenas contra a Companhia, a qual só poderá opor-lhe a excepção de não apresentação ou perda do título enquanto esta não for comprovada e o título reformado.
+Art. 8.º Os portadores ou possuidores das obrigações terão acção pela importância nominal das mesmas e respectivos juros apenas contra a Companhia, a qual só poderá opor-lhe a excepção de não apresentação ou perda do título enquanto esta não for comprovada e o título reformado.
 
 § único. Quando o possuidor de obrigações, a favor de quem estiverem averbadas, justificar o seu extravio, a Companhia passará, decorrido um ano sem reclamações, novos títulos ou certificados correspondentes, que ficarão inalienáveis durante cinco anos.
 
-###### Art. 9.º A amortização dos títulos será semestral ou anual e deverá fazer-se sempre que for necessário ou conveniente, podendo realizar-se por compra, sorteio ou reembolso total, antecipado, de uma ou mais emissões.
+Art. 9.º A amortização dos títulos será semestral ou anual e deverá fazer-se sempre que for necessário ou conveniente, podendo realizar-se por compra, sorteio ou reembolso total, antecipado, de uma ou mais emissões.
 
-###### Art. 10.º O sorteio para amortização será anunciado e terá lugar em acto público, na presença dos delegados do conselho geral, no mês anterior ao do vencimento do juro. Os títulos sorteados deixarão de vencer juro desde o último dia do mês em que se realizar o sorteio e os seus números serão afixados na sede e agências da Companhia. O sorteio abrangerá, pelo menos, a quantidade estabelecida na respectiva tabela de amortização, podendo o conselho elevá-la.
+Art. 10.º O sorteio para amortização será anunciado e terá lugar em acto público, na presença dos delegados do conselho geral, no mês anterior ao do vencimento do juro. Os títulos sorteados deixarão de vencer juro desde o último dia do mês em que se realizar o sorteio e os seus números serão afixados na sede e agências da Companhia. O sorteio abrangerá, pelo menos, a quantidade estabelecida na respectiva tabela de amortização, podendo o conselho elevá-la.
 
 Quando a amortização abranger todos os títulos da mesma série, bastará fazer o anúncio considerando-se retirados da circulação desde o dia do vencimento do juro em curso.
 
-###### Art. 11.º Os títulos a amortizar, provenientes de sorteio, compra, antecipação ou conversão, serão inutilizados e, a seu tempo, destruídos na presença dos delegados do conselho geral, do que se lavrará acta em livro especial, indicando-se a numeração dos títulos destruídos.
+Art. 11.º Os títulos a amortizar, provenientes de sorteio, compra, antecipação ou conversão, serão inutilizados e, a seu tempo, destruídos na presença dos delegados do conselho geral, do que se lavrará acta em livro especial, indicando-se a numeração dos títulos destruídos.
 
 ### CAPÍTULO IV — Da administração da Companhia
 
-###### Art. 12.º A administração dos negócios sociais será exercida por um conselho de administração com o mandato de três anos, renovável, constituído por cinco membros.
+Art. 12.º A administração dos negócios sociais será exercida por um conselho de administração com o mandato de três anos, renovável, constituído por cinco membros.
 
 § 1.º Dois administradores serão nomeados pelo Governo, sob proposta do Ministro das Finanças.
 
@@ -200,7 +230,7 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 § 5.º Quando os negócios sociais o exijam, poderá o número de administradores previsto no corpo deste artigo ser aumentado de dois, os quais serão designado pelo conselho geral e confirmados na primeira assembleia geral que tenha lugar após a referida designação.
 
-###### Art. 13.º O conselho fiscal é composto por um presidente, dois vogais efectivos e um suplente, eleitos pela assembleia geral, com observância do disposto nos §§ 3.º e 4.º do artigo 15.º, por um período de três anos, renovável.
+Art. 13.º O conselho fiscal é composto por um presidente, dois vogais efectivos e um suplente, eleitos pela assembleia geral, com observância do disposto nos §§ 3.º e 4.º do artigo 15.º, por um período de três anos, renovável.
 
 § 1.º O presidente do conselho fiscal será sujeito a confirmação do Governo, dada pelo Ministro das Finanças mediante portaria.
 
@@ -208,11 +238,11 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 § 3.º Os membros do conselho fiscal caucionarão o exercício dos respectivos cargos depositando cada um, na sede da Companhia e à ordem desta, 50 acções ou obrigações no valor de 100000$00, as quais podem ser substituídas por outros valores, de acordo com o disposto no § único do artigo 28.º
 
-###### Art. 14.º O conselho de administração e o conselho fiscal, reunidos em sessão conjunta sob a presidência do presidente do conselho de administração ou de quem o substituir, constituem o conselho geral da Companhia.
+Art. 14.º O conselho de administração e o conselho fiscal, reunidos em sessão conjunta sob a presidência do presidente do conselho de administração ou de quem o substituir, constituem o conselho geral da Companhia.
 
 ### CAPÍTULO V — Da assembleia geral
 
-###### Art. 15.º A assembleia geral representa a universalidade dos accionistas e as suas deliberações são obrigatórias para todos.
+Art. 15.º A assembleia geral representa a universalidade dos accionistas e as suas deliberações são obrigatórias para todos.
 
 § 1.º A assembleia será constituída pelos accionistas que possuam 50 ou mais acções averbadas nos livros de registo da sociedade ou depositadas nos seus cofres com a antecedência de quinze dias relativamente à data do funcionamento da assembleia em primeira convocação.
 
@@ -222,17 +252,17 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 § 4.º O conselho de administração da Companhia mandará organizar duas listas, uma dos accionistas e outra dos obrigacionistas que tenham os títulos necessários para fazerem parte da assembleia geral. Estas listas estarão patentes na mesa da assembleia geral para se fazer por elas a verificação das presenças e as chamadas quando necessárias.
 
-###### Art. 16.º A mesa da assembleia geral, eleita pelos accionistas por um período de três anos renovável, será composta de um presidente, um vice-presidente e dois secretários, cujas faltas e impedimentos serão supridos nos termos da lei comercial.
+Art. 16.º A mesa da assembleia geral, eleita pelos accionistas por um período de três anos renovável, será composta de um presidente, um vice-presidente e dois secretários, cujas faltas e impedimentos serão supridos nos termos da lei comercial.
 
 § único. Verificada a hipótese a que se refere o § 2.º do artigo anterior, a eleição de um secretário da mesa da assembleia geral caberá aos obrigacionistas.
 
-###### Art. 17.º A assembleia geral reunirá em sessão ordinária, para os fins indicados nos n.os 1.º, 2.º e 3.º do artigo 25.º, no decurso do 1.º trimestre de cada ano.
+Art. 17.º A assembleia geral reunirá em sessão ordinária, para os fins indicados nos n.os 1.º, 2.º e 3.º do artigo 25.º, no decurso do 1.º trimestre de cada ano.
 
-###### Art. 18.º A assembleia geral reunirá extraordinàriamente sempre que o conselho de administração ou o conselho fiscal o julgarem necessário ou quando o requeiram accionistas que representem, pelo menos, 40 por cento do capital social.
+Art. 18.º A assembleia geral reunirá extraordinàriamente sempre que o conselho de administração ou o conselho fiscal o julgarem necessário ou quando o requeiram accionistas que representem, pelo menos, 40 por cento do capital social.
 
-###### Art. 19.º A convocação da assembleia geral será feita com a antecedência mínima de quinze dias, por anúncio publicado no Diário do Governo e em dois jornais da localidade da sede, designando sempre o dia, hora e local da reunião e o objecto da convocação, nele podendo também, para o caso de não se realizar a reunião, ser designado novo dia, entre quinze e trinta dias decorridos após o primeiro, hora e local para a reunião em segunda convocação, na qual se deliberará vàlidamente com qualquer número de membros presentes e representados, seja qual for o capital.
+Art. 19.º A convocação da assembleia geral será feita com a antecedência mínima de quinze dias, por anúncio publicado no Diário do Governo e em dois jornais da localidade da sede, designando sempre o dia, hora e local da reunião e o objecto da convocação, nele podendo também, para o caso de não se realizar a reunião, ser designado novo dia, entre quinze e trinta dias decorridos após o primeiro, hora e local para a reunião em segunda convocação, na qual se deliberará vàlidamente com qualquer número de membros presentes e representados, seja qual for o capital.
 
-###### Art. 20.º Para a assembleia geral poder constituir-se e funcionar legalmente em primeira convocação é necessária a presença de, pelo menos, vinte dos seus membros e a representação da décima parte do capital accionista.
+Art. 20.º Para a assembleia geral poder constituir-se e funcionar legalmente em primeira convocação é necessária a presença de, pelo menos, vinte dos seus membros e a representação da décima parte do capital accionista.
 
 § 1.º Quando o objecto da convocação for alteração dos estatutos, aumento ou redução do capital, dissolução ou liquidação, a sua constituição só será válida em primeira reunião quando, pelo menos, estejam presentes vinte accionistas que por si só e seus representados atinjam um terço do capital social.
 
@@ -240,21 +270,21 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 § 3.º Não poderão assistir às assembleias gerais os accionistas e obrigacionistas que não fizerem parte da sua constituição, salvo se forem membros dos corpos gerentes ou da mesa da assembleia geral, pois a estes caberá o direito de intervir, embora sem voto, na discussão dos assuntos que forem tratados.
 
-###### Art. 21.º Os accionistas ou obrigacionistas com direito a fazer parte da assembleia geral poderão fazer-se representar nela por outros, respectivamente, accionistas ou obrigacionistas que tenham voto por direito próprio.
+Art. 21.º Os accionistas ou obrigacionistas com direito a fazer parte da assembleia geral poderão fazer-se representar nela por outros, respectivamente, accionistas ou obrigacionistas que tenham voto por direito próprio.
 
 § 1.º Os mandatos dos accionistas, obrigacionistas e agrupamentos com voto serão apresentados à administração da Companhia até dez dias antes do marcado para a reunião e continuarão em vigor para as sessões subsequentes, enquanto não forem revogados ou substituídos.
 
 § 2.º É admissível o mandato por procuração particular ou simples carta dirigida ao presidente da mesa, ao qual competirá a apreciação da autenticidade das mesmas.
 
-###### Art. 22.º Em qualquer sessão da assembleia geral os trabalhos começarão pela verificação e reconhecimento dos membros presentes, segundo a lista de presenças que os accionistas e obrigacionistas deverão rubricar. Logo que haja número e capital bastantes o presidente assim o declarará, considerando legalmente constituída a assembleia e aberta a sessão.
+Art. 22.º Em qualquer sessão da assembleia geral os trabalhos começarão pela verificação e reconhecimento dos membros presentes, segundo a lista de presenças que os accionistas e obrigacionistas deverão rubricar. Logo que haja número e capital bastantes o presidente assim o declarará, considerando legalmente constituída a assembleia e aberta a sessão.
 
-###### Art. 23.º As deliberações da assembleia geral serão tomadas por votação em escrutínio secreto, por votação nominal ou por levantados e sentados.
+Art. 23.º As deliberações da assembleia geral serão tomadas por votação em escrutínio secreto, por votação nominal ou por levantados e sentados.
 
 § único. A votação nominal terá lugar sempre que assim o requeiram pelo menos vinte membros, representando metade do capital apurado na assembleia.
 
-###### Art. 24.º Os accionistas e obrigacionistas que tomarem parte na assembleia geral têm direito a um voto por cada grupo de 50 acções e por cada lote de obrigações perfazendo o valor nominal de 200000$00 que possuírem ou representarem, mas a nenhum pode competir mais da décima parte dos votos conferidos por todas as acções emitidas, nem mais da quinta parte dos votos que se apurarem na assembleia geral, salvo o disposto no § 3.º do artigo 183.º do Código Comercial.
+Art. 24.º Os accionistas e obrigacionistas que tomarem parte na assembleia geral têm direito a um voto por cada grupo de 50 acções e por cada lote de obrigações perfazendo o valor nominal de 200000$00 que possuírem ou representarem, mas a nenhum pode competir mais da décima parte dos votos conferidos por todas as acções emitidas, nem mais da quinta parte dos votos que se apurarem na assembleia geral, salvo o disposto no § 3.º do artigo 183.º do Código Comercial.
 
-###### Art. 25.º Compete à assembleia geral:
+Art. 25.º Compete à assembleia geral:
 
 1.º Discutir, aprovar ou modificar o balanço e mais documentos apresentados pela administração da Companhia e o parecer do conselho fiscal;
 
@@ -264,21 +294,21 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 4.º Deliberar sobre o aumento ou redução do capital social, prorrogação ou dissolução da Companhia e modificação dos estatutos.
 
-###### Art. 26.º As deliberações da assembleia geral, tomadas em conformidade com a lei e com os estatutos, são obrigatórias para todos os accionistas e obrigacionistas.
+Art. 26.º As deliberações da assembleia geral, tomadas em conformidade com a lei e com os estatutos, são obrigatórias para todos os accionistas e obrigacionistas.
 
 ### CAPÍTULO VI — De conselho de administração
 
-###### Art. 27.º O presidente do conselho de administração preside aos conselhos de administração e geral e regula os seus trabalhos, tendo também, ou quem o substitua, voto de qualidade, competindo-lhe assinar os documentos a apresentar à assembleia geral.
+Art. 27.º O presidente do conselho de administração preside aos conselhos de administração e geral e regula os seus trabalhos, tendo também, ou quem o substitua, voto de qualidade, competindo-lhe assinar os documentos a apresentar à assembleia geral.
 
 § 1.º No impedimento dos administradores eleitos, o conselho geral, se assim o entender necessário, escolherá quem os substitua de entre os accionistas e obrigacionistas, conforme o caso.
 
 § 2.º A assembleia geral, na sua primeira reunião, preencherá definitivamente por eleição a vaga de administrador, caso o impedimento seja de carácter permanente, e pelo tempo que faltar para o triénio do substituído.
 
-###### Art. 28.º Os membros eleitos do conselho de administração caucionarão o exercício dos respectivos cargos depositando cada um, na sede da Companhia e à ordem desta, 100 acções ou obrigações no valor de 200000$00.
+Art. 28.º Os membros eleitos do conselho de administração caucionarão o exercício dos respectivos cargos depositando cada um, na sede da Companhia e à ordem desta, 100 acções ou obrigações no valor de 200000$00.
 
 § único. A caução a que se refere o número anterior poderá ser substituída por outros valores, de montante igual ao dos títulos aludidos neste artigo, à cotação do mercado, ou por meio de garantia bancária, mas sempre sob aprovação do conselho geral.
 
-###### Art. 29.º São atribuições do presidente do conselho de administração e dos administradores:
+Art. 29.º São atribuições do presidente do conselho de administração e dos administradores:
 
 1.º Executar e fazer cumprir as deliberações da assembleia geral, do conselho de administração e do conselho geral, bem como os regulamentos internos a que se refere o artigo 47.º;
 
@@ -292,19 +322,19 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 6.º Assinar escrituras e títulos dos contratos e das acções e obrigações e, em geral, toda a documentação que diga respeito aos negócios da Companhia.
 
-###### Art. 30.º A Companhia ficará obrigada pela assinatura, pelo menos, de dois administradores ou de um administrador e um procurador, sendo este último designado nos termos do § único do artigo 34.º
+Art. 30.º A Companhia ficará obrigada pela assinatura, pelo menos, de dois administradores ou de um administrador e um procurador, sendo este último designado nos termos do § único do artigo 34.º
 
 § único. Mediante regulamento, ao abrigo do disposto no artigo 47.º, serão fixados os termos em que se procederá nos casos de mero expediente.
 
-###### Art. 31.º Os membros do conselho de administração serão obrigatòriamente cidadãos portugueses de origem, domiciliados em Portugal.
+Art. 31.º Os membros do conselho de administração serão obrigatòriamente cidadãos portugueses de origem, domiciliados em Portugal.
 
-###### Art. 32.º Os membros do conselho geral terão os vencimentos fixados anualmente por uma comissão de três accionistas, designados pela assembleia geral por período de três anos.
+Art. 32.º Os membros do conselho geral terão os vencimentos fixados anualmente por uma comissão de três accionistas, designados pela assembleia geral por período de três anos.
 
 § único. Além das remunerações fixadas nos termos ao presente artigo, poderá ser atribuída pela assembleia geral uma participação dos lucros líquidos apurados em cada exercício, não superior a 1,5 por cento para o conselho de administração e 0,5 por cento para o conselho fiscal.
 
-###### Art. 33.º O conselho de administração reunirá todas as vezes que assim o exija o interesse social sob a presidência do respectivo presidente ou de quem o substitua.
+Art. 33.º O conselho de administração reunirá todas as vezes que assim o exija o interesse social sob a presidência do respectivo presidente ou de quem o substitua.
 
-###### Art. 34.º O conselho de administração delibera sobre os negócios sociais e designadamente:
+Art. 34.º O conselho de administração delibera sobre os negócios sociais e designadamente:
 
 1.º Sobre todos os contratos, transacções, compromissos e operações autorizados pelo artigo 3.º destes estatutos;
 
@@ -318,7 +348,7 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 ### CAPÍTULO VII — Do conselho fiscal
 
-###### Art. 35.º No impedimento de qualquer membro de conselho fiscal, o conselho geral, se assim o entender necessário, escolherá quem o substitua de entre os accionistas ou obrigacionistas, conforme o caso.
+Art. 35.º No impedimento de qualquer membro de conselho fiscal, o conselho geral, se assim o entender necessário, escolherá quem o substitua de entre os accionistas ou obrigacionistas, conforme o caso.
 
 § 1.º A assembleia geral, na sua primeira reunião, preencherá definitivamente por eleição a vaga ocorrida, caso o impedimento seja de carácter permanente, e pelo tempo que faltar para o triénio substituído.
 
@@ -326,7 +356,7 @@ Quando a amortização abranger todos os títulos da mesma série, bastará faze
 
 ### CAPÍTULO VIII — Do conselho geral
 
-###### Art. 36.º O conselho geral reunirá sempre que o seu presidente o convoque.
+Art. 36.º O conselho geral reunirá sempre que o seu presidente o convoque.
 
 § único. Para além da orientação superior da actividade da Companhia, compete especialmente ao conselho geral:
 
@@ -358,37 +388,37 @@ n) Aprovar os regulamentos referidos no artigo 47.º;
 
 o) Resolver sobre todos os demais pontos que, no interesse da Companhia, tenham de ser presentes à assembleia geral ou sobre os quais o presidente entenda dever colher o seu parecer e voto.
 
-###### Art. 37.º O conselho geral não pode funcionar sem estar presente, pelo menos, um vogal do conselho fiscal.
+Art. 37.º O conselho geral não pode funcionar sem estar presente, pelo menos, um vogal do conselho fiscal.
 
-###### Art. 38.º As deliberações do conselho geral são tomadas por maioria de votos dos vogais presentes, cabendo ao presidente voto de qualidade, e delas se lavrará acta assinada pelo presidente e secretário do conselho geral, que será o do conselho fiscal, ou, na sua falta, o que na ocasião for designado.
+Art. 38.º As deliberações do conselho geral são tomadas por maioria de votos dos vogais presentes, cabendo ao presidente voto de qualidade, e delas se lavrará acta assinada pelo presidente e secretário do conselho geral, que será o do conselho fiscal, ou, na sua falta, o que na ocasião for designado.
 
 ### CAPÍTULO IX — De fundo social
 
-###### Art. 39.º O capital da Companhia é de 175000000$00, inteiramente realizado e representado por 350000 acções do valor nominal de 500$00 cada uma.
+Art. 39.º O capital da Companhia é de 175000000$00, inteiramente realizado e representado por 350000 acções do valor nominal de 500$00 cada uma.
 
 § 1.º Este capital poderá ser elevado até 500000000$00 por simples resolução do conselho geral e nunca será inferior à quinta parte do valor nominal das obrigações em circulação, representativas dos empréstimos hipotecários.
 
 § 2.º Haverá títulos de 1, 5, 10, 50 e 100 acções, que podem ser, provisòriamente, representados por um ou mais certificados.
 
-###### Art. 40.º As acções poderão ser nominativas ou ao portador, seguindo-se em relação a elas, na parte aplicável, o disposto nos artigos 7.º e 8.º
+Art. 40.º As acções poderão ser nominativas ou ao portador, seguindo-se em relação a elas, na parte aplicável, o disposto nos artigos 7.º e 8.º
 
-###### Art. 41.º A acção é indivisível e a Companhia pode, quando o entender, declarar que só reconhece para ela um único proprietário.
+Art. 41.º A acção é indivisível e a Companhia pode, quando o entender, declarar que só reconhece para ela um único proprietário.
 
 § único. Exceptuam-se do disposto neste artigo as fracções de acções resultantes de conversão de títulos por agrupamento, mas só na parte respeitante a dividendos, que continuarão a ser-lhes pagos em função da parte do capital que representem.
 
-###### Art. 42.º Os herdeiros e credores dos accionistas não podem, sob qualquer pretexto, requerer arresto, embargo ou penhora nos bens ou valores da Companhia, nem exigir a sua liquidação ou partilha, nem intrometer-se sob forma alguma na administração dela. Para o exercício dos seus direitos só poderão socorrer-se dos inventários sociais e das deliberações da assembleia geral.
+Art. 42.º Os herdeiros e credores dos accionistas não podem, sob qualquer pretexto, requerer arresto, embargo ou penhora nos bens ou valores da Companhia, nem exigir a sua liquidação ou partilha, nem intrometer-se sob forma alguma na administração dela. Para o exercício dos seus direitos só poderão socorrer-se dos inventários sociais e das deliberações da assembleia geral.
 
 ### CAPÍTULO X — Dos fundos de reserva
 
-###### Art. 43.º Será constituído um fundo de reserva legal, retirando-se dos lucros anuais 10 por cento; até igualar pelo menos o capital social.
+Art. 43.º Será constituído um fundo de reserva legal, retirando-se dos lucros anuais 10 por cento; até igualar pelo menos o capital social.
 
 § único. A administração poderá, porém, criar outros fundos de reserva.
 
 ### CAPÍTULO XI — Disposições gerais
 
-###### Art. 44.º O ano social é o ano civil.
+Art. 44.º O ano social é o ano civil.
 
-###### Art. 45.º O saldo dos lucros líquidos da Companhia terá a seguinte aplicação:
+Art. 45.º O saldo dos lucros líquidos da Companhia terá a seguinte aplicação:
 
 a) Para fundos de reserva;
 
@@ -400,7 +430,7 @@ d) Para distribuir os dividendos;
 
 e) Para qualquer outro fim que a assembleia geral determine sob proposta do conselho geral, designadamente para participação dos corpos gerentes nos mesmos.
 
-###### Art. 46.º Os membros do conselho geral da Companhia que tenham estado em exercício de funções durante, pelo menos, vinte anos, seguida ou interpoladamente, terão direito a receber, a título de aposentação, uma pensão mensal igual aos honorários que percebiam na data em que cessaram o exercício das respectivas funções.
+Art. 46.º Os membros do conselho geral da Companhia que tenham estado em exercício de funções durante, pelo menos, vinte anos, seguida ou interpoladamente, terão direito a receber, a título de aposentação, uma pensão mensal igual aos honorários que percebiam na data em que cessaram o exercício das respectivas funções.
 
 § 1.º Quando o tempo de desempenho do cargo foi inferior a vinte anos, mas superior a cinco, aplicar-se-á o disposto no número anterior, com a diferença de que, neste caso, a importância da pensão será aquela que corresponder ao produto do número de anos de exercício do cargo pela vigésima parte dos respectivos honorários.
 
@@ -408,9 +438,9 @@ e) Para qualquer outro fim que a assembleia geral determine sob proposta do cons
 
 § 3.º Em caso de óbito, poderá o conselho geral atribuir à viúva e filhos menores de qualquer membro dos corpos gerentes uma pensão mensal de importância correspondente a metade dos honorários ou da pensão que o falecido percebia.
 
-###### Art. 47.º O conselho geral elaborará os regulamentos internos necessários à boa gestão dos negócios da Companhia, nomeadamente no que se refere à sua actuação como instituição de crédito predial.
+Art. 47.º O conselho geral elaborará os regulamentos internos necessários à boa gestão dos negócios da Companhia, nomeadamente no que se refere à sua actuação como instituição de crédito predial.
 
-###### Art. 48.º Podem ser objecto de penhor a favor da Companhia:
+Art. 48.º Podem ser objecto de penhor a favor da Companhia:
 
 1.º Os títulos que nela se achem depositados;
 
@@ -426,14 +456,14 @@ e) Para qualquer outro fim que a assembleia geral determine sob proposta do cons
 
 § 3.º Companhia será havida como depositária dos créditos a que respeitam os n.os 2.º e 3.º e ter-se-á por notificada desde a recepção da carta ou outro documento a que se refere a última parte do § 1.º
 
-###### Art. 49.º Para as questões entre os accionistas e a Companhia será competente o foro da comarca de Lisboa, que assim fica estipulado com exclusão de qualquer outro.
+Art. 49.º Para as questões entre os accionistas e a Companhia será competente o foro da comarca de Lisboa, que assim fica estipulado com exclusão de qualquer outro.
 
-###### Art. 50.º Em tudo quanto não esteja expressamente determinado nos presentes estatutos regularão as disposições do Código Comercial e mais legislação aplicável.
+Art. 50.º Em tudo quanto não esteja expressamente determinado nos presentes estatutos regularão as disposições do Código Comercial e mais legislação aplicável.
 
-###### Art. 51.º O direito de exame concedido aos accionistas e obrigacionistas pelo que toca à escrita e documentos concernentes às operações sociais só poderá ser exercido no prazo a que se refere o artigo 189.º do Código Comercial e só poderá recair nos documentos a que respeita o mesmo artigo e seus parágrafos.
+Art. 51.º O direito de exame concedido aos accionistas e obrigacionistas pelo que toca à escrita e documentos concernentes às operações sociais só poderá ser exercido no prazo a que se refere o artigo 189.º do Código Comercial e só poderá recair nos documentos a que respeita o mesmo artigo e seus parágrafos.
 
-###### Art. 52.º A assembleia geral; dentro do prazo de sessenta dias a contar da aprovação destes estatutos, procederá às eleições previstas nos artigos 12.º, 13.º e 16.º, mantendo-se, entretanto, os actuais titulares no exercício dos seus cargos.
+Art. 52.º A assembleia geral; dentro do prazo de sessenta dias a contar da aprovação destes estatutos, procederá às eleições previstas nos artigos 12.º, 13.º e 16.º, mantendo-se, entretanto, os actuais titulares no exercício dos seus cargos.
 
-###### Art. 53.º Não poderão fazer parte dos corpos gerentes da Companhia nem em alguma qualidade, directamente ou por interposta pessoa, lhe poderão prestar quaisquer serviços as pessoas referidas nos diferentes números do artigo 1.º do [Decreto n.º 15538](https://diariodarepublica.pt/dr/detalhe/decreto/15538-1928-589492), de 1 de Junho de 1928, salvo nos casos exceptuados por lei.
+Art. 53.º Não poderão fazer parte dos corpos gerentes da Companhia nem em alguma qualidade, directamente ou por interposta pessoa, lhe poderão prestar quaisquer serviços as pessoas referidas nos diferentes números do artigo 1.º do [Decreto n.º 15538](https://diariodarepublica.pt/dr/detalhe/decreto/15538-1928-589492), de 1 de Junho de 1928, salvo nos casos exceptuados por lei.
 
-**O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro das Finanças, João Augusto Dias Rosas.

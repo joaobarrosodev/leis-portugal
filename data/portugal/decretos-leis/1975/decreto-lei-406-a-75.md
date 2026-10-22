@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 173/1975, 1º Suplemento, Série I de 1975-07-29
   number: '173'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1052-(1) a 1052-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/17301/00010061.pdf
 entry_into_force_dates: []
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df7bbfbdd1651ec1fb370751b804b9e7551bcf25b88d1a38cc89b96ad58a9777
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5401ae0797e2ede401a4cc969d6cd73a512c9f5c6d8a7941a97afdb54ccc0cf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Reserva
+- Exploração Agrícola
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
+- Reserva Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:574166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312776:por
+  label: Atualizada as tabelas anexas constantes do presente diploma, pelo(a) Portaria n.º 629/75 - Diário do Governo n.º
+    255/1975, Série I de 1975-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1975-312776
+  date: '1975-11-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 11 PELO DEC LEI 895/76 DE 30-DEZ DR.IS [302]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1976-12-30'
+- type: amended_by
+  target: pt:dre:253431:por
+  label: Alterada a tabela de equivalência, relativa aos concelhos de Campo Maior (olival) e Beja publicada em anexo ao presente
+    diploma, pelo(a) Portaria n.º 354/77 - Diário da República n.º 135/1977, Série I de 1977-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1977-253431
+  date: '1977-06-14'
+- type: amended_by
+  target: pt:dre:355489:por
+  label: "Mantidas em vigor as tabelas de pontuação, aprovadas no domínio do presente diploma, pela LEI.109/88.1988.09.26.AR\
+    \ DR.IS [223] salvo no que contrariar a presente Lei.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-1988-355489
+  date: '1988-09-26'
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º, pela LEI.77/77.1977.09.29.PCM DR.IS [226] mantendo em\
+    \ vigor as tabelas de pontuação aprovadas no domínio do presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ART 3 PELO DEC LEI 81/78 DE 29-ABR DR.IS [99]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-04-29'
+- type: repealed_by
+  target: pt:dre:425528:por
+  label: Revogado o art. 3.º pelo(a) Decreto-Lei n.º 81/78 - Diário da República n.º 99/1978, Série I de 1978-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1978-425528
+  date: '1978-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:15Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +163,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a expropriação, nos termos previstos no presente diploma, os prédios rústicos que se encontrem nalguma das seguintes situações:
+Artigo 1.º Ficam sujeitos a expropriação, nos termos previstos no presente diploma, os prédios rústicos que se encontrem nalguma das seguintes situações:
 
 a) Pertençam a pessoas singulares, sociedades ou pessoas colectivas de direito privado, ainda que de utilidade pública, que sejam proprietárias, no território nacional, de prédios rústicos que, no seu conjunto, mediante aplicação da tabela anexa a este diploma, se verifique corresponderem a mais de 50000 pontos ou, independentemente desse requisito, ultrapassem a área de 700 ha;
 
@@ -122,7 +171,7 @@ b) Pertençam a pessoas singulares, sociedades ou pessoas colectivas de direito 
 
 c) Estejam incultos ou não alcancem os níveis mínimos de aproveitamento estabelecidos e a estabelecer por portaria do Ministro da Agricultura e Pescas.
 
-###### Art. 2.º - 1. Aos proprietários atingidos pela expropriação que não se encontrem abrangidos pelas alíneas b) ou c) do artigo anterior é garantido o direito de reservar a propriedade de uma área de terra, a demarcar em função do ordenamento global das explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, desde que preencham, cumulativamente, os requisitos seguintes:
+Art. 2.º - 1. Aos proprietários atingidos pela expropriação que não se encontrem abrangidos pelas alíneas b) ou c) do artigo anterior é garantido o direito de reservar a propriedade de uma área de terra, a demarcar em função do ordenamento global das explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, desde que preencham, cumulativamente, os requisitos seguintes:
 
 a) Explorem directamente a terra de que são proprietários;
 
@@ -136,7 +185,7 @@ c) Não tenham já exercido o direito de reserva previsto em qualquer outro dipl
 
 4. A propriedade resultante do exercício do direito de reserva só pode ser transmitida, por sucessão, a favor de herdeiros legítimos ou, mediante negócios entre vivos, a favor do Estado.
 
-###### Art. 3.º - 1. O direito de reserva previsto no artigo anterior caduca se não for exercido, através de declaração escrita enviada ao Instituto de Reorganização Agrária, no prazo de quinze dias a contar da notificação, para o efeito, do proprietário ou de quem o represente.
+Art. 3.º - 1. O direito de reserva previsto no artigo anterior caduca se não for exercido, através de declaração escrita enviada ao Instituto de Reorganização Agrária, no prazo de quinze dias a contar da notificação, para o efeito, do proprietário ou de quem o represente.
 
 2. Independentemente da notificação referida no número anterior, o direito de reserva caduca no prazo de vinte dias a contar da afixação de editais nas juntas de freguesia e câmaras municipais em cuja área se situem os prédios expropriados.
 
@@ -144,15 +193,15 @@ c) Não tenham já exercido o direito de reserva previsto em qualquer outro dipl
 
 4. Tanto a notificação referida no n.º 1 deste artigo como a declaração de exercício de direito de reserva serão efectuadas através de carta registada com aviso de recepção.
 
-###### Art. 4.º Sem prejuízo do disposto nos artigos seguintes, com a expropriação cessam todos os direitos e ónus reais ou outros encargos que incidam sobre os respectivos prédios.
+Art. 4.º Sem prejuízo do disposto nos artigos seguintes, com a expropriação cessam todos os direitos e ónus reais ou outros encargos que incidam sobre os respectivos prédios.
 
-###### Art. 5.º As regras a utilizar na fixação das indemninações a atribuir aos proprietários ou outros titulares de direitos ou ónus reais atingidos pelas medidas de expropriação ou de requisição serão definidas em decreto-lei a publicar no prazo de cento e oitenta dias a contar da entrada em vigor deste diploma.
+Art. 5.º As regras a utilizar na fixação das indemninações a atribuir aos proprietários ou outros titulares de direitos ou ónus reais atingidos pelas medidas de expropriação ou de requisição serão definidas em decreto-lei a publicar no prazo de cento e oitenta dias a contar da entrada em vigor deste diploma.
 
-###### Art. 6.º - 1. São respeitados os direitos dos que, a qualquer título, que não o de propriedade perfeita, explorem uma área dos prédios expropriados que, acrescida de todas as outras que a qualquer título também explorem no momento da expropriação, não exceda a pontuação referida na alínea a) do artigo 1.º
+Art. 6.º - 1. São respeitados os direitos dos que, a qualquer título, que não o de propriedade perfeita, explorem uma área dos prédios expropriados que, acrescida de todas as outras que a qualquer título também explorem no momento da expropriação, não exceda a pontuação referida na alínea a) do artigo 1.º
 
 2. Aos que, a qualquer título que não o de propriedade perfeita, explorem uma área dos prédios expropriados que, acrescida de todas as outras que a qualquer título também explorem no momento da expropriação, exceda a pontuação referida na alínea a) do artigo 1.º, é garantido, com referência à sua posição contratual, um direito de reserva análogo ao atribuído aos proprietários e a exercer nas mesmas condições de fundo e de processo.
 
-###### Art. 7.º - 1. No conjunto do território nacional ninguém, seja pessoa singular, pessoa colectiva, sociedade ou agrupamento de facto, poderá ser proprietário ou explorar, directa ou indirectamente, a qualquer título, uma área de terra que exceda a pontuação referida na alínea a) do artigo 1.º
+Art. 7.º - 1. No conjunto do território nacional ninguém, seja pessoa singular, pessoa colectiva, sociedade ou agrupamento de facto, poderá ser proprietário ou explorar, directa ou indirectamente, a qualquer título, uma área de terra que exceda a pontuação referida na alínea a) do artigo 1.º
 
 2. Os negócios jurídicos celebrados contra o disposto no número anterior são, na medida da violação, total ou parcialmente ineficazes.
 
@@ -160,17 +209,17 @@ c) Não tenham já exercido o direito de reserva previsto em qualquer outro dipl
 
 4. São excluídos da proibição constante do n.º 1 o Estado, as pessoas colectivas de direito público e as cooperativas que venham a ser reguladas por legislação especial.
 
-###### Art. 8.º A expropriação ou as medidas de reajustamento das explorações, nos termos dos artigos anteriores, são decretadas por portaria do Ministro da Agricultura e Pescas, sob proposta do Instituto de Reorganização Agrária, dos Conselhos Regionais de Reforma Agrária ou de assembleias locais cuja composição e funcionamento serão regulados por diploma posterior.
+Art. 8.º A expropriação ou as medidas de reajustamento das explorações, nos termos dos artigos anteriores, são decretadas por portaria do Ministro da Agricultura e Pescas, sob proposta do Instituto de Reorganização Agrária, dos Conselhos Regionais de Reforma Agrária ou de assembleias locais cuja composição e funcionamento serão regulados por diploma posterior.
 
-###### Art. 9.º A publicação do acto de expropriação tem por efeito imediato a nacionalização da área abrangida e a investidura do Instituto de Reorganização Agrária na posse administrativa da mesma, independentemente de prévia fixação ou pagamento de indemnizações.
+Art. 9.º A publicação do acto de expropriação tem por efeito imediato a nacionalização da área abrangida e a investidura do Instituto de Reorganização Agrária na posse administrativa da mesma, independentemente de prévia fixação ou pagamento de indemnizações.
 
-###### Art. 10.º As acções ou omissões, intencionais ou negligentes, de proprietários, arrendatários, outros empresários agrícolas e seus comissários que afectem o bom aproveitamento da terra, infra-estruturas e equipamentos ou conduzam à diminuição, destruição ou perda da produção, para além da extinção do direito de reserva e de quaisquer outros por via dele adquiridos, e de outras sanções que por lei sejam aplicáveis ao caso, importarão, segundo a gravidade, redução ou eliminação da indemnização a que houver lugar, em termos a definir no diploma referido no artigo 5.º deste decreto-lei.
+Art. 10.º As acções ou omissões, intencionais ou negligentes, de proprietários, arrendatários, outros empresários agrícolas e seus comissários que afectem o bom aproveitamento da terra, infra-estruturas e equipamentos ou conduzam à diminuição, destruição ou perda da produção, para além da extinção do direito de reserva e de quaisquer outros por via dele adquiridos, e de outras sanções que por lei sejam aplicáveis ao caso, importarão, segundo a gravidade, redução ou eliminação da indemnização a que houver lugar, em termos a definir no diploma referido no artigo 5.º deste decreto-lei.
 
-###### Art. 11.º O Instituto de Reorganização Agrária poderá requisitar aos proprietários, arrendatários e demais afectados por medidas de expropriação o equipamento mecânico e industrial, gado e outros componentes das respectivas explorações excedentários em relação à área que fiquem a cultivar, gozando, em qualquer caso, de direito de preferência, com eficácia real, em todas as alineações por aqueles efectuadas.
+Art. 11.º O Instituto de Reorganização Agrária poderá requisitar aos proprietários, arrendatários e demais afectados por medidas de expropriação o equipamento mecânico e industrial, gado e outros componentes das respectivas explorações excedentários em relação à área que fiquem a cultivar, gozando, em qualquer caso, de direito de preferência, com eficácia real, em todas as alineações por aqueles efectuadas.
 
-###### Art. 12.º No ano agrícola subsequente à expropriação, poderá o Instituto de Reorganização Agrária tomar compulsivamente de arrendamento a área reservada, sem a consequência prevista no n.º 2 do artigo 2.º
+Art. 12.º No ano agrícola subsequente à expropriação, poderá o Instituto de Reorganização Agrária tomar compulsivamente de arrendamento a área reservada, sem a consequência prevista no n.º 2 do artigo 2.º
 
-###### Art. 13.º Compete ao Instituto de Reorganização Agrária, através dos Centros Regionais de Reforma Agrária, onde existam:
+Art. 13.º Compete ao Instituto de Reorganização Agrária, através dos Centros Regionais de Reforma Agrária, onde existam:
 
 a) Promover e apoiar a instalação de unidades de produção nas áreas expropriadas;
 
@@ -180,31 +229,31 @@ c) Proceder à demarcação das áreas reservadas, nos termos dos artigos 2.º, 
 
 d) Inventariar as benfeitorias, equipamentos, gado e outros bens existentes nas explorações situadas nas áreas expropriadas e proceder às requisições que julgar justificadas.
 
-###### Art. 14.º Dos actos provenientes da aplicação deste diploma de que resulte ofensa ilegítima aos direitos dos proprietários, arrendatários e demais interessados cabe recurso, com efeito meramente devolutivo, para os Conselhos Regionais de Reforma Agrária, e da decisão destes, ou quando estes ainda não estiverem constituídos, para o Ministro da Agricultura e Pescas.
+Art. 14.º Dos actos provenientes da aplicação deste diploma de que resulte ofensa ilegítima aos direitos dos proprietários, arrendatários e demais interessados cabe recurso, com efeito meramente devolutivo, para os Conselhos Regionais de Reforma Agrária, e da decisão destes, ou quando estes ainda não estiverem constituídos, para o Ministro da Agricultura e Pescas.
 
-###### Art. 15.º - 1. Para efeitos de aplicação das medidas estabelecidas neste diploma são declarados ineficazes os actos praticados desde 25 de Abril de 1974 que, por qualquer forma, impliquem diminuição da área do conjunto de prédios rústicos de cada proprietário e de que sejam beneficiários ou tenham aproveitado parentes ou afins, podendo ser declarados ineficazes, na portaria de expropriação, todos os demais praticados desde aquela data.
+Art. 15.º - 1. Para efeitos de aplicação das medidas estabelecidas neste diploma são declarados ineficazes os actos praticados desde 25 de Abril de 1974 que, por qualquer forma, impliquem diminuição da área do conjunto de prédios rústicos de cada proprietário e de que sejam beneficiários ou tenham aproveitado parentes ou afins, podendo ser declarados ineficazes, na portaria de expropriação, todos os demais praticados desde aquela data.
 
 2. São ineficazes os contratos de arrendamento ou quaisquer outros que envolvam cedência do uso da terra celebrados em data posterior a 15 de Abril de 1975 por proprietários ou outros empresários abrangidos pelas medidas de expropriação previstas neste diploma.
 
-###### Art. 16.º Para efeitos do presente diploma, os cônjuges não separados judicialmente de bens ou de pessoas e bens, os comproprietários, a herança indivisa e outros patrimónios autónomos ou agrupamentos de facto semelhantes são tratados como um único proprietário, arrendatário ou empresário agrícola.
+Art. 16.º Para efeitos do presente diploma, os cônjuges não separados judicialmente de bens ou de pessoas e bens, os comproprietários, a herança indivisa e outros patrimónios autónomos ou agrupamentos de facto semelhantes são tratados como um único proprietário, arrendatário ou empresário agrícola.
 
-###### Art. 17.º - 1. As dúvidas surgidas na interpretação e execução do presente diploma, e designadamente na aplicação da tabela a ele anexa, serão resolvidas por portaria do Ministro da Agricultura e Pescas.
+Art. 17.º - 1. As dúvidas surgidas na interpretação e execução do presente diploma, e designadamente na aplicação da tabela a ele anexa, serão resolvidas por portaria do Ministro da Agricultura e Pescas.
 
 2. A tabela a aplicar nos concelhos não compreendidos na tabela anexa será aprovada e publicada através de portaria do Ministério da Agricultura e Pescas.
 
-###### Art. 18.º Este diploma entra imediatamente em vigor.
+Art. 18.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Luís da Silva Murteira - José Joaquim Fragoso - Fernando Oliveira Baptista.
 
-**Promulgado em 29 de Julho de 1975.**
+Promulgado em 29 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tabela anexa ao Decreto-Lei n.º 406-A/75
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/07/17301/00010061.pdf))](https://files.diariodarepublica.pt/1s/1975/07/17301/00010061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/07/17301/00010061.pdf)
 
 Significado das abreviaturas
 

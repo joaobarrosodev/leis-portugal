@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/417-1972-690793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cdc9364e755cd75f3c8e6f060018ecb7dda9764dbbf9ff92e4717dd7c7ce1b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96242f5027ea3135f1cdb71a7cf232ed87e6b91b55f7afdfdd3d0b4fa1fe3829
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:445900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:15Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta a eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -110,7 +118,7 @@ Ministério das Comunicações
 
 Despesas do ano de 1971, respeitantes a subsídio de residência e remunerações por trabalhos extraordinários, a satisfazer pela Direcção-Geral da Aeronáutica Civil e Aeroporto de Santa Maria ... 45034$00
 
-###### Art. 2.º São igualmente autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta das verbas adiante indicadas, inscritas nos orçamentos do actual ano económico, as quantias seguintes:
+Art. 2.º São igualmente autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta das verbas adiante indicadas, inscritas nos orçamentos do actual ano económico, as quantias seguintes:
 
 Ministério das Finanças
 
@@ -124,7 +132,7 @@ Ministério da Economia
 
 Encargo do ano de 1971, respeitante a gratificações, a satisfazer pela Direcção-Geral dos Serviços Eléctricos em conta da dotação consignada a «Gratificações nos termos do n.º 2 do artigo 9.º do [Decreto n.º 113/71](https://diariodarepublica.pt/dr/detalhe/decreto/113-1971-445900), de 30 de Março» (capítulo 20.º, artigo 385.º, n.º 2) ... 16000$00
 
-###### Art. 3.º São autorizados a satisfazer as quantias abaixo indicadas, pela verba consignada a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º São autorizados a satisfazer as quantias abaixo indicadas, pela verba consignada a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.)
 
@@ -140,8 +148,8 @@ Despesas do ano de 1971, referentes a medicamentes, géneros alimentícios, teci
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Outubro de 1972.**
+Promulgado em 16 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

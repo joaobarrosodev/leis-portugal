@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05000/03380340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cbe74303c84540c4b01c42b9d21f530ed66dc530678ae32fbd5ed4afe039858
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f9fdaa7964170541743af145e36b2ac61e75f53091f0dffe746d70c527b0eef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Ensino Preparatório
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:405368:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393195:por
+  label: "Alterado o n.º 1 do artigo 7.º pelo DEC LEI.15/79.07.02.1979.MEIC, DR.IS [32] de 07.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1979-393195
+  date: '1979-02-07'
+- type: cites
+  target: pt:dre:402088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526218:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:288003:por
+  label: "Rectificado pela RECT.DD123.15.03.1977.PCM, DR.IS [62]2ºSupl de 15.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-288003
+  date: '1977-03-15'
+- type: corrected_by
+  target: pt:dre:570768:por
+  label: Rectificada a Rectificação DD123, de 15 de Março 1977, que rectifica o presente diploma, pela DECL.DD8115.24.03.1977.PCM,
+    DR.IS [70]Supl de 24.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-570768
+  date: '1977-03-24'
+- type: repealed_by
+  target: pt:dre:405368:por
+  label: "Revogado pelo DEC LEI.17-C/86.06.02.1986.MEC, DR.IS [31]Supl de 06.02.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-c-1986-405368
+  date: '1986-02-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:11Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +132,7 @@ Considerando que há necessidade de reajustar e refundir em diploma único as ba
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Contsituição, o seguinte:
 
-###### Artigo 1.º - 1. Os concursos para o provimento dos lugares de professor efectivo dos ensinos preparatório e secundário serão abertos na Direcção-Geral de Pessoal e Administração, do Ministério da Educação e Investigação Científica, até ao dia 31 de Março de cada ano, por aviso publicado no Diário da República.
+Artigo 1.º - 1. Os concursos para o provimento dos lugares de professor efectivo dos ensinos preparatório e secundário serão abertos na Direcção-Geral de Pessoal e Administração, do Ministério da Educação e Investigação Científica, até ao dia 31 de Março de cada ano, por aviso publicado no Diário da República.
 
 2. O aviso relativo a cada um dos concursos a que se refere o número anterior mencionará:
 
@@ -103,7 +142,7 @@ b) A possibilidade de provimento em vagas resultantes de transferências verific
 
 3. O prazo de admissão dos requerimentos dos concorrentes será de dez dias a contar da publicação do aviso de abertura do concurso.
 
-###### Art. 2.º - 1. Cada um dos concursos realizar-se-á em duas fases:
+Art. 2.º - 1. Cada um dos concursos realizar-se-á em duas fases:
 
 a) A primeira fase respeita à transferência de professores efectivos para outros lugares do respectivo grupo, subgrupo, disciplina ou especialidade e ainda ao primeiro provimento de candidatos que possuam a habilitação legal para o efeito;
 
@@ -111,15 +150,15 @@ b) A segunda fase destina-se a possibilitar, em condições a definir, concurso 
 
 2. A composição e correspondência entre grupos, subgrupos, disciplinas e especialidades dos dois ramos de ensino secundário serão fixadas por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 3.º - 1. Na primeira fase dos concursos poderão ser providos os lugares previstos nas alíneas a) e b) do n.º 2 do artigo 1.º
+Art. 3.º - 1. Na primeira fase dos concursos poderão ser providos os lugares previstos nas alíneas a) e b) do n.º 2 do artigo 1.º
 
 2. Na segunda fase dos concursos poderão ser providos os lugares que tenham ficado desertos após a conclusão da primeira fase.
 
-###### Art. 4.º A regulamentação dos concursos de professores efectivos dos ensinos preparatório e secundário, bem como as regras de provimento relativas à segunda fase, serão estabelecidas por portaria do Ministro da Educação e Investigação Científica, sem prejuízo do disposto no presente diploma.
+Art. 4.º A regulamentação dos concursos de professores efectivos dos ensinos preparatório e secundário, bem como as regras de provimento relativas à segunda fase, serão estabelecidas por portaria do Ministro da Educação e Investigação Científica, sem prejuízo do disposto no presente diploma.
 
-###### Art. 5.º O provimento dos lugares considerados vagos por efeito do disposto na alínea b) do n.º 2 do artigo 1.º far-se-á independentemente da publicação no Diário da República da data da vacatura do lugar, coincidindo a mesma com a data do despacho ministerial que autorize a transferência do antigo titular.
+Art. 5.º O provimento dos lugares considerados vagos por efeito do disposto na alínea b) do n.º 2 do artigo 1.º far-se-á independentemente da publicação no Diário da República da data da vacatura do lugar, coincidindo a mesma com a data do despacho ministerial que autorize a transferência do antigo titular.
 
-###### Art. 6.º - 1. Os professores habilitados com Exame de Estado, ou equivalente, são graduados em função dos seguintes elementos:
+Art. 6.º - 1. Os professores habilitados com Exame de Estado, ou equivalente, são graduados em função dos seguintes elementos:
 
 a) Classificação profissional;
 
@@ -129,19 +168,19 @@ c) Tempo de serviço prestado depois da data do Exame de Estado, ou equivalente.
 
 2. Para efeitos do disposto no número anterior, a classificação profissional dos professores reintegrados como efectivos, sob proposta da Comissão Nacional para a Reintegração dos Servidores Civis do Estado, que não sejam habilitados com o Exame de Estado, ou equivalente, é substituída, para todos os efeitos, pela nota da habilitação académica.
 
-###### Art. 7.º - 1. A classificação profissional de cada professor é a classificação do Exame de Estado, ou equivalente, acrescida de 0,5 valores por cada ano de serviço docente oficial, ou a ele equiparado, desde que classificado de Bom e até ao limite de 10 valores.
+Art. 7.º - 1. A classificação profissional de cada professor é a classificação do Exame de Estado, ou equivalente, acrescida de 0,5 valores por cada ano de serviço docente oficial, ou a ele equiparado, desde que classificado de Bom e até ao limite de 10 valores.
 
 2. O número de anos de serviço mencionado no número anterior é o quociente da divisão por 365 do número de dias de serviço prestado, nas condições já referidas, desde o dia 1 de Setembro do ano em que o professor concluiu o Exame de Estado, ou equivalente, até ao dia 30 de Setembro imediatamente anterior à data de abertura do concurso.
 
 3. Para efeitos de contagem de tempo a que se refere o número anterior, não serão considerados os dias de faltas injustificadas nem aquelas em que o candidato esteve desligado do serviço sem manutenção, nos termos legais, dos respectivos direitos.
 
-###### Art. 8.º - 1. A antiguidade prevista na alínea b) do n.º 1 do artigo 6.º é expressa em anos e dias, e corresponde a todo o serviço prestado antes do dia 1 de Setembro do ano em que o professor concluiu o Exame de Estado, ou equivalente, no ensino particular ou no ensino oficial, incluindo o tempo de estágio.
+Art. 8.º - 1. A antiguidade prevista na alínea b) do n.º 1 do artigo 6.º é expressa em anos e dias, e corresponde a todo o serviço prestado antes do dia 1 de Setembro do ano em que o professor concluiu o Exame de Estado, ou equivalente, no ensino particular ou no ensino oficial, incluindo o tempo de estágio.
 
 2. Enquanto não for regulamentado novo regime, a contagem de tempo de serviço referido no número anterior far-se-á, com as convenientes adaptações, nos termos da lei vigente à data da publicação deste diploma.
 
-###### Art. 9.º A antiguidade prevista na alínea c) do n.º 1 do artigo 6.º é expressa em dias e corresponde ao tempo que, nos termos do artigo 7.º, não foi considerado para efeitos de classificação profissional.
+Art. 9.º A antiguidade prevista na alínea c) do n.º 1 do artigo 6.º é expressa em dias e corresponde ao tempo que, nos termos do artigo 7.º, não foi considerado para efeitos de classificação profissional.
 
-###### Art. 10.º - 1. A graduação dos candidatos à primeira fase dos concursos em cada grupo, subgrupo, disciplina ou especialidade far-se-á tendo em consideração os escalões adiante indicados, pela seguinte ordem de preferência:
+Art. 10.º - 1. A graduação dos candidatos à primeira fase dos concursos em cada grupo, subgrupo, disciplina ou especialidade far-se-á tendo em consideração os escalões adiante indicados, pela seguinte ordem de preferência:
 
 a) Professores efectivos, em exercício ou na situação de licença ilimitada há mais de um ano;
 
@@ -161,13 +200,13 @@ c) O candidato portador de grau académico superior;
 
 d) O candidato mais idoso.
 
-###### Art. 11.º Os professores e mestres efectivos ou contratados dos quadros comuns dos estabelecimentos de ensino preparatório, liceal e técnico profissional das ex-colónias, desde que possuam a necessária habilitação profissional e se encontrem inscritos no quadro geral de adidos, serão graduados em igualdade de condições com os professores dos estabelecimentos de ensino do País referidos na alínea a) do n.º 1 do artigo anterior.
+Art. 11.º Os professores e mestres efectivos ou contratados dos quadros comuns dos estabelecimentos de ensino preparatório, liceal e técnico profissional das ex-colónias, desde que possuam a necessária habilitação profissional e se encontrem inscritos no quadro geral de adidos, serão graduados em igualdade de condições com os professores dos estabelecimentos de ensino do País referidos na alínea a) do n.º 1 do artigo anterior.
 
-###### Art. 12.º - 1. A graduação dos candidatos na segunda fase far-se-á em cada grupo, subgrupo, disciplina ou especialidade pela ordem decrescente da respectiva classificação profissional.
+Art. 12.º - 1. A graduação dos candidatos na segunda fase far-se-á em cada grupo, subgrupo, disciplina ou especialidade pela ordem decrescente da respectiva classificação profissional.
 
 2. Em caso de empate, proceder-se-á de acrdo com o que se estabelece no n.º 3 do artigo 10.º
 
-###### Art. 13.º - 1. Para o provimento de lugares de professor efectivo de Educação Física dos ensinos preparatório e secundário, realizar-se-á um concurso conjunto.
+Art. 13.º - 1. Para o provimento de lugares de professor efectivo de Educação Física dos ensinos preparatório e secundário, realizar-se-á um concurso conjunto.
 
 2. No concurso referido no número anterior, os professores efectivos dos dois níveis de ensino consideram-se em igualdade de condições.
 
@@ -175,7 +214,7 @@ d) O candidato mais idoso.
 
 4. Não é aplicável ao concurso previsto neste artigo o disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), de 26 de Maio.
 
-###### Art. 14.º - 1. Os professores efectivos de Canto Coral do ensino secundário poderão concorrer a lugares de Educação Musical do ensino preparatório.
+Art. 14.º - 1. Os professores efectivos de Canto Coral do ensino secundário poderão concorrer a lugares de Educação Musical do ensino preparatório.
 
 2. A apresentação a concurso dos professores referidos no número anterior far-se-á em igualdade de condições com os professores efectivos do ensino preparatório.
 
@@ -189,22 +228,22 @@ Art 16.º - 1. É obrigatória a aceitação dos lugares que, em resultado do co
 
 3. No caso de um professor não tomar posse, no prazo estabelecido por lei, do lugar em que seja provido, perde a qualidade de professor efectivo, sem prejuízo da sua condição de profissionalizado e respectiva classificação profissional.
 
-###### Art. 17.º - 1. Consideram-se regularizados, produzindo os efeitos legais inerentes, desde a data do despacho ministerial que os autorizou, os provimentos de professores efectivos dos ensinos preparatório e secundário que resultaram dos concursos realizados após a entrada em vigor do [Decreto-Lei n.º 294-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-c-1975-476968), de 18 de Junho, desde que a situação dos interessados se integre numa das alíneas seguintes:
+Art. 17.º - 1. Consideram-se regularizados, produzindo os efeitos legais inerentes, desde a data do despacho ministerial que os autorizou, os provimentos de professores efectivos dos ensinos preparatório e secundário que resultaram dos concursos realizados após a entrada em vigor do [Decreto-Lei n.º 294-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-c-1975-476968), de 18 de Junho, desde que a situação dos interessados se integre numa das alíneas seguintes:
 
 a) Serem professores efectivos à data da abertura do concurso, com menos de dez anos de serviço, calculado nos termos do [Decreto-Lei n.º 294-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-c-1975-476968), de 18 de Junho, e terem sido providos, na sequência do mesmo, em lugar de professor efectivo pertencente a estabelecimento de ensino preparatório ou secundário das áreas de Lisboa e Porto ou da cidade de Coimbra;
 
 b) Terem sido providos, na sequência do concurso, em lugares de professor efectivo dos ensinos preparatório ou secundário das áreas de Lisboa e Porto e da cidade de Coimbra, possuindo menos de dez anos de serviço, calculado nos termos do [Decreto-Lei n.º 294-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-c-1975-476968), de 18 de Junho, desde que, tendo obtido provimento anterior como efectivos, se encontrassem à data do concurso na situação de exonerado daqueles lugares.
 
-###### Art. 18.º É revogada toda a legislação anterior relativa a concursos para professores efectivos dos ensinos preparatório e secundário, nomeadamente os Decretos-Leis n.os [294-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-c-1975-476968), de 18 de Junho, e [292-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-a-1976-402088), de 23 de Abril.
+Art. 18.º É revogada toda a legislação anterior relativa a concursos para professores efectivos dos ensinos preparatório e secundário, nomeadamente os Decretos-Leis n.os [294-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-c-1975-476968), de 18 de Junho, e [292-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-a-1976-402088), de 23 de Abril.
 
-###### Art. 19.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário da República.
+Art. 19.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário da República.
 
-###### Art. 20.º Este diploma entra em vigor à data da sua publicação.
+Art. 20.º Este diploma entra em vigor à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 21 de Fevereiro de 1977.**
+Promulgado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

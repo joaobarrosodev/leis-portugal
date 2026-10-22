@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43346-1960-513013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2b30f2e214e4726cb5cbb938e1a136e77eae623cdb5e3b7c461d95ea80a442
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 455d55962d4af81648f26623010c2a8e13028530fb78f306228d451b2508b4df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Exploração Agrícola
+- Farinha
+- Financiamento
+- Indústria da Panificação
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:173513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173513:por
+  label: "Mantido em vigor para o ano cerealífero de 1962 o disposto no presente diploma pelo DEC LEI.43832.29.07.1961.MF,\
+    \ DG.IS [175] de 29.07.1961, com as alterações dele constantes.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43832-1961-173513
+  date: '1961-07-29'
+- type: cites
+  target: pt:dre:385228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668960:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:39Z'
   warnings: []
   errors: []
 ---
@@ -111,14 +135,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Mantém-se para o próximo ano cerealífero o disposto no [Decreto-Lei n.º 42609](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42609-1959-440487), de 22 de Outubro de 1959, com as alterações constantes do presente diploma.
+Artigo 1.º Mantém-se para o próximo ano cerealífero o disposto no [Decreto-Lei n.º 42609](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42609-1959-440487), de 22 de Outubro de 1959, com as alterações constantes do presente diploma.
 
-###### Art. 2.º As extracções das farinhas, referidas nos artigos 4.º e 8.º do [Decreto-Lei n.º 36993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36993-1948-385228), de 31 de Julho de 1948, ou determinadas em virtude do disposto no § único do artigo 4.º e no artigo 5.º do [Decreto-Lei n.º 38850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38850-1952-668960), de 7 de Agosto de 1952, podem ser elevadas até 0,5 por cento além do estabelecido por estas disposições, quando o trigo mole que entra na composição do lote a moer seja em quantidade superior a 70 por cento.
+Art. 2.º As extracções das farinhas, referidas nos artigos 4.º e 8.º do [Decreto-Lei n.º 36993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36993-1948-385228), de 31 de Julho de 1948, ou determinadas em virtude do disposto no § único do artigo 4.º e no artigo 5.º do [Decreto-Lei n.º 38850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38850-1952-668960), de 7 de Agosto de 1952, podem ser elevadas até 0,5 por cento além do estabelecido por estas disposições, quando o trigo mole que entra na composição do lote a moer seja em quantidade superior a 70 por cento.
 
 § único. A elevação a que se refere este artigo não alterará a taxa de moagem nem as características fixadas para as respectivas farinhas.
 
-###### Art. 3.º As normas de classificação dos trigos rijos de grão claro serão estabelecidas em portaria dos Secretários de Estado da Agricultura e do Comércio, mediante proposta do Instituto Nacional do Pão.
+Art. 3.º As normas de classificação dos trigos rijos de grão claro serão estabelecidas em portaria dos Secretários de Estado da Agricultura e do Comércio, mediante proposta do Instituto Nacional do Pão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

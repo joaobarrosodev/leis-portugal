@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d447564c9305d0fbf0d1caf0ab6316a2bb31ecba74781fd94cc19d35e727651d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f0eb5f04f3fd267ef29a5745775cbfb57b441c048be4532203460f3beaf4929
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Administração Regional
+- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280026:por
+  label: "Substituídos os anexos I e II pela PORT.787/77.24.12.1977.PCM, DR.IS [296] de 24.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/787-1977-280026
+  date: '1977-12-24'
+- type: amended_by
+  target: pt:dre:369594:por
+  label: "Alterado o anexo I do presente diploma, substituído pela Portaria n.º 787/77, de 24 de Dezembro, pelo DEC LEI.379/79.13.09.1979.PCM,\
+    \ DR.IS [212] de 13.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/379-1979-369594
+  date: '1979-09-13'
+- type: cites
+  target: pt:dre:138534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411328:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139691:por
+  label: Rectificado pela DECL.DD8122.31.03.1977.PCM, DR.IS [76] de 31.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139691
+  date: '1977-03-31'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:11Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +148,7 @@ Considerando que o reconhecimento expresso no artigo 5.º do Decreto n.º 506/75
 
 Usando da autorização conferida pela [Lei n.º 9/77](https://diariodarepublica.pt/dr/detalhe/lei/9-1977-138534), de 1 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Das categorias do pessoal da administração local)
 
@@ -118,7 +158,7 @@ Usando da autorização conferida pela [Lei n.º 9/77](https://diariodarepublica
 
 3. Para efeitos de cálculo do valor do salário, aplicar-se-á a fórmula (v x 12)/(52 n), sendo v a remuneração mensal da correspondente categoria e n o número de horas de trabalho correspondentes ao horário semanal.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Dos quadros de pessoal)
 
@@ -132,13 +172,13 @@ b) 1 de Janeiro de 1977, em todos os restantes casos.
 
 3. Quando da aplicação do disposto na alínea b) do número anterior resultar alteração para menos dos vencimentos, aos trabalhadores que transitarem para as letras fixadas para a sua categoria no anexo I ser-lhes-á paga a diferença relativa à tabela do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro, a qual será reposta com as futuras actualizações das remunerações da função pública.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Do pessoal dos governos civis e das administrações de bairro)
 
 As alterações dos quadros de pessoal dos governos civis e das administrações de bairro, de acordo com as disposições do presente diploma, serão feitas mediante portaria assinada pelos Ministros da Administração Interna e das Finanças.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Alteração dos quadros e categorias de pessoal)
 
@@ -146,19 +186,19 @@ As alterações dos quadros de pessoal dos governos civis e das administrações
 
 2. As alterações dos quadros de pessoal feitas sem a observância do disposto no número antecedente são nulas e de nenhum efeito.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Mobilidade entre os quadros interno e externo)
 
 Os funcionários do quadro único da Direcção-Geral de Acção Regional e da Secretaria-Geral do Ministério da Administração Interna e os do quadro geral administrativo dos serviços externos podem transitar de um para outro quadro, mediante o provimento em cargos correspondentes à sua classe ou àquela para que tenham sido aprovados em concurso de habilitação.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Dos propostos de tesoureiro)
 
 Os actuais propostos de tesoureiro transitam para as categorias de adjunto de tesoureiro e auxiliar de tesoureiro, independentemente de quaisquer formalidades, conforme tenham sido admitidos, respectivamente, até 31 de Dezembro de 1969 ou depois desta data.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Dos escriturários-dactilógrafos)
 
@@ -174,7 +214,7 @@ c) Para escriturário, os escriturários-dactilógrafos com mais de seis anos de
 
 3. Mantêm-se como escriturários-dactilógrafos os trabalhadores dessa categoria habilitados com a escolaridade obrigatória.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Dos motoristas)
 
@@ -186,7 +226,7 @@ Motorista de ligeiros ... S
 
 2. São classificados como motoristas de pesados, para efeitos do disposto no número anterior, os profissionais devidamente habilitados que conduzam viaturas pesadas ou, indistintamente, viaturas pesadas e ligeiras, de acordo com as exigências do serviço.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Do pessoal operário)
 
@@ -220,7 +260,7 @@ c) Passam a operários de 3.ª classe:
 
 3. Se da aplicação conjugada das regras constantes dos números anteriores resultar a necessidade de graduar os oprários, essa graduação será feita por uma comissão mista de dirigentes e trabalhadores do mesmo ramo de actividade.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Das chefias do pessoal operário)
 
@@ -238,31 +278,31 @@ c) Capataz - existirá quando:
 
 2. As situações existentes que ultrapassem as regras enunciadas no número anterior manter-se-ão para os trabalhadores actualmente ao serviço, sendo as proporções repostas à medida que os titulares dêm lugar a vagas nos quadros.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Corpos de bombeiros municipais)
 
 Ao pessoal dos corpos de bombeiros municipais, a tempo inteiro, aplicar-se-á a legislação vigente para os batalhões de sapadores bombeiros.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Grupos de actividades)
 
 A criação de lugares, nos quadros dos corpos administrativos, das federações dos municípios e dos serviços municipalizados, das categorias constantes do anexo I a este diploma fica condicionada à existência do respectivo grupo de actividades.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Alteração de designação de categorias)
 
 Para melhor conformação ao respectivo conteúdo funcional, passam às novas designações que lhe vão indicadas as categorias constantes do anexo II, considerando-se os seus titulares investidos nas novas categorias após a entrada em vigor do presente diploma, independentemente de quaisquer formalidades e de harmonia com o disposto nos n.os 2 e 3 do artigo 2.º do presente diploma.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Extinção de categorias)
 
 São extintas as categorias de ajudante, ajudante de fiscal, auxiliar, fiel e fiscal, integrando-se os trabalhadores nelas investidos na última classe da respectiva carreira.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Da substituição dos cargos de direcção e chefia)
 
@@ -272,7 +312,7 @@ São extintas as categorias de ajudante, ajudante de fiscal, auxiliar, fiel e fi
 
 3. O substituto terá direito à totalidade do vencimento e outras remunerações atribuídas ao funcionário substituído, enquanto durar a substituição.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Câmara Municipal de Lisboa)
 
@@ -280,13 +320,13 @@ São extintas as categorias de ajudante, ajudante de fiscal, auxiliar, fiel e fi
 
 2. A portaria prevista no número anterior produzirá efeitos nos termos previstos no n.º 2 do artigo 2.º deste diploma.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Revogação de disposição legal)
 
 É revogado o n.º 2 do artigo 28.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro, com efeitos desde a entrada em vigor do [Decreto-Lei n.º 156/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1974-411328), de 19 de Abril.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Mapas estatísticos anuais)
 
@@ -294,19 +334,19 @@ São extintas as categorias de ajudante, ajudante de fiscal, auxiliar, fiel e fi
 
 2. A Direcção-Geral de Acção Regional comunicará ao Serviço Central de Pessoal as vagas a que se refere o número anterior.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Dúvidas ou omissões)
 
 As dúvidas ou casos omissos resultantes da aplicação deste diploma serão resolvidos por despacho do Ministro da Administração Interna, ouvidas as Direcções-Gerais da Função Pública e de Acção Regional.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Medidas financeiras)
 
 Ficam o Ministro da Administração Interna, os corpos administrativos, as federações dos municípios e os serviços municipalizados autorizados a adoptarem as providências necessárias à execução do presente diploma.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Entrada em vigor)
 
@@ -314,18 +354,18 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás.
 
-**Promulgado em 14 de Fevereiro de 1977.**
+Promulgado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Categoria do pessoal da administração local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf)
 
 ## ANEXO II — Alteração de designação de categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05000/03210327.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás.**
+O Ministro da Administração Interna, Manuel da Costa Brás.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24800/36173618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1980-462409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 658849e81bb8c6be80d716a2a129855fbef5d00c0b358907d536a1f01ca83642
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b7e8ac56eeec40ffd6cfe4fd60f80e60fcd3863a93f1701ec79e0a8d826d747
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guarda Fiscal
+- Reestruturação de Serviços
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:256604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256805:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:58Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +119,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os Serviços Sociais da Guarda Fiscal (SSGF) têm por finalidade contribuir para a satisfação de necessidades de natureza económica, social e cultural dos elementos da Guarda Fiscal e seus familiares, levando, assim, ao estreitamento dos laços de solidariedade e, consequentemente, à manutenção de um salutar sentimento de tranquilidade e bem-estar no seio da corporação.
+Artigo 1.º Os Serviços Sociais da Guarda Fiscal (SSGF) têm por finalidade contribuir para a satisfação de necessidades de natureza económica, social e cultural dos elementos da Guarda Fiscal e seus familiares, levando, assim, ao estreitamento dos laços de solidariedade e, consequentemente, à manutenção de um salutar sentimento de tranquilidade e bem-estar no seio da corporação.
 
-###### Art. 2.º Os Serviços Sociais da Guarda Fiscal (SSGF) são uma pessoa colectiva de distrito público e gozam de autonomia administrativa e financeira.
+Art. 2.º Os Serviços Sociais da Guarda Fiscal (SSGF) são uma pessoa colectiva de distrito público e gozam de autonomia administrativa e financeira.
 
-###### Art. 3.º A acção dos Serviços Sociais da Guarda Fiscal exerce-se nos domínios da previdência, da assistência, da habitação, da educação e cultura, dos abastecimentos, do alojamento temporário e convívio social, do repouso e recreação e de outras actividades afins.
+Art. 3.º A acção dos Serviços Sociais da Guarda Fiscal exerce-se nos domínios da previdência, da assistência, da habitação, da educação e cultura, dos abastecimentos, do alojamento temporário e convívio social, do repouso e recreação e de outras actividades afins.
 
-###### Art. 4.º Para efeitos da comparticipação do Fundo de Desemprego a que se refere o artigo 7.º, n.º 2, alínea d), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, são consideradas incluídas naquele normativo a construção de casas económicas destinadas a arrendamento simples, assim como a construção de edifícios para qualquer dos fins designados no artigo 3.º do presente diploma.
+Art. 4.º Para efeitos da comparticipação do Fundo de Desemprego a que se refere o artigo 7.º, n.º 2, alínea d), do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, são consideradas incluídas naquele normativo a construção de casas económicas destinadas a arrendamento simples, assim como a construção de edifícios para qualquer dos fins designados no artigo 3.º do presente diploma.
 
-###### Art. 5.º São obrigatoriamente subscritores dos SSGF os sargentos e praças, que pagarão, mediante desconto nos seus vencimentos, para a assistência e cofre da corporação quotizações fixadas por despacho do comandante-geral da Guarda Fiscal.
+Art. 5.º São obrigatoriamente subscritores dos SSGF os sargentos e praças, que pagarão, mediante desconto nos seus vencimentos, para a assistência e cofre da corporação quotizações fixadas por despacho do comandante-geral da Guarda Fiscal.
 
-###### Art. 6.º - 1 - Podem ser admitidos como subscritores dos SSGF, ficando sujeitos às respectivas quotizações:
+Art. 6.º - 1 - Podem ser admitidos como subscritores dos SSGF, ficando sujeitos às respectivas quotizações:
 
 a) Os oficiais em serviço na Guarda Fiscal;
 
@@ -126,9 +143,9 @@ e) O pessoal civil contratado ou assalariado pela Guarda Fiscal.
 
 2 - É estabelecido para os subscritores referidos nas alíneas a) e b) do número anterior o princípio de não acumulação de benefícios com outros de igual natureza concedidos pelos Serviços Sociais das Forças Armadas, ficando obrigados a fazer a respectiva opção.
 
-###### Art. 7.º Os SSGF compreendem o conselho geral, o director, a inspecção e o secretariado-geral, sendo este o seu órgão executivo.
+Art. 7.º Os SSGF compreendem o conselho geral, o director, a inspecção e o secretariado-geral, sendo este o seu órgão executivo.
 
-###### Art. 8.º - 1 - O conselho geral é o órgão consultivo do comandante-geral para os Serviços Sociais.
+Art. 8.º - 1 - O conselho geral é o órgão consultivo do comandante-geral para os Serviços Sociais.
 
 2 - O conselho geral é presidido pelo comandante-geral e dele fazem parte o 2.º comandante-geral o inspector-geral, o secretário-geral, o inspector administrativo, o chefe do estado-maior, os comandantes das unidades e os sargentos e praças das diferentes unidades.
 
@@ -140,19 +157,19 @@ a) Estudar a política geral a seguir pelos Serviços Sociais na prossecução d
 
 b) Apreciar a actividade dos Serviços através dos relatórios do secretariado-geral.
 
-###### Art. 9.º O director é o comandante-geral da Guarda Fiscal, actua na dependência do Ministro das Finanças e do Plano e incumbe-lhe a orientação da execução da política geral fixada para os Serviços Sociais.
+Art. 9.º O director é o comandante-geral da Guarda Fiscal, actua na dependência do Ministro das Finanças e do Plano e incumbe-lhe a orientação da execução da política geral fixada para os Serviços Sociais.
 
-###### Art. 10.º A inspecção é exercida pelo inspector-geral e pelo inspector administrativo da Guarda Fiscal.
+Art. 10.º A inspecção é exercida pelo inspector-geral e pelo inspector administrativo da Guarda Fiscal.
 
-###### Art. 11.º O secretariado-geral tem a seu cargo a execução das actividades dos Serviços Sociais, segundo orientação, directivas e decisões do seu director.
+Art. 11.º O secretariado-geral tem a seu cargo a execução das actividades dos Serviços Sociais, segundo orientação, directivas e decisões do seu director.
 
-###### Art. 12.º - 1 - Os Serviços Sociais têm o quadro próprio de pessoal fixado em portaria, cujo encargo é suportado pelo orçamento da Guarda Fiscal, podendo, a título excepcional, mediante despacho do comandante-geral, o seu serviço ser desempenhado, em regime de acumulação, por oficiais, graduados e praças em serviço na corporação.
+Art. 12.º - 1 - Os Serviços Sociais têm o quadro próprio de pessoal fixado em portaria, cujo encargo é suportado pelo orçamento da Guarda Fiscal, podendo, a título excepcional, mediante despacho do comandante-geral, o seu serviço ser desempenhado, em regime de acumulação, por oficiais, graduados e praças em serviço na corporação.
 
 2 - Mediante aprovação do Ministro das Finanças e do Plano, o comandante-geral pode contratar ou assalariar o pessoal civil necessário ao funcionamento dos Serviços, sendo os correspondentes encargos suportados pelos fundos próprios dos SSGF.
 
 3 - A afectação do pessoal aos SSGF é da competência do comandante-geral, dentro do quadro do pessoal aprovado.
 
-###### Art. 13.º Constituem receita dos SSGF:
+Art. 13.º Constituem receita dos SSGF:
 
 a) A quotização dos subscritores e o juro dos empréstimos a estes concedidos;
 
@@ -172,20 +189,20 @@ h) O produto líquido das festas organizadas pela Guarda Fiscal com fins assiste
 
 i) Quaisquer outras receitas que lhes venham a ser atribuídas.
 
-###### Art. 14.º A realização de empréstimos e a alienação de imóveis carecem sempre de autorização do Ministro das Finanças e do Plano.
+Art. 14.º A realização de empréstimos e a alienação de imóveis carecem sempre de autorização do Ministro das Finanças e do Plano.
 
-###### Art. 15.º Os saldos da conta de gerência verificados no ano económico transitarão, qualquer que seja a sua proveniência, para a nova conta, podendo ser aplicados no pagamento de despesas orçamentadas para anos económicos seguintes.
+Art. 15.º Os saldos da conta de gerência verificados no ano económico transitarão, qualquer que seja a sua proveniência, para a nova conta, podendo ser aplicados no pagamento de despesas orçamentadas para anos económicos seguintes.
 
-###### Art. 16.º A organização e funcionamento dos SSGF constam de regulamento aprovado pelo Ministro das Finanças e do Plano, sob proposta do comandante-geral da Guarda Fiscal.
+Art. 16.º A organização e funcionamento dos SSGF constam de regulamento aprovado pelo Ministro das Finanças e do Plano, sob proposta do comandante-geral da Guarda Fiscal.
 
-###### Art. 17.º Fica revogado o [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968, excepto o artigo 2.º, n.º 1.
+Art. 17.º Fica revogado o [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968, excepto o artigo 2.º, n.º 1.
 
-###### Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 15 de Outubro de 1980.**
+Promulgado em 15 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

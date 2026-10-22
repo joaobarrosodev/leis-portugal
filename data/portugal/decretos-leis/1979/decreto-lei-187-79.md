@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1979-381101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f5cde877f3f625a9418cdaba7e9265ea19fac1898614ccd7069b61b84ac7cbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4ea39c57d1067564a08e118e8e640ad7cdfbd7a97b8899a006af01f1dccaa2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Ministério da Educação e Investigação Científica
 relationships:
 - type: amended_by
   target: pt:dre:457005:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457005:por
+  label: "Determinado que o Conselho, criado no presente diploma, passe a denominar-se Conselho Consultivo do Ensino Superior,\
+    \ pelo DEC LEI.10/2005.06.01.2005.MCIES, DR.IS-A [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:30Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +134,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado no Ministério da Educação e Investigação Científica o Conselho Nacional do Ensino Superior (CNES), ao qual compete estudar questões referentes ao ensino superior e sobre elas emitir parecer.
+Artigo 1.º É criado no Ministério da Educação e Investigação Científica o Conselho Nacional do Ensino Superior (CNES), ao qual compete estudar questões referentes ao ensino superior e sobre elas emitir parecer.
 
-###### Art. 2.º - 1 - O Conselho Nacional é composto por trinta membros, sendo catorze nomeados pelo Ministro da Educação e Investigação Científica, de entre professores do ensino superior.
+Art. 2.º - 1 - O Conselho Nacional é composto por trinta membros, sendo catorze nomeados pelo Ministro da Educação e Investigação Científica, de entre professores do ensino superior.
 
 2 - Competirá ao Conselho de Reitores das Universidades Portuguesas designar oito membros em representação das Universidades, desde que habilitados com o grau de doutor ou equivalente legal.
 
 3 - O conselho coordenador dos estabelecimentos de ensino superior de curta duração designará os restantes membros de entre professores desse ramo de ensino.
 
-###### Art. 3.º - 1 - O Ministro da Educação e Investigação Científica nomeará de entre os membros do Conselho um presidente e um vice-presidente, obrigatoriamente professores catedráticos ou extraordinários, cujos mandatos cessarão com os do próprio Conselho.
+Art. 3.º - 1 - O Ministro da Educação e Investigação Científica nomeará de entre os membros do Conselho um presidente e um vice-presidente, obrigatoriamente professores catedráticos ou extraordinários, cujos mandatos cessarão com os do próprio Conselho.
 
 2 - A nomeação do presidente recairá em um de três membros do Conselho designados através de eleições para esse efeito.
 
@@ -126,9 +150,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O presidente será membro do Conselho dos Reitores das Universidades Portuguesas (CRUP), sendo-lhe atribuídas todas as honras, direitos e regalias inerentes a essa qualidade.
 
-###### Art. 4.º O Conselho poderá solicitar, nos termos previstos neste diploma, a colaboração temporária de individualidades especialmente qualificadas em matérias determinadas, que serão remuneradas de acordo com o trabalho desenvolvido e em quantitativo a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Investigação Científica.
+Art. 4.º O Conselho poderá solicitar, nos termos previstos neste diploma, a colaboração temporária de individualidades especialmente qualificadas em matérias determinadas, que serão remuneradas de acordo com o trabalho desenvolvido e em quantitativo a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Investigação Científica.
 
-###### Art. 5.º - 1 - Os membros do Conselho serão normalmente designados pelo prazo de dois anos, renovável por períodos de igual duração.
+Art. 5.º - 1 - Os membros do Conselho serão normalmente designados pelo prazo de dois anos, renovável por períodos de igual duração.
 
 2 - É obrigatório o exercício de funções no Conselho, só sendo admissível dispensa, por despacho do Ministro da Educação e Investigação Científica, em casos excepcionais e comprovadamente justificados.
 
@@ -136,7 +160,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A designação dos novos membros deverá efectuar-se até ao trigésimo dia anterior ao termo do mandato do Conselho em exercício.
 
-###### Art. 6.º - 1 - Compete ao Conselho Nacional do Ensino Superior, dentro dos limites estabelecidos no artigo 1.º do presente diploma, emitir parecer, nomeadamente, sobre as seguintes matérias:
+Art. 6.º - 1 - Compete ao Conselho Nacional do Ensino Superior, dentro dos limites estabelecidos no artigo 1.º do presente diploma, emitir parecer, nomeadamente, sobre as seguintes matérias:
 
 a) Esquema geral do sistema educativo superior;
 
@@ -162,35 +186,35 @@ j) Convenções internacionais.
 
 3 - O Ministro da Educação e Investigação Científica pode, no âmbito do n.º 1 do presente artigo, submeter ao Conselho quaisquer deliberações dos conselhos científicos ou pedagógicos dos estabelecimentos de ensino superior.
 
-###### Art. 7.º - 1 - O Conselho Nacional do Ensino Superior terá uma comissão permanente composta pelo presidente, vice-presidente e por um vogal nomeado pelo Ministro da Educação e Investigação Científica de entre os membros do Conselho.
+Art. 7.º - 1 - O Conselho Nacional do Ensino Superior terá uma comissão permanente composta pelo presidente, vice-presidente e por um vogal nomeado pelo Ministro da Educação e Investigação Científica de entre os membros do Conselho.
 
 2 - Todos os membros da comissão permanente desempenharão as suas funções em regime de comissão de serviço e serão remunerados nos termos do mapa I anexo a este diploma.
 
-###### Art. 8.º À comissão permanente compete a prática dos actos internos previstos neste diploma e a dinamização da actividade do Conselho.
+Art. 8.º À comissão permanente compete a prática dos actos internos previstos neste diploma e a dinamização da actividade do Conselho.
 
-###### Art. 9.º O Conselho Nacional do Ensino Superior dispõe de uma estrutura técnica e administrativa que funciona na dependência da comissão permanente.
+Art. 9.º O Conselho Nacional do Ensino Superior dispõe de uma estrutura técnica e administrativa que funciona na dependência da comissão permanente.
 
-###### Art. 10.º - 1 - A estrutura técnica e administrativa disporá do pessoal constante do mapa II anexo a este diploma, o qual será acrescentado ao quadro de pessoal do mapa II anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616), de 5 de Novembro, que será integrado no quadro único dos serviços centrais do Ministério da Educação e Investigação Científica, nos termos do n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+Art. 10.º - 1 - A estrutura técnica e administrativa disporá do pessoal constante do mapa II anexo a este diploma, o qual será acrescentado ao quadro de pessoal do mapa II anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616), de 5 de Novembro, que será integrado no quadro único dos serviços centrais do Ministério da Educação e Investigação Científica, nos termos do n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
 2 - As formas de recrutamento e os regimes de provimento do pessoal referido no número anterior são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, salvo a proposta de provimento, que compete ao presidente do Conselho Nacional, ouvidos os restantes membros da comissão permanente.
 
-###### Art. 11.º O Conselho Nacional do Ensino Superior funcionará em plenário ou em comissões restritas constituídas nos termos do presente decreto-lei.
+Art. 11.º O Conselho Nacional do Ensino Superior funcionará em plenário ou em comissões restritas constituídas nos termos do presente decreto-lei.
 
-###### Art. 12.º - 1 - O plenário do Conselho reunirá em sessões ordinárias ou extraordinárias.
+Art. 12.º - 1 - O plenário do Conselho reunirá em sessões ordinárias ou extraordinárias.
 
 2 - As sessões ordinárias realizar-se-ão mensalmente, em dia, hora e local a fixar pelo presidente.
 
 3 - As sessões extraordinárias realizar-se-ão por determinação do Ministro da Educação e Investigação Científica, do Secretário de Estado do Ensino Superior e Investigação Científica, do director-geral do Ensino Superior ou por iniciativa do presidente, ou da comissão permanente, ou ainda a requerimento de, pelo menos, um terço dos membros do Conselho em efectividade de funções.
 
-###### Art. 13.º - 1 - As sessões plenárias funcionarão desde que estejam presentes a maioria dos seus membros em efectividade de funções, entre os quais o presidente ou o vice-presidente.
+Art. 13.º - 1 - As sessões plenárias funcionarão desde que estejam presentes a maioria dos seus membros em efectividade de funções, entre os quais o presidente ou o vice-presidente.
 
 2 - As deliberações serão tomadas pela maioria dos votos dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 14.º - 1 - As comissões previstas no artigo 11.º do presente diploma serão organizadas a título permanente ou eventual e constituídas pelos membros da comissão permanente, por outros membros do Conselho e, sempre que necessário, por individualidades, nos termos previstos no artigo 4.º do presente diploma.
+Art. 14.º - 1 - As comissões previstas no artigo 11.º do presente diploma serão organizadas a título permanente ou eventual e constituídas pelos membros da comissão permanente, por outros membros do Conselho e, sempre que necessário, por individualidades, nos termos previstos no artigo 4.º do presente diploma.
 
 2 - A colaboração das referidas individualidades será solicitada pela comissão permanente, ouvindo, quando necessário, os membros do Conselho que sejam especialistas da matéria em causa.
 
-###### Art. 15.º - 1 - Compete ao presidente do CNES:
+Art. 15.º - 1 - Compete ao presidente do CNES:
 
 a) Representar o Conselho e assegurar conjuntamente com os respectivos membros da comissão permanente as relações entre este e o Ministério;
 
@@ -206,7 +230,7 @@ f) Fazer as propostas de provimento do pessoal da estrutura técnica e administr
 
 2 - O vice-presidente substitui o presidente na sua ausência e impedimentos.
 
-###### Art. 16.º Compete designadamente à comissão permanente:
+Art. 16.º Compete designadamente à comissão permanente:
 
 a) Apoiar o presidente do Conselho Nacional no desempenho das suas funções;
 
@@ -218,7 +242,7 @@ d) Superintender na estrutura técnica e administrativa;
 
 e) Distribuir os processos.
 
-###### Art. 17.º Compete designadamente à estrutura técnica e administrativa:
+Art. 17.º Compete designadamente à estrutura técnica e administrativa:
 
 a) Proceder à recolha de documentação nacional e estrangeira sobre ensino superior;
 
@@ -236,11 +260,11 @@ g) Praticar, em geral, todos os actos de expediente que pela comissão permanent
 
 h) Assegurar a prestação dos serviços auxiliares necessários ao funcionamento do Conselho.
 
-###### Art. 18.º - 1 - Para cada assunto a apresentar, a comissão permanente deverá organizar um processo, do qual constarão todos os documentos com ele relacionados.
+Art. 18.º - 1 - Para cada assunto a apresentar, a comissão permanente deverá organizar um processo, do qual constarão todos os documentos com ele relacionados.
 
 2 - A comissão permanente poderá solicitar à Direcção-Geral do Ensino Superior todos os elementos que ache indispensáveis e que julgue aí existirem.
 
-###### Art. 19.º - 1 - Os processos serão distribuídos pela comissão permanente a um relator, que será coadjuvado pelos elementos dessa comissão.
+Art. 19.º - 1 - Os processos serão distribuídos pela comissão permanente a um relator, que será coadjuvado pelos elementos dessa comissão.
 
 2 - O relator poderá ser um dos membros do Conselho ou uma das individualidades previstas no artigo 4.º do presente diploma.
 
@@ -250,36 +274,36 @@ h) Assegurar a prestação dos serviços auxiliares necessários ao funcionament
 
 5 - O parecer final será submetido à aprovação do plenário do Conselho.
 
-###### Art. 20.º Os prazos previstos nos n.os 3 e 4 do artigo anterior poderão ser reduzidos ou dilatados por decisão da comissão executiva, desde que haja motivo que o justifique.
+Art. 20.º Os prazos previstos nos n.os 3 e 4 do artigo anterior poderão ser reduzidos ou dilatados por decisão da comissão executiva, desde que haja motivo que o justifique.
 
-###### Art. 21.º - 1 - A comissão permanente elaborará um projecto de regulamento interno, a ser aprovado em reunião plenária.
+Art. 21.º - 1 - A comissão permanente elaborará um projecto de regulamento interno, a ser aprovado em reunião plenária.
 
 2 - O regulamento referido no número anterior carece de homologação do director-geral do Ensino Superior para produzir os seus efeitos.
 
-###### Art. 22.º Será equiparado, para todos os efeitos, ao efectivo exercício de função própria o serviço prestado, nos termos do determinado no regulamento referido no artigo anterior, pelo pessoal docente que faça parte da comissão permanente.
+Art. 22.º Será equiparado, para todos os efeitos, ao efectivo exercício de função própria o serviço prestado, nos termos do determinado no regulamento referido no artigo anterior, pelo pessoal docente que faça parte da comissão permanente.
 
-###### Art. 23.º Sem prejuízo do disposto no n.º 1 do artigo 5.º do presente diploma, o primeiro mandato do Conselho Nacional terminará em 30 de Setembro de 1981.
+Art. 23.º Sem prejuízo do disposto no n.º 1 do artigo 5.º do presente diploma, o primeiro mandato do Conselho Nacional terminará em 30 de Setembro de 1981.
 
-###### Art. 24.º Os encargos resultantes da promulgação deste diploma serão, no ano de 1979, satisfeitos por força das dotações comuns para o ensino superior em conta dos quantitativos a atribuir ao Conselho, mediante proposta da Direcção-Geral do Ensino Superior.
+Art. 24.º Os encargos resultantes da promulgação deste diploma serão, no ano de 1979, satisfeitos por força das dotações comuns para o ensino superior em conta dos quantitativos a atribuir ao Conselho, mediante proposta da Direcção-Geral do Ensino Superior.
 
-###### Art. 25.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando for caso disso.
+Art. 25.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando for caso disso.
 
-###### Art. 26.º Consideram-se extintas as comissões científicas nacionais interuniversitárias, criadas pelo [Decreto-Lei n.º 769/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-1976-409346), de 23 de Outubro.
+Art. 26.º Consideram-se extintas as comissões científicas nacionais interuniversitárias, criadas pelo [Decreto-Lei n.º 769/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-1976-409346), de 23 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 31 de Maio de 1979.**
+Promulgado em 31 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14200/13631366.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14200/13631366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14200/13631366.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14200/13631366.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14200/13631366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14200/13631366.pdf)
 
-**O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.**
+O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.

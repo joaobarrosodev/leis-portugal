@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30200/31683177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8dc04101baea9f22557a07cfdeb89b33dfbfbb43ba89718d1a11bf4e30a1573
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd09c586432958ae6e9c6f5634423696d1799985bd59cfbd6c10f4e3f6301414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA do POVO
+- Centro de Documentação
+- Centro Nacional de Pensões
+- Centro Regional de Segurança Social
+- Conselho da Segurança Social
+- Definição de Competências
+- Departamento de Acidentes de Trabalho e Doenças Profissionais
+- Departamento de Estudos Actuariais e de Estatística
+- Departamento de Planeamento da Segurança Social
+- Departamento de Relações Internacionais e Convenções de Segurança Social
+- Direcção Geral da Organização e Recursos Humanos
+- Direcção Geral da Segurança Social
+- Gabinete de Instalações e Equipamentos Sociais
+- Inspecção Geral da Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Ministério dos Assuntos Sociais
+- Orgânica
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297012:por
+  label: Alterados os arts. 1.º, 2.º, 8.º, 10.º, 16.º, 24.º e 41.º pela LEI.55/78.1978.07.27.AR DR.IS [171]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-1978-297012
+  date: '1978-07-27'
+- type: amended_by
+  target: pt:dre:365765:por
+  label: "Alterada a designação do órgão referido nos artigos 31.º e 32.º para Conselho Nacional de Segurança Social, pelo\
+    \ DEC LEI.515/79.28.12.1979.PCM, DR.IS [298] de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/515-1979-365765
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:487122:por
+  label: "Extinta a Direccão-Geral da Segurança Social, a Direccão-Geral da Organização e Recursos Humanos da Segurança Social\
+    \ e o Departamento de Planeamento da Segurança Social, pelo DEC LEI.83/91.20.02.1991.MESS, DR.IS-A [42] de 20.02.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1991-487122
+  date: '1991-02-20'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346485:por
+  label: Revogados os arts. 19.º a 28.º, 33.º e 34.º do presente diploma, ratificado pela Lei 55/78, de 27 de Julho, pelo
+    DEC LEI.260/93.23.07.1993.MESS, DR.IS-A [171] de 23.07.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1993-346485
+  date: '1993-07-23'
 article_structure:
   article_count: 44
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:16Z'
   warnings: []
   errors: []
 ---
@@ -638,8 +690,8 @@ A progressiva compatibilização e integração estrutural da protecção social
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Armando Bacelar.
 
-**Promulgado em 21 de Dezembro de 1977.**
+Promulgado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

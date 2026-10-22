@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1970-138820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 931033e7c2b9a94abcc9eff10182373914cd654758b2b76351af8b2234206527
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0078cf10a7998bffa4ebfabf5028b1923dcbf669e087a24f6c93afe3475dcc5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Força Aérea
+- Militar
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:161720:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161720:por
+  label: "Alterado o art. 10º do Dec Lei 40949, de 28-Dez de 1956, na redacção do presente diploma, pelo DEC LEI.177/75.02.04.1975.CCEMFA,\
+    \ DG.IS [77] de 02.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1975-161720
+  date: '1975-04-02'
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352507:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:05Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +114,9 @@ Considerando ainda que a instituição de um serviço de mecanografia e estatís
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 10.º e 14.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterados pelos Decretos-Leis n.os 41144, 41758, 45668 e 45752, respectivamente de 5 de Junho de 1957, de 25 de Julho de 1958, de 18 de Abril e de 4 de Junho de 1964, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 10.º e 14.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterados pelos Decretos-Leis n.os 41144, 41758, 45668 e 45752, respectivamente de 5 de Junho de 1957, de 25 de Julho de 1958, de 18 de Abril e de 4 de Junho de 1964, passam a ter a seguinte redacção:
 
-###### Art. 3.º Os serviços da Força Aérea têm por finalidade essencial:
+Art. 3.º Os serviços da Força Aérea têm por finalidade essencial:
 
 O estabelecimento e funcionamento dos sistemas de comunicações da Força Aérea e dos sistemas de segurança e regulação do tráfego aéreo;
 
@@ -127,7 +146,7 @@ O Serviço de Intendência e Contabilidade;
 
 O Serviço de Mecanografia e Estatística da Força Aérea.
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 ...
 
@@ -141,17 +160,17 @@ c) Nos Serviços de Pessoal, de Recrutamento e Instrução e de Saúde, através
 
 d) Nos comandos aero-terrestres e aero-navais, permanente ou eventualmente constituídos, tendo em consideração o que para cada caso for estabelecido.
 
-###### Art. 14.º O Estado-Maior da Força Aérea compreende:
+Art. 14.º O Estado-Maior da Força Aérea compreende:
 
 ...
 
 f) Uma 5.ª Repartição, de Administração e Logística, com três secções: a 1.ª, de Administração e Intendência; a 2.ª, de Material e Infra-Estruturas, e, a 3.ª, de Mecanografia e Estatística.
 
-###### Art. 2.º São adicionados ao [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, os seguintes artigos:
+Art. 2.º São adicionados ao [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, os seguintes artigos:
 
 H) Serviço de Mecanografia e Estatística da Força Aérea
 
-###### Art. 49.º-E O Serviço de Mecanografia e Estatística da Força Aérea tem por finalidade essencial cooperar com os diferentes órgãos da Secretaria de Estado da Aeronáutica na elaboração de cálculos, previsões e estatísticas e facilitar operações e registos dos serviços, conforme for determinado, competindo-lhe, especialmente:
+Art. 49.º-E O Serviço de Mecanografia e Estatística da Força Aérea tem por finalidade essencial cooperar com os diferentes órgãos da Secretaria de Estado da Aeronáutica na elaboração de cálculos, previsões e estatísticas e facilitar operações e registos dos serviços, conforme for determinado, competindo-lhe, especialmente:
 
 a) Receber, classificar, arquivar, tratar e fornecer informações estatísticas necessárias a estudos, planos e programas da Força Aérea;
 
@@ -165,7 +184,7 @@ A catalogação (identificação e classificação), uniformização, abastecime
 
 Os cálculos dos vencimentos e abonos ao pessoal da Força Aérea e os seus pagamentos, a elaboração de orçamentos e a administração de fundos, a verificação de contas e a inspecção administrativa.
 
-###### Art. 49.º-F O Serviço de Mecanografia e Estatística da Força Aérea compreende:
+Art. 49.º-F O Serviço de Mecanografia e Estatística da Força Aérea compreende:
 
 a) Uma direcção e inspecção;
 
@@ -173,7 +192,7 @@ b) Uma Comissão Consultiva de Estatística da Força Aérea;
 
 c) Delegações da direcção do serviço, centros mecanográficos e secções de mecanografia e/ou de estatística constituídos em órgãos da Força Aérea estranhos ao serviço e incluídos na organização para estes autorizada.
 
-###### Art. 49.º-G - 1. A direcção compreende:
+Art. 49.º-G - 1. A direcção compreende:
 
 Um director e inspector e um subdirector;
 
@@ -219,30 +238,30 @@ Uma 3.ª Secção, de Exploração de Máquinas.
 
 9. A Secretaria e Arquivo Geral é o órgão de que o director do Serviço dispõe para o expediente, registo, arquivo e outras funções de administração que, pela sua natureza, não devam ser atribuídas a outros órgãos da direcção.
 
-###### Art. 49.º-H - 1. A Comissão Consultiva de Estatística da Força Aérea tem funções consultivas e destina-se a assistir a chefia do Estado-Maior da Força Aérea nas questões respeitantes à organização e funcionamento do sistema estatístico da Força Aérea, bem como a colaborar, conforme lhe for determinado, com outros órgãos oficiais de estatística.
+Art. 49.º-H - 1. A Comissão Consultiva de Estatística da Força Aérea tem funções consultivas e destina-se a assistir a chefia do Estado-Maior da Força Aérea nas questões respeitantes à organização e funcionamento do sistema estatístico da Força Aérea, bem como a colaborar, conforme lhe for determinado, com outros órgãos oficiais de estatística.
 
 2. A Comissão Consultiva de Estatística da Força Aérea é constituída pelo director e subdirector do Serviço de Mecanografia e Estatística da Força Aérea, pelo chefe do Centro de Estatística da Força Aérea, por um representante de cada um dos serviços de pessoal, de material, de infra-estruturas e de intendência e contabilidade, de preferência oficiais superiores em serviço nas direcções dos respectivos serviços, e por um oficial do Estado-Maior da Força Aérea, servindo o primeiro de presidente e o último de secretário.
 
 3. O director do Serviço de Mecanografia e Estatística da Força Aérea é o representante nato da Secretaria de Estado da Aeronáutica noutros órgãos oficiais, de estatística, e o subdirector, o seu suplente, podendo, porém, o primeiro delegar a representação quando esta se deva exercer sob a direcção ou presidência de um funcionário menos categorizado.
 
-###### Art. 49.º-I Nos termos do [Decreto-Lei n.º 41750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41750-1958-352507), de 23 de Julho de 1958, podem ser constituídas nas regiões aéreas delegações da direcção do Serviço de Mecanografia e Estatística da Força Aérea, em especial quando o alargamento dos respectivos sistemas torne indispensável o funcionamento de centros mecanográficos e de secções de mecanografia e ou de estatística, nas regiões aéreas ultramarinas.
+Art. 49.º-I Nos termos do [Decreto-Lei n.º 41750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41750-1958-352507), de 23 de Julho de 1958, podem ser constituídas nas regiões aéreas delegações da direcção do Serviço de Mecanografia e Estatística da Força Aérea, em especial quando o alargamento dos respectivos sistemas torne indispensável o funcionamento de centros mecanográficos e de secções de mecanografia e ou de estatística, nas regiões aéreas ultramarinas.
 
-###### Art. 49.º-J Os centros mecanográficos incluem-se, conforme for autorizado, na organização das delegações da Direcção do Serviço de Mecanografia e Estatística e de unidades e estabelecimentos da Força Aérea, para, como órgãos periféricos da Central Mecanográfica da Força Aérea, assegurarem, localmente, a conversão de um ou mais serviços ao tratamento mecanográfico de informações, o aperfeiçoamento dos métodos e processos mecanográficos, o arquivo de informações mecanográficas e a sua exploração por meio de máquinas mecanográficas com que são sempre dotados.
+Art. 49.º-J Os centros mecanográficos incluem-se, conforme for autorizado, na organização das delegações da Direcção do Serviço de Mecanografia e Estatística e de unidades e estabelecimentos da Força Aérea, para, como órgãos periféricos da Central Mecanográfica da Força Aérea, assegurarem, localmente, a conversão de um ou mais serviços ao tratamento mecanográfico de informações, o aperfeiçoamento dos métodos e processos mecanográficos, o arquivo de informações mecanográficas e a sua exploração por meio de máquinas mecanográficas com que são sempre dotados.
 
-###### Art. 49.º-L As secções de mecanografia, as secções de estatística ou as secções de mecanografia e estatística incluem-se, conforme for autorizado, na organização das delegações da Direcção do Serviço de Mecanografia e Estatística, de direcções de serviço, de repartições, de unidades ou estabelecimentos da Força Aérea para assegurarem, dentro da organização em que estão constituídas, os estudos necessários ao serviço e o seu bom funcionamento, podendo dispor apenas de máquinas para operações simples de mecanografia.
+Art. 49.º-L As secções de mecanografia, as secções de estatística ou as secções de mecanografia e estatística incluem-se, conforme for autorizado, na organização das delegações da Direcção do Serviço de Mecanografia e Estatística, de direcções de serviço, de repartições, de unidades ou estabelecimentos da Força Aérea para assegurarem, dentro da organização em que estão constituídas, os estudos necessários ao serviço e o seu bom funcionamento, podendo dispor apenas de máquinas para operações simples de mecanografia.
 
-###### Art. 3.º - 1. Diploma especial regulará a composição e constituição pormenorizadas dos organismos criados pelo presente diploma, estabelecerá as normas reguladoras da sua actividade e reajustará, em conformidade, os quadros de pessoal da Força Aérea.
+Art. 3.º - 1. Diploma especial regulará a composição e constituição pormenorizadas dos organismos criados pelo presente diploma, estabelecerá as normas reguladoras da sua actividade e reajustará, em conformidade, os quadros de pessoal da Força Aérea.
 
 2. O diploma referido no n.º 1 deste artigo será promulgado até 31 de Dezembro de 1970.
 
-###### Art. 4.º É fixado o período de 1970 a 1971 para se instituir completamente o Serviço de Mecanografia e Estatística da Força Aérea.
+Art. 4.º É fixado o período de 1970 a 1971 para se instituir completamente o Serviço de Mecanografia e Estatística da Força Aérea.
 
-###### Art. 5.º Os encargos administrativos resultantes da instituição do Serviço de Mecanografia e Estatística da Força Aérea e do seu funcionamento regular serão inscritos no orçamento dos Encargos Gerais da Nação como despesas ordinárias da Força Aérea e, quando aplicável, como despesas extraordinárias das forças militares extraordinárias do ultramar.
+Art. 5.º Os encargos administrativos resultantes da instituição do Serviço de Mecanografia e Estatística da Força Aérea e do seu funcionamento regular serão inscritos no orçamento dos Encargos Gerais da Nação como despesas ordinárias da Força Aérea e, quando aplicável, como despesas extraordinárias das forças militares extraordinárias do ultramar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Agosto de 1970.**
+Promulgado em 12 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

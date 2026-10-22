@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03100/02630268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1976-506662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ed036d7388ecb9e80a41b5020f64f59e7eaeebc627aede09b2d26366d54367
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e702a9004258d73d755e322690c5719da4809f87eb1d74de0ec7c82ef721e535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- FAOJ
+- Orgânica
+- Protecção à Juventude
+- Tempos Livres
 relationships:
 - type: amended_by
   target: pt:dre:651703:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651703:por
+  label: "Extintas as casas de cultura da juventude, cuja criação está prevista no presente diploma, pelo DEC LEI.333/93.29.09.1993.PCM,\
+    \ DR.IS-A [229] de 29.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1993-651703
+  date: '1993-09-29'
+- type: cites
+  target: pt:dre:413179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280737:por
+  label: "Revogado pelo DEC LEI.478/77.15.11.1977.MEIC, DR.IS [264] de 15.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/478-1977-280737
+  date: '1977-11-15'
+- type: repealed_by
+  target: pt:dre:218549:por
+  label: "Revogado pelo DEC LEI.216/86.04.08.1986.PCM, DR.IS [177] de 04.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1986-218549
+  date: '1986-08-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:06Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +138,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º O Fundo de Apoio aos Organismos Juvenis - abreviadamente designado por Fundo -, instituído pelo [Decreto-Lei n.º 179/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1974-623068), de 30 de Abril, goza de personalidade jurídica e de autonomia administrativa.
+Artigo 1.º O Fundo de Apoio aos Organismos Juvenis - abreviadamente designado por Fundo -, instituído pelo [Decreto-Lei n.º 179/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1974-623068), de 30 de Abril, goza de personalidade jurídica e de autonomia administrativa.
 
-###### Art. 2.º São atribuições do Fundo o apoio, coordenação e expansão das actividades juvenis para o preenchimento dos tempos livres, tendo em vista, designadamente:
+Art. 2.º São atribuições do Fundo o apoio, coordenação e expansão das actividades juvenis para o preenchimento dos tempos livres, tendo em vista, designadamente:
 
 a) O desenvolvimento cultural da juventude, num permanente contexto democrático e em função do propósito de construção de uma sociedade socialista;
 
@@ -110,7 +150,7 @@ c) O estímulo e fomento de organizações autónomas de juventude e do trabalho
 
 d) O fomento e a criação de condições para uma mais ampla participação da juventude na resolução dos seus problemas.
 
-###### Art. 3.º - 1. Para a prossecução das suas atribuições compete, nomeadamente, ao Fundo:
+Art. 3.º - 1. Para a prossecução das suas atribuições compete, nomeadamente, ao Fundo:
 
 a) Assistir e apoiar as actividades de iniciativa juvenil de natureza sócio-cultural, artística, de ar livre e exploração e de intercâmbio nacional e estrangeiro;
 
@@ -138,7 +178,7 @@ l) Apoiar a participação de movimentos e associações juvenis em reuniões in
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 4.º São órgãos do Fundo:
+Art. 4.º São órgãos do Fundo:
 
 a) O director;
 
@@ -146,7 +186,7 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 5.º Compete ao director:
+Art. 5.º Compete ao director:
 
 a) Dirigir os serviços e orientar a acção do Fundo;
 
@@ -170,7 +210,7 @@ j) Delegar nos directores de serviços a competência que considere necessária 
 
 l) Decidir sobre quaisquer outros assuntos respeitantes ao funcionamento do Fundo que não estejam incluídos na competência dos demais órgãos.
 
-###### Art. 6.º - 1. O conselho geral é composto, além do director do Fundo, como seu presidente, pelos seguintes vogais:
+Art. 6.º - 1. O conselho geral é composto, além do director do Fundo, como seu presidente, pelos seguintes vogais:
 
 a) Um representante do Ministério da Administração Interna;
 
@@ -198,7 +238,7 @@ m) Cinco representantes de casas de cultura da juventude ou associações ou mov
 
 2. Os membros do conselho geral referidos nas alíneas a) a g), h), i) e j) do número precedente serão designados, respectivamente, pelos Ministros dos correspondentes departamentos, pelo Secretário de Estado do Turismo, pelo responsável pelo departamento da cultura e pelo director do Fundo; as delegações regionais do Fundo representadas no conselho geral serão tiradas à sorte, ano a ano, não podendo qualquer delas voltar a ser para ele designada antes de todas as demais o haverem sido; os elementos incluídos na alínea m) serão designados pelas entidades que representam, sendo estas escolhidas à sorte, ano a ano, de entre as que constem de lista em que, para esse efeito, hajam requerido a inclusão.
 
-###### Art. 7.º - 1. Compete ao conselho geral:
+Art. 7.º - 1. Compete ao conselho geral:
 
 a) Apreciar o projecto de orçamento e o plano de actividades do Fundo para cada ano;
 
@@ -212,7 +252,7 @@ d) Propor as bases de coordenação da actividade do Fundo com a dos serviços e
 
 3. O conselho geral reunirá extraordinariamente sempre que convocado pelo presidente, por iniciativa deste ou de pelo menos um quarto dos seus membros, para se pronunciar sobre os assuntos previamente fixados na respectiva ordem de trabalhos.
 
-###### Art. 8.º Constituem o conselho administrativo:
+Art. 8.º Constituem o conselho administrativo:
 
 a) O director do Fundo, que presidirá;
 
@@ -220,7 +260,7 @@ b) Os três directores de serviços;
 
 c) Um vogal nomeado pelo Ministro da Educação e Investigação Científica, sob proposta do director do Fundo, de reconhecida competência em assuntos administrativos.
 
-###### Art. 9.º Compete ao conselho administrativo:
+Art. 9.º Compete ao conselho administrativo:
 
 a) Orientar a preparação do projecto de orçamento anual do Fundo;
 
@@ -244,7 +284,7 @@ j) Apreciar as contas das delegações regionais e das casas de cultura da juven
 
 l) Pronunciar-se sobre qualquer assunto que lhe seja submetido pelo director.
 
-###### Art. 10.º - 1. O conselho administrativo reunirá, ordinariamente, uma vez por semana e, extraordinariamente, sempre que for convocado pelo presidente.
+Art. 10.º - 1. O conselho administrativo reunirá, ordinariamente, uma vez por semana e, extraordinariamente, sempre que for convocado pelo presidente.
 
 2. De cada reunião será elaborada acta, assinada pelo presidente e pelos demais membros presentes.
 
@@ -252,9 +292,9 @@ l) Pronunciar-se sobre qualquer assunto que lhe seja submetido pelo director.
 
 4. Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas em violação das leis ou regulamentes em vigor, salvo se não tiverem estado presentes ou se houverem feito exarar voto de vencido, devidamente fundamentado.
 
-###### Art. 11.º As deliberações dos conselhos geral e administrativo serão tomadas por maioria dos membros presentes, gozando o presidente de voto de qualidade.
+Art. 11.º As deliberações dos conselhos geral e administrativo serão tomadas por maioria dos membros presentes, gozando o presidente de voto de qualidade.
 
-###### Art. 12.º O Fundo compreende os seguintes serviços:
+Art. 12.º O Fundo compreende os seguintes serviços:
 
 a) Direcção de Serviços de Estudo e Informação;
 
@@ -268,7 +308,7 @@ e) Repartição de Património e Finanças;
 
 f) Delegações regionais.
 
-###### Art. 13.º - 1. À Direcção de Serviços de Estudo e Informação compete:
+Art. 13.º - 1. À Direcção de Serviços de Estudo e Informação compete:
 
 a) Proceder a estudos e inquéritos acerca da problemática da juventude;
 
@@ -284,7 +324,7 @@ f) Coordenar e assegurar as relações do Fundo com entidades estrangeiras, púb
 
 2. A Direcção de Serviços de Estudo e Informação compreende uma Divisão de Estudos e Planeamento e uma Divisão de Informação Pública Juvenil.
 
-###### Art. 14.º - 1. À Direcção de Serviços de Actividades Sociais e Formação compete:
+Art. 14.º - 1. À Direcção de Serviços de Actividades Sociais e Formação compete:
 
 a) Promover, animar e apoiar actividades com projecção social, designadamente colónias de férias, centros de animação de férias, campos de trabalho, bem como quaisquer outras iniciativas que visem uma participação activa dos jovens na vida colectiva;
 
@@ -298,7 +338,7 @@ e) Estabelecer e manter contactos com os diversos organismos ou departamentos de
 
 2. A Direcção de Serviços de Actividades Sociais e Formação compreende uma Divisão de Actividades Sociais e Ar Livre e uma Divisão de Formação Técnica.
 
-###### Art. 15.º - 1. À Direcção de Serviços de Actividades Culturais e Coordenação compete:
+Art. 15.º - 1. À Direcção de Serviços de Actividades Culturais e Coordenação compete:
 
 a) Apoiar, fomentar e coordenar actividades culturais e artísticas;
 
@@ -316,7 +356,7 @@ g) Colaborar estreitamente com as outras direcções de serviços do Fundo, no e
 
 2. A Direcção de Serviços de Actividades Culturais e Coordenação compreende uma Divisão de Actividades Culturais e uma Divisão de Coordenação Regional.
 
-###### Art. 16.º À Repartição Administrativa compete:
+Art. 16.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral e de gestão do pessoal do Fundo e seus órgãos, sem prejuízo da competência da Secretaria-Geral do Ministério;
 
@@ -324,7 +364,7 @@ b) Assegurar os serviços de contabilização de todas as receitas e despesas do
 
 c) Organizar os processos relativos à construção, beneficiação e manutenção de instalações de apoio às actividades juvenis e fornecimento do respectivo equipamento.
 
-###### Art. 17.º À Repartição de Património e Finanças compete assegurar as funções de economato, gestão do património e fiscalização da execução orçamental das receitas e despesas, para o que deverá:
+Art. 17.º À Repartição de Património e Finanças compete assegurar as funções de economato, gestão do património e fiscalização da execução orçamental das receitas e despesas, para o que deverá:
 
 a) Organizar o inventário dos bens, imóveis e móveis, que façam parte do património do Fundo;
 
@@ -336,7 +376,7 @@ d) Orientar e fiscalizar os serviços administrativos daqueles serviços ou orga
 
 e) Elaborar a conta de gerência do Fundo.
 
-###### Art. 18.º - 1. As delegações regionais constituem os órgãos locais do Fundo, devendo prosseguir, no âmbito distrital, os objectivos definidos no artigo 2.º
+Art. 18.º - 1. As delegações regionais constituem os órgãos locais do Fundo, devendo prosseguir, no âmbito distrital, os objectivos definidos no artigo 2.º
 
 2. Para esse efeito compete-lhes, nomeadamente:
 
@@ -356,15 +396,15 @@ e) Acompanhar, coordenar e fiscalizar a actividade das casas de cultura da juven
 
 ### CAPÍTULO III — Casas de cultura da juventude
 
-###### Art. 19.º O Fundo apoiará ou, se necessário, promoverá a criação de casas de cultura da juventude, visando o estímulo e incremento das actividades juvenis que possam contribuir para o desenvolvimento cultural da juventude numa perspectiva democrática.
+Art. 19.º O Fundo apoiará ou, se necessário, promoverá a criação de casas de cultura da juventude, visando o estímulo e incremento das actividades juvenis que possam contribuir para o desenvolvimento cultural da juventude numa perspectiva democrática.
 
-###### Art. 20.º - 1. As casas de cultura da juventude estão abertas aos movimentos, associações, outros organismos juvenis e aos jovens em geral, nos termos previstos no respectivo regulamento, que definirá, igualmente, a sua orgânica e funcionamento.
+Art. 20.º - 1. As casas de cultura da juventude estão abertas aos movimentos, associações, outros organismos juvenis e aos jovens em geral, nos termos previstos no respectivo regulamento, que definirá, igualmente, a sua orgânica e funcionamento.
 
 2. O Fundo pode subsidiar as casas de cultura da juventude ou prestar qualquer outro tipo de apoio as actividades que levem a efeito.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 21.º - 1. O Fundo terá o pessoal dirigente, técnico, administrativo e auxiliar constante do mapa anexo ao decreto-lei, o qual será acrescentado aos correspondentes quadros únicos do Ministério a que se referem, respectivamente, o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+Art. 21.º - 1. O Fundo terá o pessoal dirigente, técnico, administrativo e auxiliar constante do mapa anexo ao decreto-lei, o qual será acrescentado aos correspondentes quadros únicos do Ministério a que se referem, respectivamente, o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
 2. Os quadros referidos no número anterior poderão ser alterados por decreto referendado pelos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica.
 
@@ -372,7 +412,7 @@ e) Acompanhar, coordenar e fiscalizar a actividade das casas de cultura da juven
 
 4. A distribuição do pessoal do Fundo pelos diversos serviços será feita mediante despacho do director.
 
-###### Art. 22.º As normas de recrutamento e os regimes de provimento do pessoal do Fundo são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:
+Art. 22.º As normas de recrutamento e os regimes de provimento do pessoal do Fundo são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director será provido em regime de contrato ou de comissão de serviço por escolha do Primeiro-Ministro e do Ministro da Educação e Investigação Científica de entre diplomados com curso superior adequado e de reconhecida competência;
 
@@ -380,31 +420,31 @@ b) Os lugares de director de serviços serão providos por escolha do Ministro d
 
 c) O lugar de tesoureiro de 1.ª classe será provido por escolha do Ministro da Educação e Investigação Científica de entre primeiros-oficiais ou técnicos auxiliares contabilistas do quadro único do Ministério.
 
-###### Art. 23.º - 1. Aos delegados regionais do Fundo, a prover por contrato ou, tratando-se de funcionários públicos ou administrativos, em regime de comissão de serviço, será abonado vencimento correspondente à categoria da letra F.
+Art. 23.º - 1. Aos delegados regionais do Fundo, a prover por contrato ou, tratando-se de funcionários públicos ou administrativos, em regime de comissão de serviço, será abonado vencimento correspondente à categoria da letra F.
 
 2. Os delegados que exerçam funções em regime de tempo parcial receberão uma gratificação mensal a fixar por despacho conjunto dos Ministros das Finanças e da Educação e Investigação Científica.
 
-###### Art. 24.º - 1. O Ministro da Educação e Investigação Científica poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico, administrativo ou auxiliar designado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, sem prejuízo da aplicação da legislação em vigor sobre excedentes na administração pública.
+Art. 24.º - 1. O Ministro da Educação e Investigação Científica poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico, administrativo ou auxiliar designado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, sem prejuízo da aplicação da legislação em vigor sobre excedentes na administração pública.
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros para efeitos do disposto no presente artigo carece de autorização do Ministro das Finanças.
 
-###### Art. 25.º O director poderá propor superiormente a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom funcionamento do Fundo, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observada a regra da parte final do n.º 1 do artigo anterior.
+Art. 25.º O director poderá propor superiormente a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom funcionamento do Fundo, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observada a regra da parte final do n.º 1 do artigo anterior.
 
-###### Art. 26.º - 1. O pessoal do Fundo admitido nos termos do artigo 24.º poderá tomar posse e entrar em exercício de funções e iniciar-se o processamento das correspondentes remunerações antes do visto do Tribunal de Contas e da publicação dos diplomas de provimento, desde que destes conste o reconhecimento da urgente conveniência de serviço.
+Art. 26.º - 1. O pessoal do Fundo admitido nos termos do artigo 24.º poderá tomar posse e entrar em exercício de funções e iniciar-se o processamento das correspondentes remunerações antes do visto do Tribunal de Contas e da publicação dos diplomas de provimento, desde que destes conste o reconhecimento da urgente conveniência de serviço.
 
 2. Nos casos previstos no número anterior, se o Tribunal de Contas vier a recusar o visto, o agente cessará imediatamente as suas funções, mas não haverá lugar a reposição de vencimentos.
 
-###### Art. 27.º - 1. Podem ser nomeados, em regime de comissão de serviço, para o Fundo, quaisquer elementos do pessoal docente dos estabelecimentos dependentes do Ministério da Educação e Investigação Científica considerando-se o serviço por eles prestado, para todos os efeitos legais, como serviço docente.
+Art. 27.º - 1. Podem ser nomeados, em regime de comissão de serviço, para o Fundo, quaisquer elementos do pessoal docente dos estabelecimentos dependentes do Ministério da Educação e Investigação Científica considerando-se o serviço por eles prestado, para todos os efeitos legais, como serviço docente.
 
 2. Os provimentos previstos no número precedente ficarão sujeitos ao regime geral aplicável às nomeações de docentes, em comissão, para organismos ou serviços centrais do Ministério.
 
-###### Art. 28.º O pessoal que, em regime de contrato individual de trabalho, preste serviço em pousadas e colónias de férias ou noutros organismos ou serviços dependentes do Fundo, ou por ele subsidiados, será abrangido pelas respectivas caixas de previdência, competindo aqueles organismos ou serviços o pagamento dos encargos normalmente atribuídos a entidades patronais.
+Art. 28.º O pessoal que, em regime de contrato individual de trabalho, preste serviço em pousadas e colónias de férias ou noutros organismos ou serviços dependentes do Fundo, ou por ele subsidiados, será abrangido pelas respectivas caixas de previdência, competindo aqueles organismos ou serviços o pagamento dos encargos normalmente atribuídos a entidades patronais.
 
-###### Art. 29.º O Fundo pode, mediante autorização ministerial, enviar missões de estudo ao estrangeiro para se ocuparem de assuntos relacionados com as suas atribuições.
+Art. 29.º O Fundo pode, mediante autorização ministerial, enviar missões de estudo ao estrangeiro para se ocuparem de assuntos relacionados com as suas atribuições.
 
 ### CAPÍTULO V — Do regime administrativo e financeiro
 
-###### Art. 30.º Constituem receitas consignadas do Fundo:
+Art. 30.º Constituem receitas consignadas do Fundo:
 
 a) Os subsídios, comparticipações ou liberalidades de entidades públicas ou privadas cuja aceitação seja autorizada pelo Ministro da Educação e Investigação Científica;
 
@@ -412,40 +452,40 @@ b) Os rendimentos dos bens próprios;
 
 c) Quaisquer outras permitidas por lei.
 
-###### Art. 31.º O Fundo pode adquirir ou alienar bens imóveis, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante autorização do Ministro da Educação e Investigação Científica, concedida caso por caso.
+Art. 31.º O Fundo pode adquirir ou alienar bens imóveis, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante autorização do Ministro da Educação e Investigação Científica, concedida caso por caso.
 
-###### Art. 32.º - 1. O Fundo pode directamente promover a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe estejam afectas.
+Art. 32.º - 1. O Fundo pode directamente promover a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe estejam afectas.
 
 2. O Fundo pode levar a efeito construções para apoio e estímulo às actividades juvenis.
 
-###### Art. 33.º O Fundo está isento de todos os impostos, contribuições ou taxas, custas, emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
+Art. 33.º O Fundo está isento de todos os impostos, contribuições ou taxas, custas, emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 34.º O pessoal dirigente, técnico e administrativo do Fundo poderá, mediante despacho do director, ser designado para realizar visitas de orientação e inspecção a delegações regionais ou casas de cultura da juventude.
+Art. 34.º O pessoal dirigente, técnico e administrativo do Fundo poderá, mediante despacho do director, ser designado para realizar visitas de orientação e inspecção a delegações regionais ou casas de cultura da juventude.
 
-###### Art. 35.º - 1. O pessoal nomeado, contratado ou em regime de prestação eventual de serviços actualmente colocado no Fundo será, de acordo com os critérios gerais aplicáveis ao pessoal dos órgãos e serviços centrais do Ministério, provido em lugares do quadro anexo ao presente diploma, mediante lista aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário do Governo, independentemente de outras formalidades, salvo o visto do Tribunal de Contas.
+Art. 35.º - 1. O pessoal nomeado, contratado ou em regime de prestação eventual de serviços actualmente colocado no Fundo será, de acordo com os critérios gerais aplicáveis ao pessoal dos órgãos e serviços centrais do Ministério, provido em lugares do quadro anexo ao presente diploma, mediante lista aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário do Governo, independentemente de outras formalidades, salvo o visto do Tribunal de Contas.
 
 2. O pessoal que actualmente preste serviço no Fundo, nas condições do número anterior, e que não for possível prover, transita para aquele na situação em que se encontrar à data da publicação do presente diploma.
 
-###### Art. 36.º O vogal do conselho administrativo tem direito a uma gratificação mensal a fixar em despacho conjunto dos Ministros das Finanças e da Educação e Investigação Científica, acumulável com qualquer outra remuneração nos termos da lei.
+Art. 36.º O vogal do conselho administrativo tem direito a uma gratificação mensal a fixar em despacho conjunto dos Ministros das Finanças e da Educação e Investigação Científica, acumulável com qualquer outra remuneração nos termos da lei.
 
-###### Art. 37.º O Fundo poderá efectuar contratos de seguro do material ou contra acidentes em serviço de pessoal que, em qualquer regime, preste colaboração nas actividades por ele promovidas.
+Art. 37.º O Fundo poderá efectuar contratos de seguro do material ou contra acidentes em serviço de pessoal que, em qualquer regime, preste colaboração nas actividades por ele promovidas.
 
-###### Art. 38.º Os encargos resultantes da execução do presente diploma serão suportados por força das dotações inscritas no Orçamento Geral do Estado a favor do Fundo.
+Art. 38.º Os encargos resultantes da execução do presente diploma serão suportados por força das dotações inscritas no Orçamento Geral do Estado a favor do Fundo.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes - Álvaro Augusto Veiga de Oliveira - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 23 de Janeiro de 1976.**
+Promulgado em 23 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa do pessoal do Fundo de Apoio aos Organismos Juvenis a que se refere o n.º 1 do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/02/03100/02630268.pdf))](https://files.diariodarepublica.pt/1s/1976/02/03100/02630268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/02/03100/02630268.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director do Fundo, designado por despacho do Ministro da Educação e Investigação Científica, é abonada a gratificação mensal constante da nota ao quadro anexo ao [Decreto-Lei n.º 520/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1973-413179), de 12 de Outubro, e mantida pelo [Decreto-Lei n.º 179/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1974-623068), de 30 de Abril, e pelo artigo 1.º do [Decreto n.º 528/74](https://diariodarepublica.pt/dr/detalhe/decreto/528-1974-472875), de 8 de Outubro.
 
-**O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.**
+O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/29-1984-387293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d3668d66644d84a1e49ce9304b31bdcb9707eb6ddd5e85ae92174afba85d2a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 210e24e03d7f987dfbf073aecd338236e81349e9e887bf09ed45f11745b36400
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imóvel Classificado
 relationships:
 - type: amended_by
   target: pt:dre:185762208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552318:por
+  label: "Desclassificada a Casa, no Beco do Largo da Pinta, 10, e na Rua de Branco Martins, 13, Nazaré, freguesia da Nazaré,\
+    \ como imóvel de interesse público pelo DEC.45/93.30.11.1993.PCM, DR.IS-B [280] de 30.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45-1993-552318
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:185762208:por
+  label: Fixada a zona especial de proteção (ZEP) da aldeia de Castelo Mendo classificada como imóvel de interesse público
+    (IIP) pelo presente diploma, ] pelo(a) Portaria n.º 575/2022 - Diário da República n.º 130/2022, Série II de 2022-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/575-2022-185762208
+  date: '2022-07-07'
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:56Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +125,7 @@ Em conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É classificado como monumento nacional o seguinte imóvel:
+Artigo 1.º É classificado como monumento nacional o seguinte imóvel:
 
 Distrito de Faro:
 
@@ -100,7 +133,7 @@ Concelho de Lagoa:
 
 Igreja matriz de Estômbar, incluindo os retábulos e azulejos que revestem o seu interior, bem como as duas notáveis colunas com o fuste esculpido, adossadas ao interior da parede de entrada.
 
-###### Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
+Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
 
 Distrito de Aveiro:
 
@@ -298,7 +331,7 @@ Concelho de Resende:
 
 Estação arqueológica de Mogueira-São Martinho de Mouros.
 
-###### Art. 3.º São classificados como valores concelhios os seguintes imóveis:
+Art. 3.º São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Coimbra:
 
@@ -334,12 +367,12 @@ Conjunto de imóveis sitos na Rua do Passeio Alegre, entre a Rua de Santa Anast�
 
 Mário Soares - Carlos Alberto da Mota Pinto - António Antero Coimbra Martins.
 
-**Assinado em 7 de Junho de 1984.**
+Assinado em 7 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1984.**
+Referendado em 8 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

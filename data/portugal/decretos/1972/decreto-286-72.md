@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 187/1972, 1º Suplemento, Série I de 1972-08-11
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1062-(1) a 1062-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/18701/00010001.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/286-1972-212205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db2ca9cfa66fa0cce550170ebd0672327f1d9af11f08622dcbdd760ac5c8d7b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26194867de552760c0db9021d35f3c215e538a4ffaf134ea1cf3e2cb30ad8eab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:00Z'
   warnings: []
   errors: []
 ---
@@ -88,8 +88,8 @@ Usando da faculdade conferida pelo n.º 1.º do artigo 81.º da Constituição:
 
 Hei por bem, sob proposta do Presidente do Conselho, conceder ao Dr. João Augusto Dias Rosas a exoneração, que me pediu, de Ministro das Finanças e da Economia, lugares que me apraz declarar exerceu com zelo, inteligência e acendrado patriotismo.
 
-**Assinado em 11 de Agosto de 1972.**
+Assinado em 11 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ. - O Presidente do Conselho, Marcello Caetano.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ. - O Presidente do Conselho, Marcello Caetano.

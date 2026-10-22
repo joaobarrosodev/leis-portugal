@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/179-1970-226017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc028002af85d7a16d46a70e62860e47d637508f903ffdf93cc7a11bd525a863
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afa912ff885609b5f2f741b81836998b74119454aff7352c235102dc7f24324f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:02Z'
   warnings: []
   errors: []
 ---
@@ -87,28 +91,28 @@ Com fundamento no artigo 60.º do [Decreto-Lei n.º 132/70](https://diariodarepu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial no montante de 50000000$00, a inscrever no orçamento vigente do segundo dos mencionados Ministérios sob a forma seguinte:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial no montante de 50000000$00, a inscrever no orçamento vigente do segundo dos mencionados Ministérios sob a forma seguinte:
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
 Despesas comuns
 
-###### Artigo 483.º-A «Outros encargos», n.º 1) «Encargos resultantes da execução do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março de 1970» ... 50000000$00
+Artigo 483.º-A «Outros encargos», n.º 1) «Encargos resultantes da execução do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março de 1970» ... 50000000$00
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior são efectuadas as seguintes anulações em verbas de despesa do actual orçamento do mencionado Ministério da Educação Nacional:
+Art. 2.º Para compensação do crédito designado no artigo anterior são efectuadas as seguintes anulações em verbas de despesa do actual orçamento do mencionado Ministério da Educação Nacional:
 
-### Capítulo 5.º, artigo 854.º, n.º 1) ... 10000000$00
+Capítulo 5.º, artigo 854.º, n.º 1) ... 10000000$00
 
-### Capítulo 6.º, artigo 922.º, n.º 1), alínea 1 ... 40000000$00
+Capítulo 6.º, artigo 922.º, n.º 1), alínea 1 ... 40000000$00
 
 ... 50000000$00
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 15 de Abril de 1970.**
+Promulgado em 15 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 23 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

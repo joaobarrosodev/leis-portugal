@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22500/30213029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,144 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1980-461642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f9351bbc7e64f8a38b10ef50d046e6055990cc1a3cecffb4cadbd80e7b829db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9796512276334c5b2ef78571f86ec4a6895e925288153a9a51d402881d472c20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviço Nacional de Bombeiros
 relationships:
 - type: amended_by
   target: pt:dre:616189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390233:por
+  label: "PORT.71/81.17.01.1981.PCM, DR.IS [14] de 17.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/71-1981-390233
+  date: '1981-01-17'
+- type: amended_by
+  target: pt:dre:394903:por
+  label: "Alterado o art. 41º do presente diploma, pelo DEC LEI.270/82.12.07.1982.MAI, DR.IS [158] de 12.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1982-394903
+  date: '1982-07-12'
+- type: amended_by
+  target: pt:dre:328245:por
+  label: "Alterado o quadro de pessoal pela PORT.64/85.1985.02.01.PCM, DR.IS [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/64-1985-328245
+  date: '1985-02-01'
+- type: amended_by
+  target: pt:dre:183418:por
+  label: "Aditado um nº 4 ao art. 41º, pelo DEC LEI.253/85.15.07.1985.MAI, DR.IS [160] de 15.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1985-183418
+  date: '1985-07-15'
+- type: amended_by
+  target: pt:dre:221368:por
+  label: "Aditado um lugar de técnico superior principal ao quadro de pessoal pela PORT.713/86.27.11.1986.MF, DR.IS [274]\
+    \ de 27.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/713-1986-221368
+  date: '1986-11-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 290/87, DE 8 DE ABRIL, PUBLICADA NO DR.IS, 82.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-08'
+- type: amended_by
+  target: pt:dre:666153:por
+  label: Alterado o quadro de pessoal pelo(a) Portaria n.º 290/87 - Diário da República n.º 82/1987, Série I de 1987-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1987-666153
+  date: '1987-04-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO E SUBSTITUÍDO O QUADRO DE PESSOAL, NA REDACÇÃO CONSTANTE DA PORTARIA 290/87, DE 8 DE ABRIL, PELA PORTARIA
+    673/90, DE 16 DE AGOSTO, PUBLICADA NO DR.IS, 188, FICANDO REVOGADA A PARTIR DA ENTRADA EM VIGOR DA PORTARIA 673/90.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-08-16'
+- type: amended_by
+  target: pt:dre:658226:por
+  label: "Alterados os art.s 28º e 41º (o último na redacção do Dec Lei 270/82, de 12-Jul, e do Dec Lei 253/85, de 15-Jul),\
+    \ pelo DEC LEI.205/91.07.06.1991.MAI, DR.IS-A [130] de 07.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1991-658226
+  date: '1991-06-07'
+- type: amended_by
+  target: pt:dre:584791:por
+  label: "Alterado o art. 41º do presente diploma, (na redacção dos Dec Lei 270/82, de 12-Jul e 205/91, de 07-Jun), pelo DEC\
+    \ LEI.253/92.19.11.1992.MAI, DR.IS-A [268] de 19.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1992-584791
+  date: '1992-11-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "INTEGRADO NO QUADRO DE PESSOAL, COMO SUPRANUMERÁRIO, O PESSOAL DO CORPO DE BOMBEIROS DAS FORÇAS DE SEGURANÇA DE\
+    \ MACAU, PELO DESPACHO NORMATIVO 96/94, DE 25 DE JANEIRO, PUBLICADO NO DR.IS-B, 36, DE 940212. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-12'
+- type: amended_by
+  target: pt:dre:621286:por
+  label: "Alterados os arts. 4º, 7º, 8º, 10º, 23º, 25º, 27º, 28º (este último na redacção do Dec Lei 205/91, de 07-Jun), 32º\
+    \ e 47º e aditado o art. 4º-A ao presente diploma, pelo DEC LEI.277/94.03.11.1994.MAI, DR.IS-A [254] de 03.11.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1994-621286
+  date: '1994-11-03'
+- type: amended_by
+  target: pt:dre:168641:por
+  label: "Alterados os arts. 19º, 24º, 25º(este último na redacção do Dec Lei 277/94, de 03-Nov), 28º (este último na redacção\
+    \ dos Dec Lei 205/91, de 07-Jun e 277/94, de 03-Nov), 41º e 42º e aditado o art. 41º-A ao presente diploma, pelo DEC LEI.209/96.15.11.1996.MAI,\
+    \ DR.IS-A [265] de 15.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1996-168641
+  date: '1996-11-15'
+- type: amended_by
+  target: pt:dre:1216728:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, pelo DC.847/98.1998.11.10.PCM DR.IIS [282] DE 07/DEZ/1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/847-1998-1216728
+  date: '1998-11-10'
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459069:por
+  label: Rectificado pela DECL.DD6574.03.12.1980.PCM, DR.IS [279] de 03.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459069
+  date: '1980-12-03'
+- type: repealed_by
+  target: pt:dre:616189:por
+  label: "Revogado, com as alterações introduzidas pelos Dec Lei 270/82 de 12-Jul, 205/91 de 07-Jun, 253/92 de 19-Dez, 277/94\
+    \ de 03-Nov e 209/96 de 15-Nov, pelo DEC LEI.293/2000.2000.11.17.MAI DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-2000-616189
+  date: '2000-11-17'
 article_structure:
   article_count: 54
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:24Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +216,7 @@ O SNB tem sede em Lisboa e exerce a sua acção sobre o território do continent
 
 ###### Artigo 3.º — (Tutela)
 
-**O Ministro da Administração Interna é o Ministro da tutela do SNB.**
+O Ministro da Administração Interna é o Ministro da tutela do SNB.
 
 ###### Artigo 4.º — (Atribuições)
 
@@ -670,11 +774,11 @@ O presente decreto-lei entra em vigor trinta dias após a data da sua aplicaçã
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 14 de Setembro de 1980.**
+Promulgado em 14 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal
 

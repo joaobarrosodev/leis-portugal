@@ -47,40 +47,116 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c542450e7736290ade13a4b2aeb5fbd30cd1a31cbecc5998c41a90d0fab295e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a6fa94b2cd76466d36ef4bc74379e95e7a23849ab2d45641f529d61e1632ec9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Forças Armadas
+- GNR
+- Guarda Fiscal
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:177446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466818:por
+  label: "Alterada a al. c) do nº1 do art. 16º pelo DEC LEI.696/74.06.12.1974.MDN, DG.IS [284] de 06.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/696-1974-466818
+  date: '1974-12-06'
+- type: amended_by
+  target: pt:dre:407158:por
+  label: "Aditado um n.º 3 ao artigo 19.º, pelo DEC LEI.826/76.16.11.1976.MAI, DR.IS [268] de 16.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/826-1976-407158
+  date: '1976-11-16'
+- type: amended_by
+  target: pt:dre:406916:por
+  label: "Alterados os artigos 2.º e 10.º, pelo DEC LEI.829/76.20.11.1976.MAI, DR.IS [272] de 20.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/829-1976-406916
+  date: '1976-11-20'
+- type: amended_by
+  target: pt:dre:296833:por
+  label: "Alterado o artigo 34.º e revogado o n.º 2 do artigo 32.º, pelo DEC LEI.217/78.02.08.1978.MFP, DR.IS [176] de 02.08.1978\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1978-296833
+  date: '1978-08-02'
+- type: amended_by
+  target: pt:dre:471933:por
+  label: "Alterados os artigos 16.º e 17.º, pelo DEC LEI.220/80.11.07.1980.MAI, DR.IS [158] de 11.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-1980-471933
+  date: '1980-07-11'
+- type: cites
+  target: pt:dre:140102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:630668:por
+  label: "Revogado, no que respeita à Guarda Nacional Republicana, pelo DEC LEI.465/83.31.12.1983.MAI, DR.IS [301]4ºSupl de\
+    \ 31.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/465-1983-630668
+  date: '1983-12-31'
+- type: repealed_by
+  target: pt:dre:177446:por
+  label: Revogado, no que respeita à Guarda Fiscal, pelo DEC LEI.374/85.20.09.1985.MFP, DR.IS [217] de 20.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1985-177446
+  date: '1985-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:13Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +177,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Admissão e exoneração
 
-###### Artigo 1.º - 1. O recrutamento de oficiais para a Guarda Nacional Republicana (G. N. R.) e para a Guarda Fiscal (G. F.) nos postos inferiores ao de coronel é feito nos quadros permanentes e de complemento das forças armadas, atentas as exigências dos quadros orgânicos de cada uma daquelas corporações, podendo os oficiais de complemento preencher as vagas que nelas ocorram, até às seguintes percentagens, por arma ou serviço, calculadas por excesso até à unidade:
+Artigo 1.º - 1. O recrutamento de oficiais para a Guarda Nacional Republicana (G. N. R.) e para a Guarda Fiscal (G. F.) nos postos inferiores ao de coronel é feito nos quadros permanentes e de complemento das forças armadas, atentas as exigências dos quadros orgânicos de cada uma daquelas corporações, podendo os oficiais de complemento preencher as vagas que nelas ocorram, até às seguintes percentagens, por arma ou serviço, calculadas por excesso até à unidade:
 
 ... Percentagens
 
@@ -115,15 +191,15 @@ Oficiais subalternos ... 90
 
 2. As percentagens indicadas no n.º 1 poderão ser alteradas por despacho conjunto dos Ministros da Defesa Nacional, ouvido o respectivo departamento das forças armadas, e do Interior ou das Finanças, no caso de se verificar que as disponibilidades dos quadros permanentes estão desajustadas das percentagens que lhes ficam reservadas.
 
-###### Art. 2.º - 1. Os oficiais de complemento são admitidos na G. N. R. e na G. F. a título provisório mediante concurso.
+Art. 2.º - 1. Os oficiais de complemento são admitidos na G. N. R. e na G. F. a título provisório mediante concurso.
 
 2. A admissão definitiva dos oficiais de que trata o n.º 1 realiza-se depois de concluído o estágio de admissão.
 
-###### Art. 3.º - 1. A periodicidade e a data do concurso a que se refere o n.º 1 do artigo 2.º serão determinadas pelo Ministro do Interior ou das Finanças sob proposta do respectivo comandante-geral.
+Art. 3.º - 1. A periodicidade e a data do concurso a que se refere o n.º 1 do artigo 2.º serão determinadas pelo Ministro do Interior ou das Finanças sob proposta do respectivo comandante-geral.
 
 2. O número de candidatos a admitir em cada concurso é o correspondente às vagas previstas até final do estágio a que se refere o artigo 5.º
 
-###### Art. 4.º - 1. Os oficiais admitidos nos termos do n.º 1 do artigo 2.º devem satisfazer às seguintes condições:
+Art. 4.º - 1. Os oficiais admitidos nos termos do n.º 1 do artigo 2.º devem satisfazer às seguintes condições:
 
 1.ª Serem oficiais subalternos;
 
@@ -149,17 +225,17 @@ Oficiais subalternos ... 90
 
 4 (transitório). A condição 3.ª mantém-se apenas enquanto vigorar o actual regime de comissões no ultramar.
 
-###### Art. 5.º - 1. Os oficiais admitidos nos termos do n.º 1 do artigo 2.º frequentam seguidamente o estágio de admissão de oficiais da respectiva corporação, com a duração de três a nove meses, a fixar pelo respectivo comandante-geral.
+Art. 5.º - 1. Os oficiais admitidos nos termos do n.º 1 do artigo 2.º frequentam seguidamente o estágio de admissão de oficiais da respectiva corporação, com a duração de três a nove meses, a fixar pelo respectivo comandante-geral.
 
 2. O estágio será objecto de regulamento privativo de cada uma das corporações.
 
-###### Art. 6.º - 1. O oficial que no decurso do estágio tenha falta de aproveitamento ou nele revele inadaptação às exigências próprias da corporação será imediatamente dispensado do serviço.
+Art. 6.º - 1. O oficial que no decurso do estágio tenha falta de aproveitamento ou nele revele inadaptação às exigências próprias da corporação será imediatamente dispensado do serviço.
 
 2. A inadaptação a que se refere o n.º 1 será decidida pelo respectivo comandante-geral.
 
-###### Art. 7.º Só os oficiais que terminem com aproveitamento o estágio poderão ser admitidos definitivamente na respectiva corporação.
+Art. 7.º Só os oficiais que terminem com aproveitamento o estágio poderão ser admitidos definitivamente na respectiva corporação.
 
-###### Art. 8.º - 1. Os sargentos da G. N. R. e da G. F. poderão frequentar o estágio de admissão a que se referem os n.os 1 e 2 do artigo 5.º, com vista ao ingresso no quadro de oficiais de complemento das forças armadas e prestação de serviço na corporação, quando satisfaçam às seguintes condições:
+Art. 8.º - 1. Os sargentos da G. N. R. e da G. F. poderão frequentar o estágio de admissão a que se referem os n.os 1 e 2 do artigo 5.º, com vista ao ingresso no quadro de oficiais de complemento das forças armadas e prestação de serviço na corporação, quando satisfaçam às seguintes condições:
 
 1.ª Terem cinco anos de serviço na respectiva corporação;
 
@@ -177,11 +253,11 @@ Oficiais subalternos ... 90
 
 3. O sargento que no decurso do estágio tenha falta de aproveitamento é imediatamente excluído da sua frequência e regressa à situação anterior.
 
-###### Art. 9.º - 1. Os sargentos que frequentarem com aproveitamento o estágio de admissão são promovidos a alferes do quadro de complemento da respectiva arma ou serviço na data em que o terminarem e contam a antiguidade do novo posto a partir dessa data.
+Art. 9.º - 1. Os sargentos que frequentarem com aproveitamento o estágio de admissão são promovidos a alferes do quadro de complemento da respectiva arma ou serviço na data em que o terminarem e contam a antiguidade do novo posto a partir dessa data.
 
 2. Os oficiais promovidos nos termos do n.º 1 consideram-se desde logo incluídos nos quadros dos oficiais da respectiva corporação.
 
-###### Art. 10.º Os oficiais admitidos nos termos dos artigos 7.º e 9.º podem requerer dispensa do serviço da G. N. R. ou da O. F. nos casos seguintes:
+Art. 10.º Os oficiais admitidos nos termos dos artigos 7.º e 9.º podem requerer dispensa do serviço da G. N. R. ou da O. F. nos casos seguintes:
 
 a) Após terem completado cinco anos de serviço;
 
@@ -189,7 +265,7 @@ b) Antes de terem completado o prazo referido na alínea anterior, desde que ind
 
 Obrigações e direitos
 
-###### Art. 11.º - 1. Os oficiais dos quadros de complemento das forças armadas admitidos a título definitivo na G. N. R. e na G. F. têm as obrigações e os direitos consignados no capítulo II do Estatuto do Oficial do Exército (E. O. E.), de 30 de Abril de 1971, para os oficiais dos quadros permanentes, sem prejuízo, porém, das obrigações impostas e dos direitos consignados na legislação privativa da sua corporação.
+Art. 11.º - 1. Os oficiais dos quadros de complemento das forças armadas admitidos a título definitivo na G. N. R. e na G. F. têm as obrigações e os direitos consignados no capítulo II do Estatuto do Oficial do Exército (E. O. E.), de 30 de Abril de 1971, para os oficiais dos quadros permanentes, sem prejuízo, porém, das obrigações impostas e dos direitos consignados na legislação privativa da sua corporação.
 
 2. Na aplicação das disposições invocadas no n.º 1, a competência do Ministro do Exército é transferida para o Ministro do Interior ou para o das Finanças e os condicionalismos ou referências ao Exército são extensivos à G. N. R. e à G. F.
 
@@ -197,7 +273,7 @@ Obrigações e direitos
 
 Antiguidades
 
-###### Art. 12.º - 1. A antiguidade dos oficiais de complemento das forças armadas nos quadros da G. N. R. e da G. F. é referida à data em que os mesmos foram provisoriamente admitidos pela última vez.
+Art. 12.º - 1. A antiguidade dos oficiais de complemento das forças armadas nos quadros da G. N. R. e da G. F. é referida à data em que os mesmos foram provisoriamente admitidos pela última vez.
 
 2. As escalas privativas de antiguidade são organizadas, à data da admissão provisória, em função das antiguidades relativas que os oficiais admitidos têm nas forças armadas.
 
@@ -209,7 +285,7 @@ Antiguidades
 
 Situações
 
-###### Art. 13.º - 1. Os oficiais dos quadros de complemento prestando serviço na G. N. R. ou na G. F. são considerados nas forças armadas na situação de efectividade de serviço desde a data da sua admissão provisória.
+Art. 13.º - 1. Os oficiais dos quadros de complemento prestando serviço na G. N. R. ou na G. F. são considerados nas forças armadas na situação de efectividade de serviço desde a data da sua admissão provisória.
 
 2. Os oficiais a que se refere o n.º 1 podem ser nomeados para comissão militar no ultramar, pelo respectivo ramo das forças armadas, nos termos da Lei do Serviço Militar.
 
@@ -221,7 +297,7 @@ Situações
 
 6. O oficial regressado de comissão militar no ultramar pode reingressar na corporação a que pertenceu, considerando-se que não interrompeu a sua prestação de serviço na mesma corporação.
 
-###### Art. 14.º As situações em que os oficiais dos quadros de complemento das forças armadas se podem encontrar em função da disponibilidade para o serviço da G. N. R. ou da G. F. são:
+Art. 14.º As situações em que os oficiais dos quadros de complemento das forças armadas se podem encontrar em função da disponibilidade para o serviço da G. N. R. ou da G. F. são:
 
 a) Activo;
 
@@ -231,9 +307,9 @@ c) Reforma;
 
 d) Separado do serviço.
 
-###### Art. 15.º Consideram-se na situação de activo os oficiais que não tenham tido passagem a qualquer das outras situações.
+Art. 15.º Consideram-se na situação de activo os oficiais que não tenham tido passagem a qualquer das outras situações.
 
-###### Art. 16.º - 1. Transitam para a situação de reserva os oficiais na situação de activo que sejam abrangidos por qualquer das seguintes condições:
+Art. 16.º - 1. Transitam para a situação de reserva os oficiais na situação de activo que sejam abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado ao Estado um mínimo de quinze anos de serviço:
 
@@ -263,7 +339,7 @@ c) Tendo completado 40 anos de serviço e 60 anos de idade, o requeiram e lhes s
 
 3. Os encargos com a liquidação das pensões de reserva são suportados pelo Ministério do Interior ou das Finanças, através dos Comandos-Gerais da G. N. R. e da G. F., mediante verba para tal fim inscrita no respectivo orçamento.
 
-###### Art. 17.º - 1. Transitam para a situação de reforma os oficiais na situação de activo ou de reserva que sejam abrangidos por qualquer das seguintes condições:
+Art. 17.º - 1. Transitam para a situação de reforma os oficiais na situação de activo ou de reserva que sejam abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado ao Estado um mínimo de 15 anos de serviço, atinjam 70 anos de idade;
 
@@ -281,9 +357,9 @@ c) Reúnam as condições legais estabelecidas para a reforma extraordinária.
 
 3. A passagem dos oficiais à situação de reforma nos termos dos n.os 2.º e 3.º da alínea b) do n.º 1 é da competência do Ministro do Interior ou das Finanças, sob proposta nominal do respectivo comandante-geral.
 
-###### Art. 18.º As decisões das juntas superiores de saúde, para os efeitos dos artigos 16.º e 17.º, carecem de homologação do respectivo Ministro.
+Art. 18.º As decisões das juntas superiores de saúde, para os efeitos dos artigos 16.º e 17.º, carecem de homologação do respectivo Ministro.
 
-###### Art. 19.º - 1. Os oficiais na situação de reserva ou de reforma podem ser chamados a prestar, na G. N. R. ou na G. F., serviço efectivo compatível com as suas aptidões:
+Art. 19.º - 1. Os oficiais na situação de reserva ou de reforma podem ser chamados a prestar, na G. N. R. ou na G. F., serviço efectivo compatível com as suas aptidões:
 
 a) Quando tenham menos de 70 anos de idade e sejam autorizados nos termos da lei;
 
@@ -291,11 +367,11 @@ b) Quando em caso de guerra ou de emergência.
 
 2. Os oficiais prestando serviço nas condições do número anterior mantêm o direito à pensão de reserva ou de reforma e são abonados da diferença daquela para o vencimento do respectivo posto no activo e das gratificações inerentes.
 
-###### Art. 20.º Transitam para a situação de separado do serviço relativamente aos quadros da G. N. R. ou da G. F. os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das mesmas instituições, delas devam ser afastados.
+Art. 20.º Transitam para a situação de separado do serviço relativamente aos quadros da G. N. R. ou da G. F. os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das mesmas instituições, delas devam ser afastados.
 
-###### Art. 21.º A data da passagem à situação de reserva, de reforma e de separado do serviço é aquela em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
+Art. 21.º A data da passagem à situação de reserva, de reforma e de separado do serviço é aquela em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 22.º Em relação à prestação de serviço na G. N. R. ou na G. F. os oficiais dos quadros de complemento das forças armadas, na situação de activo, podem estar:
+Art. 22.º Em relação à prestação de serviço na G. N. R. ou na G. F. os oficiais dos quadros de complemento das forças armadas, na situação de activo, podem estar:
 
 a) Em comissão normal;
 
@@ -303,7 +379,7 @@ b) Em comissão especial;
 
 c) Na inactividade temporária.
 
-###### Art. 23.º Consideram-se em comissão normal os oficiais que:
+Art. 23.º Consideram-se em comissão normal os oficiais que:
 
 a) Prestem serviço na G. N. R. ou na G. F.;
 
@@ -311,19 +387,19 @@ b) Estejam adidos nas forças, unidades, serviços, estabelecimentos e demais or
 
 c) Estejam na situação de licença, com ressalva dos afastados temporariamente do serviço.
 
-###### Art. 24.º - 1. São considerados em comissão especial os oficiais afastados do serviço da G. N. R. ou da G. F. no desempenho de funções públicas para que tenham sido legalmente nomeados.
+Art. 24.º - 1. São considerados em comissão especial os oficiais afastados do serviço da G. N. R. ou da G. F. no desempenho de funções públicas para que tenham sido legalmente nomeados.
 
 2. A permanência de oficiais em comissão especial nos termos do n.º 1 é limitada a um máximo de doze anos, nos quais não se podem compreender mais do que seis consecutivos.
 
 3. Para os efeitos do número anterior, o intervalo mínimo de duas comissões consecutivas é de um terço do tempo da primeira.
 
-###### Art. 25.º Os oficiais afastados temporariamente do serviço serão colocados na inactividade temporária nos seguintes casos:
+Art. 25.º Os oficiais afastados temporariamente do serviço serão colocados na inactividade temporária nos seguintes casos:
 
 a) Por motivo de doença ou de licença da junta médica - aqueles que utilizem, na parte aplicável, a faculdade estabelecida no [Decreto-Lei n.º 537/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1970-147203), de 10 de Novembro, nos termos nele definidos;
 
 b) Por motivo disciplinar - aqueles a quem for aplicada a pena de inactividade prevista no Regulamento de Disciplina Militar.
 
-###### Art. 26.º Em relação aos quadros da G. N. R. ou da G. F., os oficiais dos quadros de complemento das forças armadas na situação do activo podem estar:
+Art. 26.º Em relação aos quadros da G. N. R. ou da G. F., os oficiais dos quadros de complemento das forças armadas na situação do activo podem estar:
 
 a) No quadro;
 
@@ -331,9 +407,9 @@ b) Adidos ao quadro;
 
 c) Supranumerários.
 
-###### Art. 27.º Consideram-se no quadro os oficiais contados nos efectivos aprovados por lei.
+Art. 27.º Consideram-se no quadro os oficiais contados nos efectivos aprovados por lei.
 
-###### Art. 28.º Consideram-se adidos ao quadro os oficiais que estiverem:
+Art. 28.º Consideram-se adidos ao quadro os oficiais que estiverem:
 
 a) Em comissão especial;
 
@@ -347,7 +423,7 @@ e) Fisicamente diminuídos em consequência de ferimentos ou acidentes produzido
 
 f) Há mais de oito anos no posto mais elevado do seu quadro.
 
-###### Art. 29.º - 1. Consideram-se supranumerários os oficiais em comissão normal que, não estando adidos, não tenham, por falta de vaga, entrada nos quadros.
+Art. 29.º - 1. Consideram-se supranumerários os oficiais em comissão normal que, não estando adidos, não tenham, por falta de vaga, entrada nos quadros.
 
 2. A situação de supranumerário pode resultar de:
 
@@ -367,17 +443,17 @@ d) Situação prevista nos n.os 4 e 5 do artigo 13.º
 
 informações
 
-###### Art. 30.º - 1. O regime de informações dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. regula-se pelo disposto no capítulo VI do E. O. E., na parte aplicável.
+Art. 30.º - 1. O regime de informações dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. regula-se pelo disposto no capítulo VI do E. O. E., na parte aplicável.
 
 2. As informações referidas nas alíneas b), c) e d) do n.º 1 do artigo 55.º daquele Estatuto são enviadas às 1.as Repartições do Comando-Geral da G. N. R. ou da G. F.
 
 Aptidão física
 
-###### Art. 31.º A aptidão física dos oficiais dos quadros de complemento das forças armadas, com vista ao serviço da G. N. R. ou da G. F., é apreciada nos termos do disposto no capítulo VII do E. O. E., na parte aplicável, passando para o Ministro do Interior ou das Finanças a competência nele atribuída ao Ministro do Exército e para a junta superior de saúde da G. N. R. ou da G. F. a das juntas hospitalares de inspecção.
+Art. 31.º A aptidão física dos oficiais dos quadros de complemento das forças armadas, com vista ao serviço da G. N. R. ou da G. F., é apreciada nos termos do disposto no capítulo VII do E. O. E., na parte aplicável, passando para o Ministro do Interior ou das Finanças a competência nele atribuída ao Ministro do Exército e para a junta superior de saúde da G. N. R. ou da G. F. a das juntas hospitalares de inspecção.
 
 Promoções
 
-###### Art. 32.º - 1. As promoções dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. realizam-se de posto em posto segundo o ordenamento hierárquico estabelecido no artigo 21.º do E. O. E. e nas seguintes modalidades:
+Art. 32.º - 1. As promoções dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. realizam-se de posto em posto segundo o ordenamento hierárquico estabelecido no artigo 21.º do E. O. E. e nas seguintes modalidades:
 
 a) Por diuturnidade, ao posto de tenente;
 
@@ -387,39 +463,39 @@ c) Por distinção, a qualquer daqueles postos.
 
 2. A promoção por distinção pode, em casos especiais, realizar-se a posto superior ao posto imediato do do oficial a promover.
 
-###### Art. 33.º - 1. As promoções a que se refere o artigo 32.º respeitam aos oficiais na situação de activo, podendo, porém, recair sobre os que se encontrem na situação de reserva ou de reforma, quando por distinção ou a título excepcional, nos termos de legislação especial.
+Art. 33.º - 1. As promoções a que se refere o artigo 32.º respeitam aos oficiais na situação de activo, podendo, porém, recair sobre os que se encontrem na situação de reserva ou de reforma, quando por distinção ou a título excepcional, nos termos de legislação especial.
 
 2. A promoção por distinção pode efectuar-se a título póstumo.
 
-###### Art. 34.º - 1. As condições de promoção dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. são as estabelecidas no Estatuto dos Oficiais do respectivo ramo das forças armadas nos artigos referentes à promoção de oficiais milicianos, ou no que, sobre a promoção dos mesmos oficiais, estiver regulado, considerando-se porém as modalidades estabelecidas no artigo 32.º
+Art. 34.º - 1. As condições de promoção dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. são as estabelecidas no Estatuto dos Oficiais do respectivo ramo das forças armadas nos artigos referentes à promoção de oficiais milicianos, ou no que, sobre a promoção dos mesmos oficiais, estiver regulado, considerando-se porém as modalidades estabelecidas no artigo 32.º
 
 2. As escolas de recrutas, ciclos de instrução e outras condições de promoção serão preferentemente realizadas na G. N. R. e na G. F., considerando-se que as escolas de recrutas poderão ser substituídas por escolas de alistados.
 
-###### Art. 35.º Por proposta dos respectivos comandantes-gerais, e dentro dos créditos concedidos pelo Ministro ou Secretário de Estado do respectivo ramo, o Ministro do Interior e o das Finanças designarão anualmente os oficiais que devem frequentar, nas forças armadas, os cursos de promoção que lhes respeitem.
+Art. 35.º Por proposta dos respectivos comandantes-gerais, e dentro dos créditos concedidos pelo Ministro ou Secretário de Estado do respectivo ramo, o Ministro do Interior e o das Finanças designarão anualmente os oficiais que devem frequentar, nas forças armadas, os cursos de promoção que lhes respeitem.
 
-###### Art. 36.º - 1. Com vista às promoções por escolha, a realizar em cada corporação num ano civil, será organizada, em Outubro do ano anterior, uma lista para cada posto, ordenada segundo o mérito relativo dos oficiais que ocupem no dia 1 daquele mês a metade superior da sua escala de antiguidades.
+Art. 36.º - 1. Com vista às promoções por escolha, a realizar em cada corporação num ano civil, será organizada, em Outubro do ano anterior, uma lista para cada posto, ordenada segundo o mérito relativo dos oficiais que ocupem no dia 1 daquele mês a metade superior da sua escala de antiguidades.
 
 2. As listas, depois de aprovadas pelo Ministro do Interior ou das Finanças, conforme sejam respectivamente da G. N. R. ou da G. F., são publicadas em Ordem Geral ou Boletim das Corporações.
 
-###### Art. 37.º Os oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. podem ser graduados, a título provisório, no posto imediatamente superior àquele a que ascenderam por promoção, para efeito e durante o desempenho de funções inerentes a posto superior.
+Art. 37.º Os oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. podem ser graduados, a título provisório, no posto imediatamente superior àquele a que ascenderam por promoção, para efeito e durante o desempenho de funções inerentes a posto superior.
 
-###### Art. 38.º As promoções e as graduações são da competência do Ministro ou Secretário de Estado do ramo a que pertença o oficial, mediante proposta do respectivo comandante-geral, com a concordância do Ministro do Interior ou das Finanças.
+Art. 38.º As promoções e as graduações são da competência do Ministro ou Secretário de Estado do ramo a que pertença o oficial, mediante proposta do respectivo comandante-geral, com a concordância do Ministro do Interior ou das Finanças.
 
 Licenças
 
-###### Art. 39.º Aos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. e na G. F., são extensivas as licenças que, pelo respectivo diploma orgânico, podem ser concedidas aos restantes oficiais.
+Art. 39.º Aos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. e na G. F., são extensivas as licenças que, pelo respectivo diploma orgânico, podem ser concedidas aos restantes oficiais.
 
 Recursos
 
-###### Art. 40.º Aplicam-se aos oficiais dos quadros de complemento das forças armadas prestando serviço na G. N. R. ou na G. F. as disposições do capítulo XI do E. O. E.
+Art. 40.º Aplicam-se aos oficiais dos quadros de complemento das forças armadas prestando serviço na G. N. R. ou na G. F. as disposições do capítulo XI do E. O. E.
 
 Outras disposições
 
-###### Art. 41.º A favor do oficial dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. será passado, pelo respectivo Ministério, bilhete de identidade militar do modelo legalmente aprovado.
+Art. 41.º A favor do oficial dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. será passado, pelo respectivo Ministério, bilhete de identidade militar do modelo legalmente aprovado.
 
-###### Art. 42.º Os oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. têm direito, para si e para as pessoas de suas famílias, à assistência na doença, estabelecida em diploma próprio e em moldes semelhantes aos que vigorem nas forças armadas para os oficiais dos seus quadros permanentes.
+Art. 42.º Os oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. têm direito, para si e para as pessoas de suas famílias, à assistência na doença, estabelecida em diploma próprio e em moldes semelhantes aos que vigorem nas forças armadas para os oficiais dos seus quadros permanentes.
 
-###### Art. 43.º São revogados:
+Art. 43.º São revogados:
 
 [Decreto-Lei n.º 31381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31381-1941-330646), de 12 de Julho de 1941;
 
@@ -437,8 +513,8 @@ Outras disposições
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 22 de Agosto de 1973.**
+Promulgado em 22 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

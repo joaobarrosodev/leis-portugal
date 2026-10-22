@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17000/16461661.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,147 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e3e86fd681dc606a49be7ea248e5d17d10bdb74563af99a9427dd583974bd49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8abc891fdb8385a639386ac61db6b9635a6021f56b2c216eb048f79a814946ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Aviação Civil
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:264276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229958:por
+  label: Alterado o n.º 1 do art. 16.º do presente diploma, pelo(a) Portaria n.º 148-D/80 - Diário da República n.º 76/1980,
+    3º Suplemento, Série I de 1980-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-d-1980-229958
+  date: '1980-03-31'
+- type: amended_by
+  target: pt:dre:474495:por
+  label: Alterado o n.º 1 do art. 16.º pelo(a) Portaria n.º 286/80 - Diário da República n.º 121/1980, Série I de 1980-05-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-1980-474495
+  date: '1980-05-26'
+- type: amended_by
+  target: pt:dre:469664:por
+  label: Extintos os lugares do actual quadro de pessoal técnico superior das carreiras de aeronáutica a que se refere o art.
+    19.º, bem como os de médico especialista, pelo(a) Decreto-Lei n.º 333/80 - Diário da República n.º 199/1980, Série I de
+    1980-08-29, após a transição prevista no art. 8.º daquele diploma, e revogadas todas as disposições do presente diploma
+    que sejam incompatíveis com aquele
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1980-469664
+  date: '1980-08-29'
+- type: amended_by
+  target: pt:dre:567065:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Aviação Civil, aprovado pelo presente, pelo(a) Portaria n.º 1085/81
+    - Diário da República n.º 293/1981, Série I de 1981-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1085-1981-567065
+  date: '1981-12-22'
+- type: amended_by
+  target: pt:dre:180983:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Aviação Civil, aprovado pelo presente diploma, alterado pelas Ports
+    148-D/80, de 31-mar, 286/80, de 26-mai, e 1085/81, de 22-dez, e pelo Dec Lei 333/80, de 29-ago, pelo(a) Portaria n.º 636/85
+    - Diário da República n.º 194/1985, Série I de 1985-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-1985-180983
+  date: '1985-08-24'
+- type: amended_by
+  target: pt:dre:284902:por
+  label: Alterado o quadro de Pessoal da Direcção Geral da Aviação Civil, aprovado pelo presente diploma, alterado pelas Ports
+    148-D/80, de 31-mar, 286/80, de 26-mai, 1085/81, de 22-dez, e 636/85, de 24-ago, e pelo Dec Lei 333/80, de 29-ago, pelo(a)
+    Portaria n.º 222/88 - Diário da República n.º 86/1988, Série I de 1988-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-1988-284902
+  date: '1988-04-13'
+- type: amended_by
+  target: pt:dre:357918:por
+  label: "Alterado o art. 15.º e revogada a alínea c) do n.º 3 do art. 14.º pelo DEC LEI.419/88.11.11.1988.MOPTC, DR.IS [261]\
+    \ de 11.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/419-1988-357918
+  date: '1988-11-11'
+- type: amended_by
+  target: pt:dre:549248:por
+  label: Alterado o art. 44º do presente diploma, pelo DEC LEI.363/89.19.10.1989.MOPTC, DR.IS [241] de 19.10.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/363-1989-549248
+  date: '1989-10-19'
+- type: amended_by
+  target: pt:dre:550257:por
+  label: Alterado o art. 4º, pelo DEC LEI.434/89.16.12.1989.MOPTC, DR.IS [288] de 16.12.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/434-1989-550257
+  date: '1989-12-16'
+- type: amended_by
+  target: pt:dre:333563:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal de enfermagem, pela PORT.36/90.16.01.1990.MF, DR.IS\
+    \ [13] de 16.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1990-333563
+  date: '1990-01-16'
+- type: cites
+  target: pt:dre:139694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525213:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:615852:por
+  label: "Revogado o n.º 2 do artigo 20.º pelo DEC LEI.1-C/80.11.01.1980.MTC, DR.IS [9]Supl de 11.01.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-c-1980-615852
+  date: '1980-01-11'
+- type: repealed_by
+  target: pt:dre:370249:por
+  label: Revogadas as disposições do presente diplomas, pelo DEC LEI.318/88.09.09.1988.MOPTC, DR.IS [209] de 09.09.1988, incompatíveis
+    com este
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1988-370249
+  date: '1988-09-09'
+- type: repealed_by
+  target: pt:dre:264276:por
+  label: "Revogado pelo DEC LEI.121/94.1994.05.14.MOPTC, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1994-264276
+  date: '1994-05-14'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:31Z'
   warnings: []
   errors: []
 ---
@@ -946,12 +1053,12 @@ As dúvidas suscitadas pela interpretação do presente diploma serão resolvida
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa.
 
-**Promulgado em 3 de Julho de 1979.**
+Promulgado em 3 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o n.º 1 do artigo 16.º do Decreto-Lei n.º 242/79, de 25 de Julho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17000/16461661.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17000/16461661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16461661.pdf)

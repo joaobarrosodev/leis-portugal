@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00900/00290030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1980-582009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c420e235f475c19eb6abe0aaeba45396eb871d9348adc66bdc995b2d954de0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e08fa9bee9b6a5ad80926dfa2e9efce7245837a7b6691335017e0c07587ce552
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equivalência de Diplomas
+- Exército
+- Formação Profissional
+- Hospital Militar
+- Pessoal de Enfermagem
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:161772:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:51Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +110,7 @@ Considerando que, nesta circunstância, importa ter em conta a especificidade da
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os indivíduos que prestaram serviço militar no Exército e que, nos termos do artigo 3.º do [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772), de 10 de Abril, se encontram em condições de frequentar o curso de promoção profissional previsto no artigo 2.º do mesmo decreto-lei e que a ele tenham sido ou venham a ser admitidos ficarão sujeitos às seguintes obrigações de serviço militar, quando esses cursos sejam ministrados em hospitais militares:
+Artigo 1.º Os indivíduos que prestaram serviço militar no Exército e que, nos termos do artigo 3.º do [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772), de 10 de Abril, se encontram em condições de frequentar o curso de promoção profissional previsto no artigo 2.º do mesmo decreto-lei e que a ele tenham sido ou venham a ser admitidos ficarão sujeitos às seguintes obrigações de serviço militar, quando esses cursos sejam ministrados em hospitais militares:
 
 a) Regressarão ou continuarão ao serviço efectivo por um período de cinco anos, contados a partir da data de início do curso, na situação de contratados, desde que satisfaçam as seguintes condições:
 
@@ -109,16 +124,16 @@ b) Caso a caso, a título excepcional e mediante despacho favorável do Chefe do
 
 c) Anualmente e durante a vigência do contrato serão sujeitos às informações periódicas em vigor para os sargentos dos quadros permanentes, passando à situação de disponibilidade caso as informações sejam desfavoráveis ou quando punidos com pena igual ou superior a dez dias de detenção ou equivalente.
 
-###### Art. 2.º Após o final do curso e durante a vigência do contrato poderão ser admitidos aos concursos dos quadros de pessoal civil do Exército para preenchimento de vagas de enfermeiro. Para efeitos de eventual tomada de posse de cargo no QPCE e acesso na respectiva carreira, a prestação de serviço militar, nos termos do presente diploma, é considerada como obrigatória.
+Art. 2.º Após o final do curso e durante a vigência do contrato poderão ser admitidos aos concursos dos quadros de pessoal civil do Exército para preenchimento de vagas de enfermeiro. Para efeitos de eventual tomada de posse de cargo no QPCE e acesso na respectiva carreira, a prestação de serviço militar, nos termos do presente diploma, é considerada como obrigatória.
 
-###### Art. 3.º O presente diploma produz efeitos a partir de 1 de Junho de 1979.
+Art. 3.º O presente diploma produz efeitos a partir de 1 de Junho de 1979.
 
-###### Art. 4.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Chefe do Estado-Maior do Exército.
+Art. 4.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Chefe do Estado-Maior do Exército.
 
 Visto e aprovado em Conselho da Revolução em 19 de Dezembro de 1979.
 
-**Promulgado em 3 de Janeiro de 1980.**
+Promulgado em 3 de Janeiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19400/20532054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1979-378738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd7770c1d9129f7e4097862f60c91acfea662b9f53d6a66e2fff0d31d9ebb9fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c021155da62dc48f6ebd709746a92a59f433ed41a878738e8ff75b20526cac93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituição de Crédito
+- IPE
+- Participação do Estado
+- Setor Público
+- Sociedades
+- Títulos de Participação
 relationships:
 - type: amended_by
   target: pt:dre:374423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADOS OS ARTIGOS 4-A E 4-B, PELO DECRETO LEI 412/79, DE 8 DE OUTUBRO, PUBLICADO NO DR.IS,232.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-10-08'
+- type: cites
+  target: pt:dre:230969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638886:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374423:por
+  label: "Revogado pela LEI.71/88.24.05.1988.AR, DR.IS [120] de 24.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-1988-374423
+  date: '1988-05-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:47Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +137,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nenhuma entidade do sector público, abrangida pelo artigo 1.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, poderá adquirir novas participações no capital de sociedades sem prévia autorização do Ministro das Finanças e do Plano; no âmbito desta estatuição, compreende-se a tomada firme de acções, ou obrigações convertíveis em acções, por instituições de crédito.
+Artigo 1.º - 1 - Nenhuma entidade do sector público, abrangida pelo artigo 1.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, poderá adquirir novas participações no capital de sociedades sem prévia autorização do Ministro das Finanças e do Plano; no âmbito desta estatuição, compreende-se a tomada firme de acções, ou obrigações convertíveis em acções, por instituições de crédito.
 
 2 - No despacho de autorização, a proferir depois de ouvido o IPE, o Ministro das Finanças e do Plano pode determinar que a titularidade ou gestão de tais participações se mantenha nas entidades adquirentes ou deva ser transferida, em prazo a fixar, para o Instituto das Participações do Estado, ou para outro destino.
 
@@ -111,20 +147,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - A titularidade das participações a que se refere o número anterior por um período superior a dez anos reveste natureza excepcional, carecendo de nova autorização do Ministro das Finanças e do Plano, a solicitar até seis meses antes de terminar aquele período.
 
-###### Art. 2.º O regime estabelecido no artigo anterior não se aplica à aquisição de participações no capital de sociedades pelas empresas públicas de seguros, que será objecto de regime especial a definir por portaria do Ministério das Finanças e do Plano, a publicar no prazo de noventa dias.
+Art. 2.º O regime estabelecido no artigo anterior não se aplica à aquisição de participações no capital de sociedades pelas empresas públicas de seguros, que será objecto de regime especial a definir por portaria do Ministério das Finanças e do Plano, a publicar no prazo de noventa dias.
 
-###### Art. 3.º O valor de cessão das participações já transferidas, nesta data, para o Instituto das Participações do Estado será definido, no prazo de seis meses, por despacho do Ministro das Finanças e do Plano, sob proposta do Instituto, ouvidas as entidades cedentes e com observância do disposto no artigo seguinte.
+Art. 3.º O valor de cessão das participações já transferidas, nesta data, para o Instituto das Participações do Estado será definido, no prazo de seis meses, por despacho do Ministro das Finanças e do Plano, sob proposta do Instituto, ouvidas as entidades cedentes e com observância do disposto no artigo seguinte.
 
-###### Art. 4.º As regras e critérios definidores da determinação do valor de cessão das participações serão fixados em portaria a publicar pelo Ministério das Finanças e do Plano, no prazo de trinta dias, após a entrada em vigor do presente diploma.
+Art. 4.º As regras e critérios definidores da determinação do valor de cessão das participações serão fixados em portaria a publicar pelo Ministério das Finanças e do Plano, no prazo de trinta dias, após a entrada em vigor do presente diploma.
 
-###### Art. 5.º São expressamente revogados o artigo 9.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, e as Portarias n.os [404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho, e [584/78](https://diariodarepublica.pt/dr/detalhe/portaria/584-1978-329222), de 25 de Setembro.
+Art. 5.º São expressamente revogados o artigo 9.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, e as Portarias n.os [404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho, e [584/78](https://diariodarepublica.pt/dr/detalhe/portaria/584-1978-329222), de 25 de Setembro.
 
-###### Art. 6.º As dúvidas suscitadas na aplicação deste diploma são esclarecidas por despacho do Ministro das Finanças e do Plano.
+Art. 6.º As dúvidas suscitadas na aplicação deste diploma são esclarecidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

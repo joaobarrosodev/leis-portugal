@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23600/27272731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1981-561817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9784842f094b68de3aced4ab7542c346023619e7d002555baa0ffbfe96470942
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03de84891107173dfe20b9a219766af87121feeb30ea7402368f28ca4af2ead6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Ministros
+- Conselho de Ministros para os Assuntos Económicos
+- Governo VIII
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:408485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397346:por
+  label: "Alterados os artigos 2.º, 3.º, 4.º, 9.º, 11.º, e aditado um n.º 5 ao artigo 19.º, pelo DEC LEI.295/82.28.07.1982.PCM,\
+    \ DR.IS [172] de 28.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-1982-397346
+  date: '1982-07-28'
+- type: cites
+  target: pt:dre:381117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682863:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408485:por
+  label: "Revogado pelo DEC LEI.344-A/83.25.07.1983.PCM, DR.IS [169]Supl de 25.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/344-a-1983-408485
+  date: '1983-07-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:10Z'
   warnings: []
   errors: []
 ---
@@ -138,9 +165,9 @@ I
 
 Do Governo
 
-###### Artigo 1.º O Governo é constituído pelo Primeiro-Ministro, Vice-Primeiro-Ministro e Ministro da Defesa Nacional, Ministros, Secretários e Subsecretários de Estado.
+Artigo 1.º O Governo é constituído pelo Primeiro-Ministro, Vice-Primeiro-Ministro e Ministro da Defesa Nacional, Ministros, Secretários e Subsecretários de Estado.
 
-###### Art. 2.º O Governo compreende os seguintes Ministros:
+Art. 2.º O Governo compreende os seguintes Ministros:
 
 a) Ministro de Estado e da Qualidade de Vida;
 
@@ -170,13 +197,13 @@ n) Ministro da Habitação, Obras Públicas e Transportes;
 
 o) Ministro da Reforma Administrativa.
 
-###### Art. 3.º - 1 - Compete ao Vice-Primeiro-Ministro substituir o Primeiro-Ministro na sua ausência ou impedimento e exercer os poderes que lhe forem delegados pelo Primeiro-Ministro ou pelo Conselho de Ministros.
+Art. 3.º - 1 - Compete ao Vice-Primeiro-Ministro substituir o Primeiro-Ministro na sua ausência ou impedimento e exercer os poderes que lhe forem delegados pelo Primeiro-Ministro ou pelo Conselho de Ministros.
 
 2 - Compete aos Ministros de Estado exercer, enquanto tais, os poderes que lhes forem delegados pelo Primeiro-Ministro ou pelo Conselho de Ministros.
 
 3 - Compete ao Ministro Adjunto do Primeiro-Ministro ocupar-se das relações entre o Governo, a Assembleia da República e os partidos políticos, bem como exercer outros poderes que lhe forem delegados pelo Primeiro-Ministro.
 
-###### Art. 4.º - 1 - Integram-se na Presidência do Conselho de Ministros todos os serviços dependentes do Primeiro-Ministro, do Vice-Primeiro-Ministro e do Ministro Adjunto do Primeiro-Ministro, bem como dos seguintes Secretários de Estado:
+Art. 4.º - 1 - Integram-se na Presidência do Conselho de Ministros todos os serviços dependentes do Primeiro-Ministro, do Vice-Primeiro-Ministro e do Ministro Adjunto do Primeiro-Ministro, bem como dos seguintes Secretários de Estado:
 
 a) Secretário de Estado da Presidência do Conselho de Ministros;
 
@@ -194,15 +221,15 @@ f) O Secretário de Estado do Turismo.
 
 3 - Junto do Secretário de Estado da Presidência do Conselho de Ministros haverá um Subsecretário de Estado da Presidência do Conselho de Ministros.
 
-###### Art. 5.º O Ministro da Defesa Nacional é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Defesa Nacional.
+Art. 5.º O Ministro da Defesa Nacional é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Defesa Nacional.
 
-###### Art. 6.º O Ministério da Qualidade de Vida compreende as seguintes Secretarias de Estado:
+Art. 6.º O Ministério da Qualidade de Vida compreende as seguintes Secretarias de Estado:
 
 a) Ordenamento e Ambiente;
 
 b) Desportos.
 
-###### Art. 7.º - 1 - O Ministério das Finanças e do Plano compreende as seguintes Secretarias de Estado:
+Art. 7.º - 1 - O Ministério das Finanças e do Plano compreende as seguintes Secretarias de Estado:
 
 a) Finanças;
 
@@ -218,19 +245,19 @@ e) Integração Europeia.
 
 3 - Junto do Secretário de Estado do Orçamento haverá um Subsecretário de Estado do Orçamento.
 
-###### Art. 8.º O Ministério da Administração Interna compreende as seguintes Secretarias de Estado:
+Art. 8.º O Ministério da Administração Interna compreende as seguintes Secretarias de Estado:
 
 a) Administração Regional e Local;
 
 b) Administração Interna.
 
-###### Art. 9.º - 1 - O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado da Emigração e Comunidades Portuguesas.
+Art. 9.º - 1 - O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado da Emigração e Comunidades Portuguesas.
 
 2 - O Ministro dos Negócios Estrangeiros é coadjuvado, no exercício das suas funções, por um Secretário de Estado dos Negócios Estrangeiros.
 
-###### Art. 10.º O Ministro da Justiça é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Justiça.
+Art. 10.º O Ministro da Justiça é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Justiça.
 
-###### Art. 11.º O Ministério da Educação e das Universidades compreende as seguintes Secretarias de Estado:
+Art. 11.º O Ministério da Educação e das Universidades compreende as seguintes Secretarias de Estado:
 
 a) Ensino Superior;
 
@@ -238,13 +265,13 @@ b) Educação e Juventude;
 
 c) Administração Escolar.
 
-###### Art. 12.º O Ministério do Trabalho compreende as seguintes Secretarias de Estado:
+Art. 12.º O Ministério do Trabalho compreende as seguintes Secretarias de Estado:
 
 a) Trabalho;
 
 b) Emprego.
 
-###### Art. 13.º O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
+Art. 13.º O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
 
 a) Saúde;
 
@@ -252,7 +279,7 @@ b) Segurança Social;
 
 c) Família.
 
-###### Art. 14.º - 1 - O Ministério da Agricultura, Comércio e Pescas compreende as seguintes Secretarias de Estado:
+Art. 14.º - 1 - O Ministério da Agricultura, Comércio e Pescas compreende as seguintes Secretarias de Estado:
 
 a) Estruturação Agrária;
 
@@ -266,7 +293,7 @@ d) Pescas.
 
 3 - Junto do Secretário de Estado da Produção Agrícola haverá um Subsecretário de Estado da Agricultura.
 
-###### Art. 15.º O Ministério da Indústria, Energia e Exportação compreende as seguintes Secretarias de Estado:
+Art. 15.º O Ministério da Indústria, Energia e Exportação compreende as seguintes Secretarias de Estado:
 
 a) Energia;
 
@@ -274,9 +301,9 @@ b) Indústria;
 
 c) Exportação.
 
-###### Art. 16.º O Ministro da Cultura e Coordenação Científica é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Cultura.
+Art. 16.º O Ministro da Cultura e Coordenação Científica é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Cultura.
 
-###### Art. 17.º - 1 - O Ministério da Habitação, Obras Públicas e Transportes compreende as seguintes Secretarias de Estado:
+Art. 17.º - 1 - O Ministério da Habitação, Obras Públicas e Transportes compreende as seguintes Secretarias de Estado:
 
 a) Habitação e Urbanismo;
 
@@ -288,9 +315,9 @@ d) Transportes Interiores.
 
 2 - O Ministro da Habitação, Obras Públicas e Transportes é coadjuvado, no exercício das suas funções, por um Secretário de Estado Adjunto.
 
-###### Art. 18.º O Ministro da Reforma Administrativa é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Reforma Administrativa.
+Art. 18.º O Ministro da Reforma Administrativa é coadjuvado, no exercício das suas funções, por um Secretário de Estado da Reforma Administrativa.
 
-###### Art. 19.º - 1 - Os Secretários de Estado existentes junto do Primeiro-Ministro, do Vice-Primeiro-Ministro e Ministro da Defesa Nacional e dos Ministros exercerão, em cada caso, a competência que neles for delegada, respectivamente, pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro ou pelo Ministro da pasta correspondente.
+Art. 19.º - 1 - Os Secretários de Estado existentes junto do Primeiro-Ministro, do Vice-Primeiro-Ministro e Ministro da Defesa Nacional e dos Ministros exercerão, em cada caso, a competência que neles for delegada, respectivamente, pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro ou pelo Ministro da pasta correspondente.
 
 2 - Os poderes delegados nos Secretários de Estado poderão ser por estes subdelegados nos Subsecretários de Estado e, por estes e aqueles, nos dirigentes dos serviços e organismos que deles dependem.
 
@@ -302,7 +329,7 @@ II
 
 Do Conselho de Ministros
 
-###### Art. 20.º - 1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, que preside, pelo Vice-Primeiro-Ministro e pelos Ministros.
+Art. 20.º - 1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, que preside, pelo Vice-Primeiro-Ministro e pelos Ministros.
 
 2 - Os Ministros da República para as Regiões Autónomas dos Açores e da Madeira terão assento em Conselho de Ministros para o efeito de participarem no tratamento de assuntos de interesse para as respectivas regiões autónomas.
 
@@ -310,7 +337,7 @@ Do Conselho de Ministros
 
 4 - Poderão ainda participar nas reuniões do Conselho de Ministros, sem direito a voto, os Secretários de Estado que, em cada caso, venham a ser especialmente convocados por indicação do Primeiro-Ministro.
 
-###### Art. 21.º - 1 - O Conselho de Ministros para os Assuntos Económicos é presidido pelo Primeiro-Ministro ou pelo Ministro em que delegar tal competência.
+Art. 21.º - 1 - O Conselho de Ministros para os Assuntos Económicos é presidido pelo Primeiro-Ministro ou pelo Ministro em que delegar tal competência.
 
 2 - Fazem parte do Conselho de Ministros para os Assuntos Económicos os Ministros de Estado e da Qualidade de Vida, de Estado e das Finanças e do Plano, do Trabalho, dos Assuntos Sociais, da Agricultura, Comércio e Pescas, da Indústria, Energia e Exportação, da Habitação, Obras Públicas e Transportes e da Reforma Administrativa.
 
@@ -318,7 +345,7 @@ Do Conselho de Ministros
 
 4 - Por decisão do Primeiro-Ministro, podem ser convocados para tomar parte nas reuniões do Conselho de Ministros para os Assuntos Económicos outros Ministros, Secretários e Subsecretários de Estado com cujas pastas se relacionem os assuntos a tratar.
 
-###### Art. 22.º Compete ao Conselho de Ministros para os Assuntos Económicos:
+Art. 22.º Compete ao Conselho de Ministros para os Assuntos Económicos:
 
 a) Preparar a definição das linhas da política económica e financeira global do Governo, bem como os aspectos económicos e financeiros das políticas de cooperação decorrentes da política externa geral;
 
@@ -328,7 +355,7 @@ c) Apreciar os assuntos de carácter sectorial que lhe sejam apresentados pelos 
 
 d) Exercer outras atribuições que lhe sejam conferidas por lei ou por delegação do Conselho de Ministros, incluindo a aprovação de projectos de decreto-lei ou de resolução.
 
-###### Art. 23.º - 1 - Em assuntos correntes da Administração Pública, a competência atribuída por lei ao Conselho de Ministros considera-se delegada no Primeiro-Ministro, que a poderá subdelegar em qualquer membro do Governo.
+Art. 23.º - 1 - Em assuntos correntes da Administração Pública, a competência atribuída por lei ao Conselho de Ministros considera-se delegada no Primeiro-Ministro, que a poderá subdelegar em qualquer membro do Governo.
 
 2 - A delegação referida no número anterior não abrange a competência atribuída por lei ao Conselho de Ministros para aplicar sanções de carácter disciplinar.
 
@@ -336,7 +363,7 @@ III
 
 Disposições finais e transitórias
 
-###### Art. 24.º - 1 - Os Ministérios e Secretarias de Estado que, de acordo com o [Decreto-Lei n.º 28/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1981-391397), de 12 de Fevereiro, tinham denominação ou âmbito diferentes dos actuais mantêm-se em funcionamento, mas com alterações resultantes do preceituado neste diploma.
+Art. 24.º - 1 - Os Ministérios e Secretarias de Estado que, de acordo com o [Decreto-Lei n.º 28/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1981-391397), de 12 de Fevereiro, tinham denominação ou âmbito diferentes dos actuais mantêm-se em funcionamento, mas com alterações resultantes do preceituado neste diploma.
 
 2 - É extinto o Ministério da Agricultura e Pescas, sendo os seus serviços e organismos integrados no Ministério da Agricultura, Comércio e Pescas.
 
@@ -362,11 +389,11 @@ c) Comunicações.
 
 10 - Compete ao Ministro da Cultura e Coordenação Científica a superintendência na Junta Nacional de Investigação Científica e Tecnológica e no Instituto Português de Cinema.
 
-###### Art. 25.º - 1 - O pessoal dos departamentos desdobrados, transferidos ou fundidos por este diploma transita para os departamentos que passaram a deter as correspondentes atribuições, independentemente de qualquer formalidade e sem prejuízo dos direitos adquiridos.
+Art. 25.º - 1 - O pessoal dos departamentos desdobrados, transferidos ou fundidos por este diploma transita para os departamentos que passaram a deter as correspondentes atribuições, independentemente de qualquer formalidade e sem prejuízo dos direitos adquiridos.
 
 2 - Até à publicação da futura orgânica do departamento governamental da comunicação social e da integração da actual Direcção-Geral da Divulgação noutro departamento, a gestão do pessoal integrado no quadro único da extinta Secretaria de Estado da Comunicação Social continua a ser assegurada pela Secretaria-Geral do Ministério da Qualidade de Vida.
 
-###### Art. 26.º - 1 - Até à aprovação do Orçamento Geral do Estado para 1982 mantém-se a expressão orçamental da estrutura governativa anterior, com as alterações estabelecidas nos números seguintes.
+Art. 26.º - 1 - Até à aprovação do Orçamento Geral do Estado para 1982 mantém-se a expressão orçamental da estrutura governativa anterior, com as alterações estabelecidas nos números seguintes.
 
 2 - Os encargos com os gabinetes dos Ministros, Secretários de Estado e Subsecretários de Estado criados ou reestruturados pelo presente diploma serão satisfeitos por conta das verbas dos correspondentes gabinetes extintos ou integrados nos termos deste diploma ou por conta da dotação global inscrita no actual orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
 
@@ -376,16 +403,16 @@ c) Comunicações.
 
 5 - O orçamento da extinta Secretaria de Estado da Comunicação Social suportará, durante o período a que refere a primeira parte do n.º 2 do artigo anterior, a realização das despesas com o pessoal a que reporta o mesmo número e com o funcionamento dos serviços que a integravam, incluindo o Gabinete do Secretário de Estado Adjunto do Primeiro-Ministro, a quem compete superintender e despachar todos os assuntos relativos à comunicação social.
 
-###### Art. 27.º Todas as dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Primeiro-Ministro.
+Art. 27.º Todas as dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Primeiro-Ministro.
 
-###### Art. 28.º São revogados os Decretos-Leis n.os [28/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1981-391397), de 12 de Fevereiro, e [230-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-a-1981-682863), de 27 de Julho.
+Art. 28.º São revogados os Decretos-Leis n.os [28/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1981-391397), de 12 de Fevereiro, e [230-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-a-1981-682863), de 27 de Julho.
 
-###### Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 4 de Setembro de 1981.
+Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 4 de Setembro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Outubro de 1981.**
+Promulgado em 6 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/123-1972-397083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef48cf91f0313a863d06e26f69ab496feb22be49b82e23fd06d3eb995bc181c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd5bd0d4d31f2f9a1791dfc933e1f464935a5446dc0007c89df569f7e03386c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:420978:por
+  label: "Rectificada a alínea d) do n.º 4 do artigo 2.º pela RECT.DD348.16.06.1973.PC, DG.IS [141] de 16.06.1973\0\0"
+  source: null
+  date: '1973-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:44Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +120,7 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. No quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar, a que se refere a alínea a) do artigo 216.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, são aumentados oito lugares de director de 3.ª classe, aos quais é atribuída a categoria da letra F, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, sendo quatro lugares para a província de Angola e quatro lugares para a província de Moçambique.
+Artigo 1.º - 1. No quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar, a que se refere a alínea a) do artigo 216.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, são aumentados oito lugares de director de 3.ª classe, aos quais é atribuída a categoria da letra F, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, sendo quatro lugares para a província de Angola e quatro lugares para a província de Moçambique.
 
 2. Os oito directores de 3.ª classe referidos no n.º 1 deste artigo desempenharão as funções de adjuntos dos chefes de repartição das respectivas Direcções Provinciais, competindo-lhes substituí-los nos seus impedimentos e ausências, bem como executar todos os trabalhos que lhes forem determinados pelos mesmos, designadamente:
 
@@ -141,7 +166,7 @@ e) As medidas convenientes para se obter a máxima economia na aquisição e con
 
 f) O estudo das dotações de materiais, de expediente e de impressos.
 
-###### Art. 2.º - 1. Nos quadros privativos do pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique, a que se refere a alínea c) do artigo 216.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, são extintos os lugares de mecânico de 1.ª e de 2.ª classe - letras N e Q - actualmente neles existentes e criados, em sua substituição, os seguintes lugares, aos quais são atribuídas, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, as categorias adiante indicadas:
+Art. 2.º - 1. Nos quadros privativos do pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique, a que se refere a alínea c) do artigo 216.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, são extintos os lugares de mecânico de 1.ª e de 2.ª classe - letras N e Q - actualmente neles existentes e criados, em sua substituição, os seguintes lugares, aos quais são atribuídas, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, as categorias adiante indicadas:
 
 Letra N:
 
@@ -197,15 +222,15 @@ d) De técnico de 2.ª classe de todas as especialidades, mecânico de 2.ª clas
 
 6. Aos concursos de promoção aos lugares de mecânico e técnico principais dos quadros do pessoal contratado serão candidatos obrigatórios os técnicos, mecânicos e electricistas de 1.ª classe do respectivo quadro privativo pertencer a vaga a prover, com boas informações de serviço e que contem mais de dois anos de serviço na categoria.
 
-###### Art. 3.º Nos quadros privativos do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique serão extintos tantos lugares de mecânico de 1.ª e de 2.ª classe, de mecânico de cabos, de electricista de 1.ª classe e de electricista quantos os funcionários das mesmas categorias que ao abrigo do disposto na alínea b) do n.º 3 do artigo 2.º transitarem para os lugares criados pelo n.º 1 do mesmo artigo.
+Art. 3.º Nos quadros privativos do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique serão extintos tantos lugares de mecânico de 1.ª e de 2.ª classe, de mecânico de cabos, de electricista de 1.ª classe e de electricista quantos os funcionários das mesmas categorias que ao abrigo do disposto na alínea b) do n.º 3 do artigo 2.º transitarem para os lugares criados pelo n.º 1 do mesmo artigo.
 
-###### Art. 4.º Nos quadros privativos do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique são criados os seguintes lugares, aos quais são atribuídas, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, as categorias que vão indicadas:
+Art. 4.º Nos quadros privativos do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique são criados os seguintes lugares, aos quais são atribuídas, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, as categorias que vão indicadas:
 
 Um de chefe de serviços administrativos de 1.ª classe - letra G.
 
 Dois de chefe de serviços administrativos de 2.ª classe - letra H.
 
-###### Art. 5.º Aos chefes de serviços administrativos de 1.ª e de 2.ª classe compete a execução de todos os trabalhos que lhes forem atribuídos pelo superior hierárquico a quem estiverem subordinados, designadamente:
+Art. 5.º Aos chefes de serviços administrativos de 1.ª e de 2.ª classe compete a execução de todos os trabalhos que lhes forem atribuídos pelo superior hierárquico a quem estiverem subordinados, designadamente:
 
 Aos chefes de serviços administrativos de 1.ª classe:
 
@@ -219,11 +244,11 @@ d) A substituição do chefe da secção de contabilidade da Repartição dos Se
 
 Aos chefes de serviços administrativos de 2.ª classe - a chefia dos sectores mais importantes da Repartição dos Serviços Administrativos da Direcção dos Serviços.
 
-###### Art. 6.º - 1. O primeiro provimento dos lugares criados pelo artigo 4.º do presente decreto será feito por escolha do Governador-Geral, sob proposta do conselho de administração dos Serviços, de entre os chefes de secção administrativos contratados com mais de dois anos de serviço na categoria e boas informações.
+Art. 6.º - 1. O primeiro provimento dos lugares criados pelo artigo 4.º do presente decreto será feito por escolha do Governador-Geral, sob proposta do conselho de administração dos Serviços, de entre os chefes de secção administrativos contratados com mais de dois anos de serviço na categoria e boas informações.
 
 2. No caso de não haver candidatos satisfazendo às condições estabelecidas no n.º 1 deste artigo, ou de o número dos existentes ser insuficiente para o preenchimento de todos os lugares vagos que se verifiquem, poderá o primeiro provimento das vagas que restarem em aberto recair em chefes de secção administrativos com menos de dois anos de serviço na categoria.
 
-###### Art. 7.º - 1. O provimento posterior dos lugares criados pelo artigo 4.º do presente decreto, bem como dos lugares de chefe de secção administrativo dos Serviços dos Correios, Telégrafos e Telefones de Angola criados pela alínea b) do artigo 1.º do Diploma Legislativo Ministerial n.º 16, publicado em Angola em 31 de Maio de 1967, será feito por concurso documental, observando-se o seguinte:
+Art. 7.º - 1. O provimento posterior dos lugares criados pelo artigo 4.º do presente decreto, bem como dos lugares de chefe de secção administrativo dos Serviços dos Correios, Telégrafos e Telefones de Angola criados pela alínea b) do artigo 1.º do Diploma Legislativo Ministerial n.º 16, publicado em Angola em 31 de Maio de 1967, será feito por concurso documental, observando-se o seguinte:
 
 a) Para os lugares de chefe de serviços administrativos de 1.ª classe contratado, a escolha será feita de entre os chefes de serviços administrativos de 2.ª classe contratados e tesoureiro principal, que contem mais de dois anos de serviço efectivo na categoria e boas informações;
 
@@ -235,15 +260,15 @@ c) Para os lugares de chefe de secção administrativo contratado, a escolha ser
 
 3. O mesmo despacho fixará os prazos e condições complementares a observar e que devem constar dos avisos a publicar no Boletim Oficial da província.
 
-###### Art. 8.º - 1. Nas escolhas e concursos a que se referem os artigos 5.º e 6.º considerar-se-á o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, pela ordem enunciada.
+Art. 8.º - 1. Nas escolhas e concursos a que se referem os artigos 5.º e 6.º considerar-se-á o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, pela ordem enunciada.
 
 2. O mérito será avaliado tendo em conta os factores de qualidade de serviço e habilitações profissionais e literárias, a considerar pela ordem enunciada, pelo que só se deverá passar da apreciação de um factor ao imediato para graduar os concorrentes em situações de paridade naquele que o antecede.
 
 3. Na avaliação da qualificação profissional tomar-se-ão em conta as informações anuais, os louvores, os castigos, o exercício de cargos superiores ou de elevada responsabilidade e tudo o mais que revele aptidão para o cargo.
 
-###### Art. 9.º Os actuais funcionários contratados dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique que modificarem as suas situações em consequência da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos da regra 6.ª do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
+Art. 9.º Os actuais funcionários contratados dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique que modificarem as suas situações em consequência da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos da regra 6.ª do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
 
-###### Art. 10.º Aos lugares dos quadros privativos dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique a seguir mencionados são atribuídas as categorias adiante indicadas, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 10.º Aos lugares dos quadros privativos dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique a seguir mencionados são atribuídas as categorias adiante indicadas, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Quadro do pessoal de exploração:
 
@@ -263,17 +288,17 @@ Guarda-fios de 1.ª classe - letra S.
 
 Distribuidor de 1.ª classe - letra S.
 
-###### Art. 11.º - 1. Aos actuais lugares de tesoureiro-pagador, segundo-oficial fiel-pagador e segundo-oficial fiel de depósito de materiais dos quadros privativos dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique são alteradas as respectivas designações, que passam e ser, respectivamente, tesoureiro principal, tesoureiro de 1.ª classe e fiel de depósito principal, sendo-lhes atribuídas, respectivamente, as categorias das letras H, L e J, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 11.º - 1. Aos actuais lugares de tesoureiro-pagador, segundo-oficial fiel-pagador e segundo-oficial fiel de depósito de materiais dos quadros privativos dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique são alteradas as respectivas designações, que passam e ser, respectivamente, tesoureiro principal, tesoureiro de 1.ª classe e fiel de depósito principal, sendo-lhes atribuídas, respectivamente, as categorias das letras H, L e J, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. Por tesoureiro principal designa-se o funcionário que exerce as funções de tesoureiro junto das Direcções dos Serviços; por tesoureiro de 1.ª classe designa-se o funcionário que exerce as funções de pagador junto de cada repartição regional, e por fiel de depósito principal designa-se o funcionário que exerce as funções de chefe de depósito de materiais junto das Direcções dos Serviços.
 
-###### Art. 12.º - 1. Aos chefes de serviços de exploração de 2.ª classe do quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola compete, além das funções referidas na alínea b) do artigo 3.º do [Decreto n.º 49037](https://diariodarepublica.pt/dr/detalhe/decreto/49037-1969-201199), de 12 de Maio de 1969, chefiar a 2.ª secção das repartições regionais dos mesmos Serviços.
+Art. 12.º - 1. Aos chefes de serviços de exploração de 2.ª classe do quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola compete, além das funções referidas na alínea b) do artigo 3.º do [Decreto n.º 49037](https://diariodarepublica.pt/dr/detalhe/decreto/49037-1969-201199), de 12 de Maio de 1969, chefiar a 2.ª secção das repartições regionais dos mesmos Serviços.
 
 2. Os citados funcionários, quando no desempenho das funções referidas no n.º 1 deste artigo, são os substitutos legais dos respectivos chefes das repartições regionais.
 
-###### Art. 13.º O subsídio diário percebido pelo pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique previsto no artigo 8.º do Diploma Legislativo Ministerial n.º 16, de 31 de Maio de 1967, publicado em Angola, e no artigo 2.º do [Decreto n.º 49014](https://diariodarepublica.pt/dr/detalhe/decreto/49014-1969-200828), de 21 de Maio de 1969, é acumulável com todos os restantes abonos, com excepção dos devidos por serviços extraordinários.
+Art. 13.º O subsídio diário percebido pelo pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones de Angola e Moçambique previsto no artigo 8.º do Diploma Legislativo Ministerial n.º 16, de 31 de Maio de 1967, publicado em Angola, e no artigo 2.º do [Decreto n.º 49014](https://diariodarepublica.pt/dr/detalhe/decreto/49014-1969-200828), de 21 de Maio de 1969, é acumulável com todos os restantes abonos, com excepção dos devidos por serviços extraordinários.
 
-###### Art. 14.º - 1. Ao pessoal de exploração e administrativo dos Serviços dos Correios, Telégrafos e Telefones de Moçambique são atribuídas as seguintes gratificações mensais especiais:
+Art. 14.º - 1. Ao pessoal de exploração e administrativo dos Serviços dos Correios, Telégrafos e Telefones de Moçambique são atribuídas as seguintes gratificações mensais especiais:
 
 Director-adjunto administrativo ... 2000$00
 
@@ -295,16 +320,16 @@ Chefes de estação de 3.ª classe ... 150$00
 
 3. Não serão abonadas as gratificações previstas no n.º 1 deste artigo aos funcionários dos Serviços dos Correios, Telégrafos e Telefones de Moçambique abrangidos pelas disposições do [Decreto n.º 49014](https://diariodarepublica.pt/dr/detalhe/decreto/49014-1969-200828), de 12 de Maio de 1969, e Diploma Legislativo n.º 2905, de 9 de Agosto de 1969, do Governo-Geral de Moçambique.
 
-###### Art. 15.º Os lugares criados pelo presente decreto só serão orçamentados à medida que as disponibilidades financeiras dos Serviços o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações nos orçamentos ordinários ou suplementares dos Serviços que possam fazer face aos encargos consequentes.
+Art. 15.º Os lugares criados pelo presente decreto só serão orçamentados à medida que as disponibilidades financeiras dos Serviços o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações nos orçamentos ordinários ou suplementares dos Serviços que possam fazer face aos encargos consequentes.
 
-###### Art. 16.º É revogada a disposição contida na alínea a) do artigo 2.º do [Decreto n.º 48870](https://diariodarepublica.pt/dr/detalhe/decreto/48870-1969-527402), de 18 de Fevereiro de 1969.
+Art. 16.º É revogada a disposição contida na alínea a) do artigo 2.º do [Decreto n.º 48870](https://diariodarepublica.pt/dr/detalhe/decreto/48870-1969-527402), de 18 de Fevereiro de 1969.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 5 de Abril de 1972.**
+Promulgado em 5 de Abril de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

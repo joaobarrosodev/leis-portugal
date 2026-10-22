@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1983, 3º Suplemento, Série I de 1983-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4172-(66) a 4172-(71)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30103/00660071.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/85-1983-630630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b89fcd6d6cf3f783d08ca4eb375b0e0eeda97bc323ae29d163a9e6162d84202b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99bb8942504ad52db7d406d1943049ca061e204b03086b9295654753dde1bf56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Orçamento Geral do Estado
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146017:por
+  label: Rectificado pela DECL.DD1193.1984.01.31.PCM DR.IS [26]3ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-146017
+  date: '1984-01-31'
 article_structure:
-  article_count: 12
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:34Z'
   warnings: []
   errors: []
 ---
@@ -87,88 +98,88 @@ de 31 de Dezembro
 
 Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 6426111 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 6426111 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/30103/00660071.pdf))](https://files.diariodarepublica.pt/1s/1983/12/30103/00660071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/30103/00660071.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento do Estado representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento do Estado representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas correntes: ... Em contos
 
-### Capítulo 02 - Impostos indirectos:
+Capítulo 02 - Impostos indirectos:
 
 Grupo 03 - Outros:
 
-###### Artigo 32 - Impostos indirectos diversos ... 4500
+Artigo 32 - Impostos indirectos diversos ... 4500
 
-### Capítulo 05 - Transferências:
+Capítulo 05 - Transferências:
 
 Grupo 01 - Sector público:
 
-###### Artigo 03 - Serviços autónomos ... 789461
+Artigo 03 - Serviços autónomos ... 789461
 
 Grupo 06 - Exterior:
 
-###### Artigo 03 - Transferências diversas ... 12000
+Artigo 03 - Transferências diversas ... 12000
 
-### Capítulo 07 - Venda de serviços e bens não douradoros:
+Capítulo 07 - Venda de serviços e bens não douradoros:
 
 Grupo 10 - Diversos - Outros sectores:
 
-###### Artigo 10 - Diversos serviços e bens não duradouros:
+Artigo 10 - Diversos serviços e bens não duradouros:
 
 Serviços de educação - Centros de ensino ... 33750
 
 Receitas de capital:
 
-### Capítulo 10 - Transferências:
+Capítulo 10 - Transferências:
 
 Grupo 06 - Exterior:
 
-###### Artigo 02 - Transferências Diversas ... 58000
+Artigo 02 - Transferências Diversas ... 58000
 
 Contas de ordem:
 
-### Capítulo 15 - Contas de ordem:
+Capítulo 15 - Contas de ordem:
 
 Grupo 08 - Indústria, Energia e Exportação:
 
-###### Artigo 01 - Laboratório Nacional de Engenharia e Tecnologia Industrial ... 60000
+Artigo 01 - Laboratório Nacional de Engenharia e Tecnologia Industrial ... 60000
 
-###### Artigo 07 - Direcção-Geral de Geologia e Minas ... 9900
+Artigo 07 - Direcção-Geral de Geologia e Minas ... 9900
 
 Grupo 09 - Trabalho:
 
-###### Artigo 01 - Gabinete de Gestão do Fundo de Desemprego ... 5400000
+Artigo 01 - Gabinete de Gestão do Fundo de Desemprego ... 5400000
 
 Grupo 10 - Educação:
 
-###### Artigo 1 - Serviços sociais de estabelecimentos do ensino superior ... 20000
+Artigo 1 - Serviços sociais de estabelecimentos do ensino superior ... 20000
 
 Grupo 12 - Habitação, Obras Públicas e Transportes - Departamento dos Transportes:
 
-###### Artigo 04 - Juntas autónomas dos portos ... 16500
+Artigo 04 - Juntas autónomas dos portos ... 16500
 
 Grupo 13 - Qualidade de Vida:
 
-###### Artigo 01 - Fundo do Fomento do Desporto ... 20000
+Artigo 01 - Fundo do Fomento do Desporto ... 20000
 
 ... 6426111
 
-###### Art. 3.º Às dotações afectas às rubricas descritas sob os códigos C. E. 27.00, 48.00 e 52.00, subdiv. 58, div. 21, cap. 50, do Ministério da Agricultura, Comércio e Pescas é aposta a seguinte observação:
+Art. 3.º Às dotações afectas às rubricas descritas sob os códigos C. E. 27.00, 48.00 e 52.00, subdiv. 58, div. 21, cap. 50, do Ministério da Agricultura, Comércio e Pescas é aposta a seguinte observação:
 
 (11) Tem contrapartida em donativos a conceder pela Comunidade Económica Europeia (CEE).
 
 Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - José Augusto Seabra - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - António Manuel Maldonado Gonelha - Manuel José Dias Gomes Costa - José Veiga Simão - Raul Manuel Gouveia Bordalo Junqueiro - António d'Orey Capucho.
 
-**Assinado em 29 de Dezembro de 1983.**
+Assinado em 29 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Dezembro de 1983.**
+Referendado em 29 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29000/26812681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1978-325172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c9d714326835d15169b4073887d2cd352b9c873a2aaa3aff9d93b18e788f6bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3ecfd4be230144873313550a227a70310fa8d01478278087ad01f962a346529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Depósito Legal
+- Direito de Autor
+- Propriedade Intelectual
 relationships:
 - type: amended_by
   target: pt:dre:462583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:462583:por
+  label: "Revogado pelo DEC LEI.484/80.17.10.1980.PCM, DR.IS [241] de 17.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/484-1980-462583
+  date: '1980-10-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:39Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +103,12 @@ Considerando que é de inteira justiça que os autores de obras editadas gráfic
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República, o seguinte:
 
-###### Artigo único. No acto do depósito legal de qualquer obra intelectual editada gráfica ou fonograficamente deverá o editor fazer prova de autorização do titular dos direitos de autor para essa edição.
+Artigo único. No acto do depósito legal de qualquer obra intelectual editada gráfica ou fonograficamente deverá o editor fazer prova de autorização do titular dos direitos de autor para essa edição.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 30 de Novembro de 1978.**
+Promulgado em 30 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

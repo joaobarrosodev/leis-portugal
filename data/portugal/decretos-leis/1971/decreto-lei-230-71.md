@@ -48,36 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1971-643947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d253f4e41a899ac3b32b659a96be37b66c742ed7db731a3332798481ead68d06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48206fba29c54d129335ef8fbcba8fa581e087ca8ee973d8fc6ca1755cea9444
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Hospital Militar
+- Militar
+- Ministério do Exército
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:154456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639685:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:52Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +116,24 @@ Havendo necessidade de aumentar ao quadro orgânico do Hospital Militar Regional
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os vencimentos do pessoal diplomado de enfermagem civil e dos preparadores de laboratório civis contratados para serviço nos hospitais e noutros estabelecimentos dependentes do Ministério do Exército passam a ser os constantes do quadro anexo ao presente diploma, com efeitos a partir de 1 de Junho de 1971.
+Artigo 1.º Os vencimentos do pessoal diplomado de enfermagem civil e dos preparadores de laboratório civis contratados para serviço nos hospitais e noutros estabelecimentos dependentes do Ministério do Exército passam a ser os constantes do quadro anexo ao presente diploma, com efeitos a partir de 1 de Junho de 1971.
 
-###### Art. 2.º Ao quadro orgânico do Hospital Militar Regional n.º 1, fixado pelo [Decreto-Lei n.º 39312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39312-1953-639685), de 12 de Agosto de 1953, são aumentados dois lugares de auxiliar de enfermagem de 1.ª ou 2.ª classe.
+Art. 2.º Ao quadro orgânico do Hospital Militar Regional n.º 1, fixado pelo [Decreto-Lei n.º 39312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39312-1953-639685), de 12 de Agosto de 1953, são aumentados dois lugares de auxiliar de enfermagem de 1.ª ou 2.ª classe.
 
-###### Art. 3.º Os encargos resultantes das disposições deste diploma serão no ano corrente liquidados pelas disponibilidades dos respectivos quadros do pessoal.
+Art. 3.º Os encargos resultantes das disposições deste diploma serão no ano corrente liquidados pelas disponibilidades dos respectivos quadros do pessoal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 19 de Maio de 1971.**
+Promulgado em 19 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 QUADRO ANEXO
 
 Vencimento do pessoal de enfermagem civil e de preparadores de laboratório civis contratados para serviço nos hospitais e noutros estabelecimentos dependentes do Ministério do Exército.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/12500/08150815.pdf))](https://files.diariodarepublica.pt/1s/1971/05/12500/08150815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/12500/08150815.pdf)
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

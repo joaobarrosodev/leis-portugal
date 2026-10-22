@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1981-578353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f439c1f2e1ae177f3b8b62c974c1b59de9f4e5f68e917dc3ca9304020de5b37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66ee63842bdfb096b7e3bbcd7474532ea4d3bfd63d68053039d8fcdc22a25ae9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Congresso
+- Escola Superior
+- Forças Armadas
+- Instituto de Altos Estudos da Força Aérea
+- Instituto Superior Naval de Guerra
+- Remuneração
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:03Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +99,14 @@ Convindo generalizar a todas as escolas superiores militares o que a este respei
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Sempre que a prossecução dos seus objectivos o torne necessário ou conveniente, podem as direcções das escolas superiores militares recorrer à colaboração eventual, através de conferências ou palestras, de entidades civis ou de militares estranhos ao seu corpo docente altamente qualificados e especializados em determinadas matérias.
+Artigo 1.º Sempre que a prossecução dos seus objectivos o torne necessário ou conveniente, podem as direcções das escolas superiores militares recorrer à colaboração eventual, através de conferências ou palestras, de entidades civis ou de militares estranhos ao seu corpo docente altamente qualificados e especializados em determinadas matérias.
 
-###### Art. 2.º A remuneração a atribuir a estas entidades será anualmente fixada, dentro das dotações inscritas nos orçamentos aprovados, por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores dos ramos, até 30 de Setembro de cada ano.
+Art. 2.º A remuneração a atribuir a estas entidades será anualmente fixada, dentro das dotações inscritas nos orçamentos aprovados, por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores dos ramos, até 30 de Setembro de cada ano.
 
 Visto e aprovado em Conselho da Revolução em 27 de Maio de 1981.
 
-**Promulgado em 3 de Junho de 1981.**
+Promulgado em 3 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente do Conselho da Revolução, António Ramalho Eanes.**
+O Presidente do Conselho da Revolução, António Ramalho Eanes.

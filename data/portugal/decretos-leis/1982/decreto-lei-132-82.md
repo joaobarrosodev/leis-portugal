@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09400/09840984.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1982-606548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aa5e24ab0c70547590d288f04a82a0b3d232b871570e9a002727aff982d5787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b149ed0a3b788d94629290efe7dd8818437f266b963206028504eba528fcc0c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Importação de Veículos
+- Instituições de Assistência
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574368:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:648483:por
+  label: "Revogado o Decreto-Lei n.º 145/81, de 3 de Junho, na redacção dada pelo presente diploma, pelo DEC LEI.27/93.12.02.1993.MF,\
+    \ DR.IS-A [36] de 12.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1993-648483
+  date: '1993-02-12'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:59Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +121,7 @@ Usando da autorização concedida pela alínea j) do artigo 22.º da [Lei n.º 4
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. A alínea c) do artigo 1.º do [Decreto-Lei n.º 145/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1981-574368), de 3 de Junho, passa a ter a redacção seguinte:
+Artigo único. A alínea c) do artigo 1.º do [Decreto-Lei n.º 145/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1981-574368), de 3 de Junho, passa a ter a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -109,8 +133,8 @@ c) Imposto sobre a venda de veículos automóveis compreendidos na posição pau
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Abril de 1982.**
+Promulgado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

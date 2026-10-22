@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/469-1972-686612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20b0525dcf336f13d7cbc0a941e54028dc25c53360d922d017c663b7458948a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26184734f66675deed2e829b1adae0a9091b2e3b317777192c250ccd933dccac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:220939:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:42Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +103,13 @@ I
 
 Disposições gerais
 
-###### Artigo 1.º Os Conselhos Técnicos de Obras Públicas actualmente existentes nas províncias ultramarinas passam a designar-se por Conselhos Provinciais de Obras Públicas e Comunicações.
+Artigo 1.º Os Conselhos Técnicos de Obras Públicas actualmente existentes nas províncias ultramarinas passam a designar-se por Conselhos Provinciais de Obras Públicas e Comunicações.
 
-###### Art. 2.º - 1. Os Concelhos Provinciais de Obras Públicas e Comunicações constituem os mais altos órgãos consultivos dos Governos das províncias ultramarinas relativamente aos problemas de obras públicas e de comunicações nos aspectos técnico e económico, cabendo-lhes coadjuvar a Administração no equacionamento e resolução desses problemas e emitir parecer sobre os projectos ou assuntos que, por imposição legal ou determinação dos respectivos Governadores, sejam submetidos à sua apreciação.
+Art. 2.º - 1. Os Concelhos Provinciais de Obras Públicas e Comunicações constituem os mais altos órgãos consultivos dos Governos das províncias ultramarinas relativamente aos problemas de obras públicas e de comunicações nos aspectos técnico e económico, cabendo-lhes coadjuvar a Administração no equacionamento e resolução desses problemas e emitir parecer sobre os projectos ou assuntos que, por imposição legal ou determinação dos respectivos Governadores, sejam submetidos à sua apreciação.
 
 2. Em cada província o Conselho Provincial de Obras Públicas e Comunicações funciona na dependência directa do respectivo Governador.
 
-###### Art. 3.º Quando tal não esteja expressamente confiado a outro órgão especializado, ao Conselho Provincial de Obras Públicas e Comunicações compete emitir os pareceres de carácter técnico e económico que lhe forem solicitados pelo Governador, designadamente sobre:
+Art. 3.º Quando tal não esteja expressamente confiado a outro órgão especializado, ao Conselho Provincial de Obras Públicas e Comunicações compete emitir os pareceres de carácter técnico e económico que lhe forem solicitados pelo Governador, designadamente sobre:
 
 a) Planos directores e de urbanização e pedidos de concessão de terrenos e de instalação de indústrias e outras actividades importantes;
 
@@ -127,7 +131,7 @@ i) Propostas de execução de trabalhos, adjudicação e rescisão de empreitada
 
 j) Outros assuntos em que disposição expressa da lei imponha a sua audição ou para os quais os Governadores a determinem.
 
-###### Art. 4.º - 1. O Conselho Provincial de Obras Públicas e Comunicações reunirá quando convocado pelo presidente, funcionando legalmente logo que esteja presente mais de metade dos membros convocados.
+Art. 4.º - 1. O Conselho Provincial de Obras Públicas e Comunicações reunirá quando convocado pelo presidente, funcionando legalmente logo que esteja presente mais de metade dos membros convocados.
 
 2. Poderá também reunir por proposta do vice-presidente ou de três vogais, proposta que será submetida a despacho do Governador para decidir sobre a sua oportunidade e interesse.
 
@@ -145,13 +149,13 @@ j) Outros assuntos em que disposição expressa da lei imponha a sua audição o
 
 9. Cópias das actas das sessões devem ser remetidas à Direcção-Geral de Obras Públicas e Comunicações no prazo de trinta dias a contar da data da sessão em que tenham sido aprovadas.
 
-###### Art. 5.º - 1. Por cada reunião do Conselho Provincial de Obras Públicas e Comunicações, aos vogais presentes, bem como às pessoas estranhas que sejam convocadas, serão abonadas senhas de presença de valor a fixar por despacho dos Governadores, até ao limite máximo de quatro por mês.
+Art. 5.º - 1. Por cada reunião do Conselho Provincial de Obras Públicas e Comunicações, aos vogais presentes, bem como às pessoas estranhas que sejam convocadas, serão abonadas senhas de presença de valor a fixar por despacho dos Governadores, até ao limite máximo de quatro por mês.
 
 2. Os relatores dos pareceres, que poderão ser vogais do Conselho Provincial de Obras Públicas e Comunicações ou pessoas estranhas a ele, terão direito a uma gratificação, a fixar caso por caso pelo presidente, conforme a complexidade do assunto, cujo valor não poderá exceder o quantitativo de trinta senhas de presença por relato.
 
 3. O secretário do Conselho Provincial de Obras Públicas e Comunicações receberá uma gratificação mensal a fixar pelo Governador.
 
-###### Art. 6.º O funcionamento do Conselho Provincial de Obras Públicas e Comunicações, as atribuições das secções e subsecções e a distribuição dos vogais por estas serão regulados, em cada província, por um regimento a publicar, em portaria provincial, no prazo de três meses a partir da data de entrada em vigor deste diploma.
+Art. 6.º O funcionamento do Conselho Provincial de Obras Públicas e Comunicações, as atribuições das secções e subsecções e a distribuição dos vogais por estas serão regulados, em cada província, por um regimento a publicar, em portaria provincial, no prazo de três meses a partir da data de entrada em vigor deste diploma.
 
 II
 
@@ -159,7 +163,7 @@ Constituição e funcionamento
 
 A) Províncias de Angola e Moçambique
 
-###### Art. 7.º - 1. Em Angola e Moçambique, os Conselhos Provinciais de Obras Públicas e Comunicações serão constituídos por:
+Art. 7.º - 1. Em Angola e Moçambique, os Conselhos Provinciais de Obras Públicas e Comunicações serão constituídos por:
 
 a) O presidente;
 
@@ -187,15 +191,15 @@ k) Um engenheiro ou arquitecto representando a Câmara Municipal da capital da p
 
 3. Serve de vice-presidente um dois vogais do Conselho a designar anualmente por despacho do Governador-Geral, competindo-lhe substituir o presidente nos seus impedimentos.
 
-###### Art. 8.º Junto do Conselho Provincial de Obras Públicas e Comunicações funciona a Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil a que se refere a [Portaria n.º 678/71](https://diariodarepublica.pt/dr/detalhe/portaria/678-1971-220939), de 7 de Dezembro.
+Art. 8.º Junto do Conselho Provincial de Obras Públicas e Comunicações funciona a Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil a que se refere a [Portaria n.º 678/71](https://diariodarepublica.pt/dr/detalhe/portaria/678-1971-220939), de 7 de Dezembro.
 
-###### Art. 9.º Em cada uma das províncias de Angola e Moçambique é criado um lugar de presidente do Conselho Provincial de Obras Públicas e Comunicações, com a categoria correspondente à da letra C do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 9.º Em cada uma das províncias de Angola e Moçambique é criado um lugar de presidente do Conselho Provincial de Obras Públicas e Comunicações, com a categoria correspondente à da letra C do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. Os lugares referidos no número anterior serão preenchidos, em comissão, por engenheiros que tenham revelado especial competência na sua actividade profissional e contem mais de dez anos de exercício da profissão, nomeados pelo Ministro do Ultramar sob proposta do Governador-Geral.
 
 3. Ao presidente do Conselho Provincial de Obras Públicas e Comunicações será abonada uma gratificação mensal de 4000$00, além do subsídio diário fixado para «Pessoal técnico superior».
 
-###### Art. 10.º - 1. É criado, em cada uma das províncias de Angola e Moçambique, um lugar de secretário do Conselho Provincial de Obras Públicas e Comunicações, com a categoria correspondente à da letra H do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 10.º - 1. É criado, em cada uma das províncias de Angola e Moçambique, um lugar de secretário do Conselho Provincial de Obras Públicas e Comunicações, com a categoria correspondente à da letra H do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. Estes lugares serão preenchidos, em comissão, por funcionários de categoria não inferior à da letra J dos serviços dependentes das secretarias provinciais de Obras Públicas ou de Comunicações, nomeados pelo Governador-Geral sob proposta do presidente do Conselho Provincial de Obras Públicas e Comunicações.
 
@@ -203,7 +207,7 @@ k) Um engenheiro ou arquitecto representando a Câmara Municipal da capital da p
 
 4. O pessoal necessário ao funcionamento da secretaria privativa do Conselho será destacado dos serviços dependentes das Secretarias Provinciais de Obras Públicas ou de Comunicações, mediante despacho dos respectivos secretários provinciais.
 
-###### Art. 11.º O Conselho Provincial de Obras Públicas e Comunicações divide-se nas seguintes secções:
+Art. 11.º O Conselho Provincial de Obras Públicas e Comunicações divide-se nas seguintes secções:
 
 a) Secção Permanente;
 
@@ -213,9 +217,9 @@ c) 2.ª Secção (Comunicações e Transportes);
 
 d) 3.ª Secção (Hidráulica e Electricidade).
 
-###### Art. 12.º A Secção Permanente será constituída pelos presidente e vice-presidente do Conselho Provincial de Obras Públicas e Comunicações, procurador da República, director provincial dos Serviços de Obras Públicas e Transportes, director provincial dos Serviços de Portos, Caminhos de Ferro e Transportes, presidente da Junta Autónoma de Estradas, director do Laboratório de Engenharia e director provincial dos Serviços Hidráulicos.
+Art. 12.º A Secção Permanente será constituída pelos presidente e vice-presidente do Conselho Provincial de Obras Públicas e Comunicações, procurador da República, director provincial dos Serviços de Obras Públicas e Transportes, director provincial dos Serviços de Portos, Caminhos de Ferro e Transportes, presidente da Junta Autónoma de Estradas, director do Laboratório de Engenharia e director provincial dos Serviços Hidráulicos.
 
-###### Art. 13.º - 1. À Secção Permanente, que funcionará como órgão se apoio das actividades das Secretarias Provinciais de Obras Públicas e de Comunicações, incumbe dar os pareceres que forem especialmente determinados pelo Governador-Geral ou pelos respectivos secretários provinciais.
+Art. 13.º - 1. À Secção Permanente, que funcionará como órgão se apoio das actividades das Secretarias Provinciais de Obras Públicas e de Comunicações, incumbe dar os pareceres que forem especialmente determinados pelo Governador-Geral ou pelos respectivos secretários provinciais.
 
 2. A Secção Permanente reúne obrigatòriamente uma vez por mês e extraordinàriamente sempre que for convocada.
 
@@ -227,7 +231,7 @@ d) 3.ª Secção (Hidráulica e Electricidade).
 
 B) Províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor
 
-###### Art. 14.º Os Conselhos Provinciais de Obras Públicas e Comunicações de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor têm a seguinte constituição:
+Art. 14.º Os Conselhos Provinciais de Obras Públicas e Comunicações de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor têm a seguinte constituição:
 
 a) O Governador, que presidirá;
 
@@ -241,20 +245,20 @@ e) Um delegado do Comando das Forças Armadas;
 
 f) Um representante das actividades económicas.
 
-###### Art. 15.º Ao vice-presidente do Conselho Provincial de Obras Públicas e Comunicações será abonada uma gratificação mensal a fixar por despacho do Governador.
+Art. 15.º Ao vice-presidente do Conselho Provincial de Obras Públicas e Comunicações será abonada uma gratificação mensal a fixar por despacho do Governador.
 
-###### Art. 16.º Os Conselhos Provinciais de Obras Públicas e Comunicações, ainda que independentes, funcionam adstritos aos Serviços de Obras Públicas e Transportes, que lhes darão o necessário apoio burocrático.
+Art. 16.º Os Conselhos Provinciais de Obras Públicas e Comunicações, ainda que independentes, funcionam adstritos aos Serviços de Obras Públicas e Transportes, que lhes darão o necessário apoio burocrático.
 
-###### Art. 17.º O secretário dos Conselhos Provinciais de Obras Públicas e Comunicações será o funcionário que desempenhe as funções de chefe de secretaria da Repartição Provincial de Obras Públicas e Transportes.
+Art. 17.º O secretário dos Conselhos Provinciais de Obras Públicas e Comunicações será o funcionário que desempenhe as funções de chefe de secretaria da Repartição Provincial de Obras Públicas e Transportes.
 
-###### Art. 18.º O presente decreto entra em vigor no dia 1 de Janeiro de 1973.
+Art. 18.º O presente decreto entra em vigor no dia 1 de Janeiro de 1973.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Novembro de 1972.**
+Promulgado em 10 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

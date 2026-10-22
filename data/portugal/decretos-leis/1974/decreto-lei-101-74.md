@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 62/1974, 1º Suplemento, Série I de 1974-03-14
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 348-(6) a 348-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/06201/00060008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1974-481573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40c027da0361fd250fda777000142d41499beb35dd185a71b149c230caa6798e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03b62bf1ea6c36951210821a8715101d71f4857b0eecb23ed500ba9fca28b207
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento sob Pressão
+- Exportação
+- Importação
+- Normas de Construção
+- Normas de Segurança
+- Segurança Pública
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:309372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333323:por
+  label: Alterado o art. 7º pelo DEC LEI.82/90.14.03.1990.MIE, DR.IS [61] de 14.03.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1990-333323
+  date: '1990-03-14'
+- type: cites
+  target: pt:dre:165673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, COM EFEITOS A PARTIR DA DATA DE ENTRADA EM VIGOR DA PORTARIA PREVISTA NO ART 2 DO DEC LEI 131/92 DE 06-JUL\
+    \ DR.IS-A [153], PELO REFERIDO DECRETO LEI\0ETO LEI"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-07-06'
+- type: repealed_by
+  target: pt:dre:309372:por
+  label: "Revogado, a partir de 29 de Novembro de 1999, pelo DEC LEI.211/99.1999.06.14.MECO,DR.IS-A [136].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1999-309372
+  date: '1999-06-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:14Z'
   warnings: []
   errors: []
 ---
@@ -123,9 +170,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A importação, exportação, construção, reparação, instalação, utilização ou simples funcionamento de recipientes sob pressão, bem como a construção, instalação e utilização de chaminés para descarga de efluentes na atmosfera, só poderão realizar-se nas condições estabelecidas no presente decreto-lei e seus regulamentos.
+Artigo 1.º A importação, exportação, construção, reparação, instalação, utilização ou simples funcionamento de recipientes sob pressão, bem como a construção, instalação e utilização de chaminés para descarga de efluentes na atmosfera, só poderão realizar-se nas condições estabelecidas no presente decreto-lei e seus regulamentos.
 
-###### Art. 2.º - 1. Cabe à Secretaria de Estado da Indústria a execução do presente diploma e seus regulamentos através:
+Art. 2.º - 1. Cabe à Secretaria de Estado da Indústria a execução do presente diploma e seus regulamentos através:
 
 a) Da Direcção-Geral da Energia, quando se tratar de geradores de vapor de água ou de água sobreaquecida, de recipientes para combustíveis e, ainda, das respectivas tubagens, bem como de chaminés em que os efluentes sejam produtos da combustão;
 
@@ -135,9 +182,9 @@ b) Da Direcção-Geral da Qualidade e Segurança Industriais, quando se tratar d
 
 3. Nos casos em que, demonstradamente, as juntas gerais não disponham de serviços adequados para o exercício da competência que lhes é cometida pelo número anterior, será esta competência, a seu pedido, devolvida às direcções-gerais a que se refere o n.º 2.
 
-###### Art. 3.º As entidades competentes, nos termos do artigo anterior, podem, precedendo autorização ministerial, atribuir a organismos de reconhecida idoneidade técnica qualidade para emitir certificados válidos em matéria de aprovação de construção e reparação.
+Art. 3.º As entidades competentes, nos termos do artigo anterior, podem, precedendo autorização ministerial, atribuir a organismos de reconhecida idoneidade técnica qualidade para emitir certificados válidos em matéria de aprovação de construção e reparação.
 
-###### Art. 4.º - 1. Os pedidos de autorização de importação de recipientes sob pressão deverão ser instruídos com um certificado que garanta:
+Art. 4.º - 1. Os pedidos de autorização de importação de recipientes sob pressão deverão ser instruídos com um certificado que garanta:
 
 a) A construção em conformidade com um código aceite pela entidade oficial a quem competir o licenciamento;
 
@@ -149,13 +196,13 @@ b) A inspecção por organismo reconhecido pela mesma entidade oficial.
 
 4. As autorizações de importação serão concedidas sob parecer da entidade oficial a que se refere o n.º 1 e os despachos aduaneiros só poderão ser processados mediante a apresentação dessas autorizações.
 
-###### Art. 5.º - 1. A autorização de importação de recipientes sob pressão não dispensa a aprovação da respectiva construção.
+Art. 5.º - 1. A autorização de importação de recipientes sob pressão não dispensa a aprovação da respectiva construção.
 
 2. Para os efeitos do número anterior, o importador, nos trinta dias seguintes ao despacho de importação temporária, requererá à direcção-geral competente a realização dos ensaios e provas necessários.
 
 3. O importador tem trinta dias, a contar da data do certificado da aprovação a que se refere o n.º 1, para liquidar o bilhete de importação temporária ou para promover a reexportação do recipiente em causa, no caso de este não satisfazer às condições de construção, não podendo, em caso algum, o prazo de importação temporária exceder um ano, a contar da data da sua desalfandegação.
 
-###### Art. 6.º - 1. Os recipientes sob pressão classificam-se nas seguintes categorias:
+Art. 6.º - 1. Os recipientes sob pressão classificam-se nas seguintes categorias:
 
 a) 1.ª categoria: recipientes sob pressão, em que o produto PV é igual ou maior que o valor de A obtido pela expressão A = P + 12;
 
@@ -167,7 +214,7 @@ c) 3.ª categoria: recipientes sob pressão, em que o produto PV é menor que o 
 
 3. As categorias dos geradores de vapor definidas neste artigo substituirão, para os feitos do [Decreto-Lei n.º 45106](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45106-1963-693243), de 2 de Julho de 1963, e do respectivo regulamento aprovado pelo [Decreto n.º 46989](https://diariodarepublica.pt/dr/detalhe/decreto/46989-1966-475885), de 30 de Abril de 1966, as categorias estabelecidas no [Decreto n.º 8332](https://diariodarepublica.pt/dr/detalhe/decreto/8332-1922-165673), de 17 de Agosto de 1922.
 
-###### Art. 7.º - 1. É devido o pagamento de taxas pela prestação de actos relativos a recipientes sob pressão que tenham por objecto:
+Art. 7.º - 1. É devido o pagamento de taxas pela prestação de actos relativos a recipientes sob pressão que tenham por objecto:
 
 a) A aprovação de projectos de construção e de reparação e suas alterações;
 
@@ -191,11 +238,11 @@ g) O averbamento de propriedade ou cancelamento de processo.
 
 5. Não terão seguimento os requerimentos ou diligências passíveis de taxa, enquanto esta não for paga.
 
-###### Art. 8.º A autorização concedida para a instalação ou funcionamento de qualquer recipiente sob pressão ou chaminé, ou para posteriores alterações, não prejudica os direitos de terceiros.
+Art. 8.º A autorização concedida para a instalação ou funcionamento de qualquer recipiente sob pressão ou chaminé, ou para posteriores alterações, não prejudica os direitos de terceiros.
 
-###### Art. 9.º Nos processos em curso será observado, com as adaptações necessárias, o preceituado neste diploma.
+Art. 9.º Nos processos em curso será observado, com as adaptações necessárias, o preceituado neste diploma.
 
-###### Art. 10.º São revogados:
+Art. 10.º São revogados:
 
 a) O [Decreto-Lei n.º 38558](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38558-1951-592500), de 13 de Dezembro de 1951;
 
@@ -205,10 +252,10 @@ c) O artigo 1.º do [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 8 de Março de 1974.**
+Promulgado em 8 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

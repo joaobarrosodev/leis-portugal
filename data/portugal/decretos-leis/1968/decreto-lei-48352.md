@@ -48,36 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48352-1968-234690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7054fbe46ac3be4d2a14c67b2cd0fad0de15878552326c65d83d75745ff361ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a1b3d0f062e3b3f20ac46a3eecb3fe45b7eb42c997228d207d90de5967baed5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Direcção Geral da Previdência e Habitações Económicas
+- Formas de Provimento
+- Fundo Nacional de Abono de Família
+- Ministério das Corporações e Previdência Social
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:181429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:08Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +139,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Enquanto não for publicada a reorganização dos serviços do Ministério das Corporações e Previdência Social, é criada na Direcção-Geral da Previdência e Habitações Económicas, na dependência da Direcção dos Serviços de Habitação Económica, a 3.ª Repartição, que compreenderá a 5.ª e a 9.ª secções e o serviço de tesouraria.
+Artigo 1.º Enquanto não for publicada a reorganização dos serviços do Ministério das Corporações e Previdência Social, é criada na Direcção-Geral da Previdência e Habitações Económicas, na dependência da Direcção dos Serviços de Habitação Económica, a 3.ª Repartição, que compreenderá a 5.ª e a 9.ª secções e o serviço de tesouraria.
 
-###### Art. 2.º A repartição a que se refere o artigo anterior compete à administração do Fundo das Casas Económicas e do Fundo Nacional do Abono de Família, ficando a cargo da 5.ª Secção o processamento da receita e da despesa dos dois Fundos, da 9.ª Secção a execução da contabilidade, preparação dos orçamentos, relatórios e contas e inventários e do serviço de tesouraria os pagamentos, recebimentos e a guarda dos bens patrimoniais dos mencionados Fundos.
+Art. 2.º A repartição a que se refere o artigo anterior compete à administração do Fundo das Casas Económicas e do Fundo Nacional do Abono de Família, ficando a cargo da 5.ª Secção o processamento da receita e da despesa dos dois Fundos, da 9.ª Secção a execução da contabilidade, preparação dos orçamentos, relatórios e contas e inventários e do serviço de tesouraria os pagamentos, recebimentos e a guarda dos bens patrimoniais dos mencionados Fundos.
 
-###### Art. 3.º É acrescido ao quadro do pessoal do Fundo das Casa Económicas, a que se refere o artigo 1.º do [Decreto-Lei n.º 44020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44020-1961-181429), de 9 de Novembro de 1961, sob a designação «Pessoal de inspecção», um lugar de inspector, que ficará na directa dependência do chefe da 2.ª Repartição, competindo-lhe a inspecção regular e periódica dos postos fiscais e centros sociais dos bairros de casas económicas, avaliando da eficiência do seu funcionamento e dos critérios de actuação do respectivo pessoal, e efectuar, sempre que necessário, inquéritos à forma de conduta da população dos referidos bairros.
+Art. 3.º É acrescido ao quadro do pessoal do Fundo das Casa Económicas, a que se refere o artigo 1.º do [Decreto-Lei n.º 44020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44020-1961-181429), de 9 de Novembro de 1961, sob a designação «Pessoal de inspecção», um lugar de inspector, que ficará na directa dependência do chefe da 2.ª Repartição, competindo-lhe a inspecção regular e periódica dos postos fiscais e centros sociais dos bairros de casas económicas, avaliando da eficiência do seu funcionamento e dos critérios de actuação do respectivo pessoal, e efectuar, sempre que necessário, inquéritos à forma de conduta da população dos referidos bairros.
 
-###### Art. 4.º Ao mapa respectivo do [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, é aditado o quadro do pessoal anexo ao presente diploma.
+Art. 4.º Ao mapa respectivo do [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, é aditado o quadro do pessoal anexo ao presente diploma.
 
-###### Art. 5.º O recrutamento do pessoal referido no artigo anterior será feito da seguinte forma:
+Art. 5.º O recrutamento do pessoal referido no artigo anterior será feito da seguinte forma:
 
 a) O lugar de chefe da 3.ª Repartição será provido, por escolha, em indivíduo dos quadros do Ministério ou estranho a eles, com a licenciatura em Ciências Económicas e Financeiras;
 
@@ -126,22 +161,22 @@ e) O lugar de adjunto do encarregado da tesouraria será provido, mediante propo
 
 f) O lugar de inspector será provido, por escolha, em indivíduo dos quadros do Ministério ou a eles estranho, habilitado com um curso superior adequado ou com o curso do Instituto de Estudos Sociais.
 
-###### Art. 6.º O chefe da 3.ª Repartição assumirá perante o Tribunal de Contas a responsabilidade pela gerência do Fundo das Casas Económicas.
+Art. 6.º O chefe da 3.ª Repartição assumirá perante o Tribunal de Contas a responsabilidade pela gerência do Fundo das Casas Económicas.
 
-###### Art. 7.º O encarregado do serviço da tesouraria e o adjunto prestarão uma caução a fixar por despacho do Ministro das Corporações e Previdência Social, sob proposta do chefe da 3.ª Repartição.
+Art. 7.º O encarregado do serviço da tesouraria e o adjunto prestarão uma caução a fixar por despacho do Ministro das Corporações e Previdência Social, sob proposta do chefe da 3.ª Repartição.
 
-###### Art. 8.º A primeira nomeação para os lugares do quadro a que se refere o artigo 4.º será feita, independentemente do estabelecido no artigo 5.º, mediante relação nominal a publicar no Diário do Governo, sem dependência de quaisquer formalidades, incluindo o visto do Tribunal de Contas e a posse. Os provimentos estabelecidos nessa relação e o direito aos abonos dos vencimentos correspondentes efectivam-se a partir do início do mês seguinte ao da sua publicação.
+Art. 8.º A primeira nomeação para os lugares do quadro a que se refere o artigo 4.º será feita, independentemente do estabelecido no artigo 5.º, mediante relação nominal a publicar no Diário do Governo, sem dependência de quaisquer formalidades, incluindo o visto do Tribunal de Contas e a posse. Os provimentos estabelecidos nessa relação e o direito aos abonos dos vencimentos correspondentes efectivam-se a partir do início do mês seguinte ao da sua publicação.
 
-###### Art. 9.º Os encargos resultantes da execução deste diploma serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo das Casas Económicas e o Fundo Nacional do Abono de Família, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
+Art. 9.º Os encargos resultantes da execução deste diploma serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo das Casas Económicas e o Fundo Nacional do Abono de Família, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
 
-###### Art. 10.º É revogado o artigo 52.º do [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 de Dezembro de 1948.
+Art. 10.º É revogado o artigo 52.º do [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 de Dezembro de 1948.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Quadro do pessoal a que se refere o Decreto-Lei n.º 48352, de 25 de Abril de 1968
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/04/09900/05920594.pdf))](https://files.diariodarepublica.pt/1s/1968/04/09900/05920594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/04/09900/05920594.pdf)
 
 Ministério das Corporações e Previdência Social, 25 de Abril de 1968. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1971-631267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a718013ae2d6686e892348169edbd7994be789320b5616099ec96ea5efb620b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 904b1b6937baefa1ba9b9d56c15fa331bb1860147a9836f9ee4f6debdc533a1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Associação Juvenil
+- Comemoração
+- Definição de Competências
+- Funcionário Público
+- Gestão Financeira
+- Instalação de Serviços
+- Interesse Público
+- Ministério da Educação Nacional
+- Mocidade Portuguesa
+- Orgânica
+- Política de Juventude
+- Procuradoria dos Estudantes Ultramarinos
+- Reestruturação de Serviços
+- Regime de Pessoal
+- Serviço Regional
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:523191:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:523191:por
+  label: "Extintas a Mocidade Portuguesa e a Mocidade Portuguesa Feminina criadas pela Lei 1941 de 11-Abr de 1936, com a actualização\
+    \ constante do presente diploma, pelo DEC LEI.171/74.25.04.1974.JSN, DG.IS [97-Supl] de 25.04.1974 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1974-523191
+  date: '1974-04-25'
+- type: cites
+  target: pt:dre:479220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631414:por
+  label: "Rectificado pela RECT.DD350.13.11.1971.PC, DG.IS [267] de 13.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-631414
+  date: '1971-11-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:39Z'
   warnings: []
   errors: []
 ---
@@ -105,27 +145,27 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Natureza, fins e atribuições da Mocidade Portuguesa e da Mocidade Portuguesa Feminina
 
-###### Artigo 1.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina são associações nacionais de juventude, reconhecidas de interesse público e abertas à adesão voluntária de jovens de ambos os sexos.
+Artigo 1.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina são associações nacionais de juventude, reconhecidas de interesse público e abertas à adesão voluntária de jovens de ambos os sexos.
 
-###### Art. 2.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina têm por missão promover:
+Art. 2.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina têm por missão promover:
 
 a) A formação patriótica da juventude, no respeito pelas características intemporais da Nação Portuguesa e pelos factos exemplares do seu passado, através do conhecimento esclarecido da sua vida colectiva no presente, com vista a preparar cidadãos capazes de participar ùtilmente do desenvolvimento e do progresso de Portugal;
 
 b) A formação espiritual dos jovens dentro da tradição cristã do País.
 
-###### Art. 3.º - 1. A Mocidade Portuguesa e a Mocidade Portuguesa Feminina conservam a personalidade colectiva de direito público e a autonomia administrativa e financeira.
+Art. 3.º - 1. A Mocidade Portuguesa e a Mocidade Portuguesa Feminina conservam a personalidade colectiva de direito público e a autonomia administrativa e financeira.
 
 2. Em tudo o que respeite à sua actividade nas províncias ultramarinas, a Mocidade Portuguesa e a Mocidade Portuguesa Feminina dependem do Ministério do Ultramar.
 
-###### Art. 4.º Na prossecução dos seus objectivos formativos, a Mocidade Portuguesa e a Mocidade Portuguesa Feminina podem promover quaisquer actividades culturais, desportivas e de ar livre.
+Art. 4.º Na prossecução dos seus objectivos formativos, a Mocidade Portuguesa e a Mocidade Portuguesa Feminina podem promover quaisquer actividades culturais, desportivas e de ar livre.
 
-###### Art. 5.º - 1. A Mocidade Portuguesa colaborará com a Liga dos Antigos Graduados da Mocidade Portuguesa.
+Art. 5.º - 1. A Mocidade Portuguesa colaborará com a Liga dos Antigos Graduados da Mocidade Portuguesa.
 
 2. A Mocidade Portuguesa e a Mocidade Portuguesa Feminina também colaborarão com a escola e com as demais organizações públicas ou particulares que se ocupem da formação da juventude, em ordem a uma conveniente conjugação de esforços.
 
 ### CAPÍTULO II — Filiados
 
-###### Art. 6.º - 1. Podem fazer parte da Mocidade Portuguesa e da Mocidade Portuguesa Feminina os jovens portugueses de ambos os sexos, dos 7 aos 25 anos, que voluntàriamente se inscrevam como filiados.
+Art. 6.º - 1. Podem fazer parte da Mocidade Portuguesa e da Mocidade Portuguesa Feminina os jovens portugueses de ambos os sexos, dos 7 aos 25 anos, que voluntàriamente se inscrevam como filiados.
 
 2. Os estudantes filiados na Mocidade Portuguesa e na Mocidade Portuguesa Feminina poderão permanecer nos quadros das organizações até à conclusão do curso.
 
@@ -141,7 +181,7 @@ b) Os antigos filiados que desejem continuar a servir ou a apoiar a Mocidade Por
 
 #### SECÇÃO I — Comissariado Nacional
 
-###### Art. 7.º - 1. A direcção efectiva das actividades da Mocidade Portuguesa e da Mocidade Portuguesa Feminina cabe ao comissário nacional respectivo, que será assistido em cada associação por dois comissários nacionais-adjuntos e pelo assistente nacional.
+Art. 7.º - 1. A direcção efectiva das actividades da Mocidade Portuguesa e da Mocidade Portuguesa Feminina cabe ao comissário nacional respectivo, que será assistido em cada associação por dois comissários nacionais-adjuntos e pelo assistente nacional.
 
 2. Um dos comissários nacionais-adjuntos é o comissário nacional-adjunto para o ultramar.
 
@@ -149,7 +189,7 @@ b) Os antigos filiados que desejem continuar a servir ou a apoiar a Mocidade Por
 
 4. O assistente nacional tem a categoria de comissário nacional-adjunto para efeitos de honras e disciplinas.
 
-###### Art. 8.º - 1. Os membros dos comissariados nacionais da Mocidade Portuguesa e da Mocidade Portuguesa Feminina serão nomeados pelo Ministro da Educação Nacional e, quanto aos comissários nacionais-adjuntos para o ultramar, também pelo Ministro do Ultramar, de entre pessoas de reconhecida competência que dêem garantias de imprimir sã orientação às actividades de formação da juventude; mas a nomeação dos assistentes nacionais deve ter a concordância do Ordinário de Lisboa.
+Art. 8.º - 1. Os membros dos comissariados nacionais da Mocidade Portuguesa e da Mocidade Portuguesa Feminina serão nomeados pelo Ministro da Educação Nacional e, quanto aos comissários nacionais-adjuntos para o ultramar, também pelo Ministro do Ultramar, de entre pessoas de reconhecida competência que dêem garantias de imprimir sã orientação às actividades de formação da juventude; mas a nomeação dos assistentes nacionais deve ter a concordância do Ordinário de Lisboa.
 
 2. As nomeações são feitas pelo período de três anos, podendo ser renovadas, uma ou mais vezes, por períodos de igual duração.
 
@@ -159,7 +199,7 @@ b) Os antigos filiados que desejem continuar a servir ou a apoiar a Mocidade Por
 
 5. Mensalmente reunirá o Conselho Orientador das Mocidades, composto pelos comissários nacionais da Mocidade Portuguesa e da Mocidade Portuguesa Feminina e pelos seus adjuntos e assistentes nacionais, pertencendo a presidência alternadamente em cada ano ao comissário nacional de uma das associações. O Conselho ocupar-se-á da orientação dos movimentos e tomará resoluções sobre os assuntos comuns a ambas as associações.
 
-###### Art. 9.º - 1. Quando a nomeação prevista no artigo anterior recaia em funcionários públicos ou equiparados, estes ficarão sujeitos ao regime legal de comissão de serviço.
+Art. 9.º - 1. Quando a nomeação prevista no artigo anterior recaia em funcionários públicos ou equiparados, estes ficarão sujeitos ao regime legal de comissão de serviço.
 
 2. Quando a cessação da comissão for determinada, o funcionário regressará ao quadro de origem, ocupando imediatamente vaga se a houver, ou, no caso contrário, a primeira que venha a verificar-se e, até lá, aguardando como supranumerário.
 
@@ -167,21 +207,21 @@ b) Os antigos filiados que desejem continuar a servir ou a apoiar a Mocidade Por
 
 4. As funções exercidas em comissão consideram-se para todos os efeitos como desempenhadas no serviço de origem; mas o vencimento será abonado pelo respectivo Comissariado durante todo o tempo em que a comissão subsistir.
 
-###### Art. 10.º - 1. Para a execução das directrizes de cada um dos comissariados nacionais, manutenção da unidade de orientação e coordenação dos diversos serviços e, bem assim, direcção permanente dos serviços de secretaria e expediente, poderá haver em cada associação um secretário-inspector.
+Art. 10.º - 1. Para a execução das directrizes de cada um dos comissariados nacionais, manutenção da unidade de orientação e coordenação dos diversos serviços e, bem assim, direcção permanente dos serviços de secretaria e expediente, poderá haver em cada associação um secretário-inspector.
 
 2. Aos secretários-inspectores aplicar-se-á o disposto nos n.os 1 a 3 do artigo 8.º
 
-###### Art. 11.º - 1. Com o fim de assegurar o estudo, a orientação e a fiscalização dos assuntos na especialidade, os comissários nacionais criarão os serviços adequados às várias formas de actividades da Mocidade Portuguesa e da Mocidade Portuguesa Feminina, sendo em princípio a sua chefia confiada a filiados ou associados.
+Art. 11.º - 1. Com o fim de assegurar o estudo, a orientação e a fiscalização dos assuntos na especialidade, os comissários nacionais criarão os serviços adequados às várias formas de actividades da Mocidade Portuguesa e da Mocidade Portuguesa Feminina, sendo em princípio a sua chefia confiada a filiados ou associados.
 
 2. Os chefes dos serviços serão da confiança e escolha do comissário nacional, que os poderá substituir a todo o momento.
 
 #### SECÇÃO II — Organização regional
 
-###### Art. 12.º Tudo quanto se refira à organização regional da Mocidade Portuguesa e da Mocidade Portuguesa Feminina será regulado por decisão do comissário nacional.
+Art. 12.º Tudo quanto se refira à organização regional da Mocidade Portuguesa e da Mocidade Portuguesa Feminina será regulado por decisão do comissário nacional.
 
-###### Art. 13.º Para execução das decisões dos comissários nacionais e sempre que as actividades da Mocidade Portuguesa e Mocidade Portuguesa Feminina o justifiquem serão nomeados delegados regionais.
+Art. 13.º Para execução das decisões dos comissários nacionais e sempre que as actividades da Mocidade Portuguesa e Mocidade Portuguesa Feminina o justifiquem serão nomeados delegados regionais.
 
-###### Art. 14.º - 1. Os centros universitários agruparão os filiados e filiadas estudantes das escolas superiores ou equiparadas.
+Art. 14.º - 1. Os centros universitários agruparão os filiados e filiadas estudantes das escolas superiores ou equiparadas.
 
 2. Os centros universitários terão estatutos privativos, a elaborar pelos próprios centros e sujeitos à homologação do comissário nacional.
 
@@ -189,7 +229,7 @@ b) Os antigos filiados que desejem continuar a servir ou a apoiar a Mocidade Por
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 15.º Constituem receitas da Mocidade Portuguesa e da Mocidade Portuguesa Feminina:
+Art. 15.º Constituem receitas da Mocidade Portuguesa e da Mocidade Portuguesa Feminina:
 
 a) A quotização paga pelos filiados e associados;
 
@@ -197,15 +237,15 @@ b) Quaisquer subsídios, comparticipações ou liberalidades de entidades públi
 
 c) Quaisquer outras receitas permitidas por lei.
 
-###### Art. 16.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina mantêm e promoverão o desenvolvimento de cursos de formação de dirigentes e instrutores, escolas de graduados e cursos de especialização.
+Art. 16.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina mantêm e promoverão o desenvolvimento de cursos de formação de dirigentes e instrutores, escolas de graduados e cursos de especialização.
 
-###### Art. 17.º - 1. A Mocidade Portuguesa manterá uma milícia destinada à educação paramilitar de modo a facilitar o ingresso nas forças armadas.
+Art. 17.º - 1. A Mocidade Portuguesa manterá uma milícia destinada à educação paramilitar de modo a facilitar o ingresso nas forças armadas.
 
 2. O Departamento da Defesa, os Ministérios da Marinha e do Exército e a Secretaria de Estado da Aeronáutica prestarão todo o apoio às actividades de milícia, segundo planos a estabelecer anualmente.
 
-###### Art. 18.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina poderão manter núcleos de actividades junto de estabelecimentos de ensino, nos termos dos artigos 3.º, alínea g), 17.º e 22.º do [Decreto-Lei n.º 446/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1971-633919), de 25 de Outubro.
+Art. 18.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina poderão manter núcleos de actividades junto de estabelecimentos de ensino, nos termos dos artigos 3.º, alínea g), 17.º e 22.º do [Decreto-Lei n.º 446/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1971-633919), de 25 de Outubro.
 
-###### Art. 19.º - 1. Todo o pessoal dirigente e administrativo da Mocidade Portuguesa e Mocidade Portuguesa Feminina é livremente contratado pelo comissário.
+Art. 19.º - 1. Todo o pessoal dirigente e administrativo da Mocidade Portuguesa e Mocidade Portuguesa Feminina é livremente contratado pelo comissário.
 
 2. Todo o pessoal que presta serviço em tempo integral na Mocidade Portuguesa e Mocidade Portuguesa Feminina tem o direito à aposentação, devendo para esse efeito ser inscrito na Caixa Geral de Aposentações, contando-se-lhe todo o tempo de serviço já prestado.
 
@@ -219,22 +259,22 @@ c) Quaisquer outras receitas permitidas por lei.
 
 7. O pessoal actualmente pertencente aos quadros da Organização Nacional Mocidade Portuguesa e da Mocidade Portuguesa Feminina que for transferido para outros serviços do Ministério da Educação Nacional conserva todos os direitos já adquiridos, nomeadamente no que respeita a aposentação e previdência.
 
-###### Art. 20.º Os dirigentes e filiados da Mocidade Portuguesa e da Mocidade Portuguesa Feminina poderão usar uniformes e insígnias nos termos do respectivo regulamento.
+Art. 20.º Os dirigentes e filiados da Mocidade Portuguesa e da Mocidade Portuguesa Feminina poderão usar uniformes e insígnias nos termos do respectivo regulamento.
 
-###### Art. 21.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina mantêm o 1.º de Dezembro como dia das suas comemorações próprias, sem prejuízo da sua participação na celebração de outras grandes datas nacionais ou em festas educativas ou patrióticas, quando o comissário nacional o determine.
+Art. 21.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina mantêm o 1.º de Dezembro como dia das suas comemorações próprias, sem prejuízo da sua participação na celebração de outras grandes datas nacionais ou em festas educativas ou patrióticas, quando o comissário nacional o determine.
 
-###### Art. 22.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina poderão adquirir por qualquer título todos os bens que se destinem à instalação ou melhoria dos seus serviços e terão por sede o Palácio da Independência, em Lisboa.
+Art. 22.º A Mocidade Portuguesa e a Mocidade Portuguesa Feminina poderão adquirir por qualquer título todos os bens que se destinem à instalação ou melhoria dos seus serviços e terão por sede o Palácio da Independência, em Lisboa.
 
-###### Art. 23.º Para execução do presente estatuto, ficam os comissários nacionais autorizados a expedir as instruções e determinações que forem necessárias.
+Art. 23.º Para execução do presente estatuto, ficam os comissários nacionais autorizados a expedir as instruções e determinações que forem necessárias.
 
-###### Art. 24.º - 1. É revogado o [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, deixando, nomeadamente, de se poder autorizar a equiparação a docente do serviço prestado por professores em actividades circum-escolares.
+Art. 24.º - 1. É revogado o [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, deixando, nomeadamente, de se poder autorizar a equiparação a docente do serviço prestado por professores em actividades circum-escolares.
 
 2. O tempo de serviço prestado em actividades dos gabinetes de formação moral dos estabelecimentos de ensino e da acção social escolar na administração de cantinas e serviços similares, pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional, continua a ser considerado, para todos os efeitos legais, como serviço docente, uma vez que a dispensa, total ou parcial, seja prèviamente autorizada por despacho ministerial através dos serviços competentes.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 28 de Outubro de 1971.**
+Promulgado em 28 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

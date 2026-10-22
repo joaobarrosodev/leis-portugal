@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 302/1971, 1º Suplemento, Série I de 1971-12-29
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2030-(1) a 2030-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30201/00010016.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/601-1971-423218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a28e037667169b40e325ac8e0372a815371148fe5d6b847dd9e3b356465156aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd48ac81ffbd8ed9dd962cd97613de0e33dd4a30da7c9bddfea4a8eb5c8d8947
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Pauta dos Direitos de Importação
+relationships:
+- type: corrected_by
+  target: pt:dre:398097:por
+  label: "Rectificado [no referente aos arts. 1º e 4º] pela RECT.DD364.09.02.1972.PC, DG.IS [33] de 09.02.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-398097
+  date: '1972-02-09'
 article_structure:
-  article_count: 1
-  section_count: 77
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 70
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:34Z'
   warnings: []
   errors: []
 ---
@@ -88,29 +98,29 @@ Tendo em vista a recomendação do Conselho de Cooperação Aduaneira, de 9 de J
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São alteradas, pela forma seguinte, as redacções das regras gerais para interpretação da pauta, secções, capítulos, notas, posições e subposições da Pauta dos Direitos de Importação:
+Artigo 1.º São alteradas, pela forma seguinte, as redacções das regras gerais para interpretação da pauta, secções, capítulos, notas, posições e subposições da Pauta dos Direitos de Importação:
 
 SUMÁRIO
 
 #### Secção I - ...
 
-### Capítulo 4.º - Leite e lacticínios; ovos de aves; mel natural; produtos comestíveis de origem animal, não especificados.
+Capítulo 4.º - Leite e lacticínios; ovos de aves; mel natural; produtos comestíveis de origem animal, não especificados.
 
-#### Secção IV - Produtos das indústrias alimentares; bebidas, líquidos alcoólicos e vinagres; tabacos.
+Secção IV - Produtos das indústrias alimentares; bebidas, líquidos alcoólicos e vinagres; tabacos.
 
-### Capítulo 17.º - Açúcares e produtos de confeitaria.
+Capítulo 17.º - Açúcares e produtos de confeitaria.
 
 #### Secção VI - ...
 
-### Capítulo 34.º - Sabões, produtos orgânicos tensoactivos, preparados para lixívias, preparados lubrificantes, ceras artificiais, ceras preparadas, produtos para conservação e limpeza, velas de iluminação e artefactos semelhantes, pastas para modelar e «cera» para dentistas.
+Capítulo 34.º - Sabões, produtos orgânicos tensoactivos, preparados para lixívias, preparados lubrificantes, ceras artificiais, ceras preparadas, produtos para conservação e limpeza, velas de iluminação e artefactos semelhantes, pastas para modelar e «cera» para dentistas.
 
-#### Secção VIII - Peles, couros, peles em cabelo para adorno e respectivas obras; artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa.
+Secção VIII - Peles, couros, peles em cabelo para adorno e respectivas obras; artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa.
 
-### Capítulo 42.º - Obras de couro; artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa.
+Capítulo 42.º - Obras de couro; artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa.
 
 #### Secção XI - ...
 
-### Capítulo 58.º - Tapetes e tapeçarias; veludos, pelúcias, tecidos aveludados com anéis e tecidos de froco; fitas; passamanarias; tules e tecidos de malhas fixas (rede); rendas e guipuras; bordados.
+Capítulo 58.º - Tapetes e tapeçarias; veludos, pelúcias, tecidos aveludados com anéis e tecidos de froco; fitas; passamanarias; tules e tecidos de malhas fixas (rede); rendas e guipuras; bordados.
 
 Regras gerais para interpretação da Pauta
 
@@ -252,7 +262,7 @@ B) Os produtos deste tipo, que se incluem no presente capítulo, de harmonia com
 
 Caso contrário, incluem-se no n.º 11.02.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30201/00010016.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30201/00010016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30201/00010016.pdf)
 
 11.09 Glúten de trigo, mesmo seco.
 
@@ -1730,11 +1740,11 @@ Notas:
 
 98.14 Pulverizadores para toucador, armaduras e respectivas cabeças.
 
-###### Art. 2.º São eliminados do texto da Pauta dos Direitos de Importação os artigos n.os 29.25.01, 34.01.01, 34.01.02, 34.01.03, 34.01.04, 34.01.05, 73.24.01, 73.24.02 e 84.02.01.
+Art. 2.º São eliminados do texto da Pauta dos Direitos de Importação os artigos n.os 29.25.01, 34.01.01, 34.01.02, 34.01.03, 34.01.04, 34.01.05, 73.24.01, 73.24.02 e 84.02.01.
 
-###### Art. 3.º Os actuais artigos da Pauta dos Direitos de Importação n.os 21.07.02, 21.07.03, 29.25.02, 29.25.03, 33.06.03, 84.01.03, 84.02.02, 87.02.08, 87.02.09, 87.02.10, 87.02.11, 87.02.12, 87.02.13, 87.02.14, 87.02.15, 89.01.06, 89.01.07 e 89.01.08 passam a ter respectivamente os n.os 21.07.03, 21.07.04, 29.25.01, 29.25.02, 33.06.04, 84.01.04, 84.02.03, 87.02.09, 87.02.10, 87.02.11, 87.02.12, 87.02.13, 87.02.14, 87.02.15, 87.02.16, 89.01.07, 89.01.08 e 89.01.09.
+Art. 3.º Os actuais artigos da Pauta dos Direitos de Importação n.os 21.07.02, 21.07.03, 29.25.02, 29.25.03, 33.06.03, 84.01.03, 84.02.02, 87.02.08, 87.02.09, 87.02.10, 87.02.11, 87.02.12, 87.02.13, 87.02.14, 87.02.15, 89.01.06, 89.01.07 e 89.01.08 passam a ter respectivamente os n.os 21.07.03, 21.07.04, 29.25.01, 29.25.02, 33.06.04, 84.01.04, 84.02.03, 87.02.09, 87.02.10, 87.02.11, 87.02.12, 87.02.13, 87.02.14, 87.02.15, 87.02.16, 89.01.07, 89.01.08 e 89.01.09.
 
-###### Art. 4.º As posições 21.05, 34.01, 73.24, 90.10 e 91.07 da Pauta dos Direitos de importação são desdobradas nas subposições seguintes:
+Art. 4.º As posições 21.05, 34.01, 73.24, 90.10 e 91.07 da Pauta dos Direitos de importação são desdobradas nas subposições seguintes:
 
 21.05 ...
 
@@ -1856,7 +1866,7 @@ Pauta máxima - Quilograma, 240$00.
 
 Pauta mínima - Quilograma, 120$00.
 
-###### Art. 5.º São introduzidos no texto da Pauta dos Direitos de Importação os seguintes artigos:
+Art. 5.º São introduzidos no texto da Pauta dos Direitos de Importação os seguintes artigos:
 
 04.07 Produtos comestíveis de origem animal, não especificados:
 
@@ -1936,12 +1946,12 @@ Não especificadas:
 
 07 ...
 
-###### Art. 6.º Este diploma entra em vigor em 1 de Janeiro de 1972.
+Art. 6.º Este diploma entra em vigor em 1 de Janeiro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 23 de Dezembro de 1971.**
+Promulgado em 23 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

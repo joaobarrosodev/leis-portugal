@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/484-1971-631265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1667790ae4d3e3eafcd32647dd72db0babf058db8c496a6b0422713981e2ff54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bddcd40f5a2562e43e64777648e72a692a0ba5b8f7eb925fe2a75cc10be100ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:56Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +88,17 @@ Tornando-se necessário regulamentar o Estatuto de Assistência Jurisdicional ao
 
 Usando da faculdade conferida pelo § 2.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Assistência Jurisdicional aos Menores do Ultramar, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Assistência Jurisdicional aos Menores do Ultramar, que faz parte integrante do presente diploma.
 
-###### Art. 2.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários à execução do Regulamento aprovado pelo presente diploma, com contrapartida em recursos orçamentais.
+Art. 2.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários à execução do Regulamento aprovado pelo presente diploma, com contrapartida em recursos orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Outubro de 1971.**
+Promulgado em 28 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -650,14 +650,14 @@ Têm residência obrigatória junto dos estabelecimentos o director, o secretár
 
 É permitida a constituição de cantinas para uso exclusivo do pessoal dos estabelecimentos de prevenção criminal, devendo as suas funções e condições de funcionamento constar do regulamento aprovado pelo governador da província, sob proposta da entidade superintendente dos estabelecimentos.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Quadros do pessoal dos estabelecimentos de prevenção criminal em Angola e em Moçambique
 
 Do MAPA I ao MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26200/17031711.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26200/17031711.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26200/17031711.pdf)
 
 Os lugares serão preenchidos à medida que as necessidades de lotação o forem exigindo.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

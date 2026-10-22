@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 73/1975, 2º Suplemento, Série I de 1975-03-27
   number: '73'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 474-(3) a 474-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07302/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-b-1975-638885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 352083412f4571920e3c5b7ef293b26c1eac081e4568e35dca247aef9a08026a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4de91605c2d7e085409d4ceb9610cb5f1d4b25997c71580e677664b017218fc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco de Portugal
+- Comissão de Serviço
+- Delegado
+- Inspecção de Crédito
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:416412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466212:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:416412:por
+  label: "Revogado pelo DEC LEI.884/76.29.12.1976.MF, DR.IS [301] de 29.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/884-1976-416412
+  date: '1976-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:13Z'
   warnings: []
   errors: []
 ---
@@ -100,22 +115,22 @@ Nestes termos:
 
 Usando os poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passa a ter a redacção que abaixo se indica o n.º 2 do artigo 5.º do [Decreto-Lei n.º 671/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/671-1974-466212), de 29 de Novembro:
+Artigo 1.º Passa a ter a redacção que abaixo se indica o n.º 2 do artigo 5.º do [Decreto-Lei n.º 671/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/671-1974-466212), de 29 de Novembro:
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. Podem ser providos nos lugares do quadro de delegados do Banco de Portugal quaisquer pessoas que o conselho de administração do Banco, com despacho concordante do Ministro das Finanças, considere idóneas para o exercício dessas funções, podendo esse exercício ser em comissão de serviço, quando o delegado não for recrutado nos quadros do pessoal do referido Banco.
 
-###### Art. 2.º O exercício das funções de delegado do Banco de Portugal, quando em comissão de serviço, é considerado, para todos os efeitos, como serviço efectivo na entidade requisitada.
+Art. 2.º O exercício das funções de delegado do Banco de Portugal, quando em comissão de serviço, é considerado, para todos os efeitos, como serviço efectivo na entidade requisitada.
 
-###### Art. 3.º Os delegados do Banco de Portugal que à data da sua provisão, ao abrigo do [Decreto-Lei n.º 671/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/671-1974-466212), não faziam parte dos quadros do mesmo Banco podem, a seu pedido dirigido ao governador, optar pelo exercício daquele cargo em comissão de serviço.
+Art. 3.º Os delegados do Banco de Portugal que à data da sua provisão, ao abrigo do [Decreto-Lei n.º 671/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/671-1974-466212), não faziam parte dos quadros do mesmo Banco podem, a seu pedido dirigido ao governador, optar pelo exercício daquele cargo em comissão de serviço.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 26 de Março de 1975.**
+Promulgado em 26 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

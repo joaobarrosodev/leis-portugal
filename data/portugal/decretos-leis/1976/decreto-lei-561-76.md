@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/561-1976-430593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adfb89542ee8e7a31a3614ddac6f04d6bb4339d511106efc43acab6d2f16c436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01d1a721e8ba60592359d29cd9875bb94a5338ef650be0c3cf5767fb1c61b79d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casamento
+- Código Civil
+- Cônjuge
+- Direito Civil
+- Direito de Família
+- Direito Privado
+- Divórcio
+- Separação Judicial
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:300030:por
+  label: "Alterados, a partir de 01.04.1978, os art.s 1605º e 1778º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov\
+    \ de 1966, na redacção do presente diploma, pelo DEC LEI.496/77.25.11.1977.MJ, DR.IS [273-Supl] de 25.11.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/496-1977-300030
+  date: '1977-11-25'
+- type: amended_by
+  target: pt:dre:439097:por
+  label: "Alterado o art. 1778º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na redacção do presente diploma,\
+    \ pela LEI.61/2008.31.10.2008.AR, DR.IS [212] de 31.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-2008-439097
+  date: '2008-10-31'
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480949:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:07Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +150,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1605.º e 1778.º do Código Civil passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1605.º e 1778.º do Código Civil passam a ter a seguinte redacção:
 
 ###### ARTIGO 1605.º — (Prazo internupcial)
 
@@ -156,18 +184,18 @@ h) A separação de facto por seis anos consecutivos;
 
 i) Qualquer outro facto que ofenda gravemente a integridade física ou moral do requerente.
 
-###### Art. 2.º Além dos casos contemplados no n.º 4 do artigo 1605.º do Código Civil, cessa ainda o impedimento do prazo internupcial se houver separação judicial de pessoas e bens decretada há mais de cento e oitenta ou trezentos dias, conforme se trate de varão ou mulher e um dos cônjuges tiver falecido à data da entrada em vigor deste diploma.
+Art. 2.º Além dos casos contemplados no n.º 4 do artigo 1605.º do Código Civil, cessa ainda o impedimento do prazo internupcial se houver separação judicial de pessoas e bens decretada há mais de cento e oitenta ou trezentos dias, conforme se trate de varão ou mulher e um dos cônjuges tiver falecido à data da entrada em vigor deste diploma.
 
-###### Art. 3.º É ainda permitido à mulher contrair novas núpcias se tiverem decorrido cento e oitenta dias sobre a sentença de separação judicial de pessoas e bens, se entretanto houver falecido o outro cônjuge e obtiver a declaração judicial de que não está grávida ou tiver tido algum filho depois da sentença que decretou a separação ter transitado em julgado.
+Art. 3.º É ainda permitido à mulher contrair novas núpcias se tiverem decorrido cento e oitenta dias sobre a sentença de separação judicial de pessoas e bens, se entretanto houver falecido o outro cônjuge e obtiver a declaração judicial de que não está grávida ou tiver tido algum filho depois da sentença que decretou a separação ter transitado em julgado.
 
-###### Art. 4.º Pretendendo contrair segundas núpcias ao abrigo do disposto no artigo 2.º, o interessado deverá apresentar na conservatória do registo civil certidão da sentença que decretou a separação judicial de pessoas e bens e certidão de óbito do ex-cônjuge. Os documentos podem ser dispensados se um e outro facto se mostrarem averbados no registo de nascimento do interessado e constarem da respectiva certidão com que se instrua a declaração inicial a que se refere o artigo 167.º do Código do Registo Civil.
+Art. 4.º Pretendendo contrair segundas núpcias ao abrigo do disposto no artigo 2.º, o interessado deverá apresentar na conservatória do registo civil certidão da sentença que decretou a separação judicial de pessoas e bens e certidão de óbito do ex-cônjuge. Os documentos podem ser dispensados se um e outro facto se mostrarem averbados no registo de nascimento do interessado e constarem da respectiva certidão com que se instrua a declaração inicial a que se refere o artigo 167.º do Código do Registo Civil.
 
-###### Art. 5.º O prazo a que se reporta a alínea h) do artigo 1778.º é relevante, mesmo que iniciado ou decorrido anteriormente à publicação do [Decreto-Lei n.º 261/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1975-335965), de 27 de Maio.
+Art. 5.º O prazo a que se reporta a alínea h) do artigo 1778.º é relevante, mesmo que iniciado ou decorrido anteriormente à publicação do [Decreto-Lei n.º 261/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1975-335965), de 27 de Maio.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.
 
-**Promulgado em 2 de Julho de 1976.**
+Promulgado em 2 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

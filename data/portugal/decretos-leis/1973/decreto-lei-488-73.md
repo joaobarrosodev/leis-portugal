@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 229/1973, 1º Suplemento, Série I de 1973-09-29
   number: '229'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1680-(1) a 1680-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/09/22901/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1973-495303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b21c6c049c57d8b83a5c44f6f9e5ff25f93f2e0134c269859a39e5ac09aa8386
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec7a9e2690970ce91e118144c925f046a7b655d478b99c5b75853068f12592b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral da Contabilidade Pública
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:453201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506049:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pelo DEC LEI.33/76.1976.01.17.MF DR.IS [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1976-506049
+  date: '1976-01-17'
+- type: amended_by
+  target: pt:dre:279646:por
+  label: "Alterado, relativamente à carreira de contabilistas, o mapa anexo pelo DR.81/77.15.12.1977.MF, DR.IS [288] de 15.12.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-1977-279646
+  date: '1977-12-15'
+- type: amended_by
+  target: pt:dre:297048:por
+  label: Determinado que seja aumentado com um lugar de adjunto do director-geral o quadro do pessoal anexo pelo(a) Portaria
+    n.º 423/78 - Diário da República n.º 172/1978, Série I de 1978-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-1978-297048
+  date: '1978-07-28'
+- type: amended_by
+  target: pt:dre:383632:por
+  label: "Alterado o quadro de pessoal relativamente ao pessoal dirigente pela PORT.101/79.02.03.1979.PCM, DR.IS [51] de 02.03.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-1979-383632
+  date: '1979-03-02'
+- type: amended_by
+  target: pt:dre:381348:por
+  label: "Alterado, nos termos do n.º 2, o quadro de pessoal da Direcção Geral da Contabilidade Pública, aprovado pelo presente\
+    \ diploma, pela SuplPORT.386/79.01.08.1979.PCM, DR.IS [176] de 01.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-1979-381348
+  date: '1979-08-01'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199580:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365889:por
+  label: "Revogado pelo DEC LEI.499/79.1979.12.14.PCM DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/499-1979-365889
+  date: '1979-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:26Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +174,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral da Contabilidade Pública dispõe, para o desempenho das suas funções, de serviços centrais e serviços delegados, como segue:
+Artigo 1.º A Direcção-Geral da Contabilidade Pública dispõe, para o desempenho das suas funções, de serviços centrais e serviços delegados, como segue:
 
 I - Serviços centrais:
 
@@ -172,7 +218,7 @@ II - Serviços delegados:
 
 14.ª Delegação - junto do Ministério dá Saúde e Assistência.
 
-###### Art. 2.º - 1. Os serviços da Direcção-Geral da Contabilidade Pública são dirigidos do seguinte modo:
+Art. 2.º - 1. Os serviços da Direcção-Geral da Contabilidade Pública são dirigidos do seguinte modo:
 
 O Gabinete de Estudos, pelo director-geral; As direcções e as delegações, por directores de contabilidade.
 
@@ -180,7 +226,7 @@ O Gabinete de Estudos, pelo director-geral; As direcções e as delegações, po
 
 3. O restante pessoal da Direcção-Geral da Contabilidade Pública será distribuído pelas unidades orgânicas nela compreendidas, conforme for determinado pelo director-geral.
 
-###### Art. 3.º - 1. O quadro do pessoal da Direcção-Geral da Contabilidades Pública compreende as categorias e respectivos vencimentos constantes do mapa anexo a este decreto-lei.
+Art. 3.º - 1. O quadro do pessoal da Direcção-Geral da Contabilidades Pública compreende as categorias e respectivos vencimentos constantes do mapa anexo a este decreto-lei.
 
 2. No quadro do pessoal técnico são estabelecidas as seguintes carreiras profissionais:
 
@@ -194,25 +240,25 @@ Carreira de meconógrafos.
 
 3. Os funcionários que desempenhem funções de direcção, inspecção ou chefia e, bem assim, os das carreiras de técnicos superiores e de contabilistas, os que desempenhem funções de formação e aperfeiçoamento do pessoal e o secretário do director-geral têm direito às gratificações a fixar pelo Ministro das Finanças, consoante a natureza ou o ónus especial dos seus cargos.
 
-###### Art. 4.º - 1. O lugar de director-geral da Contabilidade Pública é preenchido nos termos do disposto no [Decreto-Lei n.º 49130](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49130-1969-199580), de 17 de Julho de 1969.
+Art. 4.º - 1. O lugar de director-geral da Contabilidade Pública é preenchido nos termos do disposto no [Decreto-Lei n.º 49130](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49130-1969-199580), de 17 de Julho de 1969.
 
 2. Os adjuntos do director-geral são nomeados pelo Ministro das Finanças, sob proposta do director-geral, e escolhidos entre os directores de contabilidade que tenham revelado melhores aptidões de direcção.
 
-###### Art. 5.º - 1. O provimento dos lugares de director de contabilidade será feito por escolha, mediante proposta do director-geral, de entre inspectores de 1.ª classe e subdirectores de contabilidade com três anos de permanência naquelas duas categorias ou apenas numa delas e que tenham boas informações de serviço e melhores aptidões de direcção.
+Art. 5.º - 1. O provimento dos lugares de director de contabilidade será feito por escolha, mediante proposta do director-geral, de entre inspectores de 1.ª classe e subdirectores de contabilidade com três anos de permanência naquelas duas categorias ou apenas numa delas e que tenham boas informações de serviço e melhores aptidões de direcção.
 
 2. Se o funcionário nas condições referidas no número anterior tiver menos de três anos de serviço nas indicadas categorias, poderá ter nomeação provisória pelo tempo que faltar para completar aquele período de tempo, findo o qual poderá ter provimento definitivo, se o director-geral renovar a proposta.
 
-###### Art. 6.º - 1. O ingresso na carreira de técnicos superiores será feito por concurso documental entre indivíduos licenciados com o respectivo curso, mediante proposta do director-geral.
+Art. 6.º - 1. O ingresso na carreira de técnicos superiores será feito por concurso documental entre indivíduos licenciados com o respectivo curso, mediante proposta do director-geral.
 
 2. O acesso à 1.ª classe depende de proposta do director-geral e da efectiva prestação de serviços na categoria anterior pelo período mínimo de três anos, com boas informações.
 
-###### Art. 7.º - 1. O ingresso na carreira de inspectores será feito por concurso documental entre indivíduos licenciados em Finanças, Economia, Ciências Económicas e Financeiras ou Direito.
+Art. 7.º - 1. O ingresso na carreira de inspectores será feito por concurso documental entre indivíduos licenciados em Finanças, Economia, Ciências Económicas e Financeiras ou Direito.
 
 2. O acesso à 1.ª classe depende de proposta do director-geral e da efectiva prestação de serviços na categoria anterior pelo período mínimo de três anos, com boas informações.
 
 3. Também poderão ser providos na categoria de inspector de 1.ª classe os subdirectores de contabilidade com três ou mais anos de bom e efectivo serviço nesta categoria, desde que assim o proponha o director-geral.
 
-###### Art. 8.º - 1. O ingresso na carreira de contabilistas for-se-á na categoria de secretário de contabilidade de 3.ª classe, mediante concurso documental, entre indivíduos dos 18 aos 35 anos de idade, com o curso de contabilista dos institutos comerciais, podendo ser recrutadas tantas unidades quantas as vagas existentes nas diferentes categorias integradas na carreira.
+Art. 8.º - 1. O ingresso na carreira de contabilistas for-se-á na categoria de secretário de contabilidade de 3.ª classe, mediante concurso documental, entre indivíduos dos 18 aos 35 anos de idade, com o curso de contabilista dos institutos comerciais, podendo ser recrutadas tantas unidades quantas as vagas existentes nas diferentes categorias integradas na carreira.
 
 2. O limite máximo de idade não será de observar quando o candidato seja já funcionário do Estado.
 
@@ -224,54 +270,54 @@ b) Da 1.ª classe para a categoria de subdirector de contabilidade, mediante con
 
 4. O subdirector de contabilidade que, na Direcção dos Serviços Administrativos, for encarregado dos serviços do pessoal da Direcção-Geral da Contabilidade Pública poderá ser nomeado por escolha, mediante proposta do director-geral, de entre os secretários de contabilidade de 1.ª classe com três anos de bom e efectivo serviço na categoria.
 
-###### Art. 9.º Se, após o concurso referido no n.º 1 do artigo 8.º, subsistirem vagas no quadro da carreira de contabilistas, serão admitidos estagiários de contabilidade, mediante concurso documental, em que serão opositores indivíduos dos 18 aos 35 anos de idade, habilitados de preferência com o curso geral de comércio (incluindo a secção preparatória para a admissão aos institutos comerciais) ou com o 2.º ciclo liceal ou curso equivalente.
+Art. 9.º Se, após o concurso referido no n.º 1 do artigo 8.º, subsistirem vagas no quadro da carreira de contabilistas, serão admitidos estagiários de contabilidade, mediante concurso documental, em que serão opositores indivíduos dos 18 aos 35 anos de idade, habilitados de preferência com o curso geral de comércio (incluindo a secção preparatória para a admissão aos institutos comerciais) ou com o 2.º ciclo liceal ou curso equivalente.
 
-###### Art. 10.º - 1. O ingresso na carreira de mecanógrafos será feito por escolha entre escriturários-dactilógrafos de 1.ª classe do quadro com conhecimentos de mecanografia ou por concurso entre indivíduos, dos 18 aos 35 anos de idade, habilitados com o 2.º ciclo liceal ou curso equivalente.
+Art. 10.º - 1. O ingresso na carreira de mecanógrafos será feito por escolha entre escriturários-dactilógrafos de 1.ª classe do quadro com conhecimentos de mecanografia ou por concurso entre indivíduos, dos 18 aos 35 anos de idade, habilitados com o 2.º ciclo liceal ou curso equivalente.
 
 2. O acesso à categoria de segundo-mecanógrafo far-se-á por escolha entre os terceiros-mecanógrafos com mais de três anos na categoria, boas informações de serviço e que melhores aptidões tenham revelado.
 
-###### Art. 11.º À admissão e promoção dos escriturários-dactilógrafos e dos contínuos são aplicáveis as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 11.º À admissão e promoção dos escriturários-dactilógrafos e dos contínuos são aplicáveis as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 12.º - 1. Entre os funcionários da Direcção-Geral da Contabilidade Pública pode o director-geral escolher um, de categoria não superior a subdirector de contabilidade, para exercer as funções de seu secretário, o qual conservará a categoria e remunerações que lhe competirem.
+Art. 12.º - 1. Entre os funcionários da Direcção-Geral da Contabilidade Pública pode o director-geral escolher um, de categoria não superior a subdirector de contabilidade, para exercer as funções de seu secretário, o qual conservará a categoria e remunerações que lhe competirem.
 
 2. O tempo de serviço prestado nas condições deste artigo é contado para todos os efeitos legais, designadamente para acesso no quadro e aposentação.
 
-###### Art. 13.º Mediante autorização do Ministro das Finanças, poderão os directores de contabilidade ser assistidos por adjuntos, a designar entre os subdirectores de contabilidade.
+Art. 13.º Mediante autorização do Ministro das Finanças, poderão os directores de contabilidade ser assistidos por adjuntos, a designar entre os subdirectores de contabilidade.
 
-###### Art. 14.º A competência do pessoal em serviço na Direcção-Geral da Contabilidade Pública, seu provimento, condições da sua preparação e quaisquer outras remunerações a atribuir, serão definidas em decreto regulamentar.
+Art. 14.º A competência do pessoal em serviço na Direcção-Geral da Contabilidade Pública, seu provimento, condições da sua preparação e quaisquer outras remunerações a atribuir, serão definidas em decreto regulamentar.
 
-###### Art. 15.º - 1. As nomeações do pessoal referido no n.º 1 do artigo 6.º e no n.º 1 do artigo 7.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
+Art. 15.º - 1. As nomeações do pessoal referido no n.º 1 do artigo 6.º e no n.º 1 do artigo 7.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
 
 2. Findo o período inicial, ou a sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
-###### Art. 16.º Para ocorrer a necessidades eventuais ou extraordinárias dos serviços da Direcção-Geral da Contabilidade Pública ou para se incumbir da preparação dos seus funcionários, poderá o Ministro das Finanças autorizar, sob proposta do director-geral, o contrato de pessoal além do quadro ou a sua admissão em regime de prestação de serviços.
+Art. 16.º Para ocorrer a necessidades eventuais ou extraordinárias dos serviços da Direcção-Geral da Contabilidade Pública ou para se incumbir da preparação dos seus funcionários, poderá o Ministro das Finanças autorizar, sob proposta do director-geral, o contrato de pessoal além do quadro ou a sua admissão em regime de prestação de serviços.
 
-###### Art. 17.º Enquanto outras medidas de preparação do pessoal não forem estabelecidas, incumbirá ao Gabinete de Estudos António José Malheiro a organização de todos os cursos reconhecidos indispensáveis para a formação profissional dos funcionários da Direcção-Geral da Contabilidade Pública.
+Art. 17.º Enquanto outras medidas de preparação do pessoal não forem estabelecidas, incumbirá ao Gabinete de Estudos António José Malheiro a organização de todos os cursos reconhecidos indispensáveis para a formação profissional dos funcionários da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 18.º - 1. No diploma a publicar nos termos do artigo 14.º do presente decreto-lei indicar-se-ão as novas categorias que ficam atribuídas ao pessoal actualmente em serviço na Direcção-Geral da Contabilidade Pública.
+Art. 18.º - 1. No diploma a publicar nos termos do artigo 14.º do presente decreto-lei indicar-se-ão as novas categorias que ficam atribuídas ao pessoal actualmente em serviço na Direcção-Geral da Contabilidade Pública.
 
 2. Os funcionários a que se refere o número anterior consideram-se com os direitos inerentes às respectivas categorias, para todos os efeitos, a partir da data da entrada em vigor deste decreto-lei, com dispensa de mais formalidades, excepto a anotação pelo Tribunal de Contas, e ser-lhes-á contado, para efeitos de aposentação, como exercido no novo cargo, o tempo de serviço prestado no cargo de que provêm.
 
-###### Art. 19.º - 1. Os lugares do novo quadro do pessoal da Direcção-Geral da Contabilidade Pública que vierem a ser ocupados pelos actuais funcionários da mesma Direcção-Geral continuarão a ser exercidos sob o actual regime.
+Art. 19.º - 1. Os lugares do novo quadro do pessoal da Direcção-Geral da Contabilidade Pública que vierem a ser ocupados pelos actuais funcionários da mesma Direcção-Geral continuarão a ser exercidos sob o actual regime.
 
 2. As nomeações resultantes de promoção têm carácter definitivo.
 
-###### Art. 20.º As dúvidas na execução do presente diploma e seu regulamento serão resolvidas por despacho do Ministro das Finanças.
+Art. 20.º As dúvidas na execução do presente diploma e seu regulamento serão resolvidas por despacho do Ministro das Finanças.
 
-###### Art. 21.º Enquanto não forem tomadas as necessárias providências orçamentais, os encargos resultantes da publicação deste decreto-lei serão satisfeitos de conta das verbas adequadas atribuídas à Direcção-Geral da Contabilidade Pública, no actual orçamento de despesa do Ministério das Finanças.
+Art. 21.º Enquanto não forem tomadas as necessárias providências orçamentais, os encargos resultantes da publicação deste decreto-lei serão satisfeitos de conta das verbas adequadas atribuídas à Direcção-Geral da Contabilidade Pública, no actual orçamento de despesa do Ministério das Finanças.
 
-###### Art. 22.º Este decreto-lei e respectivo regulamento entram em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 22.º Este decreto-lei e respectivo regulamento entram em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 27 de Setembro de 1973.**
+Promulgado em 27 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/09/22901/00010004.pdf))](https://files.diariodarepublica.pt/1s/1973/09/22901/00010004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/09/22901/00010004.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

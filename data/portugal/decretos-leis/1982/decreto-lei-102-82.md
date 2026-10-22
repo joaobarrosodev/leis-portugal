@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1982-607133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a7a90c8c7e66280cf03bc2811be5f0927b8c9bedfc3a9a4984a8752b327093f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07c86254371482bc7501c0be10fff0ff108fef6148947f268f0bfecd75846ed8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ADSE
+- Aposentação
+- Quadro Geral de Adidos
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:25Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Considerando que, no tocante aos agentes adidos já passados à situação de ap
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A competência até agora atribuída ao serviço gestor do quadro geral de adidos em matéria de assistência na doença aos agentes do mesmo quadro que tenham sido ou venham a ser desligados do serviço para efeitos de aposentação ao abrigo do disposto no artigo 49.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e aos respectivos familiares é transferida para a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE).
+Artigo 1.º - 1 - A competência até agora atribuída ao serviço gestor do quadro geral de adidos em matéria de assistência na doença aos agentes do mesmo quadro que tenham sido ou venham a ser desligados do serviço para efeitos de aposentação ao abrigo do disposto no artigo 49.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e aos respectivos familiares é transferida para a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE).
 
 2 - O regime estabelecido no número antecedente terá início:
 
@@ -101,18 +113,18 @@ b) No dia 1 do mês seguinte àquele em que se completem 30 dias sobre a data do
 
 3 - Cessam, a partir dos prazos estabelecidos no número antecedente, as responsabilidades do serviço gestor do quadro geral de adidos sobre as operações mencionadas no n.º 1.
 
-###### Art. 2.º O serviço gestor do quadro geral de adidos e a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública concertarão entre si a transmissão de ficheiros e de documentação, bem como os aspectos de pormenor e as diligências que se revelem necessários para que a transferência da responsabilidade do processamento, liquidação e pagamento das comparticipações sejam efectuados de modo que não haja interrupção nos abonos devidos aos agentes e familiares abrangidos.
+Art. 2.º O serviço gestor do quadro geral de adidos e a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública concertarão entre si a transmissão de ficheiros e de documentação, bem como os aspectos de pormenor e as diligências que se revelem necessários para que a transferência da responsabilidade do processamento, liquidação e pagamento das comparticipações sejam efectuados de modo que não haja interrupção nos abonos devidos aos agentes e familiares abrangidos.
 
-###### Art. 3.º De acordo com as necessidades serão utilizados de imediato os mecanismos definidos nos n.os 1, alínea c), 2 e 3 do artigo 2.º do [Decreto-Lei n.º 182/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880), de 3 de Junho, para reforço do quadro do pessoal da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública, na extensão que esta proporá e que abrangerá os agentes adidos que à data da publicação do presente diploma se encontrem afectos à execução do serviço transferido.
+Art. 3.º De acordo com as necessidades serão utilizados de imediato os mecanismos definidos nos n.os 1, alínea c), 2 e 3 do artigo 2.º do [Decreto-Lei n.º 182/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880), de 3 de Junho, para reforço do quadro do pessoal da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública, na extensão que esta proporá e que abrangerá os agentes adidos que à data da publicação do presente diploma se encontrem afectos à execução do serviço transferido.
 
-###### Art. 4.º Os encargos resultantes da aplicação deste decreto-lei serão suportados pela adequada rubrica do Orçamento Geral do Estado, de acordo com a legislação que regula o regime de protecção na doença assegurado pela ADSE.
+Art. 4.º Os encargos resultantes da aplicação deste decreto-lei serão suportados pela adequada rubrica do Orçamento Geral do Estado, de acordo com a legislação que regula o regime de protecção na doença assegurado pela ADSE.
 
-###### Art. 5.º As dúvidas suscitadas pelo presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, ouvidos a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública e o serviço responsável pela gestão do quadro de adidos.
+Art. 5.º As dúvidas suscitadas pelo presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, ouvidos a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública e o serviço responsável pela gestão do quadro de adidos.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

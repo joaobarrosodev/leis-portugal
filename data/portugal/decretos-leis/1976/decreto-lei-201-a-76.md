@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 67/1976, 1º Suplemento, Série I de 1976-03-19
   number: '67'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 566-(1) a 566-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06701/00010001.pdf
 entry_into_force_dates: []
@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-a-1976-289434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b90983bdc91934d65c3dfeb5c9fa597cee687d057592202b47d85cf4dc722d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baf78b3089d900c09657fe7144eae05ca0381ff47fb40c60df29673cb8ac435f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Eleição Legislativa
+- Partido Político
+- Presidente
+- Simbolo de Identificação
+- Supremo Tribunal de Justiça
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:42Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +98,24 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O procurador-geral da República requererá ao presidente do Supremo Tribunal de Justiça, imediatamente, a apreciação da similitude das denominações, siglas e símbolos usados por todos os partidos inscritos no Supremo Tribunal de Justiça, apenas para os efeitos de impressão dos boletins de voto na primeira eleição para a Assembleia da República.
+Artigo 1.º - 1. O procurador-geral da República requererá ao presidente do Supremo Tribunal de Justiça, imediatamente, a apreciação da similitude das denominações, siglas e símbolos usados por todos os partidos inscritos no Supremo Tribunal de Justiça, apenas para os efeitos de impressão dos boletins de voto na primeira eleição para a Assembleia da República.
 
 2. O presidente do Supremo Tribunal de Justiça apreciará o pedido no prazo de vinte e quatro horas e a sua decisão é insusceptível de qualquer reclamação ou recurso.
 
-###### Art. 2.º - 1. A decisão do presidente do Supremo Tribunal de Justiça será imediatamente notificada aos partidos interessados, observando-se o disposto no n.º 3 do artigo 234.º do Código de Processo Civil, ou através de ofício entregue na sede do partido.
+Art. 2.º - 1. A decisão do presidente do Supremo Tribunal de Justiça será imediatamente notificada aos partidos interessados, observando-se o disposto no n.º 3 do artigo 234.º do Código de Processo Civil, ou através de ofício entregue na sede do partido.
 
 2. O partido para tanto notificado deverá, no prazo de vinte e quatro horas, proceder às modificações ordenadas.
 
 3. Efectuadas as modificações, o presidente do Supremo Tribunal de Justiça, oficiosamente e no prazo de vinte e quatro horas, decidirá definitivamente a correcção da substituição efectuada.
 
-###### Art. 3.º Fica extinta a instância nos processos pendentes sobre a matéria regulada neste diploma.
+Art. 3.º Fica extinta a instância nos processos pendentes sobre a matéria regulada neste diploma.
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha.
 
-**Promulgado em 19 de Março de 1976.**
+Promulgado em 19 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

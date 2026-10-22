@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/4-1984-660164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee217c42ded657378701ef82c5b3aed8f932ba88231fcd1a4505fa463d88a27d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db2f269e7c7035625aebd3e23e98ba40c3b1c9ff5b722e7f8246ebbbf0fffd69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Médico
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal de Enfermagem
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:496336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496336:por
+  label: "Alterado o quadro de pessoal do Instituto de António Aurélio da Costa Ferreira, pela PORT.826/87.09.10.1987.MF,\
+    \ DR.IS [232] de 09.10.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1987-496336
+  date: '1987-10-09'
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:06Z'
   warnings: []
   errors: []
 ---
@@ -318,16 +392,16 @@ O director do Instituto será substituído nas suas faltas e impedimentos pelo c
 
 Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Augusto Seabra - José San-Bento de Menezes.
 
-**Promulgado em 4 de Janeiro de 1984.**
+Promulgado em 4 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Janeiro de 1984.**
+Referendado em 5 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa a que se refere o n.º 1 do artigo 1.º do Decreto do Governo n.º 4/84
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01400/01750179.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01400/01750179.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01400/01750179.pdf)

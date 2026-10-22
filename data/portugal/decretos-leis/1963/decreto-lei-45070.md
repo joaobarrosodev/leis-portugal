@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45070-1963-627587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09bcef8221342ebd7a5f6dac84eef5e7a25438c1f9da65bad718d140933177c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7ec119c541b8af2fd20e7ad865a47724ecd84745adcf1ea605bbf5119a1ce1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Comunicações
+- Contrato de Concessão
+- CTT
+- Empresa Estrangeira
+- Ministério das Comunicações
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:21Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +102,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com The Commercial Cable Company um adicional ao contrato de concessão de 11 de Fevereiro de 1957, relativo aos cabos telegráficos submarinos da referida Companhia que ligam Horta a Canso e Horta a Waterville, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
+Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com The Commercial Cable Company um adicional ao contrato de concessão de 11 de Fevereiro de 1957, relativo aos cabos telegráficos submarinos da referida Companhia que ligam Horta a Canso e Horta a Waterville, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
-## Anexo ao Decreto-Lei n.º 45070
+Anexo ao Decreto-Lei n.º 45070
 
 Termo do adicional ao contrato de concessão de 11 de Fevereiro de 1957, a celebrar entre o Governo Português e The Commercial Cable Company
 
-###### Artigo 1.º São modificados nos termos a seguir referidos o n.º 6.º do artigo 7.º, o artigo 12.º, o § único do artigo 15.º e o artigo 16.º do contrato de concessão de 11 de Fevereiro de 1957, publicado no Diário do Governo n.º 68, 2.ª série, de 22 de Março de 1957:
+Artigo 1.º São modificados nos termos a seguir referidos o n.º 6.º do artigo 7.º, o artigo 12.º, o § único do artigo 15.º e o artigo 16.º do contrato de concessão de 11 de Fevereiro de 1957, publicado no Diário do Governo n.º 68, 2.ª série, de 22 de Março de 1957:
 
 ...
 
-###### Art. 7.º A Companhia obriga-se a:
+Art. 7.º A Companhia obriga-se a:
 
 ...
 
@@ -114,7 +124,7 @@ Termo do adicional ao contrato de concessão de 11 de Fevereiro de 1957, a celeb
 
 ...
 
-###### Art. 12.º A licença de amarração a que se refere o n.º 6.º do artigo 7.º deste contrato obriga, em relação ao tráfego do grupo II do anterior artigo 4.º, ao pagamento das taxas a seguir indicadas, expressas em francos-ouro (definição da Convenção Internacional das Telecomunicações), as quais incidirão sobre o tráfego que utilizar os cabos da Companhia amarrados em território português, qualquer que seja o seu sentido:
+Art. 12.º A licença de amarração a que se refere o n.º 6.º do artigo 7.º deste contrato obriga, em relação ao tráfego do grupo II do anterior artigo 4.º, ao pagamento das taxas a seguir indicadas, expressas em francos-ouro (definição da Convenção Internacional das Telecomunicações), as quais incidirão sobre o tráfego que utilizar os cabos da Companhia amarrados em território português, qualquer que seja o seu sentido:
 
 a) Em relação à generalidade do tráfego, com excepção do que seja permutado com a América do Sul - 1,75 cêntimos-ouro por palavra ordinária em cada percurso nos cabos da Companhia;
 
@@ -136,11 +146,11 @@ A diferença que eventualmente faltar para aquele total será liquidada nas cont
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § único. Esta importância destina-se a remunerar os agentes incumbidos da fiscalização e será paga por trimestres, conjuntamente com os pagamentos a que alude o § 4.º do artigo 12.º
 
-###### Art. 16.º Salvo casos de força maior, a inobservância das obrigações estabelecidas no presente contrato sujeita a Companhia às multas que forem fixadas em despacho ministerial, dado sob parecer dos CTT, com audiência da Companhia.
+Art. 16.º Salvo casos de força maior, a inobservância das obrigações estabelecidas no presente contrato sujeita a Companhia às multas que forem fixadas em despacho ministerial, dado sob parecer dos CTT, com audiência da Companhia.
 
 A multa por cada falta não será inferior a 0,5 por cento, nem superior a 25 por cento, da garantia de tráfego mínimo anual expressa no § 1.º do artigo 12.º e reverterá a favor dos CTT.
 
@@ -148,6 +158,6 @@ A multa por cada falta não será inferior a 0,5 por cento, nem superior a 25 po
 
 § 2.º A partir do 31.º dia da data da publicação da portaria referida no parágrafo anterior a Companhia deixará de exercer a sua actividade em território português, devendo, em consequência, a sua estação ser imediatamente encerrada. Neste caso a Companhia deverá desmontar todas as suas instalações e liquidar os respectivos serviços dentro do prazo de um ano, a contar da data do encerramento da estação, sob pena de aquelas instalações reverterem para os CTT.
 
-###### Art. 2.º Este contrato adicional, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1935, considera-se em vigor desde 1 de Janeiro de 1962 e substitui as correspondentes cláusulas do citado contrato de 11 de Fevereiro de 1957.
+Art. 2.º Este contrato adicional, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1935, considera-se em vigor desde 1 de Janeiro de 1962 e substitui as correspondentes cláusulas do citado contrato de 11 de Fevereiro de 1957.
 
 Ministério das Comunicações, 12 de Junho de 1963. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

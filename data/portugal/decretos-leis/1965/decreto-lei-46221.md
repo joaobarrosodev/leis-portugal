@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46221-1965-237992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca903210a56e30b472c2dada32271348942b049e5be5cdaee615b8f5afa8e744
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 137c5c6f858a6622164511f6beb86187cebb8d61cf8e80961459e200250d8b99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acto de Adesão
+- Convenção
+- Londres
+- Portugal
+- Unesco
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:29Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +91,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção que constitui a Organização das Nações Unidas para a Educação, Ciência e Cultura, celebrada em Londres em 16 de Novembro de 1945 e modificada pela Conferência Geral nas suas 2.ª, 3.ª, 4.ª, 5.ª, 6.ª, 7.ª, 8.ª, 9.ª, 10.ª e 12.ª sessões, cujo texto, em inglês, em francês e na tradução para português, vai anexo ao presente decreto-lei.
+Artigo único. É aprovada, para adesão, a Convenção que constitui a Organização das Nações Unidas para a Educação, Ciência e Cultura, celebrada em Londres em 16 de Novembro de 1945 e modificada pela Conferência Geral nas suas 2.ª, 3.ª, 4.ª, 5.ª, 6.ª, 7.ª, 8.ª, 9.ª, 10.ª e 12.ª sessões, cujo texto, em inglês, em francês e na tradução para português, vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -632,9 +637,7 @@ Por estes motivos, os Estados Contratantes, decididos a assegurar a todos os hom
 
 E por isso criam, pela presente Convenção, a Organização das Nações Unidas para a Educação, Ciência e Cultura, a fim de realizar gradualmente, mediante a cooperação das nações do Mundo nos domínios da educação, da ciência e da cultura, os objectivos de paz internacional e bem-estar comum da humanidade, que presidiram à criação da Organização das Nações Unidas e que a respectiva Carta proclama.
 
-ARTIGO I
-
-Finalidades e funções
+###### ARTIGO I — Finalidades e funções
 
 1. A Organização tem por finalidade contribuir para a manutenção da paz e da segurança, mediante o incremento, através da educação, da ciência e da cultura, da colaboração entre as nações, a fim de assegurar o respeito universal pela justiça, pela lei, pelos direitos do homem e pelas liberdades fundamentais que a Carta das Nações Unidas reconhece a todos os povos do Mundo, sem distinção de raça, de sexo, de língua ou de religião.
 
@@ -660,9 +663,7 @@ Introduzindo métodos de cooperação internacional adequados que permitam a tod
 
 3. A fim de assegurar a independência, a integridade e a fecunda diversidade das culturas e dos sistemas de educação nacionais, é vedado à Organização intervir em matérias que decorrem, essencialmente, da jurisdição interna dos Estados membros.
 
-ARTIGO II
-
-Membros
+###### ARTIGO II — Membros
 
 1. Os Estados membros da Organização das Nações Unidas têm o direito de se tornarem membros da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 
@@ -676,15 +677,11 @@ Membros
 
 6. Qualquer Estado membro ou membro associado pode retirar-se da Organização mediante notificação dirigida ao director-geral. A notificação produz efeitos a partir do dia 31 de Dezembro do ano seguinte àquele em que foi feita. A notificação de saída em nada modifica as obrigações financeiras do Estado para com a Organização à data em que a mesma se torna efectiva. A notificação de saída de um membro associado deverá ser feita, em seu nome, pelo Estado membro ou por qualquer outra autoridade que assuma a responsabilidade pela condução das suas relações internacionais.
 
-ARTIGO III
-
-Órgãos
+###### ARTIGO III — Órgãos
 
 A Organização compreende uma Conferência Geral, um Conselho Executivo e um Secretariado.
 
-ARTIGO IV
-
-Conferência geral
+###### ARTIGO IV — Conferência geral
 
 A. Composição
 
@@ -730,9 +727,7 @@ E. Observadores
 
 14. Logo que o Conselho Executivo tenha aprovado acordos consultivos com determinadas organizações internacionais não governamentais ou semigovernamentais, em conformidade com o estabelecido no parágrafo 4 do artigo XI, serão tais organizações convidadas a enviar observadores às sessões da Conferência Geral e das suas comissões.
 
-ARTIGO V
-
-Conselho Executivo
+###### ARTIGO V — Conselho Executivo
 
 A. Composição
 
@@ -770,9 +765,7 @@ C. Disposições transitórias
 
 13. Na 12.ª sessão da Conferência Geral proceder-se-á, em conformidade com as disposições deste artigo, à eleição de dezoito membros do Conselho Executivo. O mandato de três deles, escolhidos por sorteio, expirará à data do encerramento da 13.ª sessão da Conferência Geral. A partir de então proceder-se-á à eleição de quinze membros em cada sessão ordinária da Conferência Geral.
 
-ARTIGO VI
-
-Secretariado
+###### ARTIGO VI — Secretariado
 
 1. O Secretariado compõe-se de um director-geral e do pessoal que for necessário.
 
@@ -788,9 +781,7 @@ b) O director-geral elaborará, para transmissão aos Estados membros e ao Conse
 
 6. Nenhuma das disposições do presente artigo obstará a que a Organização estabeleça acordos especiais, dentro do quadro da Organização das Nações Unidas, acerca de serviços e pessoal comuns e de troca de funcionários.
 
-ARTIGO VII
-
-Comissões nacionais de cooperação
+###### ARTIGO VII — Comissões nacionais de cooperação
 
 1. Cada Estado membro deverá adoptar medidas adequadas às circunstâncias do seu caso particular a fim de associar aos trabalhos da Organização as principais instituições interessadas em questões educativas, científicas e culturais, de preferência mediante a formação de uma comissão nacional composta por representantes do Governo e dessas instituições.
 
@@ -798,15 +789,11 @@ Comissões nacionais de cooperação
 
 3. A Organização pode, a pedido de um Estado membro, destacar, a título temporário ou permanente, um membro do seu Secretariado para servir na comissão nacional do Estado em questão e colaborar nos trabalhos dessa comissão.
 
-ARTIGO VIII
-
-Relatórios dos Estados membros
+###### ARTIGO VIII — Relatórios dos Estados membros
 
 Os Estados enviarão periòdicamente à Organização relatórios sobre legislação, regulamentos e dados estatísticos relativos às instituições e actividades nacionais de carácter educativo, científico e cultural e ainda sobre as medidas que adoptaram no seguimento das recomendações e convenções mencionadas no parágrafo 4 do artigo IV. A forma a que obedecerão estes relatórios será determinada pela Conferência Geral.
 
-ARTIGO IX
-
-Orçamento
+###### ARTIGO IX — Orçamento
 
 1. A Organização administra o seu orçamento.
 
@@ -814,15 +801,11 @@ Orçamento
 
 3. O director-geral pode, com a aprovação do Comité Executivo, receber directamente doações, legados e subvenções provenientes quer de governos, quer de instituições públicas e privadas, quer ainda de associações ou de particulares.
 
-ARTIGO X
-
-Relações com a Organização das Nações Unidas
+###### ARTIGO X — Relações com a Organização das Nações Unidas
 
 Logo que possível, estabelecer-se-á a ligação entre a Organização e a Organização das Nações Unidas. A Organização constituirá uma das agências especializadas referidas no artigo 57 da Carta das Nações Unidas. As relações entre as duas organizações serão objecto de um acordo, a celebrar nos termos do artigo 63 da mesma Carta, que será submetido à aprovação da Conferência Geral da Organização. O acordo deverá prever a cooperação efectiva entre as duas organizações para a realização dos seus fins comuns e reconhecer, simultâneamente, autonomia à Organização nos assuntos que decorrem da competência que lhe é atribuída na presente Convenção. Este acordo poderá conter, entre outras, disposições respeitantes à aprovação do orçamento e ao financiamento da Organização por parte da Assembleia Geral das Nações Unidas.
 
-ARTIGO XI
-
-Relações com outras organizações internacionais e agências especializadas
+###### ARTIGO XI — Relações com outras organizações internacionais e agências especializadas
 
 1. A Organização pode cooperar com outras organizações e agências especializadas intergovernamentais cujos interesses e actividades sejam afins. Para este efeito, o director-geral pode estabelecer, sob a égide do Conselho Executivo, relações efectivas com tais organizações e agências e criar as comissões mistas que forem necessárias para assegurar uma cooperação eficaz. Todos os acordos estabelecidos com tais organizações ou agências deverão ser submetidos à aprovação do Conselho Executivo.
 
@@ -832,31 +815,23 @@ Relações com outras organizações internacionais e agências especializadas
 
 4. A Organização das Nações Unidas para a Educação, Ciência e Cultura pode estabelecer acordos apropriados para regular a consulta e assegurar a cooperação com organizações internacionais não governamentais interessadas em assuntos que caibam na esfera da sua competência e pode convidá-las a desempenhar funções específicas. Esta cooperação pode também abranger a participação adequada de representantes de tais organizações nas comissões consultivas criadas pela Conferência Geral.
 
-ARTIGO XII
-
-Estatuto jurídico da Organização
+###### ARTIGO XII — Estatuto jurídico da Organização
 
 As disposições dos artigos 104 e 105 da Carta da Organização das Nações Unidas, relativas ao estatuto jurídico da referida Organização e aos seus privilégios e imunidades, são aplicáveis igualmente a esta Organização.
 
-ARTIGO XIII
-
-Emendas
+###### ARTIGO XIII — Emendas
 
 1. As propostas de emendas a esta Convenção entram em vigor aprovadas pelo voto da maioria de dois terços da Conferência Geral; no entanto, as emendas que implicarem alterações fundamentais aos objectivos da Organização ou novas obrigações dos Estados membros não entrarão em vigor enquanto não forem aceites por dois terços dos Estados membros. Os textos dos projectos de emendas devem ser transmitidos pelo director-geral aos Estados membros, pelo menos, seis meses antes de serem submetidos à consideração da Conferência Geral.
 
 2. A Conferência Geral pode adoptar, por maioria de dois terços, um regulamento relativo à aplicação das disposições deste artigo.
 
-ARTIGO XIV
-
-Interpretação
+###### ARTIGO XIV — Interpretação
 
 1. Os textos em inglês e em francês da presente Convenção são igualmente válidos.
 
 2. Qualquer questão ou divergência relativa à interpretação da presente Convenção será submetida, para decisão, ao Tribunal Internacional de Justiça ou a um tribunal arbitral, conforme for decido pela Conferência, de acordo com as disposições do seu Regulamento Interno.
 
-ARTIGO XV
-
-Entrada em vigor
+###### ARTIGO XV — Entrada em vigor
 
 1. A presente Convenção será submetida a adesão. Os instrumentos de adesão serão depositados junto do Governo do Reino Unido.
 

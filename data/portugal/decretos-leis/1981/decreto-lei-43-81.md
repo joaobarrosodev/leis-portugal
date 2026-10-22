@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1981-388409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0deed174e03afa47ef63484dead05cc3851f88f54a62b91b205d22bd0f3d9f00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad8a0feff667a41deb790c73c3bad8533e27250f956cd6e39e739579f9989d2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:376598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561458:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:27Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +109,14 @@ Considerando que o [Decreto-Lei n.º 646/74](https://diariodarepublica.pt/dr/det
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º As expressões «Aeronáutica» e «Aeronáutica Militar», que têm sido utilizadas em diferentes diplomas, documentos e outras disposições, devem entender-se como Força Aérea.
+Artigo 1.º As expressões «Aeronáutica» e «Aeronáutica Militar», que têm sido utilizadas em diferentes diplomas, documentos e outras disposições, devem entender-se como Força Aérea.
 
-###### Art. 2.º A Ordem à Aeronáutica que se refere a alínea d) do artigo 12.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, passa a designar-se Ordem à Força Aérea.
+Art. 2.º A Ordem à Aeronáutica que se refere a alínea d) do artigo 12.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, passa a designar-se Ordem à Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 16 de Fevereiro de 1981.
 
-**Promulgado em 25 de Fevereiro de 1981.**
+Promulgado em 25 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16300/15561560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1979-382058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89f9ded285e676c8c5eb3698f6b677be84fdf64533cc4d258d92757eb36ebb18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36ced49df57de372ed248fc0b1aeb332082ff118ae0654881172ea2d64277d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional da Unesco
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Unesco
 relationships:
 - type: amended_by
   target: pt:dre:614654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:210847:por
+  label: "Alterado o nº 1 do art. 6º pelo DEC LEI.432/86.1986.12.30.MNE, DR.IS [299] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/432-1986-210847
+  date: '1986-12-30'
+- type: cites
+  target: pt:dre:237992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337208:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 103/89 DE 30-MAR DR.IS [74].\04]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-03-30'
+- type: repealed_by
+  target: pt:dre:614654:por
+  label: "Revogado, a partir de 04.04.1989, pelo DEC LEI.103/89.30.03.1989.MNE, DR.IS [74] de 30.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1989-614654
+  date: '1989-03-30'
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:06Z'
   warnings: []
   errors: []
 ---
@@ -355,21 +386,21 @@ As dúvidas suscitadas na execução deste diploma serão resolvidas por despach
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 21 de Junho de 1979.**
+Promulgado em 21 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Pessoal dos quadros aprovados por lei
 
 I - Conselho coordenador e conselho administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16300/15561560.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16300/15561560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16300/15561560.pdf)
 
 II - Pessoal dos serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16300/15561560.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16300/15561560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16300/15561560.pdf)
 
 Remunerações certas e permanentes
 
@@ -433,4 +464,4 @@ b) Pessoal dos serviços:
 
 Total ... 189200$00
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz.

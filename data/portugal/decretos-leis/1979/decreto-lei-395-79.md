@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21900/24742477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a77443e5c04c75ac587cd26eabbefa71693d899c607aefd23322c1e31350f45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a44058e6eb7b1ffc80ecace630356758113e00ea1cc2baa7f092a36f805c519a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Fundo de Compensação do Seguro de Colheitas
+- Seguro Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:557621:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573343:por
+  label: "Alargado o âmbito de aplicação do Seguro de colheitas instituído pelo pelo presente diploma, pelo DN.134/81.06.04.1981.MFP,\
+    \ DR.IS [103] de 06.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/134-1981-573343
+  date: '1981-04-06'
+- type: amended_by
+  target: pt:dre:661911:por
+  label: "Alterados os arts 5º e 12º pelo DEC LEI.92/84.1984.03.26.PCM DR.IS [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1984-661911
+  date: '1984-03-26'
+- type: amended_by
+  target: pt:dre:495347:por
+  label: Alterados os arts. 5.º, 12.º e 13.º do presente diploma pelo(a) Decreto-Lei n.º 331/87 - Diário da República n.º
+    225/1987, Série I de 1987-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1987-495347
+  date: '1987-09-30'
+- type: cites
+  target: pt:dre:140346:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:364916:por
+  label: Rectificado pela DECL.DD7143.15.10.1979.PCM, DR.IS [238] de 15.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-364916
+  date: '1979-10-15'
+- type: corrected_by
+  target: pt:dre:364288:por
+  label: Rectificado pela DECL.DD7164.25.10.1979.PCM, DR.IS [247] de 25.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-364288
+  date: '1979-10-25'
+- type: repealed_by
+  target: pt:dre:557621:por
+  label: "Revogado pelo DEC LEI.283/90.18.09.1990.MAPA, DR.IS [216] de 18.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/283-1990-557621
+  date: '1990-09-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:02Z'
   warnings: []
   errors: []
 ---
@@ -134,19 +173,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nas condições do presente diploma, é instituído o seguro agrícola de colheitas, adiante designado por seguro de colheitas, instrumento fundamental da política de ordenamento cultural, de incentivo ao investimento agrícola e à melhoria das técnicas de produção e de protecção dos agricultores.
+Artigo 1.º Nas condições do presente diploma, é instituído o seguro agrícola de colheitas, adiante designado por seguro de colheitas, instrumento fundamental da política de ordenamento cultural, de incentivo ao investimento agrícola e à melhoria das técnicas de produção e de protecção dos agricultores.
 
-###### Art. 2.º O seguro de colheitas abrange o território do continente, prevendo-se o seu alargamento às Regiões Autónomas da Madeira e dos Açores.
+Art. 2.º O seguro de colheitas abrange o território do continente, prevendo-se o seu alargamento às Regiões Autónomas da Madeira e dos Açores.
 
-###### Art. 3.º O seguro de colheitas tem carácter voluntário, excepto nos casos especialmente previstos por lei.
+Art. 3.º O seguro de colheitas tem carácter voluntário, excepto nos casos especialmente previstos por lei.
 
-###### Art. 4.º - 1 - Na sua fase inicial, o seguro abrangerá as seguintes culturas: trigo, centeio, cevada, aveia, triticale, milho, arroz, cártamo, girassol, tomate, hortícolas em regime de forçagem, vinha e pomíferas.
+Art. 4.º - 1 - Na sua fase inicial, o seguro abrangerá as seguintes culturas: trigo, centeio, cevada, aveia, triticale, milho, arroz, cártamo, girassol, tomate, hortícolas em regime de forçagem, vinha e pomíferas.
 
 2 - O seguro cobrirá os riscos de incêndio, raio e explosão, tornados, trombas de água, granizo e geada.
 
 3 - O seguro deverá ser progressivamente alargado a outras culturas e riscos à medida que se disponha dos elementos técnicos e estatísticos suficientes e de acordo com a experiência entretanto colhida.
 
-###### Art. 5.º - 1 - O seguro garantirá ao agricultor os prejuízos sofridos pelas culturas e que tenham origem em qualquer dos riscos abrangidos pela apólice.
+Art. 5.º - 1 - O seguro garantirá ao agricultor os prejuízos sofridos pelas culturas e que tenham origem em qualquer dos riscos abrangidos pela apólice.
 
 2 - O montante a indemnizar será o correspondente ao valor da produção final, deduzido dos encargos inerentes às operações culturais não efectuadas, e tendo em conta o disposto nos n.os 4 e 5 deste artigo.
 
@@ -156,33 +195,33 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Com excepção dos riscos de incêndio, raio e explosão, haverá uma franquia, a cargo do segurado, de 5% do valor seguro.
 
-###### Art. 6.º - 1 - Para efeitos do cálculo do valor seguro, bem como o das indemnizações em caso de sinistro, serão consideradas as produções unitárias médias regionais do último decénio e os preços de garantia ou de intervenção, acrescidos de eventuais subsídios, ou, na ausência destes preços, os praticados regionalmente.
+Art. 6.º - 1 - Para efeitos do cálculo do valor seguro, bem como o das indemnizações em caso de sinistro, serão consideradas as produções unitárias médias regionais do último decénio e os preços de garantia ou de intervenção, acrescidos de eventuais subsídios, ou, na ausência destes preços, os praticados regionalmente.
 
 2 - Quando as produções declaradas na proposta se afastarem significativamente dos valores médios referidos no número anterior, o segurado deverá facultar adequada comprovação.
 
-###### Art. 7.º O MAP prestará ao sector segurador o necessário apoio técnico, habilitando-o, designadamente, com elementos que permitam caracterizar regionalmente as culturas e actividades abrangidas por este tipo de seguro.
+Art. 7.º O MAP prestará ao sector segurador o necessário apoio técnico, habilitando-o, designadamente, com elementos que permitam caracterizar regionalmente as culturas e actividades abrangidas por este tipo de seguro.
 
-###### Art. 8.º O seguro poderá ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo e contratado individual ou colectivamente.
+Art. 8.º O seguro poderá ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo e contratado individual ou colectivamente.
 
-###### Art. 9.º - 1 - As seguradoras que explorem o ramo «Agrícola e Pecuário» constituirão entre si o pool do seguro de colheitas, com vista à divisão equitativa das responsabilidades assumidas por cada uma.
+Art. 9.º - 1 - As seguradoras que explorem o ramo «Agrícola e Pecuário» constituirão entre si o pool do seguro de colheitas, com vista à divisão equitativa das responsabilidades assumidas por cada uma.
 
 2 - Caberá ao Instituto Nacional de Seguros definir e regulamentar o regime do pool mencionado no número anterior, coordenando e assegurando o funcionamento dos respectivos serviços.
 
-###### Art. 10.º - 1 - O Estado bonificará os prémios do seguro agrícola de colheitas segundo critérios que tenham em conta o ordenamento cultural, a estrutura produtiva da região, o nível técnico das explorações e a rentabilidade das culturas.
+Art. 10.º - 1 - O Estado bonificará os prémios do seguro agrícola de colheitas segundo critérios que tenham em conta o ordenamento cultural, a estrutura produtiva da região, o nível técnico das explorações e a rentabilidade das culturas.
 
 2 - O Estado poderá ainda bonificar segundo os mesmos critérios os prémios do seguro pecuário, já instituído na actividade seguradora.
 
 3 - As bonificações, a conceder por culturas, regiões e tipos de empresa, serão definidas por espaço conjunto do MAP e do MFP, ouvida a comissão de gestão do Fundo a que refere o artigo 14.º
 
-###### Art. 11.º É criado junto do instituto Nacional de Seguros um fundo de compensação do seguro de colheitas.
+Art. 11.º É criado junto do instituto Nacional de Seguros um fundo de compensação do seguro de colheitas.
 
-###### Art. 12.º O Fundo de Compensação do Seguro de Colheitas destina-se a:
+Art. 12.º O Fundo de Compensação do Seguro de Colheitas destina-se a:
 
 a) Compensar o pool do seguro de colheitas pelo valor dos sinistros, líquidos das receitas de resseguro cedido, na parte em que excedam em cada ano civil 125% dos prémios, e seus adicionais processados nesse ano;
 
 b) Bonificar os prémios do seguro, nas condições expressas no artigo 10.º
 
-###### Art. 13.º - 1 - Constituem receitas do Fundo:
+Art. 13.º - 1 - Constituem receitas do Fundo:
 
 a) Uma dotação do Orçamento Geral do Estado;
 
@@ -200,11 +239,11 @@ e) Aplicações financeiras das importâncias correspondentes às dotações e p
 
 4 - No caso de o Fundo não ter disponibilidades para satisfazer integralmente as suas responsabilidades, será reforçada a dotação do Orçamento Geral do Estado.
 
-###### Art. 14.º A gestão do Fundo será assegurada por uma comissão de três membros, representantes dos Ministérios da Agricultura e Pescas e das Finanças e do Plano e do Instituto Nacional de Seguros, respectivamente.
+Art. 14.º A gestão do Fundo será assegurada por uma comissão de três membros, representantes dos Ministérios da Agricultura e Pescas e das Finanças e do Plano e do Instituto Nacional de Seguros, respectivamente.
 
-###### Art. 15.º A comissão de gestão do Fundo e o Instituto Nacional de Seguros, como gestor do pool, poderão recorrer, sempre que o entendam necessário, aos serviços regionais do MAP, ao Instituto Nacional de Meteorologia e Geofísica e ao Instituto Nacional de Estatística.
+Art. 15.º A comissão de gestão do Fundo e o Instituto Nacional de Seguros, como gestor do pool, poderão recorrer, sempre que o entendam necessário, aos serviços regionais do MAP, ao Instituto Nacional de Meteorologia e Geofísica e ao Instituto Nacional de Estatística.
 
-###### Art. 16.º Será criada uma comissão consultiva do seguro de colheitas, a funcionar no MAP, como órgão consultivo no domínio do seguro agrícola, e que integrará os seguintes elementos:
+Art. 16.º Será criada uma comissão consultiva do seguro de colheitas, a funcionar no MAP, como órgão consultivo no domínio do seguro agrícola, e que integrará os seguintes elementos:
 
 Três representantes do MAP;
 
@@ -222,22 +261,22 @@ Um representante das cooperativas agrícolas, excepto as de produção;
 
 Um representante das cooperativas agrícolas de produção.
 
-###### Art. 17.º Os agricultores detentores de apólices do seguro de colheitas beneficiarão prioritariamente dos subsídios a que se refere a alínea a) do artigo 2.º do [Decreto-Lei n.º 82/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1977-140346), de 5 de Março, nos termos que vierem a ser definidos pelo MAP.
+Art. 17.º Os agricultores detentores de apólices do seguro de colheitas beneficiarão prioritariamente dos subsídios a que se refere a alínea a) do artigo 2.º do [Decreto-Lei n.º 82/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1977-140346), de 5 de Março, nos termos que vierem a ser definidos pelo MAP.
 
-###### Art. 18.º O presente decreto-lei produz os seus efeitos noventa dias após a sua publicação.
+Art. 18.º O presente decreto-lei produz os seus efeitos noventa dias após a sua publicação.
 
 Disposições transitórias
 
-###### Art. 19.º Considera-se como primeiro ano do seguro o período compreendido entre a data da entrada em vigor do presente decreto-lei e 31 de Dezembro de 1980.
+Art. 19.º Considera-se como primeiro ano do seguro o período compreendido entre a data da entrada em vigor do presente decreto-lei e 31 de Dezembro de 1980.
 
-###### Art. 20.º A dotação do Orçamento Geral do Estado a que se refere a alínea a) do n.º 1 do artigo 13.º será fixada, em relação ao ano de 1980, por forma a cobrir, no mínimo, as bonificações a que se refere o artigo 10.º e uma sinistralidade, a cargo do Fundo, não inferior a 150% dos prémios estimados para o referido ano.
+Art. 20.º A dotação do Orçamento Geral do Estado a que se refere a alínea a) do n.º 1 do artigo 13.º será fixada, em relação ao ano de 1980, por forma a cobrir, no mínimo, as bonificações a que se refere o artigo 10.º e uma sinistralidade, a cargo do Fundo, não inferior a 150% dos prémios estimados para o referido ano.
 
-###### Art. 21.º O presente diploma legislativo será devidamente regulamentado, por despacho conjunto dos Ministérios da Agricultura e Pescas e das Finanças e do Plano, no prazo de sessenta dias após a sua publicação.
+Art. 21.º O presente diploma legislativo será devidamente regulamentado, por despacho conjunto dos Ministérios da Agricultura e Pescas e das Finanças e do Plano, no prazo de sessenta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 6 de Setembro de 1979.**
+Promulgado em 6 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

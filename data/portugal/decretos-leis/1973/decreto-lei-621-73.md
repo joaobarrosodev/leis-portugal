@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-1973-412059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebb12d622b24b00054f711908d6fbf6d7662741f50c42d361e218814c216add4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4f4969f7a0957026608022481adeeb7f67a9be676372049acd25e8244b92710
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Ensino Superior
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:147199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665295:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:22Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +116,13 @@ Nestes termos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os planos dos cursos professados na Academia Militar serão fixados por portaria conjunta dos Ministros do Exército e da Educação Nacional.
+Artigo 1.º Os planos dos cursos professados na Academia Militar serão fixados por portaria conjunta dos Ministros do Exército e da Educação Nacional.
 
-###### Art. 2.º - 1. As alterações ao quadro do corpo docente constante do apêndice 1 ao mapa anexo n.º 3 do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, serão objecto de portaria conjunta dos Ministros do Exército, das Finanças e da Educação Nacional.
+Art. 2.º - 1. As alterações ao quadro do corpo docente constante do apêndice 1 ao mapa anexo n.º 3 do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, serão objecto de portaria conjunta dos Ministros do Exército, das Finanças e da Educação Nacional.
 
 2. Para efeitos de docência, provimento de lugares e acumulações de regências, as cadeiras podem ser agrupadas segundo as suas afinidades.
 
-###### Art. 3.º - 1. O provimento dos cargos de professor catedrático ou de professor adjunto da Academia Militar é efectuado por meio de concurso documental sancionado pelos Ministros da Educação Nacional e do Exército, seguido pela prestação de provas públicas, cujo resultado deverá ser homologado por despacho dos mesmos Ministros, quando algum concorrente as tenha solicitado por escrito no acto de entrega do respectivo requerimento ou quando o conselho escolar decida que só a realização de provas públicas o pode habilitar a pronunciar-se por qualquer dos concorrentes.
+Art. 3.º - 1. O provimento dos cargos de professor catedrático ou de professor adjunto da Academia Militar é efectuado por meio de concurso documental sancionado pelos Ministros da Educação Nacional e do Exército, seguido pela prestação de provas públicas, cujo resultado deverá ser homologado por despacho dos mesmos Ministros, quando algum concorrente as tenha solicitado por escrito no acto de entrega do respectivo requerimento ou quando o conselho escolar decida que só a realização de provas públicas o pode habilitar a pronunciar-se por qualquer dos concorrentes.
 
 2. O processamento do concurso documental e da prestação de provas públicas, quando for caso disso, continua a ser regulado pela legislação existente.
 
@@ -121,7 +140,7 @@ c) Por escolha entre oficiais do Exército, da Armada ou da Força Aérea, do ac
 
 6. Àqueles professores, ou a professores de cadeiras não integradas em grupo, pode ser entregue a regência, em regime eventual, das cadeiras de opção previstas nos planos de curso que sejam afins dos grupos ou das cadeiras em que tenham sido providos.
 
-###### Art. 4.º As faltas de professores que não seja possível preencher nas condições do artigo 3.º, bem como os impedimentos impossíveis de suprir nos termos daquele artigo, podem ser preenchidos, em regime de interinidade, por:
+Art. 4.º As faltas de professores que não seja possível preencher nas condições do artigo 3.º, bem como os impedimentos impossíveis de suprir nos termos daquele artigo, podem ser preenchidos, em regime de interinidade, por:
 
 a) Professores de outros grupos de cadeiras;
 
@@ -133,24 +152,24 @@ d) Professores universitários convidados pelo Ministro do Exército, sem abertu
 
 e) Individualidades civis de mérito comprovado convidadas pelo Ministro do Exército, sem abertura de concurso prévio, mediante proposta do comandante da Academia Militar e com a concordância do Ministro da Educação Nacional.
 
-###### Art. 5.º As condições legais de candidatura, provimento e exercício dos professores, específicas de cada grupo de cadeiras ou das cadeiras não integradas em grupos, serão reguladas por portaria do Ministro do Exército.
+Art. 5.º As condições legais de candidatura, provimento e exercício dos professores, específicas de cada grupo de cadeiras ou das cadeiras não integradas em grupos, serão reguladas por portaria do Ministro do Exército.
 
-###### Art. 6.º - 1. Os professores militares, catedráticos ou adjuntos, providos mediante concurso, quando nomeados para uma comissão de serviço militar por imposição ou por escolha, podem, através de requerimento, manter-se titulares do cargo de professores em que foram providos durante a referida comissão, garantindo-se-lhes o regresso às suas funções docentes após essa comissão, desde que esta não exceda três anos.
+Art. 6.º - 1. Os professores militares, catedráticos ou adjuntos, providos mediante concurso, quando nomeados para uma comissão de serviço militar por imposição ou por escolha, podem, através de requerimento, manter-se titulares do cargo de professores em que foram providos durante a referida comissão, garantindo-se-lhes o regresso às suas funções docentes após essa comissão, desde que esta não exceda três anos.
 
 2. A faculdade referida no número anterior apenas poderá ser exercida com relação a uma única comissão de serviço.
 
 3. No caso de nomeação para comissão de serviço militar, os professores a que se refere este artigo são substituídos em regime de interinidade, nos termos do artigo 4.º
 
-###### Art. 7.º Nos anos lectivos de 1973-1974 e de 1974-1975, devido ao grande número de cadeiras que se torna necessário prover e às consequentes demoras no processamento dos concursos, os concorrentes não podem solicitar a prestação de provas públicas, ficando estas apenas dependentes da decisão do conselho escolar.
+Art. 7.º Nos anos lectivos de 1973-1974 e de 1974-1975, devido ao grande número de cadeiras que se torna necessário prover e às consequentes demoras no processamento dos concursos, os concorrentes não podem solicitar a prestação de provas públicas, ficando estas apenas dependentes da decisão do conselho escolar.
 
-###### Art. 8.º Mantêm-se em vigor as disposições dos Decretos-Leis n.os 42151 e 42152, ambos de 12 de Fevereiro de 1959, e modificados pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, que não sejam alteradas pelas disposições especiais do presente diploma.
+Art. 8.º Mantêm-se em vigor as disposições dos Decretos-Leis n.os 42151 e 42152, ambos de 12 de Fevereiro de 1959, e modificados pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, que não sejam alteradas pelas disposições especiais do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Alberto de Andrade e Silva - José Veiga Simão.
 
-**Promulgado em 14 de Novembro de 1973.**
+Promulgado em 14 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44608-1962-160482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b7f03406690cd06a93492813abc809cb8899bfeee332c66d013e5e9de3f2ba2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d689096598a1fc1cba42cd6d6f9b108f3804c9cececfdd734af8f826dddb702b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Corpo de Voluntários
+- Definição de Competências
+- Equipamento Militar
+- Força Paramilitar
+- Ministro do Ultramar
+- Secretariado Geral da Defesa Nacional
+- Segurança Interna
+- Segurança Pública
+relationships:
+- type: cites
+  target: pt:dre:441909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518007:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:33Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +111,9 @@ I
 
 Dos meios
 
-###### Artigo 1.º As organizações provinciais de voluntários são autorizadas a utilizar equipamento militar, incluindo material de guerra, no desempenho das missões prescritas nas alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962.
+Artigo 1.º As organizações provinciais de voluntários são autorizadas a utilizar equipamento militar, incluindo material de guerra, no desempenho das missões prescritas nas alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962.
 
-###### Art. 2.º Os artigos de equipamento militar, incluindo material de guerra, necessários às organizações provinciais de voluntários serão os que como tal forem definidos pelo Ministro do Ultramar, mediante parecer concordante do Secretariado-Geral da Defesa Nacional, relativamente a cada tipo.
+Art. 2.º Os artigos de equipamento militar, incluindo material de guerra, necessários às organizações provinciais de voluntários serão os que como tal forem definidos pelo Ministro do Ultramar, mediante parecer concordante do Secretariado-Geral da Defesa Nacional, relativamente a cada tipo.
 
 § único. Os modelos a adoptar, relativamente a cada tipo de artigos de equipamento militar, serão os que estiverem em uso nas forças armadas, com excepção dos que, por virtude da política de uniformização do equipamento militar das forças nacionais, devam ser definidos pelo Secretariado-Geral da Defesa Nacional.
 
@@ -104,23 +121,23 @@ II
 
 Da obtenção dos meios
 
-###### Art. 3.º A obtenção do equipamento militar e dos meios materiais necessários às organizações provinciais de voluntários de cada uma das províncias ultramarinas, nos termos do artigo 5.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, é da competência do respectivo comando provincial.
+Art. 3.º A obtenção do equipamento militar e dos meios materiais necessários às organizações provinciais de voluntários de cada uma das províncias ultramarinas, nos termos do artigo 5.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, é da competência do respectivo comando provincial.
 
-###### Art. 4.º Os serviços e estabelecimentos públicos do Estado ou das autarquias locais, as organizações e serviços de interesse público e as empresas e estabelecimentos industriais que, por força do artigo 19.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, são obrigados a assegurar, por conta própria, a autodefesa do seu pessoal e das suas instalações solicitarão, ao comando da organização provincial de voluntários de que dependem, a obtenção dos artigos de equipamento militar classificados como material de guerra.
+Art. 4.º Os serviços e estabelecimentos públicos do Estado ou das autarquias locais, as organizações e serviços de interesse público e as empresas e estabelecimentos industriais que, por força do artigo 19.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, são obrigados a assegurar, por conta própria, a autodefesa do seu pessoal e das suas instalações solicitarão, ao comando da organização provincial de voluntários de que dependem, a obtenção dos artigos de equipamento militar classificados como material de guerra.
 
-###### Art. 5.º Compete ao comando provincial da respectiva organização provincial de voluntários reunir e concretizar os pedidos de obtenção de artigos de equipamento militar que lhe forem dirigidos e remetê-los à Repartição do Gabinete do Ministério do Ultramar.
+Art. 5.º Compete ao comando provincial da respectiva organização provincial de voluntários reunir e concretizar os pedidos de obtenção de artigos de equipamento militar que lhe forem dirigidos e remetê-los à Repartição do Gabinete do Ministério do Ultramar.
 
 § único. Os pedidos remetidos à Repartição do Gabinete do Ministro do Ultramar, nas condições prescritas no corpo deste artigo, deverão ser sempre acompanhados de informação do comando militar da respectiva província, especificando se há ou não possibilidade de fornecimento local e imediato dos artigos de equipamento militar constantes do pedido, a partir dos depósitos ou outros órgãos directamente dependentes daquele comando.
 
-###### Art. 6.º A Repartição do Gabinete do Ministério do Ultramar solicitará ao Secretariado-Geral da Defesa Nacional a obtenção dos artigos de equipamento militar pedidos pelos comandos provinciais, indicando as condições em que deseja que essa obtenção seja feita.
+Art. 6.º A Repartição do Gabinete do Ministério do Ultramar solicitará ao Secretariado-Geral da Defesa Nacional a obtenção dos artigos de equipamento militar pedidos pelos comandos provinciais, indicando as condições em que deseja que essa obtenção seja feita.
 
 § único. A obtenção poderá ser realizada por compra ou por cedência, a título definitivo ou temporário, por parte de qualquer dos departamentos militares, depois de ouvido o departamento interessado.
 
-###### Art. 7.º O Secretariado-Geral da Defesa Nacional indicará à Repartição do Gabinete do Ministério do Ultramar a forma por que poderão ser obtidos os artigos de equipamento militar pedidos e as respectivas condições de obtenção.
+Art. 7.º O Secretariado-Geral da Defesa Nacional indicará à Repartição do Gabinete do Ministério do Ultramar a forma por que poderão ser obtidos os artigos de equipamento militar pedidos e as respectivas condições de obtenção.
 
 § único. Quando a obtenção tenha de realizar-se por compra, competirá à Delegação Comercial do Ultramar fornecer aos órgãos das forças armadas que promoverem as aquisições, ou as cedências, as importâncias necessárias à liquidação dos encargos emergentes das mesmas.
 
-###### Art. 8.º Os tipos de artigos de equipamento militar classificados como material de guerra de que trata este capítulo são os seguintes:
+Art. 8.º Os tipos de artigos de equipamento militar classificados como material de guerra de que trata este capítulo são os seguintes:
 
 a) Espingardas de guerra;
 
@@ -144,9 +161,9 @@ III
 
 Do registo dos artigos de equipamento militar
 
-###### Art. 9.º Os comandos provinciais de voluntários manterão em dia o cadastro dos artigos de equipamento militar, incluindo material de guerra, distribuídos na área do seu comando.
+Art. 9.º Os comandos provinciais de voluntários manterão em dia o cadastro dos artigos de equipamento militar, incluindo material de guerra, distribuídos na área do seu comando.
 
-###### Art. 10.º As pessoas singulares ou colectivas que, ao abrigo do disposto nos Decretos-Leis n.os 43568 e 43632, respectivamente de 28 de Março e de 29 de Abril de 1961, tenham promovido ou venham a promover à sua custa a aquisição de artigos de equipamento militar classificados como material de guerra e, bem assim, aqueles que o tenham feito ou o venham a fazer ao abrigo das disposições do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, ou das do presente diploma não serão titulares do direito de propriedade sobre esses artigos, sendo-lhes tão-sòmente conferida a posse para os fins consignados na lei.
+Art. 10.º As pessoas singulares ou colectivas que, ao abrigo do disposto nos Decretos-Leis n.os 43568 e 43632, respectivamente de 28 de Março e de 29 de Abril de 1961, tenham promovido ou venham a promover à sua custa a aquisição de artigos de equipamento militar classificados como material de guerra e, bem assim, aqueles que o tenham feito ou o venham a fazer ao abrigo das disposições do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, ou das do presente diploma não serão titulares do direito de propriedade sobre esses artigos, sendo-lhes tão-sòmente conferida a posse para os fins consignados na lei.
 
 § 1.º Os referidos artigos de material de guerra são insusceptíveis de prescrição aquisitiva.
 
@@ -154,15 +171,15 @@ Do registo dos artigos de equipamento militar
 
 § 3.º A falta de documento justificativo da posse ou da detenção, passado pelo comando provincial de voluntários, ou a inobservância das condições a que se refere o § 2.º constitui infracção punida nos termos da detenção ilícita de material de guerra.
 
-###### Art. 11.º As entidades mencionadas no artigo 10.º que, à sua custa, tenham adquirido artigos de material de guerra anteriormente à promulgação deste diploma ficam obrigadas ao registo dos referidos artigos na sua posse, no prazo de 30 dias, a partir da publicação, pelo comando provincial respectivo, das condições em que tal registo deve ser efectuado.
+Art. 11.º As entidades mencionadas no artigo 10.º que, à sua custa, tenham adquirido artigos de material de guerra anteriormente à promulgação deste diploma ficam obrigadas ao registo dos referidos artigos na sua posse, no prazo de 30 dias, a partir da publicação, pelo comando provincial respectivo, das condições em que tal registo deve ser efectuado.
 
-###### Art. 12.º É extensiva aos comandos provinciais de voluntários a obrigatoriedade da elaboração das relações mencionadas na [Portaria n.º 17483](https://diariodarepublica.pt/dr/detalhe/portaria/17483-1959-441909), de 19 de Dezembro de 1959.
+Art. 12.º É extensiva aos comandos provinciais de voluntários a obrigatoriedade da elaboração das relações mencionadas na [Portaria n.º 17483](https://diariodarepublica.pt/dr/detalhe/portaria/17483-1959-441909), de 19 de Dezembro de 1959.
 
 IV
 
 Da manutenção dos artigos de equipamento militar
 
-###### Art. 13.º A manutenção das armas de guerra em poder das organizações provinciais de voluntários é da sua inteira responsabilidade.
+Art. 13.º A manutenção das armas de guerra em poder das organizações provinciais de voluntários é da sua inteira responsabilidade.
 
 § 1.º As organizações provinciais de voluntários solicitarão ao respectivo comando militar o apoio para a manutenção que não puderem assegurar pelos seus meios.
 
@@ -172,17 +189,17 @@ Da manutenção dos artigos de equipamento militar
 
 § 4.º Os sebresselentes necessários para a manutenção das armas de modelos em uso no Exército serão fornecidos, ao comando provincial de voluntários, pelo comando militar da província respectiva, no depósito do material de guerra dependente deste, e mediante pronto pagamento.
 
-###### Art. 14.º A manutenção do equipamento rádio das unidades móveis da organização provincial de voluntários será efectuada nas formações dos serviços de transmissões das forças armadas que para tal forem designadas pelo comando-chefe ou comando territorial independente da respectiva província.
+Art. 14.º A manutenção do equipamento rádio das unidades móveis da organização provincial de voluntários será efectuada nas formações dos serviços de transmissões das forças armadas que para tal forem designadas pelo comando-chefe ou comando territorial independente da respectiva província.
 
 § único. Os sobresselentes utilizados na manutenção do equipamento rádio das organizações provinciais de voluntários, efectuada nos termos prescritos no corpo deste artigo, serão liquidados, a pronto pagamento, pelas aludidas organizações.
 
-###### Art. 15.º Os encargos das organizações provinciais de voluntários resultantes da manutenção dos artigos de equipamento militar, incluindo material de guerra, referidos nos artigos 13.º e 14.º do presente diploma, respeitam ao fornecimento de sobresselentes, matérias-primas e ingredientes de limpeza, efectuado nas condições estipuladas naqueles artigos, e à mão-de-obra a que eventualmente tenha de recorrer-se, quando tal represente encargo suplementar para os órgãos das forças armadas.
+Art. 15.º Os encargos das organizações provinciais de voluntários resultantes da manutenção dos artigos de equipamento militar, incluindo material de guerra, referidos nos artigos 13.º e 14.º do presente diploma, respeitam ao fornecimento de sobresselentes, matérias-primas e ingredientes de limpeza, efectuado nas condições estipuladas naqueles artigos, e à mão-de-obra a que eventualmente tenha de recorrer-se, quando tal represente encargo suplementar para os órgãos das forças armadas.
 
 V
 
 Das reservas de artigos de equipamento militar
 
-###### Art. 16.º Às organizações provinciais de voluntários é permitido constituírem reservas de artigos de equipamento militar, incluindo material de guerra e munições, a fim de assegurarem a continuidade da sua acção.
+Art. 16.º Às organizações provinciais de voluntários é permitido constituírem reservas de artigos de equipamento militar, incluindo material de guerra e munições, a fim de assegurarem a continuidade da sua acção.
 
 § único. As reservas mencionadas no corpo deste artigo serão armazenadas nos depósitos das forças armadas que para tal forem designados pelo comando-chefe ou comando territorial independente da respectiva província ultramarina.
 
@@ -190,11 +207,11 @@ VI
 
 Diversos
 
-###### Art. 17.º Os casos omissos no presente diploma e que devam ser objecto de decisão superior serão regulados por portaria conjunta dos Ministros da Defesa Nacional e do Ultramar.
+Art. 17.º Os casos omissos no presente diploma e que devam ser objecto de decisão superior serão regulados por portaria conjunta dos Ministros da Defesa Nacional e do Ultramar.
 
 § único. Quando a matéria legislada colida com a administração ou funcionamento dos departamentos das forças armadas, devem as portarias ser assinadas pelos titulares respectivos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

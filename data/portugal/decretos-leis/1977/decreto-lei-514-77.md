@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1977-279594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fd88945d43c08c0f74c632402e4dbc325441cb5fe2e4b539e6d10b7f55412f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 764309ce875218b5e192ee7684ae93875ab820a3090b426e55ff315495313efd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Documentos do Veículo
+- Instituto Nacional de Seguros
+- Responsabilidade Civil Automóvel
+- Seguro
+relationships:
+- type: cites
+  target: pt:dre:280060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:40Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +109,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto Nacional de Seguros poderá celebrar com os competentes organismos estrangeiros convenções bilaterais ou multilaterais para recíproco reconhecimento dos certificados internacionais de seguro de automóveis contra o risco de responsabilidade civil por danos causados a terceiros.
+Artigo 1.º O Instituto Nacional de Seguros poderá celebrar com os competentes organismos estrangeiros convenções bilaterais ou multilaterais para recíproco reconhecimento dos certificados internacionais de seguro de automóveis contra o risco de responsabilidade civil por danos causados a terceiros.
 
-###### Art. 2.º - 1 - As convenções e os modelos de certificados internacionais serão publicados no Diário da República, com indicação da data em que entram em vigor.
+Art. 2.º - 1 - As convenções e os modelos de certificados internacionais serão publicados no Diário da República, com indicação da data em que entram em vigor.
 
 2 - Serão igualmente publicadas no Diário da República todas as denúncias e alterações às convenções e certificados, com indicação da data a partir da qual produzem efeito.
 
@@ -107,18 +119,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - De igual modo deverão ser publicados avisos contendo as modificações introduzidas nas convenções tipo anteriormente publicadas no Diário da República.
 
-###### Art. 3.º Com a entrada em vigor das convenções, os certificados internacionais emitidos pelas entidades estrangeiras para tanto competentes serão havidos, pelos tribunais e pelas autoridades administrativas portuguesas, como apólices de seguros legalmente emitidas para produzirem efeito em Portugal.
+Art. 3.º Com a entrada em vigor das convenções, os certificados internacionais emitidos pelas entidades estrangeiras para tanto competentes serão havidos, pelos tribunais e pelas autoridades administrativas portuguesas, como apólices de seguros legalmente emitidas para produzirem efeito em Portugal.
 
-###### Art. 4.º Consideram-se aprovadas e em vigor as convenções celebradas pelo ex-Grémio dos Seguradores de acordo com o disposto no [Decreto-Lei n.º 41225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41225-1957-280060), de 8 de Agosto de 1957.
+Art. 4.º Consideram-se aprovadas e em vigor as convenções celebradas pelo ex-Grémio dos Seguradores de acordo com o disposto no [Decreto-Lei n.º 41225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41225-1957-280060), de 8 de Agosto de 1957.
 
-###### Art. 5.º O Instituto Nacional de Seguros poderá negociar no mercado internacional um seguro contra o risco de insolvência ou falência das companhias inscritas no Gabinete Português do Certificado Internacional de Seguro de Automóveis, às quais pertencerá o pagamento do prémio na quota-parte proporcional ao número de certificados passados por cada companhia.
+Art. 5.º O Instituto Nacional de Seguros poderá negociar no mercado internacional um seguro contra o risco de insolvência ou falência das companhias inscritas no Gabinete Português do Certificado Internacional de Seguro de Automóveis, às quais pertencerá o pagamento do prémio na quota-parte proporcional ao número de certificados passados por cada companhia.
 
-###### Art. 6.º É revogado o [Decreto-Lei n.º 41225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41225-1957-280060), de 8 de Agosto de 1957.
+Art. 6.º É revogado o [Decreto-Lei n.º 41225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41225-1957-280060), de 8 de Agosto de 1957.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 30 de Novembro de 1977.**
+Promulgado em 30 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

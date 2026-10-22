@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/06/14100/08070808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1970-140845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffeee08ea0b4b078a1e7fe0a3fad11ebf56a4ceca2025c186b66f863b8ed52cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa2bda739211cf2629d6dc2c3bb0a85c2bd3b67cfc8d851e4eee24f8648efb80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:324937:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2010-12-31'
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227267:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451834:por
+  label: "Revogado pelo DEC LEI.251/83.11.06.1983.MAS, DR.IS [133] de 11.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1983-451834
+  date: '1983-06-11'
+- type: repealed_by
+  target: pt:dre:324937:por
+  label: "Revogado pelo DEC LEI.81/85.28.03.1985.MFP, DR.IS [73] de 28.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1985-324937
+  date: '1985-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:55Z'
   warnings: []
   errors: []
 ---
@@ -111,18 +136,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Poderá ser determinada por despacho do Ministro das Corporações e Previdência Social a extensão do regime especial de abono de família previsto na secção III do capítulo II da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), de 29 de Maio de 1969:
+Artigo 1.º Poderá ser determinada por despacho do Ministro das Corporações e Previdência Social a extensão do regime especial de abono de família previsto na secção III do capítulo II da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), de 29 de Maio de 1969:
 
 a) A todos os trabalhadores por conta de outrem na agricultura, silvicultura e pecuária que prestem serviço em áreas não abrangidas por Casas do Povo e não devam nessa qualidade ser inscritos beneficiários das caixas sindicais de previdência;
 
 b) Aos arrendatários nas condições definidas no artigo 1079.º do Código Civil, como beneficiários, e aos respectivos senhorios, como contribuintes, nos termos a estabelecer em regulamento, tendo em vista o regime dos trabalhadores permanentes.
 
-###### Art. 2.º A extensão referida no artigo anterior será levada a efeito progressivamente, tendo em atenção as zonas definidas em matéria de planeamento regional.
+Art. 2.º A extensão referida no artigo anterior será levada a efeito progressivamente, tendo em atenção as zonas definidas em matéria de planeamento regional.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Junho de 1970.**
+Promulgado em 3 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

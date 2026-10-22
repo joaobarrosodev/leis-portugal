@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 199/1977, 2º Suplemento, Série I de 1977-08-29
   number: '199'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2080-(22) a 2080-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19902/00220023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-q-1977-240861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 376d911f87c76c34f375346389019e5e52e4410205efda4eaa16736e3a8df961
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c5ed39fb7a91f05f598218ad125db945cd1db259729f8eb531943e9a9c448ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Coletivo de Trabalho
+- Criação de Serviços
+- Instituição de Crédito
+- Instituto de Gestão Bancária
+- Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:39Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +107,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Instituto de Gestão Bancária, ao qual competirá, nomeadamente:
+Artigo 1.º É criado o Instituto de Gestão Bancária, ao qual competirá, nomeadamente:
 
 a) A gestão integrada dos recursos humanos do sistema bancário nacionalizado, considerando os aspectos ligados à formação e aperfeiçoamento dos trabalhadores bancários;
 
@@ -110,18 +121,18 @@ e) A análise de custos das instituições de crédito do sector público, que c
 
 f) O desenvolvimento de acções coordenadas no âmbito da protecção e segurança bancárias.
 
-###### Art. 2.º - 1. O Conselho de Ministros nomeará, sob proposta do Ministro das Finanças, a comissão instaladora do Instituto de Gestão Bancária.
+Art. 2.º - 1. O Conselho de Ministros nomeará, sob proposta do Ministro das Finanças, a comissão instaladora do Instituto de Gestão Bancária.
 
 2. A comissão deverá fazer o estudo da implantação do Instituto e apresentar um projecto do respectivo estatuto, no prazo de sessenta dias, a contar da data da sua entrada em funcionamento.
 
 3. A comissão actuará na dependência do Ministro das Finanças, de quem receberá as necessárias directrizes.
 
-###### Art. 3.º A Comissão Interbancária de Formação será considerada extinta na data da entrada em funcionamento do Instituto de Gestão Bancária.
+Art. 3.º A Comissão Interbancária de Formação será considerada extinta na data da entrada em funcionamento do Instituto de Gestão Bancária.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 29 de Agosto de 1977.**
+Promulgado em 29 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

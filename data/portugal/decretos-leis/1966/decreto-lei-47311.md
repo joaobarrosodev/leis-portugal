@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/11/26300/18071812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d31e7641a72f69a1b844ab170f0b6a5b487f66c0764a4a274cd8c7077441981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c062b4cabdcdb00e4e4ba7de8a520d11179c927f210c838c4a16f2cbdc910f07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Comissário Nacional Adjunto
+- Conselho Administrativo
+- Conselho Consultivo
+- Criação de Serviços
+- Definição de Competências
+- Fundo de Acção Social
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Mocidade Portuguesa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:631267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:598291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690201:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:631267:por
+  label: "Revogado pelo DEC LEI.486/71.08.11.1971.MEN, DG.IS [262] de 08.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1971-631267
+  date: '1971-11-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:01Z'
   warnings: []
   errors: []
 ---
@@ -101,17 +126,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Natureza, fins e atribuições da Mocidade Portuguesa
 
-###### Artigo 1.º A Organização Nacional Mocidade Portuguesa, instituída de harmonia com a [Lei n.º 1941](https://diariodarepublica.pt/dr/detalhe/lei/1941-1936-690201), de 11 de Abril de 1936, e abreviadamente designada por Mocidade Portuguesa, passa a reger-se pelas disposições dos artigos seguintes.
+Artigo 1.º A Organização Nacional Mocidade Portuguesa, instituída de harmonia com a [Lei n.º 1941](https://diariodarepublica.pt/dr/detalhe/lei/1941-1936-690201), de 11 de Abril de 1936, e abreviadamente designada por Mocidade Portuguesa, passa a reger-se pelas disposições dos artigos seguintes.
 
-###### Art. 2.º - 1. A Mocidade Portuguesa é um organismo que exerce a sua acção em todo o território nacional e tem por fim promover a formação integral da juventude.
+Art. 2.º - 1. A Mocidade Portuguesa é um organismo que exerce a sua acção em todo o território nacional e tem por fim promover a formação integral da juventude.
 
 2. Essa formação deve estimular a devoção à Pátria, o sentido da unidade nacional, o gosto da disciplina, processando-se à luz dos princípios e valores que informam a vida portuguesa, em vista à valorização da pessoa humana, dentro de um espírito de justiça social, de respeito das sãs tradições, de adaptação as circunstâncias dos tempos modernos e das várias parcelas do território português, de compreensão e solidariedade internacionais.
 
-###### Art. 3.º - 1. A Mocidade Portuguesa depende do Ministério da Educação Nacional, e também do Ministério do Ultramar quanto à acção exercida nas províncias ultramarinas.
+Art. 3.º - 1. A Mocidade Portuguesa depende do Ministério da Educação Nacional, e também do Ministério do Ultramar quanto à acção exercida nas províncias ultramarinas.
 
 2. Os aspectos respeitantes especìficamente à acção da Mocidade Portuguesa no ultramar serão regulados por decreto conjunto dos Ministros do Ultramar e da Educação Nacional, mediante conveniente adaptação do disposto neste decreto-lei, observando-se até lá o regime actualmente em vigor.
 
-###### Art. 4.º - 1. Para realização do fim expresso no artigo 2.º, a Mocidade Portuguesa tem as seguintes atribuições:
+Art. 4.º - 1. Para realização do fim expresso no artigo 2.º, a Mocidade Portuguesa tem as seguintes atribuições:
 
 a) Superintender nas actividades circum-escolares;
 
@@ -125,9 +150,9 @@ c) Promover a ocupação dos tempos livres da juventude não escolar.
 
 4. No âmbito do ensino superior, as actividades circum-escolares e a acção social escolar, incluindo as dependentes da Mocidade Portuguesa, continuam a reger-se pelos diplomas que presentemente lhes são aplicáveis.
 
-###### Art. 5.º A Mocidade Portuguesa tem personalidade jurídica e governa-se autònomamente, nos termos do presente diploma, mas sem prejuízo da faculdade que assiste ao Ministro da Educação Nacional de dar instruções para o bom desempenho da sua actividade e perfeita execução das leis.
+Art. 5.º A Mocidade Portuguesa tem personalidade jurídica e governa-se autònomamente, nos termos do presente diploma, mas sem prejuízo da faculdade que assiste ao Ministro da Educação Nacional de dar instruções para o bom desempenho da sua actividade e perfeita execução das leis.
 
-###### Art. 6.º - 1. Entre a Mocidade Portuguesa, de um lado, e, de outro, a Mocidade Portuguesa Feminina e os serviços do Ministério da Educação Nacional que superintendem nas actividades escolares e em actividades de educação física, saúde escolar e desportos, deve haver o melhor espírito de colaboração, sob a superior coordenação do Ministro.
+Art. 6.º - 1. Entre a Mocidade Portuguesa, de um lado, e, de outro, a Mocidade Portuguesa Feminina e os serviços do Ministério da Educação Nacional que superintendem nas actividades escolares e em actividades de educação física, saúde escolar e desportos, deve haver o melhor espírito de colaboração, sob a superior coordenação do Ministro.
 
 2. A Mocidade Portuguesa também colaborará com a Igreja e com as demais organizações públicas ou particulares que se ocupem da formação da juventude, em ordem a uma conveniente conjugação de esforços.
 
@@ -135,7 +160,7 @@ c) Promover a ocupação dos tempos livres da juventude não escolar.
 
 ##### SUBSECÇÃO I — Direcção
 
-###### Art. 7.º - 1. A direcção da Mocidade Portuguesa é constituída pelos seguintes membros:
+Art. 7.º - 1. A direcção da Mocidade Portuguesa é constituída pelos seguintes membros:
 
 a) Comissário nacional, que presidirá;
 
@@ -151,7 +176,7 @@ f) Secretário.
 
 2. Da direcção poderão ainda fazer parte outros vogais, no número máximo de três.
 
-###### Art. 8.º - 1. Os membros da direcção serão nomeados livremente pelo Ministro da Educação Nacional, e o comissário nacional adjunto para o ultramar também pelo Ministro do Ultramar, de entre pessoas de reconhecida competência que dêem garantias de imprimir sã orientação às actividades de formação da juventude; mas a nomeação do assistente nacional deve ter a concordância do Ordinário de Lisboa.
+Art. 8.º - 1. Os membros da direcção serão nomeados livremente pelo Ministro da Educação Nacional, e o comissário nacional adjunto para o ultramar também pelo Ministro do Ultramar, de entre pessoas de reconhecida competência que dêem garantias de imprimir sã orientação às actividades de formação da juventude; mas a nomeação do assistente nacional deve ter a concordância do Ordinário de Lisboa.
 
 2. As nomeações são feitas pelo período de três anos e podem ser renovadas, uma ou mais vezes, por períodos iguais.
 
@@ -165,7 +190,7 @@ f) Secretário.
 
 7. Ao secretário não se aplica o disposto neste artigo, sendo-lhe extensivo o que adiante se preceitua no artigo 21.º
 
-###### Art. 9.º - 1. Compete à direcção deliberar:
+Art. 9.º - 1. Compete à direcção deliberar:
 
 a) Sobre as directrizes concretas a que deve obedecer a actividade da Mocidade Portuguesa, dentro da orientação geral definida no artigo 2.º;
 
@@ -185,7 +210,7 @@ f) Sobre quaisquer assuntos que se revistam de especial importância ou outros q
 
 4. Sempre que da ordem do dia faça parte qualquer assunto que interesse especìficamente às províncias ultramarinas, ou a alguma ou algumas delas, os respectivos comissários provinciais podem ser convocados para participar na reunião, com direito de voto, e deverão sê-lo se se encontrarem no continente.
 
-###### Art. 10.º - 1. Compete ao comissário nacional:
+Art. 10.º - 1. Compete ao comissário nacional:
 
 a) Representar a Mocidade Portuguesa;
 
@@ -199,27 +224,27 @@ e) Superintender em todos os serviços da Mocidade Portuguesa e actividades a es
 
 2. O Ministro da Educação Nacional, ou por sua delegação o Subsecretário de Estado da Juventude e Desportos, também pode convocar as reuniões da direcção, e participar nessas reuniões, mesmo que não convocadas por ele, cabendo-lhe então a presidência.
 
-###### Art. 11.º - 1. Compete ao comissário nacional adjunto e ao comissário nacional adjunto para o ultramar coadjuvar o comissário nacional, o segundo no que interesse especìficamente às províncias ultramarinas.
+Art. 11.º - 1. Compete ao comissário nacional adjunto e ao comissário nacional adjunto para o ultramar coadjuvar o comissário nacional, o segundo no que interesse especìficamente às províncias ultramarinas.
 
 2. Nas faltas ou impedimentos do comissário nacional, substituí-lo-á o comissário nacional adjunto.
 
 3. Quanto ao comissário nacional adjunto para o ultramar, o diploma que regulamentar a sua competência será subscrito pelos Ministros do Ultramar e da Educação Nacional.
 
-###### Art. 12.º - 1. Compete ao assistente nacional para a formação moral ocupar-se dos aspectos respeitantes à formação moral da juventude.
+Art. 12.º - 1. Compete ao assistente nacional para a formação moral ocupar-se dos aspectos respeitantes à formação moral da juventude.
 
 2. Compete ao comissário nacional adjunto para a educação física ocupar-se dos aspectos respeitantes à formação gimnodesportiva da juventude.
 
-###### Art. 13.º Compete ao secretário assegurar a execução das deliberações da direcção e das ordens e instruções do comissário nacional, dirigindo e coordenando os diversos serviços.
+Art. 13.º Compete ao secretário assegurar a execução das deliberações da direcção e das ordens e instruções do comissário nacional, dirigindo e coordenando os diversos serviços.
 
 ##### SUBSECÇÃO II — Conselho consultivo
 
-###### Art. 14.º - 1. Haverá um conselho consultivo, presidido pelo comissário nacional e com a restante composição que o Ministro da Educação Nacional estabelecer em despacho.
+Art. 14.º - 1. Haverá um conselho consultivo, presidido pelo comissário nacional e com a restante composição que o Ministro da Educação Nacional estabelecer em despacho.
 
 2. Aos vogais do conselho consultivo aplicar-se-á o disposto no artigo 8.º, n.os 2 a 6, dele devendo fazer parte um representante do ultramar, indicado pelo respectivo Ministro.
 
-###### Art. 15.º Compete ao conselho consultivo formular sugestões sobre a actividade da Mocidade Portuguesa e emitir parecer, sem carácter vinculativo, sobre qualquer assunto que lhe seja submetido.
+Art. 15.º Compete ao conselho consultivo formular sugestões sobre a actividade da Mocidade Portuguesa e emitir parecer, sem carácter vinculativo, sobre qualquer assunto que lhe seja submetido.
 
-###### Art. 16.º - 1. O conselho consultivo terá reuniões ordinárias mensais e reuniões extraordinárias.
+Art. 16.º - 1. O conselho consultivo terá reuniões ordinárias mensais e reuniões extraordinárias.
 
 2. Nas primeiras, o conselho será informado, pelo comissário nacional, acerca do desenvolvimento da actividade da Mocidade Portuguesa.
 
@@ -227,7 +252,7 @@ e) Superintender em todos os serviços da Mocidade Portuguesa e actividades a es
 
 ##### SUBSECÇÃO III — Conselho administrativo
 
-###### Art. 17.º - 1. Haverá, ainda, um conselho administrativo constituído pelas seguintes pessoas:
+Art. 17.º - 1. Haverá, ainda, um conselho administrativo constituído pelas seguintes pessoas:
 
 a) Comissário nacional, que presidirá;
 
@@ -237,7 +262,7 @@ c) Secretário da direcção.
 
 2. O vogal referido na alínea b) é nomeado livremente pelo Ministro da Educação Nacional, sendo-lhe aplicável o disposto no artigo 8.º, n.os 2 a 6.
 
-###### Art. 18.º Compete ao conselho administrativo:
+Art. 18.º Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento;
 
@@ -253,19 +278,19 @@ f) Submeter à direcção as contas do exercício findo.
 
 ##### SUBSECÇÃO IV — Órgãos locais
 
-###### Art. 19.º Tudo quanto se refira a órgãos locais da Mocidade Portuguesa será regulado em portaria do Ministro da Educação Nacional.
+Art. 19.º Tudo quanto se refira a órgãos locais da Mocidade Portuguesa será regulado em portaria do Ministro da Educação Nacional.
 
 #### SECÇÃO III — Serviços da Mocidade Portuguesa
 
-###### Art. 20.º A actividade da Mocidade Portuguesa é assegurada por serviços cuja estrutura e atribuições serão definidas em despacho do Ministro da Educação Nacional, mediante prévia audiência do comissário nacional.
+Art. 20.º A actividade da Mocidade Portuguesa é assegurada por serviços cuja estrutura e atribuições serão definidas em despacho do Ministro da Educação Nacional, mediante prévia audiência do comissário nacional.
 
-###### Art. 21.º - 1. Nos mesmos termos serão definidas as normas a que deverá obedecer o ajuste do pessoal incumbido da execução dos referidos serviços.
+Art. 21.º - 1. Nos mesmos termos serão definidas as normas a que deverá obedecer o ajuste do pessoal incumbido da execução dos referidos serviços.
 
 2. A Mocidade Portuguesa disporá de um corpo de inspectores-orientadores.
 
 #### SECÇÃO IV — Receitas e despesas da Mocidade Portuguesa
 
-###### Art. 22.º Constituem receitas gerais da Mocidade Portuguesa:
+Art. 22.º Constituem receitas gerais da Mocidade Portuguesa:
 
 a) A dotação que, como subsídio, lhe for consignada no Orçamento Geral do Estado;
 
@@ -275,7 +300,7 @@ c) Os rendimentos dos capitais próprios;
 
 d) Quaisquer outras receitas permitidas por lei.
 
-###### Art. 23.º - 1. Constituir-se-á, sob a administração da Mocidade Portuguesa, um fundo de acção social escolar, com receitas próprias.
+Art. 23.º - 1. Constituir-se-á, sob a administração da Mocidade Portuguesa, um fundo de acção social escolar, com receitas próprias.
 
 2. Essas receitas serão as seguintes:
 
@@ -303,7 +328,7 @@ h) Os rendimentos de capitais do fundo.
 
 ##### SUBSECÇÃO I — Actividades circum-escolares
 
-###### Art. 24.º - 1. As actividades circum-escolares exercem-se no âmbito da escola, para além das disciplinas que formam o respectivo currículo, em vista à ocupação dos tempos livres.
+Art. 24.º - 1. As actividades circum-escolares exercem-se no âmbito da escola, para além das disciplinas que formam o respectivo currículo, em vista à ocupação dos tempos livres.
 
 2. As actividades circum-escolares destinam-se a completar a formação humana dos estudantes, afervorando neles o amor da Pátria e o culto dos demais valores da civilização cristã, fortalecendo o seu espírito de iniciativa e poder de organização e realização, ampliando a sua cultura, aperfeiçoando o seu sentido estético e virtudes morais e sociais, e desenvolvendo as suas aptidões físicas, dentro da orientação expressa no artigo 2.º.
 
@@ -311,11 +336,11 @@ h) Os rendimentos de capitais do fundo.
 
 4. As referidas actividades serão promovidas e orientadas, em cada escola, por um centro de actividades circum-escolares, e só por ele, e devem decorrer, como as escolares, num espírito de perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.
 
-###### Art. 25.º - 1. A Mocidade Portuguesa estimulará, orientará e coordenará, superiormente, as actividades circum-escolares, de modo a proporcionar-lhes condições de eficaz desenvolvimento e assegurar que elas atinjam os fins assinalados no artigo anterior.
+Art. 25.º - 1. A Mocidade Portuguesa estimulará, orientará e coordenará, superiormente, as actividades circum-escolares, de modo a proporcionar-lhes condições de eficaz desenvolvimento e assegurar que elas atinjam os fins assinalados no artigo anterior.
 
 2. Cada escola manterá toda a iniciativa consentida pelas exigências de coordenação com as actividades de outras escolas e pela necessidade de garantir a realização dos aludidos fins.
 
-###### Art. 26.º - 1. As actividades circum-escolares continuam a ser obrigatórias para os alunos da instrução primária, do 1.º ciclo do ensino liceal e do ciclo preparatório do ensino técnico profissional.
+Art. 26.º - 1. As actividades circum-escolares continuam a ser obrigatórias para os alunos da instrução primária, do 1.º ciclo do ensino liceal e do ciclo preparatório do ensino técnico profissional.
 
 2. Quanto aos restantes alunos, passam a ser obrigatórias as actividades que o reitor ou o director do estabelecimento de ensino como tais declare, de acordo com os meios materiais e humanos de que dispuser.
 
@@ -327,23 +352,23 @@ h) Os rendimentos de capitais do fundo.
 
 6. Os horários escolares deverão deixar, em cada semana, uma ou duas manhãs ou tardes livres, destinadas a actividades circum-escolares, nos termos a determinar em cada caso pelo Ministro da Educação Nacional.
 
-###### Art. 27.º - 1. As actividades circum-escolares devem ser organizadas e orientadas, sempre, de modo a, sem traição dos seus fins formativos, suscitarem nos alunos verdadeiro interesse, atraindo por si, quando facultativas, o maior número possível de estudantes e preenchendo parte dos seus tempos livres.
+Art. 27.º - 1. As actividades circum-escolares devem ser organizadas e orientadas, sempre, de modo a, sem traição dos seus fins formativos, suscitarem nos alunos verdadeiro interesse, atraindo por si, quando facultativas, o maior número possível de estudantes e preenchendo parte dos seus tempos livres.
 
 2. Nas escolas do magistério primário deve ter-se especialmente em vista que aos estudantes caberá, no futuro, dirigir, como professores, as actividades circum-escolares dos respectivos alunos.
 
 3. A igual objectivo se deve atender na elaboração dos programas e planos de actividades respeitantes ao estágio dos professores de ensino secundário.
 
-###### Art. 28.º É reservada à Mocidade Portuguesa a organização de competições desportivas escolares, com excepção das realizadas no âmbito do ensino superior.
+Art. 28.º É reservada à Mocidade Portuguesa a organização de competições desportivas escolares, com excepção das realizadas no âmbito do ensino superior.
 
 ##### SUBSECÇÃO II — Acção social escolar
 
-###### Art. 29.º A acção social escolar tem por fim:
+Art. 29.º A acção social escolar tem por fim:
 
 a) Proporcionar aos estudantes boas condições de estudo e de formação moral e cultural;
 
 b) Facilitar os estudos aos que para o efeito necessitem de auxílio.
 
-###### Art. 30.º - 1. Os meios tendentes a realizar o objectivo definido na alínea a) do artigo 29.º são, entre outros, os respeitantes a:
+Art. 30.º - 1. Os meios tendentes a realizar o objectivo definido na alínea a) do artigo 29.º são, entre outros, os respeitantes a:
 
 a) Saúde;
 
@@ -373,43 +398,43 @@ f) Abonos de família especiais.
 
 3. Os benefícios previstos no n.º 2 do presente artigo serão sempre condicionados ao bom aproveitamento e comportamento dos alunos a que respeitam, e alguns dos previstos no n.º 1 podem sê-lo, também, nos termos definidos ou a definir nas leis e regulamentos aplicáveis.
 
-###### Art. 31.º São livres quaisquer iniciativas, públicas ou privadas, que visem os objectivos referidos no artigo 29.º, desde que não contrariem os princípios e disposições da legislação vigente.
+Art. 31.º São livres quaisquer iniciativas, públicas ou privadas, que visem os objectivos referidos no artigo 29.º, desde que não contrariem os princípios e disposições da legislação vigente.
 
-###### Art. 32.º A Mocidade Portuguesa fomentará a acção social escolar, através do respectivo fundo instituído no artigo 23.º, quer promovendo-a directamente, quer estimulando e coordenando as iniciativas mencionadas no artigo anterior, às quais poderá prestar apoio técnico e financeiro e outras formas de auxílio.
+Art. 32.º A Mocidade Portuguesa fomentará a acção social escolar, através do respectivo fundo instituído no artigo 23.º, quer promovendo-a directamente, quer estimulando e coordenando as iniciativas mencionadas no artigo anterior, às quais poderá prestar apoio técnico e financeiro e outras formas de auxílio.
 
-###### Art. 33.º Dentro de cada estabelecimento de ensino, a acção social escolar ficará exclusivamente a cargo do centro de actividades circum-escolares, que a exercerá sob a superior orientação da Mocidade Portuguesa.
+Art. 33.º Dentro de cada estabelecimento de ensino, a acção social escolar ficará exclusivamente a cargo do centro de actividades circum-escolares, que a exercerá sob a superior orientação da Mocidade Portuguesa.
 
 ##### SUBSECÇÃO III — Actividades da juventude não escolar
 
-###### Art. 34.º A Mocidade Portuguesa promoverá a ocupação dos tempos livres da juventude não escolar, em colaboração com os serviços competentes do Ministério das Corporações e Previdência Social e do Ministério da Saúde e Assistência.
+Art. 34.º A Mocidade Portuguesa promoverá a ocupação dos tempos livres da juventude não escolar, em colaboração com os serviços competentes do Ministério das Corporações e Previdência Social e do Ministério da Saúde e Assistência.
 
 ##### SUBSECÇÃO IV — Centros de actividades circum-escolares
 
-###### Art. 35.º Haverá um centro de actividades circum-escolares em cada um dos estabelecimentos de ensino sujeitos à jurisdição da Mocidade Portuguesa, nos termos dos artigos 4.º e 24.º
+Art. 35.º Haverá um centro de actividades circum-escolares em cada um dos estabelecimentos de ensino sujeitos à jurisdição da Mocidade Portuguesa, nos termos dos artigos 4.º e 24.º
 
-###### Art. 36.º - 1. O centro tem como director o reitor ou director do estabelecimento de ensino.
+Art. 36.º - 1. O centro tem como director o reitor ou director do estabelecimento de ensino.
 
 2. Haverá um subdirector, escolhido de entre os professores, o qual coadjuvará o director e o substituirá nas suas faltas ou impedimentos.
 
-###### Art. 37.º - 1. O centro compreende várias secções, e estas podem por seu turno abranger diversos núcleos de actividades.
+Art. 37.º - 1. O centro compreende várias secções, e estas podem por seu turno abranger diversos núcleos de actividades.
 
 2. As secções são dirigidas por professores ou estudantes, e os núcleos por estudantes, coadjuvados, aqueles e estes, por outros alunos.
 
-###### Art. 38.º As actividades de cada secção, em geral, e de cada núcleo, em particular, serão permanentemente acompanhadas por um professor, que dará sobre elas conselhos e sugestões e suspenderá as decisões e práticas que considere ilegais ou inconvenientes.
+Art. 38.º As actividades de cada secção, em geral, e de cada núcleo, em particular, serão permanentemente acompanhadas por um professor, que dará sobre elas conselhos e sugestões e suspenderá as decisões e práticas que considere ilegais ou inconvenientes.
 
-###### Art. 39.º - 1. Os professores e estudantes chamados a exercer as funções referidas nos artigos anteriores são nomeados pelo director do centro.
+Art. 39.º - 1. Os professores e estudantes chamados a exercer as funções referidas nos artigos anteriores são nomeados pelo director do centro.
 
 2. As nomeações podem recair em antigos alunos da escola que conservem a condição de estudantes, quando assim se mostre necessário ou vantajoso.
 
 3. As nomeações são feitas por um ano escolar, podendo ser renovadas por iguais períodos, uma ou mais vezes, e podendo os nomeados ser livremente exonerados em qualquer momento.
 
-###### Art. 40.º O director do centro ouvirá com frequência os professores e estudantes com funções de chefia ou orientação e, eventualmente, também os seu adjuntos, em reuniões conjuntas ou separadas, para que poderá convocar um representante dos encarregados de educação, de modo a estabelecer-se entre todos estreita cooperação e melhor se atingirem os fins em vista.
+Art. 40.º O director do centro ouvirá com frequência os professores e estudantes com funções de chefia ou orientação e, eventualmente, também os seu adjuntos, em reuniões conjuntas ou separadas, para que poderá convocar um representante dos encarregados de educação, de modo a estabelecer-se entre todos estreita cooperação e melhor se atingirem os fins em vista.
 
-###### Art. 41.º O director do centro pode delegar no subdirector alguma ou algumas das suas competências ou a generalidade destas, com excepção apenas das previstas no artigo 39.º, sendo a delegação feita por um ano escolar, renovável uma ou mais vezes, e livremente retirável a todo o tempo.
+Art. 41.º O director do centro pode delegar no subdirector alguma ou algumas das suas competências ou a generalidade destas, com excepção apenas das previstas no artigo 39.º, sendo a delegação feita por um ano escolar, renovável uma ou mais vezes, e livremente retirável a todo o tempo.
 
-###### Art. 42.º As nomeações e reconduções respeitantes a professores, assim como a delegação prevista no artigo antecedente, estão sujeitas a homologação do comissário nacional, que a todo o tempo poderá também retirá-la.
+Art. 42.º As nomeações e reconduções respeitantes a professores, assim como a delegação prevista no artigo antecedente, estão sujeitas a homologação do comissário nacional, que a todo o tempo poderá também retirá-la.
 
-###### Art. 43.º - 1. São atribuições do centro:
+Art. 43.º - 1. São atribuições do centro:
 
 a) Aprovar o orçamento;
 
@@ -429,7 +454,7 @@ f) Elaborar o seu regulamento interno.
 
 4. Se o centro não cumprir o disposto no número anterior quanto ao regulamento, orçamento e planos de acção, dentro de prazos a fixar, poderá a Mocidade Portuguesa elaborá-los ela própria.
 
-###### Art. 44.º - 1. São receitas do centro:
+Art. 44.º - 1. São receitas do centro:
 
 a) A contribuição a satisfazer obrigatòriamente pelos alunos, com destino às actividades circum-escolares e à acção social escolar;
 
@@ -447,15 +472,15 @@ g) Quaisquer outras receitas permitidas por lei.
 
 2. A fixação do montante da contribuição prevista na alínea a) continua a ser matéria de despacho do Ministro da Educação Nacional, aí se regulando os demais aspectos do seu regime.
 
-###### Art. 45.º - 1. A Mocidade Portuguesa poderá conceder subsídios aos centros, quando as circunstâncias o justificarem.
+Art. 45.º - 1. A Mocidade Portuguesa poderá conceder subsídios aos centros, quando as circunstâncias o justificarem.
 
 2. Se um centro mantiver actividade reduzida e apresentar, em consequência disso, saldo de gerência superior a certo limite, a fixar em despacho do Ministro da Educação Nacional, poderá este determinar que o excedente reverta em benefício de outros centros, ouvida a Mocidade Portuguesa.
 
-###### Art. 46.º - 1. Haverá em cada centro uma comissão de contas, constituída pelo director do centro, que presidirá, e por um professor e um estudante, aos quais é aplicável o preceituado nos artigos 39.º e 42.º
+Art. 46.º - 1. Haverá em cada centro uma comissão de contas, constituída pelo director do centro, que presidirá, e por um professor e um estudante, aos quais é aplicável o preceituado nos artigos 39.º e 42.º
 
 2. É extensivo à referida comissão, devidamente adaptado, o disposto no artigo 18.º
 
-###### Art. 47.º - 1. O reitor ou director do estabelecimento de ensino porá ao serviço do centro as dependências e pessoal necessários, dentro das possibilidades.
+Art. 47.º - 1. O reitor ou director do estabelecimento de ensino porá ao serviço do centro as dependências e pessoal necessários, dentro das possibilidades.
 
 2. Quando se mostre conveniente, poderá a Mocidade Portuguesa, a solicitação do director do centro, incumbir de colaborar neste pessoal que nela presta serviço normalmente.
 
@@ -463,45 +488,45 @@ g) Quaisquer outras receitas permitidas por lei.
 
 4. Os professores não podem recusar o exercício dos cargos do centro para que forem nomeados, nem outra forma de colaboração que lhes for determinada pelo reitor ou director do estabelecimento de ensino.
 
-###### Art. 48.º A regulamentação constante da presente subsecção sofrerá, quanto às escolas primárias, as adaptações impostas pelas circunstâncias.
+Art. 48.º A regulamentação constante da presente subsecção sofrerá, quanto às escolas primárias, as adaptações impostas pelas circunstâncias.
 
 #### SECÇÃO VI — Disposições diversas
 
-###### Art. 49.º - 1. A Mocidade Portuguesa manterá centros especiais, como complemento da acção dos centros de actividade circum-escolares.
+Art. 49.º - 1. A Mocidade Portuguesa manterá centros especiais, como complemento da acção dos centros de actividade circum-escolares.
 
 2. A milícia passa a ter carácter facultativo, funcionando como centro especial.
 
-###### Art. 50.º - 1. Aos que desempenhem funções na Mocidade Portuguesa, ou lhe prestem colaboração, e não percebam dela uma retribuição em conformidade com o disposto no artigo 21.º, poderá o Ministro da Educação Nacional atribuir gratificações ou senhas de presença, cujo montante fixará em despacho.
+Art. 50.º - 1. Aos que desempenhem funções na Mocidade Portuguesa, ou lhe prestem colaboração, e não percebam dela uma retribuição em conformidade com o disposto no artigo 21.º, poderá o Ministro da Educação Nacional atribuir gratificações ou senhas de presença, cujo montante fixará em despacho.
 
 2. A anterior disposição é extensiva aos centros de actividades circum-escolares.
 
-###### Art. 51.º O comissário nacional pode autorizar a realização, por quaisquer pessoas de reconhecida competência, de trabalhos eventuais, em regime de prestação de serviços, mediante a remuneração que estabelecer caso a caso, dentro da verba para esse fim inscrita no orçamento da Mocidade Portuguesa.
+Art. 51.º O comissário nacional pode autorizar a realização, por quaisquer pessoas de reconhecida competência, de trabalhos eventuais, em regime de prestação de serviços, mediante a remuneração que estabelecer caso a caso, dentro da verba para esse fim inscrita no orçamento da Mocidade Portuguesa.
 
-###### Art. 52.º - 1. O tempo de serviço prestado à Mocidade Portuguesa ou aos centros de actividades circum-escolares pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, uma vez que a dispensa seja prèviamente autorizada por despacho ministerial.
+Art. 52.º - 1. O tempo de serviço prestado à Mocidade Portuguesa ou aos centros de actividades circum-escolares pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, uma vez que a dispensa seja prèviamente autorizada por despacho ministerial.
 
 2. A referida dispensa poderá ser total ou parcial.
 
 3. Os bons serviços prestados à Mocidade Portuguesa ou aos centros de actividades circum-escolares constituem razão de preferência na colocação dos professores.
 
-###### Art. 53.º - 1. Compete à Mocidade Portuguesa a orientação e inspecção das disciplinas escolares que têm por objecto a educação musical e a educação física, tanto no ensino público como no particular.
+Art. 53.º - 1. Compete à Mocidade Portuguesa a orientação e inspecção das disciplinas escolares que têm por objecto a educação musical e a educação física, tanto no ensino público como no particular.
 
 2. No que respeita ao ensino público, a nomeação dos professores eventuais das referidas disciplinas será feita sobre proposta da Mocidade Portuguesa.
 
 3. Os professores a que se refere o artigo 1.º do [Decreto-Lei n.º 32645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32645-1943-598291), de 26 de Janeiro de 1943, podem também ser recrutados de entre os que prestem serviço nos estabelecimentos de ensino dependentes da Direcção-Geral do Ensino Técnico Profissional ou de entre diplomados pelo Conservatório Nacional ou pelo Instituto Nacional de Educação Física.
 
-###### Art. 54.º O disposto nos artigos 24.º, n.º 4, e 33.º do presente decreto-lei deve entender-se sem prejuízo das actividades circum-escolares e formas de acção social escolar presentemente confiadas a outras entidades ou organismos, com existência legal.
+Art. 54.º O disposto nos artigos 24.º, n.º 4, e 33.º do presente decreto-lei deve entender-se sem prejuízo das actividades circum-escolares e formas de acção social escolar presentemente confiadas a outras entidades ou organismos, com existência legal.
 
-###### Art. 55.º A constituição e funcionamento das organizações, de carácter permanente ou transitório, que tenham por objecto actividades a exercer exclusiva ou predominantemente por jovens, fora do âmbito escolar, dependem de autorização do Ministro da Educação Nacional, ouvida a Mocidade Portuguesa, nos termos a definir em regulamento.
+Art. 55.º A constituição e funcionamento das organizações, de carácter permanente ou transitório, que tenham por objecto actividades a exercer exclusiva ou predominantemente por jovens, fora do âmbito escolar, dependem de autorização do Ministro da Educação Nacional, ouvida a Mocidade Portuguesa, nos termos a definir em regulamento.
 
-###### Art. 56.º A Mocidade Portuguesa está isenta de encargos fiscais e de licenças administrativas, nos mesmos termos do Estado.
+Art. 56.º A Mocidade Portuguesa está isenta de encargos fiscais e de licenças administrativas, nos mesmos termos do Estado.
 
-###### Art. 57.º A Mocidade Portuguesa pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante prévia autorização do Ministro da Educação Nacional, concedida caso a caso.
+Art. 57.º A Mocidade Portuguesa pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante prévia autorização do Ministro da Educação Nacional, concedida caso a caso.
 
-###### Art. 58.º São alargadas à Mocidade Portuguesa as vantagens de que goza a Manutenção Militar em matéria de aquisição de géneros alimentícios e outros produtos.
+Art. 58.º São alargadas à Mocidade Portuguesa as vantagens de que goza a Manutenção Militar em matéria de aquisição de géneros alimentícios e outros produtos.
 
-###### Art. 59.º A aplicação das verbas da Mocidade Portuguesa continua a depender de despacho do comissário nacional, sem sujeição aos preceitos da contabilidade pública.
+Art. 59.º A aplicação das verbas da Mocidade Portuguesa continua a depender de despacho do comissário nacional, sem sujeição aos preceitos da contabilidade pública.
 
-###### Art. 60.º - 1. As visitas de estudo e excursões de estudantes dependem de autorização.
+Art. 60.º - 1. As visitas de estudo e excursões de estudantes dependem de autorização.
 
 2. Essa autorização será dada pelo reitor ou director do estabelecimento de ensino quanto às visitas e excursões que se efectuem dentro do continente ou de qualquer dos distritos autónomos das ilhas adjacentes e não envolvam prejuízo de aulas ou sacrifiquem um dia de aulas no máximo.
 
@@ -509,13 +534,13 @@ g) Quaisquer outras receitas permitidas por lei.
 
 4. O plano de intercâmbio com o ultramar será aprovado pelos Ministros do Ultramar e da Educação Nacional.
 
-###### Art. 61.º Enquanto não forem expedidos novos regulamentos referentes à Mocidade Portuguesa, continuam em vigor os antigos, no que não colida com o espírito e disposições do presente diploma.
+Art. 61.º Enquanto não forem expedidos novos regulamentos referentes à Mocidade Portuguesa, continuam em vigor os antigos, no que não colida com o espírito e disposições do presente diploma.
 
-###### Art. 62.º É desde já extensivo à Mocidade Portuguesa Feminina, com as necessárias adaptações, o disposto nos artigos 5.º, 26.º, 28.º, 44.º, 45.º, 50.º, n.º 1, 51.º, 52.º, 53.º, 55.º, 56.º, 57.º, 58.º, 59.º e 60.º
+Art. 62.º É desde já extensivo à Mocidade Portuguesa Feminina, com as necessárias adaptações, o disposto nos artigos 5.º, 26.º, 28.º, 44.º, 45.º, 50.º, n.º 1, 51.º, 52.º, 53.º, 55.º, 56.º, 57.º, 58.º, 59.º e 60.º
 
-###### Art. 63.º O presente diploma entrará em vigor 30 dias após a sua publicação.
+Art. 63.º O presente diploma entrará em vigor 30 dias após a sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

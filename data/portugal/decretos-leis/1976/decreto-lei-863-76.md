@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/863-1976-407678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d227a9190b8f5e65992f02071a83b79af882243ac216b78a046c75cb1d390c91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0d10ce25b5e2720fa5d7cbba7c2f866a89434f90133db5c717daf900a42197f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Museu Nacional do Traje
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:470643:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470643:por
+  label: "Substituído o quadro de pessoal do Museu Nacional do Traje, pela PORT.503/80.12.08.1980.PCM, DR.IS [185] de 12.08.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1980-470643
+  date: '1980-08-12'
+- type: cites
+  target: pt:dre:312208:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:06Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +108,11 @@ Através do presente diploma, cria-se o Museu Nacional do Trajo e o Parque Botâ
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criado na dependência da Direcção-Geral do Património Cultural o Museu Nacional do Trajo, que se destina a promover a recolha de peças de indumentária de interesse histórico e artístico, tendo em vista a sua conservação, estudo e divulgação.
+Artigo 1.º - 1. É criado na dependência da Direcção-Geral do Património Cultural o Museu Nacional do Trajo, que se destina a promover a recolha de peças de indumentária de interesse histórico e artístico, tendo em vista a sua conservação, estudo e divulgação.
 
 2. O Museu Nacional do Trajo fica instalado no Palácio Palmela, ao Lumiar, e terá anexo o Parque Botânico do Monteiro-Mor.
 
-###### Art. 2.º O Museu compreende os seguintes sectores:
+Art. 2.º O Museu compreende os seguintes sectores:
 
 a) Sector técnico;
 
@@ -108,7 +120,7 @@ b) Sector de extensão cultural;
 
 e) Sector do apoio geral.
 
-###### Art. 3.º Ao sector técnico do Museu compete:
+Art. 3.º Ao sector técnico do Museu compete:
 
 a) A recolha de obras de arte e de documentação com elas relacionada, englobando, nomeadamente, os seguintes domínios:
 
@@ -126,9 +138,9 @@ c) A conservação e restauro das espécies, de modo a manter o seu estado e a s
 
 d) O estudo e divulgação dos objectos da colecção do Museu.
 
-###### Art. 4.º No sector técnico do Museu são criadas uma oficina de tratamento dos tecidos, cuja actividade será exercida em colaboração com o Instituto de José de Figueiredo, e um centro de estudos de história e da técnica dos tecidos.
+Art. 4.º No sector técnico do Museu são criadas uma oficina de tratamento dos tecidos, cuja actividade será exercida em colaboração com o Instituto de José de Figueiredo, e um centro de estudos de história e da técnica dos tecidos.
 
-###### Art. 5.º Ao sector de extensão cultural compete, designadamente:
+Art. 5.º Ao sector de extensão cultural compete, designadamente:
 
 a) A organização de visitas a exposições permanentes ou temporárias do Museu;
 
@@ -136,11 +148,11 @@ b) A divulgação das colecções do Museu por meios gráficos, áudio-visuais, 
 
 c) A realização de cursos, seminários, conferências e colóquios sobre a história e estética do trajo e técnica dos tecidos.
 
-###### Art. 6.º O sector de extensão cultural do Museu presta toda a colaboração que for solicitada por estabelecimentos de ensino, associações culturais e demais entidades públicas e privadas.
+Art. 6.º O sector de extensão cultural do Museu presta toda a colaboração que for solicitada por estabelecimentos de ensino, associações culturais e demais entidades públicas e privadas.
 
-###### Art. 7.º Ao sector de apoio geral compete a execução de tarefas administrativas e de vigilância, limpeza e conservação do Museu e do Parque anexo.
+Art. 7.º Ao sector de apoio geral compete a execução de tarefas administrativas e de vigilância, limpeza e conservação do Museu e do Parque anexo.
 
-###### Art. 8.º O Parque Botânico do Monteiro-Mor dispõe de um sector especializado que compreende:
+Art. 8.º O Parque Botânico do Monteiro-Mor dispõe de um sector especializado que compreende:
 
 a) Estufas, viveiros de árvores, arbustos e plantas herbáceas;
 
@@ -152,28 +164,28 @@ d) Museu de alfaias agrícolas;
 
 e) Centro de jardinagem.
 
-###### Art. 9.º O quadro do pessoal do Museu e do Parque Botânico é o constante do mapa anexo a este diploma.
+Art. 9.º O quadro do pessoal do Museu e do Parque Botânico é o constante do mapa anexo a este diploma.
 
-###### Art. 10.º - 1. O pessoal actualmente em serviço no Museu e no Parque Botânico é integrado em lugares do quadro, mediante lista aprovada pelo Secretário de Estado da Cultura, publicada no Diário da República, independentemente de qualquer formalidade, salvo o visto do Tribunal de Contas.
+Art. 10.º - 1. O pessoal actualmente em serviço no Museu e no Parque Botânico é integrado em lugares do quadro, mediante lista aprovada pelo Secretário de Estado da Cultura, publicada no Diário da República, independentemente de qualquer formalidade, salvo o visto do Tribunal de Contas.
 
 2. No provimento previsto no número anterior será sempre observado o requisito das habilitações legalmente necessárias para o exercício dos cargos.
 
-###### Art. 11.º O director do Museu do Trajo tem categoria e vencimento iguais aos do director do Museu Nacional de Arte Antiga, sendo nomeado, por livre escolha do Secretário de Estado da Cultura, de entre licenciados com curso superior adequado, em regime de comissão de serviço, por três anos.
+Art. 11.º O director do Museu do Trajo tem categoria e vencimento iguais aos do director do Museu Nacional de Arte Antiga, sendo nomeado, por livre escolha do Secretário de Estado da Cultura, de entre licenciados com curso superior adequado, em regime de comissão de serviço, por três anos.
 
-###### Art. 12.º As regras relativas ao provimento e promoção dos funcionários do quadro serão objecto de regulamento aprovado por decreto da Presidência do Conselho de Ministros e do Ministério da Administração Interna.
+Art. 12.º As regras relativas ao provimento e promoção dos funcionários do quadro serão objecto de regulamento aprovado por decreto da Presidência do Conselho de Ministros e do Ministério da Administração Interna.
 
-###### Art. 13.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 14 de Dezembro de 1976.**
+Promulgado em 14 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 9.º do Decreto-Lei n.º 863/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/29800/28212822.pdf))](https://files.diariodarepublica.pt/1s/1976/12/29800/28212822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/29800/28212822.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1970-227788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e64a2af749b8419f065c7fb8e4657e24bbce0f9dd3d12885ab65fac48b1ac249
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68c0ef4e1e70498ea6fb1815425821ba0b923d607d3ec5d75439858301eb1488
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:150153:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:47Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A medalha de bons serviços no ultramar destina-se a galardoar os serviços, tanto individuais como colectivos, considerados assíduos, de dedicação e mérito e distintos ou relevantes prestados à Pátria, à civilização ou à humanidade.
+Artigo 1.º A medalha de bons serviços no ultramar destina-se a galardoar os serviços, tanto individuais como colectivos, considerados assíduos, de dedicação e mérito e distintos ou relevantes prestados à Pátria, à civilização ou à humanidade.
 
 Compreende três classes:
 
@@ -100,9 +104,9 @@ b) Dedicação e mérito, de cobre e prata;
 
 c) Serviços distintos ou relevantes, de prata e ouro.
 
-###### Art. 2.º A medalha de bons serviços no ultramar obedecerá aos modelos que se publicam em anexo ao presente diploma.
+Art. 2.º A medalha de bons serviços no ultramar obedecerá aos modelos que se publicam em anexo ao presente diploma.
 
-###### Art. 3.º - 1. A medalha de bons serviços no ultramar usar-se-á no lado direito do peito, pendente de fita de seda ondeada, de 0,03 m de largura; a fivela respectiva terá o comprimento indispensável para a passagem da fita e 0,009 m de altura.
+Art. 3.º - 1. A medalha de bons serviços no ultramar usar-se-á no lado direito do peito, pendente de fita de seda ondeada, de 0,03 m de largura; a fivela respectiva terá o comprimento indispensável para a passagem da fita e 0,009 m de altura.
 
 2. A fita da classe de assiduidade será dividida longitudinalmente em nove faixas iguais, sendo quatro pretas e as cinco restantes encarnadas.
 
@@ -114,7 +118,7 @@ c) Serviços distintos ou relevantes, de prata e ouro.
 
 Medalha de assiduidade de serviço
 
-###### Art. 4.º - 1. A medalha de assiduidade de serviço é concedida:
+Art. 4.º - 1. A medalha de assiduidade de serviço é concedida:
 
 a) A de cobre, por uma só vez, a militares e a funcionários civis que tenham dez anos de serviço no ultramar, sendo, pelo menos, três consecutivos;
 
@@ -126,13 +130,13 @@ c) A de ouro, ainda por uma só vez, a militares e a funcionários civis que ten
 
 3. Aos naturais de uma província ultramarina que data da sua nomeação estiverem residindo nessa província só é contado o tempo de serviço que prestarem noutras províncias ultramarinas.
 
-###### Art. 5.º Se a medalha de assiduidade de serviço se reportar a tempo prestado em várias províncias, a concessão será feita por portaria do Ministro, publicada na íntegra no Diário do Governo e transcrita nos Boletins Oficiais das províncias a que aquele tempo respeitar. Se a medalha se reportar a tempo prestado numa única província, a concessão será feita pelo respectivo governador, por meio de portaria inserta na íntegra no Boletim Oficial.
+Art. 5.º Se a medalha de assiduidade de serviço se reportar a tempo prestado em várias províncias, a concessão será feita por portaria do Ministro, publicada na íntegra no Diário do Governo e transcrita nos Boletins Oficiais das províncias a que aquele tempo respeitar. Se a medalha se reportar a tempo prestado numa única província, a concessão será feita pelo respectivo governador, por meio de portaria inserta na íntegra no Boletim Oficial.
 
 Medalha de dedicação e mérito
 
-###### Art. 6.º - 1. A medalha de dedicação e mérito destina-se a galardoar a dedicação, os bons serviços ou o mérito de militares e civis que satisfaçam as condições previstas neste diploma.
+Art. 6.º - 1. A medalha de dedicação e mérito destina-se a galardoar a dedicação, os bons serviços ou o mérito de militares e civis que satisfaçam as condições previstas neste diploma.
 
-###### Art. 7.º A medalha de cobre é concedida em especial:
+Art. 7.º A medalha de cobre é concedida em especial:
 
 a) Aos militares, agentes de corpos militarizados e auxiliares da administração civil, quando, nas províncias ultramarinas, tenham mais de dez anos de serviço consecutivo e comportamento exemplar ou hajam praticado, mesmo em tempo de paz, acção pelos seus chefes considerada importante;
 
@@ -142,7 +146,7 @@ c) Aos servidores do Estado que tenham demonstrado excepcionais qualidades dentr
 
 d) A todos os indivíduos que, com nítida compreensão dos seus deveres humanitários e cívicos, no caso de incêndio, alteração de ordem pública ou noutras circunstâncias difíceis, tenham colaborado no salvamento de vidas e haveres e se tenham distinguido pela sua dedicação, sangue-frio ou bravura.
 
-###### Art. 8.º A medalha de prata destina-se a premiar feitos considerados singularmente importantes e será concedida em especial:
+Art. 8.º A medalha de prata destina-se a premiar feitos considerados singularmente importantes e será concedida em especial:
 
 a) Aos que em campanha, quer como combatentes, quer como auxiliares, tenham praticado feito considerado notável;
 
@@ -152,17 +156,17 @@ c) Aos militares, servidores do Estado e autoridades auxiliares da administraç�
 
 d) Aos que, tendo sido condecorados com a medalha de cobre desta classe, por seus feitos ou comportamento, venham a merecer segunda medalha de cobre.
 
-###### Art. 9.º Depois de concedida a medalha de prata, as novas distinções dentro da mesma classe serão atribuídas mediante a inserção de fivelas na fita da mesma medalha.
+Art. 9.º Depois de concedida a medalha de prata, as novas distinções dentro da mesma classe serão atribuídas mediante a inserção de fivelas na fita da mesma medalha.
 
-###### Art. 10.º O processo para a concessão da medalha de dedicação e mérito será organizado pelo chefe sob cujas ordens o proposto servir ou pela entidade administrativa local e conterá todos os elementos necessários para sua apreciação. Depois de informada pelas repartições competentes, a proposta subirá ao governador da província; a concessão faz-se mediante portaria desta autoridade, inserta no Boletim Oficial.
+Art. 10.º O processo para a concessão da medalha de dedicação e mérito será organizado pelo chefe sob cujas ordens o proposto servir ou pela entidade administrativa local e conterá todos os elementos necessários para sua apreciação. Depois de informada pelas repartições competentes, a proposta subirá ao governador da província; a concessão faz-se mediante portaria desta autoridade, inserta no Boletim Oficial.
 
 Medalha de serviços distintos ou relevantes
 
-###### Art. 11.º A medalha de serviços distintos ou relevantes pode ser concedida a cidadãos, militares eu civis, e a pessoas colectivas de direito público ou utilidade pública que em qualquer caso se tenham distinguido pelo seu mérito, esforço, dedicação, bravura ou coragem em actos isolados ou em acções continuadas ao serviço da Pátria, da civilização ou da humanidade nas províncias ultramarinas e que por isso sejam julgados merecedores de especial galardão.
+Art. 11.º A medalha de serviços distintos ou relevantes pode ser concedida a cidadãos, militares eu civis, e a pessoas colectivas de direito público ou utilidade pública que em qualquer caso se tenham distinguido pelo seu mérito, esforço, dedicação, bravura ou coragem em actos isolados ou em acções continuadas ao serviço da Pátria, da civilização ou da humanidade nas províncias ultramarinas e que por isso sejam julgados merecedores de especial galardão.
 
-###### Art. 12.º A medalha de serviços distintos ou relevantes pode ser concedida a nacionais ou a estrangeiros em vida ou a título póstumo.
+Art. 12.º A medalha de serviços distintos ou relevantes pode ser concedida a nacionais ou a estrangeiros em vida ou a título póstumo.
 
-###### Art. 13.º - 1. Entre outros, são considerados serviços distintos ou relevantes, para os efeitos do presente diploma, os seguintes:
+Art. 13.º - 1. Entre outros, são considerados serviços distintos ou relevantes, para os efeitos do presente diploma, os seguintes:
 
 a) Os actos de excepcional coragem e bravura, quando praticados em campanha;
 
@@ -180,25 +184,25 @@ f) A prestação de serviços á causa da assistência ou da saúde pública, no
 
 3. Não são considerados para os efeitos deste artigo os relatórios que tenham de ser feitos por força da lei ou por virtude da própria natureza do cargo e outros serviços julgados suficientemente recompensados.
 
-###### Art. 14.º Em regra, a medalha de prata precede a de ouro, mas esta última pode ser concedida independentemente da primeira se se considerar que os serviços prestados o justificam pelo seu excepcional relevo.
+Art. 14.º Em regra, a medalha de prata precede a de ouro, mas esta última pode ser concedida independentemente da primeira se se considerar que os serviços prestados o justificam pelo seu excepcional relevo.
 
-###### Art. 15.º A medalha, tanto de prata como de ouro, pode levar na barra da fivela a indicação sucinta dos actos galardoados e da data deles, quando se julgar que estes, têm especial importância. A medalha de ouro levará sempre fivela quando tiver sido precedida da de prata; a respectiva barra, neste caso, terá inscrita a data da concessão da medalha de prata. Se posteriormente à concessão da medalha de ouro houver outros factos distintos ou relevantes a galardoar, as novas distinções serão concedidas através de fivelas a inserir na fita da medalha de ouro.
+Art. 15.º A medalha, tanto de prata como de ouro, pode levar na barra da fivela a indicação sucinta dos actos galardoados e da data deles, quando se julgar que estes, têm especial importância. A medalha de ouro levará sempre fivela quando tiver sido precedida da de prata; a respectiva barra, neste caso, terá inscrita a data da concessão da medalha de prata. Se posteriormente à concessão da medalha de ouro houver outros factos distintos ou relevantes a galardoar, as novas distinções serão concedidas através de fivelas a inserir na fita da medalha de ouro.
 
-###### Art. 16.º A concessão da medalha de serviços distintos ou relevantes é feita por decreto do Ministro do Ultramar, em que se especifiquem os serviços que motivaram a recompensa e, se for caso disso, as datas e locais em que ocorreram, sendo a publicação do decreto feita na íntegra no Diário do Governo e transcrita nos Boletins Oficiais de todas as províncias ultramarinas.
+Art. 16.º A concessão da medalha de serviços distintos ou relevantes é feita por decreto do Ministro do Ultramar, em que se especifiquem os serviços que motivaram a recompensa e, se for caso disso, as datas e locais em que ocorreram, sendo a publicação do decreto feita na íntegra no Diário do Governo e transcrita nos Boletins Oficiais de todas as províncias ultramarinas.
 
-###### Art. 17.º A medalha não pode ser concedida como prémio de serviços que tenham sido agraciados com outra mercê honorífica, com excepção da cruz de guerra, da medalha da classe de valor militar, quando haja sido concedida por feitos em campanha, e das medalhas comemorativas de campanhas, expedições ou outras de idêntica significação.
+Art. 17.º A medalha não pode ser concedida como prémio de serviços que tenham sido agraciados com outra mercê honorífica, com excepção da cruz de guerra, da medalha da classe de valor militar, quando haja sido concedida por feitos em campanha, e das medalhas comemorativas de campanhas, expedições ou outras de idêntica significação.
 
-###### Art. 18.º A medalha de serviços distintos ou relevantes é concedida:
+Art. 18.º A medalha de serviços distintos ou relevantes é concedida:
 
 a) Por iniciativa do Ministro do Ultramar;
 
 b) Por iniciativa dos governadores das províncias ultramarinas.
 
-###### Art. 19.º - 1. Para a concessão da medalha, nos termos da alínea b) do artigo anterior, deverá ser ouvido previamente o Conselho Superior de Disciplina do Ultramar, e será igualmente ouvido o Conselho quando a concessão se faça nos termos da alínea a) e se pretenda que a medalha leve na barra da fivela a indicação dos serviços prestados e a sua data.
+Art. 19.º - 1. Para a concessão da medalha, nos termos da alínea b) do artigo anterior, deverá ser ouvido previamente o Conselho Superior de Disciplina do Ultramar, e será igualmente ouvido o Conselho quando a concessão se faça nos termos da alínea a) e se pretenda que a medalha leve na barra da fivela a indicação dos serviços prestados e a sua data.
 
 2. O acórdão do Conselho Superior de Disciplina do Ultramar só será publicado, e sempre a pedido dos interessados, se tiver sido favorável à concessão da medalha ou da fivela com inscrição na respectiva barra.
 
-###### Art. 20.º - 1. Para a concessão da medalha, nos termos da alínea b) do artigo 18.º, é indispensável que na proposta ou em louvor dado pelo Ministro do Ultramar ou governador das províncias ultramarinas se especifiquem, pormenorizada e individualmente, os actos considerados distintos ou relevantes, sua natureza e importância para o ultramar português, para a civilização ou para a humanidade.
+Art. 20.º - 1. Para a concessão da medalha, nos termos da alínea b) do artigo 18.º, é indispensável que na proposta ou em louvor dado pelo Ministro do Ultramar ou governador das províncias ultramarinas se especifiquem, pormenorizada e individualmente, os actos considerados distintos ou relevantes, sua natureza e importância para o ultramar português, para a civilização ou para a humanidade.
 
 2. A proposta de concessão da medalha subirá ao Ministro do Ultramar instruída com os seguintes elementos:
 
@@ -208,13 +212,13 @@ b) Por iniciativa dos governadores das províncias ultramarinas.
 
 3.º Cópia do registo biográfico ou da nota de assentos do interessado com a indicação de todos os louvores que tenha merecido ou castigos que haja sofrido, bem como de outros elementos referentes à sua vida de funcionário ou de militar que interessem para a apreciação da proposta. Da cópia do registo biográfico ou da nota de assentos será dado prévio conhecimento ao interessado, a fim de que possa, se for caso disso, fornecer elementos para que tais documentos sejam completados.
 
-###### Art. 21.º - 1. Quando a medalha de serviços distintos ou relevantes for concedida a pessoas colectivas, no diploma de concessão indicar-se-ão, se se julgar conveniente, os indivíduos que poderão usar fita distintiva com as cores da medalha concedida, mas nunca a medalha em si.
+Art. 21.º - 1. Quando a medalha de serviços distintos ou relevantes for concedida a pessoas colectivas, no diploma de concessão indicar-se-ão, se se julgar conveniente, os indivíduos que poderão usar fita distintiva com as cores da medalha concedida, mas nunca a medalha em si.
 
 2. A proposta fundamentada para a concessão da medalha de serviços distintos ou relevantes a pessoas colectivas será apreciada pelo Conselho Superior de Disciplina do Ultramar nos termos do artigo 19.º
 
 Disposições gerais
 
-###### Art. 22.º Não pode ser concedida a medalha de bons serviços no ultramar, em qualquer das classes:
+Art. 22.º Não pode ser concedida a medalha de bons serviços no ultramar, em qualquer das classes:
 
 a) Aos que hajam perdido a qualidade de cidadão português por motivo desonroso;
 
@@ -224,13 +228,13 @@ c) Aos funcionários civis a quem seja aplicada a pena de suspensão de exercíc
 
 d) Aos indivíduos condenados em alguma das penas do Código de Justiça Militar ou do Código Penal, que tenham ainda como sanção aplicável a perda da qualidade de militar ou de funcionário civil.
 
-###### Art. 23.º Perdem o direito de usar a medalha de bons serviços no ultramar:
+Art. 23.º Perdem o direito de usar a medalha de bons serviços no ultramar:
 
 a) Os que venham a ficar incursos em qualquer das alíneas do artigo anterior;
 
 b) Os que por outros motivos supervenientes venham a ser considerados indignos do galardão recebido, mediante processo em que seja garantida a defesa do arguido.
 
-###### Art. 24.º - 1. O cancelamento da medalha de bons serviços no ultramar é da competência do Ministro, sob proposta das entidades a que se refere a alínea b) do artigo 18.º
+Art. 24.º - 1. O cancelamento da medalha de bons serviços no ultramar é da competência do Ministro, sob proposta das entidades a que se refere a alínea b) do artigo 18.º
 
 2. Os processos de cancelamento respeitantes a militares ou a agentes dos corpos militarizados são organizados pelos comandos respectivos; os respeitantes a funcionários civis, a autoridades auxiliares da administração civil, a pessoas colectivas, a particulares e a estrangeiros são organizados pelas repartições competentes das províncias ultramarinas ou do Ministério.
 
@@ -238,15 +242,15 @@ b) Os que por outros motivos supervenientes venham a ser considerados indignos d
 
 4. Sobre os processos emitirá parecer o Conselho Superior de Disciplina do Ultramar sempre que a proposta de cancelamento não resultar de condenação judicial ou disciplinar.
 
-###### Art. 25.º Os condecorados com qualquer das classes da medalha de bons serviços no ultramar, quando não façam uso das respectivas insígnias, que em regra só usarão em actos solenes, usarão ao peito, do lado respectivo, a fita com as cores correspondentes à classe que possuírem e a fivela indicativa do grau com que foram agraciados.
+Art. 25.º Os condecorados com qualquer das classes da medalha de bons serviços no ultramar, quando não façam uso das respectivas insígnias, que em regra só usarão em actos solenes, usarão ao peito, do lado respectivo, a fita com as cores correspondentes à classe que possuírem e a fivela indicativa do grau com que foram agraciados.
 
-###### Art. 26.º Até ao dia 31 de Outubro de cada ano os governadores das províncias ultramarinas remeterão ao Ministério do Ultramar as propostas de concessão de medalhas de serviços distintos e relevantes.
+Art. 26.º Até ao dia 31 de Outubro de cada ano os governadores das províncias ultramarinas remeterão ao Ministério do Ultramar as propostas de concessão de medalhas de serviços distintos e relevantes.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Novembro de 1969.**
+Promulgado em 24 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -254,14 +258,14 @@ Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 Medalha de assiduidade de serviço no ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf))](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf)
 
 Medalha de dedicação e mérito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf))](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf)
 
 Medalha de serviços distintos ou relevantes no ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf))](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/02/03400/01930196.pdf)
 
 Ministério do Ultramar, 24 de Novembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

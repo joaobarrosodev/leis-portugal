@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/469-1971-631401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc2fc8108a6a33722e4bdb64b8e2c992ead8c20e5ff7fd3f9327f457db7313e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b2e4e180bd54df58f7839fcb8d4a3ebf6975dbd72546702602f955a9b1c9828
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:50Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +96,16 @@ Nos termos do § 1.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 3.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É suspenso por um prazo de cinco anos, após a entrada em exploração definitiva da variante do Cubal, o exercício do direito de resgate da concessão do caminho de ferro de Benguela, previsto no artigo 56.º do contrato aprovado por decreto de 28 de Novembro de 1902.
+Artigo 1.º É suspenso por um prazo de cinco anos, após a entrada em exploração definitiva da variante do Cubal, o exercício do direito de resgate da concessão do caminho de ferro de Benguela, previsto no artigo 56.º do contrato aprovado por decreto de 28 de Novembro de 1902.
 
-###### Art. 2.º As disposições deste decreto consideram-se, para todos os efeitos, como fazendo parte integrante do contrato da concessão, aprovado por decreto de 28 de Novembro de 1902.
+Art. 2.º As disposições deste decreto consideram-se, para todos os efeitos, como fazendo parte integrante do contrato da concessão, aprovado por decreto de 28 de Novembro de 1902.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Outubro de 1971.**
+Promulgado em 23 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

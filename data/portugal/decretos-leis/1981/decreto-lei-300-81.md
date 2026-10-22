@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/25500/29322933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1981-569131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d133b40e452a1b25d664ef53addf39739b32c2ec6a0515f294ec9d3270bb2e50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43983966cb1b5bb18f42a3ac03fbde5bd1485a67c3e67980c3a177d99b1614d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Empregos
+- Ensino Particular
+- Ensino Preparatório
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:411815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:567961:por
+  label: Rectificado pela DECL.DD6277.16.11.1981.PCM, DR.IS [273] de 26.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-567961
+  date: '1981-11-16'
+- type: repealed_by
+  target: pt:dre:411815:por
+  label: "Revogado pelo DEC LEI.139-A/90.28.04.1990.ME, DR.IS [98-Supl] de 28.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-a-1990-411815
+  date: '1990-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:20Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +124,9 @@ Considerando o disposto no Estatuto do Ensino Particular e Cooperativo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, n.º 2, 10.º, 11.º e 13.º, n.º 2, do [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, n.º 2, 10.º, 11.º e 13.º, n.º 2, do [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - O estabelecido no número anterior só é aplicável desde que se verifiquem cumulativamente as seguintes condições:
 
@@ -113,7 +136,7 @@ b) ...
 
 c) Tratando-se do ensino de técnicas especiais do ensino secundário, seja o proposto reconhecido, por despacho ministerial, como idoneamente apto para a docência, ainda que o mesmo não seja portador de habilitações próprias e se encontrem esgotadas todas as possibilidades de recrutamento.
 
-###### Art. 10.º - 1 - O disposto no n.º 1 do artigo 5.º e nos artigos 6.º e 7.º deste diploma é aplicável ao ensino particular, desde que se verifique alguma ou algumas das seguintes condições:
+Art. 10.º - 1 - O disposto no n.º 1 do artigo 5.º e nos artigos 6.º e 7.º deste diploma é aplicável ao ensino particular, desde que se verifique alguma ou algumas das seguintes condições:
 
 a) Carência, no ensino particular, de professores portadores de habilitações próprias, nomeadamente em regiões periféricas ou isoladas;
 
@@ -129,20 +152,20 @@ c) Tratar-se do exercício de funções docentes em estabelecimentos de ensino d
 
 5 - A autorização prevista no número anterior será requerida, em papel selado, pelo director do estabelecimento de ensino particular, e o requerimento será acompanhado por declarações de concordância do professor interessado e do responsável pelo estabelecimento de ensino oficial a que o mesmo se encontra vinculado no ano escolar a que respeita a acumulação.
 
-###### Art. 11.º - 1 - Os estabelecimentos de ensino oficial poderão propor a nomeação de professores em regime de acumulação, nas condições definidas no presente diploma, até 30 de Novembro do ano escolar a que as mesmas nomeações respeitam, salvo em casos excepcionais resultantes de situações supervenientes àquela data, reconhecidos por despacho ministerial.
+Art. 11.º - 1 - Os estabelecimentos de ensino oficial poderão propor a nomeação de professores em regime de acumulação, nas condições definidas no presente diploma, até 30 de Novembro do ano escolar a que as mesmas nomeações respeitam, salvo em casos excepcionais resultantes de situações supervenientes àquela data, reconhecidos por despacho ministerial.
 
 2 - As autorizações das nomeações previstas no n.º 1 deste artigo serão concedidas, ouvidas as respectivas Direcções-Gerais, por despacho do director-geral de Pessoal, que recairá em proposta fundamentada do estabelecimento de ensino interessado.
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - São solidariamente responsáveis pelo cumprimento do estabelecido neste diploma os docentes, os membros dos conselhos administrativos, os directores dos estabelecimentos de ensino particular, os directores dos distritos escolares e os directores das escolas do magistério primário e das escolas normais de educadores de infância, conforme os casos, que, em resultado de processo disciplinar, forem considerados implicados na irregularidade.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 27 de Outubro de 1981.**
+Promulgado em 27 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20500/18341841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1978-329869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c16f4cef08b1f4ef45765310f04190a7d9163388e36abe1fc58e4b791baa5c9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8473763068e00481d4d68428f2c5d38334236bc6b382d72fb4b492c5b184b15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Empresa Pública de Parques Industriais
+- Estabelecimento Industrial
+- Estatuto
+- Instalação de Serviços
+- Licenciamento
+- Ordenamento do Território
+- Parque Industrial
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:428235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674846:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
+  article_count: 41
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:28Z'
   warnings: []
   errors: []
 ---
@@ -124,29 +160,29 @@ Uma revisão da legislação em vigor sobre parques industriais permitirá, assi
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São aprovadas as alterações ao Estatuto da Empresa Pública de Parques Industriais, que passarão a ter a redacção constante do anexo ao presente decreto-lei, que dele se considera parte integrante.
+Artigo 1.º - 1 - São aprovadas as alterações ao Estatuto da Empresa Pública de Parques Industriais, que passarão a ter a redacção constante do anexo ao presente decreto-lei, que dele se considera parte integrante.
 
 2 - O Estatuto agora aprovado substitui o anterior, aprovado pelo [Decreto-Lei n.º 133/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1973-674846), de 28 de Março, e alterado pelo [Decreto-Lei n.º 252/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1974-622835), de 12 de Junho, com excepção do artigo 36.º deste, o qual se mantém em vigor.
 
-###### Art. 2.º Continuam aplicáveis à Empresa Pública de Parques Industriais as disposições do [Decreto-Lei n.º 382/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1976-428235), de 20 de Maio.
+Art. 2.º Continuam aplicáveis à Empresa Pública de Parques Industriais as disposições do [Decreto-Lei n.º 382/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1976-428235), de 20 de Maio.
 
-###### Art. 3.º - 1 - Os poderes de tutela do Governo sobre a Empresa Pública de Parques Industriais são exercidos pelo Ministério da Indústria e Tecnologia.
+Art. 3.º - 1 - Os poderes de tutela do Governo sobre a Empresa Pública de Parques Industriais são exercidos pelo Ministério da Indústria e Tecnologia.
 
 2 - Sempre que se torne necessária a autorização ou aprovação de outros Ministros para actos da Empresa competirá ao Ministro da Indústria e Tecnologia providenciar pela sua obtenção.
 
-###### Art. 4.º O capital estatutário da EPPI será fixado nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, que regerá também no respeitante às suas posteriores alterações.
+Art. 4.º O capital estatutário da EPPI será fixado nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, que regerá também no respeitante às suas posteriores alterações.
 
-###### Art. 5.º As alterações ao Estatuto, anexo ao presente diploma, far-se-ão por decreto referendado pelo Primeiro-Ministro, pelo Ministro das Finanças e do Plano e pelo Ministro da Indústria e Tecnologia.
+Art. 5.º As alterações ao Estatuto, anexo ao presente diploma, far-se-ão por decreto referendado pelo Primeiro-Ministro, pelo Ministro das Finanças e do Plano e pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do Estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeite a mais de um Ministério.
+Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do Estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeite a mais de um Ministério.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Carlos Montês Melancia.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA EMPRESA PÚBLICA DE PARQUES INDUSTRIAIS - EPPI
 
@@ -564,4 +600,4 @@ Os trabalhadores da EPPI exercerão através dos seus órgãos representativos t
 
 A EPPI mantém o regime fiscal previsto no artigo 36.º do [Decreto-Lei n.º 133/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1973-674846), de 28 de Março, por força do disposto no n.º 2 do artigo 1.º do diploma do qual o presente Estatuto é anexo e parte integrante.
 
-**O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.**
+O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.

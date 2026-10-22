@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/03800/02250230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1974-407498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ce38d6c925ceae6f9873b3e11e12d7b978f945f56fd5078406444a7c6988002
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 923147761180fef6875093a3ef86595a2ed50b8ef390a35f6f4490b491dd7648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho Consultivo
+- Criação de Serviços
+- Definição de Competências
+- Fundo de Fomento Industrial
+- Gestão Financeira
+- Integração de Serviços
+- Secretaria de Estado da Indústria
+- Serviço de Apoio ao Investidor
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:09Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +133,13 @@ Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do art
 
 ### CAPÍTULO I — Natureza, funções e competência
 
-###### Artigo 1.º - 1. Nos termos do disposto no n.º 1 da base XXII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, é criado na Secretaria de Estado da Indústria o Fundo de Fomento Industrial, organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
+Artigo 1.º - 1. Nos termos do disposto no n.º 1 da base XXII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, é criado na Secretaria de Estado da Indústria o Fundo de Fomento Industrial, organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
 
 2. O Fundo de Fomento Industrial reger-se-á pelas disposições do presente decreto-lei e pelas dos regulamentos que em sua execução vierem a ser publicados.
 
-###### Art. 2.º Incumbe basicamente ao Fundo assegurar, em cooperação com os demais órgãos e serviços da Secretaria de Estado da Indústria, a execução da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) no respeitante à concessão dos benefícios e a outras medidas nela previstas para estímulo, orientação e apoio da iniciativa privada, tendo em conta os objectivos da política industrial.
+Art. 2.º Incumbe basicamente ao Fundo assegurar, em cooperação com os demais órgãos e serviços da Secretaria de Estado da Indústria, a execução da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) no respeitante à concessão dos benefícios e a outras medidas nela previstas para estímulo, orientação e apoio da iniciativa privada, tendo em conta os objectivos da política industrial.
 
-###### Art. 3.º Tendo em atenção o disposto no n.º 1 da base XXIII da referida lei, compete especialmente ao Fundo:
+Art. 3.º Tendo em atenção o disposto no n.º 1 da base XXIII da referida lei, compete especialmente ao Fundo:
 
 a) Estudar e propor os modos de efectivação dos incentivos fiscais previstos na base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856);
 
@@ -136,7 +167,7 @@ l) Promover, nomeadamente em ligação com o Fundo de Desenvolvimento da Mão-de
 
 m) Fomentar a constituição de agrupamentos complementares de empresas e das pessoas colectivas referidas no n.º 5 da base XXV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) e apoiar as suas actividades.
 
-###### Art. 4.º Para o desempenho das suas atribuições, poderá o Fundo:
+Art. 4.º Para o desempenho das suas atribuições, poderá o Fundo:
 
 a) Realizar, encomendar, financiar ou subsidiar os estudos necessários;
 
@@ -146,9 +177,9 @@ c) Contactar com quaisquer entidades nacionais, promovendo as ligações, acordo
 
 d) Tomar a iniciativa de propor quaisquer medidas que entenda por convenientes para a realização dos objectivos da política industrial a seu cargo.
 
-###### Art. 5.º O Fundo poderá assumir, em nome do Estado e no quadro de acordos estabelecidos com as empresas interessadas, o compromisso de oportuna concessão de quaisquer benefícios previstos na lei.
+Art. 5.º O Fundo poderá assumir, em nome do Estado e no quadro de acordos estabelecidos com as empresas interessadas, o compromisso de oportuna concessão de quaisquer benefícios previstos na lei.
 
-###### Art. 6.º - 1. Nos termos da alínea d) do artigo 3.º, poderá o Fundo:
+Art. 6.º - 1. Nos termos da alínea d) do artigo 3.º, poderá o Fundo:
 
 a) Tomar a seu cargo, até ao limite que em cada caso for julgado aconselhável, parte dos custos de financiamento que os empresários deveriam normalmente suportar, incluindo a compensação de juros de empréstimos;
 
@@ -158,7 +189,7 @@ b) A solicitação dos interessados, intervir junto dos estabelecimentos de cré
 
 3. O Fundo deverá ser mantido a par das negociações entre os empresários e os estabelecimentos de crédito, sem o que não poderão aqueles beneficiar de nenhuma das formas de colaboração previstas neste artigo.
 
-###### Art. 7.º Nos termos da alínea g) do artigo 3.º, poderá o Fundo:
+Art. 7.º Nos termos da alínea g) do artigo 3.º, poderá o Fundo:
 
 a) Financiar a criação de centros de concepção e projectos;
 
@@ -176,7 +207,7 @@ g) Promover a recolha e divulgação de informações sobre as possibilidades de
 
 h) Financiar a execução de outras medidas de promoção industrial para as quais se prevejam regimes adequados de crédito, designadamente nos planos de fomento ou seus programas anuais de execução.
 
-###### Art. 8.º - 1. A participação do Estado no capital social de empresas industriais poderá ser realizada mediante a subscrição pelo Fundo das acções ou quotas de capital correspondentes.
+Art. 8.º - 1. A participação do Estado no capital social de empresas industriais poderá ser realizada mediante a subscrição pelo Fundo das acções ou quotas de capital correspondentes.
 
 2. O Fundo só poderá adquirir posições majoritárias ou assumir responsabilidades de gestão quando autorizado pelo Ministro das Finanças, sem prejuízo da participação que lhe caiba, nos termos legais, na escolha dos corpos gerentes.
 
@@ -190,23 +221,23 @@ b) Pela aquisição, exclusivamente, das espécies privilegiadas.
 
 5. Tratando-se de sociedade já constituída, as partes de capital a adquirir pelo Fundo serão pagas pelo preço da avaliação realizada para o efeito, da qual se excluirão os lucros potenciais na parte correspondente aos benefícios directamente atribuídos pelo Estado à sociedade.
 
-###### Art. 9.º - 1. Salvo estipulação em contrário, estabelecida com o acordo do Ministro das Finanças, as participações adquiridas pelo Fundo podem ser livremente transaccionadas, transferidas ou oneradas.
+Art. 9.º - 1. Salvo estipulação em contrário, estabelecida com o acordo do Ministro das Finanças, as participações adquiridas pelo Fundo podem ser livremente transaccionadas, transferidas ou oneradas.
 
 2. Nos casos em que tenha assumido a qualidade de sócio de quaisquer empresas, o Fundo poderá, mediante autorização do Ministro das Finanças, ceder as acções ou quotas de capital que possuir logo que considere poderem aquelas sociedades dispensar a sua colaboração.
 
 3. O Fundo poderá comprometer-se, no momento da aquisição, a dispor das referidas participações em moldes convencionados, em determinada época, ou a favor de determinadas entidades, ou por preço a determinar segundo regras previamente estabelecidas, mas sempre em condições que garantam ao Fundo a integral apropriação das mais-valias que em condições normais de mercado se verifiquem, ou estimem.
 
-###### Art. 10.º - 1. O Fundo poderá condicionar a concessão de quaisquer subsídios, comparticipações, diferenciais e empréstimos ou a aquisição de participações à satisfação, pelos beneficiários, de condições gerais ou estabelecidas caso a caso e, bem assim, deverá assegurar-se da prestação de garantias suficientes, atentos os riscos envolvidos, as características da entidade beneficiária e os objectivos de política industrial determinantes da respectiva intervenção.
+Art. 10.º - 1. O Fundo poderá condicionar a concessão de quaisquer subsídios, comparticipações, diferenciais e empréstimos ou a aquisição de participações à satisfação, pelos beneficiários, de condições gerais ou estabelecidas caso a caso e, bem assim, deverá assegurar-se da prestação de garantias suficientes, atentos os riscos envolvidos, as características da entidade beneficiária e os objectivos de política industrial determinantes da respectiva intervenção.
 
 2. É vedado ao Fundo realizar operações que caibam na esfera de actuação corrente das instituições de crédito, sempre que estas se disponham a efectuá-las em condições normais, atenta a conjuntura do mercado financeiro, bem como oferecer condições mais favoráveis que as prevalecentes à época, ressalvada a verificação de razões de interesse público que o justifiquem.
 
 3. A existência das razões de interesse público referidas no número anterior será sempre reconhecida pelos Ministros das Finanças e da Economia, sob parecer favorável do Secretário de Estado da Indústria.
 
-###### Art. 11.º - 1. Em princípio, só podem beneficiar do apoio do Fundo empresas cuja situação económica e financeira seja sã e cujas características de organização nos aspectos técnico, comercial e administrativo sejam reconhecidas como satisfatórias em face das exigências concorrenciais dos mercados onde devam actuar.
+Art. 11.º - 1. Em princípio, só podem beneficiar do apoio do Fundo empresas cuja situação económica e financeira seja sã e cujas características de organização nos aspectos técnico, comercial e administrativo sejam reconhecidas como satisfatórias em face das exigências concorrenciais dos mercados onde devam actuar.
 
 2. O disposto no número anterior não impede que o Fundo participe no processo de reorganização tendente à satisfação de tais condições sempre que lhe sejam asseguradas garantias suficientes de integral execução do mesmo.
 
-###### Art. 12.º - 1. Ressalvados os casos de interesse nacional reconhecido em Conselho de Ministros para os Assuntos Económicos, o Fundo não poderá apoiar sob as formas de concessão de subsídios, comparticipações, bonificações e empréstimos, ou adquirir participações a título oneroso em sociedades cuja maioria de capital ou domínio efectivo nos órgãos sociais ou na gestão pertença a empresas ou grupos financeiros cujo volume de transacções anuais exceda um milhão de contos.
+Art. 12.º - 1. Ressalvados os casos de interesse nacional reconhecido em Conselho de Ministros para os Assuntos Económicos, o Fundo não poderá apoiar sob as formas de concessão de subsídios, comparticipações, bonificações e empréstimos, ou adquirir participações a título oneroso em sociedades cuja maioria de capital ou domínio efectivo nos órgãos sociais ou na gestão pertença a empresas ou grupos financeiros cujo volume de transacções anuais exceda um milhão de contos.
 
 2. O limite fixado no número anterior pode ser alterado por deliberação do Conselho de Ministros para os Assuntos Económicos.
 
@@ -220,7 +251,7 @@ b) As sociedades cuja maioria de capital ou domínio efectivo nos órgãos socia
 
 ### CAPÍTULO II — Das receitas e despesas
 
-###### Art. 13.º - 1. Constituem receitas do Fundo de Fomento Industrial:
+Art. 13.º - 1. Constituem receitas do Fundo de Fomento Industrial:
 
 a) As dotações que lhe sejam especialmente atribuídas no Orçamento Geral do Estado;
 
@@ -250,7 +281,7 @@ j) Quaisquer outras quantias que, com o parecer favorável do Secretário de Est
 
 5. Os empréstimos, titulados ou não, que envolvam a prestação de garantias especiais sobre bens ou rendimentos próprios do Fundo, ou cujo montante acumulado exceda o triplo da respectiva situação líquida, só poderão ser contraídos mediante autorização do Ministro das Finanças.
 
-###### Art. 14.º - 1. Constituem despesas do Fundo as que resultem do exercício das funções que lhe são cometidas nos termos dos artigos 2.º, 3.º e 4.º deste diploma, designadamente:
+Art. 14.º - 1. Constituem despesas do Fundo as que resultem do exercício das funções que lhe são cometidas nos termos dos artigos 2.º, 3.º e 4.º deste diploma, designadamente:
 
 a) Os encargos com o respectivo funcionamento;
 
@@ -266,9 +297,9 @@ f) Os encargos reembolsáveis que suporte por conta de empresas industriais a qu
 
 g) Os encargos resultantes do pagamento de serviços de que beneficie ou das providências cautelares ou execuções que deva promover para defesa dos seus interesses.
 
-###### Art. 15.º O Fundo pode, autorizado pelo Ministro das Finanças, contratar com estabelecimento de crédito a gestão material dos títulos que possua, a cobrança das respectivas receitas, o pagamento de despesas, bem como a prestação de outros serviços ou a prática de actos materiais de sua conta e risco.
+Art. 15.º O Fundo pode, autorizado pelo Ministro das Finanças, contratar com estabelecimento de crédito a gestão material dos títulos que possua, a cobrança das respectivas receitas, o pagamento de despesas, bem como a prestação de outros serviços ou a prática de actos materiais de sua conta e risco.
 
-###### Art. 16.º - 1. A actividade do Fundo será exercida ao abrigo de programas visados pelo Secretário de Estado da Indústria e aprovados pelo Conselho de Ministros para os Assuntos Económicos.
+Art. 16.º - 1. A actividade do Fundo será exercida ao abrigo de programas visados pelo Secretário de Estado da Indústria e aprovados pelo Conselho de Ministros para os Assuntos Económicos.
 
 2. As receitas e despesas do Fundo serão arrecadadas e realizadas em obediência a orçamentos visados pelo Secretário de Estado da Indústria e aprovados pelo Conselho de Ministros para os Assuntos Económicos.
 
@@ -276,15 +307,15 @@ g) Os encargos resultantes do pagamento de serviços de que beneficie ou das pro
 
 4. Os saldos apurados no fim de cada ano económico serão transferidos para a gerência do ano seguinte.
 
-###### Art. 17.º O Fundo prestará anualmente contas de execução dos programas e orçamentos aprovados, as quais serão visadas e apreciadas nos termos do artigo anterior.
+Art. 17.º O Fundo prestará anualmente contas de execução dos programas e orçamentos aprovados, as quais serão visadas e apreciadas nos termos do artigo anterior.
 
-###### Art. 18.º Os rendimentos dos bens próprios do Fundo, assim como os subsídios, donativos, heranças ou legados que lhe forem concedidos, serão isentos de todos os impostos devidos ao Estado ou às autarquias locais.
+Art. 18.º Os rendimentos dos bens próprios do Fundo, assim como os subsídios, donativos, heranças ou legados que lhe forem concedidos, serão isentos de todos os impostos devidos ao Estado ou às autarquias locais.
 
 ### CAPÍTULO III — Dos órgãos do Fundo
 
-###### Art. 19.º O Fundo de Fomento Industrial será gerido por um conselho administrativo, assistido por um conselho consultivo.
+Art. 19.º O Fundo de Fomento Industrial será gerido por um conselho administrativo, assistido por um conselho consultivo.
 
-###### Art. 20.º - 1. O conselho administrativo será composto por um presidente, nomeado por despacho conjunto do Presidente do Conselho e dos Ministros das Finanças e da Economia, e por dois vogais, representando, respectivamente, o Ministério das Finanças e a Secretaria de Estado da Indústria.
+Art. 20.º - 1. O conselho administrativo será composto por um presidente, nomeado por despacho conjunto do Presidente do Conselho e dos Ministros das Finanças e da Economia, e por dois vogais, representando, respectivamente, o Ministério das Finanças e a Secretaria de Estado da Indústria.
 
 2. Os membros do conselho administrativo serão nomeados por um período de três anos, renovável por uma ou mais vezes.
 
@@ -292,7 +323,7 @@ g) Os encargos resultantes do pagamento de serviços de que beneficie ou das pro
 
 4. Os membros do conselho administrativo terão direito às remunerações ou gratificações que vierem a ser fixadas pelo Secretário de Estado da Indústria com o acordo do Ministro das Finanças.
 
-###### Art. 21.º Compete ao conselho administrativo:
+Art. 21.º Compete ao conselho administrativo:
 
 a) Elaborar e submeter à apreciação do conselho consultivo, até 15 de Novembro de cada ano, o orçamento e o plano de actividades do Fundo;
 
@@ -312,13 +343,13 @@ h) Cumprir e fazer cumprir as leis e regulamentos;
 
 i) Submeter ao Secretário de Estado da Indústria, depois de apreciados pelo conselho consultivo, o plano de actividade, o orçamento, o relatório de actividade e a conta de gerência.
 
-###### Art. 22.º - 1. O conselho administrativo reunir-se-á ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo respectivo presidente.
+Art. 22.º - 1. O conselho administrativo reunir-se-á ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo respectivo presidente.
 
 2. As deliberações do conselho administrativo serão tomadas por maioria absoluta e só serão válidas desde que esteja presente a maioria dos seus membros.
 
 3. O presidente do conselho administrativo goza de voto de qualidade nas votações deste órgão.
 
-###### Art. 23.º - 1. Compete ao presidente do conselho administrativo:
+Art. 23.º - 1. Compete ao presidente do conselho administrativo:
 
 a) Presidir às reuniões do conselho;
 
@@ -332,9 +363,9 @@ d) Representar o Fundo em juízo e fora dele.
 
 3. Por delegação do presidente do conselho administrativo poderão autorizar despesas, até ao montante expressamente fixado, os vogais do conselho administrativo ou os funcionários do Fundo.
 
-###### Art. 24.º O presidente do conselho administrativo despachará directamente com o Secretário de Estado da Indústria, por cujo intermédio as propostas referidas no artigo 3.º serão submetidas às entidades competentes, nos termos do n.º 2 da base XXIII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856).
+Art. 24.º O presidente do conselho administrativo despachará directamente com o Secretário de Estado da Indústria, por cujo intermédio as propostas referidas no artigo 3.º serão submetidas às entidades competentes, nos termos do n.º 2 da base XXIII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856).
 
-###### Art. 25.º - 1. O conselho consultivo será presidido pelo presidente do conselho administrativo e terá os seguintes vogais:
+Art. 25.º - 1. O conselho consultivo será presidido pelo presidente do conselho administrativo e terá os seguintes vogais:
 
 a) Um representante da Direcção-Geral da Indústria Transformadora;
 
@@ -356,7 +387,7 @@ h) Um representante da Corporação de Crédito e Seguros;
 
 3. Os vogais do conselho administrativo poderão assistir, sem direito a voto, às reuniões do conselho consultivo.
 
-###### Art. 26.º - 1. Os vogais do conselho consultivo serão designados:
+Art. 26.º - 1. Os vogais do conselho consultivo serão designados:
 
 a) Os referidos nas alíneas a) e b), pelo Secretário de Estado da Indústria;
 
@@ -368,7 +399,7 @@ c) O referido na alínea d), pelo Ministro das Corporações e Segurança Social
 
 3. Os vogais do conselho consultivo terão direito a receber, por cada sessão a que assistirem, uma senha de presença de montante a fixar pelo Secretário de Estado da Indústria com o acordo do Ministro das Finanças.
 
-###### Art. 27.º - 1. Compete ao conselho consultivo:
+Art. 27.º - 1. Compete ao conselho consultivo:
 
 a) Apreciar os planos de actividade, os orçamentos e relatórios anuais e as contas de gerência e elaborar o respectivo parecer;
 
@@ -384,7 +415,7 @@ f) Acompanhar a actividade do Fundo, podendo formular quaisquer propostas, suges
 
 2. O conselho consultivo ou qualquer dos seus vogais poderão solicitar ao conselho administrativo quaisquer elementos de informação necessários ao desempenho das suas funções, sendo-lhes, porém, vedado o acesso a elementos de natureza reservada, fornecidos ao Fundo por empresas determinadas ou identificáveis.
 
-###### Art. 28.º - 1. O conselho consultivo reunirá ordinariamente de três em três meses e extraordinariamente sempre que for convocado pelo presidente por sua iniciativa ou a requerimento de pelo menos cinco dos seus vogais.
+Art. 28.º - 1. O conselho consultivo reunirá ordinariamente de três em três meses e extraordinariamente sempre que for convocado pelo presidente por sua iniciativa ou a requerimento de pelo menos cinco dos seus vogais.
 
 2. Os deliberações do conselho consultivo só serão válidas desde que se encontre presente a maioria dos seus membros, e serão tomadas por maioria simples.
 
@@ -396,34 +427,34 @@ f) Acompanhar a actividade do Fundo, podendo formular quaisquer propostas, suges
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 29.º - 1. A dotação em pessoal do Fundo será estabelecida por decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
+Art. 29.º - 1. A dotação em pessoal do Fundo será estabelecida por decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
 
 2. Além do pessoal permanente, poderá ser contratado ou assalariado, nos termos legais e dentro das disponibilidades orçamentais respectivas, o pessoal indispensável à boa execução dos serviços que não possam ser desempenhados por aquele.
 
-###### Art. 30.º Para exercício de funções técnicas deverá o decreto a que se refere o artigo 29.º prever, em alternativa, os regimes de exercício em tempo completo e em tempo parcial, com aplicação do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 30.º Para exercício de funções técnicas deverá o decreto a que se refere o artigo 29.º prever, em alternativa, os regimes de exercício em tempo completo e em tempo parcial, com aplicação do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 31.º - 1. Por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria, poderão ser atribuídas gratificações mensais a pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
+Art. 31.º - 1. Por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria, poderão ser atribuídas gratificações mensais a pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
 
 2. Poderá ser autorizado o pagamento de despesas de representação a pessoal de direcção, quando se verifiquem circunstâncias que o justifiquem, nas condições a definir pelo Secretário de Estado da Indústria.
 
-###### Art. 32.º O Fundo poderá, sempre que tal se mostrar conveniente, recorrer à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos, ou para a execução de outras funções especializadas, em regime de prestação de serviços, nas condições a aprovar pelo conselho administrativo.
+Art. 32.º O Fundo poderá, sempre que tal se mostrar conveniente, recorrer à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos, ou para a execução de outras funções especializadas, em regime de prestação de serviços, nas condições a aprovar pelo conselho administrativo.
 
-###### Art. 33.º O Fundo poderá enviar missões ao estrangeiro para procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas atribuições.
+Art. 33.º O Fundo poderá enviar missões ao estrangeiro para procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas atribuições.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 34.º - 1. O Serviço de Apoio ao Investidor, criado pelo [Decreto-Lei n.º 534/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1971-632031), de 3 de Dezembro, será integrado no Fundo.
+Art. 34.º - 1. O Serviço de Apoio ao Investidor, criado pelo [Decreto-Lei n.º 534/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1971-632031), de 3 de Dezembro, será integrado no Fundo.
 
 2. O Pessoal do Serviço de Apoio ao Investidor transita, nas condições em que se encontrava e com manutenção de todos os direitos adquiridos, para o Fundo.
 
-###### Art. 35.º O Secretário de Estado da Indústria poderá determinar a transferência para o Fundo, nos termos do n.º 2 do artigo anterior, de pessoal de qualquer categoria dos órgãos e serviços que venham a ser extintos por força de alterações introduzidas na orgânica dos serviços da Secretaria de Estado da Indústria.
+Art. 35.º O Secretário de Estado da Indústria poderá determinar a transferência para o Fundo, nos termos do n.º 2 do artigo anterior, de pessoal de qualquer categoria dos órgãos e serviços que venham a ser extintos por força de alterações introduzidas na orgânica dos serviços da Secretaria de Estado da Indústria.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 7 de Fevereiro de 1974.**
+Promulgado em 7 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

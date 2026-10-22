@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1977-256211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1edc609de132dd35598d27e872a9c94d243a0b2c96ba7c245e54708560a7730c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4515d03c5c80a8151d237b4e38eca9d84fa12fc3a2fc865a686cbee6524ed25a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Caixa Geral de Aposentações
+- Pensão de Aposentação
+- Pensão de Reforma
 relationships:
 - type: amended_by
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:19Z'
   warnings: []
   errors: []
 ---
@@ -100,25 +132,25 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O n.º 1 do artigo 53.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º - 1. O n.º 1 do artigo 53.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, passa a ter a seguinte redacção:
 
 A pensão de aposentação é igual à quadragésima parte da remuneração que lhe serve de base, multiplicada pelo número de anos de serviço contados para a aposentação, com o limite máximo de quarenta anos.
 
 2. O disposto no número anterior é aplicável aos reformados militares cuja pensão continua, no entanto, a ser igual à trigésima sexta parte da remuneração que serve de base ao cálculo, multiplicada pelo número de anos de serviço contados até ao máximo de trinta e seis.
 
-###### Art. 2.º - 1. As pensões transitórias ou definitivas de aposentação e as de reforma calculadas antes da aplicação dos regimes definidos, respectivamente, nos Decretos-Leis n.os [330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, e [461-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-a-1975-260607), de 25 de Agosto, ou ainda de regimes especiais de diuturnidades, serão corrigidas fazendo intervir na base de cálculo as diuturnidades que, de acordo com as normas definidas naqueles diplomas ou regimes, correspondam aos anos de serviço contados na fixação das pensões.
+Art. 2.º - 1. As pensões transitórias ou definitivas de aposentação e as de reforma calculadas antes da aplicação dos regimes definidos, respectivamente, nos Decretos-Leis n.os [330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, e [461-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-a-1975-260607), de 25 de Agosto, ou ainda de regimes especiais de diuturnidades, serão corrigidas fazendo intervir na base de cálculo as diuturnidades que, de acordo com as normas definidas naqueles diplomas ou regimes, correspondam aos anos de serviço contados na fixação das pensões.
 
 2. O princípio definido no n.º 1 aplica-se, com as devidas adaptações, às pensões de sobrevivência fixadas de acordo com o [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março.
 
 3. Os pensionistas do Montepio dos Servidores do Estado abrangidos pelo Decreto n.º 24046, de 21 de Junho de 1934, poderão ver aumentadas as suas pensões unitárias em metade do valor das diuturnidades correspondentes ao tempo de serviço prestado pelo autor da pensão durante o qual contribuiu, cabendo aos mesmos pensionistas a prova da prestação desse serviço.
 
-###### Art. 3.º As pensões pagas através da Caixa Geral de Aposentações ou do Montepio dos Servidores do Estado em cujo encargo o Estado não comparticipe poderão ser corrigidas de acordo com este diploma, mediante decisão das entidades competentes.
+Art. 3.º As pensões pagas através da Caixa Geral de Aposentações ou do Montepio dos Servidores do Estado em cujo encargo o Estado não comparticipe poderão ser corrigidas de acordo com este diploma, mediante decisão das entidades competentes.
 
-###### Art. 4.º O disposto no presente diploma é aplicável ao pessoal das ex-colónias, aos deficientes das Forças Armadas e ao pessoal da Guarda Nacional Republicana, Polícia de Segurança Pública e Guarda Fiscal.
+Art. 4.º O disposto no presente diploma é aplicável ao pessoal das ex-colónias, aos deficientes das Forças Armadas e ao pessoal da Guarda Nacional Republicana, Polícia de Segurança Pública e Guarda Fiscal.
 
-###### Art. 5.º Fica o Ministro das Finanças autorizado a efectuar no Orçamento Geral do Estado em vigor as alterações necessárias à execução deste diploma.
+Art. 5.º Fica o Ministro das Finanças autorizado a efectuar no Orçamento Geral do Estado em vigor as alterações necessárias à execução deste diploma.
 
-###### Art. 6.º - 1. Este diploma produz efeitos desde 1 de Julho de 1977.
+Art. 6.º - 1. Este diploma produz efeitos desde 1 de Julho de 1977.
 
 2. O disposto no artigo 1.º aplica-se, a partir da data referida no n.º 1, às pensões de aposentação e reforma já fixadas, com total ou parcial encargo do Estado, bem como às pensões transitórias.
 
@@ -126,8 +158,8 @@ A pensão de aposentação é igual à quadragésima parte da remuneração que 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Firmino Miguel - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

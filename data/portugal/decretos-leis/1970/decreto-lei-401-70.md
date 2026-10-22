@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1970-139389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d440d1e71a652c18950633723b3b5d8333dca1faa0dd45f28902137d121ee262
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf915d48c9def6e02575c34aab23b2dcab6d1230ba8458e105d95b41ffafd9ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação de Agricultores
+- Benefícios Fiscais
+- Conselho Técnico da Produção Transformação e Comércio do Tomate
+- Definição de Competências
+- Exportação
+- Indústria de Concentrado de Tomate
+- Junta Nacional das Frutas
+- Legume de Fruto
+- Tomate
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470392:por
+  label: "Extinto o Conselho Técnico da Produção, Transformação e Comércio do Tomate, criado pelo art. 7º, pelo DEC LEI.256/80.30.07.1980.MFP,\
+    \ DR.IS [174] de 30.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1980-470392
+  date: '1980-07-30'
+- type: cites
+  target: pt:dre:323540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogado o artº 5º pelo DEC LEI.485/88.1988.12.30.MF,DR.IS [301]2º supl, sem prejuízo da manutenção dos benefícios\
+    \ já concedidos e dos regimes de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:52Z'
   warnings: []
   errors: []
 ---
@@ -109,19 +138,19 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As empresas que explorem a indústria de concentrado de tomate e se reúnam em agrupamentos de exportadores sob a forma de sociedade comercial beneficiarão do disposto no presente diploma, desde que esses agrupamentos representem uma capacidade mínima diária de evaporação de 5000 t de tomate fresco.
+Artigo 1.º - 1. As empresas que explorem a indústria de concentrado de tomate e se reúnam em agrupamentos de exportadores sob a forma de sociedade comercial beneficiarão do disposto no presente diploma, desde que esses agrupamentos representem uma capacidade mínima diária de evaporação de 5000 t de tomate fresco.
 
 2. Os agrupamentos referidos no n.º 1 deste artigo terão por objectivo promover e realizar todas as operações relativas à venda e à exportação de concentrado de tomate produzido pelas empresas neles agrupadas.
 
 3. As funções das empresas agrupadas referidas no número anterior incumbirão aos agrupamentos nele indicados, não podendo aquelas realizá-las por qualquer outro modo.
 
-###### Art. 2.º - 1. As associações agrícolas, agrupando ou não cooperativas, que exerçam as funções referidas no n.º 2 do artigo anterior beneficiarão igualmente do disposto neste diploma, independentemente da verificação do limite referido na parte final do n.º 1 do artigo 1.º
+Art. 2.º - 1. As associações agrícolas, agrupando ou não cooperativas, que exerçam as funções referidas no n.º 2 do artigo anterior beneficiarão igualmente do disposto neste diploma, independentemente da verificação do limite referido na parte final do n.º 1 do artigo 1.º
 
 2. As associações agrícolas a que se refere o número anterior, para que possam continuar a beneficiar do disposto neste decreto-lei, deverão constituir-se num único agrupamento, no prazo de dois anos.
 
 3. É aplicável às associações agrícolas previstas neste artigo o disposto no n.º 3 do artigo anterior, com as necessárias adaptações.
 
-###### Art. 3.º - 1. Os agrupamentos de exportadores e as associações agrícolas a que se referem, respectivamente, os artigos 1.º e 2.º poderão beneficiar do regime de armazéns gerais previsto no [Decreto-Lei n.º 43102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43102-1960-501257), de 3 de Agosto de 1960.
+Art. 3.º - 1. Os agrupamentos de exportadores e as associações agrícolas a que se referem, respectivamente, os artigos 1.º e 2.º poderão beneficiar do regime de armazéns gerais previsto no [Decreto-Lei n.º 43102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43102-1960-501257), de 3 de Agosto de 1960.
 
 2. Os conhecimentos de depósito e as cautelas de penhor a que se refere o artigo 2.º do [Decreto-Lei n.º 43102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43102-1960-501257) serão emitidos a favor do agrupamento de exportadores ou das associações agrícolas de que fizer parte o produtor da mercadoria depositada.
 
@@ -131,19 +160,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. O Fundo de Fomento de Exportação pode avalizar, mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, as cautelas de penhor (warrants) emitidas nos termos deste artigo.
 
-###### Art. 4.º - 1. Gozarão de preferência relativamente à obtenção de pré-financiamento em instituições públicas de crédito as entidades que se agruparem ou associarem nos termos deste decreto-lei, desde que esse pré-financiamento seja garantido pelo respectivo agrupamento ou associação.
+Art. 4.º - 1. Gozarão de preferência relativamente à obtenção de pré-financiamento em instituições públicas de crédito as entidades que se agruparem ou associarem nos termos deste decreto-lei, desde que esse pré-financiamento seja garantido pelo respectivo agrupamento ou associação.
 
 2. Para os efeitos do n.º 1, poderá o Fundo de Abastecimento, quando tal se considerar necessário e mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, garantir as operações de pré-financiamento de campanha, a que o mesmo número se refere.
 
 3. O Fundo de Abastecimento, mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, poderá ainda garantir as operações de financiamento destinadas à realização de concentrações fabris ou diversificação de fabricos relativos ao concentrado de tomate.
 
-###### Art. 5.º - 1. A taxa da contribuição industrial devida pelos agrupamentos de exportadores e associações agrícolas que beneficiem do disposto neste diploma será reduzida a um terço relativamente aos lucros imputáveis à sua actividade decorrente do objectivo referido no n.º 2 do artigo 1.º durante um período de cinco anos, a contar da data da sua constituição.
+Art. 5.º - 1. A taxa da contribuição industrial devida pelos agrupamentos de exportadores e associações agrícolas que beneficiem do disposto neste diploma será reduzida a um terço relativamente aos lucros imputáveis à sua actividade decorrente do objectivo referido no n.º 2 do artigo 1.º durante um período de cinco anos, a contar da data da sua constituição.
 
 2. As entidades agrupadas ou associadas nos termos deste diploma beneficiarão da redução de 50 por cento da taxa da contribuição industrial sobre lucros imputáveis ao exercício da indústria de concentrado de tomate durante o período de cinco anos, a contar da data da sua entrada para o agrupamento ou associação.
 
-###### Art. 6.º Mediante despacho do Secretário de Estado do Comércio, poderá o Fundo de Fomento de Exportação suportar parte das despesas de instalação e de funcionamento nos primeiros cinco anos dos centros de promoção de vendas estabelecidos no estrangeiro pelos agrupamentos de exportadores ou pelas associações agrícolas a que se refere este diploma.
+Art. 6.º Mediante despacho do Secretário de Estado do Comércio, poderá o Fundo de Fomento de Exportação suportar parte das despesas de instalação e de funcionamento nos primeiros cinco anos dos centros de promoção de vendas estabelecidos no estrangeiro pelos agrupamentos de exportadores ou pelas associações agrícolas a que se refere este diploma.
 
-###### Art. 7.º - 1. É criado na Junta Nacional das Frutas o Conselho Técnico da Produção, Transformação e Comércio do Tomate.
+Art. 7.º - 1. É criado na Junta Nacional das Frutas o Conselho Técnico da Produção, Transformação e Comércio do Tomate.
 
 2. O Conselho Técnico será presidido pelo presidente da Junta, assistido pelo vice-presidente por ele designado para o efeito, que o substituirá nas faltas ou impedimentos, e constituído pelos seguintes vogais:
 
@@ -167,12 +196,12 @@ d) As medidas e incentivos a adoptar para reorganizar, diversificar e modernizar
 
 4. As reuniões do Conselho Técnico realizar-se-ão de acordo com o disposto nos artigos 5.º e 6.º do [Decreto n.º 27355](https://diariodarepublica.pt/dr/detalhe/decreto/27355-1936-323540), de 19 de Dezembro de 1936.
 
-###### Art. 8.º O regime estabelecido neste decreto-lei poderá ser tornado extensivo, total ou parcialmente, a outros produtos do tomate, por portaria do Secretário de Estado do Comércio.
+Art. 8.º O regime estabelecido neste decreto-lei poderá ser tornado extensivo, total ou parcialmente, a outros produtos do tomate, por portaria do Secretário de Estado do Comércio.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 12 de Agosto de 1970.**
+Promulgado em 12 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

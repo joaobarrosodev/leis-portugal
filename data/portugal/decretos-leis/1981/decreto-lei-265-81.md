@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/21100/24312432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1981-562978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50ee0b348c49c04db1c2d97205e4318d888672d3e668ab1761057811e4af690e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab67ba32a6334b4eb0d403ffaa44ebea49f363adb576138691cb30acac4c0f54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Catálogo Nacional de Variedades
+- Direcção Geral de Protecção da Produção Agrícola
+- Produto Agrícola
+- Produto Hortícola
 relationships:
 - type: amended_by
   target: pt:dre:674061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:674061:por
+  label: "Revogado pelo DEC LEI.301/91.16.08.1991.MAPA, DR.IS-A [187] de 16.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1991-674061
+  date: '1991-08-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:44Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +99,9 @@ de 14 de Setembro
 
 Para a progressiva transformação dos moldes em que no nosso país se processa a utilização de variedades das principais espécies agrícolas e para tornar possível a adopção plena das directivas da CEE relativas à elaboração dos catálogos nacionais de variedades necessário se torna que o Governo decrete, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ficam sujeitas à disciplina do presente diploma as variedades das espécies agrícolas e hortícolas propagadas por semente.
+Artigo 1.º Ficam sujeitas à disciplina do presente diploma as variedades das espécies agrícolas e hortícolas propagadas por semente.
 
-###### Art. 2.º Para efeitos deste diploma considera-se:
+Art. 2.º Para efeitos deste diploma considera-se:
 
 a) Catálogo Nacional de Variedades (CNV). - No caso das espécies agrícolas, a relação das variedades estudadas e aprovadas com base em ensaios de identidade, homogeneidade e estabilidade (IHE), valor agronómico e de utilização (VAU) e para as quais existe selecção de conservação; no caso das espécies hortícolas, a relação das variedades aprovadas com base em ensaios de LHE e para as quais, sendo exigida, existe selecção de conservação;
 
@@ -106,21 +115,21 @@ e) Responsável pela manutenção (RM). - A entidade nacional ou estrangeira, p�
 
 f) Representante legal (RL). - A entidade pública ou privada, com sede em Portugal, devidamente credenciada para o efeito pelo obtentor ou proprietário actual, no caso das variedades com obtentor conhecido, ou pelo responsável pela manutenção, no caso das variedades do domínio público.
 
-###### Art. 3.º A Direcção-Geral de Protecção da Produção Agrícola procederá à divulgação, por espécie, das variedades aceites, através de publicação adequada, a qual será facultada a todos os interessados.
+Art. 3.º A Direcção-Geral de Protecção da Produção Agrícola procederá à divulgação, por espécie, das variedades aceites, através de publicação adequada, a qual será facultada a todos os interessados.
 
-###### Art. 4.º A inscrição de variedades será solicitada à Direcção-Geral de Protecção da Produção Agrícola pelo obtentor ou seu representante legal, quando se trate de inscrição no CNV, ou por qualquer entidade ligada à obtenção, produção, comércio ou transformação de variedades, quando se trate de inscrição na LNV.
+Art. 4.º A inscrição de variedades será solicitada à Direcção-Geral de Protecção da Produção Agrícola pelo obtentor ou seu representante legal, quando se trate de inscrição no CNV, ou por qualquer entidade ligada à obtenção, produção, comércio ou transformação de variedades, quando se trate de inscrição na LNV.
 
-###### Art. 5.º - 1 - Compete ao Conselho Técnico da Direcção-Geral de Protecção da Produção Agrícola deliberar sobre as espécies e variedades a incluir no CNV, bem como sobre o procedimento a adoptar, designadamente no que se refere aos elementos a apresentar e respectivos prazos, metodologia técnica e critérios de apreciação.
+Art. 5.º - 1 - Compete ao Conselho Técnico da Direcção-Geral de Protecção da Produção Agrícola deliberar sobre as espécies e variedades a incluir no CNV, bem como sobre o procedimento a adoptar, designadamente no que se refere aos elementos a apresentar e respectivos prazos, metodologia técnica e critérios de apreciação.
 
 2 - Para efeitos do disposto no número anterior, o Conselho Técnico será alargado a representantes das associações de obtentores, produtores, comerciantes, industriais e agricultores, a designar por despacho do Ministro da Agricultura e Pescas.
 
 3 - Os membros do Conselho Técnico referidos no número anterior terão direito a voto e serão convocados pelo presidente nos termos das disposições aplicáveis.
 
-###### Art. 6.º Compete ao director-geral de Protecção da Produção Agrícola decidir sobre as variedades a incluir na LNV e, ainda, definir o procedimento a adoptar, designadamente no que se refere aos dados a apresentar, prazos e critérios de apreciação.
+Art. 6.º Compete ao director-geral de Protecção da Produção Agrícola decidir sobre as variedades a incluir na LNV e, ainda, definir o procedimento a adoptar, designadamente no que se refere aos dados a apresentar, prazos e critérios de apreciação.
 
-###### Art. 7.º O CNV e a LNV conterão, entre outras, informações quanto a identidade, origem e características de cada variedade e indicarão a entidade que fez a sua inscrição e por ela é responsável.
+Art. 7.º O CNV e a LNV conterão, entre outras, informações quanto a identidade, origem e características de cada variedade e indicarão a entidade que fez a sua inscrição e por ela é responsável.
 
-###### Art. 8.º Após a publicação da LNV, de acordo com o artigo 3.º, é proibida a produção, importação e comercialização de sementes de variedades que não façam parte do CNV ou da LNV, salvo nos seguintes casos:
+Art. 8.º Após a publicação da LNV, de acordo com o artigo 3.º, é proibida a produção, importação e comercialização de sementes de variedades que não façam parte do CNV ou da LNV, salvo nos seguintes casos:
 
 a) Para efeitos de experimentação, em quantitativos a estabelecer;
 
@@ -130,18 +139,18 @@ c) Para efeitos de produção de sementes destinadas exclusivamente à exportaç
 
 d) Os progenitores necessários à produção de híbridos que já constam da LNV ou do CNV.
 
-###### Art. 9.º - 1 - A partir da entrada em vigor do presente diploma, a concessão de autorização para importação de sementes depende de parecer favorável da Direcção-Geral de Protecção da Produção Agrícola.
+Art. 9.º - 1 - A partir da entrada em vigor do presente diploma, a concessão de autorização para importação de sementes depende de parecer favorável da Direcção-Geral de Protecção da Produção Agrícola.
 
 2 - Nenhum boletim de registo de importação será emitido antes de obtido o parecer referido no número anterior.
 
-###### Art. 10.º Serão estabelecidas por portaria do Ministro da Agricultura e Pescas as quantias a pagar pela inscrição de variedades no CNV e na LNV.
+Art. 10.º Serão estabelecidas por portaria do Ministro da Agricultura e Pescas as quantias a pagar pela inscrição de variedades no CNV e na LNV.
 
-###### Art. 11.º Este diploma entra em vigor no dia 1 de Janeiro de 1982.
+Art. 11.º Este diploma entra em vigor no dia 1 de Janeiro de 1982.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Agosto de 1981.**
+Promulgado em 28 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

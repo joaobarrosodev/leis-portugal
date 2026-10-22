@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1973-684216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 866abf6798a14657d49eb13f4406a0591675789b5a7ef9e4bb2f45b055b010c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64bcda0bf4c6185aee41a115ac937fa2e7df77e136c115413682ea21aad777c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- SELO de Garantia
+- Transporte
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:493025:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490757:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493025:por
+  label: "Revogado, a partir de 02.09.2009, mantendo-se transitoriamente em vigor até à publicação das portarias e dos regulamentos\
+    \ previstos, relativamente às matérias que estes visam regulamentar, pelo DEC LEI.173/2009.03.08.2009.MADRP, DR.IS [148]\
+    \ de 03.08.2009, .\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2009-493025
+  date: '2009-08-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:17Z'
   warnings: []
   errors: []
 ---
@@ -99,26 +118,26 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a exportação de vinho do Porto, engarrafado ou a granel, por estrada, em veículos rodoviários selados ou em contentores selados transportados em veículos rodoviários, em remessa directa do Entreposto de Gaia.
+Artigo 1.º É autorizada a exportação de vinho do Porto, engarrafado ou a granel, por estrada, em veículos rodoviários selados ou em contentores selados transportados em veículos rodoviários, em remessa directa do Entreposto de Gaia.
 
-###### Art. 2.º No transporte do vinho do Porto, engarrafado ou em granel, por estrada, em veículos rodoviários selados ou em contentores selados transportados em veículos rodoviários, a que se refere o artigo 1.º, observar-se-ão as disposições da Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias a Coberto de Cadernetas TIR, aprovada para adesão pelo [Decreto-Lei n.º 46887](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46887-1966-490757), de 2 de Março de 1966.
+Art. 2.º No transporte do vinho do Porto, engarrafado ou em granel, por estrada, em veículos rodoviários selados ou em contentores selados transportados em veículos rodoviários, a que se refere o artigo 1.º, observar-se-ão as disposições da Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias a Coberto de Cadernetas TIR, aprovada para adesão pelo [Decreto-Lei n.º 46887](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46887-1966-490757), de 2 de Março de 1966.
 
-###### Art. 3.º O emprego de veículos rodoviários selados ou dos contentores selados neles transportados, destinados à exportação de vinho do Porto, será fiscalizado pelo Instituto do Vinho do Porto, de forma a impedir a utilização de materiais que afectem a integridade qualitativa do vinho do Porto assim acondicionado e transportado.
+Art. 3.º O emprego de veículos rodoviários selados ou dos contentores selados neles transportados, destinados à exportação de vinho do Porto, será fiscalizado pelo Instituto do Vinho do Porto, de forma a impedir a utilização de materiais que afectem a integridade qualitativa do vinho do Porto assim acondicionado e transportado.
 
-###### Art. 4.º Todos os recipientes que transportem vinho do Porto para exportação serão selados e a sua inviolabilidade garantida através de providências adequadas a estabelecer pelo Instituto do Vinho do Porto.
+Art. 4.º Todos os recipientes que transportem vinho do Porto para exportação serão selados e a sua inviolabilidade garantida através de providências adequadas a estabelecer pelo Instituto do Vinho do Porto.
 
-###### Art. 5.º O rompimento dos selos será punido nos termos do § 2.º do artigo 310.º do Código Penal, sem prejuízo de aplicação aos infractores das competentes sansões disciplinares, de harmonia com o disposto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 5.º O rompimento dos selos será punido nos termos do § 2.º do artigo 310.º do Código Penal, sem prejuízo de aplicação aos infractores das competentes sansões disciplinares, de harmonia com o disposto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 6.º Em portaria do Secretário de Estado do Comércio, poderá autorizar-se a exportação de vinho do Porto a granel por caminho de ferro desde que se mostre devidamente garantida a inviolabilidade dos respectivos contentores até ao país do destino, estabelecendo-se para o efeito as providências adequadas.
+Art. 6.º Em portaria do Secretário de Estado do Comércio, poderá autorizar-se a exportação de vinho do Porto a granel por caminho de ferro desde que se mostre devidamente garantida a inviolabilidade dos respectivos contentores até ao país do destino, estabelecendo-se para o efeito as providências adequadas.
 
-###### Art. 7.º Este diploma entra em vigor sessenta dias após a data da sua publicação.
+Art. 7.º Este diploma entra em vigor sessenta dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 28 de Fevereiro de 1973.**
+Promulgado em 28 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

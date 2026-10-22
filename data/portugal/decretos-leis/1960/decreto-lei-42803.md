@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42803-1960-627220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 294f8f4eaf1c4ac408bbfdc187af705e1f506c2f8dda6b1045d77f735470cba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b1cbe6c41618de483d8a642e39d82d48be3545e7099f883cdd22b17a7d18c66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio Internacional
+- Convenção
+- Cooperação Internacional
+- Moeda
+- Pagamento
+- Paris
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:154854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:154809:por
+  label: "Aprovado, para ratificação, o Protocolo Adicional nº 3 que emenda o Acordo Monetário Europeu, aprovado para ratificação\
+    \ pelo presente diploma, pelo DEC LEI.44824.29.12.1962.MNE, DG.IS [298] de 29.12.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44824-1962-154809
+  date: '1962-12-29'
+- type: amended_by
+  target: pt:dre:154854:por
+  label: "Aprovado, para ratificação, o Protocolo Adiconal nº 4 que emenda o Acordo Monetário Europeu, aprovado para ratificação\
+    \ pelo presente diploma, pelo DEC LEI.44834.31.12.1962.MNE, DG.IS [299] de 31.12.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44834-1962-154854
+  date: '1962-12-31'
+- type: corrected_by
+  target: pt:dre:282493:por
+  label: Rectificado o texto em francês [no referente à al. d) do art. 28] do Acordo Monetário Europeu, aprovado para ratificação
+    pelo presente diploma, pela DECL.DD12304.21.03.1960.PC, DG.IS [66] de 21.03.1960
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1960-282493
+  date: '1960-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:38Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +114,15 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, produzindo efeitos desde a data neles presente para a sua entrada em funcionamento, a titulo provisório, o Acordo Monetário Europeu, assinado em Paris em 5 de Agosto de 1955, e os Protocolos adicionais ao mesmo Acordo, cujos textos autênticos e respectivas traduções vão anexos ao presente decreto-lei e dele são parte integrante.
+Artigo único. São aprovados, para ratificação, produzindo efeitos desde a data neles presente para a sua entrada em funcionamento, a titulo provisório, o Acordo Monetário Europeu, assinado em Paris em 5 de Agosto de 1955, e os Protocolos adicionais ao mesmo Acordo, cujos textos autênticos e respectivas traduções vão anexos ao presente decreto-lei e dele são parte integrante.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf))](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
 
 Acordo Monetário Europeu
 
@@ -151,7 +176,7 @@ b) De contribuições das Partes Contratantes elevando-se ao total de 328425000 
 
 Quadro A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf))](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
 
 ###### ARTIGO 4 — Entrega do capital
 
@@ -213,7 +238,7 @@ b) Contudo, uma Parte Contratante não poderá pôr à disposição de outras Pa
 
 Quadro B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf))](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
 
 c) As importâncias de moedas postas à disposição de uma Parte Contratante, em virtude do presente artigo, vencerão juros, pagáveis pela mesma Parte Contratante, a uma taxa uniforme fixada pela Organização.
 
@@ -553,7 +578,7 @@ d) Quando o Fundo deixar de existir, os créditos atribuídos em virtude do par�
 
 Quadro C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf))](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
 
 b) Contudo, se um signatário do presente Acordo não efectuar um pagamento de ouro ou de dólares dos Estados Unidos, devido em virtude do presente Acordo ou de uma decisão tomada pela Organização, de conformidade com o presente Acordo, ele não participará da repartição prevista no presente parágrafo, salvo decisão em contrário da Organização;
 
@@ -639,7 +664,7 @@ Mehmet Ali Tiney.
 
 A presente cópia está conforme o exemplar único do Acordo Monetário Europeu, redigido nas línguas francesa e inglesa, assinado em Paris aos cinco de Agosto de mil novecentos e cinquenta e cinco e depositado no Arquivo da Organização Europeia de Cooperação Económica.
 
-**O Secretário-Geral Adjunto da Organização Europeia de Cooperação Económica, H. J. B. Lintott.**
+O Secretário-Geral Adjunto da Organização Europeia de Cooperação Económica, H. J. B. Lintott.
 
 Protocolo de aplicação provisória do Acordo Monetário Europeu
 
@@ -759,7 +784,7 @@ Mehmet Ali Tiney.
 
 A presente cópia está conforme o exemplar único do Protocolo de aplicação provisória do Acordo Monetário Europeu, redigido nas línguas francesa e inglesa, assinado em Paris aos cinco de Agosto de mil novecentos e cinquenta e cinco e depositado no Arquivo da Organização Europeia de Cooperação Económica.
 
-**O Secretário-Geral Adjunto da Organização Europeia de Cooperação Económica, H. J. B. Lintott.**
+O Secretário-Geral Adjunto da Organização Europeia de Cooperação Económica, H. J. B. Lintott.
 
 Protocolo adicional n.º 2, emendando o Acordo Monetário Europeu de 5 de Agosto de 1955
 
@@ -809,7 +834,7 @@ b) De contribuições das Partes Contratantes, atingindo o total de 328425000 un
 
 Quadro A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf))](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/00900/00220046.pdf)
 
 ###### ARTIGO 2
 

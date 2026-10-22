@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45352-1963-688231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38e06a17d8f53b1adc25e1e08dc651416d29d8331c34dacadb278db646b4f149
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf9ce61161a5dd977b50b9ebfbe38f4e18807e520e027c2ee06e0acc06ad2f68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Formas de Provimento
+- Gratificação
+- Lares
+- Pessoal Docente
+- Remuneração
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:146260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:163818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:59Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +108,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os professores, mestres e regentes de estudo do quadro orgânico do Lar Académico de Filhos de Oficiais e de Sargentos, a que se refere o artigo 6.º do [Decreto-Lei n.º 42851](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42851-1960-278524), de 17 de Fevereiro de 1960, aprovado pela [Portaria n.º 19301](https://diariodarepublica.pt/dr/detalhe/portaria/19301-1962-163818), de 27 de Julho de 1962, serão providos, mediante contrato, por períodos renováveis de um ano e remunerados em regime de gratificação mensal.
+Artigo 1.º Os professores, mestres e regentes de estudo do quadro orgânico do Lar Académico de Filhos de Oficiais e de Sargentos, a que se refere o artigo 6.º do [Decreto-Lei n.º 42851](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42851-1960-278524), de 17 de Fevereiro de 1960, aprovado pela [Portaria n.º 19301](https://diariodarepublica.pt/dr/detalhe/portaria/19301-1962-163818), de 27 de Julho de 1962, serão providos, mediante contrato, por períodos renováveis de um ano e remunerados em regime de gratificação mensal.
 
 § 1.º Os quantitativos mensais da gratificação serão determinados em função do número de horas de serviço distribuído pelos horários vigentes em cada mês, sendo descontadas as horas em que sejam dadas faltas injustificadas.
 
@@ -103,8 +118,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Durante os períodos de férias lectivas as gratificações serão calculadas pela média das gratificações correspondentes aos meses do ano lectivo que haja findado.
 
-###### Art. 2.º Ao pessoal em serviço no Lar Académico à data da publicação deste decreto-lei serão aplicáveis, desde 1 de Agosto do ano corrente, as disposições do artigo anterior sem dependência de qualquer nova formalidade legal.
+Art. 2.º Ao pessoal em serviço no Lar Académico à data da publicação deste decreto-lei serão aplicáveis, desde 1 de Agosto do ano corrente, as disposições do artigo anterior sem dependência de qualquer nova formalidade legal.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco António das Chagas.

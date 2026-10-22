@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/11000/05920594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1972-680657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 357f9910a03fffcdee0733cc03770146efd65163b0a87d2c007444db2f3402f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0074fb8c57a1d43e2dd6dc283e7273c0bff50bf5fba3591ea1280fa0aece1f33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Comercial
 relationships:
 - type: amended_by
   target: pt:dre:220107:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220107:por
+  label: "Revogado pelo DEC LEI.262/86.02.09.1986.MJ, DR.IS [201] de 02.09.1986, a partir de 01.11.1986 e sem prejuízo do\
+    \ previsto no nº 2 do seu art. 2º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1986-220107
+  date: '1986-09-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:28Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +172,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ## TÍTULO I — Limitação do número de votos dos accionistas
 
-###### Artigo 1.º O artigo 183.º do Código Comercial passa a ter a seguinte redacção:
+Artigo 1.º O artigo 183.º do Código Comercial passa a ter a seguinte redacção:
 
 ...
 
@@ -149,25 +188,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 6.º (Antigo § 5.º)
 
-###### Art. 2.º Nas sociedades constituídas antes da entrada em vigor do presente diploma continua a observar-se o preceituado na anterior redacção do § 3.º do artigo 183.º do Código Comercial, enquanto não for tomada deliberação que altere os estatutos no sentido de não haver limitações de número de votos, salvo a que derive da nova redacção do § 4.º do mesmo artigo, ou no de estabelecer as limitações permitidas pela redacção dada àquele § 3.º no artigo 1.º
+Art. 2.º Nas sociedades constituídas antes da entrada em vigor do presente diploma continua a observar-se o preceituado na anterior redacção do § 3.º do artigo 183.º do Código Comercial, enquanto não for tomada deliberação que altere os estatutos no sentido de não haver limitações de número de votos, salvo a que derive da nova redacção do § 4.º do mesmo artigo, ou no de estabelecer as limitações permitidas pela redacção dada àquele § 3.º no artigo 1.º
 
-###### Art. 3.º Nas sociedades constituídas antes da entrada em vigor do presente diploma, em que o Estado ou as entidades para esse efeito a ele equiparadas por legislação especial beneficiam da excepção prevista na parte final do § 3.º do artigo 183.º do Código Comercial, a deliberação referida no artigo anterior só pode ser tomada com os votos concordantes do Estado ou de tais entidades.
+Art. 3.º Nas sociedades constituídas antes da entrada em vigor do presente diploma, em que o Estado ou as entidades para esse efeito a ele equiparadas por legislação especial beneficiam da excepção prevista na parte final do § 3.º do artigo 183.º do Código Comercial, a deliberação referida no artigo anterior só pode ser tomada com os votos concordantes do Estado ou de tais entidades.
 
 ## TÍTULO II — Divergências entre sócios com igual poder de voto
 
-###### Art. 4.º Podem ser requeridas as providências a que se referem os artigos seguintes quando, em duas reuniões da assembleia geral distanciadas entre si pelo menos sessenta dias, nas quais hajam participado todos os sócios com direito de voto ou, devidamente convocados, sócios que representem um mínimo de 90 por cento do capital social, não puderam ser tomadas, devido a ter-se verificado empate de votos, deliberações:
+Art. 4.º Podem ser requeridas as providências a que se referem os artigos seguintes quando, em duas reuniões da assembleia geral distanciadas entre si pelo menos sessenta dias, nas quais hajam participado todos os sócios com direito de voto ou, devidamente convocados, sócios que representem um mínimo de 90 por cento do capital social, não puderam ser tomadas, devido a ter-se verificado empate de votos, deliberações:
 
 a) De nomeação de administradores ou de gerentes, desde que tornada necessária por força da lei ou dos estatutos;
 
 b) De apreciação do balanço e contas.
 
-###### Art. 5.º - 1. Se nos casos previstos no artigo anterior a deliberação tiver o objecto indicado na sua alínea a), pode qualquer sócio requerer a nomeação de um administrador judicial, que exercerá as respectivas funções conjuntamente com os outros administradores ou gerentes, quando os haja.
+Art. 5.º - 1. Se nos casos previstos no artigo anterior a deliberação tiver o objecto indicado na sua alínea a), pode qualquer sócio requerer a nomeação de um administrador judicial, que exercerá as respectivas funções conjuntamente com os outros administradores ou gerentes, quando os haja.
 
 2. O tribunal fixará os poderes do administrador judicial e a duração das suas funções, sendo aplicável, quanto ao mais, com as necessárias adaptações, o disposto nos n.os 5 e 6 do artigo 29.º do [Decreto-Lei n.º 49381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49381-1969-215705), de 15 de Novembro de 1969.
 
 3. As funções do administrador judicial cessam necessàriamente logo que a assembleia geral eleja um administrador ou gerente.
 
-###### Art. 6.º - 1. Se nos casos previstos no artigo 4.º a deliberação tiver o objecto indicado na sua alínea b), pode qualquer sócio requerer a convocação judicial da assembleia, para apreciação do balanço e contas, nos termos do artigo 1486.º do Código de Processo Civil.
+Art. 6.º - 1. Se nos casos previstos no artigo 4.º a deliberação tiver o objecto indicado na sua alínea b), pode qualquer sócio requerer a convocação judicial da assembleia, para apreciação do balanço e contas, nos termos do artigo 1486.º do Código de Processo Civil.
 
 2. O juiz designará para as funções de presidente da assembleia geral uma pessoa estranha à sociedade, atribuindo-lhe o poder de desempatar, se voltar a verificar-se empate; a pessoa designada deve ser um revisor oficial de contas ou, na sua falta, outrem com semelhante idoneidade.
 
@@ -175,8 +214,8 @@ b) De apreciação do balanço e contas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.

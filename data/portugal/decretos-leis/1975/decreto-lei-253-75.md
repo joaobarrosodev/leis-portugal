@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/12000/07230725.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1975-335968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bf200b956f9f8b59fd05a026f0496e50c72288328a5fef9a164577051ead68b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb996492caf6438ce0ac6e105933d63c531c7017ab34538c228e4cbfae196d35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:43Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +106,9 @@ Considerando que se torna necessário alterar algumas das disposições do artig
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 23.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 23.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, passa a ter a seguinte redacção:
 
-###### Art. 23.º - 1. Os sacerdotes católicos, os alunos dos seminários católicos das dioceses ou dos institutos religiosos católicos são classificados aptos para o serviço das forças armadas, com dispensa das operações de classificação, no ano em que completem 20 anos de idade.
+Art. 23.º - 1. Os sacerdotes católicos, os alunos dos seminários católicos das dioceses ou dos institutos religiosos católicos são classificados aptos para o serviço das forças armadas, com dispensa das operações de classificação, no ano em que completem 20 anos de idade.
 
 2. Aos alunos dos seminários católicos das dioceses ou dos institutos religiosos pode ser concedido adiamento de incorporação até serem ordenados presbíteros, desde que a ordenação não ultrapasse o ano em que perfazem 30 anos de idade.
 
@@ -110,19 +122,19 @@ Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, 
 
 7. Quando o número de fiéis de determinada confissão não católica presentes nas fileiras o justificar, ministros das referidas confissões podem também ser destinados ao serviço religioso para a assistência desses fiéis, de acordo com as necessidades e segundo diploma próprio.
 
-###### Art. 2.º Em anexo ao presente diploma e dele fazendo parte integrante se publica o regulamento da prestação do serviço militar dos indivíduos a que se referem os n.os 1 a 5 do artigo 23.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968.
+Art. 2.º Em anexo ao presente diploma e dele fazendo parte integrante se publica o regulamento da prestação do serviço militar dos indivíduos a que se referem os n.os 1 a 5 do artigo 23.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 13 de Maio de 1975.**
+Promulgado em 13 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Regulamento da prestação do serviço militar dos indivíduos a que se referem os n.os 1 a 5 do artigo 23.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Serviço militar dos sacerdotes e irmãos auxiliares)
 
@@ -132,7 +144,7 @@ a) Os sacerdotes ordenados entre 30 de Junho de um ano e 30 de Junho do ano segu
 
 b) Os irmãos auxiliares dos institutos religiosos - até ao dia 31 de Julho do ano em que perfaçam 29 anos de idade.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Formação e selecção dos capelães militares)
 
@@ -142,7 +154,7 @@ b) Os irmãos auxiliares dos institutos religiosos - até ao dia 31 de Julho do 
 
 3. Aos sacerdotes que não obtiverem aproveitamento no curso é aplicável o disposto no n.º 3 do artigo 20.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, sendo o serviço prestado no serviço de saúde.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Formação e selecção dos auxiliares do serviço religioso)
 
@@ -154,7 +166,7 @@ b) Os irmãos auxiliares dos institutos religiosos - até ao dia 31 de Julho do 
 
 4. Aos indivíduos que não obtiverem aproveitamento no curso é aplicável o disposto no n.º 3 do artigo 20.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, sendo o serviço prestado no serviço de saúde.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Serviço militar prestado no serviço de saúde)
 
@@ -162,7 +174,7 @@ b) Os irmãos auxiliares dos institutos religiosos - até ao dia 31 de Julho do 
 
 2. Os sacerdotes e os irmãos auxiliares dos institutos religiosos católicos que ingressem no serviço de saúde prestam serviço como sargentos ou praças, a não ser que possuam habilitações literárias que os possam indicar para postos de oficiais específicos do serviço de saúde.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Adiamentos especiais de incorporação)
 
@@ -172,7 +184,7 @@ a) Aos alunos dos seminários católicos cujos planos de curso não permitam a s
 
 b) Aos indivíduos que, antes de terem cumprido o serviço militar no tempo normal, ingressem nos seminários católicos em idade que não permita concluírem o curso antes dos 30 anos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Processamento dos adiamentos de incorporação dos alunos dos seminários católicos)
 
@@ -184,7 +196,7 @@ b) Aos indivíduos que, antes de terem cumprido o serviço militar no tempo norm
 
 4. Quando o adiamento cessa, os indivíduos devem ser classificados e seleccionados de modo a poderem ser alistados com o contingente a que pertencem ou com o primeiro contingente classificado nos termos da lei geral.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Processamento dos adiamentos de incorporação dos irmãos auxiliares dos institutos religiosos católicos)
 
@@ -196,7 +208,7 @@ b) Aos indivíduos que, antes de terem cumprido o serviço militar no tempo norm
 
 4. Quando o adiamento cessa, os indivíduos devem ser classificados e seleccionados de modo a poderem ser alistados com o contingente a que pertencem ou com o primeiro contingente classificado nos termos da lei geral.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Convocação dos indivíduos da reserva territorial para prestação de serviço efectivo)
 
@@ -206,7 +218,7 @@ b) Aos indivíduos que, antes de terem cumprido o serviço militar no tempo norm
 
 3. Os sacerdotes irmãos auxiliares dos institutos religiosos alistados na reserva territorial podem prestar, por oferecimento, serviço efectivo no serviço religioso.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Situação dos sacerdotes que não se encontrem no legítimo exercício de ordens e dos irmãos auxiliares que hajam abandonado o estado religioso).
 
@@ -214,7 +226,7 @@ b) Aos indivíduos que, antes de terem cumprido o serviço militar no tempo norm
 
 2. Os sacerdotes e irmãos auxiliares com menos de 45 anos de idade pertencentes à reserva territorial que não tenham prestado serviço militar efectivo no tempo normal devem fazer prova, até 15 de Novembro de cada ano, de que se encontram no legítimo exercício de ordens ou no estado religioso, e, se o não fizerem, são classificados, seleccionados e distribuídos com o primeiro contingente classificado, de acordo com a lei geral.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Passagem ao serviço religioso dos que tenham cumprido o serviço militar efectivo em qualquer arma ou serviço)
 
@@ -222,19 +234,19 @@ b) Aos indivíduos que, antes de terem cumprido o serviço militar no tempo norm
 
 2. Aos indivíduos referidos no número anterior que sejam reduzidos ao estado laical ou tenham abandonado o estado religioso são aplicáveis as obrigações constantes do n.º 1 do artigo 9.º, regressando à sua anterior situação militar.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Obtenção de licenças e documentos militares)
 
 Aos sacerdotes católicos, aos alunos dos seminários católicos, das dioceses ou dos institutos religiosos e aos irmãos auxiliares dos institutos religiosos católicos são aplicáveis, em tudo o que não contrarie o presente diploma, as determinações referentes à concessão de licenças e de documentos militares previstas na regulamentação em vigor.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Transferência de sacerdotes e irmãos auxiliares para a reserva territorial)
 
 Os sacerdotes católicos e irmãos auxiliares dos institutos religiosos católicos com menos de 45 anos de idade que não tenham prestado serviço militar efectivo no serviço religioso nem sido incorporados no serviço de saúde e que foram incorporados nos distritos de recrutamento e mobilização são, a partir da data do presente diploma, transferidos para a reserva territorial.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Disposição transitória)
 

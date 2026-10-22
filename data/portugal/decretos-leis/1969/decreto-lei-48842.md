@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48842-1969-527047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 038293e263b7a97b1e550af596e5d0b4ec5dfabd36d81e308c24d7fa4c545e38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4083e16a7e15f3b52eeb3ee64a6bab9b40b2f9ecd3804ecef9c554907215f6b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Indústria Mineira
+relationships:
+- type: cites
+  target: pt:dre:201783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586043:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:527795:por
+  label: "Rectificado pela RECT.DD505.08.02.1969.PC, DG.IS [33] de 08.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-527795
+  date: '1969-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:17Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +109,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para vale como lei, o seguinte:
 
-###### Artigo 1.º São alterados os artigos 28.º, 32.º, 44.º, 85.º e 90.º a 98.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados os artigos 28.º, 32.º, 44.º, 85.º e 90.º a 98.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930, que passam a ter a seguinte redacção:
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 § 1.º No caso de o manifesto pertencer a mais do que um indivíduo, deverão os seus possuidores constituir-se em sociedade, transmitindo, por endosso, para esta os respectivos direitos e requerer em nome dela a concessão.
 
@@ -103,7 +121,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 32.º O falecimento do requerente de uma concessão mineira não impede o prosseguimento do respectivo processo até decisão final. O requerente será substituído, neste caso, pela pessoa a quem incumbir o encargo de cabeça-de-casal, a quem compete participar a ocorrência à Direcção-Geral de Minas e Serviços Geológicos, devendo juntar a respectiva certidão de óbito, no prazo de trinta dias, contados do falecimento.
+Art. 32.º O falecimento do requerente de uma concessão mineira não impede o prosseguimento do respectivo processo até decisão final. O requerente será substituído, neste caso, pela pessoa a quem incumbir o encargo de cabeça-de-casal, a quem compete participar a ocorrência à Direcção-Geral de Minas e Serviços Geológicos, devendo juntar a respectiva certidão de óbito, no prazo de trinta dias, contados do falecimento.
 
 § 1.º Havendo mais do que um herdeiro com direitos à concessão, deverão estes constituir-se em sociedade, transmitindo para esta esses direitos da mesma forma que no artigo 38.º, no prazo de noventa dias, a contar da data do falecimento do requerente à concessão, prazo que poderá ser prorrogado, por motivos fundamentados e atendíveis, pelo Secretário de Estado da Indústria.
 
@@ -121,7 +139,7 @@ d) Documentos destinados a substituir os indicados nos n.os 4.º, 5.º, 6.º, 7.
 
 ...
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 § 1.º ...
 
@@ -131,13 +149,13 @@ d) Documentos destinados a substituir os indicados nos n.os 4.º, 5.º, 6.º, 7.
 
 ...
 
-###### Art. 85.º ...
+Art. 85.º ...
 
 § único. Além da pena de caducidade que lhe for imposta por infracção do disposto no n.º 3.º do artigo 57.º, o concessionário é responsável por todos e quaisquer danos e prejuízos que da paralisação ilegal da lavra resultarem, bem como pelo pagamento do custo das medidas de segurança que seja necessário adoptar e dos impostos devidos até que o abandono seja declarado legalmente.
 
 ...
 
-###### Art. 90.º As concessões mineiras podem ser declaradas abandonadas, por despacho do Secretário de Estado da Indústria, revertendo para o Estado:
+Art. 90.º As concessões mineiras podem ser declaradas abandonadas, por despacho do Secretário de Estado da Indústria, revertendo para o Estado:
 
 1.º A requerimento do concessionário;
 
@@ -147,25 +165,25 @@ d) Documentos destinados a substituir os indicados nos n.os 4.º, 5.º, 6.º, 7.
 
 § 2.º O despacho que declare o abandono será publicado no Diário do Governo.
 
-###### Art. 91.º Em qualquer dos casos mencionados no artigo anterior a Direcção-Geral de Minas e Serviços Geológicos mandará inspeccionar a mina e indicará as medidas de segurança que forem necessárias.
+Art. 91.º Em qualquer dos casos mencionados no artigo anterior a Direcção-Geral de Minas e Serviços Geológicos mandará inspeccionar a mina e indicará as medidas de segurança que forem necessárias.
 
 § 1.º No caso de ser necessário adoptar medidas de segurança, deverá a respectiva circunscrição mineira comunicá-las ao concessionário, por carta registada com aviso de recepção, a fim de este proceder à sua execução no prazo que lhe for determinado.
 
 § 2.º Se os trabalhos não forem iniciados no prazo de quinze dias a contar da data da intimação, poderão ser executados pela Direcção-Geral de Minas e Serviços Geológicos à custa do concessionário, que se tornará responsável perante o Estado.
 
-###### Art. 92.º A execução dos trabalhos a que se refere o § 1.º do artigo anterior será inspeccionada pelo pessoal técnico da circunscrição mineira respectiva, devendo esta, logo que verifique serem boas as condições de segurança, comunicar o facto ao concessionário, cessando a responsabilidade deste.
+Art. 92.º A execução dos trabalhos a que se refere o § 1.º do artigo anterior será inspeccionada pelo pessoal técnico da circunscrição mineira respectiva, devendo esta, logo que verifique serem boas as condições de segurança, comunicar o facto ao concessionário, cessando a responsabilidade deste.
 
-###### Art. 93.º Verificando-se que o valor industrial da mina é suficiente para justificar a possível continuação do seu aproveitamento, será a concessão declarada abandonada, ouvido o Conselho Superior de Minas e Serviços Geológicos.
+Art. 93.º Verificando-se que o valor industrial da mina é suficiente para justificar a possível continuação do seu aproveitamento, será a concessão declarada abandonada, ouvido o Conselho Superior de Minas e Serviços Geológicos.
 
-###### Art. 94.º Verificando-se que os depósitos ou jazigos minerais se encontram esgotados ou não possuem já suficiente valor industrial que justifique o subsequente aproveitamento dos minérios que contenham, será a respectiva concessão revogada por despacho do Secretário de Estado da Indústria e declarada em campo livre, ouvido o Conselho Superior de Minas e Serviços Geológicos.
+Art. 94.º Verificando-se que os depósitos ou jazigos minerais se encontram esgotados ou não possuem já suficiente valor industrial que justifique o subsequente aproveitamento dos minérios que contenham, será a respectiva concessão revogada por despacho do Secretário de Estado da Indústria e declarada em campo livre, ouvido o Conselho Superior de Minas e Serviços Geológicos.
 
-###### Art. 95.º As concessões declaradas abandonadas poderão ser novamente atribuídas, isoladamente ou por grupos, por iniciativa do Estado ou a requerimento de qualquer interessado, sendo a atribuição feita, em regra, por concurso público ou, quando for julgado mais conveniente, por negociação directa, inscrevendo-se nos respectivos alvarás as obrigações especiais a que ficarão sujeitos os novos concessionários, se for caso disso.
+Art. 95.º As concessões declaradas abandonadas poderão ser novamente atribuídas, isoladamente ou por grupos, por iniciativa do Estado ou a requerimento de qualquer interessado, sendo a atribuição feita, em regra, por concurso público ou, quando for julgado mais conveniente, por negociação directa, inscrevendo-se nos respectivos alvarás as obrigações especiais a que ficarão sujeitos os novos concessionários, se for caso disso.
 
 § único. Os acessórios mineiros ou quaisquer construções ou instalações existentes que tenham servido na antiga exploração e que sejam necessários à nova exploração podem ser expropriados por utilidade pública, na falta de acordo entre os interessados, a requerimento do novo concessionário.
 
-###### Art. 96.º São princípios norteadores da atribuição das concessões abandonadas, quer através de concurso público, quer por negociação directa, a maior intensidade da exploração, a integração em grupos mineiros em franca exploração, o maior grau de transformação dos minérios produzidos e a integração em indústrias utilizadoras desses minérios.
+Art. 96.º São princípios norteadores da atribuição das concessões abandonadas, quer através de concurso público, quer por negociação directa, a maior intensidade da exploração, a integração em grupos mineiros em franca exploração, o maior grau de transformação dos minérios produzidos e a integração em indústrias utilizadoras desses minérios.
 
-###### Art. 97.º O requerimento a pedir a concessão ou concessões abandonadas deve ser dirigido ao Secretário de Estado da Indústria, devendo nele ser indicado o plano esquemático que o pretendente se propõe realizar.
+Art. 97.º O requerimento a pedir a concessão ou concessões abandonadas deve ser dirigido ao Secretário de Estado da Indústria, devendo nele ser indicado o plano esquemático que o pretendente se propõe realizar.
 
 § 1.º O Secretário de Estado da Indústria, ouvido o Conselho Superior de Minas e Serviços Geológicos, decidirá se a concessão ou concessões devem ou não ser novamente atribuídas, ordenando, no primeiro caso, que se abra concurso público ou se proceda às negociações directas.
 
@@ -173,21 +191,21 @@ Esta decisão será comunicada ao requerente no prazo de noventa dias.
 
 § 2.º A documentação técnica existente na Direcção-Geral de Minas e Serviços Geológicos, necessária à apreciação do valor das concessões abandonadas, poderá ser facultada ao exame das pessoas interessadas.
 
-###### Art. 98.º As concessões abandonadas atribuídas nos termos dos artigos anteriores serão tituladas por alvará, ficando o novo concessionário em tudo sujeito às disposições do presente decreto-lei e mais legislação aplicável.
+Art. 98.º As concessões abandonadas atribuídas nos termos dos artigos anteriores serão tituladas por alvará, ficando o novo concessionário em tudo sujeito às disposições do presente decreto-lei e mais legislação aplicável.
 
 ...
 
-###### Art. 2.º As transmissões de concessões mineiras operadas por força do disposto no § 4.º do artigo 52.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 42205](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42205-1959-586043), de 7 de Abril de 1959, não serão passíveis do pagamento de sisa.
+Art. 2.º As transmissões de concessões mineiras operadas por força do disposto no § 4.º do artigo 52.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 42205](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42205-1959-586043), de 7 de Abril de 1959, não serão passíveis do pagamento de sisa.
 
-###### Art. 3.º Ficam revogados os artigos 99.º e 100.º do [Decreto-Lei n.º 29725](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29725-1939-201783), de 28 de Junho de 1939.
+Art. 3.º Ficam revogados os artigos 99.º e 100.º do [Decreto-Lei n.º 29725](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29725-1939-201783), de 28 de Junho de 1939.
 
-###### Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 
-**Promulgado em 9 de Janeiro de 1969.**
+Promulgado em 9 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

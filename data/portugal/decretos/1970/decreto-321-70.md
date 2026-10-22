@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/321-1970-140100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 570a04287475ae26ac511ff49ce0f0a5f4e6653e95ebd0f285ad8104f86056df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 937eb6fbe61423c0e9ee1c0e5c07494df74935a24c27350fa82c75fe5477b995
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500441:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:14Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Ouvido o Conselho Ultramarino, nos termos da alínea d) do n.º I da base X da L
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É aprovado o quadro comum do pessoal do Instituto das Indústrias de Pesca de Angola, constante do mapa I anexo ao presente diploma, que dele faz parte integrante e segue assinado pelo Ministro do Ultramar.
+Artigo 1.º - 1. É aprovado o quadro comum do pessoal do Instituto das Indústrias de Pesca de Angola, constante do mapa I anexo ao presente diploma, que dele faz parte integrante e segue assinado pelo Ministro do Ultramar.
 
 2. O Governo-Geral de Angola constituirá por diploma legislativo o quadro privativo do pessoal do Instituto, devendo observar as nomenclaturas e as categorias constantes do mapa II anexo a este diploma, que dele faz parte integrante e segue assinado pelo Ministro do Ultramar.
 
@@ -98,7 +114,7 @@ Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constitui
 
 4. Tanto o pessoal a que se refere o n.º 1 deste artigo como o previsto nos n.os 2 e 3 poderá prestar serviço ao Fundo de Apoio às Indústrias de Pesca, conforme for determinado pelo director do Instituto.
 
-###### Art. 2.º - 1. O regime de admissão e acesso do pessoal do quadro comum que não esteja já expressamente regulado pelo [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, obedecerá às seguintes regras:
+Art. 2.º - 1. O regime de admissão e acesso do pessoal do quadro comum que não esteja já expressamente regulado pelo [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, obedecerá às seguintes regras:
 
 a) Pessoal directivo e administrativo:
 
@@ -134,11 +150,11 @@ b) Pessoal de investigação e pessoal técnico:
 
 3. O regime de ingresso e promoção do pessoal do quadro privativo do Instituto, bem como a sua competência, serão fixados pelo Governo-Geral de Angola.
 
-###### Art. 3.º Podem os lugares que exijam habilitações técnicas especiais ser providos por funcionários requisitados a quaisquer serviços públicos ou organismos de coordenação económica, nos termos da lei.
+Art. 3.º Podem os lugares que exijam habilitações técnicas especiais ser providos por funcionários requisitados a quaisquer serviços públicos ou organismos de coordenação económica, nos termos da lei.
 
-###### Art. 4.º O pessoal do Instituto das Indústrias de Pesca de Angola usufruirá dos abonos que a lei atribui a funcionários públicos de correspondente categoria, por igual forma se regulando os restantes direitos, os deveres, bem como o regime disciplinar.
+Art. 4.º O pessoal do Instituto das Indústrias de Pesca de Angola usufruirá dos abonos que a lei atribui a funcionários públicos de correspondente categoria, por igual forma se regulando os restantes direitos, os deveres, bem como o regime disciplinar.
 
-###### Art. 5.º - 1. Transitará para os novos quadros e para lugares tanto quanto possível correspondentes aos que ocupam o pessoal que à data da publicação do presente diploma se encontre ao serviço do Instituto.
+Art. 5.º - 1. Transitará para os novos quadros e para lugares tanto quanto possível correspondentes aos que ocupam o pessoal que à data da publicação do presente diploma se encontre ao serviço do Instituto.
 
 2. A transição do pessoal para os lugares do quadro comum far-se-á sob proposta do Governo-Geral de Angola, mediante relação nominal constante de despacho do Ministro do Ultramar, anotado pelo Tribunal de Contas e publicado no Diário do Governo.
 
@@ -150,7 +166,7 @@ b) Pessoal de investigação e pessoal técnico:
 
 6. Se da transição a que se refere o n.º 1 do artigo resultar para alguns agentes a diminuição de vencimentos ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para que transitarem, os seus actuais vencimentos e outras regalias inerentes.
 
-###### Art. 6.º O primeiro provimento dos lugares de adjunto técnico, assistente técnico de 3.ª classe e tradutor-correspondente poderá ser feito livremente nas seguintes condições:
+Art. 6.º O primeiro provimento dos lugares de adjunto técnico, assistente técnico de 3.ª classe e tradutor-correspondente poderá ser feito livremente nas seguintes condições:
 
 Adjunto técnico - pelo Ministro do Ultramar, entre indivíduos habilitados com curso de regente agrícola;
 
@@ -158,15 +174,15 @@ Assistente técnico de 3.ª classe - pelo governador-geral de Angola, entre indi
 
 Tradutor-correspondente - pelo governador-geral de Angola, entre indivíduos habilitados com o 2.º ciclo dos liceus e que demonstrem possuir conhecimentos perfeitos de francês e de inglês.
 
-###### Art. 7.º Os novos lugares criados por este diploma serão dotados à medida que as necessidades do serviço o imponham e as possibilidades financeiras do organismo o permitam.
+Art. 7.º Os novos lugares criados por este diploma serão dotados à medida que as necessidades do serviço o imponham e as possibilidades financeiras do organismo o permitam.
 
-###### Art. 8.º São revogados o artigo 60.º do [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, o [Decreto n.º 44523](https://diariodarepublica.pt/dr/detalhe/decreto/44523-1962-163217), de 18 de Agosto de 1962, o artigo 42.º e o artigo 43.º, n.º 2, do Diploma Legislativo Ministerial n.º 15, de 31 de Maio de 1967, o artigo 3.º do [Decreto n.º 48237](https://diariodarepublica.pt/dr/detalhe/decreto/48237-1968-233701), de 7 de Fevereiro de 1968, e os artigos 1.º a 3.º do [Decreto n.º 48645](https://diariodarepublica.pt/dr/detalhe/decreto/48645-1968-263740), de 25 de Outubro de 1968.
+Art. 8.º São revogados o artigo 60.º do [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, o [Decreto n.º 44523](https://diariodarepublica.pt/dr/detalhe/decreto/44523-1962-163217), de 18 de Agosto de 1962, o artigo 42.º e o artigo 43.º, n.º 2, do Diploma Legislativo Ministerial n.º 15, de 31 de Maio de 1967, o artigo 3.º do [Decreto n.º 48237](https://diariodarepublica.pt/dr/detalhe/decreto/48237-1968-233701), de 7 de Fevereiro de 1968, e os artigos 1.º a 3.º do [Decreto n.º 48645](https://diariodarepublica.pt/dr/detalhe/decreto/48645-1968-263740), de 25 de Outubro de 1968.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1970.**
+Promulgado em 29 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -176,12 +192,12 @@ MAPA I
 
 Quadro comum do pessoal do Instituto das Indústrias de Pesca de Angola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/07/15900/09030905.pdf))](https://files.diariodarepublica.pt/1s/1970/07/15900/09030905.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/07/15900/09030905.pdf)
 
 MAPA II
 
 Quadro privativo do pessoal do Instituto das Indústrias de Pesca de Angola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/07/15900/09030905.pdf))](https://files.diariodarepublica.pt/1s/1970/07/15900/09030905.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/07/15900/09030905.pdf)
 
 Ministério do Ultramar, 29 de Junho de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

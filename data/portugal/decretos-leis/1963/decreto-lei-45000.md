@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45000-1963-196731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5744ce1e71cfc7dffe1a6802535136f134ae3b093945eaa3a671f3b94176f582
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a0f193944ded105b441927b734f468db3ac112516cfccf024810365b1bd0b29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Código Administrativo
+- Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+- Madeira.ilha Adjacente
+relationships:
+- type: cites
+  target: pt:dre:182405:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:48Z'
   warnings: []
   errors: []
 ---
@@ -91,23 +99,23 @@ Considerando, ainda, justificar-se que o preceituado no § 6.º do artigo 8.º d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 2.º do artigo 521.º do Código Administrativo passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2.º do artigo 521.º do Código Administrativo passa a ter a seguinte redacção:
 
-###### Art. 521.º ...
+Art. 521.º ...
 
 2.º Os que se encontrem providos em cargo de governador civil, presidente de câmara municipal ou presidente de junta geral dos distritos autónomos;
 
 ...
 
-###### Art. 2.º O § 6.º do artigo 8.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passa a ter a redacção seguinte:
+Art. 2.º O § 6.º do artigo 8.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passa a ter a redacção seguinte:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § 6.º Os funcionários do Estado ou os funcionários administrativos que sejam nomeados presidentes das juntas gerais serão considerados em comissão extraordinária de serviço e com direito a optar pelo seu ordenado ou pelo de presidente da junta geral, competindo a esta em qualquer caso o respectivo pagamento.
 
 ...
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

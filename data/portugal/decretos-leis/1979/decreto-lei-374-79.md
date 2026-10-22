@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20800/22522254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48fd8a70c6db742cf877627211d589154907bfa628b09f4fc4c21730fdbeea66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bcbe8f879aa0f347d601807d531de21d30bc3874946e8ccb0481c9bcaf11feb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Anti-doping
+- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:333351:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148827:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333351:por
+  label: "Revogado pelo DEC LEI.105/90.23.03.1990.ME, DR.IS [69] de 23.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1990-333351
+  date: '1990-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:32Z'
   warnings: []
   errors: []
 ---
@@ -141,11 +152,11 @@ Duas vias conjugadas (a sancionatória e a pedagógica) se divisam, portanto, na
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Todo aquele que participe em competições oficiais, como atleta ou praticante desportivo, fica obrigado a submeter-se, nos termos da lei, ao contrôle antidoping.
+Artigo 1.º - 1 - Todo aquele que participe em competições oficiais, como atleta ou praticante desportivo, fica obrigado a submeter-se, nos termos da lei, ao contrôle antidoping.
 
 2 - Este contrôle visa reprimir a prática da administração de substâncias dopantes com a finalidade de aumentar o rendimento nas competições referidas no número anterior.
 
-###### Art. 2.º - 1 - Será aplicada ao atleta ou praticante desportivo, provada a administração de estimulante de consumo ilícito com a finalidade da sua participação em competição desportiva oficial, uma das seguintes sanções:
+Art. 2.º - 1 - Será aplicada ao atleta ou praticante desportivo, provada a administração de estimulante de consumo ilícito com a finalidade da sua participação em competição desportiva oficial, uma das seguintes sanções:
 
 a) Suspensão;
 
@@ -155,23 +166,23 @@ c) Suspensão, multa e medida de vigilância temporária;
 
 d) Suspensão, multa e medida de vigilância permanente.
 
-###### Art. 3.º - 1 - Consideram-se estimulantes para o efeito deste diploma os produtos ou substâncias que em cada ano, e depois de consultada a comissão antidopagem, forem referenciados pela competente federação desportiva.
+Art. 3.º - 1 - Consideram-se estimulantes para o efeito deste diploma os produtos ou substâncias que em cada ano, e depois de consultada a comissão antidopagem, forem referenciados pela competente federação desportiva.
 
 2 - A federação dará publicidade a essa listagem, introduzindo-a no seu regulamento.
 
-###### Art. 4.º - 1 - É competição desportiva oficial aquela cuja realização no País dependa de autorização da competente federação desportiva ou da Direcção-Geral dos Desportos.
+Art. 4.º - 1 - É competição desportiva oficial aquela cuja realização no País dependa de autorização da competente federação desportiva ou da Direcção-Geral dos Desportos.
 
 2 - É competição desportiva oficial aquela que, ocorrendo no estrangeiro, tenha a participação de atleta ou praticante desportivo em representação do País, autorizado pela competente federação desportiva ou pela Direcção-Geral dos Desportos.
 
-###### Art. 5.º A suspensão consiste na proibição de o infractor participar em competição oficial durante o período de seis meses a um ano.
+Art. 5.º A suspensão consiste na proibição de o infractor participar em competição oficial durante o período de seis meses a um ano.
 
-###### Art. 6.º A suspensão e multa consiste na proibição de o infractor participar em competição oficial durante o período de um a dois anos e no pagamento de uma quantia a fixar, entre 3000$00 e 10000$00.
+Art. 6.º A suspensão e multa consiste na proibição de o infractor participar em competição oficial durante o período de um a dois anos e no pagamento de uma quantia a fixar, entre 3000$00 e 10000$00.
 
-###### Art. 7.º A suspensão, multa e medida de vigilância temporária consiste na proibição de o atleta ou praticante desportivo infractor participar em competição oficial durante um período de dois a cinco anos, no pagamento de uma quantia a fixar entre 10000$00 e 30000$00 e na obrigação de se submeter, enquanto tiver a qualidade de atleta ou praticante desportivo, durante três meses a dois anos, ao contrôle que for definido pela competente federação.
+Art. 7.º A suspensão, multa e medida de vigilância temporária consiste na proibição de o atleta ou praticante desportivo infractor participar em competição oficial durante um período de dois a cinco anos, no pagamento de uma quantia a fixar entre 10000$00 e 30000$00 e na obrigação de se submeter, enquanto tiver a qualidade de atleta ou praticante desportivo, durante três meses a dois anos, ao contrôle que for definido pela competente federação.
 
-###### Art. 8.º A suspensão, multa e medida de vigilância permanente consiste na proibição de o infractor participar em competição oficial durante um período de cinco a oito anos, no pagamento de uma quantia a fixar entre 30000$00 e 100000$00 e na obrigação de se submeter, enquanto tiver a qualidade de atleta ou praticante desportivo, ao contrôle que for definido pela competente federação.
+Art. 8.º A suspensão, multa e medida de vigilância permanente consiste na proibição de o infractor participar em competição oficial durante um período de cinco a oito anos, no pagamento de uma quantia a fixar entre 30000$00 e 100000$00 e na obrigação de se submeter, enquanto tiver a qualidade de atleta ou praticante desportivo, ao contrôle que for definido pela competente federação.
 
-###### Art. 9.º - 1 - Incumbe à respectiva federação desportiva mandar instaurar o competente processo disciplinar, que deve ser ultimado no prazo de trinta dias, só podendo ser excedido este prazo por uma vez e por um período não superior a trinta dias, mediante despacho da entidade que tiver de proferir a decisão.
+Art. 9.º - 1 - Incumbe à respectiva federação desportiva mandar instaurar o competente processo disciplinar, que deve ser ultimado no prazo de trinta dias, só podendo ser excedido este prazo por uma vez e por um período não superior a trinta dias, mediante despacho da entidade que tiver de proferir a decisão.
 
 2 - Ao infractor será assegurado o direito de defesa.
 
@@ -187,13 +198,13 @@ d) Suspensão, multa e medida de vigilância permanente.
 
 8 - Às federações desportivas cabe organizar um cadastro para cada atleta ou praticante desportivo punido, que será mantido actualizado.
 
-###### Art. 10.º - 1 - Na aplicação de uma sanção, dever-se-á ter em conta o grau de culpabilidade do infractor, a sua condição cultural, social e económica.
+Art. 10.º - 1 - Na aplicação de uma sanção, dever-se-á ter em conta o grau de culpabilidade do infractor, a sua condição cultural, social e económica.
 
 2 - No caso de reincidência, a sanção a aplicar será agravada, quanto à suspensão e à multa, com metade do seu limite mínimo.
 
-###### Art. 11.º Aquele que instigue, auxilie ou ministre ao atleta ou praticante desportivo qualquer produto ou substância de uso tornado ilegítimo por este diploma, visando a participação daquele em competição desportiva oficial, e tenha agido dolosa e directamente, fica sujeito à punição do artigo 8.º do [Decreto-Lei n.º 420/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1970-148827), de 3 de Setembro.
+Art. 11.º Aquele que instigue, auxilie ou ministre ao atleta ou praticante desportivo qualquer produto ou substância de uso tornado ilegítimo por este diploma, visando a participação daquele em competição desportiva oficial, e tenha agido dolosa e directamente, fica sujeito à punição do artigo 8.º do [Decreto-Lei n.º 420/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1970-148827), de 3 de Setembro.
 
-###### Art. 12.º O atleta ou praticante desportivo que, infringindo as normas definidas para a recolha laboratorial, se recusar a facultar o produto a analisar química e laboratorialmente, incorre nas seguintes sanções:
+Art. 12.º O atleta ou praticante desportivo que, infringindo as normas definidas para a recolha laboratorial, se recusar a facultar o produto a analisar química e laboratorialmente, incorre nas seguintes sanções:
 
 a) No caso de nunca ter sido punido, na consignada no artigo 2.º, alínea b);
 
@@ -203,18 +214,18 @@ c) No caso de ter sido punido de acordo com o artigo 6.º, na consignada no arti
 
 d) No caso de ter sido punido de harmonia com os artigos 7.º e 8.º, a suspensão e a multa serão agravadas, para a totalidade das recusas em cada competição desportiva oficial, com um quarto do limite máximo da sanção aplicável.
 
-###### Art. 13.º No caso de o atleta ou praticante desportivo incorporar ou consentir que se incorpore, no produto analisado, qualquer substância que defraude o resultado da análise, ou quando apresente como seu produto que o não seja, incorre na sanção consignada na alínea d) do artigo 12.º
+Art. 13.º No caso de o atleta ou praticante desportivo incorporar ou consentir que se incorpore, no produto analisado, qualquer substância que defraude o resultado da análise, ou quando apresente como seu produto que o não seja, incorre na sanção consignada na alínea d) do artigo 12.º
 
-###### Art. 14.º Compete à Direcção-Geral de Apoio Médico, em colaboração com a comissão anti-dopagem, assegurar e garantir a recolha do líquido orgânico nas provas desportivas onde se realize o contrôle anti-doping, realizando exames e análises químicas e laboratoriais em estabelecimentos adequados.
+Art. 14.º Compete à Direcção-Geral de Apoio Médico, em colaboração com a comissão anti-dopagem, assegurar e garantir a recolha do líquido orgânico nas provas desportivas onde se realize o contrôle anti-doping, realizando exames e análises químicas e laboratoriais em estabelecimentos adequados.
 
-###### Art. 15.º A forma como será processado o contrôle, a análise dos produtos colhidos e a apresentação do atleta em departamento médico, quando estiver sujeito a medida de vigilância, será definida por regulamento, a publicar no prazo de noventa dias pela Direcção-Geral de Apoio Médico.
+Art. 15.º A forma como será processado o contrôle, a análise dos produtos colhidos e a apresentação do atleta em departamento médico, quando estiver sujeito a medida de vigilância, será definida por regulamento, a publicar no prazo de noventa dias pela Direcção-Geral de Apoio Médico.
 
-###### Art. 16.º As dúvidas surgidas na interpretação e aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 16.º As dúvidas surgidas na interpretação e aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 9 de Agosto de 1979.**
+Promulgado em 9 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

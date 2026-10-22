@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/393-1972-690229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 647fc1ec0b37f7c873633ce106ffac5682dad1b277dd6d4cdbf533f37e7b55f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18d207a347c86c2c27b8a0d75ab9e28888ce50a2fba4a515aafe23cf08a649b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:02Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º O produto da venda em hasta pública do material inutilizado e inservível dos serviços dos correios, telégrafos e telefones das províncias ultramarinas constitui receita:
+Artigo 1.º O produto da venda em hasta pública do material inutilizado e inservível dos serviços dos correios, telégrafos e telefones das províncias ultramarinas constitui receita:
 
 a) Dos serviços sociais dos CTT, nas províncias em que tais serviços existem;
 
@@ -100,16 +100,16 @@ b) Das caixas de auxílios dos CTT ou, na falta destas, das lutuosas dos emprega
 
 c) Dos serviços dos CTT, como receita eventual, nas províncias em que não existam os organismos mencionados nas alíneas a) e b).
 
-###### Art. 2.º - 1. Na província de S. Tomé e Príncipe, aos concursos para provimento dos lugares de operador do quadro do pessoal de exploração dos Serviços dos Correios, Telégrafos e Telefones poderão ser admitidos, com dispensa das habilitações legais, os distribuidores de 1.ª classe do quadro do pessoal auxiliar, desde que tenham prestado serviço nos Correios, Telégrafos e Telefones, com boas informações, durante um período mínimo de três anos.
+Art. 2.º - 1. Na província de S. Tomé e Príncipe, aos concursos para provimento dos lugares de operador do quadro do pessoal de exploração dos Serviços dos Correios, Telégrafos e Telefones poderão ser admitidos, com dispensa das habilitações legais, os distribuidores de 1.ª classe do quadro do pessoal auxiliar, desde que tenham prestado serviço nos Correios, Telégrafos e Telefones, com boas informações, durante um período mínimo de três anos.
 
 2. Os indivíduos que forem nomeados operadores ao abrigo da disposição contida no n.º 1 deste artigo não poderão ascender a lugares superiores aos de categoria da letra L do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, salvo se, entretanto, tiverem adquirido as habilitações estabelecidas por lei.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 2 de Outubro de 1972.**
+Promulgado em 2 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

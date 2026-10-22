@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49281-1969-216117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d013c2185dec05703ebf100563437e41da5847ac6b1add3dca2abf57f674208a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad0610c2a1e740f1d011c9e68488fe5698bfc35430a2d91fef12557caaf05b94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:28Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +92,18 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial, a que foi submetida por decreto de 27 de Julho de 1917, e restituída à administração da Câmara Municipal de Mira uma parcela de terreno baldio do perímetro florestal das dunas de Mira, com a superfície de 6720 m2, a fim de na mesma ser construída uma creche.
+Artigo 1.º É excluída do regime florestal parcial, a que foi submetida por decreto de 27 de Julho de 1917, e restituída à administração da Câmara Municipal de Mira uma parcela de terreno baldio do perímetro florestal das dunas de Mira, com a superfície de 6720 m2, a fim de na mesma ser construída uma creche.
 
-###### Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca extraordinário.
+Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca extraordinário.
 
-###### Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
+Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
 
-###### Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal de Mira proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais.
+Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal de Mira proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 22 de Setembro de 1969.**
+Promulgado em 22 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

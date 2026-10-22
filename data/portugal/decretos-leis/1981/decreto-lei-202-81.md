@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1981-580312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fc23622acd8d60e9df65e0b88f99043cee43200754262b910128f3bf6ba37db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4cf807d1ca35228be9c6193835432aaf5132dc9c3233ae0ce95b8f290cb24e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Deslocação em Serviço
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:325102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325102:por
+  label: "Aditado um nº 3 ao art. 2º pelo DEC LEI.93/85.02.04.1985.MAI, DR.IS [77] de 02.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1985-325102
+  date: '1985-04-02'
+- type: cites
+  target: pt:dre:250419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:33Z'
   warnings: []
   errors: []
 ---
@@ -97,27 +113,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal da Polícia de Segurança Pública quando deslocado da sua residência oficial por motivos de serviço público tem direito ao abono diário de ajudas de custo, nas condições estabelecidas neste diploma.
+Artigo 1.º - 1 - O pessoal da Polícia de Segurança Pública quando deslocado da sua residência oficial por motivos de serviço público tem direito ao abono diário de ajudas de custo, nas condições estabelecidas neste diploma.
 
 2 - É condição essencial para o abono de ajudas de custo não ter o interessado solicitado a ordem superior que determina a sua deslocação.
 
-###### Art. 2.º - 1 - Considera-se residência oficial, para efeitos de ajudas de custo, a periferia da localidade onde o funcionário tem o seu domicílio necessário.
+Art. 2.º - 1 - Considera-se residência oficial, para efeitos de ajudas de custo, a periferia da localidade onde o funcionário tem o seu domicílio necessário.
 
 2 - O domicílio necessário é determinado pelo local onde o funcionário tomou posse do cargo, se aí ficou a prestar serviço, por aquele onde exercer as funções, se for colocado noutro local, ou, não havendo local certo, por aquele onde se situe o centro da sua actividade funcional, desde que aí esteja colocado com carácter de permanência, e ainda pelo estabelecido em lei especial.
 
-###### Art. 3.º - 1 - Conforme as características que revistam as deslocações por motivo de serviço público classificar-se-ão em diárias e por dias sucessivos.
+Art. 3.º - 1 - Conforme as características que revistam as deslocações por motivo de serviço público classificar-se-ão em diárias e por dias sucessivos.
 
 2 - Consideram-se deslocações diárias as que se realizam dentro de um período de vinte e quatro horas ou que, ultrapassando-o, não impliquem a necessidade de realização de novas despesas.
 
 3 - Consideram-se deslocações por dias sucessivos as que se efectivam num período de tempo superior a vinte e quatro horas e que não estejam abrangidas no número anterior.
 
-###### Art. 4.º - 1 - Só haverá direito ao abono de ajudas de custo nas deslocações diárias que se realizem para além de 5 km da residência oficial e nas deslocações por dias sucessivos que se realizem para além de 20 km daquela residência.
+Art. 4.º - 1 - Só haverá direito ao abono de ajudas de custo nas deslocações diárias que se realizem para além de 5 km da residência oficial e nas deslocações por dias sucessivos que se realizem para além de 20 km daquela residência.
 
 2 - As distâncias previstas no número anterior serão contadas a partir do ponto da periferia mais próximo do local de destino, salvo se o funcionário demonstrar que por outra via é menor a distância total a percorrer desde a sede do serviço ou da casa da sua residência, se esta se situar na mesma localidade, e da sua utilização resultar interesse para o serviço.
 
 3 - Verificado o disposto na parte final do número anterior, caberá ao comando que ordenou a deslocação fixar o ponto da periferia a partir do qual se deverá contar a distância a considerar até ao local do destino.
 
-###### Art. 5.º - 1 - O abono de ajudas de custo corresponderá ao pagamento de uma parte da importância diária que estiver fixada ou da sua totalidade, conforme o disposto nos números seguintes.
+Art. 5.º - 1 - O abono de ajudas de custo corresponderá ao pagamento de uma parte da importância diária que estiver fixada ou da sua totalidade, conforme o disposto nos números seguintes.
 
 2 - Nas deslocações diárias abonar-se-ão as seguintes percentagens de ajudas de custo diárias:
 
@@ -153,7 +169,7 @@ Depois das 20 horas - 50%.
 
 c) Restantes dias - 100%.
 
-###### Art. 6.º Nas deslocações por dias sucessivos em que sejam fornecidos, sem encargos para o funcionário deslocado, alimentação e alojamento, ou só uma destas prestações, abonar-se-ão as ajudas de custo diárias nas seguintes percentagens:
+Art. 6.º Nas deslocações por dias sucessivos em que sejam fornecidos, sem encargos para o funcionário deslocado, alimentação e alojamento, ou só uma destas prestações, abonar-se-ão as ajudas de custo diárias nas seguintes percentagens:
 
 a) Com o fornecimento de uma só refeição - 75%;
 
@@ -165,7 +181,7 @@ d) Com o fornecimento de alojamento e uma refeição - 25%;
 
 e) Com o fornecimento de alojamento e duas refeições - 20%.
 
-###### Art. 7.º - 1 - A mudança efectiva de residência de pessoal que por motivo de nova colocação seja transferido para outra localidade dá direito ao abono de ajudas de custo, por uma só vez, no quantitativo igual a trinta dias de ajudas de custo.
+Art. 7.º - 1 - A mudança efectiva de residência de pessoal que por motivo de nova colocação seja transferido para outra localidade dá direito ao abono de ajudas de custo, por uma só vez, no quantitativo igual a trinta dias de ajudas de custo.
 
 2 - O direito à percepção de ajudas de custo constitui-se na data em que se torne efectiva a colocação do pessoal no seu novo comando regional ou distrital, observadas as disposições do artigo 15.º do presente diploma e do número seguinte.
 
@@ -181,7 +197,7 @@ d) Aos oficiais a prestar serviço na PSP, sempre que regressem ao Exército, de
 
 e) Nas transferências de pessoal, por imposição de serviço, para as divisões, secções, esquadras e postos destacados dentro dos respectivos comandos distritais, mediante prévia autorização do Comando-Geral.
 
-###### Art. 8.º - 1 - Em casos especiais, poderá ser excepcionado o disposto no artigo 4.º, na forma e nas condições dos números seguintes.
+Art. 8.º - 1 - Em casos especiais, poderá ser excepcionado o disposto no artigo 4.º, na forma e nas condições dos números seguintes.
 
 2 - Abono para a despesa de almoço de uma importância equivalente a 25% das ajudas de custo diárias nas deslocações até 5 km, se o funcionário não dispuser de transporte que lhe permita almoçar na sua residência ou nos refeitórios dos departamentos policiais, circunstância a apreciar por quem ordenou a deslocação.
 
@@ -203,25 +219,25 @@ g) Incómodo da deslocação.
 
 4 - Abono dos quantitativos correspondentes às percentagens previstas no n.º 2 do artigo 5.º para deslocações além de 20 km, se o respectivo comando reconhecer, em despacho fundamentado, apenas haver lugar a tais abonos, tendo em atenção, designadamente, os pressupostos constantes das alíneas do número anterior.
 
-###### Art. 9.º - 1 - O abono de ajudas de custo ao pessoal da Polícia de Segurança Pública não poderá ter lugar além do período de noventa dias sem autorização dada por despacho fundamentado do Ministro da Administração Interna, com o acordo do Ministro das Finanças e do Plano, obtido por intermédio da Direcção-Geral da Contabilidade Pública.
+Art. 9.º - 1 - O abono de ajudas de custo ao pessoal da Polícia de Segurança Pública não poderá ter lugar além do período de noventa dias sem autorização dada por despacho fundamentado do Ministro da Administração Interna, com o acordo do Ministro das Finanças e do Plano, obtido por intermédio da Direcção-Geral da Contabilidade Pública.
 
 2 - O pessoal que for mantido para além de noventa dias sem a autorização referida no número anterior mantém o direito às ajudas de custo enquanto deslocado, sendo o seu pagamento da responsabilidade do comando que efectuar o abono, que deve prever se o período de noventa dias será ou não excedido.
 
 3 - O disposto no n.º 1 não se aplica aos elementos da Polícia de Segurança Pública quando no desempenho de funções de inspecção ou quando sejam encarregados de inquéritos, sindicâncias, processos disciplinares ou investigações de qualquer natureza para execução das quais se preveja um período superior a noventa dias, ou ainda quando sejam instrutores, monitores ou instruendos de cursos ou estágios de duração preestabelecida.
 
-###### Art. 10.º - 1 - As faltas por motivo de nojo não interrompem o abono de ajudas de custo.
+Art. 10.º - 1 - As faltas por motivo de nojo não interrompem o abono de ajudas de custo.
 
 2 - Os elementos que adoeçam, quando deslocados da sua residência oficial, mantêm o direito ao abono de ajudas de custo quando a doença os obrigue a permanecer em casa ou o período previsível do estado de doença for tão curto que o respectivo comando entenda não haver prejuízo em que eles se mantenham nessa situação, desde que participem de imediato a sua incapacidade e apresentem, nos termos legais, o competente atestado médico, se for caso disso.
 
-###### Art. 11.º Os elementos que ingressarem na Polícia de Segurança Pública só têm direito ao abono de ajudas de custo por actos de serviço posteriores à sua primeira colocação, depois de serem considerados prontos da respectiva escola de alistados.
+Art. 11.º Os elementos que ingressarem na Polícia de Segurança Pública só têm direito ao abono de ajudas de custo por actos de serviço posteriores à sua primeira colocação, depois de serem considerados prontos da respectiva escola de alistados.
 
-###### Art. 12.º Ao pessoal civil da Polícia de Segurança Pública são aplicáveis o regime e as modalidades de ajudas de custo definidos no presente diploma, com os valores da tabela que se encontrar em vigor para os mesmos.
+Art. 12.º Ao pessoal civil da Polícia de Segurança Pública são aplicáveis o regime e as modalidades de ajudas de custo definidos no presente diploma, com os valores da tabela que se encontrar em vigor para os mesmos.
 
-###### Art. 13.º Em casos especiais de representação, os encargos com a alimentação e alojamento inerentes a deslocações em serviço público no território nacional poderão ser satisfeitos contra declaração, devidamente visada, das despesas efectuadas.
+Art. 13.º Em casos especiais de representação, os encargos com a alimentação e alojamento inerentes a deslocações em serviço público no território nacional poderão ser satisfeitos contra declaração, devidamente visada, das despesas efectuadas.
 
-###### Art. 14.º As despesas com ajudas de custo abonadas aos funcionários da Polícia de Segurança Pública que vão desempenhar funções noutros serviços alheios à Polícia de Segurança Pública devem onerar as dotações orçamentais dos organismos onde os deslocados vão exercer a sua actividade.
+Art. 14.º As despesas com ajudas de custo abonadas aos funcionários da Polícia de Segurança Pública que vão desempenhar funções noutros serviços alheios à Polícia de Segurança Pública devem onerar as dotações orçamentais dos organismos onde os deslocados vão exercer a sua actividade.
 
-###### Art. 15.º Não se constitui o direito ao abono de ajudas de custo quando a deslocação seja determinada por uma das seguintes razões:
+Art. 15.º Não se constitui o direito ao abono de ajudas de custo quando a deslocação seja determinada por uma das seguintes razões:
 
 a) Requisição para depor em tribunais, civis ou militares, sobre factos alheios aos actos de serviço;
 
@@ -231,32 +247,32 @@ c) Termo de cumprimento de penas;
 
 d) Regresso ao serviço da situação de destacado em organismo não pertencente à Polícia de Segurança Pública, ou de licença ilimitada.
 
-###### Art. 16.º O quantitativo correspondente ao abono diário do subsídio de refeição previsto no [Decreto-Lei n.º 271/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1977-250419), de 2 de Julho, será deduzido nas ajudas de custo, quando as despesas sujeitas a compensação incluírem o custo do almoço.
+Art. 16.º O quantitativo correspondente ao abono diário do subsídio de refeição previsto no [Decreto-Lei n.º 271/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1977-250419), de 2 de Julho, será deduzido nas ajudas de custo, quando as despesas sujeitas a compensação incluírem o custo do almoço.
 
-###### Art. 17.º - 1 - Os comandantes regionais, distritais ou equiparados poderão autorizar o abono adiantado de ajudas de custo até trinta dias, devendo os interessados prestar contas da importância no prazo de dez dias após o termo daquele período ou do regresso à residência oficial, conforme o que primeiro ocorrer.
+Art. 17.º - 1 - Os comandantes regionais, distritais ou equiparados poderão autorizar o abono adiantado de ajudas de custo até trinta dias, devendo os interessados prestar contas da importância no prazo de dez dias após o termo daquele período ou do regresso à residência oficial, conforme o que primeiro ocorrer.
 
 2 - Poderá ser autorizada a constituição, nos termos legais, de fundos permanentes para o pagamento adiantado de ajudas de custo, sob proposta dos serviços onde se verifique frequentemente a necessidade de deslocações urgentes de pessoal.
 
 3 - Fica expressamente proibido o processamento adiantado de ajudas de custo, ou o seu pagamento antecipado através de fundos permanentes, ao pessoal que não tenha promovido a regularização dos adiantamentos concedidos nos termos do n.º 1 e no prazo ali fixado.
 
-###### Art. 18.º - 1 - Os funcionários que tenham recebido indevidamente quaisquer abonos de ajudas de custo ficam obrigados à sua reposição, independentemente da responsabilidade disciplinar que ao caso couber.
+Art. 18.º - 1 - Os funcionários que tenham recebido indevidamente quaisquer abonos de ajudas de custo ficam obrigados à sua reposição, independentemente da responsabilidade disciplinar que ao caso couber.
 
 2 - Ficam solidariamente responsáveis pela restituição das quantias indevidamente recebidas os comandantes regionais, distritais ou equiparados que autorizarem o pagamento de ajudas de custo, quando se verifique, pelos elementos levados ao seu conhecimento, que não havia justificação para tal.
 
-###### Art. 19.º As ajudas de custo previstas neste diploma serão fixadas em portaria assinada pelos Ministros da Administração Interna, das Finanças e do Plano e da Reforma Administrativa.
+Art. 19.º As ajudas de custo previstas neste diploma serão fixadas em portaria assinada pelos Ministros da Administração Interna, das Finanças e do Plano e da Reforma Administrativa.
 
-###### Art. 20.º O presente diploma aplica-se exclusivamente às deslocações efectuadas no território nacional.
+Art. 20.º O presente diploma aplica-se exclusivamente às deslocações efectuadas no território nacional.
 
-###### Art. 21.º Este diploma prevalece sobre todas e quaisquer disposições legais especiais ou regulamentares em contrário.
+Art. 21.º Este diploma prevalece sobre todas e quaisquer disposições legais especiais ou regulamentares em contrário.
 
-###### Art. 22.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano.
+Art. 22.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano.
 
-###### Art. 23.º Este diploma entra em vigor no primeiro dia do mês seguinte àquele em que for publicado.
+Art. 23.º Este diploma entra em vigor no primeiro dia do mês seguinte àquele em que for publicado.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Julho de 1981.**
+Promulgado em 1 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45272-1963-686819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a93a632b1e13018f6173a8aeb1d4578a2b37c345979e7b4902350e1f2aea005f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f30fae4deb1318f938339bae843a1723bdb2b70daac0348af5af0861db9266dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arruda dos Vinhos
+- Câmara Municipal
+- Freguesia
+- Ordenamento do Território
+- Política de Solos
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:25Z'
   warnings: []
   errors: []
 ---
@@ -88,10 +93,10 @@ Considerando que a pretensão obteve a concordância da Câmara Municipal de Arr
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º A delimitação das freguesias de Arranhó e Santiago dos Velhos, ambas do concelho de Arruda dos Vinhos, passa a ser definida, na zona onde se situa o lugar de Senhora da Ajuda, por uma linha que, partindo de um ponto situado no caminho municipal de A dos Eiros, a 110 m a nascente da estrada nacional n.º 115-4.ª, segue em linha recta e com orientação sueste até ao ponto denominado Moinho da Ajuda e, inflectindo para sudoeste, continua, também em linha recta, até encontrar a estrada militar no ponto situado junto ao cunhal noroeste do edifício conhecido por Casal das Derregadas, pertencente a Manuel Luís Menor.
+Artigo 1.º A delimitação das freguesias de Arranhó e Santiago dos Velhos, ambas do concelho de Arruda dos Vinhos, passa a ser definida, na zona onde se situa o lugar de Senhora da Ajuda, por uma linha que, partindo de um ponto situado no caminho municipal de A dos Eiros, a 110 m a nascente da estrada nacional n.º 115-4.ª, segue em linha recta e com orientação sueste até ao ponto denominado Moinho da Ajuda e, inflectindo para sudoeste, continua, também em linha recta, até encontrar a estrada militar no ponto situado junto ao cunhal noroeste do edifício conhecido por Casal das Derregadas, pertencente a Manuel Luís Menor.
 
-###### Art. 2.º A Câmara Municipal de Arruda dos Vinhos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo anterior.
+Art. 2.º A Câmara Municipal de Arruda dos Vinhos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

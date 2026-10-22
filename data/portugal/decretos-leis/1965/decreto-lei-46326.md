@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/05/10100/06470649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46326-1965-294075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 151b6b0ae66c93da3aca437359329205a67b389771b2fa3dcf8d30824312003b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a2595c6974db1d6f4dde4fedeca141854f1b872508386dcfb028c5ef612f90e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Militar
+- Promoção Profissional
+- Quadro de Pessoal
+- Recrutamento Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668687:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:17Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +133,7 @@ Ainda, as exigências em oficiais do corpo do estado-maior derivadas da organiza
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O corpo do estado-maior é constituído por:
+Artigo 1.º O corpo do estado-maior é constituído por:
 
 12 coronéis;
 
@@ -117,7 +147,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º O ingresso no corpo do estado-maior é sempre feito tomando por base a antiguidade inicial de tenente e, em caso de igualdade desta, a classificação obtida no curso da arma de origem.
 
-###### Art. 2.º Os oficiais das diferentes armas habilitados com o curso complementar de estado-maior antecipam de dois cursos a sua antiguidade no posto de tenente, indo ocupar, no quadro da sua arma, entre os oficiais do curso correspondente, o lugar imediatamente à esquerda daquele que tenha classificação igual ou imediatamente superior à sua e que não haja beneficiado de acesso devido a promoção por escolha ou distinção ou, bem assim, sido preterido. Os oficiais a quem for aplicada a doutrina deste artigo não podem, porém, ficar colocados à direita de outro que, também habilitado com o curso complementar de estado-maior, fosse primitivamente mais antigo na escala da sua arma.
+Art. 2.º Os oficiais das diferentes armas habilitados com o curso complementar de estado-maior antecipam de dois cursos a sua antiguidade no posto de tenente, indo ocupar, no quadro da sua arma, entre os oficiais do curso correspondente, o lugar imediatamente à esquerda daquele que tenha classificação igual ou imediatamente superior à sua e que não haja beneficiado de acesso devido a promoção por escolha ou distinção ou, bem assim, sido preterido. Os oficiais a quem for aplicada a doutrina deste artigo não podem, porém, ficar colocados à direita de outro que, também habilitado com o curso complementar de estado-maior, fosse primitivamente mais antigo na escala da sua arma.
 
 § 1.º A antiguidade nos postos nas armas de origem para os oficiais das diversas armas habilitados com o curso complementar de estado-maior, e bem assim para os oficiais promovidos por virtude da antecipação referida no corpo deste artigo, será a do oficial da arma de origem à direita do qual for intercalado.
 
@@ -127,7 +157,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º A aplicação deste artigo no caso de oficiais pertencentes a cursos especiais da Academia Militar para oficiais milicianos admitidos aos quadros permanentes a título excepcional obedece ao preceituado na [Portaria n.º 18396](https://diariodarepublica.pt/dr/detalhe/portaria/18396-1961-558423), de 13 de Abril de 1961.
 
-###### Art. 3.º Dentro do quadro de majores e capitães do corpo do estado-maior, são promovidos ao posto de major os capitães que às condições gerais de promoção reúnam as seguintes:
+Art. 3.º Dentro do quadro de majores e capitães do corpo do estado-maior, são promovidos ao posto de major os capitães que às condições gerais de promoção reúnam as seguintes:
 
 a) Ter oito anos de serviço efectivo depois do acesso ao posto de tenente, dos quais pelo menos dois como capitão em comissão privativa do serviço de estado-maior, com boa informação;
 
@@ -143,7 +173,7 @@ São ainda promovidos a major os capitães que, satisfazendo à condição da al
 
 § 4.º A inscrição na escala, como major, dos capitães promovidos nos termos deste artigo, é sempre feita tendo em conta a antiguidade inicial de tenente.
 
-###### Art. 4.º São promovidos aos postos de tenente-coronel e coronel os oficiais do corpo do estado-maior que às condições gerais de promoção reúnam as seguintes:
+Art. 4.º São promovidos aos postos de tenente-coronel e coronel os oficiais do corpo do estado-maior que às condições gerais de promoção reúnam as seguintes:
 
 a) Para a promoção a tenente-coronel:
 
@@ -161,7 +191,7 @@ Ter sido proposto para a promoção pelo Conselho Superior do Exército, mediant
 
 § único. Para efeito de aplicação do disposto no corpo deste artigo, o Ministro do Exército, mediante proposta do chefe do Estado-Maior do Exército, ouvida a Comissão Técnica do Estado-Maior, regulará, por despacho, a forma como se aplicarão as condições especiais de promoção estabelecidas no presente diploma aos oficiais do corpo do estado-maior, atentas as situações transitórias criadas e as conveniências do serviço, mas sem prejuízo do normal acesso dos oficiais do quadro do corpo.
 
-###### Art. 5.º (transitório). Os oficiais das armas habilitados com o curso complementar de estado-maior e que sejam majores à data da publicação do presente diploma ou venham a ser promovidos a este posto até 31 de Julho de 1965 ingressam no corpo do estado-maior desde que satisfaçam às condições estipuladas na primeira parte do § 1.º do artigo 1.º
+Art. 5.º (transitório). Os oficiais das armas habilitados com o curso complementar de estado-maior e que sejam majores à data da publicação do presente diploma ou venham a ser promovidos a este posto até 31 de Julho de 1965 ingressam no corpo do estado-maior desde que satisfaçam às condições estipuladas na primeira parte do § 1.º do artigo 1.º
 
 § 1.º Os oficiais nas condições deste artigo são considerados supranumerários permanentes ao quadro do corpo do estado-maior, aplicando-se-lhes, portanto, o disposto no § 1.º do artigo 52.º do Estatuto do Oficial do Exército aquando da sua promoção a tenente-coronel e a coronel.
 
@@ -171,7 +201,7 @@ Ter sido proposto para a promoção pelo Conselho Superior do Exército, mediant
 
 § 4.º No caso de a algum major, nas condições deste artigo, caber, pela sua antiguidade de tenente, o acesso a tenente-coronel, será promovido desde que seja considerado como tendo satisfeito as condições de promoção e irá inscrever-se na escala de tenentes-coronéis do corpo, tomando-se como base a sua antiguidade de tenente.
 
-###### Art. 6.º (transitório). A requerimento dos oficiais interessados, pode o Ministro do Exército autorizar o ingresso no corpo do estado-maior aos tenentes-coronéis das armas habilitados com um curso complementar de estado-maior e respectivo tirocínio julgados idóneos para o corpo do estado-maior pela Comissão Técnica do Estado-Maior e que, por falta de legislação adequada à data em que terminaram aquele tirocínio, não puderam ingressar no corpo do estado-maior.
+Art. 6.º (transitório). A requerimento dos oficiais interessados, pode o Ministro do Exército autorizar o ingresso no corpo do estado-maior aos tenentes-coronéis das armas habilitados com um curso complementar de estado-maior e respectivo tirocínio julgados idóneos para o corpo do estado-maior pela Comissão Técnica do Estado-Maior e que, por falta de legislação adequada à data em que terminaram aquele tirocínio, não puderam ingressar no corpo do estado-maior.
 
 § 1.º Os oficiais nas condições deste artigo são considerados supranumerários permanentes ao quadro do corpo do estado-maior, aplicando-se-lhes o disposto no § 1.º do artigo 52.º do Estatuto do Oficial do Exército aquando da sua promoção a coronel.
 
@@ -183,7 +213,7 @@ Ter sido proposto para a promoção pelo Conselho Superior do Exército, mediant
 
 § 5.º O Ministro do Exército regulará, por despacho, as condições de mudança de quadro e datas em que, para cada caso, essas mudanças se efectivarão.
 
-###### Art. 7.º Fica revogada a seguinte legislação:
+Art. 7.º Fica revogada a seguinte legislação:
 
 a) Corpo do artigo 6.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937;
 
@@ -191,8 +221,8 @@ b) Artigos 80.º, 81.º, 82.º, 83.º e 84.º do Decreto-Lei n.º 36804, de 24 d
 
 c) [Decreto-Lei n.º 41312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41312-1957-253606), de 10 de Outubro de 1957.
 
-###### Art. 8.º Os encargos resultantes da transformação do quadro do corpo do estado-maior, de acordo com o artigo 1.º do presente diploma, serão suportados, no corrente ano, pelas disponibilidades da verba consignada no capítulo 8.º, artigo 326.º, n.º 1) «Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército para o ano de 1965.
+Art. 8.º Os encargos resultantes da transformação do quadro do corpo do estado-maior, de acordo com o artigo 1.º do presente diploma, serão suportados, no corrente ano, pelas disponibilidades da verba consignada no capítulo 8.º, artigo 326.º, n.º 1) «Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército para o ano de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

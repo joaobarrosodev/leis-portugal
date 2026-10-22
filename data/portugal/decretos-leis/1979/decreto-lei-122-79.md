@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10500/08450848.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be9114ed92d5614763418a03bd0b309ad73a8252682cb31f90149d3bf693e4d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd0c8011664cf90b01d3f3a07e0ccc62335440c45fe5abef7299adbb7f0ef5c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Venda Ambulante
 relationships:
 - type: amended_by
   target: pt:dre:260444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567260:por
+  label: "Alterado o n.º 1 da lista anexa ao presente diploma, pela PORT.1059/81.15.12.1981.MACP, DR.IS [287] de 15.12.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1059-1981-567260
+  date: '1981-12-15'
+- type: amended_by
+  target: pt:dre:183218:por
+  label: "Alterado o artigo 22º pelo DEC LEI.282/85.22.07.1985.MAI, DR.IS [166] de 22.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1985-183218
+  date: '1985-07-22'
+- type: amended_by
+  target: pt:dre:220079:por
+  label: "Aditados um n.º 10 ao art. 18.º e um n.º 3 ao art. 19.º pelo DEC LEI.283/86.05.09.1986.MIC, DR.IS [204] de 05.09.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/283-1986-220079
+  date: '1986-09-05'
+- type: amended_by
+  target: pt:dre:289064:por
+  label: Alterados os arts. 18.º e 20.º do presente diploma, na redação dada pelo Dec Lei 283/86 de 05-set pelo(a) Decreto-Lei
+    n.º 399/91 - Diário da República n.º 238/1991, Série I-A de 1991-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1991-289064
+  date: '1991-10-16'
+- type: amended_by
+  target: pt:dre:239225:por
+  label: "Alterados os arts. 4º e 22º, com a redacção dada pelos Dec Lei 282/85 de 22-Jul, 283/86 de 05-Set, 399/91 de 16-Out\
+    \ e 252/93 de 14-Jul, pelo DEC LEI.9/2002.2002.01.24.PCM DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2002-239225
+  date: '2002-01-24'
+- type: cites
+  target: pt:dre:299014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329454:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:377921:por
+  label: Rectificado pela DECL.DD7246.07.08.1979.PCM, DR.IS [181] de 07.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-377921
+  date: '1979-08-07'
+- type: repealed_by
+  target: pt:dre:277581:por
+  label: "Revogada, a partir de 02.05.2011, a al. d) do nº 2 do art. 1º, pelo DEC LEI.48/2011.01.04.2011.PCM, DR.IS [65] de\
+    \ 01.04.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2011-277581
+  date: '2011-04-01'
+- type: repealed_by
+  target: pt:dre:260444:por
+  label: "Revogado a partir de 12.05.2013, na redação dos Decs Lei 282/85, de 22-jul, 283/86, de 05-set, 399/91, de 16-out,\
+    \ 252/93, de 14-jul, 9/2002, de 24-jan, 48/2011, de 01-abr e da Port. 1059/81, de 15-dez, pela LEI.27/2013.12.04.2013.AR,\
+    \ DR.IS [72] de 12.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2013-260444
+  date: '2013-04-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:35Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +158,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A venda ambulante passa a reger-se pelo presente diploma e legislação complementar.
+Artigo 1.º - 1 - A venda ambulante passa a reger-se pelo presente diploma e legislação complementar.
 
 2 - São considerados vendedores ambulantes os que:
 
@@ -110,15 +170,15 @@ c) Transportando a sua mercadoria em veículos, neles efectuem a respectiva vend
 
 d) Utilizando veículos automóveis ou reboques, neles confeccionem, na via pública ou em locais para o efeito determinados pelas câmaras municipais, refeições ligeiras ou outros produtos comestíveis preparados de forma tradicional.
 
-###### Art. 2.º - 1 - Sem prejuízo do estabelecimento em legislação especial, o exercício da venda ambulante é vedado às sociedades, aos mandatários e aos que exerçam outra actividade profissional, não podendo ainda ser praticado por interposta pessoa.
+Art. 2.º - 1 - Sem prejuízo do estabelecimento em legislação especial, o exercício da venda ambulante é vedado às sociedades, aos mandatários e aos que exerçam outra actividade profissional, não podendo ainda ser praticado por interposta pessoa.
 
 2 - Exceptuam-se do âmbito de aplicação do presente diploma a distribuição domiciliária efectuada por conta de comerciantes com estabelecimento fixo, a venda de lotarias, jornais e outras publicações periódicas.
 
-###### Art. 3.º - 1 - Na exposição e venda dos produtos do seu comércio, deverão os vendedores ambulantes utilizar individualmente tabuleiro de dimensões não superiores a 1 m x 1,20 m e colocado a uma altura mínima de 0,40 m do solo, salvo nos casos em que os meios para o efeito postos à disposição pelas câmaras municipais ou o transporte utilizado justifiquem a dispensa do seu uso.
+Art. 3.º - 1 - Na exposição e venda dos produtos do seu comércio, deverão os vendedores ambulantes utilizar individualmente tabuleiro de dimensões não superiores a 1 m x 1,20 m e colocado a uma altura mínima de 0,40 m do solo, salvo nos casos em que os meios para o efeito postos à disposição pelas câmaras municipais ou o transporte utilizado justifiquem a dispensa do seu uso.
 
 2 - Compete às câmaras municipais dispensar o cumprimento do estabelecido no número anterior relativamente à venda ambulante que se revista de características especiais.
 
-###### Art. 4.º É interdito aos vendedores ambulantes:
+Art. 4.º É interdito aos vendedores ambulantes:
 
 a) Impedir ou dificultar por qualquer forma o trânsito nos locais destinados à circulação de veículos e peões;
 
@@ -128,21 +188,21 @@ c) Impedir ou dificultar o acesso a monumentos e a edifícios públicos ou priva
 
 d) Lançar no solo quaisquer desperdícios, restos, lixo ou outros materiais susceptíveis de pejarem ou conspurcarem a via pública.
 
-###### Art. 5.º - 1 - Os tabuleiros, bancadas, pavilhões, veículos, reboques ou quaisquer outros meios utilizados na venda deverão conter afixada, em local bem visível ao público, a indicação do nome, morada e número do cartão do respectivo vendedor.
+Art. 5.º - 1 - Os tabuleiros, bancadas, pavilhões, veículos, reboques ou quaisquer outros meios utilizados na venda deverão conter afixada, em local bem visível ao público, a indicação do nome, morada e número do cartão do respectivo vendedor.
 
 2 - Os tabuleiros, balcões ou bancadas utilizados para a exposição, venda ou arrumação de produtos alimentares deverão ser construídos de material resistente a traços ou sulcos e facilmente laváveis.
 
 3 - Todo o material de exposição, venda, arrumação ou depósito deverá ser mantido em rigoroso estado de asseio e higiene.
 
-###### Art. 6.º - 1 - Os indivíduos que intervenham no acondicionamento, transporte ou venda de produtos alimentares serão, obrigatoriamente, portadores do boletim de sanidade, nos termos da legislação em vigor.
+Art. 6.º - 1 - Os indivíduos que intervenham no acondicionamento, transporte ou venda de produtos alimentares serão, obrigatoriamente, portadores do boletim de sanidade, nos termos da legislação em vigor.
 
 2 - Sempre que se suscitem dúvidas sobre o estado de sanidade do vendedor ou qualquer dos indivíduos referidos no número anterior, serão estes intimados a apresentar-se à autoridade sanitária competente, para inspecção.
 
 3 - Os vendedores ambulantes deverão comportar-se com civismo nas suas relações com o público.
 
-###### Art. 7.º Fica proibido o comércio ambulante dos produtos referidos na lista anexa a este diploma, a qual poderá ser alterada por portaria do Secretário de Estado do Comércio Interno.
+Art. 7.º Fica proibido o comércio ambulante dos produtos referidos na lista anexa a este diploma, a qual poderá ser alterada por portaria do Secretário de Estado do Comércio Interno.
 
-###### Art. 8.º - 1 - No transporte, arrumação, exposição e arrecadação dos produtos é obrigatório separar os alimentos dos de natureza diferente, bem como, de entre cada um deles, os que de algum modo possam ser afectados pela proximidade dos outros.
+Art. 8.º - 1 - No transporte, arrumação, exposição e arrecadação dos produtos é obrigatório separar os alimentos dos de natureza diferente, bem como, de entre cada um deles, os que de algum modo possam ser afectados pela proximidade dos outros.
 
 2 - Quando não estejam expostos para venda, os produtos alimentares devem ser guardados em lugares adequados a preservação do seu estado e, bem assim, em condições hígio-sanitárias que os protejam de poeiras, contaminações ou contactos que de qualquer modo possam afectar a saúde dos consumidores.
 
@@ -150,15 +210,15 @@ d) Lançar no solo quaisquer desperdícios, restos, lixo ou outros materiais sus
 
 4 - Na embalagem ou acondicionamento de produtos alimentares só pode ser usado papel ou outro material que ainda não tenha sido utilizado e que não contenha desenhos, pinturas ou dizeres impressos ou escritos na parte interior.
 
-###### Art. 9.º Não são permitidas, como meio de sugestionar aquisições pelo público, falsas descrições ou informações sobre a identidade, origem, natureza, composição, qualidade, propriedades ou utilidade dos produtos expostos à venda.
+Art. 9.º Não são permitidas, como meio de sugestionar aquisições pelo público, falsas descrições ou informações sobre a identidade, origem, natureza, composição, qualidade, propriedades ou utilidade dos produtos expostos à venda.
 
-###### Art. 10.º - 1 - Os preços terão de ser praticados em conformidade com a legislação em vigor.
+Art. 10.º - 1 - Os preços terão de ser praticados em conformidade com a legislação em vigor.
 
 2 - É obrigatória a afixação, por forma bem visível para o público, de letreiros, etiquetas ou listas indicando o preço dos produtos, géneros e artigos expostos.
 
-###### Art. 11.º O período de exercício da actividade da venda ambulante será fixado, nos termos da legislação em vigor, sobre o período de abertura dos estabelecimentos comerciais.
+Art. 11.º O período de exercício da actividade da venda ambulante será fixado, nos termos da legislação em vigor, sobre o período de abertura dos estabelecimentos comerciais.
 
-###### Art. 12.º - 1 - O vendedor ambulante deverá fazer-se acompanhar, para apresentação imediata às entidades competentes para a fiscalização, do cartão de vendedor ambulante devidamente actualizado.
+Art. 12.º - 1 - O vendedor ambulante deverá fazer-se acompanhar, para apresentação imediata às entidades competentes para a fiscalização, do cartão de vendedor ambulante devidamente actualizado.
 
 2 - O vendedor ambulante deverá fazer-se acompanhar ainda das facturas ou documentos equivalentes comprovativos da aquisição dos produtos para venda ao público, contendo os seguintes elementos:
 
@@ -168,15 +228,15 @@ b) O nome ou denominação social e a sede ou domicílio do produtor, grossista,
 
 c) A especificação das mercadorias adquiridas, com indicação das respectivas quantidades, preços e valores ilíquidos, descontos, abatimentos ou bónus concedidos e ainda, quando for caso disso, das correspondentes marcas, referências e números de série.
 
-###### Art. 13.º A venda ambulante de artigos de artesanato, frutas, produtos hortícolas ou quaisquer outros de fabrico ou produção próprios fica sujeita às disposições do presente diploma, com excepção do preceituado no n.º 2 do artigo anterior.
+Art. 13.º A venda ambulante de artigos de artesanato, frutas, produtos hortícolas ou quaisquer outros de fabrico ou produção próprios fica sujeita às disposições do presente diploma, com excepção do preceituado no n.º 2 do artigo anterior.
 
-###### Art. 14.º - 1 - O Secretário de Estado do Comércio Interno poderá, por portaria, estabelecer as normas que se mostrem necessárias à execução do disposto neste diploma em matéria da sua competência.
+Art. 14.º - 1 - O Secretário de Estado do Comércio Interno poderá, por portaria, estabelecer as normas que se mostrem necessárias à execução do disposto neste diploma em matéria da sua competência.
 
 2 - Quando as normas a estabelecer abrangerem matéria que caiba igualmente na competência de outras Secretarias de Estado ou Ministérios, devera a correspondente portaria ser emitida conjuntamente com esses departamentos.
 
-###### Art. 15.º Compete à Direcção-Geral de Coordenação Comercial assegurar o expediente e conceder a autorização para o exercício do comércio exigida no [Decreto-Lei n.º 247/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1978-299014), de 22 de Agosto.
+Art. 15.º Compete à Direcção-Geral de Coordenação Comercial assegurar o expediente e conceder a autorização para o exercício do comércio exigida no [Decreto-Lei n.º 247/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1978-299014), de 22 de Agosto.
 
-###### Art. 16.º Ao abrigo deste diploma e legislação complementar, podem as câmaras municipais:
+Art. 16.º Ao abrigo deste diploma e legislação complementar, podem as câmaras municipais:
 
 a) Restringir, condicionar ou proibir a venda ambulante, tendo em atenção os aspectos hígio-sanitários, estéticos e de comodidade para o público;
 
@@ -188,11 +248,11 @@ d) Delimitar locais ou zonas a que terão acesso os veículos ou reboques utiliz
 
 e) Estabelecer zonas e locais especialmente destinados ao comércio ambulante de certas categorias de produtos.
 
-###### Art. 17.º - 1 - Nas localidades dotadas de mercados com instalações próprias só será permitido o exercício da actividade de vendedor ambulante de produtos que se vendam nesses mercados quando neles não existirem lugares vagos para a venda fixa desses produtos.
+Art. 17.º - 1 - Nas localidades dotadas de mercados com instalações próprias só será permitido o exercício da actividade de vendedor ambulante de produtos que se vendam nesses mercados quando neles não existirem lugares vagos para a venda fixa desses produtos.
 
 2 - Havendo lugares vagos nos mercados referidos no número anterior, mas verificando-se em determinadas áreas insuficiente abastecimento do público, poderão as câmaras municipais fixar lugares ou zonas, dentro das mesmas áreas, para o exercício do comércio ambulante limitado no número anterior.
 
-###### Art. 18.º - 1 - Compete às câmaras municipais emitir e renovar o cartão para o exercício da venda ambulante, o qual será válido apenas para a área dos respectivos municípios e para o período de um ano, a contar da data da emissão ou renovação.
+Art. 18.º - 1 - Compete às câmaras municipais emitir e renovar o cartão para o exercício da venda ambulante, o qual será válido apenas para a área dos respectivos municípios e para o período de um ano, a contar da data da emissão ou renovação.
 
 2 - O cartão de vendedor ambulante será obrigatoriamente do modelo anexo a este diploma.
 
@@ -210,41 +270,41 @@ e) Estabelecer zonas e locais especialmente destinados ao comércio ambulante de
 
 9 - O prazo fixado no número anterior é interrompido pela notificação do requerente para suprir eventuais deficiências do requerimento ou da documentação junta, começando a correr novo prazo a partir da data da recepção, na câmara municipal, dos elementos pedidos.
 
-###### Art. 19.º - 1 - O cartão de vendedor ambulante será pessoal e intransmissível.
+Art. 19.º - 1 - O cartão de vendedor ambulante será pessoal e intransmissível.
 
 2 - As câmaras municipais deverão organizar um registo dos vendedores ambulantes que se encontrem autorizados a exercer a sua actividade na área do respectivo município.
 
-###### Art. 20.º - 1 - A prevenção e acção correctiva sobre as infracções às normas constantes no presente diploma, bem como à respectiva regulamentação e legislação conexa, são da competência da Direcção-Geral de Fiscalização Económica, da Inspecção do Trabalho, da Polícia de Segurança Pública, da Guarda Nacional Republicana, da Guarda Fiscal, das autoridades sanitárias e das demais entidades policiais, administrativas e fiscais.
+Art. 20.º - 1 - A prevenção e acção correctiva sobre as infracções às normas constantes no presente diploma, bem como à respectiva regulamentação e legislação conexa, são da competência da Direcção-Geral de Fiscalização Económica, da Inspecção do Trabalho, da Polícia de Segurança Pública, da Guarda Nacional Republicana, da Guarda Fiscal, das autoridades sanitárias e das demais entidades policiais, administrativas e fiscais.
 
 2 - Sempre que, no exercício das funções referidas no número anterior, o agente fiscalizador tome conhecimento de infracções cuja fiscalização seja da competência específica de outra autoridade, deverá participar a esta a respectiva ocorrência.
 
-###### Art. 21.º - 1 - Cabe às entidades referidas no artigo anterior exercer uma acção educativa e esclarecedora dos interessados, podendo, para a regularização de situações anómalas, fixar prazo não superior a trinta dias, sem prejuízo do disposto em legislação especial.
+Art. 21.º - 1 - Cabe às entidades referidas no artigo anterior exercer uma acção educativa e esclarecedora dos interessados, podendo, para a regularização de situações anómalas, fixar prazo não superior a trinta dias, sem prejuízo do disposto em legislação especial.
 
 2 - Considera-se regularizada a situação anómala quando, dentro do prazo fixado pela autoridade fiscalizadora, o interessado se apresente na sede ou posto indicado na intimação com os documentos ou objectos em conformidade com a norma violada.
 
-###### Art. 22.º - 1 - As infracções do disposto neste diploma e normas regulamentares que venham a ser publicadas em sua execução por postura municipal serão puníveis com multa de 200$00 a 2500$00, se outra pena mais grave não for aplicável nos termos da lei geral ou especial, podendo as câmaras municipais, nas matérias da sua competência, tipificar as transgressões e estabelecer o montante fixo das respectivas multas, dentro dos limites indicados.
+Art. 22.º - 1 - As infracções do disposto neste diploma e normas regulamentares que venham a ser publicadas em sua execução por postura municipal serão puníveis com multa de 200$00 a 2500$00, se outra pena mais grave não for aplicável nos termos da lei geral ou especial, podendo as câmaras municipais, nas matérias da sua competência, tipificar as transgressões e estabelecer o montante fixo das respectivas multas, dentro dos limites indicados.
 
 2 - O exercício da actividade de vendedor ambulante sem a autorização válida prevista neste diploma constitui contravenção punível com a multa de 7500$00.
 
 3 - As câmaras municipais deverão fixar os casos de apreensão dos instrumentos da contravenção, móveis ou semoventes e mercadorias, os quais caucionarão a responsabilidade do infractor.
 
-###### Art. 23.º As dúvidas que se suscitarem na aplicação das disposições deste diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e do Comércio e Turismo, e de outros Ministros, quando as matérias respeitem à sua competência.
+Art. 23.º As dúvidas que se suscitarem na aplicação das disposições deste diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e do Comércio e Turismo, e de outros Ministros, quando as matérias respeitem à sua competência.
 
-###### Art. 24.º - 1 - Este diploma entra em vigor no prazo de sessenta dias, salvo o disposto nos restantes números deste preceito e no artigo seguinte.
+Art. 24.º - 1 - Este diploma entra em vigor no prazo de sessenta dias, salvo o disposto nos restantes números deste preceito e no artigo seguinte.
 
 2 - As câmaras municipais deverão elaborar os regulamentos que se contenham no âmbito da competência que lhes é conferida pelo presente decreto-lei, no prazo de trinta dias a contar da data da sua publicação.
 
 3 - Os cartões de vendedor ambulante emitidos ao abrigo do [Decreto-Lei n.º 383/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1974-322092), de 24 de Agosto, serão substituídos de acordo com o preceituado no n.º 7 do artigo 18.º, ficando, no entanto, a actividade a que respeitam sujeita ao disposto neste diploma.
 
-###### Art. 25.º Na data da publicação do presente diploma fica revogado o [Decreto-Lei n.º 289/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1978-329454), de 16 de Setembro; com a sua entrada em vigor fica revogado o [Decreto-Lei n.º 383/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1974-322092), de 24 de Agosto, que vigorará, transitoriamente, desde a publicação até à entrada em vigor deste decreto-lei.
+Art. 25.º Na data da publicação do presente diploma fica revogado o [Decreto-Lei n.º 289/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1978-329454), de 16 de Setembro; com a sua entrada em vigor fica revogado o [Decreto-Lei n.º 383/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1974-322092), de 24 de Agosto, que vigorará, transitoriamente, desde a publicação até à entrada em vigor deste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1979. - Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro - Abel Pinto Repolho Correia.
 
-**Promulgado em 17 de Abril de 1979.**
+Promulgado em 17 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Lista a que se refere o artigo 7.º
 
@@ -284,6 +344,6 @@ Visto e aprovado em Conselho de Ministros de 14 de Março de 1979. - Carlos Albe
 
 ## ANEXO 2 — Modelo do cartão, plastificado, a que se refere o n.º 2 do artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10500/08450848.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10500/08450848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10500/08450848.pdf)
 
-**O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.**
+O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.

@@ -49,36 +49,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/67-1983-454069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bdfafeb7f2a43379378a9fe60aea395ab0dcb974dcdb539b9a9528d86224363
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f7dfdcde5cb41997776ad3c7a0c458dee41f940c1713d9c29e7286b7283d3f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Espanha
+- França
+- Portugal
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:16Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +94,19 @@ de 2 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção entre os Governos da República Portuguesa, de Espanha e da República Francesa Relativa à Extensão de Certas Disposições das Convenções de Segurança Social Celebradas entre Dois Daqueles Estados aos Nacionais do Terceiro Estado, assinada em Madrid em 10 de Novembro de 1982, cujos textos em português, espanhol e francês vão anexos no presente decreto.
+Artigo único. É aprovada a Convenção entre os Governos da República Portuguesa, de Espanha e da República Francesa Relativa à Extensão de Certas Disposições das Convenções de Segurança Social Celebradas entre Dois Daqueles Estados aos Nacionais do Terceiro Estado, assinada em Madrid em 10 de Novembro de 1982, cujos textos em português, espanhol e francês vão anexos no presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1983. - O Primeiro-Ministro, Mário Soares. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.
 
-**Assinado em 18 de Julho de 1983.**
+Assinado em 18 de Julho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Julho de 1983.**
+Referendado em 29 de Julho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Convenção entre os Governos da República Portuguesa, de Espanha e da República Francesa Relativa à Extensão de Cortas Disposições das Convenções de Segurança Social Celebradas entre Dois Daqueles Estados aos Nacionais do Terceiro Estado.
 
@@ -195,7 +200,7 @@ Pelo Governo da República Francesa:
 
 Patrick Hénault, Encarregado de Negócios da França.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/17600/28412846.pdf))](https://files.diariodarepublica.pt/1s/1983/08/17600/28412846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/17600/28412846.pdf)
 
 Convention entre le Gouvernement de la République Française, le Gouvernement de L'Espagne et le Gouvernement de la République Portugaise Relative à l'Extension du Bénéfice de Certaines Dispositions des Conventions de Sécurité Sociale Passées entre Deux de Ces États aux Ressortissants du Troisième État.
 

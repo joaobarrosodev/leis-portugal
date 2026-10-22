@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19800/22882289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1981-577910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22128c43606cd46459daf7c9650c498caff7f92bc2cf05631ac11f4c44995660
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 297f85ce648390cc557e9a393e400383c6b865251a864b8a2e51dfa590de183e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa
+- Orgânica
+- Parempresa-Sociedade Parabancária para a Recuperação de Empresas
+- Saneamento Económico e Financeiro
 relationships:
 - type: amended_by
   target: pt:dre:311459:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471880:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:311459:por
+  label: Revogado pelo(a) Decreto-Lei n.º 120/83 - Diário da República n.º 49/1983, Série I de 1983-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1983-311459
+  date: '1983-03-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:24Z'
   warnings: []
   errors: []
 ---
@@ -109,17 +142,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, 13.º, n.º 1, e 14.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º, 13.º, n.º 1, e 14.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 1.º Os benefícios financeiros a conceder às empresas abrangidas pelo artigo 2.º atenderão à política monetária definida pelo Governo e serão suportados pelas instituições de crédito credoras e, em condições excepcionais devidamente fundamentadas, pelo Fundo de Compensação criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
+Art. 1.º Os benefícios financeiros a conceder às empresas abrangidas pelo artigo 2.º atenderão à política monetária definida pelo Governo e serão suportados pelas instituições de crédito credoras e, em condições excepcionais devidamente fundamentadas, pelo Fundo de Compensação criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
 
-###### Art. 13.º - 1 - A proposta da sociedade, que deverá ser submetida à apreciação do Ministro das Finanças e do Plano, quando abranja a atribuição de benefícios financeiros a suportar pelo Fundo de Compensação ou de benefícios fiscais, incluirá, para além dos benefícios enunciados nos artigos anteriores, medidas de saneamento financeiro de grau e amplitude variáveis em função da dificuldade de recuperação diagnosticada para a empresa assistida e, bem assim, as actuações a desenvolver pelas instituições de crédito pela empresa e pela sociedade.
+Art. 13.º - 1 - A proposta da sociedade, que deverá ser submetida à apreciação do Ministro das Finanças e do Plano, quando abranja a atribuição de benefícios financeiros a suportar pelo Fundo de Compensação ou de benefícios fiscais, incluirá, para além dos benefícios enunciados nos artigos anteriores, medidas de saneamento financeiro de grau e amplitude variáveis em função da dificuldade de recuperação diagnosticada para a empresa assistida e, bem assim, as actuações a desenvolver pelas instituições de crédito pela empresa e pela sociedade.
 
-###### Art. 14.º A atribuição concreta de benefícios financeiros através do Fundo de Compensação e dos benefícios fiscais previstos no artigo 12.º dependerá de despacho do Ministro das Finanças e do Plano.
+Art. 14.º A atribuição concreta de benefícios financeiros através do Fundo de Compensação e dos benefícios fiscais previstos no artigo 12.º dependerá de despacho do Ministro das Finanças e do Plano.
 
-###### Art. 2.º Os n.os 2, 3, 4 e 5 do artigo 2.º e o n.º 3 do artigo 4.º do [Decreto-Lei n.º 215/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1980-471880), de 9 de Julho, passam a ter a seguinte redacção:
+Art. 2.º Os n.os 2, 3, 4 e 5 do artigo 2.º e o n.º 3 do artigo 4.º do [Decreto-Lei n.º 215/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1980-471880), de 9 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - Do montante do passivo transformado nos termos do n.º 1, a parte necessária à cobertura do activo imobilizado líquido de amortizações por capitais permanentes poderá ser objecto de bonificação de juros a suportar pelas instituições de crédito envolvidas e, em condições excepcionais devidamente justificadas, pelo Fundo de Compensação criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, em conformidade com o disposto no artigo 11.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio.
 
@@ -129,18 +162,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - A parcela do montante da bonificação de juros prevista nos n.os 2 e 3 do presente artigo que não for abrangida pela intervenção do Fundo de Compensação, referida no número anterior, será suportada pelas instituições de crédito envolvidas nas respectivas operações.
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
 3 - Sendo o despacho favorável, ficarão o Estado, o Fundo de Compensação e as instituições de crédito envolvidas vinculados nos precisos termos desse despacho e, no caso de homologação tácita, nos termos da proposta da Parempresa.
 
-###### Art. 3.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 3.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 19 de Agosto de 1981.**
+Promulgado em 19 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

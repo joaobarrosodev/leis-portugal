@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 1º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3334-(21) a 3334-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29501/00210024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1979-393867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9b17d7be7f478608351a976582b8babbf4f238e3eb455b8ec7d5b7d489859aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a15a4b99faa3c17a5903db95a21af30ade64c4e6614f8e6f87866fa58361313
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Central de Compras do Estado
+- Comissão Instaladora
+- Comissão Interministerial de Planeamento das Aquisições Estatais
+- Criação de Serviços
+- Definição de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: INTEGRADA NA DIRECÇÃO GERAL DO PATRIMÓNIO DO ESTADO A CENTRAL DE COMPRAS DO ESTADO PELO DECRETO LEI 129/83, DE 14
+    DE MARCO, PUBLICADO NO DR.IS, 60.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-03-14'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 129/83, DE 14 DE MARCO, PUBLICADO NO DR.IS, 60.\0O DR.IS, 60."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-03-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:07Z'
   warnings: []
   errors: []
 ---
@@ -130,19 +148,19 @@ Assim sendo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Designação e objectivo)
 
 É criada, no Ministério das Finanças, a Central de Compras do Estado, abreviadamente Central, com o objectivo de superintender, orientar e coordenar o abastecimento estatal.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Natureza)
 
 A Central é uma pessoa colectiva de direito público, dotada de autonomia administrativa.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Atribuições)
 
@@ -164,7 +182,7 @@ g) Promover a formação de técnicos de aprovisionamento do sector estatal;
 
 h) Estimular a criação e dinamização de serviços ou comissões de aprovisionamento específico.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência)
 
@@ -200,7 +218,7 @@ m) Realizar quaisquer outras tarefas que lhe sejam superiormente cometidas.
 
 4 - As autarquias locais e as empresas públicas, embora não vinculadas, têm acesso ao sistema de abastecimento estatal.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Noção de abastecimento estatal)
 
@@ -216,13 +234,13 @@ b) A celebração de contratos de aluguer, a reparação, conservação e transf
 
 2 - Bens ou serviços de tipo comum são todos aqueles de que carece a generalidade das entidades referidas na alínea a) do número anterior para o desenvolvimento das suas actividades.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Comissão Instaladora)
 
 A Central, durante o período de instalação, será dirigida por uma comissão instaladora, constituída por um presidente e dois vogais, nomeados pelo Ministro das Finanças.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Competência)
 
@@ -234,7 +252,7 @@ a) Apresentar ao Ministro das Finanças, no prazo de noventa dias após a sua to
 
 b) Propor o recrutamento do pessoal necessário ao funcionamento da Central.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Comissão Interministerial de Planeamento das Aquisições Estatais)
 
@@ -242,7 +260,7 @@ b) Propor o recrutamento do pessoal necessário ao funcionamento da Central.
 
 2 - A CIPAE é constituída pelos secretários-gerais de todos os Ministérios, por um membro designado pelo Secretário de Estado da Administração Pública e por quaisquer outras entidades que o Ministro das Finanças entenda dever nomear para o efeito.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Competência)
 
@@ -266,19 +284,19 @@ h) Emitir parecer sobre todas as questões relativas ao funcionamento da Central
 
 2 - Os pareceres a que se refere a alínea b) do número anterior devem ser dados no prazo de cinco dias a contar da data da solicitação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Receitas da Central)
 
 Constituem receitas da Central as dotações para o efeito inscritas no Orçamento Geral do Estado.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Estrutura e regime do pessoal)
 
 A estrutura interna e a organização dos serviços da Central, bem como o regime jurídico do respectivo pessoal, serão objecto de decreto assinado pelo Primeiro-Ministro, pelo Ministro das Finanças e pelo Secretário de Estado da Administração Pública.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Extinção do Serviço de Informação para o Abastecimento Estatal)
 
@@ -286,7 +304,7 @@ A estrutura interna e a organização dos serviços da Central, bem como o regim
 
 2 - O pessoal deste serviço, transferido para o Ministério das Finanças por despacho conjunto de 21 de Novembro de 1978, publicado no Diário da República, 2.ª série, de 29 de Novembro de 1978, fica afecto à Central em regime de requisição até ao seu provimento no respectivo quadro orgânico.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Disposição transitória)
 
@@ -296,13 +314,13 @@ A estrutura interna e a organização dos serviços da Central, bem como o regim
 
 3 - O âmbito das aquisições negociadas através da Central será progressivamente alargado por portaria do Ministro das Finanças, sob proposta da Comissão Instaladora e após parecer da CIPAE.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Alterações ao orçamento)
 
 Fica o Ministro das Finanças autorizado a introduzir no orçamento em vigor as alterações necessárias à execução do presente diploma.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Esclarecimento de dúvidas)
 
@@ -310,8 +328,8 @@ As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas po
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

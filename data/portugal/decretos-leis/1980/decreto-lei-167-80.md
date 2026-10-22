@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12400/12311232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1980-474568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41b336a31e1d0d190f82eff2c6d79180c79dfe5d3f29d03cd9013ad4c8b9e8ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b902eccff90ca274b279e65822b786588103064e4ef32287745f138f86d2400c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Horário de Trabalho
+- Trabalho a Tempo Parcial
 relationships:
 - type: amended_by
   target: pt:dre:437237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451841:por
+  label: "Alterado o art. 3º pelo DEC LEI.243/83.1983.06.09.MFP, DR.IIS [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1983-451841
+  date: '1983-06-09'
+- type: amended_by
+  target: pt:dre:192022:por
+  label: "Alterados os arts. 2.º (rectificado pela Decl DD6962, de 10-Jul 1986 e na redacção do Dec Lei 135/85, de 03-Mai)\
+    \ e 8.º (na redacção do Dec Lei 135/85, de 03-Mai) pelo DEC LEI.9/86.17.01.1986.PCM, DR.IS [14] de 17.01.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-1986-192022
+  date: '1986-01-17'
+- type: corrected_by
+  target: pt:dre:471906:por
+  label: Rectificado pela DECL.DD6962.10.07.1980.PCM, DR.IS [157] de 10.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471906
+  date: '1980-07-10'
+- type: repealed_by
+  target: pt:dre:152334:por
+  label: "Revogada a al. a) do art. 2.º e derrogado o corpo do art. 2.º e o n.º 1 do art. 8.º, pelo DEC LEI.135/85.03.05.1985.PCM,\
+    \ DR.IS [101] de 03.05.1985, na parte e quanto aos aspectos constantes daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1985-152334
+  date: '1985-05-03'
+- type: repealed_by
+  target: pt:dre:437237:por
+  label: "Revogado pelo DEC LEI.259/98.1998.08.18.PCM, DR.IS-A [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-1998-437237
+  date: '1998-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:05Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +188,8 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

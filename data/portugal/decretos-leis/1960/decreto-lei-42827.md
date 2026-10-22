@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42827-1960-279227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eede6d85f42f46c6a154424c69d933ad44e9318281b1843464e1fd726a6a8ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 137128d7a07b79855bac772adf6d35ebeab2e93dfd96a588016caf323af59aec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção da Marinha Mercante
+- Direcção Geral da Marinha
+- Escola Náutica
+- Habilitações Literárias
+- Matrícula
 relationships:
 - type: amended_by
   target: pt:dre:225837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513800:por
+  label: "Aditado o art. 20º pelo DEC LEI.43246.18.10.1960.MMAR, DG.IS [242] de 18.10.1960\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43246-1960-513800
+  date: '1960-10-18'
+- type: amended_by
+  target: pt:dre:312822:por
+  label: "Alteradas as condições 2.as dos n.os 1), 2), 3) e 4) da alínea B) da secção I) do artigo 6.º pelo DEC LEI.47724.22.05.1967.MMAR,\
+    \ DG.IS [120] de 22.05.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47724-1967-312822
+  date: '1967-05-22'
+- type: amended_by
+  target: pt:dre:227238:por
+  label: "Extinto o conselho administrativo da Escola Náutica, mencionado no art. 11º do presente diploma, pelo DEC LEI.31/70.16.01.1970.MMAR,\
+    \ DG.IS [13] de 16.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1970-227238
+  date: '1970-01-16'
+- type: amended_by
+  target: pt:dre:225837:por
+  label: "Alterado o corpo do artigo 1.º, o corpo do artigo 8.º e seu § 1.º e o artigo 11.º pelo DEC LEI.157/70.13.04.1970.MMAR,\
+    \ DG.IS [86] de 13.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1970-225837
+  date: '1970-04-13'
+- type: cites
+  target: pt:dre:150537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:55Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +137,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Escola Náutica, na dependência da Direcção-Geral da Marinha, tem por fim ministrar os conhecimentos necessários ao desempenho das funções de capitães, oficiais náuticos, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.
+Artigo 1.º A Escola Náutica, na dependência da Direcção-Geral da Marinha, tem por fim ministrar os conhecimentos necessários ao desempenho das funções de capitães, oficiais náuticos, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.
 
 § 1.º A Escola Náutica faz a contagem dos tirocínios e passa as cartas das diferentes categorias de oficiais da marinha mercante, que serão registadas na Direcção da Marinha Mercante.
 
 § 2.º Os tirocínios e demais condições necessárias à concessão das diferentes categorias de oficiais constarão do diploma legal que regular a inscrição marítima.
 
-###### Art. 2.º O ensino da Escola Náutica é ministrado em cursos de:
+Art. 2.º O ensino da Escola Náutica é ministrado em cursos de:
 
 a) Pilotagem, para capitães e oficiais náuticos;
 
@@ -108,13 +153,13 @@ c) Radiotelegrafia, para oficiais radiotelegrafistas;
 
 d) Comissariado, para oficiais comissários.
 
-###### Art. 3.º Cada um dos cursos indicados no artigo anterior subdivide-se em:
+Art. 3.º Cada um dos cursos indicados no artigo anterior subdivide-se em:
 
 a) Curso geral, em dois anos;
 
 b) Curso complementar, em um ano.
 
-###### Art. 4.º A matéria a ministrar em cada curso será fixada no Regulamento da Escola Náutica.
+Art. 4.º A matéria a ministrar em cada curso será fixada no Regulamento da Escola Náutica.
 
 § 1.º Em todos os cursos o ensino doutrinal é acompanhado de exercícios e trabalhos práticos e visitas de estudo.
 
@@ -122,11 +167,11 @@ b) Curso complementar, em um ano.
 
 § 3.º A Escola Náutica, mediante autorização do Ministro da Marinha, poderá convidar individualidades estranhas ao corpo docente para realizar conferências sobre assuntos de reconhecido interesse para a marinha mercante e poderá mandar estagiar os alunos em serviços e estabelecimentos, oficiais ou particulares, que repute de utilidade para o ensino.
 
-###### Art. 5.º Nos cursos gerais haverá ùnicamente alunos internos e nos complementares haverá alunos internos e externos, podendo os últimos requerer exame quando se encontrarem nas condições exigidas para a matrícula como internos.
+Art. 5.º Nos cursos gerais haverá ùnicamente alunos internos e nos complementares haverá alunos internos e externos, podendo os últimos requerer exame quando se encontrarem nas condições exigidas para a matrícula como internos.
 
 § único. A frequência dos cursos é por disciplinas e instruções, não podendo o aluno matricular-se em qualquer disciplina ou instrução sem ter obtido aprovação em todas as que compõem o ano imediatamente anterior.
 
-###### Art. 6.º As condições de admissão à matrícula nos vários cursos subdividem-se em condições gerais e condições especiais e são as que a seguir se indicam:
+Art. 6.º As condições de admissão à matrícula nos vários cursos subdividem-se em condições gerais e condições especiais e são as que a seguir se indicam:
 
 I) Para a matrícula no 1.º ano do curso geral:
 
@@ -208,11 +253,11 @@ B) Condições especiais:
 
 § único. A tabela de incapacidade física para admissão na Escola Náutica constará de diploma especial, podendo a junta solicitar qualquer exame radiológico ou análise ao Hospital da Marinha ou a outro estabelecimento, a expensas do candidato.
 
-###### Art. 7.º No Regulamento da Escola Náutica serão estabelecidas as normas que regulam a admissão à mesma Escola dos candidatos que satisfaçam as condições a que se refere o artigo anterior.
+Art. 7.º No Regulamento da Escola Náutica serão estabelecidas as normas que regulam a admissão à mesma Escola dos candidatos que satisfaçam as condições a que se refere o artigo anterior.
 
 § único. O número de alunos a admitir no 1.º ano dos cursos gerais poderá ser limitado por despacho do Ministro da Marinha.
 
-###### Art. 8.º O corpo docente da Escola Náutica, de nomeação do Ministro da Marinha, compõe-se de:
+Art. 8.º O corpo docente da Escola Náutica, de nomeação do Ministro da Marinha, compõe-se de:
 
 a) Um director - oficial general, da reserva, ou capitão-de-mar-e-guerra, do activo ou da reserva, da classe de marinha, a propor pelo director-geral da Marinha;
 
@@ -222,13 +267,13 @@ b) Professores e instrutores em número julgado conveniente - oficiais superiore
 
 § 2.º A nomeação do director é feita por portaria; a dos professores e instrutores por despacho ministerial.
 
-###### Art. 9.º O conselho escolar da Escola Náutica é constituído por todos os professores, sendo presidido pelo director e secretariado pelo professor menos graduado.
+Art. 9.º O conselho escolar da Escola Náutica é constituído por todos os professores, sendo presidido pelo director e secretariado pelo professor menos graduado.
 
-###### Art. 10.º A Escola Náutica disporá de uma secretaria, dirigida por um oficial da classe de administração naval, com a designação de secretário, o qual poderá acumular esse cargo com o exercício de funções docentes na Escola; na secretaria prestarão serviço os funcionários do quadro do pessoal civil do Ministério da Marinha que o respectivo regulamento fixar.
+Art. 10.º A Escola Náutica disporá de uma secretaria, dirigida por um oficial da classe de administração naval, com a designação de secretário, o qual poderá acumular esse cargo com o exercício de funções docentes na Escola; na secretaria prestarão serviço os funcionários do quadro do pessoal civil do Ministério da Marinha que o respectivo regulamento fixar.
 
 § único. O cargo de secretário não é acumulável com o exercício de quaisquer outras funções estranhas à Escola Náutica.
 
-###### Art. 11.º A Escola Náutica disporá de um conselho administrativo composto por:
+Art. 11.º A Escola Náutica disporá de um conselho administrativo composto por:
 
 Presidente - o director.
 
@@ -236,25 +281,25 @@ Vogal - o professor que, como oficial, se seguir em antiguidade ao director.
 
 Secretário-tesoureiro - o secretário da Escola.
 
-###### Art. 12.º Para exercerem as funções de auxiliares do ensino, bem como as que competem ao pessoal menor, haverá na lotação da Escola Náutica os sargentos e praças da Armada, do activo ou da reserva, que o respectivo regulamento fixar.
+Art. 12.º Para exercerem as funções de auxiliares do ensino, bem como as que competem ao pessoal menor, haverá na lotação da Escola Náutica os sargentos e praças da Armada, do activo ou da reserva, que o respectivo regulamento fixar.
 
-###### Art. 13.º O Ministro da Marinha estabelecerá por despacho, para cada caso, a remuneração a atribuir às individualidades a que se refere o § 3.º do artigo 4.º
+Art. 13.º O Ministro da Marinha estabelecerá por despacho, para cada caso, a remuneração a atribuir às individualidades a que se refere o § 3.º do artigo 4.º
 
-###### Art. 14.º As propinas, emolumentos e selos a pagar na secretaria da Escola Náutica constam da tabela anexa a este decreto-lei.
+Art. 14.º As propinas, emolumentos e selos a pagar na secretaria da Escola Náutica constam da tabela anexa a este decreto-lei.
 
-###### Art. 15.º Aos actuais alunos, internos ou externos, dos cursos elementares e complementares da Escola Náutica é concedido um prazo de três anos para a conclusão dos respectivos cursos, segundo o regime estabelecido na legislação vigente à data da publicação deste diploma.
+Art. 15.º Aos actuais alunos, internos ou externos, dos cursos elementares e complementares da Escola Náutica é concedido um prazo de três anos para a conclusão dos respectivos cursos, segundo o regime estabelecido na legislação vigente à data da publicação deste diploma.
 
-###### Art. 16.º Os radiotelegrafistas de 2.ª classe com categoria obtida segundo a legislação anterior ao [Decreto-Lei n.º 35869](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35869-1946-150537), de 19 de Setembro de 1946, e que nessa categoria tenham efectuado 5400 horas de navegação são autorizados a matricular-se no curso complementar ou a fazer os respectivos exames como externos, durante os três anos que se seguirem à publicação do presente diploma, devendo, porém, obter aprovação num exame de admissão, que constará de uma parte de cultura geral e de outra de ordem técnica, se não possuírem as habilitações que o artigo 6.º do presente diploma exige para a matrícula no 1.º ano do curso geral de radiotelegrafia.
+Art. 16.º Os radiotelegrafistas de 2.ª classe com categoria obtida segundo a legislação anterior ao [Decreto-Lei n.º 35869](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35869-1946-150537), de 19 de Setembro de 1946, e que nessa categoria tenham efectuado 5400 horas de navegação são autorizados a matricular-se no curso complementar ou a fazer os respectivos exames como externos, durante os três anos que se seguirem à publicação do presente diploma, devendo, porém, obter aprovação num exame de admissão, que constará de uma parte de cultura geral e de outra de ordem técnica, se não possuírem as habilitações que o artigo 6.º do presente diploma exige para a matrícula no 1.º ano do curso geral de radiotelegrafia.
 
-###### Art. 17.º Os comissários com a categoria de 2.ª classe obtida ao abrigo do artigo 11.º do [Decreto-Lei n.º 37213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37213-1948-370652), de 15 de Dezembro de 1948, e que satisfaçam às condições exigidas pelo [Decreto-Lei n.º 41639](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41639-1958-353504), de 22 de Maio de 1958, são autorizados a matricular-se no curso complementar ou a fazer os respectivos exames como externos, durante os três anos que se seguirem à publicação do presente decreto-lei, devendo, porém, obter aprovação num exame de admissão, que constará de uma parte de cultura geral e de outra de ordem técnica, se não possuírem as habilitações que o artigo 6.º do presente diploma exige para a matrícula no 1.º ano do curso geral de comissariado.
+Art. 17.º Os comissários com a categoria de 2.ª classe obtida ao abrigo do artigo 11.º do [Decreto-Lei n.º 37213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37213-1948-370652), de 15 de Dezembro de 1948, e que satisfaçam às condições exigidas pelo [Decreto-Lei n.º 41639](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41639-1958-353504), de 22 de Maio de 1958, são autorizados a matricular-se no curso complementar ou a fazer os respectivos exames como externos, durante os três anos que se seguirem à publicação do presente decreto-lei, devendo, porém, obter aprovação num exame de admissão, que constará de uma parte de cultura geral e de outra de ordem técnica, se não possuírem as habilitações que o artigo 6.º do presente diploma exige para a matrícula no 1.º ano do curso geral de comissariado.
 
-###### Art. 18.º Os inscritos marítimos que à data da publicação do presente decreto-lei tiverem já as categorias de praticante ou de ajudante de comissário, sem possuírem o respectivo curso da Escola, e contem mais de 90 dias de embarque em navios portugueses de passageiros, fora dos portos de armamento, são autorizados a matricular-se no curso geral de comissariado ou a fazer os respectivos exames como externos, durante os 3 anos que se seguirem à publicação do presente decreto-lei, com dispensa das condições 5.ª da alínea A) e 1.ª e 2.ª do n.º 4) da alínea B) do n.º I do artigo 6.º deste diploma. Devem, porém, obter aprovação num exame de admissão, que constará de uma parte de cultura geral e de outra de ordem técnica, se não possuírem as habilitações que o mesmo artigo exige para a matrícula no 1.º ano do curso geral de comissariado.
+Art. 18.º Os inscritos marítimos que à data da publicação do presente decreto-lei tiverem já as categorias de praticante ou de ajudante de comissário, sem possuírem o respectivo curso da Escola, e contem mais de 90 dias de embarque em navios portugueses de passageiros, fora dos portos de armamento, são autorizados a matricular-se no curso geral de comissariado ou a fazer os respectivos exames como externos, durante os 3 anos que se seguirem à publicação do presente decreto-lei, com dispensa das condições 5.ª da alínea A) e 1.ª e 2.ª do n.º 4) da alínea B) do n.º I do artigo 6.º deste diploma. Devem, porém, obter aprovação num exame de admissão, que constará de uma parte de cultura geral e de outra de ordem técnica, se não possuírem as habilitações que o mesmo artigo exige para a matrícula no 1.º ano do curso geral de comissariado.
 
 § único. Aos indivíduos de que trata este artigo contar-se-á como tirocínio, para a obtenção da carta de comissário de 2.ª classe, o tempo de embarque feito antes do curso.
 
-###### Art. 19.º Do regulamento da Escola Náutica, que será aprovado por portaria do Ministro da Marinha, constará a distribuição do ensino por disciplinas e instruções, a distribuição destas pelos vários cursos e as normas reguladoras do ensino.
+Art. 19.º Do regulamento da Escola Náutica, que será aprovado por portaria do Ministro da Marinha, constará a distribuição do ensino por disciplinas e instruções, a distribuição destas pelos vários cursos e as normas reguladoras do ensino.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

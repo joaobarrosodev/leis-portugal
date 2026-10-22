@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 268/1978, 1º Suplemento, Série I de 1978-11-21
   number: '268'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2446-(2) a 2446-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26801/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1978-665506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76311ea07e246ea164da1f5fabdfdab5836969f869aba7f11880abc3faac1c43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7bf26c6d40d68f8e85287e0e0bcc34a9e57f1ba001130aa1bbd0efc7c6e5ff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Câmara Municipal
+- Madeira.região Autónoma
+- Ministério da Administração Interna
+- Recenseamento Eleitoral
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:38Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +112,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica o Ministério da Administração Interna autorizado a transferir para as câmaras municipais do continente e regiões autónomas, para despesas locais com a execução das operações do recenseamento eleitoral, a importância global de 15367727$00.
+Artigo 1.º - 1 - Fica o Ministério da Administração Interna autorizado a transferir para as câmaras municipais do continente e regiões autónomas, para despesas locais com a execução das operações do recenseamento eleitoral, a importância global de 15367727$00.
 
 2 - A distribuição por cada concelho da importância global referida no número anterior será feita mediante a aplicação das seguintes regras, considerando como número de cidadãos a recensear o constante dos cadernos do recenseamento de 1976:
 
@@ -113,28 +124,28 @@ Concelhos cujo número de cidadãos a recensear se situe entre 10000 e 15000 - 2
 
 Concelhos cujo número de cidadãos a recensear seja superior a 15000 - 1$50 x número de cidadãos a recensear + (1000$00 x número de freguesias do concelho).
 
-###### Art. 2.º - 1 - O montante da verba a transferir para cada município nos termos do número anterior poderá ser redistribuído pelas freguesias do concelho ou pelas administrações de bairro, nos casos de Lisboa e Porto.
+Art. 2.º - 1 - O montante da verba a transferir para cada município nos termos do número anterior poderá ser redistribuído pelas freguesias do concelho ou pelas administrações de bairro, nos casos de Lisboa e Porto.
 
 2 - Na redistribuição a que se refere o número anterior deverá obedecer-se, tanto quanto possível, às regras expressas no n.º 2 do artigo 1.º, com substituição das freguesias pelos postos de recenseamento.
 
-###### Art. 3.º Para os efeitos constantes deste diploma e nos casos em que tal se mostre necessário, ficam as autarquias locais autorizadas a elaborar orçamento suplementar para além dos legalmente previstos, onde inscreverão, sob a rubrica «Execução das operações do recenseamento eleitoral», a verba que lhe for atribuída nos termos do presente diploma.
+Art. 3.º Para os efeitos constantes deste diploma e nos casos em que tal se mostre necessário, ficam as autarquias locais autorizadas a elaborar orçamento suplementar para além dos legalmente previstos, onde inscreverão, sob a rubrica «Execução das operações do recenseamento eleitoral», a verba que lhe for atribuída nos termos do presente diploma.
 
-###### Art. 4.º - 1 - Por conta da verba referida no artigo anterior poderão ser constituídos fundos permanentes, até ao montante de 30% do seu total, para despesas de carácter imediato.
+Art. 4.º - 1 - Por conta da verba referida no artigo anterior poderão ser constituídos fundos permanentes, até ao montante de 30% do seu total, para despesas de carácter imediato.
 
 2 - Não havendo redistribuição de verba nos termos do artigo 2.º, os fundos permanentes referidos no número anterior podem ser constituídos pelas câmaras municipais a favor das juntas de freguesia e das administrações de bairro, nos casos de Lisboa e Porto.
 
-###### Art. 5.º As transferências de verba previstas no presente diploma serão feitas por conta da dotação inscrita no orçamento vigente do Secretariado Técnico dos Assuntos para o Processo Eleitoral, sob a rubrica 44.09, alínea A) «Recenseamento eleitoral e sua actualização».
+Art. 5.º As transferências de verba previstas no presente diploma serão feitas por conta da dotação inscrita no orçamento vigente do Secretariado Técnico dos Assuntos para o Processo Eleitoral, sob a rubrica 44.09, alínea A) «Recenseamento eleitoral e sua actualização».
 
-###### Art. 6.º A dotação referida no artigo anterior suportará ainda todas as despesas de carácter central a realizar pelo Ministério da Administração Interna com o recenseamento eleitoral.
+Art. 6.º A dotação referida no artigo anterior suportará ainda todas as despesas de carácter central a realizar pelo Ministério da Administração Interna com o recenseamento eleitoral.
 
-###### Art. 7.º É reforçada com a importância de 6000000$00 a dotação a que se refere o artigo 5.º
+Art. 7.º É reforçada com a importância de 6000000$00 a dotação a que se refere o artigo 5.º
 
-###### Art. 8.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - António Gonçalves Ribeiro.
 
-**Promulgado em 20 de Novembro de 1978.**
+Promulgado em 20 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

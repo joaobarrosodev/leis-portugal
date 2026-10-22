@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1973-411617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 002e7a035e2b0903f342ccc76cc86554efbc5d2b7a0e241f1cb18739f2b2739e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ce1ef0514190d506185414305a6ce806c60afcfd72d001e772e20b9debfd42c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Biblioteca Geral da Universidade de Coimbra
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:413845:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:12Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +101,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 436/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1973-413845), de 28 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 436/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1973-413845), de 28 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Biblioteca Geral da Universidade de Coimbra será provido em lugares idênticos ou de categoria equivalente do quadro anexo ao presente diploma, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, mantendo-se válidos os respectivos contratos até à publicação da referida lista.
+Art. 4.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Biblioteca Geral da Universidade de Coimbra será provido em lugares idênticos ou de categoria equivalente do quadro anexo ao presente diploma, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, mantendo-se válidos os respectivos contratos até à publicação da referida lista.
 
 2. ...
 
@@ -105,7 +111,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os actuais funcionários do quadro da Biblioteca que não for possível prover nos termos do n.º 1 deste artigo continuarão ao serviço, sem perda dos direitos adquiridos e na situação de supranumerários ao quadro.
 
-###### Art. 2.º - 1. O Ministro da Educação Nacional poderá autorizar que pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários seja contratado além do quadro pessoal técnico, administrativo ou auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 2.º - 1. O Ministro da Educação Nacional poderá autorizar que pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários seja contratado além do quadro pessoal técnico, administrativo ou auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades de vencimento do pessoal dos quadros para efeitos do disposto no presente artigo carece de prévia autorização do Ministro das Finanças.
 
@@ -113,8 +119,8 @@ Visto e aprovado em Conselho de Ministros.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 24 de Outubro de 1973.**
+Promulgado em 24 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

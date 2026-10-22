@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 161/1976, 3º Suplemento, Série I de 1976-07-12
   number: '161'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1540-(33) a 1540-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16103/00330034.pdf
 entry_into_force_dates: []
@@ -50,40 +50,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-r-1976-181660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 760e0175bf99be29f3893ec259700bb18ece4bb089f307757ed641c7f477d594
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e2b35c0321e428e9f70f9df08c03864128687940f5f491dcbc30fbf8dab241c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Militar de Educação Física Equitação e Desportos
+- Depósitos Gerais e Serviços de Vigilância do Exército
+- Exército
+- Integração de Serviços
+- Pessoal Militarizado
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:464777:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:53Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +120,7 @@ Admitindo-se, na fase actual de reorganização do Exército, não se tornar nec
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O quadro do pessoal dos Depósitos Gerais e Serviços de Vigilância do Exército (QPDGSV), criado pelo [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930), de 19 de Agosto, e constituído por pessoal militarizado, passa a denominar-se quadro do pessoal militarizado do Exército (QPME).
+Artigo 1.º - 1. O quadro do pessoal dos Depósitos Gerais e Serviços de Vigilância do Exército (QPDGSV), criado pelo [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930), de 19 de Agosto, e constituído por pessoal militarizado, passa a denominar-se quadro do pessoal militarizado do Exército (QPME).
 
 2. Tem ingresso no QPME o pessoal do Centro Militar de Educação Física, Equitação e Desportos (CMEFED) presentemente ao serviço e já militarizado nos termos dos Decreto-Leis n.os 41368, de 16 de Novembro de 1957, e 41730, de 11 de Julho de 1958.
 
@@ -110,11 +128,11 @@ Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diario
 
 4. O QPME é único, sendo a distribuição dos lugares do quadro pelas unidades e estabelecimentos do Exército fixada por despacho do Chefe do Estado-Maior.
 
-###### Art. 2.º - 1. A partir da data da publicação deste diploma, não haverá novos ingressos no QPME, sendo este quadro progressivamente extinto à medida que deixar de prestar serviço o pessoal por ele abrangido.
+Art. 2.º - 1. A partir da data da publicação deste diploma, não haverá novos ingressos no QPME, sendo este quadro progressivamente extinto à medida que deixar de prestar serviço o pessoal por ele abrangido.
 
 2. O disposto no número anterior não prejudica os acessos por promoção do pessoal integrado no QPME, em condições a fixar por portaria do Chefe do Estado-Maior.
 
-###### Art. 3.º - 1. O pessoal militarizado será integrado nas novas categorias, constantes do mapa anexo ao presente diploma, de acordo com o estabelecido nos números seguintes.
+Art. 3.º - 1. O pessoal militarizado será integrado nas novas categorias, constantes do mapa anexo ao presente diploma, de acordo com o estabelecido nos números seguintes.
 
 2. Para o pessoal militarizado ao abrigo do [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930), de 19 de Agosto, a integração nas novas categorias será feita por correspondência entre os vencimentos base que auferem à data da publicação do presente diploma e os constantes do mapa referido no número anterior.
 
@@ -124,30 +142,30 @@ Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diario
 
 5. A integração a que se refere o n.º 3 do presente artigo produz efeitos desde 1 de Maio de 1975, em igualdade de condições com o pessoal abrangido pelo [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930), de 19 de Agosto.
 
-###### Art. 4.º - 1. O pessoal militarizado à data do presente diploma manterá as funções que actualmente lhe competem.
+Art. 4.º - 1. O pessoal militarizado à data do presente diploma manterá as funções que actualmente lhe competem.
 
 2. Ao pessoal a que se refere o [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930), de 19 de Agosto, são mantidos os direitos e deveres consignados nesse diploma, com excepção do referente às disposições do Regulamento de Continências e Honras Militares e ao uso e porte de arma, em relação ao que serão fixadas condições, de acordo com as suas funções, por despacho do Chefe do Estado-Maior.
 
 3. Os direitos e deveres resultantes do [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930) são extensivos ao pessoal de que trata o n.º 2 do artigo 1.º, com observância das excepções referidas no número anterior.
 
-###### Art. 5.º Sempre que se verificarem alterações de deveres, de remunerações e de outros proventos ou regalias em relação aos militares, os mesmos são extensivos ao pessoal militarizado, observadas as correspondências entre vencimentos - base iguais de militares e militarizados que foram considerados para o ingresso no QPME, recorrendo-se, se necessário, ao disposto no artigo 7.º do presente diploma.
+Art. 5.º Sempre que se verificarem alterações de deveres, de remunerações e de outros proventos ou regalias em relação aos militares, os mesmos são extensivos ao pessoal militarizado, observadas as correspondências entre vencimentos - base iguais de militares e militarizados que foram considerados para o ingresso no QPME, recorrendo-se, se necessário, ao disposto no artigo 7.º do presente diploma.
 
-###### Art. 6.º É revogado o [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930), de 19 de Agosto, sem prejuízo das disposições nele contidas quanto à especificação dos direitos e deveres do pessoal militarizado, cuja matéria passa a ser regulada pelo disposto no artigo 4.º do presente diploma, com as excepções previstas no mesmo artigo.
+Art. 6.º É revogado o [Decreto-Lei n.º 442/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1975-314930), de 19 de Agosto, sem prejuízo das disposições nele contidas quanto à especificação dos direitos e deveres do pessoal militarizado, cuja matéria passa a ser regulada pelo disposto no artigo 4.º do presente diploma, com as excepções previstas no mesmo artigo.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação deste diploma e os casos omissos serão resolvidos por despacho do Chefe do Estado-Maior do Exército.
+Art. 7.º As dúvidas suscitadas na aplicação deste diploma e os casos omissos serão resolvidos por despacho do Chefe do Estado-Maior do Exército.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Julho de 1976.**
+Promulgado em 12 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA
 
 (A que se refere o Decreto-Lei n.º 550-R/76, de 12 de Julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/16103/00330034.pdf))](https://files.diariodarepublica.pt/1s/1976/07/16103/00330034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/16103/00330034.pdf)
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

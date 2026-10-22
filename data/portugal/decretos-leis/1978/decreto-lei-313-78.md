@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24800/22522256.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1978-327822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15aec112fe094a1862a0b2f58487a8ca66d4101d2bcbcf832ef6e00fe9253b6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8203994cdc3ea15b9eed20da9565427972ae51ad89c686d1071dbd213396fef4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Público
+- Guarda Fiscal
+- Promoção Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:177446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370062:por
+  label: "Alterado o art. 3.º do presente diploma, pelo DEC LEI.357/79.31.08.1979.MFP, DR.IS [201] de 31.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-1979-370062
+  date: '1979-08-31'
+- type: amended_by
+  target: pt:dre:363902:por
+  label: "Alterado o art. 3º pelo DEC LEI.437/79.06.11.1979.MF, DR.IS [256] de 06.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/437-1979-363902
+  date: '1979-11-06'
+- type: cites
+  target: pt:dre:207799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177446:por
+  label: Revogado pelo DEC LEI.374/85.20.09.1985.MFP, DR.IS [217] de 20.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1985-177446
+  date: '1985-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:04Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +129,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Hierarquia e funções
 
-###### Artigo 1.º Consideram-se graduados da Guarda Fiscal os elementos que, nela incorporados voluntariamente como soldados, adquiram preparação especial para o seu exercício, de acordo com o disposto neste diploma e fazem parte dos seus quadros permanentes.
+Artigo 1.º Consideram-se graduados da Guarda Fiscal os elementos que, nela incorporados voluntariamente como soldados, adquiram preparação especial para o seu exercício, de acordo com o disposto neste diploma e fazem parte dos seus quadros permanentes.
 
-###### Art. 2.º - 1 - Na Guarda Fiscal os graduados distribuem-se, hierarquicamente, pelos seguintes postos:
+Art. 2.º - 1 - Na Guarda Fiscal os graduados distribuem-se, hierarquicamente, pelos seguintes postos:
 
 a) Sargento:
 
@@ -122,7 +149,7 @@ b) Cabo.
 
 2 - O posto de cabo situa-se imediatamente abaixo do de segundo-sargento.
 
-###### Art. 3.º - 1 - Aos graduados da Guarda Fiscal compete desempenhar funções de comando, de chefia, de instrução, de carácter administrativo e técnico, em conformidade com os respectivos postos, qualificações técnicas e capacidades pessoais.
+Art. 3.º - 1 - Aos graduados da Guarda Fiscal compete desempenhar funções de comando, de chefia, de instrução, de carácter administrativo e técnico, em conformidade com os respectivos postos, qualificações técnicas e capacidades pessoais.
 
 2 - As funções cometidas aos sargentos são, fundamentalmente, as seguintes:
 
@@ -142,15 +169,15 @@ Comando de postos fiscais, ou subunidades equivalentes, exercício de funções,
 
 4 - Os diferentes graduados poderão desempenhar, transitoriamente, funções cometidas ao posto ou escalão superior.
 
-###### Art. 4.º Aos graduados da Guarda Fiscal deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à adequada preparação para o seu posto e para o posto imediato.
+Art. 4.º Aos graduados da Guarda Fiscal deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à adequada preparação para o seu posto e para o posto imediato.
 
-###### Art. 5.º - 1 - Os graduados da Guarda Fiscal não podem ser nomeados para desempenhar funções que correspondem a posto inferior àquele a que tenham ascendido.
+Art. 5.º - 1 - Os graduados da Guarda Fiscal não podem ser nomeados para desempenhar funções que correspondem a posto inferior àquele a que tenham ascendido.
 
 2 - Os graduados da Guarda Fiscal que desempenharem funções de posto superior ao seu, quando no exercício das mesmas, são considerados com autoridade correspondente a esse posto.
 
 ### CAPÍTULO II — Quadros
 
-###### Art. 6.º O ingresso nos quadros de graduados da Guarda Fiscal faz-se pela forma seguinte:
+Art. 6.º O ingresso nos quadros de graduados da Guarda Fiscal faz-se pela forma seguinte:
 
 a) Para os cabos, mediante o aproveitamento do curso de formação de cabos (CFC), que servirá de base ao ordenamento da sua escala de antiguidade;
 
@@ -158,19 +185,19 @@ b) Para sargentos, mediante o aproveitamento do curso de formação de sargentos
 
 c) Para os quadros técnicos, mediante o aproveitamento de cursos da respectiva especialidade, de acordo com as condições especiais próprias de cada quadro e posto, conforme regulamento próprio.
 
-###### Art. 7.º - 1 - Os graduados da Guarda Fiscal, na situação de activo, distribuem-se pelos quadros de sargentos e cabos, incluindo os quadros técnicos que porventura venham a ser criados, nos quais são inscritos nos seus postos, por ordem de antiguidade.
+Art. 7.º - 1 - Os graduados da Guarda Fiscal, na situação de activo, distribuem-se pelos quadros de sargentos e cabos, incluindo os quadros técnicos que porventura venham a ser criados, nos quais são inscritos nos seus postos, por ordem de antiguidade.
 
 2 - Os quadros e respectivos efectivos são os constantes de diplomas legais próprios.
 
 ### CAPÍTULO III — Promoções
 
-###### Art. 8.º Os graduados ascendem aos postos referidos no artigo 2.º por promoção.
+Art. 8.º Os graduados ascendem aos postos referidos no artigo 2.º por promoção.
 
-###### Art. 9.º A promoção dos graduados realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 2.º, com excepção da promoção por distinção, que pode, em casos muito excepcionais, realizar-se ao posto imediatamente superior ao posto imediato do graduado a promover.
+Art. 9.º A promoção dos graduados realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 2.º, com excepção da promoção por distinção, que pode, em casos muito excepcionais, realizar-se ao posto imediatamente superior ao posto imediato do graduado a promover.
 
-###### Art. 10.º Os graduados da Guarda Fiscal apenas podem ser promovidos enquanto se mantiverem na situação do activo.
+Art. 10.º Os graduados da Guarda Fiscal apenas podem ser promovidos enquanto se mantiverem na situação do activo.
 
-###### Art. 11.º - 1 - Para serem promovidos, os graduados da Guarda Fiscal têm de satisfazer as condições de promoção, tendo apenas em conta as excepções previstas neste diploma.
+Art. 11.º - 1 - Para serem promovidos, os graduados da Guarda Fiscal têm de satisfazer as condições de promoção, tendo apenas em conta as excepções previstas neste diploma.
 
 2 - As condições de promoção dividem-se em:
 
@@ -178,7 +205,7 @@ a) Condições gerais: comuns a todos os quadros e postos;
 
 b) Condições especiais: próprias de cada quadro e posto.
 
-###### Art. 12.º As condições gerais de promoção dos graduados da Guarda Fiscal são as seguintes:
+Art. 12.º As condições gerais de promoção dos graduados da Guarda Fiscal são as seguintes:
 
 1.ª Bom comportamento militar e civil;
 
@@ -188,35 +215,35 @@ b) Condições especiais: próprias de cada quadro e posto.
 
 4.ª Qualidades pessoais físicas, psíquicas, intelectuais e profissionais necessárias para o desempenho das funções do posto imediato.
 
-###### Art. 13.º São condições especiais de promoção ao posto de cabo:
+Art. 13.º São condições especiais de promoção ao posto de cabo:
 
 a) A aprovação do curso de formação de cabos (CFC);
 
 b) Ter, no mínimo, um ano de serviço efectivo como soldado num posto fiscal ou subunidade operacional equivalente, sujeito a nomeação de escala.
 
-###### Art. 14.º São condições especiais de promoção ao posto de segundo-sargento:
+Art. 14.º São condições especiais de promoção ao posto de segundo-sargento:
 
 a) A aprovação do curso de formação de sargentos (CFS);
 
 b) Ter, no mínimo, um ano de serviço efectivo como cabo, num posto fiscal, não acumulável, sujeito a nomeação por escala ou como comandante de posto ou ainda em serviço numa subunidade operacional equivalente.
 
-###### Art. 15.º As condições especiais de promoção ao posto de primeiro-sargento são as seguintes:
+Art. 15.º As condições especiais de promoção ao posto de primeiro-sargento são as seguintes:
 
 a) Possuir o curso geral dos liceus ou curso legalmente equivalente;
 
 b) Ter três anos de serviço efectivo a partir da promoção a segundo-sargento.
 
-###### Art. 16.º As condições especiais de promoção ao posto de sargento-ajudante são as seguintes:
+Art. 16.º As condições especiais de promoção ao posto de sargento-ajudante são as seguintes:
 
 a) Aprovação no curso de promoção a sargento-ajudante (CPSA);
 
 b) Ter, no mínimo, quatro anos de serviço efectivo a partir da promoção a primeiro-sargento.
 
-###### Art. 17.º É condição especial de promoção ao posto de sargento-chefe ter, no mínimo, dois anos de serviço efectivo a partir da promoção a sargento-ajudante.
+Art. 17.º É condição especial de promoção ao posto de sargento-chefe ter, no mínimo, dois anos de serviço efectivo a partir da promoção a sargento-ajudante.
 
-###### Art. 18.º É condição especial de promoção a sargento-mor ser sargento-chefe, tendo, no mínimo, um ano de serviço efectivo a partir da promoção a este último posto.
+Art. 18.º É condição especial de promoção a sargento-mor ser sargento-chefe, tendo, no mínimo, um ano de serviço efectivo a partir da promoção a este último posto.
 
-###### Art. 19.º Os graduados da Guarda Fiscal podem ser promovidos:
+Art. 19.º Os graduados da Guarda Fiscal podem ser promovidos:
 
 a) Por diuturnidade, que consiste no acesso automático ao posto imediato, decorrido o período de permanência fixado e satisfeitas as demais condições de promoção, mantendo-se no novo posto a antiguidade relativa ao posto anterior, salvo os casos de preterição;
 
@@ -226,29 +253,29 @@ c) Por escolha, que consiste no acesso ao posto superior, independentemente da p
 
 d) Por distinção, que consiste na promoção, independentemente da posição que os graduados ocupem na respectiva escala de antiguidade.
 
-###### Art. 20.º A promoção dos segundos-sargentos ao posto de primeiro-sargento é por diuturnidade.
+Art. 20.º A promoção dos segundos-sargentos ao posto de primeiro-sargento é por diuturnidade.
 
-###### Art. 21.º A promoção dos primeiros-sargentos ao posto de sargento-ajudante é por antiguidade, depois de reformulada a escala respectiva, segundo critério a definir por portaria.
+Art. 21.º A promoção dos primeiros-sargentos ao posto de sargento-ajudante é por antiguidade, depois de reformulada a escala respectiva, segundo critério a definir por portaria.
 
-###### Art. 22.º A promoção dos sargentos-ajudantes ao posto de sargento-chefe é por antiguidade.
+Art. 22.º A promoção dos sargentos-ajudantes ao posto de sargento-chefe é por antiguidade.
 
-###### Art. 23.º A promoção dos sargentos-chefes ao posto de sargento-mor é por escolha.
+Art. 23.º A promoção dos sargentos-chefes ao posto de sargento-mor é por escolha.
 
-###### Art. 24.º - 1 - As promoções por diuturnidade e por distinção não dependem de vacatura nos quadros.
+Art. 24.º - 1 - As promoções por diuturnidade e por distinção não dependem de vacatura nos quadros.
 
 2 - As promoções por antiguidade só podem ter lugar para preenchimento de vacatura nos quadros.
 
-###### Art. 25.º Os graduados da Guarda Fiscal ingressarão nos quadros de oficiais dos quadros permanentes do Exército de acordo com o que se encontra legislado para os sargentos do Exército.
+Art. 25.º Os graduados da Guarda Fiscal ingressarão nos quadros de oficiais dos quadros permanentes do Exército de acordo com o que se encontra legislado para os sargentos do Exército.
 
 ### CAPÍTULO IV — Cursos e estabelecimentos de ensino
 
-###### Art. 26.º - 1 - Os cursos de formação dos graduados da Guarda Fiscal terão lugar no Centro de Instrução da mesma guarda, que ministrará os cursos de formação de cabos (CFC), de formação de sargentos (CFS) e de promoção a sargento-ajudante (CPSA).
+Art. 26.º - 1 - Os cursos de formação dos graduados da Guarda Fiscal terão lugar no Centro de Instrução da mesma guarda, que ministrará os cursos de formação de cabos (CFC), de formação de sargentos (CFS) e de promoção a sargento-ajudante (CPSA).
 
 2 - Os graduados da Guarda Fiscal poderão ter de frequentar tirocínios, estágios e cursos de especialização, actualização e de valorização profissional, que constituirão um elemento a incluir nas informações base da apreciação das qualidades pessoais como condições gerais de promoção.
 
 3 - Sempre que possível, os graduados da Guarda Fiscal deverão frequentar cursos, ou a parte geral militar desses cursos, ministrados nos estabelecimentos de ensino militar do Exército, conforme legislação vigente.
 
-###### Art. 27.º São condições de admissão ao curso de formação de cabos:
+Art. 27.º São condições de admissão ao curso de formação de cabos:
 
 a) Ser soldado da Guarda Fiscal, em serviço efectivo;
 
@@ -260,7 +287,7 @@ d) Ter obtido aproveitamento nas provas de aptidão.
 
 § único. Quando não houver candidatos em número suficiente às vagas previstas, o Comando-Geral poderá nomear soldados para a sua frequência.
 
-###### Art. 28.º São condições de admissão ao curso de formação de sargentos:
+Art. 28.º São condições de admissão ao curso de formação de sargentos:
 
 a) Ser cabo da Guarda Fiscal em serviço efectivo;
 
@@ -272,7 +299,7 @@ d) Ter, no mínimo, o ciclo preparatório do ensino secundário ou equivalente;
 
 e) Ter obtido aproveitamento nas provas de aptidão.
 
-###### Art. 29.º Serão admitidos ao curso de promoção a sargento-ajudante os primeiros-sargentos com base na sua antiguidade, desde que satisfaçam as seguintes condições:
+Art. 29.º Serão admitidos ao curso de promoção a sargento-ajudante os primeiros-sargentos com base na sua antiguidade, desde que satisfaçam as seguintes condições:
 
 a) Ter, no mínimo, um ano de serviço efectivo a partir da promoção a sargento, prestado em funções de comando ou serviço em subunidades operacionais ou no Centro de Instrução da Guarda Fiscal, tomando parte efectiva, neste último caso, nas escolas de alistados e cursos ali ministrados;
 
@@ -280,46 +307,46 @@ b) Possuir aptidão física, apreciada por junta médica, e boas qualidades mili
 
 c) Ter menos de 47 anos de idade referidos a 31 de Dezembro do ano de ingresso no curso.
 
-###### Art. 30.º Podem ser admitidos aos cursos ministrados na Academia Militar e no Instituto Superior Militar os graduados da Guarda Fiscal que satisfaçam as condições estabelecidas na admissão àquelas escolas militares para os sargentos do Exército.
+Art. 30.º Podem ser admitidos aos cursos ministrados na Academia Militar e no Instituto Superior Militar os graduados da Guarda Fiscal que satisfaçam as condições estabelecidas na admissão àquelas escolas militares para os sargentos do Exército.
 
-###### Art. 31.º O número de instruendos a admitir em cada ano aos cursos de formação de cabos, cursos de formação de sargentos e cursos de promoção a sargento-ajudante será fixado, anualmente, até seis meses do seu início, por despacho do comandante-geral da Guarda Fiscal, tendo em consideração os quadros orgânicos aprovados por lei.
+Art. 31.º O número de instruendos a admitir em cada ano aos cursos de formação de cabos, cursos de formação de sargentos e cursos de promoção a sargento-ajudante será fixado, anualmente, até seis meses do seu início, por despacho do comandante-geral da Guarda Fiscal, tendo em consideração os quadros orgânicos aprovados por lei.
 
-###### Art. 32.º Serão excluídos definitivamente dos cursos de formação de cabos e de formação de sargentos da Guarda Fiscal:
+Art. 32.º Serão excluídos definitivamente dos cursos de formação de cabos e de formação de sargentos da Guarda Fiscal:
 
 a) Os candidatos que reprovem duas vezes nas respectivas provas de aptidão;
 
 b) Os instruendos que percam dois anos por desistência ou reprovação, salvo os casos de desistência motivados por doença devidamente comprovada.
 
-###### Art. 33.º Serão excluídos definitivamente do curso de promoção a sargento-ajudante os primeiros-sargentos que:
+Art. 33.º Serão excluídos definitivamente do curso de promoção a sargento-ajudante os primeiros-sargentos que:
 
 a) Após nomeação, desistam duas vezes do ingresso no mesmo;
 
 b) Após ingresso no mesmo, percam um ano por desistência ou reprovação, salvo os casos de desistência motivada por doença devidamente comprovada.
 
-###### Art. 34.º Os regulamentos das provas de aptidão à admissão dos vários cursos e, bem assim, os programas a ministrar nesses cursos serão objecto de regulamentação interna da Guarda Fiscal.
+Art. 34.º Os regulamentos das provas de aptidão à admissão dos vários cursos e, bem assim, os programas a ministrar nesses cursos serão objecto de regulamentação interna da Guarda Fiscal.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 35.º - 1 - Até ao ano lectivo de 1984-1985, inclusive, podem ser admitidos ao curso de promoção a sargento-ajudante primeiros-sargentos que, não possuindo as habilitações literárias referidas na alínea a) do artigo 15.º do presente diploma, satisfaçam as restantes condições.
+Art. 35.º - 1 - Até ao ano lectivo de 1984-1985, inclusive, podem ser admitidos ao curso de promoção a sargento-ajudante primeiros-sargentos que, não possuindo as habilitações literárias referidas na alínea a) do artigo 15.º do presente diploma, satisfaçam as restantes condições.
 
 2 - A ascensão aos postos de sargento-chefe e sargento-mor dos actuais sargentos-ajudantes da Guarda Fiscal somente poderá ter lugar depois da frequência e aproveitamento do curso definido no artigo 29.º do presente diploma.
 
-###### Art. 36.º Até ao ano lectivo de 1980-1981 poderão ser admitidos ao curso de formação de sargentos os cabos a nomear independentemente de terem ou não as habilitações literárias requeridas, desde que satisfaçam as restantes condições.
+Art. 36.º Até ao ano lectivo de 1980-1981 poderão ser admitidos ao curso de formação de sargentos os cabos a nomear independentemente de terem ou não as habilitações literárias requeridas, desde que satisfaçam as restantes condições.
 
-###### Art. 37.º A reformulação da escala prevista no artigo 21.º será, para os actuais sargentos-ajudantes, elaborada separadamente da escala dos primeiros-sargentos.
+Art. 37.º A reformulação da escala prevista no artigo 21.º será, para os actuais sargentos-ajudantes, elaborada separadamente da escala dos primeiros-sargentos.
 
-###### Art. 38.º Aos actuais segundos-sargentos e aos que, porventura, venham a ser promovidos como consequência do curso de formação de sargentos até ao ano lectivo de 1979-1980 não será exigido o curso geral dos liceus ou equivalente para a promoção a primeiro-sargento.
+Art. 38.º Aos actuais segundos-sargentos e aos que, porventura, venham a ser promovidos como consequência do curso de formação de sargentos até ao ano lectivo de 1979-1980 não será exigido o curso geral dos liceus ou equivalente para a promoção a primeiro-sargento.
 
-###### Art. 39.º Os limites de idade estabelecidos nos artigos 27.º, 28.º e 29.º só serão considerados a partir do ano lectivo de 1984-1985, mantendo-se até essa data os limites de idade do antecedente em vigor.
+Art. 39.º Os limites de idade estabelecidos nos artigos 27.º, 28.º e 29.º só serão considerados a partir do ano lectivo de 1984-1985, mantendo-se até essa data os limites de idade do antecedente em vigor.
 
-###### Art. 40.º Quaisquer dúvidas que surjam para a execução do presente diploma serão resolvidas por despacho interpretativo do Ministro das Finanças e do Plano.
+Art. 40.º Quaisquer dúvidas que surjam para a execução do presente diploma serão resolvidas por despacho interpretativo do Ministro das Finanças e do Plano.
 
-###### Art. 41.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 41.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 9 de Outubro de 1978.**
+Promulgado em 9 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

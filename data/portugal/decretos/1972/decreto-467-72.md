@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72bb063fd4a1c26ddf71c6078726d8bbf5d2d162f293a32f5657fc50835dad26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 966dd1ff1a2053e09fd5b3e7c386d3406e92247af8e2989fbcb5b5ff58277e3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA de Serviço
+- Auto-estrada
+- Auto-estrada da Costa do Estoril
+- Auto-estrada do Norte
+- Auto-estrada do SUL
+- Auto-estrada Porto-braga-guimarães
+- Brisa
+- Contrato de Concessão
+- Custo da Construção
+- Expropriação
+- Financiamento
+- Garantia
+- Isenção de Portagem
+- Junta Autónoma das Estradas
+- Portagem
+- Receita Pública
+- Rescisão de Contrato
+- Sociedade Anónima
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:1882480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:404477:por
+  label: "Alterada a base VI, pelo DEC.183/77.1977.12.31.MOP, DR.IS [302]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/183-1977-404477
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:390181:por
+  label: "Alteradas as bases pelo DR.5/81.1981.01.23.MFP, DR.IS [19], o qual procedeu à publicação integral das referidas\
+    \ bases\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1981-390181
+  date: '1981-01-23'
+- type: amended_by
+  target: pt:dre:535656:por
+  label: "Substituídas as bases anexas ao presente diploma, na redacção que lhes foi dada pelo DR 5/81, de 23-Jan, pelo DEC\
+    \ LEI.458/85.1985.10.30.MES, DR.IS [250]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1985-535656
+  date: '1985-10-30'
+- type: amended_by
+  target: pt:dre:283694:por
+  label: "Ampliada a concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., pelo presente decreto, na redacção dos\
+    \ Dec Leis 458/85, de 30-Out, e 315/91, de 20- Ago, pela RES.46/93.31.05.1993.PCM, DR.IS-B [126] de 31.05.1993\093\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/46-1993-283694
+  date: '1993-05-31'
+- type: amended_by
+  target: pt:dre:1882480:por
+  label: "Ampliada a concessão outorgada à Brisa- Auto Estradas de Portugal pela RES.24/95IIS.1995.06.01.PCM, DR. II S [138]\
+    \ de 17/Jun/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/24-1995-1882480
+  date: '1995-06-01'
+- type: cites
+  target: pt:dre:201462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:42Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +164,15 @@ Nos termos do artigo 2.º do [Decreto-Lei n.º 49319](https://diariodarepublica.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É outorgada a Brisa - Auto-Estradas de Portugal, sociedade anónima de responsabilidade limitada, com sede em Lisboa, a concessão da construção, conservação e exploração de auto-estradas nos termos das bases anexas a este decreto e que dele fazem parte integrante, ficando o Ministro das Obras Públicas autorizado a outorgar, por parte do Estado, no respectivo contrato.
+Artigo único. É outorgada a Brisa - Auto-Estradas de Portugal, sociedade anónima de responsabilidade limitada, com sede em Lisboa, a concessão da construção, conservação e exploração de auto-estradas nos termos das bases anexas a este decreto e que dele fazem parte integrante, ficando o Ministro das Obras Públicas autorizado a outorgar, por parte do Estado, no respectivo contrato.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 13 de Novembro de 1972.**
+Promulgado em 13 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Bases a que se refere o Decreto n.º 467/72
 
@@ -120,7 +192,7 @@ d) Auto-estrada do Porto a Braga e Guimarães, entre o Porto (estrada nacional n
 
 2. As auto-entradas relacionadas no número anterior consideram-se divididas nos seguintes lanços:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
 
 3. Os traçados e extensões definitivos de cada um dos lanços serão os que figurarem nos projectos aprovados.
 
@@ -154,7 +226,7 @@ BASE II
 
 1. Os lanços referidos no n.º 2 da base anterior- entrarão em serviço, o mais tardar, nos semestres seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
 
 2. A construção deverá iniciar-se antes de decorridos dezoito meses, a contar da data da assinatura do contrato de concessão, e a entrada em serviço do primeiro lanço deverá verificar-se antes de decorridos três anos, a contar da mesma data.
 
@@ -372,7 +444,7 @@ S(índice t), Av(índice t), Ac(índice t), B(índice t), C(índice t), Cb(índi
 
 O valor de (alfa)(índice o) relativo ao lanço será dado pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
 
 10. Para determinar o valor de (alfa)(índice f) proceder-se-á do seguinte modo:
 
@@ -904,7 +976,7 @@ BASE XLVI
 
 o contrato da concessão é baseado nas normas legais e regulamentares em vigor no dia 7 de Fevereiro de 1972. No caso de qualquer alteração das referidas normas afectar as condições de construção das auto-estradas ou a sua exploração nos termos desse contrato, o Estado, mediante pedido escrito da concessionária, acordará com ela um justo acerto dessas condições.
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.
 
 MAPA I
 
@@ -912,7 +984,7 @@ Receitas a garantir à concessionária
 
 (Em contos, por ano e para cada lanço)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
 
 MAPA II
 
@@ -920,10 +992,10 @@ Custos por lanços
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27200/17001712.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

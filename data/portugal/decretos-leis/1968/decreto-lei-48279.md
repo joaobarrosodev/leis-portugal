@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48279-1968-234887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 183616d9918ec4117cf9eafc03dc50ba90fd6ee8ccdf98c3228e7f07db6b3173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ee0970b001974ef88947cbfd2ab9d6da89c83088767cf720a6a5d3ff58d531d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crime
+- Definição de Competências
+- Fardamento
+- Forças Armadas
+- GNR
+- Guarda Fiscal
+- Legião Portuguesa
+- Ministério da Defesa Nacional
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:233133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:37Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +109,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os tecidos utilizados na confecção dos uniformes de campanha (camuflados) das forças armadas ou outros que pelas suas cores e desenhos com eles se possam confundir não podem ser importados, fabricados ou negociados sem encomenda de um dos departamentos militares ou sem autorização do Ministro da Defesa Nacional.
+Artigo 1.º Os tecidos utilizados na confecção dos uniformes de campanha (camuflados) das forças armadas ou outros que pelas suas cores e desenhos com eles se possam confundir não podem ser importados, fabricados ou negociados sem encomenda de um dos departamentos militares ou sem autorização do Ministro da Defesa Nacional.
 
 § 1.º Os tecidos constantes do corpo deste artigo são exclusivamente destinados à manufactura de artigos de uniforme, de fardamento ou ainda de outros que venham a ser adoptados pelas forças armadas. Estes artigos só poderão ser confeccionados nos competentes órgãos dos departamentos militares ou na indústria particular, mediante encomenda desses departamentos ou autorização do Ministro da Defesa Nacional.
 
@@ -100,21 +117,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º O organismo competente de cada ramo das forças armadas deve facultar aos fabricantes e comerciantes que o solicitem a consulta dos padrões, aprovados por esse ramo, dos tecidos, artigos de fardamento, de uniforme e seus elementos referidos no corpo deste artigo e seu § 2.º
 
-###### Art. 2.º Os artigos de fardamento, de uniforme e os seus elementos, quando manufacturados com tecido camuflado ou os constantes de portaria a que se refere o § 2.º do artigo 1.º, não poderão ser vendidos, mesmo depois de inutilizados, sendo transformados em trapo para uso exclusivo das forças armadas.
+Art. 2.º Os artigos de fardamento, de uniforme e os seus elementos, quando manufacturados com tecido camuflado ou os constantes de portaria a que se refere o § 2.º do artigo 1.º, não poderão ser vendidos, mesmo depois de inutilizados, sendo transformados em trapo para uso exclusivo das forças armadas.
 
 Os artigos de fardamento, de uniforme e os seus elementos não abrangidos pelo artigo 1.º e seus §§ 1.º e 2.º que sejam ou venham a ser considerados de uso exclusivo das forças armadas não podem ser objecto de venda ou cedência, quer por parte dos militares a quem hajam sido atribuídos ou que os tenham adquirido, quer por parte dos estabelecimentos militares ou civis, tanto os habilitados ao seu fabrico como os que exercem o seu comércio, a indivíduos que não estejam autorizados a usá-los, salvo quando, depois de recolhidos ou inutilizados os seus distintivos e marcas, sejam prèviamente desmanchados e, no caso dos estabelecimentos militares, não se possam aproveitar nas forças armadas para outros fins úteis.
 
-###### Art. 3.º A Guarda Nacional Republicana, a Guarda Fiscal, a Polícia de Segurança Pública e a Legião Portuguesa poderão usar uniformes de campanha (camuflados) em circunstâncias especiais a determinar pelos respectivos comandos, com aprovação do Ministro da Defesa Nacional.
+Art. 3.º A Guarda Nacional Republicana, a Guarda Fiscal, a Polícia de Segurança Pública e a Legião Portuguesa poderão usar uniformes de campanha (camuflados) em circunstâncias especiais a determinar pelos respectivos comandos, com aprovação do Ministro da Defesa Nacional.
 
 Estes uniformes serão fornecidos contra reembolso pelos competentes órgãos dos departamentos militares, mediante prévia autorização do Ministro da Defesa Nacional.
 
 § único. Os uniformes referidos no corpo deste artigo não poderão ser vendidos ou cedidos, mesmo depois de inutilizados, sendo transformados em trapo para uso exclusivo da entidade a que pertençam.
 
-###### Art. 4.º É proibido a qualquer indivíduo estranho às forças armadas (mesmo pertencente a outras corporações ou serviços dependentes dos departamentos militares) usar uniformes pertencentes às mesmas forças, bem como artigos de fardamento, de uniforme ou os seus elementos considerados de uso exclusivo das forças armadas.
+Art. 4.º É proibido a qualquer indivíduo estranho às forças armadas (mesmo pertencente a outras corporações ou serviços dependentes dos departamentos militares) usar uniformes pertencentes às mesmas forças, bem como artigos de fardamento, de uniforme ou os seus elementos considerados de uso exclusivo das forças armadas.
 
-###### Art. 5.º Sem prejuízo do disposto nos artigos 1.º e 2.º do presente diploma, não é permitido o comércio, sob a designação de artigos de fardamento, de uniforme ou seus elementos, daqueles que não satisfaçam às características estabelecidas por cada ramo das forças armadas.
+Art. 5.º Sem prejuízo do disposto nos artigos 1.º e 2.º do presente diploma, não é permitido o comércio, sob a designação de artigos de fardamento, de uniforme ou seus elementos, daqueles que não satisfaçam às características estabelecidas por cada ramo das forças armadas.
 
-###### Art. 6.º Os fabricantes e comerciantes que à data da publicação do presente diploma tenham existência de tecidos ou artigos confeccionados abrangidos pelo disposto no corpo do artigo 1.º e seu § 1.º deverão comunicar, no prazo de 45 dias, a contar da data da entrada em vigor deste diploma, essas existências ao Secretariado-Geral da Defesa Nacional, que determinará o destino a dar-lhes.
+Art. 6.º Os fabricantes e comerciantes que à data da publicação do presente diploma tenham existência de tecidos ou artigos confeccionados abrangidos pelo disposto no corpo do artigo 1.º e seu § 1.º deverão comunicar, no prazo de 45 dias, a contar da data da entrada em vigor deste diploma, essas existências ao Secretariado-Geral da Defesa Nacional, que determinará o destino a dar-lhes.
 
 § 1.º O disposto no corpo deste artigo será igualmente aplicável a qualquer tecido ou artigo confeccionado considerado de uso exclusivo das forças armadas e incluído na portaria a que se refere o § 2.º do artigo 1.º
 
@@ -122,15 +139,15 @@ Estes uniformes serão fornecidos contra reembolso pelos competentes órgãos do
 
 § 3.º Nas províncias ultramarinas a comunicação será feita por intermédio do comandante-chefe respectivo.
 
-###### Art. 7.º As infracções ao disposto nos artigos 1.º, 2.º, 5.º e 6.º do presente diploma constituem crime de desobediência, salvo se o facto configurar crime a que corresponda pena mais grave.
+Art. 7.º As infracções ao disposto nos artigos 1.º, 2.º, 5.º e 6.º do presente diploma constituem crime de desobediência, salvo se o facto configurar crime a que corresponda pena mais grave.
 
-###### Art. 8.º A infracção ao disposto no artigo 4.º constitui crime punível nos termos do artigo 235.º do Código Penal, salvo se o facto configurar outro crime a que corresponda pena mais grave.
+Art. 8.º A infracção ao disposto no artigo 4.º constitui crime punível nos termos do artigo 235.º do Código Penal, salvo se o facto configurar outro crime a que corresponda pena mais grave.
 
-###### Art. 9.º Os militares e as autoridades policiais de qualquer natureza ou hierarquia devem intimar ordem de prisão aos indivíduos estranhos às forças armadas encontrados em infracção às disposições deste diploma.
+Art. 9.º Os militares e as autoridades policiais de qualquer natureza ou hierarquia devem intimar ordem de prisão aos indivíduos estranhos às forças armadas encontrados em infracção às disposições deste diploma.
 
 Os artigos objecto da infracção serão apreendidos e entregues na autoridade militar, marítima ou posto policial mais próximo, considerando-se perdidos em favor do Estado e tendo o destino que, em cada caso, lhes for dado pelo Secretariado-Geral da Defesa Nacional
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Alberto de Oliveira.
 

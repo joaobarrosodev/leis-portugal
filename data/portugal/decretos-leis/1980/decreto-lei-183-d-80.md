@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/1980, 2º Suplemento, Série I de 1980-06-09
   number: '132'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1364-(50) a 1364-(55)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00500055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1115b12888155825e4adb02c5815fe5657aab0d627c5dbab714ae927c5024124
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33497af1722243f042317e7990959682c9a0da165bf72443bc9ec780dcdca133
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
+- Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392414:por
+  label: "Eliminada a al. e) do § 2º do art. 1º e alterados os arts. 2º, 5º, 21º, 55º e 59º e a tabela anexa, e aditado um\
+    \ nº 1 ao art. 10º ao Código do Imposto Profissional aprovado pelo Dec Lei 44305 de 27-Abr de 1962, com a redacção constante\
+    \ do presente diploma, pelo DEC LEI.198/82.21.05.1982.MFP, DR.IS [115] de 21.05.1982 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1982-392414
+  date: '1982-05-21'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:377568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472372:por
+  label: Rectificado pela DECL.DD6976.17.07.1980.PCM, DR.IS [163] de 17.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472372
+  date: '1980-07-17'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:21Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +136,7 @@ Nesta conformidade:
 
 Ao abrigo da autorização concedida pelo artigo 17.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º-A, 7.º-B, 8.º, 10.º, 21.º, 55.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º-A, 7.º-B, 8.º, 10.º, 21.º, 55.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -116,7 +152,7 @@ f) Os subsídios e outros benefícios ou regalias sociais auferidos no exercíci
 
 § 3.º ...
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º Consideram-se incluídos na alínea a) os membros dos corpos gerentes, conselhos fiscais, mesas das assembleias gerais ou de outros órgãos das sociedades, ainda que nomeados pelo Governo ou designados por lei, assim como os agentes de seguros que, embora trabalhando de sua conta, restrinjam essa actividade à mera angariação de seguros, e ainda os donos de firmas em nome individual e os pescadores referidos, respectivamente, nas alíneas c) e d) do § 2.º do artigo anterior.
 
@@ -124,13 +160,13 @@ f) Os subsídios e outros benefícios ou regalias sociais auferidos no exercíci
 
 § 3.º ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
 f) Os subsídios de refeição até ao limite do quantitativo estabelecido para os servidores do Estado.
 
-###### Art. 4.º Estão isentos de imposto profissional:
+Art. 4.º Estão isentos de imposto profissional:
 
 a) ...
 
@@ -156,11 +192,11 @@ i) ...
 
 § 3.º As dúvidas na aplicação do disposto no § 1.º, relativamente à correspondência de categorias e rendimentos base, serão resolvidas por despacho do Ministro das Finanças e do Plano, ouvida a Secretaria de Estado da Reforma Administrativa.
 
-###### Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 105000$00.
+Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 105000$00.
 
 § único. ...
 
-###### Art. 6.º As pessoas sujeitas a imposto apresentarão, durante o mês de Janeiro de cada ano, uma declaração, conforme o modelo n.º 1, de todas as remunerações ou rendimentos por elas recebidos ou postos à sua disposição no ano antecedente; sendo caso disso, a declaração deverá especificar o valor das remunerações em espécie, alimentação ou aposentadoria e ser acompanhada dos documentos referidos na alínea a) do artigo 3.º e no § 1.º do artigo 10.º, devidamente classificados e relacionados, os quais serão restituídos ao contribuinte depois de verificada a sua conformidade.
+Art. 6.º As pessoas sujeitas a imposto apresentarão, durante o mês de Janeiro de cada ano, uma declaração, conforme o modelo n.º 1, de todas as remunerações ou rendimentos por elas recebidos ou postos à sua disposição no ano antecedente; sendo caso disso, a declaração deverá especificar o valor das remunerações em espécie, alimentação ou aposentadoria e ser acompanhada dos documentos referidos na alínea a) do artigo 3.º e no § 1.º do artigo 10.º, devidamente classificados e relacionados, os quais serão restituídos ao contribuinte depois de verificada a sua conformidade.
 
 § 1.º ...
 
@@ -170,11 +206,11 @@ i) ...
 
 ...
 
-###### Art. 7.º-A. ...
+Art. 7.º-A. ...
 
 § único. Para efeitos no disposto neste artigo, deverão os contribuintes juntar à declaração modelo n.º 1 pública-forma do cartão de deficiente das forças armadas ou militarizadas ou declaração, passada pelos serviços competentes da Direcção-Geral de Saúde, comprovativa do grau de invalidez avaliado pela Tabela Nacional de Incapacidades por Acidentes no Trabalho e Doenças Profissionais. O documento comprovativo de deficiência de carácter permanente não carece de renovação.
 
-###### Art. 7.º-B. Os rendimentos que não forem pagos ou postos à disposição dos seus titulares no ano em que forem produzidos poderão ser reportados ao ano ou aos anos a que respeitarem e tributados pelas taxas correspondentes, desde que:
+Art. 7.º-B. Os rendimentos que não forem pagos ou postos à disposição dos seus titulares no ano em que forem produzidos poderão ser reportados ao ano ou aos anos a que respeitarem e tributados pelas taxas correspondentes, desde que:
 
 a) Tratando-se de actividades exercidas por conta de outrem ou de direitos de autor sobre obras intelectuais, o contribuinte e a entidade responsável pelo pagamento façam a necessária discriminação na decluaração modelo n.º 1, na relação modelo n.º 8 e na nota modelo n.º 8-A, bem como no registo a que se refere o artigo 46.º;
 
@@ -182,7 +218,7 @@ b) Tratando-se de actividades por conta própria, o contribuinte, na declaraçã
 
 § único. A faculdade prevista no presente artigo não poderá ser aplicada para além dos três anos civis imediatamente anteriores àquele em que as remunerações ou rendimentos forem recebidos ou postos à disposição dos seus titulares.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § 1.º ...
 
@@ -202,7 +238,7 @@ c) As despesas ou outras obrigações da responsabilidade dos clientes a que se 
 
 ...
 
-###### Art. 10.º No apuramento da matéria colectável dos contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa serão deduzidos às receitas os seguintes encargos:
+Art. 10.º No apuramento da matéria colectável dos contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa serão deduzidos às receitas os seguintes encargos:
 
 1.º Despesas com:
 
@@ -268,9 +304,9 @@ c) As importâncias cobradas a título de provisão ou adiantamento ou a qualque
 
 ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00500055.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00500055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00500055.pdf)
 
 § 1.º Em caso algum poderá ser liquidado imposto que deixe ao contribuinte rendimento líquido menor do que aquele que lhe ficaria se o seu rendimento colectável correspondesse ao limite máximo do escalão imediatamente inferior.
 
@@ -278,7 +314,7 @@ c) As importâncias cobradas a título de provisão ou adiantamento ou a qualque
 
 ...
 
-###### Art. 55.º ...
+Art. 55.º ...
 
 § 1.º Os prazos de reclamação, ordinária ou extraordinária, e de impugnação, nos casos em que, feito o apuramento do rendimento colectável, não haja lugar a liquidação ou anulação de imposto nos termos dos artigos 32.º e 33.º, serão contados a partir do dia 2 de Julho do ano seguinte àquele em que as remunerações forem pagas ou atribuídas.
 
@@ -286,7 +322,7 @@ c) As importâncias cobradas a título de provisão ou adiantamento ou a qualque
 
 ...
 
-###### Art. 59.º A falta ou inexactidão das declarações ou relações e notas a que aludem os artigos 6.º e 47.º, bem como as omissões nelas praticadas, serão punidas, no caso de simples negligência, com multa de 200$00 a 50000$00.
+Art. 59.º A falta ou inexactidão das declarações ou relações e notas a que aludem os artigos 6.º e 47.º, bem como as omissões nelas praticadas, serão punidas, no caso de simples negligência, com multa de 200$00 a 50000$00.
 
 § 1.º Havendo dolo, a multa será igual ao dobro do imposto não liquidado, no mínimo de 1000$00.
 
@@ -294,9 +330,9 @@ Quando da infracção dolosa não resulte liquidação de imposto inferior ao de
 
 § 2.º Presume-se dolosa a omissão de remunerações, ou a sua indicação por quantitativos inexactos, quando as infracções do contribuinte e das entidades referidas nos artigos 26.º e 27.º forem coincidentes.
 
-###### Art. 2.º A tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 3.º do [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136), de 12 de Junho, é substituída pela tabela anexa ao presente decreto-lei.
+Art. 2.º A tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 3.º do [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136), de 12 de Junho, é substituída pela tabela anexa ao presente decreto-lei.
 
-###### Art. 3.º - 1 - As disposições constantes dos artigos 1.º, 3.º, 5.º, 10.º [excepto as alíneas l) e m) do n.º 1 do corpo do artigo] e 21.º do Código do Imposto Profissional, segundo a redacção dada pelo artigo 1.º do presente decreto-lei, e, bem assim, a tabela das actividades exercidas por conta própria, a que se refere o artigo anterior, são aplicáveis às remunerações ou rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1980 e seguintes
+Art. 3.º - 1 - As disposições constantes dos artigos 1.º, 3.º, 5.º, 10.º [excepto as alíneas l) e m) do n.º 1 do corpo do artigo] e 21.º do Código do Imposto Profissional, segundo a redacção dada pelo artigo 1.º do presente decreto-lei, e, bem assim, a tabela das actividades exercidas por conta própria, a que se refere o artigo anterior, são aplicáveis às remunerações ou rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1980 e seguintes
 
 2 - As disposições constantes dos artigos 4.º, § 1.º, 7.º-B, alínea b), e 10.º, alíneas l) e m) do seu n.º 1.º, do referido Código são aplicáveis às remunerações ou rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1981 e seguintes.
 
@@ -306,14 +342,14 @@ Quando da infracção dolosa não resulte liquidação de imposto inferior ao de
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 9 de Junho de 1980.**
+Promulgado em 9 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 IMPOSTO PROFISSIONAL
 
 Tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do Decreto-Lei n.º 183-D/80.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00500055.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00500055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00500055.pdf)

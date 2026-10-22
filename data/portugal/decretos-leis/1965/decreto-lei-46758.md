@@ -46,40 +46,139 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4751c51fbf1280a8cafa0b4da965f2de625d446aeebd628f5ad8c411458b639e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 346970872388a77e70e82783a333665cf69012385dd4db4b649bfc51a02bd9f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Belas-artes
+- Conservação e Restauro
+- Direcção Geral do Ensino Superior e das Belas Artes
+- Évora
+- Instituto de JOSÉ de Figueiredo
+- Lamego
+- Ministro da Educação Nacional
+- Museu
+- Museu de Alberto Sampaio
+- Museu de Diogo de Sousa
+- Museu de Escultura Comparada
+- Museu de José Malhoa
+- Museu do Abade de Baçal
+- Museu Nacional de Arqueologia e Etnologia
+- Museu Nacional de Arte Antiga
+- Museu Nacional de Arte Contemporânea
+- Museu Nacional de Machado de Castro
+- Museu Nacional de Soares dos Reis
+- Museu Nacional dos Coches
+- Obras Públicas
+- Património Cultural
 relationships:
 - type: amended_by
   target: pt:dre:428999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:595085:por
+  label: "Alterado o art. 28º pelo DEC LEI.752/74.28.12.1974.MEC, DG.IS [301-Supl] de 28.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/752-1974-595085
+  date: '1974-12-28'
+- type: amended_by
+  target: pt:dre:250425:por
+  label: Alterado o quadro único de pessoal criado pelo art. 32º pelo DR.44/77.01.07.1977.PCM, DR.IS [150] de 01.07.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-1977-250425
+  date: '1977-07-01'
+- type: amended_by
+  target: pt:dre:428999:por
+  label: "Extinto o Instituto de José de Figueiredo criado pelo presente diploma, pelo DEC LEI.342/99.1999.08.25.MC DR.IS-A\
+    \ [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1999-428999
+  date: '1999-08-25'
+- type: cites
+  target: pt:dre:224380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558599:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226022:por
+  label: "Revogado o art. 67º pelo DEC LEI.178/70.23.04.1970.MF, DG.IS [95] de 23.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1970-226022
+  date: '1970-04-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:34Z'
   warnings: []
   errors: []
 ---
@@ -246,7 +345,7 @@ REGULAMENTO GERAL DOS MUSEUS DE ARTE, HISTÓRIA E ARQUEOLOGIA
 
 ### CAPÍTULO I — Museus e sua finalidade
 
-###### Artigo 1.º Os museus de arte, história e arqueologia pertencentes ao Ministério da Educação Nacional e na dependência da Direcção-Geral do Ensino Superior e das Belas-Artes são os seguintes:
+Artigo 1.º Os museus de arte, história e arqueologia pertencentes ao Ministério da Educação Nacional e na dependência da Direcção-Geral do Ensino Superior e das Belas-Artes são os seguintes:
 
 Museu Nacional de Arte Antiga, de Lisboa;
 
@@ -300,17 +399,17 @@ b) O Museu de Azulejos instalado em dependências daquele Convento.
 
 § 4.º O Museu de Évora tem como anexo a Igreja das Mercês, na qual se encontra instalada a secção de artes decorativas.
 
-###### Art. 2.º Os encargos financeiros respeitantes à manutenção dos museus do Ministério da Educação Nacional, já existentes ou a criar, podem ser parcialmente suportados pelas câmaras municipais respectivas. A contribuição destas será, em cada caso, fixada, de acordo com as câmaras, por despachos dos Ministros do Interior, Finanças e Educação Nacional.
+Art. 2.º Os encargos financeiros respeitantes à manutenção dos museus do Ministério da Educação Nacional, já existentes ou a criar, podem ser parcialmente suportados pelas câmaras municipais respectivas. A contribuição destas será, em cada caso, fixada, de acordo com as câmaras, por despachos dos Ministros do Interior, Finanças e Educação Nacional.
 
 § único. Mantém-se, em relação às Câmaras Municipais de Abrantes, Braga, Castelo Branco, Guimarães e Leiria, a obrigação imposta pela [Lei n.º 1175](https://diariodarepublica.pt/dr/detalhe/lei/1175-1921-511270), de 1 de Junho de 1921, pelo [Decreto n.º 4011](https://diariodarepublica.pt/dr/detalhe/decreto/4011-1918-403770), de 1 de Abril de 1918, pelo [Decreto n.º 16578](https://diariodarepublica.pt/dr/detalhe/decreto/16578-1929-358879), de 6 de Março de 1929, pelo [Decreto n.º 21514](https://diariodarepublica.pt/dr/detalhe/decreto/21514-1932-558599), de 26 de Julho de 1932, e pelo [Decreto n.º 3553](https://diariodarepublica.pt/dr/detalhe/decreto/3553-1917-496142), de 15 de Novembro de 1917, de contribuir para a manutenção, respectivamente, do Museu de D. Lopo de Almeida, do Museu de D. Diogo de Sousa, do Museu de Francisco Tavares Proença Júnior, do Museu de Alberto de Sampaio e do Museu de Leiria. Mas os quadros do pessoal e respectivas remunerações serão, em cada caso, fixados, de acordo com as câmaras, por despachos dos Ministros do Interior e da Educação Nacional.
 
-###### Art. 3.º Quando a importância das colecções e o desenvolvimento atingido justificarem encargos difìcilmente suportáveis pelos proprietários, os museus dos corpos administrativos, organismos paraestatais ou entidades subsidiadas pelo Estado podem passar para o Ministério da Educação Nacional, sem prejuízo de a propriedade das colecções continuar a ser reconhecida à entidade a que no momento daquela passagem pertencer.
+Art. 3.º Quando a importância das colecções e o desenvolvimento atingido justificarem encargos difìcilmente suportáveis pelos proprietários, os museus dos corpos administrativos, organismos paraestatais ou entidades subsidiadas pelo Estado podem passar para o Ministério da Educação Nacional, sem prejuízo de a propriedade das colecções continuar a ser reconhecida à entidade a que no momento daquela passagem pertencer.
 
 § único. Se esses museus pertencerem a outros Ministérios ou a entidades deles dependentes, a transferência exigirá o acordo do Ministro da pasta respectiva.
 
-###### Art. 4.º A criação de novos museus do Ministério da Educação Nacional, a supressão ou modificação de estrutura dos existentes e a passagem prevista no artigo anterior serão sempre objecto de parecer da Junta Nacional da Educação.
+Art. 4.º A criação de novos museus do Ministério da Educação Nacional, a supressão ou modificação de estrutura dos existentes e a passagem prevista no artigo anterior serão sempre objecto de parecer da Junta Nacional da Educação.
 
-###### Art. 5.º Os museus têm a seguinte finalidade geral:
+Art. 5.º Os museus têm a seguinte finalidade geral:
 
 1) Conservar e ampliar as colecções de objectos com valor artístico, histórico e arqueológico;
 
@@ -320,31 +419,31 @@ b) O Museu de Azulejos instalado em dependências daquele Convento.
 
 4) Constituírem-se em centros activos de divulgação cultural, solicitando constantemente o público e esclarecendo-o.
 
-###### Art. 6.º Ao Museu Nacional de Arte Antiga cabe a função de museu normal, para a preparação do pessoal técnico dos museus do País.
+Art. 6.º Ao Museu Nacional de Arte Antiga cabe a função de museu normal, para a preparação do pessoal técnico dos museus do País.
 
-###### Art. 7.º Os museus são órgãos de cooperação escolar, com a função de coadjuvar as Universidades e as escolas superiores de belas-artes nos estudos de arte, história e arqueologia.
+Art. 7.º Os museus são órgãos de cooperação escolar, com a função de coadjuvar as Universidades e as escolas superiores de belas-artes nos estudos de arte, história e arqueologia.
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 8.º Para efeitos de estudo e exposição o recheio dos museus distribuir-se-á por secções adequadas à índole de cada um.
+Art. 8.º Para efeitos de estudo e exposição o recheio dos museus distribuir-se-á por secções adequadas à índole de cada um.
 
-###### Art. 9.º O Museu Nacional de Arte Antiga e o Museu Nacional de Arte Contemporânea compreendem obras de arte pura e aplicada de quaisquer modalidades.
+Art. 9.º O Museu Nacional de Arte Antiga e o Museu Nacional de Arte Contemporânea compreendem obras de arte pura e aplicada de quaisquer modalidades.
 
 § único. A transferência das obras guardadas no Museu Nacional de Arte Contemporânea para o Museu Nacional de Arte Antiga realizar-se-á à medida que a Direcção-Geral, ouvidos os directores dos dois estabelecimentos, o propuser.
 
-###### Art. 10.º O Museu Nacional de Arqueologia e Etnologia compreende quaisquer ramos da arqueologia e da etnologia, em especial no que respeita ao estudo do mundo português.
+Art. 10.º O Museu Nacional de Arqueologia e Etnologia compreende quaisquer ramos da arqueologia e da etnologia, em especial no que respeita ao estudo do mundo português.
 
-###### Art. 11.º No Museu Nacional dos Coches serão especialmente expostos objectos relacionados com a viação e equitação e peças de indumentária que se recomendem pelo seu valor artístico ou histórico.
+Art. 11.º No Museu Nacional dos Coches serão especialmente expostos objectos relacionados com a viação e equitação e peças de indumentária que se recomendem pelo seu valor artístico ou histórico.
 
-###### Art. 12.º O Museu Nacional de Soares dos Reis, o Museu Nacional de Machado de Castro e os demais museus referidos no artigo 1.º, com excepção do Museu Monográfico de Conímbriga e do Museu de Escultura Comparada, serão de carácter genérico e, como tal, compreenderão secções de arte, história, arqueologia e etnologia, com especial desenvolvimento das de interesse local.
+Art. 12.º O Museu Nacional de Soares dos Reis, o Museu Nacional de Machado de Castro e os demais museus referidos no artigo 1.º, com excepção do Museu Monográfico de Conímbriga e do Museu de Escultura Comparada, serão de carácter genérico e, como tal, compreenderão secções de arte, história, arqueologia e etnologia, com especial desenvolvimento das de interesse local.
 
-###### Art. 13.º O Museu Nacional de Soares dos Reis abrange as colecções que constituíam o Museu Municipal do Porto, nas condições expressas no artigo 2.º do [Decreto-Lei n.º 27878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27878-1937-428417), de 21 de Julho de 1937.
+Art. 13.º O Museu Nacional de Soares dos Reis abrange as colecções que constituíam o Museu Municipal do Porto, nas condições expressas no artigo 2.º do [Decreto-Lei n.º 27878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27878-1937-428417), de 21 de Julho de 1937.
 
 § único. As espécies com a origem indicada neste artigo constituirão, de preferência, secções especiais e as que, em obediência a preceitos de museologia, devam ser expostas juntamente com outras do Museu Nacional de Soares dos Reis terão visível o sinal de propriedade da Câmara Municipal do Porto.
 
-###### Art. 14.º A missão museológica do Convento da Madre de Deus entende-se sem prejuízo da afectação da igreja e suas dependências ao culto católico.
+Art. 14.º A missão museológica do Convento da Madre de Deus entende-se sem prejuízo da afectação da igreja e suas dependências ao culto católico.
 
-###### Art. 15.º Nos museus darão entrada:
+Art. 15.º Nos museus darão entrada:
 
 a) Obras adquiridas pelas respectivas dotações orçamentais;
 
@@ -370,13 +469,13 @@ e) Obras que, em virtude de disposições legais especiais, sejam consideradas p
 
 § 4.º Os trabalhos de pensionistas e bolseiros do Estado poderão ser expostos nos museus se a Junta Nacional da Educação os considerar dignos disso.
 
-###### Art. 16.º Quaisquer indivíduos e entidades oficiais ou particulares podem depositar nos museus obras de arte de que sejam proprietários, nas condições estabelecidas pelos respectivos regulamentos e quando os directores considerem vantajoso o depósito.
+Art. 16.º Quaisquer indivíduos e entidades oficiais ou particulares podem depositar nos museus obras de arte de que sejam proprietários, nas condições estabelecidas pelos respectivos regulamentos e quando os directores considerem vantajoso o depósito.
 
-###### Art. 17.º O Ministro da Educação Nacional poderá autorizar, ouvida a Direcção-Geral, o empréstimo de obras de um dos museus do Ministério a qualquer museu ou serviço público, bem como para exposições no País; e, ouvida a Junta Nacional da Educação, a cessão de tais obras a qualquer museu ou serviço público e o empréstimo para exposições no estrangeiro.
+Art. 17.º O Ministro da Educação Nacional poderá autorizar, ouvida a Direcção-Geral, o empréstimo de obras de um dos museus do Ministério a qualquer museu ou serviço público, bem como para exposições no País; e, ouvida a Junta Nacional da Educação, a cessão de tais obras a qualquer museu ou serviço público e o empréstimo para exposições no estrangeiro.
 
 § único. A cessão de obras a museus ou serviços que não pertençam ao Ministério da Educação Nacional e a sua saída para o estrangeiro ficarão sempre condicionadas pelo acordo do Ministro das Finanças.
 
-###### Art. 18.º Os museus organizarão:
+Art. 18.º Os museus organizarão:
 
 a) Livros de inventário das espécies existentes e de registo das entradas;
 
@@ -384,15 +483,15 @@ b) Catálogo em fichas de tipo uniforme para cada secção, acompanhado de índi
 
 § único. Os livros e catálogos a que se refere o presente artigo obedecerão a modelos e normas a estabelecer pela Direcção-Geral.
 
-###### Art. 19.º Cada museu promoverá a publicação de catálogos e guias, periòdicamente reeditados e destinados à venda, e deverá editar opúsculos de propaganda e reproduções comentadas das obras expostas.
+Art. 19.º Cada museu promoverá a publicação de catálogos e guias, periòdicamente reeditados e destinados à venda, e deverá editar opúsculos de propaganda e reproduções comentadas das obras expostas.
 
-###### Art. 20.º A Direcção-Geral editará um roteiro geral dos museus, bem como o boletim Museus de Portugal, para registo da actividade do pessoal técnico dos estabelecimentos e para arquivo de estudos que interessem à finalidade deles.
+Art. 20.º A Direcção-Geral editará um roteiro geral dos museus, bem como o boletim Museus de Portugal, para registo da actividade do pessoal técnico dos estabelecimentos e para arquivo de estudos que interessem à finalidade deles.
 
-###### Art. 21.º As horas de abertura e encerramento das salas de exposição dos museus serão fixadas pela Direcção-Geral, ouvidos os directores, por forma a darem-se ao público todas as possíveis facilidades de visita.
+Art. 21.º As horas de abertura e encerramento das salas de exposição dos museus serão fixadas pela Direcção-Geral, ouvidos os directores, por forma a darem-se ao público todas as possíveis facilidades de visita.
 
 § único. Os museus encerrarão à segunda-feira para descanso do pessoal de guarda.
 
-###### Art. 22.º Salvas as isenções legalmente previstas, a entrada nos museus está sujeita à taxa que for fixada por despacho ministerial.
+Art. 22.º Salvas as isenções legalmente previstas, a entrada nos museus está sujeita à taxa que for fixada por despacho ministerial.
 
 § 1.º Será gratuita a entrada ao sábado e domingo.
 
@@ -402,27 +501,27 @@ b) Catálogo em fichas de tipo uniforme para cada secção, acompanhado de índi
 
 § 4.º Serão também gratuitas as visitas a que se refere o artigo 25.º e aquelas que o Ministro da Educação Nacional, em atenção à sua finalidade, à categoria dos visitantes ou a outras razões especiais, assim determinar.
 
-###### Art. 23.º Sem prejuízo dos serviços ordinários, os museus facultarão gratuitamente aos investigadores de irrepreensível conduta cívica e reconhecida probidade científica todos os elementos de estudo que possuam.
+Art. 23.º Sem prejuízo dos serviços ordinários, os museus facultarão gratuitamente aos investigadores de irrepreensível conduta cívica e reconhecida probidade científica todos os elementos de estudo que possuam.
 
 § 1.º Na autorização a que se refere este artigo entra a faculdade de reprodução de obras, como trabalho escolar dos alunos das escolas superiores de belas-artes. Mas as cópias terão obrigatòriamente dimensões diferentes das do original.
 
 § 2.º As concessões serão retiradas àqueles que se não subordinem às disposições regulamentares em vigor e às prescrições eventuais do director do museu.
 
-###### Art. 24.º Os museus promoverão a realização, nas suas salas, de exposições temporárias e conferências destinadas a atrair a atenção do público para problemas de ordem artística, histórica e arqueológica.
+Art. 24.º Os museus promoverão a realização, nas suas salas, de exposições temporárias e conferências destinadas a atrair a atenção do público para problemas de ordem artística, histórica e arqueológica.
 
-###### Art. 25.º Incumbe ainda aos museus organizar visitas colectivas, orientadas, às suas colecções e estimular, por todos os meios ao seu alcance, a organização delas por quaisquer outras entidades e promover que se multipliquem as previstas no § 3.º do artigo 22.º
+Art. 25.º Incumbe ainda aos museus organizar visitas colectivas, orientadas, às suas colecções e estimular, por todos os meios ao seu alcance, a organização delas por quaisquer outras entidades e promover que se multipliquem as previstas no § 3.º do artigo 22.º
 
 § único. A orientação destas visitas caberá ao pessoal técnico dos museus ou a outras pessoas idóneas.
 
 ### CAPÍTULO III — Direcção dos museus
 
-###### Art. 26.º Aos directores dos museus cabe a responsabilidade superior de todos os serviços, com o encargo de promoverem a melhor sistematização, arrumação e conservação das colecções e o seu enriquecimento, dentro da coordenação geral do património artístico, histórico e arqueológico da Nação.
+Art. 26.º Aos directores dos museus cabe a responsabilidade superior de todos os serviços, com o encargo de promoverem a melhor sistematização, arrumação e conservação das colecções e o seu enriquecimento, dentro da coordenação geral do património artístico, histórico e arqueológico da Nação.
 
-###### Art. 27.º Os directores dos museus diligenciarão contribuir, pela sua acção pessoal e oficial, para a defesa de quaisquer elementos do património artístico, histórico e arqueológico da Nação.
+Art. 27.º Os directores dos museus diligenciarão contribuir, pela sua acção pessoal e oficial, para a defesa de quaisquer elementos do património artístico, histórico e arqueológico da Nação.
 
 § único. Para os efeitos deste artigo os directores dos museus são considerados delegados natos da Junta Nacional da Educação.
 
-###### Art. 28.º Os directores dos museus são escolhidos pela forma seguinte:
+Art. 28.º Os directores dos museus são escolhidos pela forma seguinte:
 
 a) Quanto aos Museus Nacionais de Arte Antiga, de Arte Contemporânea, dos Coches e de Soares dos Reis, livremente pelo Ministro de entre pessoas de reconhecida competência;
 
@@ -432,7 +531,7 @@ c) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos 
 
 § único. O disposto no presente artigo não importa alteração dos regimes especiais em vigor para o Museu Monográfico de Conímbriga e para o Museu de Escultura Comparada.
 
-###### Art. 29.º Realizar-se-á anualmente uma reunião dos directores dos museus, destinada ao estudo de problemas de museologia e à coordenação da sua actividade.
+Art. 29.º Realizar-se-á anualmente uma reunião dos directores dos museus, destinada ao estudo de problemas de museologia e à coordenação da sua actividade.
 
 § 1.º A reunião anual dos directores realizar-se-á sob a presidência do director-geral do Ensino Superior e das Belas-Artes, que poderá fazer-se substituir pelo inspector superior das Belas-Artes.
 
@@ -440,9 +539,9 @@ c) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos 
 
 § 3.º Os directores terão direito ao pagamento das despesas de transporte e das ajudas de custo correspondentes ao deslocamento resultante da execução deste artigo, pagos por verba global a inscrever no orçamento da Direcção-Geral para a realização da reunião.
 
-###### Art. 30.º Na reunião anual será admitida, por convite, a presença dos directores de quaisquer outros museus do Estado, de museus dos corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, bem como a de conservadores dos museus do Ministério da Educação Nacional. As despesas de transporte e as ajudas de custo serão suportadas pelo serviço de que os interessados dependam, quando a aceitação do convite tiver sido prèviamente autorizada.
+Art. 30.º Na reunião anual será admitida, por convite, a presença dos directores de quaisquer outros museus do Estado, de museus dos corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, bem como a de conservadores dos museus do Ministério da Educação Nacional. As despesas de transporte e as ajudas de custo serão suportadas pelo serviço de que os interessados dependam, quando a aceitação do convite tiver sido prèviamente autorizada.
 
-###### Art. 31.º Os trabalhos da reunião anual revestirão a forma de sessões, conferências e visitas.
+Art. 31.º Os trabalhos da reunião anual revestirão a forma de sessões, conferências e visitas.
 
 § 1.º Nas sessões serão discutidas e votadas teses apresentadas pelos participantes na reunião e será feita a apreciação dos relatórios que obrigatòriamente os directores dos museus do Ministério da Educação Nacional apresentarão sobre a actividade dos seus estabelecimentos.
 
@@ -452,13 +551,13 @@ c) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos 
 
 ### CAPÍTULO IV — Conservadores dos museus
 
-###### Art. 32.º Os conservadores de todos os museus constituem um único quadro para efeito de ingresso, transferência e promoção.
+Art. 32.º Os conservadores de todos os museus constituem um único quadro para efeito de ingresso, transferência e promoção.
 
-###### Art. 33.º O ingresso no quadro único far-se-á por concurso documental entre diplomados com o curso de conservador de museu, salvo no caso previsto no artigo 66.º, e a transferência e a promoção também por concurso documental.
+Art. 33.º O ingresso no quadro único far-se-á por concurso documental entre diplomados com o curso de conservador de museu, salvo no caso previsto no artigo 66.º, e a transferência e a promoção também por concurso documental.
 
-###### Art. 34.º O provimento inicial no quadro será por contrato anual, que se considerará renovado por iguais períodos até cinco anos, se não houver denúncia. Decorrido este prazo, a Direcção-Geral, tendo em conta a qualidade do serviço do contratado, poderá propor a recondução definitiva.
+Art. 34.º O provimento inicial no quadro será por contrato anual, que se considerará renovado por iguais períodos até cinco anos, se não houver denúncia. Decorrido este prazo, a Direcção-Geral, tendo em conta a qualidade do serviço do contratado, poderá propor a recondução definitiva.
 
-###### Art. 35.º Poderão admitir-se nos museus como conservadores-ajudantes indivíduos de reconhecida idoneidade que estejam em condições de prestar efectiva e útil colaboração aos serviços dos mesmos estabelecimentos.
+Art. 35.º Poderão admitir-se nos museus como conservadores-ajudantes indivíduos de reconhecida idoneidade que estejam em condições de prestar efectiva e útil colaboração aos serviços dos mesmos estabelecimentos.
 
 § 1.º A nomeação dos conservadores-ajudantes depende de proposta fundamentada do director do museu.
 
@@ -466,13 +565,13 @@ c) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos 
 
 ## TÍTULO II — Museus tècnicamente dependentes do Ministério da Educação Nacional
 
-###### Art. 36.º Os museus de arte, história e arqueologia não compreendidos no artigo 1.º deste regulamento, pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, estão subordinados, para efeito de fiscalização técnica, ao Ministério da Educação Nacional.
+Art. 36.º Os museus de arte, história e arqueologia não compreendidos no artigo 1.º deste regulamento, pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, estão subordinados, para efeito de fiscalização técnica, ao Ministério da Educação Nacional.
 
 § único. O disposto no presente artigo não abrange os museus militares e os da mesma natureza dependentes do Ministério do Ultramar.
 
-###### Art. 37.º Dentro de 180 dias, a contar da entrada em vigor deste diploma, a Direcção-Geral do Ensino Superior e das Belas-Artes fará publicar no Diário do Governo a relação dos museus tècnicamente dependentes do Ministério da Educação Nacional.
+Art. 37.º Dentro de 180 dias, a contar da entrada em vigor deste diploma, a Direcção-Geral do Ensino Superior e das Belas-Artes fará publicar no Diário do Governo a relação dos museus tècnicamente dependentes do Ministério da Educação Nacional.
 
-###### Art. 38.º A criação de novos museus e a supressão ou a modificação de estrutura dos existentes serão sempre objecto de parecer de Junta Nacional da Educação.
+Art. 38.º A criação de novos museus e a supressão ou a modificação de estrutura dos existentes serão sempre objecto de parecer de Junta Nacional da Educação.
 
 § 1.º Quando se tratar da criação ou modificação de museus, serão presentes à Junta os planos da instalação, da sistematização e ordenação das espécies e da exposição das colecções.
 
@@ -480,29 +579,29 @@ c) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos 
 
 § 3.º A criação de museus por entidades estranhas aos serviços do Estado só será autorizada desde que essas entidades forneçam garantias de instalação condigna de permanência de direcção competente.
 
-###### Art. 39.º Os directores dos museus, quando o lugar existir com categoria inferior à prevista no artigo 64.º e não houver candidatos diplomados com o curso de conservador de museu, serão escolhidos de entre pessoas a quem a Junta Nacional da Educação reconhecer a necessária idoneidade.
+Art. 39.º Os directores dos museus, quando o lugar existir com categoria inferior à prevista no artigo 64.º e não houver candidatos diplomados com o curso de conservador de museu, serão escolhidos de entre pessoas a quem a Junta Nacional da Educação reconhecer a necessária idoneidade.
 
 § único. Na hipótese prevista na parte final deste artigo, a Junta poderá exigir que a pessoa designada realize, antes de entrar em exercício, um estágio em museus do Ministério da Educação Nacional e ainda que frequente, em altura a determinar, cursos previstos na alínea j) do artigo 72.º
 
-###### Art. 40.º Dentro de um plano geral de valorização dos museus de arte, história e arqueologia e de coordenação das suas actividades, a propor pela Junta Nacional da Educação, o Ministro da Educação Nacional poderá, de acordo com o Ministro das Finanças, autorizar que sejam depositados nos museus a que se referem os artigos anteriores espécies pertencentes aos museus do Ministério da Educação Nacional e poderá, nas mesmas condições, permitir que nos últimos dêem entrada, a título de depósito, espécies pertencentes àqueles.
+Art. 40.º Dentro de um plano geral de valorização dos museus de arte, história e arqueologia e de coordenação das suas actividades, a propor pela Junta Nacional da Educação, o Ministro da Educação Nacional poderá, de acordo com o Ministro das Finanças, autorizar que sejam depositados nos museus a que se referem os artigos anteriores espécies pertencentes aos museus do Ministério da Educação Nacional e poderá, nas mesmas condições, permitir que nos últimos dêem entrada, a título de depósito, espécies pertencentes àqueles.
 
-###### Art. 41.º O Ministro da Educação Nacional, sempre que o reconhecer justificado em face de proposta da Junta Nacional da Educação, promoverá, a favor dos museus pertencentes a corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, a concessão de auxílios materiais do Estado sob a forma que em cada caso se mostrar mais conveniente.
+Art. 41.º O Ministro da Educação Nacional, sempre que o reconhecer justificado em face de proposta da Junta Nacional da Educação, promoverá, a favor dos museus pertencentes a corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, a concessão de auxílios materiais do Estado sob a forma que em cada caso se mostrar mais conveniente.
 
 ## TÍTULO III — Curso de conservador de museu
 
-###### Art. 42.º É instituído no Museu Nacional de Arte Antiga o curso de conservador de museu, destinado à preparação profissional dos conservadores dos museus de arte, história e arqueologia e dos conservadores dos palácios e monumentos nacionais.
+Art. 42.º É instituído no Museu Nacional de Arte Antiga o curso de conservador de museu, destinado à preparação profissional dos conservadores dos museus de arte, história e arqueologia e dos conservadores dos palácios e monumentos nacionais.
 
-###### Art. 43.º O Ministro da Educação Nacional, sobre proposta do director-geral do Ensino Superior e das Belas-Artes, fixará, até 15 de Agosto de cada ano, o número de candidatos a admitir no curso.
+Art. 43.º O Ministro da Educação Nacional, sobre proposta do director-geral do Ensino Superior e das Belas-Artes, fixará, até 15 de Agosto de cada ano, o número de candidatos a admitir no curso.
 
-###### Art. 44.º Serão admitidos os diplomados com um curso superior ou das extintas escolas de belas-artes que obtiverem aprovação em exame destinado a averiguar menos a massa de conhecimentos do candidato do que a sua aptidão para os estudos que pretende seguir.
+Art. 44.º Serão admitidos os diplomados com um curso superior ou das extintas escolas de belas-artes que obtiverem aprovação em exame destinado a averiguar menos a massa de conhecimentos do candidato do que a sua aptidão para os estudos que pretende seguir.
 
-###### Art. 45.º O exame de aptidão constará de uma prova escrita, de uma prova prática e da discussão da primeira destas provas.
+Art. 45.º O exame de aptidão constará de uma prova escrita, de uma prova prática e da discussão da primeira destas provas.
 
 § 1.º A indicação dos assuntos para as provas escrita e prática será feita pelo júri no próprio acto.
 
 § 2.º Cada umas destas provas terá a duração de três horas; a prova escrita será discutida por tempo não inferior a 15 nem superior a 30 minutos.
 
-###### Art. 46.º Os candidatos devem requerer, de 1 a 30 de Setembro, a sua admissão ao exame, instruindo o requerimento, em que serão colados selos fiscais na importância de 132$00, e que será dirigido ao director do Museu Nacional de Arte Antiga, com a documentação seguinte:
+Art. 46.º Os candidatos devem requerer, de 1 a 30 de Setembro, a sua admissão ao exame, instruindo o requerimento, em que serão colados selos fiscais na importância de 132$00, e que será dirigido ao director do Museu Nacional de Arte Antiga, com a documentação seguinte:
 
 a) Certidão do registo do nascimento;
 
@@ -512,37 +611,37 @@ c) Documento comprovativo das habilitações literárias;
 
 d) Bilhete de identidade passado pelo arquivo de identificação.
 
-###### Art. 47.º As provas terão lugar na 1.ª quinzena de Outubro, perante um júri constituído por um presidente e dois vogais, escolhidos de entre membros da Junta Nacional da Educação, directores e conservadores dos museus e pessoal docente das Faculdades de Letras e das escolas superiores de belas-artes.
+Art. 47.º As provas terão lugar na 1.ª quinzena de Outubro, perante um júri constituído por um presidente e dois vogais, escolhidos de entre membros da Junta Nacional da Educação, directores e conservadores dos museus e pessoal docente das Faculdades de Letras e das escolas superiores de belas-artes.
 
-###### Art. 48.º O curso tem a constituição seguinte:
+Art. 48.º O curso tem a constituição seguinte:
 
 Disciplinas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/12/28600/16961705.pdf))](https://files.diariodarepublica.pt/1s/1965/12/28600/16961705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/12/28600/16961705.pdf)
 
-###### Art. 49.º As aulas práticas de Museologia e de Estudo Material das Obras de Arte poderão revestir a forma de visitas de estudo a museus de artes plásticas e decorativas, museus biográficos e científicos, monumentos, explorações arqueológicas, laboratório e oficinas do Instituto de José de Figueiredo e palácios nacionais.
+Art. 49.º As aulas práticas de Museologia e de Estudo Material das Obras de Arte poderão revestir a forma de visitas de estudo a museus de artes plásticas e decorativas, museus biográficos e científicos, monumentos, explorações arqueológicas, laboratório e oficinas do Instituto de José de Figueiredo e palácios nacionais.
 
-###### Art. 50.º O trabalho de Seminário destina-se especialmente a preparar a dissertação a que se refere o artigo 54.º
+Art. 50.º O trabalho de Seminário destina-se especialmente a preparar a dissertação a que se refere o artigo 54.º
 
-###### Art. 51.º As disciplinas de Arqueologia, História de Arte, História da Arte Portuguesa e Ultramarina e as de opção são cursadas na Faculdade de Letras.
+Art. 51.º As disciplinas de Arqueologia, História de Arte, História da Arte Portuguesa e Ultramarina e as de opção são cursadas na Faculdade de Letras.
 
 § 1.º Poderão ser declaradas equivalentes a estas disciplinas, para o fim especial de frequência do curso, habilitações obtidas em outras escolas.
 
 § 2.º Os alunos com as disciplinas da Faculdade de Letras exigidas ou habilitação equivalente poderão frequentar o curso em um ano.
 
-###### Art. 52.º Salvas as excepções impostas pelo § 2.º do artigo anterior, só podem inscrever-se em disciplinas do 2.º ano os alunos a quem não falte mais de uma do 1.º, e as inscrições em Museologia - II e História da Arte Portuguesa e Ultramarina dependem de aprovação, respectivamente, em Museologia - I e História da Arte.
+Art. 52.º Salvas as excepções impostas pelo § 2.º do artigo anterior, só podem inscrever-se em disciplinas do 2.º ano os alunos a quem não falte mais de uma do 1.º, e as inscrições em Museologia - II e História da Arte Portuguesa e Ultramarina dependem de aprovação, respectivamente, em Museologia - I e História da Arte.
 
-###### Art. 53.º O aluno que perder duas vezes o mesmo ano será excluído do curso.
+Art. 53.º O aluno que perder duas vezes o mesmo ano será excluído do curso.
 
-###### Art. 54.º O exame final, que só poderá realizar-se depois de obtida aprovação em todas as disciplinas, consistirá na defesa de uma dissertação expressamente elaborada sobre assunto compreendido na finalidade do curso.
+Art. 54.º O exame final, que só poderá realizar-se depois de obtida aprovação em todas as disciplinas, consistirá na defesa de uma dissertação expressamente elaborada sobre assunto compreendido na finalidade do curso.
 
 § 1.º A dissertação deve ser apreciada e discutida por um ou mais membros do júri durante o tempo mínimo de 30 e máximo de 60 minutos.
 
 § 2.º Só podem ser admitidos à discussão os trabalhos que o júri prèviamente reconheça terem nível que a justifique.
 
-###### Art. 55.º O júri será constituído por um presidente e quatro vogais, escolhidos de entre membros da Junta Nacional da Educação, directores e conservadores de museus e pessoal docente das Faculdades de Letras e das escolas superiores de belas-artes.
+Art. 55.º O júri será constituído por um presidente e quatro vogais, escolhidos de entre membros da Junta Nacional da Educação, directores e conservadores de museus e pessoal docente das Faculdades de Letras e das escolas superiores de belas-artes.
 
-###### Art. 56.º Haverá duas épocas para o exame final, uma em Julho e a outra em Outubro.
+Art. 56.º Haverá duas épocas para o exame final, uma em Julho e a outra em Outubro.
 
 § 1.º Os requerimentos para a admissão ao exame deverão ser entregues até 30 dias antes do início da respectiva época, acompanhados de dez exemplares impressos ou dactilografados da dissertação.
 
@@ -550,27 +649,27 @@ Disciplinas:
 
 § 3.º Em caso algum a dissertação para novo exame poderá versar o tema de qualquer outra do mesmo candidato já discutida em exame anterior.
 
-###### Art. 57.º A informação do curso será a média resultante da média das classificações obtidas nos exames de todas as disciplinas e da nota alcançada no exame final.
+Art. 57.º A informação do curso será a média resultante da média das classificações obtidas nos exames de todas as disciplinas e da nota alcançada no exame final.
 
-###### Art. 58.º A regência das disciplinas de Museologia - I, Museologia - II e Estudo Material das Obras de Arte será confiada a membros da Junta Nacional da Educação, a directores e conservadores dos museus ou a pessoal docente das Faculdades de Letras e das escolas superiores de belas-artes.
+Art. 58.º A regência das disciplinas de Museologia - I, Museologia - II e Estudo Material das Obras de Arte será confiada a membros da Junta Nacional da Educação, a directores e conservadores dos museus ou a pessoal docente das Faculdades de Letras e das escolas superiores de belas-artes.
 
 § único. As gratificações por cada regência teórica e por cada regência prática. serão, com a actualização legal, as estabelecidas, respectivamente, no artigo 15.º do [Decreto-Lei n.º 31658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31658-1941-368623), de 21 de Novembro de 1941, e no § único do artigo 12.º do [Decreto-Lei n.º 26026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26026-1935-537200), de 7 de Novembro de 1935.
 
-###### Art. 59.º Poderão contratar-se individualidades nacionais ou estrangeiras de reconhecida competência para, em condições especiais de prestação de serviço e de retribuição, regerem qualquer das disciplinas mencionadas no artigo anterior.
+Art. 59.º Poderão contratar-se individualidades nacionais ou estrangeiras de reconhecida competência para, em condições especiais de prestação de serviço e de retribuição, regerem qualquer das disciplinas mencionadas no artigo anterior.
 
 § único. As condições de retribuição serão fixadas em cada caso por despacho do Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
 
-###### Art. 60.º O director do curso, que será um dos seus professores ou um membro da Junta Nacional da Educação designado pelo Ministro, poderá, sempre que o entenda necessário ou conveniente, convocar reuniões dos professores para apreciação de quaisquer assuntos que interessem à eficiência e ao aperfeiçoamento do ensino.
+Art. 60.º O director do curso, que será um dos seus professores ou um membro da Junta Nacional da Educação designado pelo Ministro, poderá, sempre que o entenda necessário ou conveniente, convocar reuniões dos professores para apreciação de quaisquer assuntos que interessem à eficiência e ao aperfeiçoamento do ensino.
 
-###### Art. 61.º O director do curso e o da Faculdade de Letras tomarão as disposições necessárias para que os horários, no seu conjunto, permitam a melhor utilização do tempo dos alunos.
+Art. 61.º O director do curso e o da Faculdade de Letras tomarão as disposições necessárias para que os horários, no seu conjunto, permitam a melhor utilização do tempo dos alunos.
 
-###### Art. 62.º Consideram-se aplicáveis ao curso, em tudo o que se coadune com o seu regime especial, as disposições sobre matrículas e inscrições, disciplina e frequência e exames, bem como sobre serviço docente, em vigor para as Faculdades de Letras.
+Art. 62.º Consideram-se aplicáveis ao curso, em tudo o que se coadune com o seu regime especial, as disposições sobre matrículas e inscrições, disciplina e frequência e exames, bem como sobre serviço docente, em vigor para as Faculdades de Letras.
 
 § único. As matrículas e inscrições realizam-se na secretaria do Museu Nacional de Arte Antiga, que delas dará conhecimento à secretaria da Universidade de Lisboa, na parte que à Faculdade de Letras respeitar.
 
-###### Art. 63.º A Direcção-Geral do Ensino Superior e das Belas-Artes deverá promover a permanente actualização da orgânica e das condições de funcionamento do curso.
+Art. 63.º A Direcção-Geral do Ensino Superior e das Belas-Artes deverá promover a permanente actualização da orgânica e das condições de funcionamento do curso.
 
-###### Art. 64.º O diploma de conservador de museu, correspondente à aprovação no exame final do curso, é título indispensável para o provimento nos lugares técnicos de categoria igual ou superior a terceiro-conservador dos museus de arte, história e arqueologia pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
+Art. 64.º O diploma de conservador de museu, correspondente à aprovação no exame final do curso, é título indispensável para o provimento nos lugares técnicos de categoria igual ou superior a terceiro-conservador dos museus de arte, história e arqueologia pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
 
 § único. O disposto neste artigo não é aplicável:
 
@@ -578,25 +677,25 @@ a) Aos lugares referidos nas alíneas a) e b) do artigo 28.º e ao de director d
 
 b) Aos funcionários que à data da publicação deste decreto-lei ocuparem lugares técnicos de categoria igual ou superior a terceiro-conservador, relativamente ao provimento em outros lugares do seu quadro.
 
-###### Art. 65.º Fora dos casos previstos no artigo anterior e seu parágrafo, o diploma de conservador de museu constitui título de preferência para provimento nos lugares técnicos dos museus de arte, história e arqueologia pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
+Art. 65.º Fora dos casos previstos no artigo anterior e seu parágrafo, o diploma de conservador de museu constitui título de preferência para provimento nos lugares técnicos dos museus de arte, história e arqueologia pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
 
-###### Art. 66.º Na falta de diplomados com o curso de conservador de museu poderá abrir-se concurso documental entre habilitados com um curso superior e das extintas escolas de belas-artes, para provimento de lugares a que se refere o corpo do artigo 64.º, mas os providos só poderão permanecer na função além de três anos se dentro deste prazo concluírem o curso profissional.
+Art. 66.º Na falta de diplomados com o curso de conservador de museu poderá abrir-se concurso documental entre habilitados com um curso superior e das extintas escolas de belas-artes, para provimento de lugares a que se refere o corpo do artigo 64.º, mas os providos só poderão permanecer na função além de três anos se dentro deste prazo concluírem o curso profissional.
 
-###### Art. 67.º As disposições dos artigos anteriores são aplicáveis ao provimento dos lugares de conservador dos palácios e monumentos nacionais.
+Art. 67.º As disposições dos artigos anteriores são aplicáveis ao provimento dos lugares de conservador dos palácios e monumentos nacionais.
 
-###### Art. 68.º A Direcção-Geral do Ensino Superior e das Belas-Artes promoverá a concessão, pelo Instituto de Alta Cultura, de bolsas de estudo no estrangeiro aos conservadores que, tendo revelado durante o curso aptidões especiais, queiram aperfeiçoar a sua preparação.
+Art. 68.º A Direcção-Geral do Ensino Superior e das Belas-Artes promoverá a concessão, pelo Instituto de Alta Cultura, de bolsas de estudo no estrangeiro aos conservadores que, tendo revelado durante o curso aptidões especiais, queiram aperfeiçoar a sua preparação.
 
-###### Art. 69.º O estágio reorganizado pelo [Decreto n.º 39116](https://diariodarepublica.pt/dr/detalhe/decreto/39116-1953-526646), de 27 de Fevereiro de 1953, considera-se extinto em 31 de Dezembro de 1965.
+Art. 69.º O estágio reorganizado pelo [Decreto n.º 39116](https://diariodarepublica.pt/dr/detalhe/decreto/39116-1953-526646), de 27 de Fevereiro de 1953, considera-se extinto em 31 de Dezembro de 1965.
 
-###### Art. 70.º O título de «conservador adjunto dos museus» e o de «conservador adjunto dos museus e dos palácios e monumentos nacionais» são equiparados, para efeitos legais, ao diploma de conservador de museu.
+Art. 70.º O título de «conservador adjunto dos museus» e o de «conservador adjunto dos museus e dos palácios e monumentos nacionais» são equiparados, para efeitos legais, ao diploma de conservador de museu.
 
 ## TÍTULO IV — Inspecção dos museus
 
-###### Art. 71.º A inspecção técnica dos museus de arte, história e arqueologia pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado será exercida pela Direcção-Geral do Ensino Superior e das Belas-Artes através dos seus serviços de Inspecção das Belas-Artes.
+Art. 71.º A inspecção técnica dos museus de arte, história e arqueologia pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado será exercida pela Direcção-Geral do Ensino Superior e das Belas-Artes através dos seus serviços de Inspecção das Belas-Artes.
 
 § único. O disposto no presente artigo não abrange os museus militares e os da mesma natureza dependentes do Ministério do Ultramar.
 
-###### Art. 72.º Cabe à Direcção-Geral no exercício da competência que lhe é atribuída pelo artigo anterior:
+Art. 72.º Cabe à Direcção-Geral no exercício da competência que lhe é atribuída pelo artigo anterior:
 
 A) Em relação a todos os museus:
 
@@ -640,7 +739,7 @@ b) Propor a transferência por tempo determinado de espécies de um museu para o
 
 ## TÍTULO V — Instituto de José de Figueiredo
 
-###### Art. 73.º O Instituto de José de Figueiredo tem por objecto o exame e beneficiação de obras de arte, quer na posse do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, quer na posse de particulares, e compreende duas secções:
+Art. 73.º O Instituto de José de Figueiredo tem por objecto o exame e beneficiação de obras de arte, quer na posse do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, quer na posse de particulares, e compreende duas secções:
 
 a) Laboratório;
 
@@ -658,29 +757,29 @@ c) Mobiliário e talha;
 
 d) Tecidos e tapeçarias.
 
-###### Art. 74.º Os trabalhos de beneficiação das obras de arte pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, bem como as pertencentes a particulares quando inventariadas, só poderão ser efectuadas pelo Instituto, salvo se o Ministro da Educação Nacional, sobre parecer da Junta Nacional da Educação, autorizar solução diferente.
+Art. 74.º Os trabalhos de beneficiação das obras de arte pertencentes ao Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, bem como as pertencentes a particulares quando inventariadas, só poderão ser efectuadas pelo Instituto, salvo se o Ministro da Educação Nacional, sobre parecer da Junta Nacional da Educação, autorizar solução diferente.
 
-###### Art. 75.º Os trabalhos de exame e beneficiação de obras de arte do Estado serão custeados pela dotação atribuída ao Instituto no orçamento do Ministério da Educação Nacional e os trabalhos executados em obras pertencentes a outras entidades serão pagos por estas, segundo as normas fixadas pelo [Decreto n.º 18649](https://diariodarepublica.pt/dr/detalhe/decreto/18649-1930-224380), de 21 de Julho de 1930.
+Art. 75.º Os trabalhos de exame e beneficiação de obras de arte do Estado serão custeados pela dotação atribuída ao Instituto no orçamento do Ministério da Educação Nacional e os trabalhos executados em obras pertencentes a outras entidades serão pagos por estas, segundo as normas fixadas pelo [Decreto n.º 18649](https://diariodarepublica.pt/dr/detalhe/decreto/18649-1930-224380), de 21 de Julho de 1930.
 
 § único. Em casos justificados pelo valor das obras, carência de recursos dos proprietários e interesse técnico dos trabalhos, poderá o Ministro da Educação Nacional autorizar a título excepcional, sobre proposta da Junta Nacional da Educação, que pela dotação do Instituto sejam pagos trabalhos em obras não pertencentes ao Estado.
 
-###### Art. 76.º O Instituto poderá executar, pelas suas duas secções, trabalhos para o público em obras de arte não inventariadas, mas só quando daí não resulte prejuízo para as funções que lhe cabem por força do artigo 74.º
+Art. 76.º O Instituto poderá executar, pelas suas duas secções, trabalhos para o público em obras de arte não inventariadas, mas só quando daí não resulte prejuízo para as funções que lhe cabem por força do artigo 74.º
 
 § único. Em relação a estes trabalhos observar-se-á o disposto na parte final do corpo do artigo anterior.
 
-###### Art. 77.º O Instituto organizará equipas móveis de pessoal técnico destinadas a executar no local pequenos trabalhos de beneficiação que não exijam a vinda das obras para a oficina de Lisboa.
+Art. 77.º O Instituto organizará equipas móveis de pessoal técnico destinadas a executar no local pequenos trabalhos de beneficiação que não exijam a vinda das obras para a oficina de Lisboa.
 
-###### Art. 78.º A direcção do Instituto incumbirá a um conselho de três membros nomeados pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.
+Art. 78.º A direcção do Instituto incumbirá a um conselho de três membros nomeados pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.
 
 § único. Os membros do conselho exercerão as suas funções por períodos renováveis de três anos.
 
-###### Art. 79.º O Instituto dependerá da Direcção-Geral do Ensino Superior e das Belas-Artes.
+Art. 79.º O Instituto dependerá da Direcção-Geral do Ensino Superior e das Belas-Artes.
 
-###### Art. 80.º O pessoal do Instituto será contratado ou assalariado por força de dotação global a inscrever no orçamento da Direcção-Geral do Ensino Superior e das Belas-Artes.
+Art. 80.º O pessoal do Instituto será contratado ou assalariado por força de dotação global a inscrever no orçamento da Direcção-Geral do Ensino Superior e das Belas-Artes.
 
 § único. Os quadros do pessoal e as remunerações respectivas serão fixados por despacho do Ministro da Educação Nacional com o acordo do Ministro das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

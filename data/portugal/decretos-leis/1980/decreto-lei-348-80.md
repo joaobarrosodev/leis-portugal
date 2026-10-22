@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20300/25002507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec78bc8c92d31211f86169a9e8a06fa37687af6b3a35b4b1c02153f9ec186bf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c8b6753573a82b068290e055d2c0ea6f21bfa8929fd7537dc2dd718294fb59e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Magistratura
+- Criação de Serviços
+- Definição de Competências
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Modernização Administrativa
+- Organização Judiciária
+- Reforma Judiciária
+- Regime Fiscal
+- Remuneração
+- Supremo Tribunal de Justiça
+- Tribunal
+- Tribunal de Comarca
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517228:por
+  label: "Alterados os arts 27º, 31º, 43º, 152º, 153º e 177.º da Lei 85/77, de 13-Dez , na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.264-C/81.03.09.1981.PCM, DR.IS [202-Supl] de 03.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-c-1981-517228
+  date: '1981-09-03'
+- type: cites
+  target: pt:dre:157030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473682:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461654:por
+  label: Rectificado pela DECL.DD6925.27.09.1980.PCM, DR.IS [224] de 27.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-461654
+  date: '1980-09-27'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:19Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +182,9 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 12/80](https://diariodarepublica.pt/dr/detalhe/lei/12-1980-473682), de 27 de Junho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 34.º, 46.º, 49.º e 66.º da [Lei n.º 82/77](https://diariodarepublica.pt/dr/detalhe/lei/82-1977-279796), de 6 de Dezembro, passam a ter a redacção seguinte:
+Artigo 1.º Os artigos 34.º, 46.º, 49.º e 66.º da [Lei n.º 82/77](https://diariodarepublica.pt/dr/detalhe/lei/82-1977-279796), de 6 de Dezembro, passam a ter a redacção seguinte:
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Vice-presidente)
 
@@ -118,7 +192,7 @@ Usando da autorização conferida pela [Lei n.º 12/80](https://diariodarepublic
 
 2 - ...
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Desdobramento dos tribunais de comarca)
 
@@ -130,7 +204,7 @@ Usando da autorização conferida pela [Lei n.º 12/80](https://diariodarepublic
 
 4 - O Conselho Superior da Magistratura, ponderando as necessidades de serviço, pode, eventualmente, determinar que um juiz exerça funções em mais de um tribunal, ainda que de comarcas diferentes.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Substituição dos juízes de direito)
 
@@ -148,7 +222,7 @@ d) ...
 
 3 - ...
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Competência cível)
 
@@ -188,9 +262,9 @@ q) ...
 
 r) ...
 
-###### Art. 2.º Os artigos 27.º, 31.º, 33.º, 38.º, 43.º, 45.º, 139.º, 140.º, 141.º, 152.º, 153.º, 154.º, 155.º, 156.º, 158.º, 159.º, 172.º, 173.º, 175.º, 177.º, 191.º e 195.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 27.º, 31.º, 33.º, 38.º, 43.º, 45.º, 139.º, 140.º, 141.º, 152.º, 153.º, 154.º, 155.º, 156.º, 158.º, 159.º, 172.º, 173.º, 175.º, 177.º, 191.º e 195.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, passam a ter a seguinte redacção:
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Vencimentos)
 
@@ -208,7 +282,7 @@ r) ...
 
 7 - Por proposta do Conselho Superior da Magistratura, o Ministro da Justiça pode determinar que seja atribuído aos magistrados judiciais que exerçam funções nas regiões autónomas um subsídio de fixação, sendo os encargos suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Férias e licenças)
 
@@ -222,13 +296,13 @@ r) ...
 
 5 - Prestados dois anos de bom e efectivo serviço, os magistrados da comarca de Macau, acompanhados dos respectivos familiares, terão direito ao gozo de férias judiciais de Verão, no continente ou nas Regiões Autónomas dos Açores e da Madeira, ficando as despesas de deslocação a cargo do Estado.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Classificação dos juízes de direito)
 
 Os juízes de direito são classificados pelo Conselho Superior da Magistratura, de acordo com o seu mérito, de Muito bom, Bom com distinção, Bom, Suficiente e Medíocre.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Movimentos judiciais)
 
@@ -238,7 +312,7 @@ Os juízes de direito são classificados pelo Conselho Superior da Magistratura,
 
 3 - ...
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Condições de transferência)
 
@@ -250,7 +324,7 @@ Os juízes de direito são classificados pelo Conselho Superior da Magistratura,
 
 4 - ...
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Preferências)
 
@@ -258,7 +332,7 @@ Os juízes de direito são classificados pelo Conselho Superior da Magistratura,
 
 2 - ...
 
-###### ARTIGO 139.º
+ARTIGO 139.º
 
 (Definição)
 
@@ -268,7 +342,7 @@ Os juízes de direito são classificados pelo Conselho Superior da Magistratura,
 
 3 - O Conselho exerce também jurisdição sobre os funcionários de justiça, nos termos desta lei.
 
-###### ARTIGO 140.º
+ARTIGO 140.º
 
 (Composição)
 
@@ -308,7 +382,7 @@ e) Dois funcionários de justiça designados pelo plenário, alternadamente, em 
 
 5 - O cargo de membro do Conselho Superior da Magistratura não pode ser recusado.
 
-###### ARTIGO 141.º
+ARTIGO 141.º
 
 (Presidente e vice-presidente)
 
@@ -320,7 +394,7 @@ e) Dois funcionários de justiça designados pelo plenário, alternadamente, em 
 
 4 - O vice-presidente-adjunto exerce funções exclusivamente no Conselho Superior da Magistratura.
 
-###### ARTIGO 152.º
+ARTIGO 152.º
 
 (Competência)
 
@@ -356,7 +430,7 @@ b) As atribuições referidas na alínea a) do n.º 1 do artigo 34.º, do n.º 2
 
 4 - Os membros do conselho restrito referidos na alínea c) do n.º 4 do artigo 140.º, quanto à disciplina e apreciação do mérito, apenas intervêm na discussão e votação dos processos relativos às comarcas dos respectivos distritos judiciais.
 
-###### ARTIGO 153.º
+ARTIGO 153.º
 
 (Delegação de poderes)
 
@@ -374,7 +448,7 @@ e) Decidir os casos previstos nos n.os 2 e 3 do artigo 10.º e no n.º 3 do arti
 
 2 - ...
 
-###### ARTIGO 154.º
+ARTIGO 154.º
 
 (Funcionamento do Conselho Superior)
 
@@ -386,7 +460,7 @@ e) Decidir os casos previstos nos n.os 2 e 3 do artigo 10.º e no n.º 3 do arti
 
 4 - O secretário assiste às reuniões, sem voto.
 
-###### ARTIGO 155.º
+ARTIGO 155.º
 
 (Funcionamento do conselho restrito)
 
@@ -398,7 +472,7 @@ e) Decidir os casos previstos nos n.os 2 e 3 do artigo 10.º e no n.º 3 do arti
 
 4 - O secretário assiste às reuniões, sem voto.
 
-###### ARTIGO 156.º
+ARTIGO 156.º
 
 (Apreciação dos processos)
 
@@ -414,7 +488,7 @@ e) Decidir os casos previstos nos n.os 2 e 3 do artigo 10.º e no n.º 3 do arti
 
 6 - A deliberação do conselho restrito que adoptar os fundamentos e propostas do relatório do inspector judicial ou do instrutor do processo pode ser expressa por simples acórdão de concordância com dispensa de relato.
 
-###### ARTIGO 158.º
+ARTIGO 158.º
 
 (Competência do vice-presidente e do vice-presidente-adjunto)
 
@@ -446,7 +520,7 @@ h) Elaborar as propostas dos movimentos judiciais;
 
 i) Exercer as funções que lhe forem delegadas ou subdelegadas pelo vice-presidente.
 
-###### ARTIGO 159.º
+ARTIGO 159.º
 
 (Competência do secretário)
 
@@ -468,19 +542,19 @@ g) Propor ao vice-presidente-adjunto a elaboração de ordens de execução perm
 
 h) ...
 
-###### ARTIGO 172.º
+ARTIGO 172.º
 
 (Conselho restrito)
 
 Das deliberações do conselho restrito reclama-se para o plenário do Conselho Superior.
 
-###### ARTIGO 173.º
+ARTIGO 173.º
 
 (Vice-presidente e vice-presidente-adjunto)
 
 Das decisões do vice-presidente e do vice-presidente-adjunto do Conselho Superior da Magistratura proferidas no uso de competência própria reclama-se para o plenário do Conselho Superior.
 
-###### ARTIGO 175.º
+ARTIGO 175.º
 
 (Recursos)
 
@@ -494,13 +568,13 @@ Das decisões do vice-presidente e do vice-presidente-adjunto do Conselho Superi
 
 5 - Constituem fundamentos de recurso os previstos na lei para os recursos a interpor dos actos do Governo, que seguem os trâmites constantes dos artigos seguintes.
 
-###### ARTIGO 177.º
+ARTIGO 177.º
 
 (Efeito)
 
 O recurso não tem efeito suspensivo, excepto em matéria disciplinar, se da execução do acto recorrido resultar para o arguido prejuízo irreparável ou de difícil reparação.
 
-###### ARTIGO 191.º
+ARTIGO 191.º
 
 (Juízes dos tribunais do trabalho)
 
@@ -512,7 +586,7 @@ O recurso não tem efeito suspensivo, excepto em matéria disciplinar, se da exe
 
 4 - ...
 
-###### ARTIGO 195.º
+ARTIGO 195.º
 
 (Inspectores-contadores)
 
@@ -526,9 +600,9 @@ O recurso não tem efeito suspensivo, excepto em matéria disciplinar, se da exe
 
 5 - Os inspectores-contadores podem propor ao Conselho Superior da Magistratura a requisição de um funcionário de justiça para os coadjuvar no exercício das suas funções.
 
-###### Art. 3.º Os artigos 5.º, 15.º, 17.º, 21.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 37.º, 49.º e 52.º do [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro, passam a ter a redacção seguinte:
+Art. 3.º Os artigos 5.º, 15.º, 17.º, 21.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 37.º, 49.º e 52.º do [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro, passam a ter a redacção seguinte:
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Tribunais de 1.ª instância)
 
@@ -538,7 +612,7 @@ O recurso não tem efeito suspensivo, excepto em matéria disciplinar, se da exe
 
 3 - Aplica-se aos lugares de ingresso o disposto nos n.os 2 e 3 do artigo 2.º
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Tribunal Colectivo da Comarca de Macau e Tribunal de Execução das Penas)
 
@@ -558,7 +632,7 @@ c) Por pessoa designada anualmente pelo vice-presidente-adjunto do Conselho Supe
 
 3 - No território de Macau funcionará como tribunal de execução das penas o tribunal da comarca, sendo competente, para cada caso, o juízo por onde não correu o processo crime.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Magistrados do Ministério Público)
 
@@ -570,7 +644,7 @@ c) Por pessoa designada anualmente pelo vice-presidente-adjunto do Conselho Supe
 
 4 - O procurador-geral da República, ponderando as necessidades de serviço, pode eventualmente determinar que um procurador da República ou um delegado do procurador da República exerça funções em mais que um círculo ou comarca, respectivamente.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Substituição pelo juiz de direito)
 
@@ -580,7 +654,7 @@ c) Por pessoa designada anualmente pelo vice-presidente-adjunto do Conselho Supe
 
 3 - Nos juízos com mais de um juiz a substituição é feita pelos juízes de cada juízo pela forma indicada no n.º 2.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Substituição dos juízes de instrução criminal)
 
@@ -592,7 +666,7 @@ b) Pelo juiz de comarca próxima;
 
 c) Por pessoa a escolher anualmente.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Substituição dos juízes dos tribunais do trabalho)
 
@@ -602,7 +676,7 @@ a) Por um vogal do tribunal colectivo;
 
 b) Por um juiz do tribunal da comarca.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Substituição dos juízes dos tribunais de menores)
 
@@ -614,7 +688,7 @@ b) Por um juiz do tribunal cível;
 
 c) Por um juiz de outro tribunal da comarca onde se encontrem sediados.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Substituição dos juízes nos tribunais de execução das penas)
 
@@ -626,7 +700,7 @@ b) Por um juiz do tribunal de instrução criminal;
 
 c) Por um juiz de outro tribunal onde o tribunal de execução das penas se encontre sediado.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Regime supletivo de substituição)
 
@@ -642,7 +716,7 @@ c) Por pessoa designada anualmente pelo vice-presidente-adjunto do Conselho Supe
 
 3 - Quando a designação prevista na alínea c) do n.º 1 deste artigo recaia em pessoa não licenciada em Direito, a substituição apenas se verificará relativamente a actos de carácter urgente ou referentes a réus presos ou ainda quando se torne necessária a constituição do tribunal colectivo.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Substitutos)
 
@@ -652,13 +726,13 @@ c) Por pessoa designada anualmente pelo vice-presidente-adjunto do Conselho Supe
 
 3 - O disposto nos números anteriores é aplicável, com as devidas adaptações, aos agentes do Ministério Público a que se refere o artigo 68.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Cumulação de lugares)
 
 Pode o Conselho Superior da Magistratura, face à insuficiência do número de juízes e ponderadas as necessidades de serviço, determinar que um juiz exerça funções em mais de um tribunal, ainda que de comarcas diferentes.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Tribunal Cível do Porto)
 
@@ -668,7 +742,7 @@ Pode o Conselho Superior da Magistratura, face à insuficiência do número de j
 
 3 - Até data a fixar pelo Conselho Superior da Magistratura, não posterior a 31 de Julho de 1981, os 8.º e 9.º Juízos Cíveis não entram na distribuição.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Equipamento, fundos e livros, processos e papéis da Comissão Arbitral de Assistência e do Tribunal de Recurso de Avaliações de Lisboa.)
 
@@ -678,9 +752,9 @@ Pode o Conselho Superior da Magistratura, face à insuficiência do número de j
 
 3 - Até data a fixar pelo Conselho Superior da Magistratura, não posterior a 31 de Dezembro de 1981, o 17.º Juízo Cível não entra na distribuição.
 
-###### Art. 4.º Os artigos 89.º, 91.º e 100.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 89.º, 91.º e 100.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, passam a ter a seguinte redacção:
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Vencimentos)
 
@@ -696,7 +770,7 @@ Pode o Conselho Superior da Magistratura, face à insuficiência do número de j
 
 6 - ...
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Despesas de deslocação)
 
@@ -710,17 +784,17 @@ Pode o Conselho Superior da Magistratura, face à insuficiência do número de j
 
 5 - Prestados dois anos de bom e efectivo serviço, os magistrados da comarca de Macau, acompanhados dos respectivos familiares, têm direito ao gozo de férias judiciais de Verão, no continente ou nas Regiões Autónomas dos Açores e da Madeira, ficando as despesas de deslocação a cargo do Estado.
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 (Classificação dos magistrados do Ministério Público)
 
 Os procuradores da República e os delegados do procurador da República são classificados pelo Conselho Superior do Ministério Público, de acordo com o seu mérito, de Muito bom, Bom com distinção, Bom, Suficiente e Medíocre.
 
-###### Art. 5.º - 1 - Compete aos tribunais fiscais o conhecimento das questões entre instituições de previdência ou de abono de família e os respectivos contribuintes.
+Art. 5.º - 1 - Compete aos tribunais fiscais o conhecimento das questões entre instituições de previdência ou de abono de família e os respectivos contribuintes.
 
 2 - Os centros regionais de segurança social em funcionamento, ainda que em regime de instalação, são instituições de previdência para os efeitos referidos no número anterior.
 
-###### Art. 6.º Os mapas VI e VII referidos respectivamente pelos artigos 5.º e 17.º do [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro, com a composição que lhes foi fixada pelo [Decreto-Lei n.º 519-X/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-x-1979-157030), de 29 de Dezembro, são alterados nos seguintes termos:
+Art. 6.º Os mapas VI e VII referidos respectivamente pelos artigos 5.º e 17.º do [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro, com a composição que lhes foi fixada pelo [Decreto-Lei n.º 519-X/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-x-1979-157030), de 29 de Dezembro, são alterados nos seguintes termos:
 
 a) O quadro de juízes de competência genérica da comarca de Macau passa a ser constituído por dois juízes;
 
@@ -728,32 +802,32 @@ b) O quadro de delegados do procurador da República da comarca de Macau passa a
 
 c) Nestes mapas é eliminada a referência a magistrados comuns.
 
-###### Art. 7.º - 1 - A actualização dos vencimentos dos magistrados judiciais e do Ministério Público, em 1980, para os efeitos do n.º 1 do artigo 27.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, e do n.º 1 do artigo 89.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, é feita do modo previsto no [Decreto-Lei n.º 200-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-a-1980-226037), de 24 de Junho, tendo em conta as percentagens do aumento ali estabelecidas para a letra A da função pública.
+Art. 7.º - 1 - A actualização dos vencimentos dos magistrados judiciais e do Ministério Público, em 1980, para os efeitos do n.º 1 do artigo 27.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, e do n.º 1 do artigo 89.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, é feita do modo previsto no [Decreto-Lei n.º 200-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-a-1980-226037), de 24 de Junho, tendo em conta as percentagens do aumento ali estabelecidas para a letra A da função pública.
 
 2 - O quantitativo dos vencimentos actualizados nos termos do número anterior será arredondado para a centena de escudos imediatamente superior.
 
-###### Art. 8.º Os processos relativos a questões entre instituições de previdência ou de abono de família e respectivos contribuintes pendentes nos tribunais do trabalho à data da publicação deste diploma seguem nestes tribunais até final.
+Art. 8.º Os processos relativos a questões entre instituições de previdência ou de abono de família e respectivos contribuintes pendentes nos tribunais do trabalho à data da publicação deste diploma seguem nestes tribunais até final.
 
-###### Art. 9.º Os recursos de deliberações do Conselho Superior da Magistratura pendentes no Supremo Tribunal de Justiça no momento da publicação deste diploma serão redistribuídos por forma a serem julgados pela secção criada nos termos do n.º 2 do artigo 175.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro.
+Art. 9.º Os recursos de deliberações do Conselho Superior da Magistratura pendentes no Supremo Tribunal de Justiça no momento da publicação deste diploma serão redistribuídos por forma a serem julgados pela secção criada nos termos do n.º 2 do artigo 175.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro.
 
-###### Art. 10.º - 1 - Por portaria do Ministro da Justiça, ouvidos o Conselho Superior da Magistratura e a Procuradoria-Geral da República, ou mediante proposta destes, podem ser agrupadas comarcas tendo em atenção a sua proximidade e facilidade de comunicação, suprimindo-se entre elas a expedição de cartas precatórias e ofícios precatórios para cumprimento de determinadas categorias de actos judiciais ou de instrução criminal.
+Art. 10.º - 1 - Por portaria do Ministro da Justiça, ouvidos o Conselho Superior da Magistratura e a Procuradoria-Geral da República, ou mediante proposta destes, podem ser agrupadas comarcas tendo em atenção a sua proximidade e facilidade de comunicação, suprimindo-se entre elas a expedição de cartas precatórias e ofícios precatórios para cumprimento de determinadas categorias de actos judiciais ou de instrução criminal.
 
 2 - Nos casos referidos no número anterior, os indivíduos residentes na área das comarcas agrupadas são obrigados a comparecer no tribunal onde se pratica o acto em que é necessária a sua presença.
 
 3 - A portaria que determinar o agrupamento das comarcas regulamentará os actos necessários à execução dos efeitos referidos nos números anteriores.
 
-###### Art. 11.º - 1 - Os encargos provenientes da criação dos lugares de inspector-contador, prevista no artigo 195.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 11.º - 1 - Os encargos provenientes da criação dos lugares de inspector-contador, prevista no artigo 195.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2 - São suportados pelo mesmo Cofre, relativamente ao ano de 1980, os encargos resultantes do aumento na comarca de Macau dos quadros previstos no artigo 6.º deste diploma e os do n.º 5 do artigo 31.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, e do n.º 5 do artigo 91.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho.
 
-###### Art. 12.º O Governo adoptará as providências orçamentais necessárias à execução do presente diploma.
+Art. 12.º O Governo adoptará as providências orçamentais necessárias à execução do presente diploma.
 
-###### Art. 13.º Ficam revogados os artigos 193.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, 22.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, e 3.º, alínea a), da [Lei n.º 28/79](https://diariodarepublica.pt/dr/detalhe/lei/28-1979-370668), de 5 de Setembro.
+Art. 13.º Ficam revogados os artigos 193.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, 22.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, e 3.º, alínea a), da [Lei n.º 28/79](https://diariodarepublica.pt/dr/detalhe/lei/28-1979-370668), de 5 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 13 de Agosto de 1980.**
+Promulgado em 13 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

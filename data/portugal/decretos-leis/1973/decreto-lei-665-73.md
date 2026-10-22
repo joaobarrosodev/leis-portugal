@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/665-1973-411299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90a4473aa5b8738df33efb14db3e86c449ce2a41aa85a68bdb9fc3b53c4dce5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aa6937d8ad437325e316f1d14abdb8536a028e09122bcf8510c5f5769c9cdc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amoníaco Português
+- Estabelecimento Industrial
+- Ministro das Finanças
+- Parque Industrial
+- Petroquímica
+- Sacor
+- Secretário de Estado da Indústria
+relationships:
+- type: cites
+  target: pt:dre:631418:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:33Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +106,9 @@ Ouvido o Conselho de Ministros para os Assuntos Económicos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 10.º do [Decreto-Lei n.º 496/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1971-631418), de 12 de Novembro, passa a ter a redacção seguinte:
+Artigo único. O artigo 10.º do [Decreto-Lei n.º 496/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1971-631418), de 12 de Novembro, passa a ter a redacção seguinte:
 
-###### Art. 10.º - 1. A Sacor participará, conjuntamente com o Amoníaco Português, na instalação e exploração das unidades industriais em que vier a concretizar-se o esquema da petroquímica de aromáticos, a que se referem os artigos 14.º e seguintes do despacho ministerial de 16 de Outubro de 1970, publicado no Diário do Governo, 3.ª série, n.º 256, de 4 de Novembro do mesmo ano.
+Art. 10.º - 1. A Sacor participará, conjuntamente com o Amoníaco Português, na instalação e exploração das unidades industriais em que vier a concretizar-se o esquema da petroquímica de aromáticos, a que se referem os artigos 14.º e seguintes do despacho ministerial de 16 de Outubro de 1970, publicado no Diário do Governo, 3.ª série, n.º 256, de 4 de Novembro do mesmo ano.
 
 2. O programa e as modalidades de realização desse esquema serão aprovados pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
 
@@ -105,10 +116,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 5 de Dezembro de 1973.**
+Promulgado em 5 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/561-1972-685610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e7d8db28a55da397edc92629cafb80028b2235516d8762475af0fa5f95382a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd131f80dd38fea248a3ffd1653023af88d2089adf849c5dd099f693fae9f45e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:33Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +113,7 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. A Caixa de Crédito Agrícola de Moçambique, cujos bens, direitos e responsabilidades serão integrados no Instituto de Crédito de Moçambique até 31 de Dezembro de 1972, considerar-se-á extinta logo que tal integração se realize.
+Artigo 1.º - 1. A Caixa de Crédito Agrícola de Moçambique, cujos bens, direitos e responsabilidades serão integrados no Instituto de Crédito de Moçambique até 31 de Dezembro de 1972, considerar-se-á extinta logo que tal integração se realize.
 
 2. O pessoal em serviço na Caixa à data da integração, que o requeira no prazo de trinta dias após a publicação do presente diploma no Boletim Oficial, será incorporado no Instituto, sem decréscimo de remunerações e categorias correspondentes e com salvaguarda de todos os direitos adquiridos, designadamente quanto a aposentação.
 
@@ -105,11 +121,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. Desde a data da integração, os encargos com as pensões do pessoal aposentado da Caixa passarão a ser suportados pelo Instituto, nos mesmos termos em que, legalmente, o eram pela Caixa.
 
-###### Art. 2.º - 1. Após a integração prevista no artigo anterior, o Instituto poderá realizar operações activas, a curto, médio e longo prazos para financiamento do sector agro-pecuário.
+Art. 2.º - 1. Após a integração prevista no artigo anterior, o Instituto poderá realizar operações activas, a curto, médio e longo prazos para financiamento do sector agro-pecuário.
 
 2. Às operações referidas no número precedente aplicar-se-ão as disposições especiais contidas no presente decreto e, complementarmente, a demais legislação própria do Instituto que com ele não seja incompatível.
 
-###### Art. 3.º - 1. Os empréstimos a curto prazo destinar-se-ão a suportar encargos com as explorações agro-pecuárias que sejam recuperáveis dentro do período por que os mesmos empréstimos forem concedidos, incluindo, designadamente:
+Art. 3.º - 1. Os empréstimos a curto prazo destinar-se-ão a suportar encargos com as explorações agro-pecuárias que sejam recuperáveis dentro do período por que os mesmos empréstimos forem concedidos, incluindo, designadamente:
 
 a) Compra de sementes, plantas, fertilizantes, correctivos, vermicidas, insecticidas, fungicidas, herbicidas e outros produtos fitofarmacêuticos, gado e animais de capoeira, vacinas, soros, alérgenos e outros meios de diagnóstico, substâncias medicamentosas destinadas ao tratamento de animais domésticos, forragens, rações e suplementos;
 
@@ -123,9 +139,9 @@ e) Pagamento de mão-de-obra e materiais de construção utilizados em pequenas 
 
 2. Os empréstimos a curto prazo obedecerão a um processamento simples e pouco moroso, de forma que não seja prejudicada a oportunidade das operações.
 
-###### Art. 4.º Os empréstimos a curto prazo poderão ser concedidos em conta corrente, revestir a forma de desconto de warrants sobre produtos agrícolas, pecuários ou florestais ou efectuar-se segundo outras modalidades adequadas ao fim em vista.
+Art. 4.º Os empréstimos a curto prazo poderão ser concedidos em conta corrente, revestir a forma de desconto de warrants sobre produtos agrícolas, pecuários ou florestais ou efectuar-se segundo outras modalidades adequadas ao fim em vista.
 
-###### Art. 5.º As operações de crédito a médio e longo prazos serão realizadas pelo Instituto com vista a facultar recursos financeiros às empresas que tenham por objecto a exploração de empreendimentos agro-pecuários em boas condições técnicas e económicas, designadamente para as seguintes aplicações:
+Art. 5.º As operações de crédito a médio e longo prazos serão realizadas pelo Instituto com vista a facultar recursos financeiros às empresas que tenham por objecto a exploração de empreendimentos agro-pecuários em boas condições técnicas e económicas, designadamente para as seguintes aplicações:
 
 a) Aquisição de terras destinadas à exploração agrícola, florestal ou pecuária, desde que dela possa resultar melhoria ou intensificação da exploração de um conjunto agrário;
 
@@ -161,35 +177,35 @@ q) Remição de foros, expurgação de hipotecas, extinção de ónus reais e se
 
 r) Saneamento financeiro da empresa, desde que as dívidas a solver com o produto do empréstimo tenham sido contraídas para fins agro-pecuários, ou se trate de uma operação acessória ligada ao financiamento principal solicitado ao Instituto.
 
-###### Art. 6.º - 1. As operações de crédito agro-pecuário serão, em regra, asseguradas por qualquer das garantias indicadas nos Decretos-Leis n.os 48997, de 8 de Maio de 1969, e 234/72, de 8 de Julho.
+Art. 6.º - 1. As operações de crédito agro-pecuário serão, em regra, asseguradas por qualquer das garantias indicadas nos Decretos-Leis n.os 48997, de 8 de Maio de 1969, e 234/72, de 8 de Julho.
 
 2. Quando se trate de empreendimentos de especial interesse para o desenvolvimento económico do Estado de Moçambique e cuja rentabilidade seja comprovada por estudo técnico-económico fundamentado ou por parecer favorável dos serviços públicos competentes, poderá o conselho de administração do Instituto, pela unanimidade dos seus membros, aceitar garantias diferentes das previstas nos diplomas referidos no número anterior ou até autorizar a realização da operação sem qualquer garantia, atendendo à competência técnica e à idoneidade moral dos proponentes.
 
-###### Art. 7.º - 1. Quando o crédito se destine à exploração em terrenos do Estado, na fase de concessão provisória, o Instituto goza de privilégio creditório sobre as benfeitorias e frutos desses terrenos, o qual se gradua logo após os créditos do Estado por dívidas fiscais e subsiste mesmo após a transformação em concessão definitiva.
+Art. 7.º - 1. Quando o crédito se destine à exploração em terrenos do Estado, na fase de concessão provisória, o Instituto goza de privilégio creditório sobre as benfeitorias e frutos desses terrenos, o qual se gradua logo após os créditos do Estado por dívidas fiscais e subsiste mesmo após a transformação em concessão definitiva.
 
 2. O Instituto goza de direito de preferência em qualquer caso de alienação por acto entre vivos do direito à concessão enquanto subsistir o princípio referido no número anterior.
 
-###### Art. 8.º Sobre os prédios rústicos e urbanos referidos no artigo 240.º do Regulamento de Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, podem ser constituídas hipotecas e consignações de rendimentos em garantia dos empréstimos para fomento agro-pecuário concedidos pelo Instituto.
+Art. 8.º Sobre os prédios rústicos e urbanos referidos no artigo 240.º do Regulamento de Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, podem ser constituídas hipotecas e consignações de rendimentos em garantia dos empréstimos para fomento agro-pecuário concedidos pelo Instituto.
 
-###### Art. 9.º - 1. O penhor apenas poderá servir de garantia exclusiva a empréstimos a curto ou médio prazos.
+Art. 9.º - 1. O penhor apenas poderá servir de garantia exclusiva a empréstimos a curto ou médio prazos.
 
 2. O penhor de colheitas futuras só poderá servir de garantia exclusiva a empréstimos a curto prazo de valor não superior a 200000$00, e desde que a operação obtenha parecer favorável dos serviços públicos competentes sobre o interesse económico ou social do empreendimento e a idoneidade do proponente.
 
 3. Sob proposta do conselho de administração do Instituto, o Governador-Geral poderá elevar, por despacho, o limite fixado no número anterior.
 
-###### Art. 10.º Quando não funcionem como garantia complementar, a fiança e o aval só poderão servir de garantia a empréstimos a curto prazo cujo valor não exceda 2000000$00, ou a médio prazo, quando o respectivo valor não seja superior a 1000000$00.
+Art. 10.º Quando não funcionem como garantia complementar, a fiança e o aval só poderão servir de garantia a empréstimos a curto prazo cujo valor não exceda 2000000$00, ou a médio prazo, quando o respectivo valor não seja superior a 1000000$00.
 
-###### Art. 11.º - 1. Sempre que a execução das quantias em dívida possa conduzir à insolvência dos mutuários, o Instituto poderá optar pela administração directa com possibilidades de arrendamento da exploração até se reembolsar daquelas quantias.
+Art. 11.º - 1. Sempre que a execução das quantias em dívida possa conduzir à insolvência dos mutuários, o Instituto poderá optar pela administração directa com possibilidades de arrendamento da exploração até se reembolsar daquelas quantias.
 
 2. Serão imputadas à exploração as despesas inerentes à respectiva gerência.
 
-###### Art. 12.º - 1. Sempre que o Governador-Geral o determine, os serviços públicos e os organismos de coordenação económica do sector agro-pecuário, directamente ou através das suas delegações regionais, actuarão em representação do Instituto, recebendo e informando os pedidos de crédito e acompanhando a utilização dos empréstimos e a execução dos empreendimentos a cujo financiamento os mesmos se destinam.
+Art. 12.º - 1. Sempre que o Governador-Geral o determine, os serviços públicos e os organismos de coordenação económica do sector agro-pecuário, directamente ou através das suas delegações regionais, actuarão em representação do Instituto, recebendo e informando os pedidos de crédito e acompanhando a utilização dos empréstimos e a execução dos empreendimentos a cujo financiamento os mesmos se destinam.
 
 2. Os serviços prestados nos termos do número anterior poderão ser remunerados nas condições a fixar por acordo sancionado pelo Governador-Geral.
 
-###### Art. 13.º Os documentos para instrução dos processos relativos às operações a que se refere o presente diploma serão isentos de quaisquer emolumentos, selos, contribuições, taxas e impostos, seja qual for a sua natureza e a entidade a quem forem solicitados.
+Art. 13.º Os documentos para instrução dos processos relativos às operações a que se refere o presente diploma serão isentos de quaisquer emolumentos, selos, contribuições, taxas e impostos, seja qual for a sua natureza e a entidade a quem forem solicitados.
 
-###### Art. 14.º - 1. Após a integração prevista no artigo 1.º, as operações efectuadas pela Caixa de Crédito Agrícola continuarão a reger-se pelos seus títulos constitutivos e pelo [Decreto n.º 46938](https://diariodarepublica.pt/dr/detalhe/decreto/46938-1966-486477), de 4 de Abril de 1966, e respectivo regulamento, sem prejuízo das modificações de ordem processual e administrativa determinadas pelo conselho de administração do Instituto.
+Art. 14.º - 1. Após a integração prevista no artigo 1.º, as operações efectuadas pela Caixa de Crédito Agrícola continuarão a reger-se pelos seus títulos constitutivos e pelo [Decreto n.º 46938](https://diariodarepublica.pt/dr/detalhe/decreto/46938-1966-486477), de 4 de Abril de 1966, e respectivo regulamento, sem prejuízo das modificações de ordem processual e administrativa determinadas pelo conselho de administração do Instituto.
 
 2. Se, à data da integração da Caixa de Crédito Agrícola no Instituto, o presente diploma não houver ainda sido regulamentado, às operações aqui previstas aplicar-se-á, supletivamente, o disposto no regulamento aprovado
 
@@ -197,10 +213,10 @@ pelo Diploma Legislativo n.º 2755, de 12 de Junho de 1967.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Dezembro de 1972.**
+Promulgado em 7 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.

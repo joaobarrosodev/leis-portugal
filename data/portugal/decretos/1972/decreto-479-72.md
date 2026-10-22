@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/479-1972-686582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eb3a1234f21fdb3c1a0b96fa0550f8c4e4885b9b7ec607fb30c79697c3d40a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed726d3c31c885d8d8bdbc82a675c759e0c1f70152348e195dd2e2cedaf759d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:50Z'
   warnings: []
   errors: []
 ---
@@ -86,25 +90,25 @@ de 28 de Novembro
 
 Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro; Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 17177200$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 17177200$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 8.º «Junta de Colonização Interna»:
+Capítulo 8.º «Junta de Colonização Interna»:
 
-###### Artigo 213.º «Conservação e aproveitamento de bens»:
+Artigo 213.º «Conservação e aproveitamento de bens»:
 
 N.º 1 «Prédios rústicos» ... 500000$00
 
-###### Artigo 214.º-A «Outras despesas correntes»:
+Artigo 214.º-A «Outras despesas correntes»:
 
 N.º 1 «Administração de propriedades ...» ... 6000000$00
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 430.º «Direcção-Geral dos Serviços Pecuários»:
+Artigo 430.º «Direcção-Geral dos Serviços Pecuários»:
 
 N.º 1 «Serviços centrais»:
 
@@ -114,9 +118,9 @@ N.º 6 «Postos zootécnicos (Miranda do Douro e Viana do Castelo)» ... 161500$
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 4.º «Secretaria-Geral»:
+Capítulo 4.º «Secretaria-Geral»:
 
-###### Artigo 43.º «Vencimentos e salários»:
+Artigo 43.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos» (ver nota 2):
 
@@ -124,13 +128,13 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 (Durante três meses):
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior é aumentada a previsão, no orçamento das receitas do Estado, das seguintes rubricas: .
+Art. 2.º Para compensação dos créditos designados no artigo anterior é aumentada a previsão, no orçamento das receitas do Estado, das seguintes rubricas: .
 
-### Capítulo 5.º, grupo 1, artigo 157.º «Reembolso de despesas com o pessoal dos quadros do Ministério das Corporações é Previdência Social» ... 515700$00
+Capítulo 5.º, grupo 1, artigo 157.º «Reembolso de despesas com o pessoal dos quadros do Ministério das Corporações é Previdência Social» ... 515700$00
 
-### Capítulo 7.º, grupo 10, artigo 222.º «Exploração dos bens na posse da Junta de Colonização Interna» ... 6500000$00
+Capítulo 7.º, grupo 10, artigo 222.º «Exploração dos bens na posse da Junta de Colonização Interna» ... 6500000$00
 
-### Capítulo 15.º, artigo 327.º «Direcção-Geral dos Serviços Pecuários»:
+Capítulo 15.º, artigo 327.º «Direcção-Geral dos Serviços Pecuários»:
 
 Serviços centrais (combate à peste suína) ... 10000000$00
 
@@ -138,7 +142,7 @@ Estabelecimentos zootécnicos - Postos Zootécnicos de Miranda do Douro e Viana 
 
 ... 17177200$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério das Corporações e Previdência Social:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério das Corporações e Previdência Social:
 
 A observação (ver nota 2) aposta à dotação do capítulo 4.º, artigo 43º, n.º 1), reforçada por força do artigo 1.º do presente diploma, é alterada para:
 
@@ -146,8 +150,8 @@ A observação (ver nota 2) aposta à dotação do capítulo 4.º, artigo 43º, 
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 21 de Novembro de 1972.**
+Promulgado em 21 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS R0DRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS R0DRIGUES THOMAZ.

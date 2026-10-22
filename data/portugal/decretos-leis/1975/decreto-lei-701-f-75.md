@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 290/1975, 4º Suplemento, Série I de 1975-12-17
   number: '290'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2064-(9) a 2064-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29004/00090012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-f-1975-166459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95f4a361da1b7e199e471cd80ccb5e9dd5269a3dfa8ae3766785986e1acd9898
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b3c0d1e64b06ed9b0c6fba24adeca01891f2c49c5a92ae7dbb1f29f13016d84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Contribuições e Impostos
+- Direcção Geral de Preços
+- Direitos de Importação
+- Importação
+- Pauta Aduaneira
+- Preço de Venda
+- Regime Fiscal
+- Restituição de Impostos
+- Sobretaxa de Importação
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355307:por
+  label: "Prorrogado até 31.03.1976 o prazo de vigência do Dec Lei 271-A/75 de 31-Mai, com as alterações introduzidas pelo\
+    \ presente diploma, pelo DEC LEI.758/75.31.12.1975.MCOME, DG.IS [300-3ºSupl] de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/758-1975-355307
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:688869:por
+  label: "Alterados os arts. 6º e 10º pelo DEC LEI.207-A/76.20.03.1976.MF, DG.IS [68-2ºSupl] de 20.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-a-1976-688869
+  date: '1976-03-20'
+- type: amended_by
+  target: pt:dre:281822:por
+  label: "Substituídas as listas anexas ao Dec Lei 271-A/75 de 31-Mai, com as alterações que lhes foram introduzidas pelo\
+    \ presente diploma, pelo DEC LEI.225-G/76.31.03.1976.MF, DG.IS [77-3ºSupl] de 31.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-g-1976-281822
+  date: '1976-03-31'
+- type: amended_by
+  target: pt:dre:394287:por
+  label: "Alterado o art. 8º do presente diploma, com a redacção conferida no Dec Lei 225-G/76 de 31-Mar, pelo DEC LEI.287/82.24.07.1982.MFP,\
+    \ DR.IS [169] de 24.07.1982\082\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1982-394287
+  date: '1982-07-24'
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506850:por
+  label: "Rectificado pela RECT.DD145.27.01.1976.PCM, DG.IS [22] de 27.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-506850
+  date: '1976-01-27'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:24Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +157,7 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Da lista I anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser retiradas as seguintes posições pautais, que deste modo ficarão isentas da sobretaxa de importação criada pelo artigo 1.º daquele diploma:
+Artigo 1.º Da lista I anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser retiradas as seguintes posições pautais, que deste modo ficarão isentas da sobretaxa de importação criada pelo artigo 1.º daquele diploma:
 
 ### Capítulo 5.º:
 
@@ -198,7 +249,7 @@ ex 25.20.01 Gesso cru.
 
 38.19.09 Produtos químicos e preparados das indústrias químicas ou das indústrias conexas (compreendendo ou constituídos por misturas de produtos naturais), não especificados; produtos residuários das mesmas indústrias, não especificados.
 
-### Capítulo 39.º Produtos não especificados.
+Capítulo 39.º Produtos não especificados.
 
 39.03.04 Éteres e ésteres, não especificados.
 
@@ -262,7 +313,7 @@ ex 85.15.03 Aparelhos de radiodirecção, radiodetecção, radiossondagem e radi
 
 ex 90.10 Aparelhos e material dos tipos usados nos laboratórios fotográficos ou cinematográficos não especificados no capítulo 90.º; aparelhos de fotocópia de sistema óptico ou por contacto e aparelhos de termocópia; alvos para projecções, com excepção das máquinas heliográficas, e alvos para projecções com dimensões inferiores a 1,40 m x 1,40 m.
 
-###### Art. 2.º Da lista II anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser retiradas as seguintes posições pautais, que passarão a constar da lista I anexa ao referido diploma, ficando deste modo sujeitas à sobretaxa de importação de 20%:
+Art. 2.º Da lista II anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser retiradas as seguintes posições pautais, que passarão a constar da lista I anexa ao referido diploma, ficando deste modo sujeitas à sobretaxa de importação de 20%:
 
 ### Capítulo 16.º:
 
@@ -288,7 +339,7 @@ ex 16.03 Extractos e sucos de carne.
 
 92.08 Instrumentos músicos não especificados em outras posições deste capítulo (tais como realejos, caixas de música e serras musicais); chamarizes de qualquer espécie e instrumentos de boca para chamada e sinalização (tais como cornetas de sinais e apitos).
 
-###### Art. 3.º À lista I anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser acrescentadas as seguintes posições pautais, que ficam deste modo sujeitas à sobretaxa de importação de 20%:
+Art. 3.º À lista I anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser acrescentadas as seguintes posições pautais, que ficam deste modo sujeitas à sobretaxa de importação de 20%:
 
 ### Capítulo 14.º:
 
@@ -334,7 +385,7 @@ ex 16.03 Extractos e sucos de carne.
 
 90.28.04 Instrumentos e aparelhos eléctricos ou electrónicos de medida, verificação, regulação ou análise, não especificados.
 
-###### Art. 4.º À lista II anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser acrescentadas as seguintes posições pautais, que ficam deste modo sujeitas à sobretaxa de importação de 30%:
+Art. 4.º À lista II anexa ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) deverão ser acrescentadas as seguintes posições pautais, que ficam deste modo sujeitas à sobretaxa de importação de 30%:
 
 ### Capítulo 8.º:
 
@@ -350,23 +401,23 @@ ex 12.01.01 Amendoim com ou sem casca para consumir em espécie.
 
 85.14 Microfones e respectivos suportes; alto-falantes e amplificadores eléctricos de baixa frequência.
 
-###### Art. 5.º O artigo 4.º do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) passa a ter a seguinte redacção:
+Art. 5.º O artigo 4.º do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) passa a ter a seguinte redacção:
 
 A sobretaxa de importação é aplicável a todas as mercadorias constantes das listas anexas nos termos do artigo 10.º das Instruções Preliminares da Pauta dos Direitos de Importação.
 
-###### Art. 6.º - 1. A pedido dos interessados, serão restituídas as importâncias já pagas, correspondentes à incidência da sobretaxa sobre as mercadorias importadas a que se refere o artigo 1.º do presente diploma e ao excesso resultante da passagem de mercadorias da lista II para a lista I anexas ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), nos termos do disposto no artigo 2.º do presente diploma, desde que os interessados façam prova cabal da existência, em armazém, da respectiva mercadoria à data da entrada em vigor do presente diploma.
+Art. 6.º - 1. A pedido dos interessados, serão restituídas as importâncias já pagas, correspondentes à incidência da sobretaxa sobre as mercadorias importadas a que se refere o artigo 1.º do presente diploma e ao excesso resultante da passagem de mercadorias da lista II para a lista I anexas ao [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), nos termos do disposto no artigo 2.º do presente diploma, desde que os interessados façam prova cabal da existência, em armazém, da respectiva mercadoria à data da entrada em vigor do presente diploma.
 
 2. Em termos equivalentes aos do número anterior, cessarão as garantias constituídas para efeito do pagamento da sobretaxa.
 
 3. O disposto nos números anteriores é igualmente aplicável aos casos abrangidos pela nova redacção dada ao artigo 4.º do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) pelo artigo 5.º deste diploma.
 
-###### Art. 7.º O artigo 5.º do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) passa a ter a seguinte redacção:
+Art. 7.º O artigo 5.º do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) passa a ter a seguinte redacção:
 
 Não obstante o disposto nos artigos 1.º e 4.º, o Ministro das Finanças poderá isentar da sobretaxa de importação as mercadorias livres de direitos no texto da Pauta dos Direitos de Importação ou aquelas que, ao abrigo de legislação em vigor, possam beneficiar da isenção ou redução de direitos.
 
-###### Art. 8.º A faculdade prevista no artigo 5.º do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), na redacção dada pelo artigo anterior, não poderá ser invocada relativamente a mercadorias classificadas pelo mesmo artigo pautal quando a sobretaxa a pagar seja de montante igual ou inferior a 10000$00.
+Art. 8.º A faculdade prevista no artigo 5.º do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), na redacção dada pelo artigo anterior, não poderá ser invocada relativamente a mercadorias classificadas pelo mesmo artigo pautal quando a sobretaxa a pagar seja de montante igual ou inferior a 10000$00.
 
-###### Art. 9.º - 1. O importador poderá adicionar ao preço de venda da mercadoria o quantitativo da sobretaxa, em valor absoluto.
+Art. 9.º - 1. O importador poderá adicionar ao preço de venda da mercadoria o quantitativo da sobretaxa, em valor absoluto.
 
 2. Para efeitos do disposto no número anterior e tratando-se de mercadorias que, por força do disposto no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, estejam sujeitas aos regimes de preços controlados ou declarados, com base quer na natureza dos bens, quer na dimensão da empresa, fica o importador obrigado a comunicar os novos preços à Direcção-Geral de Preços, em impresso próprio a aprovar por esta, só podendo usar da faculdade conferida pelo n.º 1 deste artigo após a data da recepção naquela Direcção-Geral da referida comunicação.
 
@@ -376,14 +427,14 @@ Não obstante o disposto nos artigos 1.º e 4.º, o Ministro das Finanças poder
 
 5. No caso de o importador ter contratos firmados em data anterior à da criação da sobretaxa, poderá adicionar ao preço de venda acordado o valor da mesma, desde que exiba prova desse pagamento, perante o cliente, ficando este, no entanto, com a faculdade de rescindir o contrato.
 
-###### Art. 10.º As dúvidas suscitadas na interpretação do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) e do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Comércio Externo.
+Art. 10.º As dúvidas suscitadas na interpretação do [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343) e do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Comércio Externo.
 
-###### Art. 11.º Este diploma entra imediatamente em vigor.
+Art. 11.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 17 de Dezembro de 1975.**
+Promulgado em 17 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

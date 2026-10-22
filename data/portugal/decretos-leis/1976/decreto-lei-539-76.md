@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15900/15121513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1976-431462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42e5b8e2d2c164eed0bd4fb6f76925cfefe5330d42d6233b4e0351d2aea37fcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880acf04f1bd7174d17c77f32431c51ce87c5a9ae4e63429e7357de6d9873adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- FIA
+- Fides
+- Indemnização
+- Nacionalização
+- Obrigações do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19790714 - CONSIDERADAS PREJUDICADAS AS DISPOSIÇÕES DO PRESENTE DIPLOMA QUE CONTRARIEM OS PRECEITOS DA LEI 80/77,\
+    \ DE 26 DE OUTUBRO, E DO DECRETO LEI 213/79, DE 14 DE JULHO, PUBLICADO NO DR.IS, 161, DE 790714.\0 790714."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:141019:por
+  label: "Prorrogado até 14.04.1977 o prazo estabelecido no nº 1 do art. 5º pelo DEC LEI.104/77.22.03.1977.MF, DR.IS [68]\
+    \ de 22.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1977-141019
+  date: '1977-03-22'
+- type: corrected_by
+  target: pt:dre:429634:por
+  label: Rectificado pela DECL.DD8247.13.08.1976.PCM, DR.IS [189] de 13.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-429634
+  date: '1976-08-13'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:39Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +123,19 @@ Além disto, foi o Governo especialmente sensível à circunstância de os titul
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São nacionalizados os direitos dos titulares de participações no Fundo de Investimentos para o Desenvolvimento Económico e Social (FIDES) e no Fundo de Investimentos Atlântico (FIA).
+Artigo 1.º São nacionalizados os direitos dos titulares de participações no Fundo de Investimentos para o Desenvolvimento Económico e Social (FIDES) e no Fundo de Investimentos Atlântico (FIA).
 
-###### Art. 2.º Aos titulares dos direitos nacionalizados serão atribuídas indemnizações pelo Estado, representadas por títulos de dívida pública que substituirão os certificados de participação e que serão emitidos tendo em atenção o disposto nos artigos 3.º e 4.º
+Art. 2.º Aos titulares dos direitos nacionalizados serão atribuídas indemnizações pelo Estado, representadas por títulos de dívida pública que substituirão os certificados de participação e que serão emitidos tendo em atenção o disposto nos artigos 3.º e 4.º
 
-###### Art. 3.º - 1. As características dos títulos de dívida pública a que se refere o artigo 2.º serão fixadas pelo Conselho de Ministros, sob proposta do Ministro das Finanças, pela mesma forma se definindo as modalidades de pagamento, os prazos e as taxas de juro aplicáveis.
+Art. 3.º - 1. As características dos títulos de dívida pública a que se refere o artigo 2.º serão fixadas pelo Conselho de Ministros, sob proposta do Ministro das Finanças, pela mesma forma se definindo as modalidades de pagamento, os prazos e as taxas de juro aplicáveis.
 
 2. Na fixação referida no número anterior deverá ser dado tratamento diferenciado aos titulares de partes dos Fundos, consoante escalões a determinar tendo em consideração os montantes das suas participações.
 
 3. Os títulos de dívida pública a que se refere o artigo 2.º são amortizáveis e o juro devido será pagável aos semestres, em 15 de Janeiro e 15 de Junho, vencendo-se o primeiro juro em 15 de Janeiro de 1977.
 
-###### Art. 4.º Para efeitos da execução do disposto no presente diploma, são fixados em 310$00 e 435$00 os valores das unidades de participação, respectivamente, do Fundo de Investimentos para o Desenvolvimento Económico e Social (FIDES) e do Fundo de Investimentos Atlântico (FIA).
+Art. 4.º Para efeitos da execução do disposto no presente diploma, são fixados em 310$00 e 435$00 os valores das unidades de participação, respectivamente, do Fundo de Investimentos para o Desenvolvimento Económico e Social (FIDES) e do Fundo de Investimentos Atlântico (FIA).
 
-###### Art. 5.º - 1. Durante o período de seis meses a contar da data da publicação do presente diploma será permitida a regularização de dívidas dos possuidores de certificados de participação às instituições de crédito, mediante a dação em pagamento a instituição credora dos certificados ou dos títulos de dívida pública que os substituam.
+Art. 5.º - 1. Durante o período de seis meses a contar da data da publicação do presente diploma será permitida a regularização de dívidas dos possuidores de certificados de participação às instituições de crédito, mediante a dação em pagamento a instituição credora dos certificados ou dos títulos de dívida pública que os substituam.
 
 2. Quando as dívidas a regularizar se encontrarem, à data da publicação do presente diploma, caucionadas por certificados de participação, o valor destes, ou dos títulos que os substituam, para efeitos de regularização, será o que resultar da aplicação do valor referido no artigo 4.º
 
@@ -117,20 +143,20 @@ Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. Nos casos previstos no n.º 2, a instituição de crédito a quem foram dados em pagamento os certificados, ou títulos que os substituam, será considerada como beneficiária do tratamento mais favorável, de entre os fixados nos termos do artigo 3.º deste diploma.
 
-###### Art. 6.º A regularização de dívidas às instituições de previdência ou às de beneficência, bem como à generalidade das pessoas colectivas de direito público, poderá ficar sujeita ao estabelecimento de condições específicas.
+Art. 6.º A regularização de dívidas às instituições de previdência ou às de beneficência, bem como à generalidade das pessoas colectivas de direito público, poderá ficar sujeita ao estabelecimento de condições específicas.
 
-###### Art. 7.º Por portaria do Ministro das Finanças, poderão ser autorizadas as instituições de crédito, em condições que a mesma portaria fixará, a conceder créditos caucionados por certificados de participação, ou títulos de dívida pública que os substituam, atendendo-se em especial à satisfação de fins de natureza social ou do interesse económico geral.
+Art. 7.º Por portaria do Ministro das Finanças, poderão ser autorizadas as instituições de crédito, em condições que a mesma portaria fixará, a conceder créditos caucionados por certificados de participação, ou títulos de dívida pública que os substituam, atendendo-se em especial à satisfação de fins de natureza social ou do interesse económico geral.
 
-###### Art. 8.º As sociedades gestoras dos fundos de investimentos mobiliários procederão à sua dissolução e liquidação depois de iniciada a troca dos certificados de participação por cautelas de títulos de dívida pública que venham a substituir aquelas.
+Art. 8.º As sociedades gestoras dos fundos de investimentos mobiliários procederão à sua dissolução e liquidação depois de iniciada a troca dos certificados de participação por cautelas de títulos de dívida pública que venham a substituir aquelas.
 
-###### Art. 9.º - 1. No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos dos títulos de dívida pública a emitir de acordo com o disposto nos artigos 2.º e 3.º
+Art. 9.º - 1. No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos dos títulos de dívida pública a emitir de acordo com o disposto nos artigos 2.º e 3.º
 
 2. As despesas com a emissão serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas no Orçamento de 1977.
 
 Visto e aprovado em Conselho de Ministros. -Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 30 de Junho de 1976.**
+Promulgado em 30 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

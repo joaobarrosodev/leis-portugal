@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16300/13201334.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,171 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dad07761cb3a7ace1d9e22603338dee0550aec712abf98a726140861f7262c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cef2bf26c50fc206e742bc92aa820fa01b24b29e93fe0246c4f8a9aeb92d81a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Autónoma das Estradas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:629168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:327334:por
+  label: "Alterados os nºs 73º, 77º e 82º pelo DEC LEI.321/78.1978.11.07.PCM DR.IS [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1978-327334
+  date: '1978-11-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO UM NUM 2 AO ART 1 PELO DEC LEI 434/78 DE 27-DEZ DR.IS [296]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-12-27'
+- type: amended_by
+  target: pt:dre:389850:por
+  label: "Alterado o Quadro de Pessoal (aprovado pelo presente diploma) pela PORT.124/81.1981.01.26.PCM, DR.IS [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/124-1981-389850
+  date: '1981-01-26'
+- type: amended_by
+  target: pt:dre:579085:por
+  label: "Alterado o Quadro de Pessoal (aprovado pelo presente diploma) pela PORT.492/81.1981.06.16.MFP, DR.IS [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-1981-579085
+  date: '1981-06-16'
+- type: amended_by
+  target: pt:dre:600720:por
+  label: "Alterado o quadro de pessoal pelo DEC LEI.18/82.1982.01.28.MFP DR.IS [23] DE 28/JAN/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1982-600720
+  date: '1982-01-15'
+- type: amended_by
+  target: pt:dre:600330:por
+  label: "Substituídos os quadros de pessoal em anexo (com as alterações da Port 124/81 de 26-Jan e Port 492/81 de 16-Jun)\
+    \ pela PORT.185/82.1982.02.12.MFP, DR.IS [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/185-1982-600330
+  date: '1982-02-12'
+- type: amended_by
+  target: pt:dre:375217:por
+  label: "Alterado o quadro do pessoal da Junta Autónoma de Estradas constante do anexo I do presente diploma, pela PORT.889/82.22.09.1982.MFP,\
+    \ DR.IS [220] de 22.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/889-1982-375217
+  date: '1982-09-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 25, 26 E 32 PELO DEC LEI 296/83 DE 24-JUN DR.IS [143]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-06-24'
+- type: amended_by
+  target: pt:dre:151944:por
+  label: "Alterados os artigos 2º e 66º pelo DEC LEI.183/85.27.05.1985.MES, DR.IS [121] de 27.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1985-151944
+  date: '1985-05-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 2 E 66 PELO DEC LEI 183/85 DE 27-MAI DR.IS [121]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-05-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 5 E 25 PELO DEC LEI 394/85 DE 09-OUT DR.IS [232]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-10-09'
+- type: amended_by
+  target: pt:dre:372616:por
+  label: "Alterado o quadro de pessoal pela PORT.479/88.22.07.1988.MF, DR.IS [168] de 22.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/479-1988-372616
+  date: '1988-07-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO O ART 74-A PELO DEC LEI 336/88 DE 27-SET DR.IS [224]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-09-27'
+- type: amended_by
+  target: pt:dre:355522:por
+  label: "Aditado o artigo 74.º-A pelo DEC LEI.336/88.27.09.1988.MOPTC, DR.IS [224] de 27.09.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/336-1988-355522
+  date: '1988-09-27'
+- type: amended_by
+  target: pt:dre:668899:por
+  label: "Alterada a Lei Orgânica da JAE pelo DEC LEI.268/95.1995.10.18.MOPTC, DR.IS [163]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1995-668899
+  date: '1995-10-18'
+- type: amended_by
+  target: pt:dre:361886:por
+  label: "Alterada a redacção do art. 2º (com as alterações introduzidas pelo Dec Lei 183/85 de 27-Mai) e revogada a al. d)\
+    \ do nº 1 e o nº 2 do art. 66º (na redacção dada pelo art 1º do referido Dec Lei 183/85), pelo Dec Lei 141/97.1997.06.06.MEPAT,\
+    \ DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1997-361886
+  date: '1997-06-06'
+- type: amended_by
+  target: pt:dre:629168:por
+  label: "Transformada a E.P. - Estradas de Portugal, EPE em sociedade anónima de capitais exclusivamente públicos, primeiramente\
+    \ Junta Autónoma das Estradas, criada pelo Dec 13969 de 20-Jul 1927, cuja orgânica foi aprovada pelo presente diploma,\
+    \ pelo DEC LEI.374/2007.07.11.2007.MOPTC, DR.IS [214] de 07.11.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-2007-629168
+  date: '2007-11-07'
+- type: cites
+  target: pt:dre:163788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409170:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ART 29 PELO DEC LEI 394/85 DE 09-OUT DR.IS [232]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-10-09'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS ART 57 E 58 PELO DEC LEI 395/91 DE 16-OUT DR.IS-A [238]N\0N"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-16'
+- type: repealed_by
+  target: pt:dre:289060:por
+  label: Revogados, a partir de 15.11.1991, os arts. 57.º e 58.º do presente diploma, pelo(a) Decreto-Lei n.º 395/91 - Diário
+    da República n.º 238/1991, Série I-A de 1991-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1991-289060
+  date: '1991-10-16'
+- type: repealed_by
+  target: pt:dre:393003:por
+  label: "Revogado pelo DEC LEI.237/99.1999.06.25.MEPAT,DR.IS [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1999-393003
+  date: '1999-06-25'
 article_structure:
   article_count: 85
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:02Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +331,7 @@ b) Direcções de estradas.
 
 ###### Artigo 6.º — Conceito
 
-**O presidente é um órgão dirigente, coordenador e representativo da Junta Autónoma de Estradas.**
+O presidente é um órgão dirigente, coordenador e representativo da Junta Autónoma de Estradas.
 
 ###### Artigo 7.º — Competência do presidente
 
@@ -1038,22 +1169,22 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 29 de Junho de 1978.**
+Promulgado em 29 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro e vencimentos do pessoal da Junta Autónoma de Estradas
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16300/13201334.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16300/13201334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16300/13201334.pdf)
 
 QUADRO II
 
 Serviço de portagens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16300/13201334.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16300/13201334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16300/13201334.pdf)
 
-**O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes.**
+O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes.

@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1979-382819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9c3ac6444da0e373bb04971f789b3ba70403b9a75a7b3989e1b7f919fc9e8df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9551e98a990d6fe38a5161874dbadaa49298e8f4023fd3bed6a56968aaaaaff0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Transporte Terrestre
+relationships:
+- type: cites
+  target: pt:dre:310623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685590:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:24Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +114,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São extintas as Direcções de Viação e de Transportes da Horta, criadas, respectivamente, pelos Decretos-Leis n.os [488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, e [525/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1972-685590), de 19 de Dezembro, que deu nova redacção àquele diploma.
+Artigo 1.º - 1 - São extintas as Direcções de Viação e de Transportes da Horta, criadas, respectivamente, pelos Decretos-Leis n.os [488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, e [525/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1972-685590), de 19 de Dezembro, que deu nova redacção àquele diploma.
 
 2 - Os serviços extintos nos termos do número anterior são substituídos pela Delegação de Viação e Transportes da Horta, da Direcção Regional de Transportes Terrestres, cujas atribuições e competências são definidas pelo [Decreto Regulamentar Regional n.º 20/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1978-328049), de 20 de Outubro.
 
-###### Art. 2.º O pessoal adstrito às Direcções referidas no artigo 1.º poderá, querendo, transitar para os quadros da Secretaria Regional dos Transportes e Turismo, mediante despacho do Secretário Regional dos Transportes e Turismo.
+Art. 2.º O pessoal adstrito às Direcções referidas no artigo 1.º poderá, querendo, transitar para os quadros da Secretaria Regional dos Transportes e Turismo, mediante despacho do Secretário Regional dos Transportes e Turismo.
 
-###### Art. 3.º A gestão de todos os bens e património em geral, afectos aos serviços extintos por força do artigo 1.º, transita para o Governo Regional, com dispensa de qualquer formalidade.
+Art. 3.º A gestão de todos os bens e património em geral, afectos aos serviços extintos por força do artigo 1.º, transita para o Governo Regional, com dispensa de qualquer formalidade.
 
-###### Art. 4.º Até ao último dia do mês seguinte ao da publicação deste diploma, as despesas com os serviços extintos, por força do disposto no artigo 1.º, serão garantidas pelo Orçamento Geral do Estado.
+Art. 4.º Até ao último dia do mês seguinte ao da publicação deste diploma, as despesas com os serviços extintos, por força do disposto no artigo 1.º, serão garantidas pelo Orçamento Geral do Estado.
 
-###### Art. 5.º Serão assegurados pelo Ministério dos Transportes e Comunicações e pela Secretaria Regional dos Transportes e Turismo o intercâmbio de informações técnicas e uma estreita colaboração com a Delegação de Viação e Transportes da Horta, com vista a uma actuação tanto quanto possível uniforme, a nível nacional, no campo dos transportes terrestres e de viação.
+Art. 5.º Serão assegurados pelo Ministério dos Transportes e Comunicações e pela Secretaria Regional dos Transportes e Turismo o intercâmbio de informações técnicas e uma estreita colaboração com a Delegação de Viação e Transportes da Horta, com vista a uma actuação tanto quanto possível uniforme, a nível nacional, no campo dos transportes terrestres e de viação.
 
-###### Art. 6.º As dúvidas suscitadas na aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro dos Transportes e Comunicações e do Ministro da República, ouvido o Governo Regional.
+Art. 6.º As dúvidas suscitadas na aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro dos Transportes e Comunicações e do Ministro da República, ouvido o Governo Regional.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa.
 
-**Promulgado em 13 de Março de 1979.**
+Promulgado em 13 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48993-1969-201652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2c31b715b28efd123ac8db209ffdc07563378b981bce9ca76369467d307429a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcbd1453e1d30a43f394cc0a76048121b4e9039ed699382a61678b18b3e763fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Companhia de Diamantes de Angola
+- Contrato
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:390438:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:12Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +98,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato na conformidade das bases anexas este decreto, que são aprovadas para todos os efeitos, ficam fazendo parte integrante dele e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o mencionado contrato.
+Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato na conformidade das bases anexas este decreto, que são aprovadas para todos os efeitos, ficam fazendo parte integrante dele e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o mencionado contrato.
 
-###### Art. 2.º Ficam isentos de quaisquer impostos e contribuições o contrato mencionado no artigo 1.º e os rendimentos relativos ao empréstimo a que o mesmo respeita.
+Art. 2.º Ficam isentos de quaisquer impostos e contribuições o contrato mencionado no artigo 1.º e os rendimentos relativos ao empréstimo a que o mesmo respeita.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Abril de 1969.**
+Promulgado em 30 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

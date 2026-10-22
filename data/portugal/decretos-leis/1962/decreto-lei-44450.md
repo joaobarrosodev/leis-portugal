@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44450-1962-163051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39dd7af19c40ee86bfd35476d600429221dda84a3ae6a299c77b0e1669a42eeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0bd1c555453e4ff36cd345c5652a1b97df03e0242eed320b08e51cbb145c999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arbitragem
+- Assistência Social
+- Comissão Arbitral
+- Definição de Competências
+- Execução por Dívidas
+- Lisboa
+- Nomeação
+- Pagamento
+- Porto
+- Presidente
+- Recurso
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:314381:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314381:por
+  label: "Dada nova redacção aos arts. 34º, 35º e 36º do Dec Lei 42596 de 19-Out de 1959, alterado pelo presente diploma,\
+    \ pelo DEC LEI.47797.14.07.1967.MSA, DG.IS [163] de 14.07.1967\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47797-1967-314381
+  date: '1967-07-14'
+- type: cites
+  target: pt:dre:440479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:162598:por
+  label: Rectificado o art. 2º do presente diploma (na parte em que aditou os art. 33º e o § 1º ao art. 37º do Dec Lei 42596
+    de 19-Out de 1959) pela DECL.DD11825.16.07.1962.PC, DG.IS [161] de 16.07.1962
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1962-162598
+  date: '1962-07-16'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:29Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +135,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § 2.º do artigo 1.º e os artigos 2.º, 3.º, 7.º, 8.º e seu § único, 18.º, 21.º e 25.º do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959, passam a ter a redacção seguinte:
+Artigo 1.º O § 2.º do artigo 1.º e os artigos 2.º, 3.º, 7.º, 8.º e seu § único, 18.º, 21.º e 25.º do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959, passam a ter a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -111,7 +143,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Nos casos de impedimentos prolongados e em que fique liberta a dotação por onde são satisfeitos os vencimentos dos mesmos presidentes a substituição destes poderá fazer-se interinamente, nos termos da lei geral.
 
-###### Art. 2.º A competência da comissão arbitral é exercida exclusivamente pelo seu presidente:
+Art. 2.º A competência da comissão arbitral é exercida exclusivamente pelo seu presidente:
 
 a) Para a instrução e para o julgamento, nos processos de valor até 10000$00;
 
@@ -119,15 +151,15 @@ b) Para a instrução até ao julgamento, nos processos de valor superior a 1000
 
 c) Para a instrução e para o julgamento, em todos os processos, qualquer que seja o valor, quando se verifique a revelia dos réus.
 
-###### Art. 3.º Nas acções contestadas de valor superior à alçada o processo será concluso logo que findem os articulados, para que o presidente da comissão arbitral conheça do pedido se a questão de mérito for ùnicamente de direito e puder ser decidida nesse momento com perfeita segurança, ou se, sendo a questão de direito e de facto, o processo contiver os elementos necessários para uma decisão conscienciosa.
+Art. 3.º Nas acções contestadas de valor superior à alçada o processo será concluso logo que findem os articulados, para que o presidente da comissão arbitral conheça do pedido se a questão de mérito for ùnicamente de direito e puder ser decidida nesse momento com perfeita segurança, ou se, sendo a questão de direito e de facto, o processo contiver os elementos necessários para uma decisão conscienciosa.
 
 § único. Quando nos articulados tiver sido requerida a junção de documentos a requisitar, o processo irá concluso para os fins do disposto neste artigo depois de realizada a diligência se, nos termos dos artigos 1409.º e 1410.º do Código de Processo Civil, ela for considerada necessária.
 
 ...
 
-###### Art. 7.º O processo nas comissões arbitrais reger-se-á, na parte aplicável, pelo disposto nos artigos 1409.º, n.º 2.º, 1410.º e 1411.º do Código de Processo Civil. Nos casos omissos observar-se-ão as disposições legais em vigor para os tribunais comuns, desde que não contrariem os preceitos do presente diploma.
+Art. 7.º O processo nas comissões arbitrais reger-se-á, na parte aplicável, pelo disposto nos artigos 1409.º, n.º 2.º, 1410.º e 1411.º do Código de Processo Civil. Nos casos omissos observar-se-ão as disposições legais em vigor para os tribunais comuns, desde que não contrariem os preceitos do presente diploma.
 
-###### Art. 8.º O autor exporá na petição inicial a sua pretensão com clara indicação do nome e domicílio do requerido ou requeridos, arrolará desde logo as suas testemunhas - que não serão mais de três nos processos de valor até à alçada, nem mais de cinco nos que excedam tal valor - e concluirá por formular o pedido com toda a precisão.
+Art. 8.º O autor exporá na petição inicial a sua pretensão com clara indicação do nome e domicílio do requerido ou requeridos, arrolará desde logo as suas testemunhas - que não serão mais de três nos processos de valor até à alçada, nem mais de cinco nos que excedam tal valor - e concluirá por formular o pedido com toda a precisão.
 
 O pedido pode ser deduzido sem dependência de artigos e a mesma forma podem revestir a contestação e a resposta.
 
@@ -135,7 +167,7 @@ O pedido pode ser deduzido sem dependência de artigos e a mesma forma podem rev
 
 ...
 
-###### Art. 18.º No julgamento dos processos de valor superior a 10000$00 a comissão arbitral deliberará sobre a matéria de facto em seguida ao que o presidente ditará para a acta o resultado da deliberação e a sentença que, com base no deliberado, proferir.
+Art. 18.º No julgamento dos processos de valor superior a 10000$00 a comissão arbitral deliberará sobre a matéria de facto em seguida ao que o presidente ditará para a acta o resultado da deliberação e a sentença que, com base no deliberado, proferir.
 
 § 1.º Se os demandados forem dois ou mais e houver por parte deles indicação de dois ou mais vogais, os que devem intervir no julgamento serão, na falta de acordo, designados por sorteio.
 
@@ -143,7 +175,7 @@ O pedido pode ser deduzido sem dependência de artigos e a mesma forma podem rev
 
 ...
 
-###### Art. 21.º As notificações poderão efectuar-se por ofício precatório, por mandado ou por via postal com aviso de recepção, devendo sempre entregar-se ao interessado nota sucinta do conteúdo do despacho ou da sentença que a motive, ou, quando a diligência se destine a obter a comparência da parte ou de qualquer outra pessoa, indicação do dia, hora e local em que o chamado deverá comparecer.
+Art. 21.º As notificações poderão efectuar-se por ofício precatório, por mandado ou por via postal com aviso de recepção, devendo sempre entregar-se ao interessado nota sucinta do conteúdo do despacho ou da sentença que a motive, ou, quando a diligência se destine a obter a comparência da parte ou de qualquer outra pessoa, indicação do dia, hora e local em que o chamado deverá comparecer.
 
 Se antes, porém, de iniciada a diligência por algum daqueles meios o notificado comparecer na secretaria da comissão arbitral será notificado por termo no processo.
 
@@ -151,39 +183,39 @@ Se antes, porém, de iniciada a diligência por algum daqueles meios o notificad
 
 § 2.º Quando se notificarem despachos ou sentenças será entregue ao notificado cópia da decisão e fundamentos desta, se a decisão for susceptível de recurso e o notificado o requerer.
 
-###### Art. 25.º Das decisões das comissões arbitrais proferidas nos processos em que as responsabilidades declaradas e liquidadas excedam 10000$00 cabe recurso para o tribunal da Relação do respectivo distrito judicial.
+Art. 25.º Das decisões das comissões arbitrais proferidas nos processos em que as responsabilidades declaradas e liquidadas excedam 10000$00 cabe recurso para o tribunal da Relação do respectivo distrito judicial.
 
-###### Art. 2.º São aditados ao mesmo decreto-lei os artigos seguintes:
+Art. 2.º São aditados ao mesmo decreto-lei os artigos seguintes:
 
-###### Art. 31.º O réu que, tendo sido ou devendo considerar-se regularmente citado, não contestar será logo condenado no pedido, devendo, no entanto, observar-se o que dispõe o artigo 784.º do Código de Processo Civil, excepto no que respeita aos incapazes e às pessoas morais, que ficam sujeitos à regra geral.
+Art. 31.º O réu que, tendo sido ou devendo considerar-se regularmente citado, não contestar será logo condenado no pedido, devendo, no entanto, observar-se o que dispõe o artigo 784.º do Código de Processo Civil, excepto no que respeita aos incapazes e às pessoas morais, que ficam sujeitos à regra geral.
 
 Havendo contestação será marcado dia para a audiência de discussão e julgamento, a que se aplicarão as disposições relativas ao processo sumaríssimo.
 
-###### Art. 32.º Se o réu, tendo contestado, não comparecer na audiência nem se fizer representar, será condenado no pedido, a não ser que justifique a falta, tenha provado por documento suficiente que a obrigação não existe ou seja uma pessoa averiguadamente pobre ou indigente.
+Art. 32.º Se o réu, tendo contestado, não comparecer na audiência nem se fizer representar, será condenado no pedido, a não ser que justifique a falta, tenha provado por documento suficiente que a obrigação não existe ou seja uma pessoa averiguadamente pobre ou indigente.
 
 Se houver mais do que um réu e nenhum comparecer nem se fizer representar, serão todos condenados solidàriamente desde que, quanto a todos, se verifiquem aquelas circunstâncias. Mas se houver mais do que um réu e só algum, ou alguns, comparecerem ou se fizerem representar, será julgada a causa de harmonia com o disposto na segunda parte do artigo 31.º, devendo, nesse caso, o réu ou réus que tiverem faltado sem justificação ser solidàriamente condenados com os vencidos.
 
 § único. Serão sempre excluídos da solidariedade os pobres e os indigentes, mesmo quando na acção não tenha sido demandada a câmara municipal do domicílio de socorro.
 
-###### Art. 33.º Se a parte não tiver constituído mandatários, mas residir na sede da comissão arbitral ou aí tiver escolhido domicílio para receber as notificações, ser-lhe-ão estas feitas nos termos estabelecidos no artigo 21.º
+Art. 33.º Se a parte não tiver constituído mandatários, mas residir na sede da comissão arbitral ou aí tiver escolhido domicílio para receber as notificações, ser-lhe-ão estas feitas nos termos estabelecidos no artigo 21.º
 
 Se não constituir mandatário, não residir na sede da comissão arbitral nem aí tiver escolhido domicílio, não se efectuam as notificações: as decisões consideram-se publicadas logo que o processo dê entrada na secretaria, ou, quando se trate de despacho lançado em requerimento avulso, logo que o despacho nela dê entrada. Nos casos referidos no n.º 3.º do artigo 229.º do Código de Processo Civil a notificação considera-se feita na data em que se verifique o facto determinante da notificação.
 
 Não se aplicará o disposto neste artigo quando lei exija expressamente a notificação pessoal, nem quando a notificação se destine a chamar a parte para a prática de acto pessoal.
 
-###### Art. 34.º Não se fará registo do teor das sentenças proferidas nas comissões arbitrais. Mas registar-se-ão em livro especial: a data da decisão; os nomes e moradas dos autores; os nomes e moradas das pessoas declaradas responsáveis ou isentas de responsabilidade; o montante das quantias a pagar por cada um dos responsáveis; a data da sentença e a da remessa ao tribunal da execução; a notícia de ter sido instaurada sem proveito a referida execução ou a menção de quem fez o pagamento do devido.
+Art. 34.º Não se fará registo do teor das sentenças proferidas nas comissões arbitrais. Mas registar-se-ão em livro especial: a data da decisão; os nomes e moradas dos autores; os nomes e moradas das pessoas declaradas responsáveis ou isentas de responsabilidade; o montante das quantias a pagar por cada um dos responsáveis; a data da sentença e a da remessa ao tribunal da execução; a notícia de ter sido instaurada sem proveito a referida execução ou a menção de quem fez o pagamento do devido.
 
-###### Art. 35.º Serão arquivados sem dependência de mais formalidades:
+Art. 35.º Serão arquivados sem dependência de mais formalidades:
 
 a) Os processos que há mais de cinco anos se encontrarem parados por inércia das partes;
 
 b) Os processos que correrem com pedido igual ou inferior a 100$00 e aqueles donde conste que a assistência foi prestada há mais de dez anos, com excepção, em qualquer destes dois casos, dos instaurados contra pessoas ou entidades que, em virtude da natureza lucrativa da sua actividade ou da sua condição oficial ou social, se devam normalmente considerar solventes.
 
-###### Art. 36.º Serão inutilizados anualmente os processos que se encontrem no arquivo há seis anos ou mais.
+Art. 36.º Serão inutilizados anualmente os processos que se encontrem no arquivo há seis anos ou mais.
 
 § único. As certidões destinadas a provar, com relação a tais processos, qualquer dos factos indicados no artigo 34.º serão extraídas do livro de registo a que esse mesmo artigo se refere.
 
-###### Art. 37.º O despacho em que for designado o dia do julgamento nos tribunais comuns ou especiais, com motivo em acidentes de viação ou de trabalho, será sempre oficiosamente notificado ao Hospital ou hospitais que tiverem tratado as vítimas dos mesmos acidentes, podendo o pagamento dos encargos da assistência hospitalar ser reclamado no processo até ao julgamento.
+Art. 37.º O despacho em que for designado o dia do julgamento nos tribunais comuns ou especiais, com motivo em acidentes de viação ou de trabalho, será sempre oficiosamente notificado ao Hospital ou hospitais que tiverem tratado as vítimas dos mesmos acidentes, podendo o pagamento dos encargos da assistência hospitalar ser reclamado no processo até ao julgamento.
 
 Na decisão final a proferir nesses processos o réu ou réus condenados serão sempre declarados responsáveis pelo pagamento, a efectuar por inteiro, dos encargos resultantes da assistência hospitalar, qualquer que seja o valor de outras quantias a pagar por força da condenação.
 
@@ -193,8 +225,8 @@ Se, no entanto, o exigir ou o justificar a situação económica do réu, podar�
 
 § 2.º A falta de reclamação do pagamento dos encargos de assistência, nos termos do disposto no corpo deste artigo, não extingue o direito de reclamar o dito pagamento perante as comissões arbitrais em qualquer tempo antes de consumada a prescrição.
 
-###### Art. 38.º Os presidentes das comissões arbitrais de Lisboa e Porto poderão dispor em cada mês, sem necessidade de autorização, para despesas eventuais a efectuar por exigência do serviço, respectivamente, de 2500$00 e 1000$00, a sair da receita produzida por cada uma das mesmas comissões, nos termos do § 1.º do artigo 5.º Destas despesas dará contas documentadas o relatório anual de cada uma das mesmas comissões.
+Art. 38.º Os presidentes das comissões arbitrais de Lisboa e Porto poderão dispor em cada mês, sem necessidade de autorização, para despesas eventuais a efectuar por exigência do serviço, respectivamente, de 2500$00 e 1000$00, a sair da receita produzida por cada uma das mesmas comissões, nos termos do § 1.º do artigo 5.º Destas despesas dará contas documentadas o relatório anual de cada uma das mesmas comissões.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

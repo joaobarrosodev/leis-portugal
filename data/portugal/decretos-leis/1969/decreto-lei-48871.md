@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/02/04200/01660195.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e7f23cdd0b9a45f348b2fcc6d2de8f52e8a4c1de2db3a001200dd247d4296af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dff9ff5cd7ceffc6c86c3c8b65d6759dd9205ed4a45f65421a6c828e61d867d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empreitada de Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:218893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411330:por
+  label: "Reduzido para cento e oitenta dias o prazo de um ano fixado no nº 1 do art. 173º pelo DEC LEI.157/74.19.04.1974.MOP,\
+    \ DG.IS [92] de 19.04.1974\074\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1974-411330
+  date: '1974-04-19'
+- type: amended_by
+  target: pt:dre:276870:por
+  label: Alargado às instituições de previdência, definidas na al. a) da base III da Lei 2115 de 18-Jun de 1962, o âmbito
+    de aplicação do regime aprovado pelo presente diploma pelo(a) Portaria n.º 649/77 - Diário da República n.º 240/1977,
+    Série I de 1977-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1977-276870
+  date: '1977-10-17'
+- type: amended_by
+  target: pt:dre:471321:por
+  label: Alterados os arts. 6.º, 39.º, 66.º, 92.º, 160.º, 187.º e 203.º, e aditado o art. 173.º pelo DEC LEI.232/80.1980.07.16.MHOP,
+    DR.IS [162]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1980-471321
+  date: '1980-07-16'
+- type: corrected_by
+  target: pt:dre:201255:por
+  label: Rectificado pela DECL.DD805.1969.04.30.PC, DG.IS [110] de 09/Mai/1969
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1969-201255
+  date: '1969-04-30'
+- type: repealed_by
+  target: pt:dre:236080:por
+  label: "Revogado o art. 173º pelo DEC LEI.781/74.31.12.1974.MESA, DG.IS [303-2ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/781-1974-236080
+  date: '1974-12-31'
+- type: repealed_by
+  target: pt:dre:626600:por
+  label: "Revogado (novamente) o artigo 173.º pelo DEC LEI.273-B/75.03.06.1975.MESA, DG.IS [127]Supl de 03.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-b-1975-626600
+  date: '1975-06-03'
+- type: repealed_by
+  target: pt:dre:218893:por
+  label: "Revogado pelo DEC LEI.235/86.1986.08.18.MOPTC, DR.IS [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1986-218893
+  date: '1986-08-18'
 article_structure:
   article_count: 0
   section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:30Z'
   warnings: []
   errors: []
 ---
@@ -2068,9 +2108,9 @@ O presente diploma entra em vigor no dia 1 de Junho de 1969 e só será aplicáv
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 8 de Fevereiro de 1969.**
+Promulgado em 8 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

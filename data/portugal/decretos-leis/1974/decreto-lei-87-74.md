@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05400/03150316.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1974-412643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10728e2fcf13c8bdadcc680d5077f1380107a53a07675eff9ad17d72d059455f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b5ad4261d38a154df10839efd7b8d9b7af390a8b7a3cfb4bb6dcdb333ad341b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Divulgação Cultural
+- Instituto de ALTA Cultura
+- Instituto de Cultura Portuguesa
+- Ministro da Educação Nacional
+- Ministro do Ultramar
+- Ministro dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS [115] de 16.06.2011,\
+    \ nos termos doseu art. 1.º\0.º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:04Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +111,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Podem ser criados, para desenvolverem a sua actividade em países estrangeiros, institutos de cultura portuguesa destinados a promover, incrementar e auxiliar estudos relativos à língua, literatura, história, artes, geografia, ciências sociais e outros ramos de cultura nacional.
+Artigo 1.º - 1. Podem ser criados, para desenvolverem a sua actividade em países estrangeiros, institutos de cultura portuguesa destinados a promover, incrementar e auxiliar estudos relativos à língua, literatura, história, artes, geografia, ciências sociais e outros ramos de cultura nacional.
 
 2. Consideram-se abrangidos por este diploma, na parte aplicável, os centros culturais, salas de Portugal ou quaisquer outras instituições que, com essas ou outras designações, visem as finalidades indicadas no presente artigo.
 
@@ -104,11 +119,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os institutos previstos neste diploma poderão ser criados por iniciativa oficial ou particular e ter sede em território nacional ou estrangeiro.
 
-###### Art. 2.º - 1. As competências dos Ministros dos Negócios Estrangeiros e da Educação Nacional, definidas neste diploma, não prejudicam o que se encontra disposto quanto aos institutos ou centros portugueses existentes, dependentes de outros departamentos, nomeadamente do Ministério do Ultramar ou da Secretaria de Estado da Informação e Turismo.
+Art. 2.º - 1. As competências dos Ministros dos Negócios Estrangeiros e da Educação Nacional, definidas neste diploma, não prejudicam o que se encontra disposto quanto aos institutos ou centros portugueses existentes, dependentes de outros departamentos, nomeadamente do Ministério do Ultramar ou da Secretaria de Estado da Informação e Turismo.
 
 2. A orientação e coordenação da actividade dos institutos de cultura portuguesa no contexto geral da política externa portuguesa depende do Ministério dos Negócios Estrangeiros.
 
-###### Art. 3.º Para o desempenho das funções que lhes são atribuídas pelo artigo 1.º, compete em especial aos institutos de cultura portuguesa no estrangeiro:
+Art. 3.º Para o desempenho das funções que lhes são atribuídas pelo artigo 1.º, compete em especial aos institutos de cultura portuguesa no estrangeiro:
 
 a) Fomentar o conhecimento e difusão local da língua e cultura portuguesas;
 
@@ -122,29 +137,29 @@ e) Promover ou auxiliar o levantamento e identificação dos vestígios históri
 
 f) Promover a publicação local de traduções de obras portuguesas e de trabalhos sobre a língua, cultura ou história nacionais.
 
-###### Art. 4.º - 1. Os institutos de cultura portuguesa organizarão, sempre que possível, cursos de ensino da língua portuguesa destinados a nacionais, a luso-descendentes e a estrangeiros.
+Art. 4.º - 1. Os institutos de cultura portuguesa organizarão, sempre que possível, cursos de ensino da língua portuguesa destinados a nacionais, a luso-descendentes e a estrangeiros.
 
 2. Nos mesmos institutos ou suas delegações, e com o possível apoio em meios áudio-visuais, serão constituídas bibliotecas de livros portugueses ou em português, com uma secção relativa à educação pré-escolar e básica.
 
-###### Art. 5.º Os directores dos institutos serão nomeados por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação Nacional, devendo a escolha recair, sempre que possível, no conselheiro ou adido cultural da Embaixada de Portugal ou no leitor de português prestando serviço em Universidade localizada na cidade sede do instituto.
+Art. 5.º Os directores dos institutos serão nomeados por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação Nacional, devendo a escolha recair, sempre que possível, no conselheiro ou adido cultural da Embaixada de Portugal ou no leitor de português prestando serviço em Universidade localizada na cidade sede do instituto.
 
-###### Art. 6.º - 1. Os institutos de cultura portuguesa são serviços externos do Instituto de Alta Cultura, ao qual compete elaborar os respectivos planos e programas de acção cultural.
+Art. 6.º - 1. Os institutos de cultura portuguesa são serviços externos do Instituto de Alta Cultura, ao qual compete elaborar os respectivos planos e programas de acção cultural.
 
 2. Deverão estes institutos assegurar a necessária colaboração nas iniciativas ou actividades que se insiram simultaneamente na esfera de atribuições do Instituto Luso-Brasileiro de Cultura, quando este for criado.
 
-###### Art. 7.º A criação de cada instituto será feita por decreto referendado pelos Ministros das Finanças, dos Negócios Estrangeiros e da Educação Nacional, do qual constarão o seu regulamento, respectivo quadro de pessoal, a definição das suas finalidades, condições de funcionamento e a indicação do modo de prover ao financiamento das suas actividades.
+Art. 7.º A criação de cada instituto será feita por decreto referendado pelos Ministros das Finanças, dos Negócios Estrangeiros e da Educação Nacional, do qual constarão o seu regulamento, respectivo quadro de pessoal, a definição das suas finalidades, condições de funcionamento e a indicação do modo de prover ao financiamento das suas actividades.
 
-###### Art. 8.º - 1. Poderão ser criadas, por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação Nacional, delegações em território português ou estrangeiro dos institutos a constituir ao abrigo do presente decreto-lei.
+Art. 8.º - 1. Poderão ser criadas, por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação Nacional, delegações em território português ou estrangeiro dos institutos a constituir ao abrigo do presente decreto-lei.
 
 2. O despacho a que se refere o número anterior competirá também ao Ministro do Ultramar, quando se trate de delegações a criar em Estados ou províncias ultramarinas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Manuel de Medeiros d'Espiney Patrício - Baltasar Leite Rebelo de Sousa - José Veiga Simão.
 
-**Promulgado em 20 de Fevereiro de 1974.**
+Promulgado em 20 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.
 

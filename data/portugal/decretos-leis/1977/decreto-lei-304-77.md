@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1977-251403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c27aba308e6fc0f4a6ef8117a4f63a7a09c242b73e93032cace87e159b7dd13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7411abd89871ea742208358140e7f7921ebdc4e4c45c427ae61e09ee5de98301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Comparticipação do Estado
+- Saneamento Básico
+relationships:
+- type: cites
+  target: pt:dre:225838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:39Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +109,16 @@ Assim, enquanto se não publica legislação conforme as novas linhas programát
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o seguinte:
 
-###### Artigo 1.º Fica suspensa a aplicação do artigo 13 do [Decreto-Lei n.º 158/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838), de 13 de Abril.
+Artigo 1.º Fica suspensa a aplicação do artigo 13 do [Decreto-Lei n.º 158/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838), de 13 de Abril.
 
-###### Art. 2.º - 1. Enquanto não for publicada nova legislação, manter-se-ão em vigor, na parte aplicável, as disposições do [Decreto-Lei n.º 31674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31674-1941-321327), de 22 de Novembro de 1941.
+Art. 2.º - 1. Enquanto não for publicada nova legislação, manter-se-ão em vigor, na parte aplicável, as disposições do [Decreto-Lei n.º 31674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31674-1941-321327), de 22 de Novembro de 1941.
 
 2. Os regulamentos já aprovados e publicados em conformidade com o artigo 13.º do [Decreto-Lei n.º 158/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838) manter-se-ão em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - João Orlindo de Almeida Pina.
 
-**Promulgado em 19 de Julho de 1977.**
+Promulgado em 19 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

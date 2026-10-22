@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29000/26722672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1978-325171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b857cf051bcde7b3542b63a7148c61bf38ef2b787e661c686eca5087a2f8e2e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ffac6885c36f049581387ad868a416a32fe38eb7984d9f70b055d62b6a9b77b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação e Cultura
+- Pessoal Dirigente
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:34Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +103,7 @@ E julgando-se conveniente estabelecer a comunicabilidade do pessoal desse quadro
 
 O Governo decreta, nos termos da alínea a) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - Os cargos de subdirector-geral, director de serviços, chefe de divisão e outros que lhes vierem a ser equiparados para efeitos de chefia do quadro do pessoal dirigente dos órgãos e serviços centrais do Ministério da Educação e Cultura e dos quadros dos órgãos e serviços deles dependentes passam, de futuro, a ser exercidos em comissão de três anos, renovável por períodos de igual duração, mediante proposta dos respectivos directores-gerais ou equiparados.
+Artigo único - 1 - Os cargos de subdirector-geral, director de serviços, chefe de divisão e outros que lhes vierem a ser equiparados para efeitos de chefia do quadro do pessoal dirigente dos órgãos e serviços centrais do Ministério da Educação e Cultura e dos quadros dos órgãos e serviços deles dependentes passam, de futuro, a ser exercidos em comissão de três anos, renovável por períodos de igual duração, mediante proposta dos respectivos directores-gerais ou equiparados.
 
 2 - Se a nomeação recair em funcionário público, o provimento é feito em regime de comissão de serviço, sem que haja lugar a abertura de vaga nos quadros e lugares de origem.
 
@@ -103,8 +111,8 @@ O Governo decreta, nos termos da alínea a) do artigo 202.º da Constituição, 
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 4 de Dezembro de 1978.**
+Promulgado em 4 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/26600/13851386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-1974-465421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb0b633d566085f91f43f49945ab5095a7aaf03295f463ffdeeab8018cd0bc68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e23a74b6b96ad3c78745f3fff43a82bb359199dca1f4f446bbf780930ae2ffb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Depósitos
+- Câmara Municipal
+- Companhia Carris de Ferro de Lisboa
+- Empréstimo
+- Financiamento
+- Lisboa
+- Metropolitano de Lisboa
+- Porto
+- Secretaria de Estado dos Transportes e Comunicações
+- Secretário de Estado dos Transportes e Comunicações
+- Serviço de Transportes Colectivos do Porto
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:40Z'
   warnings: []
   errors: []
 ---
@@ -107,28 +124,28 @@ Concessão de autorização à Caixa Geral de Depósitos para efeitos de emprés
 
 Nestes termos, usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a Caixa Geral de Depósitos a conceder às Câmaras Municipais de Lisboa e do Porto empréstimos totalizando 341000 contos, à taxa de juro de 8%, pelo prazo de dois anos, destinados exclusivamente à cobertura dos deficits de tesouraria das empresas de transportes colectivos Metropolitano de Lisboa, S. A. R. L., Companhia Carris de Ferro de Lisboa, S. A. R. L., e Serviço de Transportes Colectivos do Porto.
+Artigo 1.º - 1. É autorizada a Caixa Geral de Depósitos a conceder às Câmaras Municipais de Lisboa e do Porto empréstimos totalizando 341000 contos, à taxa de juro de 8%, pelo prazo de dois anos, destinados exclusivamente à cobertura dos deficits de tesouraria das empresas de transportes colectivos Metropolitano de Lisboa, S. A. R. L., Companhia Carris de Ferro de Lisboa, S. A. R. L., e Serviço de Transportes Colectivos do Porto.
 
 2. Os empréstimos a que se refere o número anterior distribuir-se-ão com o escalonamento a seguir indicado:
 
 À Câmara Municipal de Lisboa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/26600/13851386.pdf))](https://files.diariodarepublica.pt/1s/1974/11/26600/13851386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/26600/13851386.pdf)
 
 À Câmara Municipal do Porto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/26600/13851386.pdf))](https://files.diariodarepublica.pt/1s/1974/11/26600/13851386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/26600/13851386.pdf)
 
-###### Art. 2.º É autorizado o Secretário de Estado dos Transportes e Comunicações a aumentar em 25% o tarifário das empresas referidas no artigo anterior.
+Art. 2.º É autorizado o Secretário de Estado dos Transportes e Comunicações a aumentar em 25% o tarifário das empresas referidas no artigo anterior.
 
-###### Art. 3.º A Secretaria de Estado dos Transportes e Comunicações, em colaboração com as Câmaras Municipais e as empresas a que se referem os artigos anteriores, apresentará a Conselho de Ministros, no prazo de cento e oitenta dias, a contar da data de entrada em vigor do presente diploma legal, uma proposta de gestão, compreendendo uma programação económico-financeira do Metropolitano de Lisboa, da Companhia Carris de Ferro de Lisboa e do Serviço de Transportes Colectivos do Porto, com vista a permitir a tomada de decisões nos campos técnico, económico e financeiro ou outros que se mostrem necessários, de modo a acelerar a normal prestação de serviços públicos que lhes incumbe e condições de exploração adequadas.
+Art. 3.º A Secretaria de Estado dos Transportes e Comunicações, em colaboração com as Câmaras Municipais e as empresas a que se referem os artigos anteriores, apresentará a Conselho de Ministros, no prazo de cento e oitenta dias, a contar da data de entrada em vigor do presente diploma legal, uma proposta de gestão, compreendendo uma programação económico-financeira do Metropolitano de Lisboa, da Companhia Carris de Ferro de Lisboa e do Serviço de Transportes Colectivos do Porto, com vista a permitir a tomada de decisões nos campos técnico, económico e financeiro ou outros que se mostrem necessários, de modo a acelerar a normal prestação de serviços públicos que lhes incumbe e condições de exploração adequadas.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 7 de Novembro de 1974.**
+Promulgado em 7 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

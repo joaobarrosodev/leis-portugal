@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12800/10051006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1978-294731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 419970dcfdea4164886a337b0e0d0334f1afe01a6eb40f01890a0d3a4dccfafd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b8bd62711d38b45b1a5dda425de7bad1b429e7e0f5c9f6b85cd43ce48a25492
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Seguradora
+- Cobrança de Dívidas
+- Companhia de Seguros
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Inspecção de Seguros
+- Instituto Nacional de Seguros
+- Pagamento
+- Receita Própria
+- Receita Pública
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:607135:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389459:por
+  label: "Dada nova redacção ao art. 2º pelo DEC LEI.63/81.03.04.1981.MFP, DR.IS [78] de 03.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-1981-389459
+  date: '1981-04-03'
+- type: cites
+  target: pt:dre:290413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448542:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:607135:por
+  label: "Revogado o presente diploma, com a redacção que lhe foi conferida no Dec Lei 63/81 de 03-Abr, pelo DEC LEI.101/82.08.04.1982.MFP,\
+    \ DR.IS [82] de 08.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-1982-607135
+  date: '1982-04-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:01Z'
   warnings: []
   errors: []
 ---
@@ -99,24 +129,24 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A taxa a favor do Instituto Nacional de Seguros a que se refere a [Lei n.º 5/78](https://diariodarepublica.pt/dr/detalhe/lei/5-1978-448542), de 6 de Fevereiro, deverá ser liquidada por intermédio da Inspecção de Seguros, conjuntamente com a devida ao Estado nos termos da mencionada lei e do artigo 21.º, n.º 3, do [Decreto n.º 17555](https://diariodarepublica.pt/dr/detalhe/decreto/17555-1929-290413), de 5 de Novembro de 1929, na redacção que lhe foi dada pela referida lei, observando-se acerca dos actos e formalidades necessários para tal efeito o preceituado nos artigos 27.º e 28.º daquele decreto, com as alterações restantes de disposições e determinações ulteriores aplicáveis.
+Artigo 1.º A taxa a favor do Instituto Nacional de Seguros a que se refere a [Lei n.º 5/78](https://diariodarepublica.pt/dr/detalhe/lei/5-1978-448542), de 6 de Fevereiro, deverá ser liquidada por intermédio da Inspecção de Seguros, conjuntamente com a devida ao Estado nos termos da mencionada lei e do artigo 21.º, n.º 3, do [Decreto n.º 17555](https://diariodarepublica.pt/dr/detalhe/decreto/17555-1929-290413), de 5 de Novembro de 1929, na redacção que lhe foi dada pela referida lei, observando-se acerca dos actos e formalidades necessários para tal efeito o preceituado nos artigos 27.º e 28.º daquele decreto, com as alterações restantes de disposições e determinações ulteriores aplicáveis.
 
-###### Art. 2.º - 1 - O pagamento das taxas a favor do Estado e do Instituto Nacional de Seguros a que se refere o artigo antecedente será efectuado através da mesma guia, de modelo especial a aprovar pela Direcção-Geral do Tesouro, especificando-se, no entanto, para efeitos de depósito nos cofres públicos, que 2% se destinam a receita geral do Estado e o restante ao Instituto Nacional de Seguros.
+Art. 2.º - 1 - O pagamento das taxas a favor do Estado e do Instituto Nacional de Seguros a que se refere o artigo antecedente será efectuado através da mesma guia, de modelo especial a aprovar pela Direcção-Geral do Tesouro, especificando-se, no entanto, para efeitos de depósito nos cofres públicos, que 2% se destinam a receita geral do Estado e o restante ao Instituto Nacional de Seguros.
 
 2 - Não sendo a guia paga dentro do prazo legal, a parte devida ao Instituto Nacional de Seguros vence juros de mora analogamente ao que se encontrar previsto em relação à parte do Estado.
 
 3 - A receita destinada ao Instituto Nacional de Seguros será escriturada em contas de ordem no orçamento das receitas do Estado.
 
-###### Art. 3.º É fixada em 0,75% a taxa a favor do Instituto Nacional de Seguros, relativamente aos anos de 1977 e 1978, para observância das disposições dos artigos 2.º e 6.º da [Lei n.º 5/78](https://diariodarepublica.pt/dr/detalhe/lei/5-1978-448542).
+Art. 3.º É fixada em 0,75% a taxa a favor do Instituto Nacional de Seguros, relativamente aos anos de 1977 e 1978, para observância das disposições dos artigos 2.º e 6.º da [Lei n.º 5/78](https://diariodarepublica.pt/dr/detalhe/lei/5-1978-448542).
 
-###### Art. 4.º - 1 - Para satisfação do que se dispõe no artigo anterior, o Ministério das Finanças e do Plano deverá entregar ao Instituto Nacional de Seguros o montante correspondente à diferença de taxa de 0,5% que por força do novo regime legal se considera as empresas de seguros terem pago a mais ao Estado com referência ao ano de 1977.
+Art. 4.º - 1 - Para satisfação do que se dispõe no artigo anterior, o Ministério das Finanças e do Plano deverá entregar ao Instituto Nacional de Seguros o montante correspondente à diferença de taxa de 0,5% que por força do novo regime legal se considera as empresas de seguros terem pago a mais ao Estado com referência ao ano de 1977.
 
 2 - Em relação a 1977, as empresas de seguros pagarão ao Instituto Nacional de Seguros, no prazo de sessenta dias, a contar da entrada em vigor do presente diploma, o montante correspondente a 0,25% da receita processada, deduzido dos pagamentos respeitantes a quotizações efectuadas ao Instituto Nacional de Seguros relativamente àquele ano. Para tal efeito, deverá o Instituto Nacional de Seguros enviar notas destes pagamentos relativamente a cada empresa à Inspecção de Seguros, dentro dos primeiros quinze dias daquele prazo, devendo a Inspecção de Seguros, por seu turno, efectuar a expedição das guias nos quinze dias seguintes.
 
 Visto e aprovado em Conselho de Ministros. - Mário Firmino Miguel. - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.

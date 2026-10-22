@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13600/16891690.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1982-395910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd02d3f5a8204331ac06b3b1b86d012d31742ebf196154be5b4b0dc30ae6b371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a78008f4cd1ce2b62085f2f74621e376827e451fb433f10de220afa97175a32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,35 @@ relationships:
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406158:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394506:por
+  label: Retificada a ficha técnica anexa pelo(a) Declaração - Diário da República n.º 155/1982, Série I de 1982-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394506
+  date: '1982-07-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:33Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +118,22 @@ Usando da autorização legislativa concedida ao Governo pelo artigo 7.º, n.º 
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 7.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Ministro de Estado e das Finanças e do Plano é autorizado, em nome e em representação do Estado Português, a contrair um empréstimo, no mercado de capitais da República Federal da Alemanha, no montante de 100 milhões de marcos da mesma República, representado por obrigações, e a proceder à correspondente emissão de títulos.
+Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 7.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Ministro de Estado e das Finanças e do Plano é autorizado, em nome e em representação do Estado Português, a contrair um empréstimo, no mercado de capitais da República Federal da Alemanha, no montante de 100 milhões de marcos da mesma República, representado por obrigações, e a proceder à correspondente emissão de títulos.
 
-###### Art. 2.º Ao abrigo da autorização concedida pelo artigo anterior, o Ministro de Estado e das Finanças e do Plano poderá celebrar, em nome e representação do Estado Português, um contrato de subscrição com o consórcio bancário que procederá à colocação da emissão, um contrato regulador dos termos e condições da operação com o mesmo consórcio e um contrato com o Westdeutsche Landesbank Girozentrale regulando as funções de agente pagador principal e de trustee, que serão desempenhadas por esta instituição bancária, assinar os títulos representativos da obrigação geral do Estado Português e das obrigações a entregar aos portadores, podendo, neste último caso, a assinatura ser substituída por simples reprodução mecânica e a praticar todos os actos decorrentes dos contratos anteriormente mencionados.
+Art. 2.º Ao abrigo da autorização concedida pelo artigo anterior, o Ministro de Estado e das Finanças e do Plano poderá celebrar, em nome e representação do Estado Português, um contrato de subscrição com o consórcio bancário que procederá à colocação da emissão, um contrato regulador dos termos e condições da operação com o mesmo consórcio e um contrato com o Westdeutsche Landesbank Girozentrale regulando as funções de agente pagador principal e de trustee, que serão desempenhadas por esta instituição bancária, assinar os títulos representativos da obrigação geral do Estado Português e das obrigações a entregar aos portadores, podendo, neste último caso, a assinatura ser substituída por simples reprodução mecânica e a praticar todos os actos decorrentes dos contratos anteriormente mencionados.
 
-###### Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes da ficha técnica publicada em anexo.
+Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes da ficha técnica publicada em anexo.
 
-###### Art. 4.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
+Art. 4.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
 
-###### Art. 5.º O serviço do empréstimo é cometido à Direcção-Geral do Tesouro.
+Art. 5.º O serviço do empréstimo é cometido à Direcção-Geral do Tesouro.
 
-###### Art. 6.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Junho de 1982.**
+Promulgado em 1 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

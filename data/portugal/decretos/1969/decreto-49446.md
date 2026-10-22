@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49446-1969-216479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25d32b50a9fbd1bd4eb00df20268a4381c7f406f426bf758b6a73e5f987f5529
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab57621d543390f863a7a8d294d86d28bb3d9fa04efb262333d6c2450abf923f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:409115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:53Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +117,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Das despesas e sua liquidação
 
-###### Artigo 1.º - 1. Às Direcções Provinciais e Direcções Regionais dos Serviços de Obras Públicas e Transportes de Angola e de Moçambique e às Repartições dos mesmos Serviços das províncias da Guiné, S. Tomé e Príncipe, Cabo Verde, Macau e Timor compete o pagamento de todas as despesas com obras e aquisições inerentes, devidamente autorizadas e realizadas sob sua responsabilidade, sejam quais forem as verbas por que tais pagamentos devam ser efectuados.
+Artigo 1.º - 1. Às Direcções Provinciais e Direcções Regionais dos Serviços de Obras Públicas e Transportes de Angola e de Moçambique e às Repartições dos mesmos Serviços das províncias da Guiné, S. Tomé e Príncipe, Cabo Verde, Macau e Timor compete o pagamento de todas as despesas com obras e aquisições inerentes, devidamente autorizadas e realizadas sob sua responsabilidade, sejam quais forem as verbas por que tais pagamentos devam ser efectuados.
 
 2. Consideram-se encargos da verba que suportar a despesa resultante de uma aquisição todas as despesas acessórias, incluindo fretes, embarques, seguros, despachos, prémios de transferência, publicação de anúncios para a abertura de concursos e outras despesas correlativas. Na hipótese de a verba ser insuficiente para comportar as despesas acessórias, poder-se-á, para pagamento destas utilizar as verbas para tal fim inscritas no orçamento geral da província.
 
 3. Constituem encargo de uma obra e a ela são inerentes: a conservação de máquinas e viaturas ao serviço da obra, os transportes, ajudas de custo, subsídios diários e de campo e todas as demais despesas que para a efectivação dessa obra se tenha de realizar, observando-se, quanto às despesas acessórias, o disposto na parte final do número anterior.
 
-###### Art. 2.º - 1. Para efeitos do disposto no artigo anterior, as Direcções e Repartições acima referidas requisitarão aos correspondentes serviços de Fazenda e contabilidade os adiantamentos de fundos necessários, de acordo com o estabelecido nos números seguintes.
+Art. 2.º - 1. Para efeitos do disposto no artigo anterior, as Direcções e Repartições acima referidas requisitarão aos correspondentes serviços de Fazenda e contabilidade os adiantamentos de fundos necessários, de acordo com o estabelecido nos números seguintes.
 
 2. As requisições de fundos serão enviadas, ordinàriamente, no último dia de cada mês aos serviços de Fazenda e contabilidade, que providenciarão no sentido de que a sua importância possa ser recebida pela entidade requisitante dentro dos seis dias seguintes.
 
@@ -125,7 +141,7 @@ Quando, no entanto, se verifiquem circunstâncias de reconhecido interesse públ
 
 8. As importâncias de tal resultantes darão entrada nos cofres da Fazenda como receita eventual do Estado, documentando as contas o recibo original da Fazenda, de que se solicitarão os duplicados precisos para servirem de justificativos nos processos que hajam de ser organizados.
 
-###### Art. 3.º - 1. Até sessenta dias depois do fim de cada mês deverão os serviços provinciais e regionais de obras públicas e transportes enviar aos correspondentes serviços de Fazenda e contabilidade os processos demonstrativos não só de todas as importâncias por aqueles recebidas dos cofres da Fazenda no mês a que a conta se referir, mas também de todas as despesas efectuadas e quantias entregues nos mesmos cofres para ajuste de contas ou outros fins.
+Art. 3.º - 1. Até sessenta dias depois do fim de cada mês deverão os serviços provinciais e regionais de obras públicas e transportes enviar aos correspondentes serviços de Fazenda e contabilidade os processos demonstrativos não só de todas as importâncias por aqueles recebidas dos cofres da Fazenda no mês a que a conta se referir, mas também de todas as despesas efectuadas e quantias entregues nos mesmos cofres para ajuste de contas ou outros fins.
 
 2. As importâncias recebidas serão documentadas pelos duplicados dos recibos passados aos serviços de Fazenda e contabilidade contra a entrega das quantias correspondentes; as despesas, pelos recibos comprovativos da sua realização; e as entregas, pelos recibos emitidos pelos serviços de Fazenda e contabilidade.
 
@@ -137,7 +153,7 @@ Quando, no entanto, se verifiquem circunstâncias de reconhecido interesse públ
 
 Do fundo permanente
 
-###### Art. 4.º - 1. Em poder de cada uma das direcções provinciais ou distritais e repartições provinciais dos serviços de obras públicas e transportes - e sob a responsabilidade dos respectivos directores ou chefes de repartição - haverá em depósito um fundo permanente, adiantado pelos serviços de Fazenda e contabilidade, destinado às aquisições e despesas de pequena importância ou a despesas diárias que tiverem de ser feitas.
+Art. 4.º - 1. Em poder de cada uma das direcções provinciais ou distritais e repartições provinciais dos serviços de obras públicas e transportes - e sob a responsabilidade dos respectivos directores ou chefes de repartição - haverá em depósito um fundo permanente, adiantado pelos serviços de Fazenda e contabilidade, destinado às aquisições e despesas de pequena importância ou a despesas diárias que tiverem de ser feitas.
 
 2. Quando se verifiquem atrasos na satisfação dos adiantamentos de fundos requisitados nos termos do artigo 2.º, poderão os fundos permanentes ser utilizados no pagamento de despesas com salários a que os fundos requisitados devessem ocorrer.
 
@@ -153,7 +169,7 @@ Do fundo permanente
 
 Da contabilização e fiscalização dos fundos
 
-###### Art. 5.º - 1. Todos os fundos, de qualquer natureza ou proveniência, que hajam de ser entregues aos serviços de obras públicas e transportes serão depositados, no prazo de quarenta e oito horas, nos institutos de crédito ou no banco emissor, conforme a lei determinar, donde serão levantados por meio de cheques, precatórios ou mandados de levantamento, conforme a natureza dos depósitos.
+Art. 5.º - 1. Todos os fundos, de qualquer natureza ou proveniência, que hajam de ser entregues aos serviços de obras públicas e transportes serão depositados, no prazo de quarenta e oito horas, nos institutos de crédito ou no banco emissor, conforme a lei determinar, donde serão levantados por meio de cheques, precatórios ou mandados de levantamento, conforme a natureza dos depósitos.
 
 2. Nenhum depósito ou levantamento pode ter lugar sem a intervenção prévia da secção de contabilidade dos serviços de obras públicas e transportes e o visto do respectivo chefe.
 
@@ -165,7 +181,7 @@ Da contabilização e fiscalização dos fundos
 
 6. Das importâncias entregues, nos termos legais, aos pagadores ou, quando eles não existam, aos funcionários aos quais cumpra a efectivação dos pagamentos, serão estes obrigados a prestar contas diárias, ficando sempre depositado, no cofre de claviculários, o excedente dos fundos em seu poder até ao termo do prazo em que legalmente os pagamentos devam ser efectuados.
 
-###### Art. 6.º - 1. Os funcionários que tenham a seu cargo os pagamentos manterão obrigatòriamente em dia um livro-cofre a cujo débito serão levadas todas as importâncias por eles recebidas. No crédito escriturar-se-ão os pagamentos efectuados, em face das respectivas folhas ou facturas, com recibo passado em forma legal.
+Art. 6.º - 1. Os funcionários que tenham a seu cargo os pagamentos manterão obrigatòriamente em dia um livro-cofre a cujo débito serão levadas todas as importâncias por eles recebidas. No crédito escriturar-se-ão os pagamentos efectuados, em face das respectivas folhas ou facturas, com recibo passado em forma legal.
 
 2. Os lançamentos de débito serão feitos sòmente em face das guias de entrega dos fundos ou valores aos funcionários acima referidos, passadas pela secção de contabilidade, que as registará em livro próprio.
 
@@ -193,17 +209,17 @@ Em outros valores, segundo a sua natureza.
 
 4. Depois de conferido e visado pela respectiva secção de contabilidade, um exemplar de cada balancete será remetido, por protocolo, ao chefe de repartição dos serviços administrativos, director regional ou chefe de repartição dos serviços de obras públicas e transportes, para estes poderem conferir os cofres de que são claviculários e recolher neles os fundos e valores à responsabilidade do funcionário que tiver a seu cargo os pagamentos.
 
-###### Art. 7.º Nas secções de contabilidade haverá livros semelhantes ao referido no artigo anterior, que se destinam exclusivamente a definir a responsabilidade do funcionário encarregado dos pagamentos para com o director ou chefe de repartição dos serviços de obras públicas e transportes.
+Art. 7.º Nas secções de contabilidade haverá livros semelhantes ao referido no artigo anterior, que se destinam exclusivamente a definir a responsabilidade do funcionário encarregado dos pagamentos para com o director ou chefe de repartição dos serviços de obras públicas e transportes.
 
-###### Art. 8.º No primeiro dia útil de cada mês a secção de contabilidade dará balanço ao cofre do funcionário encarregado da pagadoria, do qual será lavrado termo em livro próprio, que será assinado por todos os claviculários.
+Art. 8.º No primeiro dia útil de cada mês a secção de contabilidade dará balanço ao cofre do funcionário encarregado da pagadoria, do qual será lavrado termo em livro próprio, que será assinado por todos os claviculários.
 
 Da conta especial
 
-###### Art. 9.º - 1. Os serviços públicos e as entidades autorizadas a fazer executar obras, aquisições ou quaisquer trabalhos por intermédio dos serviços de obras públicas e transportes depositarão directamente e conforme a lei determinar, nos institutos de crédito ou no banco emissor, na conta especial de depósito, à ordem do director ou chefe de repartição destes serviços, as respectivas importâncias.
+Art. 9.º - 1. Os serviços públicos e as entidades autorizadas a fazer executar obras, aquisições ou quaisquer trabalhos por intermédio dos serviços de obras públicas e transportes depositarão directamente e conforme a lei determinar, nos institutos de crédito ou no banco emissor, na conta especial de depósito, à ordem do director ou chefe de repartição destes serviços, as respectivas importâncias.
 
 2. Em face das competentes notas de crédito - e que serão sempre distribuídas à secção de contabilidade - tomarão os serviços de obras públicas e transportes conhecimento dos depósitos efectuados.
 
-###### Art. 10.º - 1. Para a conta especial referida no artigo anterior escriturar-se-ão, na secção de contabilidade, os seguintes livros:
+Art. 10.º - 1. Para a conta especial referida no artigo anterior escriturar-se-ão, na secção de contabilidade, os seguintes livros:
 
 a) Conta corrente com a conta especial de depósito;
 
@@ -223,19 +239,19 @@ b) No crédito:
 
 3) Os cheques ou vales de correio emitidos para devolução do saldo de cada conta individual, depois de terminada a obra, trabalho ou fornecimento geradores do depósito.
 
-###### Art. 11.º - 1. Os chefes das secções de contabilidade, logo que tenham conhecimento de haverem sido efectuados quaisquer dos depósitos a que se refere o artigo 9.º e logo após a sua escrituração nos livros referidos nas alíneas a) e b) do artigo 10.º, comunicarão o facto, por nota de serviço, aos departamentos dos serviços de obras públicas e transportes por onde devam correr as obras, trabalhos ou fornecimentos.
+Art. 11.º - 1. Os chefes das secções de contabilidade, logo que tenham conhecimento de haverem sido efectuados quaisquer dos depósitos a que se refere o artigo 9.º e logo após a sua escrituração nos livros referidos nas alíneas a) e b) do artigo 10.º, comunicarão o facto, por nota de serviço, aos departamentos dos serviços de obras públicas e transportes por onde devam correr as obras, trabalhos ou fornecimentos.
 
 2. Os pagamentos correspondentes serão efectuados contra requisições escritas dos mesmos departamentos - requisições que serão acompanhadas dos documentos de despesas a liquidar.
 
-###### Art. 12.º As importâncias entregues aos funcionários que tenham a seu cargo pagamentos serão lançadas a débito nas contas dos livros referidos nos artigos 6.º e 7.º e passam a estar confiadas àqueles funcionários, sob a responsabilidade dos respectivos directores ou chefes de repartição dos serviços de obras públicas e transportes.
+Art. 12.º As importâncias entregues aos funcionários que tenham a seu cargo pagamentos serão lançadas a débito nas contas dos livros referidos nos artigos 6.º e 7.º e passam a estar confiadas àqueles funcionários, sob a responsabilidade dos respectivos directores ou chefes de repartição dos serviços de obras públicas e transportes.
 
-###### Art. 13.º As secções de contabilidade são responsáveis pela conferência dos extractos das contas correntes enviadas periòdicamente pelos institutos de crédito ou pelo banco emissor. Em tais extractos deverá o chefe da secção de contabilidade fazer declaração de conformidade ou falta de conformidade com a escrita.
+Art. 13.º As secções de contabilidade são responsáveis pela conferência dos extractos das contas correntes enviadas periòdicamente pelos institutos de crédito ou pelo banco emissor. Em tais extractos deverá o chefe da secção de contabilidade fazer declaração de conformidade ou falta de conformidade com a escrita.
 
 Dos depósitos obrigatórios
 
-###### Art. 14.º Os depósitos obrigatórios serão constituídos mediante guias em duplicado, passadas pelas autoridades judiciais ou administrativas, pelos directores, chefes de serviço e chefes de repartição ou outras entidades oficiais competentes, e ainda por particulares, em virtude de leis especiais ou de anúncios publicados no Diário do Governo ou nos Boletins Oficiais que exijam a constituição dos depósitos.
+Art. 14.º Os depósitos obrigatórios serão constituídos mediante guias em duplicado, passadas pelas autoridades judiciais ou administrativas, pelos directores, chefes de serviço e chefes de repartição ou outras entidades oficiais competentes, e ainda por particulares, em virtude de leis especiais ou de anúncios publicados no Diário do Governo ou nos Boletins Oficiais que exijam a constituição dos depósitos.
 
-###### Art. 15.º - 1. As guias para constituição de depósitos obrigatórios deverão conter:
+Art. 15.º - 1. As guias para constituição de depósitos obrigatórios deverão conter:
 
 a) Nome do depositante e designação da qualidade em que vai efectuar o depósito;
 
@@ -261,7 +277,7 @@ e) Número e data do precatório de levantamento do depósito.
 
 3. As guias são registadas em livro próprio, conforme o modelo n.º 1 anexo.
 
-###### Art. 16.º - 1. Para a escrituração dos depósitos obrigatórios haverá, nas secções de contabilidade, dois livros:
+Art. 16.º - 1. Para a escrituração dos depósitos obrigatórios haverá, nas secções de contabilidade, dois livros:
 
 a) Conta corrente com os depósitos obrigatórios, conforme modelo n.º 2 anexo;
 
@@ -273,17 +289,17 @@ O primeiro destina-se à escrituração de todos os depósitos realizados e seu 
 
 3. No livro modelo n.º 3 abrir-se-á uma conta para cada credor dos depósitos, a débito da qual serão levadas as importâncias dos depósitos, mediante as respectivas guias com a nota de recebimento nelas exarada; e a crédito os levantamentos efectuados em face dos respectivos precatórios, depois de pagos.
 
-###### Art. 17.º Para registo dos precatórios expedidos haverá um livro, conforme modelo n.º 4 anexo.
+Art. 17.º Para registo dos precatórios expedidos haverá um livro, conforme modelo n.º 4 anexo.
 
-###### Art. 18.º Nos precatórios de levantamento declarar-se-á sempre o selo correspondente ao levantamento.
+Art. 18.º Nos precatórios de levantamento declarar-se-á sempre o selo correspondente ao levantamento.
 
-###### Art. 19.º A conferência das contas dos depósitos obrigatórios é da responsabilidade das secções de contabilidade e processar-se-á em termos análogos aos referidos no artigo 13.º
+Art. 19.º A conferência das contas dos depósitos obrigatórios é da responsabilidade das secções de contabilidade e processar-se-á em termos análogos aos referidos no artigo 13.º
 
 Das comissões de compras
 
-###### Art. 20.º Nas direcções e repartições provinciais de obras públicas e transportes, bem como nas direcções distritais, funcionarão comissões de compras, às quais compete a aquisição directa de todo o equipamento e materiais indispensáveis à execução de obras a cargo daqueles organismos e ao funcionamento dos respectivos serviços.
+Art. 20.º Nas direcções e repartições provinciais de obras públicas e transportes, bem como nas direcções distritais, funcionarão comissões de compras, às quais compete a aquisição directa de todo o equipamento e materiais indispensáveis à execução de obras a cargo daqueles organismos e ao funcionamento dos respectivos serviços.
 
-###### Art. 21.º - As comissões de compras serão constituídas por:
+Art. 21.º - As comissões de compras serão constituídas por:
 
 a) Nas direcções provinciais:
 
@@ -313,11 +329,11 @@ Chefe da secção de armazéns e compras.
 
 2. Quando a dispersão de serviços e trabalhos e a dificuldade de rápidas comunicações o justifiquem, poderá o governador da província de Cabo Verde, sempre que o julgue conveniente, criar comissões de compras junto das sedes das secções de obras públicas.
 
-###### Art. 22.º O funcionamento das comissões de compras será definido, em cada província, no regulamento a que se refere o artigo 37.º deste diploma.
+Art. 22.º O funcionamento das comissões de compras será definido, em cada província, no regulamento a que se refere o artigo 37.º deste diploma.
 
 Das secções de contabilidade
 
-###### Art. 23.º - 1. Os lugares de chefe das secções de contabilidade referidas nos artigos 9.º, 30.º e 40.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, serão preenchidos por funcionários de categoria imediatamente inferior dos serviços de Fazenda e contabilidade das províncias a que respeitem, nomeados em comissão ordinária de serviço.
+Art. 23.º - 1. Os lugares de chefe das secções de contabilidade referidas nos artigos 9.º, 30.º e 40.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, serão preenchidos por funcionários de categoria imediatamente inferior dos serviços de Fazenda e contabilidade das províncias a que respeitem, nomeados em comissão ordinária de serviço.
 
 2. As nomeações referidas no corpo do artigo serão feitas pelos respectivos governadores-gerais ou de província, sob proposta dos directores dos serviços de Fazenda e contabilidade competentes.
 
@@ -325,7 +341,7 @@ Das secções de contabilidade
 
 4. Os funcionários dos serviços de Fazenda e contabilidade nomeados em comissão ordinária ou destacados para prestar serviço nas secções de contabilidade dos serviços de obras públicas e transportes mantêm o direito ao recebimento de todas as remunerações acessórias (incluindo as percentagens referidas no artigo 1.º do [Decreto n.º 46849](https://diariodarepublica.pt/dr/detalhe/decreto/46849-1966-489517), de 29 de Janeiro de 1966) que são ou vierem a ser abonadas aos funcionários de igual categoria do seu quadro de origem.
 
-###### Art. 24.º Para efeitos do disposto no artigo anterior, os quadros de pessoal anexos ao [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, são aumentados das seguintes unidades:
+Art. 24.º Para efeitos do disposto no artigo anterior, os quadros de pessoal anexos ao [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, são aumentados das seguintes unidades:
 
 Pessoal em comissão:
 
@@ -361,15 +377,15 @@ Timor:
 
 1 primeiro-oficial.
 
-###### Art. 25.º Os directores provinciais e regionais e os chefes das repartições provinciais dos serviços de obras públicas e transportes providenciarão no sentido de colocar nas respectivas secções de contabilidade o pessoal dos quadros de obras públicas necessário à oportuna e eficiente execução do serviço a seu cargo.
+Art. 25.º Os directores provinciais e regionais e os chefes das repartições provinciais dos serviços de obras públicas e transportes providenciarão no sentido de colocar nas respectivas secções de contabilidade o pessoal dos quadros de obras públicas necessário à oportuna e eficiente execução do serviço a seu cargo.
 
-###### Art. 26.º - 1. Os funcionários a quem esteja cometida a chefia das secções de contabilidade são responsáveis para com os respectivos directores ou chefes de repartição pela regularidade e boa ordem de todo o serviço que, nos termos deste diploma e mais legislação ou regulamentação aplicável, lhes cumpra executar, ficando-lhes, bem como todos os funcionários de Fazenda seus auxiliares, subordinados disciplinarmente enquanto permaneçam nos serviços de obras públicas e transportes.
+Art. 26.º - 1. Os funcionários a quem esteja cometida a chefia das secções de contabilidade são responsáveis para com os respectivos directores ou chefes de repartição pela regularidade e boa ordem de todo o serviço que, nos termos deste diploma e mais legislação ou regulamentação aplicável, lhes cumpra executar, ficando-lhes, bem como todos os funcionários de Fazenda seus auxiliares, subordinados disciplinarmente enquanto permaneçam nos serviços de obras públicas e transportes.
 
 2. Anualmente, no prazo fixado no artigo 122.º do Estatuto do Funcionalismo Ultramarino, os directores e chefes de repartição provinciais dos serviços de obras públicas e transportes enviarão confidencialmente aos serviços de Fazenda e contabilidade competentes cópias das informações anuais que prestarem acerca dos funcionários referidos no corpo do artigo.
 
 Das atribuições e competência do pessoal
 
-###### Art. 27.º Para efeitos do que se dispõe no presente diploma e nos termos dos artigos 88.º, 90.º, 93.º e 95.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, compete, nomeadamente:
+Art. 27.º Para efeitos do que se dispõe no presente diploma e nos termos dos artigos 88.º, 90.º, 93.º e 95.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, compete, nomeadamente:
 
 a) Ao director dos serviços de obras públicas e transportes (Angola e Moçambique):
 
@@ -579,23 +595,23 @@ Aos duplicados das requisições de levantamento de depósitos juntar-se-ão os 
 
 Das responsabilidades
 
-###### Art. 28.º Nas direcções ou repartições provinciais dos serviços de obras públicas e transportes, bem como nas direcções regionais e distritais, haverá um cofre para guardar as fundos que não possam ser depositados no prazo fixado no artigo 5.º
+Art. 28.º Nas direcções ou repartições provinciais dos serviços de obras públicas e transportes, bem como nas direcções regionais e distritais, haverá um cofre para guardar as fundos que não possam ser depositados no prazo fixado no artigo 5.º
 
-###### Art. 29.º - 1. Os adjuntos administrativos, directores regionais e distritais e chefes de repartição provincial são responsáveis por quaisquer desvios de fundos ou sua aplicação ilegal por parte de qualquer agente dos respectivos serviços.
+Art. 29.º - 1. Os adjuntos administrativos, directores regionais e distritais e chefes de repartição provincial são responsáveis por quaisquer desvios de fundos ou sua aplicação ilegal por parte de qualquer agente dos respectivos serviços.
 
 2. São sub-rogados os direitos do Estado aos funcionários referidos no corpo do artigo, para o fim de se proceder contra os infractores perante os tribunais.
 
-###### Art. 30.º Os encarregados de direcção de trabalhos em qualquer localidade das províncias são responsáveis para com os respectivos directores provinciais ou distritais e chefes de repartição provincial pelos fundos que receberem para despesas das obras que dirigirem e pela sua ilegal aplicação; e da mesma forma o são os encarregados de efectuar os pagamentos pelos fundos que lhes sejam entregues para esse efeito, quando deixarem de efectuar os mesmos pagamentos em tempo devido e a quem de direito, cobrando os respectivos recibos.
+Art. 30.º Os encarregados de direcção de trabalhos em qualquer localidade das províncias são responsáveis para com os respectivos directores provinciais ou distritais e chefes de repartição provincial pelos fundos que receberem para despesas das obras que dirigirem e pela sua ilegal aplicação; e da mesma forma o são os encarregados de efectuar os pagamentos pelos fundos que lhes sejam entregues para esse efeito, quando deixarem de efectuar os mesmos pagamentos em tempo devido e a quem de direito, cobrando os respectivos recibos.
 
-###### Art. 31.º - 1. A responsabilidade pecuniária que possa caber aos adjuntos administrativos, directores regionais e distritais ou chefes de repartição provincial, nos termos do artigo 29.º, fica ressalvada - quanto aos fundos destinados à efectivação de quaisquer pagamentos que sejam por eles entregues aos funcionários que desempenhem funções de pagador e que a este dêem aplicação menos legal ou de que deixem de prestar as contas devidas -, desde que, tomadas estas ou passado o tempo indispensável para a sua prestação, dêem imediato conhecimento superior de qualquer irregularidade ou faltas verificadas.
+Art. 31.º - 1. A responsabilidade pecuniária que possa caber aos adjuntos administrativos, directores regionais e distritais ou chefes de repartição provincial, nos termos do artigo 29.º, fica ressalvada - quanto aos fundos destinados à efectivação de quaisquer pagamentos que sejam por eles entregues aos funcionários que desempenhem funções de pagador e que a este dêem aplicação menos legal ou de que deixem de prestar as contas devidas -, desde que, tomadas estas ou passado o tempo indispensável para a sua prestação, dêem imediato conhecimento superior de qualquer irregularidade ou faltas verificadas.
 
 2. Pelas irregularidades ou faltas responderá a caução que os pagadores ou agentes que tais funções desempenharem tenham prestado e os bens que possuírem; isto sem prejuízo da responsabilidade criminal que possa caber aos mesmos pagadores ou agentes, contra os quais se procederá pela forma estabelecida para os exactores de Fazenda encontrados em alcance, aos quais são equiparados para efeitos criminais.
 
 Disposições gerais
 
-###### Art. 32.º Nas direcções e repartições provinciais e nas direcções regionais e distritais dos serviços de obras públicas e transportes far-se-ão aos agentes cujos vencimentos sejam pagos pelas verbas de despesas gerais de obras públicas os descontos que constarem das suas guias de vencimentos ou de outros documentos expedidos por entidades oficiais competentes, nos precisos termos em que sejam determinados, e à importância dos mesmos descontos se dará entrada mensalmente nos cofres a que pertençam, até ao dia 5 de cada mês, por meio de guia em duplicado, acompanhada de uma relação nominal dos agentes que sofreram os descontos, proveniência destes e importância.
+Art. 32.º Nas direcções e repartições provinciais e nas direcções regionais e distritais dos serviços de obras públicas e transportes far-se-ão aos agentes cujos vencimentos sejam pagos pelas verbas de despesas gerais de obras públicas os descontos que constarem das suas guias de vencimentos ou de outros documentos expedidos por entidades oficiais competentes, nos precisos termos em que sejam determinados, e à importância dos mesmos descontos se dará entrada mensalmente nos cofres a que pertençam, até ao dia 5 de cada mês, por meio de guia em duplicado, acompanhada de uma relação nominal dos agentes que sofreram os descontos, proveniência destes e importância.
 
-###### Art. 33.º Aos tesoureiros-pagadores, aos pagadores, aos funcionários dos serviços de obras públicas e transportes, designados para desempenho daquelas funções, e aos recebedores de Fazenda, quando por motivos especiais, e na falta daqueles, possam vir a ser encarregados de pagamentos, compete:
+Art. 33.º Aos tesoureiros-pagadores, aos pagadores, aos funcionários dos serviços de obras públicas e transportes, designados para desempenho daquelas funções, e aos recebedores de Fazenda, quando por motivos especiais, e na falta daqueles, possam vir a ser encarregados de pagamentos, compete:
 
 1) Prestar, nos termos legais e quando outra não exista que a possa substituir, a caução que for fixada pelo governo da província, sob proposta do director ou chefe dos serviços de obras públicas e transportes;
 
@@ -629,9 +645,9 @@ Das faltas verificadas far-se-á constar nota na folha acima referida, nota que 
 
 i) Enquanto não estiverem concluídas as obras em que os indivíduos nas circunstâncias do final da alínea anterior tenham trabalhado, pode ser-lhes abonado, à sua apresentação, em folha suplementar, os vencimentos ou salários que tenham deixado de receber; findas, porém, as referidas obras sem que hajam sido reclamados, serão repostos nos cofres da Fazenda, por meio de guia.
 
-###### Art. 34.º Os funcionários que efectuarem o pagamento de documentos de despesa relativos a obras, tanto de pessoal como de material, lançarão em todos eles, incluindo as cópias, a seguinte nota: «Pago na importância de ... (quantia total do documento, por extenso), em ... (data, assinatura e selo branco ou carimbo dos serviços, havendo-o).»
+Art. 34.º Os funcionários que efectuarem o pagamento de documentos de despesa relativos a obras, tanto de pessoal como de material, lançarão em todos eles, incluindo as cópias, a seguinte nota: «Pago na importância de ... (quantia total do documento, por extenso), em ... (data, assinatura e selo branco ou carimbo dos serviços, havendo-o).»
 
-###### Art. 35.º Constituem o processo mensal de contas que as direcções regionais ou distritais de obras públicas e transportes têm de enviar às respectivas direcções distritais de Fazenda e contabilidade os seguintes documentos, pela sua ordem:
+Art. 35.º Constituem o processo mensal de contas que as direcções regionais ou distritais de obras públicas e transportes têm de enviar às respectivas direcções distritais de Fazenda e contabilidade os seguintes documentos, pela sua ordem:
 
 a) Conta corrente;
 
@@ -643,22 +659,22 @@ d) Resumo da despesa com cada obra, que será acompanhado dos respectivos docume
 
 e) Resumo geral demonstrativo de todas as despesas feitas, no mês, com obras realizadas nas respectivas áreas, no qual se evidenciará, em relação a cada artigo da tabela de despesa, correspondente a despesas gerais de obras públicas e segundo os artigos da distribuição de fundos, não só a despesa feita, mas também, com pessoal e material e verba autorizada para cada uma das obras, a despendida nos meses anteriores e a que fica por despender.
 
-###### Art. 36.º A direcção dos serviços de Fazenda e contabilidade e as respectivas direcções distritais, recebidos e verificados os processos de contas, procederão, de acordo com as disposições legais ou regulamentares aplicáveis, à respectiva liquidação, fornecendo documento de quitação ao exactor de Fazenda interessado.
+Art. 36.º A direcção dos serviços de Fazenda e contabilidade e as respectivas direcções distritais, recebidos e verificados os processos de contas, procederão, de acordo com as disposições legais ou regulamentares aplicáveis, à respectiva liquidação, fornecendo documento de quitação ao exactor de Fazenda interessado.
 
-###### Art. 37.º No prazo de cento e oitenta dias, a contar da sua publicação nos respectivos Boletins Oficiais, os governadores-gerais ou de província fixarão em portaria as normas de execução do disposto no presente diploma.
+Art. 37.º No prazo de cento e oitenta dias, a contar da sua publicação nos respectivos Boletins Oficiais, os governadores-gerais ou de província fixarão em portaria as normas de execução do disposto no presente diploma.
 
-###### Art. 38.º Fica revogada toda a legislação em contrário, designadamente a Portaria Régia n.º 208, de 23 de Dezembro de 1905, e os artigos 36.º a 40.º do [Decreto n.º 31715](https://diariodarepublica.pt/dr/detalhe/decreto/31715-1941-409115), de 8 de Dezembro de 1941, tornado de execução permanente pelo artigo 9.º do [Decreto n.º 32470](https://diariodarepublica.pt/dr/detalhe/decreto/32470-1942-682998), de 7 de Dezembro de 1943.
+Art. 38.º Fica revogada toda a legislação em contrário, designadamente a Portaria Régia n.º 208, de 23 de Dezembro de 1905, e os artigos 36.º a 40.º do [Decreto n.º 31715](https://diariodarepublica.pt/dr/detalhe/decreto/31715-1941-409115), de 8 de Dezembro de 1941, tornado de execução permanente pelo artigo 9.º do [Decreto n.º 32470](https://diariodarepublica.pt/dr/detalhe/decreto/32470-1942-682998), de 7 de Dezembro de 1943.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Novembro de 1969.**
+Promulgado em 28 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/12/29400/17981808.pdf))](https://files.diariodarepublica.pt/1s/1969/12/29400/17981808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/12/29400/17981808.pdf)
 
 Ministério do Ultramar, 28 de Novembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1975-335965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe579ea3456184e7ae3517593d4a5e9330525044760c5822d09b665494baa053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bd20a0091cc0999d67004d7c4b43a6aa4aee3fb367a72cf6bf0d43e73ed6d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casamento
+- Certidão
+- Código Civil
+- Código do Processo Civil
+- Cônjuge
+- Conservatória do Registo Civil
+- Definição de Competências
+- Direito Civil
+- Direito de Família
+- Direito Privado
+- Divórcio
+- Igreja Católica
+- Prazo
+- Prazo Processual
+- Prescrição da Acção
+- Processo Civil
+- Publicitação
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:501642:por
+  label: Tornado extensivo a Macau pelo(a) Portaria n.º 141/76 - Diário do Governo n.º 63/1976, Série I de 1976-03-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/141-1976-501642
+  date: '1976-03-15'
+- type: amended_by
+  target: pt:dre:430593:por
+  label: "Alterados os arts. 1605º e 1778º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, na redacção do presente\
+    \ diploma, pelo DEC LEI.561/76.17.07.1976.MJ, DR.IS [166] de 17.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/561-1976-430593
+  date: '1976-07-17'
+- type: amended_by
+  target: pt:dre:430656:por
+  label: "Alterado o art. 1794º, revogado pelo presente diploma, e o art. 1795º na redacção do presente diploma, ambos do\
+    \ Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, pelo DEC LEI.605/76.24.07.1976.MJ, DR.IS [172] de 24.07.1976\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/605-1976-430656
+  date: '1976-07-24'
+- type: amended_by
+  target: pt:dre:300030:por
+  label: "Alterados, a partir de 01.04.1978, os art.s 1599º, 1605º, 1778º, 1790º, 1792º, 1793º, 1794º e 1795º do Código Civil,\
+    \ aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na redacção do presente diploma, pelo DEC LEI.496/77.25.11.1977.MJ,\
+    \ DR.IS [273-Supl] de 25.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/496-1977-300030
+  date: '1977-11-25'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterado o art. 1417.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado o art. 1599.º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:439097:por
+  label: "Alterados os art.s 1778º, 1790º, 1792º e 1793º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966,\
+    \ na redacção do presente diploma, pela LEI.61/2008.31.10.2008.AR, DR.IS [212] de 31.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-2008-439097
+  date: '2008-10-31'
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:337053:por
+  label: "Rectificado pela RECT.DD10.1975.06.16.PCM, DG.IS [141] de 21.06.1975 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-337053
+  date: '1975-06-16'
+- type: corrected_by
+  target: pt:dre:337204:por
+  label: "Rectificado o preâmbulo e o art. 2.º [na parte em que confere nova redacção ao n.º 1 do art. 1778º do Código Civil,\
+    \ aprovado pelo Dec Lei 47344, de 25-Nov 1966] do presente diploma, pela RECT.DD11.1975.06.23.PCM, DG.IS [149] de 01.07.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-337204
+  date: '1975-06-23'
+- type: corrected_by
+  target: pt:dre:311824:por
+  label: "Rectificado o art. 2º do presente diploma [que confere nova redacção ao n.º 4 do art. 1605.º do Código Civil, aprovado\
+    \ pelo Dec Lei 47344, de 25-Nov 1966], pela RECT.DD12.11.10.1975.PCM, DG.IS [236] de 11.10.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-311824
+  date: '1975-10-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:52Z'
   warnings: []
   errors: []
 ---
@@ -140,9 +223,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam revogados os artigos 1790.º e 1794.º do Código Civil.
+Artigo 1.º Ficam revogados os artigos 1790.º e 1794.º do Código Civil.
 
-###### Art. 2.º Os artigos 1599.º, 1605.º, 1656.º, 1778.º, 1792.º, 1793.º e 1795.º do Código Civil passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1599.º, 1605.º, 1656.º, 1778.º, 1792.º, 1793.º e 1795.º do Código Civil passam a ter a seguinte redacção:
 
 ###### ARTIGO 1599.º — (Dispensa do processo preliminar)
 
@@ -204,17 +287,17 @@ Após o trânsito em julgado da sentença que tiver decretado a separação judi
 
 É aplicável ao divórcio litigioso, com as necessárias adaptações, o disposto nos artigos 1779.º a 1785.º
 
-###### Art. 3.º Ao divórcio por mútuo consentimento é aplicável o disposto nos artigos 1419.º e seguintes do Código de Processo Civil.
+Art. 3.º Ao divórcio por mútuo consentimento é aplicável o disposto nos artigos 1419.º e seguintes do Código de Processo Civil.
 
-###### Art. 4.º Os cônjuges casados catolicamente à data da entrada em vigor deste diploma poderão pedir o divórcio ou a separação de pessoas e bens, com fundamento em factos verificados anteriormente, dentro dos dois anos subsequentes àquela data.
+Art. 4.º Os cônjuges casados catolicamente à data da entrada em vigor deste diploma poderão pedir o divórcio ou a separação de pessoas e bens, com fundamento em factos verificados anteriormente, dentro dos dois anos subsequentes àquela data.
 
-###### Art. 5.º O pedido de separação de pessoas e bens em acções pendentes à data da entrada em vigor deste diploma pode ser alterado para o de divórcio, a requerimento do autor ou reconvinte, quando se trate de casamento católico.
+Art. 5.º O pedido de separação de pessoas e bens em acções pendentes à data da entrada em vigor deste diploma pode ser alterado para o de divórcio, a requerimento do autor ou reconvinte, quando se trate de casamento católico.
 
-###### Art. 6.º Nos processos pendentes à entrada em vigor deste diploma, o pedido de separação judicial de pessoas e bens por mútuo consentimento pode ser alterado para o de divórcio por mútuo consentimento, mediante requerimento de ambos os cônjuges.
+Art. 6.º Nos processos pendentes à entrada em vigor deste diploma, o pedido de separação judicial de pessoas e bens por mútuo consentimento pode ser alterado para o de divórcio por mútuo consentimento, mediante requerimento de ambos os cônjuges.
 
-###### Art. 7.º Decretada a separação judicial de pessoas e bens em comarca de qualquer colónia ou ex-colónia portuguesa, pode a conversão em divórcio ser requerida no tribunal do domicílio do requerente, com base em certidão da sentença, donde conste o trânsito em julgado, ou certidão de cópia integral do registo de casamento ou nascimento do requerente.
+Art. 7.º Decretada a separação judicial de pessoas e bens em comarca de qualquer colónia ou ex-colónia portuguesa, pode a conversão em divórcio ser requerida no tribunal do domicílio do requerente, com base em certidão da sentença, donde conste o trânsito em julgado, ou certidão de cópia integral do registo de casamento ou nascimento do requerente.
 
-###### Art. 8.º O artigo 1417.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 8.º O artigo 1417.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 1417.º
 
@@ -230,8 +313,8 @@ Após o trânsito em julgado da sentença que tiver decretado a separação judi
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha.
 
-**Promulgado em 22 de Maio de 1975.**
+Promulgado em 22 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

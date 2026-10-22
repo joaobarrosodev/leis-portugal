@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/11900/07150717.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1975-336081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9ace94e4b102bb4b90a47539c7383c887f37e5814501e5226bc9842a0944266
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c18b11981fe8c18da9b9fb1666be50feaadda4ded9fdf2b396e23bf6021a057
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Crédito Agrícola de Emergência
+- Exploração Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:659281:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416471:por
+  label: "Alterados os artºs 1º e 2º pelo DEC LEI.894/76.1976.12.30.MAP DR.IS [302]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/894-1976-416471
+  date: '1976-12-30'
+- type: repealed_by
+  target: pt:dre:141779:por
+  label: "Revogado pelo DEC LEI.56/77.1977.02.18.MAP, DR.IS[41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1977-141779
+  date: '1977-02-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:42Z'
   warnings: []
   errors: []
 ---
@@ -104,21 +117,21 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º n.º 1, alínea n.º 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São beneficiários do crédito agrícola de emergência nas condições estabelecidas no presente diploma os pequenos e médios produtores agrícolas.
+Artigo 1.º - 1. São beneficiários do crédito agrícola de emergência nas condições estabelecidas no presente diploma os pequenos e médios produtores agrícolas.
 
 2. Para os efeitos deste diploma, são considerados pequenos e médios produtores agrícolas aqueles que explorem directamente a terra, predominantemente com trabalho próprio ou de familiares não remunerados.
 
 3. Competirá ao Instituto de Reorganização Agrária delimitar em função das condições regionais os tipos de produtores abrangidos por estas disposições.
 
-###### Art. 2.º A concessão deste crédito agrícola de emergência destina-se a permitir o pagamento de serviços destinados à preparação das terras, a aquisição de fertilizantes e correctivos, sementes e propágulos, pesticidas, rações, complementos necessários à alimentação animal e pequenos equipamentos indispensáveis à boa produtividade das explorações agro-pecuárias e tem como objectivo incrementar a produção agrícola.
+Art. 2.º A concessão deste crédito agrícola de emergência destina-se a permitir o pagamento de serviços destinados à preparação das terras, a aquisição de fertilizantes e correctivos, sementes e propágulos, pesticidas, rações, complementos necessários à alimentação animal e pequenos equipamentos indispensáveis à boa produtividade das explorações agro-pecuárias e tem como objectivo incrementar a produção agrícola.
 
-###### Art. 3.º - 1. O crédito será concedido pela banca nacionalizada e por todas as outras instituições nacionais de crédito.
+Art. 3.º - 1. O crédito será concedido pela banca nacionalizada e por todas as outras instituições nacionais de crédito.
 
 2. Serão mutuários perante as instituições de crédito e intermediárias na atribuição de crédito aos produtores as comissões liquidatárias dos grémios da lavoura e as associações agrícolas de tipo cooperativo que exerçam funções de compra e venda indicadas ao Banco de Portugal pelo Instituto de Reorganização Agrária.
 
-###### Art. 4.º As entidades intermediárias mencionadas no n.º 2 do artigo anterior actuarão junto dos pequenos e médios produtores agrícolas que exerçam a sua actividade nas respectivas áreas sociais, de acordo com inventariação de necessidades a que previamente devem proceder, entregando-lhes directamente os factores de produção ou, quando não estejam em condições de o fazer, substituindo-se-lhes no pagamento das aquisições que aqueles fizerem.
+Art. 4.º As entidades intermediárias mencionadas no n.º 2 do artigo anterior actuarão junto dos pequenos e médios produtores agrícolas que exerçam a sua actividade nas respectivas áreas sociais, de acordo com inventariação de necessidades a que previamente devem proceder, entregando-lhes directamente os factores de produção ou, quando não estejam em condições de o fazer, substituindo-se-lhes no pagamento das aquisições que aqueles fizerem.
 
-###### Art. 5.º - 1. O Instituto de Reorganização Agrária indicará ao Banco de Portugal, juntamente com a relação das entidades intermediárias, os limites das primeiras parcelas de financiamento que as instituições de crédito poderão conceder a cada uma daquelas entidades, comprometendo-se, simultaneamente, a avalizar esses financiamentos até ao montante global de 1000000 de contos.
+Art. 5.º - 1. O Instituto de Reorganização Agrária indicará ao Banco de Portugal, juntamente com a relação das entidades intermediárias, os limites das primeiras parcelas de financiamento que as instituições de crédito poderão conceder a cada uma daquelas entidades, comprometendo-se, simultaneamente, a avalizar esses financiamentos até ao montante global de 1000000 de contos.
 
 2. O Banco de Portugal indicará ao Instituto de Reorganização Agrária quais as instituições de crédito que nas diferentes regiões concederão o crédito de emergência.
 
@@ -132,34 +145,34 @@ Usando da faculdade conferida pelo artigo 3.º n.º 1, alínea n.º 3), da Lei C
 
 7. O montante do aval global concedido pelo Instituto de Reorganização Agrária poderá atingir 5000000 de contos.
 
-###### Art. 6.º A utilização pelos produtores agrícolas do crédito que lhes foi atribuído será devidamente escriturada em livro próprio da entidade intermediária.
+Art. 6.º A utilização pelos produtores agrícolas do crédito que lhes foi atribuído será devidamente escriturada em livro próprio da entidade intermediária.
 
-###### Art. 7.º Sempre que alguma das entidades intermediárias se afaste dos objectivos visados por este diploma, o Instituto de Reorganização Agrária, mediante comunicação às instituições de crédito, fará suspender a utilização de novas parcelas de crédito por parte dessa entidade, limitando o seu aval às responsabilidades já assumidas.
+Art. 7.º Sempre que alguma das entidades intermediárias se afaste dos objectivos visados por este diploma, o Instituto de Reorganização Agrária, mediante comunicação às instituições de crédito, fará suspender a utilização de novas parcelas de crédito por parte dessa entidade, limitando o seu aval às responsabilidades já assumidas.
 
-###### Art. 8.º Caso os produtores agrícolas beneficiários vendam os seus produtos através das entidades intermediárias cujo apoio financeiro hajam utilizado, ser-lhes-ão creditadas em conta, quando da entrega, as importâncias correspondentes; quando vendam a terceiros, liquidarão imediatamente em dinheiro àquelas entidades os valores em dívida.
+Art. 8.º Caso os produtores agrícolas beneficiários vendam os seus produtos através das entidades intermediárias cujo apoio financeiro hajam utilizado, ser-lhes-ão creditadas em conta, quando da entrega, as importâncias correspondentes; quando vendam a terceiros, liquidarão imediatamente em dinheiro àquelas entidades os valores em dívida.
 
-###### Art. 9.º - 1. Os créditos concedidos pela instituição de crédito às entidades intermediárias só devem ser movimentados por estas quando e na medida em que as necessidades dos beneficiários finais os justifiquem.
+Art. 9.º - 1. Os créditos concedidos pela instituição de crédito às entidades intermediárias só devem ser movimentados por estas quando e na medida em que as necessidades dos beneficiários finais os justifiquem.
 
 2. As entidades intermediárias à medida que sejam reembolsadas pelos beneficiários deverão liquidar os seus débitos às instituições de crédito.
 
-###### Art. 10.º Os prazos dos empréstimos em caso algum excederão doze meses, contados a partir da data da libertação da primeira parcela de crédito a que respeitem.
+Art. 10.º Os prazos dos empréstimos em caso algum excederão doze meses, contados a partir da data da libertação da primeira parcela de crédito a que respeitem.
 
-###### Art. 11.º - 1. Até ao fim de cada ano agrícola as entidades intermediárias apresentarão ao Instituto de Reorganização Agrária previsões das necessidades de crédito e do respectivo calendário de utilização para o ano seguinte.
+Art. 11.º - 1. Até ao fim de cada ano agrícola as entidades intermediárias apresentarão ao Instituto de Reorganização Agrária previsões das necessidades de crédito e do respectivo calendário de utilização para o ano seguinte.
 
 2. O Instituto de Reorganização Agrária deverá dar conhecimento ao Banco de Portugal do montante global das previsões e da sua distribuição regional.
 
-###### Art. 12.º O Instituto de Reorganização Agrária, perante a ocorrência de circunstâncias que considere justificativas, poderá avalizar a concessão de novos créditos não previstos nos calendários inicialmente apresentados.
+Art. 12.º O Instituto de Reorganização Agrária, perante a ocorrência de circunstâncias que considere justificativas, poderá avalizar a concessão de novos créditos não previstos nos calendários inicialmente apresentados.
 
-###### Art. 13.º - 1. Quando a atribuição de crédito seja feita pela entrega de factores de produção aos agricultores, o preço daqueles incluirá os encargos financeiros, os quais não podem exceder em mais 1,5% a taxa praticada pela instituição que haja concedido o crédito às entidades intermediárias.
+Art. 13.º - 1. Quando a atribuição de crédito seja feita pela entrega de factores de produção aos agricultores, o preço daqueles incluirá os encargos financeiros, os quais não podem exceder em mais 1,5% a taxa praticada pela instituição que haja concedido o crédito às entidades intermediárias.
 
 2. Quando estas entidades se substituam aos mutuários no pagamento a terceiros dos factores de produção adquiridos, os agricultores suportarão os encargos financeiros a uma taxa que não deverá exceder em mais de 1,5% a praticada pelas instituições que hajam concedido o crédito.
 
-###### Art. 14.º Este diploma entra imediatamente em vigor.
+Art. 14.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Fernando Oliveira Baptista.
 
-**Promulgado em 15 de Maio de 1975.**
+Promulgado em 15 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

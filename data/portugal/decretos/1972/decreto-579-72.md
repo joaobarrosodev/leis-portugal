@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/579-1972-665148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e99e88d6de23adbc62a1e84206f1da0733a280cf295ec15a30c135b381928464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5958bedb98b6c99f27bc5dd624b4ba594fd883341b62c84650d32f2fc2e49338
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 71
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:43Z'
   warnings: []
   errors: []
 ---
@@ -88,25 +92,25 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério do Exército, os seguintes créditos especiais, no montante de 68832817$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no segundo dos mencionados Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério do Exército, os seguintes créditos especiais, no montante de 68832817$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no segundo dos mencionados Ministérios:
 
-### Capitulo 2.º «Estado-Maior do Exército»:
+Capitulo 2.º «Estado-Maior do Exército»:
 
 Chefia do Serviço Cartográfico do Exército
 
-###### Artigo 23.º «Remunerações por serviços auxiliares» ... 400000$00
+Artigo 23.º «Remunerações por serviços auxiliares» ... 400000$00
 
-###### Artigo 25.º «Bens não duradouros»:
+Artigo 25.º «Bens não duradouros»:
 
 N.º 3) «Outros bens não duradouros» ... 338000$00
 
 N.º 4) «Matérias-primas e subsidiárias» ... 400000$00
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Direcção da Arma de Engenharia
 
-###### Artigo 49.º «Bens não duradouros»:
+Artigo 49.º «Bens não duradouros»:
 
 N.º 1) «Consumos de secretaria» ... 15000$00
 
@@ -114,95 +118,95 @@ N.º 2) «Outros bens não duradouros» ... 10000$00
 
 Direcção da Arma de Transmissões
 
-###### Artigo 54.º «Bens duradouros»:
+Artigo 54.º «Bens duradouros»:
 
 N.º 1) «Material de defesa e segurança» ... 600000$00
 
 N.º 2) «Material fabril, oficinal e de laboratório» ... 80000$00
 
-###### Artigo 55.º «Bens não duradouros»:
+Artigo 55.º «Bens não duradouros»:
 
 N.º 2) «Outros bens não duradouros» ... 7000$00
 
-###### Artigo 56.º «Conservação e aproveitamento de bens» ... 300000$00
+Artigo 56.º «Conservação e aproveitamento de bens» ... 300000$00
 
-###### Artigo 57.º «Despesas gerais de funcionamento»:
+Artigo 57.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 16600$00
 
 Academia Militar
 
-###### Artigo 83.º «Bens duradouros»:
+Artigo 83.º «Bens duradouros»:
 
 N.º 1) «Material de aquartelamento e alojamento» ... 100000$00
 
 N.º 2) «Material de educação, cultura e recreio» ... 200000$00
 
-###### Artigo 84.º «Bens não duradouros»:
+Artigo 84.º «Bens não duradouros»:
 
 N.º 2) «Consumos de secretaria» ... 80000$00
 
-###### Artigo 85.º «Conservação e aproveitamento de bens» ... 500000$00
+Artigo 85.º «Conservação e aproveitamento de bens» ... 500000$00
 
 Escola Central de Sargentos
 
-###### Artigo 88.º «Gratificações variáveis ou eventuais» ... 409400$00
+Artigo 88.º «Gratificações variáveis ou eventuais» ... 409400$00
 
-###### Artigo 89.º «Deslocações» ... 30000$00
+Artigo 89.º «Deslocações» ... 30000$00
 
-###### Artigo 90.º «Alimentação e alojamento - Em espécie» ... 125000$00
+Artigo 90.º «Alimentação e alojamento - Em espécie» ... 125000$00
 
-###### Artigo 93.º «Bens não duradouros»:
+Artigo 93.º «Bens não duradouros»:
 
 N.º 2) «Consumos de secretaria» ... 142000$00
 
 N.º 3) «Outros bens não duradouros» ... 8400$00
 
-###### Artigo 94.º «Conservação aproveitamento de bens» ... 66000$00
+Artigo 94.º «Conservação aproveitamento de bens» ... 66000$00
 
-###### Artigo 95.º «Despesas gerais de funcionamento»:
+Artigo 95.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 47500$00
 
 Escola Prática de Infantaria
 
-###### Artigo 117.º «Bens não duradouros»:
+Artigo 117.º «Bens não duradouros»:
 
 N.º 1) «Consumos de secretaria» ... 200000$00
 
 N.º 2) «Outros bens não duradouros» ... 100000$00
 
-###### Artigo 118.º «Conservação e aproveitamento de bens» ... 200000$00
+Artigo 118.º «Conservação e aproveitamento de bens» ... 200000$00
 
-###### Artigo 119.º «Despesas gerais de funcionamento»:
+Artigo 119.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 100000$00
 
 Escola Prática de Artilharia
 
-###### Artigo 123.º «Bens não duradouros»:
+Artigo 123.º «Bens não duradouros»:
 
 N.º 1) «Consumos de secretaria» ... 150000$00
 
 N.º 2) «Outros bens não duradouros» ... 47000$00
 
-###### Artigo 124.º «Despesas gerais de funcionamento»:
+Artigo 124.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 136000$00
 
 Escola Prática de Cavalaria
 
-###### Artigo 128.º «Bens não duradouros»:
+Artigo 128.º «Bens não duradouros»:
 
 N.º 2) «Consumos de secretaria» ... 200000$00
 
-###### Artigo 130.º «Despesas gerais de funcionamento»:
+Artigo 130.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 100000$00
 
 Escola Prática de Engenharia
 
-###### Artigo 134.º «Bens duradouros»:
+Artigo 134.º «Bens duradouros»:
 
 N.º 1) «Material de educação, cultura e recreio» ... 20000$00
 
@@ -210,7 +214,7 @@ N.º 2) «Material fabril, oficinal e de laboratório» ... 50000$00
 
 N.º 3) «Outros bens duradouros» ... 35000$00
 
-###### Artigo 135.º «Bens não duradouros»:
+Artigo 135.º «Bens não duradouros»:
 
 N.º 1) «Matérias-primas e subsidiárias» ... 100000$00
 
@@ -218,29 +222,29 @@ N.º 3) «Consumos de secretaria» ... 150000$00
 
 N.º 4) «Outros bens não duradouros» ... 50000$00
 
-###### Artigo 136.º «Conservação e aproveitamento de bens» ... 200000$00
+Artigo 136.º «Conservação e aproveitamento de bens» ... 200000$00
 
-###### Artigo 137.º «Despesas gerais de funcionamento»:
+Artigo 137.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 700000$00
 
 Escola Prática de Transmissões
 
-###### Artigo 141.º «Bens não duradouros»:
+Artigo 141.º «Bens não duradouros»:
 
 N.º 2) «Consumos de secretaria» ... 100000$00
 
 N.º 3) «Outros bens não duradouros» ... 70000$00
 
-###### Artigo 142.º «Conservação e aproveitamento de bens» ... 20000$00
+Artigo 142.º «Conservação e aproveitamento de bens» ... 20000$00
 
-###### Artigo 143.º «Despesas gerais de funcionamento»:
+Artigo 143.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 180000$00
 
 Escola Prática de Administração Militar
 
-###### Artigo 154.º «Bens não duradouros»:
+Artigo 154.º «Bens não duradouros»:
 
 N.º 1) «Matérias-primas e subsidiárias» ... 20000$00
 
@@ -248,35 +252,35 @@ N.º 2) «Consumos de secretaria» ... 230000$00
 
 N.º 3) «Outros bens não duradouros» ... 40000$00
 
-###### Artigo 155.º «Despesas gerais de funcionamento»:
+Artigo 155.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 30000$00
 
 Campo de Instrução Militar de Santa Margarida
 
-###### Artigo 167.º «Bens não duradouros»:
+Artigo 167.º «Bens não duradouros»:
 
 N.º 3) «Consumos de secretaria» ... 80000$00
 
-###### Artigo 169.º «Despesas gerais de funcionamento»:
+Artigo 169.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 500000$00
 
-### Capítulo 4.º «Serviços do ajudante-general»:
+Capítulo 4.º «Serviços do ajudante-general»:
 
 Comando do Forte da Graça
 
-###### Artigo 253.º «Bens não duradouros»:
+Artigo 253.º «Bens não duradouros»:
 
 N.º 1) «Consumos de secretaria» ... 32000$00
 
 N.º 2) «Outros bens não duradouros» ... 25800$00
 
-### Capitulo 5.º «Serviços do quartel-mestre»:
+Capitulo 5.º «Serviços do quartel-mestre»:
 
 Direcção do Serviço de Saúde
 
-###### Artigo 274.º «Bens não duradouros»:
+Artigo 274.º «Bens não duradouros»:
 
 N.º 2) «Consumos de secretaria» ... 28000$00
 
@@ -286,21 +290,21 @@ Direcção do Serviço de Material
 
 Serviços próprios
 
-###### Artigo 278.º «Bens duradouros»:
+Artigo 278.º «Bens duradouros»:
 
 N.º 1) «Material de defesa e segurança» ... 5913172$50
 
-###### Artigo 280.º «Conservação e aproveitamento de bens» ... 6500000$00
+Artigo 280.º «Conservação e aproveitamento de bens» ... 6500000$00
 
 Depósito Geral de Material de Guerra
 
-###### Artigo 283.º «Horas extraordinárias» ... 75000$00
+Artigo 283.º «Horas extraordinárias» ... 75000$00
 
-###### Artigo 284.º «Bens duradouros»:
+Artigo 284.º «Bens duradouros»:
 
 N.º 1) «Outros bens duradouros» ... 20000$00
 
-###### Artigo 285.º «Bens não duradouros»:
+Artigo 285.º «Bens não duradouros»:
 
 N.º 1) «Matérias-primas e subsidiárias» ... 250000$00
 
@@ -308,31 +312,31 @@ N.º 2) «Consumos de secretaria» ... 430000$00
 
 N.º 3) «Outros bens não duradouros» ... 166000$00
 
-###### Artigo 286.º «Conservação e aproveitamento de bens» ... 272 809$00
+Artigo 286.º «Conservação e aproveitamento de bens» ... 272 809$00
 
-###### Artigo 287.º «Despesas gerais de funcionamento»:
+Artigo 287.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 450000$00
 
 Direcção do Serviço da Intendência
 
-###### Artigo 290.º «Bens duradouros»:
+Artigo 290.º «Bens duradouros»:
 
 N.º 2) «Material de aquartelamento e alojamento» ... 3500000$00
 
 N.º 3) «Equipamento de secretaria» ... 1500000$00
 
-###### Artigo 291.º «Bens não duradouros»:
+Artigo 291.º «Bens não duradouros»:
 
 N.º 1) «Consumos de secretaria» ... 400000$00
 
-###### Artigo 292.º «Conservação e aproveitamento de bens» ... 500000$00
+Artigo 292.º «Conservação e aproveitamento de bens» ... 500000$00
 
-### Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
+Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
 
 Região Militar de Lisboa
 
-###### Artigo 303.º «Bens não duradouros»:
+Artigo 303.º «Bens não duradouros»:
 
 N.º 1) «Combustíveis e lubrificantes» ... 50000$00
 
@@ -342,7 +346,7 @@ N.º 3) «Outros bens não duradouros» ... 109000$00
 
 Região Militar do Porto
 
-###### Artigo 307.º «Bens não duradouros»:
+Artigo 307.º «Bens não duradouros»:
 
 N.º 1) «Combustíveis e lubrificantes» ... 100000$00
 
@@ -350,45 +354,45 @@ N.º 2) «Consumos de secretaria» ... 35000$00
 
 N.º 3) «Outros bens não duradouros» ... 10000$00
 
-###### Artigo 308.º «Conservação e aproveitamento de bens» ... 40000$00
+Artigo 308.º «Conservação e aproveitamento de bens» ... 40000$00
 
-###### Artigo 309.º «Despesas gerais de funcionamento»:
+Artigo 309.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 65000$00
 
 Região Militar de Coimbra
 
-###### Artigo 311.º «Bens não duradouros»:
+Artigo 311.º «Bens não duradouros»:
 
 N.º 1) «Combustíveis e lubrificantes» ... 30000$00
 
-###### Artigo 312.º «Conservação e aproveitamento de bens» ... 14000$00
+Artigo 312.º «Conservação e aproveitamento de bens» ... 14000$00
 
-###### Artigo 313.º «Despesas gerais de funcionamento»:
+Artigo 313.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 76000$00
 
 Região Militar de Tomar
 
-###### Artigo 315.º «Bens não duradouros»:
+Artigo 315.º «Bens não duradouros»:
 
 N.º 2) «Consumos de secretaria» ... 50000$00
 
 N.º 3) «Outros bens não duradouros» ... 25000$00
 
-###### Artigo 316.º «Conservação e aproveitamento de bens» ... 30000$00
+Artigo 316.º «Conservação e aproveitamento de bens» ... 30000$00
 
-###### Artigo 317.º «Despesas gerais de funcionamento»:
+Artigo 317.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 25000$00
 
 Região Militar de Évora
 
-###### Artigo 320.º « Conservação e aproveitamento de bens» ... 200000$00
+Artigo 320.º « Conservação e aproveitamento de bens» ... 200000$00
 
 Comando Territorial Independente dos Açores
 
-###### Artigo 328.º «Bens não duradouros»:
+Artigo 328.º «Bens não duradouros»:
 
 N.º 1) «Combustíveis e lubrificantes» ... 20000$00
 
@@ -396,29 +400,29 @@ N.º 2) «Consumos de secretaria» ... 20000$00
 
 N.º 3) «Outros bens não duradouros» ... 17000$00
 
-###### Artigo 329.º «Conservação e aproveitamento de bens» ... 13200$00
+Artigo 329.º «Conservação e aproveitamento de bens» ... 13200$00
 
-###### Artigo 330.º «Despesas gerais de funcionamento»:
+Artigo 330.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 16000$00
 
-### Capitulo 8.º «Encargos gerais do Ministério»:
+Capitulo 8.º «Encargos gerais do Ministério»:
 
 Sargentos e praças de pré
 
-###### Artigo 388.º «Vestuário e artigos pessoais - Em espécie» ... 4000000$00
+Artigo 388.º «Vestuário e artigos pessoais - Em espécie» ... 4000000$00
 
 Despesas gerais
 
-###### Artigo 406.º «Remunerações diversas - Previdência social»:
+Artigo 406.º «Remunerações diversas - Previdência social»:
 
 N.º 1) «Encargos com a saúde» ... 14336266$10
 
-###### Artigo 407.º «Remunerações diversas - Compensação de encargos»:
+Artigo 407.º «Remunerações diversas - Compensação de encargos»:
 
 N.º 1) «Internamento de diminuídos físicos militares no Centro de Medicina de Reabilitação (Alcoitão)» ... 1000000$00
 
-###### Artigo 409.º «Bens não duradouros»:
+Artigo 409.º «Bens não duradouros»:
 
 N.º 1) «Combustíveis e lubrificantes» ... 3000000$00
 
@@ -426,42 +430,42 @@ N.º 3) «Consumos de secretaria» ... 1518800$00
 
 N.º 4) «Outros bens não duradouros» ... 2800000$00
 
-###### Artigo 410.º «Conservação e aproveitamento de bens» ... 4000000$00
+Artigo 410.º «Conservação e aproveitamento de bens» ... 4000000$00
 
-###### Artigo 411.º «Despesas gerais de funcionamento»:
+Artigo 411.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 2500000$00
 
 N.º 2) «Comunicações» ... 4500000$00
 
-### Capitulo 9.º «Forças eventualmente constituídas»:
+Capitulo 9.º «Forças eventualmente constituídas»:
 
 Regimento de Artilharia Antiaérea Fixa
 
-###### Artigo 416.º «Deslocações» ... 500000$00
+Artigo 416.º «Deslocações» ... 500000$00
 
-###### Artigo 417.º «Alimentação e alojamento - Em espécie» ... 1734870$00
+Artigo 417.º «Alimentação e alojamento - Em espécie» ... 1734870$00
 
-###### Artigo 419.º «Remunerações diversas - Previdência social»:
+Artigo 419.º «Remunerações diversas - Previdência social»:
 
 N.º 1) «Encargos com a saúde» ... 15000$00
 
 Companhia Divisionária de Manutenção de Material
 
-###### Artigo 431.º «Despesas gerais de funcionamento»:
+Artigo 431.º «Despesas gerais de funcionamento»:
 
 N.º 1) «Encargos próprios das instalações» ... 100000$00
 
 ... 68832817$60
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, é aumentada a previsão das receitas do Estado na seguinte rubrica:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, é aumentada a previsão das receitas do Estado na seguinte rubrica:
 
-### Capitulo 1.º, grupo 1, artigo 4.º «Imposto de capitais» ... 68832817$60
+Capitulo 1.º, grupo 1, artigo 4.º «Imposto de capitais» ... 68832817$60
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 29 de Dezembro de 1972.**
+Promulgado em 29 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

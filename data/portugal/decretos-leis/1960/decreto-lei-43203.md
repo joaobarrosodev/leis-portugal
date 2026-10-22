@@ -48,40 +48,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43203-1960-513984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf3c3a69ecccff37c57dd284b4a731eeca2017dd9379f1fc6c9c07da02aa6281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edec726a36b0abe7b1e4ae45efd985388c09bba3ca8430ecb165d9a5f8ddefee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior Judiciário do Ultramar
+- Conselho Ultramarino
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Administração Política e Civil
+- Direcção Geral de Justiça
+- Diretor Geral
+- Extinção de Lugares
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Ministério do Ultramar
+- Ministro do Ultramar
+- Presidente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:159931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173364:por
+  label: "Alterado o quadro de pessoal da secretaria do Conselho Ultramarino, contido nas als. A) e B) do quadro da Direcção-Geral\
+    \ de Justiça do Ministério do Ultramar, anexo ao presente diploma, pelo DEC LEI.43828.27.07.1961.MU, DG.IS [173] de 27.07.1961\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43828-1961-173364
+  date: '1961-07-27'
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159931:por
+  label: "Revogado o art. 13º e eliminados 2 lugares do grupo de pessoal administrativo do mapa anexo (Direcção-Geral de Justiça)\
+    \ pelo DEC LEI.44585.20.09.1962.MU, DG.IS [217] de 20.09.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44585-1962-159931
+  date: '1962-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:54Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +136,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Direcção-Geral de Justiça do Ultramar, directamente subordinada ao Ministro do Ultramar, com a organização, competência e atribuições que constam do presente diploma.
+Artigo 1.º É criada a Direcção-Geral de Justiça do Ultramar, directamente subordinada ao Ministro do Ultramar, com a organização, competência e atribuições que constam do presente diploma.
 
-###### Art. 2.º Além das funções de ordem geral atribuídas às direcções-gerais do Ministério do Ultramar pela sua lei orgânica, compete à Direcção-Geral de Justiça:
+Art. 2.º Além das funções de ordem geral atribuídas às direcções-gerais do Ministério do Ultramar pela sua lei orgânica, compete à Direcção-Geral de Justiça:
 
 1.º O estudo e o expediente dos assuntos relativos aos serviços de administração da justiça, identificação, notariado, registos civil, criminal, predial, comercial e da propriedade automóvel, polícia judiciária e prisionais;
 
@@ -118,57 +156,57 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 8.º Estudar, reformar e submeter a despacho superior os assuntos respeitantes a concursos, movimentos e situação do pessoal dos quadros comuns dos serviços referidos no n.º 1.º deste artigo, ficando o respectivo expediente a cargo da Direcção-Geral de Administração Política e Civil.
 
-###### Art. 3.º A Direcção-Geral de Justiça compreende, além do director-geral, uma inspecção superior e uma repartição, com o pessoal constante do mapa anexo a este diploma.
+Art. 3.º A Direcção-Geral de Justiça compreende, além do director-geral, uma inspecção superior e uma repartição, com o pessoal constante do mapa anexo a este diploma.
 
-###### Art. 4.º O director-geral superintende em todos os serviços da Direcção-Geral submetendo a despacho ministerial os assuntos que careçam de resolução superior e resolvendo aqueles para que tenha competência, por disposição de lei ou delegação.
+Art. 4.º O director-geral superintende em todos os serviços da Direcção-Geral submetendo a despacho ministerial os assuntos que careçam de resolução superior e resolvendo aqueles para que tenha competência, por disposição de lei ou delegação.
 
 § único. Compete especialmente ao director-geral a consulta referida no n.º 2.º do artigo 2.º, coadjuvado pelos vogais do Conselho Superior Judiciário do Ultramar conforme o Ministro determinar.
 
-###### Art. 5.º Exercerá as funções de director-geral o vogal da 2.ª subsecção da secção do contencioso do Conselho Ultramarino que for escolhido pelo Ministro do Ultramar.
+Art. 5.º Exercerá as funções de director-geral o vogal da 2.ª subsecção da secção do contencioso do Conselho Ultramarino que for escolhido pelo Ministro do Ultramar.
 
 § 1.º O vogal referido no corpo do artigo será o presidente do Conselho Superior Judiciário do Ultramar.
 
 § 2.º Além do vencimento próprio como vogal da 2.ª subsecção da secção do contencioso do Conselho Ultramarino, o director-geral de Justiça terá direito, pela acumulação de funções, à gratificação mensal de 1000$00.
 
-###### Art. 6.º Compete à Inspecção Superior de Justiça inspeccionar todos os serviços referidos no n.º 1.º do artigo 2.º deste decreto-lei, segundo a orientação e os planos estabelecidos pelo Conselho Superior Judiciário do Ultramar e de harmonia com o regulamento privativo da Inspecção, a publicar por portaria ministerial.
+Art. 6.º Compete à Inspecção Superior de Justiça inspeccionar todos os serviços referidos no n.º 1.º do artigo 2.º deste decreto-lei, segundo a orientação e os planos estabelecidos pelo Conselho Superior Judiciário do Ultramar e de harmonia com o regulamento privativo da Inspecção, a publicar por portaria ministerial.
 
-###### Art. 7.º O lugar de inspector superior de Justiça será provido por escolha do Ministro, ouvida a Direcção-Geral, em magistrado de 2.ª instância do ultramar que reúna condições de idoneidade para o cargo.
+Art. 7.º O lugar de inspector superior de Justiça será provido por escolha do Ministro, ouvida a Direcção-Geral, em magistrado de 2.ª instância do ultramar que reúna condições de idoneidade para o cargo.
 
-###### Art. 8.º À Repartição da Direcção-Geral de Justiça, cujos serviços serão assegurados por duas secções, compete o estudo e informação de todos os assuntos respeitantes à Direcção-Geral, e ao respectivo chefe as atribuições indicadas no artigo 107.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
+Art. 8.º À Repartição da Direcção-Geral de Justiça, cujos serviços serão assegurados por duas secções, compete o estudo e informação de todos os assuntos respeitantes à Direcção-Geral, e ao respectivo chefe as atribuições indicadas no artigo 107.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
 
-###### Art. 9.º O director-geral, sob proposta do respectivo chefe, distribuirá os serviços da Repartição pelas secções.
+Art. 9.º O director-geral, sob proposta do respectivo chefe, distribuirá os serviços da Repartição pelas secções.
 
 § único. Uma das secções terá a seu cargo o expediente do Conselho Superior Judiciário do Ultramar e da Inspecção Superior de Justiça, servindo de secretário o funcionário que for designado pelo director-geral.
 
-###### Art. 10.º O chefe da Repartição de Justiça será um magistrado da 1.ª instância da magistratura judicial do ultramar nomeado pelo Ministro do Ultramar, sob proposta do director-geral, em comissão ordinária de três anos, renovável.
+Art. 10.º O chefe da Repartição de Justiça será um magistrado da 1.ª instância da magistratura judicial do ultramar nomeado pelo Ministro do Ultramar, sob proposta do director-geral, em comissão ordinária de três anos, renovável.
 
 § único. Compete ao chefe da Repartição de Justiça exercer a função de agente do Ministério Público junto do Conselho Superior Judiciário do Ultramar, secção do contencioso administrativo e fiscal do Conselho Ultramarino e Conselho Superior de Disciplina do Ultramar. Sempre que a acumulação de serviço o justifique, será coadjuvado pelos chefes de secção.
 
-###### Art. 11.º O tempo de exercício das funções de vogal da secção do contencioso do Conselho Ultramarino, inspector superior de Justiça e chefe da Repartição de Justiça é contado nos mesmos termos e para todos os efeitos legais como de serviço judicial prestado nas províncias ultramarinas.
+Art. 11.º O tempo de exercício das funções de vogal da secção do contencioso do Conselho Ultramarino, inspector superior de Justiça e chefe da Repartição de Justiça é contado nos mesmos termos e para todos os efeitos legais como de serviço judicial prestado nas províncias ultramarinas.
 
-###### Art. 12.º Os funcionários cujo provimento não esteja especialmente regulado neste diploma serão recrutados e nomeados nos termos previstos para o pessoal de idêntica categoria da Direcção-Geral de Administração Política e Civil.
+Art. 12.º Os funcionários cujo provimento não esteja especialmente regulado neste diploma serão recrutados e nomeados nos termos previstos para o pessoal de idêntica categoria da Direcção-Geral de Administração Política e Civil.
 
-###### Art. 13.º O expediente do Conselho Superior de Disciplina do Ultramar será assegurado pela Repartição da Direcção-Geral de Justiça, servindo de secretário o funcionário que for designado pelo director-geral.
+Art. 13.º O expediente do Conselho Superior de Disciplina do Ultramar será assegurado pela Repartição da Direcção-Geral de Justiça, servindo de secretário o funcionário que for designado pelo director-geral.
 
-###### Art. 14.º É extinto o cargo de adjunto do chefe da Repartição de Justiça, lugar criado pelo artigo 14.º do [Decreto-Lei n.º 33541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33541-1944-528227), de 21 de Fevereiro de 1944.
+Art. 14.º É extinto o cargo de adjunto do chefe da Repartição de Justiça, lugar criado pelo artigo 14.º do [Decreto-Lei n.º 33541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33541-1944-528227), de 21 de Fevereiro de 1944.
 
-###### Art. 15.º Sempre que a acumulação de serviço o justifique, os vogais da 2.ª subsecção do contencioso do Conselho Ultramarino serão chamados a participar no julgamento dos processos da 1.ª subsecção, com excepção do vogal que exercer as funções de director-geral de Justiça.
+Art. 15.º Sempre que a acumulação de serviço o justifique, os vogais da 2.ª subsecção do contencioso do Conselho Ultramarino serão chamados a participar no julgamento dos processos da 1.ª subsecção, com excepção do vogal que exercer as funções de director-geral de Justiça.
 
-###### Art. 16.º O n.º 7.º do artigo 2.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passa a ter a seguinte redacção:
+Art. 16.º O n.º 7.º do artigo 2.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passa a ter a seguinte redacção:
 
 Os serviços de justiça (Direcção-Geral de Justiça).
 
 São revogados os artigos 43.º a 45.º do mesmo decreto-lei.
 
-###### Art. 17.º Ao quadro do pessoal da Secretaria-Geral do Ministério do Ultramar, previsto no mapa anexo n.º 2 ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, é acrescentado um lugar de inspector administrativo, que será provido por livre escolha do Ministro. O lugar de chefe de secção previsto no mesmo mapa será provido por livre escolha do Ministro em diplomado com um curso superior adaptado ao exercício do cargo.
+Art. 17.º Ao quadro do pessoal da Secretaria-Geral do Ministério do Ultramar, previsto no mapa anexo n.º 2 ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, é acrescentado um lugar de inspector administrativo, que será provido por livre escolha do Ministro. O lugar de chefe de secção previsto no mesmo mapa será provido por livre escolha do Ministro em diplomado com um curso superior adaptado ao exercício do cargo.
 
 § único. Compete ao inspector administrativo a inspecção dos serviços em que o secretário-geral superintende, e especialmente coadjuvá-lo nas funções notariais.
 
-###### Art. 18.º No quadro do pessoal da Direcção-Geral de Administração Política e Civil, previsto no mapa anexo n.º 3 ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), colocado na 3.ª Repartição da mesma Direcção-Geral, são extintos os seguintes lugares: um inspector administrativo, um chefe de secção, um primeiro-oficial, um escriturário e uma dactilógrafa.
+Art. 18.º No quadro do pessoal da Direcção-Geral de Administração Política e Civil, previsto no mapa anexo n.º 3 ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), colocado na 3.ª Repartição da mesma Direcção-Geral, são extintos os seguintes lugares: um inspector administrativo, um chefe de secção, um primeiro-oficial, um escriturário e uma dactilógrafa.
 
 § único. Este pessoal, com excepção do inspector administrativo, transitará, independentemente de visto e posse, para a Direcção-Geral de Justiça, por despacho ministerial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -176,7 +214,7 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Va
 
 Pessoal e vencimentos da Direcção-Geral de Justiça (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/10/23300/22202221.pdf))](https://files.diariodarepublica.pt/1s/1960/10/23300/22202221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/10/23300/22202221.pdf)
 
 (nota a) Substitui o mapa n.º 9 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
 

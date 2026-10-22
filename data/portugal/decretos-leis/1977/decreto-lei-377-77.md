@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20600/21692176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73bca37c9f15963c9822c504b561604c4a1d0e66112a1761f9975479adb92543
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8bd54ce00ecfd255de5e15f7250a0a03d790975f7a1ea2a37175d42990f5ad2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo Penal
 relationships:
 - type: amended_by
   target: pt:dre:662562:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681984:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:277874:por
+  label: Rectificado pela DECL.DD7752.05.11.1977.PCM, DR.IS [256] de 05.11.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-277874
+  date: '1977-11-05'
+- type: repealed_by
+  target: pt:dre:662562:por
+  label: "Revogado pelo DEC LEI.78/87.1987.02.17.MJ, DR.IS [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1987-662562
+  date: '1987-02-17'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:04Z'
   warnings: []
   errors: []
 ---
@@ -180,15 +215,15 @@ Assim:
 
 No uso da autorização legislativa conferida pela [Lei n.º 50/77](https://diariodarepublica.pt/dr/detalhe/lei/50-1977-408720), de 26 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Salvas as restrições previstas na lei, o processo penal é promovido pelo Ministério Público, que, conforme os casos, abrirá inquérito preliminar ou remeterá o processo ao juiz de instrução.
+Artigo 1.º - 1. Salvas as restrições previstas na lei, o processo penal é promovido pelo Ministério Público, que, conforme os casos, abrirá inquérito preliminar ou remeterá o processo ao juiz de instrução.
 
 2. Proceder-se-á a inquérito preliminar relativamente aos crimes puníveis com qualquer das penas previstas no artigo 56.º e nos n.os 2 e 3 do artigo 57.º do Código Penal, a menos que o arguido tenha sido preso e nessa situação haja sido ouvido em auto, caso em que haverá lugar a instrução preparatória nos termos do Código de Processo Penal e legislação complementar.
 
 3. Quando o crime seja punível com qualquer das penas dos artigos 55.º e 57.º, n.º 1, do Código Penal, haverá instrução preparatória.
 
-###### Art. 2.º - 1. No inquérito preliminar são admissíveis todos os meios de prova permitidos em direito, com as seguintes limitações:
+Art. 2.º - 1. No inquérito preliminar são admissíveis todos os meios de prova permitidos em direito, com as seguintes limitações:
 
 a) As buscas, autópsias, vistorias, apreensões domiciliárias e exames que possam ofender o pudor das pessoas examinadas, bem como as diligências referidas no artigo 210.º do Código de Processo Penal, devem ser autorizadas pelo juiz de instrução, que a elas presidirá, salvo se as diligências se fizerem com o consentimento expresso, reduzido a escrito e assinado, da pessoa cujo pudor possa ser ofendido, de quem de direito relativamente ao autopsiado, daqueles em cujo domicílio se fizerem ou, em geral, da pessoa contra quem forem dirigidas;
 
@@ -200,33 +235,33 @@ d) Se, por fundadas razões, a autoridade dirige o inquérito preliminar ficar i
 
 2. No final do inquérito será elaborado um relatório pela autoridade que o tiver organizado, no qual se fará a descrição sumária das diligências efectuadas e dos resultados obtidos.
 
-###### Art. 3.º A obrigatoriedade legal da instrução preparatória não exclui que previamente o Ministério Público, ou qualquer autoridade competente, possa proceder a inquérito preliminar, se isso for importante para a descoberta da verdade material ou puder concorrer para formar a convicção das referidas autoridades sobre se o processo deve ou não ser introduzido em juízo.
+Art. 3.º A obrigatoriedade legal da instrução preparatória não exclui que previamente o Ministério Público, ou qualquer autoridade competente, possa proceder a inquérito preliminar, se isso for importante para a descoberta da verdade material ou puder concorrer para formar a convicção das referidas autoridades sobre se o processo deve ou não ser introduzido em juízo.
 
-###### Art. 4.º - 1. Além do Ministério Público, todas as autoridades policiais devem, sempre que seja caso disso, proceder a inquérito preliminar dos crimes públicos de que tenham conhecimento.
+Art. 4.º - 1. Além do Ministério Público, todas as autoridades policiais devem, sempre que seja caso disso, proceder a inquérito preliminar dos crimes públicos de que tenham conhecimento.
 
 2. A abertura do inquérito preliminar quanto aos crimes semipúblicos depende da participação de quem tenha legitimidade para acusar e, quanto aos crimes particulares, da participação e de declaração de ulterior constituição de assistente.
 
 3. As autoridades que iniciarem o inquérito preliminar deverão imediatamente dar notícia do facto ao Ministério Público da comarca territorialmente competente, o qual, a todo o tempo, o poderá avocar.
 
-###### Art. 5.º - 1. Logo que no inquérito preliminar se tenham recolhido indícios da infracção e dos seus agentes, será o mesmo remetido ao agente do Ministério Público junto do tribunal competente para o julgamento ou para a instrução, conforme os casos.
+Art. 5.º - 1. Logo que no inquérito preliminar se tenham recolhido indícios da infracção e dos seus agentes, será o mesmo remetido ao agente do Ministério Público junto do tribunal competente para o julgamento ou para a instrução, conforme os casos.
 
 2. Transcorridos que sejam trinta dias, a contar do seu início, as autoridades remeterão ao agente do Ministério Público o inquérito, acompanhado do respectivo relatório, independentemente dos resultados obtidos até então.
 
 3. O Ministério Público poderá completar por si o inquérito ou devolvê-lo à autoridade que o organizou, a fim de esta o completar, indicando para tanto as diligências a efectuar e o prazo de realização.
 
-###### Art. 6.º O Ministério Público poderá proceder às diligências de averiguação no decurso do inquérito preliminar, directamente, por intermédio da Polícia Judiciária ou dos funcionários judiciais que o coadjuvem.
+Art. 6.º O Ministério Público poderá proceder às diligências de averiguação no decurso do inquérito preliminar, directamente, por intermédio da Polícia Judiciária ou dos funcionários judiciais que o coadjuvem.
 
-###### Art. 2.º É acrescentado ao [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667) o artigo 6.º-A, com a seguinte redacção:
+Art. 2.º É acrescentado ao [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667) o artigo 6.º-A, com a seguinte redacção:
 
-###### Art. 6.º-A. Quando o Ministério Público deixe de requerer o julgamento ou de deduzir acusação, após o encerramento do inquérito preliminar ou da instrução preparatória, será disso notificado o denunciante, o qual, se tiver a faculdade de se constituir assistente, poderá, no prazo de cinco dias, reclamar hierarquicamente.
+Art. 6.º-A. Quando o Ministério Público deixe de requerer o julgamento ou de deduzir acusação, após o encerramento do inquérito preliminar ou da instrução preparatória, será disso notificado o denunciante, o qual, se tiver a faculdade de se constituir assistente, poderá, no prazo de cinco dias, reclamar hierarquicamente.
 
-###### Art. 3.º São revogados os artigos 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º, 298.º, 389.º e 671.º do Código de Processo Penal.
+Art. 3.º São revogados os artigos 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º, 298.º, 389.º e 671.º do Código de Processo Penal.
 
-###### Art. 4.º Os artigos 35.º, 91.º, 93.º, 210.º, 242.º, 261.º, 270.º, 271.º, 272.º, 273.º, 286.º, 291.º, 296.º, 308.º, 311.º, 388.º, 390.º, 391.º, 411.º, 413.º, 543.º, 556.º, 560.º, 638.º, 639.º, 640.º, 641.º, 683.º e 685.º do Código de Processo Penal passam a ter a seguinte redacção:
+Art. 4.º Os artigos 35.º, 91.º, 93.º, 210.º, 242.º, 261.º, 270.º, 271.º, 272.º, 273.º, 286.º, 291.º, 296.º, 308.º, 311.º, 388.º, 390.º, 391.º, 411.º, 413.º, 543.º, 556.º, 560.º, 638.º, 639.º, 640.º, 641.º, 683.º e 685.º do Código de Processo Penal passam a ter a seguinte redacção:
 
-###### Art. 35.º A competência material e funcional dos tribunais penais será prevista na legislação sobre organização judiciária.
+Art. 35.º A competência material e funcional dos tribunais penais será prevista na legislação sobre organização judiciária.
 
-###### Art. 91.º Toda a pessoa devidamente notificada ou avisada que não comparecer no dia, hora e local designados, nem justificar a falta nesse acto, incorrerá na multa de 200$00 a 20000$00, a fixar em função da sua situação económica e encargos sociais, e em indemnização de igual importância a favor do Cofre Geral dos Tribunais, sendo a multa e a indemnização logo fixadas no respectivo auto.
+Art. 91.º Toda a pessoa devidamente notificada ou avisada que não comparecer no dia, hora e local designados, nem justificar a falta nesse acto, incorrerá na multa de 200$00 a 20000$00, a fixar em função da sua situação económica e encargos sociais, e em indemnização de igual importância a favor do Cofre Geral dos Tribunais, sendo a multa e a indemnização logo fixadas no respectivo auto.
 
 § 1.º ...
 
@@ -240,7 +275,7 @@ d) Se, por fundadas razões, a autoridade dirige o inquérito preliminar ficar i
 
 § 6.º Se a falta for cometida pelo representante do Ministério Público, dar-se-á conhecimento do facto ao respectivo superior hierárquico; se for pelo defensor do réu, aplicar-se-ão as disposições do § 2.º do artigo 417.º deste Código.
 
-###### Art. 93.º Aos juízes, aos presidentes dos tribunais e ao Ministério Público compete regular os trabalhos e manter a ordem nos actos processuais a que presidam, advertindo os perturbadores e podendo fazê-los sair do tribunal ou do lugar onde qualquer diligência se realize.
+Art. 93.º Aos juízes, aos presidentes dos tribunais e ao Ministério Público compete regular os trabalhos e manter a ordem nos actos processuais a que presidam, advertindo os perturbadores e podendo fazê-los sair do tribunal ou do lugar onde qualquer diligência se realize.
 
 Se o prevaricador dever ainda intervir ou estar presente no próprio dia, em acto presidido pelo juiz, pode este ordenar que aquele seja guardado sob custódia até à altura da sua intervenção ou durante o tempo em que a sua presença for necessária.
 
@@ -248,17 +283,17 @@ Fica sempre ressalvado o procedimento criminal que ao caso couber.
 
 § único. Os juízes, presidentes dos tribunais e Ministério Público poderão requisitar o auxílio da força pública quando o julgarem necessário.
 
-###### Art. 210.º Nos correios e nas estações de telecomunicações poderão fazer-se buscas e apreensões de cartas, encomendas, valores, telegramas e qualquer outra correspondência dirigida ao arguido, ou outras pessoas que tenham relações com o crime, e poderá o juiz, ou qualquer oficial de justiça ou agente da autoridade, por sua ordem, ter acesso aos referidos meios, para interceptar, gravar ou impedir comunicações, quando seja indispensável à instrução da causa, observando-se as disposições deste Código em tudo o que não for regulado na respectiva legislação especial.
+Art. 210.º Nos correios e nas estações de telecomunicações poderão fazer-se buscas e apreensões de cartas, encomendas, valores, telegramas e qualquer outra correspondência dirigida ao arguido, ou outras pessoas que tenham relações com o crime, e poderá o juiz, ou qualquer oficial de justiça ou agente da autoridade, por sua ordem, ter acesso aos referidos meios, para interceptar, gravar ou impedir comunicações, quando seja indispensável à instrução da causa, observando-se as disposições deste Código em tudo o que não for regulado na respectiva legislação especial.
 
 § 1.º É também permitido o conhecimento da correspondência quando se verifique o pressuposto indicado na última parte do corpo do artigo.
 
 § 2.º As providências a que se referem este artigo e o seu § 1.º só excepcionalmente poderão ser ordenadas, devendo o juiz declarar previamente a sua necessidade em despacho fundamentado.
 
-###### Art. 242.º A testemunha que injustificadamente se recusar a responder às perguntas que lhe forem feitas, depois de advertida das consequências da recusa, será punida com a prisão até dois anos.
+Art. 242.º A testemunha que injustificadamente se recusar a responder às perguntas que lhe forem feitas, depois de advertida das consequências da recusa, será punida com a prisão até dois anos.
 
 O mesmo se observará quanto aos declarantes.
 
-###### Art. 261.º - 1. É proibido a qualquer entidade ou pessoa participante no processo penal:
+Art. 261.º - 1. É proibido a qualquer entidade ou pessoa participante no processo penal:
 
 a) Perturbar a liberdade de vontade ou de decisão do arguido através de maus tratos, ofensas corporais, administração de meios de qualquer natureza, hipnose ou utilização de meios cruéis ou enganosos;
 
@@ -270,7 +305,7 @@ d) Ameaçar o arguido com uma medida legalmente inadmissível ou prometer-lhe qu
 
 2. O consentimento do arguido não afecta as proibições estabelecidas no número anterior. De igual modo, não podem as declarações tomadas com violação daquelas proibições ser apreciadas pelo tribunal ou pelo juiz de instrução, mesmo que nisso o arguido consinta.
 
-###### Art. 270.º Fora dos casos previstos no artigo 286.º, não pode ser ordenada a prisão, nem esta será mantida, ficando os arguidos em liberdade provisória.
+Art. 270.º Fora dos casos previstos no artigo 286.º, não pode ser ordenada a prisão, nem esta será mantida, ficando os arguidos em liberdade provisória.
 
 § único. Em liberdade provisória, com ou sem caução, pode o arguido ficar sujeito, consoante as circunstâncias, para além das obrigações referidas no artigo anterior, a:
 
@@ -290,11 +325,11 @@ d) Ameaçar o arguido com uma medida legalmente inadmissível ou prometer-lhe qu
 
 8.ª Qualquer outra obrigação a que possa ser subordinada a liberdade condicional, salvo o internamento.
 
-###### Art. 271.º Ficam em liberdade provisória mediante caução os arguidos por crimes a que corresponda pena de prisão por mais de um ano.
+Art. 271.º Ficam em liberdade provisória mediante caução os arguidos por crimes a que corresponda pena de prisão por mais de um ano.
 
-###### Art. 272.º Se o arguido estiver impossibilitado de prestar caução, ou tiver grandes dificuldades ou inconvenientes em prestá-la, deverá o juiz, oficiosamente ou sob promoção do Ministério Público, ou a requerimento do próprio interessado, substituí-la pela obrigação de o mesmo arguido se apresentar ao tribunal ou à autoridade por ele designada, em dias e horas preestabelecidos, ou quando o juiz o entender necessário, obrigação esta que acrescerá às que lhe tiverem sido impostas.
+Art. 272.º Se o arguido estiver impossibilitado de prestar caução, ou tiver grandes dificuldades ou inconvenientes em prestá-la, deverá o juiz, oficiosamente ou sob promoção do Ministério Público, ou a requerimento do próprio interessado, substituí-la pela obrigação de o mesmo arguido se apresentar ao tribunal ou à autoridade por ele designada, em dias e horas preestabelecidos, ou quando o juiz o entender necessário, obrigação esta que acrescerá às que lhe tiverem sido impostas.
 
-###### Art. 273.º A prisão preventiva deverá ser revogada, ordenando-se a soltura do arguido ou acusado, mediante caução, salvo se o juiz justificadamente a julgar dispensável, sempre que se verifique não subsistirem os requisitos que a justificaram, e poderá ser de novo ordenada, sem prejuízo da unidade dos prazos que a lei estabelece, se sobrevierem motivos que a justifiquem legalmente.
+Art. 273.º A prisão preventiva deverá ser revogada, ordenando-se a soltura do arguido ou acusado, mediante caução, salvo se o juiz justificadamente a julgar dispensável, sempre que se verifique não subsistirem os requisitos que a justificaram, e poderá ser de novo ordenada, sem prejuízo da unidade dos prazos que a lei estabelece, se sobrevierem motivos que a justifiquem legalmente.
 
 § 1.º Após a formação da culpa, a prisão preventiva deve cessar quando atingir metade da duração máxima da pena prevista no tipo de crime mais grave imputado ao arguido, não podendo, no entanto, ultrapassar dois anos.
 
@@ -302,13 +337,13 @@ d) Ameaçar o arguido com uma medida legalmente inadmissível ou prometer-lhe qu
 
 § 3.º O arguido ou acusado será posto em liberdade logo que em qualquer tribunal a acusação não seja recebida ou se verifique sentença absolutória.
 
-###### Art. 286.º A prisão preventiva só pode ser autorizada:
+Art. 286.º A prisão preventiva só pode ser autorizada:
 
 1.º Em flagrante delito, nos termos do artigo 287.º;
 
 2.º Por crime doloso a que corresponda pena maior.
 
-###### Art. 291.º Para além do caso de flagrante delito, só é autorizada a prisão preventiva quando, cumulativamente, se verifiquem os seguintes requisitos:
+Art. 291.º Para além do caso de flagrante delito, só é autorizada a prisão preventiva quando, cumulativamente, se verifiquem os seguintes requisitos:
 
 a) Perpetração de crime doloso punível com pena maior;
 
@@ -330,7 +365,7 @@ c) Quando, em razão da natureza e circunstâncias do crime, ou da personalidade
 
 O incidente não será reduzido a escrito, salvo o despacho, que deve ser motivado.
 
-###### Art. 296.º Os mandados de captura judiciais são exequíveis em todo o território nacional; serão entregues ao agente do Ministério Público da respectiva comarca, que os fará cumprir pelos oficiais de diligências do tribunal.
+Art. 296.º Os mandados de captura judiciais são exequíveis em todo o território nacional; serão entregues ao agente do Ministério Público da respectiva comarca, que os fará cumprir pelos oficiais de diligências do tribunal.
 
 Quer o juiz quer o Ministério Público podem solicitar a execução dos mandados de captura às autoridades policiais para esse efeito, deverão ser passados exemplares do mandado de captura em número conveniente, podendo também as autoridades copiá-lo em novos exemplares, desde que autentiquem as cópias com a sua assinatura.
 
@@ -344,7 +379,7 @@ Em caso de urgência, é admitida a requisição da captura por qualquer meio de
 
 § 4.º Se a captura for efectuada por qualquer autoridade, por o oficial ter certificado a impossibilidade de cumprimento, observar-se-á o disposto no § único do artigo 87.º
 
-###### Art. 308.º Nenhum arguido pode estar preso sem culpa formada além dos prazos marcados na lei.
+Art. 308.º Nenhum arguido pode estar preso sem culpa formada além dos prazos marcados na lei.
 
 § 1.º Desde a captura até à notificação ao arguido da acusação ou do pedido de instrução contraditória pelo Ministério Público, esses prazos não podem exceder:
 
@@ -356,17 +391,17 @@ Em caso de urgência, é admitida a requisição da captura por qualquer meio de
 
 § 3.º Mantém-se a culpa formada até à decisão final, a não ser que em qualquer recurso o arguido seja despronunciado ou absolvido.
 
-###### Art. 311.º Os presos sem culpa formada serão apresentados ao juiz de instrução competente ou ao do lugar da prisão dentro do prazo máximo de quarenta e oito horas após a detenção.
+Art. 311.º Os presos sem culpa formada serão apresentados ao juiz de instrução competente ou ao do lugar da prisão dentro do prazo máximo de quarenta e oito horas após a detenção.
 
 § 1.º Os presos não poderão comunicar com pessoa alguma antes do primeiro interrogatório se tal se mostrar indispensável para evitar perturbações do processo.
 
 § 2.º Enquanto durar a instrução preparatória, o juiz de instrução pode proibir a comunicação do arguido com certas pessoas, ou condicioná-la, se absolutamente necessário para evitar tentativas de pertubação da instrução do processo.
 
-###### Art. 388.º - 1. Sempre que a acusação seja deduzida apenas pelo assistente, será o arguido notificado da acusação, podendo, no prazo de cinco dias, requerer a abertura da instrução contraditória ou o arquivamento do processo.
+Art. 388.º - 1. Sempre que a acusação seja deduzida apenas pelo assistente, será o arguido notificado da acusação, podendo, no prazo de cinco dias, requerer a abertura da instrução contraditória ou o arquivamento do processo.
 
 2. No caso de o arguido requerer, nos termos do número anterior, a instrução contraditória, esta terá sempre lugar, aplicando-se os correspondentes preceitos do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, e deste Código.
 
-###### Art. 390.º - 1. No despacho que recair sobre a acusação o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa e que desde logo possa apreciar.
+Art. 390.º - 1. No despacho que recair sobre a acusação o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa e que desde logo possa apreciar.
 
 2. Quando os resultados do inquérito preliminar ou da instrução permitam concluir que a responsabilidade do arguido por um crime se mostra suficientemente indiciada, designar-se-á dia para julgamento, ordenando-se desde logo as medidas preventivas que a lei determinar para o caso.
 
@@ -374,13 +409,13 @@ Desse despacho só há recurso para o Tribunal da Relação quando se tratar de 
 
 3. Haverá sempre recurso, a subir imediatamente, em separado e com efeito devolutivo, na parte respeitante às medidas preventivas ordenadas.
 
-###### Art. 391.º - 1. O despacho que designar dia para julgamento será notificado ao acusado, entregando-se-lhe cópia do requerimento para julgamento ou da acusação, com rol de testemunhas e indicação dos documentos produzidos.
+Art. 391.º - 1. O despacho que designar dia para julgamento será notificado ao acusado, entregando-se-lhe cópia do requerimento para julgamento ou da acusação, com rol de testemunhas e indicação dos documentos produzidos.
 
 No prazo de cinco dias, a contar da notificação, deverá o acusado entregar na secretaria do tribunal a sua contestação, com o rol de testemunhas e documentos que queira produzir em sua defesa, podendo apresentar apenas o rol de testemunhas e documentos, reservando para a audiência de julgamento o oferecimento da contestação.
 
 2. No mesmo prazo poderá ser requerida a instrução contraditória, caso em que caducam os efeitos do despacho proferido nos termos do artigo 390.º, salvo no que toca às medidas preventivas fixadas, e será remetido o processo ao juízo de instrução criminal.
 
-###### Art. 411.º Se for cometida qualquer infracção em audiência, será levantado auto de notícia e ordenada a prisão do infractor.
+Art. 411.º Se for cometida qualquer infracção em audiência, será levantado auto de notícia e ordenada a prisão do infractor.
 
 § 1.º O Ministério Público requererá que se proceda a julgamento sumário quando o arguido não tiver foro especial e for aplicável essa forma de processo.
 
@@ -390,23 +425,23 @@ No prazo de cinco dias, a contar da notificação, deverá o acusado entregar na
 
 § 4.º Se a infracção for cometida por advogado no exercício das suas funções, não se aplicará o disposto neste artigo e observar-se-ão os termos prescritos no artigo 412.º
 
-###### Art. 413.º O réu que faltar ao respeito devido ao tribunal será punido nos termos do artigo 181.º e seus parágrafos do Código Penal, procedendo-se para tanto nos termos do artigo 411.º o tribunal poderá ainda fazer prosseguir o julgamento sem a presença do réu; neste caso, mandá-lo-á comparecer para a leitura da decisão final, ou ordenará que a notificação se efectue na prisão, se a presença continuar a revelar-se inconveniente.
+Art. 413.º O réu que faltar ao respeito devido ao tribunal será punido nos termos do artigo 181.º e seus parágrafos do Código Penal, procedendo-se para tanto nos termos do artigo 411.º o tribunal poderá ainda fazer prosseguir o julgamento sem a presença do réu; neste caso, mandá-lo-á comparecer para a leitura da decisão final, ou ordenará que a notificação se efectue na prisão, se a presença continuar a revelar-se inconveniente.
 
-###### Art. 543.º O processo de transgressão regula-se pelas normas legais do processo correcional, qualquer que seja a pena aplicável à infracção, com as modificações constantes dos artigos seguintes.
+Art. 543.º O processo de transgressão regula-se pelas normas legais do processo correcional, qualquer que seja a pena aplicável à infracção, com as modificações constantes dos artigos seguintes.
 
-###### Art. 556.º Os infractores presos em flagrante, por infracção a que corresponda processo correcional ou de transgressões, serão julgados sumariamente, nos termos dos artigos seguintes.
+Art. 556.º Os infractores presos em flagrante, por infracção a que corresponda processo correcional ou de transgressões, serão julgados sumariamente, nos termos dos artigos seguintes.
 
-###### Art. 560.º O réu preso que deva ser julgado em processo sumário aguardará nessa situação o julgamento, salvo quando não se puder realizar até quarenta e oito horas após a captura; neste caso será posto em liberdade, mediante termo de identidade ou caução, conforme a gravidade da pena.
+Art. 560.º O réu preso que deva ser julgado em processo sumário aguardará nessa situação o julgamento, salvo quando não se puder realizar até quarenta e oito horas após a captura; neste caso será posto em liberdade, mediante termo de identidade ou caução, conforme a gravidade da pena.
 
 § 1.º Se o réu preso em flagrante delito tiver de responder, por qualquer contravenção ou transgressão, em processo sumário, e não for imediatamente julgado, poderá ser posto em liberdade, desde que deposite, na repartição pública competente ou nas mãos do escrivão, uma quantia igual a um terço do máximo da multa, mas nunca inferior ao seu mínimo, se for esta a pena aplicável, ou mediante termo de identidade e residência.
 
 § 2.º Se o réu não comparecer na audiência de julgamento perderá o depósito a que se refere o parágrafo anterior, a favor do Estado, e será julgado à revelia, seja qual for a pena que corresponder à infracção, tornando-se executória a sentença, se não houver recurso.
 
-###### Art. 638.º A multa será paga após o trânsito em julgado da decisão que a impuser e pelo quantitativo exacto nela fixado, não podendo ser acrescido de quaisquer adicionais.
+Art. 638.º A multa será paga após o trânsito em julgado da decisão que a impuser e pelo quantitativo exacto nela fixado, não podendo ser acrescido de quaisquer adicionais.
 
 § único. O prazo para o pagamento é de dez dias, a contar da notificação para esse efeito. Se a notificação for efectuada por via postal, considera-se feita três dias após a remessa do aviso registado para o domicílio constante do processo.
 
-###### Art. 639.º O juiz, desde que o condenado o requeira no prazo do pagamento a que se refere o § único do artigo 638.º, poderá:
+Art. 639.º O juiz, desde que o condenado o requeira no prazo do pagamento a que se refere o § único do artigo 638.º, poderá:
 
 1.º Prorrogar o prazo de pagamento da multa até um mês;
 
@@ -416,13 +451,13 @@ No prazo de cinco dias, a contar da notificação, deverá o acusado entregar na
 
 § 2.º A prorrogação do prazo de pagamento da multa e a faculdade do pagamento em prestações, nos termos deste artigo, só poderão ser concedidas quando o quantitativo total da multa exceder 500$00; as prestações não poderão ser inferiores a um sexto dos proventos mensais do condenado.
 
-###### Art. 640.º Findo o prazo de pagamento da multa ou de alguma das prestações sem que o réu efectue o pagamento, procede-se à execução patrimonial nos termos seguintes:
+Art. 640.º Findo o prazo de pagamento da multa ou de alguma das prestações sem que o réu efectue o pagamento, procede-se à execução patrimonial nos termos seguintes:
 
 1.º Tendo o réu bens suficientes e desembaraçados de que o tribunal tenha conhecimento ou que o réu indique no prazo de pagamento, comprovando a sua titularidade, o Ministério Público promoverá logo a execução, que seguirá nos termos das execuções por custas, com obsevância do disposto no artigo 1696.º do Código Civil;
 
 2.º Responderão sempre pelo pagamento da multa todos os instrumentos utilizados na prática da infracção e os seus produtos, salvo os que pela prática da infracção ficarem perdidos para o Estado e os que, pertencendo a terceiro, tiverem sido utilizados sem o seu conhecimento ou contra a sua vontade. Para os efeitos do disposto neste número, poderão ser apreendidos os instrumentos e produtos, sempre que os infractores não garantam de modo adequado o pagamento da multa provável. São nulos os actos de disposição dos referidos instrumentos e produtos, levados a efeito após a prática da infracção, que prejudiquem o pagamento da multa, ressalvando-se os direitos dos adquirentes de boa fé, conforme o estipulado na lei civil.
 
-###### Art. 641.º Se a multa não for paga ou executada nos termos dos artigos anteriores, será total ou parcialmente substituída pelo número correspondente de dias de trabalho, sempre que o condenado prove que não pode pagar e se encontra em condições de poder trabalhar. As multas de quantia taxada pela lei serão convertidas à razão de 150$00 por dia.
+Art. 641.º Se a multa não for paga ou executada nos termos dos artigos anteriores, será total ou parcialmente substituída pelo número correspondente de dias de trabalho, sempre que o condenado prove que não pode pagar e se encontra em condições de poder trabalhar. As multas de quantia taxada pela lei serão convertidas à razão de 150$00 por dia.
 
 § 1.º O local de trabalho é decidido pelo juiz, com intervenção do Ministério Público e audiência do condenado, e, sempre que possível, com a concordância deste. Incumbe ao Ministério Público e ao condenado contactar quaisquer institituições públicas ou privadas, serviços sociais, grupos sócio-profissionais e outros, e o público em geral, que se encontrem em condições de proporcionar ou indicar trabalho adequado.
 
@@ -432,29 +467,29 @@ No prazo de cinco dias, a contar da notificação, deverá o acusado entregar na
 
 § 4.º No caso do § 3.º do artigo 123.º do Código Penal, a execução da pena de prisão sustar-se-á até resolução do incidente.
 
-###### Art. 683.º Se for autorizada a revisão, o Supremo Tribunal de Justiça mandará baixar os autos ao juízo da causa em que se proferiu a decisão que deve ser revista.
+Art. 683.º Se for autorizada a revisão, o Supremo Tribunal de Justiça mandará baixar os autos ao juízo da causa em que se proferiu a decisão que deve ser revista.
 
-###### Art. 685.º Se a revisão for autorizada, com fundamento no n.º 1 do artigo 673.º, por haver sentenças penais inconciliáveis que tenham condenado réus diversos pelos mesmos factos, o Supremo Tribunal de Justiça as anulará, ordenando que se proceda a novo julgamento conjunto de todos os acusados no tribunal que, segundo a lei, for competente para o efectuar e que será indicado no acórdão que autorizar a revisão.
+Art. 685.º Se a revisão for autorizada, com fundamento no n.º 1 do artigo 673.º, por haver sentenças penais inconciliáveis que tenham condenado réus diversos pelos mesmos factos, o Supremo Tribunal de Justiça as anulará, ordenando que se proceda a novo julgamento conjunto de todos os acusados no tribunal que, segundo a lei, for competente para o efectuar e que será indicado no acórdão que autorizar a revisão.
 
 § único. Para os efeitos do disposto neste artigo, apensar-se-ão os respectivos processos, seguindo-se os ulteriores termos da revisão em qualquer deles.
 
-###### Art. 5.º São acrescentados ao Código de Processo Penal os artigos 273.º-A, 285.º-A, 291.º-A e 291.º-B, com a seguinte redacção:
+Art. 5.º São acrescentados ao Código de Processo Penal os artigos 273.º-A, 285.º-A, 291.º-A e 291.º-B, com a seguinte redacção:
 
-###### Art. 273.º-A. Durante a prisão preventiva deverá o juiz, oficiosamente ou a requerimento do Ministério Público, do arguido ou do defensor, proceder ao reexame da subsistência dos seus pressupostos, decidindo se é de manter, revogar ou suspender essa medida.
+Art. 273.º-A. Durante a prisão preventiva deverá o juiz, oficiosamente ou a requerimento do Ministério Público, do arguido ou do defensor, proceder ao reexame da subsistência dos seus pressupostos, decidindo se é de manter, revogar ou suspender essa medida.
 
 § único. O reexame deverá ter lugar de três em três meses e a ele se aplica, com as necessárias adaptações, o disposto no § 3.º do artigo 291.º
 
-###### Art. 285-A. Se o arguido em liberdade provisória, com ou sem caução, se recusar a declarar a sua identidade e residência, ou deixar de comparecer em juízo quando a lei o exija ou quando seja devidamente notificado por ordem do magistrado competente, será punido com prisão até dois anos; na mesma pena incorrerá aquele que, sem justa causa, se recusar a prestar caução.
+Art. 285-A. Se o arguido em liberdade provisória, com ou sem caução, se recusar a declarar a sua identidade e residência, ou deixar de comparecer em juízo quando a lei o exija ou quando seja devidamente notificado por ordem do magistrado competente, será punido com prisão até dois anos; na mesma pena incorrerá aquele que, sem justa causa, se recusar a prestar caução.
 
-###### Art. 291-A. O juiz deve comunicar a um parente do arguido, ou a pessoa da sua confiança, a prisão e as decisões que sobre ela recaírem.
+Art. 291-A. O juiz deve comunicar a um parente do arguido, ou a pessoa da sua confiança, a prisão e as decisões que sobre ela recaírem.
 
-###### Art. 291.º-B. Oficiosamente ou a requerimento do arguido, do defensor ou do Ministério Público, pode excepcionalmente o juiz suspender a execução da prisão preventiva, se através de outros meios for possível assegurar os fins que concretamente se visam realizar com aquela medida, nomeadamente mediante a prestação de caução, acompanhada das obrigações a que se refere o artigo 270.º julgadas mais adequadas ao caso.
+Art. 291.º-B. Oficiosamente ou a requerimento do arguido, do defensor ou do Ministério Público, pode excepcionalmente o juiz suspender a execução da prisão preventiva, se através de outros meios for possível assegurar os fins que concretamente se visam realizar com aquela medida, nomeadamente mediante a prestação de caução, acompanhada das obrigações a que se refere o artigo 270.º julgadas mais adequadas ao caso.
 
 § único. A suspensão ficará sem efeito, e não poderá ser renovada, se pela grosseira violação do cumprimento das obrigações impostas, ou pela verificação de outras circunstâncias, ela se mostrar injustificada.
 
-###### Art. 6.º O artigo 3.º do [Decreto-Lei n.º 274/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1975-335918), de 4 de Junho, passa a ter a seguinte redacção:
+Art. 6.º O artigo 3.º do [Decreto-Lei n.º 274/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1975-335918), de 4 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 3.º Não é admissível caução relativamente aos crimes puníveis com pena maior fixa, cometidos com violência, nem em relação aos crimes a seguir indicados, quando a pena aplicável for, no mínimo, a de prisão maior:
+Art. 3.º Não é admissível caução relativamente aos crimes puníveis com pena maior fixa, cometidos com violência, nem em relação aos crimes a seguir indicados, quando a pena aplicável for, no mínimo, a de prisão maior:
 
 1.º De furto de veículos, do seu uso, de peças ou acessórios a eles pertencentes, de objectos ou valores neles deixados;
 
@@ -482,12 +517,12 @@ No prazo de cinco dias, a contar da notificação, deverá o acusado entregar na
 
 § 2.º Para o efeito do disposto no corpo do artigo, consideram-se como cometidos com violência os crimes que suponham ou sejam acompanhados de uma agressão à vida, à integridade física ou à liberdade das pessoas.
 
-###### Art. 7.º O presente diploma entra em vigor quinze dias após a sua publicação.
+Art. 7.º O presente diploma entra em vigor quinze dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros, Mário Soares - António de Almeida Santos.
 
-**Promulgado em 15 de Agosto de 1977.**
+Promulgado em 15 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

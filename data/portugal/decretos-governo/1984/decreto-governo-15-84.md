@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/15-1984-661744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9590a4a4911c8b9c2a97faee6d9948ccd78879feae659cc0f7290584b17edf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 059ff99629893dde1eea33b233f71942129953ed6c5deadc24d4adfabe9b82d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Mundial
+- Convenção
+- Investimento
+- Investimento Estrangeiro
+- Investimento no Estrangeiro
+- Portugal
+- Protecção do Investimento
+- Washington
 relationships:
 - type: amended_by
   target: pt:dre:683067:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683067:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.216/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/216-1999-683067
+  date: '1999-11-09'
 article_structure:
-  article_count: 76
+  article_count: 75
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:43Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +104,19 @@ de 3 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção para a Resolução de Diferendos Relativos a Investimentos entre Estados e Nacionais de Outros Estados, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção para a Resolução de Diferendos Relativos a Investimentos entre Estados e Nacionais de Outros Estados, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.
 
-**Assinado em 20 de Março de 1984.**
+Assinado em 20 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Março de 1984.**
+Referendado em 22 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENÇÃO PARA A RESOLUÇÃO DE DIFERENDOS RELATIVOS A INVESTIMENTOS ENTRE ESTADOS E NACIONAIS DE OUTROS ESTADOS.
 
@@ -155,7 +168,7 @@ O Centro será constituído por um conselho de administração e por um secretar
 
 ###### Artigo 5.º
 
-**O presidente do Banco exercerá de pleno direito o lugar de presidente do conselho de administração (daqui para a frente denominado presidente), mas não terá direito a voto. Durante a sua ausência ou impedimento, bem como em caso de vacatura da presidência do Banco, aquele que durante esse período desempenhar as funções de presidente do Banco actuará como presidente do conselho de administração.**
+O presidente do Banco exercerá de pleno direito o lugar de presidente do conselho de administração (daqui para a frente denominado presidente), mas não terá direito a voto. Durante a sua ausência ou impedimento, bem como em caso de vacatura da presidência do Banco, aquele que durante esse período desempenhar as funções de presidente do Banco actuará como presidente do conselho de administração.
 
 ###### Artigo 6.º
 
@@ -213,7 +226,7 @@ Depois de consultados os membros do conselho de administração, o presidente pr
 
 ###### Artigo 11.º
 
-**O secretário-geral será o representante legal do Centro e dirigi-lo-á e será responsável pela sua administração, onde se incluirá o recrutamento de pessoal, em conformidade com as disposições da presente Convenção e os Regulamentos adoptados pelo conselho de administração. Exercerá a função de escrivão e terá poderes para autenticar sentenças arbitrais consequentes da presente Convenção, bem como para certificar cópias das mesmas.**
+O secretário-geral será o representante legal do Centro e dirigi-lo-á e será responsável pela sua administração, onde se incluirá o recrutamento de pessoal, em conformidade com as disposições da presente Convenção e os Regulamentos adoptados pelo conselho de administração. Exercerá a função de escrivão e terá poderes para autenticar sentenças arbitrais consequentes da presente Convenção, bem como para certificar cópias das mesmas.
 
 #### SECÇÃO 4 — Listas
 
@@ -279,7 +292,7 @@ O Centro não poderá ser objecto de acções judiciais relativas ao seu patrim�
 
 ###### Artigo 21.º
 
-**O presidente, os membros do conselho de administração, as pessoas exercendo funções como conciliadores ou árbitros ou membros de um comité constituído em conformidade com o n.º 3 do artigo 52.º e os funcionários e empregados do secretariado:**
+O presidente, os membros do conselho de administração, as pessoas exercendo funções como conciliadores ou árbitros ou membros de um comité constituído em conformidade com o n.º 3 do artigo 52.º e os funcionários e empregados do secretariado:
 
 a) Não poderão ser demandados por actos praticados no exercício das suas funções, excepto quando o Centro lhes retirar essa imunidade;
 

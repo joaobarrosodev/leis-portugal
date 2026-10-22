@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1972-690827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3de00a53717e974819ad30a786d0ba35f93a8acf4b013ae40db462a9f49261e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ddb90d2157156d985beeaeade969236a8fa89d00bb19326793ce0277213272d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Depuração de Moluscos
+- Criação de Serviços
+- Definição de Competências
+- Junta Nacional de Fomento das Pescas
+- Pesca
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:528010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:19Z'
   warnings: []
   errors: []
 ---
@@ -88,22 +102,22 @@ Considerando a conveniência de actualizar as disposições que regulam a estrut
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado o Centro de Depuração de Moluscos (C. D. M.), que funcionará na dependência do presidente da Junta Nacional de Fomento das Pescas.
+Artigo 1.º - 1. É criado o Centro de Depuração de Moluscos (C. D. M.), que funcionará na dependência do presidente da Junta Nacional de Fomento das Pescas.
 
 2. São transferidos para o C. D. M. o pessoal, material e infra-estruturas do Posto de Depuração de Ostras do Tejo, criado pela [Portaria n.º 13677](https://diariodarepublica.pt/dr/detalhe/portaria/13677-1951-584179), de 15 de Setembro de 1951.
 
 3. Ao C. D. M. são aplicadas as disposições que pelo [Decreto-Lei n.º 39159](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39159-1953-528010), de 11 de Abril de 1953, foram estabelecidas para o Posto de Depuração de Ostras do Tejo.
 
-###### Art. 2.º Ao Centro de Depuração de Moluscos, além das atribuições a que se refere o [Decreto-Lei n.º 39159](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39159-1953-528010) e das que competem aos postos de depuração, pertence administrar e fiscalizar o funcionamento de todos os postos oficiais de depuração de moluscos.
+Art. 2.º Ao Centro de Depuração de Moluscos, além das atribuições a que se refere o [Decreto-Lei n.º 39159](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39159-1953-528010) e das que competem aos postos de depuração, pertence administrar e fiscalizar o funcionamento de todos os postos oficiais de depuração de moluscos.
 
-###### Art. 3.º A criação ou extinção de postos oficiais de depuração de moluscos realiza-se por portaria do Ministro da Marinha, ouvida a Comissão Consultiva das Pescas (Secção de Malacologia).
+Art. 3.º A criação ou extinção de postos oficiais de depuração de moluscos realiza-se por portaria do Ministro da Marinha, ouvida a Comissão Consultiva das Pescas (Secção de Malacologia).
 
-###### Art. 4.º Os regulamentos internos do Centro de Depuração de Moluscos e dos postos oficiais de depuração de moluscos são estabelecidos por portaria do Ministro da Marinha.
+Art. 4.º Os regulamentos internos do Centro de Depuração de Moluscos e dos postos oficiais de depuração de moluscos são estabelecidos por portaria do Ministro da Marinha.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 18 de Outubro de 1972.**
+Promulgado em 18 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

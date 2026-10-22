@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1972-675665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9be265b8e53162057689652e63425b99c9b8c3ba9e39f60b10fe4f3105826ae6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3b64b731dd629449af5e4c37a36198e271de311fbaaa5d239e078fd0b5e6528
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Direcção das Construções Navais
+- Ministério da Marinha
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:15Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +90,9 @@ de 26 de Julho
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério da Marinha, através da Direcção das Construções Navais, a celebrar acordos com as autoridades indicadas por governos de outros países para a prestação de serviços de assistência e fiscalização, de natureza técnica e administrativa, na construção de navios para marinhas estrangeiras e a celebrar contratos com pessoas e firmas para fornecimento de bens e serviços necessários à consecução desse objectivo.
+Artigo 1.º É autorizado o Ministério da Marinha, através da Direcção das Construções Navais, a celebrar acordos com as autoridades indicadas por governos de outros países para a prestação de serviços de assistência e fiscalização, de natureza técnica e administrativa, na construção de navios para marinhas estrangeiras e a celebrar contratos com pessoas e firmas para fornecimento de bens e serviços necessários à consecução desse objectivo.
 
-###### Art. 2.º - 1. As despesas que, para o efeito, o Ministério da Marinha tiver de realizar serão custeadas por dotação especial a inscrever no seu orçamento por contrapartida do reembolso a efectuar pelas entidades responsáveis pelas encomendas.
+Art. 2.º - 1. As despesas que, para o efeito, o Ministério da Marinha tiver de realizar serão custeadas por dotação especial a inscrever no seu orçamento por contrapartida do reembolso a efectuar pelas entidades responsáveis pelas encomendas.
 
 2. A realização das despesas está sujeita à autorização do Ministro da Marinha sendo dispensada de quaisquer outras formalidades legais.
 
@@ -98,8 +102,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 20 de Julho de 1972.**
+Promulgado em 20 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

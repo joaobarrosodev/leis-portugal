@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/18800/16671667.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1978-299815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afb1ae353664d3bc85bee0b5570ca3171c09a49290000095d131cfb8fceebb99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fe0bf7529c2b3470f6c609bb05201223f33a50b7d820e500c7ece9b13b04401
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- BENS Imóveis
+- Comissão de Extinção
+- Direcção Geral de Segurança
+- Gestão do Património
+- Gestão Financeira
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:474743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:52Z'
   warnings: []
   errors: []
 ---
@@ -102,14 +118,14 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Quando razões de interesse público o justifiquem, pode ser autorizada, por despacho do Ministro das Finanças e do Plano, sob proposta do Ministro a quem a questão esteja directamente afecta, a alienabilidade e transmissibilidade dos imóveis que sejam propriedade de quaisquer membros da extinta Direcção-Geral de Segurança, independentemente da fixação definitiva da sua responsabilidade nos processos instaurados na sequência daquela extinção.
+Artigo 1.º Quando razões de interesse público o justifiquem, pode ser autorizada, por despacho do Ministro das Finanças e do Plano, sob proposta do Ministro a quem a questão esteja directamente afecta, a alienabilidade e transmissibilidade dos imóveis que sejam propriedade de quaisquer membros da extinta Direcção-Geral de Segurança, independentemente da fixação definitiva da sua responsabilidade nos processos instaurados na sequência daquela extinção.
 
-###### Art. 2.º Quando nos casos previstos no artigo anterior se verificar a existência de saldo, será depositado na Caixa Geral de Depósitos à ordem da Comissão de Extinção da ex-PIDE-DGS, em ordem à eventual garantia da responsabilidade aludida no artigo 1.º do [Decreto-Lei n.º 418/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1974-474743), de 7 de Setembro.
+Art. 2.º Quando nos casos previstos no artigo anterior se verificar a existência de saldo, será depositado na Caixa Geral de Depósitos à ordem da Comissão de Extinção da ex-PIDE-DGS, em ordem à eventual garantia da responsabilidade aludida no artigo 1.º do [Decreto-Lei n.º 418/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1974-474743), de 7 de Setembro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - José Dias dos Santos Pais.
 
-**Promulgado em 2 de Agosto de 1978.**
+Promulgado em 2 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

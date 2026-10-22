@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/560-1972-685609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16585fc7e1c96e8abda9d63e286fdbad1fe449f38efdb4d3025a34db023cfe5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7d79964d7bd2a108a2ee7045789f6b66bd867faa6d9112d7fb43e19116f1c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:246827:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:32Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +99,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Por portaria do Ministro do Exército, poderão ser introduzidas alterações na organização e funcionamento do ensino na Escola Central de Sargentos, constantes do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, e diplomas posteriores.
+Artigo 1.º Por portaria do Ministro do Exército, poderão ser introduzidas alterações na organização e funcionamento do ensino na Escola Central de Sargentos, constantes do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, e diplomas posteriores.
 
-###### Art. 2.º Sempre que a matéria a alterar, nos termos do artigo 1.º, interesse à Força Aérea, deverá ser ouvido o Secretário de Estado da Aeronáutica.
+Art. 2.º Sempre que a matéria a alterar, nos termos do artigo 1.º, interesse à Força Aérea, deverá ser ouvido o Secretário de Estado da Aeronáutica.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 12 de Dezembro de 1972.**
+Promulgado em 12 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

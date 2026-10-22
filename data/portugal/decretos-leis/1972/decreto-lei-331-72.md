@@ -47,40 +47,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 366f1a4a778a729c911a1175ed6f7fa786cf2fcf4b8a04efef7ba1baf906fefa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8208c0c375c4530279f370ca27f9826c3210a7a2fe20b15cd1dddc029fb3f21a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Saúde e Assistência
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:258345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421234:por
+  label: "Alterado o quadro VI anexo ao Dec Lei 413/71, de 27-Set, na redacção do presente diploma, pelo DEC LEI.333/73.03.07.1973.MSA,\
+    \ DG.IS [154] de 03.07.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1973-421234
+  date: '1973-07-03'
+- type: amended_by
+  target: pt:dre:160307:por
+  label: "Alterado o quadro VIIII anexo ao Dec Lei 413/71, de 27-Set, na redacção do presente diploma, pelo DEC LEI.73/75.20.02.1975.MAS,\
+    \ DG.IS [43] de 20.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1975-160307
+  date: '1975-02-20'
+- type: amended_by
+  target: pt:dre:431395:por
+  label: "Alterado o quadro constante da tabela B da Direcção-Geral dos Hospitais anexo ao Dec Lei 413/71, de 27-Set, na redacção\
+    \ do presente diploma, pelo DEC.510/76.03.07.1976.MAI, DR.IS [154] de 03.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/510-1976-431395
+  date: '1976-07-03'
+- type: amended_by
+  target: pt:dre:446535:por
+  label: "Dada nova redacção ao art. 7º do Dec Lei 414/71 de 27-set, alterado pelo presente diploma, pelo DR.7/78.20.02.1978.PCM,\
+    \ DR.IS [42] de 20.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1978-446535
+  date: '1978-02-20'
+- type: amended_by
+  target: pt:dre:473912:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral Geral da Assistência Social anexo ao Decreto-Lei n.º 413/71, de 27\
+    \ de Setembro, alterado pelo presente diploma, pela PORT.242/80.13.05.1980.PCM, DR.IS [110] de 13.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1980-473912
+  date: '1980-05-13'
+- type: cites
+  target: pt:dre:236719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:431440:por
+  label: "Revogadas as alíneas I), II) e III) do mapa II anexo ao Decreto-Lei n.º 414/71, de 27 de Setembro, na redacção do\
+    \ presente diploma, pelo DEC.534/76.08.07.1976.MAI, DR.IS [158] de 08.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/534-1976-431440
+  date: '1976-07-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:51Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +171,7 @@ Considerando a necessidade de rever e completar algumas das disposições dos De
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São alterados os artigos 12.º, n.os 2, 3 e 4, 17.º, 18.º, 33.º, n.º 3, 34.º, n.º 3, 44.º, n.º 1, alínea b), 52.º, 59.º, n.º 3, 61.º, n.º 2, 64.º, n.º 3, 66.º, n.os 4 e 7, 70.º, n.os 1 e 2, 86.º, n.º 1, 91.º, n.º 1, 92.º, n.º 1, e 97.º n.º 1, alíneas c), f), i), k) n) e o), do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, que passam a ter a redacção seguinte:
+Artigo 1.º São alterados os artigos 12.º, n.os 2, 3 e 4, 17.º, 18.º, 33.º, n.º 3, 34.º, n.º 3, 44.º, n.º 1, alínea b), 52.º, 59.º, n.º 3, 61.º, n.º 2, 64.º, n.º 3, 66.º, n.os 4 e 7, 70.º, n.os 1 e 2, 86.º, n.º 1, 91.º, n.º 1, 92.º, n.º 1, e 97.º n.º 1, alíneas c), f), i), k) n) e o), do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, que passam a ter a redacção seguinte:
 
 ###### ARTIGO 12.º
 
@@ -277,7 +355,7 @@ n) [Decreto-Lei n.º 46310](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 o) [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967, excepto o artigo 5.º, o n.º 2 do artigo 14.º e a alínea a) do artigo 19.º, e sem prejuízo do disposto no [Decreto-Lei n.º 211/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1972-674003), de 23 de Junho.
 
-###### Art. 2.º São aditadas ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, as disposições dos artigos 11.º, n.º 6, 16.º, n.º 7, 32.º, n.º 10, 34.º, n.º 1, alínea 1), 65.º, n.º 6, e 70.º n.º 4, com a redacção seguinte:
+Art. 2.º São aditadas ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, as disposições dos artigos 11.º, n.º 6, 16.º, n.º 7, 32.º, n.º 10, 34.º, n.º 1, alínea 1), 65.º, n.º 6, e 70.º n.º 4, com a redacção seguinte:
 
 ###### ARTIGO 11.º
 
@@ -325,9 +403,9 @@ l) Orientar e fiscalizar os serviços de enfermagem dos estabelecimentos depende
 
 4. O tempo de serviço prestado no Gabinete de Estudos e Planeamento pelos funcionários requisitados nos termos do n.º 1 contará para todos os efeitos, incluindo os de acesso nas carreiras a que pertençam.
 
-###### Art. 3.º As gratificações fixadas nos termos das alíneas g) e h) do quadro II anexo a este diploma consideram-se atribuídas desde a data da colocação do respectivo pessoal.
+Art. 3.º As gratificações fixadas nos termos das alíneas g) e h) do quadro II anexo a este diploma consideram-se atribuídas desde a data da colocação do respectivo pessoal.
 
-###### Art. 4.º Os artigos 7.º e 29.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 7.º e 29.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, passam a ter a seguinte redacção:
 
 ###### ARTIGO 7.º
 
@@ -349,7 +427,7 @@ b) Terem sido aprovados na secção de ensino do curso de enfermagem complementa
 
 4. Ao concurso a que se refere o número anterior podem também ser admitidos os profissionais do grau 4 das escolas que reúnam os requisitos constantes das alíneas do n.º 2 deste artigo.
 
-###### Art. 5.º - 1. São alterados os quadros II, VI, VIII, IX e X anexos ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e os mapas I e II anexos ao [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, de acordo com os que vão publicados em anexo a este diploma, assinados pelo Ministro da Saúde e Assistência.
+Art. 5.º - 1. São alterados os quadros II, VI, VIII, IX e X anexos ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e os mapas I e II anexos ao [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, de acordo com os que vão publicados em anexo a este diploma, assinados pelo Ministro da Saúde e Assistência.
 
 2. As alterações na situação do pessoal resultantes das modificações dos quadros serão feitas por despacho ministerial publicado no Diário do Governo, independentemente de mais formalidades, incluindo o visto do Tribunal de Contas.
 
@@ -357,56 +435,56 @@ b) Terem sido aprovados na secção de ensino do curso de enfermagem complementa
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 QUADRO II
 
 Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
 
 QUADRO VI
 
 Direcção-Geral de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
 
 QUADRO VIII
 
 Direcção-Geral dos Hospitais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
 
 QUADRO IX
 
 Direcção-Geral da Assistência Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
 
 QUADRO X
 
 Serviços locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
 
 MAPA I
 
 Carreiras profissionais do tipo I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
 
 MAPA II
 
 Carreiras profissionais do tipo II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
 
 NOTA
 
 As enfermeiras de saúde pública responsáveis de equipa receberão a gratificação mensal de 300$00, nos termos do [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967, e do [Decreto-Lei n.º 211/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1972-674003), de 21 de Junho.
 
-**O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

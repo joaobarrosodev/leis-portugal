@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1974-472683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa8038110adcf5f2aae18e78f3fbe9fe56c7eeeb3f0dcc1cb55ec7718e810c02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d1becbf1380ec543146cd51a6fb725d0975278bf9ad49dbb7b2fb0664d87dc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Belgrado
+- Bucareste
+- Budapeste
+- Criação de Serviços
+- Embaixada
+- Moscovo
+- Portugal
+- Praga
+- RDA
+- Sofia
+- Tunes
+- Varsovia
+relationships:
+- type: cites
+  target: pt:dre:402961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:35Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +108,12 @@ Tendo em vista o disposto no artigo 18.º do [Decreto-Lei n.º 47331](https://di
 
 Usando da faculdade conferida pela primeira parte do n.º 3.º do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São criadas secções consulares nas Embaixadas de Portugal em Belgrado, Bucareste, Budapeste, Dacar, Moscovo, Praga, Sofia, Tunes, Varsóvia e na República Democrática Alemã, cuja área de jurisdição consular é constituída por todo o território dos respectivos países.
+Artigo único. São criadas secções consulares nas Embaixadas de Portugal em Belgrado, Bucareste, Budapeste, Dacar, Moscovo, Praga, Sofia, Tunes, Varsóvia e na República Democrática Alemã, cuja área de jurisdição consular é constituída por todo o território dos respectivos países.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Joaquim Jorge de Pinho Leónidas.
 
-**Promulgado em 24 de Setembro de 1974.**
+Promulgado em 24 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

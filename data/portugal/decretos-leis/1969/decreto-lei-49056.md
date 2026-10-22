@@ -49,40 +49,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49056-1969-200814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a7535e4cd02858e133703c84c50fc279da49cba191c436ed2ed07cde4b039b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 579e8bb4505ee84a25b07cf315392dc01ce0ff62bb4d34bf6127e14a28d87c1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Imposto do SELO
+- Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:332393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393782:por
+  label: "Alterados os arts. 35º, 36º, 44º, 62º, 78º, 114º, 138.º e 142º do Código do Notariado, aprovado pelo Dec Lei 47619,\
+    \ de 31-Mar 1967, na redacção do presente diploma, pelo DEC LEI.513-F/79.1979.12.24.MJ, DR.IS [295]3ºSupl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-f-1979-393782
+  date: '1979-12-24'
+- type: amended_by
+  target: pt:dre:451218:por
+  label: "Alterados os arts. 36º (na redacção do presente diploma e do Dec Lei 513-F/79, de 24-Dez) 56º do Código do Notariado,\
+    \ aprovado pelo Dec Lei 47619, de 31-Mar 1967, pelo DEC LEI.194/83.1983.05.17.MJ, DR.IS [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1983-451218
+  date: '1983-05-17'
+- type: amended_by
+  target: pt:dre:380970:por
+  label: "Alteradas as seguintes normas do Código do Notariado pelo DEC LEI.286/84.1984.08.23.MJ, DR.IS [195]: art. 63º, nºs\
+    \ 1 e 4, 75º e art. 142º, nº 1 (na redacção dada pelo Dec Lei 513-F/79, de 24-Dez)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1984-380970
+  date: '1984-08-23'
+- type: amended_by
+  target: pt:dre:332393:por
+  label: "Alterada a redacção conferida aos arts. 35º, 36º, 44º, 56º, 62º, 63º, 78º, 112º, 114º, 142º, 151º, 167º e 205º do\
+    \ Código do Notariado, aprovado pelo Dec Lei 47619, de 31-Mar 1967, pelo DEC LEI.67/90.1990.03.01.MJ, DR.IS, [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1990-332393
+  date: '1990-03-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "CONFERIDA NOVA REDACÇÃO AOS ARTIGOS 63 E 91 DO CODIGO DO NOTARIADO, APROVADO PELO DECRETO LEI 47619, DE 31 DE MARCO\
+    \ DE 1967, NA REDACÇÃO DADA PELO PRESENTE DIPLOMA, PELO DECRETO LEI 227/94, DE 8 DE SETEMBRO, PUBLICADO NO DR.IS-A, 208.\0\
+    DR.IS-A, 208."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-08'
+- type: cites
+  target: pt:dre:184901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:38Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +150,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 35.º, 36.º, 44.º, 53.º, 55.º, 56.º, 62.º, 63.º, 75.º, 78.º, 91.º, 112.º, 114.º, 115.º, 130.º, 135.º, 136.º, 138.º, 140.º, 142.º, 151.º, 163.º, 165.º, 167.º, 205.º, 207.º e 214.º do Código do Notariado, aprovado pelo [Decreto-Lei n.º 47619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47619-1967-509209), de 31 de Março de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 35.º, 36.º, 44.º, 53.º, 55.º, 56.º, 62.º, 63.º, 75.º, 78.º, 91.º, 112.º, 114.º, 115.º, 130.º, 135.º, 136.º, 138.º, 140.º, 142.º, 151.º, 163.º, 165.º, 167.º, 205.º, 207.º e 214.º do Código do Notariado, aprovado pelo [Decreto-Lei n.º 47619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47619-1967-509209), de 31 de Março de 1967, passam a ter a seguinte redacção:
 
 ###### Artigo 35.º
 
@@ -435,7 +486,7 @@ Nos instrumentos avulsos lavrados em dois exemplares, os emolumentos dos actos s
 
 5. Os instrumentos avulsos, incluindo os de protesto de títulos de crédito, certificados, certidões e documentos análogos, podem ser expedidos em papel comum, pagando-se o selo do papel e dos actos por estampilha ou por selo de verba; o imposto de selo devido será sempre discriminado na respectiva conta.
 
-###### Art. 2.º - 1. As relações e participações dos actos exarados em livros de notas, que os notários são obrigados a enviar às repartições de finanças, podem ser substituídas por uma cópia mensal dos registos de escrituras lavradas no livro a que se refere a alínea f) do n.º 1 do artigo 10.º do Código do Notariado, desde que essa cópia contenha os elementos exigidos para aquelas relações e participações.
+Art. 2.º - 1. As relações e participações dos actos exarados em livros de notas, que os notários são obrigados a enviar às repartições de finanças, podem ser substituídas por uma cópia mensal dos registos de escrituras lavradas no livro a que se refere a alínea f) do n.º 1 do artigo 10.º do Código do Notariado, desde que essa cópia contenha os elementos exigidos para aquelas relações e participações.
 
 2. Esta cópia será remetida, até ao dia 15 de cada mês, à repartição de finanças do concelho ou bairro da sede do cartório.
 
@@ -445,17 +496,17 @@ Havendo mais de uma repartição de finanças na sede do cartório, enviar-se-á
 
 4. Para os efeitos do disposto nos números anteriores, considera-se bairro da sede do cartório aquele em cuja área o cartório estiver situado.
 
-###### Art. 3.º - 1. Não carece de reconhecimento notarial o exemplar dos escritos particulares de contrato de arrendamento destinado a ser entregue na competente repartição de finanças, o qual deverá ser recebido, por esta repartição, logo que apresentado.
+Art. 3.º - 1. Não carece de reconhecimento notarial o exemplar dos escritos particulares de contrato de arrendamento destinado a ser entregue na competente repartição de finanças, o qual deverá ser recebido, por esta repartição, logo que apresentado.
 
 2. O reconhecimento das assinaturas exaradas nos demais exemplares escritos a que se refere o número anterior só é permitido desde que, pela respectiva nota nele aposta ou por documento bastante, se comprove a entrega, na repartição de finanças, do exemplar a ela destinado.
 
-###### Art. 4.º - 1. Os cartórios notariais privativos do protesto de letras têm competência para lavrar termos de abertura de sinal e efectuar reconhecimentos de letra e assinatura, ou só de assinatura aposta em documentos particulares, bem como para lavrar termos de autenticação dos mesmos documentos.
+Art. 4.º - 1. Os cartórios notariais privativos do protesto de letras têm competência para lavrar termos de abertura de sinal e efectuar reconhecimentos de letra e assinatura, ou só de assinatura aposta em documentos particulares, bem como para lavrar termos de autenticação dos mesmos documentos.
 
 2. Para os termos de abertura de sinal haverá nestas repartições o livro a que se refere a alínea c) do n.º 1 do artigo 10.º do Código do Notariado.
 
-###### Art. 5.º Os instrumentos avulsos de ratificação dos negócios jurídicos a que se refere o artigo 268.º do Código Civil são equiparados, para efeitos emolumentares, aos instrumentos de procuração.
+Art. 5.º Os instrumentos avulsos de ratificação dos negócios jurídicos a que se refere o artigo 268.º do Código Civil são equiparados, para efeitos emolumentares, aos instrumentos de procuração.
 
-###### Art. 6.º O artigo 16.º da tabela de emolumentos anexa ao Código do Notariado, a que se refere o artigo 1.º deste diploma, passa a ter a seguinte redacção:
+Art. 6.º O artigo 16.º da tabela de emolumentos anexa ao Código do Notariado, a que se refere o artigo 1.º deste diploma, passa a ter a seguinte redacção:
 
 ###### Artigo 16.º
 
@@ -467,13 +518,13 @@ b) Presencial ... 5$30
 
 2. ...
 
-###### Art. 7.º Ao artigo 94.º-A, adicionado pelo artigo 4.º do [Decreto n.º 44083](https://diariodarepublica.pt/dr/detalhe/decreto/44083-1961-184901), de 13 de Dezembro de 1961, à tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, é feito o aditamento seguinte:
+Art. 7.º Ao artigo 94.º-A, adicionado pelo artigo 4.º do [Decreto n.º 44083](https://diariodarepublica.pt/dr/detalhe/decreto/44083-1961-184901), de 13 de Dezembro de 1961, à tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, é feito o aditamento seguinte:
 
 Quando as fotocópias forem expedidas com utilização em cada folha apenas de uma lauda, ficando sem escrita a lauda do verso, a taxa do papel será de 6$00 pela primeira folha e de 3$00 por cada uma das restantes.
 
 Ficam isentas as fotocópias extraídas oficiosamente para substituir as cópias literais das letras mencionadas nos instrumentos de protesto.
 
-###### Art. 8.º Os artigos 100 e 137 da tabela geral do imposto do selo, a que se refere o artigo anterior, passam a ter a seguinte redacção:
+Art. 8.º Os artigos 100 e 137 da tabela geral do imposto do selo, a que se refere o artigo anterior, passam a ter a seguinte redacção:
 
 ###### Artigo 100.º
 
@@ -497,16 +548,16 @@ Sendo expedidos por sistema de fotocópia com utilização em cada folha apenas 
 
 (nota 2) Pode também ser pago por estampilha.
 
-###### Art. 9.º É aditado ao artigo 136 da tabela geral do imposto do selo, com a redacção do artigo 2.º do [Decreto n.º 44083](https://diariodarepublica.pt/dr/detalhe/decreto/44083-1961-184901), de 12 de Dezembro de 1961, um n.º 4, com a seguinte redacção:
+Art. 9.º É aditado ao artigo 136 da tabela geral do imposto do selo, com a redacção do artigo 2.º do [Decreto n.º 44083](https://diariodarepublica.pt/dr/detalhe/decreto/44083-1961-184901), de 12 de Dezembro de 1961, um n.º 4, com a seguinte redacção:
 
 4. Ficam compreendidos na tributação deste artigo os instrumentos avulsos de ratificação dos negócios jurídicos a que se refere o artigo 268.º do Código Civil.
 
-###### Art. 10.º É revogado o § único do artigo 258.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo Decreto n.º 45104, de 1 de Julho de 1963.
+Art. 10.º É revogado o § único do artigo 258.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo Decreto n.º 45104, de 1 de Julho de 1963.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Maio de 1969.**
+Promulgado em 16 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

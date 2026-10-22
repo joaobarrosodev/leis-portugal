@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09300/09630967.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1982-606532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66eb797167c25c2e62d57894de40e8a53542d6d9ad121a888a774d6189ee3af0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ed1c25d26058b712db8348334a015e384246495e9d157fb4304746e654a05a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Reestruturação de Carreiras
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663289:por
+  label: "Alterada a redacção da condição 4) da alínea a) do artigo 29.º do Decreto-Lei n.º 292/78, de 20 de Setembro, alterado\
+    \ pelo presente diploma, pelo DEC LEI.41/87.28.01.1987.MDN, DR.IS [23] de 28.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1987-663289
+  date: '1987-01-28'
+- type: cites
+  target: pt:dre:329582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392831:por
+  label: Rectificado pela DECL.DD3146.1982.04.26.CR, DR.IS [104] de 05/Mai/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-392831
+  date: '1982-04-26'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:45Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +135,9 @@ Considerando, ainda, a conveniência em tornar extensivas aos sargentos da Armad
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 29.º, 31.º, 35.º, 60.º, 62.º, 67.º, o n.º 1 do artigo 71.º, os artigos 82.º, 85.º, o n.º 1 do artigo 97.º e o artigo 127.º do [Decreto-Lei n.º 292/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1978-329582), de 20 de Setembro, tomam a seguinte redacção:
+Artigo 1.º Os artigos 29.º, 31.º, 35.º, 60.º, 62.º, 67.º, o n.º 1 do artigo 71.º, os artigos 82.º, 85.º, o n.º 1 do artigo 97.º e o artigo 127.º do [Decreto-Lei n.º 292/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1978-329582), de 20 de Setembro, tomam a seguinte redacção:
 
-###### Art. 29.º Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 6.º, os sargentos do quadro do activo que:
+Art. 29.º Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 6.º, os sargentos do quadro do activo que:
 
 a) Estando em comissão normal:
 
@@ -122,7 +161,7 @@ a) Estando em comissão normal:
 
 b) Estejam nas situações de comissão especial, inactividade temporária ou de licença ilimitada.
 
-###### Art. 31.º - 1 - Os sargentos do quadro do activo transitam para o quadro de sargentos da reserva da Armada com direito a pensão por qualquer das condições indicadas nas alíneas seguintes:
+Art. 31.º - 1 - Os sargentos do quadro do activo transitam para o quadro de sargentos da reserva da Armada com direito a pensão por qualquer das condições indicadas nas alíneas seguintes:
 
 a) Tendo prestado menos de 5 anos de serviço, sejam julgados fisicamente incapazes para o serviço no activo pela Junta de Saúde Naval que comprove ser a incapacidade resultante de:
 
@@ -158,7 +197,7 @@ d) Requeiram a passagem à reserva depois de completarem 36 anos de serviço.
 
 4 - A data de passagem ao quadro de sargentos da reserva da Armada é a data em que, nos termos legais, o sargento for abrangido pela condição que o motivou.
 
-###### Art. 35.º - 1 - Transitam para o quadro de sargentos reformados os sargentos que deixem de pertencer aos quadros do activo ou da reserva da Armada com direito a pensão, por serem abrangidos por qualquer das seguintes condições:
+Art. 35.º - 1 - Transitam para o quadro de sargentos reformados os sargentos que deixem de pertencer aos quadros do activo ou da reserva da Armada com direito a pensão, por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado 5 ou mais anos de serviço:
 
@@ -186,13 +225,13 @@ c) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 6 - A data de passagem ao quadro de sargentos reformados é aquela em que, nos termos legais, o sargento for considerado abrangido pela condição que a motivou.
 
-###### Art. 60.º O curso de promoção a sargento-chefe poderá ser repetido:
+Art. 60.º O curso de promoção a sargento-chefe poderá ser repetido:
 
 a) 2 vezes por falta de aproveitamento;
 
 b) Quando o sargento haja desistido, por declaração escrita, durante a sua frequência por motivo de força maior devidamente comprovado.
 
-###### Art. 62.º Não serão nomeados para o CPSC os sargentos que:
+Art. 62.º Não serão nomeados para o CPSC os sargentos que:
 
 a) Hajam desistido, por declaração escrita apresentada antes de serem submetidos ao concurso de admissão, da sua frequência;
 
@@ -208,13 +247,13 @@ f) Tenham sido admitidos à frequência do curso de formação de oficiais técn
 
 g) Tenham mais de 52 anos de idade ou perfaçam esta idade antes da conclusão do curso.
 
-###### Art. 67.º Os sargentos apenas podem ser promovidos enquanto se mantiverem nos quadros dos sargentos do activo e não tenham sido abrangidos pela condição 8) da alínea a) do artigo 29.º, salvo no caso da promoção por distinção, que se aplica tanto aos sargentos do quadro do activo como aos dos quadros da reserva da Armada com direito a pensão e reformados.
+Art. 67.º Os sargentos apenas podem ser promovidos enquanto se mantiverem nos quadros dos sargentos do activo e não tenham sido abrangidos pela condição 8) da alínea a) do artigo 29.º, salvo no caso da promoção por distinção, que se aplica tanto aos sargentos do quadro do activo como aos dos quadros da reserva da Armada com direito a pensão e reformados.
 
-###### Art. 71.º - 1 - A promoção dos sargentos efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerário e adido, excepto, neste último caso, quando tenham sido abrangidos pela condição 8) da alínea a) do artigo 29.º].
+Art. 71.º - 1 - A promoção dos sargentos efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerário e adido, excepto, neste último caso, quando tenham sido abrangidos pela condição 8) da alínea a) do artigo 29.º].
 
 ...
 
-###### Art. 82.º - 1 - Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção, são elementos de apreciação:
+Art. 82.º - 1 - Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção, são elementos de apreciação:
 
 a) As informações periódicas dos sargentos;
 
@@ -224,9 +263,9 @@ c) Outros documentos, quer constem do processo individual do sargento, quer nele
 
 2 - Não é considerada matéria de apreciação aquela sobre a qual exista processo de averiguações disciplinar ou criminal pendente, enquanto sobre o mesmo não for proferida decisão definitiva.
 
-###### Art. 85.º O sargento que não satisfaça à 3.ª condição geral de promoção ficará excluído temporariamente da promoção, pelo prazo máximo de 2 anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da condição 8) da alínea a) do artigo 29.º
+Art. 85.º O sargento que não satisfaça à 3.ª condição geral de promoção ficará excluído temporariamente da promoção, pelo prazo máximo de 2 anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da condição 8) da alínea a) do artigo 29.º
 
-###### Art. 97.º - 1 - A demora na promoção tem lugar nos seguintes casos:
+Art. 97.º - 1 - A demora na promoção tem lugar nos seguintes casos:
 
 a) Quando os sargentos aguardem julgamento ou apreciação do Conselho Superior de Disciplina da Armada;
 
@@ -248,11 +287,11 @@ i) Noutros casos em que a lei expressamente o determine.
 
 ...
 
-###### Art. 127.º As alterações a este diploma, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Chefe do Estado-Maior da Armada.
+Art. 127.º As alterações a este diploma, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 2.º Ao diploma mencionado no artigo anterior são aditados, a seguir ao artigo 82.º e a seguir ao artigo 120.º, respectivamente, um novo artigo, 82.º-A, e os artigos de 120.º-A a 120.º-J, com a seguinte redacção:
+Art. 2.º Ao diploma mencionado no artigo anterior são aditados, a seguir ao artigo 82.º e a seguir ao artigo 120.º, respectivamente, um novo artigo, 82.º-A, e os artigos de 120.º-A a 120.º-J, com a seguinte redacção:
 
-###### Art. 82.º-A - 1 - A verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção pertence, em primeira análise, ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 82.º-A - 1 - A verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção pertence, em primeira análise, ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
 
 2 - Nos casos em que o chefe da 2.ª Repartição da Direcção do Serviço do Pessoal considere que não são satisfeitas as condições gerais de promoção referidas no número anterior ou tenha dúvidas sobre essa satisfação, deverá o assunto ser presente ao director do Serviço de Pessoal.
 
@@ -266,9 +305,9 @@ i) Noutros casos em que a lei expressamente o determine.
 
 7 - O Conselho Superior da Armada, na apreciação dos casos que lhe forem presentes, dará o seu parecer com base em todos os documentos que lhe forem submetidos e os que entender juntar ao processo, podendo ainda ouvir pessoalmente o sargento e quem mais entenda útil antes de emitir parecer.
 
-###### Art. 120.º-A. Os sargentos do quadro dos sargentos do activo em comissão normal e os sargentos do quadro de sargentos da reserva da Armada com direito a pensão prestando serviço efectivo são objecto de informação periódica dos comandantes, directores ou chefes a que estão subordinados directamente.
+Art. 120.º-A. Os sargentos do quadro dos sargentos do activo em comissão normal e os sargentos do quadro de sargentos da reserva da Armada com direito a pensão prestando serviço efectivo são objecto de informação periódica dos comandantes, directores ou chefes a que estão subordinados directamente.
 
-###### Art. 120.º-B. A informação periódica dos sargentos destina-se, essencialmente, a:
+Art. 120.º-B. A informação periódica dos sargentos destina-se, essencialmente, a:
 
 a) Contribuir para a selecção dos sargentos, identificando os mais aptos para promoção, frequência de cursos ou funções especiais, e estimular o seu aperfeiçoamento individual;
 
@@ -276,9 +315,9 @@ b) Permitir melhor eficiência na gestão dos sargentos;
 
 c) Possibilitar a avaliação dos sargentos, no seu conjunto, com vista ao cumprimento das missões que competem à Armada e à melhoria dos processos de selecção e formação.
 
-###### Art. 120.º-C. A informação periódica dos sargentos deve abranger a apreciação das suas qualidades intelectuais, de carácter, sociais, morais, militares, profissionais e físicas.
+Art. 120.º-C. A informação periódica dos sargentos deve abranger a apreciação das suas qualidades intelectuais, de carácter, sociais, morais, militares, profissionais e físicas.
 
-###### Art. 120.º-D - 1 - A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos sargentos sobre os quais recai, antes de ser remetida à 2.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 120.º-D - 1 - A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos sargentos sobre os quais recai, antes de ser remetida à 2.ª Repartição da Direcção do Serviço do Pessoal.
 
 2 - Esta informação, se desfavorável, será acompanhada de juízo ampliativo que constitua adequada fundamentação, sem o que ela será de nulo efeito nos aspectos inadequadamente fundamentados.
 
@@ -286,27 +325,27 @@ c) Possibilitar a avaliação dos sargentos, no seu conjunto, com vista ao cumpr
 
 O segundo informador, sempre que o houver, deverá pronunciar-se claramente, por escrito, sobre os aspectos desfavoráveis da informação, bem como da exposição do sargento, dando conhecimento ao informado e ao primeiro informador da opinião por si expressa, antes de a remeter à 2.ª Repartição da Direcção do Serviço do Pessoal.
 
-###### Art. 120.º-E. As informações dos sargentos são formuladas segundo modelo e instruções aprovadas por despacho do Chefe do Estado-Maior da Armada.
+Art. 120.º-E. As informações dos sargentos são formuladas segundo modelo e instruções aprovadas por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 120.º-F. O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelos sargentos dos quadros permanentes:
+Art. 120.º-F. O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelos sargentos dos quadros permanentes:
 
 a) Em matéria de promoções, demoras, preterições e posições na escala de antiguidade;
 
 b) Que se considerem ilegalmente prejudicados quanto à mudança de situação.
 
-###### Art. 120.º-G - 1 - Os recursos são dirigidos ao presidente do Supremo Tribunal Militar. O prazo máximo para a sua interposição é de 30 dias, a partir da data em que os interessados tomem conhecimento oficial da decisão ou do documento legal que motivou o recurso.
+Art. 120.º-G - 1 - Os recursos são dirigidos ao presidente do Supremo Tribunal Militar. O prazo máximo para a sua interposição é de 30 dias, a partir da data em que os interessados tomem conhecimento oficial da decisão ou do documento legal que motivou o recurso.
 
 2 - Para efeito do disposto no número anterior, conta-se como data de conhecimento oficial da decisão ou documento que dá origem ao recurso a da respectiva transcrição na ordem do organismo em que o sargento presta serviço ou aquela em que foi feita a comunicação ao sargento no mesmo organismo.
 
-###### Art. 120.º-H. As decisões do Supremo Tribunal Militar proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 120.º-F serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de 10 dias a contar da comunicação.
+Art. 120.º-H. As decisões do Supremo Tribunal Militar proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 120.º-F serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de 10 dias a contar da comunicação.
 
-###### Art. 120.º-I As decisões do Supremo Tribunal Militar são publicadas na Ordem da Armada (1.ª série), no prazo de 10 dias a contar da comunicação.
+Art. 120.º-I As decisões do Supremo Tribunal Militar são publicadas na Ordem da Armada (1.ª série), no prazo de 10 dias a contar da comunicação.
 
-###### Art. 120.º-J. A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
+Art. 120.º-J. A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
 
-###### Art. 3.º Ao n.º 2 do artigo 89.º do diploma que tem vindo a ser referido é aditada uma nova alínea com a seguinte redacção:
+Art. 3.º Ao n.º 2 do artigo 89.º do diploma que tem vindo a ser referido é aditada uma nova alínea com a seguinte redacção:
 
-###### Art. 89.º - 1 - ...
+Art. 89.º - 1 - ...
 
 2 - ...
 
@@ -318,8 +357,8 @@ c) O de cumprimento de pena que importe suspensão de funções.
 
 Visto e aprovado em Conselho da Revolução de 24 de Março de 1982.
 
-**Promulgado em 7 de Abril de 1982.**
+Promulgado em 7 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

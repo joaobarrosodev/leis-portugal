@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43168-1960-515036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b1871b6b97797d1f25ad55a6e13c625250d26e94225a8c271a0c811f177e637
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dfe20a71ba6850186436980d7f2fc2188ad33842ffb724005765ed50cb52f51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Coimbra
+- Lisboa
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Sistema Judicial
+- Tribunal
+- Tribunal Cível
+- Tribunal da Relação
+relationships:
+- type: cites
+  target: pt:dre:252981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:34Z'
   warnings: []
   errors: []
 ---
@@ -116,29 +132,29 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O tribunal cível da comarca de Lisboa é constituído por seis varas cíveis e onze juízos cíveis.
+Artigo 1.º - 1. O tribunal cível da comarca de Lisboa é constituído por seis varas cíveis e onze juízos cíveis.
 
 2. Para efeitos de constituição dos tribunais colectivos ficam adstritos à 1.ª, 2.ª e 3.ª varas dois corregedores adjuntos e à 4.ª, 5.ª e 6.ª varas outros dois.
 
-###### Art. 2.º - 1. Na comarca de Lisboa os corregedores adjuntos serão substituídos, nas suas faltas ou impedimentos, pelos corregedores presidentes das varas do mesmo grupo, segundo a ordem crescente da numeração destas, considerando-se para o efeito que a 1.ª se segue à 3.ª e a 4.ª à 6.ª
+Art. 2.º - 1. Na comarca de Lisboa os corregedores adjuntos serão substituídos, nas suas faltas ou impedimentos, pelos corregedores presidentes das varas do mesmo grupo, segundo a ordem crescente da numeração destas, considerando-se para o efeito que a 1.ª se segue à 3.ª e a 4.ª à 6.ª
 
 2. Se todos os corregedores presidentes estiverem impedidos, será o adjunto mais antigo substituído, no primeiro grupo, pelos juízes do 1.º e 2.º juízos cíveis e, no segundo grupo, pelos juízes do 5.º e 6.º juízos, a principiar pelo mais antigo; o adjunto imediato será por seu turno substituído nos mesmos termos e respectivamente pelos juízes do 3.º e 4.º juízos e pelos do 7.º e 8.º
 
 3. É aplicável aos corregedores adjuntos da comarca do Porto, com as necessárias adaptações, o disposto neste artigo.
 
-###### Art. 3.º A secretaria judicial de cada uma das seis varas cíveis da comarca de Lisboa é constituída por uma secção central e duas secções de processos.
+Art. 3.º A secretaria judicial de cada uma das seis varas cíveis da comarca de Lisboa é constituída por uma secção central e duas secções de processos.
 
-###### Art. 4.º - 1. Os chefes de secção de processos e os oficiais de diligências das actuais 3.as secções da 1.ª e da 2.ª varas cíveis de Lisboa transitam, sem necessidade de nomeação, posse ou quaisquer outras formalidades, para a 1.ª e 2.ª secções, respectivamente, da 5.ª vara e os das 3.as secções da 3.ª e 4.ª varas transitarão, nos mesmos termos, para a 1.ª e 2.ª secções da 6.ª vara.
+Art. 4.º - 1. Os chefes de secção de processos e os oficiais de diligências das actuais 3.as secções da 1.ª e da 2.ª varas cíveis de Lisboa transitam, sem necessidade de nomeação, posse ou quaisquer outras formalidades, para a 1.ª e 2.ª secções, respectivamente, da 5.ª vara e os das 3.as secções da 3.ª e 4.ª varas transitarão, nos mesmos termos, para a 1.ª e 2.ª secções da 6.ª vara.
 
 2. O pessoal contratado das quatro varas será distribuído, até à fixação, do quadro definitivo de cada vara, nos termos de portarias a publicar pelo Ministro da Justiça.
 
-###### Art. 5.º Os processos pendentes nas 3.as secções suprimidas pelo presente diploma acompanham os funcionários a que se refere o n.º 1 do artigo anterior, sendo averbados à vara competente, salvo se o seu julgamento tiver já sido iniciado ou estiverem já conclusos para sentença, pois nesse caso serão distribuídos entre a 1.ª e a 2.ª secções do tribunal em que se encontram.
+Art. 5.º Os processos pendentes nas 3.as secções suprimidas pelo presente diploma acompanham os funcionários a que se refere o n.º 1 do artigo anterior, sendo averbados à vara competente, salvo se o seu julgamento tiver já sido iniciado ou estiverem já conclusos para sentença, pois nesse caso serão distribuídos entre a 1.ª e a 2.ª secções do tribunal em que se encontram.
 
-###### Art. 6.º As duas novas varas cíveis da comarca de Lisboa só serão constituídas depois de deliberação do Conselho Superior Judiciário que reconheça a possibilidade da sua conveniente instalação.
+Art. 6.º As duas novas varas cíveis da comarca de Lisboa só serão constituídas depois de deliberação do Conselho Superior Judiciário que reconheça a possibilidade da sua conveniente instalação.
 
-###### Art. 7.º É aumentado de um juiz desembargador o quadro da Relação de Coimbra, passando o tribunal a funcionar em sessão plena dos seus membros ou por secções, nos termos do artigo 54.º do Estatuto Judiciário.
+Art. 7.º É aumentado de um juiz desembargador o quadro da Relação de Coimbra, passando o tribunal a funcionar em sessão plena dos seus membros ou por secções, nos termos do artigo 54.º do Estatuto Judiciário.
 
-###### Art. 8.º Têm competência para aplicação das penas disciplinares mencionadas no artigo 465.º do Estatuto Judiciário aos magistrados judiciais:
+Art. 8.º Têm competência para aplicação das penas disciplinares mencionadas no artigo 465.º do Estatuto Judiciário aos magistrados judiciais:
 
 a) Os presidentes dos tribunais superiores, para aplicação das penas 1.ª e 2.ª aos magistrados desses tribunais;
 
@@ -146,7 +162,7 @@ b) Os presidentes das Relações, para aplicação das penas 1.ª, 2.ª, 3.ª e 
 
 c) O Conselho Superior Judiciário, em sessão plenária, para aplicação de quaisquer penas aos magistrados judiciais de todas as categorias, sendo da sua exclusiva competência a das penas 5.ª a 9.ª
 
-###### Art. 9.º Só haverá recurso:
+Art. 9.º Só haverá recurso:
 
 a) Das decisões dos, presidentes dos tribunais superiores que apliquem aos magistrados desses tribunais a pena 2.ª;
 
@@ -154,7 +170,7 @@ b) Das decisões dos presidentes das Relações que apliquem as penas 3.ª e 4.�
 
 c) Das decisões do conselho plenário que apliquem as penas 5.ª a 9.ª a quaisquer magistrados.
 
-###### Art. 10.º - 1. Os recursos a que se refere o artigo anterior serão interpostos:
+Art. 10.º - 1. Os recursos a que se refere o artigo anterior serão interpostos:
 
 a) Nos casos das alíneas a) e b), para o conselho plenário;
 
@@ -162,7 +178,7 @@ b) No caso da alínea c), para o Supremo Conselho Disciplinar.
 
 2. O Supremo Conselho Disciplinar é constituído por todos os membros do Conselho Superior Judiciário e pelos dois juízes mais antigos do Supremo Tribunal de Justiça.
 
-###### Art. 11.º Têm competência para a aplicação das penas disciplinares mencionadas no artigo 465.º do Estatuto Judiciário aos funcionários judiciais:
+Art. 11.º Têm competência para a aplicação das penas disciplinares mencionadas no artigo 465.º do Estatuto Judiciário aos funcionários judiciais:
 
 a) Os chefes das secretarias e de secção, para aplicação das penas 1.ª e 2.ª aos funcionários seus subordinados;
 
@@ -172,7 +188,7 @@ c) Os presidentes das Relações, para aplicação das mesmas penas aos funcion�
 
 d) O Conselho Superior Judiciário em sessão plenária, para aplicação a todos os funcionários de todas as penas, sendo da sua exclusiva competência a das penas 8.ª e 9.ª
 
-###### Art. 12.º - 1. Só haverá recurso:
+Art. 12.º - 1. Só haverá recurso:
 
 a) Das decisões dos juízes de 1.ª instância que apliquem as penas 3.ª e 4.ª;
 
@@ -180,20 +196,20 @@ b) Das decisões do conselho plenário que apliquem as penas 5.ª a 9.ª
 
 2. Da aplicação da pena 2.ª pelos chefes de secretaria ou de secção cabe reclamação para o juiz ou presidente do tribunal, que julgará definitivamente.
 
-###### Art. 13.º Os recursos admitidos pelo artigo anterior serão interpostos:
+Art. 13.º Os recursos admitidos pelo artigo anterior serão interpostos:
 
 a) Das decisões dos juízes de 1.ª instância, para os presidentes das Relações;
 
 b) Das decisões do conselho plenário, para o Supremo Conselho Disciplinar.
 
-###### Art. 14.º Das decisões em matéria disciplinar proferidas contra magistrados ou funcionários judiciais não haverá outros recursos além dos que são admitidos por este diploma.
+Art. 14.º Das decisões em matéria disciplinar proferidas contra magistrados ou funcionários judiciais não haverá outros recursos além dos que são admitidos por este diploma.
 
-###### Art. 15.º A classificação ordinária dos juízes, bem como a dos funcionários judiciais, é da competência do Conselho Superior Judiciário, funcionando em sessão plenária.
+Art. 15.º A classificação ordinária dos juízes, bem como a dos funcionários judiciais, é da competência do Conselho Superior Judiciário, funcionando em sessão plenária.
 
-###### Art. 16.º Compete ao vice-presidente do Conselho Superior Judiciário relatar os processos disciplinares que ao Conselho tenham subido em recurso.
+Art. 16.º Compete ao vice-presidente do Conselho Superior Judiciário relatar os processos disciplinares que ao Conselho tenham subido em recurso.
 
-###### Art. 17.º São revogados os artigos 28.º, 30.º, 46.º e 48.º e, bem assim, o § único do artigo 43.º do [Decreto-Lei n.º 35388](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35388-1945-463642), de 22 de Dezembro de 1945.
+Art. 17.º São revogados os artigos 28.º, 30.º, 46.º e 48.º e, bem assim, o § único do artigo 43.º do [Decreto-Lei n.º 35388](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35388-1945-463642), de 22 de Dezembro de 1945.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

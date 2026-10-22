@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1972-398086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40e49bd91f9eb8f5245dca7a13dc6afdc223c552d6f553eeabfd96e7da37b993
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a35c403b6d74237f974391ad02d95d059c00cd1a9b6af5740ccc3e0c51e570f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- CABO Verde.Colónia Portuguesa
+- Crédito Especial
+- Ministério das Finanças
+- Ministério do Ultramar
+- Ministro das Finanças
+- Subsídio não Reembolsável
 relationships: []
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:38Z'
   warnings: []
   errors: []
 ---
@@ -95,37 +102,37 @@ E não querendo demorar o apoio, considerado indispensável, às respectivas pop
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro das Finanças a conceder à província ultramarina de Cabo Verde um subsídio extraordinário não reembolsável do montante de 200000000$00.
+Artigo 1.º É autorizado o Ministro das Finanças a conceder à província ultramarina de Cabo Verde um subsídio extraordinário não reembolsável do montante de 200000000$00.
 
-###### Art. 2.º Para os fins indicados no artigo precedente, é aberto no Ministério das Finanças, a favor do Ministério do Ultramar, um crédito especial da quantia de 200000000$00, a inscrever sob a forma seguinte:
+Art. 2.º Para os fins indicados no artigo precedente, é aberto no Ministério das Finanças, a favor do Ministério do Ultramar, um crédito especial da quantia de 200000000$00, a inscrever sob a forma seguinte:
 
 Ministério do Ultramar
 
 Outras despesas extraordinárias
 
-### Capítulo 16.º «Direcção-Geral de Fazenda»:
+Capítulo 16.º «Direcção-Geral de Fazenda»:
 
 Cabo Verde:
 
 Despesas correntes:
 
-###### Artigo 172.º-A «Transferências - Exterior»:
+Artigo 172.º-A «Transferências - Exterior»:
 
 N.º 1) «Subsídio extraordinário não reembolsável, nos termos do Decreto-Lei n.º 46/72, de 7 de Fevereiro» ... 200000000$00
 
-###### Art. 3.º Para compensação do crédito previsto no artigo anterior, é adicionada igual quantia à verba inscrita na receita extraordinária, capítulo 12.º, grupo 7, artigo 364.º «Crédito interno», do vigente orçamento das receitas do Estado.
+Art. 3.º Para compensação do crédito previsto no artigo anterior, é adicionada igual quantia à verba inscrita na receita extraordinária, capítulo 12.º, grupo 7, artigo 364.º «Crédito interno», do vigente orçamento das receitas do Estado.
 
-###### Art. 4.º O processamento das importâncias a que se refere o crédito especial aberto pelo artigo 2.º terá lugar mediante folhas a processar pela Direcção-Geral de Fazenda do Ministério do Ultramar, que, depois de visadas pelos Ministros das Finanças e do Ultramar, serão postas a pagamento no Banco de Portugal.
+Art. 4.º O processamento das importâncias a que se refere o crédito especial aberto pelo artigo 2.º terá lugar mediante folhas a processar pela Direcção-Geral de Fazenda do Ministério do Ultramar, que, depois de visadas pelos Ministros das Finanças e do Ultramar, serão postas a pagamento no Banco de Portugal.
 
-###### Art. 5.º O presente diploma entra imediatamente em vigor.
+Art. 5.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Janeiro de 1972.**
+Promulgado em 26 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 

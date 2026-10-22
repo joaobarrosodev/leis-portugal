@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 7º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 3446-(140) a 3446-(142)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29907/01400142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-v1-1979-157039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 830ccce92f8ac9b5eab2a4136a6f7617aba1c0d47af84e80302e64702c1e44e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70c8b33c1b32f0d8163a2c719bf36ed400400bc5d7f44be1146286e7145d0432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANO Propedêutico
+- Conselho Pedagógico-científico
+- Criação de Serviços
+- Definição de Competências
+- Ensino
+- Gabinete Coordenador do Ingresso no Ensino Superior
+- Instituto Português de Ensino à Distância
+- Ministério da Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:357130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:460797:por
+  label: "Alterado o artigo 2.º, o n.º 1 do artigo 5.º e os artigos 7.º, 8.º e 9.º, pelo DEC LEI.375/80.12.09.1980.MECI, DR.IS\
+    \ [211] de 12.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1980-460797
+  date: '1980-09-12'
+- type: cites
+  target: pt:dre:281414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324529:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357130:por
+  label: "Revogado pelo DEC LEI.444/88.02.12.1988.ME, DR.IS [278] de 02.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1988-357130
+  date: '1988-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:41Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +132,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, no Ministério da Educação, o Instituto Português de Ensino à Distância, que adiante se designará abreviadamente por Instituto, organismo dotado de personalidade jurídica.
+Artigo 1.º É criado, no Ministério da Educação, o Instituto Português de Ensino à Distância, que adiante se designará abreviadamente por Instituto, organismo dotado de personalidade jurídica.
 
-###### Art. 2.º São atribuições do Instituto:
+Art. 2.º São atribuições do Instituto:
 
 1) Projectar, conceber e, quando for caso disso, propor os planos de estudo, programas, conteúdos e métodos pedagógicos adequados ao ensino à distância de:
 
@@ -118,7 +150,7 @@ d) Cursos de sensibilização, divulgação e extensão de conhecimentos, em par
 
 3) Projectar os objectivos, propor a mobilização de meios materiais e formar o pessoal necessário para o arranque futuro da Universidade aberta portuguesa, de que o Instituto constitui desde já o embrião.
 
-###### Art. 3.º - 1 - A organização e funcionamento do Instituto serão assegurados pelos seguintes órgãos:
+Art. 3.º - 1 - A organização e funcionamento do Instituto serão assegurados pelos seguintes órgãos:
 
 a) O presidente do Instituto;
 
@@ -126,7 +158,7 @@ b) O conselho pedagógico-científico do Instituto.
 
 2 - O apoio técnico e administrativo e as despesas resultantes das acções a empreender pelo Instituto serão suportados pelas respectivas rubricas do orçamento do Gabinete Coordenador do Ingresso no Ensino Superior (GCIES).
 
-###### Art. 4.º Compete ao presidente do Instituto:
+Art. 4.º Compete ao presidente do Instituto:
 
 a) Orientar a acção e elaborar o projecto anual da actividade do Instituto;
 
@@ -144,7 +176,7 @@ g) Desempenhar, por inerência, as funções de presidente da Comissão Pedagóg
 
 h) Assegurar a identificação da propriedade literária do material didáctico produzido no âmbito do Instituto.
 
-###### Art. 5.º - 1 - O conselho pedagógico-científico do Instituto será constituído pelo presidente e pelos seguintes vogais:
+Art. 5.º - 1 - O conselho pedagógico-científico do Instituto será constituído pelo presidente e pelos seguintes vogais:
 
 a) Os coordenadores das áreas de Ciências e de Letras e Ciências Humanas do Ano Propedêutico;
 
@@ -174,38 +206,38 @@ g) Promover a criação, no âmbito do Instituto, de núcleos de investigação 
 
 h) Promover a organização de uma biblioteca especializada no domínio da actividade do Instituto.
 
-###### Art. 6.º - 1 - O Instituto deverá apor a sua designação por extenso, como identificação da personalidade jurídica detentora da propriedade literária, em todo o material didáctico editado sob a sua égide.
+Art. 6.º - 1 - O Instituto deverá apor a sua designação por extenso, como identificação da personalidade jurídica detentora da propriedade literária, em todo o material didáctico editado sob a sua égide.
 
 2 - As receitas que resultem da venda deste material, de transacções envolvendo autorização da sua utilização por outras entidades e de tradução ou alienação total ou parcial de direitos e, bem assim, as que resultem de contratos de execução de cursos celebrados com as entidades utilizadoras serão integradas em verba de receitas referentes ao Instituto, inscritas no orçamento de receitas próprias do GCIES.
 
 3 - O material e equipamento, adquirido a título oneroso ou não e destinado especificamente às actividades do Instituto, constituirão património a ele afecto, devendo transitar para o seu inventário, ou da instituição que lhe venha a suceder, quando lhe seja atribuída autonomia administrativa; enquanto tal não suceda, será inscrito transitoriamente no inventário do GCIES, que desempenhará as funções de fiel depositário.
 
-###### Art. 7.º O lugar de presidente do Instituto será recrutado, por livre escolha do Ministro da Educação, de entre professores catedráticos ou associados das Universidades portuguesas, em regime de comissão de serviço.
+Art. 7.º O lugar de presidente do Instituto será recrutado, por livre escolha do Ministro da Educação, de entre professores catedráticos ou associados das Universidades portuguesas, em regime de comissão de serviço.
 
-###### Art. 8.º - 1 - Os lugares de responsável pela coordenação dos estudos de pedagogia do ensino à distância e de estudos de tecnologia do ensino à distância serão desempenhados por docentes ou técnicos qualificados, providos por proposta do presidente do Instituto, aos quais será aplicado regime idêntico ao que vigora para os responsáveis das disciplinas do Ano Propedêutico e que figura no n.º 1 do artigo 13.º e n.os 1 e 2 do artigo 14.º do [Decreto-Lei n.º 491/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1977-281414), de 23 de Novembro, com a redacção que lhe foi dada pela [Lei n.º 33/78](https://diariodarepublica.pt/dr/detalhe/lei/33-1978-298440), de 22 de Junho.
+Art. 8.º - 1 - Os lugares de responsável pela coordenação dos estudos de pedagogia do ensino à distância e de estudos de tecnologia do ensino à distância serão desempenhados por docentes ou técnicos qualificados, providos por proposta do presidente do Instituto, aos quais será aplicado regime idêntico ao que vigora para os responsáveis das disciplinas do Ano Propedêutico e que figura no n.º 1 do artigo 13.º e n.os 1 e 2 do artigo 14.º do [Decreto-Lei n.º 491/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1977-281414), de 23 de Novembro, com a redacção que lhe foi dada pela [Lei n.º 33/78](https://diariodarepublica.pt/dr/detalhe/lei/33-1978-298440), de 22 de Junho.
 
 2 - As funções de investigador e de técnico qualificado em ensino à distância serão desempenhadas por pessoal dotado de qualificação julgada adequada pelo conselho pedagógico-científico do Instituto e em regime de provimento idêntico ao previsto no n.º 1 do artigo 13.º e n.º 2 do artigo 14.º do supracitado decreto-lei.
 
-###### Art. 9.º Sempre que as circunstâncias o exijam, o provimento do pessoal do Instituto em funções docentes, de investigador e de técnico qualificado em ensino à distância será feito por conveniência urgente de serviço.
+Art. 9.º Sempre que as circunstâncias o exijam, o provimento do pessoal do Instituto em funções docentes, de investigador e de técnico qualificado em ensino à distância será feito por conveniência urgente de serviço.
 
-###### Art. 10.º O pessoal docente, investigador e técnico qualificado em ensino à distância, afecto directamente às actividades do Instituto, será identificado como fazendo parte do pessoal desta instituição, continuando os respectivos encargos a ser suportados pelo GCIES.
+Art. 10.º O pessoal docente, investigador e técnico qualificado em ensino à distância, afecto directamente às actividades do Instituto, será identificado como fazendo parte do pessoal desta instituição, continuando os respectivos encargos a ser suportados pelo GCIES.
 
-###### Art. 11.º A extensão das atribuições e competência do Instituto, dentro do espírito do presente diploma que leva à sua criação e tendo em conta o desenvolvimento que venham a ter as suas acções, poderá ser, oportunamente, objecto de portaria do Ministério da Educação.
+Art. 11.º A extensão das atribuições e competência do Instituto, dentro do espírito do presente diploma que leva à sua criação e tendo em conta o desenvolvimento que venham a ter as suas acções, poderá ser, oportunamente, objecto de portaria do Ministério da Educação.
 
-###### Art. 12.º - 1 - O Gabinete Coordenador do Ingresso no Ensino Superior é dotado de quadro próprio, ficando a seu cargo a gestão do respectivo pessoal.
+Art. 12.º - 1 - O Gabinete Coordenador do Ingresso no Ensino Superior é dotado de quadro próprio, ficando a seu cargo a gestão do respectivo pessoal.
 
 2 - O quadro do pessoal constante do mapa anexo ao [Decreto-Lei n.º 385/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1978-324529), de 6 de Dezembro, é abatido ao quadro dos Serviços Centrais do Ministério da Educação, transitando para o Gabinete Coordenador do Ingresso no Ensino Superior.
 
 3 - A verba inscrita no orçamento do Ministério da Educação que suporta os encargos com o pessoal a prestar serviço no Gabinete Coordenador será transferida para este.
 
-###### Art. 13.º As dúvidas suscitadas na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Educação.
+Art. 13.º As dúvidas suscitadas na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Educação.
 
-###### Art. 14.º Fica revogada toda a legislação em contrário.
+Art. 14.º Fica revogada toda a legislação em contrário.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

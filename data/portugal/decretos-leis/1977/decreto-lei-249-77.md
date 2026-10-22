@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1977-253436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f44ee969c4064d7989ff81afefa7b14912d6c0f54d9fb86cd38333bba114fc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d25e00d01b9d3bb3d923382ad660e16f4e101ca543f2dbded8242ed7c024b576
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Casamento
+- Código do Registo Civil
+- Conservatória dos Registos Centrais
+- Modernização Administrativa
+- Nacionalidade
+- Óbito
+- Palop
+- Quadro de Pessoal
+- Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:655966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364877:por
+  label: "Mantidas em vigor as disposições relativas ao ingresso no registo civil português dos actos do estado civil lavrados\
+    \ nas ex-colónias, respeitantes a cidadãos portugueses, pelo DEC LEI.418/79.17.10.1979.MJ, DR.IS [240] de 17.10.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/418-1979-364877
+  date: '1979-10-17'
+- type: amended_by
+  target: pt:dre:571071:por
+  label: "Alterada a redacção do art 2º pelo Dec-Lei.36/97. 1997.01.31.MJ, DR.IS-A [26]\0 DR.IS-A [26]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1997-571071
+  date: '1997-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:48Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +119,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os actos de registo civil ou de registo paroquial com eficácia civil, respeitantes a cidadãos portugueses, lavrados nas ex-colónias podem ingressar nos livros do registo civil português, oficialmente, nas condições que vierem a ser estabelecidas por despacho do Ministro da Justiça ou a requerimento dos interessados com base no assento original.
+Artigo 1.º - 1. Os actos de registo civil ou de registo paroquial com eficácia civil, respeitantes a cidadãos portugueses, lavrados nas ex-colónias podem ingressar nos livros do registo civil português, oficialmente, nas condições que vierem a ser estabelecidas por despacho do Ministro da Justiça ou a requerimento dos interessados com base no assento original.
 
 2. Nos casos de omissão do assento ou em que não seja viável obter a certidão do assento original com a brevidade normal, podem os interessados recorrer aos meios previstos no Código do Registo Civil para suprimento de omissão de registo.
 
@@ -107,26 +129,26 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5. Na inscrição de nascimento, quando não seja viável obter certidão do respectivo assento lavrado nas ex-colónias, a intervenção de um ou de ambos os pais, para o efeito da menção de filiação, pode ser substituída pela apresentação do bilhete de identidade, cédula pessoal ou certidão do registo de casamento do registando, desde que deles conste essa filiação.
 
-###### Art. 2.º Para o ingresso previsto no artigo anterior é exclusivamente competente a Conservatória dos Registos Centrais, salvo quanto aos registos já requeridos.
+Art. 2.º Para o ingresso previsto no artigo anterior é exclusivamente competente a Conservatória dos Registos Centrais, salvo quanto aos registos já requeridos.
 
-###### Art. 3.º O registo previsto no artigo 1.º e os actos, documentos e processos a ele respeitantes são isentos de selos e emolumentos.
+Art. 3.º O registo previsto no artigo 1.º e os actos, documentos e processos a ele respeitantes são isentos de selos e emolumentos.
 
-###### Art. 4.º O disposto nos n.os 2 a 5 do artigo 1.º e nos artigos 2.º e 3.º pode ser aplicável a território ainda sob administração portuguesa, mediante despacho do Ministro da Justiça.
+Art. 4.º O disposto nos n.os 2 a 5 do artigo 1.º e nos artigos 2.º e 3.º pode ser aplicável a território ainda sob administração portuguesa, mediante despacho do Ministro da Justiça.
 
-###### Art. 5.º São ineficazes os averbamentos de cancelamento exarados nos assentos de registo civil por efeito do seu ingresso no registo civil dos antigos territórios ultramarinos, devendo a ineficácia ser averbada, oficiosamente, pelo funcionário competente.
+Art. 5.º São ineficazes os averbamentos de cancelamento exarados nos assentos de registo civil por efeito do seu ingresso no registo civil dos antigos territórios ultramarinos, devendo a ineficácia ser averbada, oficiosamente, pelo funcionário competente.
 
-###### Art. 6.º Na Conservatória dos Registos Centrais é criado mais um lugar de conservador-adjunto e um lugar de telefonista com a categoria da letra S, que fica integrado no quadro de pessoal auxiliar.
+Art. 6.º Na Conservatória dos Registos Centrais é criado mais um lugar de conservador-adjunto e um lugar de telefonista com a categoria da letra S, que fica integrado no quadro de pessoal auxiliar.
 
-###### Art. 7.º Aos conservadores-adjuntos compete coadjuvar o conservador, que, nas suas faltas e impedimentos, é substituído pelo conservador-adjunto que o director-geral dos Registos e do Notariado designar ou, na falta de designação, pelo mais antigo.
+Art. 7.º Aos conservadores-adjuntos compete coadjuvar o conservador, que, nas suas faltas e impedimentos, é substituído pelo conservador-adjunto que o director-geral dos Registos e do Notariado designar ou, na falta de designação, pelo mais antigo.
 
-###### Art. 8.º O quadro auxiliar da Conservatória dos Registos Centrais pode ser alterado por portaria do Ministro da Justiça, mediante proposta do director-geral dos Registos e do Notariado.
+Art. 8.º O quadro auxiliar da Conservatória dos Registos Centrais pode ser alterado por portaria do Ministro da Justiça, mediante proposta do director-geral dos Registos e do Notariado.
 
-###### Art. 9.º É revogado o n.º 3 do artigo 9.º do Código do Registo Civil.
+Art. 9.º É revogado o n.º 3 do artigo 9.º do Código do Registo Civil.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António de Almeida Santos.
 
-**Promulgado em 31 de Maio de 1977.**
+Promulgado em 31 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

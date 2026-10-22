@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/1979, 2º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3414-(7) a 3414-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29802/00070011.pdf
 entry_into_force_dates: []
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c-1979-510044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21ca38691be233a119ae020c81783fa1563c760948e857e890b9a80378de6de5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b24bc4141799bb31102eb71c82fa233ddf68c055c218e982980383c3ae6c1f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Parque Nacional da Peneda-Gerês
 relationships:
 - type: amended_by
   target: pt:dre:226846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644352:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:679448:por
+  label: Rectificado pela DECL.DD6696.01.02.1980.PCM, DR.IS [40] de 16.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679448
+  date: '1980-02-01'
+- type: corrected_by
+  target: pt:dre:678224:por
+  label: Rectificada a Declaração DD6696, de 16 de Fevereiro de 1980, que rectifica o presente diploma, pela DECL.DD6775.05.03.1980.PCM,
+    DR.IS [61] de 13.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678224
+  date: '1980-03-05'
+- type: repealed_by
+  target: pt:dre:178314:por
+  label: "Revogado o artigo 1.º pelo DEC LEI.403/85.14.10.1985.MA, DR.IS [236] de 14.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1985-178314
+  date: '1985-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:00Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +130,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Parque Nacional da Peneda-Gerês, abreviadamente PNPG, criado pelo [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 8 de Maio, é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
+Artigo 1.º - 1 - O Parque Nacional da Peneda-Gerês, abreviadamente PNPG, criado pelo [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 8 de Maio, é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
 
 2 - O PNPG fica na dependência directa do Ministro da Agricultura e Pescas.
 
-###### Art. 2.º - 1 - O PNPG abrange o território cuja delimitação consta do mapa e descrição complementar anexos ao presente diploma e está ordenado, conforme o seu plano director, em duas grandes zonas, denominadas, respectivamente, «Pré-Parque» e «Parque».
+Art. 2.º - 1 - O PNPG abrange o território cuja delimitação consta do mapa e descrição complementar anexos ao presente diploma e está ordenado, conforme o seu plano director, em duas grandes zonas, denominadas, respectivamente, «Pré-Parque» e «Parque».
 
 2 - As alterações ao ordenamento definido no seu plano director serão aprovadas por despacho do Ministro da Agricultura e Pescas, ouvida a Secretaria de Estado do Urbanismo e Ambiente e demais.
 
-###### Art. 3.º Os terrenos compreendidos no perímetro do PNPG ficam submetidos, para efeitos de exploração florestal, ao regime florestal parcial obrigatório, consoante pertençam ao Estado ou a outras entidades.
+Art. 3.º Os terrenos compreendidos no perímetro do PNPG ficam submetidos, para efeitos de exploração florestal, ao regime florestal parcial obrigatório, consoante pertençam ao Estado ou a outras entidades.
 
-###### Art. 4.º - 1 - São atribuições do PNPG:
+Art. 4.º - 1 - São atribuições do PNPG:
 
 a) A salvaguarda do seu património natural numa síntese de ética de protecção;
 
@@ -124,7 +154,7 @@ e) A promoção dos meios de interpretação do seu património e a disciplina d
 
 2 - No desempenho das suas atribuições deverá o PNPG colaborar com o Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 5.º - 1 - O PNPG tem a sede dos seus órgãos e serviços na cidade de Braga.
+Art. 5.º - 1 - O PNPG tem a sede dos seus órgãos e serviços na cidade de Braga.
 
 2 - Podem, porém, ser estabelecidos na periferia do PNPG núcleos de apoio aos residentes e visitantes.
 
@@ -132,7 +162,7 @@ e) A promoção dos meios de interpretação do seu património e a disciplina d
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 6.º São órgãos do PNPG:
+Art. 6.º São órgãos do PNPG:
 
 a) O director;
 
@@ -144,11 +174,11 @@ d) A comissão científica;
 
 e) O conselho administrativo.
 
-###### Art. 7.º - 1 - O director do Parque é equiparado, para todos os efeitos legais, a subdirector-geral.
+Art. 7.º - 1 - O director do Parque é equiparado, para todos os efeitos legais, a subdirector-geral.
 
 2 - O lugar de director do PNPG é provido em comissão de serviço, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 8.º Ao director do PNPG compete, em especial:
+Art. 8.º Ao director do PNPG compete, em especial:
 
 a) Presidir aos restantes órgãos do PNPG, com excepção da comissão científica;
 
@@ -160,7 +190,7 @@ d) Fixar e fazer cumprir as directrizes gerais do organismo, de acordo com a ori
 
 e) Submeter à aprovação da entidade competente as propostas que de tal careçam.
 
-###### Art. 9.º - 1 - O conselho geral é um órgão consultivo, constituído pelos seguintes membros:
+Art. 9.º - 1 - O conselho geral é um órgão consultivo, constituído pelos seguintes membros:
 
 a) Um representante do conselho técnico;
 
@@ -176,7 +206,7 @@ f) Um representante do Serviço Nacional de Parques, Reservas e Património Pais
 
 2 - Sempre que se mostre conveniente, poderão ser convocadas ou convidadas, com estatuto consultivo, outras entidades, públicas ou privadas, especialmente qualificadas para o esclarecimento das matérias em apreciação.
 
-###### Art. 10.º - 1 - Compete ao conselho geral:
+Art. 10.º - 1 - Compete ao conselho geral:
 
 a) Emitir parecer sobre o programa anual de actividades da zona do Pré-Parque;
 
@@ -188,7 +218,7 @@ c) Pronunciar-se sobre os assuntos que constam das convocatórias das respectiva
 
 3 - Os membros do conselho geral têm direito a senhas de presença, nos termos da lei geral.
 
-###### Art. 11.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director do PNPG, constituído pelos seguintes membros:
+Art. 11.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director do PNPG, constituído pelos seguintes membros:
 
 a) Um representante designado por cada um dos seguintes sectores da Administração Pública:
 
@@ -208,7 +238,7 @@ d) Analisar periodicamente o funcionamento do PNPG e os resultados da sua activi
 
 3 - Os membros do conselho técnico têm direito ao pagamento das despesas de deslocação e ajudas de custo, nos termos da lei geral.
 
-###### Art. 12.º - 1 - A comissão científica é um órgão de consulta para as questões culturais e científicas, constituída por representantes de organismos de investigação, do ensino superior e de associações culturais, a definir por decreto simples.
+Art. 12.º - 1 - A comissão científica é um órgão de consulta para as questões culturais e científicas, constituída por representantes de organismos de investigação, do ensino superior e de associações culturais, a definir por decreto simples.
 
 2 - À comissão científica compete:
 
@@ -224,7 +254,7 @@ b) Propor recomendações que possam contribuir para a salvaguarda do patrimóni
 
 6 - Os membros da comissão científica que residam fora da sede dos órgãos do PNPG têm direito ao pagamento das deslocações e ajudas de custo, nos termos da lei geral.
 
-###### Art. 13.º - 1 - O conselho administrativo é órgão deliberativo em matéria de gestão patrimonial e financeira, constituído pelos seguintes membros:
+Art. 13.º - 1 - O conselho administrativo é órgão deliberativo em matéria de gestão patrimonial e financeira, constituído pelos seguintes membros:
 
 a) O director do PNPG;
 
@@ -252,7 +282,7 @@ f) Prestar anualmente contas da sua gerência ao Tribunal de Contas.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 14.º O PNPG dispõe dos seguintes serviços:
+Art. 14.º O PNPG dispõe dos seguintes serviços:
 
 a) Núcleo de Planeamento;
 
@@ -262,9 +292,9 @@ c) Gabinete de Gestão de Projectos;
 
 d) Repartição de Administração.
 
-###### Art. 15.º O Núcleo de Planeamento e o Centro de Documentação e Informação são dirigidos por chefes de divisão.
+Art. 15.º O Núcleo de Planeamento e o Centro de Documentação e Informação são dirigidos por chefes de divisão.
 
-###### Art. 16. - 1 - O Gabinete de Gestão de Projectos é dirigido por um director de serviços e compreende as divisões:
+Art. 16. - 1 - O Gabinete de Gestão de Projectos é dirigido por um director de serviços e compreende as divisões:
 
 a) De Gestão de Projectos;
 
@@ -280,7 +310,7 @@ b) De Conservação e Defesa do Património.
 
 6 - Do despacho deverá constar, designadamente, o objecto do projecto, o seu responsável, os elementos que constituem a equipa e, bem assim, o respectivo mandato e prazo para a sua realização.
 
-###### Art. 17.º - 1 - À Repartição de Administração compete assegurar o expediente, a contabilidade e a gestão do património do PNPG.
+Art. 17.º - 1 - À Repartição de Administração compete assegurar o expediente, a contabilidade e a gestão do património do PNPG.
 
 2 - A Repartição de Administração compreende as secções:
 
@@ -292,27 +322,27 @@ b) De Administração Patrimonial e Financeira.
 
 4 - O tesoureiro tem direito a um abono para falhas, nos termos da lei geral.
 
-###### Art. 18.º As atribuições e competências dos serviços referidos nesta secção serão definidas em decreto.
+Art. 18.º As atribuições e competências dos serviços referidos nesta secção serão definidas em decreto.
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Art. 19.º - 1 - O património do PNPG é constituído pela universalidade dos bens e direitos que lhe pertençam à data da publicação deste diploma e dos que vier a adquirir para prossecução dos seus fins.
+Art. 19.º - 1 - O património do PNPG é constituído pela universalidade dos bens e direitos que lhe pertençam à data da publicação deste diploma e dos que vier a adquirir para prossecução dos seus fins.
 
 2 - Os bens imóveis não podem ser alienados, podendo, porém, ser cedida contratualmente a sua exploração, a título gratuito ou oneroso, quando inserida nos objectivos principais do PNPG.
 
 3 - Exceptuam-se do disposto no número anterior as alienações por troca para eliminação de encravados, com vista a uma melhor composição das zonas do PNPG.
 
-###### Art. 20.º A gestão do PNPG será disciplinada pelos seguintes instrumentos de previsão:
+Art. 20.º A gestão do PNPG será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano anual de actividades;
 
 b) Orçamento privativo anual e suas actualizações.
 
-###### Art. 21.º O plano anual de actividades deverá concretizar os estudos e projectos a realizar no decurso do ano, definindo as respectivas prioridades.
+Art. 21.º O plano anual de actividades deverá concretizar os estudos e projectos a realizar no decurso do ano, definindo as respectivas prioridades.
 
-###### Art. 22.º O orçamento privativo será organizado com base no plano anual de actividades, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
+Art. 22.º O orçamento privativo será organizado com base no plano anual de actividades, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
 
-###### Art. 23.º - 1 - Constituem receitas próprias do PNPG:
+Art. 23.º - 1 - Constituem receitas próprias do PNPG:
 
 a) As dotações que lhe forem consignadas no Orçamento Geral do Estado;
 
@@ -330,21 +360,21 @@ g) Quaisquer outras receitas ou rendimentos que lhe sejam atribuídos por lei, c
 
 2 - A aceitação de subsídios e subvenções não necessita de autorização do Governo quando transmitidos livres de encargos ou obrigações.
 
-###### Art. 24.º - 1 - As receitas enumeradas nas alíneas a) a g) do artigo anterior serão entregues nos cofres do Tesouro e escrituradas em contas de ordem, mediante guias a expedir pela Repartição de Administração.
+Art. 24.º - 1 - As receitas enumeradas nas alíneas a) a g) do artigo anterior serão entregues nos cofres do Tesouro e escrituradas em contas de ordem, mediante guias a expedir pela Repartição de Administração.
 
 2 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 25.º Todos os documentos relativos a recebimentos ou pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo chefe da Repartição de Administração.
+Art. 25.º Todos os documentos relativos a recebimentos ou pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo chefe da Repartição de Administração.
 
-###### Art. 26.º - 1 - As despesas do PNPG serão pagas por meio de cheques nominativos assinados por dois membros do conselho administrativo, sendo um deles, obrigatoriamente, o chefe da Repartição de Administração.
+Art. 26.º - 1 - As despesas do PNPG serão pagas por meio de cheques nominativos assinados por dois membros do conselho administrativo, sendo um deles, obrigatoriamente, o chefe da Repartição de Administração.
 
 2 - Poderá, no entanto, ser constituído, à responsabilidade do tesoureiro, um fundo de maneio para ocorrer ao pagamento de pequenas despesas de carácter corrente.
 
-###### Art. 27.º A prestação de contas será feita nos termos da lei geral aplicável.
+Art. 27.º A prestação de contas será feita nos termos da lei geral aplicável.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 28.º - 1 - O PNPG disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos do Ministério da Agricultura e Pescas, a fixar por decreto.
+Art. 28.º - 1 - O PNPG disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos do Ministério da Agricultura e Pescas, a fixar por decreto.
 
 2 - Considera-se desde já criado o lugar de director do PNPG.
 
@@ -352,33 +382,33 @@ g) Quaisquer outras receitas ou rendimentos que lhe sejam atribuídos por lei, c
 
 4 - O regime previsto no número anterior aplicar-se-á apenas a partir de 1 de Janeiro de 1981.
 
-###### Art. 29.º Independentemente do disposto no artigo anterior, o PNPG poderá contratar ou assalariar, de conta de dotações especialmente inscritas para esse fim no seu orçamento, o pessoal que transitoriamente se mostre necessário recrutar para a realização dos seus fins.
+Art. 29.º Independentemente do disposto no artigo anterior, o PNPG poderá contratar ou assalariar, de conta de dotações especialmente inscritas para esse fim no seu orçamento, o pessoal que transitoriamente se mostre necessário recrutar para a realização dos seus fins.
 
 ### CAPÍTULO V — Disposições gerais e finais
 
-###### Art. 30.º - 1 - Mediante autorização ministerial e sob proposta fundamentada do seu director, ouvido o conselho técnico, poderão ser celebrados contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que visem objectivos científicos ou culturais do PNPG.
+Art. 30.º - 1 - Mediante autorização ministerial e sob proposta fundamentada do seu director, ouvido o conselho técnico, poderão ser celebrados contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que visem objectivos científicos ou culturais do PNPG.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 31.º Para a realização dos seus fins, o PNPG poderá estabelecer convénios com outras instituições, nacionais ou estrangeiras, ouvido, quanto às últimas, o Gabinete de Informação e Cooperação Internacional do Ministério da Agricultura e Pescas.
+Art. 31.º Para a realização dos seus fins, o PNPG poderá estabelecer convénios com outras instituições, nacionais ou estrangeiras, ouvido, quanto às últimas, o Gabinete de Informação e Cooperação Internacional do Ministério da Agricultura e Pescas.
 
-###### Art. 32.º - 1 - A cobrança coerciva das dívidas do PNPG provenientes de quaisquer taxas ou outros rendimentos, cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo das execuções fiscais.
+Art. 32.º - 1 - A cobrança coerciva das dívidas do PNPG provenientes de quaisquer taxas ou outros rendimentos, cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo das execuções fiscais.
 
 2 - Servirá de base à execução certidão extraída dos livros ou documentos, passada pela Repartição de Administração, onde se certifique o nome e domicílio do devedor, o montante da dívida e a sua proveniência.
 
-###### Art. 33.º As normas referentes ao uso e fruição do património do PNPG, às medidas cautelares relativas a áreas de protecção e recreio ou afectas à salvaguarda dos recursos naturais serão objecto de decreto, a expedir no prazo de noventa dias, a contar da vigência deste diploma.
+Art. 33.º As normas referentes ao uso e fruição do património do PNPG, às medidas cautelares relativas a áreas de protecção e recreio ou afectas à salvaguarda dos recursos naturais serão objecto de decreto, a expedir no prazo de noventa dias, a contar da vigência deste diploma.
 
-###### Art. 34.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despachos do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 34.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despachos do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 35.º Este diploma entra em vigor no dia 1 de Janeiro de 1980.
+Art. 35.º Este diploma entra em vigor no dia 1 de Janeiro de 1980.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Limite exterior do Parque Nacional da Peneda-Gerês
 
@@ -398,6 +428,6 @@ Núcleo 3. - 250 m a sul da estrada nacional n.º 304-1, desde a fronteira até 
 
 Com cerca de 15920 ha.
 
-**O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo. - O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço.**
+O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo. - O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29802/00070011.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29802/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29802/00070011.pdf)

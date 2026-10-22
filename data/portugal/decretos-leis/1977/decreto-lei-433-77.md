@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24000/25022503.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1977-277077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21e37316056536e686c81785259d3eb102aa9622d14d5f7d4c2247b18cd5ba38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52afaf962a71d654728e9fe5a10e511cb1c60310d67e6717f98c1f6b6dc41058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional do Plano
+- Definição de Competências
+- Orgânica
+- Quadro de Pessoal
+- Serviços de Apoio Técnico e Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:382434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:277135:por
+  label: Rectificado pela DECL.DD7814.21.10.1977.PCM, DR.IS [244] de 21.10.1977, que procede à publicação do quadro de pessoal
+    a que se refere o artigo 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-277135
+  date: '1977-10-21'
+- type: repealed_by
+  target: pt:dre:382434:por
+  label: "Revogado pelo Dec Lei.84/79.17.04.1979.PCM, DR.IS [89] de 17.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1979-382434
+  date: '1979-04-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:05Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +116,9 @@ Com a publicação da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/l
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:
 
-###### Artigo 1.º O Conselho Nacional do Plano, criado pelo artigo 14.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e ao qual cabe, em ordem à elaboração do Plano, assegurar e coordenar a participação das populações, através das autarquias e comunidades locais, das organizações das classes trabalhadoras e das entidades representativas de actividades económicas, tem a sua sede em Lisboa.
+Artigo 1.º O Conselho Nacional do Plano, criado pelo artigo 14.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e ao qual cabe, em ordem à elaboração do Plano, assegurar e coordenar a participação das populações, através das autarquias e comunidades locais, das organizações das classes trabalhadoras e das entidades representativas de actividades económicas, tem a sua sede em Lisboa.
 
-###### Art. 2.º - 1 - O Conselho Nacional do Plano dispõe de pessoal técnico e administrativo privativo constante do quadro anexo ao presente diploma, o qual pode ser alterado por portaria conjunta do Primeiro-Ministro, Ministro do Plano e Coordenação Económica, Ministro das Finanças e Secretário de Estado da Administração Pública.
+Art. 2.º - 1 - O Conselho Nacional do Plano dispõe de pessoal técnico e administrativo privativo constante do quadro anexo ao presente diploma, o qual pode ser alterado por portaria conjunta do Primeiro-Ministro, Ministro do Plano e Coordenação Económica, Ministro das Finanças e Secretário de Estado da Administração Pública.
 
 2 - O presidente do Conselho Nacional do Plano terá regalias idênticas às de Secretário de Estado e possui gabinete privativo, nos termos do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho.
 
@@ -102,9 +126,9 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o 
 
 4 - Compete ao presidente do Conselho Nacional do Plano ou, por sua delegação, a qualquer dos vice-presidentes a superintendência dos serviços referidos no número anterior, difundindo as normas necessárias ao bom funcionamento dos serviços.
 
-###### Art. 3.º Ao gabinete técnico compete elaborar pareceres, realizar estudos e demais trabalhos de natureza técnica que lhe forem cometidos pelo presidente do Conselho Nacional do Plano.
+Art. 3.º Ao gabinete técnico compete elaborar pareceres, realizar estudos e demais trabalhos de natureza técnica que lhe forem cometidos pelo presidente do Conselho Nacional do Plano.
 
-###### Art. 4.º - 1 - À secretaria compete:
+Art. 4.º - 1 - À secretaria compete:
 
 a) Prestar apoio pessoal aos vice-presidentes do Conselho Nacional do Plano;
 
@@ -130,7 +154,7 @@ b) Redigir e assinar a correspondência de que o presidente o encarregar;
 
 c) Promover a difusão de normas regulamentares internas necessárias ao bom funcionamento dos serviços.
 
-###### Art. 5.º - 1 - Para efeitos orçamentais, o quadro de pessoal anexo ao presente diploma considera-se afecto à Presidência do Conselho de Ministros.
+Art. 5.º - 1 - Para efeitos orçamentais, o quadro de pessoal anexo ao presente diploma considera-se afecto à Presidência do Conselho de Ministros.
 
 2 - O recrutamento e promoção do pessoal referido no número anterior reger-se-ão pelas normas vigentes para as categorias similares do quadro da Presidência do Conselho de Ministros.
 
@@ -138,20 +162,20 @@ c) Promover a difusão de normas regulamentares internas necessárias ao bom fun
 
 4 - O preenchimento das vagas e o destino do pessoal por áreas funcionais serão efectuados por despacho do presidente do Conselho Nacional do Plano.
 
-###### Art. 6.º Mediante despacho do Primeiro-Ministro, sob proposta do presidente do Conselho Nacional, poderão prestar serviço no Conselho Nacional, em regime de comissão de serviço ou requisição, outros funcionários, do Estado, institutos públicos ou trabalhadores de empresas públicas ou privadas.
+Art. 6.º Mediante despacho do Primeiro-Ministro, sob proposta do presidente do Conselho Nacional, poderão prestar serviço no Conselho Nacional, em regime de comissão de serviço ou requisição, outros funcionários, do Estado, institutos públicos ou trabalhadores de empresas públicas ou privadas.
 
-###### Art. 7.º Para elaboração de estudos e outros trabalhos cuja natureza específica o justifique, pode o presidente do Conselho Nacional do Plano celebrar contratos com empresas ou outras entidades nacionais ou estrangeiras.
+Art. 7.º Para elaboração de estudos e outros trabalhos cuja natureza específica o justifique, pode o presidente do Conselho Nacional do Plano celebrar contratos com empresas ou outras entidades nacionais ou estrangeiras.
 
-###### Art. 8.º O Conselho Nacional do Plano elaborará o regulamento interno a que obedecerá o seu funcionamento, no prazo de trinta dias após a sua primeira reunião.
+Art. 8.º O Conselho Nacional do Plano elaborará o regulamento interno a que obedecerá o seu funcionamento, no prazo de trinta dias após a sua primeira reunião.
 
-###### Art. 9.º - 1 - As remunerações do presidente e dos vice-presidentes do Conselho Nacional do Plano serão fixadas por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.
+Art. 9.º - 1 - As remunerações do presidente e dos vice-presidentes do Conselho Nacional do Plano serão fixadas por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.
 
 2 - Os representantes referidos nas alíneas b) a h) do artigo 15.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, terão direito a senhas de presença por cada reunião do Conselho a efectuar nos termos a definir no seu regimento, sendo o valor daquelas fixado por despacho do Ministro das Finanças, mediante proposta do presidente do Conselho Nacional do Plano.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Maria Manuela Matos Morgado Santiago Baptista.
 
-**Promulgado em 4 de Outubro de 1977.**
+Promulgado em 4 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

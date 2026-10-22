@@ -47,36 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff51ef97f7b0f570a6b4a55ae5a381b0ff9084d0e0b0cb7ac1a3ee675d7d52a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: add7db8d22521f3eb9405ab4242da7d008ba933067817b836a9c8ea941107178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Curso
+- Definição de Competências
+- Ensino Superior Militar
+- Formação Profissional
+- Militar
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:176302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:52Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +146,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º, 6.º, 8.º, 11.º, 14.º, 15.º, 16.º, 17.º, 19.º, 25.º, 27.º, 30.º, 31.º, 34.º, 35.º, 36.º, 38.º, 42.º, 48.º, 52.º, 54.º, 55.º, 56.º, 57.º, 59.º, 60.º, 61.º, 62.º, 63.º e 64.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º, 6.º, 8.º, 11.º, 14.º, 15.º, 16.º, 17.º, 19.º, 25.º, 27.º, 30.º, 31.º, 34.º, 35.º, 36.º, 38.º, 42.º, 48.º, 52.º, 54.º, 55.º, 56.º, 57.º, 59.º, 60.º, 61.º, 62.º, 63.º e 64.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, passam a ter a seguinte redacção:
 
-###### Art. 3.º A Academia Militar professa e superintende nos seguintes cursos:
+Art. 3.º A Academia Militar professa e superintende nos seguintes cursos:
 
 a) Curso de infantaria;
 
@@ -133,7 +176,7 @@ i) Curso de engenharia aeronáutica militar.
 
 ...
 
-###### Art. 5.º Os cursos referidos no corpo do artigo 3.º, excepto os de engenharia, têm a duração de quatro anos, seguidos do tirocínio.
+Art. 5.º Os cursos referidos no corpo do artigo 3.º, excepto os de engenharia, têm a duração de quatro anos, seguidos do tirocínio.
 
 Enquanto se verificarem as exigências que as actuais circunstâncias impõem, a duração destes cursos é reduzida a três anos, seguidos do tirocínio, mantendo-se, porém, o mesmo nível de preparação dos futuros oficiais por uma adequada intensificação da instrução.
 
@@ -141,7 +184,7 @@ Os cursos de engenharia têm a duração de sete anos, seguidos dos tirocínios 
 
 A duração dos cursos referidos no § 1.º do artigo 3.º varia com a sua natureza e as habilitações dos respectivos instruendos.
 
-###### Art. 6.º As matérias professadas na Academia Militar distribuem-se pelas seguintes cadeiras:
+Art. 6.º As matérias professadas na Academia Militar distribuem-se pelas seguintes cadeiras:
 
 1.ª Matemáticas Gerais.
 
@@ -375,7 +418,7 @@ Oficinas II.
 
 ...
 
-###### Art. 8.º Os cursos da Academia Militar referidos no artigo 3.º são frequentados nas seguintes condições:
+Art. 8.º Os cursos da Academia Militar referidos no artigo 3.º são frequentados nas seguintes condições:
 
 a) O 1.º ano dos cursos de infantaria, artilharia, cavalaria, administração militar e aeronáutica militar e o 1.º, 2.º e 3.º anos dos cursos de engenharia, considerados preparatórios para estes cursos, podem ser frequentados, em regime de externato, em qualquer das Universidades onde se professem cadeiras com idêntica designação das que constam para esses anos dos respectivos planos de curso, não tendo os alunos, neste caso, direito a qualquer vencimento;
 
@@ -391,33 +434,33 @@ d) Os cursos de engenharia podem ser frequentados, a partir do 2.º, do 3.º ou 
 
 ...
 
-###### Art. 11.º As cadeiras professadas e as instruções ministradas nos diversos anos dos cursos da Academia Militar são as constantes dos planos dos cursos, fixados nos mapas anexos n.os 1 a 13.
+Art. 11.º As cadeiras professadas e as instruções ministradas nos diversos anos dos cursos da Academia Militar são as constantes dos planos dos cursos, fixados nos mapas anexos n.os 1 a 13.
 
 ...
 
-###### Art. 14.º Sob a forma de conferências e trabalhos práticos são ministradas, em todos os cursos, noções gerais de criptologia e, nos cursos em que tenham utilidade, noções gerais de hipologia.
+Art. 14.º Sob a forma de conferências e trabalhos práticos são ministradas, em todos os cursos, noções gerais de criptologia e, nos cursos em que tenham utilidade, noções gerais de hipologia.
 
 § único. A criptologia é ministrada por um oficial especializado, a designar pelo Estado-Maior do Exército, e a hipologia pelo oficial chefe do serviço veterinário da Academia Militar.
 
-###### Art. 15.º A instrução de educação física é ministrada em todos os cursos sob a forma de ginástica educativa e de aplicação militar, de desportos, esgrima, luta e equitação, sendo estas modalidades distribuídas pelos planos dos cursos, atendendo às exigências da preparação física e do trabalho intelectual dos alunos.
+Art. 15.º A instrução de educação física é ministrada em todos os cursos sob a forma de ginástica educativa e de aplicação militar, de desportos, esgrima, luta e equitação, sendo estas modalidades distribuídas pelos planos dos cursos, atendendo às exigências da preparação física e do trabalho intelectual dos alunos.
 
-###### Art. 16.º A formação militar dos alunos compete especialmente ao corpo de alunos e é resultante da instrução militar geral e da instrução do corpo de alunos.
+Art. 16.º A formação militar dos alunos compete especialmente ao corpo de alunos e é resultante da instrução militar geral e da instrução do corpo de alunos.
 
 A formação militar processa-se ao longo da frequência dos cursos sob aquelas rubricas que constam dos respectivos planos dos cursos.
 
 A instrução do corpo de alunos inclui a conveniente educação militar, cívica e moral.
 
-###### Art. 17.º Sempre que possível, será ministrada instrução de automobilismo a todos os alunos, sob a orientação do professor da 46.ª cadeira.
+Art. 17.º Sempre que possível, será ministrada instrução de automobilismo a todos os alunos, sob a orientação do professor da 46.ª cadeira.
 
 ...
 
-###### Art. 19.º Em todos os cursos serão ministradas lições de francês, inglês ou alemão, sendo o inglês obrigatório nos cursos para a Força Aérea.
+Art. 19.º Em todos os cursos serão ministradas lições de francês, inglês ou alemão, sendo o inglês obrigatório nos cursos para a Força Aérea.
 
-###### Art. 25.º Na segunda parte dos vários anos há sempre um exercício de conjunto para todos os cursos, com a duração aproximada de duas semanas.
+Art. 25.º Na segunda parte dos vários anos há sempre um exercício de conjunto para todos os cursos, com a duração aproximada de duas semanas.
 
 ...
 
-###### Art. 27.º O tirocínio e os estágios referidos no artigo 5.º são realizados nas escolas práticas e noutros estabelecimentos apropriados e têm por principal finalidade proporcionar aos alunos, através de uma instrução caracterizada pela maior objectividade prática, a aplicação dos conhecimentos adquiridos e, ainda, completar a apreciação da sua personalidade, espírito militar e capacidade técnica.
+Art. 27.º O tirocínio e os estágios referidos no artigo 5.º são realizados nas escolas práticas e noutros estabelecimentos apropriados e têm por principal finalidade proporcionar aos alunos, através de uma instrução caracterizada pela maior objectividade prática, a aplicação dos conhecimentos adquiridos e, ainda, completar a apreciação da sua personalidade, espírito militar e capacidade técnica.
 
 § 1.º Os programas de instrução dos tirocínios e estágios são estabelecidos pelas respectivas escolas práticas de acordo com a direcção do serviço de instrução da Academia Militar.
 
@@ -437,7 +480,7 @@ A instrução do corpo de alunos inclui a conveniente educação militar, cívic
 
 ...
 
-###### Art. 30.º A admissão de alunos na Academia Militar processa-se através de concurso para a matrícula:
+Art. 30.º A admissão de alunos na Academia Militar processa-se através de concurso para a matrícula:
 
 a) No 1.º ano de todos os cursos, para preenchimento das vagas anualmente fixadas com esta finalidade;
 
@@ -463,7 +506,7 @@ Os candidatos aos cursos de engenharia serão ainda submetidos a uma prova espec
 
 § 2.º A altura e o índice de robustez sofrem correcção adequada à idade dos candidatos, segundo o prudente juízo da junta de inspecção, confirmada em cada caso pelo comandante.
 
-###### Art. 31.º São condições de admissão à matrícula no 1.º ano de todos os cursos, com excepção do curso de administração militar, além das citadas no artigo anterior:
+Art. 31.º São condições de admissão à matrícula no 1.º ano de todos os cursos, com excepção do curso de administração militar, além das citadas no artigo anterior:
 
 1.ª Ter menos de 21 anos em 1 de Janeiro do ano de admissão;
 
@@ -479,7 +522,7 @@ As cadeiras dos institutos industriais a que se refere o artigo 14.º do [Decret
 
 ...
 
-###### Art. 34.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino a qualquer curso, excepto os de aeronáutica e de administração militar, dos sargentos e furriéis dos quadros permanentes do Exército e da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
+Art. 34.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino a qualquer curso, excepto os de aeronáutica e de administração militar, dos sargentos e furriéis dos quadros permanentes do Exército e da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
 
 1.ª Terem menos de 27 anos de Idade em 1 de Janeiro do ano em que concorrem;
 
@@ -495,7 +538,7 @@ O 2.º ciclo liceal e um exame de habilitação especial efectuado no Colégio M
 
 § 2.º Os sargentos e furriéis admitidos a concurso ao abrigo deste artigo ficam sujeitos às restantes condições do artigo 30.º
 
-###### Art. 35.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino ao curso de aeronáutica, dos sargentos e furriéis pilotos da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
+Art. 35.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino ao curso de aeronáutica, dos sargentos e furriéis pilotos da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
 
 1.ª Terem menos de 24 anos em 1 de Janeiro do ano em que concorrem;
 
@@ -513,7 +556,7 @@ O 2.º ciclo liceal e um exame de habilitação especial efectuado no Colégio M
 
 § 3.º Os sargentos e furriéis pilotos do quadro de complemento que se encontrem nas condições deste artigo podem igualmente ser admitidos ao mesmo concurso.
 
-###### Art. 36.º São condições de admissão à matrícula no 1.º ano do curso de administração militar, além das citadas no artigo 30.º:
+Art. 36.º São condições de admissão à matrícula no 1.º ano do curso de administração militar, além das citadas no artigo 30.º:
 
 1.ª Ter menos de 21 anos em 1 de Janeiro do ano de admissão;
 
@@ -527,7 +570,7 @@ As cadeiras dos institutos comerciais a que se refere o artigo 11.º do Decreto-
 
 ...
 
-###### Art. 38.º São condições de admissão ao concurso para a matrícula no 2.º ano, para os candidatos que concorrem nos termos da alínea b) do artigo 30.º, além das condições gerais referidas no mesmo artigo, as seguintes:
+Art. 38.º São condições de admissão ao concurso para a matrícula no 2.º ano, para os candidatos que concorrem nos termos da alínea b) do artigo 30.º, além das condições gerais referidas no mesmo artigo, as seguintes:
 
 1.ª Terem menos de 23 anos em 1 de Janeiro do ano de admissão;
 
@@ -659,7 +702,7 @@ f) Para o 4.º ano dos cursos da alínea c), terem menos de 30 anos em 1 de Jane
 
 ...
 
-###### Art. 42.º Para efeitos de preenchimento de vagas é atribuída uma classificação na admissão à matrícula na Academia Militar (as provas psicotécnica e de aptidão física têm sòmente carácter eliminatório):
+Art. 42.º Para efeitos de preenchimento de vagas é atribuída uma classificação na admissão à matrícula na Academia Militar (as provas psicotécnica e de aptidão física têm sòmente carácter eliminatório):
 
 a) Para os candidatos à matrícula ao 1.º ano a classificação na admissão é a média das classificações obtidas no 3.º ciclo liceal (ou habilitações consideradas equivalentes) e na prova de aptidão cultural, calculada de acordo com as disposições do Regulamento de Admissão de Alunos;
 
@@ -671,11 +714,11 @@ Os candidatos nestas condições que obtenham média de 14 valores ou superior f
 
 § 3.º Os concorrentes ao 1.º ano que já possuam cadeiras universitárias correspondentes à matéria de qualquer dos exames da prova de aptidão cultural são dispensados desses exames, contando as classificações obtidas nas referidas cadeiras como classificações dos mesmos exames, para efeitos do disposto na alínea a) do corpo deste artigo.
 
-###### Art. 43.º Os candidatos procedentes do Colégio Militar e do Instituto Técnico Militar dos Pupilos do Exército são admitidos em primeiro lugar desde que satisfaçam às condições gerais de admissão do artigo 30.º
+Art. 43.º Os candidatos procedentes do Colégio Militar e do Instituto Técnico Militar dos Pupilos do Exército são admitidos em primeiro lugar desde que satisfaçam às condições gerais de admissão do artigo 30.º
 
 ...
 
-###### Art. 52.º Para efeito de classificação dos alunos são considerados os seguintes grupos:
+Art. 52.º Para efeito de classificação dos alunos são considerados os seguintes grupos:
 
 Grupo I - Frequências;
 
@@ -701,7 +744,7 @@ Face a esta informação, os referidos alunos podem, quando assim for julgado in
 
 ...
 
-###### Art. 54.º A classificação final dos alunos em cada ano é estabelecida da seguinte forma:
+Art. 54.º A classificação final dos alunos em cada ano é estabelecida da seguinte forma:
 
 a) Em cada um dos anos frequentados na Academia Militar em regime de internato obrigatório a classificação anual é a média das classificações correspondentes a todos os grupos referidos no artigo 52.º, depois de afectadas de coeficientes estabelecidos em regulamento;
 
@@ -711,7 +754,7 @@ c) No ano do tirocínio a classificação final é a que for atribuída nas resp
 
 d) As notas de mérito correspondentes ao ano de tirocínio, relativas às matérias teóricas aos trabalhos práticos e de aplicação e à instrução militar, são atribuídas de acordo com as normas a estabelecer pelo conselho escolar da Academia Militar, em colaboração com as respectivas escolas práticas ou estabelecimentos especializados onde decorrer a instrução, devendo ter-se especialmente em vista a valorização das qualidades militares que intervirão na respectiva média com coeficiente superior.
 
-###### Art. 55.º Perdem o ano:
+Art. 55.º Perdem o ano:
 
 a) Os alunos frequentando a Academia Militar em regime de internato obrigatório que:
 
@@ -745,7 +788,7 @@ c) Os alunos dos cursos de engenharia frequentando os anos considerados preparat
 
 § único. Os alunos frequentando a Academia Militar em regime de internato que perderem o ano são obrigados, para todos os efeitos, à repetição total do ano, excepto nas cadeiras em que obtiveram aproveitamento no ano anterior, em que são apenas obrigados a assistir às aulas. No respeitante a estas cadeiras, para efeitos de classificação no grupo I, entra-se com a classificação de frequência anual obtida nestas cadeiras no ano anterior, seguindo-se igual critério para efeito da classificação no grupo IV.
 
-###### Art. 56.º Os alunos frequentando a Academia em regime de internato que na época normal de exames tenham ficado reprovados no exame final de uma ou duas cadeiras e uma língua estrangeira repetem, na última quinzena de Setembro, os exames finais respectivos.
+Art. 56.º Os alunos frequentando a Academia em regime de internato que na época normal de exames tenham ficado reprovados no exame final de uma ou duas cadeiras e uma língua estrangeira repetem, na última quinzena de Setembro, os exames finais respectivos.
 
 § 1.º Como condição de aprovação nestes exames é necessário obter aprovação em cada uma das provas que os constituem.
 
@@ -757,7 +800,7 @@ Não os havendo, a classificação não sofre restrições.
 
 § 4.º Os alunos do curso de aeronáutica que na época normal não obtenham informação favorável na instrução de pilotagem e que não tenham perdido o ano na primeira época recebem esta instrução durante as férias grandes, se esta lhes puder ser ministrada, conforme o disposto no § 3.º do artigo 23.º Se ainda não obtiverem informação favorável, perdem o ano.
 
-###### Art. 57.º Relativamente aos cursos frequentados na Academia Militar em regime de internato, além das dispensas de exames a que se refere o artigo 53.º, são também concedidas dispensas de exames finais nos seguintes casos:
+Art. 57.º Relativamente aos cursos frequentados na Academia Militar em regime de internato, além das dispensas de exames a que se refere o artigo 53.º, são também concedidas dispensas de exames finais nos seguintes casos:
 
 a) Os alunos que se encontrem em condições de serem admitidos a exame final das diferentes cadeiras são dispensados do exame daquelas em que tenham obtido média de frequência igual ou superior a 12 valores.
 
@@ -771,9 +814,9 @@ c) Quando os exames forem constituídos apenas por provas práticas ou laborator
 
 ...
 
-###### Art. 59.º A classificação na parte escolar do curso da Academia Militar é a média aritmética, arredondada até às centésimas, das classificações de cada ano do curso, tendo em atenção as disposições contidas na alínea b) do § 1.º do artigo 52.º
+Art. 59.º A classificação na parte escolar do curso da Academia Militar é a média aritmética, arredondada até às centésimas, das classificações de cada ano do curso, tendo em atenção as disposições contidas na alínea b) do § 1.º do artigo 52.º
 
-###### Art. 60.º São eliminados da Academia Militar:
+Art. 60.º São eliminados da Academia Militar:
 
 a) Os alunos dos cursos de infantaria, artilharia, cavalaria, administração militar (para o Exército e para a Força Aérea) e aeronáutica militar que percam dois anos escolares;
 
@@ -801,7 +844,7 @@ i) Os alunos que o requeiram durante os anos em regime de externato ou durante o
 
 § 4.º Da decisão do comandante da Academia Militar sobre a eliminação de alunos não há recurso.
 
-###### Art. 61.º Para efeitos de hierarquia militar e de vencimentos, os alunos, com excepção dos admitidos como oficiais milicianos ou sargentos, enquanto frequentarem os cursos da Academia Militar, são graduados nos seguintes postos:
+Art. 61.º Para efeitos de hierarquia militar e de vencimentos, os alunos, com excepção dos admitidos como oficiais milicianos ou sargentos, enquanto frequentarem os cursos da Academia Militar, são graduados nos seguintes postos:
 
 a) Cadetes, quando frequentam o 1.º ano dos cursos de infantaria, artilharia, cavalaria, administração militar (para o Exército e para a Força Aérea) e aeronáutica militar, e o 1.º, 2.º e 3.º anos dos cursos de engenharia (para o Exército e para a Força Aérea) considerados preparatórios, em regime de externato nas Universidades, ou quando frequentem o 1.º ano de qualquer dos cursos em regime de internato;
 
@@ -817,23 +860,23 @@ d) Tenentes-alunos, quando frequentam o ano do tirocínio e estágios de cursos 
 
 § 3.º Os alunos admitidos como sargentos e furriéis dos quadros permanentes e de complemento são graduados, enquanto frequentarem a Academia Militar, nos postos referidos no corpo deste artigo.
 
-###### Art. 62.º Os postos de aspirante a oficial-aluno, alferes-aluno e tenente-aluno referidos no artigo anterior são conferidos aos alunos em 1 de Outubro de cada ano.
+Art. 62.º Os postos de aspirante a oficial-aluno, alferes-aluno e tenente-aluno referidos no artigo anterior são conferidos aos alunos em 1 de Outubro de cada ano.
 
-###### Art. 63.º O ingresso nos quadros permanentes dos oficiais-alunos que tenham concluído os cursos de infantaria, artilharia, cavalaria, administração militar (para o Exército e para a Força Aérea) e aeronáutica militar efectua-se no posto de alferes, depois de concluído com informação favorável o tirocínio, sendo a antiguidade no posto referida a 1 de Novembro do ano em que o tirocínio for completado.
+Art. 63.º O ingresso nos quadros permanentes dos oficiais-alunos que tenham concluído os cursos de infantaria, artilharia, cavalaria, administração militar (para o Exército e para a Força Aérea) e aeronáutica militar efectua-se no posto de alferes, depois de concluído com informação favorável o tirocínio, sendo a antiguidade no posto referida a 1 de Novembro do ano em que o tirocínio for completado.
 
-###### Art. 64.º O ingresso nos quadros permanentes dos oficiais-alunos que tenham concluído os cursos de engenharia (para o Exército e para a Força Aérea) efectua-se no posto de tenente, depois de concluído, com informação favorável, o tirocínio, sendo a antiguidade no posto referida a 1 de Novembro do ano em que o tirocínio for completado.
+Art. 64.º O ingresso nos quadros permanentes dos oficiais-alunos que tenham concluído os cursos de engenharia (para o Exército e para a Força Aérea) efectua-se no posto de tenente, depois de concluído, com informação favorável, o tirocínio, sendo a antiguidade no posto referida a 1 de Novembro do ano em que o tirocínio for completado.
 
-###### Art. 2.º Os artigos 2.º, 56.º, 57.º, 58.º, 63.º, 64.º, 65.º e 67.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º, 56.º, 57.º, 58.º, 63.º, 64.º, 65.º e 67.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, passam a ter a seguinte redacção:
 
-###### Art. 2.º O comandante é um oficial general do Exército designado pelo Ministro da Defesa Nacional, ouvidos o Ministro do Exército e o Secretário de Estado da Aeronáutica. Ele é responsável perante o chefe do Estado-Maior do Exército pela actividade geral da Academia e perante o chefe do Estado-Maior da Força Aérea sòmente nos assuntos que respeitem especificamente à instrução dos cursos de aeronáutica.
+Art. 2.º O comandante é um oficial general do Exército designado pelo Ministro da Defesa Nacional, ouvidos o Ministro do Exército e o Secretário de Estado da Aeronáutica. Ele é responsável perante o chefe do Estado-Maior do Exército pela actividade geral da Academia e perante o chefe do Estado-Maior da Força Aérea sòmente nos assuntos que respeitem especificamente à instrução dos cursos de aeronáutica.
 
 § único. O comandante é auxiliado no desempenho das suas funções por um 2.º comandante, que será um brigadeiro, de preferência da Força Aérea, nomeado pelo Ministro da Defesa Nacional, mediante proposta do comandante da Academia Militar e com parecer favorável do titular do departamento ministerial a que pertença o oficial proposto.
 
 ...
 
-###### Art. 56.º Os alunos da Academia Militar estão isentos do pagamento de propinas e inscrições.
+Art. 56.º Os alunos da Academia Militar estão isentos do pagamento de propinas e inscrições.
 
-###### Art. 57.º Os alunos são abonados, por intermédio do corpo de alunos, dos seguintes subsídios ou vencimentos mensais:
+Art. 57.º Os alunos são abonados, por intermédio do corpo de alunos, dos seguintes subsídios ou vencimentos mensais:
 
 a) Cadetes, em regime de internato, o subsidio mensal fixado no artigo 9.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), de 24 de Novembro de 1969;
 
@@ -849,7 +892,7 @@ b) Aspirantes a oficiais-alunos, alferes-alunos e tenentes-alunos, os vencimento
 
 § 5.º Os oficiais milicianos-alunos e os alunos oriundos da classe de sargentos dos quadros permanente ou de complemento do curso de aeronáutica militar mantêm as respectivas gratificações de serviço aéreo, sem dependência de quaisquer provas especiais. A gratificação por pilotagem de aviões de reacção fica sujeita aos respectivos condicionamentos legais.
 
-###### Art. 58.º Os cadetes em regime de internato têm direito a alimentação, alojamento, fardamento e publicações necessárias ao ensino por conta do Estado.
+Art. 58.º Os cadetes em regime de internato têm direito a alimentação, alojamento, fardamento e publicações necessárias ao ensino por conta do Estado.
 
 Os aspirantes a oficiais-alunos e alferes-alunos têm direito a fardamento por conta do Estado e descontam nos seus vencimentos, em cada mês, a importância correspondente às despesas com alimentação, alojamento e publicações necessárias ao ensino.
 
@@ -867,7 +910,7 @@ Os alunos da Academia Militar são obrigatòriamente inscritos como subscritores
 
 ...
 
-###### Art. 63.º Na acção disciplinar sobre os alunos, quanto às penas enunciadas no artigo 60.º, a competência dos comandos é a seguinte:
+Art. 63.º Na acção disciplinar sobre os alunos, quanto às penas enunciadas no artigo 60.º, a competência dos comandos é a seguinte:
 
 1.º Do comandante da Academia - todas as penas referidas no mesmo artigo;
 
@@ -883,9 +926,9 @@ Os alunos da Academia Militar são obrigatòriamente inscritos como subscritores
 
 § 3.º As decisões de natureza disciplinar tomadas pelo 2.º comandante, pelo comandante do corpo de alunos e pelos professores, quando exerçam as funções indicadas no § 1.º, não carecem de homologação.
 
-###### Art. 64.º Os alunos eliminados da frequência dos cursos da Academia Militar nos termos das alíneas e), g) e h) do artigo 60.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, ficam obrigados para com o Estado a indemnização financeira, a fixar para cada caso pelo Ministro do Exército, embora não superior a 50 por cento da totalidade dos subsídios, vencimentos e demais abonos, incluindo propinas e fardamentos.
+Art. 64.º Os alunos eliminados da frequência dos cursos da Academia Militar nos termos das alíneas e), g) e h) do artigo 60.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, ficam obrigados para com o Estado a indemnização financeira, a fixar para cada caso pelo Ministro do Exército, embora não superior a 50 por cento da totalidade dos subsídios, vencimentos e demais abonos, incluindo propinas e fardamentos.
 
-###### Art. 65.º Os alunos eliminados da frequência dos cursos da Academia Militar são abatidos ao efectivo da mesma e os que não tenham cumprido a obrigação normal do serviço militar são atribuídos ao Exército ou à Força Aérea, nos termos de n.º 2.º do artigo 7.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, de acordo com o seguinte:
+Art. 65.º Os alunos eliminados da frequência dos cursos da Academia Militar são abatidos ao efectivo da mesma e os que não tenham cumprido a obrigação normal do serviço militar são atribuídos ao Exército ou à Força Aérea, nos termos de n.º 2.º do artigo 7.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, de acordo com o seguinte:
 
 a) Os alunos eliminados por motivos disciplinares ou de ordem moral e por falta de aptidão militar são aumentados como soldados e, conforme os motivos e circunstâncias particulares da sua eliminação, incorporados em unidades activas ou em companhias disciplinares;
 
@@ -907,7 +950,7 @@ b) Abatidos por razões de saúde.
 
 ...
 
-###### Art. 67.º A competência disciplinar dos comandos da Academia em relação ao pessoal seu subordinado é a seguinte:
+Art. 67.º A competência disciplinar dos comandos da Academia em relação ao pessoal seu subordinado é a seguinte:
 
 a) Comandante da Academia - análoga à conferida pelo Regulamento de Disciplina Militar aos comandantes de região militar;
 
@@ -919,7 +962,7 @@ d) Comandantes de batalhão, professores chefiando missões ou comandando destac
 
 e) Comandantes das companhias de alunos e de formação - análoga à conferida pelo Regulamento de Disciplina Militar aos comandantes de companhia, bateria ou esquadrão.
 
-###### Art. 3.º O presente decreto-lei entra progressivamente em vigor, para todos os efeitos, tendo em conta o seguinte:
+Art. 3.º O presente decreto-lei entra progressivamente em vigor, para todos os efeitos, tendo em conta o seguinte:
 
 a) Quanto à admissão de alunos, a partir do ano lectivo de 1970-1971, observar-se-á:
 
@@ -945,22 +988,22 @@ a) Passam a ser abrangidos pelas disposições do presente diploma;
 
 b) São graduados, desde o dia 1 do mês seguinte ao da publicação deste diploma, nos postos referidos no artigo 61.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, com a nova redacção que lhe é dada também pelo presente diploma.
 
-###### Art. 4.º - 1. Os cursos de engenharia frequentados na Academia Militar serão adaptados à organização dos cursos civis de engenharia, logo que a respectiva reforma se efective, mediante portaria conjunta dos Ministros do Exército e da Educação Nacional.
+Art. 4.º - 1. Os cursos de engenharia frequentados na Academia Militar serão adaptados à organização dos cursos civis de engenharia, logo que a respectiva reforma se efective, mediante portaria conjunta dos Ministros do Exército e da Educação Nacional.
 
 2. Também por portaria conjunta dos referidos Ministros serão alteradas as designações de algumas das disciplinas incluídas nos primeiros anos dos cursos de engenharia frequentados na Academia Militar, se eventualmente tal acontecer nos cursos civis de engenharia.
 
-###### Art. 5.º Os encargos resultantes da execução do presente diploma são satisfeitos, até ao fim do ano económico de 1970, pelas disponibilidades das dotações inscritas no Orçamento Geral do Estado destinadas à Academia Militar.
+Art. 5.º Os encargos resultantes da execução do presente diploma são satisfeitos, até ao fim do ano económico de 1970, pelas disponibilidades das dotações inscritas no Orçamento Geral do Estado destinadas à Academia Militar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 16 de Outubro de 1970.**
+Promulgado em 16 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Do ANEXO N.º 1 ao ANEXO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/25500/16391656.pdf))](https://files.diariodarepublica.pt/1s/1970/11/25500/16391656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/25500/16391656.pdf)
 
-**O Ministro da Defesa Nacional e do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional e do Exército, Horácio José de Sá Viana Rebelo.

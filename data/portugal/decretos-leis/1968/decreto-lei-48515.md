@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/08/18400/11451146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48515-1968-273238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d43166e98ecb7337d3744c81154beb8265107ed02013b9d57833f5e24e465d87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 013e67745720dc9295245daaa218e6ad808e16424ae07863e560e94d33e6bb69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Delnato
+- Extinção de Serviços
+- Ministério dos Negócios Estrangeiros
+- Ministro da Defesa Nacional
+- Missão Militar
+- Profissão Diplomática
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:576960:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146522:por
+  label: "Alterado o art. 3.º, pelo DEC LEI.606/70.1970.12.09.PC DG.IS [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/606-1970-146522
+  date: '1970-12-09'
+- type: amended_by
+  target: pt:dre:406715:por
+  label: "Alterado o quadro de pessoal da Missão Militar NATO, fixado pelo presente diploma, pelo DEC LEI.33/74.1974.02.04.PC\
+    \ DR.IS [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1974-406715
+  date: '1974-02-04'
+- type: amended_by
+  target: pt:dre:647332:por
+  label: "Alterado o artigo 3.º do presente diploma, alterado pelos Decretos-Leis n.os 606/70, de 9 de Dezembro, e 33/74,\
+    \ de 4 de Fevereiro, pelo DEC LEI.225-B/78.1978.08.04.CR DR.IS [178]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-b-1978-647332
+  date: '1978-08-04'
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639695:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:576960:por
+  label: "Revogado pelo DEC LEI.233/81.1981.08.01.CR DR.IS [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-1981-576960
+  date: '1981-08-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:15Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +132,13 @@ Convindo que seja criada uma missão militar portuguesa a acreditar na referida 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinta a missão militar junto da Embaixada de Portugal em Washington, criada pelo artigo 3.º do [Decreto-Lei n.º 39315](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39315-1953-639695), de 14 de Agosto de 1953, mantendo-se os cargos de adidos militar, naval e aeronáutico junto da mesma Embaixada.
+Artigo 1.º É extinta a missão militar junto da Embaixada de Portugal em Washington, criada pelo artigo 3.º do [Decreto-Lei n.º 39315](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39315-1953-639695), de 14 de Agosto de 1953, mantendo-se os cargos de adidos militar, naval e aeronáutico junto da mesma Embaixada.
 
-###### Art. 2.º Nos termos do artigo 1.º do [Decreto-Lei n.º 39315](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39315-1953-639695), de 14 de Agosto de 1953, é criada junto da Delegação Portuguesa junto da Organização do Tratado do Atlântico Norte (DELNATO) uma missão militar designada por Missão Militar N. A. T. O.
+Art. 2.º Nos termos do artigo 1.º do [Decreto-Lei n.º 39315](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39315-1953-639695), de 14 de Agosto de 1953, é criada junto da Delegação Portuguesa junto da Organização do Tratado do Atlântico Norte (DELNATO) uma missão militar designada por Missão Militar N. A. T. O.
 
 § único. A referida Missão é acreditada na Comissão Militar da Organização do Tratado do Atlântico Norte (N. A. T. O.).
 
-###### Art. 3.º A Missão Militar N. A. T. O. terá a seguinte constituição:
+Art. 3.º A Missão Militar N. A. T. O. terá a seguinte constituição:
 
 Um chefe da Missão, general do Exército ou da Força Aérea, ou contra-almirante, representante permanente do Departamento da Defesa Nacional na Comissão Militar N. A. T. O.
 
@@ -114,26 +152,26 @@ Um condutor auto, praça de qualquer ramo das forças armadas.
 
 § único. O vencimento e outros abonos a atribuir ao secretário civil serão fixados por despacho dos Ministros da Defesa Nacional e das Finanças.
 
-###### Art. 4.º As nomeações do pessoal militar e civil da Missão Militar N. A. T. O. são feitas por portaria dos Ministros da Defesa Nacional e dos Negócios Estrangeiros, bem como do Ministro ou Secretário de Estado do departamento a que pertença o militar.
+Art. 4.º As nomeações do pessoal militar e civil da Missão Militar N. A. T. O. são feitas por portaria dos Ministros da Defesa Nacional e dos Negócios Estrangeiros, bem como do Ministro ou Secretário de Estado do departamento a que pertença o militar.
 
 § único. O pessoal militar que presta serviço na Missão Militar em Washington, com excepção dos adidos e respectivo pessoal de secretaria, transita para a Missão Militar N. A. T. O., sem mais formalidades.
 
-###### Art. 5.º Podem ser admitidos em regime de contrato ou de prestação de serviço, nas condições fixadas pelo Ministro da Defesa Nacional, com a concordância do Ministro das Finanças, indivíduos nacionais ou estrangeiros, reconhecidamente idóneos, no preenchimento de lugares previstos na constituição da Missão Militar N. A. T. O. para o serviço de secretaria e de pessoa) menor.
+Art. 5.º Podem ser admitidos em regime de contrato ou de prestação de serviço, nas condições fixadas pelo Ministro da Defesa Nacional, com a concordância do Ministro das Finanças, indivíduos nacionais ou estrangeiros, reconhecidamente idóneos, no preenchimento de lugares previstos na constituição da Missão Militar N. A. T. O. para o serviço de secretaria e de pessoa) menor.
 
-###### Art. 6.º A competência disciplinar do chefe da Missão Militar N. A. T. O. é a definida na coluna III ou na coluna II dos quadros a que se refere o artigo 79.º do Regulamento de Disciplina Militar, conforme se trate, respectivamente, de militar do Exército e Força Aérea ou da Armada, e no artigo 113.º do mesmo Regulamento.
+Art. 6.º A competência disciplinar do chefe da Missão Militar N. A. T. O. é a definida na coluna III ou na coluna II dos quadros a que se refere o artigo 79.º do Regulamento de Disciplina Militar, conforme se trate, respectivamente, de militar do Exército e Força Aérea ou da Armada, e no artigo 113.º do mesmo Regulamento.
 
-###### Art. 7.º O chefe da Missão Militar N. A. T. O., em todos os actos inerentes à sua função, quando estes ocorram em território estrangeiro, tem precedência sobre os oficiais generais de igual posto que estejam presentes, sem prejuízo do preceituado nos §§ 1.º e 2.º do artigo 24.º do Estatuto dos Oficiais das Forças Armadas. Em relação aos funcionários civis, é-lhe atribuída, nas mesmas condições, a categoria B dos mapas anexos ao [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885).
+Art. 7.º O chefe da Missão Militar N. A. T. O., em todos os actos inerentes à sua função, quando estes ocorram em território estrangeiro, tem precedência sobre os oficiais generais de igual posto que estejam presentes, sem prejuízo do preceituado nos §§ 1.º e 2.º do artigo 24.º do Estatuto dos Oficiais das Forças Armadas. Em relação aos funcionários civis, é-lhe atribuída, nas mesmas condições, a categoria B dos mapas anexos ao [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885).
 
-###### Art. 8.º Além dos vencimentos normais, como se estivesse em efectividade de serviço nos Ministérios do Exército e da Marinha ou na Secretaria de Estado da Aeronáutica, o pessoal da Missão Militar N. A. T. O. tem direito ao abono das ajudas de custo, subsídio para transportes e despesas de representação anualmente descritos no orçamento.
+Art. 8.º Além dos vencimentos normais, como se estivesse em efectividade de serviço nos Ministérios do Exército e da Marinha ou na Secretaria de Estado da Aeronáutica, o pessoal da Missão Militar N. A. T. O. tem direito ao abono das ajudas de custo, subsídio para transportes e despesas de representação anualmente descritos no orçamento.
 
-###### Art. 9.º São aplicáveis ao pessoal da Missão Militar N. A. T. O. as disposições que regulam no Ministério dos Negócios Estrangeiros os abonos para despesas de viagem de funcionários do serviço diplomático e de suas famílias, transporte de móveis e bagagens, bem como os abonos estabelecidos aos mesmos funcionários quando chamados em serviço a Portugal ou mandados deslocar em serviço dentro do país onde a Missão funciona ou para fora dele.
+Art. 9.º São aplicáveis ao pessoal da Missão Militar N. A. T. O. as disposições que regulam no Ministério dos Negócios Estrangeiros os abonos para despesas de viagem de funcionários do serviço diplomático e de suas famílias, transporte de móveis e bagagens, bem como os abonos estabelecidos aos mesmos funcionários quando chamados em serviço a Portugal ou mandados deslocar em serviço dentro do país onde a Missão funciona ou para fora dele.
 
-###### Art. 10.º Compete ao Ministro da Defesa Nacional regular os actos administrativos e autorizar as despesas necessárias com a extinção da missão militar em Washington e da criação da Missão Militar referidas nos artigos 1.º e 2.º e os que resultarem da transferência do pessoal e dos materiais de uma para a outra missão.
+Art. 10.º Compete ao Ministro da Defesa Nacional regular os actos administrativos e autorizar as despesas necessárias com a extinção da missão militar em Washington e da criação da Missão Militar referidas nos artigos 1.º e 2.º e os que resultarem da transferência do pessoal e dos materiais de uma para a outra missão.
 
-###### Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados pelo orçamento ordinário do Departamento da Defesa Nacional.
+Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados pelo orçamento ordinário do Departamento da Defesa Nacional.
 
-###### Art. 12.º Compete aos Ministros da Defesa Nacional e dos Negócios Estrangeiros fixar, por portaria conjunta, a data da extinção da missão militar junto da Embaixada de Portugal em Washington e a data da entrada em funcionamento da Missão Militar N. A. T. O.
+Art. 12.º Compete aos Ministros da Defesa Nacional e dos Negócios Estrangeiros fixar, por portaria conjunta, a data da extinção da missão militar junto da Embaixada de Portugal em Washington e a data da entrada em funcionamento da Missão Militar N. A. T. O.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

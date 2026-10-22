@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 303/1976, 1º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2900-(15) a 2900-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30301/00150018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f77a3ece1e8476a00e3f94e00a631ee4c0c9deb8d764a692516fe755ffdfd317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dec9637bdbb156aa612138b888da39653d3bf2fff69f6b44e7614c76a9abac58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Intervencionada
+- Empresa Privada
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139703:por
+  label: "Prorrogado por sessenta dias o prazo referido no nº 7 do art. 3º pelo DEC LEI.116/77.30.03.1977.MPCE, DR.IS [75]\
+    \ de 30.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1977-139703
+  date: '1977-03-30'
+- type: amended_by
+  target: pt:dre:286497:por
+  label: "Alterado o art. 3º pelo DEC LEI.370/77.05.09.1977.MPCE, DR.IS [205] de 05.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/370-1977-286497
+  date: '1977-09-05'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480762:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138276:por
+  label: "Rectificado e publicados os anexos I e II pela RECT.DD101.19.01.1977.PCM, DR.IS [15] de 19.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-138276
+  date: '1977-01-19'
+- type: repealed_by
+  target: pt:dre:393641:por
+  label: "Revogado o n.º 2 do artigo 2.º, o n.º 7 do artigo 3.º e o n.º 1 do artigo 7.º pelo DEC LEI.26/79.22.02.1979.MFP,\
+    \ DR.IS [45] de 22.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1979-393641
+  date: '1979-02-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:33Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +147,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O processo de cessação das intervenções do Estado nas empresas privadas, para execução do disposto no [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, compreende as seguintes fases, nos termos adiante definidos pelo presente diploma:
+Artigo 1.º O processo de cessação das intervenções do Estado nas empresas privadas, para execução do disposto no [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, compreende as seguintes fases, nos termos adiante definidos pelo presente diploma:
 
 a) Elaboração do relatório do período de intervenção;
 
@@ -114,11 +157,11 @@ c) Proposta das medidas adequadas à cessação da intervenção, acompanhadas, 
 
 d) Decisão do Governo, nos termos do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914).
 
-###### Art. 2.º - 1. A elaboração do relatório mencionado na alínea a) do artigo anterior compete às comissões administrativas ou gestores nomeados pelo Governo, e presentemente em exercício de funções nas empresas sob intervenção do Estado, devendo obedecer às regras fixadas nos artigos 5.º e seguintes.
+Art. 2.º - 1. A elaboração do relatório mencionado na alínea a) do artigo anterior compete às comissões administrativas ou gestores nomeados pelo Governo, e presentemente em exercício de funções nas empresas sob intervenção do Estado, devendo obedecer às regras fixadas nos artigos 5.º e seguintes.
 
 2. O aludido relatório será remetido pelas comissões administrativas ou gestores, impreterivelmente até 15 de Janeiro de 1977, aos Ministérios do Plano e Coordenação Económica, das Finanças e da Tutela.
 
-###### Art. 3.º - 1. A apreciação do relatório mencionado no artigo anterior ficará a cargo de comissões interministeriais nomeadas para o efeito, as quais deverão tomar em conta os objectivos fixados pelo artigo 9.º
+Art. 3.º - 1. A apreciação do relatório mencionado no artigo anterior ficará a cargo de comissões interministeriais nomeadas para o efeito, as quais deverão tomar em conta os objectivos fixados pelo artigo 9.º
 
 2. As comissões interministeriais serão nomeadas por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e da Tutela, delas fazendo parte um representante de cada um daqueles Ministérios.
 
@@ -138,11 +181,11 @@ b) Aos Ministros da Tutela e das Finanças, quando contenham medidas dessa natur
 
 c) Aos Ministros da Tutela, das Finanças e do Plano e Coordenação Económica, quando qualquer dos dois primeiros dê instruções nesse sentido.
 
-###### Art. 4.º - 1. As propostas de medidas constantes do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914) serão apresentadas ao Conselho de Ministros, consoante os casos, pelos Ministros referidos nas alíneas do n.º 7 do artigo anterior.
+Art. 4.º - 1. As propostas de medidas constantes do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914) serão apresentadas ao Conselho de Ministros, consoante os casos, pelos Ministros referidos nas alíneas do n.º 7 do artigo anterior.
 
 2. As propostas referidas no número anterior tomarão em consideração as recomendações técnicas das comissões interministeriais a que alude o n.º 6 do artigo 3.º
 
-###### Art. 5.º - 1. O relatório do período de intervenção, mencionado na alínea a) do artigo 1.º, contará obrigatoriamente, além dos demais elementos necessários ao cabal diagnóstico da situação e evolução da empresa, os seguintes dados:
+Art. 5.º - 1. O relatório do período de intervenção, mencionado na alínea a) do artigo 1.º, contará obrigatoriamente, além dos demais elementos necessários ao cabal diagnóstico da situação e evolução da empresa, os seguintes dados:
 
 a) Ficha informativa da empresa, contendo, no mínimo, os elementos discriminados no anexo I ao presente diploma;
 
@@ -158,13 +201,13 @@ f) Propostas referentes ao saneamento económico e financeiro da empresa, conten
 
 2. Os elementos financeiros e contabilísticos a incluir no mencionado relatório devem, na medida do possível, conformar-se com os conceitos e modelos constantes do «sistema básico de informação de gestão», publicado no Diário da República, 2.ª série, n.º 152, de 1 de Julho de 1976.
 
-###### Art. 6.º - 1. Os balanços referidos nas alíneas b) e c) do n.º 1 do artigo 5.º serão obtidos a partir de balanços normais de gestão, balancetes mensais e demais elementos contabilísticos, embora reportados às datas naquelas alíneas mencionadas, corrigidos em conformidade com as regras estabelecidas no anexo II ao presente diploma.
+Art. 6.º - 1. Os balanços referidos nas alíneas b) e c) do n.º 1 do artigo 5.º serão obtidos a partir de balanços normais de gestão, balancetes mensais e demais elementos contabilísticos, embora reportados às datas naquelas alíneas mencionadas, corrigidos em conformidade com as regras estabelecidas no anexo II ao presente diploma.
 
 2. Em casos devidamente justificados, e sempre que a data da intervenção se não afaste significativamente da data de elaboração do balanço normal de gestão, poderá este último ser utilizado para os efeitos do número anterior.
 
 3. As correcções a que se referem as alíneas b) e c) do n.º 1 do artigo 5.º serão registadas na escrita da empresa, mediante despacho dos Ministérios das Finanças e da Tutela, sobre parecer favorável das comissões interministeriais referidas no artigo 3.º
 
-###### Art. 7.º - 1. O plano de viabilização económica e financeira a que alude a alínea e) do n.º 1 do artigo 5.º reportar-se-á, no mínimo, a um período de cinco anos (1977-1981), devendo cobrir, no entanto, período mais dilatado, sempre que isso se torne indispensável para que todos os efeitos esperados das acções de saneamento em que aquele plano se fundamente se reflictam plenamente na exploração da empresa.
+Art. 7.º - 1. O plano de viabilização económica e financeira a que alude a alínea e) do n.º 1 do artigo 5.º reportar-se-á, no mínimo, a um período de cinco anos (1977-1981), devendo cobrir, no entanto, período mais dilatado, sempre que isso se torne indispensável para que todos os efeitos esperados das acções de saneamento em que aquele plano se fundamente se reflictam plenamente na exploração da empresa.
 
 2. O plano referido no número anterior deverá conter a avaliação das medidas de carácter económico preconizadas, tais como e conforme os casos, fusão, cisão ou associação, investimentos de expansão, de melhoria de produtividade e de eficiência, diversificação ou especialização de actividade, extinção ou reconversão de secções inviáveis, e demonstrar, de forma inequívoca, a possibilidade de a empresa ou empresas resultantes da cessação de intervenção rentabilizarem, no futuro, a respectiva exploração, remunerando adequadamente os factores produtivos que vierem a utilizar.
 
@@ -182,7 +225,7 @@ e) Havendo investimentos propostos, determinação da taxa interna de rentabilid
 
 4. Os elementos previsionais discriminados no número anterior devem ser apresentados, na medida do possível, em conformidade com os conceitos e modelos constantes do «sistema básico de informação de gestão», publicado no Diário da República, 2.ª série, n.º 152, de 1 de Julho de 1976, e deverão ter em conta a dimensão da empresa e o grau de risco implícito no seu futuro funcionamento.
 
-###### Art. 8.º - 1. Com vista à elaboração das propostas de saneamento financeiro a que faz referência a alínea f) do n.º 1 do artigo 5.º serão, prévia e extracontabilisticamente, eliminados os prejuízos eventualmente existentes em contrapartida das rubricas seguintes e pela ordem indicada: reserva de reavaliação, reservas gerais ou não específicas, reservas específicas não afectas a investimento ou a fins sociais, reservas afectas a investimento ou a fins sociais, reserva legal e capital social.
+Art. 8.º - 1. Com vista à elaboração das propostas de saneamento financeiro a que faz referência a alínea f) do n.º 1 do artigo 5.º serão, prévia e extracontabilisticamente, eliminados os prejuízos eventualmente existentes em contrapartida das rubricas seguintes e pela ordem indicada: reserva de reavaliação, reservas gerais ou não específicas, reservas específicas não afectas a investimento ou a fins sociais, reservas afectas a investimento ou a fins sociais, reserva legal e capital social.
 
 2. Em situações que permaneçam especialmente graves após a concretização das operações referidas no número anterior, a despeito da demonstrada viabilidade económica da totalidade ou parte da empresa sob intervenção, a proposta de saneamento financeiro poderá conter alternativa baseada na prévia aplicação do [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro, definindo simultaneamente os bens a adquirir pelo Estado, conforme estipulado no artigo 5.º daquele diploma, com vista à constituição da nova ou novas empresas.
 
@@ -204,7 +247,7 @@ f) Aumentos de capital em numerário.
 
 5. Sempre, porém, que o Estado venha a participar no capital da empresa deverá fazê-lo, na medida do possível, em contrapartida do reembolso de créditos anteriores a que tenha concedido o aval e, quando assuma dívidas nos termos da alínea d) do n.º 3 deste artigo, deverá, igualmente na medida do possível, assumir de preferência as já avalizadas.
 
-###### Art. 9.º - 1. A apreciação do relatório do período de intervenção, a efectuar pelas comissões interministeriais a que se refere o artigo 3.º, visará os seguintes objectivos fundamentais:
+Art. 9.º - 1. A apreciação do relatório do período de intervenção, a efectuar pelas comissões interministeriais a que se refere o artigo 3.º, visará os seguintes objectivos fundamentais:
 
 a) Avaliação dos direitos patrimoniais dos detentores do capital privado à data do início da intervenção, podendo, designadamente, ter em consideração, quando circunstâncias excepcionais o justifiquem, a reavaliação do imobilizado corpóreo da empresa, reportada a essa data;
 
@@ -230,8 +273,8 @@ d) Apreciação das propostas alternativas sobre o saneamento financeiro da empr
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 28 de Dezembro de 1976.**
+Promulgado em 28 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

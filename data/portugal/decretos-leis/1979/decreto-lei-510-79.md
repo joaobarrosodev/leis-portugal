@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 1º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3334-(31) a 3334-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29501/00310039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/510-1979-393862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d85210765dda2f09bfcd4cb6442ed0524552e503ddf3d1944b6f1a15afeb270
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aa1f4f7b550301521ef02d47a87f220cc9e44f3642d461070ebc2cf5a5c57f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Mineira e Metalúrgica do Alentejo
+- Empresa Nacionalizada
+- Empresa Pública
+- Estatuto
+- Extinção de Empresas
+- Indústria Metalúrgica
+- Indústria Mineira
+- Sociedade Mineira de Santiago
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392839:por
+  label: "Alterado pelo DEC LEI.158/82.1982.05.06.MIEE DR.IS [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1982-392839
+  date: '1982-05-06'
+- type: cites
+  target: pt:dre:314608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 52
+  article_count: 51
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:08Z'
   warnings: []
   errors: []
 ---
@@ -98,37 +124,37 @@ Considerando o disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 260/76](ht
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É instituída a empresa pública Empresa Mineira e Metalúrgica do Alentejo, E. P., abreviadamente designada por EMMA, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas do direito privado.
+Artigo 1.º - 1 - É instituída a empresa pública Empresa Mineira e Metalúrgica do Alentejo, E. P., abreviadamente designada por EMMA, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas do direito privado.
 
 2 - A EMMA é dotada de autonomia administrativa, financeira e patrimonial, sem prejuízo da tutela a exercer pelo Governo, nos termos da lei geral e dos estatutos.
 
-###### Art. 2.º - 1 - É transferida para a EMMA, na data de entrada em vigor deste diploma, a universalidade dos direitos e obrigações da empresa nacionalizada Sociedade Mineira de Santiago, S. A. R. L., a que se refere o artigo 3.º do [Decreto-Lei n.º 434/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1975-314608), de 14 de Agosto.
+Art. 2.º - 1 - É transferida para a EMMA, na data de entrada em vigor deste diploma, a universalidade dos direitos e obrigações da empresa nacionalizada Sociedade Mineira de Santiago, S. A. R. L., a que se refere o artigo 3.º do [Decreto-Lei n.º 434/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1975-314608), de 14 de Agosto.
 
 2 - A transmissão prevista no número anterior opera-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo o de registo.
 
 3 - Em caso de dúvida, servirá de título bastante para a referida transmissão a simples declaração feita pela EMMA, E. P., e confirmada pela Direcção-Geral do Património, de que os bens se incluem entre os referidos no citado [Decreto-Lei n.º 434/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1975-314608).
 
-###### Art. 3.º - 1 - Transitarão para a EMMA, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste decreto-lei estiverem ao serviço da Sociedade Mineira de Santiago.
+Art. 3.º - 1 - Transitarão para a EMMA, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste decreto-lei estiverem ao serviço da Sociedade Mineira de Santiago.
 
 2 - Os trabalhadores referidos no número anterior transitarão para a EMMA integrados no quadro de origem e com os direitos e obrigações emergentes da respectiva situação nesse quadro.
 
-###### Art. 4.º Os poderes de tutela do Governo sobre a EMMA serão exercidos pelo Ministro da Indústria.
+Art. 4.º Os poderes de tutela do Governo sobre a EMMA serão exercidos pelo Ministro da Indústria.
 
-###### Art. 5.º Enquanto não dispuser de receitas próprias, nem de valores patrimoniais que suportem o recurso ao crédito, as despesas de funcionamento da EMMA poderão ser cobertas, nomeadamente, através do aumento do capital estatutário de acordo com os orçamentos da empresa expressamente aprovados pelos respectivos Ministérios da tutela.
+Art. 5.º Enquanto não dispuser de receitas próprias, nem de valores patrimoniais que suportem o recurso ao crédito, as despesas de funcionamento da EMMA poderão ser cobertas, nomeadamente, através do aumento do capital estatutário de acordo com os orçamentos da empresa expressamente aprovados pelos respectivos Ministérios da tutela.
 
-###### Art. 6.º Considera-se extinta a partir da data da entrada em vigor deste diploma a empresa nacionalizada Sociedade Mineira de Santiago, S. A. R. L.
+Art. 6.º Considera-se extinta a partir da data da entrada em vigor deste diploma a empresa nacionalizada Sociedade Mineira de Santiago, S. A. R. L.
 
-###### Art. 7.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria ou por despacho conjunto deste e dos Ministros competentes em razão de matéria, quando a dúvida a resolver respeite a mais de um Ministério.
+Art. 7.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria ou por despacho conjunto deste e dos Ministros competentes em razão de matéria, quando a dúvida a resolver respeite a mais de um Ministério.
 
-###### Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago - Fernando Henrique Marques Videira - Manuel Duarte Pereira - Vasco Ribeiro Ferreira.
 
-**Promulgado em 13 de Dezembro de 1979.**
+Promulgado em 13 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTOS DA EMPRESA MINEIRA E METALÚRGICA DO ALENTEJO, E. P. - EMMA
 
@@ -428,7 +454,7 @@ A competência do presidente da comissão de fiscalização regula-se pelo dispo
 
 ###### Artigo 29.º — (Do Ministro da tutela)
 
-**O Ministro da tutela é o Ministro da Indústria.**
+O Ministro da tutela é o Ministro da Indústria.
 
 ###### Artigo 30.º — (Dos Ministros das Finanças e da Indústria)
 
@@ -610,4 +636,4 @@ As formas de intervenção dos trabalhadores da EMMA no desenvolvimento e contr�
 
 A Empresa fica sujeita à tributação directa e indirecta, nos termos gerais do direito fiscal.
 
-**O Ministro da Indústria, Fernando Henrique Marques Videira.**
+O Ministro da Indústria, Fernando Henrique Marques Videira.

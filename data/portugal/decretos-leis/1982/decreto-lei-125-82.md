@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09300/09750977.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a7c3815ad52912f82d76435e3f3a2e6c863f3d99e69122dbc2752e0f48226fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66a90737eb83a838cd3cb725ba49aeacff9ca29e720661c85ae1b01c44cd46a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Educação
+- Definição de Competências
+- Educação
+- Ministério da Educação e das Universidades
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:66414233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:441295:por
+  label: "Alterado o art. 9º e revogado o nº 2 do art. 2º, pelo DEC LEI.375/83.08.10.1983.ME, DR.IS [232] de 08.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1983-441295
+  date: '1983-10-08'
+- type: amended_by
+  target: pt:dre:420041:por
+  label: "Alterada a redacção do presente diploma, pela LEI.31/87.1987.07.09.AR DR.IS [155]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-1987-420041
+  date: '1987-07-09'
+- type: amended_by
+  target: pt:dre:287173:por
+  label: "Alterados os arts. 10º e 24º pelo DEC LEI.89/88.10.03.1988.ME, DR.IS [58] de 10.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1988-287173
+  date: '1988-03-10'
+- type: amended_by
+  target: pt:dre:667947:por
+  label: "Alterados os arts. 3º e 10º do presente diploma, alterado pela Lei 31/87 de 09-Jul e pelos Dec Lei 89/88 de 10-Mar\
+    \ e 423/88 de 14-Nov, e determinado que o secretário permanente do Conselho Nacional de Educação passe a designar-se secretário-geral,\
+    \ pelo DEC LEI.244/91.06.07.1991.ME, DR.IS-A [[153]] de 06.07.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1991-667947
+  date: '1991-07-06'
+- type: amended_by
+  target: pt:dre:197538:por
+  label: "Alterada a redacção dos art 1, 2, 3, 5, 7, 10, 10-a, 12, 12-a, 13, 15, 17, 18, 20, 23, 24 e 24-A, e revogados os\
+    \ art 28 e 29 (na versão dada pela, Lei 31/87, de 09-Jul e com as alterações introduzidas pelos Dec Leis 89/88, de 10-Mar,\
+    \ 423/88, de 14-Nov e 244/91,de 06-Jul), pelo Dec Lei 241/96.1996.12.17.ME, DR.IS-A [291]Republicado integralmente o regime\
+    \ que regula a composição, competências e funcionamento do Conselho Nacional de Educação, com as alterações que lhe foram\
+    \ sendo introduzidas, pelo referido Dec Lei 241/96, de 17-Dez.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1996-197538
+  date: '1996-12-17'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo\
+    \ a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro\
+    \ da Ciência e do Ensino Superior, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:491206:por
+  label: "Alterado o art. 3º do presente diploma, ratificado com alterações pela Lei 31/87 de 09-Jul, e na redacção dos Dec\
+    \ Lei 244/91 de 06-Jul e 241/96 de 17-Dez, pelo DEC LEI.214/2005.09.12.2005.ME, DR.IS-A [235] de 09.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2005-491206
+  date: '2005-12-09'
+- type: amended_by
+  target: pt:dre:603224:por
+  label: "Alterado o art. 5.º do presente diploma, na redacção da Lei 31/87 de 09-Jul, e Dec Lei 423/88 de 14-Nov e 241/96\
+    \ de 17-Dez, pela LEI.13/2009.01.04.2009.AR, DR.IS [64] de 01.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2009-603224
+  date: '2009-04-01'
+- type: repealed_by
+  target: pt:dre:66414233:por
+  label: Revogado, a partir de 04.02.2015, pelo(a) Decreto-Lei n.º 21/2015 - Diário da República n.º 23/2015, Série I de 2015-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2015-66414233
+  date: '2015-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:51Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +158,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado no Ministério da Educação e das Universidades o Conselho Nacional de Educação, órgão superior de consulta do Ministro, que terá como objectivo propor medidas que garantam a adequação permanente do sistema educativo aos interesses dos cidadãos portugueses.
+Artigo 1.º - 1 - É criado no Ministério da Educação e das Universidades o Conselho Nacional de Educação, órgão superior de consulta do Ministro, que terá como objectivo propor medidas que garantam a adequação permanente do sistema educativo aos interesses dos cidadãos portugueses.
 
 2 - O Conselho funciona no Ministério da Educação e das Universidades na dependência directa do Ministro.
 
-###### Art. 2.º - 1 - Compete ao Conselho Nacional de Educação emitir pareceres, propostas e recomendações, bem como estudos ou informações sobre todas as questões que lhe sejam solicitadas pelo Ministro, nomeadamente em relação às seguintes matérias:
+Art. 2.º - 1 - Compete ao Conselho Nacional de Educação emitir pareceres, propostas e recomendações, bem como estudos ou informações sobre todas as questões que lhe sejam solicitadas pelo Ministro, nomeadamente em relação às seguintes matérias:
 
 a) Sistema educativo;
 
@@ -130,7 +190,7 @@ m) Aplicação da pena de demissão a pessoal dirigente do Ministério.
 
 2 - O Conselho pode, por sua iniciativa, apresentar ao Ministro as propostas e sugestões que julgue pertinentes sobre matérias da sua competência.
 
-###### Art. 3.º - 1 - O Conselho Nacional de Educação terá a seguinte composição:
+Art. 3.º - 1 - O Conselho Nacional de Educação terá a seguinte composição:
 
 a) 1 presidente, em representação do Ministro;
 
@@ -172,9 +232,9 @@ p) 1 secretário, sem voto.
 
 6 - O representante das associações de estudantes será designado, por indicação daquelas associações, por um período de 3 anos e enquanto durar a sua qualidade de estudante.
 
-###### Art. 4.º O Conselho deve elaborar o seu próprio regimento que será aprovado pelo Ministro da Educação e das Universidades.
+Art. 4.º O Conselho deve elaborar o seu próprio regimento que será aprovado pelo Ministro da Educação e das Universidades.
 
-###### Art. 5.º - 1 - O Conselho terá uma comissão permanente composta pelo presidente, vice-presidente e por 3 vogais nomeados pelo Ministro de entre os respectivos membros.
+Art. 5.º - 1 - O Conselho terá uma comissão permanente composta pelo presidente, vice-presidente e por 3 vogais nomeados pelo Ministro de entre os respectivos membros.
 
 2 - Os membros da comissão permanente desempenharão as suas funções em regime de comissão de serviço, destacamento ou requisição.
 
@@ -184,31 +244,31 @@ p) 1 secretário, sem voto.
 
 5 - O presidente terá precedência, no Ministério, em relação aos demais funcionários.
 
-###### Art. 6.º - 1 - Aos membros dos Conselho Nacional de Educação que, em serviço dele, se ausentarem do lugar da sua residência serão abonadas despesas de transportes, bem como ajudas de custo de acordo com a lei geral.
+Art. 6.º - 1 - Aos membros dos Conselho Nacional de Educação que, em serviço dele, se ausentarem do lugar da sua residência serão abonadas despesas de transportes, bem como ajudas de custo de acordo com a lei geral.
 
 2 - Os membros do Conselho Nacional de Educação que sejam professores poderão ser dispensados por despacho do Ministro da Educação e das Universidades de todo ou parte do seu serviço docente.
 
-###### Art. 7.º - 1 - O Conselho Nacional de Educação disporá de uma assessoria técnica e administrativa que funcionará na dependência da comissão permanente.
+Art. 7.º - 1 - O Conselho Nacional de Educação disporá de uma assessoria técnica e administrativa que funcionará na dependência da comissão permanente.
 
 2 - O pessoal necessário ao funcionamento da assessoria será designado por despacho do Ministro da Educação e das Universidades, sob proposta do presidente do Conselho Nacional de Educação, de entre o pessoal do quadro único dos órgãos e serviços centrais do Ministério.
 
 3 - A secretaria-geral do Ministério assegurará os serviços de expediente, contabilidade e arquivo do Conselho.
 
-###### Art. 8.º O Conselho Nacional de Educação funcionará em plenário ou em comissões restritas.
+Art. 8.º O Conselho Nacional de Educação funcionará em plenário ou em comissões restritas.
 
-###### Art. 9.º - 1 - O plenário do Conselho reunirá em sessões ordinárias ou extraordinárias.
+Art. 9.º - 1 - O plenário do Conselho reunirá em sessões ordinárias ou extraordinárias.
 
 2 - As sessões ordinárias realizar-se-ão mensalmente, em dia, hora e local a fixar pelo presidente.
 
 3 - As sessões extraordinárias realizar-se-ão por determinação do Ministro, por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos membros do Conselho.
 
-###### Art. 10.º - 1 - As sessões plenárias funcionarão desde que estejam presentes a maioria dos seus membros, entre os quais o presidente ou vice-presidente.
+Art. 10.º - 1 - As sessões plenárias funcionarão desde que estejam presentes a maioria dos seus membros, entre os quais o presidente ou vice-presidente.
 
 2 - As deliberações serão tomadas pela maioria dos votos presentes, tendo o presidente voto de qualidade.
 
 3 - O vice-presidente substituirá o presidente nos seus impedimentos ou ausência.
 
-###### Art. 11.º - 1 - As comissões restritas serão organizadas a título permanente ou eventual e constituídas pelos membros da comissão permanente e pelos membros do Conselho, a designar pelo respectivo presidente.
+Art. 11.º - 1 - As comissões restritas serão organizadas a título permanente ou eventual e constituídas pelos membros da comissão permanente e pelos membros do Conselho, a designar pelo respectivo presidente.
 
 2 - Às comissões podem ser agregadas, por determinação do Ministro, temporariamente, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito a voto nesses assuntos.
 
@@ -226,7 +286,7 @@ e) Dirigir a assessoria administrativa e técnica;
 
 f) Solicitar à secretaria-geral do Ministério o apoio referido no n.º 3 do artigo 7.º
 
-###### Art. 13.º Compete à comissão permanente:
+Art. 13.º Compete à comissão permanente:
 
 a) Coadjuvar o presidente do Conselho Nacional de Educação no exercício das suas funções;
 
@@ -234,24 +294,24 @@ b) Constituir e apoiar as comissões previstas nos artigos 8.º e 11.º deste di
 
 c) Distribuir os processos, pareceres, estudos e demais trabalhos.
 
-###### Art. 14.º O Conselho poderá solicitar a qualquer direcção-geral ou outros órgãos do Ministério os elementos que julgue indispensáveis para a realização das suas tarefas.
+Art. 14.º O Conselho poderá solicitar a qualquer direcção-geral ou outros órgãos do Ministério os elementos que julgue indispensáveis para a realização das suas tarefas.
 
-###### Art. 15.º - 1 - Os processos serão distribuídos pela comissão permanente a um relator que será coadjuvado pelos elementos da respectiva comissão.
+Art. 15.º - 1 - Os processos serão distribuídos pela comissão permanente a um relator que será coadjuvado pelos elementos da respectiva comissão.
 
 2 - O relator deverá elaborar o projecto de parecer no prazo de 30 dias.
 
 3 - O parecer final deverá ser submetido à aprovação do plenário do Conselho.
 
-###### Art. 16.º Será equiparado, para todos os efeitos, ao efectivo exercício da função própria o serviço prestado ao Conselho pelos seus membros.
+Art. 16.º Será equiparado, para todos os efeitos, ao efectivo exercício da função própria o serviço prestado ao Conselho pelos seus membros.
 
-###### Art. 17.º Os encargos resultantes da execução deste diploma serão, no ano corrente, satisfeitos por força das dotações comuns para o Ministério da Educação e das Universidades.
+Art. 17.º Os encargos resultantes da execução deste diploma serão, no ano corrente, satisfeitos por força das dotações comuns para o Ministério da Educação e das Universidades.
 
-###### Art. 18.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e das Universidades, do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, quando for caso disso.
+Art. 18.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e das Universidades, do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, quando for caso disso.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1982. - Diogo Pinto de Freitas do Amaral
 
-**Promulgado em 14 de Abril de 1982.**
+Promulgado em 14 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

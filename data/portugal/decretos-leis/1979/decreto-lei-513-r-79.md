@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3350-(55) a 3350-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29603/00550057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-r-1979-430023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46649e97dd7955427c1767d43c20450d2ce9ebc0dffa58efc5f7aaaebbe90fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a1319f515ac95b6983975f7fa8c070c9799c7edb06593205fb12bd6d2730af4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Gabinete de Informação e Relações Públicas
+- Ministério das Finanças
+- Quadro de Pessoal
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:278707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:42Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +123,7 @@ Considerando que dessa operacionalidade depende, em grande parte, a realização
 
 O Governo decreta, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Quadro do pessoal)
 
@@ -108,19 +131,19 @@ O Governo decreta, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76
 
 2 - O quadro de pessoal a que se refere o número anterior substitui o quadro constante do [Decreto Regulamentar n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707), de 29 de Setembro, por remissão do [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho (n.º 4 do artigo 2.º).
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Pessoal dirigente e técnico superior)
 
 O pessoal dirigente e o técnico superior são providos nos termos da lei geral.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Tradutor-correspondente-intérprete)
 
 O lugar de tradutor-correspondente-intérprete é provido, mediante concursos de provas de conhecimento, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e com o domínio escrito e falado de, pelo menos, francês, inglês e alemão.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Assistente de relações públicas)
 
@@ -128,7 +151,7 @@ O lugar de tradutor-correspondente-intérprete é provido, mediante concursos de
 
 2 - Os lugares de assistente de relações públicas de 2.ª classe são providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e formação profissional adequada.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Pessoal técnico auxiliar)
 
@@ -136,13 +159,13 @@ O lugar de tradutor-correspondente-intérprete é provido, mediante concursos de
 
 2 - Os lugares de técnico auxiliar de 2.ª classe são providos por concurso documental de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e com o domínio escrito e falado de inglês e francês.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Pessoal auxiliar)
 
 Os lugares de contínuo e motorista são providos nos termos da lei geral.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Primeiro provimento)
 
@@ -162,14 +185,14 @@ c) Para categoria correspondente às funções que o funcionário ou agente actu
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — (Quadro de pessoal a que se refere o artigo 1.º, n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29603/00550057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29603/00550057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29603/00550057.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

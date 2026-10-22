@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1985-180387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0785302586bcdca55f1f00263c157c51fc6b88f4770fea0a8006a723b5700eac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68ee89bb54b6c19c27eb61e4745230e92b576bf1fb3535fb2e30fe47b3c0e6fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- GATT
+- Pauta Aduaneira
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:14Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +95,15 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Assinado em 21 de Junho de 1985.**
+Assinado em 21 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Junho de 1985.**
+Referendado em 24 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ACCORD RELATIF À LA MISE EN OEUVRE DE L'ARTICLE VII DE L'ACCORD GÉNÉRAL SUR LES TARIFS DOUANIERS ET LE COMMERCE.
 
@@ -637,7 +641,7 @@ Note relative à l'article 5
 
 2 - Par exemple: des marchandises sont vendues sur la base d'un prix courant comportant des prix unitaires favorables pour les achats en relativement grandes quantités.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18500/25582592.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18500/25582592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18500/25582592.pdf)
 
 Le plus grand nombre d'unités vendues a un prix donné est de 80; en conséquence, le prix unitaire correspondant aux ventes totalisant la quantité la plus élevée est de 90.
 
@@ -957,7 +961,7 @@ Reconhecendo que os processos de determinação do valor não devem ser utilizad
 
 acordam no seguinte:
 
-# PARTE I — Regras de determinação do valor aduaneiro
+## PARTE I — Regras de determinação do valor aduaneiro
 
 ###### ARTIGO 1.º
 
@@ -1195,7 +1199,7 @@ A pedido apresentado por escrito, o importador terá e direito de receber, remit
 
 Nenhuma disposição do presente Acordo será interpretada como restringindo ou contestando os direitos de uma administração aduaneira se assegurar da veracidade ou da exactidão de qualquer afirmação, documento ou declaração apresentados para fins da determinação do valor aduaneiro.
 
-# PARTE II — Administração do Acordo, consultas e regulação dos diferendos
+## PARTE II — Administração do Acordo, consultas e regulação dos diferendos
 
 Instituições
 
@@ -1257,7 +1261,7 @@ ii) Fazer recomendações a uma ou várias Partes ou estatuir de qualquer outra 
 
 11 - Se surge um diferendo entre as Partes relativo a direitos e obrigações resultantes do presente Acordo, as Partes deverão esgotar os procedimentos de regulação dos diferendos previstos no Acordo antes de fazer valer os direitos que possam ter no Acordo Geral, e em particular o direito de invocar o artigo XXIII do referido Acordo Geral.
 
-# PARTE III — Tratamento especial e diferenciado
+## PARTE III — Tratamento especial e diferenciado
 
 ###### ARTIGO 21.º
 
@@ -1267,7 +1271,7 @@ ii) Fazer recomendações a uma ou várias Partes ou estatuir de qualquer outra 
 
 3 - Os países desenvolvidos Partes no presente Acordo fornecerão, em condições combinadas de comum acordo, assistência técnica aos países em vias de desenvolvimento, Partes no Acordo, que fizerem o pedido. Nesta base, os países desenvolvidos Partes no Acordo estabelecerão programas de assistência, técnica, que poderão incluir, entre outros, a formação de pessoal, assistência para o estabelecimento de medidas de aplicação, acesso às fontes de informação, respeitantes à metodologia em matéria de determinação do valor aduaneiro, e conselhos a respeito da aplicação das disposições do presente Acordo.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 Aceitação e adesão
 
@@ -1463,7 +1467,7 @@ Nota relativa ao artigo 5.º
 
 2 - Por exemplo: são vendidas mercadorias na base de uma lista de preços que estabelece preços unitários favoráveis para as compras em quantidades relativamente grandes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18500/25582592.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18500/25582592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18500/25582592.pdf)
 
 O maior número de unidades vendidas a um dado preço é de 80; por consequência, o preço unitário correspondente às vendas totalizando a quantidade mais elevada é de 90.
 

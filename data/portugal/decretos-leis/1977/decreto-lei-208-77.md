@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1977-252835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1320a18f74362839e02a9c3742237d1bb9da387347967f68a19b25db76427f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb214d504fb9a5ab6730afbfd8d4928de971dc03aabf3fc0a6f00c1362bcdf42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentação
+- Cálculo de Pensões
+- Funcionário Público
+- Militar
+- Montepio dos Servidores do Estado
+- Pessoal Civil
+- Reintegração de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:08Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +122,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 476/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1976-431027), de 16 de Junho, passa a vigorar com a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto-Lei n.º 476/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1976-431027), de 16 de Junho, passa a vigorar com a seguinte redacção:
 
-###### Art. 4.º - 1. Relativamente ao Montepio dos Servidores do Estado, os direitos decorrentes da reintegração a título póstumo dos servidores referidos no artigo 1.º são os resultantes da aplicação do regime estabelecido pelo Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, independentemente da data do falecimento do servidor reintegrado e ainda que, segundo o sistema legal vigente nessa data, a constituição da pensão de sobrevivência fosse de carácter facultativo ou não fosse possível.
+Art. 4.º - 1. Relativamente ao Montepio dos Servidores do Estado, os direitos decorrentes da reintegração a título póstumo dos servidores referidos no artigo 1.º são os resultantes da aplicação do regime estabelecido pelo Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, independentemente da data do falecimento do servidor reintegrado e ainda que, segundo o sistema legal vigente nessa data, a constituição da pensão de sobrevivência fosse de carácter facultativo ou não fosse possível.
 
 2. Os herdeiros hábeis dos servidores a que se refere o número anterior poderão requerer a inscrição, retroacção ou contagem de tempo e a correspondente pensão de sobrevivência no prazo de dezoito meses a contar do início da vigência do presente diploma, ou da data da reintegração, quando esta venha a verificar-se depois da entrada em vigor deste decreto-lei.
 
@@ -115,8 +138,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 3 de Maio de 1977.**
+Promulgado em 3 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11000/11211121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1981-573758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6ce35c57a36c86c30b15255d0c4da73ab9aab60ae1efa0268b587c97414bb89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84ea55bbbe09f7f81fc4f1dd06b1c5616feffffd03d861d491c4f81631d05d54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,25 @@ relationships:
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:02Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +106,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 6.º da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, o Ministro das Finanças e do Plano é autorizado a celebrar, em nome e representação do Estado Português, um contrato de empréstimo com um consórcio bancário internacional no montante de 500 milhões de dólares dos Estados Unidos da América.
+Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 6.º da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, o Ministro das Finanças e do Plano é autorizado a celebrar, em nome e representação do Estado Português, um contrato de empréstimo com um consórcio bancário internacional no montante de 500 milhões de dólares dos Estados Unidos da América.
 
-###### Art. 2.º As condições essenciais do empréstimo referido no artigo anterior são as constantes da ficha técnica publicada em anexo.
+Art. 2.º As condições essenciais do empréstimo referido no artigo anterior são as constantes da ficha técnica publicada em anexo.
 
-###### Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
+Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Maio de 1981.**
+Promulgado em 6 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Ficha técnica
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/25000/36303632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1980-462272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65bc10792d3a3d4be8c17d94fd4421ca9dd63a3bdedd51dce4127f167d3af5a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6831079893a71c02d5f6962841e060ecf043659cfbd7193f66a106ea5578e15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Combustível
 relationships:
 - type: amended_by
   target: pt:dre:400399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:195783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:400399:por
+  label: "Revogado pelo Dec Lei 125/97.1997.05.23.MECO, DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1997-400399
+  date: '1997-05-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:59Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +117,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Consideram-se combustíveis gasosos, no âmbito do presente decreto-lei, os gases combustíveis obtidos a partir da refinação do petróleo bruto, do tratamento de hidrocarbonetos naturais, dos efluentes da petroquímica, do tratamento dos carvões e de biomassa.
+Artigo 1.º - 1 - Consideram-se combustíveis gasosos, no âmbito do presente decreto-lei, os gases combustíveis obtidos a partir da refinação do petróleo bruto, do tratamento de hidrocarbonetos naturais, dos efluentes da petroquímica, do tratamento dos carvões e de biomassa.
 
 2 - Os materiais e demais equipamentos a utilizar na montagem, ampliação ou modificação das redes ou ramais de distribuição de combustíveis gasosos devem obedecer às normas portuguesas ou, não as havendo, às normas estrangeiras ou recomendações internacionais que forem aceites pela entidade competente em matéria de normalização.
 
 3 - A aprovação dos materiais e demais equipamentos referidos no número anterior será comprovada mediante certificado passado pela entidade oficial competente para a conceder.
 
-###### Art. 2.º - 1 - A montagem e a entrada em funcionamento das redes ou ramais de distribuição de combustíveis gasosos ligados a instalações de armazenagem licenciadas nos termos da legislação aplicável, nomeadamente nos termos da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, e do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, ficam sujeitas a autorização da Direcção-Geral de Energia.
+Art. 2.º - 1 - A montagem e a entrada em funcionamento das redes ou ramais de distribuição de combustíveis gasosos ligados a instalações de armazenagem licenciadas nos termos da legislação aplicável, nomeadamente nos termos da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, e do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, ficam sujeitas a autorização da Direcção-Geral de Energia.
 
 2 - O pedido de autorização de montagem a que se refere o número anterior deverá mencionar:
 
@@ -128,9 +147,9 @@ c) Memória descritiva, com indicação dos materiais a utilizar, a pressão do 
 
 7 - Os pedidos referidos no número anterior considerar-se-ão deferidos se nada for comunicado aos requerentes no prazo de sessenta dias a contar da data de apresentação nos serviços da Direcção-Geral de Energia.
 
-###### Art. 3.º O projectista a quem compete projectar e calcular a rede de gás, em conformidade com a legislação vigente, deverá ser um diplomado por uma escola superior de engenharia e reconhecido pela entidade oficial competente.
+Art. 3.º O projectista a quem compete projectar e calcular a rede de gás, em conformidade com a legislação vigente, deverá ser um diplomado por uma escola superior de engenharia e reconhecido pela entidade oficial competente.
 
-###### Art. 4.º - 1 - A Direcção-Geral de Energia poderá delegar em organismos de contrôle devidamente reconhecidos a sua competência para:
+Art. 4.º - 1 - A Direcção-Geral de Energia poderá delegar em organismos de contrôle devidamente reconhecidos a sua competência para:
 
 a) Emissão de licenças de técnico de gás;
 
@@ -180,7 +199,7 @@ h) Se a rede satisfizer os requisitos anteriores, a empresa abastecedora de gás
 
 i) As redes em relação às quais não foi emitido o respectivo termo de responsabilidade sujeitam os seus executantes às penalidades previstas no artigo 6.º
 
-###### Art. 5.º - 1 - Os organismos de contrôle só poderão ser reconhecidos para efeito da delegação prevista no n.º 1 do artigo 4.º se forem pessoas de nacionalidade portuguesa, consideradas competentes, podendo, no entanto, complementar as suas possibilidades apoiando-se em laboratórios, que indicarão.
+Art. 5.º - 1 - Os organismos de contrôle só poderão ser reconhecidos para efeito da delegação prevista no n.º 1 do artigo 4.º se forem pessoas de nacionalidade portuguesa, consideradas competentes, podendo, no entanto, complementar as suas possibilidades apoiando-se em laboratórios, que indicarão.
 
 2 - O pedido de reconhecimento, dirigido à entidade oficial competente, será instruído com os documentos necessários à verificação dos requisitos indicados no artigo anterior e acompanhado de declaração de que o requerente dará seguimento a todos os pedidos de homologação de materiais, equipamentos e emissão de certificados e credenciais que lhe forem apresentados nos termos regulamentares.
 
@@ -190,16 +209,16 @@ i) As redes em relação às quais não foi emitido o respectivo termo de respon
 
 5 - O reconhecimento será retirado sempre que deixem de se verificar as condições necessárias à sua concessão ou não seja feita a renovação das provas exigidas pelo número anterior, o que implicará, em qualquer dos casos, a caducidade da delegação prevista no n.º 1 do artigo 4.º
 
-###### Art. 6.º As infracções ao disposto nos n.os 1 e 6 do artigo 2.º, bem como o abastecimento de redes ou ramais de distribuição de combustíveis gasosos não autorizados nos termos do presente diploma, serão apreciadas nos termos dos artigos 51.º e seguintes do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e punidas com a multa prevista no artigo 49.º do referido decreto, com a actualização introduzida pelo n.º 1 do artigo 7.º do [Decreto-Lei n.º 687/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/687-1973-195783), de 21 de Dezembro.
+Art. 6.º As infracções ao disposto nos n.os 1 e 6 do artigo 2.º, bem como o abastecimento de redes ou ramais de distribuição de combustíveis gasosos não autorizados nos termos do presente diploma, serão apreciadas nos termos dos artigos 51.º e seguintes do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e punidas com a multa prevista no artigo 49.º do referido decreto, com a actualização introduzida pelo n.º 1 do artigo 7.º do [Decreto-Lei n.º 687/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/687-1973-195783), de 21 de Dezembro.
 
-###### Art. 7.º Este decreto entra em vigor sessenta dias após a data da sua publicação.
+Art. 7.º Este decreto entra em vigor sessenta dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 10 de Outubro de 1980.**
+Promulgado em 10 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/25000/36303632.pdf))](https://files.diariodarepublica.pt/1s/1980/10/25000/36303632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/25000/36303632.pdf)

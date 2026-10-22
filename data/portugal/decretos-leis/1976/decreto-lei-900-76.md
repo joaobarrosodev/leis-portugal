@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/900-1976-416453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 242acbc9adf4d1931929c301fe156982dcedcb226a6a33c4653ee554d6b8ace6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5aad4f2b0c0f9ccf410d74f4690831c26b55e90b08aa42c48b2d04a34c41556
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Barragem da Régua
+- Classificação de Estradas
+- Rede de Estradas
+relationships:
+- type: cites
+  target: pt:dre:241850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:30Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +99,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1. É incluída na rede nacional classificada nos termos do artigo 8.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945 (Plano Rodoviário), a estrada de acesso à barragem da Régua.
+Artigo único. - 1. É incluída na rede nacional classificada nos termos do artigo 8.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945 (Plano Rodoviário), a estrada de acesso à barragem da Régua.
 
 2. Em face do disposto no número anterior, proceder-se-á a novo ajustamento à classificação das estradas nacionais existentes na região, de acordo com o mapa anexo a este diploma, aprovado pelo Ministro das Obras Públicas, nos termos do artigo 48.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - João Orlindo de Almeida Pina.
 
-**Promulgado em 14 de Dezembro de 1976.**
+Promulgado em 14 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo ao Decreto-Lei n.º 899/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30200/28922892.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30200/28922892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30200/28922892.pdf)
 
-**O Ministro das Obras Públicas, João Orlindo de Almeida Pina.**
+O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

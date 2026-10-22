@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04200/03840386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1978-446536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09a0b037fd66d68faf21d4fbf2ca071a0c05ae41a1118f1d6060ae6babce5f56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9627a2550d9edd581fdeb86ae27cab39a5b02993af0fc9202cb6c028b9ae7866
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Polícia Judiciária
+- Orgânica
+- Polícia Judiciária
 relationships:
 - type: amended_by
   target: pt:dre:455412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383201:por
+  label: "Mantida em vigor, durante os anos de 1979 e 1980, a providência contida no artigo 18.º do presente diploma, pelo\
+    \ DEC LEI.128/79.12.05.1979.MFP, DR.IS [109] de 12.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1979-383201
+  date: '1979-05-12'
+- type: amended_by
+  target: pt:dre:472486:por
+  label: "Alterados os arts. 1.º, 3.º, 4.º, 5.º, 6.º, 16.º, 17.º, 18.º e 19.º, e revogados os n.ºs. 12.º e 13.º, pelo DEC\
+    \ LEI.235/80.1980.07.18.MJ DR.IS [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1980-472486
+  date: '1980-07-18'
+- type: amended_by
+  target: pt:dre:287169:por
+  label: "Alterados os arts. 14º e 15º pelo DEC LEI.88/88.10.03.1988.MJ, DR.IS [58] de 10.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-1988-287169
+  date: '1988-03-10'
+- type: cites
+  target: pt:dre:140297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455412:por
+  label: "Revogado, a partir de 05.09.2008 e nos termos da al. b) do art. 58º, pela LEI.37/2008.06.08.2008.AR, DR.IS [151]\
+    \ de 06.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2008-455412
+  date: '2008-08-06'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:54Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +130,15 @@ O projecto, não abandonado, de uma mais ambiciosa escola de formação de pesso
 
 Pelo exposto, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, na dependência da Directoria-Geral da Polícia Judiciária, a Escola de Polícia Judiciária (EPJ).
+Artigo 1.º É criada, na dependência da Directoria-Geral da Polícia Judiciária, a Escola de Polícia Judiciária (EPJ).
 
-###### Artigo 2.º - 1 - À Escola de Polícia Judiciária compete, em colaboração com a Divisão de Organização e Informática, programar e executar acções de selecção, formação e aperfeiçoamento do pessoal da Polícia Judiciária.
+Artigo 2.º - 1 - À Escola de Polícia Judiciária compete, em colaboração com a Divisão de Organização e Informática, programar e executar acções de selecção, formação e aperfeiçoamento do pessoal da Polícia Judiciária.
 
 2 - Complementarmente, a Escola de Polícia Judiciária pode ser utilizada para a formação de pessoal dos organismos a que se refere o n.º 2 do artigo 7.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, e para ministração de conhecimentos especializados no domínio da investigação criminal e magistrados do Ministério Público.
 
 3 - À Escola pode ainda ser cometida a formação de pessoal de organismos policiais dos novos países de expressão portuguesa, nos termos que forem definidos em acordos de cooperação técnica.
 
-###### Art. 3.º - 1 - Compete, em especial, à Escola de Polícia Judiciária:
+Art. 3.º - 1 - Compete, em especial, à Escola de Polícia Judiciária:
 
 a) Preparar e ministrar os cursos de formação referidos no [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro;
 
@@ -126,7 +160,7 @@ i) Organizar e administrar a biblioteca e o museu.
 
 2 - As acções de formação mencionadas no número anterior podem ser abertas ao pessoal dos organismos e aos magistrados referidos no n.º 2 do artigo 2.º, para o que se dará conhecimento prévio da sua realização e programa às entidades interessadas.
 
-###### Art. 4.º São órgãos da Escola de Polícia Judiciária:
+Art. 4.º São órgãos da Escola de Polícia Judiciária:
 
 a) O director;
 
@@ -138,11 +172,11 @@ d) A biblioteca;
 
 e) O museu.
 
-###### Art. 5.º - 1 - O director da Escola de Polícia Judiciária tem categoria equivalente à de director-adjunto da Polícia Judiciária e é nomeado pelo Ministro da Justiça, sob proposta do director-geral da Polícia Judiciária, em comissão de serviço por tempo indeterminado, de entre licenciados com reconhecida competência, podendo ser magistrado judicial ou do Ministério Público.
+Art. 5.º - 1 - O director da Escola de Polícia Judiciária tem categoria equivalente à de director-adjunto da Polícia Judiciária e é nomeado pelo Ministro da Justiça, sob proposta do director-geral da Polícia Judiciária, em comissão de serviço por tempo indeterminado, de entre licenciados com reconhecida competência, podendo ser magistrado judicial ou do Ministério Público.
 
 2 - Considera-se acrescido o quadro único do pessoal da Polícia Judiciária, anexo ao [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, de um lugar de director da Escola de Polícia Judiciária.
 
-###### Art. 6.º - 1 - Compete ao director:
+Art. 6.º - 1 - Compete ao director:
 
 a) Representar a Escola de Polícia Judiciária;
 
@@ -158,9 +192,9 @@ f) Prestar ao director-geral da Polícia Judiciária todas as informações por 
 
 2 - O director pode ser convocado pelo Conselho Superior de Polícia para prestar informações sobre o funcionamento da Escola e participa, com direito de voto, em todas as reuniões em que se trate de matérias a ela respeitantes.
 
-###### Art. 7.º O director é assistido e substituído por um subdirector, nomeado, sob proposta sua, pelo director-geral da Polícia Judiciária, em comissão de serviço por tempo indeterminado, de entre funcionários de investigação criminal da Polícia Judiciária de categoria não inferior a subinspector.
+Art. 7.º O director é assistido e substituído por um subdirector, nomeado, sob proposta sua, pelo director-geral da Polícia Judiciária, em comissão de serviço por tempo indeterminado, de entre funcionários de investigação criminal da Polícia Judiciária de categoria não inferior a subinspector.
 
-###### Art. 8.º - 1 - Constituem o conselho pedagógico:
+Art. 8.º - 1 - Constituem o conselho pedagógico:
 
 a) O director da Escola de Polícia Judiciária, que preside;
 
@@ -174,7 +208,7 @@ d) Dois elementos do corpo docente da Escola, designados pelo director-geral da 
 
 3 - Nas reuniões do conselho pedagógico que não tenham por objecto apreciar o aproveitamento dos discentes participa, sem direito de voto, um elemento eleito de entre estes por cada curso que esteja a realizar-se.
 
-###### Art. 9.º Compete ao conselho pedagógico:
+Art. 9.º Compete ao conselho pedagógico:
 
 a) Coadjuvar o director da Escola na preparação e elaboração do plano anual de actividades;
 
@@ -182,48 +216,48 @@ b) Emitir parecer sobre questões respeitantes ao regime de formação e contrô
 
 c) Apreciar e classificar o aproveitamento dos discentes da Escola.
 
-###### Art. 10.º - 1 - O conselho pedagógico reúne quando convocado pelo presidente ou pelo director-geral da Polícia Judiciária.
+Art. 10.º - 1 - O conselho pedagógico reúne quando convocado pelo presidente ou pelo director-geral da Polícia Judiciária.
 
 2 - Para a validade das deliberações exige-se a presença de, pelo menos, três membros com direito de voto.
 
 3 - As deliberações são tomadas à pluralidade de votos, cabendo a quem presidir voto de qualidade.
 
-###### Art. 11.º - 1 - Os serviços administrativos são o órgão de apoio técnico-administrativo da Escola de Polícia Judiciária.
+Art. 11.º - 1 - Os serviços administrativos são o órgão de apoio técnico-administrativo da Escola de Polícia Judiciária.
 
 2 - Os serviços administrativos são chefiados por funcionário de categoria não inferior à de chefe de secção ou equivalente.
 
-###### Art. 12.º - 1 - À biblioteca compete a conservação, catalogação, exploração e difusão do fundo documental da Escola e das publicações por esta produzidas, sendo apoiada tecnicamente pelo Centro de Documentação da Polícia Judiciária.
+Art. 12.º - 1 - À biblioteca compete a conservação, catalogação, exploração e difusão do fundo documental da Escola e das publicações por esta produzidas, sendo apoiada tecnicamente pelo Centro de Documentação da Polícia Judiciária.
 
 2 - A biblioteca é dirigida por um adjunto técnico de 1.ª ou 2.ª classes.
 
-###### Art. 13.º - 1 - Ao museu compete a recolha, catalogação, guarda e exposição dos objectos de interesse criminalístico e didáctico existentes na Polícia Judiciária e dos que venham a ser declarados perdidos a favor do Estado, nos termos do artigo 139.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, se não se tornarem necessários ao Laboratório de Polícia Científica.
+Art. 13.º - 1 - Ao museu compete a recolha, catalogação, guarda e exposição dos objectos de interesse criminalístico e didáctico existentes na Polícia Judiciária e dos que venham a ser declarados perdidos a favor do Estado, nos termos do artigo 139.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, se não se tornarem necessários ao Laboratório de Polícia Científica.
 
 2 - O museu é dirigido por um adjunto técnico de 1.ª ou 2.ª classes.
 
-###### Art. 14.º - 1 - O corpo docente da Escola de Polícia Judiciária é constituído por professores e monitores com preparação adequada, recrutados de entre funcionários da Polícia Judiciária ou especialistas de reconhecida competência.
+Art. 14.º - 1 - O corpo docente da Escola de Polícia Judiciária é constituído por professores e monitores com preparação adequada, recrutados de entre funcionários da Polícia Judiciária ou especialistas de reconhecida competência.
 
 2 - Compete ao Ministro da Justiça a nomeação dos docentes, sob proposta do director da Escola, homologada pelo director-geral da Polícia Judiciária.
 
 3 - O director da Escola pode convidar personalidades para proferirem conferências, dirigirem colóquios ou participarem noutras actividades formativas de carácter avulso.
 
-###### Art. 15.º - 1 - Os docentes funcionários ou agentes do Estado exercem a docência em comissão de serviço, por períodos renováveis de um ano, ou em regime de acumulação.
+Art. 15.º - 1 - Os docentes funcionários ou agentes do Estado exercem a docência em comissão de serviço, por períodos renováveis de um ano, ou em regime de acumulação.
 
 2 - Os restantes docentes são providos por contrato.
 
-###### Art. 16.º - 1 - Os Ministros da Justiça e das Finanças fixarão, por despacho, o montante da gratificação mensal a atribuir aos docentes que prestem serviço em regime de acumulação.
+Art. 16.º - 1 - Os Ministros da Justiça e das Finanças fixarão, por despacho, o montante da gratificação mensal a atribuir aos docentes que prestem serviço em regime de acumulação.
 
 2 - Em caso de provimento em tempo integral, os docentes funcionários ou agentes do Estado percebem a remuneração dos cargos de origem, a suportar pelo orçamento da Polícia Judiciária, por força de verbas especialmente inscritas para vencimentos e salários.
 
-###### Art. 17.º O director da Escola de Polícia Judiciária deve ser nomeado no prazo de sessenta dias, contados da data da entrada em vigor deste diploma.
+Art. 17.º O director da Escola de Polícia Judiciária deve ser nomeado no prazo de sessenta dias, contados da data da entrada em vigor deste diploma.
 
-###### Art. 18.º As despesas com a montagem e funcionamento da Escola de Polícia Judiciária serão suportadas até ao final do ano de 1978 pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 18.º As despesas com a montagem e funcionamento da Escola de Polícia Judiciária serão suportadas até ao final do ano de 1978 pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos - Henque Medina Carreira.
 
-**Promulgado em 1 de Fevereiro de 1978.**
+Promulgado em 1 de Fevereiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

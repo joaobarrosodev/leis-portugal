@@ -48,40 +48,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44510-1962-163425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ace14f94259fa8641e1d2f4a481925574a98c24161bd76f7ff4f8845c6840ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38bfcc4746ae24901a94129f45ea4c6ceaa62032333c95dbc763199a0b79eb06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água Mineral
+- Aguardente
+- Bebida Alcoólica
+- Bebida não Alcoólica
+- Contribuições e Impostos
+- Controlo de Qualidade
+- Embalagem
+- Fabrico Industrial
+- Ilhas Adjacentes
+- Metrópole
+- Produto Alimentar
+- Produto Vitivinícola
+- Refrigerante
+- Taxa
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:474922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474922:por
+  label: "Determinada a abolição, a partir de 01.08.1966, do imposto sobre o consumo de bebidas engarrafadas e de gelados\
+    \ pelo DEC LEI.47066.01.07.1966.MF, DG.IS [151] de 01.07.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47066-1966-474922
+  date: '1966-07-01'
+- type: cites
+  target: pt:dre:172702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590335:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:52Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +165,7 @@ Julga-se que o melhoramento agora introduzido no sistema constitui um importante
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O imposto criado pelo artigo 5.º do [Decreto-Lei n.º 43763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43763-1961-172901), de 30 de Junho de 1961, é substituído por um imposto sobre o consumo de bebidas engarrafadas e de gelados no continente e ilhas adjacentes, que incidirá sobre os seguintes produtos:
+Artigo 1.º O imposto criado pelo artigo 5.º do [Decreto-Lei n.º 43763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43763-1961-172901), de 30 de Junho de 1961, é substituído por um imposto sobre o consumo de bebidas engarrafadas e de gelados no continente e ilhas adjacentes, que incidirá sobre os seguintes produtos:
 
 a) Bebidas classificadas como refrigerantes pelo artigo 1.º do [Decreto-Lei n.º 42159](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42159-1959-590335), de 25 de Fevereiro de 1959;
 
@@ -130,23 +183,23 @@ e) Produtos compreendidos na denominação de sorvetes, gelados ou de cremes gel
 
 § 3.º O regime estabelecido por este diploma não se aplica às bebidas importadas ao abrigo do [Decreto n.º 17224](https://diariodarepublica.pt/dr/detalhe/decreto/17224-1929-293676), de 14 de Agosto de 1929.
 
-###### Art. 2.º O imposto a que se refere o presente decreto-lei será liquidado pela aplicação das taxas constantes da tabela anexa.
+Art. 2.º O imposto a que se refere o presente decreto-lei será liquidado pela aplicação das taxas constantes da tabela anexa.
 
-###### Art. 3.º Este imposto será exigido dos preparadores, engarrafadores, fabricantes, importadores ou arrematantes no acto da saída dos produtos para serem lançados no mercado ou directamente no consumo.
+Art. 3.º Este imposto será exigido dos preparadores, engarrafadores, fabricantes, importadores ou arrematantes no acto da saída dos produtos para serem lançados no mercado ou directamente no consumo.
 
 § único. Os serviços aduaneiros e os restantes serviços públicos em que se efectuem arrematações são obrigados a fornecer à Direcção-Geral das Contribuições e Impostos os elementos relativos às importações e arrematações de produtos referidos na tabela anexa, quando não tenham pago ainda o imposto a que estão sujeitos.
 
-###### Art. 4.º Nos casos em que o imposto tiver de ser liquidado com base no preço dos produtos, será considerado o preço do preparador, engarrafador, fabricante, importador ou arrematante que conste das guias de remessa, facturas, notas de débito ou de outros elementos de escrita, salvo o que se dispõe no § 2.º deste artigo.
+Art. 4.º Nos casos em que o imposto tiver de ser liquidado com base no preço dos produtos, será considerado o preço do preparador, engarrafador, fabricante, importador ou arrematante que conste das guias de remessa, facturas, notas de débito ou de outros elementos de escrita, salvo o que se dispõe no § 2.º deste artigo.
 
 § 1.º O custo dos recipientes recuperáveis não será considerado no preço dos produtos quando estiver discriminado nos documentos referidos no corpo deste artigo e destes constar que o fornecedor se obriga a aceitar a sua devolução.
 
 § 2.º Para efeitos deste imposto, o preço dos produtos importados ou arrematados para consumo próprio ou para venda directa ao consumidor será o que resultar do seu valor à saída da alfândega ou do lugar da arrematação, acrescido de 20 por cento.
 
-###### Art. 5.º Independentemente do imposto já pago nos termos dos artigos anteriores, ficam sujeitos à taxa adicional de 10 por cento sobre o preço de venda ao consumidor todos os produtos que forem vendidos ou se destinarem a venda ou fornecimento por valor que venha a ultrapassar em mais de 70 por cento o preço do preparador, engarrafador, fabricante, importador ou arrematante.
+Art. 5.º Independentemente do imposto já pago nos termos dos artigos anteriores, ficam sujeitos à taxa adicional de 10 por cento sobre o preço de venda ao consumidor todos os produtos que forem vendidos ou se destinarem a venda ou fornecimento por valor que venha a ultrapassar em mais de 70 por cento o preço do preparador, engarrafador, fabricante, importador ou arrematante.
 
 § único. A taxa a que se refere o corpo deste artigo será paga pelo vendedor por meio de estampilhas fiscais com a sobrecarga «Imposto de consumo», apostas nos rótulos dos respectivos recipientes ou nas cápsulas, quando os rótulos não existam.
 
-###### Art. 6.º O pagamento do imposto relativamente aos produtos abrangidos por este diploma pode efectuar-se por qualquer das seguintes modalidades:
+Art. 6.º O pagamento do imposto relativamente aos produtos abrangidos por este diploma pode efectuar-se por qualquer das seguintes modalidades:
 
 1.ª Pela colagem, nos respectivos recipientes ou invólucros, de cintas especiais seladas, de modelo oficial, fornecidas pela Casa da Moeda, apostas por forma que se proceda à sua inutilização no momento da abertura.
 
@@ -160,11 +213,11 @@ e) Produtos compreendidos na denominação de sorvetes, gelados ou de cremes gel
 
 § 2.º Sempre que os organismos corporativos ou de coordenação económica requeiram e obtenham autorização para utilizar a segunda modalidade estabelecida neste artigo, a ela ficam obrigados todos os associados ou agremiados sujeitos à sua disciplina.
 
-###### Art. 7.º A entrega do imposto nos cofres do Estado, nos casos em que sejam autorizadas as formas de pagamento estabelecidas em qualquer das modalidades 2.ª e 3.ª do artigo anterior, será efectuada até ao dia 15 do mês seguinte àquele em que os produtos forem lançados no mercado ou directamente no consumo.
+Art. 7.º A entrega do imposto nos cofres do Estado, nos casos em que sejam autorizadas as formas de pagamento estabelecidas em qualquer das modalidades 2.ª e 3.ª do artigo anterior, será efectuada até ao dia 15 do mês seguinte àquele em que os produtos forem lançados no mercado ou directamente no consumo.
 
 § único. Se os organismos corporativos ou de coordenação económica procederem à cobrança dos selos de garantia e correspondente imposto antes de os produtos serem lançados no mercado ou directamente no consumo, a entrega do imposto será efectuada até ao dia 15 do mês seguinte ao da sua efectiva arrecadação.
 
-###### Art. 8.º As transgressões ao disposto no presente diploma serão punidas nos termos das alíneas seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 8.º As transgressões ao disposto no presente diploma serão punidas nos termos das alíneas seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
 a) A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, será punida com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber;
 
@@ -176,41 +229,41 @@ d) A introdução dos produtos no mercado ou directamente no consumo sem a obser
 
 § único. As multas de que tratam as diferentes alíneas deste artigo serão elevadas ao dobro, ao quádruplo e ao décuplo nos casos, respectivamente, da primeira, segunda e posteriores repetições das faltas da mesma natureza verificadas nos últimos cinco anos.
 
-###### Art. 9.º Por qualquer infracção não especialmente prevenida no artigo anterior será aplicada multa de 100$00 a 10000$00.
+Art. 9.º Por qualquer infracção não especialmente prevenida no artigo anterior será aplicada multa de 100$00 a 10000$00.
 
-###### Art. 10.º Pelo pagamento das multas e do imposto correspondente são solidàriamente responsáveis os originários transgressores e os depositários ou vendedores dos produtos encontrados em transgressão, com excepção dos casos em que os recipientes ou invólucros contenham qualquer das indicações exigidas no artigo 6.º
+Art. 10.º Pelo pagamento das multas e do imposto correspondente são solidàriamente responsáveis os originários transgressores e os depositários ou vendedores dos produtos encontrados em transgressão, com excepção dos casos em que os recipientes ou invólucros contenham qualquer das indicações exigidas no artigo 6.º
 
-###### Art. 11.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida ao tempo em que foi cometida a infracção.
+Art. 11.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida ao tempo em que foi cometida a infracção.
 
-###### Art. 12.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
+Art. 12.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
 
-###### Art. 13.º As multas serão impostas mediante auto de transgressão levantada e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
+Art. 13.º As multas serão impostas mediante auto de transgressão levantada e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
 
-###### Art. 14.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade, revertendo integralmente para o Estado.
+Art. 14.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade, revertendo integralmente para o Estado.
 
 § 1.º Se o auto de transgressão ainda não tiver sido levantado, sê-lo-á no caso de multa variável entre limites.
 
 § 2.º Não se considerará voluntário o pedido de pagamento da multa, feito posteriormente ao início de qualquer fiscalização mediante verificação ou exame à escrita do infractor.
 
-###### Art. 15.º Se a transgressão for praticada com dolo e o quantitativo da multa for igual ou superior a 50000$00, será dada publicidade à condenação do infractor, mediante a inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
+Art. 15.º Se a transgressão for praticada com dolo e o quantitativo da multa for igual ou superior a 50000$00, será dada publicidade à condenação do infractor, mediante a inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
 
 § 1.º O extracto será organizado pela entidade que tiver aplicado a multa e publicado, a expensas do infractor, num dos diários ou, não os havendo, num dos periódicos do concelho onde o infractor residir e, além disso, na segunda ou terceira página de dois diários de grande circulação, um de Lisboa e outro do Porto, entrando as despesas da publicação em regra de custas.
 
 § 2.º Do extracto deverá constar a identificação do infractor, a natureza da transgressão, as circunstâncias mais reprováveis em que foi cometida e a importância do imposto em falta.
 
-###### Art. 16.º Os produtos encontrados em transgressão dos preceitos deste diploma serão imediatamente apreendidos, nomeando-se um depositário, que poderá ser o seu próprio detentor.
+Art. 16.º Os produtos encontrados em transgressão dos preceitos deste diploma serão imediatamente apreendidos, nomeando-se um depositário, que poderá ser o seu próprio detentor.
 
 § único. A apreensão será levantada logo que se mostrem cumpridas as obrigações legais, tenha sido prestada caução ou tenha transitado em julgado a decisão considerando insubsistente o respectivo auto de transgressão.
 
-###### Art. 17.º As dúvidas devidamente fundamentadas sobre a qualificação de produtos para efeitos deste imposto e a sua correspondência com os termos da tabela anexa serão resolvidas por uma comissão arbitral constituída peio director-geral das Contribuições e Impostos, ou um seu delegado, e por eles presidida, e por dois vogais, sendo um nomeado pelo interessado e outro indicado pelo organismo competente do Ministério da Economia.
+Art. 17.º As dúvidas devidamente fundamentadas sobre a qualificação de produtos para efeitos deste imposto e a sua correspondência com os termos da tabela anexa serão resolvidas por uma comissão arbitral constituída peio director-geral das Contribuições e Impostos, ou um seu delegado, e por eles presidida, e por dois vogais, sendo um nomeado pelo interessado e outro indicado pelo organismo competente do Ministério da Economia.
 
 § único. Das deliberações desta comissão cabe ùnicamente recurso para o Ministro das Finanças.
 
-###### Art. 18.º Poderá o Ministro das Finanças dispensar, a requerimento dos organismos corporativos ou de coordenação económica, o pagamento do imposto correspondente aos produtos destinados a ofertas a título de propaganda feita directamente pelos mesmos organismos.
+Art. 18.º Poderá o Ministro das Finanças dispensar, a requerimento dos organismos corporativos ou de coordenação económica, o pagamento do imposto correspondente aos produtos destinados a ofertas a título de propaganda feita directamente pelos mesmos organismos.
 
-###### Art. 19.º O Ministro das Finanças publicará o regulamento para a execução deste diploma.
+Art. 19.º O Ministro das Finanças publicará o regulamento para a execução deste diploma.
 
-###### Art. 20.º Em relação aos produtos abrangidos por este diploma existentes à data da sua entrada em vigor em estabelecimentos que não sejam o do preparador, engarrafador, fabricante, importador ou arrematante, observar-se-á o seguinte:
+Art. 20.º Em relação aos produtos abrangidos por este diploma existentes à data da sua entrada em vigor em estabelecimentos que não sejam o do preparador, engarrafador, fabricante, importador ou arrematante, observar-se-á o seguinte:
 
 1.º Se os produtos não estavam sujeitos a qualquer imposto de consumo, deverão os respectivos detentores efectuar o pagamento do que seja devido por força deste decreto-lei, nos termos da primeira modalidade estabelecida no artigo 6.º, considerando-se para o efeito o preço de venda ou exposição ao público, com a dedução de 20 por cento, salvo se optarem, por acordo com o fornecedor, na sua troca, no prazo de 15 dias, por outros devidamente legalizados.
 
@@ -218,13 +271,13 @@ d) A introdução dos produtos no mercado ou directamente no consumo sem a obser
 
 § único. Decorridos os prazos estabelecidos no corpo deste artigo, consideram-se introduzidos no mercado sem pagamento de imposto os produtos em relação aos quais se não tenha cumprido o que nele se dispõe.
 
-###### Art. 21.º Efectuada a tributação, nos termos deste diploma ou decorridos que sejam os prazos estabelecidos no artigo anterior, são excluídas das tabelas A e B anexas ao [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962, as bebidas alcoólicas engarrafadas delas constantes sob os n.os 11 e 19, respectivamente.
+Art. 21.º Efectuada a tributação, nos termos deste diploma ou decorridos que sejam os prazos estabelecidos no artigo anterior, são excluídas das tabelas A e B anexas ao [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962, as bebidas alcoólicas engarrafadas delas constantes sob os n.os 11 e 19, respectivamente.
 
-###### Art. 22.º Ficam revogados os artigos 5.º e 6.º do [Decreto-Lei n.º 43763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43763-1961-172901), de 30 de Junho de 1961, e os artigos 3.º e 4.º do [Decreto-Lei n.º 43791](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43791-1961-172702), de 14 de Julho do mesmo ano.
+Art. 22.º Ficam revogados os artigos 5.º e 6.º do [Decreto-Lei n.º 43763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43763-1961-172901), de 30 de Junho de 1961, e os artigos 3.º e 4.º do [Decreto-Lei n.º 43791](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43791-1961-172702), de 14 de Julho do mesmo ano.
 
-###### Art. 23.º Este decreto-lei entra imediatamente em vigor.
+Art. 23.º Este decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

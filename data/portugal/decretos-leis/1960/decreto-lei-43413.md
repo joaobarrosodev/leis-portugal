@@ -48,40 +48,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43413-1960-513469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9288a60c85f3041e3e61c99292ddc18d291072f58a38a820546d288b35444318
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bbbdc773e75d994b685f75cc8d502d0be833a951144bfca5c5da4e114e90bfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne de Suíno
+- Carne de Vaca
+- Contribuições e Impostos
+- Direitos de Importação
+- Isenção Fiscal
+- Ministro das Finanças
+- Produto Congelado
+- Secretário de Estado do Comércio
 relationships:
 - type: amended_by
   target: pt:dre:238600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:169967:por
+  label: "Tornado extensivo à importação de carne frigorificada de bovinos e suínos e de gado bovino vivo o disposto no presente\
+    \ diploma, pelo DEC LEI.43669.06.05.1961.MF, DG.IS [106] de 06.05.1961\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43669-1961-169967
+  date: '1961-05-06'
+- type: amended_by
+  target: pt:dre:516678:por
+  label: "Prorrogado, até 31.12.1962, o prazo de vigência previsto no presente diploma, pelo DEC LEI.44248.23.03.1962.MF,\
+    \ DG.IS [65] de 23.03.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44248-1962-516678
+  date: '1962-03-23'
+- type: amended_by
+  target: pt:dre:688254:por
+  label: "Prorrogado até 31.12.1963, o prazo de vigência do presente diploma, pelo DEC LEI.45355.16.11.1963.MF, DG.IS [269]\
+    \ de 16.11.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45355-1963-688254
+  date: '1963-11-16'
+- type: amended_by
+  target: pt:dre:471923:por
+  label: "Prorrogado até 31.12.1964, o prazo de vigência do presente diploma, pelo DEC LEI.45649.09.04.1964.MF, DG.IS [85]\
+    \ de 09.04.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45649-1964-471923
+  date: '1964-04-09'
+- type: amended_by
+  target: pt:dre:238600:por
+  label: "Prorrogado até 31.12.1965, o prazo de vigência do presente diploma, pelo DEC LEI.46234.18.03.1965.MF, DG.IS [65]\
+    \ de 18.03.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46234-1965-238600
+  date: '1965-03-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:05Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +142,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministro das Finanças, até 31 de Dezembro de 1961, mediante prévia informação favorável do Secretário de Estado do Comércio, a isentar ou reduzir os direitos de importação aplicáveis às carnes congeladas de bovinos e suínos e ao toucinho, quando indispensáveis para garantir a regularidade do abastecimento público.
+Artigo 1.º Fica autorizado o Ministro das Finanças, até 31 de Dezembro de 1961, mediante prévia informação favorável do Secretário de Estado do Comércio, a isentar ou reduzir os direitos de importação aplicáveis às carnes congeladas de bovinos e suínos e ao toucinho, quando indispensáveis para garantir a regularidade do abastecimento público.
 
-###### Art. 2.º O disposto no artigo anterior é de aplicar aos produtos já importados cujos direitos se encontrem devidamente garantidos.
+Art. 2.º O disposto no artigo anterior é de aplicar aos produtos já importados cujos direitos se encontrem devidamente garantidos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 

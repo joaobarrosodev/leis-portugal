@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05600/03920392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1977-140362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15a14d9e732f2577a893f22b2af9f687de19cc5c9c6dd742087cb2fe6bb9034e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d8a09fbe96587be6c690f3ad160b0c53940a192162cd7ada9186080abb943f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Casamento
+- Faltas
+- Óbito
+- PSP
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507380:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:17Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +117,20 @@ Convindo estabelecer a justiça e igualdade entre o pessoal civil, militar e mil
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os agentes e comissários da Polícia de Segurança Pública têm direito a licença, até quatro dias seguidos, por motivo do falecimento de cônjuge, de parente ou de afim no 1.º grau da linha recta, e até dois dias em caso de falecimento de parente ou afim em qualquer outro grau da linha recta e nos 2.º e 3.º graus da linha colateral.
+Artigo 1.º - 1. Os agentes e comissários da Polícia de Segurança Pública têm direito a licença, até quatro dias seguidos, por motivo do falecimento de cônjuge, de parente ou de afim no 1.º grau da linha recta, e até dois dias em caso de falecimento de parente ou afim em qualquer outro grau da linha recta e nos 2.º e 3.º graus da linha colateral.
 
 2. O agente ou comissário nesta situação deve, imediatamente, comunicar o facto ao comando a que pertença ou, se tal não for possível, ao comando distrital, secção ou posto policial mais próximo, indicando onde permanece durante a licença.
 
 3. No acto de apresentação ao serviço deve ser produzida a prova do direito usufruído.
 
-###### Art. 2.º - 1. Por motivo do seu casamento, o pessoal referido no artigo precedente tem direito a licença até seis dias seguidos, a qual será concedida se não houver inconveniente para o serviço.
+Art. 2.º - 1. Por motivo do seu casamento, o pessoal referido no artigo precedente tem direito a licença até seis dias seguidos, a qual será concedida se não houver inconveniente para o serviço.
 
 2. Para o efeito do número anterior deve o facto ser comunicado ao respectivo comandante com a antecedência mínima de dez dias.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
 
-**Promulgado em 21 de Fevereiro de 1977.**
+Promulgado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

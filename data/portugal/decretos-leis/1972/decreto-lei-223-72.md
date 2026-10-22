@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/06/15100/08510852.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1972-674445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379bf50dffd7b06a26f3d96a94450ce809bfd1f967cd1e0422885d9145a8a4a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2117c3440909dacb03840a04e0637c2dda4881415dec69670fa4f2bf6d08c555
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário do Governo
+- Diploma Legal
+- Formulário dos Diplomas
+- Publicação
 relationships:
 - type: amended_by
   target: pt:dre:408675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264351:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408675:por
+  label: "Revogado pela LEI.3/76.1976.09.10.AR DR.IS [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1976-408675
+  date: '1976-09-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:04Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +119,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 4 do artigo 1.º do [Decreto-Lei n.º 48620](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48620-1968-264351), de 10 de Outubro de 1968, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 4 do artigo 1.º do [Decreto-Lei n.º 48620](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48620-1968-264351), de 10 de Outubro de 1968, passa a ter a seguinte redacção:
 
 4. Na fórmula dos decretos mencionar-se-á, quando se verificar, a aprovação em Conselho de Ministros.
 
-###### Art. 2.º O n.º 1 do artigo 2.º do [Decreto-Lei n.º 48620](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48620-1968-264351), de 10 de Outubro de 1968, passa a ter a seguinte redacção:
+Art. 2.º O n.º 1 do artigo 2.º do [Decreto-Lei n.º 48620](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48620-1968-264351), de 10 de Outubro de 1968, passa a ter a seguinte redacção:
 
 1. No formulário das leis, resoluções e decretos observar-se-á o seguinte:
 
@@ -114,8 +135,8 @@ c) Tratando-se de decretos da competência própria do Governo, ao texto do disp
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 21 de Junho de 1972.**
+Promulgado em 21 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

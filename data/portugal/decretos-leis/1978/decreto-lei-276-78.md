@@ -46,40 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1978-329860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 372b1ae976adcc50102a5dc917da79569c7659bcbfc141d00630a126c5caa9c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27cfc2085d3c304279f9020bfabb2c9ced557ebc9fa8103ad3fb919cec1969cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ministério dos Assuntos Sociais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:470823:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:33Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +105,13 @@ O presente diploma, destinado a transferir algumas atribuições para a Região 
 
 Para tanto, e ouvido o Governo da Região Autónoma dos Açores, o Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República, decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Região Autónoma dos Açores passa a superintender, nos termos do presente diploma e demais legislação nacional aplicável, nos serviços dependentes do Ministério dos Assuntos Sociais situados na Região.
+Artigo 1.º - 1 - A Região Autónoma dos Açores passa a superintender, nos termos do presente diploma e demais legislação nacional aplicável, nos serviços dependentes do Ministério dos Assuntos Sociais situados na Região.
 
 2 - Os órgãos de governo próprio da Região Autónoma dos Açores exercerão as atribuições decorrentes do disposto no número anterior, com salvaguarda das linhas de política geral e de saúde e segurança social consagradas na Constituição e definidas pelo Governo da República.
 
 3 - Sem prejuízo do disposto nos números anteriores, competirá ao Secretário Regional dos Assuntos Sociais do Governo da Região Autónoma dos Açores a direcção da política de saúde e segurança social da área da Região, de acordo com a orientação definida pelo Governo Regional no contexto do serviço nacional de saúde integrado e de um sistema unificado de segurança social.
 
-###### Art. 2.º O Governo Regional dos Açores, pela Secretaria Regional dos Assuntos Sociais, exercerá as seguintes atribuições:
+Art. 2.º O Governo Regional dos Açores, pela Secretaria Regional dos Assuntos Sociais, exercerá as seguintes atribuições:
 
 a) Superintender nos serviços e instituições regionais do âmbito da saúde e da segurança social, coordenando e orientando a sua actuação;
 
@@ -122,25 +125,25 @@ e) Administrar as dotações para a saúde e segurança social inscritas no orç
 
 f) Promover a elaboração do projecto de orçamento regional referente aos mencionados sectores.
 
-###### Art. 3.º - 1 - No período que mediar entre a data da entrada em vigor deste diploma e o termo do corrente ano económico, os duodécimos de dotações do Orçamento Geral do Estado relativas à saúde e segurança social e à Região Autónoma dos Açores serão transferidos para o respectivo Governo Regional, que se encarregará da sua gestão.
+Art. 3.º - 1 - No período que mediar entre a data da entrada em vigor deste diploma e o termo do corrente ano económico, os duodécimos de dotações do Orçamento Geral do Estado relativas à saúde e segurança social e à Região Autónoma dos Açores serão transferidos para o respectivo Governo Regional, que se encarregará da sua gestão.
 
 2 - As verbas afectas às instituições de previdência da Região serão também transferidas para o Governo Regional.
 
 3 - Serão objecto de igual transferência todas as formas de auxílio prestado pelos serviços centrais aos serviços e instituições regionais ligados ao sector da saúde e da segurança social.
 
-###### Art. 4.º Efectivada a transferência dos serviços periféricos do Ministério dos Assuntos Sociais para a Região Autónoma dos Açores, os correspondentes orçamentos serão integrados no orçamento regional e as verbas que lhes forem destinadas serão transferidas para a Região no início de cada ano.
+Art. 4.º Efectivada a transferência dos serviços periféricos do Ministério dos Assuntos Sociais para a Região Autónoma dos Açores, os correspondentes orçamentos serão integrados no orçamento regional e as verbas que lhes forem destinadas serão transferidas para a Região no início de cada ano.
 
-###### Art. 5.º - 1 - Os serviços regionais de saúde e segurança social, nomeadamente as instituições de previdência, serão integrados nas correspondentes estruturas orgânicas de saúde e segurança social, à medida que estas forem criadas e estiverem aptas a funcionar.
+Art. 5.º - 1 - Os serviços regionais de saúde e segurança social, nomeadamente as instituições de previdência, serão integrados nas correspondentes estruturas orgânicas de saúde e segurança social, à medida que estas forem criadas e estiverem aptas a funcionar.
 
 2 - O Governo Regional providenciará pela criação das estruturas orgânicas necessárias, obedecendo aos critérios legalmente definidos a nível nacional ou regional.
 
-###### Art. 6.º É transferida para a Região Autónoma dos Açores a posse e gestão dos bens patrimoniais afectos aos serviços de saúde e segurança social situados na Região.
+Art. 6.º É transferida para a Região Autónoma dos Açores a posse e gestão dos bens patrimoniais afectos aos serviços de saúde e segurança social situados na Região.
 
-###### Art. 7.º - 1 - Poderão ser designadas equipas técnicas mistas, com vista à integração dos serviços periféricos de saúde e segurança social nas correspondentes estruturas orgânicas da Região.
+Art. 7.º - 1 - Poderão ser designadas equipas técnicas mistas, com vista à integração dos serviços periféricos de saúde e segurança social nas correspondentes estruturas orgânicas da Região.
 
 2 - Compete ao Ministro dos Assuntos Sociais a designação de técnicos representativos dos serviços centrais e ao Governo Regional, através da Secretaria Regional dos Assuntos Socais, a designação de técnicos representativos da Região.
 
-###### Art. 8.º Nas acções a desenvolver no âmbito do sector da saúde, cabe ao Secretário Regional dos Assuntos Sociais, através dos serviços dele dependentes:
+Art. 8.º Nas acções a desenvolver no âmbito do sector da saúde, cabe ao Secretário Regional dos Assuntos Sociais, através dos serviços dele dependentes:
 
 a) Assegurar a cobertura médico-sanitária da Região, orientando e coordenando as actividades de promoção da saúde, prevenção da doença, tratamento e reabilitação de doentes e prestação de cuidados de saúde de base e diferenciados, com prioridade para a prevenção primária;
 
@@ -152,7 +155,7 @@ d) Promover e coordenar, em casos de epidemia ou situações sanitárias graves,
 
 e) Assegurar o cumprimento das convenções, acordos ou regulamentos sanitários internacionais e a defesa sanitária dos portos e aeroportos da Região.
 
-###### Art. 9.º Nas acções a desenvolver no âmbito do sector da segurança social, cabe ao Secretário Regional dos Assuntos Sociais, através dos serviços dele dependentes:
+Art. 9.º Nas acções a desenvolver no âmbito do sector da segurança social, cabe ao Secretário Regional dos Assuntos Sociais, através dos serviços dele dependentes:
 
 a) Assegurar a efectiva realização do direito à segurança social, adoptando formas adequadas às situações de falta ou diminuição de meios de subsistência ou capacidade de trabalho;
 
@@ -168,7 +171,7 @@ f) Coordenar e fiscalizar o funcionamento das Casas do Povo, no que se refere à
 
 g) Promover a prestação de socorros urgentes em caso de calamidade pública ou de sinistro, coordenando e orientando a aplicação dos meios ao seu dispor.
 
-###### Art. 10.º - 1 - Com a entrada em vigor do presente diploma cessam as ligações directas entre organismos centrais e serviços regionais de saúde e de segurança.
+Art. 10.º - 1 - Com a entrada em vigor do presente diploma cessam as ligações directas entre organismos centrais e serviços regionais de saúde e de segurança.
 
 2 - As questões decorrentes do funcionamento dos serviços regionais que devam prosseguir ao nível dos serviços centrais serão apresentadas ao Governo Regional, que, através da Secretaria Regional dos Assuntos Sociais, lhes dará o necessário encaminhamento.
 
@@ -178,30 +181,30 @@ g) Promover a prestação de socorros urgentes em caso de calamidade pública ou
 
 5 - Sempre que se torne aconselhável contactar as entidades competentes a nível da Administração Central, acerca de assuntos correntes dos serviços regionais de saúde e segurança social, a Secretaria Regional dos Assuntos Sociais poderá fazê-lo directamente.
 
-###### Art. 11.º - 1 - A pedido do Governo da Região, os serviços centrais prestarão aos regionais, nos sectores da saúde e da segurança social, o necessário apoio técnico e administrativo ao seu alcance.
+Art. 11.º - 1 - A pedido do Governo da Região, os serviços centrais prestarão aos regionais, nos sectores da saúde e da segurança social, o necessário apoio técnico e administrativo ao seu alcance.
 
 2 - O apoio referido no número anterior será solicitado ao Ministro dos Assuntos Sociais.
 
-###### Art. 12.º Gradualmente, e em termos a definir por diploma legal, serão criados quadros regionais, em que serão integrados, sem perda de direitos e regalias adquiridos, os trabalhadores dos quadros dos serviços dependentes da Administração Central, no âmbito da saúde e da segurança social, existentes na Região.
+Art. 12.º Gradualmente, e em termos a definir por diploma legal, serão criados quadros regionais, em que serão integrados, sem perda de direitos e regalias adquiridos, os trabalhadores dos quadros dos serviços dependentes da Administração Central, no âmbito da saúde e da segurança social, existentes na Região.
 
-###### Art. 13.º - 1 - A aprovação, alteração e revogação dos quadros do pessoal dos serviços regionais de saúde e segurança social serão feitas por portaria do Governo Regional dos Açores, ao qual compete igualmente a nomeação, promoção e exoneração daquele pessoal, bem como o exercício da correspondente acção disciplinar.
+Art. 13.º - 1 - A aprovação, alteração e revogação dos quadros do pessoal dos serviços regionais de saúde e segurança social serão feitas por portaria do Governo Regional dos Açores, ao qual compete igualmente a nomeação, promoção e exoneração daquele pessoal, bem como o exercício da correspondente acção disciplinar.
 
 2 - As atribuições previstas no número anterior serão exercidas com respeito pela legislação da República em matéria de quadros, carreiras profissionais, registo central de pessoal e intercomunicabilidade entre os quadros nacionais e regionais.
 
 3 - Será respeitada a equivalência entre as categorias profissionais dos quadros regionais e as categorias dos correspondentes quadros de ingresso ou promoção.
 
-###### Art. 14.º - 1 - Os trabalhadores pertencentes aos quadros dos serviços regionais de saúde e segurança social podem transferir-se para os quadros dos correspondentes serviços nacionais, sem perda de direitos ou regalias, e inversamente.
+Art. 14.º - 1 - Os trabalhadores pertencentes aos quadros dos serviços regionais de saúde e segurança social podem transferir-se para os quadros dos correspondentes serviços nacionais, sem perda de direitos ou regalias, e inversamente.
 
 2 - São abrangidos pelo disposto no n.º 1 os trabalhadores das carreiras profissionais de âmbito nacional.
 
-###### Art. 15.º O disposto no presente diploma é estabelecido com expressa ressalva da competência legal do Ministro da República para a Região Autónoma dos Açores.
+Art. 15.º O disposto no presente diploma é estabelecido com expressa ressalva da competência legal do Ministro da República para a Região Autónoma dos Açores.
 
-###### Art. 16.º As dúvidas resultantes da interpretação e aplicação do presente diploma serão resolvidas por despacho dos Ministros da República e dos Assuntos Sociais, ouvido o Governo Regional.
+Art. 16.º As dúvidas resultantes da interpretação e aplicação do presente diploma serão resolvidas por despacho dos Ministros da República e dos Assuntos Sociais, ouvido o Governo Regional.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Duarte Arnaut.
 
-**Promulgado em 17 de Agosto de 1978.**
+Promulgado em 17 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

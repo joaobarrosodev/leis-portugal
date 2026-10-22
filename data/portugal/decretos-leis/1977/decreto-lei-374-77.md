@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1977-286495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f517ea6c264a3d4fc78ca116019fa3c9d83ce7a4fc8f812d815a152f7065b597
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26ffb6a6a97606e4e7f31f8fbe2c20bdea9842f9eead4e3ad638dff4867d0a05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Associação Portuguesa de Paralisia Cerebral
+- Centro de Reabilitação de Paralisia Cerebral
+- Coimbra
+- Instituto da Família e Acção Social
+- Lisboa
+- Porto
+- Secretaria de Estado da Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:250598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:04Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +110,13 @@ Considerando ainda que a paralisia cerebral é a deficiência motora mais freque
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os centros de reabilitação de Lisboa, Porto e Coimbra da Associação Portuguesa de Paralisia Cerebral, instituição particular de assistência, com sede em Lisboa, são oficializados, ficando organicamente dependentes da Secretaria de Estado da Segurança Social.
+Artigo 1.º Os centros de reabilitação de Lisboa, Porto e Coimbra da Associação Portuguesa de Paralisia Cerebral, instituição particular de assistência, com sede em Lisboa, são oficializados, ficando organicamente dependentes da Secretaria de Estado da Segurança Social.
 
-###### Art. 2.º Os centros referidos no artigo anterior gozam de personalidade jurídica e autonomia administrativa, ficando sujeitos às directrizes do Instituto da Família e Acção Social.
+Art. 2.º Os centros referidos no artigo anterior gozam de personalidade jurídica e autonomia administrativa, ficando sujeitos às directrizes do Instituto da Família e Acção Social.
 
-###### Art. 3.º Os centros ficam no regime de instalação previsto no artigo 79.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e serão administrados por comissões nomeadas por despacho do Secretário de Estado da Segurança Social.
+Art. 3.º Os centros ficam no regime de instalação previsto no artigo 79.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e serão administrados por comissões nomeadas por despacho do Secretário de Estado da Segurança Social.
 
-###### Art. 4.º - 1. Os edifícios onde funcionam os centros, quando sejam propriedade da Associação Portuguesa de Paralisia Cerebral, bem como o respectivo equipamento, serão utilizados gratuitamente, e com a mesma finalidade, pelos centros oficializados.
+Art. 4.º - 1. Os edifícios onde funcionam os centros, quando sejam propriedade da Associação Portuguesa de Paralisia Cerebral, bem como o respectivo equipamento, serão utilizados gratuitamente, e com a mesma finalidade, pelos centros oficializados.
 
 2. No caso de se tratar de imóveis utilizados pela Associação Portuguesa de Paralisia Cerebral através de contratos de arrendamento, os centros substituir-se-ão, para todos os efeitos, à Associação Portuguesa de Paralisia Cerebral na respectiva posição contratual.
 
@@ -109,22 +124,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. Todas as obras necessárias à conservação dos edifícios propriedade da Associação Portuguesa de Paralisia Cerebral serão suportadas pelo Estado.
 
-###### Art. 5.º - 1. O pessoal que presta serviço nos centros de reabilitação ficará, a partir da entrada em vigor deste diploma, abrangido pelo regime legal vigente para o pessoal dos estabelecimentos oficiais de assistência.
+Art. 5.º - 1. O pessoal que presta serviço nos centros de reabilitação ficará, a partir da entrada em vigor deste diploma, abrangido pelo regime legal vigente para o pessoal dos estabelecimentos oficiais de assistência.
 
 2. O pessoal a que se refere o número anterior manter-se-á inscrito na Caixa de Previdência dos Empregados da Assistência, salvo se, preenchendo os requisitos de inscrição na Caixa Geral de Aposentações, optar por esta, no prazo de noventa dias, a partir da data da publicação deste diploma.
 
-###### Art. 6.º - 1. O pessoal actualmente em serviço nos centros de reabilitação de Lisboa, Porto e Coimbra poderá ser admitido, durante o período de instalação, independentemente das habilitações literárias.
+Art. 6.º - 1. O pessoal actualmente em serviço nos centros de reabilitação de Lisboa, Porto e Coimbra poderá ser admitido, durante o período de instalação, independentemente das habilitações literárias.
 
 2. Findo este período ser-lhe-á aplicável o regime constante dos artigos 2.º, alínea b), e 3.º do [Decreto-Lei n.º 273/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1977-250598), de 4 de Julho.
 
-###### Art. 7.º As receitas próprias da Associação Portuguesa de Paralisia Cerebral utilizadas até à data da publicação do presente diploma na manutenção dos centros poderão passar a financiar outras actividades previstas ou a prever nos estatutos daquela Associação.
+Art. 7.º As receitas próprias da Associação Portuguesa de Paralisia Cerebral utilizadas até à data da publicação do presente diploma na manutenção dos centros poderão passar a financiar outras actividades previstas ou a prever nos estatutos daquela Associação.
 
-###### Art. 8.º A Associação Portuguesa de Paralisia Cerebral deverá promover a revisão dos seus estatutos por forma que das actividades nela previstas sejam excluídas as relativas à manutenção dos centros de reabilitação.
+Art. 8.º A Associação Portuguesa de Paralisia Cerebral deverá promover a revisão dos seus estatutos por forma que das actividades nela previstas sejam excluídas as relativas à manutenção dos centros de reabilitação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 15 de Agosto de 1977.**
+Promulgado em 15 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

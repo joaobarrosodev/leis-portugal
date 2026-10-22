@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44877-1963-193627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a8b52f377d52682f9920964f8073ff0ddd8b06c236a3a122136b122aa0c66ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae2ee60d5d7ab807fdd43f7cea2a82f4e4a32e27f7510b6101ff764f83da4a21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Berna
+- Convenção
+- Importação
+- Portugal
+- Produto Agrícola
+- Suíça
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:05Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +91,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo relativo à importação de produtos agrícolas portugueses na Suíça, assinado em Berna em 22 de Fevereiro de 1962, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Protocolo relativo à importação de produtos agrícolas portugueses na Suíça, assinado em Berna em 22 de Fevereiro de 1962, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto -Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -117,7 +123,7 @@ Le traitement privilégié par la Convention de commerce entre la Suisse et le P
 
 Le régime de réduction tarifaire automatique selon l'article 3 de la Convention instituant l'Association Européenne de Libre-Échange sera appliqué aux taux de droit de douane des produits agricoles et de la pêche des positions tarifaires suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf))](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf)
 
 (nota 1) RS 14, 590.
 
@@ -161,7 +167,7 @@ O tratamento privilegiado, estabelecido pela Convenção de Comércio entre a Su
 
 O regime de redução pautal automática, estabelecido pelo artigo 3 da Convenção, que criou a Associação Europeia de Comércio Livre, será aplicado às pautas aduaneiras dos produtos agrícolas e da pesca das seguintes posições pautais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf))](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf)
 
 (nota 1) RS 14, 590.
 

@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/2-1987-599764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffbe5617e103173abeec376e63451b993a98c10cddbd2407c2494ea60d3376ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8e1d059fa2ec1c7de434a7e516586e4a1a4c614f66609ba4fb1848bf3576d4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Almada
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:03Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +109,13 @@ Considerando que se deu oportunamente cumprimento ao disposto no artigo 2.º do 
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o radiofarol NDB da Costa da Caparica, instalado no lugar de Ponta do Cabedelo, na freguesia da Caparica, concelho de Almada, abrangidos na planta anexa a este decreto e constituindo duas zonas assim definidas:
+Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o radiofarol NDB da Costa da Caparica, instalado no lugar de Ponta do Cabedelo, na freguesia da Caparica, concelho de Almada, abrangidos na planta anexa a este decreto e constituindo duas zonas assim definidas:
 
 a) Zona primária do NDB: terrenos situados no interior de uma circunferência de 60 m de raio com centro no NDB [M = 94759,77 e P = -113340,05 de coordenadas rectangulares referidas ao ponto central (Melriça)];
 
 b) Zona secundária do NDB: terrenos confinantes com a zona primária e delimitada exteriormente por uma circunferência de 300 m de raio com centro no NDB
 
-###### Art. 2.º - 1 - Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão nos termos do artigo 10.º, da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aviação Civil (DGAC) a execução dos trabalhos e actividades seguintes:
+Art. 2.º - 1 - Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão nos termos do artigo 10.º, da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aviação Civil (DGAC) a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -125,28 +139,28 @@ h) Quaisquer outros trabalhos ou actividades que inequivocamente possam afectar 
 
 4 - Para os efeitos do disposto no número antecedente consideram-se obstáculos metálicos as linhas aéreas de transporte de energia, agregados de mais de quatro linhas telefónicas aéreas (oito fios), hangares, armazéns e pavilhões de grande vão com estrutura ou coberturas metálicas, torres para antena, vedações em rede metálica de comprimento superior a 20 m, grandes depósitos de sucata ou de materiais metálicos, etc.
 
-###### Art. 3.º - 1 - Compete à DGAC o licenciamento dos trabalhos e actividades nas zonas sujeitas a servidão, ouvida a empresa pública Aeroportos e Navegação Aérea - ANA, E. P., bem como ordenar a demolição de obras e construções nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
+Art. 3.º - 1 - Compete à DGAC o licenciamento dos trabalhos e actividades nas zonas sujeitas a servidão, ouvida a empresa pública Aeroportos e Navegação Aérea - ANA, E. P., bem como ordenar a demolição de obras e construções nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
 
 2 - Para execução das suas decisões poderá a DGAC solicitar a intervenção das forças policiais.
 
-###### Art. 4.º - 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aviação Civil por intermédio da câmara municipal respectiva, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+Art. 4.º - 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aviação Civil por intermédio da câmara municipal respectiva, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
 2 - A planta de localização referida na alínea a) do § 1.º do artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043) deverá ser à escala de 1:5000, devidamente cotada e referenciada por ordenadas.
 
-###### Art. 5.º A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da DGAC e da empresa pública Aeroporto e Navegação Aérea - ANA, E. P.
+Art. 5.º A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da DGAC e da empresa pública Aeroporto e Navegação Aérea - ANA, E. P.
 
-###### Art. 6.º Das decisões do director-geral da Aviação Civil cabe recurso hierárquico necessário para o Ministro das Obras Públicas, Transportes e Comunicações, a interpor no prazo de oito dias.
+Art. 6.º Das decisões do director-geral da Aviação Civil cabe recurso hierárquico necessário para o Ministro das Obras Públicas, Transportes e Comunicações, a interpor no prazo de oito dias.
 
 Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 12 de Dezembro de 1986.**
+Assinado em 12 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Dezembro de 1986.**
+Referendado em 17 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/00300/00300031.pdf))](https://files.diariodarepublica.pt/1s/1987/01/00300/00300031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/00300/00300031.pdf)

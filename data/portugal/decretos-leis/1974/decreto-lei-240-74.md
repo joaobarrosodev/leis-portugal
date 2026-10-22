@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/13100/06870688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a65c9df67597ed434dad7ff8266484c2e16cc1ea1c771b21bd3668289841aba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f428b0942b58e0fe5d59e5bda146fa2abe53159975542e7d1c36bddbb4ca8a2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Ministério da Coordenação Económica
+- Orgânica
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:265561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577092:por
+  label: "Alterado o n.º 2 do art. 4.º pelo DEC LEI.237/81.06.08.1981.MAP, DR.IS [179] de 06.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1981-577092
+  date: '1981-08-06'
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459190:por
+  label: Rectificado pela DECL.DD804.08.04.1976.PCM, DR.IS [92]Supl de 19.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-459190
+  date: '1976-04-08'
+- type: repealed_by
+  target: pt:dre:265561:por
+  label: "Revogado o nº 2 do art. 4º, pelo DEC LEI.107/94.1994.04.23.MF, DR.IS-A [95], na redacção dada pelo art. único do\
+    \ Dec Lei 237/81 de 06-Ago\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1994-265561
+  date: '1994-04-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:39Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +127,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do n.º 1 do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No Ministério da Coordenação Económica é criada a Secretaria de Estado das Pescas, em substituição do lugar de Subsecretário de Estado das Pescas, a que se refere o n.º 2 do artigo 6.º do [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio.
+Artigo 1.º No Ministério da Coordenação Económica é criada a Secretaria de Estado das Pescas, em substituição do lugar de Subsecretário de Estado das Pescas, a que se refere o n.º 2 do artigo 6.º do [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio.
 
-###### Art. 2.º - 1. Nas atribuições da Secretaria de Estado das Pescas compreendem-se as seguintes:
+Art. 2.º - 1. Nas atribuições da Secretaria de Estado das Pescas compreendem-se as seguintes:
 
 a) Formular a política do Governo no sector das pescas;
 
@@ -130,7 +161,7 @@ o) Coligir, compilar e difundir informações e dados sobre as pescas.
 
 2. As atribuições previstas neste artigo serão exercidas cumulativamente com outros departamentos do Estado nas matérias que interfiram com diferentes esferas de competência.
 
-###### Art. 3.º - 1. A Secretaria de Estado das Pescas terá as seguintes direcções-gerais:
+Art. 3.º - 1. A Secretaria de Estado das Pescas terá as seguintes direcções-gerais:
 
 a) Da Administração-Geral das Pescas;
 
@@ -144,7 +175,7 @@ c) Da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático.
 
 4. Os directores-gerais das direcções-gerais previstas no n.º 1 deste artigo poderão ser nomeados pelo Ministro da Coordenação Económica antes de estarem regulamentados os serviços respectivos.
 
-###### Art. 4.º - 1. São extintas todas as organizações estatais e paraestatais, às quais estavam atribuídas funções de direcção, administração, regulamentação, fomento e disciplina, relativas à exploração, utilização e investigação das pescas e dos recursos vivos aquáticos, bem como das actividades conexas.
+Art. 4.º - 1. São extintas todas as organizações estatais e paraestatais, às quais estavam atribuídas funções de direcção, administração, regulamentação, fomento e disciplina, relativas à exploração, utilização e investigação das pescas e dos recursos vivos aquáticos, bem como das actividades conexas.
 
 2. A competência das organizações extintas é transferida para os serviços da Secretaria de Estado das Pescas, nos termos a estabelecer em decreto do Secretário de Estado das Pescas, o qual determinará igualmente a data efectiva da extinção daquelas organizações.
 
@@ -152,16 +183,16 @@ c) Da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático.
 
 4. O pessoal das organizações extintas transita para os novos serviços, mediante despacho do Secretário de Estado das Pescas, tendo em conta os princípios gerais a observar, em ordem a assegurar a sua competência profissional e o necessário saneamento dos respectivos serviços.
 
-###### Art. 5.º Enquanto não se verificar a extinção das organizações da pesca nos termos previstos no artigo 4.º deste diploma, os serviços respectivos funcionarão na dependência das entidades especialmente designadas para o efeito pelo Ministro da Coordenação Económica, em despacho.
+Art. 5.º Enquanto não se verificar a extinção das organizações da pesca nos termos previstos no artigo 4.º deste diploma, os serviços respectivos funcionarão na dependência das entidades especialmente designadas para o efeito pelo Ministro da Coordenação Económica, em despacho.
 
-###### Art. 6.º As despesas resultantes da execução do presente diploma serão suportadas de conta de verbas adequadas a inscrever no actual orçamento do Ministério da Economia.
+Art. 6.º As despesas resultantes da execução do presente diploma serão suportadas de conta de verbas adequadas a inscrever no actual orçamento do Ministério da Economia.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor.
+Art. 7.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida.
 
-**Promulgado em 28 de Maio de 1974.**
+Promulgado em 28 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/69-1972-398794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b00c21829a38c20f025b849203933adb48900046e032fe3bbdeed8f0d19f39f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b44c95d4a5f848d8289b1943ad1d282629430c3732e0cfa4b1f785f0b050f223
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:08Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +92,14 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo Decreto n.º 46457, publicado no Diário do Governo, 1.ª série, n.º 166, de 27 de Julho de 1965, uma parcela de terreno baldio do perímetro florestal da Boalhosa, com a superfície de cerca de 10 ha, e restituída à administração da Junta de Freguesia de Fontoura, a fim de, com o produto da sua alienação, proceder a diversos melhoramentos locais.
+Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo Decreto n.º 46457, publicado no Diário do Governo, 1.ª série, n.º 166, de 27 de Julho de 1965, uma parcela de terreno baldio do perímetro florestal da Boalhosa, com a superfície de cerca de 10 ha, e restituída à administração da Junta de Freguesia de Fontoura, a fim de, com o produto da sua alienação, proceder a diversos melhoramentos locais.
 
-###### Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Fontoura proceder à sua demarcação de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Fontoura proceder à sua demarcação de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 22 de Fevereiro de 1972.**
+Promulgado em 22 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

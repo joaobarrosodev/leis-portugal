@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43176-1960-514872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1ebbda9da66d3a432606ef2f488734b10bca394bfeadd34c6a1b7d039011b31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a08bfd056139388fe2ed477a56d3b4061739fe5ef494ded9e3852a786a718efa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Horta
+- Imposto Mineiro e de Águas Minerais
+- Isenção Fiscal
+- Junta Geral
+relationships:
+- type: cites
+  target: pt:dre:182405:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:36Z'
   warnings: []
   errors: []
 ---
@@ -91,8 +100,8 @@ Considerando que as juntas gerais desses distritos são, segundo aquela sua lei 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Fica isenta dos impostos de águas minerais a Junta Geral do Distrito Autónomo da Horta pela exploração das nascentes denominadas «Termas do Varadouro», situadas na freguesia de Capelo, do concelho e distrito da Horta, Açores, concedida pelo alvará n.º 5075, de 7 de Março de 1953, publicado no Diário do Governo n.º 181, 3.ª série, de 4 de Agosto do mesmo ano.
+Artigo único. Fica isenta dos impostos de águas minerais a Junta Geral do Distrito Autónomo da Horta pela exploração das nascentes denominadas «Termas do Varadouro», situadas na freguesia de Capelo, do concelho e distrito da Horta, Açores, concedida pelo alvará n.º 5075, de 7 de Março de 1953, publicado no Diário do Governo n.º 181, 3.ª série, de 4 de Agosto do mesmo ano.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

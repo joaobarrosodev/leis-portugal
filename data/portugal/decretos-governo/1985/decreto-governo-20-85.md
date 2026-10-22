@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/20-1985-182673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 938f957365e03e5f7488ccaf552c89c8aaf5ce785acbffd1ced824a983615a83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79fc5bc2443f878e78940f9a1f4b90527bf33af87f73c131efb3453ac42dd748
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Espinho
+- Instalação Militar
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:04Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações militares sitas na freguesia de Paramos, do concelho de Espinho, abrangendo duas zonas distintas:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações militares sitas na freguesia de Paramos, do concelho de Espinho, abrangendo duas zonas distintas:
 
 1) Uma primeira zona limitada da seguinte forma:
 
@@ -117,7 +136,7 @@ d) A oeste, acompanhando a orla marítima até encontrar os limites do prédio d
 
 3) As áreas de terreno correspondentes a arruamentos previstos entre parcelas, bem como as dos troços da estrada do Vouga, do Caminho Velho ou Caminho do Mar e do Caminho da Praia, todas elas encravadas no prédio do Estado afecto ao Exército e pertencentes à junta de Freguesia de Paramos, as quais vão assinaladas na carta topográfica a que se refere o artigo 7.º deste diploma, estão, para todos os efeitos, incluídas na primeira zona de servidão militar, descrita no n.º 1) deste artigo.
 
-###### Art. 2.º As áreas descritas nos n.os 1) e 3) do artigo anterior ficam sujeitas à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Junho de 1955, sendo proibida, sem licença devidamente condicionada da autoridade competente, a execução dos trabalhos e ou as actividades seguintes:
+Art. 2.º As áreas descritas nos n.os 1) e 3) do artigo anterior ficam sujeitas à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Junho de 1955, sendo proibida, sem licença devidamente condicionada da autoridade competente, a execução dos trabalhos e ou as actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -141,7 +160,7 @@ j) Movimento ou permanência de peões, de semoventos e de veículos nas áreas 
 
 l) Quaisquer outros trabalhos ou actividades que possam, inequivocamente, afectar a segurança e ou eficiência da navegação aérea e das instalações militares ou de apoio à aviação civil.
 
-###### Art. 3.º A área descrita no n.º 2) do artigo 1.º fica sujeita à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença devidamente condicionada da autoridade competente, a execução dos trabalhos e ou as actividades seguintes:
+Art. 3.º A área descrita no n.º 2) do artigo 1.º fica sujeita à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença devidamente condicionada da autoridade competente, a execução dos trabalhos e ou as actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -155,13 +174,13 @@ e) Instalação de linhas de energia eléctrica, ou de ligações telegráficas 
 
 f) Quaisquer outros trabalhos ou actividades que possam, inequivocamente, afectar a segurança e ou a eficiência da navegação aérea e das instalações militares ou de apoio à aviação civil.
 
-###### Art. 4.º Na segunda zona de servidão militar, descrita no n.º 2) do artigo 1.º, são dispensadas de licença as construções cuja altura não exceda um piso.
+Art. 4.º Na segunda zona de servidão militar, descrita no n.º 2) do artigo 1.º, são dispensadas de licença as construções cuja altura não exceda um piso.
 
-###### Art. 5.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas autorizações, incumbe ao comando, chefia ou direcção das unidades ou estabelecimentos militam ali instalados, ao comando da Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
+Art. 5.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas autorizações, incumbe ao comando, chefia ou direcção das unidades ou estabelecimentos militam ali instalados, ao comando da Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
 
-###### Art. 6.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
+Art. 6.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
 
-###### Art. 7.º As áreas descritas no artigo 1.º serão demarcadas em planta, na escala de 1/2000, com a classificação de «Reservado», da qual se destinam cópias a cada um dos seguintes departamentos:
+Art. 7.º As áreas descritas no artigo 1.º serão demarcadas em planta, na escala de 1/2000, com a classificação de «Reservado», da qual se destinam cópias a cada um dos seguintes departamentos:
 
 1) Uma ao Ministério da Defesa Nacional;
 
@@ -179,14 +198,14 @@ f) Quaisquer outros trabalhos ou actividades que possam, inequivocamente, afecta
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Carlos Montez Melancia.
 
-**Assinado em 26 de Junho de 1985.**
+Assinado em 26 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15600/19171921.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15600/19171921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15600/19171921.pdf)

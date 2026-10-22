@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1972-291672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c33dcee049616759f542a9a526c1e1abb2ce4d121ea2a0e916cc44281419dd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f0c0e751ce7825078a679528b6d0e0e3db001f9f25dc1cb522ff332b15fc637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:46Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição
 
 Usando da faculdade conferida pela parte final do § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O quadro comum do ciclo preparatório do ensino secundário do ultramar é acrescido com os seguintes lugares de professor destinados às escolas preparatórias de Angola:
+Artigo 1.º O quadro comum do ciclo preparatório do ensino secundário do ultramar é acrescido com os seguintes lugares de professor destinados às escolas preparatórias de Angola:
 
 1.º grupo ... 157
 
@@ -103,14 +103,14 @@ Usando da faculdade conferida pela parte final do § 1.º do artigo 136.º da Co
 
 5.º grupo ... 43
 
-###### Art. 2.º A execução deste decreto fica condicionada pela existência de disponibilidades financeiras.
+Art. 2.º A execução deste decreto fica condicionada pela existência de disponibilidades financeiras.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Dezembro de 1971.**
+Promulgado em 30 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

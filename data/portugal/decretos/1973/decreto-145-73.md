@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/145-1973-675653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa81ea6182a1c79032f90756cdd69ebfc233c030c95991ccd59a68c5dc38dd8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a2f413ee5da878e203b329c58732dac92b0f1ee130c3915ca9c641ff98534aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:42Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +93,13 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Estado Português de Angola a contrair no Instituto de Crédito de Angola um empréstimo até ao montante de 170000 contos.
+Artigo 1.º - 1. É autorizado o Estado Português de Angola a contrair no Instituto de Crédito de Angola um empréstimo até ao montante de 170000 contos.
 
 2. Este empréstimo será objecto de contrato a celebrar entre o Governador-Geral do Estado Português de Angola, em representação daquele Estado, e o Instituto de Crédito de Angola, nas condições que vierem a ser acordadas entre si.
 
 3. No orçamento geral do Estado Português de Angola serão inscritas, em cada ano, as verbas necessárias à liquidação de todos os encargos com este empréstimo.
 
-###### Art. 2.º - 1. É autorizada a Junta Autónoma de Estradas de Angola a contrair no Instituto de Crédito de Angola um empréstimo até ao montante de 130000 contos, destinado a ser integralmente aplicado no financiamento de obras rodoviárias, empreendimento este que se enquadra no III Plano de Fomento.
+Art. 2.º - 1. É autorizada a Junta Autónoma de Estradas de Angola a contrair no Instituto de Crédito de Angola um empréstimo até ao montante de 130000 contos, destinado a ser integralmente aplicado no financiamento de obras rodoviárias, empreendimento este que se enquadra no III Plano de Fomento.
 
 2. As condições do contrato de empréstimo celebrado ao abrigo do número anterior ficam sujeitas à aprovação do Governador-Geral do Estado Português de Angola.
 
@@ -107,10 +107,10 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Março de 1973.**
+Promulgado em 24 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

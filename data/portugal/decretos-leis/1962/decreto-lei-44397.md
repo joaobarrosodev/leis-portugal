@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44397-1962-164857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e62ad9d7dce365b50a135dcd0b4db1c37ba6f4ae7cbe4178e704ef70519bb8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37ac15bb9607a3e5c47f0afde78459ed4eed3416a90935d00b97df2f61d14243
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Estudos Especiais da Armada
+- Criação de Lugares
+- Escola Naval
+- Ministério da Marinha
+- Pessoal Técnico
+relationships:
+- type: cites
+  target: pt:dre:185081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369406:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:06Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +110,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No mapa I anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, são aumentados os lugares seguintes:
+Artigo 1.º No mapa I anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, são aumentados os lugares seguintes:
 
 O) Pessoal de outras categorias:
 
@@ -103,18 +120,18 @@ O) Pessoal de outras categorias:
 
 § único. O preenchimento do lugar de técnico investigador será feito por escolha do Ministro da Marinha, de entre indivíduos que se reconheça possuírem conhecimentos profundos das matérias especializadas de que o Centro de Estudos Especiais da Armada trata.
 
-###### Art. 2.º São integradas nos grupos de vencimentos do mapa II anexo ao diploma referido no corpo do artigo anterior as seguintes categorias:
+Art. 2.º São integradas nos grupos de vencimentos do mapa II anexo ao diploma referido no corpo do artigo anterior as seguintes categorias:
 
 I - Técnico investigador.
 
 R - Preparador.
 
-###### Art. 3.º Para efeitos de provimento, os lugares criados consideram-se incluídos na alínea b) do artigo 6.º do [Decreto-Lei n.º 37187](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37187-1948-369406), de 24 de Novembro de 1948.
+Art. 3.º Para efeitos de provimento, os lugares criados consideram-se incluídos na alínea b) do artigo 6.º do [Decreto-Lei n.º 37187](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37187-1948-369406), de 24 de Novembro de 1948.
 
 § único. Se o indivíduo a escolher para o lugar de técnico investigador for já funcionário de nomeação vitalícia, ser-lhe-á mantida esta forma de provimento.
 
-###### Art. 4.º No ano em curso o encargo resultante da execução do presente diploma é suportado pela verba para tal fim aditada à dotação inscrita no capítulo 5.º, artigo 176.º, n.º 1), do orçamento de despesa do Ministério da Marinha em vigor.
+Art. 4.º No ano em curso o encargo resultante da execução do presente diploma é suportado pela verba para tal fim aditada à dotação inscrita no capítulo 5.º, artigo 176.º, n.º 1), do orçamento de despesa do Ministério da Marinha em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

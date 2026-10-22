@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1971-632745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84cafce6d35a65aa5f75680fe42cc729aac2d1ee0d8d0d1e8c1d132319577145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81df1833aa10f24347ef7309d99e6f97c9659f3f66ad0f3e34358078019b65dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo Nacional de Abono de Família
+- Gestão Financeira
+- Receita Própria
+- Receita Pública
 relationships:
 - type: amended_by
   target: pt:dre:310859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:264491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310859:por
+  label: "Revogado o nº 3 do art. 2º do Dec Lei 48588 de 23-Set de 1968, com a redacção constante deste diploma, pelo DEC\
+    \ LEI.89/83.12.02.1983.MAS, DR.IS [36] de 12.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1983-310859
+  date: '1983-02-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:05Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +114,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O corpo do artigo 2.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, passa a ter seguinte redacção:
+Artigo 1.º O corpo do artigo 2.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, passa a ter seguinte redacção:
 
 Constituem receitas do Fundo:
 
@@ -120,20 +134,20 @@ Constituem receitas do Fundo:
 
 8.º Outros rendimentos, donativos ou auxílios não proibidos por lei.
 
-###### Art. 2.º O § 2.º do artigo 2.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, passa a ter a seguinte redacção:
+Art. 2.º O § 2.º do artigo 2.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, passa a ter a seguinte redacção:
 
 As importâncias referidas no n.º 3 deste artigo serão depositadas pelas entidades patronais na Caixa Geral de Depósitos, Crédito e Previdência, suas filiais, agências ou delegações do distrito a que pertencerem essas entidades patronais ou os serviços delas dependentes que tenham dado causa à prestação do trabalho, à ordem do F. N. A. F. e mediante guias em quadruplicado do modelo A anexo a este decreto-lei, até ao dia 20 do mês seguinte àquele a que respeita o trabalho prestado, salvos casos excepcionais, devidamente justificados, em que poderá ser autorizada pelo Ministro das Corporações e Previdência Social a prorrogação daquele prazo.
 
-###### Art. 3.º As receitas do Fundo Nacional do Abono de Família previstas no n.º 3 do artigo 2.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, com a redacção que lhes é dada pelo artigo 1.º do presente diploma, são da exclusiva responsabilidade das entidades patronais e não podem ser por estas deduzidas nas retribuições a que os trabalhadores tenham direito.
+Art. 3.º As receitas do Fundo Nacional do Abono de Família previstas no n.º 3 do artigo 2.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, com a redacção que lhes é dada pelo artigo 1.º do presente diploma, são da exclusiva responsabilidade das entidades patronais e não podem ser por estas deduzidas nas retribuições a que os trabalhadores tenham direito.
 
-###### Art. 4.º Na guia do modelo A anexo ao [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, a rubrica correspondente ao n.º 3 passa a ter a seguinte designação:
+Art. 4.º Na guia do modelo A anexo ao [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, a rubrica correspondente ao n.º 3 passa a ter a seguinte designação:
 
 Contribuições (25 por cento da retribuição normal do trabalho, pela prestação de trabalho extraordinário).
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Setembro de 1971.**
+Promulgado em 22 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1980-470819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0450bc6425da7bd68676b23541a686240afa1eb83f139d40e3bf5a672819f50c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 691940bcdc1e8f51680e6214d6b47759d30158c19bbaf05e7a8e788f49d55ea6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Delegação Regional
+- Extinção de Serviços
+- Funchal
+- Inspecção do Trabalho
+- Madeira.região Autónoma
+- Ministério do Trabalho
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:329444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:22Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +112,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Região Autónoma da Madeira as atribuições e competências que, no âmbito da Inspecção do Trabalho, cabem, naquela Região, ao Ministério do Trabalho.
+Artigo 1.º São transferidas para a Região Autónoma da Madeira as atribuições e competências que, no âmbito da Inspecção do Trabalho, cabem, naquela Região, ao Ministério do Trabalho.
 
-###### Art. 2.º É extinta a delegação da Inspecção do Trabalho do Funchal, transitando as suas atribuições para o organismo a criar no âmbito da Região Autónoma da Madeira.
+Art. 2.º É extinta a delegação da Inspecção do Trabalho do Funchal, transitando as suas atribuições para o organismo a criar no âmbito da Região Autónoma da Madeira.
 
-###### Art. 3.º - 1 - O pessoal do Ministério do Trabalho adstrito aos serviços extintos e que desempenha funções na Região Autónoma da Madeira, qualquer que seja a sua forma de provimento, será integrado, se o desejar, no quadro de pessoal dos serviços dependentes da Secretaria Regional do Trabalho, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no mesmo lugar, o tempo de serviço prestado no seu actual cargo.
+Art. 3.º - 1 - O pessoal do Ministério do Trabalho adstrito aos serviços extintos e que desempenha funções na Região Autónoma da Madeira, qualquer que seja a sua forma de provimento, será integrado, se o desejar, no quadro de pessoal dos serviços dependentes da Secretaria Regional do Trabalho, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no mesmo lugar, o tempo de serviço prestado no seu actual cargo.
 
 2 - A integração e a colocação previstas no n.º 1 deste artigo serão efectuadas independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República e no Jornal Oficial da Região Autónoma da Madeira.
 
@@ -105,30 +124,30 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os funcionários mencionados no n.º 1 que venham a ser integrados nos quadros dos serviços da Região Autónoma da Madeira e que ao aposentarem-se pretendam fixar residência no continente manterão os direitos consignados no que se refere a transporte de pessoas e bens.
 
-###### Art. 4.º O Ministério do Trabalho prestará, na medida das suas possibilidades, apoio técnico aos serviços ora regionalizados, a solicitação expressa do Governo Regional, através do Ministro da República para a Madeira.
+Art. 4.º O Ministério do Trabalho prestará, na medida das suas possibilidades, apoio técnico aos serviços ora regionalizados, a solicitação expressa do Governo Regional, através do Ministro da República para a Madeira.
 
-###### Art. 5.º A administração dos bens e património em geral afectos aos serviços extintos por força do disposto no artigo 2.º transita para o Governo Regional, mediante simples inventário.
+Art. 5.º A administração dos bens e património em geral afectos aos serviços extintos por força do disposto no artigo 2.º transita para o Governo Regional, mediante simples inventário.
 
-###### Art. 6.º - 1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de inspecção de trabalho.
+Art. 6.º - 1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de inspecção de trabalho.
 
 2 - As formas de cooperação entre as entidades referidas no número anterior serão definidas em protocolo.
 
-###### Art. 7.º As atribuições dos serviços de inspecção de trabalho a criar na Região Autónoma da Madeira e as competências dos seus funcionários são as constantes do [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março, e de outros diplomas legais subsequentes, sem prejuízo das adaptações decorrentes da regionalização efectuada.
+Art. 7.º As atribuições dos serviços de inspecção de trabalho a criar na Região Autónoma da Madeira e as competências dos seus funcionários são as constantes do [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março, e de outros diplomas legais subsequentes, sem prejuízo das adaptações decorrentes da regionalização efectuada.
 
-###### Art. 8.º - 1 - A partir de 1 de Janeiro de 1981 as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
+Art. 8.º - 1 - A partir de 1 de Janeiro de 1981 as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
 
 2 - Até 31 de Dezembro de 1980, o orçamento da Inspecção do Trabalho continuará a suportar os encargos que eram cometidos a estes serviços no âmbito da Região Autónoma da Madeira.
 
-###### Art. 9.º Ficam revogados os n.os 2 e 3 do artigo 5.º e o n.º 3 do artigo 6.º do [Decreto-Lei n.º 294/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1978-329444), de 22 de Setembro.
+Art. 9.º Ficam revogados os n.os 2 e 3 do artigo 5.º e o n.º 3 do artigo 6.º do [Decreto-Lei n.º 294/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1978-329444), de 22 de Setembro.
 
-###### Art. 10.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro do Trabalho, ouvido o Governo da Região.
+Art. 10.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro do Trabalho, ouvido o Governo da Região.
 
-###### Art. 11.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 4 de Agosto de 1980.**
+Promulgado em 4 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/25300/36863697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,145 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1980-457673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce4e1be3f6a60c88891959b114318864d6ad5a9f5d7b6c25f58b05f85ae6b877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f4ad82e6504bf2f30d8f52953fc729579a9783aa5cea6addea779118717cb1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Departamento Central de Planeamento
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:146565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:458256:por
+  label: "Alterado o quadro do pessoal pela PORT.981/80.14.11.1980.PCM, DR.IS [264] de 14.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/981-1980-458256
+  date: '1980-11-14'
+- type: amended_by
+  target: pt:dre:458212:por
+  label: "Alterado o quadro do pessoal pela PORT.995/80.20.11.1980.PCM, DR.IS [269] de 20.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/995-1980-458212
+  date: '1980-11-20'
+- type: amended_by
+  target: pt:dre:573693:por
+  label: "Aumentado um lugar de segundo-oficial ao quadro de pessoal aprovado pelo presente diploma, pela PORT.402/81.20.05.1981.MFP,\
+    \ DR.IS [115] de 20.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-1981-573693
+  date: '1981-05-20'
+- type: amended_by
+  target: pt:dre:376254:por
+  label: "Criado um lugar de assessor no quadro de pessoal, pela PORT.1000/82.26.10.1982.MFP, DR.IS [248] de 26.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1000-1982-376254
+  date: '1982-10-26'
+- type: amended_by
+  target: pt:dre:328436:por
+  label: "Alterado o Quadro de pessoal pela PORT.47/85.1985.01.24.PCM, DR.IS [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-1985-328436
+  date: '1985-01-24'
+- type: amended_by
+  target: pt:dre:151561:por
+  label: "Criado lugares no quadro de pessoal anexo pela PORT.288/85.16.05.1985.PCM, DR.IS [112] de 16.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-1985-151561
+  date: '1985-05-16'
+- type: amended_by
+  target: pt:dre:221711:por
+  label: "Alargada a área de recrutamento para provimento do lugar de chefe da Divisão de Organização e Gestão de Pessoal\
+    \ do Departamento Central de Planeamentodo aprovado pelo presente diploma, pela PORT.564/86.01.10.1986.MF, DR.IS [226]\
+    \ de 01.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-1986-221711
+  date: '1986-10-01'
+- type: amended_by
+  target: pt:dre:313775:por
+  label: "Transferidas para a Direcção-Geral de Contribuições e Impostos as competências em matéria de acompanhamento e gestão\
+    \ do sistema integrado de incentivos ao investimento (SIII) , criado pelo Dec Lei 194/80 de 19-Jun, conferidas ao Departamento\
+    \ Central de Planeamento do Ministério do Planeamento e da Administração do Território, cuja orgânica e competências constam\
+    \ do presente diploma, pelo DEC LEI.17/90.11.01.1990.MF, DR.IS [[9]] de 11.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1990-313775
+  date: '1990-01-11'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146565:por
+  label: "Revogado pelo DEC LEI.4/95.1995.01.17.MPLAT, DR.IS-A [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-1995-146565
+  date: '1995-01-17'
 article_structure:
   article_count: 46
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:03Z'
   warnings: []
   errors: []
 ---
@@ -754,12 +859,12 @@ O presente diploma entrará em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 21 de Outubro de 1980.**
+Promulgado em 21 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/25300/36863697.pdf))](https://files.diariodarepublica.pt/1s/1980/10/25300/36863697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/25300/36863697.pdf)

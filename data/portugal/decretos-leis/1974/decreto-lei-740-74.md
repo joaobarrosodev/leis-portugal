@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 299/1974, 1º Suplemento, Série I de 1974-12-26
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1622-(1) a 1622-(108)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf
 entry_into_force_dates: []
@@ -47,40 +47,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3f8d383ecc1f46e2cfbae5bed194b55623a83dd86b05d2caa96e5a38d003232
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d261d780c6e1bb2c7d19356534f4229c4b8e01be41a6651c6421034ba55714a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Normas de Segurança
+- Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas
+- Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:537249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502185:por
+  label: "Alterados os n.ºs 1 e 2 do artigo 4.º, o artigo 5.º e 6.º, o n.º 1 do artigo 9.º, e revogado o n.º 3 do artigo 8.º,\
+    \ pelo DEC LEI.303/76.26.04.1976.MIT, DR.IS [98] de 26.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1976-502185
+  date: '1976-04-26'
+- type: amended_by
+  target: pt:dre:396518:por
+  label: "Alterados os arts. 3º, 4º e revogado o art. 5º do Regulamento da Segurança de Instalações Colectivas de Edifícios\
+    \ e Entradas, pelo DR.90/84.1984.12.26.MIE, DR.IS [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/90-1984-396518
+  date: '1984-12-26'
+- type: amended_by
+  target: pt:dre:332708:por
+  label: Alterado o art. 6.º do presente diploma, na redacção do Dec Lei 303/76 de 26-abr, pelo DEC LEI.77/90.12.03.1990.MPLAT,
+    DR.IS [59] de 12.03.1990.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1990-332708
+  date: '1990-03-12'
+- type: cites
+  target: pt:dre:138978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657835:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468999:por
+  label: "Revogado o art. 1º e os Regulamentos anexos ao presente diploma, a partir da data da publicação da portaria referida\
+    \ no nº 1 do art. 2º, pelo DEC LEI.226/2005.28.12.2005.MEI, DR.IS-A [248] de 28.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2005-468999
+  date: '2005-12-28'
+- type: repealed_by
+  target: pt:dre:537249:por
+  label: "Revogado o artigo 20.º do presente diploma, pela LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
 article_structure:
-  article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:58Z'
   warnings: []
   errors: []
 ---
@@ -111,19 +178,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O estabelecimento e a exploração das instalações de utilização de energia eléctrica e das instalações colectivas de edifícios e entradas deverão obedecer às disposições dos Regulamentos de Segurança anexos a este decreto-lei, que dele fazem parte integrante, e baixam assinados pelo Secretário de Estado da Indústria e Energia.
+Artigo 1.º - 1. O estabelecimento e a exploração das instalações de utilização de energia eléctrica e das instalações colectivas de edifícios e entradas deverão obedecer às disposições dos Regulamentos de Segurança anexos a este decreto-lei, que dele fazem parte integrante, e baixam assinados pelo Secretário de Estado da Indústria e Energia.
 
 2. Nas instalações existentes, a fiscalização do Governo terá a faculdade de impor, de acordo com os preceitos dos novos Regulamentos, a execução das modificações ou adaptações que se tornarem necessárias para a segurança das pessoas ou da exploração.
 
 3. As alterações que hajam de introduzir-se nos regulamentos anexos serão aprovadas por decreto regulamentar.
 
-###### Art. 2.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, os edifícios novos deverão ser dotados de instalações de utilização de energia eléctrica, incluindo as destinadas a alimentar os respectivos serviços comuns, de entradas e instalações colectivas e, ainda, do correspondente ramal ou chegada.
+Art. 2.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, os edifícios novos deverão ser dotados de instalações de utilização de energia eléctrica, incluindo as destinadas a alimentar os respectivos serviços comuns, de entradas e instalações colectivas e, ainda, do correspondente ramal ou chegada.
 
 2. Para os edifícios a que se refere o número anterior e cuja potência total, calculada de acordo com os regulamentos de segurança aplicáveis, exceder 20 kVA, com o respectivo pedido de licença de construção deverá ser apresentado um projecto das suas instalações eléctricas, de cuja aprovação dependerá a concessão daquela licença.
 
-###### Art. 3.º Em localidades servidas por rede pública de distribuição de energia eléctrica, para os edifícios existentes à data da publicação deste decreto-lei, e dotados de instalações eléctricas, em que se verifiquem obras de ampliação, modificação ou renovação observar-se-á o disposto no n.º 2 do artigo 2.º se a potência total, incluindo a correspondente às alterações nas respectivas instalações eléctricas, exceder o valor indicado nesse número.
+Art. 3.º Em localidades servidas por rede pública de distribuição de energia eléctrica, para os edifícios existentes à data da publicação deste decreto-lei, e dotados de instalações eléctricas, em que se verifiquem obras de ampliação, modificação ou renovação observar-se-á o disposto no n.º 2 do artigo 2.º se a potência total, incluindo a correspondente às alterações nas respectivas instalações eléctricas, exceder o valor indicado nesse número.
 
-###### Art. 4.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios existentes à data da publicação deste decreto-lei e dotados de instalações eléctricas, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, e as correspondentes entradas e instalações colectivas que não obedeçam às disposições dos Regulamentos de Segurança anexos a este decreto-lei, bem assim como o respectivo ramal ou chegada, deverão ser modificadas em conformidade no prazo de dez anos.
+Art. 4.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios existentes à data da publicação deste decreto-lei e dotados de instalações eléctricas, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, e as correspondentes entradas e instalações colectivas que não obedeçam às disposições dos Regulamentos de Segurança anexos a este decreto-lei, bem assim como o respectivo ramal ou chegada, deverão ser modificadas em conformidade no prazo de dez anos.
 
 2. Os distribuidores de energia deverão organizar, até noventa dias após a data da publicação deste decreto-lei, um plano para efectuar um serviço de vistorias das instalações ligadas à sua rede de distribuição e de notificação aos proprietários dos edifícios e seus inquilinos por forma que, em cada ano, sejam remodeladas 1/10 dessas instalações. Esse plano deverá ser aprovado pela fiscalização do Governo antes de ser posto em execução.
 
@@ -133,7 +200,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 5. Quando se verificar qualquer alteração da potência contratada, considerar-se-á expirado o prazo fixado no n.º 1, pelo que não se poderá realizar a alteração do respectivo contrato de fornecimento sem ter sido dado cumprimento ao disposto nesse número.
 
-###### Art. 5.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios existentes à data da publicação deste decreto-lei e não dotados de instalações eléctricas, deverão ser estabelecidas, no prazo de um ano, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, as correspondentes entradas e instalações colectivas, bem assim como o respectivo ramal ou chegada.
+Art. 5.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios existentes à data da publicação deste decreto-lei e não dotados de instalações eléctricas, deverão ser estabelecidas, no prazo de um ano, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, as correspondentes entradas e instalações colectivas, bem assim como o respectivo ramal ou chegada.
 
 2. Quando se verificar mudança de inquilino, considerar-se-á expirado o prazo fixado no número anterior, pelo que não se poderá realizar qualquer novo arrendamento sem ter sido dado cumprimento ao disposto nesse número.
 
@@ -149,9 +216,9 @@ Em concelhos rurais de 2.ª e 3.ª ordem ... 1500$00
 
 5. Os valores indicados no número anterior poderão ser alterados por portaria do Secretário de Estado da Indústria e Energia.
 
-###### Art. 6.º As instalações eléctricas dos edifícios novos não poderão ser ligadas à rede pública de distribuição se estes não possuírem a respectiva licença municipal de construção.
+Art. 6.º As instalações eléctricas dos edifícios novos não poderão ser ligadas à rede pública de distribuição se estes não possuírem a respectiva licença municipal de construção.
 
-###### Art. 7.º As modificações que por força deste decreto-lei hajam de fazer-se nas instalações existentes competirão:
+Art. 7.º As modificações que por força deste decreto-lei hajam de fazer-se nas instalações existentes competirão:
 
 a) Ao distribuidor, em tudo que respeite à rede pública de distribuição;
 
@@ -161,7 +228,7 @@ c) Ao proprietário do edifício, em tudo que respeite a instalações de utiliz
 
 d) Ao inquilino, em tudo que respeite a instalações de utilização que lhe pertençam.
 
-###### Art. 8.º - 1. Os encargos resultantes da aplicação do disposto nas alíneas a) e b) do artigo 7.º serão suportados pelo proprietário do edifício e pelo distribuidor nas percentagens a fixar por portaria do Secretário de Estado da Indústria e Energia, na qual se estabelecerão igualmente as respectivas modalidades de pagamento.
+Art. 8.º - 1. Os encargos resultantes da aplicação do disposto nas alíneas a) e b) do artigo 7.º serão suportados pelo proprietário do edifício e pelo distribuidor nas percentagens a fixar por portaria do Secretário de Estado da Indústria e Energia, na qual se estabelecerão igualmente as respectivas modalidades de pagamento.
 
 2. As despesas referidas no número anterior deverão ser devidamente comprovadas pelo proprietário do edifício e pelo distribuidor, podendo, em caso de dúvida, ser feita reclamação para a fiscalização do Governo.
 
@@ -169,7 +236,7 @@ d) Ao inquilino, em tudo que respeite a instalações de utilização que lhe pe
 
 4. Em caso de demolição de um edifício cessarão todas as obrigações do distribuidor no que se refere às chegadas e troços comuns de chegadas.
 
-###### Art. 9.º - 1. Para os edifícios a que se referem os n.os 1 e 3 do artigo 5.º, pelos encargos assumidos pelo proprietário poderá este cobrar dos inquilinos uma importância não superior a 10% ao ano das despesas efectuadas, dividida em duodécimos.
+Art. 9.º - 1. Para os edifícios a que se referem os n.os 1 e 3 do artigo 5.º, pelos encargos assumidos pelo proprietário poderá este cobrar dos inquilinos uma importância não superior a 10% ao ano das despesas efectuadas, dividida em duodécimos.
 
 2. O inquilino poderá satisfazer de uma só vez as despesas efectuadas pelo proprietário, referidas no número anterior.
 
@@ -181,39 +248,39 @@ d) Ao inquilino, em tudo que respeite a instalações de utilização que lhe pe
 
 6. Os valores referidos no n.º 1 considerar-se-ão, para todos os efeitos legais, como parte integrante da renda.
 
-###### Art. 10.º - 1. O proprietário de um edifício não poderá opor-se a eventuais alterações das instalações de utilização dos inquilinos e das entradas e instalações colectivas para satisfazer aumentos de potência nessas instalações, mesmo para além dos valores mínimos fixados nos Regulamentos anexos a este decreto-lei.
+Art. 10.º - 1. O proprietário de um edifício não poderá opor-se a eventuais alterações das instalações de utilização dos inquilinos e das entradas e instalações colectivas para satisfazer aumentos de potência nessas instalações, mesmo para além dos valores mínimos fixados nos Regulamentos anexos a este decreto-lei.
 
 2. Os encargos resultantes das alterações referidas no número anterior, no que se refere a entradas e instalações colectivas, serão suportados pelos inquilinos que requisitarem os aumentos de potência, sendo-lhes aplicável o disposto nos n.os 1 e 2 do artigo 9.º
 
-###### Art. 11.º - 1. Em caso de rescisão do contrato de arrendamento, os inquilinos não poderão levantar, na parte que constitua benfeitoria útil, as instalações de utilização por si estabelecidas, se o proprietário as quiser.
+Art. 11.º - 1. Em caso de rescisão do contrato de arrendamento, os inquilinos não poderão levantar, na parte que constitua benfeitoria útil, as instalações de utilização por si estabelecidas, se o proprietário as quiser.
 
 2. O proprietário pagará ao inquilino, no momento da entrega, o seu valor fixado por comum acordo, ou, na falta deste, o valor fixado pelo respectivo distribuidor, havendo recurso para a fiscalização do Governo.
 
 3. Para efeito do disposto no n.º 1, não serão consideradas benfeitorias úteis os aparelhos de utilização de energia eléctrica.
 
-###### Art. 12.º - 1. A exploração e conservação das entradas e instalações colectivas ficarão a cargo do distribuidor.
+Art. 12.º - 1. A exploração e conservação das entradas e instalações colectivas ficarão a cargo do distribuidor.
 
 2. As entradas e instalações colectivas existentes à data da publicação deste decreto-lei passarão a ser exploradas e conservadas pelo distribuidor apenas depois de ter sido dado cumprimento ao disposto nos artigos 4.º e 5.º
 
-###### Art. 13.º Nas instalações de utilização alimentadas por uma rede pública de distribuição de energia eléctrica, competirá ao distribuidor a instalação dos contadores e dos aparelhos de corte da entrada.
+Art. 13.º Nas instalações de utilização alimentadas por uma rede pública de distribuição de energia eléctrica, competirá ao distribuidor a instalação dos contadores e dos aparelhos de corte da entrada.
 
-###### Art. 14.º - 1. Os contratos de fornecimento de energia eléctrica poderão ser celebrados entre o distribuidor e o consumidor ou entre aquele e o proprietário, considerando-se este, em tal caso, solidariamente responsável com o consumidor perante o distribuidor e a fiscalização do Governo por todos os actos que respeitem à exploração da instalação.
+Art. 14.º - 1. Os contratos de fornecimento de energia eléctrica poderão ser celebrados entre o distribuidor e o consumidor ou entre aquele e o proprietário, considerando-se este, em tal caso, solidariamente responsável com o consumidor perante o distribuidor e a fiscalização do Governo por todos os actos que respeitem à exploração da instalação.
 
 2. Sempre que se dê mudança de inquilino e o contrato de fornecimento de energia não esteja em nome do proprietário, deverá este certificar-se de que o novo inquilino fez contrato em seu nome e, em caso negativo, notificar o distribuidor da mudança do inquilino, por meio de carta registada com aviso de recepção, dentro do prazo de quinze dias a contar da data do arrendamento, sob pena de ser abrangido pela responsabilidade a que se refere o número anterior.
 
 3. O distribuidor suspenderá o fornecimento de energia até à celebração do novo contrato, logo que tenha conhecimento da substituição do inquilino.
 
-###### Art. 15.º A pedido do proprietário do edifício, o distribuidor deverá informar este, no prazo de quinze dias, da potência de curto-circuito previsível no local.
+Art. 15.º A pedido do proprietário do edifício, o distribuidor deverá informar este, no prazo de quinze dias, da potência de curto-circuito previsível no local.
 
-###### Art. 16.º Apenas o pessoal técnico da fiscalização do Governo tem direito de quebrar quaisquer selos apostos pelo distribuidor nas instalações, devendo, no entanto, dar disso conhecimento a este.
+Art. 16.º Apenas o pessoal técnico da fiscalização do Governo tem direito de quebrar quaisquer selos apostos pelo distribuidor nas instalações, devendo, no entanto, dar disso conhecimento a este.
 
-###### Art. 17.º O valor e a forma de pagamento da taxa de ligação da instalação de utilização à entrada, incluindo a colocação do equipamento de contagem e do aparelho de corte, bem como a taxa de aluguer destes, que poderá ser cobrada pelo distribuidor, a cada consumidor em baixa tensão, serão fixados por portaria do Secretário de Estado da Indústria e Energia.
+Art. 17.º O valor e a forma de pagamento da taxa de ligação da instalação de utilização à entrada, incluindo a colocação do equipamento de contagem e do aparelho de corte, bem como a taxa de aluguer destes, que poderá ser cobrada pelo distribuidor, a cada consumidor em baixa tensão, serão fixados por portaria do Secretário de Estado da Indústria e Energia.
 
-###### Art. 18.º Além da taxa de ligação, do valor do ramal ou chegada e das compensações a pagar ao abrigo da [Lei n.º 2122](https://diariodarepublica.pt/dr/detalhe/lei/2122-1964-469238), de 14 de Janeiro de 1964, quando devidos, do depósito de garantia pelo consumo e das quantias devidas ao Estado, o distribuidor não poderá cobrar do consumidor outras importâncias a qualquer título, nomeadamente como emolumentos, impressos ou semelhantes.
+Art. 18.º Além da taxa de ligação, do valor do ramal ou chegada e das compensações a pagar ao abrigo da [Lei n.º 2122](https://diariodarepublica.pt/dr/detalhe/lei/2122-1964-469238), de 14 de Janeiro de 1964, quando devidos, do depósito de garantia pelo consumo e das quantias devidas ao Estado, o distribuidor não poderá cobrar do consumidor outras importâncias a qualquer título, nomeadamente como emolumentos, impressos ou semelhantes.
 
-###### Art. 19.º Os prazos fixados nos artigos 4.º e 5.º poderão ser prorrogados, em casos devidamente justificados, por despacho do Secretário de Estado da Indústria e Energia.
+Art. 19.º Os prazos fixados nos artigos 4.º e 5.º poderão ser prorrogados, em casos devidamente justificados, por despacho do Secretário de Estado da Indústria e Energia.
 
-###### Art. 20.º - 1. Qualquer infracção ao disposto neste decreto-lei ou nos Regulamentos anexos a este será punida com a multa de 200$00 a 5000$00, graduada de acordo com a gravidade dessa infracção.
+Art. 20.º - 1. Qualquer infracção ao disposto neste decreto-lei ou nos Regulamentos anexos a este será punida com a multa de 200$00 a 5000$00, graduada de acordo com a gravidade dessa infracção.
 
 2. Em caso de reincidência, as multas a que se refere o número anterior poderão ser elevadas ao dobro.
 
@@ -221,41 +288,41 @@ d) Ao inquilino, em tudo que respeite a instalações de utilização que lhe pe
 
 4. Sobre as multas fixadas neste diploma não incidirá qualquer adicional.
 
-###### Art. 21.º - 1. O distribuidor poderá suspender o fornecimento de energia ao consumidor que se recusar a permitir a entrada, entre as 10 e as 18 horas, no recinto ou local servido pela respectiva instalação de utilização, ao seu pessoal técnico ou ao da fiscalização do Governo devidamente identificado e acompanhado por um agente da autoridade.
+Art. 21.º - 1. O distribuidor poderá suspender o fornecimento de energia ao consumidor que se recusar a permitir a entrada, entre as 10 e as 18 horas, no recinto ou local servido pela respectiva instalação de utilização, ao seu pessoal técnico ou ao da fiscalização do Governo devidamente identificado e acompanhado por um agente da autoridade.
 
 2. O distribuidor poderá ainda suspender o fornecimento de energia aos consumidores cujas instalações de utilização ofereçam manifesto perigo para as pessoas, devendo disso dar imediato conhecimento à fiscalização do Governo.
 
-###### Art. 22.º As dúvidas que se suscitem na aplicação deste decreto-lei ou dos Regulamentos anexos serão resolvidas pela fiscalização do Governo, com recurso para o Secretário de Estado da indústria e Energia.
+Art. 22.º As dúvidas que se suscitem na aplicação deste decreto-lei ou dos Regulamentos anexos serão resolvidas pela fiscalização do Governo, com recurso para o Secretário de Estado da indústria e Energia.
 
-###### Art. 23.º Os artigos 4.º, 5.º, 7.º e 8.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão, aprovado pelo Decreto n.º 46847, de 27 de Janeiro de 1966, passam a ter a redacção constante dos artigos 3.º a 6.º do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas, anexo.
+Art. 23.º Os artigos 4.º, 5.º, 7.º e 8.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão, aprovado pelo Decreto n.º 46847, de 27 de Janeiro de 1966, passam a ter a redacção constante dos artigos 3.º a 6.º do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas, anexo.
 
-###### Art. 24.º Ficam revogados o [Decreto-Lei n.º 26869](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26869-1936-357563), de 8 de Agosto de 1936, o [Decreto n.º 28436](https://diariodarepublica.pt/dr/detalhe/decreto/28436-1938-230773), de 25 de Janeiro de 1938, o [Decreto n.º 29460](https://diariodarepublica.pt/dr/detalhe/decreto/29460-1939-424753), de 23 de Fevereiro de 1939, o [Decreto-Lei n.º 29782](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29782-1939-202384), de 27 de Julho de 1939, o despacho de 13 de Novembro de 1939 publicado no Diário do Governo, 1.ª série, n.º 272, de 21 de Novembro de 1939, o [Decreto n.º 30308](https://diariodarepublica.pt/dr/detalhe/decreto/30308-1940-196543), de 8 de Março de 1940, a [Portaria n.º 9987](https://diariodarepublica.pt/dr/detalhe/portaria/9987-1942-138978), de 3 de Janeiro de 1942, e o [Decreto-Lei n.º 37823](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37823-1950-657835), de 17 de Maio de 1950.
+Art. 24.º Ficam revogados o [Decreto-Lei n.º 26869](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26869-1936-357563), de 8 de Agosto de 1936, o [Decreto n.º 28436](https://diariodarepublica.pt/dr/detalhe/decreto/28436-1938-230773), de 25 de Janeiro de 1938, o [Decreto n.º 29460](https://diariodarepublica.pt/dr/detalhe/decreto/29460-1939-424753), de 23 de Fevereiro de 1939, o [Decreto-Lei n.º 29782](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29782-1939-202384), de 27 de Julho de 1939, o despacho de 13 de Novembro de 1939 publicado no Diário do Governo, 1.ª série, n.º 272, de 21 de Novembro de 1939, o [Decreto n.º 30308](https://diariodarepublica.pt/dr/detalhe/decreto/30308-1940-196543), de 8 de Março de 1940, a [Portaria n.º 9987](https://diariodarepublica.pt/dr/detalhe/portaria/9987-1942-138978), de 3 de Janeiro de 1942, e o [Decreto-Lei n.º 37823](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37823-1950-657835), de 17 de Maio de 1950.
 
-###### Art. 25.º - 1. O presente decreto-lei entrará em vigor no dia 1 de Janeiro de 1975.
+Art. 25.º - 1. O presente decreto-lei entrará em vigor no dia 1 de Janeiro de 1975.
 
 2. Para os aparelhos de ligação, corte ou manobra a intercalar nas canalizações, poderá permitir-se, em casos devidamente justificados e aceites pela fiscalização do Governo, o não cumprimento do disposto no artigo 103.º do Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica até ao prazo máximo de dois anos a contar da data da entrada em vigor deste Regulamento.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 2 de Dezembro de 1974.**
+Promulgado em 2 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 REGULAMENTO DE SEGURANÇA DE INSTALAÇÕES DE UTILIZAÇÃO DE ENERGIA ELÉCTRICA
 
-# PARTE I — Generalidades
+## PARTE I — Generalidades
 
 1 - Objectivo
 
-###### Artigo 1.º Objectivo. - 1. O presente Regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
+Artigo 1.º Objectivo. - 1. O presente Regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
 
 2. Os comentários - que não constituem obrigação legal - têm por fim esclarecer as condições impostas nos artigos, indicar como devem ser verificadas ou recomendar o sentido em que convém melhorá-las.
 
 2 - Campo de aplicação
 
-###### Art. 2.º Campo de aplicação. - 1. O Regulamento aplica-se às instalações de utilização de energia eléctrica, em alta e baixa tensão, de corrente alternada ou de corrente contínua, com as excepções seguintes:
+Art. 2.º Campo de aplicação. - 1. O Regulamento aplica-se às instalações de utilização de energia eléctrica, em alta e baixa tensão, de corrente alternada ou de corrente contínua, com as excepções seguintes:
 
 a) Instalações eléctricas de veículos de tracção eléctrica;
 
@@ -283,17 +350,17 @@ Comentário. - As instalações eléctricas a que se refere a alínea b) do n.º
 
 3 - Definições
 
-###### Art. 3.º Instalação de utilização de energia eléctrica ou, simplesmente, instalação de utilização. - Instalação eléctrica destinada a permitir aos seus utilizadores a aplicação da energia eléctrica pela sua transformação noutra forma de energia.
+Art. 3.º Instalação de utilização de energia eléctrica ou, simplesmente, instalação de utilização. - Instalação eléctrica destinada a permitir aos seus utilizadores a aplicação da energia eléctrica pela sua transformação noutra forma de energia.
 
 Comentários. - 1. Uma instalação de utilização pode compreender apenas a instalação eléctrica destinada a permitir aos seus utilizadores a aplicação directa da energia eléctrica ou, além daquela, compreender, ainda, postos de transformação e de corte, linhas de alta tensão, redes de distribuição em baixa tensão ou centrais geradoras.
 
 2. As instalações de utilização destinadas à aplicação directa da energia eléctrica englobam, em geral, instalações de baixa tensão (para emprego de aparelhos de utilização de uso corrente), instalações de tensão reduzida (para sinalização, telefones, etc.) e instalações de alta tensão (para iluminação por lâmpadas ou tubos de descarga, para emprego de aparelhos de electromedicina, para iluminação de pistas de aeroportos, para alimentação de aparelhos de utilização de elevada potência, etc.).
 
-###### Art. 4.º Instalação de telecomunicação. - Instalação eléctrica destinada à transmissão, emissão ou recepção de símbolos, sinais, imagens, sons ou informações de natureza semelhante.
+Art. 4.º Instalação de telecomunicação. - Instalação eléctrica destinada à transmissão, emissão ou recepção de símbolos, sinais, imagens, sons ou informações de natureza semelhante.
 
-###### Art. 5.º Origem de uma instalação de utilização. - Pontos por onde uma instalação de utilização recebe energia eléctrica.
+Art. 5.º Origem de uma instalação de utilização. - Pontos por onde uma instalação de utilização recebe energia eléctrica.
 
-###### Art. 6.º Tensão nominal de uma instalação de utilização. - Tensão pela qual a instalação é designada e em relação à qual são referidas as suas características.
+Art. 6.º Tensão nominal de uma instalação de utilização. - Tensão pela qual a instalação é designada e em relação à qual são referidas as suas características.
 
 Comentários. - 1. A tensão nominal de uma instalação corresponde, por exemplo:
 
@@ -317,7 +384,7 @@ a) Em corrente alternada - 70 V (frequência 16 2/3 Hz, 25 Hz ou 50 Hz);
 
 b) Em corrente contínua - 50 V, 60 V e 80 V.
 
-###### Art. 7.º Instalação de baixa tensão. - Instalação cuja tensão nominal não excede os valores seguintes:
+Art. 7.º Instalação de baixa tensão. - Instalação cuja tensão nominal não excede os valores seguintes:
 
 a) Em corrente contínua, entre quaisquer condutores activos: 650 V;
 
@@ -335,7 +402,7 @@ Em instalações trifásicas - 433 V;
 
 c) Em instalações monofásicas com ponto médio à terra - 500 V.
 
-###### Art. 8.º Instalação de tensão reduzida. - Instalação de baixa tensão cuja tensão nominal não excede os valores seguintes:
+Art. 8.º Instalação de tensão reduzida. - Instalação de baixa tensão cuja tensão nominal não excede os valores seguintes:
 
 a) Em corrente contínua, entre quaisquer condutores activos: 75 V;
 
@@ -343,17 +410,17 @@ b) Em corrente alternada, entre quaisquer condutores activos: 50 V.
 
 Comentário. - De acordo com a alínea b) do artigo, em instalações trifásicas com neutro à terra e em instalações monofásicas em ponte com ponto médio à terra, os limites da tensão entre qualquer condutor de fase e a terra são 28 V e 25 V, respectivamente.
 
-###### Art. 9.º Instalação de alta tensão. - Instalação cuja tensão nominal excede os valores indicados no artigo 7.º
+Art. 9.º Instalação de alta tensão. - Instalação cuja tensão nominal excede os valores indicados no artigo 7.º
 
-###### Art. 10.º Instalação provisória. - Instalação destinada a ser utilizada por tempo limitado, no fim do qual é desmontada, deslocada ou substituída por outra definitiva.
+Art. 10.º Instalação provisória. - Instalação destinada a ser utilizada por tempo limitado, no fim do qual é desmontada, deslocada ou substituída por outra definitiva.
 
-# PARTE II — Instalações de baixa tensão
+## PARTE II — Instalações de baixa tensão
 
 1 - Definições
 
 1.1 - Instalações
 
-###### Art. 11.º Origem de uma instalação de utilização de baixa tensão. - Pontos por onde uma instalação de utilização de baixa tensão recebe energia eléctrica, e que correspondem:
+Art. 11.º Origem de uma instalação de utilização de baixa tensão. - Pontos por onde uma instalação de utilização de baixa tensão recebe energia eléctrica, e que correspondem:
 
 a) Aos ligadores de saída do aparelho de corte da entrada da instalação de utilização, se esta é alimentada a partir de uma rede de distribuição pública de baixa tensão, ou aos ligadores de saída do contador geral, se o aparelho de corte da entrada estiver a montante deste;
 
@@ -363,7 +430,7 @@ Comentários. - 1. Se a mesma instalação de utilização é alimentada por mai
 
 2. Nas instalações de utilização existentes à data de entrada em vigor deste Regulamento e não dotadas de aparelho de corte da entrada considera-se, de acordo com o artigo 700.º, como origem dessas instalações os ligadores de entrada do respectivo aparelho de corte geral.
 
-###### Art. 12.º Entrada. - Canalização eléctrica de baixa tensão compreendida entre:
+Art. 12.º Entrada. - Canalização eléctrica de baixa tensão compreendida entre:
 
 a) Uma caixa de coluna e a origem de uma instalação de utilização;
 
@@ -389,15 +456,15 @@ Comentários. - 1. O caso referido na alínea a) do artigo verifica-se, por exem
 
 Por outro lado, à mesma instalação de utilização pode corresponder mais de uma entrada. É o caso, por exemplo, de uma instalação de utilização que, por razões de segurança, deva ser alimentada em comutação por um posto de transformação privativo, por uma portinhola da rede de distribuição pública ou por uma central de emergência privativa, ou, ainda, o caso de, sendo a instalação de utilização alimentada por um posto de transformação ou por uma central geradora privativos, haver transformadores ou geradores em paralelo.
 
-###### Art. 13.º Aparelho de corte da entrada. - Aparelho de corte intercalado numa entrada e que pode constituir o aparelho de corte geral da respectiva instalação de utilização.
+Art. 13.º Aparelho de corte da entrada. - Aparelho de corte intercalado numa entrada e que pode constituir o aparelho de corte geral da respectiva instalação de utilização.
 
 Comentário. - Em geral, o aparelho de corte da entrada é um disjuntor que, simultaneamente, assegura a protecção geral contra sobreintensidades da instalação de utilização, sendo, neste caso, designado normalmente por «disjuntor de entrada».
 
-###### Art. 14.º Instalações de utilização distintas. - Instalações de utilização sem qualquer ligação entre si e dotadas de entradas independentes.
+Art. 14.º Instalações de utilização distintas. - Instalações de utilização sem qualquer ligação entre si e dotadas de entradas independentes.
 
 Comentário. - Um local pode ser dotado de uma ou várias instalações de utilização distintas. Os casos mais correntes de instalações de utilização distintas são os de instalações ligadas à mesma fonte de alimentação, mas dotadas de entradas distintas para efeito de contagem separada, e os de diversos edifícios existentes num mesmo recinto e dotados de entradas distintas.
 
-###### Art. 15.º Instalação de emergência. - Instalação destinada a fornecer apoio a instalações estabelecidas em locais onde uma eventual falta de energia possa originar situações de perigo ou causar danos.
+Art. 15.º Instalação de emergência. - Instalação destinada a fornecer apoio a instalações estabelecidas em locais onde uma eventual falta de energia possa originar situações de perigo ou causar danos.
 
 Comentários. - 1. As instalações de emergência podem considerar-se de dois tipos:
 
@@ -409,13 +476,13 @@ b) Instalações de emergência de reserva ou de substituição, destinadas a pe
 
 3. As instalações de emergência para alimentação de instalações de força motriz destinam-se a evitar os inconvenientes da falta de energia em instalações em que, pela natureza da função por elas desempenhada, podem ocorrer graves riscos para as pessoas ou prejuízos materiais. É o caso, por exemplo, de instalações de alimentação de certos aparelhos de electromedicina, de aparelhos de ventilação, de bombas de incêndio ou de bombas de lubrificação forçada de máquinas.
 
-###### Art. 16.º Circuito de uma instalação. - Conjunto de canalizações e aparelhos, eléctricos, incluindo os de utilização, dotado do mesmo aparelho de protecção contra sobreintensidades no quadro onde tem início.
+Art. 16.º Circuito de uma instalação. - Conjunto de canalizações e aparelhos, eléctricos, incluindo os de utilização, dotado do mesmo aparelho de protecção contra sobreintensidades no quadro onde tem início.
 
 Comentário. - No caso de um circuito trifásico, considera-se como um mesmo aparelho de protecção contra sobreintensidades não só um disjuntor tripolar como também o conjunto de três disjuntores unipolares ou de três corta-circuitos fusíveis, com iguais características individuais.
 
 1.2 - Canalizações
 
-###### Art. 17.º Canalização. - Conjunto constituído por um ou mais condutores eléctricos e pelos elementos que asseguram o seu isolamento eléctrico, as suas protecções mecânicas, químicas e eléctricas e a sua fixação, devidamente agrupados e com aparelhos de ligação comuns.
+Art. 17.º Canalização. - Conjunto constituído por um ou mais condutores eléctricos e pelos elementos que asseguram o seu isolamento eléctrico, as suas protecções mecânicas, químicas e eléctricas e a sua fixação, devidamente agrupados e com aparelhos de ligação comuns.
 
 Comentários. - 1. Embora a designação de canalização abranja tanto as canalizações de circuitos de energia como de telecomunicação, as primeiras são designadas neste Regulamento por canalizações eléctricas ou, simplesmente, canalizações, e as segundas por canalizações de telecomunicação.
 
@@ -423,9 +490,9 @@ Comentários. - 1. Embora a designação de canalização abranja tanto as canal
 
 3. De acordo com o artigo, fazem parte de uma mesma canalização não só o conjunto de condutores isolados ou cabos protegidos pelo mesmo tubo ou conduta mas também o conjunto constituído por condutores isolados ou cabos unipolares protegidos por tubos ou condutas individuais, ou o conjunto de cabos em paralelo, desde que devidamente agrupados e com aparelhos de ligação comuns.
 
-###### Art. 18.º Canalização fixa. - Canalização estabelecida de forma inamovível sem recurso a meios especiais.
+Art. 18.º Canalização fixa. - Canalização estabelecida de forma inamovível sem recurso a meios especiais.
 
-###### Art. 19.º Canalização amovível. - Canalização não fixa destinada a alimentar, em regra, aparelhos móveis ou portáteis.
+Art. 19.º Canalização amovível. - Canalização não fixa destinada a alimentar, em regra, aparelhos móveis ou portáteis.
 
 Comentário. - São exemplos típicos de canalizações amovíveis as compreendidas entre uma canalização fixa e os seguintes aparelhos de utilização:
 
@@ -435,9 +502,9 @@ b) Postos de soldadura;
 
 c) Ferramentas portáteis (esmeriladores, berbequins, etc.).
 
-###### Art. 20.º Canalização à vista. - Canalização visível sem necessidade de retirar qualquer parte da construção sobre que está estabelecida.
+Art. 20.º Canalização à vista. - Canalização visível sem necessidade de retirar qualquer parte da construção sobre que está estabelecida.
 
-###### Art. 21.º Canalização oculta. - Canalização que não é visível ou que não é acessível sem remoção de qualquer elemento do meio em que se encontra ou, ainda, sem remoção de si própria.
+Art. 21.º Canalização oculta. - Canalização que não é visível ou que não é acessível sem remoção de qualquer elemento do meio em que se encontra ou, ainda, sem remoção de si própria.
 
 Comentários. - 1. São exemplos de canalizações ocultas as seguintes:
 
@@ -453,11 +520,11 @@ e) Canalizações subaquáticas.
 
 2. Embora haja canalizações, como, por exemplo, as referidas nas alíneas b) e c) do comentário anterior, que, de acordo com a definição, são designadas por canalizações ocultas, o seu estabelecimento pode ser feito como as canalizações à vista, em virtude de se tornarem ocultas apenas após a colocação dos elementos da construção que as tornam não visíveis.
 
-###### Art. 22.º Alma condutora de um condutor isolado ou de um cabo. - Elemento destinado à condução da corrente eléctrica, podendo ser constituído por um fio, por um conjunto de fios devidamente reunidos, ou por perfis adequados.
+Art. 22.º Alma condutora de um condutor isolado ou de um cabo. - Elemento destinado à condução da corrente eléctrica, podendo ser constituído por um fio, por um conjunto de fios devidamente reunidos, ou por perfis adequados.
 
 Comentário. - A alma condutora pode ser unifilar, multifilar, sectorial maciça ou multissectorial. No caso de ser multifilar, os fios constituintes podem ser torcidos ou cableados.
 
-###### Art. 23.º Condutor nu. - Condutor que não possui qualquer isolamento eléctrico contínuo.
+Art. 23.º Condutor nu. - Condutor que não possui qualquer isolamento eléctrico contínuo.
 
 Comentário. - Os condutores nus a que se faz referência neste Regulamento tanto são os condutores próprios para linhas aéreas como os condutores com a forma de barra, tubo, vareta ou outro perfil adequado.
 
@@ -465,31 +532,31 @@ Os condutores próprios para linhas aéreas tanto podem ser unifilares como cabl
 
 Nestas circunstâncias, a expressão «condutor nu» engloba, neste Regulamento, qualquer tipo de condutor que não possua isolamento eléctrico contínuo, quer seja fio nu ou cabo nu, quer seja barra, vareta, tubo ou outro perfil adequado não revestido de isolamento eléctrico contínuo.
 
-###### Art. 24.º Condutor isolado. - Alma condutora revestida de uma ou mais camadas de material isolante que asseguram o seu isolamento eléctrico.
+Art. 24.º Condutor isolado. - Alma condutora revestida de uma ou mais camadas de material isolante que asseguram o seu isolamento eléctrico.
 
-###### Art. 25.º Cabo isolado ou, simplesmente, cabo. - Condutor isolado dotado de bainha ou conjunto de condutores isolados devidamente agrupados, provido de bainha, trança ou outra envolvente comum.
+Art. 25.º Cabo isolado ou, simplesmente, cabo. - Condutor isolado dotado de bainha ou conjunto de condutores isolados devidamente agrupados, provido de bainha, trança ou outra envolvente comum.
 
 Comentário. - Os artigos 22.º a 25.º definem, respectivamente, «alma condutora», «condutor nu», «condutor isolado» e «cabo isolado ou, simplesmente, cabo».
 
 No entanto, dado que da aplicação destas expressões podem resultar dúvidas, esclarece-se que, quando neste Regulamento se empregar a expressão «condutor isolado», esta nunca pode englobar os cabos isolados. Por outro lado, as expressões «condutor» e «condutores» têm um significado lato, abrangendo, portanto, os condutores nus, os condutores isolados e os cabos isolados. Além disso, a expressão «cabo», de acordo com este artigo, refere-se sempre a cabos isolados.
 
-###### Art. 26.º Tubo. - Invólucro de secção recta contínua, circular ou não, destinado, em regra, à protecção de condutores isolados ou cabos.
+Art. 26.º Tubo. - Invólucro de secção recta contínua, circular ou não, destinado, em regra, à protecção de condutores isolados ou cabos.
 
-###### Art. 27.º Conduta. - Invólucro de secção recta descontínua destinado à protecção de condutores nus (apoiados em isoladores), condutores isolados ou cabos, podendo ser fechado por uma superfície amovível.
+Art. 27.º Conduta. - Invólucro de secção recta descontínua destinado à protecção de condutores nus (apoiados em isoladores), condutores isolados ou cabos, podendo ser fechado por uma superfície amovível.
 
 Comentário. - O artigo visa, em especial, as condutas para montagem, oculta ou à vista, em paredes, tectos ou pavimentos, destinadas expressamente à protecção de condutores, e não as manilhas de betão, tubos de fibrocimento, blocos de betão perfurados, etc., que, embora destinados normalmente a outros fins, são também utilizados em instalações eléctricas para conferir facilidades de estabelecimento a certas canalizações, como, por exemplo, as enterradas (travessias de arruamentos, etc.).
 
-###### Art. 28.º Canalização pré-fabricada. - Canalização cujo invólucro, metálico ou de material isolante, e condutores formam um conjunto montado em fábrica.
+Art. 28.º Canalização pré-fabricada. - Canalização cujo invólucro, metálico ou de material isolante, e condutores formam um conjunto montado em fábrica.
 
 Comentário. - As canalizações pré-fabricadas distinguem-se das canalizações em condutas por terem de satisfazer no seu conjunto a normas específicas.
 
-###### Art. 29.º Ligador. - Dispositivo destinado a ligar, eléctrica e mecanicamente, dois ou mais condutores, ou um condutor a um aparelho.
+Art. 29.º Ligador. - Dispositivo destinado a ligar, eléctrica e mecanicamente, dois ou mais condutores, ou um condutor a um aparelho.
 
 Comentário. - Sob a designação genérica de ligadores são incluídos os ligadores de extremidade (terminais) dos aparelhos, os terminais das placas de ligação, os ligadores de compressão, etc.
 
 1.3 - Aparelhos
 
-###### Art. 30.º Aparelho de ligação. - Aparelho destinado a ligar entre si dois ou mais troços de uma canalização.
+Art. 30.º Aparelho de ligação. - Aparelho destinado a ligar entre si dois ou mais troços de uma canalização.
 
 Comentários. - 1. Os aparelhos de ligação são constituídos por ligadores, ou por ligadores e respectivos invólucros de protecção, consoante o tipo de canalização.
 
@@ -501,79 +568,79 @@ Comentários. - 1. Os aparelhos de ligação são constituídos por ligadores, o
 
 5. Os aparelhos de ligação podem ainda encontrar-se associados a outros aparelhos ou terem invólucro de protecção comum. São os casos, por exemplo, de tomadas fixas ou interruptores dotados de ligadores para permitir fazer derivações, ou de tomadas fixas dotadas de invólucro com dimensões suficientes para alojamento de ligadores para derivações (tomadas fixas dotadas de caixa funda de aparelhagem).
 
-###### Art. 31.º Aparelho de corte. - Aparelho destinado a ligar, desligar ou isolar uma instalação ou um aparelho de utilização.
+Art. 31.º Aparelho de corte. - Aparelho destinado a ligar, desligar ou isolar uma instalação ou um aparelho de utilização.
 
 Comentário. - Os aparelhos de corte, quando interrompem, numa mesma manobra, todos os condutores activos, são designados por aparelhos de corte omnipolar.
 
-###### Art. 32.º Aparelho de comando. - Aparelho destinado a modificar o regime de funcionamento de uma instalação ou de um aparelho de utilização.
+Art. 32.º Aparelho de comando. - Aparelho destinado a modificar o regime de funcionamento de uma instalação ou de um aparelho de utilização.
 
-###### Art. 33.º Aparelho de protecção. - Aparelho destinado a impedir ou limitar os efeitos perigosos ou prejudiciais da energia eléctrica a que possam estar sujeitas pessoas, coisas ou instalações.
+Art. 33.º Aparelho de protecção. - Aparelho destinado a impedir ou limitar os efeitos perigosos ou prejudiciais da energia eléctrica a que possam estar sujeitas pessoas, coisas ou instalações.
 
-###### Art. 34.º Aparelho de protecção contra sobreintensidades. - Aparelho de protecção que tem por fim impedir ou limitar os efeitos perigosos ou prejudiciais resultantes da passagem de uma corrente de intensidade superior à admissível nas canalizações ou aparelhos de utilização.
+Art. 34.º Aparelho de protecção contra sobreintensidades. - Aparelho de protecção que tem por fim impedir ou limitar os efeitos perigosos ou prejudiciais resultantes da passagem de uma corrente de intensidade superior à admissível nas canalizações ou aparelhos de utilização.
 
 Comentários. - 1. Uma sobreintensidade é uma corrente de intensidade superior à nominal. Para este efeito, a intensidade de corrente máxima admissível num condutor é considerada como a sua intensidade nominal.
 
 2. As sobreintensidades podem resultar de sobrecargas verificadas em aparelhos de utilização (aumento da potência absorvida por estes aparelhos em relação à sua potência nominal), de curto-circuitos ou de defeitos.
 
-###### Art. 35.º Aparelho de protecção contra faltas ou abaixamentos de tensão. - Aparelho de protecção que tem por fim impedir ou limitar os efeitos perigosos ou prejudiciais resultantes de uma falta ou abaixamento de tensão.
+Art. 35.º Aparelho de protecção contra faltas ou abaixamentos de tensão. - Aparelho de protecção que tem por fim impedir ou limitar os efeitos perigosos ou prejudiciais resultantes de uma falta ou abaixamento de tensão.
 
-###### Art. 36.º Aparelho de protecção contra sobretensões. - Aparelho de protecção que tem por fim impedir ou limitar os efeitos perigosos ou prejudiciais resultantes de uma elevação de tensão.
+Art. 36.º Aparelho de protecção contra sobretensões. - Aparelho de protecção que tem por fim impedir ou limitar os efeitos perigosos ou prejudiciais resultantes de uma elevação de tensão.
 
-###### Art. 37.º Seccionador. - Aparelho de corte destinado fundamentalmente a isolar uma instalação ou um aparelho de utilização, não dotado de poder de corte.
+Art. 37.º Seccionador. - Aparelho de corte destinado fundamentalmente a isolar uma instalação ou um aparelho de utilização, não dotado de poder de corte.
 
-###### Art. 38.º Interruptor. - Aparelho de corte e comando dotado de poder de corte.
+Art. 38.º Interruptor. - Aparelho de corte e comando dotado de poder de corte.
 
 Comentário. - O interruptor é um aparelho destinado a funcionar em condições normais de serviço e de sobrecarga, mas não a cortar correntes de curto-circuito.
 
-###### Art. 39.º Disjuntor. - Aparelho de corte, comando e protecção, dotado de conveniente poder de corte para correntes de curto-circuito e cuja actuação se pode produzir automaticamente em condições predeterminadas.
+Art. 39.º Disjuntor. - Aparelho de corte, comando e protecção, dotado de conveniente poder de corte para correntes de curto-circuito e cuja actuação se pode produzir automaticamente em condições predeterminadas.
 
-###### Art. 40.º Contactor. - Aparelho de corte e comando, accionado em geral por meio de um electroíman, concebido para executar elevado número de manobras.
+Art. 40.º Contactor. - Aparelho de corte e comando, accionado em geral por meio de um electroíman, concebido para executar elevado número de manobras.
 
-###### Art. 41.º Contactor-disjuntor. - Contactor que possui também características de disjuntor.
+Art. 41.º Contactor-disjuntor. - Contactor que possui também características de disjuntor.
 
-###### Art. 42.º Interruptor-fusível. - Interruptor dotado de corta-circuitos fusíveis e, eventualmente, de relais, que lhe conferem a função de aparelho de protecção contra sobreintensidades.
+Art. 42.º Interruptor-fusível. - Interruptor dotado de corta-circuitos fusíveis e, eventualmente, de relais, que lhe conferem a função de aparelho de protecção contra sobreintensidades.
 
-###### Art. 43.º Corta-circuito fusível. - Aparelho de protecção contra sobreintensidades, dotado de conveniente poder de corte de correntes de curto-circuito, actuando por fusão de um elemento fusível.
+Art. 43.º Corta-circuito fusível. - Aparelho de protecção contra sobreintensidades, dotado de conveniente poder de corte de correntes de curto-circuito, actuando por fusão de um elemento fusível.
 
-###### Art. 44.º Aparelho de utilização. - Aparelho que permite a execução de determinados fins por utilização da energia eléctrica.
+Art. 44.º Aparelho de utilização. - Aparelho que permite a execução de determinados fins por utilização da energia eléctrica.
 
 Comentário. - No âmbito desta definição, consideram-se como aparelhos de utilização os aparelhos de iluminação, aparelhos electro-domésticos (máquinas de lavar, frigoríficos, fogões eléctricos, etc.), máquinas de escritório, máquinas-ferramentas, máquinas de soldar, fornos eléctricos, etc.
 
-###### Art. 45.º Aparelho de utilização fixo. - Aparelho de utilização instalado em posição fixa ou que não pode ser facilmente deslocado.
+Art. 45.º Aparelho de utilização fixo. - Aparelho de utilização instalado em posição fixa ou que não pode ser facilmente deslocado.
 
-###### Art. 46.º Aparelho de utilização móvel. - Aparelho de utilização que, em virtude da sua natureza ou utilização, é deslocado durante o seu funcionamento ou que pode ser facilmente deslocado enquanto ligado ao circuito de alimentação.
+Art. 46.º Aparelho de utilização móvel. - Aparelho de utilização que, em virtude da sua natureza ou utilização, é deslocado durante o seu funcionamento ou que pode ser facilmente deslocado enquanto ligado ao circuito de alimentação.
 
 Comentário. - São exemplos típicos de aparelhos de utilização móveis as máquinas de lavar electro-domésticas, postos de soldadura, etc.
 
-###### Art. 47.º Aparelho de utilização portátil. - Aparelho de utilização que, em condições normais de funcionamento, é empunhado ou suportado pelo utilizador.
+Art. 47.º Aparelho de utilização portátil. - Aparelho de utilização que, em condições normais de funcionamento, é empunhado ou suportado pelo utilizador.
 
 Comentário. - São exemplos típicos de aparelhos de utilização portáteis as lâmpadas de mão, berbequins, esmeriladores, ferros de engomar, etc.
 
 1.4 - Quadros
 
-###### Art. 48.º Quadro. - Conjunto de aparelhos, convenientemente agrupados, incluindo as suas ligações, estruturas de suporte ou invólucro, destinado a proteger, comandar ou controlar instalações eléctricas.
+Art. 48.º Quadro. - Conjunto de aparelhos, convenientemente agrupados, incluindo as suas ligações, estruturas de suporte ou invólucro, destinado a proteger, comandar ou controlar instalações eléctricas.
 
-###### Art. 49.º Quadro aberto. - Quadro de estrutura rígida simples que permite fixar os aparelhos sem lhes conferir qualquer tipo de protecção.
+Art. 49.º Quadro aberto. - Quadro de estrutura rígida simples que permite fixar os aparelhos sem lhes conferir qualquer tipo de protecção.
 
-###### Art. 50.º Quadro de painéis. - Quadro com um ou mais painéis rígidos ou apoiados sobre estrutura que lhe confere rigidez e que serve para fixar os aparelhos e protegê-los, do lado em que são manobrados, contra contactos directos ou outras acções, sendo esses aparelhos normalmente manobrados e observados pela face frontal desse ou desses painéis.
+Art. 50.º Quadro de painéis. - Quadro com um ou mais painéis rígidos ou apoiados sobre estrutura que lhe confere rigidez e que serve para fixar os aparelhos e protegê-los, do lado em que são manobrados, contra contactos directos ou outras acções, sendo esses aparelhos normalmente manobrados e observados pela face frontal desse ou desses painéis.
 
-###### Art. 51.º Quadro de armário. - Quadro com invólucro contínuo e fechado, rígido ou dotado de estrutura interior, que lhe confere rigidez, e que serve para alojar os aparelhos e protegê-los contra contactos directos ou outras acções, por todas as faces, e dotado de portas, tampas ou painéis amovíveis, permitindo fácil acesso aos referidos aparelhos, podendo, quando destinados a montagem apoiada no pavimento, deixar de ter invólucro na face inferior.
+Art. 51.º Quadro de armário. - Quadro com invólucro contínuo e fechado, rígido ou dotado de estrutura interior, que lhe confere rigidez, e que serve para alojar os aparelhos e protegê-los contra contactos directos ou outras acções, por todas as faces, e dotado de portas, tampas ou painéis amovíveis, permitindo fácil acesso aos referidos aparelhos, podendo, quando destinados a montagem apoiada no pavimento, deixar de ter invólucro na face inferior.
 
 Comentário. - Os quadros em forma de mesa, secretária ou púlpito, designados normalmente por «mesas de comando», são considerados como quadros de armário.
 
-###### Art. 52.º Quadro de caixas. - Quadro constituído por uma ou mais caixas fechadas, apoiadas sobre estrutura rígida e ligadas por intermédio de acessórios adequados, permitindo a passagem dos condutores que interligam os aparelhos contidos no interior das caixas, sendo estas dotadas de tampa que permite o acesso aos mesmos aparelhos pela face em que normalmente são manobrados e observados.
+Art. 52.º Quadro de caixas. - Quadro constituído por uma ou mais caixas fechadas, apoiadas sobre estrutura rígida e ligadas por intermédio de acessórios adequados, permitindo a passagem dos condutores que interligam os aparelhos contidos no interior das caixas, sendo estas dotadas de tampa que permite o acesso aos mesmos aparelhos pela face em que normalmente são manobrados e observados.
 
 1.5 - Sistemas de protecção das pessoas
 
-###### Art. 53.º Condutor activo. - Condutor afecto à condução de energia eléctrica.
+Art. 53.º Condutor activo. - Condutor afecto à condução de energia eléctrica.
 
 Comentário. - Em corrente alternada, os condutores activos são os condutores de fase e o condutor neutro e, em corrente contínua, os condutores positivo, negativo e médio.
 
-###### Art. 54.º Partes acessíveis de um material ou aparelho. - Partes de um material ou aparelho susceptíveis de serem tocadas pelas pessoas.
+Art. 54.º Partes acessíveis de um material ou aparelho. - Partes de um material ou aparelho susceptíveis de serem tocadas pelas pessoas.
 
-###### Art. 55.º Partes activas de um material ou aparelho. - Condutores activos e peças condutoras de um material ou aparelho sob tensão em serviço normal.
+Art. 55.º Partes activas de um material ou aparelho. - Condutores activos e peças condutoras de um material ou aparelho sob tensão em serviço normal.
 
-###### Art. 56.º Massa. - Qualquer elemento metálico susceptível de ser tocado, em regra isolado das partes activas de um material ou aparelho, eléctricos, mas podendo ficar acidentalmente sob tensão.
+Art. 56.º Massa. - Qualquer elemento metálico susceptível de ser tocado, em regra isolado das partes activas de um material ou aparelho, eléctricos, mas podendo ficar acidentalmente sob tensão.
 
 Comentários. - 1. O termo «massa» designa essencialmente as partes metálicas acessíveis de materiais e aparelhos eléctricos, normalmente isoladas das partes activas, mas susceptíveis de ficar acidentalmente em ligação eléctrica com essas partes activas em consequência de uma deficiência das disposições tomadas para assegurar o seu isolamento. Estas deficiências podem resultar de um defeito do isolamento funcional ou das disposições de fixação e protecção.
 
@@ -583,7 +650,7 @@ Nestas circunstâncias, são «massas» os invólucros metálicos dos materiais 
 
 São, portanto, «massas» as estruturas e os apoios metálicos utilizados para fixação de canalizações eléctricas, de aparelhos eléctricos com isolamento funcional e as peças metálicas colocadas em contacto com o invólucro exterior desses aparelhos.
 
-###### Art. 57.º Elementos condutores estranhos às instalações eléctricas. - Elementos não fazendo parte da instalação eléctrica e susceptíveis de propagar um potencial, considerando-se como tais os que tenham resistência de isolamento inferior a 50000 (Ómega).
+Art. 57.º Elementos condutores estranhos às instalações eléctricas. - Elementos não fazendo parte da instalação eléctrica e susceptíveis de propagar um potencial, considerando-se como tais os que tenham resistência de isolamento inferior a 50000 (Ómega).
 
 Comentários. - 1. Elementos condutores são, por exemplo, as estruturas metálicas ou de betão armado empregadas na construção de edifícios (armaduras, vigas, pilares, etc.), canalizações metálicas de água, gás, aquecimento, etc., e os aparelhos não eléctricos a elas ligados (irradiadores, fogões, etc.), paredes e pavimentos condutores.
 
@@ -595,73 +662,73 @@ As dos restantes locais são consideradas como elementos condutores se a sua res
 
 3. A resistência de isolamento a que se refere o artigo pode ser medida da forma indicada no comentário 5 do artigo 637.º
 
-###### Art. 58.º Elementos não condutores estranhos às instalações eléctricas. - Elementos não fazendo parte da instalação eléctrica e não susceptíveis de propagar um potencial, considerando-se como tais os que tenham resistência de isolamento igual, pelo menos, a 50000 (Ómega).
+Art. 58.º Elementos não condutores estranhos às instalações eléctricas. - Elementos não fazendo parte da instalação eléctrica e não susceptíveis de propagar um potencial, considerando-se como tais os que tenham resistência de isolamento igual, pelo menos, a 50000 (Ómega).
 
 Comentário. - A resistência de isolamento a que se refere o artigo pode ser medida da forma indicada no comentário 5 do artigo 637.º
 
-###### Art. 59.º Isolamento. - Conjunto de isolantes entrando na construção de um material ou aparelho para isolar electricamente as suas partes activas.
+Art. 59.º Isolamento. - Conjunto de isolantes entrando na construção de um material ou aparelho para isolar electricamente as suas partes activas.
 
-###### Art. 60.º Isolamento funcional. - Isolamento necessário para assegurar o funcionamento conveniente de um material ou aparelho e a sua protecção contra contactos directos.
+Art. 60.º Isolamento funcional. - Isolamento necessário para assegurar o funcionamento conveniente de um material ou aparelho e a sua protecção contra contactos directos.
 
-###### Art. 61.º Isolamento de protecção ou suplementar. - Isolamento independente do isolamento funcional e destinado a assegurar a protecção contra contactos indirectos em caso de defeito do isolamento funcional.
+Art. 61.º Isolamento de protecção ou suplementar. - Isolamento independente do isolamento funcional e destinado a assegurar a protecção contra contactos indirectos em caso de defeito do isolamento funcional.
 
-###### Art. 62.º Duplo isolamento. - Isolamento compreendendo simultaneamente um isolamento funcional e um isolamento suplementar.
+Art. 62.º Duplo isolamento. - Isolamento compreendendo simultaneamente um isolamento funcional e um isolamento suplementar.
 
-###### Art. 63.º Isolamento reforçado. - Isolamento com características mecânicas e eléctricas que permitem considerá-lo equivalente a um duplo isolamento.
+Art. 63.º Isolamento reforçado. - Isolamento com características mecânicas e eléctricas que permitem considerá-lo equivalente a um duplo isolamento.
 
-###### Art. 64.º Contactos acidentais. - Contactos das pessoas com as partes activas dos materiais ou dos aparelhos (contactos directos) ou contactos das pessoas com as massas acidentalmente sob tensão (contactos indirectos).
+Art. 64.º Contactos acidentais. - Contactos das pessoas com as partes activas dos materiais ou dos aparelhos (contactos directos) ou contactos das pessoas com as massas acidentalmente sob tensão (contactos indirectos).
 
-###### Art. 65.º Volume de acessibilidade a contactos. - Volume situado em volta dos locais onde se encontrem ou onde possam circular pessoas e limitado pela superfície atingível pelas mãos, considerando-se como tal, para efeito de aplicação deste Regulamento, o volume definido na figura seguinte:
+Art. 65.º Volume de acessibilidade a contactos. - Volume situado em volta dos locais onde se encontrem ou onde possam circular pessoas e limitado pela superfície atingível pelas mãos, considerando-se como tal, para efeito de aplicação deste Regulamento, o volume definido na figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
-###### Art. 66.º Tensão de defeito. - Tensão que aparece entre duas massas, uma massa e um elemento condutor ou uma massa e a terra, em consequência de um defeito de isolamento.
+Art. 66.º Tensão de defeito. - Tensão que aparece entre duas massas, uma massa e um elemento condutor ou uma massa e a terra, em consequência de um defeito de isolamento.
 
-###### Art. 67.º Corrente de defeito. - Corrente resultante de uma tensão de defeito.
+Art. 67.º Corrente de defeito. - Corrente resultante de uma tensão de defeito.
 
-###### Art. 68.º Corrente de fuga. - Corrente que se escoa, mesmo na ausência de qualquer defeito de isolamento, entre as partes activas de um material ou aparelho e as massas, condutores de protecção ou a terra.
+Art. 68.º Corrente de fuga. - Corrente que se escoa, mesmo na ausência de qualquer defeito de isolamento, entre as partes activas de um material ou aparelho e as massas, condutores de protecção ou a terra.
 
 Comentário. - A corrente de fuga resulta do facto de a resistência de isolamento não ter um valor muito elevado (infinito) e da existência de capacidades.
 
-###### Art. 69.º Corrente diferencial-residual. - Corrente igual à soma vectorial das correntes que circulam nos condutores activos de um circuito, num dado ponto deste.
+Art. 69.º Corrente diferencial-residual. - Corrente igual à soma vectorial das correntes que circulam nos condutores activos de um circuito, num dado ponto deste.
 
 Comentário. - A corrente diferencial-residual resulta das correntes de fuga dos aparelhos em serviço normal e das correntes de defeito entre uma parte activa e uma massa ligada à terra. Pode, ainda, resultar da corrente que se escoe através do corpo humano para a terra, no caso de um contacto directo de uma pessoa com uma parte activa não protegida, ou, no caso de um contacto indirecto, com uma massa não ligada à terra.
 
-###### Art. 70.º Circuito de protecção. - Conjunto de condutores de protecção (geral e derivados), eléctrodos de terra, dispositivo de protecção e suas ligações.
+Art. 70.º Circuito de protecção. - Conjunto de condutores de protecção (geral e derivados), eléctrodos de terra, dispositivo de protecção e suas ligações.
 
-###### Art. 71.º Condutor de protecção. - Condutor não activo destinado a integrar as massas de uma instalação no circuito de protecção.
+Art. 71.º Condutor de protecção. - Condutor não activo destinado a integrar as massas de uma instalação no circuito de protecção.
 
-###### Art. 72.º Dispositivo de protecção. - Dispositivo destinado a assegurar, por corte, a protecção contra contactos acidentais.
+Art. 72.º Dispositivo de protecção. - Dispositivo destinado a assegurar, por corte, a protecção contra contactos acidentais.
 
 Comentário. - O dispositivo de protecção pode ser constituído por um aparelho de protecção contra sobreintensidades (corta-circuitos fusível ou disjuntor) ou por um aparelho de protecção sensível a uma corrente de defeito ou a uma tensão de defeito actuando, directa ou indirectamente, um aparelho de corte.
 
-###### Art. 73.º Condutor de continuidade. - Condutor destinado, exclusivamente, a ligar elementos condutores estranhos às instalações eléctricas, entre si e ao circuito de protecção, a fim de assegurar a sua conveniente continuidade eléctrica e equipotencialidade.
+Art. 73.º Condutor de continuidade. - Condutor destinado, exclusivamente, a ligar elementos condutores estranhos às instalações eléctricas, entre si e ao circuito de protecção, a fim de assegurar a sua conveniente continuidade eléctrica e equipotencialidade.
 
-###### Art. 74.º Terra. - Massa condutora da Terra.
+Art. 74.º Terra. - Massa condutora da Terra.
 
-###### Art. 75.º Condutor geral de protecção. - Condutor de protecção, com ou sem derivações, ligado, em regra, directamente ao eléctrodo de terra.
+Art. 75.º Condutor geral de protecção. - Condutor de protecção, com ou sem derivações, ligado, em regra, directamente ao eléctrodo de terra.
 
-###### Art. 76.º Condutor derivado de protecção. - Condutor de protecção destinado a ligar uma massa a um condutor geral de protecção.
+Art. 76.º Condutor derivado de protecção. - Condutor de protecção destinado a ligar uma massa a um condutor geral de protecção.
 
-###### Art. 77.º Eléctrodo de terra. - Conjunto de materiais condutores enterrados destinados a assegurar boa ligação eléctrica com a terra e ligado, num único ponto (ligador de eléctrodo), ao condutor geral de protecção.
+Art. 77.º Eléctrodo de terra. - Conjunto de materiais condutores enterrados destinados a assegurar boa ligação eléctrica com a terra e ligado, num único ponto (ligador de eléctrodo), ao condutor geral de protecção.
 
-###### Art. 78.º Ligador de eléctrodo. - Ligador colocado na proximidade do ponto em que o eléctrodo de terra emerge do solo e ao qual liga o condutor geral de protecção.
+Art. 78.º Ligador de eléctrodo. - Ligador colocado na proximidade do ponto em que o eléctrodo de terra emerge do solo e ao qual liga o condutor geral de protecção.
 
 Comentário. - O ligador de eléctrodo permite separar o eléctrodo de terra do condutor geral de protecção de forma a permitir a respectiva medição de resistência de terra.
 
-###### Art. 79.º Resistência de terra. - Resistência eléctrica de um eléctrodo de terra e do terreno circundante.
+Art. 79.º Resistência de terra. - Resistência eléctrica de um eléctrodo de terra e do terreno circundante.
 
 Comentário. - A resistência eléctrica de um eléctrodo de terra pode ser medida da forma indicada no comentário 4 do artigo 637.º
 
-###### Art. 80.º Resistência global de terra. - Resistência de terra de todos os eléctrodos de terra intervindo simultaneamente.
+Art. 80.º Resistência global de terra. - Resistência de terra de todos os eléctrodos de terra intervindo simultaneamente.
 
-###### Art. 81.º Zona de influência de um eléctrodo de terra. - Área dentro da qual o potencial do solo sofre uma variação superior a 5% da que experimenta o eléctrodo de terra respectivo, quando percorrido por uma corrente eléctrica.
+Art. 81.º Zona de influência de um eléctrodo de terra. - Área dentro da qual o potencial do solo sofre uma variação superior a 5% da que experimenta o eléctrodo de terra respectivo, quando percorrido por uma corrente eléctrica.
 
-###### Art. 82.º Circuitos de protecção distintos. - Circuitos de protecção suficientemente afastados para que o potencial de um deles não sofra uma variação superior a 5% da que experimenta o do outro, quando este último é percorrido por uma corrente eléctrica.
+Art. 82.º Circuitos de protecção distintos. - Circuitos de protecção suficientemente afastados para que o potencial de um deles não sofra uma variação superior a 5% da que experimenta o do outro, quando este último é percorrido por uma corrente eléctrica.
 
 1.6 - Locais das instalações
 
-###### Art. 83.º Classificação dos locais. - Para efeito de aplicação do presente Regulamento, os locais classificam-se:
+Art. 83.º Classificação dos locais. - Para efeito de aplicação do presente Regulamento, os locais classificam-se:
 
 a) Quanto ao ambiente, em:
 
@@ -709,43 +776,43 @@ Comentários. - 1. Num local que, quanto à sua utilização, é classificado nu
 
 2. Numa mesma dependência pode, ainda, haver zonas com condições ambientes diferentes. É o caso, por exemplo, de um local molhado, em que para os aparelhos colocados a altura elevada não são de considerar os mesmos riscos que para os colocados perto do pavimento, podendo, portanto, no que se refere à protecção contra a penetração de líquidos, os primeiros ser de classe inferior à dos segundos.
 
-###### Art. 84.º Locais sem riscos especiais. - Consideram-se como locais sem riscos especiais os que sejam interiores e que, pelas suas condições ambientes, não devam ser classificados num dos tipos definidos nos artigos 85.º a 96.º
+Art. 84.º Locais sem riscos especiais. - Consideram-se como locais sem riscos especiais os que sejam interiores e que, pelas suas condições ambientes, não devam ser classificados num dos tipos definidos nos artigos 85.º a 96.º
 
-###### Art. 85.º Locais temporariamente húmidos. - Consideram-se como locais temporariamente húmidos os que sejam interiores e que, em virtude do uso que deles se faça normalmente, possam estar húmidos durante certos períodos mas sequem facilmente em virtude da sua boa ventilação, bem como as zonas abrigadas da chuva dos locais simplesmente cobertos.
+Art. 85.º Locais temporariamente húmidos. - Consideram-se como locais temporariamente húmidos os que sejam interiores e que, em virtude do uso que deles se faça normalmente, possam estar húmidos durante certos períodos mas sequem facilmente em virtude da sua boa ventilação, bem como as zonas abrigadas da chuva dos locais simplesmente cobertos.
 
 Comentários. - 1. Consideram-se como abrigadas da chuva as zonas que não são atingidas por esta (chuva com a incidência de 60º em relação à vertical).
 
 2. Consideram-se como locais com boa ventilação aqueles em que, pela existência de janelas, frestas, chaminés ou de equipamento de ventilação adequado, se pode verificar uma boa renovação do ar ambiente.
 
-###### Art. 86.º Locais húmidos. - Consideram-se como locais húmidos os que sejam interiores e em que a humidade ambiente se manifeste, de uma forma permanente ou durante largos períodos, sob a forma de condensação abundante, sobre paredes, tectos ou pavimentos, sem, todavia, os impregnar de água.
+Art. 86.º Locais húmidos. - Consideram-se como locais húmidos os que sejam interiores e em que a humidade ambiente se manifeste, de uma forma permanente ou durante largos períodos, sob a forma de condensação abundante, sobre paredes, tectos ou pavimentos, sem, todavia, os impregnar de água.
 
 Comentário. - De uma forma geral, devem ser considerados como locais húmidos aqueles em que a humidade relativa seja, permanentemente ou durante largos períodos, superior a 80%.
 
-###### Art. 87.º Locais molhados. - Consideram-se como locais molhados os que sejam interiores e onde as paredes, tectos ou pavimentos se encontrem molhados permanentemente ou durante largos períodos, ou impregnados de líquidos condutores, bem como as zonas não abrigadas da chuva dos locais simplesmente cobertos.
+Art. 87.º Locais molhados. - Consideram-se como locais molhados os que sejam interiores e onde as paredes, tectos ou pavimentos se encontrem molhados permanentemente ou durante largos períodos, ou impregnados de líquidos condutores, bem como as zonas não abrigadas da chuva dos locais simplesmente cobertos.
 
 Comentários. - 1. De uma maneira geral, devem ser considerados como locais molhados aqueles que sejam lavados por meio de agulheta ou possuam uma torneira própria para esse fim.
 
 2. Consideram-se como não abrigadas da chuva as zonas que são atingidas por esta (chuva com a incidência de 60º em relação à vertical).
 
-###### Art. 88.º Locais expostos. - Consideram-se como locais expostos os sujeitos às acções da intempérie e não incluídos no artigo 87.º
+Art. 88.º Locais expostos. - Consideram-se como locais expostos os sujeitos às acções da intempérie e não incluídos no artigo 87.º
 
-###### Art. 89.º Locais submersos. - Consideram-se como locais submersos os que se encontrem debaixo de água ou de outro líquido condutor.
+Art. 89.º Locais submersos. - Consideram-se como locais submersos os que se encontrem debaixo de água ou de outro líquido condutor.
 
-###### Art. 90.º Locais poeirentos. - Consideram-se como locais poeirentos os que sejam interiores ou exteriores e em que os diferentes materiais das instalações eléctricas se encontrem particularmente expostos a poeiras e não estejam incluídos nos artigos 95.º e 96.º
+Art. 90.º Locais poeirentos. - Consideram-se como locais poeirentos os que sejam interiores ou exteriores e em que os diferentes materiais das instalações eléctricas se encontrem particularmente expostos a poeiras e não estejam incluídos nos artigos 95.º e 96.º
 
-###### Art. 91.º Locais de ambiente corrosivo. - Consideram-se como locais de ambiente corrosivo os que sejam interiores ou exteriores e onde existam substâncias susceptíveis de atingir e atacar os materiais empregados nas instalações eléctricas, em especial os metálicos.
+Art. 91.º Locais de ambiente corrosivo. - Consideram-se como locais de ambiente corrosivo os que sejam interiores ou exteriores e onde existam substâncias susceptíveis de atingir e atacar os materiais empregados nas instalações eléctricas, em especial os metálicos.
 
-###### Art. 92.º Locais sujeitos a baixas temperaturas. - Consideram-se locais sujeitos a baixas temperaturas os que sejam interiores ou exteriores e em que a temperatura seja susceptível de se manter, frequentemente e durante bastante tempo, abaixo de -5ºC.
+Art. 92.º Locais sujeitos a baixas temperaturas. - Consideram-se locais sujeitos a baixas temperaturas os que sejam interiores ou exteriores e em que a temperatura seja susceptível de se manter, frequentemente e durante bastante tempo, abaixo de -5ºC.
 
 Comentário. - Consideram-se incluídos neste tipo de local as paredes, tectos ou pavimentos de edifícios e as partes neles contidas em que se verifiquem temperaturas inferiores a -5ºC.
 
-###### Art. 93.º Locais sujeitos a altas temperaturas. - Consideram-se como locais sujeitos a altas temperaturas os que sejam interiores ou exteriores e em que a temperatura seja susceptível de se manter, frequentemente e durante bastante tempo, acima de 40ºC.
+Art. 93.º Locais sujeitos a altas temperaturas. - Consideram-se como locais sujeitos a altas temperaturas os que sejam interiores ou exteriores e em que a temperatura seja susceptível de se manter, frequentemente e durante bastante tempo, acima de 40ºC.
 
 Comentário. - Consideram-se incluídos neste tipo de local as paredes, tectos ou pavimentos de edifícios e as partes neles contidas em que se verifiquem temperaturas superiores a 40ºC.
 
-###### Art. 94.º Locais sujeitos a acções mecânicas intensas. - Consideram-se como locais sujeitos a acções mecânicas intensas os que sejam interiores ou exteriores e onde haja possibilidade de se produzirem choques, trepidações ou outras acções mecânicas de intensidade ou frequência capazes de prejudicar a boa conservação ou alterar as características dos materiais empregados nas instalações eléctricas.
+Art. 94.º Locais sujeitos a acções mecânicas intensas. - Consideram-se como locais sujeitos a acções mecânicas intensas os que sejam interiores ou exteriores e onde haja possibilidade de se produzirem choques, trepidações ou outras acções mecânicas de intensidade ou frequência capazes de prejudicar a boa conservação ou alterar as características dos materiais empregados nas instalações eléctricas.
 
-###### Art. 95.º Locais com risco de incêndio. - Consideram-se como locais com risco de incêndio os locais interiores ou exteriores onde sejam fabricadas, manipuladas, transformadas ou armazenadas quantidades importantes de materiais sólidos ou líquidos facilmente inflamáveis.
+Art. 95.º Locais com risco de incêndio. - Consideram-se como locais com risco de incêndio os locais interiores ou exteriores onde sejam fabricadas, manipuladas, transformadas ou armazenadas quantidades importantes de materiais sólidos ou líquidos facilmente inflamáveis.
 
 Comentários. - 1. Entendem-se por materiais facilmente inflamáveis aqueles que têm temperatura de inflamação baixa, que oferecem a possibilidade de alterações químicas que favoreçam a sua combustão espontânea ou que, pela sua natureza, propagam facilmente as chamas.
 
@@ -753,7 +820,7 @@ Comentários. - 1. Entendem-se por materiais facilmente inflamáveis aqueles que
 
 Por temperatura de inflamação de um material líquido entende-se a temperatura mínima a que esse material, em condições de ensaio especificadas, emite vapores em quantidade suficiente para que se inflamem instantaneamente pela aproximação de uma chama, não continuando, porém, a arder.
 
-###### Art. 96.º Locais com risco de explosão. - Consideram-se como locais com risco de explosão os locais interiores ou exteriores onde sejam fabricadas, manipuladas, transformadas ou armazenadas quantidades importantes de materiais sólidos, líquidos ou gasosos susceptíveis de explodir ou os locais em que se corra o risco de se acumularem quantidades apreciáveis de gases, vapores ou poeiras susceptíveis de formar, entre si ou com o ar, misturas explosivas.
+Art. 96.º Locais com risco de explosão. - Consideram-se como locais com risco de explosão os locais interiores ou exteriores onde sejam fabricadas, manipuladas, transformadas ou armazenadas quantidades importantes de materiais sólidos, líquidos ou gasosos susceptíveis de explodir ou os locais em que se corra o risco de se acumularem quantidades apreciáveis de gases, vapores ou poeiras susceptíveis de formar, entre si ou com o ar, misturas explosivas.
 
 Comentários. - 1. Entendem-se por materiais explosivos as substâncias ou misturas nas quais se pode propagar espontânea e muito rapidamente uma reacção de combustão, designada por «explosão», em consequência de se ter verificado, num ponto da mistura, uma ignição provocada por um agente de ignição exterior.
 
@@ -771,11 +838,11 @@ b) Líquidos explosivos;
 
 c) Atmosferas explosivas [misturas de gases ou vapores combustíveis com o ar, misturas de sólidos ou líquidos com o ar (nevoeiros), poeiras e fibras em suspensão].
 
-###### Art. 97.º Locais residenciais ou de uso profissional. - Consideram-se como locais residenciais ou de uso profissional os locais destinados a habitação ou a actividade profissional e os locais de natureza semelhante não incluídos nos artigos 98.º a 102.º
+Art. 97.º Locais residenciais ou de uso profissional. - Consideram-se como locais residenciais ou de uso profissional os locais destinados a habitação ou a actividade profissional e os locais de natureza semelhante não incluídos nos artigos 98.º a 102.º
 
 Comentário. - Entre outros, devem ser considerados como locais residenciais ou de uso profissional: os locais destinados a habitação particular, os locais de exercício de profissão liberal, com ou sem habitação anexa (pequenos escritórios, cartórios, consultórios, etc.), e os locais de uso profissional, com ou sem habitação anexa (oficinas de alfaiate, cabeleireiros, etc.).
 
-###### Art. 98.º Estabelecimentos recebendo público. - Consideram-se como estabelecimentos recebendo público os locais que não devam ser classificados num dos tipos definidos nos artigos 97.º e 99.º a 102.º e onde se exerça qualquer actividade destinada ao público em geral ou a determinados grupos de pessoas.
+Art. 98.º Estabelecimentos recebendo público. - Consideram-se como estabelecimentos recebendo público os locais que não devam ser classificados num dos tipos definidos nos artigos 97.º e 99.º a 102.º e onde se exerça qualquer actividade destinada ao público em geral ou a determinados grupos de pessoas.
 
 Comentário. - Entre outros, devem ser considerados como estabelecimentos recebendo público:
 
@@ -789,19 +856,19 @@ d) Estabelecimentos de ensino, cultura, culto e semelhantes: escolas, seminário
 
 e) Estabelecimentos comerciais e semelhantes: supermercados, armazéns, escritórios, repartições públicas, hotéis, pensões, restaurantes, lojas, cafés, cervejarias, esplanadas, gares, etc.
 
-###### Art. 99.º Estabelecimentos industriais. - Consideram-se como estabelecimentos industriais os locais onde se realizem, com carácter permanente, trabalhos de preparação, transformação, acabamento ou manipulação de matérias-primas ou produtos industriais, montagem ou reparação de equipamentos e, ainda, os locais onde se armazenem os produtos ligados a essas actividades.
+Art. 99.º Estabelecimentos industriais. - Consideram-se como estabelecimentos industriais os locais onde se realizem, com carácter permanente, trabalhos de preparação, transformação, acabamento ou manipulação de matérias-primas ou produtos industriais, montagem ou reparação de equipamentos e, ainda, os locais onde se armazenem os produtos ligados a essas actividades.
 
 Comentário. - Além das fábricas, devem, entre outros, ser considerados como estabelecimentos industriais: as oficinas, laboratórios industriais, armazéns de matérias-primas ou produtos acabados, instalações de manuseamento de combustíveis líquidos ou gasosos, garagens públicas, os locais de pintura onde são, regular ou frequentemente, aplicados produtos inflamáveis e os locais onde se executam trabalhos fabris mecânicos ou manuais, incluindo aqueles em que se exerçam indústrias caseiras ou em regime de artesanato.
 
-###### Art. 100.º Estabelecimentos agrícolas ou pecuários. - Consideram-se como estabelecimentos agrícolas ou pecuários os locais onde se realizem, com carácter permanente, actividades agrícolas ou pecuárias ou onde se armazenem produtos relacionados com estas actividades.
+Art. 100.º Estabelecimentos agrícolas ou pecuários. - Consideram-se como estabelecimentos agrícolas ou pecuários os locais onde se realizem, com carácter permanente, actividades agrícolas ou pecuárias ou onde se armazenem produtos relacionados com estas actividades.
 
 Comentário. - Entre outros, devem ser considerados como estabelecimentos agrícolas ou pecuários: os celeiros, silos, adegas, lagares, cavalariças, estrebarias, pocilgas e outros locais onde se exerçam actividades de carácter tipicamente agrícola ou pecuário, não sendo, porém, considerados como tais as instalações similares fazendo parte da pequena exploração agrícola e onde a importância ou natureza das instalações não justifique cuidados especiais com a instalação eléctrica.
 
-###### Art. 101.º Casas de banho, balneários e semelhantes. - Consideram-se como casas de banho, balneários e semelhantes os locais para uso individual ou colectivo afecto à utilização de banheiras, bacias de duches ou semelhantes.
+Art. 101.º Casas de banho, balneários e semelhantes. - Consideram-se como casas de banho, balneários e semelhantes os locais para uso individual ou colectivo afecto à utilização de banheiras, bacias de duches ou semelhantes.
 
 Comentário. - Os locais ocupados unicamente por lavatórios ou sanitários não são abrangidos pela definição do artigo.
 
-###### Art. 102.º Locais afectos a serviços técnicos. - Consideram-se como locais afectos a serviços técnicos os locais destinados expressamente a assegurar, por si ou por equipamentos neles existentes, serviços complementares de apoio, conforto ou segurança da utilização ou actividade principal de um edifício, parte de um edifício ou estabelecimento.
+Art. 102.º Locais afectos a serviços técnicos. - Consideram-se como locais afectos a serviços técnicos os locais destinados expressamente a assegurar, por si ou por equipamentos neles existentes, serviços complementares de apoio, conforto ou segurança da utilização ou actividade principal de um edifício, parte de um edifício ou estabelecimento.
 
 Comentário. - São exemplos típicos de locais afectos a serviços técnicos: os locais afectos a serviços eléctricos, as centrais de aquecimento, de refrigeração ou de climatização e as garagens particulares.
 
@@ -809,7 +876,7 @@ Comentário. - São exemplos típicos de locais afectos a serviços técnicos: o
 
 2.1 - Disposições gerais
 
-###### Art. 103.º Materiais. - 1. Os condutores, tubos, quadros, aparelhos e outros elementos das instalações, assim como os materiais que os constituem, deverão obedecer às disposições deste Regulamento e, ainda, às normas e especificações nacionais ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
+Art. 103.º Materiais. - 1. Os condutores, tubos, quadros, aparelhos e outros elementos das instalações, assim como os materiais que os constituem, deverão obedecer às disposições deste Regulamento e, ainda, às normas e especificações nacionais ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
 
 2. Para verificação do disposto no número anterior, a fiscalização do Governo poderá exigir a apresentação de certificados passados ou confirmados por entidades idóneas.
 
@@ -817,7 +884,7 @@ Comentário. - São exemplos típicos de locais afectos a serviços técnicos: o
 
 Comentário. - A designação genérica de «materiais» abrange neste Regulamento, de acordo com o artigo, não só os condutores, tubos, condutas, aparelhos, quadros e outros elementos e equipamentos das instalações, mas também os materiais que os constituem.
 
-###### Art. 104.º Características dos materiais. - 1. Os materiais a empregar nas instalações deverão ter e conservar, de forma durável, características eléctricas, mecânicas, físicas e químicas adequadas às condições a que podem estar submetidos em funcionamento normal ou anormal previsível.
+Art. 104.º Características dos materiais. - 1. Os materiais a empregar nas instalações deverão ter e conservar, de forma durável, características eléctricas, mecânicas, físicas e químicas adequadas às condições a que podem estar submetidos em funcionamento normal ou anormal previsível.
 
 2. Os materiais não deverão, ainda, pelas suas características físicas ou químicas, provocar nas instalações danos de natureza mecânica, física, química ou electrolítica, nem causar perturbações nas instalações vizinhas.
 
@@ -1009,11 +1076,11 @@ e) Aparelhos intrinsecamente seguros - aparelhos construídos de forma tal que a
 
 2.2 - Condutores
 
-###### Art. 105.º Materiais dos condutores nus e das almas condutoras. - Os condutores nus e as almas condutoras dos condutores isolados e dos cabos a empregar nas canalizações serão de cobre, alumínio, ou suas ligas, ou de outros materiais que possuam características eléctricas e mecânicas adequadas.
+Art. 105.º Materiais dos condutores nus e das almas condutoras. - Os condutores nus e as almas condutoras dos condutores isolados e dos cabos a empregar nas canalizações serão de cobre, alumínio, ou suas ligas, ou de outros materiais que possuam características eléctricas e mecânicas adequadas.
 
 Comentário. - Um exemplo típico de canalizações em que podem ser empregados materiais diferentes dos expressamente indicados no artigo é o das linhas de contacto para pontes rolantes, em que se emprega o ferro e o cobre associados ou mesmo apenas o ferro.
 
-###### Art. 106.º Características dos condutores. - As características que deverão definir os condutores, quanto ao seu emprego, são:
+Art. 106.º Características dos condutores. - As características que deverão definir os condutores, quanto ao seu emprego, são:
 
 a) Isolamento;
 
@@ -1085,7 +1152,7 @@ Classe T(índice 3) - Condutores isolados e cabos sem limite definido de tempera
 
 3. De acordo com a norma indicada no comentário 1, para referenciar um condutor isolado ou um cabo em relação a uma das suas características utiliza-se o símbolo, indicado nesse comentário, constituído pela letra maiúscula correspondente à característica considerada com um índice numérico indicativo da classe respectiva.
 
-###### Art. 107.º Codificação dos condutores isolados e dos cabos. - Para codificar um condutor isolado ou um cabo em relação a todas as características referidas no artigo 106.º deverão empregar-se, de acordo com a norma relativa à classificação e codificação de condutores isolados e cabos, apenas os índices numéricos correspondentes à classe respectiva dentro de cada característica, as quais serão consideradas, sem qualquer omissão, pela ordem indicada naquele artigo.
+Art. 107.º Codificação dos condutores isolados e dos cabos. - Para codificar um condutor isolado ou um cabo em relação a todas as características referidas no artigo 106.º deverão empregar-se, de acordo com a norma relativa à classificação e codificação de condutores isolados e cabos, apenas os índices numéricos correspondentes à classe respectiva dentro de cada característica, as quais serão consideradas, sem qualquer omissão, pela ordem indicada naquele artigo.
 
 Comentários. - 1. A norma NP-889 fixa, para os condutores isolados e cabos, a forma como deve ser feita a sua codificação.
 
@@ -1099,15 +1166,15 @@ Conforme o tipo de local, este Regulamento fixa, por recurso ao código, as cara
 
 Dado que para a temperatura ambiente de utilização as respectivas classes não correspondem a um grau crescente de temperatura ambiente e que para a blindagem e flexibilidade, embora as respectivas classes correspondam a um grau crescente dessas características, a escolha das mesmas obedece a um critério diferente do visado com o código, na aplicação deste Regulamento deve entender-se, com a referência a «características não inferiores às dos condutores classificados sob um código dado», que podem ser empregados condutores cujo código tenha algarismos de ordem superior aos indicados no que se refere unicamente às características de isolamento, de resistência às acções mecânicas e de resistência à corrosão.
 
-###### Art. 108.º Secções nominais. - Os valores das secções nominais dos condutores referidos neste Regulamento dizem respeito, salvo quando expressamente indicado em contrário, a condutores de cobre para canalizações eléctricas. Para condutores de outros materiais, as respectivas secções nominais serão as normalizadas equivalentes às secções nominais indicadas para os condutores de cobre.
+Art. 108.º Secções nominais. - Os valores das secções nominais dos condutores referidos neste Regulamento dizem respeito, salvo quando expressamente indicado em contrário, a condutores de cobre para canalizações eléctricas. Para condutores de outros materiais, as respectivas secções nominais serão as normalizadas equivalentes às secções nominais indicadas para os condutores de cobre.
 
 2.3 - Tubos e condutas
 
-###### Art. 109.º Materiais dos tubos e condutas. - Os tubos e condutas a empregar nas instalações serão de material isolante, de material condutor ou, simultaneamente, de materiais isolante e condutor, que possuam características eléctricas e mecânicas adequadas.
+Art. 109.º Materiais dos tubos e condutas. - Os tubos e condutas a empregar nas instalações serão de material isolante, de material condutor ou, simultaneamente, de materiais isolante e condutor, que possuam características eléctricas e mecânicas adequadas.
 
-###### Art. 110.º Acabamento dos tubos e condutas. - A superfície interior dos tubos e condutas não deverá apresentar, em qualquer ponto, arestas vivas, asperezas ou fissuras.
+Art. 110.º Acabamento dos tubos e condutas. - A superfície interior dos tubos e condutas não deverá apresentar, em qualquer ponto, arestas vivas, asperezas ou fissuras.
 
-###### Art. 111.º Características dos tubos e condutas. - As características que deverão definir os tubos e condutas, quanto ao seu emprego, são:
+Art. 111.º Características dos tubos e condutas. - As características que deverão definir os tubos e condutas, quanto ao seu emprego, são:
 
 a) Resistência às acções mecânicas;
 
@@ -1165,7 +1232,7 @@ Os tubos e condutas podem ser das classes referidas no comentário 6 do artigo 1
 
 2. De acordo com a norma indicada no comentário anterior, para referenciar um tubo ou uma conduta em relação a uma das suas características utiliza-se o símbolo, indicado nesse comentário, constituído pela letra maiúscula correspondente à característica considerada com um índice numérico indicativo da classe respectiva.
 
-###### Art. 112.º Codificação dos tubos e condutas. - Para codificar um tubo ou conduta em relação a todas as características referidas no artigo 111.º deverão empregar-se, de acordo com a norma relativa à classificação e codificação de tubos e condutas, apenas os índices numéricos correspondentes à classe respectiva dentro de cada característica, as quais serão consideradas, sem qualquer omissão, pela ordem indicada naquele artigo.
+Art. 112.º Codificação dos tubos e condutas. - Para codificar um tubo ou conduta em relação a todas as características referidas no artigo 111.º deverão empregar-se, de acordo com a norma relativa à classificação e codificação de tubos e condutas, apenas os índices numéricos correspondentes à classe respectiva dentro de cada característica, as quais serão consideradas, sem qualquer omissão, pela ordem indicada naquele artigo.
 
 Comentários. - 1. A norma NP-949 fixa a forma como deve ser feita a codificação de cada tubo ou conduta.
 
@@ -1175,7 +1242,7 @@ A título de exemplo, um tubo com resistência normal às acções mecânicas (M
 
 2.4 - Canalizações pré-fabricadas
 
-###### Art. 113.º Características das canalizações pré-fabricadas. - 1. Os invólucros das canalizações pré-fabricadas a empregar nas instalações serão de material condutor, de material isolante ou, simultaneamente, de materiais isolante e condutor, que possuam características eléctricas e mecânicas adequadas, podendo ter aberturas ou rasgos para ligação de aparelhos ou para ventilação.
+Art. 113.º Características das canalizações pré-fabricadas. - 1. Os invólucros das canalizações pré-fabricadas a empregar nas instalações serão de material condutor, de material isolante ou, simultaneamente, de materiais isolante e condutor, que possuam características eléctricas e mecânicas adequadas, podendo ter aberturas ou rasgos para ligação de aparelhos ou para ventilação.
 
 2. Nas canalizações pré-fabricadas empregando condutores isolados ou cabos, estes não deverão ter características inferiores às dos classificados sob código 301 100.
 
@@ -1193,7 +1260,7 @@ A título de exemplo, um tubo com resistência normal às acções mecânicas (M
 
 2.5.1 - Disposições gerais
 
-###### Art. 114.º Características dos aparelhos de ligação, corte, domando ou protecção. - 1. As características que deverão definir os aparelhos de ligação, corte, comando ou protecção, quanto ao seu emprego, são:
+Art. 114.º Características dos aparelhos de ligação, corte, domando ou protecção. - 1. As características que deverão definir os aparelhos de ligação, corte, comando ou protecção, quanto ao seu emprego, são:
 
 a) Características eléctricas;
 
@@ -1221,7 +1288,7 @@ b) À protecção contra a penetração de líquidos (H);
 
 c) À protecção contra acções mecânicas (M).
 
-###### Art. 115.º Codificação dos invólucros dos aparelhos. - 1. A codificação do invólucro de um aparelho em relação aos tipos de protecção referidos nas alíneas c) a e) do n.º 1 do artigo 114.º deverá ser feita, de acordo com a norma relativa aos tipos de protecção assegurada pelos invólucros dos aparelhos, utilizando um símbolo constituído pelas letras maiúsculas IP seguidas dos índices numéricos correspondentes à classe respectiva dentro de cada tipo de protecção, os quais serão considerados, sem qualquer omissão, por aquela ordem.
+Art. 115.º Codificação dos invólucros dos aparelhos. - 1. A codificação do invólucro de um aparelho em relação aos tipos de protecção referidos nas alíneas c) a e) do n.º 1 do artigo 114.º deverá ser feita, de acordo com a norma relativa aos tipos de protecção assegurada pelos invólucros dos aparelhos, utilizando um símbolo constituído pelas letras maiúsculas IP seguidas dos índices numéricos correspondentes à classe respectiva dentro de cada tipo de protecção, os quais serão considerados, sem qualquer omissão, por aquela ordem.
 
 2. A codificação do invólucro de um aparelho em relação a um ou a dois dos tipos de protecção referidos nas alíneas c) a e) do n.º 1 do artigo 114.º deverá ser feita, de acordo com a norma e da forma indicadas no número anterior, substituindo por um asterisco o ou os índices correspondentes ao ou aos tipos de protecção omitidos.
 
@@ -1231,7 +1298,7 @@ Comentários. - 1. A norma NP-999 fixa a forma como deve ser feita a codificaç�
 
 Também a título de exemplo, o invólucro de um aparelho que, quanto à protecção contra a penetração de líquidos, seja do tipo protegido contra a chuva é definido pelo código IP *3*.
 
-###### Art. 116.º Invólucro de protecção dos aparelhos das canalizações. - 1. Os invólucros de protecção dos aparelhos a intercalar nas canalizações deverão ser adequados às canalizações a que se destinam.
+Art. 116.º Invólucro de protecção dos aparelhos das canalizações. - 1. Os invólucros de protecção dos aparelhos a intercalar nas canalizações deverão ser adequados às canalizações a que se destinam.
 
 2. Os invólucros que tenham de assegurar a continuidade metálica dos tubos, condutas ou cabos com bainha metálica ou armadura deverão ter características que assegurem, de modo fácil e seguro, essa continuidade.
 
@@ -1239,21 +1306,21 @@ Também a título de exemplo, o invólucro de um aparelho que, quanto à protec�
 
 Comentário. - As caixas usualmente designadas por «caixas de aparelhagem» são consideradas no presente Regulamento como invólucro dos respectivos aparelhos.
 
-###### Art. 117.º Dimensões dos invólucros dos aparelhos. - Os invólucros dos aparelhos deverão ter dimensões tais que permitam a fácil ligação e acomodação dos aparelhos, condutores e ligadores.
+Art. 117.º Dimensões dos invólucros dos aparelhos. - Os invólucros dos aparelhos deverão ter dimensões tais que permitam a fácil ligação e acomodação dos aparelhos, condutores e ligadores.
 
-###### Art. 118.º Aparelhos acessíveis a qualquer pessoa. - Os aparelhos destinados a ser estabelecidos em instalações que possam ser acessíveis a qualquer pessoa deverão ser concebidos de forma a poderem ser manobrados sem precauções especiais.
+Art. 118.º Aparelhos acessíveis a qualquer pessoa. - Os aparelhos destinados a ser estabelecidos em instalações que possam ser acessíveis a qualquer pessoa deverão ser concebidos de forma a poderem ser manobrados sem precauções especiais.
 
-###### Art. 119.º Distâncias de isolamento. - Os comprimentos das linhas de fuga e as distâncias no ar das partes activas nuas dos aparelhos deverão ser determinados de forma a assegurar, nas condições mais desfavoráveis para que os aparelhos são concebidos, distâncias de isolamento adequadas.
+Art. 119.º Distâncias de isolamento. - Os comprimentos das linhas de fuga e as distâncias no ar das partes activas nuas dos aparelhos deverão ser determinados de forma a assegurar, nas condições mais desfavoráveis para que os aparelhos são concebidos, distâncias de isolamento adequadas.
 
 Comentário. - Os comprimentos das linhas de fuga e as distâncias no ar encontram-se indicadas nas normas dos respectivos aparelhos, podendo, na sua falta, adoptar-se os valores prescritos pela Comissão Electrotécnica Internacional ou outros aceites pela fiscalização do Governo.
 
-###### Art. 120.º Fixação dos aparelhos aos invólucros. - Se os invólucros não constituírem parte integrante dos aparelhos, deverá ser assegurada entre eles uma fixação rígida, por meio de parafusos, mas que permita que a desmontagem destes, para fins de manutenção ou verificação das ligações, se possa efectuar facilmente.
+Art. 120.º Fixação dos aparelhos aos invólucros. - Se os invólucros não constituírem parte integrante dos aparelhos, deverá ser assegurada entre eles uma fixação rígida, por meio de parafusos, mas que permita que a desmontagem destes, para fins de manutenção ou verificação das ligações, se possa efectuar facilmente.
 
 Comentário. - O artigo visa, em especial, impedir a utilização de garras ou peças semelhantes para fixação dos aparelhos aos invólucros.
 
 2.5.2 - Aparelhos de ligação
 
-###### Art. 121.º Características dos ligadores. - Os ligadores deverão assegurar, por aperto mecânico e de forma durável, a boa condutibilidade eléctrica, sem queda de tensão ou aquecimento exagerados, mesmo sob a acção de vibrações ou de diferenças de temperatura.
+Art. 121.º Características dos ligadores. - Os ligadores deverão assegurar, por aperto mecânico e de forma durável, a boa condutibilidade eléctrica, sem queda de tensão ou aquecimento exagerados, mesmo sob a acção de vibrações ou de diferenças de temperatura.
 
 Comentários. - 1. O aperto mecânico pode ser por parafuso, mola ou compressão.
 
@@ -1261,13 +1328,13 @@ Comentários. - 1. O aperto mecânico pode ser por parafuso, mola ou compressão
 
 3. Quando dos ligadores fizerem parte peças ferromagnéticas, pode ser necessário tomar medidas para evitar aquecimento excessivo destes por efeito magnético.
 
-###### Art. 122.º Número de condutores por ligador. - O mesmo dispositivo de aperto de cada ligador não deverá apertar mais de quatro condutores, para secções nominais iguais ou inferiores, a 4 mm2, ou dois condutores de secções nominais iguais ou contíguas na escala das secções nominais normalizadas, para secções nominais superiores a 4 mm2.
+Art. 122.º Número de condutores por ligador. - O mesmo dispositivo de aperto de cada ligador não deverá apertar mais de quatro condutores, para secções nominais iguais ou inferiores, a 4 mm2, ou dois condutores de secções nominais iguais ou contíguas na escala das secções nominais normalizadas, para secções nominais superiores a 4 mm2.
 
 Para secções nominais não contíguas e superiores a 4 mm2, cada condutor deverá ser apertado por dispositivo de aperto independente.
 
-###### Art. 123.º Dispositivos de aperto dos ligadores de massa. - Nos dispositivos de aperto dos ligadores de massa apenas deverão ser empregados parafusos.
+Art. 123.º Dispositivos de aperto dos ligadores de massa. - Nos dispositivos de aperto dos ligadores de massa apenas deverão ser empregados parafusos.
 
-###### Art. 124.º Contactos das tomadas e fichas. - 1. As tomadas e as fichas deverão ter os seus contactos (alvéolos das tomadas, pernos das fichas e contactos de terra) com dimensões e disposição tais que, em regra, apenas seja possível ligar entre si tomadas e fichas com o mesmo número de contactos e a mesma intensidade e tensão nominais.
+Art. 124.º Contactos das tomadas e fichas. - 1. As tomadas e as fichas deverão ter os seus contactos (alvéolos das tomadas, pernos das fichas e contactos de terra) com dimensões e disposição tais que, em regra, apenas seja possível ligar entre si tomadas e fichas com o mesmo número de contactos e a mesma intensidade e tensão nominais.
 
 2. As tomadas e as fichas deverão ser dotadas de tantos contactos electricamente independentes quantos os necessários para ligar todos os condutores da canalização a que se destinam, incluindo o de protecção, quando exista.
 
@@ -1277,17 +1344,17 @@ Para secções nominais não contíguas e superiores a 4 mm2, cada condutor deve
 
 Comentário. - A excepção à regra indicada no n.º 1 do artigo diz respeito, por exemplo, às fichas monofásicas de intensidade nominal não superior a 16 A destinadas a aparelhos da classe II, que podem ser inseridas em tomadas monofásicas com contacto de terra de intensidade nominal 10/16 A.
 
-###### Art. 125.º Contactos de protecção (contactos de terra). - 1. As tomadas e fichas deverão ser concebidas de forma que os contactos de protecção (contactos de terra), quando existam, não possam ficar sob tensão.
+Art. 125.º Contactos de protecção (contactos de terra). - 1. As tomadas e fichas deverão ser concebidas de forma que os contactos de protecção (contactos de terra), quando existam, não possam ficar sob tensão.
 
 2. Nos contactos de terra das tomadas apenas deverá poder ser inserido o contacto de terra da ficha, nunca podendo este ser inserido nos contactos activos da tomada.
 
-###### Art. 126.º Poder de corte. - As tomadas e fichas deverão permitir a ligação e desligação, pelo menos, da sua intensidade nominal à sua tensão nominal, excepto nos casos em que sejam dotadas de dispositivos que impeçam a desligação sob tensão.
+Art. 126.º Poder de corte. - As tomadas e fichas deverão permitir a ligação e desligação, pelo menos, da sua intensidade nominal à sua tensão nominal, excepto nos casos em que sejam dotadas de dispositivos que impeçam a desligação sob tensão.
 
-###### Art. 127.º Intermutabilidade dos contactos das fichas. - A disposição dos contactos das tomadas e das fichas deverá ser tal que haja uma única posição de entrada das fichas nas tomadas, fixas ou móveis, excepto no caso de tomadas e fichas destinadas a canalizações monofásicas.
+Art. 127.º Intermutabilidade dos contactos das fichas. - A disposição dos contactos das tomadas e das fichas deverá ser tal que haja uma única posição de entrada das fichas nas tomadas, fixas ou móveis, excepto no caso de tomadas e fichas destinadas a canalizações monofásicas.
 
-###### Art. 128.º Ligação de canalizações amovíveis a tomadas móveis e fichas. - As tomadas móveis e as fichas deverão ser concebidas de modo que quaisquer esforços de tracção ou torção exercidos sobre as canalizações amovíveis a que estejam ligadas não se transmitam às ligações dos condutores aos contactos.
+Art. 128.º Ligação de canalizações amovíveis a tomadas móveis e fichas. - As tomadas móveis e as fichas deverão ser concebidas de modo que quaisquer esforços de tracção ou torção exercidos sobre as canalizações amovíveis a que estejam ligadas não se transmitam às ligações dos condutores aos contactos.
 
-###### Art. 129.º Aparelhos de ligação com funções múltiplas. - Não será permitido o emprego de aparelhos de ligação destinados a conferir funções múltiplas a suportes de lâmpadas ou tomadas.
+Art. 129.º Aparelhos de ligação com funções múltiplas. - Não será permitido o emprego de aparelhos de ligação destinados a conferir funções múltiplas a suportes de lâmpadas ou tomadas.
 
 Comentário. - Os aparelhos de ligação a que o artigo se refere são, entre outros, os seguintes:
 
@@ -1303,11 +1370,11 @@ e) Conjuntos constituídos por combinações de quaisquer dos aparelhos referido
 
 2.5.3 - Aparelhos de corte ou de comando
 
-###### Art. 130.º Poder de corte e de fecho dos aparelhos de corte. - Os aparelhos de corte deverão poder ligar e desligar a potência aparente de corte nominal, à tensão e factor de potência nominais, em boas condições de segurança e no número de vezes adequado às condições normais de serviço.
+Art. 130.º Poder de corte e de fecho dos aparelhos de corte. - Os aparelhos de corte deverão poder ligar e desligar a potência aparente de corte nominal, à tensão e factor de potência nominais, em boas condições de segurança e no número de vezes adequado às condições normais de serviço.
 
-###### Art. 131.º Aparelhos de corte com funções múltiplas. - Os aparelhos de corte poderão desempenhar também as funções de aparelhos de comando ou de aparelhos de protecção desde que obedeçam simultaneamente às respectivas prescrições.
+Art. 131.º Aparelhos de corte com funções múltiplas. - Os aparelhos de corte poderão desempenhar também as funções de aparelhos de comando ou de aparelhos de protecção desde que obedeçam simultaneamente às respectivas prescrições.
 
-###### Art. 132.º Posição de ligado e de desligado. - 1. Os aparelhos de corte ou de comando deverão ser construídos de forma a assegurar em todos os seus pólos, quando manobrados correctamente, a abertura ou o fecho do circuito a que estão ligados e a não poder ficar em posição intermédia não desejada.
+Art. 132.º Posição de ligado e de desligado. - 1. Os aparelhos de corte ou de comando deverão ser construídos de forma a assegurar em todos os seus pólos, quando manobrados correctamente, a abertura ou o fecho do circuito a que estão ligados e a não poder ficar em posição intermédia não desejada.
 
 2. Os aparelhos de corte ou de comando, do tipo inversor, em que a acção da gravidade possa ter efeito sobre a sua posição, deverão ser dotados de sistema mecânico que permita mantê-los, de forma segura, na posição de desligado.
 
@@ -1317,9 +1384,9 @@ Comentário. - A não obrigatoriedade da referenciação das posições de fecho
 
 2.5.4 - Aparelhos de protecção
 
-###### Art. 133.º Poder de corte dos aparelhos de protecção contra sobreintensidades. - Os aparelhos de protecção contra sobreintensidades deverão ser construídos de forma a poder cortar a potência aparente de corte nominal de curto-circuito, à tensão e factor de potência nominais, em boas condições de segurança.
+Art. 133.º Poder de corte dos aparelhos de protecção contra sobreintensidades. - Os aparelhos de protecção contra sobreintensidades deverão ser construídos de forma a poder cortar a potência aparente de corte nominal de curto-circuito, à tensão e factor de potência nominais, em boas condições de segurança.
 
-###### Art. 134.º Corrente de funcionamento dos aparelhos de protecção contra sobreintensidades. - 1. Os aparelhos de protecção contra sobreintensidades deverão actuar quando percorridos por uma corrente de valor superior à sua intensidade nominal e dependente do tipo de aparelho.
+Art. 134.º Corrente de funcionamento dos aparelhos de protecção contra sobreintensidades. - 1. Os aparelhos de protecção contra sobreintensidades deverão actuar quando percorridos por uma corrente de valor superior à sua intensidade nominal e dependente do tipo de aparelho.
 
 2. Os fusíveis dos corta-circuitos fusíveis com a mesma característica de fusão deverão ser construídos de forma que, em condições idênticas, um fusível de determinada intensidade nominal funda antes de um de intensidade nominal superior.
 
@@ -1351,11 +1418,11 @@ d) Para fusíveis de intensidade nominal superior a 400 A: 4 h.
 
 A intensidade convencional de não funcionamento e a de funcionamento são referidas, em regra, a um tempo convencional de 1 h.
 
-###### Art. 135.º Corta-circuitos fusíveis. - Os corta-circuitos fusíveis deverão ser construídos de forma que o elemento fusível se encontre encerrado em câmara fechada.
+Art. 135.º Corta-circuitos fusíveis. - Os corta-circuitos fusíveis deverão ser construídos de forma que o elemento fusível se encontre encerrado em câmara fechada.
 
-###### Art. 136.º Disjuntores. - Os disjuntores deverão também obedecer ao disposto nos artigos 130.º a 132.º, na parte aplicável.
+Art. 136.º Disjuntores. - Os disjuntores deverão também obedecer ao disposto nos artigos 130.º a 132.º, na parte aplicável.
 
-###### Art. 137.º Aparelhos de protecção sensíveis à corrente diferencial-residual. - Os aparelhos de protecção sensíveis à corrente diferencial-residual deverão assegurar, directa ou indirectamente, o corte omnipolar do circuito em que estão inseridos e ser dotados de dispositivo que permita, sem meios especiais, verificar o seu estado de funcionamento.
+Art. 137.º Aparelhos de protecção sensíveis à corrente diferencial-residual. - Os aparelhos de protecção sensíveis à corrente diferencial-residual deverão assegurar, directa ou indirectamente, o corte omnipolar do circuito em que estão inseridos e ser dotados de dispositivo que permita, sem meios especiais, verificar o seu estado de funcionamento.
 
 Comentários. - 1. Os aparelhos de protecção sensíveis à corrente diferencial-residual provocam o corte automático da instalação quando a soma vectorial das intensidades de corrente que atravessam os pólos do aparelho atingem um valor predeterminado.
 
@@ -1369,7 +1436,7 @@ Baixa sensibilidade: I(índice Delta) > 1 A.
 
 2.6 - Quadros
 
-###### Art. 138.º Material da estrutura de suporte ou do invólucro dos quadros. - 1. As estruturas de suporte ou os invólucros dos quadros deverão ser de material que possua características adequadas, podendo ser ou não isolantes.
+Art. 138.º Material da estrutura de suporte ou do invólucro dos quadros. - 1. As estruturas de suporte ou os invólucros dos quadros deverão ser de material que possua características adequadas, podendo ser ou não isolantes.
 
 2. No caso de as estruturas de suporte ou de os invólucros serem de material condutor, as partes activas dos aparelhos montados nos quadros deverão ser convenientemente isoladas dos mesmos.
 
@@ -1381,7 +1448,7 @@ Comentários. - 1. Entre as características que as estruturas de suporte ou os 
 
 3. O emprego de mármore como estrutura de suporte dos quadros é pouco recomendável, dado que a eventual presença de veios contendo substâncias condutoras pode diminuir o isolamento entre as partes activas nele apoiadas, a menos que as mesmas sejam convenientemente isoladas.
 
-###### Art. 139.º Características dos quadros. - 1. Aos quadros será aplicável o disposto no artigo 114.º
+Art. 139.º Características dos quadros. - 1. Aos quadros será aplicável o disposto no artigo 114.º
 
 2. A classe de protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras a que pertencer cada quadro deverá ser conferida pelo respectivo invólucro e ser considerada para as condições normais de serviço desse quadro.
 
@@ -1395,7 +1462,7 @@ Comentários. - 1. O n.º 2 do artigo visa não permitir a utilização de quadr
 
 2. Nos quadros com protecção da classe IP **9, a protecção dos vidros dos aparelhos de medida ou sinalização pode ser executada por meio de tampas amovíveis, grades ou saliências, resguardando os referidos vidros contra pancadas e outras acções mecânicas particularmente violentas.
 
-###### Art. 140.º Acessibilidade aos aparelhos dos quadros. - 1. O acesso aos aparelhos dos quadros deverá ser fácil, tanto para efeito de manobra como para verificação de ligações e afinação ou regulação de relais ou aparelhos semelhantes.
+Art. 140.º Acessibilidade aos aparelhos dos quadros. - 1. O acesso aos aparelhos dos quadros deverá ser fácil, tanto para efeito de manobra como para verificação de ligações e afinação ou regulação de relais ou aparelhos semelhantes.
 
 2. O acesso às várias partes dos aparelhos ou ao barramento deverá ser permanentemente assegurado sem necessidade de desmontar qualquer outro aparelho montado no mesmo quadro.
 
@@ -1407,25 +1474,25 @@ Comentários. - 1. Nos quadros abertos, o acesso aos aparelhos pode ser feito po
 
 4. Nos quadros de caixas, o acesso aos aparelhos é feito apenas pela face frontal, tanto para efeito de observação e manobra como de manutenção, execução de ligações e regulação dos aparelhos.
 
-###### Art. 141.º Tensão de serviço e natureza ou frequência da corrente. - 1. Os quadros deverão ser concebidos para uma única tensão de serviço e para uma corrente de uma única natureza e frequência.
+Art. 141.º Tensão de serviço e natureza ou frequência da corrente. - 1. Os quadros deverão ser concebidos para uma única tensão de serviço e para uma corrente de uma única natureza e frequência.
 
 2. Quando haja necessidade ou conveniência em reunir num mesmo quadro circuitos ou aparelhos de tensões nominais diferentes ou funcionando com correntes de natureza ou de frequência diferentes, os mesmos deverão ser agrupados de acordo com as respectivas tensões nominais e com a natureza ou frequência da corrente com que funcionem e ser montados em secções distintas e separadas por forma a não ser fácil que as tensões mais elevadas se transmitam aos elementos de tensões mais baixas ou que correntes de uma natureza ou frequência se transmitam a circuitos de corrente de outra natureza ou frequência.
 
 3. Nos quadros em que haja aparelhos ou circuitos de telecomunicação (medida, sinalização ou comando) inerentes aos circuitos principais desses quadros, dispensar-se-á a separação prevista no número anterior, desde que esses aparelhos ou circuitos sejam isolados para a maior tensão existente no quadro.
 
-###### Art. 142.º Identificação da tensão de serviço e da natureza ou frequência da corrente. - 1. Nos quadros deverá ser indicada, de forma clara, a tensão de serviço e a natureza e frequência da corrente para que foram construídos, excepto no caso de quadros para baixa tensão, de corrente contínua ou de corrente alternada de frequência 50 Hz.
+Art. 142.º Identificação da tensão de serviço e da natureza ou frequência da corrente. - 1. Nos quadros deverá ser indicada, de forma clara, a tensão de serviço e a natureza e frequência da corrente para que foram construídos, excepto no caso de quadros para baixa tensão, de corrente contínua ou de corrente alternada de frequência 50 Hz.
 
 2. Quando houver no mesmo quadro duas ou mais secções previstas para tensões nominais diferentes ou para correntes de natureza ou frequência diferentes, essa circunstância deverá ser claramente indicada.
 
 3. Quando os circuitos de telecomunicação (medida, sinalização ou comando) existentes nos quadros forem alimentados a tensão diferente ou por corrente de natureza ou frequência diferentes das dos circuitos principais, esse facto deverá ser claramente indicado se tal não se depreender imediatamente da observação dos aparelhos auxiliares correspondentes.
 
-###### Art. 143.º Distâncias de isolamento. - Os comprimentos das linhas de fuga e as distâncias no ar das partes activas nuas dos quadros não deverão ser inferiores aos valores indicados no quadro seguinte:
+Art. 143.º Distâncias de isolamento. - Os comprimentos das linhas de fuga e as distâncias no ar das partes activas nuas dos quadros não deverão ser inferiores aos valores indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Comentário. - Em consequência das eventuais deformações resultantes de aquecimento ou de curto-circuitos, há que atender a esse facto na fixação das distâncias de isolamento.
 
-###### Art. 144.º Ligações internas. - 1. As ligações internas dos quadros poderão ser estabelecidas com condutores nus ou com condutores isolados ou cabos, devendo obedecer ao disposto no artigo 281.º e, ainda, as condições seguintes:
+Art. 144.º Ligações internas. - 1. As ligações internas dos quadros poderão ser estabelecidas com condutores nus ou com condutores isolados ou cabos, devendo obedecer ao disposto no artigo 281.º e, ainda, as condições seguintes:
 
 a) Quando as ligações forem executadas com condutores nus, estes deverão ser apoiados sobre peças isolantes adequadas por forma a serem respeitadas as distâncias de isolamento fixadas no artigo 143.º;
 
@@ -1441,23 +1508,23 @@ b) Quando as ligações forem executadas com condutores isolados ou cabos, estes
 
 Comentário. - Recomenda-se que os condutores de fase sejam facilmente identificáveis por letras ou números, ou por cores de acordo com o disposto no artigo 180.º
 
-###### Art. 145.º Quadros com intensidades de corrente que originem fortes campos magnéticos. - Nos quadros em que as intensidades das correntes de serviço possam originar fortes campos magnéticos, deverá impedir-se que, à volta dos condutores unipolares, se fechem circuitos magnéticos de fraca relutância constituídos por elementos da estrutura que possam ficar sujeitos a aquecimento exagerado.
+Art. 145.º Quadros com intensidades de corrente que originem fortes campos magnéticos. - Nos quadros em que as intensidades das correntes de serviço possam originar fortes campos magnéticos, deverá impedir-se que, à volta dos condutores unipolares, se fechem circuitos magnéticos de fraca relutância constituídos por elementos da estrutura que possam ficar sujeitos a aquecimento exagerado.
 
-###### Art. 146.º Ligador de massa dos quadros. - Os quadros deverão ser dotados de um ligador de massa, devidamente identificado, ao qual serão ligados os condutores de protecção da instalação e a massa do quadro.
+Art. 146.º Ligador de massa dos quadros. - Os quadros deverão ser dotados de um ligador de massa, devidamente identificado, ao qual serão ligados os condutores de protecção da instalação e a massa do quadro.
 
 Comentário. - Como a protecção das pessoas contra contactos indirectos é feita habitualmente por ligação à terra associada a um aparelho de protecção, o «ligador de massa» é designado também por «ligador de terra».
 
-###### Art. 147.º Identificação dos aparelhos. - Os aparelhos montados nos quadros deverão ser devidamente identificados por meio de etiquetas ou esquemas sinópticos que permitam conhecer as funções a que se destinam ou os circuitos a que pertencem, a menos que tal seja evidente.
+Art. 147.º Identificação dos aparelhos. - Os aparelhos montados nos quadros deverão ser devidamente identificados por meio de etiquetas ou esquemas sinópticos que permitam conhecer as funções a que se destinam ou os circuitos a que pertencem, a menos que tal seja evidente.
 
-###### Art. 148.º Identificação das posições de ligado e de desligado dos aparelhos de corte. - Nos aparelhos de corte montados nos quadros, cujo funcionamento não possa ser observado directamente pelo operador, deverá ser indicada, de forma clara, a posição de ligado ou de desligado em que se encontram.
+Art. 148.º Identificação das posições de ligado e de desligado dos aparelhos de corte. - Nos aparelhos de corte montados nos quadros, cujo funcionamento não possa ser observado directamente pelo operador, deverá ser indicada, de forma clara, a posição de ligado ou de desligado em que se encontram.
 
 2.7 - Aparelhos de conversão, transformação ou acumulação de energia eléctrica
 
-###### Art. 149.º Características dos aparelhos de conversão, transformação ou acumulação de energia eléctrica. - Aos aparelhos de conversão, transformação ou acumulação de energia eléctrica será aplicável o disposto no artigo 114.º
+Art. 149.º Características dos aparelhos de conversão, transformação ou acumulação de energia eléctrica. - Aos aparelhos de conversão, transformação ou acumulação de energia eléctrica será aplicável o disposto no artigo 114.º
 
 Comentário. - Na designação de «aparelhos de conversão, transformação ou acumulação de energia eléctrica» incluem-se conversores, transformadores, rectificadores, acumuladores, etc.
 
-###### Art. 150.º Marcação. - Nos aparelhos de conversão, transformação ou acumulação de energia eléctrica deverão ser marcadas, de forma indelével e facilmente legível, todas as indicações necessárias ao perfeito conhecimento das suas condições de construção e funcionamento.
+Art. 150.º Marcação. - Nos aparelhos de conversão, transformação ou acumulação de energia eléctrica deverão ser marcadas, de forma indelével e facilmente legível, todas as indicações necessárias ao perfeito conhecimento das suas condições de construção e funcionamento.
 
 Comentário. - A marcação exigida pelo artigo tem em vista:
 
@@ -1493,9 +1560,9 @@ l) Indicação do comportamento às frequências de telecomando.
 
 2.8.1 - Disposições gerais
 
-###### Art. 151.º Características dos aparelhos de utilização. - Aos aparelhos de utilização será aplicável o disposto no artigo 114.º
+Art. 151.º Características dos aparelhos de utilização. - Aos aparelhos de utilização será aplicável o disposto no artigo 114.º
 
-###### Art. 152.º Marcação. - Aos aparelhos de utilização será aplicável o disposto no artigo 150.º
+Art. 152.º Marcação. - Aos aparelhos de utilização será aplicável o disposto no artigo 150.º
 
 Comentários. - 1. A marcação a que se refere o artigo 150.º é feita normalmente numa «chapa de características» fixada aos aparelhos. Nos aparelhos de utilização de pequenas dimensões (por exemplo, lâmpadas, máquinas de barbear, etc.) não existe chapa, encontrando-se as características gravadas no invólucro exterior desses aparelhos.
 
@@ -1503,7 +1570,7 @@ Comentários. - 1. A marcação a que se refere o artigo 150.º é feita normalm
 
 3. Na chapa de características de uma máquina que possua diversos aparelhos de utilização, por exemplo uma máquina-ferramenta, recomenda-se que existam, para cada aparelho, as indicações previstas no artigo 150.º e, ainda, o valor da soma das intensidades nominais de todos os aparelhos que podem funcionar simultaneamente.
 
-###### Art. 153.º Aparelho de corte incorporado em aparelhos de utilização. - Os aparelhos de utilização deverão, em regra, ter incorporado um interruptor.
+Art. 153.º Aparelho de corte incorporado em aparelhos de utilização. - Os aparelhos de utilização deverão, em regra, ter incorporado um interruptor.
 
 Comentários. - 1. Há aparelhos de utilização, como, por exemplo, os grupos electro-bomba, em que não é possível nem justificável, pelas suas características ou localização, terem incorporado qualquer interruptor.
 
@@ -1511,17 +1578,17 @@ Há também outros em que, embora fosse possível serem dotados de interruptor, 
 
 2. Recomenda-se que os diversos aparelhos de protecção e comando de uma máquina que inclua vários aparelhos de utilização sejam concentrados num quadro localizado em posição facilmente acessível ao respectivo operador.
 
-###### Art. 154.º Instalação eléctrica interior dos aparelhos de utilização. - 1. A instalação eléctrica interna dos aparelhos de utilização deverá ser adequada às condições inerentes ao funcionamento destes e às condições ambientes e obedecer, na parte aplicável, às disposições deste Regulamento.
+Art. 154.º Instalação eléctrica interior dos aparelhos de utilização. - 1. A instalação eléctrica interna dos aparelhos de utilização deverá ser adequada às condições inerentes ao funcionamento destes e às condições ambientes e obedecer, na parte aplicável, às disposições deste Regulamento.
 
 2. Nas ligações internas dos aparelhos não deverão, em regra, empregar-se condutores com secção nominal inferior a 0,5 mm2.
 
-###### Art. 155.º Ligador de massa. - Os aparelhos de utilização, à excepção dos das classes 0 e II, referidas no artigo 157.º, deverão ser dotados de um ligador (ligador de massa), ao qual serão ligados a sua massa e o condutor de protecção da instalação a que o aparelho for ligado.
+Art. 155.º Ligador de massa. - Os aparelhos de utilização, à excepção dos das classes 0 e II, referidas no artigo 157.º, deverão ser dotados de um ligador (ligador de massa), ao qual serão ligados a sua massa e o condutor de protecção da instalação a que o aparelho for ligado.
 
-###### Art. 156.º Conectores dos aparelhos de utilização. - Os conectores dos aparelhos de utilização, quando existam, deverão obedecer ao disposto nos artigos 124.º a 127.º, na parte aplicável.
+Art. 156.º Conectores dos aparelhos de utilização. - Os conectores dos aparelhos de utilização, quando existam, deverão obedecer ao disposto nos artigos 124.º a 127.º, na parte aplicável.
 
 Comentário. - Entende-se por «conector» um aparelho de ligação destinado a ser montado num aparelho de utilização para o ligar à canalização de alimentação deste, em geral amovível, por intermédio de uma tomada apropriada (tomada móvel de conector).
 
-###### Art. 157.º Classes de protecção dos aparelhos de utilização contra contactos indirectos. - 1. Os aparelhos de utilização de tensão nominal igual ou inferior a 500 V, em corrente alternada, ou a 750 V, em corrente contínua, quanto à protecção contra contactos indirectos, poderão ser das classes de isolamento seguintes:
+Art. 157.º Classes de protecção dos aparelhos de utilização contra contactos indirectos. - 1. Os aparelhos de utilização de tensão nominal igual ou inferior a 500 V, em corrente alternada, ou a 750 V, em corrente contínua, quanto à protecção contra contactos indirectos, poderão ser das classes de isolamento seguintes:
 
 Classe 0;
 
@@ -1571,15 +1638,15 @@ Os aparelhos da classe II podem ter partes alimentadas a tensão reduzida.
 
 6. Dado que a tendência internacional é a de acabar com aparelhos das classes 0 e 0I, recomenda-se que na construção dos aparelhos de utilização se tenha desde já esse facto em consideração.
 
-###### Art. 158.º Temperaturas máximas admissíveis no interior dos aparelhos de utilização. - Os aparelhos de utilização deverão ser concebidos de forma a garantir que, sem prejuízo das respectivas classes de protecção, no seu interior não seja excedida a temperatura máxima admissível para o seu correcto funcionamento.
+Art. 158.º Temperaturas máximas admissíveis no interior dos aparelhos de utilização. - Os aparelhos de utilização deverão ser concebidos de forma a garantir que, sem prejuízo das respectivas classes de protecção, no seu interior não seja excedida a temperatura máxima admissível para o seu correcto funcionamento.
 
-###### Art. 159.º Temperatura das partes acessíveis dos aparelhos de utilização. - Os aparelhos de utilização não deverão, em regra, ter partes susceptíveis de causar queimaduras a quem lhes tocar acidentalmente, a menos que se destinem a ser montados em local inacessível sem meios especiais.
+Art. 159.º Temperatura das partes acessíveis dos aparelhos de utilização. - Os aparelhos de utilização não deverão, em regra, ter partes susceptíveis de causar queimaduras a quem lhes tocar acidentalmente, a menos que se destinem a ser montados em local inacessível sem meios especiais.
 
 Comentário. - A não obrigatoriedade da disposição prevista no artigo visa contemplar os aparelhos, tais como lâmpadas de incandescência, fogões eléctricos, ferros eléctricos, etc., que, pela sua própria natureza ou função, têm de ter partes acessíveis com elevadas temperaturas.
 
 2.8.2 - Aparelhos de iluminação
 
-###### Art. 160.º Suportes das lâmpadas. - 1. Os suportes das lâmpadas deverão ser concebidos de forma que, durante a inserção ou retirada daquelas, não haja risco de contacto acidental com partes activas.
+Art. 160.º Suportes das lâmpadas. - 1. Os suportes das lâmpadas deverão ser concebidos de forma que, durante a inserção ou retirada daquelas, não haja risco de contacto acidental com partes activas.
 
 2. Os suportes das lâmpadas deverão ser concebidos por forma a não rodarem em relação aos condutores de ligação quando se coloquem ou se retirem as lâmpadas respectivas.
 
@@ -1607,7 +1674,7 @@ b) Dois pernos normais ou um perno normal;
 
 c) Dois pernos grandes.
 
-###### Art. 161.º Tipos de condutores de electrificação de aparelhos de iluminação. - 1. Os condutores para electrificação de aparelhos de iluminação deverão ser flexíveis no caso de:
+Art. 161.º Tipos de condutores de electrificação de aparelhos de iluminação. - 1. Os condutores para electrificação de aparelhos de iluminação deverão ser flexíveis no caso de:
 
 a) Serem estabelecidos no exterior dos aparelhos, à vista ou protegidos por tubos rígidos, servindo de pendurais não rigidamente fixados aos aparelhos ou às caixas terminais da canalização fixa que os alimenta;
 
@@ -1627,27 +1694,27 @@ Comentário. - Quando a temperatura no interior dos aparelhos de iluminação n�
 
 Quando a referida temperatura exceder 105ºC, devem isolar-se os condutores com porcelana, vidro, esteatite ou material equivalente resistente a altas temperaturas.
 
-###### Art. 162.º Sistema de fixação dos aparelhos de iluminação fixos. - Os aparelhos de iluminação fixos deverão possuir sistema de fixação que impeça a sua queda ou a deterioração dos condutores da canalização de alimentação.
+Art. 162.º Sistema de fixação dos aparelhos de iluminação fixos. - Os aparelhos de iluminação fixos deverão possuir sistema de fixação que impeça a sua queda ou a deterioração dos condutores da canalização de alimentação.
 
-###### Art. 163.º Suportes com interruptor ou botão de pressão. - Os suportes dotados de interruptor ou de botão de pressão deverão ser de invólucro isolante.
+Art. 163.º Suportes com interruptor ou botão de pressão. - Os suportes dotados de interruptor ou de botão de pressão deverão ser de invólucro isolante.
 
-###### Art. 164.º Aparelhos de estabilização e de arranque de lâmpadas de descarga. - 1. Os aparelhos de estabilização e de arranque de lâmpadas ou tubos de descarga deverão ser construídos de forma a não atingirem, durante o funcionamento, temperaturas prejudiciais ao seu isolamento, mesmo no caso de, por qualquer deficiência, a lâmpada não acender.
+Art. 164.º Aparelhos de estabilização e de arranque de lâmpadas de descarga. - 1. Os aparelhos de estabilização e de arranque de lâmpadas ou tubos de descarga deverão ser construídos de forma a não atingirem, durante o funcionamento, temperaturas prejudiciais ao seu isolamento, mesmo no caso de, por qualquer deficiência, a lâmpada não acender.
 
 2. Os aparelhos referidos no número anterior não deverão, ainda, produzir ruído.
 
 3. Para isolamento ou arrefecimento dos aparelhos referidos no n.º 1 não deverão ser empregadas substâncias derramáveis.
 
-###### Art. 165.º Aparelhos de iluminação portáteis. - Os aparelhos de iluminação portáteis deverão ser da classe II de isolamento e ter resistência às acções mecânicas não inferior à correspondente ao código IP **5.
+Art. 165.º Aparelhos de iluminação portáteis. - Os aparelhos de iluminação portáteis deverão ser da classe II de isolamento e ter resistência às acções mecânicas não inferior à correspondente ao código IP **5.
 
 Comentário. - Os aparelhos de iluminação portáteis a que se refere o artigo são os designados normalmente por «lâmpadas de mão» ou «gambiarras».
 
-###### Art. 166.º Aparelhos de iluminação para série directa. - 1. Os aparelhos de iluminação destinados a serem alimentados em série directa deverão ser dotados de dispositivo que assegure a continuidade do circuito série quando se verifique a fusão do filamento ou a quebra ou avaria de uma lâmpada.
+Art. 166.º Aparelhos de iluminação para série directa. - 1. Os aparelhos de iluminação destinados a serem alimentados em série directa deverão ser dotados de dispositivo que assegure a continuidade do circuito série quando se verifique a fusão do filamento ou a quebra ou avaria de uma lâmpada.
 
 2. O dispositivo referido no número anterior poderá ser incorporado na própria lâmpada ou no respectivo suporte. Neste caso, deverá assegurar-se a reposição do dispositivo de protecção quando da substituição da lâmpada avariada, não devendo, no primeiro caso, ser possível introduzir no suporte uma lâmpada que não esteja munida desse dispositivo.
 
 2.8.3 - Ferramentas eléctricas
 
-###### Art. 167.º Tensão nominal. - As ferramentas eléctricas deverão ser construídas para funcionarem a tensão não superior a:
+Art. 167.º Tensão nominal. - As ferramentas eléctricas deverão ser construídas para funcionarem a tensão não superior a:
 
 a) Para ferramentas portáteis monofásicas ou de corrente contínua: 250 V;
 
@@ -1655,7 +1722,7 @@ b) Para outras ferramentas: 440 V.
 
 Comentário. - O disposto no artigo pressupõe que, em serviço normal, a tensão entre fase e terra não ultrapassa 250 V.
 
-###### Art. 168.º Interruptor. - De acordo com o disposto no artigo 153.º, as ferramentas eléctricas portáteis deverão ter incorporado um interruptor satisfazendo às condições seguintes:
+Art. 168.º Interruptor. - De acordo com o disposto no artigo 153.º, as ferramentas eléctricas portáteis deverão ter incorporado um interruptor satisfazendo às condições seguintes:
 
 a) Poder o operador colocá-lo na posição de desligado sem deixar de empunhar a ferramenta;
 
@@ -1663,19 +1730,19 @@ b) Estar localizado de forma a evitar a entrada em serviço intempestivo da ferr
 
 2.8.4 - Aparelhos caloríferos
 
-###### Art. 169.º Material. - Os aparelhos caloríferos eléctricos deverão ser construídos, em regra, de materiais incombustíveis ou, pelo menos, com resistência à propagação da chama.
+Art. 169.º Material. - Os aparelhos caloríferos eléctricos deverão ser construídos, em regra, de materiais incombustíveis ou, pelo menos, com resistência à propagação da chama.
 
-###### Art. 170.º Aparelhos de aquecimento de fluidos. - 1. Os aparelhos de aquecimento de fluidos em vaso fechado deverão ser dotados de protecção contra sobreaquecimento por meio de termóstato ou limitador de temperatura.
+Art. 170.º Aparelhos de aquecimento de fluidos. - 1. Os aparelhos de aquecimento de fluidos em vaso fechado deverão ser dotados de protecção contra sobreaquecimento por meio de termóstato ou limitador de temperatura.
 
 2. Os aparelhos de aquecimento de fluidos que funcionem sob pressão deverão ser dotados de dispositivo de segurança contra sobrepressões e de válvulas de retenção.
 
-###### Art. 171.º Termoventiladores. - Os termoventiladores deverão ser construídos por forma que o elemento de aquecimento não possa ser ligado quando o ventilador estiver parado e seja automaticamente desligado sempre que o mesmo ventilador parar.
+Art. 171.º Termoventiladores. - Os termoventiladores deverão ser construídos por forma que o elemento de aquecimento não possa ser ligado quando o ventilador estiver parado e seja automaticamente desligado sempre que o mesmo ventilador parar.
 
 Comentário. - Entende-se por termoventilador um aparelho calorífero eléctrico para aquecimento ambiente em que o ar é forçado, através de um elemento de aquecimento, por meio de um ventilador.
 
 2.8.5 - Brinquedos eléctricos
 
-###### Art. 172.º Tensão de alimentação. - 1. Os brinquedos eléctricos deverão ser construídos para funcionarem a tensão reduzida de segurança.
+Art. 172.º Tensão de alimentação. - 1. Os brinquedos eléctricos deverão ser construídos para funcionarem a tensão reduzida de segurança.
 
 2. Exceptuam-se do disposto no número anterior os fogões, ferros de engomar ou outros brinquedos com elementos de aquecimento, que poderão funcionar em baixa tensão, desde que sejam dotados de isolamento da classe II e sejam construídos de forma a não poderem ser desmontados facilmente, mesmo com emprego das ferramentas de uso corrente.
 
@@ -1685,7 +1752,7 @@ Comentário. - Entre as ferramentas de uso corrente a que se faz referência no 
 
 3.1 - Disposições gerais
 
-###### Art. 173.º Materiais das instalações. - Os materiais a empregar nas instalações deverão ter características adequadas às condições de alimentação, de ambiente e de utilização, tendo em atenção, em especial:
+Art. 173.º Materiais das instalações. - Os materiais a empregar nas instalações deverão ter características adequadas às condições de alimentação, de ambiente e de utilização, tendo em atenção, em especial:
 
 a) A tensão nominal do material, a qual não deverá ser inferior à da instalação;
 
@@ -1719,7 +1786,7 @@ d) Os ligadores devem ter as mesmas classes de protecção que os restantes elem
 
 Quanto ao material das braçadeiras, este deve ser escolhido de modo que não origine corrosão electrolítica do invólucro das canalizações. Assim, no caso de tubos de aço não devem ser empregadas braçadeiras de cobre ou suas ligas e no caso de cabos com isolamento mineral e bainha metálica (em regra, de cobre) devem ser empregadas braçadeiras de cobre ou latão.
 
-###### Art. 174.º Transmissão de perturbações. - As instalações de utilização deverão ser estabelecidas de forma a não causar perturbações a outras instalações, eléctricas ou não, resultantes de avarias ou das suas condições normais de exploração.
+Art. 174.º Transmissão de perturbações. - As instalações de utilização deverão ser estabelecidas de forma a não causar perturbações a outras instalações, eléctricas ou não, resultantes de avarias ou das suas condições normais de exploração.
 
 Comentários. - 1. Entre as perturbações que podem afectar outras instalações sobressaem:
 
@@ -1741,27 +1808,27 @@ g) A transmissão de tensões para canalizações de água, gás, etc.
 
 Por outro lado, não são susceptíveis de criar perturbações a esses sistemas de telecomando os aparelhos que apresentem uma impedância indutiva crescente com a frequência, tais como balastros não compensados, balastros compensados com condensadores em série e os conjuntos de duas lâmpadas de descarga alimentadas pelo mesmo balastro de forma que a desfasagem das correntes numa e na outra lâmpada seja de 180º (montagem duo).
 
-###### Art. 175.º Escolha dos locais para estabelecimento das instalações. - No estabelecimento das instalações deverão escolher-se os locais e partes dos locais que apresentem as condições mais favoráveis do ponto de vista de resguardo contra as acções mecânicas e agentes físicos ou químicos, nomeadamente o calor, o frio, a humidade e os agentes corrosivos.
+Art. 175.º Escolha dos locais para estabelecimento das instalações. - No estabelecimento das instalações deverão escolher-se os locais e partes dos locais que apresentem as condições mais favoráveis do ponto de vista de resguardo contra as acções mecânicas e agentes físicos ou químicos, nomeadamente o calor, o frio, a humidade e os agentes corrosivos.
 
-###### Art. 176.º Acordos com outras entidades. - Quando o estabelecimento das instalações de utilização possa pôr em risco a segurança do pessoal que o executa devido à proximidade de outras instalações, eléctricas ou não, ou pôr em perigo ou causar perturbações a essas mesmas instalações, ou quando o estabelecimento de instalações não eléctricas possa pôr em risco a segurança do pessoal que o executa devido à proximidade de instalações de utilização ou pôr em perigo essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
+Art. 176.º Acordos com outras entidades. - Quando o estabelecimento das instalações de utilização possa pôr em risco a segurança do pessoal que o executa devido à proximidade de outras instalações, eléctricas ou não, ou pôr em perigo ou causar perturbações a essas mesmas instalações, ou quando o estabelecimento de instalações não eléctricas possa pôr em risco a segurança do pessoal que o executa devido à proximidade de instalações de utilização ou pôr em perigo essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
 
 3.2 - Canalizações
 
 3.2.1 - Disposições gerais
 
-###### Art. 177.º Materiais das canalizações. - 1. Nas canalizações deverão ser empregados condutores isolados ou cabos, excepto nos casos expressamente previstos neste Regulamento, em que poderão ser empregados condutores nus.
+Art. 177.º Materiais das canalizações. - 1. Nas canalizações deverão ser empregados condutores isolados ou cabos, excepto nos casos expressamente previstos neste Regulamento, em que poderão ser empregados condutores nus.
 
 2. Os tubos a empregar nas canalizações deverão, em regra, ser isolantes, excepto nos casos em que pelas condições ambientes ou de utilização do local tal não seja técnica ou economicamente conveniente.
 
 Comentário. - Podem, por exemplo, empregar-se tubos condutores por razões de temperatura ambiente ou de resistência às acções mecânicas.
 
-###### Art. 178.º Escolha do tipo de canalização. - O tipo de canalização a empregar deverá ser escolhido de acordo com as condições ambientes e de utilização do local.
+Art. 178.º Escolha do tipo de canalização. - O tipo de canalização a empregar deverá ser escolhido de acordo com as condições ambientes e de utilização do local.
 
-###### Art. 179.º Secção nominal do condutor neutro. - A secção nominal do condutor neutro deverá ser igual à dos condutores de fase para secções nominais iguais ou inferiores a 10 mm2. Para secções nominais superiores, a secção nominal do condutor neutro não deverá ser inferior à indicada no quadro seguinte:
+Art. 179.º Secção nominal do condutor neutro. - A secção nominal do condutor neutro deverá ser igual à dos condutores de fase para secções nominais iguais ou inferiores a 10 mm2. Para secções nominais superiores, a secção nominal do condutor neutro não deverá ser inferior à indicada no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
-###### Art. 180.º Identificação dos condutores. - 1. Os condutores deverão ser devidamente identificados por meio de coloração da superfície exterior do respectivo isolamento, quando isolados, ou por meio de pintura, enfitamento ou revestimento equivalente, quando nus.
+Art. 180.º Identificação dos condutores. - 1. Os condutores deverão ser devidamente identificados por meio de coloração da superfície exterior do respectivo isolamento, quando isolados, ou por meio de pintura, enfitamento ou revestimento equivalente, quando nus.
 
 2. As cores de identificação serão as seguintes:
 
@@ -1791,9 +1858,9 @@ Comentários. - 1. Embora o n.º 3 do artigo permita o emprego de condutores com
 
 2. O emprego de cabos monocondutores a que se refere o n.º 6 do artigo verifica-se normalmente a partir de secções nominais superiores a 70 mm2.
 
-###### Art. 181.º Ligação entre canalizações e destas aos aparelhos. - As ligações entre canalizações e destas aos aparelhos deverão ser feitas de acordo com o seu tipo e empregando aparelhos de ligação adequados.
+Art. 181.º Ligação entre canalizações e destas aos aparelhos. - As ligações entre canalizações e destas aos aparelhos deverão ser feitas de acordo com o seu tipo e empregando aparelhos de ligação adequados.
 
-###### Art. 182.º Colocação das canalizações. - 1. No estabelecimento das canalizações deverá, na medida do possível, evitar-se submeter as canalizações a esforços mecânicos desnecessários, reduzindo o número de curvas, de travessias, etc.
+Art. 182.º Colocação das canalizações. - 1. No estabelecimento das canalizações deverá, na medida do possível, evitar-se submeter as canalizações a esforços mecânicos desnecessários, reduzindo o número de curvas, de travessias, etc.
 
 2. As canalizações deverão ser estabelecidas de forma a poder ser assegurada a sua boa exploração e conservação.
 
@@ -1801,23 +1868,23 @@ Comentários. - 1. Embora o n.º 3 do artigo permita o emprego de condutores com
 
 Comentário. - Entre os aspectos a considerar para observância do disposto no n.º 2 do artigo pode citar-se a possibilidade de verificação do estado do seu isolamento, da localização ou reparação de qualquer avaria, da acessibilidade dos aparelhos de ligação, etc.
 
-###### Art. 183.º Identificação das canalizações. - As canalizações deverão ser estabelecidas por forma a permitir a sua fácil localização e, na medida do possível, a sua identificação.
+Art. 183.º Identificação das canalizações. - As canalizações deverão ser estabelecidas por forma a permitir a sua fácil localização e, na medida do possível, a sua identificação.
 
 Comentários. - 1. A identificação das canalizações tem em vista diferenciá-las, consoante os fins a que se destinam, de modo a facilitar o seu reconhecimento.
 
 2. As canalizações podem considerar-se suficientemente diferenciadas umas das outras, quer pela natureza ou tipo dos condutores que as constituem, quer pelas suas dimensões ou traçado.
 
-###### Art. 184.º Continuidade eléctrica. - 1. Os invólucros condutores deverão ter continuidade eléctrica assegurada ao longo da respectiva canalização.
+Art. 184.º Continuidade eléctrica. - 1. Os invólucros condutores deverão ter continuidade eléctrica assegurada ao longo da respectiva canalização.
 
 2. Nas canalizações, as ligações entre condutores apenas poderão ser feitas por intermédio de aparelhos de ligação adequados.
 
-###### Art. 185.º Continuidade da protecção contra acções mecânicas. - 1. A protecção contra acções mecânicas das canalizações, requerida para um dado tipo de local, deverá ter continuidade assegurada ao longo de toda a canalização estabelecida nesse local.
+Art. 185.º Continuidade da protecção contra acções mecânicas. - 1. A protecção contra acções mecânicas das canalizações, requerida para um dado tipo de local, deverá ter continuidade assegurada ao longo de toda a canalização estabelecida nesse local.
 
 2. O número de juntas ou uniões que assegurem a continuidade da protecção contra acções mecânicas deverá ser limitado ao mínimo possível.
 
 3. Os elementos da protecção contra acções mecânicas deverão ser manipulados por forma a evitar a existência de rebarbas susceptíveis de prejudicar o isolamento dos condutores isolados ou as bainhas dos cabos.
 
-###### Art. 186.º Intensidades de corrente máximas admissíveis nas canalizações. - 1. As intensidades de corrente máximas admissíveis nas canalizações dependem do tipo de canalização, do número de condutores que a constituem e das suas condições de estabelecimento e utilização, não devendo ser excedidas as prescritas nas normas ou especificações respectivas.
+Art. 186.º Intensidades de corrente máximas admissíveis nas canalizações. - 1. As intensidades de corrente máximas admissíveis nas canalizações dependem do tipo de canalização, do número de condutores que a constituem e das suas condições de estabelecimento e utilização, não devendo ser excedidas as prescritas nas normas ou especificações respectivas.
 
 2. Para efeito do disposto no número anterior, na contagem do número de condutores constituintes de uma canalização não deverão ser considerados os condutores seguintes:
 
@@ -1829,11 +1896,11 @@ c) Os condutores auxiliares de uma canalização e que acompanham os condutores 
 
 3. Para as canalizações constituídas por condutores de que não haja normas ou especificações nacionais, e para outros tipos de estabelecimento ou de utilização não constantes das respectivas normas ou especificações, as intensidades de corrente máximas admissíveis serão as aceites pela fiscalização do Governo.
 
-###### Art. 187.º Tensão nominal dos condutores de uma canalização. - Os condutores de uma canalização deverão ser todos da mesma tensão nominal.
+Art. 187.º Tensão nominal dos condutores de uma canalização. - Os condutores de uma canalização deverão ser todos da mesma tensão nominal.
 
-###### Art. 188.º Circuitos constituintes de uma canalização. - Os condutores do mesmo circuito deverão fazer parte da mesma canalização.
+Art. 188.º Circuitos constituintes de uma canalização. - Os condutores do mesmo circuito deverão fazer parte da mesma canalização.
 
-###### Art. 189.º Condutores constituintes de uma canalização. - 1. Uma canalização apenas poderá comportar condutores pertencentes ao mesmo circuito.
+Art. 189.º Condutores constituintes de uma canalização. - 1. Uma canalização apenas poderá comportar condutores pertencentes ao mesmo circuito.
 
 2. Exceptuam-se do disposto no número anterior os casos seguintes:
 
@@ -1853,7 +1920,7 @@ Este defeito de isolamento pode, ainda, dar origem a colocar sob tensão parte d
 
 No caso de circuitos de iluminação em que existam, em comutação, várias lâmpadas pertencentes ou não ao mesmo aparelho de iluminação, a sobrecarga dos condutores não pode verificar-se e a colocação de uma parte do circuito em tensão é evidenciada pelo acendimento das lâmpadas sem que daí resulte, normalmente, qualquer dano para as pessoas ou coisas.
 
-###### Art. 190.º Transmissão de perturbações de um local para outro. - 1. A continuidade da protecção contra acções mecânicas das canalizações não deverá originar que condições ambientes perigosas existentes num local, normal ou acidentalmente, se transmitam a outro local.
+Art. 190.º Transmissão de perturbações de um local para outro. - 1. A continuidade da protecção contra acções mecânicas das canalizações não deverá originar que condições ambientes perigosas existentes num local, normal ou acidentalmente, se transmitam a outro local.
 
 2. A continuidade da protecção contra acções mecânicas das canalizações entre locais com temperaturas ambientes muito diferentes não deverá originar circulação de ar no seu interior, de uma zona para outra, pelo que serão previstos meios para evitar essa circulação.
 
@@ -1863,7 +1930,7 @@ Igualmente, para dar cumprimento ao artigo, as canalizações com invólucros de
 
 2. O disposto no n.º 2 do artigo tem em vista evitar a possibilidade de passagem de ar, por exemplo, de uma zona quente para uma zona fria, pois este facto pode dar origem a condensação no interior da canalização.
 
-###### Art. 191.º Proximidade de canalizações eléctricas com outras canalizações. - 1. As canalizações eléctricas não deverão ser estabelecidas a menos de 3 cm de canalizações não eléctricas.
+Art. 191.º Proximidade de canalizações eléctricas com outras canalizações. - 1. As canalizações eléctricas não deverão ser estabelecidas a menos de 3 cm de canalizações não eléctricas.
 
 2. Na proximidade de chaminés ou de canalizações de fluidos que possam causar aquecimento ou arrefecimento excessivos nas canalizações eléctricas, estas deverão ser suficientemente afastadas daquelas ou ser separadas por um isolamento térmico conveniente.
 
@@ -1871,7 +1938,7 @@ Comentários. - 1. Uma canalização eléctrica não deve ser isolada termicamen
 
 2. Nas canalizações embebidas, por razões de manutenção, deve evitar-se a proximidade com outras canalizações não eléctricas, recomendando-se, por isso, que seja aumentada a distância fixada no n.º 1 do artigo.
 
-###### Art. 192.º Estabelecimento de canalizações eléctricas no mesmo espaço oco da construção, caleira ou galeria inacessível utilizados para canalizações não eléctricas. - 1. Os espaços ocos da construção, as caleiras ou galerias inacessíveis não deverão, em regra, ser utilizados simultaneamente para canalizações eléctricas e para canalizações não eléctricas.
+Art. 192.º Estabelecimento de canalizações eléctricas no mesmo espaço oco da construção, caleira ou galeria inacessível utilizados para canalizações não eléctricas. - 1. Os espaços ocos da construção, as caleiras ou galerias inacessíveis não deverão, em regra, ser utilizados simultaneamente para canalizações eléctricas e para canalizações não eléctricas.
 
 2. No mesmo espaço oco da construção, caleira ou galeria inacessível poderão ser estabelecidas canalizações eléctricas e canalizações não eléctricas se se verificarem, simultaneamente, as condições seguintes:
 
@@ -1879,11 +1946,11 @@ a) Ser assegurada a protecção contra contactos indirectos, considerando as can
 
 b) Serem as canalizações eléctricas convenientemente protegidas contra os perigos que possam resultar da presença das outras canalizações, especialmente no que diz respeito à elevação de temperatura devida à proximidade de canalizações transportando fluidos quentes, ou ao perigo de condensações, inundações ou corrosão em caso de rotura das canalizações ou, ainda, ao perigo de explosão em caso de avaria de canalizações contendo gases ou líquidos inflamáveis.
 
-###### Art. 193.º Raios de curvatura das canalizações. - As canalizações deverão ser estabelecidas por forma a evitar raios de curvatura que possam danificar o isolamento dos condutores isolados ou dos cabos, bem como as bainhas ou a armadura destes, ou dificultar o enfiamento ou desenfiamento dos mesmos nos tubos ou condutas, ou danificar estes.
+Art. 193.º Raios de curvatura das canalizações. - As canalizações deverão ser estabelecidas por forma a evitar raios de curvatura que possam danificar o isolamento dos condutores isolados ou dos cabos, bem como as bainhas ou a armadura destes, ou dificultar o enfiamento ou desenfiamento dos mesmos nos tubos ou condutas, ou danificar estes.
 
 Comentário. - Para os tipos de canalização de que se indica o respectivo raio de curvatura, este corresponde ao raio de curvatura da linha, situada no lado da concavidade, que resulta da deformação de uma geratriz existente no plano axial da curvatura.
 
-###### Art. 194.º Travessias de paredes, tectos pavimentos ou outras divisórias. - 1. Nas travessias de paredes, tectos, pavimentos ou outros elementos da construção, as canalizações estabelecidas à vista deverão ser protegidas por tubos ou condutas com resistência às acções mecânicas não inferior à da classe M(índice 5).
+Art. 194.º Travessias de paredes, tectos pavimentos ou outras divisórias. - 1. Nas travessias de paredes, tectos, pavimentos ou outros elementos da construção, as canalizações estabelecidas à vista deverão ser protegidas por tubos ou condutas com resistência às acções mecânicas não inferior à da classe M(índice 5).
 
 2. A protecção preconizada no número anterior poderá ser dispensada na zona de travessia quando esta for efectuada através de uma abertura largamente dimensionada para o efeito e com a sua superfície interior devidamente regularizada de forma a não danificar a bainha exterior dos cabos, ou quando o tubo ou cabo tiver característica de resistência às acções mecânicas não inferior à da classe M(índice 5).
 
@@ -1899,15 +1966,15 @@ Comentário. - Para os tipos de canalização de que se indica o respectivo raio
 
 3.2.2.1.1 - Canalizações fixas, à vista, constituídas por condutores nus rígidos estabelecidos sobre isoladores
 
-###### Art. 195.º Natureza dos condutores. - Nas canalizações fixas, à vista, constituídas por condutores nus rígidos estabelecidos sobre isoladores, aqueles poderão ser constituídos por barras, varetas, tubos ou por condutores unifilares ou cableados próprios para linhas aéreas.
+Art. 195.º Natureza dos condutores. - Nas canalizações fixas, à vista, constituídas por condutores nus rígidos estabelecidos sobre isoladores, aqueles poderão ser constituídos por barras, varetas, tubos ou por condutores unifilares ou cableados próprios para linhas aéreas.
 
-###### Art. 196.º Inacessibilidade. - 1. As canalizações fixas, à vista, constituídas por condutores nus rígidos estabelecidos sobre isoladores deverão ser protegidas contra contactos directos por resguardo que confira a protecção de classe correspondente ao local.
+Art. 196.º Inacessibilidade. - 1. As canalizações fixas, à vista, constituídas por condutores nus rígidos estabelecidos sobre isoladores deverão ser protegidas contra contactos directos por resguardo que confira a protecção de classe correspondente ao local.
 
 2. Nos casos em que não seja tecnicamente viável o cumprimento do disposto no número anterior, permitir-se-á que a protecção seja feita por afastamento, devendo observar-se a distância mínima de 2,50 m dos condutores a quaisquer locais acessíveis a pessoas.
 
 Comentário. - Nos locais em que possa haver manipulação de objectos condutores compridos, recomenda-se aumentar a distância referida no n.º 2 do artigo.
 
-###### Art. 197.º Distância dos condutores entre si e a tectos, paredes, muros ou outras superfícies, a canalizações não eléctricas ou a outros elementos condutores estranhos às instalações eléctricas. - 1. Os condutores deverão estar distanciados entre si e de tectos, paredes, muros ou outras superfícies, de canalizações não eléctricas ou de elementos condutores estranhos às instalações eléctricas, de modo a não poderem tocar-se nem se aproximarem perigosamente. Estas distâncias deverão ser determinadas tendo em atenção, em especial, a tensão nominal da canalização e a intensidade de corrente de curto-circuito máxima susceptível de se verificar.
+Art. 197.º Distância dos condutores entre si e a tectos, paredes, muros ou outras superfícies, a canalizações não eléctricas ou a outros elementos condutores estranhos às instalações eléctricas. - 1. Os condutores deverão estar distanciados entre si e de tectos, paredes, muros ou outras superfícies, de canalizações não eléctricas ou de elementos condutores estranhos às instalações eléctricas, de modo a não poderem tocar-se nem se aproximarem perigosamente. Estas distâncias deverão ser determinadas tendo em atenção, em especial, a tensão nominal da canalização e a intensidade de corrente de curto-circuito máxima susceptível de se verificar.
 
 2. A distância dos condutores entre si não poderá ser inferior a:
 
@@ -1915,7 +1982,7 @@ a) Para condutores unifilares ou cableados, nus: 10 cm;
 
 b) Para barras, varetas ou tubos: 5 cm.
 
-###### Art. 198.º Distância entre apoios. - 1. A distância entre apoios deverá ser determinada tendo em atenção o disposto no n.º 1 do artigo 197.º e a secção nominal dos condutores de forma que, mesmo em caso de curto-circuito, não haja possibilidade de contacto entre condutores ou destes com as superfícies vizinhas.
+Art. 198.º Distância entre apoios. - 1. A distância entre apoios deverá ser determinada tendo em atenção o disposto no n.º 1 do artigo 197.º e a secção nominal dos condutores de forma que, mesmo em caso de curto-circuito, não haja possibilidade de contacto entre condutores ou destes com as superfícies vizinhas.
 
 2. Nas canalizações constituídas por condutores unifilares ou cableados nus, a distância entre os apoios não deverá ser superior a:
 
@@ -1927,35 +1994,35 @@ b) Para condutores de secção nominal superior a 10 mm2, quando estabelecidos h
 
 Comentário. - Entre os casos especiais referidos no n.º 3 do artigo cita-se, por exemplo, o de condutores de linhas de contacto em que é inconveniente haver um afastamento entre apoios, de acordo com o n.º 2 do artigo.
 
-###### Art. 199.º Colocação das canalizações. - 1. Os condutores, unifilares ou cableados, nus deverão ser estabelecidos sobre os isoladores sob tensão mecânica conveniente e fixados aos mesmos por meio de filaças ou dispositivos apropriados.
+Art. 199.º Colocação das canalizações. - 1. Os condutores, unifilares ou cableados, nus deverão ser estabelecidos sobre os isoladores sob tensão mecânica conveniente e fixados aos mesmos por meio de filaças ou dispositivos apropriados.
 
 2. As barras, varetas e tubos deverão ser estabelecidos tendo em atenção possíveis dilatações, em consequência de variações de temperatura, prevendo-se, quando necessário, juntas de dilatação.
 
 3.2.2.1.2 - Canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores
 
-###### Art. 200.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores, aqueles não deverão ter características inferiores às dos condutores classificados sob o código 301 100.
+Art. 200.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores, aqueles não deverão ter características inferiores às dos condutores classificados sob o código 301 100.
 
-###### Art. 201.º Inacessibilidade. - Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no artigo 196.º
+Art. 201.º Inacessibilidade. - Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no artigo 196.º
 
-###### Art. 202.º Distância dos condutores entre si e a tectos, paredes, muros ou outras superfícies, a canalizações não eléctricas ou a outros elementos condutores estranhos às instalações eléctricas. - 1. Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no n.º 1 do artigo 197.º
+Art. 202.º Distância dos condutores entre si e a tectos, paredes, muros ou outras superfícies, a canalizações não eléctricas ou a outros elementos condutores estranhos às instalações eléctricas. - 1. Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no n.º 1 do artigo 197.º
 
 2. A distância dos condutores entre si não deverá ser inferior a 1,5 cm.
 
-###### Art. 203.º Distância entre apoios. - Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no artigo 198.º
+Art. 203.º Distância entre apoios. - Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no artigo 198.º
 
-###### Art. 204.º Colocação das canalizações. - Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no n.º 1 do artigo 199.º
+Art. 204.º Colocação das canalizações. - Às canalizações fixas, à vista, constituídas por condutores isolados rígidos estabelecidos sobre isoladores será aplicável o disposto no n.º 1 do artigo 199.º
 
 3.2.2.1.3 - Canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos
 
-###### Art. 205.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, os condutores isolados ou os cabos não deverão ter características inferiores às dos classificados sob o código 301 100.
+Art. 205.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, os condutores isolados ou os cabos não deverão ter características inferiores às dos classificados sob o código 301 100.
 
-###### Art. 206.º Tipos de tubos. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, estes deverão ser rígidos e não ter características inferiores às dos classificados sob o código 5 101 100.
+Art. 206.º Tipos de tubos. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, estes deverão ser rígidos e não ter características inferiores às dos classificados sob o código 5 101 100.
 
-###### Art. 207.º Dimensões mínimas dos tubos. - 1. Os tubos deverão ter diâmetro ou dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
+Art. 207.º Dimensões mínimas dos tubos. - 1. Os tubos deverão ter diâmetro ou dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
 
 2. No caso de condutores isolados do código 301 100 e de tubos do código 5 101 100, estes não deverão ter diâmetros nominais inferiores aos indicados no quadro seguinte, de acordo com o número e secção nominal desses condutores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Nota. - Para condutores de secção nominal superior a 10 mm2, os valores correspondentes a 4 e 5 condutores consideram que, respectivamente, 1 ou 2 condutores são de secção reduzida, conforme prescrito nos artigos 179.º e 615.º
 
@@ -1965,19 +2032,19 @@ Comentários. - 1. A obrigatoriedade do fácil enfiamento e desenfiamento dos co
 
 2. Para canalizações com mais de cinco condutores isolados, recomenda-se considerar um índice de ocupação dos tubos inferior ao fixado no n.º 3 do artigo.
 
-###### Art. 208.º Drenagem de condensações. - As canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, quando em locais que, pela sua natureza, ofereçam perigo de acumulação de água de condensação, deverão ser estabelecidas por forma a permitir o seu fácil escoamento.
+Art. 208.º Drenagem de condensações. - As canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, quando em locais que, pela sua natureza, ofereçam perigo de acumulação de água de condensação, deverão ser estabelecidas por forma a permitir o seu fácil escoamento.
 
 Comentário. - Para observância do disposto no artigo, o traçado da tubagem deve ser executado de forma a poder verificar-se a evacuação da água de condensação nos pontos baixos daquela.
 
-###### Art. 209.º Ligação dos tubos. - 1. Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, a protecção conferida por estes deverá ser efectuada de forma contínua e os tubos ligados entre si por meio de uniões, curvas ou caixas adequadas que garantam essa continuidade de protecção.
+Art. 209.º Ligação dos tubos. - 1. Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, a protecção conferida por estes deverá ser efectuada de forma contínua e os tubos ligados entre si por meio de uniões, curvas ou caixas adequadas que garantam essa continuidade de protecção.
 
 2. No corte ou no atarraxamento dos tubos deverá proceder-se de forma a não ficarem rebarbas susceptíveis de prejudicar o isolamento dos condutores isolados ou o isolamento e a bainha dos cabos.
 
-###### Art. 210.º Canalizações com tubos de material ferromagnético. - Nas canalizações em que os tubos sejam de material ferromagnético, todos os condutores do mesmo circuito deverão ser enfiados no mesmo tubo.
+Art. 210.º Canalizações com tubos de material ferromagnético. - Nas canalizações em que os tubos sejam de material ferromagnético, todos os condutores do mesmo circuito deverão ser enfiados no mesmo tubo.
 
 Comentário. - O disposto no artigo visa a diminuição dos efeitos de indução electro-magnética e das perdas por histerese nos tubos.
 
-###### Art. 211.º Colocação das canalizações. - 1. Os tubos deverão ser fixados às superfícies de apoio por meio de braçadeiras apropriadas, colocadas a distâncias não superiores às seguintes:
+Art. 211.º Colocação das canalizações. - 1. Os tubos deverão ser fixados às superfícies de apoio por meio de braçadeiras apropriadas, colocadas a distâncias não superiores às seguintes:
 
 a) Para tubos de resistência às acções mecânicas da classe M(índice 5): 1 m;
 
@@ -1991,9 +2058,9 @@ b) Para tubos de resistência às acções mecânicas da classe M(índice 9): 2 
 
 3.2.2.1.4 - Canalizações fixas, à vista, constituídas por cabos rígidos com uma bainha ligeira
 
-###### Art. 212.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos rígidos com uma bainha ligeira, estes deverão ter características não inferiores às dos classificados sob o código 303 100 e possuir, além disso, bainha isolante.
+Art. 212.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos rígidos com uma bainha ligeira, estes deverão ter características não inferiores às dos classificados sob o código 303 100 e possuir, além disso, bainha isolante.
 
-###### Art. 213.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos rígidos com uma bainha ligeira, estes deverão ser estabelecidos por forma a não se afastarem das superfícies de apoio.
+Art. 213.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos rígidos com uma bainha ligeira, estes deverão ser estabelecidos por forma a não se afastarem das superfícies de apoio.
 
 2. A distância entre braçadeiras não será superior a 0,20 m, devendo, ainda, ser colocadas braçadeiras a uma distância não superior a 5 cm dos aparelhos intercalados na canalização, ou de variações bruscas de direcção.
 
@@ -2001,7 +2068,7 @@ b) Para tubos de resistência às acções mecânicas da classe M(índice 9): 2 
 
 Comentário. - Nas curvas, recomenda-se adoptar distâncias entre braçadeiras inferiores às indicadas no n.º 2 do artigo.
 
-###### Art. 214.º Protecção contra acções mecânicas. - 1. Quando estabelecidos a menos de 0,80 m dos pavimentos, os cabos deverão ser protegidos por tubos ou resguardos adequados de resistência às acções mecânicas não inferior à da classe M(índice 5).
+Art. 214.º Protecção contra acções mecânicas. - 1. Quando estabelecidos a menos de 0,80 m dos pavimentos, os cabos deverão ser protegidos por tubos ou resguardos adequados de resistência às acções mecânicas não inferior à da classe M(índice 5).
 
 2. A protecção mecânica referida no número anterior será dispensada quando os cabos forem colocados de forma a ficarem resguardados por saliências ou reentrâncias da construção.
 
@@ -2009,9 +2076,9 @@ Comentário. - As saliências ou reentrâncias a que se refere o artigo são as 
 
 3.2.2.1.5 - Canalizações fixas, à vista, constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada
 
-###### Art. 215.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, estes não deverão ter características inferiores às dos classificados sob o código 305 100.
+Art. 215.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, estes não deverão ter características inferiores às dos classificados sob o código 305 100.
 
-###### Art. 216.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, estes deverão ser estabelecidos por forma a não se afastarem das superfícies de apoio ou a manterem-se paralelos à mesma quando delas devam estar afastados, podendo para tal ser fixados por braçadeiras ou correr assentes sobre prateleiras ou outros suportes adequados.
+Art. 216.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, estes deverão ser estabelecidos por forma a não se afastarem das superfícies de apoio ou a manterem-se paralelos à mesma quando delas devam estar afastados, podendo para tal ser fixados por braçadeiras ou correr assentes sobre prateleiras ou outros suportes adequados.
 
 2. Quando a fixação for feita por meio de braçadeiras, a distância entre estas deverá ser tal que os cabos se não encurvem ou se encontrem sujeitos a esforços de tracção por efeito do peso próprio.
 
@@ -2049,27 +2116,27 @@ Comentário. - Os cabos a que se refere o artigo, quando estabelecidos sobre bra
 
 Da mesma forma se recomenda que para cabos de pequeno diâmetro exterior, e portanto de menor rigidez, a distância entre braçadeiras seja menor que a indicada no n.º 3 do artigo.
 
-###### Art. 217.º Cabos com isolamento constituído por materiais impregnados por líquido isolante. - Quando os cabos forem isolados por materiais impregnados por líquido isolante, deverão evitar-se traçados que se afastem da horizontal, não sendo admissíveis desníveis, entre os extremos dos cabos, que excedam 2 m, a menos que se tomem medidas convenientes para evitar migrações ou fugas do líquido isolante, ou este seja de tipo não migrante.
+Art. 217.º Cabos com isolamento constituído por materiais impregnados por líquido isolante. - Quando os cabos forem isolados por materiais impregnados por líquido isolante, deverão evitar-se traçados que se afastem da horizontal, não sendo admissíveis desníveis, entre os extremos dos cabos, que excedam 2 m, a menos que se tomem medidas convenientes para evitar migrações ou fugas do líquido isolante, ou este seja de tipo não migrante.
 
-###### Art. 218.º Cabos com bainha exterior de chumbo. - Os cabos com bainha exterior de chumbo não deverão ser colocados em contacto com os materiais empregados na construção que possam originar a corrosão do chumbo.
+Art. 218.º Cabos com bainha exterior de chumbo. - Os cabos com bainha exterior de chumbo não deverão ser colocados em contacto com os materiais empregados na construção que possam originar a corrosão do chumbo.
 
 Comentário. - De entre os materiais empregados na construção e para os quais se deve evitar o contacto com a bainha exterior de chumbo citam-se, por exemplo, a cal, o cimento e as madeiras das cupulíferas (de que o carvalho é a espécie mais perigosa para o efeito).
 
 3.2.2.1.6 - Canalizações fixas, à vista, constituídas por cabos com armadura
 
-###### Art. 219.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos com armadura, estes não deverão ter características inferiores às dos classificados sob o código 307 210.
+Art. 219.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos com armadura, estes não deverão ter características inferiores às dos classificados sob o código 307 210.
 
-###### Art. 220.º Colocação das canalizações. - Às canalizações fixas, à vista, constituídas por cabos com armadura será aplicável o disposto no artigo 216.º
+Art. 220.º Colocação das canalizações. - Às canalizações fixas, à vista, constituídas por cabos com armadura será aplicável o disposto no artigo 216.º
 
-###### Art. 221.º Cabos com isolamento constituído por materiais impregnados por líquido isolante. - Quando os cabos forem isolados por materiais impregnados por líquido isolante, deverá observar-se o disposto no artigo 217.º
+Art. 221.º Cabos com isolamento constituído por materiais impregnados por líquido isolante. - Quando os cabos forem isolados por materiais impregnados por líquido isolante, deverá observar-se o disposto no artigo 217.º
 
 3.2.2.1.7 - Canalizações fixas, à vista, constituídas por cabos rígidos com isolamento mineral
 
-###### Art. 222.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos com isolamento mineral, estes não deverão ter características inferiores às dos classificados sob o código 307 213.
+Art. 222.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos com isolamento mineral, estes não deverão ter características inferiores às dos classificados sob o código 307 213.
 
 Comentário. - Os cabos a que se refere o artigo são, normalmente, constituídos por condutores de cobre isolados por uma substância refractária altamente comprimida, vulgarmente o óxido de magnésio, no interior de uma bainha estanque a gases e vapores, a qual é, em regra, constituída por um tubo de cobre, macio sem costura, podendo ter bainha exterior de policloreto de vinilo.
 
-###### Art. 223.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos com isolamento mineral, estes deverão ser estabelecidos por forma a não se afastarem das superfícies de apoio ou a manterem-se paralelos às mesmas quando delas devam estar afastados.
+Art. 223.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos com isolamento mineral, estes deverão ser estabelecidos por forma a não se afastarem das superfícies de apoio ou a manterem-se paralelos às mesmas quando delas devam estar afastados.
 
 2. As braçadeiras deverão encontrar-se espaçadas por forma que os cabos se não encurvem ou se encontrem sujeitos a tensão excessiva por efeito do peso próprio.
 
@@ -2101,27 +2168,27 @@ Comentário. - Nas curvas, recomenda-se adoptar distâncias entre braçadeiras i
 
 3.2.2.1.8 - Canalizações fixas, à vista, constituídas por cabos flexíveis
 
-###### Art. 224.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos flexíveis, estes não deverão ter características inferiores às dos classificados sob o código 213 100.
+Art. 224.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por cabos flexíveis, estes não deverão ter características inferiores às dos classificados sob o código 213 100.
 
-###### Art. 225.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos flexíveis, estes deverão ser apoiados ou fixados por meio de acessórios adequados.
+Art. 225.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por cabos flexíveis, estes deverão ser apoiados ou fixados por meio de acessórios adequados.
 
 2. Nas zonas em que os cabos fiquem em contacto com arestas vivas ou sujeitos a atrito, deverá prever-se uma protecção mecânica adequada.
 
 Comentário. - Um dos casos típicos em que pode verificar-se a situação referida no n.º 2 do artigo é o dos ganchos de fixação de aparelhos de iluminação.
 
-###### Art. 226.º Protecção contra acções mecânicas. - Às canalizações fixas, à vista, constituídas por cabos flexíveis será aplicável o disposto no artigo 214.º
+Art. 226.º Protecção contra acções mecânicas. - Às canalizações fixas, à vista, constituídas por cabos flexíveis será aplicável o disposto no artigo 214.º
 
 3.2.2.1.9 - Canalizações fixas, à vista, constituídas por condutores protegidos por condutas
 
 3.2.2.1.9.1 - Canalizações fixas, à vista, constituídas por condutores nus protegidos por condutas
 
-###### Art. 227.º Natureza dos condutores. - Nas canalizações fixas, à vista, constituídas por condutores nus protegidos por condutas, estes serão constituídos por barras, varetas, tubos ou outros perfis convenientes ao fim a que se destinam.
+Art. 227.º Natureza dos condutores. - Nas canalizações fixas, à vista, constituídas por condutores nus protegidos por condutas, estes serão constituídos por barras, varetas, tubos ou outros perfis convenientes ao fim a que se destinam.
 
-###### Art. 228.º Tipos de condutas. - Nas canalizações fixas, à vista, constituídas por condutores nus protegidos por condutas, estas deverão ter resistência às acções mecânicas não inferior à da classe M(índice 5).
+Art. 228.º Tipos de condutas. - Nas canalizações fixas, à vista, constituídas por condutores nus protegidos por condutas, estas deverão ter resistência às acções mecânicas não inferior à da classe M(índice 5).
 
-###### Art. 229.º Distância dos condutores entre si e às paredes das condutas e entre apoios. - Os condutores e os respectivos apoios deverão ser estabelecidos de acordo com o disposto nos artigos 197.º e 198.º, na parte aplicável.
+Art. 229.º Distância dos condutores entre si e às paredes das condutas e entre apoios. - Os condutores e os respectivos apoios deverão ser estabelecidos de acordo com o disposto nos artigos 197.º e 198.º, na parte aplicável.
 
-###### Art. 230.º Colocação das canalizações. - 1. As canalizações constituídas por condutores nus protegidos por condutas não poderão ser estabelecidas nos pavimentos.
+Art. 230.º Colocação das canalizações. - 1. As canalizações constituídas por condutores nus protegidos por condutas não poderão ser estabelecidas nos pavimentos.
 
 2. As canalizações poderão ser empregadas em montagem semiembebida nas paredes e tectos quando possuam, ao longo da superfície da conduta que fique à vista, tampas que permitam o fácil acesso aos condutores nus e aos elementos de suporte dos mesmos mas que não possam ser abertas sem recurso a meios especiais.
 
@@ -2133,53 +2200,53 @@ No caso de as canalizações se encontrarem apoiadas sobre estruturas rígidas, 
 
 5. As canalizações com aberturas ou rasgos para ligação ou ventilação não deverão ser colocadas a menos de 2,50 m acima do pavimento, excepto no caso de terem protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras não inferior à da classe K(índice 3).
 
-###### Art. 231.º Extremidade das canalizações. - As extremidades das condutas deverão ser dotadas de tampas que assegurem a mesma classe de protecção da canalização.Art. 232.º Canalizações com condutas de material ferromagnético. - Nas canalizações em que as condutas sejam de material ferromagnético deverá observar-se o disposto no artigo 210.º
+Art. 231.º Extremidade das canalizações. - As extremidades das condutas deverão ser dotadas de tampas que assegurem a mesma classe de protecção da canalização.Art. 232.º Canalizações com condutas de material ferromagnético. - Nas canalizações em que as condutas sejam de material ferromagnético deverá observar-se o disposto no artigo 210.º
 
 3.2.2.1.9.2 - Canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por condutas
 
-###### Art. 233.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por condutas, estes não deverão ter características inferiores às dos classificados sob o código 301 100.
+Art. 233.º Tipos de condutores. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por condutas, estes não deverão ter características inferiores às dos classificados sob o código 301 100.
 
-###### Art. 234.º Tipos de condutas. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão obedecer ao disposto no artigo 228.º
+Art. 234.º Tipos de condutas. - Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão obedecer ao disposto no artigo 228.º
 
-###### Art. 235.º Dimensões mínimas das condutas. - 1. As condutas deverão ter dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
+Art. 235.º Dimensões mínimas das condutas. - 1. As condutas deverão ter dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
 
 2. As dimensões da secção recta das condutas deverão ser determinadas de modo que a soma das secções correspondentes ao diâmetro exterior médio máximo dos condutores isolados ou cabos não exceda 40% da secção recta interior da conduta.
 
 Comentário. - Para as condutas são válidas as considerações feitas nos comentários do artigo 207.º
 
-###### Art. 236.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão ser colocadas de forma a ser respeitado o disposto nos n.os 2 a 5 do artigo 230.º
+Art. 236.º Colocação das canalizações. - 1. Nas canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão ser colocadas de forma a ser respeitado o disposto nos n.os 2 a 5 do artigo 230.º
 
 2. Quando estabelecidas nos pavimentos, as condutas deverão ser recobertas por material que as proteja da abrasão.
 
 Comentário. - Como material de protecção referido no n.º 2 do artigo pode adoptar-se o de acabamento dos pavimentos (madeira, linóleo, alcatifa, etc.), recomendando-se que este seja isolante no caso de as condutas serem de material condutor.
 
-###### Art. 237.º Canalizações com condutas de material ferromagnético. - Nas canalizações em que as condutas sejam de material ferromagnético deverá observar-se o disposto no artigo 210.º.
+Art. 237.º Canalizações com condutas de material ferromagnético. - Nas canalizações em que as condutas sejam de material ferromagnético deverá observar-se o disposto no artigo 210.º.
 
 3.2.2.1.10 - Canalizações fixas, à vista, pré-fabricadas
 
 3.2.2.1.10.1 - Canalizações fixas, à vista, pré-fabricadas, com condutores nus
 
-###### Art. 238.º Colocação das canalizações. - As canalizações fixas, à vista, pré-fabricadas, com condutores nus não poderão ser estabelecidas nos pavimentos e a sua colocação deverá obedecer ao disposto nos n.os 2 a 5 do artigo 230.º
+Art. 238.º Colocação das canalizações. - As canalizações fixas, à vista, pré-fabricadas, com condutores nus não poderão ser estabelecidas nos pavimentos e a sua colocação deverá obedecer ao disposto nos n.os 2 a 5 do artigo 230.º
 
-###### Art. 239.º Extremidade das canalizações. - As canalizações pré-fabricadas deverão obedecer ao disposto no artigo 231.º
+Art. 239.º Extremidade das canalizações. - As canalizações pré-fabricadas deverão obedecer ao disposto no artigo 231.º
 
 3.2.2.1.10.2 - Canalizações fixas, à vista, pré-fabricadas, com condutores isolados ou cabos
 
-###### Art. 240.º Colocação das canalizações. - As canalizações fixas, à vista, pré-fabricadas, com condutores isolados ou cabos deverão ser colocadas de forma a ser respeitado o disposto no artigo 236.º
+Art. 240.º Colocação das canalizações. - As canalizações fixas, à vista, pré-fabricadas, com condutores isolados ou cabos deverão ser colocadas de forma a ser respeitado o disposto no artigo 236.º
 
 3.2.2.2 - Canalizações ocultas
 
 3.2.2.2.1 - Canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos
 
-###### Art. 241.º Tipos de condutores. - Nas canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, os condutores isolados ou os cabos não deverão ter características inferiores às dos classificados sob o código 301 100.
+Art. 241.º Tipos de condutores. - Nas canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, os condutores isolados ou os cabos não deverão ter características inferiores às dos classificados sob o código 301 100.
 
-###### Art. 242.º Tipos de tubos. - Nas canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, estes poderão ser rígidos ou maleáveis e não deverão ter características inferiores às dos classificados sob os códigos 5 101 100 ou 5 011 100, respectivamente.
+Art. 242.º Tipos de tubos. - Nas canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, estes poderão ser rígidos ou maleáveis e não deverão ter características inferiores às dos classificados sob os códigos 5 101 100 ou 5 011 100, respectivamente.
 
-###### Art. 243.º Dimensões mínimas dos tubos. - 1. Os tubos deverão ter diâmetro ou dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
+Art. 243.º Dimensões mínimas dos tubos. - 1. Os tubos deverão ter diâmetro ou dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
 
 2. No caso de condutores isolados do código 301 100 e de tubos do código 5 101 100, estes não deverão ter diâmetros nominais inferiores aos indicados no quadro seguinte, de acordo com o número e secção nominal desses condutores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Nota. - Para condutores de secção nominal superior a 10 mm2 os valores correspondentes a quatro e cinco condutores consideram que, respectivamente, um ou dois condutores são de secção reduzida, conforme prescrito nos artigos 179.º e 615.º
 
@@ -2187,15 +2254,15 @@ Nota. - Para condutores de secção nominal superior a 10 mm2 os valores corresp
 
 Comentário. - São válidas para este artigo as considerações feitas nos comentários do artigo 207.º
 
-###### Art. 244.º Drenagem de condensações. - Às canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, será aplicável o disposto no artigo 208.º
+Art. 244.º Drenagem de condensações. - Às canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, será aplicável o disposto no artigo 208.º
 
-###### Art. 245.º Ligação dos tubos. - 1. Nas canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, será aplicável o disposto no artigo 209.º
+Art. 245.º Ligação dos tubos. - 1. Nas canalizações embebidas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, será aplicável o disposto no artigo 209.º
 
 2. Os tubos deverão ser ligados entre si ou aos aparelhos de forma a garantir que, quando do tapamento dos roços ou reentrâncias, não haja possibilidade de entrada de argamassa na canalização.
 
-###### Art. 246.º Canalizações com tubos de material ferromagnético. - Nas canalizações em que os tubos sejam de material ferromagnético será aplicável o disposto no artigo 210.º
+Art. 246.º Canalizações com tubos de material ferromagnético. - Nas canalizações em que os tubos sejam de material ferromagnético será aplicável o disposto no artigo 210.º
 
-###### Art. 247.º Colocação das canalizações. - 1. Os tubos serão metidos em roços ou reentrâncias de modo que não sejam deteriorados ou amolgados, quer durante a sua colocação, quer durante a operação de tapamento desses roços ou reentrâncias.
+Art. 247.º Colocação das canalizações. - 1. Os tubos serão metidos em roços ou reentrâncias de modo que não sejam deteriorados ou amolgados, quer durante a sua colocação, quer durante a operação de tapamento desses roços ou reentrâncias.
 
 2. Os condutores isolados ou os cabos apenas deverão ser enfiados nos tubos depois dos roços ou reentrâncias tapados e de a argamassa de cobertura ter feito presa.
 
@@ -2207,7 +2274,7 @@ Comentários. - 1. Recomenda-se que a argamassa referida no n.º 2 do artigo sej
 
 2. No tipo de execução referido no n.º 3 do artigo, os tubos devem ser estabelecidos inteiros entre aparelhos, sem qualquer junção que não seja as das suas ligações a estes.
 
-###### Art. 248.º Traçado das canalizações. - 1. No traçado das canalizações embebidas nas paredes serão evitados troços oblíquos, devendo, na medida do possível, estabelecer-se troços horizontais ou verticais a partir dos aparelhos intercalados nas canalizações, ao longo dos rodapés, ombreiras, sancas e intersecção de paredes.
+Art. 248.º Traçado das canalizações. - 1. No traçado das canalizações embebidas nas paredes serão evitados troços oblíquos, devendo, na medida do possível, estabelecer-se troços horizontais ou verticais a partir dos aparelhos intercalados nas canalizações, ao longo dos rodapés, ombreiras, sancas e intersecção de paredes.
 
 2. O disposto no número anterior não será aplicável se a canalização for constituída por condutores isolados ou cabos, protegidos por tubos de resistência às acções mecânicas da classe M(índice 9).
 
@@ -2217,9 +2284,9 @@ Traçando-se, apenas, canalizações horizontais e verticais a partir dos aparel
 
 3.2.2.2.2 - Canalizações embebidas constituídas por cabos rígidos com isolamento mineral
 
-###### Art. 249.º Tipos de condutores. - Nas canalizações embebidas constituídas por cabos rígidos com isolamento mineral, estes deverão obedecer ao disposto no artigo 222.º
+Art. 249.º Tipos de condutores. - Nas canalizações embebidas constituídas por cabos rígidos com isolamento mineral, estes deverão obedecer ao disposto no artigo 222.º
 
-###### Art. 250.º Colocação das canalizações. - As canalizações embebidas constituídas por cabos rígidos com isolamento mineral deverão ser protegidas por tubos, excepto nos casos seguintes:
+Art. 250.º Colocação das canalizações. - As canalizações embebidas constituídas por cabos rígidos com isolamento mineral deverão ser protegidas por tubos, excepto nos casos seguintes:
 
 a) Na travessia de paredes, tectos ou outras divisórias de pequena espessura, quando convenha impedir a passagem de gases e vapores, ou isolar termicamente os locais separados por essas divisórias, as canalizações poderão ser embebidas directamente, desde que os materiais constituintes dessas divisórias não ataquem a bainha dos cabos;
 
@@ -2229,25 +2296,25 @@ Comentário. - Na prática, a montagem prevista na alínea a) é feita executand
 
 3.2.2.2.3 - Canalizações ocultas constituídas por condutores isolados ou cabos, protegidos por condutas
 
-###### Art. 251.º Tipos de condutores. - Nas canalizações ocultas constituídas por condutores isolados ou cabos, protegidos por condutas, estes não deverão ter características inferiores às dos classificados sob o código 301 100.
+Art. 251.º Tipos de condutores. - Nas canalizações ocultas constituídas por condutores isolados ou cabos, protegidos por condutas, estes não deverão ter características inferiores às dos classificados sob o código 301 100.
 
-###### Art. 252.º Tipos de condutas. - Nas canalizações ocultas constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão obedecer ao disposto no artigo 228.º
+Art. 252.º Tipos de condutas. - Nas canalizações ocultas constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão obedecer ao disposto no artigo 228.º
 
-###### Art. 253.º Dimensões mínimas das condutas. - As condutas deverão ter dimensões da secção recta que obedeçam ao disposto no artigo 235.º
+Art. 253.º Dimensões mínimas das condutas. - As condutas deverão ter dimensões da secção recta que obedeçam ao disposto no artigo 235.º
 
-###### Art. 254.º Colocação das canalizações. - Nas canalizações ocultas constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão ser colocadas de forma a observar-se o disposto no artigo 236.º
+Art. 254.º Colocação das canalizações. - Nas canalizações ocultas constituídas por condutores isolados ou cabos, protegidos por condutas, estas deverão ser colocadas de forma a observar-se o disposto no artigo 236.º
 
-###### Art. 255.º Canalizações com condutas de material ferromagnético. - Nas canalizações em que as condutas sejam de material ferromagnético deverá observar-se o disposto no artigo 210.º
+Art. 255.º Canalizações com condutas de material ferromagnético. - Nas canalizações em que as condutas sejam de material ferromagnético deverá observar-se o disposto no artigo 210.º
 
 3.2.2.2.4 - Canalizações ocultas, pré-fabricadas, com condutores isolados ou cabos
 
-###### Art. 256.º Colocação das canalizações. - As canalizações ocultas, pré-fabricadas, com condutores isolados ou cabos, deverão ser estabelecidas de forma a permitir a sua fácil remoção e conservação, devendo observar-se o disposto no n.º 4 do artigo 230.º e no n.º 2 do artigo 236.º
+Art. 256.º Colocação das canalizações. - As canalizações ocultas, pré-fabricadas, com condutores isolados ou cabos, deverão ser estabelecidas de forma a permitir a sua fácil remoção e conservação, devendo observar-se o disposto no n.º 4 do artigo 230.º e no n.º 2 do artigo 236.º
 
 Comentário. - Na aplicação do disposto no n.º 2 do artigo 236.º são válidas as considerações feitas no comentário desse artigo.
 
 3.2.2.2.5 - Canalizações ocultas estabelecidas em espaços ocos das construções
 
-###### Art. 257.º Aproveitamento de espaços ocos das construções. - 1. Os espaços ocos de paredes, tectos, pavimentos ou outros elementos das construções só poderão ser aproveitados para estabelecimento de canalizações eléctricas depois de terminados os trabalhos de construção civil que possam danificar as canalizações.
+Art. 257.º Aproveitamento de espaços ocos das construções. - 1. Os espaços ocos de paredes, tectos, pavimentos ou outros elementos das construções só poderão ser aproveitados para estabelecimento de canalizações eléctricas depois de terminados os trabalhos de construção civil que possam danificar as canalizações.
 
 2. Os espaços ocos apenas poderão ser utilizados por canalizações que tenham diâmetro exterior não superior a metade da menor dimensão dos referidos espaços ocos ou secção total não excedendo 25% dos mesmos espaços.
 
@@ -2263,7 +2330,7 @@ c) Por vazios de forma, natureza e dimensões adequadas, existentes em qualquer 
 
 3. Os sótãos ou dependências semelhantes onde se possa circular facilmente não são considerados como espaços ocos da construção.
 
-###### Art. 258.º Tipos de canalizações. - Nos espaços ocos das construções apenas poderão ser empregados os tipos de canalizações seguintes:
+Art. 258.º Tipos de canalizações. - Nos espaços ocos das construções apenas poderão ser empregados os tipos de canalizações seguintes:
 
 a) Canalizações fixas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos;
 
@@ -2281,23 +2348,23 @@ g) Canalizações amovíveis constituídas por cabos flexíveis com bainha ligei
 
 Comentário. - Nas canalizações estabelecidas em espaços ocos das construções recomenda-se o emprego de canalizações rígidas constituídas por condutores isolados ou cabos, protegidos por tubos, ou de canalizações amovíveis constituídas por cabos flexíveis.
 
-###### Art. 259.º Colocação das canalizações. - 1. Nos espaços ocos das construções, as canalizações poderão ser estabelecidas sobre braçadeiras ou sobre apoios não contínuos, ou directamente sobre as superfícies desses espaços ocos.
+Art. 259.º Colocação das canalizações. - 1. Nos espaços ocos das construções, as canalizações poderão ser estabelecidas sobre braçadeiras ou sobre apoios não contínuos, ou directamente sobre as superfícies desses espaços ocos.
 
 2. Nas canalizações estabelecidas em tectos ou pavimentos, falsos, quando estes forem constituídos por painéis desmontáveis, as canalizações deverão ser fixadas independentemente dos referidos painéis.
 
-###### Art. 260.º Acessibilidade dos aparelhos intercalados nas canalizações. - Os aparelhos intercalados nas canalizações estabelecidas em espaços ocos das construções deverão ser colocados de forma a serem facilmente acessíveis.
+Art. 260.º Acessibilidade dos aparelhos intercalados nas canalizações. - Os aparelhos intercalados nas canalizações estabelecidas em espaços ocos das construções deverão ser colocados de forma a serem facilmente acessíveis.
 
 Comentário. - O artigo visa, em especial, os aparelhos de ligação.
 
-###### Art. 261.º Vizinhança com outras canalizações. - Nos espaços ocos das construções onde possam coexistir canalizações eléctricas e outras não eléctricas deverão ser tomadas precauções para evitar que os trabalhos nestas prejudiquem as primeiras.
+Art. 261.º Vizinhança com outras canalizações. - Nos espaços ocos das construções onde possam coexistir canalizações eléctricas e outras não eléctricas deverão ser tomadas precauções para evitar que os trabalhos nestas prejudiquem as primeiras.
 
 3.2.2.2.6 - Canalizações ocultas estabelecidas em caleiras
 
-###### Art. 262.º Tipos de canalizações. - Nas caleiras apenas poderão ser estabelecidas canalizações constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, com armadura ou com isolamento mineral, ou por cabos flexíveis com duas bainhas ou uma bainha reforçada.
+Art. 262.º Tipos de canalizações. - Nas caleiras apenas poderão ser estabelecidas canalizações constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, com armadura ou com isolamento mineral, ou por cabos flexíveis com duas bainhas ou uma bainha reforçada.
 
 Comentário. - Entende-se por caleiras os canais feitos no pavimento e dotados de tampas amovíveis.
 
-###### Art. 263.º Colocação das canalizações. - 1. As canalizações referidas no artigo 262.º poderão ser estabelecidas sobre braçadeiras ou sobre apoios não contínuos, ou directamente sobre o fundo das caleiras.
+Art. 263.º Colocação das canalizações. - 1. As canalizações referidas no artigo 262.º poderão ser estabelecidas sobre braçadeiras ou sobre apoios não contínuos, ou directamente sobre o fundo das caleiras.
 
 2. Do disposto no número anterior exceptuam-se as canalizações constituídas por cabos com isolamento mineral, que não poderão ser estabelecidas directamente sobre o fundo das caleiras.
 
@@ -2305,13 +2372,13 @@ Comentário. - Entende-se por caleiras os canais feitos no pavimento e dotados d
 
 3.2.2.2.7 - Canalizações ocultas estabelecidas em galerias inacessíveis
 
-###### Art. 264.º Tipos de canalizações. - Nas galerias inacessíveis apenas poderão ser estabelecidas canalizações constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, ou com armadura.
+Art. 264.º Tipos de canalizações. - Nas galerias inacessíveis apenas poderão ser estabelecidas canalizações constituídas por cabos rígidos com duas bainhas ou uma bainha reforçada, ou com armadura.
 
 Comentário. - Entende-se por galerias inacessíveis os espaços fechados cujas dimensões não permitem circular nas mesmas mas que são dotadas de aberturas apropriadas destinadas ao acesso às canalizações.
 
-###### Art. 265.º Colocação das canalizações. - Na colocação das canalizações em galerias inacessíveis deverá observar-se o disposto nos n.os 1 e 3 do artigo 263.º
+Art. 265.º Colocação das canalizações. - Na colocação das canalizações em galerias inacessíveis deverá observar-se o disposto nos n.os 1 e 3 do artigo 263.º
 
-###### Art. 266.º Câmaras de visita. - 1. Nas galerias inacessíveis deverão ser previstas câmaras de visita convenientemente localizadas e distanciadas por forma a garantir o fácil enfiamento e desenfiamento das canalizações.
+Art. 266.º Câmaras de visita. - 1. Nas galerias inacessíveis deverão ser previstas câmaras de visita convenientemente localizadas e distanciadas por forma a garantir o fácil enfiamento e desenfiamento das canalizações.
 
 2. Nas câmaras de visita de canalizações eléctricas não poderão passar outras canalizações.
 
@@ -2319,61 +2386,61 @@ Comentário. - Recomenda-se que, tanto quanto possível, as câmaras de visita f
 
 3.2.2.2.8 - Canalizações enterradas
 
-###### Art. 267.º Tipos de condutores. - 1. Nas canalizações enterradas apenas poderão ser empregados cabos rígidos com duas bainhas ou uma bainha reforçada, ou com armadura.
+Art. 267.º Tipos de condutores. - 1. Nas canalizações enterradas apenas poderão ser empregados cabos rígidos com duas bainhas ou uma bainha reforçada, ou com armadura.
 
 2. Nas canalizações enterradas não deverão empregar-se cabos de características inferiores às dos classificados sob o código 305 200, excepto quando estabelecidos na via pública, caso em que não deverão ter características inferiores aos dos classificados sob o código 307 210.
 
-###### Art. 268.º Colocação das canalizações. - As canalizações enterradas poderão assentar directamente no solo ou ser enfiadas em manilhas de betão, tubos de fibrocimento ou de material termoplástico, blocos de betão perfurados ou materiais equivalentes, por forma a não serem danificadas pela pressão ou abatimento das terras. No primeiro caso, deverão assentar em fundo, convenientemente preparado, de valas e ficar envolvidas em areia ou em terra fina ou cirandada.
+Art. 268.º Colocação das canalizações. - As canalizações enterradas poderão assentar directamente no solo ou ser enfiadas em manilhas de betão, tubos de fibrocimento ou de material termoplástico, blocos de betão perfurados ou materiais equivalentes, por forma a não serem danificadas pela pressão ou abatimento das terras. No primeiro caso, deverão assentar em fundo, convenientemente preparado, de valas e ficar envolvidas em areia ou em terra fina ou cirandada.
 
-###### Art. 269.º Profundidade de enterramento das canalizações. - 1. As canalizações enterradas deverão ser colocadas à profundidade mínima de 0,60 m, excepto nas travessias de arruamentos com trânsito de veículos, em que aquela profundidade não poderá ser inferior a 1 m.
+Art. 269.º Profundidade de enterramento das canalizações. - 1. As canalizações enterradas deverão ser colocadas à profundidade mínima de 0,60 m, excepto nas travessias de arruamentos com trânsito de veículos, em que aquela profundidade não poderá ser inferior a 1 m.
 
 2. As profundidades indicadas no número anterior poderão ser reduzidas nos casos em que a dificuldade de execução o justifique, sem prejuízo da conveniente protecção das canalizações, ou em locais em que não sejam de prever cargas móveis que possam danificar a canalização.
 
-###### Art. 270.º Sinalização das canalizações. - 1. As canalizações directamente enterradas deverão ser sinalizadas por um dispositivo de aviso colocado, pelo menos, a 0,10 m acima delas, constituído por redes metálicas ou de material plástico, tijolos, placas de betão, lousa ou materiais equivalentes.
+Art. 270.º Sinalização das canalizações. - 1. As canalizações directamente enterradas deverão ser sinalizadas por um dispositivo de aviso colocado, pelo menos, a 0,10 m acima delas, constituído por redes metálicas ou de material plástico, tijolos, placas de betão, lousa ou materiais equivalentes.
 
 2. Nas canalizações não directamente assentes no solo poderá dispensar-se a colocação do dispositivo de aviso referido no número anterior.
 
-###### Art. 271.º Câmaras de visita. - 1. Nas canalizações não directamente assentes no solo deverão ser previstas câmaras de visita obedecendo ao disposto no artigo 266.º
+Art. 271.º Câmaras de visita. - 1. Nas canalizações não directamente assentes no solo deverão ser previstas câmaras de visita obedecendo ao disposto no artigo 266.º
 
 2. O enfiamento das canalizações apenas deverá ser feito depois de concluídos os trabalhos de construção civil relativos ao estabelecimento dos canais em questão.
 
 Comentário. - São válidas para este artigo as considerações feitas no comentário do artigo 266.º
 
-###### Art. 272.º Vizinhança com outras canalizações. - As canalizações enterradas, quando estabelecidas na vizinhança de outras canalizações, deverão obedecer ao disposto no Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão e no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, na parte aplicável.
+Art. 272.º Vizinhança com outras canalizações. - As canalizações enterradas, quando estabelecidas na vizinhança de outras canalizações, deverão obedecer ao disposto no Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão e no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, na parte aplicável.
 
 3.2.2.2.9 - Canalizações subaquáticas
 
-###### Art. 273.º Tipos de condutores. - Nas canalizações subaquáticas não deverão empregar-se cabos de características inferiores às dos classificados sob o código 305 200.
+Art. 273.º Tipos de condutores. - Nas canalizações subaquáticas não deverão empregar-se cabos de características inferiores às dos classificados sob o código 305 200.
 
 Comentário. - Embora, de acordo com o artigo, se permita o emprego de cabos rígidos, recomenda-se o emprego de cabos flexíveis do código 315 200.
 
-###### Art. 274.º Colocação das canalizações. - As canalizações subaquáticas poderão ser simplesmente assentes sobre o fundo dos locais submersos, devendo, todavia, ser lastradas por forma a não se afastarem facilmente da posição de assentamento.
+Art. 274.º Colocação das canalizações. - As canalizações subaquáticas poderão ser simplesmente assentes sobre o fundo dos locais submersos, devendo, todavia, ser lastradas por forma a não se afastarem facilmente da posição de assentamento.
 
 3.2.3 - Canalizações amovíveis
 
-###### Art. 275.º Tipos de canalizações. - As canalizações amovíveis, à vista ou ocultas, deverão ser constituídas por condutores isolados ou cabos, flexíveis, protegidos por tubos, ou por cabos flexíveis.
+Art. 275.º Tipos de canalizações. - As canalizações amovíveis, à vista ou ocultas, deverão ser constituídas por condutores isolados ou cabos, flexíveis, protegidos por tubos, ou por cabos flexíveis.
 
-###### Art. 276.º Tipos de condutores. - 1. Nas canalizações amovíveis constituídas por condutores isolados ou cabos, flexíveis, protegidos por tubos, aqueles não deverão ter características inferiores às dos classificados sob o código 211 100.
+Art. 276.º Tipos de condutores. - 1. Nas canalizações amovíveis constituídas por condutores isolados ou cabos, flexíveis, protegidos por tubos, aqueles não deverão ter características inferiores às dos classificados sob o código 211 100.
 
 2. Nas canalizações amovíveis constituídas por cabos flexíveis, estes não deverão ter características inferiores às dos classificados sob o código 213 100.
 
-###### Art. 277.º Tipos de tubos. - Nas canalizações amovíveis constituídas por condutores isolados ou cabos, protegidos por tubos, estes poderão ser rígidos, maleáveis ou flexíveis, não devendo ter características inferiores às dos classificados sob os códigos 5 101 100, 5 011 100 ou 5 021 100, respectivamente.
+Art. 277.º Tipos de tubos. - Nas canalizações amovíveis constituídas por condutores isolados ou cabos, protegidos por tubos, estes poderão ser rígidos, maleáveis ou flexíveis, não devendo ter características inferiores às dos classificados sob os códigos 5 101 100, 5 011 100 ou 5 021 100, respectivamente.
 
-###### Art. 278.º Colocação das canalizações. - Nas canalizações amovíveis constituídas por cabos flexíveis, no caso de se empregarem cabos unipolares para alimentação do mesmo aparelho de utilização, estes deverão ser amarrados entre si a espaços não superiores a 0,50 m, por forma a ser facilmente identificável a unidade da canalização respectiva.
+Art. 278.º Colocação das canalizações. - Nas canalizações amovíveis constituídas por cabos flexíveis, no caso de se empregarem cabos unipolares para alimentação do mesmo aparelho de utilização, estes deverão ser amarrados entre si a espaços não superiores a 0,50 m, por forma a ser facilmente identificável a unidade da canalização respectiva.
 
 3.3 - Aparelhos intercalados nas canalizações
 
 3.3.1 - Disposições gerais
 
-###### Art. 279.º Localização dos aparelhos. - Os aparelhos a intercalar nas canalizações deverão ser localizados em pontos acessíveis por forma a ser possível assegurar a sua manutenção e a verificação das ligações, mas de modo a ficarem ao abrigo de acções mecânicas ou de entrada de água ou de poeiras.
+Art. 279.º Localização dos aparelhos. - Os aparelhos a intercalar nas canalizações deverão ser localizados em pontos acessíveis por forma a ser possível assegurar a sua manutenção e a verificação das ligações, mas de modo a ficarem ao abrigo de acções mecânicas ou de entrada de água ou de poeiras.
 
-###### Art. 280.º Colocação dos aparelhos. - 1. Os aparelhos a intercalar nas canalizações deverão ser estabelecidos por forma a não transmitir esforços mecânicos, resultantes do seu uso normal, prejudiciais às canalizações em que são inseridos.
+Art. 280.º Colocação dos aparelhos. - 1. Os aparelhos a intercalar nas canalizações deverão ser estabelecidos por forma a não transmitir esforços mecânicos, resultantes do seu uso normal, prejudiciais às canalizações em que são inseridos.
 
 2. A colocação dos aparelhos deverá ser feita de forma a assegurar a correcta adaptação dos seus elementos constituintes.
 
 3.3.2 - Aparelhos de ligação
 
-###### Art. 281.º Ligação dos condutores entre si e aos aparelhos. - 1. A ligação dos condutores entre si e aos aparelhos deverá ser feita por meio de ligadores, obedecendo ao disposto nos artigos 121.º a 123.º e adequados ao tipo de condutor, que garantam a condução da intensidade de corrente máxima admissível nos condutores a ligar.
+Art. 281.º Ligação dos condutores entre si e aos aparelhos. - 1. A ligação dos condutores entre si e aos aparelhos deverá ser feita por meio de ligadores, obedecendo ao disposto nos artigos 121.º a 123.º e adequados ao tipo de condutor, que garantam a condução da intensidade de corrente máxima admissível nos condutores a ligar.
 
 2. Na ligação entre condutores não será permitida a torçada, salvo se for completada por aperto mecânico feito por ligador adequado.
 
@@ -2395,7 +2462,7 @@ Como a ligação por soldadura a forte é, de um modo geral, de execução pouco
 
 5. A reconstituição do isolamento, referida no comentário 3, não consiste na aplicação de uma fita isoladora do tipo corrente, mas sim na utilização de materiais que, por vulcanização, polimerização, etc., garantam, de forma durável, características de isolamento idênticas às existentes anteriormente.
 
-###### Art. 282.º Fixação dos ligadores. - 1. Os ligadores nus, quando protegidos por um invólucro, deverão ser fixados sobre uma base isolante, a qual, por sua vez, deverá ser fixada a esse invólucro.
+Art. 282.º Fixação dos ligadores. - 1. Os ligadores nus, quando protegidos por um invólucro, deverão ser fixados sobre uma base isolante, a qual, por sua vez, deverá ser fixada a esse invólucro.
 
 2. Quando o invólucro for isolante ou base isolante tiver uma forma tal que não permita que os ligadores entrem em contacto entre si ou com as paredes do invólucro ou o respectivo ligador de massa, poderá ser dispensada a fixação da base ao referido invólucro.
 
@@ -2405,9 +2472,9 @@ Como a ligação por soldadura a forte é, de um modo geral, de execução pouco
 
 5. O ligador de massa dos invólucros de material condutor deverá ser electricamente ligado a estes invólucros.
 
-###### Art. 283.º Transmissão de esforços na ligação de condutores. - A ligação dos condutores entre si e aos aparelhos deverá ser executada por forma que os esforços mecânicos provenientes dos aparelhos ou dos próprios condutores não prejudiquem essas ligações.
+Art. 283.º Transmissão de esforços na ligação de condutores. - A ligação dos condutores entre si e aos aparelhos deverá ser executada por forma que os esforços mecânicos provenientes dos aparelhos ou dos próprios condutores não prejudiquem essas ligações.
 
-###### Art. 284.º Ligação de condutores nus estabelecidos sobre isoladores. - 1. Os ligadores a empregar na junção de condutores nus estabelecidos sobre isoladores deverão garantir uma resistência à tracção não inferior à dos condutores.
+Art. 284.º Ligação de condutores nus estabelecidos sobre isoladores. - 1. Os ligadores a empregar na junção de condutores nus estabelecidos sobre isoladores deverão garantir uma resistência à tracção não inferior à dos condutores.
 
 2. As derivações de condutores apenas poderão ser efectuadas em pontos fixos.
 
@@ -2415,11 +2482,11 @@ Como a ligação por soldadura a forte é, de um modo geral, de execução pouco
 
 4. Na ligação de barras admitir-se-á que os elementos de aperto atravessem as mesmas, desde que se tomem precauções para que a secção dos elementos condutores não seja diminuída.
 
-###### Art. 285.º Ligação de condutores isolados estabelecidos sobre isoladores. - Na ligação de condutores isolados estabelecidos sobre isoladores deverá observar-se o disposto nos n.os 1 e 2 do artigo 284.º
+Art. 285.º Ligação de condutores isolados estabelecidos sobre isoladores. - Na ligação de condutores isolados estabelecidos sobre isoladores deverá observar-se o disposto nos n.os 1 e 2 do artigo 284.º
 
-###### Art. 286.º Ligação de condutores isolados ou cabos. - Nas canalizações constituídas por condutores isolados ou cabos, as ligações entre estes deverão ser feitas em aparelhos de ligação adequados.
+Art. 286.º Ligação de condutores isolados ou cabos. - Nas canalizações constituídas por condutores isolados ou cabos, as ligações entre estes deverão ser feitas em aparelhos de ligação adequados.
 
-###### Art. 287.º Tipos de protecção dos aparelhos de ligação. - 1. A protecção das ligações dos condutores isolados ou dos cabos contra a penetração de líquidos ou de poeiras deverá ser assegurada por bucins e juntas ou por enchimento com substância de características convenientes que não ataque os materiais isolantes da canalização.
+Art. 287.º Tipos de protecção dos aparelhos de ligação. - 1. A protecção das ligações dos condutores isolados ou dos cabos contra a penetração de líquidos ou de poeiras deverá ser assegurada por bucins e juntas ou por enchimento com substância de características convenientes que não ataque os materiais isolantes da canalização.
 
 2. A protecção contra a corrosão deverá ser obtida pelo enchimento dos aparelhos de ligação por substância com as características referidas no número anterior.
 
@@ -2427,7 +2494,7 @@ Como a ligação por soldadura a forte é, de um modo geral, de execução pouco
 
 4. Nas canalizações constituídas por cabos com isolamento constituído por materiais impregnados por líquido isolante, os aparelhos de ligação deverão ser cheios com substância que impeça migrações ou fugas do líquido isolante, salvo se este for de tipo não migrante.
 
-###### Art. 288.º Ligação de cabos com isolamento mineral. - Os aparelhos de ligação a empregar nas canalizações constituídas por cabos com isolamento mineral poderão ser constituídos por qualquer dos dispositivos seguintes:
+Art. 288.º Ligação de cabos com isolamento mineral. - Os aparelhos de ligação a empregar nas canalizações constituídas por cabos com isolamento mineral poderão ser constituídos por qualquer dos dispositivos seguintes:
 
 a) Ligadores de material que não dê origem a corrosão electrolítica da bainha e que garantam, por enchimento com substância adequada, uma perfeita vedação do cabo à humidade, impedindo a deterioração da substância refractária e isolante. Estas peças deverão ser, simultaneamente, dotadas de mangas isolantes que permitam isolar os cabos na parte onde se retire a bainha e o isolamento, para efeito de ligação;
 
@@ -2439,7 +2506,7 @@ Comentários. - 1. A aplicação dos ligadores referidos na alínea a) do artigo
 
 2. A execução da selagem imediatamente após o corte da bainha resulta da necessidade de evitar a infiltração de humidade no elemento isolante do cabo.
 
-###### Art. 289.º Ligação de canalizações fixas aos aparelhos nelas intercalados. - 1. A ligação de canalizações fixas aos aparelhos nelas intercalados poderá ser feita em aparelhos de ligação associados àqueles.
+Art. 289.º Ligação de canalizações fixas aos aparelhos nelas intercalados. - 1. A ligação de canalizações fixas aos aparelhos nelas intercalados poderá ser feita em aparelhos de ligação associados àqueles.
 
 2. Na ligação das canalizações fixas aos aparelhos nelas intercalados, as pontas dos condutores deverão ter, dentro desses aparelhos, comprimento suficiente para permitir a fácil execução das ligações.
 
@@ -2449,37 +2516,37 @@ Comentários. - 1. O disposto no n.º 1 do artigo tem em vista contemplar os cas
 
 2. Para cumprimento do disposto no n.º 2 do artigo, recomenda-se que as pontas dos condutores tenham, pelo menos, 10 cm livres para ligação.
 
-###### Art. 290.º Ligação de canalizações amovíveis às canalizações fixas. - A ligação de canalizações amovíveis às canalizações fixas deverá ser feita por conjuntos de tomadas fixas e fichas, por caixas de ligação ou por tomadas do tipo trolley no caso de alimentação de veículos de tracção ou de aparelhos de movimentação mecânica de cargas.
+Art. 290.º Ligação de canalizações amovíveis às canalizações fixas. - A ligação de canalizações amovíveis às canalizações fixas deverá ser feita por conjuntos de tomadas fixas e fichas, por caixas de ligação ou por tomadas do tipo trolley no caso de alimentação de veículos de tracção ou de aparelhos de movimentação mecânica de cargas.
 
-###### Art. 291.º Ligação de canalizações amovíveis aos aparelhos. - A ligação de canalizações amovíveis aos aparelhos deverá ser feita por meio de cabos flexíveis ligados em posição fixa ou por meio de conectores.
+Art. 291.º Ligação de canalizações amovíveis aos aparelhos. - A ligação de canalizações amovíveis aos aparelhos deverá ser feita por meio de cabos flexíveis ligados em posição fixa ou por meio de conectores.
 
-###### Art. 292.º Aparelhos de ligação em instalações distintas. - Quando num mesmo local houver instalações com correntes de características diferentes (tensão ou frequência), as tomadas deverão ser devidamente identificadas e, sempre que possível, de tipos diferentes e não intermutáveis.
+Art. 292.º Aparelhos de ligação em instalações distintas. - Quando num mesmo local houver instalações com correntes de características diferentes (tensão ou frequência), as tomadas deverão ser devidamente identificadas e, sempre que possível, de tipos diferentes e não intermutáveis.
 
-###### Art. 293.º Ligação de fichas e tomadas. - As tomadas deverão ser ligadas às canalizações que fornecem energia e as fichas às que recebem energia.
+Art. 293.º Ligação de fichas e tomadas. - As tomadas deverão ser ligadas às canalizações que fornecem energia e as fichas às que recebem energia.
 
 3.3.3 - Aparelhos de corte ou de comando
 
-###### Art. 294.º Número de pólos dos aparelhos. - 1. Os aparelhos de corte ou de comando de uma canalização a dois condutores activos deverão cortar os dois simultaneamente, excepto se um dos condutores activos for o neutro, caso em que o corte poderá ser feito apenas no condutor de fase.
+Art. 294.º Número de pólos dos aparelhos. - 1. Os aparelhos de corte ou de comando de uma canalização a dois condutores activos deverão cortar os dois simultaneamente, excepto se um dos condutores activos for o neutro, caso em que o corte poderá ser feito apenas no condutor de fase.
 
 2. Os aparelhos de corte ou de comando de uma canalização a três ou quatro condutores activos em que um seja neutro poderão cortar os condutores de fase simultânea ou separadamente, excepto quando o neutro seja também cortado, caso em que deverá ser feito o corte simultâneo de todos os condutores.
 
 3. Nos circuitos em que haja motores trifásicos ou em que se receie o aparecimento de fenómenos estroboscópicos, o corte deverá ser simultâneo.
 
-###### Art. 295.º Estabelecimento de aparelhos de corte ou de comando. - 1. Os aparelhos de corte ou de comando em que a acção da gravidade possa ter efeito sobre a sua posição deverão ser estabelecidos por forma que essa acção tenda a mantê-los, quando abertos, nessa posição.
+Art. 295.º Estabelecimento de aparelhos de corte ou de comando. - 1. Os aparelhos de corte ou de comando em que a acção da gravidade possa ter efeito sobre a sua posição deverão ser estabelecidos por forma que essa acção tenda a mantê-los, quando abertos, nessa posição.
 
 2. Os aparelhos de corte ou de comando deverão ser estabelecidos, sempre que possível, de modo que os contactos móveis fiquem sem tensão, quando na posição de desligado.
 
 3.3.4 - Aparelhos do protecção contra sobreintensidades
 
-###### Art. 296.º Montagem dos aparelhos de protecção contra sobreintensidades. - Os aparelhos de protecção contra sobreintensidades deverão ser montados de forma que se possa identificar facilmente os circuitos ou aparelhos que protegem.
+Art. 296.º Montagem dos aparelhos de protecção contra sobreintensidades. - Os aparelhos de protecção contra sobreintensidades deverão ser montados de forma que se possa identificar facilmente os circuitos ou aparelhos que protegem.
 
-###### Art. 297.º Montagem de corta-circuitos fusíveis. - 1. Os corta-circuitos fusíveis do tipo de ficha fusível deverão ser montados por forma a não ser possível ligar, entre si, por meio de uma ficha, dois alvéolos ligados a condutores activos diferentes.
+Art. 297.º Montagem de corta-circuitos fusíveis. - 1. Os corta-circuitos fusíveis do tipo de ficha fusível deverão ser montados por forma a não ser possível ligar, entre si, por meio de uma ficha, dois alvéolos ligados a condutores activos diferentes.
 
 2. Os corta-circuitos fusíveis do tipo de rolo deverão ser montados de modo que o condutor do lado da alimentação seja ligado ao contacto central.
 
 3. Os corta-circuitos fusíveis deverão ser montados suficientemente distanciados ou com separadores, de forma a não ser possível que um arco que se verifique num corta-circuito se possa transmitir a outro corta-circuito vizinho.
 
-###### Art. 298.º Fusíveis em paralelo. - Para intensidades de corrente superiores às maiores intensidades nominais de corta-circuitos fusíveis fabricados será admissível empregar fusíveis em paralelo, desde que se verifiquem, simultaneamente, as condições seguintes:
+Art. 298.º Fusíveis em paralelo. - Para intensidades de corrente superiores às maiores intensidades nominais de corta-circuitos fusíveis fabricados será admissível empregar fusíveis em paralelo, desde que se verifiquem, simultaneamente, as condições seguintes:
 
 a) Os fusíveis terem as mesmas características;
 
@@ -2489,25 +2556,25 @@ c) A montagem ser executada por forma a não se poderem verificar diferenças de
 
 3.4 - Quadros
 
-###### Art. 299.º Fixação dos quadros. - 1. Os quadros poderão ser apoiados sobre o pavimento ou fixados às paredes, devendo ser colocados por forma a manterem-se na posição adequada e por meio de dispositivos de robustez suficiente para suportar as solicitações normais resultantes da manobra dos aparelhos neles instalados.
+Art. 299.º Fixação dos quadros. - 1. Os quadros poderão ser apoiados sobre o pavimento ou fixados às paredes, devendo ser colocados por forma a manterem-se na posição adequada e por meio de dispositivos de robustez suficiente para suportar as solicitações normais resultantes da manobra dos aparelhos neles instalados.
 
 2. Os quadros abertos, os de painéis e os de armário sem invólucro na face inferior só poderão ser apoiados ou assentes sobre superfícies com revestimento de material incombustível.
 
-###### Art. 300.º Espaço livre. - 1. Entre a parte mais saliente dos aparelhos existentes nas faces anterior ou posterior dos quadros, considerando a posição em que esses aparelhos ficam mais salientes, e qualquer parede ou obstáculo de outra natureza deverá haver um espaço livre não inferior a 0,70 m, excepto se o quadro for do tipo aberto, caso em que o referido espaço não deverá ser inferior a 1 m.
+Art. 300.º Espaço livre. - 1. Entre a parte mais saliente dos aparelhos existentes nas faces anterior ou posterior dos quadros, considerando a posição em que esses aparelhos ficam mais salientes, e qualquer parede ou obstáculo de outra natureza deverá haver um espaço livre não inferior a 0,70 m, excepto se o quadro for do tipo aberto, caso em que o referido espaço não deverá ser inferior a 1 m.
 
 2. Nos quadros de painéis e nos quadros de armário acessíveis por detrás, deverá existir, ainda, pela parte detrás um espaço livre de 0,70 m.
 
-###### Art. 301.º Montagem de quadros de armário. - 1. Os quadros de armário poderão ficar encostados às paredes ou a outras estruturas equivalentes ou, ainda, ser embebidos ou semiembebidos nas mesmas, quando o acesso aos aparelhos for apenas feito pela frente.
+Art. 301.º Montagem de quadros de armário. - 1. Os quadros de armário poderão ficar encostados às paredes ou a outras estruturas equivalentes ou, ainda, ser embebidos ou semiembebidos nas mesmas, quando o acesso aos aparelhos for apenas feito pela frente.
 
 2. Os quadros de armário destinados a montagem embebida ou semiembebida deverão ter todos os aparelhos montados sobre estrutura amovível que permita colocá-los em posição só depois de efectuada a fixação do quadro.
 
-###### Art. 302.º Montagem de quadros de caixas. - Os quadros de caixas não poderão ficar embebidos ou semiembebidos em paredes ou outras estruturas equivalentes.
+Art. 302.º Montagem de quadros de caixas. - Os quadros de caixas não poderão ficar embebidos ou semiembebidos em paredes ou outras estruturas equivalentes.
 
 3.5 - Aparelhos de conversão, transformação ou acumulação de energia eléctrica
 
 3.5.1 - Disposições gerais
 
-###### Art. 303.º Aparelho de corte. - 1. Quando os aparelhos de conversão, transformação ou acumulação de energia eléctrica não forem dotados de interruptor incorporado no mesmo, deverá ser estabelecido esse aparelho de corte no circuito de alimentação, se aqueles aparelhos absorverem energia, ou no circuito de saída, se fornecerem energia.
+Art. 303.º Aparelho de corte. - 1. Quando os aparelhos de conversão, transformação ou acumulação de energia eléctrica não forem dotados de interruptor incorporado no mesmo, deverá ser estabelecido esse aparelho de corte no circuito de alimentação, se aqueles aparelhos absorverem energia, ou no circuito de saída, se fornecerem energia.
 
 2. Exceptuam-se do disposto no número anterior os casos seguintes:
 
@@ -2533,13 +2600,13 @@ Desta forma, o aparelho de corte deve ser instalado o mais próximo possível do
 
 4. A solução preconizada na alínea c) do n.º 2 do artigo é admissível em virtude de o corte em carga ser feito pelo contactor ou contactor-disjuntor e a extracção dos cartuchos fusíveis garantir o isolamento do aparelho.
 
-###### Art. 304.º Localização dos interruptores. - 1. O interruptor referido no artigo 303.º deverá ser colocado o mais junto possível dos aparelhos a que diz respeito e serem visíveis as suas posições de ligado e desligado do ponto onde estes se encontrem.
+Art. 304.º Localização dos interruptores. - 1. O interruptor referido no artigo 303.º deverá ser colocado o mais junto possível dos aparelhos a que diz respeito e serem visíveis as suas posições de ligado e desligado do ponto onde estes se encontrem.
 
 2. O disposto no número anterior poderá não ser aplicado desde que, junto do aparelho, existam meios permitindo bloquear, de forma segura, na posição de desligado, os referidos aparelhos de corte.
 
 Comentário. - Um dos meios referidos no n.º 2 do artigo é o emprego de dispositivos de encravamento por chave.
 
-###### Art. 305.º Localização de aparelhos fixos. - 1. Os aparelhos de conversão, transformação ou acumulação de energia eléctrica, quando fixos, deverão ser montados em locais com ventilação adequada e ser instalados por forma a permitir a sua fácil manutenção.
+Art. 305.º Localização de aparelhos fixos. - 1. Os aparelhos de conversão, transformação ou acumulação de energia eléctrica, quando fixos, deverão ser montados em locais com ventilação adequada e ser instalados por forma a permitir a sua fácil manutenção.
 
 2. Deverão, ainda, ser instalados de forma que as variações de temperatura ou os arcos resultantes do seu funcionamento normal, de avarias ou falsas manobras não possam prejudicar os objectos próximos ou atingir substâncias inflamáveis ou combustíveis.
 
@@ -2547,37 +2614,37 @@ Comentário. - Na instalação dos aparelhos fixos e para efeito de manutenção
 
 3.5.2 - Conversores
 
-###### Art. 306.º Localização de conversores. - Os conversores de energia eléctrica, quando produzem energia a uma tensão superior à tensão reduzida, deverão, sempre que possível, ser instalados em locais afectos a serviços eléctricos e obedecer, na parte aplicável, às disposições de segurança das centrais geradoras de energia eléctrica.
+Art. 306.º Localização de conversores. - Os conversores de energia eléctrica, quando produzem energia a uma tensão superior à tensão reduzida, deverão, sempre que possível, ser instalados em locais afectos a serviços eléctricos e obedecer, na parte aplicável, às disposições de segurança das centrais geradoras de energia eléctrica.
 
-###### Art. 307.º Protecção contra embalamento. - Os geradores dos conversores de energia eléctrica deverão ser dotados de dispositivos de protecção contra excesso de velocidade quando forem accionados por máquinas motrizes susceptíveis de embalar ou quando, sendo de característica série, estejam ligados em paralelo com outros geradores.
+Art. 307.º Protecção contra embalamento. - Os geradores dos conversores de energia eléctrica deverão ser dotados de dispositivos de protecção contra excesso de velocidade quando forem accionados por máquinas motrizes susceptíveis de embalar ou quando, sendo de característica série, estejam ligados em paralelo com outros geradores.
 
 3.5.3 - Transformadores
 
-###### Art. 308.º Autotransformadores. - Quando um dos condutores da canalização de alimentação de um autotransformador for o neutro, o ponto comum ao enrolamento primário e ao secundário deverá ser ligado ao referido condutor neutro.
+Art. 308.º Autotransformadores. - Quando um dos condutores da canalização de alimentação de um autotransformador for o neutro, o ponto comum ao enrolamento primário e ao secundário deverá ser ligado ao referido condutor neutro.
 
 3.5.4 - Condensadores
 
-###### Art. 309.º Dispositivo de descarga de condensadores. - 1. Quando a carga residual dos condensadores possa pôr em risco a segurança das pessoas ou coisas, eles deverão ser equipados com um dispositivo de descarga adequado, permanentemente ligado aos seus terminais ou ligado automaticamente por intermédio de aparelhos funcionando por falta de tensão.
+Art. 309.º Dispositivo de descarga de condensadores. - 1. Quando a carga residual dos condensadores possa pôr em risco a segurança das pessoas ou coisas, eles deverão ser equipados com um dispositivo de descarga adequado, permanentemente ligado aos seus terminais ou ligado automaticamente por intermédio de aparelhos funcionando por falta de tensão.
 
 2. O dispositivo de descarga referido no número anterior deverá ser concebido por forma que a tensão entre terminais do condensador respectivo não exceda 50 V um minuto depois de cortada a alimentação, se o condensador for alimentado em baixa tensão, e cinco minutos depois, se for alimentado em alta tensão.
 
 3. Considerar-se-ão como dispositivos de descarga adequados os enrolamentos de máquinas eléctricas quando os condensadores se encontrem permanentemente ligados em paralelo com os referidos enrolamentos e quando entre os condensadores e os mesmos enrolamentos não existam quaisquer aparelhos de corte ou protecção.
 
-###### Art. 310.º Condensadores constituintes de sistemas de baixa impedância. - Quando uma instalação de condensadores possa constituir um sistema de baixa impedância para determinadas frequências deverão ser tomadas medidas que evitem qualquer perturbação a que possam dar origem.
+Art. 310.º Condensadores constituintes de sistemas de baixa impedância. - Quando uma instalação de condensadores possa constituir um sistema de baixa impedância para determinadas frequências deverão ser tomadas medidas que evitem qualquer perturbação a que possam dar origem.
 
 Comentário. - O artigo visa, em especial, evitar o enfraquecimento de certos sinais de telecomunicação utilizados nas redes de distribuição públicas.
 
 3.5.5 - Rectificadores
 
-###### Art. 311.º Dispositivos de protecção contra a passagem de corrente rectificada para o circuito de alimentação. - Quando, em virtude do seu princípio de funcionamento, um rectificador não impeça a passagem da corrente rectificada para o circuito de alimentação, ou vice-versa, deverá ser-lhe associado um dispositivo de protecção que impeça tal eventualidade.
+Art. 311.º Dispositivos de protecção contra a passagem de corrente rectificada para o circuito de alimentação. - Quando, em virtude do seu princípio de funcionamento, um rectificador não impeça a passagem da corrente rectificada para o circuito de alimentação, ou vice-versa, deverá ser-lhe associado um dispositivo de protecção que impeça tal eventualidade.
 
 Comentário. - O disposto no artigo visa, em especial, os rectificadores mecânicos (rotativos ou de lâmina vibrante) que, em caso de desregulação, podem dar lugar aos incidentes referidos no artigo.
 
-###### Art. 312.º Harmónicas. - Em instalações de rectificadores, em especial nas de elevada potência, deverá tomar-se particular cuidado no seu estabelecimento, por forma a anular ou diminuir para valores aceitáveis as correntes harmónicas a que tais instalações dão normalmente origem.
+Art. 312.º Harmónicas. - Em instalações de rectificadores, em especial nas de elevada potência, deverá tomar-se particular cuidado no seu estabelecimento, por forma a anular ou diminuir para valores aceitáveis as correntes harmónicas a que tais instalações dão normalmente origem.
 
 3.5.º - Acumuladores
 
-###### Art. 313.º Localização de baterias de acumuladores fixas. - 1. As baterias de acumuladores fixas constituídas por menos de 25 elementos em série, se do tipo ácido, ou de 40 elementos em série, se do tipo alcalino, ou que acumulem uma energia inferior a 5 kVAh para um tempo de descarga de 5 h, deverão ser instaladas em local que obedeça às condições seguintes:
+Art. 313.º Localização de baterias de acumuladores fixas. - 1. As baterias de acumuladores fixas constituídas por menos de 25 elementos em série, se do tipo ácido, ou de 40 elementos em série, se do tipo alcalino, ou que acumulem uma energia inferior a 5 kVAh para um tempo de descarga de 5 h, deverão ser instaladas em local que obedeça às condições seguintes:
 
 a) Ter ventilação adequada;
 
@@ -2595,19 +2662,19 @@ Comentários. - 1. O disposto na alínea d) do n.º 1 do artigo não tem apenas 
 
 2. Recomenda-se que as baterias para alimentação de instalações de emergência sejam instaladas em locais acessíveis apenas a pessoal qualificado.
 
-###### Art. 314.º Locais de carga de baterias de acumuladores móveis. - As baterias de acumuladores móveis apenas deverão ser carregadas em locais adequados a tal operação e obedecendo ao disposto no n.º 1 do artigo 313.º
+Art. 314.º Locais de carga de baterias de acumuladores móveis. - As baterias de acumuladores móveis apenas deverão ser carregadas em locais adequados a tal operação e obedecendo ao disposto no n.º 1 do artigo 313.º
 
 3.6 - Aparelhos de utilização
 
 3.6.1 - Disposições gerais
 
-###### Art. 315.º Aparelho de corte. - 1. Quando os aparelhos de utilização não forem dotados de interruptor incorporado no mesmo, deverá ser estabelecido um aparelho de corte, colocado no circuito de alimentação, satisfazendo ao disposto no artigo 304.º
+Art. 315.º Aparelho de corte. - 1. Quando os aparelhos de utilização não forem dotados de interruptor incorporado no mesmo, deverá ser estabelecido um aparelho de corte, colocado no circuito de alimentação, satisfazendo ao disposto no artigo 304.º
 
 2. Será dispensável a existência do aparelho de corte quando se verificarem as condições do n.º 2 do artigo 303.º
 
 3. Ao aparelho de corte poderá estar ligado mais do que um aparelho de utilização, desde que todos funcionem simultaneamente.
 
-###### Art. 316.º Tipos de canalizações de alimentação de aparelhos de utilização. - 1. Sem prejuízo do disposto no artigo 178.º, o tipo da canalização de alimentação dos aparelhos de utilização deverá ser escolhido de acordo com o tipo de aparelho.
+Art. 316.º Tipos de canalizações de alimentação de aparelhos de utilização. - 1. Sem prejuízo do disposto no artigo 178.º, o tipo da canalização de alimentação dos aparelhos de utilização deverá ser escolhido de acordo com o tipo de aparelho.
 
 2. Na alimentação de aparelhos de utilização fixos deverão ser empregadas canalizações rígidas, excepto nos casos seguintes, em que serão empregadas canalizações flexíveis:
 
@@ -2619,23 +2686,23 @@ c) Aparelhos fixos susceptíveis de produzir trepidações ou ruídos que não c
 
 3. Na alimentação de aparelhos de utilização móveis ou portáteis deverão ser empregadas canalizações flexíveis constituídas por cabos.
 
-###### Art. 317.º Localização de aparelhos de utilização. - 1. Os aparelhos de utilização deverão ser instalados por forma a permitir a sua fácil exploração e conservação.
+Art. 317.º Localização de aparelhos de utilização. - 1. Os aparelhos de utilização deverão ser instalados por forma a permitir a sua fácil exploração e conservação.
 
 2. Quando susceptíveis de atingir temperaturas elevadas ou de projectar arcos ou chamas resultantes do seu funcionamento, de avarias ou falsas manobras, os aparelhos de utilização deverão, ainda, ser montados a distância conveniente dos objectos, partes do edifício ou substâncias inflamáveis ou combustíveis, ou ser delas convenientemente isolados.
 
-###### Art. 318.º Aparelhos de utilização funcionando a tensões diferentes na mesma instalação. - Quando numa mesma instalação existem aparelhos de utilização funcionando a tensões diferentes, tal facto deverá ser assinalado por forma a diminuir o risco de utilização de aparelhos de uma tensão em circuitos destinados a aparelhos de outra tensão.
+Art. 318.º Aparelhos de utilização funcionando a tensões diferentes na mesma instalação. - Quando numa mesma instalação existem aparelhos de utilização funcionando a tensões diferentes, tal facto deverá ser assinalado por forma a diminuir o risco de utilização de aparelhos de uma tensão em circuitos destinados a aparelhos de outra tensão.
 
 3.6.2 - Aparelhos de iluminação
 
 3.6.2.1 - Disposições gerais
 
-###### Art. 319.º Aparelhos de iluminação utilizando electricidade e outros agentes de iluminação. - Não será permitido o emprego de aparelhos de iluminação utilizando conjuntamente electricidade e outro agente de iluminação.
+Art. 319.º Aparelhos de iluminação utilizando electricidade e outros agentes de iluminação. - Não será permitido o emprego de aparelhos de iluminação utilizando conjuntamente electricidade e outro agente de iluminação.
 
-###### Art. 320.º Fixação dos suportes. - 1. Os suportes das lâmpadas deverão ser fixados por forma a não rodarem quando se coloquem ou se retirem as lâmpadas respectivas.
+Art. 320.º Fixação dos suportes. - 1. Os suportes das lâmpadas deverão ser fixados por forma a não rodarem quando se coloquem ou se retirem as lâmpadas respectivas.
 
 2. Do disposto no número anterior exceptuam-se os suportes de suspender para lâmpadas de incandescência.
 
-###### Art. 321.º Montagem dos suportes. - 1. A montagem dos suportes de lâmpadas sobre madeira ou qualquer outro material combustível deverá, em regra, ser evitada. Porém, quando a mesma for efectuada, deverá ser feita de forma a evitar a transmissão perigosa de calor ou a queda da lâmpada.
+Art. 321.º Montagem dos suportes. - 1. A montagem dos suportes de lâmpadas sobre madeira ou qualquer outro material combustível deverá, em regra, ser evitada. Porém, quando a mesma for efectuada, deverá ser feita de forma a evitar a transmissão perigosa de calor ou a queda da lâmpada.
 
 2. Os acessórios de estabilização das lâmpadas de descarga deverão ser montados de modo a não ficarem em contacto com substâncias combustíveis.
 
@@ -2643,7 +2710,7 @@ Comentários. - 1. A montagem sobre madeira de suportes para lâmpadas de incand
 
 2. A montagem sobre madeira de suportes para lâmpadas fluorescentes não é aceitável por o seu eventual empenamento poder provocar afastamento dos suportes ou esforços sobre a lâmpada e suportes, os quais podem dar origem não só à queda da lâmpada como à quebra dos suportes.
 
-###### Art. 322.º Tensão de alimentação dos aparelhos de iluminação. - 1. Os aparelhos de iluminação apenas deverão ser alimentados em baixa tensão.
+Art. 322.º Tensão de alimentação dos aparelhos de iluminação. - 1. Os aparelhos de iluminação apenas deverão ser alimentados em baixa tensão.
 
 2. Os aparelhos de iluminação com partes metálicas e orientáveis manualmente deverão ser alimentados a tensão reduzida ou ser devidamente protegidos contra contactos indirectos.
 
@@ -2651,7 +2718,7 @@ Comentários. - 1. O disposto no n.º 2 do artigo visa, em especial, os aparelho
 
 2. No caso de máquinas que funcionem com óleos ou líquidos refrigerantes, recomenda-se dar especial atenção ao tipo de condutores a empregar, pois estes devem ser da classe C(índice 3) de resistência à corrosão por aqueles fluidos.
 
-###### Art. 323.º Alimentação de aparelhos de iluminação por circuitos distintos. - 1. Um aparelho de iluminação apenas deverá ser alimentado por um único circuito, excepto se for alimentado por outro, distinto, que funcione como circuito de emergência.
+Art. 323.º Alimentação de aparelhos de iluminação por circuitos distintos. - 1. Um aparelho de iluminação apenas deverá ser alimentado por um único circuito, excepto se for alimentado por outro, distinto, que funcione como circuito de emergência.
 
 2. Quando um aparelho de iluminação for alimentado por dois circuitos distintos, sendo um de emergência, os suportes e condutores respectivos serão isolados para a maior das duas tensões, devendo os dois circuitos ser convenientemente separados de forma que não seja possível estabelecer entre eles ligações eléctricas acidentais.
 
@@ -2661,23 +2728,23 @@ Comentários. - 1. De acordo com o prescrito no n.º 1 do artigo, a solução ad
 
 2. Um dos casos de emprego de aparelhos especiais de iluminação para lâmpadas de dois filamentos é o de aparelhos de iluminação de mesas de operações cirúrgicas.
 
-###### Art. 324.º Ligação de suportes do tipo rosca. - O contacto roscado dos suportes do tipo rosca deverá ser ligado ao condutor neutro da canalização de alimentação.
+Art. 324.º Ligação de suportes do tipo rosca. - O contacto roscado dos suportes do tipo rosca deverá ser ligado ao condutor neutro da canalização de alimentação.
 
 Comentário. - O disposto no artigo apenas pode actualmente ser observado no caso de aparelhos de iluminação fixos, pois nos aparelhos móveis ou portáteis, ligados por meio de ficha e tomada, tal não é possível em virtude de, para os aparelhos da classe 0 de isolamento e para alguns da classe I, haver intermutabilidade dos contactos activos.
 
-###### Art. 325.º Fixação dos aparelhos de iluminação. - 1. Os aparelhos de iluminação, quando fixos, quer rigidamente ligados, quer suspensos, deverão ser instalados de forma a impedir a sua queda ou a deterioração dos condutores da canalização de alimentação.
+Art. 325.º Fixação dos aparelhos de iluminação. - 1. Os aparelhos de iluminação, quando fixos, quer rigidamente ligados, quer suspensos, deverão ser instalados de forma a impedir a sua queda ou a deterioração dos condutores da canalização de alimentação.
 
 2. Os aparelhos de iluminação suspensos pelos condutores da canalização de alimentação só serão admissíveis em locais sem riscos especiais e quando a sua massa não exceder 0,5 kg.
 
-###### Art. 326.º Ligação dos aparelhos de iluminação à canalização de alimentação. - 1. A ligação eléctrica dos aparelhos de iluminação fixos à parte fixa da canalização que os alimenta deverá, em regra, ser feita em aparelhos de ligação adequados.
+Art. 326.º Ligação dos aparelhos de iluminação à canalização de alimentação. - 1. A ligação eléctrica dos aparelhos de iluminação fixos à parte fixa da canalização que os alimenta deverá, em regra, ser feita em aparelhos de ligação adequados.
 
 2. Quando num conjunto de aparelhos de iluminação houver conveniência, para facilidade de manutenção, em poder desligar facilmente os aparelhos, a ligação referida no número anterior poderá ser executada por intermédio de ficha e tomada, sendo esta dotada de dispositivo que impeça que a ficha se desligue por acção do peso próprio dos condutores, a menos que se tomem medidas para que esse esforço se não transmita à ficha.
 
 Comentário. - A não obrigatoriedade da ligação eléctrica dos aparelhos de iluminação fixos à parte fixa da canalização que os alimenta, prescrita no n.º 1 do artigo, tem em vista considerar, por exemplo, o caso de fiadas contínuas de armaduras fluorescentes em que os condutores da canalização de alimentação correm no interior das armaduras, sendo nas mesmas feita a derivação para cada armadura.
 
-###### Art. 327.º Tipos de condutores de ligação dos aparelhos de iluminação à canalização de alimentação. - Se os aparelhos de iluminação e a respectiva canalização de alimentação forem de fixação rígida, poderão ser empregados condutores rígidos ou flexíveis. Se essa fixação não for rígida, os condutores de alimentação deverão ser flexíveis.
+Art. 327.º Tipos de condutores de ligação dos aparelhos de iluminação à canalização de alimentação. - Se os aparelhos de iluminação e a respectiva canalização de alimentação forem de fixação rígida, poderão ser empregados condutores rígidos ou flexíveis. Se essa fixação não for rígida, os condutores de alimentação deverão ser flexíveis.
 
-###### Art. 328.º Alimentação de aparelhos de iluminação móveis ou portáteis. - 1. Os aparelhos de iluminação móveis ou portáteis deverão ser ligados à parte fixa da canalização de alimentação por intermédio de ficha e tomada.
+Art. 328.º Alimentação de aparelhos de iluminação móveis ou portáteis. - 1. Os aparelhos de iluminação móveis ou portáteis deverão ser ligados à parte fixa da canalização de alimentação por intermédio de ficha e tomada.
 
 2. Os aparelhos de corte incorporados nos aparelhos de iluminação móveis ou portáteis, ou na respectiva canalização flexível de alimentação, deverão ser de corte omnipolar.
 
@@ -2685,15 +2752,15 @@ Comentário. - O disposto no n.º 2 do artigo resulta da situação referida no 
 
 3.6.2.2 - Aparelhos de iluminação por lâmpadas de incandescência e por lâmpadas de arco
 
-###### Art. 329.º Protecção contra contactos acidentais. - Os suportes que apresentem à vista partes sob tensão apenas poderão ser instalados no interior de aparelhos de iluminação, desde que estes tenham protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras não inferior à da classe K(índice 3).
+Art. 329.º Protecção contra contactos acidentais. - Os suportes que apresentem à vista partes sob tensão apenas poderão ser instalados no interior de aparelhos de iluminação, desde que estes tenham protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras não inferior à da classe K(índice 3).
 
-###### Art. 330.º Aparelhos de iluminação por arco eléctrico. - 1. Nas instalações equipadas com aparelhos de iluminação por arco eléctrico deverão ser tomadas precauções para evitar a projecção de partículas incandescentes sobre os objectos próximos do arco ou que o calor libertado seja prejudicial aos mesmos objectos.
+Art. 330.º Aparelhos de iluminação por arco eléctrico. - 1. Nas instalações equipadas com aparelhos de iluminação por arco eléctrico deverão ser tomadas precauções para evitar a projecção de partículas incandescentes sobre os objectos próximos do arco ou que o calor libertado seja prejudicial aos mesmos objectos.
 
 2. As canalizações de alimentação de aparelhos de iluminação por arco eléctrico deverão ser dotadas de aparelho de corte omnipolar.
 
 3.6.2.3 - Aparelhos de iluminação por lâmpadas de descarga
 
-###### Art. 331.º Iluminação de máquinas com peças em movimento acessíveis. - 1. Nas instalações de iluminação por lâmpadas de descarga que se encontrem montadas em locais onde funcionem máquinas com peças móveis acessíveis animadas de movimentos alternados ou rotativos rápidos, deverão ser tomadas as medidas necessárias para evitar a possibilidade de acidentes causados por fenómenos de ilusão de óptica originados pelo efeito estroboscópico.
+Art. 331.º Iluminação de máquinas com peças em movimento acessíveis. - 1. Nas instalações de iluminação por lâmpadas de descarga que se encontrem montadas em locais onde funcionem máquinas com peças móveis acessíveis animadas de movimentos alternados ou rotativos rápidos, deverão ser tomadas as medidas necessárias para evitar a possibilidade de acidentes causados por fenómenos de ilusão de óptica originados pelo efeito estroboscópico.
 
 2. Nos locais referidos no número anterior, as lâmpadas de descarga deverão ser montadas de modo a ser respeitada uma das duas disposições seguintes:
 
@@ -2711,9 +2778,9 @@ Comentários. - 1. As máquinas com movimentos alternados ou rotativos, especial
 
 3.6.3.1 - Motores
 
-###### Art. 332.º Aparelho de corte. - O aparelho de corte a que se refere o artigo 315.º poderá dizer respeito a mais de um motor, desde que pertençam à mesma máquina eléctrica.
+Art. 332.º Aparelho de corte. - O aparelho de corte a que se refere o artigo 315.º poderá dizer respeito a mais de um motor, desde que pertençam à mesma máquina eléctrica.
 
-###### Art. 333.º Localização dos órgãos de comando dos aparelhos de corte ou comando de máquinas eléctricas. - 1. Os órgãos de comando dos aparelhos de corte ou comando de máquinas eléctricas deverão ser colocados o mais junto possível das máquinas controladas, excepto quando:
+Art. 333.º Localização dos órgãos de comando dos aparelhos de corte ou comando de máquinas eléctricas. - 1. Os órgãos de comando dos aparelhos de corte ou comando de máquinas eléctricas deverão ser colocados o mais junto possível das máquinas controladas, excepto quando:
 
 a) Os aparelhos de comando tenham dispositivos de encravamento na posição de desligado, dotados de chave ou sistema equivalente;
 
@@ -2723,9 +2790,9 @@ b) Exista um aparelho de corte situado junto da máquina comandada e que impeça
 
 3.6.3.2 - Aparelhos de movimentação mecânica de cargas
 
-###### Art. 334.º Tipos de aparelhos de movimentação mecânica de cargas. - Os aparelhos de movimentação mecânica de cargas a que se referem os artigos 335.º a 338.º são os guindastes, pontes rolantes, guinchos diferenciais, monocarris e outros aparelhos equivalentes, alimentados em baixa tensão, e não os elevadores, escadas e tapetes rolantes.
+Art. 334.º Tipos de aparelhos de movimentação mecânica de cargas. - Os aparelhos de movimentação mecânica de cargas a que se referem os artigos 335.º a 338.º são os guindastes, pontes rolantes, guinchos diferenciais, monocarris e outros aparelhos equivalentes, alimentados em baixa tensão, e não os elevadores, escadas e tapetes rolantes.
 
-###### Art. 335.º Tipos de canalizações. - 1. Na alimentação de partes móveis dos aparelhos de movimentação mecânica de cargas ou dos próprios aparelhos, quando estes sejam móveis, poderão ser empregados condutores nus (condutores de linhas de contacto).
+Art. 335.º Tipos de canalizações. - 1. Na alimentação de partes móveis dos aparelhos de movimentação mecânica de cargas ou dos próprios aparelhos, quando estes sejam móveis, poderão ser empregados condutores nus (condutores de linhas de contacto).
 
 2. Nas canalizações rígidas não deverão ser empregados condutores com características inferiores às dos classificados sob os códigos seguintes:
 
@@ -2741,7 +2808,7 @@ b) Cabos do código 213 100, sem protecção no caso de não haver perigo de det
 
 4. Na ligação de pequenos quadros de comando do tipo suspenso, poderão empregar-se cabos flexíveis do código 315 200, desde que sejam tomadas medidas para evitar que se transmitam esforços mecânicos às ligações e o peso do referido quadro de comando seja compatível com a resistência à tracção do cabo empregado, ou quando este corra ao longo de um cabo de aço (fiador) que suporte os esforços mecânicos.
 
-###### Art. 336.º Alimentação de aparelhos móveis de movimentação mecânica de cargas ou das suas partes móveis. - 1. Quando se empregarem cabos para alimentação de aparelhos móveis de movimentação mecânica de cargas ou das suas partes móveis, aqueles deverão ser do código 213 100, sendo as referidas partes móveis ou os aparelhos, sempre que possível, dotados de enroladores automáticos adequados. Poderão, ainda, utilizar-se cabos flexíveis do código 315 200, deslocando-se ao longo dos caminhos de rolamento, em perfis suspensos de carrinhos adequados.
+Art. 336.º Alimentação de aparelhos móveis de movimentação mecânica de cargas ou das suas partes móveis. - 1. Quando se empregarem cabos para alimentação de aparelhos móveis de movimentação mecânica de cargas ou das suas partes móveis, aqueles deverão ser do código 213 100, sendo as referidas partes móveis ou os aparelhos, sempre que possível, dotados de enroladores automáticos adequados. Poderão, ainda, utilizar-se cabos flexíveis do código 315 200, deslocando-se ao longo dos caminhos de rolamento, em perfis suspensos de carrinhos adequados.
 
 2. Quando se empregarem condutores nus (condutores de linhas de contacto), estes não deverão ter secção nominal inferior a:
 
@@ -2763,19 +2830,19 @@ No caso de os condutores se encontrarem montados sobre as próprias partes móve
 
 4. Se os condutores referidos no n.º 2 forem perfilados, estes deverão ser apoiados em suportes isolantes, espaçados não mais de 80 vezes a dimensão vertical dos condutores, sem exceder, todavia, a distância de 4,5 m, devendo os condutores ficar distanciados, pelo menos, de 2,5 cm. A continuidade entre dois troços de condutores deste tipo deverá ser perfeitamente assegurada.
 
-###### Art. 337.º Corte dos condutores de contacto. - 1. Os condutores das linhas de contacto que alimentem um aparelho móvel de movimentação mecânica de cargas ou uma das suas partes móveis deverão ser separados das canalizações que alimentam o referido aparelho ou a sua parte móvel por meio de um aparelho de corte adequado.
+Art. 337.º Corte dos condutores de contacto. - 1. Os condutores das linhas de contacto que alimentem um aparelho móvel de movimentação mecânica de cargas ou uma das suas partes móveis deverão ser separados das canalizações que alimentam o referido aparelho ou a sua parte móvel por meio de um aparelho de corte adequado.
 
 2. O aparelho de corte deverá ser acessível do solo e possuir um sistema de encravamento na posição de desligado.
 
 3. O acesso à cabina de comando, quando exista, deverá ser feito com toda a segurança e sem o risco de contacto acidental com os condutores das linhas de contacto.
 
-###### Art. 338.º Interruptores de fim de curso. - Os aparelhos de movimentação mecânica de cargas deverão, em regra, ser dotados de interruptores de fim de curso dos respectivos movimentos.
+Art. 338.º Interruptores de fim de curso. - Os aparelhos de movimentação mecânica de cargas deverão, em regra, ser dotados de interruptores de fim de curso dos respectivos movimentos.
 
 3.6.4 - Aparelhos de climatização
 
 3.6.4.1 - Convectores e termoventiladores
 
-###### Art. 339.º Instalação de convectores e termoventiladores. - 1. Os convectores e termoventiladores não deverão ser instalados em nichos, caixas, etc., construídos ou revestidos de material combustível.
+Art. 339.º Instalação de convectores e termoventiladores. - 1. Os convectores e termoventiladores não deverão ser instalados em nichos, caixas, etc., construídos ou revestidos de material combustível.
 
 2. Os convectores e termoventiladores deverão ser instalados por forma que entre eles e qualquer objecto ou parte do edifício, combustível, não exista uma distância inferior a 8 cm.
 
@@ -2787,7 +2854,7 @@ Comentário. - 1. Entende-se por «convector» um aparelho calorífero eléctric
 
 3.6.4.2 - Irradiadores
 
-###### Art. 340.º Instalação de irradiadores. - 1. Os irradiadores fixos deverão ser instalados por forma que as partes opostas ao sentido da radiação e cuja temperatura exceda, em serviço, 60ºC se encontrem a uma distância de objectos ou partes de edifício, combustíveis, estabelecida de acordo com o disposto no artigo 339.º
+Art. 340.º Instalação de irradiadores. - 1. Os irradiadores fixos deverão ser instalados por forma que as partes opostas ao sentido da radiação e cuja temperatura exceda, em serviço, 60ºC se encontrem a uma distância de objectos ou partes de edifício, combustíveis, estabelecida de acordo com o disposto no artigo 339.º
 
 2. Os irradiadores fixos em que o elemento emissor de raios infravermelhos atinja uma temperatura superior a 100ºC deverão ser instalados por forma que a radiação emitida não possa ser dirigida sobre objectos ou partes do edifcio, combustíveis, situados a menos de 2 m do referido elemento.
 
@@ -2795,9 +2862,9 @@ Comentário. - Entende-se por «irradiador» um aparelho calorífero eléctrico 
 
 3.6.4.3 - Cabos de aquecimento
 
-###### Art. 341.º Tensão de serviço. - Os cabos de aquecimento não poderão ser alimentados a uma tensão superior a 250 V, em relação à terra.
+Art. 341.º Tensão de serviço. - Os cabos de aquecimento não poderão ser alimentados a uma tensão superior a 250 V, em relação à terra.
 
-###### Art. 342.º Instalação dos cabos de aquecimento. - 1. Os cabos de aquecimento poderão ser instalados no interior de edifícios ou no exterior, à vista ou embebidos directamente, ou protegidos por tubos de características não inferiores às dos classificados sob o código 9 100 113.
+Art. 342.º Instalação dos cabos de aquecimento. - 1. Os cabos de aquecimento poderão ser instalados no interior de edifícios ou no exterior, à vista ou embebidos directamente, ou protegidos por tubos de características não inferiores às dos classificados sob o código 9 100 113.
 
 2. Quando para enterrar directamente no solo, os cabos deverão ser convenientemente protegidos contra a corrosão e contra acções mecânicas.
 
@@ -2811,11 +2878,11 @@ Comentário. - Entende-se por «cabo de aquecimento» um cabo para aquecimento a
 
 3.6.5 - Fogões, grelhadores, fornos e estufas, eléctricos
 
-###### Art. 343.º Instalação de fogões, grelhadores, fornos e estufas, de tipo doméstico. - 1. Os elementos irradiadores de calor dos fogões e grelhadores, eléctricos, de tipo doméstico, não deverão encontrar-se a uma distância inferior a 8 cm de qualquer objecto, peça de mobiliário ou parte de edifício, combustível, excepto quando esses objectos, peças de mobiliário ou partes de edifício sejam revestidos de material incombustível até, pelo menos, 50 cm acima do nível dos referidos elementos irradiadores.
+Art. 343.º Instalação de fogões, grelhadores, fornos e estufas, de tipo doméstico. - 1. Os elementos irradiadores de calor dos fogões e grelhadores, eléctricos, de tipo doméstico, não deverão encontrar-se a uma distância inferior a 8 cm de qualquer objecto, peça de mobiliário ou parte de edifício, combustível, excepto quando esses objectos, peças de mobiliário ou partes de edifício sejam revestidos de material incombustível até, pelo menos, 50 cm acima do nível dos referidos elementos irradiadores.
 
 2. Os fogões, grelhadores, fornos e estufas, eléctricos, não poderão ser instalados no interior de armários ou nichos feitos de materiais combustíveis, a menos que estes sejam interiormente revestidos de material incombustível e termicamente isolante e que, quando forem dotados de portas, estas possuam encravamento que impeça o seu funcionamento quando fechadas.
 
-###### Art. 344.º Instalação de fogões, grelhadores, fornos e estufas, eléctricos, de tipo industrial. - 1. Os fogões, grelhadores, fornos e estufas, eléctricos, de tipo industrial, deverão ser instalados em locais com paredes, tectos e pavimentos, incombustíveis.
+Art. 344.º Instalação de fogões, grelhadores, fornos e estufas, eléctricos, de tipo industrial. - 1. Os fogões, grelhadores, fornos e estufas, eléctricos, de tipo industrial, deverão ser instalados em locais com paredes, tectos e pavimentos, incombustíveis.
 
 2. Quando não for exequível o disposto no número anterior, a distância entre os fogões, grelhadores, fornos e estufas e as partes combustíveis deverá ser tal que estas não possam sofrer aquecimento excessivo.
 
@@ -2823,27 +2890,27 @@ Comentário. - Os fornos e estufas previstos no artigo são, entre outros, os fo
 
 3.6.6 - Aparelhos de aquecimento de água e produção de vapor
 
-###### Art. 345.º Instalação de aparelhos de aquecimento de água com acumulação. - 1. Os aparelhos de aquecimento de água com acumulação, quando não isolados termicamente, deverão ser instalados de forma que entre eles e qualquer objecto ou parte de edifício, combustível, exista uma distância não inferior a 4 cm, para aparelhos de capacidade até 100 l, e a 8 cm, para aparelhos de capacidade superior.
+Art. 345.º Instalação de aparelhos de aquecimento de água com acumulação. - 1. Os aparelhos de aquecimento de água com acumulação, quando não isolados termicamente, deverão ser instalados de forma que entre eles e qualquer objecto ou parte de edifício, combustível, exista uma distância não inferior a 4 cm, para aparelhos de capacidade até 100 l, e a 8 cm, para aparelhos de capacidade superior.
 
 2. Quando não for possível respeitar as distâncias indicadas no número anterior, os objectos ou partes de edifício, combustíveis, deverão ser revestidos de material incombustível e termicamente isolante, podendo, nesse caso, reduzir-se aquelas distâncias a 1 cm.
 
-###### Art. 346.º Aparelhos de aquecimento de água dotados de eléctrodos ou resistências. - Os aparelhos de aquecimento de água dotados de eléctrodos ou resistências, não isolados, imersos em água corrente apenas serão permitidos em estabelecimentos industriais e deverão ser concebidos e instalados de forma que não possa haver uma diferença de potencial superior a 24 V entre a água quente escoada e qualquer elemento condutor estranho à instalação eléctrica situado na vizinhança.
+Art. 346.º Aparelhos de aquecimento de água dotados de eléctrodos ou resistências. - Os aparelhos de aquecimento de água dotados de eléctrodos ou resistências, não isolados, imersos em água corrente apenas serão permitidos em estabelecimentos industriais e deverão ser concebidos e instalados de forma que não possa haver uma diferença de potencial superior a 24 V entre a água quente escoada e qualquer elemento condutor estranho à instalação eléctrica situado na vizinhança.
 
 3.6.7 - Aparelhos de utilização electrónicos
 
-###### Art. 347.º Emprego. - Os aparelhos de utilização electrónicos para usos domésticos ou análogos, se não forem alimentados a tensão reduzida, apenas poderão ser empregados em locais sem riscos especiais ou temporariamente húmidos.
+Art. 347.º Emprego. - Os aparelhos de utilização electrónicos para usos domésticos ou análogos, se não forem alimentados a tensão reduzida, apenas poderão ser empregados em locais sem riscos especiais ou temporariamente húmidos.
 
 Comentário. - Os aparelhos de utilização electrónicos, quando destinados a ser empregados em locais de condições ambientes diferentes das referidas no artigo, destinam-se, em regra, a estabelecimentos industriais, pelo que os seus invólucros têm as protecções adequadas às condições ambientes desses locais.
 
-###### Art. 348.º Invólucros metálicos dos aparelhos. - Os invólucros metálicos dos aparelhos de utilização electrónicos não deverão ser ligados a qualquer elemento condutor estranho à instalação.
+Art. 348.º Invólucros metálicos dos aparelhos. - Os invólucros metálicos dos aparelhos de utilização electrónicos não deverão ser ligados a qualquer elemento condutor estranho à instalação.
 
 3.7 - Instalações de tensão reduzida
 
-###### Art. 349.º Obtenção da tensão reduzida. - A tensão reduzida não poderá ser obtida directamente a partir de alta tensão.
+Art. 349.º Obtenção da tensão reduzida. - A tensão reduzida não poderá ser obtida directamente a partir de alta tensão.
 
-###### Art. 350.º Tipos de canalizações. - Nas instalações de tensão reduzida poderão ser empregados tipos de canalizações referidos nos artigos 195.º a 278.º e 351.º
+Art. 350.º Tipos de canalizações. - Nas instalações de tensão reduzida poderão ser empregados tipos de canalizações referidos nos artigos 195.º a 278.º e 351.º
 
-###### Art. 351.º Canalizações fixas, à vista, constituídas por condutores isolados. - 1. Nas canalizações fixas, à vista, constituídas por condutores isolados, estes não deverão ter características inferiores às dos classificados sob o código 101 100.
+Art. 351.º Canalizações fixas, à vista, constituídas por condutores isolados. - 1. Nas canalizações fixas, à vista, constituídas por condutores isolados, estes não deverão ter características inferiores às dos classificados sob o código 101 100.
 
 2. As canalizações fixas, à vista, constituídas por condutores isolados deverão ser estabelecidas sobre braçadeiras ou sobre suportes adesivos adequados integrados no próprio condutor.
 
@@ -2855,11 +2922,11 @@ Comentário. - Os aparelhos de utilização electrónicos, quando destinados a s
 
 Comentário. - As saliências ou reentrâncias a que se refere o artigo são as que resultam da intersecção das paredes com sancas, rodapés ou outras molduras da construção.
 
-###### Art. 352.º Tomadas e fichas. - As tomadas e fichas a empregar nas instalações alimentadas a tensão reduzida não deverão ser intermutáveis com as das instalações alimentadas a baixa tensão.
+Art. 352.º Tomadas e fichas. - As tomadas e fichas a empregar nas instalações alimentadas a tensão reduzida não deverão ser intermutáveis com as das instalações alimentadas a baixa tensão.
 
 3.8 - Instalações de emergência
 
-###### Art. 353.º Alimentação de instalações de emergência de segurança. - 1. A alimentação das instalações de emergência de segurança deverá ser feita por meio de uma fonte de energia independente, sendo o tipo de alimentação escolhido de acordo com o grau de continuidade de serviço e de segurança exigido na instalação que se pretende manter em funcionamento.
+Art. 353.º Alimentação de instalações de emergência de segurança. - 1. A alimentação das instalações de emergência de segurança deverá ser feita por meio de uma fonte de energia independente, sendo o tipo de alimentação escolhido de acordo com o grau de continuidade de serviço e de segurança exigido na instalação que se pretende manter em funcionamento.
 
 2. As fontes de energia que deverão ser empregadas na alimentação de instalações de emergência de segurança são apenas as seguintes:
 
@@ -2871,7 +2938,7 @@ Comentários. - 1. De acordo com o n.º 2 do artigo, não é permitido o emprego
 
 2. Para instalações de iluminação de emergência de segurança podem ser empregadas baterias de acumuladores associadas a rectificadores e contactores e incorporadas em aparelhos de iluminação, constituindo, assim, unidades autónomas.
 
-###### Art. 354.º Alimentação por grupos motor-gerador. - 1. Os grupos motor-gerador destinados a alimentar instalações de emergência de segurança deverão ser dotados de um dispositivo de arranque automático que funcione, de maneira segura, por falta ou baixa prolongada de tensão da fonte de alimentação normal da instalação.
+Art. 354.º Alimentação por grupos motor-gerador. - 1. Os grupos motor-gerador destinados a alimentar instalações de emergência de segurança deverão ser dotados de um dispositivo de arranque automático que funcione, de maneira segura, por falta ou baixa prolongada de tensão da fonte de alimentação normal da instalação.
 
 2. Os grupos motor-gerador deverão estar permanentemente em condições de arranque imediato.
 
@@ -2881,7 +2948,7 @@ Comentários. - 1. De acordo com o n.º 2 do artigo, não é permitido o emprego
 
 Comentário. - Recomenda-se o ensaio periódico dos grupos, para efeito da sua conveniente manutenção em condições de arranque imediato. Em tempo frio deve ter-se particular cuidado com os sistemas de pré-aquecimento do óleo.
 
-###### Art. 355.º Alimentação por baterias de acumuladores. - 1. As baterias de acumuladores destinadas a alimentar instalações de emergência de segurança deverão ter capacidade suficiente para alimentar a potência total instalada dessa instalação durante, pelo menos, uma hora, sem que nos seus terminais se verifique uma queda de tensão superior a 10%.
+Art. 355.º Alimentação por baterias de acumuladores. - 1. As baterias de acumuladores destinadas a alimentar instalações de emergência de segurança deverão ter capacidade suficiente para alimentar a potência total instalada dessa instalação durante, pelo menos, uma hora, sem que nos seus terminais se verifique uma queda de tensão superior a 10%.
 
 2. As baterias de acumuladores deverão apresentar-se sempre em boas condições de carga, pelo que terão de estar permanentemente ligadas à fonte normal de alimentação através de um dispositivo automático de carga, o qual deverá permitir, quando necessário, proceder à carga rápida da bateria.
 
@@ -2889,7 +2956,7 @@ Comentários. - 1. Recomenda-se que, se os acumuladores são do tipo ácido, sej
 
 2. As baterias de acumuladores e os respectivos rectificadores devem encontrar-se ligados em paralelo sobre os circuitos a alimentar, sendo a alimentação destes feita unicamente pela bateria. Sempre que necessário, o rectificador deve fornecer-lhe, automaticamente, a carga de manutenção a um valor correspondente ao seu estado de descarga, passando-a ao regime conservativo quando carregada. O rectificador deve, ainda, permitir realizar a carga a fundo da bateria nos casos e nas condições em que o fabricante desta o especificar.
 
-###### Art. 356.º Instalações de emergência de segurança. - 1. Uma instalação de emergência de segurança poderá ser constituída por toda a instalação normal do respectivo local, por parte dessa instalação normal ou por uma instalação independente que sirva exclusivamente para esse fim.
+Art. 356.º Instalações de emergência de segurança. - 1. Uma instalação de emergência de segurança poderá ser constituída por toda a instalação normal do respectivo local, por parte dessa instalação normal ou por uma instalação independente que sirva exclusivamente para esse fim.
 
 2. Quando se empregar parte da instalação normal como instalação de emergência de segurança, essa parte da instalação deverá ser estabelecida em canalizações independentes ao longo de todo o seu percurso.
 
@@ -2901,7 +2968,7 @@ A segunda é a mais largamente utilizada nas instalações de certa importância
 
 A terceira solução é a que deve empregar-se quando se pretende obter condições de grande segurança.
 
-###### Art. 357.º Estabelecimento de instalações de iluminação de emergência de segurança. - As instalações de iluminação de emergência de segurança deverão ser estabelecidas por forma a obedecer às prescrições seguintes:
+Art. 357.º Estabelecimento de instalações de iluminação de emergência de segurança. - As instalações de iluminação de emergência de segurança deverão ser estabelecidas por forma a obedecer às prescrições seguintes:
 
 a) A falta de funcionamento de uma lâmpada não deixe qualquer local inteiramente sem iluminação;
 
@@ -2913,17 +2980,17 @@ d) Os aparelhos de iluminação deverão, tanto quanto possível, ser construíd
 
 e) Não haver intercalados nos circuitos quaisquer aparelhos de corte ou protecção, com excepção dos que se encontrem nos quadros.
 
-###### Art. 358.º Instalações de emergência de reserva ou de substituição. - As instalações de emergência de reserva ou de substituição deverão obedecer ao disposto nos artigos 353.º a 357.º, na parte aplicável.
+Art. 358.º Instalações de emergência de reserva ou de substituição. - As instalações de emergência de reserva ou de substituição deverão obedecer ao disposto nos artigos 353.º a 357.º, na parte aplicável.
 
 4 - Condições de estabelecimento das instalações consoante o ambiente do local
 
 4.1 - Disposições gerais
 
-###### Art. 359.º Classificação dos locais. - 1. Os locais das instalações de utilização deverão ser classificados de acordo com as suas condições ambientes, definidas nos artigos 84.º a 96.º
+Art. 359.º Classificação dos locais. - 1. Os locais das instalações de utilização deverão ser classificados de acordo com as suas condições ambientes, definidas nos artigos 84.º a 96.º
 
 Comentário. - O quadro X, em anexo, apresenta diversos exemplos de classificação de locais quanto às condições ambientes. Para locais não incluídos neste quadro, a sua classificação, quanto às condições ambientes, deve ser feita adoptando um princípio de analogia.
 
-###### Art. 360.º Tipos de canalizações, aparelhos e quadros. - Os tipos de canalizações, aparelhos e quadros a empregar nas instalações de utilização deverão ser adequados às condições ambientes e de utilização do local.
+Art. 360.º Tipos de canalizações, aparelhos e quadros. - Os tipos de canalizações, aparelhos e quadros a empregar nas instalações de utilização deverão ser adequados às condições ambientes e de utilização do local.
 
 Comentários. - 1. De acordo com o disposto no artigo 177.º, as canalizações são, em regra, constituídas por condutores isolados ou cabos, empregando-se apenas condutores nus em linhas aéreas estabelecidas em locais expostos ou nos casos previstos neste Regulamento em que, pelas condições ambientes ou de utilização, seja técnica ou economicamente conveniente.
 
@@ -2941,9 +3008,9 @@ e) Instalações de alta e baixa tensão em locais afectos a serviços eléctric
 
 4.2 - Locais sem riscos especiais
 
-###### Art. 361.º Tipos de canalizações. - Em locais sem riscos especiais poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento.
+Art. 361.º Tipos de canalizações. - Em locais sem riscos especiais poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento.
 
-###### Art. 362.º Características dos aparelhos e quadros. - Em locais sem riscos especiais deverão ser empregados aparelhos e quadros com características não inferiores às seguintes:
+Art. 362.º Características dos aparelhos e quadros. - Em locais sem riscos especiais deverão ser empregados aparelhos e quadros com características não inferiores às seguintes:
 
 a) Protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras: classe K(índice 2);
 
@@ -2957,13 +3024,13 @@ Comentário. - De acordo com o artigo, os invólucros dos aparelhos ou dos quadr
 
 4.3 - Locais temporariamente húmidos
 
-###### Art. 363.º Tipos de canalizações. - Em locais temporariamente húmidos poderão ser empregados os mesmos tipos de canalizações referidos no artigo 361.º
+Art. 363.º Tipos de canalizações. - Em locais temporariamente húmidos poderão ser empregados os mesmos tipos de canalizações referidos no artigo 361.º
 
-###### Art. 364.º Características dos aparelhos e quadros. - Em locais temporariamente húmidos deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º
+Art. 364.º Características dos aparelhos e quadros. - Em locais temporariamente húmidos deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º
 
 4.4 - Locais húmidos
 
-###### Art. 365.º Tipos de canalizações. - 1. Em locais húmidos apenas poderão ser empregados os tipos de canalizações seguintes:
+Art. 365.º Tipos de canalizações. - 1. Em locais húmidos apenas poderão ser empregados os tipos de canalizações seguintes:
 
 a) Canalizações fixas, à vista ou ocultas, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos;
 
@@ -2985,7 +3052,7 @@ i) Canalizações amovíveis, à vista, constituídas por cabos flexíveis com d
 
 2. As canalizações deverão ter protecção contra a penetração de líquidos não inferior à das classes H(índice 1) ou H(índice 2), conforme os riscos existentes.
 
-###### Art. 366.º Características dos aparelhos e quadros. - 1. Em locais húmidos deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra a penetração de líquidos, que deverá ser das classes H(índice 1) ou H(índice 2), conforme os riscos existentes.
+Art. 366.º Características dos aparelhos e quadros. - 1. Em locais húmidos deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra a penetração de líquidos, que deverá ser das classes H(índice 1) ou H(índice 2), conforme os riscos existentes.
 
 2. Os aparelhos de utilização portáteis apenas poderão ser alimentados a tensão reduzida, a menos que sejam alimentados a partir de transformadores de isolamento ou sejam da classe II de isolamento.
 
@@ -2993,15 +3060,15 @@ Comentário. - De acordo com o n.º 1 do artigo, os invólucros dos aparelhos ou
 
 4.5 - Locais molhados
 
-###### Art. 367.º Tipos de canalizações. - 1. Em locais molhados poderão ser empregados os mesmos tipos de canalizações referidos no n.º 1 do artigo 365.º
+Art. 367.º Tipos de canalizações. - 1. Em locais molhados poderão ser empregados os mesmos tipos de canalizações referidos no n.º 1 do artigo 365.º
 
 2. As canalizações deverão ter protecção contra a penetração de líquidos não inferior à das classes H(índice 3), H(índice 4), H(índice 5) ou H(índice 6), conforme os riscos existentes.
 
-###### Art. 368.º Colocação das canalizações. - 1. As canalizações fixas, à vista, quando estabelecidas em paredes, tectos ou outras superfícies de apoio, deverão ficar afastadas destas de, pelo menos, 5 mm.
+Art. 368.º Colocação das canalizações. - 1. As canalizações fixas, à vista, quando estabelecidas em paredes, tectos ou outras superfícies de apoio, deverão ficar afastadas destas de, pelo menos, 5 mm.
 
 2. Quando forem empregadas prateleiras, estas deverão permitir a drenagem da água.
 
-###### Art. 369.º Características dos aparelhos e quadros. - 1. Em locais molhados deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra a penetração de líquidos, que deverá ser das classes H(índice 3), H(índice 4), H(índice 5) ou H(índice 6), conforme os riscos existentes.
+Art. 369.º Características dos aparelhos e quadros. - 1. Em locais molhados deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra a penetração de líquidos, que deverá ser das classes H(índice 3), H(índice 4), H(índice 5) ou H(índice 6), conforme os riscos existentes.
 
 2. Os aparelhos de utilização portáteis deverão, ainda, obedecer ao disposto no n.º 2 do artigo 366.º
 
@@ -3009,7 +3076,7 @@ Comentário. - De acordo com o n.º 1 do artigo, os invólucros dos aparelhos ou
 
 4.6 - Locais expostos
 
-###### Art. 370.º Tipos de canalizações. - 1. Em locais expostos apenas poderão ser empregados os tipos de canalizações seguintes:
+Art. 370.º Tipos de canalizações. - 1. Em locais expostos apenas poderão ser empregados os tipos de canalizações seguintes:
 
 a) Canalizações fixas, à vista, constituídas por condutores nus ou condutores isolados, rígidos, estabelecidos sobre isoladores, desde que sejam estabelecidas de acordo com as prescrições do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão;
 
@@ -3033,7 +3100,7 @@ i) Canalizações amovíveis, à vista, constituídas por cabos flexíveis com d
 
 Comentário. - A resistência à corrosão da classe C(índice 2) pode ser conseguida, no caso de cabos com bainha exterior de elastómeros ou plastómeros, com composições de cor preta.
 
-###### Art. 371.º Características dos aparelhos e quadros. - 1. Em locais expostos deverão ser empregados aparelhos e quadros com características não inferiores às seguintes:
+Art. 371.º Características dos aparelhos e quadros. - 1. Em locais expostos deverão ser empregados aparelhos e quadros com características não inferiores às seguintes:
 
 a) Protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras: classe K(índice 2);
 
@@ -3051,13 +3118,13 @@ Comentário. - De acordo com o n.º 1 do artigo, os invólucros dos aparelhos ou
 
 4.7 - Locais submersos
 
-###### Art. 372.º Tipos de canalizações. - Em locais submersos apenas deverão empregar-se canalizações subaquáticas.
+Art. 372.º Tipos de canalizações. - Em locais submersos apenas deverão empregar-se canalizações subaquáticas.
 
-###### Art. 373.º Características dos aparelhos e quadros. - Em locais submersos apenas poderão ser instalados aparelhos de utilização, devendo estes ter características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra a penetração de líquidos, que deverá ser das classes H(índice 7) ou H(índice 8) conforme os riscos existentes.
+Art. 373.º Características dos aparelhos e quadros. - Em locais submersos apenas poderão ser instalados aparelhos de utilização, devendo estes ter características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra a penetração de líquidos, que deverá ser das classes H(índice 7) ou H(índice 8) conforme os riscos existentes.
 
 4.8 - Locais poeirentos
 
-###### Art. 374.º Tipos de canalizações. - Em locais poeirentos poderão ser empregados os mesmos tipos de canalizações referidos no artigo 365.º e, ainda, os seguintes:
+Art. 374.º Tipos de canalizações. - Em locais poeirentos poderão ser empregados os mesmos tipos de canalizações referidos no artigo 365.º e, ainda, os seguintes:
 
 a) Canalizações ocultas, constituídas por condutores isolados ou cabos, protegidos por condutas;
 
@@ -3067,13 +3134,13 @@ c) Canalizações amovíveis, à vista, constituídas por condutores isolados ou
 
 Comentário. - Em locais poeirentos recomenda-se o emprego de canalizações fixas, à vista, constituídas por condutores isolados ou cabos, protegidos por tubos, em virtude de permitirem fácil limpeza das mesmas ou, de preferência, de canalizações fixas ocultas.
 
-###### Art. 375.º Colocação das canalizações. - As canalizações fixas, à vista, deverão obedecer ao disposto no n.º 1 do artigo 368.º
+Art. 375.º Colocação das canalizações. - As canalizações fixas, à vista, deverão obedecer ao disposto no n.º 1 do artigo 368.º
 
-###### Art. 376.º Características dos aparelhos e quadros. - Em locais poeirentos deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras, que deverá ser das classes K(índice 5) ou K(índice 6), conforme os riscos existentes.
+Art. 376.º Características dos aparelhos e quadros. - Em locais poeirentos deverão ser empregados aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras, que deverá ser das classes K(índice 5) ou K(índice 6), conforme os riscos existentes.
 
 4.9 - Locais de ambiente corrosivo
 
-###### Art. 377.º Tipos de canalizações. - 1. Em locais de ambiente corrosivo apenas poderão ser empregados os tipos de canalizações seguintes:
+Art. 377.º Tipos de canalizações. - 1. Em locais de ambiente corrosivo apenas poderão ser empregados os tipos de canalizações seguintes:
 
 a) Canalizações fixas, à vista, constituídas por condutores nus ou condutores isolados, rígidos, estabelecidos sobre isoladores;
 
@@ -3091,15 +3158,15 @@ g) Canalizações amovíveis, à vista, constituídas por cabos flexíveis com d
 
 2. As canalizações à vista deverão ter resistência à corrosão das classes C(índice 2) ou C(índice 3), conforme os riscos existentes.
 
-###### Art. 378.º Colocação das canalizações. - As canalizações fixas, à vista, deverão obedecer ao disposto no n.º 1 do artigo 368.º
+Art. 378.º Colocação das canalizações. - As canalizações fixas, à vista, deverão obedecer ao disposto no n.º 1 do artigo 368.º
 
-###### Art. 379.º Características dos aparelhos e quadros. - 1. Em locais de ambiente corrosivo deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 369.º, à excepção da protecção contra a corrosão, que deverá ser das classes C(índice 2) ou C(índice 3), conforme os riscos existentes.
+Art. 379.º Características dos aparelhos e quadros. - 1. Em locais de ambiente corrosivo deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 369.º, à excepção da protecção contra a corrosão, que deverá ser das classes C(índice 2) ou C(índice 3), conforme os riscos existentes.
 
 2. Os aparelhos de utilização portáteis deverão, ainda, obedecer ao disposto no n.º 2 do artigo 366.º
 
 4.10 - Locais sujeitos a altas temperaturas
 
-###### Art. 380.º Tipos de canalizações. - 1. Em locais sujeitos a altas temperaturas poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento, à excepção dos seguintes:
+Art. 380.º Tipos de canalizações. - 1. Em locais sujeitos a altas temperaturas poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento, à excepção dos seguintes:
 
 a) Canalizações fixas, à vista, constituídas por cabos rígidos com bainha ligeira;
 
@@ -3111,19 +3178,19 @@ d) Canalizações amovíveis, à vista, constituídas por cabos flexíveis com b
 
 2. As canalizações deverão ter características de temperatura ambiente de funcionamento da classe T(índice 2).
 
-###### Art. 381.º Características dos aparelhos e quadros. - Em locais sujeitos a altas temperaturas deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da temperatura ambiente de funcionamento, que deverá ser da classe T(índice 2).
+Art. 381.º Características dos aparelhos e quadros. - Em locais sujeitos a altas temperaturas deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da temperatura ambiente de funcionamento, que deverá ser da classe T(índice 2).
 
 4.11 - Locais sujeitos a baixas temperaturas
 
-###### Art. 382.º Tipos de canalizações. - 1. Em locais sujeitos a baixas temperaturas poderão ser empregados os mesmos tipos de canalizações referidos no n.º 1 do artigo 380.º
+Art. 382.º Tipos de canalizações. - 1. Em locais sujeitos a baixas temperaturas poderão ser empregados os mesmos tipos de canalizações referidos no n.º 1 do artigo 380.º
 
 2. As canalizações deverão ter características de temperatura ambiente de funcionamento da classe T(índice 1).
 
-###### Art. 383.º Características dos aparelhos e quadros. - Em locais sujeitos a baixas temperaturas deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da temperatura ambiente de funcionamento, que deverá ser da classe T(índice 1).
+Art. 383.º Características dos aparelhos e quadros. - Em locais sujeitos a baixas temperaturas deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da temperatura ambiente de funcionamento, que deverá ser da classe T(índice 1).
 
 4.12 - Locais sujeitos a acções mecânicas intensas
 
-###### Art. 384.º Tipos de canalizações. - 1. Em locais sujeitos a acções mecânicas intensas devidas a choques ou pancadas poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento, à excepção dos seguintes:
+Art. 384.º Tipos de canalizações. - 1. Em locais sujeitos a acções mecânicas intensas devidas a choques ou pancadas poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento, à excepção dos seguintes:
 
 a) Canalizações fixas, à vista, constituídas por cabos rígidos com bainha ligeira;
 
@@ -3147,7 +3214,7 @@ Comentários. - 1. Em locais sujeitos a acções mecânicas intensas devidas a c
 
 2. Em locais sujeitos a acções mecânicas intensas devidas a trepidações ou a vibrações recomenda-se o emprego de canalizações constituídas por cabos flexíveis, devendo evitar-se o emprego de cabos com bainha de chumbo em locais sujeitos a vibrações cuja frequência e intensidade possa dar origem a alteração das propriedades mecânicas ou físicas dessa bainha. Entre os locais nessas condições citam-se, por exemplo, pontes rolantes, pontes rodoviárias, guindastes, etc.
 
-###### Art. 385.º Características dos aparelhos e quadros. - 1. Em locais sujeitos a acções mecânicas intensas deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra acções mecânicas, que deverá ser das classes M(índice 7), M(índice 8) ou M(índice 9), conforme os riscos existentes.
+Art. 385.º Características dos aparelhos e quadros. - 1. Em locais sujeitos a acções mecânicas intensas deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra acções mecânicas, que deverá ser das classes M(índice 7), M(índice 8) ou M(índice 9), conforme os riscos existentes.
 
 2. Nos locais sujeitos a acções mecânicas intensas devidas a trepidações ou a vibrações, os suportes das lâmpadas de incandescência deverão ser do tipo baioneta. Além disso, nos aparelhos de iluminação não providos de difusor ou resguardo deverão ser tomadas medidas de forma a evitar a queda das lâmpadas.
 
@@ -3155,7 +3222,7 @@ Comentários. - 1. Em locais sujeitos a acções mecânicas intensas devidas a c
 
 4.13.1 - Disposições gerais
 
-###### Art. 386.º Categorias de locais com risco de incêndio. - Os locais com risco de incêndio classificam-se nos três tipos seguintes:
+Art. 386.º Categorias de locais com risco de incêndio. - Os locais com risco de incêndio classificam-se nos três tipos seguintes:
 
 a) Locais com risco de incêndio do tipo 1:
 
@@ -3185,7 +3252,7 @@ d) Outras instalações industriais envolvendo processos ou condições semelhan
 
 4.13.2 - Locais com risco de incêndio do tipo 1
 
-###### Art. 387.º Tipos de canalizações. - 1. Em locais com risco de incêndio do tipo 1 poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento, à excepção dos seguintes:
+Art. 387.º Tipos de canalizações. - 1. Em locais com risco de incêndio do tipo 1 poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento, à excepção dos seguintes:
 
 a) Canalizações fixas, à vista, constituídas por condutores nus ou condutores isolados, rígidos, estabelecidos sobre isoladores;
 
@@ -3199,29 +3266,29 @@ f) Canalizações amovíveis, à vista, constituídas por cabos flexíveis com b
 
 2. As canalizações deverão ter característica de protecção contra o risco de incêndio não inferior à da classe Y(índice 1).
 
-###### Art. 388.º Características dos aparelhos e quadros. - 1. Em locais com risco de incêndio do tipo 1 deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras e da protecção contra o risco de incêndio, que deverão ser das classes K(índice 4) ou K(índice 5) e Y(índice 1), respectivamente, conforme os riscos existentes.
+Art. 388.º Características dos aparelhos e quadros. - 1. Em locais com risco de incêndio do tipo 1 deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras e da protecção contra o risco de incêndio, que deverão ser das classes K(índice 4) ou K(índice 5) e Y(índice 1), respectivamente, conforme os riscos existentes.
 
 2. Os aparelhos susceptíveis de provocar arcos eléctricos ou de atingir temperaturas elevadas, em condições normais de funcionamento, deverão ser dotados de invólucro que evite a entrada das substâncias inflamáveis e impeça a inflamação das que se encontrem em suspensão no ar circundante.
 
 4.13.3 - Locais com risco de incêndio do tipo 2
 
-###### Art. 389.º Tipos de canalizações. - 1. Em locais com risco de incêndio do tipo 2 poderão ser empregados os mesmos tipos de canalizações indicados no n.º 1 do artigo 387.º
+Art. 389.º Tipos de canalizações. - 1. Em locais com risco de incêndio do tipo 2 poderão ser empregados os mesmos tipos de canalizações indicados no n.º 1 do artigo 387.º
 
 2. As canalizações deverão ter característica de protecção contra o risco de incêndio da classe Y(índice 1).
 
-###### Art. 390.º Características dos aparelhos e quadros. - Em locais com risco de incêndio do tipo 2 deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras e da protecção contra o risco de incêndio, que deverão ser das classes K(índice 4) ou K(índice 5) e Y(índice 1), respectivamente, conforme os riscos existentes.
+Art. 390.º Características dos aparelhos e quadros. - Em locais com risco de incêndio do tipo 2 deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras e da protecção contra o risco de incêndio, que deverão ser das classes K(índice 4) ou K(índice 5) e Y(índice 1), respectivamente, conforme os riscos existentes.
 
 4.13.4 - Locais com risco do incêndio do tipo 3
 
-###### Art. 391.º Tipos de canalizações. - Em locais com risco de incêndio do tipo 3 as canalizações deverão ter característica de protecção contra o risco de incêndio da classe Y(índice 2).
+Art. 391.º Tipos de canalizações. - Em locais com risco de incêndio do tipo 3 as canalizações deverão ter característica de protecção contra o risco de incêndio da classe Y(índice 2).
 
-###### Art. 392.º Características dos aparelhos e quadros. - Em locais com risco de incêndio do tipo 3 deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras e da protecção contra o risco de incêndio, que deverão ser das classes K(índice 4) ou K(índice 5) e Y(índice 2), respectivamente, conforme os riscos existentes.
+Art. 392.º Características dos aparelhos e quadros. - Em locais com risco de incêndio do tipo 3 deverão empregar-se aparelhos e quadros com características não inferiores às indicadas no artigo 362.º, à excepção da protecção contra contactos com peças sob tensão ou em movimento e contra a penetração de corpos sólidos estranhos e de poeiras e da protecção contra o risco de incêndio, que deverão ser das classes K(índice 4) ou K(índice 5) e Y(índice 2), respectivamente, conforme os riscos existentes.
 
 4.14 - Locais com risco de explosão
 
 4.14.1 - Disposições gerais
 
-###### Art. 393.º Categorias de locais com risco de explosão. - 1. Os locais com risco de explosão classificam-se nos dois tipos seguintes:
+Art. 393.º Categorias de locais com risco de explosão. - 1. Os locais com risco de explosão classificam-se nos dois tipos seguintes:
 
 a) Locais com risco de explosão do tipo 1:
 
@@ -3253,7 +3320,7 @@ De entre as poeiras metálicas que estão nestas circunstâncias citam-se, por e
 
 4. A delimitação das zonas perigosas e semiperigosas tem de ser feita a partir do conhecimento das condições ambientes susceptíveis de se verificarem durante o funcionamento do estabelecimento industrial em questão, devendo, além disso, essa delimitação ser feita conscienciosamente, tendo em vista que uma errada delimitação pode conduzir a uma diminuição da segurança ou a um encarecimento escusado da instalação eléctrica.
 
-###### Art. 394.º Instalações intrinsecamente seguras. - 1. Em locais com risco de explosão serão consideradas como instalações intrinsecamente seguras aquelas que são concebidas de forma que a energia posta em jogo seja, em qualquer caso, insuficiente para originar a inflamação da mistura explosiva que possa estar presente.
+Art. 394.º Instalações intrinsecamente seguras. - 1. Em locais com risco de explosão serão consideradas como instalações intrinsecamente seguras aquelas que são concebidas de forma que a energia posta em jogo seja, em qualquer caso, insuficiente para originar a inflamação da mistura explosiva que possa estar presente.
 
 2. Aparelhos não intrinsecamente seguros não deverão ser instalados em circuitos considerados intrinsecamente seguros, excepto se forem utilizados adaptadores adequados que não afectem a segurança destes circuitos.
 
@@ -3265,21 +3332,21 @@ O circuito compreendendo a bateria ou o enrolamento secundário do transformador
 
 A corrente de curto-circuito pode ser limitada a um valor conveniente (não perigoso) pelo emprego de uma resistência de limitação de corrente.
 
-###### Art. 395.º Materiais. - Os materiais a empregar em locais com risco de explosão deverão satisfazer às prescrições relativas à categoria de local definida no artigo 393.º e, ainda, ao estado físico e à natureza da substância em presença.
+Art. 395.º Materiais. - Os materiais a empregar em locais com risco de explosão deverão satisfazer às prescrições relativas à categoria de local definida no artigo 393.º e, ainda, ao estado físico e à natureza da substância em presença.
 
-###### Art. 396.º Aparelhos eléctricos. - Em locais com risco de explosão deverá evitar-se, tanto quanto possível, o emprego de aparelhos eléctricos.
+Art. 396.º Aparelhos eléctricos. - Em locais com risco de explosão deverá evitar-se, tanto quanto possível, o emprego de aparelhos eléctricos.
 
-###### Art. 397.º Escolha do traçado das canalizações. - Os locais com risco de explosão não deverão, em regra, ser atravessados por canalizações destinadas a servir outros tipos de locais.
+Art. 397.º Escolha do traçado das canalizações. - Os locais com risco de explosão não deverão, em regra, ser atravessados por canalizações destinadas a servir outros tipos de locais.
 
-###### Art. 398.º Proximidade de outras canalizações. - Em locais com risco de explosão, sem prejuízo do disposto no artigo 190.º, as canalizações e aparelhos com invólucros condutores deverão ser ligados a intervalos curtos e regulares aos equipamentos ou canalizações não eléctricas, por forma a garantir uma resistência de ligação suficientemente baixa para evitar diferenças de potencial perigosas entre as canalizações.
+Art. 398.º Proximidade de outras canalizações. - Em locais com risco de explosão, sem prejuízo do disposto no artigo 190.º, as canalizações e aparelhos com invólucros condutores deverão ser ligados a intervalos curtos e regulares aos equipamentos ou canalizações não eléctricas, por forma a garantir uma resistência de ligação suficientemente baixa para evitar diferenças de potencial perigosas entre as canalizações.
 
-###### Art. 399.º Electricidade estática. - Em locais com risco de explosão, as instalações deverão ser estabelecidas de forma que não seja possível produzir a inflamação das substâncias explosivas existentes no ambiente devida à electricidade estática.
+Art. 399.º Electricidade estática. - Em locais com risco de explosão, as instalações deverão ser estabelecidas de forma que não seja possível produzir a inflamação das substâncias explosivas existentes no ambiente devida à electricidade estática.
 
 4.14.2 - Locais com risco de explosão do tipo 1
 
 4.14.2.1 - Zonas perigosas
 
-###### Art. 400.º Zonas perigosas. - Em locais com risco de explosão do tipo 1 serão consideradas como zonas perigosas:
+Art. 400.º Zonas perigosas. - Em locais com risco de explosão do tipo 1 serão consideradas como zonas perigosas:
 
 a) Aquelas em que, nas condições normais de serviço, existem ou podem existir no ar, permanente, intermitente ou periodicamente, concentrações perigosas de gases ou vapores;
 
@@ -3307,7 +3374,7 @@ h) Locais de bombagem de gases, liquefeitos ou não, inflamáveis, ou de líquid
 
 i) Todos os outros locais onde é provável que ocorram concentrações de gases ou vapores que, no decorrer do serviço normal, podem originar misturas explosivas.
 
-###### Art. 401.º Aparelhos eléctricos em zonas perigosas. - 1. Em zonas perigosas de locais com risco de explosão do tipo 1, os aparelhos eléctricos, incluindo os de iluminação, deverão ser do tipo antideflagrante e obedecer ao disposto no artigo 395.º
+Art. 401.º Aparelhos eléctricos em zonas perigosas. - 1. Em zonas perigosas de locais com risco de explosão do tipo 1, os aparelhos eléctricos, incluindo os de iluminação, deverão ser do tipo antideflagrante e obedecer ao disposto no artigo 395.º
 
 2. Em zonas perigosas não poderão empregar-se aparelhos eléctricos móveis ou portáteis do tipo em banho de líquido isolante.
 
@@ -3319,7 +3386,7 @@ b) Evitar a exposição directa aos raios solares e a queda directa de chuva, es
 
 2. No caso de os aparelhos antideflagrantes serem do tipo com ventilação forçada, com invólucro lavado por ar fresco ou por gás de protecção, deve ser previsto um dispositivo automático que coloque os aparelhos fora de serviço logo que falte a ventilação ou a pressão do gás seja inferior à pressão exterior (pressão do ar que rodeia o invólucro). Além disso, no caso de a ventilação ser por ar, este deve ser aspirado de um local considerado como não perigoso.
 
-###### Art. 402.º Tipos de canalizações. - 1. Em zonas perigosas apenas poderão empregar-se os tipos de canalizações seguintes:
+Art. 402.º Tipos de canalizações. - 1. Em zonas perigosas apenas poderão empregar-se os tipos de canalizações seguintes:
 
 a) Canalizações fixas, à vista ou ocultas, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos;
 
@@ -3353,7 +3420,7 @@ Comentários. - 1. De acordo com o artigo, não é permitido o emprego de canali
 
 6. Em zonas perigosas não é recomendável, nas canalizações em que sejam empregados tubos, a utilização de uniões de correr. No entanto, quando houver que as utilizar, estas devem ser fixadas com contraporcas.
 
-###### Art. 403.º Dispositivos de bloqueio. - 1. Nas zonas perigosas e no caso de se empregarem canalizações em condutores isolados ou cabos, protegidos por tubos, deverão empregar-se dispositivos de bloqueio que impeçam a passagem, pelo interior desses tubos, de gases, vapores ou chamas de uma parte a outra da instalação.
+Art. 403.º Dispositivos de bloqueio. - 1. Nas zonas perigosas e no caso de se empregarem canalizações em condutores isolados ou cabos, protegidos por tubos, deverão empregar-se dispositivos de bloqueio que impeçam a passagem, pelo interior desses tubos, de gases, vapores ou chamas de uma parte a outra da instalação.
 
 2. Os dispositivos de bloqueio referidos no número anterior deverão ser colocados:
 
@@ -3365,11 +3432,11 @@ c) Junto à ligação entre uma canalização rígida e uma canalização flexí
 
 3. A massa a utilizar nos dispositivos de bloqueio referidos no n.º 1 do artigo deverá ter o seu ponto de fusão superior a 90ºC e ser empregada em quantidade suficiente para garantir uma perfeita vedação.
 
-###### Art. 404.º Travessias de paredes, tectos ou pavimentos. - Em zonas perigosas, quando uma canalização atravessar paredes, tectos ou pavimentos, as aberturas em redor da mesma deverão ser vedadas por forma a evitar a passagem de gases, vapores, partículas líquidas, substâncias explosivas ou poeiras de um local para o outro.
+Art. 404.º Travessias de paredes, tectos ou pavimentos. - Em zonas perigosas, quando uma canalização atravessar paredes, tectos ou pavimentos, as aberturas em redor da mesma deverão ser vedadas por forma a evitar a passagem de gases, vapores, partículas líquidas, substâncias explosivas ou poeiras de um local para o outro.
 
 4.14.2.2 - Zonas semiperigosas
 
-###### Art. 405.º Zonas semiperigosas. - Em locais com risco de explosão do tipo 1 serão consideradas como zonas semiperigosas as seguintes:
+Art. 405.º Zonas semiperigosas. - Em locais com risco de explosão do tipo 1 serão consideradas como zonas semiperigosas as seguintes:
 
 a) Aquelas em que são manuseados, processados ou usados líquidos ou gases perigosos, normalmente contidos em reservatórios fechados dos quais apenas se podem escoar no caso de rotura acidental, avaria ou operação anormal do equipamento;
 
@@ -3383,13 +3450,13 @@ Comentários. - 1. A quantidade de matérias perigosas que se podem escapar no c
 
 3. Nos locais usados para armazenagem de líquidos perigosos ou de gases liquefeitos ou comprimidos em reservatórios ou contentores móveis, hermeticamente fechados, considera-se que dessa armazenagem não resulta perigo, a menos que se encontrem sujeitos também a outras condições perigosas.
 
-###### Art. 406.º Aparelhos eléctricos em zonas semiperigosas. - 1. Em zonas semiperigosas de locais com risco de explosão do tipo 1, os aparelhos ou partes de aparelhos eléctricos que produzam arcos em funcionamento normal deverão ser do tipo antideflagrante.
+Art. 406.º Aparelhos eléctricos em zonas semiperigosas. - 1. Em zonas semiperigosas de locais com risco de explosão do tipo 1, os aparelhos ou partes de aparelhos eléctricos que produzam arcos em funcionamento normal deverão ser do tipo antideflagrante.
 
 2. As restantes partes dos aparelhos referidos no número anterior poderão não ser do tipo antideflagrante, desde que qualquer delas e, em especial, as situadas em contacto com a atmosfera eventualmente perigosa não atinjam temperaturas superiores a 80% da temperatura de ignição dessa atmosfera.
 
 Comentário. - No caso de se empregarem aparelhos do tipo com ventilação forçada, são válidas as considerações feitas no comentário 2 do artigo 401.º
 
-###### Art. 407.º Aparelhos de iluminação instalados em zonas semiperigosas. - 1. Em zonas semiperigosas, os aparelhos de iluminação fixos poderão não ser do tipo antideflagrante, desde que obedeçam ao disposto no n.º 2 do artigo 406.º ou sejam dotados de meios que impeçam que qualquer elemento quente susceptível de se desagregar possa inflamar gases ou vapores presentes.
+Art. 407.º Aparelhos de iluminação instalados em zonas semiperigosas. - 1. Em zonas semiperigosas, os aparelhos de iluminação fixos poderão não ser do tipo antideflagrante, desde que obedeçam ao disposto no n.º 2 do artigo 406.º ou sejam dotados de meios que impeçam que qualquer elemento quente susceptível de se desagregar possa inflamar gases ou vapores presentes.
 
 2. Os aparelhos de iluminação para montagem suspensa em que a suspensão sirva como canalização eléctrica deverão ser suspensos por meio de tubo de características não inferiores às dos classificados sob o código 9 100 113, com pontas roscadas e dotados de dispositivos impedindo o desaperto acidental.
 
@@ -3399,13 +3466,13 @@ Comentário. - No caso de se empregarem aparelhos do tipo com ventilação forç
 
 Comentário. - Em locais em que, pela natureza do serviço, haja risco de explosão devido à existência de hidrogénio, acetileno ou outras substâncias para as quais exista o perigo de ignição pelo facto de uma lâmpada se partir, mesmo sem tensão, só devem ser empregadas lâmpadas fluorescentes quando se puder garantir que não subsiste qualquer perigo de explosão no decurso da colocação, substituição e transporte dessas lâmpadas ou quando, mediante outras precauções, forem asseguradas, sem qualquer perigo, essas operações.
 
-###### Art. 408.º Tipos de canalizações. - Em zonas semiperigosas poderão empregar-se os mesmos tipos de canalizações referidos no artigo 402.º
+Art. 408.º Tipos de canalizações. - Em zonas semiperigosas poderão empregar-se os mesmos tipos de canalizações referidos no artigo 402.º
 
 4.14.3 - Locais com risco de explosão do tipo 2
 
 4.14.3.2 - Zonas perigosas
 
-###### Art. 409.º Zonas perigosas. - Em locais com risco de explosão do tipo 2 serão consideradas como zonas perigosas:
+Art. 409.º Zonas perigosas. - Em locais com risco de explosão do tipo 2 serão consideradas como zonas perigosas:
 
 a) Aquelas em que, nas condições normais de serviço, existem ou podem existir em suspensão no ar, permanente, intermitente ou periodicamente, poeiras em quantidade suficiente para, por si ou com o ar, originar misturas explosivas;
 
@@ -3433,7 +3500,7 @@ e) Zonas de fabrico, manipulação ou armazenagem de substâncias explosivas.
 
 4. Das poeiras metálicas são particularmente perigosas, entre outras, as de magnésio, alumínio, zircónio, ou suas ligas, pelo que devem ser tomadas todas as precauções para evitar a sua inflamação ou explosão.
 
-###### Art. 410.º Aparelhos eléctricos em zonas perigosas. - 1. Em zonas perigosas de locais com risco de explosão do tipo 2, os aparelhos eléctricos deverão ser do tipo antideflagrante ou do tipo estanque a poeiras e obedecer ao disposto no artigo 395.º
+Art. 410.º Aparelhos eléctricos em zonas perigosas. - 1. Em zonas perigosas de locais com risco de explosão do tipo 2, os aparelhos eléctricos deverão ser do tipo antideflagrante ou do tipo estanque a poeiras e obedecer ao disposto no artigo 395.º
 
 2. Em locais com substâncias explosivas ou com poeiras metálicas deverá evitar-se o emprego de máquinas eléctricas.
 
@@ -3443,17 +3510,17 @@ e) Zonas de fabrico, manipulação ou armazenagem de substâncias explosivas.
 
 Comentário. - Com o fim de evitar acumulações de poeira sobre aparelhos, o que poderia ser perigoso, recomenda-se especial cuidado na limpeza das instalações.
 
-###### Art. 411.º Tomadas e fichas. - As tomadas e as respectivas fichas poderão não ser do tipo antideflagrante, desde que a introdução e a extracção das fichas nas tomadas só possa ser efectuada sem tensão e estas sejam dotadas de tampa que funcione automaticamente e impeça a entrada de poeiras ou líquidos.
+Art. 411.º Tomadas e fichas. - As tomadas e as respectivas fichas poderão não ser do tipo antideflagrante, desde que a introdução e a extracção das fichas nas tomadas só possa ser efectuada sem tensão e estas sejam dotadas de tampa que funcione automaticamente e impeça a entrada de poeiras ou líquidos.
 
-###### Art. 412.º Tipos de canalizações. - 1. Em zonas perigosas poderão usar-se os mesmos tipos de canalizações referidos no artigo 402.º
+Art. 412.º Tipos de canalizações. - 1. Em zonas perigosas poderão usar-se os mesmos tipos de canalizações referidos no artigo 402.º
 
 2. Em locais onde existam poeiras metálicas não será permitido o emprego de canalizações amovíveis utilizando tubos metálicos flexíveis.
 
-###### Art. 413.º Dispositivos de bloqueio. - Quando haja comunicação entre um aparelho antideflagrante e um aparelho estanque a poeiras, instalados no mesmo local de zonas perigosas, ou entre aparelhos instalados em zonas perigosas e os instalados em zonas semiperigosas, deverão ser previstos dispositivos de bloqueio que impeçam a entrada de poeiras nos aparelhos instalados nas zonas semiperigosas.
+Art. 413.º Dispositivos de bloqueio. - Quando haja comunicação entre um aparelho antideflagrante e um aparelho estanque a poeiras, instalados no mesmo local de zonas perigosas, ou entre aparelhos instalados em zonas perigosas e os instalados em zonas semiperigosas, deverão ser previstos dispositivos de bloqueio que impeçam a entrada de poeiras nos aparelhos instalados nas zonas semiperigosas.
 
 4.14.3.3 - Zonas semiperigosas
 
-###### Art. 414.º Zonas semiperigosas. - Em locais com risco de explosão do tipo 2 serão consideradas como zonas semiperigosas aquelas em que, nas condições normais de serviço, não existem normalmente ou não é provável que possam existir, em suspensão no ar, poeiras em quantidade suficiente para originar misturas explosivas, mas onde a acumulação de tais poeiras seja suficiente para interferir com a segura dissipação do calor gerado nos aparelhos eléctricos ou onde a poeira acumulada no interior, na vizinhança ou sobre esses aparelhos possa ser inflamada por arcos, faíscas ou partes incandescentes dos mesmos.
+Art. 414.º Zonas semiperigosas. - Em locais com risco de explosão do tipo 2 serão consideradas como zonas semiperigosas aquelas em que, nas condições normais de serviço, não existem normalmente ou não é provável que possam existir, em suspensão no ar, poeiras em quantidade suficiente para originar misturas explosivas, mas onde a acumulação de tais poeiras seja suficiente para interferir com a segura dissipação do calor gerado nos aparelhos eléctricos ou onde a poeira acumulada no interior, na vizinhança ou sobre esses aparelhos possa ser inflamada por arcos, faíscas ou partes incandescentes dos mesmos.
 
 Comentário. - Entre outras, as zonas de locais com risco de explosão do tipo 2 que devem ser classificadas como semiperigosas são as seguintes:
 
@@ -3465,9 +3532,9 @@ c) Zonas onde a formação de misturas explosivas é evitada pelo funcionamento 
 
 d) Armazéns ou locais de carga e descarga onde os materiais que produzem poeiras são armazenados ou manuseados somente em sacos ou embalagens (contentores).
 
-###### Art. 415.º Aparelhos eléctricos em zonas semiperigosas. - Em zonas semiperigosas de locais com risco de explosão do tipo 2, os aparelhos eléctricos deverão ser do tipo protegido contra a penetração de poeiras.
+Art. 415.º Aparelhos eléctricos em zonas semiperigosas. - Em zonas semiperigosas de locais com risco de explosão do tipo 2, os aparelhos eléctricos deverão ser do tipo protegido contra a penetração de poeiras.
 
-###### Art. 416.º Aparelhos de iluminação instalados em zonas semiperigosas. - 1. Em zonas semiperigosas, os aparelhos de iluminação fixos deverão evitar elevada acumulação de poeiras, de forma que as partes dos aparelhos situadas em contacto com a atmosfera eventualmente perigosa não atinjam temperaturas superiores a 80% da temperatura de ignição dessa atmosfera.
+Art. 416.º Aparelhos de iluminação instalados em zonas semiperigosas. - 1. Em zonas semiperigosas, os aparelhos de iluminação fixos deverão evitar elevada acumulação de poeiras, de forma que as partes dos aparelhos situadas em contacto com a atmosfera eventualmente perigosa não atinjam temperaturas superiores a 80% da temperatura de ignição dessa atmosfera.
 
 2. Em zonas semiperigosas, os aparelhos de iluminação móveis ou portáteis deverão ser do tipo antideflagrante ou estanque a poeiras.
 
@@ -3475,7 +3542,7 @@ d) Armazéns ou locais de carga e descarga onde os materiais que produzem poeira
 
 5.1 - Disposições gerais
 
-###### Art. 417.º Concepção das instalações. - 1. As instalações de utilização deverão ser concebidas de forma a permitir desempenhar, com eficiência e em boas condições de segurança, os fins a que se destinam.
+Art. 417.º Concepção das instalações. - 1. As instalações de utilização deverão ser concebidas de forma a permitir desempenhar, com eficiência e em boas condições de segurança, os fins a que se destinam.
 
 2. As instalações de utilização deverão ser convenientemente subdivididas, por forma a limitar os efeitos de eventuais perturbações e a facilitar a pesquisa e reparação de avarias.
 
@@ -3497,11 +3564,11 @@ b) Considerar, para alimentação de tomadas de corrente, circuitos distintos do
 
 c) Considerar circuitos distintos para alimentação de aparelhos de utilização de potência elevada e de aparelhos de características especiais de funcionamento (por exemplo, aparelhos de soldadura).
 
-###### Art. 418.º Potências mínimas a considerar no dimensionamento das instalações de utilização. - As potências mínimas a considerar no dimensionamento das instalações de utilização deverão ser fixadas de acordo com as necessidades e condições de exploração dos respectivos locais.
+Art. 418.º Potências mínimas a considerar no dimensionamento das instalações de utilização. - As potências mínimas a considerar no dimensionamento das instalações de utilização deverão ser fixadas de acordo com as necessidades e condições de exploração dos respectivos locais.
 
 Comentário. - Para alguns tipos de locais são indicados no quadro XIV, em anexo, os valores das potências por unidade de área que se recomenda considerar, na falta de elementos mais precisos, no dimensionamento das respectivas instalações de iluminação e tomadas de usos gerais.
 
-###### Art. 419.º Coeficientes de simultaneidade a considerar para as instalações. - Os coeficientes de simultaneidade a considerar para o dimensionamento das instalações de utilização deverão ser fixados de acordo com as respectivas condições de exploração.
+Art. 419.º Coeficientes de simultaneidade a considerar para as instalações. - Os coeficientes de simultaneidade a considerar para o dimensionamento das instalações de utilização deverão ser fixados de acordo com as respectivas condições de exploração.
 
 Comentário. - Para alguns tipos de locais são indicados no quadro XIV, em anexo, os valores dos coeficientes de simultaneidade que se recomenda considerar, na falta de elementos mais precisos, no dimensionamento das instalações de iluminação e tomadas de usos gerais.
 
@@ -3509,11 +3576,11 @@ Para as instalações de aquecimento ambiente ou de aquecimento de água recomen
 
 De uma maneira geral, e para outros tipos de instalações, quando não haja a garantia da não simultaneidade de funcionamento dos aparelhos de utilização, recomenda-se adoptar o coeficiente 1.
 
-###### Art. 420.º Número de fases das instalações. - 1. As instalações de utilização, alimentadas a partir de redes de distribuição públicas, cuja potência total exceda 6,6 KVA, serão trifásicas, salvo acordo prévio do distribuidor.
+Art. 420.º Número de fases das instalações. - 1. As instalações de utilização, alimentadas a partir de redes de distribuição públicas, cuja potência total exceda 6,6 KVA, serão trifásicas, salvo acordo prévio do distribuidor.
 
 2. As potências deverão ser distribuídas pelas fases, tanto quanto possível de forma equilibrada.
 
-###### Art. 421.º Quadro de entrada. - 1. Cada instalação de utilização deverá ser dotada de um quadro de entrada.
+Art. 421.º Quadro de entrada. - 1. Cada instalação de utilização deverá ser dotada de um quadro de entrada.
 
 2. No caso de a mesma instalação de utilização servir edifícios distintos, cada edifício deverá ser dotado de um quadro, que desempenhará para esse edifício o papel de quadro de entrada.
 
@@ -3523,7 +3590,7 @@ De uma maneira geral, e para outros tipos de instalações, quando não haja a g
 
 Comentário. - Entre os casos a que se refere o n.º 4 do artigo citam-se, por exemplo, os de pequenos armazéns de explorações agrícolas, em que apenas existe uma reduzida instalação eléctrica para iluminação.
 
-###### Art. 422.º Corte geral de uma instalação de utilização. - 1. O quadro de entrada deverá ser dotado de um interruptor geral de corte omnipolar.
+Art. 422.º Corte geral de uma instalação de utilização. - 1. O quadro de entrada deverá ser dotado de um interruptor geral de corte omnipolar.
 
 2. A intensidade nominal do interruptor geral deverá ser, pelo menos, a correspondente à potência prevista para a instalação, com o mínimo de 16 A.
 
@@ -3531,7 +3598,7 @@ Comentário. - Entre os casos a que se refere o n.º 4 do artigo citam-se, por e
 
 4. Outros quadros que, eventualmente, existam numa instalação de utilização deverão ser dotados também de interruptor geral, de corte simultâneo, o qual poderá não ser de corte omnipolar.
 
-###### Art. 423.º Localização do quadro de entrada. - 1. O quadro de entrada será estabelecido dentro do recinto servido pela instalação de utilização e, tanto quanto possível, junto ao acesso normal do recinto e do local de entrada de energia.
+Art. 423.º Localização do quadro de entrada. - 1. O quadro de entrada será estabelecido dentro do recinto servido pela instalação de utilização e, tanto quanto possível, junto ao acesso normal do recinto e do local de entrada de energia.
 
 2. A localização e a instalação do quadro de entrada deverão ser tais que um acidente que se produza no seu interior não possa, em caso algum, causar obstáculo à evacuação das pessoas ou à organização de socorros.
 
@@ -3539,13 +3606,13 @@ Comentário. - Entre os casos a que se refere o n.º 4 do artigo citam-se, por e
 
 4. Quando no local servido pela instalação de utilização não houver qualquer construção, deverá ser previsto um recinto ou dependência obedecendo ao disposto nos números anteriores.
 
-###### Art. 424.º Dimensionamento dos circuitos de utilização. - Os circuitos deverão ser dimensionados para a potência total máxima dos aparelhos de utilização que por eles são alimentados em exploração simultânea.
+Art. 424.º Dimensionamento dos circuitos de utilização. - Os circuitos deverão ser dimensionados para a potência total máxima dos aparelhos de utilização que por eles são alimentados em exploração simultânea.
 
 Comentário. - Ao dimensionarem-se os circuitos deve ter-se particular cuidado na previsão de aumentos de potência e da frequência de arranques do equipamento.
 
-###### Art. 425.º Queda de tensão admissível. - A queda de tensão admissível desde a origem da instalação de utilização até ao aparelho de utilização electricamente mais afastado, supostos ligados todos os aparelhos de utilização que possam funcionar simultaneamente, não deverá ser superior a 3% ou a 5% da tensão nominal da instalação, respectivamente para circuitos de iluminação e para circuitos de outros usos.
+Art. 425.º Queda de tensão admissível. - A queda de tensão admissível desde a origem da instalação de utilização até ao aparelho de utilização electricamente mais afastado, supostos ligados todos os aparelhos de utilização que possam funcionar simultaneamente, não deverá ser superior a 3% ou a 5% da tensão nominal da instalação, respectivamente para circuitos de iluminação e para circuitos de outros usos.
 
-###### Art. 426.º Secção nominal mínima dos condutores das canalizações. - 1. Nas canalizações não poderão ser empregados condutores com secções nominais inferiores às seguintes:
+Art. 426.º Secção nominal mínima dos condutores das canalizações. - 1. Nas canalizações não poderão ser empregados condutores com secções nominais inferiores às seguintes:
 
 a) Em circuitos de tomadas, força motriz ou climatização: 2,5 mm2;
 
@@ -3553,15 +3620,15 @@ b) Em circuitos de iluminação ou outros usos: 1,5 mm2.
 
 2. Exceptua-se do disposto no número anterior o caso de canalizações amovíveis para alimentação de aparelhos de utilização móveis ou portáteis, em que poderão empregar-se canalizações com secção nominal não inferior a 0,75 mm2 ou a 0,5 mm2, para canalizações flexíveis ou extraflexíveis, respectivamente.
 
-###### Art. 427.º Intensidade nominal dos aparelhos fixos intercalados nas canalizações fixas. - Os aparelhos fixos intercalados nas canalizações fixas não deverão ter intensidade nominal inferior a 10 A.
+Art. 427.º Intensidade nominal dos aparelhos fixos intercalados nas canalizações fixas. - Os aparelhos fixos intercalados nas canalizações fixas não deverão ter intensidade nominal inferior a 10 A.
 
-###### Art. 428.º Aparelhos de corte ou comando. - Nas instalações de utilização deverão ser previstos aparelhos de corte ou comando em todos os elementos dos circuitos que se pretendam ligar ou desligar independentemente das outras partes da instalação.
+Art. 428.º Aparelhos de corte ou comando. - Nas instalações de utilização deverão ser previstos aparelhos de corte ou comando em todos os elementos dos circuitos que se pretendam ligar ou desligar independentemente das outras partes da instalação.
 
 Comentário. - Recomenda-se que o disposto no artigo se aplique também aos circuitos de saída de quadros em que a protecção contra sobreintensidades seja efectuada por corta-circuitos fusíveis, com vista a permitir, em caso de fusão de um dos cartuchos fusíveis, isolar esse circuito sem necessidade de actuar o interruptor geral, a menos que os corta-circuitos fusíveis constituam um conjunto com as características de interruptor-seccionador.
 
-###### Art. 429.º Intensidade nominal dos aparelhos de corte de canalizações. - Os aparelhos de corte de uma canalização deverão ter intensidade nominal igual ou superior à intensidade de funcionamento da protecção contra sobrecargas da canalização a que se encontram ligados.
+Art. 429.º Intensidade nominal dos aparelhos de corte de canalizações. - Os aparelhos de corte de uma canalização deverão ter intensidade nominal igual ou superior à intensidade de funcionamento da protecção contra sobrecargas da canalização a que se encontram ligados.
 
-###### Art. 430.º Intensidade nominal dos aparelhos de corte de aparelhos de utilização. - A intensidade nominal dos aparelhos de corte não deverá ser inferior à intensidade nominal dos correspondentes aparelhos de utilização.
+Art. 430.º Intensidade nominal dos aparelhos de corte de aparelhos de utilização. - A intensidade nominal dos aparelhos de corte não deverá ser inferior à intensidade nominal dos correspondentes aparelhos de utilização.
 
 Comentário. - No caso de motores, recomenda-se que a intensidade nominal dos aparelhos de corte respectivos seja escolhida tendo em atenção o seguinte:
 
@@ -3573,7 +3640,7 @@ b) No caso de mais de um motor ligado ao mesmo aparelho de corte:
 
 1,25 vezes o valor da intensidade nominal do motor de maior potência mais o somatório das intensidades nominais dos restantes motores.
 
-###### Art. 431.º Aparelhos de utilização com potência elevada ou características especiais. - 1. Os aparelhos de utilização de corrente alternada monofásica que absorverem individualmente mais de 30 A, em funcionamento normal a plena carga, não poderão ser ligados a uma instalação alimentada por uma rede de distribuição pública, salvo acordo prévio do distribuidor.
+Art. 431.º Aparelhos de utilização com potência elevada ou características especiais. - 1. Os aparelhos de utilização de corrente alternada monofásica que absorverem individualmente mais de 30 A, em funcionamento normal a plena carga, não poderão ser ligados a uma instalação alimentada por uma rede de distribuição pública, salvo acordo prévio do distribuidor.
 
 2. A intensidade absorvida por um motor durante o seu arranque ou por um conjunto de motores que possam arrancar simultaneamente deverá ser limitada a um valor que não seja prejudicial à canalização que os alimenta nem cause perturbações inaceitáveis ao funcionamento de outros aparelhos ligados à mesma fonte de energia.
 
@@ -3597,13 +3664,13 @@ c) Tenham arranques frequentes;
 
 d) Sejam de travagem ou de inversão de marcha por contra corrente.
 
-###### Art. 432.º Aparelhos contendo líquidos isolantes inflamáveis. - 1. O emprego de aparelhos eléctricos contendo líquidos isolantes inflamáveis em quantidade superior a 15 kg apenas será permitido em estabelecimentos industriais e em locais afectos a serviços técnicos.
+Art. 432.º Aparelhos contendo líquidos isolantes inflamáveis. - 1. O emprego de aparelhos eléctricos contendo líquidos isolantes inflamáveis em quantidade superior a 15 kg apenas será permitido em estabelecimentos industriais e em locais afectos a serviços técnicos.
 
 2. O emprego de aparelhos eléctricos contendo líquidos isolantes susceptíveis de produzir gases tóxicos em caso de avaria apenas será permitido em locais onde seja assegurada a rápida evacuação daqueles gases ou quando sejam dotados de válvula de segurança ligada a canalização em comunicação com o exterior.
 
-###### Art. 433.º Rigidez dieléctrica das instalações de utilização. - A rigidez dieléctrica de uma instalação de utilização deverá ser tal que, desligados os aparelhos de utilização, a instalação resista, durante 1 minuto, a uma tensão de ensaio, expressa em volts, de 2 U(índice m) + 1000, a 50 Hz, com um mínimo de 1500 V, sendo U(índice m) a tensão mais elevada da instalação, expressa em volts.
+Art. 433.º Rigidez dieléctrica das instalações de utilização. - A rigidez dieléctrica de uma instalação de utilização deverá ser tal que, desligados os aparelhos de utilização, a instalação resista, durante 1 minuto, a uma tensão de ensaio, expressa em volts, de 2 U(índice m) + 1000, a 50 Hz, com um mínimo de 1500 V, sendo U(índice m) a tensão mais elevada da instalação, expressa em volts.
 
-###### Art. 434.º Resistência de isolamento das instalações de utilização. - 1. As instalações de utilização deverão apresentar uma resistência de isolamento, expressa em ohms, de valor, pelo menos, igual a 1000 U(índice n), sendo U(índice n) a tensão nominal da instalação, expressa em volts, com um mínimo de 250000 (Ómega) ou 50000 (Ómega), respectivamente para instalações de baixa tensão e de tensão reduzida.
+Art. 434.º Resistência de isolamento das instalações de utilização. - 1. As instalações de utilização deverão apresentar uma resistência de isolamento, expressa em ohms, de valor, pelo menos, igual a 1000 U(índice n), sendo U(índice n) a tensão nominal da instalação, expressa em volts, com um mínimo de 250000 (Ómega) ou 50000 (Ómega), respectivamente para instalações de baixa tensão e de tensão reduzida.
 
 2. A resistência de isolamento deverá entender-se para uma instalação na qual o comprimento total das respectivas canalizações, qualquer que seja o número dos condutores que as compõem, não exceda 100 m.
 
@@ -3619,7 +3686,7 @@ b) A instalação apresente a resistência de isolamento que lhe corresponda, um
 
 5.2 - Locais residenciais ou de uso profissional
 
-###### Art. 435.º Potências mínimas a considerar no dimensionamento das instalações de utilização. - 1. As instalações de utilização a estabelecer em locais residenciais ou de uso profissional não deverão ser dimensionadas para potências inferiores às seguintes:
+Art. 435.º Potências mínimas a considerar no dimensionamento das instalações de utilização. - 1. As instalações de utilização a estabelecer em locais residenciais ou de uso profissional não deverão ser dimensionadas para potências inferiores às seguintes:
 
 a) Locais destinados a habitação particular ou de uso profissional com habitação anexa:
 
@@ -3703,25 +3770,25 @@ J) Para equipamento de cozinha:
 
 Recomenda-se, ainda, que em cada circuito não haja mais de oito pontos de utilização.
 
-###### Art. 436.º Coeficientes de simultaneidade a considerar para as instalações. - Sem prejuízo do disposto no artigo 435.º, aos locais residenciais ou de uso profissional será aplicável o disposto no artigo 419.º
+Art. 436.º Coeficientes de simultaneidade a considerar para as instalações. - Sem prejuízo do disposto no artigo 435.º, aos locais residenciais ou de uso profissional será aplicável o disposto no artigo 419.º
 
-###### Art. 437.º Quadro de entrada. - 1. Em locais residenciais ou de uso profissional poderá dispensar-se a aplicação do disposto no n.º 3 do artigo 421.º
+Art. 437.º Quadro de entrada. - 1. Em locais residenciais ou de uso profissional poderá dispensar-se a aplicação do disposto no n.º 3 do artigo 421.º
 
 2. Se as protecções contra sobreintensidades dos circuitos de saída forem constituídas por disjuntores de corte omnipolar, em número não superior a três, será dispensável a aplicação do disposto no n.º 1 do artigo 422.º
 
-###### Art. 438.º Circuitos monofásicos. - Em locais residenciais ou de uso profissional os circuitos deverão, em regra, ser monofásicos.
+Art. 438.º Circuitos monofásicos. - Em locais residenciais ou de uso profissional os circuitos deverão, em regra, ser monofásicos.
 
 Comentário. - O disposto no artigo visa, em especial, os circuitos para iluminação.
 
-###### Art. 439.º Secção nominal mínima dos condutores das canalizações. - Em locais residenciais ou de uso profissional permitir-se-á o emprego de condutores de secção nominal 1,5 mm2 para alimentação de tomadas ligadas a circuitos de iluminação, desde que elas sejam comandadas por um aparelho de comando independente ou pelo mesmo aparelho de comando dos focos de iluminação fixos da mesma dependência e haja instalação fixa, distinta, de climatização ambiente.
+Art. 439.º Secção nominal mínima dos condutores das canalizações. - Em locais residenciais ou de uso profissional permitir-se-á o emprego de condutores de secção nominal 1,5 mm2 para alimentação de tomadas ligadas a circuitos de iluminação, desde que elas sejam comandadas por um aparelho de comando independente ou pelo mesmo aparelho de comando dos focos de iluminação fixos da mesma dependência e haja instalação fixa, distinta, de climatização ambiente.
 
-###### Art. 440.º Tipos de canalizações. - Em locais residenciais ou de uso profissional não será permitido o emprego dos tipos de canalizações seguintes:
+Art. 440.º Tipos de canalizações. - Em locais residenciais ou de uso profissional não será permitido o emprego dos tipos de canalizações seguintes:
 
 a) Canalizações fixas, à vista, constituídas por condutores nus ou condutores isolados, rígidos, estabelecidos sobre isoladores;
 
 b) Canalizações fixas, à vista, constituídas por condutores nus protegidos por condutas.
 
-###### Art. 441.º Emprego de alta tensão. - 1. Em instalações de utilização estabelecidas em locais residenciais ou de uso profissional não será permitido o emprego de alta tensão.
+Art. 441.º Emprego de alta tensão. - 1. Em instalações de utilização estabelecidas em locais residenciais ou de uso profissional não será permitido o emprego de alta tensão.
 
 2. Exceptuam-se do disposto no número anterior as instalações de som, televisão ou similares, as de iluminação por lâmpadas ou tubos de descarga e as de aparelhos de electricidade médica, podendo, ainda, a fiscalização do Governo autorizar o emprego de outros aparelhos de alta tensão, desde que tais aparelhos não possam funcionar em baixa tensão e não sejam considerados como susceptíveis de causar perigo ou criar riscos de incêndio.
 
@@ -3729,7 +3796,7 @@ b) Canalizações fixas, à vista, constituídas por condutores nus protegidos p
 
 5.3.1 - Disposições gerais
 
-###### Art. 442.º Tipos de canalizações. - Em estabelecimentos recebendo público não será permitido o emprego dos tipos de canalizações seguintes:
+Art. 442.º Tipos de canalizações. - Em estabelecimentos recebendo público não será permitido o emprego dos tipos de canalizações seguintes:
 
 a) Canalizações fixas, à vista, constituídas por condutores nus ou condutores isolados, rígidos, estabelecidos sobre isoladores;
 
@@ -3737,15 +3804,15 @@ b) Canalizações fixas, à vista, constituídas por cabos com bainha ligeira;
 
 c) Canalizações ocultas estabelecidas em espaços ocos das construções, se os elementos que limitam esses espaços não forem incombustíveis.
 
-###### Art. 443.º Emprego de alta tensão. - Em estabelecimentos recebendo público não será permitido o emprego de alta tensão em locais onde o público tenha normalmente acesso, salvo nos casos previstos no n.º 2 do artigo 441.º
+Art. 443.º Emprego de alta tensão. - Em estabelecimentos recebendo público não será permitido o emprego de alta tensão em locais onde o público tenha normalmente acesso, salvo nos casos previstos no n.º 2 do artigo 441.º
 
-###### Art. 444.º Iluminação. - 1. Os estabelecimentos recebendo público que possam funcionar em períodos em que a iluminação natural possa ser insuficiente deverão ser dotados de iluminação artificial, eléctrica, que compreenderá uma iluminação normal e uma iluminação de emergência de segurança.
+Art. 444.º Iluminação. - 1. Os estabelecimentos recebendo público que possam funcionar em períodos em que a iluminação natural possa ser insuficiente deverão ser dotados de iluminação artificial, eléctrica, que compreenderá uma iluminação normal e uma iluminação de emergência de segurança.
 
 2. Nos estabelecimentos recebendo público, os locais acessíveis ao público deverão, durante o período de funcionamento daqueles, ser suficientemente iluminados de forma a assegurar uma circulação fácil do público e a permitir efectuar as manobras necessárias à segurança.
 
-###### Art. 445.º Instalação de iluminação normal. - A instalação de iluminação normal deverá ser concebida de forma que a avaria de um foco luminoso ou do respectivo circuito não deixe na escuridão qualquer local acessível ao público.
+Art. 445.º Instalação de iluminação normal. - A instalação de iluminação normal deverá ser concebida de forma que a avaria de um foco luminoso ou do respectivo circuito não deixe na escuridão qualquer local acessível ao público.
 
-###### Art. 446.º Instalação de iluminação de emergência de segurança. - 1. A instalação de iluminação de emergência de segurança deverá permitir, em caso de avaria da instalação de iluminação normal, a evacuação segura e fácil do público para o exterior e a execução das manobras respeitantes à segurança e à intervenção de socorros.
+Art. 446.º Instalação de iluminação de emergência de segurança. - 1. A instalação de iluminação de emergência de segurança deverá permitir, em caso de avaria da instalação de iluminação normal, a evacuação segura e fácil do público para o exterior e a execução das manobras respeitantes à segurança e à intervenção de socorros.
 
 2. A instalação de iluminação de emergência a que se refere o número anterior deverá assegurar a realização dos objectivos seguintes:
 
@@ -3763,13 +3830,13 @@ Comentários. - 1. A iluminação de ambiente é, de uma forma geral, a ilumina�
 
 3. A sinalização visa não só a obtenção de iluminação que permita o reconhecimento de obstáculos (o que pode igualmente ser conseguido pela iluminação de ambiente ou de circulação), mas principalmente a sinalização das saídas ou dos caminhos a seguir para se alcançar a via pública. Por esta razão, os dispositivos ou aparelhos de iluminação destinados à obtenção destes fins são designados normalmente por «letreiros de saída», recomendando-se que estes possuam indicações (setas, dizeres ou outras) que facilitem e orientem a localização das saídas.
 
-###### Art. 447.º Alimentação das instalações de locais de acesso público. - Os circuitos de alimentação das instalações dos locais de acesso ou permanência de público deverão ser distintos das instalações de locais onde o público não tenha acesso.
+Art. 447.º Alimentação das instalações de locais de acesso público. - Os circuitos de alimentação das instalações dos locais de acesso ou permanência de público deverão ser distintos das instalações de locais onde o público não tenha acesso.
 
-###### Art. 448.º Alimentação de aparelhos de iluminação normal. - A iluminação normal das zonas de acesso ou permanência do público deverá ser feita, pelo menos, por dois circuitos distintos e de tal forma que, mesmo no caso de avaria de um dos circuitos, seja assegurado um nível de iluminação média não inferior a 25 lux.
+Art. 448.º Alimentação de aparelhos de iluminação normal. - A iluminação normal das zonas de acesso ou permanência do público deverá ser feita, pelo menos, por dois circuitos distintos e de tal forma que, mesmo no caso de avaria de um dos circuitos, seja assegurado um nível de iluminação média não inferior a 25 lux.
 
 Comentário. - A distribuição das lâmpadas e dos aparelhos de iluminação pelos circuitos deve ser feita de forma que se não verifiquem, em cada local, zonas escuras ou de penumbra, em caso de avaria de um circuito.
 
-###### Art. 449.º Alimentação de aparelhos de iluminação de emergência de segurança. - 1. Os circuitos de alimentação de letreiros de saída deverão ser distintos de outros circuitos.
+Art. 449.º Alimentação de aparelhos de iluminação de emergência de segurança. - 1. Os circuitos de alimentação de letreiros de saída deverão ser distintos de outros circuitos.
 
 2. Os circuitos a que se refere o número anterior deverão ser estabelecidos de forma que a cada percurso que conduza o público para o exterior corresponda um circuito distinto.
 
@@ -3779,19 +3846,19 @@ Comentário. - A distribuição das lâmpadas e dos aparelhos de iluminação pe
 
 5. Os comandos dos circuitos de alimentação de letreiros de saída deverão ser centralizados no mesmo quadro.
 
-###### Art. 450.º Traçado das canalizações de circuitos de iluminação de emergência em locais com risco de incêndio. - Em locais com risco de incêndio não poderão passar canalizações pertencentes a circuitos de iluminação de emergência de segurança destinados a outros locais.
+Art. 450.º Traçado das canalizações de circuitos de iluminação de emergência em locais com risco de incêndio. - Em locais com risco de incêndio não poderão passar canalizações pertencentes a circuitos de iluminação de emergência de segurança destinados a outros locais.
 
-###### Art. 451.º Acessibilidade dos quadros e dos aparelhos de corte, comando ou protecção. - 1. Em estabelecimentos recebendo público, os quadros e os aparelhos de corte, comando ou protecção das instalações deverão ser inacessíveis ao público, só podendo ser manobrados por pessoal devidamente qualificado e autorizado.2. Dispensar-se-á a aplicação do disposto no número anterior aos aparelhos de comando das instalações em compartimentos que não sejam normalmente utilizados por mais de dez pessoas simultaneamente.
+Art. 451.º Acessibilidade dos quadros e dos aparelhos de corte, comando ou protecção. - 1. Em estabelecimentos recebendo público, os quadros e os aparelhos de corte, comando ou protecção das instalações deverão ser inacessíveis ao público, só podendo ser manobrados por pessoal devidamente qualificado e autorizado.2. Dispensar-se-á a aplicação do disposto no número anterior aos aparelhos de comando das instalações em compartimentos que não sejam normalmente utilizados por mais de dez pessoas simultaneamente.
 
-###### Art. 452.º Protecção das pessoas. - Em estabelecimentos recebendo público, a protecção das pessoas deverá ser efectuada pelo emprego de aparelhos de protecção sensíveis à corrente diferencial-residual.
+Art. 452.º Protecção das pessoas. - Em estabelecimentos recebendo público, a protecção das pessoas deverá ser efectuada pelo emprego de aparelhos de protecção sensíveis à corrente diferencial-residual.
 
 Comentário. - O emprego de aparelhos de protecção sensíveis à corrente diferencial-residual permite também assegurar a protecção contra incêndio derivado de defeitos nas instalações eléctricas.
 
-###### Art. 453.º Instalações de climatização. - 1. Quando houver sistema central de aquecimento, ventilação ou ar condicionado, a sua alimentação de energia eléctrica deverá ser feita directamente a partir do quadro de entrada, salvo o disposto no n.º 1 do artigo 465.º
+Art. 453.º Instalações de climatização. - 1. Quando houver sistema central de aquecimento, ventilação ou ar condicionado, a sua alimentação de energia eléctrica deverá ser feita directamente a partir do quadro de entrada, salvo o disposto no n.º 1 do artigo 465.º
 
 2. Quando não houver sistema central de aquecimento, ventilação ou ar condicionado e a climatização seja obtida por meio de aparelhos individuais, as respectivas instalações deverão ser fixas e distintas de outras instalações.
 
-###### Art. 454.º Localização de aparelhos de produção, conversão, transformação ou acumulação de energia eléctrica. - Os aparelhos de produção, conversão, transformação ou acumulação de energia eléctrica deverão ser instalados em locais afectos a serviços eléctricos.
+Art. 454.º Localização de aparelhos de produção, conversão, transformação ou acumulação de energia eléctrica. - Os aparelhos de produção, conversão, transformação ou acumulação de energia eléctrica deverão ser instalados em locais afectos a serviços eléctricos.
 
 Comentário. - Os aparelhos a que se refere o artigo não são as unidades autónomas a que se refere o comentário 2 do artigo 353.º
 
@@ -3799,21 +3866,21 @@ Comentário. - Os aparelhos a que se refere o artigo não são as unidades autó
 
 5.3.2.1 - Disposições gerais
 
-###### Art. 455.º Alimentação do quadro de entrada. - Em casas de espectáculo e diversão em recinto fechado, a canalização de alimentação do quadro de entrada não poderá atravessar a caixa do palco ou as cabinas de projecção e de enrolamento.
+Art. 455.º Alimentação do quadro de entrada. - Em casas de espectáculo e diversão em recinto fechado, a canalização de alimentação do quadro de entrada não poderá atravessar a caixa do palco ou as cabinas de projecção e de enrolamento.
 
-###### Art. 456.º Localização do quadro de entrada. - Em casas de espectáculo e diversão em recinto fechado, o quadro de entrada não poderá ficar situado na caixa do palco ou nas cabinas de projecção e de enrolamento.
+Art. 456.º Localização do quadro de entrada. - Em casas de espectáculo e diversão em recinto fechado, o quadro de entrada não poderá ficar situado na caixa do palco ou nas cabinas de projecção e de enrolamento.
 
-###### Art. 457.º Alimentação de outros quadros. - As canalizações de alimentação de outros quadros não poderão atravessar a caixa do palco ou as cabinas de projecção e de enrolamento.
+Art. 457.º Alimentação de outros quadros. - As canalizações de alimentação de outros quadros não poderão atravessar a caixa do palco ou as cabinas de projecção e de enrolamento.
 
-###### Art. 458.º Tipos de canalizações. - Em casas de espectáculo e diversão em recinto fechado, as canalizações deverão, em regra, ser embebidas, mas, quando estabelecidas à vista, a sua protecção contra acções mecânicas não será inferior à da classe M(índice 7).
+Art. 458.º Tipos de canalizações. - Em casas de espectáculo e diversão em recinto fechado, as canalizações deverão, em regra, ser embebidas, mas, quando estabelecidas à vista, a sua protecção contra acções mecânicas não será inferior à da classe M(índice 7).
 
-###### Art. 459.º Intensidades de corrente máximas admissíveis nas canalizações. - 1. As intensidades de corrente a considerar no dimensionamento das canalizações estabelecidas em casas de espectáculo e diversão em recinto fechado não deverão ultrapassar 70% das intensidades de corrente máximas admissíveis nessas canalizações para o mesmo tipo de instalação.2. As intensidades de corrente a considerar no dimensionamento dos suportes das lâmpadas não deverão ultrapassar 70% da intensidade nominal dos respectivos suportes.
+Art. 459.º Intensidades de corrente máximas admissíveis nas canalizações. - 1. As intensidades de corrente a considerar no dimensionamento das canalizações estabelecidas em casas de espectáculo e diversão em recinto fechado não deverão ultrapassar 70% das intensidades de corrente máximas admissíveis nessas canalizações para o mesmo tipo de instalação.2. As intensidades de corrente a considerar no dimensionamento dos suportes das lâmpadas não deverão ultrapassar 70% da intensidade nominal dos respectivos suportes.
 
-###### Art. 460.º Número de fases das instalações de iluminação normal. - As instalações de iluminação normal deverão, em regra, ser alimentadas por circuitos trifásicos.
+Art. 460.º Número de fases das instalações de iluminação normal. - As instalações de iluminação normal deverão, em regra, ser alimentadas por circuitos trifásicos.
 
-###### Art. 461.º Instalações de iluminação nas zonas a que o público tenha acesso. - Durante os períodos de abertura ao público apenas será permitido desligar uma parte dos circuitos de iluminação das zonas de acesso ou permanência do público, com excepção das salas ou recintos de exibição, que terão a iluminação que convier ao espectáculo.
+Art. 461.º Instalações de iluminação nas zonas a que o público tenha acesso. - Durante os períodos de abertura ao público apenas será permitido desligar uma parte dos circuitos de iluminação das zonas de acesso ou permanência do público, com excepção das salas ou recintos de exibição, que terão a iluminação que convier ao espectáculo.
 
-###### Art. 462.º Iluminação de emergência de segurança. - 1. Nas casas de espectáculo e diversão em recinto fechado deverá existir iluminação de emergência de segurança nos locais seguintes:
+Art. 462.º Iluminação de emergência de segurança. - 1. Nas casas de espectáculo e diversão em recinto fechado deverá existir iluminação de emergência de segurança nos locais seguintes:
 
 a) Salas ou recintos de exibição;
 
@@ -3833,85 +3900,85 @@ h) Circulações de acesso aos locais indicados nas alíneas c) a g).
 
 2. Quando a iluminação de identificação das coxias, filas e lugares constituir também iluminação de emergência de segurança, os respectivos circuitos deverão ser independentes dos outros circuitos da instalação.
 
-###### Art. 463.º Canalizações das instalações de iluminação de emergência de segurança. - 1. As canalizações das instalações de iluminação de emergência de segurança deverão ser distintas das de outras instalações e ser constituídas por circuitos monofásicos independentes alimentando aparelhos de iluminação convenientemente distribuídos, os quais, em cada local, não poderão ser alimentados, na sua totalidade, pelo mesmo circuito.
+Art. 463.º Canalizações das instalações de iluminação de emergência de segurança. - 1. As canalizações das instalações de iluminação de emergência de segurança deverão ser distintas das de outras instalações e ser constituídas por circuitos monofásicos independentes alimentando aparelhos de iluminação convenientemente distribuídos, os quais, em cada local, não poderão ser alimentados, na sua totalidade, pelo mesmo circuito.
 
 2. As canalizações das instalações de iluminação de emergência de segurança não poderão atravessar a caixa do palco nem as cabinas de projecção e de enrolamento, nem deverão possuir quaisquer aparelhos de corte, comando ou protecção intercalados nas mesmas.
 
 Comentário. - Recomenda-se que os circuitos de iluminação de emergência de segurança de um local sejam alimentados por mais de uma fase.
 
-###### Art. 464.º Tomadas de corrente. - 1. Nas dependências onde o público tenha acesso será permitida a instalação de tomadas de corrente, as quais não deverão ser utilizadas durante os períodos de espectáculo, devendo os respectivos circuitos ser conservados desligados durante esses períodos.
+Art. 464.º Tomadas de corrente. - 1. Nas dependências onde o público tenha acesso será permitida a instalação de tomadas de corrente, as quais não deverão ser utilizadas durante os períodos de espectáculo, devendo os respectivos circuitos ser conservados desligados durante esses períodos.
 
 2. Os circuitos referidos no número anterior deverão ser independentes de circuitos destinados a outros fins e não poderão ser alimentados a partir do quadro do palco ou do da cabina de projecção.
 
-###### Art. 465.º Instalações de climatização. - 1. Quando houver sistema central de aquecimento, ventilação ou ar condicionado, o aparelho de corte geral dessa instalação deverá ser actuado pela manobra do interruptor de segurança referido no artigo 468.º, por comando a distância a partir de um quadro localizado junto ao quadro do interruptor de segurança ou, quando este não exista, a partir do quadro de entrada.
+Art. 465.º Instalações de climatização. - 1. Quando houver sistema central de aquecimento, ventilação ou ar condicionado, o aparelho de corte geral dessa instalação deverá ser actuado pela manobra do interruptor de segurança referido no artigo 468.º, por comando a distância a partir de um quadro localizado junto ao quadro do interruptor de segurança ou, quando este não exista, a partir do quadro de entrada.
 
 2. Quando não houver sistema central de aquecimento, ventilação ou ar condicionado, o comando dos aparelhos individuais que existam dentro ou fora da sala ou recinto de exibição deverá ser centralizado num quadro cujo aparelho de corte geral deverá ser actuado da forma indicada no número anterior.
 
-###### Art. 466.º Locais com risco de incêndio. - Em casas de espectáculo e diversão em recinto fechado, as salas ou recintos de exibição, as cabinas de projecção e de enrolamento, a caixa do palco, as dependências destinadas a armazenagem de cenários ou guarda-roupas e as zonas a que o público tenha acesso deverão ser considerados como locais com risco de incêndio do tipo 2.
+Art. 466.º Locais com risco de incêndio. - Em casas de espectáculo e diversão em recinto fechado, as salas ou recintos de exibição, as cabinas de projecção e de enrolamento, a caixa do palco, as dependências destinadas a armazenagem de cenários ou guarda-roupas e as zonas a que o público tenha acesso deverão ser considerados como locais com risco de incêndio do tipo 2.
 
 Comentário. - Embora, de acordo com este artigo e o artigo 389.º, as canalizações tenham característica de protecção contra o risco de incêndio da classe Y(índice 1), recomenda-se que as canalizações das instalações de emergência de segurança que assegurem a iluminação de circulação e a sinalização das saídas tenham característica da classe Y(índice 2).
 
-###### Art. 467.º Instalações de sinalização do serviço de incêndios. - Nas casas de espectáculo e diversão em recinto fechado deverá existir uma instalação de sinalização sonora e luminosa ligando entre si as cabinas dos bombeiros e outros postos do serviço de incêndios.
+Art. 467.º Instalações de sinalização do serviço de incêndios. - Nas casas de espectáculo e diversão em recinto fechado deverá existir uma instalação de sinalização sonora e luminosa ligando entre si as cabinas dos bombeiros e outros postos do serviço de incêndios.
 
 5.3.2.2 - Instalações situadas no interior das salas ou recintos de exibição
 
-###### Art. 468.º Interruptor de segurança. - Em casas de espectáculo e diversão em recinto fechado deverá existir um quadro dotado de um interruptor, de corte omnipolar, denominado «interruptor de segurança», o qual deverá cortar a alimentação do quadro da cabina de projecção e do quadro do palco.
+Art. 468.º Interruptor de segurança. - Em casas de espectáculo e diversão em recinto fechado deverá existir um quadro dotado de um interruptor, de corte omnipolar, denominado «interruptor de segurança», o qual deverá cortar a alimentação do quadro da cabina de projecção e do quadro do palco.
 
-###### Art. 469.º Localização do quadro do interruptor de segurança. - Nas casas de espectáculo e diversão em recinto fechado, o quadro do interruptor de segurança deverá ser instalado na cabina dos bombeiros anexa à cabina de projecção. Quando esta não exista, aquele deverá ser instalado na cabina dos bombeiros situada na caixa do palco.
+Art. 469.º Localização do quadro do interruptor de segurança. - Nas casas de espectáculo e diversão em recinto fechado, o quadro do interruptor de segurança deverá ser instalado na cabina dos bombeiros anexa à cabina de projecção. Quando esta não exista, aquele deverá ser instalado na cabina dos bombeiros situada na caixa do palco.
 
-###### Art. 470.º Alimentação do quadro do interruptor de segurança. - 1. O quadro do interruptor de segurança deverá ser alimentado a partir do quadro de entrada por intermédio de uma canalização a ele exclusivamente destinada, sem qualquer aparelho de corte, comando ou protecção intercalado.
+Art. 470.º Alimentação do quadro do interruptor de segurança. - 1. O quadro do interruptor de segurança deverá ser alimentado a partir do quadro de entrada por intermédio de uma canalização a ele exclusivamente destinada, sem qualquer aparelho de corte, comando ou protecção intercalado.
 
 2. A canalização de alimentação do quadro do interruptor de segurança não poderá atravessar a caixa do palco ou as cabinas de projecção e de enrolamento.
 
-###### Art. 471.º Comando de iluminação normal da sala ou recinto de exibição. - 1. A instalação de iluminação normal da sala ou recinto de exibição deverá ser comandada do quadro da cabina de projecção, do quadro do palco ou do primeiro, se existirem os dois.
+Art. 471.º Comando de iluminação normal da sala ou recinto de exibição. - 1. A instalação de iluminação normal da sala ou recinto de exibição deverá ser comandada do quadro da cabina de projecção, do quadro do palco ou do primeiro, se existirem os dois.
 
 2. No caso de cine-teatros, se houver conveniência de o comando referido no número anterior ser feito no quadro do palco, admitir-se-á a existência de comando a distância a partir deste.
 
 3. Para efeito do disposto no n.º 1, os circuitos de boca de cena e os de efeitos publicitários ou outros que devam funcionar no palco serão considerados como circuitos de iluminação normal da sala ou recinto de exibição.
 
-###### Art. 472.º Aparelhos de regulação da iluminação normal da sala ou recinto de exibição. - Os aparelhos de variação do nível de iluminação normal da sala ou recinto de exibição deverão ser de tipo susceptível de causar perigo de incêndio e encontrar-se na cabina de projecção, na cabina do palco ou em outra destinada especialmente para esse fim.
+Art. 472.º Aparelhos de regulação da iluminação normal da sala ou recinto de exibição. - Os aparelhos de variação do nível de iluminação normal da sala ou recinto de exibição deverão ser de tipo susceptível de causar perigo de incêndio e encontrar-se na cabina de projecção, na cabina do palco ou em outra destinada especialmente para esse fim.
 
-###### Art. 473.º Iluminação de emergência de segurança. - 1. No interior da sala ou recinto de exibição, durante o período de funcionamento da casa de espectáculo e diversão, a iluminação de emergência de segurança deverá apenas assegurar a iluminação de circulação e a sinalização das saídas.
+Art. 473.º Iluminação de emergência de segurança. - 1. No interior da sala ou recinto de exibição, durante o período de funcionamento da casa de espectáculo e diversão, a iluminação de emergência de segurança deverá apenas assegurar a iluminação de circulação e a sinalização das saídas.
 
 2. A iluminação de ambiente deverá entrar em serviço imediato quando for manobrado o interruptor de segurança referido no artigo 468.º
 
 5.3.2.3 - Instalações de projecção cinematográfica
 
-###### Art. 474.º Cabina de projecção. - 1. O equipamento destinado a projecção cinematográfica deverá ficar instalado no interior da cabina de projecção.
+Art. 474.º Cabina de projecção. - 1. O equipamento destinado a projecção cinematográfica deverá ficar instalado no interior da cabina de projecção.
 
 2. As aberturas de projecção e vigilância da cabina de projecção deverão ser providas, do lado interior desta, de obturadores metálicos manobráveis, da própria cabina e da cabina do bombeiro anexa, por um dispositivo eléctrico actuando por falta de tensão e, simultaneamente, por um dispositivo mecânico.
 
-###### Art. 475.º Quadro da cabina de projecção. - 1. Na cabina de projecção deverá existir um quadro destinado a concentrar os comandos e protecções do equipamento de projecção, som e serviços auxiliares, bem como os de comando da iluminação da sala ou recinto de exibição e, eventualmente, os de comando dos efeitos de luz da sala e da boca de cena.
+Art. 475.º Quadro da cabina de projecção. - 1. Na cabina de projecção deverá existir um quadro destinado a concentrar os comandos e protecções do equipamento de projecção, som e serviços auxiliares, bem como os de comando da iluminação da sala ou recinto de exibição e, eventualmente, os de comando dos efeitos de luz da sala e da boca de cena.
 
 2. O quadro da cabina de projecção deverá possuir um interruptor geral de corte omnipolar.
 
-###### Art. 476.º Alimentação do quadro da cabina de projecção. - O quadro da cabina de projecção deverá ser alimentado a partir do quadro do interruptor de segurança por intermédio de uma canalização a ele exclusivamente destinada, a qual obedecerá, ainda, ao disposto no artigo 470.º
+Art. 476.º Alimentação do quadro da cabina de projecção. - O quadro da cabina de projecção deverá ser alimentado a partir do quadro do interruptor de segurança por intermédio de uma canalização a ele exclusivamente destinada, a qual obedecerá, ainda, ao disposto no artigo 470.º
 
-###### Art. 477.º Circuitos da cabina de projecção. - Os circuitos da cabina de projecção deverão ser distintos dos da sala ou recinto de exibição.
+Art. 477.º Circuitos da cabina de projecção. - Os circuitos da cabina de projecção deverão ser distintos dos da sala ou recinto de exibição.
 
-###### Art. 478.º Cabina de enrolamento. - 1. As instalações da cabina de enrolamento deverão ser alimentadas a partir do quadro da cabina de projecção.
+Art. 478.º Cabina de enrolamento. - 1. As instalações da cabina de enrolamento deverão ser alimentadas a partir do quadro da cabina de projecção.
 
 2. Na cabina de enrolamento não poderão existir tomadas de corrente.
 
-###### Art. 479.º Aparelhos de iluminação móveis ou portáteis. - No interior das cabinas de projecção e de enrolamento não será permitido o emprego de aparelhos de iluminação móveis ou portáteis durante o período em que a sala ou recinto de exibição esteja franqueado ao público.
+Art. 479.º Aparelhos de iluminação móveis ou portáteis. - No interior das cabinas de projecção e de enrolamento não será permitido o emprego de aparelhos de iluminação móveis ou portáteis durante o período em que a sala ou recinto de exibição esteja franqueado ao público.
 
 Comentário. - O disposto no artigo visa impedir o emprego de lâmpadas de mão ou gambiarras ou outros aparelhos com carácter mais ou menos improvisado, e não o emprego das vulgares lanternas de mão alimentadas por pilhas.
 
 5.3.2.4 - Instalações do palco
 
-###### Art. 480.º Quadro do palco. - 1. Quando haja palco com mais de 2,50 m de profundidade e 40 m2 de superfície, deverá existir um quadro do palco.
+Art. 480.º Quadro do palco. - 1. Quando haja palco com mais de 2,50 m de profundidade e 40 m2 de superfície, deverá existir um quadro do palco.
 
 2. O quadro do palco deverá ficar situado no interior da cabina do electricista do palco.
 
 3. O quadro do palco deverá possuir um interruptor geral de corte omnipolar.
 
-###### Art. 481.º Cabina do electricista do palco. - 1. A cabina do electricista do palco deverá possuir aberturas de vigilância que permitam visibilidade para todo o palco e sejam providas de obturadores metálicos manobráveis do interior da cabina.
+Art. 481.º Cabina do electricista do palco. - 1. A cabina do electricista do palco deverá possuir aberturas de vigilância que permitam visibilidade para todo o palco e sejam providas de obturadores metálicos manobráveis do interior da cabina.
 
 2. A fiscalização do Governo poderá dispensar a existência da cabina do electricista do palco, devendo nesse caso o quadro do palco ser metálico e provido de porta destinada a impedir o acesso aos comandos dos aparelhos por pessoas não qualificadas.
 
-###### Art. 482.º Alimentação do quadro do palco. - O quadro do palco deverá ser alimentado a partir do quadro do interruptor de segurança por intermédio de uma canalização obedecendo ao disposto no artigo 476.º
+Art. 482.º Alimentação do quadro do palco. - O quadro do palco deverá ser alimentado a partir do quadro do interruptor de segurança por intermédio de uma canalização obedecendo ao disposto no artigo 476.º
 
-###### Art. 483.º Instalações comandadas do quadro do palco. - 1. As instalações de utilização existentes na caixa do palco, incluindo o subpalco, caixa de ponto, varanda de urdimento, tangões, gambiarras, teia e fosso de orquestra, deverão ser comandadas do quadro do palco.
+Art. 483.º Instalações comandadas do quadro do palco. - 1. As instalações de utilização existentes na caixa do palco, incluindo o subpalco, caixa de ponto, varanda de urdimento, tangões, gambiarras, teia e fosso de orquestra, deverão ser comandadas do quadro do palco.
 
 2. Os circuitos de iluminação da cabina do electricista do palco deverão ser distintos dos de iluminação da sala ou recinto de exibição.
 
@@ -3919,7 +3986,7 @@ Comentário. - O disposto no artigo visa impedir o emprego de lâmpadas de mão 
 
 4. Do disposto no n.º 1 exclui-se a instalação de iluminação da cabina do bombeiro existente no palco, a qual poderá derivar de um quadro de iluminação de zonas de acesso público ou do quadro de camarins, desde que as respectivas canalizações não atravessem a caixa do palco.
 
-###### Art. 484.º Equipamento de cena. - 1. As ribaltas, tangões, gambiarras e os aparelhos fixos ou móveis existentes na caixa do palco deverão ser de material incombustível e as aberturas ou difusores ser cobertos com rede metálica protegendo as lâmpadas e os suportes contra acções mecânicas e contactos acidentais.
+Art. 484.º Equipamento de cena. - 1. As ribaltas, tangões, gambiarras e os aparelhos fixos ou móveis existentes na caixa do palco deverão ser de material incombustível e as aberturas ou difusores ser cobertos com rede metálica protegendo as lâmpadas e os suportes contra acções mecânicas e contactos acidentais.
 
 2. O equipamento de cena deverá ter resistência contra acções mecânicas não inferior à da classe M(índice 7).
 
@@ -3927,19 +3994,19 @@ Comentário. - O disposto no artigo visa impedir o emprego de lâmpadas de mão 
 
 4. Os suportes das lâmpadas deverão ser de porcelana, vidro, esteatite ou material equivalente e no interior de ribaltas, tangões, gambiarras, etc., deverá prever-se isolamento térmico e arejamento das zonas mais próximas das lâmpadas.
 
-###### Art. 485.º Canalizações de alimentação de aparelhos móveis. - Os aparelhos móveis a empregar no palco deverão ser alimentados a partir de tomadas de corrente fixas, por canalizações flexíveis constituídas por cabos de características não inferiores às dos classificados sob o código 315 200.
+Art. 485.º Canalizações de alimentação de aparelhos móveis. - Os aparelhos móveis a empregar no palco deverão ser alimentados a partir de tomadas de corrente fixas, por canalizações flexíveis constituídas por cabos de características não inferiores às dos classificados sob o código 315 200.
 
-###### Art. 486.º Dispositivos de cena com interruptores de fim de curso. - Quando existam dispositivos de cena que incluam interruptores de fim de curso, estes deverão ser de corte omnipolar.
+Art. 486.º Dispositivos de cena com interruptores de fim de curso. - Quando existam dispositivos de cena que incluam interruptores de fim de curso, estes deverão ser de corte omnipolar.
 
-###### Art. 487.º Pano de ferro. - O motor de accionamento do pano de ferro do palco deverá ser alimentado a partir do quadro de entrada e comandado das cabinas dos bombeiros.
+Art. 487.º Pano de ferro. - O motor de accionamento do pano de ferro do palco deverá ser alimentado a partir do quadro de entrada e comandado das cabinas dos bombeiros.
 
 5.3.2.5 - Corpo de camarins
 
-###### Art. 488.º Alimentação do corpo de camarins. - O corpo de camarins poderá ser alimentado a partir de um quadro privativo, alimentado do quadro de entrada através de uma canalização comum ou não à alimentação de outros quadros.
+Art. 488.º Alimentação do corpo de camarins. - O corpo de camarins poderá ser alimentado a partir de um quadro privativo, alimentado do quadro de entrada através de uma canalização comum ou não à alimentação de outros quadros.
 
 5.3.3 - Casas de espectáculo e diversão em recinto vedado
 
-###### Art. 489.º Classificação das casas de espectáculo e diversão em recinto vedado. - 1. As casas de espectáculo e diversão em recinto vedado são classificadas, segundo o número de pessoas que nos mesmos podem ser admitidas, nos dois grupos seguintes:
+Art. 489.º Classificação das casas de espectáculo e diversão em recinto vedado. - 1. As casas de espectáculo e diversão em recinto vedado são classificadas, segundo o número de pessoas que nos mesmos podem ser admitidas, nos dois grupos seguintes:
 
 1.º grupo: acima de 1000 pessoas;
 
@@ -3951,9 +4018,9 @@ Comentário. - São considerados como fazendo parte do público todas as pessoas
 
 Conforme os casos, o efectivo do público é calculado a partir do número de lugares sentados ou da área reservada (1 m2 por pessoa).
 
-###### Art. 490.º Instalações de iluminação nas zonas a que o público tenha acesso. - Nas casas de espectáculo e diversão em recinto vedado dotadas de instalação de iluminação normal deverá observar-se o disposto no artigo 461.º
+Art. 490.º Instalações de iluminação nas zonas a que o público tenha acesso. - Nas casas de espectáculo e diversão em recinto vedado dotadas de instalação de iluminação normal deverá observar-se o disposto no artigo 461.º
 
-###### Art. 491.º Iluminação de emergência de segurança. - 1. Nas casas de espectáculo e diversão em recinto vedado dotadas de instalação de iluminação normal deverá existir uma instalação de iluminação de emergência de segurança nos locais seguintes:
+Art. 491.º Iluminação de emergência de segurança. - 1. Nas casas de espectáculo e diversão em recinto vedado dotadas de instalação de iluminação normal deverá existir uma instalação de iluminação de emergência de segurança nos locais seguintes:
 
 a) Salas ou recintos de exibição;
 
@@ -3961,11 +4028,11 @@ b) Outros locais franqueados ao público.
 
 2. A instalação de iluminação de emergência de segurança deverá obedecer ao disposto no artigo 446.º, sendo dispensável para as casas de espectáculo e diversão do 2.º grupo a existência de iluminação de ambiente.
 
-###### Art. 492.º Tomadas de corrente. - Nas casas de espectáculo e diversão em recinto vedado deverá observar-se o disposto no artigo 464.º, na parte aplicável.
+Art. 492.º Tomadas de corrente. - Nas casas de espectáculo e diversão em recinto vedado deverá observar-se o disposto no artigo 464.º, na parte aplicável.
 
 5.3.4 - Estabelecimentos hospitalares e semelhantes
 
-###### Art. 493.º Classificação dos estabelecimentos hospitalares e semelhantes. - 1. Os estabelecimentos hospitalares e semelhantes são classificados, segundo o número de pessoas que nos mesmos podem ser admitidas, nos dois grupos seguintes:
+Art. 493.º Classificação dos estabelecimentos hospitalares e semelhantes. - 1. Os estabelecimentos hospitalares e semelhantes são classificados, segundo o número de pessoas que nos mesmos podem ser admitidas, nos dois grupos seguintes:
 
 1.º grupo: acima de 100 pessoas;
 
@@ -3979,7 +4046,7 @@ b) Outros locais franqueados ao público.
 
 3. Na determinação do número de pessoas que podem ser admitidas em estabelecimentos hospitalares e semelhantes deverá considerar-se o que pode existir, simultaneamente, num edifício, e não na totalidade de edifícios que podem constituir o estabelecimento hospitalar ou semelhante, devendo incluir-se não só o efectivo de doentes, mas também o de visitantes e o de pessoal adstrito à respectiva exploração.
 
-###### Art. 494.º Iluminação de emergência de segurança. - 1. Nos estabelecimentos hospitalares e semelhantes deverá existir iluminação de emergência de segurança nos locais seguintes:
+Art. 494.º Iluminação de emergência de segurança. - 1. Nos estabelecimentos hospitalares e semelhantes deverá existir iluminação de emergência de segurança nos locais seguintes:
 
 a) Quartos de dormir, dormitórios, enfermarias ou dependências análogas;
 
@@ -3991,29 +4058,29 @@ d) Circulações de acesso aos locais indicados nas alíneas anteriores.
 
 2. A instalação de iluminação de emergência de segurança deverá obedecer ao disposto no artigo 446.º, sendo dispensável para os estabelecimentos do 2.º grupo a existência de iluminação de ambiente.
 
-###### Art. 495.º Iluminação de vigília. - 1. Os quartos de dormir, dormitórios, enfermarias ou dependências análogas deverão ser dotados de iluminação de vigília permanecendo acesa toda a noite.
+Art. 495.º Iluminação de vigília. - 1. Os quartos de dormir, dormitórios, enfermarias ou dependências análogas deverão ser dotados de iluminação de vigília permanecendo acesa toda a noite.
 
 2. A iluminação de vigília, com excepção da dos quartos com menos de quatro camas, deverá ter comando acessível apenas a pessoal qualificado.
 
 3. Quando a iluminação de emergência de segurança estiver permanentemente ligada durante as horas em que a iluminação natural seja insuficiente, poderá ser dispensada a iluminação de vigília.
 
-###### Art. 496.º Aparelhos de iluminação. - Em estabelecimentos hospitalares e semelhantes, os aparelhos de iluminação dos locais acessíveis aos internados deverão, em regra, ser de tipo fixo.
+Art. 496.º Aparelhos de iluminação. - Em estabelecimentos hospitalares e semelhantes, os aparelhos de iluminação dos locais acessíveis aos internados deverão, em regra, ser de tipo fixo.
 
 Comentário. - A não obrigatoriedade da disposição prevista no artigo visa contemplar os casos de aparelhos de iluminação de quartos de dormir, dormitórios, enfermarias ou dependências análogas, que não sejam ocupados por crianças menores de 10 anos, alienados ou pessoas com faculdades mentais diminuídas, em que podem, por exemplo, ser empregados candeeiros do tipo de mesa de cabeceira.
 
-###### Art. 497.º Tomadas de corrente. - 1. Nos estabelecimentos hospitalares e semelhantes destinados a crianças ou diminuídos mentais não será permitida a instalação de tomadas de corrente nos locais em que aqueles possam permanecer, a menos que os respectivos circuitos sejam conservados desligados quando desnecessários.
+Art. 497.º Tomadas de corrente. - 1. Nos estabelecimentos hospitalares e semelhantes destinados a crianças ou diminuídos mentais não será permitida a instalação de tomadas de corrente nos locais em que aqueles possam permanecer, a menos que os respectivos circuitos sejam conservados desligados quando desnecessários.
 
 2. Os circuitos referidos no número anterior deverão ser distintos de circuitos destinados a outros fins e ser protegidos por aparelhos de protecção sensíveis à corrente diferencial-residual, de alta sensibilidade.
 
 Comentário. - Além das precauções referidas no artigo, recomenda-se que as tomadas de corrente sejam colocadas, pelo menos, a 1,60 m acima do pavimento e, se possível, sejam do tipo de alvéolos protegidos.
 
-###### Art. 498.º Aparelhos ou equipamentos de funcionamento essencial. - Em estabelecimentos hospitalares e semelhantes, nos locais em que sejam empregados aparelhos ou equipamentos cujo não funcionamento, em caso de falta de energia, possa acarretar perigo deverá existir uma fonte de alimentação de emergência de segurança independente da fonte de alimentação normal.
+Art. 498.º Aparelhos ou equipamentos de funcionamento essencial. - Em estabelecimentos hospitalares e semelhantes, nos locais em que sejam empregados aparelhos ou equipamentos cujo não funcionamento, em caso de falta de energia, possa acarretar perigo deverá existir uma fonte de alimentação de emergência de segurança independente da fonte de alimentação normal.
 
-###### Art. 499.º Locais com risco de explosão. - 1. Em estabelecimentos hospitalares e semelhantes, os locais onde se armazenem anestésicos ou desinfectantes inflamáveis ou explosivos deverão ser considerados como zonas perigosas de locais com risco de explosão do tipo 1.
+Art. 499.º Locais com risco de explosão. - 1. Em estabelecimentos hospitalares e semelhantes, os locais onde se armazenem anestésicos ou desinfectantes inflamáveis ou explosivos deverão ser considerados como zonas perigosas de locais com risco de explosão do tipo 1.
 
 2. Os locais onde se utilizem anestésicos inflamáveis deverão ser considerados como zonas perigosas de locais com risco de explosão do tipo 1, até à altura de 1,50 m acima do pavimento, e como zonas semiperigosas do mesmo tipo, daí para cima.
 
-###### Art. 500.º Instalações em zonas perigosas ou semiperigosas. - As instalações situadas no interior das zonas definidas no artigo 499.º deverão obedecer às disposições seguintes.:
+Art. 500.º Instalações em zonas perigosas ou semiperigosas. - As instalações situadas no interior das zonas definidas no artigo 499.º deverão obedecer às disposições seguintes.:
 
 a) Ser alimentadas em baixa tensão, por intermédio de circuitos separados obedecendo ao disposto no artigo 611.º;
 
@@ -4021,7 +4088,7 @@ b) Ser dotadas de aparelho de corte omnipolar;
 
 c) Ser dotadas de aparelhos de indicação de falta de isolamento à terra, funcionando desde que a resistência de isolamento do sistema desça abaixo de 60 k (Ómega) e concebido de forma que, nessas condições, a corrente de fuga não possa exceder 2 mA. O sistema deverá ficar instalado fora da zona perigosa e comportar duas lâmpadas visíveis pelo pessoal que trabalhe nesse local, sendo uma verde, que deve permanecer acesa enquanto a instalação estiver em boas condições de isolamento, e uma vermelha, associada a um sinal acústico que funcionará em caso de baixa de isolamento.
 
-###### Art. 501.º Canalizações e aparelhos de utilização a empregar em zonas perigosas ou semiperigosas. - 1. Os aparelhos de utilização a empregar em zonas perigosas ou semiperigosas não deverão funcionar a tensão superior a 8 V, desde que tenham partes activas acessíveis ou, quando estando frequentemente em contacto com o corpo humano, não sejam completamente envolvidos por invólucros condutores.
+Art. 501.º Canalizações e aparelhos de utilização a empregar em zonas perigosas ou semiperigosas. - 1. Os aparelhos de utilização a empregar em zonas perigosas ou semiperigosas não deverão funcionar a tensão superior a 8 V, desde que tenham partes activas acessíveis ou, quando estando frequentemente em contacto com o corpo humano, não sejam completamente envolvidos por invólucros condutores.
 
 2. As canalizações e os aparelhos a intercalar nas mesmas deverão obedecer às disposições seguintes:
 
@@ -4035,7 +4102,7 @@ d) Os aparelhos de contrôle ou de comando inseridos no circuito de 8 V deverão
 
 3. Os aparelhos de alta tensão ou de alta frequência, quando empregados ou manobrados no interior das zonas perigosas ou semiperigosas definidas no artigo 499.º, não deverão ter partes activas acessíveis e terão de ser dotados de meios convenientes para impedir a acumulação de electricidade estática.
 
-###### Art. 502.º Pavimentos antiestáticos. - Quando for necessário evitar os perigos da electricidade estática deverão ser previstos pavimentos antiestáticos.
+Art. 502.º Pavimentos antiestáticos. - Quando for necessário evitar os perigos da electricidade estática deverão ser previstos pavimentos antiestáticos.
 
 Comentário. - O aparecimento de electricidade estática nos pavimentos, em especial nos de salas de operações, pode originar riscos de explosão, devido à presença de gases anestésicos.
 
@@ -4043,7 +4110,7 @@ Os pavimentos antiestáticos podem ser constituídos por um recobrimento contín
 
 5.3.5 - Estabelecimentos de ensino, cultura, culto e semelhantes
 
-###### Art. 503.º Classificação dos estabelecimentos de ensino, cultura, culto e semelhantes. - 1. Os estabelecimentos de ensino, cultura, culto e semelhantes são classificados, segundo o número de pessoas que nos mesmos podem ser admitidos, nos dois grupos seguintes:
+Art. 503.º Classificação dos estabelecimentos de ensino, cultura, culto e semelhantes. - 1. Os estabelecimentos de ensino, cultura, culto e semelhantes são classificados, segundo o número de pessoas que nos mesmos podem ser admitidos, nos dois grupos seguintes:
 
 1.º grupo: acima de 200 pessoas;
 
@@ -4059,17 +4126,17 @@ Os pavimentos antiestáticos podem ser constituídos por um recobrimento contín
 
 Comentário. - São considerados como fazendo parte do público todas as pessoas admitidas no estabelecimento a qualquer título: alunos, professores, contínuos, fiéis, etc.
 
-###### Art. 504.º Iluminação de emergência de segurança. - Nos estabelecimentos de ensino, cultura, culto e semelhantes do 1.º grupo deverá existir iluminação de emergência de segurança, a qual poderá apenas assegurar a iluminação de circulação e a sinalização das saídas.
+Art. 504.º Iluminação de emergência de segurança. - Nos estabelecimentos de ensino, cultura, culto e semelhantes do 1.º grupo deverá existir iluminação de emergência de segurança, a qual poderá apenas assegurar a iluminação de circulação e a sinalização das saídas.
 
-###### Art. 505.º Aparelhos de iluminação. - Em estabelecimentos de ensino, cultura, culto e semelhantes, os aparelhos de iluminação deverão, em regra, ser de tipo fixo.
+Art. 505.º Aparelhos de iluminação. - Em estabelecimentos de ensino, cultura, culto e semelhantes, os aparelhos de iluminação deverão, em regra, ser de tipo fixo.
 
-###### Art. 506.º Tomadas de corrente. - Em estabelecimentos de ensino, cultura, culto e semelhantes será aplicável o disposto no artigo 497.º
+Art. 506.º Tomadas de corrente. - Em estabelecimentos de ensino, cultura, culto e semelhantes será aplicável o disposto no artigo 497.º
 
-###### Art. 507.º Locais com risco de incêndio. - Em estabelecimentos de ensino, cultura, culto e semelhantes, os locais destinados a bibliotecas, museus, arquivos e, de uma forma geral, todos os locais em que haja matérias facilmente combustíveis deverão ser considerados como locais com risco de incêndio do tipo 2.
+Art. 507.º Locais com risco de incêndio. - Em estabelecimentos de ensino, cultura, culto e semelhantes, os locais destinados a bibliotecas, museus, arquivos e, de uma forma geral, todos os locais em que haja matérias facilmente combustíveis deverão ser considerados como locais com risco de incêndio do tipo 2.
 
 5.3.6 - Estabelecimentos comerciais e semelhantes
 
-###### Art. 508.º Classificação dos estabelecimentos comerciais e semelhantes. - 1. Os estabelecimentos comerciais e semelhantes são classificados, segundo o número de pessoas que nos mesmos podem ser admitidos, nos dois grupos seguintes:
+Art. 508.º Classificação dos estabelecimentos comerciais e semelhantes. - 1. Os estabelecimentos comerciais e semelhantes são classificados, segundo o número de pessoas que nos mesmos podem ser admitidos, nos dois grupos seguintes:
 
 1.º grupo: acima de 200 pessoas;
 
@@ -4113,43 +4180,43 @@ Em qualquer piso: 1 pessoa/1 m2.
 
 4. Na determinação do número de pessoas deverá considerar-se o que pode existir, simultaneamente, num edifício, e não na totalidade de edifícios que podem constituir o estabelecimento comercial ou semelhante, devendo incluir-se não só o efectivo do público, mas também o do pessoal adstrito à respectiva exploração.
 
-###### Art. 509.º Potência mínima a considerar no dimensionamento das instalações de utilização de lojas e de pequenos estabelecimentos comerciais. - As instalações de utilização de lojas e de pequenos estabelecimentos comerciais deverão ser dimensionadas para potências não inferiores a 30 VA/m2, com o mínimo de 3,3 kVA.
+Art. 509.º Potência mínima a considerar no dimensionamento das instalações de utilização de lojas e de pequenos estabelecimentos comerciais. - As instalações de utilização de lojas e de pequenos estabelecimentos comerciais deverão ser dimensionadas para potências não inferiores a 30 VA/m2, com o mínimo de 3,3 kVA.
 
-###### Art. 510.º Iluminação de emergência de segurança. - 1. Nos estabelecimentos comerciais e semelhantes do 1.º grupo deverá existir iluminação de emergência de segurança obedecendo ao disposto no artigo 446.º
+Art. 510.º Iluminação de emergência de segurança. - 1. Nos estabelecimentos comerciais e semelhantes do 1.º grupo deverá existir iluminação de emergência de segurança obedecendo ao disposto no artigo 446.º
 
 2. Nos estabelecimentos comerciais e semelhantes do 2.º grupo, a iluminação de emergência de segurança poderá apenas assegurar a sinalização das saídas.
 
 3. O disposto no número anterior poderá, ainda, deixar de ser exigido nos estabelecimentos comerciais e semelhantes de área não superior a 50 m2 e nos casos que a fiscalização do Governo entenda tal não se justificar.
 
-###### Art. 511.º Locais com risco de incêndio. - Em estabelecimentos comerciais e semelhantes do 1.º grupo, os locais em que existam expostas ou armazenadas grandes quantidades de matérias facilmente combustíveis deverão ser considerados como locais com risco de incêndio do tipo 2.
+Art. 511.º Locais com risco de incêndio. - Em estabelecimentos comerciais e semelhantes do 1.º grupo, os locais em que existam expostas ou armazenadas grandes quantidades de matérias facilmente combustíveis deverão ser considerados como locais com risco de incêndio do tipo 2.
 
 Comentário. - O artigo visa, em especial, os grandes armazéns de artigos de vestuário, os supermercados e, de uma forma geral, todos os estabelecimentos em que, pela existência de matérias facilmente combustíveis e de público em elevado número, são de considerar riscos de incêndio.
 
-###### Art. 512.º Hotéis e estabelecimentos similares. - 1. Em hotéis e estabelecimentos similares, cada quarto deverá ser dotado de uma protecção contra sobreintensidades exclusiva do mesmo, a qual não deverá ser acessível ao público.
+Art. 512.º Hotéis e estabelecimentos similares. - 1. Em hotéis e estabelecimentos similares, cada quarto deverá ser dotado de uma protecção contra sobreintensidades exclusiva do mesmo, a qual não deverá ser acessível ao público.
 
 2. Nos quartos será dispensável a existência de iluminação de emergência de segurança.
 
 5.3.7 - Edifícios para uso colectivo
 
-###### Art. 513.º Edifícios para uso colectivo. - Em edifícios para uso colectivo, nos quais, pelo seu uso normal, possam permanecer ou circular mais de 200 pessoas, as respectivas zonas de circulação e acessos à via pública deverão ser dotados de iluminação de emergência de segurança destinada a assegurar a sinalização das saídas.
+Art. 513.º Edifícios para uso colectivo. - Em edifícios para uso colectivo, nos quais, pelo seu uso normal, possam permanecer ou circular mais de 200 pessoas, as respectivas zonas de circulação e acessos à via pública deverão ser dotados de iluminação de emergência de segurança destinada a assegurar a sinalização das saídas.
 
-###### Art. 514.º Edifícios residenciais de grande altura. - Em edifícios residenciais com mais de dez pisos acima do solo exterior será aplicável o disposto no artigo 513.º, independentemente do número de pessoas que no mesmo possam permanecer ou circular.
+Art. 514.º Edifícios residenciais de grande altura. - Em edifícios residenciais com mais de dez pisos acima do solo exterior será aplicável o disposto no artigo 513.º, independentemente do número de pessoas que no mesmo possam permanecer ou circular.
 
 5.4 - Estabelecimentos industriais
 
 5.4.1 - Disposições gerais
 
-###### Art. 515.º Iluminação de emergência de segurança. - 1. Em estabelecimentos industriais em que trabalhem mais de 200 pessoas deverá ser prevista iluminação de emergência de segurança assegurando iluminação de circulação e de sinalização das saídas.
+Art. 515.º Iluminação de emergência de segurança. - 1. Em estabelecimentos industriais em que trabalhem mais de 200 pessoas deverá ser prevista iluminação de emergência de segurança assegurando iluminação de circulação e de sinalização das saídas.
 
 2. Na determinação do número de pessoas referido no número anterior deverá considerar-se o que pode existir, simultaneamente, num edifício, e não na totalidade de edifícios que podem constituir o estabelecimento industrial.
 
 Comentário. - Casos há em que, independentemente do número de pessoas, pode haver perigo quando de uma repentina falta de visibilidade dos equipamentos que são empregados num local ou nos postos de trabalho propriamente ditos, pelo que se recomenda, nesses casos, a existência de uma iluminação de emergência de segurança.
 
-###### Art. 516.º Aparelhos contendo líquidos isolantes inflamáveis. - Em estabelecimentos industriais será permitido o emprego de aparelhos eléctricos contendo líquidos isolantes inflamáveis, desde que sejam tomadas medidas adequadas para que, em caso de derrame ou projecção do líquido, este seja escoado e não possa entrar em contacto com substâncias inflamáveis nem haja perigo para as pessoas ou aparelhos próximos.
+Art. 516.º Aparelhos contendo líquidos isolantes inflamáveis. - Em estabelecimentos industriais será permitido o emprego de aparelhos eléctricos contendo líquidos isolantes inflamáveis, desde que sejam tomadas medidas adequadas para que, em caso de derrame ou projecção do líquido, este seja escoado e não possa entrar em contacto com substâncias inflamáveis nem haja perigo para as pessoas ou aparelhos próximos.
 
 5.4.2 - Locais de pintura ou trabalhos semelhantes
 
-###### Art. 517.º Locais com risco de explosão. - 1. Em locais de pintura ou trabalhos semelhantes deverão ser consideradas como zonas perigosas de locais com risco de explosão do tipo 1 as seguintes:
+Art. 517.º Locais com risco de explosão. - 1. Em locais de pintura ou trabalhos semelhantes deverão ser consideradas como zonas perigosas de locais com risco de explosão do tipo 1 as seguintes:
 
 a) O interior de cabinas ou hotes de pintura e respectivas condutas de saída de ar;
 
@@ -4167,7 +4234,7 @@ b) O espaço de um local interior, destinado a pintura fora de cabinas ou botes,
 
 c) O espaço destinado a secagem de pintura, quando insuficientemente ventilado.
 
-###### Art. 518.º Iluminação de zonas perigosas. - 1. As zonas perigosas de locais de pintura ou trabalhos semelhantes deverão ser iluminadas por meio de aparelhos de iluminação fixos do tipo antideflagrante ou através de painéis de vidro ou outros materiais transparentes ou translúcidos.
+Art. 518.º Iluminação de zonas perigosas. - 1. As zonas perigosas de locais de pintura ou trabalhos semelhantes deverão ser iluminadas por meio de aparelhos de iluminação fixos do tipo antideflagrante ou através de painéis de vidro ou outros materiais transparentes ou translúcidos.
 
 2. No caso de emprego dos painéis referidos no número anterior, estes deverão satisfazer às condições seguintes:
 
@@ -4177,27 +4244,27 @@ b) Os aparelhos de iluminação serem de tipo fixo;
 
 c) Os aparelhos de iluminação encontrarem-se dispostos de forma que a temperatura do painel não ultrapasse a de inflamação dos depósitos combustíveis que nele se possam acumular.
 
-###### Art. 519.º Aparelhos eléctricos portáteis. - Os aparelhos eléctricos portáteis não deverão ser empregados dentro de zonas perigosas quando o equipamento de pintura esteja em funcionamento, excepto se forem do tipo antideflagrante.
+Art. 519.º Aparelhos eléctricos portáteis. - Os aparelhos eléctricos portáteis não deverão ser empregados dentro de zonas perigosas quando o equipamento de pintura esteja em funcionamento, excepto se forem do tipo antideflagrante.
 
 5.4.3 - Salas de electrólise ou de galvanostegia
 
-###### Art. 520.º Acessibilidade. - As salas de electrólise ou de galvanostegia deverão ser acessíveis apenas a pessoal qualificado.
+Art. 520.º Acessibilidade. - As salas de electrólise ou de galvanostegia deverão ser acessíveis apenas a pessoal qualificado.
 
-###### Art. 521.º Risco de explosão. - As salas de electrólise ou de galvanostegia, onde seja de recear a libertação de gases em quantidade suficiente para originar misturas explosivas, deverão ser consideradas como locais com risco de explosão do tipo 1.
+Art. 521.º Risco de explosão. - As salas de electrólise ou de galvanostegia, onde seja de recear a libertação de gases em quantidade suficiente para originar misturas explosivas, deverão ser consideradas como locais com risco de explosão do tipo 1.
 
-###### Art. 522.º Arranjo dos locais. - Os locais onde se encontrem instalados em permanência células de electrólise ou de galvanostegia deverão obedecer, na parte aplicável, ao disposto no artigo 563.º
+Art. 522.º Arranjo dos locais. - Os locais onde se encontrem instalados em permanência células de electrólise ou de galvanostegia deverão obedecer, na parte aplicável, ao disposto no artigo 563.º
 
-###### Art. 523.º Montagem das células ou tinas. - Na montagem das células ou tinas deverá observar-se o disposto no artigo 564.º
+Art. 523.º Montagem das células ou tinas. - Na montagem das células ou tinas deverá observar-se o disposto no artigo 564.º
 
-###### Art. 524.º Condições ambientes existentes. - As salas de electrólise ou de galvanostegia deverão ser consideradas como local de ambiente corrosivo.
+Art. 524.º Condições ambientes existentes. - As salas de electrólise ou de galvanostegia deverão ser consideradas como local de ambiente corrosivo.
 
-###### Art. 525.º Aparelhos eléctricos. - Os aparelhos de comando ou de contrôle das instalações de electrólise ou de galvanostegia deverão ser montados, de preferência, fora das salas em que se encontrem aquelas instalações.
+Art. 525.º Aparelhos eléctricos. - Os aparelhos de comando ou de contrôle das instalações de electrólise ou de galvanostegia deverão ser montados, de preferência, fora das salas em que se encontrem aquelas instalações.
 
 5.4.4 - Instalações de manuseamento de combustíveis líquidos ou gasosos
 
 5.4.4.1 - Instalações de armazenagem, transfega e enchimento
 
-###### Art. 526.º Locais com risco de explosão. - 1. Em locais de armazenagem de combustíveis líquidos ou gasosos deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
+Art. 526.º Locais com risco de explosão. - 1. Em locais de armazenagem de combustíveis líquidos ou gasosos deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
 
 a) Zonas perigosas:
 
@@ -4229,7 +4296,7 @@ A zona exterior do reservatório até 3 m ao lado e para cima;
 
 A zona da bacia dos tanques, quando exista, até à altura do respectivo muro de retenção;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 2) Reservatórios de gases sob pressão de densidade igual ou inferior a 0,9:
 
@@ -4241,7 +4308,7 @@ b) Zona semiperigosa:
 
 O tronco de cone de 40.º de abertura e diâmetro da base menor igual ao diâmetro do reservatório mais 10 m e ao nível do fundo do reservatório. A base maior fica a 5 m do topo do reservatório;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 3) Reservatórios de gases sob pressão de densidade superior a 0,9:
 
@@ -4257,7 +4324,7 @@ A do cilindro com diâmetro igual ao do reservatório mais 30 m, desde 0,50 m ac
 
 O tronco de cone cuja base menor está ao nível do topo do reservatório e tem diâmetro igual ao do reservatório mais 10 m e cuja base maior é a do cilindro mais alto atrás referido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 3. Os locais de transfega e enchimento de combustíveis gasosos deverão ser considerados como zonas perigosas de locais com risco de explosão do tipo 1.
 
@@ -4265,11 +4332,11 @@ O tronco de cone cuja base menor está ao nível do topo do reservatório e tem 
 
 Comentário. - De acordo com a respectiva legislação em vigor, os carros-tanques ou os vagões-cisternas apenas podem entrar em oficinas para reparação quando devidamente desgasificados, não interessando para o caso que a instalação dessas oficinas seja ou não antideflagrante.
 
-###### Art. 527.º Zonas não perigosas. - Nas zonas não perigosas situadas por cima de zonas perigosas ou semiperigosas, os aparelhos que contenham elementos que possam funcionar a temperatura elevada ou causar arcos ou faíscas deverão ser de tipo fechado, impedindo que parte desses elementos ou partículas quentes, que se desagreguem ou sejam projectadas, possam cair dentro da zona perigosa ou semiperigosa.
+Art. 527.º Zonas não perigosas. - Nas zonas não perigosas situadas por cima de zonas perigosas ou semiperigosas, os aparelhos que contenham elementos que possam funcionar a temperatura elevada ou causar arcos ou faíscas deverão ser de tipo fechado, impedindo que parte desses elementos ou partículas quentes, que se desagreguem ou sejam projectadas, possam cair dentro da zona perigosa ou semiperigosa.
 
 5.4.4.2 - Postos de distribuição
 
-###### Art. 528.º Locais com risco de explosão. - Em postos de distribuição de combustíveis líquidos deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
+Art. 528.º Locais com risco de explosão. - Em postos de distribuição de combustíveis líquidos deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
 
 a) Zonas perigosas:
 
@@ -4283,19 +4350,19 @@ A zona situada a menos de 6,50 m de uma bomba de distribuição ou dispositivo e
 
 Qualquer construção situada nesta zona e que dela não seja convenientemente isolada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
-###### Art. 529.º Dispositivos de bloqueio. - 1. Nas canalizações constituídas por condutores isolados ou cabos, protegidos por tubos, deverão colocar-se dispositivos de bloqueio nos limites horizontais e nos limites verticais das zonas perigosas e, ainda, em todas as canalizações que entrem ou saiam de bombas ou de quaisquer caixas ou invólucros situados dentro daquelas zonas.
+Art. 529.º Dispositivos de bloqueio. - 1. Nas canalizações constituídas por condutores isolados ou cabos, protegidos por tubos, deverão colocar-se dispositivos de bloqueio nos limites horizontais e nos limites verticais das zonas perigosas e, ainda, em todas as canalizações que entrem ou saiam de bombas ou de quaisquer caixas ou invólucros situados dentro daquelas zonas.
 
 2. Entre o dispositivo de bloqueio situado à saída da zona perigosa e o que se encontra à entrada de uma bomba ou outro aparelho, a canalização não deverá apresentar qualquer descontinuidade constituída por qualquer aparelho de ligação.
 
-###### Art. 530.º Aparelhos de corte. - Os circuitos alimentando ou atravessando uma zona perigosa de um posto de distribuição de combustíveis líquidos deverão ser dotados de aparelhos de corte omnipolar situados fora dessa zona. Quando tal não for possível, os aparelhos de corte deverão ser do tipo antideflagrante.
+Art. 530.º Aparelhos de corte. - Os circuitos alimentando ou atravessando uma zona perigosa de um posto de distribuição de combustíveis líquidos deverão ser dotados de aparelhos de corte omnipolar situados fora dessa zona. Quando tal não for possível, os aparelhos de corte deverão ser do tipo antideflagrante.
 
-###### Art. 531.º Condições ambientes existentes. - As instalações de utilização estabelecidas em postos de distribuição de combustíveis líquidos deverão, ainda, obedecer às disposições dos artigos 532.º a 535.º, na parte aplicável.
+Art. 531.º Condições ambientes existentes. - As instalações de utilização estabelecidas em postos de distribuição de combustíveis líquidos deverão, ainda, obedecer às disposições dos artigos 532.º a 535.º, na parte aplicável.
 
 5.4.5 - Garagens públicas
 
-###### Art. 532.º Locais com risco de explosão. - 1. Em garagens públicas deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
+Art. 532.º Locais com risco de explosão. - 1. Em garagens públicas deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
 
 a) Zonas perigosas:
 
@@ -4309,17 +4376,17 @@ Os pisos situados abaixo do nível do solo até 0,50 m acima da parte inferior d
 
 2. As zonas adjacentes às referidas na alínea b) do número anterior deverão ser consideradas como não perigosas, desde que o seu pavimento se encontre acima da zona perigosa ou seja separada desta por paredes estanques a gases.
 
-###### Art. 533.º Zonas não perigosas. - Nas zonas não perigosas, mas situadas por cima de zonas perigosas ou semiperigosas, os aparelhos instalados a menos de 3,50 m do pavimento e que contenham elementos que possam funcionar a temperatura elevada ou causar arcos ou faíscas deverão obedecer ao disposto no artigo 527.º
+Art. 533.º Zonas não perigosas. - Nas zonas não perigosas, mas situadas por cima de zonas perigosas ou semiperigosas, os aparelhos instalados a menos de 3,50 m do pavimento e que contenham elementos que possam funcionar a temperatura elevada ou causar arcos ou faíscas deverão obedecer ao disposto no artigo 527.º
 
-###### Art. 534.º Baterias de acumuladores. - Nas zonas consideradas como perigosas ou semiperigosas não poderão ser armazenadas baterias de acumuladores ou nelas ser feita a sua carga.
+Art. 534.º Baterias de acumuladores. - Nas zonas consideradas como perigosas ou semiperigosas não poderão ser armazenadas baterias de acumuladores ou nelas ser feita a sua carga.
 
-###### Art. 535.º Localização dos aparelhos intercalados nas canalizações. - Os aparelhos intercalados nas canalizações deverão ser colocados a uma altura acima do pavimento superior a 1 m, devendo ser tomadas precauções para evitar que o movimento de veículos os possa danificar.
+Art. 535.º Localização dos aparelhos intercalados nas canalizações. - Os aparelhos intercalados nas canalizações deverão ser colocados a uma altura acima do pavimento superior a 1 m, devendo ser tomadas precauções para evitar que o movimento de veículos os possa danificar.
 
-###### Art. 536.º Estações de serviço. - Às estações de serviço onde se faça lavagem ou lubrificação de veículos serão aplicáveis as disposições dos artigos 532.º a 535.º
+Art. 536.º Estações de serviço. - Às estações de serviço onde se faça lavagem ou lubrificação de veículos serão aplicáveis as disposições dos artigos 532.º a 535.º
 
 5.4.6 - Hangares para aeronaves
 
-###### Art. 537.º Locais com risco de explosão. - Em hangares para aeronaves deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
+Art. 537.º Locais com risco de explosão. - Em hangares para aeronaves deverão ser considerados como locais com risco de explosão do tipo 1 as zonas seguintes:
 
 a) Zonas perigosas:
 
@@ -4333,25 +4400,25 @@ As zonas compreendidas desde o pavimento até 0,50 m acima deste;
 
 As zonas compreendidas entre o pavimento e a superfície passando a 1,50 m acima da superfície superior das asas das aeronaves e distando horizontalmente menos de 1,50 m dos motores ou depósitos de combustíveis para aeronaves.
 
-###### Art. 538.º Zonas não perigosas. - 1. Nas zonas não perigosas situadas por cima de zonas perigosas ou semiperigosas, as canalizações deverão ser dos tipos permitidos para zonas semiperigosas de locais com risco de explosão do tipo 1.
+Art. 538.º Zonas não perigosas. - 1. Nas zonas não perigosas situadas por cima de zonas perigosas ou semiperigosas, as canalizações deverão ser dos tipos permitidos para zonas semiperigosas de locais com risco de explosão do tipo 1.
 
 2. Nas zonas não perigosas referidas no número anterior, os aparelhos situados a menos de 3 m da superfície superior das asas, depósitos de combustível ou motores de aeronaves e que contenham elementos que possam funcionar a temperatura elevada ou causar arcos ou faíscas deverão obedecer ao disposto no artigo 527.º
 
-###### Art. 539.º Aparelhos de iluminação portáteis. - Os aparelhos de iluminação portáteis que possam ser usados dentro de hangares para aeronaves deverão ser do tipo antideflagrante.
+Art. 539.º Aparelhos de iluminação portáteis. - Os aparelhos de iluminação portáteis que possam ser usados dentro de hangares para aeronaves deverão ser do tipo antideflagrante.
 
-###### Art. 540.º Aparelhos amovíveis. - 1. Os aparelhos amovíveis usados no interior de hangares para aeronaves deverão ser dos tipos previstos para zonas semiperigosas de locais com risco de explosão do tipo 1, a menos que estejam construídos ou sejam utilizados por forma a não terem partes activas a menos de 0,50 m do pavimento.
+Art. 540.º Aparelhos amovíveis. - 1. Os aparelhos amovíveis usados no interior de hangares para aeronaves deverão ser dos tipos previstos para zonas semiperigosas de locais com risco de explosão do tipo 1, a menos que estejam construídos ou sejam utilizados por forma a não terem partes activas a menos de 0,50 m do pavimento.
 
 2. Os aparelhos de carga ou de contrôle de baterias de acumuladores não poderão ser instalados no interior de zonas perigosas ou semiperigosas.
 
 5.5 - Estabelecimentos agrícolas ou pecuários
 
-###### Art. 541.º Instalações de utilização. - Em estabelecimentos agrícolas ou pecuários nas zonas afectas directamente à respectiva exploração, as instalações de utilização deverão ser reduzidas ao mínimo indispensável.
+Art. 541.º Instalações de utilização. - Em estabelecimentos agrícolas ou pecuários nas zonas afectas directamente à respectiva exploração, as instalações de utilização deverão ser reduzidas ao mínimo indispensável.
 
-###### Art. 542.º Celeiros, silos para cereais, palheiros e locais similares. - O interior de celeiros, silos para cereais, palheiros e locais similares deverá ser considerado como local com risco de incêndio do tipo 1.
+Art. 542.º Celeiros, silos para cereais, palheiros e locais similares. - O interior de celeiros, silos para cereais, palheiros e locais similares deverá ser considerado como local com risco de incêndio do tipo 1.
 
 Comentário. - Os elementos das canalizações eléctricas não devem ser montados na área de armazenagem abaixo do nível que pode ser atingido pelo material armazenado, a menos que esses elementos sejam expressamente concebidos para esse fim e seja indispensável a sua montagem nessas condições, como é o caso de aparelhos de contrôle de temperatura.
 
-###### Art. 543.º Locais de recolha de animais, nitreiras, estrumeiras, silos para forragens verdes e outros semelhantes. - 1. O interior de locais de recolha de animais, nitreiras, estrumeiras, silos para forragens verdes e outros semelhantes onde possa haver acumulação de produtos azotados deverá ser considerado como local molhado e local com ambiente corrosivo.
+Art. 543.º Locais de recolha de animais, nitreiras, estrumeiras, silos para forragens verdes e outros semelhantes. - 1. O interior de locais de recolha de animais, nitreiras, estrumeiras, silos para forragens verdes e outros semelhantes onde possa haver acumulação de produtos azotados deverá ser considerado como local molhado e local com ambiente corrosivo.
 
 2. As instalações de utilização no interior dos locais referidos no número anterior deverão obedecer às prescrições seguintes:
 
@@ -4369,7 +4436,7 @@ e) Os aparelhos de comando ou protecção deverão ser colocados, tanto quanto p
 
 5.6.1 - Casas de banho, balneários e semelhantes
 
-###### Art. 544.º Classificação das zonas. - Nas casas de banho, balneários e semelhantes, em relação a banheiras ou bacias de chuveiro, deverão ser considerados os volumes seguintes:
+Art. 544.º Classificação das zonas. - Nas casas de banho, balneários e semelhantes, em relação a banheiras ou bacias de chuveiro, deverão ser considerados os volumes seguintes:
 
 a) Volume de interdição, limitado por:
 
@@ -4383,15 +4450,15 @@ Superfície lateral do volume de interdição;
 
 Planos verticais situados a 1 m à volta dos bordos livres da banheira ou da bacia do chuveiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
-###### Art. 545.º Canalizações e aparelhos no volume de interdição. - 1. No volume de interdição, as canalizações eléctricas apenas poderão ser do tipo embebido e constituídas por condutores isolados ou cabos, protegidos por tubos isolantes.
+Art. 545.º Canalizações e aparelhos no volume de interdição. - 1. No volume de interdição, as canalizações eléctricas apenas poderão ser do tipo embebido e constituídas por condutores isolados ou cabos, protegidos por tubos isolantes.
 
 2. No volume de interdição não poderá ser instalado qualquer aparelho.
 
 Comentário. - Os aparelhos a que se refere o n.º 2 do artigo são os aparelhos intercalados nas canalizações (interruptores, comutadores, tomadas de corrente, aparelhos de ligação, etc.) e os de utilização.
 
-###### Art. 546.º Canalizações e aparelhos no volume de protecção. - 1. No volume de protecção, as canalizações eléctricas deverão obedecer ao disposto no n.º 1 do artigo 545.º
+Art. 546.º Canalizações e aparelhos no volume de protecção. - 1. No volume de protecção, as canalizações eléctricas deverão obedecer ao disposto no n.º 1 do artigo 545.º
 
 2. No volume de protecção não poderá ser instalado qualquer aparelho de corte, comando ou protecção, à excepção de botões de sinalização com comando por cordão isolante, desde que alimentados em tensão reduzida ou por intermédio de transformador de isolamento da classe II.
 
@@ -4405,7 +4472,7 @@ Comentário. - A razão por que não se permite a instalação de aparelhos de a
 
 Recomenda-se que seja fixado nos termoacumuladores, ou colocado na sua proximidade imediata, um aviso, facilmente legível e durável, com os dizeres seguintes: «Cortar a corrente antes de abrir a tampa do termoacumulador e não ligar novamente sem a tampa estar colocada.»
 
-###### Art. 547.º Canalizações e aparelhos fora dos volumes de interdição e de protecção. - 1. As canalizações a empregar fora dos volumes de interdição e de protecção apenas poderão ser constituídas por condutores isolados ou cabos, protegidos por tubos isolantes, ou por cabos com bainha isolante e não dotados de armadura.
+Art. 547.º Canalizações e aparelhos fora dos volumes de interdição e de protecção. - 1. As canalizações a empregar fora dos volumes de interdição e de protecção apenas poderão ser constituídas por condutores isolados ou cabos, protegidos por tubos isolantes, ou por cabos com bainha isolante e não dotados de armadura.
 
 2. Os aparelhos de ligação e de corte ou comando não poderão ter qualquer parte metálica acessível, com excepção dos contactos de terra das tomadas.
 
@@ -4419,13 +4486,13 @@ c) Suspensões com contrapeso.
 
 Comentário. - Fora dos volumes de interdição e de protecção recomenda-se observar o disposto no n.º 4 do artigo 546.º
 
-###### Art. 548.º Aparelhos de utilização móveis ou portáteis. - Nas casas de banho, balneários e semelhantes não será permitido o emprego de aparelhos de utilização móveis ou portáteis, excepto se forem da classe II de isolamento.
+Art. 548.º Aparelhos de utilização móveis ou portáteis. - Nas casas de banho, balneários e semelhantes não será permitido o emprego de aparelhos de utilização móveis ou portáteis, excepto se forem da classe II de isolamento.
 
 5.6.2 - Piscinas e semelhantes
 
-###### Art. 549.º Aparelhos de iluminação ambiente. - Os aparelhos de iluminação ambiente deverão ser fixos e ser montados de forma que fiquem a mais de 3 m de qualquer local acessível a pessoas.
+Art. 549.º Aparelhos de iluminação ambiente. - Os aparelhos de iluminação ambiente deverão ser fixos e ser montados de forma que fiquem a mais de 3 m de qualquer local acessível a pessoas.
 
-###### Art. 550.º Aparelhos de iluminação subaquática. - 1. Os aparelhos de iluminação subaquática deverão ser de um dos tipos seguintes:
+Art. 550.º Aparelhos de iluminação subaquática. - 1. Os aparelhos de iluminação subaquática deverão ser de um dos tipos seguintes:
 
 a) Do tipo não submersível, dispostos por trás de óculos ou vigias em galeria técnica não acessível ao público;
 
@@ -4435,7 +4502,7 @@ b) Do tipo submersível, constituídos por projectores estanques à imersão.
 
 3. No caso de emprego dos aparelhos referidos na alínea b) do n.º 1, os projectores deverão ser alimentados a tensão reduzida de segurança não superior a 12 V. Se os projectores forem fixos, poderá empregar-se um transformador de isolamento para alimentar vários projectores.
 
-###### Art. 551.º Aparelhos móveis ou portáteis. - 1. Nas piscinas e semelhantes não será permitido o emprego de aparelhos eléctricos móveis ou portáteis, a não ser a título excepcional para execução de reparações, quando aquelas não estejam a ser utilizadas.
+Art. 551.º Aparelhos móveis ou portáteis. - 1. Nas piscinas e semelhantes não será permitido o emprego de aparelhos eléctricos móveis ou portáteis, a não ser a título excepcional para execução de reparações, quando aquelas não estejam a ser utilizadas.
 
 2. Admitir-se-á o emprego de aparelhos de massagem ou de electro-medicina, desde que alimentados por meio de transformadores de isolamento e previamente aprovados pela fiscalização do Governo.
 
@@ -4443,45 +4510,45 @@ b) Do tipo submersível, constituídos por projectores estanques à imersão.
 
 5.7.1 - Locais afectos a serviços eléctricos
 
-###### Art. 552.º Acessibilidade. - 1. Os locais afectos a serviços eléctricos deverão ser acessíveis apenas a pessoas qualificadas e devidamente instruídas na manobra dos aparelhos neles contidos e sobre os riscos inerentes ao seu incorrecto manejo.
+Art. 552.º Acessibilidade. - 1. Os locais afectos a serviços eléctricos deverão ser acessíveis apenas a pessoas qualificadas e devidamente instruídas na manobra dos aparelhos neles contidos e sobre os riscos inerentes ao seu incorrecto manejo.
 
 2. Os locais afectos a serviços eléctricos deverão ser escolhidos de forma que o acesso ao exterior seja fácil e, tanto quanto possível, independente, embora deva ser garantido também o acesso pelo interior do edifício.
 
 Comentário. - Por acesso exterior fácil deve entender-se uma comunicação directa com a via pública ou com o exterior ou, se não for directa, que não seja necessário recorrer a terceiros para assegurar o acesso.
 
-###### Art. 553.º Localização. - 1. Os locais afectos a serviços eléctricos deverão ser separados de outros locais a que o público tenha acesso e, se forem contíguos a locais deste tipo, serão dotados de paredes de resistência e insonorização convenientes para que os efeitos mecânicos ou acústicos resultantes da manobra dos aparelhos ou de avarias nos mesmos se não possam transmitir aos referidos locais.
+Art. 553.º Localização. - 1. Os locais afectos a serviços eléctricos deverão ser separados de outros locais a que o público tenha acesso e, se forem contíguos a locais deste tipo, serão dotados de paredes de resistência e insonorização convenientes para que os efeitos mecânicos ou acústicos resultantes da manobra dos aparelhos ou de avarias nos mesmos se não possam transmitir aos referidos locais.
 
 2. A disposição dos locais afectos a serviços eléctricos deverá ser tal que um acidente no seu interior não possa causar obstáculos à evacuação das pessoas ou à prestação de socorros ou originar situações de perigo.
 
-###### Art. 554.º Construção. - Na construção dos locais afectos a serviços eléctricos deverão ser consideradas as solicitações resultantes do funcionamento dos aparelhos em condições normais ou anormais previsíveis, ser empregados materiais incombustíveis e ser observadas, na parte aplicável, as disposições do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento.
+Art. 554.º Construção. - Na construção dos locais afectos a serviços eléctricos deverão ser consideradas as solicitações resultantes do funcionamento dos aparelhos em condições normais ou anormais previsíveis, ser empregados materiais incombustíveis e ser observadas, na parte aplicável, as disposições do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento.
 
-###### Art. 555.º Tipos de canalizações. - Em locais afectos a serviços eléctricos poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento.
+Art. 555.º Tipos de canalizações. - Em locais afectos a serviços eléctricos poderão ser empregados quaisquer dos tipos de canalizações considerados neste Regulamento.
 
-###### Art. 556.º Aparelhos com peças nuas sob tensão. - Em locais afectos a serviços eléctricos será permitido o emprego de aparelhos com peças nuas sob tensão.
+Art. 556.º Aparelhos com peças nuas sob tensão. - Em locais afectos a serviços eléctricos será permitido o emprego de aparelhos com peças nuas sob tensão.
 
-###### Art. 557.º Quadros. - Em locais afectos a serviços eléctricos será permitido o emprego de qualquer dos tipos de quadros considerados neste Regulamento.
+Art. 557.º Quadros. - Em locais afectos a serviços eléctricos será permitido o emprego de qualquer dos tipos de quadros considerados neste Regulamento.
 
-###### Art. 558.º Utilização dos locais. - 1. Os locais afectos a serviços eléctricos deverão ser utilizados apenas para o fim a que expressamente se destinam, não sendo permitido a armazenagem, no seu interior, de qualquer material que não seja necessário à manutenção ou manobra dos aparelhos neles instalados.
+Art. 558.º Utilização dos locais. - 1. Os locais afectos a serviços eléctricos deverão ser utilizados apenas para o fim a que expressamente se destinam, não sendo permitido a armazenagem, no seu interior, de qualquer material que não seja necessário à manutenção ou manobra dos aparelhos neles instalados.
 
 2. Os locais afectos a serviços eléctricos não deverão ser atravessados por canalizações estranhas aos mesmos.
 
-###### Art. 559.º Iluminação de emergência de segurança. - Os locais afectos a serviços eléctricos deverão ser dotados de instalação de iluminação de emergência de segurança, desde que façam parte de locais em que a mesma seja exigível.
+Art. 559.º Iluminação de emergência de segurança. - Os locais afectos a serviços eléctricos deverão ser dotados de instalação de iluminação de emergência de segurança, desde que façam parte de locais em que a mesma seja exigível.
 
-###### Art. 560.º Aparelhos contendo líquidos isolantes inflamáveis. - Em locais afectos a serviços eléctricos será permitido o emprego de aparelhos eléctricos contendo líquidos isolantes inflamáveis ou susceptíveis de provocar explosão, desde que sejam tomadas as medidas referidas no artigo 516.º
+Art. 560.º Aparelhos contendo líquidos isolantes inflamáveis. - Em locais afectos a serviços eléctricos será permitido o emprego de aparelhos eléctricos contendo líquidos isolantes inflamáveis ou susceptíveis de provocar explosão, desde que sejam tomadas as medidas referidas no artigo 516.º
 
 5.7.2 - Outros locais afectos a serviços técnicos
 
 5.7.2.1 - Centrais de aquecimento ou de ar condicionado
 
-###### Art. 561.º Corte geral. - Junto à porta de entrada dos locais de centrais de aquecimento ou de ar condicionado e fora dos mesmos deverá existir um aparelho de corte ou comando a distância que desligue os aparelhos que, em caso de avaria, possam tornar-se perigosos.
+Art. 561.º Corte geral. - Junto à porta de entrada dos locais de centrais de aquecimento ou de ar condicionado e fora dos mesmos deverá existir um aparelho de corte ou comando a distância que desligue os aparelhos que, em caso de avaria, possam tornar-se perigosos.
 
 5.7.2.2 - Salas de baterias de acumuladores
 
-###### Art. 562.º Risco de incêndio ou de explosão. - 1. No interior de salas de baterias de acumuladores não será permitido utilizar luz de chama nua, fumar e fazer lume de qualquer espécie.
+Art. 562.º Risco de incêndio ou de explosão. - 1. No interior de salas de baterias de acumuladores não será permitido utilizar luz de chama nua, fumar e fazer lume de qualquer espécie.
 
 2. As salas de baterias onde seja de recear a libertação de gases em quantidade suficiente para originar misturas explosivas deverão ser consideradas como locais com risco de explosão do tipo 1.
 
-###### Art. 563.º Arranjo dos locais. - 1. As salas onde se encontrem instaladas baterias de acumuladores de capacidade energética superior a 5 kVAh para descarga em 5 h deverão obedecer às disposições do artigo 313.º e, ainda, às seguintes:
+Art. 563.º Arranjo dos locais. - 1. As salas onde se encontrem instaladas baterias de acumuladores de capacidade energética superior a 5 kVAh para descarga em 5 h deverão obedecer às disposições do artigo 313.º e, ainda, às seguintes:
 
 a) Serem reservados exclusivamente às baterias e instalações complementares e apenas acessíveis a pessoal qualificado;
 
@@ -4493,7 +4560,7 @@ c) Não conterem objectos ou estruturas metálicas ou, quando estas sejam indisp
 
 Comentário. - Recomenda-se que as salas destinadas à instalação de baterias sejam amplas e que os vidros das respectivas janelas sejam azuis ou pintados de azul.
 
-###### Art. 564.º Montagem das baterias. - 1. As células ou elementos das baterias de acumuladores deverão ficar dispostos por forma a serem facilmente acessíveis em serviço normal ou para manutenção.
+Art. 564.º Montagem das baterias. - 1. As células ou elementos das baterias de acumuladores deverão ficar dispostos por forma a serem facilmente acessíveis em serviço normal ou para manutenção.
 
 2. Os elementos das baterias deverão ser dispostos de forma que não seja possível tocar, simultaneamente, duas peças condutoras entre as quais exista uma tensão superior a 150 V.
 
@@ -4505,25 +4572,25 @@ Comentário. - Recomenda-se que as salas destinadas à instalação de baterias 
 
 Comentário. - Recomenda-se que o pessoal encarregado da manutenção de baterias seja equipado com botas, luvas e aventais de borracha.
 
-###### Art. 565.º Tipos de canalizações. - No interior das salas de acumuladores deverão ser empregados os mesmos tipos de canalizações previstos no artigo 524.º
+Art. 565.º Tipos de canalizações. - No interior das salas de acumuladores deverão ser empregados os mesmos tipos de canalizações previstos no artigo 524.º
 
-###### Art. 566.º Tipos de aparelhos. - Aos aparelhos a instalar em salas de baterias será aplicável o disposto no artigo 525.º
+Art. 566.º Tipos de aparelhos. - Aos aparelhos a instalar em salas de baterias será aplicável o disposto no artigo 525.º
 
 6 - Protecção das instalações
 
 6.1 - Disposições gerais
 
-###### Art. 567.º Protecção das instalações de utilização. - 1. As instalações de utilização deverão ser convenientemente protegidas por aparelhos cuja actuação automática, oportuna e segura impeça que os valores característicos da corrente ou da tensão da instalação ultrapassem os limites de segurança da própria instalação.
+Art. 567.º Protecção das instalações de utilização. - 1. As instalações de utilização deverão ser convenientemente protegidas por aparelhos cuja actuação automática, oportuna e segura impeça que os valores característicos da corrente ou da tensão da instalação ultrapassem os limites de segurança da própria instalação.
 
 2. Os aparelhos de protecção deverão ser instalados nos locais com condições ambientes mais favoráveis e, em regra, facilmente acessíveis e adequados, podendo os de protecção de aparelhos de utilização ficar incorporados nos mesmos, de forma que a sua substituição se possa fazer sem perigo.
 
-###### Art. 568.º Religação automático de aparelhos de utilização. - Os aparelhos de protecção dos aparelhos de utilização não deverão permitir a sua religação automática, desde que possa resultar perigo para os próprios aparelhos ou para as pessoas ou coisas.
+Art. 568.º Religação automático de aparelhos de utilização. - Os aparelhos de protecção dos aparelhos de utilização não deverão permitir a sua religação automática, desde que possa resultar perigo para os próprios aparelhos ou para as pessoas ou coisas.
 
 6.2 - Protecção contra sobreintensidades
 
 6.2.1 - Generalidades
 
-###### Art. 569.º Protecção das instalações de utilização contra sobreintensidades. - 1. As instalações de utilização deverão ser convenientemente protegidas contra sobreintensidades.
+Art. 569.º Protecção das instalações de utilização contra sobreintensidades. - 1. As instalações de utilização deverão ser convenientemente protegidas contra sobreintensidades.
 
 2. A protecção contra sobrecargas deverá ser estabelecida de modo a impedir que sejam ultrapassadas as intensidades de corrente máximas admissíveis nas canalizações e nos aparelhos.
 
@@ -4531,7 +4598,7 @@ Comentário. - Recomenda-se que o pessoal encarregado da manutenção de bateria
 
 Comentário. - O disposto no n.º 2 do artigo visa impedir que a passagem prolongada de uma corrente de valor superior à máxima admissível numa canalização ou num aparelho possa provocar um aquecimento prejudicial ao respectivo isolamento.
 
-###### Art. 570.º Aparelhos de protecção contra sobrecargas. - 1. Os aparelhos destinados a assegurar unicamente a protecção contra sobrecargas deverão, em regra, possuir uma característica de funcionamento de tempo inverso, podendo ter poder de corte inferior à corrente de curto-circuito previsível no ponto da instalação em que forem estabelecidos, desde que existam nessa instalação, em série e a montante desses aparelhos, outros aparelhos de protecção obedecendo ao disposto no n.º 2 do artigo 571.º
+Art. 570.º Aparelhos de protecção contra sobrecargas. - 1. Os aparelhos destinados a assegurar unicamente a protecção contra sobrecargas deverão, em regra, possuir uma característica de funcionamento de tempo inverso, podendo ter poder de corte inferior à corrente de curto-circuito previsível no ponto da instalação em que forem estabelecidos, desde que existam nessa instalação, em série e a montante desses aparelhos, outros aparelhos de protecção obedecendo ao disposto no n.º 2 do artigo 571.º
 
 2. Os aparelhos destinados a assegurar simultaneamente a protecção contra sobrecargas e contra curtos-circuitos deverão possuir poder de corte que lhes permita eliminar, com segurança, a corrente de curto-circuito previsível no ponto da instalação em que forem estabelecidos.
 
@@ -4539,7 +4606,7 @@ Comentários. - 1. Entre os aparelhos que asseguram unicamente a protecção con
 
 2. Entre os aparelhos que podem assegurar simultaneamente a protecção contra sobrecargas e contra curtos-circuitos citam-se, por exemplo, os disjuntores de máximo de corrente (associados, eventualmente, a corta-circuitos fusíveis da classe aM) e os corta-circuitos fusíveis das classes gF ou gT.
 
-###### Art. 571.º Aparelhos de protecção contra curtos-circuitos. - 1. Os aparelhos destinados a assegurar a protecção contra curtos-circuitos deverão ter poder de corte, pelo menos, igual à corrente de curto-circuito previsível no ponto da instalação em que forem estabelecidos e um tempo de corte de uma corrente resultante de um curto-circuito franco, que se produza em qualquer ponto do circuito em que forem inseridos, inferior ao tempo a partir do qual a passagem dessa corrente de curto-circuito possa alterar de forma permanente as características da instalação.
+Art. 571.º Aparelhos de protecção contra curtos-circuitos. - 1. Os aparelhos destinados a assegurar a protecção contra curtos-circuitos deverão ter poder de corte, pelo menos, igual à corrente de curto-circuito previsível no ponto da instalação em que forem estabelecidos e um tempo de corte de uma corrente resultante de um curto-circuito franco, que se produza em qualquer ponto do circuito em que forem inseridos, inferior ao tempo a partir do qual a passagem dessa corrente de curto-circuito possa alterar de forma permanente as características da instalação.
 
 2. Admitir-se-á o emprego de aparelhos de protecção com poder de corte inferior à corrente de curto-circuito previsível no ponto da instalação em que forem estabelecidos, desde que existam, em série e a montante desses aparelhos, outros aparelhos de protecção com poder de corte adequado. Além disso, as características do conjunto dos aparelhos de protecção deverão ser tais que os aparelhos existentes a jusante cortem as correntes de curto-circuito de intensidade inferior ao seu poder de corte e, para as de intensidade superior, o tempo de corte do aparelho situado a montante seja menor que o do aparelho situado a jusante.
 
@@ -4547,13 +4614,13 @@ Comentários. - 1. O disposto no n.º 2 do artigo visa o emprego, por exemplo, d
 
 2. Recomenda-se que os aparelhos de protecção com poder de corte reduzido, a que se refere o n.º 2 do artigo e o comentário anterior, sejam dotados de protecção mecânica evitando a eventual projecção de estilhaços.
 
-###### Art. 572.º Inalterabilidade das intensidades de funcionamento dos aparelhos de protecção contra sobreintensidades. - A intensidade de funcionamento dos aparelhos de protecção contra sobreintensidades não deverá ser alterada indevidamente.
+Art. 572.º Inalterabilidade das intensidades de funcionamento dos aparelhos de protecção contra sobreintensidades. - A intensidade de funcionamento dos aparelhos de protecção contra sobreintensidades não deverá ser alterada indevidamente.
 
 Comentários. - 1. O artigo visa, em especial, os corta-circuitos fusíveis, os quais devem ser substituídos quando fundidos, não sendo permitido o seu reforço, apenas sendo de admitir a sua recarga quando haja a garantia da manutenção das características de funcionamento.
 
 2. Para garantia da manutenção das características de funcionamento é, ainda, aconselhável, num circuito trifásico, substituir todos os cartuchos fusíveis desse circuito mesmo quando apenas um ou dois se tenham fundido.
 
-###### Art. 573.º Protecção geral contra sobreintensidades das instalações de utilização. - Sem prejuízo do disposto no artigo 569.º, nas instalações de utilização será dispensável a existência de aparelhos de protecção geral contra sobreintensidades.
+Art. 573.º Protecção geral contra sobreintensidades das instalações de utilização. - Sem prejuízo do disposto no artigo 569.º, nas instalações de utilização será dispensável a existência de aparelhos de protecção geral contra sobreintensidades.
 
 Comentários. - 1. A dispensa da existência de aparelhos de protecção geral contra sobreintensidades nas instalações de utilização resulta do facto de se considerar suficiente que a protecção destas seja feita em cada um dos seus circuitos, não sendo, portanto, necessário haver uma protecção geral.
 
@@ -4561,7 +4628,7 @@ Além disso, e em especial nas instalações de utilização alimentadas por uma
 
 2. Outra razão pela qual se dispensa a existência da protecção geral resulta do facto de, nas instalações de utilização alimentadas por uma rede de distribuição pública, o aparelho de corte da entrada, a instalar pela entidade distribuidora, ser, em regra, um disjuntor (disjuntor de entrada) e este aparelho funcionar também como protecção geral.
 
-###### Art. 574.º Tipos de aparelhos de protecção contra sobreintensidades. - 1. Nas instalações de utilização estabelecidas em locais residenciais ou de uso profissional, em estabelecimentos recebendo público e em estabelecimentos agrícolas ou pecuários, os aparelhos de protecção contra sobreintensidades a empregar deverão ser do tipo disjuntor.
+Art. 574.º Tipos de aparelhos de protecção contra sobreintensidades. - 1. Nas instalações de utilização estabelecidas em locais residenciais ou de uso profissional, em estabelecimentos recebendo público e em estabelecimentos agrícolas ou pecuários, os aparelhos de protecção contra sobreintensidades a empregar deverão ser do tipo disjuntor.
 
 2. Do disposto no número anterior exceptua-se o caso de canalizações alimentando outros quadros ou de uma canalização alimentando um único aparelho de utilização de potência elevada, em que poderão empregar-se corta-circuitos fusíveis.
 
@@ -4571,11 +4638,11 @@ Comentários. - 1. A razão pela qual se impõe, na generalidade dos casos, o em
 
 6.2.2 - Protecção de canalizações
 
-###### Art. 575.º Condutores a proteger. - A protecção contra sobreintensidades das canalizações apenas deverá ser efectuada nos condutores de fase.
+Art. 575.º Condutores a proteger. - A protecção contra sobreintensidades das canalizações apenas deverá ser efectuada nos condutores de fase.
 
-###### Art. 576.º Localização das protecções contra sobreintensidades. - Os aparelhos de protecção contra sobreintensidades deverão, em regra, ser colocados no início das canalizações que protegem.
+Art. 576.º Localização das protecções contra sobreintensidades. - Os aparelhos de protecção contra sobreintensidades deverão, em regra, ser colocados no início das canalizações que protegem.
 
-###### Art. 577.º Protecção contra sobrecargas de canalizações. - 1. A característica de funcionamento dos aparelhos de protecção contra sobrecargas das canalizações deverá ser tal que a sua intensidade limite de não funcionamento (I(índice nf)) não seja superior a 1,15 vezes a intensidade de corrente máxima admissível na canalização (I(índice z)).
+Art. 577.º Protecção contra sobrecargas de canalizações. - 1. A característica de funcionamento dos aparelhos de protecção contra sobrecargas das canalizações deverá ser tal que a sua intensidade limite de não funcionamento (I(índice nf)) não seja superior a 1,15 vezes a intensidade de corrente máxima admissível na canalização (I(índice z)).
 
 2. A intensidade nominal do aparelho de protecção (I(índice n)) não deverá ser superior à intensidade de corrente máxima admissível na canalização a proteger, considerando-se, para o efeito, nos aparelhos de protecção com regulação que a sua intensidade nominal é a intensidade para que estão regulados.
 
@@ -4585,7 +4652,7 @@ Aquele valor garante, pois, a segurança conveniente para o isolamento dos condu
 
 De notar que, em regra, a secção nominal dos condutores de um circuito é escolhida de modo que a correspondente intensidade de corrente máxima admissível seja, pelo menos, igual à intensidade de corrente de serviço desse circuito (I(índice s)) isto é, I(índice s) =< I(índice n) =< I(índice z).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 2. Para os aparelhos de protecção normalmente empregados nas instalações de utilização, os quadros VI a IX em anexo, indicam as intensidades limite de não funcionamento e as intensidades limite de funcionamento correspondentes às diversas intensidades nominais desses aparelhos (I(índice n)).
 
@@ -4597,7 +4664,7 @@ Se se pretender proteger por disjuntor o cabo atrás considerado, deve empregar-
 
 3. Quando um mesmo aparelho de protecção proteger uma canalização constituída por vários condutores em paralelo, o valor de I(índice z) é a soma das intensidades de corrente máximas admissíveis em cada condutor, desde que eles tenham as mesmas características eléctricas (tipo, modo de estabelecimento, secção nominal e comprimento).
 
-###### Art. 578.º Localização dos aparelhos de protecção contra sobrecargas. - 1. No ponto onde a intensidade de corrente máxima admissível de uma canalização sofra redução em resultado de uma mudança da sua secção nominal, natureza, tipo ou modo de estabelecimento deverão ser colocados aparelhos de protecção contra sobrecargas.
+Art. 578.º Localização dos aparelhos de protecção contra sobrecargas. - 1. No ponto onde a intensidade de corrente máxima admissível de uma canalização sofra redução em resultado de uma mudança da sua secção nominal, natureza, tipo ou modo de estabelecimento deverão ser colocados aparelhos de protecção contra sobrecargas.
 
 2. Os aparelhos de protecção poderão ser colocados em qualquer ponto do percurso da canalização se o troço desta compreendido entre o ponto em que há mudança na secção nominal, natureza, tipo ou modo de estabelecimento e o aparelho de protecção estiver num dos casos seguintes:
 
@@ -4607,7 +4674,7 @@ b) Não exceder 2 m o seu comprimento e a canalização estiver estabelecida de 
 
 Comentário. - Para cumprimento do disposto na alínea b) do n.º 2 do artigo, recomenda-se evitar, na medida do possível, o emprego de derivações ou de tomadas de corrente ao longo do percurso da canalização.
 
-###### Art. 579.º Dispensa da protecção contra sobrecargas. - 1. Nas canalizações que não sejam susceptíveis de ser percorridas por correntes de sobrecarga será dispensável o emprego de aparelhos de protecção contra sobrecargas, desde que a canalização se encontre protegida contra curtos-circuitos e não comporte derivações ou tomadas de corrente ao longo do seu percurso.
+Art. 579.º Dispensa da protecção contra sobrecargas. - 1. Nas canalizações que não sejam susceptíveis de ser percorridas por correntes de sobrecarga será dispensável o emprego de aparelhos de protecção contra sobrecargas, desde que a canalização se encontre protegida contra curtos-circuitos e não comporte derivações ou tomadas de corrente ao longo do seu percurso.
 
 2. Nas canalizações de alimentação de aparelhos de utilização cuja paragem extemporânea possa causar riscos ou danos não deverão ser colocados aparelhos de protecção contra sobrecargas.
 
@@ -4637,11 +4704,11 @@ d) Circuitos secundários de transformadores de medida de corrente;
 
 e) Circuitos de emergência.
 
-###### Art. 580.º Protecção de canalizações contra curtos-circuitos. - 1. A intensidade nominal dos aparelhos de protecção contra curtos-circuitos deverá ser determinada de modo que a corrente de curto-circuito seja cortada antes de a canalização poder atingir a sua temperatura limite admissível.
+Art. 580.º Protecção de canalizações contra curtos-circuitos. - 1. A intensidade nominal dos aparelhos de protecção contra curtos-circuitos deverá ser determinada de modo que a corrente de curto-circuito seja cortada antes de a canalização poder atingir a sua temperatura limite admissível.
 
 2. A determinação referida no número anterior deverá ser efectuada por comparação entre a característica de funcionamento do aparelho de protecção e a característica de fadiga térmica da canalização, considerando-se cumprido o disposto no número anterior se o tempo de corte do aparelho de protecção for inferior ao calculado pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Em qualquer caso, o tempo de corte não deverá ser superior a 5 s.
 
@@ -4653,17 +4720,17 @@ Comentários. - 1. Recomenda-se escolher o aparelho de protecção contra curtos
 
 a) No caso de corta-circuitos fusíveis, a corrente de curto-circuito mínima (I(índice cc)) não deve ser inferior a I(índice f).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 b) No caso de disjuntores, a corrente de curto-circuito mínima (I(índice cc)) deve ser tal que:
 
 1,25 Ia I(índice cc) I(índice b)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Por outro lado, quando a protecção é assegurada por um disjuntor temporizado, é preciso verificar se, durante o tempo de funcionamento do disjuntor, a passagem da corrente de curto-circuito máxima não conduz, na vizinhança do disjuntor, os condutores a uma temperatura demasiado elevada.
 
-###### Art. 581.º Localização dos aparelhos de protecção contra curtos-circuitos. - 1. No ponto onde a intensidade de corrente máxima admissível de uma canalização sofra redução em resultado de uma mudança da sua secção nominal, natureza, tipo ou modo de estabelecimento deverão ser colocados aparelhos de protecção contra curtos-circuitos.
+Art. 581.º Localização dos aparelhos de protecção contra curtos-circuitos. - 1. No ponto onde a intensidade de corrente máxima admissível de uma canalização sofra redução em resultado de uma mudança da sua secção nominal, natureza, tipo ou modo de estabelecimento deverão ser colocados aparelhos de protecção contra curtos-circuitos.
 
 2. Os aparelhos de protecção poderão ser colocados em qualquer ponto do percurso da canalização num dos casos seguintes:
 
@@ -4681,13 +4748,13 @@ Os aparelhos de protecção colocados a montante possuírem característica de f
 
 O comprimento da canalização situada a jusante, de secção nominal S(índice 2), não for superior ao que é determinado pela figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 O comprimento máximo da canalização derivada em O, de secção nominal S(índice 2), protegida contra curtos-circuitos pelo aparelho colocado em M, é dado pelo comprimento OV.
 
 Comentário. - A segunda condição indicada na alínea a) do n.º 2 do artigo pode ser realizada, por exemplo, pelo reforço das protecções da canalização contra acções exteriores (mecânicas, térmicas, de penetração de líquidos, etc.).
 
-###### Art. 582.º Dispensa da protecção contra curtos-circuitos. - Nas canalizações será dispensável o emprego de aparelhos de protecção contra curtos-circuitos nos casos seguintes:
+Art. 582.º Dispensa da protecção contra curtos-circuitos. - Nas canalizações será dispensável o emprego de aparelhos de protecção contra curtos-circuitos nos casos seguintes:
 
 a) Canalizações ligando geradores, transformadores, conversores, rectificadores ou baterias de acumuladores aos respectivos quadros de comando, caso em que os aparelhos de protecção poderão ser colocados nesses quadros;
 
@@ -4699,7 +4766,7 @@ A canalização seja estabelecida de modo a excluir qualquer risco de curto-circ
 
 A canalização não seja estabelecida na vizinhança de substâncias inflamáveis.
 
-###### Art. 583.º Coordenação entre a protecção contra sobrecargas e a protecção contra curtos-circuitos. - 1. Se um aparelho de protecção contra sobrecargas, escolhido da forma indicada no artigo 577.º, possuir um poder de corte pelo menos igual à corrente de curto-circuito previsível no ponto da instalação onde for estabelecido, ele assegurará igualmente a protecção contra curtos-circuitos da canalização situada a jusante, pelo que deverá obedecer ao disposto nos artigos 578.º e 581.º
+Art. 583.º Coordenação entre a protecção contra sobrecargas e a protecção contra curtos-circuitos. - 1. Se um aparelho de protecção contra sobrecargas, escolhido da forma indicada no artigo 577.º, possuir um poder de corte pelo menos igual à corrente de curto-circuito previsível no ponto da instalação onde for estabelecido, ele assegurará igualmente a protecção contra curtos-circuitos da canalização situada a jusante, pelo que deverá obedecer ao disposto nos artigos 578.º e 581.º
 
 2. No caso de não se verificar a condição referida no número anterior, haverá que verificar se as curvas de funcionamento do aparelho de protecção contra sobrecargas e do de protecção contra curtos-circuitos são tais que, para qualquer sobreintensidade de valor superior ao poder de corte do aparelho de protecção contra sobrecargas, o tempo de funcionamento do aparelho de protecção contra curtos-circuitos seja menor do que o da protecção contra sobrecargas.
 
@@ -4721,13 +4788,13 @@ Na prática, considera-se que não pode ser garantida qualquer selectividade ent
 
 A figura seguinte apresenta, por exemplo, duas curvas de funcionamento de um disjuntor (D) e de um corta-circuitos fusível (F), coordenadas de modo que este actue primeiro em caso de curto-circuito, mas que não actue em caso de pequena sobreintensidade, deixando que o disjuntor assegure essa protecção. Os corta-circuitos fusíveis que permitem esta repartição das funções são os da classe aM referidos no comentário 1 do artigo 134.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Pelo exame da figura verifica-se que, para qualquer corrente de intensidade inferior a I(índice o), disjuntor funciona primeiro, ao passo que, para intensidades superiores, o tempo de funcionamento do corta-circuitos fusível é mais curto do que o do disjuntor.
 
 6.2.3 - Protecção dos circuitos auxiliares dos quadros
 
-###### Art. 584.º Protecção dos circuitos auxiliares dos quadros. - 1. Os circuitos auxiliares de saída dos quadros poderão apenas ser protegidos contra curtos-circuitos.
+Art. 584.º Protecção dos circuitos auxiliares dos quadros. - 1. Os circuitos auxiliares de saída dos quadros poderão apenas ser protegidos contra curtos-circuitos.
 
 2. A protecção referida no número anterior poderá ser dispensada quando:
 
@@ -4739,7 +4806,7 @@ b) A continuidade de um circuito auxiliar for essencial à segurança ou à conv
 
 6.2.4 - Protecção de aparelhos de conversão, transformação ou acumulação de energia eléctrica
 
-###### Art. 585.º Protecção de transformadores. - 1. Os transformadores deverão ser protegidos contra curtos-circuitos, individualmente ou por grupos, por meio de aparelhos de protecção montados do lado do primário.
+Art. 585.º Protecção de transformadores. - 1. Os transformadores deverão ser protegidos contra curtos-circuitos, individualmente ou por grupos, por meio de aparelhos de protecção montados do lado do primário.
 
 2. A protecção contra curtos-circuitos de transformadores susceptíveis de suportar, em permanência, o curto-circuito do secundário e alimentando circuitos de telecomunicação a tensão reduzida deverá ter intensidade de funcionamento não superior a cinco vezes a intensidade nominal primária do transformador, podendo, no entanto, ter o valor mínimo de 6 A.
 
@@ -4747,17 +4814,17 @@ b) A continuidade de um circuito auxiliar for essencial à segurança ou à conv
 
 Comentário. - A referência no n.º 1 do artigo aos grupos de transformadores tem em vista contemplar os transformadores empregados nas instalações de iluminação.
 
-###### Art. 586.º Protecção de condensadores de correcção do factor de potência. - A protecção contra curtos-circuitos dos condensadores de correcção do factor de potência deverá ter intensidade de funcionamento não inferior a duas vezes a intensidade nominal dos condensadores.
+Art. 586.º Protecção de condensadores de correcção do factor de potência. - A protecção contra curtos-circuitos dos condensadores de correcção do factor de potência deverá ter intensidade de funcionamento não inferior a duas vezes a intensidade nominal dos condensadores.
 
 6.2.5 - Protecção de aparelhos de utilização
 
 6.2.5.1 - Disposições gerais
 
-###### Art. 587.º Protecção contra sobrecargas. - 1. Os aparelhos de utilização, quando pelas suas características possam estar sujeitos a sobrecargas, deverão ser protegidos contra estas de forma adequada.
+Art. 587.º Protecção contra sobrecargas. - 1. Os aparelhos de utilização, quando pelas suas características possam estar sujeitos a sobrecargas, deverão ser protegidos contra estas de forma adequada.
 
 2. A protecção contra sobrecargas deverá ser feita individualmente para cada aparelho de utilização.
 
-###### Art. 588.º Protecção contra curtos-circuitos. - 1. Os aparelhos de utilização deverão ser devidamente protegidos contra curtos-circuitos.
+Art. 588.º Protecção contra curtos-circuitos. - 1. Os aparelhos de utilização deverão ser devidamente protegidos contra curtos-circuitos.
 
 2. A protecção contra curtos-circuitos poderá ser feita individualmente ou em conjunto com outros aparelhos de utilização.
 
@@ -4767,7 +4834,7 @@ Comentário. - A referência no n.º 1 do artigo aos grupos de transformadores t
 
 6.2.5.2 - Protecção de motores
 
-###### Art. 589.º Protecção contra sobrecargas. - 1. Os motores deverão ser individualmente protegidos contra sobrecargas.
+Art. 589.º Protecção contra sobrecargas. - 1. Os motores deverão ser individualmente protegidos contra sobrecargas.
 
 2. O disposto no número anterior poderá não ser aplicável aos motores de potência nominal igual ou inferior a 0,75 kW.
 
@@ -4779,7 +4846,7 @@ Como os corta-circuitos fusíveis, pelas suas características, apenas protegem 
 
 A relação que deve existir entre a sobreintensidade e o tempo de funcionamento do aparelho de protecção depende, por um lado, das características térmicas do motor e dos condutores que o alimentam e, por outro lado, do serviço que lhe é pedido e, em especial, das condições do seu arranque.
 
-###### Art. 590.º Número de dispositivos de protecção (relais) dos aparelhos de protecção contra sobrecargas. - 1. O número de relais dos aparelhos de protecção contra sobrecargas de motores deverá ser:
+Art. 590.º Número de dispositivos de protecção (relais) dos aparelhos de protecção contra sobrecargas. - 1. O número de relais dos aparelhos de protecção contra sobrecargas de motores deverá ser:
 
 a) Quando o motor for alimentado em corrente alternada monofásica: 1 unipolar;
 
@@ -4787,7 +4854,7 @@ b) Quando o motor for alimentado em corrente alternada trifásica: 3 unipolares 
 
 2. Os aparelhos de protecção contra sobrecargas dos motores deverão, ao actuar, cortar, simultaneamente, todos os condutores de fase, podendo ou não cortar o condutor neutro.
 
-###### Art. 591.º Protecção contra curtos-circuitos. - 1. Os motores deverão ser individualmente protegidos contra curtos-circuitos.
+Art. 591.º Protecção contra curtos-circuitos. - 1. Os motores deverão ser individualmente protegidos contra curtos-circuitos.
 
 2. O disposto no número anterior poderá não ser aplicável aos motores de potência nominal igual ou inferior a 0,75 kW.
 
@@ -4795,7 +4862,7 @@ b) Quando o motor for alimentado em corrente alternada trifásica: 3 unipolares 
 
 Comentário. - A protecção contra curtos-circuitos dos motores pode ser assegurada por aparelhos de funcionamento automático (disjuntores dotados de relais electro-magnéticos) ou por corta-circuitos fusíveis.
 
-###### Art. 592.º Número de dispositivos de protecção (relais ou fusíveis) dos aparelhos de protecção contra curtos-circuitos. - 1. Os dispositivos de protecção (relais ou fusíveis) dos aparelhos de protecção contra curtos-circuitos deverão ser estabelecidos nos condutores de fase.
+Art. 592.º Número de dispositivos de protecção (relais ou fusíveis) dos aparelhos de protecção contra curtos-circuitos. - 1. Os dispositivos de protecção (relais ou fusíveis) dos aparelhos de protecção contra curtos-circuitos deverão ser estabelecidos nos condutores de fase.
 
 2. Os aparelhos de protecção dos motores contra curtos-circuitos, quando não forem do tipo fusível, deverão, ao actuar, cortar, simultaneamente, todos os condutores de fase, podendo ou não cortar o condutor neutro.
 
@@ -4803,7 +4870,7 @@ Comentário. - No caso de motores de potência elevada, recomenda-se, quando a s
 
 6.2.5.3 - Protecção de aparelhos de soldadura
 
-###### Art. 593.º Protecção contra sobreintensidades. - 1. Os aparelhos de soldadura deverão ser protegidos individualmente por aparelhos de protecção contra sobrecargas, que poderão ser os de protecção da canalização de alimentação respectiva, quando esta alimentar apenas o aparelho considerado.
+Art. 593.º Protecção contra sobreintensidades. - 1. Os aparelhos de soldadura deverão ser protegidos individualmente por aparelhos de protecção contra sobrecargas, que poderão ser os de protecção da canalização de alimentação respectiva, quando esta alimentar apenas o aparelho considerado.
 
 2. A intensidade de funcionamento da protecção contra sobrecargas de aparelhos de soldadura não deverá ser superior a:
 
@@ -4815,11 +4882,11 @@ b) Para aparelhos de soldadura por resistência: três vezes a intensidade nomin
 
 6.3 - Protecção contra variações de tensão
 
-###### Art. 594.º Protecção contra falta ou abaixamento de tensão. - 1. Os aparelhos cujo arranque automático, ao restabelecer-se a tensão, possa constituir perigo para os mesmos ou para as pessoas ou coisas que se encontrem na sua proximidade deverão ser dotados de um aparelho de protecção que impeça esse arranque, o qual poderá ser incorporado no aparelho de protecção contra sobreintensidades ou no aparelho de arranque do aparelho de utilização.
+Art. 594.º Protecção contra falta ou abaixamento de tensão. - 1. Os aparelhos cujo arranque automático, ao restabelecer-se a tensão, possa constituir perigo para os mesmos ou para as pessoas ou coisas que se encontrem na sua proximidade deverão ser dotados de um aparelho de protecção que impeça esse arranque, o qual poderá ser incorporado no aparelho de protecção contra sobreintensidades ou no aparelho de arranque do aparelho de utilização.
 
 2. O aparelho de protecção contra falta ou abaixamento de tensão poderá proteger um conjunto de aparelhos de utilização, desde que estejam estabelecidos no mesmo local e a soma das suas potências nominais não seja superior a 10 kVA.
 
-###### Art. 595.º Protecção contra sobretensões. - Sempre que numa instalação possam surgir sobretensões, quer em condições normais de funcionamento, quer em caso de avaria, deverá a mesma ser dotada de um aparelho que limite ou elimine essas tensões.
+Art. 595.º Protecção contra sobretensões. - Sempre que numa instalação possam surgir sobretensões, quer em condições normais de funcionamento, quer em caso de avaria, deverá a mesma ser dotada de um aparelho que limite ou elimine essas tensões.
 
 Comentário. - A protecção a que se refere o artigo diz respeito às sobretensões que podem surgir nas instalações, nada tendo a ver com os pára-raios para protecção dos edifícios contra descargas atmosféricas.
 
@@ -4827,7 +4894,7 @@ Comentário. - A protecção a que se refere o artigo diz respeito às sobretens
 
 7.1 - Disposições gerais
 
-###### Art. 596.º Sistemas de protecção. - Nas instalações de utilização deverão ser adoptadas disposições destinadas a garantir a protecção das pessoas contra os perigos específicos da electricidade (choques eléctricos), disposições essas que deverão ser escolhidas e realizadas de modo a serem seguras e duráveis.
+Art. 596.º Sistemas de protecção. - Nas instalações de utilização deverão ser adoptadas disposições destinadas a garantir a protecção das pessoas contra os perigos específicos da electricidade (choques eléctricos), disposições essas que deverão ser escolhidas e realizadas de modo a serem seguras e duráveis.
 
 Comentários. - 1. A protecção das pessoas contra os perigos que as instalações eléctricas podem apresentar reveste-se de dois aspectos:
 
@@ -4869,7 +4936,7 @@ Nestas circunstâncias, a protecção contra contactos indirectos é feita pela 
 
 9. De notar que todas as medidas de protecção referidas nos comentários anteriores podem ser ineficazes no caso de propagação de potenciais provenientes de instalações que não sejam aquelas em que essas protecções são realizadas.
 
-###### Art. 597.º Protecção contra contactos directos. - A protecção contra contactos directos poderá, em regra, considerar-se realizada desde que sejam observadas as prescrições de segurança deste Regulamento.
+Art. 597.º Protecção contra contactos directos. - A protecção contra contactos directos poderá, em regra, considerar-se realizada desde que sejam observadas as prescrições de segurança deste Regulamento.
 
 Comentários. - 1. A protecção contra contactos directos encontra-se, em regra, assegurada neste Regulamento pela adopção de diversas disposições, nomeadamente isolamento ou afastamento das partes activas, colocação de anteparos, etc.
 
@@ -4885,7 +4952,7 @@ O isolamento que seja realizado no decorrer da montagem das instalações deve s
 
 5. A protecção por isolamento ou por colocação de anteparos pode resultar do tipo de construção dos materiais ou das suas condições de instalação.
 
-###### Art. 598.º Protecção contra contactos indirectos. - 1. Nas instalações deverão ser tomadas medidas de protecção contra contactos indirectos por forma a não se manter, em qualquer massa ou elemento condutor estranho à instalação eléctrica, uma tensão de contacto superior aos valores seguintes:
+Art. 598.º Protecção contra contactos indirectos. - 1. Nas instalações deverão ser tomadas medidas de protecção contra contactos indirectos por forma a não se manter, em qualquer massa ou elemento condutor estranho à instalação eléctrica, uma tensão de contacto superior aos valores seguintes:
 
 a) Se a instalação, ou parte da instalação, for prevista para alimentar apenas aparelhos de utilização fixos ou móveis que não possuam massas susceptíveis de serem empunhadas: 50 V;
 
@@ -4909,7 +4976,7 @@ b) No caso da alínea b):
 
 O tempo máximo de actuação do aparelho de protecção não deverá ser superior ao indicado no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Comentários. - 1. Entre os casos a que se aplica a alínea b) do n.º 1 do artigo é muito corrente o de aparelhos portáteis ligados normalmente por tomadas. Daqui resulta que para os circuitos em que haja tomadas é a condição dessa alínea que tem de ser observada.
 
@@ -4927,7 +4994,7 @@ Para as instalações de utilização alimentadas a partir de uma central gerado
 
 7.2.1 - Ligação directa das massas à terra e emprego de um aparelho de protecção, de corte automático, associado
 
-###### Art. 599.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por ligação directa das massas à terra e emprego de um aparelho de protecção, de corte automático, associado, deverá observar-se, simultaneamente, o seguinte:
+Art. 599.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por ligação directa das massas à terra e emprego de um aparelho de protecção, de corte automático, associado, deverá observar-se, simultaneamente, o seguinte:
 
 a) Todas as massas da instalação deverão ser ligadas à terra por meio de condutores de protecção, directamente ou através do condutor geral de protecção;
 
@@ -4937,7 +5004,7 @@ b) Em caso de defeito, qualquer massa não poderá ficar, em relação à terra,
 
 Comentário. - A não obrigatoriedade da ligação de todas as massas da instalação, directamente ou não, ao ligador de massa do quadro de entrada visa, em especial, os casos em que a existência de aparelhos de utilização muito afastados entre si torna essa solução pouco económica. É o caso, por exemplo, de grupos electro-bombas afastados do local em que está instalado o quadro de entrada.
 
-###### Art. 600.º Aparelhos de protecção de corte automático. - 1. Nas instalações de utilização poderão utilizar-se, como aparelhos de protecção, os de protecção contra sobreintensidades dessas instalações, desde que as suas características intensidade-tempo produzam a desligação do circuito defeituoso antes de se ultrapassarem as tensões indicadas no n.º 1 do artigo 598.º, ou aparelhos de protecção sensíveis à corrente diferencial-residual.
+Art. 600.º Aparelhos de protecção de corte automático. - 1. Nas instalações de utilização poderão utilizar-se, como aparelhos de protecção, os de protecção contra sobreintensidades dessas instalações, desde que as suas características intensidade-tempo produzam a desligação do circuito defeituoso antes de se ultrapassarem as tensões indicadas no n.º 1 do artigo 598.º, ou aparelhos de protecção sensíveis à corrente diferencial-residual.
 
 2. Para cumprimento do disposto no n.º 3 do artigo 598.º deverá verificar-se a condição seguinte:
 
@@ -4953,7 +5020,7 @@ U - a tensão limite convencional indicada no n.º 1 do artigo 598.º ou a tens�
 
 Comentário. - Para se poder verificar a condição imposta no n.º 1 do artigo é necessário que a impedância do circuito de defeito tenha um valor extremamente baixo e que, por outro lado, o valor da resistência da terra das massas seja tal que não origine, para as intensidades de corte dos aparelhos utilizados, tensões à terra superiores às indicadas no n.º 1 do artigo 598.º
 
-###### Art. 601.º Ligação das massas a circuitos de protecção. - 1. De acordo com o artigo 599.º, as massas das instalações de utilização deverão ser ligadas a um circuito de protecção.
+Art. 601.º Ligação das massas a circuitos de protecção. - 1. De acordo com o artigo 599.º, as massas das instalações de utilização deverão ser ligadas a um circuito de protecção.
 
 2. Deverão ainda ser ligados ao circuito de protecção:
 
@@ -4985,7 +5052,7 @@ c) Canalizações metálicas enterradas ou embebidas, nos troços em que são ac
 
 7.2.2 - Ligação directa das massas ao neutro e emprego de um aparelho de protecção, de corte automático, associado
 
-###### Art. 602.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por ligação directa das massas ao neutro e emprego de um aparelho de protecção, de corte automático, associado, deverá observar-se, simultaneamente, o seguinte:
+Art. 602.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por ligação directa das massas ao neutro e emprego de um aparelho de protecção, de corte automático, associado, deverá observar-se, simultaneamente, o seguinte:
 
 a) Todas as massas da instalação deverão ser ligadas, por meio de condutores de protecção, ao condutor neutro;
 
@@ -4999,7 +5066,7 @@ b) Em caso de defeito, qualquer massa não poderá ficar, em relação à terra,
 
 5. Junto do quadro de entrada deverá existir uma inscrição indicando de forma clara o emprego, na instalação de utilização, do sistema de protecção a que se refere este artigo.
 
-###### Art. 603.º Aparelhos de protecção de corte automático. - 1. Nas instalações de utilização poderão utilizar-se, como aparelhos de protecção, os de protecção contra sobreintensidades dessas instalações, desde que as suas características intensidade-tempo produzam a abertura do circuito defeituoso antes de se ultrapassarem as tensões indicadas no n.º 1 do artigo 598.º, ou aparelhos de protecção sensíveis à corrente diferencial-residual.
+Art. 603.º Aparelhos de protecção de corte automático. - 1. Nas instalações de utilização poderão utilizar-se, como aparelhos de protecção, os de protecção contra sobreintensidades dessas instalações, desde que as suas características intensidade-tempo produzam a abertura do circuito defeituoso antes de se ultrapassarem as tensões indicadas no n.º 1 do artigo 598.º, ou aparelhos de protecção sensíveis à corrente diferencial-residual.
 
 2. Para cumprimento do disposto no n.º 3 do artigo 598.º deverá verificar-se a condição seguinte:
 
@@ -5019,19 +5086,19 @@ Comentários. - 1. Numa instalação dada, o valor de Z pode ser determinado por
 
 3. O valor da tensão de contacto previsível depende da tensão da instalação e da relação entre as impedâncias do circuito de protecção e do condutor de fase.
 
-###### Art. 604.º Ligação das massas a circuitos de protecção. - As massas das instalações de utilização deverão ser ligadas a circuitos de protecção, de acordo com o disposto no artigo 601.º e nos n.os 2 e 3 do artigo 602.º
+Art. 604.º Ligação das massas a circuitos de protecção. - As massas das instalações de utilização deverão ser ligadas a circuitos de protecção, de acordo com o disposto no artigo 601.º e nos n.os 2 e 3 do artigo 602.º
 
-###### Art. 605.º Corte do condutor neutro e do condutor de protecção. - 1. O condutor neutro e o condutor de protecção não poderão ser interrompidos pela manobra de qualquer aparelho de corte.
+Art. 605.º Corte do condutor neutro e do condutor de protecção. - 1. O condutor neutro e o condutor de protecção não poderão ser interrompidos pela manobra de qualquer aparelho de corte.
 
 Além disso, não poderão ser inseridos nesses condutores quaisquer aparelhos de protecção.
 
 2. No quadro de entrada, permitir-se-á o emprego de ligações amovíveis no condutor neutro e no de protecção, as quais apenas poderão ser desfeitas utilizando ferramenta adequada.
 
-###### Art. 606.º Ligação do condutor de protecção ao condutor neutro. - A ligação do condutor de protecção ao condutor neutro deverá ser efectuada na origem da respectiva instalação de utilização.
+Art. 606.º Ligação do condutor de protecção ao condutor neutro. - A ligação do condutor de protecção ao condutor neutro deverá ser efectuada na origem da respectiva instalação de utilização.
 
 7.2.3 - Emprego de aparelhos de protecção, de corte automático, sensíveis à tensão de defeito
 
-###### Art. 607.º Condições gerais de estabelecimento. - No estabelecimento do sistema de protecção por emprego de aparelhos de protecção, de corte automático, sensíveis à tensão de defeito, deverá observar-se, simultaneamente, o seguinte:
+Art. 607.º Condições gerais de estabelecimento. - No estabelecimento do sistema de protecção por emprego de aparelhos de protecção, de corte automático, sensíveis à tensão de defeito, deverá observar-se, simultaneamente, o seguinte:
 
 a) O tempo de funcionamento do aparelho de protecção não superior a 0,1 s;
 
@@ -5051,7 +5118,7 @@ Quando as construções forem metálicas ou nelas abundarem elementos condutores
 
 7.2.4 - Emprego de tensão reduzida de segurança
 
-###### Art. 608.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por emprego de tensão reduzida de segurança deverá observar-se, simultaneamente, o seguinte:
+Art. 608.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por emprego de tensão reduzida de segurança deverá observar-se, simultaneamente, o seguinte:
 
 a) A tensão reduzida de segurança ser obtida por meio de geradores, conversores, transformadores ou baterias de acumuladores;
 
@@ -5065,7 +5132,7 @@ c) As massas dos circuitos de utilização não serem ligadas intencionalmente c
 
 Comentário. - Apesar do disposto no artigo 189.º, recomenda-se empregar canalizações distintas nos circuitos de utilização a tensão reduzida de segurança.
 
-###### Art. 609.º Emprego do sistema de protecção por tensão reduzida de segurança. - A protecção por tensão reduzida deverá ser empregada nos casos seguintes:
+Art. 609.º Emprego do sistema de protecção por tensão reduzida de segurança. - A protecção por tensão reduzida deverá ser empregada nos casos seguintes:
 
 a) Em aparelhos de iluminação portáteis, quando utilizados em locais húmidos ou molhados ou em qualquer outro tipo de local com paredes, tectos, pavimentos ou outras superfícies constituídas por elementos condutores;
 
@@ -5077,13 +5144,13 @@ Comentários. - 1. Aos aparelhos portáteis que não sejam de iluminação nem s
 
 7.2.5 - Emprego de aparelhos de utilização da classe II de isolamento
 
-###### Art. 610.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por emprego de aparelhos de utilização da classe II de isolamento, quando estes tiverem partes metálicas acessíveis, estas partes não deverão ser ligadas à terra.
+Art. 610.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por emprego de aparelhos de utilização da classe II de isolamento, quando estes tiverem partes metálicas acessíveis, estas partes não deverão ser ligadas à terra.
 
 2. O emprego do sistema de protecção a que se refere o número anterior dispensará o emprego de outras medidas de protecção contra contactos indirectos, dentro dos limites fixados no artigo 598.º
 
 7.2.6 - Separação de segurança dos circuitos
 
-###### Art. 611.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por separação de segurança dos circuitos deverá observar-se, simultaneamente, o seguinte:
+Art. 611.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por separação de segurança dos circuitos deverá observar-se, simultaneamente, o seguinte:
 
 a) Os circuitos de utilização serem alimentados por transformadores de isolamento ou por grupos conversores (motor-gerador) dando garantias equivalentes;
 
@@ -5097,7 +5164,7 @@ d) Os circuitos de utilização serem o mais curtos possível e alimentarem um n
 
 7.2.7 - Emprego de ligações equipotenciais
 
-###### Art. 612.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por emprego de ligações equipotenciais deverá observar-se, simultaneamente, o seguinte:
+Art. 612.º Condições gerais de estabelecimento. - 1. No estabelecimento do sistema de protecção por emprego de ligações equipotenciais deverá observar-se, simultaneamente, o seguinte:
 
 a) Os elementos condutores estranhos à instalação eléctrica e as massas simultaneamente acessíveis a pessoas cujos pés assentem numa superfície condutora serem ligados entre si por meio de condutores de continuidade;
 
@@ -5111,7 +5178,7 @@ Comentário. - A condição a que se refere a alínea b) do n.º 1 do artigo pod
 
 7.3.1 - Condutores de protecção
 
-###### Art. 613.º Natureza dos condutores de protecção. - 1. Os condutores de protecção deverão ser do mesmo tipo dos condutores activos da canalização a que dizem respeito e fazer parte integrante da mesma.
+Art. 613.º Natureza dos condutores de protecção. - 1. Os condutores de protecção deverão ser do mesmo tipo dos condutores activos da canalização a que dizem respeito e fazer parte integrante da mesma.
 
 2. Do disposto no número anterior exceptuam-se os casos em que tendo os condutores de protecção secções nominais superiores a 25 mm2, por razões de ordem técnica ou económica, seja inconveniente a aplicação do disposto no número anterior, casos em que poderão ser estabelecidos independentemente das canalizações a que dizem respeito.
 
@@ -5123,13 +5190,13 @@ Comentários. - 1. De acordo com o disposto no n.º 1 do artigo, por exemplo, na
 
 Nessas circunstâncias, o condutor de protecção acompanha a canalização a que diz respeito mas é independente da mesma.
 
-###### Art. 614.º Constituição dos condutores de protecção. - 1. Os condutores de protecção deverão, em regra, ser do mesmo material dos condutores activos da canalização a que respeitem.
+Art. 614.º Constituição dos condutores de protecção. - 1. Os condutores de protecção deverão, em regra, ser do mesmo material dos condutores activos da canalização a que respeitem.
 
 2. Quando o condutor de protecção for estabelecido à vista e se encontrar em locais onde existam agentes corrosivos que ataquem o cobre, poderá utilizar-se este metal coberto de revestimento resistente a esses agentes, ou o alumínio puro de alta resistência à corrosão, se este metal for resistente aos referidos agentes.
 
-###### Art. 615.º Secção nominal dos condutores de protecção. - 1. A secção nominal dos condutores de protecção não deverá ser inferior à indicada no quadro seguinte:
+Art. 615.º Secção nominal dos condutores de protecção. - 1. A secção nominal dos condutores de protecção não deverá ser inferior à indicada no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 2. Quando a secção nominal dos condutores de fase for superior a 35 mm2, os condutores de protecção respectivos poderão ter secções nominais inferiores à prescrita no número anterior, mas, em qualquer caso, não inferiores a 16 mm2, desde que as condições de funcionamento do aparelho de corte automático sejam escolhidas de modo que a passagem da corrente de defeito no condutor de protecção não provoque neste um aquecimento susceptível de fazer exceder a temperatura máxima admissível no tipo de condutor que constitui esse condutor de protecção.
 
@@ -5137,11 +5204,11 @@ Nessas circunstâncias, o condutor de protecção acompanha a canalização a qu
 
 Comentário. - Se o tempo de funcionamento (t) do aparelho de corte automático, em caso de defeito franco, não exceder 2 s, a secção nominal Sp, dos condutores de protecção pode ser calculada pela expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
-###### Art. 616.º Continuidade eléctrica dos condutores de protecção. - Os condutores de protecção deverão ter continuidade eléctrica e mecânica perfeitamente assegurada ao longo de todo o seu percurso, não devendo ter partes metálicas da instalação intercaladas em série com eles.
+Art. 616.º Continuidade eléctrica dos condutores de protecção. - Os condutores de protecção deverão ter continuidade eléctrica e mecânica perfeitamente assegurada ao longo de todo o seu percurso, não devendo ter partes metálicas da instalação intercaladas em série com eles.
 
-###### Art. 617.º Estabelecimento dos condutores de protecção. - 1. Os condutores de protecção deverão ser estabelecidos nas mesmas condições dos condutores activos da canalização a que respeitem.
+Art. 617.º Estabelecimento dos condutores de protecção. - 1. Os condutores de protecção deverão ser estabelecidos nas mesmas condições dos condutores activos da canalização a que respeitem.
 
 2. Os condutores de protecção, quando estabelecidos à vista sobre braçadeiras, deverão obedecer às disposições seguintes:
 
@@ -5161,7 +5228,7 @@ a) Se se utilizar o cobre com revestimento, as uniões ou derivações deverão 
 
 b) Se se utilizar o alumínio, as uniões e derivações deverão ser feitas de acordo com as regras técnicas indispensáveis às ligações eléctricas desse metal e de forma a ficarem com resistência à corrosão igual à do condutor.
 
-###### Art. 618.º Identificação dos condutores de protecção. - 1. Os condutores de protecção deverão ser claramente identificáveis em toda a sua extensão.
+Art. 618.º Identificação dos condutores de protecção. - 1. Os condutores de protecção deverão ser claramente identificáveis em toda a sua extensão.
 
 2. Para efeito do disposto no número anterior, deverão adoptar-se as disposições seguintes:
 
@@ -5171,19 +5238,19 @@ b) Quando os condutores de protecção forem nus, não necessitarão de qualquer
 
 3. Quando for empregado o sistema de protecção constituído por ligação directa das massas ao neutro e, de acordo com o n.º 2 do artigo 602.º, apenas seja empregado um único condutor servindo de condutor neutro e condutor de protecção, deverá observar-se o disposto no número anterior.
 
-###### Art. 619.º Instalações com condutores de protecção nus e isolados. - 1. Admitir-se-á a existência de circuitos de protecção em que parte dos condutores de protecção sejam nus e outra parte isolados, desde que todos esses condutores de protecção obedeçam ao disposto nos artigos 615.º a 617.º, na parte aplicável.
+Art. 619.º Instalações com condutores de protecção nus e isolados. - 1. Admitir-se-á a existência de circuitos de protecção em que parte dos condutores de protecção sejam nus e outra parte isolados, desde que todos esses condutores de protecção obedeçam ao disposto nos artigos 615.º a 617.º, na parte aplicável.
 
 2. A ligação de um condutor de protecção nu a um condutor de protecção isolado deverá ser feita num aparelho de ligação, devendo a entrada do condutor nu dentro desse aparelho assegurar o mesmo grau de protecção exigível para as ligações dos outros condutores da canalização a que dizem respeito.
 
 Comentário. - Por razões económicas, pode ser conveniente ter um condutor de protecção nu, constituindo uma linha geral, acompanhando uma esteira de cabos. As derivações da esteira podem ser em canalizações com condutores de protecção isolados e nelas incorporados, devendo, nesse caso; fazer-se a ligação do condutor de protecção nu aos isolados dentro de um aparelho de ligação.
 
-###### Art. 620.º Ligação dos condutores de protecção. - 1. Os condutores de protecção deverão ser ligados entre si por meio de ligadores obedecendo ao disposto nos artigos 121.º a 123.º
+Art. 620.º Ligação dos condutores de protecção. - 1. Os condutores de protecção deverão ser ligados entre si por meio de ligadores obedecendo ao disposto nos artigos 121.º a 123.º
 
 2. Quando uma derivação de condutores de protecção for feita no interior de um aparelho de ligação com invólucro de material isolante, a ligação deverá ser feita de forma idêntica à dos condutores activos das canalizações a que esses condutores de protecção digam respeito.
 
 3. As ligações dos condutores de protecção às massas da instalação de que fazem parte deverão ser feitas por meio de ligadores adequados e exclusivamente destinados ao fim em vista.
 
-###### Art. 621.º Ligador de terra. - 1. Os condutores de terra que sirvam para ligação a um eléctrodo de terra deverão ser dotados de um ligador, amovível, que permita verificar a resistência de terra.
+Art. 621.º Ligador de terra. - 1. Os condutores de terra que sirvam para ligação a um eléctrodo de terra deverão ser dotados de um ligador, amovível, que permita verificar a resistência de terra.
 
 2. O ligador amovível deverá ser instalado em local acessível apenas a pessoas qualificadas e deverá ser de tipo que não possa ser desapertado sem meios especiais.
 
@@ -5193,17 +5260,17 @@ Comentário. - Quando não seja evidente a identificação do condutor que é li
 
 7.3.2 - Condutores de continuidade
 
-###### Art. 622.º Condutores de continuidade. - 1. Os condutores destinados a assegurar a continuidade eléctrica das bainhas ou invólucros metálicos das canalizações poderão servir para ligação à terra das massas dos aparelhos intercalados nas mesmas.
+Art. 622.º Condutores de continuidade. - 1. Os condutores destinados a assegurar a continuidade eléctrica das bainhas ou invólucros metálicos das canalizações poderão servir para ligação à terra das massas dos aparelhos intercalados nas mesmas.
 
 2. O ligador existente nos aparelhos de ligação, quando metálicos, para ligação do condutor de continuidade, poderá servir também para ligação do condutor de protecção, desde que a diferença de diâmetro dos condutores de continuidade e dos de protecção não torne incompatível a ligação de ambos ou se tomem medidas adequadas para eliminar essa dificuldade.
 
-###### Art. 623.º Secção nominal. - Os condutores de continuidade deverão ter secção nominal não inferior a 2,5 mm2, quando isolados, ou a 4 mm2, quando nus.
+Art. 623.º Secção nominal. - Os condutores de continuidade deverão ter secção nominal não inferior a 2,5 mm2, quando isolados, ou a 4 mm2, quando nus.
 
-###### Art. 624.º Ligação dos condutores de continuidade a condutores de protecção. - Nos locais em que haja condutores de continuidade, estes deverão ser ligados ao condutor de protecção que exista mais próximo desse local.
+Art. 624.º Ligação dos condutores de continuidade a condutores de protecção. - Nos locais em que haja condutores de continuidade, estes deverão ser ligados ao condutor de protecção que exista mais próximo desse local.
 
 7.3.3 - Ligação dos condutores de protecção aos eléctrodos de terra
 
-###### Art. 625.º Ligação dos condutores de protecção aos eléctrodos de terra. - 1. Os eléctrodos de terra deverão ser dotados de ligadores robustos destinados a receber o condutor de protecção e ligados ao eléctrodo por processo que garanta a continuidade e permanência da ligação.
+Art. 625.º Ligação dos condutores de protecção aos eléctrodos de terra. - 1. Os eléctrodos de terra deverão ser dotados de ligadores robustos destinados a receber o condutor de protecção e ligados ao eléctrodo por processo que garanta a continuidade e permanência da ligação.
 
 2. Os ligadores deverão ser soldados aos eléctrodos de terra por meio de soldadura forte ou autogéneo ou fixados por rebitagem ou por meio de aperto mecânico de construção robusta e com dispositivo de segurança contra desaperto acidental.
 
@@ -5221,7 +5288,7 @@ Comentário. - Para observância do disposto na alínea a) do n.º 4 do artigo r
 
 7.3.4 - Eléctrodos de terra
 
-###### Art. 626.º Constituição dos eléctrodos de terra. - 1. Os eléctrodos de terra serão de cobre, aço galvanizado ou aço revestido de cobre, sob a forma de chapas, varetas, tubos, perfilados, cabos ou fitas.
+Art. 626.º Constituição dos eléctrodos de terra. - 1. Os eléctrodos de terra serão de cobre, aço galvanizado ou aço revestido de cobre, sob a forma de chapas, varetas, tubos, perfilados, cabos ou fitas.
 
 2. Não será permitida a utilização, como eléctrodos de terra, de elementos metálicos simplesmente mergulhados em água.
 
@@ -5229,15 +5296,15 @@ Comentário. - Para observância do disposto na alínea a) do n.º 4 do artigo r
 
 Comentário. - A razão pela qual não se permite que, em especial, as canalizações de água, mesmo metálicas, possam constituir um eléctrodo de terra resulta do facto de poderem ser modificadas, com risco de essa modificação lhes alterar as características.
 
-###### Art. 627.º Estabelecimento dos eléctrodos de terra. - Os elementos metálicos servindo como eléctrodos de terra deverão ser enterrados em locais tão húmidos quanto possível, de preferência em terra vegetal, fora de zonas de passagem, e ser enterrados a distância conveniente de depósitos de substâncias corrosivas que possam infiltrar-se no terreno.
+Art. 627.º Estabelecimento dos eléctrodos de terra. - Os elementos metálicos servindo como eléctrodos de terra deverão ser enterrados em locais tão húmidos quanto possível, de preferência em terra vegetal, fora de zonas de passagem, e ser enterrados a distância conveniente de depósitos de substâncias corrosivas que possam infiltrar-se no terreno.
 
 Comentário. - Deve ter-se particular cuidado em não enterrar eléctrodos de terra na proximidade de estrumeiras, nitreiras, fossas ou de outros locais com substâncias corrosivas.
 
-###### Art. 628.º Isolamento dos condutores de ligação à terra. - Sempre que haja risco de aparecimento, à superfície do terreno, de um potencial de passo perigoso, resultante de uma eventual corrente de terra, os condutores de ligação aos eléctrodos deverão ser isolados, desde a superfície do terreno até à profundidade de 0,60 m.
+Art. 628.º Isolamento dos condutores de ligação à terra. - Sempre que haja risco de aparecimento, à superfície do terreno, de um potencial de passo perigoso, resultante de uma eventual corrente de terra, os condutores de ligação aos eléctrodos deverão ser isolados, desde a superfície do terreno até à profundidade de 0,60 m.
 
 Comentário. - A observância do disposto no artigo assume particular relevância em estabelecimentos agrícolas ou pecuários, sempre que os eléctrodos estejam enterrados em locais acessíveis a gado, visto este ser muito sensível às tensões de passo.
 
-###### Art. 629.º Dimensões dos eléctrodos de terra. - 1. Os eléctrodos deverão ter dimensões que permitam dar escoamento fácil às correntes de terra previstas, de forma que o seu potencial e o gradiente de potencial à superfície do solo sejam os menores possível.
+Art. 629.º Dimensões dos eléctrodos de terra. - 1. Os eléctrodos deverão ter dimensões que permitam dar escoamento fácil às correntes de terra previstas, de forma que o seu potencial e o gradiente de potencial à superfície do solo sejam os menores possível.
 
 2. A superfície de contacto dos eléctrodos com a terra, qualquer que seja o metal que os constitua, não deverá ser inferior a:
 
@@ -5301,13 +5368,13 @@ e) Aumentar a condutibilidade do solo, preparando-o convenientemente com a adiç
 
 4. Entre as substâncias condutoras a que se refere a alínea e) do comentário anterior cita-se, por exemplo, o sulfato de cobre.
 
-###### Art. 630.º Implantação dos eléctrodos de terra. - As chapas, varetas, tubos e perfilados deverão, em regra, ficar enterrados verticalmente no solo, a uma profundidade tal que entre a superfície do solo e a parte superior do eléctrodo haja uma distância mínima de 0,80 m.
+Art. 630.º Implantação dos eléctrodos de terra. - As chapas, varetas, tubos e perfilados deverão, em regra, ficar enterrados verticalmente no solo, a uma profundidade tal que entre a superfície do solo e a parte superior do eléctrodo haja uma distância mínima de 0,80 m.
 
 Comentário. - Na escolha do tipo de eléctrodo recomenda-se ter em conta as condições do terreno onde o mesmo é implantado.
 
 8 - Instalações provisórias
 
-###### Art. 631.º Condições gerais de estabelecimento. - As instalações provisórias deverão satisfazer às prescrições deste Regulamento, podendo a fiscalização do Governo dispensar a aplicação de algumas delas, com excepção das relativas às instalações estabelecidas em locais com risco de incêndio ou com risco de explosão e à protecção das instalações e das pessoas.
+Art. 631.º Condições gerais de estabelecimento. - As instalações provisórias deverão satisfazer às prescrições deste Regulamento, podendo a fiscalização do Governo dispensar a aplicação de algumas delas, com excepção das relativas às instalações estabelecidas em locais com risco de incêndio ou com risco de explosão e à protecção das instalações e das pessoas.
 
 Comentários. - 1. Entre as prescrições cujo cumprimento pode ser dispensado citam-se, por exemplo, as relativas a:
 
@@ -5319,21 +5386,21 @@ c) Secções nominais.
 
 2. Recomenda-se que, em locais de estaleiros de obras e outros locais sujeitos a vibrações, os suportes para lâmpadas de incandescência sejam do tipo baioneta.
 
-###### Art. 632.º Duração. - A duração das instalações provisórias deverá reduzir-se ao estritamente necessário, podendo a fiscalização do Governo ordenar a desmontagem, remoção ou substituição das instalações quando o julgar conveniente.
+Art. 632.º Duração. - A duração das instalações provisórias deverá reduzir-se ao estritamente necessário, podendo a fiscalização do Governo ordenar a desmontagem, remoção ou substituição das instalações quando o julgar conveniente.
 
-###### Art. 633.º Tipos de canalizações. - 1. Nas canalizações flexíveis para instalações provisórias não deverão ser empregados condutores de características inferiores às dos classificados sob os códigos 213 100 ou 315 200, conforme os riscos existentes.
+Art. 633.º Tipos de canalizações. - 1. Nas canalizações flexíveis para instalações provisórias não deverão ser empregados condutores de características inferiores às dos classificados sob os códigos 213 100 ou 315 200, conforme os riscos existentes.
 
 2. De uma forma geral, e sempre que possível, nas canalizações referidas no número anterior deverão empregar-se cabos multipolares.
 
-###### Art. 634.º Colocação das canalizações. - 1. Nas instalações provisórias será permitido o emprego de condutores flexíveis fixados a estruturas rígidas, devendo tomar-se, no entanto, as precauções indispensáveis para que os referidos condutores não fiquem sujeitos a acções mecânicas que possam danificar os respectivos isolamentos, especialmente nos pontos de fixação.
+Art. 634.º Colocação das canalizações. - 1. Nas instalações provisórias será permitido o emprego de condutores flexíveis fixados a estruturas rígidas, devendo tomar-se, no entanto, as precauções indispensáveis para que os referidos condutores não fiquem sujeitos a acções mecânicas que possam danificar os respectivos isolamentos, especialmente nos pontos de fixação.
 
 2. Na ligação de condutores flexíveis deverão empregar-se acessórios de ligação adequados, não sendo permitidas as ligações por torçada.
 
 Comentário. - Em circuitos monofásicos de pequena potência para alimentação de tomadas de corrente ou de lâmpadas é técnica corrente empregar condutores flexíveis paralelos, especiais para instalações provisórias, sendo a ligação das tomadas ou dos suportes feita por meio de duas pontas, existentes nestes aparelhos, que se cravam no isolamento dos condutores, evitando-se, assim, ter de desnudar estes.
 
-###### Art. 635.º Emprego de cabos prolongadores. - No caso de emprego de cabos prolongadores deverão ser tomadas medidas para evitar que os conjuntos dos aparelhos de ligação se possam eventualmente separar.
+Art. 635.º Emprego de cabos prolongadores. - No caso de emprego de cabos prolongadores deverão ser tomadas medidas para evitar que os conjuntos dos aparelhos de ligação se possam eventualmente separar.
 
-###### Art. 636.º Protecção das pessoas. - 1. Em estaleiros de obras, a protecção das pessoas deverá ser efectuada pelo emprego de aparelhos de protecção sensíveis à corrente diferencial-residual.
+Art. 636.º Protecção das pessoas. - 1. Em estaleiros de obras, a protecção das pessoas deverá ser efectuada pelo emprego de aparelhos de protecção sensíveis à corrente diferencial-residual.
 
 2. Os aparelhos de utilização portáteis deverão ser alimentados por instalações de tensão reduzida de segurança ou por transformadores de isolamento ou ser da classe II de isolamento.
 
@@ -5343,7 +5410,7 @@ Comentário. - Em estaleiros de obras, recomenda-se que as tomadas para alimenta
 
 9.1 - Verificação das instalações
 
-###### Art. 637.º Verificação das instalações. - 1. As instalações de utilização deverão ser verificadas quando da sua entrada em serviço e por ocasião de modificações importantes.
+Art. 637.º Verificação das instalações. - 1. As instalações de utilização deverão ser verificadas quando da sua entrada em serviço e por ocasião de modificações importantes.
 
 2. Quando da entrada em serviço das instalações de utilização, deverão ser feitas, pelo menos, as verificações seguintes:
 
@@ -5429,17 +5496,17 @@ Devem ser efectuadas, pelo menos, três medições, uma das quais a 1 m de um el
 
 9.2 - Exploração das instalações
 
-###### Art. 638.º Serviço nas instalações. - No serviço das instalações não deverão ser manejados, sem se tomar os devidos cuidados, quaisquer objectos que possam provocar contactos directos com elementos sob tensão.
+Art. 638.º Serviço nas instalações. - No serviço das instalações não deverão ser manejados, sem se tomar os devidos cuidados, quaisquer objectos que possam provocar contactos directos com elementos sob tensão.
 
-###### Art. 639.º Execução de trabalhos. - 1. Os trabalhos nas instalações realizar-se-ão, normalmente, sem tensão, e, neste caso, só serão iniciados depois de o responsável por eles ter procedido ao corte da corrente.
+Art. 639.º Execução de trabalhos. - 1. Os trabalhos nas instalações realizar-se-ão, normalmente, sem tensão, e, neste caso, só serão iniciados depois de o responsável por eles ter procedido ao corte da corrente.
 
 2. Os trabalhos a executar sob tensão deverão ser efectuados seguindo a técnica adequada ao trabalho e usando o equipamento conveniente.
 
-###### Art. 640.º Material de reserva e acessórios da exploração. - Com vista a assegurar a continuidade de serviço, as instalações de utilização deverão ser dotadas com os materiais de reserva e acessórios da exploração mais necessários a tal fim.
+Art. 640.º Material de reserva e acessórios da exploração. - Com vista a assegurar a continuidade de serviço, as instalações de utilização deverão ser dotadas com os materiais de reserva e acessórios da exploração mais necessários a tal fim.
 
 Comentário. - Com o disposto no artigo tem-se em vista assegurar, principalmente, a existência de cartuchos fusíveis junto dos quadros, dos eventuais punhos para a sua manobra e de uma fonte de luz independente, em instalações cuja importância se justifique (por exemplo, estabelecimentos recebendo público e estabelecimentos industriais).
 
-###### Art. 641.º Instruções para primeiros socorros. - Em pontos apropriados das instalações de utilização estabelecidas em estabelecimentos industriais e em locais afectos a serviços eléctricos deverão ser afixadas as instruções aprovadas oficialmente para os primeiros socorros a prestar em caso de acidentes pessoais produzidos por correntes eléctricas.
+Art. 641.º Instruções para primeiros socorros. - Em pontos apropriados das instalações de utilização estabelecidas em estabelecimentos industriais e em locais afectos a serviços eléctricos deverão ser afixadas as instruções aprovadas oficialmente para os primeiros socorros a prestar em caso de acidentes pessoais produzidos por correntes eléctricas.
 
 Comentários. - 1. Recomenda-se que o pessoal afecto às instalações pratique com regularidade os exercícios de respiração artificial indicados nas instruções referidas.
 
@@ -5461,13 +5528,13 @@ a) Um frasco contendo uma solução de ácido bórico a 5%;
 
 b) Uma caixa contendo areia para deitar sobre o electrólito, em caso de derrame deste sobre o pavimento.
 
-###### Art. 642.º Acordo com outras entidades. - 1. Quando a realização de quaisquer trabalhos nas instalações de utilização possa pôr em risco a segurança do pessoal que os executa devido à proximidade de outras instalações, eléctricas ou não, ou pôr em perigo ou causar perturbações a essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
+Art. 642.º Acordo com outras entidades. - 1. Quando a realização de quaisquer trabalhos nas instalações de utilização possa pôr em risco a segurança do pessoal que os executa devido à proximidade de outras instalações, eléctricas ou não, ou pôr em perigo ou causar perturbações a essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
 
 2. Deverão tomar-se idênticas precauções quando a realização de trabalhos, que não sejam os referidos no número anterior, possa pôr em risco a segurança do pessoal que os executa devido à proximidade de instalações de utilização ou pôr em perigo ou causar perturbações a essas mesmas instalações.
 
 9.3 - Conservação das instalações
 
-###### Art. 643.º Conservação das instalações. - As instalações de utilização deverão ser convenientemente conservadas e mantidas em conformidade com as prescrições deste Regulamento e, por isso, sujeitas a inspecções periódicas.
+Art. 643.º Conservação das instalações. - As instalações de utilização deverão ser convenientemente conservadas e mantidas em conformidade com as prescrições deste Regulamento e, por isso, sujeitas a inspecções periódicas.
 
 Comentários. - 1. As inspecções têm por objectivo verificar se as instalações se mantêm em conformidade com este Regulamento, devendo ser feitas unicamente por pessoal qualificado.
 
@@ -5483,7 +5550,7 @@ d) Condições de arranque imediato das fontes de alimentação de instalações
 
 3. Nas inspecções periódicas, a medição da resistência de isolamento, a que se refere a alínea b) do n.º 2 do artigo 637.º e o comentário 2 do mesmo artigo, basta apenas ser feita em relação à terra. Com efeito, a medição da resistência de isolamento entre condutores, que permite verificar na altura da entrada em serviço da instalação a boa execução desta, não apresenta interesse especial, a não ser para a procura de qualquer defeito.
 
-###### Art. 644.º Contrôle das instalações de emergência. - 1. As fontes de alimentação de emergência deverão ser dotadas, sempre que possível, de meios que permitam verificar facilmente as condições em que se encontram e quais as causas de um eventual mau funcionamento.
+Art. 644.º Contrôle das instalações de emergência. - 1. As fontes de alimentação de emergência deverão ser dotadas, sempre que possível, de meios que permitam verificar facilmente as condições em que se encontram e quais as causas de um eventual mau funcionamento.
 
 2. Os aparelhos de comando automático das instalações de emergência deverão ser dotados de meios que permitam verificar facilmente o seu estado de funcionamento, através de conveniente simulação de falta de tensão.
 
@@ -5493,7 +5560,7 @@ Comentários. - 1. Quando a fonte de alimentação de emergência for uma bateri
 
 2. Quando a fonte de alimentação de emergência for um gerador, este deve possuir meios que permitam verificar facilmente se se encontra nas condições necessárias de arranque imediato e sinalizem as causas de uma eventual falha de arranque.
 
-###### Art. 645.º Periodicidade das inspecções às instalações de utilização. - A periodicidade das inspecções às instalações de utilização não deverá ser superior à seguinte:
+Art. 645.º Periodicidade das inspecções às instalações de utilização. - A periodicidade das inspecções às instalações de utilização não deverá ser superior à seguinte:
 
 a) Para casas de espectáculo e diversão em recinto fechado, para locais com risco de incêndio ou com risco de explosão de estabelecimentos industriais e para instalações provisórias: um ano;
 
@@ -5501,11 +5568,11 @@ b) Para estabelecimentos recebendo público e para estabelecimentos industriais,
 
 c) Para outros locais: dez anos.
 
-# PARTE III — Instalações de telecomunicação
+## PARTE III — Instalações de telecomunicação
 
-###### Art. 646.º Condições gerais de estabelecimento. - As instalações de utilização de telecomunicação deverão ser estabelecidas de acordo com as disposições deste Regulamento que lhes sejam aplicáveis.
+Art. 646.º Condições gerais de estabelecimento. - As instalações de utilização de telecomunicação deverão ser estabelecidas de acordo com as disposições deste Regulamento que lhes sejam aplicáveis.
 
-###### Art. 647.º Tipos de canalizações. - 1. Nas instalações de telecomunicação poderá ser empregado qualquer dos tipos de canalizações referidos no artigo 350.º
+Art. 647.º Tipos de canalizações. - 1. Nas instalações de telecomunicação poderá ser empregado qualquer dos tipos de canalizações referidos no artigo 350.º
 
 2. Os condutores a empregar nas canalizações não deverão ter características inferiores às dos classificados sob os códigos seguintes:
 
@@ -5519,9 +5586,9 @@ d) Canalizações fixas, à vista, constituídas por cabos com duas bainhas ou u
 
 e) Canalizações fixas, à vista ou ocultas, constituídas por cabos com armadura: 107 210.
 
-###### Art. 648.º Diâmetro nominal mínimo dos condutores. - Nas canalizações de telecomunicação não poderão ser empregados condutores com diâmetros nominais inferiores a 0,5 mm.
+Art. 648.º Diâmetro nominal mínimo dos condutores. - Nas canalizações de telecomunicação não poderão ser empregados condutores com diâmetros nominais inferiores a 0,5 mm.
 
-###### Art. 649.º Tipos e dimensões mínimas dos tubos. - 1. Nas canalizações fixas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, estes deverão obedecer ao disposto no artigo 206.º e no n.º 1 do artigo 207.º, nas canalizações à vista, e no artigo 242.º e no n.º 1 do artigo 243.º, nas canalizações ocultas.
+Art. 649.º Tipos e dimensões mínimas dos tubos. - 1. Nas canalizações fixas constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos, estes deverão obedecer ao disposto no artigo 206.º e no n.º 1 do artigo 207.º, nas canalizações à vista, e no artigo 242.º e no n.º 1 do artigo 243.º, nas canalizações ocultas.
 
 2. O diâmetro ou as dimensões da secção recta dos tubos deverão ser determinados de modo que a soma das secções correspondentes ao diâmetro exterior médio máximo dos condutores isolados ou cabos não exceda 40% da secção recta interior do tubo.
 
@@ -5529,9 +5596,9 @@ Comentário. - Em instalações de telecomunicação, em geral, empregam-se cana
 
 Por esta razão, contrariamente à orientação seguida nos artigos 207.º e 243.º, não se indica o diâmetro nominal dos tubos a empregar em função do número e diâmetro dos condutores isolados.
 
-###### Art. 650.º Ligação entre condutores. - Em instalações de telecomunicação será permitida a ligação entre condutores por meio de soldadura fraca.
+Art. 650.º Ligação entre condutores. - Em instalações de telecomunicação será permitida a ligação entre condutores por meio de soldadura fraca.
 
-###### Art. 651.º Ligações internas dos quadros. - 1. As ligações entre os diversos aparelhos montados em quadros poderão ser estabelecidas com condutores nus ou com condutores isolados ou cabos, devendo obedecer às disposições seguintes:
+Art. 651.º Ligações internas dos quadros. - 1. As ligações entre os diversos aparelhos montados em quadros poderão ser estabelecidas com condutores nus ou com condutores isolados ou cabos, devendo obedecer às disposições seguintes:
 
 a) Quando as ligações forem executadas com condutores nus, estes deverão ter diâmetro nominal não inferior a 0,5 mm;
 
@@ -5539,61 +5606,61 @@ b) Quando as ligações forem executadas em condutores isolados ou cabos, estes 
 
 2. As ligações, quando executadas em condutores isolados ou cabos, deverão ser feitas de acordo com o disposto no artigo 281.º ou por meio de soldadura fraca, torçada ou enrolamento sobre ligadores adequados.
 
-###### Art. 652.º Ligações internas dos aparelhos de utilização. - Nas ligações internas dos aparelhos de utilização não deverão, em regra, empregar-se condutores com diâmetro nominal inferior ao indicado no artigo 648.º
+Art. 652.º Ligações internas dos aparelhos de utilização. - Nas ligações internas dos aparelhos de utilização não deverão, em regra, empregar-se condutores com diâmetro nominal inferior ao indicado no artigo 648.º
 
-###### Art. 653.º Condutores de polaridade igual na mesma canalização. - Nas canalizações de telecomunicação será permitida a existência de mais de um condutor da mesma polaridade na mesma canalização.
+Art. 653.º Condutores de polaridade igual na mesma canalização. - Nas canalizações de telecomunicação será permitida a existência de mais de um condutor da mesma polaridade na mesma canalização.
 
 Comentário. - No caso dos circuitos de telecomunicação, a fraca potência e a reduzida tensão em jogo não dão, em regra, origem a quaisquer riscos.
 
-###### Art. 654.º Canalizações distintas. - 1. Em instalações de telecomunicação, as respectivas canalizações deverão ser distintas de outras canalizações eléctricas e ser delas facilmente diferenciáveis.
+Art. 654.º Canalizações distintas. - 1. Em instalações de telecomunicação, as respectivas canalizações deverão ser distintas de outras canalizações eléctricas e ser delas facilmente diferenciáveis.
 
 2. Quando houver conveniência, poderão empregar-se, nas instalações de telecomunicação, aparelhos de ligação comuns aos das instalações de baixa tensão, desde que esses aparelhos sejam dotados de separadores isolantes que dividam perfeitamente os circuitos.
 
-###### Art. 655.º Transformadores para alimentação de instalações de telecomunicação. - Quando as instalações de telecomunicação forem alimentadas por intermédio de transformadores, estes deverão ser de enrolamentos separados.
+Art. 655.º Transformadores para alimentação de instalações de telecomunicação. - Quando as instalações de telecomunicação forem alimentadas por intermédio de transformadores, estes deverão ser de enrolamentos separados.
 
 Comentário. - De acordo com o disposto no artigo, não é permitido o emprego de autotransformadores ou de resistências, por exemplo, para alimentação de rectificadores.
 
-###### Art. 656.º Proximidade de outras canalizações eléctricas. - As canalizações de telecomunicação, à vista ou ocultas, deverão encontrar-se afastadas de, pelo menos, 1 cm ou 20 cm de canalizações eléctricas de baixa ou alta tensão, respectivamente, ou ser delas convenientemente separadas.
+Art. 656.º Proximidade de outras canalizações eléctricas. - As canalizações de telecomunicação, à vista ou ocultas, deverão encontrar-se afastadas de, pelo menos, 1 cm ou 20 cm de canalizações eléctricas de baixa ou alta tensão, respectivamente, ou ser delas convenientemente separadas.
 
-# PARTE IV — Instalações de alta tensão
+## PARTE IV — Instalações de alta tensão
 
 1 - Disposições gerais
 
-###### Art. 657.º Condições gerais de estabelecimento. - 1. As instalações de utilização de alta tensão deverão ser estabelecidas de acordo com as disposições deste Regulamento que lhes sejam aplicáveis, com as do Regulamento de Segurança de Subestações e de Postos de Transformação e de Seccionamento e com as do Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
+Art. 657.º Condições gerais de estabelecimento. - 1. As instalações de utilização de alta tensão deverão ser estabelecidas de acordo com as disposições deste Regulamento que lhes sejam aplicáveis, com as do Regulamento de Segurança de Subestações e de Postos de Transformação e de Seccionamento e com as do Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
 
 2. Às instalações de utilização de tensão nominal igual ou inferior a 1 kV, em corrente alternada, ou a 1,5 kV, em corrente contínua, serão aplicáveis as disposições relativas às instalações de baixa tensão que não sejam contrariadas pelos artigos 658.º e 660.º a 663.º
 
 Comentário. - De entre as instalações que devem ser estabelecidas de acordo com o disposto no Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento citam-se, por exemplo, as de motores de alta tensão e as de estações de ensaio.
 
-###### Art. 658.º Tipos de canalizações. - 1. Nas instalações de utilização de alta tensão apenas poderão ser empregadas canalizações constituídas por condutores nus estabelecidos sobre isoladores, por cabos rígidos com duas bainhas ou uma bainha reforçada, ou com armadura.
+Art. 658.º Tipos de canalizações. - 1. Nas instalações de utilização de alta tensão apenas poderão ser empregadas canalizações constituídas por condutores nus estabelecidos sobre isoladores, por cabos rígidos com duas bainhas ou uma bainha reforçada, ou com armadura.
 
 2. As canalizações constituídas por condutores nus estabelecidos sobre isoladores apenas poderão ser empregadas em locais afectos a serviços eléctricos ou em estabelecimentos industriais, devendo, neste caso, ser protegidas por um invólucro contínuo.
 
 3. As canalizações enterradas deverão ser colocadas à profundidade mínima de 0,80 m, excepto nas travessias de arruamentos com trânsito de veículos, em que aquela profundidade não poderá ser inferior a 1 m, e nos casos previstos no n.º 2 do artigo 269.º
 
-###### Art. 659.º Aparelhos de corte. - Os aparelhos de corte de alta tensão deverão ser de corte visível, com encravamento na posição de aberto.
+Art. 659.º Aparelhos de corte. - Os aparelhos de corte de alta tensão deverão ser de corte visível, com encravamento na posição de aberto.
 
 Comentários. - 1. Como aparelho de corte visível pode servir um aparelho de corte não visível instalado em montagem extraível, ou um aparelho extraível.
 
 2. Como encravamento exigido pelo artigo pode empregar-se um cadeado.
 
-###### Art. 660.º Localização dos aparelhos de corte ou de protecção. - Nas instalações de utilização de alta tensão estabelecidas em locais que não sejam afectos a serviços eléctricos, os aparelhos de corte ou de protecção deverão ser montados em quadros.
+Art. 660.º Localização dos aparelhos de corte ou de protecção. - Nas instalações de utilização de alta tensão estabelecidas em locais que não sejam afectos a serviços eléctricos, os aparelhos de corte ou de protecção deverão ser montados em quadros.
 
-###### Art. 661.º Quadros. - 1. Os quadros das instalações de utilização de alta tensão deverão ser do tipo armário e ter as portas de acesso ao seu interior dotadas de encravamentos, mecânicos ou eléctricos, impedindo o acesso às partes activas.
+Art. 661.º Quadros. - 1. Os quadros das instalações de utilização de alta tensão deverão ser do tipo armário e ter as portas de acesso ao seu interior dotadas de encravamentos, mecânicos ou eléctricos, impedindo o acesso às partes activas.
 
 2. Dispensar-se-á a existência dos encravamentos referidos no número anterior se as partes que ficarem sob tensão depois de abertas as portas forem resguardadas por segundas portas, de rede, tendo afixados letreiros indicando claramente a existência de alta tensão.
 
 3. Os comprimentos das linhas de fuga e as distâncias no ar das partes activas nuas dos quadros não deverão ser inferiores aos valores indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Comentário. - Os encravamentos a que se faz referência nos n.os 1 e 2 do artigo devem ter também em atenção a sequência de manobras a que é necessário atender para ligar ou desligar um quadro de alta tensão.
 
-###### Art. 662.º Transformadores. - Os transformadores de alta tensão em baixa tensão, ou vice-versa, deverão ser de enrolamentos separados, admitindo-se, porém, para instalações de tensão nominal não superior a 500 V, o emprego de transformadores de enrolamentos não separados, desde que tal seja imposto pelas necessidades de exploração e os circuitos de baixa tensão assim alimentados sejam executados de acordo com as disposições relativas àquela tensão.
+Art. 662.º Transformadores. - Os transformadores de alta tensão em baixa tensão, ou vice-versa, deverão ser de enrolamentos separados, admitindo-se, porém, para instalações de tensão nominal não superior a 500 V, o emprego de transformadores de enrolamentos não separados, desde que tal seja imposto pelas necessidades de exploração e os circuitos de baixa tensão assim alimentados sejam executados de acordo com as disposições relativas àquela tensão.
 
-###### Art. 663.º Aparelhos de utilização. - Nas instalações de utilização de alta tensão não será permitido o emprego de aparelhos de utilização móveis ou portáteis alimentados a alta tensão.
+Art. 663.º Aparelhos de utilização. - Nas instalações de utilização de alta tensão não será permitido o emprego de aparelhos de utilização móveis ou portáteis alimentados a alta tensão.
 
-###### Art. 664.º Protecção contra sobreintensidades. - 1. Nas instalações de utilização de alta tensão, a protecção contra sobreintensidades poderá ser assegurada por meio de disjuntores ou por meio de corta-circuitos fusíveis, cuja montagem deverá obedecer às disposições seguintes:
+Art. 664.º Protecção contra sobreintensidades. - 1. Nas instalações de utilização de alta tensão, a protecção contra sobreintensidades poderá ser assegurada por meio de disjuntores ou por meio de corta-circuitos fusíveis, cuja montagem deverá obedecer às disposições seguintes:
 
 a) Os disjuntores, se não forem de corte visível ou do tipo extraível, deverão ser associados a seccionadores de corte visível, mecânica e electricamente encravados com o disjuntor, de forma a não poderem ser manobrados em carga;
 
@@ -5607,25 +5674,25 @@ b) Os corta-circuitos fusíveis deverão ser associados a interruptores de corte
 
 2.1.1 - Instalações de tubos de descarga de tensão em vazio não superior a 1 kV
 
-###### Art. 665.º Corte das instalações. - 1. Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, o aparelho de corte a que se refere o artigo 315.º deverá ser instalado do lado de baixa tensão do transformador de alimentação, não sendo permitido inserir qualquer aparelho de corte ou de protecção no circuito de alta tensão.
+Art. 665.º Corte das instalações. - 1. Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, o aparelho de corte a que se refere o artigo 315.º deverá ser instalado do lado de baixa tensão do transformador de alimentação, não sendo permitido inserir qualquer aparelho de corte ou de protecção no circuito de alta tensão.
 
 2. O emprego de interruptores horários, combinadores ou outros aparelhos de comando não dispensará a existência do aparelho de corte.
 
 3. Em instalações amovíveis, quando estas forem ligadas por meio de ficha e tomada, será dispensável o aparelho de corte.
 
-###### Art. 666.º Isolamento dos terminais e dos suportes dos tubos de descarga. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, os terminais dos tubos e os seus suportes deverão ser isolados de forma que, com os tubos colocados, não haja partes sob tensão acessíveis sem meios especiais.
+Art. 666.º Isolamento dos terminais e dos suportes dos tubos de descarga. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, os terminais dos tubos e os seus suportes deverão ser isolados de forma que, com os tubos colocados, não haja partes sob tensão acessíveis sem meios especiais.
 
 Comentário. - No caso de tubos luminescentes ou fluorescentes de cátodo frio, os suportes referidos no artigo são as caixas de ligação dos eléctrodos, e não os apoios intermédios de fixação dos tubos.
 
-###### Art. 667.º Tipos de canalizações. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, as canalizações compreendidas entre os transformadores de alimentação e os tubos não deverão ter características inferiores às dos condutores classificados sob o código 305 100.
+Art. 667.º Tipos de canalizações. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, as canalizações compreendidas entre os transformadores de alimentação e os tubos não deverão ter características inferiores às dos condutores classificados sob o código 305 100.
 
-###### Art. 668.º Inacessibilidade das canalizações. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, as canalizações compreendidas entre os transformadores de alimentação e os tubos não deverão ser acessíveis sem meios especiais ao longo de todo o seu percurso.
+Art. 668.º Inacessibilidade das canalizações. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, as canalizações compreendidas entre os transformadores de alimentação e os tubos não deverão ser acessíveis sem meios especiais ao longo de todo o seu percurso.
 
-###### Art. 669.º Montagem das canalizações. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, os condutores das canalizações compreendidas entre os transformadores ou reactâncias de alimentação e os tubos não poderão ter intercalados quaisquer aparelhos de ligação.
+Art. 669.º Montagem das canalizações. - Nas instalações de tubos de descarga de tensão em vazio não superior a 1 kV, os condutores das canalizações compreendidas entre os transformadores ou reactâncias de alimentação e os tubos não poderão ter intercalados quaisquer aparelhos de ligação.
 
 2.1.2 - Instalações de tubos de descarga de tensão em vazio superior a 1 kV
 
-###### Art. 670.º Corte das instalações. - 1. Nas instalações de tubos de descarga de tensão em vazio superior a 1 kV, o aparelho de corte a que se refere o artigo 315.º deverá ser instalado do lado da baixa tensão do transformador de alimentação, não sendo permitido inserir qualquer outro aparelho de corte ou protecção no circuito de alta tensão, com excepção de interruptores ou comutadores automáticos, os quais, quando fazendo parte do circuito de alta tensão, serão colocados fora do alcance de pessoas não qualificadas, quer encerrando-os em caixas incombustíveis em locais fechados, quer protegendo-os por grades metálicas, de forma tal que a abertura da caixa ou da porta do local, ou o levantamento da grade, corte todos os condutores activos.
+Art. 670.º Corte das instalações. - 1. Nas instalações de tubos de descarga de tensão em vazio superior a 1 kV, o aparelho de corte a que se refere o artigo 315.º deverá ser instalado do lado da baixa tensão do transformador de alimentação, não sendo permitido inserir qualquer outro aparelho de corte ou protecção no circuito de alta tensão, com excepção de interruptores ou comutadores automáticos, os quais, quando fazendo parte do circuito de alta tensão, serão colocados fora do alcance de pessoas não qualificadas, quer encerrando-os em caixas incombustíveis em locais fechados, quer protegendo-os por grades metálicas, de forma tal que a abertura da caixa ou da porta do local, ou o levantamento da grade, corte todos os condutores activos.
 
 2. O emprego de interruptores horários, combinadores ou outros aparelhos de comando não dispensará a existência do aparelho de corte.
 
@@ -5633,59 +5700,59 @@ Comentário. - No caso de tubos luminescentes ou fluorescentes de cátodo frio, 
 
 Comentário. - O dispositivo referido no n.º 3 do artigo pode ser constituído por um encravamento feito por meio de chave.
 
-###### Art. 671.º Isolamento dos terminais dos tubos de descarga. - 1. Nas instalações de tubos de descarga de tensão em vazio superior a 1 kV, os tubos deverão ser protegidos por peças, metálicas ou isolantes, que impeçam o contacto com partes normalmente sob tensão.
+Art. 671.º Isolamento dos terminais dos tubos de descarga. - 1. Nas instalações de tubos de descarga de tensão em vazio superior a 1 kV, os tubos deverão ser protegidos por peças, metálicas ou isolantes, que impeçam o contacto com partes normalmente sob tensão.
 
 2. Os terminais dos tubos de descarga, quando não protegidos por suportes de material isolante, deverão ficar afastados de qualquer peça condutora, normalmente sem tensão, pelo menos, 7 mm/kV de tensão em vazio em relação à terra.
 
-###### Art. 672.º Montagem dos tubos de descarga. - 1. Nas instalações de tubos de descarga de tensão em vazio superior a 1 kV, os tubos deverão ser montados em condições tais que não fiquem expostos a solicitações mecânicas capazes de os danificar.
+Art. 672.º Montagem dos tubos de descarga. - 1. Nas instalações de tubos de descarga de tensão em vazio superior a 1 kV, os tubos deverão ser montados em condições tais que não fiquem expostos a solicitações mecânicas capazes de os danificar.
 
 2. Os apoios dos tubos deverão ser isolantes e manter estes a uma distância não inferior a 10 mm da superfície condutora mais próxima.
 
 3. Os tubos deverão ser montados de forma a impedir a entrada de água no interior das caixas de protecção dos respectivos terminais.
 
-###### Art. 673.º Tipos de canalizações. - 1. Nas canalizações fixas, à vista ou ocultas, constituídas por cabos protegidos por tubos, se estes forem metálicos, os cabos não deverão ter características inferiores às dos classificados sob o código 405 100.
+Art. 673.º Tipos de canalizações. - 1. Nas canalizações fixas, à vista ou ocultas, constituídas por cabos protegidos por tubos, se estes forem metálicos, os cabos não deverão ter características inferiores às dos classificados sob o código 405 100.
 
 2. Nas canalizações fixas, à vista, constituídas por cabos ou, à vista ou ocultas, constituídas por cabos protegidos por tubos não metálicos, os cabos não deverão ter características inferiores às dos classificados sob o código 405 210.
 
 3. Quando as canalizações se destinarem a ligar terminais de tubos distanciados entre si não mais de 50 cm e colocados no interior de uma mesma caixa metálica, poderão ser empregados condutores nus.
 
-###### Art. 674.º Inacessibilidade das canalizações. - Às instalações de tubos de descarga de tensão em vazio superior a 1 kV será aplicável o disposto no artigo 668.º
+Art. 674.º Inacessibilidade das canalizações. - Às instalações de tubos de descarga de tensão em vazio superior a 1 kV será aplicável o disposto no artigo 668.º
 
-###### Art. 675.º Natureza e secção nominal das canalizações. - As canalizações de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão ser constituídas por cabos unipolares de secção nominal não inferior a 1,5 mm2 para tensões em vazio iguais ou inferiores a 3 kV, em relação à terra, e 2,5 mm2 para tensões superiores, excepto no caso do n.º 3 do artigo 673.º, em que não deverá ser inferior a 6 mm2.
+Art. 675.º Natureza e secção nominal das canalizações. - As canalizações de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão ser constituídas por cabos unipolares de secção nominal não inferior a 1,5 mm2 para tensões em vazio iguais ou inferiores a 3 kV, em relação à terra, e 2,5 mm2 para tensões superiores, excepto no caso do n.º 3 do artigo 673.º, em que não deverá ser inferior a 6 mm2.
 
-###### Art. 676.º Montagem das canalizações. - 1. As canalizações de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão ser tão curtas quanto possível e montadas por forma a não se verificarem sobretensões resultantes de fenómenos de ressonância, originados pela associação das indutâncias dos transformadores ou reactâncias de alimentação com as capacidades dos condutores em relação às bainhas ou tubos, metálicos.
+Art. 676.º Montagem das canalizações. - 1. As canalizações de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão ser tão curtas quanto possível e montadas por forma a não se verificarem sobretensões resultantes de fenómenos de ressonância, originados pela associação das indutâncias dos transformadores ou reactâncias de alimentação com as capacidades dos condutores em relação às bainhas ou tubos, metálicos.
 
 2. Aos condutores das canalizações compreendidas entre os transformadores ou reactâncias de alimentação e os tubos será aplicável o disposto no artigo 669.º
 
 Comentário. - Os fenómenos referidos no n.º 1 do artigo podem verificar-se para condutores de comprimento superior a 6 m, pelo que se recomenda que, sempre que possível, este comprimento não seja excedido.
 
-###### Art. 677.º Ligações de condutores. - 1. Nas canalizações de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV, as ligações dos condutores aos terminais dos tubos, transformadores ou outros aparelhos deverão ser feitas por meio de mangas e ligadores adequados.
+Art. 677.º Ligações de condutores. - 1. Nas canalizações de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV, as ligações dos condutores aos terminais dos tubos, transformadores ou outros aparelhos deverão ser feitas por meio de mangas e ligadores adequados.
 
 2. As entradas dos condutores em caixas metálicas instaladas em locais húmidos, molhados ou expostos deverão ser exectuadas por forma que a água não possa penetrar no interior das mesmas.
 
-###### Art. 678.º Transformadores para alimentação de tubos de descarga. - 1. Na alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV apenas será permitido o emprego de transformadores de enrolamentos separados.
+Art. 678.º Transformadores para alimentação de tubos de descarga. - 1. Na alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV apenas será permitido o emprego de transformadores de enrolamentos separados.
 
 2. Os transformadores não deverão ter tensão secundária em vazio superior a 15 kV, nem uma tensão, em relação à terra, superior a 7,5 kV em vazio.
 
-###### Art. 679.º Inacessibilidade dos transformadores e das reactâncias. - Os transformadores ou reactâncias de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão estar fora do alcance, sem meios especiais, de pessoas não qualificadas, utilizando, para esse efeito, qualquer dos processos referidos no artigo 670.º
+Art. 679.º Inacessibilidade dos transformadores e das reactâncias. - Os transformadores ou reactâncias de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão estar fora do alcance, sem meios especiais, de pessoas não qualificadas, utilizando, para esse efeito, qualquer dos processos referidos no artigo 670.º
 
-###### Art. 680.º Localização dos transformadores e das reactâncias. - Os transformadores ou reactâncias de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão ser montados em locais de fácil e seguro acesso, para efeito de manutenção.
+Art. 680.º Localização dos transformadores e das reactâncias. - Os transformadores ou reactâncias de alimentação de instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão ser montados em locais de fácil e seguro acesso, para efeito de manutenção.
 
-###### Art. 681.º Proximidade de linhas aéreas. - 1. As distâncias entre quaisquer partes das instalações de tubos de descarga de tensão em vazio superior a 1 kV e linhas aéreas em condutores nus ou condutores isolados não deverão ser inferiores às prescritas no Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão e no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
+Art. 681.º Proximidade de linhas aéreas. - 1. As distâncias entre quaisquer partes das instalações de tubos de descarga de tensão em vazio superior a 1 kV e linhas aéreas em condutores nus ou condutores isolados não deverão ser inferiores às prescritas no Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão e no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
 
 2. Nos casos em que dificuldades técnicas ou despesas inerentes não aconselhem a observância do disposto no número anterior, a fiscalização do Governo poderá autorizar distâncias menores.
 
-###### Art. 682.º Sinalização. - Nas grades ou portas referidas no n.º 1 do artigo 670.º deverão ser colocados dísticos com a indicação «alta tensão» e tornando explícita a proibição de efectuar quaisquer trabalhos sem que se encontrem cortados todos os condutores activos, ainda que esses trabalhos sejam efectuados com apetrechos ou ferramentas dotados de isolamento.
+Art. 682.º Sinalização. - Nas grades ou portas referidas no n.º 1 do artigo 670.º deverão ser colocados dísticos com a indicação «alta tensão» e tornando explícita a proibição de efectuar quaisquer trabalhos sem que se encontrem cortados todos os condutores activos, ainda que esses trabalhos sejam efectuados com apetrechos ou ferramentas dotados de isolamento.
 
 2.2 - Instalações de iluminação alimentadas por circuitos série de alta tensão
 
-###### Art. 683.º Emprego. - O emprego de instalações de iluminação alimentadas por circuitos série de alta tensão só será permitido em locais em que outro tipo de instalação não seja técnica e economicamente conveniente.
+Art. 683.º Emprego. - O emprego de instalações de iluminação alimentadas por circuitos série de alta tensão só será permitido em locais em que outro tipo de instalação não seja técnica e economicamente conveniente.
 
 Comentários. - 1. As instalações de iluminação alimentadas por circuitos série de alta tensão usam-se, por exemplo, para iluminação de pistas de aeroportos, de auto-estradas, etc.
 
 2. Os circuitos série a que se refere o artigo podem ser executados ligando as lâmpadas directamente em série (série directa) ou ligando-as a transformadores de isolamento ligados em série (série indirecta).
 
-###### Art. 684.º Transformadores. - 1. Os transformadores de corrente secundária constante a empregar em instalações de iluminação alimentadas por circuitos série de alta tensão deverão ser de enrolamentos separados.
+Art. 684.º Transformadores. - 1. Os transformadores de corrente secundária constante a empregar em instalações de iluminação alimentadas por circuitos série de alta tensão deverão ser de enrolamentos separados.
 
 2. Os transformadores deverão ser dotados de aparelhos de protecção contra sobretensões que assegurem o corte dos condutores activos de alimentação, sempre que:
 
@@ -5699,7 +5766,7 @@ Comentários. - 1. Nos transformadores a que se refere o artigo não é necessá
 
 2. Os transformadores a que se refere este artigo são designados, normalmente, por «transformadores de corrente constante e reguladores de brilho», não sendo aqueles a que se faz referência no comentário 2 do artigo 683.º
 
-###### Art. 685.º Tipos de canalizações. - 1. As canalizações das instalações de iluminação alimentadas por circuitos série de alta tensão deverão ter isolamento para a tensão existente entre terminais do secundário do transformador de corrente constante que as alimente, quando estiver a plena carga.
+Art. 685.º Tipos de canalizações. - 1. As canalizações das instalações de iluminação alimentadas por circuitos série de alta tensão deverão ter isolamento para a tensão existente entre terminais do secundário do transformador de corrente constante que as alimente, quando estiver a plena carga.
 
 2. Nas canalizações não poderão ser empregados cabos com bainha ou armadura metálica magnética.
 
@@ -5707,41 +5774,41 @@ Comentários. - 1. Nos transformadores a que se refere o artigo não é necessá
 
 Comentário. - Quando os condutores de circuitos série de alta tensão forem protegidos por peças metálicas formando circuito magnético fechado, como sejam postes metálicos, o condutor de ida e o condutor de volta devem ser envolvidos pela mesma peça, de forma a anularem-se os respectivos campos magnéticos.
 
-###### Art. 686.º Aparelhos de iluminação para série indirecta. - Nas instalações de iluminação alimentadas por circuitos série de alta tensão poderão ser empregados aparelhos de iluminação de baixa tensão, desde que estes sejam alimentados em série indirecta por intermédio de transformadores de isolamento.
+Art. 686.º Aparelhos de iluminação para série indirecta. - Nas instalações de iluminação alimentadas por circuitos série de alta tensão poderão ser empregados aparelhos de iluminação de baixa tensão, desde que estes sejam alimentados em série indirecta por intermédio de transformadores de isolamento.
 
 2.3 - Aparelhos de electromedicina e semelhantes
 
 2.3.1 - Disposições gerais
 
-###### Art. 687.º Acessibilidade de órgãos sob tensão. - Os órgãos sob tensão, não isolados, dos aparelhos de electromedicina de tensão nominal superior à tensão reduzida e que possam ou tenham de ser tocados para fins terapêuticos apenas deverão poder ser acessíveis de um local electricamente isolado de forma adequada e sem qualquer contacto com a terra.
+Art. 687.º Acessibilidade de órgãos sob tensão. - Os órgãos sob tensão, não isolados, dos aparelhos de electromedicina de tensão nominal superior à tensão reduzida e que possam ou tenham de ser tocados para fins terapêuticos apenas deverão poder ser acessíveis de um local electricamente isolado de forma adequada e sem qualquer contacto com a terra.
 
-###### Art. 688.º Aparelho de corte. - A existência de interruptores ou disjuntores incorporados nos aparelhos de electromedicina não dispensará o emprego do aparelho de corte a que se refere o artigo 315.º
+Art. 688.º Aparelho de corte. - A existência de interruptores ou disjuntores incorporados nos aparelhos de electromedicina não dispensará o emprego do aparelho de corte a que se refere o artigo 315.º
 
 2.3.2 - Instalações de raios X
 
-###### Art. 689.º Tipos de instalações. - As disposições dos artigos 690.º a 699.º serão aplicáveis às instalações de produção ou utilização de raios X para uso médico, veterinário, industrial ou científico e às instalações de construção e reparação de aparelhos de raios X.
+Art. 689.º Tipos de instalações. - As disposições dos artigos 690.º a 699.º serão aplicáveis às instalações de produção ou utilização de raios X para uso médico, veterinário, industrial ou científico e às instalações de construção e reparação de aparelhos de raios X.
 
 Comentário. - Além dos perigos que podem resultar de defeitos da respectiva instalação eléctrica, as instalações de raios X emitem radiações que são susceptíveis de causar graves prejuízos à saúde, não só de quem as maneja ou a elas se encontra submetido, como à de pessoas que trabalham ou vivem na proximidade dos locais onde tais aparelhos funcionam. Nestas condições, os aparelhos que produzam raios X apenas devem ser manejados por pessoas que possuam os necessários conhecimentos, para impedir que os efeitos nocivos das radiações possam prejudicar terceiros.
 
-###### Art. 690.º Tensão de alimentação de instalações de raios X. - As instalações de raios X apenas poderão ser alimentadas a partir de instalações de baixa tensão.
+Art. 690.º Tensão de alimentação de instalações de raios X. - As instalações de raios X apenas poderão ser alimentadas a partir de instalações de baixa tensão.
 
-###### Art. 691.º Localização dos aparelhos. - 1. Os aparelhos de raios X só poderão ser instalados, em permanência, em locais sem riscos especiais ou temporariamente húmidos.
+Art. 691.º Localização dos aparelhos. - 1. Os aparelhos de raios X só poderão ser instalados, em permanência, em locais sem riscos especiais ou temporariamente húmidos.
 
 2. Os aparelhos de raios X móveis ou portáteis apenas poderão ser empregados em locais que não sejam dos tipos referidos no número anterior quando de construção adequada ao funcionamento nas condições ambientes existentes nesses locais.
 
 3. Os aparelhos de raios X só poderão ser empregados em locais com risco de incêndio ou com risco de explosão quando nenhuma das suas partes seja susceptível de produzir arcos ou, caso contrário, essas partes se encontrem encerradas em caixas com protecção de classe adequada ao local.
 
-###### Art. 692.º Ventilação dos locais. - Os locais onde se encontrem instalados, em permanência, aparelhos de raios X deverão ser convenientemente ventilados e dotados de dispositivos assegurando que o ar seja renovado durante os períodos de funcionamento dos referidos aparelhos.
+Art. 692.º Ventilação dos locais. - Os locais onde se encontrem instalados, em permanência, aparelhos de raios X deverão ser convenientemente ventilados e dotados de dispositivos assegurando que o ar seja renovado durante os períodos de funcionamento dos referidos aparelhos.
 
-###### Art. 693.º Sinalização dos locais. - 1. Os locais onde se encontrem instalados, em permanência, aparelhos de raios X deverão ser dotados de uma sinalização luminosa, colocada do lado de fora das portas, em local facilmente visível, indicando se os referidos aparelhos se encontram ou não em funcionamento.
+Art. 693.º Sinalização dos locais. - 1. Os locais onde se encontrem instalados, em permanência, aparelhos de raios X deverão ser dotados de uma sinalização luminosa, colocada do lado de fora das portas, em local facilmente visível, indicando se os referidos aparelhos se encontram ou não em funcionamento.
 
 2. A sinalização deverá ser ligada automaticamente logo que a alimentação de baixa tensão seja ligada aos aparelhos de raios X existentes no local.
 
-###### Art. 694.º Aparelho de corte. - 1. Quando os aparelhos de corte exigidos pelo artigo 315.º forem comandados a distância, deverão ser dotados de sinalização luminosa da posição em que se encontrem.
+Art. 694.º Aparelho de corte. - 1. Quando os aparelhos de corte exigidos pelo artigo 315.º forem comandados a distância, deverão ser dotados de sinalização luminosa da posição em que se encontrem.
 
 2. Independentemente do comando a distância de que sejam dotados, os aparelhos de corte deverão ter possibilidade de ser comandados do próprio local em que se encontram e possuir, junto a eles, dispositivo de encravamento, dotado de chave, permitindo imobilizá-los na posição de desligado.
 
-###### Art. 695.º Comando dos aparelhos. - 1. Os aparelhos de raios X destinados a fins médicos ou veterinários deverão obedecer às disposições seguintes:
+Art. 695.º Comando dos aparelhos. - 1. Os aparelhos de raios X destinados a fins médicos ou veterinários deverão obedecer às disposições seguintes:
 
 a) Os aparelhos de radiografia serem comandados por um interruptor de contrôle automático do tempo de exposição;
 
@@ -5753,13 +5820,13 @@ c) Os aparelhos de terapia serem dotados de interruptor de contrôle automático
 
 3. Se os interruptores referidos nos números anteriores forem do tipo de pedal, deverão ser dotados de guarda, impedindo que, ao serem pisados acidentalmente, a ligação seja estabelecida.
 
-###### Art. 696.º Sinalização e seccionamento. - 1. Quando mais de um posto de trabalho de uma instalação de raios X for alimentado pela mesma fonte de alta tensão por intermédio de um comutador ou dispositivo equivalente, cada posto de trabalho deverá ser dotado de um sistema de sinalização avisando que a alta tensão vai ser ligada e de um seccionador permitindo isolá-lo do referido gerador.
+Art. 696.º Sinalização e seccionamento. - 1. Quando mais de um posto de trabalho de uma instalação de raios X for alimentado pela mesma fonte de alta tensão por intermédio de um comutador ou dispositivo equivalente, cada posto de trabalho deverá ser dotado de um sistema de sinalização avisando que a alta tensão vai ser ligada e de um seccionador permitindo isolá-lo do referido gerador.
 
 2. O sistema de sinalização deverá ser de funcionamento automático e seguro, actuando sempre antes de a alta tensão ser ligada para o posto de trabalho em causa, e encravado mecânica ou electricamente com o comutador por forma a evitar falsas manobras.
 
 3. O seccionador não deverá ter partes sob tensão acessíveis, devendo ser dotado de dispositivo de encravamento na posição de desligado.
 
-###### Art. 697.º Protecção contra contactos acidentais. - 1. No caso de haver aparelhos de raios X com peças não isoladas, normalmente sob tensão, estas deverão ser montadas de acordo com uma das disposições seguintes:
+Art. 697.º Protecção contra contactos acidentais. - 1. No caso de haver aparelhos de raios X com peças não isoladas, normalmente sob tensão, estas deverão ser montadas de acordo com uma das disposições seguintes:
 
 a) Ficarem situadas a uma altura não inferior a 3,5 m;
 
@@ -5771,21 +5838,21 @@ c) Serem instaladas dentro de compartimentos a elas exclusivamente reservados.
 
 3. As paredes, anteparos ou compartimentos referidos nas alíneas b) e c) do n.º 1 deverão ser dotados de portas de acesso com fechadura.
 
-###### Art. 698.º Distâncias de peças não isoladas, normalmente sob tensão, a outras peças. - 1. As peças não isoladas, normalmente sob tensão, de aparelhos de raios X deverão encontrar-se, em relação a qualquer parede, anteparo ou peça metálica com ou sem tensão, a distância não inferior a 4 mm/kV da máxima tensão de crista que possa existir entre aqueles elementos.
+Art. 698.º Distâncias de peças não isoladas, normalmente sob tensão, a outras peças. - 1. As peças não isoladas, normalmente sob tensão, de aparelhos de raios X deverão encontrar-se, em relação a qualquer parede, anteparo ou peça metálica com ou sem tensão, a distância não inferior a 4 mm/kV da máxima tensão de crista que possa existir entre aqueles elementos.
 
 2. A distância mínima referida no número anterior deverá ser verificada entre qualquer pessoa, incluindo os pacientes, e as peças sob tensão mais próximas, nas condições mais desfavoráveis.
 
-###### Art. 699.º Aparelhos de medida. - Os aparelhos de medida inseridos nos circuitos de alta tensão dos aparelhos de raios X deverão ser considerados como peças não isoladas e sob tensão, a menos que se encontrem num ponto do circuito imediatamente adjacente ao ponto de ligação destes à terra.
+Art. 699.º Aparelhos de medida. - Os aparelhos de medida inseridos nos circuitos de alta tensão dos aparelhos de raios X deverão ser considerados como peças não isoladas e sob tensão, a menos que se encontrem num ponto do circuito imediatamente adjacente ao ponto de ligação destes à terra.
 
-# PARTE V — Disposições transitórias
+## PARTE V — Disposições transitórias
 
-###### Art. 700.º Origem das instalações de utilização existentes. - Nas instalações de utilização existentes à data da entrada em vigor deste Regulamento e não dotadas de aparelho de corte da entrada deverá considerar-se como origem dessas instalações os ligadores de entrada do respectivo aparelho de corte geral.
+Art. 700.º Origem das instalações de utilização existentes. - Nas instalações de utilização existentes à data da entrada em vigor deste Regulamento e não dotadas de aparelho de corte da entrada deverá considerar-se como origem dessas instalações os ligadores de entrada do respectivo aparelho de corte geral.
 
-###### Art. 701.º Ampliação, modificação ou renovação de instalações de utilização existentes. - Na ampliação, modificação ou renovação das instalações de utilização existentes em que os condutores das respectivas canalizações não tenham as cores de identificação prescritas neste Regulamento, nas ligações de condutores novos a condutores existentes estes deverão ser devidamente identificados nos aparelhos.
+Art. 701.º Ampliação, modificação ou renovação de instalações de utilização existentes. - Na ampliação, modificação ou renovação das instalações de utilização existentes em que os condutores das respectivas canalizações não tenham as cores de identificação prescritas neste Regulamento, nas ligações de condutores novos a condutores existentes estes deverão ser devidamente identificados nos aparelhos.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
-**O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.
 
 REGULAMENTO DE SEGURANÇA DE INSTALAÇÕES COLECTIVAS DE EDIFÍCIOS E ENTRADAS
 
@@ -5793,33 +5860,33 @@ REGULAMENTO DE SEGURANÇA DE INSTALAÇÕES COLECTIVAS DE EDIFÍCIOS E ENTRADAS
 
 1.1 - Objectivo
 
-###### Artigo 1.º Objectivo. - 1. O presente Regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
+Artigo 1.º Objectivo. - 1. O presente Regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
 
 2. Os comentários - que não constituem obrigação legal - têm por fim esclarecer as condições impostas nos artigos, indicar como devem ser verificadas ou recomendar o sentido em que convém melhorá-las.
 
 1.2 - Campo de aplicação
 
-###### Art. 2.º Campo de aplicação. - 1. O Regulamento aplica-se às instalações colectivas de edifícios e entradas, alimentadas a partir de uma rede de distribuição pública de energia eléctrica em baixa tensão, de um posto de transformação ou de uma central geradora privativos.
+Art. 2.º Campo de aplicação. - 1. O Regulamento aplica-se às instalações colectivas de edifícios e entradas, alimentadas a partir de uma rede de distribuição pública de energia eléctrica em baixa tensão, de um posto de transformação ou de uma central geradora privativos.
 
 2. As instalações colectivas de edifícios e entradas deverão obedecer às prescrições do Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica que não sejam contrariadas pelas disposições do presente Regulamento, às demais prescrições de segurança em vigor e, bem assim, às regras da técnica.
 
 1.3 - Definições
 
-###### Art. 3.º Rede de distribuição de energia eléctrica em baixa tensão ou, simplesmente, rede de distribuição. - Instalação de baixa tensão destinada à transmissão de energia eléctrica a partir de um posto de transformação ou de uma central geradora, constituída por canalizações principais, ramais, troços comuns de chegadas e chegadas.
+Art. 3.º Rede de distribuição de energia eléctrica em baixa tensão ou, simplesmente, rede de distribuição. - Instalação de baixa tensão destinada à transmissão de energia eléctrica a partir de um posto de transformação ou de uma central geradora, constituída por canalizações principais, ramais, troços comuns de chegadas e chegadas.
 
-###### Art. 4.º Ramal. - Canalização eléctrica, sem qualquer derivação, que parte do quadro de um posto de transformação, do quadro de uma central geradora ou de uma canalização principal e termina onde começam uma ou mais chegadas ou troços comuns de chegadas ou numa portinhola ou quadro de colunas.
+Art. 4.º Ramal. - Canalização eléctrica, sem qualquer derivação, que parte do quadro de um posto de transformação, do quadro de uma central geradora ou de uma canalização principal e termina onde começam uma ou mais chegadas ou troços comuns de chegadas ou numa portinhola ou quadro de colunas.
 
-###### Art. 5.º Chegada. - Canalização eléctrica estabelecida, sem atravessar a via pública, ao longo de edifícios, paredes ou muros, que deriva de uma canalização principal, ramal ou troço comum de chegadas e termina numa portinhola ou quadro de colunas.
+Art. 5.º Chegada. - Canalização eléctrica estabelecida, sem atravessar a via pública, ao longo de edifícios, paredes ou muros, que deriva de uma canalização principal, ramal ou troço comum de chegadas e termina numa portinhola ou quadro de colunas.
 
-###### Art. 6.º Portinhola. - Quadro onde finda o ramal ou chegada, de que faz parte, e que, em regra, contém os aparelhos de protecção geral contra sobreintensidades das instalações colectivas ou entradas ligadas a jusante.
+Art. 6.º Portinhola. - Quadro onde finda o ramal ou chegada, de que faz parte, e que, em regra, contém os aparelhos de protecção geral contra sobreintensidades das instalações colectivas ou entradas ligadas a jusante.
 
-###### Art. 7.º Instalação colectiva. - Instalação eléctrica estabelecida, em regra, no interior de um edifício com o fim de servir instalações de utilização exploradas por entidades diferentes, constituída por quadro de colunas, colunas e caixas de coluna e tendo início numa ou mais portinholas ou no próprio quadro de colunas.
+Art. 7.º Instalação colectiva. - Instalação eléctrica estabelecida, em regra, no interior de um edifício com o fim de servir instalações de utilização exploradas por entidades diferentes, constituída por quadro de colunas, colunas e caixas de coluna e tendo início numa ou mais portinholas ou no próprio quadro de colunas.
 
 Comentário. - Na figura seguinte representa-se esquematicamente um exemplo de uma instalação colectiva de um edifício.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
-###### Art. 8.º Quadro de colunas. - Quadro onde se concentram os aparelhos de protecção contra sobreintensidades de colunas ou de entradas e que pode ser servido por um ramal, uma chegada ou uma ou mais portinholas, considerando-se como fazendo parte dele as respectivas canalizações de ligação a essas portinholas.
+Art. 8.º Quadro de colunas. - Quadro onde se concentram os aparelhos de protecção contra sobreintensidades de colunas ou de entradas e que pode ser servido por um ramal, uma chegada ou uma ou mais portinholas, considerando-se como fazendo parte dele as respectivas canalizações de ligação a essas portinholas.
 
 Comentários. - 1. Nos edifícios alimentados a partir de uma rede de distribuição pública, a alimentação dos respectivos quadros de coluna pode ser feita das formas seguintes:
 
@@ -5837,15 +5904,15 @@ No caso referido na alínea c), o ramal ou chegada termina sempre numa portinhol
 
 2. As entradas estabelecidas directamente a partir do quadro de colunas são, por exemplo, as que se destinam a alimentar o quadro dos serviços comuns de um edifício (quadro das instalações de iluminação, força motriz e outros usos).
 
-###### Art. 9.º Coluna principal ou, simplesmente, coluna. - Canalização eléctrica colectiva que tem início num quadro de colunas.
+Art. 9.º Coluna principal ou, simplesmente, coluna. - Canalização eléctrica colectiva que tem início num quadro de colunas.
 
-###### Art. 10.º Coluna derivada. - Canalização eléctrica colectiva que tem início numa caixa de coluna de outra coluna.
+Art. 10.º Coluna derivada. - Canalização eléctrica colectiva que tem início numa caixa de coluna de outra coluna.
 
-###### Art. 11.º Caixa de coluna. - Quadro existente numa coluna, principal ou derivada, para ligação de entradas ou de colunas derivadas e contendo ou não os respectivos aparelhos de protecção contra sobreintensidades.
+Art. 11.º Caixa de coluna. - Quadro existente numa coluna, principal ou derivada, para ligação de entradas ou de colunas derivadas e contendo ou não os respectivos aparelhos de protecção contra sobreintensidades.
 
 Comentário. - A caixa de coluna pode não conter aparelhos de protecção contra sobreintensidades, caso em que desempenha apenas a função de aparelho de ligação.
 
-###### Art. 12.º Entrada. - Canalização eléctrica de baixa tensão compreendida entre:
+Art. 12.º Entrada. - Canalização eléctrica de baixa tensão compreendida entre:
 
 a) Uma caixa de coluna e a origem de uma instalação de utilização;
 
@@ -5871,11 +5938,11 @@ Comentários. - 1. O caso referido na alínea a) do artigo verifica-se, por exem
 
 Por outro lado, à mesma instalação de utilização pede corresponder mais de uma entrada. É o caso, por exemplo, de uma instalação de utilização que, por razões de segurança, deva ser alimentada em comutação por um posto de transformação privativo, por uma portinhola da rede de distribuição pública ou por uma central de emergência privativa, ou, ainda, o caso de, sendo a instalação de utilização alimentada por um posto de transformação ou por uma central geradora privativos, haver transformadores ou geradores em paralelo.
 
-###### Art. 13.º Aparelho de corte da entrada. - Aparelho de corte intercalado numa entrada e que pode constituir o aparelho de corte geral da respectiva instalação de utilização.
+Art. 13.º Aparelho de corte da entrada. - Aparelho de corte intercalado numa entrada e que pode constituir o aparelho de corte geral da respectiva instalação de utilização.
 
 Comentário. - Em geral, o aparelho de corte da entrada é um disjuntor que, simultaneamente, assegura a protecção geral contra sobreintensidades da instalação de utilização, sendo, neste caso, designado normalmente por «disjuntor de entrada».
 
-###### Art. 14.º Origem de uma instalação de utilização de baixa tensão. - Pontos por onde uma instalação de utilização de baixa tensão recebe energia eléctrica e que correspondem:
+Art. 14.º Origem de uma instalação de utilização de baixa tensão. - Pontos por onde uma instalação de utilização de baixa tensão recebe energia eléctrica e que correspondem:
 
 a) Aos ligadores de saída do aparelho de corte da entrada da instalação de utilização, se esta é alimentada a partir de uma rede de distribuição pública, ou aos ligadores de saída do contador geral, se o aparelho de corte da entrada estiver a montante deste;
 
@@ -5883,13 +5950,13 @@ b) Aos ligadores de entrada do aparelho de corte da entrada da instalação de u
 
 Comentário. - Se a mesma instalação de utilização é alimentada por mais de uma entrada (caso, por exemplo, de haver mais de um transformador ou gerador ligados ou não em paralelo), há tantas «origens» quantas as «entradas».
 
-###### Art. 15.º Instalação de utilização de energia eléctrica ou, simplesmente, instalação de utilização. - Instalação eléctrica destinada a permitir aos seus utilizadores a aplicação da energia eléctrica pela sua transformação noutra forma de energia.
+Art. 15.º Instalação de utilização de energia eléctrica ou, simplesmente, instalação de utilização. - Instalação eléctrica destinada a permitir aos seus utilizadores a aplicação da energia eléctrica pela sua transformação noutra forma de energia.
 
 Comentários. - 1. Uma instalação de utilização pode compreender apenas a instalação eléctrica destinada a permitir aos seus utilizadores a aplicação directa da energia eléctrica ou, além daquela, compreender, ainda, postos de transformação e de corte, linhas de alta tensão, redes de distribuição em baixa tensão ou centrais geradoras.
 
 2. As instalações de utilização destinadas à aplicação directa da energia eléctrica englobam, em geral, instalações de baixa tensão (para emprego de aparelhos de utilização de uso corrente), instalações de tensão reduzida (para sinalização, telefones, etc.) e instalações de alta tensão (para iluminação por lâmpadas ou tubos de descarga, para emprego de aparelhos de electromedicina, para iluminação de pistas de aeroportos, para alimentação de aparelhos de utilização de elevada potência, etc.).
 
-###### Art. 16.º Instalações de utilização distintas. - Instalações de utilização sem qualquer ligação entre si e dotadas de entradas independentes.
+Art. 16.º Instalações de utilização distintas. - Instalações de utilização sem qualquer ligação entre si e dotadas de entradas independentes.
 
 Comentário. - Um local pode ser dotado de uma ou várias instalações de utilização distintas. Os casos mais correntes de instalações de utilização distintas são os de instalações ligadas à mesma fonte de alimentação, mas dotadas de entradas distintas para efeito de contagem separada, e os de diversos edifícios existentes num mesmo recinto e dotados de entradas distintas.
 
@@ -5897,15 +5964,15 @@ Comentário. - Um local pode ser dotado de uma ou várias instalações de utili
 
 2.1 - Quadro de colunas
 
-###### Art. 17.º Quadro de colunas. - 1. Cada edifício deverá ser dotado de um único quadro de colunas.
+Art. 17.º Quadro de colunas. - 1. Cada edifício deverá ser dotado de um único quadro de colunas.
 
 2. Em casos devidamente justificados e aceites pela fiscalização do Governo, poderá dispensar-se a aplicação do disposto no número anterior, devendo, porém, existir em cada quadro de colunas um sistema de sinalização indicando, com clareza, a existência de outros quadros de colunas e avisando automaticamente e com segurança se os outros quadros estão ou não ligados.
 
-###### Art. 18.º Constituição do quadro de colunas. - 1. O quadro de colunas deverá ser dotado de um aparelho de corte geral, de corte omnipolar, e de aparelhos de protecção contra sobreintensidades nas saídas.
+Art. 18.º Constituição do quadro de colunas. - 1. O quadro de colunas deverá ser dotado de um aparelho de corte geral, de corte omnipolar, e de aparelhos de protecção contra sobreintensidades nas saídas.
 
 2. O quadro de colunas deverá ser dotado de um ligador de massa, devidamente identificado, ao qual serão ligados os condutores de protecção das respectivas colunas e entradas.
 
-###### Art. 19.º Localização do quadro de colunas. - 1. O quadro de colunas será estabelecido no interior do edifício e, tanto quanto possível, junto do seu acesso normal e da respectiva portinhola ou portinholas, quando existam.
+Art. 19.º Localização do quadro de colunas. - 1. O quadro de colunas será estabelecido no interior do edifício e, tanto quanto possível, junto do seu acesso normal e da respectiva portinhola ou portinholas, quando existam.
 
 2. O quadro de colunas deverá ser instalado em local adequado e de fácil acesso e de forma que os aparelhos nele montados fiquem, em relação ao pavimento, em posição facilmente acessível.
 
@@ -5913,7 +5980,7 @@ Comentário. - Um local pode ser dotado de uma ou várias instalações de utili
 
 2.2 - Colunas e caixas de coluna
 
-###### Art. 20.º Locais para estabelecimento das colunas. - As colunas deverão ser estabelecidas nas zonas comuns dos edifícios para utilização colectiva, em locais de fácil acesso sob o ponto de vista de exploração e conservação.
+Art. 20.º Locais para estabelecimento das colunas. - As colunas deverão ser estabelecidas nas zonas comuns dos edifícios para utilização colectiva, em locais de fácil acesso sob o ponto de vista de exploração e conservação.
 
 Comentários. - 1. Para permitir uma mais fácil exploração e facilitar alterações nas canalizações, em especial em casos de aumentos de potência, recomenda-se criar nas zonas comuns dos edifícios para utilização colectiva espaços ocos verticais, largamente dimensionados, nos quais possam ser colocadas, além das canalizações que constituem as colunas, as caixas de coluna e, de acordo com o artigo 39.º, os contadores correspondentes às instalações de utilização de cada andar.
 
@@ -5921,7 +5988,7 @@ Esta técnica é, em especial, recomendável em edifícios de grande altura com 
 
 2. Como zonas comuns de um edifício para utilização colectiva devem entender-se as escadas, vestíbulos, patamares, corredores, etc., e não as caixas de elevadores ou aberturas para queda de lixos.
 
-###### Art. 21.º Tipos de canalizações. - 1. Nas colunas poderão ser empregados os tipos de canalizações seguintes:
+Art. 21.º Tipos de canalizações. - 1. Nas colunas poderão ser empregados os tipos de canalizações seguintes:
 
 a) Canalizações fixas, à vista ou ocultas, constituídas por condutores isolados ou cabos, rígidos, protegidos por tubos;
 
@@ -5937,25 +6004,25 @@ e) Canalizações fixas, à vista ou ocultas, pré-fabricadas.
 
 3. As canalizações estabelecidas à vista deverão ter resistência às acções mecânicas não inferior à da classe M(índice 5).
 
-###### Art. 22.º Tipos de condutores. - Nas canalizações, os condutores isolados ou os cabos não deverão ter características inferiores às dos classificados sob o código 301 100.
+Art. 22.º Tipos de condutores. - Nas canalizações, os condutores isolados ou os cabos não deverão ter características inferiores às dos classificados sob o código 301 100.
 
-###### Art. 23.º Tipos de tubos. - 1. Nas canalizações, os tubos deverão ser rígidos e não ter características inferiores às dos classificados sob o código 5 101 100.
+Art. 23.º Tipos de tubos. - 1. Nas canalizações, os tubos deverão ser rígidos e não ter características inferiores às dos classificados sob o código 5 101 100.
 
 2. Os tubos pertencentes à mesma canalização deverão ser contíguos, sem interposição de materiais ferro-magnéticos.
 
 Comentário. - O disposto no n.º 2 do artigo visa, por exemplo, as braçadeiras, os acessórios dos tubos, etc., e não os aparelhos de ligação ou caixas de coluna intercalados nos mesmos.
 
-###### Art. 24.º Dimensões mínimas dos tubos. - 1. Os tubos deverão ter diâmetro ou dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
+Art. 24.º Dimensões mínimas dos tubos. - 1. Os tubos deverão ter diâmetro ou dimensões da secção recta tais que permitam o fácil enfiamento e desenfiamento dos condutores isolados ou cabos.
 
 2. No caso de condutores isolados do código 301 100 e de tubos do código 5 101 100, estes não deverão ter diâmetros nominais inferiores aos indicados no quadro seguinte, de acordo com o número e secção nominal desses condutores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 3. No caso de cabos ou de outros condutores isolados e de tubos de tipos diferentes dos referidos no número anterior, o diâmetro ou as dimensões da secção recta dos tubos deverão ser determinados de modo que a soma das secções correspondentes ao diâmetro exterior médio máximo dos condutores isolados ou cabos não exceda 20% da secção recta interior do tubo.
 
 4. Quando se verificar a necessidade de aumentar posteriormente a secção nominal dos condutores da coluna, com vista a facultar a utilização de potências superiores às inicialmente previstas, permitir-se-á que, no caso referido no n.º 2, sejam adoptados os valores do quadro seguinte e, no caso referido no número anterior, a percentagem de ocupação seja 40% da secção recta interior do tubo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Comentários. - 1. A obrigatoriedade do fácil enfiamento e desenfiamento dos condutores isolados ou cabos visa impedir o recurso a meios de arrastamento (reboques, guias, etc.).
 
@@ -5963,7 +6030,7 @@ Comentários. - 1. A obrigatoriedade do fácil enfiamento e desenfiamento dos co
 
 Porém, como melhor solução, preconiza-se a criação dos espaços ocos verticais referidos no comentário 1 do artigo 20.º
 
-###### Art. 25.º Dimensionamento das colunas. - 1. A secção nominal das colunas deverá ser determinada em função da potência a fornecer às instalações de utilização de energia eléctrica por elas alimentadas e dos respectivos coeficientes de simultaneidade, tendo em atenção as quedas de tensão, as intensidades de corrente máximas admissíveis na canalização e a selectividade das protecções.
+Art. 25.º Dimensionamento das colunas. - 1. A secção nominal das colunas deverá ser determinada em função da potência a fornecer às instalações de utilização de energia eléctrica por elas alimentadas e dos respectivos coeficientes de simultaneidade, tendo em atenção as quedas de tensão, as intensidades de corrente máximas admissíveis na canalização e a selectividade das protecções.
 
 2. A secção nominal das colunas deverá ser, pelo menos, igual à das entradas que dela derivam.
 
@@ -5975,13 +6042,13 @@ Porém, como melhor solução, preconiza-se a criação dos espaços ocos vertic
 
 6. Os coeficientes de simultaneidade a considerar no dimensionamento das colunas destinadas a alimentar instalações de utilização estabelecidas em locais residenciais ou de uso profissional não deverão ser inferiores aos indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29901/00010108.pdf)
 
 Comentários. - 1. Para efeito de aplicação do quadro do n.º 6 do artigo, as instalações de utilização distintas, de um local, ligadas à mesma coluna devem ser consideradas como uma única instalação.
 
 2. Para colunas alimentando outras instalações de utilização além das referidas no n.º 6 do artigo, recomenda-se utilizar o coeficiente de simultaneidade 1.
 
-###### Art. 26.º Colunas independentes. - 1. Num edifício poderá haver uma ou mais colunas para alimentar as diversas instalações de utilização desse edifício.
+Art. 26.º Colunas independentes. - 1. Num edifício poderá haver uma ou mais colunas para alimentar as diversas instalações de utilização desse edifício.
 
 2. As instalações de utilização dos serviços comuns do edifício, bem como as que possam afectar com perturbações as outras instalações de utilização do edifício, deverão ser alimentadas directamente do quadro de colunas.
 
@@ -5997,13 +6064,13 @@ Além destas instalações pode haver ainda outras, destinadas a alimentar insta
 
 3. O n.º 3 do artigo visa contemplar, em especial, o caso de edifícios não dotados de elevadores, em que as instalações dos respectivos serviços comuns compreendem apenas instalações para iluminação e campainhas.
 
-###### Art. 27.º Condutor de protecção. - As colunas deverão ser dotadas de condutor de protecção, o qual deverá ter secção nominal e ser estabelecido de acordo com as prescrições do Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica.
+Art. 27.º Condutor de protecção. - As colunas deverão ser dotadas de condutor de protecção, o qual deverá ter secção nominal e ser estabelecido de acordo com as prescrições do Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica.
 
-###### Art. 28.º Continuidade das colunas. - 1. Nos troços das colunas de igual secção nominal, os condutores não deverão ser cortados ao longo do seu percurso, apenas se permitindo o corte do isolamento nas caixas de coluna, para efeito de efectuar derivações.
+Art. 28.º Continuidade das colunas. - 1. Nos troços das colunas de igual secção nominal, os condutores não deverão ser cortados ao longo do seu percurso, apenas se permitindo o corte do isolamento nas caixas de coluna, para efeito de efectuar derivações.
 
 2. As canalizações pré-fabricadas poderão comportar junções, desde que estas garantam a perfeita continuidade da canalização e evitem a sua interrupção acidental e o aperto dos condutores que delas derivarem seja independente do aperto das junções.
 
-###### Art. 29.º Caixas de coluna. - 1. As caixas de coluna deverão ser instaladas nos andares correspondentes às instalações de utilização servidas pelas entradas que delas derivam.
+Art. 29.º Caixas de coluna. - 1. As caixas de coluna deverão ser instaladas nos andares correspondentes às instalações de utilização servidas pelas entradas que delas derivam.
 
 2. As caixas de coluna serão dotadas de tampa com dispositivo de fecho que assegure a sua inviolabilidade.
 
@@ -6011,13 +6078,13 @@ Além destas instalações pode haver ainda outras, destinadas a alimentar insta
 
 4. Se a protecção contra sobreintensidades situada no início da coluna assegurar também a protecção contra curtos-circuitos das entradas, dispensar-se-ão nas caixas de coluna as protecções contra sobreintensidades.
 
-###### Art. 30.º Acessibilidade das caixas de coluna. - As caixas de coluna deverão ser facilmente acessíveis ao pessoal do distribuidor de energia e ser instaladas, em regra, entre 2 m e 2,80 m acima do pavimento.
+Art. 30.º Acessibilidade das caixas de coluna. - As caixas de coluna deverão ser facilmente acessíveis ao pessoal do distribuidor de energia e ser instaladas, em regra, entre 2 m e 2,80 m acima do pavimento.
 
-###### Art. 31.º Colunas derivadas. - As colunas derivadas deverão ter protecção contra sobreintensidades na caixa de coluna donde derivam, excepto se a secção nominal da coluna derivada obedecer ao disposto no n.º 5 do artigo 25.º e no n.º 4 do artigo 29.º
+Art. 31.º Colunas derivadas. - As colunas derivadas deverão ter protecção contra sobreintensidades na caixa de coluna donde derivam, excepto se a secção nominal da coluna derivada obedecer ao disposto no n.º 5 do artigo 25.º e no n.º 4 do artigo 29.º
 
 2.3 - Entradas
 
-###### Art. 32.º Localização das entradas relativas a um prédio. - 1. As entradas relativas a um prédio deverão, em regra, convergir num único local e ser convenientemente sinalizadas quando sirvam a mesma instalação de utilização ou instalações distintas estabelecidas no mesmo local.
+Art. 32.º Localização das entradas relativas a um prédio. - 1. As entradas relativas a um prédio deverão, em regra, convergir num único local e ser convenientemente sinalizadas quando sirvam a mesma instalação de utilização ou instalações distintas estabelecidas no mesmo local.
 
 2. Em casos devidamente justificados e aceites pela fiscalização do Governo, poderá dispensar-se a aplicação do disposto no número anterior, desde que:
 
@@ -6035,23 +6102,23 @@ Para quadros de grandes dimensões, recomenda-se que estes se encontrem no inter
 
 4. No n.º 2 do artigo toma-se em consideração a possibilidade de existência de outros casos, além dos referidos no comentário 2, em que, por motivo de ordem técnica ou económica, a concentração não seja viável ou haja mesmo conveniência em fazer as entradas em locais afastados. A sinalização automática referida pode ser constituída, por exemplo, por lâmpadas ou voltímetros. Se se empregarem unicamente lâmpadas, a sinalização deve ser feita, pelo menos, por duas lâmpadas.
 
-###### Art. 33.º Estabelecimento de entradas a partir de colunas. - 1. As entradas derivadas de colunas deverão ser ligadas à caixa de coluna instalada no mesmo andar em que se situa a origem da instalação de utilização a alimentar.
+Art. 33.º Estabelecimento de entradas a partir de colunas. - 1. As entradas derivadas de colunas deverão ser ligadas à caixa de coluna instalada no mesmo andar em que se situa a origem da instalação de utilização a alimentar.
 
 2. As entradas apenas deverão atravessar as zonas comuns do edifício e as dependências que pertençam à entidade que servem.
 
-###### Art. 34.º Tipos de canalizações. - Nas entradas poderão ser empregados os mesmos tipos de canalizações referidos no artigo 21.º
+Art. 34.º Tipos de canalizações. - Nas entradas poderão ser empregados os mesmos tipos de canalizações referidos no artigo 21.º
 
-###### Art. 35.º Condutores e tubos. - Os condutores e tubos a empregar nas entradas deverão obedecer ao disposto nos artigos 22.º a 24.º
+Art. 35.º Condutores e tubos. - Os condutores e tubos a empregar nas entradas deverão obedecer ao disposto nos artigos 22.º a 24.º
 
-###### Art. 36.º Dimensionamento das entradas. - 1. As entradas deverão ser dimensionadas de forma a assegurar o fornecimento das potências, afectadas pelos respectivos coeficientes de simultaneidade, para que são dimensionadas as instalações de utilização de energia eléctrica.
+Art. 36.º Dimensionamento das entradas. - 1. As entradas deverão ser dimensionadas de forma a assegurar o fornecimento das potências, afectadas pelos respectivos coeficientes de simultaneidade, para que são dimensionadas as instalações de utilização de energia eléctrica.
 
 2. Em locais residenciais ou de uso profissional deverá ser considerado o coeficiente de simultaneidade 1 para as potências mínimas determinadas de acordo com o Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica.
 
 3. Nas entradas destinadas a alimentar locais residenciais ou de uso profissional não poderão ser empregadas canalizações com condutores de secção nominal inferior a 4 mm2 nem tubos de diâmetro nominal inferior a 32 mm.
 
-###### Art. 37.º Condutor de protecção. - As entradas deverão ser dotadas de condutor de protecção, o qual deverá obedecer ao disposto no artigo 27.º
+Art. 37.º Condutor de protecção. - As entradas deverão ser dotadas de condutor de protecção, o qual deverá obedecer ao disposto no artigo 27.º
 
-###### Art. 38.º Aparelho de corte da entrada. - 1. As entradas deverão ser dotadas de um aparelho de corte instalado no interior do recinto servido pela instalação de utilização.
+Art. 38.º Aparelho de corte da entrada. - 1. As entradas deverão ser dotadas de um aparelho de corte instalado no interior do recinto servido pela instalação de utilização.
 
 2. O aparelho de corte deverá, em regra, ser constituído por um disjuntor.
 
@@ -6059,7 +6126,7 @@ Comentário. - Nada se especifica quanto à forma como se deve determinar a inte
 
 No entanto, recomenda-se que a intensidade de funcionamento do aparelho de corte da entrada seja superior à dos aparelhos de protecção contra sobreintensidades existentes no quadro de entrada da instalação de utilização, de maior intensidade, pois só assim será possível assegurar uma conveniente selectividade para a função de protecção desempenhada também pelo aparelho de corte da entrada.
 
-###### Art. 39.º Localização dos contadores de energia. - 1. Os contadores de energia deverão ser instalados próximo da origem da instalação de utilização ou da origem da entrada e em local adequado.
+Art. 39.º Localização dos contadores de energia. - 1. Os contadores de energia deverão ser instalados próximo da origem da instalação de utilização ou da origem da entrada e em local adequado.
 
 2. Os contadores das instalações de utilização relativas a um mesmo prédio poderão ser instalados:
 
@@ -6079,7 +6146,7 @@ Comentários. - 1. Como locais adequados para a instalação de contadores de en
 
 2. Para os contadores são válidas as considerações feitas no comentário do artigo 38.º
 
-###### Art. 40.º Instalação alimentada por mais de uma fonte de energia. - 1. Quando uma instalação de utilização possa ser alimentada por mais de uma fonte de energia, as entradas deverão ser previstas de forma a tornar impossível o paralelo entre neutros ligados a terras de serviço distintas, a menos que haja garantia de não ser inconveniente esse paralelo.
+Art. 40.º Instalação alimentada por mais de uma fonte de energia. - 1. Quando uma instalação de utilização possa ser alimentada por mais de uma fonte de energia, as entradas deverão ser previstas de forma a tornar impossível o paralelo entre neutros ligados a terras de serviço distintas, a menos que haja garantia de não ser inconveniente esse paralelo.
 
 2. Quando uma das entradas for da rede de distribuição pública, os aparelhos de corte das entradas (interruptores, disjuntores ou inversores) deverão ser de corte omnipolar.
 
@@ -6093,14 +6160,14 @@ Exceptua-se o caso de haver a certeza de não ser inconveniente esse paralelo ou
 
 2.4 - Protecção das pessoas
 
-###### Art. 41.º Eléctrodo de terra dos edifícios. - Os edifícios deverão ser dotados de um eléctrodo de terra, o qual será ligado ao ligador de massa do quadro de colunas respectivo.
+Art. 41.º Eléctrodo de terra dos edifícios. - Os edifícios deverão ser dotados de um eléctrodo de terra, o qual será ligado ao ligador de massa do quadro de colunas respectivo.
 
 Comentário. - Como eléctrodo de terra de um edifício recomenda-se adoptar um emalhado de cabos de cobre, de secção nominal não inferior a 25 mm2, colocados durante a execução das respectivas fundações e abrangendo o perímetro do edifício.
 
 3 - Conservação das instalações
 
-###### Art. 42.º Periodicidade das inspecções às instalações colectivas e entradas. - 1. As instalações colectivas deverão ser inspeccionadas com periodicidade não superior a dez anos.
+Art. 42.º Periodicidade das inspecções às instalações colectivas e entradas. - 1. As instalações colectivas deverão ser inspeccionadas com periodicidade não superior a dez anos.
 
 2. As entradas deverão ser inspeccionadas sempre que o forem as respectivas instalações de utilização.
 
-**O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.

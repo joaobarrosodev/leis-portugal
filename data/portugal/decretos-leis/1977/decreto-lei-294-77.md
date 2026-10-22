@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/16600/17971800.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1977-250831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d506e57ea3943b20693e25ca539c1186af83463499fea49a7d0128a906c2d947
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae423c7c763d79c04c177cbdbfc859bfdbc4ee75d111982ae1ac37e78838e427
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Decisão Judicial
+- Notificação
+- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279590:por
+  label: "Alterado o art. 5º pelo DEC LEI.510/77.14.12.1977.MJ, DR.IS [287] de 14.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/510-1977-279590
+  date: '1977-12-14'
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473731:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:285971:por
+  label: Rectificado pela DECL.DD7828.12.09.1977.PCM, DR.IS [211] de 12.09.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-285971
+  date: '1977-09-12'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:29Z'
   warnings: []
   errors: []
 ---
@@ -127,11 +162,11 @@ Neste termos:
 
 Usando da autorização conferida pela [Lei n.º 16/77](https://diariodarepublica.pt/dr/detalhe/lei/16-1977-450263), de 25 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As ocupações de fogos devolutos levadas a efeito para fins habitacionais até 14 de Abril de 1975, data da entrada em vigor do [Decreto-Lei n.º 198-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-a-1975-269597), em prédios pertencentes a entidades privadas, e que não tenham sido legalizadas nos termos daquele diploma, poderão ser regularizadas através da celebração do correspondente contrato de arrendamento por acordo entre o proprietário e o ocupante ou, na falta desse acordo, por decisão judicial, a iniciativa de qualquer deles, nos termos do presente decreto-lei.
+Artigo 1.º - 1. As ocupações de fogos devolutos levadas a efeito para fins habitacionais até 14 de Abril de 1975, data da entrada em vigor do [Decreto-Lei n.º 198-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-a-1975-269597), em prédios pertencentes a entidades privadas, e que não tenham sido legalizadas nos termos daquele diploma, poderão ser regularizadas através da celebração do correspondente contrato de arrendamento por acordo entre o proprietário e o ocupante ou, na falta desse acordo, por decisão judicial, a iniciativa de qualquer deles, nos termos do presente decreto-lei.
 
 2. São equiparáveis às situações previstas no número anterior, com as especialidades previstas neste diploma, as ocupações ocorridas até à mesma data de prédios devolutos pertencentes a entidades privadas para fins não habitacionais a que seja judicialmente reconhecido interesse social digno de tutela.
 
-###### Art. 2.º - 1. Para os efeitos do disposto no artigo anterior, consideram-se devolutos os fogos ou prédios:
+Art. 2.º - 1. Para os efeitos do disposto no artigo anterior, consideram-se devolutos os fogos ou prédios:
 
 a) Que à data da ocupação se encontrassem desocupados há mais de sessenta dias, contados, conforme o caso, da data da desocupação pelo último inquilino ou habitante, da data de concessão da licença de utilização, relativamente a fogos ou prédios acabados de edificar ou reconstruir, ou da data da celebração de contrato de compra relativamente a fogos destinados a arrendamento;
 
@@ -159,7 +194,7 @@ i) Pertencentes a emigrantes, desalojados ou estrangeiros;
 
 j) Inacabados ou integrados em prédios em curso de construção ou reconstrução.
 
-###### Art. 3.º - 1. No caso de o fogo ou prédio, ao ter sido ocupado, se encontrar mobilado e de o respectivo recheio não ter sido ainda entregue ao respectivo dono, o contrato de regularização previsto no artigo anterior poderá incluir, no todo ou em parte, o mesmo recheio.
+Art. 3.º - 1. No caso de o fogo ou prédio, ao ter sido ocupado, se encontrar mobilado e de o respectivo recheio não ter sido ainda entregue ao respectivo dono, o contrato de regularização previsto no artigo anterior poderá incluir, no todo ou em parte, o mesmo recheio.
 
 2. O acordo sobre o arrendamento é independente do acordo sobre o recheio.
 
@@ -169,11 +204,11 @@ j) Inacabados ou integrados em prédios em curso de construção ou reconstruç�
 
 5. Os terceiros podem fazer valer os seus direitos pelos meios normais.
 
-###### Art. 4.º - 1. Não será admitida em juízo notificação judicial ou acção do ocupante que não declare não ter em seu poder quaisquer bens do proprietário ou terceiro, contra vontade destes, detidos em virtude da ocupação ou ter oferecido sem resultado a sua restituição.
+Art. 4.º - 1. Não será admitida em juízo notificação judicial ou acção do ocupante que não declare não ter em seu poder quaisquer bens do proprietário ou terceiro, contra vontade destes, detidos em virtude da ocupação ou ter oferecido sem resultado a sua restituição.
 
 2. A falta consciente de verdade nas declarações referidas no número anterior conduz à condenação como litigante de má fé.
 
-###### Art. 5.º - 1. Dentro do prazo de noventa dias a contar da entrada em vigor do presente diploma qualquer das partes interessadas pode, quando tiverem resultado infrutíferas outras diligências pessoais, requerer a notificação extrajudicial da outra para comparecer perante notário, a fim de assinarem o contrato.
+Art. 5.º - 1. Dentro do prazo de noventa dias a contar da entrada em vigor do presente diploma qualquer das partes interessadas pode, quando tiverem resultado infrutíferas outras diligências pessoais, requerer a notificação extrajudicial da outra para comparecer perante notário, a fim de assinarem o contrato.
 
 2. Do instrumento de notificação previsto no número anterior devem constar as condições essenciais do contrato que o notificante propõe ao notificando, nomeadamente a identificação do fogo e do respectivo proprietário, bem como a residência deste, a renda, o prazo de duração do contrato e a forma de amortização das rendas em atraso correspondentes ao período decorrido desde o início da ocupação; nos casos previstos no n.º 2 do artigo 1.º, o notificante justificará ainda o interesse social da ocupação.
 
@@ -181,19 +216,19 @@ j) Inacabados ou integrados em prédios em curso de construção ou reconstruç�
 
 4. O notário ou as entidades referidas no número anterior deverão, a solicitação de qualquer das partes, certificar o que se tiver passado no dia e hora designados na notificação.
 
-###### Art. 6.º - 1. Nos cento e oitenta dias posteriores ao termo do prazo previsto no n.º 1 do artigo anterior pode qualquer dos interessados requerer ao tribunal da situação do prédio a regularização judicial da ocupação, a começar pela convocação das partes para uma conferência, a fim de nela acordarem e formalizarem, por auto ou instrumento separado, o contrato previsto no artigo 3.º
+Art. 6.º - 1. Nos cento e oitenta dias posteriores ao termo do prazo previsto no n.º 1 do artigo anterior pode qualquer dos interessados requerer ao tribunal da situação do prédio a regularização judicial da ocupação, a começar pela convocação das partes para uma conferência, a fim de nela acordarem e formalizarem, por auto ou instrumento separado, o contrato previsto no artigo 3.º
 
 2. O requerimento deve conter as menções previstas no n.º 2 do artigo 5.º e, se possível, uma minuta completa do contrato que o requerente propõe à contraparte, de tudo devendo ser dado conhecimento a esta ao ser notificada para responder, querendo, no prazo de oito dias.
 
 3. Se o requerimento previsto no n.º 1 for da iniciativa do proprietário, será o ocupante notificado com a cominação de que a falta da sua comparência ou de mandatário seu munido de procuração com poderes especiais para transigir equivalerá a manifestação de desinteresse pela regularização da ocupação e terá como consequência a decretação imediata da restituição de posse ou da entrega judicial do prédio ocupado ao seu legítimo proprietário, a requerimento deste e sem dependência de quaisquer outras formalidades; se, inversamente, a iniciativa pertencer ao ocupante, será o proprietário notificado com a comunicação de que na falta da sua comparência ou de mandatário seu munido de procuração com poderes especiais para transigir será e passará a ser representado pelo Ministério Público na conferência e em todos os actos subsequentes.
 
-###### Art. 7.º - 1. Se o juiz, no decurso da conferência, não conseguir conciliar as partes, fixará na acta os pontos de convergência e os de divergência e, recolhidos sobre estes os elementos que tiver por convenientes, suprirá ele próprio o desacordo das partes, fixando o contrato, se der por verificadas as demais condições de que o presente diploma torna dependente a regularização da situação concreta e não ocorrer a hipótese prevista no número seguinte.
+Art. 7.º - 1. Se o juiz, no decurso da conferência, não conseguir conciliar as partes, fixará na acta os pontos de convergência e os de divergência e, recolhidos sobre estes os elementos que tiver por convenientes, suprirá ele próprio o desacordo das partes, fixando o contrato, se der por verificadas as demais condições de que o presente diploma torna dependente a regularização da situação concreta e não ocorrer a hipótese prevista no número seguinte.
 
 2. Se o proprietário oferecer razões excepcionalmente ponderosas para não aceitar celebrar com o ocupante contrato de arrendamento, poderá o juiz, apreciadas essas razões e os valores sociais em jogo, abster-se de fixar o contrato, caso em que decretará a imediata restituição de posse ou entrega judicial do prédio ou fogo ocupado, se dispuser de seguros elementos de convicção sobre a ocorrência das determinantes legais desse resultado.
 
 3. Para o efeito do disposto nos números antecedentes, o juiz ordenará as diligências que tiver por convenientes, nomeadamente a notificação das partes para prestarem informações e produzirem prova, produzida a qual decidirá com salvaguarda do disposto no artigo seguinte.
 
-###### Art. 8.º - 1. Na falta de acordo das partes sobre o quantitativo da renda, será esta obrigatoriamente determinada, qualquer que seja a localização do prédio, por avaliação, a solicitação do juiz, nos termos da lei aplicável à data da solicitação, a qual deverá ser efectuada dentro do prazo máximo de sessenta dias, se prazo diverso não resultar daquela lei, a expensas por igual de ambas as partes.
+Art. 8.º - 1. Na falta de acordo das partes sobre o quantitativo da renda, será esta obrigatoriamente determinada, qualquer que seja a localização do prédio, por avaliação, a solicitação do juiz, nos termos da lei aplicável à data da solicitação, a qual deverá ser efectuada dentro do prazo máximo de sessenta dias, se prazo diverso não resultar daquela lei, a expensas por igual de ambas as partes.
 
 2. As rendas em atraso serão obrigatoriamente pagas conjuntamente com as rendas futuras em prestações cujo número o juiz fixará, de acordo com as possibilidades do agregado familiar do arrendatário, entre tantas quantos os meses em atraso e o triplo desse número.
 
@@ -201,17 +236,17 @@ j) Inacabados ou integrados em prédios em curso de construção ou reconstruç�
 
 4. Será autorizada a sublocação de parte do prédio arrendado desde que na parte restante continue a habitar o agregado familiar do arrendatário.
 
-###### Art. 9.º A falta de comparência de qualquer das partes à conferência prevista no artigo 6.º terá as consequências mencionadas no n.º 3 do mesmo artigo; mas, quando a falta for do proprietário, o juiz designará novo dia para a conferência, com o Ministério Público a representá-lo.
+Art. 9.º A falta de comparência de qualquer das partes à conferência prevista no artigo 6.º terá as consequências mencionadas no n.º 3 do mesmo artigo; mas, quando a falta for do proprietário, o juiz designará novo dia para a conferência, com o Ministério Público a representá-lo.
 
-###### Art. 10.º - 1. As notificações ao ocupante poderão ser validamente feitas através de qualquer pessoa capaz que com ele resida.
+Art. 10.º - 1. As notificações ao ocupante poderão ser validamente feitas através de qualquer pessoa capaz que com ele resida.
 
 2. Quando, após adequadas diligências de investigação, seja desconhecida a identidade de quem ocupa, ou do proprietário do prédio, ou se encontrem ausentes em parte incerta, será notificado para representá-los, com plenos poderes para transigir, o Ministério Público.
 
-###### Art. 11.º - 1. Relativamente às ocupações referidas no n.º. 2 do artigo 1.º, deverá o juiz decidir a questão prejudicial do interesse social da ocupação que tiver sido invocado, com aplicação do disposto no n.º 3 do artigo 7.º
+Art. 11.º - 1. Relativamente às ocupações referidas no n.º. 2 do artigo 1.º, deverá o juiz decidir a questão prejudicial do interesse social da ocupação que tiver sido invocado, com aplicação do disposto no n.º 3 do artigo 7.º
 
 2. Entender-se-á que existe fim social digno de tutela sempre que os valores prosseguidos, e posteriormente concretizados, através do acto de ocupação, sobrelevem, em interesse social ou humanitário, segundo juízos de equidade, aos valores jurídicos sacrificados.
 
-###### Art. 12.º - 1. O requerimento referido no artigo 6.º e os actos ulteriores previstos neste diploma devem ser processados por apenso a qualquer acção de restituição de posse ou qualquer outra em que se peça a entrega judicial do prédio a que o mesmo requerimento se refere e que se encontre pendente à data da entrada em vigor deste diploma.
+Art. 12.º - 1. O requerimento referido no artigo 6.º e os actos ulteriores previstos neste diploma devem ser processados por apenso a qualquer acção de restituição de posse ou qualquer outra em que se peça a entrega judicial do prédio a que o mesmo requerimento se refere e que se encontre pendente à data da entrada em vigor deste diploma.
 
 2. Para o feito do atempado exercício dos direitos referidos nos artigos 5.º e 6.º é declarada automaticamente suspensa pelo prazo de duzentos e setenta dias, contados a partir da entrada em vigor do presente diploma, a instância das acções nele mencionadas.
 
@@ -219,28 +254,28 @@ j) Inacabados ou integrados em prédios em curso de construção ou reconstruç�
 
 4. Os recursos das decisões do juiz, proferidas ao abrigo do disposto no presente diploma, subirão conjuntamente com o que for interposto da decisão final, todos sem efeito suspensivo.
 
-###### Art. 13.º O contrato de arrendamento resultante da regularização de ocupações previstas neste diploma rege-se pelas disposições da lei geral relativas ao arrendamento para habitação na parte em que diversamente aqui se não dispõe, sendo, quando fixado pelo juiz, dispensável a assinatura das partes.
+Art. 13.º O contrato de arrendamento resultante da regularização de ocupações previstas neste diploma rege-se pelas disposições da lei geral relativas ao arrendamento para habitação na parte em que diversamente aqui se não dispõe, sendo, quando fixado pelo juiz, dispensável a assinatura das partes.
 
-###### Art. 14.º Se os ocupantes tiverem efectuado o depósito de quaisquer quantias a título de pagamento do uso do prédio, o proprietário poderá levantar essas quantias, não obstante a irregularidade do mesmo depósito, as quais, em qualquer caso, se considerarão imputadas ao pagamento das prestações que primeiro se vencerem, de entre as fixadas ao abrigo do n.º 2 do artigo 8.º, até à concorrência do respectivo valor, com acerto da diferença, se a houver, aquando do pagamento da última daquelas prestações.
+Art. 14.º Se os ocupantes tiverem efectuado o depósito de quaisquer quantias a título de pagamento do uso do prédio, o proprietário poderá levantar essas quantias, não obstante a irregularidade do mesmo depósito, as quais, em qualquer caso, se considerarão imputadas ao pagamento das prestações que primeiro se vencerem, de entre as fixadas ao abrigo do n.º 2 do artigo 8.º, até à concorrência do respectivo valor, com acerto da diferença, se a houver, aquando do pagamento da última daquelas prestações.
 
-###### Art. 15.º Os ocupantes que não tenham feito uso da faculdade de requererem a regularização da ocupação até ao termo do prazo previsto no n.º 1 do artigo 6.º perderão o direito de requerer o diferimento da desocupação previsto no [Decreto-Lei n.º 293/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1977-250830), de 20 de Julho.
+Art. 15.º Os ocupantes que não tenham feito uso da faculdade de requererem a regularização da ocupação até ao termo do prazo previsto no n.º 1 do artigo 6.º perderão o direito de requerer o diferimento da desocupação previsto no [Decreto-Lei n.º 293/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1977-250830), de 20 de Julho.
 
-###### Art. 16.º - 1. Será punido com pena de prisão até dois anos aquele que, de futuro, ocupar qualquer prédio ou parte dele sem o consentimento do respectivo proprietário ou sem título que lhe assegure o direito ao seu uso ou habitação.
+Art. 16.º - 1. Será punido com pena de prisão até dois anos aquele que, de futuro, ocupar qualquer prédio ou parte dele sem o consentimento do respectivo proprietário ou sem título que lhe assegure o direito ao seu uso ou habitação.
 
 2. A igual pena fica sujeito o ocupante de fogo ou prédio a que o presente diploma confira a faculdade de regularização e que, não tendo feito uso dela, instigue ou faça obstrução à restituição da sua posse, à sua entrega judicial ou ao seu despejo, quando ordenados por decisão judicial com trânsito em julgado.
 
 3. O facto de o prédio se encontrar em fase de construção ou reconstrução funcionará como circunstância agravante especial para o efeito do disposto nos números anteriores.
 
-###### Art. 17.º O disposto no presente diploma não se aplica às ocupações de prédios relativamente aos quais tenha já sido proferida sentença com trânsito em julgado, determinava da restituição da sua posse, da sua entrega judicial ou medida equivalente.
+Art. 17.º O disposto no presente diploma não se aplica às ocupações de prédios relativamente aos quais tenha já sido proferida sentença com trânsito em julgado, determinava da restituição da sua posse, da sua entrega judicial ou medida equivalente.
 
-###### Art. 18.º É revogado o [Decreto-Lei n.º 198-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-a-1975-269597), de 14 de Abril.
+Art. 18.º É revogado o [Decreto-Lei n.º 198-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-a-1975-269597), de 14 de Abril.
 
-###### Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos.
 
-**Promulgado em 6 de Julho de 1977.**
+Promulgado em 6 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

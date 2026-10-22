@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1971-447278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c345f7fc4233ca87f7f949642f87c1a358f0b2950e42eb557c78bd2d29ed7bf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d379ddde00cdac8ba3d5fa444e6f3f21588333db5076dcf77067e71891513bb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Cooperação Técnica
+- França
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:15Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ de 6 de Fevereiro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Cooperação Cultural, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Francesa, assinado em Lisboa em 12 de Junho de 1970, cujo texto, em português e em francês, vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo de Cooperação Cultural, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Francesa, assinado em Lisboa em 12 de Junho de 1970, cujo texto, em português e em francês, vai anexo ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 27 de Janeiro de 1971.**
+Promulgado em 27 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -103,59 +110,59 @@ Acordo de Cooperação Cultural, Científica e Técnica entre o Governo da Repú
 
 O Governo da República Portuguesa e o Governo da República Francesa, animados de um igual desejo de facilitar e desenvolver as trocas e a cooperação entre Portugal e a França nos domínios do ensino, da cultura, da ciência e da técnica e de reforçar, assim, os laços de amizade entre os dois países, acordaram as disposições seguintes:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes, reconhecendo a importância que reveste para cada um dos dois países o conhecimento da língua e da cultura da outra, favorecerão o seu ensino e difusão nos seus respectivos territórios. Estão igualmente decididos a tomar as necessárias medidas para assegurar o desenvolvimento de uma cooperação científica e técnica.
 
-ARTIGO II
+###### ARTIGO II
 
 Cada uma das Partes Contratantes esforçar-se-á por organizar o ensino da língua do outro país nos seus respectivos estabelecimentos escolares, de todos os graus de ensino. Cada Parte Contratante assegurará àquele ensino, na medida em que o permitam os programas escolares e universitários em vigor no seu país, um lugar privilegiado, tanto pela qualidade do pessoal encarregado de o ministrar como pelo número de horas consagrado ao estudo dessa língua e ao nível dos exames que sancionarão esse estudo.
 
 Cada uma das Partes Contratantes favorecerá o ensino da língua, da literatura e da civilização do outro país, servindo-se para tanto de todos os meios extra-escolares, incluídas as emissões radiofónicas e de televisão.
 
-ARTIGO III
+###### ARTIGO III
 
 Tendo em vista desenvolver o ensino e o conhecimento da língua, da literatura e da civilização dos seus respectivos países, as Partes Contratantes facilitarão a criação e funcionamento de cadeiras ou de leitorados nos estabelecimentos de ensino superior, assim como a de lugares de professores, assistentes ou encarregados de curso nos estabelecimentos de ensino secundário ou em outros estabelecimentos de ensino.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada uma das Partes Contratantes encorajará a instalação e o funcionamento no seu território de estabelecimentos culturais, científicos e técnicos, com o fim de facilitar o estudo e o conhecimento da cultura do outro país. As Partes Contratantes concederão a esses estabelecimentos as mais amplas facilidades, dentro do quadro das leis e regulamentos em vigor no seu país.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes organizarão trocas de missões de professores, de investigadores e de especialistas, assim como de outras personalidades do mundo cultural, científico e técnico.
 
 As modalidades dessas trocas serão determinadas pela Comissão Mista Permanente, criada pelo artigo XVII do presente Acordo.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Tendo em vista desenvolver a cooperação científica e técnica entre os dois países, as Partes Contratantes acordam em facilitar os contactos entre institutos e organismos especializados portugueses e franceses, pela troca de missões, concessão de bolsas, organização de estágios para estudo e especialização e remessa de documentação.
 
 Dentro deste espírito, as duas Partes reconhecem o interesse que existe em celebrarem-se arranjos particulares de cooperação entre instituições competentes dos dois países e esforçar-se-ão por favorecer a sua conclusão e efectivação.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Cada uma das Partes Contratantes esforçar-se-á por aumentar o número de bolsas concedidas aos estudantes e aos investigadores desejosos de prosseguirem estudos ou de se aperfeiçoarem no outro país.
 
 Cada uma das Partes concederá aos bolseiros e aos estudantes da outra Parte o tratamento mais favorecido, dentro do quadro da sua legislação interna e numa base de reciprocidade. No espírito do artigo IX, as Partes Contratantes esforçar-se-ão por facilitar aos bolseiros o acesso a estudos que estes, especìficamente, pretendam seguir, prevendo-se, para tal fim, a eventual realização de exames ad hoc ou de outras formas de apuramento de conhecimentos, cuja escolha caberá aos dirigentes dos estabelecimentos de ensino interessados.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Contratantes encorajarão a cooperação das organizações de juventude e das organizações desportivas oficialmente reconhecidas em cada um dos dois países, bem assim como as competições desportivas e os encontros juvenis que tenham um carácter educativo, social ou profissional. As Partes Contratantes trocarão informações relativas às organizações e aos serviços que têm por fim o desenvolvimento dos movimentos de intercâmbio da juventude.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As Partes Contratantes comprometem-se a procurar os meios de, mùtuamente, conceder aos estudos realizados, aos exames efectuados com aprovação e aos diplomas obtidos dentro do quadro da regulamentação dos respectivos países equivalências parciais ou totais.
 
-ARTIGO X
+###### ARTIGO X
 
 De acordo com as respectivas leis internas, as Partes Contratantes procurarão apresentar, em todos os graus e níveis do ensino, uma imagem objectiva do outro país, sobretudo no que diz respeito a manuais ou textos educativos.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Partes Contratantes encorajarão a organização, num e noutro país, de concertos, exposições, representações teatrais, sessões cinematográficas e de quaisquer outras manifestações de carácter artístico, destinadas a dar a conhecer melhor a cultura dos respectivos países.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Dentro do quadro das suas legislações nacionais, as Partes Contratantes facilitarão, recìprocamente, a entrada e a difusão no território respectivo:
 
@@ -169,23 +176,23 @@ De material pedagógico e de ensino;
 
 sob reserva de que tenham um carácter cultural.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Os dois Governos encorajarão o desenvolvimento das relações entre os organismos de radiodifusão sonora e televisão competentes, do lado português, e o O. R. T. F., do lado francês, nomeadamente no domínio das trocas de programas, com o fim, em especial, de contribuírem para o conhecimento mútuo da sua cultura, da sua língua e da sua civilização.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 As Partes Contratantes continuarão a tomar todas as disposições necessárias para assegurar a protecção dos direitos de um autor ou de qualquer outro titular de direitos de propriedade intelectual originário da outra Parte, assim como dos seus legítimos representantes, conformemente aos compromissos firmados nos termos das convenções internacionais.
 
-ARTIGO XV
+###### ARTIGO XV
 
 As Partes Contratantes concederão, dentro das condições fixadas pela sua regulamentação interna, a isenção do pagamento de direitos aduaneiros na importação de material pedagógico, cultural, científico, técnico e artístico destinado aos organismos culturais e aos estabelecimentos de ensino que cada uma das Partes mantém no território da outra, salvo se se verifique uma finalidade ou utilização comercial, assim como à importação temporária de material e de objectos destinados a serem exibidos no decurso de manifestações de carácter cultural, científico e técnico. Neste último caso e se for decidido que o material não seja reexportado, deverá o mesmo ser submetido ao pagamento dos direitos e taxas exigíveis quando há importação e sob reserva de lhe serem aplicadas, eventualmente, as disposições vigorando em matéria de comércio exterior e de câmbios.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Cada uma das Partes Contratantes comprometer-se-á a conceder aos nacionais do outro Estado que exerçam actividades decorrentes da aplicação do presente Acordo todas as facilidades, consentâneas com as suas leis e regulamentos, para a obtenção de autorizações de residência e de carteiras profissionais, assim como para a entrada dos seus móveis, das suas roupas e outros objectos pessoais de uso doméstico.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Será criada uma Comissão Mista Permanente encarregada de fixar as modalidades de aplicação do presente Acordo, de acompanhar a sua execução, de preparar o programa das iniciativas a tomar e de apresentar recomendações às duas Partes.
 
@@ -195,11 +202,11 @@ A Comissão Mista reunir-se-á sempre que uma das Partes o pedir e, pelo menos, 
 
 Por iniciativa da Comissão Mista Permanente e de acordo com as modalidades por esta fixadas, poderão ser criadas, para o estudo de determinados assuntos, comissões restritas, que àquela submeterão o resultado dos seus trabalhos.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 Cada uma das Partes Contratantes notificará a outra do cumprimento das condições impostas pela sua Constituição para a entrada em vigor do presente Acordo. Este produzirá efeitos a partir da data da última dessas notificações.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 O presente Acordo é válido por um período de cinco anos, a contar da data da sua entrada em vigor. A sua duração será prorrogada tàcitamente se uma das Partes não o denunciar à outra Parte pelo menos seis meses antes do fim do dito período de cinco anos. No caso de prorrogação, poderá ser denunciado em qualquer momento por uma das Partes, com um pré-aviso de seis meses.
 

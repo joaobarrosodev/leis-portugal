@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/06/14800/08370838.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1970-140542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 257c797ea2aa9e339929cbcf53ad40deb50011d0a76bf0f95b80cdbfc6412836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c38b5930cead2b6593bb06d475279f25248a136cf7292ecfcdf0596de8b5f526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Animação Ambiental
+- Animação Sócio-cultural
+- Câmara Municipal
+- Definição de Competências
+- Lisboa
+- Ministro do Interior
+- Ordenamento do Território
+- Parque Florestal de Monsanto
 relationships:
 - type: amended_by
   target: pt:dre:475733:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448500:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475733:por
+  label: "Revogado pelo DEC LEI.380/74.22.08.1974.MESA, DG.IS [195] de 22.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/380-1974-475733
+  date: '1974-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:03Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +120,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A fim de estabelecer núcleos de atracção no Parque Florestal da Cidade, criado pelo [Decreto-Lei n.º 24625](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24625-1934-448500), de 1 de Novembro de 1934, poderá a Câmara Municipal de Lisboa, mediante autorização do Ministro do Interior, tomar as seguintes iniciativas:
+Artigo 1.º - 1. A fim de estabelecer núcleos de atracção no Parque Florestal da Cidade, criado pelo [Decreto-Lei n.º 24625](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24625-1934-448500), de 1 de Novembro de 1934, poderá a Câmara Municipal de Lisboa, mediante autorização do Ministro do Interior, tomar as seguintes iniciativas:
 
 a) Promover a construção de recintos e instalações de recreio dentro da área do referido Parque;
 
@@ -109,12 +130,12 @@ c) Facultar, mediante a constituição do direito de superfície, o estabelecime
 
 2. A constituição do direito de superfície para os fins previstos na alínea c) do número anterior obedecerá ao disposto nos artigos 21.º e seguintes da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, podendo, porém, a escolha do superficiário efectuar-se independentemente de hasta pública.
 
-###### Art. 2.º Na execução do disposto no presente diploma deverá a Câmara Municipal de Lisboa providenciar no sentido de serem adoptadas as soluções urbanísticas e arquitectónicas mais convenientes à integração das respectivas instalações no conjunto do Parque Florestal da Cidade.
+Art. 2.º Na execução do disposto no presente diploma deverá a Câmara Municipal de Lisboa providenciar no sentido de serem adoptadas as soluções urbanísticas e arquitectónicas mais convenientes à integração das respectivas instalações no conjunto do Parque Florestal da Cidade.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 17 de Junho de 1970.**
+Promulgado em 17 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

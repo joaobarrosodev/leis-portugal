@@ -49,36 +49,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48436-1968-272213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f5568dfeff328604e14e1c15ce76a89d8180ad31b4c1e318a6f4d25d99d9a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ccf3d9f05a43a1c3123f8f9e7e7708c32fcd36441401db8ac8acc4fd3cfafaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Comércio
+- Contribuições e Impostos
+- Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+- Imposto Especial sobre o Consumo de Tabaco
+- Livre Circulação de Mercadorias
+- Madeira.ilha Adjacente
+- Política Fiscal
+- Tabaco
+relationships:
+- type: cites
+  target: pt:dre:152080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680005:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:38Z'
   warnings: []
   errors: []
 ---
@@ -95,24 +132,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É fixado em 9$50 por quilograma o imposto sobre o tabaco manipulado, produzido ou entrado, para consumo local, nas ilhas adjacentes, a que se referem as Leis n.os 234 e 927, respectivamente de 10 de Julho de 1914 e 20 de Janeiro de 1920, o artigo 1.º do [Decreto n.º 20869](https://diariodarepublica.pt/dr/detalhe/decreto/20869-1932-523471), de 11 de Fevereiro de 1932, o § 1.º do artigo 15.º do [Decreto-Lei n.º 23847](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23847-1934-463637), de 14 de Maio de 1934, o artigo 3.º do [Decreto-Lei n.º 36820](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36820-1948-152080), de 7 de Abril de 1948, e o artigo 1.º do [Decreto-Lei n.º 39963](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39963-1954-680005), de 13 de Dezembro de 1954.
+Artigo 1.º É fixado em 9$50 por quilograma o imposto sobre o tabaco manipulado, produzido ou entrado, para consumo local, nas ilhas adjacentes, a que se referem as Leis n.os 234 e 927, respectivamente de 10 de Julho de 1914 e 20 de Janeiro de 1920, o artigo 1.º do [Decreto n.º 20869](https://diariodarepublica.pt/dr/detalhe/decreto/20869-1932-523471), de 11 de Fevereiro de 1932, o § 1.º do artigo 15.º do [Decreto-Lei n.º 23847](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23847-1934-463637), de 14 de Maio de 1934, o artigo 3.º do [Decreto-Lei n.º 36820](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36820-1948-152080), de 7 de Abril de 1948, e o artigo 1.º do [Decreto-Lei n.º 39963](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39963-1954-680005), de 13 de Dezembro de 1954.
 
 § único. Da importância do referido imposto revertem, por quilograma, 6$00 para as câmaras municipais, 2$00 para as juntas gerais dos distritos e 1$50 para o Instituto de Assistência Nacional aos Tuberculosos, destinando-se esta última verba à continuação da luta antituberculosa nas ilhas adjacentes.
 
-###### Art. 2.º O referido imposto recairá sobre todas as espécies de tabaco manipulado, sem preferência por nenhuma delas e independentemente da sua proveniência, e será cobrado pelas mesmas entidades que cobram para o Estado o imposto sobre o tabaco.
+Art. 2.º O referido imposto recairá sobre todas as espécies de tabaco manipulado, sem preferência por nenhuma delas e independentemente da sua proveniência, e será cobrado pelas mesmas entidades que cobram para o Estado o imposto sobre o tabaco.
 
 § 1.º Quando o tabaco saia das fábricas para consumo da própria ilha, pagará o imposto juntamente com o do Estado.
 
 § 2.º O tabaco submetido a despacho de entrada para consumo pagará o imposto nas respectivas estâncias aduaneiras.
 
-###### Art. 3.º As estâncias fiscais que cobram o imposto sobre o tabaco farão mensalmente entrega das respectivas importâncias às entidades citadas no presente diploma, de conformidade com o que se achar estabelecido para os demais impostos por elas cobrados.
+Art. 3.º As estâncias fiscais que cobram o imposto sobre o tabaco farão mensalmente entrega das respectivas importâncias às entidades citadas no presente diploma, de conformidade com o que se achar estabelecido para os demais impostos por elas cobrados.
 
-###### Art. 4.º O artigo 109.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes, aprovado pelo [Decreto-Lei n.º 36453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36453-1947-182405), de 4 de Agosto de 1947, passa a ter a seguinte redacção:
+Art. 4.º O artigo 109.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes, aprovado pelo [Decreto-Lei n.º 36453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36453-1947-182405), de 4 de Agosto de 1947, passa a ter a seguinte redacção:
 
-###### Art. 109.º A tributação do tabaco manipulado entrado ou produzido nas ilhas para consumo local será objecto de lei especial.
+Art. 109.º A tributação do tabaco manipulado entrado ou produzido nas ilhas para consumo local será objecto de lei especial.
 
-###### Art. 5.º Ficam revogadas as Leis n.os 234 e 927, os artigos 1.º e 2.º do [Decreto n.º 20869](https://diariodarepublica.pt/dr/detalhe/decreto/20869-1932-523471), o § 1.º do artigo 15.º do [Decreto-Lei n.º 23847](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23847-1934-463637), o artigo 3.º do [Decreto-Lei n.º 36820](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36820-1948-152080) e o artigo 1.º do [Decreto-Lei n.º 39963](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39963-1954-680005), mencionados no corpo do artigo 1.º deste decreto-lei, e bem assim a Lei de 16 de Janeiro de 1913 e a alínea b) do artigo 5.º do [Decreto-Lei n.º 26985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26985-1936-364745), de 5 de Setembro de 1936.
+Art. 5.º Ficam revogadas as Leis n.os 234 e 927, os artigos 1.º e 2.º do [Decreto n.º 20869](https://diariodarepublica.pt/dr/detalhe/decreto/20869-1932-523471), o § 1.º do artigo 15.º do [Decreto-Lei n.º 23847](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23847-1934-463637), o artigo 3.º do [Decreto-Lei n.º 36820](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36820-1948-152080) e o artigo 1.º do [Decreto-Lei n.º 39963](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39963-1954-680005), mencionados no corpo do artigo 1.º deste decreto-lei, e bem assim a Lei de 16 de Janeiro de 1913 e a alínea b) do artigo 5.º do [Decreto-Lei n.º 26985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26985-1936-364745), de 5 de Setembro de 1936.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

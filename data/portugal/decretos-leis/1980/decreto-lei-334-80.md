@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1980-469668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003de2e0d327bd0b7b4f1a04fab7ea39deb2e1e0e870434f4eb7c7972c628700
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2caa61f5b61f65360a420088ca6de456e55b335b6379d88930082af16169932
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Empresa
+- Expropriação
+- Financiamento
+- Indemnização
+- Nacionalização
+relationships:
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382181:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:07Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +108,11 @@ Deste modo, ouvido o Banco de Portugal:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os titulares de direito à indemnização por bens nacionalizados ou expropriados, abrangidos pelas disposições da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, designados neste diploma por indemnizandos, poderão mobilizar tal indemnização nos termos dos artigos seguintes, desde que não estejam incluídos em situação de imobilização.
+Artigo 1.º Os titulares de direito à indemnização por bens nacionalizados ou expropriados, abrangidos pelas disposições da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, designados neste diploma por indemnizandos, poderão mobilizar tal indemnização nos termos dos artigos seguintes, desde que não estejam incluídos em situação de imobilização.
 
-###### Art. 2.º Para os efeitos do disposto no artigo anterior, os indemnizandos solicitarão à Junta do Crédito Público a emissão de certificado comprovativo do montante global que lhes corresponda, calculado na base dos valores provisórios fixados.
+Art. 2.º Para os efeitos do disposto no artigo anterior, os indemnizandos solicitarão à Junta do Crédito Público a emissão de certificado comprovativo do montante global que lhes corresponda, calculado na base dos valores provisórios fixados.
 
-###### Art. 3.º - 1 - Sem prejuízo das orientações da política monetária, a mobilização, que deverá integrar-se nos objectivos prioritários da política económica, poderá ser efectuada para as seguintes finalidades:
+Art. 3.º - 1 - Sem prejuízo das orientações da política monetária, a mobilização, que deverá integrar-se nos objectivos prioritários da política económica, poderá ser efectuada para as seguintes finalidades:
 
 a) A constituição de empresas a que corresponda um investimento global, por posto de trabalho criado, não superior a 2500 contos;
 
@@ -124,7 +138,7 @@ b) Empresa exportadora a que exporte bens ou serviços cujo valor acrescentado n
 
 c) Empresa cuja produção seja destinada à substituição de importações a que fizer prova de que os bens ou serviços que produz substituem, em montante minimamente aceitável, bens ou serviços importados no ano anterior.
 
-###### Art. 4.º - 1 - Mediante a apresentação do certificado a que se refere o artigo 2.º e feita a prova de que a finalidade de utilização se enquadra nalgum dos casos mencionados no artigo anterior, poderão os indemnizandos:
+Art. 4.º - 1 - Mediante a apresentação do certificado a que se refere o artigo 2.º e feita a prova de que a finalidade de utilização se enquadra nalgum dos casos mencionados no artigo anterior, poderão os indemnizandos:
 
 a) Obter a concessão de financiamento por parte de uma instituição de crédito para qualquer das finalidades referidas nas alíneas a) a e) e g) do artigo antecedente;
 
@@ -134,26 +148,26 @@ c) Adquirir, por troca, qualquer das participações mencionadas na alínea f) d
 
 2 - No caso da alínea a) do n.º 1 do presente artigo, o valor do financiamento não poderá exceder o que resultar do disposto no artigo 29.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de acordo com a tabela anexa a este diploma, tendo igualmente em consideração o valor global que resulte da aplicação, a cada titular, dos valores provisórios fixados para os bens ou direitos objecto de nacionalização ou expropriação, devendo o financiamento ser sempre caucionado pelo certificado referido no artigo 2.º
 
-###### Art. 5.º Quando o montante do financiamento referido na alínea a) do n.º 1 do artigo anterior exceder a quantia de 50000 contos por indemnizando, ficará dependente de prévia autorização do Ministro das Finanças e do Plano.
+Art. 5.º Quando o montante do financiamento referido na alínea a) do n.º 1 do artigo anterior exceder a quantia de 50000 contos por indemnizando, ficará dependente de prévia autorização do Ministro das Finanças e do Plano.
 
-###### Art. 6.º Os empréstimos a que se referem os artigos anteriores vencerão juro à taxa correspondente à natureza da operação a realizar, devendo no seu cômputo ser deduzido o rendimento dos títulos representados pelo certificado que constitui a caução.
+Art. 6.º Os empréstimos a que se referem os artigos anteriores vencerão juro à taxa correspondente à natureza da operação a realizar, devendo no seu cômputo ser deduzido o rendimento dos títulos representados pelo certificado que constitui a caução.
 
-###### Art. 7.º O Ministro das Finanças e do Plano poderá, mediante portaria, alterar as finalidades da mobilização mencionadas no artigo 3.º e, bem assim, o limite fixado no artigo 5.º
+Art. 7.º O Ministro das Finanças e do Plano poderá, mediante portaria, alterar as finalidades da mobilização mencionadas no artigo 3.º e, bem assim, o limite fixado no artigo 5.º
 
-###### Art. 8.º A faculdade de utilização do regime previsto neste diploma fica dependente da prova, por parte do indemnizando, de que a sua situação perante o Fisco e a Previdência se encontra regularizada.
+Art. 8.º A faculdade de utilização do regime previsto neste diploma fica dependente da prova, por parte do indemnizando, de que a sua situação perante o Fisco e a Previdência se encontra regularizada.
 
-###### Art. 9.º As dúvidas suscitadas na interpretação e aplicação deste decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 9.º As dúvidas suscitadas na interpretação e aplicação deste decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 13 de Agosto de 1980.**
+Promulgado em 13 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Tabela referida no artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19900/24572458.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19900/24572458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19900/24572458.pdf)

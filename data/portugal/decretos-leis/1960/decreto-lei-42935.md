@@ -50,36 +50,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42935-1960-281604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82c5d35f629cda423be94a05381dd88fbc575c8b5952c82b469844b52793f634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22db35bae52dc4dc99d07c4e8f562aa083c9e179477bc6b6df1676b75dbec8b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Circunscrição Florestal
+- Definição de Competências
+- Direcção Geral dos Serviços Florestais e Aquícolas
+- Formas de Provimento
+- Horta
+- Ilhas Adjacentes
+- Quadro de Pessoal
+- Regime Florestal
+- Secretaria de Estado da Agricultura
+- Subsídio de Deslocação
+relationships:
+- type: cites
+  target: pt:dre:182405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:00Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +136,13 @@ Atendendo a que urge dar pronta execução aos planos já aprovados pela Câmara
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Compete à Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas, a execução dos planos complementares do plano de povoamento florestal relativos aos distritos autónomos das ilhas adjacentes, previstos na base II da [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938, e aprovados ou a aprovar pela Câmara Corporativa, nos termos da mesma disposição.
+Artigo 1.º Compete à Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas, a execução dos planos complementares do plano de povoamento florestal relativos aos distritos autónomos das ilhas adjacentes, previstos na base II da [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938, e aprovados ou a aprovar pela Câmara Corporativa, nos termos da mesma disposição.
 
-###### Art. 2.º São criadas as Circunscrições Florestais da Horta e de Angra do Heroísmo, subordinadas à Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º São criadas as Circunscrições Florestais da Horta e de Angra do Heroísmo, subordinadas à Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 3.º Os planos complementares a que se refere o artigo 1.º serão executados, em cada um dos distritos autónomos a que respeitam, pelas respectivas circunscrições florestais.
+Art. 3.º Os planos complementares a que se refere o artigo 1.º serão executados, em cada um dos distritos autónomos a que respeitam, pelas respectivas circunscrições florestais.
 
-###### Art. 4.º Às circunscrições florestais das ilhas adjacentes incumbem:
+Art. 4.º Às circunscrições florestais das ilhas adjacentes incumbem:
 
 1) Todas as funções pertencentes, nos termos da legislação vigente, às circunscrições florestais do continente;
 
@@ -124,37 +164,37 @@ f) Criação e manutenção de viveiros florestais e introdução de novas essê
 
 § 2.º Os funcionários a que se refere o parágrafo anterior farão também parte dos órgãos de turismo dos distritos autónomos das ilhas adjacentes.
 
-###### Art. 5.º É extensiva à área das circunscrições florestais dos distritos autónomos das ilhas adjacentes toda a legislação florestal em vigor no continente, nomeadamente as disposições relativas à execução do regime florestal, organização dos serviços de polícia florestal, protecção de arvoredos, caça e fomento piscícola nas águas interiores.
+Art. 5.º É extensiva à área das circunscrições florestais dos distritos autónomos das ilhas adjacentes toda a legislação florestal em vigor no continente, nomeadamente as disposições relativas à execução do regime florestal, organização dos serviços de polícia florestal, protecção de arvoredos, caça e fomento piscícola nas águas interiores.
 
-###### Art. 6.º É proibido reduzir a área florestal dos distritos autónomos das ilhas adjacentes, salvo nos casos em que haja para tanto justificação técnica e económica.
+Art. 6.º É proibido reduzir a área florestal dos distritos autónomos das ilhas adjacentes, salvo nos casos em que haja para tanto justificação técnica e económica.
 
-###### Art. 7.º A saída de produtos florestais originários dos distritos autónomos das ilhas adjacentes carece, além das formalidades constantes das leis preexistentes, de parecer favorável da respectiva circunscrição florestal, sem o qual não poderão as alfândegas autorizar o seu embarque.
+Art. 7.º A saída de produtos florestais originários dos distritos autónomos das ilhas adjacentes carece, além das formalidades constantes das leis preexistentes, de parecer favorável da respectiva circunscrição florestal, sem o qual não poderão as alfândegas autorizar o seu embarque.
 
-###### Art. 8.º Os serviços das Circunscrições Florestais do Funchal, Ponta Delgada, Horta e Angra do Heroísmo serão desempenhados pelo pessoal dos quadros e contratado da Direcção-Geral dos Serviços Florestais e Aquícolas a fixar por despacho do Secretário de Estado da Agricultura.
+Art. 8.º Os serviços das Circunscrições Florestais do Funchal, Ponta Delgada, Horta e Angra do Heroísmo serão desempenhados pelo pessoal dos quadros e contratado da Direcção-Geral dos Serviços Florestais e Aquícolas a fixar por despacho do Secretário de Estado da Agricultura.
 
-###### Art. 9.º Para o preenchimento de lugares a desempenhar nas ilhas adjacentes deverão os concursos de admissão e promoção ser efectuados para cada um dos distritos autónomos, independentemente dos concursos para o continente. Os avisos de abertura de concurso a que se refere o artigo 18.º do Regulamento de Admissões e Promoções do Pessoal da Direcção-Geral dos Serviços Florestais e Aquícolas, aprovado pelo [Decreto n.º 41582](https://diariodarepublica.pt/dr/detalhe/decreto/41582-1958-304991), de 10 de Abril de 1958, deverão indicar os lugares vagos em cada um dos serviços das ilhas adjacentes.
+Art. 9.º Para o preenchimento de lugares a desempenhar nas ilhas adjacentes deverão os concursos de admissão e promoção ser efectuados para cada um dos distritos autónomos, independentemente dos concursos para o continente. Os avisos de abertura de concurso a que se refere o artigo 18.º do Regulamento de Admissões e Promoções do Pessoal da Direcção-Geral dos Serviços Florestais e Aquícolas, aprovado pelo [Decreto n.º 41582](https://diariodarepublica.pt/dr/detalhe/decreto/41582-1958-304991), de 10 de Abril de 1958, deverão indicar os lugares vagos em cada um dos serviços das ilhas adjacentes.
 
-###### Art. 10.º Independentemente das formas de provimento previstas na legislação vigente, os lugares vagos nas circunscrições florestais das ilhas adjacentes poderão ser providos em comissão por funcionários do quadro ou contratados da Direcção-Geral dos Serviços Florestais e Aquícolas, aos quais é conservado o direito aos lugares que ocupam, sendo-lhes contado, para todos os efeitos legais, incluindo o da aposentação, o tempo de serviço prestado na nova categoria.
+Art. 10.º Independentemente das formas de provimento previstas na legislação vigente, os lugares vagos nas circunscrições florestais das ilhas adjacentes poderão ser providos em comissão por funcionários do quadro ou contratados da Direcção-Geral dos Serviços Florestais e Aquícolas, aos quais é conservado o direito aos lugares que ocupam, sendo-lhes contado, para todos os efeitos legais, incluindo o da aposentação, o tempo de serviço prestado na nova categoria.
 
 § único. As comissões nos termos deste artigo manter-se-ão até ao provimento definitivo dos respectivos lugares, sem prejuízo de poderem ser dadas por findas em qualquer altura pelo Secretário de Estado da Agricultura.
 
-###### Art. 11.º Nas transferências de pessoal do continente para as ilhas adjacentes e vice-versa que não sejam por motivo disciplinar ou a pedido serão os funcionários abonados das despesas efectuadas com o transporte das pessoas de família que com eles coabitem e os acompanhem, nas mesmas condições em que eles próprios viajarem. Igualmente serão abonados das despesas com o transporte da mobília de sua casa, independentemente de quaisquer outros abonos que lhes competirem.
+Art. 11.º Nas transferências de pessoal do continente para as ilhas adjacentes e vice-versa que não sejam por motivo disciplinar ou a pedido serão os funcionários abonados das despesas efectuadas com o transporte das pessoas de família que com eles coabitem e os acompanhem, nas mesmas condições em que eles próprios viajarem. Igualmente serão abonados das despesas com o transporte da mobília de sua casa, independentemente de quaisquer outros abonos que lhes competirem.
 
 § 1.º Idênticas regalias são concedidas ao pessoal que, por conveniência de serviço, seja transferido entre as ilhas compreendidas na área das circunscrições.
 
 § 2.º Para os efeitos deste artigo considera-se família o cônjuge, os descendentes, ascendentes e colaterais, quando a cargo do funcionário e que com ele coabitem.
 
-###### Art. 12.º Aos funcionários do continente colocados nas circunscrições florestais das ilhas adjacentes ser-lhe-á abonada, nos termos legais, a ajuda de custo por deslocação, durante um período não superior a seis meses, desde que não lhes seja fornecida pelo Estado habitação para residir.
+Art. 12.º Aos funcionários do continente colocados nas circunscrições florestais das ilhas adjacentes ser-lhe-á abonada, nos termos legais, a ajuda de custo por deslocação, durante um período não superior a seis meses, desde que não lhes seja fornecida pelo Estado habitação para residir.
 
-###### Art. 13.º Os funcionários colocados nas circunscrições florestais das ilhas adjacentes só poderão ser transferidos para lugares idênticos no continente desde que tenham vaga e hajam prestado serviço efectivo nas ilhas adjacentes durante um período não inferior a cinco anos.
+Art. 13.º Os funcionários colocados nas circunscrições florestais das ilhas adjacentes só poderão ser transferidos para lugares idênticos no continente desde que tenham vaga e hajam prestado serviço efectivo nas ilhas adjacentes durante um período não inferior a cinco anos.
 
 § 1.º As transferências por motivos disciplinares deverão efectuar-se nas circunscrições das ilhas adjacentes.
 
 § 2.º Os funcionários nomeados em comissão e a quem, antes de cinco anos seja dada por finda essa situação por motivos diferentes do da conveniência de serviço, terão de suportar as despesas com a viagem de regresso, ficando igualmente responsáveis pelo reembolso da totalidade das despesas com a viagem de ida, se a efectividade de serviço tiver sido inferior a dois anos.
 
-###### Art. 14.º O pessoal colocado na ilha de Santa Maria terá direito a um subsídio de residência correspondente a um terço do respectivo vencimento, subsídio esse que será arredondado para escudos em excesso.
+Art. 14.º O pessoal colocado na ilha de Santa Maria terá direito a um subsídio de residência correspondente a um terço do respectivo vencimento, subsídio esse que será arredondado para escudos em excesso.
 
-###### Art. 15.º Os quadros do pessoal constantes do mapa n.º 1 anexo ao [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, serão acrescidos do seguinte pessoal, destinado às Circunscrições Florestais da Horta e de Angra do Heroísmo:
+Art. 15.º Os quadros do pessoal constantes do mapa n.º 1 anexo ao [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, serão acrescidos do seguinte pessoal, destinado às Circunscrições Florestais da Horta e de Angra do Heroísmo:
 
 Pessoal técnico:
 
@@ -200,19 +240,19 @@ Pessoal menor:
 
 § único. O preenchimento dos lugares a que se refere o corpo do artigo será feito à medida que forem dotados em orçamento.
 
-###### Art. 16.º O recrutamento de guardas florestais para as ilhas adjacentes será feito pela 3.ª classe, em número correspondente ao de vagas existentes em todas as classes, sendo obrigatória a apresentação a concurso para a classe imediata passados que sejam dois anos de serviço efectivo.
+Art. 16.º O recrutamento de guardas florestais para as ilhas adjacentes será feito pela 3.ª classe, em número correspondente ao de vagas existentes em todas as classes, sendo obrigatória a apresentação a concurso para a classe imediata passados que sejam dois anos de serviço efectivo.
 
 § 1.º Serão dispensados do serviço todos aqueles que não obtiverem boa classificação ou que, salvo por motivo de doença devidamente comprovada, não prestarem provas.
 
 § 2.º Os vencimentos a que tem direito este pessoal serão abonados pelas disponibilidades das verbas de remunerações certas ao pessoal em exercício.
 
-###### Art. 17.º Quanto a assistência técnica, protecção de arvoredos, regime pastoril, fabrico de carvão e outros casos afins, serão fixadas as respectivas normas em decreto regulamentar.
+Art. 17.º Quanto a assistência técnica, protecção de arvoredos, regime pastoril, fabrico de carvão e outros casos afins, serão fixadas as respectivas normas em decreto regulamentar.
 
-###### Art. 18.º Todas as dúvidas que se levantarem na execução do presente decreto-lei, bem como no decreto regulamentar, em execução do artigo 18.º, serão resolvidas por despacho do Secretário de Estado da Agricultura, ouvido o Conselho Técnico dos Serviços Florestais, e, quando envolvam aspectos de ordem financeira, com o acordo do Ministro das Finanças.
+Art. 18.º Todas as dúvidas que se levantarem na execução do presente decreto-lei, bem como no decreto regulamentar, em execução do artigo 18.º, serão resolvidas por despacho do Secretário de Estado da Agricultura, ouvido o Conselho Técnico dos Serviços Florestais, e, quando envolvam aspectos de ordem financeira, com o acordo do Ministro das Finanças.
 
-###### Art. 19.º Com o presente diploma e o decreto regulamentar a que se refere o artigo 17.º ficarão revogados a [Lei n.º 81](https://diariodarepublica.pt/dr/detalhe/lei/81-1913-590364), de 23 de Julho de 1913, e [Decreto n.º 3382](https://diariodarepublica.pt/dr/detalhe/decreto/3382-1917-495562), de 22 de Setembro de 1917, o n.º 3.º do artigo 16.º e o artigo 18.º do [Decreto-Lei n.º 36453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36453-1947-182405), de 4 de Agosto de 1947, e substituídos os Decretos-Leis n.os 36966, de 13 de Julho de 1948, 38178, de 22 de Fevereiro de 1951, e 39144, de 23 de Março de 1953.
+Art. 19.º Com o presente diploma e o decreto regulamentar a que se refere o artigo 17.º ficarão revogados a [Lei n.º 81](https://diariodarepublica.pt/dr/detalhe/lei/81-1913-590364), de 23 de Julho de 1913, e [Decreto n.º 3382](https://diariodarepublica.pt/dr/detalhe/decreto/3382-1917-495562), de 22 de Setembro de 1917, o n.º 3.º do artigo 16.º e o artigo 18.º do [Decreto-Lei n.º 36453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36453-1947-182405), de 4 de Agosto de 1947, e substituídos os Decretos-Leis n.os 36966, de 13 de Julho de 1948, 38178, de 22 de Fevereiro de 1951, e 39144, de 23 de Março de 1953.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça.
 

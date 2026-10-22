@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15900/12991301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6751f72bcf67514dd11e24473bc498e2239ed8abff4eb1cb8c8610adc0bcdd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b979c0051f5ad1ff065dfdabf3fd0033fd5cc479b4d70d9cf8dd7a19c2016e9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Admissão de Pessoal
+- Caixa Geral de Aposentações
+- Empresa Pública
+- Funcionário Ultramarino
+- Integração de Trabalhadores
+- Montepio dos Servidores do Estado
+- Quadro Geral de Adidos
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:574675:por
+  label: "Revogados os arts. 1º e 2º pelo DEC LEI.140/81.30.05.1981.PCM, DR.IS [124] de 30.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1981-574675
+  date: '1981-05-30'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:47Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +195,7 @@ Além dos agentes previstos nos n.os 7 e 8 do artigo 26.º e dos n.os 1 e 2 do a
 
 Os n.os 1, 2, 3 e 5 do artigo 26.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) passam a ter a seguinte redacção:
 
-###### Art. 26.º - 1 - Na situação de disponibilidade, os adidos são titulares de todos os direitos comuns ao funcionalismo público, com excepção dos que são inerentes ao exercício de funções, sendo-lhes, porém, contado, para todos os efeitos legais, o tempo em que se mantiverem nesta situação.
+Art. 26.º - 1 - Na situação de disponibilidade, os adidos são titulares de todos os direitos comuns ao funcionalismo público, com excepção dos que são inerentes ao exercício de funções, sendo-lhes, porém, contado, para todos os efeitos legais, o tempo em que se mantiverem nesta situação.
 
 2 - Os adidos têm direito às seguintes remunerações certas:
 
@@ -184,8 +231,8 @@ As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 30 de Junho de 1978.**
+Promulgado em 30 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

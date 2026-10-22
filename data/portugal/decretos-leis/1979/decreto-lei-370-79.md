@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20600/22182221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1979-370608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7522cf12752eab0ab875426e7ef9e4724796df887852189fa6f181bd0424546
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d55682b3e424cbc25ee40b9429eacc261818f237ac0027b3ec89fd50a6a53139
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Escolar
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390187:por
+  label: "Alterado o quadro de pessoal das direcções dos distritos escolares, aprovado pelo presente diploma, pela PORT.96/81.22.01.1981.PCM,\
+    \ DR.IS [18] de 22.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1981-390187
+  date: '1981-01-22'
+- type: amended_by
+  target: pt:dre:600086:por
+  label: "Alterado o quadro de pessoal anexo e a que se refere o nº 2 do art. 1º pela PORT.261/82.12.03.1982.MFP, DR.IS [59]\
+    \ de 12.03.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-1982-600086
+  date: '1982-03-12'
+- type: amended_by
+  target: pt:dre:385020:por
+  label: Alterada a al. a) do n.º 2 do art. 4.º pelo(a) Decreto-Lei n.º 140/84 - Diário da República n.º 106/1984, Série I
+    de 1984-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1984-385020
+  date: '1984-05-08'
+- type: amended_by
+  target: pt:dre:571216:por
+  label: "Substituído o quadro de pessoal anexo e a que se refere o nº 2 do art. 1º, com as alterações que lhe foram introduzidas\
+    \ pela Port 261/82 de 12-Mar, pela PORT.330/90.02.05.1990.MF, DR.IS [100] de 02.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-1990-571216
+  date: '1990-05-02'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:365512:por
+  label: Rectificado pela DECL.DD7233.24.09.1979.PCM, DR.IS [221] de 24.09.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-365512
+  date: '1979-09-24'
+- type: repealed_by
+  target: pt:dre:549390:por
+  label: "Revogado pelo DEC LEI.361/89.18.10.1989.ME, DR.IS [240] de 18.10.1989, em tudo o que for incompatível com o disposto\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1989-549390
+  date: '1989-10-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:27Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +168,13 @@ Considera-se que para tal objectivo a divisão territorial mais adequada se situ
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As dotações de pessoal administrativo e auxiliar das direcções de distrito escolar, em seguida abreviadamente designadas por DDE, constituem um quadro único, cuja gestão será transitoriamente atribuída à Direcção-Geral de Pessoal, enquanto não for estabelecido o quadro dos serviços regionais do Ministério da Educação e Investigação Científica, previsto no artigo 5.º do [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril.
+Artigo 1.º - 1 - As dotações de pessoal administrativo e auxiliar das direcções de distrito escolar, em seguida abreviadamente designadas por DDE, constituem um quadro único, cuja gestão será transitoriamente atribuída à Direcção-Geral de Pessoal, enquanto não for estabelecido o quadro dos serviços regionais do Ministério da Educação e Investigação Científica, previsto no artigo 5.º do [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril.
 
 2 - As dotações de cada DDE são as que constam do quadro anexo 1 ao presente diploma.
 
 3 - Por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário da República, poderá ser autorizada a remodelação dos quadros das DDE, desde que não seja aumentado, nas diferentes categorias, o número total de lugares.
 
-###### Art. 2.º - 1 - As dotações de pessoal de cada DDE são definidas sem prejuízo da futura inserção dos funcionários nos núcleos de agrupamento escolar (NAE), que terão como base os agrupamentos de municípios definidos no anexo 2 ao presente diploma, terão sede nas localidades aí indicadas e assumirão na respectiva áreas as funções desempenhadas pelas DDE.
+Art. 2.º - 1 - As dotações de pessoal de cada DDE são definidas sem prejuízo da futura inserção dos funcionários nos núcleos de agrupamento escolar (NAE), que terão como base os agrupamentos de municípios definidos no anexo 2 ao presente diploma, terão sede nas localidades aí indicadas e assumirão na respectiva áreas as funções desempenhadas pelas DDE.
 
 2 - As DDE deverão iniciar o processo de organização que há-de conduzir à constituição dos NAE, desenvolvendo para o efeito as acções convenientes, nomeadamente por atribuição de áreas de responsabilidade e preparação de pessoal destinado ao exercício de funções naqueles agrupamentos.
 
@@ -119,11 +184,11 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 5 - A criação de cada NAE será objecto de portaria conjunta dos Ministros das Finanças e do Plano, da Administração Interna, da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
 
-###### Art. 3.º - 1 - O regime do pessoal das DDE passará a ser o constante do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e, subsidiariamente, o da lei geral.
+Art. 3.º - 1 - O regime do pessoal das DDE passará a ser o constante do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e, subsidiariamente, o da lei geral.
 
 2 - Os concursos previstos no diploma referido no número anterior poderão ser substituídos pela avaliação obtida em concursos de formação, cujas regras de funcionamento serão fixadas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 4.º - 1 - São criadas no quadro de pessoal das DDE as categorias de chefe de secção e telefonista, às quais correspondem as letras de vencimentos previstos na lei geral para cada uma daquelas categorias.
+Art. 4.º - 1 - São criadas no quadro de pessoal das DDE as categorias de chefe de secção e telefonista, às quais correspondem as letras de vencimentos previstos na lei geral para cada uma daquelas categorias.
 
 2 - Para além da regras gerais de provimento previstas na lei, aos provimentos nos lugares referidos no n.º 1 deste artigo é, ainda, especialmente aplicável:
 
@@ -133,7 +198,7 @@ b) Para telefonista, o disposto no artigo 11.º do [Decreto-Lei n.º 116/71](htt
 
 3 - O primeiro provimento do lugar de chefe de secção que se seguir à entrada em vigor deste diploma poderá ser feito de entre os primeiros-oficiais em serviço nas DDE, na situação de quadro, contratada além do quadro ou ainda de supranumerário, ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 130/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1976-506809), de 14 de Fevereiro, com, pelo menos, um ano de serviço prestado naquela categoria.
 
-###### Art. 5.º - 1 - Serão permitidas permutas e transferências entre:
+Art. 5.º - 1 - Serão permitidas permutas e transferências entre:
 
 a) Pessoal dos quadros das DDE;
 
@@ -149,48 +214,48 @@ c) Inexistência de concurso de provimento, aberto para a categoria a que o func
 
 d) A permuta ou a transferência se fazerem na categoria a que o funcionário pertence.
 
-###### Art. 6.º - 1 - O pessoal administrativo e auxiliar, com excepção dos primeiros-oficiais, que se encontre provido no quadro, na situação de contratado além do quadro ou ainda de supranumerário, ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 130/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1976-506809), de 14 de Fevereiro, transita para a categoria imediatamente superior, desde que possua as habilitações literárias para tal exigidas por lei e três anos de bom e efectivo serviço na categoria que possuir à data da entrada em vigor do presente diploma.
+Art. 6.º - 1 - O pessoal administrativo e auxiliar, com excepção dos primeiros-oficiais, que se encontre provido no quadro, na situação de contratado além do quadro ou ainda de supranumerário, ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 130/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1976-506809), de 14 de Fevereiro, transita para a categoria imediatamente superior, desde que possua as habilitações literárias para tal exigidas por lei e três anos de bom e efectivo serviço na categoria que possuir à data da entrada em vigor do presente diploma.
 
 2 - O pessoal administrativo e auxiliar que se encontra nas DDE em regime de prestação eventual de serviços será integrado no quadro, na categoria que actualmente ocupa, desde que possua as habilitações literárias legalmente exigidas.
 
 3 - O provimento de pessoal originado pelo disposto nos números anteriores será feito através de listas nominativas aprovadas por despacho ministerial, sujeitas a visto do Tribunal de Contas e às demais formalidades exigidas por lei.
 
-###### Art. 7.º As listas referidas no artigo 5.º serão publicadas no Diário da República, no prazo de sessenta dias contado a partir da entrada em vigor do presente diploma.
+Art. 7.º As listas referidas no artigo 5.º serão publicadas no Diário da República, no prazo de sessenta dias contado a partir da entrada em vigor do presente diploma.
 
-###### Art. 8.º - 1 - Os regentes escolares que se encontrem a prestar serviço nas DDE ao abrigo do disposto no artigo 16.º do [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, mantêm a situação que possuírem à data da entrada em vigor deste decreto-lei ou, se existir vaga, serão integrados como escriturários-dactilógrafos, continuando, porém, a ter direito à remuneração que já vinham auferindo, caso esta seja superior à estabelecida para a categoria em que se efectuar a respectiva integração.
+Art. 8.º - 1 - Os regentes escolares que se encontrem a prestar serviço nas DDE ao abrigo do disposto no artigo 16.º do [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, mantêm a situação que possuírem à data da entrada em vigor deste decreto-lei ou, se existir vaga, serão integrados como escriturários-dactilógrafos, continuando, porém, a ter direito à remuneração que já vinham auferindo, caso esta seja superior à estabelecida para a categoria em que se efectuar a respectiva integração.
 
 2 - A integração referida no número anterior só poderá ser efectuada após o termo da movimentação mencionada no artigo 5.º do presente diploma.
 
-###### Art. 9.º Manterá validade até ao limite de um ano após a publicação do presente decreto-lei o concurso de habilitações aberto para escriturários-dactilógrafos cujo aviso foi publicado no Diário da República, 2.ª série, n.º 167, de 19 de Junho de 1974, só havendo contudo lugar a admissões depois de concluídos os movimentos previstos neste diploma.
+Art. 9.º Manterá validade até ao limite de um ano após a publicação do presente decreto-lei o concurso de habilitações aberto para escriturários-dactilógrafos cujo aviso foi publicado no Diário da República, 2.ª série, n.º 167, de 19 de Junho de 1974, só havendo contudo lugar a admissões depois de concluídos os movimentos previstos neste diploma.
 
-###### Art. 10.º O recrutamento para lugares de pessoal auxiliar que ficarem vagos após a aplicação do disposto no artigo 5.º far-se-á, com as necessárias adaptações, nas condições estabelecidas para o pessoal auxiliar dos estabelecimentos oficiais dos ensinos básico e secundário.
+Art. 10.º O recrutamento para lugares de pessoal auxiliar que ficarem vagos após a aplicação do disposto no artigo 5.º far-se-á, com as necessárias adaptações, nas condições estabelecidas para o pessoal auxiliar dos estabelecimentos oficiais dos ensinos básico e secundário.
 
-###### Art. 11.º Os telefonistas serão substituídos, nas suas faltas ou impedimentos, por elementos de pessoal auxiliar, a designar pelo director de distrito escolar respectivo, de acordo com regras a estabelecer para o efeito pela Direcção-Geral de Pessoal.
+Art. 11.º Os telefonistas serão substituídos, nas suas faltas ou impedimentos, por elementos de pessoal auxiliar, a designar pelo director de distrito escolar respectivo, de acordo com regras a estabelecer para o efeito pela Direcção-Geral de Pessoal.
 
-###### Art. 12.º Compete à Direcção-Geral de Pessoal organizar e fomentar as acções de formação destinadas ao pessoal das DDE.
+Art. 12.º Compete à Direcção-Geral de Pessoal organizar e fomentar as acções de formação destinadas ao pessoal das DDE.
 
-###### Art. 13.º A remuneração e as condições de prestação de trabalho nocturno ou extraordinário do pessoal administrativo e auxiliar das DDE serão as constantes da lei geral aplicável à função pública.
+Art. 13.º A remuneração e as condições de prestação de trabalho nocturno ou extraordinário do pessoal administrativo e auxiliar das DDE serão as constantes da lei geral aplicável à função pública.
 
-###### Art. 14.º O acréscimo de cargos resultante da execução do presente diploma será suportado pelas dotações inscritas em «Remunerações certas e permanentes», no capítulo 06 do orçamento do Ministério da Educação e Investigação Científica.
+Art. 14.º O acréscimo de cargos resultante da execução do presente diploma será suportado pelas dotações inscritas em «Remunerações certas e permanentes», no capítulo 06 do orçamento do Ministério da Educação e Investigação Científica.
 
-###### Art. 15.º As atribuições e competência dos NAE serão definidas por portaria do Ministro da Educação e Investigação Científica.
+Art. 15.º As atribuições e competência dos NAE serão definidas por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 16.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Investigação Científica e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 16.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Investigação Científica e do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 17.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço.
+Art. 17.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
 Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro anexo 1 a que se refere o n.º 2 do artigo 1.º do Decreto-Lei n.º 370/79
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20600/22182221.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20600/22182221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20600/22182221.pdf)
 
-## Anexo 2 a que se refere o n.º 1 do artigo do Decreto-Lei n.º 370/79
+Anexo 2 a que se refere o n.º 1 do artigo do Decreto-Lei n.º 370/79
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20600/22182221.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20600/22182221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20600/22182221.pdf)

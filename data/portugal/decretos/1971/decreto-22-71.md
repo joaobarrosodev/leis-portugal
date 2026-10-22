@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1971-445939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bbcc4b1d28fff29bec69f1d4238c565f16daa246229d6814cf8543b82c74e5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb980cf9779195324928f94b26ff2a1bc7ed54290db0e79b5e68870cdeeb7c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:641773:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:38Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +98,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os direitos e mais imposições a cobrar nos despachos de exportação de café de Angola para o estrangeiro, nos casos de transacções a prazo, aceites e registadas pelo Instituto do Café da província, são os que vigorarem na data desse registo, de harmonia com as taxas e valores aduaneiros oficialmente fixados.
+Artigo 1.º - 1. Os direitos e mais imposições a cobrar nos despachos de exportação de café de Angola para o estrangeiro, nos casos de transacções a prazo, aceites e registadas pelo Instituto do Café da província, são os que vigorarem na data desse registo, de harmonia com as taxas e valores aduaneiros oficialmente fixados.
 
 2. O Instituto do Café de Angola comunicará às alfândegas da província, pela forma que o Governo-Geral difinir, os registos de venda de que trata o n.º 1, e bem assim as alterações que tenha autorizado e que não envolvam anulações dos registos e seus efeitos fiscais.
 
 3. O imposto de sobrevalorização continua a regulamentar-se pelas disposições do [Decreto n.º 39265](https://diariodarepublica.pt/dr/detalhe/decreto/39265-1953-641773), de 6 de Julho de 1953, salvo no que diz repeito ao depósito de contratos, previsto no § 2.º do artigo 9.º, que fica dispensado e substituído pela comunicação a que se refere o n.º 2.
 
-###### Art. 2.º - 1. O não cumprimento de um registo de venda sem justa causa será classificado e punido como delito de descaminho de direitos, nos termos do Contencioso Aduaneiro do Ultramar, no caso de ter havido dentro da vigência do registo exportação que se prove ter envolvido as pessoas por ele vinculadas ou interposta pessoa.
+Art. 2.º - 1. O não cumprimento de um registo de venda sem justa causa será classificado e punido como delito de descaminho de direitos, nos termos do Contencioso Aduaneiro do Ultramar, no caso de ter havido dentro da vigência do registo exportação que se prove ter envolvido as pessoas por ele vinculadas ou interposta pessoa.
 
 2. Não tendo havido exportação, o registo de venda presume-se simulado e a sua falta de cumprimento dará lugar a procedimento para os efeitos do artigo 455.º do Código Penal.
 
@@ -108,14 +112,14 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Para apreciação da justa causa, a que se refere o n.º 1, será ouvido o Conselho Geral do Instituto do Café.
 
-###### Art. 3.º (transitório). O regime deste diploma é extensivo a todas as transacções de café efectuadas anteriormente e ainda não cumpridas com o embarque da mercadoria, desde que assim seja requerido no prazo de noventa dias, a contar da entrada em vigor deste diploma, e o Instituto do Café tenha aceitado e registado essas transacções.
+Art. 3.º (transitório). O regime deste diploma é extensivo a todas as transacções de café efectuadas anteriormente e ainda não cumpridas com o embarque da mercadoria, desde que assim seja requerido no prazo de noventa dias, a contar da entrada em vigor deste diploma, e o Instituto do Café tenha aceitado e registado essas transacções.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Janeiro de 1971.**
+Promulgado em 20 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no «Boletim Oficial» de Angola. - J. da Silva Cunha.

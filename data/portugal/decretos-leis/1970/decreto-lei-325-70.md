@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1970-140307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e54fb6c3e20b2c59a0ad78da00bf061b270d715922bd062bbfc8121fde6620a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f850894e0fed62a5dcb742cc306c9ad37ec6ebd9e9de421a9f062973f7efdefe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditoria Administrativa
+- Custas Judiciais
+- Imposto de Justiça
+- Imposto do SELO
+- Supremo Tribunal Administrativo
+relationships:
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590726:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:18Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +102,14 @@ Considerando que, desse modo, além da simplificação obtida na contagem dos pr
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei o seguinte:
 
-###### Artigo único. O corpo do artigo 15.º da tabela das custas no Supremo Tribunal Administrativo e nas auditorias administrativas, aprovada pelo [Decreto-Lei n.º 42150](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42150-1959-590726), de 12 de Setembro de 1959, passa a ter a seguinte redacção:
+Artigo único. O corpo do artigo 15.º da tabela das custas no Supremo Tribunal Administrativo e nas auditorias administrativas, aprovada pelo [Decreto-Lei n.º 42150](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42150-1959-590726), de 12 de Setembro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 15.º O imposto do selo devido nos processos será determinado pelas disposições do Código das Custas Judiciais e legislação complementar, aplicáveis aos tribunais superiores, apurando-se o seu quantitativo em função do imposto de justiça.
+Art. 15.º O imposto do selo devido nos processos será determinado pelas disposições do Código das Custas Judiciais e legislação complementar, aplicáveis aos tribunais superiores, apurando-se o seu quantitativo em função do imposto de justiça.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 1 de Julho de 1970.**
+Promulgado em 1 de Julho de 1970.
 
-**Publique-se**
+Publique-se
 
 Presidência da República, 13 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -48,36 +48,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/60-1984-399861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c985acaea2590accac54d66a5a5b4f9158f28e7d7e8eefd24f5ea72ab9254e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26a34620147e015cc324192a725e3b2ca578e160d5a41ce3a629a6f6cd3cb4cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Relações Consulares
 relationships: []
 article_structure:
-  article_count: 73
+  article_count: 72
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:26Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +91,19 @@ de 3 de Outubro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados para ratificação a Convenção Europeia sobre Funções Consulares, incluindo os respectivos anexos I e II, o Protocolo à Convenção Europeia sobre Funções Consulares Relativo à Protecção de Refugiados e o Protocolo à Convenção Europeia sobre Funções Consulares Relativo às Funções Consulares em Matéria de Aeronáutica Civil, abertos à assinatura em Paris a 11 de Dezembro de 1967, cujos textos originais em francês, acompanhados da respectiva tradução em português, seguem em anexo ao presente decreto.
+Artigo único. São aprovados para ratificação a Convenção Europeia sobre Funções Consulares, incluindo os respectivos anexos I e II, o Protocolo à Convenção Europeia sobre Funções Consulares Relativo à Protecção de Refugiados e o Protocolo à Convenção Europeia sobre Funções Consulares Relativo às Funções Consulares em Matéria de Aeronáutica Civil, abertos à assinatura em Paris a 11 de Dezembro de 1967, cujos textos originais em francês, acompanhados da respectiva tradução em português, seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Rui Manuel Parente Chancerelle de Machete.
 
-**Assinado em 14 de Setembro de 1984.**
+Assinado em 14 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Setembro de 1984.**
+Referendado em 17 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENTION EUROPÉENNE SUR LES FONCTIONS CONSULAIRES AVEC LE PROTOCOLE RELATIF À LA PROTECTION DES RÉFUGIÉS ET LE PROTOCOLE RELATIF AUX FONCTIONS CONSULAIRES EN MATIÈRE D'AVIATION CIVILE.
 
@@ -1248,7 +1251,7 @@ O Comité de Ministros do Conselho da Europa poderá estabelecer normas processu
 
 ###### Artigo 57.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e quaisquer outros Estados que tenham aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e quaisquer outros Estados que tenham aderido à presente Convenção:
 
 a) Das assinaturas;
 
@@ -1350,7 +1353,7 @@ Nenhuma reserva poderá ser feita a respeito do presente Protocolo. Não obstant
 
 ###### Artigo 8.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e quaisquer outros Estados que tenham aderido ao presente Protocolo:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e quaisquer outros Estados que tenham aderido ao presente Protocolo:
 
 a) Das assinaturas;
 
@@ -1424,7 +1427,7 @@ Nenhuma reserva poderá ser feita a respeito do presente Protocolo. Não obstant
 
 ###### Artigo 7.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e quaisquer outros Estados que tenham aderido ao presente Protocolo:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e quaisquer outros Estados que tenham aderido ao presente Protocolo:
 
 a) Das assinaturas;
 

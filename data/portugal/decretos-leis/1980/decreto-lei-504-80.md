@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24300/34993501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1980-462420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffe46e9e0b121abd2f18788b28274de7c2012b1d47c3726d24e8f34ad1463f55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16a566f2ba864b0536a1ff7f6940b781a3fa15f18bae0d1f983055ada732eea9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Controlo de Qualidade
+- Definição de Competências
+- Direcção Geral da Administração das Pescas
+- Fiscalização
+- Licenciamento
+- Multa
+- Planta Marinha
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:143527213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:427382:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:143527213:por
+  label: Revogado a partir de 01.01.2021 pelo(a) Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2020-143527213
+  date: '2020-09-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:51Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +114,7 @@ Nesta ordem de ideias, entendeu-se por conveniente, tanto a nível dos serviços
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Compete ao Ministério da Agricultura e Pescas, através da Direcção-Geral da Administração das Pescas (DGAP):
+Artigo 1.º - 1 - Compete ao Ministério da Agricultura e Pescas, através da Direcção-Geral da Administração das Pescas (DGAP):
 
 a) Promover as condições necessárias à racional exploração dos recursos algológicos industrializáveis e manter programas de contrôle do estado desses recursos;
 
@@ -122,15 +140,15 @@ c) Quantidades vendidas, com indicação do respectivo preço.
 
 6 - Independentemente do disposto nos n.os 3 e 5 do presente artigo, poderá a DGAP proceder à verificação das existências nos armazéns dos industriais e exportadores, sempre que o julgue conveniente.
 
-###### Art. 2.º - 1 - Os períodos de apanha das diferentes espécies de plantas marinhas fixas serão estabelecidos pela DGAP com fundamento em estudos adequados e tendo ainda em atenção a protecção dos recursos naturais.
+Art. 2.º - 1 - Os períodos de apanha das diferentes espécies de plantas marinhas fixas serão estabelecidos pela DGAP com fundamento em estudos adequados e tendo ainda em atenção a protecção dos recursos naturais.
 
 2 - Os períodos de apanha serão tornados públicos, em cada ano, por meio de editais mandados afixar pela DGAP nas suas delegações e noutros locais habituais.
 
-###### Art. 3.º As plantas marinhas flutuantes e as naturalmente arrancadas do substrato, arrojadas à costa, poderão ser apanhadas durante todo o ano.
+Art. 3.º As plantas marinhas flutuantes e as naturalmente arrancadas do substrato, arrojadas à costa, poderão ser apanhadas durante todo o ano.
 
-###### Art. 4.º Sempre que razões de conservação e protecção o imponham, fica a DGAP autorizada a interditar a apanha em determinadas zonas, mesmo durante o período legal da safra, ou ainda a estabelecer quotas de apanha em cada uma das zonas referidas no artigo seguinte.
+Art. 4.º Sempre que razões de conservação e protecção o imponham, fica a DGAP autorizada a interditar a apanha em determinadas zonas, mesmo durante o período legal da safra, ou ainda a estabelecer quotas de apanha em cada uma das zonas referidas no artigo seguinte.
 
-###### Art. 5.º As zonas de apanha de plantas marinhas, no continente, são as seguintes:
+Art. 5.º As zonas de apanha de plantas marinhas, no continente, são as seguintes:
 
 Zona 1 - Desde Caminha até à Estela;
 
@@ -144,29 +162,29 @@ Zona 5 - Desde o cabo da Roca até ao cabo de Sines;
 
 Zona 6 - Desde o cabo de Sines até à foz do rio Guadiana.
 
-###### Art. 6.º O número de apanhadores-mergulhadores, assim como o número de barcos autorizados em cada zona de apanha, será anualmente fixado por despacho do Ministro da Agricultura e Pescas, sob proposta da DGAP.
+Art. 6.º O número de apanhadores-mergulhadores, assim como o número de barcos autorizados em cada zona de apanha, será anualmente fixado por despacho do Ministro da Agricultura e Pescas, sob proposta da DGAP.
 
-###### Art. 7.º Os aparelhos e métodos utilizáveis na apanha de plantas marinhas serão definidos, a nível regional ou por zonas de apanha, por portaria do Ministro da Agricultura e Pescas.
+Art. 7.º Os aparelhos e métodos utilizáveis na apanha de plantas marinhas serão definidos, a nível regional ou por zonas de apanha, por portaria do Ministro da Agricultura e Pescas.
 
-###### Art. 8.º Os preços de compra aos apanhadores e os de venda à indústria e aos exportadores, para as diferentes espécies de plantas marinhas industrializáveis, serão fixados, para cada safra, por portaria dos Ministros da Agricultura e Pescas e do Comércio e Turismo, com base em elementos fornecidos pela DGAP.
+Art. 8.º Os preços de compra aos apanhadores e os de venda à indústria e aos exportadores, para as diferentes espécies de plantas marinhas industrializáveis, serão fixados, para cada safra, por portaria dos Ministros da Agricultura e Pescas e do Comércio e Turismo, com base em elementos fornecidos pela DGAP.
 
-###### Art. 9.º A classificação e contrôle de qualidade das plantas marinhas industrializáveis, quer de origem nacional, quer importadas, serão da competência da DGAP.
+Art. 9.º A classificação e contrôle de qualidade das plantas marinhas industrializáveis, quer de origem nacional, quer importadas, serão da competência da DGAP.
 
-###### Art. 10.º - 1 - Antes de cada safra, os industriais acordarão entre si as quotas de distribuição das plantas marinhas, devendo comunicá-las à DGAP com a antecedência mínima de um mês em relação ao início da safra.
+Art. 10.º - 1 - Antes de cada safra, os industriais acordarão entre si as quotas de distribuição das plantas marinhas, devendo comunicá-las à DGAP com a antecedência mínima de um mês em relação ao início da safra.
 
 2 - Na falta de acordo ou da comunicação referida no número anterior, serão as quotas de distribuição fixadas por despacho conjunto dos Ministros da Indústria e Energia e da Agricultura e Pescas, se assim for julgado conveniente.
 
-###### Art. 11.º A DGAP emitirá obrigatoriamente parecer acerca dos pedidos de licenciamento da importação ou exportação de plantas marinhas.
+Art. 11.º A DGAP emitirá obrigatoriamente parecer acerca dos pedidos de licenciamento da importação ou exportação de plantas marinhas.
 
-###### Art. 12.º - 1 - Em cada safra, os exportadores acordarão entre si as quotas de distribuição das plantas marinhas, devendo comunicá-las à DGAP no prazo máximo de trinta dias a contar do início da respectiva safra.
+Art. 12.º - 1 - Em cada safra, os exportadores acordarão entre si as quotas de distribuição das plantas marinhas, devendo comunicá-las à DGAP no prazo máximo de trinta dias a contar do início da respectiva safra.
 
 2 - Na falta de acordo ou da comunicação referida no número anterior, serão as quotas de distribuição fixadas por despacho conjunto dos Ministros do Comércio e Turismo e da Agricultura e Pescas, se assim for julgado conveniente.
 
-###### Art. 13.º A expedição de plantas marinhas para exportação depende de prévia inspecção da DGAP, devendo, para tal efeito, após a verificação aduaneira, os diferentes volumes da mercadoria a embarcar ser vistoriados e devidamente selados, por um funcionário daquela Direcção-Geral, antes da saída do armazém.
+Art. 13.º A expedição de plantas marinhas para exportação depende de prévia inspecção da DGAP, devendo, para tal efeito, após a verificação aduaneira, os diferentes volumes da mercadoria a embarcar ser vistoriados e devidamente selados, por um funcionário daquela Direcção-Geral, antes da saída do armazém.
 
-###### Art. 14.º Os apanhadores de plantas marinhas industrializáveis deverão entregar todo o produto da sua actividade nos diversos postos de compra dos concentradores da zona respectiva.
+Art. 14.º Os apanhadores de plantas marinhas industrializáveis deverão entregar todo o produto da sua actividade nos diversos postos de compra dos concentradores da zona respectiva.
 
-###### Art. 15.º - 1 - Para o exercício da sua actividade, todos os apanhadores de plantas marinhas terão de se munir da respectiva licença anual, a emitir pela DGAP.
+Art. 15.º - 1 - Para o exercício da sua actividade, todos os apanhadores de plantas marinhas terão de se munir da respectiva licença anual, a emitir pela DGAP.
 
 2 - Os apanhadores-mergulhadores, independentemente da licença referida no número anterior, deverão possuir ainda os documentos a seguir discriminados:
 
@@ -174,9 +192,9 @@ a) Carta de mergulho passada pela entidade oficial competente;
 
 b) Documento comprovativo da sujeição ao exame médico especializado, para apuramento da sua aptidão física para o exercício desta profissão, sendo obrigatório esses exames médicos pelo menos no início da safra anual.
 
-###### Art. 16.º As taxas das licenças para a apanha de plantas marinhas, assim como para a utilização das embarcações e outros meios auxiliares nesta actividade, serão as constantes do mapa anexo a este diploma.
+Art. 16.º As taxas das licenças para a apanha de plantas marinhas, assim como para a utilização das embarcações e outros meios auxiliares nesta actividade, serão as constantes do mapa anexo a este diploma.
 
-###### Art. 17.º - 1 - As infracções ao disposto nos artigos 2.º e 6.º serão punidas com multa de 500$00 a 10000$00, à qual acresce a apreensão e perda, a favor do Estado, das plantas marinhas apanhadas.
+Art. 17.º - 1 - As infracções ao disposto nos artigos 2.º e 6.º serão punidas com multa de 500$00 a 10000$00, à qual acresce a apreensão e perda, a favor do Estado, das plantas marinhas apanhadas.
 
 2 - Em caso de reincidência, à punição prevista no número anterior acresce a apreensão da carta de mergulho por um período de seis meses a três anos.
 
@@ -192,23 +210,23 @@ c) 500$00 a 5000$00, por falta de exames médicos (provas documentais).
 
 5 - A aquisição pelos industriais ou exportadores de plantas marinhas a pessoas singulares ou colectivas que não preencham as condições definidas na portaria a que se refere o n.º 2 do artigo 1.º, bem como a aquisição de plantas marinhas acima dos preços estabelecidos e ou ultrapassando a respectiva quota, será punida com multa de valor igual ao da venda, à indústria ou aos exportadores, do lote em questão, à qual acresce a sua apreensão e perda a favor do Estado.
 
-###### Art. 18.º - 1 - A fiscalização do disposto no presente diploma compete à DGAP, às autoridades marítimas e à Direcção-Geral de Fiscalização Económica.
+Art. 18.º - 1 - A fiscalização do disposto no presente diploma compete à DGAP, às autoridades marítimas e à Direcção-Geral de Fiscalização Económica.
 
 2 - A fiscalização do disposto no n.º 5 do artigo anterior, assim como a instrução dos respectivos processos, compete especialmente à Direcção-Geral de Fiscalização Económica.
 
-###### Art. 19.º As importâncias provenientes das licenças e multas referidas nos artigos 16.º e 17.º constituem receita do Estado, devendo proceder-se à sua entrega nos cofres do Tesouro, em conformidade com as disposições gerais aplicáveis.
+Art. 19.º As importâncias provenientes das licenças e multas referidas nos artigos 16.º e 17.º constituem receita do Estado, devendo proceder-se à sua entrega nos cofres do Tesouro, em conformidade com as disposições gerais aplicáveis.
 
-###### Art. 20.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas ou do Comércio e Turismo, de acordo com o respectivo âmbito de competência.
+Art. 20.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas ou do Comércio e Turismo, de acordo com o respectivo âmbito de competência.
 
-###### Art. 21.º Este diploma aplica-se apenas no continente e revoga o [Decreto-Lei n.º 443/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1976-427382), de 4 de Julho.
+Art. 21.º Este diploma aplica-se apenas no continente e revoga o [Decreto-Lei n.º 443/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1976-427382), de 4 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 3 de Outubro de 1980.**
+Promulgado em 3 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo ao Decreto-Lei n.º 504/80
 

@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/25-1985-183442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c06a918f558a12e03760b00b3ca1cc942ee14de3bcb9ded0e5371d24a4ff537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4e435af393c9506396593c9eb9d1f4e08e69e6a402826b6528f4cadc6c6d498
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Congo-kinshasa
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Cooperação Económica
+- Cooperação Técnica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:07Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +93,19 @@ de 16 de Julho
 
 O Governo decreta, nos termos do n.º 1, alínea c), e do n.º 2 do artigo 200.º da Constituição, o seguinte.
 
-###### Artigo 1.º É aprovada a Convenção Geral de Cooperação entre a República Portuguesa e a República do Zaire, nos termos constantes dos textos que se publicam em anexo, em língua portuguesa e em língua francesa, fazendo ambos fé.
+Artigo 1.º É aprovada a Convenção Geral de Cooperação entre a República Portuguesa e a República do Zaire, nos termos constantes dos textos que se publicam em anexo, em língua portuguesa e em língua francesa, fazendo ambos fé.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama.
 
-**Assinado em 3 de Julho de 1985.**
+Assinado em 3 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Julho de 1985.**
+Referendado em 5 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Convenção Geral de Cooperação entre a República Portuguesa o a República de Zaire
 
@@ -150,7 +157,7 @@ Feita em Lisboa aos 16 de Dezembro de 1983, em dois originais em línguas portug
 
 Pelo Governo da República Portuguesa:
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.
 
 Pelo Conselho Executivo da República do Zaire:
 

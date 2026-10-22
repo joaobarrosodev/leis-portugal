@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14700/07490749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1974-476132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18f83926b82277d6bc8014309d9a1bb02be53e6131577b597f6e30a5dd974b0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4921abe4acc01e749bfa8dbc3505d44f63cd59c5088107afa837930ac35122c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Coordenadora
+- Comissão Coordenadora da Apreciação da Prática Urbanística
+- Criação de Serviços
+- Ministério da Administração Interna
+- Ministério do Equipamento Social e Ambiente
+- Ministério do Equipamento Social e do Ambiente
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502821:por
+  label: Determinada a transição, para a dependência dos Ministérios da Administração Interna e da Habitação, Urbanismo e
+    Construção, da Comissão Coordenadora de Apreciação da Prática Urbanística (CCAPU) pelo(a) Despacho Ministerial - Diário
+    do Governo n.º 82/1976, Série I de 1976-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-ministerial/1976-502821
+  date: '1976-04-06'
+- type: amended_by
+  target: pt:dre:389422:por
+  label: "Extinta a Comissão Coordenadora da Apreciação da Prática Urbanística pelo DEC LEI.53/81.27.03.1981.PCM, DR.IS [72]\
+    \ de 27.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1981-389422
+  date: '1981-03-27'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:08Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +125,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada junto dos Ministérios da Administração Interna e do Equipamento Social e do Ambiente uma comissão permanente para apreciar a prática urbanística dos corpos administrativos locais e centrais.
+Artigo 1.º - 1. É criada junto dos Ministérios da Administração Interna e do Equipamento Social e do Ambiente uma comissão permanente para apreciar a prática urbanística dos corpos administrativos locais e centrais.
 
 2. Esta comissão será designada no presente diploma por Comissão Coordenadora.
 
@@ -107,11 +133,11 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. As subcomissões receberão directrizes e orientações da Comissão Coordenadora, à qual apresentarão um relatório circunstanciado da sua actividade, dentro do prazo que por aquela for fixado.
 
-###### Art. 2.º - 1. Sempre que a Comissão ou qualquer subcomissão o julgar conveniente, designadamente por suspeitar da existência de irregularidades, poderá ordenar a realização de sindicâncias ou peritagens ou a instauração de processos de inquérito, proporcionando audiência por escrito aos presumíveis responsáveis.
+Art. 2.º - 1. Sempre que a Comissão ou qualquer subcomissão o julgar conveniente, designadamente por suspeitar da existência de irregularidades, poderá ordenar a realização de sindicâncias ou peritagens ou a instauração de processos de inquérito, proporcionando audiência por escrito aos presumíveis responsáveis.
 
 2. Consideram-se desde já sujeitos a sindicância na matéria definida neste decreto-lei a Direcção-Geral dos Serviços de Urbanização e as Câmaras Municipais de Lisboa, Cascais, Sintra, Oeiras, Loures, Almada, Sesimbra, Setúbal e Faro.
 
-###### Art. 3.º - 1. A Comissão Coordenadora será constituída por:
+Art. 3.º - 1. A Comissão Coordenadora será constituída por:
 
 a) Dois vogais designados pelo Ministro da Administração Interna;
 
@@ -131,20 +157,20 @@ c) Um vogal designado pelos organismos sindicais interessados referidos no núme
 
 3. A Comissão Coordenadora e cada uma das subcomissões terão um presidente, designado pelo Ministro da Administração Interna, ouvido o Ministro do Equipamento Social e do Ambiente, de entre os seus membros.
 
-###### Art. 4.º - 1. As subcomissões poderão recorrer aos serviços de pessoal especializado do corpo administrativo em que estiverem a actuar e dos Ministérios da Administração Interna e do Equipamento Social e do Ambiente.
+Art. 4.º - 1. As subcomissões poderão recorrer aos serviços de pessoal especializado do corpo administrativo em que estiverem a actuar e dos Ministérios da Administração Interna e do Equipamento Social e do Ambiente.
 
 2. A Comissão Coordenadora e as subcomissões poderão agregar a si assessores técnicos.
 
-###### Art. 5.º - 1. Sempre que for instaurado um processo de inquérito nos termos do disposto no artigo 2.º, poderá o Ministro competente, por proposta da Comissão Coordenadora, mandar suspender preventivamente do exercício das suas funções os presumíveis responsáveis.
+Art. 5.º - 1. Sempre que for instaurado um processo de inquérito nos termos do disposto no artigo 2.º, poderá o Ministro competente, por proposta da Comissão Coordenadora, mandar suspender preventivamente do exercício das suas funções os presumíveis responsáveis.
 
 2. Quando no processo de inquérito se apure a existência de irregularidades cometidas por algum dos membros dos corpos administrativos ou funcionários públicos ou administrativos, a Comissão Coordenadora enviará ao Ministro competente o referido processo de inquérito, para os devidos efeitos legais.
 
-###### Art. 6.º Este decreto-lei entra imediatamente em vigor.
+Art. 6.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Joaquim Jorge Magalhães Mota - Manuel Rocha.
 
-**Promulgado em 19 de Junho de 1974.**
+Promulgado em 19 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

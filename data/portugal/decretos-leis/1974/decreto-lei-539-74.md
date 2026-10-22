@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 238/1974, 1º Suplemento, Série I de 1974-10-12
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1214-(2) a 1214-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23801/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,160 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 098c8d8f44963055e5d803e377255960f3e0b4928ac0575c8e2b5d2fd6c6c730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e76668a6df42aa2253fa4c0a47b702185a1926c05e9cdf6bffa0cd8d021b1459
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Coordenação Económica
+- Criação de Serviços
+- Direcção Geral do Comércio
+- Extinção de Serviços
+- Gabinete de Planeamento
+- Junta de Colonização Interna
+- Ministério da Economia
+- Orgânica
+- Secretaria de Estado da Agricultura
+- Secretaria de Estado da Indústria e Energia
+- Secretaria de Estado das Pescas
+- Secretaria de Estado do Abastecimento e Preços
+- Secretaria de Estado do Comércio
+- Secretaria de Estado do Comércio Externo e Turismo
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472173:por
+  label: "Transferidas para a Direcção-Geral da Administração-Geral das Pescas, no âmbito da Secretaria de Estado das Pescas\
+    \ (prevista na al. d) do art. 19º do presente diploma) as competências dos extintos serviços da Junta Central das Casas\
+    \ dos Pescadores (escolas de pesca, do serviço de lotas e vendagem de peixe, do serviço de apanha e concentração de plantas\
+    \ marinhas e respectivos serviços anexos) pelo DEC.552/74.24.10.1974.MECO, DG.IS [248] de 24.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/552-1974-472173
+  date: '1974-10-24'
+- type: amended_by
+  target: pt:dre:336088:por
+  label: "Desanexadas, ao abrigo do Dec Lei 482/74, de 25 Set, das Federações dos Grémios da Lavoura de Portalegre, Évora\
+    \ e Baixo Alentejo reguladas pelo Dec Lei 36611, de 19-Dez de 1947, as Fábricas de Extracção e Refinação de Óleos Vegetais\
+    \ e de Rações e Baterias de Silos e transferido todo o património respeitante àquelas unidades fabris para o Instituto\
+    \ de Reorganização Agrária criado pelo presente diploma, pelo DN.DD29.22.05.1975.MPLCE, DG.IS [118] de 22.05.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1975-336088
+  date: '1975-05-22'
+- type: amended_by
+  target: pt:dre:335730:por
+  label: Determinado que o serviço de lotas e vendagem de peixe, que dependia da Junta Central das Casas dos Pescadores e
+    dos antigos Grémios dos Armadores da Pesca da Sardinha e do Arrasto fique na dependência administrativa e sob o contrôle
+    do serviço responsável da Direcção-Geral do Planeamento e Fomento das Pescas da Secretaria de Estado das Pescas, pelo(a)
+    Despacho - Diário do Governo n.º 138/1975, Série I de 1975-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1975-335730
+  date: '1975-06-18'
+- type: amended_by
+  target: pt:dre:348295:por
+  label: "Transferido o património do extinto Serviço de Campanha de Fomento Pecuário (criado do Dec Lei 44219 de 26-Jun de\
+    \ 1962) para a Direcção-Geral dos Serviços Pecuários, no âmbito da Secretaria de Estado da Agricultura, prevista na al.\
+    \ d) do art. 7º do presente diploma, pelo DEC LEI.737-A/75.23.12.1975.MF, DG.IS [295-2ºSupl] de 23.12.1975\075\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/737-a-1975-348295
+  date: '1975-12-23'
+- type: amended_by
+  target: pt:dre:140520:por
+  label: Determinada a prorrogação até 31.03.1977 do prazo durante o qual será mantido o mesmo regime administrativo que tem
+    permitido ao INIA, a realização das despesas em conta das dotações que lhe estão atribuídas no Orçamento Geral do Estado
+    para o ano económico de 1977 pelo(a) Despacho Normativo n.º 53/77 - Diário da República n.º 52/1977, Série I de 1977-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-1977-140520
+  date: '1977-03-03'
+- type: amended_by
+  target: pt:dre:252872:por
+  label: "Transitado, para Ministério da Agricultura e Pescas, o Instituto de Reorganização Agrária, a Junta de Hidráulica\
+    \ Agrícola, a Direcção-Geral dos Serviços Agrícolas, a Direcção-Geral dos Serviços Pecuários, a Direcção-Geral dos Recursos\
+    \ Florestais, a Direcção-Geral do Planeamento e Fomento das Pescas, a Direcção-Geral da Administração-Geral das Pescas,\
+    \ a Direcção-Geral da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático, o Gabinete de Coordenação das\
+    \ Pescas e o Fundo de Fomento Florestal, pelo DEC LEI.221/77.28.05.1977.MAP, DR.IS [124] de 28.05.1977\077"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-1977-252872
+  date: '1977-05-28'
+- type: amended_by
+  target: pt:dre:278479:por
+  label: "Extinta a Secretaria-Geral do ex-Ministério da Economia, constante do presente diploma, pelo DEC LEI.411/77.28.09.1977.MPCE,\
+    \ DR.IS [225] de 28.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1977-278479
+  date: '1977-09-28'
+- type: amended_by
+  target: pt:dre:471113:por
+  label: "Extinta a Repartição da Propriedade Industrial, criada pelo Decreto n.º 7036, de 17 de Outubro de 1920, alterado\
+    \ pelo presente diploma, pelo DR.37/80.19.08.1980.MCT, DR.IS [190] de 19.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/37-1980-471113
+  date: '1980-08-19'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197077:por
+  label: "Revogado o § 1º do art. 8º pelo DEC LEI.498-A/79.21.12.1979.PCM, DR.IS [293-Supl] de 21.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-a-1979-197077
+  date: '1979-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:48Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +230,7 @@ I
 
 Orgânica geral do Ministério da Economia
 
-###### Artigo 1.º O Ministério da Economia, a que se refere o artigo 4.º do [Decreto-Lei n.º 338/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1974-621371), de 18 de Julho, compreende as seguintes Secretarias de Estado:
+Artigo 1.º O Ministério da Economia, a que se refere o artigo 4.º do [Decreto-Lei n.º 338/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1974-621371), de 18 de Julho, compreende as seguintes Secretarias de Estado:
 
 a) Da Agricultura;
 
@@ -122,7 +242,7 @@ d) Do Abastecimento e Preços;
 
 e) Das Pescas.
 
-###### Art. 2.º Ficam directamente dependentes do Ministro da Economia:
+Art. 2.º Ficam directamente dependentes do Ministro da Economia:
 
 a) O Gabinete do Ministro;
 
@@ -132,11 +252,11 @@ c) A Comissão Interministerial de Cooperação Económica Externa;
 
 d) A Secretaria-Geral.
 
-###### Art. 3.º - 1. O Conselho Superior de Economia será presidido pelo Ministro da Economia.
+Art. 3.º - 1. O Conselho Superior de Economia será presidido pelo Ministro da Economia.
 
 2. Os Secretários de Estado terão assento no Conselho, podendo o Ministro da Economia delegar em qualquer deles a respectiva presidência.
 
-###### Art. 4.º - 1. São membros efectivos do Conselho:
+Art. 4.º - 1. São membros efectivos do Conselho:
 
 a) O vice-presidente;
 
@@ -150,7 +270,7 @@ d) Seis vogais, nomeados pelo Ministro da Ecomia, por períodos renováveis de t
 
 3. Enquanto não for reorganizado, o Conselho Superior de Economia continua a reger-se pelo disposto no [Decreto-Lei n.º 403/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1973-419195), de 11 de Agosto, na parte não alterada por este diploma e outros entretanto publicados.
 
-###### Art. 5.º - 1. A Secretaria-Geral compreenderá os serviços de interesse comum a todo o Ministério, designadamente, os seguintes:
+Art. 5.º - 1. A Secretaria-Geral compreenderá os serviços de interesse comum a todo o Ministério, designadamente, os seguintes:
 
 a) Contencioso;
 
@@ -166,13 +286,13 @@ f) Secretariado.
 
 2. As atribuições, organização e funcionamento da Secretaria-Geral, bem como o seu quadro de pessoal e formas de provimento, constarão de diploma referendado pelos Ministros das Finanças e da Economia.
 
-###### Art. 6.º O Ministro da Economia poderá delegar no Secretário de Estado do Comércio Externo e Turismo a competência para o despacho corrente da Comissão Interministerial de Cooperação Económica Externa.
+Art. 6.º O Ministro da Economia poderá delegar no Secretário de Estado do Comércio Externo e Turismo a competência para o despacho corrente da Comissão Interministerial de Cooperação Económica Externa.
 
 II
 
 Órgãos da Secretaria de Estado da Agricultura
 
-###### Art. 7.º A Secretaria de Estado da Agricultura compreende:
+Art. 7.º A Secretaria de Estado da Agricultura compreende:
 
 a) O Gabinete do Secretário de Estado;
 
@@ -188,11 +308,11 @@ f) A Junta de Hidráulica Agrícola;
 
 g) O Fundo de Fomento Florestal.
 
-###### Art. 8.º - 1. Na Secretaria de Estado da Agricultura é criado o Instituto de Reorganização Agrária, que integra a Junta de Colonização Interna.
+Art. 8.º - 1. Na Secretaria de Estado da Agricultura é criado o Instituto de Reorganização Agrária, que integra a Junta de Colonização Interna.
 
 2. As atribuições, organização e funcionamento do Instituto de Reorganização Agrária, bem como o seu quadro de pessoal e formas de provimento, constarão de diploma referendado pelos Ministros das Finanças e da Economia, continuando em vigor até à publicação deste diploma as disposições que respeitam à Junta de Colonização Interna.
 
-###### Art. 9.º - 1. Na Secretaria de Estado da Agricultura é criado o Instituto Nacional de Investigação Agrária, que compreenderá todos os serviços de investigação ligados ao sector agrícola, ainda que dependam de outros departamentos da Secretaria de Estado.
+Art. 9.º - 1. Na Secretaria de Estado da Agricultura é criado o Instituto Nacional de Investigação Agrária, que compreenderá todos os serviços de investigação ligados ao sector agrícola, ainda que dependam de outros departamentos da Secretaria de Estado.
 
 2. As atribuições, organização e funcionamento do Instituto Nacional de Investigação Agrária, bem como o seu quadro de pessoal e formas de provimento, constarão de diploma referendado pelos Ministros das Finanças e da Economia.
 
@@ -200,7 +320,7 @@ III
 
 Órgãos da Secretaria de Estado da Indústria e Energia
 
-###### Art. 10.º - 1. A Secretaria de Estado da Indústria e Energia compreende:
+Art. 10.º - 1. A Secretaria de Estado da Indústria e Energia compreende:
 
 a) O Gabinete do Secretário de Estado;
 
@@ -230,13 +350,13 @@ n) A Junta de Energia Nuclear.
 
 2. A orgânica referida neste artigo será posta em execução nos termos previstos no [Decreto-Lei n.º 632/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1973-411991), de 28 de Novembro.
 
-###### Art. 11.º A Junta de Energia Nuclear, integrada na Secretaria de Estado da Indústria e Energia, será reorganizada com vista a esta integração, continuando a reger-se pelos preceitos aplicáveis enquanto não for publicado o diploma competente.
+Art. 11.º A Junta de Energia Nuclear, integrada na Secretaria de Estado da Indústria e Energia, será reorganizada com vista a esta integração, continuando a reger-se pelos preceitos aplicáveis enquanto não for publicado o diploma competente.
 
 IV
 
 Órgãos da Secretaria de Estado do Comércio Externo e Turismo
 
-###### Art. 12.º A Secretaria de Estado do Comércio Externo e Turismo compreende:
+Art. 12.º A Secretaria de Estado do Comércio Externo e Turismo compreende:
 
 a) O Gabinete do Secretário de Estado;
 
@@ -254,11 +374,11 @@ g) O Centro Nacional de Formação Turística e Hoteleira;
 
 h) O Conselho de Inspecção de Jogos.
 
-###### Art. 13.º - 1. É criada, na Secretaria de Estado do Comércio Externo e Turismo, a Direcção-Geral do Comércio Externo, que compreenderá os serviços anteriormente integrados no Gabinete de Planeamento, na Comissão de Coordenação Económica e na Repartição do Comércio Externo da Direcção-Geral do Comércio, da antiga Secretaria de Estado do Comércio.
+Art. 13.º - 1. É criada, na Secretaria de Estado do Comércio Externo e Turismo, a Direcção-Geral do Comércio Externo, que compreenderá os serviços anteriormente integrados no Gabinete de Planeamento, na Comissão de Coordenação Económica e na Repartição do Comércio Externo da Direcção-Geral do Comércio, da antiga Secretaria de Estado do Comércio.
 
 2. As atribuições, organização e funcionamento da Direcção-Geral do Comércio Externo, bem como o seu quadro de pessoal e formas de provimento, constarão de diploma referendado pelos Ministros das Finanças e da Economia.
 
-###### Art. 14.º - 1. Ficam subordinados à Secretaria de Estado do Comércio Externo e Turismo, no que respeita ao exercício da competência relacionada com o comércio externo dos produtos sujeitos à sua disciplina, os seguintes organismos de coordenação económica:
+Art. 14.º - 1. Ficam subordinados à Secretaria de Estado do Comércio Externo e Turismo, no que respeita ao exercício da competência relacionada com o comércio externo dos produtos sujeitos à sua disciplina, os seguintes organismos de coordenação económica:
 
 a) O Instituto do Vinho do Porto;
 
@@ -280,7 +400,7 @@ V
 
 Órgãos da Secretaria de Estado do Abastecimento e Preços
 
-###### Art. 15.º - 1. A Secretaria de Estado do Abastecimento e Preços compreende:
+Art. 15.º - 1. A Secretaria de Estado do Abastecimento e Preços compreende:
 
 a) O Gabinete do Secretário de Estado;
 
@@ -294,11 +414,11 @@ e) A Direcção-Geral da Fiscalização Económica.
 
 2. As atribuições, organização e funcionamento do Gabinete de Planeamento, bem como o seu quadro de pessoal e formas de provimento, constarão de diploma referendado pelos Ministros das Finanças e da Economia.
 
-###### Art. 16.º - 1. À Direcção-Geral de Preços e à Direcção-Geral do Comércio Interno caberão as funções desempenhadas pela Comissão de Coordenação Económica na parte que passa a situar-se no âmbito da competência daquelas Direcções-Gerais.
+Art. 16.º - 1. À Direcção-Geral de Preços e à Direcção-Geral do Comércio Interno caberão as funções desempenhadas pela Comissão de Coordenação Económica na parte que passa a situar-se no âmbito da competência daquelas Direcções-Gerais.
 
 2. A competência legal da Repartição do Comércio e do Serviço de Marcas da Repartição da Propriedade Industrial da Direcção-Geral do Comércio são transferidas para a Direcção-Geral do Comércio Interno.
 
-###### Art. 17.º - 1. Ficam subordinados à Secretaria de Estado do Abastecimento e Preços, no que respeita ao exercício de competências relacionadas com a intervenção no mercado e à comercialização interna dos produtos sujeitos à sua disciplina, os seguintes organismos de coordenação económica:
+Art. 17.º - 1. Ficam subordinados à Secretaria de Estado do Abastecimento e Preços, no que respeita ao exercício de competências relacionadas com a intervenção no mercado e à comercialização interna dos produtos sujeitos à sua disciplina, os seguintes organismos de coordenação económica:
 
 a) O Instituto do Azeite e Produtos Oleaginosos;
 
@@ -322,13 +442,13 @@ j) O Instituto dos Têxteis.
 
 2. Os organismos referidos nas alíneas a) a g) ficam ainda sujeitos à Secretaria de Estado do Abastecimento e Preços no que se refere à sua orgânica e funcionamento.
 
-###### Art. 18.º A Administração-Geral do Açúcar e do Álcool e a Comissão de Viticultura da Região dos Vinhos Verdes dependem também da Secretaria de Estado do Abastecimento e Preços.
+Art. 18.º A Administração-Geral do Açúcar e do Álcool e a Comissão de Viticultura da Região dos Vinhos Verdes dependem também da Secretaria de Estado do Abastecimento e Preços.
 
 VI
 
 Órgãos da Secretaria de Estado das Pescas
 
-###### Art. 19.º - 1. A Secretaria de Estado das Pescas, criada pelo [Decreto-Lei n.º 240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), de 5 de Junho, compreende:
+Art. 19.º - 1. A Secretaria de Estado das Pescas, criada pelo [Decreto-Lei n.º 240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), de 5 de Junho, compreende:
 
 a) O Gabinete do Secretário de Estado;
 
@@ -344,34 +464,34 @@ f) A Direcção-Geral da Investigação e Protecção dos Recursos Vivos e do Am
 
 2. As atribuições, organização e funcionamento da Comissão Nacional das Pescas e Protecção dos Recursos e do Ambiente Aquático e do Gabinete de Coordenação, bem como o seu quadro de pessoal e formas de provimento, constarão de diploma referendado pelos Ministros das Finanças e da Economia.
 
-###### Art. 20.º Ficam subordinados à Secretaria de Estado das Pescas o Instituto Português das Conservas de Peixe, bem como a Comissão Reguladora do Comércio do Bacalhau, no âmbito da sua actividade abrangida pela competência da Secretaria de Estado das Pescas.
+Art. 20.º Ficam subordinados à Secretaria de Estado das Pescas o Instituto Português das Conservas de Peixe, bem como a Comissão Reguladora do Comércio do Bacalhau, no âmbito da sua actividade abrangida pela competência da Secretaria de Estado das Pescas.
 
-###### Art. 21.º Serão integrados na Secretaria de Estado das Pescas, nos termos constantes dos diplomas a publicar para o efeito, os serviços e organizações de outros Ministérios com funções relacionadas com as pescas e com os recursos e meio aquáticos.
+Art. 21.º Serão integrados na Secretaria de Estado das Pescas, nos termos constantes dos diplomas a publicar para o efeito, os serviços e organizações de outros Ministérios com funções relacionadas com as pescas e com os recursos e meio aquáticos.
 
 VII
 
 Disposições gerais
 
-###### Art. 22.º O Conselho Nacional de Produtividade é extinto.
+Art. 22.º O Conselho Nacional de Produtividade é extinto.
 
-###### Art. 23.º A Junta de Colonização Interna é extinta, ficando as suas funções e pessoal integrados no Instituto de Reorganização Agrária, nos termos do artigo 8.º deste diploma.
+Art. 23.º A Junta de Colonização Interna é extinta, ficando as suas funções e pessoal integrados no Instituto de Reorganização Agrária, nos termos do artigo 8.º deste diploma.
 
-###### Art. 24.º A Comissão Permanente da Indústria do Abate, a que se refere o [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, é extinta, passando as suas funções a ser desempenhadas pela Direcção-Geral dos Serviços Pecuários e pela Junta Nacional dos Produtos Pecuários, em termos a estabelecer por despacho do Ministro da Economia.
+Art. 24.º A Comissão Permanente da Indústria do Abate, a que se refere o [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, é extinta, passando as suas funções a ser desempenhadas pela Direcção-Geral dos Serviços Pecuários e pela Junta Nacional dos Produtos Pecuários, em termos a estabelecer por despacho do Ministro da Economia.
 
-###### Art. 25.º A Direcção-Geral do Comércio, a Comissão de Coordenação Económica e o Gabinete de Planeamento da extinta Secretaria de Estado do Comércio serão extintos logo que se encontrem efectivadas as transferências de funções e de pessoal previstas neste decreto-lei e nos diplomas publicados em sua execução.
+Art. 25.º A Direcção-Geral do Comércio, a Comissão de Coordenação Económica e o Gabinete de Planeamento da extinta Secretaria de Estado do Comércio serão extintos logo que se encontrem efectivadas as transferências de funções e de pessoal previstas neste decreto-lei e nos diplomas publicados em sua execução.
 
-###### Art. 26.º Independentemente de quaisquer outros requisitos ou formalidades, o pessoal actualmente colocado em serviços do Ministério da Economia, cujas funções sejam transferidas para outros serviços, será distribuído pelos lugares dos quadros destes serviços, mediante lista ou listas nominativas, aprovadas por despacho do Ministro da Economia, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo.
+Art. 26.º Independentemente de quaisquer outros requisitos ou formalidades, o pessoal actualmente colocado em serviços do Ministério da Economia, cujas funções sejam transferidas para outros serviços, será distribuído pelos lugares dos quadros destes serviços, mediante lista ou listas nominativas, aprovadas por despacho do Ministro da Economia, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo.
 
-###### Art. 27.º As dúvidas que se suscitem na aplicação deste diploma são esclarecidas por despacho do Ministro da Economia.
+Art. 27.º As dúvidas que se suscitem na aplicação deste diploma são esclarecidas por despacho do Ministro da Economia.
 
-###### Art. 28.º São revogados o [Decreto-Lei n.º 536/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1972-685617), de 22 de Dezembro, bem como os n.os 1 e 2 do artigo 3.º e os n.os 1, 2 e 3 do artigo 4.º do [Decreto-Lei n.º 403/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1973-419195).
+Art. 28.º São revogados o [Decreto-Lei n.º 536/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1972-685617), de 22 de Dezembro, bem como os n.os 1 e 2 do artigo 3.º e os n.os 1, 2 e 3 do artigo 4.º do [Decreto-Lei n.º 403/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1973-419195).
 
-###### Art. 29.º Este diploma entra imediatamente em vigor.
+Art. 29.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Setembro de 1974.**
+Promulgado em 30 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 302/1974, 1º Suplemento, Série I de 1974-12-30
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1646-(10) a 1646-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30201/00100014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1974-256808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8364cc0f407a9891400cfca7daefc0c32f4448414fabbeb6bc58bbe78bee1b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 732d4bd5c0dada19016a40918d5e7f03402845b13fd04d7203c09a500038717d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desemprego
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:621369:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:14Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +134,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ### CAPÍTULO I — Atribuições e organização
 
-###### Artigo 1.º A Secretaria de Estado do Emprego tem como atribuições:
+Artigo 1.º A Secretaria de Estado do Emprego tem como atribuições:
 
 a) Conhecer e divulgar a situação e evolução dos problemas de emprego, designadamente através da elaboração de um programa nacional, permanentemente actualizado, de prioridades de intervenção no mercado de emprego;
 
@@ -136,7 +148,7 @@ e) Actuar junto dos desempregados nos planos social e económico, procurando a s
 
 f) Cooperar com a Secretaria de Estado da Emigração na orientação e apoio aos trabalhadores emigrantes, procurando articular o mercado de emprego interno com o mercado de emprego internacional.
 
-###### Art. 2.º - 1. Para o desempenho das suas atribuições a Secretaria de Estado do Emprego dispõe dos seguintes organismos e serviços:
+Art. 2.º - 1. Para o desempenho das suas atribuições a Secretaria de Estado do Emprego dispõe dos seguintes organismos e serviços:
 
 a) Direcção-Geral do Emprego (DGE);
 
@@ -156,7 +168,7 @@ c) Pronunciar-se sobre outras questões do domínio do emprego em que se conside
 
 ### CAPÍTULO II — Da Direcção-Geral do Emprego
 
-###### Art. 3.º À Direcção-Geral do Emprego cabe:
+Art. 3.º À Direcção-Geral do Emprego cabe:
 
 a) Coordenar e superintender na actuação dos serviços que integram a Direcção-Geral;
 
@@ -170,7 +182,7 @@ e) Promover a realização de acções de formação e reabilitação profission
 
 f) Apoiar, designadamente através de actividades de colocação, informação e orientação profissional, prospecção de recursos e formação profissional, em articulação com a Direcção-Geral de Promoção do Emprego, as iniciativas com incidência na criação de postos de trabalho que sejam consideradas prioritárias em termos de emprego.
 
-###### Art. 4.º - 1. A Direcção-Geral do Emprego compreende:
+Art. 4.º - 1. A Direcção-Geral do Emprego compreende:
 
 a) A Direcção de Serviços de Emprego (DSE);
 
@@ -184,7 +196,7 @@ d) Delegações regionais integradas por centros de emprego e de formação prof
 
 3. O director-geral do Emprego será apoiado por uma comissão constituída pelos directores de serviços da respectiva Direcção-Geral e da qual poderão fazer parte representantes dos trabalhadores e empregadores.
 
-###### Art. 5.º À Direcção de Serviços de Emprego compete:
+Art. 5.º À Direcção de Serviços de Emprego compete:
 
 a) Recolher, analisar e promover a apreciação das informações respeitantes à situação e perspectivas do emprego;
 
@@ -202,9 +214,9 @@ g) Cooperar com os serviços da Secretaria de Estado da Emigração na orientaç
 
 h) Colaborar com a Secretaria de Estado do Trabalho no estudo dos problemas relacionados com a definição e atribuição de categorias e títulos profissionais.
 
-###### Art. 6.º A Direcção de Serviços de Emprego é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
+Art. 6.º A Direcção de Serviços de Emprego é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
 
-###### Art. 7.º À Direcção de Serviços de Formação Profissional compete:
+Art. 7.º À Direcção de Serviços de Formação Profissional compete:
 
 a) Levar a efeito acções de formação e reabilitação profissional e criar as condições indispensáveis à sua realização;
 
@@ -216,9 +228,9 @@ d) Cooperar, no âmbito das suas atribuições, com o Ministério da Educação 
 
 e) Formar o pessoal técnico e preparar o material técnico-pedagógico necessário às acções de formação profissional.
 
-###### Art. 8.º A Direcção de Serviços de Formação Profissional é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
+Art. 8.º A Direcção de Serviços de Formação Profissional é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
 
-###### Art. 9.º Sem prejuízo das funções conferidas à Secretaria-Geral do Ministério do Trabalho, compete à Direcção de Serviços Administrativos:
+Art. 9.º Sem prejuízo das funções conferidas à Secretaria-Geral do Ministério do Trabalho, compete à Direcção de Serviços Administrativos:
 
 a) Promover as actividades necessárias à gestão do pessoal;
 
@@ -226,11 +238,11 @@ b) Executar o serviço de expediente geral e de arquivo;
 
 c) Assegurar o serviço de economato e contabilidade.
 
-###### Art. 10.º A Direcção de Serviços Administrativos é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
+Art. 10.º A Direcção de Serviços Administrativos é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
 
 ### CAPÍTULO III — Direcção-Geral de Promoção do Emprego
 
-###### Art. 11.º A Direcção-Geral de Promoção do Emprego tem como atribuições:
+Art. 11.º A Direcção-Geral de Promoção do Emprego tem como atribuições:
 
 a) Colaborar activamente com todos os departamentos públicos directa ou indirectamente envolvidos no processo de criação de empregos e com o sector privado para que as necessidades de emprego da população portuguesa sejam consideradas factor prioritário na definição e execução da política de desenvolvimento sócio-económico;
 
@@ -238,7 +250,7 @@ b) Desencadear as actuações necessárias para que, em articulação com outros
 
 c) Intervir em situações de risco iminente de desemprego e participar eventualmente na aplicação das soluções encontradas.
 
-###### Art. 12.º Para o desempenho das respectivas atribuições poderá a Direcção-Geral de Promoção do Emprego:
+Art. 12.º Para o desempenho das respectivas atribuições poderá a Direcção-Geral de Promoção do Emprego:
 
 a) Fomentar a realização de estudos e projectos de interesse para a política de emprego, em colaboração com outros departamentos públicos e/ou entidades privadas;
 
@@ -246,7 +258,7 @@ b) Requerer aos departamentos públicos as informações de que careça, incluin
 
 c) Tomar a iniciativa de propor as medidas julgadas convenientes para a realização dos objectivos da política de emprego a seu cargo.
 
-###### Art. 13.º Para efeitos do disposto nas alíneas b) e c) do artigo 11.º poderá, nomeadamente, a DGPE:
+Art. 13.º Para efeitos do disposto nas alíneas b) e c) do artigo 11.º poderá, nomeadamente, a DGPE:
 
 a) Propor ao Fundo de Desemprego e a outras entidades a concessão de empréstimos, subsídios ou outras formas de apoio financeiro a favor de empreendimentos ou actividades produtivas de especial interesse para a política de emprego;
 
@@ -254,9 +266,9 @@ b) Participar, com outras entidades competentes, na selecção e no acompanhamen
 
 c) Propor ao Fundo de Desemprego a concessão de prémios por empregos criados nas condições que venham a ser definidas em diploma próprio;
 
-###### Art. 14.º A DGPE actuará em estreita coordenação com a DGE, promovendo iniciativas de criação de postos de trabalho sempre que os problemas de emprego detectados não se possam resolver por outros meios.
+Art. 14.º A DGPE actuará em estreita coordenação com a DGE, promovendo iniciativas de criação de postos de trabalho sempre que os problemas de emprego detectados não se possam resolver por outros meios.
 
-###### Art. 15.º - 1. A DGPE dispõe dos seguintes serviços cuja orgânica interna será definida por portaria do Ministro do Trabalho:
+Art. 15.º - 1. A DGPE dispõe dos seguintes serviços cuja orgânica interna será definida por portaria do Ministro do Trabalho:
 
 a) Direcção de Serviços de Promoção do Emprego;
 
@@ -264,7 +276,7 @@ b) Direcção de Serviços de Análise de Projectos de Emprego.
 
 2. O director-geral de Promoção do Emprego será apoiado por uma comissão, constituída pelos directores de serviços da respectiva Direcção-Geral e da qual poderão fazer parte representantes dos trabalhadores e empregadores.
 
-###### Art. 16.º À Direcção de Serviços de Promoção do Emprego compete:
+Art. 16.º À Direcção de Serviços de Promoção do Emprego compete:
 
 a) Manter actualizado o inventário de projectos de criação de empregos e de estudos de viabilidade sócio-económica, bem como de outros elementos necessários à análise de possibilidades de criação de empregos, centralizando toda a informação recolhida nestes domínios pelos serviços dependentes da Secretaria de Estado e utilizando as informações disponíveis noutros departamentos públicos e entidades privadas;
 
@@ -286,7 +298,7 @@ i) Acompanhar a execução dos empreendimentos que a DGPE apoie a fim de verific
 
 j) Preparar, em colaboração com os restantes serviços da DGPE, os programas e os relatórios anuais de actividades.
 
-###### Art. 17.º À Direcção de Serviços de Análise de Projectos de Emprego compete:
+Art. 17.º À Direcção de Serviços de Análise de Projectos de Emprego compete:
 
 a) Colaborar com os departamentos públicos competentes e com o sector privado na elaboração ou apreciação de projectos de investimento geradores de um número significativo de empregos;
 
@@ -300,7 +312,7 @@ e) Conceder apoio técnico às actividades desenvolvidas pelos restantes serviç
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 18.º - 1. São extintos os seguintes serviços dependentes da extinta Direcção-Geral do Trabalho e Corporações:
+Art. 18.º - 1. São extintos os seguintes serviços dependentes da extinta Direcção-Geral do Trabalho e Corporações:
 
 a) Serviço Nacional de Emprego;
 
@@ -312,16 +324,16 @@ c) Serviço de Formação Profissional.
 
 3. O pessoal e o equipamento de secretaria afectos ao serviço referido na alínea c) do n.º 1 do presente artigo transitam, com dispensa de quaisquer formalidades, para a Direcção-Geral do Emprego, não sendo, porém, abrangido por esta transição o pessoal que, dada a particular natureza do respectivo regime de prestação de serviços, não deva vir a ser integrado nos quadros daquela Direcção-Geral.
 
-###### Art. 19.º Enquanto não for legalmente definido e preenchido, por nomeação ou provimento individual, o quadro do pessoal do Ministério do Trabalho, os funcionários ou servidores dos serviços integrados nos termos do artigo 18.º deste diploma manterão, provisoriamente, a situação anterior.
+Art. 19.º Enquanto não for legalmente definido e preenchido, por nomeação ou provimento individual, o quadro do pessoal do Ministério do Trabalho, os funcionários ou servidores dos serviços integrados nos termos do artigo 18.º deste diploma manterão, provisoriamente, a situação anterior.
 
-###### Art. 20.º Serão inscritas dotações especiais no orçamento do Fundo de Desenvolvimento da Mão-de-Obra para cobertura de encargos decorrentes do disposto na alínea c) do artigo 5.º, nas alíneas a), b), c) e e) do artigo 7.º e nas alíneas b) e c) do artigo 11.º, incluindo as respeitantes a pessoal contratado para além dos quadros.
+Art. 20.º Serão inscritas dotações especiais no orçamento do Fundo de Desenvolvimento da Mão-de-Obra para cobertura de encargos decorrentes do disposto na alínea c) do artigo 5.º, nas alíneas a), b), c) e e) do artigo 7.º e nas alíneas b) e c) do artigo 11.º, incluindo as respeitantes a pessoal contratado para além dos quadros.
 
-###### Art. 21.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decreto referendado pelos Ministros das Finanças e do Trabalho.
+Art. 21.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decreto referendado pelos Ministros das Finanças e do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Inácio da Costa Martins.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

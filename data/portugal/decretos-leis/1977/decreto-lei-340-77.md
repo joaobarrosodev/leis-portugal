@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19100/20052008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1977-256210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 924bb1c20ac21bedbce1147275dab2f9e672cb3c27418cc3f308caa8a67b6db3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d196130701778e2707c0e4da826997b06623083088bf5e7fa7a3b387690cd5f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Coordenação e Planeamento Cultural
+- Criação de Serviços
+- Definição de Competências
+- Direção Geral do Património Cultural
+- Direcção Geral da Acção Cultural
+- Direcção Geral de Espectáculos
+- Gestão Orçamental
+- Integração de Trabalhadores
+- Orgânica
+- Secretaria de Estado da Cultura
+- Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545647:por
+  label: "Extinguido, sendo objecto de fusão o Gabinete de Relações Culturais Internacionais, criado pelo presente diploma,\
+    \ cujas atribuições nos termos do alínea b) do nº. 3 do artigo 26.º são integrados no Gabinete de Planeamento, Estratégia,\
+    \ Avaliação e Relações Internacionais ( já foi extinto pelo Decreto-Lei 42/96, de 07 de Maio), pelo DEC LEI.215/2006.27.10.2006.MC,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:203428:por
+  label: "Rectificado pela RECT.DD23.26.08.1977.PCM, DR.IS [211]Supl de 12.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-203428
+  date: '1977-08-26'
+- type: repealed_by
+  target: pt:dre:197079:por
+  label: "Revogados os artigos 1.º e 3.º a 14.º, pelo DEC LEI.498-C/79.21.12.1979.MCCI, DR.IS [293]Supl de 21.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-c-1979-197079
+  date: '1979-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:14Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +137,9 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria de Estado da Cultura é o departamento governamental ao qual compete definir e orientar a política nacional de cultura, bem como conduzir e executar, em concordância com as directrizes do Ministério dos Negócios Estrangeiros, as actividades externas nesse domínio, e coordenar as acções que se compreendem nesse sector.
+Artigo 1.º A Secretaria de Estado da Cultura é o departamento governamental ao qual compete definir e orientar a política nacional de cultura, bem como conduzir e executar, em concordância com as directrizes do Ministério dos Negócios Estrangeiros, as actividades externas nesse domínio, e coordenar as acções que se compreendem nesse sector.
 
-###### Art. 2.º São atribuições da Secretaria de Estado da Cultura, sem prejuízo de outras que lhe venham a ser cometidas:
+Art. 2.º São atribuições da Secretaria de Estado da Cultura, sem prejuízo de outras que lhe venham a ser cometidas:
 
 a) Assegurar a conservação e utilização do património cultural;
 
@@ -126,7 +169,7 @@ m) Estabelecer e estreitar, a nível cultural, sistemas de relações recíproca
 
 #### SECÇÃO 1.ª — Órgãos e serviços
 
-###### Art. 3.º Na Secretaria de Estado da Cultura integram-se os seguintes serviços do extinto Ministério da Comunicação Social:
+Art. 3.º Na Secretaria de Estado da Cultura integram-se os seguintes serviços do extinto Ministério da Comunicação Social:
 
 a) Direcção-Geral do Património Cultural;
 
@@ -134,7 +177,7 @@ b) Direcção-Geral da Acção Cultural;
 
 c) Direcção-Geral dos Espectáculos.
 
-###### Art. 4.º São criados, na dependência directa do Secretário de Estado da Cultura, os seguintes órgãos de concepção, coordenação e apoio:
+Art. 4.º São criados, na dependência directa do Secretário de Estado da Cultura, os seguintes órgãos de concepção, coordenação e apoio:
 
 a) Direcção de Serviços do Direito de Autor;
 
@@ -144,15 +187,15 @@ c) Secretaria-Geral;
 
 d) Delegações regionais.
 
-###### Art. 5.º A Secretaria de Estado da Cultura disporá ainda, como órgão de consulta, de um Conselho de Cultura.
+Art. 5.º A Secretaria de Estado da Cultura disporá ainda, como órgão de consulta, de um Conselho de Cultura.
 
 #### SECÇÃO 2.ª — Direcção de Serviços do Direito de Autor
 
-###### Art. 6.º À Direcção de Serviços do Direito de Autor compete promover as medidas destinadas a melhorar a protecção do direito de autor e direitos afins, tendo em vista o desenvolvimento cultural do País, através da mais ampla circulação das obras literárias e artísticas.
+Art. 6.º À Direcção de Serviços do Direito de Autor compete promover as medidas destinadas a melhorar a protecção do direito de autor e direitos afins, tendo em vista o desenvolvimento cultural do País, através da mais ampla circulação das obras literárias e artísticas.
 
 #### SECÇÃO 3.ª — Centro de Coordenação e Planeamento Cultural
 
-###### Art. 7.º - 1. Ao Centro de Coordenação e Planeamento Cultural compete elaborar o plano de acção da Secretaria de Estado da Cultura, articular as acções no âmbito da competência dos órgãos de coordenação e estabelecer a ligação entre estes e as direcções-gerais.
+Art. 7.º - 1. Ao Centro de Coordenação e Planeamento Cultural compete elaborar o plano de acção da Secretaria de Estado da Cultura, articular as acções no âmbito da competência dos órgãos de coordenação e estabelecer a ligação entre estes e as direcções-gerais.
 
 2. Na dependência do Centro de Coordenação e Planeamento Cultural funcionam os seguintes serviços:
 
@@ -164,11 +207,11 @@ c) Gabinete Coordenador das Actividades Culturais Externas;
 
 d) Gabinete das Relações Culturais Internacionais.
 
-###### Art. 8.º Ao Gabinete de Coordenação Interdepartamental de Cultura compete colaborar com os departamentos governativos e outras entidades públicas e privadas aos quais incumbem missões culturais, coordenando as respectivas actividades com a Secretaria de Estado da Cultura.
+Art. 8.º Ao Gabinete de Coordenação Interdepartamental de Cultura compete colaborar com os departamentos governativos e outras entidades públicas e privadas aos quais incumbem missões culturais, coordenando as respectivas actividades com a Secretaria de Estado da Cultura.
 
-###### Art. 9.º Ao Gabinete Coordenador das Actividades Culturais Internas compete coordenar a actividade da Secretaria de Estado da Cultura em território português, articulando as propostas e projectos apresentados pelos diversos sectores da Secretaria de Estado e estudar a viabilidade dos programas culturais.
+Art. 9.º Ao Gabinete Coordenador das Actividades Culturais Internas compete coordenar a actividade da Secretaria de Estado da Cultura em território português, articulando as propostas e projectos apresentados pelos diversos sectores da Secretaria de Estado e estudar a viabilidade dos programas culturais.
 
-###### Art. 10.º Ao Gabinete Coordenador das Actividades Culturais Externas compete:
+Art. 10.º Ao Gabinete Coordenador das Actividades Culturais Externas compete:
 
 a) Estudar e coordenar os projectos de acção cultural da Secretaria de Estado no Estrangeiro em concordância com o Ministério dos Negócios Estrangeiros;
 
@@ -176,7 +219,7 @@ b) Colaborar nas realizações dos organismos do Estado que tenham relações co
 
 c) Estabelecer programas concretos de intercâmbio cultural, de acordo com as acções propostas pelo Gabinete das Relações Culturais Internacionais.
 
-###### Art. 11.º Ao Gabinete das Relações Culturais Internacionais compete:
+Art. 11.º Ao Gabinete das Relações Culturais Internacionais compete:
 
 a) Estudar os projectos de intercâmbio, acordos e convenções culturais, segundo a orientação do Ministério dos Negócios Estrangeiros;
 
@@ -186,15 +229,15 @@ c) Promover e organizar, sob a orientação e coordenação do Ministro dos Neg�
 
 #### SECÇÃO 4.ª — Secretaria-Geral
 
-###### Art. 12.º A Secretaria-Geral é um órgão de coordenação e apoio técnico-administrativo e compreende os serviços de interesse comum a toda a Secretaria de Estado da Cultura.
+Art. 12.º A Secretaria-Geral é um órgão de coordenação e apoio técnico-administrativo e compreende os serviços de interesse comum a toda a Secretaria de Estado da Cultura.
 
 #### SECÇÃO 5.ª — Delegações regionais
 
-###### Art. 13.º Serão criadas, por decreto referendado pelos Ministros da Administração Interna e das Finanças, delegações regionais da Secretaria de Estado da Cultura no Porto, Coimbra e Faro, com a competência que nesse diploma lhes for fixada.
+Art. 13.º Serão criadas, por decreto referendado pelos Ministros da Administração Interna e das Finanças, delegações regionais da Secretaria de Estado da Cultura no Porto, Coimbra e Faro, com a competência que nesse diploma lhes for fixada.
 
 #### SECÇÃO 6.ª — Conselho de Cultura
 
-###### Art. 14.º - 1. O Conselho da Cultura será constituído por:
+Art. 14.º - 1. O Conselho da Cultura será constituído por:
 
 a) Os três directores-gerais, o director do Centro de Coordenação e Planeamento Cultural e os directores dos quatro Gabinetes do mesmo Centro, todos eles por inerência;
 
@@ -206,38 +249,38 @@ c) Seis elementos qualificados e de reconhecido mérito, dentro de cada um dos r
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 15.º - 1. O pessoal que integrava a Secretaria de Estado da Cultura, do extinto Ministério da Comunicação Social, será transferido para a actual Secretaria de Estado da Cultura, mediante lista nominativa aprovada por despacho conjunto do Secretário de Estado da Comunicação Social e do Secretário de Estado da Cultura, de harmonia com o [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e publicada no Diário da República, considerando-se o pessoal investido nos respectivos lugares a partir da data da publicação.
+Art. 15.º - 1. O pessoal que integrava a Secretaria de Estado da Cultura, do extinto Ministério da Comunicação Social, será transferido para a actual Secretaria de Estado da Cultura, mediante lista nominativa aprovada por despacho conjunto do Secretário de Estado da Comunicação Social e do Secretário de Estado da Cultura, de harmonia com o [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e publicada no Diário da República, considerando-se o pessoal investido nos respectivos lugares a partir da data da publicação.
 
 2. Independentemente da transferência prevista na alínea anterior, poderão ainda, com a sua aquiescência e igual formalismo, ser transferidos para a Secretaria de Estado da Cultura outros funcionários da Secretaria de Estado da Comunicação Social e do Ministério da Educação e Investigação Científica julgados dispensáveis pelos respectivos Secretário e Ministro.
 
-###### Art. 16.º O pessoal transferido da Secretaria de Estado da Comunicação Social ou de outros Ministérios para a Secretaria de Estado da Cultura será integrado no quadro do pessoal desta Secretaria em categoria não inferior à que tinha no quadro de origem, e em qualquer caso sem perda de posição ou direitos, podendo, porém, a designação da categoria ou cargo atribuídos no quadro de origem ser posteriormente alterada para assegurar a sua adaptação às categorias do pessoal da Secretaria de Estado da Cultura.
+Art. 16.º O pessoal transferido da Secretaria de Estado da Comunicação Social ou de outros Ministérios para a Secretaria de Estado da Cultura será integrado no quadro do pessoal desta Secretaria em categoria não inferior à que tinha no quadro de origem, e em qualquer caso sem perda de posição ou direitos, podendo, porém, a designação da categoria ou cargo atribuídos no quadro de origem ser posteriormente alterada para assegurar a sua adaptação às categorias do pessoal da Secretaria de Estado da Cultura.
 
-###### Art. 17.º O Secretário de Estado da Cultura distribuirá o pessoal referido nos números anteriores por qualquer dos serviços ou organismos dependentes da sua Secretaria, consoante as necessidades do serviço.
+Art. 17.º O Secretário de Estado da Cultura distribuirá o pessoal referido nos números anteriores por qualquer dos serviços ou organismos dependentes da sua Secretaria, consoante as necessidades do serviço.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 18.º Os órgãos do Ministério da Educação e Investigação Científica com actividades no campo da cultura que, nos termos do artigo 2.º do [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, se destinavam a ser progressivamente integrados no Ministério da Comunicação Social, e ainda o não tenham sido, serão integrados na Secretaria de Estado da Cultura.
+Art. 18.º Os órgãos do Ministério da Educação e Investigação Científica com actividades no campo da cultura que, nos termos do artigo 2.º do [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, se destinavam a ser progressivamente integrados no Ministério da Comunicação Social, e ainda o não tenham sido, serão integrados na Secretaria de Estado da Cultura.
 
-###### Art. 19.º Os serviços e actividades dos restantes Ministérios que por natureza se enquadrem no âmbito da Secretaria de Estado da Cultura poderão ser igualmente integrados nesta.
+Art. 19.º Os serviços e actividades dos restantes Ministérios que por natureza se enquadrem no âmbito da Secretaria de Estado da Cultura poderão ser igualmente integrados nesta.
 
-###### Art. 20.º As integrações previstas nos artigos antecedentes operar-se-ão por portaria dos Ministros e/ou Secretários de Estado interessados, devendo o pessoal a transferir constar da lista nominativa aprovada por despacho conjunto dos mesmos membros do Governo, nos termos do artigo 9.º
+Art. 20.º As integrações previstas nos artigos antecedentes operar-se-ão por portaria dos Ministros e/ou Secretários de Estado interessados, devendo o pessoal a transferir constar da lista nominativa aprovada por despacho conjunto dos mesmos membros do Governo, nos termos do artigo 9.º
 
-###### Art. 21.º - 1. As receitas e encargos próprios dos órgãos e serviços transferidos para a Secretaria de Estado da Cultura transitam automaticamente, com estes, para a Secretaria de Estado.
+Art. 21.º - 1. As receitas e encargos próprios dos órgãos e serviços transferidos para a Secretaria de Estado da Cultura transitam automaticamente, com estes, para a Secretaria de Estado.
 
 2. O material, equipamento, instalações e, em geral, o património que forem transferidos serão afectos ao património da Secretaria de Estado da Cultura.
 
 3. Em caso de dúvidas, serão as mesmas resolvidas por despacho conjunto dos membros do Governo interessados.
 
-###### Art. 22.º O Ministro das Finanças introduzirá no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 22.º O Ministro das Finanças introduzirá no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 23.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Cultura.
+Art. 23.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Cultura.
 
-###### Art. 24.º Enquanto não forem publicados os decretos regulamentares necessários à execução do presente diploma, o Secretário de Estado da Cultura definirá, por despacho, o funcionamento dos serviços da Secretaria de Estado.
+Art. 24.º Enquanto não forem publicados os decretos regulamentares necessários à execução do presente diploma, o Secretário de Estado da Cultura definirá, por despacho, o funcionamento dos serviços da Secretaria de Estado.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 4 de Agosto de 1977.**
+Promulgado em 4 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

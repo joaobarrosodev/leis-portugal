@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1976-431179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03f8159ff320b520e6d241291eb6f8509062db46473864f97e5063943c9cf3d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f48079488b2973bf6bf1376430068259777968fd069158effffc5269591643ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara dos Solicitadores
+- Estágio de Formação
+- Estatuto
+- Regulamento de Estágio
+- Solicitador
 relationships:
 - type: amended_by
   target: pt:dre:489989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409521:por
+  label: "Alterado o art. 55º do Estatuto, pelo DEC LEI.761/76.1976.10.22.MJ, DG.IS [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/761-1976-409521
+  date: '1976-10-22'
+- type: amended_by
+  target: pt:dre:276616:por
+  label: "Alterado o artigo 55.º pelo DEC LEI.540/77.31.12.1977.MJ, DR.IS [302] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/540-1977-276616
+  date: '1977-12-31'
+- type: cites
+  target: pt:dre:156385:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408736:por
+  label: Rectificado pela DECL.DD8179.03.09.1976.PCM, DR.IS [207] de 03.09.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408736
+  date: '1976-09-03'
+- type: repealed_by
+  target: pt:dre:489989:por
+  label: "Revogado pelo DEC LEI.8/99.1999.01.08.MJ DR.IS-A [6], com excepção das disposições referentes à composição e ao\
+    \ funcionamento dos actuais órgãos da Câmara, as quais se mantêm em vigor até à data da substituição dos respectivos titulares\
+    \ de acordo com as novas disposições estatutárias e das disposições relativas ao estágio e inscrição que se mantêm em\
+    \ vigor nos termos do nº 2 do artigo 2º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1999-489989
+  date: '1999-01-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:45Z'
   warnings: []
   errors: []
 ---
@@ -114,39 +146,39 @@ ESTATUTO DOS SOLICITADORES
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. A Câmara dos Solicitadores é dotada de personalidade jurídica e representa todos os que no País exercem a profissão de solicitador.
+Artigo 1.º - 1. A Câmara dos Solicitadores é dotada de personalidade jurídica e representa todos os que no País exercem a profissão de solicitador.
 
 2. Tem a sede em Lisboa.
 
 3. É representada pelo presidente do conselho geral.
 
-###### Art. 2.º A Câmara tem por fim o estudo e a defesa dos interesses dos solicitadores nos aspectos profissional, moral e económico-social.
+Art. 2.º A Câmara tem por fim o estudo e a defesa dos interesses dos solicitadores nos aspectos profissional, moral e económico-social.
 
-###### Art. 3.º A Câmara defende a justiça e o direito propondo medidas legislativas que se lhe afigurem razoáveis para a realização dos interesses dos Portugueses e dos solicitadores em particular.
+Art. 3.º A Câmara defende a justiça e o direito propondo medidas legislativas que se lhe afigurem razoáveis para a realização dos interesses dos Portugueses e dos solicitadores em particular.
 
-###### Art. 4.º Para desenvolver o intercâmbio cultural e profissional, a Câmara manterá relações com entidades nacionais e estrangeiras que possam interessar à sua missão.
+Art. 4.º Para desenvolver o intercâmbio cultural e profissional, a Câmara manterá relações com entidades nacionais e estrangeiras que possam interessar à sua missão.
 
-###### Art. 5.º A Câmara anualmente organizará cursos e conferências que visem matérias profissionais, para actualização e aperfeiçoamento dos conhecimentos dos seus membros.
+Art. 5.º A Câmara anualmente organizará cursos e conferências que visem matérias profissionais, para actualização e aperfeiçoamento dos conhecimentos dos seus membros.
 
-###### Art. 6.º - 1. A Câmara publicará, pelo menos uma vez por ano, um Boletim contendo as matérias versadas nos cursos e nas conferências que tiver organizado, além de outras com interesse para a classe.
+Art. 6.º - 1. A Câmara publicará, pelo menos uma vez por ano, um Boletim contendo as matérias versadas nos cursos e nas conferências que tiver organizado, além de outras com interesse para a classe.
 
 2. Com o Boletim sairá a lista actualizada dos solicitadores.
 
 3. A Câmara remeterá obrigatoriamente a todos os tribunais esta lista.
 
-###### Art. 7.º A Câmara tem competência para elaborar os regulamentos restritos ao seu normal funcionamento.
+Art. 7.º A Câmara tem competência para elaborar os regulamentos restritos ao seu normal funcionamento.
 
-###### Art. 8.º A jurisdição disciplinar sobre os solicitadores é exercida exclusivamente pela Câmara.
+Art. 8.º A jurisdição disciplinar sobre os solicitadores é exercida exclusivamente pela Câmara.
 
-###### Art. 9.º Para a defesa dos seus membros em todos os assuntos relativos ao desempenho das respectivas funções, pode a Câmara conceder patrocínio aos solicitadores.
+Art. 9.º Para a defesa dos seus membros em todos os assuntos relativos ao desempenho das respectivas funções, pode a Câmara conceder patrocínio aos solicitadores.
 
-###### Art. 10.º A Câmara procurará resolver por meios conciliatórios as questões em que ela e os solicitadores sejam interessados.
+Art. 10.º A Câmara procurará resolver por meios conciliatórios as questões em que ela e os solicitadores sejam interessados.
 
-###### Art. 11.º A Câmara, quando isso lhe for requerido pelos solicitadores ou seus constituintes, pronunciar-se-á sobre quantitativos de honorários, devendo ouvir a parte contrária no caso de desacordo.
+Art. 11.º A Câmara, quando isso lhe for requerido pelos solicitadores ou seus constituintes, pronunciar-se-á sobre quantitativos de honorários, devendo ouvir a parte contrária no caso de desacordo.
 
 ### CAPÍTULO II — Dos órgãos da Câmara
 
-###### Art. 12.º A Câmara tem os seguintes órgãos:
+Art. 12.º A Câmara tem os seguintes órgãos:
 
 a) Assembleia geral;
 
@@ -160,7 +192,7 @@ e) Conselhos de instrução disciplinar;
 
 f) Delegações.
 
-###### Art. 13.º - 1. A assembleia geral, que reúne na sede, é constituída por todos os membros da Câmara.
+Art. 13.º - 1. A assembleia geral, que reúne na sede, é constituída por todos os membros da Câmara.
 
 2. A assembleia é convocada pelo presidente, com a antecedência mínima de quinze dias, devendo a ordem dos trabalhos constar do aviso.
 
@@ -182,25 +214,25 @@ f) Delegações.
 
 11. O aditamento à ordem dos trabalhos deve ser levado ao conhecimento dos membros da assembleia nos três dias imediatos à formulação do pedido de inscrição.
 
-###### Art. 14.º - 1. A assembleia geral ordinária reúne de três em três anos, em Janeiro, competindo-lhe especialmente:
+Art. 14.º - 1. A assembleia geral ordinária reúne de três em três anos, em Janeiro, competindo-lhe especialmente:
 
 a) Discutir e votar o relatório do conselho geral do triénio anterior;
 
 b) Eleger, por sufrágio directo e secreto, para o triénio seguinte e para entrarem em funções até ao fim do mês imediato, o presidente da mesa da assembleia geral e os dois secretários, o conselho geral e o seu presidente, elegendo ao mesmo tempo suplentes.
 
-###### Art. 15.º - 1. A assembleia geral extraordinária reúne a requerimento do conselho geral ou de, pelo menos, quarenta solicitadores no gozo dos seus direitos.
+Art. 15.º - 1. A assembleia geral extraordinária reúne a requerimento do conselho geral ou de, pelo menos, quarenta solicitadores no gozo dos seus direitos.
 
 2. Do requerimento constará obrigatoriamente a ordem dos trabalhos.
 
 3. O presidente convocará a assembleia no prazo máximo de cinco dias.
 
-###### Art. 16.º Compete ao presidente:
+Art. 16.º Compete ao presidente:
 
 a) Dirigir os trabalhos;
 
 b) Rubricar e assinar as actas.
 
-###### Art. 17.º Compete aos secretários:
+Art. 17.º Compete aos secretários:
 
 a) Redigir as actas, mandar registá-las no livro respectivo e assiná-las;
 
@@ -208,7 +240,7 @@ b) Arquivar os documentos;
 
 c) Fazer o expediente da mesa.
 
-###### Art. 18.º - 1. O conselho geral compõe-se de um presidente, um secretário e quatro vogais.
+Art. 18.º - 1. O conselho geral compõe-se de um presidente, um secretário e quatro vogais.
 
 2. O conselho é obrigatoriamente integrado por membros que tenham escritório em cada um dos distritos judiciais, na seguinte proporção:
 
@@ -228,7 +260,7 @@ d) Um no distrito judicial de Évora.
 
 6. O presidente do conselho geral não pode ser reeleito para qualquer cargo desse conselho para o triénio imediato.
 
-###### Art. 19.º Ao conselho geral compete exercer todos os poderes não atribuídos a outro órgão executivo e, especialmente:
+Art. 19.º Ao conselho geral compete exercer todos os poderes não atribuídos a outro órgão executivo e, especialmente:
 
 a) Promover a elevação das regalias sociais dos solicitadores, tendo por fim a sua integração num sistema de segurança satisfatório;
 
@@ -252,9 +284,9 @@ j) Nomear comissões;
 
 l) Propor as medidas legislativas referidas no artigo 3.º e estabelecer as relações aludidas no artigo 4.º
 
-###### Art. 20.º O conselho geral reunirá em Lisboa ou no Porto pelo menos de três em três meses.
+Art. 20.º O conselho geral reunirá em Lisboa ou no Porto pelo menos de três em três meses.
 
-###### Art. 21.º - 1. O conselho geral escolherá entre os seus membros três, aos quais compete:
+Art. 21.º - 1. O conselho geral escolherá entre os seus membros três, aos quais compete:
 
 a) Admitir os solicitadores;
 
@@ -270,11 +302,11 @@ b) Confirmar ou alterar os acórdãos proferidos em processos disciplinares e de
 
 6. Das deliberações do conselho restrito há recurso para o conselho geral.
 
-###### Art. 22.º - 1. O conselho geral responde perante a assembleia geral.
+Art. 22.º - 1. O conselho geral responde perante a assembleia geral.
 
 2. Os membros do conselho geral que votem contra uma deliberação prejudicial ou que, não tendo assistido à sessão em que foi tomada, contra ela protestem na sessão seguinte a terem-na conhecido ficam isentos de responsabilidade.
 
-###### Art. 23.º Ao presidente do conselho geral compete:
+Art. 23.º Ao presidente do conselho geral compete:
 
 a) Presidir e orientar os trabalhos do conselho geral, designando as datas das reuniões;
 
@@ -284,7 +316,7 @@ c) Designar os membros do conselho ou os órgãos da Câmara encarregados de exe
 
 d) Assinar o expediente, podendo delegar no secretário.
 
-###### Art. 24.º - 1. Ao secretário compete:
+Art. 24.º - 1. Ao secretário compete:
 
 a) Substituir o presidente nos seus impedimentos;
 
@@ -296,17 +328,17 @@ d) Tomar conhecimento do expediente e providenciar pelo seu despacho.
 
 2. São impedimentos do presidente a ausência por serviços previamente comunicados, a doença e o luto.
 
-###### Art. 25.º - 1. A Câmara tem dois conselhos regionais, com sede em Lisboa e no Porto.
+Art. 25.º - 1. A Câmara tem dois conselhos regionais, com sede em Lisboa e no Porto.
 
 2. Esses conselhos têm a autonomia administrativa, financeira e disciplinar que resulta das normas deste Estatuto.
 
 3. O conselho regional do sul exerce a sua jurisdição numa área que compreende os distritos de Leiria e Castelo Branco e os situados a sul e, ainda, os arquipélagos da Madeira e dos Açores e o conselho regional do norte na área a norte daqueles dois distritos.
 
-###### Art. 26.º - 1. Cada assembleia regional é composta por todos os membros da Câmara inscritos no conselho regional.
+Art. 26.º - 1. Cada assembleia regional é composta por todos os membros da Câmara inscritos no conselho regional.
 
 2. São válidas para estas assembleias as regras estabelecidas para a assembleia geral que não colidam com as próprias delas.
 
-###### Art. 27.º - 1. As assembleias regionais ordinárias reúnem em Março e Dezembro de cada ano.
+Art. 27.º - 1. As assembleias regionais ordinárias reúnem em Março e Dezembro de cada ano.
 
 2. Compete especialmente à que reúne em Março discutir e votar o relatório e as contas do conselho regional.
 
@@ -318,19 +350,19 @@ a) O presidente da mesa da assembleia regional e os dois secretário e o conselh
 
 b) O conselho de instrução disciplinar.
 
-###### Art. 28.º - 1. A assembleia regional extraordinária reúne a requerimento do conselho regional ou de, pelo menos, vinte solicitadores no gozo dos seus direitos.
+Art. 28.º - 1. A assembleia regional extraordinária reúne a requerimento do conselho regional ou de, pelo menos, vinte solicitadores no gozo dos seus direitos.
 
 2. Do requerimento constará obrigatoriamente a ordem dos trabalhos.
 
 3. O presidente convocará a assembleia no prazo máximo de cinco dias.
 
-###### Art. 29.º - 1. O conselho regional compõe-se de um presidente, um secretário e um tesoureiro.
+Art. 29.º - 1. O conselho regional compõe-se de um presidente, um secretário e um tesoureiro.
 
 2. Para as suas deliberações vale o disposto no n.º 4 do artigo 18.º
 
 3. Ao presidente do conselho regional é aplicável o disposto no n.º 6 do artigo 18.º
 
-###### Art. 30.º Aos conselhos regionais compete, especialmente:
+Art. 30.º Aos conselhos regionais compete, especialmente:
 
 a) Exercer a acção disciplinar;
 
@@ -354,11 +386,11 @@ j) Elaborar estatísticas respeitantes ao movimento do conselho e ao exercício 
 
 l) Realizar cursos e conferências.
 
-###### Art. 31.º - 1. O conselho regional responde perante o conselho geral e a assembleia regional.
+Art. 31.º - 1. O conselho regional responde perante o conselho geral e a assembleia regional.
 
 2. Aos seus membros é aplicável o disposto no n.º 2 do artigo 22.º
 
-###### Art. 32.º Ao presidente do conselho regional compete:
+Art. 32.º Ao presidente do conselho regional compete:
 
 a) Presidir e orientar os trabalhos do conselho, designando as datas das suas reuniões;
 
@@ -366,7 +398,7 @@ b) Indicar os membros do conselho encarregados de executar as resoluções tomad
 
 c) Assinar o expediente, podendo delegar no secretário.
 
-###### Art. 33.º - 1. Ao secretário compete:
+Art. 33.º - 1. Ao secretário compete:
 
 a) Substituir o presidente nos seus impedimentos;
 
@@ -378,7 +410,7 @@ d) Tomar conhecimento do expediente e providenciar pelo seu despacho.
 
 2. São impedimentos do presidente a ausência dos serviços previamente comunicada, a doença e o luto.
 
-###### Art. 34.º Ao tesoureiro compete:
+Art. 34.º Ao tesoureiro compete:
 
 a) Receber e guardar os haveres do conselho e verificar a conformidade das despesas;
 
@@ -394,11 +426,11 @@ f) Depositar em estabelecimento bancário, até ao dia 10 de cada mês, as quant
 
 g) Elaborar ou mandar elaborar os balancetes trimestrais, orçamentos e o balanço anual, cotejando-os com os documentos de receita e de despesa.
 
-###### Art. 35.º Para levantar qualquer importância é indispensável, além da assinatura do tesoureiro, a do presidente.
+Art. 35.º Para levantar qualquer importância é indispensável, além da assinatura do tesoureiro, a do presidente.
 
-###### Art. 36.º Em cada conselho regional há um conselho de instrução disciplinar composto por três solicitadores inscritos naquele conselho, ao qual compete instruir os processos disciplinares e enviá-los ao conselho regional para decisão.
+Art. 36.º Em cada conselho regional há um conselho de instrução disciplinar composto por três solicitadores inscritos naquele conselho, ao qual compete instruir os processos disciplinares e enviá-los ao conselho regional para decisão.
 
-###### Art. 37.º - 1. A Câmara tem delegações em Coimbra, Évora, Funchal e Ponta Delgada, circunscritas à área dos respectivos distritos administrativos.
+Art. 37.º - 1. A Câmara tem delegações em Coimbra, Évora, Funchal e Ponta Delgada, circunscritas à área dos respectivos distritos administrativos.
 
 2. Além destas, podem existir delegações com sedes nas capitais dos restantes distritos administrativos, com excepção de Lisboa e do Porto.
 
@@ -414,7 +446,7 @@ g) Elaborar ou mandar elaborar os balancetes trimestrais, orçamentos e o balan�
 
 ### CAPÍTULO I — Do estágio
 
-###### Art. 38.º - 1. O estágio destina-se à aquisição de conhecimentos e de experiência dos actos profissionais e a proporcionar contactos que permitam assimilar em toda a extensão a natureza da função.
+Art. 38.º - 1. O estágio destina-se à aquisição de conhecimentos e de experiência dos actos profissionais e a proporcionar contactos que permitam assimilar em toda a extensão a natureza da função.
 
 2. Tem a duração de doze meses e decorre em centros de estágio.
 
@@ -428,13 +460,13 @@ c) As conservatórias dos registos;
 
 d) As secretarias e os cartórios notariais.
 
-###### Art. 39.º O estagiário desenvolverá a sua actividade sob a orientação imediata de um solicitador com pelo menos cinco anos de exercício, que conste de um quadro para o efeito elaborado pela Câmara.
+Art. 39.º O estagiário desenvolverá a sua actividade sob a orientação imediata de um solicitador com pelo menos cinco anos de exercício, que conste de um quadro para o efeito elaborado pela Câmara.
 
-###### Art. 40.º - 1. O primeiro estágio será aberto até 31 de Dezembro do ano da publicação deste diploma e os seguintes até ao mesmo dia desse mês, de dois em dois anos.
+Art. 40.º - 1. O primeiro estágio será aberto até 31 de Dezembro do ano da publicação deste diploma e os seguintes até ao mesmo dia desse mês, de dois em dois anos.
 
 2. Realizar-se-ão nas sedes dos distritos judiciais, no Funchal e em Ponta Delgada.
 
-###### Art. 41.º - 1. O candidato pedirá a sua admissão ao estágio ao conselho regional respectivo, indicando o local onde o pretende realizar e instruindo o requerimento com os seguintes documentos:
+Art. 41.º - 1. O candidato pedirá a sua admissão ao estágio ao conselho regional respectivo, indicando o local onde o pretende realizar e instruindo o requerimento com os seguintes documentos:
 
 a) Comprovativo das habilitações Literárias;
 
@@ -448,7 +480,7 @@ c) Duas fotografias.
 
 4. Ao candidato admitido ao estágio é passado um cartão que o identifique como tal.
 
-###### Art. 42.º - 1. A formação complementar do estágio é coordenada por um grupo orientador de estágio.
+Art. 42.º - 1. A formação complementar do estágio é coordenada por um grupo orientador de estágio.
 
 2. Este grupo é constituído por:
 
@@ -460,9 +492,9 @@ c) Um conservador ou um notário, designado pelo director-geral dos Registos e d
 
 d) Um solicitador, designado pelo conselho geral
 
-###### Art. 43.º A cada grupo orientador de estágio é atribuído o número máximo de dez candidatos e, quando o número destes não for múltiplo de dez, os candidatos serão repartidos equitativamente.
+Art. 43.º A cada grupo orientador de estágio é atribuído o número máximo de dez candidatos e, quando o número destes não for múltiplo de dez, os candidatos serão repartidos equitativamente.
 
-###### Art. 44.º - 1. Até ao dia 10 de Janeiro o conselho regional comunicará ao conselho geral a identidade e o número de candidatos admitidos, o solicitador sob cuja orientação se desenvolverá a sua actividade e a distribuição pelos locais de estágio.
+Art. 44.º - 1. Até ao dia 10 de Janeiro o conselho regional comunicará ao conselho geral a identidade e o número de candidatos admitidos, o solicitador sob cuja orientação se desenvolverá a sua actividade e a distribuição pelos locais de estágio.
 
 2. Até à mesma data, notificará, por carta registada com aviso de recepção, os candidatos não admitidos.
 
@@ -472,15 +504,15 @@ d) Um solicitador, designado pelo conselho geral
 
 5. A reclamação é isenta de custas.
 
-###### Art. 45.º - 1. O conselho geral diligenciará oficiando às entidades que designam os elementos que compõem os grupos orientadores de estágio no sentido de estes se acharem constituídos até ao fim de Janeiro.
+Art. 45.º - 1. O conselho geral diligenciará oficiando às entidades que designam os elementos que compõem os grupos orientadores de estágio no sentido de estes se acharem constituídos até ao fim de Janeiro.
 
 2. Conhecida a identidade desses elementos, o conselho geral transmite ao presidente de cada grupo a comunicação a que alude o n.º 1 do artigo anterior e o solicitador por ele designado para o grupo orientador de estágio.
 
-###### Art. 46.º O expediente dos grupos orientadores de estágio é assegurado pela delegação local da Câmara dos Solicitadores e, em Lisboa e Porto, pelos respectivos conselhos regionais.
+Art. 46.º O expediente dos grupos orientadores de estágio é assegurado pela delegação local da Câmara dos Solicitadores e, em Lisboa e Porto, pelos respectivos conselhos regionais.
 
-###### Art. 47.º Para cada candidato existe um processo onde se registam todas as informações que interessem à apreciação final.
+Art. 47.º Para cada candidato existe um processo onde se registam todas as informações que interessem à apreciação final.
 
-###### Art. 48.º - 1. Findo o período de estágio, os grupos orientadores pronunciar-se-ão, por acórdão lavrado no processo individual, sobre a aptidão de cada candidato.
+Art. 48.º - 1. Findo o período de estágio, os grupos orientadores pronunciar-se-ão, por acórdão lavrado no processo individual, sobre a aptidão de cada candidato.
 
 2. O estagiário, para ser considerado apto, terá de revelar conhecimentos teóricos e práticos relativos às seguintes matérias:
 
@@ -504,7 +536,7 @@ e) Deontologia profissional.
 
 ### CAPÍTULO II — Da inscrição
 
-###### Art. 49.º Além de ser cidadão português, maior de 21 anos, são condições para inscrição na Câmara dos Solicitadores qualquer das seguintes:
+Art. 49.º Além de ser cidadão português, maior de 21 anos, são condições para inscrição na Câmara dos Solicitadores qualquer das seguintes:
 
 a) Ser licenciado ou bacharel em Direito, com diploma válido em Portugal;
 
@@ -512,7 +544,7 @@ b) Ser escrivão de direito com, pelo menos, dez anos de serviço dessas funçõ
 
 c) Ter sido julgado apto pelo grupo orientador de estágio, nos termos do artigo 48.º
 
-###### Art. 50.º - 1. Não podem inscrever-se os que:
+Art. 50.º - 1. Não podem inscrever-se os que:
 
 a) Tenham sido condenados por crimes contra a propriedade, cometidos com dolo, ou por crime infamante;
 
@@ -524,19 +556,19 @@ d) Estejam interditos, inabilitados, falidos ou insolventes.
 
 2. A reabilitação faz cessar os impedimentos das alíneas a) e b) do n.º 1.
 
-###### Art. 51.º - 1. Quem pretenda inscrever-se na Câmara solicitá-lo-á por escrito, em requerimento com assinatura reconhecida, ao presidente do conselho regional em cuja área queira abrir escritório.
+Art. 51.º - 1. Quem pretenda inscrever-se na Câmara solicitá-lo-á por escrito, em requerimento com assinatura reconhecida, ao presidente do conselho regional em cuja área queira abrir escritório.
 
 2. O requerimento, ao qual se juntam três fotografias, deve ser instruído com os documentos que provem o preenchimento das condições e a inexistência dos impedimentos referidos nos artigos 49.º e 50.º
 
-###### Art. 52.º O conselho regional pronuncia-se sobre o requerido no prazo de dez dias, enviando depois o processo ao conselho geral para os fins do disposto na alínea a) do n.º 1 do artigo 21.º
+Art. 52.º O conselho regional pronuncia-se sobre o requerido no prazo de dez dias, enviando depois o processo ao conselho geral para os fins do disposto na alínea a) do n.º 1 do artigo 21.º
 
-###### Art. 53.º - 1. Se o solicitador for admitido, lavrar-se-á a sua inscrição no conselho regional competente.
+Art. 53.º - 1. Se o solicitador for admitido, lavrar-se-á a sua inscrição no conselho regional competente.
 
 2. Nenhum solicitador pode estar inscrito simultaneamente em mais de um conselho regional.
 
 3. Quando pretender abrir escritórios nas áreas de mais de um conselho regional, tem de optar por aquele onde quer ser inscrito.
 
-###### Art. 54.º - 1. Feita a inscrição, são passados:
+Art. 54.º - 1. Feita a inscrição, são passados:
 
 a) Um cartão profissional, com fotografia, assinado pelo presidente do conselho regional;
 
@@ -544,13 +576,13 @@ b) Um diploma, assinado pelos presidentes do conselho geral e do conselho region
 
 2. O diploma referido na alínea b) do n.º 1 terá formato e apresentação condignos e será autenticado com um selo especial.
 
-###### Art. 55.º - 1. Com a entrada em vigor deste Estatuto desaparece a distinção entre solicitadores encartados e provisionários.
+Art. 55.º - 1. Com a entrada em vigor deste Estatuto desaparece a distinção entre solicitadores encartados e provisionários.
 
 2. Os solicitadores provisionários com nomeação definitiva adquirem os direitos que neste diploma se atribuem aos solicitadores.
 
 3. Os solicitadores das ex-colónias que possuam a nacionalidade portuguesa, para exercerem a profissão em Portugal, deverão fazer prova de possuírem carta de solicitador passada em conformidade com o disposto no [Decreto n.º 35777](https://diariodarepublica.pt/dr/detalhe/decreto/35777-1946-156385), de 1 de Agosto de 1946, sem o que se sujeitarão a uma prova especial de qualificação.
 
-###### Art. 56.º - 1. Fica suspensa a inscrição quando o solicitador:
+Art. 56.º - 1. Fica suspensa a inscrição quando o solicitador:
 
 a) Por decisão proferida em processo penal, transitada em julgado, for interdito temporariamente do exercício da profissão;
 
@@ -564,7 +596,7 @@ e) Em processo disciplinar lhe seja aplicada a medida de suspensão preventiva;
 
 f) Não efectuar o pagamento de qualquer quantia em dívida à Câmara e este Estatuto comine expressamente a suspensão da inscrição para a mora.
 
-###### Art. 57.º A suspensão cessa quando, decretada:
+Art. 57.º A suspensão cessa quando, decretada:
 
 a) Nos termos da alínea a) do artigo anterior, se extinguir o prazo da interdição;
 
@@ -574,7 +606,7 @@ c) Nos termos das alíneas c) e e) do artigo anterior, o solicitador for absolvi
 
 d) Nos termos da alínea f) do artigo anterior, for efectuado o pagamento.
 
-###### Art. 58.º - 1. Os solicitadores podem requerer ao presidente do conselho regional o cancelamento provisório ou definitivo da inscrição, devendo o pedido ser formulado em requerimento com assinatura reconhecida presencialmente.
+Art. 58.º - 1. Os solicitadores podem requerer ao presidente do conselho regional o cancelamento provisório ou definitivo da inscrição, devendo o pedido ser formulado em requerimento com assinatura reconhecida presencialmente.
 
 2. O cancelamento provisório durará cinco anos, findos os quais se tomará definitivo desde que o solicitador, notificado por carta registada com aviso de recepção, para o seu domicílio, não declare, no prazo de trinta dias, que pretende continuar a exercer a profissão.
 
@@ -582,7 +614,7 @@ d) Nos termos da alínea f) do artigo anterior, for efectuado o pagamento.
 
 4. Em qualquer momento posterior ao cancelamento definitivo pode ser requerida nova inscrição, sem necessidade de novas provas de qualificação.
 
-###### Art. 59.º É cancelada a inscrição ao solicitador quando:
+Art. 59.º É cancelada a inscrição ao solicitador quando:
 
 a) Lhe seja aplicada a pena de expulsão;
 
@@ -592,13 +624,13 @@ c) Não efectuar o pagamento de qualquer quantia em dívida à Câmara e este Es
 
 d) Decorra algum dos factos referidos nas alíneas do n.º 1 do artigo 50.º
 
-###### Art. 60.º A Câmara providenciará imediatamente para que seja cassado o diploma e o cartão profissional ao solicitador que tiver sido suspenso ou a quem tiver sido cancelada a inscrição, notificando-o para o entregar no prazo de quinze dias, sob pena de dar publicidade à suspensão ou ao cancelamento por anúncio nos jornais e junto das repartições que entender conveniente.
+Art. 60.º A Câmara providenciará imediatamente para que seja cassado o diploma e o cartão profissional ao solicitador que tiver sido suspenso ou a quem tiver sido cancelada a inscrição, notificando-o para o entregar no prazo de quinze dias, sob pena de dar publicidade à suspensão ou ao cancelamento por anúncio nos jornais e junto das repartições que entender conveniente.
 
 ### CAPÍTULO III — Do exercício da profissão
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 61.º - 1. Ao solicitador compete praticar actos jurídicos por conta de outrem, a título oneroso.
+Art. 61.º - 1. Ao solicitador compete praticar actos jurídicos por conta de outrem, a título oneroso.
 
 2. O solicitador exerce o mandato judicial, com as limitações da lei de processo.
 
@@ -608,19 +640,19 @@ d) Decorra algum dos factos referidos nas alíneas do n.º 1 do artigo 50.º
 
 5. Nos termos do n.º 3, o solicitador pode, por intermédio de empregado seu maior de 18 anos, por si credenciado e mediante exibição de cartão emitido pela Câmara, pedir informações, fazer pagamentos e entregar e receber documentos em qualquer repartição pública.
 
-###### Art. 62.º - 1. Os solicitadores podem constituir entre si ou com outros mandatários judiciais sociedades com o fim exclusivo do exercício das respectivas profissões.
+Art. 62.º - 1. Os solicitadores podem constituir entre si ou com outros mandatários judiciais sociedades com o fim exclusivo do exercício das respectivas profissões.
 
 2. A Câmara regulamentará a criação de tais sociedades entre os seus membros e colaborará na regulamentação das restantes.
 
-###### Art. 63.º - 1. A profissão de solicitador só pode ser exercida por quem se encontre inscrito na Câmara dos Solicitadores.
+Art. 63.º - 1. A profissão de solicitador só pode ser exercida por quem se encontre inscrito na Câmara dos Solicitadores.
 
 2. O exercício da solicitadoria por um solicitador suspenso, mesmo preventivamente, tem os efeitos da falta de inscrição.
 
 3. O cartão profissional prova a inscrição na Câmara.
 
-###### Art. 64.º O solicitador exerce a profissão em todo o País.
+Art. 64.º O solicitador exerce a profissão em todo o País.
 
-###### Art. 65.º - 1. O exercício da profissão de solicitador é proibido a:
+Art. 65.º - 1. O exercício da profissão de solicitador é proibido a:
 
 a) Membros do Governo ou dos gabinetes dos respectivos titulares;
 
@@ -636,7 +668,7 @@ e) Todos aqueles cuja lei reguladora do seu serviço estabeleça incompatibilida
 
 #### SECÇÃO II — Dos direitos
 
-###### Art. 66.º Os solicitadores têm direito a:
+Art. 66.º Os solicitadores têm direito a:
 
 a) Receber toda a protecção da Câmara, à qual recorrerão sempre que lhes sejam cerceados os direitos ou lhes seja perturbado o regular exercício das suas funções;
 
@@ -654,15 +686,15 @@ g) Alegar oralmente nos processos em que o patrocínio pode ser exercido por sol
 
 h) Exigir, a título de provisão e dentro de limites razoáveis, quantias por conta de honorários.
 
-###### Art. 67.º Não podem ser apreendidos documentos ao solicitador no seu escritório.
+Art. 67.º Não podem ser apreendidos documentos ao solicitador no seu escritório.
 
-###### Art. 68.º O solicitador não pode ser responsabilizado pela falta de pagamento de preparos, custas ou quaisquer despesas se, tendo pedido ao cliente as importâncias para tal necessárias, as não tiver recebido.
+Art. 68.º O solicitador não pode ser responsabilizado pela falta de pagamento de preparos, custas ou quaisquer despesas se, tendo pedido ao cliente as importâncias para tal necessárias, as não tiver recebido.
 
-###### Art. 69.º Os solicitadores de idade igual ou superior a 70 anos, quando o requeiram, têm direito a uma redução de 60% na quota, desde que não sejam colectados em imposto profissional por importância superior a 100000$00.
+Art. 69.º Os solicitadores de idade igual ou superior a 70 anos, quando o requeiram, têm direito a uma redução de 60% na quota, desde que não sejam colectados em imposto profissional por importância superior a 100000$00.
 
 #### SECÇÃO III — Dos deveres
 
-###### Art. 70.º - 1. Aos solicitadores cumpre:
+Art. 70.º - 1. Aos solicitadores cumpre:
 
 a) Acatar as disposições do Estatuto, dos regulamentos elaborados pelos órgãos da Câmara e as deliberações destes órgãos;
 
@@ -678,7 +710,7 @@ f) Não guardar documentos que revelem a prática de qualquer infracção ou pos
 
 2. Além de infracção disciplinar, a violação do disposto na alínea f) do n.º 1 constitui encobrimento, nos termos do n.º 2 do artigo 23.º do Código Penal.
 
-###### Art. 71.º - 1. O segredo profissional respeita a factos:
+Art. 71.º - 1. O segredo profissional respeita a factos:
 
 a) Referentes a assuntos de que, por virtude da profissão, se ocupe e que tenham sido revelados pelo representado ou por sua ordem ou comissão, ou conhecido no exercício ou por ocasião do exercício do seu ministério;
 
@@ -698,7 +730,7 @@ d) De que os adversários do cliente ou respectivos representantes lhe tenham da
 
 6. Não podem fazer prova em juízo as declarações feitas com violação do segredo profissional.
 
-###### Art. 72.º Ao solicitador cumpre fixar os honorários dentro de limites razoáveis, devendo atender:
+Art. 72.º Ao solicitador cumpre fixar os honorários dentro de limites razoáveis, devendo atender:
 
 a) Ao tempo gasto no estudo do assunto;
 
@@ -720,7 +752,7 @@ h) À praxe do foro e estilo da comarca.
 
 ### CAPÍTULO I — Das faltas disciplinares
 
-###### Art. 73.º São faltas disciplinares dos solicitadores:
+Art. 73.º São faltas disciplinares dos solicitadores:
 
 a) A violação de qualquer dever especialmente previsto neste Estatuto;
 
@@ -768,9 +800,9 @@ x) Exigir, a título de honorários, uma parte do objecto da pretensão do clien
 
 ### CAPÍTULO II — Do processo
 
-###### Art. 74.º Quando lhe for feita qualquer denúncia ou tiver conhecimento da prática de factos disciplinarmente censuráveis, o conselho regional distribuirá o processo, atribuindo-o a um dos três solicitadores que compõem o conselho de instrução disciplinar.
+Art. 74.º Quando lhe for feita qualquer denúncia ou tiver conhecimento da prática de factos disciplinarmente censuráveis, o conselho regional distribuirá o processo, atribuindo-o a um dos três solicitadores que compõem o conselho de instrução disciplinar.
 
-###### Art. 75.º - 1. Ao instrutor compete apurar todos os factos conducentes a provar a culpabilidade do arguido e aqueles que possam concorrer para demonstrar a sua inocência e irresponsabilidade.
+Art. 75.º - 1. Ao instrutor compete apurar todos os factos conducentes a provar a culpabilidade do arguido e aqueles que possam concorrer para demonstrar a sua inocência e irresponsabilidade.
 
 2. Esta fase instrutória deve estar concluída no prazo de seis meses.
 
@@ -778,13 +810,13 @@ x) Exigir, a título de honorários, uma parte do objecto da pretensão do clien
 
 4. Sempre que o conselho entenda que às faltas indiciadas correspondem as sanções das alíneas d), e) e f) do artigo 85.º, proporá a suspensão preventiva do arguido.
 
-###### Art. 76.º - 1. Quando o acórdão concluir pelo arquivamento ou propuser a suspensão, o processo sobe Logo ao conselho regional.
+Art. 76.º - 1. Quando o acórdão concluir pelo arquivamento ou propuser a suspensão, o processo sobe Logo ao conselho regional.
 
 2. Se este mandar arquivar o processo, o arquivamento é definitivo.
 
 3. Se decretar a suspensão preventiva do solicitador, o processo é remetido ao conselho geral para os efeitos do disposto na alínea b) do artigo 21.º
 
-###### Art. 77.º - 1. Fixada a acusação, o arguido será notificado para deduzir a sua defesa, no prazo que lhe for designado.
+Art. 77.º - 1. Fixada a acusação, o arguido será notificado para deduzir a sua defesa, no prazo que lhe for designado.
 
 2. Esse prazo não pode ser inferior a oito dias nem superior, se o solicitador residir no continente, a quinze, ou, se residir nas ilhas adjacentes, a quarenta e cinco dias.
 
@@ -794,15 +826,15 @@ x) Exigir, a título de honorários, uma parte do objecto da pretensão do clien
 
 5. Se tiver sido decretada a suspensão preventiva, esse prazo é encurtado para três meses.
 
-###### Art. 78.º Concluída a instrução, o conselho de instrução disciplinar elaborará parecer final, no prazo de cinco dias, propondo o arquivamento ou a sanção que entender adequada às faltas apuradas, remetendo logo o processo ao conselho regional.
+Art. 78.º Concluída a instrução, o conselho de instrução disciplinar elaborará parecer final, no prazo de cinco dias, propondo o arquivamento ou a sanção que entender adequada às faltas apuradas, remetendo logo o processo ao conselho regional.
 
-###### Art. 79.º O conselho de instrução disciplinar reúne estando presentes, pelo menos, dois dos seus membros, e os acórdãos são relatados pelo instrutor do processo e lavrados por maioria, devendo o vencido justificar o seu voto.
+Art. 79.º O conselho de instrução disciplinar reúne estando presentes, pelo menos, dois dos seus membros, e os acórdãos são relatados pelo instrutor do processo e lavrados por maioria, devendo o vencido justificar o seu voto.
 
-###### Art. 80.º - 1. O conselho regional julga o processo disciplinar no prazo de trinta dias, mas se o arguido estiver suspenso esse prazo é de oito dias.
+Art. 80.º - 1. O conselho regional julga o processo disciplinar no prazo de trinta dias, mas se o arguido estiver suspenso esse prazo é de oito dias.
 
 2. Proferida a decisão, o processo é remetido ao conselho geral para cumprimento do disposto na alínea b) do n.º 1 do artigo 21.º
 
-###### Art. 81.º - 1. O instrutor decide sobre a ordem por que as diligências se hão-de realizar, pode pedir, quando o entender conveniente, a colaboração de qualquer colega e providência para que a instrução decorra disciplinadamente.
+Art. 81.º - 1. O instrutor decide sobre a ordem por que as diligências se hão-de realizar, pode pedir, quando o entender conveniente, a colaboração de qualquer colega e providência para que a instrução decorra disciplinadamente.
 
 2. Pode requerer a qualquer repartição elementos de prova, nomeadamente certidões, fazendo uma justificação sumária da necessidade deles.
 
@@ -814,21 +846,21 @@ x) Exigir, a título de honorários, uma parte do objecto da pretensão do clien
 
 6. Transitada a decisão, será remetida certidão ao Ministério Público para ser instaurada a acção executiva.
 
-###### Art. 82.º - 1. A instrução do processo é isenta de qualquer tributação.
+Art. 82.º - 1. A instrução do processo é isenta de qualquer tributação.
 
 2. Essa isenção abrange o disposto nos n.os 2 e 3 do artigo anterior.
 
-###### Art. 83.º - 1. O instrutor que não concluir qualquer das fases instrutórias nos prazos assinalados nos artigos 75.º e 76.º deve remeter o processo ao conselho regional, com a sua justificação.
+Art. 83.º - 1. O instrutor que não concluir qualquer das fases instrutórias nos prazos assinalados nos artigos 75.º e 76.º deve remeter o processo ao conselho regional, com a sua justificação.
 
 2. O conselho, ouvido o arguido no processo disciplinar, se julgar improcedente a justificação, condenará o instrutor em multa, que fixará entre 1000$00 e 5000$00, e designará um prazo dentro do qual as diligências têm de ser concluídas.
 
 3. Quando esse prazo não for respeitado, ou o instrutor tiver demorado mais de três meses a concluir a instrução, no caso de haver solicitador suspenso, o processo será redistribuído por outro membro do conselho disciplinar e será instaurado procedimento contra aquele.
 
-###### Art. 84.º Quando for instaurado processo disciplinar contra um membro do conselho de instrução disciplinar, o conselho regional designará um dos seus membros suplentes para substituir o arguido naquele conselho.
+Art. 84.º Quando for instaurado processo disciplinar contra um membro do conselho de instrução disciplinar, o conselho regional designará um dos seus membros suplentes para substituir o arguido naquele conselho.
 
 ### CAPÍTULO III — Das penas disciplinares
 
-###### Art. 85.º - 1. As penas disciplinares são:
+Art. 85.º - 1. As penas disciplinares são:
 
 a) Advertência;
 
@@ -844,21 +876,21 @@ f) Expulsão.
 
 2. As penas das alíneas e) e f) só podem ser aplicadas em decisão que reúna a unanimidade dos membros do respectivo conselho. As penas referidas nas alíneas e) e f) carecem de homologação do Ministro da Justiça.
 
-###### Art. 86.º O pedido de cancelamento ou suspensão da inscrição não faz cessar a responsabilidade disciplinar.
+Art. 86.º O pedido de cancelamento ou suspensão da inscrição não faz cessar a responsabilidade disciplinar.
 
-###### Art. 87.º Ao solicitador que não pagar a multa em que for condenado em processo disciplinar é suspensa a inscrição até ao cumprimento da decisão e o facto é comunicado ao Ministério Público para instaurar a acção executiva.
+Art. 87.º Ao solicitador que não pagar a multa em que for condenado em processo disciplinar é suspensa a inscrição até ao cumprimento da decisão e o facto é comunicado ao Ministério Público para instaurar a acção executiva.
 
-###### Art. 88.º - 1. As penas disciplinares são imprescritíveis, mas o respectivo procedimento prescreve no prazo de cinco anos.
+Art. 88.º - 1. As penas disciplinares são imprescritíveis, mas o respectivo procedimento prescreve no prazo de cinco anos.
 
 2. Se as infracções constituírem simultaneamente ilícito penal, prescrevem no mesmo prazo que o procedimento criminal, se este for superior.
 
-###### Art. 89.º O prazo de suspensão preventiva será sempre levado em conta na medida das penas das alíneas d) e e) do artigo 85.º
+Art. 89.º O prazo de suspensão preventiva será sempre levado em conta na medida das penas das alíneas d) e e) do artigo 85.º
 
-###### Art. 90.º A Câmara manterá para cada solicitador um cadastro disciplinar, secreto e actualizado.
+Art. 90.º A Câmara manterá para cada solicitador um cadastro disciplinar, secreto e actualizado.
 
 ## TÍTULO IV — Das eleições
 
-###### Art. 91.º - 1. A eleição para os órgãos da Câmara, com excepção do disposto no n.º 6 do artigo 37.º, é precedida da apresentação de candidaturas ao conselho geral.
+Art. 91.º - 1. A eleição para os órgãos da Câmara, com excepção do disposto no n.º 6 do artigo 37.º, é precedida da apresentação de candidaturas ao conselho geral.
 
 2. As listas dos candidatos à mesa da assembleia geral e ao conselho geral são propostas pelo mínimo de trinta solicitadores, no pleno gozo dos seus direitos.
 
@@ -870,19 +902,19 @@ f) Expulsão.
 
 6. Com excepção das listas para o conselho de instrução disciplinar, especificar-se-ão os membros suplentes e, entre eles, o presidente.
 
-###### Art. 92.º As propostas a que se referem os n.os 2 e 4 do artigo anterior são apresentadas até 30 de Novembro e 31 de Janeiro anteriores às respectivas assembleias.
+Art. 92.º As propostas a que se referem os n.os 2 e 4 do artigo anterior são apresentadas até 30 de Novembro e 31 de Janeiro anteriores às respectivas assembleias.
 
-###### Art. 93.º - 1. Findo o prazo de apresentação das candidaturas, o presidente do conselho geral pronunciar-se-á, em quarenta e oito horas, sobre a elegibilidade dos candidatos.
+Art. 93.º - 1. Findo o prazo de apresentação das candidaturas, o presidente do conselho geral pronunciar-se-á, em quarenta e oito horas, sobre a elegibilidade dos candidatos.
 
 2. Não são elegíveis os solicitadores de cujo cadastro conste terem sofrido pena superior à da alínea b) do n.º 1 do artigo 85.º ou ter-lhes sido aplicada mais de uma pena disciplinar.
 
 3. As listas relativamente às quais se julgue inelegível o candidato individualizado como presidente de qualquer órgão da Câmara ou mais de metade dos membros efectivos serão rejeitadas.
 
-###### Art. 94.º - 1. Após a decisão, o presidente do conselho geral mandará afixar nas sedes dos conselhos regionais as listas admitidas.
+Art. 94.º - 1. Após a decisão, o presidente do conselho geral mandará afixar nas sedes dos conselhos regionais as listas admitidas.
 
 2. Simultaneamente, comunicará a quem tiver sido indicado como presidente que rejeitou determinada lista ou nela mandou cortar o nome ou nomes de candidatos.
 
-###### Art. 95.º - 1. No caso de, ou por não terem sido propostas ou por terem sido rejeitadas, não haver candidaturas para todos os órgãos da Câmara, nos cinco dias imediatos à decisão do presidente do conselho geral os conselhos regionais devem apresentar-lhe as listas omissas.
+Art. 95.º - 1. No caso de, ou por não terem sido propostas ou por terem sido rejeitadas, não haver candidaturas para todos os órgãos da Câmara, nos cinco dias imediatos à decisão do presidente do conselho geral os conselhos regionais devem apresentar-lhe as listas omissas.
 
 2. A cada conselho regional cumpre indicar essas listas para a assembleia geral e para o conselho geral e, ainda, para a assembleia regional, para o conselho regional e para o conselho de instrução disciplinar a eleger na área de jurisdição de cada um.
 
@@ -890,13 +922,13 @@ f) Expulsão.
 
 4. O presidente do conselho geral pronunciar-se-á, no prazo de quarenta e oito horas, sobre a elegibilidade dos candidatos propostos pelos conselhos regionais ou no exercício da faculdade concedida no número anterior, mandando afixar nas sedes dos conselhos regionais as listas definitivamente admitidas.
 
-###### Art. 96.º - 1. O voto para eleição dos cargos da Câmara é obrigatório.
+Art. 96.º - 1. O voto para eleição dos cargos da Câmara é obrigatório.
 
 2. Pode ser exercido por correspondência, devendo, neste caso, o leitor dirigir uma carta, por si assinada, ao presidente da respectiva assembleia, dentro da qual encerrará num sobrescrito a lista.
 
 3. O solicitador que deixar de votar paga a multa de 300$00.
 
-###### Art. 97.º - 1. O solicitador que tiver sido eleito para desempenhar qualquer cargo da Câmara é obrigado a exercê-lo com zelo e gratuitamente.
+Art. 97.º - 1. O solicitador que tiver sido eleito para desempenhar qualquer cargo da Câmara é obrigado a exercê-lo com zelo e gratuitamente.
 
 2. No caso de ter sido eleito para mais de um cargo, deve declarar, no prazo de cinco dias, por qual opta.
 
@@ -904,11 +936,11 @@ f) Expulsão.
 
 4. Quando no exercício de qualquer cargo da Câmara para que tenha sido eleito, o solicitador está isento de prestar serviço de assistência judiciária, salvo se tiver sido nomeado anteriormente à eleição.
 
-###### Art. 98.º - 1. Podem pedir escusa do exercício do cargo para que tiverem sido eleitos na assembleia geral ou no conselho geral os solicitadores que, depois da declaração de aceitação da candidatura, tenham adoecido prolongadamente com impossibilidade de um exercício normal.
+Art. 98.º - 1. Podem pedir escusa do exercício do cargo para que tiverem sido eleitos na assembleia geral ou no conselho geral os solicitadores que, depois da declaração de aceitação da candidatura, tenham adoecido prolongadamente com impossibilidade de um exercício normal.
 
 2. Os solicitadores que tenham sido eleitos para as assembleias regionais, para os conselhos regionais e para os conselhos de instrução disciplinar também podem pedir escusa nos termos do número anterior e, ainda, se tiverem mudado o escritório para a área de concelho diferente ou para uma distância superior a 50 km, ficando, neste caso, de escritório mais longe da sede do conselho regional do que o anterior.
 
-###### Art. 99.º Os solicitadores perdem o cargo quando:
+Art. 99.º Os solicitadores perdem o cargo quando:
 
 a) No decurso do seu exercício, vierem a preencher as condições das alíneas do n.º 1 do artigo 50.º;
 
@@ -916,19 +948,19 @@ b) A inscrição lhes for suspensa, enquanto durar a suspensão;
 
 c) A inscrição lhes for cancelada.
 
-###### Art. 100.º - 1. No caso de qualquer conselho não poder deliberar por impedimento dos seus membros, decorridos quinze dias, os que continuarem em exercício ou dez solicitadores no pleno gozo dos seus direitos devem requerer ao presidente da assembleia respectiva a sua convocação.
+Art. 100.º - 1. No caso de qualquer conselho não poder deliberar por impedimento dos seus membros, decorridos quinze dias, os que continuarem em exercício ou dez solicitadores no pleno gozo dos seus direitos devem requerer ao presidente da assembleia respectiva a sua convocação.
 
 2. Verificado o impedimento, o presidente convoca a assembleia para os próximos quinze dias, a fim de serem eleitos os solicitadores necessários para completar o conselho até ao fim do triénio.
 
 3. Na eleição observam-se as regras estabelecidas neste Estatuto, salvo pelo que respeita às candidaturas, cuja apresentação agora não é obrigatória.
 
-###### Art. 101.º Se o impedimento for de um solicitador a quem esteja confiada uma delegação, o conselho geral providenciará para que se realize nova eleição.
+Art. 101.º Se o impedimento for de um solicitador a quem esteja confiada uma delegação, o conselho geral providenciará para que se realize nova eleição.
 
 ## TÍTULO V — Das receitas e das despesas
 
-###### Art. 102.º As receitas da Câmara dos Solicitadores, quando de outro modo não estiver expressamente regulamentado, são atribuídas, em partes iguais, aos conselhos regionais, que participam, na mesma proporção, nas despesas.
+Art. 102.º As receitas da Câmara dos Solicitadores, quando de outro modo não estiver expressamente regulamentado, são atribuídas, em partes iguais, aos conselhos regionais, que participam, na mesma proporção, nas despesas.
 
-###### Art. 103.º - 1. Constituem receitas:
+Art. 103.º - 1. Constituem receitas:
 
 a) As liberalidades;
 
@@ -940,13 +972,13 @@ c) Os rendimentos dos bens da Câmara.
 
 3. Metade das multas reverte para a Caixa de Previdência.
 
-###### Art. 104.º - 1. A cobrança das receitas faz-se por intermédio dos conselhos regionais, relativamente aos solicitadores inscritos em cada um.
+Art. 104.º - 1. A cobrança das receitas faz-se por intermédio dos conselhos regionais, relativamente aos solicitadores inscritos em cada um.
 
 2. A quotização é cobrada mensalmente.
 
-###### Art. 105.º Os solicitadores cuja inscrição seja cancelada não têm direito a haver o que tiverem pago.
+Art. 105.º Os solicitadores cuja inscrição seja cancelada não têm direito a haver o que tiverem pago.
 
-###### Art. 106.º - 1. Quando qualquer importância, com excepção das devidas para inscrição, ou por aplicação de uma multa, em processo disciplinar, não for paga no prazo, o tesoureiro notificará o devedor, por carta registada, com aviso de recepção para o fazer.
+Art. 106.º - 1. Quando qualquer importância, com excepção das devidas para inscrição, ou por aplicação de uma multa, em processo disciplinar, não for paga no prazo, o tesoureiro notificará o devedor, por carta registada, com aviso de recepção para o fazer.
 
 2. Decorridos sessenta dias sem que o pagamento seja efectuado, o conselho regional pode suspender a inscrição, comunicando a deliberação ao interessado.
 
@@ -956,43 +988,43 @@ c) Os rendimentos dos bens da Câmara.
 
 5. A falta de pagamento de importância devida pela inscrição importa que ela não se efective.
 
-###### Art. 107.º As contas dos conselhos regionais são encerradas em 31 de Dezembro.
+Art. 107.º As contas dos conselhos regionais são encerradas em 31 de Dezembro.
 
 ## TÍTULO VI — Da função regulamentar
 
-###### Art. 108.º Compete à assembleia geral:
+Art. 108.º Compete à assembleia geral:
 
 a) Aprovar os regulamentos das receitas e das despesas e da medalha de mérito profissional;
 
 b) Fixar o emblema da Câmara e os modelos do diploma e do trajo dos solicitadores. O modelo do trajo dos solicitadores carece da aprovação do Ministro da Justiça.
 
-###### Art. 109.º - 1. A direcção da Câmara dos Solicitadores regulamentará no prazo de trinta dias, a contar da publicação deste Estatuto, a prova especial de qualificação aludida no n.º 3 do artigo 55.º
+Art. 109.º - 1. A direcção da Câmara dos Solicitadores regulamentará no prazo de trinta dias, a contar da publicação deste Estatuto, a prova especial de qualificação aludida no n.º 3 do artigo 55.º
 
 2. O regulamento fixará um prazo não superior a trinta dias para a realização da primeira prova.
 
-###### Art. 110.º Os conselhos, geral e regionais, regulamentarão as outras matérias incluídas nas suas atribuições quando o acharem conveniente.
+Art. 110.º Os conselhos, geral e regionais, regulamentarão as outras matérias incluídas nas suas atribuições quando o acharem conveniente.
 
 ## TÍTULO VII — Disposições finais
 
 ### CAPÍTULO I — Das disposições gerais
 
-###### Art. 111.º A Câmara dos Solicitadores possui um emblema designativo.
+Art. 111.º A Câmara dos Solicitadores possui um emblema designativo.
 
-###### Art. 112.º - 1. Os solicitadores têm um trajo profissional.
+Art. 112.º - 1. Os solicitadores têm um trajo profissional.
 
 2. Os membros do conselho geral, quando compareçam em actos de grande solenidade, podem usar sobre aquele trajo a insígnia da Câmara, de prata, sendo a do presidente de prata dourada.
 
-###### Art. 113.º Quando a mereçam pela sua conduta extraordinária, os solicitadores são galardoados com a medalha de mérito profissional.
+Art. 113.º Quando a mereçam pela sua conduta extraordinária, os solicitadores são galardoados com a medalha de mérito profissional.
 
-###### Art. 114.º Para revelar a actividade dos órgãos da Câmara e a sua situação económica e financeira haverá, além dos livros aludidos neste Estatuto, os que forem necessários.
+Art. 114.º Para revelar a actividade dos órgãos da Câmara e a sua situação económica e financeira haverá, além dos livros aludidos neste Estatuto, os que forem necessários.
 
-###### Art. 115.º - 1. A Câmara pode requerer e alegar em papel não selado e é isenta de custas, preparos e imposto de justiça em qualquer processo em que intervenha.
+Art. 115.º - 1. A Câmara pode requerer e alegar em papel não selado e é isenta de custas, preparos e imposto de justiça em qualquer processo em que intervenha.
 
 2. Não dão lugar a custas ou imposto de justiça e não são sujeitos a imposto do selo as certidões expedidas pela Câmara, os requerimentos e petições a ela dirigidos e os processos que nela correm ou em que tenha intervenção.
 
 ### CAPÍTULO II — Das disposições transitórias
 
-###### Art. 116.º - 1. A orgânica actual da Câmara dos Solicitadores mantém-se até à realização da primeira assembleia geral ordinária.
+Art. 116.º - 1. A orgânica actual da Câmara dos Solicitadores mantém-se até à realização da primeira assembleia geral ordinária.
 
 2. Esta assembleia, assim como as operações eleitorais que a precedem, rege-se já pelas disposições do presente Estatuto.
 
@@ -1004,19 +1036,19 @@ b) Ao presidente do conselho geral, nomeadamente nos artigos 93.º e 95.º, ser�
 
 c) Aos conselhos regionais, nomeadamente no artigo 95.º, serão desempenhadas pelas direcções das secções.
 
-###### Art. 117.º Até à realização da primeira assembleia geral ordinária, a direcção da Câmara pode convocar qualquer assembleia geral extraordinária.
+Art. 117.º Até à realização da primeira assembleia geral ordinária, a direcção da Câmara pode convocar qualquer assembleia geral extraordinária.
 
-###### Art. 118.º - 1. À direcção da Câmara cumpre apresentar à primeira assembleia geral ordinária um relatório onde proponha medidas concretas para a integração dos bens e valores das secções nos conselhos regionais.
+Art. 118.º - 1. À direcção da Câmara cumpre apresentar à primeira assembleia geral ordinária um relatório onde proponha medidas concretas para a integração dos bens e valores das secções nos conselhos regionais.
 
 2. A apreciação e votação desse relatório constitui matéria obrigatória da ordem de trabalhos daquela assembleia.
 
-###### Art. 119.º - 1. O concurso de habilitação para solicitador, aberto por despacho de 1 de Abril de 1974 da Direcção-Geral dos Serviços Judiciários, publicado no Diário do Governo, 2.ª série, de 4 do mesmo mês e ano, processar-se-á de harmonia com a legislação vigente à data da abertura.
+Art. 119.º - 1. O concurso de habilitação para solicitador, aberto por despacho de 1 de Abril de 1974 da Direcção-Geral dos Serviços Judiciários, publicado no Diário do Governo, 2.ª série, de 4 do mesmo mês e ano, processar-se-á de harmonia com a legislação vigente à data da abertura.
 
 2. A Câmara será informada da identificação dos candidatos aprovados, os quais ficam equiparados aos indicados na alínea c) do artigo 49.º
 
 3. Os candidatos a solicitador aprovados em concurso anterior ao referido no n.º 1, ainda válido segundo legislação então em vigor, usufruem da equiparação aludida no n.º 2.
 
-###### Art. 120.º - 1. Este Estatuto será obrigatoriamente revisto em assembleia geral ordinária, que se realizará um ano após a assembleia geral ordinária referida no n.º 1 do artigo 116.º
+Art. 120.º - 1. Este Estatuto será obrigatoriamente revisto em assembleia geral ordinária, que se realizará um ano após a assembleia geral ordinária referida no n.º 1 do artigo 116.º
 
 2. Cumpre ao conselho geral redigir as alterações que devam ser sujeitas a essa assembleia.
 
@@ -1026,8 +1058,8 @@ c) Aos conselhos regionais, nomeadamente no artigo 95.º, serão desempenhadas p
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.
 
-**Promulgado em 5 de Junho de 1976.**
+Promulgado em 5 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45772-1964-578113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 688a078389ebdde42087dc4609ccd3617794409aa3ba44b450c3c491f3ece0ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0e919e8a73dcbbe886cc6896e9fb47927df885ec816678ca9590909a86ecbbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Direitos Aduaneiros
+- EFTA
+- Importação
+- Mercadoria
+- Pauta dos Direitos de Importação
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:28Z'
   warnings: []
   errors: []
 ---
@@ -85,11 +91,11 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É alterada, pela forma seguinte, a redacção do n.º 7.º do artigo 88.º das instruções preliminares da pauta de importação:
+Artigo 1.º É alterada, pela forma seguinte, a redacção do n.º 7.º do artigo 88.º das instruções preliminares da pauta de importação:
 
 7.º Amostras de vinho do Porto ou de vinho da Madeira devolvidas às firmas exportadoras, em quantidade não superior a 5 l, mediante informação favorável, respectivamente, do Instituto do Vinho do Porto ou da Delegação da Junta Nacional do Vinho na Região Vinícola da Madeira.
 
-###### Art. 2.º São introduzidas no texto da pauta de importação as seguintes alterações:
+Art. 2.º São introduzidas no texto da pauta de importação as seguintes alterações:
 
 49.11.01 ...
 
@@ -137,7 +143,7 @@ Pauta máxima, quilograma 400$00.
 
 Pauta mínima, quilograma 200$00.
 
-###### Art. 3.º São alteradas as taxas dos seguintes artigos da pauta de importação:
+Art. 3.º São alteradas as taxas dos seguintes artigos da pauta de importação:
 
 28.42.07 ...
 
@@ -241,18 +247,18 @@ Pauta máxima, ad valorem 4 por cento.
 
 Pauta mínima, ad valorem 2 por cento.
 
-###### Art. 4.º Os dizeres das sub-rubricas da posição 53.01 da pauta de importação «Suja:» e «Lavada:» são alterados, respectivamente, para «Suja ou lavada a dorso:» e «Lavada, com excepção da lã lavada a dorso:».
+Art. 4.º Os dizeres das sub-rubricas da posição 53.01 da pauta de importação «Suja:» e «Lavada:» são alterados, respectivamente, para «Suja ou lavada a dorso:» e «Lavada, com excepção da lã lavada a dorso:».
 
-###### Art. 5.º É inserido na pauta de exportação o artigo 112-D, com a seguinte redacção:
+Art. 5.º É inserido na pauta de exportação o artigo 112-D, com a seguinte redacção:
 
-###### Artigo 112-D - Máquinas de escrever ... Livres
+Artigo 112-D - Máquinas de escrever ... Livres
 
-###### Art. 6.º É introduzida no índice remissivo da pauta de exportação a seguinte rubrica e respectiva remissão:
+Art. 6.º É introduzida no índice remissivo da pauta de exportação a seguinte rubrica e respectiva remissão:
 
 Máquinas de escrever ... 112-D
 
-###### Art. 7.º As mercadorias importadas cujos direitos se encontrem garantidos em virtude de reclamações apresentadas relativamente à pauta em vigor pagarão as taxas consignadas no presente diploma.
+Art. 7.º As mercadorias importadas cujos direitos se encontrem garantidos em virtude de reclamações apresentadas relativamente à pauta em vigor pagarão as taxas consignadas no presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/589-1970-146877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d2c550f5c7c97dc4fa8081887f0d27ad7f8cbe50ec67f4a0424b4e5f25c376a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c89f7a5aff5f60afa07d407199baf70266037d17c5c4002e306bd7e41615e6d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:29Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +93,12 @@ Nos termos da parte final do n.º 1.º do artigo 12.º do Código Administrativo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A povoação de Picagalo, da freguesia da Trafaria, do concelho de Atinada, passa a denominar-se S. Pedro da Trafaria.
+Artigo único. A povoação de Picagalo, da freguesia da Trafaria, do concelho de Atinada, passa a denominar-se S. Pedro da Trafaria.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 13 de Novembro de 1970.**
+Promulgado em 13 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 89/1975, 2º Suplemento, Série I de 1975-04-16
   number: '89'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 576-(9) a 576-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08902/00090010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-f-1975-497869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ff02e600fa519ddfc931470f44b23bfdcbfdab84e8ff209d668df9fa9e4f1e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b475ed74e1575d970f27c1453cd55b3458915f302291b83bf5c2b1ae4883928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Nacionalizada
+- Nacionalização
+- Siderurgia Nacional
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476154:por
+  label: "Transformada em sociedade anónima de capitais maioritariamente públicos a Siderurgia Nacional, declarada nacionalizada\
+    \ pelo presente diploma, e posteriormente transformada em empresa pública pelo Dec Lei 853/76, de 18-Dez, pelo DEC LEI.113/91.20.03.1991.MIE,\
+    \ DR.IS-A [66] de 20.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1991-476154
+  date: '1991-03-20'
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:58Z'
   warnings: []
   errors: []
 ---
@@ -100,31 +119,31 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Conselho de Ministros decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - A Siderurgia Nacional, S. A. R. L., é declarada nacionalizada com eficácia a contar de 15 de Abril de 1975.
+Artigo 1.º - A Siderurgia Nacional, S. A. R. L., é declarada nacionalizada com eficácia a contar de 15 de Abril de 1975.
 
 2. A nacionalização prevista no n.º 1 é feita sem prejuízo do direito dos actuais titulares de acções representativas do capital privado a serem indemnizados.
 
-###### Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital da Siderurgia Nacional, S. A. R. L., contra a entrega dos respectivos títulos, uma indemnização a definir quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital da Siderurgia Nacional, S. A. R. L., contra a entrega dos respectivos títulos, uma indemnização a definir quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
 
-###### Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Siderurgia Nacional, S. A. R. L., ou que se encontrem afectos à respectiva exploração são transferidos para o Estado, integrados no património autónomo da empresa resultante da nacionalização, ou a ele igualmente afectos.
+Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Siderurgia Nacional, S. A. R. L., ou que se encontrem afectos à respectiva exploração são transferidos para o Estado, integrados no património autónomo da empresa resultante da nacionalização, ou a ele igualmente afectos.
 
 2. O disposto no número anterior constitui título comprovativo de transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pela empresa e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
 
-###### Art. 4.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos praticados e contratos celebrados pela Siderurgia Nacional, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
+Art. 4.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos praticados e contratos celebrados pela Siderurgia Nacional, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
 
 2. A empresa nacionalizada assumirá igualmente a posição social que a Siderurgia Nacional, S. A. R. L., detiver em sociedades em que seja sócia à data do início da eficácia da nacionalização.
 
-###### Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Siderurgia Nacional, S. A. R. L., transitará automaticamente para a empresa nacionalizada.
+Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Siderurgia Nacional, S. A. R. L., transitará automaticamente para a empresa nacionalizada.
 
 2. Até entrar em vigor o regime a definir no estatuto a que se refere a alínea a) do artigo 10.º do presente decreto-lei, mantém-se a vigência da legislação aplicável ao trabalho prestado na Siderurgia Nacional, S. A. R. L., bem como as convenções de trabalho celebradas às quais tem estado vinculada a Sociedade e o seu pessoal, assumindo a empresa nacionalizada as posições que antes cabiam à Siderurgia Nacional, S. A. R. L.
 
-###### Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da Siderurgia Nacional, S. A. R. L.
+Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da Siderurgia Nacional, S. A. R. L.
 
 2. Por despacho do Primeiro-Ministro, sob proposta do Ministro da Indústria e Tecnologia, será nomeada uma comissão administrativa para a Siderurgia Nacional, S. A. R. L., composta por três a cinco membros de reconhecida competência, considerando-se desde já designado para essa comissão administrativa o actual administrador por parte do Estado na referida empresa.
 
 3. A comissão administrativa exercerá funções até à designação dos titulares dos órgãos de gestão previstos nos estatutos, a elaborar nos termos da alínea a) do artigo 10.º
 
-###### Art. 7.º - 1. A comissão administrativa terá todos os poderes que pela lei ou pelos estatutos da Siderurgia Nacional, S. A. R. L., pertenciam ao conselho de administração, com excepção:
+Art. 7.º - 1. A comissão administrativa terá todos os poderes que pela lei ou pelos estatutos da Siderurgia Nacional, S. A. R. L., pertenciam ao conselho de administração, com excepção:
 
 a) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
 
@@ -132,11 +151,11 @@ b) Do poder de decisão sobre investimentos superiores a 50000 contos ou sobre m
 
 2. A prática dos actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho do Ministro da Indústria e Tecnologia ou de despacho conjunto deste e do Ministro do Trabalho, quando estiver em causa o estatuto dos trabalhadores.
 
-###### Art. 8.º As remunerações dos membros da comissão administrativa serão fixados por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo da Siderurgia Nacional, S. A. R. L.
+Art. 8.º As remunerações dos membros da comissão administrativa serão fixados por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo da Siderurgia Nacional, S. A. R. L.
 
-###### Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros das comissões administrativas será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros das comissões administrativas será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
 
-###### Art. 10.º - 1. A comissão administrativa apresentará no prazo de noventa dias, a contar da data da eficácia da nacionalização:
+Art. 10.º - 1. A comissão administrativa apresentará no prazo de noventa dias, a contar da data da eficácia da nacionalização:
 
 a) O novo projecto de estatutos da empresa nacionalizada;
 
@@ -144,14 +163,14 @@ b) A proposta do programa de expansão do sector siderúrgico, elaborado com bas
 
 2. No prazo de trinta dias a contar do termo do seu mandato a comissão administrativa apresentará ainda, para apreciação do Ministro da Indústria e Tecnologia, o relatório circunstanciado da sua actuação.
 
-###### Art. 11.º Os membros dos conselhos de administração e fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+Art. 11.º Os membros dos conselhos de administração e fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
 
-###### Art. 12.º O presente diploma entra imediatamente em vigor.
+Art. 12.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Mário Alberto Nobre Lopes Soares - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho.
 
-**Promulgado em 16 de Abril de 1975.**
+Promulgado em 16 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

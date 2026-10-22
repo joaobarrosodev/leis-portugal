@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 297/1979, 1º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3366-(3) a 3366-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29701/00030010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-v-1979-147383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c9a360d87e38b8c86d2e563b183d35e278153ca10729ce156aa4129086698f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34b8730e206a9e7f17ec2bb18504a89a1cf846bcc7f95ba67ff14dfa93fa14ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Departamento de Recursos Humanos
+- Direção Geral da Saúde
+- Direcção Geral dos Hospitais
+- Integração de Trabalhadores
+- Ministério dos Assuntos Sociais
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
+- Serviço Nacional de Saúde
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:325899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal do Departamento de Recursos Humanos da Saúde, aprovado pelo presente diploma e alterado
+    pela Port 317/87, de 16-abr, pelo(a) Portaria n.º 147/88 - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ARTIGOS 7,9,10 E 11 PELO DECRETO LEI 275/88 DE 4 DE AGOSTO, PUBLICADO NO DR.IS, 179.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-08-04'
+- type: amended_by
+  target: pt:dre:378085:por
+  label: "Alterados os artigos 7.º, 9.º, 10.º e 11.º pelo DEC LEI.275/88.04.08.1988.MS, DR.IS [179] de 04.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1988-378085
+  date: '1988-08-04'
+- type: amended_by
+  target: pt:dre:620896:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma pelo DEC LEI.210/89.29.06.1989.MS, DR.IS [[147]] de\
+    \ 29.06.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1989-620896
+  date: '1989-06-29'
+- type: amended_by
+  target: pt:dre:138305:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal da informática e pessoal administrativo, pela PORT.14/92.13.01.1992.MF,\
+    \ DR.IS-B [10] de 13.01.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-1992-138305
+  date: '1992-01-13'
+- type: amended_by
+  target: pt:dre:175514:por
+  label: "Alterado o quadro de pessoal, no que se refere aos grupos de pessoal técnico superior e técnico, pela PORT.173/92.13.03.1992.MF,\
+    \ DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-1992-175514
+  date: '1992-03-13'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325899:por
+  label: Revogado pelo(a) Decreto-Lei n.º 296/93 - Diário da República n.º 199/1993, Série I-A de 1993-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1993-325899
+  date: '1993-08-25'
 article_structure:
   article_count: 25
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:43Z'
   warnings: []
   errors: []
 ---
@@ -287,15 +346,15 @@ A Repartição do Registo Central de Pessoal, que é constituída por:
 
 #### Secção de Colheita de Dados;
 
-#### Secção de Codificação de Dados.
+Secção de Codificação de Dados.
 
 A Repartição dos Serviços Administrativos, que é constituída por:
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
-#### Secção de Contabilidade e Economato;
+Secção de Contabilidade e Economato;
 
 Centro Gráfico.
 
@@ -439,12 +498,12 @@ As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29701/00030010.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29701/00030010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29701/00030010.pdf)

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 50/1975, 2º Suplemento, Série I de 1975-02-28
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 322-(10) a 322-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/05002/00100014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-b-1975-175480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a847f81b7f535a9eeefc96998e9effff704b185587dd4ffbf30db1046d58779
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 749c4daa25d780c7601932f91fa88cda6c3c625a2789697d68e26c4edc211148
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Caderno de Recenseamento
+- Campanha Eleitoral
+- Eleição
+- Moçambique
+- Parlamentar
+- Recenseamento Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526985:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:51Z'
   warnings: []
   errors: []
 ---
@@ -105,19 +131,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Domínio de aplicação)
 
 Os cidadãos eleitores não militares devidamente recenseados no círculo eleitoral de Moçambique participarão no processo para a eleição de Deputados à Assembleia Constituinte, nos termos do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, quanto aos actos a realizar naquele círculo, e nos termos do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, quanto aos actos a realizar no território eleitoral com as especialidades constantes do presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Número de Deputados a eleger)
 
 Em resultado da regra da atribuição ao círculo eleitoral de Moçambique de um Deputado por cada 25000 eleitores inscritos, ou resto superior a 12500 com o mínimo de um Deputado, constante do artigo 2.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, conjugada com o número de eleitores não militares inscritos nos respectivos cadernos de recenseamento, caberá ao círculo eleitoral de Moçambique eleger um Deputado e o respectivo suplente, pelo que, para o efeito da aplicação do disposto naqueles decretos-leis, será considerado um colégio uninominal.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Apresentação de candidaturas)
 
@@ -125,7 +151,7 @@ Em resultado da regra da atribuição ao círculo eleitoral de Moçambique de um
 
 2. Nenhum partido poderá apresentar mais de um candidato e respectivo suplente.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Forma e lugar de apresentação de candidaturas)
 
@@ -143,7 +169,7 @@ Em resultado da regra da atribuição ao círculo eleitoral de Moçambique de um
 
 7. É nula a votação em lista que tenha sido objecto de desistência, ainda que esta não tenha sido devidamente publicada.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Lugar de exercício do direito de voto e constituição das assembleias de voto)
 
@@ -159,13 +185,13 @@ Em resultado da regra da atribuição ao círculo eleitoral de Moçambique de um
 
 6. Em caso de não indicação ou de falta dos delegados de todas as listas, a escolha dos membros da mesa ou mesas das assembleias de voto será efectuada pela autoridade superior do território.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Desdobramento dos cadernos)
 
 A autoridade superior do território, imediatamente após a entrada em vigor deste diploma, promoverá o desdobramento dos cadernos de recenseamento do círculo eleitoral de Moçambique, por forma que os eleitores não militares passem a estar recenseados em cadernos próprios e separados.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Campanha eleitoral)
 
@@ -177,13 +203,13 @@ A autoridade superior do território, imediatamente após a entrada em vigor des
 
 4. Os meios de informação de Moçambique, sujeitos à orientação do Ministério da Informação do Governo de Transição, com excepção do Boletim Oficial, poderão dedicar o tempo e o espaço que julgarem convenientes à divulgação de propaganda eleitoral relativa às candidaturas admitidas pelo círculo eleitoral de Moçambique.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Eleição pelo círculo de Moçambique, apuramento e contencioso)
 
 A eleição do Deputado e respectivo suplente do círculo eleitoral de Moçambique, bem como o apuramento e contencioso eleitorais, reger-se-ão pelo disposto no título IV do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, com as especialidades constantes dos artigos seguintes.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Proibição da presença de força armada e excepções)
 
@@ -195,7 +221,7 @@ A eleição do Deputado e respectivo suplente do círculo eleitoral de Moçambiq
 
 4. Nos casos previstos nos n.os 1 e 3, suspender-se-ão as operações eleitorais até que o presidente considere verificadas as condições para que possam prosseguir, sob pena de nulidade da eleição na respectiva assembleia ou secção de voto.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Boletins de voto)
 
@@ -207,7 +233,7 @@ A eleição do Deputado e respectivo suplente do círculo eleitoral de Moçambiq
 
 4. O Ministério da Administração Interna, mediante requisição da autoridade superior do território de Moçambique, enviará a esta autoridade, através do Ministério da Coordenação Interterritorial, o número de boletins de voto que tiver sido requisitado, até quinze dias antes do designado para a eleição.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Destino dos boletins de voto sobre os quais não haja reclamação ou protesto)
 
@@ -215,7 +241,7 @@ A eleição do Deputado e respectivo suplente do círculo eleitoral de Moçambiq
 
 2. Esgotado o prazo para a interposição dos recursos contenciosos, ou decididos definitivamente estes, a autoridade superior do território promoverá a destruição dos boletins.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Composição da assembleia de apuramento geral)
 
@@ -229,7 +255,7 @@ c) Os presidentes das assembleias de voto da sede do círculo;
 
 d) Um funcionário judicial, escolhido pelo presidente.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Operações de apuramento geral)
 
@@ -241,19 +267,19 @@ b) Na verificação do número total de votos obtidos por cada lista e do númer
 
 c) Na determinação do candidato e respectivo suplente que tiverem sido eleitos.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Comunicação dos resultados do apuramento geral)
 
 No próprio dia em que tiver sido concluído o apuramento geral, ou no dia imediato, o presidente da assembleia de apuramento geral do círculo de Moçambique comunicará, por via telegráfica, à assembleia de apuramento geral do círculo de Lisboa, directamente ou por intermédio do governador civil deste distrito, o número de votos obtidos por cada lista.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Recurso contencioso)
 
 Na hipótese de o recurso contencioso previsto no artigo 98.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, não ser decidido no prazo de quarenta e oito horas previsto no mesmo artigo, considerar-se-á o recurso julgado definitivamente improcedente, facto de que a autoridade superior do território dará conhecimento no dia imediato, por via telegráfica, à assembleia de apuramento geral do círculo eleitoral de Lisboa, directamente ou por intermédio do governador civil deste distrito.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Não realização total ou parcial de eleições)
 
@@ -263,7 +289,7 @@ Na hipótese de o recurso contencioso previsto no artigo 98.º do [Decreto-Lei n
 
 3. A autoridade superior do território deverá fundamentar e instruir os requerimentos referidos neste artigo e fazê-los chegar à Secretaria do Tribunal da Relação de Lisboa até ao quarto dia, inclusive, posterior ao designado para a eleição. O Tribunal da Relação de Lisboa decidirá definitivamente dentro das quarenta e oito horas seguintes, comunicando a decisão no próprio dia da leitura do acórdão, ou no dia imediato, por via telegráfica, à autoridade requerente.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Ilícito eleitoral)
 
@@ -271,13 +297,13 @@ Na hipótese de o recurso contencioso previsto no artigo 98.º do [Decreto-Lei n
 
 2. Às infracções relativas à mesma eleição cometidas no território de Moçambique aplicam-se as correspondentes regras previstas no título V do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, com ressalva do disposto no artigo seguinte.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Entrada abusiva de força armada nas assembleias de voto)
 
 A autoridade militar ou policial por cuja ordem alguma força militar ou policial se apresentar no local onde estiver reunida uma assembleia de voto, ou na sua proximidade, até 50 m, sem requisição do presidente da mesa, ou fora dos casos em que é licita essa apresentação, independentemente de requisição, será punida com pena de prisão até um ano.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Isenções)
 
@@ -291,13 +317,13 @@ c) Reconhecimentos notariais em documentos para fins eleitorais;
 
 d) Procurações forenses a utilizar em reclamações e recursos relacionados com as eleições, devendo as mesmas especificar os processos e fins a que se destinam.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Delegação de competência)
 
 A autoridade superior de cada território poderá, mediante despacho a que dará a devida publicidade, delegar na Comissão Eleitoral prevista no artigo 133.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, ou noutra cuja composição definirá, nomeando os respectivos membros, ou em quaisquer autoridades administrativas, que igualmente identificará, a execução de quaisquer actos incluídos na competência que lhe é atribuída pelo presente diploma.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Dúvidas de interpretação e aplicação)
 
@@ -309,8 +335,8 @@ Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Antó
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 28 de Fevereiro de 1975.**
+Promulgado em 28 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

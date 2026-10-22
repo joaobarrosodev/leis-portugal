@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 224/1975, 2º Suplemento, Série I de 1975-09-27
   number: '224'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1498-(3) a 1498-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/22402/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-a-1975-264716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55e8220c126aea60db564d075f5d4c8663cd9b092a9691856e702d732277d69d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e29a382ade05334df6e47a99f2533c1d09a2b205c7b78ed1c0c52ac9eb13f1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Cargos Políticos
+- Governo Provisório
+- Incompatibilidades
+- Membros do Governo
+- Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:14Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +120,18 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 10.º - 1. A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.
+Art. 10.º - 1. A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.
 
 2. Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor.
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.
 
-**Promulgado em 27 de Setembro de 1975.**
+Promulgado em 27 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

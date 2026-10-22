@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/05/11700/06860686.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45717-1964-576079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cc9ec12c667a0f01fdd88f0301fc2eafb4ffe9a1101deae707f5b7ce7688b6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5347c4747b66433060bce4d2864fc042a4458c0263a2b8580feeff1f231797f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Junta Nacional dos Vinhos
+- Região Demarcada
+- Taxa
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:539211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391642:por
+  label: "Revogado pelo Dec Lei.47966.1967.09.27.MECO, DG.IS [226] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47966-1967-391642
+  date: '1967-09-27'
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogado pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:08Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +130,10 @@ Tornando-se por isso conveniente actualizar as disposições em vigor respeitant
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As taxas de que trata o [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, passam a incidir sobre todos os vinhos comuns, de pasto ou de mesa, gasificados ou não, engarrafados em recipientes de qualquer natureza e capacidade, incluindo-se os vinhos de marca registada, sendo de $05 por litro ou fracção desde 6 dl e de $025 por fracção de litro inferior a 6 dl.
+Artigo 1.º As taxas de que trata o [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, passam a incidir sobre todos os vinhos comuns, de pasto ou de mesa, gasificados ou não, engarrafados em recipientes de qualquer natureza e capacidade, incluindo-se os vinhos de marca registada, sendo de $05 por litro ou fracção desde 6 dl e de $025 por fracção de litro inferior a 6 dl.
 
-###### Art. 2.º As taxas de que tratam os artigos 2.º e 3.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, e os artigos 1.º e 2.º do [Decreto-Lei n.º 43550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018), de 21 de Março de 1961, passam também a incidir sobre o vinho vendido em quaisquer recipientes, ainda que de capacidade inferior a 1 l, e serão liquidadas nos termos da parte final do artigo anterior.
+Art. 2.º As taxas de que tratam os artigos 2.º e 3.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, e os artigos 1.º e 2.º do [Decreto-Lei n.º 43550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018), de 21 de Março de 1961, passam também a incidir sobre o vinho vendido em quaisquer recipientes, ainda que de capacidade inferior a 1 l, e serão liquidadas nos termos da parte final do artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Armando Ramos de Paula Coelho.

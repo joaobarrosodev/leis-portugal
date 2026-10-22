@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12300/12341235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1977-252851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 305f2849b7203a0508732a88ef43d1ee37b982e6b5c242605d5224e8f96b1aa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c676c4c5edbd6c007d6ad86f6b81f5588326245dc55b12f75fb26334d9facef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos e Planeamento
+- Concurso
+- Definição de Competências
+- Direção
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico
+- Pessoal Técnico Auxiliar
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365740:por
+  label: "Alterado o quadro de pessoal pelo DR.70/79.1979.12.28.MCEP DR.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/70-1979-365740
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:234972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234973:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:249980:por
+  label: Rectificado pela DECL.DD8371.30.06.1977.PCM, DR.IS [149] de 30.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-249980
+  date: '1977-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:18Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +134,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterado o quadro do pessoal a que se refere o artigo 9.º do Decreto-Lei n.º 48302, de 30 de Março de 1968, que passa a ser o que consta do quadro anexo a este diploma.
+Artigo 1.º É alterado o quadro do pessoal a que se refere o artigo 9.º do Decreto-Lei n.º 48302, de 30 de Março de 1968, que passa a ser o que consta do quadro anexo a este diploma.
 
-###### Art. 2.º - 1. A direcção do Centro de Estudos é constituída por um director e dois vogais.
+Art. 2.º - 1. A direcção do Centro de Estudos é constituída por um director e dois vogais.
 
 2. O director é nomeado por despacho conjunto do Primeiro-Ministro e do Ministro competente, em comissão de serviço, e de entre diplomados com curso superior devidamente qualificados.
 
@@ -109,9 +144,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. O director terá voto de qualidade.
 
-###### Art. 3.º A direcção será assistida pelo secretário do Centro de Estudos, o qual participará nas deliberações da direcção sobre os assuntos da sua competência.
+Art. 3.º A direcção será assistida pelo secretário do Centro de Estudos, o qual participará nas deliberações da direcção sobre os assuntos da sua competência.
 
-###### Art. 4.º - 1. O secretário do Centro de Estudos de Planeamento é nomeado por despacho do Ministro competente, sob proposta do director, em regime de comissão de serviço, e de entre licenciados com curso superior devidamente qualificados
+Art. 4.º - 1. O secretário do Centro de Estudos de Planeamento é nomeado por despacho do Ministro competente, sob proposta do director, em regime de comissão de serviço, e de entre licenciados com curso superior devidamente qualificados
 
 2. Compete ao secretário:
 
@@ -121,19 +156,19 @@ b) Superintender nos serviços administrativos do Centro de Estudos;
 
 c) Desempenhar as demais funções que lhe sejam cometidas por lei ou por mandato expresso do director.
 
-###### Art. 5.º O director do Centro de Estudos de Planeamento poderá autorizar a realização de despesas até ao mesmo montante que a lei geral fixa para funcionários com a categoria de director-geral.
+Art. 5.º O director do Centro de Estudos de Planeamento poderá autorizar a realização de despesas até ao mesmo montante que a lei geral fixa para funcionários com a categoria de director-geral.
 
-###### Art. 6.º O director do Centro de Estudos de Planeamento deixa de perceber a gratificação mensal, bem como as senhas de presença, prevista no artigo 8.º do [Decreto-Lei n.º 48301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48301-1968-234972).
+Art. 6.º O director do Centro de Estudos de Planeamento deixa de perceber a gratificação mensal, bem como as senhas de presença, prevista no artigo 8.º do [Decreto-Lei n.º 48301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48301-1968-234972).
 
-###### Art. 7.º - 1. A primeira nomeação para entrada no quadro anexo a este diploma será feita mediante provimento provisório durante dois anos, sendo o funcionário provido definitivamente ao fim daquele prazo se tiver tido efectivo serviço e tiver revelado aptidão para o cargo.
+Art. 7.º - 1. A primeira nomeação para entrada no quadro anexo a este diploma será feita mediante provimento provisório durante dois anos, sendo o funcionário provido definitivamente ao fim daquele prazo se tiver tido efectivo serviço e tiver revelado aptidão para o cargo.
 
 2. Quando o provimento recair em funcionários provenientes de outros serviços do Estado ou institutos públicos, o tempo de serviço prestado contará para efeitos de nomeação definitiva, desde que tenha exercido funções de idêntica natureza; se assim não for, o prazo de nomeação provisória será o previsto no n.º 1 deste artigo.
 
-###### Art. 8.º - 1. Para ocorrer às necessidades eventuais ou extraordinárias de serviço, pode a direcção do Centro de Estudos propor superiormente, para além do pessoal do quadro, a admissão de pessoal das mesmas categorias, destacado, em regime de comissão de serviços ou requisitado a outros departamentos ou serviços públicos.
+Art. 8.º - 1. Para ocorrer às necessidades eventuais ou extraordinárias de serviço, pode a direcção do Centro de Estudos propor superiormente, para além do pessoal do quadro, a admissão de pessoal das mesmas categorias, destacado, em regime de comissão de serviços ou requisitado a outros departamentos ou serviços públicos.
 
 2. O tempo de serviço prestado ao Centro de Estudos de Planeamento deverá, para todos os efeitos, ser considerado como prestado à entidade de origem.
 
-###### Art. 9.º - 1. Após a entrada em vigor do presente diploma serão aprovadas, por despacho ministerial, publicado no Diário da República, a lista ou listas nominativas do pessoal do Centro de Estudos de Planeamento, com a indicação dos lugares e situação em que fica provido no novo quadro, dentro das categorias incluídas no quadro anexo a este diploma.
+Art. 9.º - 1. Após a entrada em vigor do presente diploma serão aprovadas, por despacho ministerial, publicado no Diário da República, a lista ou listas nominativas do pessoal do Centro de Estudos de Planeamento, com a indicação dos lugares e situação em que fica provido no novo quadro, dentro das categorias incluídas no quadro anexo a este diploma.
 
 2. Todos os funcionários do actual quadro do Centro de Estudos de Planeamento e o demais pessoal ao serviço não pertencente ao quadro aprovado pelo artigo 9.º do [Decreto n.º 48302](https://diariodarepublica.pt/dr/detalhe/decreto/48302-1968-234973) figurarão na lista ou listas nominativas de pessoal em categoria não inferior à que actualmente possuem.
 
@@ -147,24 +182,24 @@ c) Desempenhar as demais funções que lhe sejam cometidas por lei ou por mandat
 
 7. Todo o pessoal do Centro de Estudos de Planeamento em situação de licença ilimitada manterá os direitos e regalias adquiridos, nos termos da lei geral.
 
-###### Art. 10.º Os membros da direcção que à data da publicação do presente diploma se encontrarem no exercício dos respectivos cargos manter-se-ão em funções até à data do empossamento do director e dos vogais da direcção.
+Art. 10.º Os membros da direcção que à data da publicação do presente diploma se encontrarem no exercício dos respectivos cargos manter-se-ão em funções até à data do empossamento do director e dos vogais da direcção.
 
-###### Art. 11.º Ficam expressamente revogados os artigos 10.º, 11.º, 12.º, 13.º, 14.º e 15.º do [Decreto n.º 48302](https://diariodarepublica.pt/dr/detalhe/decreto/48302-1968-234973), de 30 de Março de 1968, bem como todas as disposições legais constantes do [Decreto-Lei n.º 48301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48301-1968-234972) que, pelo seu teor, sejam manifestamente contrárias ou inconciliáveis com as disposições do presente decreto-lei.
+Art. 11.º Ficam expressamente revogados os artigos 10.º, 11.º, 12.º, 13.º, 14.º e 15.º do [Decreto n.º 48302](https://diariodarepublica.pt/dr/detalhe/decreto/48302-1968-234973), de 30 de Março de 1968, bem como todas as disposições legais constantes do [Decreto-Lei n.º 48301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48301-1968-234972) que, pelo seu teor, sejam manifestamente contrárias ou inconciliáveis com as disposições do presente decreto-lei.
 
-###### Art. 12.º O Ministro das Finanças fica desde já autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma legal.
+Art. 12.º O Ministro das Finanças fica desde já autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma legal.
 
-###### Art. 13.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 3 de Maio de 1977.**
+Promulgado em 3 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o artigo 1.º deste diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/12300/12341235.pdf))](https://files.diariodarepublica.pt/1s/1977/05/12300/12341235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12300/12341235.pdf)
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

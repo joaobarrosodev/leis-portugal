@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20500/18441845.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1978-329862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdbc1d4502a0de69416fb379bb351cb0e9036a06e7c097d5fc4cfc7209128400
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f7748864aa083d7dea8c2f1b290f2322eed9eba639354a307cf8b4ce4390d9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANA
+- Empresa Pública
+- Funcionário Público
+- Regime de Pessoal
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:33Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +136,7 @@ Na verdade, nos termos do artigo 29.º do Estatuto da ANA, E. P., aprovado pelo 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Na empresa pública Aeroportos e Navegação Aérea deverá vigorar, até à publicação do estatuto do pessoal previsto no n.º 1 do artigo 13.º do [Decreto-Lei n.º 122/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1977-139694), de 31 de Março, uma tabela salarial cujo leque, em valores líquidos, não seja superior ao estabelecido para a função pública.
+Artigo 1.º - 1 - Na empresa pública Aeroportos e Navegação Aérea deverá vigorar, até à publicação do estatuto do pessoal previsto no n.º 1 do artigo 13.º do [Decreto-Lei n.º 122/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1977-139694), de 31 de Março, uma tabela salarial cujo leque, em valores líquidos, não seja superior ao estabelecido para a função pública.
 
 2 - A determinação de valores líquidos dos vencimentos efectua-se mediante dedução dos descontos obrigatórios a reter na fonte, bem como do imposto complementar calculado exclusivamente na base do vencimento ilíquido individual.
 
@@ -108,20 +144,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O disposto no número anterior não é aplicável aos trabalhadores abrangidos pelos [Decreto-Lei n.º 503/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1975-307405), de 13 de Setembro, Decretos n.os 256/77 e 257/77, de 8 de Abril, e Decretos Regulamentares n.os [4/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1978-448515) e [9/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1978-446559), respectivamente de 11 e 23 de Fevereiro.
 
-###### Art. 2.º - 1 - Os responsáveis pelos órgãos de estrutura orgânica da ANA, E. P., deverão auferir, no mínimo, o vencimento correspondente ao escalão imediatamente superior ao trabalhador com melhor vencimento que esteja colocado na sua dependência hierárquica.
+Art. 2.º - 1 - Os responsáveis pelos órgãos de estrutura orgânica da ANA, E. P., deverão auferir, no mínimo, o vencimento correspondente ao escalão imediatamente superior ao trabalhador com melhor vencimento que esteja colocado na sua dependência hierárquica.
 
 2 - Compete ao conselho de gerência fixar os escalões de vencimentos dos titulares dos órgãos de estrutura orgânica da empresa, de acordo com o princípio do número anterior e nos limites da tabela referida no artigo 1.º do presente diploma.
 
-###### Art. 3.º Os trabalhadores da ANA, E. P., deverão auferir vencimentos líquidos idênticos quando efectivamente desempenharem as mesmas funções, quer sejam ou não funcionários e agentes da Administração Pública Central que se encontrem em comissão de serviço ao abrigo do [Decreto-Lei n.º 122/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1977-139694).
+Art. 3.º Os trabalhadores da ANA, E. P., deverão auferir vencimentos líquidos idênticos quando efectivamente desempenharem as mesmas funções, quer sejam ou não funcionários e agentes da Administração Pública Central que se encontrem em comissão de serviço ao abrigo do [Decreto-Lei n.º 122/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1977-139694).
 
-###### Art. 4.º As dúvidas que se suscitarem na interpretação ou aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
+Art. 4.º As dúvidas que se suscitarem na interpretação ou aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-###### Art. 5.º O presente diploma entra imediatamente em vigor e produz efeitos a partir de 1 de Janeiro de 1978.
+Art. 5.º O presente diploma entra imediatamente em vigor e produz efeitos a partir de 1 de Janeiro de 1978.
 
 Mário Soares - Manuel Branco Ferreira Lima.
 
-**Promulgado em 17 de Agosto de 1978.**
+Promulgado em 17 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1979-383575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fec381f230c96a047eac00f239338303a8cf261526ecc62910dadf83434d9d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a32acf648c6668bfd3ac4d17a4cb9f92db46aa286458ee6583d6655040371d29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA PIA de Lisboa
+- Extinção de Lugares
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:470252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:673829:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:25Z'
   warnings: []
   errors: []
 ---
@@ -98,20 +105,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os lugares de preceptor são providos por concurso documental de entre indivíduos habilitados com o curso geral dos liceus ou equiparado, tendo preferência os que possuírem estágios com aproveitamento ou especializações nas funções a que se destinam.
+Artigo 1.º Os lugares de preceptor são providos por concurso documental de entre indivíduos habilitados com o curso geral dos liceus ou equiparado, tendo preferência os que possuírem estágios com aproveitamento ou especializações nas funções a que se destinam.
 
-###### Art. 2.º - 1 - À categoria de preceptor, constante do quadro de pessoal não dirigente da Casa Pia de Lisboa, aprovado pela [Portaria n.º 287/73](https://diariodarepublica.pt/dr/detalhe/portaria/287-1973-673829), de 20 de Abril, é atribuído o vencimento correspondente à letra N.
+Art. 2.º - 1 - À categoria de preceptor, constante do quadro de pessoal não dirigente da Casa Pia de Lisboa, aprovado pela [Portaria n.º 287/73](https://diariodarepublica.pt/dr/detalhe/portaria/287-1973-673829), de 20 de Abril, é atribuído o vencimento correspondente à letra N.
 
 2 - O número de lugares de preceptor do quadro de pessoal da Casa Pia de Lisboa é fixado em cento e dez unidades.
 
-###### Art. 3.º São extintas as categorias de vigilante e sub-regente, constantes do quadro de pessoal, aprovado pela [Portaria n.º 287/73](https://diariodarepublica.pt/dr/detalhe/portaria/287-1973-673829), de 20 de Abril.
+Art. 3.º São extintas as categorias de vigilante e sub-regente, constantes do quadro de pessoal, aprovado pela [Portaria n.º 287/73](https://diariodarepublica.pt/dr/detalhe/portaria/287-1973-673829), de 20 de Abril.
 
-###### Art. 4.º O primeiro provimento dos lugares de preceptor será feito de entre os actuais preceptores e vigilantes que se encontrem a prestar serviço na Casa Pia de Lisboa, a qualquer título, sem dependência de quaisquer requisitos ou formalidades, mediante lista nominativa aprovada pelo Ministro dos Assuntos Sociais, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 4.º O primeiro provimento dos lugares de preceptor será feito de entre os actuais preceptores e vigilantes que se encontrem a prestar serviço na Casa Pia de Lisboa, a qualquer título, sem dependência de quaisquer requisitos ou formalidades, mediante lista nominativa aprovada pelo Ministro dos Assuntos Sociais, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.
 
-**Promulgado em 26 de Maio de 1979.**
+Promulgado em 26 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

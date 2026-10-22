@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/28600/18791880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1970-146500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60383ccea8a4f5393af5b29e8a6c559521ef3841790bc5f73e7acd5bea141aac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcb3362aac8836b6f73914ebc177343af90f6e534c77ce5ef090f3f7c51b4c14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Limite de Idade
+- Militar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:373625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215517:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:373625:por
+  label: "Revogado pelo DEC LEI.296/84.31.08.1984.MDN, DR.IS [202] de 31.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1984-373625
+  date: '1984-08-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:55Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +112,7 @@ Considerando que é da maior conveniência permitir a esses oficiais uma mais lo
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ao artigo 4.º do [Decreto-Lei n.º 49324](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49324-1969-215517), de 27 de Outubro de 1969, é aditado o n.º 5 com a seguinte redacção:
+Artigo 1.º Ao artigo 4.º do [Decreto-Lei n.º 49324](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49324-1969-215517), de 27 de Outubro de 1969, é aditado o n.º 5 com a seguinte redacção:
 
 ###### ARTIGO 4.º
 
@@ -106,7 +120,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Quando circunstâncias excepcionais o justifiquem, o Ministro do Exército pode autorizar o ingresso no quadro especial de oficiais de oficiais que tenham ultrapassado, até ao máximo de dois anos, os limites de idade fixados no número 4 deste artigo.
 
-###### Art. 2.º Os n.os 1 do artigo 9.º e 2 do artigo 10.º do [Decreto-Lei n.º 49324](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49324-1969-215517), de 27 de Outubro de 1969, passam a ter a seguinte redacção:
+Art. 2.º Os n.os 1 do artigo 9.º e 2 do artigo 10.º do [Decreto-Lei n.º 49324](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49324-1969-215517), de 27 de Outubro de 1969, passam a ter a seguinte redacção:
 
 ###### ARTIGO 9.º
 
@@ -128,10 +142,10 @@ Subalterno - 42 anos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 26 de Novembro de 1970.**
+Promulgado em 26 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

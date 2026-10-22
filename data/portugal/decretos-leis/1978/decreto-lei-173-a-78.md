@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 155/1978, 1º Suplemento, Série I de 1978-07-08
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1274-(1) a 1274-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15501/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-a-1978-272589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29e3a6a01e7eb917ca12c82e1fb02c442570379282211dd9a2f9fdafd96d9fce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f8405c690753cd807bb298ffec2a09856499ec375626f5792459fd8a14599d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Auditor
+- Funchal
+- Infracção Aduaneira
+- Infracção Fiscal
+- Lisboa
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Orgânica
+- Ponta Delgada
+- Porto
+- Sistema Judicial
+- Supremo Tribunal Administrativo
+- Tribunal Fiscal Aduaneiro
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295850:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380127:por
+  label: "Revogados os nºs 1 e 3 do art. 9º pelo DEC LEI.301-A/99.1999.08.05.MJ, DR.IS-A [181]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-a-1999-380127
+  date: '1999-08-05'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:48Z'
   warnings: []
   errors: []
 ---
@@ -116,39 +156,39 @@ Nestes termos:
 
 Usando das autorizações conferidas pelas Leis n.os [22/78](https://diariodarepublica.pt/dr/detalhe/lei/22-1978-295850), de 11 de Maio, e [27/78](https://diariodarepublica.pt/dr/detalhe/lei/27-1978-295137), de 8 de Junho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os tribunais fiscais aduaneiros são de 1.ª e 2.ª instâncias.
+Artigo 1.º Os tribunais fiscais aduaneiros são de 1.ª e 2.ª instâncias.
 
-###### Art. 2.º - 1 - Os tribunais fiscais aduaneiros de 1.ª instância designam-se por auditorias fiscais e funcionam junto das Alfândegas de Lisboa e Porto.
+Art. 2.º - 1 - Os tribunais fiscais aduaneiros de 1.ª instância designam-se por auditorias fiscais e funcionam junto das Alfândegas de Lisboa e Porto.
 
 2 - Há duas auditorias fiscais em Lisboa e uma no Porto.
 
-###### Art. 3.º A 2.ª instância dos tribunais fiscais aduaneiros é a Secção do Contencioso Tributário do Supremo Tribunal Administrativo.
+Art. 3.º A 2.ª instância dos tribunais fiscais aduaneiros é a Secção do Contencioso Tributário do Supremo Tribunal Administrativo.
 
-###### Art. 4.º Em cada auditoria fiscal há um juiz auditor fiscal.
+Art. 4.º Em cada auditoria fiscal há um juiz auditor fiscal.
 
-###### Art. 5.º - 1 - As funções do juiz auditor fiscal são exercidas, em comissão de serviço, por juízes de direito, nomeados pelo Ministro das Finanças e do Plano.
+Art. 5.º - 1 - As funções do juiz auditor fiscal são exercidas, em comissão de serviço, por juízes de direito, nomeados pelo Ministro das Finanças e do Plano.
 
 2 - Estes magistrados auferem o vencimento fixado na [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro.
 
-###### Art. 6.º A Fazenda Nacional é representada nas auditorias fiscais pelo director da respectiva alfândega.
+Art. 6.º A Fazenda Nacional é representada nas auditorias fiscais pelo director da respectiva alfândega.
 
-###### Art. 7.º Em cada auditoria fiscal há uma secretaria, preenchida por funcionários do quadro administrativo das alfândegas, com a competência atribuída na legislação especial.
+Art. 7.º Em cada auditoria fiscal há uma secretaria, preenchida por funcionários do quadro administrativo das alfândegas, com a competência atribuída na legislação especial.
 
-###### Art. 8.º Às auditorias fiscais compete preparar e julgar os processos por transgressões fiscais aduaneiras cometidas dentro da sua área de jurisdição.
+Art. 8.º Às auditorias fiscais compete preparar e julgar os processos por transgressões fiscais aduaneiras cometidas dentro da sua área de jurisdição.
 
-###### Art. 9.º - 1 - As auditorias fiscais com sede em Lisboa têm como área de jurisdição as circunscrições aduaneiras de Lisboa, Funchal e Ponta Delgada e a auditoria fiscal com sede no Porto a circunscrição aduaneira do Porto.
+Art. 9.º - 1 - As auditorias fiscais com sede em Lisboa têm como área de jurisdição as circunscrições aduaneiras de Lisboa, Funchal e Ponta Delgada e a auditoria fiscal com sede no Porto a circunscrição aduaneira do Porto.
 
 2 - Os actos processuais da competência dos juízes auditores que tenham lugar fora da área da sede das auditorias podem ser solicitados aos tribunais judiciais, quando aqueles os não efectuem directamente.
 
 3 - Para o efeito do disposto no número anterior, a área da sede compreende, em Lisboa, as comarcas de Lisboa, Cascais, Oeiras, Sintra, Loures, Vila Franca de Xira, Montijo, Barreiro, Almada e Seixal e, no Porto, as comarcas do Porto, Matosinhos, Vila Nova de Gaia, Espinho, Paredes, Santo Tirso, Vila do Conde e Póvoa de Varzim.
 
-###### Art. 10.º Nas infracções fiscais aduaneiras, o inquérito preliminar rege-se pelas disposições que lhe são próprias, com as adaptações que se tornem necessárias, sendo efectuado pelas entidades aduaneiras e policiais mencionadas nos n.os 3 a 8 do artigo 55.º do Contencioso Aduaneiro ou, nas sedes das Alfândegas de Lisboa e Porto, pelos funcionários do quadro técnico-aduaneiro que os respectivos directores designarem.
+Art. 10.º Nas infracções fiscais aduaneiras, o inquérito preliminar rege-se pelas disposições que lhe são próprias, com as adaptações que se tornem necessárias, sendo efectuado pelas entidades aduaneiras e policiais mencionadas nos n.os 3 a 8 do artigo 55.º do Contencioso Aduaneiro ou, nas sedes das Alfândegas de Lisboa e Porto, pelos funcionários do quadro técnico-aduaneiro que os respectivos directores designarem.
 
-###### Art. 11.º - 1 - Recebido o auto de notícia, nos termos do artigo 93.º do Contencioso Aduaneiro, ou o inquérito preliminar, o juiz auditor ordena a notificação do arguido para contestar, no prazo de dez dias, ou a realização de diligências complementares, ou ainda o arquivamento do processo.
+Art. 11.º - 1 - Recebido o auto de notícia, nos termos do artigo 93.º do Contencioso Aduaneiro, ou o inquérito preliminar, o juiz auditor ordena a notificação do arguido para contestar, no prazo de dez dias, ou a realização de diligências complementares, ou ainda o arquivamento do processo.
 
 2 - Só cabe recurso das decisões que ponham termo ao processo.
 
-###### Art. 12.º - 1 - O pedido de pagamento voluntário ou de liquidação suspende o andamento normal do processo.
+Art. 12.º - 1 - O pedido de pagamento voluntário ou de liquidação suspende o andamento normal do processo.
 
 2 - O infractor pode efectuar o pagamento voluntário imediatamente, perante o autuante ou participante, ou, perante o juiz auditor, nos dez dias seguintes à apresentação do auto de notícia ou participação.
 
@@ -156,18 +196,18 @@ Usando das autorizações conferidas pelas Leis n.os [22/78](https://diariodarep
 
 4 - O pedido de liquidação, que pode ser logo formulado perante qualquer das entidades referidas no artigo 10.º, ou perante o juiz auditor, determina que se profira sentença relativamente ao infractor a que respeita, depois de apurada a eventual responsabilidade civil, seguindo o processo quanto aos restantes arguidos.
 
-###### Art. 13.º - 1 - Os processos por delitos fiscais aduaneiros cometidos até à data fixada no n.º 1 do artigo 301.º da Constituição da República prosseguirão seus termos ante a auditoria fiscal a que tenham sido distribuídos.
+Art. 13.º - 1 - Os processos por delitos fiscais aduaneiros cometidos até à data fixada no n.º 1 do artigo 301.º da Constituição da República prosseguirão seus termos ante a auditoria fiscal a que tenham sido distribuídos.
 
 2 - A intervenção no inquérito preliminar, ou a direcção da instrução relativa aos crimes referidos no número anterior, compete ao juiz da auditoria em que o processo estiver pendente, sendo o julgamento realizado por outro dos juízes auditores, independentemente da sua área de jurisdição e de acordo com distribuição equitativa.
 
-###### Art. 14.º Os actuais juízes auditores fiscais mantêm-se em exercício de funções, de harmonia com a Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na sua actual redacção.
+Art. 14.º Os actuais juízes auditores fiscais mantêm-se em exercício de funções, de harmonia com a Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na sua actual redacção.
 
-###### Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Dias dos Santos Pais - Herlânder dos Santos Estrela.
 
-**Promulgado em 7 de Julho de 1978.**
+Promulgado em 7 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

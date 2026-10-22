@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1980-473689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1e0b45f63afcc1f9de10850ba05658a58834f6e574b5a49d7da04d049baa484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 193388196aa499048250b0a8d14776f5dc6a4eca735d64581adbd17719e74d47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Proteção do Ambiente
+- Reserva Natural
+- Reserva Natural Parcial do PAUL de Boquilobo
 relationships:
 - type: amended_by
   target: pt:dre:694207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694207:por
+  label: "Revogado, com excepção do nº 1 do art. 3º e do art. 4º, pelo DR.49/97.1997.11.20.MAM, DR.IS-B [269], em tudo o que\
+    \ contrarie o disposto naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-1997-694207
+  date: '1997-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:50Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +121,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, a Reserva Natural Parcial do Paul do Boquilobo.
+Artigo 1.º É criada, ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, a Reserva Natural Parcial do Paul do Boquilobo.
 
-###### Art. 2.º A área da Reserva Natural Parcial do Paul do Boquilobo é definida pelos limites cartografados no mapa anexo ao presente diploma, que são os seguintes:
+Art. 2.º A área da Reserva Natural Parcial do Paul do Boquilobo é definida pelos limites cartografados no mapa anexo ao presente diploma, que são os seguintes:
 
 Norte: o caminho dos Canteiros, entre o rio Almonda e a vala Real, e o seu prolongamento para oeste, desde o caminho de ferro; a vala do Couto do Doutor e o seu prolongamento, denominado «vala do Pé da Galinha», entre a vala Real e a vala da Pereira.
 
@@ -116,7 +133,7 @@ Sul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referid
 
 Oeste: o caminho de ferro, para norte, desde a antiga passagem de nível até a um ponto situado no enfiamento do caminho dos Canteiros.
 
-###### Art. 3.º - 1 - Na área da Reserva Natural Parcial do Paul do Boquilobo ficam definidas as seguintes zonas, com utilização específica, de acordo com o mapa anexo ao presente diploma:
+Art. 3.º - 1 - Na área da Reserva Natural Parcial do Paul do Boquilobo ficam definidas as seguintes zonas, com utilização específica, de acordo com o mapa anexo ao presente diploma:
 
 a) Zona de protecção integral:
 
@@ -132,7 +149,7 @@ b) Zona de uso extensivo, tendo como limites exteriores os descritos no artigo 2
 
 2 - A Reserva Natural Parcial do Paul do Boquilobo será sinalizada no terreno por placas de modelos aprovados pelo Secretário de Estado do Ordenamento e Ambiente.
 
-###### Art. 4.º - 1 - Na zona de protecção integral é expressamente interdito, constituindo contravenção, o acesso de pessoas, bem como qualquer tipo de actividade.
+Art. 4.º - 1 - Na zona de protecção integral é expressamente interdito, constituindo contravenção, o acesso de pessoas, bem como qualquer tipo de actividade.
 
 2 - A proibição de acesso constante do número anterior não abrange:
 
@@ -148,7 +165,7 @@ a) A captura de animais, plantas, material geológico ou pedológico exclusivame
 
 b) Qualquer outra actividade consentânea com a gestão adequada dos recursos desta zona.
 
-###### Art. 5.º Na zona de uso extensivo é interdito:
+Art. 5.º Na zona de uso extensivo é interdito:
 
 a) Qualquer forma de caça ou captura de espécies animais fora dos casos especiais que o director, ouvidos o conselho geral e a comissão científica da Reserva, venha a ressalvar, especificamente, por motivos ponderosos;
 
@@ -166,7 +183,7 @@ g) Proceder a qualquer alteração do relevo natural, excepto as que se destinem
 
 h) A utilização de qualquer tipo de veículo terrestre ou embarcação, excepto quando em missão de serviço para a Reserva, para o exercício das actividades de exploração agrícola ou por motivos fortemente imperativos.
 
-###### Art. 6.º É proibido em toda a área da Reserva Natural Parcial do Paul do Boquilobo:
+Art. 6.º É proibido em toda a área da Reserva Natural Parcial do Paul do Boquilobo:
 
 a) O sobrevoo por aeronaves que circulem com o tecto de voo inferior a 200 m;
 
@@ -174,7 +191,7 @@ b) A utilização de aparelhos de amplificação sonora e de radiodifusão, exce
 
 c) Construir, reconstruir, ampliar ou alterar construções existentes, bem como efectuar qualquer obra de aterro ou escavação e drenagem sem autorização prévia do director, ouvido o conselho geral e em casos devidamente fundamentados.
 
-###### Art. 7.º - 1 - As infracções ao disposto nos artigos anteriores, sem prejuízo de outras sanções aplicáveis, de acordo com a legislação geral em vigor, são punidas pelo director da Reserva com as seguintes multas:
+Art. 7.º - 1 - As infracções ao disposto nos artigos anteriores, sem prejuízo de outras sanções aplicáveis, de acordo com a legislação geral em vigor, são punidas pelo director da Reserva com as seguintes multas:
 
 a) 1000$00 a 10000$00, as do artigo 7.º e da alínea d) do artigo 6.º;
 
@@ -190,7 +207,7 @@ c) 5000$00 a 50000$00, as das alíneas a) e c) do artigo 6.º
 
 5 - Quando o infractor não pague voluntariamente as despesas no prazo de trinta dias contados da notificação, por carta registada, a cobrança será efectuada por via judicial, servindo o auto e nota de despesas de título executivo.
 
-###### Art. 8.º - 1 - A fiscalização compete:
+Art. 8.º - 1 - A fiscalização compete:
 
 a) Aos vigilantes do Serviço Nacional de Parques, Reservas e Património Paisagístico;
 
@@ -204,7 +221,7 @@ c) A todas as entidades representadas no conselho geral da Reserva Natural Parci
 
 4 - As infracções ao disposto neste diploma serão participadas pelos agentes aos seus superiores hierárquicos, que os encaminharão, para decisão, ao director da Reserva.
 
-###### Art. 9.º - 1 - A Reserva Natural Parcial do Paul do Boquilobo, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, disporá dos seguintes órgãos e serviços responsáveis pela sua gestão:
+Art. 9.º - 1 - A Reserva Natural Parcial do Paul do Boquilobo, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, disporá dos seguintes órgãos e serviços responsáveis pela sua gestão:
 
 a) Director;
 
@@ -232,20 +249,20 @@ e um vogal da comissão científica.
 
 4 - Os serviços administrativos da Reserva ficarão a cargo dos Serviços Centrais do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 10.º - 1 - As despesas resultantes da execução do presente diploma e, bem assim, as que resultem da necessidade de dar cumprimento às finalidades para que a Reserva foi criada serão suportadas pelas verbas adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
+Art. 10.º - 1 - As despesas resultantes da execução do presente diploma e, bem assim, as que resultem da necessidade de dar cumprimento às finalidades para que a Reserva foi criada serão suportadas pelas verbas adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
 2 - Exceptuam-se as despesas com a exploração agrícola, bem como as relativas a obras de hidráulica da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, ou outras não previstas no plano de gestão da Reserva, despesas cuja origem se deve a intervenções devidamente autorizadas pela Secretaria de Estado do Ordenamento e Ambiente.
 
-###### Art. 11.º Por portaria do membro do Governo que superintender no ordenamento e ambiente ou do respectivo Ministro, poderá ser criada uma zona de protecção à Reserva, na qual serão aplicadas, no todo ou em parte, as medidas restritivas e punitivas previstas neste diploma.
+Art. 11.º Por portaria do membro do Governo que superintender no ordenamento e ambiente ou do respectivo Ministro, poderá ser criada uma zona de protecção à Reserva, na qual serão aplicadas, no todo ou em parte, as medidas restritivas e punitivas previstas neste diploma.
 
-###### Art. 12.º As dúvidas que suscitarem a execução e interpretação do presente diploma serão resolvidas por despacho do membro do Governo que superintender no ordenamento e ambiente e dos titulares de outros departamentos de Estado interessados.
+Art. 12.º As dúvidas que suscitarem a execução e interpretação do presente diploma serão resolvidas por despacho do membro do Governo que superintender no ordenamento e ambiente e dos titulares de outros departamentos de Estado interessados.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Junho de 1980.**
+Promulgado em 2 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14300/14521455.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14300/14521455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14300/14521455.pdf)

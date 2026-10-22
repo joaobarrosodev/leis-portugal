@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 128/1975, 4º Suplemento, Série I de 1975-06-04
   number: '128'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 774-(9) a 774-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/12804/00090010.pdf
 entry_into_force_dates: []
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-b-1975-389809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 802d27f3dc541477f28ae15bdc226a9c834e0cb55b25908c0520d1183d472a0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 187ef89ab53fd6f7c4cbb87cf25a8bafc87dfb7d5370b30f11127a2388a3fcdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Barragem
+- Cabora Bassa
+- Moçambique.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:646092:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:07Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +97,11 @@ Tendo em conta o Protocolo de Acordo entre o Estado Português e a Frelimo, assi
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, 3.º, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Finanças autorizado a, uma vez outorgadas pelo Governo de Moçambique as concessões de construção e exploração relativas ao aproveitamento hidroeléctrico de Cabora Bassa, transferir, em nome do Estado, nas condições em que os contratos ou a lei aplicável o permitirem, para a sociedade concessionária, constituída nos termos do Protocolo de Acordo entre o Estado Português e a Frelimo, assinado em Lourenço Marques em 14 de Abril de 1975, e da legislação aí prevista, as posições contratuais do Estado Português no acordo de fornecimento de energia celebrado com a ESCOM, Electricity Supply Commission (República da África do Sul), em 19 de Setembro de 1969, no contrato celebrado com o Consórcio ZAMCO, em 19 de Setembro de 1969, nos contratos celebrados com o Consórcio CCI-CGEE/ALSTHOM/LTA., em 26 e 29 de Março de 1974, bem como nos restantes contratos de empreitada, fornecimento, prestação de serviços e mútuo, destinados directa ou indirectamente à construção e exploração do aproveitamento hidroeléctrico de Cabora Bassa, incluindo as linhas de transporte para a República da África do Sul e para o sistema de produção e transporte da SHER, Sociedade Hidroeléctrica do Revuè, S. A. R. L.
+Artigo 1.º Fica o Ministro das Finanças autorizado a, uma vez outorgadas pelo Governo de Moçambique as concessões de construção e exploração relativas ao aproveitamento hidroeléctrico de Cabora Bassa, transferir, em nome do Estado, nas condições em que os contratos ou a lei aplicável o permitirem, para a sociedade concessionária, constituída nos termos do Protocolo de Acordo entre o Estado Português e a Frelimo, assinado em Lourenço Marques em 14 de Abril de 1975, e da legislação aí prevista, as posições contratuais do Estado Português no acordo de fornecimento de energia celebrado com a ESCOM, Electricity Supply Commission (República da África do Sul), em 19 de Setembro de 1969, no contrato celebrado com o Consórcio ZAMCO, em 19 de Setembro de 1969, nos contratos celebrados com o Consórcio CCI-CGEE/ALSTHOM/LTA., em 26 e 29 de Março de 1974, bem como nos restantes contratos de empreitada, fornecimento, prestação de serviços e mútuo, destinados directa ou indirectamente à construção e exploração do aproveitamento hidroeléctrico de Cabora Bassa, incluindo as linhas de transporte para a República da África do Sul e para o sistema de produção e transporte da SHER, Sociedade Hidroeléctrica do Revuè, S. A. R. L.
 
-###### Art. 2.º Os bens pertencentes ao Estado que se encontram afectados aos Serviços Regionais de Fiscalização da Obra de Cabora Bassa e que interessem à conclusão desta ou à sua exploração, incluindo edifícios, equipamento, aeronaves e outros semoventes, serão transferidos para a sociedade concessionária referida no artigo anterior.
+Art. 2.º Os bens pertencentes ao Estado que se encontram afectados aos Serviços Regionais de Fiscalização da Obra de Cabora Bassa e que interessem à conclusão desta ou à sua exploração, incluindo edifícios, equipamento, aeronaves e outros semoventes, serão transferidos para a sociedade concessionária referida no artigo anterior.
 
-###### Art. 3.º - 1. Os funcionários públicos poderão ser autorizados, mediante despacho do Ministro competente, a exercerem as funções de administrador da sociedade concessionária mencionada no artigo 1.º ou a prestarem serviço nela, mediante contrato de trabalho ou de prestação de serviços, com suspensão do exercício efectivo de funções públicas e do direito ao vencimento, mas sem perda nem suspensão da qualidade de funcionário, nem do direito ao lugar em que se encontre provido, ou àquele que o venha a substituir.
+Art. 3.º - 1. Os funcionários públicos poderão ser autorizados, mediante despacho do Ministro competente, a exercerem as funções de administrador da sociedade concessionária mencionada no artigo 1.º ou a prestarem serviço nela, mediante contrato de trabalho ou de prestação de serviços, com suspensão do exercício efectivo de funções públicas e do direito ao vencimento, mas sem perda nem suspensão da qualidade de funcionário, nem do direito ao lugar em que se encontre provido, ou àquele que o venha a substituir.
 
 2. No caso de extinção do lugar, sem substituição por outro, o funcionário que nele se encontrasse provido e esteja na situação contemplada no número antecedente terá direito a colocação em termos idênticos aos dos restantes funcionários do mesmo quadro e categoria, sem prejuízo da continuação da suspensão do exercício de funções públicas.
 
@@ -101,7 +109,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, 3.º, da Lei Constitucio
 
 4. As primeiras autorizações caducam se, no prazo de três meses a partir do momento em que sejam comunicadas aos interessados, estes não tomarem posse do cargo na sociedade concessionária ou não entrar em vigor o contrato de trabalho ou de prestação de serviços com a mesma; e as renovações de autorização caducam se não houver renovação do mandato do contrato de trabalho ou de prestação de serviços com a sociedade concessionária.
 
-###### Art. 4.º - 1. Os funcionários na situação referida no artigo anterior poderão optar por um dos dois seguintes regimes:
+Art. 4.º - 1. Os funcionários na situação referida no artigo anterior poderão optar por um dos dois seguintes regimes:
 
 a) Regime segundo o qual mantêm o exercício e cumprimento de todos os direitos e deveres de carácter social próprios do estatuto do funcionalismo público, contando-se o tempo de serviço prestado na sociedade concessionária como se fosse prestado no lugar em que se encontrem providos;
 
@@ -113,7 +121,7 @@ b) Regime segundo o qual fica suspenso o exercício dos direitos e o cumprimento
 
 4. A opção a que se refere o n.º 1 deste artigo deve, salvo no caso referido no n.º 1 do artigo 5.º, ser feita no requerimento em que o funcionário solicite a autorização ou renovação de autorização previstas no artigo 3.º, aplicando-se, na falta de opção, o regime consignado na alínea a) do n.º 1 do presente artigo.
 
-###### Art. 5.º - 1. Os funcionários dos Serviços Regionais de Fiscalização da Obra de Cabora Bassa consideram-se desde já autorizados a celebrar, com a sociedade concessionária, contrato para continuação do exercício das funções que desempenham.
+Art. 5.º - 1. Os funcionários dos Serviços Regionais de Fiscalização da Obra de Cabora Bassa consideram-se desde já autorizados a celebrar, com a sociedade concessionária, contrato para continuação do exercício das funções que desempenham.
 
 2. Os contratos que não sejam de provimento, em vigor com o mencionado pessoal, poderão ser transferidos para a sociedade concessionária referida no artigo 1.º, mediante o acordo desta e a anuência dos interessados.
 
@@ -127,16 +135,16 @@ c) Os servidores com contrato de prestação de serviços que não hajam transit
 
 Não sendo destacados, o contrato considerar-se-á denunciado para o termo do prazo em curso.
 
-###### Art. 6.º O pessoal dos Serviços de Fiscalização da Obra de Cabora Bassa deverá transitoriamente continuar a exercer as suas funções até que decorra um mês sobre a outorga das concessões referidas no artigo 1.º, independentemente de contrato com a sociedade concessionária, desde que esta assim o requeira e aceite suportar os respectivos encargos.
+Art. 6.º O pessoal dos Serviços de Fiscalização da Obra de Cabora Bassa deverá transitoriamente continuar a exercer as suas funções até que decorra um mês sobre a outorga das concessões referidas no artigo 1.º, independentemente de contrato com a sociedade concessionária, desde que esta assim o requeira e aceite suportar os respectivos encargos.
 
-###### Art. 7.º O disposto neste diploma não prejudica a possibilidade de acumulação do exercício de funções públicas com o de cargos sociais na concessionária, nas condições e termos gerais de direito.
+Art. 7.º O disposto neste diploma não prejudica a possibilidade de acumulação do exercício de funções públicas com o de cargos sociais na concessionária, nas condições e termos gerais de direito.
 
-###### Art. 8.º Este decreto-lei entra imediatamente em vigor.
+Art. 8.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - António de Almeida Santos - José Joaquim Fragoso - Jorge Fernando Branco de Sampaio.
 
-**Promulgado em 4 de Junho de 1975.**
+Promulgado em 4 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente de República Interino, JOSÉ BAPTISTA PINHEIRO DE AZEVEDO.**
+O Presidente de República Interino, JOSÉ BAPTISTA PINHEIRO DE AZEVEDO.

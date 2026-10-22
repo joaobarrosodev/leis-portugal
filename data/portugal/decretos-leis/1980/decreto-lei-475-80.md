@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1980-462065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f34a3d108a40fad426f57b22dba788c4a7cf776b62ae038795d49b154e67544
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f63b51bcb43cb8c078d51b3fa83c7d091c3303e94231d04ea48136d49215234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Serviço
+- Conservador
 relationships:
 - type: amended_by
   target: pt:dre:524225:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:524225:por
+  label: "Revogado o nº 1 do art. 1º, pelo DEC LEI.40/94.1994.02.11.MJ, DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1994-524225
+  date: '1994-02-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:22Z'
   warnings: []
   errors: []
 ---
@@ -102,18 +117,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os conservadores e notários que desempenhem funções, em comissão de serviço ou em regime de requisição, em lugares dos serviços centrais da Direcção-Geral dos Registos e do Notariado conservam todos os direitos e regalias do quadro de origem, como se nele exercessem funções, e podem optar pelos respectivos vencimentos e demais abonos.
+Artigo 1.º - 1 - Os conservadores e notários que desempenhem funções, em comissão de serviço ou em regime de requisição, em lugares dos serviços centrais da Direcção-Geral dos Registos e do Notariado conservam todos os direitos e regalias do quadro de origem, como se nele exercessem funções, e podem optar pelos respectivos vencimentos e demais abonos.
 
 2 - Para efeitos do disposto no número anterior, a participação emolumentar será igual à máxima de que o lugar de origem seja susceptível e os emolumentos pessoais serão calculados com base na média dos últimos doze meses anteriores à entrada em vigor deste diploma ou, em cada ano, em função da média do ano imediatamente anterior, conforme for mais favorável ao funcionário, em comissão de serviço ou em regime de requisição.
 
 3 - O disposto nos números anteriores produz efeitos desde 1 de Abril de 1980.
 
-###### Art. 2.º Os encargos decorrentes da execução do presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 2.º Os encargos decorrentes da execução do presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

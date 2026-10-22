@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 198/1975, 1º Suplemento, Série I de 1975-08-28
   number: '198'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1250-(1) a 1250-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/19801/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-a-1975-428845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f714afa1b9dca2f7bf83c1053b0cde7df264a322557187341614b896c80b634a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bb9a9e8ed0d907ddeed745b0f0e845c4734b9b6343e29087530d67ef9c3ee07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- Sociedade Anónima
+- TAP
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283305:por
+  label: "Substitu&#237;dos os estatutos pelo DEC LEI.471-A/76.14.06.1976.MTC, DR.IS [138]2&#186;Supl de 14.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/471-a-1976-283305
+  date: '1976-06-14'
+- type: cites
+  target: pt:dre:497835:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:14Z'
   warnings: []
   errors: []
 ---
@@ -94,23 +112,23 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Em cumprimento do [Decreto-Lei n.º 205-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-e-1975-497835), de 16 de Abril, a empresa Transportes Aéreos Portugueses, S. A. R. L., é transformada em Transportes Aéreos Portugueses (TAP), mantendo a sua personalidade jurídica, e passará a regular a sua actividade pelos estatutos anexos a este decreto-lei, que dele fazem parte integrante e subsistem os estatutos dos Transportes Aéreos Portugueses, S. A. R. L.
+Artigo 1.º Em cumprimento do [Decreto-Lei n.º 205-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-e-1975-497835), de 16 de Abril, a empresa Transportes Aéreos Portugueses, S. A. R. L., é transformada em Transportes Aéreos Portugueses (TAP), mantendo a sua personalidade jurídica, e passará a regular a sua actividade pelos estatutos anexos a este decreto-lei, que dele fazem parte integrante e subsistem os estatutos dos Transportes Aéreos Portugueses, S. A. R. L.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - Mário Luís da Silva Murteira - Henrique Manuel Araújo de Oliveira Sá - José Inácio da Costa Martins.
 
-**Promulgado em 28 de Agosto de 1975.**
+Promulgado em 28 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## Anexo ao Decreto-Lei n.º 469-A/75
+Anexo ao Decreto-Lei n.º 469-A/75
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. A empresa Transportes Aéreos Portugueses constitui uma empresa pública, adopta a abreviatura TAP e regulará a sua actividade por estes estatutos, que substituem os estatutos da TAP, S. A. R. L., nacionalizada por força do [Decreto-Lei n.º 205-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-e-1975-497835), de 16 de Abril.
+Artigo 1.º - 1. A empresa Transportes Aéreos Portugueses constitui uma empresa pública, adopta a abreviatura TAP e regulará a sua actividade por estes estatutos, que substituem os estatutos da TAP, S. A. R. L., nacionalizada por força do [Decreto-Lei n.º 205-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-e-1975-497835), de 16 de Abril.
 
 2. A empresa TAP é dotada de personalidade jurídica e de autonomia administrativa e financeira e património próprio.
 
@@ -118,7 +136,7 @@ Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José
 
 4. Poderão ser criadas no País ou no estrangeiro quaisquer agências ou formas de representação social.
 
-###### Art. 2.º - 1. A exploração de transportes aéreos de passageiros, carga e correio constitui o objecto principal da empresa. Acessoriamente, poderá a TAP explorar os serviços e efectuar as operações comerciais, industriais e financeiras relacionadas, directa ou indirectamente, no todo ou em parte, com o objecto principal atrás definido ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
+Art. 2.º - 1. A exploração de transportes aéreos de passageiros, carga e correio constitui o objecto principal da empresa. Acessoriamente, poderá a TAP explorar os serviços e efectuar as operações comerciais, industriais e financeiras relacionadas, directa ou indirectamente, no todo ou em parte, com o objecto principal atrás definido ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
 
 2. Nos limites das atribuições conferidas à TAP no número anterior poderá esta:
 
@@ -134,13 +152,13 @@ e) Celebrar com outras empresas de transporte os acordos que se revelem vantajos
 
 f) Exercer outras actividades complementares ou subsidiárias da exploração, bem como outros ramos de actividade comercial ou industrial que não prejudiquem a prossecução do seu objecto principal.
 
-###### Art. 3.º A empresa estabelecerá, em regulamentos internos, sujeitos à homologação do Ministro dos Transportes e Comunicações, as normas necessárias ao seu bom funcionamento.
+Art. 3.º A empresa estabelecerá, em regulamentos internos, sujeitos à homologação do Ministro dos Transportes e Comunicações, as normas necessárias ao seu bom funcionamento.
 
 ### CAPÍTULO II — Da administração
 
-###### Art. 4.º A empresa TAP será gerida por uma comissão administrativa, composta por um mínimo de três membros e o máximo de cinco, nomeados por despacho do Primeiro-Ministro, sob proposta do Ministro dos Transportes e Comunicações.
+Art. 4.º A empresa TAP será gerida por uma comissão administrativa, composta por um mínimo de três membros e o máximo de cinco, nomeados por despacho do Primeiro-Ministro, sob proposta do Ministro dos Transportes e Comunicações.
 
-###### Art. 5.º - 1. A comissão administrativa terá todos os poderes necessários ao desenvolvimento e gestão do património da empresa, incluindo a aquisição e oneração dos seus bens, representação em juízo e fora dele e funcionamento dos serviços a seu cargo.
+Art. 5.º - 1. A comissão administrativa terá todos os poderes necessários ao desenvolvimento e gestão do património da empresa, incluindo a aquisição e oneração dos seus bens, representação em juízo e fora dele e funcionamento dos serviços a seu cargo.
 
 2. Para os fins previstos no número anterior poderá a comissão administrativa:
 
@@ -154,25 +172,25 @@ b) Conferir mandatos que julgar convenientes.
 
 5. A comissão administrativa deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que os interesses da sociedade o exijam, ficando a estrutura e o funcionamento da comissão sujeita às regras que ela própria estabeleça.
 
-###### Art. 6.º Os vencimentos dos elementos que compõem a comissão administrativa e a comissão de fiscalização serão fixados por despacho do Ministro dos Transportes e Comunicações.
+Art. 6.º Os vencimentos dos elementos que compõem a comissão administrativa e a comissão de fiscalização serão fixados por despacho do Ministro dos Transportes e Comunicações.
 
 ### CAPÍTULO III — Da comissão de fiscalização
 
-###### Art. 7.º - 1. A empresa TAP terá uma comissão de fiscalização composta por três membros, sendo dois nomeados pelo Ministro das Finanças e um nomeado pelo Ministro dos Transportes e Comunicações.
+Art. 7.º - 1. A empresa TAP terá uma comissão de fiscalização composta por três membros, sendo dois nomeados pelo Ministro das Finanças e um nomeado pelo Ministro dos Transportes e Comunicações.
 
 2. Ao membros da comissão de fiscalização aplicar-se-á o disposto no artigo 6.º
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 8.º - 1. O trabalho prestado à empresa fica sujeito ao regime geral que regula a relação de trabalho, ao acordo colectivo em vigor, sem prejuízo do disposto neste artigo.
+Art. 8.º - 1. O trabalho prestado à empresa fica sujeito ao regime geral que regula a relação de trabalho, ao acordo colectivo em vigor, sem prejuízo do disposto neste artigo.
 
 2. Outros regimes especiais que, de futuro, haja que introduzir exigidos pelas características próprias dos serviços constarão de decretos regulamentares referendados pelos Ministros dos Transportes e Comunicações e do Trabalho.
 
-###### Art. 9.º Podem exercer funções na empresa, em comissão de serviço, funcionários do Estado, dos institutos públicos ou das autarquias locais, que manterão todos os direitos inerentes ao seu cargo de origem, incluindo os benefícios de apresentação e sobrevivência, considerando-se todo o período da comissão como prestado nesse mesmo quadro.
+Art. 9.º Podem exercer funções na empresa, em comissão de serviço, funcionários do Estado, dos institutos públicos ou das autarquias locais, que manterão todos os direitos inerentes ao seu cargo de origem, incluindo os benefícios de apresentação e sobrevivência, considerando-se todo o período da comissão como prestado nesse mesmo quadro.
 
 ### CAPÍTULO V — Da gestão financeira
 
-###### Art. 10.º - 1. A gestão financeira e patrimonial da TAP será disciplinada pelas seguintes revisões, cuja preparação deve ser promovida pela comissão administrativa:
+Art. 10.º - 1. A gestão financeira e patrimonial da TAP será disciplinada pelas seguintes revisões, cuja preparação deve ser promovida pela comissão administrativa:
 
 a) Programa de desenvolvimento e financeiro plurianual;
 
@@ -186,17 +204,17 @@ c) Orçamento anual.
 
 4. O orçamento será ordinário e extraordinário, prevendo-se no primeiro a conta dos lucros e perdas, que tomará em consideração as previsões da conta de exploração e no segundo as contas de estabelecimento e renovação.
 
-###### Art. 11.º - 1. Os programas, os orçamentos anuais e a contabilidade da TAP serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
+Art. 11.º - 1. Os programas, os orçamentos anuais e a contabilidade da TAP serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
 
 2. Na execução do orçamento e na contabilidade assegurar-se-á a fiscalização da arrecadação das receitas e da regularidade das despesas.
 
-###### Art. 12.º Nos encargos financeiros contabilizar-se-ão apenas juros, taxas, comissões e outras despesas respeitantes aos empréstimos contraídos, devendo as amortizações financeiras dos empréstimos ser levadas à conta de tesouraria.
+Art. 12.º Nos encargos financeiros contabilizar-se-ão apenas juros, taxas, comissões e outras despesas respeitantes aos empréstimos contraídos, devendo as amortizações financeiras dos empréstimos ser levadas à conta de tesouraria.
 
-###### Art. 13.º Se das receitas e despesas mencionadas nos artigos anteriores resultar um saldo positivo de exercício, será o mesmo aplicado na constituição de um fundo de autofinanciamento.
+Art. 13.º Se das receitas e despesas mencionadas nos artigos anteriores resultar um saldo positivo de exercício, será o mesmo aplicado na constituição de um fundo de autofinanciamento.
 
-###### Art. 14.º As disponibilidades que se não encontrem aplicadas e não sejam necessárias aos serviços de tesouraria podem aplicar-se na constituição de depósitos a prazo em instituições de crédito do Estado.
+Art. 14.º As disponibilidades que se não encontrem aplicadas e não sejam necessárias aos serviços de tesouraria podem aplicar-se na constituição de depósitos a prazo em instituições de crédito do Estado.
 
-###### Art. 15.º - 1. A empresa elaborará mensalmente balancete da situação a apresentar à comissão de fiscalização referida no artigo 7.º
+Art. 15.º - 1. A empresa elaborará mensalmente balancete da situação a apresentar à comissão de fiscalização referida no artigo 7.º
 
 2. Deverão ser igualmente elaborados, com referência a 31 de Dezembro de cada ano, o balanço e conta de ganhos e perdas.
 
@@ -204,6 +222,6 @@ c) Orçamento anual.
 
 ### CAPÍTULO VI — Disposição final
 
-###### Art. 16.º Poderá o Ministro dos Transportes e Comunicações, por simples despacho, resolver as dúvidas suscitadas pelo presente diploma, bem como integrar as eventuais lacunas.
+Art. 16.º Poderá o Ministro dos Transportes e Comunicações, por simples despacho, resolver as dúvidas suscitadas pelo presente diploma, bem como integrar as eventuais lacunas.
 
-**O Ministro dos Transportes e Comunicações, Henrique Manuel Araújo de Oliveira Sá.**
+O Ministro dos Transportes e Comunicações, Henrique Manuel Araújo de Oliveira Sá.

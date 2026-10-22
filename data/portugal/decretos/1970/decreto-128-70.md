@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/128-1970-228631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13c571e6a298412aa1c1deb7e6edff3e34c8e0fec1d77ea0bc65ea0a184b1eea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ead3fd7a274590bcbc05ad73d2959eb02c7212168be1a1a911e99dbd70a23fb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:43Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ Entendendo-se conveniente alterar o regime estabelecido no artigo 267.º do Decr
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Dá-se por findo o prazo de proibição fixado no artigo 267.º do Decreto n.º 47847, de 14 de Agosto de 1967.
+Artigo 1.º Dá-se por findo o prazo de proibição fixado no artigo 267.º do Decreto n.º 47847, de 14 de Agosto de 1967.
 
-###### Art. 2.º A exportação a que se refere aquele preceito poderá ser autorizada por despacho do Secretário de Estado da Agricultura, mediante parecer da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º A exportação a que se refere aquele preceito poderá ser autorizada por despacho do Secretário de Estado da Agricultura, mediante parecer da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Marcello Caetano - João Augusto Dias Rosas - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 13 de Março de 1970.**
+Promulgado em 13 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 23 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

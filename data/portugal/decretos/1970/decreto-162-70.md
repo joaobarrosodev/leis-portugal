@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/162-1970-225820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e4e0c40feef9df4a890e3c5c8418604a654de424c4aaddbd5ea948ff4405882
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bea9a716f9e01a6be66273482c278de23b6d0426a502a992dc52904fa6aed265
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:51Z'
   warnings: []
   errors: []
 ---
@@ -87,21 +87,21 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a província da Guiné a contrair no Banco Nacional Ultramarino um empréstimo, no montante de 15000000$00, à taxa de juro de 2,5 por cento ao ano, pagável aos semestres, em 1 de Julho e 1 de Dezembro, e amortizável em vinte semestralidades iguais, com início em Julho de 1973.
+Artigo 1.º - 1. É autorizada a província da Guiné a contrair no Banco Nacional Ultramarino um empréstimo, no montante de 15000000$00, à taxa de juro de 2,5 por cento ao ano, pagável aos semestres, em 1 de Julho e 1 de Dezembro, e amortizável em vinte semestralidades iguais, com início em Julho de 1973.
 
 2. O empréstimo será objecto de contrato a celebrar entre o Ministro do Ultramar, em representação da província, e o Banco Nacional Ultramarino.
 
-###### Art. 2.º O produto do empréstimo será integralmente aplicado no financiamento de empreendimentos abrangidos pelo III Plano de Fomento.
+Art. 2.º O produto do empréstimo será integralmente aplicado no financiamento de empreendimentos abrangidos pelo III Plano de Fomento.
 
-###### Art. 3.º O empréstimo poderá ser representado por títulos emitidos pela província da Guiné.
+Art. 3.º O empréstimo poderá ser representado por títulos emitidos pela província da Guiné.
 
-###### Art. 4.º No orçamento geral da província da Guiné serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
+Art. 4.º No orçamento geral da província da Guiné serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

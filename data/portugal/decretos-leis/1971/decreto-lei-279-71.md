@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1971-643325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ba8b2c4b84538d5a886647641a81fcc7484f43788fcfd9d363fc01b55a0c2b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbc3af02b815b4e8ecf6388aa5ad673aeea371caf0122d41e2fcd5fa70cea9ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Ministro da Educação Nacional
+- Ministro do Exército
+relationships:
+- type: cites
+  target: pt:dre:147199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:14Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +112,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Por decretos referendados pelos Ministros do Exército e da Educação Nacional poderão ser definidas alterações às disposições constantes dos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, referentes aos seguintes assuntos:
+Artigo 1.º Por decretos referendados pelos Ministros do Exército e da Educação Nacional poderão ser definidas alterações às disposições constantes dos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, referentes aos seguintes assuntos:
 
 a) Matérias professadas na Academia Militar;
 
@@ -105,22 +120,22 @@ b) Distribuição das matérias pelos vários cursos;
 
 c) Provimento dos lugares de professores civis da Academia Militar, catedráticos e adjuntos e suas obrigações.
 
-###### Art. 2.º Mediante portaria do Ministro do Exército, poderão ser alteradas disposições constantes dos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, referentes aos seguintes assuntos:
+Art. 2.º Mediante portaria do Ministro do Exército, poderão ser alteradas disposições constantes dos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, referentes aos seguintes assuntos:
 
 a) Distribuição das matérias essencialmente militares pelos vários cursos;
 
 b) Aproveitamento dos alunos.
 
-###### Art. 3.º Sempre que for alterada matéria que interesse à Força Aérea, deverá ser ouvido o Secretário de Estado da Aeronáutica.
+Art. 3.º Sempre que for alterada matéria que interesse à Força Aérea, deverá ser ouvido o Secretário de Estado da Aeronáutica.
 
-###### Art. 4.º As disposições deste diploma manter-se-ão em vigor até à publicação do Estatuto da Academia Militar.
+Art. 4.º As disposições deste diploma manter-se-ão em vigor até à publicação do Estatuto da Academia Militar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - José Veiga Simão.
 
-**Promulgado em 18 de Junho de 1971.**
+Promulgado em 18 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

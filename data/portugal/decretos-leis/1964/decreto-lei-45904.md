@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45904-1964-539672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9c998942f9c9034e7953b5dd4daaa54a5b81130c773c64d95d01ebcef0820ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6caa8b74ca4f18859be24b7f5010358ae2b64c55203ed06c7944c71319076422
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avião
+- Convenção
+- Crime
+- Jurisdição
+- Macau
+- Portugal
+- Responsabilidade Internacional
+- Segurança Aérea
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:108051989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534637:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.130/99.1999.04.22.PR,\
+    \ DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/130-1999-534637
+  date: '1999-04-22'
+- type: amended_by
+  target: pt:dre:108051989:por
+  label: Aprovado o Protocolo que altera a Convenção Referente às Infrações e a Certos Outros Atos Cometidos a Bordo de Aeronaves
+    aprovada pelo presente diploma, pelo(a) Resolução da Assembleia da República n.º 216/2017 - Diário da República n.º 163/2017,
+    Série I de 2017-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/216-2017-108051989
+  date: '2017-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:27Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +111,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo relativo às infracções e a certos outros actos cometidos a bordo de aeronaves, assinado em Tóquio a 14 de Setembro de 1963, cujos textos, em inglês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo relativo às infracções e a certos outros actos cometidos a bordo de aeronaves, assinado em Tóquio a 14 de Setembro de 1963, cujos textos, em inglês e respectiva tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

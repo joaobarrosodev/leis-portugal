@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1971-642732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 267bf5fa7dcffe434dd4b86facc19185406d3a775abe5f9e657649bd6affe329
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b170eb9ef4535cb88bb32c93809f75a54e87d4daeebfee37fbac07e706da88a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Ensino Superior Militar
+- Estabelecimento de Ensino
+- Forças Armadas
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:147838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:643108:por
+  label: Rectificado pela DECL.DD9913.02.08.1971.PC, DG.IS [180] de 02.08.1971
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1971-643108
+  date: '1971-08-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:20Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +111,18 @@ Considerando que os mesmos professores devem receber a respectiva gratificação
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 24.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, passa a ter a seguinte redacção:
+Artigo único. O artigo 24.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 24.º As acumulações do ensino das cadeiras previstas no plano de estudos da Academia Militar dão direito, tanto a professores catedráticos como a adjuntos, à acumulação de gratificações de regência, não devendo, contudo, em princípio, atribuir-se a cada professor mais do que a regência de duas cadeiras.
+Art. 24.º As acumulações do ensino das cadeiras previstas no plano de estudos da Academia Militar dão direito, tanto a professores catedráticos como a adjuntos, à acumulação de gratificações de regência, não devendo, contudo, em princípio, atribuir-se a cada professor mais do que a regência de duas cadeiras.
 
 § único. Apenas, quando circunstâncias excepcionais imponham a acumulação simultânea do ensino de mais de duas cadeiras, poderá ser autorizada, por despacho do Ministro do Exército, a acumulação das respectivas gratificações.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 8 de Julho de 1971.**
+Promulgado em 8 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

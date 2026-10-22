@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/07/17100/09900992.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45151-1963-693642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18a4b5c7a5ae825a18c16b3458f0caae965132d8b4ad8d37031c6bc98ab48264
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f3d7bad1418cdba5fcc384dcbe518549aeb188639f2512360573ea9f3c03b32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Fomento de Exportação
+- Ministério da Economia
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:607335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683802:por
+  label: "Alterado o art. 9º pelo DEC LEI.45410.06.12.1963.MECO, DG.IS [286] de 06.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45410-1963-683802
+  date: '1963-12-06'
+- type: cites
+  target: pt:dre:155458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665904:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:503627:por
+  label: "Revogados os arts. 4º e 5º, pelo DEC LEI.47583.1967.03.09.MECO, DG.IS [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47583-1967-503627
+  date: '1967-03-09'
+- type: repealed_by
+  target: pt:dre:255402:por
+  label: "Revogados na data efectiva de extinção do Fundo de Fomento de Exportação, os arts. 6º, 7º, 8º e 12º, pelo DEC LEI.321/77.1977.08.06.MCT,\
+    \ DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1977-255402
+  date: '1977-08-06'
+- type: repealed_by
+  target: pt:dre:607335:por
+  label: "Revogado na data a que se refere o art. 38º, pelo DEC LEI.115/82.1982.04.14.MFP, DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1982-607335
+  date: '1982-04-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:45Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +150,9 @@ Verificada a utilidade de alargar a outros serviços o benefício da orientaçã
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho Superior da Electricidade funcionará na Secretaria de Estado da Indústria, como órgão consultivo do Secretário de Estado em assuntos de natureza técnica e económica relacionados com a electricidade.
+Artigo 1.º O Conselho Superior da Electricidade funcionará na Secretaria de Estado da Indústria, como órgão consultivo do Secretário de Estado em assuntos de natureza técnica e económica relacionados com a electricidade.
 
-###### Art. 2.º O Conselho Superior da Electricidade é presidido pelo Secretário de Estado da Indústria e compõe-se dos seguintes vogais permanentes:
+Art. 2.º O Conselho Superior da Electricidade é presidido pelo Secretário de Estado da Indústria e compõe-se dos seguintes vogais permanentes:
 
 a) Director-geral dos Serviços Eléctricos;
 
@@ -130,7 +182,7 @@ m) Quatro vogais de livre escolha do Secretário de Estado da Indústria.
 
 § 2.º Será feita pelo período de três anos a nomeação dos vogais permanentes a que se referem as alíneas c) e e) a m), os quais poderão ser reconduzidos.
 
-###### Art. 3.º Situa-se nas atribuições do Conselho Superior da Electricidade dar parecer sobre os assuntos seguintes:
+Art. 3.º Situa-se nas atribuições do Conselho Superior da Electricidade dar parecer sobre os assuntos seguintes:
 
 a) Planos de electrificação nacional elaborados pela Direcção-Geral dos Serviços Eléctricos;
 
@@ -148,7 +200,7 @@ g) Declaração de utilidade pública de concessões ou de instalações municip
 
 h) Quaisquer outros assuntos cujo estudo lhe seja cometido pelo Secretário de Estado da Indústria.
 
-###### Art. 4.º A administração do Fundo de Fomento de Exportação competirá a um conselho administrativo, assim constituído:
+Art. 4.º A administração do Fundo de Fomento de Exportação competirá a um conselho administrativo, assim constituído:
 
 Presidente;
 
@@ -160,7 +212,7 @@ Vogal representante do Ministério dos Negócios Estrangeiros.
 
 § único. Os membros do conselho administrativo serão nomeados pelo Ministro da Economia, sob designação, quanto aos dois vogais, respectivamente dos Ministros das Finanças e dos Negócios Estrangeiros.
 
-###### Art. 5.º É criado no Fundo de Fomento de Exportação, sob a mesma presidência, um conselho geral, que terá como vogais:
+Art. 5.º É criado no Fundo de Fomento de Exportação, sob a mesma presidência, um conselho geral, que terá como vogais:
 
 a) O secretário-geral;
 
@@ -180,7 +232,7 @@ h) Três vogais de livre nomeação do Secretário de Estado do Comércio.
 
 § único. Quando a natureza dos assuntos o justificar, poderão ser convocados para as reuniões do conselho geral representantes dos organismos de coordenação económica e corporativos cujas actividades se relacionem com os principais produtos de exportação.
 
-###### Art. 6.º Compete ao conselho geral de que trata o artigo anterior:
+Art. 6.º Compete ao conselho geral de que trata o artigo anterior:
 
 1.º Elaborar os regulamentos internos;
 
@@ -192,11 +244,11 @@ h) Três vogais de livre nomeação do Secretário de Estado do Comércio.
 
 § único. Os regulamentos a que se refere o n.º 1.º deste artigo entrarão em vigor logo que sejam aprovados por despacho conjunto dos Ministros das Finanças e da Economia.
 
-###### Art. 7.º O conselho administrativo do Fundo de Fomento de Exportação poderá ser autorizado por despacho do Secretário de Estado do Comércio a realizar todas as despesas que caibam nos fins do organismo e no plano de actividades e orçamentos anuais.
+Art. 7.º O conselho administrativo do Fundo de Fomento de Exportação poderá ser autorizado por despacho do Secretário de Estado do Comércio a realizar todas as despesas que caibam nos fins do organismo e no plano de actividades e orçamentos anuais.
 
-###### Art. 8.º Quando as circunstâncias o aconselharem, poderá o conselho administrativo do Fundo de Fomento de Exportação, mediante despacho de autorização do Secretário de Estado do Comércio, cometer o desempenho de funções especializadas, em regime de prestação de serviços, a pessoas estranhas ao quadro do organismo.
+Art. 8.º Quando as circunstâncias o aconselharem, poderá o conselho administrativo do Fundo de Fomento de Exportação, mediante despacho de autorização do Secretário de Estado do Comércio, cometer o desempenho de funções especializadas, em regime de prestação de serviços, a pessoas estranhas ao quadro do organismo.
 
-###### Art. 9.º O Fundo de Abastecimento tem por objectivos:
+Art. 9.º O Fundo de Abastecimento tem por objectivos:
 
 1.º Efectuar a compensação e garantir a estabilização dos preços dos bens essenciais ao consumo público;
 
@@ -204,11 +256,11 @@ h) Três vogais de livre nomeação do Secretário de Estado do Comércio.
 
 § único. Na realização dos objectivos enunciados neste artigo, o Fundo de Abastecimento cooperará com os organismos de coordenação económica nas funções de colocação de produtos excedentários, revisão de circuitos comerciais, armazenagem de produtos e equipamento de instalações para a sua preparação e transformação.
 
-###### Art. 10.º Quando circunstâncias especiais o aconselharem, poderão ser criados, por portaria dos Ministérios das Finanças e da Economia, fundos de compensação ou estabilização limitados a determinado sector económico, para onde poderão ser transferidas receitas provenientes da cobrança de taxas efectuada pelos organismos de coordenação económica, os quais, nesse caso, passam a estar representados na administração desses fundos sectoriais.
+Art. 10.º Quando circunstâncias especiais o aconselharem, poderão ser criados, por portaria dos Ministérios das Finanças e da Economia, fundos de compensação ou estabilização limitados a determinado sector económico, para onde poderão ser transferidas receitas provenientes da cobrança de taxas efectuada pelos organismos de coordenação económica, os quais, nesse caso, passam a estar representados na administração desses fundos sectoriais.
 
-###### Art. 11.º As disposições do artigo 1.º e seus parágrafos e dos artigos 4.º e 10.º do [Decreto-Lei n.º 39035](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39035-1952-665904), de 15 de Dezembro de 1952, passam a ter a redacção seguinte:
+Art. 11.º As disposições do artigo 1.º e seus parágrafos e dos artigos 4.º e 10.º do [Decreto-Lei n.º 39035](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39035-1952-665904), de 15 de Dezembro de 1952, passam a ter a redacção seguinte:
 
-###### Artigo 1.º O conselho administrativo do Fundo de Abastecimento será constituído por um presidente e dois vogais.
+Artigo 1.º O conselho administrativo do Fundo de Abastecimento será constituído por um presidente e dois vogais.
 
 § 1.º O presidente e um dos vogais serão nomeados por livre escolha do Ministro da Economia e o outro vogal será designado pelo Ministro das Finanças.
 
@@ -216,7 +268,7 @@ h) Três vogais de livre nomeação do Secretário de Estado do Comércio.
 
 ...
 
-###### Art. 4.º São atribuições do conselho administrativo:
+Art. 4.º São atribuições do conselho administrativo:
 
 1.ª Formular as propostas que julgar convenientes para a realização dos objectivos do Fundo;
 
@@ -228,29 +280,29 @@ h) Três vogais de livre nomeação do Secretário de Estado do Comércio.
 
 ...
 
-###### Art. 10.º Para a realização dos objectivos do Fundo, poderá o conselho administrativo, mediante autorização do Secretário de Estado do Comércio, contrair empréstimos, assumir responsabilidades e prestar garantias.
+Art. 10.º Para a realização dos objectivos do Fundo, poderá o conselho administrativo, mediante autorização do Secretário de Estado do Comércio, contrair empréstimos, assumir responsabilidades e prestar garantias.
 
-###### Art. 12.º O artigo 6.º e o seu § único do [Decreto-Lei n.º 37538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37538-1949-265332), de 2 de Setembro de 1949, passam a ter a redacção seguinte:
+Art. 12.º O artigo 6.º e o seu § único do [Decreto-Lei n.º 37538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37538-1949-265332), de 2 de Setembro de 1949, passam a ter a redacção seguinte:
 
-###### Art. 6.º A gerência do Fundo é cometida a um conselho administrativo constituído por um presidente, livremente escolhido pelo Ministro da Economia, o secretário-geral e dois vogais nomeados por indicação, respectivamente, dos Ministros das Finanças e dos Negócios Estrangeiros, de que serão representantes.
+Art. 6.º A gerência do Fundo é cometida a um conselho administrativo constituído por um presidente, livremente escolhido pelo Ministro da Economia, o secretário-geral e dois vogais nomeados por indicação, respectivamente, dos Ministros das Finanças e dos Negócios Estrangeiros, de que serão representantes.
 
 § único. Para obrigar o Fundo são necessárias as assinaturas de dois membros do conselho administrativo, um dos quais o presidente.
 
-###### Art. 13.º A constituição do Conselho de Coordenação do Fomento Pecuário a que se refere o artigo 3.º do [Decreto-Lei n.º 44419](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44419-1962-164576), de 26 de Junho de 1962, pode ser modificada por portaria do Secretário de Estado da Agricultura.
+Art. 13.º A constituição do Conselho de Coordenação do Fomento Pecuário a que se refere o artigo 3.º do [Decreto-Lei n.º 44419](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44419-1962-164576), de 26 de Junho de 1962, pode ser modificada por portaria do Secretário de Estado da Agricultura.
 
-###### Art. 14.º O Secretário de Estado da Agricultura poderá, por portaria, constituir um Conselho de Coordenação da Colonização Interna, para funcionar até à criação dos serviços de planeamento regional a que se refere o artigo 5.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458), de 23 de Novembro de 1962.
+Art. 14.º O Secretário de Estado da Agricultura poderá, por portaria, constituir um Conselho de Coordenação da Colonização Interna, para funcionar até à criação dos serviços de planeamento regional a que se refere o artigo 5.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458), de 23 de Novembro de 1962.
 
-###### Art. 15.º Os planos gerais de colonização de que tratam os artigos 4.º e 5.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458) serão apreciados pelo Conselho Superior da Agricultura e, com o seu parecer, sujeitos à aprovação do Conselho de Ministros.
+Art. 15.º Os planos gerais de colonização de que tratam os artigos 4.º e 5.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458) serão apreciados pelo Conselho Superior da Agricultura e, com o seu parecer, sujeitos à aprovação do Conselho de Ministros.
 
-###### Art. 16.º Poderão ser criados, em portarias do Secretário de Estado da Agricultura, conselhos de coordenação do povoamento florestal, do fomento frutícola e hortícola e da investigação científica agrária efectuada por organismos dependentes do Ministério da Economia.
+Art. 16.º Poderão ser criados, em portarias do Secretário de Estado da Agricultura, conselhos de coordenação do povoamento florestal, do fomento frutícola e hortícola e da investigação científica agrária efectuada por organismos dependentes do Ministério da Economia.
 
-###### Art. 17.º O Secretário de Estado da Indústria poderá convidar, convocar ou requisitar, segundo os casos, para tomar parte nas reuniões do Conselho Superior da Electricidade, quaisquer pessoas cuja colaboração considere de interesse para o estudo das questões a apreciar.
+Art. 17.º O Secretário de Estado da Indústria poderá convidar, convocar ou requisitar, segundo os casos, para tomar parte nas reuniões do Conselho Superior da Electricidade, quaisquer pessoas cuja colaboração considere de interesse para o estudo das questões a apreciar.
 
-###### Art. 18.º O Secretário de Estado da Indústria poderá delegar, a título temporário ou permanente, num vicepresidente da sua livre escolha a direcção dos trabalhos do conselho da sua presidência.
+Art. 18.º O Secretário de Estado da Indústria poderá delegar, a título temporário ou permanente, num vicepresidente da sua livre escolha a direcção dos trabalhos do conselho da sua presidência.
 
-###### Art. 19.º O Conselho Superior da Electricidade poderá funcionar por secções especializadas, com audiência dos sectores privados.
+Art. 19.º O Conselho Superior da Electricidade poderá funcionar por secções especializadas, com audiência dos sectores privados.
 
-###### Art. 20.º Os serviços de expediente e arquivo do Conselho Superior da Electricidade serão executados, sob a direcção do respectivo secretário, por uma secretaria, à qual fica afecto o seguinte pessoal:
+Art. 20.º Os serviços de expediente e arquivo do Conselho Superior da Electricidade serão executados, sob a direcção do respectivo secretário, por uma secretaria, à qual fica afecto o seguinte pessoal:
 
 1 segundo-oficial;
 
@@ -262,16 +314,16 @@ h) Três vogais de livre nomeação do Secretário de Estado do Comércio.
 
 § 2.º As funções de secretário, sem voto, do Conselho poderão ser exercidas por funcionário superior vinculado a serviço dependente da Secretaria de Estado, designado pelo Secretário de Estado.
 
-###### Art. 21.º Os membros do Conselho Superior a que o presente diploma se refere, com direito a voto, serão abonados de senhas de presença, fixadas pelo Secretário de Estado da Indústria, com o acordo do Ministro das Finanças, e, quando se desloquem para assistir às reuniões ou visitar estabelecimentos industriais ou outros com o fim de esclarecer quaisquer assuntos distribuídos ao Conselho, terão também direito, nos termos legais vigentes, ao pagamento das despesas de transporte e às ajudas de custo correspondentes às categorias C a F do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), se outras mais elevadas não lhes competirem como funcionários.
+Art. 21.º Os membros do Conselho Superior a que o presente diploma se refere, com direito a voto, serão abonados de senhas de presença, fixadas pelo Secretário de Estado da Indústria, com o acordo do Ministro das Finanças, e, quando se desloquem para assistir às reuniões ou visitar estabelecimentos industriais ou outros com o fim de esclarecer quaisquer assuntos distribuídos ao Conselho, terão também direito, nos termos legais vigentes, ao pagamento das despesas de transporte e às ajudas de custo correspondentes às categorias C a F do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), se outras mais elevadas não lhes competirem como funcionários.
 
 § único. As remunerações de que trata este artigo serão acumuláveis com quaisquer outras que os membros do Conselho percebam pelo exercício de funções do Estado nos corpos administrativos, nos organismos de coordenação económica e pessoas colectivas de utilidade pública administrativa, mas com sujeição ao limite estabelecido no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 22.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos pelas verbas para o efeito inscritas no orçamento das Secretarias de Estado de que se trata.
+Art. 22.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos pelas verbas para o efeito inscritas no orçamento das Secretarias de Estado de que se trata.
 
-###### Art. 23.º O número e a constituição das secções especializadas a que se refere o artigo 19.º, bem como as regras do funcionamento do Conselho Superior da Electricidade e o mais que se julgar conveniente para assegurar a boa execução deste diploma, serão estabelecidos em portaria do Secretário de Estado competente, com o acordo, sempre que lhe possa interessar, do Ministro das Finanças.
+Art. 23.º O número e a constituição das secções especializadas a que se refere o artigo 19.º, bem como as regras do funcionamento do Conselho Superior da Electricidade e o mais que se julgar conveniente para assegurar a boa execução deste diploma, serão estabelecidos em portaria do Secretário de Estado competente, com o acordo, sempre que lhe possa interessar, do Ministro das Finanças.
 
-###### Art. 24.º Ficam revogados os artigos 16.º a 20.º do [Decreto-Lei n.º 35403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35403-1945-463626), de 27 de Dezembro de 1945, e os artigos 6.º e 7.º do [Decreto-Lei n.º 40726](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40726-1956-232516), de 9 de Agosto de 1956.
+Art. 24.º Ficam revogados os artigos 16.º a 20.º do [Decreto-Lei n.º 35403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35403-1945-463626), de 27 de Dezembro de 1945, e os artigos 6.º e 7.º do [Decreto-Lei n.º 40726](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40726-1956-232516), de 9 de Agosto de 1956.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(58) a 2900-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00580060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1e98fb83926a30d2f7d207145c450b2419af53f74dd4f4dfe593edcb938e21d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b6cec33bc548421d2d72e0238c2a963b7f9e04e9aa5618a93e2fb3909cc4893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Função Pública
+- Funcionário Público
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139968:por
+  label: Tornado extensivo ao pessoal do Instituto Português de Cinema o regime previsto no presente diploma pelo(a) Portaria
+    n.º 204/77 - Diário da República n.º 87/1977, Série I de 1977-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-1977-139968
+  date: '1977-04-14'
+- type: amended_by
+  target: pt:dre:250452:por
+  label: "Ratificado o presente diploma pela LEI.47/77.08.07.1977.AR, DR.IS [156] de 08.07.1977, que lhe aditou os arts. 5º-A\
+    \ e 7º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-1977-250452
+  date: '1977-07-08'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:52Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +170,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. A partir de 1 de Janeiro de 1977, os vencimentos que integram a tabela aprovada pelo Decreto n.º 506/75, de 18 de Setembro, são acrescidos de 15%, com arredondamento por excesso à centena de escudos.
+Artigo 1.º - 1. A partir de 1 de Janeiro de 1977, os vencimentos que integram a tabela aprovada pelo Decreto n.º 506/75, de 18 de Setembro, são acrescidos de 15%, com arredondamento por excesso à centena de escudos.
 
 2. Em consequência do disposto no número anterior, a tabela de vencimentos dos trabalhadores civis da Administração Central, local e regional passa a ser a seguinte:
 
@@ -188,7 +222,7 @@ V ... 4500$00
 
 4. Sem prejuízo das remunerações superiores já praticadas, por força, designadamente, do salário corrente da região, o salário mínimo do trabalhador rural ao serviço da Administração Central, local e regional é fixado, a partir de 1 de Janeiro de 1977, em 4500$00.
 
-###### Art. 2.º - 1. Mantém-se em vigor a proibição constante do artigo 5.º do [Decreto-Lei n.º 362/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1975-336981), de 10 de Julho, que se entende reportada:
+Art. 2.º - 1. Mantém-se em vigor a proibição constante do artigo 5.º do [Decreto-Lei n.º 362/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1975-336981), de 10 de Julho, que se entende reportada:
 
 a) À criação de novas remunerações acessórias;
 
@@ -200,7 +234,7 @@ c) À extensão de remunerações acessórias a outros trabalhadores, ainda que 
 
 3. O disposto no presente artigo prevalece sobre toda e qualquer disposição especial em contrário.
 
-###### Art. 3.º - 1. As gratificações que constituem única forma de remuneração do exercício de cargos ou funções serão alteradas a partir de 1 de Janeiro de 1977, de acordo com os critérios seguintes:
+Art. 3.º - 1. As gratificações que constituem única forma de remuneração do exercício de cargos ou funções serão alteradas a partir de 1 de Janeiro de 1977, de acordo com os critérios seguintes:
 
 a) Se se tratar de trabalho a tempo parcial, a respectiva remuneração será igual ao produto do número de horas de trabalho realizado mensalmente pelo valor horário do vencimento da categoria correspondente às funções exercidas;
 
@@ -208,7 +242,7 @@ b) Se se tratar de funções exercidas em acumulação ou no âmbito de comissõ
 
 2. O valor da hora do trabalho a que se refere a alínea a) do número anterior é calculado com base na fórmula (v x 12)/(52 x n), sendo v a remuneração mensal e n o número de horas correspondentes ao horário normal.
 
-###### Art. 4.º - 1. As pensões de aposentação, reforma, invalidez, preço de sangue e sobrevivência, fixadas no Decreto n.º 922/76, de 31 de Dezembro, são acrescidas de 10% a partir de 1 de Janeiro de 1977, com arredondamento por excesso à centena de escudos.
+Art. 4.º - 1. As pensões de aposentação, reforma, invalidez, preço de sangue e sobrevivência, fixadas no Decreto n.º 922/76, de 31 de Dezembro, são acrescidas de 10% a partir de 1 de Janeiro de 1977, com arredondamento por excesso à centena de escudos.
 
 2. As pensões calculadas com base nas retribuições iguais ou superiores aos vencimentos fixados pelo n.º 2 do artigo 1.º do presente diploma para Funcionários de categoria correspondente e não beneficiam da actualização estabelecida no número anterior.
 
@@ -216,16 +250,16 @@ b) Se se tratar de funções exercidas em acumulação ou no âmbito de comissõ
 
 4. As pensões referidas nos n.os 2 e 3 serão, no entanto, fixadas nos valores mínimos obtidos por força do n.º 1 para cada tipo de pensão, sempre que as regras de cálculo conduzam a valor inferior.
 
-###### Art. 5.º - 1. O Governo, pelos Ministros da Administração Interna e das Finanças e pelos Ministros das respectivas pastas, determinará a extensão do regime previsto no presente diploma ao pessoal em serviço nos institutos públicos que revistam a natureza de serviços personalizados, designadamente os organismos de coordenação económica ou de fundos públicos, bem como nos Cofres Gerais dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça.
+Art. 5.º - 1. O Governo, pelos Ministros da Administração Interna e das Finanças e pelos Ministros das respectivas pastas, determinará a extensão do regime previsto no presente diploma ao pessoal em serviço nos institutos públicos que revistam a natureza de serviços personalizados, designadamente os organismos de coordenação económica ou de fundos públicos, bem como nos Cofres Gerais dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça.
 
 2. A extensão prevista no número anterior produzirá efeitos desde 1 de Janeiro de 1977.
 
-###### Art. 6.º As dúvidas e lacunas resultantes da aplicação do presente diploma serão objecto de despacho conjunto dos Ministros da Administração Interna e das Finanças, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
+Art. 6.º As dúvidas e lacunas resultantes da aplicação do presente diploma serão objecto de despacho conjunto dos Ministros da Administração Interna e das Finanças, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

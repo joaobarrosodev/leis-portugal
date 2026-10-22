@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48745-1968-262672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 465decf344267c014d11370ed9ae9f8d5b1f34479da094e4a9fd394bd91851cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b00a0f689a8dae0df0bbe527da297c8dfaefb736aec9271e781efcaf9a33052e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atestado Médico
+- Carta de Condução
+- Código da Estrada
+- Condutor
+- Controlo Médico
+- Junta Médica
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:596890:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198718:por
+  label: "Dada nova redacção ao nº 7 do artigo 50º do Código da Estrada, aprovado pelo Dec Lei 39672 de 20-Mai de 1954, com\
+    \ a redacção constante do presente diploma, pelo DEC LEI.49193.18.08.1969.MU, DG.IS [192] de 18.08.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49193-1969-198718
+  date: '1969-08-18'
+- type: amended_by
+  target: pt:dre:601315:por
+  label: "Alterados, nos termos do art. 5.º, os n.ºs 2, 4, 5, 7 e 8 do art. 47.º do Código da Estrada, aprovado pelo Dec Lei\
+    \ 39672, de 20-Mai 1954, na redacção do presente diploma, pelo DR.4/82.15.01.1982.MHOPT, DR.IS [12] de 15.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1982-601315
+  date: '1982-01-15'
+- type: amended_by
+  target: pt:dre:375391:por
+  label: "Alterada a redacção, nos termos do art. 6.º, do n.º 4 do art. 50.º do Código da Estrada, aprovado pelo Dec Lei 39672,\
+    \ de 20-Mai 1954, na redacção do presente diploma, pelo DR.65/82.28.09.1982.MHOPT, DR.IS [225] de 28.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/65-1982-375391
+  date: '1982-09-28'
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterado o art. 47.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do presente\
+    \ diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:41Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +132,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer com lei, o seguinte:
 
-###### Artigo 1.º O n.º 8 do artigo 47.º, o artigo 50.º e o n.º 6 do artigo 71.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 8 do artigo 47.º, o artigo 50.º e o n.º 6 do artigo 71.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### ARTIGO 47.º — Cartas de condução
 
@@ -159,13 +194,13 @@ As inspecções determinadas pela Direcção-Geral de Transportes Terrestres e p
 
 As inspecções por junta médica, previstas no n.º 6 do mesmo artigo, serão realizadas nas inspecções de saúde.
 
-###### Art. 2.º O presente decreto-lei entrará em vigor em 1 de Fevereiro de 1969.
+Art. 2.º O presente decreto-lei entrará em vigor em 1 de Fevereiro de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Joaquim Moreira da Silva Cunha - José Estêvão Abranches Couceiro do Canto Moniz - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 25 de Novembro de 1968.**
+Promulgado em 25 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

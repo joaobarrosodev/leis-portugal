@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/16300/09991002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48483-1968-272667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88c8f2cc805cb6ba0d3bb1502e07837a8fb2f84ae43272dc39c5a155204b0282
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a127265f3582b1e589b7cfdaab282075aa9cf5c9d0ca9df975df039d726ff46f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água
+- Direcção Geral dos Serviços Hidráulicos
+- Domínio Público Hídrico
+- Emolumento
+- Fardamento
+- Gestão dos Recursos
+- Licenciamento
+- Multa
+- Pessoal de Vigilância
+- Recursos Hídricos
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:449464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397890:por
+  label: "Alteradas as importâncias das taxas, emolumentos e multas previstas no presente diploma, pela DEC LEI.328/82.17.08.1982.MHOPT,\
+    \ DR.IS [189] de 17.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1982-397890
+  date: '1982-08-17'
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a não aplicação do presente diploma, na matéria respeitante ao DEC LEI.46/94.1994.02.22.MARN, DR.IS-A\
+    \ [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: cites
+  target: pt:dre:142877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:281252:por
+  label: "Revogado o art. 14º pelo DEC LEI.500/77.1977.11.28.PCM, DR.IS [275] de 28/Nov/1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/500-1977-281252
+  date: '1977-11-28'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADAS EXPRESSAMENTE AS AL E) E F) DO PARAG 1 DO ART 2, PELO DEC LEI 403/82 DE 24-SET DR.IS [222]\0IS [222]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-09-24'
+- type: repealed_by
+  target: pt:dre:449464:por
+  label: "Revogado, a partir de 01.07.2008, pelo DEC LEI.97/2008.11.06.2008.MAOTDR, DR.IS [111] de 11.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2008-449464
+  date: '2008-06-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:59Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +171,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aplicável ao aproveitamento de quaisquer águas públicas para irrigação de prédios não marginais o regime estabelecido para a irrigação dos prédios marginais, desde que não haja necessidade de constituir servidão forçada de aqueduto.
+Artigo 1.º É aplicável ao aproveitamento de quaisquer águas públicas para irrigação de prédios não marginais o regime estabelecido para a irrigação dos prédios marginais, desde que não haja necessidade de constituir servidão forçada de aqueduto.
 
-###### Art. 2.º Os originais dos alvarás de licenças a conceder pela Direcção-Geral dos Serviços Hidráulicos serão selados com a taxa legal do papel selado:
+Art. 2.º Os originais dos alvarás de licenças a conceder pela Direcção-Geral dos Serviços Hidráulicos serão selados com a taxa legal do papel selado:
 
 1.º Serão cobrados os seguintes emolumentos por cada alvará de licença:
 
@@ -133,11 +199,11 @@ Quando o pagamento seja feito por guia, anotar-se-á o facto nos duplicados dos 
 
 No caso de licenças para obras provisórias (de duração inferior a um ano) ou para simples reparação de obras já licenciadas nos termos deste decreto, o termo de responsabilidade também será substituído por simples declaração de responsabilidade, não selada, assinada pelo interessado perante o chefe da respectiva secção hidráulica, ou seu representante, e duas testemunhas.
 
-###### Art. 3.º Os indivíduos ou entidades particulares que à data da publicação deste diploma estejam captando águas públicas destinadas a uso industrial ou utilizando aquelas águas para evacuação de esgotos industriais, e não possuam licença para esse fim, passada pela Direcção-Geral dos Serviços Hidráulicos, deverão requerer a legalização dessa situação no prazo máximo de 30 dias, a contar da data da notificação que nesse sentido lhes seja feita por aquela Direcção-Geral.
+Art. 3.º Os indivíduos ou entidades particulares que à data da publicação deste diploma estejam captando águas públicas destinadas a uso industrial ou utilizando aquelas águas para evacuação de esgotos industriais, e não possuam licença para esse fim, passada pela Direcção-Geral dos Serviços Hidráulicos, deverão requerer a legalização dessa situação no prazo máximo de 30 dias, a contar da data da notificação que nesse sentido lhes seja feita por aquela Direcção-Geral.
 
 § único. Os que não cumprirem o disposto no corpo do artigo ficam sujeitos às multas e mais sanções aplicáveis.
 
-###### Art. 4.º Além dos emolumentos referidos no artigo 1.º, deverão ainda ser cobradas por meio de guias as taxas relativas à ocupação de terrenos do domínio público (marítimo ou fluvial) ou privado do Estado.
+Art. 4.º Além dos emolumentos referidos no artigo 1.º, deverão ainda ser cobradas por meio de guias as taxas relativas à ocupação de terrenos do domínio público (marítimo ou fluvial) ou privado do Estado.
 
 § 1.º As taxas anuais a cobrar pela ocupação de terrenos do domínio público ou privado do Estado que sejam destinados à exploração agrícola, florestal ou pecuária, salineira, armazenagem de mercadorias, guarda de apetrechos, residência de pescadores profissionais ou aplicações semelhantes serão fixadas, para cada caso isolado ou por zonas, por despacho do Ministro das Obras Públicas, mediante avaliação prévia a fazer nos termos do Regulamento dos Serviços Hidráulicos de 1892.
 
@@ -149,9 +215,9 @@ No caso de licenças para obras provisórias (de duração inferior a um ano) ou
 
 § 5.º As taxas para ocupação de terrenos destinados à instalação de postos de abastecimento de gasolina e similares variarão entre 1000$00 e 3000$00 por ano.
 
-###### Art. 5.º Os emolumentos a cobrar pelo registo e visto anual das embarcações matriculadas nas direcções hidráulicas nos termos do § 1.º do artigo 313.º do Regulamento dos Serviços Hidráulicos de 1892 e do artigo 1.º do [Decreto-Lei n.º 28144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28144-1937-433261), de 6 de Novembro de 1937, serão de valor igual ao da taxa legal do papel selado.
+Art. 5.º Os emolumentos a cobrar pelo registo e visto anual das embarcações matriculadas nas direcções hidráulicas nos termos do § 1.º do artigo 313.º do Regulamento dos Serviços Hidráulicos de 1892 e do artigo 1.º do [Decreto-Lei n.º 28144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28144-1937-433261), de 6 de Novembro de 1937, serão de valor igual ao da taxa legal do papel selado.
 
-###### Art. 6.º Os emolumentos estabelecidos pelo artigo 7.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, e os devidos pela outorga de concessões, a cobrar pela Direcção-Geral dos Serviços Hidráulicos por meio de guia ou de estampilhas fiscais, passam a ser dos montantes a seguir indicados:
+Art. 6.º Os emolumentos estabelecidos pelo artigo 7.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, e os devidos pela outorga de concessões, a cobrar pela Direcção-Geral dos Serviços Hidráulicos por meio de guia ou de estampilhas fiscais, passam a ser dos montantes a seguir indicados:
 
 a) Pela realização de vistorias para instrução de processos de licença para obras - 40$00;
 
@@ -209,7 +275,7 @@ II) Por cada lauda a mais - 5$00.
 
 § 3.º O montante do depósito a que se refere o artigo 66.º do regulamento aprovado pelo [Decreto n.º 6287](https://diariodarepublica.pt/dr/detalhe/decreto/6287-1919-351149), de 20 de Dezembro de 1919, passará a ser fixado pela Direcção-Geral dos Serviços Hidráulicos proporcionalmente à importância da concessão e de modo a garantir as despesas prováveis da instrução do processo, as da fiscalização e as da efectividade das obrigações assumidas.
 
-###### Art. 7.º As multas previstas no Regulamento dos Serviços Hidráulicos de 1892, no [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, e no [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934, para várias infracções, são alteradas e aplicar-se-ão entre os limites a seguir indicados:
+Art. 7.º As multas previstas no Regulamento dos Serviços Hidráulicos de 1892, no [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, e no [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934, para várias infracções, são alteradas e aplicar-se-ão entre os limites a seguir indicados:
 
 1.º Entre 50$00 e 500$00, as multas cominadas no § 3.º do artigo 217.º, nos artigos 248.º, 266.º e 276.º, no § único do artigo 286.º, no § único do artigo 287.º, no § 2.º do artigo 289.º, no artigo 291.º, no § único do artigo 297.º, no § único do artigo 299.º, nos artigos 304.º, 305.º e 306.º e 310.º, nos §§ 3.º, 4.º e 6.º do artigo 313.º, no § único do artigo 316.º, nos artigos 317.º, 323.º, 331.º e 332.º, no § único do artigo 333.º, nos artigos 334.º, 336.º, 338.º, 343.º e 344.º, no § 3.º do artigo 350.º e no artigo 351.º, todos do Regulamento dos Serviços Hidráulicos;
 
@@ -221,29 +287,29 @@ II) Por cada lauda a mais - 5$00.
 
 5.º Entre 100$00 e 10000$00, as multas estabelecidas pelo artigo 212.º e pelo § único do artigo 261.º do Regulamento dos Serviços Hidráulicos.
 
-###### Art. 8.º Serão multiplicados por 100 os valores das despesas, taxas e multas referidas nos artigos 259.º, 292.º, 293.º, 294.º, 301.º, 302.º e 303.º, no § único do artigo 303.º e no artigo 356.º do Regulamento dos Serviços Hidráulicos de 1892.
+Art. 8.º Serão multiplicados por 100 os valores das despesas, taxas e multas referidas nos artigos 259.º, 292.º, 293.º, 294.º, 301.º, 302.º e 303.º, no § único do artigo 303.º e no artigo 356.º do Regulamento dos Serviços Hidráulicos de 1892.
 
 Os emolumentos previstos no artigo 273.º do mesmo Regulamento ficam substituídos por um emolumento único, de 100$00.
 
-###### Art. 9.º Sobre as multas indicadas nos artigos anteriores incidirão os adicionais em vigor, salvo o disposto no § 2.º do artigo 63.º do Código Penal.
+Art. 9.º Sobre as multas indicadas nos artigos anteriores incidirão os adicionais em vigor, salvo o disposto no § 2.º do artigo 63.º do Código Penal.
 
-###### Art. 10.º Levantado o auto, pela transgressão, a Direcção-Geral dos Serviços Hidráulicos graduará, tendo em atenção o artigo 84.º e § único do Código Penal, o montante da multa, e, após a liquidação desta pela repartição competente, o transgressor será notificado para, no prazo de 30 dias, pagar voluntàriamente o que tiver sido liquidado.
+Art. 10.º Levantado o auto, pela transgressão, a Direcção-Geral dos Serviços Hidráulicos graduará, tendo em atenção o artigo 84.º e § único do Código Penal, o montante da multa, e, após a liquidação desta pela repartição competente, o transgressor será notificado para, no prazo de 30 dias, pagar voluntàriamente o que tiver sido liquidado.
 
 § 1.º Não pagando o transgressor voluntàriamente, no prazo indicado no corpo deste artigo, as quantias liquidadas, o auto será remetido ao tribunal, nos termos e para os efeitos do artigo 2.º e § único do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, e demais disposições aplicáveis.
 
 § 2.º Na sentença, o tribunal não está vinculado à graduação feita pela Direcção-Geral dos Serviços Hidráulicos nos termos do corpo deste artigo; mas o transgressor não poderá pagar em juízo, antes da sentença, voluntàriamente, outro quantitativo de multa.
 
-###### Art. 11.º A competência da Direcção-Geral dos Serviços Hidráulicos respeitante ao licenciamento ou concessão de águas públicas será exercida pelos seus escalões hierárquicos, de acordo com o que for fixado pelo Ministro das Obras Públicas.
+Art. 11.º A competência da Direcção-Geral dos Serviços Hidráulicos respeitante ao licenciamento ou concessão de águas públicas será exercida pelos seus escalões hierárquicos, de acordo com o que for fixado pelo Ministro das Obras Públicas.
 
-###### Art. 12.º Todos os autos levantados pelos chefes de lanço e guarda-rios ajuramentados da Direcção-Geral dos Serviços Hidráulicos valem como autos de notícia e fazem fé em juízo até prova em contrário, nos termos dos artigos 161.º, 163.º e 244.º do Regulamento dos Serviços Hidráulicos de 1892 e, na parte aplicável, do artigo 26.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, sem prejuízo dos poderes que ao Ministério Público e ao juiz pertencem segundo a lei de processo penal, para mandarem completar a instrução, depois de os mesmos serem remetidos a juízo.
+Art. 12.º Todos os autos levantados pelos chefes de lanço e guarda-rios ajuramentados da Direcção-Geral dos Serviços Hidráulicos valem como autos de notícia e fazem fé em juízo até prova em contrário, nos termos dos artigos 161.º, 163.º e 244.º do Regulamento dos Serviços Hidráulicos de 1892 e, na parte aplicável, do artigo 26.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, sem prejuízo dos poderes que ao Ministério Público e ao juiz pertencem segundo a lei de processo penal, para mandarem completar a instrução, depois de os mesmos serem remetidos a juízo.
 
 § único. No caso especial de inquinação ou poluição de águas, contra o disposto nos artigos 5.º e 6.º do Decreto n.º 8 de 1 de Dezembro de 1892, 219.º e 228.º do Regulamento dos Serviços Hidráulicos de 1892 e 21.º do Decreto com força de lei n.º 5787-IIII, de 10 de Maio de 1919, e no Decreto n.º 22758, de 29 de Junho de 1933, e mais legislação aplicável, o levantamento dos autos de transgressão será precedido de inquérito, onde se averiguará a natureza, extensão e gravidade dos prejuízos causados e o mais que for necessário para apreciação da infracção.
 
-###### Art. 13.º Os funcionários ou empregados dos serviços hidráulicos, cuja citação é proibida pelo artigo 15.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, devem declarar ao funcionário encarregado da diligência de citação que a ela não estão sujeitos.
+Art. 13.º Os funcionários ou empregados dos serviços hidráulicos, cuja citação é proibida pelo artigo 15.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, devem declarar ao funcionário encarregado da diligência de citação que a ela não estão sujeitos.
 
 Esta declaração ficará a constar obrigatòriamente da certidão que do acto for lavrada.
 
-###### Art. 14.º Aos guarda-rios da Direcção-Geral dos Serviços Hidráulicos é concedido o direito a fardamento, artigos que lhe respeitem, distintivos e impermeáveis, do tipo e modelo a fixar em regulamento.
+Art. 14.º Aos guarda-rios da Direcção-Geral dos Serviços Hidráulicos é concedido o direito a fardamento, artigos que lhe respeitem, distintivos e impermeáveis, do tipo e modelo a fixar em regulamento.
 
 § 1.º Para aquisição de fardas, distintivos e outros artigos de fardamentos o Estado contribuirá com uma importância correspondente a 50 por cento do respectivo custo, à excepção dos impermeáveis, que serão por ele integralmente pagos.
 
@@ -251,8 +317,8 @@ Esta declaração ficará a constar obrigatòriamente da certidão que do acto f
 
 § 3.º Os guarda-rios que mais se distinguiram em cada ano civil poderão ser premiados com subsídios de fardamento, nas condições a estabelecer no regulamento referido neste artigo.
 
-###### Art. 15.º Compete ao Ministro das Obras Públicas resolver por despacho todas as dúvidas ou omissões suscitadas na aplicação deste diploma.
+Art. 15.º Compete ao Ministro das Obras Públicas resolver por despacho todas as dúvidas ou omissões suscitadas na aplicação deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

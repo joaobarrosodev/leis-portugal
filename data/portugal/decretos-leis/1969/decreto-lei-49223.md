@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49223-1969-214932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 329d3ef73605340b30c3011a4a0f4f8be124838d68e36bc398d016455927fcc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9f7fb1c94ee1792fbd80ac9819ab02748860287771d8e5178ac8be9a725baf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Contribuição Industrial
+- Contribuição Predial
+- Convenção
+- Dupla Tributação
+- Espanha
+- Imposto Complementar
+- Imposto de Capitais
+- Imposto de Mais-Valias
+- Imposto para a Defesa e Valorização do Ultramar
+- Imposto Profissional
+- Imposto sobre a Indústria Agrícola
+- Imposto sobre o Rendimento
+- Madrid
+- Mais-Valias
+- Pessoa Coletiva
+- Pessoa Singular
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:38Z'
   warnings: []
   errors: []
 ---
@@ -85,37 +103,37 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção entre Portugal e a Espanha para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento, assinada em Madrid em 29 de Maio de 1968, cujos textos, em português e espanhol, são os que a seguir se publicam.
+Artigo único. É aprovada, para ratificação, a Convenção entre Portugal e a Espanha para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento, assinada em Madrid em 29 de Maio de 1968, cujos textos, em português e espanhol, são os que a seguir se publicam.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Julho de 1969.**
+Promulgado em 30 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 CONVENÇÃO ENTRE PORTUGAL E A ESPANHA PARA EVITAR A DUPLA TRIBUTAÇÃO EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO
 
-**O Presidente da República Portuguesa e o Chefe do Estado Espanhol, desejando concluir uma convenção para evitar a dupla tributação em matéria de impostos sobre o rendimento, designaram para tal efeito como plenipotenciários:**
+O Presidente da República Portuguesa e o Chefe do Estado Espanhol, desejando concluir uma convenção para evitar a dupla tributação em matéria de impostos sobre o rendimento, designaram para tal efeito como plenipotenciários:
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 S. Ex.ª o Prof. Doutor Luís da Câmara Pinto Coelho, embaixador extraordinário e plenipotenciário,
 
-**O Chefe do Estado Espanhol:**
+O Chefe do Estado Espanhol:
 
 S. Ex.ª o Doutor Fernando María Castiella y Maiz, Ministro de Assuntos Exteriores Espanhol, os quais, depois de haverem trocado os seus plenos poderes e os terem achado em boa e devida forma, acordaram nas disposições seguintes:
 
 ### CAPÍTULO I — Âmbito da aplicação da Convenção
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Pessoas visadas)
 
 Esta Convenção aplica-se às pessoas residentes de um ou de ambos os Estados Contratantes.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Impostos visados)
 
@@ -165,7 +183,7 @@ b) Relativamente a Portugal:
 
 ### CAPÍTULO II — Definições
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Definições gerais)
 
@@ -187,15 +205,15 @@ g) A expressão «autoridade competente» significa:
 
 1.º Relativamente à Espanha:
 
-**O Ministro da Fazenda, o director-geral dos Impostos Directos e qualquer outra autoridade em quem o Ministro delegue;**
+O Ministro da Fazenda, o director-geral dos Impostos Directos e qualquer outra autoridade em quem o Ministro delegue;
 
 2.º Relativamente a Portugal:
 
-**O Ministro das Finanças, o director-geral das Contribuições e Impostos e qualquer outra autoridade em quem o Ministro delegue.**
+O Ministro das Finanças, o director-geral das Contribuições e Impostos e qualquer outra autoridade em quem o Ministro delegue.
 
 2. Para a aplicação desta Convenção por um Estado Contratante, qualquer expressão não definida de outro modo terá, a não ser que o contexto exija interpretação diferente, o significado que lhe é atribuído pela legislação desse Estado Contratante relativa aos impostos que são objecto desta Convenção.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Domicílio fiscal)
 
@@ -213,7 +231,7 @@ d) Se for nacional de ambos os Estados Contratantes, ou se não for nacional de 
 
 3. Quando, por virtude do disposto no n.º 1, uma pessoa, que não seja uma pessoa singular, for residente de ambos os Estados Contratantes, será considerada residente do Estado Contratante em que estiver situada a sua direcção efectiva.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Estabelecimento estável)
 
@@ -255,7 +273,7 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 ### CAPÍTULO III — Tributação dos rendimentos
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Rendimentos dos bens imobiliários)
 
@@ -267,7 +285,7 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 4. O disposto nos n.os 1 e 3 aplica-se igualmente aos rendimentos provenientes dos bens imobiliários de uma empresa e aos rendimentos dos bens imobiliários utilizados para o exercício de profissões liberais.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Lucros das empresas)
 
@@ -281,7 +299,7 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 5. Quando os lucros compreendam elementos do rendimento especialmente tratados noutros artigos desta Convenção, as respectivas disposições não serão afectadas pelas deste artigo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Navegação marítima, interior e aérea)
 
@@ -293,13 +311,13 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 4. O disposto no n.º 1 aplica-se igualmente aos lucros de uma empresa de um Estado Contratante provenientes de um pool, de uma exploração em comum ou de um organismo internacional de exploração.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Empresas associadas)
 
 Quando uma empresa de um Estado Contratante participar, directa ou indirectamente, na direcção, no contrôle ou no capital de uma empresa do outro Estado Contratante, ou as mesmas pessoas participarem, directa ou indirectamente, na direcção, no contrôle ou no capital de uma empresa de um Estado Contratante e de uma empresa do outro Estado Contratante, e, em ambos os casos, as duas empresas, nas suas relações comerciais ou financeiras, estiverem ligadas por condições aceites ou impostos que difiram das que seriam estabelecidas entre empresas independentes, os lucros que, se não existissem essas condições, teriam sido obtidos por uma das empresas, mas não o foram por causa dessas condições, podem ser incluídos nos lucros dessa empresa e, consequentemente, tributados.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Dividendos)
 
@@ -323,7 +341,7 @@ Para efeitos desta Convenção, a tributação da incorporação de reservas no 
 
 5. Quando uma sociedade residente de um Estado Contratante obtiver lucros ou rendimentos provenientes do outro Estado Contratante, este outro Estado não poderá exigir nenhum imposto sobre os dividendos pagos pela sociedade às pessoas não residentes deste último Estado, nem sujeitar os lucros não distribuídos da sociedade a um imposto sobre os lucros não distribuídos, mesmo que os dividendos pagos ou os lucros não distribuídos consistam, total ou parcialmente, em lucros ou rendimentos provenientes desse outro Estado.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Juros)
 
@@ -343,7 +361,7 @@ As importâncias pagas a uma empresa, a título de indemnização pela suspensã
 
 7. Quando, devido a relações especiais existentes entre o devedor e o credor, ou entre ambos e qualquer outra pessoa, o montante dos juros pagos, tendo em conta o crédito pelo qual são pagos, exceder o montante que seria acordado entre o devedor e o credor, na ausência de tais relações, as disposições deste artigo são aplicáveis apenas a este último montante. Neste caso, o excesso pode continuar a ser tributado de acordo com a legislação de cada Estado Contratante, tendo em conta as outras disposições desta Convenção.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 («Redevances»)
 
@@ -359,7 +377,7 @@ As importâncias pagas a uma empresa, a título de indemnização pela suspensã
 
 6. Quando, devido a relações especiais existentes entre o devedor e o beneficiário das redevances, ou entre ambos e qualquer outra pessoa, o montante das redevances pagas, tendo em conta a prestação pela qual são pagas, exceder o montante que seria acordado entre o devedor e o beneficiário, na ausência de tais relações, as disposições deste artigo são aplicáveis apenas a este último montante. Neste caso, o excesso pode continuar a ser tributado de acordo com a legislação de cada Estado Contratante, tendo em conta as outras disposições desta Convenção.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Mais-valias)
 
@@ -373,7 +391,7 @@ Os ganhos provenientes da alienação de navios e aeronaves utilizados no tráfe
 
 4. As disposições deste artigo não impedem Portugal de exigir o imposto de mais-valias, em vigor à data da assinatura desta Convenção, relativo à emissão de acções com reserva de preferência para os sócios de sociedades com sede ou direcção efectiva em Portugal.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Profissões independentes)
 
@@ -381,7 +399,7 @@ Os ganhos provenientes da alienação de navios e aeronaves utilizados no tráfe
 
 2. A expressão «profissões liberais» abrange em especial as actividades independentes de carácter científico, literário, artístico, educativo ou pedagógico, bem como as actividades independentes de médicos, advogados, engenheiros, arquitectos, dentistas e contabilistas.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Profissões dependentes)
 
@@ -399,25 +417,25 @@ c) As remunerações não forem suportadas por um estabelecimento estável ou po
 
 4. As remunerações previstas no n.º 1 deste artigo auferidas por residentes de um Estado Contratante nos concelhos limítrofes do outro Estado Contratante que trabalham nesse outro Estado nos concelhos limítrofes do primeiro e se deslocam diàriamente do local da residência para o local de trabalho (trabalhadores fronteiriços) só podem ser tributadas no Estado de que os beneficiários são residentes.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Percentagens de membros do conselho)
 
 As percentagens, senhas de presença e remunerações similares obtidas por um residente de um Estado Contratante na qualidade de membro do conselho de administração ou fiscal de uma sociedade residente do outro Estado Contratante podem ser tributadas nesse outro Estado, desde que tais remunerações sejam determinadas e pagas pela sociedade em virtude da sua participação nas actividades, do conselho de administração ou fiscal. Caso contrário são aplicáveis as disposições do artigo 15.º
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Artistas e desportistas)
 
 Não obstante o disposto nos artigos 14.º e 15.º, os rendimentos obtidos pelos profissionais do espectáculo, tais como artistas de teatro, cinema, rádio ou televisão e músicos, bem como pelos desportistas, provenientes das suas actividades pessoais exercidas nessa qualidade, podem ser tributadas no Estado Contratante em que essas actividades forem exercidas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Pensões)
 
 Com ressalva do disposto no n.º 1 do artigo 19.º, as pensões e remunerações similares pagas a um residente de um Estado Contratante em consequência de um emprego anterior só podem ser tributadas nesse Estado.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Funções públicas)
 
@@ -425,7 +443,7 @@ Com ressalva do disposto no n.º 1 do artigo 19.º, as pensões e remunerações
 
 2. O disposto nos artigos 15.º, 16.º e 18.º aplica-se às remunerações e pensões pagas em consequência de serviços prestados em relação com uma actividade comercial ou industrial exercida por um dos Estados Contratantes ou por uma das suas autarquias locais.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Agentes mediadores)
 
@@ -433,13 +451,13 @@ Com ressalva do disposto no n.º 1 do artigo 19.º, as pensões e remunerações
 
 2. A expressão «agente mediador» significa todas as pessoas que, sob um estatuto independente e mediante remuneração, se ocupem em facilitar transacções entre outras pessoas.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Professores)
 
 Os professores que são, ou foram imediatamente antes, residentes de um Estado Contratante e que no decurso de um período de residência temporária no outro Estado Contratante, não excedente a dois anos, recebam remunerações pelo ensino numa Universidade, num colégio, numa escola ou noutro estabelecimento de ensino desse outro Estado Contratante, não são neste tributados por tais remunerações, desde que os ditos estabelecimentos pertençam ao Estado ou a uma pessoa colectiva sem fins lucrativos e tais remunerações não sejam tributadas no primeiro Estado Contratante.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Estudantes)
 
@@ -447,7 +465,7 @@ Os professores que são, ou foram imediatamente antes, residentes de um Estado C
 
 2. Os estudantes de uma Universidade ou outro estabelecimento de ensino superior ou técnico de um Estado Contratante que tenham um emprego no outro Estado Contratante, com vista a obter uma formação prática relativa aos seus estudos, não são tributados nesse outro Estado pelas remunerações desse emprego, desde que a respectiva duração, no ano fiscal em causa, não exceda cento e oitenta e três dias.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Rendimentos não expressamente mencionados)
 
@@ -455,7 +473,9 @@ Os professores que são, ou foram imediatamente antes, residentes de um Estado C
 
 2. Não obstante o disposto no n.º 1 deste artigo, os rendimentos pagos ao partícipe de uma conta em participação são tributados de acordo com o disposto no artigo 10.º
 
-### CAPÍTULO IV — ARTIGO 24.º
+### CAPÍTULO IV
+
+###### ARTIGO 24.º
 
 (Método para evitar a dupla tributação)
 
@@ -481,7 +501,7 @@ b) A fracção do imposto português sobre o rendimento, calculado antes da dedu
 
 ### CAPÍTULO V — Disposições especiais
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Não discriminação)
 
@@ -501,7 +521,7 @@ Esta disposição não pode ser interpretada no sentido de obrigar um Estado Con
 
 5. O termo «tributação» designa no presente artigo os impostos de qualquer natureza ou denominação.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Procedimento amigável)
 
@@ -515,7 +535,7 @@ O pedido deverá ser apresentado dentro de dois anos, a contar da data da comuni
 
 4. As autoridades competentes dos Estados Contratantes poderão comunicar directamente entre si a fim de chegarem a acordo nos termos indicados nos números anteriores. Se se afigurar que tal acordo poderá ser facilitado por troca de impressões orais, essas trocas de impressões podem efectuar-se no seio de uma comissão composta por representantes das autoridades competentes dos Estados Contratantes.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Troca de informações)
 
@@ -529,13 +549,13 @@ b) De fornecer informações que não possam ser obtidas com base na sua legisla
 
 c) De transmitir informações reveladoras de segredos comerciais, industriais, de negócios ou profissionais ou de processos comerciais ou industriais, ou informações cuja comunicação seria contrária, à ordem pública.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Funcionários diplomáticos e consulares)
 
 O disposto na presente Convenção não prejudicará os privilégios fiscais de que beneficiam os funcionários diplomáticos ou consulares em virtude de regras gerais do direito internacional ou de disposições de acordos especiais.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Extensão territorial)
 
@@ -545,7 +565,7 @@ O disposto na presente Convenção não prejudicará os privilégios fiscais de 
 
 ### CAPÍTULO VI — Disposições finais
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Entrada em vigor)
 
@@ -565,7 +585,7 @@ Em Portugal:
 
 3. Não obstante o disposto no n.º 2, as disposições do artigo 8.º aplicar-se-ão, relativamente às companhias de navegação aérea, aos impostos sobre os rendimentos obtidos a partir de 1 de Janeiro de 1963.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Denúncia)
 
@@ -593,4 +613,4 @@ Pelo Governo Espanhol:
 
 Fernando María Castiella y Maiz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/20700/11791194.pdf))](https://files.diariodarepublica.pt/1s/1969/09/20700/11791194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/20700/11791194.pdf)

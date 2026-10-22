@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1976-500700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1197c14b13525293e32f4d8c59213cf529d78c6d81af698251728157209aede
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24edd580dc36d1d0265bfeeefffa4cb5f22654f2e902a9f422372f7b25dd64d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contabilidade Pública
+- Definição de Competências
+- Gestão Financeira
+- Gestão Orçamental
+- GNR
+- Orçamento
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:643953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:17Z'
   warnings: []
   errors: []
 ---
@@ -90,36 +101,36 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As receitas arrecadadas pelo Comando-Geral, comandos distritais, Escola Prática ou unidade equivalente da Polícia de Segurança Pública, dotados de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outros funções, serão inscritas em orçamento privativo.
+Artigo 1.º - 1. As receitas arrecadadas pelo Comando-Geral, comandos distritais, Escola Prática ou unidade equivalente da Polícia de Segurança Pública, dotados de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outros funções, serão inscritas em orçamento privativo.
 
 2. A cobrança das receitas será efectuada de harmonia com as disposições legais aplicáveis.
 
-###### Art. 2.º A administração das receitas referidas no número anterior constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, escola prática ou unidade equivalente).
+Art. 2.º A administração das receitas referidas no número anterior constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, escola prática ou unidade equivalente).
 
-###### Art. 3.º Do orçamento privativo constará o desenvolvimento da despesa, que obedecerá ao preceituado na legislação em vigor para os demais serviços do Estado.
+Art. 3.º Do orçamento privativo constará o desenvolvimento da despesa, que obedecerá ao preceituado na legislação em vigor para os demais serviços do Estado.
 
-###### Art. 4.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.
+Art. 4.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.
 
 2. Quando se verifique a necessidade de introduzir alterações no orçamento já aprovado, deverão estas ser efectuadas através do orçamento suplementar, dentro dos limites estabelecidos na lei.
 
-###### Art. 5.º A competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regimes especiais estabelecidos para a Polícia de Segurança Pública.
+Art. 5.º A competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regimes especiais estabelecidos para a Polícia de Segurança Pública.
 
-###### Art. 6.º Os orçamentos privativos, quer ordinários, quer suplementares, serão aprovados pelo Ministro da Administração Interna e visados pelo Ministro das Finanças.
+Art. 6.º Os orçamentos privativos, quer ordinários, quer suplementares, serão aprovados pelo Ministro da Administração Interna e visados pelo Ministro das Finanças.
 
-###### Art. 7.º Cada Comando-Geral, comando distrital, Escola Prática ou unidade equivalente organizará a respectiva conta de gerência, a submeter a julgamento do Tribunal de Contas, nos termos da legislação aplicável.
+Art. 7.º Cada Comando-Geral, comando distrital, Escola Prática ou unidade equivalente organizará a respectiva conta de gerência, a submeter a julgamento do Tribunal de Contas, nos termos da legislação aplicável.
 
-###### Art. 8.º O Comando-Geral da Polícia de Segurança Pública elaborará as instruções necessárias à execução deste diploma.
+Art. 8.º O Comando-Geral da Polícia de Segurança Pública elaborará as instruções necessárias à execução deste diploma.
 
-###### Art. 9.º (transitório). Os saldos apurados nos fundos privativos do Comando-Geral, comandos distritais, Escola Prática ou unidade equivalente em 31 de Dezembro de 1975 transitarão para o novo Fundo Privativo, criado nos termos do artigo 2.º deste diploma.
+Art. 9.º (transitório). Os saldos apurados nos fundos privativos do Comando-Geral, comandos distritais, Escola Prática ou unidade equivalente em 31 de Dezembro de 1975 transitarão para o novo Fundo Privativo, criado nos termos do artigo 2.º deste diploma.
 
-###### Art. 10.º As dúvidas que suscitar a execução do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
+Art. 10.º As dúvidas que suscitar a execução do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
 
-###### Art. 11.º Este decreto-lei produzirá efeitos desde 1 de Janeiro de 1976.
+Art. 11.º Este decreto-lei produzirá efeitos desde 1 de Janeiro de 1976.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 18 de Março de 1976.**
+Promulgado em 18 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

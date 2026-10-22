@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11100/12781278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1982-392457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2382a192398761b9dfaec032c87fa57c9432cf0552ef3346b1988ad1a24fd893
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ad9475344fbf20e26cf47aa11d562952565abc17077d47555487d875474fb83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano não Habitacional
+- Comércio
+- Indústria
+- Profissão Independente
 relationships:
 - type: amended_by
   target: pt:dre:443522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:567896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443522:por
+  label: "Revogado pelo DEC LEI.436/83.1983.12.19.MFP, DR.IS [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1983-443522
+  date: '1983-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:54Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +116,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Requerida a avaliação fiscal extraordinária nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro, o senhorio poderá, entretanto, proceder à actualização anual da renda com base no coeficiente em vigor, até lhe ser possível o ajustamento da mesma através da avaliação.
+Artigo 1.º - 1 - Requerida a avaliação fiscal extraordinária nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro, o senhorio poderá, entretanto, proceder à actualização anual da renda com base no coeficiente em vigor, até lhe ser possível o ajustamento da mesma através da avaliação.
 
 2 - Tratando-se de contratos de arrendamento referidos no n.º 1 do artigo 4.º do diploma citado no número anterior e em que os senhorios já tenham exigido a actualização da renda com base no coeficiente fixado pela [Portaria n.º 62/82](https://diariodarepublica.pt/dr/detalhe/portaria/62-1982-601319), de 15 de Janeiro, poderá ainda ser requerida, no prazo de 90 dias a contar da data da publicação do presente diploma, a avaliação fiscal extraordinária prevista no n.º 2 do mencionado artigo 4.º
 
-###### Art. 2.º As disposições do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro, são aplicáveis a todos os arrendamentos urbanos destinados a fins diferentes de habitação.
+Art. 2.º As disposições do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro, são aplicáveis a todos os arrendamentos urbanos destinados a fins diferentes de habitação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Abril de 1982.**
+Promulgado em 26 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

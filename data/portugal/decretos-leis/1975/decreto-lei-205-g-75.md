@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 89/1975, 2º Suplemento, Série I de 1975-04-16
   number: '89'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 576-(10) a 576-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08902/00100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f64643e84d80a5b8e2964444e9837f02326f23ef64666cb474ae4c9fb1e6182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8024a964641a3294758d2923750fd175053e4057014e386ac4e2e71b3318f8f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Nacionalização
+- Transporte
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:59Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +113,7 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São declaradas nacionalizadas, com eficácia a contar de 15 de Abril de 1975, as sociedades exploradoras do serviço público de produção, transporte e distribuição de energia eléctrica a seguir indicadas:
+Artigo 1.º - 1. São declaradas nacionalizadas, com eficácia a contar de 15 de Abril de 1975, as sociedades exploradoras do serviço público de produção, transporte e distribuição de energia eléctrica a seguir indicadas:
 
 AES - Aliança Eléctrica do Sul, S. A. R. L.;
 
@@ -133,27 +145,27 @@ UEP - União Eléctrica Portuguesa, S. A. R. L.
 
 2. As nacionalizações previstas no número anterior são feitas sem prejuízo dos direitos dos actuais titulares de acções e de quotas representativas do capital privado a serem indemnizados.
 
-###### Art. 2.º O Estado pagará às entidades privadas titulares de acções e de quotas do capital das empresas nacionalizadas, contra entrega dos respectivos títulos, uma indemnização a definir quanto ao montante, prazo e forma de pagamento em diploma legal a publicar no prazo de cento e oitenta dias, a contar da data do início da eficácia da nacionalização.
+Art. 2.º O Estado pagará às entidades privadas titulares de acções e de quotas do capital das empresas nacionalizadas, contra entrega dos respectivos títulos, uma indemnização a definir quanto ao montante, prazo e forma de pagamento em diploma legal a publicar no prazo de cento e oitenta dias, a contar da data do início da eficácia da nacionalização.
 
-###### Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo das sociedades a que se refere o artigo 1.º, ou que se encontrem afectos à sua exploração, são transferidos para o Estado, integrados no património autónomo das respectivas empresas ou a ela igualmente afectos.
+Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo das sociedades a que se refere o artigo 1.º, ou que se encontrem afectos à sua exploração, são transferidos para o Estado, integrados no património autónomo das respectivas empresas ou a ela igualmente afectos.
 
 2. O disposto no número anterior constitui título comprovativo da transferência para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pelas respectivas empresas e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
 
-###### Art. 4.º - 1. As empresas nacionalizadas assumirão em relação a todos os actos e contratos celebrados pelas sociedades referidas no artigo 1.º a posição jurídica e contratual que estas detiverem à data do início da eficácia da nacionalização.
+Art. 4.º - 1. As empresas nacionalizadas assumirão em relação a todos os actos e contratos celebrados pelas sociedades referidas no artigo 1.º a posição jurídica e contratual que estas detiverem à data do início da eficácia da nacionalização.
 
 2. As empresas nacionalizadas assumirão igualmente a posição social que as empresas referidas no artigo 1.º detiverem nas sociedades em que sejam sócias à data do início da eficácia da nacionalização.
 
-###### Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço das empresas referidas no artigo 1.º transitará automaticamente para as empresas nacionalizadas.
+Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço das empresas referidas no artigo 1.º transitará automaticamente para as empresas nacionalizadas.
 
 2. Até entrar em vigor o regime a definir no estatuto a que se refere a alínea b) do artigo 13.º do presente decreto-lei, mantém-se a vigência da legislação aplicável ao trabalho prestado nas empresas referidas no artigo 1.º, bem como as convenções de trabalho às quais têm estado vinculadas aquelas sociedades e o seu pessoal.
 
-###### Art. 6.º - 1. É revogado o título que autoriza a Electra del Lima, S. A., a explorar o aproveitamento do Lindoso, linhas e instalações complementares ligadas à exploração.
+Art. 6.º - 1. É revogado o título que autoriza a Electra del Lima, S. A., a explorar o aproveitamento do Lindoso, linhas e instalações complementares ligadas à exploração.
 
 2. Consideram-se transferidos para o Estado os serviços e instalações a que se refere o número anterior, os quais, para efeitos de exploração, ficarão a cargo da sociedade nacionalizada União Eléctrica Portuguesa, que integrará o pessoal a eles afecto.
 
 3. As condições de transferência das instalações e serviços referidos no número anterior serão acordadas entre o Governo e a sociedade interessada.
 
-###### Art. 7.º - 1. São dissolvidos os actuais órgãos sociais das sociedades nacionalizadas.
+Art. 7.º - 1. São dissolvidos os actuais órgãos sociais das sociedades nacionalizadas.
 
 2. Por despacho do Primeiro-Ministro, sob proposta do Ministro da Indústria e Tecnologia, será nomeada uma comissão administrativa para cada uma das sociedades nacionalizadas, composta por três a cinco elementos de reconhecida competência em problemas do sector.
 
@@ -161,7 +173,7 @@ UEP - União Eléctrica Portuguesa, S. A. R. L.
 
 4. As comissões administrativas exercerão funções até à designação dos titulares dos órgãos de gestão que venham a resultar da reestruturação das empresas nacionalizadas prevista no artigo 12.º
 
-###### Art. 8.º - 1. As comissões administrativas terão todos os poderes que pela lei ou pelos estatutos das sociedades onde exerçam funções pertenciam aos conselhos de administração ou de gerência, com excepção:
+Art. 8.º - 1. As comissões administrativas terão todos os poderes que pela lei ou pelos estatutos das sociedades onde exerçam funções pertenciam aos conselhos de administração ou de gerência, com excepção:
 
 a) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
 
@@ -169,13 +181,13 @@ b) Da capacidade para a prática de actos que não estejam estritamente relacion
 
 2. A prática dos actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização do Ministro da Indústria e Tecnologia.
 
-###### Art. 9.º As remunerações dos membros das comissões administrativas serão fixadas por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo das respectivas sociedades.
+Art. 9.º As remunerações dos membros das comissões administrativas serão fixadas por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo das respectivas sociedades.
 
-###### Art. 10.º A responsabilidade perante terceiros, decorrente dos actos de gestão praticados pelos membros das comissões administrativas, será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+Art. 10.º A responsabilidade perante terceiros, decorrente dos actos de gestão praticados pelos membros das comissões administrativas, será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
 
-###### Art. 11.º As comissões administrativas elaborarão, após o termo do seu mandato, relatório circunstanciado para apreciação do Ministro da Indústria e Tecnologia.
+Art. 11.º As comissões administrativas elaborarão, após o termo do seu mandato, relatório circunstanciado para apreciação do Ministro da Indústria e Tecnologia.
 
-###### Art. 12.º - 1. As empresas nacionalizadas e a Empresa de Electricidade da Madeira (EEM) serão reestruturadas por diploma a publicar no prazo de noventa dias contados a partir da data da publicação deste decreto-lei.
+Art. 12.º - 1. As empresas nacionalizadas e a Empresa de Electricidade da Madeira (EEM) serão reestruturadas por diploma a publicar no prazo de noventa dias contados a partir da data da publicação deste decreto-lei.
 
 2. Serão transferidos para a entidade económico-jurídica que resultar da reestruturação das empresas nacionalizadas as instalações e serviços de produção e distribuição de energia eléctrica actualmente explorados por autarquias locais, directamente ou por intermédio de serviços municipalizados ou por federações de municípios.
 
@@ -183,7 +195,7 @@ b) Da capacidade para a prática de actos que não estejam estritamente relacion
 
 4. Poderão ser excluídas das transferências previstas nos n.os 2 e 3 deste artigo as instalações de produção ou de distribuição destinadas predominantemente a uso próprio da entidade que as explore.
 
-###### Art. 13.º - 1. A fim de preparar a reestruturação prevista no número anterior, constituir-se-á, no Ministério da Indústria e Tecnologia, uma comissão de reestruturação encarregada de:
+Art. 13.º - 1. A fim de preparar a reestruturação prevista no número anterior, constituir-se-á, no Ministério da Indústria e Tecnologia, uma comissão de reestruturação encarregada de:
 
 a) Proceder aos estudos organizatórios, técnicos e económico-financeiros indispensáveis, bem como realizar as diligências que, para o efeito, se mostrarem necessárias;
 
@@ -205,18 +217,18 @@ e) Estudar e propor medidas legislativas ou de qualquer outra natureza a adoptar
 
 6. As despesas da comissão de reestruturação serão suportadas, rateadamente, pelas sociedades nacionalizadas, de acordo com os critérios fixados em despacho do Ministro da Indústria e Tecnologia.
 
-###### Art. 14.º Os membros dos conselhos de administração, de gerência ou fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+Art. 14.º Os membros dos conselhos de administração, de gerência ou fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
 
-###### Art. 15.º - 1. Os membros dos corpos gerentes das empresas que explorem serviços de distribuição de energia eléctrica não indicados no artigo 1.º respondem solidariamente perante a entidade económico-jurídica que resultar da reestruturação das empresas nacionalizadas pela conservação e manutenção das instalações, bem como pela boa gestão das empresas respectivas, durante o período que decorrer até à realização da transferência prevista no n.º 3 do artigo 12.º
+Art. 15.º - 1. Os membros dos corpos gerentes das empresas que explorem serviços de distribuição de energia eléctrica não indicados no artigo 1.º respondem solidariamente perante a entidade económico-jurídica que resultar da reestruturação das empresas nacionalizadas pela conservação e manutenção das instalações, bem como pela boa gestão das empresas respectivas, durante o período que decorrer até à realização da transferência prevista no n.º 3 do artigo 12.º
 
 2. O disposto no número anterior é aplicável aos titulares dos órgãos responsáveis pelos serviços de distribuição de energia eléctrica explorados por autarquias locais, directamente ou por intermédio de serviços municipalizados ou de federações de municípios.
 
-###### Art. 16.º O presente diploma entra imediatamente em vigor.
+Art. 16.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Mário Alberto Nobre Lopes Soares - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho.
 
-**Promulgado em 16 de Abril de 1975.**
+Promulgado em 16 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

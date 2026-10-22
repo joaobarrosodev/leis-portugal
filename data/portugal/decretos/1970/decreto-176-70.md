@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/176-1970-225874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81c5e62404b84fdfb7288f4dc5756bbb9d138208894bb4013d950da3a876a459
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5c8aa85e74233a0c13137beff3942232f291c045f059b0d0c765e69e5a3bd72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:59Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Ao abrigo do disposto no § 1.º do artigo 150.º da Constituição, por motivo 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Para observância e regulamentação nas províncias ultramarinas são aprovadas as normas gerais anexas a este diploma, relativas:
+Artigo 1.º - 1. Para observância e regulamentação nas províncias ultramarinas são aprovadas as normas gerais anexas a este diploma, relativas:
 
 a) Ao comércio de vinhos no ultramar, incluindo o fabrico, comercialização, circulação e venda ao público dos seus derivados produzidos localmente;
 
@@ -108,13 +120,13 @@ c) Ao fabrico local, comercialização, circulação e venda ao público de bebi
 
 2. Estas normas deverão ser imediatamente observadas pela legislação provincial a publicar pelos Governos de Angola e Moçambique. As outras províncias ultramarinas observá-las-ão em legislação provincial interna, com as adaptações que o condicionalismo local exigir, logo que o julguem possível e conveniente.
 
-###### Art. 2.º - 1. O fabrico e comercialização de bebidas alcoólicas e não alcoólicas só será admissível nas províncias ultramarinas em regime fabril.
+Art. 2.º - 1. O fabrico e comercialização de bebidas alcoólicas e não alcoólicas só será admissível nas províncias ultramarinas em regime fabril.
 
 2. Nestas condições, as indústrias de bebidas alcoólicas e não alcoólicas não são consentâneas nas províncias ultramarinas com o trabalho caseiro ou no domicílio.
 
 3. Nas províncias ultramarinas, a produção de bebidas alcoólicas não poderá ser considerada indústria complementar da exploração agrícola, ficando os estabelecimentos industriais onde o agricultor ou agricultores associados em cooperativas pretendam preparar e transformar as matérias-primas, próprias ou alheias, adequadas à sua produção sempre sujeitos ao regime de condicionamento industrial territorial.
 
-###### Art. 3.º - 1. As províncias ultramarinas publicarão, em regime específico de condicionamento previsto pelo artigo 42.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), os regulamentos necessários para execução do presente diploma, adaptando ao condicionalismo local as normas relativas à produção, comércio, consumo e fiscalização das bebidas alcoólicas, anexas a este diploma.
+Art. 3.º - 1. As províncias ultramarinas publicarão, em regime específico de condicionamento previsto pelo artigo 42.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), os regulamentos necessários para execução do presente diploma, adaptando ao condicionalismo local as normas relativas à produção, comércio, consumo e fiscalização das bebidas alcoólicas, anexas a este diploma.
 
 2. A legislação a publicar pelas províncias ultramarinas em observância das normas anexas ao presente diploma deverá expressamente revogar os diplomas locais que contrarie ou venha substituir.
 
@@ -132,39 +144,39 @@ e) Recipientes de transporte a granel, contentores e vasilhame para além de cer
 
 f) Auto-tanque e vagão-tanque de transporte de bebidas a granel.
 
-###### Art. 4.º - 1. A armazenagem, comércio por grosso e transporte de bebidas alcoólicas a granel, qualquer que seja o meio de transporte utilizado e os contentores, ficarão também sujeitos a condicionamento industrial territorial.
+Art. 4.º - 1. A armazenagem, comércio por grosso e transporte de bebidas alcoólicas a granel, qualquer que seja o meio de transporte utilizado e os contentores, ficarão também sujeitos a condicionamento industrial territorial.
 
 2. As instalações para o exercício do comércio a retalho destinadas ao depósito para efeito de venda ao público de quaisquer bebidas alcoólicas, a granel ou já comercializadas em recipientes de qualquer capacidade, ficarão também sujeitas a licenciamento comercial, a regulamentar pelas províncias ultramarinas.
 
-###### Art. 5.º - 1. Todas as empresas autorizadas ao fabrico. tratamento, comercialização ou simples manuseamento de quaisquer bebidas alcoólicas, fermentadas ou destiladas, deverão requerer aos serviços provinciais de economia, no prazo de noventa dias, a vistoria das respectivas instalações para efeito de verificação, por aqueles serviços, das autorizações concedidas, e forma de laboração, sem o que as autorizações concedidas se considerarão revogadas.
+Art. 5.º - 1. Todas as empresas autorizadas ao fabrico. tratamento, comercialização ou simples manuseamento de quaisquer bebidas alcoólicas, fermentadas ou destiladas, deverão requerer aos serviços provinciais de economia, no prazo de noventa dias, a vistoria das respectivas instalações para efeito de verificação, por aqueles serviços, das autorizações concedidas, e forma de laboração, sem o que as autorizações concedidas se considerarão revogadas.
 
 2. Os serviços provinciais de economia, ouvidos os demais com competência na matéria, procederão à revisão das autorizações e licenças já concedidas que não obedeçam aos princípios contidos nas normas anexas.
 
-###### Art. 6.º - 1. Além das sanções previstas no [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247) pela inobservância das condições de licenciamento, as infracções ao regime especial de condicionamento industrial, comercial e de consumo ou venda directa ao público de bebidas alcoólicas, fermentadas ou destiladas, deverão ser incriminadas e punidas por diploma provincial como infracções contra a saúde pública, antieconómicas ou disciplinares, consoante a sua natureza, nos termos dos Decretos-Leis n.os 41204, de 24 de Julho de 1957, 43860, de 16 de Agosto de 1961, e 45279, de 30 de Setembro de 1963, tornados extensivos às províncias ultramarinas respectivamente pelas Portarias n.os 18381, de 5 de Abril de 1961, 20707, de 30 de Julho de 1964, e 20148, de 5 de Novembro de 1963.
+Art. 6.º - 1. Além das sanções previstas no [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247) pela inobservância das condições de licenciamento, as infracções ao regime especial de condicionamento industrial, comercial e de consumo ou venda directa ao público de bebidas alcoólicas, fermentadas ou destiladas, deverão ser incriminadas e punidas por diploma provincial como infracções contra a saúde pública, antieconómicas ou disciplinares, consoante a sua natureza, nos termos dos Decretos-Leis n.os 41204, de 24 de Julho de 1957, 43860, de 16 de Agosto de 1961, e 45279, de 30 de Setembro de 1963, tornados extensivos às províncias ultramarinas respectivamente pelas Portarias n.os 18381, de 5 de Abril de 1961, 20707, de 30 de Julho de 1964, e 20148, de 5 de Novembro de 1963.
 
 2. A legislação provincial a publicar poderá prever o agravamento das penalidades correspondentes a multa aplicáveis aos infractores nos termos da legislação respectiva, e ainda, para além das penalidades previstas pela inobservância do condicionamento industrial e da reorganização industrial, a confiscação a favor do Estado, ou sua destruição, quando a reversão seja considerada impraticável ou inútil, das instalações e equipamentos utilizados contra as disposições estabelecidas provincialmente para o fabrico, preparação, manipulação, comercialização e embalagem de bebidas alcoólicas de qualquer natureza.
 
-###### Art. 7.º Para mais adequada e rigorosa definição da tecnologia de fabrico, fixação de limites analíticos e métodos de análise, deverão promover-se estágios e missões de estudo dos funcionários encarregados do estudo laboratorial e tecnológico e do licenciamento e fiscalização, junto das indústrias congéneres e laboratórios especializados da metrópole ou do estrangeiro.
+Art. 7.º Para mais adequada e rigorosa definição da tecnologia de fabrico, fixação de limites analíticos e métodos de análise, deverão promover-se estágios e missões de estudo dos funcionários encarregados do estudo laboratorial e tecnológico e do licenciamento e fiscalização, junto das indústrias congéneres e laboratórios especializados da metrópole ou do estrangeiro.
 
-###### Art. 8.º - 1. Em defesa da saúde pública, os governos provinciais regulamentarão a venda ao público, a retalho, especialmente a copo, de bebidas alcoólicas, impondo penalidades fiscais, administrativas e criminais aos comerciantes que usem de processos fraudulentos para facilitar o consumo excessivo destas bebidas.
+Art. 8.º - 1. Em defesa da saúde pública, os governos provinciais regulamentarão a venda ao público, a retalho, especialmente a copo, de bebidas alcoólicas, impondo penalidades fiscais, administrativas e criminais aos comerciantes que usem de processos fraudulentos para facilitar o consumo excessivo destas bebidas.
 
 2. Os serviços provinciais de saúde proporão as medidas julgadas necessárias para evitar a expansão do alcoolismo nomeadamente as relativas ao tratamento e recuperação dos intoxicados.
 
-###### Art. 9.º Os governos provinciais poderão sujeitar a imposições fiscais especiais a venda e consumo de bebidas espirituosas, por forma a fazer equivaler os preços das bebidas produzidas localmente aos preços das importadas, com uma tolerância de 10 por cento.
+Art. 9.º Os governos provinciais poderão sujeitar a imposições fiscais especiais a venda e consumo de bebidas espirituosas, por forma a fazer equivaler os preços das bebidas produzidas localmente aos preços das importadas, com uma tolerância de 10 por cento.
 
-###### Art. 10.º São tornadas extensivas a todas as províncias ultramarinas as seguintes disposições:
+Art. 10.º São tornadas extensivas a todas as províncias ultramarinas as seguintes disposições:
 
 a) Do [Decreto-Lei n.º 35846](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35846-1946-156977), de 2 de Setembro de 1946, os artigos 1.º a 9.º, 10.º, com excepção dos seus parágrafos, 11.º, 13.º e 14.º, com excepção dos seus parágrafos, e 15.º a 19.º, inclusive;
 
 b) Os Decretos de 17 de Dezembro de 1903 e n.os 17250, de 22 de Agosto de 1929, e 19615, de 18 de Abril de 1931; o Decreto-Lei n.º 20282, de 5 de Setembro de 1931; a Portaria de 27 de Março de 1912, e a Portaria de 30 de Dezembro de 1918, com as alterações e aditamentos actualmente em vigor na metrópole.
 
-###### Art. 11.º É revogado o Decreto de 27 de Maio de 1911.
+Art. 11.º É revogado o Decreto de 27 de Maio de 1911.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Abril de 1970.**
+Promulgado em 3 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

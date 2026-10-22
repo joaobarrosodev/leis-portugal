@@ -46,40 +46,169 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1980-474127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 304cb5ecf661721c2812a3bdd8aebb08d987742fdd85daf9f84aed7787e04a1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1601d1db0faabfbd6e28d192d17f07df82668ff539eff46c78565fbfe4d0cdb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Segurança Social
+- Ministério dos Assuntos Sociais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:453800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574512:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral da Segurança Social, constante do mapa anexo\
+    \ pela PORT.437/81.27.05.1981.MFP, DR.IS [27.05.1981] de 27.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/437-1981-574512
+  date: '1981-05-27'
+- type: amended_by
+  target: pt:dre:564825:por
+  label: "Criado um lugar de assessor no quadro de pessoal constante do presente diploma, pela PORT.765/81.07.09.1981.MFP,\
+    \ DR.IS [205] de 07.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-1981-564825
+  date: '1981-09-07'
+- type: amended_by
+  target: pt:dre:567950:por
+  label: "Alterado o quadro de pessoal constantes do mapa anexo, pela PORT.1019/81.25.11.1981.MFP, DR.IS [272] de 25.11.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1019-1981-567950
+  date: '1981-11-25'
+- type: amended_by
+  target: pt:dre:553006:por
+  label: "Alterado o quadro de pessoal, constante do mapa anexo ao presente diploma, pela PORT.26/82.1981.12.12.PCM DR.IS\
+    \ [9] DE 12/JAN/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-1982-553006
+  date: '1981-12-12'
+- type: amended_by
+  target: pt:dre:567033:por
+  label: "Alterado o quadro do pessoal da Direcção-Geral da Segurança Social, constante do mapa anexo ao presente diploma,\
+    \ pela PORT.1075/81.19.12.1981.MFP, DR.IS [291] de 19.12.1981\081\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1075-1981-567033
+  date: '1981-12-19'
+- type: amended_by
+  target: pt:dre:375643:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral de Segurança Social, constante do mapa anexo ao presente diploma,\
+    \ alterado pela Port 26/82, de 12-Jan, pela PORT.863/82.11.09.1982.MFP, DR.IS [211] de 11.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/863-1982-375643
+  date: '1982-09-11'
+- type: amended_by
+  target: pt:dre:377173:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal constante do mapa anexo ao presente diploma,\
+    \ pela PORT.1029/82.11.11.1982.MFP, DR.IS [261] de 11.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1029-1982-377173
+  date: '1982-11-11'
+- type: amended_by
+  target: pt:dre:540813:por
+  label: "Alargada a área de recrutamento para o chefe da Divisão de Apoio Jurídico-Institucional pela PORT.26/83.1983.01.07.MAS\
+    \ DR.IS [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-1983-540813
+  date: '1983-01-07'
+- type: amended_by
+  target: pt:dre:540613:por
+  label: "Alargada a área de recrutamento para chefe da Divisão de Integração Social Comunitária do quadro da DGSS pela PORT.38/83.1983.01.12.MAS\
+    \ DR.IS [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/38-1983-540613
+  date: '1983-01-12'
+- type: amended_by
+  target: pt:dre:310820:por
+  label: "Alterado o quadro de pessoal constante do anexo pela PORT.147/83.1983.02.14.MFP DR.IS [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1983-310820
+  date: '1983-02-14'
+- type: amended_by
+  target: pt:dre:312425:por
+  label: "Alterado o quadro de pessoal da Direcção Geral da Segurança Social pela PORT.354/83.1983.03.31.MFP DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1983-312425
+  date: '1983-03-31'
+- type: amended_by
+  target: pt:dre:312449:por
+  label: "Alterado o quadro de pessoal pela PORT.368/83.1983.04.04.MFP DR.IS [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-1983-312449
+  date: '1983-04-04'
+- type: amended_by
+  target: pt:dre:311863:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral da Segurança Social, constante do mapa anexo\
+    \ do presente diploma pela PORT.485/83.26.04.1983.MFP, DR.IS [95] de 26.04.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/485-1983-311863
+  date: '1983-04-26'
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:470217:por
+  label: Rectificado pela DECL.DD6929.04.08.1980.PCM, DR.IS [178] de 04.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470217
+  date: '1980-08-04'
+- type: repealed_by
+  target: pt:dre:453800:por
+  label: "Revogado, com excepção dos n.ºs 3, 4 e 5 do artigo 89.º, pelo DEC LEI.339/83.20.07.1983.MFP, DR.IS [165] de 20.07.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1983-453800
+  date: '1983-07-20'
 article_structure:
   article_count: 94
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 42
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:32Z'
   warnings: []
   errors: []
 ---
@@ -336,7 +465,9 @@ b) Acompanhar no plano técnico a actuação e o funcionamento dos centros regio
 
 c) Colaborar com serviços de outros sectores, designadamente da justiça, das finanças, da educação, do trabalho e da saúde, na definição da política social dirigida à infância e juventude e na orientação e execução técnica da mesma política.
 
-###### Artigo 15.º — Divisão de Protecção Social à infância e Juventude
+###### Artigo 15.º
+
+##### Divisão de Protecção Social à infância e Juventude
 
 1 - A Divisão de Protecção Social à Infância e Juventude tem por objectivo fundamental contribuir, por intermédio da adequada definição das respostas próprias da segurança social, para o desenvolvimento integral das crianças e dos jovens.
 
@@ -354,7 +485,9 @@ e) Efectuar os estudos necessários à adequada execução dos programas tendent
 
 f) Contribuir para o estudo e adopção de medidas que visem a organização e apoio a actividades de tempos livres para crianças e jovens.
 
-###### Artigo 16.º — Divisão de Integração Social de Crianças e Jovens em Situações Especiais
+###### Artigo 16.º
+
+##### Divisão de Integração Social de Crianças e Jovens em Situações Especiais
 
 1 - A Divisão de Integração Social de Crianças e Jovens em Situações Especiais tem por objectivo fundamental contribuir para a prevenção da marginalização ou incorrecto enquadramento social das crianças e jovens e promover a sua integração social, sempre que se verifiquem situações susceptíveis de produzir aqueles fenómenos.
 
@@ -402,7 +535,9 @@ c) Acompanhar no plano técnico a actuação e o funcionamento dos centros regio
 
 d) Colaborar com os serviços de outros sectores, designadamente da justiça, das finanças, da educação, da habitação, do trabalho e da saúde, na definição da política social dirigida à família e às comunidades e na orientação e execução técnica da mesma política.
 
-###### Artigo 20.º — Divisão de Protecção à Família
+###### Artigo 20.º
+
+##### Divisão de Protecção à Família
 
 1 - A Divisão de Protecção à Família tem por objectivo fundamental contribuir para identificar, prevenir, atenuar ou corrigir os efeitos dos factores que provocam a desagregação da família, bem como para reforçar a necessária autonomia e independência dos agregados familiares.
 
@@ -418,7 +553,9 @@ d) Promover estudos e elaborar propostas normativas que visem a definição e ap
 
 e) Definir os tipos de equipamento e serviços adequados às necessidades das famílias e as condições do direito à sua utilização, bem como os respectivos critérios técnicos de implantação e as normas gerais de funcionamento, nomeadamente quanto a serviços de apoio domiciliário e equipamento colectivo.
 
-###### Artigo 21.º — Divisão de Integração Social Comunitária
+###### Artigo 21.º
+
+##### Divisão de Integração Social Comunitária
 
 1 - A Divisão de Integração Social Comunitária tem por objectivo fundamental a prevenção dos fenómenos de marginalização social e a integração dos grupos e comunidades.
 
@@ -458,7 +595,9 @@ b) Acompanhar no plano técnico a actuação e o funcionamento dos centros regio
 
 c) Colaborar com os serviços de outros sectores, designadamente das finanças, da saúde, do trabalho e da tutela de actividades económicas, na definição da política social dirigida à população activa e na orientação e execução técnica da mesma política.
 
-###### Artigo 25.º — Divisão de Enquadramento e Regimes Jurídicos de Protecção Social
+###### Artigo 25.º
+
+##### Divisão de Enquadramento e Regimes Jurídicos de Protecção Social
 
 1 - A Divisão de Enquadramento e Regimes Jurídicos de Protecção Social tem por objectivo fundamental promover o adequado enquadramento na segurança social das pessoas ou grupos em função das respectivas actividades ou profissões.
 
@@ -474,7 +613,9 @@ d) Definir, em geral, as modalidades de protecção adequadas, em cada momento, 
 
 e) Estudar e definir critérios de ordem geral para a atribuição de subsídios a grupos profissionais e indivíduos em situações de carência não previstas especificamente.
 
-###### Artigo 26.º — Divisão das Situações de Incapacidade para o Trabalho
+###### Artigo 26.º
+
+##### Divisão das Situações de Incapacidade para o Trabalho
 
 1 - A Divisão das Situações de Incapacidade para o Trabalho tem por objectivo fundamental contribuir para a identificação e prevenção das causas que determinam situações de incapacidade temporária para o trabalho, independentemente da natureza das causas, e definir as adequadas respostas da segurança social a essas situações.
 
@@ -490,7 +631,9 @@ d) Definir ou contribuir para a definição de esquemas integrados de prestaçõ
 
 e) Estabelecer formas de intervenção, tendo em vista ajustar os índices de consumo das prestações para situações de incapacidade temporária aos índices médios de verificação destas situações que devam considerar-se adequados.
 
-###### Artigo 27.º — Divisão das Situações de Desemprego
+###### Artigo 27.º
+
+##### Divisão das Situações de Desemprego
 
 1 - A Divisão das Situações de Desemprego tem por objectivo fundamental contribuir, em colaboração com o Ministério do Trabalho, para a identificação e prevenção das causas e para a definição integrada das formas de resposta social às situações de carência resultantes de desemprego.
 
@@ -528,7 +671,9 @@ b) Acompanhar no plano técnico a actuação e o funcionamento dos centros regio
 
 c) Colaborar com os serviços de outros sectores, designadamente das finanças, da habitação, do trabalho e da saúde, na definição da política social dirigida à população idosa e na orientação e execução técnica da mesma política.
 
-###### Artigo 31.º — Divisão de Prestações Pecuniárias
+###### Artigo 31.º
+
+##### Divisão de Prestações Pecuniárias
 
 1 - A Divisão de Prestações Pecuniárias tem como objectivo fundamental contribuir para atenuar ou eliminar as situações de carência e para evitar a marginalização social da população idosa, pela definição integrada de respostas de natureza pecuniária.
 
@@ -540,7 +685,9 @@ b) Dar parecer sobre as questões suscitadas pela aplicação das normas respeit
 
 c) Definir integradamente as prestações pecuniárias dirigidas à população idosa e os critérios de atribuição das mesmas prestações ou subsídios em situações não previstas especificamente.
 
-###### Artigo 32.º — Divisão de Apoio à Intervenção Social
+###### Artigo 32.º
+
+##### Divisão de Apoio à Intervenção Social
 
 1 - A Divisão de Apoio à Intervenção Social tem como objectivo fundamental contribuir para atenuar ou eliminar as situações de carência e evitar a marginalização social das pessoas idosas, mediante a definição de formas de acção social e de equipamento social adequado.
 
@@ -582,7 +729,9 @@ c) Acompanhar no plano técnico a actuação e o funcionamento dos centros regio
 
 d) Colaborar com os serviços de outros sectores, designadamente das finanças, da habitação, do trabalho e da saúde, e com outras entidades públicas ou privadas empenhadas na problemática da invalidez e reabilitação, na definição da política social dirigida a inválidos e deficientes e na orientação e execução técnica da mesma política.
 
-###### Artigo 36.º — Divisão de Prestações Pecuniárias
+###### Artigo 36.º
+
+##### Divisão de Prestações Pecuniárias
 
 1 - A Divisão de Prestações Pecuniárias tem como objectivo fundamental contribuir para atenuar ou eliminar as situações de carência e evitar a marginalização social dos inválidos e deficientes, pela definição integrada de respostas de natureza pecuniária.
 
@@ -594,7 +743,9 @@ b) Dar parecer sobre as questões suscitadas pela aplicação das normas respeit
 
 c) Definir de modo integrado as prestações pecuniárias dirigidas a inválidos e deficientes e os critérios de atribuição das mesmas prestações ou de subsídios em situações não previstas especificamente.
 
-###### Artigo 37.º — Divisão de Apoio à Intervenção Social
+###### Artigo 37.º
+
+##### Divisão de Apoio à Intervenção Social
 
 1 - A Divisão de Apoio à Intervenção Social tem como objectivo fundamental contribuir para eliminar ou atenuar as situações de carência e evitar a marginalização social de inválidos e deficientes, mediante a definição de formas eficazes de acção social e do equipamento social adequado.
 
@@ -634,7 +785,9 @@ b) Acompanhar no plano técnico-jurídico a actuação e o funcionamento dos cen
 
 c) Assegurar o registo dos actos jurídicos de natureza institucional e o cadastro das instituições privadas de solidariedade social e das restantes instituições, organismos e estabelecimentos que desenvolvem acções do âmbito da segurança social.
 
-###### Artigo 41.º — Divisão de Apoio Jurídico-Institucional
+###### Artigo 41.º
+
+##### Divisão de Apoio Jurídico-Institucional
 
 1 - A Divisão de Apoio Jurídico-Institucional tem como objectivos fundamentais contribuir para a regularidade jurídica dos actos de natureza institucional e do processo de registo, bem como a salvaguarda dos interesses dos beneficiários e da liberdade e legalidade de actuação das instituições privadas.
 
@@ -718,7 +871,9 @@ d) Colaborar e articular a sua acção com os departamentos centrais do sector n
 
 e) Colaborar com os serviços de outros sectores, sempre que se mostre necessário ao funcionamento coordenado e global da Direcção-Geral.
 
-###### Artigo 46.º — Divisão de Estudos, Planeamento e Coordenação
+###### Artigo 46.º
+
+##### Divisão de Estudos, Planeamento e Coordenação
 
 1 - A Divisão de Estudos, Planeamento e Coordenação tem por objectivo fundamental contribuir para o correcto enquadramento da acção da Direcção-Geral nos objectivos e prioridades do sector, numa perspectiva global e integrada de segurança social, em articulação com as restantes áreas da política social e da política económica.
 
@@ -744,7 +899,9 @@ a) Contribuir para o funcionamento do sistema no seu todo e assegurar o funciona
 
 b) Dar seguimento às solicitações de apoio e informação técnica dos órgãos e serviços da estrutura orgânica central e regional e ao acompanhamento das acções de coordenação dos órgãos da estrutura regional do sistema, quando estejam em causa as perspectivas globais de segurança social.
 
-###### Artigo 47.º — Divisão de Organização e de Gestão de Pessoal
+###### Artigo 47.º
+
+##### Divisão de Organização e de Gestão de Pessoal
 
 1 - A Divisão de Organização e de Gestão de Pessoal, em estreita articulação com a Direcção-Geral da Organização e Recursos Humanos, tem como objectivos fundamentais estudar, propor, promover e executar e colaborar nas medidas tendentes ao aperfeiçoamento da organização administrativa e ao funcionamento integrado dos serviços, bem como ao desenvolvimento e gestão do pessoal, incluindo as acções de formação e aperfeiçoamento técnico-administrativo e técnico-profissional.
 
@@ -878,7 +1035,9 @@ c) Assegurar o serviço de recepção, distribuição e expedição de correspon
 
 d) Executar as tarefas de que for incumbida pelas repartições administrativas.
 
-##### SUBSECÇÃO III — Divisão de Relações Públicas, Informação e Relações Internacionais
+##### SUBSECÇÃO III
+
+##### Divisão de Relações Públicas, Informação e Relações Internacionais
 
 ###### Artigo 53.º — Objectivos e competências
 
@@ -1280,12 +1439,12 @@ O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 9 de Maio de 1980.**
+Promulgado em 9 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Mapa de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11600/10661087.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11600/10661087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11600/10661087.pdf)

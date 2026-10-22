@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 88/1975, 1º Suplemento, Série I de 1975-04-15
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 572-(1) a 572-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08801/00010020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-a-1975-534411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9c86e8d1ae769568f097cb45ee5b8213db6c95e1b5f29c1e3f8980bfcdc356
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4433215befb0b4b56b10339647cd9911abc952e11fe54009a95647694757315c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia de VOTO
+- Assembleia Nacional
+- Cabo Verde
+- Caderno de Recenseamento
+- Comissão Recenseadora
+- Definição de Competências
+- Direito de Voto
+- Eleição Legislativa
+- Parlamentar
+- Recenseamento Eleitoral
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309908:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:51Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +139,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-## TÍTULO I — Parte geral
+## TÍTULO I
 
-###### ARTIGO 1.º
+## Parte geral
+
+ARTIGO 1.º
 
 (Data e forma da eleição)
 
 A eleição de deputados à Assembleia Nacional de Cabo Verde terá lugar em 30 de Junho de 1975, por meio de sufrágio directo e universal e escrutínio secreto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Poderes da Assembleia)
 
@@ -135,7 +161,7 @@ A eleição de deputados à Assembleia Nacional de Cabo Verde terá lugar em 30 
 
 ### CAPÍTULO I — Capacidade eleitoral activa
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Capacidade eleitoral activa)
 
@@ -151,7 +177,7 @@ c) Encontrarem-se no território de Cabo Verde há mais de seis meses, em relaç
 
 d) Residirem fora do território de Cabo Verde em virtude de missão do interesse de Cabo Verde, como tal reconhecida pelo respectivo Governo de Transição, ou serem cônjuges ou filhos menores de quem se encontre nessa situação e com ele residam.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Incapacidades eleitorais activas)
 
@@ -171,7 +197,7 @@ f) Os indivíduos que tenham exercido no território de Cabo Verde as seguintes 
 
 ### CAPÍTULO II — Capacidade eleitoral passiva
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Capacidade eleitoral passiva)
 
@@ -179,7 +205,7 @@ f) Os indivíduos que tenham exercido no território de Cabo Verde as seguintes 
 
 2. Os funcionários públicos de Cabo Verde não carecem de autorização para se candidatarem a deputados à Assembleia Nacional de Cabo Verde.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Incapacidades eleitorais passivas)
 
@@ -193,13 +219,13 @@ c) Não podem candidatar-se pelo círculo eleitoral em que exerçam a sua activi
 
 ### CAPÍTULO III — Exercício do cargo de deputado
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Direito de emprego)
 
 Ninguém pode ser prejudicado na sua colocação ou emprego permanentes por virtude do desempenho das funções de deputado à Assembleia Nacional de Cabo Verde.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Imunidades)
 
@@ -209,7 +235,7 @@ Ninguém pode ser prejudicado na sua colocação ou emprego permanentes por virt
 
 3. Movido procedimento criminal contra algum deputado, e indiciado este por despacho de pronuncia ou equivalente, fora do caso previsto no número anterior, cabe à Assembleia decidir sobre se o mesmo deputado deve ou não ser suspenso para efeito do seguimento do processo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Regalias e direitos)
 
@@ -223,7 +249,7 @@ c) Terão o direito de requerer os elementos, informações e publicações ofic
 
 d) Terão direito a cartão especial de identificação e ao subsídio que o Regimento da Assembleia fixar.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Perda de mandato)
 
@@ -235,13 +261,13 @@ b) Não tomem assento na Assembleia durante cinco sessões consecutivas, ou quin
 
 2. Compete à Assembleia declarar a perda do mandato em que incorrer qualquer deputado.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Renúncia ao mandato)
 
 Os deputados à Assembleia Nacional de Cabo Verde não poderão renunciar ao mandato, salvo por motivo julgado justificado pela própria Assembleia.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Ratificação pela Assembleia)
 
@@ -251,13 +277,13 @@ A validade do disposto neste capítulo fica dependente de ratificação da Assem
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Universalidade do recenseamento)
 
 Devem ser inscritos no recenseamento todos os naturais de Cabo Verde que possuam capacidade eleitoral activa, nos termos deste diploma.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Oficiosidade e obrigatoriedade)
 
@@ -269,13 +295,13 @@ Devem ser inscritos no recenseamento todos os naturais de Cabo Verde que possuam
 
 4. Fora do território de Cabo Verde o recenseamento é voluntário.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Dever de verificação)
 
 Todo o eleitor tem o direito de verificar se está devidamente inscrito e, em caso de erro ou omissão, o de requerer a respectiva rectificação ou inscrição.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Organização do recenseamento)
 
@@ -285,25 +311,25 @@ Todo o eleitor tem o direito de verificar se está devidamente inscrito e, em ca
 
 3. O recenseamento será elaborado por cadernos, por forma que, em cada um deles, não figurem sensivelmente mais de mil eleitores.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Local de recenseamento)
 
 Os eleitores residentes no território de Cabo Verde serão inscritos na área geográfica ou administrativa, definida nos termos do n.º 1 do artigo 16.º, em que tenham a sua residência habitual.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Unicidade da inscrição)
 
 Ninguém pode estar inscrito mais do que uma vez no recenseamento.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Teor da inscrição)
 
 A inscrição dos eleitores deverá ser feita pelo seu nome completo, filiação, data, local de nascimento e morada.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Elaboração do recenseamento)
 
@@ -311,7 +337,7 @@ A inscrição dos eleitores deverá ser feita pelo seu nome completo, filiação
 
 ### CAPÍTULO II — Comissões de recenseamento
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Composição)
 
@@ -325,19 +351,19 @@ A inscrição dos eleitores deverá ser feita pelo seu nome completo, filiação
 
 5. Em caso de falta ou impedimento do exercício do cargo, devidamente justificados, a Comissão Eleitoral de Cabo Verde designará os respectivos substitutos.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Requisição ou pedido de informações e esclarecimentos)
 
 As comissões de recenseamento poderão requisitar directamente a quaisquer organismos oficiais ou solicitar a entidades privadas as informações ou esclarecimentos de que careçam para o desempenho da sua missão.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Funcionamento)
 
 As comissões de recenseamento funcionarão nos locais que forem designados pela Comissão Eleitoral de Cabo Verde, em todos os dias, durante o período da inscrição e de acordo com o horário que vier a ser aprovado por aquela Comissão, a qual deverá tomar em conta o horário de trabalho da população.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Atribuições)
 
@@ -355,7 +381,7 @@ e) Decidir sobre a justificação dos pedidos de inscrição no recenseamento fo
 
 ### CAPÍTULO III — Operações de recenseamento
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Calendário das operações de recenseamento)
 
@@ -367,7 +393,7 @@ b) Designará os membros da Comissão Eleitoral de Cabo Verde.
 
 2. Até cinco dias antes do início do prazo de recenseamento, a Comissão Eleitoral de Cabo Verde designará os membros das comissões de recenseamento.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Processo de inscrição)
 
@@ -379,7 +405,7 @@ b) Designará os membros da Comissão Eleitoral de Cabo Verde.
 
 4. Quando a apresentação ou remessa do verbete não for feita pelo próprio, deverá o apresentante ou remetente assiná-lo também.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Cadernos de recenseamento)
 
@@ -393,13 +419,13 @@ b) Designará os membros da Comissão Eleitoral de Cabo Verde.
 
 5. O recenseamento dos eleitores residentes fora do território de Cabo Verde efectuar-se-á de acordo com o disposto no título IX.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Exposição de cópia para exame e reclamação)
 
 Durante os três dias posteriores ao termo do prazo para a elaboração do caderno definitivo dos eleitores, previstos no n.º 2 do artigo 27.º, será exposta, à porta do local em que funcionarem as comissões de recenseamento, uma cópia fiel daquele caderno, para exame e reclamação dos interessados.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Reclamações)
 
@@ -407,7 +433,7 @@ Durante os três dias posteriores ao termo do prazo para a elaboração do cader
 
 2. A comissão de recenseamento decidirá as reclamações no dia seguinte, devendo afixar imediatamente as suas decisões à porta do local em que funcionar.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Recursos)
 
@@ -419,7 +445,7 @@ Durante os três dias posteriores ao termo do prazo para a elaboração do cader
 
 4. Quer as reclamações, quer os recursos serão gratuitos e isentos de seio, bem assim os documentos destinados a instruí-los.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Correcção dos cadernos definitivos)
 
@@ -427,7 +453,7 @@ Durante os três dias posteriores ao termo do prazo para a elaboração do cader
 
 2. Após a publicação a que se refere o número anterior, os cadernos de recenseamento só poderão sofrer modificações no caso de morte comprovada de eleitor inscrito ou de alteração de capacidade eleitoral.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Número de eleitores inscritos e cópia dos cadernos de recenseamento)
 
@@ -435,13 +461,13 @@ Durante os três dias posteriores ao termo do prazo para a elaboração do cader
 
 2. A Comissão Eleitoral de Cabo Verde, nos três dias imediatos, apurará o número total de eleitores inscritos nas áreas de recenseamento abrangidas por cada círculo eleitoral e o número global de eleitores de todos os círculos, dando aos resultados imediata e ampla publicidade.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Guarda e conservação do recenseamento)
 
 A guarda dos cadernos de recenseamento compete à entidade para o efeito designada pelo presidente da Assembleia Nacional de Cabo Verde, à qual deverão ser para o efeito remetidos.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Presunção de capacidade eleitoral)
 
@@ -453,7 +479,7 @@ A guarda dos cadernos de recenseamento compete à entidade para o efeito designa
 
 ### CAPÍTULO I — Organização do colégio eleitoral
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Círculos eleitorais)
 
@@ -463,7 +489,7 @@ A guarda dos cadernos de recenseamento compete à entidade para o efeito designa
 
 3. Fora do território de Cabo Verde não haverá círculos eleitorais, e os eleitores exercerão o seu direito de voto, sem direito de apresentação de candidatos, em relação às listas apresentadas pelo círculo eleitoral da sua naturalidade.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Número e distribuição de deputados)
 
@@ -471,13 +497,13 @@ A guarda dos cadernos de recenseamento compete à entidade para o efeito designa
 
 2. Até dois dias após o apuramento do número de eleitores inscritos na área de cada círculo eleitoral, o Governo de Transição anunciará publicamente o número total de deputados e a sua distribuição pelos círculos, sem prejuízo da publicação imediata de decreto confirmativo do anúncio.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Colégios eleitorais)
 
 A cada círculo eleitoral corresponde um colégio eleitoral.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Natureza do mandato dos deputados)
 
@@ -485,13 +511,13 @@ Os deputados à Assembleia Nacional de Cabo Verde são representantes do povo de
 
 ### CAPÍTULO II — Regime da eleição
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Modo da eleição)
 
 Os deputados à Assembleia Constituinte de Cabo Verde serão eleitos por listas plurinominais apresentadas por cada colégio eleitoral, dispondo o eleitor de um voto singular de lista.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Organização das listas)
 
@@ -499,7 +525,7 @@ Os deputados à Assembleia Constituinte de Cabo Verde serão eleitos por listas 
 
 2. Os candidatos substitutos de cada lista considerar-se-ão ordenados segundo a sequência constante da respectiva declaração de candidatura, pela mesma ordem se procedendo à sua chamada à efectividade, quando for caso disso. Não haverá lugar ao preenchimento de vaga no caso de já não existirem candidatos substitutos não chamados à efectividade de funções.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Critério da eleição)
 
@@ -509,13 +535,13 @@ O mandato será conferido aos candidatos da lista que obtiver maior número de v
 
 ### CAPÍTULO I — Comissão Eleitoral de Cabo Verde
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Comissão Eleitoral de Cabo Verde)
 
 O Governo de Transição nomeará, por decreto, a Comissão Eleitoral de Cabo Verde, que superintenderá nas eleições, dentro e fora do território de Cabo Verde, directamente ou por delegação.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Composição)
 
@@ -531,13 +557,13 @@ d) Um cidadão de reconhecida idoneidade, que se identifique com o processo de d
 
 2. A Comissão Eleitoral de Cabo Verde designará, para cada círculo eleitoral, e para quaisquer outros lugares, nomeadamente exteriores ao território de Cabo Verde, um ou mais delegados, cuja competência definirá em credenciais de que serão portadores.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Duração)
 
 A Comissão Eleitoral de Cabo Verde tomará posse perante o Ministro da Administração Interna do Governo de Transição imediatamente após o decreto de nomeação e ficará dissolvida ipso jure noventa dias após o apuramento geral da eleição.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Competência)
 
@@ -557,13 +583,13 @@ f) Designar delegações suas nos círculos eleitorais e no exterior;
 
 g) Elaborar o mapa do resultado da eleição.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Funcionamento)
 
 A Comissão Eleitoral de Cabo Verde funcionará em plenário e as suas deliberações serão tomadas por maioria dos membros presentes, com um quórum mínimo de três, tendo o presidente voto de desempate.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Estatuto dos membros da Comissão)
 
@@ -575,7 +601,7 @@ A Comissão Eleitoral de Cabo Verde funcionará em plenário e as suas delibera�
 
 ### CAPÍTULO II — Apresentação de candidaturas
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Poder de apresentação de candidaturas)
 
@@ -583,13 +609,13 @@ A Comissão Eleitoral de Cabo Verde funcionará em plenário e as suas delibera�
 
 2. Cada eleitor não pode subscrever a apresentação de mais de uma lista de candidatos.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Proibição de candidatura «plurima»)
 
 Ninguém pode ser candidato a deputado por mais de um círculo eleitoral ou figurar em mais de uma lista, sob pena de inelegibilidade.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Apresentação de candidaturas)
 
@@ -597,7 +623,7 @@ Ninguém pode ser candidato a deputado por mais de um círculo eleitoral ou figu
 
 2. Terminado o prazo para a apresentação das listas de candidatos, o presidente da Comissão Eleitoral de Cabo Verde mandará dar publicidade às listas apresentadas em forma legal.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Requisitos formais da apresentação)
 
@@ -605,7 +631,7 @@ Ninguém pode ser candidato a deputado por mais de um círculo eleitoral ou figu
 
 2. Cada lista será ainda instruída com documentos que façam prova bastante da capacidade eleitoral passiva dos candidatos.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Mandatários das listas)
 
@@ -613,19 +639,19 @@ Ninguém pode ser candidato a deputado por mais de um círculo eleitoral ou figu
 
 2. A morada do mandatário será sempre indicada no processo de candidatura e, quando ele não residir na sede do círculo, escolherá aí domicílio para o efeito de poder ser notificado.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Recepção das candidaturas)
 
 Findo o prazo para a apresentação das listas, a Comissão Eleitoral de Cabo Verde verificará, dentro dos dois dias subsequentes, a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Irregularidades processuais)
 
 Verificando-se irregularidades processuais, o presidente da Comissão Eleitoral de Cabo Verde mandará notificar imediatamente o mandatário da lista ferida de irregularidade para as suprir no prazo de vinte e quatro horas.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Rejeição de candidaturas)
 
@@ -635,7 +661,7 @@ Verificando-se irregularidades processuais, o presidente da Comissão Eleitoral 
 
 3. Findo o prazo referido no número precedente o presidente da Comissão Eleitoral de Cabo Verde, em vinte e quatro horas, fará operar nas listas as rectificações requeridas pelos respectivos mandatários e mandará dar publicidade às listas rectificadas.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Reclamação)
 
@@ -645,19 +671,19 @@ Verificando-se irregularidades processuais, o presidente da Comissão Eleitoral 
 
 3. Quando não haja reclamações, ou decididas as que tenham sido apresentadas, será dada publicidade à relação completa de todas as listas admitidas.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Sorteio das listas admitidas)
 
 No dia seguinte ao da publicação da relação completa das listas admitidas, a Comissão Eleitoral de Cabo Verde procederá ao sorteio das listas admitidas à eleição, na presença dos mandatários das mesmas listas, que para o efeito deverão ser notificados pela via mais rápida, a fim de lhes atribuir uma ordem nos boletins de voto.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Nova publicação das listas)
 
 No dia da eleição, as listas sujeitas a sufrágio serão novamente publicadas por editais afixados à porta e no interior das assembleias de voto, a cujo presidente elas serão, para o efeito, enviadas pela Comissão Eleitoral de Cabo Verde, juntamente com os boletins de voto.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Imunidades dos candidatos)
 
@@ -665,7 +691,7 @@ No dia da eleição, as listas sujeitas a sufrágio serão novamente publicadas 
 
 2. Movido procedimento criminal contra algum candidato e iniciado este por despacho de pronúncia ou equivalente, o processo só poderá seguir após a proclamação dos resultados da eleição.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Substituição de candidatos)
 
@@ -677,13 +703,13 @@ b) Falecimento até quinze dias antes do designado para a eleição.
 
 2. Nos demais casos, ou na falta de substituição, passarão a efectivos os substitutos e ou será reduzido o número destes.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Nova publicação das listas)
 
 Proceder-se-á a nova publicação das listas em caso de substituição de candidatos ou de anulação de decisão de rejeição de qualquer lista.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Desistência)
 
@@ -693,7 +719,7 @@ Proceder-se-á a nova publicação das listas em caso de substituição de candi
 
 ### CAPÍTULO III — Constituição das assembleias de voto
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Assembleias de voto)
 
@@ -703,7 +729,7 @@ Proceder-se-á a nova publicação das listas em caso de substituição de candi
 
 3. As assembleias de voto reunir-se-ão no dia marcado para a eleição, à hora que for fixada pela Comissão Eleitoral de Cabo Verde, directamente ou através dos respectivos delegados.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Mesa das assembleias de voto)
 
@@ -715,7 +741,7 @@ Proceder-se-á a nova publicação das listas em caso de substituição de candi
 
 4. Salvos motivos de força maior ou justa causa, é obrigatório o desempenho das funções de membro de mesa de assembleia de voto.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Constituição da mesa)
 
@@ -723,7 +749,7 @@ Proceder-se-á a nova publicação das listas em caso de substituição de candi
 
 2. A composição da mesa será afixada, imediatamente antes do início dos trabalhos, à porta do edifício em que a assembleia funcionar.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Permanência da mesa)
 
@@ -731,7 +757,7 @@ Proceder-se-á a nova publicação das listas em caso de substituição de candi
 
 2. Para a validade das operações eleitorais é necessária a presença, em cada momento, do presidente da mesa, ou do seu suplente, e de, pelo menos, dois vogais.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Delegados das listas)
 
@@ -741,7 +767,7 @@ Proceder-se-á a nova publicação das listas em caso de substituição de candi
 
 3. Os delegados das listas deverão estar inscritos no recenseamento correspondente à respectiva assembleia de voto, saber ler e escrever português e a sua falta não poderá ser invocada contra a plena validade do resultado do escrutínio.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Poderes dos delegados das listas)
 
@@ -755,7 +781,7 @@ c) Não ser detidos durante o funcionamento da assembleia de voto, a não ser em
 
 d) Obter todas as certidões que requererem sobre as operações de votação e apuramento.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Cadernos eleitorais)
 
@@ -763,7 +789,7 @@ d) Obter todas as certidões que requererem sobre as operações de votação e 
 
 2. As cópias ou fotocópias referidas no número antecedente deverão ser entregues, o mais tardar, antes do início dos trabalhos da respectiva assembleia de voto.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Outros elementos de trabalho da mesa)
 
@@ -771,7 +797,7 @@ A Comissão Eleitoral de Cabo Verde, directamente ou através dos respectivos de
 
 ## TÍTULO VI — Campanha eleitoral
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Campanha eleitoral)
 
@@ -779,19 +805,19 @@ A Comissão Eleitoral de Cabo Verde, directamente ou através dos respectivos de
 
 2. A campanha eleitoral e respectiva propaganda competirão aos candidatos, respectivos proponentes e delegados.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Igualdade de oportunidades)
 
 O Governo de Transição procederá à definição prevista no artigo anterior com escrupulosa salvaguarda do princípio da igualdade de tratamento de oportunidade de todas as listas de candidatos.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Neutralidade e imparcialidade das entidades públicas)
 
 Os órgãos e agentes do Estado, das pessoas colectivas de direito público, das pessoas colectivas de utilidade pública administrativa, das sociedades concessionárias de serviços públicos, de bens do domínio público ou de obras públicas e das sociedades de economia pública ou mista devem, no exercício das suas funções, manter rigorosa neutralidade perante as diversas candidaturas.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Meios de propaganda eleitoral)
 
@@ -801,25 +827,25 @@ No exercício da competência que lhe é deferida pelo artigo 71.º, o Governo d
 
 ### CAPÍTULO I — Sufrágio
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Pessoalidade do voto)
 
 O direito de sufrágio só pode ser exercido pelo cidadão eleitor. Não se consente forma alguma de representação.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Unicidade do voto)
 
 A cada eleitor somente é permitido votar uma vez.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Dever de votar)
 
 O sufrágio não é obrigatório, mas constitui um dever cívico.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Segredo do voto)
 
@@ -827,25 +853,25 @@ O sufrágio não é obrigatório, mas constitui um dever cívico.
 
 2. Dentro da assembleia de voto e fora dela, até à distância de 500 m, ninguém poderá revelar em qual lista vai votar ou votou.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Voto dos cegos)
 
 Os cegos não interditos por sentença votarão acompanhados de um cidadão eleitor por si escolhido, que garantirá a fidelidade de expressão do seu voto e ficará obrigado a absoluto sigilo.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Requisitos do exercício do direito de voto)
 
 Para que o eleitor seja admitido a votar deverá estar inscrito no caderno eleitoral e ser reconhecida pela mesa a sua identidade.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Local do exercício do sufrágio)
 
 O direito de voto será exercido apenas na assembleia eleitoral correspondente ao local por onde o eleitor esteja recenseado.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Abertura da votação)
 
@@ -853,25 +879,25 @@ O direito de voto será exercido apenas na assembleia eleitoral correspondente a
 
 2. Não havendo nenhuma irregularidade imediatamente votarão o presidente, os vogais e os delegados das listas.
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Ordem da votação)
 
 Os eleitores votarão pela ordem de chegada à assembleia de voto, dispondo-se para o efeito em fila.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Continuidade das operações eleitorais)
 
 A assembleia eleitoral funcionará ininterruptamente até serem concluídas todas as operações de votação e apuramento.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Encerramento da votação)
 
-**O presidente declarará encerrada a votação logo que tiverem votado todos os eleitores inscritos ou presentes até à hora que a Comissão Eleitoral de Cabo Verde definir com a hora limite de admissão de eleitores. Depois dessa hora apenas poderão votar os eleitores presentes.**
+O presidente declarará encerrada a votação logo que tiverem votado todos os eleitores inscritos ou presentes até à hora que a Comissão Eleitoral de Cabo Verde definir com a hora limite de admissão de eleitores. Depois dessa hora apenas poderão votar os eleitores presentes.
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Não realização de votação em qualquer assembleia de voto)
 
@@ -883,7 +909,7 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 4. O reconhecimento da impossibilidade de a eleição se efectuar, previsto nos n.os 1 e 3, compete à Comissão Eleitoral de Cabo Verde, directamente ou através dos seus delegados.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Polícia da assembleia de voto)
 
@@ -891,19 +917,19 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 2. Não serão admitidos na assembleia de voto e serão mandados retirar pelo presidente os cidadãos que se apresentarem manifestamente embriagados ou que forem portadores de qualquer arma.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Proibição de propaganda nas assembleias de voto)
 
 É proibida qualquer propaganda dentro das assembleias eleitorais e fora delas até à distância de 500 m.
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Proibição da presença de não eleitores)
 
-**O presidente da assembleia eleitoral deverá mandar sair do local onde ela estiver reunida os cidadãos que não possam votar, salvo se se tratar de candidatos ou mandatários das listas.**
+O presidente da assembleia eleitoral deverá mandar sair do local onde ela estiver reunida os cidadãos que não possam votar, salvo se se tratar de candidatos ou mandatários das listas.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Proibição da presença de força armada e excepções)
 
@@ -915,7 +941,7 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 4. Nos casos previstos nos n.os 1 e 3 suspender-se-ão as operações eleitorais até que o presidente considere verificadas as condições para que possam prosseguir, sob pena de nulidade da eleição na respectiva assembleia de voto.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Boletins de voto)
 
@@ -931,7 +957,7 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 6. Os presidentes das assembleias de voto prestarão contas à Comissão Eleitoral de Cabo Verde, directamente ou através dos seus delegados, dos boletins de voto que tiverem recebido, devendo devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Modo como vota cada eleitor)
 
@@ -945,7 +971,7 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 5. Em caso de necessidade, sobretudo em razão de atraso cultural ou de falta de expediente do eleitor, o presidente da mesa pode esclarecer este sobre a forma de preenchimento do boletim e respectiva dobragem, tendo sempre o escrúpulo de não influir de modo nenhum na escolha do eleitor.
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 (Voto em branco ou nulo)
 
@@ -959,7 +985,7 @@ c) No qual tenha sido assinalado o quadrado correspondente a uma lista que tenha
 
 d) No qual tenha sido feito qualquer corte, desenho ou rasura, ou quando tenha sido escrita qualquer palavra.
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 (Dúvidas, reclamações, protestos e contraprotestos)
 
@@ -973,13 +999,13 @@ d) No qual tenha sido feito qualquer corte, desenho ou rasura, ou quando tenha s
 
 ### CAPÍTULO II — Apuramento
 
-###### ARTIGO 95.º
+ARTIGO 95.º
 
 (Operação preliminar)
 
 Encerrada a votação, o presidente da assembleia de voto procederá à contagem dos boletins que não foram utilizados e, bem assim, dos que foram inutilizados pelos eleitores. Encerrá-los-á num sobrescrito próprio, que fechará e lacrará, para o efeito do n.º 6 do artigo 91.º
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 (Contagem dos votantes e dos boletins de voto)
 
@@ -991,7 +1017,7 @@ Encerrada a votação, o presidente da assembleia de voto procederá à contagem
 
 4. Será dado imediato conhecimento público do número de boletins de voto através de edital, que, depois de lido em voz alta pelo presidente, será afixado à porta principal da assembleia de voto.
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 (Contagem dos votos)
 
@@ -1005,13 +1031,13 @@ Encerrada a votação, o presidente da assembleia de voto procederá à contagem
 
 5. O apuramento assim efectuado será imediatamente publicado por edital afixado à porta principal do edifício da assembleia, em que se discriminarão o número de votos atribuídos a cada lista e o número de votos em branco ou nulos.
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 (Destino dos boletins de voto objecto de reclamação ou de protesto)
 
 Os boletins de voto sobre os quais haja reclamação ou protesto serão, depois de rubricados, remetidos à Comissão Eleitoral de Cabo Verde, com os documentos que lhes digam respeito.
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 (Destino dos restantes boletins)
 
@@ -1019,7 +1045,7 @@ Os boletins de voto sobre os quais haja reclamação ou protesto serão, depois 
 
 2. Esgotado o prazo para a interposição de recursos, ou decididos estes, a Comissão promoverá a destruição dos boletins.
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 (Acta das operações eleitorais)
 
@@ -1047,13 +1073,13 @@ i) Quaisquer outras ocorrências que a mesa julgar dignas de menção;
 
 j) O número de reclamações, protestos e contraprotestos apensos à acta.
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 (Comunicação dos resultados)
 
 No dia imediato ao da eleição e apuramento, o presidente da assembleia de voto comunicará, pela via mais rápida, ao presidente da Comissão Eleitoral de Cabo Verde, directamente ou através dos respectivos delegados, o resultado da votação, e enviar-lhe-á, também pela via mais rápida, as actas, os cadernos e os documentos respeitantes à eleição.
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 (Apuramento geral)
 
@@ -1061,7 +1087,7 @@ No dia imediato ao da eleição e apuramento, o presidente da assembleia de voto
 
 2. O apuramento geral poderá basear-se em correspondência telegráfica transmitida pelos presidentes das assembleias de voto, sem prejuízo da sua ulterior rectificação, se for caso disso, após o recebimento das actas das operações das assembleias de voto.
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 (Operações de apuramento geral)
 
@@ -1075,13 +1101,13 @@ c) Na verificação do número total de votos obtidos por cada lista e do númer
 
 d) Na determinação da lista vencedora.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 (Proclamação e publicação dos resultados)
 
 Os resultados do apuramento geral serão proclamados pelo presidente da Comissão Eleitoral de Cabo Verde, e em seguida publicados através da rádio, da imprensa e de afixação de edital à porta do edifício em que a Comissão funcionar.
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 (Acta do apuramento geral)
 
@@ -1091,7 +1117,7 @@ Os resultados do apuramento geral serão proclamados pelo presidente da Comissã
 
 3. Aos candidatos e aos mandatários de cada lista admitida à eleição, se as requererem, serão passadas certidões ou fotocópias da acta de apuramento geral.
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 (Mapa global da eleição)
 
@@ -1109,7 +1135,7 @@ e) O nome dos deputados eleitos por cada círculo.
 
 ### CAPÍTULO III — Contencioso eleitoral
 
-###### ARTIGO 107.º
+ARTIGO 107.º
 
 (Recurso contencioso)
 
@@ -1119,7 +1145,7 @@ e) O nome dos deputados eleitos por cada círculo.
 
 3. A petição especificará os fundamentos de facto e de direito do recurso e será acompanhada de todos os elementos de prova.
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 (Prazos)
 
@@ -1127,7 +1153,7 @@ e) O nome dos deputados eleitos por cada círculo.
 
 2. A decisão deve ser notificada, pela via mais rápida, ao recorrente ou recorrentes.
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 (Nulidade das eleições)
 
@@ -1135,7 +1161,7 @@ e) O nome dos deputados eleitos por cada círculo.
 
 2. A nulidade da eleição em qualquer assembleia ou círculo eleitoral em razão de ilegalidades susceptíveis de alteração do resultado, ou em razão de causas de força maior, como tais julgadas pela Comissão Eleitoral de Cabo Verde, não acarretará a nulidade de eleição nos restantes círculos, considerando-se a Assembleia Nacional de Cabo Verde provisoriamente constituída pelos deputados eleitos nestes círculos, até que se proceda à repetição das eleições nas assembleias ou nos círculos afectados pela anulação, a qual terá lugar na data que for designada pelo presidente da Assembleia Nacional de Cabo Verde.
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 (Verificação de poderes)
 
@@ -1145,13 +1171,13 @@ A Assembleia Nacional de Cabo Verde verificará os poderes dos candidatos a depu
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 (Concorrência com infracções mais graves)
 
 As penalidades cominadas no presente diploma não excluem a aplicação de penas mais graves pela prática de infracções punidas pela lei penal em vigor no território de Cabo Verde.
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 (Circunstâncias agravantes gerais)
 
@@ -1161,7 +1187,7 @@ a) O facto de a infracção influir no resultado da votação;
 
 b) O facto de os seus agentes serem membros da Comissão Eleitoral de Cabo Verde, das comissões de recenseamento, das mesas das assembleias de voto e mandatários ou delegados das listas.
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Circunstância atenuante especial)
 
@@ -1169,13 +1195,13 @@ b) O facto de os seus agentes serem membros da Comissão Eleitoral de Cabo Verde
 
 2. Dada como verificada a circunstância prevista no n.º 1, as penas maiores poderão ser reduzidas a pena de prisão e esta ser declarada remível e ou suspensa, de acordo com as circunstâncias, sendo cumuláveis as formas de atenuação aqui previstas.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 (Suspensão de direitos políticos)
 
 A condenação a pena de prisão por infracção prevista e punida por este diploma será obrigatoriamente acompanhada de condenação com suspensão de direitos políticos de um a cinco anos.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Prescrição)
 
@@ -1183,7 +1209,7 @@ O procedimento criminal por infracções relativas ao recenseamento eleitoral pr
 
 ### CAPÍTULO II — Infracções relativas ao recenseamento eleitoral
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 (Inscrição dolosa)
 
@@ -1191,7 +1217,7 @@ O procedimento criminal por infracções relativas ao recenseamento eleitoral pr
 
 2. Aquele que dolosamente se inscrever mais de uma vez ou que promover a inscrição do mesmo cidadão no recenseamento eleitoral de dois ou mais locais de recenseamento será punido com a pena de prisão de três dias a três meses e multa de 50$00 a 500$00.
 
-###### ARTIGO 117.º
+ARTIGO 117.º
 
 (Obstrução à inscrição)
 
@@ -1199,13 +1225,13 @@ O procedimento criminal por infracções relativas ao recenseamento eleitoral pr
 
 2. Aquele que por violência, ameaça ou artifício fraudulento determinar qualquer eleitor a não se inscrever no recenseamento eleitoral ou o levar a inscrever-se fora do local ou do prazo devido será punido com pena de prisão de três dias a seis meses e multa de 100$00 a 1000$00.
 
-###### ARTIGO 118.º
+ARTIGO 118.º
 
 (Falsificação de cadernos)
 
 Aquele que, por qualquer modo, viciar, substituir, suprimir, destruir ou compuser falsamente os cadernos de recenseamento será punido com pena de prisão de três dias a um ano e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 119.º
+ARTIGO 119.º
 
 (Não cumprimento de outras obrigações impostas por lei)
 
@@ -1213,19 +1239,19 @@ Aquele que não cumprir nos seus precisos termos quaisquer obrigações relativa
 
 ### CAPÍTULO III — Infracções relativas à apresentação de candidaturas à campanha eleitoral e à eleição
 
-###### ARTIGO 120.º
+ARTIGO 120.º
 
 (Candidatura de cidadão inelegível)
 
 Aquele que, não tendo capacidade eleitoral passiva, dolosamente aceitar a sua candidatura será punido com pena de prisão de três dias a seis meses e multa de 100$00 a 5000$00.
 
-###### ARTIGO 121.º
+ARTIGO 121.º
 
 (Violação das regras de disciplina da campanha eleitoral)
 
 Aquele que dolosamente violar as regras disciplinadoras da campanha e propaganda eleitoral previstas neste diploma ou em diploma dimanado do Governo de Transição será punido, conforme a gravidade da sua conduta, com pena de prisão de três dias a seis meses e multa de 100$00 a 10000$00.
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Voto de cidadão incapaz)
 
@@ -1233,19 +1259,19 @@ Aquele que dolosamente violar as regras disciplinadoras da campanha e propaganda
 
 2. Se o fizer fraudulentamente, tomando a identidade de cidadão inscrito, será punido com pena de prisão de três dias a um ano e multa de 100$00 a 5000$00.
 
-###### ARTIGO 123.º
+ARTIGO 123.º
 
 (Admissão ou exclusão abusiva de voto)
 
 Aquele que concorrer para que seja admitido a votar quem não tem esse direito, ou para a exclusão de quem o tiver, será punido com pena de prisão de três dias a dois anos e multa de 100$00 a 5000$00.
 
-###### ARTIGO 124.º
+ARTIGO 124.º
 
 (Voto plúrimo)
 
 Aquele que votar mais de uma vez será punido com pena de prisão de três dias a seis meses e multa de 100$00 a 10000$00.
 
-###### ARTIGO 125.º
+ARTIGO 125.º
 
 (Coacção ou artifício fraudulento sobre o eleitor)
 
@@ -1253,19 +1279,19 @@ Aquele que votar mais de uma vez será punido com pena de prisão de três dias 
 
 2. Se a ameaça for cometida com o uso de arma, ou a violência for exercida por mais de cinco pessoas, a pena será a de prisão maior de dois a oito anos e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 126.º
+ARTIGO 126.º
 
 (Abuso de funções públicas ou equiparadas)
 
 O cidadão investido de poder público, o funcionário ou agente do Estado ou de outra pessoa colectiva pública e o ministro de qualquer culto que, abusando das suas funções ou no exercício das mesmas, se servir delas para constranger ou induzir os eleitores a votar em determinadas listas ou a abster-se de votar nelas será punido com pena de prisão de três dias a dois anos e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 127.º
+ARTIGO 127.º
 
 (Corrupção eleitoral)
 
 Aquele que, por causa da eleição, oferecer, prometer ou der dinheiro ou valores a qualquer eleitor, ou que prometer ou conceder emprego público ou privado a um ou mais eleitores ou, por acordo com estes, a uma terceira pessoa, mesmo quando a utilidade prometida ou conseguida for dissimulada a título de indemnização pecuniária dada ao eleitor para despesas de viagem ou de estada ou de pagamento de alimentos ou bebidas ou a pretexto de despesas com a campanha eleitoral, será punido com prisão de três dias a seis meses e multa de 500$00 a 5000$00.
 
-###### ARTIGO 128.º
+ARTIGO 128.º
 
 (Não exibição da urna)
 
@@ -1273,19 +1299,19 @@ Aquele que, por causa da eleição, oferecer, prometer ou der dinheiro ou valore
 
 2. Se na urna se encontrarem boletins de voto não introduzidos pelo presidente, será este punido também com a pena de prisão de três dias a seis meses.
 
-###### ARTIGO 129.º
+ARTIGO 129.º
 
 (Introdução de boletins na urna, desvio desta ou de boletins de voto)
 
 Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois do início da votação, se apoderar da urna com os boletins de voto nela recolhidos, mas ainda não apurados, ou se apoderar de um ou mais boletins de voto em qualquer momento, desde a abertura da assembleia eleitoral até ao apuramento geral da eleição, será punido com prisão maior de dois a oito anos e multa de 2000$00 a 20000$00.
 
-###### ARTIGO 130.º
+ARTIGO 130.º
 
 (Fraudes da mesa da assembleia de voto e da assembleia de apuramento geral)
 
 O membro da mesa da assembleia de voto que dolosamente apuser ou consentir que se aponha nota de descarga em eleitor que não votou ou que não a apuser em eleitor que votou, que trocar na leitura dos boletins de voto a lista votada, que diminuir ou aditar votos a uma lista no apuramento, ou que por qualquer modo falsear a verdade da eleição, será punido com prisão maior de dois a oito anos e multa de 2000$00 a 20000$00.
 
-###### ARTIGO 131.º
+ARTIGO 131.º
 
 (Obstrução à fiscalização)
 
@@ -1293,19 +1319,19 @@ O membro da mesa da assembleia de voto que dolosamente apuser ou consentir que s
 
 2. Se se tratar do presidente da mesa, a pena será de prisão maior de dois a oito anos.
 
-###### ARTIGO 132.º
+ARTIGO 132.º
 
 (Recusa de receber reclamações, protestos ou contraprotestos)
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão de três dias a um ano e multa de 100$00 a 5000$00.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão de três dias a um ano e multa de 100$00 a 5000$00.
 
-###### ARTIGO 133.º
+ARTIGO 133.º
 
 (Obstrução dos candidatos ou dos delegados das listas)
 
 O candidato ou delegado das listas que perturbar gravemente o funcionamento regular das operações eleitorais será punido com prisão de três dias a um ano e multa de 1000$00 a 5000$00.
 
-###### ARTIGO 134.º
+ARTIGO 134.º
 
 (Perturbação das assembleias de voto)
 
@@ -1315,31 +1341,31 @@ O candidato ou delegado das listas que perturbar gravemente o funcionamento regu
 
 3. A mesma pena do número anterior, agravada com prisão de três dias a três meses, será aplicada aos que se introduzirem nas referidas assembleias munidos de armas, independentemente da imediata apreensão destas.
 
-###### ARTIGO 135.º
+ARTIGO 135.º
 
 (Não cumprimento do dever de participação no processo eleitoral)
 
 Aquele que for nomeado para fazer parte das mesas das assembleias de voto e, sem motivo de força maior ou justa causa, não assumir ou abandonar essas funções será punido com multa de 1000$00 a 10000$00.
 
-###### ARTIGO 136.º
+ARTIGO 136.º
 
 (Falsificação de cadernos, boletins, actas ou documentos relativos à eleição)
 
 Aquele que, por qualquer modo, viciar, substituir, suprimir, destruir ou compuser falsamente os cadernos eleitorais, os boletins de voto, as actas das assembleias de voto ou de apuramento, ou quaisquer dos documentos respeitantes à eleição, será punido com prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
 
-###### ARTIGO 137.º
+ARTIGO 137.º
 
 (Denúncia caluniosa)
 
 Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção prevista na presente lei será punido com as penas aplicáveis à denúncia caluniosa.
 
-###### ARTIGO 138.º
+ARTIGO 138.º
 
 (Reclamação e recurso de má fé)
 
 Aquele que, com má fé, apresentar reclamação, protesto ou contraprotesto, ou aquele que impugnar decisões dos órgãos eleitorais através de recurso manifestamente infundado, será punido com multa de 500$00 a 10000$00.
 
-###### ARTIGO 139.º
+ARTIGO 139.º
 
 (Não cumprimento de outras obrigações impostas por lei)
 
@@ -1347,7 +1373,7 @@ Aquele que não cumprir nos seus precisos termos quaisquer obrigações relativa
 
 ### CAPÍTULO IV — Ilícito disciplinar
 
-###### ARTIGO 140.º
+ARTIGO 140.º
 
 (Responsabilidade disciplinar)
 
@@ -1359,7 +1385,7 @@ Regras especiais relativas ao recenseamento e ao exercício do direito de voto d
 
 ### CAPÍTULO I — Regras especiais relativas ao recenseamento
 
-###### ARTIGO 141.º
+ARTIGO 141.º
 
 (Postos de recenseamento)
 
@@ -1367,19 +1393,19 @@ Regras especiais relativas ao recenseamento e ao exercício do direito de voto d
 
 2. Não serão instalados postos de recenseamento nos países que se oponham a essa instalação ou ao exercício esclarecido do direito de voto, tal como neste diploma se prevê.
 
-###### ARTIGO 142.º
+ARTIGO 142.º
 
 (Composição)
 
 Os postos de recenseamento referidos no artigo anterior serão constituídos por três membros designados pela Comissão Eleitoral de Cabo Verde, devidamente credenciados, a qual escolherá de entre eles o presidente.
 
-###### ARTIGO 143.º
+ARTIGO 143.º
 
 (Funções)
 
 1. Os postos de recenseamento terão por função receber os verbetes de inscrição dos eleitores residentes fora do território de Cabo Verde, com excepção dos referidos na alínea c) do n.º 2 do artigo 3.º, rubricá-los e remetê-los à Comissão Eleitoral de Cabo Verde pelo seguro do correio ou por próprio, que cobrará recibo da entrega.
 
-###### ARTIGO 144.º
+ARTIGO 144.º
 
 (Verbetes de inscrição)
 
@@ -1393,7 +1419,7 @@ Os postos de recenseamento referidos no artigo anterior serão constituídos por
 
 5. O peticionário declarará ainda sob sua honra, em qualquer dos casos, que não adquiriu nacionalidade diversa da portuguesa.
 
-###### ARTIGO 145.º
+ARTIGO 145.º
 
 (Prova das declarações feitas)
 
@@ -1403,7 +1429,7 @@ Os postos de recenseamento referidos no artigo anterior serão constituídos por
 
 3. Se a Comissão Eleitoral de Cabo Verde não dispuser de elementos confirmativos das declarações do peticionário da inscrição e tiver razões para duvidar da sua veracidade, recusar-se-á a sancionar a inscrição solicitada.
 
-###### ARTIGO 146.º
+ARTIGO 146.º
 
 (Recusa impossível)
 
@@ -1415,31 +1441,31 @@ b) No caso dos n.os 3 e 4, documento emitido por qualquer autoridade administrat
 
 c) No caso do n.º 5, documento oficial comprovativo de que o peticionário conserva unicamente a nacionalidade portuguesa.
 
-###### ARTIGO 147.º
+ARTIGO 147.º
 
 («Contrôle» oficioso)
 
 A Comissão Eleitoral de Cabo Verde procurará, dentro do possível, habilitar os postos de recenseamento com dados estatísticos oficiais que lhes permitam efectuar o contrôle oficioso da veracidade das declarações dos peticionários.
 
-###### ARTIGO 148.º
+ARTIGO 148.º
 
 (Inscrição directa)
 
 Os eleitores residentes fora do território de Cabo Verde poderão, se assim o desejarem, ou na falta de posto de recenseamento na área da sua residência, inscrever-se directamente junto das comissões de recenseamento da área da sua naturalidade, por intermédio de outro cidadão eleitor, nos termos do n.º 3 do artigo 14.º, hipótese em que a sua inscrição se processará nos exactos termos dos artigos 144.º e seguintes.
 
-###### ARTIGO 149.º
+ARTIGO 149.º
 
 (Afectação da inscrição e dos votos dos eleitores não residentes em Cabo Verde)
 
 Os eleitores não residentes no território de Cabo Verde serão, quer se inscrevam directamente, nos termos do artigo anterior, quer através dos postos de recenseamento instalados fora do território, inscritos no recenseamento da área da sua naturalidade e o seu voto será contado em relação à lista do correspondente círculo eleitoral em que tiver votado.
 
-###### ARTIGO 150.º
+ARTIGO 150.º
 
 (Adição das inscrições ao recenseamento geral)
 
 A Comissão Eleitoral de Cabo Verde, dentro do prazo previsto no n.º 2 do artigo 32.º, adicionará ao número total de eleitores inscritos nas áreas de recenseamento abrangidas por cada círculo eleitoral e ao número global de eleitores de todos os círculos, os eleitores que tiverem requerido a sua inscrição fora do território de Cabo Verde e que por ela tenham sido julgados em condições de serem inscritos.
 
-###### ARTIGO 151.º
+ARTIGO 151.º
 
 (Elaboração de cadernos autónomos)
 
@@ -1447,13 +1473,13 @@ Sem prejuízo do disposto no artigo antecedente, a Comissão Eleitoral de Cabo V
 
 ### CAPÍTULO II — Regras especiais relativas ao sistema eleitoral
 
-###### ARTIGO 152.º
+ARTIGO 152.º
 
 (Exercício do direito de voto)
 
 O eleitor não residente no território de Cabo Verde exerce o direito de voto pela via postal, junto da Comissão Eleitoral de Cabo Verde.
 
-###### ARTIGO 153.º
+ARTIGO 153.º
 
 (Remessa dos boletins de voto)
 
@@ -1471,31 +1497,31 @@ b) Para os postos de recenseamento em que se tenham inscrito.
 
 5. Um dos envelopes, de cor verde, destina-se a receber o boletim de voto e não conterá quaisquer indicações; o outro envelope, branco e de tamanho maior, de forma a poder conter o envelope do boletim de voto, terá impressos, na face, os dizeres «Comissão Eleitoral de Cabo Verde - Assembleia de Recolha e Contagem de Votos dos eleitores não residentes em Cabo Verde - Cidade da Praia - Ilha de Santiago», devendo ser inscritos, no verso, o nome e a morada do eleitor.
 
-###### ARTIGO 154.º
+ARTIGO 154.º
 
 (Modo como vota o eleitor não residente em Cabo Verde)
 
 O eleitor marcará com uma cruz, no quadrado respectivo, a lista em que vota e dobrará o boletim em quatro, introduzindo-o, depois, no envelope verde, que fechará. O envelope verde, devidamente fechado, será introduzido no envelope branco, que o eleitor remeterá, igualmente fechado, e pela via postal mais rápida, à Comissão Eleitoral de Cabo Verde, por forma a que possa chegar à posse desta até à data designada para a eleição.
 
-###### ARTIGO 155.º
+ARTIGO 155.º
 
 (Voto nulo ou em branco)
 
 Para além dos casos consignados no artigo 93.º, corresponderá a voto branco ou nulo o boletim de voto que não chegue ao seu destino nas condições previstas nos artigos 153.º e 154.º, ou que não chegue até à data designada para a eleição, o que se comprovará pelo respectivo carimbo dos correios.
 
-###### ARTIGO 156.º
+ARTIGO 156.º
 
 (Delegações da Assembleia de Recolha e Contagem de Votos dos eleitores não residentes em Cabo Verde)
 
 Para o efeito da recolha dos votos dos eleitores não residentes no território de Cabo Verde, os postos de recenseamento referidos no artigo 141.º passarão a funcionar, no período destinado à recolha, como delegações da Assembleia de Recolha e Contagem de Votos.
 
-###### ARTIGO 157.º
+ARTIGO 157.º
 
 (Funções das delegações)
 
 Na qualidade referida no artigo anterior, as delegações da Assembleia de Recolha e Contagem de Votos (ex-postos de recenseamento) farão entrega aos eleitores que os solicitarem, inscritos nos cadernos que lhes tenham sido enviados em cumprimento do disposto no artigo 151.º, dos boletins de voto e dos envelopes mencionados nos n.os 4 e 5 do artigo 153.º, a fim de que os eleitores, sozinhos e a coberto de qualquer fiscalização ou influência, assinalem com uma cruz o quadrado correspondente à lista da sua preferência e cumpram o mais previsto no artigo 155.º, à excepção da remessa à Comissão Eleitoral de Cabo Verde, que será feita oficiosa e imediatamente após a votação e pela via postal mais rápida, pelas próprias delegações.
 
-###### ARTIGO 158.º
+ARTIGO 158.º
 
 (Operações da Assembleia de Recolha e Contagem de Votos dos eleitores não residentes em Cabo Verde)
 
@@ -1515,13 +1541,13 @@ Na qualidade referida no artigo anterior, as delegações da Assembleia de Recol
 
 8. Os delegados das listas terão direito de examinar os boletins de voto e a correspondente documentação, e de suscitar dúvidas ou deduzir reclamações quanto à validação ou invalidação de qualquer voto ou à sua contagem, devendo a reclamação ser imediata e definitivamente decidida.
 
-###### ARTIGO 159.º
+ARTIGO 159.º
 
 (Campanha eleitoral)
 
 Relativamente aos eleitores não residentes no território de Cabo Verde, a campanha eleitoral consistirá na elucidação dos eleitores através da remessa a estes, ou da difusão entre estes, de documentação escrita.
 
-###### ARTIGO 160.º
+ARTIGO 160.º
 
 (Regras especiais de natureza penal)
 
@@ -1531,25 +1557,25 @@ Relativamente aos eleitores não residentes no território de Cabo Verde, a camp
 
 ## TÍTULO X — Disposições finais
 
-###### ARTIGO 161.º
+ARTIGO 161.º
 
 (Calendário das operações eleitorais)
 
 O Governo de Transição definirá por decreto-lei o calendário das operações eleitorais na parte não prevista no presente diploma, podendo, inclusivamente, e em caso de necessidade de outro modo não removível, alterar, no todo ou em parte, o calendário aqui previsto.
 
-###### ARTIGO 162.º
+ARTIGO 162.º
 
 (Publicidade dos actos)
 
 O Governo de Transição definirá ou cometerá à Comissão Eleitoral de Cabo Verde a forma da publicidade dos actos previstos neste diploma carecidos dela, nomeadamente em relação àqueles cuja publicação expressamente se prevê, sempre por forma a assegurar aos eleitores, dentro dos meios de que dispuser, o esclarecimento e a informação convenientes.
 
-###### ARTIGO 163.º
+ARTIGO 163.º
 
 (Interpretação e integração de lacunas)
 
 As dúvidas de interpretação do que neste diploma se dispõe e a integração das suas lacunas serão resolvidas e efectivadas por despacho ou diploma interpretativos, conforme o caso, do Governo de Transição.
 
-###### ARTIGO 164.º
+ARTIGO 164.º
 
 (Certidões)
 
@@ -1561,13 +1587,13 @@ b) As certidões necessárias para instrução do processo de apresentação das
 
 c) As certidões de apuramento geral.
 
-###### ARTIGO 165.º
+ARTIGO 165.º
 
 (Isenções)
 
 São isentos de quaisquer taxas, emolumentos, impostos do selo e de justiça, conforme os casos, todos os actos e documentos relativos à inscrição nos cadernos de recenseamento ou ao exercício do direito de voto, incluindo os direitos de reclamação e recurso previstos neste diploma.
 
-###### ARTIGO 166.º
+ARTIGO 166.º
 
 (Entrada em vigor)
 
@@ -1575,8 +1601,8 @@ Este diploma entrará imediatamente em vigor no território de Cabo Verde, indep
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos.
 
-**Promulgado em 15 de Abril de 1975.**
+Promulgado em 15 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

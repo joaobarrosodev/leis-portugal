@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1979-382449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ed606d5ffd793963ed68b0042be6bd08f6f7fae6459f89e5bb119ea7d69fdb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56edc38f782278e8dbd6db03741aa8c2fdec94b53201b53477d7c2280cbc2dd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Oficial
+- Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:354564:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:40Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +100,14 @@ Considerando que o diploma referido, por lacuna da lei que cumpre integrar, é o
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Sempre que as instalações de um estabelecimento de ensino particular sejam adquiridas ou arrendadas pelo Estado para nelas funcionar um estabelecimento oficial de ensino superior, aos professores daquele estabelecimento de ensino particular é aplicável o disposto no artigo 3.º do [Decreto-Lei n.º 793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564), de 31 de Dezembro, a partir do momento em que os mesmos docentes passem a exercer funções em estabelecimentos oficiais dos ensinos primário, preparatório, secundário e médio.
+Artigo 1.º Sempre que as instalações de um estabelecimento de ensino particular sejam adquiridas ou arrendadas pelo Estado para nelas funcionar um estabelecimento oficial de ensino superior, aos professores daquele estabelecimento de ensino particular é aplicável o disposto no artigo 3.º do [Decreto-Lei n.º 793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564), de 31 de Dezembro, a partir do momento em que os mesmos docentes passem a exercer funções em estabelecimentos oficiais dos ensinos primário, preparatório, secundário e médio.
 
-###### Art. 2.º O disposto no artigo anterior considera-se aplicável aos docentes de estabelecimentos de ensino particular cujas instalações tenham sido adquiridas ou arrendadas pelo Estado para nelas funcionar o ensino superior, desde que tal situação se tenha verificado após a entrada em vigor do [Decreto-Lei n.º 793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564).
+Art. 2.º O disposto no artigo anterior considera-se aplicável aos docentes de estabelecimentos de ensino particular cujas instalações tenham sido adquiridas ou arrendadas pelo Estado para nelas funcionar o ensino superior, desde que tal situação se tenha verificado após a entrada em vigor do [Decreto-Lei n.º 793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564).
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 25 de Abril de 1979.**
+Promulgado em 25 de Abril de 1979.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1971-643337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69027d8523f9b315e72d7fee1887b2e25551bdffb999da1db59835b85e4049c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3b581659bfd8a0a2bdf514025b4a84959a82d5dff467c098e165c7c45346b79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Técnica
+- Espanha
+- Madrid
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:261290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:261290:por
+  label: "Revogada, com a entrada em vigor do Acordo, a Conven&#231;&#227;o Geral sobre Coopera&#231;&#227;o Cient&#237;fica\
+    \ e Tecnol&#243;gica entre Portugal e Espanha, aprovada pelo presente diploma, pelo DEC.14/2004.27.05.2004.MNE, DR.IS-A\
+    \ [124] de 27.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/14-2004-261290
+  date: '2004-05-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:10Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +106,15 @@ Ouvida a Câmara Corporativa;
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Geral sobre Cooperação Científica e Tecnológica entre Portugal e a Espanha, assinada em Madrid em 22 de Maio de 1970, cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção Geral sobre Cooperação Científica e Tecnológica entre Portugal e a Espanha, assinada em Madrid em 22 de Maio de 1970, cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 11 de Junho de 1971.**
+Promulgado em 11 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional
 
@@ -121,13 +134,13 @@ S. Ex.ª o Chefe do Estado Espanhol: o Exmo. Sr. D. Gregorio López Bravo, Minis
 
 os quais acordaram nas seguintes disposições:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. As Partes Contratantes fomentarão a cooperação para fins pacíficos na esfera da investigação científica e do desenvolvimento tecnológico entre os dois Estados.
 
 2. Os aspectos concretos da cooperação serão objecto, no âmbito desta Convenção, de acordos especiais estabelecidos entre as Partes Contratantes ou, com o seu acordo, entre organismos por elas designados. Os acordos especiais serão celebrados pelos respectivos Ministérios dos Negócios Estrangeiros e regularão o conteúdo e o âmbito da cooperação a que se referem, determinando os organismos encarregados da sua aplicação.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. A cooperação poderá revestir as seguintes formas:
 
@@ -143,13 +156,13 @@ d) Utilização de instalações científicas e técnicas.
 
 3. Os acordos especiais celebrados no âmbito do parágrafo 2 do artigo 1.º determinarão a quem corresponderão os resultados que se obtenham nos trabalhos comuns de investigação ou desenvolvimento.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1. As despesas com a deslocação de cientistas e pessoal técnico para os fins de intercâmbio previstos na presente Convenção Geral estão a cargo do Estado que os envia; as despesas de manutenção das referidas pessoas, ao Estado que os recebe.
 
 2. O financiamento das despesas para a cooperação na realização comum e coordenada das tarefas de investigação e desenvolvimento tecnológico e na utilização de instalações científicas e tecnológicas será regulado nos acordos especiais que se celebrarem no âmbito do parágrafo 2 do artigo 1.º
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. Para promover a aplicação desta Convenção Geral e analisar os seus resultados, assim como as perspectivas de interesse comum, constituir-se-á uma comissão mista luso-espanhola de cooperação científica e tecnológica.
 
@@ -159,7 +172,7 @@ d) Utilização de instalações científicas e técnicas.
 
 4. Todos os projectos técnicos luso-espanhóis que sejam preparados pelos diversos Ministérios e instituições públicas ou privadas de cada um dos dois países serão comunicados aos respectivos Ministérios dos Negócios Estrangeiros para a devida coordenação e ulterior exame pela comissão mista.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. A troca de informações, em conformidade com o que sobre o assunto será previsto nos correspondentes acordos especiais, poderá efectuar-se entre as mesmas Partes Contratantes ou os organismos por elas designados.
 
@@ -167,7 +180,7 @@ d) Utilização de instalações científicas e técnicas.
 
 3. Cada Parte Contratante garantirá que as pessoas autorizadas para receber informações, de acordo com a presente Convenção Geral ou com os acordos especiais que venham a celebrar-se para sua aplicação, não comuniquem as ditas informações a organismos ou pessoas que não estejam autorizadas a recebê-las, de acordo com a Convenção Geral ou com os referidos acordos especiais que se celebrarem.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. Esta Convenção não se aplica a:
 
@@ -177,7 +190,7 @@ b) Informações, direitos de propriedade ou direitos de protecção industrial 
 
 2. A comunicação de informações com valor comercial efectuar-se-á ao abrigo de acordos especiais, que regularão simultâneamente as condições da dita transmissão.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. A não ser que outra coisa seja especificadamente estabelecida, a comunicação de informações e o fornecimento de material e equipamento, no âmbito desta Convenção Geral e dos acordos especiais que venham a celebrar-se para sua aplicação, não implicarão responsabilidade alguma para as Partes Contratantes no que se refere à exactidão das informações transmitidas ou à aptidão dos objectos fornecidos para determinada utilização.
 
@@ -187,19 +200,19 @@ a) A responsabilidade por prejuízos e danos causados a terceiros por virtude da
 
 b) A responsabilidade por prejuízos e danos causados a uma Parte Contratante por acções ou omissões da outra Parte Contratante, por acções ou omissões do pessoal da outra Parte Contratante ou pelo pessoal de um organismo por esta designado.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. Ambos os Governos, cumpridas as formalidades previstas nas respectivas legislações internas, concederão isenção do pagamento dos direitos aduaneiros e outros que se apliquem na importação ou na exportação aos artigos importados ou exportados com base nos acordos especiais que se celebrarem.
 
 2. Ambos os Governos, cumpridas as formalidades previstas nas respectivas legislações internas, autorizarão que os cientistas e pessoal técnico de investigação que se desloquem do seu território de origem para o território da outra Parte, no âmbito dos acordos especiais que venham a celebrar-se conformemente ao parágrafo 2 do artigo 1.º e enquanto durar a sua estada, importem e exportem, com isenção de direitos e cauções, os objectos destinados a seu uso pessoal e de suas famílias, incluindo um veículo motorizado por família.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. As divergências relativas à interpretação ou aplicação da presente Convenção Geral serão resolvidas de comum acordo pelas Partes Contratantes.
 
 2. No caso de, por aquela via, não ser possível chegar a uma solução, as divergências resolver-se-ão por meio de um processo de arbitragem estabelecido por acordo entre os dois Governos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1. A presente Convenção Geral será ratificada e entrará em vigor na data da troca de instrumentos de ratificação.
 
@@ -217,4 +230,4 @@ Pelo Estado Espanhol:
 
 Gregorio López Bravo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/14400/09270930.pdf))](https://files.diariodarepublica.pt/1s/1971/06/14400/09270930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/14400/09270930.pdf)

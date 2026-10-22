@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5a7f832f8a4cffb4f4c48a7bc31a5424cf9caaaff528e02b3521c250ca4bc41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 101ed84bee759114e332cba6835af39bc7bc0ec7207ad391bc5cbb12fa81cedf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Definição de Competências
+- Habitação Social
+- Serviços Municipalizados
 relationships:
 - type: amended_by
   target: pt:dre:65949853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279814:por
+  label: "Alterado o art. 2º do presente diploma, pela LEI.84/77.09.12.1977.AR, DR.IS [283] de 09.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/84-1977-279814
+  date: '1977-12-09'
+- type: cites
+  target: pt:dre:182647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665133:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65949853:por
+  label: Revogado a partir de 01.03.2015 na parte relativa à atribuição de habitações, pelo(a) Lei n.º 81/2014 - Diário da
+    República n.º 245/2014, Série I de 2014-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/81-2014-65949853
+  date: '2014-12-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:12Z'
   warnings: []
   errors: []
 ---
@@ -262,8 +309,8 @@ Este diploma só se aplica às casas que são património das instituições de 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 18 de Outubro de 1976.**
+Promulgado em 18 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

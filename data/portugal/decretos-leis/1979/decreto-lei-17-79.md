@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03300/02090212.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1979-393219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3488490b9d0d824f3af09b8579171a2877ce3d3b069b5dbd90b90ffb0d36c749
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42a42ed0a8b3658769f55f18c6eddc1be04562867114cc58efbd0170fbbb8ed7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Empresa Pública
+- Estatuto
+- RDP
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383267:por
+  label: "Recusada de ratificação, pela RES.82/79.23.03.1979.AR, DR.IS [69] de 23.03.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/82-1979-383267
+  date: '1979-03-23'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558991:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:15Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +165,7 @@ Na impossibilidade de dotar desde já a RDP de um novo e definitivo Estatuto, es
 
 Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É revogado o Estatuto da Radiodifusão Portuguesa, E. P., aprovado pelo [Decreto-Lei n.º 274/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1976-502620), de 12 de Abril.
+Artigo 1.º - 1 - É revogado o Estatuto da Radiodifusão Portuguesa, E. P., aprovado pelo [Decreto-Lei n.º 274/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1976-502620), de 12 de Abril.
 
 2 - Fica igualmente revogado o artigo 6.º do [Decreto-Lei n.º 674-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-c-1975-302484), de 2 de Dezembro.
 
@@ -122,15 +173,15 @@ Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 201.º da Cons
 
 4 - Até à entrada em vigor do novo Estatuto, a Radiodifusão Portuguesa, E. P., adiante designada por RDP, reger-se-á pelas disposições constantes deste decreto-lei.
 
-###### Art. 2.º Em ordem à realização do seu objecto, a RDP pode praticar todos os actos de gestão privada e exercer quaisquer actividades comerciais, quer directamente, quer através da sua participação noutras empresas.
+Art. 2.º Em ordem à realização do seu objecto, a RDP pode praticar todos os actos de gestão privada e exercer quaisquer actividades comerciais, quer directamente, quer através da sua participação noutras empresas.
 
-###### Art. 3.º - 1 - A RDP será administrada e dirigida por uma comissão administrativa constituída por cinco membros, um dos quais presidirá, tendo como tal voto de qualidade.
+Art. 3.º - 1 - A RDP será administrada e dirigida por uma comissão administrativa constituída por cinco membros, um dos quais presidirá, tendo como tal voto de qualidade.
 
 2 - Os membros da comissão administrativa são nomeados por resolução do Conselho de Ministros, sob proposta do Ministro da Comunicação Social.
 
 3 - O mandato dos membros da comissão administrativa produz efeitos em relação a terceiros pela simples publicação no Diário da República.
 
-###### Art. 4.º - 1 - À comissão administrativa prevista no artigo anterior são conferidos todos os poderes consignados na lei para os conselhos de gerência das empresas públicas.
+Art. 4.º - 1 - À comissão administrativa prevista no artigo anterior são conferidos todos os poderes consignados na lei para os conselhos de gerência das empresas públicas.
 
 2 - É da exclusiva competência da comissão administrativa, independentemente de quaisquer formalidades:
 
@@ -140,7 +191,7 @@ b) A reconversão de qualquer trabalhador com o acordo deste e independentemente
 
 3 - A comissão administrativa poderá delegar, no todo ou em parte, a execução das suas deliberações num ou mais dos seus membros ou em directores. Em caso de falta de delegação, a função executiva competirá ao presidente.
 
-###### Art. 5.º - 1 - Compete especialmente ao presidente da comissão administrativa:
+Art. 5.º - 1 - Compete especialmente ao presidente da comissão administrativa:
 
 a) Presidir às reuniões da comissão administrativa;
 
@@ -152,7 +203,7 @@ d) Propor ao Ministro da Comunicação Social, sem prejuízo da competência pr�
 
 2 - Os poderes próprios do presidente da comissão administrativa são indelegáveis, salvo nos casos de impedimento por período superior a uma semana, circunstância em que a delegação será obrigatoriamente feita num dos membros da comissão.
 
-###### Art. 6.º - 1 - A comissão administrativa reúne ordinariamente uma vez por semana e extraordinariamente sempre que seja convocada pelo seu presidente, por sua iniciativa ou a pedido de dois dos seus membros.
+Art. 6.º - 1 - A comissão administrativa reúne ordinariamente uma vez por semana e extraordinariamente sempre que seja convocada pelo seu presidente, por sua iniciativa ou a pedido de dois dos seus membros.
 
 2 - As deliberações serão tomadas por maioria absoluta dos votos dos membros que a constituem.
 
@@ -162,11 +213,11 @@ d) Propor ao Ministro da Comunicação Social, sem prejuízo da competência pr�
 
 5 - Os actos e os documentos de mero expediente podem ser assinados apenas por um dos membros da comissão administrativa ou por directores de serviço devidamente autorizados.
 
-###### Art. 7.º - 1 - Das deliberações definitivas da comissão administrativa, bem como dos actos do seu presidente praticados no uso da competência própria, cabe recurso para o Ministro da Comunicação Social e dos actos deste para o Supremo Tribunal Administrativo, nos termos gerais de direito.
+Art. 7.º - 1 - Das deliberações definitivas da comissão administrativa, bem como dos actos do seu presidente praticados no uso da competência própria, cabe recurso para o Ministro da Comunicação Social e dos actos deste para o Supremo Tribunal Administrativo, nos termos gerais de direito.
 
 2 - Têm legitimidade para interpor recurso os que nisso tiverem interesse, nos termos gerais, além de qualquer dos membros do órgão recorrido que não tenha votado a deliberação.
 
-###### Art. 8.º - 1 - Ressalvadas as prescrições da lei da radiodifusão, compete à RDP, e só a esta, decidir o que deve ou não ser incluído na sua programação, sem prejuízo da competência do Conselho de Informação.
+Art. 8.º - 1 - Ressalvadas as prescrições da lei da radiodifusão, compete à RDP, e só a esta, decidir o que deve ou não ser incluído na sua programação, sem prejuízo da competência do Conselho de Informação.
 
 2 - São exceptuadas as mensagens, notas, comunicados ou avisos cuja difusão seja solicitada directamente pelo Presidente da República, pelo Conselho da Revolução, pelo Governo, por qualquer dos Ministros, pelo Presidente da Assembleia da República, pelo Provedor de Justiça ou ainda através do Ministério da Comunicação Social, os quais serão obrigatoriamente transmitidos, com o devido relevo e a máxima urgência. Tratando-se de notas oficiosas, a sua transmissão integral é obrigatória, só em casos especiais podendo, no entanto, o respectivo texto exceder quinhentas palavras.
 
@@ -174,25 +225,25 @@ d) Propor ao Ministro da Comunicação Social, sem prejuízo da competência pr�
 
 4 - O Governo, através do Ministério da Comunicação Social, poderá utilizar até três horas por semana de tempo de antena para emissão de programas de interesse para a sua acção governativa.
 
-###### Art. 9.º - 1 - Para a prossecução dos seus fins, a RDP tem o direito de, em conformidade com as leis e regulamentos em vigor, ocupar os terrenos do domínio público e privado do Estado ou outras pessoas colectivas de direito público, com vista à montagem das linhas de alimentação de energia e instalações indispensáveis à prestação do serviço a seu cargo. A RDP promoverá de sua conta nessas linhas ou instalações as alterações que pelas entidades competentes forem julgadas necessárias por motivos de interesse ou de segurança pública.
+Art. 9.º - 1 - Para a prossecução dos seus fins, a RDP tem o direito de, em conformidade com as leis e regulamentos em vigor, ocupar os terrenos do domínio público e privado do Estado ou outras pessoas colectivas de direito público, com vista à montagem das linhas de alimentação de energia e instalações indispensáveis à prestação do serviço a seu cargo. A RDP promoverá de sua conta nessas linhas ou instalações as alterações que pelas entidades competentes forem julgadas necessárias por motivos de interesse ou de segurança pública.
 
 2 - A RDP disporá, para o desempenho das suas atribuições, das facilidades e prerrogativas que a lei concedia à Emissora Nacional de Radiodifusão, designadamente o direito de acesso e livre trânsito de agentes e viaturas em quaisquer lugares públicos e a faculdade de expropriação por utilidade pública de imóveis necessários para as suas instalações.
 
 3 - A RDP gozará de protecção de servidão para os seus centros radioeléctricos, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 10.º - 1 - Ao executarem as tarefas de que foram incumbidos, os trabalhadores da RDP devem pôr a sua iniciativa e criatividade ao serviço dos fins superiores do Estado democrático e dos objectivos da empresa, com independência, rigor e objectividade, abstendo-se de todo o partidarismo.
+Art. 10.º - 1 - Ao executarem as tarefas de que foram incumbidos, os trabalhadores da RDP devem pôr a sua iniciativa e criatividade ao serviço dos fins superiores do Estado democrático e dos objectivos da empresa, com independência, rigor e objectividade, abstendo-se de todo o partidarismo.
 
 2 - São, nomeadamente, vedadas aos trabalhadores da RDP quaisquer formas de publicidade oculta ou indirecta.
 
 3 - Constituirá desobediência, para os efeitos da alínea a) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 372-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-a-1975-151932), de 16 de Julho, com a redacção dada pelo [Decreto-Lei n.º 841-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/841-c-1976-558991), de 7 de Dezembro, a violação intencional do disposto nos números antecedentes.
 
-###### Art. 11.º - 1 - A RDP promoverá e assegurará a formação profissional dos seus trabalhadores, nomeadamente através da frequência de cursos ministrados por escolas ou organizações nacionais ou internacionais ou por empresas estrangeiras de radiodifusão.
+Art. 11.º - 1 - A RDP promoverá e assegurará a formação profissional dos seus trabalhadores, nomeadamente através da frequência de cursos ministrados por escolas ou organizações nacionais ou internacionais ou por empresas estrangeiras de radiodifusão.
 
 2 - A comissão administrativa poderá determinar a obrigatoriedade da frequência de seminários, cursos ou estágios no País ou no estrangeiro.
 
-###### Art. 12.º As relações entre a RDP e os trabalhadores ao seu serviço reger-se-ão pelo regime jurídico que lhes era aplicável à data da criação da Radiodifusão Portuguesa, E. P. e pelo disposto neste diploma até que seja definido novo regime.
+Art. 12.º As relações entre a RDP e os trabalhadores ao seu serviço reger-se-ão pelo regime jurídico que lhes era aplicável à data da criação da Radiodifusão Portuguesa, E. P. e pelo disposto neste diploma até que seja definido novo regime.
 
-###### Art. 13.º - 1 - Podem exercer funções na RDP, em comissão de serviço, funcionários do Estado, dos institutos públicos e das autarquias locais, bem como trabalhadores de outras empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da comissão como serviço prestado nesse quadro.
+Art. 13.º - 1 - Podem exercer funções na RDP, em comissão de serviço, funcionários do Estado, dos institutos públicos e das autarquias locais, bem como trabalhadores de outras empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da comissão como serviço prestado nesse quadro.
 
 2 - Também os trabalhadores da RDP, devidamente autorizados pela comissão administrativa, podem exercer funções no Estado, institutos públicos, autarquias locais ou outras empresas públicas, em comissão de serviço, mantendo todos os direitos inerentes ao seu estatuto profissional na RDP e considerando-se todo o período da comissão como serviço prestado nesta empresa.
 
@@ -206,28 +257,28 @@ d) Propor ao Ministro da Comunicação Social, sem prejuízo da competência pr�
 
 7 - Os membros da comissão administrativa terão os mesmos direitos e deveres dos trabalhadores da empresa.
 
-###### Art. 14.º Para efeitos da intervenção do Governo e para todos os demais o Ministro da Tutela é o Ministro da Comunicação Social.
+Art. 14.º Para efeitos da intervenção do Governo e para todos os demais o Ministro da Tutela é o Ministro da Comunicação Social.
 
-###### Art. 15.º Compete ao Ministro da Comunicação Social:
+Art. 15.º Compete ao Ministro da Comunicação Social:
 
 a) Regulamentar por portaria os actos de execução do presente diploma;
 
 b) Esclarecer por despacho as dúvidas surgidas na sua interpretação.
 
-###### Art. 16.º Na parte não expressamente regulada neste diploma, ou em que não colidam com o que nele se prevê, serão supletivamente aplicáveis, por ordem de prioridade:
+Art. 16.º Na parte não expressamente regulada neste diploma, ou em que não colidam com o que nele se prevê, serão supletivamente aplicáveis, por ordem de prioridade:
 
 a) As normas que regem a generalidade das empresas públicas;
 
 b) As normas legais que regem as sociedades comerciais em forma de sociedade anónima de responsabilidade limitada, na medida em que não forem incompatíveis com a natureza de empresa pública da RDP.
 
-###### Art. 17.º Fica suspensa a aplicabilidade à RDP de todas as disposições que contrariem o atrás preceituado.
+Art. 17.º Fica suspensa a aplicabilidade à RDP de todas as disposições que contrariem o atrás preceituado.
 
-###### Art. 18.º O presente diploma entra em vigor na data da sua publicação e vigorará pelo prazo máximo de um ano.
+Art. 18.º O presente diploma entra em vigor na data da sua publicação e vigorará pelo prazo máximo de um ano.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Daniel Proença de Carvalho.
 
-**Promulgado em 29 de Janeiro de 1979.**
+Promulgado em 29 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

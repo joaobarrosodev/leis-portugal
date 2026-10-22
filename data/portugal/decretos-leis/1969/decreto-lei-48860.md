@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48860-1969-527792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 434b2de2108a81cb9395a67736878ade0ac017036dc01885f25fb532eef0b2aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93469208139cb5db4be0670418999d9f54f5838e059cde1653edfbd894189b1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de Solos
+- Arrendamento Urbano para Habitação
+- BENS Imóveis do Estado
+- Contribuição Predial
+- Contribuições e Impostos
+- Cooperativa de Habitação
+- Criação de Serviços
+- Definição de Competências
+- Forças Armadas
+- Gabinete de Urbanização e Habitação da Região de Lourenço Marques
+- Habitação
+- Isenção Fiscal
+- Lourenço Marques
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Prédio Urbano
+- Propriedade Resoluvel
+- PSP
+- Quadro de Pessoal
+- Serviços Sociais
+- Sisa
+- Urbanização
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:180993:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:25Z'
   warnings: []
   errors: []
 ---
@@ -110,13 +137,13 @@ Visam ainda as disposições do diploma a cooperação activa da iniciativa part
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado, com carácter temporário, na dependência directa do governador-geral de Moçambique, o Gabinete de Urbanização e Habitação da Região de Lourenço Marques, destinado a promover e coordenar os inquéritos, estudos, planos e meios de acção concernentes aos domínios da urbanização e da habitação na região de Lourenço Marques.
+Artigo 1.º É criado, com carácter temporário, na dependência directa do governador-geral de Moçambique, o Gabinete de Urbanização e Habitação da Região de Lourenço Marques, destinado a promover e coordenar os inquéritos, estudos, planos e meios de acção concernentes aos domínios da urbanização e da habitação na região de Lourenço Marques.
 
 § único. Sem prejuízo da missão própria do Gabinete, poderão eventualmente ser-lhe atribuídas funções de estudo e planeamento no sector da urbanização e habitação relativamente a outras áreas urbanas de Moçambique:
 
-###### Art. 2.º O Governo-Geral poderá delegar num dos secretários provinciais a orientação e gestão do Gabinete.
+Art. 2.º O Governo-Geral poderá delegar num dos secretários provinciais a orientação e gestão do Gabinete.
 
-###### Art. 3.º Considera-se região de Lourenço Marques o conjunto formado pelo concelho do mesmo nome e áreas dos concelhos vizinhos, dentro de limites a estabelecer pelo Governo-Geral, sob proposta do Gabinete, tendo em vista:
+Art. 3.º Considera-se região de Lourenço Marques o conjunto formado pelo concelho do mesmo nome e áreas dos concelhos vizinhos, dentro de limites a estabelecer pelo Governo-Geral, sob proposta do Gabinete, tendo em vista:
 
 a) As exigências de espaço de desenvolvimento, resultantes principalmente da polarização exercida pela cidade e pelas zonas portuárias e industriais;
 
@@ -128,7 +155,7 @@ d) A disciplina de utilização das áreas suburbanas e a manutenção de espaç
 
 § único. Poderá ser estabelecida inicialmente uma delimitação provisória da região, sujeita a correcção ulterior.
 
-###### Art. 4.º Competirá ao Gabinete, em especial:
+Art. 4.º Competirá ao Gabinete, em especial:
 
 1.º Estudar e propor as medidas orientadoras da política geral da habitação;
 
@@ -150,29 +177,29 @@ d) A disciplina de utilização das áreas suburbanas e a manutenção de espaç
 
 § único. Quando as circunstâncias o imponham, poderá o Gabinete ser incumbido da direcção, execução ou fiscalização de trabalhos que interessem aos fins previstos neste diploma.
 
-###### Art. 5.º Para servir de órgão consultivo do governador-geral, promoverá este a constituição de uma comissão regional de urbanização e habitação, a qual terá composição que assegure a conveniente representação dos interesses envolvidos nas finalidades deste diploma.
+Art. 5.º Para servir de órgão consultivo do governador-geral, promoverá este a constituição de uma comissão regional de urbanização e habitação, a qual terá composição que assegure a conveniente representação dos interesses envolvidos nas finalidades deste diploma.
 
 § único. Poderão tomar parte nas sessões da comissão, sem direito a voto, entidades que pela sua especial competência sejam para tal fim expressamente convidadas.
 
-###### Art. 6.º A aprovação de planos ou projectos e a autorização de execução, pelo Gabinete, de obras de urbanização serão antecedidas de audição dos corpos administrativos interessados, mas se estes se não pronunciarem até à segunda sessão ordinária a realizar depois da remessa dos respectivos processos, ou dentro de prazo mais lato, eventualmente estabelecido pelo governador-geral, ter-se-á para todos os efeitos como favorável o seu parecer.
+Art. 6.º A aprovação de planos ou projectos e a autorização de execução, pelo Gabinete, de obras de urbanização serão antecedidas de audição dos corpos administrativos interessados, mas se estes se não pronunciarem até à segunda sessão ordinária a realizar depois da remessa dos respectivos processos, ou dentro de prazo mais lato, eventualmente estabelecido pelo governador-geral, ter-se-á para todos os efeitos como favorável o seu parecer.
 
-###### Art. 7.º O quadro do pessoal do Gabinete será estabelecido mediante portaria do Ministro do Ultramar, sob proposta do governador-geral, constituindo o provimento neste quadro, para todos os efeitos, ingresso nos serviços públicos do ultramar.
+Art. 7.º O quadro do pessoal do Gabinete será estabelecido mediante portaria do Ministro do Ultramar, sob proposta do governador-geral, constituindo o provimento neste quadro, para todos os efeitos, ingresso nos serviços públicos do ultramar.
 
-###### Art. 8.º O provimento do pessoal do Gabinete será feito por contrato ou assalariamento, nos termos do Estatuto do Funcionalismo Ultramarino, podendo ser também admitidos ao serviço funcionários do Estado ou municipais em comissão, mantendo, enquanto ela durar, todos os direitos como se permanecessem ao serviço do seu próprio quadro, inclusive às promoções legais e à aposentação.
+Art. 8.º O provimento do pessoal do Gabinete será feito por contrato ou assalariamento, nos termos do Estatuto do Funcionalismo Ultramarino, podendo ser também admitidos ao serviço funcionários do Estado ou municipais em comissão, mantendo, enquanto ela durar, todos os direitos como se permanecessem ao serviço do seu próprio quadro, inclusive às promoções legais e à aposentação.
 
-###### Art. 9.º Desde que a natureza do trabalho e especiais circunstâncias o aconselhem, poderá o governador-geral autorizar que o Gabinete incumba técnicos especializados da elaboração de estudos, projectos ou outros serviços, mediante remuneração adequada.
+Art. 9.º Desde que a natureza do trabalho e especiais circunstâncias o aconselhem, poderá o governador-geral autorizar que o Gabinete incumba técnicos especializados da elaboração de estudos, projectos ou outros serviços, mediante remuneração adequada.
 
-###### Art. 10.º O orçamento geral da província e os dos corpos administrativos interessados inscreverão anualmente verbas destinadas à realização dos programas de acção aprovados, incluindo as expropriações necessárias.
+Art. 10.º O orçamento geral da província e os dos corpos administrativos interessados inscreverão anualmente verbas destinadas à realização dos programas de acção aprovados, incluindo as expropriações necessárias.
 
 § único. As despesas de funcionamento do Gabinete constituirão encargo da província.
 
-###### Art. 11.º Serão estabelecidas, por portaria do governador-geral as condições da utilização das comparticipações ou subsídios, reembolsáveis ou não, concedidos em conta das dotações para esse fim inscritas no orçamento geral, nos termos do artigo anterior.
+Art. 11.º Serão estabelecidas, por portaria do governador-geral as condições da utilização das comparticipações ou subsídios, reembolsáveis ou não, concedidos em conta das dotações para esse fim inscritas no orçamento geral, nos termos do artigo anterior.
 
 § único. As entidades ou empresas idóneas interessadas nos programas de acção aprovados poderão ser parcialmente financiadas pelas disponibilidades orçamentais da província ou dos corpos administrativos, carecendo, porém, as condições do financiamento de aprovação, no primeiro caso, por parte do Ministro do Ultramar e, no segundo, por parte do governador-geral.
 
-###### Art. 12.º Não ficam dependentes do limite imposto pelo artigo 628.º da Reforma Administrativa Ultramarina os subsídios reembolsáveis concedidos aos acordos administrativos para serem aplicados na aquisição de terrenos e respectiva urbanização, em conformidade com os programas de acção aprovados. Deverá, neste caso, porém, ficar o regime de reembolso condicionado à realização da receita da alienação ulterior desses terrenos para os fins previstos no respectivo plano.
+Art. 12.º Não ficam dependentes do limite imposto pelo artigo 628.º da Reforma Administrativa Ultramarina os subsídios reembolsáveis concedidos aos acordos administrativos para serem aplicados na aquisição de terrenos e respectiva urbanização, em conformidade com os programas de acção aprovados. Deverá, neste caso, porém, ficar o regime de reembolso condicionado à realização da receita da alienação ulterior desses terrenos para os fins previstos no respectivo plano.
 
-###### Art. 13.º A utilização dos lotes de terreno pertencentes ao Estado ou aos corpos administrativos, uma vez urbanizados e disponíveis para novas construções, poderá ser feita:
+Art. 13.º A utilização dos lotes de terreno pertencentes ao Estado ou aos corpos administrativos, uma vez urbanizados e disponíveis para novas construções, poderá ser feita:
 
 1.º Por atribuição, mediante acordos directos, aos seguintes organismos e entidades:
 
@@ -202,19 +229,19 @@ c) Empresas de construção civil e quaisquer pessoas ou entidades interessadas 
 
 § 2.º Sempre que a segunda praça fique deserta, poderá ser dispensada nova licitação, podendo a utilização dos lotes fazer-se por acordo particular, prèviamente sancionado pelo governador-geral.
 
-###### Art. 14.º A percentagem das diversas categorias de habitações, incluindo as que não devam ficar sujeitas a limitação de renda, o preço dos terrenos atribuídos nos termos do n.º 1.º do artigo 13.º deste diploma e os valores limites das rendas dos prédios a construir em lotes atribuídos, de de acordo com os n.os 1.º e 2.º do mesmo artigo, serão estudados pelo Gabinete e estabelecidos por portaria do governador-geral, ouvidos prèviamente os corpos administrativos interessados e a comissão regional de urbanização e habitação.
+Art. 14.º A percentagem das diversas categorias de habitações, incluindo as que não devam ficar sujeitas a limitação de renda, o preço dos terrenos atribuídos nos termos do n.º 1.º do artigo 13.º deste diploma e os valores limites das rendas dos prédios a construir em lotes atribuídos, de de acordo com os n.os 1.º e 2.º do mesmo artigo, serão estudados pelo Gabinete e estabelecidos por portaria do governador-geral, ouvidos prèviamente os corpos administrativos interessados e a comissão regional de urbanização e habitação.
 
-###### Art. 15.º Os prédios a construir nos terrenos a que se refere o artigo 13.º deste diploma poderão ser destinados a arrendamento ou a venda, inclusive em regime de propriedade resolúvel, considerando-se transferido para o comprador o direito ao aforamento ou ao arrendamento do terreno nos casos previstos no n.º 3.º do mesmo artigo.
+Art. 15.º Os prédios a construir nos terrenos a que se refere o artigo 13.º deste diploma poderão ser destinados a arrendamento ou a venda, inclusive em regime de propriedade resolúvel, considerando-se transferido para o comprador o direito ao aforamento ou ao arrendamento do terreno nos casos previstos no n.º 3.º do mesmo artigo.
 
-###### Art. 16.º As pessoas ou entidades a que forem atribuídos lotes para novas construções só poderão ocupá-los com edifícios que se subordinem às características fixadas nos planos de urbanização, devendo a conclusão dos edifícios verificar-se nos prazos constantes da hasta pública ou dos acordos de atribuição, salvo caso de força maior devidamente comprovado.
+Art. 16.º As pessoas ou entidades a que forem atribuídos lotes para novas construções só poderão ocupá-los com edifícios que se subordinem às características fixadas nos planos de urbanização, devendo a conclusão dos edifícios verificar-se nos prazos constantes da hasta pública ou dos acordos de atribuição, salvo caso de força maior devidamente comprovado.
 
 § 1.º Aos que não observem as condições e os prazos determinados poderão ser expropriados pelo preço inicial os respectivos lotes, independentemente de incorrerem nas sanções de ordem fiscal que vierem a ser estabelecidas para o efeito pelo governador-geral em diploma legislativo.
 
 § 2.º Os lotes destinados a construção que tenham sido atribuídos segundo o n.º 3.º do artigo 13.º consideram-se livres se, findo o prazo para sua ocupação, neles se não tiver construído conforme as condições estipuladas no respectivo contrato.
 
-###### Art. 17.º Nas habitações de propriedade resolúvel os valores das respectivas prestações mensais serão fixados de acordo com as rendas estabelecidas nos termos do artigo 14.º, acrescidas dos encargos de amortização, seguros e outros devidamente justificados, mediante aprovação do governador-geral.
+Art. 17.º Nas habitações de propriedade resolúvel os valores das respectivas prestações mensais serão fixados de acordo com as rendas estabelecidas nos termos do artigo 14.º, acrescidas dos encargos de amortização, seguros e outros devidamente justificados, mediante aprovação do governador-geral.
 
-###### Art. 18.º Ficam isentos do pagamento de sisa:
+Art. 18.º Ficam isentos do pagamento de sisa:
 
 a) As transmissões de terrenos do Estado ou dos municípios a favor dos organismos, entidades ou pessoas referidas no artigo 13.º;
 
@@ -222,19 +249,19 @@ b) A primeira transmissão de prédios urbanos, nas condições do artigo 14.º,
 
 c) A primeira transmissão de prédios ou fracções autónomas de habitação em regime de propriedade resolúvel, conforme o artigo 15.º, durante o período de amortização.
 
-###### Art. 19.º As habitações nas condições do artigo 14.º poderão ser isentas de contribuição predial urbana pelo período de quinze anos, fixando o governador-geral, por portaria, para cada programa de acção, os escalões de renda abrangidos pela isenção.
+Art. 19.º As habitações nas condições do artigo 14.º poderão ser isentas de contribuição predial urbana pelo período de quinze anos, fixando o governador-geral, por portaria, para cada programa de acção, os escalões de renda abrangidos pela isenção.
 
 § único. Quando se trate de prédios ou fracções em regime de propriedade resolúvel, a isenção a que se refere o corpo do artigo manter-se-á até total amortização.
 
-###### Art. 20.º As expropriações por utilidade pública, a realizar para execução dos programas de acção do Gabinete, reger-se-ão pelas disposições reguladoras das expropriações, tendo designadamente em vista, quanto aos terrenos em regime de concessão ou de ocupação pelos vizinhos das regedorias, o preceituado nos artigos 217.º e 237.º do [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
+Art. 20.º As expropriações por utilidade pública, a realizar para execução dos programas de acção do Gabinete, reger-se-ão pelas disposições reguladoras das expropriações, tendo designadamente em vista, quanto aos terrenos em regime de concessão ou de ocupação pelos vizinhos das regedorias, o preceituado nos artigos 217.º e 237.º do [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
 
-###### Art. 21.º O governador-geral de Moçambique publicará as disposições regulamentares necessárias para assegurar o funcionamento do Gabinete e da comissão regional pela forma mais adequada ao desempenho das funções que, nos termos do presente decreto-lei, lhes competem.
+Art. 21.º O governador-geral de Moçambique publicará as disposições regulamentares necessárias para assegurar o funcionamento do Gabinete e da comissão regional pela forma mais adequada ao desempenho das funções que, nos termos do presente decreto-lei, lhes competem.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 31 de Janeiro de 1969.**
+Promulgado em 31 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

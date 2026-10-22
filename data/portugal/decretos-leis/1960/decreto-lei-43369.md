@@ -47,40 +47,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aaa9bad08b9d9115194b313732415a0c2fd5a1aceb5b13111ac3ef5bd185dae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eac59962996b1c660b27d2758d74031514edf1f67eaa50a92048d05d044a374
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ensino Primário
+- Estabelecimento de Ensino
+- Formação Profissional
+- Pessoal Docente
+- Plano de Estudos
+- Política de Educação
 relationships:
 - type: amended_by
   target: pt:dre:141648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159703:por
+  label: "Dada nova redacção ao art. 15º pelo DEC LEI.44560.08.09.1962.MEN, DG.IS [207] de 08.09.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44560-1962-159703
+  date: '1962-09-08'
+- type: amended_by
+  target: pt:dre:686233:por
+  label: "Alterado o art. 5º pelo DEC LEI.45249.16.09.1963.MEN, DG.IS [218] de 16.09.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45249-1963-686233
+  date: '1963-09-16'
+- type: amended_by
+  target: pt:dre:471774:por
+  label: "Alterado o art. 22º pelo DEC LEI.45654.11.04.1964.MEN, DG.IS [87] de 11.04.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45654-1964-471774
+  date: '1964-04-11'
+- type: amended_by
+  target: pt:dre:176287:por
+  label: "Dada nova redacção ao art. 13º pelo DEC LEI.49406.24.11.1969.MEN, DG.IS [275-Supl] de 24.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49406-1969-176287
+  date: '1969-11-24'
+- type: amended_by
+  target: pt:dre:633317:por
+  label: "Dada nova redacção ao art. 13º pelo DEC LEI.437/71.21.10.1971.MEN, DG.IS [248] de 21.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/437-1971-633317
+  date: '1971-10-21'
+- type: amended_by
+  target: pt:dre:304485:por
+  label: "Substituído, para todos os efeitos legais, o estabelecido no arts. 18º, 19º e § único do art. 21º do presente diploma,\
+    \ pelo DEC LEI.309-B/75.25.06.1975.MEC, DG.IS [144-2SUPL] de 25.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-b-1975-304485
+  date: '1975-06-25'
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399604:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:141648:por
+  label: "Revogado o art. 14º pelo DEC LEI.66/77.24.02.1977.MEIC, DR.IS [46] de 24.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1977-141648
+  date: '1977-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:48Z'
   warnings: []
   errors: []
 ---
@@ -111,39 +166,39 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O plano de estudos das escolas do magistério primário passa a ser:
+Artigo 1.º O plano de estudos das escolas do magistério primário passa a ser:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/12/27900/26742676.pdf))](https://files.diariodarepublica.pt/1s/1960/12/27900/26742676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/12/27900/26742676.pdf)
 
-###### Art. 2.º As disciplinas de Pedagogia, Didáctica Geral e História da Educação serão regidas pelo director da escola.
+Art. 2.º As disciplinas de Pedagogia, Didáctica Geral e História da Educação serão regidas pelo director da escola.
 
-###### Art. 3.º As disciplinas de Psicologia Aplicada à Educação e de Organização Política e Administrativa da Nação serão regidas por um licenciado em Ciências Históricas e Filosóficas, como curso de Ciências Pedagógicas das Faculdades de Letras, ou, em comissão, por um professor do ensino liceal do 4.º grupo ou do ensino técnico de grupo equivalente.
+Art. 3.º As disciplinas de Psicologia Aplicada à Educação e de Organização Política e Administrativa da Nação serão regidas por um licenciado em Ciências Históricas e Filosóficas, como curso de Ciências Pedagógicas das Faculdades de Letras, ou, em comissão, por um professor do ensino liceal do 4.º grupo ou do ensino técnico de grupo equivalente.
 
-###### Art. 4.º As matérias de Didáctica Especial serão ministradas por dois professores: um para o grupo A, abrangendo a Língua Portuguesa, História e Desenho; outro professor para o grupo B, incluindo a Aritmética e Geometria, Ciências Geográfico-Naturais e Trabalhos Manuais.
+Art. 4.º As matérias de Didáctica Especial serão ministradas por dois professores: um para o grupo A, abrangendo a Língua Portuguesa, História e Desenho; outro professor para o grupo B, incluindo a Aritmética e Geometria, Ciências Geográfico-Naturais e Trabalhos Manuais.
 
 § único. Os professores de Didáctica Especial regerão também a disciplina de Legislação e Administração Escolares.
 
-###### Art. 5.º Os professores referidos nos artigos 3.º e 4.º poderão ser nomeados definitivamente, depois de dois anos de bom e efectivo serviço, precedendo concurso de provas escritas e orais sobre as matérias do programa das respectivas disciplinas.
+Art. 5.º Os professores referidos nos artigos 3.º e 4.º poderão ser nomeados definitivamente, depois de dois anos de bom e efectivo serviço, precedendo concurso de provas escritas e orais sobre as matérias do programa das respectivas disciplinas.
 
 § único. O júri destes concursos será constituído pelo director-geral do Ensino Primário, como presidente, e por dois vogais, a nomear pelo Ministro da Educação Nacional, de entre os inspectores-orientadores e professores de qualquer grau de ensino.
 
-###### Art. 6.º Os professores referidos no artigo 3.º deste decreto-lei percebem os vencimentos de 4000$00, sem diuturnidade, e 4250$00 e 4500$00, respectivamente, com a 1.ª e 2.ª diuturnidades.
+Art. 6.º Os professores referidos no artigo 3.º deste decreto-lei percebem os vencimentos de 4000$00, sem diuturnidade, e 4250$00 e 4500$00, respectivamente, com a 1.ª e 2.ª diuturnidades.
 
-###### Art. 7.º Nas escolas criadas pelos Decretos n.os 33019, de 1 de Setembro de 1943, 35227, de 7 de Dezembro de 1945, e 36839, de 19 de Abril de 1948, os professores de Psicologia Aplicada à Educação, e Organização Política e Administrativa da Nação são recrutados nos termos do [Decreto-Lei n.º 33019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33019-1943-399604).
+Art. 7.º Nas escolas criadas pelos Decretos n.os 33019, de 1 de Setembro de 1943, 35227, de 7 de Dezembro de 1945, e 36839, de 19 de Abril de 1948, os professores de Psicologia Aplicada à Educação, e Organização Política e Administrativa da Nação são recrutados nos termos do [Decreto-Lei n.º 33019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33019-1943-399604).
 
-###### Art. 8.º O estágio a que se refere a alínea b) do artigo 1.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, será realizado nas escolas de aplicação anexas às do magistério primário.
+Art. 8.º O estágio a que se refere a alínea b) do artigo 1.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, será realizado nas escolas de aplicação anexas às do magistério primário.
 
 § 1.º Quando o número de lugares das escolas de aplicação se mostre insuficiente para o estágio eficaz dos alunos-mestres, podem outras escolas do ensino primário da mesma cidade passar a funcionar como escolas de aplicação, mediante despacho do Ministro da Educação Nacional.
 
 § 2.º O número de tempos semanais do estágio será de doze.
 
-###### Art. 9.º Para os orientadores do estágio a que se refere o § 1.º do artigo 35.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441) serão nomeados os professores das escolas de aplicação, com direito à gratificação estabelecida no mesmo artigo, actualizada nos termos do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
+Art. 9.º Para os orientadores do estágio a que se refere o § 1.º do artigo 35.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441) serão nomeados os professores das escolas de aplicação, com direito à gratificação estabelecida no mesmo artigo, actualizada nos termos do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
 
-###### Art. 10.º Funcionará em cada uma das escolas do magistério o conselho das escolas de aplicação, constituído por todos os professores destas escolas e pelos professores de Didáctica Especial, sob a presidência do director.
+Art. 10.º Funcionará em cada uma das escolas do magistério o conselho das escolas de aplicação, constituído por todos os professores destas escolas e pelos professores de Didáctica Especial, sob a presidência do director.
 
 § único. Os professores de Didáctica Especial estabelecem a coordenação entre as escolas do magistério e as escolas de aplicação, a cujas práticas podem assistir.
 
-###### Art. 11.º Os exames de admissão às escolas do magistério primário constam de parte escrita e parte oral. As provas escritas, cada uma das quais tem a duração de 90 minutos, respeitam às seguintes disciplinas:
+Art. 11.º Os exames de admissão às escolas do magistério primário constam de parte escrita e parte oral. As provas escritas, cada uma das quais tem a duração de 90 minutos, respeitam às seguintes disciplinas:
 
 a) Português;
 
@@ -155,27 +210,27 @@ Na parte oral efectuar-se-á o interrogatório das mesmas disciplinas, com a dur
 
 § único. Depois de aprovados os candidatos, nos termos do artigo 6.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), será determinada a nota final do exame pela média aritmética das seis classificações atribuídas na parte escrita e na parte oral, podendo levar-se a divisão até às centésimas, se a ordenação dos candidatos assim o exigir.
 
-###### Art. 12.º A admissão à frequência das escolas do magistério primário será feita mediante concurso em relação ao número de vagas superiormente determinado em cada ano e para cada escola, sem subordinação aos limites fixados no artigo 9.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), entre os candidatos aprovados no exame de admissão há menos de dois anos, nas condições estabelecidas no artigo 10.º do mesmo diploma.
+Art. 12.º A admissão à frequência das escolas do magistério primário será feita mediante concurso em relação ao número de vagas superiormente determinado em cada ano e para cada escola, sem subordinação aos limites fixados no artigo 9.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), entre os candidatos aprovados no exame de admissão há menos de dois anos, nas condições estabelecidas no artigo 10.º do mesmo diploma.
 
-###### Art. 13.º Quando o número de alunos admitidos em cada ano, nos termos no artigo anterior, o justifique, poderá o Ministro da Educação Nacional nomear, eventualmente, mais dois professores: um para a regência das disciplinas de Psicologia Aplicada à Educação e de Organização Política e Administrativa da Nação e outro para as de Didáctica Especial e de Legislação e Administração Escolares.
+Art. 13.º Quando o número de alunos admitidos em cada ano, nos termos no artigo anterior, o justifique, poderá o Ministro da Educação Nacional nomear, eventualmente, mais dois professores: um para a regência das disciplinas de Psicologia Aplicada à Educação e de Organização Política e Administrativa da Nação e outro para as de Didáctica Especial e de Legislação e Administração Escolares.
 
-###### Art. 14.º As idades mencionadas na alínea a) do § único do artigo 8.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441) serão referidas a 31 de Dezembro do ano em que o exame é requerido.
+Art. 14.º As idades mencionadas na alínea a) do § único do artigo 8.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441) serão referidas a 31 de Dezembro do ano em que o exame é requerido.
 
-###### Art. 15.º Poderão ser admitidos à frequência das escolas do magistério primário, com dispensa de exame de admissão e com isenção do pagamento de propinas, os regentes escolares com, pelo menos, 5 anos de serviço bem qualificado, idade inferior a 35 anos e que provem ter as habilitações legais exigidas aos candidatos que prestam provas de exame de admissão.
+Art. 15.º Poderão ser admitidos à frequência das escolas do magistério primário, com dispensa de exame de admissão e com isenção do pagamento de propinas, os regentes escolares com, pelo menos, 5 anos de serviço bem qualificado, idade inferior a 35 anos e que provem ter as habilitações legais exigidas aos candidatos que prestam provas de exame de admissão.
 
 § único. Aos regentes escolares admitidos nas condições fixadas neste artigo serão mantidas as suas gratificações de regência, mas esta regalia não é aplicável ao regente-aluno que no ano lectivo anterior não tiver obtido aprovação.
 
-###### Art. 16.º No número fixado em cada ano para a frequência das escolas serão incluídos os regentes escolares inscritos independentemente de concurso de admissão, nos termos do artigo anterior.
+Art. 16.º No número fixado em cada ano para a frequência das escolas serão incluídos os regentes escolares inscritos independentemente de concurso de admissão, nos termos do artigo anterior.
 
 § único. Sem embargo da possibilidade da admissão, sem a gratificação, de regentes escolares à frequência das escolas do magistério primário, nas condições do corpo do artigo 15.º, o número a fixar em cada ano dos que terão direito ao benefício estabelecido no § único do mesmo artigo será condicionado pelo acordo anual do Ministro das Finanças ao limite de encargos a satisfazer com as gratificações de regência.
 
-###### Art. 17.º Quando o número de candidatos o justificar, poderá o Ministro da Educação Nacional nomear para os exames de admissão os júris que considerar necessários, constituídos por inspectores-orientadores, professores das escolas do magistério e professores do ensino primário.
+Art. 17.º Quando o número de candidatos o justificar, poderá o Ministro da Educação Nacional nomear para os exames de admissão os júris que considerar necessários, constituídos por inspectores-orientadores, professores das escolas do magistério e professores do ensino primário.
 
-###### Art. 18.º O aproveitamento da frequência será verificado em cada semestre pelo conselho escolar, ficando eliminado o aluno que não obtiver em cada um dos semestres a média de 10 valores ou que tiver uma nota inferior a 6 valores em qualquer semestre.
+Art. 18.º O aproveitamento da frequência será verificado em cada semestre pelo conselho escolar, ficando eliminado o aluno que não obtiver em cada um dos semestres a média de 10 valores ou que tiver uma nota inferior a 6 valores em qualquer semestre.
 
-###### Art. 19.º Serão admitidos a Exame de Estado os alunos que obtiverem aproveitamento nos termos do artigo anterior e com a assiduidade e comportamento exigidos pelo artigo 14.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942.
+Art. 19.º Serão admitidos a Exame de Estado os alunos que obtiverem aproveitamento nos termos do artigo anterior e com a assiduidade e comportamento exigidos pelo artigo 14.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942.
 
-###### Art. 20.º O Exame de Estado é realizado perante júri único, nos termos do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), e constará de parte escrita, prática e oral.
+Art. 20.º O Exame de Estado é realizado perante júri único, nos termos do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), e constará de parte escrita, prática e oral.
 
 § 1.º A parte escrita será constituída pela prestação de provas nas disciplinas de Pedagogia, Didáctica Geral e História da Educação, de Psicologia Aplicada à Educação e de Didáctica Especial, com a duração de 90 minutos para cada prova.
 
@@ -183,23 +238,23 @@ Na parte oral efectuar-se-á o interrogatório das mesmas disciplinas, com a dur
 
 § 3.º A parte oral constará, principalmente, da crítica e discussão dos exames escritos e prático, com a duração máxima de 30 minutos.
 
-###### Art. 21.º As provas são prestadas em cada escola do magistério perante as delegações do júri único, às quais compete classificá-las dentro da seguinte escala: Medíocre, Suficiente, Bom e Muito bom, sendo eliminatória a classificação de Medíocre. A classificação definitiva, que será expressa em números, dentro da escala de 10 a 20 valores, é feita pelo júri único, que funcionará em Lisboa, na Direcção-Geral do Ensino Primário.
+Art. 21.º As provas são prestadas em cada escola do magistério perante as delegações do júri único, às quais compete classificá-las dentro da seguinte escala: Medíocre, Suficiente, Bom e Muito bom, sendo eliminatória a classificação de Medíocre. A classificação definitiva, que será expressa em números, dentro da escala de 10 a 20 valores, é feita pelo júri único, que funcionará em Lisboa, na Direcção-Geral do Ensino Primário.
 
 § único. Para a nota final a propor entrarão em linha de conta do exame de admissão a média de frequência, relatório e informação do estágio e as classificações atribuídas às várias provas do Exame de Estado.
 
-###### Art. 22.º O júri único é constituído pelo director-geral do Ensino Primário, ou um seu delgado, e pelos directores das escolas do magistério do continente, como vogais, e terá delegações em cada escola, constituídas pelo director, por professores de Didáctica e de Psicologia, por inspectores-orientadores, directores de distrito escolar ou professores de ensino primário.
+Art. 22.º O júri único é constituído pelo director-geral do Ensino Primário, ou um seu delgado, e pelos directores das escolas do magistério do continente, como vogais, e terá delegações em cada escola, constituídas pelo director, por professores de Didáctica e de Psicologia, por inspectores-orientadores, directores de distrito escolar ou professores de ensino primário.
 
-###### Art. 23.º Os diplomas e certidões dos Exames de Estado serão passados nas secretarias das escolas onde o candidato tenha prestado provas e assinados pelo respectivo director.
+Art. 23.º Os diplomas e certidões dos Exames de Estado serão passados nas secretarias das escolas onde o candidato tenha prestado provas e assinados pelo respectivo director.
 
-###### Art. 24.º É permitido aos professores do ensino primário repetir o Exame de Estado nas condições a fixar em portaria pelo Ministro da Educação Nacional.
+Art. 24.º É permitido aos professores do ensino primário repetir o Exame de Estado nas condições a fixar em portaria pelo Ministro da Educação Nacional.
 
-###### Art. 25.º Os quadros do pessoal administrativo e do pessoal menor, referidos nos artigos 32.º e 33.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), serão remodelados em decreto referendado pelos Ministros das Finanças e da Educação Nacional.
+Art. 25.º Os quadros do pessoal administrativo e do pessoal menor, referidos nos artigos 32.º e 33.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), serão remodelados em decreto referendado pelos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 26.º Os funcionários do pessoal menor das escolas de magistério primário são obrigados a apresentar-se fardados quando em serviço e têm direito, enquanto não forem fixadas as condições relativas à forma de pagamento do respectivo fardamento, à sua concessão por conta do Estado.
+Art. 26.º Os funcionários do pessoal menor das escolas de magistério primário são obrigados a apresentar-se fardados quando em serviço e têm direito, enquanto não forem fixadas as condições relativas à forma de pagamento do respectivo fardamento, à sua concessão por conta do Estado.
 
-###### Art. 27.º Continuarão em vigor todas as disposições legais ou regulamentares que não sejam prejudicadas por este diploma.
+Art. 27.º Continuarão em vigor todas as disposições legais ou regulamentares que não sejam prejudicadas por este diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

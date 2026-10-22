@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/11/26400/24412442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43310-1960-514206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc5bf6dd55488a95ecd67fffeb4081ed2d2d9b906c313e7562c75ea634b562fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29ef09a078b2e6b23f2db566b443c1080d74cdd06b1eba56a42a2eb12eabb566
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Processo Disciplinar
+- Sanção Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:536065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:536065:por
+  label: "Revogado pelo DEC LEI.46001.02.11.1964.PC, DG.IS [257] de 02.11.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46001-1964-536065
+  date: '1964-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:22Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +108,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os processos de disciplina militar poderão ser revistos quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inocência do condenado e que não puderam ser utilizados pelo arguido no processo disciplinar.
+Artigo 1.º Os processos de disciplina militar poderão ser revistos quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inocência do condenado e que não puderam ser utilizados pelo arguido no processo disciplinar.
 
 § 1.º A revisão deverá ser pedida no prazo de 180 dias, contados da data em que o interessado obteve a possibilidade de invocar as circunstâncias ou os meios de prova alegados como fundamento da revisão.
 
@@ -108,25 +118,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º A revisão não pode ser pedida mais que uma vez pelos mesmos fundamentos de facto.
 
-###### Art. 2.º O interessado na revisão de um processo disciplinar apresentará requerimento nesse sentido ao Conselho Superior de Disciplina do Exército ou da Armada ou à Comissão Técnica da Força Aérea, conforme os casos.
+Art. 2.º O interessado na revisão de um processo disciplinar apresentará requerimento nesse sentido ao Conselho Superior de Disciplina do Exército ou da Armada ou à Comissão Técnica da Força Aérea, conforme os casos.
 
 § único. O requerimento indicará as circunstâncias e todos os meios de prova não considerados no processo a rever que ao requerente pareçam justificar a revisão e deverá ser instruído com os documentos indispensáveis.
 
-###### Art. 3.º Recebido o requerimento, o competente conselho superior de disciplina, ou a Comissão Técnica da Força Aérea, resolverá sobre se deve ou não ser concedida a revisão do processo.
+Art. 3.º Recebido o requerimento, o competente conselho superior de disciplina, ou a Comissão Técnica da Força Aérea, resolverá sobre se deve ou não ser concedida a revisão do processo.
 
 § único. É definitiva e inatacável a decisão que não conceder a revisão.
 
-###### Art. 4.º Concedida a revisão, será o respectivo processo apenso ao processo a rever, seguindo-se na instrução e julgamento os trâmites estabelecidos nos artigos 171.º a 185.º do Regulamento de Disciplina Militar que forem aplicáveis.
+Art. 4.º Concedida a revisão, será o respectivo processo apenso ao processo a rever, seguindo-se na instrução e julgamento os trâmites estabelecidos nos artigos 171.º a 185.º do Regulamento de Disciplina Militar que forem aplicáveis.
 
 § único. Serão recusados os documentos e as diligências desnecessários à descoberta da verdade, podendo ser mandados retirar os documentos que estiverem nessas condições.
 
-###### Art. 5.º Se o punido estiver impossibilitado de organizar a sua defesa, em virtude de anomalia mental ou física, por motivo de doença, o conselho superior de disciplina respectivo, ou a Comissão Técnica da Força Aérea, nomeará um curador, preferindo no entanto a pessoa a quem competiria a tutela no caso de interdição, segundo a ordem estabelecida nos n.os 1.º, 2.º e 3.º do artigo 320.º do Código Civil.
+Art. 5.º Se o punido estiver impossibilitado de organizar a sua defesa, em virtude de anomalia mental ou física, por motivo de doença, o conselho superior de disciplina respectivo, ou a Comissão Técnica da Força Aérea, nomeará um curador, preferindo no entanto a pessoa a quem competiria a tutela no caso de interdição, segundo a ordem estabelecida nos n.os 1.º, 2.º e 3.º do artigo 320.º do Código Civil.
 
 § único. Esta nomeação é restrita à revisão dos processos disciplinares, podendo o curador usar de todos os meios de defesa facultados aos infractores.
 
-###### Art. 6.º No julgamento, o conselho superior de disciplina respectivo, ou a Comissão Técnica da Força Aérea, pode concluir pela inocência do condenado, ou pela sua menor culpabilidade, ou ainda pela procedência da acusação.
+Art. 6.º No julgamento, o conselho superior de disciplina respectivo, ou a Comissão Técnica da Força Aérea, pode concluir pela inocência do condenado, ou pela sua menor culpabilidade, ou ainda pela procedência da acusação.
 
-###### Art. 7.º Julgando-se procedente a revisão, será revogada, total ou parcialmente, a decisão proferida no processo revisto, consoante se concluir pela inocência do arguido ou tão-sòmente pela sua menor culpabilidade.
+Art. 7.º Julgando-se procedente a revisão, será revogada, total ou parcialmente, a decisão proferida no processo revisto, consoante se concluir pela inocência do arguido ou tão-sòmente pela sua menor culpabilidade.
 
 § único. A revogação a que se refere este artigo produzirá os seguintes efeitos:
 
@@ -140,12 +150,12 @@ b) Se, entretanto, lhe tiver competido a promoção, o reabilitado reocupará o 
 
 c) O reabilitado terá direito a uma indemnização, se a pedir, nos termos e condições a estabelecer.
 
-###### Art. 8.º A simples substituição de pena sòmente produz efeitos a partir da data do respectivo cumprimento, mas em nenhum caso serão pagos os vencimentos ou pensões deixados de receber.
+Art. 8.º A simples substituição de pena sòmente produz efeitos a partir da data do respectivo cumprimento, mas em nenhum caso serão pagos os vencimentos ou pensões deixados de receber.
 
-###### Art. 9.º A revisão do processo não suspende, em regra, o cumprimento da pena. Se, porém, esta for privativa de liberdade, a entidade que concedeu a revisão poderá autorizar a suspensão.
+Art. 9.º A revisão do processo não suspende, em regra, o cumprimento da pena. Se, porém, esta for privativa de liberdade, a entidade que concedeu a revisão poderá autorizar a suspensão.
 
-###### Art. 10.º O presente diploma é aplicável, nos mesmos termos, aos processos anteriores à sua vigência e a partir desta se contará o prazo referido no § 1.º do artigo 1.º, se a possibilidade de invocação das circunstâncias ou meios de prova tiver surgido antes.
+Art. 10.º O presente diploma é aplicável, nos mesmos termos, aos processos anteriores à sua vigência e a partir desta se contará o prazo referido no § 1.º do artigo 1.º, se a possibilidade de invocação das circunstâncias ou meios de prova tiver surgido antes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo.

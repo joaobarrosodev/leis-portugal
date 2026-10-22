@@ -49,36 +49,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1981-564208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51b1075d1047d4d67abed792425e03a920880feb7a3b6b04cec7bf0c4622399b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db849444c69e7e1e7cdb76998b415c7cf40014ff5ff17111d04b5a5266541699
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia da Força Aérea
+- Academia Militar
+- Aluno Militar
+- Curso
+- Escola Naval
+- Forças Armadas
+- Militar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:53Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +98,18 @@ Considerando-se conveniente estabelecer uma reciprocidade na admissão à Academ
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os militares na efectividade de serviço podem concorrer à admissão a uma academia militar de um ramo diferente do seu ramo de origem desde que não ultrapassem a idade de acesso exigida aos candidatos civis à academia do ramo a que concorrem acrescida de dois anos e satisfaçam às demais condições gerais e especiais de admissão, de acordo com as disposições legais em vigor.
+Artigo 1.º Os militares na efectividade de serviço podem concorrer à admissão a uma academia militar de um ramo diferente do seu ramo de origem desde que não ultrapassem a idade de acesso exigida aos candidatos civis à academia do ramo a que concorrem acrescida de dois anos e satisfaçam às demais condições gerais e especiais de admissão, de acordo com as disposições legais em vigor.
 
-###### Art. 2.º - 1 - Os militares que, tendo concorrido a uma academia militar nas condições referidas no artigo anterior, não hajam concluído com aproveitamento o curso que frequentaram regressam ao seu ramo de origem, devendo os não pertencentes aos quadros permanentes manter-se na efectividade de serviço até ao termo do período a que por lei se achem obrigados, não sendo contado para este efeito o tempo durante o qual se mantiveram afastados do seu ramo de origem.
+Art. 2.º - 1 - Os militares que, tendo concorrido a uma academia militar nas condições referidas no artigo anterior, não hajam concluído com aproveitamento o curso que frequentaram regressam ao seu ramo de origem, devendo os não pertencentes aos quadros permanentes manter-se na efectividade de serviço até ao termo do período a que por lei se achem obrigados, não sendo contado para este efeito o tempo durante o qual se mantiveram afastados do seu ramo de origem.
 
 2 - Os cursos ministrados nas academias militares a que os militares se podem candidatar nos termos do presente diploma são para a Academia da Força Aérea e para a Academia Militar qualquer dos cursos nelas professados, e para a Escola Naval, os cursos de marinha, de engenheiros maquinistas navais e de administração naval ou os que no futuro lhes venham a corresponder.
 
-###### Art. 3.º A situação dos militares admitidos a qualquer das academias militares nos termos do presente diploma durante a frequência dos respectivos cursos e após a sua conclusão com aproveitamento será regulada por portaria conjunta do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores dos ramos.
+Art. 3.º A situação dos militares admitidos a qualquer das academias militares nos termos do presente diploma durante a frequência dos respectivos cursos e após a sua conclusão com aproveitamento será regulada por portaria conjunta do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores dos ramos.
 
 Visto e aprovado em Conselho da Revolução em 13 de Agosto de 1981.
 
-**Promulgado em 22 de Agosto de 1981.**
+Promulgado em 22 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

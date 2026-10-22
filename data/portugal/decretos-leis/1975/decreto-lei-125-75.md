@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06000/03790382.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1975-161091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fdcce98c6124cf1ec648f92813a4d7bef6ddaef274b1e0a7fc720a42598f670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0ef90cb229e7cd5e55f12fab8120ebb8b56139bec1a4315e45a44c9cf11cbaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Conselho Superior Judiciário do Ultramar
+- Conselho Ultramarino
+- Criação de Serviços
+- Direcção Geral de Justiça
+- Extinção de Serviços
+- Gabinete de Assuntos Jurídicos
+- Ministério do Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:199149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691872:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:31Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +135,15 @@ Considerando que de momento, enquanto não se completam os estudos em curso, só
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintos o Conselho Ultramarino e o Conselho Superior Judiciário do Ultramar.
+Artigo 1.º São extintos o Conselho Ultramarino e o Conselho Superior Judiciário do Ultramar.
 
-###### Art. 2.º - 1. Os actuais magistrados judiciais e do Ministério Público do ultramar passarão a prestar serviço nos territórios sob administração portuguesa em regime de comissão ordinária de serviço.
+Art. 2.º - 1. Os actuais magistrados judiciais e do Ministério Público do ultramar passarão a prestar serviço nos territórios sob administração portuguesa em regime de comissão ordinária de serviço.
 
 2. Relativamente aos magistrados referidos no número anterior, a acção disciplinar será exercida, respectivamente, pelo Conselho Superior Judiciário e pelo Conselho Superior do Ministério Público. Esta regra, porém, não será aplicável aos magistrados que eventualmente venham a ingressar nos quadros privativos dos Estados de Angola e de Moçambique.
 
 3. A acção disciplinar sobre os funcionários dos serviços de justiça compete em cada território ultramarino aos órgãos de governo local, cabendo recurso contencioso dos actos definitivos e executórios desses órgãos para o tribunal competente.
 
-###### Art. 3.º - 1. Compete ao Supremo Tribunal de Justiça, relativamente aos territórios sob administração portuguesa:
+Art. 3.º - 1. Compete ao Supremo Tribunal de Justiça, relativamente aos territórios sob administração portuguesa:
 
 a) Julgar, em competência exclusiva, sem prejuízo do disposto no artigo 13.º, n.º 3, da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, as questões de inconstitucionalidade orgânica ou formal de diplomas não promulgados pelo Presidente da República que vigorem nesses territórios;
 
@@ -118,7 +159,7 @@ d) Exercer as demais funções que lhe sejam atribuídas por lei.
 
 4. São aplicáveis aos mesmos territórios os assentos do Supremo Tribunal de Justiça relativos às leis que aí vigorem.
 
-###### Art. 4.º - 1. O Supremo Tribunal Administrativo passa a ter competência para julgar:
+Art. 4.º - 1. O Supremo Tribunal Administrativo passa a ter competência para julgar:
 
 a) Os recursos interpostos das decisões dos tribunais administrativos dos territórios de Cabo Verde, S. Tomé e Príncipe, Macau e Timor em matéria do contencioso administrativo, fiscal, aduaneiro e do trabalho;
 
@@ -130,9 +171,9 @@ b) Os recursos dos actos administrativos definitivos e executórios dos Altos-Co
 
 4 - O prazo para interposição dos recursos referidos na alínea b) do n.º 1 é de quarenta e cinco dias, contados da data da publicação do conhecimento oficial ou da notificação do acto, do começo da execução ou do termo do prazo dentro do qual o acto recorrido devia ter sido praticado.
 
-###### Art. 5.º Os tribunais com sede nos territórios sob administração portuguesa terão quadros de pessoal privativo, sem prejuízo do disposto no n.º 1 do artigo 2.º
+Art. 5.º Os tribunais com sede nos territórios sob administração portuguesa terão quadros de pessoal privativo, sem prejuízo do disposto no n.º 1 do artigo 2.º
 
-###### Art. 6.º - 1. Se os magistrados que passam a prestar serviço em comissão ordinária nos termos do n.º 1 do artigo 2.º não preencherem todos os lugares dos quadros, poderão os restantes lugares ser providos por magistrados judiciais e do Ministério Público do Ministério da Justiça, em comissão de serviço não obrigatória, ou por magistrados nomeados pelos governos dos territórios ultramarinos.
+Art. 6.º - 1. Se os magistrados que passam a prestar serviço em comissão ordinária nos termos do n.º 1 do artigo 2.º não preencherem todos os lugares dos quadros, poderão os restantes lugares ser providos por magistrados judiciais e do Ministério Público do Ministério da Justiça, em comissão de serviço não obrigatória, ou por magistrados nomeados pelos governos dos territórios ultramarinos.
 
 2. Os juízes gozam das garantias de independência, inamovibilidade e irresponsabilidade reconhecidas pelas leis gerais da República. Os magistrados judiciais e do Ministério Público em comissão de serviço ficam sujeitos ao estatuto judiciário da República apenas no que toca à acção disciplinar e aos respectivos direitos e deveres.
 
@@ -148,13 +189,13 @@ Pertencerá, porém, aos governos desses territórios a colocação dos magistra
 
 7. Findas as comissões, os magistrados judiciais e os delegados do procurador da República do ultramar regressarão ao Ministério da Coordenação Interterritorial, onde ficarão a aguardar colocação nos termos da lei que então vigorar; os magistrados dos quadros do Ministério da Justiça regressarão a esse Ministério.
 
-###### Art. 7.º - 1. É extinta a Direcção-Geral de Justiça, incluindo a Inspecção Superior, e criado em sua substituição o Gabinete dos Assuntos Jurídicos, com o pessoal constante do mapa anexo a este decreto-lei.
+Art. 7.º - 1. É extinta a Direcção-Geral de Justiça, incluindo a Inspecção Superior, e criado em sua substituição o Gabinete dos Assuntos Jurídicos, com o pessoal constante do mapa anexo a este decreto-lei.
 
 2. Enquanto não for publicada no Diário do Governo a lista do pessoal do Gabinete dos Assuntos Jurídicos referida no artigo 14.º, o funcionamento do Gabinete será assegurado pelos funcionários que se encontram a prestar serviço na Direcção-Geral de Justiça.
 
-###### Art. 8.º O Gabinete referido no artigo anterior tem um director e uma secretaria.
+Art. 8.º O Gabinete referido no artigo anterior tem um director e uma secretaria.
 
-###### Art. 9.º São atribuições do Gabinete dos Assuntos Jurídicos:
+Art. 9.º São atribuições do Gabinete dos Assuntos Jurídicos:
 
 a) Assegurar o serviço de consulta jurídica de que for incumbido pelos Ministro e Secretários de Estado;
 
@@ -178,13 +219,13 @@ j) Dar andamento e submeter a despacho as propostas dos governos dos território
 
 l) Quaisquer outras atribuições resultantes da lei.
 
-###### Art. 10.º - 1. O director, além da competência fixada no artigo 147.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, superintende em todos os serviços do Gabinete, submetendo a despacho ministerial os assuntos que careçam de resolução superior e resolvendo aqueles para que tenha competência, por disposição da lei ou por delegação.
+Art. 10.º - 1. O director, além da competência fixada no artigo 147.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, superintende em todos os serviços do Gabinete, submetendo a despacho ministerial os assuntos que careçam de resolução superior e resolvendo aqueles para que tenha competência, por disposição da lei ou por delegação.
 
 2. O director exercerá as funções de agente do Ministério Público junto do Supremo Tribunal Administrativo nos processos do contencioso administrativo que, nos termos do artigo 4.º, tenham transitado do Conselho Ultramarino para esse Tribunal, ou que para ele devam ser interpostos.
 
-###### Art. 11.º Pela secretaria corre todo o expediente do Gabinete dos Assuntos Jurídicos, cujo andamento regular será assegurado pelo respectivo secretário, seleccionando os assuntos que devam ser submetidos a apreciação superior, apresentando-os a despacho do director do Gabinete.
+Art. 11.º Pela secretaria corre todo o expediente do Gabinete dos Assuntos Jurídicos, cujo andamento regular será assegurado pelo respectivo secretário, seleccionando os assuntos que devam ser submetidos a apreciação superior, apresentando-os a despacho do director do Gabinete.
 
-###### Art. 12.º - 1. O lugar de director do Gabinete será desempenhado, em comissão de serviço, por um juiz de direito de 1.ª classe ou um juiz de 2.ª instância do ultramar.
+Art. 12.º - 1. O lugar de director do Gabinete será desempenhado, em comissão de serviço, por um juiz de direito de 1.ª classe ou um juiz de 2.ª instância do ultramar.
 
 2. O lugar de secretário será provido por escolha do Ministro entre licenciados em Direito ou, em comissão de serviço, por delegados do procurador da República do ultramar.
 
@@ -192,17 +233,17 @@ l) Quaisquer outras atribuições resultantes da lei.
 
 4. O tempo de serviço prestado pelos magistrados judiciais ou do Ministério Público nas comissões de serviço referidas nos n.os 1 e 2 conta-se como efectivo serviço judicial ou do Ministério Público para todos os efeitos.
 
-###### Art. 13.º - 1. O director do Gabinete terá a categoria e o vencimento que corresponderem à sua categoria e classe no quadro da magistratura onde se integre.
+Art. 13.º - 1. O director do Gabinete terá a categoria e o vencimento que corresponderem à sua categoria e classe no quadro da magistratura onde se integre.
 
 2. O secretário, quando for um magistrado do Ministério Público, terá direito à categoria e vencimento que lhe correspondam no seu quadro.
 
-###### Art. 14.º - 1. O primeiro provimento dos lugares do quadro do Gabinete será feito por lista ou listas aprovadas por despacho ministerial, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo.
+Art. 14.º - 1. O primeiro provimento dos lugares do quadro do Gabinete será feito por lista ou listas aprovadas por despacho ministerial, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo.
 
 2. Da lista ou listas referidas no número anterior somente poderão constar funcionários dos serviços extintos por este diploma.
 
 3. Os funcionários dos quadros dos serviços extintos, que excederem os lugares do Gabinete, serão colocados na situação prevista no n.º 3 do artigo 17.º
 
-###### Art. 15.º - 1. Os juízes que prestam serviço no Conselho Ultramarino ou que desempenham o cargo de inspector superior de justiça serão colocados nas vagas de desembargadores existentes nos quadros dos tribunais dos territórios sob administração portuguesa, por despacho do Ministro da Coordenação Interterritorial, segundo a ordem da sua antiguidade, começando pelos mais antigos.
+Art. 15.º - 1. Os juízes que prestam serviço no Conselho Ultramarino ou que desempenham o cargo de inspector superior de justiça serão colocados nas vagas de desembargadores existentes nos quadros dos tribunais dos territórios sob administração portuguesa, por despacho do Ministro da Coordenação Interterritorial, segundo a ordem da sua antiguidade, começando pelos mais antigos.
 
 2. Os juízes referidos no número anterior que não tiverem vaga passam à situação de disponibilidade, no quadro dos desembargadores do ultramar.
 
@@ -214,7 +255,7 @@ l) Quaisquer outras atribuições resultantes da lei.
 
 6. Os juízes de direito e os delegados do procurador da República que venham a ser colocados na situação de disponibilidade, por qualquer dos motivos previstos na lei, poderão também ser nomeados em comissão ordinária de serviço para aqueles Estados, observado, com as necessárias adaptações, o disposto nos números anteriores.
 
-###### Art. 16.º - 1. Quando não for possível preencher as vagas dos lugares de juízes de direito e delegados do procurador da República nos territórios de Cabo Verde, S. Tomé e Príncipe, Macau e Timor com magistrados dos quadros do Ministério da Coordenação Interterritorial, o Gabinete indicará a vaga a preencher e pedirá ao Ministério da Justiça a nomeação, em comissão ordinária de serviço, de magistrado judicial ou do Ministério Público dos quadros daquele Ministério.
+Art. 16.º - 1. Quando não for possível preencher as vagas dos lugares de juízes de direito e delegados do procurador da República nos territórios de Cabo Verde, S. Tomé e Príncipe, Macau e Timor com magistrados dos quadros do Ministério da Coordenação Interterritorial, o Gabinete indicará a vaga a preencher e pedirá ao Ministério da Justiça a nomeação, em comissão ordinária de serviço, de magistrado judicial ou do Ministério Público dos quadros daquele Ministério.
 
 2. A colocação dos magistrados nos termos previstos no número anterior será precedida de anuência escrita do magistrado interessado, quer seja da magistratura judicial, quer da do Ministério Público.
 
@@ -226,7 +267,7 @@ l) Quaisquer outras atribuições resultantes da lei.
 
 6. Prestados dois anos de bom e efectivo serviço, os magistrados referidos neste artigo terão direito a gozar as férias grandes judiciais em Portugal, nos termos previstos no artigo 28.º do [Decreto n.º 462/72](https://diariodarepublica.pt/dr/detalhe/decreto/462-1972-686245), de 17 de Novembro.
 
-###### Art. 17.º - 1. São extintos o Conselho Superior de Fomento, a Inspecção Superior de Administração Ultramarina e o Gabinete dos Negócios Políticos.
+Art. 17.º - 1. São extintos o Conselho Superior de Fomento, a Inspecção Superior de Administração Ultramarina e o Gabinete dos Negócios Políticos.
 
 2. As funções fixadas na lei para os serviços referidos no número anterior serão distribuídas, por despacho do Ministro da Coordenação Interterritorial, pelas direcções-gerais do Ministério, tendo em consideração as afinidades existentes entre aqueles e estas.
 
@@ -238,31 +279,31 @@ l) Quaisquer outras atribuições resultantes da lei.
 
 6. A liquidação das despesas relativas a 1974, efectuadas pelos serviços referidos no n.º 4, ainda não processadas na data da sua extinção, será feita pela Secretaria-Geral, utilizando as verbas dos mesmos serviços inscritas para aquele ano.
 
-###### Art. 18.º - 1. Os móveis, utensílios e demais equipamento de secretaria, bem como a documentação da Direcção-Geral de Justiça e do Conselho Superior Judiciário do Ultramar, transitam para o Gabinete dos Assuntos Jurídicos.
+Art. 18.º - 1. Os móveis, utensílios e demais equipamento de secretaria, bem como a documentação da Direcção-Geral de Justiça e do Conselho Superior Judiciário do Ultramar, transitam para o Gabinete dos Assuntos Jurídicos.
 
 2. A liquidação das despesas relativas a 1974, efectuadas pela Direcção-Geral de Justiça, ainda não processadas na data da sua extinção, será feita pelo Gabinete, utilizando as verbas daquela Direcção-Geral inscritas para esse ano.
 
 3. As despesas com pessoal e material do Gabinete, no ano de 1975, serão suportadas, se necessário, pelas dotações destinadas à Direcção-Geral de Justiça no Orçamento Geral do Estado para o mesmo ano.
 
-###### Art. 19.º A conta do Conselho Ultramarino, aberta na Caixa Geral de Depósitos sob a rubrica «Preparos e custas», ficará à ordem do secretário do Supremo Tribunal Administrativo.
+Art. 19.º A conta do Conselho Ultramarino, aberta na Caixa Geral de Depósitos sob a rubrica «Preparos e custas», ficará à ordem do secretário do Supremo Tribunal Administrativo.
 
-###### Art. 20.º O saldo existente no cofre do Conselho Ultramarino será transferido para uma conta especial, a cargo do Gabinete do Ministro da Coordenação Interterritorial, podendo por este ser movimentada para custear despesas de apoio ou utilidade para as estruturas, de preferência judiciais, dos territórios sob administração portuguesa.
+Art. 20.º O saldo existente no cofre do Conselho Ultramarino será transferido para uma conta especial, a cargo do Gabinete do Ministro da Coordenação Interterritorial, podendo por este ser movimentada para custear despesas de apoio ou utilidade para as estruturas, de preferência judiciais, dos territórios sob administração portuguesa.
 
-###### Art. 21.º O contínuo contratado, prestando serviço no Conselho Ultramarino, transita, independentemente de visto ou de posse, para uma das vagas de contínuo de 1.ª classe do mapa XV, anexo à Lei Orgânica do Ministério, contendo o quadro dos serviços gerais, que foi aditado pelo [Decreto-Lei n.º 92/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1971-445475), de 22 de Março.
+Art. 21.º O contínuo contratado, prestando serviço no Conselho Ultramarino, transita, independentemente de visto ou de posse, para uma das vagas de contínuo de 1.ª classe do mapa XV, anexo à Lei Orgânica do Ministério, contendo o quadro dos serviços gerais, que foi aditado pelo [Decreto-Lei n.º 92/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1971-445475), de 22 de Março.
 
-###### Art. 22.º - 1. Os funcionários dos serviços agora extintos, enquanto não forem colocados noutros lugares do Ministério, ou fora dele, serão pagos pelas verbas inscritas para o efeito na Secretaria-Geral do Ministério, que processará os respectivos títulos de vencimento.
+Art. 22.º - 1. Os funcionários dos serviços agora extintos, enquanto não forem colocados noutros lugares do Ministério, ou fora dele, serão pagos pelas verbas inscritas para o efeito na Secretaria-Geral do Ministério, que processará os respectivos títulos de vencimento.
 
 2. Para os efeitos do número anterior, a dotação da Secretaria-Geral será aumentada do montante necessário para a liquidação dos vencimentos dos funcionários colocados na disponibilidade, a obter por utilização das verbas destinadas ao mesmo fim, dos serviços agora extintos, no Orçamento Geral do Estado para o ano de 1975.
 
-###### Art. 23.º São revogados os Decretos-Leis n.os 49146, de 25 de Julho de 1969, [371/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1972-691872), de 2 de Outubro, [311/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1974-476326), de 9 de Julho, os Decretos n.os 49147, de 25 de Julho de 1969, e 37/72, de 2 de Fevereiro, e a [Portaria n.º 24204](https://diariodarepublica.pt/dr/detalhe/portaria/24204-1969-199149), também de 25 de Julho de 1969.
+Art. 23.º São revogados os Decretos-Leis n.os 49146, de 25 de Julho de 1969, [371/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1972-691872), de 2 de Outubro, [311/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1974-476326), de 9 de Julho, os Decretos n.os 49147, de 25 de Julho de 1969, e 37/72, de 2 de Fevereiro, e a [Portaria n.º 24204](https://diariodarepublica.pt/dr/detalhe/portaria/24204-1969-199149), também de 25 de Julho de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - José de Silva Lopes.
 
-**Promulgado em 28 de Fevereiro de 1975.**
+Promulgado em 28 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos.
 
@@ -270,6 +311,6 @@ Mapa anexo ao Decreto-Lei n.º 125/75, que substitui o mapa X anexo ao [Decreto-
 
 Pessoal e vencimentos do Gabinete dos Assuntos Jurídicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/06000/03790382.pdf))](https://files.diariodarepublica.pt/1s/1975/03/06000/03790382.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/06000/03790382.pdf)
 
-**O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro da Coordenação Interterritorial, António de Almeida Santos. - O Ministro das Finanças, José da Silva Lopes.**
+O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro da Coordenação Interterritorial, António de Almeida Santos. - O Ministro das Finanças, José da Silva Lopes.

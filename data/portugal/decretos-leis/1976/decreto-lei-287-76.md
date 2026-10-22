@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1976-502206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23ec8825cbd66ef8ea64d9b154cdd73347bee7f416f67b87f01b583f70b1dee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5af0d937b68f542f238d58d1780ca297c28aa153c6c075f7095a615f8669f214
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Banco de Fomento Nacional
+- Contrato de Financiamento
+- Desenvolvimento Industrial
+- Despesas Públicas
+- Ministro das Finanças
+- Turismo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:05Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +100,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Governo, através do Ministro das Finanças, a celebrar com o Banco de Fomento Nacional e com dispensa do visto do Tribunal de Contas um contrato nos termos constantes das cláusulas anexas ao presente decreto-lei e que dele são parte integrante.
+Artigo 1.º É autorizado o Governo, através do Ministro das Finanças, a celebrar com o Banco de Fomento Nacional e com dispensa do visto do Tribunal de Contas um contrato nos termos constantes das cláusulas anexas ao presente decreto-lei e que dele são parte integrante.
 
-###### Art. 2.º As despesas emergentes da execução do contrato referido no artigo anterior serão pagas por força de dotações orçamentais do Ministério das Finanças, a inscrever nos orçamentos dos anos económicos a que respeitem.
+Art. 2.º As despesas emergentes da execução do contrato referido no artigo anterior serão pagas por força de dotações orçamentais do Ministério das Finanças, a inscrever nos orçamentos dos anos económicos a que respeitem.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 9 de Abril de 1976.**
+Promulgado em 9 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Contrato entre o Estado Português e o Banco de Fomento Nacional
 
@@ -153,4 +160,4 @@ CLÁUSULA 6.ª
 
 As importâncias devidas pelo Banco de Fomento Nacional ao Estado, nos termos deste contrato, serão depositadas no Banco de Portugal, na Caixa Geral do Tesouro.
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

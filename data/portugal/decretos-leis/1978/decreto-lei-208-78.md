@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1978-297022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba3fb65e05a1f141f18d690030685c4b7d73ce82ddb932bf0d0e2fb73917e23a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcbc11ce991f90a4d1ffe218fd1acf86588fdce922ee103d90abd2ffbb99604c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Agência Geral do Ultramar
+- Centro de Informação e Documentação Administrativa
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Fazenda
+- Extinção de Serviços
+- Informação Científica e Técnica
+- Integração de Trabalhadores
+- Ministério da Reforma Administrativa
+- Ministro da Reforma Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:508610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:281251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:23Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +116,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a Agência-Geral do Ultramar a partir da entrada em vigor do presente diploma.
+Artigo 1.º É extinta a Agência-Geral do Ultramar a partir da entrada em vigor do presente diploma.
 
-###### Art. 2.º - 1 - É criado no Ministério da Reforma Administrativa e na dependência directa do Ministro o Centro de Informação e Documentação Administrativa, designado neste diploma por CIDA, com as seguintes atribuições:
+Art. 2.º - 1 - É criado no Ministério da Reforma Administrativa e na dependência directa do Ministro o Centro de Informação e Documentação Administrativa, designado neste diploma por CIDA, com as seguintes atribuições:
 
 a) Apoio aos serviços do Ministério da Reforma Administrativa em matéria de documentação e informação científica e técnica;
 
@@ -115,36 +130,36 @@ c) Composição e informação gráfica de publicações e impressos do Ministé
 
 3 - A organização e as competências do CIDA, bem como o seu regime de pessoal, serão objecto de decreto simples assinado pelos Ministros das Finanças e do Plano e da Reforma Administrativa.
 
-###### Art. 3.º - 1 - As atribuições de carácter administrativo que ainda subsistam e o património e documentação da Agência-Geral do Ultramar passam a pertencer à Direcção-Geral de Fazenda, do Ministério da Reforma Administrativa.
+Art. 3.º - 1 - As atribuições de carácter administrativo que ainda subsistam e o património e documentação da Agência-Geral do Ultramar passam a pertencer à Direcção-Geral de Fazenda, do Ministério da Reforma Administrativa.
 
 2 - As atribuições e os bens afectos aos serviços gráficos da Agência-Geral do Ultramar transitam para o CIDA, bem como os direitos e obrigações emergentes de contratos já celebrados.
 
 3 - Transitam ainda para o CIDA o remanescente das publicações e os valores postais transferidos para a Direcção-Geral de Fazenda, por força do [Decreto-Lei n.º 499/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1977-281251), de 28 de Novembro.
 
-###### Art. 4.º Transitam para o CIDA o acervo documental de informação científica e técnica e o equipamento gráfico dos restantes serviços do Ministério da Reforma Administrativa.
+Art. 4.º Transitam para o CIDA o acervo documental de informação científica e técnica e o equipamento gráfico dos restantes serviços do Ministério da Reforma Administrativa.
 
-###### Art. 5.º O pessoal que actualmente presta serviço na Agência-Geral do Ultramar transita para:
+Art. 5.º O pessoal que actualmente presta serviço na Agência-Geral do Ultramar transita para:
 
 a) A Direcção-Geral de Fazenda, cujo quadro se considera ampliado de igual número de lugares;
 
 b) O Centro de Informação e Documentação Administrativa, nos termos do diploma a que se refere o n.º 3 do artigo 2.º do presente decreto-lei.
 
-###### Art. 6.º O pessoal admitido além do quadro da Agência-Geral do Ultramar e da Direcção-Geral de Fazenda, em regime de assalariamento, será integrado no quadro desta Direcção-Geral na situação de nomeação provisória ou definitiva, conforme tenha menos ou mais de cinco anos de serviço.
+Art. 6.º O pessoal admitido além do quadro da Agência-Geral do Ultramar e da Direcção-Geral de Fazenda, em regime de assalariamento, será integrado no quadro desta Direcção-Geral na situação de nomeação provisória ou definitiva, conforme tenha menos ou mais de cinco anos de serviço.
 
-###### Art. 7.º - 1 - Quando a designação das categorias actuais do pessoal a que se referem a alínea a) do artigo 5.º e o artigo 6.º não corresponderem às constantes do quadro da Direcção-Geral de Fazenda, a sua transição far-se-á para categorias equivalentes ou, não existindo estas, para as categorias imediatamente superiores.
+Art. 7.º - 1 - Quando a designação das categorias actuais do pessoal a que se referem a alínea a) do artigo 5.º e o artigo 6.º não corresponderem às constantes do quadro da Direcção-Geral de Fazenda, a sua transição far-se-á para categorias equivalentes ou, não existindo estas, para as categorias imediatamente superiores.
 
 2 - O provimento dos lugares do quadro, a que se refere o número anterior, será feita por listas nominativas aprovadas por despacho do Ministro da Reforma Administrativa, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, produzindo efeitos a partir da data da publicação do presente diploma.
 
-###### Art. 8.º As contas de depósito à ordem e com pré-aviso constituídas, em nome da Agência-Geral do Ultramar, na Caixa Geral de Depósitos e no Banco Nacional Ultramarino ficarão à ordem da Direcção-Geral de Fazenda.
+Art. 8.º As contas de depósito à ordem e com pré-aviso constituídas, em nome da Agência-Geral do Ultramar, na Caixa Geral de Depósitos e no Banco Nacional Ultramarino ficarão à ordem da Direcção-Geral de Fazenda.
 
-###### Art. 9.º A Agência-Geral do Ultramar organizará, nos termos legais, no prazo de cento e vinte dias, a contar da data da publicação do presente diploma, a conta de gerência a enviar ao Tribunal de Contas.
+Art. 9.º A Agência-Geral do Ultramar organizará, nos termos legais, no prazo de cento e vinte dias, a contar da data da publicação do presente diploma, a conta de gerência a enviar ao Tribunal de Contas.
 
-###### Art. 10.º As despesas com os abonos ao pessoal ora integrado na Direcção-Geral de Fazenda e no Centro de Informação e Documentação Administrativa e outras despesas correntes continuarão até final do ano em curso a ser satisfeitas pelas mesmas dotações orçamentais que vinham suportando esses encargos, mediante autorização de pagamento da respectiva delegação da Direcção-Geral da Contabilidade Pública.
+Art. 10.º As despesas com os abonos ao pessoal ora integrado na Direcção-Geral de Fazenda e no Centro de Informação e Documentação Administrativa e outras despesas correntes continuarão até final do ano em curso a ser satisfeitas pelas mesmas dotações orçamentais que vinham suportando esses encargos, mediante autorização de pagamento da respectiva delegação da Direcção-Geral da Contabilidade Pública.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 11 de Julho de 1978.**
+Promulgado em 11 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

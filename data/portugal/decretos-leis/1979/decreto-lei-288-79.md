@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18600/19081910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1979-377750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a100c6cb46799c2cf23c93c16abf31f0a8652729bac702816e0c448b7c082c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2492aa43dcb12200cf259ceb8ae29f86ee8f256e0a0422a9787f4f38df79cda4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acolhimento Familiar
+- Colocação Familiar
+- Proteção à Infância
 relationships:
 - type: amended_by
   target: pt:dre:240826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:240826:por
+  label: "Revogado pelo DEC LEI.190/92.03.09.1992.MESS, DR.IS-A [203] de 03.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1992-240826
+  date: '1992-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:16Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +110,7 @@ Nesta conformidade:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Conceito e objectivos)
 
@@ -114,7 +122,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O acolhimento em colocação familiar pode ser remunerado ou gratuito.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Condição essencial da colocação familiar)
 
@@ -136,7 +144,7 @@ d) A declaração por parte da família de origem de que aceita as disposições
 
 5 - A capacidade formativa destas famílias será revista periodicamente pelos serviços competentes de acção social.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Condições dos menores a acolher)
 
@@ -150,7 +158,7 @@ c) Estarem em risco grave e evidente de virem a encontrar-se em prazo curto em a
 
 2 - Poderão beneficiar de colocação familiar menores com mais de 6 anos na data do início do acolhimento, quando se verifiquem circunstâncias que justifiquem a medida, a título excepcional.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Condições da família de acolhimento)
 
@@ -170,7 +178,7 @@ e) Ter durado, nessa data, o casamento mais de cinco anos.
 
 3 - As famílias de acolhimento submeter-se-ão aos programas e acções que os serviços do Ministério dos Assuntos Sociais organizem para seu esclarecimento e formação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Serviços e instituições promotores da colocação familiar)
 
@@ -180,7 +188,7 @@ e) Ter durado, nessa data, o casamento mais de cinco anos.
 
 3 - Não podem os serviços ou instituições a que se refere o n.º 1 deste artigo promover a colocação familiar de menores que se encontrem em situações afectas à competência própria dos serviços tutelares de menores, salvo por solicitação expressa desses mesmos serviços.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Duração da colocação familiar)
 
@@ -190,7 +198,7 @@ e) Ter durado, nessa data, o casamento mais de cinco anos.
 
 3 - Pode ser reduzido o período previamente fixado, quando o prolongamento da medida se mostre desnecessário ou inconveniente.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Decurso da colocação familiar)
 
@@ -200,7 +208,7 @@ e) Ter durado, nessa data, o casamento mais de cinco anos.
 
 3 - Os serviços e instituições que hajam promovido a colocação familiar podem requerer, enquanto ela durar, as medidas jurisdicionais que as circunstâncias aconselhem.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Contrato de acolhimento de menores)
 
@@ -234,7 +242,7 @@ b) Quando a família de acolhimento deixe de ter a seu cargo qualquer menor abra
 
 4 - O contrato pode, porém, ser renovado se forem verificadas as condições estabelecidas neste diploma para o seu início.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Disposição transitória)
 
@@ -242,8 +250,8 @@ Os contratos de colocação familiar agora em curso nos quais sejam signatários
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1979. - Carlos Alberto da Mota Pinto - Acácio Manuel Pereira Magro.
 
-**Promulgado em 24 de Julho de 1979.**
+Promulgado em 24 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

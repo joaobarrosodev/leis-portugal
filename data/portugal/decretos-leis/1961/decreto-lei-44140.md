@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44140-1961-178860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6082c784870520ea19f90955184351a45c9dcc2d38e7cbd2693c70a1c04cf2e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67767661ddfdf30cba17b918385c08f489eaa71eedfa1ef778e9c2a1862ee274
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Carreira Militar
+- Crime
+- Formação Profissional
+- Militar
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:30Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +117,9 @@ Verificando-se que a exigência da satisfação de todas as condições de promo
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Para efeitos da aplicação do artigo 19.º do [Decreto-Lei n.º 43101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43101-1960-501251), de 2 de Agosto de 1960, consideram-se como tendo satisfeito as condições legais de promoção os oficiais que obtiveram, ou venham a obter, classificação favorável nos cursos que constituem condições especiais de promoção, ou que reúnam, se for caso disso, todas as condições estabelecidas pelo artigo 87.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, e que não estejam abrangidos pelo artigo 58.º do mesmo [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461).
+Artigo único. Para efeitos da aplicação do artigo 19.º do [Decreto-Lei n.º 43101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43101-1960-501251), de 2 de Agosto de 1960, consideram-se como tendo satisfeito as condições legais de promoção os oficiais que obtiveram, ou venham a obter, classificação favorável nos cursos que constituem condições especiais de promoção, ou que reúnam, se for caso disso, todas as condições estabelecidas pelo artigo 87.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, e que não estejam abrangidos pelo artigo 58.º do mesmo [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

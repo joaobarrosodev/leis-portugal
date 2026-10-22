@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29200/20842087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/706-1975-310998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9660f448c093223d3151f4999d066e1d26b2b0d5541c89bd8c0844f4684281b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beb668cd1bd012f6a93d81dd175f3e26cc5170aac1bf100cd4f5cca2b2e5279f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crime
+- Macau
+- Pagamento
+- Regime Jurídico
+- Sanção Penal
+- Segurança Interna
+- Segurança Pública
+- Serviço de Segurança Territorial
+- TAXA Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365699:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:28Z'
   warnings: []
   errors: []
 ---
@@ -104,35 +126,35 @@ LEI DO SERVIÇO DE SEGURANÇA TERRITORIAL
 
 ### CAPÍTULO I — Definição e natureza
 
-###### Artigo 1.º - 1. O serviço de segurança territorial é o serviço prestado pessoalmente nas forças de segurança de Macau pelos cidadãos de ambos os sexos, portugueses e restantes cidadãos naturais de Macau ou aqui residentes há mais de quatro anos.
+Artigo 1.º - 1. O serviço de segurança territorial é o serviço prestado pessoalmente nas forças de segurança de Macau pelos cidadãos de ambos os sexos, portugueses e restantes cidadãos naturais de Macau ou aqui residentes há mais de quatro anos.
 
 2. O serviço de segurança territorial é voluntário e equivale à prestação do serviço militar para todos os efeitos legais.
 
-###### Art. 2.º Quando ocorra ou haja ameaça de grave alteração da ordem pública, poderá o Governador adoptar, ouvido o Conselho Superior de Segurança, as providências julgadas necessárias para a restabelecer, nomeadamente recorrendo aos escalões de mobilização civil.
+Art. 2.º Quando ocorra ou haja ameaça de grave alteração da ordem pública, poderá o Governador adoptar, ouvido o Conselho Superior de Segurança, as providências julgadas necessárias para a restabelecer, nomeadamente recorrendo aos escalões de mobilização civil.
 
 ### CAPÍTULO II — Admissão - Condições gerais
 
-###### Art. 3.º São condições gerais de admissão no serviço de segurança territorial:
+Art. 3.º São condições gerais de admissão no serviço de segurança territorial:
 
 1. Cidadania portuguesa ou, tendo outra, residência em Macau há, pelo menos, quatro anos.
 
 2. Idade compreendida entre os 18 e os 30 anos.
 
-###### Art. 4.º Não será admitido no serviço de segurança territorial:
+Art. 4.º Não será admitido no serviço de segurança territorial:
 
 1. Quem, neste território, em Portugal ou no estrangeiro, haja sido condenado a pena maior ou equivalente e, pela natureza e gravidade do crime, motivos determinantes e circunstâncias em que foi cometido, revele carácter incompatível com a dignidade própria daquele serviço;
 
 2. Quem haja praticado actos atentatórios dos bons costumes ou que afectem gravemente a sua dignidade, quando reconhecidos judicialmente.
 
-###### Art. 5.º - 1. A prestação do serviço de segurança territorial por indivíduos arguidos da prática dos crimes referidos no n.º 1 do artigo 4.º cometidos antes da incorporação poderá ser interrompida por determinação do comandante das Forças de Segurança até decisão final do processo, ficando os arguidos à disposição dos tribunais ou das entidades instrutoras competentes.
+Art. 5.º - 1. A prestação do serviço de segurança territorial por indivíduos arguidos da prática dos crimes referidos no n.º 1 do artigo 4.º cometidos antes da incorporação poderá ser interrompida por determinação do comandante das Forças de Segurança até decisão final do processo, ficando os arguidos à disposição dos tribunais ou das entidades instrutoras competentes.
 
 2. Se a decisão for condenatória, ter-se-á em atenção o disposto no artigo 4.º
 
-###### Art. 6.º O serviço de alistamento funcionará no Comando das Forças de Segurança.
+Art. 6.º O serviço de alistamento funcionará no Comando das Forças de Segurança.
 
 ### CAPÍTULO III — Operações de classificação
 
-###### Art. 7.º As operações de classificação dos contingentes anuais abrangem:
+Art. 7.º As operações de classificação dos contingentes anuais abrangem:
 
 1. O estudo e planeamento de aproveitamento dos voluntários;
 
@@ -140,7 +162,7 @@ LEI DO SERVIÇO DE SEGURANÇA TERRITORIAL
 
 3. A distribuição dos seleccionados pelas diversas forças de segurança.
 
-###### Art. 8.º - 1. A classificação inicial destina-se a verificar a aptidão física e psíquica para cumprimento do serviço de segurança territorial, de harmonia com as condições a estabelecer em regulamento.
+Art. 8.º - 1. A classificação inicial destina-se a verificar a aptidão física e psíquica para cumprimento do serviço de segurança territorial, de harmonia com as condições a estabelecer em regulamento.
 
 2. A classificação inicial agrupa os indivíduos nas seguintes categorias:
 
@@ -150,11 +172,11 @@ b) Inaptos.
 
 3. Todos aqueles que revelem condições físicas e psíquicas susceptíveis de evoluírem favoravelmente poderão requerer novo alistamento até aos 21 anos, se anteriormente tiverem sido considerados inaptos por falta de condições físicas ou psíquicas.
 
-###### Art. 9.º - 1. Os indivíduos voluntários em cada ano constituem o contingente desse ano.
+Art. 9.º - 1. Os indivíduos voluntários em cada ano constituem o contingente desse ano.
 
 2. Os incorporados que concluam a instrução em determinado ano constituem a classe do ano em que tiverem iniciado a sua preparação; aqueles que, por doença em serviço ou outra causa independente da sua vontade, venham a terminar a preparação com indivíduos pertencentes a outra classe são incluídos nesta última.
 
-###### Art. 10.º - 1. A selecção de indivíduos considerados aptos para o serviço de segurança territorial tem por base:
+Art. 10.º - 1. A selecção de indivíduos considerados aptos para o serviço de segurança territorial tem por base:
 
 a) As qualificações técnicas, literárias e profissionais;
 
@@ -164,7 +186,7 @@ b) Os índices de aptidão física e psíquica apurados nas provas de classifica
 
 3. As habilitações literárias mínimas exigidas para a admissão aos cursos de instrução são as constantes dos regulamentos das respectivas forças de segurança.
 
-###### Art. 11.º - 1. Na hipótese de o instruendo pretender não continuar a prestação do serviço a que voluntariamente se obrigou, poderá fazê-lo mediante requerimento.
+Art. 11.º - 1. Na hipótese de o instruendo pretender não continuar a prestação do serviço a que voluntariamente se obrigou, poderá fazê-lo mediante requerimento.
 
 2. Na hipótese prevista no número anterior, o interessado deverá indemnizar a Fazenda Pública da despesa feita pelo Estado durante a sua permanência nas fileiras.
 
@@ -172,9 +194,9 @@ b) Os índices de aptidão física e psíquica apurados nas provas de classifica
 
 ### CAPÍTULO I — Constituição e objectivos
 
-###### Art. 12.º As forças de segurança compreendem as forças militares e militarizadas e outros órgãos de segurança, fiscalização e investigação criminal sob um comando único.
+Art. 12.º As forças de segurança compreendem as forças militares e militarizadas e outros órgãos de segurança, fiscalização e investigação criminal sob um comando único.
 
-###### Art. 13.º As forças de segurança de Macau têm por missão fundamental:
+Art. 13.º As forças de segurança de Macau têm por missão fundamental:
 
 1. A garantia da segurança na ordem interna;
 
@@ -186,7 +208,7 @@ b) Os índices de aptidão física e psíquica apurados nas provas de classifica
 
 ### CAPÍTULO II — Serviço nas forças de segurança
 
-###### Art. 14.º - 1. O serviço nas forças de segurança abrange dois períodos:
+Art. 14.º - 1. O serviço nas forças de segurança abrange dois períodos:
 
 a) O período ordinário;
 
@@ -216,13 +238,13 @@ c) Os cidadãos que pertenceram aos quadros das forças de segurança.
 
 8. A convocação dos escalões de mobilização será feita pelas classes mais modernas e destina-se, em caso de grave alteração de ordem pública, a alargar os efectivos da força de segurança até aos quantitativos julgados necessários.
 
-###### Art. 15.º - 1. A validade da fase de preparação do período ordinário é de três anos, para efeitos de incorporação nas forças de segurança.
+Art. 15.º - 1. A validade da fase de preparação do período ordinário é de três anos, para efeitos de incorporação nas forças de segurança.
 
 2. Decorrido este prazo, é condição indispensável para o ingresso nos quadros das forças de segurança, para além das condições enumeradas no artigo 17.º, a frequência da instrução especial e do estágio correspondente à 1.ª fase do período ordinário.
 
-###### Art. 16.º Os cursos ministrados nas forças de segurança, bem como cada uma das suas disciplinas, são, para todos os efeitos, considerados equivalentes aos cursos e disciplinas similares dos estabelecimentos civis do ensino oficial, desde que uns e outras incluam programas e matérias comuns e correspondentes.
+Art. 16.º Os cursos ministrados nas forças de segurança, bem como cada uma das suas disciplinas, são, para todos os efeitos, considerados equivalentes aos cursos e disciplinas similares dos estabelecimentos civis do ensino oficial, desde que uns e outras incluam programas e matérias comuns e correspondentes.
 
-###### Art. 17.º - 1. São condições de incorporação no serviço activo das forças de segurança:
+Art. 17.º - 1. São condições de incorporação no serviço activo das forças de segurança:
 
 a) A prestação do Serviço de Segurança Territorial ou equivalente;
 
@@ -232,7 +254,7 @@ b) Os resultados obtidos na fase de preparação do período ordinário.
 
 3. O disposto no número anterior é aplicável aos portugueses que hajam cumprido o serviço militar obrigatório e aos voluntários que hajam cumprido o serviço de segurança territorial há mais de três anos.
 
-###### Art. 18.º - 1. Até à sua incorporação nas forças de segurança os alistados devem:
+Art. 18.º - 1. Até à sua incorporação nas forças de segurança os alistados devem:
 
 a) Informar das suas mudanças de residência o Comando das Forças de Segurança;
 
@@ -242,7 +264,7 @@ c) Não se ausentar do território sem prévia comunicação aos Comando das For
 
 2. O disposto no número anterior é aplicável aos indivíduos pertencentes aos escalões de mobilização.
 
-###### Art. 19.º - 1. Os elementos das forças de segurança que deixam definitivamente de prestar serviço activo ficarão sujeitos:
+Art. 19.º - 1. Os elementos das forças de segurança que deixam definitivamente de prestar serviço activo ficarão sujeitos:
 
 a) Os militares do quadro permanente, ao estabelecido no estatuto próprio;
 
@@ -250,48 +272,48 @@ b) Os restantes elementos que tenham transitado para a situação de reforma, se
 
 2. Os militares dos quadros permanentes e os restantes elementos das forças de segurança que em operações destinadas a combater perturbações ou ameaças dirigidas contra a ordem, a segurança e a tranquilidade públicas e por motivo das mesmas ou em consequência de desastre em serviço fiquem mutilados ou fisicamente diminuídos poderão, a seu pedido, ser mantidos para todos os efeitos no serviço activo, quando as diminuições sofridas não sejam com ele incompatíveis, nas condições que lhes forem prescritas.
 
-###### Art. 20.º Nas circunstâncias mencionadas no artigo 2.º, podem ser dispensados os indivíduos integrados em serviços públicos essenciais, actividades privadas imprescindíveis à vida do território ou necessários às forças de segurança, ficando, porém, sujeitos a esta lei enquanto se mantiverem aquelas circunstâncias.
+Art. 20.º Nas circunstâncias mencionadas no artigo 2.º, podem ser dispensados os indivíduos integrados em serviços públicos essenciais, actividades privadas imprescindíveis à vida do território ou necessários às forças de segurança, ficando, porém, sujeitos a esta lei enquanto se mantiverem aquelas circunstâncias.
 
 ## TÍTULO III — Regalias especiais
 
-###### Art. 21.º Ninguém pode ser prejudicado na sua colocação ou emprego permanente ou acesso por virtude da prestação da fase da preparação do período ordinário do serviço nas forças de segurança ou quando convocados nas circunstâncias do artigo 2.º
+Art. 21.º Ninguém pode ser prejudicado na sua colocação ou emprego permanente ou acesso por virtude da prestação da fase da preparação do período ordinário do serviço nas forças de segurança ou quando convocados nas circunstâncias do artigo 2.º
 
-###### Art. 22.º Nos concursos para provimento em cargos do Estado e demais pessoas colectivas de direito público, das pessoas colectivas de utilidade pública administrativa e das empresas públicas, têm preferência os indivíduos que hajam cumprido o serviço de segurança territorial ou serviço militar equivalente.
+Art. 22.º Nos concursos para provimento em cargos do Estado e demais pessoas colectivas de direito público, das pessoas colectivas de utilidade pública administrativa e das empresas públicas, têm preferência os indivíduos que hajam cumprido o serviço de segurança territorial ou serviço militar equivalente.
 
 ## TÍTULO IV — Disposições penais
 
-###### Art. 23.º Cometem o crime de desobediência qualificada os indivíduos que, sem motivo justificado, faltem à convocação a que se refere o artigo 2.º, salvo se ao facto corresponder, pela lei militar, incriminação punida com pena mais grave.
+Art. 23.º Cometem o crime de desobediência qualificada os indivíduos que, sem motivo justificado, faltem à convocação a que se refere o artigo 2.º, salvo se ao facto corresponder, pela lei militar, incriminação punida com pena mais grave.
 
-###### Art. 24.º O médico civil ou militar que falsamente atestar doença ou lesão de indivíduo presente às provas de classificação, selecção ou reclassificação será punido com prisão de um a dois anos.
+Art. 24.º O médico civil ou militar que falsamente atestar doença ou lesão de indivíduo presente às provas de classificação, selecção ou reclassificação será punido com prisão de um a dois anos.
 
-###### Art. 25.º Os que instigarem os elementos das forças de segurança, presentes ou não nas fileiras, a praticarem actos de rebeldia, a inutilizar ou subtrair o material das forças de segurança ou por qualquer forma desobedecer às ordens, leis militares, ou a esta, serão punidos com pena de prisão militar ou prisão de três meses a três anos e multa de $200,00 a $1000,00, sem prejuízo de punição mais grave, correspondente ao crime instigado. Se os infractores forem funcionários públicos acrescerá a pena de demissão.
+Art. 25.º Os que instigarem os elementos das forças de segurança, presentes ou não nas fileiras, a praticarem actos de rebeldia, a inutilizar ou subtrair o material das forças de segurança ou por qualquer forma desobedecer às ordens, leis militares, ou a esta, serão punidos com pena de prisão militar ou prisão de três meses a três anos e multa de $200,00 a $1000,00, sem prejuízo de punição mais grave, correspondente ao crime instigado. Se os infractores forem funcionários públicos acrescerá a pena de demissão.
 
-###### Art. 26.º - As penas de prisão previstas neste capítulo não são susceptíveis de conversão em multa ou objecto de suspensão.
+Art. 26.º - As penas de prisão previstas neste capítulo não são susceptíveis de conversão em multa ou objecto de suspensão.
 
 ## TÍTULO V — Disposições diversas e transitórias
 
-###### Art. 27.º Os militares actualmente nas fileiras em Macau, com doze meses de serviço efectivo cumprido, poderão beneficiar do regime estabelecido no artigo 17.º do presente decreto-lei, se o requererem e lhes for deferido.
+Art. 27.º Os militares actualmente nas fileiras em Macau, com doze meses de serviço efectivo cumprido, poderão beneficiar do regime estabelecido no artigo 17.º do presente decreto-lei, se o requererem e lhes for deferido.
 
-###### Art. 28.º - 1. A partir de 1 de Janeiro de 1976 cessa a obrigação do pagamento da taxa militar.
+Art. 28.º - 1. A partir de 1 de Janeiro de 1976 cessa a obrigação do pagamento da taxa militar.
 
 2. Em relação às dívidas que estiverem já constituídas naquela data, a execução seguirá os seus trâmites normais de cobrança.
 
-###### Art. 29.º Com vista a suportar os encargos que a execução deste decreto-lei acarreta, é criado um fundo de segurança colectiva, cujas receitas serão determinadas em diploma próprio.
+Art. 29.º Com vista a suportar os encargos que a execução deste decreto-lei acarreta, é criado um fundo de segurança colectiva, cujas receitas serão determinadas em diploma próprio.
 
-###### Art. 30.º Caso necessário, competirá aos órgãos do Governo do território a regulamentação deste decreto-lei.
+Art. 30.º Caso necessário, competirá aos órgãos do Governo do território a regulamentação deste decreto-lei.
 
-###### Art. 31.º - 1. São revogados o Regulamento de Recrutamento Privativo da Colónia de Macau, posto em execução pela [Portaria n.º 1905](https://diariodarepublica.pt/dr/detalhe/portaria/1905-1919-365699), de 7 de Setembro de 1935, bem como, para Macau, as disposições da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, com excepção do que se preceitua, a título transitório, no número seguinte.
+Art. 31.º - 1. São revogados o Regulamento de Recrutamento Privativo da Colónia de Macau, posto em execução pela [Portaria n.º 1905](https://diariodarepublica.pt/dr/detalhe/portaria/1905-1919-365699), de 7 de Setembro de 1935, bem como, para Macau, as disposições da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, com excepção do que se preceitua, a título transitório, no número seguinte.
 
 2. Os militares do recrutamento de Macau actualmente nas fileiras continuam sujeitos às obrigações decorrentes da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Junho de 1968, a qual, em relação aos mesmos e enquanto os houver ao serviço, se mantém em vigor. Pode, no entanto, por despacho do comandante das Forças de Segurança de Macau, no exercício das funções de comandante militar, ser autorizada a passagem à situação de licença registada, a partir de 31 de Dezembro de 1975, dos militares cuja necessidade à organização das forças de segurança se não faça sentir.
 
-###### Art. 32.º Este decreto-lei entra em vigor em 1 de Janeiro de 1976.
+Art. 32.º Este decreto-lei entra em vigor em 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 9 de Dezembro de 1975.**
+Promulgado em 9 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial de Macau. - João Cristóvão Moreira.

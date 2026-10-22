@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/09/21900/12701272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44592-1962-159917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93ab4b0d3684b003826df59bd62e38442c03c2e17ba9e7f03cbb31fc2ae5fe7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dd6b85d085033c590c3c930e6e163b3c973960bc2716bfba6e30aa13796c925
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Agrícola
+- Comércio
+- Crime
+- Direcção Geral dos Serviços Agrícolas
+- Fruticultura
+- Multa
+- Produção Vegetal
+- Regime Jurídico
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:682210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577282:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:682210:por
+  label: "Revogado, a partir de 07.09.1991, pelo DEC LEI.277/91.08.08.1991.MAPA, DR.IS-A [181] de 08.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1991-682210
+  date: '1991-08-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:23Z'
   warnings: []
   errors: []
 ---
@@ -117,80 +147,80 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Toda a entidade, singular ou colectiva, que se dedique ou pretenda dedicar à produção para venda de plantas ou partes de plantas para propagação e de árvores, arbustos e subarbustos, com vista à produção de frutos, deve requerer à Direcção-Geral dos Serviços Agrícolas a sua inscrição como viveirista.
+Artigo 1.º Toda a entidade, singular ou colectiva, que se dedique ou pretenda dedicar à produção para venda de plantas ou partes de plantas para propagação e de árvores, arbustos e subarbustos, com vista à produção de frutos, deve requerer à Direcção-Geral dos Serviços Agrícolas a sua inscrição como viveirista.
 
 § 1.º Os requerimentos, a apresentar até 15 de Abril de cada ano, serão acompanhados da descrição dos viveiros a instalar, com indicação das espécies e variedades a cultivar e da localização, área e confrontações dos respectivos terrenos, assim como de um esquema topográfico.
 
 § 2.º O aumento da área dos viveiros deverá ser também requerido, nos termos do parágrafo anterior.
 
-###### Art. 2.º Os requerentes devem ser pessoas reconhecidamente idóneas e têm de comprovar, por documento bastante, que o responsável possui, como habilitação mínima, o exame da 4.ª classe da instrução primária.
+Art. 2.º Os requerentes devem ser pessoas reconhecidamente idóneas e têm de comprovar, por documento bastante, que o responsável possui, como habilitação mínima, o exame da 4.ª classe da instrução primária.
 
-###### Art. 3.º Serão estabelecidas, por portaria, áreas mínimas para os viveiros que se destinem ùnicamente à propagação de uma ou duas variedades da mesma espécie e para os que procedam à multiplicação de maior número de espécies e variedades.
+Art. 3.º Serão estabelecidas, por portaria, áreas mínimas para os viveiros que se destinem ùnicamente à propagação de uma ou duas variedades da mesma espécie e para os que procedam à multiplicação de maior número de espécies e variedades.
 
-###### Art. 4.º Os terrenos onde se pretenda instalar viveiros serão vistoriados por funcionários da Direcção-Geral dos Serviços Agrícolas.
+Art. 4.º Os terrenos onde se pretenda instalar viveiros serão vistoriados por funcionários da Direcção-Geral dos Serviços Agrícolas.
 
 § único. As vistorias serão pagas nas condições que vierem a ser estabelecidas.
 
-###### Art. 5.º A Direcção-Geral divulgará a lista das espécies e variedades cuja cultura mais interesse fomentar.
+Art. 5.º A Direcção-Geral divulgará a lista das espécies e variedades cuja cultura mais interesse fomentar.
 
-###### Art. 6.º Tanto as plantas-mães como os talhões de multiplicação devem estar devidamente assinalados e separados por espécies e variedades, de modo a garantir uma perfeita distinção entre o material cultivado.
+Art. 6.º Tanto as plantas-mães como os talhões de multiplicação devem estar devidamente assinalados e separados por espécies e variedades, de modo a garantir uma perfeita distinção entre o material cultivado.
 
-###### Art. 7.º Cada viveirista terá um número de inscrição, que deverá figurar em lugar bem visível do viveiro.
+Art. 7.º Cada viveirista terá um número de inscrição, que deverá figurar em lugar bem visível do viveiro.
 
-###### Art. 8.º Os viveiristas inscritos devem enviar, em triplicado e até 31 de Maio de cada ano, uma relação das espécies e variedades cultivadas em cada talhão, fazendo-a acompanhar de um esquema gráfico da sua distribuição.
+Art. 8.º Os viveiristas inscritos devem enviar, em triplicado e até 31 de Maio de cada ano, uma relação das espécies e variedades cultivadas em cada talhão, fazendo-a acompanhar de um esquema gráfico da sua distribuição.
 
-###### Art. 9.º Os viveiristas só podem dispor do material dos seus viveiros quando autorizados por licença e esse material só pode circular ou ser vendido ou expostos à venda quando a sua origem ou proveniência seja autenticada por meio de etiqueta impressa donde conste o nome e número do viveirista respectivo.
+Art. 9.º Os viveiristas só podem dispor do material dos seus viveiros quando autorizados por licença e esse material só pode circular ou ser vendido ou expostos à venda quando a sua origem ou proveniência seja autenticada por meio de etiqueta impressa donde conste o nome e número do viveirista respectivo.
 
 § único. A licença a que se refere este artigo é anual e constará da lista a publicar no Diário do Governo, durante o mês de Outubro.
 
-###### Art. 10.º Os viveiristas autorizados deverão fornecer aos compradores uma factura discriminativa da quantidade do material vendido e da sua natureza, por espécies, variedades, categorias e porta-enxertos utilizados.
+Art. 10.º Os viveiristas autorizados deverão fornecer aos compradores uma factura discriminativa da quantidade do material vendido e da sua natureza, por espécies, variedades, categorias e porta-enxertos utilizados.
 
-###### Art. 11.º A Direcção-Geral dos Serviços Agrícolas poderá autorizar, segundo normas a estabelecer, a multiplicação especializada de árvores de fruto com particular interesse para o fomento frutícola.
+Art. 11.º A Direcção-Geral dos Serviços Agrícolas poderá autorizar, segundo normas a estabelecer, a multiplicação especializada de árvores de fruto com particular interesse para o fomento frutícola.
 
 § 1.º Se a qualidade das árvores o justificar, ser-lhe-á concedida garantia oficial, assegurada pela selagem individual das plantas aprovadas.
 
 § 2.º Os viveiristas pagarão o serviço de selagem, nas condições que vierem a ser estabelecidas.
 
-###### Art. 12.º A circulação ou transporte de material de viveiros sem a etiqueta referida no artigo 9.º anterior é punida nos termos do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 12.º A circulação ou transporte de material de viveiros sem a etiqueta referida no artigo 9.º anterior é punida nos termos do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 13.º A venda ou exposição à venda do mesmo material não autenticado por forma prevista no artigo 9.º e o uso indevido do selo de garantia previsto no § 1.º do artigo 11.º são punidos com a pena prevista no artigo 217.º do Código da Propriedade Industrial.
+Art. 13.º A venda ou exposição à venda do mesmo material não autenticado por forma prevista no artigo 9.º e o uso indevido do selo de garantia previsto no § 1.º do artigo 11.º são punidos com a pena prevista no artigo 217.º do Código da Propriedade Industrial.
 
-###### Art. 14.º A tentativa bem como a frustação previstas neste diploma são sempre puníveis.
+Art. 14.º A tentativa bem como a frustação previstas neste diploma são sempre puníveis.
 
-###### Art. 15.º Os serviços podem exigir que seja feita a prova da origem dos porta-enxertos utilizados, tanto quanto a qualidade como a quantidade, desde que nos viveiros de multiplicação de pomóideas se empreguem porta-enxertos do tipo ananicante ou semiananicante.
+Art. 15.º Os serviços podem exigir que seja feita a prova da origem dos porta-enxertos utilizados, tanto quanto a qualidade como a quantidade, desde que nos viveiros de multiplicação de pomóideas se empreguem porta-enxertos do tipo ananicante ou semiananicante.
 
-###### Art. 16.º Os viveiristas pagarão anualmente, em função da área explorada, uma importância que será fixada nos termos do artigo 24.º
+Art. 16.º Os viveiristas pagarão anualmente, em função da área explorada, uma importância que será fixada nos termos do artigo 24.º
 
-###### Art. 17.º As inspecções suplementares determinadas pela inobservância das instruções dos Serviços serão pagas nas condições que vierem a ser estabelecidas.
+Art. 17.º As inspecções suplementares determinadas pela inobservância das instruções dos Serviços serão pagas nas condições que vierem a ser estabelecidas.
 
-###### Art. 18.º Quando, em qualquer viveiro, for verificada a existência de doenças ou inimigos graves, de erros de classificação ou de misturas de variedades, o serviço de inspecção poderá mandar proceder à destruição das plantas que julgue necessária, ficando todas as despesas a cargo do proprietário ou proprietários do viveiro, sem prejuízo do disposto no artigo 19.º
+Art. 18.º Quando, em qualquer viveiro, for verificada a existência de doenças ou inimigos graves, de erros de classificação ou de misturas de variedades, o serviço de inspecção poderá mandar proceder à destruição das plantas que julgue necessária, ficando todas as despesas a cargo do proprietário ou proprietários do viveiro, sem prejuízo do disposto no artigo 19.º
 
 § 1.º A destruição deverá ser efectuada pelo viveirista, sob a fiscalização dos serviços de inspecção e dentro do prazo que esta fixar.
 
 § 2.º Nos casos especiais em que o arrancamento de plantas for motivado pelo ataque de doenças ou inimigos graves, não devido a simples negligência na defesa fitossanitária dos viveiros, a Direcção-Geral dos Serviços Agrícolas poderá propor a concessão de indemnizações ao abrigo e nos termos do artigo 1.º do [Decreto-Lei n.º 38017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38017-1950-486972).
 
-###### Art. 19.º As infracções disciplinares devidas a negligência grave ou a dolo serão punidas nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 19.º As infracções disciplinares devidas a negligência grave ou a dolo serão punidas nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 20.º Os viveiristas inscritos que não satisfaçam ao que vier a ser estabelecido nos termos do artigo poderão, sem prejuízo da observância das prescrições constantes do presente diploma, continuar a explorar os seus viveiros durante o prazo máximo de três anos, contado a partir da data da publicação da portaria a que o mesmo artigo se refere.
+Art. 20.º Os viveiristas inscritos que não satisfaçam ao que vier a ser estabelecido nos termos do artigo poderão, sem prejuízo da observância das prescrições constantes do presente diploma, continuar a explorar os seus viveiros durante o prazo máximo de três anos, contado a partir da data da publicação da portaria a que o mesmo artigo se refere.
 
 § 1.º Estes viveiros não constarão da lista oficial, a publicar nos termos do artigo 9.º
 
 § 2.º Findo o prazo a que se refere o corpo deste artigo, e no caso de não ter sido dado cumprimento ao que vier ser estabelecido quanto a áreas mínimas, o exercício da actividade viveirista será considerado clandestino e dará lugar às penas previstas no artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 21.º As importâncias referidas no § único do artigo 4.º, § 2.º do artigo 11.º e artigos 16.º e 17.º serão cobradas pelas secções de finanças do concelho onde residir o viveirista.
+Art. 21.º As importâncias referidas no § único do artigo 4.º, § 2.º do artigo 11.º e artigos 16.º e 17.º serão cobradas pelas secções de finanças do concelho onde residir o viveirista.
 
 § único. A Direcção-Geral dos Serviços Agrícolas enviará às secções de finanças as guias passadas em nome dos viveiristas para pagamento das importâncias em débito e, simultâneamente, avisará os interessados.
 
-###### Art. 22.º As importâncias arrecadadas nos termos deste diploma darão entrada nos cofres do Tesouro em consignação de receitas, a fim de servirem de contrapartida total ou parcial às despesas a realizar pela Direcção-Geral dos Serviços Agrícolas, de conta da rubrica especial a inscrever no orçamento para execução do presente decreto-lei.
+Art. 22.º As importâncias arrecadadas nos termos deste diploma darão entrada nos cofres do Tesouro em consignação de receitas, a fim de servirem de contrapartida total ou parcial às despesas a realizar pela Direcção-Geral dos Serviços Agrícolas, de conta da rubrica especial a inscrever no orçamento para execução do presente decreto-lei.
 
 § único. Às multas previstas é aplicável o disposto no § 3.º do artigo 63.º do Código Penal.
 
-###### Art. 23.º O Secretário de Estado da Agricultura publicará, por portaria, as condições regulamentares necessárias para a boa execução do presente decreto-lei.
+Art. 23.º O Secretário de Estado da Agricultura publicará, por portaria, as condições regulamentares necessárias para a boa execução do presente decreto-lei.
 
-###### Art. 24.º O Ministro das Finanças e o Secretário de Estado da Agricultura estabelecerão, em portaria conjunta, o montante das importâncias a cobrar, previstas no § único do artigo 4.º, § 2.º do artigo 11.º e artigos 16.º e 17.º
+Art. 24.º O Ministro das Finanças e o Secretário de Estado da Agricultura estabelecerão, em portaria conjunta, o montante das importâncias a cobrar, previstas no § único do artigo 4.º, § 2.º do artigo 11.º e artigos 16.º e 17.º
 
-###### Art. 25.º Este decreto-lei revoga o [Decreto-Lei n.º 25326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25326-1935-577282), de 14 de Maio de 1935, e o [Decreto n.º 27055](https://diariodarepublica.pt/dr/detalhe/decreto/27055-1936-322163), de 29 de Setembro de 1936.
+Art. 25.º Este decreto-lei revoga o [Decreto-Lei n.º 25326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25326-1935-577282), de 14 de Maio de 1935, e o [Decreto n.º 27055](https://diariodarepublica.pt/dr/detalhe/decreto/27055-1936-322163), de 29 de Setembro de 1936.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

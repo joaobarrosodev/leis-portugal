@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 73/1976, 3º Suplemento, Série I de 1976-03-26
   number: '73'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 610-(14) a 610-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07303/00140022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-b-1976-383271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94420d452ca36054a12a7aef2915e9f1bf4ad9fdc0d3768da858747f6f1375fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c54b0566fffc8a094987f5e941a8353e614a247b480ba313f5ddc9ce222eebe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cimpor
+- Criação de Serviços
+- Empresa Pública
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427130:por
+  label: "Alterado o nº 3 do art. 4º pelo DEC LEI.459/76.09.06.1976.MF, DR.IS [135] de 09.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/459-1976-427130
+  date: '1976-06-09'
+- type: amended_by
+  target: pt:dre:382203:por
+  label: "Alterados os artigos 8.º, 9.º e 12.º e n.º 1 do artigo 41.º e eliminado o n.º 5 do artigo 15.º dos Estatutos aprovados\
+    \ pelo presente diploma, pelo DEC LEI.216/79.16.07.1979.MIT, DR.IS [162] de 16.07.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1979-382203
+  date: '1979-07-16'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:302174:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287657:por
+  label: "Rectificados os estatutos pela RECT.DD199.04.05.1976.PCM, DR.IS [104]2ºSupl de 04.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-287657
+  date: '1976-05-04'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:56Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +132,7 @@ Refira-se, por último, que em matéria de intervenção dos trabalhadores na vi
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada uma empresa pública denominada Cimpor - Cimentos de Portugal, Empresa Pública, abreviadamente Cimpor, E. P., a qual se regerá pelo estatuto publicado em anexo a este decreto-lei e que dele faz parte integrante.
+Artigo 1.º - 1. É criada uma empresa pública denominada Cimpor - Cimentos de Portugal, Empresa Pública, abreviadamente Cimpor, E. P., a qual se regerá pelo estatuto publicado em anexo a este decreto-lei e que dele faz parte integrante.
 
 2. A Cimpor, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio, sem prejuízo da fiscalização do Governo, a exercer nos termos fixados na lei geral e no estatuto.
 
@@ -110,7 +140,7 @@ Usando dos poderes conferidos pelo artigo 3.º, n.º 1, da Lei Constitucional n.
 
 4. A Cimpor, E. P., disporá dos serviços regionais técnicos, administrativos ou de qualquer outra natureza que se mostrarem necessários para uma eficiente gestão descentralizada.
 
-###### Art. 2.º - 1. O património inicial da Cimpor, E. P., é formado pelos patrimónios autónomos constituídos por força do n.º 1 do artigo 3.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), de 9 de Maio, e pelos direitos e obrigações a eles afectos nos termos da mesma disposição legal, considerando-se a respectiva titularidade transmitida para a Cimpor, E. P., na data da entrada em vigor deste decreto-lei.
+Art. 2.º - 1. O património inicial da Cimpor, E. P., é formado pelos patrimónios autónomos constituídos por força do n.º 1 do artigo 3.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), de 9 de Maio, e pelos direitos e obrigações a eles afectos nos termos da mesma disposição legal, considerando-se a respectiva titularidade transmitida para a Cimpor, E. P., na data da entrada em vigor deste decreto-lei.
 
 2. As transmissões previstas no número anterior operar-se-ão por virtude do presente decreto-lei, que será título suficiente para todos os efeitos legais, incluindo os de registo.
 
@@ -118,9 +148,9 @@ Usando dos poderes conferidos pelo artigo 3.º, n.º 1, da Lei Constitucional n.
 
 4. As transmissões de que trata este artigo serão efectuadas mediante averbamento e ficam isentas do pagamento de impostos, incluindo o do selo, taxas e emolumentos.
 
-###### Art. 3.º Considera-se igualmente transmitida para a Cimpor, E. P., na data de entrada em vigor deste diploma e de harmonia com as regras estabelecidas no artigo anterior, a titularidade das acções nacionalizadas nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174).
+Art. 3.º Considera-se igualmente transmitida para a Cimpor, E. P., na data de entrada em vigor deste diploma e de harmonia com as regras estabelecidas no artigo anterior, a titularidade das acções nacionalizadas nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174).
 
-###### Art. 4.º - 1. O capital da Cimpor, E. P., será constituído pela soma dos capitais próprios das sociedades nacionalizadas pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), escriturados à data de eficácia da nacionalização, corrigidos em função:
+Art. 4.º - 1. O capital da Cimpor, E. P., será constituído pela soma dos capitais próprios das sociedades nacionalizadas pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), escriturados à data de eficácia da nacionalização, corrigidos em função:
 
 a) Dos resultados do exercício de 1975;
 
@@ -132,47 +162,47 @@ b) Da anulação dos activos constituídos por acções representativas de capit
 
 4. A diferença entre o capital próprio e o capital estatutário será afectada à constituição de reservas, devendo ser constituída, obrigatoriamente, uma reserva para flutuação de papéis de crédito de montante igual à soma das verbas escrituradas para tal fim, à data de eficácia da nacionalização, corrigida pela compensação referida no n.º 2.
 
-###### Art. 5.º - 1. Os direitos de participação social e as obrigações conexas que, por força do disposto no artigo 2.º, hajam sido transmitidos para a Cimpor, E. P., poderão ser distraídos da titularidade desta, mediante despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e da Indústria e Tecnologia e nas condições fixadas no mesmo despacho.
+Art. 5.º - 1. Os direitos de participação social e as obrigações conexas que, por força do disposto no artigo 2.º, hajam sido transmitidos para a Cimpor, E. P., poderão ser distraídos da titularidade desta, mediante despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e da Indústria e Tecnologia e nas condições fixadas no mesmo despacho.
 
 2. Pela forma prevista no número anterior poderá ser atribuída à Cimpor, E. P., a titularidade de quaisquer direitos de participação social e das obrigações conexas.
 
-###### Art. 6.º - 1. No exercício da sua actividade a Cimpor, E. P., ficará sujeita à disciplina legal em vigor para o sector cimenteiro, em tudo quanto não se opuser ao presente diploma.
+Art. 6.º - 1. No exercício da sua actividade a Cimpor, E. P., ficará sujeita à disciplina legal em vigor para o sector cimenteiro, em tudo quanto não se opuser ao presente diploma.
 
 2. A Cimpor, E. P., gozará do exclusivo da produção de cimento, sem prejuízo dos direitos actualmente reconhecidos à Secil - Companhia Geral de Cal e Cimento, S. A. R. L., e ao Entreposto Industrial das Ilhas, S. A. R. L., bem como dos que possam vir a ser atribuídos a estas sociedades.
 
-###### Art. 7.º Entre o Estado e a Cimpor, E. P., poderão ser celebrados contratos com vista ao estabelecimento por um período determinado dos objectivos a atingir pela empresa, dos meios a utilizar por ela e das facilidades a conceder pelo Governo.
+Art. 7.º Entre o Estado e a Cimpor, E. P., poderão ser celebrados contratos com vista ao estabelecimento por um período determinado dos objectivos a atingir pela empresa, dos meios a utilizar por ela e das facilidades a conceder pelo Governo.
 
-###### Art. 8.º - 1. Enquanto não for instituído um regime tributário especial para as empresas públicas, a Cimpor, E. P., fica sujeita ao regime tributário geral das sociedades comerciais.
+Art. 8.º - 1. Enquanto não for instituído um regime tributário especial para as empresas públicas, a Cimpor, E. P., fica sujeita ao regime tributário geral das sociedades comerciais.
 
 2. Durante um período de três anos, a contar de 1 de Janeiro de 1976, a Cimpor, E. P., beneficiará da isenção de contribuição industrial no que respeita às actividades económicas que exercer no decurso do mesmo período.
 
 3. A Cimpor, E. P., gozará das isenções, benefícios ou autorizações de natureza fiscal ou outra que, à data da entrada em vigor deste diploma, estivessem atribuídas a qualquer das sociedades nacionalizadas pelo [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174).
 
-###### Art. 9.º Os trabalhadores que, ao abrigo do n.º 1 do artigo 5.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), hajam transitado para as sociedades nacionalizadas pelo n.º 1 do artigo 1.º do mesmo diploma, ou que posteriormente nelas tenham sido admitidos, transitam para a Cimpor, E. P., independentemente de quaisquer formalidades, com todos os seus direitos e obrigações, sem prejuízo do que vier a ser estabelecido no estatuto unificado do pessoal a que se refere a alínea b) do artigo 13.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174).
+Art. 9.º Os trabalhadores que, ao abrigo do n.º 1 do artigo 5.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), hajam transitado para as sociedades nacionalizadas pelo n.º 1 do artigo 1.º do mesmo diploma, ou que posteriormente nelas tenham sido admitidos, transitam para a Cimpor, E. P., independentemente de quaisquer formalidades, com todos os seus direitos e obrigações, sem prejuízo do que vier a ser estabelecido no estatuto unificado do pessoal a que se refere a alínea b) do artigo 13.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174).
 
-###### Art. 10.º - 1. São garantidos aos trabalhadores todos os direitos resultantes da antiguidade e os da inscrição nas caixas de previdência.
+Art. 10.º - 1. São garantidos aos trabalhadores todos os direitos resultantes da antiguidade e os da inscrição nas caixas de previdência.
 
 2. Para o cálculo da antiguidade dos trabalhadores que transitem para a Cimpor, E. P., nos termos do artigo anterior, será contado todo o tempo de serviço prestado a qualquer das sociedades nacionalizadas ou a sociedades por elas dominadas.
 
-###### Art. 11.º - 1. Consideram-se extintas na data da entrada em vigor deste diploma as sociedades nacionalizadas pelo artigo 1.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174).
+Art. 11.º - 1. Consideram-se extintas na data da entrada em vigor deste diploma as sociedades nacionalizadas pelo artigo 1.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174).
 
 2. As sociedades referidas no número anterior ficam dispensadas do cumprimento das formalidades e obrigações estabelecidas na lei relativamente à cessação de actividade.
 
 3. O disposto no número anterior não isenta os administradores, gerentes, directores, membros do conselho fiscal ou outros membros dos órgãos sociais das responsabilidades que lhes possam ser imputadas nos termos da lei.
 
-###### Art. 12.º - 1. A Cimpor, E. P., promoverá as diligências necessárias para a extinção da Precipor - Materiais de Construção de Portugal, S. A. R. L., ficando desde já autorizada a integrar no seu património o património daquela sociedade e a assumir a responsabilidade pelo passivo da mesma.
+Art. 12.º - 1. A Cimpor, E. P., promoverá as diligências necessárias para a extinção da Precipor - Materiais de Construção de Portugal, S. A. R. L., ficando desde já autorizada a integrar no seu património o património daquela sociedade e a assumir a responsabilidade pelo passivo da mesma.
 
 2. É aplicável à extinção da Precipor e à integração do seu património no património da Cimpor, E. P., o preceituado nos n.os 2, 3 e 4 do artigo 2.º e nos n.os 2 e 3 do artigo anterior.
 
 3. Os trabalhadores da Precipor à data da publicação deste decreto-lei poderão ingressar na Cimpor, E. P., sendo-lhes aplicável o disposto nos artigos 9.º e 10.º
 
-###### Art. 13.º- 1. Enquanto não for publicado o estatuto unificado do pessoal previsto na alínea b) do artigo 13.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), as relações de trabalho entre a Cimpor, E. P., e os seus trabalhadores serão reguladas pela legislação geral do trabalho, bem como pelas convenções colectivas de trabalho a que as sociedades nacionalizadas e o seu pessoal se encontravam vinculados.
+Art. 13.º- 1. Enquanto não for publicado o estatuto unificado do pessoal previsto na alínea b) do artigo 13.º do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), as relações de trabalho entre a Cimpor, E. P., e os seus trabalhadores serão reguladas pela legislação geral do trabalho, bem como pelas convenções colectivas de trabalho a que as sociedades nacionalizadas e o seu pessoal se encontravam vinculados.
 
 2. Até à publicação do estatuto referido no n.º 1, continuarão a observar-se em cada um dos locais de trabalho da Cimpor as normas internas que nele se encontrassem em vigor à data da publicação deste decreto-lei.
 
-###### Art. 14.º As expropriações dos prédios rústicos ou urbanos que se mostrarem necessários à actividade da Cimpor, E. P., serão consideradas de utilidade pública urgente.
+Art. 14.º As expropriações dos prédios rústicos ou urbanos que se mostrarem necessários à actividade da Cimpor, E. P., serão consideradas de utilidade pública urgente.
 
-###### Art. 15.º- 1. A fim de assegurar a prossecução de uma política cimenteira concertada, é criada uma comissão constituída por quatro membros do conselho de gerência da Cimpor, E. P., a designar pelo mesmo conselho, e pelos administradores por parte do Estado na Secil - Companhia Geral de Cal e Cimento, S. A. R. L.
+Art. 15.º- 1. A fim de assegurar a prossecução de uma política cimenteira concertada, é criada uma comissão constituída por quatro membros do conselho de gerência da Cimpor, E. P., a designar pelo mesmo conselho, e pelos administradores por parte do Estado na Secil - Companhia Geral de Cal e Cimento, S. A. R. L.
 
 2. À comissão criada pelo número anterior compete, tendo em conta os planos de desenvolvimento económico e social do País, proceder aos estudos necessários para a consecução do objectivo fixado no mesmo número e tomar ou propor as medidas que para tal se mostrarem convenientes.
 
@@ -192,39 +222,39 @@ f) Políticas de novas utilizações de cimento.
 
 4. A comissão criada pelo n.º 1 deste artigo reunirá ordinariamente pelo menos uma vez por trimestre e extraordinariamente sempre que tal seja considerado necessário pelo conselho de gerência da Cimpor, E. P., ou pelos administradores por parte do Estado na Secil - Companhia Geral de Cal e Cimento, S. A. R. L.
 
-###### Art. 16.º As dúvidas que se suscitarem na interpretação do presente decreto-lei e do estatuto a ele anexo serão resolvidas por despacho conjunto do Primeiro-Ministro e do Ministro da Indústria e Tecnologia, ouvidos os Ministros das Finanças ou do Trabalho, quando tal se justificar.
+Art. 16.º As dúvidas que se suscitarem na interpretação do presente decreto-lei e do estatuto a ele anexo serão resolvidas por despacho conjunto do Primeiro-Ministro e do Ministro da Indústria e Tecnologia, ouvidos os Ministros das Finanças ou do Trabalho, quando tal se justificar.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Walter Ruivo Pinto Gomes Rosa - João Pedro Tomás Rosa - Artur Eduardo Brochado dos Santos Silva.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ESTATUTOS DA CIMPOR - CIMENTOS DE PORTUGAL, EMPRESA PÚBLICA
 
 ### CAPÍTULO I — Natureza, sede e objecto
 
-###### Artigo 1.º - 1. A Cimpor - Cimentos de Portugal, Empresa Pública, adiante designada abreviadamente por Cimpor, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio.
+Artigo 1.º - 1. A Cimpor - Cimentos de Portugal, Empresa Pública, adiante designada abreviadamente por Cimpor, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio.
 
 2. A Cimpor, E. P., tem sede em Lisboa e exerce a sua actividade em todo o território do continente e ilhas adjacentes.
 
 3. Por simples deliberação do conselho de gerência poderão ser abertas ou encerradas filiais, sucursais, agências, delegações ou qualquer outra forma de representação no País ou no estrangeiro.
 
-###### Art. 2.º - 1. A Cimpor, E. P., reger-se-á pela legislação geral aplicável às empresas públicas, pelo disposto no Decreto-Lei n.º 217-B/76, de 26 de Março, e no presente estatuto e, ainda, pelos regulamentos que vierem a ser publicados em sua execução.
+Art. 2.º - 1. A Cimpor, E. P., reger-se-á pela legislação geral aplicável às empresas públicas, pelo disposto no Decreto-Lei n.º 217-B/76, de 26 de Março, e no presente estatuto e, ainda, pelos regulamentos que vierem a ser publicados em sua execução.
 
 2. Nos casos omissos serão observadas, com as necessárias adaptações, as normas legais aplicáveis às sociedades comerciais, nomeadamente às sociedades anónimas.
 
-###### Art. 3.º As alterações ao presente estatuto serão efectuadas por decreto referendado pelo Primeiro-Ministro, pelo Ministro da Indústria e Tecnologia e, ainda, pelo Ministro das Finanças.
+Art. 3.º As alterações ao presente estatuto serão efectuadas por decreto referendado pelo Primeiro-Ministro, pelo Ministro da Indústria e Tecnologia e, ainda, pelo Ministro das Finanças.
 
-###### Art. 4.º - 1. O objecto principal da Cimpor, E. P., consiste na produção, distribuição e venda de cimento.
+Art. 4.º - 1. O objecto principal da Cimpor, E. P., consiste na produção, distribuição e venda de cimento.
 
 2. A Cimpor, E. P., poderá, ainda, exercer acessoriamente actividades relacionadas com o seu objecto principal, nomeadamente a fabricação de cal hidráulica, sacos de papel e artefactos de cimento.
 
 3. Considera-se actividade acessória o exercício de direitos de participação social.
 
-###### Art. 5.º Nos termos do n.º 3 do artigo anterior, constituem objecto da Cimpor, E. P.:
+Art. 5.º Nos termos do n.º 3 do artigo anterior, constituem objecto da Cimpor, E. P.:
 
 a) O exercício dos direitos de participação social que, à data da nacionalização operada pelo [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), de 9 de Maio, se encontravam na titularidade das empresas nacionalizadas pelo n.º 1 do artigo 1.º do mesmo diploma;
 
@@ -234,7 +264,7 @@ b) O exercício dos direitos sociais inerentes à titularidade das acções naci
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 6.º - 1. São órgãos de gestão da Cimpor, E. P.:
+Art. 6.º - 1. São órgãos de gestão da Cimpor, E. P.:
 
 a) O conselho geral;
 
@@ -244,13 +274,13 @@ c) A comissão de fiscalização.
 
 2. Além dos órgãos referidos no número anterior, serão criados, nos termos previstos no estatuto a que se refere o n.º 1 do artigo 42.º, os órgãos necessários a um eficiente contrôle da produção por parte dos trabalhadores.
 
-###### Art. 7.º 1. O Governo assegurará a defesa do interesse público mediante o exercício dos poderes de tutela e dos demais conferidos pela lei e pelo presente estatuto.
+Art. 7.º 1. O Governo assegurará a defesa do interesse público mediante o exercício dos poderes de tutela e dos demais conferidos pela lei e pelo presente estatuto.
 
 2. Em tudo quanto não se encontrar especialmente previsto na lei ou neste estatuto, os poderes referidos no número anterior serão exercidos pelo Ministro da Indústria e Tecnologia.
 
 #### SECÇÃO II — Conselho geral
 
-###### Art. 8.º - 1. O conselho geral será composto por:
+Art. 8.º - 1. O conselho geral será composto por:
 
 a) Um representante de cada um dos Ministérios da Indústria e Tecnologia, das Finanças, das Obras Públicas, do Comércio Interno e da Habitação e Urbanismo;
 
@@ -262,7 +292,7 @@ d) Oito representantes dos trabalhadores de toda a indústria cimenteira.
 
 2. Os membros do conselho de gerência e os membros da comissão de fiscalização deverão assistir, sem direito a voto, às reuniões do conselho geral e intervir na discussão dos assuntos a apreciar.
 
-###### Art. 9.º - 1. Os membros do conselho geral serão designados:
+Art. 9.º - 1. Os membros do conselho geral serão designados:
 
 a) Os referidos na alínea a) do artigo anterior, pelo respectivo Ministro;
 
@@ -276,7 +306,7 @@ d) Os referidos na alínea d), pelo competente órgão dos trabalhadores.
 
 3. O presidente será substituído nas suas faltas e impedimentos por um vice-presidente.
 
-###### Art. 10.º - 1. Compete ao conselho geral:
+Art. 10.º - 1. Compete ao conselho geral:
 
 a) Apreciar e votar os planos plurianuais de actividades;
 
@@ -290,7 +320,7 @@ e) Eleger o vice-presidente e o secretário do conselho.
 
 2. O conselho geral poderá solicitar ao conselho de gerência ou à comissão de fiscalização os elementos de informação necessários para o desempenho das suas funções.
 
-###### Art. 11.º - 1. O conselho geral reunirá ordinariamente uma vez em cada semestre e extraordinariamente sempre que for convocado pelo presidente, quer por sua iniciativa, quer a requerimento conjunto dos vogais representantes dos diferentes grupos de entidades que nele têm assento, do conselho de gerência ou da comissão de fiscalização.
+Art. 11.º - 1. O conselho geral reunirá ordinariamente uma vez em cada semestre e extraordinariamente sempre que for convocado pelo presidente, quer por sua iniciativa, quer a requerimento conjunto dos vogais representantes dos diferentes grupos de entidades que nele têm assento, do conselho de gerência ou da comissão de fiscalização.
 
 2. O conselho geral não poderá funcionar sem que esteja presente na reunião a maioria dos seus membros e as suas deliberações serão tomadas por maioria absoluta dos membros presentes.
 
@@ -298,13 +328,13 @@ e) Eleger o vice-presidente e o secretário do conselho.
 
 #### SECÇÃO III — Conselho de gerência
 
-###### Art. 12.º - 1. O conselho de gerência é composto por doze administradores, nomeados pelo Conselho de Ministros, sob proposta do Ministro da Indústria e Tecnologia.
+Art. 12.º - 1. O conselho de gerência é composto por doze administradores, nomeados pelo Conselho de Ministros, sob proposta do Ministro da Indústria e Tecnologia.
 
 2. Seis dos administradores serão indicados pelos trabalhadores da empresa; os restantes serão escolhidos, com conhecimento prévio dos trabalhadores e, sempre que possível, de entre indivíduos ligados ao sector cimenteiro.
 
 3. O presidente do conselho de gerência será designado, de entre os administradores, pelo Conselho de Ministros, sob proposta do Ministro da Indústria e Tecnologia.
 
-###### Art. 13.º - 1. Os membros do conselho de gerência exercerão as suas funções em regime de tempo completo.
+Art. 13.º - 1. Os membros do conselho de gerência exercerão as suas funções em regime de tempo completo.
 
 2. As funções de membro do conselho de gerência são incompatíveis com o desempenho de quaisquer actividades profissionais, públicas ou privadas.
 
@@ -312,7 +342,7 @@ e) Eleger o vice-presidente e o secretário do conselho.
 
 4. As designações para o exercício cumulativo de missões de interesse público serão precedidas de consulta prévia ao órgão da empresa interessado e ao competente órgão dos trabalhadores.
 
-###### Art. 14.º - 1. Competem ao conselho de gerência todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa, a administração do seu património e a sua representação em juízo e fora dele, e que, por força da lei ou do presente estatuto, não estejam atribuídos a outros órgãos.
+Art. 14.º - 1. Competem ao conselho de gerência todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa, a administração do seu património e a sua representação em juízo e fora dele, e que, por força da lei ou do presente estatuto, não estejam atribuídos a outros órgãos.
 
 2. Compete, em especial, ao conselho de gerência:
 
@@ -348,7 +378,7 @@ o) Fixar as directrizes a observar pelos representantes da empresa nas sociedade
 
 p) Exercer as demais funções que lhe sejam atribuídas por lei ou pelo presente estatuto.
 
-###### Art. 15.º - 1. Por deliberação do conselho de gerência, poderá ser cometida ao presidente a orientação directa de serviços da empresa.
+Art. 15.º - 1. Por deliberação do conselho de gerência, poderá ser cometida ao presidente a orientação directa de serviços da empresa.
 
 2. Cada administrador desempenhará as funções executivas que lhe forem cometidas por deliberação do conselho de gerência.
 
@@ -358,17 +388,17 @@ p) Exercer as demais funções que lhe sejam atribuídas por lei ou pelo present
 
 5. Por designação do conselho de gerência, exercerá funções em cada centro de exploração um administrador responsável pela respectiva direcção.
 
-###### Art. 16.º - 1. O conselho de gerência reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que o presidente o julgue necessário ou que dois administradores o requeiram.
+Art. 16.º - 1. O conselho de gerência reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que o presidente o julgue necessário ou que dois administradores o requeiram.
 
 2. As reuniões serão convocadas pelo presidente e realizar-se-ão na sede ou em qualquer outro local onde a empresa tenha instalações ou qualquer forma de representação.
 
-###### Art. 17.º - 1. As deliberações do conselho de gerência só são válidas quando se encontrar presente à reunião a maioria dos seus membros e serão tomadas pela maioria dos votos expressos, não sendo admitido o voto por correspondência ou procuração.
+Art. 17.º - 1. As deliberações do conselho de gerência só são válidas quando se encontrar presente à reunião a maioria dos seus membros e serão tomadas pela maioria dos votos expressos, não sendo admitido o voto por correspondência ou procuração.
 
 2. Serão lavradas actas de todas as reuniões.
 
 3. A execução do expediente do conselho de gerência será assegurada pela forma que o presidente determinar.
 
-###### Art. 18.º - 1. Compete ao presidente do conselho de gerência, além do desempenho das funções que lhe sejam cometidas ao abrigo do disposto no n.º 1 do artigo 15.º:
+Art. 18.º - 1. Compete ao presidente do conselho de gerência, além do desempenho das funções que lhe sejam cometidas ao abrigo do disposto no n.º 1 do artigo 15.º:
 
 a) Convocar as reuniões do conselho;
 
@@ -380,7 +410,7 @@ d) Representar a empresa, sem prejuízo dos poderes de representação conferido
 
 2. O presidente do conselho de gerência será substituído nas suas faltas e impedimentos pelo administrador que o conselho designar para esse efeito.
 
-###### Art. 19.º - 1. A empresa só se obriga:
+Art. 19.º - 1. A empresa só se obriga:
 
 a) Pela assinatura conjunta de dois administradores;
 
@@ -394,13 +424,13 @@ d) Pela assinatura de funcionários da empresa em quem tal poder tenha sido dele
 
 #### SECÇÃO IV — Comissão de fiscalização
 
-###### Art. 20.º - 1. A comissão de fiscalização será composta por três membros, que escolherão entre si o presidente.
+Art. 20.º - 1. A comissão de fiscalização será composta por três membros, que escolherão entre si o presidente.
 
 2. Os membros da comissão de fiscalização serão nomeados por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, sendo um deles indicado pelos trabalhadores da empresa.
 
 3. Um dos membros será obrigatoriamente um revisor oficial de contas.
 
-###### Art. 21.º - 1. Compete à comissão de fiscalização:
+Art. 21.º - 1. Compete à comissão de fiscalização:
 
 a) Velar pelo cumprimento das normas reguladoras da actividade da empresa;
 
@@ -426,17 +456,17 @@ j) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja sub
 
 3. Os membros da comissão de fiscalização poderão, nos termos da lei, assistir, individual ou conjuntamente, às reuniões do conselho de gerência, sempre que o presidente deste o entenda conveniente.
 
-###### Art. 22.º - 1. A comissão de fiscalização reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar, quer por sua iniciativa, quer a requerimento de qualquer dos seus vogais ou de qualquer membro do conselho de gerência.
+Art. 22.º - 1. A comissão de fiscalização reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar, quer por sua iniciativa, quer a requerimento de qualquer dos seus vogais ou de qualquer membro do conselho de gerência.
 
 2. É aplicável às reuniões da comissão de fiscalização o disposto no n.º 2 do artigo 16.º e no artigo 17.º deste estatuto.
 
-###### Art. 23.º - 1. A empresa poderá contratar a auditoria das suas contas com entidades especializadas de reconhecida competência e idoneidade.
+Art. 23.º - 1. A empresa poderá contratar a auditoria das suas contas com entidades especializadas de reconhecida competência e idoneidade.
 
 2. A empresa não poderá confiar a sociedades de revisão de contas o exercício das funções da comissão de fiscalização.
 
 ### CAPÍTULO IV — Gestão económica e financeira
 
-###### Art. 24.º - 1. O capital próprio da Cimpor, E. P., será o resultante da aplicação do disposto no n.º 1 do artigo 4 do Decreto-Lei n.º 217-B/76.
+Art. 24.º - 1. O capital próprio da Cimpor, E. P., será o resultante da aplicação do disposto no n.º 1 do artigo 4 do Decreto-Lei n.º 217-B/76.
 
 2. O capital estatutário será o fixado por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, proferido ao abrigo do n.º 3 do mesmo preceito legal.
 
@@ -444,7 +474,7 @@ j) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja sub
 
 4. O capital estatutário poderá também ser reforçado por incorporação de reservas livres, sob proposta do conselho de gerência, com o parecer favorável da comissão de fiscalização e do conselho geral, aprovada por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia.
 
-###### Art. 25.º - 1. Constituem receitas da empresa:
+Art. 25.º - 1. Constituem receitas da empresa:
 
 a) Os resultados das suas operações;
 
@@ -464,7 +494,7 @@ h) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou qu
 
 2. A empresa arrecadará as receitas mencionadas no número anterior e responderá por todas as despesas decorrentes do exercício das actividades económicas a que se refere o artigo 4.º
 
-###### Art. 26.º - 1. A gestão da empresa será disciplinada pelos seguintes instrumentos de previsão:
+Art. 26.º - 1. A gestão da empresa será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano plurianual de actividades;
 
@@ -480,13 +510,13 @@ d) Orçamento anual.
 
 4. O orçamento anual deverá individualizar as verbas a afectar às contas de investimento e cobrir a actividade global da empresa, distinguindo a exploração dos investimentos, e individualizar a cobertura financeira destes, bem como a dos eventuais prejuízos de exploração.
 
-###### Art. 27.º Os planos anuais de actividades, os orçamentos anuais e a contabilidade da empresa serão organizados em conformidade com os objectivos da mesma e as exigências da exploração.
+Art. 27.º Os planos anuais de actividades, os orçamentos anuais e a contabilidade da empresa serão organizados em conformidade com os objectivos da mesma e as exigências da exploração.
 
-###### Art. 28.º - 1. O valor dos bens da empresa será amortizado de harmonia com os critérios que, dentro dos limites legais em vigor para as empresas de direito privado, forem fixados pelo conselho de gerência, com voto favorável da comissão de fiscalização.
+Art. 28.º - 1. O valor dos bens da empresa será amortizado de harmonia com os critérios que, dentro dos limites legais em vigor para as empresas de direito privado, forem fixados pelo conselho de gerência, com voto favorável da comissão de fiscalização.
 
 2. O montante anual das amortizações constituirá encargo da conta de exploração e será escriturado numa conta individualizada.
 
-###### Art. 29.º - 1. O exercício contabilístico coincide com o ano civil.
+Art. 29.º - 1. O exercício contabilístico coincide com o ano civil.
 
 2. O conselho de gerência prestará anualmente contas da sua gerência, para o que elaborará:
 
@@ -510,13 +540,13 @@ h) A proposta de aplicação do resultado do exercício.
 
 4. Até 15 de Março, deverão ser remetidos aos membros do conselho geral os documentos referidos no n.º 2 deste artigo, acompanhados do parecer da comissão de fiscalização.
 
-###### Art. 30.º - 1. As contas do exercício serão acompanhadas de notas explicativas sobre os critérios valorimétricos e de amortização utilizados, bem como de quaisquer outras informações consideradas úteis para a apreciação das mesmas contas, nomeadamente no que respeita aos desvios e alterações orçamentais verificados no decurso do exercício.
+Art. 30.º - 1. As contas do exercício serão acompanhadas de notas explicativas sobre os critérios valorimétricos e de amortização utilizados, bem como de quaisquer outras informações consideradas úteis para a apreciação das mesmas contas, nomeadamente no que respeita aos desvios e alterações orçamentais verificados no decurso do exercício.
 
 2. No caso de, durante o exercício, terem ocorrido alterações substanciais nos procedimentos contabilísticos adoptados, deverá mencionar-se tal facto e fornecer-se uma estimativa da influência dessas alterações sobre as contas do exercício, em comparação com as do exercício anterior.
 
 3. Sempre que possível, as contas do exercício serão acompanhadas dos correspondentes valores do exercício anterior e da previsão para o exercício seguinte.
 
-###### Art. 31.º - 1. Se houver lucros, será constituída uma provisão para pagamento dos impostos que sobre eles incidem.
+Art. 31.º - 1. Se houver lucros, será constituída uma provisão para pagamento dos impostos que sobre eles incidem.
 
 2. O remanescente, acrescido dos lucros que hajam transitado de exercícios anteriores, terá o seguinte destino:
 
@@ -534,7 +564,7 @@ f) Continuação na conta de ganhos e perdas para aplicação em exercícios fut
 
 3. Na elaboração da proposta de aplicação do resultado do exercício o conselho de gerência deverá ter em conta as necessidades de retenção de lucros na empresa para fazer face ao reembolso de financiamentos contraídos e ao autofinanciamento de investimentos programados, bem como à compensação dos efeitos desfavoráveis da inflação monetária.
 
-###### Art. 32.º - 1. É obrigatória a constituição das seguintes reservas:
+Art. 32.º - 1. É obrigatória a constituição das seguintes reservas:
 
 a) Reserva geral;
 
@@ -544,7 +574,7 @@ c) Fundo para fins sociais.
 
 2. Se o saldo da conta de ganhos e perdas, depois de retiradas as verbas para constituição das reservas obrigatórias, o permitir, poderá ainda o conselho de gerência propor ao conselho geral a constituição de outras reservas para aplicações permitidas por lei ou para fins específicos devidamente justificados.
 
-###### Art. 33.º - 1. A reserva geral será constituída pela parte dos lucros de cada exercício que, no mínimo de 10% lhe for anualmente destinada por deliberação do conselho geral.
+Art. 33.º - 1. A reserva geral será constituída pela parte dos lucros de cada exercício que, no mínimo de 10% lhe for anualmente destinada por deliberação do conselho geral.
 
 2. A reserva geral pode ser utilizada para cobrir eventuais prejuízos de exploração.
 
@@ -552,11 +582,11 @@ c) Fundo para fins sociais.
 
 4. O fundo para fins sociais será constituído pela percentagem dos resultados que, para cada ano, for fixada pelo conselho geral, e destina-se a financiar benefícios sociais e o fornecimento de serviços colectivos aos trabalhadores da empresa.
 
-###### Art. 34.º - 1. Os contratos, actos ou operações de qualquer natureza, mesmo os que dêem lugar a encargos em mais de um exercício ou em exercício que não seja aquele em que são celebrados ou praticados, estão isentos de visto do Tribunal de Contas e de registo na Direcção-Geral da Contabilidade Pública.
+Art. 34.º - 1. Os contratos, actos ou operações de qualquer natureza, mesmo os que dêem lugar a encargos em mais de um exercício ou em exercício que não seja aquele em que são celebrados ou praticados, estão isentos de visto do Tribunal de Contas e de registo na Direcção-Geral da Contabilidade Pública.
 
 2. Os contratos de arrendamento cuja celebração se mostre necessária à actividade da empresa estão isentos de todas as formalidades exigidas para o arrendamento de imóveis destinados ao serviço do Estado.
 
-###### Art. 35.º - 1. A empresa fica dispensada da apresentação de contas ao Tribunal de Contas.
+Art. 35.º - 1. A empresa fica dispensada da apresentação de contas ao Tribunal de Contas.
 
 2. A aprovação das contas da empresa compete ao Ministro da Indústria e Tecnologia, a quem, para o efeito, deverão ser enviados, durante o mês de Março de cada ano, os documentos referidos no n.º 2 do artigo 29.º, acompanhados do parecer da comissão de fiscalização que sobre eles haja recaído e da acta da reunião do conselho geral em que hajam sido apreciados.
 
@@ -564,11 +594,11 @@ c) Fundo para fins sociais.
 
 4. A deliberação do conselho geral sobre a aplicação do resultado poderá ser alterada por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, a proferir até à data fixada no n.º 3 deste artigo, depois da qual poderá o conselho de gerência executar aquela deliberação.
 
-###### Art. 36.º Proferido o despacho previsto no n.º 2 do artigo anterior ou passada a data fixada no n.º 3 do mesmo preceito, o relatório, balanço e contas do conselho de gerência, o parecer da comissão de fiscalização e a deliberação do conselho geral que sobre eles haja recaído, bem como o eventual despacho de alteração da distribuição dos lucros do exercício, serão publicados no Diário do Governo e, pelo menos, em dois jornais diários de grande tiragem, sendo um de Lisboa e outro do Porto.
+Art. 36.º Proferido o despacho previsto no n.º 2 do artigo anterior ou passada a data fixada no n.º 3 do mesmo preceito, o relatório, balanço e contas do conselho de gerência, o parecer da comissão de fiscalização e a deliberação do conselho geral que sobre eles haja recaído, bem como o eventual despacho de alteração da distribuição dos lucros do exercício, serão publicados no Diário do Governo e, pelo menos, em dois jornais diários de grande tiragem, sendo um de Lisboa e outro do Porto.
 
 ### CAPÍTULO IV — Intervenção do Governo
 
-###### Art. 37.º - 1. Compete ao Ministro da Indústria e Tecnologia:
+Art. 37.º - 1. Compete ao Ministro da Indústria e Tecnologia:
 
 a) Decidir os recursos interpostos pelo presidente do conselho de gerência da não aprovação, pela comissão de fiscalização, de actos que requeiram a concordância desta, quando o desacordo respeite à conveniência ou oportunidade dos mesmos actos;
 
@@ -590,7 +620,7 @@ h) Autorizar a acumulação de funções públicas com os cargos de membro do co
 
 3. O Ministro da Indústria e Tecnologia poderá, em qualquer momento, mandar inspeccionar a contabilidade e o movimento de fundos da empresa.
 
-###### Art. 38.º Compete aos Ministros das Finanças e da Indústria e Tecnologia:
+Art. 38.º Compete aos Ministros das Finanças e da Indústria e Tecnologia:
 
 a) Autorizar a realização de empréstimos em moeda nacional por prazo superior a sete anos ou em moeda estrangeira, bem como aprovar o plano e demais condições da operação, incluindo as garantias a prestar, sem prejuízo da legislação geral aplicável;
 
@@ -600,13 +630,13 @@ c) Autorizar a aquisição ou alienação de participações no capital de socie
 
 d) Nomear os membros da comissão de fiscalização.
 
-###### Art. 39.º Compete aos Ministros da Indústria e Tecnologia e do Trabalho aprovar o estatuto do pessoal, em particular no que respeita à fixação de remunerações.
+Art. 39.º Compete aos Ministros da Indústria e Tecnologia e do Trabalho aprovar o estatuto do pessoal, em particular no que respeita à fixação de remunerações.
 
-###### Art. 40.º Compete aos Ministros da Indústria e Tecnologia e do Comércio Interno fixar a política de preços de venda do cimento e outros produtos fabricados pela empresa.
+Art. 40.º Compete aos Ministros da Indústria e Tecnologia e do Comércio Interno fixar a política de preços de venda do cimento e outros produtos fabricados pela empresa.
 
 ### CAPÍTULO V — Trabalhadores da empresa
 
-###### Art. 41.º - 1. Relativamente à sua intervenção na vida da empresa, são reconhecidos aos trabalhadores os seguintes direitos:
+Art. 41.º - 1. Relativamente à sua intervenção na vida da empresa, são reconhecidos aos trabalhadores os seguintes direitos:
 
 a) O direito ao conhecimento sistemático e organizado de todos os actos respeitantes à gestão empresarial;
 
@@ -624,33 +654,33 @@ g) O direito de assumirem a condução directa de actividades da empresa, desde 
 
 2. Os direitos reconhecidos aos trabalhadores pelo n.º 1 deste artigo deverão ser exercidos por forma a não impedir a tomada de decisões essenciais ao normal funcionamento da empresa.
 
-###### Art. 42.º - 1. Os trabalhadores exercerão os direitos que lhes são reconhecidos pelo artigo anterior através de organização própria, cujo estatuto será por eles elaborado, no prazo de noventa dias, a contar da criação da empresa.
+Art. 42.º - 1. Os trabalhadores exercerão os direitos que lhes são reconhecidos pelo artigo anterior através de organização própria, cujo estatuto será por eles elaborado, no prazo de noventa dias, a contar da criação da empresa.
 
 2. O estatuto referido no n.º 1 deste artigo não poderá conter disposições que atribuam aos trabalhadores direitos que lhes não hajam sido reconhecidos por lei ou pelo presente estatuto.
 
 3. O estatuto da organização dos trabalhadores e as alterações que nele vierem a ser introduzidas considerar-se-ão em vigor a partir da respectiva comunicação ao conselho de gerência.
 
-###### Art. 43.º O conselho de gerência e o órgão representativo dos trabalhadores ao nível central reunirão, em sessão conjunta, ordinariamente uma vez em cada trimestre e extraordinariamente sempre que razoes ponderosas e urgentes o aconselhem.
+Art. 43.º O conselho de gerência e o órgão representativo dos trabalhadores ao nível central reunirão, em sessão conjunta, ordinariamente uma vez em cada trimestre e extraordinariamente sempre que razoes ponderosas e urgentes o aconselhem.
 
-###### Art. 44.º - 1. O regime jurídico dos trabalhadores da empresa será o do contrato individual de trabalho.
+Art. 44.º - 1. O regime jurídico dos trabalhadores da empresa será o do contrato individual de trabalho.
 
 2. Os contratos de trabalho ficam sujeitos às normas legais de regulamentação do trabalho e às convenções colectivas de trabalho.
 
-###### Art. 45.º - 1. Os trabalhadores da empresa ficam sujeitos, quanto às respectivas remunerações, à tributação incidente sobre as remunerações pagas pelas empresas de direito privado.
+Art. 45.º - 1. Os trabalhadores da empresa ficam sujeitos, quanto às respectivas remunerações, à tributação incidente sobre as remunerações pagas pelas empresas de direito privado.
 
 2. Os trabalhadores da empresa ficam abrangidos pelo regime de previdência social aplicável ao pessoal das empresas de direito privado, com salvaguarda dos direitos e regalias já adquiridos.
 
-###### Art. 46.º - 1. A tabela de remunerações do pessoal será estabelecida pelo conselho de gerência, tendo em conta a política geral do Estado em matéria de remunerações de trabalho, as convenções colectivas de trabalho em vigor e a capacidade económica da empresa.
+Art. 46.º - 1. A tabela de remunerações do pessoal será estabelecida pelo conselho de gerência, tendo em conta a política geral do Estado em matéria de remunerações de trabalho, as convenções colectivas de trabalho em vigor e a capacidade económica da empresa.
 
 2. A tabela a que se refere o número anterior carece de aprovação prévia dos Ministros da Indústria e Tecnologia e do Trabalho prevista no artigo 39.º, sem o que não poderá entrar em vigor.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 47.º - 1. Sem prejuízo das transferências a efectuar com o acordo dos interessados, é garantido aos trabalhadores actualmente ao serviço das sociedades nacionalizadas pelo [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174) o direito de continuarem a exercer a sua actividade na localidade em que se encontrarem colocados à data da entrada em vigor deste estatuto.
+Art. 47.º - 1. Sem prejuízo das transferências a efectuar com o acordo dos interessados, é garantido aos trabalhadores actualmente ao serviço das sociedades nacionalizadas pelo [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174) o direito de continuarem a exercer a sua actividade na localidade em que se encontrarem colocados à data da entrada em vigor deste estatuto.
 
 2. É garantido aos trabalhadores a que alude o número anterior o direito a continuarem a receber as remunerações que auferem à data da entrada em vigor deste estatuto.
 
-###### Art. 48.º - 1. O mandato dos membros do conselho de gerência e da comissão de fiscalização é de três anos, sucessivamente renovável por iguais períodos.
+Art. 48.º - 1. O mandato dos membros do conselho de gerência e da comissão de fiscalização é de três anos, sucessivamente renovável por iguais períodos.
 
 2. O disposto no número anterior é aplicável aos membros do conselho geral, podendo, no entanto, o respectivo mandato ser revogado a todo o tempo.
 
@@ -658,22 +688,22 @@ g) O direito de assumirem a condução directa de actividades da empresa, desde 
 
 4. As vagas que ocorrerem nos órgãos da empresa serão preenchidas pela forma prescrita para a designação dos membros a substituir.
 
-###### Art. 49.º O conselho de gerência porá à disposição da comissão de fiscalização e do conselho geral os meios indispensáveis ao desempenho das respectivas funções.
+Art. 49.º O conselho de gerência porá à disposição da comissão de fiscalização e do conselho geral os meios indispensáveis ao desempenho das respectivas funções.
 
-###### Art. 50.º - 1. As remunerações dos membros do conselho de gerência serão fixadas pelo Ministro da Indústria e Tecnologia, sem prejuízo do que vier a ser disposto em lei especial relativa aos gestores públicos.
+Art. 50.º - 1. As remunerações dos membros do conselho de gerência serão fixadas pelo Ministro da Indústria e Tecnologia, sem prejuízo do que vier a ser disposto em lei especial relativa aos gestores públicos.
 
 2. Os membros da comissão de fiscalização terão direito a uma remuneração mensal de montante a fixar por despacho do Ministro da Indústria e Tecnologia, acumulável com quaisquer outras remunerações.
 
 3. É aplicável aos membros do conselho de gerência e da comissão de fiscalização o disposto no n.º 1 do artigo 45.º
 
-###### Art. 51.º - 1. Os membros dos órgãos referidos no n.º 1 do artigo 6.º que hajam de deslocar-se da localidade onde residam habitualmente, para assistirem às reuniões dos respectivos órgãos, terão direito ao abono das ajudas de custo em vigor na empresa e ao pagamento das despesas de transporte.
+Art. 51.º - 1. Os membros dos órgãos referidos no n.º 1 do artigo 6.º que hajam de deslocar-se da localidade onde residam habitualmente, para assistirem às reuniões dos respectivos órgãos, terão direito ao abono das ajudas de custo em vigor na empresa e ao pagamento das despesas de transporte.
 
 2. Os membros do conselho geral que não exerçam funções na empresa terão, ainda, direito, por cada reunião a que assistirem, a uma senha de presença, de montante a fixar pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 52.º - 1. Os membros do conselho de gerência terão direito a benefícios sociais idênticos aos usufruídos pelos trabalhadores da empresa, incluindo pensões de reforma, invalidez e sobrevivência, os quais deverão ser processados nos termos e condições fixados para os referidos trabalhadores.
+Art. 52.º - 1. Os membros do conselho de gerência terão direito a benefícios sociais idênticos aos usufruídos pelos trabalhadores da empresa, incluindo pensões de reforma, invalidez e sobrevivência, os quais deverão ser processados nos termos e condições fixados para os referidos trabalhadores.
 
 2. Para os efeitos do número anterior, será contado aos membros do conselho de gerência que hajam pertencido aos quadros da empresa o tempo integral de serviço prestado nesta última qualidade.
 
-###### Art. 53.º Os membros dos órgãos da empresa que tenham a qualidade de trabalhadores da mesma manterão os seus lugares nos respectivos quadros com as regalias inerentes.
+Art. 53.º Os membros dos órgãos da empresa que tenham a qualidade de trabalhadores da mesma manterão os seus lugares nos respectivos quadros com as regalias inerentes.
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

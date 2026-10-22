@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1972-398531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 840a14e0e9c4200a8cfd1cdbc864077ab90a537e2b402a0a7e27189b5c52fe88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b953fbc85ee093d2ff8eb77f78ed61973e39620b667a2677148899feac4a5bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Crédito Especial
+- Fundo Especial de Transportes Terrestres
+- Ministro das Finanças
+- Subsídio não Reembolsável
 relationships: []
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:33Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +94,9 @@ Verificando-se a necessidade de activar os investimentos da empresa concessioná
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro das Finanças a conceder ao Fundo Especial de Transportes Terrestres um subsídio extraordinário não reembolsável, até ao montante de 150000000$00, para activação dos investimentos da rede ferroviária nacional.
+Artigo 1.º É autorizado o Ministro das Finanças a conceder ao Fundo Especial de Transportes Terrestres um subsídio extraordinário não reembolsável, até ao montante de 150000000$00, para activação dos investimentos da rede ferroviária nacional.
 
-###### Art. 2.º Para os fins indicados no artigo precedente é aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial da quantia de 150000000$00, a inscrever sob a forma seguinte:
+Art. 2.º Para os fins indicados no artigo precedente é aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial da quantia de 150000000$00, a inscrever sob a forma seguinte:
 
 Ministério das Comunicações
 
@@ -99,26 +104,26 @@ Despesas extraordinárias
 
 Outras despesas extraordinárias
 
-### Capítulo 20.º «Fundo Especial de Transportes Terrestres»:
+Capítulo 20.º «Fundo Especial de Transportes Terrestres»:
 
 Despesas de capital:
 
-###### Artigo 456.º «Transferências - Sector público»:
+Artigo 456.º «Transferências - Sector público»:
 
 N.º 1) «Subsídio extraordinário, não reembolsável, ao Fundo Especial de Transportes Terrestres, nos termos do Decreto-Lei n.º 65/72, de 1 de Março» ... 150000000$00
 
-###### Art. 3.º Para compensação do crédito previsto no artigo anterior é inscrito igual montante a subordinar à receita extraordinária do vigente orçamento das receitas do Estado, sob o artigo 368.º «Importância de parte dos saldos de contas de anos económicos findos», capítulo 13.º «Outras receitas de capital».
+Art. 3.º Para compensação do crédito previsto no artigo anterior é inscrito igual montante a subordinar à receita extraordinária do vigente orçamento das receitas do Estado, sob o artigo 368.º «Importância de parte dos saldos de contas de anos económicos findos», capítulo 13.º «Outras receitas de capital».
 
-###### Art. 4.º O Fundo Especial de Transportes Terrestres planeará em orçamento suplementar o esquema da aplicação do crédito aberto pelo artigo 2.º
+Art. 4.º O Fundo Especial de Transportes Terrestres planeará em orçamento suplementar o esquema da aplicação do crédito aberto pelo artigo 2.º
 
-###### Art. 5.º O presente diploma entra imediatamente em vigor.
+Art. 5.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 23 de Fevereiro de 1972.**
+Promulgado em 23 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

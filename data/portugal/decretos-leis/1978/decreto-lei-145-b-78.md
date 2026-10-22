@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 137/1978, 1º Suplemento, Série I de 1978-06-17
   number: '137'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1074-(3) a 1074-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13701/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27567dfd44cf7ee57efe186c0ddf5d7d861da99686839af224d6593c5314cb2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6511b56f97386bcd6916a972365963fbe2ec848678d516992a3dd7f741e7c650
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto do Trabalho Portuário
+- Ministro dos Transportes e Comunicações
+- Orgânica
+- Trabalhador Portuário
+- Trabalho Portuário
+- Tutela
 relationships:
 - type: amended_by
   target: pt:dre:223012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364171:por
+  label: "Alterados os artigos 1.º, 2.º, 4.º, 7.º, 8.º, 10.º, 12.º, 15.º, 16.º, 20.º, 21.º e 23.º e, aditados os artigos 9.º-A,\
+    \ 10.º-A e 15.º-A, todos do presente diploma, pela LEI.72/79.24.10.1979.AR, DR.IS [246] de 24.10.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-1979-364171
+  date: '1979-10-24'
+- type: amended_by
+  target: pt:dre:223012:por
+  label: "Extinto o Instituto do Trabalho Portuário, pelo DEC LEI.331/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1998-223012
+  date: '1998-11-03'
+- type: cites
+  target: pt:dre:325965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631273:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:329825:por
+  label: Rectificado pela DECL.DD7502.11.09.1978.PCM, DR.IS [209] de 11.09.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-329825
+  date: '1978-09-11'
+- type: repealed_by
+  target: pt:dre:579346:por
+  label: "Revogado, com a redacção dada na Lei n.º 72/79, de 24 de Outubro, pelo DEC LEI.282-C/84.20.08.1984.PCM, DR.IS [192]Supl\
+    \ de 20.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-c-1984-579346
+  date: '1984-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:17Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +142,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e âmbito
 
-###### Artigo 1.º - 1 - É criado, ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 340/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1978-325965), de 17 de Junho, o Instituto do Trabalho Portuário, abreviadamente designado por ITP, dotado de personalidade jurídica e de autonomia administrativa e financeira.
+Artigo 1.º - 1 - É criado, ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 340/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1978-325965), de 17 de Junho, o Instituto do Trabalho Portuário, abreviadamente designado por ITP, dotado de personalidade jurídica e de autonomia administrativa e financeira.
 
 2 - Na dependência directa do ITP funcionarão centros coordenadores de trabalho portuário (CCTP).
 
-###### Art. 2.º O ITP tem sede em Lisboa e exerce a sua acção em todo o território nacional.
+Art. 2.º O ITP tem sede em Lisboa e exerce a sua acção em todo o território nacional.
 
-###### Art. 3.º O Ministro dos Transportes e Comunicações é o Ministro da Tutela do ITP.
+Art. 3.º O Ministro dos Transportes e Comunicações é o Ministro da Tutela do ITP.
 
 ### CAPÍTULO II — Atribuições e competência
 
-###### Art. 4.º São atribuições do ITP:
+Art. 4.º São atribuições do ITP:
 
 a) Estudar e propor linhas de orientação e de política do trabalho portuário, a nível nacional, com vista à unificação, tanto quanto possível, do tratamento dos respectivos problemas em todos os portos nacionais;
 
@@ -140,7 +180,7 @@ b) Propor e promover a garantia da aplicação pelos CCTP de normas de disciplin
 
 c) Fomentar a criação pelos CCTP de serviços de medicina no trabalho, sociais, culturais e desportivos adequados aos trabalhadores portuários.
 
-###### Art. 5.º - 1 - Para o exercício das suas atribuições, compete ao ITP:
+Art. 5.º - 1 - Para o exercício das suas atribuições, compete ao ITP:
 
 a) Propor superiormente as medidas e a legislação adequada ao desempenho das suas funções;
 
@@ -160,7 +200,7 @@ g) Contactar quaisquer entidades nacionais, estrangeiras ou internacionais ligad
 
 ### CAPÍTULO III — Órgãos e serviços
 
-###### Art. 6.º São órgãos do ITP:
+Art. 6.º São órgãos do ITP:
 
 a) O conselho geral;
 
@@ -168,7 +208,7 @@ b) O conselho directivo;
 
 c) O conselho administrativo.
 
-###### Art. 7.º - 1 - O conselho geral é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
+Art. 7.º - 1 - O conselho geral é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
 
 a) Um representante do Ministério dos Transportes e Comunicações, presidente;
 
@@ -182,7 +222,7 @@ e) Sete representantes das associações de empregadores portuários.
 
 2 - Terão assento no conselho geral, sem direito a voto, os membros do conselho directivo do ITP e os presidentes da direcção dos CCTP.
 
-###### Art. 8.º Compete ao conselho geral:
+Art. 8.º Compete ao conselho geral:
 
 a) Apreciar e aprovar os planos de actividade, orçamento e relatórios anuais apresentados pelos conselhos directivo e administrativo;
 
@@ -192,7 +232,7 @@ c) Pronunciar-se sobre qualquer assunto que os conselhos directivo e administrat
 
 d) Acompanhar a actividade do ITP, podendo formular as propostas, sugestões ou recomendações que entenda convenientes, e bem assim pedidos de esclarecimento ou justificação aos conselhos directivo e administrativo.
 
-###### Art. 9.º - 1 - O conselho directivo é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
+Art. 9.º - 1 - O conselho directivo é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
 
 a) Um representante do Ministério dos Transportes e Comunicações, que presidirá;
 
@@ -202,7 +242,7 @@ c) Um representante das associações de empregadores portuários.
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, competirá aos Ministros dos Transportes e Comunicações e do Trabalho suprir a falta, se as entidades competentes se abstiverem de indicar o seu representante no prazo de trinta dias após serem solicitados a fazê-lo.
 
-###### Art. 10.º Compete ao conselho directivo:
+Art. 10.º Compete ao conselho directivo:
 
 a) Dirigir os serviços do ITP e tomar as medidas necessárias à prossecução dos seus fins;
 
@@ -216,7 +256,7 @@ e) Elaborar as normas internas necessárias ao adequado funcionamento dos seus s
 
 f) Representar o ITP.
 
-###### Art. 11.º - 1 - O conselho administrativo é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
+Art. 11.º - 1 - O conselho administrativo é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
 
 a) Um representante do Ministério dos Transportes e Comunicações, que presidirá;
 
@@ -226,13 +266,13 @@ c) Um representante das associações de empregadores portuários.
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, competirá aos Ministros dos Transportes e Comunicações e do Trabalho suprir a falta se as entidades competentes se abstiverem de indicar o seu representante no prazo de trinta dias após serem solicitados a fazê-lo.
 
-###### Art. 12.º Compete ao conselho administrativo:
+Art. 12.º Compete ao conselho administrativo:
 
 a) Elaborar e submeter à aprovação do conselho geral o relatório anual da actividade do ITP e a respectiva conta de gerência, bem como o orçamento para o ano seguinte;
 
 b) Fiscalizar a aplicação dos preceitos da contabilidade pública na gestão dos fundos do ITP.
 
-###### Art. 13.º - 1 - São serviços do ITP:
+Art. 13.º - 1 - São serviços do ITP:
 
 a) Os serviços administrativos;
 
@@ -242,15 +282,15 @@ c) Os serviços sociais.
 
 2 - Os serviços referidos no número anterior serão constituídos por secções a estabelecer pelo conselho directivo de acordo com o desenvolvimento gradual da actividade do ITP tendo em conta o tratamento das matérias prioritárias, no âmbito da reestruturação do trabalho portuário.
 
-###### Art. 14.º O ITP poderá criar estruturas descentralizadas, para o que nomeará delegados nos locais onde tal for necessário, designadamente junto dos centros coordenadores do trabalho portuário.
+Art. 14.º O ITP poderá criar estruturas descentralizadas, para o que nomeará delegados nos locais onde tal for necessário, designadamente junto dos centros coordenadores do trabalho portuário.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 15.º O pessoal do ITP é contratado ou assalariado e fica sujeito ao regime do contrato individual de trabalho, com as adaptações definidas em estatuto próprio aprovado por portaria conjunta dos Ministros dos Transportes e Comunicações e do Trabalho.
+Art. 15.º O pessoal do ITP é contratado ou assalariado e fica sujeito ao regime do contrato individual de trabalho, com as adaptações definidas em estatuto próprio aprovado por portaria conjunta dos Ministros dos Transportes e Comunicações e do Trabalho.
 
 ### CAPÍTULO V — Regime financeiro
 
-###### Art. 16.º Constituem receitas do ITP:
+Art. 16.º Constituem receitas do ITP:
 
 a) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações inscritas no Orçamento Geral do Estado;
 
@@ -262,15 +302,15 @@ d) O produto da venda de publicações;
 
 e) Quaisquer outras que legalmente lhe venham a ser atribuídas.
 
-###### Art. 17.º Constituem despesas do ITP todas as que resultem do exercício das suas funções.
+Art. 17.º Constituem despesas do ITP todas as que resultem do exercício das suas funções.
 
 ### CAPÍTULO VI — Centros coordenadores de trabalho portuário
 
-###### Art. 18.º - 1 - Os centros coordenadores de trabalho portuário serão criados por decreto regulamentar, que fixará a respectiva área de jurisdição, competência, composição dos órgãos, serviços e regime financeiro.
+Art. 18.º - 1 - Os centros coordenadores de trabalho portuário serão criados por decreto regulamentar, que fixará a respectiva área de jurisdição, competência, composição dos órgãos, serviços e regime financeiro.
 
 2 - Os CCTP são dotados de personalidade jurídica e de autonomia administrativa e financeira.
 
-###### Art. 19.º São atribuições dos CCTP coordenar, racionalizar e dinamizar os vários aspectos do trabalho portuário na respectiva área de jurisdição e, designadamente:
+Art. 19.º São atribuições dos CCTP coordenar, racionalizar e dinamizar os vários aspectos do trabalho portuário na respectiva área de jurisdição e, designadamente:
 
 a) Propor normas de actuação para o trabalho portuário, no quadro da regulamentação legal e dos instrumentos de regulamentação colectiva de trabalho aplicáveis;
 
@@ -278,7 +318,7 @@ b) Adoptar as medidas necessárias à progressiva melhoria dos aspectos organiza
 
 c) Promover as acções conducentes a uma correcta coordenação, organização técnica e racionalização dos vários aspectos do trabalho portuário.
 
-###### Art. 20.º - 1 - São órgãos dos CCTP:
+Art. 20.º - 1 - São órgãos dos CCTP:
 
 a) A direcção;
 
@@ -286,17 +326,17 @@ b) O conselho fiscal.
 
 2 - A direcção e o conselho fiscal são nomeados por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho.
 
-###### Art. 21.º O quadro e regime do pessoal necessário ao bom funcionamento dos serviços dos CCTP são fixados pela direcção, ouvido o ITP.
+Art. 21.º O quadro e regime do pessoal necessário ao bom funcionamento dos serviços dos CCTP são fixados pela direcção, ouvido o ITP.
 
-###### Art. 22.º É obrigatória a inscrição nos CCTP de todas as entidades empregadoras e de todos os trabalhadores que operem ou trabalhem na área de jurisdição desses centros.
+Art. 22.º É obrigatória a inscrição nos CCTP de todas as entidades empregadoras e de todos os trabalhadores que operem ou trabalhem na área de jurisdição desses centros.
 
-###### Art. 23.º Os CCTP exercerão, relativamente aos trabalhadores portuários não pertencentes aos quadros das entidades empregadoras, a acção disciplinar prevista na lei e nos respectivos instrumentos de regulamentação colectiva de trabalho.
+Art. 23.º Os CCTP exercerão, relativamente aos trabalhadores portuários não pertencentes aos quadros das entidades empregadoras, a acção disciplinar prevista na lei e nos respectivos instrumentos de regulamentação colectiva de trabalho.
 
-###### Art. 24.º No exercício das suas atribuições e competências, os CCTP cooperarão com as organizações sindicais e as entidades empregadoras e respectivas associações representativas, observando integralmente os direitos que a legislação lhes confere.
+Art. 24.º No exercício das suas atribuições e competências, os CCTP cooperarão com as organizações sindicais e as entidades empregadoras e respectivas associações representativas, observando integralmente os direitos que a legislação lhes confere.
 
 ### CAPÍTULO VII — Disposições transitórias
 
-###### Art. 25.º - 1 - A instalação do ITP ficará a cargo do primeiro conselho directivo.
+Art. 25.º - 1 - A instalação do ITP ficará a cargo do primeiro conselho directivo.
 
 2 - A instalação dos CCTP ficará a cargo da primeira direcção.
 
@@ -304,8 +344,8 @@ b) O conselho fiscal.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Manuel Maldonado Gonelha - Manuel Branco Ferreira Lima.
 
-**Promulgado em 14 de Junho de 1978.**
+Promulgado em 14 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

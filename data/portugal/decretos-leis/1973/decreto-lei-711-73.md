@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30200/25272529.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/711-1973-407942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39e36920bc3ae61513fc9c38a4b9de992983646c2c527d6ef2a8c285f3103db9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73e8dcce65b4ac0933dee719f01f5b60e1b6db285d8922655f1bed9ffeb7c2e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Militar
+- Pessoal Civil
+- Pessoal Navegante
+- Quadro não Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336167:por
+  label: "Aditado o nº4 ao art. 14º pelo DEC LEI.246/75.21.05.1975.CR, DG.IS [117] de 21.05.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1975-336167
+  date: '1975-05-21'
+- type: amended_by
+  target: pt:dre:314953:por
+  label: "Alterado o artigo 2.º do presente diploma, pelo Dec Lei.465/75.28.08.1975.CR, DG.IS [198] de 28.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/465-1975-314953
+  date: '1975-08-28'
+- type: cites
+  target: pt:dre:138821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310384:por
+  label: "Revogado o art. 24º pelo DEC LEI.630/75.14.11.1975.CR, DG.IS [264] de 14.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/630-1975-310384
+  date: '1975-11-14'
+- type: repealed_by
+  target: pt:dre:181630:por
+  label: "Revogado o artigo 2.º do presente diploma pelo Dec Lei.550-E/76.12.07.1976.CR, DR.IS [161-Supl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-e-1976-181630
+  date: '1976-07-12'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:58Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +152,7 @@ Considerando a necessidade de alterar os quadros do pessoal militar permanente p
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São introduzidas as seguintes alterações ao [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957:
+Artigo 1.º São introduzidas as seguintes alterações ao [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957:
 
 a) A alínea a) «Pilotos aviadores e pilotos navegadores» do artigo 5.º, I), «Oficiais», é substituída por:
 
@@ -108,7 +166,7 @@ a) Pilotos aviadores, pilotos e navegadores:
 
 b) O artigo 8.º passa a ter a seguinte redacção:
 
-###### Art. 8.º Sem prejuízo de graus hierárquicos mais elevados que outras disposições legais especialmente autorizem, o pessoal militar não permanente privativo da Força Aérea compreende os seguintes:
+Art. 8.º Sem prejuízo de graus hierárquicos mais elevados que outras disposições legais especialmente autorizem, o pessoal militar não permanente privativo da Força Aérea compreende os seguintes:
 
 I - Oficiais
 
@@ -146,85 +204,85 @@ a) Pilotos e navegadores:
 
 2) Navegadores.
 
-###### Art. 2.º São introduzidas as seguintes alterações. ao [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, modificado pelos Decretos-Leis n.os [409/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1970-138821), de 25 de Agosto, e [296/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1978-329184), de 14 de Agosto:
+Art. 2.º São introduzidas as seguintes alterações. ao [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, modificado pelos Decretos-Leis n.os [409/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1970-138821), de 25 de Agosto, e [296/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1978-329184), de 14 de Agosto:
 
 a) É extinto o quadro de oficiais pilotos navegadores constante do mapa I anexo ao diploma referido e, em sua substituição, são criados os quadros de oficiais pilotos e de oficiais navegadores.
 
 b) As colunas «Pilotos aviadores» e «Pilotos navegadores» do mapa I anexo ao mesmo diploma são substituídas pelas colunas com as designações e efectivos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30200/25272529.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30200/25272529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25272529.pdf)
 
 c) Os efectivos constantes da coluna «Pilotos» do mapa II anexo ao diploma mencionado passam a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30200/25272529.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30200/25272529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25272529.pdf)
 
-###### Art. 3.º - 1. Os cargos correspondentes aos oficiais generais, com excepção daqueles que a lei exclusivamente atribua a generais, serão fixados em portaria do Secretário de Estado da Aeronáutica.
+Art. 3.º - 1. Os cargos correspondentes aos oficiais generais, com excepção daqueles que a lei exclusivamente atribua a generais, serão fixados em portaria do Secretário de Estado da Aeronáutica.
 
 2. As promoções a tenente-coronel piloto aviador para preenchimento das vacaturas que se verifiquem neste posto para além do quantitativo de vinte e cinco serão reguladas pelo Secretário de Estado da Aeronáutica como ditado pelo conveniente equilíbrio do quadro.
 
-###### Art. 4.º Os oficiais do extinto quadro de pilotos navegadores transitam nos postos e com as antiguidades que possuírem para o quadro de pilotos ou para o quadro de navegadores conforme decisão do Secretário de Estado da Aeronáutica, ouvida a Comissão Técnica da Força Aérea.
+Art. 4.º Os oficiais do extinto quadro de pilotos navegadores transitam nos postos e com as antiguidades que possuírem para o quadro de pilotos ou para o quadro de navegadores conforme decisão do Secretário de Estado da Aeronáutica, ouvida a Comissão Técnica da Força Aérea.
 
 Quadro de oficiais pilotos
 
-###### Art. 5.º Os oficiais que ingressaram no quadro de pilotos navegadores na situação de supranumerários permanentes, nos termos do [Decreto-Lei n.º 48427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48427-1968-272389), de 11 de Junho de 1968, alterado pelo [Decreto-Lei n.º 531/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1970-147667), de 9 de Novembro, passam a ocupar vaga no quadro de pilotos em que são intercalados conforme os postos e as antiguidades que possuírem.
+Art. 5.º Os oficiais que ingressaram no quadro de pilotos navegadores na situação de supranumerários permanentes, nos termos do [Decreto-Lei n.º 48427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48427-1968-272389), de 11 de Junho de 1968, alterado pelo [Decreto-Lei n.º 531/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1970-147667), de 9 de Novembro, passam a ocupar vaga no quadro de pilotos em que são intercalados conforme os postos e as antiguidades que possuírem.
 
-###### Art. 6.º - 1. O ingresso ulterior no quadro de oficiais pilotos faz-se no posto de alferes por promoção, mediante vacatura, de oficiais milicianos pilotos, sargentos-ajudantes pilotos e sargentos milicianos pilotos que tenham completado o curso de formação de oficial piloto, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
+Art. 6.º - 1. O ingresso ulterior no quadro de oficiais pilotos faz-se no posto de alferes por promoção, mediante vacatura, de oficiais milicianos pilotos, sargentos-ajudantes pilotos e sargentos milicianos pilotos que tenham completado o curso de formação de oficial piloto, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
 2. A antiguidade de alferes dos oficiais a que respeita o n.º 1 é referida à data em que ocorreu a vacatura ou, no caso de esta ser anterior, à data em que concluíram o curso de formação de oficial piloto.
 
 3. Os tenentes e capitães milicianos que concluam com aproveitamento o curso de formação de oficial piloto são graduados no seu posto quando do ingresso no quadro e mantêm essa graduação até lhes pertencer a promoção a esse posto.
 
-###### Art. 7.º A organização do curso de formação de oficial piloto e as condições de admissão à sua frequência são estabelecidas em portarias do Secretário de Estado da Aeronáutica.
+Art. 7.º A organização do curso de formação de oficial piloto e as condições de admissão à sua frequência são estabelecidas em portarias do Secretário de Estado da Aeronáutica.
 
-###### Art. 8.º - 1. São promovidos por diuturnidade a capitão os tenentes do quadro de oficiais pilotos que completem cinco anos de permanência no posto.
+Art. 8.º - 1. São promovidos por diuturnidade a capitão os tenentes do quadro de oficiais pilotos que completem cinco anos de permanência no posto.
 
 2. Os tenentes que tenham sido transferidos do quadro de oficiais pilotos ao abrigo do artigo 45.º do [Decreto n.º 377/71](https://diariodarepublica.pt/dr/detalhe/decreto/377-1971-630650), de 10 de Setembro, por perda de aptidão física ou psíquica, que competente junta de saúde comprove ser resultante de acidente ocorrido ou doença adquirida no serviço ou por motivo do mesmo, são graduados no posto de capitão, enquanto não lhes competir a promoção pela escala do quadro em que se encontram, quando contarem cinco anos de permanência no posto de tenente e tiverem satisfeito as restantes condições especiais de promoção relativas ao novo quadro, podendo, contudo, tais condições ser substituídas total ou parcialmente, conforme os casos, pelas já realizadas no quadro de origem.
 
-###### Art. 9.º As condições especiais de promoção e as funções dos oficiais pilotos são as estabelecidas no Estatuto do Oficial da Força Aérea para o extinto quadro de oficiais pilotos navegadores, com os ajustamentos indispensáveis a publicar nos termos do artigo 211.º do mesmo.
+Art. 9.º As condições especiais de promoção e as funções dos oficiais pilotos são as estabelecidas no Estatuto do Oficial da Força Aérea para o extinto quadro de oficiais pilotos navegadores, com os ajustamentos indispensáveis a publicar nos termos do artigo 211.º do mesmo.
 
-###### Art. 10.º - 1. Os oficiais do quadro de pilotos têm funções e limites de idade para passagem à situação de reserva iguais aos fixados no Estatuto do Oficial da Força Aérea relativamente aos oficiais do extinto quadro de pilotos navegadores.
+Art. 10.º - 1. Os oficiais do quadro de pilotos têm funções e limites de idade para passagem à situação de reserva iguais aos fixados no Estatuto do Oficial da Força Aérea relativamente aos oficiais do extinto quadro de pilotos navegadores.
 
 2. Aos mesmos oficiais é devida gratificação por serviço aéreo nos quantitativos e condições em que é abonada aos oficiais pilotos aviadores.
 
-###### Art. 11.º Os oficiais do quadro de pilotos que tenham prestado um mínimo de oito anos de serviço efectivo na Força Aérea como oficial dos quadros permanentes terão passagem ao complemento se o requererem.
+Art. 11.º Os oficiais do quadro de pilotos que tenham prestado um mínimo de oito anos de serviço efectivo na Força Aérea como oficial dos quadros permanentes terão passagem ao complemento se o requererem.
 
-###### Art. 12.º As disposições do Estatuto do Oficial da Força Aérea são aplicáveis aos oficiais do quadro de pilotos, sem prejuízo das constantes deste decreto-lei.
+Art. 12.º As disposições do Estatuto do Oficial da Força Aérea são aplicáveis aos oficiais do quadro de pilotos, sem prejuízo das constantes deste decreto-lei.
 
 Quadro de oficiais navegadores
 
-###### Art. 13.º - 1. Além dos oficiais referidos no artigo 4.º, os oficiais dos quadros técnicos qualificados como navegadores e actualmente no exercício das funções correspondentes que solicitem a transferência em prazo a fixar podem ser admitidos no quadro de navegadores por decisão do Secretário de Estado da Aeronáutica, ouvida a Comissão Técnica da Força Aérea.
+Art. 13.º - 1. Além dos oficiais referidos no artigo 4.º, os oficiais dos quadros técnicos qualificados como navegadores e actualmente no exercício das funções correspondentes que solicitem a transferência em prazo a fixar podem ser admitidos no quadro de navegadores por decisão do Secretário de Estado da Aeronáutica, ouvida a Comissão Técnica da Força Aérea.
 
 2. A intercalação dos oficiais a que respeita o número anterior na escala de antiguidade do quadro de navegadores é feita nos postos que possuírem e conforme as antiguidades de alferes.
 
-###### Art. 14.º - 1. O ingresso ulterior no quadro de oficiais navegadores faz-se no posto de alferes por promoção, mediante vacatura, de oficiais milicianos navegadores, oficiais milicianos pilotos, sargentos-ajudantes pilotos e sargentos milicianos pilotos que tenham completado o curso de formação de oficial navegador, ordenados por curso e, dentro de cada curso, pelas classificações nele obtidas.
+Art. 14.º - 1. O ingresso ulterior no quadro de oficiais navegadores faz-se no posto de alferes por promoção, mediante vacatura, de oficiais milicianos navegadores, oficiais milicianos pilotos, sargentos-ajudantes pilotos e sargentos milicianos pilotos que tenham completado o curso de formação de oficial navegador, ordenados por curso e, dentro de cada curso, pelas classificações nele obtidas.
 
 2. A antiguidade de alferes dos oficiais a que respeita o n.º 1 é referida à data em que ocorreu a vacatura ou, no caso de esta ser anterior, à data em que concluíram o curso de formação de oficial navegador.
 
 3. Os tenentes e capitães milicianos que concluam com aproveitamento o curso de formação de oficial navegador são graduados no seu posto, quando do ingresso no quadro, e mantêm essa graduação até lhes pertencer a promoção a esse posto.
 
-###### Art. 15.º A organização do curso de formação de oficial navegador e as condições de admissão à sua frequência são estabelecidas em portarias do Secretário de Estado da Aeronáutica.
+Art. 15.º A organização do curso de formação de oficial navegador e as condições de admissão à sua frequência são estabelecidas em portarias do Secretário de Estado da Aeronáutica.
 
-###### Art. 16.º - 1. São promovidos por diuturnidade a capitão os tenentes do quadro de oficiais navegadores que completem cinco anos de permanência no posto.
+Art. 16.º - 1. São promovidos por diuturnidade a capitão os tenentes do quadro de oficiais navegadores que completem cinco anos de permanência no posto.
 
 2. Os tenentes que tenham sido transferidos do quadro de oficiais navegadores ao abrigo do artigo 45.º do [Decreto n.º 377/71](https://diariodarepublica.pt/dr/detalhe/decreto/377-1971-630650), de 10 de Setembro, por perda de aptidão física ou psíquica que competente junta de saúde comprove ser resultante de acidente ocorrido ou doença adquirida no serviço ou por motivo do mesmo, são graduados no posto de capitão, enquanto não lhes competir a promoção pela escala do quadro em que se encontram, quando contarem cinco anos de permanência no posto de tenente e tiverem satisfeito as restantes condições especiais de promoção relativas ao novo quadro, podendo, contudo, tais condições ser substituídas total ou parcialmente, conforme os casos, pelas já realizadas no quadro de origem.
 
-###### Art. 17.º As condições especiais de promoção no quadro de oficiais navegadores são as estabelecidas no Estatuto do Oficial da Força Aérea para o extinto quadro de oficiais pilotos navegadores, exclusão feita às funções de pilotagem e salvo as excepções introduzidas pelo presente diploma.
+Art. 17.º As condições especiais de promoção no quadro de oficiais navegadores são as estabelecidas no Estatuto do Oficial da Força Aérea para o extinto quadro de oficiais pilotos navegadores, exclusão feita às funções de pilotagem e salvo as excepções introduzidas pelo presente diploma.
 
-###### Art. 18.º - 1. Os oficiais do quadro de navegadores têm funções e limites de idade para passagem à situação de reserva iguais aos fixados no Estatuto do Oficial da Força Aérea relativamente aos oficiais do extinto quadro de pilotos navegadores.
+Art. 18.º - 1. Os oficiais do quadro de navegadores têm funções e limites de idade para passagem à situação de reserva iguais aos fixados no Estatuto do Oficial da Força Aérea relativamente aos oficiais do extinto quadro de pilotos navegadores.
 
 2. Aos mesmos oficiais é devida a gratificação por serviço aéreo nas condições em que era abonada aos oficiais do extinto quadro de pilotos navegadores.
 
-###### Art. 19.º Os oficiais do quadro de navegadores que tenham prestado um mínimo de oito anos de serviço efectivo na Força Aérea como oficial dos quadros permanentes terão passagem ao complemento se o requererem.
+Art. 19.º Os oficiais do quadro de navegadores que tenham prestado um mínimo de oito anos de serviço efectivo na Força Aérea como oficial dos quadros permanentes terão passagem ao complemento se o requererem.
 
-###### Art. 20.º As disposições do Estatuto do Oficial da Força Aérea são aplicáveis aos oficiais do quadro de navegadores, sem prejuízo das constantes deste decreto-lei.
+Art. 20.º As disposições do Estatuto do Oficial da Força Aérea são aplicáveis aos oficiais do quadro de navegadores, sem prejuízo das constantes deste decreto-lei.
 
 Quadro de sargentos pilotos
 
-###### Art. 21.º - 1. Podem ingressar no quadro de sargentos pilotos os segundos-sargentos ou furriéis pilotos milicianos que o requeiram ao chefe do Estado-Maior da Força Aérea e se tenham mantido na efectividade de serviço com boas informações.
+Art. 21.º - 1. Podem ingressar no quadro de sargentos pilotos os segundos-sargentos ou furriéis pilotos milicianos que o requeiram ao chefe do Estado-Maior da Força Aérea e se tenham mantido na efectividade de serviço com boas informações.
 
 2. Excepcionalmente; podem ainda ser autorizados a ingressar no mesmo quadro os sargentos milicianos pilotos na disponibilidade com menos de 27 anos de idade em 1 de Janeiro do ano civil de ingresso e boas informações.
 
-###### Art. 22.º - 1. O ingresso no quadro de sargentos pilotos faz-se, mediante vacatura:
+Art. 22.º - 1. O ingresso no quadro de sargentos pilotos faz-se, mediante vacatura:
 
 a) Definitivamente, no posto de primeiro-sargento, para os candidatos admitidos com quatro ou mais anos de serviço efectivo na Força Aérea, contados a partir do início da preparação militar;
 
@@ -232,26 +290,26 @@ b) A título provisório, como primeiros-sargentos graduados, para os candidatos
 
 2. Os militares de que trata a alínea b) do n.º 1 ingressam definitivamente no quadro de sargentos pilotos, pela promoção a primeiro-sargento, se completarem o tempo mínimo de serviço referido na alínea a) do mesmo número com boas informações e regressam ao posto e situação que tinham antes do ingresso provisório no caso contrário.
 
-###### Art. 23.º - 1. Os sargentos e furriéis milicianos graduados ou promovidos a primeiro-sargento para o quadro de sargentos pilotos são inicialmente ordenados pelos postos e antiguidades que possuírem.
+Art. 23.º - 1. Os sargentos e furriéis milicianos graduados ou promovidos a primeiro-sargento para o quadro de sargentos pilotos são inicialmente ordenados pelos postos e antiguidades que possuírem.
 
 2. A antiguidade no posto ou graduação de primeiro-sargento é referida ao dia 1 do mês seguinte àquele em que se verificar o ingresso no quadro.
 
 3. A antiguidade dos primeiros-sargentos que ingressem definitivamente no quadro nas condições do n.º 2 do artigo 22.º é a da respectiva graduação.
 
-###### Art. 24.º - 1. São promovidos por diuturnidade a sargento-ajudante os primeiros-sargentos do quadro de sargentos pilotos que completem quatro anos de permanência no posto e satisfaçam às restantes condições de promoção.
+Art. 24.º - 1. São promovidos por diuturnidade a sargento-ajudante os primeiros-sargentos do quadro de sargentos pilotos que completem quatro anos de permanência no posto e satisfaçam às restantes condições de promoção.
 
 2. O tempo de permanência referida no n.º 1 é contado a partir da data de antiguidade no posto ou graduação de primeiro-sargento.
 
-###### Art. 25.º - 1. Os sargentos pilotos do quadro permanente terão passagem ao complemento desde que o requeiram e tenham prestado um mínimo de oito a dez anos de serviço efectivo na Força Aérea, a partir do início da preparação militar.
+Art. 25.º - 1. Os sargentos pilotos do quadro permanente terão passagem ao complemento desde que o requeiram e tenham prestado um mínimo de oito a dez anos de serviço efectivo na Força Aérea, a partir do início da preparação militar.
 
 2. O tempo de serviço dentro dos limites estabelecidos no número anterior é fixado para cada caso por despacho do Secretário de Estado da Aeronáutica, atentos os serviços prestados e as necessidades da Força Aérea.
 
-###### Art. 26.º É revogado o [Decreto-Lei n.º 48427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48427-1968-272389), de 11 de Junho de 1968, alterado pelo [Decreto-Lei n.º 531/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1970-147667), de 9 de Novembro.
+Art. 26.º É revogado o [Decreto-Lei n.º 48427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48427-1968-272389), de 11 de Junho de 1968, alterado pelo [Decreto-Lei n.º 531/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1970-147667), de 9 de Novembro.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 28 de Dezembro de 1973.**
+Promulgado em 28 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -50,40 +50,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46362-1965-294372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 004dc68241c86ae4b40162db8e503c7234c0f8a58499290e4d67a43ef697d966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 561e3bb5145aaf8c1974c9f15a8a7367826753627519ae97d2af33e2e5b18bad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Importação
+- Isenção Fiscal
+- Pauta Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:272245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272245:por
+  label: "Prorrogado até 31.12.1969 o prazo de importação, com isenção de direitos, das peças mencionadas no art. 1º do presente\
+    \ diploma, pelo DEC LEI.48441.21.06.1968.MF, DG.IS [146] de 21.06.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48441-1968-272245
+  date: '1968-06-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:29Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +104,14 @@ Considerando o que informou o Ministério da Economia;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 3.º São isentas de direitos de importação as peças de bombas automáticas (automedidoras) para combustíveis líquidos e lubrificantes, importadas até 31 de Dezembro de 1966 pelos fabricantes nacionais desse tipo de bombas, para aplicação exclusiva na produção das que, de acordo com planos superiormente aprovados, sejam fabricadas até 31 de Dezembro de 1967.
+Artigo 3.º São isentas de direitos de importação as peças de bombas automáticas (automedidoras) para combustíveis líquidos e lubrificantes, importadas até 31 de Dezembro de 1966 pelos fabricantes nacionais desse tipo de bombas, para aplicação exclusiva na produção das que, de acordo com planos superiormente aprovados, sejam fabricadas até 31 de Dezembro de 1967.
 
-###### Art. 2.º Os fabricantes deverão registar, em livros próprios, as quantidades de peças importadas e o número de bombas fabricadas, facultando ao exame da fiscalização aduaneira todos os elementos necessários à averiguação da respectiva aplicação e à conferência das existências.
+Art. 2.º Os fabricantes deverão registar, em livros próprios, as quantidades de peças importadas e o número de bombas fabricadas, facultando ao exame da fiscalização aduaneira todos os elementos necessários à averiguação da respectiva aplicação e à conferência das existências.
 
-###### Art. 3.º São igualmente isentas de direitos de importação as bombas automáticas (automedidoras) completas, importadas desmontadas, bem como as peças deste tipo de bombas, cujos direitos se encontram garantidos à data da entrada em vigor do presente diploma, quando importadas pelos fabricantes nacionais a que alude o artigo 1.º
+Art. 3.º São igualmente isentas de direitos de importação as bombas automáticas (automedidoras) completas, importadas desmontadas, bem como as peças deste tipo de bombas, cujos direitos se encontram garantidos à data da entrada em vigor do presente diploma, quando importadas pelos fabricantes nacionais a que alude o artigo 1.º
 
-###### Art. 4.º As peças de bombas importadas ao abrigo do presente diploma quando desviadas da aplicação prevista nos artigos 1.º e 3.º consideram-se descaminhadas aos direitos que lhes competiriam de acordo com a respectiva pauta.
+Art. 4.º As peças de bombas importadas ao abrigo do presente diploma quando desviadas da aplicação prevista nos artigos 1.º e 3.º consideram-se descaminhadas aos direitos que lhes competiriam de acordo com a respectiva pauta.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

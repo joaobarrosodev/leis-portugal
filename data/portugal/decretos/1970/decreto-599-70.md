@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/599-1970-146960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1de60cd460ea2e154340b16d88088b82386292d3a8803326619e47daeb338440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430abbe249a7e4356a8f1377b88947eff88856d6cb42fb7c442bb2b5e0d12d61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:148382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:35Z'
   warnings: []
   errors: []
 ---
@@ -90,14 +94,14 @@ Com fundamento no artigo 5.º do [Decreto-Lei n.º 469/70](https://diariodarepub
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial no montante de 401350000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 41.º «Pagamento de serviços e diversos encargos», capítulo 3.º, do vigente orçamento do segundo dos mencionados Ministérios.
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial no montante de 401350000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 41.º «Pagamento de serviços e diversos encargos», capítulo 3.º, do vigente orçamento do segundo dos mencionados Ministérios.
 
-###### Art. 2.º Para compensação do crédito previsto no artigo anterior é adicionada igual quantia à verba inscrita no capítulo 8.º, artigo 250.º «Fundo Especial de Transportes Terrestres», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito previsto no artigo anterior é adicionada igual quantia à verba inscrita no capítulo 8.º, artigo 250.º «Fundo Especial de Transportes Terrestres», do actual orçamento das receitas do Estado.
 
 Marcello Caetano - João Augusto Dias Rosas - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 24 de Novembro de 1970.**
+Promulgado em 24 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

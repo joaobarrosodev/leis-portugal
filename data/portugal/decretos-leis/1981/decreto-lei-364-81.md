@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1981, 6º Suplemento, Série I de 1981-12-31
   number: '300'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 3414-(127) a 3414-(178)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,154 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1981-144414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a610fa62f61296934014c0bf086d059d5c03660eae56b57294af649bcf08891
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d017484194abaf9fc490cd86817a60a1ea4c4f71ce0e19f2a19f0ff1aeaeb4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Execução do Orçamento
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:600689:por
+  label: Rectificado pela DECL 5924.01.02.1982.PCM, DR.IS [38] de 15.02.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-600689
+  date: '1982-02-01'
+- type: corrected_by
+  target: pt:dre:607529:por
+  label: Rectificado pelo DECL.DD3323.1982.03.31.PCM DR.IS [89] DE 17/ABR/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-607529
+  date: '1982-03-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:21Z'
   warnings: []
   errors: []
 ---
@@ -500,7 +614,7 @@ Relativamente à dívida garantida, prevê-se no artigo 7.º da Lei do Orçament
 
 26. As verbas inscritas no Orçamento Geral do Estado que têm por destino o financiamento das actividades das autarquias locais atingem este ano o montante de 42564 milhares de contos.
 
-# Parte substancial daquele valor (40300 milhares de contos) resulta da aplicação da Lei das Finanças Locais, isto é, respeita às receitas previstas nas alíneas b) e c) do artigo 5.º daquela Lei.
+Parte substancial daquele valor (40300 milhares de contos) resulta da aplicação da Lei das Finanças Locais, isto é, respeita às receitas previstas nas alíneas b) e c) do artigo 5.º daquela Lei.
 
 Para financiamento dos investimentos intermunicipais inscrevem-se no programa de investimentos do Plano 1500 milhares de contos.
 
@@ -654,13 +768,13 @@ QUADRO I
 
 Contas do sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO II
 
 Resultados da Conta Geral do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 Nota. - A partir de 1978 os valores da despesa passaram a incluir as despesas dos Serviços Médico-Sociais, anteriormente a cargo da Previdência. Em 1980 os valores da receita e despesa integram, pela primeira vez, os resultados orçamentais do Fundo de Desemprego, incluídos em «Contas de ordem».
 
@@ -668,7 +782,7 @@ QUADRO IIII
 
 Receitas fiscais do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO IV
 
@@ -676,23 +790,23 @@ Contas nacionais do sector público administrativo
 
 Ano de 1981 (estimativa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO V
 
 Evolução das despesas do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO VI
 
 Dívida pública directa e encargos da dívida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO VIII
 
@@ -700,25 +814,25 @@ Contas nacionais do sector público administrativo
 
 Ano: 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO IX
 
 Síntese do Orçamento Geral do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO X
 
 Receitas orçamentais efectivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XI
 
 Receitas fiscais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XII
 
@@ -726,7 +840,7 @@ Despesas orçamentais
 
 Classificação orgânica (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 (nota a) Nos termos do [Decreto-Lei n.º 290/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1981-561817), de 14 de Outubro, indicando para 1981 as despesas correspondentes.
 
@@ -734,7 +848,7 @@ QUADRO XIII
 
 Classificação económica das despesas públicas (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 (nota a) Classificação económica de acordo com a legislação em vigor: [Decreto-Lei n.º 737/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-1976-409569), de 16 de Outubro, e despacho do Ministro das Finanças publicado na mesma data.
 
@@ -744,7 +858,7 @@ Despesas orçamentais
 
 Classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XV
 
@@ -752,31 +866,31 @@ Investimentos e despesas de desenvolvimento da administração central incluído
 
 Por fontes de financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XVI
 
 Financiamento do défice orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XVII
 
 Dívida pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XVIII
 
 Orçamento da administração local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XIX
 
 Orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XX
 
@@ -784,7 +898,7 @@ Região Autónoma dos Açores
 
 Comparticipação do Orçamento Geral do Estado no financiamento de investimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XXI
 
@@ -792,13 +906,13 @@ Região Autónoma da Madeira
 
 Comparticipação do Orçamento Geral do Estado no financiamento de investimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XXII
 
 Orçamento dos serviços autónomos para 1982 (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 (nota a) Segundo a metodologia da contabilidade pública.
 
@@ -806,7 +920,7 @@ QUADRO XXIII
 
 Orçamento dos fundos autónomos para 1982 (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 (nota a) Segundo a metodologia da contabilidade pública.
 
@@ -814,7 +928,7 @@ QUADRO XXIV
 
 Orçamento da segurança social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 QUADRO XXV
 
@@ -824,13 +938,13 @@ Orçamento do sector público administrativo
 
 Ano de 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 Em execução da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro:
 
 O Governo decreta, nos termos da alínea e) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Execução do Orçamento Geral do Estado)
 
@@ -838,7 +952,7 @@ O Governo decreta, nos termos da alínea e) do n.º 1 do artigo 201.º da Consti
 
 2 - Os mapas referidos no número anterior fazem parte integrante deste decreto-lei.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Utilização das dotações orçamentais)
 
@@ -854,13 +968,13 @@ O Governo decreta, nos termos da alínea e) do n.º 1 do artigo 201.º da Consti
 
 6 - No âmbito dos serviços civis, apenas o Instituto Geográfico e Cadastral fica autorizado a realizar despesas com fotografias aéreas, dadas as responsabilidades que, nessa área, lhe estão cometidas através do [Decreto-Lei n.º 513/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1980-462273), de 28 de Outubro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Orçamentos privativos)
 
 Os orçamentos privativos dos serviços e fundos autónomos e dos que se regem por orçamentos não incluídos no Orçamento Geral do Estado são aprovados pelo ministro da tutela e visados pelo Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Regime duodecimal)
 
@@ -878,13 +992,13 @@ c) De encargos fixos mensais, que se vençam em data certa ou que resultem da ex
 
 4 - Nos serviços com orçamentos privativos, a competência designada no número anterior pertence à entidade que aprovar o respectivo orçamento, sem necessidade de intervenção do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Eficácia, eficiência e pertinência das despesas)
 
 Compete às delegações da Direcção-Geral da Contabilidade Pública, no âmbito da sua específica acção liquidadora das despesas orçamentais e autorizadora do seu pagamento, proceder, com o maior rigor, a análise da utilidade social das despesas sujeitas à informação de cabimento prévio, nos domínios da eficácia, da eficiência e da pertinência.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Contenção de despesas)
 
@@ -910,7 +1024,7 @@ d) As dotações destinadas a «Aquisição de serviços - Locação de bens».
 
 3 - O Ministro de Estado e das Finanças e do Plano poderá autorizar a utilização de maior percentagem das dotações referidas no n.º 1 mediante processos devidamente justificados pelos serviços e informados pelas respectivas delegações da Direcção-Geral da Contabilidade Pública e previamente autorizados pelos ministros da tutela.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Fundos permanentes)
 
@@ -918,7 +1032,7 @@ d) As dotações destinadas a «Aquisição de serviços - Locação de bens».
 
 2 - Mediante autorização do ministro da pasta, em casos especiais devidamente fundamentados e com o acordo do Ministro de Estado e das Finanças e do Plano, poderão ser constituídos fundos permanentes por importâncias superiores a 1 duodécimo, em conta das correspondentes dotações orçamentais, devendo ser repostos nos cofres do Estado, até 14 de Fevereiro seguinte, os saldos que porventura se verifiquem no final do ano económico.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Requisição de fundos)
 
@@ -930,7 +1044,7 @@ d) As dotações destinadas a «Aquisição de serviços - Locação de bens».
 
 4 - As delegações da Direcção-Geral da Contabilidade Pública não poderão autorizar, para pagamento, as requisições e outros documentos de levantamentos de fundos dos cofres do Estado que, em face dos elementos referidos nos n.os 2 e 3, se mostrem desnecessários.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Aquisição de veículos com motor)
 
@@ -938,13 +1052,13 @@ d) As dotações destinadas a «Aquisição de serviços - Locação de bens».
 
 2 - As referidas propostas, depois de aprovadas pelo ministro da tutela, serão submetidas à Direcção-Geral do Património do Estado, que, com o seu parecer, as apresentará à apreciação do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Alterações ao Orçamento Geral do Estado)
 
 Os pedidos de alterações orçamentais serão apresentados, nos casos em que seja justificada a sua imprescindibilidade, e nos termos do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, à correspondente delegação da Direcção-Geral da Contabilidade Pública, a qual apenas dará seguimento aos que se apresentarem com adequada contrapartida ou, no caso de esta faltar, desde que se verifique terem sido esgotadas todas as possibilidades de a conseguir nas verbas do respectivo orçamento.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Alteração de determinados prazos para autorização de despesas)
 
@@ -960,13 +1074,13 @@ b) Todas as operações a cargo daquelas delegações terão lugar até 16 de Ja
 
 c) Em 31 de Janeiro de 1983 será encerrada, com referência a 31 de Dezembro anterior, a conta corrente do Tesouro Público no Banco de Portugal, como caixa geral do Estado, caducando as autorizações que até essa data não se tenham efectivado, devendo os restantes cofres públicos proceder da mesma forma.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Alteração da data para remessa das tabelas de entrada e saída de fundos relativos ao último mês do ano económico)
 
 As tabelas de entrada e saída de fundos relativos ao mês de Dezembro de 1982 deverão ser enviadas pelos diversos cofres públicos à Direcção-Geral da Contabilidade Pública até ao dia 15 de Fevereiro seguinte.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Reposição de verbas recebidas directa ou indirectamente do Orçamento Geral do Estado e não aplicadas por serviços com autonomia administrativa e com autonomia administrativa e financeira.)
 
@@ -978,7 +1092,7 @@ As tabelas de entrada e saída de fundos relativos ao mês de Dezembro de 1982 d
 
 4 - Enquanto não demonstrarem, junto das correspondentes delegações de contabilidade, que observaram o disposto no n.º 1, não poderão os serviços ser autorizados, a partir de 1 de Março, a efectuar quaisquer levantamentos em conta das dotações que lhes estão consignadas no Orçamento Geral do Estado.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Dotações para «Investimentos do Plano»)
 
@@ -988,43 +1102,43 @@ As tabelas de entrada e saída de fundos relativos ao mês de Dezembro de 1982 d
 
 3 - Os fundos e serviços autónomos, sem prejuízo de elaboração dos programas, a aprovar e a visar nos termos prescritos no n.º 1, só poderão aplicar as referidas dotações após a sua inclusão em orçamento privativo suplementar, sujeito à aprovação e visto das entidades competentes, o qual não contará para o limite estabelecido no n.º 1 do artigo 8.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Despesas com a integração ou requisição de adidos)
 
 As despesas com a integração ou requisição de pessoal do quadro geral de adidos continuarão a ser satisfeitas, em regra, em conta de verbas próprias dos serviços ou das autarquias locais que utilizarem esse pessoal.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Compromissos internacionais de natureza militar)
 
 De harmonia com os compromissos internacionais e para ocorrer a exigências de natureza militar, é acrescentada de 676536 contos a importância do Orçamento Geral do Estado corrigida pelo artigo 16.º do [Decreto-Lei n.º 96-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-a-1981-406097), de 29 de Abril.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Participação financeira nos investimentos das regiões autónomas)
 
 A verba descrita no capítulo 60.º do orçamento do Ministério das Finanças e do Plano, destinada a participação financeira nos investimentos das regiões autónomas, só pode ser aplicada mediante despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Subsídios a empresas)
 
 Depende de resolução do Conselho de Ministros, sob proposta conjunta do ministro da tutela e do Ministro de Estado e das Finanças e do Plano, a concessão, no decurso do corrente ano económico, de subsídios a empresas que não se encontrem individualizadas como entidades recebedoras do Orçamento Geral do Estado.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Dotações para encargos com os tribunais do trabalho)
 
 As despesas de funcionamento das secretarias judiciais dos tribunais do trabalho, excluídas as de abonos aos respectivos magistrados, passam, a partir de 1 de Janeiro de 1982 e até que se promulgue legislação que altere o regime actualmente em vigor, a ser suportadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, independentemente dos anos económicos a que pertencerem os encargos a satisfazer.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Despesas de representação do Ministério dos Negócios Estrangeiros)
 
 Durante o ano de 1982, a fixação dos quantitativos para despesas de representação do Ministério dos Negócios Estrangeiros continuará a carecer de aprovação do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Despesas com a cooperação com os novos Estados independentes e Macau)
 
@@ -1034,7 +1148,7 @@ Durante o ano de 1982, a fixação dos quantitativos para despesas de representa
 
 3 - É vedado a todos os serviços do Estado, independentemente do seu grau de autonomia, o desenvolvimento de quaisquer acções de cooperação com os países e territórios referidos no n.º 1 que não constem do aludido programa e que não sejam cobertas pela referida dotação.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Regime especial de despesas na Secretaria de Estado do Turismo)
 
@@ -1042,7 +1156,7 @@ Durante o ano de 1982, a fixação dos quantitativos para despesas de representa
 
 2 - O conselho administrativo da Direcção-Geral referida no número anterior será constituído por despacho do Secretário de Estado do Turismo.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Regime especial de despesas no Ministério da Indústria, Energia e Exportação)
 
@@ -1050,7 +1164,7 @@ Durante o ano de 1982, a fixação dos quantitativos para despesas de representa
 
 2 - As receitas cobradas provenientes da actualização de taxas respeitantes aos serviços do Ministério da Indústria, Energia e Exportação, nomeadamente das delegações regionais, Direcção-Geral de Geologia e Minas, Direcção-Geral de Energia, Direcção-Geral da Qualidade, Laboratório Nacional de Engenharia e Tecnologia Industrial e Instituto de Apoio às Pequenas e Médias Empresas Industriais, servirão de contrapartida às despesas a realizar de conta da verba inscrita no orçamento vigente no cap. 01, C.E. 44.09, alínea D) «Fomento à exportação, indústria e reconversão do plano energético».
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Dotações comuns para vencimentos do pessoal docente)
 
@@ -1060,7 +1174,7 @@ Durante o ano de 1982, a fixação dos quantitativos para despesas de representa
 
 3 - À Direcção-Geral de Educação de Adultos compete prestar informações de cabimento nos diplomas de nomeação dos regentes de cursos de educação de adultos.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Verbas para obras a efectuar pela Direcção-Geral dos Edifícios e Monumentos Nacionais)
 
@@ -1068,25 +1182,25 @@ Durante o ano de 1982, a fixação dos quantitativos para despesas de representa
 
 2 - Os processos de adjudicação serão submetidos, para a verificação de cabimento, aos serviços beneficiários das obras, a quem a Direcção-Geral dos Edifícios e Monumentos Nacionais também enviará os documentos de despesa, para efeitos de processamento.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Dotações para encargos com serviços extintos no Ministério da Habitação e Obras Públicas)
 
 As despesas com as extintas Direcções-Gerais de Coordenação das Empresas de Construção Civil, de Coordenação de Projectistas e Consultores e das Indústrias para a Construção Civil serão satisfeitas, no decurso do ano de 1982, pelas dotações consignadas ao Instituto da Construção, até à prevista integração neste organismo.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Regime de despesas dos serviços da antiga Secretaria de Estado da Comunicação Social)
 
 Os serviços da antiga Secretaria de Estado da Comunicação Social, até à sua reestruturação orgânica, continuarão a actuar, em tudo o que se relacione com as suas despesas, como serviço sem autonomia administrativa, com prejuízo do preceituado nos artigos 18.º e 19.º do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915), de 24 de Novembro de 1944.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Dotações comuns para os órgãos e serviços externos da Direcção-Geral de Apoio Médico, do Ministério da Qualidade de Vida)
 
 As dotações consignadas aos centros de medicina desportiva, até à sua reestruturação orgânica, serão utilizadas por cada um dos organismos, mediante a constituição de fundos permanentes, nos termos do artigo 24.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Criação de adicionais)
 
@@ -1100,7 +1214,7 @@ a) 10% sobre:
 
 b) 15% sobre o imposto sobre as sucessões e doações relativo às transmissões operadas durante o ano de 1982, a partir do primeiro dia desse ano posterior à publicação deste diploma.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Benefícios fiscais relativos aos contratos de viabilização e acordos de saneamento económico-financeiro)
 
@@ -1108,19 +1222,19 @@ b) 15% sobre o imposto sobre as sucessões e doações relativo às transmissõe
 
 2 - São alargados às empresas públicas que celebrem, até 31 de Dezembro de 1982, acordos de saneamento económico-financeiro ao abrigo do [Decreto-Lei n.º 353-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-c-1977-240848), de 29 de Agosto, os benefícios fiscais indicados no número anterior para as empresas que celebrem contratos de viabilização.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Benefícios fiscais relativos às empresas assistidas pela Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L.)
 
-**O Ministro de Estado e das Finanças e do Plano poderá, durante o ano de 1982 e até à publicação da lei prevista no artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., entre os benefícios fiscais previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.**
+O Ministro de Estado e das Finanças e do Plano poderá, durante o ano de 1982 e até à publicação da lei prevista no artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., entre os benefícios fiscais previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Sobretaxa de importação)
 
 Manter-se-á em vigor até 31 de Dezembro de 1982 a sobretaxa de importação criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, com as alterações já introduzidas ou a introduzir nele e nos seus anexos.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Imposto extraordinário sobre as despesas menos essenciais das empresas)
 
@@ -1144,7 +1258,7 @@ d) Despesas com rendas e alugueres de imóveis não adstritos ao exercício da a
 
 6 - Dentro do prazo de 30 dias a contar da publicação deste diploma será publicado o respectivo regulamento.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Finanças locais)
 
@@ -1154,19 +1268,19 @@ d) Despesas com rendas e alugueres de imóveis não adstritos ao exercício da a
 
 3 - As verbas a transferir para os municípios relativamente a comparticipações do Orçamento Geral do Estado devidas em 1982 e correspondentes a compromissos assumidos até 1978 constantes do mapa anexo n.º 4 serão transferidas nos termos a definir por despacho do Ministro da Administração Interna.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Actualização de valores previstos no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro)
 
 Os valores a efectuar de conta das dotações orçamentais destinadas a «Bens duradouros» e «Investimentos» referidos no artigo 5.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro, são elevados para 250 contos e 25000 contos, respectivamente.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Resolução de dúvidas)
 
 As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Entrada em vigor)
 
@@ -1174,29 +1288,29 @@ O presente diploma entra em vigor na data do início da vigência da [Lei n.º 4
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1981. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 31 de Dezembro de 1981.**
+Promulgado em 31 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO 1 — Mapa das receitas previstas para 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 ## ANEXO 2 — Mapa das despesas fixadas para 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 ## ANEXO 3 — Orçamento Geral do Estado
 
 Resumo, por objectivos finais, das despesas do ano de 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 ## ANEXO 4 — Mapa das receitas para 1982 a que se refere o n.º 1 do artigo 34.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30006/01270178.pdf)
 
 ## ANEXO 5 — Mapa das comparticipações do OGE para 1982 a que se referem os n.os 1 a 3 do artigo 34.º
 

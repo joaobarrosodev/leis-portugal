@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42985-1960-504363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 599d24fe61b4953e5d78f33fd9058aeb03e35ea524f7639bb8aa445d978d6b76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62634626a7adfc4677ea26d6015fd12e267c156d064e9c2563fd7f3b3863773d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações
+- Contrato de Concessão
+- CTT
+- Empresa Estrangeira
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585393:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:24Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +110,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com a companhia alemã Deutsche Atlantische Telegraphengesellschaft - DAT um novo contrato de concessão do cabo telegráfico submarino que liga Horta a Nacqueville, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
+Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com a companhia alemã Deutsche Atlantische Telegraphengesellschaft - DAT um novo contrato de concessão do cabo telegráfico submarino que liga Horta a Nacqueville, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
-## Anexo ao Decreto-Lei n.º 42985
+Anexo ao Decreto-Lei n.º 42985
 
 Termo do contrato de concessão a celebrar entre o Governo Português e a Deutsche Atlantische Telegraphengesellschaft - DAT
 
-###### Artigo 1.º O cabo telegráfico submarino, de cinco canais, pertencente à companhia alemã Deutsche Atlantische Telegraphengesellschaft - DAT, ligando Horta a Nacqueville, bem como as instalações acessórias do mesmo cabo e a estação existente na Horta, continuarão a trabalhar em cooperação com os serviços telegráficos dos CTT ou com os de outras concessionárias de telecomunicações para tanto devidamente autorizadas.
+Artigo 1.º O cabo telegráfico submarino, de cinco canais, pertencente à companhia alemã Deutsche Atlantische Telegraphengesellschaft - DAT, ligando Horta a Nacqueville, bem como as instalações acessórias do mesmo cabo e a estação existente na Horta, continuarão a trabalhar em cooperação com os serviços telegráficos dos CTT ou com os de outras concessionárias de telecomunicações para tanto devidamente autorizadas.
 
 A presente concessão abrange apenas a exploração de dois canais do referido cabo, únicos que a companhia actualmente utiliza; os três restantes canais continuam afectos ao serviço das entidades oficiais americanas e a ser explorados em conjugação com os cabos de The Western Union Telegraph Company, nos termos do respectivo contrato de concessão. Uma vez, porém, que a DAT venha a explorar, no todo ou em parte, estes três últimos canais, a concessão passará a abranger o canal ou canais excedentes, nos termos e condições que vierem a ser estabelecidos em despacho de autorização do Ministro das Comunicações.
 
 § único. A DAT poderá prolongar o actual cabo com dois ou mais canais até Emden, na Alemanha, onde era anteriormente o seu ponto terminal, mediante prévia autorização dada em despacho do Ministro das Comunicações.
 
-###### Art. 2.º O presente contrato não dá à companhia qualquer exclusivo. O Governo Português reserva-se o direito de estabelecer e explorar, directamente ou mediante concessão, outros cabos submarinos ou quaisquer sistemas de telecomunicações que venham a interessar-lhe.
+Art. 2.º O presente contrato não dá à companhia qualquer exclusivo. O Governo Português reserva-se o direito de estabelecer e explorar, directamente ou mediante concessão, outros cabos submarinos ou quaisquer sistemas de telecomunicações que venham a interessar-lhe.
 
-###### Art. 3.º A amarração de novos cabos submarinos ou o estabelecimento de novas instalações da companhia em território português dependerá de prévia autorização do Governo dada em decreto-lei, ouvida a Administração-Geral dos Correios, Telégrafos e Telefones.
+Art. 3.º A amarração de novos cabos submarinos ou o estabelecimento de novas instalações da companhia em território português dependerá de prévia autorização do Governo dada em decreto-lei, ouvida a Administração-Geral dos Correios, Telégrafos e Telefones.
 
-###### Art. 4.º A rede da companhia referida no artigo 1.º poderá desempenhar serviços dos dois grupos seguintes:
+Art. 4.º A rede da companhia referida no artigo 1.º poderá desempenhar serviços dos dois grupos seguintes:
 
 Grupo I. - Constituído pelos telegramas originários de território português ou a este destinados.
 
@@ -122,7 +138,7 @@ Grupo II. - Constituído pelos restantes telegramas que utilizarem os cabos da c
 
 § único. A autorização referente à execução de serviços do grupo I é concedida sem prejuízo dos direitos de exclusivo usufruídos por outras concessionárias de telecomunicações e em vigor à data da assinatura do presente contrato.
 
-###### Art. 5.º No exercício da sua actividade, a companhia fica sujeita a observar as leis, regulamentos e instruções do serviço telegráfico de correspondência pública, bem como as convenções, regulamentos e acordos telegráficos que Portugal tiver assinado, e a pagar aos CTT as taxas terminais e outras que lhes forem devidas.
+Art. 5.º No exercício da sua actividade, a companhia fica sujeita a observar as leis, regulamentos e instruções do serviço telegráfico de correspondência pública, bem como as convenções, regulamentos e acordos telegráficos que Portugal tiver assinado, e a pagar aos CTT as taxas terminais e outras que lhes forem devidas.
 
 § 1.º As taxas a cobrar do público pelos telegramas a transmitir pela rede da companhia serão fixadas nos termos deste artigo, não podendo exceder as que estiverem aprovadas para outras vias da mesma relação telegráfica. Estas taxas devem ser uniformes para todos os pontos da metrópole, incluindo os Açores e Madeira, que constituirão, assim, uma zona única de tarifação.
 
@@ -136,13 +152,13 @@ A companhia compromete-se a diligenciar obter igual redução nas restantes rede
 
 § 4.º As relações da companhia com o público, no que respeita ao serviço telegráfico de transmissão ou recepção, devem estabelecer-se por intermédio das estações dos CTT. Podem, porém, efectuar-se directamente, ou por intermédio das estações de outras concessionárias, mediante prévia autorização do Governo.
 
-###### Art. 6.º A estação da companhia da Horta, se for autorizada a executar serviço do grupo I, deve ligar-se directamente à estação telegráfica do Estado da mesma localidade, podendo também, mediante prévia autorização do Ministro das Comunicações, ligar-se às de outras companhias concessionárias de telecomunicações.
+Art. 6.º A estação da companhia da Horta, se for autorizada a executar serviço do grupo I, deve ligar-se directamente à estação telegráfica do Estado da mesma localidade, podendo também, mediante prévia autorização do Ministro das Comunicações, ligar-se às de outras companhias concessionárias de telecomunicações.
 
 § 1.º Os sistemas eléctricos ou mecânicos utilizados na ligação da estação da companhia à estação do Estado serão sempre montados e mantidos pelos CTT a expensas da companhia.
 
 § 2.º As ligações da estação da companhia às de outras companhias concessionárias serão montadas e mantidas nos termos que forem acordados entre a companhia e aquelas concessionárias, com observância da legislação aplicável.
 
-###### Art. 7.º A companhia obriga-se a:
+Art. 7.º A companhia obriga-se a:
 
 1.º Prestar ao Estado, directamente ou por intermédio das concessionárias referidas no artigo 1.º, toda a cooperação para a permuta do serviço telegráfico entre o território português e o estrangeiro;
 
@@ -162,11 +178,11 @@ A companhia compromete-se a diligenciar obter igual redução nas restantes rede
 
 9.º Sujeitar-se à fiscalização exercida pelos agentes dos CTT sobre as instalações e o tráfego, obrigando-se, designadamente, a facilitar o acesso dos mesmos agentes a todas as instalações, a permitir o exame dos livros, papéis ou outros documentos de tráfego e a exibir, mediante requisição escrita dos mesmos agentes, os registos de tráfego, quer do grupo I, quer do grupo II, para efeitos de conferência.
 
-###### Art. 8.º Salvo o disposto no § único deste artigo, o pessoal técnico e de exploração da estação da companhia será de nacionalidade portuguesa, devendo a concessionária promover a sua instrução.
+Art. 8.º Salvo o disposto no § único deste artigo, o pessoal técnico e de exploração da estação da companhia será de nacionalidade portuguesa, devendo a concessionária promover a sua instrução.
 
 § único. O gerente, o chefe dos serviços electrotécnicos e o seu ajudante poderão ser estrangeiros. Em circunstâncias excepcionais, poderá o Governo, ouvido o parecer dos CTT e do Instituto Nacional do Trabalho e Previdência, autorizar a companhia a utilizar outro pessoal estrangeiro pelo tempo julgado indispensável para manter as suas instalações em perfeito funcionamento.
 
-###### Art. 9.º O Governo obriga-se a:
+Art. 9.º O Governo obriga-se a:
 
 1.º Dar facilidades para a manutenção ou substituição dos cabos da companhia dentro das águas territoriais portuguesas, de acordo com as leis e regulamentos nacionais e com os actos internacionais que tiver assinado;
 
@@ -180,11 +196,11 @@ A companhia compromete-se a diligenciar obter igual redução nas restantes rede
 
 6.º Isentar a actividade da companhia em território português do pagamento de quaisquer contribuições, impostos ou taxas, presentes ou futuros, não abrangidos pelo presente contrato.
 
-###### Art. 10.º O Governo, nos termos das leis, convenções e regulamentos aplicáveis, reserva-se a faculdade de suspender, por tempo indeterminado, o serviço telegráfico da rede da companhia, no todo ou em parte, e de mandar encerrar temporàriamente a estação da concessionária sempre que o interesse do Estado assim o exigir.
+Art. 10.º O Governo, nos termos das leis, convenções e regulamentos aplicáveis, reserva-se a faculdade de suspender, por tempo indeterminado, o serviço telegráfico da rede da companhia, no todo ou em parte, e de mandar encerrar temporàriamente a estação da concessionária sempre que o interesse do Estado assim o exigir.
 
-###### Art. 11.º O Governo não se responsabiliza pelos prejuízos sofridos pela companhia na exploração da sua rede por motivo da interrupção dos serviços telegráficos públicos determinada nos termos do artigo anterior.
+Art. 11.º O Governo não se responsabiliza pelos prejuízos sofridos pela companhia na exploração da sua rede por motivo da interrupção dos serviços telegráficos públicos determinada nos termos do artigo anterior.
 
-###### Art. 12.º A anuidade que a companhia se obriga a pagar pela licença de amarração referida no n.º 6.º do artigo 7.º é de 80000 francos-ouro (definição da Convenção Internacional das Telecomunicações).
+Art. 12.º A anuidade que a companhia se obriga a pagar pela licença de amarração referida no n.º 6.º do artigo 7.º é de 80000 francos-ouro (definição da Convenção Internacional das Telecomunicações).
 
 § 1.º Na fixação desta anuidade não serão tomados em conta os avisos de serviço nem os avisos de serviço taxados.
 
@@ -206,9 +222,9 @@ Quando se verifique a circunstância prevista na última parte do corpo do artig
 
 § 5.º O Governo compromete-se a tornar extensivos à companhia, em substituição dos encargos fixados neste artigo, quaisquer outros resultantes de critérios mais favoráveis que porventura venham a ser estabelecidos em contratos com outros concessionários de cabos submarinos em analogia de circunstâncias técnicas ou de exploração.
 
-###### Art. 13.º As contas relativas às taxas terminais referidas no artigo 5.º deste contrato serão elaboradas pela companhia, de acordo com as normas estabelecidas pelos CTT. O prazo de apresentação destas contas, a sua verificação e o seu pagamento regular-se-ão pelos preceitos constantes da Convenção, regulamentos e acordos internacionais.
+Art. 13.º As contas relativas às taxas terminais referidas no artigo 5.º deste contrato serão elaboradas pela companhia, de acordo com as normas estabelecidas pelos CTT. O prazo de apresentação destas contas, a sua verificação e o seu pagamento regular-se-ão pelos preceitos constantes da Convenção, regulamentos e acordos internacionais.
 
-###### Art. 14.º A companhia obriga-se a manter no continente português um representante idóneo, aceite pelo Governo, com o qual os CTT possam estar em relação directa e permanente.
+Art. 14.º A companhia obriga-se a manter no continente português um representante idóneo, aceite pelo Governo, com o qual os CTT possam estar em relação directa e permanente.
 
 Ao referido representante compete, especialmente:
 
@@ -218,21 +234,21 @@ Ao referido representante compete, especialmente:
 
 3.º Responsabilizar-se perante o Governo, em nome da companhia, por todos os actos que a mesma companhia pratique ou autorize em contrário das disposições contratuais.
 
-###### Art. 15.º Para satisfação dos encargos com os serviços de fiscalização referidos no n.º 9.º do artigo 7.º a companhia pagará aos CTT a importância de 1500 francos-ouro.
+Art. 15.º Para satisfação dos encargos com os serviços de fiscalização referidos no n.º 9.º do artigo 7.º a companhia pagará aos CTT a importância de 1500 francos-ouro.
 
 § único. Esta importância destina-se a remunerar os agentes incumbidos da fiscalização e será paga por trimestres, conjuntamente com os pagamentos a que alude o § 2.º do artigo 12.º
 
-###### Art. 16.º Salvo caso de força maior, a inobservância das obrigações estabelecidas no presente contrato sujeita a companhia às multas que forem fixadas em despacho ministerial, dado sob parecer dos CTT, com audiência da companhia. A multa por cada falta não será inferior a 0,1 por cento nem superior a 5 por cento do valor da anuidade estabelecida no artigo 12.º e reverterá para os CTT.
+Art. 16.º Salvo caso de força maior, a inobservância das obrigações estabelecidas no presente contrato sujeita a companhia às multas que forem fixadas em despacho ministerial, dado sob parecer dos CTT, com audiência da companhia. A multa por cada falta não será inferior a 0,1 por cento nem superior a 5 por cento do valor da anuidade estabelecida no artigo 12.º e reverterá para os CTT.
 
 § 1.º O Governo, examinada a gravidade das faltas, poderá rescindir o presente contrato quando a acumulação das multas aplicadas em doze meses sucessivos atingir 10 por cento da quantia referida no citado artigo 12.º A declaração da rescisão constará de portaria do Ministro das Comunicações e terá efeito 30 dias depois da sua publicação no Diário do Governo.
 
 § 2.º A partir do 30.º dia da data da publicação da portaria referida no parágrafo anterior, a companhia deixará de exercer a sua actividade em território português, devendo, em consequência, a sua estação ser imediatamente encerrada. Neste caso a companhia deverá desmontar todas as suas instalações e liquidar os respectivos serviços dentro do prazo de um ano, a contar da data do encerramento da estação, sob pena de aquelas instalações reverterem para os CTT.
 
-###### Art. 17.º A companhia só poderá traspassar a terceiros as obrigações e direitos conferidos pelo presente contrato mediante prévia autorização do Governo dada em decreto-lei.
+Art. 17.º A companhia só poderá traspassar a terceiros as obrigações e direitos conferidos pelo presente contrato mediante prévia autorização do Governo dada em decreto-lei.
 
-###### Art. 18.º A companhia, no exercício dos seus direitos e no cumprimento das suas obrigações em território português, fica, para todos os efeitos, exclusivamente sujeita às leis, regulamentos e tribunais portugueses.
+Art. 18.º A companhia, no exercício dos seus direitos e no cumprimento das suas obrigações em território português, fica, para todos os efeitos, exclusivamente sujeita às leis, regulamentos e tribunais portugueses.
 
-###### Art. 19.º Todas as questões que se suscitarem acerca da interpretação ou execução do presente contrato serão resolvidas por um tribunal arbitral, constituído do modo seguinte:
+Art. 19.º Todas as questões que se suscitarem acerca da interpretação ou execução do presente contrato serão resolvidas por um tribunal arbitral, constituído do modo seguinte:
 
 a) Um árbitro designado pelo Ministro das Comunicações;
 
@@ -248,8 +264,8 @@ c) Um árbitro, que servirá de presidente e de árbitro de desempate, escolhido
 
 § 4.º As despesas feitas com a constituição e funcionamento do tribunal arbitral serão suportadas pela parte que decair, na proporção do vencido.
 
-###### Art. 20.º O presente contrato, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, considera-se em vigor desde 1 de Janeiro de 1958 e continua válido por seis anos, a contar desta última data, prorrogando-se automàticamente por períodos trienais sucessivos, salvo o caso de denúncia de uma das partes, com antecedência de seis meses, pelo menos, do termo da sua vigência, feita mediante carta registada com aviso de recepção.
+Art. 20.º O presente contrato, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, considera-se em vigor desde 1 de Janeiro de 1958 e continua válido por seis anos, a contar desta última data, prorrogando-se automàticamente por períodos trienais sucessivos, salvo o caso de denúncia de uma das partes, com antecedência de seis meses, pelo menos, do termo da sua vigência, feita mediante carta registada com aviso de recepção.
 
-###### Art. 21.º O presente contrato revoga e substitui, no que respeita aos cabos que dele são objecto, as cláusulas de todos os contratos celebrados entre o Governo Português e a companhia.
+Art. 21.º O presente contrato revoga e substitui, no que respeita aos cabos que dele são objecto, as cláusulas de todos os contratos celebrados entre o Governo Português e a companhia.
 
 Ministério das Comunicações, 23 de Maio de 1960. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

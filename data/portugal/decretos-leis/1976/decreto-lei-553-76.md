@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16200/15471548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1976-430427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dee4a53c6e7744f2a4561afcbb3c15e54597fa9122374c89e2642ecd0c07d7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f7d3484018e59448403ce8cec54bed109859107c2568a17c25a355c7dac6875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colheita de Órgãos Humanos
+- Crime
+- Doação de Órgãos
+- Órgãos Humanos
+- Sanção
 relationships:
 - type: amended_by
   target: pt:dre:692651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:472294:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692651:por
+  label: "Revogado pela LEI.12/93.1993.04.22.AR, DR.IS-B [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1993-692651
+  date: '1993-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:54Z'
   warnings: []
   errors: []
 ---
@@ -103,29 +117,29 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A colheita no corpo de pessoa falecida de tecidos ou órgãos que sejam necessários para transplantação ou outros fins terapêuticos é permitida nos termos definidos no presente decreto-lei.
+Artigo 1.º A colheita no corpo de pessoa falecida de tecidos ou órgãos que sejam necessários para transplantação ou outros fins terapêuticos é permitida nos termos definidos no presente decreto-lei.
 
-###### Art. 2.º Nos estabelecimentos hospitalares é autorizada a colheita de tecidos ou órgãos para aplicação directa em casos determinados ou para aprovisionamento de bancos onde sejam conservados.
+Art. 2.º Nos estabelecimentos hospitalares é autorizada a colheita de tecidos ou órgãos para aplicação directa em casos determinados ou para aprovisionamento de bancos onde sejam conservados.
 
-###### Art. 3.º - 1. A colheita pode fazer-se imediatamente após a morte, a qual terá de ser certificada por dois médicos não pertencentes à equipa que a ela procede, devendo, pelo menos, um deles ter mais de cinco anos de exercício profissional.
+Art. 3.º - 1. A colheita pode fazer-se imediatamente após a morte, a qual terá de ser certificada por dois médicos não pertencentes à equipa que a ela procede, devendo, pelo menos, um deles ter mais de cinco anos de exercício profissional.
 
 2. Sem prejuízo do disposto no número anterior, o cirurgião e a respectiva equipa médica que procederem à colheita dos tecidos ou órgãos devem igualmente certificar a ocorrência do óbito.
 
-###### Art. 4.º - 1. O facto de a morte ser processada por acidente não obsta à efectivação da colheita, devendo, contudo, o médico relatar por escrito toda e qualquer observação que possa ser útil, a fim de completar o relatório da autópsia médico-legal.
+Art. 4.º - 1. O facto de a morte ser processada por acidente não obsta à efectivação da colheita, devendo, contudo, o médico relatar por escrito toda e qualquer observação que possa ser útil, a fim de completar o relatório da autópsia médico-legal.
 
 2. Quando houver suspeita de que a morte violenta resultou de acção criminosa, não deverá ter lugar a colheita de tecidos ou órgãos.
 
-###### Art. 5.º Os médicos não podem proceder à colheita quando, por qualquer forma, lhes seja dado conhecimento da oposição do falecido.
+Art. 5.º Os médicos não podem proceder à colheita quando, por qualquer forma, lhes seja dado conhecimento da oposição do falecido.
 
-###### Art. 6.º Não é lícito revelar à família ou herdeiros do falecido a aplicação concreta dada aos tecidos ou órgãos colhidos, nem ao beneficiário a origem dos que foram utilizados para a transplantação ou outros fins terapêuticos.
+Art. 6.º Não é lícito revelar à família ou herdeiros do falecido a aplicação concreta dada aos tecidos ou órgãos colhidos, nem ao beneficiário a origem dos que foram utilizados para a transplantação ou outros fins terapêuticos.
 
-###### Art. 7.º Na execução das colheitas devem evitar-se mutilações ou dissecações não estritamente indispensáveis à recolha e utilização de tecidos ou órgãos, bem como as que possam prejudicar a realização da autópsia, quando a ela houver lugar.
+Art. 7.º Na execução das colheitas devem evitar-se mutilações ou dissecações não estritamente indispensáveis à recolha e utilização de tecidos ou órgãos, bem como as que possam prejudicar a realização da autópsia, quando a ela houver lugar.
 
-###### Art. 8.º - 1. Os médicos que procederem à colheita lavrarão, em duplicado, um auto, no qual registarão a identidade do falecido, a data e hora da verificação do óbito, o nome dos médicos responsáveis e o destino dado aos órgãos ou tecidos recolhidos.
+Art. 8.º - 1. Os médicos que procederem à colheita lavrarão, em duplicado, um auto, no qual registarão a identidade do falecido, a data e hora da verificação do óbito, o nome dos médicos responsáveis e o destino dado aos órgãos ou tecidos recolhidos.
 
 2. Os dois exemplares do auto serão assinados pelos médicos intervenientes na operação e pelo director clínico do estabelecimento onde a mesma se efectuar, ficando um exemplar arquivado e devendo o outro ser remetido à Direcção-Geral dos Hospitais para efeitos de estatística.
 
-###### Art. 9.º Além da responsabilidade em que incorrem nos termos gerais de direito, os infractores deste diploma são puníveis:
+Art. 9.º Além da responsabilidade em que incorrem nos termos gerais de direito, os infractores deste diploma são puníveis:
 
 a) Com a pena de prisão até dois anos, se procederem à recolha de tecidos ou órgãos sem a certificação do óbito, nos termos do artigo 3.º;
 
@@ -133,14 +147,14 @@ b) Com a pena de prisão até um ano, se procederem à colheita de tecidos ou ó
 
 c) Com a pena de multa até um ano, nos termos da alínea b) do artigo 63.º do Código Penal, se efectuarem alguma colheita de tecidos ou órgãos no corpo de pessoa falecida, em contravenção do preceituado no n.º 2 do artigo 4.º entendendo-se que esta se verifica quando lhes haja sido expressamente comunicada a suspeita de acção criminosa como causa da morte.
 
-###### Art. 10.º - 1. São revogadas as disposições contidas no [Decreto-Lei n.º 45683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45683-1964-472294), de 25 de Abril de 1964, e nas Portarias n.os 20688, de 27 de Julho de 1964, e 156/71, de 24 de Março.
+Art. 10.º - 1. São revogadas as disposições contidas no [Decreto-Lei n.º 45683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45683-1964-472294), de 25 de Abril de 1964, e nas Portarias n.os 20688, de 27 de Julho de 1964, e 156/71, de 24 de Março.
 
 2. As Portarias n.os 20799 e 20800, ambas de 10 de Setembro de 1964, e 24217, de 2 de Agosto de 1969, mantêm-se em vigor em tudo o que não contrarie o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 30 de Junho de 1976.**
+Promulgado em 30 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

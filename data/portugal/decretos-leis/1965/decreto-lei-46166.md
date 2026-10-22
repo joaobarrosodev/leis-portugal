@@ -49,36 +49,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46166-1965-239019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14ebcbf64facae770d60cd8b563c9884b52e9b59c8a91b4b140da41072acc5c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba8a270ac9e6079062a7133c1c1cda05f4e22f4fcb3e1c14a9263698f70e849d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Contrato
+- Empresa Estrangeira
+- Ministro das Finanças
+- Ministro do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:170533:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:02Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +110,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro do Ultramar a celebrar, em representação do Estado Português, com a General Trade Co., S. A., de Genebra, um contrato pelo qual esta empresa se obrigará a organizar, até ao valor de 34780000 dólares dos Estados Unidos da América, o financiamento do fornecimento de equipamentos, da execução de projectos industriais e da realização de obras públicas, na medida em que uns e outros se revelem necessários para o desenvolvimento económico da província de Angola e estejam, por isso, incluídos em planos de fomento ou em programas a aprovar pelo Conselho de Ministros para os Assuntos Económicos.
+Artigo 1.º É autorizado o Ministro do Ultramar a celebrar, em representação do Estado Português, com a General Trade Co., S. A., de Genebra, um contrato pelo qual esta empresa se obrigará a organizar, até ao valor de 34780000 dólares dos Estados Unidos da América, o financiamento do fornecimento de equipamentos, da execução de projectos industriais e da realização de obras públicas, na medida em que uns e outros se revelem necessários para o desenvolvimento económico da província de Angola e estejam, por isso, incluídos em planos de fomento ou em programas a aprovar pelo Conselho de Ministros para os Assuntos Económicos.
 
-###### Art. 2.º - 1. É autorizado o Ministro das Finanças a dar, por uma ou mais vezes, a garantia do Estado Português ao pagamento na ordem externa dos encargos decorrentes dos contratos de aplicação a celebrar, em execução do contrato-quadro previsto no artigo anterior, entre a província de Angola, ou as empresas nacionais interessadas, e empresas ou instituições financeiras estrangeiras de reconhecida idoneidade, desde que os projectos industriais, obras e equipamentos que deles sejam objecto se encontrem incluídos em planos de fomento ou em programas a aprovar pelo Conselho de Ministros para os Assuntos Económicos.
+Art. 2.º - 1. É autorizado o Ministro das Finanças a dar, por uma ou mais vezes, a garantia do Estado Português ao pagamento na ordem externa dos encargos decorrentes dos contratos de aplicação a celebrar, em execução do contrato-quadro previsto no artigo anterior, entre a província de Angola, ou as empresas nacionais interessadas, e empresas ou instituições financeiras estrangeiras de reconhecida idoneidade, desde que os projectos industriais, obras e equipamentos que deles sejam objecto se encontrem incluídos em planos de fomento ou em programas a aprovar pelo Conselho de Ministros para os Assuntos Económicos.
 
 2. As garantias previstas no número anterior não poderão exceder, no seu conjunto, o montante em escudos que corresponder a 34780000 dólares dos Estados Unidos da América, acrescido dos juros e demais encargos que se convencionarem.
 
@@ -117,9 +128,9 @@ d) As cláusulas e condições dos contratos de empreitada e fornecimentos a que
 
 4. O Ministério do Ultramar fornecerá ao Ministério das Finanças, com a devida antecedência, todos os elementos necessários para oportuno cumprimento do disposto no n.º 3.
 
-###### Art. 3.º A garantia será prestada, em cada caso, por meio de declaração emitida pelo director-geral da Fazenda Pública, precedendo despacho de autorização do Ministro das Finanças.
+Art. 3.º A garantia será prestada, em cada caso, por meio de declaração emitida pelo director-geral da Fazenda Pública, precedendo despacho de autorização do Ministro das Finanças.
 
-###### Art. 4.º Observar-se-á o seguinte regime na execução das garantias previstas nos artigos anteriores:
+Art. 4.º Observar-se-á o seguinte regime na execução das garantias previstas nos artigos anteriores:
 
 1. O Governo-Geral da província de Angola, ou as empresas nacionais beneficiárias da garantia, se não puderem efectuar, na data do respectivo vencimento, e no todo ou em parte, qualquer dos pagamentos contratuais garantidos pelo Estado, comunicá-lo-ão ao Ministério das Finanças com a antecedência mínima de 45 dias;
 
@@ -129,9 +140,9 @@ d) As cláusulas e condições dos contratos de empreitada e fornecimentos a que
 
 4. Se, nos termos dos n.os 1 e 2, o Estado realizar qualquer pagamento em substituição de uma empresa privada, gozará, sobre os bens da empresa, de privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que efectivamente houver despendido para satisfação das garantias prestadas, e, quando se trate de sociedade anónima, poderá transformar, até ao termo do ano seguinte ao pagamento por ele efectuado, o crédito daí resultante em acções da empresa devedora, devendo esta promover obrigatòriamente e por força do presente diploma as formalidades que para o efeito forem necessárias.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo de República, 20 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

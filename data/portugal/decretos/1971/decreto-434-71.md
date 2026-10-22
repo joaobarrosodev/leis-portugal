@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 243/1971, 1º Suplemento, Série I de 1971-10-15
   number: '243'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1546-(1) a 1546-(81)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/434-1971-245153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd6ea2191d2a1fe0a53ae5a43d98fa375b5611a70f4c4e4cca4ad1415b7a3b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0b165720a06905814f29ed6cca66592b545968d5dcc769201971e2ed3ff1519
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:148782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:35Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +91,17 @@ de 15 de Outubro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. - 1. É aprovada a revisão parcial do Regulamento das Radiocomunicações e do Regulamento Adicional das Radiocomunicações de Genebra (1959), que segue em anexo ao presente decreto e dele faz parte integrante.
+Artigo único. - 1. É aprovada a revisão parcial do Regulamento das Radiocomunicações e do Regulamento Adicional das Radiocomunicações de Genebra (1959), que segue em anexo ao presente decreto e dele faz parte integrante.
 
 2. Essa revisão, que foi assinada em Genebra em 3 de Novembro de 1967, altera os referidos Regulamento das Radiocomunicações e Regulamento Adicional das Radiocomunicações, aprovados pelo [Decreto n.º 45205](https://diariodarepublica.pt/dr/detalhe/decreto/45205-1963-148782), de 21 de Agosto de 1963.
 
 Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 9 de Julho de 1971.**
+Promulgado em 9 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REVISÃO PARCIAL DO REGULAMENTO DAS RADIOCOMUNICAÇÕES
 
@@ -519,17 +523,17 @@ ADI ... Adição;
 
 Do ANEXO 1 ao ANEXO 20
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 ## ANEXO 21 — Revisão do apêndice 3 ao Regulamento das Radiocomunicações
 
 O apêndice 3 ao Regulamento das Radiocomunicações é revisto como segue.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Quadro das tolerâncias de frequência (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 (nota *) Poderão ser necessárias tolerâncias mais restritas em certos serviços, por razões técnicas ou de exploração.
 
@@ -549,11 +553,11 @@ Nomenclatura das estações costeiras
 
 ...
 
-# PARTE B — Estados sinaléticos das estações costeiras
+## PARTE B — Estados sinaléticos das estações costeiras
 
 ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 ADI ... (8) O indicativo de chamada da estação é seguido, entre parênteses, quando apropriado, pelo número ou sinal de identificação que ela utiliza quando emprega sinais de chamada selectiva.
 
@@ -563,7 +567,7 @@ Nomenclatura das estações de navio
 
 MOD ... As informações relativas a estas estações são publicadas como indicado abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 Coluna 1:
 
@@ -643,13 +647,13 @@ Além disso, em caso de falta de espaço na coluna apropriada, podem figurar na 
 
 O apêndice 10 ao Regulamento das Radiocomunicações é revisto como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 ## ANEXO 24 — Revisão do apêndice 11 ao Regulamento das Radiocomunicações
 
 O apêndice 11 ao Regulamento das Radiocomunicações é revisto como segue:
 
-## APÊNDICE 11
+APÊNDICE 11
 
 Documentos de que devem estar providas as estações de navio e as estações de aeronave
 
@@ -689,7 +693,7 @@ MOD ... Abreviaturas e sinais diversos a utilizar nas comunicações radiotelegr
 
 Em seguida ao apêndice 13 é adicionado o seguinte novo apêndice ao Regulamento das Radiocomunicações:
 
-## APÊNDICE 13-A
+APÊNDICE 13-A
 
 ADD ... Abreviaturas e sinais diversos a utilizar nas radiocomunicações do serviço móvel marítimo.
 
@@ -719,15 +723,15 @@ Abreviaturas utilizadas no serviço móvel marítimo
 
 A) Lista das abreviaturas por ordem alfabética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 B) Lista das abreviaturas pela natureza das perguntas, respostas ou pareceres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 #### SECÇÃO II — Abreviaturas e sinais diversos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 Nota. - Em radiotelegrafia, um traço horizontal sobre as letras que compõem o sinal significa que essas letras devem ser transmitidas como um só sinal.
 
@@ -755,7 +759,7 @@ Frequências a consignar às estações radiotelegráficas de navio que utilizam
 
 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 ## ANEXO 29 — Revisão do apêndice 16 ao Regulamento das Radiocomunicações
 
@@ -769,11 +773,11 @@ Quadro de soletração das letras e dos algarismos
 
 1. Quando for necessário soletrar indicativos de chamada, abreviaturas regulamentares ou palavras, utiliza-se o quadro seguinte de soletração das letras:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 2. Quando for necessário soletrar algarismos ou sinais utiliza-se o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 3. Todavia, as estações de um mesmo país podem utilizar, quando comuniquem entre si, um outro quadro estabelecido pela administração de que dependem.
 
@@ -789,11 +793,11 @@ Vias radiotelefónicas nas faixas do serviço móvel marítimo compreendidas ent
 
 1. A repartição das vias radiotelefónicas a utilizar pelas estações costeiras e as estações de navio nas faixas atribuídas ao serviço móvel marítimo é indicada nas três secções seguintes:
 
-#### Secção A - Quadro das frequências de emissão em dupla faixa lateral para a exploração dúplex (vias a duas frequências), em kHz.
+Secção A - Quadro das frequências de emissão em dupla faixa lateral para a exploração dúplex (vias a duas frequências), em kHz.
 
-#### Secção B - Quadro das frequências de emissão em faixa lateral única para a exploração dúplex (vias a duas frequências), em kHz.
+Secção B - Quadro das frequências de emissão em faixa lateral única para a exploração dúplex (vias a duas frequências), em kHz.
 
-#### Secção C - Quadro das frequências de emissão em faixa lateral única para exploração simplex (vias a uma frequência), em kHz.
+Secção C - Quadro das frequências de emissão em faixa lateral única para exploração simplex (vias a uma frequência), em kHz.
 
 2. As características técnicas dos emissores de faixa lateral única estão especificadas no apêndice 17-A.
 
@@ -825,15 +829,15 @@ b) As estações que utilizem emissões de faixa lateral única devem efectuar �
 
 #### SECÇÃO A — Quadro das frequências de emissão por dupla faixa lateral para a exploração dúplex (vias a duas frequências), em kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 #### SECÇÃO B — Quadro das frequências de emissão por faixa lateral única para a exploração dúplex (vias a duas frequências), em kHZ
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 #### SECÇÃO C — Quadro das frequências de emissão por faixa lateral única para exploração simplex (vias a uma frequência), em kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 ## ANEXO 31 — Adição de um novo apêndice (apêndice 17-A) ao Regulamento das Radiocomunicações
 
@@ -863,7 +867,7 @@ b) Estações de navio: (mais ou menos)100 Hz; a deriva máxima em curto períod
 
 6. No caso de emissões das classes A3H, A3A ou A3J a potência de qualquer oscilação não desejada fornecida à linha de alimentação da antena numa frequência específica qualquer deve, quando o emissor funciona à sua potência de ponta máxima, satisfazer às condições indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 No que respeita às radiações não essenciais, quando se deseja verificar se uma emissão com onda de suporte reduzida ou suprimida satisfaz às condições acima, pode-se aplicar à entrada do emissor um sinal constituído por duas frequências acústicas suficientemente afastadas uma da outra para que todos os produtos de intermodulação caiam em frequências distantes de, pelo menos, 1,6 kHz da frequência consignada.
 
@@ -889,7 +893,7 @@ Nota 3:
 
 Os n.os 60 a 88 foram escolhidos para as vias suplementares a fim de as distinguir nìtidamente das vias existentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 ## ANEXO 33 — Revisão do apêndice 19 ao Regulamento das Radiocomunicações
 
@@ -929,7 +933,7 @@ Características técnicas dos emissores e dos receptores utilizados no serviço
 
 O apêndice 20 ao Regulamento das Radiocomunicações é revisto como segue:
 
-## APÊNDICE 20
+APÊNDICE 20
 
 Aparelhos automáticos destinados à recepção dos sinais de alarme radiotelegráfico e radiotelefónico
 
@@ -973,7 +977,7 @@ f) O material deve ser concebido de maneira a estar de acordo com os pareceres p
 
 Em seguida ao apêndice 20-A é adicionado ao Regulamento das Radiocomunicações o novo apêndice seguinte:
 
-## APÊNDICE 20-B
+APÊNDICE 20-B
 
 Aparelhos de faixa estreita de telegrafia por impressão directa
 
@@ -991,7 +995,7 @@ c) Devem-se utilizar as emissões da classe F1, sendo o desvio total de frequên
 
 Em seguida ao apêndice 20-B é adicionado ao Regulamento das Radiocomunicações o novo apêndice seguinte:
 
-## APÊNDICE 20-C
+APÊNDICE 20-C
 
 Sistema de chamada selectiva a utilizar no serviço móvel marítimo internacional
 
@@ -1005,7 +1009,7 @@ Sistema de chamada selectiva a utilizar no serviço móvel marítimo internacion
 
 1.2.1 As frequências acústicas que servem para representar os algarismos de um número de chamada selectiva consignado a um navio devem ser tomadas na seguinte série:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 Por exemplo, a série de impulsos de frequências acústicas correspondente ao número de chamada selectiva 12133 seria 1124, 1197, 1124, 1275 e 2110 Hz, e a série correspondente ao n.º 22222 seria 1197, 2110, 1197, 2110 e 1197 Hz;
 
@@ -1057,11 +1061,11 @@ Por exemplo, a série de impulsos de frequências acústicas correspondente ao n
 
 Composição dos sinais de chamada selectiva, sem informações suplementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 Composição dos sinais de chamada selectiva, com informações suplementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 REVISÃO PARCIAL DO REGULAMENTO ADICIONAL DAS RADIOCOMUNICAÇÕES
 
@@ -1087,7 +1091,7 @@ Feito em Genebra, aos 3 de Novembro de 1967.
 
 Do ANEXO RA 1 ao ANEXO RA 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 PROTOCOLO FINAL
 
@@ -1599,13 +1603,13 @@ decide
 
 ## ANEXO 1 — Quadro das frequências de emissão das estações costeiras radiotelefónicas (emissões de dupla faixa lateral ou de faixas independentes (ver nota 1)), em kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 (nota 1) Ver a Resolução n.º MAR 13.
 
 ## ANEXO 2 — Quadro das frequências de emissão das estações costeiras radiotelefónicas (emissões de faixa lateral única), em kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 ## ANEXO 3 — Vias de faixa lateral única da secção III do apêndice 25 MOD, em kHz
 
@@ -1613,7 +1617,7 @@ As preferências indicadas em itálico são frequências de chamada
 
 (Ver o n.º 1352-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 RESOLUÇÃO N.º MAR 12 (ver nota *)
 
@@ -1639,13 +1643,13 @@ decide
 
 2. Que as administrações se deverão esforçar para proceder a essa execução segundo o calendário que figura nos anexos 1, 2 e 3 à presente Resolução.
 
-**O presidente da Conferência Administrativa Mundial das Radiocomunicações, encarregada de tratar questões relativas ao serviço móvel marítimo (Genebra, 1967), e um certo número de países assinalaram uma contradição existente entre as disposições da Resolução n.º MAR 12, as da Resolução n.º MAR 10 e as do apêndice 15 ao Regulamento das Radiocomunicações. Em seu parecer, seria preferível, no Anexo 1 à Resolução n.º MAR 12, redigir o texto que figura sob «1.ª fase» como segue: «Abandono pelas estações de navio de pequeno tráfego das frequências de trabalho que ocupam as vias 84 a 98 nas faixas dos 4, 6, 8, 12 e 16 MHz e as vias 41 a 50 na faixa dos 22 MHz».**
+O presidente da Conferência Administrativa Mundial das Radiocomunicações, encarregada de tratar questões relativas ao serviço móvel marítimo (Genebra, 1967), e um certo número de países assinalaram uma contradição existente entre as disposições da Resolução n.º MAR 12, as da Resolução n.º MAR 10 e as do apêndice 15 ao Regulamento das Radiocomunicações. Em seu parecer, seria preferível, no Anexo 1 à Resolução n.º MAR 12, redigir o texto que figura sob «1.ª fase» como segue: «Abandono pelas estações de navio de pequeno tráfego das frequências de trabalho que ocupam as vias 84 a 98 nas faixas dos 4, 6, 8, 12 e 16 MHz e as vias 41 a 50 na faixa dos 22 MHz».
 
 (nota *) Nota do Secretariado-Geral.
 
 Do ANEXO 1 ao ANEXO 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 RESOLUÇÃO N.º MAR 13
 
@@ -1903,17 +1907,17 @@ Diferenças entre as disposições dos apêndices 13-A e 16 ao Regulamento das R
 
 O quadro de soletração dos algarismos que figura no apêndice 16 contém, além dos algarismos 0 a 9 e do «Sinal utilizado para separar a parte decimal de um número da sua parte inteira», o sinal «PONTO» (ver nota *) indicado como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 (nota *) O sinal «PONTO» figura no Código Internacional de Sinais, mas não figura no quadro de soletração de algarismos desse Código.
 
 2. Abreviaturas do apêndice 13-A que se referem à utilização de radiobalizas de localização de sinistros e não figuram no Código Internacional de Sinais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 3. Sinais que têm significações idênticas ou quase idênticas, mas que se apresentam como abreviaturas ou sinais diferentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf)
 
 4. Abreviaturas ou sinais idênticos que têm significados muito diferentes:
 
@@ -1929,9 +1933,9 @@ Nota. - As disposições seguintes do Regulamento das Radiocomunicações contê
 
 N.º 1386-A;
 
-## Apêndice 13-A, secção I, abreviatura QTQ;
+Apêndice 13-A, secção I, abreviatura QTQ;
 
-## Apêndice 13-A, secção II, abreviatura INTERCO.
+Apêndice 13-A, secção II, abreviatura INTERCO.
 
 RESOLUÇÃO N.º MAR 19
 

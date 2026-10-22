@@ -49,36 +49,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9810f962f10b2e94d7bf878bf5c934247c673bb172045f8113ac9cac20f39bb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e10ae541f95387f06c5c22f2321440cfa9262ed8a7d3841f313a221d70d9b3b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Fundo de Fomento de Cooperação
+- Fundo de Melhoramentos Agrícolas
+- Fundo Especial de Reestruturação Fundiária
+- Gestão Financeira
+- Junta de Colonização Interna
+relationships:
+- type: cites
+  target: pt:dre:149425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683780:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:11Z'
   warnings: []
   errors: []
 ---
@@ -147,9 +203,9 @@ I
 
 Fundo Especial de Reestruturação Fundiária
 
-###### Artigo 1.º É criado o Fundo Especial de Reestruturação Fundiária, que goza de autonomia administrativa e financeira, terá escrita própria das suas receitas e despesas e será gerido pelo conselho administrativo da Junta de Colonização Interna.
+Artigo 1.º É criado o Fundo Especial de Reestruturação Fundiária, que goza de autonomia administrativa e financeira, terá escrita própria das suas receitas e despesas e será gerido pelo conselho administrativo da Junta de Colonização Interna.
 
-###### Art. 2.º - 1. O Fundo Especial de Reestruturação Fundiária será destinado à assistência financeira para operações de reestruturação fundiária nas regiões onde for julgada oportuna ou necessária.
+Art. 2.º - 1. O Fundo Especial de Reestruturação Fundiária será destinado à assistência financeira para operações de reestruturação fundiária nas regiões onde for julgada oportuna ou necessária.
 
 2. São especialmente consideradas, para os efeitos deste diploma, como operações de reestrutura fundiária:
 
@@ -163,7 +219,7 @@ d) A realização, quer por iniciativa de associações de agricultores, quer em
 
 e) Os empreendimentos visando a formação de empresários agrícolas, quer particulares, quer de associações de agricultores, quer do próprio Estado.
 
-###### Art. 3.º Constituem receitas do Fundo Especial de Reestruturação Fundiária:
+Art. 3.º Constituem receitas do Fundo Especial de Reestruturação Fundiária:
 
 a) As dotações orçamentais a ele consignadas e inscritas anualmente no Orçamento Geral do Estado;
 
@@ -179,19 +235,19 @@ f) O produto das amortizações resultantes das acções de colonização realiz
 
 g) O produto da comparticipação de outros fundos, ou de quaisquer outras operações financeiras autorizadas pelo Governo.
 
-###### Art. 4.º Na concessão de empréstimos e comparticipações, aplica-se, em tudo que não for especificadamente previsto neste diploma, a legislação de melhoramentos agrícolas.
+Art. 4.º Na concessão de empréstimos e comparticipações, aplica-se, em tudo que não for especificadamente previsto neste diploma, a legislação de melhoramentos agrícolas.
 
-###### Art. 5.º As comparticipações podem ser concedidas separada ou cumulativamente com os empréstimos e terão aplicação nos empreendimentos não directamente reprodutivos de interesse e aproveitamento colectivos.
+Art. 5.º As comparticipações podem ser concedidas separada ou cumulativamente com os empréstimos e terão aplicação nos empreendimentos não directamente reprodutivos de interesse e aproveitamento colectivos.
 
-###### Art. 6.º O funcionamento do Fundo rege-se, na parte aplicável, pelas disposições dos Decretos-Leis n.os 35993, de 23 de Novembro de 1946, e 43355, de 24 de Novembro de 1960.
+Art. 6.º O funcionamento do Fundo rege-se, na parte aplicável, pelas disposições dos Decretos-Leis n.os 35993, de 23 de Novembro de 1946, e 43355, de 24 de Novembro de 1960.
 
 II
 
 Fundo de Fomento de Cooperação
 
-###### Art. 7.º O Fundo de Fomento de Cooperação, criado pelo artigo 18.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458), de 23 de Novembro de 1962, é aplicado na concessão de créditos a todas as associações de agricultores, sob qualquer forma legal, para instalação, funcionamento e fundo de maneio.
+Art. 7.º O Fundo de Fomento de Cooperação, criado pelo artigo 18.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458), de 23 de Novembro de 1962, é aplicado na concessão de créditos a todas as associações de agricultores, sob qualquer forma legal, para instalação, funcionamento e fundo de maneio.
 
-###### Art. 8.º São aditadas ao n.º 1 do artigo 20.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458), de 23 de Novembro de 1962, as seguintes alíneas:
+Art. 8.º São aditadas ao n.º 1 do artigo 20.º do [Decreto-Lei n.º 44720](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458), de 23 de Novembro de 1962, as seguintes alíneas:
 
 c) O produto de subsídios ou de liberalidade, em vida ou por morte;
 
@@ -203,7 +259,7 @@ III
 
 Fundo de Melhoramentos Agrícolas
 
-###### Art. 9.º São aditadas ao artigo 14.º do [Decreto-Lei n.º 35993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35993-1946-149425), de 23 de Novembro de 1946, e ao artigo único do [Decreto-Lei n.º 38256](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38256-1951-331835), de 17 de Maio de 1951, as seguintes alíneas:
+Art. 9.º São aditadas ao artigo 14.º do [Decreto-Lei n.º 35993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35993-1946-149425), de 23 de Novembro de 1946, e ao artigo único do [Decreto-Lei n.º 38256](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38256-1951-331835), de 17 de Maio de 1951, as seguintes alíneas:
 
 e) O produto da emissão de obrigações e promissórias nas condições autorizadas pelo Governo;
 
@@ -211,29 +267,29 @@ f) O produto de subsídios ou de liberalidades, em vida ou por morte;
 
 g) O produto de comparticipações de outros fundos, ou de quaisquer outras operações financeiras autorizadas pelo Governo.
 
-###### Art. 10.º Todos os empréstimos, subsídios ou comparticipações destinados a investimentos previstos na legislação de melhoramentos agrícolas e cuja concessão competia a organismos, autónomos ou não, dependentes do Ministério da Economia, passam a ser concedidos pela Junta de Colonização Interna através do Fundo de Melhoramentos Agrícolas e nos termos daquela legislação.
+Art. 10.º Todos os empréstimos, subsídios ou comparticipações destinados a investimentos previstos na legislação de melhoramentos agrícolas e cuja concessão competia a organismos, autónomos ou não, dependentes do Ministério da Economia, passam a ser concedidos pela Junta de Colonização Interna através do Fundo de Melhoramentos Agrícolas e nos termos daquela legislação.
 
-###### Art. 11.º Será regulamentada por portaria do Secretário de Estado da Agricultura, a publicar no prazo de sessenta dias, a colaboração entre a Junta e os organismos referidos no artigo anterior, relativa às orientações gerais a seguir na concessão dos subsídios e empréstimos.
+Art. 11.º Será regulamentada por portaria do Secretário de Estado da Agricultura, a publicar no prazo de sessenta dias, a colaboração entre a Junta e os organismos referidos no artigo anterior, relativa às orientações gerais a seguir na concessão dos subsídios e empréstimos.
 
 IV
 
 Disposição comum
 
-###### Art. 12.º Na autorização dos empréstimos, comparticipações e quaisquer outras despesas efectuadas pelos fundos geridos pelo conselho administrativo da Junta de Colonização Interna, observar-se-á o preceituado no artigo 3.º do Decreto-Lei 48234, de 31 de Janeiro de 1968.
+Art. 12.º Na autorização dos empréstimos, comparticipações e quaisquer outras despesas efectuadas pelos fundos geridos pelo conselho administrativo da Junta de Colonização Interna, observar-se-á o preceituado no artigo 3.º do Decreto-Lei 48234, de 31 de Janeiro de 1968.
 
 V
 
 Alterações à legislação de melhoramentos agrícolas
 
-###### Art. 13.º A alínea j) do artigo 2.º, os §§ 1.º, 2.º, 3.º e 8.º do artigo 10.º, o corpo do artigo 18.º e seus §§ 2.º e 3.º e os artigos 20.º e 34.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passam a ter a seguinte redacção:
+Art. 13.º A alínea j) do artigo 2.º, os §§ 1.º, 2.º, 3.º e 8.º do artigo 10.º, o corpo do artigo 18.º e seus §§ 2.º e 3.º e os artigos 20.º e 34.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 j) Sementeira e plantação de árvores e arbustos de reconhecido interesse económico e social, e recuperação, ordenamento e protecção contra fogos dos povoamentos florestais existentes.
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 1.º Os empréstimos de importância superior a 100000$00 só podem ser concedidos com garantia hipotecária ou fiança bancária ou, no caso de organismos corporativos da agricultura, de coordenação económica, cooperativas agrícolas, autarquias locais, pessoas colectivas de utilidade pública administrativa e agremiações de proprietários, com consignação de receitas e penhor, sendo neste último caso aplicável o regime estabelecido no artigo 1.º e seus parágrafos do [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939.
 
@@ -249,7 +305,7 @@ Neste último caso o devedor fica fiel depositário dos bens dados em penhor, n�
 
 ...
 
-###### Art. 18.º O montante do empréstimo poderá atingir o limite do custo da execução do melhoramento e o prazo de amortização não poderá exceder trinta anos.
+Art. 18.º O montante do empréstimo poderá atingir o limite do custo da execução do melhoramento e o prazo de amortização não poderá exceder trinta anos.
 
 ...
 
@@ -259,7 +315,7 @@ Neste último caso o devedor fica fiel depositário dos bens dados em penhor, n�
 
 ...
 
-###### Art. 20.º Durante o período de amortização, que terá início dois anos após a conclusão do melhoramento para que o empréstimo foi destinado, será devido juro à taxa de 2 a 6 por cento por ano, sendo fixado para 31 de Janeiro o vencimento das anuidades constantes para pagamento de capital e juro.
+Art. 20.º Durante o período de amortização, que terá início dois anos após a conclusão do melhoramento para que o empréstimo foi destinado, será devido juro à taxa de 2 a 6 por cento por ano, sendo fixado para 31 de Janeiro o vencimento das anuidades constantes para pagamento de capital e juro.
 
 § 1.º Conta-se como ano completo o tempo decorrido entre a data da conclusão do melhoramento e o começo do ano seguinte.
 
@@ -267,7 +323,7 @@ Neste último caso o devedor fica fiel depositário dos bens dados em penhor, n�
 
 ...
 
-###### Art. 34.º As cobranças relativas aos empréstimos serão realizadas por intermédio das repartições de finanças competentes, às quais a Junta fornecerá os elementos indispensáveis. Mas, uma vez operada a transferência dos créditos para a Caixa Geral de Depósitos, Crédito e Previdência, poderá este estabelecimento ocupar-se delas directamente e segundo o regime que lhe é próprio.
+Art. 34.º As cobranças relativas aos empréstimos serão realizadas por intermédio das repartições de finanças competentes, às quais a Junta fornecerá os elementos indispensáveis. Mas, uma vez operada a transferência dos créditos para a Caixa Geral de Depósitos, Crédito e Previdência, poderá este estabelecimento ocupar-se delas directamente e segundo o regime que lhe é próprio.
 
 § 1.º As repartições de finanças, nos casos em que devam intervir de conta da Junta de Colonização Interna, procederão à cobrança normal das anuidades no mês de Janeiro, e de uma só vez, juntamente com a contribuição predial dos prédios beneficiados, se estes dela não estiverem isentos, mas por documento separado.
 
@@ -275,11 +331,11 @@ Sempre que os mutuários não paguem contribuição predial no mês de Janeiro, 
 
 § 2.º As repartições de finanças enviarão à Junta de Colonização Interna, até ao dia 20 de Abril de cada ano, notas discriminativas das anuidades cobradas e das vencidas e não pagas.
 
-###### Art. 14.º O § 1.º do artigo 1.º do [Decreto-Lei n.º 45401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45401-1963-683780), de 2 de Dezembro de 1963, passa a ter a seguinte redacção:
+Art. 14.º O § 1.º do artigo 1.º do [Decreto-Lei n.º 45401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45401-1963-683780), de 2 de Dezembro de 1963, passa a ter a seguinte redacção:
 
 § 1.º O capital do empréstimo vencerá juros a partir do ano seguinte ao da plantação, contando-se como ano completo o tempo que decorre desde a data da plantação até ao começo do ano seguinte.
 
-###### Art. 15.º É aditado ao artigo 3.º do [Decreto n.º 43661](https://diariodarepublica.pt/dr/detalhe/decreto/43661-1961-169892), de 4 de Maio de 1961, o seguinte:
+Art. 15.º É aditado ao artigo 3.º do [Decreto n.º 43661](https://diariodarepublica.pt/dr/detalhe/decreto/43661-1961-169892), de 4 de Maio de 1961, o seguinte:
 
 § único. Nas obras de interesse colectivo a comparticipação poderá atingir o limite do custo das obras ou melhoramentos.
 
@@ -287,12 +343,12 @@ VI
 
 Disposições revogadas
 
-###### Art. 16.º São revogados o § 2.º do artigo 22.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, o [Decreto-Lei n.º 46523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46523-1965-509627), de 6 de Setembro de 1965, e o [Decreto-Lei n.º 47178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47178-1966-479615), de 6 de Setembro de 1966.
+Art. 16.º São revogados o § 2.º do artigo 22.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, o [Decreto-Lei n.º 46523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46523-1965-509627), de 6 de Setembro de 1965, e o [Decreto-Lei n.º 47178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47178-1966-479615), de 6 de Setembro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 26 de Setembro de 1969.**
+Promulgado em 26 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

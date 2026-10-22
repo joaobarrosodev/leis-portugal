@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44723-1962-155471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4216e91a2f5b64c2bfe6a67c3e51c71c28f1aaef07d33236e72324cba4095b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0545cc7bc0d4404d96b8da657c05f5e7838289ef17649a6bedcbdc9fa36464a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Farmacêutico
+- Forças Armadas
+- Médico
+- Pessoal Civil
+- Pessoal Contratado
+- Remuneração
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:694013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:694013:por
+  label: "Tornadas extensivas aos médicos e farmacêuticos (licenciados em Farmácia) e veterinários civis contratados dos serviços\
+    \ dependentes do Ministro da Defesa Nacional as disposições do presente diploma, pelo DEC LEI.45206.22.08.1963.PC, DG.IS\
+    \ [197] de 22.08.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45206-1963-694013
+  date: '1963-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:09Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +107,7 @@ Convindo também regular o que, para igual situação de contratados, disser res
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os médicos civis ao serviço das unidades e estabelecimentos dependentes dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica, como contratados nos termos das disposições reguladoras de tal situação, terão direito, a partir de 1 de Janeiro de 1963, à remuneração mensal que lhes corresponder de entre aquelas que a seguir vão indicadas:
+Artigo 1.º Os médicos civis ao serviço das unidades e estabelecimentos dependentes dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica, como contratados nos termos das disposições reguladoras de tal situação, terão direito, a partir de 1 de Janeiro de 1963, à remuneração mensal que lhes corresponder de entre aquelas que a seguir vão indicadas:
 
 I) Especialistas ... 2600$00
 
@@ -123,16 +137,16 @@ d) Igual ou inferior a 20 homens ... 650$00
 
 § 2.º O abono da nova remuneração aos médicos constantes das relações de que trata o parágrafo anterior não depende de qualquer outra formalidade, incluindo o visto do Tribunal de Contas.
 
-###### Art. 2.º Para as unidades, estabelecimentos e guarnições militares cujo efectivo o justifique poderão ser contratados médicos especialistas, mediante prévia proposta a apresentar pela entidade interessada e só depois de a mesma, devidamente informada, ter sido aprovada pelos Ministros do Exército ou da Marinha ou pelo Secretário de Estado da Aeronáutica.
+Art. 2.º Para as unidades, estabelecimentos e guarnições militares cujo efectivo o justifique poderão ser contratados médicos especialistas, mediante prévia proposta a apresentar pela entidade interessada e só depois de a mesma, devidamente informada, ter sido aprovada pelos Ministros do Exército ou da Marinha ou pelo Secretário de Estado da Aeronáutica.
 
-###### Art. 3.º Na ausência do respectivo médico militar ou civil contratado poderá recorrer-se a um médico civil da localidade, competindo-lhe por cada chamada a remuneração que for fixada em despacho ministerial, tendo em atenção os honorários estabelecidos na localidade respectiva.
+Art. 3.º Na ausência do respectivo médico militar ou civil contratado poderá recorrer-se a um médico civil da localidade, competindo-lhe por cada chamada a remuneração que for fixada em despacho ministerial, tendo em atenção os honorários estabelecidos na localidade respectiva.
 
-###### Art. 4.º Os farmacêuticos (licenciados em Farmácia) e veterinários civis ao serviço das unidades ou estabelecimentos das forças armadas como contratados nos termos das disposições reguladoras de tal situação terão direito, a partir de 1 de Janeiro de 1963, à remuneração mensal de 2200$00, qualquer que seja o número de unidades ou estabelecimentos da mesma localidade onde tiverem de prestar serviço e independentemente dos efectivos que lhes correspondam.
+Art. 4.º Os farmacêuticos (licenciados em Farmácia) e veterinários civis ao serviço das unidades ou estabelecimentos das forças armadas como contratados nos termos das disposições reguladoras de tal situação terão direito, a partir de 1 de Janeiro de 1963, à remuneração mensal de 2200$00, qualquer que seja o número de unidades ou estabelecimentos da mesma localidade onde tiverem de prestar serviço e independentemente dos efectivos que lhes correspondam.
 
 § único. Na ausência do veterinário militar ou civil contratado poderá recorrer-se a um veterinário civil da localidade, competindo-lhe por cada chamada a remuneração que for fixada em despacho ministerial, tendo em atenção os honorários estabelecidos na localidade respectiva. Art. 5.º As dúvidas e casos omissos que se apresentem na execução do presente diploma, bem como as modificações nas remunerações referidas nos seus artigos 1.º e 4.º, serão resolvidas pelo Ministro da Defesa Nacional, com o acordo do Ministro das Finanças.
 
-###### Art. 6.º (transitório). São mantidos, até rescisão dos respectivos contratos, os abonos desta natureza que estão sendo efectuados, desde que os seus quantitativos sejam superiores aos fixados no presente decreto-lei.
+Art. 6.º (transitório). São mantidos, até rescisão dos respectivos contratos, os abonos desta natureza que estão sendo efectuados, desde que os seus quantitativos sejam superiores aos fixados no presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Kaulza Oliveira de Arriaga.

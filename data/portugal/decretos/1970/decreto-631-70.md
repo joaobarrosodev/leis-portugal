@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/631-1970-146052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61a3cedf9eaefb6a5e8b8fe36f2465cf24e6bd1cb9bfc2454564c0658868e17f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fefcd2c87718b3f5f2d795f096a5b5bdc08b33bee3ffe73fbd5793a3056c212
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570080:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:55Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Ministério das Finanças
 
@@ -104,12 +112,12 @@ Ministério do Exército
 
 Despesas dos anos de 1964, 1965, 1966, 1968 e 1969, referentes a subvenção de família, ajudas de custo, alimentação, alojamento, pré, tratamento hospitalar, subsídio de guarnição, luz, aquecimento, água, lavagem e limpeza, telefones e prémios de transferências, pertencentes a diversas unidades e estabelecimentos militares ... 282076$10
 
-###### Art. 2.º Fica igualmente autorizado o Fundo de Turismo a satisfazer, em conta da verba de despesas de anos económicos findos, inscrita no seu actual orçamento privativo, a quantia de 165$40, resultante da emissão de um cambial para a realização de uma campanha de promoção turística no estrangeiro durante o ano de 1968.
+Art. 2.º Fica igualmente autorizado o Fundo de Turismo a satisfazer, em conta da verba de despesas de anos económicos findos, inscrita no seu actual orçamento privativo, a quantia de 165$40, resultante da emissão de um cambial para a realização de uma campanha de promoção turística no estrangeiro durante o ano de 1968.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Dezembro de 1970.**
+Promulgado em 10 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

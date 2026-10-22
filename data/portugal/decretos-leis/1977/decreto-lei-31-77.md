@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/02000/01330134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1977-138338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc0039a52b0cbfb9ebdcf5c998fd36fd63af488915385ec90342f1caef3ada8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd67d998e03bc93bba3fdd6a42bf97fb4ff58b73f9eb1d37fb12a1543eb41893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Definição de Competências
+- Estatuto Judiciário
+- Évora
+- Lisboa
+- Pessoal de Justiça
+- Porto
+- Quadro de Pessoal
+- Secretaria Judicial
+- Secretário
+- Tribunal da Relação
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645947:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:44Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +125,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 285.º, 286.º, 287.º, 288.º e 289.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 285.º, 286.º, 287.º, 288.º e 289.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 285.º - 1. ...
+Art. 285.º - 1. ...
 
 2. Estando simultaneamente impedidos o secretário e o técnico, o presidente da Relação designará o funcionário de qualquer das repartições que deva substituir o secretário.
 
-###### Art. 286.º Aos técnicos compete especialmente:
+Art. 286.º Aos técnicos compete especialmente:
 
 a) ...
 
@@ -121,7 +145,7 @@ e) [O texto final da actual alínea f)];
 
 f) [O texto da actual alínea g)].
 
-###### Art. 287.º Aos chefes das 1.ª e 2.ª secções compete especialmente:
+Art. 287.º Aos chefes das 1.ª e 2.ª secções compete especialmente:
 
 a) Dirigir os serviços das respectivas secções em harmonia com as directrizes do secretário;
 
@@ -131,7 +155,7 @@ c) Fiscalizar os assentamentos de magistrados e funcionários existentes nas res
 
 d) Realizar outros serviços que lhes sejam ordenados superiormente.
 
-###### Art. 288.º Aos primeiros-oficiais compete especialmente:
+Art. 288.º Aos primeiros-oficiais compete especialmente:
 
 a) Colaborar com o chefe da respectiva secção na elaboração das folhas mensais de vencimento e outras que devam ser elaboradas na respectiva secção;
 
@@ -139,7 +163,7 @@ b) Escrever e manter actualizado o registo de assentamento dos magistrados, suas
 
 c) Realizar outros serviços que lhes sejam ordenados superiormente.
 
-###### Art. 289.º Aos segundos-oficiais e terceiros-oficiais compete realizar o serviço que lhes for distribuído pelo secretário e, especialmente:
+Art. 289.º Aos segundos-oficiais e terceiros-oficiais compete realizar o serviço que lhes for distribuído pelo secretário e, especialmente:
 
 a) Dar entrada e saída à correspondência e mais papéis da secção a que estejam afectos;
 
@@ -157,7 +181,7 @@ g) Escrever e manter actualizados os registos de assentamento dos funcionários 
 
 h) Fazer em geral todo o serviço que por lei ou regulamento lhes caiba ou lhes seja ordenado superiormente.
 
-###### Art. 2.º O mapa IX anexo ao Estatuto Judiciário é alterado nos seguintes termos:
+Art. 2.º O mapa IX anexo ao Estatuto Judiciário é alterado nos seguintes termos:
 
 Supremo Tribunal de Justiça: ...
 
@@ -189,16 +213,16 @@ Repartição Administrativa: 1 técnico de 2.ª classe, 1 chefe de secção 1 pr
 
 Repartição Judicial: ...
 
-###### Art. 3.º A colocação dos funcionários do quadro actual far-se-á mediante publicação no Diário da República de listas nominativas assinadas pelo Ministro da Justiça, mediante proposta do presidente da Relação respectiva, considerando-se providos nos novos cargos, sem dependência de outras formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 3.º A colocação dos funcionários do quadro actual far-se-á mediante publicação no Diário da República de listas nominativas assinadas pelo Ministro da Justiça, mediante proposta do presidente da Relação respectiva, considerando-se providos nos novos cargos, sem dependência de outras formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 4.º Os encargos a que der lugar a execução do presente diploma serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Delegação da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por portaria subscrita pelos Ministros da Justiça e das Finanças.
+Art. 4.º Os encargos a que der lugar a execução do presente diploma serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Delegação da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por portaria subscrita pelos Ministros da Justiça e das Finanças.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira.
 
-**Promulgado em 12 de Janeiro de 1977.**
+Promulgado em 12 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

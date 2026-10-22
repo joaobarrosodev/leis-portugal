@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 5º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 1670-(91) a 1670-(91)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30305/00910091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa39c766a5cda8f41f564598d69ca3ef45f3e07055a3f2e1098e9f08427f8026
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ce343d2c9811dfb17cc6075f6c28450b36fb140b5ba88005f89de3c796e4df7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Formas de Provimento
+- Gabinete Governamental
+- Pessoal de Gabinete
 relationships:
 - type: amended_by
   target: pt:dre:250416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505999:por
+  label: "Alterado o art. 4º, pelo DEC LEI.55/76.1976.01.22.MAI, DG.IS [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1976-505999
+  date: '1976-01-22'
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250416:por
+  label: "Revogado pelo DEC LEI.267/77.1977.07.02.PCM, DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1977-250416
+  date: '1977-07-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:31Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +118,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os Gabinetes dos Ministros ou Secretários de Estado asseguram o apoio à acção governativa.
+Artigo 1.º Os Gabinetes dos Ministros ou Secretários de Estado asseguram o apoio à acção governativa.
 
-###### Art. 2.º - 1. São membros do Gabinete o chefe do Gabinete, os adjuntos do Gabinete e os secretários pessoais do Ministro ou do Secretário de Estado.
+Art. 2.º - 1. São membros do Gabinete o chefe do Gabinete, os adjuntos do Gabinete e os secretários pessoais do Ministro ou do Secretário de Estado.
 
 2. Ao chefe do Gabinete compete a direcção do Gabinete, a ligação aos diversos serviços do respectivo Ministério ou Secretaria de Estado, bem como aos outros departamentos do Estado, e a representação do Ministro ou Secretário de Estado nos actos de carácter não estritamente pessoal.
 
@@ -110,31 +128,31 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. O número dos secretários pessoais não poderá exceder dois por Gabinete de Ministro ou Secretário de Estado.
 
-###### Art. 3.º Os Subsecretários de Estado poderão ser apoiados por um adjunto do Gabinete e por um secretário pessoal, a integrar no Gabinete do membro do Governo do qual tem competência delegada.
+Art. 3.º Os Subsecretários de Estado poderão ser apoiados por um adjunto do Gabinete e por um secretário pessoal, a integrar no Gabinete do membro do Governo do qual tem competência delegada.
 
-###### Art. 4.º - 1. Os membros do Gabinete serão providos livremente pelo Ministro, Secretário ou Subsecretário de Estado, considerando-se para todos os efeitos em exercício de funções desde a data do despacho que os tiver nomeado.
+Art. 4.º - 1. Os membros do Gabinete serão providos livremente pelo Ministro, Secretário ou Subsecretário de Estado, considerando-se para todos os efeitos em exercício de funções desde a data do despacho que os tiver nomeado.
 
 2. Quando sejam funcionários, exercerão os seus cargos em comissão de serviço, com a faculdade de optar pelos abonos, vencimentos e gratificações correspondentes aos cargos de origem.
 
-###### Art. 5.º - 1. Os membros do Governo podem destacar para o Gabinete funcionários dos serviços do seu Ministério, para apoio técnico e administrativo.
+Art. 5.º - 1. Os membros do Governo podem destacar para o Gabinete funcionários dos serviços do seu Ministério, para apoio técnico e administrativo.
 
 2. Para os efeitos do número anterior, pode também qualquer Ministro recorrer à Secretaria-Geral da Presidência do Conselho de Ministros, obtida a concordância do Primeiro-Ministro, ou a qualquer outro Ministério, com o acordo do respectivo Ministro.
 
-###### Art. 6.º - 1. O vencimento dos membros do Gabinete é o que consta do quadro anexo.
+Art. 6.º - 1. O vencimento dos membros do Gabinete é o que consta do quadro anexo.
 
 2. Os membros do Gabinete não podem beneficiar de quaisquer gratificações ou abonos por trabalho extraordinário.
 
-###### Art. 7.º Fica revogado o artigo 39.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 7.º Fica revogado o artigo 39.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro a que se refere o artigo 6.º
 
@@ -144,4 +162,4 @@ Adjuntos do Gabinete ... D
 
 Secretários pessoais ... F
 
-**O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro das Finanças, José da Silva Lopes.**
+O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro das Finanças, José da Silva Lopes.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11700/10981099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1980-474110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adcada0bcb48eb60fced819c6cddd9e4a39ce7b36fcda41b84091b9cba952b5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b99d39c73eedb1ebeeb156f356930ee4df3bc368b75fb77b1c6412f7809fa605
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissariado para os Desalojados
+- Desalojado
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:324564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:37Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +116,7 @@ Considerando que, por esse motivo, importa definir o destino do respectivo pesso
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Destino do pessoal do Comissariado para os Desalojados)
 
@@ -103,7 +124,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - A situação prevista no número anterior não prejudica a colocação que o referido pessoal tenha obtido em data anterior à da publicação do presente diploma, a qual passará a subordinar-se ao regime de requisição a que se refere o artigo 2.º do [Decreto-Lei n.º 389/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1978-324564), de 12 de Dezembro.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Forma de transição)
 
@@ -115,7 +136,7 @@ a) A categoria e letra de vencimento de cada funcionário;
 
 b) A identificação dos serviços ou organismos onde os mesmos estejam colocados, quando for caso disso.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Vencimentos)
 
@@ -123,13 +144,13 @@ b) A identificação dos serviços ou organismos onde os mesmos estejam colocado
 
 2 - Competirá à DGRF assegurar o pagamento dos respectivos vencimentos por conta da adequada rubrica referente ao QGA, inscrita no seu orçamento, a partir do dia 1 do mês seguinte ao da aprovação das listas nominativas referidas no artigo 2.º
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Resolução de dúvidas)
 
 As dúvidas resultantes da aplicação deste diploma serão esclarecidas mediante despacho do Ministro das Finanças e do Plano e do membro do Governo que superintender na função pública de harmonia com as respectivas competências.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Entrada em vigor)
 
@@ -137,8 +158,8 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 9 de Maio de 1980.**
+Promulgado em 9 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

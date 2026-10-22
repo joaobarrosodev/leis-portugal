@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01600/01070108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1976-506023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baa2981eac4e4cf5d0d27539019592e8f8cb9adbec651fb9ddcb8a7da1f9de7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdb4201e8dbf095cfc53e55d4df4721fb76c9a60362a954c43a53bad0e254212
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- CASA dos Pescadores
+- Extinção de Serviços
+- Integração de Serviços
+- Junta Central das Casas dos Pescadores
+- Pagamento
+- Pescador
+- Previdência Social
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:516772:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516772:por
+  label: "Extinta a Caixa de Previdência e Abono de Família dos Profissionais de Pesca e revogado o presente diploma pelo\
+    \ DEC LEI.110/92.02.06.1992.MESS, DR.IS-A [127] de 02.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-1992-516772
+  date: '1992-06-02'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472173:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:49Z'
   warnings: []
   errors: []
 ---
@@ -107,17 +146,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Junta Central das Casas dos Pescadores é uma caixa de previdência e abono de família, caixa sindical de previdência da espécie prevista na base XII, alínea a), da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e passa a denominar-se Caixa de Previdência e Abono de Família dos Profissionais de Pesca.
+Artigo 1.º - 1. A Junta Central das Casas dos Pescadores é uma caixa de previdência e abono de família, caixa sindical de previdência da espécie prevista na base XII, alínea a), da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e passa a denominar-se Caixa de Previdência e Abono de Família dos Profissionais de Pesca.
 
 2. As Casas dos Pescadores passam a designar-se delegações da Caixa de Previdência e Abono de Família dos Profissionais de Pesca e a ter a natureza jurídica exclusiva de delegações administrativas da Caixa de Previdência e Abono de Família dos Profissionais de Pesca.
 
 3. As funções de representação profissional dos profissionais de pesca passam a ser desempenhadas exclusivamente por associações livres de profissionais de pesca, nos termos da legislação sobre associações sindicais.
 
-###### Art. 2.º - 1. São extintas a assembleia geral, a direcção e o conselho consultivo das Casas dos Pescadores.
+Art. 2.º - 1. São extintas a assembleia geral, a direcção e o conselho consultivo das Casas dos Pescadores.
 
 2. São também suprimidos os órgãos de existência eventual e de funcionamento ocasional e as assembleias restritas previstas no [Decreto-Lei n.º 48506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48506-1968-273636), de 30 de Julho de 1968.
 
-###### Art. 3.º - 1. O funcionamento dos serviços das delegações das Caixas de Previdência e Abono de Família dos Profissionais de Pesca passará a ser fiscalizado, até integração nas caixas distritais, por um delegado dos respectivos beneficiários.
+Art. 3.º - 1. O funcionamento dos serviços das delegações das Caixas de Previdência e Abono de Família dos Profissionais de Pesca passará a ser fiscalizado, até integração nas caixas distritais, por um delegado dos respectivos beneficiários.
 
 2. O delegado dos beneficiários deverá ser um pescador companheiro eleito em assembleia geral do respectivo sindicato, sendo a duração do seu mandato fixada em despacho do Secretário de Estado da Segurança Social.
 
@@ -131,13 +170,13 @@ c) Dar conhecimento aos serviços da respectiva delegação da Caixa de Previdê
 
 d) Apresentar, mensalmente, à direcção da Caixa de Previdência e Abono de Família dos Profissionais de Pesca um relatório, escrito ou verbal, sobre o funcionamento da delegação da Caixa de Previdência e Abono de Família dos Profissionais de Pesca e dar conhecimento das reclamações apresentadas e do respectivo seguimento.
 
-###### Art. 4.º - 1. É suprimida a obrigação de os beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca pagarem quotas mensais para as delegações da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, mantendo-se, no entanto, a obrigação do pagamento de contribuições, nos termos da legislação em vigor.
+Art. 4.º - 1. É suprimida a obrigação de os beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca pagarem quotas mensais para as delegações da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, mantendo-se, no entanto, a obrigação do pagamento de contribuições, nos termos da legislação em vigor.
 
 2. A cessação do pagamento das quotas a que se refere o número anterior tem efeito a partir de 1 de Janeiro de 1976.
 
-###### Art. 5.º As normas de funcionamento da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, bem como das suas delegações, serão objecto de regulamentação a ser aprovada por despacho do Secretário de Estado da Segurança Social.
+Art. 5.º As normas de funcionamento da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, bem como das suas delegações, serão objecto de regulamentação a ser aprovada por despacho do Secretário de Estado da Segurança Social.
 
-###### Art. 6.º Até 31 de Dezembro de 1976 deverá proceder-se à integração:
+Art. 6.º Até 31 de Dezembro de 1976 deverá proceder-se à integração:
 
 a) Da Caixa de Previdência e Abono de Família dos Profissionais de Pesca numa das caixas de previdência e abono de família do distrito de Lisboa, a designar por despacho do Secretário de Estado da Segurança Social;
 
@@ -145,8 +184,8 @@ b) Das suas delegações na caixa de previdência e abono de família do distrit
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - António Poppe Lopes Cardoso - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

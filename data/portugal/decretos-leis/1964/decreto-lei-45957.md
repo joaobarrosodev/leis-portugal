@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45957-1964-536673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05050d2cd569d5f46003f624fe97320e0d80bbe7b82ba6e5a10813fc7f9a991e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b41e5457fe229ffdfd3bcbb62159f70ae609774edd1944c57d043414636bf1a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Direcção Geral das Alfândegas
+- Direitos Aduaneiros
+- Exportação
+- Importação
+- Pauta Aduaneira
 relationships: []
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:41Z'
   warnings: []
   errors: []
 ---
@@ -86,25 +92,25 @@ Considerando que se julga conveniente prosseguir na política anteriormente tra�
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os actuais artigos da pauta de exportação 31-A, 31-B e 70-B passam a ter, respectivamente, os n.os 31-B, 31-C e 70-C.
+Artigo 1.º Os actuais artigos da pauta de exportação 31-A, 31-B e 70-B passam a ter, respectivamente, os n.os 31-B, 31-C e 70-C.
 
-###### Art. 2.º São inseridos na pauta de exportação os artigos 14-A, 23-B, 31-A, 70-B e 79-B, com a redacção seguinte:
+Art. 2.º São inseridos na pauta de exportação os artigos 14-A, 23-B, 31-A, 70-B e 79-B, com a redacção seguinte:
 
-###### Artigo 14-A - Amidos, dextrina e féculas ... Livre
+Artigo 14-A - Amidos, dextrina e féculas ... Livre
 
-###### Artigo 23-B - Cloreto de polivinilo ... Livre
+Artigo 23-B - Cloreto de polivinilo ... Livre
 
-###### Artigo 31-A - Ferro ou aço, em fios, barras ou perfis ... Livre
+Artigo 31-A - Ferro ou aço, em fios, barras ou perfis ... Livre
 
-###### Artigo 70-B - Café em qualquer estado ... Livre
+Artigo 70-B - Café em qualquer estado ... Livre
 
-###### Artigo 79-B - Glucose em qualquer estado ... Livre
+Artigo 79-B - Glucose em qualquer estado ... Livre
 
-###### Art. 3.º É eliminada do índice remissivo da pauta de exportação a seguinte rubrica e respectiva remissão:
+Art. 3.º É eliminada do índice remissivo da pauta de exportação a seguinte rubrica e respectiva remissão:
 
 Café ... 100
 
-###### Art. 4.º São alteradas pela forma seguinte as remissões das rubricas do índice remissivo da pauta de exportação:
+Art. 4.º São alteradas pela forma seguinte as remissões das rubricas do índice remissivo da pauta de exportação:
 
 Arame:
 
@@ -122,7 +128,7 @@ Hematites ... 31-C
 
 Magnetites ... 31-C
 
-###### Art. 5.º São introduzidas no índice remissivo da pauta de exportação as seguintes rubricas e respectivas remissões:
+Art. 5.º São introduzidas no índice remissivo da pauta de exportação as seguintes rubricas e respectivas remissões:
 
 Aço:
 
@@ -154,6 +160,6 @@ Glucose em qualquer estado ... 79-B
 
 Peças para máquinas de escrever ... 112-D
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

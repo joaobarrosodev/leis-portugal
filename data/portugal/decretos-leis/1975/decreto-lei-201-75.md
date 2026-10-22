@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08800/05590569.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab1173f71f102c586e155a8e9fc6975254c26711596e8edc7411412c023f8ec0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e10e775b3213afa188d7a187c714c9978c8b0810b68d448da6e43f49448d43a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Arrendamento Rural
+- Comissão Arbitral
+- Exploração Agrícola
+- Indemnização
+- Instituto de Reorganização Agrária
+- JURO de MORA
+- Madeira.ilha Adjacente
+- Política Agrícola
+- Política de Solos
+- Prazo
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:354686:por
+  label: "Prorrogado até 31.03.1976 o prazo previsto no nº 1 do art. 39º pelo DEC LEI.789/75.31.12.1975.MAP, DG.IS [300-8ºSupl]\
+    \ de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/789-1975-354686
+  date: '1975-12-31'
+- type: cites
+  target: pt:dre:242879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425111:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310837:por
+  label: "Revogado o nº 2 do artº 14º pelo DEC LEI.733/75.1975.12.23.MAP, DG.IS [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/733-1975-310837
+  date: '1975-12-23'
+- type: repealed_by
+  target: pt:dre:416473:por
+  label: "Revogados os arts 35º a 37º do presente diploma, pelo DEC LEI.896/76.1976.12.30.SEEA-MAP, DG.IS[302]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/896-1976-416473
+  date: '1976-12-30'
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º, pela LEI.77/77.1977.09.29.PCM DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
+- type: repealed_by
+  target: pt:dre:278708:por
+  label: "Revogado, bem como toda a legislação existente sobre arrendamento rural pela LEI.76/77.1977.09.29.AR, DR.IS [226]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/76-1977-278708
+  date: '1977-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:49Z'
   warnings: []
   errors: []
 ---
@@ -638,8 +689,8 @@ Este diploma entrará em vigor quinze dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 2 de Abril de 1975.**
+Promulgado em 2 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

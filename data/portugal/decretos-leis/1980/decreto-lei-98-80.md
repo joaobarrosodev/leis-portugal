@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 103/1980, 1º Suplemento, Série I de 1980-05-05
   number: '103'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 864-(5) a 864-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10301/00050009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1980-299002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9407bf78ea9d69918e148d70aa5a70993237904568c2dd97fcbfc20310277a41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ca585496764e01586a34e8870e01c673ec0ba8e5e4dd9ed6516e9ba03d22766
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cortiça
+- Exploração Agrícola
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:375234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573333:por
+  label: "Aditado um nº 6 ao artigo 12º pelo DEC LEI.100/81.06.05.1981.MAP, DR.IS [103] de 06.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1981-573333
+  date: '1981-05-06'
+- type: cites
+  target: pt:dre:250387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298999:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669091:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 189-C/81 - Diário da República n.º 150/1981, 1º Suplemento, Série
+    I de 1981-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-c-1981-669091
+  date: '1981-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:52Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +137,11 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Ficam sujeitos à disciplina do presente diploma os órgãos e departamentos do Estado e as entidades singulares ou colectivas, gestores em nome próprio ou por conta alheia, de explorações agrícolas com montados de sobro situadas em prédios rústicos nacionalizados ou expropriados, no tocante às operações de extracção, comercialização e transporte de cortiça amadia, bem como a todas as demais operações inerentes à cultura suberícola.
+Artigo 1.º - 1 - Ficam sujeitos à disciplina do presente diploma os órgãos e departamentos do Estado e as entidades singulares ou colectivas, gestores em nome próprio ou por conta alheia, de explorações agrícolas com montados de sobro situadas em prédios rústicos nacionalizados ou expropriados, no tocante às operações de extracção, comercialização e transporte de cortiça amadia, bem como a todas as demais operações inerentes à cultura suberícola.
 
 2 - Os proprietários dos prédios não abrangidos pelo número anterior poderão requerer a sujeição à disciplina do presente decreto-lei.
 
-###### Art. 2.º As entidades referidas no artigo anterior ficam sujeitas às seguintes obrigações:
+Art. 2.º As entidades referidas no artigo anterior ficam sujeitas às seguintes obrigações:
 
 a) Cumprir as directrizes dos serviços competentes do Ministério da Agricultura e Pescas relativamente a todas as operações culturais e de exploração dos montados de sobro;
 
@@ -129,7 +151,7 @@ c) Promover a extracção e empilhamento de toda a cortiça amadia que perfaça 
 
 d) Não efectuar nem permitir que se efectue o levantamento de quaisquer quantidades de cortiça amadia, de que são consideradas fiéis depositárias, sem autorização escrita do Instituto dos Produtos Florestais.
 
-###### Art. 3.º - 1 - Os adquirentes de cortiça amadia às entidades referidas no artigo 1.º ficam sujeitos às seguintes obrigações:
+Art. 3.º - 1 - Os adquirentes de cortiça amadia às entidades referidas no artigo 1.º ficam sujeitos às seguintes obrigações:
 
 a) Efectuar o contrato de compra e venda de cortiça amadia nos termos do artigo 4.º deste diploma;
 
@@ -143,7 +165,7 @@ e) Prestar à Comissão da Comercialização da Cortiça, criada pelo [Decreto-L
 
 2 - Os adquirentes de cortiça amadia ficam ainda obrigados a permitir aos elementos da Comissão de Comercialização da Cortiça, do Instituto dos Produtos Florestais e da Direcção-Geral da Fiscalização Económica ou seus representantes, devidamente credenciados, o acesso às suas instalações e o exame dos seus stocks de cortiça, assim como dos documentos comprovativos da origem dos mesmos.
 
-###### Art. 4.º - 1 - Os negócios jurídicos que tenham por objecto a cortiça amadia, bocados incluídos, proveniente dos montados de sobro das explorações agrícolas situadas nos prédios rústicos referidos no artigo 1.º são obrigatoriamente reduzidos a escrito.
+Art. 4.º - 1 - Os negócios jurídicos que tenham por objecto a cortiça amadia, bocados incluídos, proveniente dos montados de sobro das explorações agrícolas situadas nos prédios rústicos referidos no artigo 1.º são obrigatoriamente reduzidos a escrito.
 
 2 - O documento que titula o negócio jurídico de comercialização da cortiça deverá ser outorgado pelo adquirente e pelos representantes legais dos órgãos ou entidades referidos no artigo 1.º deste diploma, sendo as assinaturas reconhecidas notarialmente.
 
@@ -163,7 +185,7 @@ f) Calendário de pagamentos, cujo intervalo é limitado ao prazo máximo de tre
 
 4 - A celebração dos negócios jurídicos obriga ao depósito, por parte do adquirente, na Caixa Geral de Depósitos, na conta especial do Instituto dos Produtos Florestais, no prazo de dez dias após o registo do contrato, da importância correspondente ao sinal, que não poderá ser inferior a 10% do valor estimado, no caso de os encargos da extracção correrem por conta do adquirente, e a 20%, no caso de os encargos de extracção correrem por conta da entidade vendedora.
 
-###### Art. 5.º - 1 - O produto da venda da cortiça amadia a que se referem os artigos anteriores terá a seguinte distribuição, por cada contrato:
+Art. 5.º - 1 - O produto da venda da cortiça amadia a que se referem os artigos anteriores terá a seguinte distribuição, por cada contrato:
 
 a) Uma percentagem dos depósitos, a definir anualmente, até 28 de Fevereiro, por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo, destinada às despesas de extracção e empilhamento da cortiça amadia, operações culturais e de exploração do montado para as entidades referidas no artigo 1.º deste diploma;
 
@@ -173,21 +195,21 @@ c) O restante dos depósitos para cobertura de despesas com acções de investig
 
 2 - No caso do n.º 2 do artigo 1.º, o produto da venda da cortiça será entregue ao proprietário, após a dedução prevista na alínea a) do número anterior.
 
-###### Art. 6.º Quando os encargos de extracção e empilhamento da cortiça não correrem por conta das entidades mencionadas no artigo 1.º, à verba correspondente à alínea a) do n.º 1 do artigo 5.º será deduzido um quantitativo, por arroba, a fixar por despacho do Ministro da Agricultura e Pescas, até 28 de Fevereiro de cada ano.
+Art. 6.º Quando os encargos de extracção e empilhamento da cortiça não correrem por conta das entidades mencionadas no artigo 1.º, à verba correspondente à alínea a) do n.º 1 do artigo 5.º será deduzido um quantitativo, por arroba, a fixar por despacho do Ministro da Agricultura e Pescas, até 28 de Fevereiro de cada ano.
 
-###### Art. 7.º Compete à Comissão de Comercialização da Cortiça coordenar a aplicação do determinado neste diploma.
+Art. 7.º Compete à Comissão de Comercialização da Cortiça coordenar a aplicação do determinado neste diploma.
 
-###### Art. 8.º A Comissão de Comercialização da Cortiça submeterá, até ao dia 30 de Novembro de cada ano, aos Ministros da Agricultura e Pescas e do Comércio e Turismo o plano de utilização e distribuição das verbas referidas na alínea c) do n.º 1 do artigo 5 para execução no ano seguinte.
+Art. 8.º A Comissão de Comercialização da Cortiça submeterá, até ao dia 30 de Novembro de cada ano, aos Ministros da Agricultura e Pescas e do Comércio e Turismo o plano de utilização e distribuição das verbas referidas na alínea c) do n.º 1 do artigo 5 para execução no ano seguinte.
 
-###### Art. 9.º - 1 - A Comissão de Comercialização da Cortiça homologará o preço unitário por arroba estabelecido nos negócios jurídicos referidos no artigo 4.º, sem prejuízo da sujeição eventual a concurso público dessa aquisição nos casos em que a Comissão o julgue conveniente.
+Art. 9.º - 1 - A Comissão de Comercialização da Cortiça homologará o preço unitário por arroba estabelecido nos negócios jurídicos referidos no artigo 4.º, sem prejuízo da sujeição eventual a concurso público dessa aquisição nos casos em que a Comissão o julgue conveniente.
 
 2 - Das decisões da Comissão poderão os adquirentes interpor recurso para o Ministro da Agricultura e Pescas, no prazo de trinta dias, contado a partir do conhecimento oficial do acto.
 
-###### Art. 10.º É atribuída acção disciplinar à Comissão de Comercialização da Cortiça sobre os intervenientes nos negócios jurídicos referidos no artigo 4.º deste diploma.
+Art. 10.º É atribuída acção disciplinar à Comissão de Comercialização da Cortiça sobre os intervenientes nos negócios jurídicos referidos no artigo 4.º deste diploma.
 
-###### Art. 11.º A Comissão disporá da colaboração da Direcção-Geral do Ordenamento e Gestão Florestal, do Instituto de Gestão e Estruturação Fundiária e das direcções regionais de agricultura, do Ministério da Agricultura e Pescas, do Instituto dos Produtos Florestais e da Direcção-Geral de Fiscalização Económica, do Ministério do Comércio e Turismo.
+Art. 11.º A Comissão disporá da colaboração da Direcção-Geral do Ordenamento e Gestão Florestal, do Instituto de Gestão e Estruturação Fundiária e das direcções regionais de agricultura, do Ministério da Agricultura e Pescas, do Instituto dos Produtos Florestais e da Direcção-Geral de Fiscalização Económica, do Ministério do Comércio e Turismo.
 
-###### Art. 12.º - 1 - Ao Instituto dos Produtos Florestais cabe:
+Art. 12.º - 1 - Ao Instituto dos Produtos Florestais cabe:
 
 a) Abrir uma conta especial na Caixa Geral de Depósitos para movimentação das verbas depositadas pelos adquirentes;
 
@@ -217,7 +239,7 @@ h) Efectuar a distribuição das verbas correspondentes ao restante ou à totali
 
 5 - Quando o prazo seja excedido, o Instituto dos Produtos Florestais remeterá à direcção regional de agricultura da zona a importância em causa.
 
-###### Art. 13.º - 1 - À Direcção-Geral do Ordenamento e Gestão Florestal compete organizar o Corpo de Assistência Técnica e de Fiscalização, com funcionários do seu quadro de pessoal até ao número de trinta, responsabilizando-se pela sua eficiente actuação, por forma a cumprir as funções que lhe são cometidas neste diploma.
+Art. 13.º - 1 - À Direcção-Geral do Ordenamento e Gestão Florestal compete organizar o Corpo de Assistência Técnica e de Fiscalização, com funcionários do seu quadro de pessoal até ao número de trinta, responsabilizando-se pela sua eficiente actuação, por forma a cumprir as funções que lhe são cometidas neste diploma.
 
 2 - A actuação do Corpo de Assistência Técnica e de Fiscalização fica sujeita à orientação da Comissão de Comercialização da Cortiça.
 
@@ -239,21 +261,21 @@ g) Informar a Comissão de Comercialização da Cortiça da evolução da situa�
 
 h) Prestar à Comissão toda a colaboração que lhe for pedida.
 
-###### Art. 14.º À Direcção-Geral de Fiscalização Económica compete pôr à disposição da Comissão de Comercialização da Cortiça, quando por esta for solicitado, brigadas, que procederão às diligências mencionadas no n.º 2 do artigo 3.º e levantarão os competentes autos de notícia.
+Art. 14.º À Direcção-Geral de Fiscalização Económica compete pôr à disposição da Comissão de Comercialização da Cortiça, quando por esta for solicitado, brigadas, que procederão às diligências mencionadas no n.º 2 do artigo 3.º e levantarão os competentes autos de notícia.
 
-###### Art. 15.º Ao Instituto de Gestão e Estruturação Fundiária e às direcções regionais de agricultura compete:
+Art. 15.º Ao Instituto de Gestão e Estruturação Fundiária e às direcções regionais de agricultura compete:
 
 a) Prestar as informações solicitadas pela Comissão de Comercialização da Cortiça, directamente ou através do Instituto dos Produtos Florestais, julgadas úteis para esclarecimento e tratamento dos contratos registados;
 
 b) Facilitar a missão do Corpo de Assistência Técnica e de Fiscalização.
 
-###### Art. 16.º - 1 - É proibido o levantamento e transporte de cortiça amadia dos prédios rústicos citados no artigo 1.º sem emissão prévia de autorização pelo Instituto dos Produtos Florestais.
+Art. 16.º - 1 - É proibido o levantamento e transporte de cortiça amadia dos prédios rústicos citados no artigo 1.º sem emissão prévia de autorização pelo Instituto dos Produtos Florestais.
 
 2 - A autorização a que se refere o número anterior deverá ser apresentada pelo adquirente à entidade vendedora, sendo aquela datada e assinada por qualquer dos seus representantes legais, antes que se permita o levantamento do montante de cortiça amadia mencionado na autorização.
 
 3 - O adquirente deverá devolver ao Instituto dos Produtos Florestais as autorizações já utilizadas, no prazo de cinco dias, contado a partir da data da sua utilização, sem o que não lhe serão concedidas novas autorizações, independentemente dos depósitos já efectuados.
 
-###### Art. 17.º - 1 - A falta de envio da declaração de previsão de extracção no prazo legal é punida com a multa de 500$00 a 5000$00 e 20000$00, consoante a falta se verifique pela primeira vez, segunda ou mais vezes, não sendo aplicável a cada alienante mais que uma multa por ano.
+Art. 17.º - 1 - A falta de envio da declaração de previsão de extracção no prazo legal é punida com a multa de 500$00 a 5000$00 e 20000$00, consoante a falta se verifique pela primeira vez, segunda ou mais vezes, não sendo aplicável a cada alienante mais que uma multa por ano.
 
 2 - A falta de empilhamento da cortiça amadia após a extracção é punida com multa de 5000$00, 50000$00 e 200000$00, conforme a falta se verifique pela primeira vez, segunda ou mais vezes.
 
@@ -279,17 +301,17 @@ b) Multa mínima de 10000$00 e máxima de 1000000$00 à entidade vendedora;
 
 c) Multa mínima de 350000$00 e máxima de 10000000$00 ao adquirente.
 
-###### Art. 18.º A reincidência será sempre punida com multa superior à anterior até se atingirem os limites máximos estabelecidos.
+Art. 18.º A reincidência será sempre punida com multa superior à anterior até se atingirem os limites máximos estabelecidos.
 
-###### Art. 19.º - 1 - Os autos de notícia serão apreciados pela Comissão de Comercialização da Cortiça, competindo-lhe graduar as sanções a aplicar e notificar os transgressores por carta registada com aviso de recepção para procederem ao pagamento das multas, querendo, no prazo de quinze dias, contado a partir da data de assinatura do aviso de recepção.
+Art. 19.º - 1 - Os autos de notícia serão apreciados pela Comissão de Comercialização da Cortiça, competindo-lhe graduar as sanções a aplicar e notificar os transgressores por carta registada com aviso de recepção para procederem ao pagamento das multas, querendo, no prazo de quinze dias, contado a partir da data de assinatura do aviso de recepção.
 
 2 - Decorrido o prazo de pagamento voluntário, se este não for efectuado, a Comissão de Comercialização da Cortiça remeterá o processo ao tribunal competente.
 
-###### Art. 20.º O produto das multas reverterá integralmente para o Estado.
+Art. 20.º O produto das multas reverterá integralmente para o Estado.
 
-###### Art. 21.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 21.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 22.º - 1 - Este diploma entra em vigor no dia imediato ao da sua publicação e revoga toda a legislação que o contrarie, excepto no que diz respeito aos contratos de comercialização de cortiça amadia das campanhas corticeiras de 1977, 1978 e 1979, registadas no Instituto dos Produtos Florestais, os quais serão tratados de acordo com o [Decreto-Lei n.º 260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387), de 21 de Junho.
+Art. 22.º - 1 - Este diploma entra em vigor no dia imediato ao da sua publicação e revoga toda a legislação que o contrarie, excepto no que diz respeito aos contratos de comercialização de cortiça amadia das campanhas corticeiras de 1977, 1978 e 1979, registadas no Instituto dos Produtos Florestais, os quais serão tratados de acordo com o [Decreto-Lei n.º 260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387), de 21 de Junho.
 
 2 - Os contratos de comercialização de cortiça amadia, referentes a cortiça a extrair na campanha corticeira de 1980 ou nas campanhas corticeiras seguintes, registados no Instituto dos Produtos Florestais com data até quinze dias após a publicação deste diploma devem ser adaptados, por instrumento adicional, ao regime naquele estatuído nos trinta dias posteriores ao seu registo no Instituto dos Produtos Florestais.
 
@@ -297,14 +319,14 @@ c) Multa mínima de 350000$00 e máxima de 10000000$00 ao adquirente.
 
 4 - No caso de a cortiça amadia produzida em montados de sobro contidos nas explorações agrícolas mencionadas no artigo 1.º deste diploma ser destinada a unidades de tratamento industrial nas mesmas integradas, ficam sujeitos às obrigações e penalidades cometidas aos adquirentes os responsáveis por aquelas unidades.
 
-###### Art. 23.º Para a campanha corticeira de 1980 serão fixados, no prazo de quinze dias, os valores das percentagens indicadas na alínea a) do n.º 1 do artigo 5.º e o quantitativo referido no artigo 6.º
+Art. 23.º Para a campanha corticeira de 1980 serão fixados, no prazo de quinze dias, os valores das percentagens indicadas na alínea a) do n.º 1 do artigo 5.º e o quantitativo referido no artigo 6.º
 
-###### Art. 24.º O presente diploma não se aplica a prédios que correspondam a áreas de reserva já entregues.
+Art. 24.º O presente diploma não se aplica a prédios que correspondam a áreas de reserva já entregues.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Abril de 1980.**
+Promulgado em 30 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

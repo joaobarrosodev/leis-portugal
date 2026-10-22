@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1972-689838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e88ca99ac799b89d9373f036319087196ced55c93b967d56dbdc9885bfff177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 535490c669fb73f8c6159320881f848b1e92d61ec2dab511eb4508ec08b8fa36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Assistência Médica
+- Cartão de Identificação
+- Doença
+- Estatuto
+- Formas de Provimento
+- Funcionário Público
+- Funcionário Ultramarino
+- Gratificação
+- Ministério do Ultramar
+- Mobilidade de Pessoal
+- Orgânica
+- Pessoal de Inspecção
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643948:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:13Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +112,19 @@ Tendo em vista propostas formuladas pelos Governos ultramarinos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É aplicado ao pessoal do Ministério, seus organismos consultivos e dependentes, o regime estabelecido nos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino para os casos de câncer, lepra, doença do sono e doenças mentais.
+Artigo 1.º - 1. É aplicado ao pessoal do Ministério, seus organismos consultivos e dependentes, o regime estabelecido nos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino para os casos de câncer, lepra, doença do sono e doenças mentais.
 
 2. As referências daquele Estatuto aos Governadores ultramarinos e às juntas de saúde locais consideram-se feitas ao Ministro do Ultramar e à Junta de Saúde do Ultramar.
 
 3. O produto do desconto fixado pelo artigo 312.º do referido Estatuto bem como o da redução a que se refere o § 4.º do artigo 310.º constituem receita do Hospital do Ultramar.
 
-###### Art. 2.º O regime de assistência na tuberculose ao pessoal do Ministério, seus organismos consultivos e dependentes, continua a regular-se pela legislação actualmente em vigor.
+Art. 2.º O regime de assistência na tuberculose ao pessoal do Ministério, seus organismos consultivos e dependentes, continua a regular-se pela legislação actualmente em vigor.
 
-###### Art. 3.º É aplicado ao pessoal do Ministério, seus organismos consultivos e dependentes, o disposto no § 7.º do artigo 42.º do Estatuto do Funcionalismo Ultramarino.
+Art. 3.º É aplicado ao pessoal do Ministério, seus organismos consultivos e dependentes, o disposto no § 7.º do artigo 42.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 4.º Os §§ 2.º a 5.º do artigo 144.º e § único do artigo 164.º da Lei Orgânica do Ministério do Ultramar, aprovada pelo [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, passam a ter a seguinte redacção:
+Art. 4.º Os §§ 2.º a 5.º do artigo 144.º e § único do artigo 164.º da Lei Orgânica do Ministério do Ultramar, aprovada pelo [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, passam a ter a seguinte redacção:
 
-###### Art. 144.º ...
+Art. 144.º ...
 
 § 1.º ...
 
@@ -114,30 +136,30 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º (O actual § 4.º)
 
-###### Art. 164.º ...
+Art. 164.º ...
 
 § único. Os lugares de chefe de secção ou superiores do Gabinete dos Negócios Políticos serão, de preferência, preenchidos por diplomados com os cursos superiores de Direito, de Economia, de Finanças ou de Ciências Sociais e de Política Ultramarina, ou outro curso superior adequado.
 
-###### Art. 5.º O número de inspectores superiores de administração ultramarina constante do mapa IV anexo à Lei Orgânica do Ministério do Ultramar passa a ser de dezasseis.
+Art. 5.º O número de inspectores superiores de administração ultramarina constante do mapa IV anexo à Lei Orgânica do Ministério do Ultramar passa a ser de dezasseis.
 
-###### Art. 6.º - 1. Passam a ser de 1500$00 mensais as gratificações fixadas nos mapas anexos à Lei Orgânica do Ministério do Ultramar para o exercício de funções de presidente do Conselho Superior Judiciário, director do Gabinete de Planeamento e Integração Económica, director do Gabinete dos negócios Políticos, agente-geral do Ultramar, inspector superior-chefe da Inspecção Superior de Administração Ultramarina, inspector superior das Alfândegas do Ultramar, vogal efectivo e substituto do Conselho Superior de Disciplina do Ultramar e agente do Ministério Público junto do mesmo Conselho.
+Art. 6.º - 1. Passam a ser de 1500$00 mensais as gratificações fixadas nos mapas anexos à Lei Orgânica do Ministério do Ultramar para o exercício de funções de presidente do Conselho Superior Judiciário, director do Gabinete de Planeamento e Integração Económica, director do Gabinete dos negócios Políticos, agente-geral do Ultramar, inspector superior-chefe da Inspecção Superior de Administração Ultramarina, inspector superior das Alfândegas do Ultramar, vogal efectivo e substituto do Conselho Superior de Disciplina do Ultramar e agente do Ministério Público junto do mesmo Conselho.
 
 2. Passa a ter direito à gratificação no quantitativo indicado no n.º 1 o secretário-geral do Ministério do Ultramar, pelo exercício das funções de presidente do Conselho Superior de Disciplina do Ultramar.
 
-###### Art. 7.º O artigo 23.º do [Decreto-Lei n.º 229/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1971-643948), de 28 de Maio, passa a ter a seguinte redacção:
+Art. 7.º O artigo 23.º do [Decreto-Lei n.º 229/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1971-643948), de 28 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 23.º Os inspectores provinciais, inspectores provinciais-adjuntos, técnicos-directores, chefes de serviços de inspecção bancária, chefes de serviços de inspecção de seguros, chefes de serviços de operações com o exterior, peritos juristas, actuariais e económicos, inspectores dos serviços de inspecção bancária e inspectores dos serviços de inspecção de seguros,
+Art. 23.º Os inspectores provinciais, inspectores provinciais-adjuntos, técnicos-directores, chefes de serviços de inspecção bancária, chefes de serviços de inspecção de seguros, chefes de serviços de operações com o exterior, peritos juristas, actuariais e económicos, inspectores dos serviços de inspecção bancária e inspectores dos serviços de inspecção de seguros,
 
 das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, terão direito ao uso de cartões de identidade, de modelo a aprovar pelos respectivos Governos-Gerais.
 
-###### Art. 8.º O presente decreto-lei entra em vigor no dia 1 de Novembro de 1972.
+Art. 8.º O presente decreto-lei entra em vigor no dia 1 de Novembro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Outubro de 1972.**
+Promulgado em 18 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

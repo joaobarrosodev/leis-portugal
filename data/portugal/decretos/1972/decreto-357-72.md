@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/357-1972-689050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3be851c2ab85662fe3ea1b68b2401b5b760c28f871ea63255480bc2c9d5a896
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b05ea2367c7cf7eec18853ec331c0c29917de0412354bcb05bfa90eed1063e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:42Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +87,14 @@ de 19 de Setembro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os serviços da Embaixada de Portugal no Brasil, que têm estado instalados no Rio de Janeiro e em Brasília, passam a funcionar ùnicamente na capital da República Federativa do Brasil.
+Artigo 1.º Os serviços da Embaixada de Portugal no Brasil, que têm estado instalados no Rio de Janeiro e em Brasília, passam a funcionar ùnicamente na capital da República Federativa do Brasil.
 
-###### Art. 2.º É criada uma secção consular junto da Embaixada de Portugal em Brasília.
+Art. 2.º É criada uma secção consular junto da Embaixada de Portugal em Brasília.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 13 de Setembro de 1972.**
+Promulgado em 13 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

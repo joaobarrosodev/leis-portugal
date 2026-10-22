@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 299/1979, 4º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3446-(81) a 3446-(82)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29904/00810082.pdf
 entry_into_force_dates: []
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e1-1979-157055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 443032447b0703a889ff88cffddfe2447d1b4311bf2dc8f5e8fd6e734b65b804
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f0af1f79c9c8d023b15df4b268525734f060d07fa773430d93979f29dcc13bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cônjuge
+- Funcionário Diplomático
+- Funcionário Público
+- Ministério dos Negócios Estrangeiros
+- Missão no Estrangeiro
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Diplomático
 relationships:
 - type: amended_by
   target: pt:dre:564831:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:401756:por
+  label: "Revogado o art. 5º, pelo DEC LEI.497/88.1988.12.30.MF, DR.IS [301]7ºSup\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1988-401756
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:07Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +112,9 @@ Nessa conformidade:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Quando os funcionários do quadro do serviço diplomático ou equiparados e, ainda, dos quadros administrativo e auxiliar do Ministério dos Negócios Estrangeiros forem colocados no estrangeiro, por períodos de tempo indeterminado mas superiores a noventa dias, os seus cônjuges, caso sejam funcionários públicos ou agentes administrativos em geral, terão direito à concessão de licença sem vencimento, nos termos dos artigos 2.º e 3.º do presente diploma.
+Artigo 1.º Quando os funcionários do quadro do serviço diplomático ou equiparados e, ainda, dos quadros administrativo e auxiliar do Ministério dos Negócios Estrangeiros forem colocados no estrangeiro, por períodos de tempo indeterminado mas superiores a noventa dias, os seus cônjuges, caso sejam funcionários públicos ou agentes administrativos em geral, terão direito à concessão de licença sem vencimento, nos termos dos artigos 2.º e 3.º do presente diploma.
 
-###### Art. 2.º - 1 - A licença sem vencimento será concedida a requerimento do interessado devidamente fundamentado.
+Art. 2.º - 1 - A licença sem vencimento será concedida a requerimento do interessado devidamente fundamentado.
 
 2 - Tratando-se de funcionário ocupando uma vaga de quadro, a concessão de licença sem vencimento nos termos deste diploma abrirá vaga no quadro de origem.
 
@@ -113,7 +126,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - O período de tempo no gozo de licença sem vencimento não contará, no entanto, para o efeito de concessão de diuturnidades ou de promoções baseadas apenas em critérios de antiguidade.
 
-###### Art. 3.º - 1 - Finda a colocação do cônjuge no estrangeiro, o funcionário ou agente administrativo em situação de licença sem vencimento nos termos do artigo anterior poderá restabelecer o vínculo existente à data da concessão da licença.
+Art. 3.º - 1 - Finda a colocação do cônjuge no estrangeiro, o funcionário ou agente administrativo em situação de licença sem vencimento nos termos do artigo anterior poderá restabelecer o vínculo existente à data da concessão da licença.
 
 2 - Para o efeito dirigirá ao Ministro da pasta requerimento fundamentado, no prazo de noventa dias a contar do decreto ou despacho de transferência do cônjuge para Portugal.
 
@@ -123,16 +136,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O não cumprimento do disposto no n.º 2 deste artigo implicará a perda do direito ao regresso ao serviço efectivo e, no caso de funcionário público de nomeação vitalícia, a passagem à situação de licença ilimitada.
 
-###### Art. 4.º - 1 - Aos cônjuges dos funcionários do quadro do serviço diplomático ou equiparados e, ainda, do quadro administrativo e auxiliar do Ministério dos Negócios Estrangeiros vinculados a empresas nas quais, independentemente da sua forma jurídica, o Estado, as regiões autónomas, as autarquias locais, os fundos autónomos os institutos públicos ou as instituições de previdência exercem, de direito, o poder de decisão é assegurado o direito à licença sem vencimento.
+Art. 4.º - 1 - Aos cônjuges dos funcionários do quadro do serviço diplomático ou equiparados e, ainda, do quadro administrativo e auxiliar do Ministério dos Negócios Estrangeiros vinculados a empresas nas quais, independentemente da sua forma jurídica, o Estado, as regiões autónomas, as autarquias locais, os fundos autónomos os institutos públicos ou as instituições de previdência exercem, de direito, o poder de decisão é assegurado o direito à licença sem vencimento.
 
 2 - Aos referidos cônjuges e no âmbito da licença sem vencimento aplicar-se-ão, com as necessárias adaptações derivadas dos regimes especiais das diversas empresas que integram o sector empresarial do Estado, as disposições constantes dos artigos 2.º e 3.º do presente diploma, a menos que do contrato de trabalho que os vincula à entidade patronal resultem outras mais favoráveis.
 
-###### Art. 5.º Cabe ao Ministro da tutela, ouvida a Direcção-Geral da Função Pública, a extensão, por despacho, do disposto neste decreto-lei a quaisquer funcionários ou agentes administrativos que, por períodos prolongados de tempo, assegurem no estrangeiro funções de defesa ou representação de interesses sectoriais do País.
+Art. 5.º Cabe ao Ministro da tutela, ouvida a Direcção-Geral da Função Pública, a extensão, por despacho, do disposto neste decreto-lei a quaisquer funcionários ou agentes administrativos que, por períodos prolongados de tempo, assegurem no estrangeiro funções de defesa ou representação de interesses sectoriais do País.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

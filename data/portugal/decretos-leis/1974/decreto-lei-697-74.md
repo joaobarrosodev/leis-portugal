@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1974-466809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08b926eb8a8a644de3e70ff555b96179b3d58b691ef8d1db04c52811d89d3064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8c81ee33df746a877d4e502a270fc912667ea506fbee57e3f5d61a364255042
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Estrada
+- Madeira.ilha Adjacente
+relationships:
+- type: cites
+  target: pt:dre:241850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:30Z'
   warnings: []
   errors: []
 ---
@@ -98,20 +113,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado, a título provisório, o plano de estradas e caminhos municipais das ilhas adjacentes constante do mapa anexo ao presente diploma.
+Artigo 1.º É aprovado, a título provisório, o plano de estradas e caminhos municipais das ilhas adjacentes constante do mapa anexo ao presente diploma.
 
-###### Art. 2.º O plano será tornado definitivo mediante decreto dimanado pelo Ministério do Equipamento Social e do Ambiente, depois de nele serem introduzidas, se for caso disso, as alterações sugeridas pelas autarquias locais e demais entidades interessadas que forem apresentadas dentro do prazo de um ano a contar da data deste decreto-lei, ouvidas as Comissões Regionais de Planeamento da Madeira e dos Açores.
+Art. 2.º O plano será tornado definitivo mediante decreto dimanado pelo Ministério do Equipamento Social e do Ambiente, depois de nele serem introduzidas, se for caso disso, as alterações sugeridas pelas autarquias locais e demais entidades interessadas que forem apresentadas dentro do prazo de um ano a contar da data deste decreto-lei, ouvidas as Comissões Regionais de Planeamento da Madeira e dos Açores.
 
 § único. As sugestões a que se refere este artigo deverão ser dirigidas, através das referidas Comissões Regionais, à Comissão Permanente para a Classificação das Vias Municipais, que funciona na Junta Autónoma de Estradas, em Lisboa, a qual submeterá à apreciação do Ministro a informação sobre os ajustamentos a fazer na presente classificação dentro dos três meses seguintes ao termo do mencionado prazo de um ano.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Augusto Fernandes.
 
-**Promulgado em 23 de Outubro de 1974.**
+Promulgado em 23 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/28400/15161532.pdf))](https://files.diariodarepublica.pt/1s/1974/12/28400/15161532.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/28400/15161532.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.**
+O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

@@ -50,40 +50,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c4d7fed265b6fac8fc4849b8cdeb94cee3f198a4c71a8b353efb170bd6162e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f137d0346dab6c8e58ab611f21c991d40df9567352fbcf84292d57e757b4714c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autonomia Financeira
+- Autorização de Despesas
+- Concurso Público
+- Função Pública
+- Organismo do Estado
 relationships:
 - type: amended_by
   target: pt:dre:380551:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418261:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380551:por
+  label: "Revogado, com excepção dos arts. 10º e 11º pelo DEC LEI.211/79.1979.07.12.MFP, DR.IS [159].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1979-380551
+  date: '1979-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:17Z'
   warnings: []
   errors: []
 ---
@@ -114,15 +145,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As obras ou aquisições de material podem efectuar-se mediante concurso ou ajuste directo e com ou sem contrato escrito.
+Artigo 1.º - 1. As obras ou aquisições de material podem efectuar-se mediante concurso ou ajuste directo e com ou sem contrato escrito.
 
 2. O concurso pode ser público ou limitado. É público quando possam concorrer todos aqueles que se encontrem nas condições gerais estabelecidas por lei; é limitado quando o concurso se realiza apenas entre determinado número de entidades, o qual, em princípio, deverá ser superior a três.
 
 3. Sempre que possível, deverá o ajuste directo ser precedido de consulta a três entidades, pelo menos. A consulta é obrigatória para a realização de despesas superiores a 2500$00.
 
-###### Art. 2.º As obras ou aquisições de material de importância superior a 40000$00 estão sujeitas à realização de concurso, que será necessàriamente público se a despesa exceder 200000$00, e à celebração de contrato escrito, salvo o disposto no artigo 4.º
+Art. 2.º As obras ou aquisições de material de importância superior a 40000$00 estão sujeitas à realização de concurso, que será necessàriamente público se a despesa exceder 200000$00, e à celebração de contrato escrito, salvo o disposto no artigo 4.º
 
-###### Art. 3.º As despesas com obras ou com aquisições de material podem ser autorizadas:
+Art. 3.º As despesas com obras ou com aquisições de material podem ser autorizadas:
 
 a) Até 40000$00, pelos directores-gerais e funcionários equiparados, bem como pelos funcionários que tenham a seu cargo a direcção de explorações agrícolas ou industriais do Estado, de obras geridas por administração directa ou de brigadas de trabalho de campo;
 
@@ -134,7 +165,7 @@ d) Até 4000000$00, pelo Presidente do Conselho e pelos Ministros;
 
 e) Sem limitação, pelo Conselho de Ministros.
 
-###### Art. 4.º São competentes para autorizar despesas com dispensa de realização de concurso, público ou limitado, e da celebração de contrato escrito:
+Art. 4.º São competentes para autorizar despesas com dispensa de realização de concurso, público ou limitado, e da celebração de contrato escrito:
 
 a) Até 200000$00, as entidades referidas na alínea b) do artigo anterior;
 
@@ -144,7 +175,7 @@ c) Até 2000000$00, o Presidente do Conselho e os Ministros;
 
 d) Sem limitação, o Conselho de Ministros.
 
-###### Art. 5.º - 1. Salvo preceito especial, só podem efectuar-se mediante autorização ministerial as despesas:
+Art. 5.º - 1. Salvo preceito especial, só podem efectuar-se mediante autorização ministerial as despesas:
 
 a) Com a realização de construções e obras novas, desde que não constem de planos anuais de aplicação das respectivas dotações orçamentais, aprovados pelo Ministro competente;
 
@@ -164,13 +195,13 @@ d) Que possam considerar-se excepcionais para o serviço que as tenha de realiza
 
 3. O disposto na alínea d) do n.º 1 aplica-se às despesas de qualquer natureza e classificação orçamental.
 
-###### Art. 6.º - 1. Os contratos que dêem lugar a encargo orçamental em mais de um ano económico, ou em ano que não seja o da sua realização, não podem ser celebrados sem prévia autorização conferida em decreto referendado pelo Ministro das Finanças e pelo da pasta respectiva, salvo quando resultem da execução de planos plurianuais legalmente aprovados ou quando os encargos deles resultantes não excedam o limita anual de 250000$00 e o prazo de execução de três anos.
+Art. 6.º - 1. Os contratos que dêem lugar a encargo orçamental em mais de um ano económico, ou em ano que não seja o da sua realização, não podem ser celebrados sem prévia autorização conferida em decreto referendado pelo Ministro das Finanças e pelo da pasta respectiva, salvo quando resultem da execução de planos plurianuais legalmente aprovados ou quando os encargos deles resultantes não excedam o limita anual de 250000$00 e o prazo de execução de três anos.
 
 2. Tanto os decretos que autorizem a celebração de contratos como os próprios contratos devem fixar o limite máximo do encargo correspondente a cada ano económico.
 
 3. Fica dispensada do cumprimento das disposições deste artigo a celebração de contratos relativos a trabalhos a mais ou imprevistos em empreitadas de obras públicas cujos contratos iniciais tenham sido precedidos de diploma publicado ao abrigo das mesmas disposições, desde que os novos encargos tenham cabimento no orçamento em vigor à data do adicional.
 
-###### Art. 7.º - 1. Os contratos de arrendamento de imóveis para instalação de serviços do Estado cuja prazo não seja superior a um ano ficam dispensados da autorização por decreto a que se refere o artigo anterior.
+Art. 7.º - 1. Os contratos de arrendamento de imóveis para instalação de serviços do Estado cuja prazo não seja superior a um ano ficam dispensados da autorização por decreto a que se refere o artigo anterior.
 
 2. Os contratos cuja renda anual não exceda 60000$00 carecem de autorização do Ministro da respectiva pasta.
 
@@ -178,7 +209,7 @@ d) Que possam considerar-se excepcionais para o serviço que as tenha de realiza
 
 4. Nos contratos a que se refere este artigo outorgará como inquilino o Estado, representado pela entidade que para isso estiver designada.
 
-###### Art. 8.º - 1. O Conselho de Ministros poderá delegar no Presidente do Conselho toda ou parte da competência que lhe é atribuída por este decreto-lei.
+Art. 8.º - 1. O Conselho de Ministros poderá delegar no Presidente do Conselho toda ou parte da competência que lhe é atribuída por este decreto-lei.
 
 2. As entidades mencionadas nas alíneas a) a c) do artigo 3.º poderão receber delegação dos Ministros quanto à competência que lhes é atribuída para autorizar despesas, bem como para dispensar a realização de concurso e a celebração de contrato escrito.
 
@@ -186,21 +217,21 @@ d) Que possam considerar-se excepcionais para o serviço que as tenha de realiza
 
 4. Às delegações e subdelegações de que tratam os n.os 2 e 3 é aplicável o disposto nos artigos 8.º e 9.º do [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1967.
 
-###### Art. 9.º Às vendas de quaisquer géneros e artigos que os serviços hajam de realizar é aplicável o regime do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), com as alterações introduzidas pelo presente diploma.
+Art. 9.º Às vendas de quaisquer géneros e artigos que os serviços hajam de realizar é aplicável o regime do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), com as alterações introduzidas pelo presente diploma.
 
-###### Art. 10.º A alínea g) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, passa a ter a seguinte redacção:
+Art. 10.º A alínea g) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, passa a ter a seguinte redacção:
 
 g) Todos os decretos, portarias, contratos, alvarás e despachos que importem abonos de qualquer espécie a pagar pela classe de «Pessoal», com excepção dos enumerados no § 1.º deste artigo e dos diplomas de transferência de que não resulte mudança de verba orçamental por onde se efectue o seu pagamento, bem como dos dispensados da formalidade do visto por lei especial.
 
-###### Art. 11.º Ao mesmo artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, é aditado o seguinte parágrafo:
+Art. 11.º Ao mesmo artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, é aditado o seguinte parágrafo:
 
 § 3.º Os diplomas de nomeação para lugares ou funções que por lei possam ser remunerados, embora o quantitativo da remuneração dependa de acto posterior, serão submetidos a visto do Tribunal de Contas, podendo neste caso as remunerações que forem superiormente estabelecidas ser abonadas desde a data da entrada em exercício dos nomeados, mas o seu pagamento só deverá efectuar-se depois do visto e publicação no Diário do Governo do respectivo despacho.
 
-###### Art. 12.º Ficam revogados o [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261), de 13 de Março de 1937, e os artigos 5.º, 6.º, 7.º, 10.º, 11.º, 22.º e 23.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, bem como os §§ 1.º a 4.º do artigo 4.º deste último diploma.
+Art. 12.º Ficam revogados o [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261), de 13 de Março de 1937, e os artigos 5.º, 6.º, 7.º, 10.º, 11.º, 22.º e 23.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, bem como os §§ 1.º a 4.º do artigo 4.º deste último diploma.
 
-###### Art. 13.º Os regimes especiais sobre matérias versadas no presente diploma serão revistos ou estabelecidos, em atenção às condições particulares dos serviços a que digam respeito, por meio de decreto referendado pelo Ministro das Finanças e pelo da pasta respectiva.
+Art. 13.º Os regimes especiais sobre matérias versadas no presente diploma serão revistos ou estabelecidos, em atenção às condições particulares dos serviços a que digam respeito, por meio de decreto referendado pelo Ministro das Finanças e pelo da pasta respectiva.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

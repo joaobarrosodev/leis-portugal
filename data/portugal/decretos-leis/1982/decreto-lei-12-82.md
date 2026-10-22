@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/01600/01400140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1982-601492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf6d49deb208b625ba2dea3c1d91970466803d2fc7d51f8351017f653810d9f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a040845437f31d5ed77175ce957f580f019c95e9ded17c75cf30bb6048fe919c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dívida Pública Externa
+- Exportação de Capitais
+- Importação de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679450:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:44Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +108,18 @@ Considerando a necessidade da coordenação e controle da dívida externa nacion
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aplicável o regime legal do [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), de 28 de Abril, às operações de importação e exportação de capitais realizadas por pessoas colectivas de direito público, com excepção do Estado e seus serviços e fundos não personalizados e sem autonomia administrativa e financeira e, bem assim, das pessoas colectivas de direito público expressamente excluídas daquele regime por despacho do Ministro das Finanças e do Plano.
+Artigo 1.º - 1 - É aplicável o regime legal do [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), de 28 de Abril, às operações de importação e exportação de capitais realizadas por pessoas colectivas de direito público, com excepção do Estado e seus serviços e fundos não personalizados e sem autonomia administrativa e financeira e, bem assim, das pessoas colectivas de direito público expressamente excluídas daquele regime por despacho do Ministro das Finanças e do Plano.
 
 2 - Não podem ser objecto da exclusão prevista no número anterior as empresas públicas, designadamente as que sejam instituições de crédito, parabancárias ou seguradoras.
 
 3 - O disposto no presente diploma quanto à realização de operações de importação ou exportação de capitais pelos serviços do Estado personalizados ou com autonomia administrativa e financeira, pelas empresas públicas e por outras entidades de direito público não prejudica o estabelecido quanto a orçamentos cambiais a submeter superiormente nem, no tocante a empresas públicas, o disposto na legislação às mesmas aplicável relativamente à necessidade de autorização ou de concordância do ministro da tutela.
 
-###### Art. 2.º O disposto neste diploma derroga o previsto no artigo 1.º do [Decreto n.º 14611](https://diariodarepublica.pt/dr/detalhe/decreto/14611-1927-679450), de 23 de Novembro de 1927.
+Art. 2.º O disposto neste diploma derroga o previsto no artigo 1.º do [Decreto n.º 14611](https://diariodarepublica.pt/dr/detalhe/decreto/14611-1927-679450), de 23 de Novembro de 1927.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Janeiro de 1982.**
+Promulgado em 6 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

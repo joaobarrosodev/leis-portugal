@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/11100/06150615.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1974-623403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a1988af92658ca79905b148682f1ef56832b298adf47d076008f6e8210f3a1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 331db6e714912fb4921332ec5030e76e4a5a702a43dc274e0698c3cecaa1407e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Canadá
+- Criação de Serviços
+- França
+- Pessoal Auxiliar
+- Quadro de Pessoal
+- Secretariado Nacional da Emigração
+- Venezuela
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:413019:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:09Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +109,20 @@ de 13 de Maio
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São criadas as delegações do Secretariado Nacional da Emigração em Bordéus, Clermont-Ferrand, Toulouse, Caracas e Montreal, cujos quadros de pessoal e respectivas categorias constam do mapa anexo ao presente diploma.
+Artigo 1.º - 1. São criadas as delegações do Secretariado Nacional da Emigração em Bordéus, Clermont-Ferrand, Toulouse, Caracas e Montreal, cujos quadros de pessoal e respectivas categorias constam do mapa anexo ao presente diploma.
 
 2. O pessoal das delegações a que se refere o número anterior fica abrangido pelo regime estabelecido no [Decreto n.º 55/74](https://diariodarepublica.pt/dr/detalhe/decreto/55-1974-413019), de 16 de Fevereiro.
 
-###### Art. 2.º Ao quadro de pessoal da delegação de Paris, anexo ao [Decreto n.º 55/74](https://diariodarepublica.pt/dr/detalhe/decreto/55-1974-413019), de 16 de Fevereiro, são acrescentados dois lugares de auxiliar de serviço social de 1.ª classe, com a categoria N.
+Art. 2.º Ao quadro de pessoal da delegação de Paris, anexo ao [Decreto n.º 55/74](https://diariodarepublica.pt/dr/detalhe/decreto/55-1974-413019), de 16 de Fevereiro, são acrescentados dois lugares de auxiliar de serviço social de 1.ª classe, com a categoria N.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 13 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da Junta de Salvação Nacional, Carlos Galvão de Melo, general.
 
-## Anexo — [([ver documento original](https://files.diariodarepublica.pt/1s/1974/05/11100/06150615.pdf))](https://files.diariodarepublica.pt/1s/1974/05/11100/06150615.pdf)
+## Anexo — [(ver documento original)](https://files.diariodarepublica.pt/1s/1974/05/11100/06150615.pdf)
 
 Pelo Presidente da Junta de Salvação Nacional, Carlos Galvão de Melo, general.

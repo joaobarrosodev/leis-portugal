@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04800/04040405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1976-507803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca91b062ef467858184e42ccdfdb050372d501b60937eed5b8ccebdc36d1a7f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccae92445a69e7a45e2597ac3ccd90c42d50ce2aa2b5fe9e84b6e29bf3099cb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tribunal de Contas
+- Formação Profissional
+- Integração de Trabalhadores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:329619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369404:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:57Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +118,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Enquanto não for publicada a reforma dos serviços da Direcção-Geral do Tribunal de Contas, o quadro provisório do seu pessoal será o que consta do mapa I anexo a este diploma.
+Artigo 1.º - 1. Enquanto não for publicada a reforma dos serviços da Direcção-Geral do Tribunal de Contas, o quadro provisório do seu pessoal será o que consta do mapa I anexo a este diploma.
 
 2. Ingressam neste quadro, por meio de lista a publicar no Diário do Governo e visada pelo Tribunal de Contas, em categorias correspondentes às funções que presentemente exercem, todos os actuais funcionários do quadro, ou contratados além do quadro, contando-se a sua antiguidade a partir da data em que tomaram posse desses cargos e neles se tenham mantido ininterruptamente.
 
@@ -114,24 +132,24 @@ Os de chefe de secção aos de contador-chefe;
 
 Os de primeiro-contador, segundo-contador e terceiro-contador aos de contador-verificador de 1.ª, 2.ª e 3.ª classe, respectivamente.
 
-###### Art. 2.º Para satisfação dos encargos resultantes deste diploma, promover-se-á ao reforço das respectivas dotações orçamentais, além de se utilizarem no presente ano económico as disponibilidades das dotações destinadas a satisfazer os encargos com o pessoal contratado além do quadro.
+Art. 2.º Para satisfação dos encargos resultantes deste diploma, promover-se-á ao reforço das respectivas dotações orçamentais, além de se utilizarem no presente ano económico as disponibilidades das dotações destinadas a satisfazer os encargos com o pessoal contratado além do quadro.
 
-###### Art. 3.º - 1. Enquanto não for estabelecido, com carácter definitivo, o novo quadro do pessoal da Direcção-Geral do Tribunal de Contas, poderá o quadro anexo ao presente diploma ser alterado por decreto simples, sob proposta do director-geral, devidamente fundamentada.
+Art. 3.º - 1. Enquanto não for estabelecido, com carácter definitivo, o novo quadro do pessoal da Direcção-Geral do Tribunal de Contas, poderá o quadro anexo ao presente diploma ser alterado por decreto simples, sob proposta do director-geral, devidamente fundamentada.
 
 2. Para o preenchimento de vagas que se venham a verificar, os concursos previstos no regulamento aprovado pelo [Decreto-Lei n.º 31317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31317-1941-329619), de 13 de Junho de 1941, são substituídos por cursos de formação e promoção profissional, para o que se constituirão as estruturas necessárias.
 
-###### Art. 4.º Fica revogado o artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948.
+Art. 4.º Fica revogado o artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 18 de Fevereiro de 1976.**
+Promulgado em 18 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro (provisório)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/02/04800/04040405.pdf))](https://files.diariodarepublica.pt/1s/1976/02/04800/04040405.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/02/04800/04040405.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

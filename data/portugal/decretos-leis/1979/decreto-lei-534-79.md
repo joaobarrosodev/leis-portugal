@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1979, 9º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 3478-(204) a 3478-(209)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30009/02040209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aa577df64fac4a9a67cc94dca36a46c6e1442b9e894091cf27965495f466f1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bb60e3049ff6d594a83a0f988e5a418ad9254d2c014ad8d1fa8297b43556a7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Educação de Adultos
+- Extinção de Serviços
+- Orgânica
+- Quadro de Pessoal
+- Regime de Pessoal
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:549242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:569102:por
+  label: Decreto-Lei n.º 302/81 - Diário da República n.º 256/1981, Série I de 1981-11-06 (Alterado o art. 20.º)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-1981-569102
+  date: '1981-11-06'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678795:por
+  label: Rectificado pela DECL.DD6757.22.02.1980.PCM, DR.IS [55] de 06.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678795
+  date: '1980-02-22'
+- type: repealed_by
+  target: pt:dre:549242:por
+  label: "Revogado pelo DEC LEI.362/89.19.10.1989.ME, DR.IS [241] de 19.10.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1989-549242
+  date: '1989-10-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:02Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +178,11 @@ I
 
 Natureza, atribuições e competência
 
-###### Artigo 1.º - 1 - É criada no Ministério da Educação a Direcção-Geral da Educação de Adultos (DGEA).
+Artigo 1.º - 1 - É criada no Ministério da Educação a Direcção-Geral da Educação de Adultos (DGEA).
 
 2 - A Direcção-Geral da Educação de Adultos sucede e substitui a Direcção-Geral da Educação permanente, transitando para aquela todos os seus direito, obrigações.
 
-###### Art. 2.º São atribuições da Direcção-Geral da Educação de Adultos:
+Art. 2.º São atribuições da Direcção-Geral da Educação de Adultos:
 
 a) Participar na formulação da política de educação de adultos, numa perspectiva de educação permanente, e contribuir para a sua execução;
 
@@ -122,7 +194,7 @@ d) Assegurar a orientação pedagógica da prática educativa no âmbito da educ
 
 e) Estimular e apoiar as iniciativas públicas e privadas no âmbito da educação de adultos.
 
-###### Art. 3.º Na prossecução das atribuições referidas no artigo anterior, compete, especialmente, à Direcção-Geral:
+Art. 3.º Na prossecução das atribuições referidas no artigo anterior, compete, especialmente, à Direcção-Geral:
 
 a) Coordenar a preparação e a execução dos programas nacionais de alfabetização e educação de base dos adultos;
 
@@ -144,7 +216,7 @@ i) Empreender, em colaboração com os serviços centrais do Ministério e outro
 
 j) Realizar estudos e propor soluções com vista à progressiva implementação de um sistema educativo para adultos.
 
-###### Art. 4.º - 1 - Sem prejuízo das delegações que superiormente lhe venham a ser conferidas, o director-geral assegurará o funcionamento dos serviços da Direcção-Geral, orientando e coordenando as respectivas actividades, imprimindo-lhes unidade, continuidade e eficiência.
+Art. 4.º - 1 - Sem prejuízo das delegações que superiormente lhe venham a ser conferidas, o director-geral assegurará o funcionamento dos serviços da Direcção-Geral, orientando e coordenando as respectivas actividades, imprimindo-lhes unidade, continuidade e eficiência.
 
 2 - O director-geral será coadjuvado no exercício das suas funções por um subdirector-geral, que o substituirá nas suas faltas e impedimentos.
 
@@ -152,7 +224,7 @@ II
 
 Dos órgãos e serviços
 
-###### Art. 5.º - 1 - A Direcção-Geral compreende os seguintes serviços:
+Art. 5.º - 1 - A Direcção-Geral compreende os seguintes serviços:
 
 a) Direcção de Serviços de Estudos, Programação e Contrôle;
 
@@ -164,7 +236,7 @@ d) Repartição Administrativa.
 
 2 - Integrado na Direcção-Geral, é instituído o Fundo de Apoio à Educação Popular.
 
-###### Art. 6.º - 1 - Compete à Direcção de Serviços de Estudos, Programação e Contrôle proceder ao estudo dos problemas da educação de adultos, numa perspectiva de educação permanente, realizar as tarefas de planeamento educativo no âmbito da Direcção-Geral e o acompanhamento e contrôle dos respectivos programas de execução.
+Art. 6.º - 1 - Compete à Direcção de Serviços de Estudos, Programação e Contrôle proceder ao estudo dos problemas da educação de adultos, numa perspectiva de educação permanente, realizar as tarefas de planeamento educativo no âmbito da Direcção-Geral e o acompanhamento e contrôle dos respectivos programas de execução.
 
 2 - A Direcção de Serviços de Estudos, Programação e Contrôle compreende:
 
@@ -172,19 +244,19 @@ a) A Divisão de Estudos;
 
 b) A Divisão de Programação e Contrôle.
 
-###### Art. 7.º Compete à Direcção de Serviços de Estudos, Programação e Contrôle, pela Divisão de Estudos:
+Art. 7.º Compete à Direcção de Serviços de Estudos, Programação e Contrôle, pela Divisão de Estudos:
 
 a) Propor e efectuar estudos sobre educação de adultos e educação permanente, tendo em vista a definição de uma política nesses domínios e o melhor aproveitamento de recursos;
 
 b) Cuidar da constante adequação e ajustamento da lei à consecução das atribuições da Direcção-Geral, tendo presente, a par da realidade nacional, os resultados dos estudos de legislação comparada.
 
-###### Art. 8.º Compete à Direcção de Serviços de Estudos, Programação e Contrôle, pela Divisão de Programação e Contrôle:
+Art. 8.º Compete à Direcção de Serviços de Estudos, Programação e Contrôle, pela Divisão de Programação e Contrôle:
 
 a) Proceder à elaboração dos programas de actividade, globais e específicos, da Direcção-Geral e ao acompanhamento, avaliação e contrôle da respectiva execução;
 
 b) Elaborar os programas respeitantes ao Plano Nacional de Alfabetização e Educação de Base dos Adultos (PNAEBA), bem como participar na avaliação da sua execução.
 
-###### Art. 9.º - 1 - Compete à Direcção de Serviços de Acção Educativa promover a execução de acções de educação não formal dos adultos, designadamente de alfabetização e educação de base, e assegurar a orientação e o apoio pedagógico nesses domínios.
+Art. 9.º - 1 - Compete à Direcção de Serviços de Acção Educativa promover a execução de acções de educação não formal dos adultos, designadamente de alfabetização e educação de base, e assegurar a orientação e o apoio pedagógico nesses domínios.
 
 2 - A Direcção de Serviços de Acção Educativa compreende:
 
@@ -194,7 +266,7 @@ b) A Divisão de Formação;
 
 c) A Divisão de Avaliação e Certificação.
 
-###### Art. 10.º Compete à Direcção de Serviços de Acção Educativa, pela Divisão de Objectivos, Métodos e Material Didáctico-Pedagógico:
+Art. 10.º Compete à Direcção de Serviços de Acção Educativa, pela Divisão de Objectivos, Métodos e Material Didáctico-Pedagógico:
 
 a) Orientar a formulação dos objectivos e conteúdos educativos, bem como o emprego dos métodos e técnicas em educação de adultos, nomeadamente nas áreas de alfabetização e pós-alfabetização;
 
@@ -204,7 +276,7 @@ c) Inventariar, seleccionar e conceber material didáctico para as acções de e
 
 d) Fomentar e apoiar a produção, a nível regional e local, de material didáctico-pedagógico.
 
-###### Art. 11.º Compete à Direcção de Serviços de Acção Educativa, pela Divisão de Formação:
+Art. 11.º Compete à Direcção de Serviços de Acção Educativa, pela Divisão de Formação:
 
 a) Fomentar e promover a formação de educadores de adultos, nomeadamente para alfabetização e educação de base;
 
@@ -212,7 +284,7 @@ b) Acompanhar e apoiar, nos aspectos organizacional e pedagógico, os educadores
 
 c) Prestar apoio pedagógico às associações de educação popular e a outras organizações congéneres nas suas acções específicas de formação.
 
-###### Art. 12.º Compete à Direcção de Serviços de Acção Educativa, pela Divisão de Avaliação e Certificação:
+Art. 12.º Compete à Direcção de Serviços de Acção Educativa, pela Divisão de Avaliação e Certificação:
 
 a) Estudar, acompanhar e coordenar a avaliação pedagógica nas acções de educação de base dos adultos, nomeadamente nas de alfabetização;
 
@@ -222,7 +294,7 @@ c) Organizar e coordenar os mecanismos de atribuição de diplomas;
 
 d) Realizar, em colaboração com as direcções-gerais do sector do ensino, os estudos conducentes à definição de uma carreira escolar para os adultos, tendo em vista o seu acesso aos vários níveis do ensino formal.
 
-###### Art. 13.º - 1 - Compete à Direcção de Serviços de Apoio Técnico assegurar os meios técnicos necessários à Direcção de Serviços de Acção Educativa, assim como os meios de apoio às actividades de educação popular.
+Art. 13.º - 1 - Compete à Direcção de Serviços de Apoio Técnico assegurar os meios técnicos necessários à Direcção de Serviços de Acção Educativa, assim como os meios de apoio às actividades de educação popular.
 
 2 - A Direcção de Serviços de Apoio Técnico compreende:
 
@@ -232,7 +304,7 @@ b) A Divisão de Meios Áudio-Visuais para Adultos;
 
 c) A Divisão de Apoio às Actividades de Educação Popular.
 
-###### Art. 14.º Compete à Direcção de Serviços de Apoio Técnico, pela Divisão de Fomento da Leitura:
+Art. 14.º Compete à Direcção de Serviços de Apoio Técnico, pela Divisão de Fomento da Leitura:
 
 a) Promover a aquisição e edição de obras para as bibliotecas populares, tendo em vista o alargamento e renovação dos seus fundos bibliográficos;
 
@@ -240,7 +312,7 @@ b) Coordenar, dinamizar e expandir a rede de bibliotecas populares, nomeadamente
 
 c) Promover e desenvolver o gosto e a prática da leitura entre a população, em geral, e os adultos, em especial, mediante a execução de acções de divulgação do livro e de animação da leitura, bem como o apoio a acções desta natureza desenvolvidas por outras entidades, públicas ou privadas.
 
-###### Art. 15.º Compete à Direcção de Serviços de Apoio Técnico, pela Divisão de Meios Áudio-Visuais para Adultos:
+Art. 15.º Compete à Direcção de Serviços de Apoio Técnico, pela Divisão de Meios Áudio-Visuais para Adultos:
 
 a) Propor a aquisição de equipamento e documentação áudio-visuais, bem como assegurar a manutenção e assistência desse material, tendo em vista o apoio à educação de adultos e a educação popular;
 
@@ -250,7 +322,7 @@ c) Promover, em colaboração com outras entidades, públicas e privadas, nomead
 
 d) Assegurar a realização de documentos áudio-visuais necessários à educação popular.
 
-###### Art. 16.º Compete à Direcção de Serviços de Apoio Técnico, pela Divisão de Apoio às Actividades de Educação Popular:
+Art. 16.º Compete à Direcção de Serviços de Apoio Técnico, pela Divisão de Apoio às Actividades de Educação Popular:
 
 a) Promover e dinamizar as actividades de educação popular, bem como prestar-lhes apoio técnico, em colaboração com outras entidades públicas e privadas;
 
@@ -260,7 +332,7 @@ c) Propor formas e critérios de assistência financeira para as acções referi
 
 d) Proceder ao recrutamento de animadores e bolseiros para as actividades de educação popular, bem como coordenar a orientação e verificação do respectivo trabalho.
 
-###### Art. 17.º - 1 - Compete à Repartição Administrativa:
+Art. 17.º - 1 - Compete à Repartição Administrativa:
 
 a) Assegurar os serviços de expediente geral, contabilidade, economato e de administração do pessoal da Direcção-Geral, sem prejuízo da competência da Secretaria-Geral do Ministério da Educação;
 
@@ -280,7 +352,7 @@ Edição e Distribuição de Publicações;
 
 Conservação e Distribuição de Material Áudio-Visual.
 
-###### Art. 18.º Ao Fundo de Apoio à Educação Popular, adiante designado por Fundo, compete prestar apoio financeiro às actividades desenvolvidas no âmbito das funções da Direcção-Geral, por iniciativa própria ou de outras entidades, públicas ou privadas, designadamente:
+Art. 18.º Ao Fundo de Apoio à Educação Popular, adiante designado por Fundo, compete prestar apoio financeiro às actividades desenvolvidas no âmbito das funções da Direcção-Geral, por iniciativa própria ou de outras entidades, públicas ou privadas, designadamente:
 
 a) Conceder subsídios a associações de educação. popular e outras instituições congéneres, nomeadamente para o apoio a actividades educativas, bem como para construção e equipamento;
 
@@ -292,9 +364,9 @@ d) Prestar apoio financeiro às bibliotecas populares, bem como efectuar a aquis
 
 e) Conceder bolsas para realização de actividades no domínio da educação popular.
 
-###### Art. 19.º Os subsídios a conceder pelo Fundo nos termos do artigo anterior serão regulamentados por despacho ministerial normativo.
+Art. 19.º Os subsídios a conceder pelo Fundo nos termos do artigo anterior serão regulamentados por despacho ministerial normativo.
 
-###### Art. 20.º - 1 - O Fundo é dotado de autonomia administrativa e tem por órgão um conselho administrativo, constituído pelos seguintes elementos:
+Art. 20.º - 1 - O Fundo é dotado de autonomia administrativa e tem por órgão um conselho administrativo, constituído pelos seguintes elementos:
 
 a) O director-geral, que presidirá;
 
@@ -306,7 +378,7 @@ d) O chefe da Repartição Administrativa;
 
 2 - Os membros do conselho administrativo referidos nas alíneas b) e d) do número anterior serão Seus vogais.
 
-###### Art. 21.º Constituem receitas do Fundo:
+Art. 21.º Constituem receitas do Fundo:
 
 a) As dotações para o efeito inscritas anualmente no orçamento do Ministério da Educação;
 
@@ -314,9 +386,9 @@ b) Os subsídios concedidos por quaisquer entidades;
 
 c) Quaisquer outras receitas.
 
-###### Art. 22.º As receitas serão entregues na Caixa Geral de Depósitos, em conta especial, consignada ao Fundo, e o pagamento das despesas será feito por cheques, assinados por dois membros do conselho administrativo, podendo existir um fundo permanente para pequenas despesas.
+Art. 22.º As receitas serão entregues na Caixa Geral de Depósitos, em conta especial, consignada ao Fundo, e o pagamento das despesas será feito por cheques, assinados por dois membros do conselho administrativo, podendo existir um fundo permanente para pequenas despesas.
 
-###### Art. 23.º Compete ao conselho administrativo do Fundo:
+Art. 23.º Compete ao conselho administrativo do Fundo:
 
 a) Elaborar o orçamento anual e os suplementares que se tornem necessários;
 
@@ -330,7 +402,7 @@ III
 
 Das actividades regionais
 
-###### Art. 24.º - 1 - Por decreto referendado pelos Ministros das Finanças, da Administração Interna e da Educação e pelo Secretário de Estado da Administração Pública serão criados, consoante as necessidades, centros regionais de educação de adultos.
+Art. 24.º - 1 - Por decreto referendado pelos Ministros das Finanças, da Administração Interna e da Educação e pelo Secretário de Estado da Administração Pública serão criados, consoante as necessidades, centros regionais de educação de adultos.
 
 2 - O diploma referido no número anterior definirá as atribuições e competências dos centros regionais e estabelecerá ainda a respectiva estrutura orgânica.
 
@@ -338,23 +410,23 @@ IV
 
 Do pessoal
 
-###### Art. 25.º - 1 - A Direcção-Geral da Educação de Adultos tem o pessoal constante do mapa anexo a este diploma, o qual ficará a fazer parte integrante dos quadros únicos a que se referem os artigos 1.º e 2.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, operando-se neles, para o efeito, os necessários ajustamentos.
+Art. 25.º - 1 - A Direcção-Geral da Educação de Adultos tem o pessoal constante do mapa anexo a este diploma, o qual ficará a fazer parte integrante dos quadros únicos a que se referem os artigos 1.º e 2.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, operando-se neles, para o efeito, os necessários ajustamentos.
 
 2 - O quadro de pessoal constante do mapa referido no número anterior poderá ser alterado por portaria conjunta dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
 3 - O pessoal da Direcção-Geral será distribuído pelos respectivos serviços, mediante despacho do director-geral.
 
-###### Art. 26.º As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral da Educação de Adultos são os estabelecidos na lei geral, designadamente nos Decretos-Leis n.os [191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, [191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, sem prejuízo do disposto no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, na parte em Vigor.
+Art. 26.º As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral da Educação de Adultos são os estabelecidos na lei geral, designadamente nos Decretos-Leis n.os [191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, [191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, sem prejuízo do disposto no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, na parte em Vigor.
 
-###### Art. 27.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente.
+Art. 27.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente.
 
 2 - O regime do pessoal contratado além do quadro é o que se encontra estabelecido no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, na parte que lhe for aplicável.
 
-###### Art. 28.º - 1 - Em casos excepcionais, devidamente fundamentados, poderá ser autorizado o exercício de funções em regime de tempo parcial, mediante contrato.
+Art. 28.º - 1 - Em casos excepcionais, devidamente fundamentados, poderá ser autorizado o exercício de funções em regime de tempo parcial, mediante contrato.
 
 2 - O pessoal contratado ao abrigo do número anterior receberá uma gratificação mensal, de quantitativo correspondente ao número de horas realizado, com base no valor da hora de trabalho calculado nos termos da lei geral.
 
-###### Art. 29.º - 1 - Poderá ser requisitado para prestar serviço na Direcção-Geral da Educação de Adultos pessoal de outros departamentos do Estado, verificado o seu acordo prévio e do membro do Governo de que dependa, para execução de tarefas específicas de carácter temporário.
+Art. 29.º - 1 - Poderá ser requisitado para prestar serviço na Direcção-Geral da Educação de Adultos pessoal de outros departamentos do Estado, verificado o seu acordo prévio e do membro do Governo de que dependa, para execução de tarefas específicas de carácter temporário.
 
 2 - O período de requisição, que será previamente fixado, não poderá exceder a duração de um ano, prazo este que poderá ser prorrogado por uma só vez.
 
@@ -366,19 +438,19 @@ Do pessoal
 
 6 - Os lugares de que sejam titulares no quadro de origem os funcionários requisitados poderão ser providos interinamente enquanto se mantiver a requisição.
 
-###### Art. 30.º - 1 - Poderá ser destacado para prestar serviço na Direcção-Geral da Educação de Adultos pessoal de outros departamentos do Estado, verificado o seu acordo prévio e do membro do Governo de que dependa, para a execução de tarefas específicas de carácter temporário.
+Art. 30.º - 1 - Poderá ser destacado para prestar serviço na Direcção-Geral da Educação de Adultos pessoal de outros departamentos do Estado, verificado o seu acordo prévio e do membro do Governo de que dependa, para a execução de tarefas específicas de carácter temporário.
 
 2 - Os destacamentos previstos ao número anterior não podem exceder o período de seis meses, prorrogável até ao limite de um ano, e não prejudicam de qualquer forma a situação dos funcionários perante os serviços de que dependem, os quais continuarão a assegurar as suas remunerações.
 
-###### Art. 31.º A aplicação do constante nos artigos 29.º e 30.º far-se-á sem prejuízo do estipulado no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro
+Art. 31.º A aplicação do constante nos artigos 29.º e 30.º far-se-á sem prejuízo do estipulado no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro
 
-###### Art. 32.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual, designadamente acções de formação, poderá ser confiada, mediante contrato de prestação do serviços, a entidades nacionais ou estrangeiras, estranhas ou não aos serviços.
+Art. 32.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual, designadamente acções de formação, poderá ser confiada, mediante contrato de prestação do serviços, a entidades nacionais ou estrangeiras, estranhas ou não aos serviços.
 
 2 - O contrato referido no número anterior deverá ser reduzido a escrito, sendo nele fixadas as condições da sua prestação, o prazo de duração e contendo a menção expressa de que não confere em caso algum, a qualidade de agente administrativo.
 
 3 - Para o estudo de problemas que não decorram das atribuições normais da Direcção-Geral poderão ser constituídas comissões ou grupos de trabalho, cujo mandato, composição, sistema do funcionamento e condições de remuneração serão fixados por despacho dos Ministros da Educação e das Finanças e do Secretário de Estado da Administração Pública, quando seja caso disso.
 
-###### Art. 33.º - 1 - Até à criação dos centros regionais, poderão as actividades regionais da Direcção-Geral da Educação de Adultos ser asseguradas pelo pessoal a que se refere o artigo 25.º ou por outro pessoal recrutado nos termos do presente diploma.
+Art. 33.º - 1 - Até à criação dos centros regionais, poderão as actividades regionais da Direcção-Geral da Educação de Adultos ser asseguradas pelo pessoal a que se refere o artigo 25.º ou por outro pessoal recrutado nos termos do presente diploma.
 
 2 - Até à criação dos centros regionais, o pessoal que por despacho do Ministro da Educação for, através de destacamento ou requisição, designado para o exercício de funções de coordenação regional das actividades da Direcção-Geral da Educação de Adultos tem direito a uma gratificação, cujo regime e fixação obedecerão ao disposto, na parte aplicável, no [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
@@ -386,7 +458,7 @@ V
 
 Disposições finais e transitórias
 
-###### Art. 34.º - 1 - O provimento dos lugares do quadro anexo ao presente diploma poderá fazer-se de entre pessoal que à data da entrada em vigor deste diploma se encontra vinculado, a qualquer título, designadamente por destacamento, à Direcção-Geral da Educação Permanente, sem prejuízo das habilitações legais estabelecidas, nos termos do estipulado no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e de acordo com as seguintes regras:
+Art. 34.º - 1 - O provimento dos lugares do quadro anexo ao presente diploma poderá fazer-se de entre pessoal que à data da entrada em vigor deste diploma se encontra vinculado, a qualquer título, designadamente por destacamento, à Direcção-Geral da Educação Permanente, sem prejuízo das habilitações legais estabelecidas, nos termos do estipulado no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e de acordo com as seguintes regras:
 
 a) Para categoria idêntica ou equivalente à que o funcionário já possui;
 
@@ -402,26 +474,26 @@ c) Para categoria de ingresso em outra carreira para a qual detenha as habilita�
 
 5 - O disposto nos números anteriores não se aplica ao provimento na categoria de assessor.
 
-###### Art. 35.º O primeiro provimento dos lugares de chefe de secção pode ser feito, mediante proposta do director-geral, nos termos do artigo 28.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, com dispensa da audição do conselho de directores-gerais e ainda de entre técnicos auxiliares contabilistas e de programação de 1.ª classe do Ministério da Educação que tenham anteriormente possuído a categoria de chefe de secção ou categoria de primeiro-oficial durante, pelo menos, três anos.
+Art. 35.º O primeiro provimento dos lugares de chefe de secção pode ser feito, mediante proposta do director-geral, nos termos do artigo 28.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, com dispensa da audição do conselho de directores-gerais e ainda de entre técnicos auxiliares contabilistas e de programação de 1.ª classe do Ministério da Educação que tenham anteriormente possuído a categoria de chefe de secção ou categoria de primeiro-oficial durante, pelo menos, três anos.
 
-###### Art. 36.º É extinta a Direcção-Geral da Educação Permanente transitando para a Direcção-Geral da Educação de Adultos todo o material, equipamento e património que data da publicação do presente diploma lhe estejam afectos.
+Art. 36.º É extinta a Direcção-Geral da Educação Permanente transitando para a Direcção-Geral da Educação de Adultos todo o material, equipamento e património que data da publicação do presente diploma lhe estejam afectos.
 
-###### Art. 37.º São revogados:
+Art. 37.º São revogados:
 
 a) A alínea f) do n.º II) do n.º 2 do artigo 4.º e artigo 17.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro;
 
 b) O artigo 26.º do [Decreto-Lei n.º 38968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38968-1952-249177), de 27 de Outubro de 1952, os artigos 129.º e 130.º do Decreto n.º 38969, de 27 de Outubro de 1952, o artigo 35.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956, e os artigos 1.º, 2.º, 3.º, 4.º e 5.º do [Decreto-Lei n.º 42191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42191-1959-586410), de 23 de Março de 1959.
 
-###### Art. 38.º O presente diploma orgânico será obrigatoriamente revisto no prazo de noventa dias a contar da data em que vier a ser oficialmente publicado o Plano Nacional de Alfabetização e Educação de Base de Adultos.
+Art. 38.º O presente diploma orgânico será obrigatoriamente revisto no prazo de noventa dias a contar da data em que vier a ser oficialmente publicado o Plano Nacional de Alfabetização e Educação de Base de Adultos.
 
-###### Art. 39.º As dúvidas suscitadas pela interpretação do presente diploma serão resolvidas por despacho do Ministro da Educação, ouvidos o Ministro das Finanças e o Secretário de Estado da Administração Pública, quando seja caso disso.
+Art. 39.º As dúvidas suscitadas pela interpretação do presente diploma serão resolvidas por despacho do Ministro da Educação, ouvidos o Ministro das Finanças e o Secretário de Estado da Administração Pública, quando seja caso disso.
 
-###### Art. 40.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 40.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

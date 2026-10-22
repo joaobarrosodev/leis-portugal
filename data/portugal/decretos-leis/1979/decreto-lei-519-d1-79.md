@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 3º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3446-(56) a 3446-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,195 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36942b37c432fdffa1e58c3990d579a8a0fdb1dcb22797a942352247602cf3af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20f5e6095dd8300c9aaaafe662af83d222338134b44a0031c55532e275119c6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Orgânica
 relationships:
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "DESPACHO SEOP3-XII/92 DO SEOP-MOPTC, PUBLICADO NO DR.IIS, 22, DE 920127 (ARTIGO 127).\027).\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
 - type: amended_by
   target: pt:dre:654499:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390033:por
+  label: "Substituído o quadro do pessoal de informática que consta no grupo IV do mapa I do presente diploma, pela PORT.109/81.24.01.1981.PCM,\
+    \ DR.IS [20] de 24.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1981-390033
+  date: '1981-01-24'
+- type: amended_by
+  target: pt:dre:567176:por
+  label: "Alterada a alínea e) do artigo 13.º, a alínea e) do artigo 20.º, os n.ºs 1, 2 e 3 do artigo 108.º, os artigos 110.º,\
+    \ 111.º, 112.º e 113.º, revogado o artigo 116.º, o n.º 8 do artigo 117.º, os artigos 118.º e 119.º, e sustituído o quadro\
+    \ do pessoal, no que se refere à carreira de investigação, pelo DEC LEI.346/81.21.12.1981.MHOPT, DR.IS [292] de 21.12.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/346-1981-567176
+  date: '1981-12-21'
+- type: amended_by
+  target: pt:dre:385021:por
+  label: "Alterados os artigos 108.º, 111.º e 112.º (redacção do Decreto-Lei n.º 346/81, de 21 de Dezembro), e acrescentado\
+    \ o artigo 114.º-A, pelo DEC LEI.142/84.08.05.1984.PCM, DR.IS [106] de 08.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1984-385021
+  date: '1984-05-08'
+- type: amended_by
+  target: pt:dre:328437:por
+  label: "Substituído o quadro de pessoal pelo quadro anexo à PORT.49/85.1985.01.24.PCM, DR. IS [20] de 24/JAN/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-1985-328437
+  date: '1985-01-24'
+- type: amended_by
+  target: pt:dre:665920:por
+  label: "Alargado o quadro de pessoal pela PORT.329/87.1987.04.23.MF DR.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/329-1987-665920
+  date: '1987-04-23'
+- type: amended_by
+  target: pt:dre:287457:por
+  label: "Substituído o quadro de pessoal (mapas I e II), aprovado no artigo 106.º, pela PORT.137/88.01.03.1988.MF, DR.IS\
+    \ [50] de 01.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-1988-287457
+  date: '1988-03-01'
+- type: amended_by
+  target: pt:dre:300385:por
+  label: Mantida suspensa, durante o ano de 1989, a aplicação da al. b) do art. 97º pelo DEC LEI.79/89.11.03.1989.MF, DR.IS
+    [59-Supl] de 11.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1989-300385
+  date: '1989-03-11'
+- type: amended_by
+  target: pt:dre:147594:por
+  label: "Mantida suspensa a aplicação da al. b) do art. 97º do presente diploma pelo DEC LEI.105-A/90.23.03.1990.MF, DR.IS\
+    \ [69-Supl] de 23.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-a-1990-147594
+  date: '1990-03-23'
+- type: amended_by
+  target: pt:dre:272009:por
+  label: "Mantida suspensa, no ano de 1991, a aplicação da al. b) do art. 97º , pelo DEC LEI.72-A/91.08.02.1991.MF, DR.IS-A\
+    \ [33-Supl] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-1991-272009
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:301634:por
+  label: "Alterados os arts 108º e 110º pelo DEC LEI.355/91.1991.09.20.MOPTC DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-1991-301634
+  date: '1991-09-20'
+- type: amended_by
+  target: pt:dre:634688:por
+  label: "Mantida suspensa, no ano de 1993, a aplicação da alínea b) do artigo 97.º, pelo DEC LEI.83/93.18.03.1993.MF, DR.IS-A\
+    \ [65] de 18.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1993-634688
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantida suspensa, para o ano de 1994, relativamente ao LNEC, a aplicação da al. b) do art. 97º, pelo DEC LEI.77/94.1994.03.09.MF,\
+    \ DR.IS-A [57]\057]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:527066:por
+  label: "Alterado o art. 109.º pelo DEC LEI.128/95.1995.06.01.MOPTC DR.IS-A [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1995-527066
+  date: '1995-06-01'
+- type: amended_by
+  target: pt:dre:176332:por
+  label: "Mantida suspensa, no ano de 1998, a aplicação da al. b) do art. 97º do presente diploma pelo DEC LEI.107/98.1998.04.24.MF,\
+    \ DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1998-176332
+  date: '1998-04-24'
+- type: amended_by
+  target: pt:dre:654499:por
+  label: "Alteradas as escalas salariais das carreiras e categorias do pessoal do LNEC constantes do mapa II anexo ao presente\
+    \ diploma, pelo DR.31/99.1999.12.20.MEPAT DR.IS-B [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/31-1999-654499
+  date: '1999-12-20'
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678443:por
+  label: Rectificado pela DECL.DD6799.11.03.1980.PCM, DR.IS [68] de 21.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678443
+  date: '1980-03-11'
+- type: repealed_by
+  target: pt:dre:618935:por
+  label: "Revogado, na parte aplicável ao pessoal de experimentação, o artigo 117.º, pelo DEC LEI.236/89.26.07.1989.MOPTC,\
+    \ DR.IS [170] de 26.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1989-618935
+  date: '1989-07-26'
+- type: repealed_by
+  target: pt:dre:667357:por
+  label: "Revogado, com a sua entrada em vigor, pelo DEC LEI.422/99.1999.10.21.MEPAT, DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/422-1999-667357
+  date: '1999-10-21'
 article_structure:
   article_count: 136
-  section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 42
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:03Z'
   warnings: []
   errors: []
 ---
@@ -334,7 +489,9 @@ b) Secção de investigação;
 
 c) Secção de formação.
 
-#### SECÇÃO II — Secção permanente
+#### SECÇÃO II
+
+#### Secção permanente
 
 ###### Artigo 17.º — (Constituição)
 
@@ -362,7 +519,9 @@ c) Orçamento e conta de gerência do LNEC.
 
 As normas de funcionamento da secção permanente constarão de regimento interno a elaborar pela própria secção permanente.
 
-#### SECÇÃO III — Secção de investigação
+#### SECÇÃO III
+
+#### Secção de investigação
 
 ###### Artigo 20.º — (Constituição)
 
@@ -390,7 +549,9 @@ b) Pronunciar-se sobre os planos anuais e plurianuais do LNEC, em termos de inve
 
 As normas de funcionamento da secção de investigação constarão de regimento interno a elaborar pela própria secção de investigação.
 
-#### SECÇÃO IV — Secção de formação
+#### SECÇÃO IV
+
+#### Secção de formação
 
 ###### Artigo 23.º — (Constituição)
 
@@ -1298,7 +1459,9 @@ g) Manter ligações com os serviços afins de outros organismos com funções s
 
 h) Colaborar na organização de reuniões nacionais e internacionais.
 
-#### SECÇÃO V — Divisão de Construção e Conservação de Instalações
+#### SECÇÃO V
+
+##### Divisão de Construção e Conservação de Instalações
 
 ###### Artigo 94.º — (Atribuições)
 
@@ -1716,20 +1879,20 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente República, ANTÓNIO RAMALHO EANES.**
+O Presidente República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Quadro do pessoal do Laboratório Nacional de Engenharia Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf)
 
 MAPA II
 
 Quadro do pessoal do Laboratório Nacional de Engenharia Civil cujos lugares serão extintos quando vagarem após o primeiro provimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29903/00560080.pdf)

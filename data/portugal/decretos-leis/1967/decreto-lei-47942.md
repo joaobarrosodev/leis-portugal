@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47942-1967-391006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d53468b4385435d4f41d07165f2bef39ed254c436f4a98368952332cf7c9eefe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b2b8ed07aef41a07ea9fcea9c4c3c8c5cd69ee0bdc66100bd0ae1c28f1a5ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Contribuição Industrial
+- Contribuições e Impostos
+- Fundo de Defesa Militar do Ultramar
+- Imposto Complementar
+- Imposto de Defesa
+- Imposto sobre o Rendimento
+- Metrópole
+- Moçambique
+- Pessoa Coletiva de Utilidade Pública
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:300378:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:50Z'
   warnings: []
   errors: []
 ---
@@ -88,21 +103,21 @@ Considerando que terminaram os trabalhos de reforma da tributação dos rendimen
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governa decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A partir da entrada em vigor, na província de Moçambique, do Código dos Impostos sobre o Rendimento, ficam extintos, na mesma província, os impostos de defesa e de rendimento criados pelos artigos 21.º e 96.º do [Decreto n.º 30117](https://diariodarepublica.pt/dr/detalhe/decreto/30117-1939-300378), de 8 de Dezembro de 1939.
+Artigo 1.º A partir da entrada em vigor, na província de Moçambique, do Código dos Impostos sobre o Rendimento, ficam extintos, na mesma província, os impostos de defesa e de rendimento criados pelos artigos 21.º e 96.º do [Decreto n.º 30117](https://diariodarepublica.pt/dr/detalhe/decreto/30117-1939-300378), de 8 de Dezembro de 1939.
 
-###### Art. 2.º Sem prejuízo do disposto no artigo anterior, e enquanto não for revisto o regime geral de prestação de serviço ao Estado e às autarquias locais, em matéria de remunerações, ficam os órgãos competentes da província autorizados a manter a cobrança de imposto de defesa sobre as remunerações dos servidores do Estado e de quaisquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, e das autarquias locais e das pessoas colectivas de utilidade pública administrativa, e a alterar as respectivas taxas.
+Art. 2.º Sem prejuízo do disposto no artigo anterior, e enquanto não for revisto o regime geral de prestação de serviço ao Estado e às autarquias locais, em matéria de remunerações, ficam os órgãos competentes da província autorizados a manter a cobrança de imposto de defesa sobre as remunerações dos servidores do Estado e de quaisquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, e das autarquias locais e das pessoas colectivas de utilidade pública administrativa, e a alterar as respectivas taxas.
 
 § único. A tributação prevista neste artigo não poderá abranger as pessoas isentas de imposto de defesa por diplomas emanados de órgãos legislativos com sede na metrópole.
 
-###### Art. 3.º Será consignada ao Fundo de Defesa Militar do Ultramar a importância correspondente a 25 por cento da receita do imposto complementar a criar naquela província.
+Art. 3.º Será consignada ao Fundo de Defesa Militar do Ultramar a importância correspondente a 25 por cento da receita do imposto complementar a criar naquela província.
 
 § único. A percentagem referida no corpo do artigo, adicionada ao produto do imposto referido no artigo 2.º, não poderá, todavia, produzir receita inferior à totalidade do imposto de defesa arrecadado no ano económico de 1967.
 
-###### Art. 4.º Mantêm-se em vigor na mesma província os diplomas emanados de órgãos legislativos com sede na metrópole em que se prevejam ou concedam isenções de impostos ou redução das respectivas taxas.
+Art. 4.º Mantêm-se em vigor na mesma província os diplomas emanados de órgãos legislativos com sede na metrópole em que se prevejam ou concedam isenções de impostos ou redução das respectivas taxas.
 
 Ficam isentos de contribuição industrial, imposto sobre as explorações e imposto complementar os contribuintes a que, por diploma da mesma natureza, tenha sido concedida isenção de imposto de rendimento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

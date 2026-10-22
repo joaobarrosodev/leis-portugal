@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29200/30053006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1977-280248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5327af19180945c0164fd56a5deba044fc46a29e1057caae7877ab8935913cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7218aa88b94c0d533aa9ca2cac7b89177b33e8ddd62de856fd0b5481249fbde7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional do Comércio Interno
+- Definição de Competências
+- Ministério do Comércio e Turismo
+- Ministro do Comércio e Turismo
+- Orgânica
+- Presidente
+- Secretário de Estado do Comércio e Indústria Agrícola
+- Secretário de Estado do Comércio Interno
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:51Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +113,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, no âmbito do Ministério do Comércio e Turismo, o Conselho Nacional do Comércio Interno (CNCI).
+Artigo 1.º É criado, no âmbito do Ministério do Comércio e Turismo, o Conselho Nacional do Comércio Interno (CNCI).
 
-###### Art. 2.º - 1 - O Conselho Nacional do Comércio Interno é presidido pelo Ministro do Comércio e Turismo e tem como vice-presidentes os Secretários de Estado do Comércio Interno e do Comércio e Indústrias Agrícolas.
+Art. 2.º - 1 - O Conselho Nacional do Comércio Interno é presidido pelo Ministro do Comércio e Turismo e tem como vice-presidentes os Secretários de Estado do Comércio Interno e do Comércio e Indústrias Agrícolas.
 
 2 - Têm assento no Conselho:
 
@@ -152,7 +167,7 @@ t) Três elementos a designar pela Associação Portuguesa para Defesa do Consum
 
 7 - Os membros do Conselho poderão fazer-se acompanhar de assessores especializados, mas estes só assistirão às reuniões quando a sua presença tiver sido autorizada pelo próprio Conselho.
 
-###### Art. 3.º - 1 - O Conselho terá as seguintes funções genéricas:
+Art. 3.º - 1 - O Conselho terá as seguintes funções genéricas:
 
 a) Emitir parecer sobre os assuntos de comércio interno que forem submetidos à sua apreciação pelo Governo ou por qualquer dos seus membros;
 
@@ -174,7 +189,7 @@ e) Aperfeiçoamento da formação profissional dos trabalhadores e formação de
 
 3 - As funções do Conselho são de carácter consultivo.
 
-###### Art. 4.º O Conselho poderá, sempre que o entender conveniente, por iniciativa própria, proceder a estudos e formular propostas e sugestões sobre matérias da sua competência, designadamente:
+Art. 4.º O Conselho poderá, sempre que o entender conveniente, por iniciativa própria, proceder a estudos e formular propostas e sugestões sobre matérias da sua competência, designadamente:
 
 a) Formular propostas sobre a política nacional do comércio interno, nomeadamente no que se refere ao desenvolvimento e modernização da rede comercial, reestruturação e encurtamento dos circuitos comerciais, visando a utilização intensiva da base técnico-material, a redução de despesas de circulação e o aumento da eficiência económica da actividade comercial, em ordem à diminuição das perdas, desperdícios e custos, e sugerir formas de intervenção e actuação conducentes à sua concretização;
 
@@ -188,7 +203,7 @@ e) Propor medidas de desenvolvimento e de modernização da rede comercial;
 
 f) Pronunciar-se sobre as provisões das necessidades de consumo e medidas indispensáveis a tomar para as satisfazer, nomeadamente esquemas de compras e constituição de stocks, e sobre as possibilidades de aquisição em quantidade, qualidade e ao melhor preço desses produtos.
 
-###### Art. 5.º - 1 - O Conselho reunirá obrigatoriamente uma vez por trimestre.
+Art. 5.º - 1 - O Conselho reunirá obrigatoriamente uma vez por trimestre.
 
 2 - As reuniões são ordinárias e extraordinárias e convocadas pelo presidente, ou por quem o substitua, por sua iniciativa ou a pedido justificado de um terço dos seus membros.
 
@@ -200,26 +215,26 @@ f) Pronunciar-se sobre as provisões das necessidades de consumo e medidas indis
 
 6 - As reuniões do Conselho são privadas e delas deverá ser elaborada uma acta com menção dos membros presentes e do que nelas se passar, assinada pelo presidente, ou por quem o substitua, e, pelo menos, por três vogais.
 
-###### Art. 6.º De acordo com as suas necessidades, o Conselho poderá constituir comissões especializadas, de carácter permanente ou temporário, com a composição, as funções e o funcionamento que o Ministro do Comércio e Turismo, por iniciativa própria ou sob proposta do Conselho, aprovar por despacho.
+Art. 6.º De acordo com as suas necessidades, o Conselho poderá constituir comissões especializadas, de carácter permanente ou temporário, com a composição, as funções e o funcionamento que o Ministro do Comércio e Turismo, por iniciativa própria ou sob proposta do Conselho, aprovar por despacho.
 
-###### Art. 7.º Sempre que o Ministro do Comércio e Turismo entender conveniente para uma melhor articulação da política global do comércio, poderá promover a reunião conjunta do Conselho Nacional do Comércio Interno ou de alguma das suas comissões especializadas e do Conselho Nacional do Comércio Externo.
+Art. 7.º Sempre que o Ministro do Comércio e Turismo entender conveniente para uma melhor articulação da política global do comércio, poderá promover a reunião conjunta do Conselho Nacional do Comércio Interno ou de alguma das suas comissões especializadas e do Conselho Nacional do Comércio Externo.
 
-###### Art. 8.º A fim de poder desempenhar as atribuições que lhe são cometidas, terá o Conselho Nacional do Comércio Interno acesso à informação necessária ao desempenho das suas atribuições.
+Art. 8.º A fim de poder desempenhar as atribuições que lhe são cometidas, terá o Conselho Nacional do Comércio Interno acesso à informação necessária ao desempenho das suas atribuições.
 
-###### Art. 9.º - 1 - O expediente do Conselho será assegurado pela Direcção-Geral da Coordenação Comercial.
+Art. 9.º - 1 - O expediente do Conselho será assegurado pela Direcção-Geral da Coordenação Comercial.
 
 2 - Quando se mostre necessário, o Ministro do Comércio e Turismo poderá, por despacho, destacar pessoal de serviços ou organismos do Ministério para prestar apoio ao Conselho.
 
-###### Art. 10.º O Conselho Nacional do Comércio Interno elaborará, no prazo de trinta dias a contar da sua primeira sessão, um regulamento interno, que disciplinará o seu funcionamento, nomeando, para o efeito, de entre os seus membros, uma comissão.
+Art. 10.º O Conselho Nacional do Comércio Interno elaborará, no prazo de trinta dias a contar da sua primeira sessão, um regulamento interno, que disciplinará o seu funcionamento, nomeando, para o efeito, de entre os seus membros, uma comissão.
 
-###### Art. 11.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio e Turismo.
+Art. 11.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio e Turismo.
 
-###### Art. 12.º O presente diploma será obrigatoriamente revisto dentro dos dois anos subsequentes à data da sua entrada em vigor.
+Art. 12.º O presente diploma será obrigatoriamente revisto dentro dos dois anos subsequentes à data da sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 7 de Dezembro de 1977.**
+Promulgado em 7 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20800/25822583.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1980-464022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f0e6eaaf022b677b501be4bb83d47034db1a04992ca5fe94964c8a80dc1a788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a9e96bcc139e26d9cdf9876516d8ea656e20d22ff0dc759e7a70e026889ac6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco Comercial
+- Crédito Bancário
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:159483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502830:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459635:por
+  label: Rectificado pela DECL.DD6593.13.12.1980.PCM, DR.IS [287] de 13.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459635
+  date: '1980-12-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:34Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +135,9 @@ As mutações operadas na economia portuguesa, e designadamente no que se refere
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O artigo 65.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, passa a ter a seguinte redacção:
+Artigo 1.º - 1 - O artigo 65.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 65.º Os bancos comerciais não poderão conceder a uma só pessoa singular ou colectiva, ainda que sob a forma de fiança ou garantia bancária ou qualquer outra semelhante, crédito superior à soma dos quantitativos abaixo indicados e constantes do seu último balanço aprovado:
+Art. 65.º Os bancos comerciais não poderão conceder a uma só pessoa singular ou colectiva, ainda que sob a forma de fiança ou garantia bancária ou qualquer outra semelhante, crédito superior à soma dos quantitativos abaixo indicados e constantes do seu último balanço aprovado:
 
 10% do capital e reservas;
 
@@ -107,14 +149,14 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 4 - O Banco de Portugal poderá, por aviso, estabelecer limites ou condicionalismos especiais para determinadas operações ou, caso a caso, autorizar que operações consideradas de relevante interesse para a economia nacional não sejam abrangidas pelos referidos limites.
 
-###### Art. 2.º Pelo presente diploma ficam revogados o [Decreto-Lei n.º 41/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1975-159483), de 1 de Fevereiro, o artigo 1.º do [Decreto-Lei n.º 204/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1976-501403), de 20 de Março, e o [Decreto-Lei n.º 218/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1978-296846), de 3 de Agosto, bem como a [Portaria n.º 197/76](https://diariodarepublica.pt/dr/detalhe/portaria/197-1976-502830), de 5 de Abril.
+Art. 2.º Pelo presente diploma ficam revogados o [Decreto-Lei n.º 41/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1975-159483), de 1 de Fevereiro, o artigo 1.º do [Decreto-Lei n.º 204/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1976-501403), de 20 de Março, e o [Decreto-Lei n.º 218/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1978-296846), de 3 de Agosto, bem como a [Portaria n.º 197/76](https://diariodarepublica.pt/dr/detalhe/portaria/197-1976-502830), de 5 de Abril.
 
-###### Art. 3.º Este decreto-lei entra em vigor no dia seguinte ao da sua aplicação.
+Art. 3.º Este decreto-lei entra em vigor no dia seguinte ao da sua aplicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 28 de Agosto de 1980.**
+Promulgado em 28 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

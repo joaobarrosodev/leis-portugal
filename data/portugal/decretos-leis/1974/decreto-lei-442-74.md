@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/21300/10571059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1974-473735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd6ccf71aae2c0cf7f220231bccf89ed2a2345156b41dea99a423b6f336d8180
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 125c11889fb452eab20f8e33d4fe3641019db462937f60840f7fba8089dac606
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Câmara de Compensação
+- Definição de Competências
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:286356:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158921:por
+  label: "Alterado o nº4 do art. 2º do presente diploma, pelo DEC LEI.12/75.15.01.1975.MF, DG.IS [12] de 15.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1975-158921
+  date: '1975-01-15'
+- type: cites
+  target: pt:dre:293765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581633:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286356:por
+  label: "Revogado pelo DEC LEI.381/77.09.09.1977.MF, DR.IS [209] de 09.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-1977-286356
+  date: '1977-09-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:42Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +149,7 @@ Pretende-se, além disso, facilitar o acesso directo à compensação das instit
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As câmaras de compensação terão por fim exclusivo realizar obrigatoriamente, por encontro ou compensação, a liquidação diária:
+Artigo 1.º - 1. As câmaras de compensação terão por fim exclusivo realizar obrigatoriamente, por encontro ou compensação, a liquidação diária:
 
 a) Dos cheques apresentados pelas instituições de crédito associadas;
 
@@ -117,7 +163,7 @@ d) De outros valores susceptíveis de encontro ou compensação, que venham a se
 
 3. As instituições de crédito associadas nas câmaras de compensação poderão promover, de sua conta e responsabilidade, em relação a instituições de crédito não associadas, as compensações enunciadas no n.º 1 deste artigo.
 
-###### Art. 2.º - 1. Fazem parte das câmaras de compensação todas as instituições de crédito nacionais, salvo expressa declaração em contrário, dirigida ao conselho de administração daquelas.
+Art. 2.º - 1. Fazem parte das câmaras de compensação todas as instituições de crédito nacionais, salvo expressa declaração em contrário, dirigida ao conselho de administração daquelas.
 
 2. As instituições de crédito que hajam feito a declaração a que se refere o número anterior só poderão passar a fazer parte das câmaras de compensação após deliberação do respectivo conselho de administração, homologada pelo Secretário de Estado do Tesouro.
 
@@ -127,37 +173,37 @@ d) De outros valores susceptíveis de encontro ou compensação, que venham a se
 
 5. A deliberação a que se refere o n.º 3 do presente artigo será homologada pelo Secretário de Estado do Tesouro.
 
-###### Art. 3.º - 1. A exclusão de qualquer associado das câmaras de compensação será determinada por despacho do Secretário de Estado do Tesouro sobre proposta fundamentada do conselho de administração.
+Art. 3.º - 1. A exclusão de qualquer associado das câmaras de compensação será determinada por despacho do Secretário de Estado do Tesouro sobre proposta fundamentada do conselho de administração.
 
 2. Será fundamento bastante de exclusão o incumprimento pelo associado das obrigações que para ele decorrem do presente diploma e do regulamento a que se refere o artigo 14.º
 
-###### Art. 4.º - 1. É reconhecida às instituições de crédito associadas a faculdade de participar nas operações de liquidação efectuadas em todas ou apenas em algumas das câmaras de compensação em actividade.
+Art. 4.º - 1. É reconhecida às instituições de crédito associadas a faculdade de participar nas operações de liquidação efectuadas em todas ou apenas em algumas das câmaras de compensação em actividade.
 
 2. Para os efeitos do disposto no número anterior, deverão as instituições de crédito associadas comunicar ao conselho de administração quais as câmaras de compensação cujos serviços se propõem utilizar.
 
-###### Art. 5.º - 1. Haverá uma única assembleia geral das câmaras de compensação, constituída pela totalidade dos seus associados.
+Art. 5.º - 1. Haverá uma única assembleia geral das câmaras de compensação, constituída pela totalidade dos seus associados.
 
 2. Desempenhará as funções de presidente da assembleia geral o presidente do conselho de administração ou, nas suas faltas e impedimentos, o membro do conselho de administração do Banco de Portugal que for indicado para o substituir, nos termos do n.º 4 do artigo 12.º
 
 3. Na falta ou impedimento de ambos, a assembleia geral escolherá um dos seus membros para presidir à sessão.
 
-###### Art. 6.º - 1. A assembleia geral reunirá em sessão ordinária antes do fim do mês de Março de cada ano para apreciação do relatório e contas do conselho de administração e para eleição dos vogais do mesmo conselho, quando a tal houver lugar.
+Art. 6.º - 1. A assembleia geral reunirá em sessão ordinária antes do fim do mês de Março de cada ano para apreciação do relatório e contas do conselho de administração e para eleição dos vogais do mesmo conselho, quando a tal houver lugar.
 
 2. A assembleia geral reunirá em sessão extraordinária sempre que para tal efeito a convoque o seu presidente, por iniciativa própria ou a requerimento do conselho de administração ou da maioria dos associados.
 
-###### Art. 7.º A convocação das assembleias gerais será feita com a antecedência mínima de cinco dias, por ofícios do presidente, registados, ou cuja recepção conste do protocolo.
+Art. 7.º A convocação das assembleias gerais será feita com a antecedência mínima de cinco dias, por ofícios do presidente, registados, ou cuja recepção conste do protocolo.
 
-###### Art. 8.º - 1. Os associados são obrigados a participar nas assembleias gerais ordinárias e extraordinárias mediante o membro dos respectivos conselhos de administração, designado por cooptação de cada um deles.
+Art. 8.º - 1. Os associados são obrigados a participar nas assembleias gerais ordinárias e extraordinárias mediante o membro dos respectivos conselhos de administração, designado por cooptação de cada um deles.
 
 2. As deliberações da assembleia geral serão tomadas por maioria absoluta de votos, tendo o presidente, em casos de empate, voto de qualidade.
 
-###### Art. 9.º Sob proposta do conselho de administração, a assembleia geral dos associados fixará as verbas necessárias para o funcionamento das câmaras de compensação e determinará a forma da sua realização em harmonia com o disposto no artigo 19.º
+Art. 9.º Sob proposta do conselho de administração, a assembleia geral dos associados fixará as verbas necessárias para o funcionamento das câmaras de compensação e determinará a forma da sua realização em harmonia com o disposto no artigo 19.º
 
-###### Art. 10.º Incumbirá à assembleia geral autorizar qualquer das instituições de crédito associadas a assumir, relativamente a uma ou mais câmaras de compensação, as funções de representação de que trata o n.º 3 do artigo 1.º do presente decreto-lei.
+Art. 10.º Incumbirá à assembleia geral autorizar qualquer das instituições de crédito associadas a assumir, relativamente a uma ou mais câmaras de compensação, as funções de representação de que trata o n.º 3 do artigo 1.º do presente decreto-lei.
 
-###### Art. 11.º As actas das reuniões da assembleia geral serão lavradas em livro especial e assinadas pelo presidente e por todos os que tiverem tomado parte na reunião a que a acta disser respeito.
+Art. 11.º As actas das reuniões da assembleia geral serão lavradas em livro especial e assinadas pelo presidente e por todos os que tiverem tomado parte na reunião a que a acta disser respeito.
 
-###### Art. 12.º - 1. As câmaras de compensação serão superiormente dirigidas por um conselho de administração, com a seguinte composição:
+Art. 12.º - 1. As câmaras de compensação serão superiormente dirigidas por um conselho de administração, com a seguinte composição:
 
 a) O governador do Banco de Portugal, que será o presidente;
 
@@ -171,9 +217,9 @@ b) Três vogais, eleitos em assembleia geral de entre os respectivos membros por
 
 5. Cada uma das instituições de crédito a que respeita a alínea b) do n.º 1 do presente artigo designará de entre os membros do seu conselho de administração o vogal que a deverá representar no conselho de administração das câmaras de compensação, bem como o respectivo substituto, que exercerá as funções daquele nas suas ausências ou impedimentos.
 
-###### Art. 13.º As deliberações do conselho de administração serão tomadas por maioria absoluta de votos, tendo o presidente, em caso de empate, voto de qualidade.
+Art. 13.º As deliberações do conselho de administração serão tomadas por maioria absoluta de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 14.º - 1. Compete ao conselho de administração elaborar e alterar o regulamento interno das câmaras de compensação.
+Art. 14.º - 1. Compete ao conselho de administração elaborar e alterar o regulamento interno das câmaras de compensação.
 
 2. Do regulamento interno das câmaras de compensação deverão, designadamente, constar disposições relativas às matérias seguintes:
 
@@ -187,27 +233,27 @@ d) Normas de liquidação dos saldos apurados nas compensações.
 
 3. O regulamento interno das câmaras de compensação e as suas alterações deverão ser aprovados por maioria não inferior a três quartas partes dos associados, reunidos em assembleias gerais extraordinárias, e só entrarão em vigor depois de homologados pelo Ministro das Finanças.
 
-###### Art. 15.º - 1. O conselho de administração poderá constituir, na sua directa dependência, comissões de gerência das câmaras de compensação, compostas por delegados dos associados nele representados.
+Art. 15.º - 1. O conselho de administração poderá constituir, na sua directa dependência, comissões de gerência das câmaras de compensação, compostas por delegados dos associados nele representados.
 
 2. Competirá às comissões de gerência exercer as funções de administração e de fiscalização que, por expressa delegação do conselho de administração, lhes forem especialmente confiadas.
 
-###### Art. 16.º - 1. As comissões de gerência que vierem a ser constituídas terão sempre por presidente um representante do Banco de Portugal, sendo os respectivos vogais designados pelas instituições de crédito a que alude a alínea b) do n.º 1 do artigo 12.º
+Art. 16.º - 1. As comissões de gerência que vierem a ser constituídas terão sempre por presidente um representante do Banco de Portugal, sendo os respectivos vogais designados pelas instituições de crédito a que alude a alínea b) do n.º 1 do artigo 12.º
 
 2. Os membros das comissões de gerência serão escolhidos entre os funcionários categorizados das instituições de crédito que compõem o conselho de administração, mas estas poderão também, no caso de não possuírem sucursal na localidade onde funcionar qualquer câmara de compensação, designar como seu representante, na respectiva comissão de gerência, um funcionário de outra instituição de crédito associada.
 
-###### Art. 17.º - 1. O quadro do pessoal de cada câmara de compensação incluirá um chefe de serviços além de outros funcionários dele hierarquicamente dependentes.
+Art. 17.º - 1. O quadro do pessoal de cada câmara de compensação incluirá um chefe de serviços além de outros funcionários dele hierarquicamente dependentes.
 
 2. Os funcionários das câmaras de compensação serão admitidos por contrato, incumbindo ao conselho de administração fixar as respectivas remunerações.
 
 3. Ao pessoal das câmaras de compensação incumbirá, além do serviço das sessões de compensação, o de escrituração, de estatística e as demais tarefas que lhe forem ordenadas pelo conselho de administração ou pela comissão de gerência.
 
-###### Art. 18.º As sessões de compensação serão presididas por um dos vogais do conselho de administração, por um membro da comissão de gerência, se a houver, ou, na ausência de ambos, pelo chefe de serviços.
+Art. 18.º As sessões de compensação serão presididas por um dos vogais do conselho de administração, por um membro da comissão de gerência, se a houver, ou, na ausência de ambos, pelo chefe de serviços.
 
-###### Art. 19.º As despesas das câmaras de compensação serão custeadas pelos associados e pelas instituições que beneficiem do exercício da faculdade reconhecida no n.º 3 do artigo 1.º deste diploma, segundo critério a definir em assembleia geral, sob proposta do conselho de administração.
+Art. 19.º As despesas das câmaras de compensação serão custeadas pelos associados e pelas instituições que beneficiem do exercício da faculdade reconhecida no n.º 3 do artigo 1.º deste diploma, segundo critério a definir em assembleia geral, sob proposta do conselho de administração.
 
-###### Art. 20.º Por proposta do conselho de administração das câmaras de compensação poderá o Ministro das Finanças criar, por portaria, novas câmaras de compensação noutras localidades do País.
+Art. 20.º Por proposta do conselho de administração das câmaras de compensação poderá o Ministro das Finanças criar, por portaria, novas câmaras de compensação noutras localidades do País.
 
-###### Art. 21.º - 1. Subsistirão as actuais Câmaras de Compensação de Lisboa e do Porto.
+Art. 21.º - 1. Subsistirão as actuais Câmaras de Compensação de Lisboa e do Porto.
 
 2. O conselho de administração das câmaras de compensação será inicialmente constituído pelos actuais membros em exercício do conselho de administração da Câmara de Compensação de Lisboa, que se manterão no exercício dos seus cargos até à realização da próxima assembleia geral ordinária.
 
@@ -215,16 +261,16 @@ d) Normas de liquidação dos saldos apurados nas compensações.
 
 4. Enquanto não entrar em vigor o regulamento a que se refere o número anterior, as Câmaras de Compensação de Lisboa e do Porto continuarão a reger-se pelos preceitos que estabelecem o seu regime orgânico, na parte em que não forem incompatíveis com o presente diploma.
 
-###### Art. 22.º Ficam revogados os seguintes diplomas:
+Art. 22.º Ficam revogados os seguintes diplomas:
 
 Decreto com força de lei n.º 12852, de 20 de Dezembro de 1926; Decreto com força de lei n.º 16366, de 15 de Janeiro de 1929; [Decreto n.º 16394](https://diariodarepublica.pt/dr/detalhe/decreto/16394-1929-356525), de 18 de Janeiro de 1929; [Decreto n.º 16909](https://diariodarepublica.pt/dr/detalhe/decreto/16909-1929-296036), de 30 de Maio de 1929; Decreto com força de lei n.º 17050, de 29 de Junho de 1929; [Decreto n.º 17162](https://diariodarepublica.pt/dr/detalhe/decreto/17162-1929-293765), de 29 de Julho de 1929; Decreto com força de lei n.º 22025, de 24 de Dezembro de 1932; [Decreto n.º 25667](https://diariodarepublica.pt/dr/detalhe/decreto/25667-1935-581633), de 25 de Julho de 1935; [Decreto n.º 28806](https://diariodarepublica.pt/dr/detalhe/decreto/28806-1938-365084), de 4 de Julho de 1938; [Decreto-Lei n.º 32101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32101-1942-315902), de 24 de Junho de 1942; [Portaria n.º 18229](https://diariodarepublica.pt/dr/detalhe/portaria/18229-1961-557074), de 21 de Janeiro de 1961, e [Portaria n.º 22969](https://diariodarepublica.pt/dr/detalhe/portaria/22969-1967-388196), de 20 de Outubro de 1967.
 
-###### Art. 23.º Este diploma entra em vigor quinze dias após a sua publicação.
+Art. 23.º Este diploma entra em vigor quinze dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 2 de Setembro de 1974.**
+Promulgado em 2 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

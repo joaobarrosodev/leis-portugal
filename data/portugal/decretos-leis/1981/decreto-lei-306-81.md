@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1981-568313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0506920d370b8aff0e699c0a98ce56195a24f4d93481105b817c3450d5b0b510
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1bfcae399d692eb1a0851b80513988a1db1797b5cb15e03fcc5990d7a32f8f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Custo da Construção
+- Fundo de Fomento da Habitação
+- Habitação
+relationships:
+- type: cites
+  target: pt:dre:296237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:24Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +107,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O valor de venda dos fogos construídos pelas empresas de construção no âmbito de contratos de desenvolvimento para a habitação, regulados pelo [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, é fixado a partir dos valores estabelecidos na portaria a que se refere o artigo 4.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 23 de Novembro, em vigor no segundo mês do trimestre do respectivo ano civil anterior ao trimestre em que devam estar concluídos os fogos, segundo o plano de trabalhos, nos termos que se seguem.
+Artigo 1.º - 1 - O valor de venda dos fogos construídos pelas empresas de construção no âmbito de contratos de desenvolvimento para a habitação, regulados pelo [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, é fixado a partir dos valores estabelecidos na portaria a que se refere o artigo 4.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 23 de Novembro, em vigor no segundo mês do trimestre do respectivo ano civil anterior ao trimestre em que devam estar concluídos os fogos, segundo o plano de trabalhos, nos termos que se seguem.
 
 2 - Na fixação do custo de construção (CC) de cada fogo tomar-se-á o valor resultante da multiplicação da área bruta daquele pelo CC/m2 respectivo, extraído da portaria em vigor na data acima definida e actualizado para a mesma data.
 
@@ -103,7 +119,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - O valor de venda é fixado pelo conselho administrativo do Fundo de Fomento da Habitação (FFH), não sofrendo qualquer alteração até ser objecto da primeira transmissão.
 
-###### Art. 2.º - 1 - Nos casos em que o FFH vier a exercer a garantia de compra prevista no contrato de desenvolvimento, o preço de compra de cada fogo, segundo a respectiva tipologia, é igual ao valor constante do quadro de preços, acrescido das seguintes parcelas:
+Art. 2.º - 1 - Nos casos em que o FFH vier a exercer a garantia de compra prevista no contrato de desenvolvimento, o preço de compra de cada fogo, segundo a respectiva tipologia, é igual ao valor constante do quadro de preços, acrescido das seguintes parcelas:
 
 a) Revisão de preços definitiva, processada por fórmula acordada com a empresa, que respeite o expresso no Decreto-Lei n.º 273 B/75, de 3 de Junho, e disposições complementares, com as necessárias adaptações, de forma a rever na mesma proporção do custo de construção as áreas consideradas revisíveis dos encargos indirectos de terreno e infra-estruturas;
 
@@ -115,12 +131,12 @@ d) Encargos financeiros inerentes aos financiamentos concedidos, calculados desd
 
 2 - Quando, em função das particulares circunstâncias do caso, houver lugar à rnajoração prevista na alínea c) do número anterior, será aquela fixada pelo conselho administrativo do FFH, tendo em conta o solicitado pela empresa e o parecer fundamentado, dos serviços daquele organismo.
 
-###### Art. 3.º O disposto nos artigos antecedentes tem natureza interpretativa e aplica-se à todos os contratos de desenvolvimento regulados pelo referido [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, quer já tenham sido assinados, quer se encontrem em fase de negociação.
+Art. 3.º O disposto nos artigos antecedentes tem natureza interpretativa e aplica-se à todos os contratos de desenvolvimento regulados pelo referido [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, quer já tenham sido assinados, quer se encontrem em fase de negociação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Novembro de 1981.**
+Promulgado em 4 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

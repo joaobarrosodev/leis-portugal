@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46856-1966-488536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45bc55fcac0e534537ab3a5ee6370e9472ae548ac457925a45095c5b05833ac4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 533a52765c2e47bcc24f95b2886da9200fc9ed8603c67d908386ab1489b90248
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bandeira
+- Definição de Competências
+- Equipamento Militar
+- Exército
+- Fiscalização
+- Força Aérea
+- Forças Armadas
+- Junta Nacional da Marinha Mercante
+- Marinha
+- Mercadoria
+- Transporte Marítimo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:04Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +100,17 @@ Assim,
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São reservados à bandeira nacional os transportes marítimos de cargas militares que se destinem ao Exército, à Marinha ou à Aeronáutica, bem como dos que se destinem à manutenção das forças armadas e à defesa nacional.
+Artigo 1.º São reservados à bandeira nacional os transportes marítimos de cargas militares que se destinem ao Exército, à Marinha ou à Aeronáutica, bem como dos que se destinem à manutenção das forças armadas e à defesa nacional.
 
 § único. Incluem-se nas cargas militares os artigos importados para fábricas cuja produção seja destinada à defesa nacional.
 
-###### Art. 2.º Sem prejuízo de acordos bilaterais, são igualmente reservados à bandeira nacional os transportes marítimos de cargas destinadas a bases e instalações militares ou científicas estabelecidas ou a estabelecer em território nacional.
+Art. 2.º Sem prejuízo de acordos bilaterais, são igualmente reservados à bandeira nacional os transportes marítimos de cargas destinadas a bases e instalações militares ou científicas estabelecidas ou a estabelecer em território nacional.
 
-###### Art. 3.º Pode, no entanto, autorizar-se determinado transporte em navio estrangeiro, se não houver informação ou presunção de que a utilização desse navio é prejudicial aos interesses da defesa nacional e a Junta Nacional da Marinha Mercante informar que o porto de carregamento não é frequentado, em carreiras regulares, pela navegação portuguesa, ou que não há navio português disponível para efectuar esse transporte.
+Art. 3.º Pode, no entanto, autorizar-se determinado transporte em navio estrangeiro, se não houver informação ou presunção de que a utilização desse navio é prejudicial aos interesses da defesa nacional e a Junta Nacional da Marinha Mercante informar que o porto de carregamento não é frequentado, em carreiras regulares, pela navegação portuguesa, ou que não há navio português disponível para efectuar esse transporte.
 
-###### Art. 4.º A liquidação dos fretes devidos pelos transportes a que se referem os artigos 1.º e 2.º dependerá de informação da Junta Nacional da Marinha Mercante de que as respectivas contas estão em conformidade com os contratos de fretamento.
+Art. 4.º A liquidação dos fretes devidos pelos transportes a que se referem os artigos 1.º e 2.º dependerá de informação da Junta Nacional da Marinha Mercante de que as respectivas contas estão em conformidade com os contratos de fretamento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Fevereiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

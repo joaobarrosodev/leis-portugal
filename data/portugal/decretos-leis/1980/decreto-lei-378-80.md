@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21200/26352642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1980-460787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96b15ba909508f595693998b1b3ea88303456bbcb53eb36a4a27cd466bc10643
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 481d192c80ed0d7edf6dcab29fe7ae97328d3a84e46324c5f1663323d1ea948d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA PIA de Lisboa
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578949:por
+  label: "Alterado o quadro de pessoal da Casa Pia de Lisboa, aprovado pelo presente diploma, pela PORT.469/81.06.06.1981.MFP,\
+    \ DR.IS [130] de 06.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-1981-578949
+  date: '1981-06-06'
+- type: amended_by
+  target: pt:dre:578970:por
+  label: "Alterado o quadro de pessoal da Casa Pia de Lisboa, pela PORT.485/81.15.06.1981.MFP, DR.IS [135] de 15.06.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/485-1981-578970
+  date: '1981-06-15'
+- type: amended_by
+  target: pt:dre:395926:por
+  label: "Substituído o quadro de pessoal previsto na al. d) pela PORT.602/82.1982.06.18.MFP, DR.IS [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1982-395926
+  date: '1982-06-18'
+- type: amended_by
+  target: pt:dre:397170:por
+  label: "Extinto, à data de posse do lugar de assessor criado pelo presente diploma, um lugar de assessor no quadro de pessoal\
+    \ pela PORT.752/82.04.08.1982.MFP, DR.IS [178] de 04.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-1982-397170
+  date: '1982-08-04'
+- type: amended_by
+  target: pt:dre:180635:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.563/85.10.08.1985.PCM, DR.IS [183] de 10.08.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-1985-180635
+  date: '1985-08-10'
+- type: amended_by
+  target: pt:dre:180638:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.564/85.10.08.1985.PCM, DR.IS [183] de 10.08.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-1985-180638
+  date: '1985-08-10'
+- type: amended_by
+  target: pt:dre:285766:por
+  label: "Alterado o quadro de pessoal pela PORT.168/88.19.03.1988.MF, DR.IS [66] de 19.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1988-285766
+  date: '1988-03-19'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673829:por
+  label: null
+  source: null
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:47Z'
   warnings: []
   errors: []
 ---
@@ -434,14 +522,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
 
-**Promulgado em 1 de Setembro de 1980.**
+Promulgado em 1 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21200/26352642.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21200/26352642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21200/26352642.pdf)
 
-**O Primeiro-Ministro, Francisco Sá Carneiro.**
+O Primeiro-Ministro, Francisco Sá Carneiro.

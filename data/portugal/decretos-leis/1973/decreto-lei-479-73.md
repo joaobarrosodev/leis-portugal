@@ -48,40 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1973-412833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fa9a86bb4138246d6496c0effd3c62a1141227444c0bf4af7e049ccdd3e15fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00137bf306e4badf78f131fcecd0a846fc91d452c97e3670f91178f74fd810f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Sindical de Previdência
+- Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:411860:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:23Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +106,16 @@ Uma vez que a [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Poderá ser determinado o alargamento de âmbito das caixas sindicais de previdência aos grupos profissionais que, não sendo constituídos por trabalhadores autónomos, exerçam actividades sujeitas a um condicionalismo especial, bem como às entidades às quais prestem serviço, para o efeito de beneficiarem de uma ou mais modalidades do esquema de seguro daquelas instituições.
+Artigo 1.º Poderá ser determinado o alargamento de âmbito das caixas sindicais de previdência aos grupos profissionais que, não sendo constituídos por trabalhadores autónomos, exerçam actividades sujeitas a um condicionalismo especial, bem como às entidades às quais prestem serviço, para o efeito de beneficiarem de uma ou mais modalidades do esquema de seguro daquelas instituições.
 
-###### Art. 2.º A regulamentação do disposto neste diploma constará de portaria que, para cada categoria de beneficiários, vier a ser publicada pelo Ministro das Corporações e Previdência Social.
+Art. 2.º A regulamentação do disposto neste diploma constará de portaria que, para cada categoria de beneficiários, vier a ser publicada pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 3.º Ao pessoal abrangido nos termos do artigo 1.º é aplicável o regime geral das caixas sindicais de previdência em tudo o que não contrarie o que nas respectivas normas regulamentares se estabelecer expressamente.
+Art. 3.º Ao pessoal abrangido nos termos do artigo 1.º é aplicável o regime geral das caixas sindicais de previdência em tudo o que não contrarie o que nas respectivas normas regulamentares se estabelecer expressamente.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Setembro de 1973.**
+Promulgado em 12 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

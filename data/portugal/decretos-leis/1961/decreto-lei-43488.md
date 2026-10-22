@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43488-1961-557016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c2a9c40b0656d3e60cb9568209f4e28612cb0d6e362a44d81e280156e8e725c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2ddc4def583eda05b2096218c4f0ea3a96ee44722b3bc6e0611ab3e70127d9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código Penal
+- Comissão
+- Definição de Competências
+- Diploma Legal
+- Ministro da Justiça
+- Processo Legislativo
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:306223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634100:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:36Z'
   warnings: []
   errors: []
 ---
@@ -115,17 +130,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro da Justiça autorizado promover a elaboração de um projecto de reforma do Código Penal, podendo para esse fim nomear, em comissão, um professor de Direito, bem como os colaboradores que forem julgados necessários.
+Artigo 1.º Fica o Ministro da Justiça autorizado promover a elaboração de um projecto de reforma do Código Penal, podendo para esse fim nomear, em comissão, um professor de Direito, bem como os colaboradores que forem julgados necessários.
 
-###### Art. 2.º - 1. As pessoas nomeadas receberão a remuneração que for fixada pelo Ministro da Justiça, depois de ouvido o Ministro das Finanças, considerando-se o exercício da comissão pelo professor nomeado, para todos os efeitos, como exercício do magistério e dispensando-o da regência de cadeiras e cursos, se o Ministério da Educação Nacional puder dispensá-lo, bem como de quaisquer cargos que acumule com os de professor, sem perda de vencimentos e outras regalias.
+Art. 2.º - 1. As pessoas nomeadas receberão a remuneração que for fixada pelo Ministro da Justiça, depois de ouvido o Ministro das Finanças, considerando-se o exercício da comissão pelo professor nomeado, para todos os efeitos, como exercício do magistério e dispensando-o da regência de cadeiras e cursos, se o Ministério da Educação Nacional puder dispensá-lo, bem como de quaisquer cargos que acumule com os de professor, sem perda de vencimentos e outras regalias.
 
 2. Se os colaboradores nomeados forem funcionários públicos, poderão ser dispensados pelo Ministro respectivo do serviço dos seus cargos, igualmente sem perda de vencimentos e outras regalias.
 
-###### Art. 3.º Elaborado o projecto, serão sobre ele ouvidos, dentro do prazo fixado pelo Ministro da Justiça, os organismos e as pessoas que se julgue conveniente.
+Art. 3.º Elaborado o projecto, serão sobre ele ouvidos, dentro do prazo fixado pelo Ministro da Justiça, os organismos e as pessoas que se julgue conveniente.
 
-###### Art. 4.º Em seguida será o projecto sujeito a revisão, podendo para esse feito ser nomeada uma comissão, presidida pelo Ministro da Justiça e da qual fará parte o autor do projecto. Esta comissão deverá ultimar os seus trabalhos no prazo que pelo seu presidente for fixado, sendo aplicável aos seus membros o disposto nos n.º 1 e 2 do artigo 2.º
+Art. 4.º Em seguida será o projecto sujeito a revisão, podendo para esse feito ser nomeada uma comissão, presidida pelo Ministro da Justiça e da qual fará parte o autor do projecto. Esta comissão deverá ultimar os seus trabalhos no prazo que pelo seu presidente for fixado, sendo aplicável aos seus membros o disposto nos n.º 1 e 2 do artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

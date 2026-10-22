@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1974-473279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62915aec095fca125a038a2972627ef066f75db813fd8edc417f2d4c03a26426
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7e7c3f3dcca235f38f8ff891d9b9f0f188530e95a28446cc821db5959b95aae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Conselho Superior Judiciário do Ultramar
+- Lourenço Marques
+- Luanda
+- Organização Judiciária
+- Tribunal da Relação
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:168989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:476326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632752:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:56Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +115,9 @@ Satisfazendo as respectivas solicitações provindas dos territórios ultramarin
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, n.os 1 e 4, 5.º, 6.º, 7.º, n.º 4, e 11.º do [Decreto-Lei n.º 311/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1974-476326), de 9 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, n.os 1 e 4, 5.º, 6.º, 7.º, n.º 4, e 11.º do [Decreto-Lei n.º 311/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1974-476326), de 9 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1. Aos magistrados judiciais é reconhecido o direito de recusar qualquer comissão de serviço sempre que a nomeação não seja da competência do Conselho Superior Judiciário do Ultramar. Podem, porém, em requerimento fundamentado, pedir escusa do exercício de cargos para que sejam eleitos, ou nomeados pelo referido Conselho, a este competindo a apreciação do pedido.
+Art. 4.º - 1. Aos magistrados judiciais é reconhecido o direito de recusar qualquer comissão de serviço sempre que a nomeação não seja da competência do Conselho Superior Judiciário do Ultramar. Podem, porém, em requerimento fundamentado, pedir escusa do exercício de cargos para que sejam eleitos, ou nomeados pelo referido Conselho, a este competindo a apreciação do pedido.
 
 2. ...
 
@@ -114,7 +129,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 6. ...
 
-###### Art. 5.º - 1. Em cada distrito judicial, o presidente do tribunal da relação será eleito, de entre os seus juízes, pelos desembargadores que estejam colocados no mesmo tribunal. Simultaneamente com o presidente será eleito o substituto.
+Art. 5.º - 1. Em cada distrito judicial, o presidente do tribunal da relação será eleito, de entre os seus juízes, pelos desembargadores que estejam colocados no mesmo tribunal. Simultaneamente com o presidente será eleito o substituto.
 
 2. Os presidentes exercem as suas funções por um período de três anos, podendo ser reeleitos uma ou mais vezes.
 
@@ -134,7 +149,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 10. Até à posse dos presidentes eleitos, continuarão em exercício de funções os actuais presidentes ou os seus substitutos em exercício.
 
-###### Art. 6.º - 1. O voto para a eleição dos membros do Conselho Superior Judiciário do Ultramar é secreto.
+Art. 6.º - 1. O voto para a eleição dos membros do Conselho Superior Judiciário do Ultramar é secreto.
 
 2. A Direcção-Geral de Justiça, até quarenta e cinco dias antes da data das eleições, enviará a todos os juízes eleitores, por carta registada com aviso de recepção, os boletins de voto e respectivos sobrescritos. Os boletins conterão os nomes de todos os magistrados elegíveis, por ordem alfabética do primeiro nome.
 
@@ -154,7 +169,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 10. Os membros eleitos tomarão posse, no prazo de trinta dias, perante o presidente cessante ou quem suas vezes fizer. Os vogais, porém, tomarão posse perante o novo presidente, se este já tiver iniciado as suas funções.
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 2. ...
 
@@ -164,24 +179,24 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ...
 
-###### Art. 11.º O presidente do Conselho Superior Judiciário do Ultramar deixa de exercer as funções de director-geral de Justiça do Ultramar, passando este cargo, inteiramente separado daquele, a ser exercido, em comissão de serviço, por um magistrado judicial de 2.ª instância.
+Art. 11.º O presidente do Conselho Superior Judiciário do Ultramar deixa de exercer as funções de director-geral de Justiça do Ultramar, passando este cargo, inteiramente separado daquele, a ser exercido, em comissão de serviço, por um magistrado judicial de 2.ª instância.
 
-###### Art. 2.º - 1. O prazo para as primeiras eleições do Conselho Superior Judiciário é de noventa dias, contados a partir da publicação do presente diploma no Diário do Governo.
+Art. 2.º - 1. O prazo para as primeiras eleições do Conselho Superior Judiciário é de noventa dias, contados a partir da publicação do presente diploma no Diário do Governo.
 
 2. O prazo para as primeiras eleições dos presidentes das relações é de sessenta dias, contados a partir das publicações do presente diploma nos Boletins Oficiais dos Estados de Angola e de Moçambique.
 
-###### Art. 3.º - 1. Servirá de secretário do Conselho Superior Judiciário do Ultramar o secretário do Conselho Ultramarino, que poderá ser coadjuvado pelos funcionários da secretaria deste Conselho que por ele forem designados.
+Art. 3.º - 1. Servirá de secretário do Conselho Superior Judiciário do Ultramar o secretário do Conselho Ultramarino, que poderá ser coadjuvado pelos funcionários da secretaria deste Conselho que por ele forem designados.
 
 2. É revogado o [Decreto-Lei n.º 394/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1971-632752), de 21 de Setembro.
 
-###### Art. 4.º São criados nos Tribunais da Relação de Luanda e de Lourenço Marques, respectivamente, mais dois e um lugares de juiz desembargador.
+Art. 4.º São criados nos Tribunais da Relação de Luanda e de Lourenço Marques, respectivamente, mais dois e um lugares de juiz desembargador.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 13 de Setembro de 1974.**
+Promulgado em 13 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais de todos os Estados e províncias ultramarinas. - A. Almeida Santos.

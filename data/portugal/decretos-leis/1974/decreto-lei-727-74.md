@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/727-1974-468064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25bf3a592c07cb079845c006f03823dd8763159ded4fc721bd92754928f5347b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ce6fc14fb31c8b7ecb7e8bd6e597d5b40a43d01b5dbd102f45d04fb24903378
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estado Português da Índia
+- Justiça Militar
+- Reintegração de Militares
+- Sanção Penal
+relationships:
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:47Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +107,9 @@ Por último, é de toda a justiça realçar, neste momento, as qualidades de apr
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São anuladas as penas impostas aos militares em virtude dos acontecimentos ocorridos durante a invasão do Estado Português da Índia pelas forças armadas da União Indiana, em Dezembro de 1961.
+Artigo 1.º São anuladas as penas impostas aos militares em virtude dos acontecimentos ocorridos durante a invasão do Estado Português da Índia pelas forças armadas da União Indiana, em Dezembro de 1961.
 
-###### Art. 2.º A anulação referida no artigo anterior é oficiosa e produzirá os seguintes efeitos:
+Art. 2.º A anulação referida no artigo anterior é oficiosa e produzirá os seguintes efeitos:
 
 1.º Anulação dos registos das penas nos respectivos documentos de matrícula;
 
@@ -105,18 +117,18 @@ Usando da faculdade conferida pelo n.º 1 do artigo 1.º da [Lei n.º 4/74](http
 
 3.º Os militares reocuparão os seus lugares nas escalas de antiguidades, sem prejuízo da possibilidade de se exigir a realização dos cursos de promoção aos que forem reintegrados na situação do activo.
 
-###### Art. 3.º O militar reintegrado no activo poderá passar à situação de reserva, se assim o requerer, no prazo de quarenta e cinco dias, a contar da data da publicação do presente diploma legal, independentemente da satisfação dos requisitos legais presentemente exigidos para passagem a tal situação.
+Art. 3.º O militar reintegrado no activo poderá passar à situação de reserva, se assim o requerer, no prazo de quarenta e cinco dias, a contar da data da publicação do presente diploma legal, independentemente da satisfação dos requisitos legais presentemente exigidos para passagem a tal situação.
 
-###### Art. 4.º A reintegração nas suas funções de militares abrangidos pelo disposto nos n.os 2 e 3 do artigo 2.º deste diploma processa-se de acordo com as regras estipuladas nos artigos 8.º a 10.º e 13.º do [Decreto-Lei n.º 46001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46001-1964-536065), de 2 de Novembro de 1964, e nas Portarias n.os 21202, 24234 e 160/70, respectivamente de 29 de Março de 1965, 13 de Agosto de 1969 e 26 de Março de 1970.
+Art. 4.º A reintegração nas suas funções de militares abrangidos pelo disposto nos n.os 2 e 3 do artigo 2.º deste diploma processa-se de acordo com as regras estipuladas nos artigos 8.º a 10.º e 13.º do [Decreto-Lei n.º 46001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46001-1964-536065), de 2 de Novembro de 1964, e nas Portarias n.os 21202, 24234 e 160/70, respectivamente de 29 de Março de 1965, 13 de Agosto de 1969 e 26 de Março de 1970.
 
-###### Art. 5.º As medidas previstas nos artigos anteriores são extensíveis aos militares já falecidos naquilo que lhes for aplicável.
+Art. 5.º As medidas previstas nos artigos anteriores são extensíveis aos militares já falecidos naquilo que lhes for aplicável.
 
-###### Art. 6.º As dúvidas e os casos omissos suscitados na aplicação do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 6.º As dúvidas e os casos omissos suscitados na aplicação do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior-General das Forças Armadas.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - Victor Manuel Rodrigues Alves - José da Silva Lopes.
 
-**Promulgado em 9 de Dezembro de 1974.**
+Promulgado em 9 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

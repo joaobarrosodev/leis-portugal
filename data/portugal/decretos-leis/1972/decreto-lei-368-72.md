@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,164 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1972-691070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cfc097e7b75554d3a92eab363d939bf92c59b2f4a6d586ca91f55fa648f1391
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2c5cc596683fbb1d5d47d1f02af84b3f12e3c4ebb519bd57c011e9c3662e023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Estrangeiros
+- Aposentação
+- Casamento
+- Conselho Administrativo
+- Conselho Técnico
+- Crime
+- Definição de Competências
+- Delegação
+- Direcção Geral de Segurança
+- Formas de Provimento
+- Funcionário Público
+- Gestão Administrativa
+- Gestão Financeira
+- Médico
+- Mobilidade de Pessoal
+- Mulher
+- Orgânica
+- Pessoal Dirigente
+- Promoção Profissional
+- Quadro de Pessoal
+- Regime de Pessoal
+- Residência
+- Sistema Retributivo
+- TAXA de Prestação de Serviços
+- Titulo de Residência
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:517227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:686215:por
+  label: "Rectificado pela RECT.DD294.09.11.1972.PC, DG.IS [261] de 09.11.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-686215
+  date: '1972-11-09'
+- type: repealed_by
+  target: pt:dre:517227:por
+  label: "Revogado pelo DEC LEI.264-B/81.1981.09.03.MAI DR.IS [202]Supl, em tudo o que não o contrarie\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-b-1981-517227
+  date: '1981-09-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:56Z'
   warnings: []
   errors: []
 ---
@@ -94,37 +218,37 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - É organizada pelo presente diploma a Direcção-Geral de Segurança (D. G. S.), criada pelo [Decreto-Lei n.º 49401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49401-1969-217111), de 24 de Novembro de 1969.
+Artigo 1.º - É organizada pelo presente diploma a Direcção-Geral de Segurança (D. G. S.), criada pelo [Decreto-Lei n.º 49401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49401-1969-217111), de 24 de Novembro de 1969.
 
-###### Art. 2.º A Direcção-Geral de Segurança é um serviço nacional e a sua competência exerce-se em todo o território do continente, ilhas adjacentes e províncias ultramarinas.
+Art. 2.º A Direcção-Geral de Segurança é um serviço nacional e a sua competência exerce-se em todo o território do continente, ilhas adjacentes e províncias ultramarinas.
 
-###### Art. 3.º - 1. A Direcção-Geral de Segurança tem por fim prover à segurança exterior e interior do Estado.
+Art. 3.º - 1. A Direcção-Geral de Segurança tem por fim prover à segurança exterior e interior do Estado.
 
 2. Para esse fim, ser-lhe-á prestada pelas autoridades administrativas, judiciais, militares, marítimas e policiais a colaboração que estiver no âmbito das suas atribuições.
 
-###### Art. 4.º A Direcção-Geral de Segurança, como organismo autónomo de polícia judiciária, tem, quanto às infracções que são objecto da sua competência, os mesmos poderes e funções que a lei confere à Polícia Judiciária.
+Art. 4.º A Direcção-Geral de Segurança, como organismo autónomo de polícia judiciária, tem, quanto às infracções que são objecto da sua competência, os mesmos poderes e funções que a lei confere à Polícia Judiciária.
 
-###### Art. 5.º O Ministro do Interior tem, em relação à Direcção-Geral de Segurança, a mesma competência que a lei confere ao Ministro da Justiça e procurador-geral da República relativamente à Polícia Judiciária; nas províncias ultramarinas essa competência cabe ao Ministro do Ultramar.
+Art. 5.º O Ministro do Interior tem, em relação à Direcção-Geral de Segurança, a mesma competência que a lei confere ao Ministro da Justiça e procurador-geral da República relativamente à Polícia Judiciária; nas províncias ultramarinas essa competência cabe ao Ministro do Ultramar.
 
-###### Art. 6.º Na instrução preparatória dos processos da competência da Direcção-Geral de Segurança serão observados os preceitos do Código de Processo Penal e as disposições constantes dos artigos seguintes.
+Art. 6.º Na instrução preparatória dos processos da competência da Direcção-Geral de Segurança serão observados os preceitos do Código de Processo Penal e as disposições constantes dos artigos seguintes.
 
-###### Art. 7.º São autoridades de polícia judiciária, para o efeito de poderem ordenar a prisão, o director-geral, subdirector-geral, inspectores superiores, directores de serviço, inspectores-adjuntos e inspectores.
+Art. 7.º São autoridades de polícia judiciária, para o efeito de poderem ordenar a prisão, o director-geral, subdirector-geral, inspectores superiores, directores de serviço, inspectores-adjuntos e inspectores.
 
-###### Art. 8.º As funções que a lei atribui ao juiz durante a instrução preparatória, relativamente ao interrogatório de arguidos presos, à validação e manutenção de capturas e decisão sobre liberdade provisória, serão desempenhadas pelo director-geral, subdirector-geral, inspectores superiores, directores de serviço e inspectores-adjuntos.
+Art. 8.º As funções que a lei atribui ao juiz durante a instrução preparatória, relativamente ao interrogatório de arguidos presos, à validação e manutenção de capturas e decisão sobre liberdade provisória, serão desempenhadas pelo director-geral, subdirector-geral, inspectores superiores, directores de serviço e inspectores-adjuntos.
 
-###### Art. 9.º As funções do Ministério Público durante a instrução preparatória serão exercidas pelos inspectores.
+Art. 9.º As funções do Ministério Público durante a instrução preparatória serão exercidas pelos inspectores.
 
-###### Art. 10.º A assistência do advogado constituído aos interrogatórios poderá ser interdita quando haja inconveniente para a investigação ou a natureza do crime o justifique, devendo, neste caso, ser substituído por defensor ad hoc ou por duas testemunhas qualificadas e obrigadas a segredo de justiça.
+Art. 10.º A assistência do advogado constituído aos interrogatórios poderá ser interdita quando haja inconveniente para a investigação ou a natureza do crime o justifique, devendo, neste caso, ser substituído por defensor ad hoc ou por duas testemunhas qualificadas e obrigadas a segredo de justiça.
 
-###### Art. 11.º Todas as questões, incidentes, excepções ou nulidades suscitadas na instrução preparatória que deverem, nos termos gerais, ser decididas jurisdicionalmente serão apreciadas quando o processo for enviado a juízo.
+Art. 11.º Todas as questões, incidentes, excepções ou nulidades suscitadas na instrução preparatória que deverem, nos termos gerais, ser decididas jurisdicionalmente serão apreciadas quando o processo for enviado a juízo.
 
-###### Art. 12.º Nos processos por crimes contra a segurança exterior e interior do Estado a acusação cabe ao adjunto do procurador da República designado para prestar serviço no tribunal criminal e a instrução contraditória e o despacho de pronúncia ou não pronúncia compete aos juízes dos juízos criminais.
+Art. 12.º Nos processos por crimes contra a segurança exterior e interior do Estado a acusação cabe ao adjunto do procurador da República designado para prestar serviço no tribunal criminal e a instrução contraditória e o despacho de pronúncia ou não pronúncia compete aos juízes dos juízos criminais.
 
 #### SECÇÃO II — Competência e atribuições
 
-###### Art. 13.º Compete à Direcção-Geral de Segurança facultar aos departamentos do Estado, a quem interessem, as informações de que disponha, colaborar com os serviços similares estrangeiros e participar em reuniões e conferências da sua especialidade, tanto em território nacional como estrangeiro.
+Art. 13.º Compete à Direcção-Geral de Segurança facultar aos departamentos do Estado, a quem interessem, as informações de que disponha, colaborar com os serviços similares estrangeiros e participar em reuniões e conferências da sua especialidade, tanto em território nacional como estrangeiro.
 
-###### Art. 14.º Cabe especialmente à Direcção-Geral de Segurança:
+Art. 14.º Cabe especialmente à Direcção-Geral de Segurança:
 
 1) Proceder à recolha, pesquisa, centralização, coordenação e estudo das informações úteis à segurança;
 
@@ -162,9 +286,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 18) Organizar em todo o território nacional os processos relativos à extradição de criminosos.
 
-###### Art. 15.º Quando, em conexão com crimes cuja instrução seja da competência da Direcção-Geral de Segurança, tenham sido cometidos outros crimes, poderá a mesma Direcção-Geral proceder também à respectiva instrução, comunicando o facto à Procuradoria-Geral da República ou, no ultramar, à Procuradoria da República junto da respectiva Relação, que poderão determinar a cessação da investigação relativamente aos crimes conexos, se assim o entenderem conveniente.
+Art. 15.º Quando, em conexão com crimes cuja instrução seja da competência da Direcção-Geral de Segurança, tenham sido cometidos outros crimes, poderá a mesma Direcção-Geral proceder também à respectiva instrução, comunicando o facto à Procuradoria-Geral da República ou, no ultramar, à Procuradoria da República junto da respectiva Relação, que poderão determinar a cessação da investigação relativamente aos crimes conexos, se assim o entenderem conveniente.
 
-###### Art. 16.º - 1. No exercício das suas funções relativas à polícia de fronteiras, a Direcção-Geral de Segurança poderá determinar às empresas e agentes de navegação, bem como aos comandantes das embarcações e aeronaves, as medidas adequadas para que seja cumprida com o menor incómodo e a maior eficiência a sua missão de satisfazer as seguintes obrigações específicas:
+Art. 16.º - 1. No exercício das suas funções relativas à polícia de fronteiras, a Direcção-Geral de Segurança poderá determinar às empresas e agentes de navegação, bem como aos comandantes das embarcações e aeronaves, as medidas adequadas para que seja cumprida com o menor incómodo e a maior eficiência a sua missão de satisfazer as seguintes obrigações específicas:
 
 a) Facilitar as buscas que tenham de ser efectuadas a bordo para promover a captura de emigrantes clandestinos, criminosos ou incriminados pelas autoridades portuguesas ou estrangeiras, assim como outras diligências de interesse público, depois de se terem cumprido, quando se trate de embarcações estrangeiras, as formalidades prescritas no [Decreto n.º 54](https://diariodarepublica.pt/dr/detalhe/decreto/54-1913-590355), de 23 de Julho de 1913;
 
@@ -192,37 +316,37 @@ m) Conduzir para fora do País os passageiros indocumentados, indesejáveis ou s
 
 2. No caso das fronteiras marítimas, as medidas referidas no número anterior serão tomadas por intermédio ou com conhecimento das autoridades marítimas.
 
-###### Art. 17.º O desembarque de tripulantes estrangeiros por motivo que não seja o de deonça grave só será autorizado desde que a empresa ou agente de navegação assumam o compromisso de os reembarcar ou de promover o seu repatriamento e de prover ao seu sustento, mesmo que os motivos determinantes do desembarque obriguem a mantê-los em regime de detenção.
+Art. 17.º O desembarque de tripulantes estrangeiros por motivo que não seja o de deonça grave só será autorizado desde que a empresa ou agente de navegação assumam o compromisso de os reembarcar ou de promover o seu repatriamento e de prover ao seu sustento, mesmo que os motivos determinantes do desembarque obriguem a mantê-los em regime de detenção.
 
-###### Art. 18.º Tratando-se de embarcações ou aeronaves que não sejam de comércio, cumpre aos respectivos proprietários satisfazer, na parte aplicável, as obrigações a que se referem os artigos anteriores.
+Art. 18.º Tratando-se de embarcações ou aeronaves que não sejam de comércio, cumpre aos respectivos proprietários satisfazer, na parte aplicável, as obrigações a que se referem os artigos anteriores.
 
-###### Art. 19.º Poderá, em casos excepcionais, ser autorizada a entrada e permanência no País de indivíduos cujos passaportes se não encontrem regularmente visados ou tenham perdido a sua validade, desde que se averigúe que estão em condições de receber visto ou que a competente representação diplomática ou o consulado revalidará os existentes ou emitirá novos passaportes.
+Art. 19.º Poderá, em casos excepcionais, ser autorizada a entrada e permanência no País de indivíduos cujos passaportes se não encontrem regularmente visados ou tenham perdido a sua validade, desde que se averigúe que estão em condições de receber visto ou que a competente representação diplomática ou o consulado revalidará os existentes ou emitirá novos passaportes.
 
-###### Art. 20.º A fiscalização a exercer pela Direcção-Geral de Segurança nos portos e aeroportos abrange as embarcações e aeronaves mercantes e de recreio.
+Art. 20.º A fiscalização a exercer pela Direcção-Geral de Segurança nos portos e aeroportos abrange as embarcações e aeronaves mercantes e de recreio.
 
-###### Art. 21.º A Direcção-Geral de Segurança poderá requisitar às empresas e agentes de navegação marítima ou aérea os meios de transporte para exercer eficazmente a fiscalização a bordo das embarcações e aeronaves.
+Art. 21.º A Direcção-Geral de Segurança poderá requisitar às empresas e agentes de navegação marítima ou aérea os meios de transporte para exercer eficazmente a fiscalização a bordo das embarcações e aeronaves.
 
-###### Art. 22.º Quando tenham de permanecer a bordo, os funcionários da Direcção-Geral de Segurança receberão, por conta das respectivas empresas de navegação, alojamento adequado.
+Art. 22.º Quando tenham de permanecer a bordo, os funcionários da Direcção-Geral de Segurança receberão, por conta das respectivas empresas de navegação, alojamento adequado.
 
-###### Art. 23.º Todo aquele que entre ou saia do País só poderá fazê-lo por posto de fronteira legalmente habilitado e apresentará os seus documentos válidos à fiscalização da Direcção-Geral de Segurança.
+Art. 23.º Todo aquele que entre ou saia do País só poderá fazê-lo por posto de fronteira legalmente habilitado e apresentará os seus documentos válidos à fiscalização da Direcção-Geral de Segurança.
 
-###### Art. 24.º O horário de passagem nas fronteiras terrestres e do embarque e desembarque de passageiros nos portos e aeroportos será fixado pela Direcção-Geral de Segurança de acordo com as autoridades locais interessadas.
+Art. 24.º O horário de passagem nas fronteiras terrestres e do embarque e desembarque de passageiros nos portos e aeroportos será fixado pela Direcção-Geral de Segurança de acordo com as autoridades locais interessadas.
 
-###### Art. 25.º - 1. Para o exercício das suas funções será facultada a entrada livre das autoridades e agentes da Direcção-Geral de Segurança nas casas e recintos de espectáculos ou diversões, associações de recreio, lugares onde se realizam reuniões públicas, estações de caminho de ferro e fluviais, cais de embarque e aeródromos comerciais, embarcações e aeronaves mercantes e de recreio, parques de campismo e outros locais onde a fiscalização ou vigilância policial se torne necessária.
+Art. 25.º - 1. Para o exercício das suas funções será facultada a entrada livre das autoridades e agentes da Direcção-Geral de Segurança nas casas e recintos de espectáculos ou diversões, associações de recreio, lugares onde se realizam reuniões públicas, estações de caminho de ferro e fluviais, cais de embarque e aeródromos comerciais, embarcações e aeronaves mercantes e de recreio, parques de campismo e outros locais onde a fiscalização ou vigilância policial se torne necessária.
 
 2. Compete ao director-geral de Segurança regulamentar o exercício da faculdade prevista no número anterior.
 
-###### Art. 26.º Na alta de serviços locais privativos da Direcção-Geral de Segurança, e sem prejuízo da sua competência, as suas atribuições serão exercidas pelos comandantes distritais da Polícia de Segurança Pública do continente e das ilhas adjacentes, pelos comandantes distritais da Polícia de Segurança Pública nos Estados de Angola e Moçambique, pelos comandantes dos corpos de polícia nas restantes províncias ultramarinas e pela autoridade policial dos concelhos, que comunicarão ao director-geral de Segurança todas as ocorrências que possam interessar à segurança.
+Art. 26.º Na alta de serviços locais privativos da Direcção-Geral de Segurança, e sem prejuízo da sua competência, as suas atribuições serão exercidas pelos comandantes distritais da Polícia de Segurança Pública do continente e das ilhas adjacentes, pelos comandantes distritais da Polícia de Segurança Pública nos Estados de Angola e Moçambique, pelos comandantes dos corpos de polícia nas restantes províncias ultramarinas e pela autoridade policial dos concelhos, que comunicarão ao director-geral de Segurança todas as ocorrências que possam interessar à segurança.
 
-###### Art. 27.º A Guarda Fiscal prestará auxílio e colaboração à Direcção-Geral de Segurança sempre que lhe sejam solicitados e impedirá a entrada ou saída de nacionais ou estrangeiros por local onde não exista posto de fronteira, mesmo que estejam munidos dos documentos necessários.
+Art. 27.º A Guarda Fiscal prestará auxílio e colaboração à Direcção-Geral de Segurança sempre que lhe sejam solicitados e impedirá a entrada ou saída de nacionais ou estrangeiros por local onde não exista posto de fronteira, mesmo que estejam munidos dos documentos necessários.
 
-###### Art. 28.º As autoridades aduaneiras não farão despacho da bagagem dos passageiros sem que estes estejam desembaraçados das formalidades a cumprir perante a Direcção-Geral de Segurança.
+Art. 28.º As autoridades aduaneiras não farão despacho da bagagem dos passageiros sem que estes estejam desembaraçados das formalidades a cumprir perante a Direcção-Geral de Segurança.
 
 ### CAPÍTULO III — Da direcção e dos serviços
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 29.º - 1. A Direcção-Geral de Segurança fica a cargo de um director-geral, a quem compete orientar, coordenar e inspeccionar os serviços e submeter a despacho do Ministro do Interior ou do Ultramar, ou de ambos, conforme os casos, os assuntos que careçam de resolução superior.
+Art. 29.º - 1. A Direcção-Geral de Segurança fica a cargo de um director-geral, a quem compete orientar, coordenar e inspeccionar os serviços e submeter a despacho do Ministro do Interior ou do Ultramar, ou de ambos, conforme os casos, os assuntos que careçam de resolução superior.
 
 2. O director-geral é coadjuvado no exercício das suas funções por um subdirector-geral e pelos inspectores superiores, que, em estreita colaboração com ele e sob a sua superior orientação, têm a seu cargo a coordenação dos serviços do continente e ilhas e do ultramar.
 
@@ -234,7 +358,7 @@ m) Conduzir para fora do País os passageiros indocumentados, indesejáveis ou s
 
 6. O director-geral, no que respeita ao serviço da Direcção-Geral de Segurança no ultramar, terá a competência atribuída por lei aos directores-gerais do Ministério do Ultramar.
 
-###### Art. 30.º Compete especialmente ao director-geral:
+Art. 30.º Compete especialmente ao director-geral:
 
 1) Superintender nos serviços relativos à admissão de pessoal e aos concursos de promoção;
 
@@ -254,15 +378,15 @@ m) Conduzir para fora do País os passageiros indocumentados, indesejáveis ou s
 
 9) Determinar ou autorizar as diligências de funcionários fora do País, podendo delegar esta competência no subdirector-geral e nos inspectores superiores para as categorias de chefes de brigada e agentes.
 
-###### Art. 31.º - 1. Para a efectivação dos actos da competência especial referida no artigo anterior, o director-geral disporá de um gabinete, a cargo de um funcionário superior por ele escolhido e com o pessoal julgado necessário.
+Art. 31.º - 1. Para a efectivação dos actos da competência especial referida no artigo anterior, o director-geral disporá de um gabinete, a cargo de um funcionário superior por ele escolhido e com o pessoal julgado necessário.
 
 2. Ficam a pertencer ao gabinete referido no número anterior os serviços de cifra e de registo de entrada de correspondência confidencial e quaisquer outros que forem determinados pelo director-geral.
 
-###### Art. 32.º O Gabinete Nacional da Interpol, que funciona junto da Direcção de Serviços de Investigação e Contencioso para efeitos de expediente, contactos e administração, depende superiormente do director-geral e é chefiado por um inspector-adjunto ou inspector.
+Art. 32.º O Gabinete Nacional da Interpol, que funciona junto da Direcção de Serviços de Investigação e Contencioso para efeitos de expediente, contactos e administração, depende superiormente do director-geral e é chefiado por um inspector-adjunto ou inspector.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 33.º A Direcção-Geral de Segurança compreende:
+Art. 33.º A Direcção-Geral de Segurança compreende:
 
 a) O Conselho Técnico Superior;
 
@@ -284,11 +408,11 @@ i) As escolas técnicas.
 
 ##### SUBSECÇÃO I — Do Conselho Técnico Superior
 
-###### Art. 34.º - 1. Junto da Direcção-Geral de Segurança será constituído o Conselho Técnico Superior, formado por técnicos superiores, em número variável, até ao máximo de oito, que funcionará sob a presidência do director-geral de Segurança ou de um vice-presidente por ele designado.
+Art. 34.º - 1. Junto da Direcção-Geral de Segurança será constituído o Conselho Técnico Superior, formado por técnicos superiores, em número variável, até ao máximo de oito, que funcionará sob a presidência do director-geral de Segurança ou de um vice-presidente por ele designado.
 
 2. Os técnicos superiores serão escolhidos pelo Ministro do Interior, com dispensa de todas as formalidades legais, salvo o visto do Tribunal de Contas, de entre os funcionários da Direcção-Geral de Segurança com categoria igual ou superior a inspector-adjunto, com serviços e experiência relevantes, que manterão os vencimentos e demais abonos e regalias da situação anterior e abrirão vaga no quadro.
 
-###### Art. 35.º - 1. O Conselho Técnico Superior tem as atribuições seguintes:
+Art. 35.º - 1. O Conselho Técnico Superior tem as atribuições seguintes:
 
 a) Emitir parecer fundamentado em todos os assuntos da organização e funcionamento da Direcção-Geral de Segurança sobre que for consultado;
 
@@ -302,7 +426,7 @@ d) Estabelecer um sistema de documentação que permita informar regularmente os
 
 ##### SUBSECÇÃO II — Do Conselho da Direcção-Geral
 
-###### Art. 36.º - 1. O Conselho da Direcção-Geral é constituído pelo director-geral, subdirector-geral, inspectores superiores e directores de serviço e será secretariado pelo inspector-adjunto que for designado e que lavrará as actas das reuniões.
+Art. 36.º - 1. O Conselho da Direcção-Geral é constituído pelo director-geral, subdirector-geral, inspectores superiores e directores de serviço e será secretariado pelo inspector-adjunto que for designado e que lavrará as actas das reuniões.
 
 2. O Conselho da Direcção-Geral reunirá obrigatòriamente no início de cada trimestre e extraordinàriamente sempre que o director-geral o convoque.
 
@@ -312,7 +436,7 @@ d) Estabelecer um sistema de documentação que permita informar regularmente os
 
 5. O director-geral pode, sempre que o julgue conveniente, determinar que às reuniões do Conselho assistam quaisquer funcionários que tenham conhecimentos especiais dos assuntos a tratar.
 
-###### Art. 37.º Compete ao Conselho da Direcção-Geral:
+Art. 37.º Compete ao Conselho da Direcção-Geral:
 
 1) Elaborar o programa dos cursos técnicos que visem a preparação, aperfeiçoamento e especialização dos agentes e outros funcionários da Direcção-Geral de Segurança e os regulamentos das escolas técnicas;
 
@@ -328,17 +452,17 @@ d) Estabelecer um sistema de documentação que permita informar regularmente os
 
 ##### SUBSECÇÃO III — Do Conselho Administrativo
 
-###### Art. 38.º - 1. O Conselho Administrativo gozará de autonomia administrativa, nos termos das leis de contabilidade pública, e é constituído por um presidente e dois vogais, respectivamente o director-geral, ou o seu substituto legal, o director dos serviços administrativos e o tesoureiro.
+Art. 38.º - 1. O Conselho Administrativo gozará de autonomia administrativa, nos termos das leis de contabilidade pública, e é constituído por um presidente e dois vogais, respectivamente o director-geral, ou o seu substituto legal, o director dos serviços administrativos e o tesoureiro.
 
 2. O Conselho Administrativo poderá ter, em cada uma das delegações da Direcção-Geral no continente e ilhas, uma delegação constituída pelo chefe dos serviços, pelo inspector-adjunto ou inspector e por outro funcionário designado pelo director-geral.
 
-###### Art. 39.º - 1. Ao Conselho Administrativo, além da administração das dotações do Orçamento Geral do Estado consignadas à Direcção-Geral de Segurança, compete a arrecadação das receitas que devem dar entrada nos cofres públicos dentro dos prazos legais e ainda a administração das receitas consignadas ao cofre geral da Direcção-Geral de Segurança e a satisfação de todas as despesas que estejam devidamente autorizadas.
+Art. 39.º - 1. Ao Conselho Administrativo, além da administração das dotações do Orçamento Geral do Estado consignadas à Direcção-Geral de Segurança, compete a arrecadação das receitas que devem dar entrada nos cofres públicos dentro dos prazos legais e ainda a administração das receitas consignadas ao cofre geral da Direcção-Geral de Segurança e a satisfação de todas as despesas que estejam devidamente autorizadas.
 
 2. A administração financeira dos serviços do ultramar far-se-á nos termos da legislação vigente nas respectivas províncias.
 
 ##### SUBSECÇÃO IV — Da Direcção dos Serviços de Informação
 
-###### Art. 40.º - 1. A Direcção dos Serviços de Informação é constituída por divisões de informação e contra-informação, divisão de telecomunicações, secção de ficheiros e uma secretaria.
+Art. 40.º - 1. A Direcção dos Serviços de Informação é constituída por divisões de informação e contra-informação, divisão de telecomunicações, secção de ficheiros e uma secretaria.
 
 2. Às divisões de informação e contra-informação compete:
 
@@ -368,7 +492,7 @@ g) Assegurar a contra-informação com o procedimento que lhe é inerente.
 
 ##### SUBSECÇÃO V — Da Direcção dos Serviços de Investigação e Contencioso
 
-###### Art. 41.º - 1. A Direcção dos Serviços de Investigação e Contencioso é constituída por divisões de investigação, divisão técnica, secção prisional, secretaria e contencioso.
+Art. 41.º - 1. A Direcção dos Serviços de Investigação e Contencioso é constituída por divisões de investigação, divisão técnica, secção prisional, secretaria e contencioso.
 
 2. Junto da Direcção dos Serviços de Investigação e Contencioso funciona o Gabinete Nacional da Interpol, ao qual compete assegurar a boa colaboração entre as entidades judiciais e policiais portuguesas e as suas congéneres estrangeiras no âmbito das funções da Organização Internacional de Polícia Criminal - Interpol.
 
@@ -408,7 +532,7 @@ d) Dar parecer sobre os acordos internacionais relativos ao ingresso, trânsito 
 
 e) Exercer as funções de consulta jurídica que lhe sejam cometidas.
 
-###### Art. 42.º Compete ao consultor jurídico:
+Art. 42.º Compete ao consultor jurídico:
 
 a) Desempenhar o serviço de consulta jurídica;
 
@@ -418,7 +542,7 @@ c) Exercer quaisquer outros serviços de contencioso e proceder a inspecções, 
 
 ##### SUBSECÇÃO VI — Da Direcção dos Serviços de Estrangeiros e Fronteiras
 
-###### Art. 43.º - 1. A Direcção dos Serviços de Estrangeiros e Fronteiras é constituída pela divisão de estrangeiros, divisão de fronteiras e secretaria.
+Art. 43.º - 1. A Direcção dos Serviços de Estrangeiros e Fronteiras é constituída pela divisão de estrangeiros, divisão de fronteiras e secretaria.
 
 2. A divisão de estrangeiros deve:
 
@@ -458,7 +582,7 @@ d) Proceder a inspecções periódicas aos postos de fronteira, que ficam subord
 
 ##### SUBSECÇÃO VII — Da Direcção dos Serviços Administrativos
 
-###### Art. 44.º - 1. A Direcção dos Serviços Administrativos é constituída por uma divisão de pessoal, uma divisão de serviços gerais, uma secretaria, uma secção de contabilidade e tesouraria, uma secção de defesa de instalações e de material de guerra e pelo arquivo geral.
+Art. 44.º - 1. A Direcção dos Serviços Administrativos é constituída por uma divisão de pessoal, uma divisão de serviços gerais, uma secretaria, uma secção de contabilidade e tesouraria, uma secção de defesa de instalações e de material de guerra e pelo arquivo geral.
 
 2. À divisão de pessoal cabe:
 
@@ -510,7 +634,7 @@ d) A elaboração dos orçamentos anuais e suplementares.
 
 7. O arquivo geral deverá proceder ao registo e ordenação de toda a documentação que lhe for entregue pelos diferentes serviços da Direcção-Geral e assegurar a sua conservação.
 
-###### Art. 45.º A Direcção-Geral de Segurança terá um cofre geral, que será gerido pelo Conselho Administrativo e cujas receitas são as seguintes:
+Art. 45.º A Direcção-Geral de Segurança terá um cofre geral, que será gerido pelo Conselho Administrativo e cujas receitas são as seguintes:
 
 a) As importâncias cobradas pela concessão de passaportes, quando emitidos pela Direcção-Geral de Segurança;
 
@@ -526,7 +650,7 @@ f) A parte do imposto de justiça em processos instruídos pela Direcção-Geral
 
 g) Quaisquer outras receitas que lhe sejam atribuídas.
 
-###### Art. 46.º - 1. Serão satisfeitos pelo cofre geral da Direcção-Geral de Segurança as despesas respeitantes a ajudas de custo, transportes, gratificações e outros encargos resultantes:
+Art. 46.º - 1. Serão satisfeitos pelo cofre geral da Direcção-Geral de Segurança as despesas respeitantes a ajudas de custo, transportes, gratificações e outros encargos resultantes:
 
 a) Da instalação, manutenção e funcionamento dos cursos ministrados na escola técnica;
 
@@ -540,17 +664,17 @@ e) Das gratificações de tecnicidade a que se refere o artigo 82.º;
 
 f) Dos demais serviços que respeitem à competência da Direcção-Geral de Segurança e não possam ser pagos por outros cofres ou fundos públicos.
 
-###### Art. 47.º - 1. Serão igualmente suportados pelo cofre geral os encargos com o pagamento de horas extraordinárias previstas e reguladas pelo artigo 15.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e os subsídios de renda de casa, de alimentação e despesas de representação, na parte não coberta por verba do Orçamento Geral do Estado.
+Art. 47.º - 1. Serão igualmente suportados pelo cofre geral os encargos com o pagamento de horas extraordinárias previstas e reguladas pelo artigo 15.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e os subsídios de renda de casa, de alimentação e despesas de representação, na parte não coberta por verba do Orçamento Geral do Estado.
 
 2. Os quantitativos dos subsídios e despesas de representação serão fixados por despacho do Ministro do Interior, sob proposta do director-geral de Segurança.
 
 3. A tesouraria, que arrecadará as receitas e efectuará o pagamento das despesas, não deverá ter em cofre montante superior ao necessário para satisfazer em cada dia as despesas correntes, mantendo-se o restante depositado na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 48.º - 1. O tesoureiro entregará ao director dos Serviços Administrativos balancetes diários da caixa e, bem assim, no primeiro dia de cada mês a relação da cobrança e despesas respeitantes ao mês anterior.
+Art. 48.º - 1. O tesoureiro entregará ao director dos Serviços Administrativos balancetes diários da caixa e, bem assim, no primeiro dia de cada mês a relação da cobrança e despesas respeitantes ao mês anterior.
 
 2. O director dos Serviços Administrativos verificará a exactidão dos balancetes e da relação referidos no número anterior e a existência do dinheiro em depósito na tesouraria.
 
-###### Art. 49.º As contas relativas ao cofre geral da Direcção-Geral de Segurança e respectivos documentos estão apenas sujeitos à apreciação e visto do Ministro do Interior.
+Art. 49.º As contas relativas ao cofre geral da Direcção-Geral de Segurança e respectivos documentos estão apenas sujeitos à apreciação e visto do Ministro do Interior.
 
 ##### SUBSECÇÃO VIII — Da chefia e das delegações, subdelegações e postos
 
@@ -578,13 +702,13 @@ Ar. 50.º - 1. As direcções de serviços são chefiadas por directores de serv
 
 12. No ultramar, a criação de subdelegações ou postos efectuar-se-á por simples despacho do Ministro do Ultramar, mediante proposta do director-geral de Segurança, sem necessidade de publicação no Diário do Governo ou Boletim Oficial.
 
-###### Art. 51.º Os serviços da Direcção-Geral de Segurança no ultramar correspondem-se directamente com a Direcção-Geral, mais submetem a despacho do governador da província os assuntos que dele careçam.
+Art. 51.º Os serviços da Direcção-Geral de Segurança no ultramar correspondem-se directamente com a Direcção-Geral, mais submetem a despacho do governador da província os assuntos que dele careçam.
 
 ##### SUBSECÇÃO IX — Das escolas técnicas
 
-###### Art. 52.º As escolas técnicas serão dirigidas por inspectores-adjuntos ou inspectores especialmente qualificados, cabendo-lhes preparar o pessoal da Direcção-Geral de Segurança, através dos cursos ali ministrados e dos concursos de promoção.
+Art. 52.º As escolas técnicas serão dirigidas por inspectores-adjuntos ou inspectores especialmente qualificados, cabendo-lhes preparar o pessoal da Direcção-Geral de Segurança, através dos cursos ali ministrados e dos concursos de promoção.
 
-###### Art. 53.º Compete ao director da escola técnica:
+Art. 53.º Compete ao director da escola técnica:
 
 a) Dirigir a escola em conformidade com o respectivo regulamento e as instruções do director-geral;
 
@@ -592,13 +716,13 @@ b) Apresentar ao Conselho da Direcção-Geral o esquema dos programas dos cursos
 
 c) Propor ao director-geral o recrutamento dos professores.
 
-###### Art. 54.º Quando as necessidades de preparação do pessoal o justifiquem, poderão ser criadas escolas técnicas nas províncias ultramarinas, por despacho do Ministro do Ultramar, sob proposta do director-geral.
+Art. 54.º Quando as necessidades de preparação do pessoal o justifiquem, poderão ser criadas escolas técnicas nas províncias ultramarinas, por despacho do Ministro do Ultramar, sob proposta do director-geral.
 
 ### CAPÍTULO III — Dos quadros do pessoal, seu provimento e disciplina
 
 #### SECÇÃO I — Do pessoal
 
-###### Art. 55.º - 1. O pessoal da Direcção-Geral de Segurança, a quem compete obrigatòriamente desempenhar as suas funções em qualquer parte do território nacional, distribui-se segundo o quadro geral para o continente, ilhas e ultramar constante do mapa I anexo ao presente diploma.
+Art. 55.º - 1. O pessoal da Direcção-Geral de Segurança, a quem compete obrigatòriamente desempenhar as suas funções em qualquer parte do território nacional, distribui-se segundo o quadro geral para o continente, ilhas e ultramar constante do mapa I anexo ao presente diploma.
 
 2. Ao Ministro do Ultramar incumbe, por simples despacho e mediante proposta do director-geral de Segurança, distribuir pelas delegações, subdelegações ou postos das províncias ultramarinas o pessoal que lhes é fixado no quadro geral referido no número anterior.
 
@@ -606,13 +730,13 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 4. A competência para a admissão do pessoal nos termos do número anterior poderá se delegada nos governadores das províncias ultramarinas.
 
-###### Art. 56.º - 1. O lugar de director-geral será provido de entre pessoas de reconhecido mérito e capacidade para o exercício das respectivas funções, por portaria conjunta do Presidente do Conselho e do Ministro do Interior.
+Art. 56.º - 1. O lugar de director-geral será provido de entre pessoas de reconhecido mérito e capacidade para o exercício das respectivas funções, por portaria conjunta do Presidente do Conselho e do Ministro do Interior.
 
 2. A nomeação será feita por períodos de três anos renováveis, sem prejuízo da faculdade de exoneração a todo o tempo.
 
 3. Se a pessoa escolhida for funcionário público, civil ou militar, poderá ser nomeada em comissão e o serviço considera-se, para todos os efeitos, como se fosse prestado no respectivo quadro.
 
-###### Art. 57.º - 1. O subdirector-geral, os inspectores superiores, os directores de serviço e os inspectores-adjuntos são de livre nomeação do Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, de entre indivíduos de reconhecido mérito e capacidade para o exercício das respectivas funções que possuam um curso superior ou sejam oficiais do quadro permanente, na reserva, e do quadro de complemento das forças armadas ou de segurança, e falem e escrevam fluentemente o francês, o inglês ou o alemão; ou, mediante proposta do director-geral, de entre os inspectores superiores, directores de serviço e inspectores-adjuntos ou inspectores que tenham pelo menos cinco anos de permanência na categoria e hajam prestado serviços considerados relevantes.
+Art. 57.º - 1. O subdirector-geral, os inspectores superiores, os directores de serviço e os inspectores-adjuntos são de livre nomeação do Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, de entre indivíduos de reconhecido mérito e capacidade para o exercício das respectivas funções que possuam um curso superior ou sejam oficiais do quadro permanente, na reserva, e do quadro de complemento das forças armadas ou de segurança, e falem e escrevam fluentemente o francês, o inglês ou o alemão; ou, mediante proposta do director-geral, de entre os inspectores superiores, directores de serviço e inspectores-adjuntos ou inspectores que tenham pelo menos cinco anos de permanência na categoria e hajam prestado serviços considerados relevantes.
 
 2. Os inspectores são nomeados pelo Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, de entre indivíduos que tenham diploma de curso superior ou sejam oficiais do quadro permanente, na reserva, e do quadro de complemento das forças armadas ou de segurança, e falem e escrevam fluentemente o francês, o inglês ou alemão; ou, mediante proposta do director-geral, de entre os subinspectores que tenham pelo menos três anos de permanência na categoria, hajam obtido aprovação no curso de especialização e revelem capacidade para o exercício do cargo.
 
@@ -620,9 +744,9 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 4. É extensivo aos funcionários referidos nos números anteriores o disposto no n.º 3 do artigo 56.º
 
-###### Art. 58.º Os lugares de subinspectores, subinspectores femininos, chefes de brigada, chefes de brigada femininos, agentes de 1.ª classe e agentes femininos de 1.ª classe são providos por concurso de prestação de provas.
+Art. 58.º Os lugares de subinspectores, subinspectores femininos, chefes de brigada, chefes de brigada femininos, agentes de 1.ª classe e agentes femininos de 1.ª classe são providos por concurso de prestação de provas.
 
-###### Art. 59.º - 1. Aos concursos para promoção, que têm carácter obrigatório, serão admitidos os funcionários das classes imediatamente inferiores, desde que obtenham parecer favorável do Conselho da Direcção-Geral e tenham o mínimo de três anos de serviço nas respectivas categorias e aprovação nos cursos de aperfeiçoamento ou especialização ministrados na escola técnica.
+Art. 59.º - 1. Aos concursos para promoção, que têm carácter obrigatório, serão admitidos os funcionários das classes imediatamente inferiores, desde que obtenham parecer favorável do Conselho da Direcção-Geral e tenham o mínimo de três anos de serviço nas respectivas categorias e aprovação nos cursos de aperfeiçoamento ou especialização ministrados na escola técnica.
 
 2. Não poderão ser promovidos a subinspectores e chefes de brigada os funcionários que não tenham cumprido uma comissão de serviço no ultramar, salvo se, no ano em que se apresentem a concurso, perfaçam, respectivamente, 45 anos e 40 anos de idade.
 
@@ -642,25 +766,25 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 10. Os funcionários que tenham reprovado duas vezes no mesmo curso da escola técnica não poderão repeti-lo.
 
-###### Art. 60.º - 1. A promoção à categoria imediata será feita segundo a ordem de classificação obtida nos concursos de prestação de provas.
+Art. 60.º - 1. A promoção à categoria imediata será feita segundo a ordem de classificação obtida nos concursos de prestação de provas.
 
 2. A classificação final terá em atenção, além do resultado das provas do concurso, o comportamento anterior, os serviços prestados, o tempo de permanência na classe, o aproveitamento nos cursos técnicos e a duração das comissões de serviço no ultramar.
 
 3. Em igualdade de classificação terá preferência no provimento o funcionário mais louvado por serviços prestados no ultramar e que para o efeito obtenha parecer favorável do Conselho da Direcção-Geral.
 
-###### Art. 61.º - 1. A promoção à classe imediatamente superior poderá ainda ser feita por distinção pelo Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, independentemente de habilitações, da existência de vaga e da condição de tempo de serviço na classe inferior, mediante proposta do Conselho da Direcção-Geral, baseada em classificação de mérito extraordinário ou serviços relevantes prestados em defesa da Nação, podendo ser também feita a título póstumo.
+Art. 61.º - 1. A promoção à classe imediatamente superior poderá ainda ser feita por distinção pelo Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, independentemente de habilitações, da existência de vaga e da condição de tempo de serviço na classe inferior, mediante proposta do Conselho da Direcção-Geral, baseada em classificação de mérito extraordinário ou serviços relevantes prestados em defesa da Nação, podendo ser também feita a título póstumo.
 
 2. No caso de promoção sem vaga, o promovido continuará a receber pela verba própria os vencimentos do cargo que estava a ocupar no quadro e perceberá, pelas disponibilidades do cofre da Direcção-Geral, uma gratificação nunca excedente à diferença entre os vencimentos do lugar que ocupava no quadro e os da nova categoria, até que haja vaga em que seja provido.
 
 3. O disposto neste artigo é aplicável a todos os funcionários da Direcção-Geral de Segurança.
 
-###### Art. 62.º - 1. Quando não haja chefes de brigada ou agentes de 1.ª classe com as condições exigidas para o concurso de promoção à categoria imediata, podem ser providos nos lugares de subinspectores e chefes de brigada os indivíduos que tenham prestado serviço militar com uma comissão no ultramar, possuam a habilitação mínima, respectivamente, do ciclo complementar e curso geral dos liceus ou equiparada e revelem aptidões para o desempenho dos serviços, mediante provas realizadas segundo o programa aprovado pelo Conselho da Direcção-Geral.
+Art. 62.º - 1. Quando não haja chefes de brigada ou agentes de 1.ª classe com as condições exigidas para o concurso de promoção à categoria imediata, podem ser providos nos lugares de subinspectores e chefes de brigada os indivíduos que tenham prestado serviço militar com uma comissão no ultramar, possuam a habilitação mínima, respectivamente, do ciclo complementar e curso geral dos liceus ou equiparada e revelem aptidões para o desempenho dos serviços, mediante provas realizadas segundo o programa aprovado pelo Conselho da Direcção-Geral.
 
 2. Os funcionários da Direcção-Geral de Segurança poderão beneficiar do disposto no número anterior, mediante parecer favorável do Conselho da Direcção-Geral, desde que possuam as habilitações literárias ali referidas.
 
 3. O provimento nos termos deste artigo não poderá exceder um terço das vagas que restem de cada concurso realizado para aquelas categorias.
 
-###### Art. 63.º - 1. Os lugares de agente de 2.ª classe serão providos por contrato, renovável por períodos anuais, pelos agentes estagiários, logo após a conclusão do curso de técnica policial, com aprovação e boas informações, tendo esse provimento carácter provisório pelo período de um ano.
+Art. 63.º - 1. Os lugares de agente de 2.ª classe serão providos por contrato, renovável por períodos anuais, pelos agentes estagiários, logo após a conclusão do curso de técnica policial, com aprovação e boas informações, tendo esse provimento carácter provisório pelo período de um ano.
 
 2. Os lugares de agente estagiário serão providos por contrato, independentemente de qualquer formalidade, mediante proposta do director-geral, aprovada pelo Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, em indivíduos com menos de trinta anos de idade e que possuam o curso geral dos liceus ou habilitação equiparada.
 
@@ -672,31 +796,31 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 6. Quando não haja indivíduos com as habilitações referidas no n.º 2, serão admitidos aqueles que possuírem a correspondente à escolaridade obrigatória, não podendo, porém, ascender à categoria de agente de 1.ª classe, enquanto não tiverem o curso geral dos liceus ou habilitação equiparada.
 
-###### Art. 64.º - 1. O lugar de consultor jurídico será provido pelo Ministro do Interior em licenciados em Direito de reconhecida competência para o exercício do cargo.
+Art. 64.º - 1. O lugar de consultor jurídico será provido pelo Ministro do Interior em licenciados em Direito de reconhecida competência para o exercício do cargo.
 
 2. E extensivo ao funcionário referido no número anterior o disposto no n.º 3 do artigo 56.º
 
-###### Art. 65.º Os lugares de chefe de secção serão providos por escolha do Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, mediante proposta do director-geral, entre os primeiros-oficiais que possuam o ciclo complementar dos liceus e a quem o Conselho da Direcção-Geral reconheça méritos e qualidades de chefia, ou entre indivíduos estranhos ao quadro, mas diplomados com curso superior adequado ao exercício da função.
+Art. 65.º Os lugares de chefe de secção serão providos por escolha do Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, mediante proposta do director-geral, entre os primeiros-oficiais que possuam o ciclo complementar dos liceus e a quem o Conselho da Direcção-Geral reconheça méritos e qualidades de chefia, ou entre indivíduos estranhos ao quadro, mas diplomados com curso superior adequado ao exercício da função.
 
-###### Art. 66.º Os lugares de promeiros-oficiais e segundos-oficiais serão providos, mediante concurso de prestação de provas, entre os segundos-oficiais e terceiros-oficiais, respectivamente, com boa informação e pelo menos três anos de serviço na classe e que satisfaçam as condições de habilitação exigidas pela lei geral.
+Art. 66.º Os lugares de promeiros-oficiais e segundos-oficiais serão providos, mediante concurso de prestação de provas, entre os segundos-oficiais e terceiros-oficiais, respectivamente, com boa informação e pelo menos três anos de serviço na classe e que satisfaçam as condições de habilitação exigidas pela lei geral.
 
-###### Art. 67.º O tesoureiro será provido por nomeação do Ministro do Interior, mediante proposta do director-geral, de entre os chefes de secção ou primeiros-oficiais do quadro.
+Art. 67.º O tesoureiro será provido por nomeação do Ministro do Interior, mediante proposta do director-geral, de entre os chefes de secção ou primeiros-oficiais do quadro.
 
-###### Art. 68.º Os lugares de terceiros-oficiais e escriturários-dactilógrafos de 1.ª e 2.ª classes serão providos nos termos dos artigos 27.º e 28.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 68.º Os lugares de terceiros-oficiais e escriturários-dactilógrafos de 1.ª e 2.ª classes serão providos nos termos dos artigos 27.º e 28.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 69.º Os lugares de técnico dos serviços de radiotelecomunicações serão providos pelo Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, de entre pessoas que possuam o curso de agente técnico de engenharia electrotécnica ou habilitação equivalente.
+Art. 69.º Os lugares de técnico dos serviços de radiotelecomunicações serão providos pelo Ministro do Interior, ou do Interior e do Ultramar, conforme os casos, de entre pessoas que possuam o curso de agente técnico de engenharia electrotécnica ou habilitação equivalente.
 
-###### Art. 70.º - 1. Os lugares de chefes radiomontadores, radiotelegrafistas de 1.ª e 2.ª classes e fotógrafos mensuradores serão providos em indivíduos que tenham a habilitação mínima exigida pela lei geral e obtenham a classificação de Bom no exame prestado na Direcção-Geral de Segurança.
+Art. 70.º - 1. Os lugares de chefes radiomontadores, radiotelegrafistas de 1.ª e 2.ª classes e fotógrafos mensuradores serão providos em indivíduos que tenham a habilitação mínima exigida pela lei geral e obtenham a classificação de Bom no exame prestado na Direcção-Geral de Segurança.
 
 2. Quando houver impossibilidade de recrutamento com a habilitação mínima exigida pela alínea b) do artigo 25.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, poderão ser providos os indivíduos que demonstrem em provas práticas aptidão para o exercício das respectivas funções.
 
-###### Art. 71.º - 1. Os lugares não especificados nos artigos anteriores serão providos nos termos dos artigos 25.º, 26.º e 29.º e seguintes do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, exceptuando-se os serventes, cuja nomeação, em regime de assalariamento, incumbe ao director-geral de Segurança.
+Art. 71.º - 1. Os lugares não especificados nos artigos anteriores serão providos nos termos dos artigos 25.º, 26.º e 29.º e seguintes do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, exceptuando-se os serventes, cuja nomeação, em regime de assalariamento, incumbe ao director-geral de Segurança.
 
 2. É extensivo aos serventes, guardas prisionais e guardas prisionais femininos colocados nos estabelecimentos de detenção da Direcção-Geral de Segurança o pagamento do subsídio de alimentação, em dinheiro, estabelecida pelo artigo 13.º do [Decreto-Lei n.º 34678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34678-1945-530244), de 20 de Junho de 1945, devendo o seu quantitativo ser igual ao que for fixado para os guardas dos serviços prisionais do Ministério da Justiça.
 
-###### Art. 72.º O primeiro provimento dos lugares dos quadros é feito em comissão de serviço ou mediante contrato, por períodos anuais renováveis, devendo, sob proposta do director-geral de Segurança, converter-se em definitivo, findos cinco anos de bom e efectivo serviço, ou serem os seus titulares dispensados dos cargos, se não convierem ao serviço.
+Art. 72.º O primeiro provimento dos lugares dos quadros é feito em comissão de serviço ou mediante contrato, por períodos anuais renováveis, devendo, sob proposta do director-geral de Segurança, converter-se em definitivo, findos cinco anos de bom e efectivo serviço, ou serem os seus titulares dispensados dos cargos, se não convierem ao serviço.
 
-###### Art. 73.º - 1. O provimento dos lugares do quadro a distribuir pelas províncias ultramarinas é da competência dos Ministros do Interior e do Ultramar, sob proposta do director-geral, e será em comissão de serviço obrigatório.
+Art. 73.º - 1. O provimento dos lugares do quadro a distribuir pelas províncias ultramarinas é da competência dos Ministros do Interior e do Ultramar, sob proposta do director-geral, e será em comissão de serviço obrigatório.
 
 2. As transferências e deslocações do pessoal entre o continente e ilhas e o ultramar e de uns para outros territórios ultramarinos são determinadas por despacho dos Ministros do Interior e do Ultramar, ou só deste último, conforme os casos, mediante proposta do director-geral.
 
@@ -712,9 +836,9 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 8. Quando o serviço público o exigir, podem os Ministros do Interior e do Ultramar, mediante proposta do director-geral, prorrogar por um ou mais períodos as comissões de serviço obrigatório dos funcionários da Direcção-Geral de Segurança.
 
-###### Art. 74.º Os funcionários da Direcção-Geral de Segurança nomeados em comissão de serviço para cargos do Estado ou dos corpos administrativos podem regressar ao quadro a que pertencem, por decisão ministerial, independentemente de qualquer formalidade, e receberão os seus vencimentos pelo cofre geral da mesma Direcção-Geral, enquanto não houver vaga na respectiva categoria.
+Art. 74.º Os funcionários da Direcção-Geral de Segurança nomeados em comissão de serviço para cargos do Estado ou dos corpos administrativos podem regressar ao quadro a que pertencem, por decisão ministerial, independentemente de qualquer formalidade, e receberão os seus vencimentos pelo cofre geral da mesma Direcção-Geral, enquanto não houver vaga na respectiva categoria.
 
-###### Art. 75.º - 1. São funcionários superiores da Direcção-Geral de Segurança o director-geral, o subdirector-geral, os técnicos superiores, os inspectores superiores, os directores de serviços, o consultor jurídico, os inspectores-adjuntos e os inspectores.
+Art. 75.º - 1. São funcionários superiores da Direcção-Geral de Segurança o director-geral, o subdirector-geral, os técnicos superiores, os inspectores superiores, os directores de serviços, o consultor jurídico, os inspectores-adjuntos e os inspectores.
 
 2. Os funcionários superiores da Direcção-Geral de Segurança, no exercício das suas funções, podem corresponder-se oficialmente, por via postal, telegráfica ou telefónica, com todas as autoridades, repartições públicas e entidades particulares.
 
@@ -722,19 +846,19 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 4. Os mesmos funcionários podem usar armas de qualquer natureza, independentemente de licença, regalia que subsistirá quando na situação de aposentados, salvo se a aposentação tiver sido imposta compulsivamente.
 
-###### Art. 76.º Poderá ser dispensada, mediante autorização ministerial, a publicação no Diário da Governo e nos Boletins Oficiais dos despachos relativos à nomeação e ao provimento do pessoal da Direcção-Geral de Segurança, sem prejuízo de produzirem todos os seus efeitos.
+Art. 76.º Poderá ser dispensada, mediante autorização ministerial, a publicação no Diário da Governo e nos Boletins Oficiais dos despachos relativos à nomeação e ao provimento do pessoal da Direcção-Geral de Segurança, sem prejuízo de produzirem todos os seus efeitos.
 
-###### Art. 77.º - 1. Para contrair casamento os funcionários da Direcção-Geral de Segurança carecem de autorização do director-geral.
+Art. 77.º - 1. Para contrair casamento os funcionários da Direcção-Geral de Segurança carecem de autorização do director-geral.
 
 2. Quando o casamento for com pessoa estrangeira, a autorização será concedida pelo Ministro do Interior ou do Ultramar, ouvido o director-geral de Segurança.
 
 3. Será demitido o funcionário que contrair casamento sem a competente autorização, salvo nos casos previstos no n.º 1 do artigo 1622.º do Código Civil.
 
-###### Art. 78.º Os funcionários da Direcção-Geral de Segurança terão a sua residência de acordo com as disposições dos Decretos-Leis n.os 41396, de 26 de Novembro de 1957, e 41530, de 14 de Fevereiro de 1958.
+Art. 78.º Os funcionários da Direcção-Geral de Segurança terão a sua residência de acordo com as disposições dos Decretos-Leis n.os 41396, de 26 de Novembro de 1957, e 41530, de 14 de Fevereiro de 1958.
 
 #### SECÇÃO II — Do quadro especial feminino
 
-###### Art. 79.º - 1. É constituído um quadro especial de pessoal feminino para o serviço de fronteiras, com a composição constante do mapa II anexo ao presente diploma.
+Art. 79.º - 1. É constituído um quadro especial de pessoal feminino para o serviço de fronteiras, com a composição constante do mapa II anexo ao presente diploma.
 
 2. Os vencimentos e demais abonos deste pessoal serão satisfeitos pelo cofre geral da Direcção-Geral de Segurança.
 
@@ -746,7 +870,7 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 #### SECÇÃO III — Dos vencimentos, abonos e regalias
 
-###### Art. 80.º - 1. Os vencimentos a que o pessoal da Direcção-Geral de Segurança tem direito são os correspondentes à categoria constante dos mapas anexos ao presente diploma.
+Art. 80.º - 1. Os vencimentos a que o pessoal da Direcção-Geral de Segurança tem direito são os correspondentes à categoria constante dos mapas anexos ao presente diploma.
 
 2. Conforme as circunstâncias especiais que ocorrerem nos locais onde o serviço for prestado, será abonado um subsídio de compensação, a fixar por despacho dos Ministros do Interior e do Ultramar, o qual será satisfeito por verba especialmente inscrita no orçamento do Ministério do Interior.
 
@@ -754,7 +878,7 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 4. As situações de comissões eventuais no ultramar regem-se pela respectiva legislação.
 
-###### Art. 81.º - 1. Os funcionários da Direcção-Geral de Segurança que desempenhem funções de direcção, chefia ou inspecção na metrópole têm direito às gratificações a fixar pelo Ministro do Interior, com o acordo do Ministro das Finanças, consoante a natureza ou ónus especial dos seus cargos, de harmonia com o preceituado no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 81.º - 1. Os funcionários da Direcção-Geral de Segurança que desempenhem funções de direcção, chefia ou inspecção na metrópole têm direito às gratificações a fixar pelo Ministro do Interior, com o acordo do Ministro das Finanças, consoante a natureza ou ónus especial dos seus cargos, de harmonia com o preceituado no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
 2. O tesoureiro terá direito à gratificação de 2000$00.
 
@@ -762,33 +886,33 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 4. O director provincial de serviços e o subdirector provincial de serviços têm direito a uma gratificação mensal da importância, respectivamente, de 1500$00 e 1000$00.
 
-###### Art. 82.º O pessoal da Direcção-Geral de Segurança com funções de investigação criminal tem direito a gratificações de tecnicidade, cujo quantitativo será fixado por despacho dos Ministros do Interior e das Finanças.
+Art. 82.º O pessoal da Direcção-Geral de Segurança com funções de investigação criminal tem direito a gratificações de tecnicidade, cujo quantitativo será fixado por despacho dos Ministros do Interior e das Finanças.
 
-###### Art. 83.º - 1. Aos funcionários da Direcção-Geral de Segurança que, por conveniência de serviço, tenham de transferir a sua residência será facultado, por conta do Estado, o transporte da família, bem como o pagamento do porte de bagagem, até ao limite que for autorizado pelo Ministro do Interior ou do Ultramar, conforme Os casos.
+Art. 83.º - 1. Aos funcionários da Direcção-Geral de Segurança que, por conveniência de serviço, tenham de transferir a sua residência será facultado, por conta do Estado, o transporte da família, bem como o pagamento do porte de bagagem, até ao limite que for autorizado pelo Ministro do Interior ou do Ultramar, conforme Os casos.
 
 2. Para o efeito deste artigo, considera-se família o cônjuge, os descendentes e os ascendentes, quando estejam a cargo do funcionário ou com ele coabitem.
 
-###### Art. 84.º - 1. O serviço prestado pelos funcionários da Direcção-Geral de Segurança nas províncias ultramarinas é contado, para todos os efeitos, como prestado no continente e ilhas.
+Art. 84.º - 1. O serviço prestado pelos funcionários da Direcção-Geral de Segurança nas províncias ultramarinas é contado, para todos os efeitos, como prestado no continente e ilhas.
 
 2. A contagem, para efeitos de aposentação, de tempo de serviço prestado pelos funcionários nas referidas províncias beneficia de um aumento de 20 por cento e dos aumentos que, conforme as regiões, estejam fixados em cada província.
 
-###### Art. 85.º - 1. Os chefes de brigada, os agentes de 1.ª e 2.ª classes, os agentes motoristas e os agentes estagiários têm fardamento próprio, o qual sòmente poderá ser usado em acto de serviço.
+Art. 85.º - 1. Os chefes de brigada, os agentes de 1.ª e 2.ª classes, os agentes motoristas e os agentes estagiários têm fardamento próprio, o qual sòmente poderá ser usado em acto de serviço.
 
 2. Aos funcionários referidos no número anterior é atribuído um subsídio mensal para fardamento, que será fixado por despacho dos Ministros do Interior e das Finanças.
 
 3. Os guardas prisionais, contínuos, ajudantes de motorista e serventes têm direito a fardamento, em termos idênticos aos prescritos para os dos serviços a que se refere o artigo 1.º do [Decreto-Lei n.º 22848](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22848-1933-317693), de 19 de Julho de 1933.
 
-###### Art. 86.º No caso de morte ou desaparecimento por motivo relacionado com a prestação de serviço, a família do funcionário da Direcção-Geral de Segurança terá direito a uma pensão, que será concedida e fruída nos mesmos termos que estiverem legalmente consignados para a pensão de preço de sangue a famílias dos militares.
+Art. 86.º No caso de morte ou desaparecimento por motivo relacionado com a prestação de serviço, a família do funcionário da Direcção-Geral de Segurança terá direito a uma pensão, que será concedida e fruída nos mesmos termos que estiverem legalmente consignados para a pensão de preço de sangue a famílias dos militares.
 
-###### Art. 87.º Os funcionários públicos, civis ou militares, que sejam colocados na Direcção-Geral de Segurança em comissão de serviço público serão considerados, para efeitos de aposentação ou reforma, como estando na situação prevista no § 2.º do artigo 1.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Agosto de 1936.
+Art. 87.º Os funcionários públicos, civis ou militares, que sejam colocados na Direcção-Geral de Segurança em comissão de serviço público serão considerados, para efeitos de aposentação ou reforma, como estando na situação prevista no § 2.º do artigo 1.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Agosto de 1936.
 
-###### Art. 88.º O débito do pessoal da Direcção-Geral de Segurança à Caixa Geral de Aposentações, proveniente da contagem de tempo por serviço anteriormente prestado ao Estado, seja qual for o regime da sua prestação, poderá ser liquidado, quando os interessados assim o requeiram, nos termos do artigo 46.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 88.º O débito do pessoal da Direcção-Geral de Segurança à Caixa Geral de Aposentações, proveniente da contagem de tempo por serviço anteriormente prestado ao Estado, seja qual for o regime da sua prestação, poderá ser liquidado, quando os interessados assim o requeiram, nos termos do artigo 46.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 89.º Podem ser concedidas aos funcionários da Direcção-Geral de Segurança as medalhas de segurança pública a que se refere o regulamento aprovado pelo [Decreto n.º 17746](https://diariodarepublica.pt/dr/detalhe/decreto/17746-1929-289004), de 30 de Novembro de 1929, e a de bons serviços no ultramar, nos termos do [Decreto n.º 49/70](https://diariodarepublica.pt/dr/detalhe/decreto/49-1970-227788), de 10 de Fevereiro.
+Art. 89.º Podem ser concedidas aos funcionários da Direcção-Geral de Segurança as medalhas de segurança pública a que se refere o regulamento aprovado pelo [Decreto n.º 17746](https://diariodarepublica.pt/dr/detalhe/decreto/17746-1929-289004), de 30 de Novembro de 1929, e a de bons serviços no ultramar, nos termos do [Decreto n.º 49/70](https://diariodarepublica.pt/dr/detalhe/decreto/49-1970-227788), de 10 de Fevereiro.
 
 #### SECÇÃO IV — Da disciplina dos funcionários e dos direitos especiais
 
-###### Art. 90.º - 1. Os funcionários da Direcção-Geral de Segurança estão sujeitos ao Estatuto Disciplinar dos Funcionários Civis do Estado ou ao Estatuto do Funcionalismo Ultramarino, conforme o local da infracção, ficando sob a acção disciplinar dos seus superiores hierárquicos.
+Art. 90.º - 1. Os funcionários da Direcção-Geral de Segurança estão sujeitos ao Estatuto Disciplinar dos Funcionários Civis do Estado ou ao Estatuto do Funcionalismo Ultramarino, conforme o local da infracção, ficando sob a acção disciplinar dos seus superiores hierárquicos.
 
 2. Quando a infracção for cometida nas províncias ultramarinas, a aplicação das penas dos n.os 1.º e 2.º do artigo 354.º do Estatuto do Funcionalismo Ultramarino é da competência de todos os funcionários em relação aos seus subordinados na escala hierárquica, sendo da competência do director-geral de segurança a aplicação das dos n.os 3.º, 4.º, 5.º e 6.º do citado artigo.
 
@@ -796,15 +920,15 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 4. A aplicação das penas de inactividade, aposentação compulsiva e demissão, previstas nos n.os 7.º, 8.º e 9.º do artigo 354.º do Estatuto do Funcionalismo Ultramarino, quando a infracção tenha sido cometida nas províncias ultramarinas, é da competência dos Ministros do Interior e do Ultramar, sob proposta do director-geral de Segurança, tendo-se em atenção, se houver motivo, o disposto no artigo 32.º do Estatuto Disciplinar dos Funcionários Civis do Estado.
 
-###### Art. 91.º- 1. Os subinspectores, chefes de brigada, agentes e agentes motoristas não podem continuar em serviço depois de atingirem 60 anos de idade.
+Art. 91.º- 1. Os subinspectores, chefes de brigada, agentes e agentes motoristas não podem continuar em serviço depois de atingirem 60 anos de idade.
 
 2. Aos funcionários a que se refere o número anterior será contado, para efeitos de aposentação, o aumento de 20 por cento do tempo de serviço prestado desde a data do seu ingresso nos quadros da Direcção-Geral de Segurança ou nos das polícias que a antecederem.
 
 3. Os funcionários que, dentro do quadro geral da Direcção-Geral de Segurança, tenham ascendido a classes superiores mantêm, para efeitos de aposentação, direito à percentagem do tempo de serviço prestado nas categorias referidas no n.º 1.
 
-###### Art. 92.º As listas de antiguidade do pessoal da Direcção-Geral de Segurança serão publicadas na sua ordem de serviço, nos termos do [Decreto-Lei n.º 348/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1970-141245), de 27 de Julho.
+Art. 92.º As listas de antiguidade do pessoal da Direcção-Geral de Segurança serão publicadas na sua ordem de serviço, nos termos do [Decreto-Lei n.º 348/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1970-141245), de 27 de Julho.
 
-###### Art. 93.º - 1. É tornado extensivo ao pessoal dos quadros da Direcção-Geral de Segurança o regime do [Decreto-Lei n.º 46103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46103-1964-553912), de 24 de Dezembro de 1964, e, quando em serviço no ultramar, o disposto nas alíneas a) e b) do § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937.
+Art. 93.º - 1. É tornado extensivo ao pessoal dos quadros da Direcção-Geral de Segurança o regime do [Decreto-Lei n.º 46103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46103-1964-553912), de 24 de Dezembro de 1964, e, quando em serviço no ultramar, o disposto nas alíneas a) e b) do § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937.
 
 2. A apreciação da capacidade física do pessoal mutilado ou incapacitado, para os efeitos previstos no § 2.º do artigo 1.º do [Decreto-Lei n.º 46103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46103-1964-553912), de 24 de Dezembro de 1964, compete à junta nomeada pelo Ministro do Interior ou à Junta de Saúde do Ultramar, consoante os casos.
 
@@ -816,7 +940,7 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 6. O pessoal da Direcção-Geral de Segurança goza dos direitos e regalias consignados no [Decreto n.º 47858](https://diariodarepublica.pt/dr/detalhe/decreto/47858-1967-315078), de 24 de Agosto de 1967.
 
-###### Art. 94.º - 1. O pessoal dirigente e todo o pessoal técnico de investigação criminal da Direcção-Geral de Segurança está sujeito à jurisdição dos tribunais militares, nos termos da alínea e) do artigo 365.º do Código de Justiça Militar, goza de garantia administrativa, nos termos previstos no artigo 412.º do Código Administrativo, e considera-se abrangido pelo disposto no n.º 1.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
+Art. 94.º - 1. O pessoal dirigente e todo o pessoal técnico de investigação criminal da Direcção-Geral de Segurança está sujeito à jurisdição dos tribunais militares, nos termos da alínea e) do artigo 365.º do Código de Justiça Militar, goza de garantia administrativa, nos termos previstos no artigo 412.º do Código Administrativo, e considera-se abrangido pelo disposto no n.º 1.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
 
 2. Compete ao director-geral de Segurança mandar organizar os autos de corpo de delito em que sejam arguidos os funcionários aludidos no número anterior e exercer a competência que na matéria é conferida pela legislação em vigor aos governadores militares ou comandantes de região.
 
@@ -838,7 +962,7 @@ c) Propor ao director-geral o recrutamento dos professores.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 95.º - 1. As importâncias a cobrar pela concessão de títulos de residência e respectivos vistos de demais actos relacionados com a permanência de estrangeiros no País são as seguintes:
+Art. 95.º - 1. As importâncias a cobrar pela concessão de títulos de residência e respectivos vistos de demais actos relacionados com a permanência de estrangeiros no País são as seguintes:
 
 a) Por cada título de residência anual ou visto válido por um ano, 40$00 em estampilhas fiscais e 400$00 de taxa;
 
@@ -852,68 +976,68 @@ e) Por cada boletim de alojamento, a taxa de 5$00.
 
 2. Excepcionalmente poderá o director-geral de Segurança consentir que a taxa referida na alínea a) seja reduzida a metade quando se trate de indivíduo que demonstre dificuldade em satisfazer o pagamento normal.
 
-###### Art. 96.º - 1. A renovação dos títulos de residência anual e a concessão dos vistos válidos por um ano devem ser pedidos pelos interessados, durante os meses de Janeiro e Fevereiro de cada ano, nos departamentos respectivos da Direcção-Geral de Segurança e, nas localidades onde estes não existam, nos comandos da Polícia de Segurança Pública, onde os houver, ou nas secretarias das câmaras municipais.
+Art. 96.º - 1. A renovação dos títulos de residência anual e a concessão dos vistos válidos por um ano devem ser pedidos pelos interessados, durante os meses de Janeiro e Fevereiro de cada ano, nos departamentos respectivos da Direcção-Geral de Segurança e, nas localidades onde estes não existam, nos comandos da Polícia de Segurança Pública, onde os houver, ou nas secretarias das câmaras municipais.
 
 2. Às transgressões ao disposto no número anterior será aplicável a multa de 400$00 a 1000$00, a fixar pelo director-geral de Segurança, acrescida dos respectivos adicionais.
 
-###### Art. 97.º Os serviços efectuados pelos agentes da Direcção-Geral de Segurança a bordo de embarcações nacionais ou estrangeiras fora das horas normais ficam sujeitos ao pagamento da taxa entre 200$00 e 2000$00, fixada conforme as normas aprovadas pelo Ministro do Interior.
+Art. 97.º Os serviços efectuados pelos agentes da Direcção-Geral de Segurança a bordo de embarcações nacionais ou estrangeiras fora das horas normais ficam sujeitos ao pagamento da taxa entre 200$00 e 2000$00, fixada conforme as normas aprovadas pelo Ministro do Interior.
 
-###### Art. 98.º - 1. Os proprietários de hotéis, hospedarias, casas de hóspedes e congéneres, parques de campismo, bem como aqueles que aluguem, mesmo por sublocação, ou cedam, a qualquer título, casa para residência ou comércio ou alberguem na própria residência estrangeiros, ficam obrigados a comunicá-lo, por meio de boletim de alojamento, no prazo de quarenta e oito horas à Direcção-Geral de Segurança, ou, nas localidades onde ela não exista, aos comandos da Polícia de Segurança Pública ou, ainda, às câmaras municipais, sob pena de aos transgressores ser aplicada a multa de 500$00 a 2000$00 e adicionais, a fixar pelo director-geral de Segurança.
+Art. 98.º - 1. Os proprietários de hotéis, hospedarias, casas de hóspedes e congéneres, parques de campismo, bem como aqueles que aluguem, mesmo por sublocação, ou cedam, a qualquer título, casa para residência ou comércio ou alberguem na própria residência estrangeiros, ficam obrigados a comunicá-lo, por meio de boletim de alojamento, no prazo de quarenta e oito horas à Direcção-Geral de Segurança, ou, nas localidades onde ela não exista, aos comandos da Polícia de Segurança Pública ou, ainda, às câmaras municipais, sob pena de aos transgressores ser aplicada a multa de 500$00 a 2000$00 e adicionais, a fixar pelo director-geral de Segurança.
 
 2. Quando se trate de transgressores que reconhecidamente tenham grande dificuldade em pagar aquela importância, poderá o director-geral, a requerimento devidamente fundamentado do interessado, reduzi-la ao mínimo de 100$00 e adicionais respectivos.
 
-###### Art. 99.º - 1. No mês de Janeiro de cada ano, as entidades patronais, nacionais ou estrangeiras, que exerçam a sua actividade em qualquer parte do território nacional enviarão à Direcção-Geral de Segurança uma relação, em triplicado, dos estrangeiros que tenham ao serviço, indicando as funções que desempenham, a remuneração auferida e a data da admissão ao serviço.
+Art. 99.º - 1. No mês de Janeiro de cada ano, as entidades patronais, nacionais ou estrangeiras, que exerçam a sua actividade em qualquer parte do território nacional enviarão à Direcção-Geral de Segurança uma relação, em triplicado, dos estrangeiros que tenham ao serviço, indicando as funções que desempenham, a remuneração auferida e a data da admissão ao serviço.
 
 2. A inobservância do disposto no número anterior será punida com multa de 1000$00 a 5000$00.
 
-###### Art. 100.º - 1. A infracção ao disposto nos artigos 16.º, 17.º e 18.º será punida com a multa de 1000$00 a 5000$00.
+Art. 100.º - 1. A infracção ao disposto nos artigos 16.º, 17.º e 18.º será punida com a multa de 1000$00 a 5000$00.
 
 2. Aos que contribuam por qualquer forma para a introdução clandestina de indivíduos em território nacional será aplicada a multa de 10000$00 a 100000$00 por cada um que entrar no País.
 
-###### Art. 101.º A infracção ao disposto no artigo 23.º será punida com a multa de 200$00 a 500$00.
+Art. 101.º A infracção ao disposto no artigo 23.º será punida com a multa de 200$00 a 500$00.
 
-###### Art. 102.º Aos estrangeiros que deixem caducar os vistos de permanência no País e não tenham pedido a sua prorrogação será aplicada a multa de 200$00.
+Art. 102.º Aos estrangeiros que deixem caducar os vistos de permanência no País e não tenham pedido a sua prorrogação será aplicada a multa de 200$00.
 
-###### Art. 103.º As infracções ao disposto no artigo 4.º do [Decreto-Lei n.º 41248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41248-1957-281248), de 31 de Agosto de 1957, são punidas com a multa de 10000$00 a 100000$00 em relação a cada emigrante e cuja aplicação compete à Direcção-Geral de Segurança.
+Art. 103.º As infracções ao disposto no artigo 4.º do [Decreto-Lei n.º 41248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41248-1957-281248), de 31 de Agosto de 1957, são punidas com a multa de 10000$00 a 100000$00 em relação a cada emigrante e cuja aplicação compete à Direcção-Geral de Segurança.
 
-###### Art. 104.º O lugar de auditor jurídico do Ministério do Interior, criado pelo artigo 13.º do [Decreto-Lei n.º 49401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49401-1969-217111), de 24 de Novembro de 1969, e a que respeitam o [Decreto-Lei n.º 92/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1970-228384), de 5 de Março, e a [Portaria n.º 149/70](https://diariodarepublica.pt/dr/detalhe/portaria/149-1970-228780), de 16 de Março, passa a figurar na Secretaria-Geral do mesmo Ministério, onde será inscrita a verba adequada à satisfação do respectivo encargo.
+Art. 104.º O lugar de auditor jurídico do Ministério do Interior, criado pelo artigo 13.º do [Decreto-Lei n.º 49401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49401-1969-217111), de 24 de Novembro de 1969, e a que respeitam o [Decreto-Lei n.º 92/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1970-228384), de 5 de Março, e a [Portaria n.º 149/70](https://diariodarepublica.pt/dr/detalhe/portaria/149-1970-228780), de 16 de Março, passa a figurar na Secretaria-Geral do mesmo Ministério, onde será inscrita a verba adequada à satisfação do respectivo encargo.
 
-###### Art. 105.º - 1. Os médicos, o pessoal de enfermagem e os tradutores- correspondentes-intérpretes serão contratados além do quadro geral da Direcção-Geral de Segurança.
+Art. 105.º - 1. Os médicos, o pessoal de enfermagem e os tradutores- correspondentes-intérpretes serão contratados além do quadro geral da Direcção-Geral de Segurança.
 
 2. Os médicos privativos da Direcção-Geral de Segurança terão competência idêntica aos da Polícia de Segurança Pública, as mesmas regalias e vencimentos.
 
 3. Compete aos médicos privativos, além das suas atribuições normais, prestar assistência ao pessoal da Direcção-Geral de Segurança.
 
-###### Art. 106.º Os fardamentos, cartões de identidade, insígnias e placas de identificação usados pelos funcionários da Direcção-Geral de Segurança serão de modelo definido por portaria do Ministro do Interior.
+Art. 106.º Os fardamentos, cartões de identidade, insígnias e placas de identificação usados pelos funcionários da Direcção-Geral de Segurança serão de modelo definido por portaria do Ministro do Interior.
 
-###### Art. 107.º Enquanto durarem as circunstâncias reconhecidas na Resolução da Assembleia Nacional de 20 de Dezembro de 1971, publicada no Diário do Governo, de 27 do mesmo mês e ano, não são aplicáveis nas províncias ultramarinas as disposições constantes dos artigos 6.º a 12.º do presente diploma, continuando em vigor a legislação actual sobre a matéria.
+Art. 107.º Enquanto durarem as circunstâncias reconhecidas na Resolução da Assembleia Nacional de 20 de Dezembro de 1971, publicada no Diário do Governo, de 27 do mesmo mês e ano, não são aplicáveis nas províncias ultramarinas as disposições constantes dos artigos 6.º a 12.º do presente diploma, continuando em vigor a legislação actual sobre a matéria.
 
-###### Art. 108.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho do Ministro do Interior, ou do Interior e do Ultramar, conforme os casos.
+Art. 108.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho do Ministro do Interior, ou do Interior e do Ultramar, conforme os casos.
 
-###### Art. 109.º Enquanto não forem inscritas no Orçamento Geral do Estado as dotações necessárias, os encargos resultantes deste diploma serão satisfeitos pelas disponibilidades do cofre geral.
+Art. 109.º Enquanto não forem inscritas no Orçamento Geral do Estado as dotações necessárias, os encargos resultantes deste diploma serão satisfeitos pelas disponibilidades do cofre geral.
 
-###### Art. 110.º São revogados os Decretos-Leis n.os 39749, de 9 de Agosto de 1954, 43582, de 4 de Abril de 1961, 45280, de 30 de Setembro de 1963, 47284, de 28 de Outubro de 1966, 48794, de 26 de Dezembro de 1968, e 48999, de 9 de Maio de 1969, o artigo 19.º do [Decreto-Lei n.º 35046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35046-1945-465047), de 22 de Outubro de 1945, e os artigos 22.º, 23.º e 24.º do [Decreto-Lei n.º 36527](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36527-1947-637902), de 2 de Outubro de 1947, sendo os dois últimos com a redacção dada pelo [Decreto-Lei n.º 41466](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41466-1957-251198), de 21 de Dezembro de 1957.
+Art. 110.º São revogados os Decretos-Leis n.os 39749, de 9 de Agosto de 1954, 43582, de 4 de Abril de 1961, 45280, de 30 de Setembro de 1963, 47284, de 28 de Outubro de 1966, 48794, de 26 de Dezembro de 1968, e 48999, de 9 de Maio de 1969, o artigo 19.º do [Decreto-Lei n.º 35046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35046-1945-465047), de 22 de Outubro de 1945, e os artigos 22.º, 23.º e 24.º do [Decreto-Lei n.º 36527](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36527-1947-637902), de 2 de Outubro de 1947, sendo os dois últimos com a redacção dada pelo [Decreto-Lei n.º 41466](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41466-1957-251198), de 21 de Dezembro de 1957.
 
-###### Art. 111.º O presente diploma entra em vigor no dia 1 de Outubro próximo.
+Art. 111.º O presente diploma entra em vigor no dia 1 de Outubro próximo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 27 de Setembro de 1972.**
+Promulgado em 27 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf))](https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf)
 
 MAPA II
 
 Quadro especial feminino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf))](https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/22900/14111424.pdf)
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

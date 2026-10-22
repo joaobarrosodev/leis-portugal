@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24300/34853493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1980-462425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38510ba65c252e95f38be78c1636aa63aaea16e1d6d1963f2c59f76b064ba30e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62af1320015f281577862a93e90afc1a1861f5ecfa4929bcbeb2206f18adbbf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desenvolvimento Regional
+- Instituição de Crédito
+- Sociedade de Desenvolvimento Regional
 relationships:
 - type: amended_by
   target: pt:dre:693845:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179988:por
+  label: "Alterados os artigos 1.º, 2.º, 5.º, 6.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 22.º, 24.º e 28.º, pelo DEC LEI.300/85.29.07.1985.MFP,\
+    \ DR.IS [172] de 29.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1985-179988
+  date: '1985-07-29'
+- type: amended_by
+  target: pt:dre:196762:por
+  label: "Alterado o art. 7º, pelo DEC LEI.49/86.1986.03.14.MF DR.IS [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1986-196762
+  date: '1986-03-14'
+- type: amended_by
+  target: pt:dre:355122:por
+  label: "Alterado o art. 3º, pelo DEC LEI.361/88.1988.10.14.MF DR.IS [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1988-355122
+  date: '1988-10-14'
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419187:por
+  label: "Revogado o art. 6º, pelo DEC LEI.228/87.1987.06.11.MF, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1987-419187
+  date: '1987-06-11'
+- type: repealed_by
+  target: pt:dre:548228:por
+  label: "Revogada a alínea c) do artigo 24.º, pelo DEC LEI.318/89.23.09.1989.MF, DR.IS [220] de 23.09.1989, e na data de\
+    \ entrada em vigor dos avisos publicados ao abrigo do disposto no seu artigo 1.º, os artigos 18.º e 22.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1989-548228
+  date: '1989-09-23'
+- type: repealed_by
+  target: pt:dre:575558:por
+  label: "Revogado o art. 18º pelo AV.10/90.05.07.1990.MF, DR.IS [153] de 05.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10-1990-575558
+  date: '1990-07-05'
+- type: repealed_by
+  target: pt:dre:693845:por
+  label: "Revogado pelo DEC LEI.25/91.1991.01.11.MF DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1991-693845
+  date: '1991-01-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:46Z'
   warnings: []
   errors: []
 ---
@@ -460,8 +528,8 @@ Os serviços públicos, as autarquias locais e os organismos de planeamento econ
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 11 de Outubro de 1980.**
+Promulgado em 11 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

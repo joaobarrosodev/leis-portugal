@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95030be8fbdca352cec92a8871a7f2893b1c6376050710c96bfc3c0a756ae318
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71ee352e61cfce4c4cb6818882b3c67835b3ebb006a3854d54255a09d1d50e59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Funcionário Público
+- Reforma da Administração Pública
+- Remuneração
+- Remuneração Acessória
+- Subsídio Eventual de Custo de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:686599:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:50Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +148,7 @@ As restantes categorias são melhoradas com a percentagem de 20 por cento, de qu
 
 Os resultados da orientação seguida podem examinar-se no seguinte mapa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/18100/13391342.pdf))](https://files.diariodarepublica.pt/1s/1966/08/18100/13391342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/18100/13391342.pdf)
 
 7. A solução de problemas desta natureza é sempre ingrata, porque há que medir possibilidades, fazer justiça relativa, procurar a melhor forma de atender ao indispensável, sem prejudicar o essencial, que é o conjunto de problemas vitais para o País.
 
@@ -146,7 +164,7 @@ Todavia, o volume total dos encargos exige severas economias nas restantes dota�
 
 O seguinte quadro justifica a afirmação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/18100/13391342.pdf))](https://files.diariodarepublica.pt/1s/1966/08/18100/13391342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/18100/13391342.pdf)
 
 Os números anteriores demonstram a orientação social do Governo e a preocupação que lhe tem merecido a situação material dos servidores que ocupam posições mais modestas na hierarquia burocrática.
 
@@ -186,7 +204,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Governo determinará a ultimação dos estudos em curso para a Reforma Administrativa, nos quais será integrada a revisão da estrutura dos quadros do funcionalismo público, tendo em vista as exigências actuais da Administração, a situação dos servidores do Estado e a eficiência dos serviços.
+Artigo 1.º - 1. O Governo determinará a ultimação dos estudos em curso para a Reforma Administrativa, nos quais será integrada a revisão da estrutura dos quadros do funcionalismo público, tendo em vista as exigências actuais da Administração, a situação dos servidores do Estado e a eficiência dos serviços.
 
 2. Para servir de base à revisão prevista no número anterior, o Instituto Nacional de Estatística, em colaboração directa com o Grupo de Trabalho da Comissão Interministerial de Planeamento e Integração Económica para a Reforma Administrativa, procederá, com carácter prioritário, a um inquérito geral sobre as condições económico-sociais dos servidores do Estado.
 
@@ -194,7 +212,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O Governo procederá oportunamente à intensificação da assistência na doença aos servidores do Estado, ao estabelecimento de cantinas subsidiadas, à actualização das ajudas de custo, ao estudo da concessão de subsídios de residência, e fomentará facilidades no que respeita à habitação e ao acesso à cultura dos filhos dos servidores do Estado.
 
-###### Art. 2.º - 1. É concedido, a título transitório, a todos os servidores do Estado, civis e militares, em serviço no continente e ilhas adjacentes, um subsídio eventual de custo de vida sobre os vencimentos referidos no artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e legislação complementar, de harmonia com as seguintes taxas:
+Art. 2.º - 1. É concedido, a título transitório, a todos os servidores do Estado, civis e militares, em serviço no continente e ilhas adjacentes, um subsídio eventual de custo de vida sobre os vencimentos referidos no artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e legislação complementar, de harmonia com as seguintes taxas:
 
 Vencimentos das categorias A a O e superiores - 20 por cento;
 
@@ -212,24 +230,24 @@ Vencimentos correspondentes à categoria Y - 25 por cento.
 
 6. No caso de o servidor do Estado não ter direito à totalidade do vencimento, ordenado ou salário, a taxa do subsídio incidirá sobre o abono que legalmente lhe competir, com o arredondamento previsto no número anterior.
 
-###### Art. 3.º A gratificação mensal atribuída aos regentes de postos escolares, rectificada nos termos do artigo 10.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, é beneficiada com a taxa de 20 por cento.
+Art. 3.º A gratificação mensal atribuída aos regentes de postos escolares, rectificada nos termos do artigo 10.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, é beneficiada com a taxa de 20 por cento.
 
-###### Art. 4.º O subsídio eventual de custo de vida, como abono transitório, não tem os mesmos direitos da remuneração-base e apenas está sujeito ao desconto do imposto do selo, sendo inalienável e impenhorável.
+Art. 4.º O subsídio eventual de custo de vida, como abono transitório, não tem os mesmos direitos da remuneração-base e apenas está sujeito ao desconto do imposto do selo, sendo inalienável e impenhorável.
 
-###### Art. 5.º - 1. O limite de vencimentos pelo exercício de funções públicas passa a ser o correspondente ao vencimento da categoria A acrescido do subsídio eventual de custo de vida.
+Art. 5.º - 1. O limite de vencimentos pelo exercício de funções públicas passa a ser o correspondente ao vencimento da categoria A acrescido do subsídio eventual de custo de vida.
 
 2. Até à reestruturação dos quadros, as horas extraordinárias e os subsídios de residência que, nos termos legais, são abonados em função do vencimento atribuído à categoria do servidor do Estado terão, para todos os efeitos, como base de incidência, os vencimentos estabelecidos pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e demais legislação complementar.
 
-###### Art. 6.º - 1. Constitui encargo dos serviços autónomos e dos que satisfaçam abonos ao pessoal através de orçamentos privativos a satisfação do subsídio eventual de custo de vida, ficando autorizada a elaboração de um orçamento suplementar além dos legalmente fixados.
+Art. 6.º - 1. Constitui encargo dos serviços autónomos e dos que satisfaçam abonos ao pessoal através de orçamentos privativos a satisfação do subsídio eventual de custo de vida, ficando autorizada a elaboração de um orçamento suplementar além dos legalmente fixados.
 
 2. As verbas globais pelas quais se pagam vencimentos, ordenados e salários suportarão também o subsídio que a estes competir.
 
 3. Fica suspensa a faculdade de fixação de gratificações, desde que não haja o prévio acordo do Ministro das Finanças.
 
-###### Art. 7.º O Governo, pelo Ministro das Finanças e pelos Ministros de que dependerem os respectivos serviços, determinará o regime das alterações a introduzir nos vencimentos e outras remunerações dos servidores dos corpos administrativos e da Santa Casa da Misericórdia de Lisboa.
+Art. 7.º O Governo, pelo Ministro das Finanças e pelos Ministros de que dependerem os respectivos serviços, determinará o regime das alterações a introduzir nos vencimentos e outras remunerações dos servidores dos corpos administrativos e da Santa Casa da Misericórdia de Lisboa.
 
-###### Art. 8.º Fica o Ministro das Finanças autorizado a prover através de dotações globais, por simples decreto por ele referendado, o Orçamento Geral do Estado em vigor e a expedir as instruções indispensáveis para a execução deste decreto-lei, que entra em vigor no dia 1 de Setembro de 1966.
+Art. 8.º Fica o Ministro das Finanças autorizado a prover através de dotações globais, por simples decreto por ele referendado, o Orçamento Geral do Estado em vigor e a expedir as instruções indispensáveis para a execução deste decreto-lei, que entra em vigor no dia 1 de Setembro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11000/10501051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1976-427863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f2fa552188965cd5ea3a496c9465fc2cf44ab4e1574e4c83eb71437abb0507b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1edea14757b307b5529ada216a53fc1c1882b0d50e52f257183a6858ea004dcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Habitação
+- Militar
+- Missão no Estrangeiro
+- Subsídio de Alojamento
 relationships:
 - type: amended_by
   target: pt:dre:366639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:366639:por
+  label: "Revogado pelo DEC LEI.465/79.05.12.1979.CR, DR.IS [280] de 05.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/465-1979-366639
+  date: '1979-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:41Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +103,7 @@ Considerando que se impõe, por razões de justiça, tornar extensivos ao pessoa
 
 Usando da faculdade conferida pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os sargentos e praças especialmente destacados para serviço nas missões militares no estrangeiro terão direito aos seguintes abonos:
+Artigo 1.º Os sargentos e praças especialmente destacados para serviço nas missões militares no estrangeiro terão direito aos seguintes abonos:
 
 a) Importância para despesas de residência, fixada para cada caso pelo Chefe do Estado-Maior-General das Forças Armadas;
 
@@ -103,11 +113,11 @@ c) Para cobrir encargos de instalação, o correspondente a um ou dois duodécim
 
 d) Para despesas eventuais, a quantia fixa de 5000$00.
 
-###### Art. 2.º Consideram-se pessoas de família, para o efeito do disposto na alínea b) do artigo anterior, a mulher, a mãe viúva ou pai inválido, os filhos menores e as filhas solteiras.
+Art. 2.º Consideram-se pessoas de família, para o efeito do disposto na alínea b) do artigo anterior, a mulher, a mãe viúva ou pai inválido, os filhos menores e as filhas solteiras.
 
-###### Art. 3.º Quando circunstâncias locais assim o aconselharem, será posta à disposição do pessoal militar em serviço nas missões militares no estrangeiro habitação condigna com a função que exercem.
+Art. 3.º Quando circunstâncias locais assim o aconselharem, será posta à disposição do pessoal militar em serviço nas missões militares no estrangeiro habitação condigna com a função que exercem.
 
-###### Art. 4.º Nos casos em que se verificar a hipótese prevista no artigo anterior será aplicável ao arrendamento e mobilamento dos edifícios o que a seguir se dispõe:
+Art. 4.º Nos casos em que se verificar a hipótese prevista no artigo anterior será aplicável ao arrendamento e mobilamento dos edifícios o que a seguir se dispõe:
 
 a) As habitações arrendadas para instalação do pessoal militar sê-lo-ão em conta das dotações necessárias para pagamento das respectivas rendas;
 
@@ -121,22 +131,22 @@ e) Os edifícios utilizados para residência do pessoal militar serão mobilados
 
 f) Os móveis do Estado serão sempre recebidos por inventário pelos utilizadores, que responderão pela sua perfeita conservação.
 
-###### Art. 5.º Os militares que habitarem casa do Estado sofrerão nos seus proventos as seguintes deduções:
+Art. 5.º Os militares que habitarem casa do Estado sofrerão nos seus proventos as seguintes deduções:
 
 a) Os oficiais perdem o direito a 50% do abono para despesas de representação;
 
 b) Os sargentos e praças perdem o direito ao abono que lhes houver sido fixado nos termos da alínea a) do artigo 1.º deste diploma.
 
-###### Art. 6.º Os casos omissos e as dúvidas que se suscitem na execução do presente decreto-lei serão esclarecidos por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 6.º Os casos omissos e as dúvidas que se suscitem na execução do presente decreto-lei serão esclarecidos por despacho do Chefe do Estado-Maior-General das Forças Armadas.
 
-###### Art. 7.º Os encargos resultantes da aplicação do disposto neste diploma serão por conta do orçamento dos departamentos militares de que o respectivo pessoal é originário, onde serão inscritas as adequadas dotações.
+Art. 7.º Os encargos resultantes da aplicação do disposto neste diploma serão por conta do orçamento dos departamentos militares de que o respectivo pessoal é originário, onde serão inscritas as adequadas dotações.
 
-###### Art. 8.º Este decreto-lei entra em vigor a partir de 1 de Janeiro de 1976.
+Art. 8.º Este decreto-lei entra em vigor a partir de 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 3 de Maio de 1976.**
+Promulgado em 3 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43843-1961-173332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8941b5da4045e49eb0fdef6bc9f37a51b861711e8ec66799b668fcc60aa4f7e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cf6ac417578a37b9dc765763ba70cbd047e566c4087695816d1cb1c39d3d943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Código Comercial
+- Criação de Empresas
+- Sociedade Comercial
+- Sociedade por Quotas
 relationships:
 - type: amended_by
   target: pt:dre:518409:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642699:por
+  label: "Posto em vigor nas províncias ultramarinas o presente diploma pela PORT.18946.12.01.1962.MU, DG.IS [8] de 12.01.1962\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18946-1962-642699
+  date: '1962-01-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:59Z'
   warnings: []
   errors: []
 ---
@@ -156,15 +167,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 2.º, 4.º, 5.º e 39.º da lei sobre as sociedades por quotas, de 11 de Abril de 1901, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 4.º, 5.º e 39.º da lei sobre as sociedades por quotas, de 11 de Abril de 1901, passam a ter a seguinte redacção:
 
-###### Art. 2.º As sociedades por quotas de responsabilidade limitada só se podem constituir por escritura pública.
+Art. 2.º As sociedades por quotas de responsabilidade limitada só se podem constituir por escritura pública.
 
 § único. O título constitutivo regular-se-á pelas disposições do artigo 114.º e seus números do Código Comercial, devendo especificar, além da importância do capital social, a quota de capital de cada sócio em dinheiro, créditos ou outros bens e os prazos do pagamento.
 
 ...
 
-###### Art. 4.º O capital da sociedade não pode ser inferior a 50000$00 e deve corresponder à soma das quotas dos sócios.
+Art. 4.º O capital da sociedade não pode ser inferior a 50000$00 e deve corresponder à soma das quotas dos sócios.
 
 § 1.º Estas quotas podem ser desiguais, mas nenhuma pode ser interior a 5000$00, e o seu valor deve ser sempre divisível por 250$00.
 
@@ -174,7 +185,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º ...
 
-###### Art. 5.º Não se pode constituir a sociedade enquanto cada um dos sócios não houver entrado com 50 por cento do capital que dever realizar em dinheiro e, bem assim, com 50 por cento do capital que dever realizar em outros bens, se estes forem divisíveis, ou com a totalidade dos mesmos bens, no caso contrário.
+Art. 5.º Não se pode constituir a sociedade enquanto cada um dos sócios não houver entrado com 50 por cento do capital que dever realizar em dinheiro e, bem assim, com 50 por cento do capital que dever realizar em outros bens, se estes forem divisíveis, ou com a totalidade dos mesmos bens, no caso contrário.
 
 § 1.º Se, porém, o sócio que dever realizar a sua quota em bens diversos de dinheiro preferir entrar com 50 por cento em dinheiro do capital que tiver subscrito, assim o poderá fazer, salvo se essa faculdade contrariar o fim da sociedade ou as estipulações dos associados.
 
@@ -182,7 +193,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 § 1.º ...
 
@@ -190,6 +201,6 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º ...
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Augusto Dias Rosas.

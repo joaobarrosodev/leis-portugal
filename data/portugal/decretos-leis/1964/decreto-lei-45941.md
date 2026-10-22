@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45941-1964-538055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2afa61a452d2e9b5a977fa299247f4f7ea7265e42b1d08096ec75f0aeae15da1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39df327857e7faff7544177ccd95672e60c6d139657d31da2f5f611598d1f477
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Ministro da Defesa Nacional
+- NATO
+- Pessoal de Vigilância
+- Pessoal Militarizado
+relationships:
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:37Z'
   warnings: []
   errors: []
 ---
@@ -89,21 +98,21 @@ Com a entrada em funcionamento daquelas infra-estruturas torna-se necessário ad
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A guarda das infra-estruturas N. A. T. O. em Portugal é constituída por pessoal militarizado e fica na dependência do departamento ao qual compete a responsabilidade da manutenção da respectiva infra-estrutura.
+Artigo 1.º A guarda das infra-estruturas N. A. T. O. em Portugal é constituída por pessoal militarizado e fica na dependência do departamento ao qual compete a responsabilidade da manutenção da respectiva infra-estrutura.
 
 § único. O Ministro da Defesa Nacional, ouvidos os departamentos interessados, fixará, por portaria, o regulamento interno do pessoal da guarda.
 
-###### Art. 2.º Esta guarda tem por fim garantir a segurança das instalações existentes em cada uma das infra-estruturas, enquanto se mantiverem os compromissos resultantes do Pacto do Atlântico Norte.
+Art. 2.º Esta guarda tem por fim garantir a segurança das instalações existentes em cada uma das infra-estruturas, enquanto se mantiverem os compromissos resultantes do Pacto do Atlântico Norte.
 
-###### Art. 3.º Em matéria de justiça e disciplina, a guarda das infra-estruturas, quando em exercício das suas funções, rege-se pela legislação militar em vigor.
+Art. 3.º Em matéria de justiça e disciplina, a guarda das infra-estruturas, quando em exercício das suas funções, rege-se pela legislação militar em vigor.
 
-###### Art. 4.º É obrigatório para todo o pessoal da guarda o uso de bilhete de identidade, com a respectiva fotografia, de modelo a fixar por despacho do Ministro da Defesa Nacional.
+Art. 4.º É obrigatório para todo o pessoal da guarda o uso de bilhete de identidade, com a respectiva fotografia, de modelo a fixar por despacho do Ministro da Defesa Nacional.
 
-###### Art. 5.º Todo o pessoal da guarda tem direito a uso e porte de arma, sem mais dependências de qualquer licença ou pagamento de qualquer taxa, e, para os efeitos do n.º 2.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949, é considerado investido em funções de carácter policial, dentro da área da respectiva infra-estrutura, ou fora dela, em seguimento de acções que nela tenham sido iniciadas.
+Art. 5.º Todo o pessoal da guarda tem direito a uso e porte de arma, sem mais dependências de qualquer licença ou pagamento de qualquer taxa, e, para os efeitos do n.º 2.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949, é considerado investido em funções de carácter policial, dentro da área da respectiva infra-estrutura, ou fora dela, em seguimento de acções que nela tenham sido iniciadas.
 
 § único. A prova do direito assim consignado faz-se pela simples exibição do bilhete de identidade de guarda de infra-estrutura, em cujo verso deverá constar a disposição legal acima referida.
 
-###### Art. 6.º O pessoal da guarda deverá observar o maior escrúpulo no emprego das armas, de que só poderá fazer uso, fora do caso de instrução e exercício, quando na defesa das respectivas instalações, nas seguintes condições:
+Art. 6.º O pessoal da guarda deverá observar o maior escrúpulo no emprego das armas, de que só poderá fazer uso, fora do caso de instrução e exercício, quando na defesa das respectivas instalações, nas seguintes condições:
 
 1.º Para prevenir ou suspender uma agressão iminente ou em execução e em legítima defesa;
 
@@ -111,10 +120,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Para subjugar os indivíduos que fujam após qualquer acção suspeita, não acatando a voz de prisão ou tentando escapar à identificação, conforme os casos.
 
-###### Art. 7.º O pessoal da guarda fará uso de uniforme regulamentar em todos os actos de serviço.
+Art. 7.º O pessoal da guarda fará uso de uniforme regulamentar em todos os actos de serviço.
 
 O uso do uniforme do pessoal da guarda por indivíduos a ela estranhos é crime punível nos termos previstos na legislação penal vigente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.

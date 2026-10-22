@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 107/1980, 1º Suplemento, Série I de 1980-05-09
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 932-(1) a 932-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10701/00010002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48f069b67bb5c3eab37b4c14cf3ca15f17eab7fc1906368a6d5c575b99a6ef00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccce7d3f22e1bbae022b56645d12fd237a21faec5f99548915498b5145e3cbed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Fomento Cultural
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:469652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662280:por
+  label: "Alterados os arts. 7º e 9º pelo DEC LEI.114/87.1987.03.13.MEC, DR.IS [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-1987-662280
+  date: '1987-03-13'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: Determinada a transição para a dependência do Ministério da Cultura do Fundo de Fomento Cultural, reestruturado pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 296-A/95 - Diário da República n.º 266/1995, 1º Suplemento, Série I-A de 1995-11-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Mantido em vigor a Orgânica do Fundo de Fomento Cultural pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623203:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:59Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +122,9 @@ Considerando ser necessário, em conformidade com a nova estrutura orgânica da 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Fundo de Fomento Cultural funciona na dependência directa do Secretário de Estado da Cultura e goza de autonomia administrativa e financeira.
+Artigo 1.º O Fundo de Fomento Cultural funciona na dependência directa do Secretário de Estado da Cultura e goza de autonomia administrativa e financeira.
 
-###### Art. 2.º Ao Fundo de Fomento Cultural compete:
+Art. 2.º Ao Fundo de Fomento Cultural compete:
 
 a) Prestar apoio financeiro às actividades de promoção e difusão dos diversos ramos de cultura, dentro dos objectivos a prosseguir pela Secretaria de Estado da Cultura;
 
@@ -108,7 +138,7 @@ e) Financiar estudos e investigações de carácter cultural;
 
 f) Conceder subsídios e bolsas para outros fins de acção cultural.
 
-###### Art. 3.º - 1 - O Fundo de Fomento Cultural dispõe de um conselho administrativo presidido pelo director-geral dos Serviços Centrais e constituído por:
+Art. 3.º - 1 - O Fundo de Fomento Cultural dispõe de um conselho administrativo presidido pelo director-geral dos Serviços Centrais e constituído por:
 
 a) Presidente do Instituto Português do Património Cultural ou seu representante;
 
@@ -124,7 +154,7 @@ f) Representante do Ministério das Finanças e do Plano.
 
 2 - O presidente será substituído nas suas faltas e impedimentos pelo presidente do Instituto Português do Património Cultural.
 
-###### Art. 4.º Ao conselho administrativo compete:
+Art. 4.º Ao conselho administrativo compete:
 
 a) Elaborar o plano de actividades, bem como o projecto de orçamento;
 
@@ -132,17 +162,17 @@ b) Proceder à cobrança das receitas e ao pagamento das despesas;
 
 c) Aprovar as contas do exercício findo.
 
-###### Art. 5.º - 1 - Para que o conselho administrativo possa deliberar é necessária a presença da maioria do número legal dos seus membros.
+Art. 5.º - 1 - Para que o conselho administrativo possa deliberar é necessária a presença da maioria do número legal dos seus membros.
 
 2 - As deliberações serão tomadas por maioria de votos dos presentes, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 6.º - 1 - O serviço de contabilidade e expediente será assegurado por pessoal da Secretaria de Estado da Cultura requisitado para o efeito, constituindo as respectivas remunerações encargo do Fundo.
+Art. 6.º - 1 - O serviço de contabilidade e expediente será assegurado por pessoal da Secretaria de Estado da Cultura requisitado para o efeito, constituindo as respectivas remunerações encargo do Fundo.
 
 2 - A requisição depende sempre de pévio acordo do funcionário a requisitar, contando-se o tempo de serviço prestado naquela situação, para todos os efeitos legais, como se fosse prestado no lugar de origem, o qual pode, entretanto, ser provido interinamente.
 
 3 - O período de requisição não poderá exceder a duração de um ano, prazo este que, em princípio, poderá ser prorrogado por uma vez.
 
-###### Art. 7.º - 1 - Constituem receitas do Fundo de Fomento Cultural:
+Art. 7.º - 1 - Constituem receitas do Fundo de Fomento Cultural:
 
 a) As dotações para o efeito inscritas no orçamento da Secretaria de Estado da Cultura;
 
@@ -158,38 +188,38 @@ f) Quaisquer outras receitas não proibidas por lei.
 
 2 - As receitas à disposição do Fundo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e a sua movimentação será isenta de imposto do selo e prémio de transferência, devendo o Fundo integrar-se na orientação definida no [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto, a partir do orçamento de 1981.
 
-###### Art. 8.º - 1 - Serão organizados anualmente uma conta de gerência e um balanço contendo o desenvolvimento das contas de natureza activa e passiva e a situação líquida do Fundo.
+Art. 8.º - 1 - Serão organizados anualmente uma conta de gerência e um balanço contendo o desenvolvimento das contas de natureza activa e passiva e a situação líquida do Fundo.
 
 2 - O relatório e o balanço serão aprovados pelo conselho administrativo do Fundo até 31 de Março do ano seguinte àquele a que respeitarem e submetidos, dentro dos quinze dias imediatos, à homologação do Secretário de Estado da Cultura, a qual corresponderá à quitação do conselho administrativo relativamente ao ano económico considerado.
 
-###### Art. 9.º - 1 - Os organismos e serviços que cobrem ou arrecadem receitas destinadas ao Fundo efectuarão o seu depósito, dentro dos prazos legais, na conta referida no n.º 2 do artigo 7.º mediante guias em quadruplicado.
+Art. 9.º - 1 - Os organismos e serviços que cobrem ou arrecadem receitas destinadas ao Fundo efectuarão o seu depósito, dentro dos prazos legais, na conta referida no n.º 2 do artigo 7.º mediante guias em quadruplicado.
 
 2 - A Caixa Geral de Depósitos, Crédito e Previdência reterá um exemplar de cada guia e devolverá no acto de depósito, depois de este averbado, os restantes exemplares ao depositante, que enviará dois deles ao Fundo de Fomento Cultural.
 
 3 - Dentro dos prazos estabelecidos para o depósito de receitas, as entidades responsáveis pela sua cobrança ou arrecadação enviarão ao conselho administrativo do Fundo, nos termos que vierem a ser determinados, elementos elucidativos acerca do depósito efectuado.
 
-###### Art. 10.º Os levantamentos e transferências das contas abertas a favor do Fundo só poderão ter lugar com a assinatura de dois membros do conselho administrativo, sendo um deles o presidente ou quem suas vezes fizer.
+Art. 10.º Os levantamentos e transferências das contas abertas a favor do Fundo só poderão ter lugar com a assinatura de dois membros do conselho administrativo, sendo um deles o presidente ou quem suas vezes fizer.
 
-###### Art. 11.º O conselho administrativo poderá manter em cofre um fundo permanente para satisfação de despesas correntes, de quantitativo a fixar por despacho do Secretário de Estado da Cultura.
+Art. 11.º O conselho administrativo poderá manter em cofre um fundo permanente para satisfação de despesas correntes, de quantitativo a fixar por despacho do Secretário de Estado da Cultura.
 
-###### Art. 12.º - 1 - Sob proposta do presidente do conselho administrativo poderá o pessoal adstrito ao Fundo efectuar, em regime de tarefa, estudos ou trabalhos que se mostrem necessários.
+Art. 12.º - 1 - Sob proposta do presidente do conselho administrativo poderá o pessoal adstrito ao Fundo efectuar, em regime de tarefa, estudos ou trabalhos que se mostrem necessários.
 
 2 - As remunerações por esses estudos ou trabalhos, pagas mensalmente ou conforme for determinado, serão fixadas pelo Secretário de Estado da Cultura e são acumuláveis com quaisquer vencimentos ou gratificações.
 
-###### Art. 13.º - 1 - Sempre que o entenda conveniente, poderá o conselho administrativo cometer a entidades nacionais ou estrangeiras, mediante contrato de tarefa, a realização de trabalhos de carácter eventual.
+Art. 13.º - 1 - Sempre que o entenda conveniente, poderá o conselho administrativo cometer a entidades nacionais ou estrangeiras, mediante contrato de tarefa, a realização de trabalhos de carácter eventual.
 
 2 - O contrato referido no número anterior deverá ser reduzido a escrito e nele fixadas as condições da sua prestação e o respectivo prazo de duração.
 
 3 - O exercício da actividade prevista no n.º 1 não confere, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 14.º São revogados os artigos 10.º a 15.º do [Decreto-Lei n.º 582/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1973-412618), de 5 de Novembro, e a [Portaria n.º 332/74](https://diariodarepublica.pt/dr/detalhe/portaria/332-1974-623203), de 6 de Maio.
+Art. 14.º São revogados os artigos 10.º a 15.º do [Decreto-Lei n.º 582/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1973-412618), de 5 de Novembro, e a [Portaria n.º 332/74](https://diariodarepublica.pt/dr/detalhe/portaria/332-1974-623203), de 6 de Maio.
 
-###### Art. 15.º As receitas próprias dos organismos referidas nas alíneas a) a e) do n.º 1 do artigo 3.º constituem receitas do Fundo de Fomento Cultural enquanto não forem publicados os respectivos decretos regulamentares.
+Art. 15.º As receitas próprias dos organismos referidas nas alíneas a) a e) do n.º 1 do artigo 3.º constituem receitas do Fundo de Fomento Cultural enquanto não forem publicados os respectivos decretos regulamentares.
 
 Visto e aprovado em Conselho de Ministros de 27 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 5 de Maio de 1980.**
+Promulgado em 5 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

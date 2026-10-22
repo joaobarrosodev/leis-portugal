@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15200/14381438.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1979-380478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3186e19f723af9f5043c869827021995eabce055aca3827eaf053893aa271f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71a8e7248d85ed9a76b798ab226f05e4471beb1e303ae136c483c9b3ca3b3689
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa de Habitação
+- Financiamento
+- Fiscalização
+- Habitação Social
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:253233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541874:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:56Z'
   warnings: []
   errors: []
 ---
@@ -105,20 +147,20 @@ Com parecer prévio favorável do Instituto António Sérgio do Sector Cooperati
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O disposto no [Decreto-Lei n.º 268/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1978-330177), de 31 de Agosto, é aplicável às cooperativas de habitação cujos estatutos estejam harmonizados com o estabelecido no [Decreto-Lei n.º 730/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1974-468051), de 20 de Dezembro, e as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 265/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1976-502636), de 10 de Abril, quer constituídas antes, quer depois da entrada em vigor do referido [Decreto-Lei n.º 730/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1974-468051).
+Artigo 1.º - 1 - O disposto no [Decreto-Lei n.º 268/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1978-330177), de 31 de Agosto, é aplicável às cooperativas de habitação cujos estatutos estejam harmonizados com o estabelecido no [Decreto-Lei n.º 730/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1974-468051), de 20 de Dezembro, e as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 265/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1976-502636), de 10 de Abril, quer constituídas antes, quer depois da entrada em vigor do referido [Decreto-Lei n.º 730/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1974-468051).
 
 2 - A harmonização referida no número anterior não obriga a alteração do âmbito de actuação para as cooperativas constituídas antes da entrada em vigor do [Decreto-Lei n.º 730/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1974-468051), nos termos do n.º 1 do artigo 2.º deste decreto-lei, e não prejudica os direitos adquiridos por sócios a quem foram distribuídos fogos à entrada em vigor do [Decreto-Lei n.º 730/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1974-468051) ou que estavam inscritos até 1 de Novembro de 1974, no tocante à preferência prevista no n.º 2 do artigo 16.º do referido [Decreto-Lei n.º 730/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1974-468051).
 
 3 - Compete à entidade financiadora verificar a harmonização a que se referem os números anteriores, aquando da formulação de pedidos de financiamento pelas cooperativas interessadas.
 
-###### Art. 2.º É alargado às cooperativas referidas no artigo anterior o regime de fiscalização fixado no artigo 8.º do [Decreto-Lei n.º 737-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-a-1974-541874), de 23 de Dezembro.
+Art. 2.º É alargado às cooperativas referidas no artigo anterior o regime de fiscalização fixado no artigo 8.º do [Decreto-Lei n.º 737-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-a-1974-541874), de 23 de Dezembro.
 
-###### Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.
 
-**Promulgado em 19 de Junho de 1979.**
+Promulgado em 19 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

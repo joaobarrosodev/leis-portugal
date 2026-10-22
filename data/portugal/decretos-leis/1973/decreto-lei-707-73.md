@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30100/25062511.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/707-1973-407966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15526bcca8f0826bb46f6a8e1ca90dd0b3451f1968f8f0817f34cb446cbbc6c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4520d06566c8fa78eeac21cf2bf8ccbfe689f045b3f4107491224f46c1aed83e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Definição de Competências
+- Fardamento
+- Função Pública
+- Funcionário Público
+- Ministério das Finanças
+- Pessoal Civil
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:401058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401058:por
+  label: "Revogado pelo DEC LEI.373/84.1984.11.28.MFP, DR.IS [276]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1984-401058
+  date: '1984-11-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:55Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +118,15 @@ Considerando a necessidade de dar maior maleabilidade a algumas das disposiçõe
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e § único, 5.º e § único, 7.º, 9.º, 11.º, 12.º, 13.º e § único, 14.º, 15.º, 17.º e § único, 21.º e § único, 22.º e o n.º 2.º do artigo 28.º do Regulamento de Fardamentos e Outros Artigos de Vestuário, Resguardos e Calçado, Destinados ao Pessoal Civil dos Serviços do Estado, aprovado pelo [Decreto-Lei n.º 45678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45678-1964-472289), de 25 de Abril de 1964, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e § único, 5.º e § único, 7.º, 9.º, 11.º, 12.º, 13.º e § único, 14.º, 15.º, 17.º e § único, 21.º e § único, 22.º e o n.º 2.º do artigo 28.º do Regulamento de Fardamentos e Outros Artigos de Vestuário, Resguardos e Calçado, Destinados ao Pessoal Civil dos Serviços do Estado, aprovado pelo [Decreto-Lei n.º 45678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45678-1964-472289), de 25 de Abril de 1964, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Têm direito à concessão de fardamentos de uso geral os servidores do Estado, de ambos os sexos, pertencentes à classe do pessoal auxiliar referido no n.º 3 do artigo 23.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, dos Ministérios e serviços deles dependentes, quer sejam ou não dos quadros onde desempenham os seu cargos e seja qual for a forma do seu provimento.
+Artigo 1.º Têm direito à concessão de fardamentos de uso geral os servidores do Estado, de ambos os sexos, pertencentes à classe do pessoal auxiliar referido no n.º 3 do artigo 23.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, dos Ministérios e serviços deles dependentes, quer sejam ou não dos quadros onde desempenham os seu cargos e seja qual for a forma do seu provimento.
 
 § único. O pessoal auxiliar abrangido por esta disposição é o que presta serviço nos Gabinetes da Presidência do Conselho, dos Ministros, Secretários de Estado e Subsecretários de Estado, nas secretarias-gerais, administrações-gerais, inspecções-gerais, direcções-gerais e serviços equiparados, bem como todos os serviços dependentes daquelas entidades, quer no continente, quer nas ilhas adjacentes.
 
 ...
 
-###### Art. 5.º Os fardamentos de uso geral são constituídos por fato completo (casaco, colete e calça) e ainda por camisas e boné para o pessoal auxiliar do sexo masculino e por uniformes de bata para o do sexo feminino.
+Art. 5.º Os fardamentos de uso geral são constituídos por fato completo (casaco, colete e calça) e ainda por camisas e boné para o pessoal auxiliar do sexo masculino e por uniformes de bata para o do sexo feminino.
 
 § único. Os fatos e uniformes de bata serão dois: um, de Verão, de cor cinzenta, em tecido leve, e outro, de Inverno, em fazenda azul-escura.
 
@@ -113,11 +134,11 @@ A qualidade e as características dos tecidos a utilizar serão fixadas pelas en
 
 ...
 
-###### Art. 7.º Nos fardamentos de uso restrito compreende-se, além do sobretudo, em fazenda azul, da gabardina, também azul, do casaco de cabedal preto e dos fatos inteiriços (macaco), vários artigos de vestuário e resguardo confeccionados em tecidos e materiais diversos, compreendendo capas, casacos e calças impermeáveis, batas e aventais, bonés, luvas e outros, bem como certas espécies de calçado, em que se incluem sapatos, botas, alparcatas e tamancos.
+Art. 7.º Nos fardamentos de uso restrito compreende-se, além do sobretudo, em fazenda azul, da gabardina, também azul, do casaco de cabedal preto e dos fatos inteiriços (macaco), vários artigos de vestuário e resguardo confeccionados em tecidos e materiais diversos, compreendendo capas, casacos e calças impermeáveis, batas e aventais, bonés, luvas e outros, bem como certas espécies de calçado, em que se incluem sapatos, botas, alparcatas e tamancos.
 
 ...
 
-###### Art. 9.º reservado o uso dos seguintes artigos de fardamento:
+Art. 9.º reservado o uso dos seguintes artigos de fardamento:
 
 a) O sobretudo, aos porteiros e correios;
 
@@ -127,19 +148,19 @@ c) A gabardina, aos motoristas;
 
 d) O casaco de cabedal, aos motoristas de veículos pesados.
 
-###### Art. 11.º Serão confeccionados, respectivamente, com tecido tropical, cinza, lá terylene, e com tecido de sarja azul, lã terylene de 1.ª qualidade, os fatos para uso no Verão e no Inverno, destinados ao pessoal auxiliar ao serviço da Presidência do Conselho, da Assembleia Nacional, dos Ministros, Secretários e Subsecretários de Estado, do Supremo Tribunal de Justiça e da Procuradoria-Geral da República, do Ministério dos Negócios Estrangeiros, da Secretaria-Geral do mesmo Ministério, do Secretariado Técnico da Presidência do Conselho, do Supremo Tribunal Administrativo, do Secretariado Nacional de Emigração e ainda dos contínuos de 1.ª classe encarregados de dirigir pessoal.
+Art. 11.º Serão confeccionados, respectivamente, com tecido tropical, cinza, lá terylene, e com tecido de sarja azul, lã terylene de 1.ª qualidade, os fatos para uso no Verão e no Inverno, destinados ao pessoal auxiliar ao serviço da Presidência do Conselho, da Assembleia Nacional, dos Ministros, Secretários e Subsecretários de Estado, do Supremo Tribunal de Justiça e da Procuradoria-Geral da República, do Ministério dos Negócios Estrangeiros, da Secretaria-Geral do mesmo Ministério, do Secretariado Técnico da Presidência do Conselho, do Supremo Tribunal Administrativo, do Secretariado Nacional de Emigração e ainda dos contínuos de 1.ª classe encarregados de dirigir pessoal.
 
 § 1.º Todos estes fardamentos são classificados de 1.ª qualidade.
 
 § 2.º Serão confeccionados com popelina de algodão terylene de cor cinzenta-clara as camisas a distribuir a todo o pessoal auxiliar do sexo masculino.
 
-###### Art. 12.º Serão confeccionados com sarja cinzenta, lá terylene, os fatos de Verão, e com sarja azul, lá terylene, os fatos de Inverno, de todo o pessoal não incluído no artigo 11.º
+Art. 12.º Serão confeccionados com sarja cinzenta, lá terylene, os fatos de Verão, e com sarja azul, lá terylene, os fatos de Inverno, de todo o pessoal não incluído no artigo 11.º
 
 § 1.º Os fatos referidos são classificados de 2.ª qualidade.
 
 § 2.º As camisas a distribuir ao pessoal mencionado neste artigo serão em tudo idênticas às fornecidas nos termos do artigo 11.º
 
-###### Art. 13.º Os fardamentos, com os respectivos bonés confeccionados na mesma qualidade de fazenda, obedecerão aos seguintes requisitos:
+Art. 13.º Os fardamentos, com os respectivos bonés confeccionados na mesma qualidade de fazenda, obedecerão aos seguintes requisitos:
 
 a) O casaco é abotoado ao meio do peito, com três botões exteriores e gola aberta, deixando a descoberto o colarinho e gravata; terá duas algibeiras de peito e duas em baixo, todas exteriores e rectangulares, abotoando à portinhola com um botão preso à algibeira, e mais duas algibeiras furtadas; as costas terão costura central interrompida a 5 cm abaixo da cintura, dando lugar a uma abertura até ao fundo; mangas de largura média e comprimento normal, com dois botões de cada lado, junto ao punho; ligeiramente cintado e cobrindo o primeiro terço da coxa (fig. A e B);
 
@@ -157,7 +178,7 @@ e) A camisa será do tipo usualmente conhecido por militar, com seis botões bra
 
 § único. Os fardamentos de Verão, salvo a qualidade da fazenda, serão, em tudo o mais, iguais aos de Inverno.
 
-###### Art. 14.º Os sobretudos para os correios e porteiros, a gabardina para os motoristas e o casaco de cabedal para os motoristas de veículos pesados obedecerão às seguintes normas:
+Art. 14.º Os sobretudos para os correios e porteiros, a gabardina para os motoristas e o casaco de cabedal para os motoristas de veículos pesados obedecerão às seguintes normas:
 
 a) Os sobretudos dos correios e dos porteiros serão ligeiramente cintados, amplos, com gola aberta, na largura de 12 cm a 15 cm, abotoando com três botões ao centro, exteriores, e terão duas algibeiras laterais, metidas com a inclinação de 45º, de diante para trás; as mangas serão em tudo semelhantes às do casaco; o comprimento deve ficar a 8 cm abaixo do joelho; as costas são também semelhantes às do casaco, mas a costura central deve ser interrompida a 10 cm abaixo da cintura (figs. C e D);
 
@@ -165,25 +186,25 @@ b) As gabardinas serão de trespasse, ligeiramente cintadas, abotoando com três
 
 c) Os casacos de cabedal serão abotoados ao centro por três botões; bandas e gola aberta com 12 cm de largura; terão duas algibeiras metidas, inclinadas a 60º, com o tamanho de 16 cm por 4 cm de largura de pestana; a frente e costas, na altura da cava, serão cortadas em escapulário, e estas com costura central interrompida a 5 cm abaixo da cinta, para dar lugar a uma abertura até ao fundo; as mangas serão fechadas com presilha a partir de 4 cm acima do orlo e terão 12 cm de comprimento por 4 cm de largura, terminando com botão; cinto do mesmo material com 5 cm de largura e fivela metálica; os botões serão pretos (figs. G e H).
 
-###### Art. 15.º Os uniformes de bata, de uso geral, para o pessoal auxiliar do sexo feminino, serão de gola aberta, com a largura de 8 cm a 10 cm, abotoando ao centro com nove botões, sendo o primeiro na altura do peito e o último a 10 cm da bainha; terão uma algibeira no lado esquerdo do peito e duas em baixo, com pestana sobreposta na largura de 5 cm; as mangas serão fechadas com punho direito e botão; terão cinto com 3 cm de largura, do mesmo tecido, com fivela (fig. K).
+Art. 15.º Os uniformes de bata, de uso geral, para o pessoal auxiliar do sexo feminino, serão de gola aberta, com a largura de 8 cm a 10 cm, abotoando ao centro com nove botões, sendo o primeiro na altura do peito e o último a 10 cm da bainha; terão uma algibeira no lado esquerdo do peito e duas em baixo, com pestana sobreposta na largura de 5 cm; as mangas serão fechadas com punho direito e botão; terão cinto com 3 cm de largura, do mesmo tecido, com fivela (fig. K).
 
 ...
 
-###### Art. 17.º Todos os botões exteriores, excepto os das gabardinas e casacos de cabedal, serão dourados e com as armas nacionais em relevo, devendo os das mangas do casaco e bonés ter metade do diâmetro dos da frente do casaco. Os botões da frente dos sobretudos terão aproximadamente mais um terço do diâmetro dos da frente do casaco.
+Art. 17.º Todos os botões exteriores, excepto os das gabardinas e casacos de cabedal, serão dourados e com as armas nacionais em relevo, devendo os das mangas do casaco e bonés ter metade do diâmetro dos da frente do casaco. Os botões da frente dos sobretudos terão aproximadamente mais um terço do diâmetro dos da frente do casaco.
 
 § único. Os uniformes de bata, de uso geral, terão os botões com diâmetro igual ao dos casacos.
 
 ...
 
-###### Art. 21.º Aos fardamentos de uso geral referidos no artigo 5.º deste diploma é atribuída a duração mínima de dois anos.
+Art. 21.º Aos fardamentos de uso geral referidos no artigo 5.º deste diploma é atribuída a duração mínima de dois anos.
 
 § único. Os uniformes do pessoal do sexo feminino, bem como as camisas do pessoal do sexo masculino, serão fornecidos em número de duas unidades, de cada vez, a cada servidor.
 
-###### Art. 22.º Os sobretudos e as gabardinas referidos no artigo 7.º terão a duração mínima de três anos; o casaco de cabedal, a duração mínima de quatro anos; os fardamentos de Verão e de Inverno distribuídos aos motoristas e ajudantes ao serviço da Presidência da República, Presidência do Conselho, Assembleia Nacional, Ministros, Secretários de Estado e Subsecretários de Estado, terão a duração mínima de dezoito meses.
+Art. 22.º Os sobretudos e as gabardinas referidos no artigo 7.º terão a duração mínima de três anos; o casaco de cabedal, a duração mínima de quatro anos; os fardamentos de Verão e de Inverno distribuídos aos motoristas e ajudantes ao serviço da Presidência da República, Presidência do Conselho, Assembleia Nacional, Ministros, Secretários de Estado e Subsecretários de Estado, terão a duração mínima de dezoito meses.
 
 ...
 
-###### Art. 28.º O pessoal auxiliar com direito a fardamento deverá apresentar-se ao serviço convenientemente uniformizado, observando o seguinte:
+Art. 28.º O pessoal auxiliar com direito a fardamento deverá apresentar-se ao serviço convenientemente uniformizado, observando o seguinte:
 
 1.º É expressamente proibido:
 
@@ -215,26 +236,26 @@ d) A apresentação do fardamento em estado irrepreensível de conservação, no
 
 § 2.º ...
 
-###### Art. 2.º - 1. As batas utilizadas pelo pessoal auxiliar em serviços de limpeza ou outros, referidas nos artigos 7.º e 10.º do Regulamento, com as alterações introduzidas pelo presente decreto-lei, serão confeccionadas em caqui cinzento, do modelo único, para pessoal masculino e pessoal feminino.
+Art. 2.º - 1. As batas utilizadas pelo pessoal auxiliar em serviços de limpeza ou outros, referidas nos artigos 7.º e 10.º do Regulamento, com as alterações introduzidas pelo presente decreto-lei, serão confeccionadas em caqui cinzento, do modelo único, para pessoal masculino e pessoal feminino.
 
 2. É permitido aos serventuários do sexo feminino substituir as batas por calças confeccionadas também em caqui cinzento, com peitilho até à altura da cava e alças que, partindo das costas e cruzando-se a meio, abotoarão à frente, no peitilho.
 
 3. As calças referidas no número anterior terão aberturas laterais de 16 cm, fechando com três botões e duas algibeiras sobrepostas, de meia-lua (fig. 1).
 
-###### Art. 3.º O Regulamento de Fardamentos e Outros Artigos de Vestuário, Resguardos e Calçado, aprovado pelo [Decreto-Lei n.º 45678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45678-1964-472289), de 25 de Abril de 1964, com as modificações introduzidas pelo presente decreto-lei, poderá ser alterado e actualizado mediante portaria do Ministro das Finanças, a publicar na 2.ª série do Diário do Governo.
+Art. 3.º O Regulamento de Fardamentos e Outros Artigos de Vestuário, Resguardos e Calçado, aprovado pelo [Decreto-Lei n.º 45678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45678-1964-472289), de 25 de Abril de 1964, com as modificações introduzidas pelo presente decreto-lei, poderá ser alterado e actualizado mediante portaria do Ministro das Finanças, a publicar na 2.ª série do Diário do Governo.
 
-###### Art. 4.º 1. A Secretaria-Geral do Ministério das Finanças poderá emitir instruções, sujeitas à aprovação do Ministro das Finanças, para a boa execução do Regulamento.
+Art. 4.º 1. A Secretaria-Geral do Ministério das Finanças poderá emitir instruções, sujeitas à aprovação do Ministro das Finanças, para a boa execução do Regulamento.
 
 2. As instruções referidas no número anterior deverão ser comunicadas em circular a todos os serviços do Ministério das Finanças, às Secretarias-Gerais da Presidência da República, da Presidência do Conselho e da Assembleia Nacional, bem como às Secretarias-Gerais de todos os Ministérios.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 19 de Dezembro de 1973.**
+Promulgado em 19 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30100/25062511.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30100/25062511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30100/25062511.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

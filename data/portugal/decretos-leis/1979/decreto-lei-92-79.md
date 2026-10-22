@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1979-382654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bee95df315746c8e9f27ab5d916397c111f2d755936ba6d7ee02953cf9aaf2dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82240a3375d27c9f5f15ac188d1a2dfa57c7964a5653c7de5d140f2fb5d8bb0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ADSE
+- Aposentação
+- Assistência Médica
+- Caixa Geral de Aposentações
+- EDP
+- Empresa Pública
+- Função Pública
+- Montepio dos Servidores do Estado
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:216145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:45Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +130,26 @@ Nestes termos, tendo em vista a salvaguarda dos direitos dos trabalhadores, tal 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal afecto aos serviços de electricidade a cargo de autarquias locais, seus serviços municipalizados ou federações de municípios, a transferir para a EDP, nos termos do disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), que seja, à data da transferência, subscritor da Caixa Geral de Aposentações não perde, por esse facto, o seu direito de inscrição na mesma Caixa, continuando, por isso, em tudo subordinado ao Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+Artigo 1.º O pessoal afecto aos serviços de electricidade a cargo de autarquias locais, seus serviços municipalizados ou federações de municípios, a transferir para a EDP, nos termos do disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), que seja, à data da transferência, subscritor da Caixa Geral de Aposentações não perde, por esse facto, o seu direito de inscrição na mesma Caixa, continuando, por isso, em tudo subordinado ao Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 2.º Ao pessoal referido no artigo 1.º fica, também, assegurada a manutenção do direito de inscrição no Montepio dos Servidores do Estado, continuando, por isso, a ser-lhe aplicável o Estatuto das Pensões de Sobrevivência, em continuidade com a situação adquirida à data da sua transferência para a EDP.
+Art. 2.º Ao pessoal referido no artigo 1.º fica, também, assegurada a manutenção do direito de inscrição no Montepio dos Servidores do Estado, continuando, por isso, a ser-lhe aplicável o Estatuto das Pensões de Sobrevivência, em continuidade com a situação adquirida à data da sua transferência para a EDP.
 
-###### Art. 3.º Os encargos com as pensões de aposentação e sobrevivência dos trabalhadores referidos no artigo 1.º serão cobertos de harmonia com o que estiver, ou vier a estar, determinado em lei aplicável.
+Art. 3.º Os encargos com as pensões de aposentação e sobrevivência dos trabalhadores referidos no artigo 1.º serão cobertos de harmonia com o que estiver, ou vier a estar, determinado em lei aplicável.
 
-###### Art. 4.º Os trabalhadores referidos no artigo 1.º que, à data da sua transferência para a EDP, beneficiem, por si ou por seus familiares de assistência na doença, através da Assistência na Doença aos Servidores Civis do Estado (ADSE), nos termos do artigo 1.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 23 de Outubro de 1969, mantêm, enquanto não for tomada deliberação em contrário, os seus direitos a tal assistência nos termos e condições em que dela vinham beneficiando, continuando a considerar-se-lhes aplicáveis todas as disposições do regulamento aprovado pelo Decreto-Lei n.º 45688, de 27 de Abril de 1964, bem como as do [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, e demais legislação complementar, e ainda os despachos e instruções expedidos para sua execução.
+Art. 4.º Os trabalhadores referidos no artigo 1.º que, à data da sua transferência para a EDP, beneficiem, por si ou por seus familiares de assistência na doença, através da Assistência na Doença aos Servidores Civis do Estado (ADSE), nos termos do artigo 1.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 23 de Outubro de 1969, mantêm, enquanto não for tomada deliberação em contrário, os seus direitos a tal assistência nos termos e condições em que dela vinham beneficiando, continuando a considerar-se-lhes aplicáveis todas as disposições do regulamento aprovado pelo Decreto-Lei n.º 45688, de 27 de Abril de 1964, bem como as do [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, e demais legislação complementar, e ainda os despachos e instruções expedidos para sua execução.
 
-###### Art. 5.º Os encargos com a assistência referida no artigo 4.º, que, na situação anterior à integração, corresponderiam à comparticipação dos corpos administrativos, passam, a partir da data da transferência, a competir à EDP, que os satisfará nos mesmos termos em que, anteriormente, aqueles corpos administrativos o faziam e, designadamente, de acordo com o disposto no artigo 2.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 15 de Outubro de 1969, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 372/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1973-421834), de 24 de Julho.
+Art. 5.º Os encargos com a assistência referida no artigo 4.º, que, na situação anterior à integração, corresponderiam à comparticipação dos corpos administrativos, passam, a partir da data da transferência, a competir à EDP, que os satisfará nos mesmos termos em que, anteriormente, aqueles corpos administrativos o faziam e, designadamente, de acordo com o disposto no artigo 2.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 15 de Outubro de 1969, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 372/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1973-421834), de 24 de Julho.
 
-###### Art. 6.º Os trabalhadores referidos no artigo 1.º mantêm todos os seus direitos em matéria de abono de família e prestações complementares, nos termos do disposto no [Decreto-Lei n.º 197/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1977-252069), de 17 de Maio, e das disposições regulamentares que o complementem, ficando o seu processamento e pagamento, bem como os correspondentes encargos, directamente a cargo da EDP, em substituição das entidades por onde, até à data da transferência, tiverem sido efectuados.
+Art. 6.º Os trabalhadores referidos no artigo 1.º mantêm todos os seus direitos em matéria de abono de família e prestações complementares, nos termos do disposto no [Decreto-Lei n.º 197/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1977-252069), de 17 de Maio, e das disposições regulamentares que o complementem, ficando o seu processamento e pagamento, bem como os correspondentes encargos, directamente a cargo da EDP, em substituição das entidades por onde, até à data da transferência, tiverem sido efectuados.
 
-###### Art. 7.º As disposições do presente diploma vigorarão apenas até à definição das normas de integração dos trabalhadores referidos no artigo 1.º no regime geral da Previdência Social aplicável aos trabalhadores das empresas privadas.
+Art. 7.º As disposições do presente diploma vigorarão apenas até à definição das normas de integração dos trabalhadores referidos no artigo 1.º no regime geral da Previdência Social aplicável aos trabalhadores das empresas privadas.
 
-###### Art. 8.º Todas as dúvidas de interpretação ou quanto à aplicação das disposições deste diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia.
+Art. 8.º Todas as dúvidas de interpretação ou quanto à aplicação das disposições deste diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia.
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 2 de Abril de 1979.**
+Promulgado em 2 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

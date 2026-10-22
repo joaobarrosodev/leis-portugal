@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eae8dcb4eed41f0d8ece54bf61b94b945eebe15d0a64a12d163cdf5605969606
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 859f659194ce51a8c88520078e026ebb40e1a27a4e40679dd0b3eaf59574f47a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Transporte de Mercadorias
+- Transporte de Mercadorias Perigosas
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:457066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453778:por
+  label: "Alterado o art. 41º pelo DEC LEI.334/83.1983.07.15.MDN DR.IS [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1983-453778
+  date: '1983-07-15'
+- type: amended_by
+  target: pt:dre:386401:por
+  label: "Alterada a redacção das al b) e d) do num 1 do art 3º, o art 6º, o num 1 do art 20º o num 2 do art 23º, os num 1\
+    \ dos art 25º e 26º, acrescenta um num 9 ao art 33º e alterados os quadros I e II bem como os apêndices II e III do Regulamento\
+    \ pela PORT.346/84.1984.06.07.MES, DR.IS [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-1984-386401
+  date: '1984-06-07'
+- type: amended_by
+  target: pt:dre:228002:por
+  label: "Alterados os n.ºs 1 e 3 do artigo 1.º, os n.ºs 1 e 2 do artigo 2.º, o n.º 1 do artigo 3.º, os n.ºs 2 e 4 do artigo\
+    \ 5.º, os artigos 6.º, 9.º, 10.º, 11.º e 12.º, o n.º 4 do artigo 13.º, o artigo 14.º, o n.º 3 do artigo 30.º, os n.ºs\
+    \ 1, 2, 5, 7 e 8 do artigo 33.º, suprimido o n.º 2 do artigo 20.º, o n.º 6 do artigo 33.º e os apêndices I e II e os quadros\
+    \ I e II do Regulamento, pela PORT.367/86.17.07.1986.MAI, DR.IS [162] de 17.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-1986-228002
+  date: '1986-07-17'
+- type: cites
+  target: pt:dre:425553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560836:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:378952:por
+  label: Rectificado pela DECL.DD7260.20.08.1979.PCM, DR.IS [191] de 20.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-378952
+  date: '1979-08-20'
+- type: repealed_by
+  target: pt:dre:457066:por
+  label: "Revogado, na parte aplicável ao transporte rodoviário, pelo DEC LEI.77/97.1997.04.05.MEPAT, DR.IS-A [80], na data\
+    \ da entrada em vigor das portarias previstas nesse diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1997-457066
+  date: '1997-04-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:50Z'
   warnings: []
   errors: []
 ---
@@ -98,23 +149,23 @@ Considerando que para adaptação dos veículos automóveis existentes ou aquisi
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento sobre Transporte de Produtos Explosivos por Estrada, que faz parte integrante deste decreto-lei.
+Artigo 1.º É aprovado o Regulamento sobre Transporte de Produtos Explosivos por Estrada, que faz parte integrante deste decreto-lei.
 
-###### Art. 2.º Com excepção das disposições de natureza administrativa compatíveis com o regime estabelecido pelo Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR), aprovado para adesão pelo [Decreto-Lei n.º 45935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45935-1964-560836), de 19 de Setembro de 1964, o disposto neste Regulamento apenas se aplica ao transporte interno das mercadorias nele abrangidas e aos transportes internacionais não abrangidos pelo referido Acordo.
+Art. 2.º Com excepção das disposições de natureza administrativa compatíveis com o regime estabelecido pelo Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR), aprovado para adesão pelo [Decreto-Lei n.º 45935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45935-1964-560836), de 19 de Setembro de 1964, o disposto neste Regulamento apenas se aplica ao transporte interno das mercadorias nele abrangidas e aos transportes internacionais não abrangidos pelo referido Acordo.
 
-###### Art. 3.º As normas técnicas constantes do presente Regulamento poderão ser alteradas, com vista à sua adaptação à evolução da regulamentação internacional, por portaria conjunta do Ministro da Defesa Nacional e do Ministro dos Transportes e Comunicações.
+Art. 3.º As normas técnicas constantes do presente Regulamento poderão ser alteradas, com vista à sua adaptação à evolução da regulamentação internacional, por portaria conjunta do Ministro da Defesa Nacional e do Ministro dos Transportes e Comunicações.
 
-###### Art. 4.º Ficam revogadas as disposições referentes ao transporte rodoviário constantes do título VII do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, e o artigo 24.º, n.º 1, do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
+Art. 4.º Ficam revogadas as disposições referentes ao transporte rodoviário constantes do título VII do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, e o artigo 24.º, n.º 1, do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
 
-###### Art. 5.º Este diploma entrará em vigor cento e oitenta dias após a data da sua publicação.
+Art. 5.º Este diploma entrará em vigor cento e oitenta dias após a data da sua publicação.
 
 Carlos Alberto da Mota Pinto - José Alberto Loureiro dos Santos - António Gonçalves Ribeiro - José Ricardo Marques da Costa.
 
-**Promulgado em 16 de Abril de 1979.**
+Promulgado em 16 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Regulamento sobre Transporte de Produtos Explosivos por Estrada (RTPEE)
 
@@ -542,7 +593,7 @@ Legenda nos painéis de sinalização
 
 2 - Os painéis devem ser - de cor laranja retrorreflectora e devem ter uma cercadura de cor preta com 15 mm de largura e a seguinte legenda também de cor preta: «Perigo de explosão»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
 Estes painéis devem ser tapados ou retirados logo que os veículos estejam descarregados; nos transportes internacionais abrangidos pelo ADR não têm qualquer legenda.
 
@@ -680,7 +731,7 @@ QUADRO I
 
 Transporte de produtos de natureza diferente em veículos automóveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
 Nota. - Para averiguar se podem ou não ser carregados em conjunto determinados produtos diferentes, ou incluídos em classes ou em categorias diferentes, basta verificar no quadro qual a letra que se encontra no cruzamento da linha com a coluna respeitante àqueles produtos e atender ao seu significado.
 
@@ -688,9 +739,9 @@ QUADRO II
 
 Veículos de transporte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
-## APÊNDICE I
+APÊNDICE I
 
 Produtos explosivos abrangidos pelo artigo 2.º do RTPEE com a numeração e designações do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR).
 
@@ -904,7 +955,7 @@ b) Martinicas (fósforo e clorato).
 
 27.º Cartuchos fumígenos (luta contra os parasitas) e produtores de fumos (para fins agrícolas e florestais).
 
-## APÊNDICE II
+APÊNDICE II
 
 Matérias perigosas abrangidas pelo artigo 3.º do RTPEE com a numeração e designações do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR).
 
@@ -1082,13 +1133,13 @@ II - 1) Peróxido de acetilciclo-hexano-sulfonilo (com um teor de 78% a 82% de p
 
 Em consequência de novo acordo, passou a considerar-se também neste grupo o peroxidicarbonato de di-miristilo (de pureza técnica).
 
-## APÊNDICE III
+APÊNDICE III
 
 Inscrições nos painéis a aplicar nos veículos-cisternas e nos contentores-cisternas
 
 1 - Os números de identificação, a inscrever nos painéis rectangulares de cor laranja rectro-reflectora a aplicar nos veículos-cisternas e nos contentores-cisternas, deverão ser constituídos por algarismos de cor preta com 100 mm de altura e 15 mm de espessura; os de identificação da natureza do perigo deverão figurar na parte superior do painel e os de identificação da designação do produto transportado, na parte inferior; os dois conjuntos de algarismos deverão ficar separados por uma linha horizontal, também de cor preta e com 15 mm de espessura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
 2 - O número de identificação da natureza do perigo pode ser formado por dois ou três algarismos, indicando o primeiro o perigo principal e o segundo e o terceiro os perigos subsidiários que um determinado produto pode apresentar.
 
@@ -1098,7 +1149,7 @@ O número de identificação da designação do produto é sempre constituído p
 
 3 - As inscrições que se encontram estabelecidas para os produtos a transportar em vagões-cisternas e em contentores-cisternas, abrangidos por este regulamento, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
 4 - Para os cloratos ou cloritos, o número de identificação da natureza do perigo é formado pelos algarismos 5 e 0; o primeiro significa que se trata de produtos que apresentam o perigo inerente às matérias comburentes ou aos peróxidos orgânicos; o segundo não tem significado especial.
 
@@ -1112,12 +1163,12 @@ Como tais gases se libertam quando o produto entra em contacto com a água, sign
 
 8 - Para se poder formar ou interpretar o número de identificação da natureza do perigo correspondente a qualquer produto transportado em veículo-cisterna ou em contentor-cisterna, não mencionado no n.º 3, apresenta-se o quadro seguinte, onde se indica o significado que se encontra estabelecido, por acordo internacional, para os algarismos que o constituem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
 9 - Quando os dois primeiros algarismos do número de identificação da natureza do perigo são iguais ou correspondem a propriedades idênticas, tal indica uma intensificação do perigo principal; assim, 33 ou 43 significam que se trata de produtos muito inflamáveis, 66 corresponde a uma matéria muito tóxica e 88 a uma muito corrosiva; a combinação 22 significa, porém, que o produto é um gás refrigerado e 42 que é um sólido que pode libertar gases quando em contacto com a água.
 
 ## ANEXO IV — Localização dos painéis rectangulares e das etiquetas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
-**O Ministro da Defesa Nacional, José Alberto Loureiro dos Santos. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.**
+O Ministro da Defesa Nacional, José Alberto Loureiro dos Santos. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.

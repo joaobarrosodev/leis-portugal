@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/25900/23582358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1978-327290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4867e3ab5bdfce4382e17cdceef0789ca85b0d88d76ecd19ccfc38435f20a19e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eee4720547c14c0cc3b7ea506f035ffc9e2d7e4e8d7b9c50ddc545959ec0f3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Conciliação e Julgamento
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:18Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +113,16 @@ Acontece, entretanto, que nada impede que tais comissões mantenham as funções
 
 Nesta conformidade, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As comissões de conciliação e julgamento continuam a exercer as funções de conciliação e arbitragem voluntária, nos termos do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, e da [Portaria n.º 280/76](https://diariodarepublica.pt/dr/detalhe/portaria/280-1976-427609), de 4 de Maio.
+Artigo 1.º As comissões de conciliação e julgamento continuam a exercer as funções de conciliação e arbitragem voluntária, nos termos do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, e da [Portaria n.º 280/76](https://diariodarepublica.pt/dr/detalhe/portaria/280-1976-427609), de 4 de Maio.
 
-###### Art. 2.º Os processos pendentes nas comissões de conciliação e julgamento a aguardar julgamento transitam para o tribunal competente, a fim de aí seguirem os termos previstos na lei de processo aplicável.
+Art. 2.º Os processos pendentes nas comissões de conciliação e julgamento a aguardar julgamento transitam para o tribunal competente, a fim de aí seguirem os termos previstos na lei de processo aplicável.
 
-###### Art. 3.º Os prazos de prescrição de direito e de caducidade de acção relativos às questões emergentes das relações individuais de trabalho no âmbito da competência das comissões de conciliação e julgamento consideram-se interrompidos desde o dia 31 de Julho de 1978 até à entrada em vigor do presente diploma.
+Art. 3.º Os prazos de prescrição de direito e de caducidade de acção relativos às questões emergentes das relações individuais de trabalho no âmbito da competência das comissões de conciliação e julgamento consideram-se interrompidos desde o dia 31 de Julho de 1978 até à entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - António Seixas da Costa Leal.
 
-**Promulgado em 31 de Outubro de 1978.**
+Promulgado em 31 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

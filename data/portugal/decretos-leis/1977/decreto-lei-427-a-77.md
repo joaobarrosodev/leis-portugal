@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 238/1977, 2º Suplemento, Série I de 1977-10-14
   number: '238'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2492-(3) a 2492-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23802/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-a-1977-236682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e670588ea44993c9bfac007e5fd96ad4d156328c1d7a4fbfb2295c00bbca8259
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 767ffa16d4a3733cfbdc1e678a1d89058d14ed3dbadd2a4988dbc155b8af0a4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Imposto de Transacções
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426137:por
+  label: Alteradas as listas I, II, III e IV anexas ao Código do Imposto de Transacções aprovado pelo Dec Lei 47066 de 01-Jul
+    de 1966, substituídas pelo Dec Lei 75-G/77 de 28-Fev e alteradas pelo presente diploma, pelo DEC LEI.142/78.12.06.1978.MFP,
+    DR.IS [133]2º Supl de 12.06.1978.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1978-426137
+  date: '1978-06-12'
+- type: cites
+  target: pt:dre:142369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509017:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:280682:por
+  label: Rectificado pela DECL.DD7768.14.11.1977.PCM, DR.IS [263] de 14.11.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-280682
+  date: '1977-11-14'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:00Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +122,7 @@ de 14 de Outubro
 
 Usando da autorização concedida pela [Lei n.º 75/77](https://diariodarepublica.pt/dr/detalhe/lei/75-1977-222389), de 28 de Setembro, o Governo decreta, nos termos do n.º 1, alínea b), do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na lista I anexa ao Código do Imposto de Transacções e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, é aditada a verba n.º 8-A e alteradas a verba n.º 30, nos pontos 30.3.1, 30.3.2, 30.6.1.3, 30.7.1.4, 30.7.1.6 e 30.9, e a verba n.º 38, nos seguintes termos:
+Artigo 1.º Na lista I anexa ao Código do Imposto de Transacções e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, é aditada a verba n.º 8-A e alteradas a verba n.º 30, nos pontos 30.3.1, 30.3.2, 30.6.1.3, 30.7.1.4, 30.7.1.6 e 30.9, e a verba n.º 38, nos seguintes termos:
 
 8-A - Aparelhos, utensílios e outros objectos para utilização exclusiva de invisuais.
 
@@ -129,7 +160,7 @@ Estão excluídos desta isenção as pastas, purés e galantinas.
 
 Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código, sendo fixado em 1000$00 o limite referido no artigo 12.º do [Decreto-Lei n.º 237/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1970-142369), de 25 de Maio.
 
-###### Art. 2.º Na lista II, anexa ao referido Código e aprovada pelo citado artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), são aditadas as verbas n.os 1-A, 3-A e 4-A e alteradas as verbas n.os 3, 6 e 7, nos seguintes termos:
+Art. 2.º Na lista II, anexa ao referido Código e aprovada pelo citado artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), são aditadas as verbas n.os 1-A, 3-A e 4-A e alteradas as verbas n.os 3, 6 e 7, nos seguintes termos:
 
 1-A - Bilhetes-postais ilustrados, cartões ilustrados e cromos para saudações e correspondência; papel de carta de fantasia, decalcomanias, estampas e gravuras.
 
@@ -161,7 +192,7 @@ Exceptuam-se desta verba os bens nela referidos, quando destinados a velocípede
 
 7.2 - São, porém, excluídas desta verba: as frutas caldeadas; as pastas de frutas, frutas enlatadas, compotas e geleias.
 
-###### Art. 3.º Na lista III, anexa ao referido Código e aprovada pelo citado artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), são eliminadas as verbas n.os 6 e 11, aditadas as verbas n.os 1-A e 32-A e alteradas as verbas n.os 1, 2, 8, 16, 29 e 32, nos seguintes termos:
+Art. 3.º Na lista III, anexa ao referido Código e aprovada pelo citado artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), são eliminadas as verbas n.os 6 e 11, aditadas as verbas n.os 1-A e 32-A e alteradas as verbas n.os 1, 2, 8, 16, 29 e 32, nos seguintes termos:
 
 1 - Antiguidades, raridades e quaisquer mercadorias transaccionadas como tais.
 
@@ -213,7 +244,7 @@ Exceptuam-se desta verba as rendas e bordados regionais portugueses, bem como as
 
 Exceptuam-se desta verba as tapeçarias, tapetes e tecidos regionais portugueses, feitos à mão.
 
-###### Art. 4.º Na lista IV, anexa ao referido Código e aprovada pelo citado artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), são eliminadas as verbas n.os 3 e 14 e alteradas as verbas n.os 19 e 22, nos seguintes termos:
+Art. 4.º Na lista IV, anexa ao referido Código e aprovada pelo citado artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), são eliminadas as verbas n.os 3 e 14 e alteradas as verbas n.os 19 e 22, nos seguintes termos:
 
 19 (a) - ...
 
@@ -231,14 +262,14 @@ Excluem-se desta verba os aparelhos e máquinas cujas características os tornem
 
 Excluem-se desta verba os aparelhos e máquinas cujas características os tornem exclusivamente utilizáveis em actividades industriais, comerciais ou agrícolas.
 
-###### Art. 5.º O artigo 3.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, é rectificado nos seguintes termos:
+Art. 5.º O artigo 3.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, é rectificado nos seguintes termos:
 
 Onde se lê: «Art. 3.º O § 3.º do Código do Imposto de Transacções ...», deve ler-se: «Art. 3.º O § 3.º do artigo 3.º do Código do Imposto de Transacções ...».
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 13 de Outubro de 1977.**
+Promulgado em 13 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

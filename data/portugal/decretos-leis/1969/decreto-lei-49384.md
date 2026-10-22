@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49384-1969-216969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6185a5fb6459dfe25b6eb280f16b2100b3dbe6ee996a1cdc66694a8250f08150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 767ec4c18252f150c8f967adc169aef957228585ad7dc7cc0c9d23b71d8b283f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Câmara Corporativa
+- Procurador da República
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:510664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579496:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:142679:por
+  label: Rectificada a menção final pela DECL.DD10500.17.06.1970.PC, DG.IS [139] de 17.06.1970
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1970-142679
+  date: '1970-06-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:42Z'
   warnings: []
   errors: []
 ---
@@ -105,28 +125,28 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A secção VIII da Câmara Corporativa será constituída por quatro representantes de cada uma das secções da Corporação da Imprensa e Artes Gráficas, sendo dois das entidades patronais e dois dos profissionais.
+Artigo 1.º A secção VIII da Câmara Corporativa será constituída por quatro representantes de cada uma das secções da Corporação da Imprensa e Artes Gráficas, sendo dois das entidades patronais e dois dos profissionais.
 
-###### Art. 2.º As entidades patronais estarão representadas na secção IX da Câmara Corporativa por três Procuradores, cabendo a cada um a representação das respectivas secções da Corporação dos Espectáculos.
+Art. 2.º As entidades patronais estarão representadas na secção IX da Câmara Corporativa por três Procuradores, cabendo a cada um a representação das respectivas secções da Corporação dos Espectáculos.
 
-###### Art. 3.º - 1. Será de catorze o número de Procuradores à Câmara Corporativa a designar pelos conselhos económicos e sociais e pelos conselhos de governo das províncias ultramarinas, na proporção de quatro por cada uma das províncias de Angola e Moçambique e de um por cada uma das restantes províncias.
+Art. 3.º - 1. Será de catorze o número de Procuradores à Câmara Corporativa a designar pelos conselhos económicos e sociais e pelos conselhos de governo das províncias ultramarinas, na proporção de quatro por cada uma das províncias de Angola e Moçambique e de um por cada uma das restantes províncias.
 
 2. Enquanto se mantiver a actual situação do Estado da Índia o Procurador dessa província será designado pelo Ministro do Ultramar.
 
 3. A distribuição dos Procuradores representantes das províncias ultramarinas pelas secções e subsecções da Câmara Corporativa compete ao respectivo presidente.
 
-###### Art. 4.º - 1. Quando o bastonário de alguma ordem com representação na Câmara Corporativa se ache legalmente impedido de tomar assento nesta, recairá a representação no membro do conselho geral que este designar.
+Art. 4.º - 1. Quando o bastonário de alguma ordem com representação na Câmara Corporativa se ache legalmente impedido de tomar assento nesta, recairá a representação no membro do conselho geral que este designar.
 
 2. No caso de não se acharem legalmente impedidos, os bastonários poderão delegar a representação na Câmara Corporativa num antigo presidente do conselho geral ou em qualquer membro deste.
 
-###### Art. 5.º - 1. Este decreto-lei entra imediatamente em vigor em todo o território nacional.
+Art. 5.º - 1. Este decreto-lei entra imediatamente em vigor em todo o território nacional.
 
 2. Fica revogado o [Decreto-Lei n.º 45830](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45830-1964-579496), de 25 de Julho de 1964.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 14 de Novembro de 1969.**
+Promulgado em 14 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

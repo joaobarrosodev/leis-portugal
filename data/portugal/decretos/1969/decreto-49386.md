@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49386-1969-216971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8937107bc756f3940c71083b4c51bafea58dca146fafa3730516a68291ff298a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 406ace08f2ecc1ab851866543eb63061ec2fafab81ba4e36dcadb0b57d886ab4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:26Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +110,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos Gerais da Nação
 
@@ -180,73 +200,73 @@ Do artigo 60.º, n.º 1) «Pessoal dos quadros ...» ... -20000$00
 
 Para o artigo 61.º, n.º 1) «Ajudas de custo» ... +20000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 33055550$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 33055550$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 10.º «Secretaria de Estado da Aeronáutica» - «Regimento de Caçadores, Pára-Quedistas (Tancos) - Pessoal equiparado a militar pára-quedista»:
+Capítulo 10.º «Secretaria de Estado da Aeronáutica» - «Regimento de Caçadores, Pára-Quedistas (Tancos) - Pessoal equiparado a militar pára-quedista»:
 
-###### Artigo 317.º «Remunerações acidentais»:
+Artigo 317.º «Remunerações acidentais»:
 
 N.º 1) «Gratificações a militares dos quadros»:
 
 Alínea 3 «Pelo serviço prestado na Secretaria de Estado da Aeronáutica, nas direcções dos serviços e nos comandos e unidades da Força Aérea» ... 5280$00
 
-###### Artigo 323.º, n.º 4) «De material de defesa ...», alínea 4 «Bombas, munições, ...» ... 300000$00
+Artigo 323.º, n.º 4) «De material de defesa ...», alínea 4 «Bombas, munições, ...» ... 300000$00
 
-### Capítulo 15.º «Defesa nacional»:
+Capítulo 15.º «Defesa nacional»:
 
-###### Artigo 341.º «Base Aérea n.º 11», n.º 2) «Para pagamento das despesas com a construção do respectivo bairro residencial ...» ... 10000000$00
+Artigo 341.º «Base Aérea n.º 11», n.º 2) «Para pagamento das despesas com a construção do respectivo bairro residencial ...» ... 10000000$00
 
 ... 10305280$00
 
 Ministério das Finanças
 
-### Capítulo 14.º «Inspecção-Geral de Crédito e Seguros»:
+Capítulo 14.º «Inspecção-Geral de Crédito e Seguros»:
 
-###### Artigo 180.º, n.º 2) «Publicidade ...» ... 281500$00
+Artigo 180.º, n.º 2) «Publicidade ...» ... 281500$00
 
-###### Artigo 181.º, n.º 2) «Para pagamento de estudos ...» ... 50000$00
+Artigo 181.º, n.º 2) «Para pagamento de estudos ...» ... 50000$00
 
-### Capítulo 15.º «Casa da Moeda»:
+Capítulo 15.º «Casa da Moeda»:
 
-###### Artigo 187.º, n.º 1) «Matérias-primas ...» ... 1000000$00
+Artigo 187.º, n.º 1) «Matérias-primas ...» ... 1000000$00
 
 ... 1331500$00
 
 Ministério da Justiça
 
-### Capítulo 2.º «Conselhos superiores e institutos de criminologia»:
+Capítulo 2.º «Conselhos superiores e institutos de criminologia»:
 
 Conselho Superior Judiciário
 
-###### Artigo 16.º, n.º 1) «Luz, ...» ... 4100$00
+Artigo 16.º, n.º 1) «Luz, ...» ... 4100$00
 
-###### Artigo 17.º, n.º 2) «Telefones» ... 800$00
+Artigo 17.º, n.º 2) «Telefones» ... 800$00
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
 Tribunais de 2.ª instância
 
 Relação de Coimbra
 
-###### Artigo 85.º, n.º 2) «Telefones» ... 1600$00
+Artigo 85.º, n.º 2) «Telefones» ... 1600$00
 
 Ministério Público
 
 Ministério Público nas comarcas
 
-###### Artigo 102.º, n.º 1), alínea 1 «Subsídios a magistrados ...» ... 20000$00
+Artigo 102.º, n.º 1), alínea 1 «Subsídios a magistrados ...» ... 20000$00
 
-### Capítulo 7.º «Serviços médico-legais»:
+Capítulo 7.º «Serviços médico-legais»:
 
 Instituto de Medicina Legal do Porto
 
-###### Artigo 487.º, n.º 2) «Artigos de expediente ...» ... 40000$00
+Artigo 487.º, n.º 2) «Artigos de expediente ...» ... 40000$00
 
 Instituto de Medicina Legal de Coimbra
 
-###### Artigo 495.º «Material de consumo corrente»:
+Artigo 495.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 3500$00
 
@@ -256,103 +276,103 @@ N.º 2) «Artigos de expediente ...» ... 10000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica civil»:
+Capítulo 4.º «Aeronáutica civil»:
 
 Aeroporto do Porto
 
-###### Artigo 80.º, n.º 2) «Luz, ...» ... 10800$00
+Artigo 80.º, n.º 2) «Luz, ...» ... 10800$00
 
-###### Artigo 81.º «Despesas de comunicações»:
+Artigo 81.º «Despesas de comunicações»:
 
 N.º 2) «Telefones» ... 2900$00
 
 N.º 3) «Transportes» ... 600$00
 
-###### Artigo 84.º, n.º 1) «Força motriz» ... 9100$00
+Artigo 84.º, n.º 1) «Força motriz» ... 9100$00
 
 Aeroporto de Santa Maria
 
-###### Artigo 105.º, n.º 3) «Transportes» ... 20000$00
+Artigo 105.º, n.º 3) «Transportes» ... 20000$00
 
 Aeroporto do Sal
 
-###### Artigo 114.º, n.º 1) «De imóveis»:
+Artigo 114.º, n.º 1) «De imóveis»:
 
 Alínea 1 «Edifícios, ...» ... 52000$00
 
 Alínea 2 «Pistas, ...» ... 7200$00
 
-###### Artigo 115.º, n.º 1) «Matérias-primas ...» ... 21320$00
+Artigo 115.º, n.º 1) «Matérias-primas ...» ... 21320$00
 
-### Capítulo 7.º «Administração dos Portos do Douro e Leixões»:
+Capítulo 7.º «Administração dos Portos do Douro e Leixões»:
 
-###### Artigo 159.º «Despesas com o pessoal» ... 1500000$00
+Artigo 159.º «Despesas com o pessoal» ... 1500000$00
 
-###### Artigo 160.º «Despesas com o material» ... 3900000$00
+Artigo 160.º «Despesas com o material» ... 3900000$00
 
-###### Artigo 161.º «Pagamento de serviços ...» ... 14500000$00
+Artigo 161.º «Pagamento de serviços ...» ... 14500000$00
 
-###### Artigo 163.º «Despesas de anos económicos findos» ... 100000$00
+Artigo 163.º «Despesas de anos económicos findos» ... 100000$00
 
-### Capítulo 10.º «Gabinete de Estudos e Planeamento de Transportes Terrestres»:
+Capítulo 10.º «Gabinete de Estudos e Planeamento de Transportes Terrestres»:
 
-###### Artigo 171.º «Despesas com o material» ... 120000$00
+Artigo 171.º «Despesas com o material» ... 120000$00
 
-###### Artigo 172.º «Pagamento de serviços ...» ... 1082850$40
+Artigo 172.º «Pagamento de serviços ...» ... 1082850$40
 
-###### Artigo 173.º «Acidentes em serviço» ... 12000$00
+Artigo 173.º «Acidentes em serviço» ... 12000$00
 
 ... 21338770$40
 
 ... 33055550$40
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 5.º, artigo 107.º «Casa da Moeda - Outros serviços» ... 1000000$00
+Capítulo 5.º, artigo 107.º «Casa da Moeda - Outros serviços» ... 1000000$00
 
-### Capítulo 5.º, artigo 116.º «Portos do Douro e Leixões» ... 20000000$00
+Capítulo 5.º, artigo 116.º «Portos do Douro e Leixões» ... 20000000$00
 
-### Capítulo 8.º, artigo 223.º «Fiscalização do comércio bancário» ... 50000$00
+Capítulo 8.º, artigo 223.º «Fiscalização do comércio bancário» ... 50000$00
 
-### Capítulo 8.º, artigo 241.º «Boletim de Crédito» ... 110000$00
+Capítulo 8.º, artigo 241.º «Boletim de Crédito» ... 110000$00
 
-### Capítulo 8.º, artigo 242.º «Boletim de Seguros» ... 171500$00
+Capítulo 8.º, artigo 242.º «Boletim de Seguros» ... 171500$00
 
-### Capítulo 8.º, artigo 247.º «Gabinete de Estudos e Planeamento de Transportes Terrestres» ... 1214850$00
+Capítulo 8.º, artigo 247.º «Gabinete de Estudos e Planeamento de Transportes Terrestres» ... 1214850$00
 
-### Capítulo 9.º, artigo 309.º «Outros recursos extraordinários» ... 10000000$00
+Capítulo 9.º, artigo 309.º «Outros recursos extraordinários» ... 10000000$00
 
 ... 32546350$40
 
 Encargos Gerais da Nação
 
-### Capítulo 10.º, artigo 312.º, n.º 1) ... 305280$00
+Capítulo 10.º, artigo 312.º, n.º 1) ... 305280$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 170.º, n.º 2) ... 800$00
+Capítulo 4.º, artigo 170.º, n.º 2) ... 800$00
 
-### Capítulo 4.º, artigo 188.º, n.º 1) ... 59200$00
+Capítulo 4.º, artigo 188.º, n.º 1) ... 59200$00
 
-### Capítulo 5.º, artigo 395.º, n.º 1) ... 20000$00
+Capítulo 5.º, artigo 395.º, n.º 1) ... 20000$00
 
 ... 80000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º, artigo 77.º, n.º 2) ... 23400$00
+Capítulo 4.º, artigo 77.º, n.º 2) ... 23400$00
 
-### Capítulo 4.º, artigo 97.º, n.º 1) ... 22000$00
+Capítulo 4.º, artigo 97.º, n.º 1) ... 22000$00
 
-### Capítulo 4.º, artigo 119.º, n.º 1) ... 80520$00
+Capítulo 4.º, artigo 119.º, n.º 1) ... 80520$00
 
 ... 123920$00
 
 ... 33055550$40
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério da Justiça:
+Art. 4.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério da Justiça:
 
 A observação (a) aposta à dotação do capítulo 4.º, artigo 306.º, n.º 1), é alterada para:
 
@@ -366,11 +386,11 @@ A observação (a) aposta à dotação do capítulo 5.º, artigo 366.º, n.º 1)
 
 «Inclui 100000$00 ...»
 
-###### Art. 5.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
+Art. 5.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
 
 Reforços:
 
-###### Artigo 2.º «Remunerações acidentais»:
+Artigo 2.º «Remunerações acidentais»:
 
 N.º 2) «Remunerações por trabalhos extraordinários»:
 
@@ -378,53 +398,53 @@ Alínea 2 «Pessoal referido no artigo 59.º ...» ... 1000000$00
 
 N.º 3) «Abonos por prestação de trabalho nocturno, ...» ... 500000$00
 
-###### Artigo 5.º, n.º 2) «Móveis» ... 1500000$00
+Artigo 5.º, n.º 2) «Móveis» ... 1500000$00
 
-###### Artigo 6.º «Despesas de conservação ...»:
+Artigo 6.º «Despesas de conservação ...»:
 
 N.º 2), alínea 1 «Veículos com motor» ... 1000000$00
 
 N.º 3) «De móveis» ... 1000000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 3) «Impressos» ... 200000$00
 
 N.º 4) «Artigos de expediente ...» ... 200000$00
 
-###### Artigo 8.º, n.º 2) «Luz, ...» ... 200000$00
+Artigo 8.º, n.º 2) «Luz, ...» ... 200000$00
 
-###### Artigo 9.º, n.º 2) «Telefones» ... 200000$00
+Artigo 9.º, n.º 2) «Telefones» ... 200000$00
 
-###### Artigo 11.º «Encargos administrativos»:
+Artigo 11.º «Encargos administrativos»:
 
 N.º 5) «Aluguer de máquinas ...» ... 100000$00
 
 N.º 9) «Abono de família» ... 500000$00
 
-###### Artigo 12.º «Outros encargos»:
+Artigo 12.º «Outros encargos»:
 
 N.º 4), alínea 1 «Amortização da importância abonada pelo Estado ...» ... 1450000$00
 
 N.º 8), alínea 2 «Fundo de melhoramentos ...» ... 12050000$00
 
-###### Artigo 14.º «Despesas de anos económicos findos» ... 100000$00
+Artigo 14.º «Despesas de anos económicos findos» ... 100000$00
 
 ... 2000000$00
 
 Receita ordinária:
 
-###### Artigo 2.º «Imposto de comércio marítimo» ... 1200000$00
+Artigo 2.º «Imposto de comércio marítimo» ... 1200000$00
 
-###### Artigo 3.º «Taxa de porto» ... 13300000$00
+Artigo 3.º «Taxa de porto» ... 13300000$00
 
-###### Artigo 5.º «Armazenagem de mercadoria» ... 1200000$00
+Artigo 5.º «Armazenagem de mercadoria» ... 1200000$00
 
-###### Artigo 10.º «Guindagem» ... 1500000$00
+Artigo 10.º «Guindagem» ... 1500000$00
 
-###### Artigo 15.º «Utilização de material automóvel» ... 1300000$00
+Artigo 15.º «Utilização de material automóvel» ... 1300000$00
 
-###### Artigo 17.º «Utilização de rebocadores ...» ... 1500000$00
+Artigo 17.º «Utilização de rebocadores ...» ... 1500000$00
 
 ... 20000000$00
 
@@ -432,8 +452,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 7 de Novembro de 1969.**
+Promulgado em 7 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1980-461471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c1c52574204f6fe1fb498365534c504c63c14b17d3f006e4e5bd23d476385f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ef30a643f0fc2eeb89b824dd29cda6e3143071a63fa44bbe22fcb27083eedd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avicultura
+- Controlo Sanitário
+- Cunicultura
+- Direcção Geral de Fiscalização Económica
 relationships:
 - type: amended_by
   target: pt:dre:275605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381483:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374375:por
+  label: "Revogado o n.º 2 do artigo 1.º pelo DEC LEI.193/88.30.05.1988.MIE, DR.IS [125] de 30.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1988-374375
+  date: '1988-05-30'
+- type: repealed_by
+  target: pt:dre:575571:por
+  label: "Revogado, na parte referente à inspecção sanitária de aves, pelo DEC LEI.222/90.07.07.1990.MAPA, DR.IS [155] de\
+    \ 07.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1990-575571
+  date: '1990-07-07'
+- type: repealed_by
+  target: pt:dre:275605:por
+  label: "Revogado, na parte relativa à inspecção sanitária de coelhos, pelo DEC LEI.179/93.12.05.1993.MA, DR.IS-A [110] de\
+    \ 12.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1993-275605
+  date: '1993-05-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:48Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +127,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A marcação sanitária das carcaças não embaladas será feita por meio de selo de modelo oficial, aposto na asa ou no peito, se a carcaça for de ave, e num dos membros, se for de coelho.
+Artigo 1.º - 1 - A marcação sanitária das carcaças não embaladas será feita por meio de selo de modelo oficial, aposto na asa ou no peito, se a carcaça for de ave, e num dos membros, se for de coelho.
 
 2 - O selo mencionado no número anterior pode ser de metal, de plástico ou de outro material apropriado, desde que previamente aprovado pela Direcção-Geral dos Serviços Veterinários.
 
@@ -110,26 +139,26 @@ Est. n.º;
 
 Port.
 
-###### Art. 2.º - 1 - No caso das embalagens, a marca de aprovação sanitária poderá ser impressa em etiquetas, nas películas ou nos sacos de protecção.
+Art. 2.º - 1 - No caso das embalagens, a marca de aprovação sanitária poderá ser impressa em etiquetas, nas películas ou nos sacos de protecção.
 
 2 - As etiquetas mencionadas no número anterior poderão ser colocadas dentro de película ou saco de protecção, ou coladas por fora (autocolantes).
 
-###### Art. 3.º A marca de aprovação sanitária impressa nas etiquetas, películas ou sacos de protecção deverá ser conforme aos anexos II constantes dos regulamentos de inspecção sanitária, aprovados pelos Decretos-Leis n.os [272/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1979-381483) e [339/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1979-378678), de 3 e 25 de Agosto, respectivamente.
+Art. 3.º A marca de aprovação sanitária impressa nas etiquetas, películas ou sacos de protecção deverá ser conforme aos anexos II constantes dos regulamentos de inspecção sanitária, aprovados pelos Decretos-Leis n.os [272/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1979-381483) e [339/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1979-378678), de 3 e 25 de Agosto, respectivamente.
 
-###### Art. 4.º - 1 - As firmas fornecedoras dos selos, das etiquetas, das películas ou sacos impressos com a marca de aprovação sanitária só os poderão vender aos estabelecimentos de abate devidamente legalizados.
+Art. 4.º - 1 - As firmas fornecedoras dos selos, das etiquetas, das películas ou sacos impressos com a marca de aprovação sanitária só os poderão vender aos estabelecimentos de abate devidamente legalizados.
 
 2 - Os pedidos para obtenção de selos, etiquetas, películas e sacos mencionados no número anterior só deverão ser satisfeitos, pelas firmas fornecedoras, mediante apresentação da respectiva requisição, assinada pelo médico veterinário inspector a prestar serviço no estabelecimento de abate a que os mesmos se destinem.
 
-###### Art. 5.º Todo aquele que fabricar, vender ou utilizar selos ou etiquetas, películas ou sacos de protecção com marcas de aprovação sanitária, com infracção do disposto no presente diploma, incorrerá na multa de 5000$00 a 50000$00, que será elevada para o dobro em caso de reincidência, sem prejuízo da aplicação de outras sanções a que as faltas cometidas derem causa nos termos da lei geral ou especial.
+Art. 5.º Todo aquele que fabricar, vender ou utilizar selos ou etiquetas, películas ou sacos de protecção com marcas de aprovação sanitária, com infracção do disposto no presente diploma, incorrerá na multa de 5000$00 a 50000$00, que será elevada para o dobro em caso de reincidência, sem prejuízo da aplicação de outras sanções a que as faltas cometidas derem causa nos termos da lei geral ou especial.
 
-###### Art. 6.º Em conformidade com a legislação em vigor, a fiscalização do disposto no presente diploma compete à Direcção-Geral de Fiscalização Económica.
+Art. 6.º Em conformidade com a legislação em vigor, a fiscalização do disposto no presente diploma compete à Direcção-Geral de Fiscalização Económica.
 
-###### Art. 7.º Este diploma entra em vigor cento e vinte dias após a sua publicação.
+Art. 7.º Este diploma entra em vigor cento e vinte dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 23 de Setembro de 1980.**
+Promulgado em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

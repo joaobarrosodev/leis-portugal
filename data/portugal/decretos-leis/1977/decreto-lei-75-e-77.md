@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(15) a 318-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00150016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-e-1977-509015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6fd6f81dd4f6c9a08be655e829a1aa4bfe1905415f3b39b31f4f0e3c1c606b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd4fc005bdde1c503b004be61abdbe2c1d615b4109f0b53611f5d4acc59805f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspeção Geral de Finanças
+- Multa
+- Publicitação
+- Regime Jurídico
+- Relatório e Contas
+- Sociedade Anónima
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250583:por
+  label: "Dada nova redacção ao nº 1 do art. 2º pelo DEC LEI.279/77.05.07.1977.MF, DR.IS [153] de 05.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-1977-250583
+  date: '1977-07-05'
+- type: cites
+  target: pt:dre:427119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680199:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:52Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +121,7 @@ Importando tal facto a fixação de um novo calendário para o cumprimento das o
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As sociedades anónimas que por qualquer razão não tenham obtido aprovação dos relatórios e contas do exercício de 1975, nomeadamente por não se ter efectuado a assembleia geral, deverão, no prazo de trinta dias a contar da data da entrada em vigor do presente diploma:
+Artigo 1.º - 1. As sociedades anónimas que por qualquer razão não tenham obtido aprovação dos relatórios e contas do exercício de 1975, nomeadamente por não se ter efectuado a assembleia geral, deverão, no prazo de trinta dias a contar da data da entrada em vigor do presente diploma:
 
 a) Comunicar à Inspecção-Geral de Finanças o facto de não ter tido lugar a aprovação dos relatórios e contas referidos;
 
@@ -106,32 +131,32 @@ b) Enviar à Inspecção-Geral de Finanças os relatórios e contas do exercíci
 
 3. O não cumprimento do disposto na alínea b) do n.º 1 fará incorrer a sociedade em multa de 5000$00 a 20000$00.
 
-###### Art. 2.º - 1. No prazo de sessenta dias após a data da comunicação da aprovação do parecer da Inspecção-Geral de Finanças, devem os relatórios e contas do exercício de 1975 - documentos enumerados nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 147/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1972-680199), de 5 de Maio - ser apresentados para publicação no Diário da República e num dos jornais mais lidos da localidade.
+Art. 2.º - 1. No prazo de sessenta dias após a data da comunicação da aprovação do parecer da Inspecção-Geral de Finanças, devem os relatórios e contas do exercício de 1975 - documentos enumerados nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 147/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1972-680199), de 5 de Maio - ser apresentados para publicação no Diário da República e num dos jornais mais lidos da localidade.
 
 2. Independentemente da responsabilidade pela falta de cumprimento do n.º 1, a sociedade infractora terá de proceder à publicação completa de todos os documentos em falta ou, pelo menos, de os apresentar para publicação no Diário da República e num dos jornais mais lidos na localidade no prazo de trinta dias a contar da notificação que lhe haja sido feita pela Inspecção-Geral de Finanças para nova publicação completa dos documentos.
 
 3. A inobservância do disposto em qualquer dos números precedentes é punível com multa de 5000$00 a 100000$00.
 
-###### Art. 3.º - 1. As sociedades a que se refere o artigo 1.º devem comunicar, por escrito, à Inspecção-Geral de Finanças a data de apresentação para publicação no Diário da República a que se refere o n.º 1 do artigo 2.º, no prazo de quinze dias após o decurso do prazo de sessenta dias fixado no mesmo número.
+Art. 3.º - 1. As sociedades a que se refere o artigo 1.º devem comunicar, por escrito, à Inspecção-Geral de Finanças a data de apresentação para publicação no Diário da República a que se refere o n.º 1 do artigo 2.º, no prazo de quinze dias após o decurso do prazo de sessenta dias fixado no mesmo número.
 
 2. A falta de comunicação constituirá presunção da não apresentação.
 
-###### Art. 4.º - 1. No prazo de trinta dias após a publicação no Diário da República e num dos jornais mais lidos na localidade, devem as sociedades comunicar à Inspecção-Geral de Finanças as datas e locais das respectivas publicações.
+Art. 4.º - 1. No prazo de trinta dias após a publicação no Diário da República e num dos jornais mais lidos na localidade, devem as sociedades comunicar à Inspecção-Geral de Finanças as datas e locais das respectivas publicações.
 
 2. A falta de cumprimento do estabelecido no número anterior é punível com multa de 1000$00 a 10000$00.
 
-###### Art. 5.º - 1. O regime previsto nas disposições anteriores aplicar-se-á igualmente a todas as empresas públicas e nacionalizadas que à data da publicação deste diploma não tenham obtido aprovação dos relatórios e contas do exercício de 1975 ou não tenham procedido à sua publicação.
+Art. 5.º - 1. O regime previsto nas disposições anteriores aplicar-se-á igualmente a todas as empresas públicas e nacionalizadas que à data da publicação deste diploma não tenham obtido aprovação dos relatórios e contas do exercício de 1975 ou não tenham procedido à sua publicação.
 
 2. Na última hipótese prevista no número anterior - estando os relatórios e contas já aprovados mas ainda não publicados -, o prazo para a respectiva publicação, nos termos do n.º 1 do artigo 2.º, contar-se-á desde a data da entrada em vigor do presente diploma.
 
-###### Art. 6.º As sanções previstas neste diploma são aplicáveis pelo Ministro das Finanças, em processos de transgressão instaurados pela Inspecção-Geral de Finanças, nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 458/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1976-427119), de 9 de Junho.
+Art. 6.º As sanções previstas neste diploma são aplicáveis pelo Ministro das Finanças, em processos de transgressão instaurados pela Inspecção-Geral de Finanças, nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 458/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1976-427119), de 9 de Junho.
 
-###### Art. 7.º O presente diploma entre em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entre em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -49,36 +49,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45599-1964-470027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e66c3ef081b34942ccdc91012b3b20cc1566ad03218252816321d32ab1c9a65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0a5c3bc206ba222a383c97f5aa1cc940f3789d5601e2824163e29d68e838b41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Direcção Geral da Contabilidade Pública
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento Geral do Estado
+- Transferência de Verbas
 relationships: []
 article_structure:
-  article_count: 3
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:15Z'
   warnings: []
   errors: []
 ---
@@ -97,27 +103,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 208014837$40, devendo a mesma importância ser adicionada à verba inscrita no artigo 308.º «Forças militares extraordinárias no ultramar», capítulo 12.º, do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 208014837$40, devendo a mesma importância ser adicionada à verba inscrita no artigo 308.º «Forças militares extraordinárias no ultramar», capítulo 12.º, do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
 
-###### Art. 2.º Para compensação do crédito aludido no artigo precedente, são feitas as seguintes alterações no orçamento das receitas do Estado presentemente em execução:
+Art. 2.º Para compensação do crédito aludido no artigo precedente, são feitas as seguintes alterações no orçamento das receitas do Estado presentemente em execução:
 
-### Capitulo 7.º «Reembolsos e reposições»:
+Capitulo 7.º «Reembolsos e reposições»:
 
-###### Artigo 200.º «Reposições não abatidas nos pagamentos» ... +58014837$40
+Artigo 200.º «Reposições não abatidas nos pagamentos» ... +58014837$40
 
-### Capítulo 9.º «Receita extraordinária»:
+Capítulo 9.º «Receita extraordinária»:
 
-###### Artigo 273.º «Importância de parte dos saldos de contas de anos económicos
+Artigo 273.º «Importância de parte dos saldos de contas de anos económicos
 
 findos» ... +150000000$00
 
 ... 208014837$40
 
-###### Art. 3.º A fim de satisfazer os encargos respeitantes ao ano económico de 1963 por conta do crédito aberto pelo artigo 1.º deste diploma, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública, desde já, autorizada a ordenar pagamentos até ao montante de 150000000$00, ficando a restante quantia de 58014837$40 condicionada à efectivação da receita respeitante às reposições não abatidas nos pagamentos referida no artigo anterior.
+Art. 3.º A fim de satisfazer os encargos respeitantes ao ano económico de 1963 por conta do crédito aberto pelo artigo 1.º deste diploma, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública, desde já, autorizada a ordenar pagamentos até ao montante de 150000000$00, ficando a restante quantia de 58014837$40 condicionada à efectivação da receita respeitante às reposições não abatidas nos pagamentos referida no artigo anterior.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

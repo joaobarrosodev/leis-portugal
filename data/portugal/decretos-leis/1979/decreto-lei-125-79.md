@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10700/08680872.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cb7b4edbbd319db132b7b383299731acaa85820e1ec342467aef0f5c713acf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef0a40de735ceda340cac5094d64fd785dd00161cca991fa7ba7586d04f83393
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Empresas
+- Definição de Competências
+- Estatuto
+- Parageste-Sociedade Parabancária para a Recuperação de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378957:por
+  label: "Alterada a designação da Sociedade Parabancária Parageste, criada pelo presente diploma, pelo DEC LEI.310/79.20.08.1979.MFP,\
+    \ DR.IS [191] de 20.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-1979-378957
+  date: '1979-08-20'
+- type: amended_by
+  target: pt:dre:311459:por
+  label: Alterados o nº 1 do art. 1º, o nº 1 do art. 2º e as als. a), b), d) e e) do art. 3º, o art. 5.º passa a constituir
+    o art. 4.º, sendo o seu texto alterado, o art. 7.º passa a constituir o art. 5.º, o art. 8.º passa a constituir o art.
+    6.º, n.º 1 do art. 9.º passa a constituir o n.º 1 do art. 7.º, sendo o seu texto alterado, o n.º 2 do art. 9.º passa a
+    constituir o n.º 2 do art. 7.º, sendo o seu texto alterado, é suprimido o n.º 3 do art. 9.º, o n.º 4 do art. 9.º passa
+    a constituir o n.º 3 do art. 7.º, o art. 10.º passa a constituir o art. 8.º, o art 11.º passa a constituir o art 9.º,
+    sendo o seu texto alterado, o art. 12.º passa a constituir o n.º 1 do art. 12.º, aditado um n.º 2 e um n.º 3 ao art. 12.º,
+    alterados os arts. 10.º, 11.º, 13.º, 14.º e 15.º, o art. 16.º passa a constituir o art. 17.º, e republicado o presente
+    diploma, pelo(a) Decreto-Lei n.º 120/83 - Diário da República n.º 49/1983, Série I de 1983-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1983-311459
+  date: '1983-03-01'
+- type: amended_by
+  target: pt:dre:183017:por
+  label: Alterado o n.º 4 do art. 15.º e revogados os arts. 5.º, 6.º e 7.º e os n.os 5 e 6 do art. 15.º do do presente diploma,
+    todos na redação do Dec Lei 120/83 de 01-mar, pelo(a) Decreto-Lei n.º 231/85 - Diário da República n.º 151/1985, Série
+    I de 1985-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1985-183017
+  date: '1985-07-04'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:35Z'
   warnings: []
   errors: []
 ---
@@ -108,17 +147,17 @@ Deste modo, entendeu-se que deveria revestir a forma de sociedade anónima, cujo
 
 Assim, o Governo decreta, nos termos da alínea a) da n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada uma sociedade anónima de responsabilidade limitada com a designação de Parageste - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., cujo capital social será subscrito pelas instituições de crédito do sector público e que se regerá pelas normas do presente decreto-lei, pela legislação das instituições parabancárias e demais legislação aplicável.
+Artigo 1.º - 1 - É criada uma sociedade anónima de responsabilidade limitada com a designação de Parageste - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., cujo capital social será subscrito pelas instituições de crédito do sector público e que se regerá pelas normas do presente decreto-lei, pela legislação das instituições parabancárias e demais legislação aplicável.
 
 2 - É aprovado o Estatuto da Sociedade, que se publica em anexo ao presente diploma, dele fazendo parte integrante.
 
 3 - As alterações ao Estatuto da Sociedade serão aprovadas por portaria do Ministro das Finanças e do Plano.
 
-###### Art. 2.º - 1 - O objecto da Sociedade consiste na recuperação de empresas de estatuto privado em dificuldades financeiras, mas economicamente viáveis, num quadro de colaboração com as instâncias governamentais na implementação das políticas sectoriais ou regionais que superiormente forem definidas e de molde a acautelar os diferentes interesses envolvidos.
+Art. 2.º - 1 - O objecto da Sociedade consiste na recuperação de empresas de estatuto privado em dificuldades financeiras, mas economicamente viáveis, num quadro de colaboração com as instâncias governamentais na implementação das políticas sectoriais ou regionais que superiormente forem definidas e de molde a acautelar os diferentes interesses envolvidos.
 
 2 - O disposto no número anterior não impede que a Sociedade analise propostas formuladas por empresas de comprovada solidez económico-financeira e tendentes a realizar com uma empresa assistida pela Sociedade qualquer operação de fusão, absorção ou compra, ou ainda um agrupamento complementar de empresas em ordem à concretização de determinado projecto de desenvolvimento, racionalização de circuitos económicos ou aproveitamento de complementaridades empresariais.
 
-###### Art. 3.º Para a prossecução do seu objecto estatutário, compete à Sociedade, especialmente:
+Art. 3.º Para a prossecução do seu objecto estatutário, compete à Sociedade, especialmente:
 
 a) O exercício da competência atribuída à comissão de apreciação para os contratos de viabilização, criada pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril;
 
@@ -130,17 +169,17 @@ d) Solicitar a colaboração, para fins específicos que se prendam com o seu ob
 
 e) Controlar, conjuntamente com as instituições de crédito e em especial com aquela que for a principal credora, a execução de programas para a recuperação de empresas, adequando os meios a utilizar em função da realidade por estas vivida.
 
-###### Art. 4.º Para o exercício das funções previstas na alínea a) do artigo anterior, o Ministro das Finanças e do Plano definirá, por portaria, quando e se for reputada necessária, a adequação do mecanismo previsto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
+Art. 4.º Para o exercício das funções previstas na alínea a) do artigo anterior, o Ministro das Finanças e do Plano definirá, por portaria, quando e se for reputada necessária, a adequação do mecanismo previsto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
 
-###### Art. 5.º As condições de acesso de uma empresa à actuação da Sociedade serão definidas anualmente por despacho do Ministro das Finanças e do Plano, sob proposta do conselho de administração da Sociedade.
+Art. 5.º As condições de acesso de uma empresa à actuação da Sociedade serão definidas anualmente por despacho do Ministro das Finanças e do Plano, sob proposta do conselho de administração da Sociedade.
 
-###### Art. 6.º Compete ao Ministro das Finanças e do Plano decidir sobre os incentivos e a adopção das demais actuações que se inscreverem no objecto da Sociedade a empresas cujo estudo tenha sido a esta cometido, nos termos da alínea b) do artigo 3.º, sob proposta do seu conselho de administração.
+Art. 6.º Compete ao Ministro das Finanças e do Plano decidir sobre os incentivos e a adopção das demais actuações que se inscreverem no objecto da Sociedade a empresas cujo estudo tenha sido a esta cometido, nos termos da alínea b) do artigo 3.º, sob proposta do seu conselho de administração.
 
-###### Art. 7.º Mediante proposta da Sociedade, poderá o Ministro das Finanças e do Plano, ouvido o Banco de Portugal, autorizar a Sociedade a subscrever obrigações de tipo especial, nomeadamente obrigações com taxa de juro e plano de amortização variáveis em função dos lucros das empresas, dotando-a, para o efeito, dos fundos necessários.
+Art. 7.º Mediante proposta da Sociedade, poderá o Ministro das Finanças e do Plano, ouvido o Banco de Portugal, autorizar a Sociedade a subscrever obrigações de tipo especial, nomeadamente obrigações com taxa de juro e plano de amortização variáveis em função dos lucros das empresas, dotando-a, para o efeito, dos fundos necessários.
 
-###### Art. 8.º Poderá também, a título excepcional, o Ministro das Finanças e do Plano autorizar a concessão de empréstimos a médio e longo prazos pela Sociedade, mediante proposta fundamentada desta, quando a actividade, a natureza jurídica e a dimensão da empresa assistida o justificarem e a sua capacidade de reembolso inequivocamente o permitir, dotando-a, para o efeito, dos fundos necessários.
+Art. 8.º Poderá também, a título excepcional, o Ministro das Finanças e do Plano autorizar a concessão de empréstimos a médio e longo prazos pela Sociedade, mediante proposta fundamentada desta, quando a actividade, a natureza jurídica e a dimensão da empresa assistida o justificarem e a sua capacidade de reembolso inequivocamente o permitir, dotando-a, para o efeito, dos fundos necessários.
 
-###### Art. 9.º - 1 - O prazo máximo dos empréstimos, referidos nos artigos 7.º e 8.º não poderá exceder quinze anos, incluindo um diferimento até três anos.
+Art. 9.º - 1 - O prazo máximo dos empréstimos, referidos nos artigos 7.º e 8.º não poderá exceder quinze anos, incluindo um diferimento até três anos.
 
 2 - As condições de concessão destes empréstimos designadamente as taxas de juro, as comissões a cobrar pela Sociedade e as suas garantias, serão estabelecidas, anualmente, por portaria do Ministro das Finanças e do Plano.
 
@@ -148,29 +187,29 @@ e) Controlar, conjuntamente com as instituições de crédito e em especial com 
 
 4 - O contrôle da aplicação dos referidos empréstimos caberá à Sociedade e à instituição bancária nacional principal credora, através da qual serão levantados os fundos mutuados.
 
-###### Art. 10.º Dado o objecto da Sociedade, no caso de não ser possível, num determinado exercício, a cobertura dos custos pelos proveitos, a diferença será suportada pelas instituições accionistas, segundo critérios a definir em assembleia geral.
+Art. 10.º Dado o objecto da Sociedade, no caso de não ser possível, num determinado exercício, a cobertura dos custos pelos proveitos, a diferença será suportada pelas instituições accionistas, segundo critérios a definir em assembleia geral.
 
-###### Art. 11.º Os benefícios financeiros a conceder às empresas abrangidas pelo artigo 2.º atenderão à política monetária definida pelo Governo e serão suportados pelas instituições de crédito credoras e pelo Fundo de Compensação criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
+Art. 11.º Os benefícios financeiros a conceder às empresas abrangidas pelo artigo 2.º atenderão à política monetária definida pelo Governo e serão suportados pelas instituições de crédito credoras e pelo Fundo de Compensação criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
 
-###### Art. 12.º Os benefícios fiscais que eventualmente venham a ser concedidos às empresas integradas na acção da Sociedade constarão de lista que, para o efeito, será definida pela Assembleia da República, sob proposta de lei a submeter pelo Governo.
+Art. 12.º Os benefícios fiscais que eventualmente venham a ser concedidos às empresas integradas na acção da Sociedade constarão de lista que, para o efeito, será definida pela Assembleia da República, sob proposta de lei a submeter pelo Governo.
 
-###### Art. 13.º - 1 - A proposta da Sociedade a submeter ao Ministro das Finanças e do Plano incluirá, para além dos benefícios enunciados nos artigos anteriores, medidas de saneamento financeiro de grau e amplitude diverso em função da dificuldade de recuperação diagnosticada para a empresa assistida, e bem assim as actuações a desenvolver pelas instituições de crédito, pela empresa e pela Sociedade.
+Art. 13.º - 1 - A proposta da Sociedade a submeter ao Ministro das Finanças e do Plano incluirá, para além dos benefícios enunciados nos artigos anteriores, medidas de saneamento financeiro de grau e amplitude diverso em função da dificuldade de recuperação diagnosticada para a empresa assistida, e bem assim as actuações a desenvolver pelas instituições de crédito, pela empresa e pela Sociedade.
 
 2 - Não poderá ser declarada a falência de uma empresa enquanto for assistida pela Sociedade, na sequência do despacho de homologação a que se refere o artigo 14.º
 
-###### Art. 14.º A atribuição concreta dos benefícios previstos nos artigos 11.º e 12.º dependerá de despacho de homologação do Ministro das Finanças e do Plano, sob proposta da Sociedade.
+Art. 14.º A atribuição concreta dos benefícios previstos nos artigos 11.º e 12.º dependerá de despacho de homologação do Ministro das Finanças e do Plano, sob proposta da Sociedade.
 
-###### Art. 15.º A assembleia geral da Sociedade deverá reunir-se dentro do prazo de quinze dias após a constituição da mesma para a eleição do respectivo conselho de administração e demais órgãos sociais, nos termos estatutários.
+Art. 15.º A assembleia geral da Sociedade deverá reunir-se dentro do prazo de quinze dias após a constituição da mesma para a eleição do respectivo conselho de administração e demais órgãos sociais, nos termos estatutários.
 
-###### Art. 16.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 16.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 30 de Abril de 1979.**
+Promulgado em 30 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA PARAGESTE
 
@@ -178,17 +217,17 @@ ESTATUTO DA PARAGESTE
 
 #### SECÇÃO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A Sociedade é uma instituição parabancária, constitui-se sob a forma de sociedade anónima de responsabilidade limitada e adopta a denominação de Parageste - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L.
+Artigo 1.º A Sociedade é uma instituição parabancária, constitui-se sob a forma de sociedade anónima de responsabilidade limitada e adopta a denominação de Parageste - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L.
 
-###### Art. 2.º - 1 - A Sociedade tem a sua sede em Lisboa.
+Art. 2.º - 1 - A Sociedade tem a sua sede em Lisboa.
 
 2 - Por deliberação do conselho de administração, poderão criar-se em qualquer ponto do território nacional delegações ou qualquer forma de representação da Sociedade.
 
 3 - É desde já criada uma delegação no Porto.
 
-###### Art. 3.º A duração da Sociedade é por tempo indeterminado.
+Art. 3.º A duração da Sociedade é por tempo indeterminado.
 
-###### Art. 4.º - 1 - A Sociedade tem por objecto o exercício de actividades tendentes à recuperação de empresas de estatuto privado em dificuldades financeiras, mas economicamente viáveis, num quadro de cooperação com as instâncias governamentais na implementação das políticas sectoriais ou regionais que superiormente forem definidas e de molde a acautelar os diferentes interesses envolvidos.
+Art. 4.º - 1 - A Sociedade tem por objecto o exercício de actividades tendentes à recuperação de empresas de estatuto privado em dificuldades financeiras, mas economicamente viáveis, num quadro de cooperação com as instâncias governamentais na implementação das políticas sectoriais ou regionais que superiormente forem definidas e de molde a acautelar os diferentes interesses envolvidos.
 
 2 - Compreendem-se, nomeadamente, neste objecto:
 
@@ -198,29 +237,29 @@ b) Recorrer a organismos governamentais e instituições especializadas na área
 
 c) Desenvolver actuações tendentes, designadamente, a estabelecer contactos com organismos vocacionados à promoção de exportações e a promover agrupamentos complementares de empresas, quando reputados vantajosos.
 
-###### Art. 5.º A Sociedade não poderá, em quaisquer circunstâncias, participar no capital de outras empresas.
+Art. 5.º A Sociedade não poderá, em quaisquer circunstâncias, participar no capital de outras empresas.
 
 #### SECÇÃO II — Do capital social
 
-###### Art. 6.º - 1 - O capital social é de 30000 contos, dividido em 30000 acções de 1000$00 cada uma, a subscrever pelas instituições de crédito do sector público.
+Art. 6.º - 1 - O capital social é de 30000 contos, dividido em 30000 acções de 1000$00 cada uma, a subscrever pelas instituições de crédito do sector público.
 
 2 - Para efeitos do número anterior, o Banco de Portugal, após audição das instituições de crédito do sector público, proporá ao Ministro das Finanças e do Plano o rateio das referidas acções por essas instituições.
 
 3 - A realização do capital social far-se-á em numerário e imediatamente após a aprovação da proposta a que se refere o número anterior.
 
-###### Art. 7.º - 1 - O aumento do capital social depende de deliberação da assembleia geral, tomada por accionistas que representem pelo menos 75% dos votos conferidos por todas as acções emitidas.
+Art. 7.º - 1 - O aumento do capital social depende de deliberação da assembleia geral, tomada por accionistas que representem pelo menos 75% dos votos conferidos por todas as acções emitidas.
 
 2 - A realização dos aumentos de capital social que forem deliberados poderá ser efectuada escalonadamente, na medida que for fixada pela assembleia geral.
 
 3 - O Ministro das Finanças e do Plano poderá determinar, a todo o tempo, aumentos de capital social, a realizar mediante entradas de outras empresas públicas ou do próprio Estado.
 
-###### Art. 8.º O património próprio da Sociedade é constituído pelos bens, direitos e obrigações adquiridos ou contraídos para ou no exercício da sua actividade.
+Art. 8.º O património próprio da Sociedade é constituído pelos bens, direitos e obrigações adquiridos ou contraídos para ou no exercício da sua actividade.
 
 ### CAPÍTULO II — Dos órgãos sociais
 
 #### SECÇÃO I — Da assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral é composta pelos accionistas com direito, pelo menos, a um voto.
+Art. 9.º - 1 - A assembleia geral é composta pelos accionistas com direito, pelo menos, a um voto.
 
 2 - Poderão participar nos trabalhos da assembleia, sem direito a voto, os membros do conselho de administração e do conselho fiscal.
 
@@ -230,7 +269,7 @@ c) Desenvolver actuações tendentes, designadamente, a estabelecer contactos co
 
 5 - Os accionistas deverão indicar ao presidente da mesa, até dez dias antes do dia marcado para a reunião, quem os representará na assembleia geral.
 
-###### Art. 10.º Compete à assembleia geral:
+Art. 10.º Compete à assembleia geral:
 
 a) Definir políticas gerais relativas à actividade da Sociedade, subordinando-as aos planos económicos nacionais e às políticas globais e sectoriais do Governo;
 
@@ -248,21 +287,21 @@ g) Definir os critérios de cobertura da diferença entre os custos e os proveit
 
 h) Discutir qualquer outro assunto para que seja convocada.
 
-###### Art. 11.º A mesa da assembleia geral, eleita pelos accionistas por um período de três anos, renovável, será composta por um presidente, um vice-presidente e dois secretários, cujas faltas e impedimentos serão supridos nos termos da lei comercial.
+Art. 11.º A mesa da assembleia geral, eleita pelos accionistas por um período de três anos, renovável, será composta por um presidente, um vice-presidente e dois secretários, cujas faltas e impedimentos serão supridos nos termos da lei comercial.
 
-###### Art. 12.º A assembleia geral reunirá ordinariamente uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando seja requerido por accionistas que representem, pelo menos, 25% do capital social.
+Art. 12.º A assembleia geral reunirá ordinariamente uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando seja requerido por accionistas que representem, pelo menos, 25% do capital social.
 
-###### Art. 13.º A cada 100 acções corresponderá um voto na assembleia geral.
+Art. 13.º A cada 100 acções corresponderá um voto na assembleia geral.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 14.º - 1 - O conselho de administração será composto por um presidente e dois vogais.
+Art. 14.º - 1 - O conselho de administração será composto por um presidente e dois vogais.
 
 2 - O presidente do conselho de administração será nomeado pelo Conselho de Ministros, sob proposta do Ministro das Finanças e do Plano, ouvido o Banco de Portugal.
 
 3 - O mandato dos membros do conselho de administração é de três anos, renovável.
 
-###### Art. 15.º - 1 - Ao conselho de administração são conferidos todos os poderes necessários para assegurar o bom funcionamento e o correcto exercício das atribuições da Sociedade, que não estejam, por força da lei ou do presente Estatuto, cometidas a outros órgãos.
+Art. 15.º - 1 - Ao conselho de administração são conferidos todos os poderes necessários para assegurar o bom funcionamento e o correcto exercício das atribuições da Sociedade, que não estejam, por força da lei ou do presente Estatuto, cometidas a outros órgãos.
 
 2 - Compete, em especial, ao conselho de administração:
 
@@ -280,19 +319,19 @@ f) Constituir mandatários com os poderes que julgue necessários.
 
 3 - A competência do conselho de administração será exercida sem prejuízo do disposto no artigo 24.º
 
-###### Art. 16.º O conselho de administração reúne ordinariamente, pelo menos, uma vez por semana.
+Art. 16.º O conselho de administração reúne ordinariamente, pelo menos, uma vez por semana.
 
-###### Art. 17.º - 1 - Para o conselho de administração deliberar validamente é indispensável a presença da maioria dos seus membros.
+Art. 17.º - 1 - Para o conselho de administração deliberar validamente é indispensável a presença da maioria dos seus membros.
 
 2 - As deliberações, que constarão sempre de acta, serão tomadas por maioria dos votos presentes, tendo o presidente voto de qualidade.
 
 3 - Nas suas faltas e impedimentos, o presidente será substituído pelo administrador por ele designado ou, na falta de designação, pelo que representar o accionista maioritário.
 
-###### Art. 18.º - 1 - O conselho de administração será directamente assessorado no exercício das suas funções por dois directores-coordenadores.
+Art. 18.º - 1 - O conselho de administração será directamente assessorado no exercício das suas funções por dois directores-coordenadores.
 
 2 - Um director-coordenador exercerá as suas funções na delegação do Porto.
 
-###### Art. 19.º - 1 - A Sociedade só se obriga:
+Art. 19.º - 1 - A Sociedade só se obriga:
 
 a) Pela assinatura de dois administradores;
 
@@ -302,23 +341,23 @@ b) Pela assinatura de um administrador e de um director-coordenador.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 20.º - 1 - O conselho fiscal é constituído por um presidente e dois vogais.
+Art. 20.º - 1 - O conselho fiscal é constituído por um presidente e dois vogais.
 
 2 - O presidente do conselho fiscal é nomeado pelo Conselho de Ministros, sob proposta do Ministro das Finanças e do Plano.
 
 3 - O mandato dos membros do conselho fiscal é de três anos, renovável.
 
-###### Art. 21.º - 1 - As funções do conselho fiscal são as definidas na lei.
+Art. 21.º - 1 - As funções do conselho fiscal são as definidas na lei.
 
 2 - O conselho fiscal deverá informar, pelo menos trimestralmente, o Ministro das Finanças e do Plano acerca do funcionamento da Sociedade e grau de consecução dos objectivos por esta prosseguidos.
 
-###### Art. 22.º O conselho fiscal reúne, ordinariamente, pelo menos, uma vez por mês e, extraordinariamente, sempre que for convocado pelo presidente, ou por quem o substitua.
+Art. 22.º O conselho fiscal reúne, ordinariamente, pelo menos, uma vez por mês e, extraordinariamente, sempre que for convocado pelo presidente, ou por quem o substitua.
 
-###### Art. 23.º Aplicam-se ao conselho fiscal as regras enunciadas no artigo 17.º
+Art. 23.º Aplicam-se ao conselho fiscal as regras enunciadas no artigo 17.º
 
 ### CAPÍTULO III — Intervenção do Governo
 
-###### Art. 24.º - 1 - Compete ao Ministro das Finanças e do Plano:
+Art. 24.º - 1 - Compete ao Ministro das Finanças e do Plano:
 
 a) Propor ao Conselho de Ministros a nomeação dos presidentes do conselho de administração e do conselho fiscal;
 
@@ -332,24 +371,24 @@ e) Tomar, em condições excepcionais, as medidas necessárias ao regular funcio
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 25.º - 1 - Os trabalhadores da Sociedade são, para todos os efeitos, equiparados a trabalhadores bancários, ficando abrangidos pelo respectivo contrato colectivo de trabalho.
+Art. 25.º - 1 - Os trabalhadores da Sociedade são, para todos os efeitos, equiparados a trabalhadores bancários, ficando abrangidos pelo respectivo contrato colectivo de trabalho.
 
 2 - A título excepcional, o conselho de administração pode solicitar ao Ministro das Finanças e do Plano a requisição, nos termos legais, de funcionários do Estado e de trabalhadores dos institutos públicos e de empresas públicas.
 
 ### CAPÍTULO V — Disposições diversas e transitórias
 
-###### Art. 26.º - 1 - Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 26.º - 1 - Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
 
 2 - Os membros da mesa da assembleia geral e dos conselhos de administração e fiscal podem ser reeleitos.
 
-###### Art. 27.º - 1 - A Sociedade dissolve-se nos casos e termos legais.
+Art. 27.º - 1 - A Sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da Sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
 3 - Salvo deliberação em contrário da assembleia geral, a liquidação será efectuada pelo conselho de administração, a quem competirão todos os poderes referidos no artigo 134.º do Código Comercial.
 
-###### Art. 28.º O conselho de administração estabelecerá durante o primeiro mês após a sua nomeação, o organograma e o quadro de pessoal da Sociedade e proporá as condições de acesso das empresas à actuação da Sociedade previstas no artigo 5.º do decreto-lei de que o presente Estatuto é anexo.
+Art. 28.º O conselho de administração estabelecerá durante o primeiro mês após a sua nomeação, o organograma e o quadro de pessoal da Sociedade e proporá as condições de acesso das empresas à actuação da Sociedade previstas no artigo 5.º do decreto-lei de que o presente Estatuto é anexo.
 
-###### Art. 29.º As dúvidas que se suscitarem na aplicação do presente Estatuto serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 29.º As dúvidas que se suscitarem na aplicação do presente Estatuto serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-**O Secretário de Estado das Finanças, Alípio Barrosa Pereira Dias.**
+O Secretário de Estado das Finanças, Alípio Barrosa Pereira Dias.

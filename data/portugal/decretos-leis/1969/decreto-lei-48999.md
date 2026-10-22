@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/05/11000/05200520.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48999-1969-201263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 816309a81cd19fc1a85777b0e4aa6dc1543623697be564a6e5d1bf31ac8e092f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0d007c91993b0f33d2660f1b80bfef6a6f0172c6e26af15c641e77031940a63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Metrópole
+- Ministro do Interior
+- Ministro do Ultramar
+- PIDE
+- Promoção Profissional
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:691070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:638114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:691070:por
+  label: "Revogado, a partir de 01.10.1972, pelo DEC LEI.368/72.30.09.1972.MI, DG.IS [229] de 30.09.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1972-691070
+  date: '1972-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:16Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +110,7 @@ Considerando a necessidade de rever alguns aspectos do regime de promoção do p
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. - 1. Enquanto durar a actual situação de emergência em algumas províncias do ultramar, o pessoal da Polícia Internacional e de Defesa do Estado poderá ser admitido a concurso de promoção com dispensa da frequência dos cursos de preparação policial a que alude o § 3.º do artigo 54.º do [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, e do requisito do tempo de serviço referido no artigo 50.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954.
+Artigo único. - 1. Enquanto durar a actual situação de emergência em algumas províncias do ultramar, o pessoal da Polícia Internacional e de Defesa do Estado poderá ser admitido a concurso de promoção com dispensa da frequência dos cursos de preparação policial a que alude o § 3.º do artigo 54.º do [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, e do requisito do tempo de serviço referido no artigo 50.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954.
 
 2. A admissão a concurso nos termos do número anterior depende de despacho do Ministro do Interior, ou dos Ministros do Interior e do Ultramar, conforme se trate de pessoal colocado na metrópole ou nas províncias ultramarinas, mediante proposta do director da Policia Internacional e de Defesa do Estado, ouvido o Conselho de Polícia.
 
@@ -99,9 +118,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Abril de 1969.**
+Promulgado em 30 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 9 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26500/25742578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b07fb9d65353364e033f48eaa80d136ed28d025a07e69652586913b8341ba6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9360dc57403d8492e8817c8823eddda8bd89dc2692215736b229355b1f22342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Regional
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:159123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646092:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:31Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +177,7 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/lei/4-1976-408676), de 10 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os trabalhadores da administração central, local e regional, incluindo os dos serviços municipalizados e das federações de municípios cujos lugares foram extintos em virtude da extinção ou reorganização dos respectivos serviços ou organismos, transitam, sem prejuízo dos seus vencimentos base e de acordo com critérios a definir no diploma legal que, nos termos do n.º 4 do artigo 17.º do [Decreto-Lei n.º 581/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1976-430814), de 22 de Julho, proceder à referida extinção ou reorganização, para os quadros:
+Artigo 1.º - 1. Os trabalhadores da administração central, local e regional, incluindo os dos serviços municipalizados e das federações de municípios cujos lugares foram extintos em virtude da extinção ou reorganização dos respectivos serviços ou organismos, transitam, sem prejuízo dos seus vencimentos base e de acordo com critérios a definir no diploma legal que, nos termos do n.º 4 do artigo 17.º do [Decreto-Lei n.º 581/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1976-430814), de 22 de Julho, proceder à referida extinção ou reorganização, para os quadros:
 
 a) Dos serviços ou organismos para onde se transferirem, total ou parcialmente, as atribuições daqueles;
 
@@ -122,9 +191,9 @@ c) Dos serviços e organismos onde existirem necessidades de pessoal e as suas q
 
 4. Os serviços e organismos cuja extinção ou reorganização acarrete libertação total ou parcial de efectivos comunicarão o facto, com, pelo menos, três meses de antecedência, ao Serviço Central de Pessoal, em ordem a que este promova as diligências necessárias à sua integração noutro ou noutros serviços ou organismos públicos.
 
-###### Art. 2.º Os artigos 14.º, 17.º, 19.º, 20.º, n.º 1, alínea c), 21.º, n.º 1, alínea b), 26.º, n.º 5, 53.º e 61.º, n.º 1, alínea c), do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 14.º, 17.º, 19.º, 20.º, n.º 1, alínea c), 21.º, n.º 1, alínea b), 26.º, n.º 5, 53.º e 61.º, n.º 1, alínea c), do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, passam a ter a seguinte redacção:
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Integração nos serviços e organismos de origem)
 
@@ -136,7 +205,7 @@ c) Dos serviços e organismos onde existirem necessidades de pessoal e as suas q
 
 4. O aumento transitório dos quadros previsto no n.º 1 deste preceito será concretizado mediante despacho conjunto dos Ministros da Administração Interna, das Finanças e da pasta respectiva.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Âmbito do quadro geral de adidos)
 
@@ -162,7 +231,7 @@ e) Outros agentes que, ao abrigo de diplomas já publicados, tenham sido conside
 
 6. Para efeitos do disposto na alínea a) do n.º 1 deste artigo, não se considera interrupção de serviço o período de férias dos agentes de ensino que nos anos lectivos de 1973-1974 e 1974-1975 tenham exercido funções docentes a título eventual.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Categoria de ingresso)
 
@@ -180,7 +249,7 @@ b) Da reclassificação a operar em ordem a assegurar a necessária adequação,
 
 5. Os agentes a que se refere o n.º 1 deste artigo que desempenhavam funções em regime de substituição, requisição, comissão de serviço ou interinidade ingressarão no quadro geral de adidos com a categoria de origem, salvo os abrangidos pelo [Decreto-Lei n.º 410/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1975-314587), de 7 de Agosto, e daqueles cuja única vinculação à Administração seja o cargo em que estejam investidos, sem prejuízo da rectificação e/ou reclassificação a operar nos termos deste preceito.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Forma de ingresso)
 
@@ -192,7 +261,7 @@ b) ...
 
 c) Resolução do Conselho da Revolução, nos termos do artigo 3.º do [Decreto-Lei n.º 124/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1975-160895), de 11 de Março, e do artigo 5.º do [Decreto-Lei n.º 139/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1976-507575), de 19 de Fevereiro, conjugados com o artigo 8.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Ingresso dos agentes da ex-administração ultramarina)
 
@@ -202,7 +271,7 @@ a) ...
 
 b) A todo o tempo para os que, continuando a prestar serviço nos territórios descolonizados ou no território de Macau, cessem ou interrompam os contratos celebrados ao abrigo dos acordos de cooperação ou a prestação de serviço nos termos do Estatuto Orgânico de Macau e demais legislação em vigor, desde que a rescisão do contrato ou o termo de prestação de serviço seja seguido de fixação de residência em Portugal.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Direitos)
 
@@ -222,7 +291,7 @@ b) Os funcionários que, encontrando-se nas condições de ingresso estabelecida
 
 c) Os agentes provenientes da ex-administração ultramarina que se encontrem assistidos ao abrigo do artigo 305.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, enquanto se mantiverem nesta situação.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 1. As entidades referidas no artigo 2.º não poderão admitir para lugares dos quadros ou além dos quadros, ainda que em prestação de serviço de carácter eventual ou em regime de tarefa por período superior a dois meses, indivíduos que não se encontrem vinculados a qualquer título à Administração Pública.
 
@@ -232,7 +301,7 @@ c) Os agentes provenientes da ex-administração ultramarina que se encontrem as
 
 4. Os processos de admissão de pessoal, ainda que em regime de prestação eventual de serviços ou de tarefa, quando respeitem a pessoal não vinculado a qualquer título à Administração, deverão ser submetidos a visto do Tribunal de Contas, acompanhados de documento comprovativo do Serviço Central de Pessoal de que não existem adidos com as qualificações adequadas ao exercício do cargo a preencher, ou limitando expressamente a dois meses não prorrogáveis a duração do contrato.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Aspectos financeiros)
 
@@ -246,24 +315,24 @@ c) Supranumerários a que se refere o artigo 7.º do [Decreto-Lei n.º 656/74](h
 
 d) ...
 
-###### Art. 3.º - 1. Aos agentes referidos na alínea a) do n.º 1 e no n.º 5 do artigo 17.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), com a nova redacção dada por este diploma, poderá ser concedido, a partir do acto determinante do ingresso no quadro geral de adidos, e enquanto não forem abonados dos respectivos vencimentos, um adiantamento mensal até ao limite de 70% do vencimento a que tiverem direito.
+Art. 3.º - 1. Aos agentes referidos na alínea a) do n.º 1 e no n.º 5 do artigo 17.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), com a nova redacção dada por este diploma, poderá ser concedido, a partir do acto determinante do ingresso no quadro geral de adidos, e enquanto não forem abonados dos respectivos vencimentos, um adiantamento mensal até ao limite de 70% do vencimento a que tiverem direito.
 
 2. As normas reguladoras da concessão de adiantamentos, bem como a atribuição dos meios financeiros, serão definidas em despacho conjunto do Primeiro-Ministro e dos Ministros da Administração Interna e das Finanças.
 
 3. O adiantamento a que se referem os números anteriores e, bem assim, todos quantos tiverem já sido feitos com o mesmo espírito através do IARN ou de qualquer outro organismo ou serviço serão repostos por meio de desconto nos vencimentos, a efectuar de uma só vez no primeiro abono de vencimentos, prazo que poderá ser dilatado até doze meses, no caso de existirem outros descontos a efectivar.
 
-###### Art. 4.º Os agentes reabilitados ao abrigo do [Decreto-Lei n.º 139/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1976-507575), de 19 de Fevereiro, anteriormente à publicação do presente diploma, considerar-se-ão ingressados no quadro geral de adidos a partir da data estabelecida do Conselho da Revolução.
+Art. 4.º Os agentes reabilitados ao abrigo do [Decreto-Lei n.º 139/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1976-507575), de 19 de Fevereiro, anteriormente à publicação do presente diploma, considerar-se-ão ingressados no quadro geral de adidos a partir da data estabelecida do Conselho da Revolução.
 
-###### Art. 5.º Os adidos que sejam providos em lugares dos quadros ou além dos mesmos de serviços e organismos públicos não poderão tomar posse dos mesmos sem que apresentem nos respectivos serviços requerimento, a remeter ao Serviço Central de Pessoal, pedindo a exoneração do quadro geral de adidos.
+Art. 5.º Os adidos que sejam providos em lugares dos quadros ou além dos mesmos de serviços e organismos públicos não poderão tomar posse dos mesmos sem que apresentem nos respectivos serviços requerimento, a remeter ao Serviço Central de Pessoal, pedindo a exoneração do quadro geral de adidos.
 
-###### Art. 6.º As referências feitas no [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e no [Decreto-Lei n.º 381/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1976-428234), de 22 de Julho, ao Secretário de Estado da Descolonização entendem-se reportadas ao Secretário de Estado da Integração Administrativa.
+Art. 6.º As referências feitas no [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e no [Decreto-Lei n.º 381/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1976-428234), de 22 de Julho, ao Secretário de Estado da Descolonização entendem-se reportadas ao Secretário de Estado da Integração Administrativa.
 
-###### Art. 7.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 14 de Outubro de 1976.**
+Promulgado em 14 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

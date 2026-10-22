@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/25100/20192019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1973-412468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eee36a07f78974960f37d437d9073cea4cf896d1d401c16fc816fffc6a8188a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58a044a0455a29759946d9d1956b304335125f1d0fdaa9fc4ac94fbc23866789
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Denominação de Origem
+- Etiquetagem
+- Normalização
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogado pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:54Z'
   warnings: []
   errors: []
 ---
@@ -98,20 +114,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os selos ou cápsulas-selo a utilizar nos produtos vínicos engarrafados, quer tenham ou não em vista a garantia regional, deverão ser apostos de modo que fiquem inutilizados quando se proceda à abertura dos recipientes.
+Artigo 1.º - 1. Os selos ou cápsulas-selo a utilizar nos produtos vínicos engarrafados, quer tenham ou não em vista a garantia regional, deverão ser apostos de modo que fiquem inutilizados quando se proceda à abertura dos recipientes.
 
 2. Como excepção ao princípio consignado no n.º 1 deste artigo, os organismos vitivinícolas responsáveis pela selagem dos produtos vínicos poderão autorizar o uso de um modelo de selo especial às entidades engarrafadoras que pratiquem, em relação aos produtos a que o mesmo se destine, o sistema de lavagem mecanizada dos recipientes, o enchimento e rotulagem em linha automática ou semiautomática e que ofereçam garantias bastantes quanto ao cumprimento dos preceitos legais vigentes, tanto no que respeita ao engarrafamento como à comercialização dos produtos.
 
-###### Art. 2.º Por portaria do Secretário de Estado do Comércio serão aprovados os modelos dos selos a que se refere o artigo anterior, estabelecidas as normas regulamentares para a concessão e uso dos mesmos, bem como fixados os preços dos selos de garantia para os vinhos típicos regionais (com denominação de origem) e para os vinhos com indicação de proveniência regulamentada, bem como para os produtos vínicos de quaisquer regiões para cuja selagem seja necessária verificação por parte do organismo vitivinícola competente.
+Art. 2.º Por portaria do Secretário de Estado do Comércio serão aprovados os modelos dos selos a que se refere o artigo anterior, estabelecidas as normas regulamentares para a concessão e uso dos mesmos, bem como fixados os preços dos selos de garantia para os vinhos típicos regionais (com denominação de origem) e para os vinhos com indicação de proveniência regulamentada, bem como para os produtos vínicos de quaisquer regiões para cuja selagem seja necessária verificação por parte do organismo vitivinícola competente.
 
-###### Art. 3.º O não cumprimento das disposições que regulam a concessão e o uso dos selos a que se refere este diploma, além de constituir infracção disciplinar e poder implicar o cancelamento da autorização prevista no n.º 2 do artigo 1.º, será punido com a pena de multa de 5$00 por litro ou fracção do produto contido nos respectivos recipientes.
+Art. 3.º O não cumprimento das disposições que regulam a concessão e o uso dos selos a que se refere este diploma, além de constituir infracção disciplinar e poder implicar o cancelamento da autorização prevista no n.º 2 do artigo 1.º, será punido com a pena de multa de 5$00 por litro ou fracção do produto contido nos respectivos recipientes.
 
-###### Art. 4.º As dúvidas que se suscitarem na execução deste diploma e seus regulamentos serão resolvidas por despacho do Secretário de Estado do Comércio.
+Art. 4.º As dúvidas que se suscitarem na execução deste diploma e seus regulamentos serão resolvidas por despacho do Secretário de Estado do Comércio.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 10 de Outubro de 1973.**
+Promulgado em 10 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

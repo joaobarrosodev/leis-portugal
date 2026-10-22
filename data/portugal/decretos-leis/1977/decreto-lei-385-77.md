@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1977-285947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9707dcc69fdb38c193559c92977e3264d229b44831267cb4693bf2aa6f1ff106
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b43adad38d575266412d6f92e4b390e092e6263bbbf81c4d2535dc901c21e2af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade Bancária
+- Banco Comercial
+- Crédito Bancário
+relationships:
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526201:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:15Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +104,16 @@ Urge, desta forma, adequar o [Decreto-Lei n.º 48948](https://diariodarepublica.
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São revogados os artigos 15.º e 16.º do [Decreto-Lei n.º 48948](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48948-1969-526201), de 3 de Abril de 1969.
+Artigo 1.º São revogados os artigos 15.º e 16.º do [Decreto-Lei n.º 48948](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48948-1969-526201), de 3 de Abril de 1969.
 
-###### Art. 2.º O Banco de Portugal, no exercício da competência que lhe foi atribuída ao abrigo da alínea c) do n.º 2 do artigo 27.º da sua Lei Orgânica, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do respectivo prazo, mediante aviso a publicar na 1.ª série do Diário da República.
+Art. 2.º O Banco de Portugal, no exercício da competência que lhe foi atribuída ao abrigo da alínea c) do n.º 2 do artigo 27.º da sua Lei Orgânica, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do respectivo prazo, mediante aviso a publicar na 1.ª série do Diário da República.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 27 de Agosto de 1977.**
+Promulgado em 27 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

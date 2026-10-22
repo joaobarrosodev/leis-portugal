@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 50/1974, 1º Suplemento, Série I de 1974-02-28
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 296-(8) a 296-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,169 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d93a2d14ee03192a73607cfef31bd9fbe916945e46779c0d9afd78a48cfebac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d8889a711096f8b5a28fcaef9fe11f4912c6a870b81b393d182fc78bd8d25a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Condicionamento Industrial
+- Crime
+- Definição de Competências
+- Direcção Geral da Indústria Transformadora
+- Estabelecimento Industrial
+- Fiscalização
+- Indústria
+- Licenciamento
+- Multa
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:472719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472719:por
+  label: "Determinada a abolição do regime de autorização prévia industrial e revogado o presente diploma pelo DEC LEI.533/74.10.10.1974.MECO,\
+    \ DG.IS [236] de 10.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1974-472719
+  date: '1974-10-10'
+- type: cites
+  target: pt:dre:139398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686584:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:05Z'
   warnings: []
   errors: []
 ---
@@ -143,15 +272,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º De harmonia com o disposto na base VI da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e sem prejuízo do papel essencial reconhecido à iniciativa privada, fica sujeito a autorização o exercício de actividades industriais, nos termos dos artigos seguintes.
+Artigo 1.º De harmonia com o disposto na base VI da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e sem prejuízo do papel essencial reconhecido à iniciativa privada, fica sujeito a autorização o exercício de actividades industriais, nos termos dos artigos seguintes.
 
-###### Art. 2.º As actividades industriais sujeitas ao regime de autorização classificam-se nos seguintes grupos:
+Art. 2.º As actividades industriais sujeitas ao regime de autorização classificam-se nos seguintes grupos:
 
 a) Actividades industriais sujeitas ao regime de autorização discricionária;
 
 b) Actividades industriais sujeitas ao regime de autorização vinculada ao cumprimento de condições específicas.
 
-###### Art. 3.º O regime de autorização pode abranger:
+Art. 3.º O regime de autorização pode abranger:
 
 a) A instalação de unidades industriais, incluindo a reabertura daquelas que, relativamente a qualquer das actividades cujo exercício se encontre legalmente autorizado, tenham suspendido a laboração por período superior a dois anos;
 
@@ -159,15 +288,15 @@ b) As modificações por substituição ou ampliação de equipamentos produtivo
 
 c) A mudança de local das unidades instaladas.
 
-###### Art. 4.º Compete ao Secretário de Estado da Indústria decidir os pedidos de autorização para a prática dos actos referidos no artigo 3.º
+Art. 4.º Compete ao Secretário de Estado da Indústria decidir os pedidos de autorização para a prática dos actos referidos no artigo 3.º
 
-###### Art. 5.º - 1. As autorizações concedidas nos termos deste decreto-lei constituem mera condição administrativa do exercício de actividade industrial a que se referem e são inseparáveis das unidades industriais a que respeitam, não podendo transmitir-se independentemente delas.
+Art. 5.º - 1. As autorizações concedidas nos termos deste decreto-lei constituem mera condição administrativa do exercício de actividade industrial a que se referem e são inseparáveis das unidades industriais a que respeitam, não podendo transmitir-se independentemente delas.
 
 2. A transmissão entre vivos de unidades industriais cuja instalação, reabertura, modificação de equipamento ou mudança de local hajam sido autorizadas, mas não se encontrem ainda completamente executadas, fica dependente do consentimento prévio do Secretário de Estado da Indústria.
 
 3. A celebração de negócios jurídicos com infracção do disposto nos números anteriores determina a caducidade da autorização.
 
-###### Art. 6.º - 1. Se o despacho de autorização não mencionar o prazo para a execução dos actos autorizados, este será o que for indicado no pedido ou, na falta dessa indicação, o de dois anos.
+Art. 6.º - 1. Se o despacho de autorização não mencionar o prazo para a execução dos actos autorizados, este será o que for indicado no pedido ou, na falta dessa indicação, o de dois anos.
 
 2. O prazo para a execução dos actos autorizados conta-se da data da publicação do despacho e poderá ser prorrogado por uma só vez e por período não superior ao inicial, se o requerente demonstrar ter iniciado a execução dos actos licenciados e ser-lhe impossível completá-la dentro do prazo fixado, por motivo que lhe não seja imputável.
 
@@ -175,13 +304,13 @@ c) A mudança de local das unidades instaladas.
 
 4. A não execução dos actos autorizados dentro do prazo inicialmente fixado ou prorrogado determina a caducidade da autorização.
 
-###### Art. 7.º - 1. Quando em despacho individual ou por força de normas genéricas for exigida a prestação de caução, será esta prestada no prazo de sessenta dias, prorrogável por uma só vez, por meio de depósito na Caixa Geral de Depósitos, Crédito e Previdência, garantia bancária ou outro meio idónio aceite pela Administração.
+Art. 7.º - 1. Quando em despacho individual ou por força de normas genéricas for exigida a prestação de caução, será esta prestada no prazo de sessenta dias, prorrogável por uma só vez, por meio de depósito na Caixa Geral de Depósitos, Crédito e Previdência, garantia bancária ou outro meio idónio aceite pela Administração.
 
 2. A não prestação da caução nos termos do número anterior determina a caducidade da autorização.
 
 3. A caução cessa com a execução dos actos autorizados e será declarada perdida a favor do Estado se, por força do disposto no n.º 4 do artigo anterior, tiver caducado a autorização ou se esta for revogada nos termos da 1.ª parte do n.º 1 do artigo 8.º gada nos termos da primeira parte do n.º 1 do artigo 8.º
 
-###### Art. 8.º - 1. As autorizações serão revogadas quando se verificar a não execução dos actos autorizados nas condições em que as autorizações forem concedidas, ou o persistente incumprimento da legislação respeitante à qualidade dos produtores ou à higiene, segurança e salubridade das instalações.
+Art. 8.º - 1. As autorizações serão revogadas quando se verificar a não execução dos actos autorizados nas condições em que as autorizações forem concedidas, ou o persistente incumprimento da legislação respeitante à qualidade dos produtores ou à higiene, segurança e salubridade das instalações.
 
 2. A revogação da autorização será comunicada ao requerente e publicada no Boletim da Direcção-Geral da Indústria Transformadora.
 
@@ -189,7 +318,7 @@ c) A mudança de local das unidades instaladas.
 
 #### SECÇÃO I — Âmbito do regime
 
-###### Art. 9.º - 1. Fica sujeita a autorização, dependente das circunstâncias que se verificarem em cada caso, a prática dos actos enumerados no artigo 3.º relativamente a:
+Art. 9.º - 1. Fica sujeita a autorização, dependente das circunstâncias que se verificarem em cada caso, a prática dos actos enumerados no artigo 3.º relativamente a:
 
 a) Indústrias indispensáveis à defesa nacional;
 
@@ -201,7 +330,7 @@ c) Indústrias sujeitas por lei a regime especial.
 
 3. Os actos referidos na alínea b) do artigo 3.º respeitam apenas aos equipamentos que para cada actividade industrial se encontram expressamente indicados no quadro I.
 
-###### Art. 10.º - 1. De harmonia com o disposto no n.º 2 da base VI da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), poderá igualmente ficar sujeita ao regime previsto no n.º 1 do artigo anterior o exercício da actividade privada relativamente a indústrias que:
+Art. 10.º - 1. De harmonia com o disposto no n.º 2 da base VI da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), poderá igualmente ficar sujeita ao regime previsto no n.º 1 do artigo anterior o exercício da actividade privada relativamente a indústrias que:
 
 a) Lutem com dificuldades graves no escoamento dos produtos do seu fabrico ou no abastecimento das matérias-primas essenciais à sua produção, estando, por esse facto, com excesso de capacidade produtiva, considerado indesejável do ponto de vista da economia nacional;
 
@@ -219,9 +348,9 @@ b) Estejam abrangidas por planos de reorganização ou de reconversão de intere
 
 #### SECÇÃO II — Formulação, instrução e decisão dos pedidos
 
-###### Art. 11.º Os pedidos para a prática dos actos referidos no artigo 3.º respeitantes a indústrias incluídas nos quadros I e II serão formulados, instruídos e decididos nos termos dos artigos 12.º a 22.º
+Art. 11.º Os pedidos para a prática dos actos referidos no artigo 3.º respeitantes a indústrias incluídas nos quadros I e II serão formulados, instruídos e decididos nos termos dos artigos 12.º a 22.º
 
-###### Art. 12.º - 1. Os pedidos serão formulados em requerimento dirigido ao Secretário de Estado da Indústria e apresentado na Direcção-Geral da Indústria Transformadora, ou nas delegações da Secretaria de Estado da Indústria, que os remeterão àquela Direcção-Geral.
+Art. 12.º - 1. Os pedidos serão formulados em requerimento dirigido ao Secretário de Estado da Indústria e apresentado na Direcção-Geral da Indústria Transformadora, ou nas delegações da Secretaria de Estado da Indústria, que os remeterão àquela Direcção-Geral.
 
 2. O requerimento deverá conter:
 
@@ -247,13 +376,13 @@ h) A indicação dos novos empregos a criar.
 
 5. No requerimento indicar-se-ão, em nota, todos os documentos que o acompanham.
 
-###### Art. 13.º Os pedidos poderão ser apresentados em nome de sociedade a constituir, devendo, nesse caso, os requerentes obrigar-se a adquirir a maioria do respectivo capital social, sem prejuízo de outras condições especiais que vierem a ser fixadas nos despachos de autorização.
+Art. 13.º Os pedidos poderão ser apresentados em nome de sociedade a constituir, devendo, nesse caso, os requerentes obrigar-se a adquirir a maioria do respectivo capital social, sem prejuízo de outras condições especiais que vierem a ser fixadas nos despachos de autorização.
 
-###### Art. 14.º - 1. No Boletim da Direcção-Geral da Indústria Transformadora será publicada uma síntese do pedido.
+Art. 14.º - 1. No Boletim da Direcção-Geral da Indústria Transformadora será publicada uma síntese do pedido.
 
 2. A falta ou insuficiência dos elementos referidos nos n.os 2 e 3 do artigo 12.º obstará à publicação referida no número anterior, devendo o requerente saná-las dentro do prazo que lhe for marcado pela Direcção-Geral da Indústria Transformadora, sem o que será arquivado o requerimento.
 
-###### Art. 15.º - 1. Efectuada a publicação do pedido de harmonia com o disposto no artigo anterior, um dos exemplares do requerimento e da memória descritiva será posto à disposição do público, na Direcção-Geral da Indústria Transformadora, para consulta ou obtenção de certidão.
+Art. 15.º - 1. Efectuada a publicação do pedido de harmonia com o disposto no artigo anterior, um dos exemplares do requerimento e da memória descritiva será posto à disposição do público, na Direcção-Geral da Indústria Transformadora, para consulta ou obtenção de certidão.
 
 2. Qualquer interessado poderá remeter à corporação competente, informação ou parecer que entenda prestar sobre a matéria do pedido, podendo aquela, no prazo de trinta dias, a contar da publicação do mesmo, emitir o seu parecer que remeterá à Direcção-Geral da Indústria Transformadora.
 
@@ -267,11 +396,11 @@ h) A indicação dos novos empregos a criar.
 
 7. O despacho final que recair sobre o pedido será comunicado ao requerente e publicado no Boletim da Direcção-Geral da Indústria Transformadora.
 
-###### Art. 16.º Na decisão dos pedidos relativos à mudança de local de unidades industriais serão tidas especialmente em conta as condições a que obedeceu a respectiva implantação, bem como as perturbações que a mudança possa causar no ordenamento regional, no mercado do trabalho ou no abastecimento de matérias-primas.
+Art. 16.º Na decisão dos pedidos relativos à mudança de local de unidades industriais serão tidas especialmente em conta as condições a que obedeceu a respectiva implantação, bem como as perturbações que a mudança possa causar no ordenamento regional, no mercado do trabalho ou no abastecimento de matérias-primas.
 
-###### Art. 17.º As autorizações relativas ao exercício de actividades industriais incluídas nos quadros I e II só poderão ser executadas por sociedades.
+Art. 17.º As autorizações relativas ao exercício de actividades industriais incluídas nos quadros I e II só poderão ser executadas por sociedades.
 
-###### Art. 18.º - 1. Nos despachos de autorização poderão ser fixados os requisitos técnicos, económicos e financeiros a que a execução dos pedidos deva obedecer.
+Art. 18.º - 1. Nos despachos de autorização poderão ser fixados os requisitos técnicos, económicos e financeiros a que a execução dos pedidos deva obedecer.
 
 2. No caso de indústrias indispensáveis à defesa nacional será ouvido, para a fixação dos requisitos técnicos, o departamento da Defesa Nacional.
 
@@ -279,23 +408,23 @@ h) A indicação dos novos empregos a criar.
 
 4. Nos casos em que se não encontrem definidos critérios genéricos para a fixação dos requisitos referidos nos n.os 2 e 3 deste artigo, o departamento da Defesa Nacional e o Ministério das Finanças prestarão os necessários pareceres no prazo de trinta dias.
 
-###### Art. 19.º - 1. As autorizações poderão ser concedidas mediante quaisquer condições que modifiquem os termos do pedido, nomeadamente quanto à capacidade de produção e equipamentos a instalar, à identificação do produto ou produtos e às normas de fabrico a que estes devem obedecer, à aprovação dos estatutos da sociedade que vá executar a autorização e ao montante e composição do respectivo capital social.
+Art. 19.º - 1. As autorizações poderão ser concedidas mediante quaisquer condições que modifiquem os termos do pedido, nomeadamente quanto à capacidade de produção e equipamentos a instalar, à identificação do produto ou produtos e às normas de fabrico a que estes devem obedecer, à aprovação dos estatutos da sociedade que vá executar a autorização e ao montante e composição do respectivo capital social.
 
 2. Se o despacho de autorização não fixar quaisquer condições, a autorização considerar-se-á concedida nos precisos termos do pedido, só se havendo como relevantes para este efeito os elementos nele indicados em cumprimento do disposto no artigo 12.º
 
 3. O Secretário de Estado da Indústria poderá, a pedido do titular da autorização, alterar quaisquer condições, quando tal se mostre comprovadamente necessário para permitir a sua execução.
 
-###### Art. 20.º O processo será avocado caso o pedido venha a ser reformulado em obediência a despacho que, indeferindo o pedido inicial, tenha fixado as condições a observar para a concessão da autorização.
+Art. 20.º O processo será avocado caso o pedido venha a ser reformulado em obediência a despacho que, indeferindo o pedido inicial, tenha fixado as condições a observar para a concessão da autorização.
 
-###### Art. 21.º - 1. Em relação às indústrias sujeitas por lei a regime especial, e como tal assinaladas no quadro I, os trâmites a seguir relativamente ao processamento dos pedidos para a prática dos actos dependentes de autorização são os que se encontram previstos nos diplomas que especialmente regulam essas actividades.
+Art. 21.º - 1. Em relação às indústrias sujeitas por lei a regime especial, e como tal assinaladas no quadro I, os trâmites a seguir relativamente ao processamento dos pedidos para a prática dos actos dependentes de autorização são os que se encontram previstos nos diplomas que especialmente regulam essas actividades.
 
 2. Consideram-se sujeitas a regime especial as indústrias abrangidas pelo regime do condicionamento nacional por força do [Decreto-Lei n.º 481/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1972-686584), de 28 de Novembro, continuando, quanto aos pedidos a elas relativos, a seguir-se o disposto no [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, e legislação complementar.
 
-###### Art. 22.º As comunicações a fazer pela Direcção-Geral da Indústria Transformadora serão sempre enviadas pela via mais rápida para os últimos domicílio ou sede indicados pelo requerente.
+Art. 22.º As comunicações a fazer pela Direcção-Geral da Indústria Transformadora serão sempre enviadas pela via mais rápida para os últimos domicílio ou sede indicados pelo requerente.
 
 #### SECÇÃO III — Do cadastro
 
-###### Art. 23.º - 1. As unidades industriais autorizadas a exercer actividades incluídas nos quadros I e II passarão a constar de cadastro próprio a organizar pela Direcção-Geral da Indústria Transformadora.
+Art. 23.º - 1. As unidades industriais autorizadas a exercer actividades incluídas nos quadros I e II passarão a constar de cadastro próprio a organizar pela Direcção-Geral da Indústria Transformadora.
 
 2. O cadastro destina-se a fixar a todo o tempo o âmbito e condições da autorização de que cada unidade industrial seja titular e será organizado de acordo com a classificação das actividades económicas.
 
@@ -313,7 +442,7 @@ h) A indicação dos novos empregos a criar.
 
 ### CAPÍTULO III — Das actividades industriais sujeitas a autorização vinculada
 
-###### Art. 24.º - 1. As actividades industriais sujeitas a autorização vinculada ao cumprimento de condições específicas são as que constam do quadro III anexo a este diploma.
+Art. 24.º - 1. As actividades industriais sujeitas a autorização vinculada ao cumprimento de condições específicas são as que constam do quadro III anexo a este diploma.
 
 2. A prática dos actos referidos no artigo 3.º relativamente às indústrias constantes do quadro III será sempre autorizada desde que os interessados se obriguem à observância dos requisitos técnicos, económicos e financeiros fixados para a actividade industrial que exercem ou pretendem exercer.
 
@@ -321,11 +450,11 @@ h) A indicação dos novos empregos a criar.
 
 4. As portarias a que se refere o número anterior serão revistas periodicamente a fim de serem adaptadas à evolução tecnológica, aos progressos na especialização produtiva e às modificações na situação dos mercados.
 
-###### Art. 25.º - 1. Nas portarias a publicar em cumprimento do disposto no n.º 3 do artigo anterior serão fixadas, se necessário, as condições a observar na localização das unidades industriais.
+Art. 25.º - 1. Nas portarias a publicar em cumprimento do disposto no n.º 3 do artigo anterior serão fixadas, se necessário, as condições a observar na localização das unidades industriais.
 
 2. A instalação da unidade industrial ou a sua mudança para local que não satisfaça ao disposto na portaria respeitante à respectiva actividade industrial depende de autorização, sendo aplicável ao respectivo pedido, com as necessárias adaptações, o disposto nos artigos 11.º a 22.º
 
-###### Art. 26.º - 1. Os pedidos de instalação de novas unidades industriais, relativos a actividades incluídas no quadro III, serão formulados em requerimento dirigido ao Secretário de Estado da Indústria e apresentado na Direcção-Geral da Indústria Transformadora.
+Art. 26.º - 1. Os pedidos de instalação de novas unidades industriais, relativos a actividades incluídas no quadro III, serão formulados em requerimento dirigido ao Secretário de Estado da Indústria e apresentado na Direcção-Geral da Indústria Transformadora.
 
 2. O requerimento deverá conter:
 
@@ -345,17 +474,17 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 6. É aplicável aos requerimentos de que trata este artigo o disposto nos n.os 4 e 5 do artigo 12.º
 
-###### Art. 27.º As unidades industriais em relação às quais já tenha sido comprovada a observância dos requisitos técnicos, económicos e financeiros fixados para a respectiva actividade industrial poderão proceder, independentemente de autorização, à ampliação do equipamento produtivo ou à sua modificação desde que destas não resulte inobservância dos respectivos requisitos.
+Art. 27.º As unidades industriais em relação às quais já tenha sido comprovada a observância dos requisitos técnicos, económicos e financeiros fixados para a respectiva actividade industrial poderão proceder, independentemente de autorização, à ampliação do equipamento produtivo ou à sua modificação desde que destas não resulte inobservância dos respectivos requisitos.
 
-###### Art. 28.º As autorizações relativas ao exercício de actividades industriais incluídas no quadro III só poderão ser executadas por sociedades.
+Art. 28.º As autorizações relativas ao exercício de actividades industriais incluídas no quadro III só poderão ser executadas por sociedades.
 
-###### Art. 29.º O pedido será indeferido quando não seja explícito quanto à actividade a exercer, inclua indústria sujeita ao regime previsto no n.º 1 do artigo 9.º ou quando a memória descritiva não contiver as indicações exigidas no n.º 3 do artigo 26.º
+Art. 29.º O pedido será indeferido quando não seja explícito quanto à actividade a exercer, inclua indústria sujeita ao regime previsto no n.º 1 do artigo 9.º ou quando a memória descritiva não contiver as indicações exigidas no n.º 3 do artigo 26.º
 
-###### Art. 30.º - 1. O despacho que recair sobre o pedido será comunicado ao requerente e publicado no Boletim da Direcção-Geral da Indústria Transformadora.
+Art. 30.º - 1. O despacho que recair sobre o pedido será comunicado ao requerente e publicado no Boletim da Direcção-Geral da Indústria Transformadora.
 
 2. Consideram-se deferidos os pedidos que não tiverem obtido despacho no prazo de quarenta e cinco dias, a contar da data da sua apresentação.
 
-###### Art. 31.º - 1. Até trinta dias antes da data prevista para o início da laboração da nova unidade industrial o interessado formulará o pedido para a comprovação da observância dos requisitos técnicos, económicos e financeiros em requerimento apresentado em duplicado, sendo selado o original.
+Art. 31.º - 1. Até trinta dias antes da data prevista para o início da laboração da nova unidade industrial o interessado formulará o pedido para a comprovação da observância dos requisitos técnicos, económicos e financeiros em requerimento apresentado em duplicado, sendo selado o original.
 
 2. O requerimento será acompanhado por todos os elementos necessários para a verificação dos requisitos económicos e financeiros, ficando a sociedade obrigada a fornecer quaisquer outros que a Direcção-Geral da Indústria Transformadora considere necessários para esse efeito.
 
@@ -367,17 +496,17 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 6. Se a segunda vistoria concluir estarem cumpridos os requisitos técnicos exigíveis, será imediatamente autorizado o início da laboração pela forma prescrita no número anterior; caso contrário, será impedida a laboração, para o que serão selados os maquinismos instalados.
 
-###### Art. 32.º - 1. A vistoria para a verificação dos requisitos técnicos compete à Direcção-Geral da Indústria Transformadora e será efectuada conjuntamente com a vistoria para efeitos do disposto no Regulamento de Instalação e Laboração de Estabelecimentos Industriais.
+Art. 32.º - 1. A vistoria para a verificação dos requisitos técnicos compete à Direcção-Geral da Indústria Transformadora e será efectuada conjuntamente com a vistoria para efeitos do disposto no Regulamento de Instalação e Laboração de Estabelecimentos Industriais.
 
 2. A Direcção-Geral da Indústria Transformadora quando entender desnecessária a realização, por técnicos dos seus serviços, da vistoria para verificação dos requisitos técnicos poderá cometer o respectivo encargo à Direcção-Geral da Qualidade Industrial.
 
-###### Art. 33.º As autorizações são válidas relativamente aos requisitos fixados à data da sua concessão, podendo o prazo para a sua execução ser prorrogado se esses requisitos tiverem entretanto sido alterados.
+Art. 33.º As autorizações são válidas relativamente aos requisitos fixados à data da sua concessão, podendo o prazo para a sua execução ser prorrogado se esses requisitos tiverem entretanto sido alterados.
 
-###### Art. 34.º O Secretário de Estado da Indústria poderá delegar no director-geral da Indústria Transformadora a competência para apreciar e decidir os pedidos de autorização para a prática dos actos referidos no artigo 3.º relativamente às actividades industriais incluídas no quadro III.
+Art. 34.º O Secretário de Estado da Indústria poderá delegar no director-geral da Indústria Transformadora a competência para apreciar e decidir os pedidos de autorização para a prática dos actos referidos no artigo 3.º relativamente às actividades industriais incluídas no quadro III.
 
 ## TÍTULO II — Das restantes actividades industriais
 
-###### Art. 35.º - 1. As actividades industriais não incluídas nos quadros I, II e III poderão livremente instalar-se, modificar o equipamento produtivo ou transferir-se de local, sem prejuízo da obediência à regulamentação vigente sobre higiene, segurança e salubridade.
+Art. 35.º - 1. As actividades industriais não incluídas nos quadros I, II e III poderão livremente instalar-se, modificar o equipamento produtivo ou transferir-se de local, sem prejuízo da obediência à regulamentação vigente sobre higiene, segurança e salubridade.
 
 2. Para efeitos de registo, os pedidos de instalação de novas unidades industriais para o exercício das actividades referidas no n.º 1 deste artigo serão formulados em requerimento dirigido ao director-geral da Indústria Transformadora, em duplicado, sendo selado o original.
 
@@ -387,35 +516,35 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 ## TÍTULO III — Da fiscalização e penalidades
 
-###### Art. 36.º - 1. A fiscalização do cumprimento do disposto neste decreto-lei compete às Direcções-Gerais da Indústria Transformadora e da Qualidade Industrial, sem prejuízo da competência atribuída a outros serviços em domínios específicos.
+Art. 36.º - 1. A fiscalização do cumprimento do disposto neste decreto-lei compete às Direcções-Gerais da Indústria Transformadora e da Qualidade Industrial, sem prejuízo da competência atribuída a outros serviços em domínios específicos.
 
 2. Compete às corporações, aos demais organismos corporativos e aos organismos de coordenação económica auxiliar a fiscalização, informando a Direcção-Geral da Indústria Transformadora de todas as infracções de que tenham conhecimento e fornecendo-lhe todas as informações que por ela lhes sejam solicitadas.
 
-###### Art. 37.º - 1. Sempre que tenham conhecimento da existência de qualquer infracção às disposições do presente diploma, os funcionários competentes das direcções-gerais referidas no artigo anterior e dos organismos de coordenação económica lavrarão auto de notícia, que será imediatamente enviado à Direcção-Geral da Indústria Transformadora.
+Art. 37.º - 1. Sempre que tenham conhecimento da existência de qualquer infracção às disposições do presente diploma, os funcionários competentes das direcções-gerais referidas no artigo anterior e dos organismos de coordenação económica lavrarão auto de notícia, que será imediatamente enviado à Direcção-Geral da Indústria Transformadora.
 
 2. O auto de notícia será lavrado nos termos do artigo 166.º do Código de Processo Penal e terá a força probatória prevista no artigo 169.º daquele diploma, mesmo que não contenha a indicação de testemunhas.
 
 3. A Direcção-Geral da Indústria Transformadora notificará o arguido do levantamento do auto por meio de carta registada com aviso de recepção, podendo aquele apresentar a sua defesa no prazo de quinze dias, a contar da data da notificação.
 
-###### Art. 38.º - 1. A prática sem autorização dos actos referidos no artigo 3.º e a inobservância das condições fixadas em cada despacho de autorização ou estabelecidos ao abrigo do disposto no artigo 24.º serão punidos com a multa de 10000$00 a 1000000$00.
+Art. 38.º - 1. A prática sem autorização dos actos referidos no artigo 3.º e a inobservância das condições fixadas em cada despacho de autorização ou estabelecidos ao abrigo do disposto no artigo 24.º serão punidos com a multa de 10000$00 a 1000000$00.
 
 2. Se a infracção consistir na inobservância das condições referidas no número anterior, será ainda revogada a autorização concedida.
 
 3. Nos casos previstos no n.º 1 a medida de encerramento do estabelecimento será cumulativamente aplicada quando a especial gravidade da infracção o justificar.
 
-###### Art. 39.º O não cumprimento de qualquer das obrigações decorrentes do presente diploma e não enquadráveis no n.º 1 do artigo anterior será punido com a multa de 1000$00 a 10000$00.
+Art. 39.º O não cumprimento de qualquer das obrigações decorrentes do presente diploma e não enquadráveis no n.º 1 do artigo anterior será punido com a multa de 1000$00 a 10000$00.
 
-###### Art. 40.º As multas previstas nos artigos 38.º e 39.º serão graduadas de acordo com a natureza da infracção, designadamente a ausência de dolo, o prejuízo ou risco de prejuízo dela derivados para a economia nacional, os antecedentes do infractor e a sua capacidade económica.
+Art. 40.º As multas previstas nos artigos 38.º e 39.º serão graduadas de acordo com a natureza da infracção, designadamente a ausência de dolo, o prejuízo ou risco de prejuízo dela derivados para a economia nacional, os antecedentes do infractor e a sua capacidade económica.
 
-###### Art. 41.º A competência para a aplicação das multas previstas nos artigos 38.º e 39.º cabe, respectivamente, ao Secretário de Estado da Indústria e ao director-geral da Indústria Transformadora.
+Art. 41.º A competência para a aplicação das multas previstas nos artigos 38.º e 39.º cabe, respectivamente, ao Secretário de Estado da Indústria e ao director-geral da Indústria Transformadora.
 
-###### Art. 42.º - 1. Os administradores, directores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida respondem solidariamente com a pessoa colectiva ou com a sociedade pelo pagamento da multa sempre que tenham executado ou tomado parte na execução da infracção ou a tenham sancionado.
+Art. 42.º - 1. Os administradores, directores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida respondem solidariamente com a pessoa colectiva ou com a sociedade pelo pagamento da multa sempre que tenham executado ou tomado parte na execução da infracção ou a tenham sancionado.
 
 2. No caso de extinção da pessoa colectiva ou da sociedade respondem solidariamente pela multa as pessoas referidas no número anterior.
 
-###### Art. 43.º Se o transgressor não pagar a multa aplicada nos termos dos artigos anteriores dentro do prazo de dez dias, a contar da notificação do despacho definitivo, remeter-se-á ao competente tribunal das contribuições e impostos, para cobrança coerciva, certidão de que constem os elementos referidos no artigo 156.º do Código de Processo das Contribuições e Impostos.
+Art. 43.º Se o transgressor não pagar a multa aplicada nos termos dos artigos anteriores dentro do prazo de dez dias, a contar da notificação do despacho definitivo, remeter-se-á ao competente tribunal das contribuições e impostos, para cobrança coerciva, certidão de que constem os elementos referidos no artigo 156.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 44.º - 1. Os produtos que forem fabricados com inobservância das disposições do presente diploma serão apreendidos onde forem encontrados e declarados perdidos a favor do Estado, por despacho do Secretário de Estado da Indústria, desde que não resulte lesão de direitos adquiridos por terceiros de boa fé.
+Art. 44.º - 1. Os produtos que forem fabricados com inobservância das disposições do presente diploma serão apreendidos onde forem encontrados e declarados perdidos a favor do Estado, por despacho do Secretário de Estado da Indústria, desde que não resulte lesão de direitos adquiridos por terceiros de boa fé.
 
 2. O director-geral da Indústria Transformadora poderá ordenar a aposição de selos no equipamento instalado ou utilizado com inobservância das disposições do presente diploma quando o entenda necessário para prevenir a sua ilegal utilização.
 
@@ -427,27 +556,27 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 6. Proferido o despacho ordenando a desselagem, deverão os serviços dar-lhe imediato cumprimento.
 
-###### Art. 45.º As autoridades administrativas ou policiais, quando solicitadas pelo director-geral da Indústria Transformadora ou pelos chefes das delegações regionais da Secretaria de Estado da Indústria, deverão prestar o seu auxílio para o cumprimento do disposto neste capítulo.
+Art. 45.º As autoridades administrativas ou policiais, quando solicitadas pelo director-geral da Indústria Transformadora ou pelos chefes das delegações regionais da Secretaria de Estado da Indústria, deverão prestar o seu auxílio para o cumprimento do disposto neste capítulo.
 
 ## TÍTULO IV — Disposições finais e transitórias
 
-###### Art. 46.º - 1. Os quadros I, II e III anexos a este decreto-lei poderão ser alterados por decreto visto e aprovado em Conselho de Ministros para os Assuntos Económicos, ouvidas, quando necessário, as corporações interessadas ou, no caso das indústrias indispensáveis à defesa nacional, o departamento ministerial respectivo.
+Art. 46.º - 1. Os quadros I, II e III anexos a este decreto-lei poderão ser alterados por decreto visto e aprovado em Conselho de Ministros para os Assuntos Económicos, ouvidas, quando necessário, as corporações interessadas ou, no caso das indústrias indispensáveis à defesa nacional, o departamento ministerial respectivo.
 
 2. Para a definição das indústrias a que se refere a alínea a) do n.º 1 do artigo 9.º será ouvido o departamento da Defesa Nacional.
 
-###### Art. 47.º Os trâmites processuais relativos à formulação, instrução e decisão dos pedidos para a prática dos actos referidos no artigo 3.º poderão ser alterados por decreto referendado pelo Secretário de Estado da Indústria.
+Art. 47.º Os trâmites processuais relativos à formulação, instrução e decisão dos pedidos para a prática dos actos referidos no artigo 3.º poderão ser alterados por decreto referendado pelo Secretário de Estado da Indústria.
 
-###### Art. 48.º - 1. Dos actos definitivos e executórios praticados em execução deste diploma cabe recurso contencioso nos termos estabelecidos pela lei administrativa.
+Art. 48.º - 1. Dos actos definitivos e executórios praticados em execução deste diploma cabe recurso contencioso nos termos estabelecidos pela lei administrativa.
 
 2. Dos despachos do director-geral da Indústria Transformadora proferidos em execução deste decreto-lei cabe sempre recurso hierárquico nos termos da lei administrativa.
 
-###### Art. 49.º Serão estabelecidas por despacho do Secretário de Estado da Indústria, sob proposta da Direcção-Geral da Indústria Transformadora, as normas internas necessárias à execução deste decreto-lei.
+Art. 49.º Serão estabelecidas por despacho do Secretário de Estado da Indústria, sob proposta da Direcção-Geral da Indústria Transformadora, as normas internas necessárias à execução deste decreto-lei.
 
-###### Art. 50.º A Direcção-Geral da Indústria Transformadora poderá em qualquer momento exigir às empresas o fornecimento dos elementos necessários para verificar o cumprimento das condições, genérica ou individualmente estabelecidas, relativamente à sua actividade industrial.
+Art. 50.º A Direcção-Geral da Indústria Transformadora poderá em qualquer momento exigir às empresas o fornecimento dos elementos necessários para verificar o cumprimento das condições, genérica ou individualmente estabelecidas, relativamente à sua actividade industrial.
 
-###### Art. 51.º A Direcção-Geral da Indústria Transformadora publicará, com a periodicidade que for julgada conveniente, um boletim, no qual serão feitas todas as publicações referidas neste diploma.
+Art. 51.º A Direcção-Geral da Indústria Transformadora publicará, com a periodicidade que for julgada conveniente, um boletim, no qual serão feitas todas as publicações referidas neste diploma.
 
-###### Art. 52.º - 1. Relativamente às unidades que, à data da entrada em vigor deste decreto-lei, estejam afectas a actividades incluídas no quadro III e que não satisfaçam aos requisitos técnicos, económicos e financeiros fixados para a respectiva actividade industrial, só serão autorizadas a reabertura, as modificações por ampliação dos equipamentos produtivos e a mudança de local quando sejam satisfeitos por uma só vez os mencionados requisitos.
+Art. 52.º - 1. Relativamente às unidades que, à data da entrada em vigor deste decreto-lei, estejam afectas a actividades incluídas no quadro III e que não satisfaçam aos requisitos técnicos, económicos e financeiros fixados para a respectiva actividade industrial, só serão autorizadas a reabertura, as modificações por ampliação dos equipamentos produtivos e a mudança de local quando sejam satisfeitos por uma só vez os mencionados requisitos.
 
 2. Os pedidos de autorização para a prática dos actos referidos no número anterior seguirão o processo estabelecido nos artigos 27.º e seguintes.
 
@@ -455,17 +584,17 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 4. Se no caso do número anterior se verificar que da substituição resulta aumento de capacidade, a Direcção-Geral da Qualidade Industrial sustará o andamento do processo para verificação das condições de higiene, salubridade e segurança e comunicará o facto à Direcção-Geral da Indústria Transformadora.
 
-###### Art. 53.º Os pedidos de licenciamento respeitantes a indústrias que, por força do disposto neste decreto-lei, não fiquem sujeitas ao regime de autorização, pendentes à data de entrada em vigor deste diploma, serão arquivados sem prejuízo da competente anotação para efeitos do licenciamento previsto no Regulamento de Instalação e Laboração dos Estabelecimentos Industriais.
+Art. 53.º Os pedidos de licenciamento respeitantes a indústrias que, por força do disposto neste decreto-lei, não fiquem sujeitas ao regime de autorização, pendentes à data de entrada em vigor deste diploma, serão arquivados sem prejuízo da competente anotação para efeitos do licenciamento previsto no Regulamento de Instalação e Laboração dos Estabelecimentos Industriais.
 
-###### Art. 54.º - 1. As portarias a que se refere o n.º 3 do artigo 24.º deverão ser publicadas no prazo de cento e oitenta dias, a contar da data de entrada em vigor deste decreto-lei.
+Art. 54.º - 1. As portarias a que se refere o n.º 3 do artigo 24.º deverão ser publicadas no prazo de cento e oitenta dias, a contar da data de entrada em vigor deste decreto-lei.
 
 2. Enquanto não forem publicadas as portarias a que se alude no número anterior, os pedidos de autorização para a prática dos actos referidos no artigo 3.º relativos às indústrias incluídas no quadro III serão formulados, instruídos e decididos de harmonia com o disposto na secção II do capítulo II do título I deste diploma.
 
-###### Art. 55.º - 1. O [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, mantém-se em vigor em tudo quanto respeitar às indústrias sujeitas a condicionamento nacional, a instalar na metrópole e nas províncias ultramarinas, e às indústrias sujeitas a condicionamento territorial, a instalar nas mesmas províncias.
+Art. 55.º - 1. O [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, mantém-se em vigor em tudo quanto respeitar às indústrias sujeitas a condicionamento nacional, a instalar na metrópole e nas províncias ultramarinas, e às indústrias sujeitas a condicionamento territorial, a instalar nas mesmas províncias.
 
 2. As atribuições conferidas nesse decreto-lei à Direcção-Geral dos Serviços Industriais ficam cometidas à Direcção-Geral da Indústria Transformadora.
 
-###### Art. 56.º São revogados os seguintes diplomas:
+Art. 56.º São revogados os seguintes diplomas:
 
 a) O [Decreto n.º 39651](https://diariodarepublica.pt/dr/detalhe/decreto/39651-1954-635188), de 14 de Maio de 1954;
 
@@ -509,7 +638,7 @@ u) O [Decreto n.º 393/70](https://diariodarepublica.pt/dr/detalhe/decreto/393-1
 
 v) O [Decreto-Lei n.º 493/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1971-631438), de 10 de Novembro.
 
-###### Art. 57.º Mantêm-se em vigor:
+Art. 57.º Mantêm-se em vigor:
 
 a) O [Decreto n.º 42474](https://diariodarepublica.pt/dr/detalhe/decreto/42474-1959-432031), de 26 de Agosto de 1959, excepto quanto aos artigos 2.º, 6.º e 7.º;
 
@@ -523,15 +652,15 @@ e) O [Decreto n.º 45590](https://diariodarepublica.pt/dr/detalhe/decreto/45590-
 
 f) O regulamento anexo ao [Decreto n.º 47776](https://diariodarepublica.pt/dr/detalhe/decreto/47776-1967-314057), de 5 de Julho de 1967, excepto quanto aos artigos 1.º a 6.º
 
-###### Art. 58.º O presente decreto-lei entra em vigor cento e vinte dias após a data da sua publicação.
+Art. 58.º O presente decreto-lei entra em vigor cento e vinte dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 15 de Janeiro de 1974.**
+Promulgado em 15 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -539,13 +668,13 @@ QUADRO I
 
 Actividades industriais sujeitas a autorização discricionária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf))](https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf)
 
 QUADRO II
 
 Actividades industriais temporariamente sujeitas a autorização discricionária nos termos do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf))](https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/02/05001/00080020.pdf)
 
 QUADRO III
 
@@ -693,4 +822,4 @@ Grupo 399 - Indústrias transformadoras não especificadas:
 
 399.5 - Fabricação de tubos, perfis e películas (filmes) de matérias plásticas.
 
-**O Ministro da Economia, Manuel Artur Cotta Agostinho Dias.**
+O Ministro da Economia, Manuel Artur Cotta Agostinho Dias.

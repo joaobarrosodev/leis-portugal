@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/25800/20952100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c15079ecc2c9a3c9412cfc12244789023dad685bd1151bb239b6b21b6ef59d57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c59ad22a864b7c3e9ad83ed739e75f86b7cdc3b367889a5fcf3fd19ad7f0bf8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direção Geral do Ensino Superior
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:665352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370783:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, pelo DEC LEI.368/79.04.09.1979.MEIC,\
+    \ DR.IS [204] de 04.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1979-370783
+  date: '1979-09-04'
+- type: cites
+  target: pt:dre:297260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:277804:por
+  label: "Revogadas as als. m), n), g) e r) do art. 2º, criado o Gabinete de Actividades Culturais e de Desportos Universitários\
+    \ e extinto o Gabinete de Acção Social e de Actividades Circum-Escolares a que se refere a al. f) do art. 6º do presente\
+    \ diploma, pelo DEC LEI.453/77.29.10.1977.MEIC, DR.IS [251] de 29.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/453-1977-277804
+  date: '1977-10-29'
+- type: repealed_by
+  target: pt:dre:665352:por
+  label: "Revogado pelo DEC LEI.136/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1993-665352
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:02Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +156,7 @@ Organização da Direcção-Geral do Ensino Superior
 
 I - Das atribuições e competência
 
-###### Artigo 1.º - 1. A Direcção-Geral do Ensino Superior é um serviço central do Ministério da Educação Nacional do sector do ensino ao qual incumbe:
+Artigo 1.º - 1. A Direcção-Geral do Ensino Superior é um serviço central do Ministério da Educação Nacional do sector do ensino ao qual incumbe:
 
 a) Preparar e executar, sem prejuízo da autonomia das Universidades, todas as decisões que ao Governo pertença tomar no que respeita a essas instituições;
 
@@ -116,7 +166,7 @@ b) Superintender na organização e funcionamento dos restantes estabelecimentos
 
 3. No que respeita ao ensino superior ministrado em territórios ultramarinos, compete ao director-geral submeter a despacho do Ministro do Ultramar as questões meramente administrativas e ao Ministro da Educação Nacional as questões meramente pedagógicas ou aos dois conjuntamente, tratando-se de questões simultaneamente administrativas e pedagógicas.
 
-###### Art. 2.º Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral do Ensino Superior:
+Art. 2.º Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral do Ensino Superior:
 
 a) Contribuir para a definição da política do ensino superior e promover a aplicação das providências de ordem geral que sejam aprovadas pelo Governo;
 
@@ -154,17 +204,17 @@ r) Coordenar as actividades de acção social escolar e fomentar as actividades 
 
 s) Colaborar, com os outros departamentos do Estado e bem assim com entidades privadas, na formação e aperfeiçoamento de pessoal altamente qualificado, tendo em conta as necessidades nacionais e regionais nos respectivos domínios, e, em particular, estudar acordos com os Ministérios do Ultramar e da Saúde e Assistência sobre a utilização de estruturas hospitalares e de saúde pública para os estudos médicos e paramédicos.
 
-###### Art. 3.º - 1. A Direcção-Geral do Ensino Superior poderá autorizar missões de estudo e conceder subsídios a docentes do ensino superior, com o fim de realizarem, dentro ou fora do País, estudos de desenvolvimento curricular e de inovação educacional, ou para a participação em congressos, colóquios ou outras reuniões internacionais que versem matérias de educação.
+Art. 3.º - 1. A Direcção-Geral do Ensino Superior poderá autorizar missões de estudo e conceder subsídios a docentes do ensino superior, com o fim de realizarem, dentro ou fora do País, estudos de desenvolvimento curricular e de inovação educacional, ou para a participação em congressos, colóquios ou outras reuniões internacionais que versem matérias de educação.
 
 2. O pessoal docente a que se refere o número anterior ou o que, em regime de comissão eventual, seja autorizado, mediante despacho ministerial, a deslocar-se a centros de ensino ou de investigação estrangeiros fica equiparado a bolseiro para todos os efeitos legais.
 
-###### Art. 4.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
+Art. 4.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
 
 2. O director-geral poderá receber do Ministro da Educação Nacional delegação de competência para despachar assuntos relativos a funções de administração geral.
 
 3. Para efeitos do disposto no número anterior, consideram-se funções de administração geral as que respeitam a actividades pedagógicas e à gestão do pessoal, bem como aos meios materiais, aos recursos orçamentais e outros, relativos aos serviços dependentes da Direcção-Geral e que constituam simples meio de permitir o exercício das suas atribuições específicas.
 
-###### Art. 5.º - 1. O director-geral será coadjuvado por um subdirector-geral e por dois adjuntos, que exercerão as funções que lhes sejam confiadas pelo director-geral.
+Art. 5.º - 1. O director-geral será coadjuvado por um subdirector-geral e por dois adjuntos, que exercerão as funções que lhes sejam confiadas pelo director-geral.
 
 2. O subdirector-geral substituirá o director-geral nas suas faltas e impedimentos.
 
@@ -172,7 +222,7 @@ s) Colaborar, com os outros departamentos do Estado e bem assim com entidades pr
 
 II - Dos serviços
 
-###### Art. 6.º A Direcção-Geral compreende os seguintes serviços:
+Art. 6.º A Direcção-Geral compreende os seguintes serviços:
 
 a) Inspecção do Ensino Superior Particular;
 
@@ -188,13 +238,13 @@ f) Gabinete de Acção Social e de Actividades Circum-Escolares;
 
 g) Repartição Administrativa.
 
-###### Art. 7.º À Inspecção do Ensino Superior Particular compete:
+Art. 7.º À Inspecção do Ensino Superior Particular compete:
 
 a) Coordenar e realizar a inspecção técnica e administrativa do ensino superior particular, com a excepção referida na alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 307/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1971-642730), de 15 de Julho;
 
 b) Organizar os processos de auxílio ao ensino superior particular.
 
-###### Art. 8.º Compete à Divisão de Pessoal:
+Art. 8.º Compete à Divisão de Pessoal:
 
 a) Efectuar os estudos de base relativos aos regimes de pessoal dos estabelecimentos de ensino superior e dos outros organismos dependentes;
 
@@ -204,7 +254,7 @@ c) Ocupar-se do recrutamento, provimento, colocação, transferência, exoneraç
 
 d) Organizar e manter actualizado o cadastro de todo o pessoal docente, investigador, técnico administrativo e auxiliar das Universidades e de outros estabelecimentos de ensino superior e ainda dos restantes serviços dependentes.
 
-###### Art. 9.º - 1. À Divisão de Estudos, compete especialmente:
+Art. 9.º - 1. À Divisão de Estudos, compete especialmente:
 
 a) Elaborar estudos e relatórios e preparar pareceres relativos à organização, estrutura e funcionamento dos organismos dependentes, tendo em vista a simplificação administrativa e a mecanização dos serviços;
 
@@ -218,7 +268,7 @@ e) Estudar os problemas de desenvolvimento curricular, bem como fomentar a publi
 
 2. A Divisão de Estudos publicará um boletim informativo sobre as actividades do ensino superior.
 
-###### Art. 10.º À Divisão Pedagógica compete:
+Art. 10.º À Divisão Pedagógica compete:
 
 a) Estudar os assuntos relativos ao rendimento escolar nas Universidades e demais instituições de ensino superior;
 
@@ -226,7 +276,7 @@ b) Ocupar-se das questões inerentes ao ingresso, orientação e transferência 
 
 c) Tratar dos assuntos de índole disciplinar que forem cometidos à Direcção-Geral.
 
-###### Art. 11.º - 1. À Divisão de Instalações, Equipamento e Recursos Financeiros incumbe, em relação aos estabelecimentos de ensino superior e outros organismos dependentes, e sem prejuízo da competência própria de cada um:
+Art. 11.º - 1. À Divisão de Instalações, Equipamento e Recursos Financeiros incumbe, em relação aos estabelecimentos de ensino superior e outros organismos dependentes, e sem prejuízo da competência própria de cada um:
 
 a) Orientar e manter actualizado o cadastro das instalações e do equipamento;
 
@@ -246,7 +296,7 @@ e) Colaborar na avaliação sistemática dos recursos financeiros necessários �
 
 5. Para efeitos do disposto nos números anteriores, a Direcção-Geral do Ensino Superior poderá contratar com gabinetes técnicos, ou com pessoal especialmente qualificado, a execução de projectos, estudos e outros trabalhos relativos a instalações ou equipamento.
 
-###### Art. 12.º - 1. Ao Gabinete de Acção Social e de Actividades Circum-Escolares compete:
+Art. 12.º - 1. Ao Gabinete de Acção Social e de Actividades Circum-Escolares compete:
 
 a) Apreciar os planos e programas de acção dos serviços sociais;
 
@@ -258,7 +308,7 @@ d) Fomentar as actividades circum-escolares de índole cultural, artística, des
 
 2. Os Serviços Medico-Sociais Universitários ficam integrados no Gabinete de Acção Social e de Actividades Circum-Escolares, sem prejuízo do apoio técnico do Instituto de Acção Social Escolar.
 
-###### Art. 13.º À Repartição Administrativa compete:
+Art. 13.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral, contabilidade, economato e de administração do pessoal da Direcção-Geral, sem prejuízo da competência da Secretaria-Geral;
 
@@ -266,7 +316,7 @@ b) Prestar apoio administrativo aos restantes serviços da Direcção-Geral.
 
 III - Do pessoal
 
-###### Art. 14.º - 1. A Direcção-Geral do Ensino Superior tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 14.º - 1. A Direcção-Geral do Ensino Superior tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2. A Direcção-Geral disporá ainda de pessoal administrativo, técnico, técnico auxiliar e auxiliar constante do mapa II anexo a este diploma, o qual será acrescentado ao quadro único dos serviços centrais do Ministério da Educação Nacional, nos termos do n.º 2 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
@@ -274,7 +324,7 @@ III - Do pessoal
 
 4. O pessoal da Direcção-Geral será distribuído pelos respectivos serviços mediante despacho do director-geral.
 
-###### Art. 15.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 15.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de preferência de entre professores universitários ou de entre diplomados com curso superior adequado de reconhecida competência ou inspectores-gerais da Junta Nacional da Educação;
 
@@ -294,21 +344,21 @@ e) Os lugares de ingresso de adjuntos técnicos serão providos por concurso de 
 
 5. O provimento no lugar de director-geral, quando este não for professor universitário, envolve o provimento a título vitalício na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.
 
-###### Art. 16.º - 1. O Ministro da Educação Nacional pode autorizar que professores dos estabelecimentos dependentes da Direcção-Geral prestem a sua colaboração para se ocuparem de estudos relativos à inovação educacional e a funções de inspecção técnica do ensino superior particular.
+Art. 16.º - 1. O Ministro da Educação Nacional pode autorizar que professores dos estabelecimentos dependentes da Direcção-Geral prestem a sua colaboração para se ocuparem de estudos relativos à inovação educacional e a funções de inspecção técnica do ensino superior particular.
 
 2. Aos professores referidos no número anterior poderá ser atribuída uma gratificação, a fixar pelo Ministro da Educação Nacional, até ao correspondente a duas regências de cursos teóricos universitários.
 
-###### Art. 17.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 17.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 18.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais e estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos previstos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 18.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais e estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos previstos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 IV - Disposições finais e transitórias
 
-###### Art. 19.º Os planos anuais das actividades desportivas no âmbito do ensino superior serão coordenados pela Direcção-Geral do Ensino Superior, em colaboração com a Direcção-Geral da Educação Física e Desportos, sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março.
+Art. 19.º Os planos anuais das actividades desportivas no âmbito do ensino superior serão coordenados pela Direcção-Geral do Ensino Superior, em colaboração com a Direcção-Geral da Educação Física e Desportos, sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março.
 
-###### Art. 20.º - 1. Na Direcção-Geral do Ensino Superior funcionará uma Comissão Permanente de Equipamento Universitário à qual compete apreciar os planos e programas de apetrechamento inicial e de reapetrechamento das Universidades e de outros estabelecimentos universitários ou equiparados, bem como estabelecer normas e critérios de atribuição de dotações para esses fins.
+Art. 20.º - 1. Na Direcção-Geral do Ensino Superior funcionará uma Comissão Permanente de Equipamento Universitário à qual compete apreciar os planos e programas de apetrechamento inicial e de reapetrechamento das Universidades e de outros estabelecimentos universitários ou equiparados, bem como estabelecer normas e critérios de atribuição de dotações para esses fins.
 
 2. Enquanto não for atribuída autonomia financeira às Universidades, competirá igualmente a esta Comissão apreciar os processos relativos à aquisição de apetrechamento, cuja organização, nos termos do artigo 46.º do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro, deve correr seus trâmites pela Comissão de Equipamento Escolar.
 
@@ -318,21 +368,21 @@ IV - Disposições finais e transitórias
 
 5. Os membros da Comissão terão direito a transporte, ajudas de custo e senhas de presença às sessões em que tomarem parte.
 
-###### Art. 21.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral do Ensino Superior será provido em lugares idênticos, ou de categoria equivalente, do quadro anexo ao presente diploma, nos termos das regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 21.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral do Ensino Superior será provido em lugares idênticos, ou de categoria equivalente, do quadro anexo ao presente diploma, nos termos das regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 2. O disposto no número anterior poderá ser extensivo ao pessoal contratado ou colocado na Direcção-Geral ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, e do [Decreto n.º 16836](https://diariodarepublica.pt/dr/detalhe/decreto/16836-1929-297260), de 15 de Maio de 1929.
 
 3. O pessoal que actualmente presta serviço nas condições do número anterior, e que não for possível prover nos termos previstos no mesmo, transita para a Direcção-Geral na situação em que se encontrar à data da publicação deste diploma.
 
-###### Art. 22.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional para o ano económico de 1973.
+Art. 22.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional para o ano económico de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 24 de Outubro de 1973.**
+Promulgado em 24 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais dos Estados de Angola e Moçambique. - J. da Silva Cunha.
 
@@ -340,14 +390,14 @@ MAPA I
 
 Pessoal integrado no quadro único a que se refere o n.º 1 do artigo 14.º do Decreto-Lei n.º 581/73, de 5 de Novembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/25800/20952100.pdf))](https://files.diariodarepublica.pt/1s/1973/11/25800/20952100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/25800/20952100.pdf)
 
 MAPA II
 
 Pessoal a que se refere o n.º 2 do artigo 14.º do Decreto-Lei n.º 581/73, de 5 de Novembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/25800/20952100.pdf))](https://files.diariodarepublica.pt/1s/1973/11/25800/20952100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/25800/20952100.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

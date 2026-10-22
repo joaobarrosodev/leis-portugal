@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44412-1962-164586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6377f696396edc1301be7c31f5942a524d9e57849c22d2e1a11a488baa32e286
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8500e939accfa7d6ca85e6fce488e514463f4b8f2a8ad85bdadd3916a0bc45ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Choupo
+- Comissão Internacional do Choupo
+- Convenção
+- FAO
+- Investigação Científica e Tecnológica
+- Portugal
+- Roma
+relationships:
+- type: amended_by
+  target: pt:dre:273602:por
+  label: "Publicitada a emenda do art. IV da Convenção que integra a Comissão Internacional do Choupo no âmbito da F. A. O.,\
+    \ aprovada, para adesão, pelo presente diploma, pelo AV.DD4371.23.07.1968.MNE, DG.IS [173] de 23.07.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1968-273602
+  date: '1968-07-23'
+- type: corrected_by
+  target: pt:dre:627379:por
+  label: "Rectificados os arts. XII e XV do texto da Convenção que integra a Comissão Internacional do Choupo no âmbito da\
+    \ F. A. O., aprovada e publicada em anexo ao presente diploma, pela RECT.DD819.21.06.1963.PC, DG.IS [145] de 21.06.1963\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1963-627379
+  date: '1963-06-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:12Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +106,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção que integra a Comissão Internacional do Choupo no âmbito da F. A. O. (Food and Agriculture Organization of the United Nations), aprovada pela 10.ª sessão da Comissão Internacional do Choupo, reunida em Veneza em Setembro de 1959 e pela 10.ª sessão da Conferência da F. A. O., reunida em Roma no decorrer do mesmo ano de 1959, cujo texto em francês e respectiva tradução são os que seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção que integra a Comissão Internacional do Choupo no âmbito da F. A. O. (Food and Agriculture Organization of the United Nations), aprovada pela 10.ª sessão da Comissão Internacional do Choupo, reunida em Veneza em Setembro de 1959 e pela 10.ª sessão da Conferência da F. A. O., reunida em Roma no decorrer do mesmo ano de 1959, cujo texto em francês e respectiva tradução são os que seguem em anexo ao presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

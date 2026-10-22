@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1974-623067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 413ebe9a5f564eaac5457ef79621f9addc21fcb747117790f0cd24ebfdb9b423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e690c2755e9c389668a88d3d19028a1a9dfa70e36b270ba50ff300e522d057d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Forças Armadas
+- Junta de Salvação Nacional
+- Militar
+- Reserva
+- Saneamento de Pessoal
+- Saneamento Político
 relationships:
 - type: amended_by
   target: pt:dre:408536:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:408538:por
+  label: Rectificado pela DECL.DD9559.14.05.1974.JSN, DG.IS [112-Supl] de 14.05.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-408538
+  date: '1974-05-14'
+- type: repealed_by
+  target: pt:dre:408536:por
+  label: "Revogado o art. 1º pelo DEC LEI.200/74.14.05.1974.JSN, DG.IS [112-Supl] de 14.05.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1974-408536
+  date: '1974-05-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:55Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +113,16 @@ Nestes termos:
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Junta de Salvação Nacional pode ordenar a passagem à reserva dos militares que não ofereçam garantia de isenção política e de competência profissional para o exercício das suas funções de militar.
+Artigo 1.º - 1. A Junta de Salvação Nacional pode ordenar a passagem à reserva dos militares que não ofereçam garantia de isenção política e de competência profissional para o exercício das suas funções de militar.
 
 2. A passagem à reserva é determinada por simples despacho, com dispensa de outras formalidades.
 
-###### Art. 2.º Os militares que tiveram passagem à reserva e mantenham as condições de idade para a prestação de serviço no activo podem, a seu requerimento, vir a ser integrados nesta situação.
+Art. 2.º Os militares que tiveram passagem à reserva e mantenham as condições de idade para a prestação de serviço no activo podem, a seu requerimento, vir a ser integrados nesta situação.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 30 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.

@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45672-1964-472491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2063bed415e06e279369b9e270d10892f6eb6e4190bb97f1e8cd1bcf7a508154
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a989bfb7214b3cc3fd5bcdd2b2f9d148651518120f94f7b82b53c77167fc7fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Portuária
+- Comissão de Protecção contra as Radiações Ionizantes
+- Comissão Permanente
+- Definição de Competências
+- Direcção Geral da Marinha
+- Embarcação
+- Junta de Energia Nuclear
+- Mar Territorial
+- Ministério da Marinha
+- Portos
+- Presidente
+- Segurança Nuclear
+- Vogal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:44Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +111,7 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para efeitos deste decreto-lei são adoptadas as seguintes definições:
+Artigo 1.º Para efeitos deste decreto-lei são adoptadas as seguintes definições:
 
 a) «Navio nuclear» significa todo o navio provido de fontes de energia nuclear;
 
@@ -118,9 +131,9 @@ h) «Vistoria de entrada» é a vistoria especial a que devem ser submetidos os 
 
 i) «Autoridade marítima portuária» é a autoridade que superintende no porto de interesse na qualidade de delegado normal da Direcção-Geral da Marinha, podendo ser, conforme os casos, o chefe do departamento marítimo, o capitão do porto ou o delegado marítimo.
 
-###### Art. 2.º Pertencerá ao Ministro da Marinha, ouvida a comissão permanente prevista no artigo 3.º, a resolução dos problemas relacionados com o movimento de navios nucleares em águas territoriais portuguesas e a respectiva admissão em portos nacionais.
+Art. 2.º Pertencerá ao Ministro da Marinha, ouvida a comissão permanente prevista no artigo 3.º, a resolução dos problemas relacionados com o movimento de navios nucleares em águas territoriais portuguesas e a respectiva admissão em portos nacionais.
 
-###### Art. 3.º Para apreciar todos os assuntos emergentes da visita de navios nucleares a águas territoriais ou portos nacionais, coordenação dos pareceres referidos nos artigos subsequentes e habilitar o Ministro da Marinha a resolver, nos termos da competência estabelecida no artigo anterior, é constituída junto do Ministério da Marinha a Comissão Permanente para os Navios Nucleares, com a seguinte composição:
+Art. 3.º Para apreciar todos os assuntos emergentes da visita de navios nucleares a águas territoriais ou portos nacionais, coordenação dos pareceres referidos nos artigos subsequentes e habilitar o Ministro da Marinha a resolver, nos termos da competência estabelecida no artigo anterior, é constituída junto do Ministério da Marinha a Comissão Permanente para os Navios Nucleares, com a seguinte composição:
 
 Presidente: director-geral da Marinha ou seu representante;
 
@@ -140,7 +153,7 @@ Um representante do Ministério das Comunicações.
 
 § único. Para tomarem parte nos trabalhos desta Comissão Permanente poderá o presidente convocar, quando o julgar conveniente, outras entidades representando ou não outros organismos.
 
-###### Art. 4.º À Comissão Permanente referida no artigo anterior competirá dar pareceres, que serão submetidos à consideração do Ministro da Marinha, e coordenar os pareceres indicados nos artigos subsequentes sobre:
+Art. 4.º À Comissão Permanente referida no artigo anterior competirá dar pareceres, que serão submetidos à consideração do Ministro da Marinha, e coordenar os pareceres indicados nos artigos subsequentes sobre:
 
 1) Concessão ou denegação do direito de entrada e de navegação em águas territoriais e portos nacionais de navios nucleares;
 
@@ -152,17 +165,17 @@ Um representante do Ministério das Comunicações.
 
 5) Todo e qualquer outro assunto relativamente ao qual o Ministro da Marinha entenda dever consultá-la.
 
-###### Art. 5.º Pertencerá à Junta de Energia Nuclear e à Direcção-Geral da Marinha a apreciação pormenorizada das condições de segurança dos navios nucleares, respectivamente sob os aspectos nuclear e marítimo indicados na sua documentação de segurança completada por verificação a bordo, se for julgado conveniente.
+Art. 5.º Pertencerá à Junta de Energia Nuclear e à Direcção-Geral da Marinha a apreciação pormenorizada das condições de segurança dos navios nucleares, respectivamente sob os aspectos nuclear e marítimo indicados na sua documentação de segurança completada por verificação a bordo, se for julgado conveniente.
 
 Caberá ainda às entidades referidas a elaboração de pareceres preliminares a submeter à consideração da Comissão Permanente referida no artigo 3.º
 
-###### Art. 6.º Pertencerá à Junta de Energia Nuclear, à Direcção-Geral da Marinha, à Comissão de Protecção contra as Radiações Ionizantes e à respectiva administração portuária e autoridade marítima portuária a competência para o estabelecimento das medidas de segurança exteriores a adoptar em caso de visita de navios nucleares a portos portugueses e a responsabilidade de delas dar conhecimento à Comissão Permanente referida no artigo 3.º
+Art. 6.º Pertencerá à Junta de Energia Nuclear, à Direcção-Geral da Marinha, à Comissão de Protecção contra as Radiações Ionizantes e à respectiva administração portuária e autoridade marítima portuária a competência para o estabelecimento das medidas de segurança exteriores a adoptar em caso de visita de navios nucleares a portos portugueses e a responsabilidade de delas dar conhecimento à Comissão Permanente referida no artigo 3.º
 
-###### Art. 7.º Competirá à Organização Nacional de Defesa Civil do Território, em colaboração com a Junta de Energia Nuclear, a responsabilidade de estabelecer planos de medidas de emergência em casos de acidentes nucleares.
+Art. 7.º Competirá à Organização Nacional de Defesa Civil do Território, em colaboração com a Junta de Energia Nuclear, a responsabilidade de estabelecer planos de medidas de emergência em casos de acidentes nucleares.
 
-###### Art. 8.º Pertencerá à autoridade marítima portuária dar execução às medidas relacionadas com a visita de navios nucleares aos portos no quadro das resoluções tomadas nos termos dos artigos 2.º a 7.º
+Art. 8.º Pertencerá à autoridade marítima portuária dar execução às medidas relacionadas com a visita de navios nucleares aos portos no quadro das resoluções tomadas nos termos dos artigos 2.º a 7.º
 
-###### Art. 9.º A fim de permanentemente habilitar a autoridade marítima portuária ao desempenho das funções que lhe são cometidas pelo artigo anterior, será constituído e funcionará junto daquela autoridade, em cada caso concreto e para os fins especìficamente relacionados com a visita de um navio nuclear, um grupo de segurança nuclear do porto, com a seguinte composição:
+Art. 9.º A fim de permanentemente habilitar a autoridade marítima portuária ao desempenho das funções que lhe são cometidas pelo artigo anterior, será constituído e funcionará junto daquela autoridade, em cada caso concreto e para os fins especìficamente relacionados com a visita de um navio nuclear, um grupo de segurança nuclear do porto, com a seguinte composição:
 
 Um representante da Junta de Energia Nuclear;
 
@@ -170,7 +183,7 @@ Um representante especial da Direcção-Geral da Marinha;
 
 Um representante da administração portuária.
 
-###### Art. 10.º O grupo de segurança nuclear do porto referido no artigo anterior, que actuará por delegação da Comissão Permanente mencionada no artigo 3.º, será obrigatòriamente ouvido em todos os problemas de segurança local, competindo-lhe especìficamente:
+Art. 10.º O grupo de segurança nuclear do porto referido no artigo anterior, que actuará por delegação da Comissão Permanente mencionada no artigo 3.º, será obrigatòriamente ouvido em todos os problemas de segurança local, competindo-lhe especìficamente:
 
 a) Informar o capitão do porto, para o habilitar a decidir sobre os resultados da vistoria de entrada a executar conforme os preceitos do capítulo VIII da Convenção para salvaguarda da vida humana no mar, 1960, e recomendações do seu Anexo C;
 
@@ -182,9 +195,9 @@ Ao grupo de segurança caberá ainda decidir em caso de emergência;
 
 c) Estabelecer uma ligação da coordenação com o órgão local de defesa civil do território relativamente às medidas de emergência a adoptar em caso de acidente nuclear.
 
-###### Art. 11.º A vistoria de entrada será da competência da Junta de Energia Nuclear e da Direcção-Geral da Marinha, respectivamente nos seus aspectos nuclear e marítimo, e tem por objectivo verificar se no momento de entrada de um navio nuclear num porto ele oferece as condições de segurança previstas na sua documentação de segurança.
+Art. 11.º A vistoria de entrada será da competência da Junta de Energia Nuclear e da Direcção-Geral da Marinha, respectivamente nos seus aspectos nuclear e marítimo, e tem por objectivo verificar se no momento de entrada de um navio nuclear num porto ele oferece as condições de segurança previstas na sua documentação de segurança.
 
-###### Art. 12.º Sem prejuízo de outras medidas de carácter particular que venham a ser estabelecidas, a vistoria de entrada deverá verificar:
+Art. 12.º Sem prejuízo de outras medidas de carácter particular que venham a ser estabelecidas, a vistoria de entrada deverá verificar:
 
 a) Que a instalação nuclear está devidamente certificada e que foram feitos os exames periódicos exigidos pelo manual de operação;
 
@@ -198,9 +211,9 @@ e) Por exame dos registos de bordo ou por medições independentes, a actividade
 
 f) Que os dispositivos e o equipamento convencionais e de emergência, cuja segurança é essencial quando navegando em águas restritas, estão em condições de eficiente funcionamento.
 
-###### Art. 13.º A execução das medidas de segurança estabelecidas nos termos dos artigos 4.º a 7.º, a propósito da visita de navios nucleares a portos portugueses, será de responsabilidade da Junta de Energia Nuclear, da Direcção-Geral da Marinha, da capitania do porto e da administração portuária.
+Art. 13.º A execução das medidas de segurança estabelecidas nos termos dos artigos 4.º a 7.º, a propósito da visita de navios nucleares a portos portugueses, será de responsabilidade da Junta de Energia Nuclear, da Direcção-Geral da Marinha, da capitania do porto e da administração portuária.
 
-###### Art. 14.º Independentemente de outras medidas de carácter particular que venham a ser estabelecidas, as medidas de segurança deverão visar a:
+Art. 14.º Independentemente de outras medidas de carácter particular que venham a ser estabelecidas, as medidas de segurança deverão visar a:
 
 a) Reduzir ao mínimo os riscos de incêndio, encalhe e colisão durante a navegação do navio nas zonas de aproximação e permanência nas zonas portuárias;
 
@@ -208,7 +221,7 @@ b) Conseguir que durante a sua permanência no porto o navio esteja suficienteme
 
 c) Controlar por forma adequada o nível de radioactividade das poeiras atmosféricas e das águas no porto visitado.
 
-###### Art. 15.º O presidente e os vogais da Comissão Permanente referida no artigo 3.º e, bem assim, os delegados referidos no § único do mesmo artigo, terão direito a uma senha de presença de 225$00 por cada sessão a que assistirem, quer plenária, quer dos grupos de trabalho que venham a constituir-se, com o abono máximo de duas sessões por mês, e também aos transportes e ajudas de custo, correspondentes à sua categoria como funcionários públicos, quando se desloquem em serviço da citada Comissão Permanente. Os correspondentes encargos serão suportados pelo orçamento do Ministério da Marinha.
+Art. 15.º O presidente e os vogais da Comissão Permanente referida no artigo 3.º e, bem assim, os delegados referidos no § único do mesmo artigo, terão direito a uma senha de presença de 225$00 por cada sessão a que assistirem, quer plenária, quer dos grupos de trabalho que venham a constituir-se, com o abono máximo de duas sessões por mês, e também aos transportes e ajudas de custo, correspondentes à sua categoria como funcionários públicos, quando se desloquem em serviço da citada Comissão Permanente. Os correspondentes encargos serão suportados pelo orçamento do Ministério da Marinha.
 
 § único. Para fazer face no corrente ano aos encargos previstos neste artigo é inscrita no capítulo 5.º, artigo 224.º, sob a divisão «Organismos consultivos», do orçamento do Ministério da Marinha a importância de 20000$00, acrescentando-se àquele artigo o seguinte número:
 
@@ -216,6 +229,6 @@ c) Controlar por forma adequada o nível de radioactividade das poeiras atmosfé
 
 Esta inscrição será compensada pela anulação de importância igual na verba inscrita no capítulo 5.º, artigo 183.º, n.º 1), do mesmo orçamento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

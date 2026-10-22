@@ -47,40 +47,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/516-1971-631673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2eceef9ca9711c9ba2b3c31ba26ffdf83f064881897b6a2609a0e665dce3002c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31830ece7c2090395e697f0f038dd4851552cc57d978fbab0d32539662943d77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Albufeira.concelho
+- Amarante
+- Amares
+- Angra do Heroísmo
+- Azambuja
+- Braga
+- Castro Verde
+- Chaves
+- Coimbra
+- Estremoz
+- Évora
+- Feira
+- Guimarães
+- Imóvel Classificado
+- Lisboa
+- Loures
+- Marco de Canaveses
+- Matosinhos
+- Portalegre
+- Porto
+- Protecção do Património
+- Reguengos de Monsaraz
+- Seixal
+- Sernancelhe
+- Setúbal
+- Tarouca
+- Terras de Bouro
+- Vinhais
 relationships:
 - type: amended_by
   target: pt:dre:66888637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66888637:por
+  label: Revista a classificação da Anta Grande do Zambujeiro de Valverde pelo(a) Decreto n.º 5/2015 - Diário da República
+    n.º 63/2015, Série I de 2015-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2015-66888637
+  date: '2015-03-31'
+- type: amended_by
+  target: pt:dre:75207537:por
+  label: Fixada a zona especial de proteção do Edifício da Rua da Escola Politécnica, 147, conhecido pelas designações de
+    Palácio Bramão ou Palácio Ceia, pelo(a) Portaria n.º 253/2016 - Diário da República n.º 165/2016, Série II de 2016-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2016-75207537
+  date: '2016-08-29'
+- type: amended_by
+  target: pt:dre:116114682:por
+  label: Torna público a desclassificação da Estação Paleolítica do Casal do Monte, em Santo António dos Cavaleiros, Lisboa,
+    que havia sido classificada como imóvel de interesse público, pelo presente despacho, pelo(a) Portaria n.º 425/2018 -
+    Diário da República n.º 159/2018, Série II de 2018-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-2018-116114682
+  date: '2018-08-20'
+- type: cites
+  target: pt:dre:142504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:06Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +164,7 @@ Nos termos dos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diari
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
+Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
 
 Distrito de Évora:
 
@@ -111,7 +182,7 @@ Distrito de Lisboa:
 
 Concelho da Azambuja - Castro de Vila Nova de S. Pedro, lugar de Torre de Penalva, freguesia de Vila Nova de S. Pedro.
 
-###### Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
+Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
 
 Distrito de Angra do Heroísmo:
 
@@ -221,15 +292,15 @@ Concelho de Sernancelhe - Convento de S. Bernardo, no lugar de Tabosa, freguesia
 
 Concelho de Tarouca - Ruínas românicas no local de Abadia Velha, na freguesia de Ucanha, concelho de Tarouca.
 
-###### Art. 3.º A classificação como monumento nacional limitada pelo [Decreto n.º 35443](https://diariodarepublica.pt/dr/detalhe/decreto/35443-1946-235678), de 2 de Janeiro de 1946, à Fortificação da Praça de Monsaraz, concelho de Reguengos de Monsaraz, distrito de Évora, passa a abranger toda a vila intramuros, com a seguinte designação: «Fortificações e todo o conjunto intramuros da vila de Monsaraz.»
+Art. 3.º A classificação como monumento nacional limitada pelo [Decreto n.º 35443](https://diariodarepublica.pt/dr/detalhe/decreto/35443-1946-235678), de 2 de Janeiro de 1946, à Fortificação da Praça de Monsaraz, concelho de Reguengos de Monsaraz, distrito de Évora, passa a abranger toda a vila intramuros, com a seguinte designação: «Fortificações e todo o conjunto intramuros da vila de Monsaraz.»
 
-###### Art. 4.º É eliminada da relação dos monumentos nacionais o seguinte imóvel, classificado pelo [Decreto n.º 8938](https://diariodarepublica.pt/dr/detalhe/decreto/8938-1923-319278), de 20 de Junho de 1923:
+Art. 4.º É eliminada da relação dos monumentos nacionais o seguinte imóvel, classificado pelo [Decreto n.º 8938](https://diariodarepublica.pt/dr/detalhe/decreto/8938-1923-319278), de 20 de Junho de 1923:
 
 Distrito de Coimbra:
 
 Concelho de Coimbra - Capela do Tesoureiro (numa das absides da Igreja de S. Domingos).
 
-###### Art. 5.º Fica rectificado:
+Art. 5.º Fica rectificado:
 
 a) Que o [Decreto n.º 40361](https://diariodarepublica.pt/dr/detalhe/decreto/40361-1955-245491), que classifica a Estação Arqueológica de Santa Marta das Cortiças, na freguesia de Nogueira, do concelho e distrito de Braga, é de 20 de Outubro de 1955, e não de 20 de Outubro de 1956, como vem indicado na alínea b) do artigo 3.º do [Decreto n.º 251/70](https://diariodarepublica.pt/dr/detalhe/decreto/251-1970-142504), de 3 de Junho;
 
@@ -237,8 +308,8 @@ b) Que o monumento nacional referido no artigo 4.º do [Decreto n.º 251/70](htt
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 10 de Novembro de 1971.**
+Promulgado em 10 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

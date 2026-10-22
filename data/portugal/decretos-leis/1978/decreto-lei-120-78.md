@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1978-294551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba51e957f48d2623123e6badbec0b5c5a5ec8982096db009ba103418e3ce8092
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 665805c8de9b7dc824123b4e6b04ce91bcc343906002eb919b80048657bba728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Análise
+- Contrato de Viabilização
+- Empresa
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:51Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os contratos de viabilização previstos no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, só poderão ser celebrados pelas empresas que, até 31 de Dezembro de 1978, enviem à Comissão de Apreciação, nos termos do n.º 2 do artigo 7.º do citado diploma legal, cópia do respectivo processo.
+Artigo 1.º Os contratos de viabilização previstos no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, só poderão ser celebrados pelas empresas que, até 31 de Dezembro de 1978, enviem à Comissão de Apreciação, nos termos do n.º 2 do artigo 7.º do citado diploma legal, cópia do respectivo processo.
 
-###### Art. 2.º Exceptuam-se do disposto no artigo anterior:
+Art. 2.º Exceptuam-se do disposto no artigo anterior:
 
 a) As empresas intervencionadas ou em regime provisório de gestão por parte do Estado em relação às quais a competente resolução de desintervenção ou de cessação da gestão estabeleça a realização de contratos de viabilização para data posterior a 31 de Dezembro de 1978;
 
@@ -102,8 +114,8 @@ b) As empresas sujeitas ao regime do [Decreto-Lei n.º 353-H/77](https://diariod
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado nos termos do artigo 135.º da Constituição da República Portuguesa, em 24 de Maio de 1978.**
+Promulgado nos termos do artigo 135.º da Constituição da República Portuguesa, em 24 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.

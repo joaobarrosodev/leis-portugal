@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27600/17991802.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab643ecf0175c372d5eabe9a3a55578c2b7470d907e9ace8452baa6c7600ef64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 326533702726dbe6f295121dd07720229ce43b87b2eaf680ecc34c18e7f9a65e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crime
+- Definição de Competências
+- Direcção Geral do Turismo
+- Fundo de Turismo
+- Infraestrutura Turística
+- Instalação de Serviços
+- Junta Autónoma das Estradas
+- Licenciamento
+- Ministério da Saúde e Assistência
+- Parque de Campismo
+- Receita Própria
+- Regime Jurídico
+- Secretaria de Estado da Informação e Turismo
+- Secretário de Estado da Informação e Turismo
+- Sinalização
+- Turismo
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:250607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.17.02.1996.AR, DR.IS-A [41]\
+    \ de 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-17'
+- type: cites
+  target: pt:dre:231318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442949:por
+  label: Revogado o art. 24º pelo DEC LEI.423/83.05.12.1983.PCM, DR.IS [279] de 05.12.1983, sem prejuízo do disposto no seu
+    art. 35º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/423-1983-442949
+  date: '1983-12-05'
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem prejuízo do disposto no nº 2 do art. 2º do referido\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:156001:por
+  label: "Revogado pelo DEC LEI.167/97.1997.07.04.MECO, DR.IS-A [152], no que se refere à instalação e ao funcionamento dos\
+    \ parques de campismo públicos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1997-156001
+  date: '1997-07-04'
+- type: repealed_by
+  target: pt:dre:250607:por
+  label: "Revogado pelo DEC LEI.55/2002.2002.03.11.MECO DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2002-250607
+  date: '2002-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:45Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +165,7 @@ I
 
 Das normas gerais
 
-###### Artigo 1.º - 1. Consideram-se parques de campismo os terrenos normalmente destinados, quer a título gratuito, quer oneroso, à instalação de tendas ou outros abrigos semelhantes e à permanência de reboques ou veículos habitáveis, designadamente caravanas ou roulottes.
+Artigo 1.º - 1. Consideram-se parques de campismo os terrenos normalmente destinados, quer a título gratuito, quer oneroso, à instalação de tendas ou outros abrigos semelhantes e à permanência de reboques ou veículos habitáveis, designadamente caravanas ou roulottes.
 
 2. Os parques de campismo classificam-se em públicos e privativos.
 
@@ -111,7 +173,7 @@ Das normas gerais
 
 4. São públicos todos os parques de campismo não compreendidos no número anterior.
 
-###### Art. 2.º - 1. É das atribuições da Secretaria de Estado da Informação e Turismo:
+Art. 2.º - 1. É das atribuições da Secretaria de Estado da Informação e Turismo:
 
 a) Fomentar a criação, a ampliação e a reorganização dos parques de campismo públicos;
 
@@ -119,13 +181,13 @@ b) Orientar, disciplinar e fiscalizar a instalação e o funcionamento dos parqu
 
 2. Para exercício das atribuições que lhe são cometidas no número anterior e sempre que haja lugar à intervenção de outras entidades, compete à Secretaria de Estado promover as reuniões necessárias para a apreciação e resolução conjunta de quaisquer processos ou assuntos pendentes.
 
-###### Art. 3.º A verificação das condições sanitárias dos locais e das instalações dos parques de campismo públicos e privativos compete à Direcção-Geral de Saúde, pelas delegações distritais de saúde.
+Art. 3.º A verificação das condições sanitárias dos locais e das instalações dos parques de campismo públicos e privativos compete à Direcção-Geral de Saúde, pelas delegações distritais de saúde.
 
 II
 
 Dos parques de campismo públicos
 
-###### Art. 4.º - 1. Para o desempenho das atribuições a que se refere o n.º 1 do artigo 2.º, cabe especialmente à Secretaria de Estado, pela Direcção-Geral do Turismo:
+Art. 4.º - 1. Para o desempenho das atribuições a que se refere o n.º 1 do artigo 2.º, cabe especialmente à Secretaria de Estado, pela Direcção-Geral do Turismo:
 
 a) Aprovar, sem prejuízo da competência atribuída a outras entidades, nos termos definidos neste decreto-lei, a localização e os projectos das instalações dos parques de campismo;
 
@@ -151,11 +213,11 @@ b) Aprovar os estatutos das pessoas colectivas que tenham por fim a exploração
 
 3. Na apreciação dos pedidos de localização a Direcção-Geral do Turismo e as restantes entidades chamadas a pronunciar-se tomarão sempre em consideração os planos gerais de aproveitamento turístico do País e de cada região em particular, aprovados pela Secretaria de Estado da Informação e Turismo.
 
-###### Art. 5.º - 1. Desde que não haja lugar à intervenção dos serviços centrais de outros Ministérios, o Secretário de Estado da Informação e Turismo poderá delegar, total ou parcialmente, nos órgãos locais de turismo e nas delegações da Secretaria de Estado a competência estabelecida no n.º 1 do artigo 4.º, excepto quanto ao disposto nas alíneas f) e h).
+Art. 5.º - 1. Desde que não haja lugar à intervenção dos serviços centrais de outros Ministérios, o Secretário de Estado da Informação e Turismo poderá delegar, total ou parcialmente, nos órgãos locais de turismo e nas delegações da Secretaria de Estado a competência estabelecida no n.º 1 do artigo 4.º, excepto quanto ao disposto nas alíneas f) e h).
 
 2. Aplicar-se-á às entidades delegadas o que neste diploma e seus regulamentos se dispõe para a Direcção-Geral do Turismo, com as necessárias adaptações.
 
-###### Art. 6.º Serão objecto de regulamento:
+Art. 6.º Serão objecto de regulamento:
 
 a) Os requisitos a que devem obedecer os parques de campismo;
 
@@ -165,13 +227,13 @@ c) As normas gerais do seu funcionamento;
 
 d) O processo de concessão das autorizações e aprovações exigidas pelo presente diploma.
 
-###### Art. 7.º - 1. Os processos respeitantes à instalação, classificação, disciplina e funcionamento dos parques de campismo serão organizados pela Direcção-Geral do Turismo, ainda que haja lugar à intervenção de outras entidades ou serviços.
+Art. 7.º - 1. Os processos respeitantes à instalação, classificação, disciplina e funcionamento dos parques de campismo serão organizados pela Direcção-Geral do Turismo, ainda que haja lugar à intervenção de outras entidades ou serviços.
 
 2. A Direcção-Geral do Turismo promoverá as diligências necessárias para obter das outras entidades ou serviços as respectivas autorizações, aprovações ou pareceres.
 
 3. Para efeitos do disposto nos números anteriores, os interessados apresentarão na Direcção-Geral do Turismo, ou em qualquer das delegações da Secretaria de Estado, os respectivos requerimentos, acompanhados dos elementos exigidos no presente diploma, seus regulamentos e demais legislação aplicável.
 
-###### Art. 8.º - 1. A Direcção-Geral do Turismo remeterá às demais entidades ou serviços interessados os elementos apresentados, para obtenção das respectivas autorizações, aprovações ou pareceres, nos termos do número seguinte.
+Art. 8.º - 1. A Direcção-Geral do Turismo remeterá às demais entidades ou serviços interessados os elementos apresentados, para obtenção das respectivas autorizações, aprovações ou pareceres, nos termos do número seguinte.
 
 2. Para este efeito, a Direcção-Geral do Turismo poderá:
 
@@ -181,27 +243,27 @@ b) Convocar reuniões com representantes das entidades ou serviços interessados
 
 3. Se qualquer das entidades consultadas se pronunciar desfavoràvelmente, deverá o respectivo parecer ou decisão ser fundamentado.
 
-###### Art. 9.º - 1. No caso da alínea a) do n.º 2 do artigo anterior, as entidades ou serviços consultados devem pronunciar-se no prazo de sessenta dias, a contar da data do recebimento dos elementos.
+Art. 9.º - 1. No caso da alínea a) do n.º 2 do artigo anterior, as entidades ou serviços consultados devem pronunciar-se no prazo de sessenta dias, a contar da data do recebimento dos elementos.
 
 2. Quando o não fizerem, entender-se-á nada terem a opor ao requerido.
 
-###### Art. 10.º - 1. No caso da alínea b) do n.º 2 do artigo 8.º, as reuniões terão lugar no prazo máximo de sessenta dias, a contar da data do recebimento dos elementos pelas entidades ou serviços consultados.
+Art. 10.º - 1. No caso da alínea b) do n.º 2 do artigo 8.º, as reuniões terão lugar no prazo máximo de sessenta dias, a contar da data do recebimento dos elementos pelas entidades ou serviços consultados.
 
 2. Nestas reuniões, as decisões de cada entidade ou serviço serão comunicadas pelo seu representante, continuando a aplicar-se a essas decisões as correspondentes normas legais em tudo aquilo em que não forem contrárias ao disposto neste diploma.
 
 3. No caso de algum dos representantes às reuniões considerar de alterar a decisão tomada, a acta da reunião será submetida à homologação da entidade competente, se for caso disso, considerando-se ratificada a alteração se nenhuma decisão for comunicada à Direcção-Geral do Turismo no prazo de quinze dias.
 
-###### Art. 11.º - 1. Dos pareceres ou resoluções desfavoráveis ao pedido apresentado, se não tiverem sido homologados pelo membro do Governo em cada caso competente, cabe recurso para a mesma entidade, a interpor no prazo de quinze dias após a respectiva notificação.
+Art. 11.º - 1. Dos pareceres ou resoluções desfavoráveis ao pedido apresentado, se não tiverem sido homologados pelo membro do Governo em cada caso competente, cabe recurso para a mesma entidade, a interpor no prazo de quinze dias após a respectiva notificação.
 
 2. A decisão será proferida no prazo de trinta dias, entendendo-se como recusa a sua falta dentro desse prazo.
 
-###### Art. 12.º Se os interessados apresentarem simultâneamente os elementos necessários à apreciação da localização e do projecto, a Direcção-Geral do Turismo e as demais entidades ou serviços deverão pronunciar-se desde logo sobre todos esses elementos.
+Art. 12.º Se os interessados apresentarem simultâneamente os elementos necessários à apreciação da localização e do projecto, a Direcção-Geral do Turismo e as demais entidades ou serviços deverão pronunciar-se desde logo sobre todos esses elementos.
 
-###### Art. 13.º - 1. A execução de quaisquer obras nos parques de campismo, que não sejam de simples conservação, está sujeita, com as necessárias adaptações, ao disposto nos artigos 7.º e seguintes deste diploma.
+Art. 13.º - 1. A execução de quaisquer obras nos parques de campismo, que não sejam de simples conservação, está sujeita, com as necessárias adaptações, ao disposto nos artigos 7.º e seguintes deste diploma.
 
 2. No caso de as obras serem destinadas a obter a reclassificação do parque, o interessado deverá referi-lo expressamente aquando da apresentação do respectivo projecto.
 
-###### Art. 14.º - 1. Nenhum parque de campismo poderá ser instalado e iniciar a sua exploração sem prévia autorização da Direcção-Geral do Turismo.
+Art. 14.º - 1. Nenhum parque de campismo poderá ser instalado e iniciar a sua exploração sem prévia autorização da Direcção-Geral do Turismo.
 
 2. Independentemente da aplicação de qualquer sanção a que haja lugar, a Direcção-Geral do Turismo mandará encerrar imediatamente qualquer parque de campismo que inicie a sua exploração sem a autorização prevista no número anterior.
 
@@ -215,11 +277,11 @@ b) Convocar reuniões com representantes das entidades ou serviços interessados
 
 7. As autoridades administrativas e policiais farão cumprir, a solicitação da Direcção-Geral do Turismo ou das delegações distritais de saúde, o disposto nos n.os 2, 3 e 6, e prestarão auxílio aos funcionários encarregados de fiscalizar o cumprimento da determinação.
 
-###### Art. 15.º - 1. A Direcção-Geral do Turismo e as delegações distritais de saúde poderão, a qualquer tempo, realizar as vistorias e inspecções que tiverem por convenientes aos parques de campismo.
+Art. 15.º - 1. A Direcção-Geral do Turismo e as delegações distritais de saúde poderão, a qualquer tempo, realizar as vistorias e inspecções que tiverem por convenientes aos parques de campismo.
 
 2. O disposto no numero anterior não obsta ás vistorias e inspecções a realizar por outras entidades no âmbito da sua competência.
 
-###### Art. 16.º - 1. Quando a utilização das instalações dos parques dependa de vistoria prévia de outras entidades ou serviços, além da Direcção-Geral do Turismo, realizar-se-á uma só vistoria, conjunta, competindo a esta Direcção-Geral a sua convocação.
+Art. 16.º - 1. Quando a utilização das instalações dos parques dependa de vistoria prévia de outras entidades ou serviços, além da Direcção-Geral do Turismo, realizar-se-á uma só vistoria, conjunta, competindo a esta Direcção-Geral a sua convocação.
 
 2. Se alguma das entidades ou serviços convocados não se fizer representar na vistoria, considera-se que aceita a decisão final dela resultante.
 
@@ -227,7 +289,7 @@ b) Convocar reuniões com representantes das entidades ou serviços interessados
 
 4. Aplicar-se-á neste caso o disposto no artigo 11.º, com as necessárias adaptações.
 
-###### Art. 17.º - 1. A vistoria a que se refere o artigo anterior deverá realizar-se no prazo de trinta dias, contados da data da entrada do respectivo pedido na Direcção-Geral do Turismo.
+Art. 17.º - 1. A vistoria a que se refere o artigo anterior deverá realizar-se no prazo de trinta dias, contados da data da entrada do respectivo pedido na Direcção-Geral do Turismo.
 
 2. Da vistoria será elaborado um relatório conjunto, assinado por todos os intervenientes.
 
@@ -235,9 +297,9 @@ b) Convocar reuniões com representantes das entidades ou serviços interessados
 
 4. Findos os prazos estabelecidos nos n.os 1 e 3 sem ter sido realizada a vistoria ou feita a notificação do seu resultado, o parque poderá entrar imediatamente em funcionamento, independentemente de quaisquer autorizações.
 
-###### Art. 18.º Nenhuma entidade ou serviço poderá recusar a passagem das licenças da sua competência para a instalação de um parque de campismo desde que tenham sido concedidas as respectivas autorizações e aprovações, nos termos do presente decreto-lei.
+Art. 18.º Nenhuma entidade ou serviço poderá recusar a passagem das licenças da sua competência para a instalação de um parque de campismo desde que tenham sido concedidas as respectivas autorizações e aprovações, nos termos do presente decreto-lei.
 
-###### Art. 19.º - 1. As infracções ao disposto no presente diploma e seus regulamentos serão punidas administrativamente com as seguintes sanções, nos termos nesses regulamentos fixados:
+Art. 19.º - 1. As infracções ao disposto no presente diploma e seus regulamentos serão punidas administrativamente com as seguintes sanções, nos termos nesses regulamentos fixados:
 
 a) Advertência;
 
@@ -253,21 +315,21 @@ d) Encerramento definitivo do parque.
 
 4. Na falta de pagamento voluntário de uma multa, extrair-se-á certidão da divida, que terá força executiva e será remetida aos tribunais das contribuições e impostos para efeitos de cobrança coerciva, nos termos do Código de Processo das Contribuições e Impostos.
 
-###### Art. 20.º - 1. A aplicação das sanções das alíneas a), b) e c) do n.º 1 do artigo 19.º é da competência do director-geral do Turismo, só havendo lugar a recurso hierárquico no caso da alínea c), a interpor no prazo de oito dias, a contar da notificação.
+Art. 20.º - 1. A aplicação das sanções das alíneas a), b) e c) do n.º 1 do artigo 19.º é da competência do director-geral do Turismo, só havendo lugar a recurso hierárquico no caso da alínea c), a interpor no prazo de oito dias, a contar da notificação.
 
 2. A aplicação da sanção da alínea d) do n.º 1 do mesmo artigo é da competência do Secretário de Estado da Informação e Turismo.
 
-###### Art. 21.º As sanções serão fixadas tendo em atenção a natureza e circunstâncias da infracção, o prejuízo ou risco de prejuízo para os lesados e para o turismo nacional e os antecedentes do infractor.
+Art. 21.º As sanções serão fixadas tendo em atenção a natureza e circunstâncias da infracção, o prejuízo ou risco de prejuízo para os lesados e para o turismo nacional e os antecedentes do infractor.
 
-###### Art. 22.º Os processos relativos às infracções ao disposto no presente diploma e suas disposições regulamentares serão instruídos pela Direcção-Geral do Turismo.
+Art. 22.º Os processos relativos às infracções ao disposto no presente diploma e suas disposições regulamentares serão instruídos pela Direcção-Geral do Turismo.
 
-###### Art. 23.º - 1. Independentemente da aplicação de qualquer sanção, a Direcção-Geral do Turismo cobrará das entidades exploradoras dos parques de campismo as importâncias recebidas além dos preços visados e providenciará no sentido da sua restituição aos interessados.
+Art. 23.º - 1. Independentemente da aplicação de qualquer sanção, a Direcção-Geral do Turismo cobrará das entidades exploradoras dos parques de campismo as importâncias recebidas além dos preços visados e providenciará no sentido da sua restituição aos interessados.
 
 2. Quando a restituição for inviável por facto imputável ao interessado, a importância reverterá para o Fundo de Turismo.
 
 3. A Direcção-Geral do Turismo notificará a entidade exploradora para o efeito previsto no n.º 1, fixando prazo para a entrega, findo o qual será extraída certidão do processo, que constitui título executivo bastante e será enviada aos tribunais das contribuições e impostos para efeitos de cobrança coerciva, nos termos do Código de Processo das Contribuições e Impostos.
 
-###### Art. 24.º - 1. Os parques de campismo poderão ser declarados de utilidade turística, por despacho do Secretário de Estado da Informação e Turismo, para os efeitos previstos nas Leis n.os 2073 e 2081, respectivamente de 23 de Dezembro de 1954 e de 4 de Junho de 1956, com as alterações constantes dos números seguintes.
+Art. 24.º - 1. Os parques de campismo poderão ser declarados de utilidade turística, por despacho do Secretário de Estado da Informação e Turismo, para os efeitos previstos nas Leis n.os 2073 e 2081, respectivamente de 23 de Dezembro de 1954 e de 4 de Junho de 1956, com as alterações constantes dos números seguintes.
 
 2. As empresas proprietárias e as exploradoras só beneficiarão das isenções totais estabelecidas nas citadas leis e apenas por um período de cinco anos, a contar da data da entrada em funcionamento dos parques.
 
@@ -275,19 +337,19 @@ d) Encerramento definitivo do parque.
 
 4. O disposto no n.º 1 não se aplica aos parques existentes à data da entrada em vigor deste decreto-lei.
 
-###### Art. 25.º A Junta Autónoma de Estradas sinalizará a localização dos parques de campismo.
+Art. 25.º A Junta Autónoma de Estradas sinalizará a localização dos parques de campismo.
 
 III
 
 Dos outros locais de campismo
 
-###### Art. 26.º - 1. O disposto nos n.os 1, alínea a), e 3 do artigo 4.º e nos artigos 6.º a 22.º é aplicável aos parques de campismo privativos, com as necessárias adaptações.
+Art. 26.º - 1. O disposto nos n.os 1, alínea a), e 3 do artigo 4.º e nos artigos 6.º a 22.º é aplicável aos parques de campismo privativos, com as necessárias adaptações.
 
 2. Em regulamento serão fixadas as restantes regras a que ficam sujeitos a instalação e funcionamento dos parques de campismo privativos.
 
-###### Art. 27.º A prática do campismo fora dos parques é livre, com a observância das regras estabelecidas em regulamento.
+Art. 27.º A prática do campismo fora dos parques é livre, com a observância das regras estabelecidas em regulamento.
 
-###### Art. 28.º - 1. A instalação de casas de abrigo carece de aprovação das delegações distritais de saúde, para efeito da verificação das suas condições sanitárias.
+Art. 28.º - 1. A instalação de casas de abrigo carece de aprovação das delegações distritais de saúde, para efeito da verificação das suas condições sanitárias.
 
 2. A inobservância do disposto no número anterior determinará o encerramento das casas de abrigo.
 
@@ -295,28 +357,28 @@ IV
 
 Disposições transitórias e finais
 
-###### Art. 29.º - 1. As disposições do presente decreto-lei e seu regulamento aplicar-se-ão aos parques de campismo públicos e privativos existentes, salvo o disposto nos números seguintes.
+Art. 29.º - 1. As disposições do presente decreto-lei e seu regulamento aplicar-se-ão aos parques de campismo públicos e privativos existentes, salvo o disposto nos números seguintes.
 
 2. No prazo de seis meses, a contar da data da publicação do regulamento previsto no número anterior, as entidades proprietárias ou exploradoras deverão proceder à regularização dos parques, sob pena de encerramento.
 
 3. A Direcção-Geral do Turismo, ouvidas as delegações distritais de saúde, se for caso disso, poderá dispensar os parques existentes à data da publicação do presente diploma do cumprimento de alguns dos requisitos estabelecidos ou alargar o prazo do n.º 2, desde que as circunstâncias mostrem ser impossível ou excessivamente oneroso dar-lhes satisfação ou ser materialmente inviável fazê-lo no prazo previsto.
 
-###### Art. 30.º - 1. Nenhum recinto poderá ser usado como parque de campismo sem terem sido obtidas as autorizações previstas neste diploma para a instalação dos parques.
+Art. 30.º - 1. Nenhum recinto poderá ser usado como parque de campismo sem terem sido obtidas as autorizações previstas neste diploma para a instalação dos parques.
 
 2. Não é permitido o uso das expressões «parque de campismo», «camping», «caravaning» ou outras semelhantes em recintos destinados à prática do campismo que não tenham sido licenciados como parques de campismo.
 
 3. A infracção ao disposto no n.º 2 determinará a obrigação de retirar a expressão não autorizada, sob pena de desobediência.
 
-###### Art. 31.º O Ministro da Saúde e Assistência e o Secretário de Estado da Informação e Turismo resolverão por despacho, publicado no Diário do Governo, as dúvidas levantadas pela aplicação deste decreto-lei e suas disposições regulamentares, no âmbito das respectivas competências.
+Art. 31.º O Ministro da Saúde e Assistência e o Secretário de Estado da Informação e Turismo resolverão por despacho, publicado no Diário do Governo, as dúvidas levantadas pela aplicação deste decreto-lei e suas disposições regulamentares, no âmbito das respectivas competências.
 
-###### Art. 32.º Ficam revogados os Decretos-Leis n.os 43505, de 14 de Fevereiro de 1961, e 47330, de 23 de Novembro de 1966.
+Art. 32.º Ficam revogados os Decretos-Leis n.os 43505, de 14 de Fevereiro de 1961, e 47330, de 23 de Novembro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Novembro de 1970.**
+Promulgado em 11 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

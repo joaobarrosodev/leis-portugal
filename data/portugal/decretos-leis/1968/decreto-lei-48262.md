@@ -50,36 +50,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48262-1968-235157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeecf9da617de5b9740f797d485538b04ae46251d7665381f4d35b3d4a62c52d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5c395a5f3e2bb2908539e788c108c9104590244bfdc08bfaea968a0c0e0a4fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Auto-estrada
+- Auto-estrada do SUL
+- Classificação de Estradas
+- Estoril
+- Lisboa
+- Plano Rodoviario
+- Ponte Salazar
+- Rede de Estradas
+relationships:
+- type: cites
+  target: pt:dre:241850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584590:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:30Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +135,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É integrado na rede de estradas nacionais, a que se refere o [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945 (Plano Rodoviário), o troço da auto-estrada do Sul entre Lisboa, na sua ligação com a auto-estrada Lisboa-Estoril (estrada nacional n.º 7), e o Fogueteiro, na sua ligação com as estradas nacionais n.os 10 e 378, o qual inclui a Ponte Salazar, em Lisboa, e os respectivos acessos, representados na planta anexa a este decreto-lei.
+Artigo 1.º É integrado na rede de estradas nacionais, a que se refere o [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945 (Plano Rodoviário), o troço da auto-estrada do Sul entre Lisboa, na sua ligação com a auto-estrada Lisboa-Estoril (estrada nacional n.º 7), e o Fogueteiro, na sua ligação com as estradas nacionais n.os 10 e 378, o qual inclui a Ponte Salazar, em Lisboa, e os respectivos acessos, representados na planta anexa a este decreto-lei.
 
 § único. Será de conta da entidade encarregada da exploração da Ponte (presentemente o Gabinete da Ponte sobre o Tejo) a conservação desta, do viaduto norte e da praça de portagem, incluindo as respectivas instalações e terrenos anexos.
 
-###### Art. 2.º Salvo o disposto no § único do artigo 5.º, as zonas non aedificandi em relação a um e outro lado dos eixos do troço da auto-estrada do Sul, a que se refere o artigo 1.º, e da variante à estrada nacional n.º 377 (via rápida para a Costa da Caparica) têm, respectivamente, as seguintes larguras:
+Art. 2.º Salvo o disposto no § único do artigo 5.º, as zonas non aedificandi em relação a um e outro lado dos eixos do troço da auto-estrada do Sul, a que se refere o artigo 1.º, e da variante à estrada nacional n.º 377 (via rápida para a Costa da Caparica) têm, respectivamente, as seguintes larguras:
 
 a) Auto-estrada do Sul:
 
@@ -122,24 +155,24 @@ Do entroncamento com a estrada nacional n.º 10-1, junto à falésia, e a Costa 
 
 § único. As zonas non aedificandi nos lados exteriores dos nós de ligação à auto-estrada terão a largura de 50 m em relação aos eixos dos respectivos ramos de acesso.
 
-###### Art. 3.º Ficam proibidas quaisquer obras de construção, ampliação ou reconstrução dentro das zonas non aedificandi definidas no artigo 2.º e seu § único.
+Art. 3.º Ficam proibidas quaisquer obras de construção, ampliação ou reconstrução dentro das zonas non aedificandi definidas no artigo 2.º e seu § único.
 
-###### Art. 4.º Nenhuma obra de construção, ampliação ou reconstrução poderá ser executada a menos de 150 m do eixo do troço da auto-estrada referido no artigo 1.º ou dos eixos dos respectivos ramos de acesso e a menos de 100 m do eixo da variante à estrada nacional n.º 377 (via rápida para a Costa da Caparica) sem prévia autorização da Junta Autónoma de Estradas. Consequentemente, as câmaras municipais não poderão conceder as licenças a que se refere o n.º 20.º do artigo 51.º do Código Administrativo sem que os interessados produzam prova bastante daquela autorização.
+Art. 4.º Nenhuma obra de construção, ampliação ou reconstrução poderá ser executada a menos de 150 m do eixo do troço da auto-estrada referido no artigo 1.º ou dos eixos dos respectivos ramos de acesso e a menos de 100 m do eixo da variante à estrada nacional n.º 377 (via rápida para a Costa da Caparica) sem prévia autorização da Junta Autónoma de Estradas. Consequentemente, as câmaras municipais não poderão conceder as licenças a que se refere o n.º 20.º do artigo 51.º do Código Administrativo sem que os interessados produzam prova bastante daquela autorização.
 
 § único. As obras de construção, ampliação ou reconstrução executadas sem a autorização mencionada neste artigo serão demolidas à custa dos interessados, se houver procedido sem licença camarária, ou, havendo licença, à custa da câmara municipal que a tenha concedido.
 
-###### Art. 5.º Os planos de urbanização dos aglomerados situados ao longo dos traçados da auto-estrada e da variante da estrada nacional n.º 377, a que se refere o presente diploma, deverão respeitar os condicionamentos estabelecidos nos artigos anteriores.
+Art. 5.º Os planos de urbanização dos aglomerados situados ao longo dos traçados da auto-estrada e da variante da estrada nacional n.º 377, a que se refere o presente diploma, deverão respeitar os condicionamentos estabelecidos nos artigos anteriores.
 
 § único. Em casos muito especiais em que se verifique a necessidade de reduzir as distâncias fixadas no artigo 2.º por motivos de natureza urbanística, sem que isso acarrete prejuízo sensível para as vias de comunicação referidas no corpo deste artigo, poderá o Ministro das Obras Públicas, ouvidas a Junta Autónoma de Estradas e a Direcção-Geral dos Serviços de Urbanização, alterar por despacho aquelas distâncias.
 
-###### Art. 6.º Sem prejuízo do estabelecido nos artigos anteriores, observar-se-ão as disposições aplicáveis do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e do [Decreto-Lei n.º 42466](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42466-1959-432041), de 22 de Agosto de 1959, quanto às vias de comunicação a que se refere o presente decreto-lei.
+Art. 6.º Sem prejuízo do estabelecido nos artigos anteriores, observar-se-ão as disposições aplicáveis do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e do [Decreto-Lei n.º 42466](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42466-1959-432041), de 22 de Agosto de 1959, quanto às vias de comunicação a que se refere o presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Fevereiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/04700/03000302.pdf))](https://files.diariodarepublica.pt/1s/1968/02/04700/03000302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/04700/03000302.pdf)
 
 Ministério das Obras Públicas, 24 de Fevereiro de 1968. - O Ministro das Obras Públicas, José Albino Machado Vaz.

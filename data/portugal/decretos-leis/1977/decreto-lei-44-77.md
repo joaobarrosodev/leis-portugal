@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/02700/01790179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1977-138519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cead55846d409b9a8b90db6e1824ddeb3153bc0494420b711ea676caffa1459
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0737d16396a401b6cfce574363377a8864b13e159c48b9a9fe5151f8957478e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Judicial
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:354485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324328:por
+  label: "Alterado o artigo 4.º pelo DEC LEI.118/85.19.04.1985.MJ, DR.IS [91] de 19.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1985-324328
+  date: '1985-04-19'
+- type: cites
+  target: pt:dre:142569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354485:por
+  label: "Revogado pelo DEC LEI.391/88.26.10.1988.MJ, DR.IS [248] de 26.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1988-354485
+  date: '1988-10-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:15Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +117,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicável nos tribunais do trabalho o regime da assistência judiciária definido pela [Lei n.º 7/70](https://diariodarepublica.pt/dr/detalhe/lei/7-1970-142569), de 9 de Junho, e pelo [Decreto n.º 562/70](https://diariodarepublica.pt/dr/detalhe/decreto/562-1970-147226), de 18 de Novembro, com as alterações constantes do presente diploma.
+Artigo 1.º É aplicável nos tribunais do trabalho o regime da assistência judiciária definido pela [Lei n.º 7/70](https://diariodarepublica.pt/dr/detalhe/lei/7-1970-142569), de 9 de Junho, e pelo [Decreto n.º 562/70](https://diariodarepublica.pt/dr/detalhe/decreto/562-1970-147226), de 18 de Novembro, com as alterações constantes do presente diploma.
 
-###### Art. 2.º - 1. A declaração de rendimentos e encargos a que se refere o artigo 2.º do regulamento aprovado pelo [Decreto n.º 562/70](https://diariodarepublica.pt/dr/detalhe/decreto/562-1970-147226) será feita sob compromisso de honra, presumindo-se exactos os factos declarados para o efeito.
+Art. 2.º - 1. A declaração de rendimentos e encargos a que se refere o artigo 2.º do regulamento aprovado pelo [Decreto n.º 562/70](https://diariodarepublica.pt/dr/detalhe/decreto/562-1970-147226) será feita sob compromisso de honra, presumindo-se exactos os factos declarados para o efeito.
 
 2. A prestação de falsas declarações, além de fazer incorrer o requerente nas sanções previstas na lei penal, importa sempre a perda de benefícios já concedidos e bem assim a impossibilidade de recurso ao patrocínio do agente do Ministério Público.
 
-###### Art. 3.º Presume-se haver insuficiência económica dos trabalhadores por conta de outrem sempre que estes se encontrem em qualquer das situações seguintes:
+Art. 3.º Presume-se haver insuficiência económica dos trabalhadores por conta de outrem sempre que estes se encontrem em qualquer das situações seguintes:
 
 a) Reunirem as condições exigidas para a atribuição do subsídio de desemprego, ainda que expirado o período da respectiva concessão;
 
@@ -111,16 +131,16 @@ b) Terem os respectivos contratos de trabalho suspensos nos termos da lei, por f
 
 c) Terem rendimentos mensais, provenientes do trabalho e livres dos encargos legais, iguais ou inferiores ao montante do salário mínimo nacional.
 
-###### Art. 4.º Deixa de constituir presunção de insuficiência económica o facto de o requerente fruir, além do referido na alínea c) do artigo anterior, de outros rendimentos próprios ou de pessoas a seu cargo que, no conjunto, ultrapassem o valor de 100000$00 anuais.
+Art. 4.º Deixa de constituir presunção de insuficiência económica o facto de o requerente fruir, além do referido na alínea c) do artigo anterior, de outros rendimentos próprios ou de pessoas a seu cargo que, no conjunto, ultrapassem o valor de 100000$00 anuais.
 
-###### Art. 5.º O disposto no presente diploma aplica-se aos processos pendentes nos tribunais do trabalho quanto aos actos que forem praticados a partir da data da entrada em vigor do presente diploma.
+Art. 5.º O disposto no presente diploma aplica-se aos processos pendentes nos tribunais do trabalho quanto aos actos que forem praticados a partir da data da entrada em vigor do presente diploma.
 
-###### Art. 6.º Este diploma entra em vigor na data da sua publicação.
+Art. 6.º Este diploma entra em vigor na data da sua publicação.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Francisco Manuel Marcelo Monteiro Curto.
 
-**Promulgado em 15 de Janeiro de 1977.**
+Promulgado em 15 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

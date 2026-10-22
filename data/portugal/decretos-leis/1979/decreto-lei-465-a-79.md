@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 281/1979, 1º Suplemento, Série I de 1979-12-06
   number: '281'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3142-(1) a 3142-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28101/00010008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-a-1979-149793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f2d543f035e3ab60ed6e476f73fe4a205554d0935055ebc4653a4e6a05af709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f094627855cb34bf1dbb0a69ea96711328ede668e618fdbfbb6eee958f758ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Empresa Pública do Jornal Diário Popular
+- Empresa Pública do Jornal o Século
+- Empresa Pública dos Jornais Século e Popular
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 44
+  article_count: 43
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:17Z'
   warnings: []
   errors: []
 ---
@@ -111,57 +152,57 @@ Quanto à Empresa Pública do Jornal Diário Popular, os estatutos agora aprovad
 
 Nestes termos, o Governo decreta, nos termos do n.º 1, alínea a), do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta, por cisão, a Empresa Pública dos Jornais Século e Popular.
+Artigo 1.º - 1 - É extinta, por cisão, a Empresa Pública dos Jornais Século e Popular.
 
 2 - São criadas duas novas empresas públicas denominadas «Empresa Pública do Jornal O Século», por abreviatura EPJS, e «Empresa Pública do Jornal Diário Popular», por abreviatura EPDP, dotadas de personalidade jurídica e autonomia administrativa, financeira e patrimonial.
 
-###### Art. 2.º - 1 - A Empresa Pública do Jornal O Século é criada em resultado da cisão da Empresa Pública dos Jornais Século e Popular, sendo o seu património constituído pela universalidade dos bens, direitos e obrigações que foram pertença da ex-Sociedade Nacional de Tipografia, S. A. R. L., bem como dos que foram adquiridos ou contraídos posteriormente à data da criação da EPSP, que devessem considerar-se imputados à ex-SNT, caso esta tivesse mantido a sua existência jurídica.
+Art. 2.º - 1 - A Empresa Pública do Jornal O Século é criada em resultado da cisão da Empresa Pública dos Jornais Século e Popular, sendo o seu património constituído pela universalidade dos bens, direitos e obrigações que foram pertença da ex-Sociedade Nacional de Tipografia, S. A. R. L., bem como dos que foram adquiridos ou contraídos posteriormente à data da criação da EPSP, que devessem considerar-se imputados à ex-SNT, caso esta tivesse mantido a sua existência jurídica.
 
 2 - A Empresa Pública do Jornal Diário Popular é criada em resultado da cisão da Empresa Pública dos Jornais Século e Popular, sendo o seu património constituído pela universalidade dos bens, direitos e obrigações que foram pertença da ex-Sociedade Industrial de Imprensa, S. A. R. L., bem como dos que foram adquiridos ou contraídos posteriormente à data da criação da EPSP, que devessem considerar-se imputados à ex-SII, caso esta tivesse mantido a sua existência jurídica.
 
 3 - Os membros do conselho de gerência da EPSP não incorrem em qualquer responsabilidade pelas consequências destes actos de cisão e pela afectação de patrimónios.
 
-###### Art. 3.º - 1 - A universalidade dos bens, direitos e obrigações referidos no n.º 1 do artigo antecedente é transferida para a Empresa Pública do Jornal O Século.
+Art. 3.º - 1 - A universalidade dos bens, direitos e obrigações referidos no n.º 1 do artigo antecedente é transferida para a Empresa Pública do Jornal O Século.
 
 2 - A universalidade dos bens, direitos e obrigações referidos no n.º 2 do artigo antecedente é transferida para a Empresa Pública do Jornal Diário Popular.
 
 3 - As transmissões de que trata este artigo serão objecto de simples averbamento.
 
-###### Art. 4.º - 1 - Os actos previstos nos artigos anteriores operam-se definitivamente, por força do presente decreto-lei, que constituirá título bastante para todos os efeitos, incluindo os de registo, e produzem efeitos a partir da data da sua entrada em vigor.
+Art. 4.º - 1 - Os actos previstos nos artigos anteriores operam-se definitivamente, por força do presente decreto-lei, que constituirá título bastante para todos os efeitos, incluindo os de registo, e produzem efeitos a partir da data da sua entrada em vigor.
 
 2 - Em caso de dúvida, servirá de título bastante para as transmissões referidas no artigo anterior a simples declaração de conformidade dos conselhos de gerência, confirmada por despacho conjunto dos Ministros da tutela e das Finanças.
 
-###### Art. 5.º As dívidas passivas da EPSP transmitidas, nos termos do artigo 3.º do presente diploma, para as empresas resultantes da sua cisão, de que sejam credores a Previdência, o Estado, organismos públicos ou empresas públicas ou nacionalizadas, são assumidas directamente pelo Estado e ficam sujeitas ao seguinte regime:
+Art. 5.º As dívidas passivas da EPSP transmitidas, nos termos do artigo 3.º do presente diploma, para as empresas resultantes da sua cisão, de que sejam credores a Previdência, o Estado, organismos públicos ou empresas públicas ou nacionalizadas, são assumidas directamente pelo Estado e ficam sujeitas ao seguinte regime:
 
 a) Relativamente à Empresa Pública do Jornal Diário Popular, será convertido em capital estatutário o montante que vier a ser definido em estudo a elaborar nos termos do artigo 1.º do Decreto-Lei 490/76, de 23 de Junho, sendo o remanescente contabilizado na conta «Estado» e amortizado pela mesma Empresa em quinze prestações anuais, iguais e sucessivas, com vencimento em 31 de Dezembro de cada ano, sem vencimento de juros;
 
 b) No que respeita à Empresa Pública do Jornal O Século, o que vier a ser estabelecido em despacho conjunto dos Ministros da Comunicação Social e das Finanças, na sequência dos estudos actualmente em curso sobre o sector ex-SNT da Empresa Pública dos Jornais Século e Popular.
 
-###### Art. 6.º As dívidas directamente assumidas pelo Estado, nos termos do artigo anterior, serão liquidadas aos respectivos credores conforme o disposto no artigo 7.º do [Decreto-Lei n.º 639/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/639-1976-430981), de 29 de Julho.
+Art. 6.º As dívidas directamente assumidas pelo Estado, nos termos do artigo anterior, serão liquidadas aos respectivos credores conforme o disposto no artigo 7.º do [Decreto-Lei n.º 639/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/639-1976-430981), de 29 de Julho.
 
-###### Art. 7.º - 1 - Os trabalhadores da EPSP que prestaram a sua actividade à ex-SNT, ou que foram admitidos naquela empresa pública, tendo ficado afectos aos serviços que pertenceram à referida ex-SNT, transitam para a Empresa Pública do Jornal O Século, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações.
+Art. 7.º - 1 - Os trabalhadores da EPSP que prestaram a sua actividade à ex-SNT, ou que foram admitidos naquela empresa pública, tendo ficado afectos aos serviços que pertenceram à referida ex-SNT, transitam para a Empresa Pública do Jornal O Século, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações.
 
 2 - Os trabalhadores da EPSP, que prestaram a sua actividade à ex-SII ou que foram admitidos naquela empresa pública, tendo ficado afectos aos serviços que pertenceram à referida ex-SII, transitam para a Empresa Pública do Jornal Diário Popular, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações.
 
-###### Art. 8.º - 1 - A Empresa Pública do Jornal Diário Popular rege-se pelo disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, pelos estatutos anexos e, subsidiariamente, pelas normas de direito privado.
+Art. 8.º - 1 - A Empresa Pública do Jornal Diário Popular rege-se pelo disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, pelos estatutos anexos e, subsidiariamente, pelas normas de direito privado.
 
 2 - Os membros do conselho de gerência da EPSP passam a exercer idênticas funções no conselho de gerência da Empresa Pública do Jornal Diário Popular, sem necessidade de quaisquer formalidades.
 
-###### Art. 9.º - 1 - A Empresa Pública do Jornal O Século rege-se pelo disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e, subsidiariamente, pelas normas de direito privado, na parte não expressamente prevista nem contrariada pelo presente decreto-lei.
+Art. 9.º - 1 - A Empresa Pública do Jornal O Século rege-se pelo disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e, subsidiariamente, pelas normas de direito privado, na parte não expressamente prevista nem contrariada pelo presente decreto-lei.
 
 2 - A Empresa Pública do Jornal O Século será gerida transitoriamente por uma comissão administrativa, a nomear pelo Conselho de Ministros, sob proposta do Ministro da tutela.
 
-###### Art. 10.º O Ministério da tutela das empresas públicas agora criadas é o Ministério da Comunicação Social.
+Art. 10.º O Ministério da tutela das empresas públicas agora criadas é o Ministério da Comunicação Social.
 
-###### Art. 11.º Este diploma entra em vigor na data da sua publicação.
+Art. 11.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo - António Luciano Pacheco de Sousa Franco - João António de Figueiredo.
 
-**Promulgado em 6 de Dezembro de 1979.**
+Promulgado em 6 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Estatuto da Empresa Pública do Jornal Diário Popular
 
@@ -577,4 +618,4 @@ As publicações periódicas editadas pela EPDP mantêm, nessa qualidade, a sua 
 
 Na parte não prevista neste Estatuto, ou que não conflitue com o que nele se prevê, aplica-se supletivamente à EPDP o disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e demais diplomas aplicáveis às empresas públicas.
 
-**O Ministro da Comunicação Social, João António de Figueiredo.**
+O Ministro da Comunicação Social, João António de Figueiredo.

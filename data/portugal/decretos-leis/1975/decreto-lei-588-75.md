@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/24400/16611662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1975-313053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23534015a236308ef5703b2e18c64e7050e008caabbe201a244d3535f5ea5f0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b746607f269a86d5f2df1db3c785aaa062fad307bd6421c735dc4776c2690334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Cooperativa Agrícola
+- Órgãos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:397952:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336694:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397952:por
+  label: "Revogado pelo DEC LEI.198-A/79.29.06.1979.PCM, DR.IS [148-Supl] de 29.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-a-1979-397952
+  date: '1979-06-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:55Z'
   warnings: []
   errors: []
 ---
@@ -110,13 +126,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º e 8.º do [Decreto-Lei n.º 390/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1975-336694), de 22 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º e 8.º do [Decreto-Lei n.º 390/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1975-336694), de 22 de Julho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Em todas as cooperativas agrícolas e suas uniões constituídas à data da entrada em vigor do [Decreto-Lei n.º 390/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1975-336694), de 22 de Julho, e geridas por órgãos sociais normais, serão realizadas, obrigatoriamente, eleições para essa gerência, até 31 de Dezembro de 1975.
+Artigo 1.º - 1. Em todas as cooperativas agrícolas e suas uniões constituídas à data da entrada em vigor do [Decreto-Lei n.º 390/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1975-336694), de 22 de Julho, e geridas por órgãos sociais normais, serão realizadas, obrigatoriamente, eleições para essa gerência, até 31 de Dezembro de 1975.
 
 2. O disposto no número anterior aplicar-se-à às cooperativas e suas uniões que estejam presentemente a ser geridas por comissões administrativas logo que sejam consideradas em condições de normalidade de gestão, como cooperativas, pelo Ministro da Agricultura e Pescas.
 
-###### Art. 2.º São inelegíveis para os órgãos sociais das cooperativas agrícolas e suas uniões e ainda para as funções de delegado às assembleias gerais das uniões os associados que:
+Art. 2.º São inelegíveis para os órgãos sociais das cooperativas agrícolas e suas uniões e ainda para as funções de delegado às assembleias gerais das uniões os associados que:
 
 a) Mantenham incapacidade eleitoral, nos termos do [Decreto-Lei n.º 621-B/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-b-1974-309908), de 15 de Novembro, e demais legislação aplicável;
 
@@ -126,20 +142,20 @@ c) Não residam habitualmente na respectiva área social;
 
 d) Permaneçam em condições de serem atingidos pelas medidas de expropriação, requisição, nacionalização ou quaisquer outras formas de intervenção estatal previstas na legislação agrária vigente ao tempo do acto eleitoral.
 
-###### Art. 3.º O Ministro da Agricultura e Pescas deverá ser informado, com quinze dias de antecedência, da data das assembleias gerais em que se proceda à eleição de novos corpos gerentes, podendo nomear um representante seu para assistir às mesmas.
+Art. 3.º O Ministro da Agricultura e Pescas deverá ser informado, com quinze dias de antecedência, da data das assembleias gerais em que se proceda à eleição de novos corpos gerentes, podendo nomear um representante seu para assistir às mesmas.
 
-###### Art. 8.º Será de três anos o mandato dos corpos sociais eleitos nos termos previstos neste diploma.
+Art. 8.º Será de três anos o mandato dos corpos sociais eleitos nos termos previstos neste diploma.
 
-###### Art. 2.º - 1. O Ministério da Agricultura e Pescas poderá nomear assessores técnicos das direcções das cooperativas agrícolas e suas uniões com o direito de assistir e intervir nas reuniões da direcção e da assembleia geral, sem direito a voto, e com o dever de apoiar activamente as direcções executando todas as tarefas para o efeito necessárias.
+Art. 2.º - 1. O Ministério da Agricultura e Pescas poderá nomear assessores técnicos das direcções das cooperativas agrícolas e suas uniões com o direito de assistir e intervir nas reuniões da direcção e da assembleia geral, sem direito a voto, e com o dever de apoiar activamente as direcções executando todas as tarefas para o efeito necessárias.
 
 2. A nomeação dos assessores poderá ser feita por iniciativa do Ministério da Agricultura e Pescas ou mediante solicitação das cooperativas ou uniões interessadas.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António Poppe Lopes Cardoso.
 
-**Promulgado em 13 de Outubro de 1975.**
+Promulgado em 13 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

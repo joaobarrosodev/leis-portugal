@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/06/14900/08410842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1970-140553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f24719b10b7be12f5db480b6a618932408fac1e97b1705d3341f1c42d65bf269
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b122cb770e31c36d4fcb8dc19b2f42cf8ff5116fe686198878b34e6409a80dce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Direcção Geral dos Edifícios e Monumentos Nacionais
 relationships:
 - type: amended_by
   target: pt:dre:473554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473554:por
+  label: "Revogado e extinta a Delegação dos Edifícios de Segurança e das Alfândegas (DESA) pelo DEC LEI.204/80.1980.06.28.MFP\
+    \ DR.IS [147]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1980-473554
+  date: '1980-06-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:05Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada, com carácter eventual, na Direcção-Geral dos Edifícios e Monumentos Nacionais a Delegação dos Edifícios da Segurança e das Alfândegas, à qual compete:
+Artigo 1.º É criada, com carácter eventual, na Direcção-Geral dos Edifícios e Monumentos Nacionais a Delegação dos Edifícios da Segurança e das Alfândegas, à qual compete:
 
 a) Elaborar os planos anuais das obras de construção, ampliação e conservação dos edifícios da Guarda Nacional Republicana, da Guarda Fiscal, das Alfândegas, da Direcção-Geral de Segurança e da Polícia de Segurança Pública;
 
@@ -109,9 +121,9 @@ d) Dirigir e fiscalizar as obras;
 
 e) Assegurar o pagamento das despesas.
 
-###### Art. 2.º A Delegação será dirigida por um director-delegado, engenheiro civil, nomeado pelo Ministro das Obras Públicas.
+Art. 2.º A Delegação será dirigida por um director-delegado, engenheiro civil, nomeado pelo Ministro das Obras Públicas.
 
-###### Art. 3.º - 1. Por despacho conjunto dos Ministros da Justiça e das Obras Públicas poderão ser cometidas à Delegação as funções de órgão executivo da Comissão das Construções Prisionais.
+Art. 3.º - 1. Por despacho conjunto dos Ministros da Justiça e das Obras Públicas poderão ser cometidas à Delegação as funções de órgão executivo da Comissão das Construções Prisionais.
 
 2. Na hipótese prevista no número anterior observar-se-á o seguinte:
 
@@ -119,22 +131,22 @@ a) O director-delegado será o engenheiro civil vogal da Comissão das Construç
 
 b) Todo o pessoal técnico, administrativo e auxiliar da Comissão das Construções Prisionais considerar-se-á exclusivamente afecto ao serviço da Delegação.
 
-###### Art. 4.º O pessoal técnico, administrativo e auxiliar necessário aos serviços da Delegação será contratado ou assalariado nos termos e com a remuneração que forem aprovados por despacho ministerial, em conformidade com as leis em vigor.
+Art. 4.º O pessoal técnico, administrativo e auxiliar necessário aos serviços da Delegação será contratado ou assalariado nos termos e com a remuneração que forem aprovados por despacho ministerial, em conformidade com as leis em vigor.
 
-###### Art. 5.º - 1. Os vencimentos ou gratificações do director-delegado e do pessoal técnico em comissão de serviço, nos termos do [Decreto-Lei n.º 30896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30896-1940-200187), de 22 de Novembro de 1940, serão fixados por despacho do Ministro das Obras Públicas, ouvido o Ministro das Finanças.
+Art. 5.º - 1. Os vencimentos ou gratificações do director-delegado e do pessoal técnico em comissão de serviço, nos termos do [Decreto-Lei n.º 30896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30896-1940-200187), de 22 de Novembro de 1940, serão fixados por despacho do Ministro das Obras Públicas, ouvido o Ministro das Finanças.
 
 2. As gratificações serão acumuláveis com as remunerações que os nomeados recebam pelo exercício de outras funções, mas estão sujeitas aos limites legais.
 
-###### Art. 6.º Quando o julgue conveniente, poderá o Ministro das Obras Públicas autorizar a elaboração dos projectos em regime de prestação de serviços, sendo as respectivas despesas fixadas por despacho ministerial.
+Art. 6.º Quando o julgue conveniente, poderá o Ministro das Obras Públicas autorizar a elaboração dos projectos em regime de prestação de serviços, sendo as respectivas despesas fixadas por despacho ministerial.
 
-###### Art. 7.º Todos os encargos relativos à elaboração dos projectos, direcção e administração das obras, despesas de instalação, expediente e serviço normal da Delegação, incluindo as despesas com o pessoal, serão levados à conta de despesas gerais das obras e serão satisfeitos pelas verbas às mesmas atribuídas, não podendo exceder a percentagem anualmente estabelecida pelo Ministro das Obras Públicas.
+Art. 7.º Todos os encargos relativos à elaboração dos projectos, direcção e administração das obras, despesas de instalação, expediente e serviço normal da Delegação, incluindo as despesas com o pessoal, serão levados à conta de despesas gerais das obras e serão satisfeitos pelas verbas às mesmas atribuídas, não podendo exceder a percentagem anualmente estabelecida pelo Ministro das Obras Públicas.
 
-###### Art. 8.º O pessoal contratado nos termos da legislação própria da Comissão das Construções Prisionais ou em comissão de serviço nas obras de construção de cadeias civis à data da publicação do presente diploma poderá transitar, se necessário, para a Delegação na situação que presentemente ocupa, mediante simples averbamento visado pelo Ministro das Obras Públicas ou despacho do mesmo Ministro.
+Art. 8.º O pessoal contratado nos termos da legislação própria da Comissão das Construções Prisionais ou em comissão de serviço nas obras de construção de cadeias civis à data da publicação do presente diploma poderá transitar, se necessário, para a Delegação na situação que presentemente ocupa, mediante simples averbamento visado pelo Ministro das Obras Públicas ou despacho do mesmo Ministro.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 17 de Junho de 1970.**
+Promulgado em 17 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

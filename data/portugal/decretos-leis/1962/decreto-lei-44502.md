@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44502-1962-163268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a80f6e1389bb441ba690ae2dd16b459d50cc8260a5edea04c0e62e8200e8311
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d74c7a4947c2ac745106a6402fc23f7e0ecb658f6161b78267ca30372898f48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Incapacidade Permanente
+- Militar
+- Óbito
+- Pensão de Preço de Sangue
+- Prestações Familiares
+- Proteção Social
+relationships:
+- type: cites
+  target: pt:dre:291183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:48Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +110,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os ascendentes do sexo masculino de idade inferior a 70 anos são considerados hábeis para beneficiar da pensão de preço de sangue e de outras a que se refere o código aprovado pelo [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, quando, além de preencherem os restantes requisitos, sejam pela junta médica do Ministério das Finanças, ou outra para o efeito nomeada, julgados permanentemente incapazes de exercer a sua profissão habitual.
+Artigo 1.º - 1. Os ascendentes do sexo masculino de idade inferior a 70 anos são considerados hábeis para beneficiar da pensão de preço de sangue e de outras a que se refere o código aprovado pelo [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, quando, além de preencherem os restantes requisitos, sejam pela junta médica do Ministério das Finanças, ou outra para o efeito nomeada, julgados permanentemente incapazes de exercer a sua profissão habitual.
 
 2. Ao ascendente que, à data do óbito do militar, não estiver em situação de ser considerado hábil, fica a todo o tempo garantido o direito de requerer a pensão, desde que, além de satisfazer os restantes requisitos, demonstre não possuir os indispensáveis meios de subsistência nos termos estabelecidos na lei, e, se se tratar de indivíduo do sexo masculino, for reconhecido como incapaz, nas condições do número anterior, ou tiver atingido os 70 anos de idade.
 
-###### Art. 2.º - 1. No caso de os ascendentes terem mais filhos, entende-se que só parcialmente se encontravam a cargo do falecido, sendo, por consequência, reduzido a metade o quantitativo da pensão.
+Art. 2.º - 1. No caso de os ascendentes terem mais filhos, entende-se que só parcialmente se encontravam a cargo do falecido, sendo, por consequência, reduzido a metade o quantitativo da pensão.
 
 2. Para o efeito referido no número anterior não se consideram os filhos que, à data em que se defina o direito à pensão, se encontrem inválidos, tenham idade inferior a 16 anos ou estejam ausentes em parte incerta.
 
-###### Art. 3.º Os irmãos dos falecidos só têm direito à pensão de preço de sangue desde que, além dos requisitos indicados no [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 e Setembro de 1929, sejam órfãos de pai e de mãe.
+Art. 3.º Os irmãos dos falecidos só têm direito à pensão de preço de sangue desde que, além dos requisitos indicados no [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 e Setembro de 1929, sejam órfãos de pai e de mãe.
 
-###### Art. 4.º Os processos relativos a indivíduos falecidos posteriormente a 31 de Dezembro de 1960 podem ser revistos, a requerimento dos interessados, para aplicação dos princípios consignados neste diploma.
+Art. 4.º Os processos relativos a indivíduos falecidos posteriormente a 31 de Dezembro de 1960 podem ser revistos, a requerimento dos interessados, para aplicação dos princípios consignados neste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

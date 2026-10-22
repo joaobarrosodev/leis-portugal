@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1981-574367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fe0ae31a969c5a83469e17e799074ba9838598cbe34c48e5f93ef78fe14a93c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 402dcf26012b3661db2039411076d1f68322168b39baa2270440b9059dd0a8de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Obrigações
+- Sociedade de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes das als. a), c) e g) do art. 1º, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS\
+    \ [301]2ºSupl, a partir da entrada em vigor do referido diploma, sem prejuízo da manutenção dos benefícios já concedidos\
+    \ e dos regimes de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:36Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +115,7 @@ Usando da autorização conferida pelo artigo 31.º da [Lei n.º 4/81](https://d
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São concedidos às sociedades de investimento, aos seus sócios e aos subscritores das obrigações por elas emitidas os seguintes benefícios fiscais:
+Artigo 1.º São concedidos às sociedades de investimento, aos seus sócios e aos subscritores das obrigações por elas emitidas os seguintes benefícios fiscais:
 
 a) Redução a 50% da taxa do imposto do selo devido pelo acto da sua constituição;
 
@@ -117,18 +131,18 @@ f) Aplicação aos lucros atribuídos pelas sociedades de investimento aos seus 
 
 g) Isenção total ou parcial do imposto de capitais, secção B, e do imposto complementar, secção A, relativamente aos juros de obrigações emitidas por sociedades de investimento, quando o produto da emissão se destine a financiar projectos de investimento de relevante interesse económico e social.
 
-###### Art. 2.º - 1 - Os benefícios fiscais a que se referem as alíneas c) e g) do artigo anterior serão concedidos mediante despacho do Ministro das Finanças e do Plano, a requerimento da sociedade interessada.
+Art. 2.º - 1 - Os benefícios fiscais a que se referem as alíneas c) e g) do artigo anterior serão concedidos mediante despacho do Ministro das Finanças e do Plano, a requerimento da sociedade interessada.
 
 2 - O requerimento para a concessão do benefício fiscal a que se refere a alínea c) do artigo anterior deverá ser apresentado, na repartição de finanças competente para a liquidação da contribuição industrial, no mês de Janeiro do ano imediato ao do reinvestimento, importando a sua entrega posteriormente a esta data a perda da dedução correspondente aos anos que decorrerem até ao fim daquele em que o requerimento tiver sido apresentado.
 
 3 - O requerimento para a concessão dos benefícios fiscais a que se refere a alínea g) do artigo anterior deverá ser apresentado antes da emissão das obrigações.
 
-###### Art. 3.º Aos benefícios fiscais a que se referem as alíneas b), d) e e) do artigo 1.º são aplicáveis, com as necessárias adaptações, as disposições estabelecidas nos códigos nelas referidos quanto ao funcionamento dos correspondentes benefícios.
+Art. 3.º Aos benefícios fiscais a que se referem as alíneas b), d) e e) do artigo 1.º são aplicáveis, com as necessárias adaptações, as disposições estabelecidas nos códigos nelas referidos quanto ao funcionamento dos correspondentes benefícios.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Maio de 1981.**
+Promulgado em 25 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1974-411331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a96930ae44a83785bf129a09c9988f775e621738fd1878a6e49288452c34435
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a87aad77819f1e0d6387afe7ce662e333ffd3866e57bb3b7636921e2f548c542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS de Consumo
+- Definição de Competências
+- Fundo de Abastecimento
+- Inspecção Geral das Actividades Económicas
+- Requisição Civil
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:39Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +105,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Governo poderá, por despacho do Ministro da Agricultura e do Comércio, ordenar a requisição de matérias-primas, produtos ou mercadorias.
+Artigo 1.º - 1. O Governo poderá, por despacho do Ministro da Agricultura e do Comércio, ordenar a requisição de matérias-primas, produtos ou mercadorias.
 
 2. A requisição poderá ser efectuada aos estabelecimentos fabris, importadores, armazenistas, retalhistas ou detentores, a qualquer título, dos bens referidos no número anterior.
 
-###### Art. 2.º A execução da requisição prevista no artigo anterior será levada a efeito pela Inspecção-Geral das Actividades Económicas ou pelos organismos de coordenação económica ou corporativos, autoridade ou serviço público que forem designados.
+Art. 2.º A execução da requisição prevista no artigo anterior será levada a efeito pela Inspecção-Geral das Actividades Económicas ou pelos organismos de coordenação económica ou corporativos, autoridade ou serviço público que forem designados.
 
-###### Art. 3.º A requisição prevista nos artigos anteriores pode ter os efeitos seguintes:
+Art. 3.º A requisição prevista nos artigos anteriores pode ter os efeitos seguintes:
 
 a) Transferir para o organismo ou serviço público a propriedade do produto, mercadoria ou matéria-prima;
 
@@ -110,7 +119,7 @@ b) Determinar a sua venda à entidade pública ou particular que for designada;
 
 c) Suspender temporariamente o direito de livre disposição do produto, mercadoria ou matéria-prima.
 
-###### Art. 4.º Quando a requisição tenha os efeitos estabelecidos nas alíneas a) ou b) do artigo anterior, o preço a pagar ao dono do produto, mercadoria ou matéria-prima será:
+Art. 4.º Quando a requisição tenha os efeitos estabelecidos nas alíneas a) ou b) do artigo anterior, o preço a pagar ao dono do produto, mercadoria ou matéria-prima será:
 
 a) O preço tabelado ou homologado, que se encontrar estabelecido na fase correspondente do circuito de comercialização, deduzidas todas as despesas a efectuar até ao local ou estabelecimento destinatário dos bens;
 
@@ -118,26 +127,26 @@ b) Na falta de preço tabelado ou homologado, será o mesmo livremente fixado pe
 
 c) É equiparado à audiência obrigatória o decurso do prazo de cinco dias, contados a partir da data da publicação no Diário do Governo da notificação da audiência, nos termos e para os efeitos do disposto na alínea anterior.
 
-###### Art. 5.º - 1. A falta de imediato cumprimento da requisição nos termos estabelecidos no presente diploma é punida segundo o disposto no artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, sendo-lhe aplicável o disposto no artigo 11.º do mesmo decreto-lei e elevando-se o limite mínimo da pena de prisão para seis meses.
+Art. 5.º - 1. A falta de imediato cumprimento da requisição nos termos estabelecidos no presente diploma é punida segundo o disposto no artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, sendo-lhe aplicável o disposto no artigo 11.º do mesmo decreto-lei e elevando-se o limite mínimo da pena de prisão para seis meses.
 
 2. A condenação pelo crime previsto e punido no número anterior implica o encerramento obrigatório do estabelecimento comercial ou industrial por tempo equivalente a um sexto da duração da pena de prisão aplicada.
 
-###### Art. 6.º O Fundo de Abastecimento, por despacho do Ministro das Finanças e da Coordenação Económica, concederá os créditos necessários ao pagamento dos bens requisitados, nas condições que forem estabelecidas.
+Art. 6.º O Fundo de Abastecimento, por despacho do Ministro das Finanças e da Coordenação Económica, concederá os créditos necessários ao pagamento dos bens requisitados, nas condições que forem estabelecidas.
 
-###### Art. 7.º - 1. Quando os produtos ou mercadorias requisitados se destinarem ao consumo público, os mesmos serão obrigatoriamente vendidos nos estabelecimentos comerciais a designar e pelos preços ou com as margens de lucro que forem fixados por despacho do Ministro da Agricultura e do Comércio.
+Art. 7.º - 1. Quando os produtos ou mercadorias requisitados se destinarem ao consumo público, os mesmos serão obrigatoriamente vendidos nos estabelecimentos comerciais a designar e pelos preços ou com as margens de lucro que forem fixados por despacho do Ministro da Agricultura e do Comércio.
 
 2. A infracção ao disposto no número anterior é punida nos termos do artigo 5.º deste diploma.
 
-###### Art. 8.º O presente diploma é considerado como lei de emergência, pelo que às suas infracções não é aplicável a excepção 1.ª do artigo 6.º do Código Penal.
+Art. 8.º O presente diploma é considerado como lei de emergência, pelo que às suas infracções não é aplicável a excepção 1.ª do artigo 6.º do Código Penal.
 
-###### Art. 9.º Este decreto-lei entra imediatamente em vigor.
+Art. 9.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias - João Mota Pereira de Campos.
 
-**Promulgado em 17 de Abril de 1974.**
+Promulgado em 17 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -50,36 +50,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1970-140827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa890df8c4dc45a970bad91ba027dde6eca7c530d1acdafbfa2e94fefcb1ecba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36034ec2c4972df49ca8dc932cb7fcab9151923dc5b3d7cc207cf767a0321b1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Beneficiário
+- Caixa Nacional de Pensões
+- Caixa Sindical de Previdência
+- Contribuições e Impostos
+- Pensão de Sobrevivência
+- Previdência Social
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:263917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:54Z'
   warnings: []
   errors: []
 ---
@@ -100,26 +115,26 @@ Ouvidas as corporações, todas elas se pronunciaram favoràvelmente à generali
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São integradas as pensões de sobrevivência no esquema normal de benefícios da Caixa Nacional de Pensões e das caixas sindicais de previdência e de reforma ou de previdência com entidades patronais contribuintes que com ela devam ser articuladas, passando a abranger, a partir da entrada em vigor deste diploma, todos os beneficiários daquelas instituições, activos e pensionistas por invalidez ou velhice, a quem aquela eventualidade não tenha sido ainda tornada extensiva.
+Artigo 1.º - 1. São integradas as pensões de sobrevivência no esquema normal de benefícios da Caixa Nacional de Pensões e das caixas sindicais de previdência e de reforma ou de previdência com entidades patronais contribuintes que com ela devam ser articuladas, passando a abranger, a partir da entrada em vigor deste diploma, todos os beneficiários daquelas instituições, activos e pensionistas por invalidez ou velhice, a quem aquela eventualidade não tenha sido ainda tornada extensiva.
 
 2. As pensões de sobrevivência referidas no número anterior, que têm vigorado na Caixa Nacional de Pensões como regime especial, serão concedidas nos termos do regulamento aprovado por despacho de 15 de Abril de 1966 e publicado no Diário do Governo, 2.ª série, de 11 de Maio do mesmo ano, enquanto este não for integrado no Regulamento Geral das Caixas Sindicais de Previdência.
 
-###### Art. 2.º - 1. A partir da data da entrada em vigor deste diploma será contado a todos os beneficiários referidos no n.º 1 do artigo 1.º, incluindo os pensionistas por invalidez ou velhice existentes nessa data, todo o tempo de inscrição que já apresentarem, como se as anteriores contribuições respeitassem também a pensões de sobrevivência.
+Art. 2.º - 1. A partir da data da entrada em vigor deste diploma será contado a todos os beneficiários referidos no n.º 1 do artigo 1.º, incluindo os pensionistas por invalidez ou velhice existentes nessa data, todo o tempo de inscrição que já apresentarem, como se as anteriores contribuições respeitassem também a pensões de sobrevivência.
 
 2. O disposto no número anterior será também aplicável aos beneficiários das instituições de previdência referidas no artigo 1.º, aos quais tenha sido já tornado extensivo o regime de pensões de sobrevivência, quanto ao tempo de inscrição anterior ao início do pagamento de contribuições para aquele regime.
 
-###### Art. 3.º Os beneficiários que se encontrem na situação de pagamento voluntário de contribuições poderão, no prazo de seis meses, a contar da entrada em vigor deste decreto-lei, solicitar à respectiva caixa de previdência autorização para efeito de ficarem abrangidos pelo regime de pensões de sobrevivência, mediante o necessário aumento da sua contribuição e desde que sejam declarados aptos em exame médico, sendo-lhes aplicável nesse caso o disposto no n.º 1 do artigo anterior.
+Art. 3.º Os beneficiários que se encontrem na situação de pagamento voluntário de contribuições poderão, no prazo de seis meses, a contar da entrada em vigor deste decreto-lei, solicitar à respectiva caixa de previdência autorização para efeito de ficarem abrangidos pelo regime de pensões de sobrevivência, mediante o necessário aumento da sua contribuição e desde que sejam declarados aptos em exame médico, sendo-lhes aplicável nesse caso o disposto no n.º 1 do artigo anterior.
 
-###### Art. 4.º Ficam revogados o n.º 2 do artigo 95.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, e o [Decreto n.º 48656](https://diariodarepublica.pt/dr/detalhe/decreto/48656-1968-263917), de 2 de Novembro de 1968.
+Art. 4.º Ficam revogados o n.º 2 do artigo 95.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, e o [Decreto n.º 48656](https://diariodarepublica.pt/dr/detalhe/decreto/48656-1968-263917), de 2 de Novembro de 1968.
 
-###### Art. 5.º - 1. Este decreto-lei entra em vigor no dia 1 de Julho de 1970, sem prejuízo do disposto no número seguinte.
+Art. 5.º - 1. Este decreto-lei entra em vigor no dia 1 de Julho de 1970, sem prejuízo do disposto no número seguinte.
 
 2. Em relação ao sector do comércio retalhista, as disposições do presente diploma produzirão efeitos a partir do dia 1 de Janeiro de 1971.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Junho de 1970.**
+Promulgado em 3 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

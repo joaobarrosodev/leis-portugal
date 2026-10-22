@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43354-1960-512990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c047282a48d3a474b2fc170a26a8155d122bd8a9e7a4586be0fb5859312d5223
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fef20d7a5f79a9ff77a77d14ab5893d622c105ae71cc387a9dc4d085cc5e8073
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Direção
+- Direcção Geral dos Serviços Agrícolas
+- Estação Agronómica Nacional
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Orgânica
+- Tutela
 relationships:
 - type: amended_by
   target: pt:dre:262779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262779:por
+  label: "Alterada a constituição do conselho do Centro Nacional de Estudos Vitivinícolas constante do art. 4º pela PORT.23750.05.12.1968.MECO,\
+    \ DG.IS [286] de 05.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23750-1968-262779
+  date: '1968-12-05'
+- type: cites
+  target: pt:dre:251185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462613:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:512628:por
+  label: Rectificado o § único do art. 14º pela DECL.DD12048.16.12.1960.PC, DG.IS [290] de 16.12.1960
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1960-512628
+  date: '1960-12-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:45Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +139,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado na Secretaria de Estado da Agricultura, na dependência da Direcção-Geral dos Serviços Agrícolas, o Centro Nacional de Estudos Vitivinícolas, que fica sob a orientação da Estação Agronómica Nacional, no que se refere à actividade científica.
+Artigo 1.º É criado na Secretaria de Estado da Agricultura, na dependência da Direcção-Geral dos Serviços Agrícolas, o Centro Nacional de Estudos Vitivinícolas, que fica sob a orientação da Estação Agronómica Nacional, no que se refere à actividade científica.
 
-###### Art. 2.º Ao Centro Nacional de Estudos Vitivinícolas compete designadamente:
+Art. 2.º Ao Centro Nacional de Estudos Vitivinícolas compete designadamente:
 
 a) Coordenar as actividades de investigação e experimentação no domínio da vitivinicultura nacional, exercidas pelos serviços do Estado, dos organismos corporativos ou de coordenação económica e de outros dependentes das Secretarias de Estado da Agricultura e do Comércio;
 
@@ -131,9 +169,9 @@ m) Colaborar com a delegação nacional do Office International de la Vigne et d
 
 § único. As empresas construtoras ou importadoras do material referido na alínea h) deste artigo ficam obrigadas a distribuir anualmente o catálogo das máquinas e aparelhos com interesse para a vitivinicultura que apresentem no mercado, dele fazendo constar as respectivas características funcionais.
 
-###### Art. 3.º A direcção do Centro é assegurada por um director e dois adjuntos do director, nomeados pelo Secretário de Estado da Agricultura, sob proposta do director-geral dos Serviços Agrícolas.
+Art. 3.º A direcção do Centro é assegurada por um director e dois adjuntos do director, nomeados pelo Secretário de Estado da Agricultura, sob proposta do director-geral dos Serviços Agrícolas.
 
-###### Art. 4.º Com vista à coordenação e à elaboração dos programas de trabalho a que se referem, respectivamente, as alíneas a) e e) do artigo 2.º, funcionará no Centro Nacional de Estudos Vitivinícolas, sob a presidência do respectivo director, um conselho de que farão parte, como vogais, o chefe da Repartição de Serviços de Culturas Arbustivas e Arbóreas, os directores das estações vitivinícolas e um representante de cada um dos seguintes organismos:
+Art. 4.º Com vista à coordenação e à elaboração dos programas de trabalho a que se referem, respectivamente, as alíneas a) e e) do artigo 2.º, funcionará no Centro Nacional de Estudos Vitivinícolas, sob a presidência do respectivo director, um conselho de que farão parte, como vogais, o chefe da Repartição de Serviços de Culturas Arbustivas e Arbóreas, os directores das estações vitivinícolas e um representante de cada um dos seguintes organismos:
 
 a) Junta Nacional do Vinho;
 
@@ -153,7 +191,7 @@ g) Professores das cadeiras de Viticultura e Ampelografia e de Enologia do Insti
 
 § 2.º Os vogais do Centro têm direito a uma senha de presença por cada sessão a que assistam, de importância a fixar por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Agricultura, sob proposta deste, e àqueles que residam fora da sede serão abonadas as ajudas de custo diárias fixadas nas mesmas condições e as despesas de transporte.
 
-###### Art. 5.º As receitas do Centro são provenientes:
+Art. 5.º As receitas do Centro são provenientes:
 
 1) Das dotações que lhe forem atribuídas pela Direcção-Geral dos Serviços Agrícolas em conta do seu orçamento de aplicação da verba inscrita na rubrica «Despesas com o condicionamento do plantio da vinha e fomento vitivinícola»;
 
@@ -167,40 +205,40 @@ g) Professores das cadeiras de Viticultura e Ampelografia e de Enologia do Insti
 
 § 2.º Os organismos abrangidos neste artigo, dependentes da Secretaria de Estado do Comércio, proporão anualmente ao respectivo Secretário de Estado, até 31 de Maio, as verbas que para efeitos do n.º 2) deste artigo devem inscrever no orçamento do ano seguinte.
 
-###### Art. 6.º O Centro Nacional de Estudos Vitivinícolas disporá de pessoal contratado de investigação, técnico, auxiliar, administrativo e menor, a incluir anualmente no orçamento a que se refere o § 1.º do artigo anterior.
+Art. 6.º O Centro Nacional de Estudos Vitivinícolas disporá de pessoal contratado de investigação, técnico, auxiliar, administrativo e menor, a incluir anualmente no orçamento a que se refere o § 1.º do artigo anterior.
 
-###### Art. 7.º No primeiro preenchimento dos lugares e sem prejuízo do disposto no artigo 9.º terá preferência, em igualdade de condições, o pessoal da mesma ou idêntica categoria dos organismos cuja actividade, nos termos deste diploma, passa a coordenar que deseje transitar para os serviços do Centro e cuja transferência seja homologada por despacho dos Secretários de Estado da Agricultura e do Comércio, sob proposta do director do Centro e ouvidos os organismos.
+Art. 7.º No primeiro preenchimento dos lugares e sem prejuízo do disposto no artigo 9.º terá preferência, em igualdade de condições, o pessoal da mesma ou idêntica categoria dos organismos cuja actividade, nos termos deste diploma, passa a coordenar que deseje transitar para os serviços do Centro e cuja transferência seja homologada por despacho dos Secretários de Estado da Agricultura e do Comércio, sob proposta do director do Centro e ouvidos os organismos.
 
-###### Art. 8.º O pessoal contratado do Centro Nacional de Estudos Vitivinícolas poderá concorrer, com dispensa do limite de idade, aos quadros da Direcção-Geral dos Serviços Agrícolas, uma vez que tenha sido admitido com menos de 35 anos ao serviço do Centro ou dos organismos cuja actividade coordena.
+Art. 8.º O pessoal contratado do Centro Nacional de Estudos Vitivinícolas poderá concorrer, com dispensa do limite de idade, aos quadros da Direcção-Geral dos Serviços Agrícolas, uma vez que tenha sido admitido com menos de 35 anos ao serviço do Centro ou dos organismos cuja actividade coordena.
 
 § único. O pessoal referido neste artigo poderá ser opositor nos concursos para preenchimento de lugares da sua ou idêntica categoria.
 
-###### Art. 9.º O preenchimento dos lugares do Centro Nacional de Estudos Vitivinícolas pode ser feito mediante autorização do Secretário de Estado da Agricultura, sob proposta do director-geral, por pessoal destacado dos quadros da Direcção-Geral dos Serviços Agrícolas que satisfaça as condições legais estabelecidas para o provimento, ficando no regime previsto nos §§ 1.º e 2.º do artigo 14.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758) e artigo 34.º do [Decreto-Lei n.º 35422](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35422-1945-462613).
+Art. 9.º O preenchimento dos lugares do Centro Nacional de Estudos Vitivinícolas pode ser feito mediante autorização do Secretário de Estado da Agricultura, sob proposta do director-geral, por pessoal destacado dos quadros da Direcção-Geral dos Serviços Agrícolas que satisfaça as condições legais estabelecidas para o provimento, ficando no regime previsto nos §§ 1.º e 2.º do artigo 14.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758) e artigo 34.º do [Decreto-Lei n.º 35422](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35422-1945-462613).
 
 § 1.º Quando os funcionários destacados sejam mandados regressar aos quadros, por decisão ministerial ou a seu requerimento, e não tenham vaga, devem ser-lhes abonados por conta do Centro os vencimentos a que tiverem direito nos aludidos quadros e até que neles reingressem.
 
 § 2.º Se o pessoal a que se refere este artigo for aposentado quando estiver ao serviço do Centro, a sua pensão de aposentação será calculada em relação à categoria que tiver neste organismo.
 
-###### Art. 10.º O Centro pode também contratar, por verbas inscritas para o fim, pessoal estrangeiro de reconhecida competência que seja necessário à realização de determinados trabalhos de investigação.
+Art. 10.º O Centro pode também contratar, por verbas inscritas para o fim, pessoal estrangeiro de reconhecida competência que seja necessário à realização de determinados trabalhos de investigação.
 
-###### Art. 11.º As actividades do Centro desenvolvem-se nos organismos com que está em ligação ou em instalações próprias, de harmonia com a conveniência do programa aprovado e com as respectivas possibilidades de execução por parte desses organismos.
+Art. 11.º As actividades do Centro desenvolvem-se nos organismos com que está em ligação ou em instalações próprias, de harmonia com a conveniência do programa aprovado e com as respectivas possibilidades de execução por parte desses organismos.
 
-###### Art. 12.º O director do Centro Nacional de Estudos Vitivinícolas tem a categoria de investigador e é vogal nato da Comissão Técnica Permanente de Viticultura e Enologia.
+Art. 12.º O director do Centro Nacional de Estudos Vitivinícolas tem a categoria de investigador e é vogal nato da Comissão Técnica Permanente de Viticultura e Enologia.
 
-###### Art. 13.º A Junta Nacional do Vinho construirá em Dois Portos, nas Quintas de Almoinha e do Provedor, as instalações necessárias aos estudos tecnológicos e de aproveitamento de produtos secundários, com vista à maior rentabilidade da vinicultura e à resolução dos problemas técnicos relativos à execução do plano de adegas cooperativas e que ficam constituindo um núcleo experimental do Centro Nacional de Estudos Vitivinícolas.
+Art. 13.º A Junta Nacional do Vinho construirá em Dois Portos, nas Quintas de Almoinha e do Provedor, as instalações necessárias aos estudos tecnológicos e de aproveitamento de produtos secundários, com vista à maior rentabilidade da vinicultura e à resolução dos problemas técnicos relativos à execução do plano de adegas cooperativas e que ficam constituindo um núcleo experimental do Centro Nacional de Estudos Vitivinícolas.
 
 § único. As instalações referidas no corpo deste artigo e a adaptação das instalações já existentes ao fim a que se destinam serão levadas a efeito segundo projecto aprovado pelos Secretários de Estado da Agricultura e do Comércio e ficam integradas no Centro.
 
-###### Art. 14.º O Posto Vitivinícola de Dois Portos é transformado em posto experimental, sob a designação de Posto Agrário de Dois Portos, que, além da competência que lhe é dada no [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), no que se refere a assistência técnica, constitui uma base de apoio ao II Plano de Fomento, directamente dependente do departamento de pomologia da Estação Agronómica Nacional.
+Art. 14.º O Posto Vitivinícola de Dois Portos é transformado em posto experimental, sob a designação de Posto Agrário de Dois Portos, que, além da competência que lhe é dada no [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), no que se refere a assistência técnica, constitui uma base de apoio ao II Plano de Fomento, directamente dependente do departamento de pomologia da Estação Agronómica Nacional.
 
 § único. O posto agrário e o núcleo experimental do Centro Nacional de Estudos Vitivinícolas serão dirigidos por um dos ajudantes do Centro.
 
-###### Art. 15.º O primeiro director do Centro Nacional de Estudos Vitivinícolas será escolhido de entre os engenheiros agrónomos especializados dos quadros da Direcção-Geral dos Serviços Agrícolas que satisfaçam as condições estabelecidas no n.º 1.º do artigo 61.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), sendo-lhe contado o tempo de serviço para efeitos de diuturnidades.
+Art. 15.º O primeiro director do Centro Nacional de Estudos Vitivinícolas será escolhido de entre os engenheiros agrónomos especializados dos quadros da Direcção-Geral dos Serviços Agrícolas que satisfaçam as condições estabelecidas no n.º 1.º do artigo 61.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), sendo-lhe contado o tempo de serviço para efeitos de diuturnidades.
 
-###### Art. 16.º O Governo, pelo Ministro das Finanças e Secretários de Estado da Agricultura e do Comércio, publicará as disposições que se tornem necessárias para completa execução deste decreto-lei, incluindo as que se referem à organização dos serviços e regras de admissão e promoção de pessoal e outras que sejam exigidas para a melhor eficiência da actividade do Centro Nacional de Estudos Vitivinícolas.
+Art. 16.º O Governo, pelo Ministro das Finanças e Secretários de Estado da Agricultura e do Comércio, publicará as disposições que se tornem necessárias para completa execução deste decreto-lei, incluindo as que se referem à organização dos serviços e regras de admissão e promoção de pessoal e outras que sejam exigidas para a melhor eficiência da actividade do Centro Nacional de Estudos Vitivinícolas.
 
-###### Art. 17.º São revogados o artigo 41.º e seus parágrafos e o artigo 70.º do [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), de 23 de Dezembro de 1957.
+Art. 17.º São revogados o artigo 41.º e seus parágrafos e o artigo 70.º do [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), de 23 de Dezembro de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

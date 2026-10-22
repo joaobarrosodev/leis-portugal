@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 151/1976, 1º Suplemento, Série I de 1976-06-30
   number: '151'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1448-(24) a 1448-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/15101/00240024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-c-1976-232738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd545445b89f721b4af4cf44d432c26985ae536556a1da6b36da12d444727edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd17f59ddc9bc223e7225fa23f2b2690d5a5ba885bfa9b18ae6b215cdf01205c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Cobrança de Impostos
+- Código da Contribuição Industrial
+- Contribuição Industrial
+- Empresa Intervencionada
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:169463:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:430843:por
+  label: Rectificado pela DECL.DD8222.02.08.1976.PCM, DR.IS [179] de 02.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430843
+  date: '1976-08-02'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:05Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +114,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As taxas e os limites da provisão a que se refere a alínea c) do artigo 33.º do Código da Contribuição Industrial poderão, excepcionalmente, atingir, na parte respeitante aos créditos sujeitos ao regime do artigo 1.º do [Decreto-Lei n.º 222-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-b-1975-169463), de 12 de Maio, 100% do respectivo montante.
+Artigo 1.º As taxas e os limites da provisão a que se refere a alínea c) do artigo 33.º do Código da Contribuição Industrial poderão, excepcionalmente, atingir, na parte respeitante aos créditos sujeitos ao regime do artigo 1.º do [Decreto-Lei n.º 222-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-b-1975-169463), de 12 de Maio, 100% do respectivo montante.
 
-###### Art. 2.º - 1. A parte da provisão correspondente aos créditos referidos no artigo anterior só poderá ser utilizada na anulação dos mesmos créditos, importando a sua utilização para fim diverso a aplicação do disposto no § 2.º do artigo 33.º do Código da Contribuição Industrial.
+Art. 2.º - 1. A parte da provisão correspondente aos créditos referidos no artigo anterior só poderá ser utilizada na anulação dos mesmos créditos, importando a sua utilização para fim diverso a aplicação do disposto no § 2.º do artigo 33.º do Código da Contribuição Industrial.
 
 2. No mapa das provisões, a apresentar nos termos do Código da Contribuição Industrial, serão indicados separadamente os créditos referidos no artigo 1.º e a parte da provisão destinada à sua cobertura.
 
-###### Art. 3.º - 1. As empresas que constituam ou reforcem em 1976, até à apresentação do requerimento referido no número seguinte, a provisão mencionada no artigo 1.º poderão beneficiar da aceitação como custo do exercício na contribuição industrial de 1975 da dotação correspondente aos créditos existentes em 31 de Dezembro deste ano e de que ainda sejam titulares, a qual, nesse caso, não será custo para efeitos fiscais no exercício de 1976.
+Art. 3.º - 1. As empresas que constituam ou reforcem em 1976, até à apresentação do requerimento referido no número seguinte, a provisão mencionada no artigo 1.º poderão beneficiar da aceitação como custo do exercício na contribuição industrial de 1975 da dotação correspondente aos créditos existentes em 31 de Dezembro deste ano e de que ainda sejam titulares, a qual, nesse caso, não será custo para efeitos fiscais no exercício de 1976.
 
 2. O requerimento a que se refere o número anterior, dirigido ao chefe da repartição de finanças competente para a liquidação da contribuição industrial, será apresentado com a declaração para a liquidação da mesma contribuição, ou, tendo sido já entregue, no prazo de vinte dias, a contar da publicação deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 25 de Junho de 1976.**
+Promulgado em 25 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES

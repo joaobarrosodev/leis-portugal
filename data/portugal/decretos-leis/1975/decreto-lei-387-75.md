@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16700/10131014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1975-336696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f77ab053a25418a5befba16cbdcbf9fb19c3bbc48ba84215269c55b7888db5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caa1c31150dc6cb499518fa2eed9bec8dfaa5e555fc831c4c326c10368e4a25b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Social
+- Corpos Gerentes
+- Eleição
+- Instituições de Assistência
+- Ministério dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:407142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:407142:por
+  label: "Revogado pelo DEC LEI.816/76.10.11.1976.MAS, DR.IS [263] de 10.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/816-1976-407142
+  date: '1976-11-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:58Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +118,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As eleições dos titulares dos órgãos das instituições particulares de assistência deverão reger-se pelas respectivas disposições estatutárias e, subsidiariamente, pelas disposições da lei administrativa que regulam a eleição das juntas de freguesia, na parte que lhes possa ser aplicável.
+Artigo 1.º As eleições dos titulares dos órgãos das instituições particulares de assistência deverão reger-se pelas respectivas disposições estatutárias e, subsidiariamente, pelas disposições da lei administrativa que regulam a eleição das juntas de freguesia, na parte que lhes possa ser aplicável.
 
-###### Art. 2.º A partir da entrada em vigor deste diploma são inelegíveis para os órgãos das instituições particulares de assistência os cidadãos abrangidos por qualquer das incapacidades eleitorais previstas no [Decreto-Lei n.º 621-B/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-b-1974-309908), de 15 de Novembro.
+Art. 2.º A partir da entrada em vigor deste diploma são inelegíveis para os órgãos das instituições particulares de assistência os cidadãos abrangidos por qualquer das incapacidades eleitorais previstas no [Decreto-Lei n.º 621-B/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-b-1974-309908), de 15 de Novembro.
 
-###### Art. 3.º - 1. Cabe aos serviços do Ministério dos Assuntos Sociais competentes para exercer a tutela administrativa das instituições particulares de assistência a confirmação de que nas eleições para os órgãos daquelas instituições não foi desrespeitado o disposto no artigo anterior.
+Art. 3.º - 1. Cabe aos serviços do Ministério dos Assuntos Sociais competentes para exercer a tutela administrativa das instituições particulares de assistência a confirmação de que nas eleições para os órgãos daquelas instituições não foi desrespeitado o disposto no artigo anterior.
 
 2. Os titulares dos órgãos das instituições particulares de assistência não poderão tomar posse dos cargos para que foram eleitos sem que a sua capacidade eleitoral tenha sido confirmada nos termos do número anterior.
 
@@ -114,12 +132,12 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. A confirmação a que se referem os números anteriores não tem como efeito a validação das eleições realizadas com desrespeito do disposto no artigo 2.º, nunca ficando prejudicado o recurso contencioso relativo às mesmas eleições.
 
-###### Art. 4.º É revogado o artigo 5.º do [Decreto-Lei n.º 31666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31666-1941-321319), de 22 de Novembro de 1941.
+Art. 4.º É revogado o artigo 5.º do [Decreto-Lei n.º 31666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31666-1941-321319), de 22 de Novembro de 1941.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Mário Alberto Nobre Lopes Soares - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 14 de Julho de 1975.**
+Promulgado em 14 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

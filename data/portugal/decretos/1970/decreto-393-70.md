@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/393-1970-139398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e0ffadec4a81ffccc854def03801a356ef8396a278e388e8adfbb856897c0cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4836cf7347fc6bea32bc965042c5fee754fb28feeb90d5ffb01621e19159f837
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condicionamento Industrial
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:52Z'
   warnings: []
   errors: []
 ---
@@ -128,25 +146,25 @@ Nos termos dos n.os 3 e 5 do artigo 2.º do [Decreto-Lei n.º 46666](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. As indústrias sujeitas ao regime de condicionamento territorial, no continente e ilhas adjacentes, passam a ser as constantes do quadro I anexo ao presente diploma, organizado de acordo com a Classificação das Actividades Económicas Portuguesas por Ramos de Actividade.
+Artigo 1.º - 1. As indústrias sujeitas ao regime de condicionamento territorial, no continente e ilhas adjacentes, passam a ser as constantes do quadro I anexo ao presente diploma, organizado de acordo com a Classificação das Actividades Económicas Portuguesas por Ramos de Actividade.
 
 2. Nos estabelecimentos onde sejam exercidas as indústrias referidas no número anterior, estão sujeitas a licença prévia apenas as modificações por substituição ou ampliação dos equipamentos indicados no quadro ali referido.
 
-###### Art. 2.º - 1. Continuarão ainda sujeitas ao regime de condicionamento territorial no continente e ilhas adjacentes, pelo prazo de cento e oitenta dias, as indústrias que, estando nele abrangidas, ficarão isentas por não constarem do quadro I anexo ao presente diploma.
+Art. 2.º - 1. Continuarão ainda sujeitas ao regime de condicionamento territorial no continente e ilhas adjacentes, pelo prazo de cento e oitenta dias, as indústrias que, estando nele abrangidas, ficarão isentas por não constarem do quadro I anexo ao presente diploma.
 
 2. Passado o prazo referido no número anterior, os pedidos de licenciamento pendentes quanto a indústrias que, por força do presente diploma, deixaram de estar sujeitas ao regime de condicionamento territorial, no continente e ilhas adjacentes, serão arquivados sem prejuízo da competente anotação para efeitos de licenciamento previsto no artigo 30.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, e do Regulamento de Instalação e Laboração dos Estabelecimentos Industriais, aprovado pelo [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março de 1966, e suas posteriores rectificações e alterações.
 
 3. As indústrias a que se refere o n.º 1 deste artigo constam do quadro II anexo ao presente diploma, organizado de acordo com a Classificação das Actividades Económicas Portuguesas por Ramos de Actividade.
 
-###### Art. 3.º Nos estabelecimentos licenciados em regime de condicionamento territorial, caducará, no prazo de cento e oitenta dias, o licenciamento respeitante a indústrias que, estando sujeitas a esse regime, não sejam neles exercidas com carácter permanente, seja qual for a natureza e âmbito do respectivo titulo de licenciamento.
+Art. 3.º Nos estabelecimentos licenciados em regime de condicionamento territorial, caducará, no prazo de cento e oitenta dias, o licenciamento respeitante a indústrias que, estando sujeitas a esse regime, não sejam neles exercidas com carácter permanente, seja qual for a natureza e âmbito do respectivo titulo de licenciamento.
 
-###### Art. 4.º Compete ao Secretário de Estado da Indústria esclarecer as dúvidas que surjam quanto à definição das actividades e do equipamento mencionado nos quadros anexos ao presente diploma; quanto ao âmbito do licenciamento para o exercício das indústrias dos mesmos quadros; quanto à correcta classificação das indústrias efectivamente exercidas nos estabelecimentos industriais instalados no continente e ilhas adjacentes, para os efeitos do disposto nos mesmos quadros e quanto ao carácter permanente do exercício efectivo de indústrias, a que se refere o artigo anterior.
+Art. 4.º Compete ao Secretário de Estado da Indústria esclarecer as dúvidas que surjam quanto à definição das actividades e do equipamento mencionado nos quadros anexos ao presente diploma; quanto ao âmbito do licenciamento para o exercício das indústrias dos mesmos quadros; quanto à correcta classificação das indústrias efectivamente exercidas nos estabelecimentos industriais instalados no continente e ilhas adjacentes, para os efeitos do disposto nos mesmos quadros e quanto ao carácter permanente do exercício efectivo de indústrias, a que se refere o artigo anterior.
 
 Marcello Caetano - João Augusto Dias Rosas - Rogério da Conceição Serafim Martins.
 
-**Promulgado em 5 de Agosto de 1970.**
+Promulgado em 5 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -154,7 +172,7 @@ QUADRO I
 
 Indústrias sujeitas a condicionamento Industrial territorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/08/19100/10811086.pdf))](https://files.diariodarepublica.pt/1s/1970/08/19100/10811086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/19100/10811086.pdf)
 
 QUADRO II
 

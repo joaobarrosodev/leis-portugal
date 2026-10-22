@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/02/05000/03590360.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45576-1964-469867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d68564ab589b11971c0b5bfda14333bb364e2280920f0ada90d203fc6cff754a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484633209f5ac1030bc1df49f27b4ebf3be88d94fc76b6eeb0d519b613371aac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio Técnico
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Junta Central das Casas dos Pescadores
+- Licenciamento
+- Planta Marinha
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:427382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:427382:por
+  label: "Revogado pelo DEC LEI.443/76.1976.06.04.MAP DR.IS [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/443-1976-427382
+  date: '1976-06-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:05Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +114,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º À Junta Central das Casas dos Pescadores, a seguir designada apenas por Junta, competirá:
+Artigo 1.º À Junta Central das Casas dos Pescadores, a seguir designada apenas por Junta, competirá:
 
 1.º Orientar e fiscalizar a apanha, selecção e conservação das plantas marinhas industrializáveis, nomeadamente das algas, segundo adequados princípios tecnológicos e económicos, com vista ao seu maior aperfeiçoamento;
 
@@ -115,9 +136,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º Os quantitativos a que se refere o n.º 4.º serão comunicados à Junta, ouvida a Direcção-Geral dos Serviços Industriais, pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
 
-###### Art. 2.º Para o efeito do disposto no n.º 5.º do artigo 1.º, a Junta fará o apuramento das quantidades eventualmente disponíveis para a exportação e comunicá-las-á à Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
+Art. 2.º Para o efeito do disposto no n.º 5.º do artigo 1.º, a Junta fará o apuramento das quantidades eventualmente disponíveis para a exportação e comunicá-las-á à Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
 
-###### Art. 3.º A intervenção da Junta revestirá a forma de prestação de serviços, pelos quais cobrará uma taxa, que será fixada em despacho conjunto do Ministro das Finanças, nos termos do artigo 13.º da [Lei n.º 2121](https://diariodarepublica.pt/dr/detalhe/lei/2121-1963-683622), de 21 de Dezembro de 1963, do Ministro dos Corporações e Previdência Social e Secretário de Estado do Comércio, sobre proposta da Junta.
+Art. 3.º A intervenção da Junta revestirá a forma de prestação de serviços, pelos quais cobrará uma taxa, que será fixada em despacho conjunto do Ministro das Finanças, nos termos do artigo 13.º da [Lei n.º 2121](https://diariodarepublica.pt/dr/detalhe/lei/2121-1963-683622), de 21 de Dezembro de 1963, do Ministro dos Corporações e Previdência Social e Secretário de Estado do Comércio, sobre proposta da Junta.
 
 § 1.º Os industriais habilitarão a Junta com as provisões suficientes ao pagamento de todas as plantas marinhas que lhe vierem a ser entregues pelos apanhadores; sempre que necessário, a Junta poderá exigir o reforço das provisões com que tenha sido habilitada.
 
@@ -125,21 +146,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A Junta reembolsará os industriais pelo valor das plantas marinhas que forem entregues aos exportadores, nos termos do parágrafo anterior, e estes quando tenham usado da faculdade conferida no mesmo parágrafo e essa provisão seja superior ao valor das plantas marinhas que lhes forem entregues para exportação.
 
-###### Art. 4.º Os preços das plantas marinhas industrializáveis serão fixados pelo Secretário de Estado do Comércio, em portaria.
+Art. 4.º Os preços das plantas marinhas industrializáveis serão fixados pelo Secretário de Estado do Comércio, em portaria.
 
-###### Art. 5.º Os termos dos contratos a celebrar entre a indústria e a Junta e esta e os exportadores constarão de normas aprovadas por despacho do Secretário de Estado do Comércio.
+Art. 5.º Os termos dos contratos a celebrar entre a indústria e a Junta e esta e os exportadores constarão de normas aprovadas por despacho do Secretário de Estado do Comércio.
 
-###### Art. 6.º Constitui contravenção punida nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a apanha, destinada à indústria, de plantas marinhas, por apanhadores não inscritos na Junta Central da Casa dos Pescadores.
+Art. 6.º Constitui contravenção punida nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a apanha, destinada à indústria, de plantas marinhas, por apanhadores não inscritos na Junta Central da Casa dos Pescadores.
 
-###### Art. 7.º Constitui crime punido nos termos do artigo 30.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a compra ou venda de plantas marinhas industrializáveis com violação do disposto neste diploma.
+Art. 7.º Constitui crime punido nos termos do artigo 30.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a compra ou venda de plantas marinhas industrializáveis com violação do disposto neste diploma.
 
-###### Art. 8.º Constituem infracções disciplinares as violações às normas de orientação estabelecida pela Junta e a falta de constituição das provisões nas condições por esta impostas.
+Art. 8.º Constituem infracções disciplinares as violações às normas de orientação estabelecida pela Junta e a falta de constituição das provisões nas condições por esta impostas.
 
-###### Art. 9.º A condenação por qualquer das infracções dolosas previstas neste diploma importa a perda da mercadoria transacionada ou apanhada.
+Art. 9.º A condenação por qualquer das infracções dolosas previstas neste diploma importa a perda da mercadoria transacionada ou apanhada.
 
-###### Art. 10.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
+Art. 10.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Gaivão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Armando Ramos de Paula Coelho.
 

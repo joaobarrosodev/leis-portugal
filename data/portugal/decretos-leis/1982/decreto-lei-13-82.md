@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/01600/01410141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1982-601488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d392c59d900554465b52f7b93c81c8901c121de08624686128733adb43ff4ba9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 035720787b7405cf2e3e8111a568fd165d0e6ef72889355811418e53f30bc382
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
+- Pessoal de Vigilância
 relationships:
 - type: amended_by
   target: pt:dre:621938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:476478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621938:por
+  label: "Revogado o Decreto-Lei n.º 324/74, de 10 de Julho, na redacção do presente diploma, pelo DEC LEI.399-D/84.28.12.1984.PCM,\
+    \ DR.IS [299]Supl de 28.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-d-1984-621938
+  date: '1984-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:54Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +111,9 @@ Considerando que para os antigos carcereiros, também integrados na carreira de 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 5.º do [Decreto-Lei n.º 324/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1974-476478), de 10 de Julho, passa a ter a seguinte redacção:
+Artigo único. O artigo 5.º do [Decreto-Lei n.º 324/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1974-476478), de 10 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 1 - ...
 
@@ -110,8 +123,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1981. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 11 de Janeiro de 1982.**
+Promulgado em 11 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

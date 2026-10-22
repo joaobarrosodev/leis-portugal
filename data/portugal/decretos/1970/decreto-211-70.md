@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/211-1970-142283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8222997467ac87a2efa1caf0871f707f5755953f6c96940529bd87b48d42c3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99af6fc6cb0e7d381ad25ede1c1915f12e016fc3ae52f821ceb0613baac3fcfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:292082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:19Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -126,12 +134,12 @@ Despesas do ano de 1969 referentes a remunerações por trabalhos extraordinári
 
 ... 23933$90
 
-###### Art. 2.º Fica igualmente autorizada a Administração-Geral do Porto de Lisboa a satisfazer, em conta da verba de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 23451$90, respeitante a gratificações por serviços de assistência ou de salvamento ao pessoal do porto de Lisboa, por motivo da sua intervenção na reflutuação do navio Cidade de Aveiro.
+Art. 2.º Fica igualmente autorizada a Administração-Geral do Porto de Lisboa a satisfazer, em conta da verba de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 23451$90, respeitante a gratificações por serviços de assistência ou de salvamento ao pessoal do porto de Lisboa, por motivo da sua intervenção na reflutuação do navio Cidade de Aveiro.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 6 de Maio de 1970.**
+Promulgado em 6 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

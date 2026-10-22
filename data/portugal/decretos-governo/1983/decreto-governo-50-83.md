@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/50-1983-452688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3617d8c559eb90f638eae7dde9a231f2bf89584c35d2b8a709650d18e1f9210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8699f90d103780c04fc8f3bc18bd19d22102051f2b55c189d52b478d31c733be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:147662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147662:por
+  label: "Alargada a área de recrutamento do Serviço de Acção Social do quadro criado no presente diploma, pela PORT.66-B/89.30.01.1989.MF,\
+    \ DR.IS [25]2ºSupl de 30.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-b-1989-147662
+  date: '1989-01-30'
+- type: cites
+  target: pt:dre:238225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:01Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +126,18 @@ Nos termos do n.º 1 do artigo 3.º do [Decreto-Lei n.º 692/70](https://diariod
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de direcção e chefia da Santa Casa da Misericórdia de Lisboa, em vigor nesta data, é acrescido de 1 lugar de director de serviço, de 3 lugares de chefe de divisão e de 1 lugar de chefe de repartição, a afectar ao respectivo Serviço de Acção Social.
+Artigo 1.º O quadro de direcção e chefia da Santa Casa da Misericórdia de Lisboa, em vigor nesta data, é acrescido de 1 lugar de director de serviço, de 3 lugares de chefe de divisão e de 1 lugar de chefe de repartição, a afectar ao respectivo Serviço de Acção Social.
 
-###### Art. 2.º A regulamentação do Serviço de Acção Social da Santa Casa da Misericórdia de Lisboa será estabelecida por portaria do ministro da tutela.
+Art. 2.º A regulamentação do Serviço de Acção Social da Santa Casa da Misericórdia de Lisboa será estabelecida por portaria do ministro da tutela.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Luís Eduardo da Silva Barbosa - António Jorge de Figueiredo Lopes.
 
-**Assinado em 8 de Junho de 1983.**
+Assinado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

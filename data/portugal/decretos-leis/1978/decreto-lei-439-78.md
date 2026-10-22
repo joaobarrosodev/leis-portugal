@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1978, 2º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2798-(25) a 2798-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29902/00250033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1978-274177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fbce39e5723094dc11b52cf7415f4a54f3b8186fa500063f13853d7b75cdc6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 617cde9089dfcf0f1a786881a646376cacfff8228b43eb07d9000b472e79fbae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Metropolitano de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:199077:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocado na dependência do Ministro do Equipamento Social, o Metro-Metropolitano de Lisboa, E.P., cujos estatutos\
+    \ foram aprovados no presente diploma, pelo DEC LEI.474-A/99.08.11.1999.PCM, DR.IS-A [260]Supl de 08.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559060:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:199077:por
+  label: "Revogado, a partir de 26.07.2009, pelo DEC LEI.148-A/2009.26.06.2009.MOPTC, DR.IS [122-Supl] de 26.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-a-2009-199077
+  date: '2009-06-26'
 article_structure:
-  article_count: 39
+  article_count: 38
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:08Z'
   warnings: []
   errors: []
 ---
@@ -96,37 +121,37 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Sociedade Metropolitano de Lisboa, S. A. R. L., nacionalizada pelo [Decreto-Lei n.º 280-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1975-559060), de 5 de Junho, passa a constituir uma empresa pública denominada Metropolitano de Lisboa, E. P., abreviadamente ML.
+Artigo 1.º - 1 - A Sociedade Metropolitano de Lisboa, S. A. R. L., nacionalizada pelo [Decreto-Lei n.º 280-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1975-559060), de 5 de Junho, passa a constituir uma empresa pública denominada Metropolitano de Lisboa, E. P., abreviadamente ML.
 
 2 - Metropolitano de Lisboa, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira e patrimonial, rege-se pelos estatutos anexos ao presente diploma que dele fazem parte integrante e pela lei aplicável às empresas públicas.
 
-###### Art. 2.º Os poderes de tutela do Governo são exercidos pelo Ministro dos Transportes e Comunicações.
+Art. 2.º Os poderes de tutela do Governo são exercidos pelo Ministro dos Transportes e Comunicações.
 
-###### Art. 3.º Transitam para o ML todos os trabalhadores que à data da entrada em vigor deste diploma devam considerar-se ao serviço da empresa Metropolitano de Lisboa.
+Art. 3.º Transitam para o ML todos os trabalhadores que à data da entrada em vigor deste diploma devam considerar-se ao serviço da empresa Metropolitano de Lisboa.
 
-###### Art. 4.º O capital do ML será fixado de acordo com o disposto no Decreto-Lei n.º 490/78, de 23 de Junho.
+Art. 4.º O capital do ML será fixado de acordo com o disposto no Decreto-Lei n.º 490/78, de 23 de Junho.
 
-###### Art. 5.º As nomeações a que se referem as alíneas b), c) e e) do artigo 5.º dos Estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sessenta dias a contar da publicação do presente diploma e até oito dias do termo dos mandatos respectivos para o exercício dos mandatos subsequentes.
+Art. 5.º As nomeações a que se referem as alíneas b), c) e e) do artigo 5.º dos Estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sessenta dias a contar da publicação do presente diploma e até oito dias do termo dos mandatos respectivos para o exercício dos mandatos subsequentes.
 
-###### Art. 6.º Enquanto não forem nomeados os membros do conselho de gerência, nos termos do artigo 12.º dos Estatutos, mantêm-se em funções os actuais membros da comissão administrativa nomeados ao abrigo do artigo 3.º do [Decreto-Lei n.º 280-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1975-559060), de 5 de Junho.
+Art. 6.º Enquanto não forem nomeados os membros do conselho de gerência, nos termos do artigo 12.º dos Estatutos, mantêm-se em funções os actuais membros da comissão administrativa nomeados ao abrigo do artigo 3.º do [Decreto-Lei n.º 280-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1975-559060), de 5 de Junho.
 
-###### Art. 7.º Metropolitano de Lisboa, E. P., fica sujeita à tributação directa e indirecta nos termos gerais, podendo, no entanto, vir a ser submetida a regime fiscal próprio.
+Art. 7.º Metropolitano de Lisboa, E. P., fica sujeita à tributação directa e indirecta nos termos gerais, podendo, no entanto, vir a ser submetida a regime fiscal próprio.
 
-###### Art. 8.º - 1 - A instalação e exploração de novas linhas, o encerramento ou a abertura de novas estações, bem como importantes alterações de serviço, serão objecto de prévio parecer do Município.
+Art. 8.º - 1 - A instalação e exploração de novas linhas, o encerramento ou a abertura de novas estações, bem como importantes alterações de serviço, serão objecto de prévio parecer do Município.
 
 2 - As obras que tenham que realizar-se nas vias públicas dependem de prévia autorização do Município.
 
 3 - O parecer e a autorização municipal a que se referem os números anteriores consideram-se favoráveis se não for comunicada deliberação no prazo de trinta dias a contar da recepção da comunicação do ML.
 
-###### Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Alfredo Jorge Nobre da Costa - Amílcar José de Gouveia Marques.
 
-**Promulgado em 11 de Dezembro de 1978.**
+Promulgado em 11 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTOS DO METROPOLITANO DE LISBOA, E. P.
 
@@ -642,4 +667,4 @@ f) Entrega ao Estado.
 
 As dúvidas que se suscitarem na interpretação ou aplicação dos presentes Estatutos são resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Amílcar José de Gouveia Marques.**
+O Ministro dos Transportes e Comunicações, Amílcar José de Gouveia Marques.

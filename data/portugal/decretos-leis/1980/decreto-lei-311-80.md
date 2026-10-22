@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1980-471110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e564322831a9e8de7b687e94f7f04a50f85264b9d6afa39009a78e872b46610d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c72847c18918daae1d0ec41308bd48245ef06aee242fcf54c15add261caf1417
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Conselho Nacional de Municípios
+- Descentralização
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:46Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +114,9 @@ Nestes termos:
 
 O Governo decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Conselho Nacional de Municípios (CNM), órgão consultivo junto do Governo em matérias de interesse para a Administração Local.
+Artigo 1.º É criado o Conselho Nacional de Municípios (CNM), órgão consultivo junto do Governo em matérias de interesse para a Administração Local.
 
-###### Art. 2.º - 1 - O CNM é composto de dezanove membros, distribuídos da forma seguinte:
+Art. 2.º - 1 - O CNM é composto de dezanove membros, distribuídos da forma seguinte:
 
 a) Dezassete representantes eleitos pelos conselhos consultivos regionais a que se refere o artigo 5.º do [Decreto-Lei n.º 494/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1979-365886), de 21 de Dezembro, de entre os elementos que neles representam os agrupamentos de municípios;
 
@@ -116,7 +124,7 @@ b) Um representante dos municípios de cada região autónoma eleitos de entre o
 
 2 - Os mandatos dos membros do CNM caducarão automaticamente com a cessação das suas funções de representação no conselho consultivo regional ou das respectivas funções autárquicas.
 
-###### Art. 3.º Cada conselho consultivo regional elegerá o seguinte número de representantes no CNM:
+Art. 3.º Cada conselho consultivo regional elegerá o seguinte número de representantes no CNM:
 
 a) Conselho Consultivo Regional do Norte - 5;
 
@@ -128,32 +136,32 @@ d) Conselho Consultivo Regional do Alentejo - 3;
 
 e) Conselho Consultivo Regional do Algarve - 1.
 
-###### Art. 4.º Compete ao Conselho Nacional de Municípios:
+Art. 4.º Compete ao Conselho Nacional de Municípios:
 
 a) Formular propostas e fazer recomendações sobre assuntos de interesse para a Administração Local;
 
 b) Pronunciar-se relativamente aos assuntos que o Governo submeta à sua apreciação.
 
-###### Art. 5.º Ao Ministério da Administração Interna competirá diligenciar no sentido de, no mais curto lapso de tempo, serem designados os membros do CNM.
+Art. 5.º Ao Ministério da Administração Interna competirá diligenciar no sentido de, no mais curto lapso de tempo, serem designados os membros do CNM.
 
-###### Art. 6.º - 1 - O CNM terá uma direcção permanente constituída por um presidente e três vice-presidentes, eleitos de entre os seus membros.
+Art. 6.º - 1 - O CNM terá uma direcção permanente constituída por um presidente e três vice-presidentes, eleitos de entre os seus membros.
 
 2 - Compete à direcção do CNM organizar as reuniões, assegurar o expediente e fazer as convocatórias para as sessões do plenário.
 
-###### Art. 7.º O Ministro da Administração Interna convocará e presidirá, sem direito a voto, à primeira reunião do CNM, destinada à eleição do presidente e dos vice-presidentes e à definição das linhas gerais do seu funcionamento.
+Art. 7.º O Ministro da Administração Interna convocará e presidirá, sem direito a voto, à primeira reunião do CNM, destinada à eleição do presidente e dos vice-presidentes e à definição das linhas gerais do seu funcionamento.
 
-###### Art. 8.º O regimento interno do CNM será aprovado em reunião especialmente convocada para o efeito.
+Art. 8.º O regimento interno do CNM será aprovado em reunião especialmente convocada para o efeito.
 
-###### Art. 9.º Enquanto não forem definidas as normas relativas ao seu funcionamento, o CNM reunirá rotativamente junto de cada uma das comissões de coordenação regional (CCR) existentes, que fornecerão todo o apoio logístico necessário.
+Art. 9.º Enquanto não forem definidas as normas relativas ao seu funcionamento, o CNM reunirá rotativamente junto de cada uma das comissões de coordenação regional (CCR) existentes, que fornecerão todo o apoio logístico necessário.
 
-###### Art. 10.º O CNM poderá estabelecer e manter relações de cooperação com instituições similares estrangeiras, podendo receber subsídios de entidades públicas ou privadas, nacionais, internacionais ou estrangeiras.
+Art. 10.º O CNM poderá estabelecer e manter relações de cooperação com instituições similares estrangeiras, podendo receber subsídios de entidades públicas ou privadas, nacionais, internacionais ou estrangeiras.
 
-###### Art. 11.º As dúvidas e os casos omissos surgidos na execução do presente diploma serão resolvidos mediante despacho do Ministro da Administração Interna.
+Art. 11.º As dúvidas e os casos omissos surgidos na execução do presente diploma serão resolvidos mediante despacho do Ministro da Administração Interna.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 29 de Julho de 1980.**
+Promulgado em 29 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

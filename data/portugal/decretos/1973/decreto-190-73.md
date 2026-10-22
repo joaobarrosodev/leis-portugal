@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/190-1973-422039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a86fd1648e1d08d7a199f27cd77024b3750c27482ee260542cce611db08e5d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f820d22c55196e106af3577a6aeb303650d03677412d640f28156ac3c232cb4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:08Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +86,9 @@ de 28 de Abril
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada a medalha de mérito das obras públicas, destinada a galardoar os funcionários do Ministério que se tenham evidenciado pelas suas qualidades excepcionais e as pessoas que lhe hajam prestado serviço excepcional digno de relevo.
+Artigo 1.º É criada a medalha de mérito das obras públicas, destinada a galardoar os funcionários do Ministério que se tenham evidenciado pelas suas qualidades excepcionais e as pessoas que lhe hajam prestado serviço excepcional digno de relevo.
 
-###### Art. 2.º - 1. A medalha compreende os seguintes graus:
+Art. 2.º - 1. A medalha compreende os seguintes graus:
 
 a) Medalha de ouro;
 
@@ -98,17 +98,17 @@ c) Medalha de cobre.
 
 2. Os diversos graus serão conferidos de acordo com a hierarquia ou categoria das pessoas e a importância dos serviços prestados e méritos revelados.
 
-###### Art. 3.º As insígnias da medalha serão constituídas, conforme os desenhos anexos, por:
+Art. 3.º As insígnias da medalha serão constituídas, conforme os desenhos anexos, por:
 
 a) Medalha. - De forma circular, com 40 mm de diâmetro, de ouro, prata ou cobre, conforme os graus. Apresentará no anverso um conjunto de figuras alegóricas das obras públicas e no reverso as armas nacionais;
 
 b) Fita. - De seda, com 30 mm de largura, com as cores em duas faixas verticais, da esquerda para a direita, verde e vermelha.
 
-###### Art. 4.º - 1. A concessão da medalha compete ao Ministro das Obras Públicas, sendo as respectivas decisões publicadas no Diário do Governo.
+Art. 4.º - 1. A concessão da medalha compete ao Ministro das Obras Públicas, sendo as respectivas decisões publicadas no Diário do Governo.
 
 2. Será organizado na Secretaria-Geral do Ministério um registo das concessões da medalha.
 
-###### Art. 5.º - 1. Perdem o direito à medalha e ao uso das respectivas insígnias:
+Art. 5.º - 1. Perdem o direito à medalha e ao uso das respectivas insígnias:
 
 a) Os funcionários que forem demitidos ou aposentados por motivos disciplinares;
 
@@ -122,12 +122,12 @@ c) Aqueles que sejam condenados em pena maior, suspensão temporária de direito
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 29 de Março de 1973.**
+Promulgado em 29 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/04/10000/06580658.pdf))](https://files.diariodarepublica.pt/1s/1973/04/10000/06580658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/04/10000/06580658.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

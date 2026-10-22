@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29300/32943295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1979-365879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98d2ac654607d486742e3c6212ba486a89e6ba2b3372dbf566aa0b3a4e71f35f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebd9cba70b1bc3114c567efffc91474a01ccb0f2f641eff2f264287bf1ac68c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Indústria de Ourivesaria e Relojoaria
+- Pedra Preciosa
 relationships:
 - type: amended_by
   target: pt:dre:616264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:324533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381981:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616264:por
+  label: "Revogado pelo DEC LEI.139/91.1991.04.10.MF, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1991-616264
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:47Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +111,20 @@ Contudo, verifica-se que aos diplomas que procuraram regular aquele comércio fo
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:
 
-###### Artigo 1.º Não se consideram abrangidos pela parte final do n.º 2 do artigo 3.º do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro, os resíduos ou fragmentos não lapidáveis resultantes da lapidação de diamantes, pelo que em relação a eles se não verifica a proibição de venda estabelecida na citada disposição.
+Artigo 1.º Não se consideram abrangidos pela parte final do n.º 2 do artigo 3.º do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro, os resíduos ou fragmentos não lapidáveis resultantes da lapidação de diamantes, pelo que em relação a eles se não verifica a proibição de venda estabelecida na citada disposição.
 
-###### Art. 2.º O artigo 3.º do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Todos os diamantes em bruto ou não lapidados apreendidos em território português a detentores que não possam provar que se destinam à empresa legalmente autorizada ou a seus agentes devidamente credenciados são considerados perdidos a favor da Fazenda Nacional e vendidos nos termos do artigo 1.º do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro, salvo se se provar que foram furtados a entidade que licitamente seja sua proprietária ou simples detentora, à qual serão então restituídos.
+Art. 3.º - 1 - Todos os diamantes em bruto ou não lapidados apreendidos em território português a detentores que não possam provar que se destinam à empresa legalmente autorizada ou a seus agentes devidamente credenciados são considerados perdidos a favor da Fazenda Nacional e vendidos nos termos do artigo 1.º do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro, salvo se se provar que foram furtados a entidade que licitamente seja sua proprietária ou simples detentora, à qual serão então restituídos.
 
 2 - Todos os diamantes em bruto ou não lapidados que sejam objecto de tentativa de passagem para o exterior do País, que não sejam acompanhados de guias passadas pela empresa referida no [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), são considerados perdidos nas condições expressas no n.º 1 deste artigo.
 
-###### Art. 3.º Não necessitam, na saída do País, de ser acompanhados das guias previstas no artigo 3.º, n.º 2, do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, os diamantes que, tendo vindo a Portugal para efeito de lapidação, em regime de simples prestação de serviços, sejam, pelas empresas lapidadoras em cujo capital o Estado Português tenha posição maioritária, devolvidos para o seu proprietário após a empresa lapidadora ter verificado não poder proceder a tal operação por razões técnicas ou económicas.
+Art. 3.º Não necessitam, na saída do País, de ser acompanhados das guias previstas no artigo 3.º, n.º 2, do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, os diamantes que, tendo vindo a Portugal para efeito de lapidação, em regime de simples prestação de serviços, sejam, pelas empresas lapidadoras em cujo capital o Estado Português tenha posição maioritária, devolvidos para o seu proprietário após a empresa lapidadora ter verificado não poder proceder a tal operação por razões técnicas ou económicas.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Fernando Henrique Marques Videira - Acácio Manuel Pereira Magro.
 
-**Promulgado em 13 de Dezembro de 1979.**
+Promulgado em 13 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

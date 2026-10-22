@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1976-506644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3c4f147227a971bf6b096962941a39279ea274390f1bcb78a59fd939a3f18b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05aa4e45e4f078eb407568f0b2ec0f35dc513717e40faa58e5305adfd71efe3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Círculo de Estudos Ultramarinos
+- Extinção de Serviços
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Procuradoria dos Estudantes Ultramarinos
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:138297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138297:por
+  label: "Integrado no quadro geral de adidos o pessoal referido no nº 1 do art. 6º pelo DEC LEI.20/77.17.01.1977.MAI, DR.IS\
+    \ [13] de 17.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1977-138297
+  date: '1977-01-17'
+- type: cites
+  target: pt:dre:368234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:06Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +114,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintos, com referência a 30 de Novembro de 1975, a Procuradoria dos Estudantes Ultramarinos e o Círculo de Estudos Ultramarinos.
+Artigo 1.º São extintos, com referência a 30 de Novembro de 1975, a Procuradoria dos Estudantes Ultramarinos e o Círculo de Estudos Ultramarinos.
 
-###### Art. 2.º - 1. Todos os bens e valores dos organismos referidos no artigo anterior são transmitidos para o Estado.
+Art. 2.º - 1. Todos os bens e valores dos organismos referidos no artigo anterior são transmitidos para o Estado.
 
 2. O Estado assume os direitos e obrigações dos organismos ora extintos.
 
@@ -110,32 +126,32 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. Enquanto não for proferido o despacho previsto no número antecedente, os bens, valores e posições jurídicas nele mencionados ficam afectos ao Ministério da Cooperação.
 
-###### Art. 3.º - 1. Os Ministros da Cooperação e da Educação e Investigação Científica nomearão, no prazo de trinta dias, a contar da data da publicação deste decreto-lei, uma comissão encarregada de proceder ao apuramento, relativamente a 30 de Novembro de 1975, do activo e do passivo dos organismos referidos no artigo 1.º e propor o destino que entenda dever ser dado ao activo e a forma de liquidação do passivo apurado.
+Art. 3.º - 1. Os Ministros da Cooperação e da Educação e Investigação Científica nomearão, no prazo de trinta dias, a contar da data da publicação deste decreto-lei, uma comissão encarregada de proceder ao apuramento, relativamente a 30 de Novembro de 1975, do activo e do passivo dos organismos referidos no artigo 1.º e propor o destino que entenda dever ser dado ao activo e a forma de liquidação do passivo apurado.
 
 2. A constituição e funcionamento da comissão referida no número anterior, bem como a dispensa, total ou parcial, do serviço a prestar pelos seus membros nos cargos de origem, serão regulados por despacho conjunto dos Ministros da Cooperação e da Educação e investigação Científica.
 
-###### Art. 4.º - 1. Por despacho conjunto dos Ministros da Cooperação e da Educação e Investigação Científica, ouvida a Direcção-Geral da Fazenda Pública, será determinada a afectação dos bens e direitos referidos no artigo 2.º do presente diploma a quaisquer organismos ou serviços públicos, autarquias locais, outras pessoas colectivas de direito público ou pessoas colectivas de utilidade pública administrativa.
+Art. 4.º - 1. Por despacho conjunto dos Ministros da Cooperação e da Educação e Investigação Científica, ouvida a Direcção-Geral da Fazenda Pública, será determinada a afectação dos bens e direitos referidos no artigo 2.º do presente diploma a quaisquer organismos ou serviços públicos, autarquias locais, outras pessoas colectivas de direito público ou pessoas colectivas de utilidade pública administrativa.
 
 2. O despacho mencionado no número precedente será, quando contemple posições contratuais, notificado administrativamente aos outros contraentes e transmitido, se respeitar a bens ou direitos sujeitos a registo, aos respectivos conservadores, para que estes, oficiosamente, procedam aos necessários registos.
 
-###### Art. 5.º Os contratos de arrendamento em relação aos quais não for determinada a sucessão na posição contratual serão rescindidos, com efeitos a partir da data a fixar pela comissão indicada no artigo 3.º, que notificará do facto o senhorio, com antecedência não inferior a trinta dias.
+Art. 5.º Os contratos de arrendamento em relação aos quais não for determinada a sucessão na posição contratual serão rescindidos, com efeitos a partir da data a fixar pela comissão indicada no artigo 3.º, que notificará do facto o senhorio, com antecedência não inferior a trinta dias.
 
-###### Art. 6.º - 1. Os trabalhadores que se encontrem ao serviço da Procuradoria dos Estudantes Ultramarinos e do Círculo de Estudos Ultramarinos desde data anterior a 11 de Maio de 1974 ficam na situação de adidos, cabendo a sua colocação à Comissão Interministerial de Gestão de Pessoal.
+Art. 6.º - 1. Os trabalhadores que se encontrem ao serviço da Procuradoria dos Estudantes Ultramarinos e do Círculo de Estudos Ultramarinos desde data anterior a 11 de Maio de 1974 ficam na situação de adidos, cabendo a sua colocação à Comissão Interministerial de Gestão de Pessoal.
 
 2. Quando tal se mostrar necessário, competirá ao Ministério da Cooperação e/ou ao Ministério da Educação e Investigação Científica suportar, em termos e pelas dotações orçamentais a definir por despacho conjunto dos Ministros das Finanças e dos citados departamentos, os encargos inerentes ao pagamento, desde a data de referência da extinção dos organismos ora extintos, das remunerações dos trabalhadores indicados no número anterior.
 
 3. Aos trabalhadores mencionados neste artigo será levado em conta, para todos os efeitos, o tempo de serviço prestado nas organizações extintas, assim como nas que deram origem à formação da Procuradoria, podendo fazer os correspondentes descontos para efeitos de aposentação.
 
-###### Art. 7.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro ou Ministros com competência na matéria.
+Art. 7.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro ou Ministros com competência na matéria.
 
-###### Art. 8.º É revogada a [Portaria n.º 766/71](https://diariodarepublica.pt/dr/detalhe/portaria/766-1971-368234), de 31 de Dezembro.
+Art. 8.º É revogada a [Portaria n.º 766/71](https://diariodarepublica.pt/dr/detalhe/portaria/766-1971-368234), de 31 de Dezembro.
 
-###### Art. 9.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 9.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 27 de Janeiro de 1976.**
+Promulgado em 27 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

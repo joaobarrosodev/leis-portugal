@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43503-1961-555662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f47aaa4b8c76b5e2b3d4486edf45b0db00e36d0c8cd9582f5b54cabab569ed1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 682e21794f0f0c4638e04b1e8d3075c777e52df5127fe501a9953536ff49c4df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Comissão
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral dos Serviços Eléctricos
+- Gratificação
+- Política Energética
+- Presidente
+- Remuneração
+- Secretaria de Estado da Indústria
+- Subsídio de Transporte
+relationships:
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:40Z'
   warnings: []
   errors: []
 ---
@@ -96,21 +115,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O estudo da prioridade de realização de novas fontes produtoras de energia eléctrica será feito por um organismo dependente da Secretaria de Estado da Indústria, que funcionará junto da Direcção-Geral dos Serviços Eléctricos e será designado por «Comissão de Planeamento dos Novos Centros Produtores de Energia Eléctrica».
+Artigo 1.º O estudo da prioridade de realização de novas fontes produtoras de energia eléctrica será feito por um organismo dependente da Secretaria de Estado da Indústria, que funcionará junto da Direcção-Geral dos Serviços Eléctricos e será designado por «Comissão de Planeamento dos Novos Centros Produtores de Energia Eléctrica».
 
-###### Art. 2.º Compete à Comissão propor ao Governo o estabelecimento de novas fontes de energia necessárias para satisfação das necessidades de consumo, definindo, em face das respectivas características, a sequência mais conveniente da sua execução.
+Art. 2.º Compete à Comissão propor ao Governo o estabelecimento de novas fontes de energia necessárias para satisfação das necessidades de consumo, definindo, em face das respectivas características, a sequência mais conveniente da sua execução.
 
 § 1.º No prazo de oito meses, a contar da data da sua constituição, a Comissão submeterá à apreciação do Governo uma proposta indicando os empreendimentos cuja construção deverá ser iniciada na vigência do II Plano de Fomento, com o fim de assegurar a transição para o III Plano, sem quebra de continuidade, até Junho de 1963 apresentará o programa de construções a incluir nesse III Plano.
 
 § 2.º Os estudos a realizar para execução do disposto no corpo do artigo e no parágrafo anterior serão baseados nos recursos energéticos nacionais já reconhecidos e terão em conta, em cada momento, as características do sistema produtor existente, a evolução natural do consumo e os empreendimentos industriais em curso de execução ou programados e ainda a conjugação mais conveniente das finalidades múltiplas que foram de considerar no aproveitamento integral das bacias hidrográficas.
 
-###### Art. 3.º A Comissão utilizará o Repartidor Nacional de Cargas como seu órgão técnico; competirá à Direcção-Geral dos Serviços Eléctricos assegurar o respectivo expediente.
+Art. 3.º A Comissão utilizará o Repartidor Nacional de Cargas como seu órgão técnico; competirá à Direcção-Geral dos Serviços Eléctricos assegurar o respectivo expediente.
 
-###### Art. 4.º Os organismos oficiais, designadamente as Direcções-Gerais dos Serviços Hidráulicos, de Minas e Serviços Geológicos e dos Serviços Industriais e a Junta de Energia Nuclear deverão fornecer todos os elementos de que disponham e que lhes forem solicitados pela Comissão para cumprimento da missão que lhe é atribuída.
+Art. 4.º Os organismos oficiais, designadamente as Direcções-Gerais dos Serviços Hidráulicos, de Minas e Serviços Geológicos e dos Serviços Industriais e a Junta de Energia Nuclear deverão fornecer todos os elementos de que disponham e que lhes forem solicitados pela Comissão para cumprimento da missão que lhe é atribuída.
 
 § único. Igual obrigação compete às empresas concessionárias do Estado em relação aos estudos dos aproveitamentos hidroeléctricos a que tenham procedido.
 
-###### Art. 5.º A Comissão terá a seguinte constituição:
+Art. 5.º A Comissão terá a seguinte constituição:
 
 Um engenheiro de reconhecida competência de livre escolha do Secretário de Estado da Indústria, que presidirá.
 
@@ -134,15 +153,15 @@ Um representante de cada uma das empresas produtoras hidroeléctricas da rede el
 
 § 3.º A Comissão e o seu grupo de trabalho serão nomeados por portaria do Secretário de Estado da Indústria, cabendo ao Ministro das Obras Públicas a designação do engenheiro inspector superior do Conselho Superior de Obras Públicas e dos representantes da Direcção-Geral dos Serviços Hidráulicos e ao presidente da Junta de Energia Nuclear a designação do seu representante.
 
-###### Art. 6.º A Comissão e o seu grupo de trabalho são órgãos permanentes, mas funcionarão dentro de períodos de actividade a definir em cada caso por despacho do Secretário de Estado da Indústria.
+Art. 6.º A Comissão e o seu grupo de trabalho são órgãos permanentes, mas funcionarão dentro de períodos de actividade a definir em cada caso por despacho do Secretário de Estado da Indústria.
 
-###### Art. 7.º A Comissão poderá ter sessões plenárias ou sessões do grupo de trabalho; para estas poderá o presidente convocar os outros vogais que sejam directamente interessados nos assuntos a tratar.
+Art. 7.º A Comissão poderá ter sessões plenárias ou sessões do grupo de trabalho; para estas poderá o presidente convocar os outros vogais que sejam directamente interessados nos assuntos a tratar.
 
 § 1.º O presidente poderá, quando o entender conveniente para o esclarecimento de problemas em estudo, solicitar a comparência de representantes de quaisquer entidades, oficiais ou particulares, às sessões em que sejam apreciados problemas relacionados com a actividade dessas entidades.
 
 § 2.º As deliberações da Comissão serão tomadas por maioria dos votos presentes, tendo o presidente voto de qualidade.
 
-###### Art. 8.º Ao presidente compete, em especial:
+Art. 8.º Ao presidente compete, em especial:
 
 1.º Orientar os trabalhos da Comissão e do grupo de trabalho, de acordo com as directrizes que lhe forem fixadas;
 
@@ -150,11 +169,11 @@ Um representante de cada uma das empresas produtoras hidroeléctricas da rede el
 
 3.º Submeter a despacho do Secretário de Estado da Indústria, por intermédio da Direcção-Geral dos Serviços Eléctricos, as conclusões dos estudos efectuados e os demais assuntos que careçam de orientação superior.
 
-###### Art. 9.º Compete ao secretário dar cumprimento às deliberações da Comissão e superintender na execução do respectivo expediente.
+Art. 9.º Compete ao secretário dar cumprimento às deliberações da Comissão e superintender na execução do respectivo expediente.
 
-###### Art. 10.º Compete ao grupo de trabalho apreciar os estudos elaborados pelo Repartidor Nacional de Cargas, a fim de serem submetidos, com o seu parecer, à apreciação da Comissão.
+Art. 10.º Compete ao grupo de trabalho apreciar os estudos elaborados pelo Repartidor Nacional de Cargas, a fim de serem submetidos, com o seu parecer, à apreciação da Comissão.
 
-###### Art. 11.º Compete ao Repartidor Nacional de Cargas, como órgão técnico, elaborar os estudos que lhe forem solicitados pela Comissão, designadamente sobre os seguintes assuntos:
+Art. 11.º Compete ao Repartidor Nacional de Cargas, como órgão técnico, elaborar os estudos que lhe forem solicitados pela Comissão, designadamente sobre os seguintes assuntos:
 
 1.º Previsão da evolução do consumo na rede eléctrica nacional e das consequentes necessidades de produção, a longo prazo, em potência e em energia;
 
@@ -168,9 +187,9 @@ Art. l2.º Ao presidente, ao vice-presidente e ao secretário serão atribuídas
 
 § 2.º As remunerações de que trata este artigo serão acumuláveis com quaisquer outras que os membros da Comissão percebam pelo exercício de funções no Estado, nos corpos administrativos, nos organismos de coordenação económica e corporativos e pessoas colectivas de utilidade pública administrativa, mas com sujeição ao limite estabelecido no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 13.º As alterações orçamentais que se mostrem necessárias para execução deste diploma terão lugar mediante decreto simples, referendado pelos Ministros da Economia e das Finanças.
+Art. 13.º As alterações orçamentais que se mostrem necessárias para execução deste diploma terão lugar mediante decreto simples, referendado pelos Ministros da Economia e das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

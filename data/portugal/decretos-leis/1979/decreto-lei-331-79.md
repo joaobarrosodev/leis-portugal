@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19500/20692070.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1979-378710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 635a1f7338e76466bb35d99357c67315e3fcd23bb27d5531b6a2793081ea8948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29deb2f26ac5d8d02f33577355e32d9ace674c6e3582ba84bdf7e53020042df1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- IAPMEI
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:354114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 387/88 DE 25-OUT DR.IS [247].\0247]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-10-25'
+- type: repealed_by
+  target: pt:dre:354114:por
+  label: "Revogado pelo DEC LEI.387/88.25.10.1988.MIE, DR.IS [247] de 25.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-1988-354114
+  date: '1988-10-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:56Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada no Instituto de Apoio às Pequenas e Médias Empresas Industriais a Direcção de Serviços de Apoio à Cooperação Internacional entre Empresas - Sacie.
+Artigo 1.º É criada no Instituto de Apoio às Pequenas e Médias Empresas Industriais a Direcção de Serviços de Apoio à Cooperação Internacional entre Empresas - Sacie.
 
-###### Art. 2.º Compete a esta Direcção de Serviços, em estreita ligação com o Bureau de Rapprochement des Entreprises:
+Art. 2.º Compete a esta Direcção de Serviços, em estreita ligação com o Bureau de Rapprochement des Entreprises:
 
 a) Promover a procura, no nosso país e nos vários membros da CEE, de empresas potencialmente interessadas na celebração de acordos de cooperação em domínios considerados de interesse;
 
@@ -115,14 +127,14 @@ d) Auxiliar as PMEs nacionais, sempre que necessário, na preparação e desenvo
 
 e) Estudar e propor as medidas de carácter legislativo e fiscal que se prendam com os acordos de cooperação entre empresas previstos neste diploma.
 
-###### Art. 3.º O actual quadro de pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais é aumentado dos seguintes lugares:
+Art. 3.º O actual quadro de pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais é aumentado dos seguintes lugares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19500/20692070.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19500/20692070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19500/20692070.pdf)
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

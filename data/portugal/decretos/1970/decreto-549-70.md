@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/549-1970-147186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5af2a31e762779bcad718ecff69e4e72ee68bd2b4f4c2f12023a765e731ddc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e3188128724bb013bc41f537f8d1db9b4897e1b33bda4e8f51188b927266f92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306027:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:09Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +96,14 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável das en
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 40524](https://diariodarepublica.pt/dr/detalhe/decreto/40524-1956-306027), de 4 de Fevereiro de 1956, publicado no Diário do Governo, 1.ª série, n.º 27, da mesma data, e restituída à administração da Junta de Freguesia de Torgueda uma parcela de terreno baldio do perímetro florestal das serras do Marão (Vila Real) e Ordem, com a superfície de 75 ha, que se destina a ser alienada à Cooperativa Agrícola de Vila Real para instalação de um pomar de altitude.
+Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 40524](https://diariodarepublica.pt/dr/detalhe/decreto/40524-1956-306027), de 4 de Fevereiro de 1956, publicado no Diário do Governo, 1.ª série, n.º 27, da mesma data, e restituída à administração da Junta de Freguesia de Torgueda uma parcela de terreno baldio do perímetro florestal das serras do Marão (Vila Real) e Ordem, com a superfície de 75 ha, que se destina a ser alienada à Cooperativa Agrícola de Vila Real para instalação de um pomar de altitude.
 
-###### Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Torgueda proceder à sua demarcação, de acordo com a Direcção-Geral dos Serviços Florestais e Aquícolas, da qual deverá ser lavrado auto.
+Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Torgueda proceder à sua demarcação, de acordo com a Direcção-Geral dos Serviços Florestais e Aquícolas, da qual deverá ser lavrado auto.
 
 Marcello Caetano - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 23 de Outubro de 1970.**
+Promulgado em 23 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49326-1969-215507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27e31f4e7fd0f819e1f8933a91e05caa99866ae771437ab063d9de5b4ecb8579
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ae2c3d997becc3e82fefe25ae726fbd2a4f60e077d454ae4ea3388654297270
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ADSE
+- Concurso
+- Formas de Provimento
+- Pessoal Administrativo
+relationships:
+- type: cites
+  target: pt:dre:526656:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:23Z'
   warnings: []
   errors: []
 ---
@@ -86,14 +94,14 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os candidatos a terceiro-oficial e dactilógrafo aprovados em concursos realizados na Assistência na Doença aos Servidores Civis do Estado anteriormente à publicação do [Decreto-Lei n.º 48854](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48854-1969-526656), de 31 de Janeiro de 1969, cujo prazo de validade, contado a partir da data do despacho que homologa as listas de classificação, não tenha expirado poderão ser providos nas respectivas vagas que ocorrerem dentro do prazo fixado pelo referido despacho.
+Artigo único. Os candidatos a terceiro-oficial e dactilógrafo aprovados em concursos realizados na Assistência na Doença aos Servidores Civis do Estado anteriormente à publicação do [Decreto-Lei n.º 48854](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48854-1969-526656), de 31 de Janeiro de 1969, cujo prazo de validade, contado a partir da data do despacho que homologa as listas de classificação, não tenha expirado poderão ser providos nas respectivas vagas que ocorrerem dentro do prazo fixado pelo referido despacho.
 
 § único. Para o efeito estabelecido no corpo deste artigo serão publicadas no Diário do Governo as listas dos candidatos aprovados, excluídos os já nomeados ou os que em tempo oportuno tenham desistido da nomeação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 15 de Outubro de 1969.**
+Promulgado em 15 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/09400/07270728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1979-382645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 084a9afea572d4b2c5f1b2963123b9ff177ca30ef4446b050eee711e0b3811b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c6851d8e25cfcd537e10ca6bd1513236808fa98cf9f34ac1cf7b86866dc4559
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ALTO Comissário para os Desalojados
+- Desalojado
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492684:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:49Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +120,7 @@ de 23 de Abril
 
 Considerando-se a necessidade de remover dificuldades de interpretação quanto ao âmbito da qualificação dos cargos de Alto-Comissário e Comissário e quanto ao regime jurídico aplicável aos Gabinetes que os apoiam, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, passa a ter a seguinte redacção:
 
 1 - O Alto-Comissário é nomeado por despacho do Primeiro-Ministro, perante quem toma posse.
 
@@ -105,12 +134,12 @@ b) Aos membros dos Gabinetes do Alto-Comissário e do Comissário é aplicável 
 
 4 - O Subcomissário, que será nomeado em comissão de serviço tem categoria correspondente à letra A da tabela de vencimentos dos funcionários e agentes da Administração Pública.
 
-###### Art. 2.º O presente diploma produz efeito desde a data de entrada em vigor do [Decreto-Lei n.º 3/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1977-492684), de 5 de Janeiro.
+Art. 2.º O presente diploma produz efeito desde a data de entrada em vigor do [Decreto-Lei n.º 3/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1977-492684), de 5 de Janeiro.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
 
-**Promulgado em 5 de Abril de 1979.**
+Promulgado em 5 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

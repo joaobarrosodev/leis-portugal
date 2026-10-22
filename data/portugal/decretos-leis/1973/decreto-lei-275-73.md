@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12700/09170918.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1973-422261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 742957204f2c45fbd732ef1730e581da38fc4c4ce50e0f1f237ca010743dc412
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4c88f8e4d5ea5d6af60dc96269ea2bbea2c5efdab20fb88ad4a6dbb614ce264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão de Viticultura da Região dos Vinhos Verdes
+- Embalagem
+- Monção
+- Região Demarcada
+- SELO de Garantia
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:150313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690063:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:150313:por
+  label: "Revogado pelo DEC LEI.10/92.03.02.1992.MA, DR.IS-A [28] de 03.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1992-150313
+  date: '1992-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:11Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +135,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Só poderão ser designados por «Alvarinho» os vinhos verdes brancos da sub-região de Monção provenientes da casta Alvarinha e com as características organolépticas próprias e analíticas legalmente estabelecidas.
+Artigo 1.º Só poderão ser designados por «Alvarinho» os vinhos verdes brancos da sub-região de Monção provenientes da casta Alvarinha e com as características organolépticas próprias e analíticas legalmente estabelecidas.
 
-###### Art. 2.º - 1. A comercialização dos vinhos com a designação «Alvarinho» só poderá efectuar-se em garrafas, de modelo e capacidade determinados pela Comissão de Viticultura da Região dos Vinhos Verdes, devidamente capsuladas, com rótulo de alumínio ou de papel (com marca registada), e em que figure a denominação «Vinho verde» associada à expressão «região demarcada», ou indicação equivalente, no caso de rótulos em língua estrangeira.
+Art. 2.º - 1. A comercialização dos vinhos com a designação «Alvarinho» só poderá efectuar-se em garrafas, de modelo e capacidade determinados pela Comissão de Viticultura da Região dos Vinhos Verdes, devidamente capsuladas, com rótulo de alumínio ou de papel (com marca registada), e em que figure a denominação «Vinho verde» associada à expressão «região demarcada», ou indicação equivalente, no caso de rótulos em língua estrangeira.
 
 2. Os selos de garantia a apor pela Comissão de Viticultura da Região de Vinhos Verdes podem ser emitidos em série especial ou apresentar quaisquer características que os distingam dos restantes vinhos da região.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 17 de Maio de 1973.**
+Promulgado em 17 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

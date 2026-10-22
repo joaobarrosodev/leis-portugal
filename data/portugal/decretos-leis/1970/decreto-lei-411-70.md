@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1970-138851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b4a80ef0b22939f69086f61768ccdb796729b45ef798886a789ccecef6757fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8da2c4584ad6a4f6c6a1b3faf379ba63bea21025794021b516cdcfaa71972dcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Instituição de Crédito
+- Macau.Colónia Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:472881:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472881:por
+  label: "Alterado o nº4 do art. 64º pelo DEC LEI.523/74.08.10.1974.MCINT, DG.IS [234] de 08.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/523-1974-472881
+  date: '1974-10-08'
+- type: cites
+  target: pt:dre:238615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:07Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +127,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Do exercício das funções de crédito
 
-###### Artigo 1.º O exercício das funções de crédito e a prática dos demais actos inerentes à actividade bancária na província de Macau são regulados pelo presente decreto-lei.
+Artigo 1.º O exercício das funções de crédito e a prática dos demais actos inerentes à actividade bancária na província de Macau são regulados pelo presente decreto-lei.
 
-###### Art. 2.º Além do Estado, só as instituições de crédito podem normalmente exercer na província as funções e praticar os actos a que se refere o artigo anterior.
+Art. 2.º Além do Estado, só as instituições de crédito podem normalmente exercer na província as funções e praticar os actos a que se refere o artigo anterior.
 
-###### Art. 3.º - 1. São consideradas instituições de crédito:
+Art. 3.º - 1. São consideradas instituições de crédito:
 
 a) Os institutos de crédito do Estado;
 
@@ -119,15 +147,15 @@ d) Os estabelecimentos especiais de crédito.
 
 4. Os estabelecimentos especiais de crédito abrangem, designadamente, os bancos de investimento, as caixas económicas e as cooperativas de crédito, cujas actividades serão objecto de diplomas especiais.
 
-###### Art. 4.º As casas de câmbio exercem funções auxiliares de crédito e sòmente poderão efectuar as operações que lhes são permitidas nos termos do presente diploma.
+Art. 4.º As casas de câmbio exercem funções auxiliares de crédito e sòmente poderão efectuar as operações que lhes são permitidas nos termos do presente diploma.
 
 ### CAPÍTULO II — Da defesa do crédito
 
-###### Art. 5.º A superintendência, coordenação e fiscalização da actividade das instituições de crédito e das casas de câmbio estabelecidas em Macau são da competência do Governo da província, excepto na parte em que esta competência seja por lei cometida a outra entidade.
+Art. 5.º A superintendência, coordenação e fiscalização da actividade das instituições de crédito e das casas de câmbio estabelecidas em Macau são da competência do Governo da província, excepto na parte em que esta competência seja por lei cometida a outra entidade.
 
-###### Art. 6.º No uso das atribuições mencionadas no artigo anterior, cabe em especial ao Governo da província fixar as directivas ou adoptar as providências que as circunstâncias da conjuntura monetária, cambial e financeira da província justifiquem.
+Art. 6.º No uso das atribuições mencionadas no artigo anterior, cabe em especial ao Governo da província fixar as directivas ou adoptar as providências que as circunstâncias da conjuntura monetária, cambial e financeira da província justifiquem.
 
-###### Art. 7.º - 1. O banco emissor colaborará com o Governo da província na acção orientadora e coordenadora que lhe compete nos termos do artigo anterior.
+Art. 7.º - 1. O banco emissor colaborará com o Governo da província na acção orientadora e coordenadora que lhe compete nos termos do artigo anterior.
 
 2. Ao banco emissor competirá especialmente, sob a orientação superior do Ministro do Ultramar:
 
@@ -143,7 +171,7 @@ d) Actuar como prestamista do sistema bancário.
 
 4. O banco emissor comunicará à Inspecção do Comércio Bancário, para publicação no Boletim Oficial da província, a taxa de desconto em vigor, bem como todas as alterações que lhe forem posteriormente introduzidas.
 
-###### Art. 8.º - 1. É vedado aos bancos comerciais e às casas de câmbio:
+Art. 8.º - 1. É vedado aos bancos comerciais e às casas de câmbio:
 
 a) Celebrar entre si contratos ou acordos de qualquer natureza tendentes a assegurar uma situação de domínio sobre os mercados monetário e financeiro da província ou a provocar alteração nas condições normais do seu funcionamento;
 
@@ -159,43 +187,43 @@ b) Adquirir as suas próprias acções ou partes de capital, ou acções ou part
 
 ### CAPÍTULO III — Da administração das instituições de crédito
 
-###### Art. 9.º - 1. É vedado às instituições de crédito da província fazer parte dos corpos gerentes de outras instituições de crédito.
+Art. 9.º - 1. É vedado às instituições de crédito da província fazer parte dos corpos gerentes de outras instituições de crédito.
 
 2. Exceptuam-se do disposto no n.º 1 do presente artigo os organismos bancários constituídos noutros territórios nacionais, de cujos corpos gerentes poderão fazer parte as instituições de crédito na proporção em que comparticipem no capital daqueles por virtude das operações previstas no n.º 1.º da alínea b) do n.º 1 do artigo 8.º
 
-###### Art. 10.º Os administradores, directores, gerentes, membros do conselho fiscal ou presidentes das mesas da assembleia geral de uma instituição de crédito não podem fazer parte dos corpos gerentes de outra instituição de crédito, nem exercer nela quaisquer funções, salvo quando em representação no caso previsto no n.º 2 do artigo anterior.
+Art. 10.º Os administradores, directores, gerentes, membros do conselho fiscal ou presidentes das mesas da assembleia geral de uma instituição de crédito não podem fazer parte dos corpos gerentes de outra instituição de crédito, nem exercer nela quaisquer funções, salvo quando em representação no caso previsto no n.º 2 do artigo anterior.
 
-###### Art. 11.º Os responsáveis pela falência de empresas singulares ou colectivas e, bem assim, os condenados por furto, roubo, burla, abuso de confiança ou falsidade ficam inibidos de desempenhar quaisquer funções numa instituição de crédito.
+Art. 11.º Os responsáveis pela falência de empresas singulares ou colectivas e, bem assim, os condenados por furto, roubo, burla, abuso de confiança ou falsidade ficam inibidos de desempenhar quaisquer funções numa instituição de crédito.
 
-###### Art. 12.º Não podem fazer parte dos conselhos de administração ou fiscal ou da gerência de uma instituição de crédito os que pertençam aos corpos gerentes de uma mesma sociedade anónima ou sejam associados em sociedades de outras espécies.
+Art. 12.º Não podem fazer parte dos conselhos de administração ou fiscal ou da gerência de uma instituição de crédito os que pertençam aos corpos gerentes de uma mesma sociedade anónima ou sejam associados em sociedades de outras espécies.
 
-###### Art. 13.º Os vogais ou membros do conselho de administração ou fiscal e os gerentes das instituições de crédito não podem receber, sob qualquer forma, crédito da instituição em que exerçam aquelas funções.
+Art. 13.º Os vogais ou membros do conselho de administração ou fiscal e os gerentes das instituições de crédito não podem receber, sob qualquer forma, crédito da instituição em que exerçam aquelas funções.
 
-###### Art. 14.º - 1. As entidades a que alude o artigo anterior estão inibidas de participar na discussão e votação de propostas relativas a operações em que intervenha qualquer sociedade de que sejam sócios ou a cujos corpos gerentes pertençam, tratando-se, neste último caso, de sociedades anónimas.
+Art. 14.º - 1. As entidades a que alude o artigo anterior estão inibidas de participar na discussão e votação de propostas relativas a operações em que intervenha qualquer sociedade de que sejam sócios ou a cujos corpos gerentes pertençam, tratando-se, neste último caso, de sociedades anónimas.
 
 2. As propostas referidas no n.º 1 do presente artigo só podem ser aceites se forem aprovadas pela totalidade dos vogais, membros ou gerentes não abrangidos pela inibição aí consignada.
 
-###### Art. 15.º Os membros do conselho de administração são solidàriamente responsáveis por todos os actos das respectivas instituições de crédito contrárias à lei e aos estatutos, nos quais tenham participado sem manifestar a sua oposição ou discordância.
+Art. 15.º Os membros do conselho de administração são solidàriamente responsáveis por todos os actos das respectivas instituições de crédito contrárias à lei e aos estatutos, nos quais tenham participado sem manifestar a sua oposição ou discordância.
 
 ### CAPÍTULO IV — Dos bancos comerciais
 
 #### SECÇÃO I — Do objecto e do capital mínimo
 
-###### Art. 16.º São considerados bancos comerciais as pessoas colectivas de direito privado que tiverem por objecto exclusivo o exercício com fins lucrativos da actividade bancária e das funções de crédito, nomeadamente a recepção, sob a forma de depósitos ou outras análogas, de disponibilidades monetárias que empreguem por sua própria conta e risco em operações activas de crédito a curto prazo ou outras que lhes sejam autorizadas por lei, o exercício de comércio de câmbios e a realização de operações de pagamentos entre territórios nacionais, bem como a prestação dos serviços de guarda de valores, de colocação ou administração de capitais e de outros de natureza análoga que a lei lhes não proíba.
+Art. 16.º São considerados bancos comerciais as pessoas colectivas de direito privado que tiverem por objecto exclusivo o exercício com fins lucrativos da actividade bancária e das funções de crédito, nomeadamente a recepção, sob a forma de depósitos ou outras análogas, de disponibilidades monetárias que empreguem por sua própria conta e risco em operações activas de crédito a curto prazo ou outras que lhes sejam autorizadas por lei, o exercício de comércio de câmbios e a realização de operações de pagamentos entre territórios nacionais, bem como a prestação dos serviços de guarda de valores, de colocação ou administração de capitais e de outros de natureza análoga que a lei lhes não proíba.
 
-###### Art. 17.º O banco emissor será equiparado a banco comercial quanto à actividade bancária e funções de crédito que exercer nos termos dos seus estatutos e que não sejam dependentes ou resultantes da sua actividade como banco emissor.
+Art. 17.º O banco emissor será equiparado a banco comercial quanto à actividade bancária e funções de crédito que exercer nos termos dos seus estatutos e que não sejam dependentes ou resultantes da sua actividade como banco emissor.
 
-###### Art. 18.º Os bancos comerciais não poderão constituir-se na província de Macau com capital social inferior a 5 milhões de patacas.
+Art. 18.º Os bancos comerciais não poderão constituir-se na província de Macau com capital social inferior a 5 milhões de patacas.
 
-###### Art. 19.º O capital mínimo com que as casas bancárias podem constituir-se será de 2500000 patacas.
+Art. 19.º O capital mínimo com que as casas bancárias podem constituir-se será de 2500000 patacas.
 
 #### SECÇÃO II — Da constituição, transformação e fiscalização dos bancos comerciais
 
-###### Art. 20.º - 1. A constituição de bancos comerciais depende de autorização de Governo da província, que será concedida por meio de diploma legislativo.
+Art. 20.º - 1. A constituição de bancos comerciais depende de autorização de Governo da província, que será concedida por meio de diploma legislativo.
 
 2. Os bancos comerciais submeterão os seus estatutos à aprovação do Governo da província, que deverá também autorizar quaisquer modificações estatutárias, mudança de denominação ou de sede, alterações de capital ou fusão com outras instituições de crédito.
 
-###### Art. 21.º - 1. O requerimento pelo qual se solicite a constituição de um banco comercial deverá ser sempre acompanhado dos elementos seguintes:
+Art. 21.º - 1. O requerimento pelo qual se solicite a constituição de um banco comercial deverá ser sempre acompanhado dos elementos seguintes:
 
 a) Projecto dos estatutos ou do pacto social, elaborado de harmonia com as disposições legais vigentes;
 
@@ -205,7 +233,7 @@ b) Declaração de compromisso de que no acto da constituição serão depositad
 
 3. A autorização caducará se o banco comercial se não constituir no prazo de noventa dias, a contar da data de publicação do respectivo diploma no Boletim Oficial, salvo se o Governo da província, por motivo devidamente justificado, prorrogar esse prazo; mas esta prorrogação não poderá ir além de um ano.
 
-###### Art. 22.º - 1. Os bancos comerciais ficam sujeitos ao pagamento de uma quota de fiscalização, calculada sobre o capital e fundos de reserva, que não poderá exceder 0,2 por cento.
+Art. 22.º - 1. Os bancos comerciais ficam sujeitos ao pagamento de uma quota de fiscalização, calculada sobre o capital e fundos de reserva, que não poderá exceder 0,2 por cento.
 
 2. A percentagem relativa a cada ano, que incidirá sobre o capital e fundos de reserva existentes em 31 de Dezembro desse mesmo ano, será fixada pelo Governo da província, em portaria a publicar no Boletim Oficial até ao dia 1 de Março seguinte, e a sua liquidação e cobrança serão efectuadas pela Inspecção do Comércio Bancário durante o referido mês de Março.
 
@@ -213,7 +241,7 @@ b) Declaração de compromisso de que no acto da constituição serão depositad
 
 #### SECÇÃO III — Do registo dos bancos comerciais
 
-###### Art. 23.º - 1. Os bancos comerciais ficam sujeitos a registo especial na Inspecção do Comércio Bancário da província, do qual constarão os elementos seguintes:
+Art. 23.º - 1. Os bancos comerciais ficam sujeitos a registo especial na Inspecção do Comércio Bancário da província, do qual constarão os elementos seguintes:
 
 a) A denominação da instituição;
 
@@ -247,17 +275,17 @@ g) O lugar da dependência na província;
 
 h) As alterações que se verificarem nos elementos referidos nos números anteriores.
 
-###### Art. 24.º - 1. O registo deve ser requerido no prazo de quinze dias, a contar da data da constituição definitiva do banco comercial ou da autorização para se estabelecer na província, conforme o caso, mas sempre antes do início da actividade.
+Art. 24.º - 1. O registo deve ser requerido no prazo de quinze dias, a contar da data da constituição definitiva do banco comercial ou da autorização para se estabelecer na província, conforme o caso, mas sempre antes do início da actividade.
 
 2. O averbamento das alterações ao registo deve ser requerido no prazo de dez dias, a contar da data em que elas se verificarem.
 
 3. Do registo e das suas alterações serão passadas certidões sumárias aos que as requererem.
 
-###### Art. 25.º Pelo registo dos bancos comerciais é devida a taxa de 300 patacas, e pelo averbamento das suas alterações, a de 60 patacas.
+Art. 25.º Pelo registo dos bancos comerciais é devida a taxa de 300 patacas, e pelo averbamento das suas alterações, a de 60 patacas.
 
 #### SECÇÃO IV — Dos depósitos de numerário
 
-###### Art. 26.º - 1. Os depósitos de disponibilidades monetárias nos bancos comerciais da província só poderão revestir as seguintes formas:
+Art. 26.º - 1. Os depósitos de disponibilidades monetárias nos bancos comerciais da província só poderão revestir as seguintes formas:
 
 a) Depósitos à ordem;
 
@@ -273,17 +301,17 @@ c) Depósitos com pré-aviso.
 
 5. Das contas de depósito existentes nas instituições de crédito da província constarão, obrigatòriamente, o nome e o domicílio do depositante ou depositantes.
 
-###### Art. 27.º O depositante a prazo pode exigir que lhe seja entregue uma livrança representativa da quantia depositada.
+Art. 27.º O depositante a prazo pode exigir que lhe seja entregue uma livrança representativa da quantia depositada.
 
 #### SECÇÃO V — Das operações de crédito e financeiras
 
-###### Art. 28.º - 1. Os bancos comerciais não poderão conceder a uma só entidade crédito superior a 10 por cento do capital e fundos de reserva dos mesmos bancos.
+Art. 28.º - 1. Os bancos comerciais não poderão conceder a uma só entidade crédito superior a 10 por cento do capital e fundos de reserva dos mesmos bancos.
 
 2. Este limite é elevado a 30 por cento se os créditos forem caucionados por títulos da dívida pública portuguesa ou disserem respeito a transacções reais ou efectivas de mercadorias, de interesse para a economia da província e efectuadas por entidades de reconhecida idoneidade, devendo neste caso os créditos ser garantidos por título de propriedade das mercadorias ou representados por letras, livranças ou warrants.
 
 3. Quando os créditos revestirem a forma de fiança ou garantia bancária, o mesmo limite é elevado para 20 por cento se o banco possuir contragarantia prestada por entidades de reconhecida idoneidade.
 
-###### Art. 29.º - 1. Nas operações de empréstimos caucionados, os bancos comerciais não poderão conceder crédito superior a:
+Art. 29.º - 1. Nas operações de empréstimos caucionados, os bancos comerciais não poderão conceder crédito superior a:
 
 a) 90 por cento do valor dos títulos do Estado ou por ele garantidos, assim como de Estados estrangeiros;
 
@@ -301,21 +329,21 @@ e) 60 por cento do valor dos imóveis que for determinado por perito qualificado
 
 4. As margens mínimas de segurança estabelecidas neste artigo deverão ser sempre mantidas até à liquidação dos empréstimos.
 
-###### Art. 30.º Os bancos comerciais não podem aplicar em empréstimos sobre penhor das suas próprias acções importância total superior a 15 por cento dos seus fundos de reserva.
+Art. 30.º Os bancos comerciais não podem aplicar em empréstimos sobre penhor das suas próprias acções importância total superior a 15 por cento dos seus fundos de reserva.
 
-###### Art. 31.º Nas operações de empréstimo sobre penhor dos bancos comerciais será aplicável o disposto pelo [Decreto-Lei n.º 32032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32032-1942-314423), de 22 de Maio de 1942.
+Art. 31.º Nas operações de empréstimo sobre penhor dos bancos comerciais será aplicável o disposto pelo [Decreto-Lei n.º 32032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32032-1942-314423), de 22 de Maio de 1942.
 
-###### Art. 32.º Os bancos comerciais podem adquirir obrigações com garantia do Estado até ao limite de 50 por cento da importância total de cada emissão.
+Art. 32.º Os bancos comerciais podem adquirir obrigações com garantia do Estado até ao limite de 50 por cento da importância total de cada emissão.
 
-###### Art. 33.º Os bancos comerciais só podem participar no capital de qualquer sociedade ou adquirir obrigações não garantidas pelo Estado até à concorrência da soma dos seus fundos de reserva e da quinta parte do capital realizado, e desde que as correspondentes aplicações não excedam, respectivamente, 1/5 do capital realizado das empresas e 1/3 da importância total das obrigações emitidas, salvo no caso previsto no n.º 3.º da alínea b) do n.º 1 do artigo 8.º deste diploma.
+Art. 33.º Os bancos comerciais só podem participar no capital de qualquer sociedade ou adquirir obrigações não garantidas pelo Estado até à concorrência da soma dos seus fundos de reserva e da quinta parte do capital realizado, e desde que as correspondentes aplicações não excedam, respectivamente, 1/5 do capital realizado das empresas e 1/3 da importância total das obrigações emitidas, salvo no caso previsto no n.º 3.º da alínea b) do n.º 1 do artigo 8.º deste diploma.
 
-###### Art. 34.º É permitido aos bancos comerciais tomar firme a emissão de títulos do Estado ou de obrigações por ele garantidas, assim como de acções e obrigações de outras instituições de crédito ou de empresas de qualquer natureza, a fim de serem colocadas mediante subscrição pública na província.
+Art. 34.º É permitido aos bancos comerciais tomar firme a emissão de títulos do Estado ou de obrigações por ele garantidas, assim como de acções e obrigações de outras instituições de crédito ou de empresas de qualquer natureza, a fim de serem colocadas mediante subscrição pública na província.
 
-###### Art. 35.º Os bancos comerciais terão o prazo de dezoito meses, a contar da data de cada subscrição, para alienar a totalidade dos valores subscritos, no caso de se tratar de títulos cuja aquisição lhes é vedada, ou para reduzir os mesmos valores aos limites fixados pelos artigos 32.º e 33.º, nos restantes casos.
+Art. 35.º Os bancos comerciais terão o prazo de dezoito meses, a contar da data de cada subscrição, para alienar a totalidade dos valores subscritos, no caso de se tratar de títulos cuja aquisição lhes é vedada, ou para reduzir os mesmos valores aos limites fixados pelos artigos 32.º e 33.º, nos restantes casos.
 
 #### SECÇÃO VI — Das garantias de liquidez e solvabilidade
 
-###### Art. 36.º - 1. A importância total das responsabilidades à vista dos bancos comerciais, em moeda nacional com curso legal na província, deverá estar integralmente garantida em qualquer momento pela soma dos seguintes valores:
+Art. 36.º - 1. A importância total das responsabilidades à vista dos bancos comerciais, em moeda nacional com curso legal na província, deverá estar integralmente garantida em qualquer momento pela soma dos seguintes valores:
 
 a) Disponibilidades de caixa constituídas por dinheiro em cofre e depósitos à ordem no banco emissor da província;
 
@@ -343,9 +371,9 @@ l) Empréstimos ou contas correntes de prazo não superior a um ano, expressos e
 
 2. Para efeitos do presente diploma, além dos depósitos à ordem e das demais responsabilidades imediatamente exigíveis, são considerados como responsabilidades à vista os depósitos a prazo ou com pré-aviso inferiores a trinta dias.
 
-###### Art. 37.º O valor das disponibilidades de caixa referidas na alínea a) do n.º 1 do artigo anterior não poderá, em qualquer momento, ser inferior a 20 por cento da importância total das responsabilidades à vista dos bancos comerciais, em moeda com curso legal na província.
+Art. 37.º O valor das disponibilidades de caixa referidas na alínea a) do n.º 1 do artigo anterior não poderá, em qualquer momento, ser inferior a 20 por cento da importância total das responsabilidades à vista dos bancos comerciais, em moeda com curso legal na província.
 
-###### Art. 38.º A importância total das responsabilidades até cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província, com exclusão das suas responsabilidades à vista, deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
+Art. 38.º A importância total das responsabilidades até cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província, com exclusão das suas responsabilidades à vista, deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
 
 a) Disponibilidades de caixa constituídas por dinheiro em cofre e depósitos à ordem no banco emissor da província;
 
@@ -359,9 +387,9 @@ e) Valores da carteira comercial de prazo não inferior a cento e oitenta dias, 
 
 f) Empréstimos ou contas correntes de prazo não inferior a um ano, nem superior a dois anos, expressos em moeda nacional com curso legal na província, caucionados por qualquer forma admitida em direito.
 
-###### Art. 39.º O valor das disponibilidades de caixa referidas na alínea a) do artigo anterior não poderá, em qualquer momento, ser inferior a 10 por cento da importância total das responsabilidades até cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província, com exclusão das suas responsabilidades à vista.
+Art. 39.º O valor das disponibilidades de caixa referidas na alínea a) do artigo anterior não poderá, em qualquer momento, ser inferior a 10 por cento da importância total das responsabilidades até cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província, com exclusão das suas responsabilidades à vista.
 
-###### Art. 40.º A importância total das responsabilidades a mais de cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província, deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
+Art. 40.º A importância total das responsabilidades a mais de cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província, deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
 
 a) Disponibilidades de caixa constituídas por dinheiro em cofre e depósitos à ordem no banco emissor da província;
 
@@ -371,13 +399,13 @@ c) Valores da carteira comercial de prazo superior a dois, mas não a cinco, ano
 
 d) Empréstimos ou contas correntes de prazo superior a dois, mas não a cinco, anos, expressos em moeda nacional com curso legal na província, caucionados por qualquer forma admitida em direito.
 
-###### Art. 41.º O valor das disponibilidades de caixa referidas na alínea a) do artigo anterior não poderá, em qualquer momento, ser inferior a 5 por cento da importância total das responsabilidades a mais de cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província.
+Art. 41.º O valor das disponibilidades de caixa referidas na alínea a) do artigo anterior não poderá, em qualquer momento, ser inferior a 5 por cento da importância total das responsabilidades a mais de cento e oitenta dias dos bancos comerciais, em moeda nacional com curso legal na província.
 
-###### Art. 42.º Para os efeitos do disposto no n.º 1 do artigo 36.º e nos artigos 38.º e 40.º, os cheques à vista emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas na província poderão ser considerados como dinheiro em cofre apenas pelo tempo estritamente indispensável à sua cobrança ou compensação, o qual nunca poderá exceder dois dias, mas com exclusão dos cheques emitidos pelos próprios bancos comerciais sobre quaisquer outras instituições de crédito.
+Art. 42.º Para os efeitos do disposto no n.º 1 do artigo 36.º e nos artigos 38.º e 40.º, os cheques à vista emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas na província poderão ser considerados como dinheiro em cofre apenas pelo tempo estritamente indispensável à sua cobrança ou compensação, o qual nunca poderá exceder dois dias, mas com exclusão dos cheques emitidos pelos próprios bancos comerciais sobre quaisquer outras instituições de crédito.
 
-###### Art. 43.º Não serão contáveis entre os valores referidos nas alíneas h) e i) do n.º 1 do artigo 36.º, na alínea b) do artigo 38.º e na alínea b) do artigo 40.º os títulos que forem dados em caução e, bem assim, os depositados no banco emissor da província em caução por efeito de contratos de empréstimos, mas, neste último caso, apenas não será contada a parte correspondente às importâncias que vierem a ser efectivamente utilizadas nos termos desses contratos.
+Art. 43.º Não serão contáveis entre os valores referidos nas alíneas h) e i) do n.º 1 do artigo 36.º, na alínea b) do artigo 38.º e na alínea b) do artigo 40.º os títulos que forem dados em caução e, bem assim, os depositados no banco emissor da província em caução por efeito de contratos de empréstimos, mas, neste último caso, apenas não será contada a parte correspondente às importâncias que vierem a ser efectivamente utilizadas nos termos desses contratos.
 
-###### Art. 44.º Para efeitos do disposto no n.º 1 do artigo 36.º e nos artigos 38.º e 40.º, os valores neles mencionados deverão contar-se pela forma seguinte:
+Art. 44.º Para efeitos do disposto no n.º 1 do artigo 36.º e nos artigos 38.º e 40.º, os valores neles mencionados deverão contar-se pela forma seguinte:
 
 a) O ouro amoedado ou não, pelo seu peso em ouro fino expresso na moeda com curso legal na província, tendo em conta a paridade do escudo acordada entre o Estado e o Fundo Monetário Internacional e a relação paritária entre a pataca e o escudo;
 
@@ -395,7 +423,7 @@ g) Os títulos nacionais cotados em bolsa, pelo valor da última cotação na Bo
 
 h) Os restantes valores, pelos respectivos valores nominais.
 
-###### Art. 45.º O Governo da província, sobre parecer do banco emissor, poderá, em diploma legislativo:
+Art. 45.º O Governo da província, sobre parecer do banco emissor, poderá, em diploma legislativo:
 
 a) Estabelecer as condições em que os valores não indicados no n.º 1 do artigo 36.º e nos artigos 38.º e 40.º ou aí referidos, mas a prazos diferentes dos neles estabelecidos, poderão ser contados nas coberturas das responsabilidades dos bancos comerciais, em moeda nacional com curso legal na província;
 
@@ -409,31 +437,31 @@ e) Regular as condições de prestação pelos bancos comerciais dos serviços d
 
 f) Estabelecer limites às disponibilidades em moedas estrangeiras dos bancos comerciais, tendo em consideração a conjuntura dos mercados monetário e cambial da província.
 
-###### Art. 46.º - 1. Dos lucros líquidos dos bancos comerciais, uma fracção, não inferior a 1/10, será destinada à formação do fundo de reserva legal, até que este represente 50 por cento, pelo menos, do capital social.
+Art. 46.º - 1. Dos lucros líquidos dos bancos comerciais, uma fracção, não inferior a 1/10, será destinada à formação do fundo de reserva legal, até que este represente 50 por cento, pelo menos, do capital social.
 
 2. Além das provisões para créditos de cobrança duvidosa e para outras depreciações do activo, devem os bancos comerciais constituir, independentemente do fundo de reserva legal, as provisões que prudentemente se considerem necessárias para fazer face aos riscos de depreciação ou prejuízo a que determinadas espécies de valores ou operações estão especialmente sujeitas.
 
 #### SECÇÃO VII — Das contas e balanças e dos elementos de informação monetária e financeira
 
-###### Art. 47.º Os bancos comerciais são obrigados a enviar à Inspecção do Comércio Bancário da província, assinados por um administrador e pelo chefe da contabilidade:
+Art. 47.º Os bancos comerciais são obrigados a enviar à Inspecção do Comércio Bancário da província, assinados por um administrador e pelo chefe da contabilidade:
 
 a) Até ao dia 15 do mês seguinte ao fim de cada trimestre, o balancete do Razão referido ao último dia do mês anterior, acompanhado dos desdobramentos de contas que se mostrarem necessários;
 
 b) Logo após o encerramento das contas do exercício, o balanço, o desenvolvimento da conta de lucros e perdas e o inventário da carteira de títulos
 
-###### Art. 48.º Os bancos comerciais enviarão também à Inspecção do Comércio Bancário da província, logo que a assembleia geral tenha aprovado as contas do exercício, um extracto da acta da referida assembleia na parte relativa à discussão de contas, à respectiva aprovação e à aplicação dos lucros.
+Art. 48.º Os bancos comerciais enviarão também à Inspecção do Comércio Bancário da província, logo que a assembleia geral tenha aprovado as contas do exercício, um extracto da acta da referida assembleia na parte relativa à discussão de contas, à respectiva aprovação e à aplicação dos lucros.
 
-###### Art. 49.º Os bancos comerciais publicarão no Boletim Oficial da província os seus balancetes trimestrais e no Boletim Oficial e num dos jornais mais lidos da província os seus balanços e contas de lucros e perdas anuais, acompanhados dos respectivos relatórios da administração, bem como, havendo-o, do parecer do conselho fiscal.
+Art. 49.º Os bancos comerciais publicarão no Boletim Oficial da província os seus balancetes trimestrais e no Boletim Oficial e num dos jornais mais lidos da província os seus balanços e contas de lucros e perdas anuais, acompanhados dos respectivos relatórios da administração, bem como, havendo-o, do parecer do conselho fiscal.
 
-###### Art. 50.º Com vista à elaboração periódica da balança de pagamentos da província, ficam os bancos comerciais obrigados a fornecer à Inspecção do Comércio Bancário, de harmonia com as instruções por esta transmitidas, os necessários elementos de informação e estatística.
+Art. 50.º Com vista à elaboração periódica da balança de pagamentos da província, ficam os bancos comerciais obrigados a fornecer à Inspecção do Comércio Bancário, de harmonia com as instruções por esta transmitidas, os necessários elementos de informação e estatística.
 
 ### CAPÍTULO V — Das casas de câmbio
 
-###### Art. 51.º As casas de câmbio deverão ser obrigatòriamente constituídas sob a forma de sociedades comerciais e não poderão funcionar com capital inferior a 20000 patacas.
+Art. 51.º As casas de câmbio deverão ser obrigatòriamente constituídas sob a forma de sociedades comerciais e não poderão funcionar com capital inferior a 20000 patacas.
 
-###### Art. 52.º Às casas de câmbio é aplicável o disposto no artigo 20.º, assim como nos n.os 1 e 3 do artigo 21.º
+Art. 52.º Às casas de câmbio é aplicável o disposto no artigo 20.º, assim como nos n.os 1 e 3 do artigo 21.º
 
-###### Art. 53.º As casas de câmbio sòmente podem efectuar as operações seguintes:
+Art. 53.º As casas de câmbio sòmente podem efectuar as operações seguintes:
 
 a) Compra de cupões de títulos estrangeiros;
 
@@ -441,9 +469,9 @@ b) Compra e venda de notas e moedas metálicas estrangeiras;
 
 c) Compra de cheques de viagem.
 
-###### Art. 54.º As casas de câmbio ficam sujeitas à quota de fiscalização referida no artigo 22.º, cuja importância não poderá exceder 1 por cento do valor do capital e fundos de reserva.
+Art. 54.º As casas de câmbio ficam sujeitas à quota de fiscalização referida no artigo 22.º, cuja importância não poderá exceder 1 por cento do valor do capital e fundos de reserva.
 
-###### Art. 55.º - 1. As casas de câmbio estão sujeitas, na parte aplicável, ao disposto nos artigos 11.º, 15.º, 23.º a 25.º, 47.º e 50.º do presente diploma.
+Art. 55.º - 1. As casas de câmbio estão sujeitas, na parte aplicável, ao disposto nos artigos 11.º, 15.º, 23.º a 25.º, 47.º e 50.º do presente diploma.
 
 2. As taxas de registo referidas no artigo 25.º são reduzidas para as casas de câmbio a metade das importâncias indicadas no mesmo artigo.
 
@@ -451,23 +479,23 @@ c) Compra de cheques de viagem.
 
 #### SECÇÃO I — Das instituições de crédito nacionais
 
-###### Art. 56.º Uma vez obtida autorização no território onde tenham a sua sede, nos termos da legislação respectiva e da que regular as operações de pagamentos interterritoriais, os bancos comerciais poderão estabelecer dependências na província, para o que deverão conformar-se, na parte aplicável, com o disposto no presente diploma, designadamente nos artigos 8.º a 15.º, 18.º, 20.º a 22.º, 24.º, 25.º, 28.º a 44.º e 46.º a 50.º
+Art. 56.º Uma vez obtida autorização no território onde tenham a sua sede, nos termos da legislação respectiva e da que regular as operações de pagamentos interterritoriais, os bancos comerciais poderão estabelecer dependências na província, para o que deverão conformar-se, na parte aplicável, com o disposto no presente diploma, designadamente nos artigos 8.º a 15.º, 18.º, 20.º a 22.º, 24.º, 25.º, 28.º a 44.º e 46.º a 50.º
 
-###### Art. 57.º Todo o activo das instituições de crédito com dependências na província responde pelas obrigações contraídas por elas, mas os activos que possuírem em Macau, incluindo o que representar o capital e fundos de reserva, responderá em primeiro lugar pelas obrigações contraídas na província e só poderá responder por outras depois de solvidas aquelas.
+Art. 57.º Todo o activo das instituições de crédito com dependências na província responde pelas obrigações contraídas por elas, mas os activos que possuírem em Macau, incluindo o que representar o capital e fundos de reserva, responderá em primeiro lugar pelas obrigações contraídas na província e só poderá responder por outras depois de solvidas aquelas.
 
-###### Art. 58.º As instituições de crédito com dependências na província terão sempre um representante idóneo, com poderes bastantes para responder perante as autoridades e os particulares pelos actos praticados pelas referidas dependências, sem limitação ou reserva.
+Art. 58.º As instituições de crédito com dependências na província terão sempre um representante idóneo, com poderes bastantes para responder perante as autoridades e os particulares pelos actos praticados pelas referidas dependências, sem limitação ou reserva.
 
 #### SECÇÃO II — Das instituições de crédito estrangeiras
 
-###### Art. 59.º As instituições de crédito estrangeiras estão sujeitas à legislação portuguesa e à jurisdição dos tribunais portugueses no tocante a todas as operações respeitantes à província, e são-lhes aplicáveis as disposições deste diploma, salvo o que para elas for expressamente preceituado.
+Art. 59.º As instituições de crédito estrangeiras estão sujeitas à legislação portuguesa e à jurisdição dos tribunais portugueses no tocante a todas as operações respeitantes à província, e são-lhes aplicáveis as disposições deste diploma, salvo o que para elas for expressamente preceituado.
 
-###### Art. 60.º Nenhuma instituição de crédito estrangeira poderá funcionar em Macau sem que disponha de um capital não inferior ao fixado no artigo 18.º deste diploma e especialmente afecto às operações a realizar na província.
+Art. 60.º Nenhuma instituição de crédito estrangeira poderá funcionar em Macau sem que disponha de um capital não inferior ao fixado no artigo 18.º deste diploma e especialmente afecto às operações a realizar na província.
 
-###### Art. 61.º A gerência das instituições de crédito estrangeiras deverá ser confiada a uma direcção com poderes plenos e ilimitados para tratar e resolver definitivamente com o Estado e com os particulares na província.
+Art. 61.º A gerência das instituições de crédito estrangeiras deverá ser confiada a uma direcção com poderes plenos e ilimitados para tratar e resolver definitivamente com o Estado e com os particulares na província.
 
-###### Art. 62.º Salva decisão em contrário do Governo da província, as instituições de crédito estrangeiras são obrigadas a ter empregados de nacionalidade portuguesa em número não inferior a um terço do total dos seus empregados, e metade, pelo menos, dos membros da sua direcção deverá ser de nacionalidade portuguesa.
+Art. 62.º Salva decisão em contrário do Governo da província, as instituições de crédito estrangeiras são obrigadas a ter empregados de nacionalidade portuguesa em número não inferior a um terço do total dos seus empregados, e metade, pelo menos, dos membros da sua direcção deverá ser de nacionalidade portuguesa.
 
-###### Art. 63.º - 1. O funcionamento na província de instituições de crédito estrangeiras depende de autorização, conforme o preceituado no artigo 20.º do presente diploma.
+Art. 63.º - 1. O funcionamento na província de instituições de crédito estrangeiras depende de autorização, conforme o preceituado no artigo 20.º do presente diploma.
 
 2. O requerimento deverá ser acompanhado dos elementos seguintes:
 
@@ -481,7 +509,7 @@ d) Mandato de gerência na província, passado nos termos do artigo 61.º
 
 3. Todos os documentos serão apresentados autenticamente na língua original, acompanhados da respectiva tradução, em duplicado, feita pelo notário ou devidamente autenticada nos termos legais.
 
-###### Art. 64.º - 1. O capital da instituição de crédito estrangeira responde pelas operações que esta realizar através da sua dependência na província.
+Art. 64.º - 1. O capital da instituição de crédito estrangeira responde pelas operações que esta realizar através da sua dependência na província.
 
 2. O activo aplicado em Macau só responde pelas obrigações assumidas em outros países pela sede ou agências da instituição principal depois de satisfeitas todas as obrigações contraídas na província.
 
@@ -491,43 +519,43 @@ d) Mandato de gerência na província, passado nos termos do artigo 61.º
 
 5. A sentença estrangeira que decretar a falência ou a liquidação de uma instituição de crédito domiciliada no estrangeiro só poderá aplicar-se à dependência que ela tenha na província, mesmo quando revista pelos tribunais portugueses competentes, depois de cumprido o disposto no n.º 2 deste artigo.
 
-###### Art. 65.º Salvo decisão em contrário do Governo da província, as dependências em Macau das instituições de crédito estrangeiras são obrigadas ao uso da língua portuguesa na escrituração dos livros da sua contabilidade, nas contas e avisos patenteados ao público e na correspondência com clientes residentes em território português.
+Art. 65.º Salvo decisão em contrário do Governo da província, as dependências em Macau das instituições de crédito estrangeiras são obrigadas ao uso da língua portuguesa na escrituração dos livros da sua contabilidade, nas contas e avisos patenteados ao público e na correspondência com clientes residentes em território português.
 
 ### CAPÍTULO VII — Das sanções
 
-###### Art. 66.º As transgressões ao estabelecido no presente diploma serão punidas de conformidade com a lei geral e com o disposto no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 66.º As transgressões ao estabelecido no presente diploma serão punidas de conformidade com a lei geral e com o disposto no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-###### Art. 67.º Para efeito da aplicação das sanções previstas no artigo anterior, o banco emissor participará à Inspecção do Comércio Bancário as transgressões de que tiver conhecimento.
+Art. 67.º Para efeito da aplicação das sanções previstas no artigo anterior, o banco emissor participará à Inspecção do Comércio Bancário as transgressões de que tiver conhecimento.
 
-###### Art. 68.º Às entidades que não fornecerem nos prazos fixados os elementos contabilísticos ou informativos solicitados, nos termos legais, em circulares ou instruções enviadas pela Inspecção do Comércio Bancário poderá ser aplicada multa, cuja importância não excederá 5000 patacas.
+Art. 68.º Às entidades que não fornecerem nos prazos fixados os elementos contabilísticos ou informativos solicitados, nos termos legais, em circulares ou instruções enviadas pela Inspecção do Comércio Bancário poderá ser aplicada multa, cuja importância não excederá 5000 patacas.
 
 ### CAPÍTULO VIII — Disposições especiais e transitórias
 
-###### Art. 69.º - 1. O Governo da província, quando o desenvolvimento do mercado monetário o justificar, determinará por diploma legislativo a criação de uma câmara de compensação, que terá por objecto exclusivo realizar obrigatòriamente, por encontro ou compensação, a liquidação diária dos cheques que, uns sobre os outros, possuírem o banco emissor e os bancos comerciais associados nessas câmaras.
+Art. 69.º - 1. O Governo da província, quando o desenvolvimento do mercado monetário o justificar, determinará por diploma legislativo a criação de uma câmara de compensação, que terá por objecto exclusivo realizar obrigatòriamente, por encontro ou compensação, a liquidação diária dos cheques que, uns sobre os outros, possuírem o banco emissor e os bancos comerciais associados nessas câmaras.
 
 2. No diploma referido no n.º 1 do presente artigo serão estabelecidas as condições de funcionamento da câmara de compensação.
 
-###### Art. 70.º - 1. A emissão em Macau de acções e obrigações de quaisquer instituições de crédito dependerá apenas de autorização do Governo da província.
+Art. 70.º - 1. A emissão em Macau de acções e obrigações de quaisquer instituições de crédito dependerá apenas de autorização do Governo da província.
 
 2. Os processos de autorização correrão pela Inspecção do Comércio Bancário, que poderá requisitar das instituições de crédito os elementos necessários à respectiva instrução.
 
-###### Art. 71.º - 1. Até noventa dias após a publicação deste decreto-lei, as casas de câmbio actualmente existentes na província que apenas pretendam executar as operações enumeradas no artigo 53.º deverão informar nessa conformidade a Inspecção do Comércio Bancário, não lhes sendo exigido o cumprimento do disposto no artigo 52.º
+Art. 71.º - 1. Até noventa dias após a publicação deste decreto-lei, as casas de câmbio actualmente existentes na província que apenas pretendam executar as operações enumeradas no artigo 53.º deverão informar nessa conformidade a Inspecção do Comércio Bancário, não lhes sendo exigido o cumprimento do disposto no artigo 52.º
 
 2. O Governo da província fará publicar no Boletim Oficial a lista das casas de câmbio que beneficiaram do regime previsto no n.º 1 do presente artigo, às quais será concedido o prazo de dezoito meses para se conformarem com o que para elas ficou especialmente preceituado neste diploma.
 
-###### Art. 72.º - 1. As casas de câmbio que vêm executando operações que excedem o limite da competência fixada pelo artigo 53.º terão o prazo de dois anos para se adaptarem ao regime legal agora estabelecido.
+Art. 72.º - 1. As casas de câmbio que vêm executando operações que excedem o limite da competência fixada pelo artigo 53.º terão o prazo de dois anos para se adaptarem ao regime legal agora estabelecido.
 
 2. Em circunstâncias especiais devidamente justificadas o Governo da província poderá, a solicitação dos interessados, prorrogar por uma ou mais vezes o prazo a que se refere o n.º 1 do presente artigo.
 
-###### Art. 73.º - 1. Em derrogação das disposições constantes deste diploma o Governo da província poderá facilitar a transformação em bancos comerciais de instituições auxiliares de crédito actualmente existentes em Macau, nomeadamente com dispensa do estabelecido nos artigos 18.º, 19.º e 21.º ou no artigo 60.º e nos n.os 2 e 3 do artigo 63.º deste decreto-lei.
+Art. 73.º - 1. Em derrogação das disposições constantes deste diploma o Governo da província poderá facilitar a transformação em bancos comerciais de instituições auxiliares de crédito actualmente existentes em Macau, nomeadamente com dispensa do estabelecido nos artigos 18.º, 19.º e 21.º ou no artigo 60.º e nos n.os 2 e 3 do artigo 63.º deste decreto-lei.
 
 2. No diploma legislativo que autorizar a referida transformação poderão ser igualmente fixadas condições especiais de funcionamento dessas instituições de crédito, designadamente quanto ao previsto nos artigos 62.º e 65.º anteriores.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Agosto de 1970.**
+Promulgado em 12 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

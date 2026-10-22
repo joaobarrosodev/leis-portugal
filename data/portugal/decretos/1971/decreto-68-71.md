@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/68-1971-445570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91fe158e575589a342ad73ef8797f93e926cf56eed93235dc610ca38b56f2591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0b7a09a08ce97ac78ef36d3ba907e5de1e7771768fb3e172506b794e75d20a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401549:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:17Z'
   warnings: []
   errors: []
 ---
@@ -91,22 +99,22 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os membros do conselho administrativo do Cofre Geral de Justiça das províncias ultramarinas terão direito a uma senha de presença de harmonia com o quadro anexo a este decreto, que substitui o que foi publicado anexo ao [Decreto n.º 48152](https://diariodarepublica.pt/dr/detalhe/decreto/48152-1967-401549), de 23 de Dezembro de 1967.
+Artigo 1.º Os membros do conselho administrativo do Cofre Geral de Justiça das províncias ultramarinas terão direito a uma senha de presença de harmonia com o quadro anexo a este decreto, que substitui o que foi publicado anexo ao [Decreto n.º 48152](https://diariodarepublica.pt/dr/detalhe/decreto/48152-1967-401549), de 23 de Dezembro de 1967.
 
-###### Art. 2.º Entre a vigência do [Decreto n.º 268/70](https://diariodarepublica.pt/dr/detalhe/decreto/268-1970-142690), de 3 de Junho, e a do presente decreto, os membros do conselho administrativo referido no artigo anterior deverão perceber as senhas de presença do montante fixado no artigo 15.º daquele decreto.
+Art. 2.º Entre a vigência do [Decreto n.º 268/70](https://diariodarepublica.pt/dr/detalhe/decreto/268-1970-142690), de 3 de Junho, e a do presente decreto, os membros do conselho administrativo referido no artigo anterior deverão perceber as senhas de presença do montante fixado no artigo 15.º daquele decreto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Fevereiro de 1971.**
+Promulgado em 20 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Tabela de remunerações do conselho administrativo do Cofre Geral de Justiça (artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/03/05300/02830284.pdf))](https://files.diariodarepublica.pt/1s/1971/03/05300/02830284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/03/05300/02830284.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

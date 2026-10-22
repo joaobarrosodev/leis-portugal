@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/222-1970-142323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d539a88902e035582f4691303ebc2a0aefc0d66c359674d9815fecbee7819dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c4353646ce5727d1f742a0c873f3a3f50b7039309842b0b1e44f4eef3ca6e8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:201199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:24Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +109,15 @@ Ouvido o Conselho Ultramarino, nos termos do n.º III da base X da Lei Orgânica
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os conselhos de administração dos Serviços dos Correios, Telégrafos e Telefones de Angola e de Moçambique são competentes para autorizar despesas com obras ou aquisições de material até 800000$00 e os das restantes províncias até 300000$00.
+Artigo 1.º - 1. Os conselhos de administração dos Serviços dos Correios, Telégrafos e Telefones de Angola e de Moçambique são competentes para autorizar despesas com obras ou aquisições de material até 800000$00 e os das restantes províncias até 300000$00.
 
 2. Podem também dispensar as formalidades de concurso público e a celebração de contrato escrito quando as importâncias a despender não excedam metade dos valores indicados no n.º 1.
 
-###### Art. 2.º O número, designação e categoria de lugares de pessoal eventual ou contratado previsto no artigo 218.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, que as conveniências do serviço exigirem e cujo provimento seja da competência dos governadores das províncias ultramarinas serão fixados por despacho destes, mediante proposta do conselho de administração dos respectivos serviços, inscrevendo-se nos mapas de despesa dos seus orçamentos privativos as necessárias dotações.
+Art. 2.º O número, designação e categoria de lugares de pessoal eventual ou contratado previsto no artigo 218.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, que as conveniências do serviço exigirem e cujo provimento seja da competência dos governadores das províncias ultramarinas serão fixados por despacho destes, mediante proposta do conselho de administração dos respectivos serviços, inscrevendo-se nos mapas de despesa dos seus orçamentos privativos as necessárias dotações.
 
-###### Art. 3.º O limite máximo de remuneração por serviço extraordinário prestado nas estações postais ou de telecomunicações dos serviços dos correios, telégrafos e telefones das províncias ultramarinas é fixado em 50 por cento do respectivo vencimento mensal.
+Art. 3.º O limite máximo de remuneração por serviço extraordinário prestado nas estações postais ou de telecomunicações dos serviços dos correios, telégrafos e telefones das províncias ultramarinas é fixado em 50 por cento do respectivo vencimento mensal.
 
-###### Art. 4.º - 1. Os governadores-gerais de Angola e de Moçambique poderão autorizar a criação de cursos de formação profissional e de cursos de aperfeiçoamento profissional nos respectivos Serviços dos Correios, Telégrafos e Telefones, integrados nas escolas práticas previstas no artigo 384.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
+Art. 4.º - 1. Os governadores-gerais de Angola e de Moçambique poderão autorizar a criação de cursos de formação profissional e de cursos de aperfeiçoamento profissional nos respectivos Serviços dos Correios, Telégrafos e Telefones, integrados nas escolas práticas previstas no artigo 384.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
 2. Aos cursos, de formação profissional poderão ser admitidos, como alunos ordinários, funcionários dos mesmos serviços com mais de um ano de serviço efectivo e de categoria não inferior à de distribuidor de 2.ª classe, e, como alunos extraordinários, quaisquer indivíduos estranhos aos correios, telégrafos e telefones, desde que possuam, como habilitação literária mínima, o 1.º ciclo dos liceus ou equivalente.
 
@@ -113,11 +129,11 @@ Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constitui
 
 6. Para efeitos de classificação em concurso de promoção, aos funcionários dos Serviços dos Correios, Telégrafos e Telefones de Angola e de Moçambique que obtiverem aprovação nos cursos de aperfeiçoamento profissional da respectiva categoria será atribuída uma bonificação de 1 a 3 valores - consoante a classificação obtida no curso -, a qual será adicionada à média final obtida pela classificação das respectivas provas de concurso e pela classificação de serviço, conforme o previsto no artigo 270.º e seus parágrafos do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
-###### Art. 5.º - 1. Nas províncias de Angola e Moçambique, enquanto não funcionarem a Escola Prática dos Correios, Telégrafos e Telefones ou os cursos de formação profissional a que se refere o artigo 4.º do presente decreto poderá o respectivo governador-geral, por despacho e a requerimento dos interessados, dispensar a exigência do mínimo de habilitações literárias estabelecido por lei para admissão a concursos de ingresso nos quadros privativos dos respectivos Serviços dos Correios, Telégrafos e Telefones, mediante parecer do conselho de administração dos mesmos serviços em que unânimemente se reconheça que tais candidatos possuem larga experiência das técnicas de exploração postal ou telegráfica, administrativa ou de telecomunicações, adquiridas dentro dos correios, telégrafos e telefones do ultramar e adequadas aos lugares a prover, desde que satisfaçam às restantes condições legais.
+Art. 5.º - 1. Nas províncias de Angola e Moçambique, enquanto não funcionarem a Escola Prática dos Correios, Telégrafos e Telefones ou os cursos de formação profissional a que se refere o artigo 4.º do presente decreto poderá o respectivo governador-geral, por despacho e a requerimento dos interessados, dispensar a exigência do mínimo de habilitações literárias estabelecido por lei para admissão a concursos de ingresso nos quadros privativos dos respectivos Serviços dos Correios, Telégrafos e Telefones, mediante parecer do conselho de administração dos mesmos serviços em que unânimemente se reconheça que tais candidatos possuem larga experiência das técnicas de exploração postal ou telegráfica, administrativa ou de telecomunicações, adquiridas dentro dos correios, telégrafos e telefones do ultramar e adequadas aos lugares a prover, desde que satisfaçam às restantes condições legais.
 
 2. Os candidatos admitidos a um concurso ao abrigo das disposições do n.º 1 do presente artigo serão classificados seguidamente aos candidatos admitidos ao mesmo concurso que possuam as habilitações literárias exigidas pelas disposições legais aplicáveis e ainda aos candidatos admitidos ao abrigo das disposições contidas no artigo 12.º do Diploma Legislativo Ministerial n.º 16, de 31 de Maio de 1967, publicado na província de Angola, e no artigo 19.º do [Decreto n.º 49037](https://diariodarepublica.pt/dr/detalhe/decreto/49037-1969-201199), de 30 de Maio de 1969, não podendo ascender a lugares de categoria superior à letra L do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, salvo se, entretanto, adquirirem as referidas habilitações mínimas.
 
-###### Art. 6.º - 1. Nas estações centrais dos Serviços dos Correios, Telégrafos e Telefones de Angola e de Moçambique, sempre que pelo governador-geral seja reconhecida essa necessidade e sob proposta do respectivo conselho de administração, as funções de exactor poderão ser cometidas a funcionários com a categoria de primeiro-oficial ou de radiotelegrafista de 1.ª classe, incumbindo-lhes a arrecadação e entrega de todas as receitas e a prestação das respectivas contas de responsabilidade.
+Art. 6.º - 1. Nas estações centrais dos Serviços dos Correios, Telégrafos e Telefones de Angola e de Moçambique, sempre que pelo governador-geral seja reconhecida essa necessidade e sob proposta do respectivo conselho de administração, as funções de exactor poderão ser cometidas a funcionários com a categoria de primeiro-oficial ou de radiotelegrafista de 1.ª classe, incumbindo-lhes a arrecadação e entrega de todas as receitas e a prestação das respectivas contas de responsabilidade.
 
 2. Aos exactores referidos no n.º 1 deste artigo será exigida uma caução de importância compreendida entre 10000$00 e 20000$00, a fixar no diploma de provimento, podendo a mesma ser prestada por meio de depósito em dinheiro, títulos de dívida pública, hipoteca ou seguro feitos à ordem do conselho de administração dos Serviços dos Correios, Telégrafos e Telefones ou por meio de descontos mensais no seus vencimentos, cujo montante não poderá exceder 10 por cento destes.
 
@@ -127,7 +143,7 @@ Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constitui
 
 5. Serão claviculários dos cofres principais das mesmas estações os funcionários designados para o efeito por portaria dos respectivos governadores-gerais, sob proposta do conselho de administração dos Correios, Telégrafos e Telefones.
 
-###### Art. 7.º - 1. O provimento dos lugares de chefe de serviços radioeléctricos de 1.ª e 2.ª classes do quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Moçambique, criados pela alínea b) do n.º II do artigo 1.º do Diploma Legislativo Ministerial n.º 6, de 13 de Julho de 1959, publicado na província de Moçambique, será feito por concurso documental.
+Art. 7.º - 1. O provimento dos lugares de chefe de serviços radioeléctricos de 1.ª e 2.ª classes do quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Moçambique, criados pela alínea b) do n.º II do artigo 1.º do Diploma Legislativo Ministerial n.º 6, de 13 de Julho de 1959, publicado na província de Moçambique, será feito por concurso documental.
 
 2. Para provimento dos lugares de chefe de serviços radioeléctricos de 1.ª classe serão admitidos a concurso os chefes de serviços radioeléctricos de 2.ª classe do mesmo quadro com mais de dois anos de serviço efectivo na categoria e boas informações.
 
@@ -135,35 +151,35 @@ Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constitui
 
 4. Aos radiotelegrafistas de 1.ª classe do quadro do pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones de Moçambique que forem contratados como chefes de serviços radioeléctricos de 1.ª ou de 2.ª classes e que tenham entrado para os Serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, será mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
 
-###### Art. 8.º - 1. O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde passará a ser constituído pelo chefe da repartição provincial, que será o presidente, e por dois vogais, sendo um o adjunto da Repartição Provincial e o outro nomeado anualmente pelo governador da província de entre os funcionários dos Serviços, de nomeação ou contratados.
+Art. 8.º - 1. O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde passará a ser constituído pelo chefe da repartição provincial, que será o presidente, e por dois vogais, sendo um o adjunto da Repartição Provincial e o outro nomeado anualmente pelo governador da província de entre os funcionários dos Serviços, de nomeação ou contratados.
 
 2. Na falta ou impedimento de algum dos vogais membros do conselho de administração, servirão os substitutos, designados também anualmente pelo governador da província de entre os funcionários dos Serviços, de nomeação ou contratados.
 
 3. O delegado dos Serviços de Fazenda a que se refere o artigo 7.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, receberá a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 9.º - 1. A administração superior da Caixa Económica Postal dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde será cometida a uma comissão administrativa composta pelo chefe da Repartição Provincial, que será o presidente, e por dois vogais, sendo um o adjunto da Repartição Provincial e o outro designado anualmente pelo governador da província de entre os funcionários dos Serviços, de nomeação ou contratados.
+Art. 9.º - 1. A administração superior da Caixa Económica Postal dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde será cometida a uma comissão administrativa composta pelo chefe da Repartição Provincial, que será o presidente, e por dois vogais, sendo um o adjunto da Repartição Provincial e o outro designado anualmente pelo governador da província de entre os funcionários dos Serviços, de nomeação ou contratados.
 
 2. Junto da comissão administrativa da Caixa Económica Postal de Cabo Verde actuará o delegado dos Serviços de Fazenda e Contabilidade, nos termos do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
 3. Será gerente dos fundos e operações da mesma Caixa Económica Postal um dos chefes de serviços de exploração de 2.ª classe, designado em comissão de serviço por dois anos, que exercerá estas funções cumulativamente com as do seu próprio cargo, sendo substituído nas suas ausências e impedimentos pelo chefe da 1.ª Secção da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones.
 
-###### Art. 10.º Na província de Cabo Verde serão claviculários do cofre principal referido no artigo 1177.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, o chefe de serviços de exploração de 1.ª classe, o chefe da 1.ª Secção (Serviços Administrativos) da Repartição Provincial e o primeiro-oficial-fiel-pagador.
+Art. 10.º Na província de Cabo Verde serão claviculários do cofre principal referido no artigo 1177.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, o chefe de serviços de exploração de 1.ª classe, o chefe da 1.ª Secção (Serviços Administrativos) da Repartição Provincial e o primeiro-oficial-fiel-pagador.
 
-###### Art. 11.º - 1. Na província de Cabo Verde, quando à data do encerramento do prazo dos concursos para provimento dos lugares de operador do quadro do pessoal de exploração dos Serviços dos Correios, Telégrafos e Telefones se verificar que o número de concorrentes possuidores das habilitações mencionadas na alínea d) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é inferior ao número de vagas efectivamente existentes, poderão ainda ser admitidos a esses concursos, em prazo a fixar de novo, indivíduos que possuam apenas o 1.º ciclo do curso dos liceus ou habilitações equivalentes e ainda os distribuidores, os manipuladores telégrafo-postais e os manipuladores-rádio, contratados e assalariados, desde que tenham boas informações e tenham prestado serviço nos Correios, Telégrafos e Telefones durante um mínimo de cinco anos.
+Art. 11.º - 1. Na província de Cabo Verde, quando à data do encerramento do prazo dos concursos para provimento dos lugares de operador do quadro do pessoal de exploração dos Serviços dos Correios, Telégrafos e Telefones se verificar que o número de concorrentes possuidores das habilitações mencionadas na alínea d) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é inferior ao número de vagas efectivamente existentes, poderão ainda ser admitidos a esses concursos, em prazo a fixar de novo, indivíduos que possuam apenas o 1.º ciclo do curso dos liceus ou habilitações equivalentes e ainda os distribuidores, os manipuladores telégrafo-postais e os manipuladores-rádio, contratados e assalariados, desde que tenham boas informações e tenham prestado serviço nos Correios, Telégrafos e Telefones durante um mínimo de cinco anos.
 
 2. Os concorrentes possuidores do 2.º ciclo do curso dos liceus ou equivalente precederão na classificação os concorrentes possuidores do 1.º ciclo do curso dos liceus ou equivalente e estes precederão na classificação os distribuidores, os manipuladores telégrafo-postais e os manipuladores-rádio.
 
 3. Os indivíduos que forem nomeados operadores do quadro do pessoal de exploração dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde, aproveitando das disposições contidas no n.º 1 deste artigo, não poderão ascender a lugares superiores aos da letra L do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, salvo se, entretanto, adquirirem as habilitações literárias mínimas estabelecidas por lei.
 
-###### Art. 12.º Na província de Cabo Verde, a condução de malas de correio e a distribuição rural de correspondências serão executadas por serventes de 1.ª classe (ou de 2.ª classe) - distribuidores rurais -, incluídos no pessoal eventual previsto no artigo 218.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), que serão admitidos de acordo com as disposições contidas nos artigos 51.º a 54.º do Estatuto do Funcionalismo Ultramarino.
+Art. 12.º Na província de Cabo Verde, a condução de malas de correio e a distribuição rural de correspondências serão executadas por serventes de 1.ª classe (ou de 2.ª classe) - distribuidores rurais -, incluídos no pessoal eventual previsto no artigo 218.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), que serão admitidos de acordo com as disposições contidas nos artigos 51.º a 54.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 13.º Na província de Cabo Verde, os funcionários dos Correios, Telégrafos e Telefones designados como responsáveis pela condução, manutenção e conservação dos equipamentos terminais de comunicações radiotelefónicas receberão a gratificação mensal de 300$00.
+Art. 13.º Na província de Cabo Verde, os funcionários dos Correios, Telégrafos e Telefones designados como responsáveis pela condução, manutenção e conservação dos equipamentos terminais de comunicações radiotelefónicas receberão a gratificação mensal de 300$00.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Abril de 1970.**
+Promulgado em 24 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/159-1972-681233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b606cad08ae7f838cced3bf6bc37d00217d4965cee59f4e52458e31f5c9826e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c31a45d0dbca1d49c9507bc81daccd8a667470bc42d2651610865bc58aa38a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:57Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +92,13 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 2.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É mantido em vigor, no ano de 1972, o imposto extraordinário para a defesa de Angola, o qual se regerá pelas normas dos Decretos n.os 48272, 48444, 48922 e 57/70, respectivamente de 11 de Março e 21 de Junho de 1968, de 22 de Março de 1969 e de 17 de Fevereiro, com as necessárias adaptações que resultam do avanço de quatro anos na tributação.
+Artigo único. É mantido em vigor, no ano de 1972, o imposto extraordinário para a defesa de Angola, o qual se regerá pelas normas dos Decretos n.os 48272, 48444, 48922 e 57/70, respectivamente de 11 de Março e 21 de Junho de 1968, de 22 de Março de 1969 e de 17 de Fevereiro, com as necessárias adaptações que resultam do avanço de quatro anos na tributação.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Maio de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 4 de Maio de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 

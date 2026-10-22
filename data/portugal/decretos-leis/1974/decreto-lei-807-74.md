@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 6º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 1670-(132) a 1670-(132)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30306/01320132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/807-1974-235949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a866035fe7e3a6e5e01212baa2580dae3c2e9a72b90ab43f47f8962e7902c05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41c1453e280f7036bddbcdbceb55c2adf53157bee1db7e9cc2cef3c8da0c1e8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Previdência Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:324937:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451834:por
+  label: "Revogado pelo DEC LEI.251/83.11.06.1983.MAS, DR.IS [133] de 11.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1983-451834
+  date: '1983-06-11'
+- type: repealed_by
+  target: pt:dre:324937:por
+  label: "Revogado pelo DEC LEI.81/85.28.03.1985.MFP, DR.IS [73] de 28.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1985-324937
+  date: '1985-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:49Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +119,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A partir de 1 de Janeiro de 1975 passam a ser obrigatoriamente abrangidos pelo regime dos Fundos de Previdência das Casas do Povo os trabalhadores por conta de outrem das actividades agrícolas, silvícolas e pecuárias com idades inferiores a 18 anos que não sejam sócios efectivos das Casas do Povo por não serem chefes de família.
+Artigo 1.º A partir de 1 de Janeiro de 1975 passam a ser obrigatoriamente abrangidos pelo regime dos Fundos de Previdência das Casas do Povo os trabalhadores por conta de outrem das actividades agrícolas, silvícolas e pecuárias com idades inferiores a 18 anos que não sejam sócios efectivos das Casas do Povo por não serem chefes de família.
 
-###### Art. 2.º - 1. As quotizações mensais para os Fundos de Previdência das Casas do Povo, dos trabalhadores referidos no artigo anterior, bem como o quantitativo das prestações pecuniárias a que ficam com direito, serão estabelecidas por despacho do Secretário de Estado da Segurança Social.
+Art. 2.º - 1. As quotizações mensais para os Fundos de Previdência das Casas do Povo, dos trabalhadores referidos no artigo anterior, bem como o quantitativo das prestações pecuniárias a que ficam com direito, serão estabelecidas por despacho do Secretário de Estado da Segurança Social.
 
 2. Serão igualmente aprovadas por despacho do Secretário de Estado da Segurança Social as normas necessárias à execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

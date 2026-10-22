@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/11/26700/15981599.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46027-1964-536404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6999ddcab7cc572f6f848712b1954257d2547f03e185732aa3548c92fc1a832e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c37954c5e249249fade4f3756c817a7c2d0e4e00043d680a4e8a3c6abdc4fbaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Indemnização
+- Transmissão da Propriedade
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:506836:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506836:por
+  label: "Revogado, a partir de 01.02.1976, pelo DEC LEI.71/76.27.01.1976.MJ, DG.IS [22] de 27.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1976-506836
+  date: '1976-01-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:08Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +112,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O direito à reversão de bens ou direitos expropriados por iniciativa de entidades públicas, seja qual for o fundamento invocado, só poderá ser exercido dentro do prazo de um ano, a contar da verificação da causa da reversão, ou, se esta causa já tiver ocorrido, a partir da entrada em vigor do presente diploma.
+Artigo 1.º - 1. O direito à reversão de bens ou direitos expropriados por iniciativa de entidades públicas, seja qual for o fundamento invocado, só poderá ser exercido dentro do prazo de um ano, a contar da verificação da causa da reversão, ou, se esta causa já tiver ocorrido, a partir da entrada em vigor do presente diploma.
 
 2. Deixa de haver direito à reversão se os bens ou direitos expropriados tiverem sido ou, antes da decisão sobre o respectivo pedido, vierem a ser destinados a outros fins de utilidade pública ou permutados com outros afectados a qualquer desses fins.
 
 3. O expropriante ou quem tenha adquirido os bens ou direitos expropriados será indemnizado do valor real que tiverem à data da reversão, acrescido do valor das benfeitorias neles realizadas; na falta de acordo, esse valor será fixado por arbitragem, observando-se, no que for aplicável, com as necessárias acomodações, o disposto nos artigos 12.º e seguintes do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961.
 
-###### Art. 2.º - 1. O direito à reversão de bens e direitos expropriados antes da entrada em vigor da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, seja qual for o seu fundamento, considera-se extinto em todos os casos e para todos os efeitos, por falta de exercício no prazo geral de três meses, fixado nos §§ 10.º e 11.º do artigo 27.º da Lei de 23 de Julho de 1850.
+Art. 2.º - 1. O direito à reversão de bens e direitos expropriados antes da entrada em vigor da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, seja qual for o seu fundamento, considera-se extinto em todos os casos e para todos os efeitos, por falta de exercício no prazo geral de três meses, fixado nos §§ 10.º e 11.º do artigo 27.º da Lei de 23 de Julho de 1850.
 
 2. Exceptuam-se do disposto na alínea anterior os casos em que o prazo para o exercício do direito à reversão só parcialmente tenha decorrido à data da entrada em vigor da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461) e aqueles em que o fundamento para a reversão só veio a verificar-se no domínio desta lei.
 
-###### Art. 3.º O disposto neste decreto-lei aplicar-se-á a todas as decisões que hajam de ser tomadas pela entidade competente para resolver sobre pedidos de reversão, a partir da sua entrada em vigor.
+Art. 3.º O disposto neste decreto-lei aplicar-se-á a todas as decisões que hajam de ser tomadas pela entidade competente para resolver sobre pedidos de reversão, a partir da sua entrada em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

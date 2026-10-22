@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/08/19900/12211224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b5fad32841631e74212babdca9166e1fce81354a03e6927a948dcc077f6b2f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59a1b5c09287c7b8a8be490f9b9960894feb95591e82e63577eb2eced84e0ddb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ciclo Preparatório
+- Colocação de Professores
+- Direcção de Serviços do Ciclo Preparatório
+- Gratificação
+- Material de Ensino
+- Pessoal Docente
+- Pessoal não Docente
+- Propinas
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:366465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632767:por
+  label: "Prorrogado, por mais dois anos, o disposto no art. 11.º do presente diploma, pelo DEC LEI.389/71.1971.09.18.MEN\
+    \ DG.IS [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1971-632767
+  date: '1971-09-18'
+- type: amended_by
+  target: pt:dre:471529:por
+  label: "Mantido em vigor, por mais três anos, com efeitos a partir do dia 18-Set de 1973, o disposto no art. 11.º pelo presente\
+    \ diploma, pelo DEC LEI.598/74.1974.11.07.MEC DG.IS [259]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/598-1974-471529
+  date: '1974-11-07'
+- type: amended_by
+  target: pt:dre:408957:por
+  label: "Prorrogado, por mais três anos o disposto no art. 11.º do presente diploma, pelo DEC LEI.714/76.1976.10.07.MEIC\
+    \ DR.IS [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/714-1976-408957
+  date: '1976-10-07'
+- type: amended_by
+  target: pt:dre:366465:por
+  label: "Mantido em vigor, por mais três anos, o disposto no artigo 11.º do presente diploma, pelo DEC LEI.478/79.14.12.1979.ME,\
+    \ DR.IS [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/478-1979-366465
+  date: '1979-12-14'
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:23Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +131,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Por decreto referendado pelos Ministros das Finanças e da Educação Nacional e de harmonia com os preceitos constantes do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, e do presente diploma, será publicado o Estatuto do Ciclo Preparatório do Ensino Secundário, no qual se incluirão as disposições necessárias ao funcionamento do ciclo preparatório do ensino secundário, instituído pelo citado [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452).
+Artigo 1.º Por decreto referendado pelos Ministros das Finanças e da Educação Nacional e de harmonia com os preceitos constantes do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, e do presente diploma, será publicado o Estatuto do Ciclo Preparatório do Ensino Secundário, no qual se incluirão as disposições necessárias ao funcionamento do ciclo preparatório do ensino secundário, instituído pelo citado [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452).
 
-###### Art. 2.º - 1. O Ministro da Educação Nacional, quando assim o julgar conveniente, poderá mandar colaborar em actividades dependentes da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário funcionários de outros serviços do Ministério, dispensando-os, total ou parcialmente, do exercício das funções próprias.
+Art. 2.º - 1. O Ministro da Educação Nacional, quando assim o julgar conveniente, poderá mandar colaborar em actividades dependentes da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário funcionários de outros serviços do Ministério, dispensando-os, total ou parcialmente, do exercício das funções próprias.
 
 2. Os referidos funcionários conservarão as remunerações correspondentes ao desempenho efectivo das funções próprias, a abonar pelos respectivos serviços, e poderão, além disso, perceber as gratificações, a abonar pela referida Direcção de Serviços, que forem fixadas em despacho do Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
 
@@ -99,11 +141,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O Ministro da Educação Nacional pode ainda autorizar a realização para a Direcção de Serviços do Ciclo Preparatório de trabalhos eventuais a efectuar por quaisquer pessoas em regime de prestação de serviços, mediante remuneração a fixar em despacho.
 
-###### Art. 3.º - 1. As categorias e vencimentos do pessoal docente, administrativo e menor das escolas preparatórias do ensino secundário são os estabelecidos na tabela n.º 1 anexa a este diploma.
+Art. 3.º - 1. As categorias e vencimentos do pessoal docente, administrativo e menor das escolas preparatórias do ensino secundário são os estabelecidos na tabela n.º 1 anexa a este diploma.
 
 2. As remunerações do pessoal docente por serviço extraordinário são as estabelecidas na tabela n.º 2 anexa a este diploma.
 
-###### Art. 4.º - 1. São as constantes da tabela n.º 3 anexa ao presente decreto-lei as gratificações atribuídas:
+Art. 4.º - 1. São as constantes da tabela n.º 3 anexa ao presente decreto-lei as gratificações atribuídas:
 
 a) Aos directores, subdirectores, secretários, directores de turmas, metodólogos, professores encarregados da organização dos processos de orientação escolar, participantes nas reuniões de orientação escolar, participantes nas reuniões de centros de interesse e chefes de pessoal menor das escolas preparatórias do ensino secundário;
 
@@ -113,19 +155,19 @@ c) Aos membros dos júris dos exames de admissão ao estágio de professores, do
 
 2. As gratificações a atribuir aos autores de lições ou conferências extraordinárias feitas aos estagiários, bem como as correspondentes a outras actividades específicas do estágio, serão fixadas em portaria conjunta dos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 5.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para os alunos internos que ainda não tenham excedido o limite máximo da idade da obrigatoriedade escolar e cujas condições económicas o justifiquem.
+Art. 5.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para os alunos internos que ainda não tenham excedido o limite máximo da idade da obrigatoriedade escolar e cujas condições económicas o justifiquem.
 
 2. Os alunos não abrangidos pela disposição anterior estão sujeitos ao pagamento das propinas constantes da tabela anexa n.º 4, que também fixa os selos devidos; mas os alunos carecidos de suficientes recursos económicos beneficiam de isenção ou redução de propinas.
 
-###### Art. 6.º - 1. O Ministro da Educação Nacional poderá confiar a direcção do estágio dos candidatos a professores de Trabalhos Manuais e de Educação Musical a individualidades nacionais ou estrangeiras que se tiverem distinguido pela sua cultura pedagógica nas respectivas matérias.
+Art. 6.º - 1. O Ministro da Educação Nacional poderá confiar a direcção do estágio dos candidatos a professores de Trabalhos Manuais e de Educação Musical a individualidades nacionais ou estrangeiras que se tiverem distinguido pela sua cultura pedagógica nas respectivas matérias.
 
 2. As remunerações a atribuir a essas individualidades serão fixadas, caso a caso, por despacho conjunto dos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 7.º - 1. Nos casos em que se verificar a impossibilidade de o pessoal administrativo e menor dos quadros dos estabelecimentos de ensino onde funcionar o ciclo preparatório fazer face ao correspondente serviço, poderá ser admitido, a título eventual, o pessoal que for considerado indispensável, sem dependência de qualquer outra formalidade que não seja despacho conjunto dos Ministros das Finanças e da Educação Nacional; nesse despacho se fixarão as remunerações respectivas.
+Art. 7.º - 1. Nos casos em que se verificar a impossibilidade de o pessoal administrativo e menor dos quadros dos estabelecimentos de ensino onde funcionar o ciclo preparatório fazer face ao correspondente serviço, poderá ser admitido, a título eventual, o pessoal que for considerado indispensável, sem dependência de qualquer outra formalidade que não seja despacho conjunto dos Ministros das Finanças e da Educação Nacional; nesse despacho se fixarão as remunerações respectivas.
 
 2. As remunerações a atribuir, nunca superiores às iniciais do pessoal dos quadros, serão satisfeitas pelas disponibilidades das dotações para «Remunerações certas ao pessoal em exercício» das escolas preparatórias.
 
-###### Art. 8.º - 1. São aditados ao artigo 6.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452) os seguintes números:
+Art. 8.º - 1. São aditados ao artigo 6.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452) os seguintes números:
 
 4. O referido exame de aptidão só começará a funcionar, com base em despacho do Ministro da Educação Nacional, quando se reconhecer que se encontra devidamente estruturada, na prática, a orientação escolar própria do ciclo preparatório.
 
@@ -133,15 +175,15 @@ c) Aos membros dos júris dos exames de admissão ao estágio de professores, do
 
 2. Os artigos 17.º, 19.º, n.º 1, e 27.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452) passam a ter a seguinte redacção:
 
-###### Art. 17.º Todas as disciplinas são de frequência obrigatória, podendo, porém, conceder-se dispensa nas de Moral e Religião, a requerimento dos pais ou tutores, e nas de Desenho, Trabalhos Manuais e Educação Física, com base em parecer médico e segundo regime a definir em despacho ministerial.
+Art. 17.º Todas as disciplinas são de frequência obrigatória, podendo, porém, conceder-se dispensa nas de Moral e Religião, a requerimento dos pais ou tutores, e nas de Desenho, Trabalhos Manuais e Educação Física, com base em parecer médico e segundo regime a definir em despacho ministerial.
 
 ...
 
-###### Art. 19.º - 1. As escolas preparatórias do ensino secundário serão criadas por portaria conjunta dos Ministros das Finanças e da Educação Nacional, que fixarão os respectivos quadros do pessoal docente, administrativo e menor e definirão as mais condições de funcionamento, em conformidade com a legislação sobre o ciclo preparatório do ensino secundário.
+Art. 19.º - 1. As escolas preparatórias do ensino secundário serão criadas por portaria conjunta dos Ministros das Finanças e da Educação Nacional, que fixarão os respectivos quadros do pessoal docente, administrativo e menor e definirão as mais condições de funcionamento, em conformidade com a legislação sobre o ciclo preparatório do ensino secundário.
 
 ...
 
-###### Art. 27.º - 1. As escolas preparatórias gozarão de autonomia administrativa, em termos análogos aos liceus.
+Art. 27.º - 1. As escolas preparatórias gozarão de autonomia administrativa, em termos análogos aos liceus.
 
 2. Quando não for possível assegurar às escolas preparatórias ou às suas secções instalações próprias, poderão elas funcionar nos mesmos edifícios onde se ministrarem outros cursos do ensino secundário público, nas condições a estabelecer, caso a caso, por despacho do Ministro da Educação Nacional.
 
@@ -153,7 +195,7 @@ c) Aos membros dos júris dos exames de admissão ao estágio de professores, do
 
 6. Quando nas instalações de determinado estabelecimento de ensino funcionar outro, em harmonia com o previsto no presente artigo, haverá unidade de direcção administrativa e disciplinar, a cargo do primeiro estabelecimento, salvo se o edifício permitir completa separação entre eles.
 
-###### Art. 9.º - 1. Os professores dos quadros das actuais escolas técnicas elementares são automàticamente transferidos, sem necessidade de qualquer formalidade, como diploma de provimento, visto do Tribunal de Contas e posse, para os quadros das correspondentes escolas preparatórias do ensino secundário, em que as primeiras são transformadas por força do disposto no artigo 27.º, n.º 3, do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), na redacção constante do artigo anterior, ficando a ocupar nesses outros quadros a posição de professores efectivos dos correspondentes grupos ou especialidades.
+Art. 9.º - 1. Os professores dos quadros das actuais escolas técnicas elementares são automàticamente transferidos, sem necessidade de qualquer formalidade, como diploma de provimento, visto do Tribunal de Contas e posse, para os quadros das correspondentes escolas preparatórias do ensino secundário, em que as primeiras são transformadas por força do disposto no artigo 27.º, n.º 3, do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), na redacção constante do artigo anterior, ficando a ocupar nesses outros quadros a posição de professores efectivos dos correspondentes grupos ou especialidades.
 
 2. Os seguintes professores dos quadros de outros estabelecimentos de ensino técnico profissional são automàticamente transferidos, sem necessidade de qualquer formalidade, como diploma de provimento, posse e visto do Tribunal de Contas, para os quadros das escolas preparatórias das mesmas localidades:
 
@@ -189,17 +231,17 @@ e) Os habilitados com o Exame de Estado dos mencionados ensinos.
 
 10. Aos funcionários transferidos ou colocados na conformidade do presente artigo será contado o tempo de serviço prestado nos quadros a que pertenciam, para todos os efeitos legais.
 
-###### Art. 10.º Durante os anos de 1968 e 1969, todas as alterações orçamentais que se mostrarem necessárias ou convenientes para execução da legislação relativa ao ciclo preparatório do ensino secundário serão efectivadas mediante decreto referendado pelos Ministros das Finanças e da Educação Nacional.
+Art. 10.º Durante os anos de 1968 e 1969, todas as alterações orçamentais que se mostrarem necessárias ou convenientes para execução da legislação relativa ao ciclo preparatório do ensino secundário serão efectivadas mediante decreto referendado pelos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 11.º - 1. Relativamente aos três próximos anos escolares, o Ministro da Educação Nacional tomará, por meio de portarias ou despachos, as providências que se tornarem necessárias para adaptar o regime do ciclo preparatório do ensino secundário às circunstâncias que forem ocorrendo.
+Art. 11.º - 1. Relativamente aos três próximos anos escolares, o Ministro da Educação Nacional tomará, por meio de portarias ou despachos, as providências que se tornarem necessárias para adaptar o regime do ciclo preparatório do ensino secundário às circunstâncias que forem ocorrendo.
 
 2. As referidas providências deverão ter a concordância do Ministro das Finanças quando se tratar de assuntos de carácter financeiro ou administrativo.
 
-###### Art. 12.º Fica revogado o disposto na segunda parte do n.º 2 do artigo 25.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452).
+Art. 12.º Fica revogado o disposto na segunda parte do n.º 2 do artigo 25.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452).
 
-###### Art. 13.º O presente diploma entra imediatamente em vigor.
+Art. 13.º O presente diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -207,7 +249,7 @@ TABELA N.º 1
 
 I) Categorias e vencimentos mensais do pessoal docente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/19900/12211224.pdf))](https://files.diariodarepublica.pt/1s/1968/08/19900/12211224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/19900/12211224.pdf)
 
 NOTAS
 
@@ -217,7 +259,7 @@ NOTAS
 
 II) Categorias e vencimentos do pessoal administrativo e menor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/19900/12211224.pdf))](https://files.diariodarepublica.pt/1s/1968/08/19900/12211224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/19900/12211224.pdf)
 
 TABELA N.º 2
 

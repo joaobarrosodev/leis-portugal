@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45197-1963-693994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb89c0425eeddfb6ffbd70dbd3f303d78ee52f43f0703d7444eb668fc9ea1456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31c4c5484105c4f848a90f4f8e16e1e718132b4a0b211fd76c7f7378db83c53a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:00Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ Considerando que as despesas com a criação dos novos lugares nos quadros do pe
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São criados os seguintes lugares nos quadros do pessoal das secretarias dos governos civis abaixo designados:
+Artigo 1.º São criados os seguintes lugares nos quadros do pessoal das secretarias dos governos civis abaixo designados:
 
 Braga, dois escriturários.
 
@@ -111,10 +111,10 @@ Ponta Delgada, um segundo-oficial e um escriturário.
 
 Viana do Castelo, um escriturário.
 
-###### Art. 2.º O quadro do pessoal menor do Governo do Distrito Autónomo do Funchal é aumentado com um lugar de contínuo de 1.ª classe.
+Art. 2.º O quadro do pessoal menor do Governo do Distrito Autónomo do Funchal é aumentado com um lugar de contínuo de 1.ª classe.
 
-###### Art. 3.º Os encargos a que este diploma dará lugar, no que respeita aos governos civis do continente, serão satisfeitos, no ano corrente, pelas sobras da verba do n.º 1) do artigo 43.º do orçamento do Ministério do Interior.
+Art. 3.º Os encargos a que este diploma dará lugar, no que respeita aos governos civis do continente, serão satisfeitos, no ano corrente, pelas sobras da verba do n.º 1) do artigo 43.º do orçamento do Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

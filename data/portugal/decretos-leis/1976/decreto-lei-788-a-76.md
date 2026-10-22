@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 257/1976, 1º Suplemento, Série I de 1976-11-03
   number: '257'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2488-(1) a 2488-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/25701/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/788-a-1976-666712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5241ba06b1223c4dbf7ddb88e7cd968839cfa1d038ece278cf9e8428831f4f6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 239e4d13df39147f59a134f881f5ec8451dd9ab1d1253fd7c741541c02d3ce7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Serviço
+- Diretor Geral
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Pessoal Dirigente
+- Polícia Judiciária
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:286514:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:408969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286514:por
+  label: "Revogado pelo DEC LEI.364/77.1977.09.02.MJ DR.IS [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/364-1977-286514
+  date: '1977-09-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:07Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +114,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O lugar de director da Polícia Judiciária será provido de entre magistrados judiciais.
+Artigo 1.º - 1. O lugar de director da Polícia Judiciária será provido de entre magistrados judiciais.
 
 2. O provimento dos lugares de director-adjunto, sem prejuízo do disposto no n.º 3 do artigo 36.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945, na redacção que lhe foi dada pelo [Decreto-Lei n.º 700/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/700-1976-408969), de 28 de Setembro, poderá recair em magistrados judiciais e do Ministério Público.
 
@@ -102,12 +122,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. No caso de o provimento recair em oficial superior, deverá o mesmo ser requisitado ao Estado-Maior-General das Forças Armadas.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 30 de Outubro de 1976.**
+Promulgado em 30 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

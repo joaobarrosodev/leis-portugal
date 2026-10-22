@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/07400/05040509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,146 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68decf4810548e9767ad4fce514502468a8abab986d637c4c89aeaa5e50cdf87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f60b5a4b1b9809f60251bc013fc886ef6d0fcafb682d723ddc2ee015c2321d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Descentralização
+- GAT
+- Ministério da Administração Interna
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:452888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475333:por
+  label: "Alteradas as áreas de actuação dos Gabinetes de Apoio Técnico com sede em Elvas e Portalegre, previstas no anexo\
+    \ I do presente diploma, pelo DN.151/80.24.04.1980.MAI, DR.IS [105] de 07.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/151-1980-475333
+  date: '1980-04-24'
+- type: amended_by
+  target: pt:dre:472944:por
+  label: "Alterados os art. 2º a 4º, 6º a 9º, 16º, 25º e 27º pela Lei LEI.10/80.1980.06.19.AR, DR.IS [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-1980-472944
+  date: '1980-06-19'
+- type: amended_by
+  target: pt:dre:600505:por
+  label: "Alterado o quadro de pessoal, alterado pela Port 805/80, de 10-Out, pela PORT.172/82.1982.02.08.MFP DR.IS [32]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/172-1982-600505
+  date: '1982-02-08'
+- type: amended_by
+  target: pt:dre:375809:por
+  label: "Alterado o quadro de pessoal dos Gabinetes de Apoio Técnico previstos no anexo II do presente diploma, pelo DEC\
+    \ LEI.384/82.16.09.1982.MAI, DR.IS [215] de 16.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1982-375809
+  date: '1982-09-16'
+- type: amended_by
+  target: pt:dre:380877:por
+  label: "Acrescentados lugares ao quadro de pessoal do Gabinete de Apoio Técnico de Faro, aprovado pelo presente diploma,\
+    \ na redacção do Decreto-Lei 384/82, de 16 de Setembro, pela PORT.1181/82.23.12.1982.MFP, DR.IS [295] de 23.12.1982\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1181-1982-380877
+  date: '1982-12-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO ANEXO AO PRESENTE DIPLOMA PELO DECRETO LEI 438/83, DE 21 DE DEZEMBRO, PUBLICADO NO DR.IS, 292.E
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-12-21'
+- type: amended_by
+  target: pt:dre:444434:por
+  label: "Alterado o quadro anexo, pelo DEC LEI.438/83.21.12.1983.PCM, DR.IS [292] de 21.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1983-444434
+  date: '1983-12-21'
+- type: amended_by
+  target: pt:dre:396325:por
+  label: "Alterado o quadro de pessoal do Gabinete de Apoio Técnico de Beja, aprovado pelo presente diploma com a redacção\
+    \ conferida, pelas Portarias 805/80, de 10 de Outubro e 172/82 de 08 de Fevereiro, pela PORT.925/84.18.12.1984.PCM, DR.IS\
+    \ [291] de 18.12.1984\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-1984-396325
+  date: '1984-12-18'
+- type: amended_by
+  target: pt:dre:396359:por
+  label: "Alterados os quadros de pessoal dos Gabinetes de Apoio Técnico de Baixo Cávado-Barcelos, Vale do Lima, Vale do Minho-Valença\
+    \ e Vale do Sousa-Penafiel aprovados pelo presente diploma, com as alterações constante das Ports 805/80, de 10-Out e\
+    \ 172/82, de 08-Fev, pela PORT.946/84.22.12.1984.PCM, DR.IS [295] de 22.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/946-1984-396359
+  date: '1984-12-22'
+- type: amended_by
+  target: pt:dre:328990:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, alterado pela Port 805/80, de 10-Out e pela Port 172/82,\
+    \ de 08-Fev, pela PORT.37/85.1985.01.16.PCM DR.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/37-1985-328990
+  date: '1985-01-16'
+- type: amended_by
+  target: pt:dre:495097:por
+  label: "Aditado um lugar ao quadro de pessoal do Gabinete de Apoio Técnico de Santarém, aprovado pelo presente diploma,\
+    \ alterado pela Port 805/80, de 10-Out, pela PORT.773/87.07.09.1987.MF, DR.IS [205] de 07.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-1987-495097
+  date: '1987-09-07'
+- type: amended_by
+  target: pt:dre:332717:por
+  label: Alterado o quadro anexo ao presente diploma pelo DEC LEI.78/90.12.03.1990.MPLAT, DR.IS [59] de 12.03.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1990-332717
+  date: '1990-03-12'
+- type: amended_by
+  target: pt:dre:459438:por
+  label: "Extinto o Gabinete de Apoio Técnico de Riba de Ave e alterado o anexo I do presente diploma, alterado pelo DN 151/80,\
+    \ de 07-Maio, pelo DEC LEI.101/91.08.03.1991.MPLAT, DR.IS-A [56] de 08.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-1991-459438
+  date: '1991-03-08'
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505995:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ARTIGO 7, COM A REDACCAO DADA PELA LEI 10/80, DE 19 DE JUNHO, PELO DECRETO LEI 66/94, DE 28 DE FEVEREIRO,
+    PUBLICADO NO DR.IS-A, 49.E
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-28'
+- type: repealed_by
+  target: pt:dre:517179:por
+  label: "Revogado o art. 7º, pelo DEC LEI.66/94.28.02.1994.MPLAT, DR.IS-A [49] de 28.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1994-517179
+  date: '1994-02-28'
+- type: repealed_by
+  target: pt:dre:452888:por
+  label: "Revogado pelo DEC LEI.201/2008.09.10.2008.MAOTDR, DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2008-452888
+  date: '2008-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:11Z'
   warnings: []
   errors: []
 ---
@@ -304,7 +410,7 @@ O pessoal pertencente aos quadros referidos no n.º 1 do artigo 12.º pode conco
 
 ###### ARTIGO 23.º — (Pessoal além do quadro)
 
-**O Ministro da Administração Interna, sob proposta da CRP respectiva, poderá contratar além do quadro de pessoal técnico superior pessoal técnico, pessoal técnico auxiliar e pessoal auxiliar que se afigure necessário para ocorrer a necessidades eventuais ou extraordinárias de serviço.**
+O Ministro da Administração Interna, sob proposta da CRP respectiva, poderá contratar além do quadro de pessoal técnico superior pessoal técnico, pessoal técnico auxiliar e pessoal auxiliar que se afigure necessário para ocorrer a necessidades eventuais ou extraordinárias de serviço.
 
 ###### ARTIGO 24.º — (Exercício de actividades estranhas aos GAT)
 
@@ -328,18 +434,18 @@ Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
 
-**Promulgado em 16 de Março de 1979.**
+Promulgado em 16 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo I a que se refere o n.º 1 do artigo 7.º
+Anexo I a que se refere o n.º 1 do artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/03/07400/05040509.pdf))](https://files.diariodarepublica.pt/1s/1979/03/07400/05040509.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/03/07400/05040509.pdf)
 
-## Anexo II a que se refere o n.º 1 do artigo 12.º
+Anexo II a que se refere o n.º 1 do artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/03/07400/05040509.pdf))](https://files.diariodarepublica.pt/1s/1979/03/07400/05040509.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/03/07400/05040509.pdf)
 
-**O Ministro da Administração Interna, António Gonçalves Ribeiro.**
+O Ministro da Administração Interna, António Gonçalves Ribeiro.

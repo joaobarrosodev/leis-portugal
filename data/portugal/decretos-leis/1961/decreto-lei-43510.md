@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43510-1961-555052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b48f434d30213fcd278a47f86ac7add2a4dc16753d2c7d7b156b4c9489d5ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d30f8bf1e0b9b20cd1ef86f1c8177b6f8afaa0f60e239cc2b361b80fb541cf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Económica Portuguesa
+- Caixa Geral de Depósitos Crédito e Previdência
+- Delegação
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Prémio
+- Remuneração Acessória
+relationships:
+- type: cites
+  target: pt:dre:538244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:45Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +104,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É modificado o artigo 7.º do [Decreto-Lei n.º 26096](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26096-1935-538244), de 23 de Novembro de 1935, cuja redacção passa a ser a seguinte:
+Artigo 1.º É modificado o artigo 7.º do [Decreto-Lei n.º 26096](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26096-1935-538244), de 23 de Novembro de 1935, cuja redacção passa a ser a seguinte:
 
-###### Art. 7.º A Administração da Caixa Geral de Depósitos, Crédito e Previdência poderá tornar extensivo ao pessoal das delegações postais da Caixa Económica Portuguesa as disposições em vigor para o pessoal das suas delegações junto das secções de finanças e tesourarias da Fazenda Pública.
+Art. 7.º A Administração da Caixa Geral de Depósitos, Crédito e Previdência poderá tornar extensivo ao pessoal das delegações postais da Caixa Económica Portuguesa as disposições em vigor para o pessoal das suas delegações junto das secções de finanças e tesourarias da Fazenda Pública.
 
 § único. Enquanto a orgânica dos serviços não consentir a aplicação deste preceito, poderá a Administração da Caixa Geral de Depósitos, Crédito e Previdência, a fim de premiar os funcionários das delegações postais da Caixa Económica Portuguesa, despender anualmente nesses prémios, a distribuir por intermédio da Administração-Geral dos Correios Telégrafos e Telefones, uma importância não excedente a metade da verba entregue a esta Administração como compensação dos serviços prestados, nos termos do § único do artigo 6.º
 
-###### Art. 2.º Fica revogada a legislação em contrário, nomeadamente as disposições contidas nos artigos 11.º e 12.º do Regulamento Provisório para o Serviço da Caixa Económica Postal, aprovado pelo Decreto de 15 de Dezembro de 1911.
+Art. 2.º Fica revogada a legislação em contrário, nomeadamente as disposições contidas nos artigos 11.º e 12.º do Regulamento Provisório para o Serviço da Caixa Económica Postal, aprovado pelo Decreto de 15 de Dezembro de 1911.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

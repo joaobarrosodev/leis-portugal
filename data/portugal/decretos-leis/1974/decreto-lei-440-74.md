@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/21200/10511052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1974-473758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c9c7f87c3c15993fe8cc6b520e7e4f18813f4afee97ae481b29b94892fec599
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1dcf822970e6488df6010e470f90a0ed8dcb9fe5f0ecdeee13d3f7c6154bb28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Criação de Lugares
+- Extinção de Lugares
+- Formação Profissional
+- Integração de Trabalhadores
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688581:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:41Z'
   warnings: []
   errors: []
 ---
@@ -108,30 +138,30 @@ Assim se pretendia criar um novo grupo de pessoal hospitalar, de recrutamento ma
 
 Nesta conformidade, usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Será atribuído o título profissional de enfermeiro aos indivíduos habilitados com o curso de auxiliar de enfermagem e, pelo menos, três anos de exercício profissional devidamente comprovado, nas condições que vierem a ser fixadas, nos termos do n.º 1 do artigo 6.º deste diploma.
+Artigo 1.º - 1. Será atribuído o título profissional de enfermeiro aos indivíduos habilitados com o curso de auxiliar de enfermagem e, pelo menos, três anos de exercício profissional devidamente comprovado, nas condições que vierem a ser fixadas, nos termos do n.º 1 do artigo 6.º deste diploma.
 
 2. O mesmo regime será aplicável aos profissionais que concluírem o curso de auxiliar de enfermagem actualmente em funcionamento.
 
-###### Art. 2.º - 1. Os lugares de auxiliar de enfermagem e de auxiliar de enfermagem de saúde pública de 1.ª e 2.ª classes dos quadros dos estabelecimentos e serviços dependentes do Ministério dos Assuntos Sociais são extintos à medida que os seus titulares forem obtendo o título profissional de enfermeiro e é ao mesmo tempo acrescido nos respectivos quadros o mesmo número de lugares de enfermeiro de 3.ª classe, a que corresponde a remuneração da letra Q da tabela aprovada pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
+Art. 2.º - 1. Os lugares de auxiliar de enfermagem e de auxiliar de enfermagem de saúde pública de 1.ª e 2.ª classes dos quadros dos estabelecimentos e serviços dependentes do Ministério dos Assuntos Sociais são extintos à medida que os seus titulares forem obtendo o título profissional de enfermeiro e é ao mesmo tempo acrescido nos respectivos quadros o mesmo número de lugares de enfermeiro de 3.ª classe, a que corresponde a remuneração da letra Q da tabela aprovada pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
 
 2. Os titulares dos lugares extintos são colocados nos novos lugares de enfermeiro de 3.ª classe, mediante simples despacho de que conste a indicação dos lugares abatidos, dos novos lugares e dos seus titulares, publicado, sem mais formalidades, no Diário do Governo.
 
-###### Art. 3.º O ingresso dos enfermeiros habilitados com o curso de enfermagem geral ou com o curso de promoção a que se refere o [Decreto n.º 346/72](https://diariodarepublica.pt/dr/detalhe/decreto/346-1972-688581), de 30 de Agosto, nos quadros dos estabelecimentos e serviços dependentes do Ministério dos Assuntos Sociais da carreira hospitalar, passa a fazer-se na categoria de enfermeiro de 2.ª classe, mediante concurso documental.
+Art. 3.º O ingresso dos enfermeiros habilitados com o curso de enfermagem geral ou com o curso de promoção a que se refere o [Decreto n.º 346/72](https://diariodarepublica.pt/dr/detalhe/decreto/346-1972-688581), de 30 de Agosto, nos quadros dos estabelecimentos e serviços dependentes do Ministério dos Assuntos Sociais da carreira hospitalar, passa a fazer-se na categoria de enfermeiro de 2.ª classe, mediante concurso documental.
 
-###### Art. 4.º - 1. Sem prejuízo do que vier a ser estabelecido quanto à nova estruturação das carreiras de enfermagem, o acesso dos enfermeiros de 3.ª classe, promovidos nos termos previstos no artigo 2.º deste diploma, à categoria de enfermeiro de 2.ª classe ou de enfermeiro de saúde pública, conforme os quadros dos serviços, fica dependente da habilitação com cursos de promoção profissional adequada a cada caso, a regular nos termos do n.º 2 do artigo 6.º deste diploma.
+Art. 4.º - 1. Sem prejuízo do que vier a ser estabelecido quanto à nova estruturação das carreiras de enfermagem, o acesso dos enfermeiros de 3.ª classe, promovidos nos termos previstos no artigo 2.º deste diploma, à categoria de enfermeiro de 2.ª classe ou de enfermeiro de saúde pública, conforme os quadros dos serviços, fica dependente da habilitação com cursos de promoção profissional adequada a cada caso, a regular nos termos do n.º 2 do artigo 6.º deste diploma.
 
 2. O disposto no número anterior será adaptado às categorias de pessoal de enfermagem das instituições de previdência, mediante despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 5.º Até serem fixadas as normas por que há-de reger-se o funcionamento das carreiras de enfermagem, mantém-se em vigor, na parte não prejudicada por este diploma, o que se acha estabelecido no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, e legislação complementar.
+Art. 5.º Até serem fixadas as normas por que há-de reger-se o funcionamento das carreiras de enfermagem, mantém-se em vigor, na parte não prejudicada por este diploma, o que se acha estabelecido no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, e legislação complementar.
 
-###### Art. 6.º - 1. As condições a que deverá obedecer o exercício profissional referido no n.º 1 do artigo 1.º serão aprovadas por despacho do Secretário de Estado da Saúde, mediante proposta de uma comissão de que farão parte representantes dos sindicatos dos profissionais de enfermagem e de serviços do Ministério dos Assuntos Sociais.
+Art. 6.º - 1. As condições a que deverá obedecer o exercício profissional referido no n.º 1 do artigo 1.º serão aprovadas por despacho do Secretário de Estado da Saúde, mediante proposta de uma comissão de que farão parte representantes dos sindicatos dos profissionais de enfermagem e de serviços do Ministério dos Assuntos Sociais.
 
 2. Serão regulamentados por portaria do Ministro dos Assuntos Sociais os cursos de promoção profissional a que se refere o artigo 4.º deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 5 de Setembro de 1974.**
+Promulgado em 5 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

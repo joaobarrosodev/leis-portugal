@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 12/1976, 1º Suplemento, Série I de 1976-01-15
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 56-(1) a 56-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01201/00010010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-a-1976-235092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dce588088df1f8491d5720b89c106151bb53b061c373b58d7bba035346c3d1dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 333505b170bc333a338e3e49c32a04741a3cd14c55a862450ccbb414ae0683ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Cartão de Eleitor
+- Certidão
+- Comissão Nacional de Eleições
+- Comissão Recenseadora
+- Contribuições e Impostos
+- Crime
+- Deficiente
+- Definição de Competências
+- Delegação de Competências
+- Eleição Autárquica
+- Eleição Legislativa
+- Eleição Presidencial
+- Eleição Regional
+- Fiscalização
+- Governador Civil
+- Isenção Fiscal
+- Junta de Freguesia
+- Ministério da Administração Interna
+- Ministério da Cooperação
+- Ministério dos Negócios Estrangeiros
+- Multa
+- Partido Político
+- Recenseamento Eleitoral
+- Recluso
+- Sistema Eleitoral
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621132:por
+  label: Tornado extensivo a Macau, com alterações, o presente diploma, pelo(a) Portaria n.º 80-A/76 - Diário do Governo n.º
+    39/1976, 2º Suplemento, Série I de 1976-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-a-1976-621132
+  date: '1976-02-16'
+- type: cites
+  target: pt:dre:309893:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506779:por
+  label: Rectificado pela DECL.DD8487.10.02.1976.PCM, DG.IS [34] de 10.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-506779
+  date: '1976-02-10'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:34Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +165,13 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito do recenseamento)
 
 O recenseamento eleitoral, actualizado nos termos do presente diploma, servirá para todos os actos eleitorais a realizar durante o ano de 1976.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Regra geral)
 
@@ -132,7 +179,7 @@ O recenseamento eleitoral, actualizado nos termos do presente diploma, servirá 
 
 2 - Fora do território eleitoral, o recenseamento é voluntário.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Universalidade do recenseamento)
 
@@ -140,7 +187,7 @@ O recenseamento eleitoral, actualizado nos termos do presente diploma, servirá 
 
 2 - Todo o cidadão tem o direito e o dever de verificar se está inscrito, ou de promover a sua inscrição, no recenseamento.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Oficiosidade e obrigatoriedade)
 
@@ -150,13 +197,13 @@ O recenseamento eleitoral, actualizado nos termos do presente diploma, servirá 
 
 3 - Sem prejuízo do disposto no n.º 1, todo o cidadão eleitor, ao promover a sua inscrição, deverá autenticar o verbete de inscrição a que se refere o artigo 21.º, apondo no mesmo a sua assinatura, ou impressão digital se não souber ou não puder assinar. O preenchimento do verbete e a sua apresentação à comissão de recenseamento são obrigatórios e poderão ser feitos pelo próprio, por qualquer outro eleitor ou pelos partidos políticos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Da verificação pelo cidadão eleitor)
 
 Todo o cidadão eleitor tem o direito e o dever de verificar se está devidamente inscrito e, em caso de erro ou omissão, o de requerer a respectiva rectificação.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Organização do recenseamento)
 
@@ -168,7 +215,7 @@ Todo o cidadão eleitor tem o direito e o dever de verificar se está devidament
 
 4 - Poderão as entidades mencionadas em 3 descentralizar as operações de recenseamento, quando tal for julgado conveniente, ouvidos os respectivos Ministérios.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Local de recenseamento)
 
@@ -182,13 +229,13 @@ b) Os cidadãos portugueses residentes em Macau, nos termos que, em conformidade
 
 3 - Salvo quanto aos cidadãos eleitores que aí vivam permanentemente, não pode ser considerado local de residência, para efeitos de recenseamento, qualquer edifício ou repartição de Estado, ou de outra pessoa colectiva pública, fábrica, oficina, hospital, asilo ou estabelecimento similar.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Unicidade da inscrição)
 
 Ninguém pode estar inscrito mais do que uma vez no recenseamento.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Teor da inscrição)
 
@@ -196,7 +243,7 @@ Ninguém pode estar inscrito mais do que uma vez no recenseamento.
 
 2 - Da inscrição constará também o número do bilhete de identidade, quando o cidadão o exiba ou esse número possa ser apurado, ainda que haja expirado o seu prazo de validade.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Elaboração do recenseamento)
 
@@ -206,7 +253,7 @@ Ninguém pode estar inscrito mais do que uma vez no recenseamento.
 
 ### CAPÍTULO II — Actualização do recenseamento
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Transferência do recenseamento)
 
@@ -214,7 +261,7 @@ Ninguém pode estar inscrito mais do que uma vez no recenseamento.
 
 2 - A certidão de eleitor será obtida por requerimento do próprio dirigido ao presidente da comissão de recenseamento da freguesia onde se encontrava inscrito, devendo nele ser indicada a sua nova morada. O requerimento será entregue pessoalmente ou pelo seguro do correio e, neste caso, com a assinatura notarialmente reconhecida.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Novas inscrições)
 
@@ -230,7 +277,7 @@ c) A dos cidadãos eleitores que, possuindo então capacidade eleitoral, não ef
 
 3 - Os cidadãos abrangidos pela alínea c) do n.º 1 deverão, no acto de inscrição, apresentar atestado da sua residência ao tempo do recenseamento anterior, bem como uma declaração por si assinada ou firmada com a sua impressão digital, no caso de não saberem ou não poderem escrever, em que declarem por sua honra que não se inscreveram naquele recenseamento. Os mencionados cidadãos que promoverem a sua nova inscrição não ficam sujeitos à sanção prevista no artigo 58.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Eliminação de inscrições)
 
@@ -248,7 +295,7 @@ c) As inscrições dos cidadãos cujo óbito for oficiosamente confirmado por in
 
 #### SECÇÃO I — Comissões de recenseamento
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Composição e designação)
 
@@ -266,7 +313,7 @@ As comissões deverão estar constituídas até ao dia 30 de Janeiro, inclusive,
 
 6 - No estrangeiro, as comissões de recenseamento serão designadas pelas autoridades diplomáticas ou consulares, assegurando estas entidades o cumprimento do disposto nos n.os 1 a 4, com as adaptações exigidas pelo condicionalismo local, nomeadamente fixando outras datas limite e decidindo das reclamações previstas no n.º 2.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Requisição ou pedido de informações e esclarecimentos)
 
@@ -276,7 +323,7 @@ As comissões deverão estar constituídas até ao dia 30 de Janeiro, inclusive,
 
 3 - Os guardas escalados para estes serviços receberão das comissões de recenseamento respectivas indicação sobre o modo de os prestar, as horas e os locais onde os mesmos deverão ser prestados.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Funcionamento)
 
@@ -290,7 +337,7 @@ Os assistentes não terão direito a intervir.
 
 #### SECÇÃO II — Participação dos partidos políticos
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Delegados dos partidos políticos)
 
@@ -298,7 +345,7 @@ Os assistentes não terão direito a intervir.
 
 2 - Aquelas entidades devem comunicar imediatamente às comissões de recenseamento os nomes indicados.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Cooperação com as comissões de recenseamento)
 
@@ -306,7 +353,7 @@ Os delegados dos partidos políticos reunirão com as comissões de recenseament
 
 ### CAPÍTULO IV — Operações do recenseamento eleitoral para 1976
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Anúncio do recenseamento)
 
@@ -318,7 +365,7 @@ Os delegados dos partidos políticos reunirão com as comissões de recenseament
 
 4 - Os anúncios referidos nos números anteriores deverão ser feitos repetidamente a partir da data do anúncio oficial da data de abertura do recenseamento e até ao dia do encerramento do período de inscrição no recenseamento.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Período de inscrição)
 
@@ -326,7 +373,7 @@ Os delegados dos partidos políticos reunirão com as comissões de recenseament
 
 2 - A inscrição no recenseamento dos cidadãos eleitores residentes no estrangeiro decorrerá entre datas a fixar, pelo Ministro dos Negócios Estrangeiros, por forma que os cidadãos eleitores disponham de um prazo mínimo de quinze dias para procederem à inscrição.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Processo de inscrição)
 
@@ -340,7 +387,7 @@ Os delegados dos partidos políticos reunirão com as comissões de recenseament
 
 5 - Quando o verbete, e o duplicado, se exigido, for apresentado, deverá ser assinado pelo membro da comissão de recenseamento que o receber.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Cadernos de recenseamento)
 
@@ -358,7 +405,7 @@ b) O caderno definitivo dos novos eleitores;
 
 c) O caderno suplementar dos novos eleitores, elaborado por ordem alfabética, com as inscrições autorizadas ou ordenadas até ao fim do período de reclamação ou recurso.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Informações relativas a interditos e condenados)
 
@@ -366,13 +413,13 @@ c) O caderno suplementar dos novos eleitores, elaborado por ordem alfabética, c
 
 2 - As mesmas autoridades judiciais deverão comunicar imediatamente às comissões de recenseamento competentes os nomes dos eleitores que até à data da eleição vierem a ficar nalguma das situações previstas no número anterior.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Informações relativas a internados em estabelecimentos psiquiátricos)
 
 Até 24 de Fevereiro deverão os directores de estabelecimentos psiquiátricos enviar relação dos internados notoriamente reconhecidos como dementes, mas não interditados por sentença com trânsito em julgado, em virtude de anomalia psíquica, às comissões de recenseamento das freguesias da residência que os indivíduos em causa tinham à data do internamento.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Exposição da cópia para exame e reclamação)
 
@@ -388,7 +435,7 @@ Até 24 de Fevereiro deverão os directores de estabelecimentos psiquiátricos e
 
 6 - Quando a apresentação do verbete e do duplicado, se exigido, não for feita pelo próprio, mas por apresentante, no uso da faculdade prevista no n.º 3 do artigo 4.º, deverá o apresentante assiná-lo também, identificando-se com o seu bilhete de identidade.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Das reclamações)
 
@@ -398,7 +445,7 @@ Até 24 de Fevereiro deverão os directores de estabelecimentos psiquiátricos e
 
 3 - O direito de reclamação referido no n.º 1 pode, com as necessárias adaptações, ser exercido fora do território eleitoral por qualquer cidadão eleitor ou partido político.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Dos recursos)
 
@@ -412,7 +459,7 @@ Até 24 de Fevereiro deverão os directores de estabelecimentos psiquiátricos e
 
 5 - O processo, bem como os documentos destinados a instruí-lo, será gratuito e isento de selo.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Correcção dos cadernos de recenseamento)
 
@@ -420,7 +467,7 @@ Até 24 de Fevereiro deverão os directores de estabelecimentos psiquiátricos e
 
 2 - Após a publicação a que se refere o número anterior, os cadernos de recenseamento só poderão sofrer modificações no caso de morte de eleitor inscrito ou de alteração de capacidade eleitoral.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Número total de eleitores inscritos e cópia dos cadernos de recenseamento)
 
@@ -434,7 +481,7 @@ Até 24 de Fevereiro deverão os directores de estabelecimentos psiquiátricos e
 
 5 - O disposto nos n.os 1 a 3 será executado em relação aos eleitores residentes e aos cadernos de recenseamento elaborados no estrangeiro, com as adaptações exigidas pelo condicionalismo local, nos termos que vierem a ser definidos pelo Ministro dos Negócios Estrangeiros.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Guarda e conservação dos cadernos de recenseamento)
 
@@ -444,7 +491,7 @@ Quanto ao estrangeiro, os cadernos eleitorais, bem como os documentos que servir
 
 2 - Quando a junta de freguesia não dispuser de condições para a guarda da documentação a que se refere o número anterior, a entrega será feita pelas comissões de recenseamento à autoridade militar ou militarizada mais próxima que possa garantir aquela guarda.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Presunção de capacidade eleitoral)
 
@@ -456,19 +503,19 @@ Quanto ao estrangeiro, os cadernos eleitorais, bem como os documentos que servir
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Âmbito do ilícito relativo ao recenseamento)
 
 O âmbito do ilícito relativo ao recenseamento é constituído pelo conjunto das infracções criminais tipificadas, bem como pelo conjunto de infracções não criminais de carácter administrativo ou disciplinar previstas no presente diploma.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Concorrência com crimes mais graves)
 
 As sanções cominadas no presente diploma não excluem a aplicação de outras mais graves pela prática de qualquer crime previsto na legislação penal.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Circunstâncias agravantes gerais)
 
@@ -478,31 +525,31 @@ Para além das previstas na lei penal comum, constituem circunstâncias agravant
 
 2.ª O facto de os agentes serem membros das comissões de recenseamento ou das mesas das assembleias de voto, delegados dos partidos, mandatários das listas ou candidatos e deputados.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Punição da tentativa e do crime frustrado)
 
 Nos crimes relativos ao recenseamento a tentativa e o crime frustrado serão sempre punidos da mesma forma que o crime consumado.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Não suspensão ou substituição por multa)
 
 As penas aplicadas por infracções criminais relativas ao recenseamento eleitoral não podem ser suspensas nem substituídas por qualquer outra pena ou multa.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Suspensão de direitos políticos)
 
 A condenação a pena de prisão por infracção criminal relativa ao recenseamento eleitoral será obrigatoriamente acompanhada de condenação em suspensão de direitos políticos de um a cinco anos.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Prescrição)
 
 O procedimento por infracções criminais relativas ao recenseamento eleitoral prescreve no prazo de um ano a contar do fim do respectivo processo de recenseamento.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Da fiscalização do recenseamento)
 
@@ -510,7 +557,7 @@ Competirá à Comissão Nacional de Eleições assegurar e fiscalizar, por meios
 
 ### CAPÍTULO II — Infracções relativas ao recenseamento
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Inscrição dolosa)
 
@@ -520,13 +567,13 @@ Competirá à Comissão Nacional de Eleições assegurar e fiscalizar, por meios
 
 3 - Todo o cidadão português residente no estrangeiro que prestar falsas informações, a fim de obter a sua inscrição no recenseamento, será punido com a pena prevista nos números anteriores.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Não cumprimento do dever de informação para efeito de recenseamento)
 
 Os responsáveis pelo envio das relações de cidadãos previstas nos artigos 23.º e 24.º que não cumprirem a respectiva obrigação serão punidos com multa de 1000$00 a 10000$00.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Obstrução à inscrição)
 
@@ -536,7 +583,7 @@ Aquele que no território eleitoral, no intuito de impedir a sua inscrição no 
 
 3 - Se o facto referido no número anterior for praticado por qualquer membro da comissão de recenseamento ou delegado de partido político, a prisão será de um a dois anos.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Impedimento à verificação de inscrição no recenseamento)
 
@@ -544,19 +591,19 @@ Aquele que no território eleitoral, no intuito de impedir a sua inscrição no 
 
 2 - Os membros da comissão de recenseamento que, dolosamente, obstarem a que os cidadãos examinem a cópia do caderno de recenseamento serão punidos com prisão de seis meses a dois anos e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Não correcção dos cadernos definitivos e não elaboração dos suplementares)
 
 Os membros da comissão de recenseamento que por negligência não procedam à correcção dos cadernos de recenseamento serão punidos com a multa de 1000$00 a 10000$00.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Não cumprimento do dever de participação no processo eleitoral)
 
 Aquele que for nomeado para fazer parte das comissões de recenseamento e, sem justa causa, não assumir ou abandonar essas funções será punido com multa de 1000$00 a 20000$00.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Falsificação de cadernos de recenseamento)
 
@@ -564,13 +611,13 @@ Aquele que for nomeado para fazer parte das comissões de recenseamento e, sem j
 
 2 - Ficam sujeitos à mesma pena os membros da comissão de recenseamento que dolosamente não procedam à correcção dos cadernos de recenseamento ou à elaboração dos respectivos cadernos suplementares, nos termos do artigo 28.º
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Denúncia caluniosa)
 
 Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção relativa ao recenseamento eleitoral será punido com as penas aplicáveis à denúncia caluniosa.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Não cumprimento de outras obrigações impostas por lei)
 
@@ -578,19 +625,19 @@ Aquele que não cumprir nos seus precisos termos quaisquer obrigações que lhe 
 
 ## TÍTULO III — Disposições finais
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Delegação de competência)
 
 O Ministério dos Negócios Estrangeiros e o Ministério da Cooperação, para os efeitos do disposto neste diploma, terão atribuições idênticas às do Ministério da Administração Interna, quanto ao estrangeiro e a território ultramarino ainda sob administração portuguesa.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Certidões)
 
 Serão obrigatoriamente passadas, a requerimento de qualquer interessado, no prazo de três dias, as certidões necessárias para o recenseamento eleitoral.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Isenções)
 
@@ -602,7 +649,7 @@ b) Todos os documentos destinados a instruir quaisquer reclamações ou recursos
 
 c) As procurações forenses a utilizar em reclamações e recursos previstos na presente lei, devendo as mesmas especificar os processos a que se destinam.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Entrada em vigor)
 
@@ -610,11 +657,11 @@ Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - José Manuel de Medeiros Ferreira.
 
-**Promulgado em 15 de Janeiro de 1976.**
+Promulgado em 15 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 CERTIDÃO DE ELEITOR
 
@@ -630,6 +677,6 @@ A Comissão de Recenseamento,
 
 N.B. - Essa certidão de eleitor vale apenas para efeitos do n.º 1 do artigo 11.º do Decreto-Lei n.º 25-A/76.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01201/00010010.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01201/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01201/00010010.pdf)
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.

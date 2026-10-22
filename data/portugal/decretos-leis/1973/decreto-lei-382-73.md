@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1973-421815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3002b18aec677696f5a05d5732712ed8d4b28e97f7a87728e5199d6f61b5823
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c8fe5b3ce8929a6a5ebb5036b722e0ecda29aba078f3a8d96c572f75229952b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Sindical de Previdência
+- Compensação Remuneratória
+- Contrato Individual de Trabalho
+- Contribuições e Impostos
+- Despedimento
+- Entidade Patronal
+- Fundo de Desenvolvimento da Mão-de-obra
+- Indemnização
+- Indemnização Compensatória
+- Instituições de Previdência Social
+- Multa
+- Previdência Social
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:49Z'
   warnings: []
   errors: []
 ---
@@ -101,34 +134,34 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Art. 1.º - 1. Nos casos de despedimento colectivo em que seja proferido o despacho conjunto aludido nos artigos 2.º e 11.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, ficam os trabalhadores isentos de contribuições para a previdência social quando optem pelo recebimento das indemnizações ou compensações previstas nas normas reguladoras do contrato individual de trabalho.
+Art. 1.º - 1. Nos casos de despedimento colectivo em que seja proferido o despacho conjunto aludido nos artigos 2.º e 11.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, ficam os trabalhadores isentos de contribuições para a previdência social quando optem pelo recebimento das indemnizações ou compensações previstas nas normas reguladoras do contrato individual de trabalho.
 
 2. Nos casos previstos no número anterior ficam também as entidades patronais isentas de contribuições, mas apenas na parte que exceder a quantia resultante da aplicação da percentagem da sua comparticipação, fixada no referido despacho conjunto, sobre o valor total das contribuições que seriam devidas pelo pagamento das indemnizações ou compensações aos trabalhadores despedidos.
 
-###### Art. 2.º Para os fins do disposto neste diploma, o Fundo de Desenvolvimento da Mão-de-Obra comunicará às instituições de previdência e às entidades patronais interessadas o teor do despacho conjunto referido no artigo anterior, devendo estas afixá-lo no prazo de cinco dias, a contar da data da sua recepção, em local bem visível do estabelecimento, com a menção expressa da cominação prevista no n.º 1 do artigo seguinte.
+Art. 2.º Para os fins do disposto neste diploma, o Fundo de Desenvolvimento da Mão-de-Obra comunicará às instituições de previdência e às entidades patronais interessadas o teor do despacho conjunto referido no artigo anterior, devendo estas afixá-lo no prazo de cinco dias, a contar da data da sua recepção, em local bem visível do estabelecimento, com a menção expressa da cominação prevista no n.º 1 do artigo seguinte.
 
-###### Art. 3.º - 1. No prazo de quinze dias, a contar da data da afixação, deverão os trabalhadores declarar, por escrito, se optam pelas indemnizações ou compensações previstas nas normas reguladoras do contrato individual de trabalho, entendendo-se que optam por estas se nada declararem.
+Art. 3.º - 1. No prazo de quinze dias, a contar da data da afixação, deverão os trabalhadores declarar, por escrito, se optam pelas indemnizações ou compensações previstas nas normas reguladoras do contrato individual de trabalho, entendendo-se que optam por estas se nada declararem.
 
 2. Nos trinta dias posteriores ao termo do prazo para a opção dos trabalhadores, as entidades patronais deverão elaborar e remeter às instituições de previdência interessadas uma relação de todos os trabalhadores que tenham optado pelo recebimento das indemnizações ou compensações, discriminando as respectivas categorias, ordenados ou salários e data da admissão na empresa, bem como o montante de tais indemnizações ou compensações, meses a que respeitam e fontes jurídicas que as fundamentam e delimitam.
 
 3. Havendo divergência sobre o montante das indemnizações ou compensações, as entidades patronais discriminarão também as verbas que se propõem pagar e as que os trabalhadores entendem ser-lhes devidas.
 
-###### Art. 4.º - 1. Considera-se, para efeitos da concessão do regime de benefícios previsto no Regulamento das Caixas Sindicais de Previdência, estatuído pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, como equivalente à entrada total de contribuições a indicação do montante das indemnizações ou compensações constante da relação das entidades patronais.
+Art. 4.º - 1. Considera-se, para efeitos da concessão do regime de benefícios previsto no Regulamento das Caixas Sindicais de Previdência, estatuído pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, como equivalente à entrada total de contribuições a indicação do montante das indemnizações ou compensações constante da relação das entidades patronais.
 
 2. Verificando-se a divergência aludida no n.º 3 do artigo anterior, as instituições de previdência atenderão inicialmente às verbas que as entidades patronais se propõem pagar aos trabalhadores, procedendo às necessárias correcções logo que tenham conhecimento da fixação definitiva das indemnizações ou compensações.
 
-###### Art. 5.º O pagamento da percentagem de contribuições devidas nos termos do n.º 2 do artigo 1.º será efectuado dentro do prazo fixado no n.º 3 do artigo 114.º do Regulamento das Caixas Sindicais de Previdência.
+Art. 5.º O pagamento da percentagem de contribuições devidas nos termos do n.º 2 do artigo 1.º será efectuado dentro do prazo fixado no n.º 3 do artigo 114.º do Regulamento das Caixas Sindicais de Previdência.
 
-###### Art. 6.º As entidades patronais que infrinjam o preceituado no presente diploma serão punidas com multa de 3000$00 a 5000$00.
+Art. 6.º As entidades patronais que infrinjam o preceituado no presente diploma serão punidas com multa de 3000$00 a 5000$00.
 
-###### Art. 7.º O regime definido neste decreto-lei é aplicável a todas as situações e processos pendentes à data da sua entrada em vigor.
+Art. 7.º O regime definido neste decreto-lei é aplicável a todas as situações e processos pendentes à data da sua entrada em vigor.
 
-###### Art. 8.º As dúvidas suscitadas na execução deste decreto-lei serão resolvidas por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
+Art. 8.º As dúvidas suscitadas na execução deste decreto-lei serão resolvidas por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Julho de 1973.**
+Promulgado em 11 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

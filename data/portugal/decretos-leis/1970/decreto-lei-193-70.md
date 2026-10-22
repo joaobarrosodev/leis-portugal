@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1970-141870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fa1365fddaadc42afdd6dc8bed2d754029170d8d93b9fae053ade2eff8f362f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5b06a8f042e9dc7b5805ff3b606efe76accc01fadd0257d79206b30b4096b0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comando Chefe das Forças Armadas
+- Despesas de Representação
+- Forças Armadas
+- Gratificação
+- Militar
+- Remuneração
+- Remuneração Acessória
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:199627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628286:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:20Z'
   warnings: []
   errors: []
 ---
@@ -89,23 +105,23 @@ Considerando a necessidade de rever o regime de gratificações para despesas de
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As gratificações para despesas de representação a abonar mensalmente ao novo pessoal dos comandos-chefes das províncias abrangidas pelo disposto no artigo 1.º do [Decreto-Lei n.º 49107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49107-1969-199627), de 7 de Julho de 1969, serão as seguintes:
+Artigo 1.º As gratificações para despesas de representação a abonar mensalmente ao novo pessoal dos comandos-chefes das províncias abrangidas pelo disposto no artigo 1.º do [Decreto-Lei n.º 49107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49107-1969-199627), de 7 de Julho de 1969, serão as seguintes:
 
 Chefe do estado-maior ... 3000$00
 
 Subchefe do estado-maior ... 2000$00
 
-###### Art. 2.º Os vencimentos dos oficiais que desempenharem os cargos referidos no artigo 1.º do presente diploma serão liquidados pelo comando do departamento das forças armadas a que pertencerem pelas verbas que lhe serão atribuídas para forças militares extraordinárias.
+Art. 2.º Os vencimentos dos oficiais que desempenharem os cargos referidos no artigo 1.º do presente diploma serão liquidados pelo comando do departamento das forças armadas a que pertencerem pelas verbas que lhe serão atribuídas para forças militares extraordinárias.
 
-###### Art. 3.º Os encargos resultantes da execução do artigo 1.º do presente diploma serão suportados pelas verbas próprias atribuídas a cada comando-chefe.
+Art. 3.º Os encargos resultantes da execução do artigo 1.º do presente diploma serão suportados pelas verbas próprias atribuídas a cada comando-chefe.
 
-###### Art. 4.º Transitòriamente, e até terminarem as suas comissões, por escolha ou imposição, os actuais chefes e adjuntos dos gabinetes militares dos comandos-chefes manterão as gratificações para despesas de representação que lhes vêm sendo abonadas, nos termos do artigo 7.º do [Decreto n.º 45007](https://diariodarepublica.pt/dr/detalhe/decreto/45007-1963-628286), de 29 de Abril de 1963.
+Art. 4.º Transitòriamente, e até terminarem as suas comissões, por escolha ou imposição, os actuais chefes e adjuntos dos gabinetes militares dos comandos-chefes manterão as gratificações para despesas de representação que lhes vêm sendo abonadas, nos termos do artigo 7.º do [Decreto n.º 45007](https://diariodarepublica.pt/dr/detalhe/decreto/45007-1963-628286), de 29 de Abril de 1963.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 29 de Abril de 1970.**
+Promulgado em 29 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

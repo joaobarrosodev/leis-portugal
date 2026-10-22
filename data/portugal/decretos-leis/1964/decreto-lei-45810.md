@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b61f841063f3e7e05cb9d8a514194fab6ed7d216e59ca9daddda05610acbb566
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 375da1cb23280d843acaa47d5a19e80b7657f7c9c56b2858358e76c83379326d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:265129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265129:por
+  label: "Alterados os artigos 3.º, 7.º e 8.º do presente diploma, pelo DEC LEI.48546.27.08.1968.MEN, DG.IS [202] de 27.08.1968\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48546-1968-265129
+  date: '1968-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:47Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +116,11 @@ A reforma que fica descrita nas suas linhas gerais exige certas providências co
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O ensino primário é ampliado, passando a compreender dois ciclos, um elementar, correspondente às actuais quatro classes, e outro complementar, constituído por duas novas classes.
+Artigo 1.º O ensino primário é ampliado, passando a compreender dois ciclos, um elementar, correspondente às actuais quatro classes, e outro complementar, constituído por duas novas classes.
 
-###### Art. 2.º O ciclo complementar do ensino primário terminará com a aprovação no exame da 6.ª Classe ou no de admissão ao 2.º ciclo do ensino liceal ou a algum dos cursos de formação do ensino técnico profissional.
+Art. 2.º O ciclo complementar do ensino primário terminará com a aprovação no exame da 6.ª Classe ou no de admissão ao 2.º ciclo do ensino liceal ou a algum dos cursos de formação do ensino técnico profissional.
 
-###### Art. 3.º - 1. O referido ciclo complementar terá carácter obrigatório e gratuito, como o elementar.
+Art. 3.º - 1. O referido ciclo complementar terá carácter obrigatório e gratuito, como o elementar.
 
 2. A escolaridade obrigatória será correspondentemente ampliada, para os menores de ambos os sexos, até aos 14 anos.
 
@@ -120,32 +128,32 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Quando se não justifique o funcionamento do ciclo complementar em determinada escola, em razão do número de alunos, estes frequentarão a escola mais próxima, sem prejuízo do disposto na lei sobre dispensa da obrigatoriedade escolar em razão da distância.
 
-###### Art. 4.º - 1. Ficarão já sujeitos à obrigatoriedade do ciclo complementar os indivíduos de ambos os sexos que se matriculem na 1.ª classe em 1964-1965, pela primeira vez ou como repetentes.
+Art. 4.º - 1. Ficarão já sujeitos à obrigatoriedade do ciclo complementar os indivíduos de ambos os sexos que se matriculem na 1.ª classe em 1964-1965, pela primeira vez ou como repetentes.
 
 2. O referido ciclo começará todavia a funcionar, embora com carácter facultativo, em 1966-1967, e, se as circunstâncias assim o aconselharem, irá sendo posto em vigor gradualmente.
 
-###### Art. 5.º Aos professores que regerem o ciclo complementar atribuir-se-á a gratificação mensal de 1000$00, a abonar durante dez meses.
+Art. 5.º Aos professores que regerem o ciclo complementar atribuir-se-á a gratificação mensal de 1000$00, a abonar durante dez meses.
 
-###### Art. 6.º Serão oportunamente estabelecidos os planos de estudo e os programas do ciclo complementar e introduzidas, nos do ciclo elementar, as modificações aconselhadas pela criação daquele novo ciclo.
+Art. 6.º Serão oportunamente estabelecidos os planos de estudo e os programas do ciclo complementar e introduzidas, nos do ciclo elementar, as modificações aconselhadas pela criação daquele novo ciclo.
 
-###### Art. 7.º - 1. Nas escolas do magistério primário passará a haver dois cursos, um geral e outro complementar, com planos e programas a estabelecer oportunamente.
+Art. 7.º - 1. Nas escolas do magistério primário passará a haver dois cursos, um geral e outro complementar, com planos e programas a estabelecer oportunamente.
 
 2. Os professores habilitados com o aludido curso complementar gozarão de preferência na designação para a regência do ciclo complementar do ensino primário.
 
 3. Igual preferência competirá aos professores que possuam o 3.º ciclo do ensino liceal ou habilitação equivalente.
 
-###### Art. 8.º - 1. Enquanto não houver professores em número suficiente, com qualquer das habilitações previstas no artigo anterior, funcionarão nas escolas do magistério primário, nos liceus ou nas escolas técnicas, durante as férias grandes, cursos de aperfeiçoamento dos professores do ensino primário.
+Art. 8.º - 1. Enquanto não houver professores em número suficiente, com qualquer das habilitações previstas no artigo anterior, funcionarão nas escolas do magistério primário, nos liceus ou nas escolas técnicas, durante as férias grandes, cursos de aperfeiçoamento dos professores do ensino primário.
 
 2. Esses cursos serão regidos por professores que o Ministro da Educação Nacional designará e que preceberão uma gratificação a fixar pelo mesmo Ministro, com a concordância do das Finanças.
 
 3. Os professores do ensino primário que tenham seguido um curso de aperfeiçoamento, com regularidade devidamente certificada, também gozarão de preferência na designação para a regência do ciclo complementar; mas esta preferência ficará subordinada às estabelecidas no artigo precedente.
 
-###### Art. 9.º Os indivíduos sujeitos ao regime de escolaridade obrigatória instituído pelo presente decreto-lei deverão possuir, pelo menos, o ciclo complementar do ensino primário, ou o 1.º ciclo do ensino liceal, ou o ciclo preparatório do ensino técnico profissional, para todos os fins para que se exige presentemente a 4.ª classe da instrução primária.
+Art. 9.º Os indivíduos sujeitos ao regime de escolaridade obrigatória instituído pelo presente decreto-lei deverão possuir, pelo menos, o ciclo complementar do ensino primário, ou o 1.º ciclo do ensino liceal, ou o ciclo preparatório do ensino técnico profissional, para todos os fins para que se exige presentemente a 4.ª classe da instrução primária.
 
-###### Art. 10.º O regime estabelecido na legislação vigente para a primeira fase da escolaridade obrigatória é extensivo à segunda, em tudo o que lhe for aplicável e não estiver previsto no presente decreto-lei.
+Art. 10.º O regime estabelecido na legislação vigente para a primeira fase da escolaridade obrigatória é extensivo à segunda, em tudo o que lhe for aplicável e não estiver previsto no presente decreto-lei.
 
-###### Art. 11.º O Ministério do Ultramar, em colaboração com o Ministério da Educação Nacional, estudará, quando for julgado oportuno, a adaptação do regime previsto neste decreto-lei às províncias ultramarinas.
+Art. 11.º O Ministério do Ultramar, em colaboração com o Ministério da Educação Nacional, estudará, quando for julgado oportuno, a adaptação do regime previsto neste decreto-lei às províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

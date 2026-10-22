@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45467-1963-680588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2423180652d0b725950ea94c4e0cf0d936b7733b3eedc46569daa61326e632a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6154000efd70a3262f7582c48be5b761ff97871e7c63130b338171bd024b0871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amnistia
+- Crime Militar
+- Militar
+- Perdão da Pena
+- Serviço Militar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:32Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +99,19 @@ Considerando que, assim, se interpreta o sentimento da Nação;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São amnistiados os crimes praticados por militares, até à data do presente diploma, inclusive, previstos e punidos pelos seguintes artigos do Código de Justiça Militar: 91.º, n.os 3.º e 4.º; 97.º, n.º 2.º; 98.º, n.º 2.º; 99.º, n.os 2.º e 3.º; 100.º; 101.º, n.º 2.º; 104.º, n.º 3.º; 111.º, 112.º, 115.º, 116.º e 143.º, n.º 4.º; 144.º, n.º 4.º; 147.º, n.º 4.º; 148.º, n.º 3.º; 149.º, § 1.º; 157.º, n.os 2.º e 3.º; 158.º, 160.º, crimes de deserção, punidos pelo artigo 170.º, n.º 1.º, primeira parte, e seu § 1.º; 182.º e 183.º, n.º 2.º; 184.º, n.º 2.º, quando não haja reincidência; 186.º a 189.º, inclusive; 193.º, n.º 2.º; 195.º, § único; 211.º, § 1.º; 213.º, § único; 216.º, § 1.º; 217.º, n.º 2.º, e, ainda, os dos artigos 218.º, 226.º, 228.º e 229.º, quando o valor não exceda 2000$00 ou quando o agente tenha reparado totalmente o prejuízo causado, desde que este não tenha excedido 10000$00.
+Artigo 1.º São amnistiados os crimes praticados por militares, até à data do presente diploma, inclusive, previstos e punidos pelos seguintes artigos do Código de Justiça Militar: 91.º, n.os 3.º e 4.º; 97.º, n.º 2.º; 98.º, n.º 2.º; 99.º, n.os 2.º e 3.º; 100.º; 101.º, n.º 2.º; 104.º, n.º 3.º; 111.º, 112.º, 115.º, 116.º e 143.º, n.º 4.º; 144.º, n.º 4.º; 147.º, n.º 4.º; 148.º, n.º 3.º; 149.º, § 1.º; 157.º, n.os 2.º e 3.º; 158.º, 160.º, crimes de deserção, punidos pelo artigo 170.º, n.º 1.º, primeira parte, e seu § 1.º; 182.º e 183.º, n.º 2.º; 184.º, n.º 2.º, quando não haja reincidência; 186.º a 189.º, inclusive; 193.º, n.º 2.º; 195.º, § único; 211.º, § 1.º; 213.º, § único; 216.º, § 1.º; 217.º, n.º 2.º, e, ainda, os dos artigos 218.º, 226.º, 228.º e 229.º, quando o valor não exceda 2000$00 ou quando o agente tenha reparado totalmente o prejuízo causado, desde que este não tenha excedido 10000$00.
 
-###### Art. 2.º São ainda amnistiados, nas condições do artigo anterior, os crimes de abuso de autoridade e todos ou outros, previstos no Código Penal ou em lei especial, puníveis com pena de prisão, ou de prisão e multa, não superior a um ano.
+Art. 2.º São ainda amnistiados, nas condições do artigo anterior, os crimes de abuso de autoridade e todos ou outros, previstos no Código Penal ou em lei especial, puníveis com pena de prisão, ou de prisão e multa, não superior a um ano.
 
-###### Art. 3.º São perdoados 90 dias em cada uma das penas impostas a militares quanto aos crimes praticados até à data deste diploma, inclusive, e não abrangidos pelos artigos anteriores.
+Art. 3.º São perdoados 90 dias em cada uma das penas impostas a militares quanto aos crimes praticados até à data deste diploma, inclusive, e não abrangidos pelos artigos anteriores.
 
-###### Art. 4.º São arquivados, sem procedimento, todos os processos em curso por infracções disciplinares cometidas até à data, inclusive, da publicação deste diploma.
+Art. 4.º São arquivados, sem procedimento, todos os processos em curso por infracções disciplinares cometidas até à data, inclusive, da publicação deste diploma.
 
 § único. Não se consideram os processos em reclamação ou recurso, que seguirão seus termos, sem prejuízo, porém, da ulterior anulação das penas respectivas, quando devida.
 
-###### Art. 5.º As penas disciplinares previstas nos n.os 1.º, 2.º e 3.º do artigo 7.º; nos n.os 1.º, 2.º, 3.º e 4.º do artigo 15.º; nos n.os 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do artigo 21.º; nos n.os 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º do artigo 22.º; nos n.os 1.º, 2.º e 3.º do artigo 35.º, e nos n.os 1.º, 2.º e 3.º do artigo 36.º do Regulamento de Disciplina Militar impostas até à data, inclusive, da publicação deste diploma são anuladas e canceladas nos respectivos registos.
+Art. 5.º As penas disciplinares previstas nos n.os 1.º, 2.º e 3.º do artigo 7.º; nos n.os 1.º, 2.º, 3.º e 4.º do artigo 15.º; nos n.os 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do artigo 21.º; nos n.os 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º do artigo 22.º; nos n.os 1.º, 2.º e 3.º do artigo 35.º, e nos n.os 1.º, 2.º e 3.º do artigo 36.º do Regulamento de Disciplina Militar impostas até à data, inclusive, da publicação deste diploma são anuladas e canceladas nos respectivos registos.
 
-###### Art. 6.º As penas de prisão disciplinar e de prisão disciplinar agravada impostas até à data, inclusive, da publicação deste diploma serão anuladas e canceladas nos respectivos registos, nas seguintes condições:
+Art. 6.º As penas de prisão disciplinar e de prisão disciplinar agravada impostas até à data, inclusive, da publicação deste diploma serão anuladas e canceladas nos respectivos registos, nas seguintes condições:
 
 a) Se o infractor não tiver averbada mais do que uma pena de prisão, a anulação e cancelamento serão feitos imediatamente;
 
@@ -120,15 +125,15 @@ e) Se, havendo mais do que uma pena de prisão, a sua totalidade, feitas as equi
 
 § único. Perdem o direito aos benefícios consignados nas alíneas b), c), d) e e) do presente artigo os infractores que, antes de decorridos os prazos nelas estabelecidos, sofram qualquer nota disciplinar ou criminal.
 
-###### Art. 7.º Os militares transferidos para o Depósito Disciplinar regressarão às suas anteriores situações ou serão destinados à companhia disciplinar de Penamacor, conforme lhes tenha sido aplicado, respectivamente, o disposto nos artigos 201.º ou 202.º do Regulamento de Disciplina Militar.
+Art. 7.º Os militares transferidos para o Depósito Disciplinar regressarão às suas anteriores situações ou serão destinados à companhia disciplinar de Penamacor, conforme lhes tenha sido aplicado, respectivamente, o disposto nos artigos 201.º ou 202.º do Regulamento de Disciplina Militar.
 
 § único. Não será aplicável o preceituado nos artigos 201.º e 202.º do Regulamento de Disciplina Militar àqueles que na data da publicação do presente diploma estejam nas condições previstas dos referidos preceitos legais.
 
-###### Art. 8.º Os benefícios constantes deste diploma, na parte criminal, não aproveitam aos reincidentes, aos delinquentes de difícil correcção, nem aos abrangidos pelos crimes dolosos previstos no corpo do artigo 40.º do Código de Justiça Militar, salvo o que vai disposto neste diploma.
+Art. 8.º Os benefícios constantes deste diploma, na parte criminal, não aproveitam aos reincidentes, aos delinquentes de difícil correcção, nem aos abrangidos pelos crimes dolosos previstos no corpo do artigo 40.º do Código de Justiça Militar, salvo o que vai disposto neste diploma.
 
-###### Art. 9.º A amnistia decretada não extingue a responsabilidade civil emergente dos factos praticados, a discutir nos tribunais competentes no prazo legal ou no prazo de 30 dias após o arquivamento do processo crime.
+Art. 9.º A amnistia decretada não extingue a responsabilidade civil emergente dos factos praticados, a discutir nos tribunais competentes no prazo legal ou no prazo de 30 dias após o arquivamento do processo crime.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar -José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
 

@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1976-506073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cf87fce1cb5475f62e08e3f7b5fe7ad59ab68d73661e8be7c04b5a8f64106f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dcf4ab486ddc52bdf7c802355af3304fe698ff43356ad88710b0b873c991aa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio Administrativo
+- Conservador
+- Definição de Competências
+- Diretor
+- Gestão Administrativa
+- Gestão Financeira
+- Investigador
+- Marinha
+- Museu de Marinha
+- Planetário Calouste Gulbenkian
+- Regime de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507775:por
+  label: Rectificado o presente diploma [o art. 18º e inserido o art. 23º - relativo à revogação do Dec Lei 42412 de 24-Jul
+    de 1959 e do Dec Lei 531/71 de 02-Dez] pela DECL.DD8574.25.02.1976.EMGFA, DG.IS [47] de 25.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507775
+  date: '1976-02-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:42Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +109,7 @@ Tornando-se necessário unificar e actualizar a legislação referente ao Museu 
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Museu de Marinha, que, nos termos do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, é um organismo do Departamento da Marinha, fica instalado em anexo ao Mosteiro dos Jerónimos, vindo a ocupar a parte do edifício e anexos não afecta ao culto.
+Artigo 1.º - 1. O Museu de Marinha, que, nos termos do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, é um organismo do Departamento da Marinha, fica instalado em anexo ao Mosteiro dos Jerónimos, vindo a ocupar a parte do edifício e anexos não afecta ao culto.
 
 2. O edifício e anexos, na parte não afecta ao culto, serão adaptados interiormente às necessidades do Museu, de harmonia com projectos aprovados pelos departamentos interessados, devendo ser removidos oportunamente para outros locais os serviços do Estado que à data da publicação deste diploma nele se encontrem.
 
@@ -96,9 +117,9 @@ Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, 
 
 4. Por despacho do Chefe do Estado-Maior da Armada (CEMA) poderão ser criadas noutras cidades secções do Museu de Marinha, às quais este prestará apoio, nomeadamente no aspecto técnico e artístico.
 
-###### Art. 2.º O Museu de Marinha é um museu histórico destinado à conservação e exposição de objectos de valor histórico, artístico e documental que representem condignamente o povo português nas fainas do mar e sejam documentos do passado glorioso da marinha portuguesa e dos serviços por ela prestados à civilização e ao progresso da humanidade.
+Art. 2.º O Museu de Marinha é um museu histórico destinado à conservação e exposição de objectos de valor histórico, artístico e documental que representem condignamente o povo português nas fainas do mar e sejam documentos do passado glorioso da marinha portuguesa e dos serviços por ela prestados à civilização e ao progresso da humanidade.
 
-###### Art. 3.º O recheio do Museu será constituído:
+Art. 3.º O recheio do Museu será constituído:
 
 a) Pelos objectos já existentes nas suas instalações;
 
@@ -108,47 +129,47 @@ c) Pelos objectos que forem sendo executados nas oficinas privativas do Museu e 
 
 d) Pelos objectos que, contribuindo para a sua valorização, pertençam a instituições similares ou a particulares, nacionais ou estrangeiros, que desejem ou acedam confiá-los à guarda e conservação do Museu, a título permanente ou temporário.
 
-###### Art. 4.º - 1. Os objectos pertença do Museu poderão ser cedidos por empréstimo, mediante despacho do CEMA, no caso de exposições em que a representação da marinha ou do País o exija, desde que a deslocação respectiva possa ser efectuada sem risco e a entidade a cuja guarda temporária fiquem dê as necessárias garantias quanto a transporte e conservação.
+Art. 4.º - 1. Os objectos pertença do Museu poderão ser cedidos por empréstimo, mediante despacho do CEMA, no caso de exposições em que a representação da marinha ou do País o exija, desde que a deslocação respectiva possa ser efectuada sem risco e a entidade a cuja guarda temporária fiquem dê as necessárias garantias quanto a transporte e conservação.
 
 2. Havendo em reserva objectos repetidos ou dispensáveis, poderão estes ser cedidos por empréstimo ou por troca, mediante informação favorável da direcção do Museu, sancionada por despacho do CEMA.
 
 3. Os objectos a que se refere o número anterior podem ser confiados a unidades ou estabelecimentos da marinha, para decorarem as respectivas instalações, continuando a pertencer ao Museu, que fiscalizará a sua conveniente conservação.
 
-###### Art. 5.º A aquisição de quaisquer bens para afectação ao Museu é isenta de pagamento de direitos ou impostos.
+Art. 5.º A aquisição de quaisquer bens para afectação ao Museu é isenta de pagamento de direitos ou impostos.
 
-###### Art. 6.º O director do Museu poderá aceitar, em nome do Estado, quaisquer objectos de interesse histórico, artístico ou documental para serem expostos no Museu, quando a transmissão se faça a título gratuito e livre de quaisquer encargos.
+Art. 6.º O director do Museu poderá aceitar, em nome do Estado, quaisquer objectos de interesse histórico, artístico ou documental para serem expostos no Museu, quando a transmissão se faça a título gratuito e livre de quaisquer encargos.
 
-###### Art. 7.º O Departamento da Marinha afectará ao serviço do Museu os móveis e ferramental e outro material necessário ao seu funcionamento.
+Art. 7.º O Departamento da Marinha afectará ao serviço do Museu os móveis e ferramental e outro material necessário ao seu funcionamento.
 
-###### Art. 8.º - 1. O Museu de Marinha terá por director um oficial general ou superior da reserva da Armada e por subdirector um oficial também da reserva da Armada, sendo desejável que pelo menos um desses oficiais se especialize em museologia, fazendo curso apropriado.
+Art. 8.º - 1. O Museu de Marinha terá por director um oficial general ou superior da reserva da Armada e por subdirector um oficial também da reserva da Armada, sendo desejável que pelo menos um desses oficiais se especialize em museologia, fazendo curso apropriado.
 
 2. Nas suas faltas ou impedimentos o director será substituído pelo subdirector.
 
-###### Art. 9.º - 1. O Museu disporá de uma comissão técnica consultiva, constituída por individualidades de reconhecida competência em matérias que interessem ao Museu, para o efeito convidadas pelo CEMA.
+Art. 9.º - 1. O Museu disporá de uma comissão técnica consultiva, constituída por individualidades de reconhecida competência em matérias que interessem ao Museu, para o efeito convidadas pelo CEMA.
 
 2. Os membros desta Comissão, individualmente ou em conjunto, procederão a estudos e investigações sobre assuntos históricos de interesse para o Museu, a solicitação do director ou por iniciativa própria.
 
 3. Para esta comissão poderão ser requisitados funcionários de outros departamentos, em comissão de serviço ou em regime de tempo parcial.
 
-###### Art. 10.º - 1. O Museu terá um corpo de conservadores, a quem caberá proceder à inventariação e catalogação das peças e superintender na sua conservação e restauro.
+Art. 10.º - 1. O Museu terá um corpo de conservadores, a quem caberá proceder à inventariação e catalogação das peças e superintender na sua conservação e restauro.
 
 2. Aos conservadores compete igualmente elaborar o programa da exposição e dar-lhe execução depois de aprovado. Para tal, procederão aos trabalhos de investigação necessários ou utilizarão os efectuados pelos investigadores.
 
 3. Compete aos conservadores, no campo da extensão cultural, fomentar a divulgação do Museu, planeando e preparando as actividades nesse sentido para serem propostas à direcção.
 
-###### Art. 11.º - 1. O Museu disporá de investigadores pertencentes aos quadros de pessoal da Marinha.
+Art. 11.º - 1. O Museu disporá de investigadores pertencentes aos quadros de pessoal da Marinha.
 
 2. Os investigadores, individualmente ou em conjunto, procederão a estudos e investigações sobre assuntos históricos de interesse para o Museu.
 
 3. O trabalho de investigação deverá ser feito de acordo com o programa previamente estabelecido.
 
-###### Art. 12.º As lotações do Museu em pessoal militar e em pessoal civil serão estabelecidas, respectivamente, por portaria e por despacho do CEMA.
+Art. 12.º As lotações do Museu em pessoal militar e em pessoal civil serão estabelecidas, respectivamente, por portaria e por despacho do CEMA.
 
-###### Art. 13.º Como órgão de consulta e de estudo de problemas de interesse para o pessoal e para o funcionamento do Museu, disporá a direcção de uma comissão representativa do pessoal composta por elementos por este eleitos.
+Art. 13.º Como órgão de consulta e de estudo de problemas de interesse para o pessoal e para o funcionamento do Museu, disporá a direcção de uma comissão representativa do pessoal composta por elementos por este eleitos.
 
-###### Art. 14.º A composição e o funcionamento da comissão representativa do pessoal serão fixados no Regulamento do Museu de Marinha.
+Art. 14.º A composição e o funcionamento da comissão representativa do pessoal serão fixados no Regulamento do Museu de Marinha.
 
-###### Art. 15.º - 1. No Museu de Marinha poderão ser organizados cursos ou estágios destinados a habilitar o pessoal militar ou civil para o desempenho de funções ou execução de trabalhos que interessem especificamente ao Museu, nomeadamente o curso de modelador naval.
+Art. 15.º - 1. No Museu de Marinha poderão ser organizados cursos ou estágios destinados a habilitar o pessoal militar ou civil para o desempenho de funções ou execução de trabalhos que interessem especificamente ao Museu, nomeadamente o curso de modelador naval.
 
 2. Os cursos ou estágios a que se refere o número anterior serão regulados por diplomas próprios.
 
@@ -158,28 +179,28 @@ d) Pelos objectos que, contribuindo para a sua valorização, pertençam a insti
 
 5. Os modeladores terão preferência absoluta nos concursos efectuados para preenchimento de vagas nas oficinas do Museu.
 
-###### Art. 16.º O Museu disporá de uma secretaria, de oficinas, de uma biblioteca, de gabinetes de investigação e de outros órgãos de apoio necessários ao desempenho da sua missão, os quais serão definidos no Regulamento do Museu de Marinha.
+Art. 16.º O Museu disporá de uma secretaria, de oficinas, de uma biblioteca, de gabinetes de investigação e de outros órgãos de apoio necessários ao desempenho da sua missão, os quais serão definidos no Regulamento do Museu de Marinha.
 
-###### Art. 17.º - 1. Para administração de todos os bens, receitas e dotações, o Museu disporá de um conselho administrativo, constituído de acordo com o estabelecido no Regulamento de Administração da Fazenda Naval.
+Art. 17.º - 1. Para administração de todos os bens, receitas e dotações, o Museu disporá de um conselho administrativo, constituído de acordo com o estabelecido no Regulamento de Administração da Fazenda Naval.
 
 2. Os membros do conselho administrativo, quando exerçam as suas funções em regime de acumulação, vencerão uma gratificação fixada pelo CEMA, com o acordo do Ministro das Finanças.
 
-###### Art. 18.º - 1. Além das verbas que lhe forem atribuídas pelo orçamento da marinha, constituem receitas do Museu os donativos ou legados, bem como o produto das entradas e das verbas de publicações, fotografias, sucatas e inúteis.
+Art. 18.º - 1. Além das verbas que lhe forem atribuídas pelo orçamento da marinha, constituem receitas do Museu os donativos ou legados, bem como o produto das entradas e das verbas de publicações, fotografias, sucatas e inúteis.
 
 2. O material que não tenha interesse museológico, por proposta dos conservadores, será considerado inútil e, com aprovação do CEMA, cedido a outros estabelecimentos ou vendido em hasta pública.
 
-###### Art. 19.º A administração das receitas do Museu e dos bens que lhe forem afectos será feita de harmonia com as leis reguladoras da contabilidade pública e do Regulamento de Administração da Fazenda Naval, por intermédio do conselho administrativo, que, para tal, elaborará os orçamentos privativo e suplementar das receitas próprias e das despesas necessárias.
+Art. 19.º A administração das receitas do Museu e dos bens que lhe forem afectos será feita de harmonia com as leis reguladoras da contabilidade pública e do Regulamento de Administração da Fazenda Naval, por intermédio do conselho administrativo, que, para tal, elaborará os orçamentos privativo e suplementar das receitas próprias e das despesas necessárias.
 
-###### Art. 20.º Por conta das receitas do Museu, mediante autorização superior, poderão ser subsidiados trabalhos de investigação histórica, de identificação e de catalogação de espécies pertencentes ao Museu, bem como trabalhos relativos ao serviço educativo e de extensão cultural.
+Art. 20.º Por conta das receitas do Museu, mediante autorização superior, poderão ser subsidiados trabalhos de investigação histórica, de identificação e de catalogação de espécies pertencentes ao Museu, bem como trabalhos relativos ao serviço educativo e de extensão cultural.
 
-###### Art. 21.º Além do Planetário Calouste Gulbenkian, integrado administrativamente no Museu, este prestará apoio administrativo a outras entidades que forem designadas em despacho do CEMA.
+Art. 21.º Além do Planetário Calouste Gulbenkian, integrado administrativamente no Museu, este prestará apoio administrativo a outras entidades que forem designadas em despacho do CEMA.
 
-###### Art. 22.º O Regulamento do Museu de Marinha será publicado por portaria do CEMA.
+Art. 22.º O Regulamento do Museu de Marinha será publicado por portaria do CEMA.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

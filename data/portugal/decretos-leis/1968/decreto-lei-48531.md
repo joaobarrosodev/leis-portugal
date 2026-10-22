@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48531-1968-276042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 917a928746a3c77e6cdbb8043f4900ed73ad5d21a2ebb69f9efb87fd6c3eb485
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf52c432c966b3e075f268aca6f970bd445ed43fdd9be94cabe9bdff9288ec50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundação
+- Gestão do Património
+- Gestão Financeira
+- Isenção Fiscal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:20Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +92,17 @@ Considerando o interesse que existe em que tais bens sejam afectados a finalidad
 
 Usando da faculdade conferida pela 1.º parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a criação da Fundação de D. Manuel II, instituída pela condessa Augusta Victoria Douglas, princesa de Hohenzollern, no seu testamento de l1 de Setembro de 1962.
+Artigo 1.º É autorizada a criação da Fundação de D. Manuel II, instituída pela condessa Augusta Victoria Douglas, princesa de Hohenzollern, no seu testamento de l1 de Setembro de 1962.
 
-###### Art. 2.º A Fundação de D. Manuel II será uma instituição particular de assistência de nacionalidade portuguesa, com carácter perpétuo e dotada de personalidade jurídica.
+Art. 2.º A Fundação de D. Manuel II será uma instituição particular de assistência de nacionalidade portuguesa, com carácter perpétuo e dotada de personalidade jurídica.
 
-###### Art. 3.º A Fundação terá fins de caridade e de assistência, cabendo-lhe promover a melhoria das condições de vida das pessoas mais necessitadas de protecção social, bem como ajudar, em casos especiais, instituições hospitalares, podendo exercer a sua acção em qualquer parcela do território português.
+Art. 3.º A Fundação terá fins de caridade e de assistência, cabendo-lhe promover a melhoria das condições de vida das pessoas mais necessitadas de protecção social, bem como ajudar, em casos especiais, instituições hospitalares, podendo exercer a sua acção em qualquer parcela do território português.
 
-###### Art. 4.º - 1. O património da Fundação será constituído por todos os bens da testadora sitos em Portugal no momento da sua morte, incluindo documentos, com excepção das armas de caça, e pelos documentos depositados em seu nome no Banco Coutts & Co., de Londres. A Fundação disporá ainda de quaisquer outros bens que venha a adquirir, no futuro, a título gratuito ou oneroso.
+Art. 4.º - 1. O património da Fundação será constituído por todos os bens da testadora sitos em Portugal no momento da sua morte, incluindo documentos, com excepção das armas de caça, e pelos documentos depositados em seu nome no Banco Coutts & Co., de Londres. A Fundação disporá ainda de quaisquer outros bens que venha a adquirir, no futuro, a título gratuito ou oneroso.
 
 2. Os documentos depositados no Banco Coutts & Co., de Londres, não poderão ser transferidos para Portugal nem publicados antes do dia 1 de Janeiro do ano 2000. Os demais documentos devem ficar arquivados na Fundação e o seu destino será oportunamente fixado pela direcção da Fundação, com a aprovação do Ministro da Saúde e Assistência.
 
-###### Art. 5.º - 1. Constituem encargos da Fundação:
+Art. 5.º - 1. Constituem encargos da Fundação:
 
 a) O pagamento das reformas e pensões que, à data da sua morte, a fundadora estava a pagar e cujo montante anual e actual é de 52508$00;
 
@@ -108,12 +112,12 @@ c) O pagamento ao actual e futuros chefes da família de Bragança de 50 por cen
 
 2. No caso de não haver chefe da família de Bragança, cessa o encargo estabelecido na alínea c).
 
-###### Art. 6.º A Fundação poderá adquirir livremente os bens necessários à instalação da sua sede, dependências e instituições de caridade, bem como os que forem considerados de interesse a uma aplicação mais produtiva ou menos aleatória dos valores do seu património.
+Art. 6.º A Fundação poderá adquirir livremente os bens necessários à instalação da sua sede, dependências e instituições de caridade, bem como os que forem considerados de interesse a uma aplicação mais produtiva ou menos aleatória dos valores do seu património.
 
-###### Art. 7.º A Fundação fica desde já isenta de contribuições e impostos, nos termos da lei geral, sem dependência de o requerer.
+Art. 7.º A Fundação fica desde já isenta de contribuições e impostos, nos termos da lei geral, sem dependência de o requerer.
 
-###### Art. 8.º A Fundação rege-se em tudo o mais pelas leis gerais, devendo a sua constituição efectivar-se pela aprovação dos respectivos estatutos.
+Art. 8.º A Fundação rege-se em tudo o mais pelas leis gerais, devendo a sua constituição efectivar-se pela aprovação dos respectivos estatutos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/625-1970-146573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bfab6013ea47ee9da79d562c6989276e440bfacebf4019b4d2218aadf041b2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6766b2c0b19716ca48a4f650a44ff7a280851aa6c702c07bf95f934e569cde45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141005:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:52Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +96,14 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 38.º da Organização dos Serviços da Guarda Fiscal, aprovada pelo [Decreto n.º 44347](https://diariodarepublica.pt/dr/detalhe/decreto/44347-1962-141005), de 14 de Maio de 1962, passa a ter a seguinte redacção:
+Artigo único. O artigo 38.º da Organização dos Serviços da Guarda Fiscal, aprovada pelo [Decreto n.º 44347](https://diariodarepublica.pt/dr/detalhe/decreto/44347-1962-141005), de 14 de Maio de 1962, passa a ter a seguinte redacção:
 
-###### Art. 38.º Os concursos para promoção aos postos de cabo, de subchefe, de chefe de secção e de chefe-ajudante constarão de uma prova escrita, de uma prova oral e de uma prova de campo. Esta última será eliminatória, para os concorrentes que tenham obtido nela uma valorização inferior a 7 valores, e constará de duas partes, que versarão exclusivamente sobre assuntos de serviço militar, tanto teóricos como de campo, compreendidos dentro dos limites dos conhecimentos a exigir aos postos correspondentes do exército.
+Art. 38.º Os concursos para promoção aos postos de cabo, de subchefe, de chefe de secção e de chefe-ajudante constarão de uma prova escrita, de uma prova oral e de uma prova de campo. Esta última será eliminatória, para os concorrentes que tenham obtido nela uma valorização inferior a 7 valores, e constará de duas partes, que versarão exclusivamente sobre assuntos de serviço militar, tanto teóricos como de campo, compreendidos dentro dos limites dos conhecimentos a exigir aos postos correspondentes do exército.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Dezembro de 1970.**
+Promulgado em 3 de Dezembro de 1970.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.

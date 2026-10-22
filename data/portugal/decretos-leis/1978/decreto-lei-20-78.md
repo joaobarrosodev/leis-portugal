@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 17/1978, 1º Suplemento, Série I de 1978-01-20
   number: '17'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 214-(1) a 214-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01701/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1978-165009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9650e7adacc7cc29b61e27da7712d8f2b930422053a9537d7dd148e0e5026da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e087f10c304f919d486c9d117f85fb7f61ebbf4fabdea80357cd84263e481a98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade Pública
+- Despesas Públicas
+- Gestão Orçamental
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:332190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586022:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332190:por
+  label: Revogado pelo(a) Decreto-Lei n.º 75-A/78 - Diário da República n.º 96/1978, 1º Suplemento, Série I de 1978-04-26,
+    a partir da respetiva entrada em vigor.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-a-1978-332190
+  date: '1978-04-26'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:17Z'
   warnings: []
   errors: []
 ---
@@ -145,14 +163,14 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 1978.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 19 de Janeiro de 1978.**
+Promulgado em 19 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 20/78, de 20 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/01701/00010002.pdf))](https://files.diariodarepublica.pt/1s/1978/01/01701/00010002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/01701/00010002.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

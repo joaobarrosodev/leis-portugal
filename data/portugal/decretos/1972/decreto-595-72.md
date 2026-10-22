@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 302/1972, 1º Suplemento, Série I de 1972-12-30
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2144-(1) a 2144-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/595-1972-163660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 926dbd5f719aaf95d6770fad0642a849e9a316059cf8defa48f6dcaa0adb0bbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 334761ed855d71b29a733a3cb26486a7026a842d91fafde58e5f51773729b687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,138 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:159332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685198:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684836:por
+  label: "Rectificado o mapa XXI pela RECT.DD311.15.02.1973.PC, DG.IS [39] de 15.02.1973\0\0"
+  source: null
+  date: '1973-02-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:53Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +231,7 @@ Quanto à defesa, inscrevem-se no orçamento mais 500000 contos destinados às �
 
 4. Dentro da orientação acima exposta e de harmonia com os preceitos constitucionais, o orçamento para 1973 apresenta-se deste modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 5. O facto de, ainda recentemente, terem sido objecto de análise detalhada as tendências gerais da evolução conjuntural - relatórios que antecederam a apresentação das contas gerais do Estado de 1971 e a proposta de lei de autorização das receitas e despesas para 1973 - torna agora dispensável a sua repetição. Na medida, porém, em que a situação conjuntural então exposta não podia deixar de ser tomada em linha de conta na organização do orçamento para o próximo ano, dela sublinharemos aqui alguns aspectos essenciais.
 
@@ -140,7 +261,7 @@ A justificação para o amplo acréscimo que se verifica deve encontrar-se, fund
 
 7. A distribuição pelos vários capítulos em que presentemente se classificam as receitas ordinárias, correntes e de capital, das previsões feitas para o novo ano económico, e a sua comparação com os valores correspondentes à gerência de 1972 podem observar-se no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 8. Em 1973 registam-se previsões mais avultadas na maioria dos capítulos em que se subdividem os rendimentos ordinários. Pelo seu montante evidencia-se a progressão que se antevê para os «Impostos indirectos», com mais 2669100 contos que em 1972, bastante superior à apurada nos «Impostos directos», acrescidos apenas de 1614900 contos, em comparação com a gerência antecedente.
 
@@ -234,7 +355,7 @@ Despesa ordinária
 
 O mapa seguinte evidencia os aumentos dos últimos anos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 Este resultado deriva, como já se referiu, de se terem aproximado das cobranças efectuadas até agora as estimativas da receita para o próximo ano, embora sem se descurarem as medidas de prudência aconselháveis.
 
@@ -246,7 +367,7 @@ De qualquer forma, terá de se estar atento aos gastos, que não hão-de fazer-s
 
 (Em milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 A análise do referido mapa revela que o aumento que onera, efectivamente, as receitas gerais do Estado se cifra em 3956800 contos, pois 475400 contos têm contrapartida noutras receitas.
 
@@ -368,13 +489,13 @@ Da evolução que têm tido as despesas extraordinárias, comparando-a com a res
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 35. As despesas extraordinárias orçamentadas para 1973, no total de 17098,8 milhares de contos, têm a seguinte distribuição, por Ministérios:
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 Como se verifica pelo quadro anterior, o maior aumento regista-se no Ministério do Ultramar (+882,4 milhares de contos), sendo também relevantes os acréscimos nos Ministérios da Economia (+659,4 milhares de contos), das Obras Públicas (+590,8 milhares de contos) e da Educação Nacional (+500000 contos), além do que se apura no orçamento de Encargos Gerais da Nação (+215,7 milhares de contos).
 
@@ -386,7 +507,7 @@ Despesa extraordinária com a defesa nacional e segurança
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 Revela o mapa anterior um acréscimo de 132,4 milhares de contos em relação ao orçamento do ano anterior.
 
@@ -426,7 +547,7 @@ Despesas extraordinárias com o III Plano de Fomento, por sectores, segundo o pr
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 38. Do confronto entre os totais do quadro anterior ressalta o maior incremento dado no orçamento para 1973 às verbas atribuídas à «Educação, investigação e formação profissional», à «Habitação», à «Agricultura, silvicultura e pecuária», ao «Turismo», aos «Circuitos de distribuição» e às «Províncias ultramarinas».
 
@@ -466,7 +587,7 @@ Despesa extraordinária com o III Plano de Fomento
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 40. No sector das «Outras despesas extraordinárias» pode dizer-se que se mantém em 1973 o montante global orçamentado para o ano anterior, mas com a seguinte distribuição por Ministérios:
 
@@ -474,7 +595,7 @@ Outras despesas extraordinárias
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 As principais diferenças registam-se nos Ministérios das Finanças, das Obras Públicas e do Ultramar.
 
@@ -582,11 +703,11 @@ E exigem-no as condições da conjuntura, a impor que se limitem tanto quanto po
 
 44. O Ministério das Finanças será, por ambas as razões apontadas, particularmente rigoroso no exercício de 1973 e espera a compreensão e a colaboração de todos os restantes departamentos por forma que, administrando-se bem os dinheiros do Estado e fazendo-se as economias ao alcance de cada um, se torne viável ir em 1974 bem mais longe do que, com alguma ousadia, se vai já em 1973.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.
 
 Do I ao XXXII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 Em execução da [Lei n.º 6/72](https://diariodarepublica.pt/dr/detalhe/lei/6-1972-186147), de 27 de Dezembro;
 
@@ -596,27 +717,27 @@ I
 
 Equilíbrio financeiro
 
-###### Artigo 1.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1973 são avaliados em 43620675036$00, sendo 33564380036$00 de receitas ordinárias e 10056295000$00 de receitas extraordinárias, conforme o mapa n.º 1 que faz parte do presente decreto.
+Artigo 1.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1973 são avaliados em 43620675036$00, sendo 33564380036$00 de receitas ordinárias e 10056295000$00 de receitas extraordinárias, conforme o mapa n.º 1 que faz parte do presente decreto.
 
-###### Art. 2.º São fixadas as despesas ordinárias e extraordinárias do Estado na metrópole para o ano de 1973 na quantia de 43596844558$00, sendo as ordinárias de 26498039558$00 e as extraordinárias de 17098805000$00, conforme o mapa n.º 2 que faz parte do presente decreto.
+Art. 2.º São fixadas as despesas ordinárias e extraordinárias do Estado na metrópole para o ano de 1973 na quantia de 43596844558$00, sendo as ordinárias de 26498039558$00 e as extraordinárias de 17098805000$00, conforme o mapa n.º 2 que faz parte do presente decreto.
 
-###### Art. 3.º As receitas dos serviços autónomos, constantes do mapa n.º 3 que faz parte do presente decreto, são avaliadas no ano de 1973 na quantia total de 2763318620$00, e em igual importância são fixadas as despesas dos mesmos serviços.
+Art. 3.º As receitas dos serviços autónomos, constantes do mapa n.º 3 que faz parte do presente decreto, são avaliadas no ano de 1973 na quantia total de 2763318620$00, e em igual importância são fixadas as despesas dos mesmos serviços.
 
 II
 
 Disposições tributárias
 
-###### Art. 4.º Continua suspensa no ano económico de 1973, e enquanto as condições do Tesouro o permitirem, a cobrança do imposto de salvação pública, criado pelo [Decreto n.º 15466](https://diariodarepublica.pt/dr/detalhe/decreto/15466-1928-592307), de 14 de Maio de 1928, e que era arrecadado em harmonia com o disposto no [Decreto n.º 30255](https://diariodarepublica.pt/dr/detalhe/decreto/30255-1940-189315), de 6 de Janeiro de 1940.
+Art. 4.º Continua suspensa no ano económico de 1973, e enquanto as condições do Tesouro o permitirem, a cobrança do imposto de salvação pública, criado pelo [Decreto n.º 15466](https://diariodarepublica.pt/dr/detalhe/decreto/15466-1928-592307), de 14 de Maio de 1928, e que era arrecadado em harmonia com o disposto no [Decreto n.º 30255](https://diariodarepublica.pt/dr/detalhe/decreto/30255-1940-189315), de 6 de Janeiro de 1940.
 
-###### Art. 5.º Será cobrado durante o ano económico de 1973, até à adopção do respectivo regime tributário especial, o adicional de 25 por cento à taxa do imposto sobre espectáculos cinematográficos a que se refere a alínea b) do artigo 2.º do [Decreto n.º 14396](https://diariodarepublica.pt/dr/detalhe/decreto/14396-1927-676994), de 10 de Outubro de 1927, e 10 por cento à taxa do imposto sobre espectáculos referidos na alínea a) do artigo 2.º do citado decreto.
+Art. 5.º Será cobrado durante o ano económico de 1973, até à adopção do respectivo regime tributário especial, o adicional de 25 por cento à taxa do imposto sobre espectáculos cinematográficos a que se refere a alínea b) do artigo 2.º do [Decreto n.º 14396](https://diariodarepublica.pt/dr/detalhe/decreto/14396-1927-676994), de 10 de Outubro de 1927, e 10 por cento à taxa do imposto sobre espectáculos referidos na alínea a) do artigo 2.º do citado decreto.
 
-###### Art. 6.º As taxas do artigo 2 da Tabela Geral do Imposto do Selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e, bem assim, o emolumento a que se refere o artigo 29.º do Regulamento do Serviço e Operações das Bolsas de Fundos Públicos e Particulares e Outros Papéis de Crédito, de 10 de Outubro de 1901, a cobrar sobre os títulos cujo valor seja modificado por virtude de aumento do capital, incidem apenas sobre a importância do aumento realizado, qualquer que seja a forma utilizada na materialização desse aumento.
+Art. 6.º As taxas do artigo 2 da Tabela Geral do Imposto do Selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e, bem assim, o emolumento a que se refere o artigo 29.º do Regulamento do Serviço e Operações das Bolsas de Fundos Públicos e Particulares e Outros Papéis de Crédito, de 10 de Outubro de 1901, a cobrar sobre os títulos cujo valor seja modificado por virtude de aumento do capital, incidem apenas sobre a importância do aumento realizado, qualquer que seja a forma utilizada na materialização desse aumento.
 
 III
 
 Garantias do equilíbrio
 
-###### Art. 7.º - 1. Em 1973 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
+Art. 7.º - 1. Em 1973 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
 
 a) De valor até 120000$00;
 
@@ -630,15 +751,15 @@ c) De encargos fixos mensais ou que se vençam em data certa.
 
 4. Nos serviços com orçamentos próprios a competência designada no número anterior pertence à entidade que aprovar o respectivo orçamento, sem necessidade de intervenção da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 8.º São mantidas no ano económico de 1973 as autorizações concedidas pelo [Decreto-Lei n.º 32980](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32980-1943-399832), de 20 de Agosto de 1943, reduzindo-se a três o número de duodécimos a adiantar.
+Art. 8.º São mantidas no ano económico de 1973 as autorizações concedidas pelo [Decreto-Lei n.º 32980](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32980-1943-399832), de 20 de Agosto de 1943, reduzindo-se a três o número de duodécimos a adiantar.
 
-###### Art. 9.º - 1. De harmonia com os compromissos internacionais e para ocorrer a exigências de defesa militar, é elevada em 260000 contos a importância corrigida pelo artigo 9.º do [Decreto n.º 612/71](https://diariodarepublica.pt/dr/detalhe/decreto/612-1971-649719), de 30 de Dezembro.
+Art. 9.º - 1. De harmonia com os compromissos internacionais e para ocorrer a exigências de defesa militar, é elevada em 260000 contos a importância corrigida pelo artigo 9.º do [Decreto n.º 612/71](https://diariodarepublica.pt/dr/detalhe/decreto/612-1971-649719), de 30 de Dezembro.
 
 2. Para os referidos fins e de acordo com o artigo 25.º e seu § único da [Lei n.º 2050](https://diariodarepublica.pt/dr/detalhe/lei/2050-1951-593972), de 27 de Dezembro de 1951, a verba inscrita no orçamento para 1973 poderá ser reforçada com a importância destinada ao mesmo objectivo e não despendida durante as gerências anteriores.
 
-###### Art. 10.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
+Art. 10.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
 
-###### Art. 11.º Com vista ao equilíbrio das contas e ao regular provimento da tesouraria, fica ainda o Ministro das Finanças, durante o ano de 1973, autorizado a:
+Art. 11.º Com vista ao equilíbrio das contas e ao regular provimento da tesouraria, fica ainda o Ministro das Finanças, durante o ano de 1973, autorizado a:
 
 a) Reduzir ou suspender as dotações orçamentais;
 
@@ -650,7 +771,7 @@ IV
 
 Disposições especiais
 
-###### Art. 12.º Continua suspensa a execução dos seguintes decretos:
+Art. 12.º Continua suspensa a execução dos seguintes decretos:
 
 N.º 12600, de 1 de Novembro de 1926;
 
@@ -660,99 +781,99 @@ N.º 17062, de 3 de Junho de 1929;
 
 N.º 22002, de 19 de Dezembro de 1932.
 
-###### Art. 13.º prorrogado até 31 de Dezembro de 1973 o disposto no [Decreto-Lei n.º 40049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40049-1955-539605), de 29 de Janeiro de 1955.
+Art. 13.º prorrogado até 31 de Dezembro de 1973 o disposto no [Decreto-Lei n.º 40049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40049-1955-539605), de 29 de Janeiro de 1955.
 
-###### Art. 14.º - 1. As dotações orçamentais relativas à investigação só poderão ser aplicadas de harmonia com planos aprovados pelo respectivo Ministro, depois de obtido o parecer favorável da Junta Nacional de Investigação Científica e Tecnológica.
+Art. 14.º - 1. As dotações orçamentais relativas à investigação só poderão ser aplicadas de harmonia com planos aprovados pelo respectivo Ministro, depois de obtido o parecer favorável da Junta Nacional de Investigação Científica e Tecnológica.
 
 2. As respectivas alterações orçamentais carecem também do parecer favorável da Junta Nacional de Investigação Científica e Tecnológica, a obter pelos Serviços, antes da remessa do processo à respectiva Repartição de Contabilidade Pública.
 
-###### Art. 15.º As dotações inscritas no Orçamento Geral do Estado para execução do III Plano de Fomento não poderão ser aplicadas, no ano de 1973, sem o seu desenvolvimento e justificação em planos de trabalho devidamente aprovados e visados.
+Art. 15.º As dotações inscritas no Orçamento Geral do Estado para execução do III Plano de Fomento não poderão ser aplicadas, no ano de 1973, sem o seu desenvolvimento e justificação em planos de trabalho devidamente aprovados e visados.
 
-###### Art. 16.º Os juros do empréstimo consolidado dos Centenários de 4 por cento, 1940, correspondentes ao 1.º e 2.º semestres de 1973 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1204635100$00 serão pagos em conta das dotações inscritas no orçamento para 1973 para pagamento da dívida externa.
+Art. 16.º Os juros do empréstimo consolidado dos Centenários de 4 por cento, 1940, correspondentes ao 1.º e 2.º semestres de 1973 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1204635100$00 serão pagos em conta das dotações inscritas no orçamento para 1973 para pagamento da dívida externa.
 
-###### Art. 17.º No ano de 1973 poderá o Ministro das Finanças conceder à Comissão dos Explosivos, por conta da verba inscrita no artigo 508.º, capitulo 12.º, do orçamento de Encargos Gerais da Nação, créditos permanentes até à importância de dois duodécimos.
+Art. 17.º No ano de 1973 poderá o Ministro das Finanças conceder à Comissão dos Explosivos, por conta da verba inscrita no artigo 508.º, capitulo 12.º, do orçamento de Encargos Gerais da Nação, créditos permanentes até à importância de dois duodécimos.
 
-###### Art. 18.º - 1. As dotações inscritas na despesa extraordinária do orçamento de Encargos Gerais da Nação respeitantes a encargos subordinados à designação «Forças militares extraordinárias no ultramar» serão distribuídas pelo Ministro da Defesa Nacional aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
+Art. 18.º - 1. As dotações inscritas na despesa extraordinária do orçamento de Encargos Gerais da Nação respeitantes a encargos subordinados à designação «Forças militares extraordinárias no ultramar» serão distribuídas pelo Ministro da Defesa Nacional aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
 
 2. As respectivas despesas realizar-se-ão no regime estabelecido pelo [Decreto-Lei n.º 31286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31286-1941-329246), de 28 de Maio de 1941, e estão sujeitas, na parte aplicável, às disposições da [Portaria n.º 13816](https://diariodarepublica.pt/dr/detalhe/portaria/13816-1952-602522), de 24 de Janeiro de 1952.
 
 3. A classificação e a realização das despesas não carecem, porém, do visto do Ministro das Finanças quando, relativas a obras ou aquisições, tenham lugar segundo os preceitos normais estabelecidos pelos Decretos-Leis n.os 41375 e 48234, respectivamente de 19 de Novembro de 1957 e 31 de Janeiro de 1968.
 
-###### Art. 19.º - 1. Os funcionários do quadro da Direcção-Geral do Tribunal de Contas contratados, ao abrigo do artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948, para o desempenho de funções em categoria superior manterão os seus anteriores direitos e regalias.
+Art. 19.º - 1. Os funcionários do quadro da Direcção-Geral do Tribunal de Contas contratados, ao abrigo do artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948, para o desempenho de funções em categoria superior manterão os seus anteriores direitos e regalias.
 
 2. Na satisfação dos encargos resultantes dos contratos a que se refere este artigo poderão ser utilizadas, além da dotação especialmente inscrita para tal fim, as disponibilidades da verba orçamental destinada ao pagamento de vencimentos do pessoal do quadro.
 
-###### Art. 20.º À Fundação Ricardo Espírito Santo Silva, aproveitando os seus técnicos e as suas oficinas da especialidade, serão atribuídas, enquanto não se publicar regulamento pela Direcção-Geral da Fazenda Pública, sob a superintendência desta, as funções previstas no artigo 14.º da [Lei n.º 2067](https://diariodarepublica.pt/dr/detalhe/lei/2067-1953-649973), de 28 de Dezembro de 1953.
+Art. 20.º À Fundação Ricardo Espírito Santo Silva, aproveitando os seus técnicos e as suas oficinas da especialidade, serão atribuídas, enquanto não se publicar regulamento pela Direcção-Geral da Fazenda Pública, sob a superintendência desta, as funções previstas no artigo 14.º da [Lei n.º 2067](https://diariodarepublica.pt/dr/detalhe/lei/2067-1953-649973), de 28 de Dezembro de 1953.
 
-###### Art. 21.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba de «Despesas de anos findos», descrita no orçamento do Ministério das Finanças para o ano de 1973, os encargos respeitantes a anos findos provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
+Art. 21.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba de «Despesas de anos findos», descrita no orçamento do Ministério das Finanças para o ano de 1973, os encargos respeitantes a anos findos provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
 
-###### Art. 22.º São dispensados das formalidades legais que orientam o pagamento de despesas de anos findos os encargos a satisfazer em conta da verba inscrita na alínea 1. do n.º 1) do artigo 310.º, capitulo 20.º, do orçamento do Ministério das Finanças.
+Art. 22.º São dispensados das formalidades legais que orientam o pagamento de despesas de anos findos os encargos a satisfazer em conta da verba inscrita na alínea 1. do n.º 1) do artigo 310.º, capitulo 20.º, do orçamento do Ministério das Finanças.
 
-###### Art. 23.º No ano económico de 1973, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pelas dotações inscritas nos artigos 229.º, n.º 2), e 231.º, n.º 2), do capítulo 9.º do orçamento do mesmo Ministério.
+Art. 23.º No ano económico de 1973, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pelas dotações inscritas nos artigos 229.º, n.º 2), e 231.º, n.º 2), do capítulo 9.º do orçamento do mesmo Ministério.
 
-###### Art. 24.º As compensações previstas na parte final do § 1.º do artigo 35.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, serão abonadas por conta da dotação própria inscrita no orçamento para esse fim e pelas disponibilidades da respectiva rubrica tipificada.
+Art. 24.º As compensações previstas na parte final do § 1.º do artigo 35.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, serão abonadas por conta da dotação própria inscrita no orçamento para esse fim e pelas disponibilidades da respectiva rubrica tipificada.
 
-###### Art. 25.º - 1. É acrescido no ano de 1973 com 30000000$00 o limite do subsídio ordinário legalmente estabelecido para a Junta Autónoma de Estradas.
+Art. 25.º - 1. É acrescido no ano de 1973 com 30000000$00 o limite do subsídio ordinário legalmente estabelecido para a Junta Autónoma de Estradas.
 
 2. Deste quantitativo, 10000000$00 são especialmente consignados à conservação corrente das estradas nacionais.
 
-###### Art. 26.º Continua suspenso no ano económico de 1973 o subsídio que se concedia à Companhia Nacional de Navegação, nos termos do [Decreto n.º 12438](https://diariodarepublica.pt/dr/detalhe/decreto/12438-1926-159332), de 7 de Outubro de 1926.
+Art. 26.º Continua suspenso no ano económico de 1973 o subsídio que se concedia à Companhia Nacional de Navegação, nos termos do [Decreto n.º 12438](https://diariodarepublica.pt/dr/detalhe/decreto/12438-1926-159332), de 7 de Outubro de 1926.
 
-###### Art. 27.º Na utilização das verbas inscritas no capítulo 1.º do orçamento do Ministério do Ultramar, quando destinadas às despesas relacionadas com viagens do Ministro e Secretários de Estado às províncias ultramarinas, são aplicáveis as normas contidas nos artigos 3.º a 6.º do [Decreto-Lei n.º 39642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39642-1954-635180), de 10 de Maio de 1954.
+Art. 27.º Na utilização das verbas inscritas no capítulo 1.º do orçamento do Ministério do Ultramar, quando destinadas às despesas relacionadas com viagens do Ministro e Secretários de Estado às províncias ultramarinas, são aplicáveis as normas contidas nos artigos 3.º a 6.º do [Decreto-Lei n.º 39642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39642-1954-635180), de 10 de Maio de 1954.
 
-###### Art. 28.º A comparticipação da Faculdade de Medicina da Universidade de Lisboa nas despesas do Hospital de Santa Maria só se pode efectivar em face do plano de encargos aprovado pelos Ministros das Finanças, da Educação Nacional e da Saúde e Assistência.
+Art. 28.º A comparticipação da Faculdade de Medicina da Universidade de Lisboa nas despesas do Hospital de Santa Maria só se pode efectivar em face do plano de encargos aprovado pelos Ministros das Finanças, da Educação Nacional e da Saúde e Assistência.
 
-###### Art. 29.º Para ocorrer às despesas com a pequena conservação eventual e urgente dos edifícios das escolas e cantinas construídas ao abrigo do Plano dos Centenários e do plano de construções estabelecido pela [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, poderão ser autorizados fundos permanentes por importâncias superiores às do duodécimo da respectiva dotação inscrita no orçamento do Ministério da Educação Nacional.
+Art. 29.º Para ocorrer às despesas com a pequena conservação eventual e urgente dos edifícios das escolas e cantinas construídas ao abrigo do Plano dos Centenários e do plano de construções estabelecido pela [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, poderão ser autorizados fundos permanentes por importâncias superiores às do duodécimo da respectiva dotação inscrita no orçamento do Ministério da Educação Nacional.
 
-###### Art. 30.º - 1. As dotações para despesas com servidores do Estado consignadas às escolas preparatórias no orçamento de despesa ordinária do Ministério da Educação Nacional para o ano de 1973 serão utilizadas por cada uma das aludidas escolas de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que efectivamente estiver em exercício, sendo as respectivas informações de cabimento prestadas pelo competente serviço central.
+Art. 30.º - 1. As dotações para despesas com servidores do Estado consignadas às escolas preparatórias no orçamento de despesa ordinária do Ministério da Educação Nacional para o ano de 1973 serão utilizadas por cada uma das aludidas escolas de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que efectivamente estiver em exercício, sendo as respectivas informações de cabimento prestadas pelo competente serviço central.
 
 2. Procedimento idêntico se observará, também, no ano de 1973, em relação aos liceus, escolas do ensino técnico profissional, escolas primárias, postos escolares e cursos de educação de adultos.
 
-###### Art. 31.º - 1. As distribuições das dotações comuns atribuídas nas respectivas separatas a liceus, escolas técnicas, escolas preparatórias, serviços do ensino primário e escolas do ensino primário serão objecto de despacho do Ministro da Educação Nacional, mediante propostas apresentadas pelos directores-gerais para o efeito designados mediante prévios despachos ministeriais.
+Art. 31.º - 1. As distribuições das dotações comuns atribuídas nas respectivas separatas a liceus, escolas técnicas, escolas preparatórias, serviços do ensino primário e escolas do ensino primário serão objecto de despacho do Ministro da Educação Nacional, mediante propostas apresentadas pelos directores-gerais para o efeito designados mediante prévios despachos ministeriais.
 
 2. Iguais formalidades se observarão em relação a dotações globais inscritas para instalação e funcionamento no decorrer do ano de 1973.
 
-###### Art. 32.º - 1. As dotações consignadas no orçamento do Ministério da Educação Nacional à «Educação e investigação ligadas ao ensino» só poderão ter aplicação de harmonia com planos de distribuição prèviamente aprovados pelo Ministro da Educação Nacional.
+Art. 32.º - 1. As dotações consignadas no orçamento do Ministério da Educação Nacional à «Educação e investigação ligadas ao ensino» só poderão ter aplicação de harmonia com planos de distribuição prèviamente aprovados pelo Ministro da Educação Nacional.
 
 2. Dos planos constarão as estações processadoras da despesa, devendo dos mesmos, após a sua aprovação, ser remetidas cópias autênticas ao Tribunal de Contas e à 10.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 33.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer de conta da verba de «Combate à peste suína (estirpe L), incluindo indemnizações», descrita na alínea 1, n.º 1), artigo 451.º, capítulo 24.º, do orçamento do Ministério da Economia para 1973, os encargos respeitantes a anos findos provenientes de indemnizações resultantes do combate à peste suína.
+Art. 33.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer de conta da verba de «Combate à peste suína (estirpe L), incluindo indemnizações», descrita na alínea 1, n.º 1), artigo 451.º, capítulo 24.º, do orçamento do Ministério da Economia para 1973, os encargos respeitantes a anos findos provenientes de indemnizações resultantes do combate à peste suína.
 
-###### Art. 34.º No ano de 1973 poderá o Ministro das Finanças conceder à Direcção-Geral dos Serviços Pecuários, por conta da verba inscrita na alínea 2 do n.º 1) do artigo 451.º, capítulo 24.º, do orçamento do Ministério da Economia, um crédito permanente até à importância de dois duodécimos.
+Art. 34.º No ano de 1973 poderá o Ministro das Finanças conceder à Direcção-Geral dos Serviços Pecuários, por conta da verba inscrita na alínea 2 do n.º 1) do artigo 451.º, capítulo 24.º, do orçamento do Ministério da Economia, um crédito permanente até à importância de dois duodécimos.
 
-###### Art. 35.º - 1. As dotações destinadas a suportar encargos da mesma natureza comuns aos tribunais do trabalho do continente no orçamento da despesa ordinária do Ministério das Corporações e Previdência Social no ano de 1973, com excepção das relativas a vencimentos, serão distribuídas mediante plano aprovado pelos Ministros das Finanças e das Corporações e Previdência Social e aplicadas por cada um dos aludidos tribunais, sem observância do disposto no § 2.º do artigo 13.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
+Art. 35.º - 1. As dotações destinadas a suportar encargos da mesma natureza comuns aos tribunais do trabalho do continente no orçamento da despesa ordinária do Ministério das Corporações e Previdência Social no ano de 1973, com excepção das relativas a vencimentos, serão distribuídas mediante plano aprovado pelos Ministros das Finanças e das Corporações e Previdência Social e aplicadas por cada um dos aludidos tribunais, sem observância do disposto no § 2.º do artigo 13.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
 2. A informação de cabimento nos diplomas de provimento de magistrados e funcionários de justiça dos mencionados tribunais será prestada pela Inspecção-Geral dos Tribunais do Trabalho.
 
-###### Art. 36.º Este decreto entra em vigor em 1 de Janeiro de 1973.
+Art. 36.º Este decreto entra em vigor em 1 de Janeiro de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 30 de Dezembro de 1972.**
+Promulgado em 30 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 N.º 1
 
 Mapa da receita ordinária e extraordinária do Estado, na metrópole, para o ano económico de 1973, a que se refere o decreto desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
 RESUMO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
-**O Ministro das Finanças, Manuel Cotta Dias.**
+O Ministro das Finanças, Manuel Cotta Dias.
 
 N.º 2
 
 Mapa da despesa ordinária e extraordinária do Estado, na metrópole, para o ano económico de 1973, a que se refere o decreto desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30201/00010073.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.
 
 N.º 3
 
@@ -790,4 +911,4 @@ Despesa de administração e assistência ... 2005901620$00
 
 ... 2763318620$00
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

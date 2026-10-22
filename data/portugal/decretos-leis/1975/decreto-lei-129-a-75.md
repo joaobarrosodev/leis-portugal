@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 61/1975, 1º Suplemento, Série I de 1975-03-13
   number: '61'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 390-(1) a 390-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06101/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-a-1975-601990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52b2ddd5ce32ea209fd7c0c341cd456e3aa2c970b0ddeea801071b26e7ab4ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed117701bbcac4b89a8d826cc2f6a4c655865adad784a5a4ed7c7263bdac2b69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Junta de Salvação Nacional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:175813:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:33Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Os poderes atribuídos à Junta de Salvação Nacional pela [Lei n.º 3/75](http
 
 Assim, nos termos do disposto no artigo 2.º da lei referida, a Junta de Salvação Nacional decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os Serviços Executivos da Junta de Salvação Nacional são constituídos pelos seguintes serviços:
+Artigo 1.º - 1. Os Serviços Executivos da Junta de Salvação Nacional são constituídos pelos seguintes serviços:
 
 a) Serviço de Desmantelamento e Liquidação;
 
@@ -112,7 +124,7 @@ e) Serviço de Administração e Apoio.
 
 5. O pessoal civil será contratado directamente em regime de prestação eventual de serviços, sendo os respectivos encargos suportados por verbas próprias.
 
-###### Art. 2.º - 1. Ao Serviço de Desmantelamento e Liquidação compete:
+Art. 2.º - 1. Ao Serviço de Desmantelamento e Liquidação compete:
 
 a) A direcção e a coordenação das actividades relacionadas com o desmantelamento e a extinção dos organismos referidos nos n.os 1.º e 2.º do artigo 1.º da [Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/lei/3-1975-175813), de 19 de Fevereiro;
 
@@ -122,7 +134,7 @@ c) A promoção do apuramento de responsabilidades para julgamento dos indivídu
 
 2. A liquidação do património dos organismos extintos será executada por comissões liquidatárias, para o efeito nomeadas pelo Governo.
 
-###### Art. 3.º - 1. Ao Serviço de Saneamento compete:
+Art. 3.º - 1. Ao Serviço de Saneamento compete:
 
 a) A coordenação das medidas adoptadas para cumprimento da atribuição conferida pelo n.º 6.º do artigo 1.º da [Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/lei/3-1975-175813);
 
@@ -132,7 +144,7 @@ c) Estabelecer o impedimento temporário do acesso à função pública para os 
 
 2. O cargo de director do Serviço de Saneamento será desempenhado em acumulação pelo oficial nomeado para presidente da Comissão Interministerial de Saneamento e Reclassificação.
 
-###### Art. 4.º - 1. Ao Serviço de Vigilância Económica e Social compete:
+Art. 4.º - 1. Ao Serviço de Vigilância Económica e Social compete:
 
 a) A vigilância, contrôle e intervenção referidos no n.º 7.º do artigo 1.º da [Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/lei/3-1975-175813);
 
@@ -142,7 +154,7 @@ c) A proposta de adopção de medidas para assegurar a tranquilidade pública, n
 
 2. As comissões ou delegados nomeados pela Junta de Salvação Nacional para inquéritos, averiguações, análises e sindicâncias, dentro dos campos de actividade cobertos pelos n.os 7.º, 8.º e 9.º do artigo 1.º da [Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/lei/3-1975-175813), gozarão das prerrogativas comuns de agentes da polícia judiciária militar e inspectores de economia e finanças.
 
-###### Art. 5.º - 1. Ao Serviço de Informações compete:
+Art. 5.º - 1. Ao Serviço de Informações compete:
 
 a) A recolha e a análise das informações necessárias ao desempenho das tarefas que competem à Junta de Salvação Nacional e, em especial, às que lhe foram conferidas pela [Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/lei/3-1975-175813), de 19 de Fevereiro;
 
@@ -152,7 +164,7 @@ c) A difusão de notícias ou relatórios de informações pelos serviços da Ju
 
 2. O Serviço de Informações disporá de um departamento técnico e um departamento administrativo privativos destinados a satisfazer as suas necessidades especializadas.
 
-###### Art. 6.º - 1. Ao Serviço de Administração e Apoio compete, de uma maneira geral, prestar os apoios técnico, administrativo e logístico necessários ao cabal desempenho das actividades dos serviços executivos da Junta de Salvação Nacional.
+Art. 6.º - 1. Ao Serviço de Administração e Apoio compete, de uma maneira geral, prestar os apoios técnico, administrativo e logístico necessários ao cabal desempenho das actividades dos serviços executivos da Junta de Salvação Nacional.
 
 2. Dentro do Serviço de Administração e Apoio serão incluídas as seguintes secções:
 
@@ -170,14 +182,14 @@ f) Informações e Relações Públicas.
 
 3. O director do Serviço de Administração e Apoio será o presidente do conselho administrativo, o qual contabilizará e processará todas as verbas e contas dos Serviços Executivos da Junta.
 
-###### Art. 7.º Os Serviços Executivos da Junta de Salvação Nacional estabelecidos pelo presente diploma regular-se-ão, no que nele não estiver expressamente estatuído, por regulamentos próprios que deverão elaborar no mais curto prazo possível para serem presentes e sancionados pela Junta.
+Art. 7.º Os Serviços Executivos da Junta de Salvação Nacional estabelecidos pelo presente diploma regular-se-ão, no que nele não estiver expressamente estatuído, por regulamentos próprios que deverão elaborar no mais curto prazo possível para serem presentes e sancionados pela Junta.
 
-###### Art. 8.º O presente diploma entra imediatamente em vigor.
+Art. 8.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - António Alva Rosa Coutinho - Aníbal de Pinho Freire.
 
-**Promulgado em 13 de Março de 1975.**
+Promulgado em 13 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

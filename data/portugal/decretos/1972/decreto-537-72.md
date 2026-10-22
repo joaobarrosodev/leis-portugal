@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/537-1972-685618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 905c7b2d3776c3172d878fbb0a94b9fb4ab204a2887b6dd34d948c4348e37ff8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 917770d823315a8b6e1acc1b54263b3f6e05451ed0c74fc21c46d197b22da8f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:423001:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:15Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +98,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. De acordo com a recomendação de 7 de Junho de 1967 do Conselho de Cooperação Aduaneira, relativa à emenda da Convenção sobre o Valor Aduaneiro das Mercadorias, celebrada em Bruxelas em 15 de Dezembro de 1950, são substituídos os Anexos I e II desta Convenção. O original em francês e respectiva tradução para português dos novos Anexos I e II vão juntos ao presente decreto.
+Artigo único. De acordo com a recomendação de 7 de Junho de 1967 do Conselho de Cooperação Aduaneira, relativa à emenda da Convenção sobre o Valor Aduaneiro das Mercadorias, celebrada em Bruxelas em 15 de Dezembro de 1950, são substituídos os Anexos I e II desta Convenção. O original em francês e respectiva tradução para português dos novos Anexos I e II vão juntos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 15 de Dezembro de 1972.**
+Assinado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ANNEXE I
 
@@ -224,7 +228,7 @@ Il est recommandé que la notion de la valeur, telle qu'elle résulte de la Déf
 
 ## ANEXO I — Definição de Valor Aduaneiro
 
-ARTIGO I
+###### ARTIGO I
 
 1) Para aplicação dos direitos aduaneiros ad valorem, o valor das mercadorias importadas para consumo é o seu preço normal, isto é, o preço susceptível de ser atribuído a essas mercadorias, no momento em que os direitos aduaneiros se tornam exigíveis, no caso de uma venda efectuada em mercado livre entre um comprador e um vendedor independentes um do outro.
 
@@ -236,7 +240,7 @@ b) O vendedor suporta todas as despesas relacionadas com a venda e a entrega das
 
 c) O comprador suporta os direitos e taxas exigíveis no país de importação, os quais estão, portanto, excluídos do preço normal.
 
-ARTIGO II
+###### ARTIGO II
 
 1) Uma venda no mercado livre, entre um comprador e um vendedor independentes um do outro, pressupõe as condições seguintes:
 
@@ -248,7 +252,7 @@ a) Nenhuma parte do produto proveniente das revendas ou de outras actos de dispo
 
 2) Duas pessoas não consideradas associadas em negócios se uma delas possui um interesse qualquer nos negócios ou nos bens da outra, ou se ambas possuem um interesse comum em negócios ou bens, ou ainda se uma terceira pessoa possui um interesse nos negócios ou nos bens de cada uma delas, quer estes interesses sejam directos ou indirectos.
 
-ARTIGO III
+###### ARTIGO III
 
 Quando as mercadorias a avaliar:
 

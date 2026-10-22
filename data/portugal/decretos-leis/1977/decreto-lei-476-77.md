@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1977-280688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 274cec5e503f6cd6e9b7a4d2b5c1a42d5c32b196a1f91554209d725797131274
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56c3a792eb19cc4e2fe3b3e6d63d97f5997b0ba6e751498b753538b15aafed84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Hospitalar
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:139718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628294:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:51Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +104,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É acrescentado ao artigo 2.º do [Decreto-Lei n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1977-139718), de 2 de Abril, um n.º 3, com a redacção seguinte:
+Artigo 1.º É acrescentado ao artigo 2.º do [Decreto-Lei n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1977-139718), de 2 de Abril, um n.º 3, com a redacção seguinte:
 
 3 - A autonomia financeira a que se refere o n.º 1 do presente artigo não prejudica o direito dos funcionários hospitalares de serem beneficiários da Assistência na Doença aos Servidores Civis do Estado, prevista no [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, e [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, com dispensa das indemnizações por despesas previstas na parte final do artigo 4.º do último diploma citado.
 
-###### Art. 2.º A vigência deste diploma reporta-se à data da entrada em vigor do [Decreto-Lei n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1977-139718), de 2 de Abril.
+Art. 2.º A vigência deste diploma reporta-se à data da entrada em vigor do [Decreto-Lei n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1977-139718), de 2 de Abril.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Vítor Manuel Gomes Vasques.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

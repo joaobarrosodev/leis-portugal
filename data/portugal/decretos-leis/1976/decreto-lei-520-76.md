@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15500/14721472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1976-431407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61845d93a2577fc88ebd49eb9f243c1a70575641393b29f15e5e35cdd120f137
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdd9b8b4fe879ee59822aa208ec597a36abf8fd7c4d49cdf6775029785f0774a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orçamento Geral do Estado
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:296224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:296224:por
+  label: Revogado pelo DEC LEI.93/78.1978.05.13.MFP, DR.IS [110]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1978-296224
+  date: '1978-05-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:22Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +112,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro, com a alteração introduzida pelo artigo 1.º do [Decreto-Lei n.º 419/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1975-314445), de 29 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro, com a alteração introduzida pelo artigo 1.º do [Decreto-Lei n.º 419/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1975-314445), de 29 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1. São autorizadas por portaria referendada pelo Ministro das Finanças as transferências de verbas entre dotações de Ministérios diferentes.
+Art. 3.º - 1. São autorizadas por portaria referendada pelo Ministro das Finanças as transferências de verbas entre dotações de Ministérios diferentes.
 
 2. São autorizadas por despacho do Ministro da respectiva pasta as transferências de verbas entre dotações do mesmo Ministério, carecendo, porém, do acordo prévio do Ministro das Finanças:
 
@@ -113,16 +128,16 @@ d) Em despesa ordinária, as que alterem dotações de remunerações certas e p
 
 e) Em despesa extraordinária, as que alterem o plano orçamental das respectivas coberturas em receita.
 
-###### Art. 2.º É dispensado o acordo prévio do Ministro das Finanças nas alterações orçamentais a que se refere o artigo 4.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro.
+Art. 2.º É dispensado o acordo prévio do Ministro das Finanças nas alterações orçamentais a que se refere o artigo 4.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 419/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1975-314445), de 9 de Agosto.
+Art. 3.º É revogado o [Decreto-Lei n.º 419/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1975-314445), de 9 de Agosto.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 21 de Junho de 1976.**
+Promulgado em 21 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

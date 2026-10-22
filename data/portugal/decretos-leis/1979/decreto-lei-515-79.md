@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29800/33753376.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83677f75be91ba27d871cc72bbab4d49f64df3f092f8cc23530ef75eb5771668
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28edb9eb51bd87f3a574bb92441b5af3865f4c04c1c177942a54e480396f1337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Conselho Nacional de Segurança Social
+- Integração de Serviços
+- Integração de Trabalhadores
 relationships:
 - type: amended_by
   target: pt:dre:346485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346485:por
+  label: Revogado pelo DEC LEI.260/93.23.07.1993.MESS, DR.IS-A [171] de 23.07.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1993-346485
+  date: '1993-07-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:48Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +123,13 @@ Nesta conformidade:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o seguinte:
 
-###### Artigo 1.º - 1 - Os centros regionais de segurança social, a que se refere o artigo 19.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, adiante designados simplesmente por centros, são serviços oficiais, nos quais serão integrados os órgãos, serviços, instituições e estabelecimentos oficiais do sector.
+Artigo 1.º - 1 - Os centros regionais de segurança social, a que se refere o artigo 19.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, adiante designados simplesmente por centros, são serviços oficiais, nos quais serão integrados os órgãos, serviços, instituições e estabelecimentos oficiais do sector.
 
 2 - Esta integração é completa quando se refira às caixas de previdência e aos órgãos, serviços, instituições e estabelecimentos oficiais que não tenham autonomia administrativa ou autonomia administrativa e financeira.
 
 3 - A integração é meramente funcional quando se refira a órgãos, serviços, instituições e estabelecimentos oficiais dotados de autonomia administrativa ou autonomia administrativa e financeira.
 
-###### Art. 2.º - 1 - A integração dos órgãos, serviços, instituições e estabelecimentos em cada centro desenvolver-se-á progressivamente, de forma a evitar perturbações no seu funcionamento e prejuízos para os beneficiários.
+Art. 2.º - 1 - A integração dos órgãos, serviços, instituições e estabelecimentos em cada centro desenvolver-se-á progressivamente, de forma a evitar perturbações no seu funcionamento e prejuízos para os beneficiários.
 
 2 - Quando completa, a integração compreende a transferência para o centro:
 
@@ -114,11 +139,11 @@ b) De todos os seus bens, recursos e meios humanos e patrimoniais.
 
 3 - Quando meramente funcional, a integração traduzir-se-á no cometimento aos centros de funções de apoio, coordenação e orientação, bem como no exercício dos poderes de tutela próprios ou que pelos órgãos centrais lhes forem delegados.
 
-###### Art. 3.º - 1 - O âmbito geográfico de cada centro, correspondendo, em princípio, à área do respectivo distrito, de acordo com o estabelecido no artigo 20.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), será fixado por portaria do Secretário de Estado da Segurança Social.
+Art. 3.º - 1 - O âmbito geográfico de cada centro, correspondendo, em princípio, à área do respectivo distrito, de acordo com o estabelecido no artigo 20.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), será fixado por portaria do Secretário de Estado da Segurança Social.
 
 2 - Poderá ser definido âmbito geográfico diferente do previsto no n.º 1 deste artigo, quando existam zonas urbanas complexas, de forte densidade populacional.
 
-###### Art. 4.º - 1 - Os trabalhadores permanentes, admitidos a qualquer título nos órgãos, serviços ou instituições integrados nos centros, quando transferidos, por virtude da integração a que se referem os artigos 1.º e 2.º, mantêm o estatuto de origem, mas podem adquirir o da função pública se o requererem no prazo de trinta dias, depois de entrar em vigor o respectivo quadro de pessoal.
+Art. 4.º - 1 - Os trabalhadores permanentes, admitidos a qualquer título nos órgãos, serviços ou instituições integrados nos centros, quando transferidos, por virtude da integração a que se referem os artigos 1.º e 2.º, mantêm o estatuto de origem, mas podem adquirir o da função pública se o requererem no prazo de trinta dias, depois de entrar em vigor o respectivo quadro de pessoal.
 
 2 - Os trabalhadores que não optem pelo estatuto da função pública no prazo referido no n.º 1 manterão aquele que possuam na data da transferência.
 
@@ -126,9 +151,9 @@ b) De todos os seus bens, recursos e meios humanos e patrimoniais.
 
 4 - Durante o regime de instalação, o pessoal será admitido com inteiro respeito pelas normas de provimento para idênticas categorias da função pública.
 
-###### Art. 5.º Os bens e valores patrimoniais transferidos nos termos deste diploma constituirão património da Segurança Social e os respectivos registos serão titulados aos centros que os receberem.
+Art. 5.º Os bens e valores patrimoniais transferidos nos termos deste diploma constituirão património da Segurança Social e os respectivos registos serão titulados aos centros que os receberem.
 
-###### Art. 6.º - 1 - Constituem receitas dos centros:
+Art. 6.º - 1 - Constituem receitas dos centros:
 
 a) As transferências do Instituto de Gestão Financeira da Segurança Social;
 
@@ -150,18 +175,18 @@ c) O reembolso de contribuições;
 
 d) Os encargos de administração.
 
-###### Art. 7.º - 1 - À medida que os centros entrem em funcionamento consideram-se extintos os lugares de directores distritais de segurança social criados pelo [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.
+Art. 7.º - 1 - À medida que os centros entrem em funcionamento consideram-se extintos os lugares de directores distritais de segurança social criados pelo [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.
 
 2 - Os directores distritais cujos lugares sejam extintos regressarão aos serviços de origem, se forem funcionários públicos ou da segurança social.
 
-###### Art. 8.º Passa a denominar-se Conselho Nacional de Segurança Social o órgão de participação a que se referem os artigos 31.º e 32.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro.
+Art. 8.º Passa a denominar-se Conselho Nacional de Segurança Social o órgão de participação a que se referem os artigos 31.º e 32.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro.
 
-###### Art. 9.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro da Coordenação Social e dos Assuntos Sociais ou deste membro do Governo e do que tiver a seu cargo a Administração Pública, em conformidade com a natureza da dúvida.
+Art. 9.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro da Coordenação Social e dos Assuntos Sociais ou deste membro do Governo e do que tiver a seu cargo a Administração Pública, em conformidade com a natureza da dúvida.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

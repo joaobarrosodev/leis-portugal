@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 236/1976, 1º Suplemento, Série I de 1976-10-08
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2282-(8) a 2282-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23601/00080008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/716-e-1976-482617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2cf25ae5e05d4a8c9637557132ac8eb5993bdd3d4385de6c6dff3dd98790cae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cb76bc44e89b091378e23fae88de734a8170543a9ce5e2c1a5d5afd12c51fa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço
+- Rectificação de TIPO de Diploma
+- Regulamento de Transportes em Automóveis
+- Tarifa Geral de Transportes
+- Titulo de Transporte
+- Transporte
+- Transporte de Passageiros
+- Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:416575:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:416575:por
+  label: Revogado, a partir de 31.12.1976, pelo(a) Decreto n.º 898/76 - Diário da República n.º 302/1976, Série I de 1976-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/898-1976-416575
+  date: '1976-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:00Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +115,9 @@ Tendo em conta a conveniência de ampliar a todos os utentes os benefícios resu
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 154.º e 156.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 154.º e 156.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
 
-###### Art. 154.º Nas carreiras interurbanas haverá bilhetes simples e de assinatura.
+Art. 154.º Nas carreiras interurbanas haverá bilhetes simples e de assinatura.
 
 § 1.º Se o bilhete não for utilizado na viagem para que tiver sido adquirido, poderá ser revalidado para nova viagem a realizar até dois dias depois, mediante pagamento de uma sobretaxa de 25% sobre o seu preço.
 
@@ -105,18 +127,18 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 § 4.º O preço dos bilhetes de assinatura será fixado por portaria.
 
-###### Art. 156.º Nas carreiras urbanas os bilhetes poderão ser simples e de assinatura.
+Art. 156.º Nas carreiras urbanas os bilhetes poderão ser simples e de assinatura.
 
 § 1.º Os bilhetes de assinatura poderão ser mensais, trimestrais, semestrais ou anuais, válidos ou não para todas as carreiras do mesmo concessionário e para um número ilimitado de viagens, carecendo o respectivo modelo de aprovação da Direcção-Geral de Transportes Terrestres.
 
 § 2.º Nas carreiras concedidas pelo Ministro dos Transportes e Comunicações haverá também bilhetes de assinatura, nos termos do disposto no artigo 154.º
 
-###### Art. 2.º Até à publicação de legislação sobre o transporte escolar, continuarão a existir bilhetes para estudantes, nos termos que constavam do artigo 154.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, na redacção que lhe foi dada pelo [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, e que aqui se dão por reproduzidos.
+Art. 2.º Até à publicação de legislação sobre o transporte escolar, continuarão a existir bilhetes para estudantes, nos termos que constavam do artigo 154.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, na redacção que lhe foi dada pelo [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, e que aqui se dão por reproduzidos.
 
 Mário Soares - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Setembro de 1976.**
+Promulgado em 30 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

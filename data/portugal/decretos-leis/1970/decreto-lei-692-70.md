@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 301/1970, 1º Suplemento, Série I de 1970-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2024-(27) a 2024-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30101/00270029.pdf
 entry_into_force_dates: []
@@ -48,40 +48,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eb063915c9a1f7b771d45b00d1a4499aede3259dbbc411e128ddbc433caec49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81198a0b17f3ab5625eb58bf181f8e58c43ca63e840ca7f5dafcff08b4d55423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Orgânica
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:186543:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:238225:por
+  label: "Substituído o quadro de pessoal da direcção e chefia anexo ao presente diploma, pelo DEC.832/74.31.12.1974.SECESS-MAS,\
+    \ DG.IS [303-11ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/832-1974-238225
+  date: '1974-12-31'
+- type: amended_by
+  target: pt:dre:397371:por
+  label: "Alterado o artigo 20.º pelo DEC LEI.299/82.29.07.1982.MAS, DR.IS [173] de 29.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1982-397371
+  date: '1982-07-29'
+- type: amended_by
+  target: pt:dre:452688:por
+  label: "Aumentado o quadro de direcção e chefia da Santa Casa da Misericórdia de Lisboa, anexo ao presente diploma, pelo\
+    \ DEC.50/83.01.07.1983.MFP, DR.IS [149] de 01.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/50-1983-452688
+  date: '1983-07-01'
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Transitada para a dependência conjunta do Ministro da Saúde e do Ministro do Trabalho e da Solidariedade a Santa\
+    \ Casa da Misericórdia de Lisboa, cuja Lei Orgânica consta do Dec Lei 40397, de 24-Nov 1955, pelo DEC LEI.55/98.1998.03.16.PCM\
+    \ DR.IS-A [63]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:36Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +163,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado na Misericórdia de Lisboa o serviço social, que tem funcionado até agora ao abrigo do disposto nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+Artigo 1.º - 1. É criado na Misericórdia de Lisboa o serviço social, que tem funcionado até agora ao abrigo do disposto nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
 
 2. Os serviços mencionados nas alíneas a), d) e e) do artigo 21.º do [Decreto-Lei n.º 40397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40397-1955-247414), de 24 de Novembro de 1955, são acrescidos, respectivamente, de um serviço de pessoal, serviços industriais e serviços mecanográficos e passam a designar-se por secretaria-geral, serviços de aprovisionamento e industriais e serviços financeiros e mecanográficos.
 
@@ -116,11 +175,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6. Os serviços de lotaria nacional e de apostas mútuas desportivas constituem direcções de serviços.
 
-###### Art. 2.º - 1. É criada uma comissão de organização e métodos com vista à actualização dos serviços e ao aumento da produtividade.
+Art. 2.º - 1. É criada uma comissão de organização e métodos com vista à actualização dos serviços e ao aumento da produtividade.
 
 2. As atribuições e a composição desta comissão serão definidas por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 3.º - 1. O quadro do pessoal de direcção e chefia da Misericórdia e as respectivas remunerações constam do mapa anexo ao presente diploma, o qual poderá ser alterado por decreto do Ministro da Saúde e Assistência.
+Art. 3.º - 1. O quadro do pessoal de direcção e chefia da Misericórdia e as respectivas remunerações constam do mapa anexo ao presente diploma, o qual poderá ser alterado por decreto do Ministro da Saúde e Assistência.
 
 2. O quadro do pessoal permanente não compreendido no corpo deste artigo será fixado por portaria do Ministro da Saúde e Assistência, sob proposta da mesa, observando-se a correspondência com as categorias fixadas por lei.
 
@@ -128,17 +187,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Compete ao Ministro da Saúde e Assistência fixar, ouvida a mesa, as dotações do pessoal por cada serviço, adentro das categorias e do número de unidades fixadas nos quadros.
 
-###### Art. 4.º - 1. O provimento do pessoal, salvo o disposto no número seguinte, será feito pela mesa, de harmonia com o regulamento a aprovar pelo Ministro da Saúde e Assistência.
+Art. 4.º - 1. O provimento do pessoal, salvo o disposto no número seguinte, será feito pela mesa, de harmonia com o regulamento a aprovar pelo Ministro da Saúde e Assistência.
 
 2. O provimento do pessoal do quadro de direcção e chefia será feito pelo Ministro da Saúde e Assistência e, tratando-se de pessoal em serviço nas províncias ultramarinas, conjuntamente pelos Ministros da Saúde e Assistência e do Ultramar.
 
-###### Art. 5.º Os lugares de director de delegação serão providos em comissão de serviço, pelo prazo de dois anos, renovável, mediante escolha, entre funcionários da Misericórdia de categoria não inferior à correspondente à letra L da escala geral de vencimentos ou nos termos do artigo 8.º deste diploma.
+Art. 5.º Os lugares de director de delegação serão providos em comissão de serviço, pelo prazo de dois anos, renovável, mediante escolha, entre funcionários da Misericórdia de categoria não inferior à correspondente à letra L da escala geral de vencimentos ou nos termos do artigo 8.º deste diploma.
 
-###### Art. 6.º O lugar de tesoureiro será provido em funcionário de categoria imediatamente inferior que exerça funções na tesouraria e nela tenha dois anos, pelo menos, de bom e efectivo serviço ou em indivíduo com as habilitações exigidas pela lei geral.
+Art. 6.º O lugar de tesoureiro será provido em funcionário de categoria imediatamente inferior que exerça funções na tesouraria e nela tenha dois anos, pelo menos, de bom e efectivo serviço ou em indivíduo com as habilitações exigidas pela lei geral.
 
-###### Art. 7.º Quando se verifique impossibilidade de recrutar pessoal de mecanografia, tipografia, microfilmagem, técnicos encarregados de serviços industriais, técnicos de próteses, contramestres e fiéis de tesouraria com as habilitações literárias referidas no artigo 25.º, n.º 1, alínea b), do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, o provimento poderá recair em indivíduos que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções.
+Art. 7.º Quando se verifique impossibilidade de recrutar pessoal de mecanografia, tipografia, microfilmagem, técnicos encarregados de serviços industriais, técnicos de próteses, contramestres e fiéis de tesouraria com as habilitações literárias referidas no artigo 25.º, n.º 1, alínea b), do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, o provimento poderá recair em indivíduos que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções.
 
-###### Art. 8.º - 1. Para lugares do quadro cujo provimento não dependa de concurso poderão ser nomeados, em comissão de serviço, funcionários do Estado ou de institutos públicos, bem como de organismos de coordenação económica e de autarquias locais, desde que possuam os requisitos exigidos para os cargos.
+Art. 8.º - 1. Para lugares do quadro cujo provimento não dependa de concurso poderão ser nomeados, em comissão de serviço, funcionários do Estado ou de institutos públicos, bem como de organismos de coordenação económica e de autarquias locais, desde que possuam os requisitos exigidos para os cargos.
 
 2. O tempo de serviço em comissão será contado, para todos os efeitos, como prestado nos quadros a que os funcionários pertençam, excepto quanto aos lugares de direcção e chefia, nos casos em que os provimentos vierem a converter-se em definitivos.
 
@@ -146,23 +205,23 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Nos lugares a que se refere o n.º 1, quando não sejam de direcção e chefia, poderá admitir-se pessoal em regime de estágio, pelo período máximo de um ano, com as remunerações que competirem aos respectivos cargos.
 
-###### Art. 9.º Os lugares de pessoal auxiliar serão providos de preferência entre serventuários da Misericórdia que tenham as habilitações legalmente exigidas e se encontrem colocados em lugares com igual ou inferior remuneração.
+Art. 9.º Os lugares de pessoal auxiliar serão providos de preferência entre serventuários da Misericórdia que tenham as habilitações legalmente exigidas e se encontrem colocados em lugares com igual ou inferior remuneração.
 
-###### Art. 10.º O pessoal da Misericórdia não poderá ser colocado nem transferido para serviços instalados a mais de 30 km do local onde esteja exercendo funções, salvo nos casos de acordo do interessado, absoluta necessidade de serviço ou transferência como pena disciplinar ou seu efeito.
+Art. 10.º O pessoal da Misericórdia não poderá ser colocado nem transferido para serviços instalados a mais de 30 km do local onde esteja exercendo funções, salvo nos casos de acordo do interessado, absoluta necessidade de serviço ou transferência como pena disciplinar ou seu efeito.
 
-###### Art. 11.º É aplicável ao Hospital de Santana e ao Centro de Medicina de Reabilitação o regime legal das carreiras médica e de enfermagem hospitalares.
+Art. 11.º É aplicável ao Hospital de Santana e ao Centro de Medicina de Reabilitação o regime legal das carreiras médica e de enfermagem hospitalares.
 
-###### Art. 12.º - 1. Em tudo quanto não esteja especialmente previsto observar-se-ão para o pessoal da Misericórdia as disposições legais aplicáveis ao pessoal do Ministério da Saúde e Assistência.
+Art. 12.º - 1. Em tudo quanto não esteja especialmente previsto observar-se-ão para o pessoal da Misericórdia as disposições legais aplicáveis ao pessoal do Ministério da Saúde e Assistência.
 
 2. Ao pessoal que preste serviço nas províncias ultramarinas serão subsidiàriamente aplicados os regimes estabelecidos para o funcionalismo ultramarino em geral, competindo, porém, ao Ministro da Saúde e Assistência ou aos órgãos da Misericórdia, conforme os casos, as decisões sobre situações dos funcionários, autorização para os correspondentes abonos e exercício do poder disciplinar.
 
 3. O vencimento dos funcionários em serviço nas delegações ultramarinas desdobra-se em vencimento base e vencimento complementar, sendo o primeiro correspondente ao de igual categoria na metrópole, e o segundo, àquele que em cada província acrescer ao vencimento base, nos termos da legislação aplicável.
 
-###### Art. 13.º - 1. Os regulamentos necessários à execução dos diplomas por que se rege a Misericórdia serão aprovados pelo Ministro da Saúde e Assistência, mediante proposta da mesa.
+Art. 13.º - 1. Os regulamentos necessários à execução dos diplomas por que se rege a Misericórdia serão aprovados pelo Ministro da Saúde e Assistência, mediante proposta da mesa.
 
 2. Carecem também de aprovação do Ministro do Ultramar os regulamentos que devam ter aplicação nas províncias ultramarinas.
 
-###### Art. 14.º - 1. O pessoal ao serviço da Misericórdia em lugares dos quadros à data da publicação do presente diploma será colocado nos lugares previstos nos novos quadros, tendo em atenção, tanto quanto possível, as suas actuais categorias e remunerações.
+Art. 14.º - 1. O pessoal ao serviço da Misericórdia em lugares dos quadros à data da publicação do presente diploma será colocado nos lugares previstos nos novos quadros, tendo em atenção, tanto quanto possível, as suas actuais categorias e remunerações.
 
 2. O restante pessoal, qualquer que seja o regime em que se encontre, poderá ser colocado nas mesmas condições em lugares dos novos quadros, desde que possua as habilitações legalmente exigidas.
 
@@ -172,33 +231,33 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Nos provimentos de que tratam os números precedentes, poderá usar-se a faculdade conferida pelo artigo 1.º do [Decreto-Lei n.º 27199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27199-1936-323371), de 16 de Novembro de 1936.
 
-###### Art. 15.º - 1. A colocação do pessoal nos termos do artigo anterior será feita mediante lista a aprovar pelo Ministro da Saúde e Assistência e a publicar no Diário do Governo dentro dos sessenta dias subsequentes à publicação dos novos quadros do pessoal.
+Art. 15.º - 1. A colocação do pessoal nos termos do artigo anterior será feita mediante lista a aprovar pelo Ministro da Saúde e Assistência e a publicar no Diário do Governo dentro dos sessenta dias subsequentes à publicação dos novos quadros do pessoal.
 
 2. A entrada no exercício de funções nos novos lugares considera-se efectuada a partir da data daquela publicação, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
 
 3. Até à colocação nos lugares dos novos quadros, o pessoal continuará a exercer os cargos em que se encontre provido à data da publicação do presente diploma e a ser abonado das remunerações que actualmente percebe.
 
-###### Art. 16.º Ao pessoal que for colocado nos lugares dos novos quadros ao abrigo dos dois artigos antecedentes será contado, para todos os efeitos legais, o tempo de serviço prestado anteriormente à Misericórdia de Lisboa, qualquer que tenha sido a verba por onde foram satisfeitas as respectivas remunerações, com ressalva dos seus direitos anteriores, ficando, porém, sujeitos aos pagamentos das respectivas quotas para a caixa donde vierem a ser beneficiários.
+Art. 16.º Ao pessoal que for colocado nos lugares dos novos quadros ao abrigo dos dois artigos antecedentes será contado, para todos os efeitos legais, o tempo de serviço prestado anteriormente à Misericórdia de Lisboa, qualquer que tenha sido a verba por onde foram satisfeitas as respectivas remunerações, com ressalva dos seus direitos anteriores, ficando, porém, sujeitos aos pagamentos das respectivas quotas para a caixa donde vierem a ser beneficiários.
 
-###### Art. 17.º Os funcionários do quadro de direcção e chefia que à data da publicação do presente diploma tenham mais de três anos de bom e efectivo serviço serão considerados definitivamente providos na categoria em que forem colocados.
+Art. 17.º Os funcionários do quadro de direcção e chefia que à data da publicação do presente diploma tenham mais de três anos de bom e efectivo serviço serão considerados definitivamente providos na categoria em que forem colocados.
 
-###### Art. 18.º - 1. Nos primeiros concursos de promoção que se abrirem para cada uma das categorias dos novos quadros de pessoal, após a publicação do presente diploma, poderão ser admitidos candidatos sem o tempo de serviço exigido pelo artigo 22.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, sempre que o número de candidatos nestas condições for insuficiente para preenchimento dos lugares a prover.
+Art. 18.º - 1. Nos primeiros concursos de promoção que se abrirem para cada uma das categorias dos novos quadros de pessoal, após a publicação do presente diploma, poderão ser admitidos candidatos sem o tempo de serviço exigido pelo artigo 22.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, sempre que o número de candidatos nestas condições for insuficiente para preenchimento dos lugares a prover.
 
 2. Se o número de candidatos for ainda insuficiente, poderão ser admitidos candidatos de categoria imediatamente inferior que tenham o tempo de serviço exigido pelo preceito legal citado.
 
 3. Se o número de candidatos for ainda insuficiente, poderão ser admitidos candidatos da categoria a que se refere o número anterior, qualquer que seja o tempo de serviço prestado.
 
-###### Art. 19.º Para os serviços da Lotaria Nacional e do Departamento de Apostas Mútuas Desportivas só podem ser nomeados ou transferidos funcionários, por proposta ou deliberação da mesa com as composições respectivas previstas no artigo 16.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961.
+Art. 19.º Para os serviços da Lotaria Nacional e do Departamento de Apostas Mútuas Desportivas só podem ser nomeados ou transferidos funcionários, por proposta ou deliberação da mesa com as composições respectivas previstas no artigo 16.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961.
 
-###### Art. 20.º À mesa da Misericórdia acrescerá, para a gerência da Lotaria Nacional, o director do Departamento de Apostas Mútuas Desportivas, nos termos do já citado artigo 16.º, sem direito a qualquer remuneração.
+Art. 20.º À mesa da Misericórdia acrescerá, para a gerência da Lotaria Nacional, o director do Departamento de Apostas Mútuas Desportivas, nos termos do já citado artigo 16.º, sem direito a qualquer remuneração.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -206,8 +265,8 @@ MAPA ANEXO
 
 Quadro do pessoal de direcção e chefia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30101/00270029.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30101/00270029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30101/00270029.pdf)
 
 Nota. - O provedor, os adjuntos e os dois directores de serviço que exerçam funções na Lotaria Nacional e nas Apostas Mútuas Desportivas têm direito às gratificações previstas na [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961.
 
-**O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

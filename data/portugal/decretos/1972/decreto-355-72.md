@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/355-1972-689026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31ee72f739da06db962894ed47be380e7474f84c29503f300a15d8a3699b885b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb52359272bde74d3ce20d284e956b52190051febad4674f20c3f6aaa9245b83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Conselho Coordenador
+- Definição de Competências
+- Diretor
+- Gabinete da Área de Sines
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:309563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492710:por
+  label: "Alterados os arts. 7.º e 8.º pelo DEC LEI.8/77.06.01.1977.MPCE, DR.IS [4] de 06.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1977-492710
+  date: '1977-01-06'
+- type: amended_by
+  target: pt:dre:309563:por
+  label: "Equiparado a chefe de divisão o cargo de director de serviços adjunto previsto no quadro de pessoal pela PORT.241/83.1983.03.03.MFP\
+    \ DR.IS [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/241-1983-309563
+  date: '1983-03-03'
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147406:por
+  label: "Revogadas todas as disposições, pelo DEC LEI.513-D1/79.1979.12.27.PCM, DR.IS [297]3ºSupl de 27.12.1979, que contradigam\
+    \ o citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-d1-1979-147406
+  date: '1978-12-27'
+- type: repealed_by
+  target: pt:dre:382669:por
+  label: "Revogado naquilo que contrariar o presente diploma, pelo DEC LEI.93/79.20.04.1979.MFP, DR.IS [92] de 20.04.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1979-382669
+  date: '1979-04-20'
 article_structure:
-  article_count: 1
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:42Z'
   warnings: []
   errors: []
 ---
@@ -92,27 +127,27 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Dos órgãos do Gabinete
 
-###### Artigo 1.º O Gabinete da Área de Sines tem por órgãos o conselho coordenador, o director do Gabinete e a comissão administrativa, nos termos estabelecidos no [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho.
+Artigo 1.º O Gabinete da Área de Sines tem por órgãos o conselho coordenador, o director do Gabinete e a comissão administrativa, nos termos estabelecidos no [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho.
 
-###### Art. 2.º - 1. As reuniões do conselho coordenador serão plenas ou restritas, conforme for decidido pelo presidente, de acordo com as matérias a apreciar.
+Art. 2.º - 1. As reuniões do conselho coordenador serão plenas ou restritas, conforme for decidido pelo presidente, de acordo com as matérias a apreciar.
 
 2. O conselho reunirá sempre que o presidente o convoque, havendo reuniões plenas, pelo menos, duas vezes em cada ano.
 
 3. O aviso de convocação para as reuniões, do qual constarão os assuntos a tratar, será enviado aos membros do conselho com a antecedência mínima de oito dias.
 
-###### Art. 3.º - 1. Os pareceres do conselho coordenador serão aprovados por maioria de votos, tendo o presidente voto de qualidade.
+Art. 3.º - 1. Os pareceres do conselho coordenador serão aprovados por maioria de votos, tendo o presidente voto de qualidade.
 
 2. Os vogais vencidos poderão fazer consignar na acta os motivos do seu voto.
 
-###### Art. 4.º - 1. As reuniões do conselho coordenador serão secretariadas por funcionário do Gabinete designado pelo presidente.
+Art. 4.º - 1. As reuniões do conselho coordenador serão secretariadas por funcionário do Gabinete designado pelo presidente.
 
 2. De todas as reuniões se lavrará acta, que poderá ser aprovada no final de cada reunião, em minuta, ou na reunião seguinte.
 
 3. As actas serão lavradas em livro próprio e assinadas pelo presidente e pelo secretário.
 
-###### Art. 5.º Quando devam elaborar-se pareceres sobre as matérias submetidas ao conselho coordenador, pode o presidente determinar a constituição de comissões de redacção, cujos membros serão escolhidos pelo conselho e deverão incluir sempre, pelo menos, um vogal funcionário do Gabinete.
+Art. 5.º Quando devam elaborar-se pareceres sobre as matérias submetidas ao conselho coordenador, pode o presidente determinar a constituição de comissões de redacção, cujos membros serão escolhidos pelo conselho e deverão incluir sempre, pelo menos, um vogal funcionário do Gabinete.
 
-###### Art. 6.º Compete ao director do Gabinete:
+Art. 6.º Compete ao director do Gabinete:
 
 a) Propor e submeter à aprovação superior todos os assuntos que dela careçam;
 
@@ -134,13 +169,13 @@ i) Nomear árbitros e constituir mandatários nos litígios e processos em que i
 
 j) Exercer os demais actos de competência do Gabinete que, nos termos deste decreto, não sejam atribuídos especìficamente à comissão administrativa.
 
-###### Art. 7.º - 1. O director do Gabinete será coadjuvado por um subdirector, que o substituirá nas suas faltas e impedimentos, incluindo na presidência dos órgãos colegiais.
+Art. 7.º - 1. O director do Gabinete será coadjuvado por um subdirector, que o substituirá nas suas faltas e impedimentos, incluindo na presidência dos órgãos colegiais.
 
 2. Na falta ou impedimento simultâneo de ambos, substituí-los-á o director de serviços designado pelo director do Gabinete.
 
-###### Art. 8.º O director do Gabinete poderá delegar o exercício de parte da sua competência no subdirector ou em qualquer funcionário dirigente do Gabinete de categoria igual ou superior à letra F, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.
+Art. 8.º O director do Gabinete poderá delegar o exercício de parte da sua competência no subdirector ou em qualquer funcionário dirigente do Gabinete de categoria igual ou superior à letra F, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.
 
-###### Art. 9.º Compete à comissão administrativa:
+Art. 9.º Compete à comissão administrativa:
 
 a) Elaborar os projectos dos orçamentos do Gabinete e superintender na respectiva execução;
 
@@ -148,7 +183,7 @@ b) Pronunciar-se sobre as contas de gerência e a regularidade de todos os pagam
 
 c) Pronunciar-se sobre quaisquer assuntos submetidos à sua apreciação pelo director do Gabinete.
 
-###### Art. 10.º - 1. A comissão administrativa reunirá, ordinàriamente, uma vez por mês e, extraordinàriamente, quando o presidente a convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
+Art. 10.º - 1. A comissão administrativa reunirá, ordinàriamente, uma vez por mês e, extraordinàriamente, quando o presidente a convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
 
 2. As deliberações serão tomadas por maioria, tendo o respectivo presidente voto de qualidade.
 
@@ -158,37 +193,37 @@ c) Pronunciar-se sobre quaisquer assuntos submetidos à sua apreciação pelo di
 
 5. As reuniões da comissão administrativa serão secretariadas por funcionário do Gabinete designado pelo presidente.
 
-###### Art. 11.º - 1. Nas suas faltas ou impedimentos, o director dos serviços financeiros e o chefe dos serviços administrativos serão substituídos, como vogais da comissão administrativa, respectivamente pelo chefe dos serviços que superintenda na tesouraria e pelo chefe de secção que for designado para o efeito.
+Art. 11.º - 1. Nas suas faltas ou impedimentos, o director dos serviços financeiros e o chefe dos serviços administrativos serão substituídos, como vogais da comissão administrativa, respectivamente pelo chefe dos serviços que superintenda na tesouraria e pelo chefe de secção que for designado para o efeito.
 
 2. Nas faltas ou impedimentos serão estes substituídos por funcionários designados pelo presidente.
 
 ### CAPÍTULO II — Dos serviços
 
-###### Art. 12.º O Gabinete da Área de Sines compreende os seguintes serviços:
+Art. 12.º O Gabinete da Área de Sines compreende os seguintes serviços:
 
 a) Direcção de Serviços de Coordenação e Planeamento, com três divisões:
 
-##### Divisão de Estudos Económicos Globais;
+Divisão de Estudos Económicos Globais;
 
-##### Divisão de Programação e Coordenação;
+Divisão de Programação e Coordenação;
 
-##### Divisão da Organização e Informática.
+Divisão da Organização e Informática.
 
 b) Direcção de Serviços do Centro Urbano, com quatro divisões:
 
 ##### Divisão do Planeamento Urbano;
 
-##### Divisão de Projectos;
+Divisão de Projectos;
 
 ##### Divisão de Fiscalização e Obras;
 
-##### Divisão de Apoio aos Municípios.
+Divisão de Apoio aos Municípios.
 
 c) Direcção de Serviços da Actividade Industrial, com três divisões:
 
-##### Divisão de Tecnologia e Apreciação de Projectos;
+Divisão de Tecnologia e Apreciação de Projectos;
 
-##### Divisão de Promoção e Desenvolvimento;
+Divisão de Promoção e Desenvolvimento;
 
 ##### Divisão do Terminal Oceânico.
 
@@ -204,7 +239,7 @@ e) Serviços Jurídicos;
 
 f) Serviços de Relações Públicas.
 
-###### Art. 13.º Compete especialmente à Direcção de Serviços de Coordenação e Planeamento:
+Art. 13.º Compete especialmente à Direcção de Serviços de Coordenação e Planeamento:
 
 a) Elaborar os planos anuais, bem como os respectivos relatórios de execução;
 
@@ -214,7 +249,7 @@ c) Elaborar os estudos económicos globais que possibilitem o planeamento das di
 
 d) Estudar, instalar e acompanhar o sistema de informática.
 
-###### Art. 14.º Compete especialmente à Direcção de Serviços do Centro Urbano:
+Art. 14.º Compete especialmente à Direcção de Serviços do Centro Urbano:
 
 a) Elaborar os planos urbanísticos e respectivos projectos de execução do complexo urbano-industrial a criar, bem como de outros centros existentes ou a criar na zona de actuação directa do Gabinete;
 
@@ -224,7 +259,7 @@ c) Assegurar a execução das atribuições do Gabinete respeitantes a urbaniza�
 
 d) Fiscalizar as obras, velando pelo cumprimento das disposições legais aplicáveis.
 
-###### Art. 15.º Compete especialmente à Direcção de Serviços da Actividade Industrial:
+Art. 15.º Compete especialmente à Direcção de Serviços da Actividade Industrial:
 
 a) Planear, coordenar a execução e promover a zona industrial;
 
@@ -232,7 +267,7 @@ b) Planear, executar e promover o terminal oceânico;
 
 c) Elaborar os pareceres sobre a instalação de actividades industriais na zona de actuação directa do Gabinete.
 
-###### Art. 16.º Compete especialmente à Direcção dos Serviços Financeiros e Administrativos:
+Art. 16.º Compete especialmente à Direcção dos Serviços Financeiros e Administrativos:
 
 a) Organizar as contas e executar a respectiva escrita;
 
@@ -254,7 +289,7 @@ i) Tratar de todos os assuntos relativos ao expediente geral e arquivo;
 
 j) Proceder ao aprovisionamento normal dos serviços do Gabinete.
 
-###### Art. 17.º Compete especialmente aos Serviços Jurídicos:
+Art. 17.º Compete especialmente aos Serviços Jurídicos:
 
 a) Estabelecer as ligações com o consultor jurídico e com os advogados constituídos pelo Gabinete;
 
@@ -266,7 +301,7 @@ d) Estudar os contratos de qualquer outra natureza a celebrar pelo Gabinete e in
 
 e) Assegurar a contencioso geral e do trabalho.
 
-###### Art. 18.º Compete especialmente aos Serviços das Relações Públicas:
+Art. 18.º Compete especialmente aos Serviços das Relações Públicas:
 
 a) Estabelecer, manter e desenvolver os contactos necessários com os meios de comunicação social;
 
@@ -276,15 +311,15 @@ c) Promover o bom processamento de relações humanas, quer interna, quer extern
 
 d) Assistir ao director do Gabinete em tudo quanto for achado conveniente no campo das relações públicas.
 
-###### Art. 19.º Os directores de serviços adjuntos, além de coadjuvarem o respectivo director de serviço, exercerão directamente a chefia de uma das divisões ou serviços.
+Art. 19.º Os directores de serviços adjuntos, além de coadjuvarem o respectivo director de serviço, exercerão directamente a chefia de uma das divisões ou serviços.
 
-###### Art. 20.º As normas de funcionamento dos serviços serão fixadas em regulamento interno pelo director do Gabinete.
+Art. 20.º As normas de funcionamento dos serviços serão fixadas em regulamento interno pelo director do Gabinete.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 21.º O pessoal permanente do Gabinete da Área de Sines será o constante do quadro anexo ao presente diploma.
+Art. 21.º O pessoal permanente do Gabinete da Área de Sines será o constante do quadro anexo ao presente diploma.
 
-###### Art. 22.º - 1. Os lugares do quadro serão providos por contrato ou em comissão de serviço, nos termos do artigo 27.º da [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342).
+Art. 22.º - 1. Os lugares do quadro serão providos por contrato ou em comissão de serviço, nos termos do artigo 27.º da [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342).
 
 2. Os lugares do quadro serão providos por escolha:
 
@@ -292,7 +327,7 @@ a) Do Presidente do Conselho, os de categoria igual ou superior à letra F;
 
 b) Do director do Gabinete, os restantes.
 
-###### Art. 23.º 1. Os lugares de director de serviços-adjunto, chefe de divisão, chefe de serviços, técnico especialista e técnicos de 1.ª e 2.ª classes serão providos em indivíduos com curso superior adequado.
+Art. 23.º 1. Os lugares de director de serviços-adjunto, chefe de divisão, chefe de serviços, técnico especialista e técnicos de 1.ª e 2.ª classes serão providos em indivíduos com curso superior adequado.
 
 2. Os lugares de adjunto técnico serão providos entre indivíduos com a habilitação mínima do 3.º ciclo liceal ou equiparado ou com curso médio adequado às respectivas funções.
 
@@ -302,17 +337,17 @@ b) Do director do Gabinete, os restantes.
 
 5. Os lugares de topógrafo e desenhador serão providos em indivíduos com o 2.º ciclo liceal ou equivalente ou curso completo das escolas industriais.
 
-###### Art. 24.º Os tesoureiros e pagadores prestarão caução em dinheiro, títulos da dívida pública ou seguro de caução, perante a Direcção-Geral da Fazenda Pública, nos montantes respectivamente de 10000$00 e 2500$00.
+Art. 24.º Os tesoureiros e pagadores prestarão caução em dinheiro, títulos da dívida pública ou seguro de caução, perante a Direcção-Geral da Fazenda Pública, nos montantes respectivamente de 10000$00 e 2500$00.
 
-###### Art. 25.º A admissão do pessoal além do quadro carece de autorização do Presidente do Conselho, que poderá delegar esta competência no director do Gabinete.
+Art. 25.º A admissão do pessoal além do quadro carece de autorização do Presidente do Conselho, que poderá delegar esta competência no director do Gabinete.
 
 ### CAPÍTULO IV — Da gestão financeira
 
-###### Art. 26.º - 1. - A assinatura do director na movimentação das contas de depósito do Gabinete poderá ser substituída, por sua delegação, ou nas suas faltas ou impedimentos sucessivamente pela do subdirector e pela do director de serviço a designar pelo director; a do director dos serviços financeiros poderá ser substituída, nas faltas ou impedimentos, pela do chefe de serviços que o substitua.
+Art. 26.º - 1. - A assinatura do director na movimentação das contas de depósito do Gabinete poderá ser substituída, por sua delegação, ou nas suas faltas ou impedimentos sucessivamente pela do subdirector e pela do director de serviço a designar pelo director; a do director dos serviços financeiros poderá ser substituída, nas faltas ou impedimentos, pela do chefe de serviços que o substitua.
 
 2. As contas de depósito dos serviços instalados em Sines, enquanto nesta localidade não se fixar a direcção do Gabinete, e as dos serviços distanciados da sede serão movimentadas por cheques assinados pelo seu funcionário mais categorizado e pelo funcionário que aí tenha a seu cargo os serviços administrativos; nas suas faltas ou impedimentos, assinarão os cheques os funcionários que o director tenha indicado.
 
-###### Art. 27.º - 1. Para ocorrer a encargos com despesas correntes inadiáveis haverá nos serviços da sede e nos outros serviços ou delegações fundos permanentes, de importância não superior a 50000$00, a fixar pela comissão administrativa, conforme as necessidades.
+Art. 27.º - 1. Para ocorrer a encargos com despesas correntes inadiáveis haverá nos serviços da sede e nos outros serviços ou delegações fundos permanentes, de importância não superior a 50000$00, a fixar pela comissão administrativa, conforme as necessidades.
 
 2. O fundo permanente da sede ou da delegação onde preste serviço o presidente da comissão administrativa será administrado por este, que poderá delegar no chefe de serviços que tiver a seu cargo o contrôle da tesouraria a autorização de pagamento até 1000$00.
 
@@ -322,9 +357,9 @@ b) Do director do Gabinete, os restantes.
 
 5. As contas dos fundos permanentes serão submetidas mensalmente à aprovação da comissão administrativa.
 
-###### Art. 28.º Os serviços financeiros do Gabinete serão organizados de forma a permitir rigoroso contrôle orçamental e a gestão previsional da tesouraria por cativação de verbas em função dos compromissos assumidos ou previstos.
+Art. 28.º Os serviços financeiros do Gabinete serão organizados de forma a permitir rigoroso contrôle orçamental e a gestão previsional da tesouraria por cativação de verbas em função dos compromissos assumidos ou previstos.
 
-###### Art. 29.º São responsáveis perante a Fazenda Nacional:
+Art. 29.º São responsáveis perante a Fazenda Nacional:
 
 a) A comissão administrativa;
 
@@ -332,24 +367,24 @@ b) O director, o director dos Serviços Financeiros, o chefe de serviços que ti
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 30.º - 1. Durante os três primeiros anos de vigência deste diploma, os lugares de chefe de secção poderão ser providos interinamente em primeiros-oficiais, com dispensa do tempo de serviço exigido pelo n.º 4 do artigo 23.º
+Art. 30.º - 1. Durante os três primeiros anos de vigência deste diploma, os lugares de chefe de secção poderão ser providos interinamente em primeiros-oficiais, com dispensa do tempo de serviço exigido pelo n.º 4 do artigo 23.º
 
 2. Os provimentos a que se refere o número anterior não poderão durar mais de três anos e o tempo de serviço prestado nessas condições será contado para os efeitos do preceito a que se refere o número anterior.
 
-###### Art. 31.º Este decreto entra imediatamente em vigor.
+Art. 31.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 7 de Setembro de 1972.**
+Promulgado em 7 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA
 
 ## Anexo ao Decreto n.º 355/72 — Quadro do pessoal do Gabinete da Área de Sines
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/21700/13411344.pdf))](https://files.diariodarepublica.pt/1s/1972/09/21700/13411344.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/21700/13411344.pdf)
 
-**O Presidente do Conselho, Marcello Caetano.**
+O Presidente do Conselho, Marcello Caetano.

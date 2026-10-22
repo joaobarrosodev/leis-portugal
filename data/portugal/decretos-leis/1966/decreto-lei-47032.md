@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/05/12500/08300848.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c06f525ead7973dfe3c7fad901afa1574f143db757fb5d7e9e9d5790f96c83aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96b7f6fdbc4c27738538120cf01ab2796e7fda57afe215e0a1118cca1f767456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Individual de Trabalho
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:176289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561464:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176289:por
+  label: "Revogado pelo DEC LEI.49408.1969.11.24.MCPS DR.IS [275]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49408-1969-176289
+  date: '1969-11-24'
 article_structure:
   article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:16Z'
   warnings: []
   errors: []
 ---
@@ -208,25 +231,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Noção)
 
 Contrato de trabalho é aquele pelo qual uma pessoa se obriga, mediante retribuição, a prestar a sua actividade intelectual ou manual a outra pessoa, sob a autoridade e direcção desta.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Contratos equiparados)
 
 Ficam sujeitos aos princípios definidos neste diploma os contratos que tenham por objecto a prestação de trabalho realizado no domicílio ou em estabelecimento do trabalhador, bem como os contratos em que este compra as matérias-primas e fornece por certo preço ao vendedor delas o produto acabado sempre que num ou noutro caso o trabalhador deva considerar-se na dependência económica daquele.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Capacidade das partes)
 
 A capacidade para celebrar contratos de trabalho regula-se nos termos gerais de direito, salvo o que for estabelecido quanto a trabalho prestado por menores ou mulheres casadas.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Carteira profissional)
 
@@ -236,7 +259,7 @@ A capacidade para celebrar contratos de trabalho regula-se nos termos gerais de 
 
 3. O disposto nos números anteriores não prejudica a aplicação de outras sanções previstas na lei.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Objecto do contrato de trabalho)
 
@@ -246,13 +269,13 @@ A capacidade para celebrar contratos de trabalho regula-se nos termos gerais de 
 
 3. Quando a natureza da actividade do trabalhador envolver a prática de actos jurídicos, o contrato de trabalho implica a concessão àquele dos necessários poderes, salvo nos casos em que a lei exija mandato expresso.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Forma)
 
 O contrato de trabalho não está sujeito a qualquer formalidade, salvo quando a lei expressamente determinar o contrário.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Regulamentos internos)
 
@@ -264,7 +287,7 @@ O contrato de trabalho não está sujeito a qualquer formalidade, salvo quando a
 
 4. A elaboração de regulamentos internos sobre determinadas matérias poderá ser tornada obrigatória por despachos de regulamentação do trabalho ou por convenções colectivas.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Promessa de contrato de trabalho)
 
@@ -272,13 +295,13 @@ O contrato de trabalho não está sujeito a qualquer formalidade, salvo quando a
 
 2. O não cumprimento da promessa de contrato de trabalho dá lugar a responsabilidade civil, nos termos gerais de direito.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Condição ou termo suspensivo aposto ao contrato de trabalho)
 
 1. Ao contrato de trabalho pode ser aposta condição ou termo suspensivo, mas a correspondente cláusula deve constar de documento assinado por ambas as partes.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Contratos de trabalho com e sem prazo)
 
@@ -288,7 +311,7 @@ O contrato de trabalho não está sujeito a qualquer formalidade, salvo quando a
 
 3. A estipulação do prazo será nula e fará incorrer a entidade patronal na multa prevista na alínea d) do artigo 123.º se tiver por fim iludir as disposições que regulam os contratos sem prazo.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Trabalhadores permanentes e eventuais)
 
@@ -300,13 +323,13 @@ O contrato de trabalho não está sujeito a qualquer formalidade, salvo quando a
 
 4. O trabalhador eventual tem os mesmos direitos e obrigações que a lei estabelece para os permanentes, salvo quando ela expressamente determine o contrário, devendo ainda ser preferido pela entidade patronal nas admissões ao quadro permanente, salvo quando motivos ponderosos, devidamente justificados perante o Instituto Nacional do Trabalho e Previdência, imponham o contrário.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Normas aplicáveis aos contratos de trabalho)
 
 Os contratos de trabalho estão sujeitos, em especial, às normas legais de regulamentação do trabalho, às emitidas pelo Ministro das Corporações e Previdência Social dentro da competência que por lei lhe for atribuída, às normas emanadas das corporações, às convenções colectivas de trabalho e aos usos locais da profissão do trabalhador, segundo a indicada ordem de precedência.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Prevalências na aplicação das normas)
 
@@ -314,7 +337,7 @@ Os contratos de trabalho estão sujeitos, em especial, às normas legais de regu
 
 2. Quando numa disposição deste diploma se declarar que a mesma pode ser afastada por convenção colectiva de trabalho, entende-se que o não pode ser por cláusula de contrato individual.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Invalidade parcial do contrato)
 
@@ -322,7 +345,7 @@ Os contratos de trabalho estão sujeitos, em especial, às normas legais de regu
 
 2. As cláusulas do contrato de trabalho que importarem para o trabalhador regime menos favorável do que o estabelecido em preceitos imperativos são de pleno direito substituídas por estes.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Efeitos da invalidade do contrato de trabalho)
 
@@ -338,7 +361,7 @@ Os contratos de trabalho estão sujeitos, em especial, às normas legais de regu
 
 6. A má fé consiste na celebração do contrato, ou na manutenção deste com efectivo conhecimento da existência da nulidade.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Contrato com objecto ou fim criminoso ou imoral)
 
@@ -346,7 +369,7 @@ Os contratos de trabalho estão sujeitos, em especial, às normas legais de regu
 
 2. A parte que conhecia a ilicitude ou imoralidade não poderá eximir-se ao cumprimento de qualquer obrigação contratual ou legal nem reaver aquilo que prestou ou o seu valor, quando a outra parte ignorar essa ilicitude ou imoralidade.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Revalidação do contrato)
 
@@ -356,7 +379,7 @@ Os contratos de trabalho estão sujeitos, em especial, às normas legais de regu
 
 ### CAPÍTULO II — Direitos, deveres e garantias das partes
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Princípio da mútua colaboração)
 
@@ -366,7 +389,7 @@ Os contratos de trabalho estão sujeitos, em especial, às normas legais de regu
 
 3. O disposto no número anterior abrange, entre outras, a constituição de órgãos de colaboração destinados a apreciar os problemas directamente relacionados com os interesses dos trabalhadores, bem como a comparticipação destes na gestão de obras sociais e nos resultados do empreendimento.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Deveres da entidade patronal)
 
@@ -384,7 +407,7 @@ e) Facilitar-lhe o exercício de cargos em organismos corporativos, instituiçõ
 
 f) Cumprir todas as demais obrigações decorrentes do contrato de trabalho e das normas que o regem.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Deveres do trabalhador)
 
@@ -404,7 +427,7 @@ f) Cumprir todas as demais obrigações decorrentes do contrato de trabalho e da
 
 2. O dever de obediência, a que se refere a alínea c) do número anterior, respeita tanto às normas e instruções dadas directamente pela entidade patronal como às emanadas dos superiores hierárquicos do trabalhador dentro da competência que por aquela lhes for atribuída.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Garantias do trabalhador)
 
@@ -430,7 +453,7 @@ h) Despedir e readmitir o trabalhador, ainda que seja eventual, mesmo com o seu 
 
 3. Constitui violação das leis de trabalho, e como tal será punida, a prática dos actos previstos no n.º 1 deste artigo, salvo quanto aos referidos nas alíneas c), d) e e), se tiver havido prévia autorização do Instituto Nacional do Trabalho e Previdência.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Prestação pelo trabalhador de serviços não compreendidos no objecto do contrato)
 
@@ -440,13 +463,13 @@ h) Despedir e readmitir o trabalhador, ainda que seja eventual, mesmo com o seu 
 
 Quando aos serviços temporàriamente desempenhados, nos termos do número anterior, corresponder um tratamento mais favorável, o trabalhador terá direito a esse tratamento.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Mudança de categoria)
 
 O trabalhador só pode ser colocado em categoria inferior àquela para que foi contratado ou a que foi promovido quando tal mudança, imposta por necessidades prementes da empresa, seja por ele aceita e autorizada pelo Instituto Nacional do Trabalho e Previdência, bem como quando o trabalhador retome a categoria para que foi contratado após haver substituído outro de categoria superior, cujo contrato se encontrava suspenso.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Transferência do trabalhador para outro local de trabalho)
 
@@ -456,13 +479,13 @@ O trabalhador só pode ser colocado em categoria inferior àquela para que foi c
 
 3. A entidade patronal custeará sempre as despesas feitas pelo trabalhador directamente impostas pela transferência.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Privilégios creditórios)
 
 Todos os créditos que o trabalhador tenha contra a entidade patronal em resultado do contrato de trabalho, nomeadamente os respeitantes a retribuições, remunerações de trabalho extraordinário, compensações ou indemnizações pela cessação do contrato, gozam dos privilégios que a lei geral consigna para garantia das retribuições do trabalho.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Poder disciplinar)
 
@@ -470,7 +493,7 @@ Todos os créditos que o trabalhador tenha contra a entidade patronal em resulta
 
 2. O poder disciplinar tanto é exercido directamente pela entidade patronal como pelos superiores hierárquicos do trabalhador, nos termos por aquela estabelecidos.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Sanções disciplinares)
 
@@ -492,7 +515,7 @@ e) Despedimento imediato sem qualquer indemnização ou compensação.
 
 4. O disposto nos números anteriores não prejudica o direito de a entidade patronal exigir indemnização de prejuízos ou promover a aplicação de sanções penais a que a infracção eventualmente dê lugar.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Limites às sanções referidas no artigo anterior)
 
@@ -500,7 +523,7 @@ e) Despedimento imediato sem qualquer indemnização ou compensação.
 
 2. A suspensão de trabalho não pode exceder por cada infracção seis dias, e em cada ano civil, o total de 30 dias.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Agravamento das sanções disciplinares)
 
@@ -508,7 +531,7 @@ e) Despedimento imediato sem qualquer indemnização ou compensação.
 
 2. As sanções referidas no n.º 1 do artigo 27.º podem ser agravadas pela respectiva publicação dentro da empresa ou pela comunicação ao organismo sindical a que o trabalhador pertence.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Destino das multas e pagamento das contribuições da previdência)
 
@@ -516,7 +539,7 @@ e) Despedimento imediato sem qualquer indemnização ou compensação.
 
 2. A aplicação da sanção prevista na alínea e) do n.º 1 do artigo 27.º não dispensa do pagamento às instituições de previdência de contribuições sobre as remunerações correspondentes ao período de suspensão.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Exercício da acção disciplinar)
 
@@ -526,7 +549,7 @@ e) Despedimento imediato sem qualquer indemnização ou compensação.
 
 3. A execução da sanção disciplinar só pode ter lugar nos seis meses subsequentes à decisão, sem prejuízo do disposto no n.º 1 do artigo anterior.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Sanções abusivas)
 
@@ -544,7 +567,7 @@ d) Em geral, exercer, ter exercido, pretender exercer ou invocar os direitos e g
 
 3. A entidade patronal que aplicar alguma sanção sujeita a registo nos termos do artigo 35.º ou despedir, com ou sem justa causa, qualquer trabalhador que exerça ou tenha exercido há menos de um ano as funções referidas na alínea c) do n.º 1, deve comunicar o facto, fundamentando-o, ao Instituto Nacional do Trabalho e Previdência no prazo de oito dias.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Consequências gerais da aplicação de sanções abusivas)
 
@@ -554,7 +577,7 @@ d) Em geral, exercer, ter exercido, pretender exercer ou invocar os direitos e g
 
 3. Tratando-se de multa ou suspensão, a indemnização não será inferior a dez vezes a importância daquela ou da retribuição perdida.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 [Consequências especiais no caso de sanções aplicada nos termos da alínea c) do artigo 32.º]
 
@@ -564,13 +587,13 @@ a) Os mínimos fixados nos n.os 3 e 4 são elevados para o dobro;
 
 b) Em caso de despedimento, a indemnização nunca será inferior à retribuição correspondente a um ano.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Registo das sanções disciplinares)
 
 A entidade patronal deve manter devidamente actualizado, a fim de o apresentar às entidades competentes sempre que estas o requeiram, um livro de registo das sanções disciplinares, escriturado de forma a poder verificar-se fàcilmente o cumprimento das disposições anteriores.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Liberdade de trabalho; pacto de não concorrência)
 
@@ -588,7 +611,7 @@ c) Atribuir-se ao trabalhador uma retribuição durante o período de limitaçã
 
 4. São proibidos e fazem incorrer na multa prevista na alínea h) do artigo 123.º quaisquer acordos entre entidades patronais no sentido de recìprocamente limitarem a admissão de trabalhadores que a eles tenham prestado serviço.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Transmissão do estabelecimento)
 
@@ -598,7 +621,7 @@ c) Atribuir-se ao trabalhador uma retribuição durante o período de limitaçã
 
 3. O disposto no presente artigo é aplicável, com as necessárias adaptações, a quaisquer actos ou factos que envolvam a transmissão da exploração do estabelecimento.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Prescrição e regime de provas dos créditos resultantes do contrato de trabalho)
 
@@ -610,13 +633,13 @@ c) Atribuir-se ao trabalhador uma retribuição durante o período de limitaçã
 
 #### SECÇÃO I — Do modo de prestação do trabalho
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Competência da entidade patronal)
 
 Dentro dos limites decorrentes do contrato e das normas que o regem, compete à entidade patronal fixar os termos em que deve ser prestado o trabalho.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Disciplina, segurança, higiene e moralidade do trabalho)
 
@@ -624,13 +647,13 @@ Dentro dos limites decorrentes do contrato e das normas que o regem, compete à 
 
 2. A entidade patronal tem o dever de aplicar sanções disciplinares, nomeadamente o despedimento, aos trabalhadores de ambos os sexos que, pela sua conduta, provoquem ou criem o risco de provocar a desmoralização dos companheiros, especialmente das mulheres e menores.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Prevenção de acidentes de trabalho e doenças profissionais)
 
 Em especial no que respeita à higiene e segurança, a entidade patronal deve observar rigorosamente os preceitos legais e regulamentares, bem como as directivas das entidades competentes, em ordem a eliminar, na medida do possível, os acidentes de trabalho e as doenças profissionais.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Formação profissional dos trabalhadores)
 
@@ -638,13 +661,13 @@ Em especial no que respeita à higiene e segurança, a entidade patronal deve ob
 
 2. O Estado compensará, no todo ou em parte, com subsídios, benefícios de ordem fiscal ou outros, em condições a estabelecer, as despesas que a entidade patronal fizer com a formação ou aperfeiçoamento profissional dos trabalhadores.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Selecção dos trabalhadores)
 
 A entidade patronal deve procurar atribuir a cada trabalhador, dentro do género de trabalho para que foi contratado, a função mais adequada às suas aptidões e preparação profissional.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Período experimental)
 
@@ -660,7 +683,7 @@ A entidade patronal deve procurar atribuir a cada trabalhador, dentro do género
 
 #### SECÇÃO II — Da duração do trabalho
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Período normal de trabalho)
 
@@ -668,7 +691,7 @@ A entidade patronal deve procurar atribuir a cada trabalhador, dentro do género
 
 2. Os limites máximos dos períodos normais de trabalho, bem como o trabalho nocturno, serão objecto de regulamentação especial.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Trabalho extraordinário)
 
@@ -678,7 +701,7 @@ A entidade patronal deve procurar atribuir a cada trabalhador, dentro do género
 
 3. Não obstante o disposto na parte final do número anterior, o trabalhador deve ser dispensado da prestação de trabalho extraordinário quando o solicite, invocando motivos atendíveis.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Remuneração do trabalho extraordinário)
 
@@ -686,19 +709,19 @@ A entidade patronal deve procurar atribuir a cada trabalhador, dentro do género
 
 2. Esta remuneração será mais elevada se o trabalho extraordinário for prestado durante a noite, salvo quando a lei ou a regulamentação do trabalho, atendendo à natureza da actividade, determine de outro modo.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Intervalos de descanso)
 
 O período de trabalho diário será, em regra, interrompido por um ou mais intervalos de descanso, conforme se determinar na respectiva legislação.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Horário de trabalho)
 
 Compete à entidade patronal estabelecer o horário de trabalho, dentro dos condicionalismos legais.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Isenção de horário de trabalho)
 
@@ -712,7 +735,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 #### SECÇÃO I — Feriados
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Descanso semanal)
 
@@ -722,7 +745,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 3. Sempre que seja possível, a entidade patronal deve proporcionar aos trabalhadores que pertençam ao mesmo agregado familiar o descanso semanal na mesmo dia.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Feriados obrigatórios)
 
@@ -730,7 +753,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 2. Ocorrendo motivos ponderosos, o Instituto Nacional do Trabalho e Previdência pode autorizar a realização de trabalho nesses dias.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Feriados concedidos pela entidade patronal)
 
@@ -738,7 +761,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 2. Qualquer outra suspensão da actividade, não compreendida no âmbito do número anterior, tem igualmente de ser autorizada ou justificada, ainda que posteriormente ao acto de suspensão, quando, ocorrendo motivos ponderosos, o não possa ser antes.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Pagamento da retribuição)
 
@@ -750,7 +773,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 #### SECÇÃO II — Férias
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Princípio geral)
 
@@ -762,7 +785,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 4. Cessando o contrato de trabalho, a entidade patronal pagará ao trabalhador a retribuição correspondente a um período de férias proporcional ao tempo decorrido desde 1 de Janeiro do ano em que se dá tal cessação, salvo se o trabalhador já gozou as férias respeitantes a esse ano, contando-se sempre aquele período para efeitos de antiguidade.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Indisponibilidade do direito a férias)
 
@@ -770,7 +793,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 2. O disposto no número anterior entende-se, porém, sem prejuízo do preceituado no n.º 4 do artigo anterior, no n.º 2 do artigo seguinte, no n.º 1 do artigo 64.º e no n.º 3 do artigo 66.º
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Duração das férias)
 
@@ -782,7 +805,7 @@ Compete à entidade patronal estabelecer o horário de trabalho, dentro dos cond
 
 4. Só não se consideram dias úteis os domingos e feriados obrigatórios.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Proibição de cumulação de férias)
 
@@ -796,7 +819,7 @@ b) Quando a aplicação da regra estabelecida no n.º 1 causar grave prejuízo �
 
 3. Os trabalhadores do continente, que exerçam a sua actividade nas ilhas adjacentes, e os trabalhadores das ilhas adjacentes, que exerçam a sua actividade no continente, têm o direito de cumular as férias de dois anos quando as prebendam gozar, respectivamente, no continente ou nas ilhas adjacentes.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Férias seguidas e interpoladas)
 
@@ -806,7 +829,7 @@ b) Quando a aplicação da regra estabelecida no n.º 1 causar grave prejuízo �
 
 3. Ocorrendo razões ponderosas, o Instituto Nacional do Trabalho e Previdência pode suprir a recusa de qualquer das partes a que as férias sejam gozadas interpoladamente.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Escolha da época de férias)
 
@@ -820,19 +843,19 @@ b) Quando a aplicação da regra estabelecida no n.º 1 causar grave prejuízo �
 
 5. Aos trabalhadores que, pertencendo ao mesmo agregado familiar, se encontrem ao serviço da mesma entidade patronal deverá ser concedida a faculdade de gozar férias simultâneamente.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Alteração da época de férias)
 
 Se depois de fixada a época de férias nos termos do artigo anterior a entidade patronal alterar ou fizer interromper as férias já iniciadas por razões que respeitem a interesses seus, indemnizará o trabalhador das despesas que comprovadamente este haja feito na pressuposição de que gozaria integralmente as férias na época fixada.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Retribuição durante as férias)
 
 A retribuição aos trabalhadores durante as férias não pode ser inferior à que perceberiam se estivessem efectivamente em serviço e deverá ser paga antes do seu início.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Exercício de outra actividade durante as férias)
 
@@ -840,7 +863,7 @@ A retribuição aos trabalhadores durante as férias não pode ser inferior à q
 
 2. A contravenção do disposto no número anterior, sem prejuízo da eventual responsabilidade disciplinar do trabalhador, dá à entidade patronal o direito de não pagar a retribuição correspondente às férias.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Violação do direito a férias)
 
@@ -848,7 +871,7 @@ A retribuição aos trabalhadores durante as férias não pode ser inferior à q
 
 2. O disposto no número precedente não prejudica a aplicação das sanções em que a entidade patronal incorrer por violação das normas reguladoras das relações de trabalho.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Licença sem retribuição)
 
@@ -858,7 +881,7 @@ A retribuição aos trabalhadores durante as férias não pode ser inferior à q
 
 3. Durante o mesmo período cessam os direitos, deveres e garantias das partes, na medida em que pressuponham a efectiva prestação de trabalho, e a entidade patronal poderá contratar um substituto para o trabalhador ausente, nos termos do artigo 73.º
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Contratos com prazo - Trabalhadores eventuais)
 
@@ -870,7 +893,7 @@ A retribuição aos trabalhadores durante as férias não pode ser inferior à q
 
 #### SECÇÃO III — Faltas
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Princípio geral)
 
@@ -882,7 +905,7 @@ A retribuição aos trabalhadores durante as férias não pode ser inferior à q
 
 4. O período de tempo correspondente às faltas não justificadas não será contado para efeitos de antiguidade.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Faltas justificadas)
 
@@ -900,13 +923,13 @@ d) Falecimento do cônjuge ou de parente ou afim na linha recta e no 2.º grau d
 
 3. A entidade patronal poderá exigir do organismo interessado a prova da necessidade e urgência dos actos referidos na alínea b) do n.º 1, com recurso para a comissão corporativa.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Faltas autorizadas pela entidade patronal)
 
 As faltas prévia ou posteriormente autorizadas pela entidade patronal não determinam perda de retribuição nem diminuição do período de férias, salva estipulação ou usos em contrário.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Faltas por motivo de casamento)
 
@@ -914,7 +937,7 @@ As faltas prévia ou posteriormente autorizadas pela entidade patronal não dete
 
 2. A entidade patronal pagará a retribuição correspondente a três dias.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Faltas par motivo de luto)
 
@@ -928,7 +951,7 @@ b) Um dia, por falecimento dos restantes parentes ou afins mencionados na alíne
 
 #### SECÇÃO IV — Suspensão da prestação do trabalho por impedimento prolongado
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Princípio geral)
 
@@ -942,7 +965,7 @@ b) Um dia, por falecimento dos restantes parentes ou afins mencionados na alíne
 
 5. O disposto neste artigo não se aplica aos trabalhadores eventuais, em relação aos quais o contrato caduca nos termos do n.º 1 do artigo 97.º
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Substituição do trabalhador)
 
@@ -950,7 +973,7 @@ b) Um dia, por falecimento dos restantes parentes ou afins mencionados na alíne
 
 2. O substituto será contratado a termo incerto, caducando o respectivo contrato logo que cesse a suspensão; mas esta cláusula só lhe será oponível se constar de documento inscrito.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Regresso do trabalhador)
 
@@ -958,19 +981,19 @@ b) Um dia, por falecimento dos restantes parentes ou afins mencionados na alíne
 
 2. A entidade patronal que se oponha a que o trabalhador retome o serviço dentro do prazo de quinze dias a contar da data da sua apresentação, além de incorrer na sanção prevista na alínea e) do artigo 123.º, deve indemnizar o trabalhador nos termos dos artigos 106.º e 107.º
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Suspensão dos contratos com prazo)
 
 Sendo o contrato sujeito a prazo, certo ou incerto, a suspensão não impede a sua caducidade no termo do prazo.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Verificação de justa causa de rescisão durante a suspensão)
 
 A suspensão não prejudica o direito de, durante ela, qualquer das partes rescindir o contrato, ocorrendo justa causa.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Encerramento temporário do estabelecimento ou diminuição de laboração por facto imputável à entidade patronal)
 
@@ -984,7 +1007,7 @@ A suspensão não prejudica o direito de, durante ela, qualquer das partes resci
 
 5. Os contratos de trabalho caducam ao fim de seis meses, salvo se antes de decorrido este prazo a entidade patronal declarar o carácter definitivo do impedimento, caso em que se aplicará o regime da denúncia unilateral, sem prejuízo da observância do disposto na lei para os casos de despedimento colectivo.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Encerramento temporário do estabelecimento ou diminuição de laboração por caso fortuito ou de força maior)
 
@@ -996,7 +1019,7 @@ A suspensão não prejudica o direito de, durante ela, qualquer das partes resci
 
 4. O disposto nos números anteriores entende-se sem prejuízo da aplicação, se for caso disso, das providências que o [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, estabelece para protecção dos trabalhadores cujos contratos cessem em consequência de reorganização industrial ou despedimento colectivo.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Especiais garantias de emprego ou de retribuição)
 
@@ -1004,7 +1027,7 @@ Independentemente do disposto nos artigos anteriores, poderão ser estabelecidas
 
 ### CAPÍTULO V — Da retribuição
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Noção)
 
@@ -1012,7 +1035,7 @@ Independentemente do disposto nos artigos anteriores, poderão ser estabelecidas
 
 2. Até prova em contrário, presume-se constituir retribuição toda e qualquer prestação da entidade patronal ao trabalhador.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Modalidades de retribuição)
 
@@ -1020,19 +1043,19 @@ Independentemente do disposto nos artigos anteriores, poderão ser estabelecidas
 
 2. É certa a retribuição calculada exclusivamente em função do tempo e variável a calculada em função do rendimento do trabalho ou de outros factores.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Cálculo da retribuição variável)
 
 Havendo que determinar o valor da retribuição variável, tomar-se-á como tal a média dos valores que o trabalhador recebeu ou tinha direito a receber nos últimos doze meses, ou no tempo de execução do contrato, se este tiver sido celebrado há menos de doze meses.
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Impossibilidade de aplicação do artigo anterior)
 
 Não sendo praticável o processo estabelecido no artigo anterior, o cálculo da retribuição far-se-á segundo o disposto nas convenções colectivas ou despachos de regulamentação do trabalho e, na sua falta, segundo o prudente arbítrio do julgador.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Remuneração de trabalho extraordinário)
 
@@ -1040,13 +1063,13 @@ Não sendo praticável o processo estabelecido no artigo anterior, o cálculo da
 
 2. O disposto na primeira parte do número anterior não se aplica à remuneração certa, referida no artigo 50.º
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Ajudas de custo e outros abonos)
 
 Não se consideram retribuição as importâncias recebidas a título de ajudas de custo, abonos de viagem, despesas de transporte, abonos de instalação e outras equivalentes, devidas ao trabalhador por deslocações ou novas instalações, feitas em serviço da entidade patronal, salvo quando, sendo tais deslocações frequentes, essas importâncias, na parte que excedam as respectivas despesas normais, tenham sido previstas no contrato ou se devam considerar pelos usos como elemento integrante da remuneração do trabalhador.
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Gratificações)
 
@@ -1054,13 +1077,13 @@ Não se consideram retribuição as importâncias recebidas a título de ajudas 
 
 2. O disposto no número anterior não se aplica às gratificações que sejam devidas por fora do contrato ou das normas que o regem, ainda que a sua atribuição esteja condicionada aos bons serviços do trabalhador, nem àquelas que, pela sua importância e regularidade, devam considerar-se elemento essencial da remuneração daquele.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Participação nos lucros)
 
 Não se considera retribuição a participação nos lucros da empresa, desde que ao trabalhador esteja assegurada, pelo contrato, uma retribuição, certa ou variável, adequada ao seu trabalho.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Fixação judicial da retribuição)
 
@@ -1068,7 +1091,7 @@ Não se considera retribuição a participação nos lucros da empresa, desde qu
 
 2. Compete ainda ao mesmo tribunal resolver as dúvidas que se suscitarem na qualificação como retribuição das prestações recebidas da entidade patronal pelo trabalhador.
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Forma de pagamento)
 
@@ -1080,7 +1103,7 @@ Não se considera retribuição a participação nos lucros da empresa, desde qu
 
 4. Com o acordo do trabalhador, a entidade patronal poderá efectuar o pagamento por meio de cheque bancário ou vale postal.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Lugar de pagamento)
 
@@ -1090,7 +1113,7 @@ Não se considera retribuição a participação nos lucros da empresa, desde qu
 
 3. É nulo o pagamento da retribuição efectuado em estabelecimentos de venda de bebidas alcoólicas ou em casas de jogo, salvo tratando-se de pessoas que trabalham nesses estabelecimentos.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Tempo de pagamento)
 
@@ -1100,13 +1123,13 @@ Não se considera retribuição a participação nos lucros da empresa, desde qu
 
 3. Quando a retribuição for variável e a duração da unidade que serve de base ao cálculo exceder quinze dias, o trabalhador pode exigir que o pagamento se faça em prestações quinzenais.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Documento a entregar ao trabalhador)
 
 No acto do pagamento da retribuição, a entidade patronal deve entregar ao trabalhador documento donde conste o nome completo deste, número de inscrição na instituição de previdência respectiva, período a que a retribuição corresponde, discriminação das importâncias relativas a trabalho extraordinário e a trabalho em dias de descanso semanal ou feriado, todos os descontos e deduções devidamente especificados, bem como o montante líquido a receber.
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 (Compensações e descontos)
 
@@ -1126,7 +1149,7 @@ e) Aos preços de refeições no local de trabalho, da utilização de telefones
 
 3. Os descontos referidos nas alíneas b), c) e e) do número anterior não podem exceder no seu conjunto um sexto da retribuição.
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 (Insusceptibilidade de cessão)
 
@@ -1134,7 +1157,7 @@ O trabalhador não pode ceder, a título gratuito ou oneroso, os seus créditos 
 
 ### CAPÍTULO VII — Da cessação do contrato de trabalho
 
-###### ARTIGO 95.º
+ARTIGO 95.º
 
 (Causas de extinção do contrato de trabalho)
 
@@ -1150,7 +1173,7 @@ d) Sendo o contrato sem prazo ou tendo prazo superior a quatro anos e decorrido 
 
 2. O contrato de trabalho extingue-se ainda quando uma das partes unilateralmente o fizer cessar sem justa causa nem aviso prévio, mas tal cessação é ilícita e constitui o seu autor em responsabilidade para com a outra parte, nos termos fixados nos artigos 106.º e 107.º
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 (Revogação por mútuo acordo)
 
@@ -1158,7 +1181,7 @@ d) Sendo o contrato sem prazo ou tendo prazo superior a quatro anos e decorrido 
 
 2. A revogação deve constar de documento assinado por ambas as partes, sempre que estas acordem em lhe atribuir outros efeitos que não sejam a pura e simples cessação imediata do contrato.
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 (Caducidade)
 
@@ -1172,7 +1195,7 @@ c) Verificando-se a impossibilidade superveniente, absoluta e definitiva, de o t
 
 2. O disposto nas alíneas a) e b) do número anterior não prejudica a aplicação dos n.os 1 e 2 do artigo 10.º
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 (Rescisão com justa causa)
 
@@ -1182,7 +1205,7 @@ c) Verificando-se a impossibilidade superveniente, absoluta e definitiva, de o t
 
 3. Só são atendidas para fundamentar a rescisão com base em justa causa os factos como tal expressamente invocados na comunicação referida nos números anteriores.
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 (Justa causa de rescisão por iniciativa da entidade patronal)
 
@@ -1208,7 +1231,7 @@ i) A conduta intencional do trabalhador de forma a levar a entidade patronal a p
 
 j) Em geral, qualquer facto ou circunstância grave que torne pràticamente impossível a subsistência das relações que o contrato de trabalho supõe, nomeadamente a falta de cumprimento dos deveres previstos no artigo 20.º
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 (Justa causa de rescisão por iniciativa do trabalhador)
 
@@ -1232,13 +1255,13 @@ h) A conduta intencional da entidade patronal ou dos superiores hierárquicos de
 
 i) Em geral, qualquer facto ou circunstância grave que torne pràticamente impossível a subsistência das relações que o contrato de trabalho supõe, nomeadamente a falta de cumprimento dos deveres previstos no artigo 19.º
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 (Apreciação da justa causa)
 
 A existência da justa causa será apreciada pelo tribunal segundo o seu prudente critério, tendo sempre em atenção o carácter das relações entre o trabalhador e a entidade patronal ou os superiores hierárquicos, a condição social e grau de educação de uns e outros e as demais circunstâncias do caso.
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 (Ausência de justa causa)
 
@@ -1250,7 +1273,7 @@ b) Quando houver inequìvocamente perdoado à outra parte.
 
 2. Presume-se não constituírem os factos alegados justa causa quando entre o momento em que a parte ofendida tem conhecimento deles e a sua invocação mediou intervalo superior ao necessário para evitar os prejuízos de uma interrupção súbita do trabalho.
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 (Responsabilidade da parte que deu causa à rescisão)
 
@@ -1260,7 +1283,7 @@ b) Quando houver inequìvocamente perdoado à outra parte.
 
 3. A indemnização referida no n.º 1 deste artigo determina-se nos termos gerais de direito, mas nunca poderá ser inferior às indemnizações previstas nos artigos 106.º e 107.º, nem exceder o triplo destas.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 (Denúncia unilateral)
 
@@ -1276,13 +1299,13 @@ b) Metade do período referido na alínea anterior, se a iniciativa da denúncia
 
 4. A denúncia feita pela entidade patronal, nos termos deste artigo, obriga-a ao pagamento de uma compensação igual à retribuição correspondente a metade do período mencionado na alínea a) do n.º 1.
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 (Denúncia unilateral de contratos a longo prazo)
 
 Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter duração superior a quatro anos podem ser denunciados por qualquer das partes, nos termos do artigo anterior, uma vez decorrido aquele tempo.
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 (Extinção de contrato sem prazo, por decisão unilateral, sem justa causa nem aviso prévio)
 
@@ -1292,7 +1315,7 @@ Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter 
 
 3. O disposto neste artigo é aplicável à denúncia sem pré-aviso dos contratos a longo prazo, prevista no artigo 105.º
 
-###### ARTIGO 107.º
+ARTIGO 107.º
 
 (Extinção por decisão unilateral, sem justa causa, de contratos com prazo)
 
@@ -1302,7 +1325,7 @@ Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter 
 
 3. Se a rescisão sem justa causa for da iniciativa do trabalhador, a indemnização por este devida será determinada em função dos prejuízos sofridos pela entidade patronal, entre limites correspondentes a metade dos fixados no número anterior.
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 (Manifesta falta de recursos da entidade patronal)
 
@@ -1310,7 +1333,7 @@ Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter 
 
 2. O disposto no número anterior não prejudica a aplicação, se for caso disso, do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962.
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 (Cessação do contrato no período experimental)
 
@@ -1318,7 +1341,7 @@ Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter 
 
 2. O disposto no número anterior não se aplica se houver acordo expresso em contrário.
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 (Encerramento definitivo do estabelecimento)
 
@@ -1326,7 +1349,7 @@ Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter 
 
 2. Os trabalhadores têm, porém, direito à compensação ou indemnização fixada nos artigos 104.º, n.º 4, 106.º ou 107.º, salvo se for aplicável o disposto no artigo 108.º
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 (Falência e insolvência)
 
@@ -1336,7 +1359,7 @@ Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter 
 
 3. A cessação dos contratos de trabalho, no caso previsto neste artigo, fica sujeita ao regime geral estabelecido no presente capítulo.
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 (Certificado do trabalho)
 
@@ -1348,19 +1371,19 @@ Os contratos com prazo, certo ou incerto, que tenham ou se preveja venham a ter 
 
 #### SECÇÃO I — Do trabalho de mulheres
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Princípio geral)
 
 A entidade patronal tem o dever de proporcionar às mulheres condições de trabalho adequadas ao seu sexo, velando, de modo especial, pela preservação da sua saúde e moralidade.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 (Capacidade para receber a retribuição)
 
 A mulher casada tem sempre capacidade para receber a retribuição devida pelo seu trabalho.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Direitos das mulheres)
 
@@ -1378,13 +1401,13 @@ e) Interromper o trabalho diário em dois períodos de meia hora para aleitaçã
 
 2. A entidade patronal que não observar o disposto na alínea c) do número anterior, além de incorrer na sanção da alínea e) do artigo 123.º, ficará obrigada a pagar à trabalhadora despedida uma indemnização equivalente à retribuição que venceria até ao fim do período referido na mesma alínea c) do presente artigo, independentemente da indemnização prevista nos artigos 106.º e 107.º
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 (Trabalhos proibidos ou condicionados)
 
 O acesso das mulheres a qualquer profissão, emprego ou trabalho só pode ser condicionado, limitado ou proibido por lei, despacho de regulamentação do trabalho ou convenção colectiva, para salvaguarda da sua saúde ou moralidade ou para defesa da família.
 
-###### ARTIGO 117.º
+ARTIGO 117.º
 
 (Trabalhadoras com responsabilidades familiares)
 
@@ -1396,7 +1419,7 @@ O acesso das mulheres a qualquer profissão, emprego ou trabalho só pode ser co
 
 #### SECÇÃO II — Do trabalho de menores
 
-###### ARTIGO 118.º
+ARTIGO 118.º
 
 (Princípio geral)
 
@@ -1404,13 +1427,13 @@ O acesso das mulheres a qualquer profissão, emprego ou trabalho só pode ser co
 
 2. Mesmo fora do âmbito de qualquer contrato de aprendizagem, a entidade patronal é obrigada, na medida das suas possibilidades, a exercer sobre os trabalhadores menores uma acção constante de educação e de formação profissional, bem como a colaborar na acção que, no mesmo sentido, o Estado procurará desenvolver através dos seus serviços próprios ou em conjugação com as empresas.
 
-###### ARTIGO 119.º
+ARTIGO 119.º
 
 (Trabalhos proibidos ou condicionados)
 
-**O Ministro das Corporações e Previdência Social pode, por despacho, proibir ou condicionar a admissão de menores a trabalhos perigosos para o seu desenvolvimento físico, espiritual ou moral.**
+O Ministro das Corporações e Previdência Social pode, por despacho, proibir ou condicionar a admissão de menores a trabalhos perigosos para o seu desenvolvimento físico, espiritual ou moral.
 
-###### ARTIGO 120.º
+ARTIGO 120.º
 
 (Idade mínima)
 
@@ -1420,7 +1443,7 @@ O acesso das mulheres a qualquer profissão, emprego ou trabalho só pode ser co
 
 3. Havendo razões ponderosas, o Instituto Nacional do Trabalho e Previdência pode autorizar a admissão de menores com idade inferior aos limites estabelecidos neste artigo, desde que eles possuam as habilitações legalmente exigidas.
 
-###### ARTIGO 121.º
+ARTIGO 121.º
 
 (Capacidade do menor para celebrar o contrato e receber a retribuição)
 
@@ -1430,7 +1453,7 @@ O acesso das mulheres a qualquer profissão, emprego ou trabalho só pode ser co
 
 3. Em qualquer dos casos previstos nos números anteriores o menor tem capacidade para receber a retribuição devida pelo seu trabalhos, salvo, quando de idade inferior a 18 anos, houver oposição dos seus pais ou tutor.
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Duração das férias dos menores)
 
@@ -1438,7 +1461,7 @@ A duração das férias dos menores nunca pode ser inferior a doze dias úteis.
 
 ### CAPÍTULO VIII — Da violação das leis do trabalho
 
-###### ARTIGO 123.º
+ARTIGO 123.º
 
 (Multas)
 
@@ -1460,19 +1483,19 @@ g) De 5000$00 a 30000$00 por cada trabalhador em relação ao qual se verifique 
 
 h) De 20000$00 a 100000$00, no caso previsto no artigo 36.º, n.º 3.
 
-###### ARTIGO 124.º
+ARTIGO 124.º
 
 (Natureza das multas)
 
 1. As multas estabelecidas por infracção às normas legais e convencionais reguladoras das relações de trabalho são inconvertíveis em prisão, salvo quando a lei estabeleça expressamente o contrário.
 
-###### ARTIGO 125.º
+ARTIGO 125.º
 
 (Graduação das multas)
 
 As multas serão graduadas pelo tribunal em função da gravidade da infracção, da culpabilidade do infractor e das possibilidades económicas deste.
 
-###### ARTIGO 126.º
+ARTIGO 126.º
 
 (Reincidência)
 
@@ -1482,7 +1505,7 @@ As multas serão graduadas pelo tribunal em função da gravidade da infracção
 
 3. Se o autuante tiver conhecimento de que o infractor é reincidente, deverá atender a essa circunstância na fixação do montante da multa.
 
-###### ARTIGO 127.º
+ARTIGO 127.º
 
 (Agravamento das multas)
 
@@ -1490,25 +1513,25 @@ Os limites fixados no artigo 123.º serão elevados para o dobro sempre que o in
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 
-###### ARTIGO 128.º
+ARTIGO 128.º
 
 (Entrada em vigor)
 
 O presente diploma começará a vigorar em todo o território do continente e ilhas adjacentes no dia 23 de Setembro de 1966.
 
-###### ARTIGO 129.º
+ARTIGO 129.º
 
 (Aplicação no tempo)
 
 Ficam sujeitos ao regime estabelecido neste diploma, quer os contratos celebrados depois da sua entrada em vigor, quer os celebrados antes, salvo quanto aos efeitos de factos ou situações totalmente passadas anteriormente àquele momento.
 
-###### ARTIGO 130.º
+ARTIGO 130.º
 
 (Regime dos contratos em vigor)
 
 Mantêm-se todas as cláusulas dos contratos em vigor à data da publicação deste diploma que estabeleçam regime mais favorável para o trabalhador do que o nele previsto.
 
-###### ARTIGO 131.º
+ARTIGO 131.º
 
 (Contratos excluídos)
 
@@ -1520,18 +1543,18 @@ Mantêm-se todas as cláusulas dos contratos em vigor à data da publicação de
 
 4. O contrato de trabalho a bordo fica subordinado a legislação especial.
 
-###### ARTIGO 132.º
+ARTIGO 132.º
 
 (Prazo de revisão)
 
 Este diploma será obrigatòriamente revisto até 31 de Dezembro de 1968, e todas as modificações que de futuro se fizerem sobre a matéria serão nele mandadas inserir pelo Ministro das Corporações e Previdência Social.
 
-###### ARTIGO 133.º
+ARTIGO 133.º
 
 (Legislação revogada)
 
 Salvo na medida em que for aplicável aos contratos referidos no artigo 131.º, fica revogada a legislação anterior em tudo o que for contrário às disposições deste diploma, designadamente a [Lei n.º 1952](https://diariodarepublica.pt/dr/detalhe/lei/1952-1937-418059), de 10 de Março de 1937, o artigo 3.º e seus §§ 1.º, 2.º, 3.º, 4.º e 6.º do Decreto-Lei n.º 38596, alterado pelo artigo 14.º do [Decreto-Lei n.º 43182](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43182-1960-514841), de 4 de Janeiro de 1952, o [Decreto-Lei n.º 38768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38768-1952-561464), de 28 de Maio de 1952, e os artigos 1.º e seu § único, 3.º e 4.º do [Decreto-Lei n.º 43182](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43182-1960-514841), de 23 de Setembro de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

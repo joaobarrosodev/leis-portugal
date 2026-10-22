@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 302/1972, 2º Suplemento, Série I de 1972-12-30
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2144-(104) a 2144-(111)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30202/01040111.pdf
 entry_into_force_dates: []
@@ -47,40 +47,160 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1972-163788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b68a53e5cc237a0ddf974bbe29ed7ed8cf4476abe5cb8bd5d458857a1e067c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de764709d881c8792662f6ca3df20e8547f423ba5d039c58c807916fcae29633
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos de Saneamento Básico
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral dos Serviços de Urbanização
+- Direcção Geral dos Serviços Hidráulicos
+- Gabinete da Ponte sobre o TEJO
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Junta Autónoma das Estradas
+- Orgânica
+- Quadro de Pessoal
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:474753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411165:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral dos Serviços Hidráulicos, aprovado pelo presente diploma, pelo DEC\
+    \ LEI.677/73.20.12.1973.MOP, DG.IS [295] de 20.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/677-1973-411165
+  date: '1973-12-20'
+- type: amended_by
+  target: pt:dre:314915:por
+  label: "Alterados os quadros de Pessoal da Direcção Geral dos Serviços Hidraulicos e da Junta Autónoma de Estradas pelo\
+    \ DEC LEI.458/75.1975.08.22.MESA, DR.IS [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1975-314915
+  date: '1975-08-22'
+- type: amended_by
+  target: pt:dre:409170:por
+  label: "Alterados os arts. 13º, 16º e 17º pelo DEC LEI.771/76.25.10.1976.MOP, DR.IS [250] de 25.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/771-1976-409170
+  date: '1976-10-25'
+- type: amended_by
+  target: pt:dre:370784:por
+  label: "Extinta a Circunscrição de Urbanização da Madeira, pelo DEC LEI.365/79.1979.09.04.PCM, DR.IS [204]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1979-370784
+  date: '1979-09-04'
+- type: amends
+  target: pt:dre:475323:por
+  label: "Comete à JAE as atribuições do Gabinete da Ponte sobre o Tejo estabelecidas no Dec Lei 47107 de 19-Jul 1966 DG.IS\
+    \ [166]\0\0"
+  source: null
+  date: '1966-07-19'
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286114:por
+  label: "Revogados os artigos 6.º, 7.º, 9.º, 10.º, 11.º e 12.º pelo DEC LEI.383/77.10.09.1977.MOP, DR.IS [210] de 10.09.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1977-286114
+  date: '1977-09-10'
+- type: repealed_by
+  target: pt:dre:474753:por
+  label: "Revogados os artigos 20.º a 22.º pelo DEC LEI.183/80.04.06.1980.MHOP, DR.IS [129] de 04.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1980-474753
+  date: '1980-06-04'
 article_structure:
-  article_count: 1
-  section_count: 48
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:31Z'
   warnings: []
   errors: []
 ---
@@ -125,43 +245,43 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I) Direcção-Geral dos Serviços de Urbanização
 
-###### Artigo 1.º - 1. A Direcção-Geral dos Serviços de Urbanização disporá dos seguintes serviços técnicos e administrativos:
+Artigo 1.º - 1. A Direcção-Geral dos Serviços de Urbanização disporá dos seguintes serviços técnicos e administrativos:
 
 a) Direcção dos Serviços de Planeamento, compreendendo:
 
-##### Divisão de Planeamento Territorial;
+Divisão de Planeamento Territorial;
 
-##### Divisão de Planeamento Urbano;
+Divisão de Planeamento Urbano;
 
 ##### Divisão de Estudos;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 b) Direcção dos Serviços de Gestão Urbanística, compreendendo:
 
-##### Divisão de Promoção Urbanística;
+Divisão de Promoção Urbanística;
 
-##### Divisão de Fiscalização;
+Divisão de Fiscalização;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 c) Direcção dos Serviços de Equipamento, compreendendo:
 
-##### Divisão de Equipamento Urbano;
+Divisão de Equipamento Urbano;
 
-##### Divisão de Equipamento Rural;
+Divisão de Equipamento Rural;
 
-##### Divisão de Salubridade Urbana;
+Divisão de Salubridade Urbana;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 d) Repartição dos Serviços Administrativos, compreendendo:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral.
+Secção de Expediente Geral.
 
 e) Serviços externos, compreendendo:
 
@@ -175,7 +295,7 @@ Direcções distritais de urbanização, com sedes nas capitais dos restantes di
 
 4. Os directores das circunscrições de urbanização do continente serão coadjuvados por um subdirector.
 
-###### Art. 2.º - 1. A Direcção-Geral dos Serviços de Urbanização será assistida por um conselho consultivo, com a seguinte constituição:
+Art. 2.º - 1. A Direcção-Geral dos Serviços de Urbanização será assistida por um conselho consultivo, com a seguinte constituição:
 
 a) O director-geral, que servirá de presidente;
 
@@ -215,7 +335,7 @@ o) O chefe da Repartição dos Serviços Administrativos, que servirá de secret
 
 5. Junto de cada uma das circunscrições de urbanização funcionará uma comissão consultiva urbanística, cuja composição será fixada em portaria do Ministro das Obras Públicas.
 
-###### Art. 3.º À Direcção-Geral dos Serviços de Urbanização compete:
+Art. 3.º À Direcção-Geral dos Serviços de Urbanização compete:
 
 a) Promover e acompanhar, de acordo com o disposto no [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro, o planeamento urbanístico, assegurando a sua integração nas directrizes do ordenamento do território
 
@@ -225,15 +345,15 @@ c) Inventariar as necessidades existentes em matéria de equipamento, propondo a
 
 d) Apoiar as entidades responsáveis pelos planos de urbanização e pela execução dos equipamentos, prestando assistência técnica e concedendo a comparticipação financeira do Estado.
 
-###### Art. 4.º - 1. As circunscrições são serviços externos da Direcção dos Serviços de Planeamento e da Direcção dos Serviços de Gestão Urbanística e incumbe-lhes também coordenar regionalmente a actividade das direcções de urbanização, cujas funções exercerão nos distritos das respectivas sedes.
+Art. 4.º - 1. As circunscrições são serviços externos da Direcção dos Serviços de Planeamento e da Direcção dos Serviços de Gestão Urbanística e incumbe-lhes também coordenar regionalmente a actividade das direcções de urbanização, cujas funções exercerão nos distritos das respectivas sedes.
 
 2. Aos subdirectores das circunscrições compete superintender na actividade distrital da respectiva circunscrição em tudo quanto respeite a equipamento.
 
-###### Art. 5.º É aprovado o quadro do pessoal constante do mapa I anexo a este diploma e que dele faz parte integrante.
+Art. 5.º É aprovado o quadro do pessoal constante do mapa I anexo a este diploma e que dele faz parte integrante.
 
 II) Direcção-Geral dos Serviços Hidráulicos
 
-###### Art. 6.º - 1. A Direcção-Geral dos Serviços Hidráulicos disporá dos seguintes serviços técnicos e administrativos:
+Art. 6.º - 1. A Direcção-Geral dos Serviços Hidráulicos disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento;
 
@@ -241,43 +361,43 @@ b) Direcção dos Serviços Fluviais, compreendendo:
 
 ##### Divisão de Construção;
 
-##### Divisão de Conservação;
+Divisão de Conservação;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 c) Direcção dos Serviços de Aproveitamentos Hidráulicos, compreendendo:
 
-##### Divisão de Estudos Agronómicos;
+Divisão de Estudos Agronómicos;
 
 ##### Divisão de Hidrologia;
 
-##### Divisão de Estudos e Projectos;
+Divisão de Estudos e Projectos;
 
 ##### Divisão de Obras;
 
-##### Divisão de Concessões;
+Divisão de Concessões;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 d) Direcção dos Serviços de Saneamento, compreendendo:
 
-##### Divisão de Estudos e Projectos;
+Divisão de Estudos e Projectos;
 
 ##### Divisão de Obras;
 
-##### Divisão de Contrôle da Poluição;
+Divisão de Contrôle da Poluição;
 
 Laboratórios;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 e) Repartição dos Serviços Administrativos, compreendendo:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral.
+Secção de Expediente Geral.
 
 f) Serviços externos, compreendendo:
 
@@ -293,7 +413,7 @@ Direcção Hidráulica do Guadiana, com sede em Faro.
 
 2. O Ministro das Obras Públicas fixará, em portaria, a área de jurisdição de cada direcção hidráulica e das respectivas secções.
 
-###### Art. 7.º - 1. O conselho consultivo, que funciona junto da Direcção-Geral dos Serviços Hidráulicos, passa a ter a seguinte constituição:
+Art. 7.º - 1. O conselho consultivo, que funciona junto da Direcção-Geral dos Serviços Hidráulicos, passa a ter a seguinte constituição:
 
 a) O director-geral, que presidirá;
 
@@ -351,51 +471,51 @@ Os vogais da alínea s) serão indicados pela Corporação da Lavoura.
 
 8. A solicitação da Direcção-Geral de Saúde, cumpre ao conselho consultivo da Direcção-Geral dos Serviços Hidráulicos pronunciar-se sobre assuntos respeitantes à defesa sanitária das águas, bem como sobre os problemas sanitários básicos relacionados com a gestão da água.
 
-###### Art. 8.º Passam para a Direcção-Geral dos Serviços Hidráulicos as atribuições cometidas à Direcção-Geral dos Serviços de Urbanização pelo [Decreto-Lei n.º 47892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47892-1967-390474), de 14 de Setembro de 1967, pela [Lei n.º 2103](https://diariodarepublica.pt/dr/detalhe/lei/2103-1960-282482), de 22 de Março de 1960, e pelo [Decreto-Lei n.º 158/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838), de 13 de Abril, e demais legislação relativa à captação e utilização de águas subterrâneas, abastecimento de água e drenagem e tratamento de esgotos.
+Art. 8.º Passam para a Direcção-Geral dos Serviços Hidráulicos as atribuições cometidas à Direcção-Geral dos Serviços de Urbanização pelo [Decreto-Lei n.º 47892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47892-1967-390474), de 14 de Setembro de 1967, pela [Lei n.º 2103](https://diariodarepublica.pt/dr/detalhe/lei/2103-1960-282482), de 22 de Março de 1960, e pelo [Decreto-Lei n.º 158/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838), de 13 de Abril, e demais legislação relativa à captação e utilização de águas subterrâneas, abastecimento de água e drenagem e tratamento de esgotos.
 
-###### Art. 9.º É aprovado o quadro do pessoal constante do mapa II anexo a este diploma e que dele faz parte integrante.
+Art. 9.º É aprovado o quadro do pessoal constante do mapa II anexo a este diploma e que dele faz parte integrante.
 
-###### Art. 10.º - 1. É criado o Centro de Estudos de Saneamento Básico, com o fim de promover e realizar estudos que interessem ao saneamento básico do País e ao aperfeiçoamento das suas técnicas.
+Art. 10.º - 1. É criado o Centro de Estudos de Saneamento Básico, com o fim de promover e realizar estudos que interessem ao saneamento básico do País e ao aperfeiçoamento das suas técnicas.
 
 2. O Centro funcionará junto da Direcção-Geral dos Serviços Hidráulicos, com a qual trabalhará em estreita colaboração.
 
-###### Art. 11.º O Centro terá autonomia administrativa e financeira e será gerido por uma comissão administrativa composta por um presidente e dois vogais, da livre escolha e nomeação do Ministro das Obras Públicas.
+Art. 11.º O Centro terá autonomia administrativa e financeira e será gerido por uma comissão administrativa composta por um presidente e dois vogais, da livre escolha e nomeação do Ministro das Obras Públicas.
 
-###### Art. 12.º - 1. Constituem receitas do Centro as dotações do Orçamento Geral do Estado inscritas anualmente no seu orçamento privativo, o produto de subsídios, donativos e legados e quaisquer outras quantias que legalmente lhe forem atribuídas.
+Art. 12.º - 1. Constituem receitas do Centro as dotações do Orçamento Geral do Estado inscritas anualmente no seu orçamento privativo, o produto de subsídios, donativos e legados e quaisquer outras quantias que legalmente lhe forem atribuídas.
 
 2. A aplicação das receitas do Centro é feita mediante orçamento anual aprovado pelo Ministro das Obras Públicas e visado pelo Ministro das Finanças.
 
 III) Junta Autónoma de Estradas
 
-###### Art. 13.º - 1. A Junta Autónoma de Estradas disporá dos seguintes serviços técnicos e administrativos:
+Art. 13.º - 1. A Junta Autónoma de Estradas disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento, compreendendo:
 
 ##### Divisão de Estudos;
 
-##### Divisão de Planeamento;
+Divisão de Planeamento;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 b) Direcção dos Serviços de Construção, compreendendo:
 
 ##### Divisão de Projectos;
 
-##### Divisão de Geotecnia;
+Divisão de Geotecnia;
 
 ##### Divisão de Obras;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 c) Direcção dos Serviços de Exploração, compreendendo:
 
-##### Divisão de Conservação;
+Divisão de Conservação;
 
-##### Divisão de Circulação e Exploração;
+Divisão de Circulação e Exploração;
 
-##### Divisão de Equipamentos;
+Divisão de Equipamentos;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 d) Direcção dos Serviços de Viação Rural, compreendendo uma Divisão Técnica e uma Secção de Expediente Técnico.
 
@@ -403,9 +523,9 @@ e) Direcção dos Serviços de Pontes, compreendendo:
 
 ##### Divisão de Projectos;
 
-##### Divisão de Obras;
+Divisão de Obras;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 f) Gabinete da Ponte sobre o Tejo;
 
@@ -413,13 +533,13 @@ g) Repartição de Pessoal e Expediente Geral, compreendendo:
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral.
+Secção de Expediente Geral.
 
 h) Repartição de Contabilidade, compreendendo:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Mecanografia;
+Secção de Mecanografia;
 
 Tesouraria.
 
@@ -433,17 +553,17 @@ Direcções distritais, com sedes nas capitais dos restantes distritos do contin
 
 3. Os directores das circunscrições serão coadjuvados por um subdirector.
 
-###### Art. 14.º - 1. Passam a ser exercidas pela Junta Autónoma de Estradas as atribuições cometidas à Direcção-Geral dos Serviços de Urbanização na [Lei n.º 2108](https://diariodarepublica.pt/dr/detalhe/lei/2108-1961-569531), de 18 de Abril de 1961, no Regulamento Geral das Estradas e Caminhos Municipais, aprovado pela [Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974), de 19 de Agosto de 1961, e na demais legislação sobre estradas e caminhos municipais.
+Art. 14.º - 1. Passam a ser exercidas pela Junta Autónoma de Estradas as atribuições cometidas à Direcção-Geral dos Serviços de Urbanização na [Lei n.º 2108](https://diariodarepublica.pt/dr/detalhe/lei/2108-1961-569531), de 18 de Abril de 1961, no Regulamento Geral das Estradas e Caminhos Municipais, aprovado pela [Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974), de 19 de Agosto de 1961, e na demais legislação sobre estradas e caminhos municipais.
 
 2. A Comissão Permanente para a Classificação das Vias Municipais, a que se refere o artigo 3.º do [Decreto-Lei n.º 45552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45552-1964-285551), de 30 de Janeiro de 1964, funcionará na Junta Autónoma de Estradas e será constituída por um engenheiro inspector superior de obras públicas, que presidirá, pelo director dos Serviços de Viação Rural, da Junta Autónoma de Estradas, e por um representante da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 15.º - 1. Transitam para a Junta Autónoma de Estradas as atribuições conferidas ao Gabinete da Ponte sobre o Tejo no [Decreto-Lei n.º 47107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47107-1966-475323), de 19 de Julho de 1966, e no [Decreto n.º 47145](https://diariodarepublica.pt/dr/detalhe/decreto/47145-1966-474885), de 12 de Agosto de 1966.
+Art. 15.º - 1. Transitam para a Junta Autónoma de Estradas as atribuições conferidas ao Gabinete da Ponte sobre o Tejo no [Decreto-Lei n.º 47107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47107-1966-475323), de 19 de Julho de 1966, e no [Decreto n.º 47145](https://diariodarepublica.pt/dr/detalhe/decreto/47145-1966-474885), de 12 de Agosto de 1966.
 
 2. Os bens do Gabinete, assim como os seus direitos e obrigações, incluindo os inerentes aos contratos celebrados para a elaboração de projectos, execução de obras, arrendamento de imóveis ou qualquer outro fim, são transferidos para a Junta Autónoma de Estradas na data fixada no artigo 29.º
 
 3. É revogado o [Decreto-Lei n.º 44600](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44600-1962-160373), de 26 de Setembro de 1962.
 
-###### Art. 16.º - 1. As circunscrições são serviços externos da Direcção dos Serviços de Construção e, além disso, compete-lhes:
+Art. 16.º - 1. As circunscrições são serviços externos da Direcção dos Serviços de Construção e, além disso, compete-lhes:
 
 a) A execução dos serviços externos das Direcções dos Serviços de Exploração e de Viação Rural nos distritos, das respectivas sedes;
 
@@ -453,17 +573,17 @@ c) Gerir os parques regionais de equipamento.
 
 2. Aos subdirectores das circunscrições compete superintender na actividade distrital da respectiva circunscrição em tudo quanto respeite às Direcções dos Serviços de Exploração e de Viação Rural.
 
-###### Art. 17.º São exercidos pelas direcções distritais os serviços de conservação, reparação, arborização, exploração, polícia e cadastro que competem à Direcção dos Serviços de Exploração e os serviços externos da Direcção dos Serviços de Viação Rural.
+Art. 17.º São exercidos pelas direcções distritais os serviços de conservação, reparação, arborização, exploração, polícia e cadastro que competem à Direcção dos Serviços de Exploração e os serviços externos da Direcção dos Serviços de Viação Rural.
 
-###### Art. 18.º - 1. É aprovado o quadro do pessoal constante do mapa III anexo a este diploma e que dele faz parte integrante.
+Art. 18.º - 1. É aprovado o quadro do pessoal constante do mapa III anexo a este diploma e que dele faz parte integrante.
 
 2. O preenchimento do lugar de vice-presidente da Junta Autónoma de Estradas será feito nos termos da alínea b) do artigo 30.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, sendo-lhe extensivo o disposto no artigo 32.º do mesmo diploma.
 
-###### Art. 19.º São revogadas as seguintes disposições do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949: artigo 3.º e seus parágrafos, artigo 5.º, artigo 7.º e seus parágrafos, artigo 38.º e artigo 39.º e §§ 1.º e 2.º
+Art. 19.º São revogadas as seguintes disposições do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949: artigo 3.º e seus parágrafos, artigo 5.º, artigo 7.º e seus parágrafos, artigo 38.º e artigo 39.º e §§ 1.º e 2.º
 
 IV) Disposições comuns e gerais
 
-###### Art. 20.º Para a admissão aos lugares abaixo designados serão exigíveis as seguintes habilitações mínimas, ou outras equivalentes ou que vierem a corresponder-lhes:
+Art. 20.º Para a admissão aos lugares abaixo designados serão exigíveis as seguintes habilitações mínimas, ou outras equivalentes ou que vierem a corresponder-lhes:
 
 a) Técnicos: curso superior adequado;
 
@@ -471,19 +591,19 @@ b) Técnicos auxiliares: o 2.º ciclo do actual curso liceal ou cursos de forma�
 
 c) Agente rural: curso de agente rural, regulado pelo Decreto-Lei n.º 41382, de 21 de Novembro de 1957, ou o curso de feitor agrícola, aprovado pelo Decreto-Lei n.º 24361, de 14 de Agosto de 1954.
 
-###### Art. 21.º - 1. É aplicável aos directores e subdirectores dos serviços externos da Junta Autónoma de Estradas e da Direcção-Geral dos Serviços de Urbanização e aos chefes de secção externa da Direcção-Geral dos Serviços Hidráulicos o disposto no artigo 40.º do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, e no artigo 1.º do Decreto-Lei n.º 35215, de 8 de Abril de 1947.
+Art. 21.º - 1. É aplicável aos directores e subdirectores dos serviços externos da Junta Autónoma de Estradas e da Direcção-Geral dos Serviços de Urbanização e aos chefes de secção externa da Direcção-Geral dos Serviços Hidráulicos o disposto no artigo 40.º do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, e no artigo 1.º do Decreto-Lei n.º 35215, de 8 de Abril de 1947.
 
 2. Os lugares de subdirector serão preenchidos nos termos do disposto na alínea n) do artigo 3.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
 
 3. Os lugares de chefe de secção externa da Direcção-Geral dos Serviços Hidráulicos serão preenchidos em comissão de serviço, por escolha do Ministro das Obras Públicas entre engenheiros civis e adjuntos técnicos principais e de 1.ª classe, da especialidade de engenharia civil, do respectivo quadro.
 
-###### Art. 22.º A organização dos serviços, a composição dos quadros e a forma de recrutamento e provimento do pessoal poderão ser alteradas por decreto do Ministro das Obras Públicas, desde que daí não resulte aumento de despesa.
+Art. 22.º A organização dos serviços, a composição dos quadros e a forma de recrutamento e provimento do pessoal poderão ser alteradas por decreto do Ministro das Obras Públicas, desde que daí não resulte aumento de despesa.
 
-###### Art. 23.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas.
+Art. 23.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas.
 
 V) Disposições transitórias
 
-###### Art. 24.º - 1. O primeiro preenchimento das vagas dos quadros aprovados por este diploma poderá ser feito:
+Art. 24.º - 1. O primeiro preenchimento das vagas dos quadros aprovados por este diploma poderá ser feito:
 
 a) De entre funcionários vitalícios e contratados dos quadros da Direcção-Geral dos Serviços Hidráulicos, da Junta Autónoma de Estradas e da Direcção-Geral dos Serviços de Urbanização;
 
@@ -495,32 +615,32 @@ b) De entre pessoal dos mesmos serviços que possua as habilitações legais e q
 
 4. A integração do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 25.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
+Art. 25.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
 
 2. O Ministro das Obras Públicas poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários em número suficiente com o tempo mínimo de serviço referido na disposição anterior.
 
-###### Art. 26.º - 1. O pessoal contratado nos termos da legislação própria do Gabinete da Ponte sobre o Tejo que não ingresse no quadro da Junta Autónoma de Estradas transita para esta na situação que presentemente ocupa, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os respectivos contratos.
+Art. 26.º - 1. O pessoal contratado nos termos da legislação própria do Gabinete da Ponte sobre o Tejo que não ingresse no quadro da Junta Autónoma de Estradas transita para esta na situação que presentemente ocupa, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os respectivos contratos.
 
 2. Por igual forma se consideram válidos os contratos de prestação de serviço.
 
-###### Art. 27.º Os serviços externos da Direcção-Geral dos Serviços de Urbanização continuação a ocupar-se dos processos de comparticipação e de fiscalização das obras de viação rural, de abastecimento de água e de esgotos até que, por despacho do Ministro das Obras Públicas, a respectiva competência passe a ser exercida pelos serviços da Junta Autónoma de Estradas e da Direcção-Geral dos Serviços Hidráulicos.
+Art. 27.º Os serviços externos da Direcção-Geral dos Serviços de Urbanização continuação a ocupar-se dos processos de comparticipação e de fiscalização das obras de viação rural, de abastecimento de água e de esgotos até que, por despacho do Ministro das Obras Públicas, a respectiva competência passe a ser exercida pelos serviços da Junta Autónoma de Estradas e da Direcção-Geral dos Serviços Hidráulicos.
 
-###### Art. 28.º - 1. Os encargos resultantes deste diploma que não tenham cabimento nas respectivas dotações do Orçamento Geral do Estado serão suportados nos termos do artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
+Art. 28.º - 1. Os encargos resultantes deste diploma que não tenham cabimento nas respectivas dotações do Orçamento Geral do Estado serão suportados nos termos do artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
 
 2. Cumprido que seja o disposto no n.º 2 do artigo 24.º, e enquanto não se concretizem as necessárias providências de carácter orçamental, poderão ser utilizadas na satisfação dos encargos com pessoal resultantes do presente diploma as disponibilidades das verbas consignadas no orçamento do Ministério das Obras Públicas ao pagamento do pessoal dos respectivos quadros aprovados por lei.
 
-###### Art. 29.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1973, podendo, todavia, ser publicadas antes dessa data, mas para produzirem efeitos a partir da mesma, as listas a que se refere o artigo 24.º
+Art. 29.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1973, podendo, todavia, ser publicadas antes dessa data, mas para produzirem efeitos a partir da mesma, as listas a que se refere o artigo 24.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 29 de Dezembro de 1972.**
+Promulgado em 29 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Do MAPA I ao MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30202/01040111.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30202/01040111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30202/01040111.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

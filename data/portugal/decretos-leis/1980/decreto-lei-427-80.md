@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22600/30593061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1980-461627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6afe9b556afa70e0aced520e63a77cdefe329f3ab4989c82138437be7d0abdaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 965d5e2b41cbb3deeef25db109133cdfec06898a08165a828271269f160f49e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Emprego
+- Mercado do Trabalho
+- Regime Jurídico
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:615240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:615240:por
+  label: "Revogado, a partir de 19.04.1989, pelo DEC LEI.124/89.14.04.1989.MESS, DR.IS [87] de 14.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1989-615240
+  date: '1989-04-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:33Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +109,21 @@ Dada a especificidade da actividade dos agentes artísticos, aliás já abrangid
 
 Nestes termos, ao abrigo do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O exercício de actividades privadas de selecção e colocação com fim lucrativo fica sujeito ao disposto no presente diploma.
+Artigo 1.º - 1 - O exercício de actividades privadas de selecção e colocação com fim lucrativo fica sujeito ao disposto no presente diploma.
 
 2 - Considera-se que exercem as actividades a que se refere o número anterior as entidades que actuem como intermediárias entre a oferta e a procura de emprego com vista a obter qualquer proveito material.
 
 3 - As actividades de selecção e colocação desenvolvidas pelos agentes artísticos serão objecto de legislação especial.
 
-###### Art. 2.º - 1 - O exercício da actividade referida no n.º 1 do artigo anterior está dependente de licença a conceder pelo Ministro do Trabalho, quer se revele como actividade principal ou não.
+Art. 2.º - 1 - O exercício da actividade referida no n.º 1 do artigo anterior está dependente de licença a conceder pelo Ministro do Trabalho, quer se revele como actividade principal ou não.
 
 2 - A licença terá a validade de um ano.
 
-###### Art. 3.º - 1 - A licença a que se refere o artigo anterior só poderá ser concedida a entidades de reconhecida idoneidade para o exercício da actividade, em razão do que, tratando-se de sociedades, os respectivos administradores e gerentes deverão possuir igual requisito.
+Art. 3.º - 1 - A licença a que se refere o artigo anterior só poderá ser concedida a entidades de reconhecida idoneidade para o exercício da actividade, em razão do que, tratando-se de sociedades, os respectivos administradores e gerentes deverão possuir igual requisito.
 
 2 - Aos funcionários do Instituto do Emprego e Formação Profissional fica vedada qualquer forma de interesse ou actividade nos domínios de selecção e colocação abrangidos por este diploma.
 
-###### Art. 4.º - 1 - A licença referida no artigo 2.º será pedida ao Ministro do Trabalho, por intermédio do director regional do Instituto do Emprego e Formação Profissional territorialmente competente, em requerimento donde conste:
+Art. 4.º - 1 - A licença referida no artigo 2.º será pedida ao Ministro do Trabalho, por intermédio do director regional do Instituto do Emprego e Formação Profissional territorialmente competente, em requerimento donde conste:
 
 a) Nome ou denominação do requerente;
 
@@ -128,7 +137,7 @@ d) Local de exercício da actividade.
 
 3 - O Ministro do Trabalho determinará, por portaria, a taxa a pagar para efeitos de concessão de licenças.
 
-###### Art. 5.º O pedido de concessão de licença para o exercício das actividades reguladas pelo presente diploma será instruído com os seguintes documentos:
+Art. 5.º O pedido de concessão de licença para o exercício das actividades reguladas pelo presente diploma será instruído com os seguintes documentos:
 
 a) Certificado de registo criminal e curriculum escolar e profissional dos administradores e gerentes, tratando-se de sociedades, ou do requerente, se este for entidade em nome individual;
 
@@ -136,52 +145,52 @@ b) Mapa do pessoal ao serviço, com as seguintes indicações individuais: categ
 
 c) Cópia autenticada da escritura da constituição de sociedade, se for caso disso e se se tratar do pedido da primeira licença.
 
-###### Art. 6.º - 1 - As entidades que já exerçam as actividades de selecção e colocação com fim lucrativo deverão requerer a respectiva licença no prazo de trinta dias a partir da entrada em vigor do presente diploma.
+Art. 6.º - 1 - As entidades que já exerçam as actividades de selecção e colocação com fim lucrativo deverão requerer a respectiva licença no prazo de trinta dias a partir da entrada em vigor do presente diploma.
 
 2 - No caso de recusa da licença e de indeferimento de eventual reclamação sobre esta recusa, a actividade deverá cessar no prazo máximo de seis meses.
 
-###### Art. 7.º - 1 - O pedido de concessão da licença será apreciado caso a caso, tendo em consideração os elementos fornecidos pelo requerente, as condições do mercado de emprego e o parecer dos serviços competentes do Instituto do Emprego e Formação Profissional.
+Art. 7.º - 1 - O pedido de concessão da licença será apreciado caso a caso, tendo em consideração os elementos fornecidos pelo requerente, as condições do mercado de emprego e o parecer dos serviços competentes do Instituto do Emprego e Formação Profissional.
 
 2 - Os serviços do Instituto do Emprego e Formação Profissional poderão solicitar aos interessados elementos suplementares tidos por necessários ou convenientes à apreciação em causa.
 
-###### Art. 8.º - 1 - A licença a que se refere este diploma tem natureza pessoal e intransmissível a qualquer título, entre vivos ou mortis causa.
+Art. 8.º - 1 - A licença a que se refere este diploma tem natureza pessoal e intransmissível a qualquer título, entre vivos ou mortis causa.
 
 2 - No caso de substituição dos administradores ou gerentes de sociedade que exerçam as actividades regulamentadas neste diploma, os substitutos não poderão iniciar funções sem prévio despacho do Ministro do Trabalho, nos termos do disposto n.º 1 do artigo 3.º, ouvidos os serviços competentes do Instituto do Emprego e Formação Profissional e prestados que sejam os elementos estabelecidos na alínea a) do artigo 5.º
 
-###### Art. 9.º - 1 - O Ministro do Trabalho homologará, por portaria, a tabela das importâncias que poderão ser cobradas pela prestação de serviços por parte de entidades privadas de selecção e colocação com fim lucrativo.
+Art. 9.º - 1 - O Ministro do Trabalho homologará, por portaria, a tabela das importâncias que poderão ser cobradas pela prestação de serviços por parte de entidades privadas de selecção e colocação com fim lucrativo.
 
 2 - As tabelas referidas no número anterior serão afixadas por aquelas entidades em locais bem visíveis das suas instalações.
 
 3 - Em caso algum poderão ser cobradas pelos serviços prestados importâncias superiores às fixadas na tabela referida nos números anteriores.
 
-###### Art. 10.º São interditas as actividades de selecção e colocação de trabalhadores para fora do País.
+Art. 10.º São interditas as actividades de selecção e colocação de trabalhadores para fora do País.
 
-###### Art. 11.º - 1 - As pessoas singulares ou colectivas que exerçam as actividades privadas de selecção e colocação devem colaborar na política de emprego, cumprindo-lhes, sempre que solicitadas, fornecer às entidades públicas todos os elementos referentes à sua actividade.
+Art. 11.º - 1 - As pessoas singulares ou colectivas que exerçam as actividades privadas de selecção e colocação devem colaborar na política de emprego, cumprindo-lhes, sempre que solicitadas, fornecer às entidades públicas todos os elementos referentes à sua actividade.
 
 2 - As pessoas a que se refere o número anterior deverão, nomeadamente, fornecer às direcções regionais do Instituto do Emprego e Formação Profissional, até ao final dos meses de Janeiro, Abril, Julho e Outubro de cada ano, dados estatísticos referentes ao trimestre anterior, os quais constarão de mapas cujo modelo será aprovado por portaria do Ministro do Trabalho.
 
-###### Art. 12.º O Instituto do Emprego e Formação Profissional poderá estabelecer formas de articulação com as entidades privadas de selecção e de colocação com fim lucrativo, tendo por finalidade a colocação de trabalhadores inscritos nos serviços do Instituto ou naquelas entidades.
+Art. 12.º O Instituto do Emprego e Formação Profissional poderá estabelecer formas de articulação com as entidades privadas de selecção e de colocação com fim lucrativo, tendo por finalidade a colocação de trabalhadores inscritos nos serviços do Instituto ou naquelas entidades.
 
-###### Art. 13.º - 1 - Compete à Inspecção do Trabalho a fiscalização do cumprimento dos preceitos deste diploma por parte das entidades privadas.
+Art. 13.º - 1 - Compete à Inspecção do Trabalho a fiscalização do cumprimento dos preceitos deste diploma por parte das entidades privadas.
 
 2 - As entidades que exerçam actividades privadas de selecção e de colocação com fim lucrativo facultarão aos agentes de fiscalização todos os documentos e informações respeitantes à sua actividade que por eles sejam considerados necessários.
 
-###### Art. 14.º As infracções ao disposto no presente diploma ficam sujeitas a medidas administrativas, que poderão traduzir-se no cancelamento definitivo da licença, em conformidade com regulamento a aprovar pelo Ministro do Trabalho.
+Art. 14.º As infracções ao disposto no presente diploma ficam sujeitas a medidas administrativas, que poderão traduzir-se no cancelamento definitivo da licença, em conformidade com regulamento a aprovar pelo Ministro do Trabalho.
 
-###### Art. 15.º Sem prejuízo da sua eficácia, o presente diploma será regulamentado por despacho normativo do Ministro do Trabalho.
+Art. 15.º Sem prejuízo da sua eficácia, o presente diploma será regulamentado por despacho normativo do Ministro do Trabalho.
 
-###### Art. 16.º A interpretação de dúvidas e a integração de lacunas do presente diploma serão feitas por despacho do Ministro do Trabalho.
+Art. 16.º A interpretação de dúvidas e a integração de lacunas do presente diploma serão feitas por despacho do Ministro do Trabalho.
 
-###### Art. 17.º A competência conferida neste diploma ao Ministro do Trabalho poderá ser delegada com a faculdade de subdelegação.
+Art. 17.º A competência conferida neste diploma ao Ministro do Trabalho poderá ser delegada com a faculdade de subdelegação.
 
-###### Art. 18.º A extensão do presente regime às regiões autónomas fica dependente de diplomas a publicar pelos respectivos governos regionais.
+Art. 18.º A extensão do presente regime às regiões autónomas fica dependente de diplomas a publicar pelos respectivos governos regionais.
 
-###### Art. 19.º Este diploma entra em vigor noventa dias após a data da sua publicação.
+Art. 19.º Este diploma entra em vigor noventa dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 19 de Setembro de 1980.**
+Promulgado em 19 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

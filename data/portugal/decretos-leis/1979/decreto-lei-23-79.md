@@ -46,40 +46,147 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78ecaa45df16e39dd81e3ccacaebab67acc6bc36540fb1d1f84206791958423b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e3f83fed24f1fcc7481d0f348c0bbdb236f6bfcae35a9871068de779ad7ef76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Gestão Financeira da Segurança Social
+- Quadro de Pessoal
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:2129369:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382641:por
+  label: "Alterados os artigos 20.º e 21.º pelo DEC LEI.139/79.19.05.1979.PCM, DR.IS [115] de 19.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1979-382641
+  date: '1979-05-19'
+- type: amended_by
+  target: pt:dre:470789:por
+  label: "Alterado o quadro do pessoal pelo DEC LEI.290/80.16.08.1980.PCM, DR.IS [188] de 16.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1980-470789
+  date: '1980-08-16'
+- type: amended_by
+  target: pt:dre:462792:por
+  label: "Alterado o quadro e as carreiras do pessoal a que se refere o artigo 2.º, pela PORT.850/80.22.10.1980.PCM, DR.IS\
+    \ [245] de 22.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/850-1980-462792
+  date: '1980-10-22'
+- type: amended_by
+  target: pt:dre:457634:por
+  label: "Alterado o quadro de pessoal pela PORT.910/80.29.10.1980.PCM, DR.IS [251] de 29.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/910-1980-457634
+  date: '1980-10-29'
+- type: amended_by
+  target: pt:dre:392837:por
+  label: "Alterado o quadro de pessoal pela PORT.472/82.06.05.1982.MFP, DR.IS [104] de 06.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/472-1982-392837
+  date: '1982-05-06'
+- type: amended_by
+  target: pt:dre:387335:por
+  label: "Alterado o quadro do pessoal pela PORT.420/84.28.06.1984.PCM, DR.IS [148] de 28.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-1984-387335
+  date: '1984-06-28'
+- type: amended_by
+  target: pt:dre:381702:por
+  label: "Alterado o quadro de pessoal pela PORT.504/84.26.07.1984.PCM, DR.IS [172] de 26.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/504-1984-381702
+  date: '1984-07-26'
+- type: amended_by
+  target: pt:dre:183444:por
+  label: "Alterado o quadro de pessoal, a que se refere o artigo 2.º, pelo DEC LEI.269/85.16.07.1985.MTSS, DR.IS [161] de\
+    \ 16.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-1985-183444
+  date: '1985-07-16'
+- type: amended_by
+  target: pt:dre:662900:por
+  label: "Alterado o quadro do pessoal pela PORT.78/87.05.02.1987.MF, DR.IS [30] de 05.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1987-662900
+  date: '1987-02-05'
+- type: amended_by
+  target: pt:dre:662939:por
+  label: "Alterado o quadro de pessoal pela PORT.94/87.10.02.1987.MF, DR.IS [34] de 10.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-1987-662939
+  date: '1987-02-10'
+- type: amended_by
+  target: pt:dre:583457:por
+  label: "Alterado o quadro de pessoal pela PORT.4/88.06.01.1988.MF, DR.IS [4] de 06.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1988-583457
+  date: '1988-01-06'
+- type: amended_by
+  target: pt:dre:285766:por
+  label: "Alterado o quadro de pessoal pela PORT.168/88.19.03.1988.MF, DR.IS [66] de 19.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1988-285766
+  date: '1988-03-19'
+- type: amended_by
+  target: pt:dre:610447:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, pelo PORT.75/89.02.02.1989.MF, DR.IS [28] de 02.02.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/75-1989-610447
+  date: '1989-02-02'
+- type: amended_by
+  target: pt:dre:575323:por
+  label: "Alterado o quadro do pessoal pela PORT.484/90.29.06.1990.MF, DR.IS [148] de 29.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-1990-575323
+  date: '1990-06-29'
+- type: amended_by
+  target: pt:dre:2129369:por
+  label: "ALTERADO O QUADRO DE PESSSOAL POR PORT.287/2003(2ªSÉRIE).2002.11.12.MF, MSST, DR.IIS [53] DE 4/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/287-2003-2129369
+  date: '2002-11-12'
+- type: amended_by
+  target: pt:dre:3653934:por
+  label: "Alterado o quadro de pessoal por PORT.297/2003(2ªSÉRIE).2002.11.12.MF, DR.IIS [56] de 7/Mar/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-2003-3653934
+  date: '2003-03-07'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:383238:por
+  label: Rectificado pela DECL.DD7197.17.03.1979.PCM, DR.IS [64] de 17.03.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383238
+  date: '1979-03-17'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:16Z'
   warnings: []
   errors: []
 ---
@@ -326,24 +433,24 @@ As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por
 
 3 - Os artigos 12.º e 20.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, passam a ter as seguintes redacções:
 
-###### Art. 12.º - 1 - O conselho directivo é constituído por três membros, sendo o presidente, com a categoria de director, nomeado pelo Ministro dos Assuntos Sociais, e os dois vogais, com a categoria de subdirectores, nomeados pelo Secretário de Estado da Segurança Social.
+Art. 12.º - 1 - O conselho directivo é constituído por três membros, sendo o presidente, com a categoria de director, nomeado pelo Ministro dos Assuntos Sociais, e os dois vogais, com a categoria de subdirectores, nomeados pelo Secretário de Estado da Segurança Social.
 
 2 - Recaindo as nomeações em funcionários do Estado ou em empregados das instituições de segurança social, os cargos serão exercidos sem prejuízo de todos os direitos inerentes aos seus quadros de origem, incluindo os de acesso, considerando-se o período da comissão, para todos os efeitos, como serviço prestado nesse quadro.
 
 ...
 
-###### Art. 20.º A estrutura orgânica e funcional dos serviços do Instituto será estabelecida de acordo com o estatuído no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 25 de Janeiro.
+Art. 20.º A estrutura orgânica e funcional dos serviços do Instituto será estabelecida de acordo com o estatuído no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 25 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.
 
-**Promulgado em 3 de Fevereiro de 1979.**
+Promulgado em 3 de Fevereiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa do pessoal, a que se refere o artigo 2.º do Decreto-Lei n.º 23/79
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf))](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf)
 
 Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/98-1972-396302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 486835df0bd319c1464a5c6c37e783326986b361fc7848d5d898d898f0537787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11495e960c152cce60a2afb213ee27175b7273bdc7ad3edbb1ed62af31e19068
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:21Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +93,20 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada a Capitania dos Portos do Zambeze, com sede em Tete e jurisdição na costa desde a margem esquerda do rio Mupa, a sul, e a margem direita do rio Linde, a norte, e, bem assim, em todo o curso do rio Zambeze e seus afluentes e ainda nos rios e seus afluentes, estuários, canais, mucurros e lagoas existentes naquela área e que directa ou indirectamente comuniquem com o mar, mesmo quando só periòdicamente possam de algum modo influir no regime dos portos e na navegação interior.
+Artigo 1.º É criada a Capitania dos Portos do Zambeze, com sede em Tete e jurisdição na costa desde a margem esquerda do rio Mupa, a sul, e a margem direita do rio Linde, a norte, e, bem assim, em todo o curso do rio Zambeze e seus afluentes e ainda nos rios e seus afluentes, estuários, canais, mucurros e lagoas existentes naquela área e que directa ou indirectamente comuniquem com o mar, mesmo quando só periòdicamente possam de algum modo influir no regime dos portos e na navegação interior.
 
-###### Art. 2.º A Capitania do Porto do Chinde passa a Delegação Marítima de 2.ª classe, com jurisdição na costa desde a margem esquerda do rio Mupa, a sul, até à margem direita do rio Linde, a norte, e no rio Zambeze e seus afluentes até à confluência com o rio Chire.
+Art. 2.º A Capitania do Porto do Chinde passa a Delegação Marítima de 2.ª classe, com jurisdição na costa desde a margem esquerda do rio Mupa, a sul, até à margem direita do rio Linde, a norte, e no rio Zambeze e seus afluentes até à confluência com o rio Chire.
 
-###### Art. 3.º Ficam subordinadas à Capitania dos Portos do Zambeze a Delegação Marítima de 2.ª classe do Chinde e as Delegações Fluviais de 2.ª classe de Mutarara, Zumbo e Megaza.
+Art. 3.º Ficam subordinadas à Capitania dos Portos do Zambeze a Delegação Marítima de 2.ª classe do Chinde e as Delegações Fluviais de 2.ª classe de Mutarara, Zumbo e Megaza.
 
-###### Art. 4.º É extinta a Delegação Marítima de 2.ª classe de Tete.
+Art. 4.º É extinta a Delegação Marítima de 2.ª classe de Tete.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 17 de Março de 1972.**
+Promulgado em 17 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.

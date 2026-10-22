@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1978-329582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42ece733b1f7fb1f81d690435b11e4b77dcdc18d44c658cc138cbcc4c4e2023b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff9f29de81841841609202175b97208a9bb57ca89558cac5d4852f3a77077618
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Reestruturação de Carreiras
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606532:por
+  label: "Alterados os artigos 29.º, 31.º, 35.º, 60.º, 62.º, 67.º, o n.º 1 do artigo 71.º, os artigos 82.º, 85.º, o n.º 1\
+    \ do artigo 97.º e o artigo 127.º, e aditada uma nova alínea ao n.º 2 do artigo 89.º, pelo DEC LEI.120/82.22.04.1982.CR,\
+    \ DR.IS [93] de 22.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1982-606532
+  date: '1982-04-22'
+- type: amended_by
+  target: pt:dre:326928:por
+  label: Alterado o n.º 2 do art. 75.º do presente diploma, pelo(a) Decreto-Lei n.º 66/85 - Diário da República n.º 64/1985,
+    Série I de 1985-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1985-326928
+  date: '1985-03-18'
+- type: amended_by
+  target: pt:dre:181000:por
+  label: "Dada nova redacção ao art. 10.º do presente diploma, pela PORT.631/85.23.08.1985.MDN, DR.IS [193] de 23.08.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/631-1985-181000
+  date: '1985-08-23'
+- type: amended_by
+  target: pt:dre:663289:por
+  label: "Alterada a redacção da condição 4) da alínea a) do artigo 29.º do presente diploma, alterado pelo Decreto-Lei n.º\
+    \ 120/82, de 22 de Abril, pelo DEC LEI.41/87.28.01.1987.MDN, DR.IS [23] de 28.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1987-663289
+  date: '1987-01-28'
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416459:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:327997:por
+  label: Rectificado pela DECL.DD7474.23.10.1978.CR, DR.IS [244] de 23.10.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-327997
+  date: '1978-10-23'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:43Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +144,11 @@ Tendo em conta que a necessidade de regulamentação dos novos aspectos da carre
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Consideram-se sargentos dos quadros permanentes os que, destinados voluntariamente à carreira das armas, adquiriram preparação especial para o seu exercício e servem na Marinha com carácter de permanência.
+Artigo 1.º Consideram-se sargentos dos quadros permanentes os que, destinados voluntariamente à carreira das armas, adquiriram preparação especial para o seu exercício e servem na Marinha com carácter de permanência.
 
-###### Art. 2.º - 1 - Na categoria dos sargentos da Armada existem os seguintes quadros:
+Art. 2.º - 1 - Na categoria dos sargentos da Armada existem os seguintes quadros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
 
 2 - Os sargentos pertencentes ao quadro de sargentos do activo, da reserva da Armada com direito a pensão, reformados ou separados do serviço são genericamente designados por sargentos dos quadros permanentes.
 
@@ -118,39 +164,39 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 8 - Os sargentos mantêm a classe a que pertenciam antes do seu acesso a esta categoria, podendo, no entanto, no caso dos músicos, esse acesso corresponder ao ingresso na classe.
 
-###### Art. 3.º O ingresso na categoria de sargentos dos quadros permanentes tem lugar pela promoção das praças ao posto de segundo-sargento, salvo no caso da classe dos músicos, em que esse ingresso pode ter lugar por concurso em qualquer dos postos dessa categoria.
+Art. 3.º O ingresso na categoria de sargentos dos quadros permanentes tem lugar pela promoção das praças ao posto de segundo-sargento, salvo no caso da classe dos músicos, em que esse ingresso pode ter lugar por concurso em qualquer dos postos dessa categoria.
 
-###### Art. 4.º O ingresso dos sargentos no respectivo quadro do activo determina o seu provimento definitivo neste quadro.
+Art. 4.º O ingresso dos sargentos no respectivo quadro do activo determina o seu provimento definitivo neste quadro.
 
-###### Art. 5.º O número de sargentos de cada classe agrupados pelos respectivos postos constitui o quadro da classe; o número de sargentos de cada posto em cada classe constitui o quadro desse posto.
+Art. 5.º O número de sargentos de cada classe agrupados pelos respectivos postos constitui o quadro da classe; o número de sargentos de cada posto em cada classe constitui o quadro desse posto.
 
-###### Art. 6.º - 1 - A constituição dos quadros de sargentos do activo é função das necessidades da Marinha para o desempenho das tarefas que lhe estão atribuídas, e os efectivos do mesmo quadro são fixados por decreto-lei.
+Art. 6.º - 1 - A constituição dos quadros de sargentos do activo é função das necessidades da Marinha para o desempenho das tarefas que lhe estão atribuídas, e os efectivos do mesmo quadro são fixados por decreto-lei.
 
 2 - Sem prejuízo do estabelecido no número anterior, a constituição dos quadros deverá assegurar que o acesso a postos correspondentes em quadros de idênticas características se realize com o mínimo de desfasamento.
 
-###### Art. 7.º O ordenamento hierárquico dos sargentos da Armada é feito segundo postos e antiguidade.
+Art. 7.º O ordenamento hierárquico dos sargentos da Armada é feito segundo postos e antiguidade.
 
-###### Art. 8.º - 1 - Os postos de sargento da Armada, por ordem decrescente, e a sua correspondência com os postos do Exército e da Força Aérea, são os seguintes:
+Art. 8.º - 1 - Os postos de sargento da Armada, por ordem decrescente, e a sua correspondência com os postos do Exército e da Força Aérea, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
 
 2 - O posto de subsargento existe apenas no quadro de complemento.
 
-###### Art. 9.º - 1 - Em igualdade de postos, a hierarquia é definida pela antiguidade relativa determinada pela data da promoção e, em igualdade desta, pela antiguidade do posto anterior e assim, sucessivamente; no caso de ainda se manter a igualdade, será mais antigo o que tiver mais tempo de serviço na Armada e, em igualdade deste, o que tiver mais idade.
+Art. 9.º - 1 - Em igualdade de postos, a hierarquia é definida pela antiguidade relativa determinada pela data da promoção e, em igualdade desta, pela antiguidade do posto anterior e assim, sucessivamente; no caso de ainda se manter a igualdade, será mais antigo o que tiver mais tempo de serviço na Armada e, em igualdade deste, o que tiver mais idade.
 
 2 - Nos sargentos do mesmo posto e pertencentes ao mesmo quadro a antiguidade relativa é sempre definida pelas respectivas posições nas escalas de antiguidade elaboradas pela 2.ª Repartição da Direcção do Serviço do Pessoal.
 
-###### Art. 10.º - 1 - As classes em que, sob o ponto de vista profissional e técnico, se agrupam os sargentos são as seguintes:
+Art. 10.º - 1 - As classes em que, sob o ponto de vista profissional e técnico, se agrupam os sargentos são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
 
 2 - A classe dos electrotécnicos (ET) compreende os seguintes ramos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21700/19751988.pdf)
 
 de cursos de especialização, obter especializações próprio.
 
-###### Art. 11.º - 1 - Para o desempenho de determinadas funções podem os sargentos, mediante frequência de cursos de especialização, obter especializações próprias.
+Art. 11.º - 1 - Para o desempenho de determinadas funções podem os sargentos, mediante frequência de cursos de especialização, obter especializações próprias.
 
 2 - A especialização em submarinos, a que pertencem as letras designativas de especialização SS, pode ser obtida pelas classes necessárias às guarnições dos submarinos.
 
@@ -158,19 +204,19 @@ de cursos de especialização, obter especializações próprio.
 
 4 - As especializações dão direito ao uso de distintivo próprio.
 
-###### Art. 12.º Os sargentos da Armada são designados quer pelo cargo que desempenham, quer pelo número de identificação, seguidos do posto e classe (ou subclasse, ramo ou especialização) e nome.
+Art. 12.º Os sargentos da Armada são designados quer pelo cargo que desempenham, quer pelo número de identificação, seguidos do posto e classe (ou subclasse, ramo ou especialização) e nome.
 
-###### Art. 13.º - 1 - Aos sargentos da Armada compete o desempenho de funções em comandos, forças, unidades e serviços da Armada, nos diversos organismos da Administração Central da Marinha e da Direcção-Geral dos Serviços de Fomento Marítimo, de acordo com os respectivos quadros, classes e postos.
+Art. 13.º - 1 - Aos sargentos da Armada compete o desempenho de funções em comandos, forças, unidades e serviços da Armada, nos diversos organismos da Administração Central da Marinha e da Direcção-Geral dos Serviços de Fomento Marítimo, de acordo com os respectivos quadros, classes e postos.
 
 2 - Aos mesmos sargentos compete ainda desempenhar as funções que à Marinha respeitam nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas e noutros departamentos do Estado.
 
-###### Art. 14.º De uma maneira geral, aos sargentos do quadro do activo, com excepção dos músicos, compete, além das funções inerentes ao seu posto, na qualidade de militares da Armada, exercer, a nível adequado, actividades específicas da classe e outras para as quais tenham recebido conveniente preparação.
+Art. 14.º De uma maneira geral, aos sargentos do quadro do activo, com excepção dos músicos, compete, além das funções inerentes ao seu posto, na qualidade de militares da Armada, exercer, a nível adequado, actividades específicas da classe e outras para as quais tenham recebido conveniente preparação.
 
-###### Art. 15.º - 1 - À excepção no que respeita ao posto de sargento-mor, onde a actividade dos sargentos pode estar associada indistintamente a conhecimentos específicos da classe ou a outros, as funções que competem aos sargentos nos restantes postos da categoria serão desempenhadas, tanto quanto possível, no âmbito das atribuições próprias da classe a que pertencem.
+Art. 15.º - 1 - À excepção no que respeita ao posto de sargento-mor, onde a actividade dos sargentos pode estar associada indistintamente a conhecimentos específicos da classe ou a outros, as funções que competem aos sargentos nos restantes postos da categoria serão desempenhadas, tanto quanto possível, no âmbito das atribuições próprias da classe a que pertencem.
 
 2 - Os sargentos da classe de músicos desempenham, exclusivamente, funções específicas da classe.
 
-###### Art. 16.º Sem prejuízo do disposto no artigo anterior, as actividades específicas da classe estão ligadas:
+Art. 16.º Sem prejuízo do disposto no artigo anterior, as actividades específicas da classe estão ligadas:
 
 a) Nos postos de sargento-mor e sargento-chefe, ao planeamento, à organização, à direcção e ao contrôle, nos sectores do pessoal e do material, e à instrução e à condução do pessoal;
 
@@ -178,9 +224,9 @@ b) No posto de sargento-ajudante, à organização, à direcção e ao contrôle
 
 c) Nos postos de primeiro-sargento e segundo-sargento, à instrução e condução do pessoal e à participação na execução de trabalhos técnicos e, bem assim, de tarefas com eles associadas, incluindo funções de contrôle.
 
-###### Art. 17.º As funções que aos sargentos competem, no âmbito específico das classes a que pertencem, serão fixadas em portaria do Chefe do Estado-Maior da Armada.
+Art. 17.º As funções que aos sargentos competem, no âmbito específico das classes a que pertencem, serão fixadas em portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 18.º - 1 - As classes e postos dos sargentos do activo destinados ao desempenho dos diversos cargos são estabelecidos nos regulamentos orgânicos da Marinha, na Ordenança do Serviço Naval, no Regulamento de Infantaria da Armada e nos diplomas que fixam as lotações dos comandos, forças, unidades, serviços e órgãos de execução de serviços.
+Art. 18.º - 1 - As classes e postos dos sargentos do activo destinados ao desempenho dos diversos cargos são estabelecidos nos regulamentos orgânicos da Marinha, na Ordenança do Serviço Naval, no Regulamento de Infantaria da Armada e nos diplomas que fixam as lotações dos comandos, forças, unidades, serviços e órgãos de execução de serviços.
 
 2 - Nenhum sargento deverá ser nomeado para desempenhar funções que competem a sargentos de posto inferior àquele a que tenha ascendido.
 
@@ -188,11 +234,11 @@ c) Nos postos de primeiro-sargento e segundo-sargento, à instrução e conduç�
 
 4 - Os sargentos que nas condições do número anterior desempenham funções de posto superior ao seu são considerados, enquanto naquela situação, com autoridade correspondente a esse posto em relação a todos que lhe estão directamente subordinados.
 
-###### Art. 19.º Os sargentos do quadro de sargentos da reserva da Armada com direito a pensão, quando prestando serviço efectivo, desempenham funções correspondentes à sua classe e posto.
+Art. 19.º Os sargentos do quadro de sargentos da reserva da Armada com direito a pensão, quando prestando serviço efectivo, desempenham funções correspondentes à sua classe e posto.
 
-###### Art. 20.º Aos sargentos do quadro de sargentos do activo deve ser cometido o desempenho dos vários tipos de funções características das suas classes, subclasses ou ramos e postos, com vista à sua adequada preparação em cada posto e para os postos imediatos.
+Art. 20.º Aos sargentos do quadro de sargentos do activo deve ser cometido o desempenho dos vários tipos de funções características das suas classes, subclasses ou ramos e postos, com vista à sua adequada preparação em cada posto e para os postos imediatos.
 
-###### Art. 21.º - 1 - Consideram-se no quadro de sargentos do activo os sargentos dos quadros permanentes que, não tendo atingido os limites de idade estabelecidos no artigo 32.º, nem tendo sido julgados incapazes para o serviço activo, se encontrem nele presentes ou em condições de serem ou virem a ser chamados ao seu desempenho.
+Art. 21.º - 1 - Consideram-se no quadro de sargentos do activo os sargentos dos quadros permanentes que, não tendo atingido os limites de idade estabelecidos no artigo 32.º, nem tendo sido julgados incapazes para o serviço activo, se encontrem nele presentes ou em condições de serem ou virem a ser chamados ao seu desempenho.
 
 2 - Em relação à prestação de serviço, os sargentos do quadro de sargentos do activo podem estar nas seguintes condições:
 
@@ -224,13 +270,13 @@ a) Sejam transferidos para os quadros seguintes:
 
 b) Sejam abatidos aos quadros permanentes, nos termos expressos no artigo 37.º
 
-###### Art. 22.º São considerados em comissão normal os sargentos do quadro do activo prestando serviço nos departamentos militares ou desempenhando outras funções equivalentes às que, no caso de oficiais, correspondem à situação de comissão normal, estabelecida nos respectivos estatutos.
+Art. 22.º São considerados em comissão normal os sargentos do quadro do activo prestando serviço nos departamentos militares ou desempenhando outras funções equivalentes às que, no caso de oficiais, correspondem à situação de comissão normal, estabelecida nos respectivos estatutos.
 
-###### Art. 23.º - 1 - São considerados em comissão especial os sargentos que estejam desempenhando funções públicas que não sejam de natureza militar fora dos departamentos militares, designadamente exercendo cargos e funções equivalentes às que para oficiais implicam a colocação nessa situação, nos termos previstos nos respectivos estatutos.
+Art. 23.º - 1 - São considerados em comissão especial os sargentos que estejam desempenhando funções públicas que não sejam de natureza militar fora dos departamentos militares, designadamente exercendo cargos e funções equivalentes às que para oficiais implicam a colocação nessa situação, nos termos previstos nos respectivos estatutos.
 
 2 - Dos sargentos em comissão especial são considerados em comissão civil aqueles que desempenhem funções que, pela sua natureza, tanto possam ser exercidas por militares como por civis.
 
-###### Art. 24.º - 1 - Consideram-se na inactividade temporária os sargentos do quadro do activo afastados temporariamente do serviço por motivo de doença, licença da correspondente junta médica ou por motivo disciplinar. Os sargentos são colocados na inactividade temporária nos seguintes casos:
+Art. 24.º - 1 - Consideram-se na inactividade temporária os sargentos do quadro do activo afastados temporariamente do serviço por motivo de doença, licença da correspondente junta médica ou por motivo disciplinar. Os sargentos são colocados na inactividade temporária nos seguintes casos:
 
 a) Por motivo de doença adquirida em serviço ou por motivo do mesmo, quando excedam doze meses de impedimento por doença ou licença da junta ou de um adicionado ao outro;
 
@@ -242,17 +288,17 @@ c) Por motivo disciplinar, quando lhes seja aplicada a pena de inactividade prev
 
 3 - Para efeito de contagem do período referido na alínea a) do n.º 1, são contados todos os períodos de impedimento por doença ou licença da junta desde que o intervalo entre dois períodos consecutivos seja inferior a trinta dias.
 
-###### Art. 25.º Consideram-se de licença ilimitada os sargentos a quem seja concedida esta licença nos termos do artigo 117.º
+Art. 25.º Consideram-se de licença ilimitada os sargentos a quem seja concedida esta licença nos termos do artigo 117.º
 
-###### Art. 26.º - 1 - Nenhum sargento dos quadros do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que preste um mínimo de três anos de serviço nesta comissão.
+Art. 26.º - 1 - Nenhum sargento dos quadros do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que preste um mínimo de três anos de serviço nesta comissão.
 
 2 - Na execução do disposto no número anterior não será levado em conta o tempo de exercício dos cargos que, se desempenhados por oficiais, e nos termos dos respectivos estatutos, implicam a não contagem desse tempo.
 
 3 - Os sargentos que regressam à comissão normal, desde que tenham estado fora desta comissão por período superior a um ano, devem ser presentes a uma junta médica da Armada, que apreciará a sua aptidão física para o serviço.
 
-###### Art. 27.º Os sargentos dos quadros do activo consideram-se no quadro do posto quando são contados nos efectivos a que se refere o n.º 1 do artigo 6.º
+Art. 27.º Os sargentos dos quadros do activo consideram-se no quadro do posto quando são contados nos efectivos a que se refere o n.º 1 do artigo 6.º
 
-###### Art. 28.º - 1 - Consideram-se supranumerários os sargentos do quadro de sargentos do activo em comissão normal que, não estando adidos, não possam ocupar vaga no quadro do posto por falta de vacatura.
+Art. 28.º - 1 - Consideram-se supranumerários os sargentos do quadro de sargentos do activo em comissão normal que, não estando adidos, não possam ocupar vaga no quadro do posto por falta de vacatura.
 
 2 - A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
 
@@ -264,7 +310,7 @@ c) Regresso da situação de adido ao quadro.
 
 3 - Os sargentos supranumerários preenchem as primeiras vacaturas que ocorrerem nos respectivos quadros do posto.
 
-###### Art. 29.º - 1 - Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 6.º, os sargentos do quadro do activo que:
+Art. 29.º - 1 - Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 6.º, os sargentos do quadro do activo que:
 
 a) Estando em comissão normal:
 
@@ -290,9 +336,9 @@ b) Estejam nas situações de comissão especial, inactividade temporária ou de
 
 2 - A passagem à situação de adido ao quadro nos termos da subalínea 8) da alínea a) do n.º 1 deste artigo só tem lugar quando não haja inconveniente para o serviço.
 
-###### Art. 30.º As mudanças de situação dos sargentos em relação ao quadro do posto a que pertencem são sempre referidas à data em que, nos termos legais, foram considerados abrangidos pela condição que as motivou.
+Art. 30.º As mudanças de situação dos sargentos em relação ao quadro do posto a que pertencem são sempre referidas à data em que, nos termos legais, foram considerados abrangidos pela condição que as motivou.
 
-###### Art. 31.º - 1 - Os sargentos do quadro do activo transitam para o quadro de sargentos da reserva da Armada com direito a pensão por qualquer das condições indicadas nas alíneas seguintes:
+Art. 31.º - 1 - Os sargentos do quadro do activo transitam para o quadro de sargentos da reserva da Armada com direito a pensão por qualquer das condições indicadas nas alíneas seguintes:
 
 a) Tendo prestado quinze ou mais anos de serviço:
 
@@ -320,7 +366,7 @@ b) Tendo prestado menos de quinze anos de serviço, sejam julgados fisicamente i
 
 3 - A data da passagem ao quadro de sargentos da reserva da Armada é a data em que, nos termos legais, o sargento for considerado abrangido pela condição que a motivou.
 
-###### Art. 32.º Os limites de idade para a passagem ao quadro de sargentos da reserva da Armada com direito a pensão são, conforme os postos, os seguintes:
+Art. 32.º Os limites de idade para a passagem ao quadro de sargentos da reserva da Armada com direito a pensão são, conforme os postos, os seguintes:
 
 Sargento-mor - 60 anos;
 
@@ -332,11 +378,11 @@ Primeiro-sargento - 57 anos;
 
 Segundo-sargento - 57 anos.
 
-###### Art. 33.º - 1 - Quando um sargento atinja o limite de idade referido no artigo 32.º posteriormente à data em que lhe caiba promoção por diuturnidade, não passará à situação de reserva até que essa promoção seja publicada, após o que passará então a essa situação, ou continuará no activo, de acordo com o limite de idade do novo posto.
+Art. 33.º - 1 - Quando um sargento atinja o limite de idade referido no artigo 32.º posteriormente à data em que lhe caiba promoção por diuturnidade, não passará à situação de reserva até que essa promoção seja publicada, após o que passará então a essa situação, ou continuará no activo, de acordo com o limite de idade do novo posto.
 
 2 - A passagem à situação de reserva de um sargento que atinja o limite de idade a que se refere o artigo 32.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse sargento ao posto seguinte.
 
-###### Art. 34.º - 1 - Os sargentos do quadro da reserva da Armada com direito a pensão podem encontrar-se numa das seguintes situações:
+Art. 34.º - 1 - Os sargentos do quadro da reserva da Armada com direito a pensão podem encontrar-se numa das seguintes situações:
 
 a) Efectividade de serviço;
 
@@ -348,7 +394,7 @@ c) Licença ilimitada.
 
 3 - Os sargentos que ao transitarem do quadro do activo para o quadro da reserva da Armada com direito a pensão estejam na situação de licença ilimitada são colocados naquela reserva na mesma situação.
 
-###### Art. 35.º - 1 - Transitam para o quadro de sargentos reformados os sargentos que deixem de pertencer aos quadros do activo ou da reserva da Armada com direito a pensão, por serem abrangidos por qualquer das seguintes condições:
+Art. 35.º - 1 - Transitam para o quadro de sargentos reformados os sargentos que deixem de pertencer aos quadros do activo ou da reserva da Armada com direito a pensão, por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado quinze ou mais anos de serviço, atinjam 70 anos de idade;
 
@@ -374,13 +420,13 @@ d) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 5 - A passagem dos sargentos à situação de reforma ao abrigo do disposto na subalínea 2) da alínea c) do n.º 1 deste artigo só terá lugar se a incapacidade se manifestar durante o exercício das funções para que estejam nomeados ou nos cursos e estágios que tiverem de frequentar e será determinada pelo Chefe do Estado-Maior da Armada, depois de ouvidos o Conselho Superior de Disciplina da Armada, quando o motivo da incapacidade for de natureza disciplinar ou moral, e o Conselho Superior da Armada, quando o motivo da incapacidade se basear em deficiências técnicas, militares ou profissionais.
 
-###### Art. 36.º - 1 - São colocados no quadro de sargentos separados do serviço os sargentos que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados do serviço.
+Art. 36.º - 1 - São colocados no quadro de sargentos separados do serviço os sargentos que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados do serviço.
 
 2 - A separação do serviço só poderá ter lugar por decisão do Chefe do Estado-Maior da Armada, ouvido o Conselho Superior de Disciplina da Armada.
 
 3 - Os sargentos na situação de separados do serviço ficam privados do uso de uniforme, distintivos e insígnias militares, bem como do bilhete de identidade militar e das reduções de transportes colectivos constantes de acordos entre o Estado e as empresas concessionárias.
 
-###### Art. 37.º São abatidos dos quadros permanentes os sargentos da Armada que:
+Art. 37.º São abatidos dos quadros permanentes os sargentos da Armada que:
 
 a) Sejam julgados incapazes de todo o serviço e não possam transitar para o quadro de sargentos reformados;
 
@@ -390,7 +436,7 @@ c) Tenham sofrido a pena de demissão ou de expulsão;
 
 d) Tenham passagem ao quadro de sargentos da reserva da Armada sem direito a pensão.
 
-###### Art. 38.º Têm passagem ao quadro de sargentos da reserva da Armada sem direito a pensão os sargentos dos quadros permanentes que:
+Art. 38.º Têm passagem ao quadro de sargentos da reserva da Armada sem direito a pensão os sargentos dos quadros permanentes que:
 
 a) Depois de terem prestado um mínimo de oito anos de serviço efectivo na Armada, contados a partir da data da sua incorporação, e seis anos, contados da data do ingresso na classe, quando se trate de electrotécnicos, maquinistas navais e enfermeiros, assim o tenham requerido e a tanto sejam autorizados;
 
@@ -400,11 +446,11 @@ c) Tendo sido considerados incapazes do serviço activo, não reúnam as condiç
 
 d) Tenham sofrido a pena de reserva compulsiva e não reúnam as condições legais para passar ao quadro de sargentos da reserva da Armada com direito a pensão.
 
-###### Art. 39.º Os sargentos que transitem para a situação de reserva sem direito a pensão ficam sujeitos às obrigações estabelecidas na lei, que correspondem à classe na qual, pela sua idade, devam ingressar.
+Art. 39.º Os sargentos que transitem para a situação de reserva sem direito a pensão ficam sujeitos às obrigações estabelecidas na lei, que correspondem à classe na qual, pela sua idade, devam ingressar.
 
-###### Art. 40.º Quando, verificadas as circunstâncias previstas na alínea b) do n.º 1 do artigo 24.º e na condição 6.ª da alínea a) do n.º 1 do artigo 31.º, o sargento não optar por qualquer das situações consideradas nessas disposições, será mantido na situação em que se encontrar até decisão final da junta.
+Art. 40.º Quando, verificadas as circunstâncias previstas na alínea b) do n.º 1 do artigo 24.º e na condição 6.ª da alínea a) do n.º 1 do artigo 31.º, o sargento não optar por qualquer das situações consideradas nessas disposições, será mantido na situação em que se encontrar até decisão final da junta.
 
-###### Art. 41.º - 1 - Conta-se como tempo de serviço:
+Art. 41.º - 1 - Conta-se como tempo de serviço:
 
 a) O tempo de permanência do sargento nos quadros do activo quando:
 
@@ -426,19 +472,19 @@ b) O de ausência ilegítima do serviço;
 
 c) O de licença registada.
 
-###### Art. 42.º Conta-se como tempo de serviço efectivo na Armada o referido no artigo anterior, com exclusão, para os sargentos do quadro do activo, do respeitante a comissão especial, e para os sargentos dos quadros de sargentos da reserva da Armada com direito a pensão ou reformados, do relativo ao desempenho de funções que, quando exercidas por sargentos do quadro do activo, correspondem a comissão especial.
+Art. 42.º Conta-se como tempo de serviço efectivo na Armada o referido no artigo anterior, com exclusão, para os sargentos do quadro do activo, do respeitante a comissão especial, e para os sargentos dos quadros de sargentos da reserva da Armada com direito a pensão ou reformados, do relativo ao desempenho de funções que, quando exercidas por sargentos do quadro do activo, correspondem a comissão especial.
 
-###### Art. 43.º O tempo de serviço na Armada, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes de diploma especial.
+Art. 43.º O tempo de serviço na Armada, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes de diploma especial.
 
-###### Art. 44.º A contagem de tempo de serviço para efeitos de pensão de reserva ou de reforma é fixada em legislação especial.
+Art. 44.º A contagem de tempo de serviço para efeitos de pensão de reserva ou de reforma é fixada em legislação especial.
 
-###### Art. 45.º - 1 - Os cursos frequentados pelos sargentos da Armada funcionam nas escolas e centros de instrução da Armada ou em unidades ou serviços para esse fim designados.
+Art. 45.º - 1 - Os cursos frequentados pelos sargentos da Armada funcionam nas escolas e centros de instrução da Armada ou em unidades ou serviços para esse fim designados.
 
 2 - Com autorização do Chefe do Estado-Maior da Armada, os sargentos podem ser nomeados para frequentar cursos em escolas estranhas à Marinha, nacionais ou estrangeiras.
 
-###### Art. 46.º O ensino ministrado nas escolas e centros de instrução apenas corresponde à parte básica da preparação militar, literária e técnica dos sargentos, competindo aos comandos e direcções das unidades e serviços onde aqueles prestam serviço completar e melhorar de maneira contínua a preparação militar e técnica do referido pessoal. Especialmente no que se refere a cursos de promoção a oficial, os sargentos devem, por si próprios, aumentar os seus conhecimentos literários e técnicos, de maneira a adquirirem o nível de preparação que a frequência daqueles cursos exige.
+Art. 46.º O ensino ministrado nas escolas e centros de instrução apenas corresponde à parte básica da preparação militar, literária e técnica dos sargentos, competindo aos comandos e direcções das unidades e serviços onde aqueles prestam serviço completar e melhorar de maneira contínua a preparação militar e técnica do referido pessoal. Especialmente no que se refere a cursos de promoção a oficial, os sargentos devem, por si próprios, aumentar os seus conhecimentos literários e técnicos, de maneira a adquirirem o nível de preparação que a frequência daqueles cursos exige.
 
-###### Art. 47.º - 1 - Os cursos frequentados pelos sargentos classificam-se em:
+Art. 47.º - 1 - Os cursos frequentados pelos sargentos classificam-se em:
 
 a) Cursos de especialização;
 
@@ -456,39 +502,39 @@ d) Cursos de promoção.
 
 5 - As normas gerais por que serão reguladas as classificações nos cursos, a aprovação e reprovação e a eliminação serão fixadas por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 48.º - 1 - Os cursos de especialização são, em regra, frequentados por voluntários seleccionados segundo normas adequadas a cada especialização. Na falta de voluntários, as nomeações serão feitas por imposição do serviço, de acordo com regras a fixar por despacho do Chefe do Estado-Maior da Armada.
+Art. 48.º - 1 - Os cursos de especialização são, em regra, frequentados por voluntários seleccionados segundo normas adequadas a cada especialização. Na falta de voluntários, as nomeações serão feitas por imposição do serviço, de acordo com regras a fixar por despacho do Chefe do Estado-Maior da Armada.
 
 2 - Por despacho do Chefe do Estado-Maior da Armada poderão ser estabelecidas as causas de inaptidão para o serviço das especializações.
 
 3 - Ainda por despacho do Chefe do Estado-Maior da Armada pode ser dada equivalência a cursos de especialização frequentados em escolas estranhas à Marinha, nacionais ou estrangeiras.
 
-###### Art. 49.º Para atender a necessidades do serviço, os sargentos podem ser nomeados para frequentar cursos de aperfeiçoamento que os habilitem ao desempenho de determinadas funções, que melhorem a sua preparação em certas actividades navais, ou que os preparem para operar determinados tipos de material.
+Art. 49.º Para atender a necessidades do serviço, os sargentos podem ser nomeados para frequentar cursos de aperfeiçoamento que os habilitem ao desempenho de determinadas funções, que melhorem a sua preparação em certas actividades navais, ou que os preparem para operar determinados tipos de material.
 
-###### Art. 50.º Os cursos de aperfeiçoamento podem ser ministrados nos estabelecimentos de ensino da Marinha, nas unidades ou serviços ou em escolas estranhas à Marinha, nacionais ou estrangeiras.
+Art. 50.º Os cursos de aperfeiçoamento podem ser ministrados nos estabelecimentos de ensino da Marinha, nas unidades ou serviços ou em escolas estranhas à Marinha, nacionais ou estrangeiras.
 
-###### Art. 51.º - 1 - Os cursos de actualização destinam-se a actualizar os conhecimentos dos sargentos para o desempenho das funções que competem aos seus postos e classes.
+Art. 51.º - 1 - Os cursos de actualização destinam-se a actualizar os conhecimentos dos sargentos para o desempenho das funções que competem aos seus postos e classes.
 
 2 - Além dos conhecimentos técnicos específicos da classe a que pertencem os sargentos, os cursos de actualização visarão ainda, em certos casos, habilitá-los com adequada formação cultural complementar da sua preparação anterior, conveniente para o desenvolvimento do seu nível geral, no quadro das desejáveis qualificações dos militares da Armada.
 
-###### Art. 52.º Os cursos de actualização e as classes em que funcionam são definidos em portaria do Chefe do Estado-Maior da Armada.
+Art. 52.º Os cursos de actualização e as classes em que funcionam são definidos em portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 53.º - 1 - Os cursos de actualização funcionarão por determinação do superintendente dos Serviços do Pessoal da Armada, que fixará a duração e mais condições de funcionamento.
+Art. 53.º - 1 - Os cursos de actualização funcionarão por determinação do superintendente dos Serviços do Pessoal da Armada, que fixará a duração e mais condições de funcionamento.
 
 2 - Podem propor o funcionamento destes cursos o chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, os directores dos serviços interessados ou os respectivos estabelecimentos de ensino.
 
-###### Art. 54.º - 1 - O curso de promoção a sargento-chefe (CPSC) destina-se a habilitar os sargentos-ajudantes para o desempenho das funções que competem aos sargentos-chefes.
+Art. 54.º - 1 - O curso de promoção a sargento-chefe (CPSC) destina-se a habilitar os sargentos-ajudantes para o desempenho das funções que competem aos sargentos-chefes.
 
 2 - Para efeitos do disposto no número anterior não são considerados os sargentos músicos.
 
-###### Art. 55.º A nomeação para o CPSC é precedida de um concurso de admissão com carácter eliminatório.
+Art. 55.º A nomeação para o CPSC é precedida de um concurso de admissão com carácter eliminatório.
 
-###### Art. 56.º - 1 - A nomeação dos sargentos-ajudantes para o CPSC é feita por ordem decrescente de antiguidade entre os que tenham mais de dois anos de posto e obtenham aprovação no concurso de admissão.
+Art. 56.º - 1 - A nomeação dos sargentos-ajudantes para o CPSC é feita por ordem decrescente de antiguidade entre os que tenham mais de dois anos de posto e obtenham aprovação no concurso de admissão.
 
 2 - Compete à 2.ª Repartição da Direcção do Serviço do Pessoal nomear com a maior antecedência possível os sargentos que devem frequentar o CPSC.
 
 3 - Circunstâncias excepcionais poderão fazer prescindir da condição de tempo de posto para efeitos de admissão ao CPSC.
 
-###### Art. 57.º - 1 - O concurso de admissão ao CPSC é constituído por uma apreciação da vida militar do candidato e pela prestação de provas de aptidão física e psicotécnica.
+Art. 57.º - 1 - O concurso de admissão ao CPSC é constituído por uma apreciação da vida militar do candidato e pela prestação de provas de aptidão física e psicotécnica.
 
 2 - A apreciação da vida militar do candidato é feita com base em:
 
@@ -504,15 +550,15 @@ c) Outros elementos de carácter técnico ou profissional que constem do process
 
 5 - Os sargentos eliminados no concurso a que se refere o artigo 55.º poderão repeti-lo uma única vez, com vista ao curso seguinte.
 
-###### Art. 58.º A estrutura, funcionamento e demais normas reguladoras do CPSC serão fixados em portaria do Chefe do Estado-Maior da Armada.
+Art. 58.º A estrutura, funcionamento e demais normas reguladoras do CPSC serão fixados em portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 59.º A constituição do júri destinado à apreciação das condições a que devem satisfazer os candidatos será determinada por despacho do Chefe do Estado-Maior da Armada.
+Art. 59.º A constituição do júri destinado à apreciação das condições a que devem satisfazer os candidatos será determinada por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 60.º O CPSC poderá ser repetido quando os motivos que levaram à exclusão do sargento forem motivos de doença. A repetição far-se-á uma só vez.
+Art. 60.º O CPSC poderá ser repetido quando os motivos que levaram à exclusão do sargento forem motivos de doença. A repetição far-se-á uma só vez.
 
-###### Art. 61.º A reprovação nas provas de admissão ao curso de formação de oficiais técnicos, ao curso de formação de oficiais do serviço especial, aos cursos da Escola Naval, nas condições fixadas na lei, ou naqueles mesmos cursos não constitui impedimento para habilitação ao CPSC.
+Art. 61.º A reprovação nas provas de admissão ao curso de formação de oficiais técnicos, ao curso de formação de oficiais do serviço especial, aos cursos da Escola Naval, nas condições fixadas na lei, ou naqueles mesmos cursos não constitui impedimento para habilitação ao CPSC.
 
-###### Art. 62.º Não serão nomeados para o CPSC os sargentos que:
+Art. 62.º Não serão nomeados para o CPSC os sargentos que:
 
 a) Hajam desistido, por declaração escrita, da sua frequência;
 
@@ -524,19 +570,19 @@ d) Tenham sido admitidos à frequência do curso de formação de oficiais técn
 
 e) Tenham mais de 52 anos de idade ou perfaçam esta idade antes da conclusão do curso.
 
-###### Art. 63.º Poderá ser autorizado, pelo superintendente dos Serviços do Pessoal da Armada, o adiamento de cursos de especialização e actualização quando daí não resulte inconveniente para o serviço.
+Art. 63.º Poderá ser autorizado, pelo superintendente dos Serviços do Pessoal da Armada, o adiamento de cursos de especialização e actualização quando daí não resulte inconveniente para o serviço.
 
-###### Art. 64.º - 1 - Os sargentos que estejam em comissão especial ou de licença ilimitada deverão ser notificados com a devida antecedência de que se estivessem ao serviço da Marinha pertencer-lhes-ia a nomeação para o CPSC.
+Art. 64.º - 1 - Os sargentos que estejam em comissão especial ou de licença ilimitada deverão ser notificados com a devida antecedência de que se estivessem ao serviço da Marinha pertencer-lhes-ia a nomeação para o CPSC.
 
 2 - Os sargentos em comissão especial poderão apresentar a sua situação às entidades de que dependem, as quais, reconhecendo conveniência no adiamento da frequência do CPSC, assim o exporão.
 
-###### Art. 65.º As promoções dos sargentos são realizadas, segundo o ordenamento hierárquico, de posto em posto, tendo em conta as seguintes excepções:
+Art. 65.º As promoções dos sargentos são realizadas, segundo o ordenamento hierárquico, de posto em posto, tendo em conta as seguintes excepções:
 
 a) A promoção por distinção pode, em casos muito excepcionais, realizar-se a posto superior ao do sargento a promover;
 
 b) No caso dos músicos, na promoção por concurso, poder-se-á verificar o acesso a posto superior ao imediato.
 
-###### Art. 66.º - 1 - Para que os sargentos possam ser promovidos é necessário que satisfaçam a determinadas condições, designadas por condições de promoção, a menos que se trate de promoções por distinção.
+Art. 66.º - 1 - Para que os sargentos possam ser promovidos é necessário que satisfaçam a determinadas condições, designadas por condições de promoção, a menos que se trate de promoções por distinção.
 
 2 - As condições mencionadas no número anterior dividem-se em:
 
@@ -544,11 +590,11 @@ a) Gerais - comuns a todas as classes e postos;
 
 b) Especiais - para cada classe e posto.
 
-###### Art. 67.º Os sargentos apenas podem ser promovidos enquanto se mantiverem nos quadros dos sargentos do activo, salvo no caso da promoção por distinção, que se aplica tanto aos sargentos do quadro do activo como aos dos quadros da reserva da Armada com direito a pensão e reformados.
+Art. 67.º Os sargentos apenas podem ser promovidos enquanto se mantiverem nos quadros dos sargentos do activo, salvo no caso da promoção por distinção, que se aplica tanto aos sargentos do quadro do activo como aos dos quadros da reserva da Armada com direito a pensão e reformados.
 
-###### Art. 68.º A 2.ª Repartição da Direcção do Serviço do Pessoal providenciará para que exista sempre o número de sargentos com as condições de promoção necessárias para o preenchimento das vacaturas prováveis nos quadros.
+Art. 68.º A 2.ª Repartição da Direcção do Serviço do Pessoal providenciará para que exista sempre o número de sargentos com as condições de promoção necessárias para o preenchimento das vacaturas prováveis nos quadros.
 
-###### Art. 69.º - 1 - As promoções têm lugar, conforme as classes e os postos a que se efectuam, por um dos seguintes sistemas:
+Art. 69.º - 1 - As promoções têm lugar, conforme as classes e os postos a que se efectuam, por um dos seguintes sistemas:
 
 a) Diuturnidade;
 
@@ -584,9 +630,9 @@ b) De iniciativa do Chefe do Estado-Maior da Armada;
 
 c) De proposta, ao Chefe do Estado-Maior da Armada, dos comandantes ou chefes sob cujas ordens sirva o sargento.
 
-###### Art. 70.º As promoções dos sargentos efectuam-se para preenchimento das vacaturas existentes nos respectivos quadros, salvo quando se trate de promoção por diuturnidade e promoção por distinção.
+Art. 70.º As promoções dos sargentos efectuam-se para preenchimento das vacaturas existentes nos respectivos quadros, salvo quando se trate de promoção por diuturnidade e promoção por distinção.
 
-###### Art. 71.º - 1 - A promoção dos sargentos efectua-se independentemente da sua situação em relação ao quadro (no quadro, supranumerário e adido).
+Art. 71.º - 1 - A promoção dos sargentos efectua-se independentemente da sua situação em relação ao quadro (no quadro, supranumerário e adido).
 
 2 - Nas promoções por diuturnidade ou por distinção, quando os sargentos promovidos não devam ficar na situação de adidos, e não haja vacatura nos quadros, ficarão na situação de supranumerários.
 
@@ -598,17 +644,17 @@ c) De proposta, ao Chefe do Estado-Maior da Armada, dos comandantes ou chefes so
 
 6 - Quando nas promoções por antiguidade, por classificação em curso ou por escolha a vacatura não puder ser preenchida, a promoção realizar-se-á nos graus hierárquicos inferiores, para todos os sargentos a quem ela pertenceria, como se se tivesse dado o movimento.
 
-###### Art. 72.º Tem lugar pelo sistema de diuturnidade a promoção ao posto de primeiro-sargento, ao fim de três anos de permanência no posto de segundo-sargento.
+Art. 72.º Tem lugar pelo sistema de diuturnidade a promoção ao posto de primeiro-sargento, ao fim de três anos de permanência no posto de segundo-sargento.
 
-###### Art. 73.º Têm lugar pelo sistema de classificação em curso as promoções aos seguintes postos:
+Art. 73.º Têm lugar pelo sistema de classificação em curso as promoções aos seguintes postos:
 
 a) Segundo-sargento de todas as classes, com excepção da classe de músicos;
 
 b) Sargento-chefe de todas as classes, com excepção da classe de músicos.
 
-###### Art. 74.º Tem lugar pelo sistema de antiguidade a promoção ao posto de sargento-ajudante de todas as classes, com excepção dos músicos.
+Art. 74.º Tem lugar pelo sistema de antiguidade a promoção ao posto de sargento-ajudante de todas as classes, com excepção dos músicos.
 
-###### Art. 75.º - 1 - Têm lugar pelo sistema de escolha as promoções ao posto de sargento-mor em todas as classes.
+Art. 75.º - 1 - Têm lugar pelo sistema de escolha as promoções ao posto de sargento-mor em todas as classes.
 
 2 - O escalonamento dos sargentos em mérito relativo, para efeito de promoção por escolha, com a finalidade prevista no n.º 6 do artigo 69.º, será feito por conselhos de promoção, cuja constituição e funcionamento serão regulados por despacho do Chefe do Estado-Maior da Armada.
 
@@ -616,19 +662,19 @@ b) Sargento-chefe de todas as classes, com excepção da classe de músicos.
 
 4 - Na relação dos sargentos presentes à escolha apenas são incluídos os que satisfaçam as condições gerais e as condições especiais de promoção, e os que destas tenham sido dispensados nos termos deste diploma, ou se encontrem na situação de demorados na promoção.
 
-###### Art. 76.º Têm lugar pelo sistema de concurso as promoções a todos os postos da classe dos músicos, com excepção da promoção a primeiro-sargento e sargento-mor.
+Art. 76.º Têm lugar pelo sistema de concurso as promoções a todos os postos da classe dos músicos, com excepção da promoção a primeiro-sargento e sargento-mor.
 
-###### Art. 77.º Os concursos referidos no artigo anterior são abertos na 2.ª Repartição da Direcção do Serviço do Pessoal e têm a validade de um ano.
+Art. 77.º Os concursos referidos no artigo anterior são abertos na 2.ª Repartição da Direcção do Serviço do Pessoal e têm a validade de um ano.
 
-###### Art. 78.º Quando nos concursos para músicos não seja apurado número suficiente de músicos da Armada para preenchimento das vacaturas existentes, abrir-se-á novo concurso, pelo intervalo de trinta dias, ao qual serão admitidos músicos militares estranhos à Armada ou músicos civis.
+Art. 78.º Quando nos concursos para músicos não seja apurado número suficiente de músicos da Armada para preenchimento das vacaturas existentes, abrir-se-á novo concurso, pelo intervalo de trinta dias, ao qual serão admitidos músicos militares estranhos à Armada ou músicos civis.
 
-###### Art. 79.º - 1 - Quando depois de realizados os concursos referidos no artigo anterior ainda fiquem vacaturas por preencher, estas poderão ser preenchidas por músicos transferidos do Exército ou da Força Aérea, mediante proposta do chefe da banda e solicitação do Chefe do Estado-Maior da Armada ao Chefe do Estado-Maior do Exército ou ao Chefe do Estado-Maior da Força Aérea.
+Art. 79.º - 1 - Quando depois de realizados os concursos referidos no artigo anterior ainda fiquem vacaturas por preencher, estas poderão ser preenchidas por músicos transferidos do Exército ou da Força Aérea, mediante proposta do chefe da banda e solicitação do Chefe do Estado-Maior da Armada ao Chefe do Estado-Maior do Exército ou ao Chefe do Estado-Maior da Força Aérea.
 
 2 - Nas condições referidas no corpo deste artigo só podem ser admitidos músicos do instrumento e com a graduação para que foi aberto o concurso e que satisfaçam às condições nele estabelecidas, com excepção da prestação de provas.
 
-###### Art. 80.º A promoção por distinção pode ter lugar a qualquer dos postos da categoria de sargentos, ou implicar o acesso à categoria de oficial, nos termos do disposto no artigo 56.º do EOA.
+Art. 80.º A promoção por distinção pode ter lugar a qualquer dos postos da categoria de sargentos, ou implicar o acesso à categoria de oficial, nos termos do disposto no artigo 56.º do EOA.
 
-###### Art. 81.º As condições gerais de promoção são as seguintes:
+Art. 81.º As condições gerais de promoção são as seguintes:
 
 1.ª Espírito militar e bom comportamento militar e civil;
 
@@ -638,7 +684,7 @@ b) Sargento-chefe de todas as classes, com excepção da classe de músicos.
 
 4.ª Aptidão física adequada.
 
-###### Art. 82.º - 1 - Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção são elementos de apreciação suficientes:
+Art. 82.º - 1 - Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção são elementos de apreciação suficientes:
 
 a) As informações periódicas dos sargentos;
 
@@ -652,7 +698,7 @@ c) Outros elementos técnicos ou profissionais que constem do processo individua
 
 4 - Caso se mantenham as circunstâncias referidas no número anterior, deverá o assunto ser presente ao superintendente dos Serviços do Pessoal da Armada, o qual o submeterá a decisão do Chefe do Estado-Maior da Armada, que para o efeito ouvirá o parecer do Conselho Superior de Disciplina da Armada, quando estejam em causa a 1.ª e 2.ª condições gerais de promoção, e ouvirá o Conselho Superior da Armada quando esteja em causa a 3.ª
 
-###### Art. 83.º - 1 - A verificação da 4.ª condição geral de promoção é feita pelo médico do comando, unidade ou serviço onde o sargento preste serviço ou, em caso de dúvida, pela competente junta médica.
+Art. 83.º - 1 - A verificação da 4.ª condição geral de promoção é feita pelo médico do comando, unidade ou serviço onde o sargento preste serviço ou, em caso de dúvida, pela competente junta médica.
 
 2 - A verificação da 4.ª condição geral de promoção terá lugar posteriormente à decisão do director do Serviço do Pessoal, mas antes de efectuar a promoção.
 
@@ -662,19 +708,19 @@ c) Outros elementos técnicos ou profissionais que constem do processo individua
 
 5 - Quando a verificação da 4.ª condição geral de promoção esteja dependente de observação clínica, tratamento ou convalescença, os sargentos ficam na situação de demorados na promoção, aplicando-se-lhes o disposto no n.º 1 do artigo 97.º
 
-###### Art. 84.º Os sargentos que não satisfaçam à 1.ª e 2.ª condições gerais de promoção deixarão de pertencer ao quadro do activo.
+Art. 84.º Os sargentos que não satisfaçam à 1.ª e 2.ª condições gerais de promoção deixarão de pertencer ao quadro do activo.
 
-###### Art. 85.º O sargento que não satisfaça à 3.ª condição geral de promoção ficará excluído temporariamente da promoção, pelo prazo mínimo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será transferido para os quadros dos sargentos da reserva da Armada.
+Art. 85.º O sargento que não satisfaça à 3.ª condição geral de promoção ficará excluído temporariamente da promoção, pelo prazo mínimo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será transferido para os quadros dos sargentos da reserva da Armada.
 
-###### Art. 86.º O sargento que não satisfaça a 4.ª condição geral de promoção será, conforme as circunstâncias:
+Art. 86.º O sargento que não satisfaça a 4.ª condição geral de promoção será, conforme as circunstâncias:
 
 a) Transferido para os quadros de sargentos da reserva da Armada com ou sem direito a pensão; ou
 
 b) Transferido para o quadro de sargentos reformados ou abatidos ao quadro de sargentos do activo.
 
-###### Art. 87.º O sargento contra o qual se esteja a proceder o auto de corpo de delito ou processo de averiguações ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o Chefe do Estado-Maior da Armada assim o entender, por verificar que a matéria do auto ou o processo não põem em dúvida a satisfação da 1.ª, 2.ª e 3.ª condições gerais de promoção.
+Art. 87.º O sargento contra o qual se esteja a proceder o auto de corpo de delito ou processo de averiguações ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o Chefe do Estado-Maior da Armada assim o entender, por verificar que a matéria do auto ou o processo não põem em dúvida a satisfação da 1.ª, 2.ª e 3.ª condições gerais de promoção.
 
-###### Art. 88.º - 1 - As condições especiais de promoção compreendem:
+Art. 88.º - 1 - As condições especiais de promoção compreendem:
 
 a) Tempo de permanência no posto;
 
@@ -692,7 +738,7 @@ e) Outras condições de natureza específica das classes.
 
 2 - As condições especiais de promoção referidas nas alíneas b), c), d) e e) do número anterior serão fixadas por portaria do Chefe do Estado-Maior da Armada, para os diversos postos e classes.
 
-###### Art. 89.º - 1 - Conta-se como tempo de permanência no posto o decorrido:
+Art. 89.º - 1 - Conta-se como tempo de permanência no posto o decorrido:
 
 a) Em comissão normal;
 
@@ -708,7 +754,7 @@ b) O de licença registada.
 
 3 - O tempo de permanência no posto é contado a partir da data de antiguidade nesse posto.
 
-###### Art. 90.º - 1 - Nenhum sargento pode ser promovido aos postos a seguir indicados sem ter completado os seguintes tempos mínimos de permanência no posto anterior:
+Art. 90.º - 1 - Nenhum sargento pode ser promovido aos postos a seguir indicados sem ter completado os seguintes tempos mínimos de permanência no posto anterior:
 
 Sargento-ajudante - quatro anos;
 
@@ -720,23 +766,23 @@ Sargento-mor - um ano.
 
 3 - Nas promoções por distinção não são exigidos os tempos mínimos de posto referidos neste artigo.
 
-###### Art. 91.º - 1 - Os tirocínios de embarque só podem ser contados em navios armados e quando o sargento pertença à guarnição da força ou unidade naval, ou esteja embarcado em diligência, desempenhando funções que competem aos sargentos da lotação daquela força ou unidade.
+Art. 91.º - 1 - Os tirocínios de embarque só podem ser contados em navios armados e quando o sargento pertença à guarnição da força ou unidade naval, ou esteja embarcado em diligência, desempenhando funções que competem aos sargentos da lotação daquela força ou unidade.
 
 2 - Pode o Chefe do Estado-Maior da Armada, por despacho singular, autorizar a contagem de tirocínios de embarque noutras circunstâncias, mediante proposta devidamente fundamentada do superintendente dos Serviços do Pessoal da Armada.
 
-###### Art. 92.º Como tempo de navegação apenas é contado o que for realizado no mar, e aquele que efectuado dentro de barras, rios ou portos fechados corresponda a navegação preliminar ou complementar da navegação no mar.
+Art. 92.º Como tempo de navegação apenas é contado o que for realizado no mar, e aquele que efectuado dentro de barras, rios ou portos fechados corresponda a navegação preliminar ou complementar da navegação no mar.
 
-###### Art. 93.º - 1 - Os tirocínios de embarque e em terra apenas podem ser contados para os sargentos em comissão normal e que não estejam nas situações indicadas no n.º 2 do artigo 89.º
+Art. 93.º - 1 - Os tirocínios de embarque e em terra apenas podem ser contados para os sargentos em comissão normal e que não estejam nas situações indicadas no n.º 2 do artigo 89.º
 
 2 - Os tirocínios de embarque não são contados aos sargentos que estejam de licença de qualquer natureza, hospitalizados ou impedidos de prestar serviço por motivo de doença ou que desembarquem dos navios a cujas lotações pertençam, para prestar eventualmente serviço em terra.
 
 3 - Os tirocínios em terra não serão contados aos sargentos que estejam de licença de qualquer natureza, hospitalizados ou impedidos de prestar serviço por motivo de doença.
 
-###### Art. 94.º Os cursos que constituem condições de promoção apenas podem ser realizados nas condições indicadas no n.º 1 do artigo anterior.
+Art. 94.º Os cursos que constituem condições de promoção apenas podem ser realizados nas condições indicadas no n.º 1 do artigo anterior.
 
-###### Art. 95.º O Chefe do Estado-Maior da Armada pode, por despacho fundamentado e publicado na Ordem da Direcção do Serviço do Pessoal dispensar dos tirocínios de embarque ou em terra, num só posto, qualquer sargento que por conveniência excepcional do serviço seja impedido de os realizar.
+Art. 95.º O Chefe do Estado-Maior da Armada pode, por despacho fundamentado e publicado na Ordem da Direcção do Serviço do Pessoal dispensar dos tirocínios de embarque ou em terra, num só posto, qualquer sargento que por conveniência excepcional do serviço seja impedido de os realizar.
 
-###### Art. 96.º - 1 - Os sargentos podem ser excluídos temporariamente da promoção, ficando numa das seguintes situações:
+Art. 96.º - 1 - Os sargentos podem ser excluídos temporariamente da promoção, ficando numa das seguintes situações:
 
 a) Demorados;
 
@@ -748,7 +794,7 @@ b) Preteridos.
 
 4 - Os sargentos que, em resultado de promoção por escolha, sofram perda de antiguidade não são considerados como excluídos temporariamente da promoção, não lhes sendo aplicáveis as disposições respeitantes a esta exclusão.
 
-###### Art. 97.º - 1 - A demora na promoção tem lugar nos seguinte casos:
+Art. 97.º - 1 - A demora na promoção tem lugar nos seguinte casos:
 
 a) Quando os sargentos aguardem parecer do Conselho Superior de Disciplina da Armada ou do Conselho Superior da Armada, nas condições a que se refere o n.º 4 do artigo 82.º;
 
@@ -772,7 +818,7 @@ g) Noutros casos em que a lei expressamente o determine.
 
 5 - Os sargentos demorados na promoção não devem, tanto quanto possível, servir sob as ordens de sargentos mais modernos que, entretanto, tenham sido promovidos.
 
-###### Art. 98.º - 1 - A preterição na promoção tem lugar quando se verifiquem as seguintes circunstâncias:
+Art. 98.º - 1 - A preterição na promoção tem lugar quando se verifiquem as seguintes circunstâncias:
 
 a) A exclusão da promoção seja motivada por o sargento não ter satisfeito a 3.ª condição geral de promoção, conforme o disposto no artigo 85.º;
 
@@ -786,19 +832,19 @@ c) Noutros casos em que a lei expressamente o determine.
 
 4 - Na promoção por diuturnidade, os sargentos são promovidos logo que cessem os motivos que os excluíram da promoção.
 
-###### Art. 99.º - 1 - Os sargentos prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual será presente o respectivo processo, com menção, quando possível, das circunstâncias em que o sargento foi feito prisioneiro, dos seus serviços em campanha e do seu procedimento enquanto prisioneiro.
+Art. 99.º - 1 - Os sargentos prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual será presente o respectivo processo, com menção, quando possível, das circunstâncias em que o sargento foi feito prisioneiro, dos seus serviços em campanha e do seu procedimento enquanto prisioneiro.
 
 2 - Nos casos em que o Supremo Tribunal Militar não possa emitir parecer ou este for desfavorável, o sargento só pode ser promovido depois de julgado após a libertação.
 
 3 - Os sargentos nas condições deste artigo são promovidos com dispensa das condições especiais de promoção referidas nas alíneas b) e c) do n.º 1 do artigo 88.º
 
-###### Art. 100.º - 1 - Compete à 2.ª Repartição da Direcção do Serviço do Pessoal organizar os processos de promoção dos sargentos, dos quais devem constar todos os elementos que forem julgados convenientes para uma completa apreciação das qualidades e mérito dos sargentos.
+Art. 100.º - 1 - Compete à 2.ª Repartição da Direcção do Serviço do Pessoal organizar os processos de promoção dos sargentos, dos quais devem constar todos os elementos que forem julgados convenientes para uma completa apreciação das qualidades e mérito dos sargentos.
 
 2 - Nos processos de promoção por distinção deverão ser incluídos todos os elementos que permitam conhecer, com todo o detalhe, o feito praticado que dá origem a essa promoção.
 
 3 - Os processos de promoção são confidenciais.
 
-###### Art. 101.º - 1 - Nas promoções realizadas para preenchimento de vacatura devem seguir-se as normas seguintes:
+Art. 101.º - 1 - Nas promoções realizadas para preenchimento de vacatura devem seguir-se as normas seguintes:
 
 a) Em primeiro lugar as vacaturas são preenchidas pelos sargentos supranumerários;
 
@@ -810,11 +856,11 @@ d) Quando no caso da alínea anterior houver mais do que um sargento a promover,
 
 e) Só depois de terem ingressado no quadro os supranumerários, e de terem sido promovidos os sargentos referidos na alínea c), a cobertura de vacatura activará a promoção de sargentos que não estejam naquelas situações.
 
-###### Art. 102.º - 1 - Quando no dia em que se apresentar um sargento que deva entrar no quadro do seu posto ocorrer uma vacatura nesse quadro, esta vacatura será preenchida por aquele sargento desde que não existam supranumerários.
+Art. 102.º - 1 - Quando no dia em que se apresentar um sargento que deva entrar no quadro do seu posto ocorrer uma vacatura nesse quadro, esta vacatura será preenchida por aquele sargento desde que não existam supranumerários.
 
 2 - Se o sargento se apresentar depois de aberta a vacatura e, até à véspera da data em que se apresentar, nenhum sargento tiver satisfeito às condições de promoção, aquele sargento ocupará a vaga a partir da data da sua apresentação.
 
-###### Art. 103.º - 1 - A data da antiguidade no posto a que se refere o artigo 9.º corresponde:
+Art. 103.º - 1 - A data da antiguidade no posto a que se refere o artigo 9.º corresponde:
 
 a) À data em que foi praticado o facto que motivou a promoção, se outra não foi indicada no diploma no caso de promoção por distinção;
 
@@ -838,11 +884,11 @@ b) À data em que, depois de terem cessado os motivos da exclusão, ocorreu a va
 
 3 - A data da vacatura aberta por incapacidade física de um sargento é aquela em que a opinião da junta médica foi confirmada pelo Chefe do Estado-Maior da Armada.
 
-###### Art. 104.º Quando o sargento atinja o limite de idade a que se refere o artigo 32.º, posteriormente à data em que lhe caiba promoção por diuturnidade, não passará ao quadro de sargentos da reserva da Armada com direito a pensão até que essa promoção seja publicada, após o que passará então a esse quadro ou continuará no quadro de sargentos do activo, conforme o limite de idade do novo posto seja ou não igual ao do posto anterior.
+Art. 104.º Quando o sargento atinja o limite de idade a que se refere o artigo 32.º, posteriormente à data em que lhe caiba promoção por diuturnidade, não passará ao quadro de sargentos da reserva da Armada com direito a pensão até que essa promoção seja publicada, após o que passará então a esse quadro ou continuará no quadro de sargentos do activo, conforme o limite de idade do novo posto seja ou não igual ao do posto anterior.
 
-###### Art. 105.º A passagem ao Quadro de sargentos da reserva da Armada com direito a pensão de um sargento que atinja o limite de idade a que se refere o artigo 32.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse sargento ao posto seguinte.
+Art. 105.º A passagem ao Quadro de sargentos da reserva da Armada com direito a pensão de um sargento que atinja o limite de idade a que se refere o artigo 32.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse sargento ao posto seguinte.
 
-###### Art. 106.º As licenças que são aplicáveis aos sargentos destinam-se a:
+Art. 106.º As licenças que são aplicáveis aos sargentos destinam-se a:
 
 a) Usar dos indispensáveis períodos de repouso;
 
@@ -854,7 +900,7 @@ d) Frequentar cursos ou estágios em estabelecimentos de ensino, nacionais ou es
 
 e) Interromper a prestação de serviço por motivo de natureza particular.
 
-###### Art. 107.º - 1 - As licenças que podem ser concedidas aos sargentos dos quadros do activo são as seguintes:
+Art. 107.º - 1 - As licenças que podem ser concedidas aos sargentos dos quadros do activo são as seguintes:
 
 a) De férias;
 
@@ -874,21 +920,21 @@ g) Ilimitada.
 
 3 - A licença referida na alínea g) do número anterior deste artigo também pode ser concedida aos sargentos da reserva da Armada com direito a pensão, licenciados.
 
-###### Art. 108.º - 1 - Os sargentos têm direito em cada ano civil a uma licença de férias de trinta dias, seguidos ou interpolados, independentemente do uso anterior de qualquer outra licença, ou dispensa, e do registo disciplinar.
+Art. 108.º - 1 - Os sargentos têm direito em cada ano civil a uma licença de férias de trinta dias, seguidos ou interpolados, independentemente do uso anterior de qualquer outra licença, ou dispensa, e do registo disciplinar.
 
 2 - O período de licença de férias não poderá sobrepor-se à frequência de quaisquer cursos ou instruções.
 
 3 - A licença de férias não carece de requerimento para autorização, sendo suficiente para esse efeito a respectiva guia, desde que devidamente visada pela entidade competente.
 
-###### Art. 109.º A licença por mérito é concedida e usada nos termos do artigo 17.º do Regulamento de Disciplina Militar.
+Art. 109.º A licença por mérito é concedida e usada nos termos do artigo 17.º do Regulamento de Disciplina Militar.
 
-###### Art. 110.º As licenças das juntas médicas da Armada são arbitradas por opinião daquelas juntas e concedidas pelas entidades indicadas no regulamento das mesmas juntas.
+Art. 110.º As licenças das juntas médicas da Armada são arbitradas por opinião daquelas juntas e concedidas pelas entidades indicadas no regulamento das mesmas juntas.
 
-###### Art. 111.º A licença para convalescer, arbitrada pelos médicos do Hospital da Marinha, é concedida pelos comandos ou direcções de unidades ou serviços e é considerada como licença da Junta de Saúde Naval.
+Art. 111.º A licença para convalescer, arbitrada pelos médicos do Hospital da Marinha, é concedida pelos comandos ou direcções de unidades ou serviços e é considerada como licença da Junta de Saúde Naval.
 
-###### Art. 112.º Os sargentos usando licenças concedidas pelas juntas médicas da Armada poderão, a requerimento seu ou por determinação superior, ser presentes às mesmas juntas para efeitos de regresso ao serviço.
+Art. 112.º Os sargentos usando licenças concedidas pelas juntas médicas da Armada poderão, a requerimento seu ou por determinação superior, ser presentes às mesmas juntas para efeitos de regresso ao serviço.
 
-###### Art. 113.º - 1 - Designa-se licença para estudos a licença concedida, a requerimento dos interessados, para efeitos de frequência de curso, cadeiras ou estágios em estabelecimentos de ensino nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros da Armada.
+Art. 113.º - 1 - Designa-se licença para estudos a licença concedida, a requerimento dos interessados, para efeitos de frequência de curso, cadeiras ou estágios em estabelecimentos de ensino nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros da Armada.
 
 2 - A concessão da licença para estudos é da competência do superintendente dos Serviços do Pessoal da Armada.
 
@@ -898,15 +944,15 @@ g) Ilimitada.
 
 5 - A concessão da licença para estudos deve ser renovada anualmente, mediante requerimento dirigido ao superintendente dos Serviços do Pessoal da Armada.
 
-###### Art. 114.º Os sargentos têm direito a licença, até quatro dias seguidos, por motivo de falecimento de cônjuge ou de parente ou afim no 1.º grau da linha recta, e até dois dias, em caso do falecimento de parente ou afim em qualquer outro grau da linha recta e no 2.º e 3.º grau da linha colateral.
+Art. 114.º Os sargentos têm direito a licença, até quatro dias seguidos, por motivo de falecimento de cônjuge ou de parente ou afim no 1.º grau da linha recta, e até dois dias, em caso do falecimento de parente ou afim em qualquer outro grau da linha recta e no 2.º e 3.º grau da linha colateral.
 
-###### Art. 115.º Os sargentos têm direito a licença até seis dias seguidos por motivo de casamento, a qual lhes será concedida se não houver inconveniente para o serviço.
+Art. 115.º Os sargentos têm direito a licença até seis dias seguidos por motivo de casamento, a qual lhes será concedida se não houver inconveniente para o serviço.
 
-###### Art. 116.º - 1 - Designa-se por «licença registada» a licença concedida, por despacho do superintendente dos Serviços do Pessoal da Armada, a requerimento dos interessados, por motivos de natureza particular que justifique tal pretensão.
+Art. 116.º - 1 - Designa-se por «licença registada» a licença concedida, por despacho do superintendente dos Serviços do Pessoal da Armada, a requerimento dos interessados, por motivos de natureza particular que justifique tal pretensão.
 
 2 - A licença registada não pode ser concedida por mais de seis meses, seguidos ou interpolados, dentro de um período de cinco anos.
 
-###### Art. 117.º - 1 - Designa-se por «licença ilimitada» a licença concedida por período não inferior a um ano, por despacho do Chefe do Estado-Maior da Armada, ao sargento que a requerer e possa ser dispensado do serviço.
+Art. 117.º - 1 - Designa-se por «licença ilimitada» a licença concedida por período não inferior a um ano, por despacho do Chefe do Estado-Maior da Armada, ao sargento que a requerer e possa ser dispensado do serviço.
 
 2 - A licença ilimitada apenas pode ser cancelada por despacho da entidade que a concedeu:
 
@@ -916,36 +962,36 @@ b) Um ano após o sargento ter entrado nesta situação, quando concedida a sarg
 
 3 - O sargento dos quadros do activo ou do quadro de sargentos da reserva da Armada com direito a pensão pode interromper a licença ilimitada se esta lhe tiver sido concedida há mais de um ano. A licença cessa noventa dias depois de o sargento apresentar a respectiva declaração, ou antes deste prazo, se o desejar e for autorizado pelo superintendente dos Serviços do Pessoal da Armada.
 
-###### Art. 118.º A licença de férias, a licença por mérito, as licenças das juntas médicas, a licença por casamento e por falecimento de parentes, são concedidas com vencimentos; as licenças registadas e ilimitadas são concedidas sem quaisquer vencimentos ou pensões; a licença para estudos pode ser concedida com ou sem vencimento, tendo em conta o interesse para a Marinha dos estudos para que a licença é concedida.
+Art. 118.º A licença de férias, a licença por mérito, as licenças das juntas médicas, a licença por casamento e por falecimento de parentes, são concedidas com vencimentos; as licenças registadas e ilimitadas são concedidas sem quaisquer vencimentos ou pensões; a licença para estudos pode ser concedida com ou sem vencimento, tendo em conta o interesse para a Marinha dos estudos para que a licença é concedida.
 
-###### Art. 119.º Todas as licenças de que trata esta secção, com excepção das licenças das juntas médicas e por falecimento de parentes, apenas são concedidas quando não haja prejuízo para o serviço.
+Art. 119.º Todas as licenças de que trata esta secção, com excepção das licenças das juntas médicas e por falecimento de parentes, apenas são concedidas quando não haja prejuízo para o serviço.
 
-###### Art. 120.º Havendo procedimento criminal ou disciplinar em curso, as licenças referidas no n.º 1 do artigo 107.º apenas poderão ser concedidas se não houver impedimento ou prejuízos de ordem processual.
+Art. 120.º Havendo procedimento criminal ou disciplinar em curso, as licenças referidas no n.º 1 do artigo 107.º apenas poderão ser concedidas se não houver impedimento ou prejuízos de ordem processual.
 
-###### Art. 121.º - 1 - Sem prejuízo do disposto no número seguinte, os limites de idade referidos no artigo 32.º deste estatuto entram em vigor em 1 de Janeiro de 1979.
+Art. 121.º - 1 - Sem prejuízo do disposto no número seguinte, os limites de idade referidos no artigo 32.º deste estatuto entram em vigor em 1 de Janeiro de 1979.
 
 2 - Para as classes de músicos e enfermeiros os limites de idade referidos no número anterior entram em vigor no dia 1 de Janeiro de 1980.
 
-###### Art. 122.º Até 31 de Dezembro de 1980, a idade referida na alínea e) do artigo 62.º é fixada em 55 anos, para todas as classes, com excepção da classe de enfermeiros em que esse limite é de 57 anos.
+Art. 122.º Até 31 de Dezembro de 1980, a idade referida na alínea e) do artigo 62.º é fixada em 55 anos, para todas as classes, com excepção da classe de enfermeiros em que esse limite é de 57 anos.
 
-###### Art. 123.º A condição de tempo de permanência no posto referida no n.º 1 do artigo 56.º entra em vigor no dia 1 de Janeiro de 1980.
+Art. 123.º A condição de tempo de permanência no posto referida no n.º 1 do artigo 56.º entra em vigor no dia 1 de Janeiro de 1980.
 
-###### Art. 124.º Enquanto não for publicado o diploma a que se refere o n.º 2 do artigo 88.º mantém-se em vigor a regulamentação relativa a tirocínios contida no Estatuto dos Sargentos e Praças da Armada.
+Art. 124.º Enquanto não for publicado o diploma a que se refere o n.º 2 do artigo 88.º mantém-se em vigor a regulamentação relativa a tirocínios contida no Estatuto dos Sargentos e Praças da Armada.
 
-###### Art. 125.º O Estatuto dos Sargentos e Praças da Armada, publicado pelo [Decreto n.º 44884](https://diariodarepublica.pt/dr/detalhe/decreto/44884-1963-193429), de 18 de Fevereiro de 1963, bem como a legislação que o completa, continuam em vigor no respeitante a praças e a sargentos em tudo o que não seja contrariado pelo disposto no presente diploma.
+Art. 125.º O Estatuto dos Sargentos e Praças da Armada, publicado pelo [Decreto n.º 44884](https://diariodarepublica.pt/dr/detalhe/decreto/44884-1963-193429), de 18 de Fevereiro de 1963, bem como a legislação que o completa, continuam em vigor no respeitante a praças e a sargentos em tudo o que não seja contrariado pelo disposto no presente diploma.
 
-###### Art. 126.º - 1 - O regime de recondução estabelecido no ESPA continua em vigor para os sargentos que, tendo ascendido a esta categoria em data anterior à da publicação do presente diploma, assim o declarem no prazo de seis meses, a contar desta última data.
+Art. 126.º - 1 - O regime de recondução estabelecido no ESPA continua em vigor para os sargentos que, tendo ascendido a esta categoria em data anterior à da publicação do presente diploma, assim o declarem no prazo de seis meses, a contar desta última data.
 
 2 - A mesma prerrogativa e o mesmo prazo, contado a partir do termo, com aproveitamento, do curso complementar, são concedidos às praças que à data da publicação do presente diploma estejam a frequentar aquele curso.
 
-###### Art. 127.º O regime a que se refere a subalínea 8) da alínea a) do n.º 1 do artigo 29.º entra em vigor por portaria do Chefe do Estado-Maior da Armada.
+Art. 127.º O regime a que se refere a subalínea 8) da alínea a) do n.º 1 do artigo 29.º entra em vigor por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 128.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Armada.
+Art. 128.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Armada.
 
 Visto e aprovado em Conselho da Revolução em 28 de Agosto de 1978.
 
-**Promulgado em 28 de Agosto de 1978.**
+Promulgado em 28 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

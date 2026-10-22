@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d4c4705a12ceff36c2a51ae6fb91a5095061878d70db427ff6932b4829a2a9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e2663d503dd0deb4357eb7ad5eb341c1f543a3f676886a9d85bab26199de461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:458389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:679864:por
+  label: "Alterado o quadro de pessoal do Laboratório Nacional de Engenharia Civil, aprovado pelo presente diploma, pelo DEC\
+    \ LEI.139/72.29.04.1972.MOP, DG.IS [101] de 29.04.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1972-679864
+  date: '1972-04-29'
+- type: amended_by
+  target: pt:dre:446964:por
+  label: Alterado o art. 21º pelo DEC.31/78.1978.04.03.MHOP DR.IS [77]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-1978-446964
+  date: '1978-04-03'
+- type: cites
+  target: pt:dre:149268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:509792:por
+  label: "Revogados os §§ 1º e 2º do art. 60º, o art. 4º, o art. 5º e seus parágrafos, o § 4º do art. 23º, os §§ 3º, 4º, 5º\
+    \ e 6º do art. 25º, o art. 31º e seus parágrafos, o art. 37º, o art. 38º e o seu $ único, o art. 39º, o art. 40º e o seu\
+    \ § único, o art. 41º e o seu parágrafo único e os arts 50º, 54º, 55º. 59º, 69º, 73º e 74º pelo DEC LEI.47627.1967.04.07.MOP\
+    \ DG.IS [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47627-1967-509792
+  date: '1967-04-07'
+- type: repealed_by
+  target: pt:dre:686602:por
+  label: "Revogados os arts 57º e 60º pelo DEC LEI.468/72.1972.11.22.MOP DG.IS [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/468-1972-686602
+  date: '1972-11-22'
+- type: repealed_by
+  target: pt:dre:685601:por
+  label: "Revogados o § 2º do art. 23º, os §§ 1º e 2º do art. 25º e os arts 34º, 36º, 45º, 46º e 52º pelo DEC.556/72.1972.11.26.MOP\
+    \ DG.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/556-1972-685601
+  date: '1972-11-26'
+- type: repealed_by
+  target: pt:dre:317132:por
+  label: "Revogado o § 8º do art. 23º pelo DEC LEI.117-C/76.1976.02.09.MES DG.IS [33]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-c-1976-317132
+  date: '1976-02-09'
+- type: repealed_by
+  target: pt:dre:157053:por
+  label: "Revogados os arts 1º, 2º, 3º, 6º, 7º, 9º, 10º, 15º, 16º, 17º, 18º, 19º, 20º, 21º (na redacção dada pelo Dec Lei\
+    \ 31/78, de 03-Abr), 22º, 23º, 24º, e 27º pelo DEC LEI.519-D1/79.1979.12.29.MHOP DR.IS [299]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-d1-1979-157053
+  date: '1979-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:51Z'
   warnings: []
   errors: []
 ---
@@ -120,13 +193,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I) Natureza, fins e atribuições
 
-###### Artigo 1.º O Laboratório Nacional de Engenharia Civil, abreviadamente L. N. E. C., criado pelo [Decreto-Lei n.º 35957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35957-1946-149268), de 19 de Novembro de 1946, é um organismo com personalidade jurídica e autonomia administrativa e financeira, integrado no Ministério das Obras Públicas.
+Artigo 1.º O Laboratório Nacional de Engenharia Civil, abreviadamente L. N. E. C., criado pelo [Decreto-Lei n.º 35957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35957-1946-149268), de 19 de Novembro de 1946, é um organismo com personalidade jurídica e autonomia administrativa e financeira, integrado no Ministério das Obras Públicas.
 
-###### Art. 2.º O Laboratório Nacional de Engenharia Civil tem por fim empreender, promover e coordenar as investigações e os estudos experimentais necessários para as realizações e para o progresso da engenharia civil.
+Art. 2.º O Laboratório Nacional de Engenharia Civil tem por fim empreender, promover e coordenar as investigações e os estudos experimentais necessários para as realizações e para o progresso da engenharia civil.
 
 § único. O plano anual de actividades a desenvolver pelo Laboratório bem como o relatório anual das actividades levadas a cabo serão submetidos à apreciação do Ministro das Obras Públicas.
 
-###### Art. 3.º Para consecução do disposto no corpo do artigo anterior compete em especial ao Laboratório:
+Art. 3.º Para consecução do disposto no corpo do artigo anterior compete em especial ao Laboratório:
 
 a) Empreender investigações e estudos por sua iniciativa, ouvidas as entidades que for julgado conveniente;
 
@@ -152,9 +225,9 @@ l) Promover - em especial por meio de cursos, conferências, congressos e outras
 
 II) Órgãos directivos
 
-###### Art. 4.º A direcção do Laboratório Nacional de Engenharia Civil será exercida por um director, com a categoria de director-geral, coadjuvado por um subdirector.
+Art. 4.º A direcção do Laboratório Nacional de Engenharia Civil será exercida por um director, com a categoria de director-geral, coadjuvado por um subdirector.
 
-###### Art. 5.º O Laboratório terá um conselho administrativo, composto pelo director, que presidirá, pelo chefe do serviço administrativo e por dois dos chefes de repartição.
+Art. 5.º O Laboratório terá um conselho administrativo, composto pelo director, que presidirá, pelo chefe do serviço administrativo e por dois dos chefes de repartição.
 
 § 1.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal de 1000$00.
 
@@ -162,7 +235,7 @@ II) Órgãos directivos
 
 III) Serviços e divisões
 
-###### Art. 6.º O Laboratório Nacional de Engenharia Civil compreenderá os serviços seguintes:
+Art. 6.º O Laboratório Nacional de Engenharia Civil compreenderá os serviços seguintes:
 
 a) Serviço administrativo;
 
@@ -180,15 +253,15 @@ g) Serviço técnico geral.
 
 § único. O domínio de acção e a designação dos serviços podem ser modificados por despacho do Ministro das Obras Públicas, com vista a adaptá-los à evolução do Laboratório.
 
-###### Art. 7.º Os serviços compreenderão divisões cujo número e natureza de actividades serão fixados pelo Ministro das Obras Públicas, mediante proposta do director, de harmonia com o desenvolvimento do Laboratório e o progresso da ciência e da técnica.
+Art. 7.º Os serviços compreenderão divisões cujo número e natureza de actividades serão fixados pelo Ministro das Obras Públicas, mediante proposta do director, de harmonia com o desenvolvimento do Laboratório e o progresso da ciência e da técnica.
 
 § único. Poderão ser constituídas divisões directamente subordinadas à direcção do Laboratório.
 
-###### Art. 8.º A fim de cuidar das condições sanitárias e de segurança do trabalho nos laboratórios e oficinas, com vista a evitar as doenças profissionais e a prestar assistência em caso de acidentes, funcionará no Laboratório um serviço privativo de saúde.
+Art. 8.º A fim de cuidar das condições sanitárias e de segurança do trabalho nos laboratórios e oficinas, com vista a evitar as doenças profissionais e a prestar assistência em caso de acidentes, funcionará no Laboratório um serviço privativo de saúde.
 
 IV) Meios financeiros e administração do Laboratório
 
-###### Art. 9.º Constituem receitas do Laboratório Nacional de Engenharia Civil:
+Art. 9.º Constituem receitas do Laboratório Nacional de Engenharia Civil:
 
 a) As quantias cobradas pelos serviços prestados pelo Laboratório a entidades públicas ou particulares;
 
@@ -206,47 +279,47 @@ g) O produto de empréstimos autorizados pelo Governo;
 
 h) Quaisquer outras receitas que por lei, contrato ou a outro título lhe sejam atribuídas.
 
-###### Art. 10.º O Laboratório arrecadará e administrará as suas receitas e satisfará por meio delas os encargos da sua actividade.
+Art. 10.º O Laboratório arrecadará e administrará as suas receitas e satisfará por meio delas os encargos da sua actividade.
 
 § único. Os saldos das receitas podem ser despendidos pelo Laboratório nos anos económicos seguintes àqueles a que dizem respeito, salvo o relativo à dotação inscrita para fazer face ao subsídio a que se refere a alínea b) do artigo 9.º, cujo montante será reposto nos cofres do Estado.
 
-###### Art. 11.º O orçamento privativo anual de receitas e despesas e as suas ulteriores modificações carecem de aprovação do Ministro das Obras Públicas e visto do Ministro das Finanças e as contas serão directamente prestadas ao Tribunal de Contas, de harmonia com as disposições legais em vigor.
+Art. 11.º O orçamento privativo anual de receitas e despesas e as suas ulteriores modificações carecem de aprovação do Ministro das Obras Públicas e visto do Ministro das Finanças e as contas serão directamente prestadas ao Tribunal de Contas, de harmonia com as disposições legais em vigor.
 
-###### Art. 12.º O conselho administrativo requisitará mensalmente à 8.ª Repartição da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta das dotações consignadas ao Laboratório no Orçamento Geral do Estado; essas requisições, depois de visadas pela mesma Repartição, serão expedidas com as respectivas autorizações de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo as importâncias correspondentes levantadas pelo Laboratório e por ele depositadas à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 12.º O conselho administrativo requisitará mensalmente à 8.ª Repartição da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta das dotações consignadas ao Laboratório no Orçamento Geral do Estado; essas requisições, depois de visadas pela mesma Repartição, serão expedidas com as respectivas autorizações de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo as importâncias correspondentes levantadas pelo Laboratório e por ele depositadas à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 13.º Os levantamentos de fundos serão feitos por meio de cheques. Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos competentes recibos devidamente legalizados.
+Art. 13.º Os levantamentos de fundos serão feitos por meio de cheques. Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos competentes recibos devidamente legalizados.
 
-###### Art. 14.º O director do Laboratório pode autorizar despesas nos termos e até aos limites autorizados aos dirigentes dos serviços dotados de autonomia administrativa.
+Art. 14.º O director do Laboratório pode autorizar despesas nos termos e até aos limites autorizados aos dirigentes dos serviços dotados de autonomia administrativa.
 
-###### Art. 15.º Desde que a respectiva despesa caiba dentro das competências dos órgãos directivos do Laboratório, não é de observar o disposto na alínea a) do artigo 5.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, quanto à construção de modelos e outras obras inerentes à actividade laboratorial, nas alíneas c) e d), quando se trate de publicações indispensáveis ao funcionamento dos serviços, e na alínea e), no respeitante à publicação dos resultados da actividade do Laboratório.
+Art. 15.º Desde que a respectiva despesa caiba dentro das competências dos órgãos directivos do Laboratório, não é de observar o disposto na alínea a) do artigo 5.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, quanto à construção de modelos e outras obras inerentes à actividade laboratorial, nas alíneas c) e d), quando se trate de publicações indispensáveis ao funcionamento dos serviços, e na alínea e), no respeitante à publicação dos resultados da actividade do Laboratório.
 
-###### Art. 16.º Em casos de reconhecida necessidade podem ser adiantadas, pelo período mínimo indispensável, mediante autorização do director do Laboratório, quantias destinadas a enfrentar despesas que pela sua natureza não possam sofrer a demora inerente à liquidação prévia.
+Art. 16.º Em casos de reconhecida necessidade podem ser adiantadas, pelo período mínimo indispensável, mediante autorização do director do Laboratório, quantias destinadas a enfrentar despesas que pela sua natureza não possam sofrer a demora inerente à liquidação prévia.
 
 § único. O limite total dos adiantamentos será fixado por despacho do Ministro das Obras Públicas.
 
 V) Pessoal
 
-###### Art. 17.º O quadro do pessoal do Laboratório Nacional de Engenharia Civil e os respectivos vencimentos, excluídas as diuturnidades, passam a ser os constantes do mapa anexo ao presente decreto-lei e que dele faz parte integrante.
+Art. 17.º O quadro do pessoal do Laboratório Nacional de Engenharia Civil e os respectivos vencimentos, excluídas as diuturnidades, passam a ser os constantes do mapa anexo ao presente decreto-lei e que dele faz parte integrante.
 
 § único. O provimento dos lugares do quadro preenchidos mediante concurso e dos lugares do pessoal menor é feito por contrato e o dos restantes por portaria.
 
-###### Art. 18.º O lugar de director será preenchido, por livre escolha do Ministro das Obras Públicas, de entre engenheiros que tenham revelado excepcional competência.
+Art. 18.º O lugar de director será preenchido, por livre escolha do Ministro das Obras Públicas, de entre engenheiros que tenham revelado excepcional competência.
 
-###### Art. 19.º O lugar de subdirector será preenchido por um chefe de serviço ou investigador do quadro do Laboratório, por livre escolha do Ministro das Obras Públicas, mediante proposta do director.
+Art. 19.º O lugar de subdirector será preenchido por um chefe de serviço ou investigador do quadro do Laboratório, por livre escolha do Ministro das Obras Públicas, mediante proposta do director.
 
 § único. O subdirector terá direito à gratificação mensal de 1500$00.
 
-###### Art. 20.º O provimento dos lugares de chefe de serviço será feito por livre escolha do Ministro das Obras Públicas, mediante proposta do director, de entre os investigadores do quadro do Laboratório, podendo o de chefe do serviço administrativo ser também preenchido por um especialista, com mais de seis anos de serviço no quadro, que tenha revelado excepcionais qualidades para o desempenho destas funções.
+Art. 20.º O provimento dos lugares de chefe de serviço será feito por livre escolha do Ministro das Obras Públicas, mediante proposta do director, de entre os investigadores do quadro do Laboratório, podendo o de chefe do serviço administrativo ser também preenchido por um especialista, com mais de seis anos de serviço no quadro, que tenha revelado excepcionais qualidades para o desempenho destas funções.
 
 § único. Os chefes de serviço terão direito a uma gratificação mensal de 1000$00.
 
-###### Art. 21.º O lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros dos diversos serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre indivíduos estranhos ao quadro de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.
+Art. 21.º O lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros dos diversos serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre indivíduos estranhos ao quadro de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.
 
-###### Art. 22.º A chefia das divisões referidas no artigo 7.º será atribuída, por escolha, a investigadores ou especialistas do quadro do Laboratório, podendo ser retirada em qualquer altura.
+Art. 22.º A chefia das divisões referidas no artigo 7.º será atribuída, por escolha, a investigadores ou especialistas do quadro do Laboratório, podendo ser retirada em qualquer altura.
 
 § único. Os chefes das divisões terão direito a uma gratificação mensal de 500$00, mesmo que chefiem mais de uma divisão.
 
-###### Art. 23.º A admissão do pessoal técnico, exceptuada a do mestre geral e dos mestres, quando não efectuada por acesso de categoria inferior, será precedida de estágio destinado à preparação dos candidatos e ao julgamento das suas aptidões para o desempenho das funções a que se destinam.
+Art. 23.º A admissão do pessoal técnico, exceptuada a do mestre geral e dos mestres, quando não efectuada por acesso de categoria inferior, será precedida de estágio destinado à preparação dos candidatos e ao julgamento das suas aptidões para o desempenho das funções a que se destinam.
 
 § 1.º A admissão de estagiários, excepto para desenhador, será feita por escolha, com base em concurso documental, de harmonia com as necessidades e conveniência do serviço, em particular no respeitante a especialização, e dentro das dotações a consignar anualmente no orçamento do Laboratório para esse fim e das disponibilidades das verbas destinadas ao abono de vencimentos do pessoal.
 
@@ -266,9 +339,9 @@ V) Pessoal
 
 § 9.º Para efeitos da duração do estágio, e sem prejuízo das suas finalidades, poderá o Ministro das Obras Públicas autorizar, a título excepcional, a contagem, total ou parcial, do tempo de bom e efectivo serviço anteriormente prestado pelo candidato, em funções equiparáveis, no Laboratório ou noutro centro de investigação.
 
-###### Art. 24.º Os estagiários receberão durante o período de estágio uma remuneração mensal correspondente à letra do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, que se seguir à atribuída à classe de entrada da categoria a que o estágio dá acesso.
+Art. 24.º Os estagiários receberão durante o período de estágio uma remuneração mensal correspondente à letra do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, que se seguir à atribuída à classe de entrada da categoria a que o estágio dá acesso.
 
-###### Art. 25.º Os estágios terminam com a realização de um concurso de provas documentais e provas práticas, cujas normas serão definidas em diploma regulamentar, para obtenção de certificado de estágio.
+Art. 25.º Os estágios terminam com a realização de um concurso de provas documentais e provas práticas, cujas normas serão definidas em diploma regulamentar, para obtenção de certificado de estágio.
 
 § 1.º Os estagiários para especialista devem apresentar-se a um dos dois concursos para obtenção de certificado de estágio que serão abertos no período que decorre entre três e quatro anos e meio de estágio efectivo.
 
@@ -282,13 +355,13 @@ V) Pessoal
 
 § 6.º Os ajudantes de experimentador e os auxiliares de laboratório, admitidos a concurso ao abrigo do § 3.º, que sejam reprovados poderão apresentar-se a concurso mais uma vez, decorridos, pelo menos, respectivamente, cinco e três anos após a data da publicação da lista das classificações.
 
-###### Art. 26.º Os lugares das classes de entrada das categorias do pessoal técnico serão preenchidos, de harmonia com as necessidades do serviço, por indivíduos, com a especialização requerida, habilitados com o respectivo certificado de estágio e pela ordem da classificação obtida, desde que não tenham interrompido a prestação de serviço no Laboratório por prazo superior a três anos.
+Art. 26.º Os lugares das classes de entrada das categorias do pessoal técnico serão preenchidos, de harmonia com as necessidades do serviço, por indivíduos, com a especialização requerida, habilitados com o respectivo certificado de estágio e pela ordem da classificação obtida, desde que não tenham interrompido a prestação de serviço no Laboratório por prazo superior a três anos.
 
 § 1.º Quando houver candidatos com a mesma classificação serão razões de preferência, em primeiro lugar, a antiguidade do concurso e, em segundo lugar, as conveniências do serviço.
 
 § 2.º Os estagiários poderão ser admitidos no quadro sem dependência do limite de idade legal, desde que tenham sido nomeados antes dos 35 anos e se tenham mantido ao serviço do Laboratório sem interrupção.
 
-###### Art. 27.º Os lugares de investigador serão, salvo o disposto no artigo 30.º, preenchidos por especialistas habilitados com o grau de investigador, pela ordem da classificação alcançada no concurso para a obtenção desse grau.
+Art. 27.º Os lugares de investigador serão, salvo o disposto no artigo 30.º, preenchidos por especialistas habilitados com o grau de investigador, pela ordem da classificação alcançada no concurso para a obtenção desse grau.
 
 § 1.º Quando houver candidatos com a mesma classificação será razão de preferência a antiguidade do concurso.
 
@@ -296,7 +369,7 @@ V) Pessoal
 
 § 3.º É dada a faculdade aos especialistas habilitados com o grau de investigador de se apresentarem, após mais de três anos, a um segundo concurso, passando a classificação obtida neste a contar para o efeito do corpo do presente artigo.
 
-###### Art. 28.º Os concursos para a obtenção do grau de investigador constarão de provas documentais e provas práticas e a eles se poderão apresentar os especialistas do quadro com mais de quatro anos de bom e efectivo serviço no Laboratório após a concessão do certificado de estágio.
+Art. 28.º Os concursos para a obtenção do grau de investigador constarão de provas documentais e provas práticas e a eles se poderão apresentar os especialistas do quadro com mais de quatro anos de bom e efectivo serviço no Laboratório após a concessão do certificado de estágio.
 
 § 1.º No caso de o interesse do serviço o impor, poderá o Ministro das Obras Públicas, mediante proposta do director do Laboratório, considerar como concorrentes obrigatórios os especialistas de 1.ª classe que à data do concurso contem mais de cinco anos de serviço efectivo na classe, sem prejuízo do disposto no § 2.º do artigo 60.º do presente diploma.
 
@@ -304,111 +377,111 @@ V) Pessoal
 
 § 3.º O grau de investigador pode ser concedido a título honorário a nacionais ou estrangeiros que tenham contribuído de maneira excepcionalmente relevante para o progresso da engenharia civil.
 
-###### Art. 29.º O subdirector, os chefes de serviço e os investigadores têm direito aos vencimentos correspondentes aos professores catedráticos do ensino superior.
+Art. 29.º O subdirector, os chefes de serviço e os investigadores têm direito aos vencimentos correspondentes aos professores catedráticos do ensino superior.
 
 § 1.º Não é interrompida a contagem do tempo de serviço para efeito da concessão de diuturnidades quando das nomeações para subdirector ou para chefe de serviço.
 
 § 2.º Será contado para a concessão de diuturnidades o tempo excedente a dez anos de serviço efectivo prestado no Laboratório após a obtenção do certificado de estágio para especialista.
 
-###### Art. 30.º Cinco dos lugares de investigador poderão ser preenchidos por livre escolha do Ministro das Obras Públicas, mediante proposta do director do Laboratório:
+Art. 30.º Cinco dos lugares de investigador poderão ser preenchidos por livre escolha do Ministro das Obras Públicas, mediante proposta do director do Laboratório:
 
 a) Entre os especialistas do quadro com, pelo menos, quatro anos de bom e efectivo serviço no Laboratório após a obtenção do certificado de estágio que tenham revelado excepcionais qualidades para o desempenho de actividades que não se adeqúem à realização de concursos de provas práticas;
 
 b) Entre personalidades de excepcionais aptidões e estranhas ao quadro habilitadas com um curso superior, com o fim de satisfazer as necessidades do Laboratório, em especial em outros domínios de especialização que a engenharia civil, independentemente do limite de idade legal estabelecido pelo artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929.
 
-###### Art. 31.º Os lugares de especialista de 1.ª classe serão providos por concurso de provas documentais entre os especialistas de 2.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro, nesta categoria.
+Art. 31.º Os lugares de especialista de 1.ª classe serão providos por concurso de provas documentais entre os especialistas de 2.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro, nesta categoria.
 
 § 1.º O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma.
 
 § 2.º Os especialistas de 1.ª classe têm direito ao vencimento correspondente aos professores extraordinários do ensino superior.
 
-###### Art. 32.º Aos concursos para admissão a estágio para especialista poderão apresentar-se os indivíduos habilitados com um curso superior de natureza adequada às necessidades do serviço.
+Art. 32.º Aos concursos para admissão a estágio para especialista poderão apresentar-se os indivíduos habilitados com um curso superior de natureza adequada às necessidades do serviço.
 
-###### Art. 33.º O certificado de estágio para especialista confere o grau de especialista no domínio em que decorreu a actividade do estagiário.
+Art. 33.º O certificado de estágio para especialista confere o grau de especialista no domínio em que decorreu a actividade do estagiário.
 
 § único. Nas condições que vierem a ser fixadas em regulamento, podem, para efeito da obtenção do grau de especialista em qualquer dos domínios de actividade do Laboratório Nacional de Engenharia Civil, apresentar-se aos concursos de estágio para especialista indivíduos estranhos ao Laboratório, nacionais ou estrangeiros, habilitados com um curso superior.
 
-###### Art. 34.º O preenchimento dos lugares de experimentador-chefe será efectuado por concurso, de provas documentais e provas práticas, ao qual poderão apresentar-se os experimentadores que contem, pelo menos, oito anos de bom e efectivo serviço no quadro, nesta categoria.
+Art. 34.º O preenchimento dos lugares de experimentador-chefe será efectuado por concurso, de provas documentais e provas práticas, ao qual poderão apresentar-se os experimentadores que contem, pelo menos, oito anos de bom e efectivo serviço no quadro, nesta categoria.
 
 § único. O concurso é válido pelo prazo de quatro anos, contados da data de publicação no Diário do Governo da lista das classificações atribuídas aos candidatos.
 
-###### Art. 35.º Os experimentadores-chefes terão direito a diuturnidades de 500$00 quando tiverem completado dez e vinte anos de bom e efectivo serviço nesta situação.
+Art. 35.º Os experimentadores-chefes terão direito a diuturnidades de 500$00 quando tiverem completado dez e vinte anos de bom e efectivo serviço nesta situação.
 
-###### Art. 36.º Os lugares de experimentador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os experimentadores de 2.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro, nesta categoria.
-
-§ único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma.
-
-###### Art. 37.º Aos concursos para admissão a estágio para experimentador poderão apresentar-se os indivíduos habilitados com um curso adequado de um instituto industrial ou com o 7.º ano do curso dos liceus e as cadeiras dos três primeiros anos de um curso superior de natureza adequada.
-
-###### Art. 38.º Os lugares de ajudante de experimentador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os ajudantes de experimentador de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.
+Art. 36.º Os lugares de experimentador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os experimentadores de 2.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro, nesta categoria.
 
 § único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma.
 
-###### Art. 39.º Aos concursos para admissão a estágio para ajudante de experimentador poderão apresentar-se os indivíduos habilitados com o 7.º ano dos liceus (Ciências) ou com um curso industrial de formação profissional adequada e a secção preparatória para os institutos industriais.
+Art. 37.º Aos concursos para admissão a estágio para experimentador poderão apresentar-se os indivíduos habilitados com um curso adequado de um instituto industrial ou com o 7.º ano do curso dos liceus e as cadeiras dos três primeiros anos de um curso superior de natureza adequada.
 
-###### Art. 40.º Os lugares de auxiliar de laboratório de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os auxiliares de laboratório de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.
+Art. 38.º Os lugares de ajudante de experimentador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os ajudantes de experimentador de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.
 
 § único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma.
 
-###### Art. 41.º Aos concursos de admissão ao estágio para auxiliar de laboratório poderão apresentar-se os indivíduos habilitados com um curso industrial de formação profissional adequada ou com o 2.º ciclo do curso dos liceus.
+Art. 39.º Aos concursos para admissão a estágio para ajudante de experimentador poderão apresentar-se os indivíduos habilitados com o 7.º ano dos liceus (Ciências) ou com um curso industrial de formação profissional adequada e a secção preparatória para os institutos industriais.
+
+Art. 40.º Os lugares de auxiliar de laboratório de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os auxiliares de laboratório de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.
+
+§ único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma.
+
+Art. 41.º Aos concursos de admissão ao estágio para auxiliar de laboratório poderão apresentar-se os indivíduos habilitados com um curso industrial de formação profissional adequada ou com o 2.º ciclo do curso dos liceus.
 
 § único. Quando não houver candidatos nas condições do corpo deste artigo em número suficiente para preencher as necessidades do Laboratório poderão ser admitidos ao concurso, mediante autorização do Ministro das Obras Públicas, indivíduos com menores habilitações, aos quais não será exigido diploma de curso para a apresentação ao concurso para a obtenção de certificado de estágio.
 
-###### Art. 42.º O preenchimento dos lugares de desenhador-chefe será efectuado por concurso, de provas documentais e provas práticas, ao qual poderão apresentar-se os desenhadores do quadro que contem, pelo menos, seis anos de bom e efectivo serviço nesta categoria, e desenhadores estranhos ao quadro possuindo larga experiência profissional, habilitados, há mais de oito anos, com um curso industrial ou o 2.º ciclo do curso dos liceus.
+Art. 42.º O preenchimento dos lugares de desenhador-chefe será efectuado por concurso, de provas documentais e provas práticas, ao qual poderão apresentar-se os desenhadores do quadro que contem, pelo menos, seis anos de bom e efectivo serviço nesta categoria, e desenhadores estranhos ao quadro possuindo larga experiência profissional, habilitados, há mais de oito anos, com um curso industrial ou o 2.º ciclo do curso dos liceus.
 
-###### Art. 43.º Os lugares de desenhador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os desenhadores de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.
+Art. 43.º Os lugares de desenhador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os desenhadores de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.
 
 § único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma.
 
-###### Art. 44.º A admissão ao estágio para desenhador será feita por concurso de provas práticas, ao qual poderão apresentar-se os indivíduos habilitados com um curso industrial de formação profissional adequada ou o 2.º ciclo do curso dos liceus.
+Art. 44.º A admissão ao estágio para desenhador será feita por concurso de provas práticas, ao qual poderão apresentar-se os indivíduos habilitados com um curso industrial de formação profissional adequada ou o 2.º ciclo do curso dos liceus.
 
-###### Art. 45.º O lugar de mestre geral é provido por escolha entre os mestres do Laboratório com, pelo menos, quatro anos de serviço no quadro.
+Art. 45.º O lugar de mestre geral é provido por escolha entre os mestres do Laboratório com, pelo menos, quatro anos de serviço no quadro.
 
-###### Art. 46.º Os lugares de mestre serão preenchidos por concurso de provas práticas entre operários de especialização adequada possuindo larga prática profissional e habilitados com o curso de uma escola industrial, independentemente do limite de idade legal estabelecido pelo artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929.
+Art. 46.º Os lugares de mestre serão preenchidos por concurso de provas práticas entre operários de especialização adequada possuindo larga prática profissional e habilitados com o curso de uma escola industrial, independentemente do limite de idade legal estabelecido pelo artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929.
 
-###### Art. 47.º Os lugares de tradutor-técnico e de tradutor-correspondente serão providos por concurso de provas práticas, a que poderão concorrer indivíduos com os conhecimentos de línguas estrangeiras necessários ao desempenho das respectivas funções.
+Art. 47.º Os lugares de tradutor-técnico e de tradutor-correspondente serão providos por concurso de provas práticas, a que poderão concorrer indivíduos com os conhecimentos de línguas estrangeiras necessários ao desempenho das respectivas funções.
 
-###### Art. 48.º Os concursos de promoção do pessoal técnico, exceptuado o disposto no § 2.º do artigo 27.º e no § único do artigo 34.º, e de admissão de mestres e do pessoal de traduções serão válidos pelo prazo de dois anos, contados da data da publicação no Diário do Governo da lista das classificações atribuídas aos candidatos.
+Art. 48.º Os concursos de promoção do pessoal técnico, exceptuado o disposto no § 2.º do artigo 27.º e no § único do artigo 34.º, e de admissão de mestres e do pessoal de traduções serão válidos pelo prazo de dois anos, contados da data da publicação no Diário do Governo da lista das classificações atribuídas aos candidatos.
 
-###### Art. 49.º As normas a que deverão obedecer os concursos de promoção do pessoal técnico e de admissão de mestres e do pessoal de traduções do quadro do Laboratório Nacional de Engenharia Civil serão definidas em diplomas regulamentares.
+Art. 49.º As normas a que deverão obedecer os concursos de promoção do pessoal técnico e de admissão de mestres e do pessoal de traduções do quadro do Laboratório Nacional de Engenharia Civil serão definidas em diplomas regulamentares.
 
-###### Art. 50.º A admissão do pessoal do serviço de saúde será feita por escolha, com base em concurso documental.
+Art. 50.º A admissão do pessoal do serviço de saúde será feita por escolha, com base em concurso documental.
 
-###### Art. 51.º Os lugares de chefe de repartição serão providos por escolha entre indivíduos de reconhecida competência habilitados com um curso superior de natureza adequada às necessidades do serviço, licenciados há mais de quatro anos.
+Art. 51.º Os lugares de chefe de repartição serão providos por escolha entre indivíduos de reconhecida competência habilitados com um curso superior de natureza adequada às necessidades do serviço, licenciados há mais de quatro anos.
 
-###### Art. 52.º Os lugares de chefe de secção serão preenchidos por escolha entre indivíduos habilitados com um curso superior de natureza adequada às necessidades do serviço.
+Art. 52.º Os lugares de chefe de secção serão preenchidos por escolha entre indivíduos habilitados com um curso superior de natureza adequada às necessidades do serviço.
 
-###### Art. 53.º O lugar de tesoureiro será provido por escolha entre os oficiais de secretaria do quadro do Laboratório.
+Art. 53.º O lugar de tesoureiro será provido por escolha entre os oficiais de secretaria do quadro do Laboratório.
 
 § 1.º O tesoureiro terá direito ao abono mensal de 300$00 para falhas.
 
 § 2.º Quando as exigências do serviço assim o determinarem, e mediante proposta do director, aprovada pelo Ministro das Obras Públicas, poderá ser designado, segundo indicação do tesoureiro, um oficial de secretaria para desempenhar as funções de ajudante do tesoureiro.
 
-###### Art. 54.º A admissão e promoção na categoria de oficiais de secretaria e a admissão de dactilógrafos serão feitas por concurso, de harmonia com a legislação geral aplicável ao Ministério das Obras Públicas.
+Art. 54.º A admissão e promoção na categoria de oficiais de secretaria e a admissão de dactilógrafos serão feitas por concurso, de harmonia com a legislação geral aplicável ao Ministério das Obras Públicas.
 
-###### Art. 55.º A admissão e promoção do pessoal menor serão feitas por escolha.
+Art. 55.º A admissão e promoção do pessoal menor serão feitas por escolha.
 
-###### Art. 56.º Quando a natureza do serviço o impuser, poderá, mediante autorização do Ministro das Obras Públicas, ser vedada a apresentação aos concursos de admissão de candidatos do sexo feminino ou limitado o número destes candidatos a admitir.
+Art. 56.º Quando a natureza do serviço o impuser, poderá, mediante autorização do Ministro das Obras Públicas, ser vedada a apresentação aos concursos de admissão de candidatos do sexo feminino ou limitado o número destes candidatos a admitir.
 
-###### Art. 57.º Enquanto não houver indivíduos habilitados com certificado de estágio ou não forem realizados concursos de admissão ou promoção no quadro, poderão ser feitas admissões em regime de contrato na classe de entrada da respectiva categoria até ao quantitativo total das vagas existentes nas diversas classes da mesma categoria.
+Art. 57.º Enquanto não houver indivíduos habilitados com certificado de estágio ou não forem realizados concursos de admissão ou promoção no quadro, poderão ser feitas admissões em regime de contrato na classe de entrada da respectiva categoria até ao quantitativo total das vagas existentes nas diversas classes da mesma categoria.
 
-###### Art. 58.º Todas as nomeações por escolha para os lugares do quadro do Laboratório só se poderão tornar definitivas depois de dois anos de bom e efectivo serviço.
+Art. 58.º Todas as nomeações por escolha para os lugares do quadro do Laboratório só se poderão tornar definitivas depois de dois anos de bom e efectivo serviço.
 
-###### Art. 59.º Os funcionários contratados para os lugares do quadro, com excepção do pessoal menor, poderão ser providos definitivamente desde que tenham, pelo menos, seis anos de bom e efectivo serviço no quadro.
+Art. 59.º Os funcionários contratados para os lugares do quadro, com excepção do pessoal menor, poderão ser providos definitivamente desde que tenham, pelo menos, seis anos de bom e efectivo serviço no quadro.
 
-###### Art. 60.º Os funcionários vitalícios reprovados consecutivamente em dois concursos serão aposentados, se tiverem mais de quinze anos de serviço efectivo no Laboratório, ou demitidos, em caso contrário. Aos contratados reprovados num concurso será rescindido o contrato.
+Art. 60.º Os funcionários vitalícios reprovados consecutivamente em dois concursos serão aposentados, se tiverem mais de quinze anos de serviço efectivo no Laboratório, ou demitidos, em caso contrário. Aos contratados reprovados num concurso será rescindido o contrato.
 
 § 1.º Para os efeitos do corpo deste artigo não se consideram as reprovações dos ajudantes de experimentador e auxiliares de laboratório nos concursos a que se submetam ao abrigo do disposto no § 3.º do artigo 25.º
 
 § 2.º Os funcionários vitalícios reprovados num concurso só podem apresentar-se a qualquer outro passados mais de três anos sobre a data da publicação no Diário do Governo das classificações do concurso.
 
-###### Art. 61.º O Laboratório Nacional de Engenharia Civil poderá contratar ou assalariar, mediante autorização ministerial e dentro das verbas para esse fim inscritas no orçamento, ou pelas verbas consignadas a estudos, o pessoal indispensável para a execução dos trabalhos que não possam ser realizados por pessoal do quadro em virtude da sua insuficiência em número ou da natureza desses trabalhos.
+Art. 61.º O Laboratório Nacional de Engenharia Civil poderá contratar ou assalariar, mediante autorização ministerial e dentro das verbas para esse fim inscritas no orçamento, ou pelas verbas consignadas a estudos, o pessoal indispensável para a execução dos trabalhos que não possam ser realizados por pessoal do quadro em virtude da sua insuficiência em número ou da natureza desses trabalhos.
 
 § único. O contrato do pessoal técnico ao abrigo do corpo deste artigo pode ser feito independentemente da realização do estágio a que se refere o artigo 23.º do presente diploma.
 
-###### Art. 62.º O Laboratório Nacional de Engenharia Civil poderá contratar temporàriamente ou subsidiar técnicos nacionais ou estrangeiros de reconhecida competência para a realização de determinados trabalhos especiais, mediante autorização do Ministro das Obras Públicas, dentro das dotações orçamentais para pagamento a pessoal fora do quadro ou pelas verbas consignadas a estudos.
+Art. 62.º O Laboratório Nacional de Engenharia Civil poderá contratar temporàriamente ou subsidiar técnicos nacionais ou estrangeiros de reconhecida competência para a realização de determinados trabalhos especiais, mediante autorização do Ministro das Obras Públicas, dentro das dotações orçamentais para pagamento a pessoal fora do quadro ou pelas verbas consignadas a estudos.
 
-###### Art. 63.º Os serviços do Ministério das Obras Públicas podem, mediante prévio despacho ministerial sobre informação do director do Laboratório, requisitar funcionários deste organismo para o exercício de cargos técnicos e de chefia.
+Art. 63.º Os serviços do Ministério das Obras Públicas podem, mediante prévio despacho ministerial sobre informação do director do Laboratório, requisitar funcionários deste organismo para o exercício de cargos técnicos e de chefia.
 
 § 1.º O funcionário requisitado abre vaga no quadro de que provém ao fim de seis meses, podendo a todo o tempo regressar ao quadro de origem, a seu requerimento ou por iniciativa do serviço que o requisitou, ocupando a primeira vaga da sua categoria e classe por simples despacho ministerial e com dispensa de novo título de provimento, de visto do Tribunal de Contas e de posse.
 
@@ -418,150 +491,150 @@ b) Entre personalidades de excepcionais aptidões e estranhas ao quadro habilita
 
 § 4.º As remunerações do pessoal requisitado serão satisfeitas em conta das disponibilidades existentes nas verbas destinadas a pessoal ou das verbas especialmente inscritas para este fim.
 
-###### Art. 64.º O Laboratório poderá requisitar funcionários de outros serviços públicos para o exercício de cargos técnicos e de chefia, mediante autorização do Ministro das Obras Públicas e a anuência do Ministro de quem esses funcionários dependam, nas condições estabelecidas pelos §§ 1.º, 2.º, 3.º e 4.º do artigo 63.º do presente diploma.
+Art. 64.º O Laboratório poderá requisitar funcionários de outros serviços públicos para o exercício de cargos técnicos e de chefia, mediante autorização do Ministro das Obras Públicas e a anuência do Ministro de quem esses funcionários dependam, nas condições estabelecidas pelos §§ 1.º, 2.º, 3.º e 4.º do artigo 63.º do presente diploma.
 
 VI) Disposições gerais
 
-###### Art. 65.º O director, o subdirector e os chefes dos serviços referidos nas alíneas b) a f) do artigo 6.º do presente diploma são membros do Conselho Superior de Obras Públicas.
+Art. 65.º O director, o subdirector e os chefes dos serviços referidos nas alíneas b) a f) do artigo 6.º do presente diploma são membros do Conselho Superior de Obras Públicas.
 
-###### Art. 66.º O director, o subdirector, os chefes de serviço e o pessoal técnico superior do quadro do Laboratório podem, mediante autorização do Ministro das Obras Públicas, exercer cumulativamente funções docentes em escolas superiores.
+Art. 66.º O director, o subdirector, os chefes de serviço e o pessoal técnico superior do quadro do Laboratório podem, mediante autorização do Ministro das Obras Públicas, exercer cumulativamente funções docentes em escolas superiores.
 
-###### Art. 67.º O pessoal do Laboratório Nacional de Engenharia Civil, no desempenho das suas funções, terá livre entrada nos estaleiros de obras e nos estabelecimentos das indústrias de materiais e elementos de construção, mediante exibição do cartão de identidade, em cujo verso será transcrita esta disposição.
+Art. 67.º O pessoal do Laboratório Nacional de Engenharia Civil, no desempenho das suas funções, terá livre entrada nos estaleiros de obras e nos estabelecimentos das indústrias de materiais e elementos de construção, mediante exibição do cartão de identidade, em cujo verso será transcrita esta disposição.
 
-###### Art. 68.º Quando um trabalho de natureza especial o impuser, pode o horário de trabalho dos funcionários que dele se ocupam ser fixado pelo director do Laboratório, de harmonia com as conveniências do serviço, sem prejuízo do cumprimento do número de horas de trabalho fixado por lei.
+Art. 68.º Quando um trabalho de natureza especial o impuser, pode o horário de trabalho dos funcionários que dele se ocupam ser fixado pelo director do Laboratório, de harmonia com as conveniências do serviço, sem prejuízo do cumprimento do número de horas de trabalho fixado por lei.
 
-###### Art. 69.º O serviço extraordinário do pessoal técnico médio e auxiliar e do pessoal operário contratado ou assalariado, imposto por trabalhos especiais, poderá ser compensado por dispensa de serviço, com duração igual à do serviço extraordinário prestado, ou, se tal não for conveniente, ser remunerado nos termos estabelecidos no artigo 43.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 69.º O serviço extraordinário do pessoal técnico médio e auxiliar e do pessoal operário contratado ou assalariado, imposto por trabalhos especiais, poderá ser compensado por dispensa de serviço, com duração igual à do serviço extraordinário prestado, ou, se tal não for conveniente, ser remunerado nos termos estabelecidos no artigo 43.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 70.º O pessoal técnico e operário do Laboratório, quando no desempenho de actividades que ocasionem desgaste anormal dos seus artigos de vestuário ou que exijam calçado especial, terá direito à concessão de fatos de trabalho e de calçado de modelos a aprovar pelo Ministro das Obras Públicas.
+Art. 70.º O pessoal técnico e operário do Laboratório, quando no desempenho de actividades que ocasionem desgaste anormal dos seus artigos de vestuário ou que exijam calçado especial, terá direito à concessão de fatos de trabalho e de calçado de modelos a aprovar pelo Ministro das Obras Públicas.
 
-###### Art. 71.º O pessoal do Laboratório só pode divulgar as actividades da instituição e os seus resultados mediante prévia autorização.
+Art. 71.º O pessoal do Laboratório só pode divulgar as actividades da instituição e os seus resultados mediante prévia autorização.
 
-###### Art. 72.º O exercício de quaisquer funções de carácter permanente no Laboratório Nacional de Engenharia Civil é incompatível com a ingerência ou participação, a título particular, directamente ou por interposta pessoa, nas obras ou nos fornecimentos destinados ao Laboratório.
+Art. 72.º O exercício de quaisquer funções de carácter permanente no Laboratório Nacional de Engenharia Civil é incompatível com a ingerência ou participação, a título particular, directamente ou por interposta pessoa, nas obras ou nos fornecimentos destinados ao Laboratório.
 
-###### Art. 73.º É vedado ao pessoal do Laboratório o exercício de quaisquer actividades, a título particular, que possam comprometer real ou aparentemente a independência de acção ou de julgamento da instituição ou o seu prestígio.
+Art. 73.º É vedado ao pessoal do Laboratório o exercício de quaisquer actividades, a título particular, que possam comprometer real ou aparentemente a independência de acção ou de julgamento da instituição ou o seu prestígio.
 
-###### Art. 74.º O Laboratório Nacional de Engenharia Civil pode instituir prémios ou outras formas de recompensa, segundo regulamento aprovado pelo Ministro das Obras Públicas, para os servidores do Laboratório que tenham contribuído de forma excepcional para a sua eficiência ou para o progresso dos conhecimentos.
+Art. 74.º O Laboratório Nacional de Engenharia Civil pode instituir prémios ou outras formas de recompensa, segundo regulamento aprovado pelo Ministro das Obras Públicas, para os servidores do Laboratório que tenham contribuído de forma excepcional para a sua eficiência ou para o progresso dos conhecimentos.
 
-###### Art. 75.º O Laboratório Nacional de Engenharia Civil pode, nos termos que forem fixados em regulamento aprovado pelo Ministro das Obras Públicas, instituir e manter obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter.
+Art. 75.º O Laboratório Nacional de Engenharia Civil pode, nos termos que forem fixados em regulamento aprovado pelo Ministro das Obras Públicas, instituir e manter obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter.
 
-###### Art. 76.º O Laboratório Nacional de Engenharia Civil pode obter patentes das suas invenções e explorá-las da maneira mais conveniente aos interesses do Laboratório.
+Art. 76.º O Laboratório Nacional de Engenharia Civil pode obter patentes das suas invenções e explorá-las da maneira mais conveniente aos interesses do Laboratório.
 
-###### Art. 77.º A venda de patentes de invenção, de aparelhagem desenvolvida no Laboratório e de publicações, a que se refere a alínea f) do artigo 9.º, pode ser feita independentemente de quaisquer formalidades legais.
+Art. 77.º A venda de patentes de invenção, de aparelhagem desenvolvida no Laboratório e de publicações, a que se refere a alínea f) do artigo 9.º, pode ser feita independentemente de quaisquer formalidades legais.
 
-###### Art. 78.º O Laboratório Nacional de Engenharia Civil goza da isenção de direitos e outras imposições aduaneiras devidas pela importação de materiais, produtos, aparelhagem e equipamentos de qualquer natureza destinados à sua actividade.
+Art. 78.º O Laboratório Nacional de Engenharia Civil goza da isenção de direitos e outras imposições aduaneiras devidas pela importação de materiais, produtos, aparelhagem e equipamentos de qualquer natureza destinados à sua actividade.
 
 § 1.º Terão preferência no despacho e poderão ser desembaraçadas pelas alfândegas, sem dependência de formalidades e mediante assinatura de termo de responsabilidade pelo director do Laboratório, as mercadorias a que se refere o corpo deste artigo.
 
 § 2.º As alfândegas poderão, sempre que o entenderem conveniente, proceder à verificação das mercadorias à sua chegada aos serviços a que se destinam.
 
-###### Art. 79.º O pagamento do imposto do selo devido pelo requerimento de trabalhos ao Laboratório, nos termos do artigo 154 da tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, pode ser feito mediante papel selado ou por estampilha.
+Art. 79.º O pagamento do imposto do selo devido pelo requerimento de trabalhos ao Laboratório, nos termos do artigo 154 da tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, pode ser feito mediante papel selado ou por estampilha.
 
 VII) Disposições transitórias
 
-###### Art. 80.º Os funcionários vitalícios, contratados e assalariados do actual quadro e os actuais contratados fora do quadro aprovados em concurso para admissão no quadro ingressarão, sem dependência de quaisquer formalidades legais, incluído o visto do Tribunal de Contas, e conservando todos os direitos adquiridos, no quadro a que se refere o artigo 17.º do presente diploma, nas respectivas categorias e classes, onde ocuparão os lugares pela ordem indicada nos parágrafos do presente artigo, sem prejuízo das disposições transitórias definidas nos artigos seguintes.
+Art. 80.º Os funcionários vitalícios, contratados e assalariados do actual quadro e os actuais contratados fora do quadro aprovados em concurso para admissão no quadro ingressarão, sem dependência de quaisquer formalidades legais, incluído o visto do Tribunal de Contas, e conservando todos os direitos adquiridos, no quadro a que se refere o artigo 17.º do presente diploma, nas respectivas categorias e classes, onde ocuparão os lugares pela ordem indicada nos parágrafos do presente artigo, sem prejuízo das disposições transitórias definidas nos artigos seguintes.
 
 § 1.º Os funcionários vitalícios, contratados e assalariados do actual quadro ocuparão os lugares pela ordem de antiguidade constante da última lista publicada.
 
 § 2.º Os actuais contratados fora do quadro ocuparão os restantes lugares vagos, pela ordem de classificação no concurso de admissão no quadro em que foram aprovados.
 
-###### Art. 81.º O actual titular do lugar de chefe do serviço de estudo de estruturas é provido no lugar de subdirector do Laboratório.
+Art. 81.º O actual titular do lugar de chefe do serviço de estudo de estruturas é provido no lugar de subdirector do Laboratório.
 
-###### Art. 82.º O actual chefe do serviço de estudo e ensaio de materiais passará a chefiar o serviço de materiais de construção.
+Art. 82.º O actual chefe do serviço de estudo e ensaio de materiais passará a chefiar o serviço de materiais de construção.
 
-###### Art. 83.º Enquanto durar o impedimento do titular do lugar de secretário continuam as respectivas funções a ser desempenhadas pelo actual servidor, sem prejuízo do disposto no artigo 86.º do presente diploma.
+Art. 83.º Enquanto durar o impedimento do titular do lugar de secretário continuam as respectivas funções a ser desempenhadas pelo actual servidor, sem prejuízo do disposto no artigo 86.º do presente diploma.
 
-###### Art. 84.º Os assistentes de 1.ª classe e o engenheiro geógrafo de 1.ª classe do actual quadro ocuparão vagas de especialista de 1.ª classe, contando-se para todos os efeitos o tempo de serviço prestado na anterior situação.
+Art. 84.º Os assistentes de 1.ª classe e o engenheiro geógrafo de 1.ª classe do actual quadro ocuparão vagas de especialista de 1.ª classe, contando-se para todos os efeitos o tempo de serviço prestado na anterior situação.
 
-###### Art. 85.º Os assistentes de 2.ª classe, os químicos assistentes de 2.ª classe, o matemático assistente de 2.ª classe e o engenheiro geógrafo de 2.ª classe do actual quadro ocuparão vagas de especialista de 2.ª classe, contando-se para todos os efeitos o tempo de serviço prestado na anterior situação.
+Art. 85.º Os assistentes de 2.ª classe, os químicos assistentes de 2.ª classe, o matemático assistente de 2.ª classe e o engenheiro geógrafo de 2.ª classe do actual quadro ocuparão vagas de especialista de 2.ª classe, contando-se para todos os efeitos o tempo de serviço prestado na anterior situação.
 
-###### Art. 86.º Os assistentes de 3.ª classe e os químicos assistentes de 3.ª classe do actual quadro ocuparão vagas de especialista de 2.ª classe.
+Art. 86.º Os assistentes de 3.ª classe e os químicos assistentes de 3.ª classe do actual quadro ocuparão vagas de especialista de 2.ª classe.
 
-###### Art. 87.º Para efeito da apresentação a concurso para investigador, do disposto no § 2.º do artigo 29.º e das escolhas previstas no corpo do artigo 20.º e na alínea a) do artigo 30.º será contado aos actuais assistentes, químicos assistentes, matemático assistente e engenheiros geógrafos o tempo de efectivo serviço já prestado no quadro.
+Art. 87.º Para efeito da apresentação a concurso para investigador, do disposto no § 2.º do artigo 29.º e das escolhas previstas no corpo do artigo 20.º e na alínea a) do artigo 30.º será contado aos actuais assistentes, químicos assistentes, matemático assistente e engenheiros geógrafos o tempo de efectivo serviço já prestado no quadro.
 
-###### Art. 88.º Os actuais contratados fora do quadro como assistentes de 3.ª classe que à data da entrada em vigor do presente diploma contem mais de quatro anos de bom e efectivo serviço, incluído o período de tirocínio, consideram-se contratados como especialistas de 2.ª classe fora do quadro.
+Art. 88.º Os actuais contratados fora do quadro como assistentes de 3.ª classe que à data da entrada em vigor do presente diploma contem mais de quatro anos de bom e efectivo serviço, incluído o período de tirocínio, consideram-se contratados como especialistas de 2.ª classe fora do quadro.
 
 § 1.º Os contratados nos termos do corpo deste artigo deverão submeter-se a concurso para obtenção de certificado de estágio da respectiva categoria, sendo rescindidos os contratos dos que não requeiram a admissão a um dos dois concursos que serão abertos no prazo de dois anos após a entrada em vigor do presente diploma e dos que forem reprovados no concurso a que se apresentarem.
 
 § 2.º Os indivíduos abrangidos pelo corpo deste artigo e com mais de 35 anos de idade à data da entrada em vigor do presente diploma poderão ser admitidos no quadro, desde que não interrompam a prestação de serviço no Laboratório após aprovação no concurso para a obtenção de certificado de estágio.
 
-###### Art. 89.º Os actuais contratados fora do quadro como assistentes de 3.ª classe, químicos assistentes de 3.ª classe e matemático assistente de 3.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para especialista.
+Art. 89.º Os actuais contratados fora do quadro como assistentes de 3.ª classe, químicos assistentes de 3.ª classe e matemático assistente de 3.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para especialista.
 
 § 1.º Os indivíduos abrangidos pelo corpo deste artigo que à data da entrada em vigor do presente diploma contem mais de dois anos de bom e efectivo serviço no Laboratório, incluído o período de tirocínio, deverão submeter-se a um dos três concursos para obtenção de certificado de estágio da respectiva categoria que serão abertos no prazo de três anos, a contar dessa data; os restantes deverão submeter-se a um dos quatro concursos que serão abertos no prazo de quatro anos. Serão rescindidos os contratos dos que não requeiram a admissão a um dos concursos, dentro dos prazos fixados, e dos que forem reprovados no concurso a que se apresentarem.
 
 § 2.º Os indivíduos abrangidos pelo corpo deste artigo e com mais de 35 anos de idade à data da entrada em vigor do presente diploma poderão ser admitidos no quadro, desde que não interrompam a prestação de serviço no Laboratório após aprovação no concurso para obtenção de certificado de estágio.
 
-###### Art. 90.º Para efeito da concessão de diuturnidades aos actuais experimentadores-chefes será contado o tempo de serviço já prestado nesta situação.
+Art. 90.º Para efeito da concessão de diuturnidades aos actuais experimentadores-chefes será contado o tempo de serviço já prestado nesta situação.
 
-###### Art. 91.º Os experimentadores de 3.ª classe do actual quadro ocuparão vagas de experimentador de 2.ª classe.
+Art. 91.º Os experimentadores de 3.ª classe do actual quadro ocuparão vagas de experimentador de 2.ª classe.
 
-###### Art. 92.º Os actuais contratados fora do quadro como experimentadores de 3.ª classe que à data da entrada em vigor do presente diploma contem mais de dois anos de bom e efectivo serviço, incluído o período de tirocínio, e que não se encontrem abrangidos pelo disposto no artigo 80.º do presente diploma consideram-se contratados como experimentadores de 2.ª classe fora do quadro.
+Art. 92.º Os actuais contratados fora do quadro como experimentadores de 3.ª classe que à data da entrada em vigor do presente diploma contem mais de dois anos de bom e efectivo serviço, incluído o período de tirocínio, e que não se encontrem abrangidos pelo disposto no artigo 80.º do presente diploma consideram-se contratados como experimentadores de 2.ª classe fora do quadro.
 
 § único. Os contratados nos termos do corpo deste artigo deverão submeter-se a um dos dois primeiros concursos para obtenção de certificado de estágio da respectiva categoria que tenham lugar após a entrada em vigor do presente diploma, sendo rescindidos os contratos dos que não se apresentarem a concurso e dos que forem reprovados.
 
-###### Art. 93.º Os actuais contratados fora do quadro como experimentadores de 3.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para experimentador.
+Art. 93.º Os actuais contratados fora do quadro como experimentadores de 3.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para experimentador.
 
-###### Art. 94.º Os actuais contratados fora do quadro como auxiliares de laboratório de 2.ª classe que à data da entrada em vigor do presente diploma contem mais de dois anos de bem e efectivo serviço, incluído o período de tirocínio, e que não se encontrem abrangidos pelo disposto no artigo 80.º do presente diploma manter-se-ão nesta situação.
+Art. 94.º Os actuais contratados fora do quadro como auxiliares de laboratório de 2.ª classe que à data da entrada em vigor do presente diploma contem mais de dois anos de bem e efectivo serviço, incluído o período de tirocínio, e que não se encontrem abrangidos pelo disposto no artigo 80.º do presente diploma manter-se-ão nesta situação.
 
 § 1.º Os contratados nos termos do corpo deste artigo deverão submeter-se a um dos dois primeiros concursos para obtenção de certificado de estágio da respectiva categoria que tenham lugar após a entrada em vigor do presente diploma, sendo rescindidos os contratos dos que não se apresentarem a concurso e dos que forem reprovados.
 
 § 2.º OS indivíduos abrangidos pelo corpo deste artigo e com mais de 35 anos de idade à data da entrada em vigor do presente diploma poderão ser admitidos no quadro, desde que não interrompam a prestação de serviço no Laboratório após aprovação no concurso para obtenção de certificado de estágio.
 
-###### Art. 95.º Os actuais contratados fora do quadro como auxiliares de laboratório de 2.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para auxiliar de laboratório.
+Art. 95.º Os actuais contratados fora do quadro como auxiliares de laboratório de 2.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para auxiliar de laboratório.
 
-###### Art. 96.º Os desenhadores de 3.ª classe do actual quadro ocuparão vagas de desenhador de 2.ª classe.
+Art. 96.º Os desenhadores de 3.ª classe do actual quadro ocuparão vagas de desenhador de 2.ª classe.
 
-###### Art. 97.º Os actuais contratados fora do quadro como desenhadores de 3.ª classe que à data da entrada em vigor no presente diploma contem mais de dois anos de bom e efectivo serviço, incluído o período de tirocínio, e que não se encontrem abrangidos pelo disposto no artigo 80.º do presente diploma consideram-se contratados como desenhadores de 2.ª classe fora do quadro.
+Art. 97.º Os actuais contratados fora do quadro como desenhadores de 3.ª classe que à data da entrada em vigor no presente diploma contem mais de dois anos de bom e efectivo serviço, incluído o período de tirocínio, e que não se encontrem abrangidos pelo disposto no artigo 80.º do presente diploma consideram-se contratados como desenhadores de 2.ª classe fora do quadro.
 
 § único. Os contratados nos termos do corpo deste artigo deverão submeter-se ao primeiro concurso para obtenção de certificado de estágio da respectiva categoria que tenha lugar após a entrada em vigor do presente diploma, sendo rescindidos os contratos dos que não se apresentarem a concurso e dos que forem reprovados.
 
-###### Art. 98.º Os actuais contratados fora do quadro como desenhadores de 3.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para desenhador.
+Art. 98.º Os actuais contratados fora do quadro como desenhadores de 3.ª classe que não se encontrem nas condições do corpo do artigo anterior passarão à situação de estagiário para desenhador.
 
-###### Art. 99.º O mestre de oficina e os contramestres de oficina do actual quadro ocuparão, respectivamente, lugares de mestre geral e de mestre do novo quadro.
+Art. 99.º O mestre de oficina e os contramestres de oficina do actual quadro ocuparão, respectivamente, lugares de mestre geral e de mestre do novo quadro.
 
-###### Art. 100.º Os actuais contratados fora do quadro como especialista de documentação, com mais de um ano de serviço, e como tradutor ocuparão, respectivamente, lugares de tradutor-técnico e de tradutor-correspondente.
+Art. 100.º Os actuais contratados fora do quadro como especialista de documentação, com mais de um ano de serviço, e como tradutor ocuparão, respectivamente, lugares de tradutor-técnico e de tradutor-correspondente.
 
-###### Art. 101.º O actual contratado fora do quadro como terceiro-oficial de secretaria que tem a seu cargo o sector de aquisições irá ocupar uma das vagas de terceiro-oficial de secretaria.
+Art. 101.º O actual contratado fora do quadro como terceiro-oficial de secretaria que tem a seu cargo o sector de aquisições irá ocupar uma das vagas de terceiro-oficial de secretaria.
 
-###### Art. 102.º Os actuais tirocinantes para todas as categorias passarão à situação de estagiário.
+Art. 102.º Os actuais tirocinantes para todas as categorias passarão à situação de estagiário.
 
-###### Art. 103.º São dispensadas de todas as formalidades legais, incluído o visto do Tribunal de Contas, as mudanças de situação previstas em todas as disposições transitórias do presente diploma não abrangidas pelo disposto no artigo 80.º
+Art. 103.º São dispensadas de todas as formalidades legais, incluído o visto do Tribunal de Contas, as mudanças de situação previstas em todas as disposições transitórias do presente diploma não abrangidas pelo disposto no artigo 80.º
 
-###### Art. 104.º Caduca a validade dos concursos para admissão de tirocinantes de todas as categorias em curso e em vigor à data da entrada em aplicação do presente diploma.
+Art. 104.º Caduca a validade dos concursos para admissão de tirocinantes de todas as categorias em curso e em vigor à data da entrada em aplicação do presente diploma.
 
-###### Art. 105.º Os concursos de admissão no quadro e de promoção em curso à data da entrada em vigor do presente diploma prosseguirão ao abrigo das disposições regulamentares que os têm regido.
+Art. 105.º Os concursos de admissão no quadro e de promoção em curso à data da entrada em vigor do presente diploma prosseguirão ao abrigo das disposições regulamentares que os têm regido.
 
-###### Art. 106.º Todo o pessoal que vem desempenhando funções no Laboratório e cuja situação não é especialmente regulada no presente diploma manter-se-á no desempenho das funções em que estiver investido, com dispensa de todas as formalidades legais, incluído o visto do Tribunal de Contas.
+Art. 106.º Todo o pessoal que vem desempenhando funções no Laboratório e cuja situação não é especialmente regulada no presente diploma manter-se-á no desempenho das funções em que estiver investido, com dispensa de todas as formalidades legais, incluído o visto do Tribunal de Contas.
 
-###### Art. 107.º Os indivíduos que tenham exercido funções no Laboratório como contratados fora do quadro nas categorias do pessoal técnico poderão, mediante despacho favorável do Ministro das Obras Públicas sobre proposta do director, ser readmitidos ao serviço, sendo-lhes aplicáveis as disposições transitórias respeitantes aos actuais contratados fora do quadro, exceptuada a dispensa das formalidades legais.
+Art. 107.º Os indivíduos que tenham exercido funções no Laboratório como contratados fora do quadro nas categorias do pessoal técnico poderão, mediante despacho favorável do Ministro das Obras Públicas sobre proposta do director, ser readmitidos ao serviço, sendo-lhes aplicáveis as disposições transitórias respeitantes aos actuais contratados fora do quadro, exceptuada a dispensa das formalidades legais.
 
-###### Art. 108.º Todo o pessoal do Laboratório Nacional de Engenharia Civil terá a sua inscrição na Caixa Geral de Aposentações reportada à data em que foi admitido ao serviço do Estado, ficando sujeito, relativamente ao tempo de serviço em que não esteve inscrito, ao pagamento da quota legal, calculada sobre o vencimento que actualmente aufere e acrescida do juro a que se refere o artigo 12.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936. O débito apurado poderá ser pago, sem acréscimo de novos juros, em prestações mensais descontáveis em folha, no número máximo de 60.
+Art. 108.º Todo o pessoal do Laboratório Nacional de Engenharia Civil terá a sua inscrição na Caixa Geral de Aposentações reportada à data em que foi admitido ao serviço do Estado, ficando sujeito, relativamente ao tempo de serviço em que não esteve inscrito, ao pagamento da quota legal, calculada sobre o vencimento que actualmente aufere e acrescida do juro a que se refere o artigo 12.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936. O débito apurado poderá ser pago, sem acréscimo de novos juros, em prestações mensais descontáveis em folha, no número máximo de 60.
 
-###### Art. 109.º O Ministro das Obras Públicas fará publicar no Diário do Governo, dentro de 30 dias, contados da data do presente decreto-lei, a relação do pessoal do Laboratório Nacional de Engenharia Civil, com indicação dos lugares e situação em que fica provido nos termos do presente diploma.
+Art. 109.º O Ministro das Obras Públicas fará publicar no Diário do Governo, dentro de 30 dias, contados da data do presente decreto-lei, a relação do pessoal do Laboratório Nacional de Engenharia Civil, com indicação dos lugares e situação em que fica provido nos termos do presente diploma.
 
-###### Art. 110.º O novo quadro do pessoal entrará em vigor à medida que as dotações correspondentes aos respectivos vencimentos e demais remunerações forem inscritas no orçamento privativo do Laboratório Nacional de Engenharia Civil.
+Art. 110.º O novo quadro do pessoal entrará em vigor à medida que as dotações correspondentes aos respectivos vencimentos e demais remunerações forem inscritas no orçamento privativo do Laboratório Nacional de Engenharia Civil.
 
-###### Art. 111.º O saldo, à data da entrada em vigor do presente diploma, das receitas cobradas pelo Laboratório constitui receita a aplicar oportunamente pelo Laboratório.
+Art. 111.º O saldo, à data da entrada em vigor do presente diploma, das receitas cobradas pelo Laboratório constitui receita a aplicar oportunamente pelo Laboratório.
 
-###### Art. 112.º Considera-se incluída na alínea d) do artigo 9.º do presente diploma a doação da Fundação Calouste Gulbenkian, a que se refere o [Decreto-Lei n.º 42391](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42391-1959-431818), de 16 de Julho de 1959.
+Art. 112.º Considera-se incluída na alínea d) do artigo 9.º do presente diploma a doação da Fundação Calouste Gulbenkian, a que se refere o [Decreto-Lei n.º 42391](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42391-1959-431818), de 16 de Julho de 1959.
 
-###### Art. 113.º O subsídio a que se refere a alínea b) do artigo 9.º terá para o ano corrente um valor igual ao montante global dos saldos, à data da entrada em aplicação do presente diploma, das dotações consignadas ao Laboratório no orçamento da despesa Ordinária em vigor, com excepção da dotação do n.º 4) do artigo 108.º
+Art. 113.º O subsídio a que se refere a alínea b) do artigo 9.º terá para o ano corrente um valor igual ao montante global dos saldos, à data da entrada em aplicação do presente diploma, das dotações consignadas ao Laboratório no orçamento da despesa Ordinária em vigor, com excepção da dotação do n.º 4) do artigo 108.º
 
-###### Art. 114.º Os saldos, à data da entrada em aplicação do presente diploma, das dotações do n.º 4) do artigo 108.º, do artigo 117.º e do n.º 1) do artigo 138.º do orçamento do Ministério das Obras Públicas em vigor serão incluídos nas dotações a inscrever, ao abrigo, respectivamente, das alíneas a), c) e d) do artigo 9.º do presente diploma, no orçamento privativo do Laboratório a elaborar.
+Art. 114.º Os saldos, à data da entrada em aplicação do presente diploma, das dotações do n.º 4) do artigo 108.º, do artigo 117.º e do n.º 1) do artigo 138.º do orçamento do Ministério das Obras Públicas em vigor serão incluídos nas dotações a inscrever, ao abrigo, respectivamente, das alíneas a), c) e d) do artigo 9.º do presente diploma, no orçamento privativo do Laboratório a elaborar.
 
-###### Art. 115.º A aquisição dos terrenos destinados às instalações do Laboratório será paga mediante subsídios a conceder pelo Estado, ao abrigo da alínea c) do artigo 9.º do presente diploma.
+Art. 115.º A aquisição dos terrenos destinados às instalações do Laboratório será paga mediante subsídios a conceder pelo Estado, ao abrigo da alínea c) do artigo 9.º do presente diploma.
 
 VIII) Disposições finais
 
-###### Art. 116.º Consideram-se revogadas as disposições estabelecidas nos Decretos-Leis n.º 35957, de 19 de Novembro de 1946, n.º 36652, de 6 de Dezembro de 1947, n.º 37204, de 4 de Dezembro de 1948, n.º 38069, de 24 de Novembro de 1950, n.º 38227, de 18 de Abril de 1951, n.º 38501, de 10 de Novembro de 1951, n.º 38723, de 15 de Abril de 1952, n.º 38858, de 11 de Agosto de 1952, n.º 39402, de 26 de Outubro de 1953, e n.º 39711, de 29 de Junho de 1954, e nos Decretos n.º 40084, de 11 de Março de 1955, n.º 40952, de 28 de Dezembro de 1956, e n.º 41032, de 18 de Março de 1957.
+Art. 116.º Consideram-se revogadas as disposições estabelecidas nos Decretos-Leis n.º 35957, de 19 de Novembro de 1946, n.º 36652, de 6 de Dezembro de 1947, n.º 37204, de 4 de Dezembro de 1948, n.º 38069, de 24 de Novembro de 1950, n.º 38227, de 18 de Abril de 1951, n.º 38501, de 10 de Novembro de 1951, n.º 38723, de 15 de Abril de 1952, n.º 38858, de 11 de Agosto de 1952, n.º 39402, de 26 de Outubro de 1953, e n.º 39711, de 29 de Junho de 1954, e nos Decretos n.º 40084, de 11 de Março de 1955, n.º 40952, de 28 de Dezembro de 1956, e n.º 41032, de 18 de Março de 1957.
 
-###### Art. 117.º O presente diploma entra em vigor em 1 de Agosto do ano corrente.
+Art. 117.º O presente diploma entra em vigor em 1 de Agosto do ano corrente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Quadro do pessoal do Laboratório Nacional de Engenharia Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/07/17300/09200929.pdf))](https://files.diariodarepublica.pt/1s/1961/07/17300/09200929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/17300/09200929.pdf)
 
 Ministério das Obras Públicas, 27 de Julho de 1961. O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

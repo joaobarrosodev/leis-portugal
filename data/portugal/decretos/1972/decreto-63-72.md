@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/63-1972-399023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcff3bcf0591aeac454464f1a957c654fc567ad0d297aceff5bf770d7dae16cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9ac77559763ed7ad7b76ade929f36cc7bfc3114e2eb1ed730829dc27d01efe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Material Médico-Cirúrgico
+- Medicamento
 relationships:
 - type: amended_by
   target: pt:dre:182632:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252232:por
+  label: Substituída a tabela n.º 3 da farmácia de bordo, pela tabela n.º 5 para um determinado tipo de embarcações e por
+    mais um período de três anos, do presente diploma, pelo(a) Portaria n.º 261/77 - Diário da República n.º 110/1977, Série
+    I de 1977-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-1977-252232
+  date: '1977-05-12'
+- type: amended_by
+  target: pt:dre:459063:por
+  label: "Substuído o medicamento Codeínona constante da tabela n.º 5 pela PORT.1025/80.14.11.1980.MTC, DR.IS [278] de 02.12.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1025-1980-459063
+  date: '1980-11-14'
+- type: amended_by
+  target: pt:dre:182632:por
+  label: "Aditados à tabela n.º 6, substituídai a tabela n.º5 e dada nova redacção ao n.º 5 das instruções anexas pelo DEC.22/85.11.07.1985.MM,\
+    \ DR.IS [157] de 11.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/22-1985-182632
+  date: '1985-07-11'
+- type: cites
+  target: pt:dre:180788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184683:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:07Z'
   warnings: []
   errors: []
 ---
@@ -93,37 +123,37 @@ Considerando a necessidade de actualizar as disposições relativas a medicament
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os medicamentos, instrumentos e utensílios médicos e outro material da mesma natureza que devem existir nas embarcações nacionais são designados, genèricamente, de acordo com a sua importância, por farmácia de bordo ou por ambulância de bordo.
+Artigo 1.º Os medicamentos, instrumentos e utensílios médicos e outro material da mesma natureza que devem existir nas embarcações nacionais são designados, genèricamente, de acordo com a sua importância, por farmácia de bordo ou por ambulância de bordo.
 
-###### Art. 2.º - 1. A constituição das farmácias e das ambulâncias de bordo é a indicada nas tabelas anexas a este diploma.
+Art. 2.º - 1. A constituição das farmácias e das ambulâncias de bordo é a indicada nas tabelas anexas a este diploma.
 
 2. Nas embarcações de passageiros, especialmente quando se destinam ao tráfego de emigrantes, poderão ser exigidos artigos diferentes dos especificados nas referidas tabelas, ou quantidades superiores, se o estado sanitário dos portos de embarque, sobretudo quando aí existam doenças endémicas, assim o aconselhar.
 
 3. Quando o serviço de saúde de bordo for chefiado por um médico, compete ao armador, ouvido o referido médico, determinar a constituição da farmácia de bordo, sem prejuízo dos mínimos que figuram nas tabelas.
 
-###### Art. 3.º O material das farmácias e ambulâncias de bordo está sujeito à fiscalização das repartições marítimas, devendo ser vistoriado para efeitos de passagem dos certificados de navegabilidade ou de segurança para os navios da Convenção.
+Art. 3.º O material das farmácias e ambulâncias de bordo está sujeito à fiscalização das repartições marítimas, devendo ser vistoriado para efeitos de passagem dos certificados de navegabilidade ou de segurança para os navios da Convenção.
 
-###### Art. 4.º O Ministro da Marinha, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo, pode, por portaria, alterar as tabelas e instruções anexas a este decreto.
+Art. 4.º O Ministro da Marinha, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo, pode, por portaria, alterar as tabelas e instruções anexas a este decreto.
 
-###### Art. 5.º As disposições deste diploma não são aplicáveis aos navios da Armada e às embarcações da marinha de recreio.
+Art. 5.º As disposições deste diploma não são aplicáveis aos navios da Armada e às embarcações da marinha de recreio.
 
-###### Art. 6.º Ficam revogados o [Decreto n.º 43904](https://diariodarepublica.pt/dr/detalhe/decreto/43904-1961-180788), de 11 de Setembro de 1961, e a [Portaria n.º 18886](https://diariodarepublica.pt/dr/detalhe/portaria/18886-1961-184683), de 16 de Dezembro de 1961.
+Art. 6.º Ficam revogados o [Decreto n.º 43904](https://diariodarepublica.pt/dr/detalhe/decreto/43904-1961-180788), de 11 de Setembro de 1961, e a [Portaria n.º 18886](https://diariodarepublica.pt/dr/detalhe/portaria/18886-1961-184683), de 16 de Dezembro de 1961.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 8 de Fevereiro de 1972.**
+Promulgado em 8 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
-
-Farmácia de bordo
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf))](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf)
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Farmácia de bordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf))](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf)
+
+Farmácia de bordo
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf)
 
 Ambulância de bordo
 
@@ -147,7 +177,7 @@ Material médico geral:
 
 Tabela n.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf))](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/02/04700/02110222.pdf)
 
 Instruções
 
@@ -169,4 +199,4 @@ Instruções
 
 9. Sempre que uma embarcação seja autorizada a fazer uma viagem de duração inferior a catorze dias entre portos de reabastecimento fora da zona para que está registada, deverá obedecer à tabela que corresponde à máxima zona de navegação a que a viagem se estende.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

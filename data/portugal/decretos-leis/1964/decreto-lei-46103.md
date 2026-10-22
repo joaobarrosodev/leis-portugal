@@ -49,36 +49,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46103-1964-553912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dedb86da4b489568699f3f22e85bfce703a4758eac41c13e1742ef0006e9bec4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef2d336ef24a55036684d62468404d754b5c28bf081ea7dc623f7de21b178ee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentação
+- Definição de Competências
+- GNR
+- Guarda Fiscal
+- Incapacidade Física
+- Invalidez
+- Junta Superior de Saúde
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:196258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597099:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:27Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +125,19 @@ Por outro lado, é de toda a conveniência e justiça rever a legislação regul
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aplicáveis aos oficiais do Exército do quadro permanente e aos milicianos a que se referem o [Decreto-Lei n.º 40822](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40822-1956-298010), de 24 de Outubro de 1956, e o [Decreto n.º 45925](https://diariodarepublica.pt/dr/detalhe/decreto/45925-1964-537650), de 16 de Setembro de 1964, prestando serviço na Guarda Nacional Republicana, na Guarda Fiscal e na Polícia de Segurança Pública, bem como aos sargentos, cabos e soldados das mesmas Guardas e aos agentes da Polícia de Segurança Pública de todas as categorias, que fiquem mutilados ou incapacitados em consequência de ferimentos ou acidentes produzidos em serviço de manutenção da ordem pública ou em serviço com a mesma relacionado directamente, as disposições do [Decreto-Lei n.º 44995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258), de 24 de Abril de 1963.
+Artigo 1.º São aplicáveis aos oficiais do Exército do quadro permanente e aos milicianos a que se referem o [Decreto-Lei n.º 40822](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40822-1956-298010), de 24 de Outubro de 1956, e o [Decreto n.º 45925](https://diariodarepublica.pt/dr/detalhe/decreto/45925-1964-537650), de 16 de Setembro de 1964, prestando serviço na Guarda Nacional Republicana, na Guarda Fiscal e na Polícia de Segurança Pública, bem como aos sargentos, cabos e soldados das mesmas Guardas e aos agentes da Polícia de Segurança Pública de todas as categorias, que fiquem mutilados ou incapacitados em consequência de ferimentos ou acidentes produzidos em serviço de manutenção da ordem pública ou em serviço com a mesma relacionado directamente, as disposições do [Decreto-Lei n.º 44995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258), de 24 de Abril de 1963.
 
 § 1.º O pessoal que, por força do disposto no § 2.º do artigo 2.º do mesmo diploma, vier a ser colocado na situação de adido, abrirá vaga no quadro e será abonado dos seus vencimentos por conta das sobras que se verificarem na respectiva dotação orçamental ou por rubrica especial a criar para satisfação daqueles encargos.
 
 § 2.º A apreciação da capacidade física do pessoal mutilado ou incapacitado, para o efeito de continuar no serviço activo, competirá, respectivamente, à Junta Superior de Saúde da Guarda Nacional Republicana, à Junta Superior de Saúde da Guarda Fiscal e à Junta Superior de Saúde da Polícia de Segurança Pública.
 
-###### Art. 2.º É tornado extensivo ao pessoal da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública o regime do artigo 1.º e seus parágrafos, do artigo 3.º e seu § 2.º, do artigo 4.º e seus §§ 1.º e 2.º, do artigo 5.º e seu § único e do artigo 9.º e seus parágrafos do [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964.
+Art. 2.º É tornado extensivo ao pessoal da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública o regime do artigo 1.º e seus parágrafos, do artigo 3.º e seu § 2.º, do artigo 4.º e seus §§ 1.º e 2.º, do artigo 5.º e seu § único e do artigo 9.º e seus parágrafos do [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964.
 
-###### Art. 3.º Ficam revogadas as alíneas c) e d) e o § 1.º do artigo 2.º do [Decreto n.º 21890](https://diariodarepublica.pt/dr/detalhe/decreto/21890-1932-597099), de 22 de Novembro de 1932.
+Art. 3.º Ficam revogadas as alíneas c) e d) e o § 1.º do artigo 2.º do [Decreto n.º 21890](https://diariodarepublica.pt/dr/detalhe/decreto/21890-1932-597099), de 22 de Novembro de 1932.
 
-###### Art. 4.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidas por portaria dos Ministros do Interior e das Finanças.
+Art. 4.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidas por portaria dos Ministros do Interior e das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

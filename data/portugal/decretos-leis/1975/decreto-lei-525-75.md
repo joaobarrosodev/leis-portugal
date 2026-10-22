@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/22200/14841485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1975-312048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80636dbe3913c204039ec04c5899d9fe9c044c3b8bc409add5aabeb41eebc2fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd7f8a7788a7dffb8968f7932461d2e4260620cc2bb4f09b5bbaf7c8fac23c24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Militar
+- Pessoal Civil
+- Quadro de Pessoal
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:342473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605805:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181630:por
+  label: "Revogado o artigo 2.º do presente diploma pelo Dec Lei.550-E/76.12.07.1976.CR, DR.IS [161-Supl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-e-1976-181630
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:59Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +120,7 @@ Considerando, ainda, que a aplicação dos conceitos atrás expressos determina 
 
 Usando da faculdade conferida pelo artigo 6.º, n.º 1, da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O segundo parágrafo do preâmbulo e os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 296/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1972-605805), de 14 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º O segundo parágrafo do preâmbulo e os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 296/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1972-605805), de 14 de Agosto, passam a ter a seguinte redacção:
 
 ...
 
@@ -104,7 +128,7 @@ Sendo ainda a todos os títulos aconselhável oficializar a constituição, como
 
 ...
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. A Direcção compreende:
 
@@ -136,7 +160,7 @@ b) Centro de Medicina Aeronáutica, localizado em Lisboa, para selecção e revi
 
 6. O Serviço de Saúde da Força Aérea pode recorrer aos órgãos de tratamento hospitalar do Exército e da Armada ou a organismos civis especializados sempre que necessário.
 
-###### Art. 3.º - 1. O director do Serviço de Saúde superintende:
+Art. 3.º - 1. O director do Serviço de Saúde superintende:
 
 a) Nos elementos da própria direcção;
 
@@ -144,7 +168,7 @@ b) Nos respectivos órgãos de execução referidos nos n.os 3 e 5 do artigo 2.�
 
 2. ...
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) Pela disciplina dos elementos da própria Direcção;
 
@@ -152,7 +176,7 @@ b) ...
 
 c) ...
 
-###### Art. 2.º - 1. O n.º III) do mapa n.º 1 e o n.º 1) do mapa n.º 3 que constituem o anexo do [Decreto-Lei n.º 296/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1972-605805), de 14 de Agosto, passam a ter a seguinte redacção:
+Art. 2.º - 1. O n.º III) do mapa n.º 1 e o n.º 1) do mapa n.º 3 que constituem o anexo do [Decreto-Lei n.º 296/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1972-605805), de 14 de Agosto, passam a ter a seguinte redacção:
 
 MAPA N.º 1
 
@@ -284,8 +308,8 @@ De 2.ª classe (letra Y) ... 35
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 18 de Setembro de 1975.**
+Promulgado em 18 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16600/15721574.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/563-1976-430596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed87ec8394f1ad34c65a326cdb1e9b10dee5d399deff5c1107f7f4e83f93d287
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63c5c0e8c75e0d38bbd3743c594a936bf7656420c9eefe840cd5f867f9f7b0fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Património
+- Integração de Trabalhadores
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472130:por
+  label: "Substituído, para vigorar até à entrada em vigor do diploma regulamentar da nova lei orgânica da Direcção-Geral\
+    \ do Património, o quadro de pessoal a que se refere o presente diploma, pela PORT.435/80.25.07.1980.PCM, DR.IS [170]\
+    \ de 25.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/435-1980-472130
+  date: '1980-07-25'
+- type: cites
+  target: pt:dre:138836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:05Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +148,9 @@ Com efeito, só poderá promover-se a publicação do regime orgânico definitiv
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São cometidas à Direcção-Geral do Património as funções que, à data de entrada em vigor do presente diploma, se encontravam legalmente atribuídas à Direcção-Geral da Fazenda Pública, por intermédio da Repartição do Património.
+Artigo 1.º São cometidas à Direcção-Geral do Património as funções que, à data de entrada em vigor do presente diploma, se encontravam legalmente atribuídas à Direcção-Geral da Fazenda Pública, por intermédio da Repartição do Património.
 
-###### Art. 2.º Passa a competir à Direcção-Geral do Património, para além do exercício das funções a que se refere o artigo precedente:
+Art. 2.º Passa a competir à Direcção-Geral do Património, para além do exercício das funções a que se refere o artigo precedente:
 
 a) Intervir na execução e no contrôle da administração patrimonial do sector público, nos termos que vierem a ser definidos;
 
@@ -119,15 +160,15 @@ c) Proceder aos estudos necessários à formulação de um plano racional de ins
 
 d) Proceder aos estudos necessários à gestão integrada do património do Estado, em estreita colaboração com os restantes departamentos governamentais e respeitando a sua competência própria.
 
-###### Art. 3.º A Direcção-Geral do Património poderá solicitar aos serviços e organismos do Estado, e a quaisquer outras entidades públicas ou privadas, as informações de que carecer para o exercício das suas atribuições.
+Art. 3.º A Direcção-Geral do Património poderá solicitar aos serviços e organismos do Estado, e a quaisquer outras entidades públicas ou privadas, as informações de que carecer para o exercício das suas atribuições.
 
-###### Art. 4.º - 1. Os quadros dirigente e técnico dos serviços centrais e os quadros administrativo e auxiliar, incluindo o pessoal adstrito aos serviços especiais, é o constante do mapa anexo ao presente diploma.
+Art. 4.º - 1. Os quadros dirigente e técnico dos serviços centrais e os quadros administrativo e auxiliar, incluindo o pessoal adstrito aos serviços especiais, é o constante do mapa anexo ao presente diploma.
 
 2. Os quadros técnicos e de assalariados dos serviços especiais mantêm-se na sua composição actual.
 
 3. Aos secretários do Património de 3.ª classe será aplicado o disposto no n.º 8 do artigo 3.º do [Decreto-Lei n.º 576/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1974-471504), de 5 de Novembro, com base na equiparação prevista no artigo 10.º do [Decreto-Lei n.º 414/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1970-138836), de 27 de Agosto.
 
-###### Art. 5.º Além do pessoal a que se refere o artigo anterior, o director-geral do Património poderá, mediante autorização do Secretário de Estado das Finanças:
+Art. 5.º Além do pessoal a que se refere o artigo anterior, o director-geral do Património poderá, mediante autorização do Secretário de Estado das Finanças:
 
 a) Requisitar pessoal, nos termos legais;
 
@@ -135,7 +176,7 @@ b) Contratar pessoal além do quadro, em regime de prestação de serviços a te
 
 c) Celebrar contratos para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários para o desempenho das atribuições da Direcção-Geral do Património.
 
-###### Art. 6.º - 1. Os funcionários que, à data da publicação do presente diploma, prestam serviço na Repartição do Património integram-se automaticamente no quadro da Direcção-Geral do Património, salvo se manifestarem, no prazo de quinze dias, a contar da data da publicação deste diploma, vontade de se integrarem nos quadros da Direcção-Geral do Tesouro e aí tiverem vaga.
+Art. 6.º - 1. Os funcionários que, à data da publicação do presente diploma, prestam serviço na Repartição do Património integram-se automaticamente no quadro da Direcção-Geral do Património, salvo se manifestarem, no prazo de quinze dias, a contar da data da publicação deste diploma, vontade de se integrarem nos quadros da Direcção-Geral do Tesouro e aí tiverem vaga.
 
 2. Por despacho conjunto dos Secretários de Estado das Finanças e do Tesouro e a requerimento dos interessados, a apresentar no prazo de quinze dias após a publicação deste diploma, as vagas que restarem nos quadros da Direcção-Geral do Património, a que se refere o n.º 1 do artigo 4.º, serão preenchidas com os restantes elementos pertencentes à extinta Direcção-Geral da Fazenda Pública.
 
@@ -149,13 +190,13 @@ c) Celebrar contratos para a realização de estudos, inquéritos ou outros trab
 
 7. Os funcionários dos quadros da extinta Direcção-Geral da Fazenda Pública que não estejam adstritos especificamente à Repartição do Património nem à do Tesouro e que não requeiram a sua colocação em qualquer das novas Direcções-Gerais em que se cindiu a Direcção-Geral da Fazenda Pública serão livremente colocados por despacho conjunto dos Secretários de Estado das Finanças e do Tesouro.
 
-###### Art. 7.º Se após a aplicação do disposto no artigo anterior houver vagas no quadro técnico do património e no quadro administrativo, os respectivos provimentos serão feitos, excepcionalmente, por antiguidade na categoria, de entre os funcionários dos quadros da extinta Direcção-Geral da Fazenda Pública da categoria imediatamente inferior, desde que possuam as habilitações literárias exigidas.
+Art. 7.º Se após a aplicação do disposto no artigo anterior houver vagas no quadro técnico do património e no quadro administrativo, os respectivos provimentos serão feitos, excepcionalmente, por antiguidade na categoria, de entre os funcionários dos quadros da extinta Direcção-Geral da Fazenda Pública da categoria imediatamente inferior, desde que possuam as habilitações literárias exigidas.
 
-###### Art. 8.º Até à publicação da lei orgânica da Direcção-Geral do Património, compete ao Secretário de Estado das Finanças regular por despacho o exercício das funções que por este diploma são cometidas à Direcção-Geral do Património.
+Art. 8.º Até à publicação da lei orgânica da Direcção-Geral do Património, compete ao Secretário de Estado das Finanças regular por despacho o exercício das funções que por este diploma são cometidas à Direcção-Geral do Património.
 
-###### Art. 9.º Até à publicação da lei orgânica da Direcção-Geral do Património, o provimento das vagas dos quadros que não forem preenchidos nos termos dos artigos 6.º e 7.º é feito nos termos da legislação aplicável à extinta Direcção-Geral da Fazenda Pública, ressalvadas as alterações introduzidas pelo presente diploma.
+Art. 9.º Até à publicação da lei orgânica da Direcção-Geral do Património, o provimento das vagas dos quadros que não forem preenchidos nos termos dos artigos 6.º e 7.º é feito nos termos da legislação aplicável à extinta Direcção-Geral da Fazenda Pública, ressalvadas as alterações introduzidas pelo presente diploma.
 
-###### Art. 10.º - 1. O director-geral do Património será nomeado em comissão de serviço pelo prazo renovável de três anos e, sendo já servidor do Estado, sem perda da antiguidade ou outros direitos adquiridos.
+Art. 10.º - 1. O director-geral do Património será nomeado em comissão de serviço pelo prazo renovável de três anos e, sendo já servidor do Estado, sem perda da antiguidade ou outros direitos adquiridos.
 
 2. O director-geral será assistido nas suas funções por um subdirector-geral, em quem poderá delegar as suas atribuições, sendo por ele substituído nas suas faltas e impedimentos.
 
@@ -163,7 +204,7 @@ c) Celebrar contratos para a realização de estudos, inquéritos ou outros trab
 
 4. O director-geral poderá escolher, de entre os funcionários da Direcção-Geral do Património, o seu secretário.
 
-###### Art. 11.º - 1. O recrutamento dos secretários do Património de 3.ª classe far-se-á por concurso de prestação de provas, a que serão admitidos:
+Art. 11.º - 1. O recrutamento dos secretários do Património de 3.ª classe far-se-á por concurso de prestação de provas, a que serão admitidos:
 
 a) Os auxiliares do Património e os escriturários-dactilógrafos do quadro da Direcção-Geral do Património com o curso geral dos liceus ou equivalente;
 
@@ -173,40 +214,40 @@ b) Funcionários da mesma categoria, desde que tenham mais de cinco anos de serv
 
 3. Na falta de candidatos com as condições previstas no número anterior, poderão concorrer os auxiliares do Património e os escriturários-dactilógrafos do quadro da Direcção-Geral do Património com a escolaridade obrigatória, segundo a idade.
 
-###### Art. 12.º São revogados o [Decreto-Lei n.º 529/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1975-312052), de 25 de Setembro, e os n.os 2 e 3 do artigo 12.º do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro.
+Art. 12.º São revogados o [Decreto-Lei n.º 529/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1975-312052), de 25 de Setembro, e os n.os 2 e 3 do artigo 12.º do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro.
 
-###### Art. 13.º O júri dos concursos de prestação de provas para ingresso ou promoção nos quadros técnico do Património e administrativo da Direcção-Geral do Património será constituído da seguinte forma:
+Art. 13.º O júri dos concursos de prestação de provas para ingresso ou promoção nos quadros técnico do Património e administrativo da Direcção-Geral do Património será constituído da seguinte forma:
 
 a) Pelo director-geral, que presidirá, por um director e por um subdirector do Património nos concursos para o quadro técnico do Património;
 
 b) Pelo director do Património e por dois subdirectores nos concursos para o quadro administrativo.
 
-###### Art. 14.º - 1. Os concursos realizados para o quadro da Direcção-Geral da Fazenda Pública, e cujo prazo de validade não tenha terminado, mantêm-se válidos em relação ao provimento das vagas que se vierem a verificar no quadro da Direcção-Geral do Património.
+Art. 14.º - 1. Os concursos realizados para o quadro da Direcção-Geral da Fazenda Pública, e cujo prazo de validade não tenha terminado, mantêm-se válidos em relação ao provimento das vagas que se vierem a verificar no quadro da Direcção-Geral do Património.
 
 2. A renúncia a provimento por parte dos candidatos aprovados só tem os efeitos previstos na lei em relação aos quadros da Direcção-Geral do Património.
 
-###### Art. 15.º É mantido em relação à Direcção-Geral do Património o disposto no artigo 3.º do [Decreto-Lei n.º 34/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1976-506047), de 7 de Janeiro.
+Art. 15.º É mantido em relação à Direcção-Geral do Património o disposto no artigo 3.º do [Decreto-Lei n.º 34/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1976-506047), de 7 de Janeiro.
 
-###### Art. 16.º Mantêm-se, em relação ao pessoal da Direcção-Geral do Património, os direitos e deveres estabelecidos nas disposições que eram aplicáveis ao pessoal da extinta Direcção-Geral da Fazenda Pública.
+Art. 16.º Mantêm-se, em relação ao pessoal da Direcção-Geral do Património, os direitos e deveres estabelecidos nas disposições que eram aplicáveis ao pessoal da extinta Direcção-Geral da Fazenda Pública.
 
-###### Art. 17.º Até à inscrição orçamental de dotações destinadas à Direcção-Geral do Património, as despesas a realizar serão pagas de conta das respectivas verbas inscritas no orçamento em vigor para a Direcção-Geral da Fazenda Pública.
+Art. 17.º Até à inscrição orçamental de dotações destinadas à Direcção-Geral do Património, as despesas a realizar serão pagas de conta das respectivas verbas inscritas no orçamento em vigor para a Direcção-Geral da Fazenda Pública.
 
-###### Art. 18.º As dúvidas que suscitar a interpretação do presente diploma serão resolvidas por despacho do Ministro das Finanças.
+Art. 18.º As dúvidas que suscitar a interpretação do presente diploma serão resolvidas por despacho do Ministro das Finanças.
 
-###### Art. 19.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 19.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 8 de Julho de 1976.**
+Promulgado em 8 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro da Direcção-Geral do Património
 
 Mapa a que se refere o n.º 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/16600/15721574.pdf))](https://files.diariodarepublica.pt/1s/1976/07/16600/15721574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/16600/15721574.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

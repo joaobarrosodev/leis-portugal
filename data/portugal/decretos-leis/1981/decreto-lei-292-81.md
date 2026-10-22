@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23700/27552758.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1981-561800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79f0a12d433c60b5480863e45d382dad2a785f0d27871c7b67d42b5644df7531
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60f9efa8225ca8ac0b28c224e0353c49b434ad732683f90abf9b4dcb4d458c55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA de Paisagem Protegida de Sintra Cascais
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283518:por
+  label: "Determinada, que a Área de Paisagem Protegida de Sintra-Cascais, criada no presente diploma, seja integrada no Instituto\
+    \ da Conservação da Natureza, cuja orgânica foi aprovada pelo Decreto-Lei.DEC LEI.193/93.24.05.1993.MARN, DR.IS-A [120]\
+    \ de 24.05.1993, nos termos do artigo 17.º, e que até à aprovação do respectivo regulamento, a referida área, seja regida\
+    \ pelo disposto no presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1993-283518
+  date: '1993-05-24'
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:12Z'
   warnings: []
   errors: []
 ---
@@ -154,11 +181,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Área de Paisagem Protegida de Sintra-Cascais, adiante designada por Área Protegida.
+Artigo 1.º É criada a Área de Paisagem Protegida de Sintra-Cascais, adiante designada por Área Protegida.
 
-###### Art. 2.º A criação da Área Protegida tem por objectivo a salvaguarda dos valores naturais, culturais e estéticos nela existentes.
+Art. 2.º A criação da Área Protegida tem por objectivo a salvaguarda dos valores naturais, culturais e estéticos nela existentes.
 
-###### Art. 3.º - 1 - A Área Protegida tem os seguintes limites:
+Art. 3.º - 1 - A Área Protegida tem os seguintes limites:
 
 Da foz do Falcão, coincidindo com o limite do concelho de Sintra, pelo litoral, até à Cidadela de Cascais; da Cidadela de Cascais até Guia, pela estrada nacional; de Guia à Quinta da Bicuda e desta a Areia, passando pelo hipódromo; de Areia à Charneca, passando por Cai Água e Caruma; da Charneca a Alcabideche, passando por Murches e Cabreiro; de Alcabideche até Sintra, passando por Linhó e Chão de Meninos; de Sintra ao Lourel e daqui à Várzea de Sintra, passando por Cabriz; da Várzea de Sintra ao Carrascal e deste, por caminho carreteiro, até junto do moinho da Pedra da Granja; da Pedra da Granja a este da Codiceira, por caminho carreteiro, e daqui à Amoreira, passando a oeste do marco geodésico de Odrinhas: da Amoreira a Assafora e desta, por caminho carreteiro, até à ribeira do Falcão, limite do concelho de Sintra, e por este limite até à foz do Falcão.
 
@@ -166,7 +193,7 @@ Da foz do Falcão, coincidindo com o limite do concelho de Sintra, pelo litoral,
 
 3 - As dúvidas eventualmente suscitadas pela leitura do mapa anexo ao presente diploma serão resolvidas pela consulta dos limites cartografados à escala 1:25000 em carta arquivada para o efeito no Serviço de Estudos do Ambiente.
 
-###### Art. 4.º Dentro da Área Protegida são definidas as seguintes zonas:
+Art. 4.º Dentro da Área Protegida são definidas as seguintes zonas:
 
 1 - Reserva natural parcial do litoral de Sintra-Cascais, adiante designada por reserva, tendo por limites, conforme vão demarcados na carta anexa ao presente diploma:
 
@@ -178,11 +205,11 @@ Da foz do Falcão, coincidindo com o limite do concelho de Sintra, pelo litoral,
 
 Da ribeira do Falcão, limite do concelho de Sintra, à ribeira da Mata, por caminhos carreteiros, e desta à ribeira da Samarra; da ribeira da Samarra até junto ao Fetal e daqui até ao caminho junto do Cabecinho dos Planos, atravessando a ribeira do Açougue; do Cabecinho dos Planos até ao Magoito, atravessando a ribeira do Samougueiro: do Magoito ao rio da Mata, que atravessa, e daqui até Fontanelas; de Fontanelas, por caminho carreteiro, até à estrada que liga Janas a Azenhas do Mar, atravessando a ribeira de Cameijo; da estrada referida até à ribeira de Janas, por caminho carreteiro, passando por Marinha de Janas: da ribeira de Janas ao Rodízio, passando pelo pinhal da Nazaré, e dali a Santo André, passando por Pego: de Santo André a Almoçageme e daqui até à Várzea de Colares, pela estrada nacional; da Várzea de Colares a Sintra; também pela estrada nacional, passando por Galamares; de Sintra ao Lourel e deste à Várzea de Sintra, passando por Cabriz; da Várzea de Sintra ao Carrascal e deste, por caminho carreteiro, até junto do moinho da Pedra da Granja; da Pedra da Granja a este da Codiceira, por caminho carreteiro, e daqui à Amoreira, passando a oeste do marco geodésico de Odrinhas; da Amoreira a Assafora e desta, por caminho carreteiro, até à ribeira do Falcão.
 
-###### Art. 5.º Dentro dos limites da Área Protegida proceder-se-á à definição, por decreto, de lugares, sítios, conjuntos e objectos classificados, de acordo com o disposto no [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho.
+Art. 5.º Dentro dos limites da Área Protegida proceder-se-á à definição, por decreto, de lugares, sítios, conjuntos e objectos classificados, de acordo com o disposto no [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho.
 
-###### Art. 6.º A reserva, a área florestal e a área agrícola disporão de órgãos próprios, a definir em regulamento, de acordo com o disposto no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
+Art. 6.º A reserva, a área florestal e a área agrícola disporão de órgãos próprios, a definir em regulamento, de acordo com o disposto no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
 
-###### Art. 7.º Para a realização do objectivo definido no artigo 2.º, para além de se manter a necessidade de obtenção de todas as autorizações definitivas e prévias já hoje exigidas, estabelecem-se na Área Protegida mais os seguintes condicionalismos:
+Art. 7.º Para a realização do objectivo definido no artigo 2.º, para além de se manter a necessidade de obtenção de todas as autorizações definitivas e prévias já hoje exigidas, estabelecem-se na Área Protegida mais os seguintes condicionalismos:
 
 1 - Na reserva ficam sujeitos a autorização prévia do Ministro da Qualidade de Vida:
 
@@ -232,30 +259,30 @@ h) Derrube de árvores em maciço ou isoladamente;
 
 i) Destruição da compartimentação viva ou morta da paisagem ou sua substituição por soluções não tradicionais.
 
-###### Art. 8.º - 1 - As violações dos condicionalismos impostos pelo artigo anterior são puníveis com multa até 2000000$00, em termos a fixar em regulamento.
+Art. 8.º - 1 - As violações dos condicionalismos impostos pelo artigo anterior são puníveis com multa até 2000000$00, em termos a fixar em regulamento.
 
 2 - A aplicação da multa prevista no número anterior não elide a obrigação do infractor de demolição das obras ou trabalhos efectuados, quando não sejam autorizados.
 
-###### Art. 9.º - 1 - Os planos de ordenamento da reserva da área florestal e da área agrícola constarão de regulamento, que definirá os termos em que poderão ser concedidas as autorizações previstas no artigo 7.º
+Art. 9.º - 1 - Os planos de ordenamento da reserva da área florestal e da área agrícola constarão de regulamento, que definirá os termos em que poderão ser concedidas as autorizações previstas no artigo 7.º
 
 2 - O Ministro da Qualidade de Vida poderá delegar, nos órgãos referidos no artigo 6.º e em termos a fixar por regulamento, a competência para conceder as autorizações a que se refere a parte final do número anterior.
 
-###### Art. 10.º Não carecem das autorizações a que se refere o artigo 7.º as obras a executar dentro dos actuais limites das povoações incluídas na Área Protegida desde que respeitem o ordenamento referido no artigo 9.º, bem como as classificações operadas nos termos do artigo 5.
+Art. 10.º Não carecem das autorizações a que se refere o artigo 7.º as obras a executar dentro dos actuais limites das povoações incluídas na Área Protegida desde que respeitem o ordenamento referido no artigo 9.º, bem como as classificações operadas nos termos do artigo 5.
 
-###### Art. 11.º O disposto no presente diploma não é aplicável às áreas de servidão militar dentro dos limites da Área Protegida, as quais continuam sujeitas à regulamentação própria.
+Art. 11.º O disposto no presente diploma não é aplicável às áreas de servidão militar dentro dos limites da Área Protegida, as quais continuam sujeitas à regulamentação própria.
 
-###### Art. 12.º Os regulamentos necessários à execução do presente diploma serão aprovados por portaria assinada pelo Ministro da Qualidade de Vida, após audição dos departamentos ministeriais interessados.
+Art. 12.º Os regulamentos necessários à execução do presente diploma serão aprovados por portaria assinada pelo Ministro da Qualidade de Vida, após audição dos departamentos ministeriais interessados.
 
-###### Art. 13.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Qualidade de Vida.
+Art. 13.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Qualidade de Vida.
 
-###### Art. 14.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 14.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Setembro de 1981.**
+Promulgado em 25 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/23700/27552758.pdf))](https://files.diariodarepublica.pt/1s/1981/10/23700/27552758.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/23700/27552758.pdf)

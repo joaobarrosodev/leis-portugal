@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23100/31303135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1980-462205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 388f4df03c30d670eca5126391af352949928e0f1a58758877e1e709521aa07f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e78870282ab2abfc3159aa17db886f876b848a4ca24679f9b07420dc5964e8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério das Finanças e do Plano
+- Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:233928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:630412:por
+  label: "Reristinados a al. d) do nº 1 do art. 3º e o art. 9º pelo DEC LEI.467/83.1983.12.31.PCM, DR.IS [301]9ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/467-1983-630412
+  date: '1983-12-31'
+- type: amended_by
+  target: pt:dre:399666:por
+  label: "Aumentados lugares ao quadro de pessoal aprovado pelo presente diploma, pela PORT.756/84.26.09.1984.PCM, DR.IS [224]\
+    \ de 26.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-1984-399666
+  date: '1984-09-26'
+- type: amended_by
+  target: pt:dre:195183:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério das Finanças constante do presente diploma, alterado\
+    \ pelas Port 1076/81 de 19-Dez e 756/84 de 26-Set, pela PORT.152/86.19.04.1986.MF, DR.IS [91] de 19.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-1986-195183
+  date: '1986-04-19'
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548812:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:457642:por
+  label: Rectificado pela DECL.DD6858.29.10.1980.PCM, DR.IS [251] de 29.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-457642
+  date: '1980-10-29'
+- type: repealed_by
+  target: pt:dre:451826:por
+  label: "Revogados a al. d) do nº 1 do art. 3º e art. 9º, pelo DEC LEI.219/83.1983.05.26.MFP, DR.IS [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1983-451826
+  date: '1983-05-26'
+- type: repealed_by
+  target: pt:dre:233928:por
+  label: "Revogado pelo DEC LEI.353/98.1998.11.12.MF, DR.IS-A [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-1998-233928
+  date: '1998-11-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:52Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +153,9 @@ O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constit
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A organização e a competência da Secretaria-Geral criada pelo [Decreto-Lei n.º 46365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46365-1965-294358), de 2 de Junho de 1965, e adiante abreviadamente designada por Secretaria-Geral, passam a reger-se pelo disposto no presente diploma.
+Artigo 1.º A organização e a competência da Secretaria-Geral criada pelo [Decreto-Lei n.º 46365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46365-1965-294358), de 2 de Junho de 1965, e adiante abreviadamente designada por Secretaria-Geral, passam a reger-se pelo disposto no presente diploma.
 
-###### Art. 2.º A Secretaria-Geral é um órgão de apoio técnico administrativo, ao qual incumbe, designadamente:
+Art. 2.º A Secretaria-Geral é um órgão de apoio técnico administrativo, ao qual incumbe, designadamente:
 
 a) Assegurar o expediente e contabilidade dos Gabinetes do Ministro e dos Secretários de Estado e dos vários serviços da Secretaria-Geral;
 
@@ -130,7 +181,7 @@ l) Desempenhar outras funções de natureza administrativa de que seja superiorm
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º - 1 - A Secretaria-Geral compreende os seguintes serviços:
+Art. 3.º - 1 - A Secretaria-Geral compreende os seguintes serviços:
 
 a) Direcção dos Serviços Administrativos;
 
@@ -158,13 +209,13 @@ a) Contabilidade;
 
 b) Economato e Reprografia.
 
-###### Art. 4.º - 1 - Ao secretário-geral compete coordenar e orientar os serviços, submeter a despacho os assuntos que careçam de resolução superior, proceder à distribuição do pessoal e exercer as funções de representação oficial do Ministério.
+Art. 4.º - 1 - Ao secretário-geral compete coordenar e orientar os serviços, submeter a despacho os assuntos que careçam de resolução superior, proceder à distribuição do pessoal e exercer as funções de representação oficial do Ministério.
 
 2 - O secretário-geral é coadjuvado no exercício das suas funções por um adjunto, que o substituirá nas suas faltas ou impedimentos.
 
 3 - O adjunto do secretário-geral é, para todos os efeitos legais, expressamente equiparado a subdirector-geral.
 
-###### Art. 5.º À Divisão de Documentação e Informação compete:
+Art. 5.º À Divisão de Documentação e Informação compete:
 
 a) Organizar o Centro de Documentação e Informação, a que se refere a alínea f) do artigo 2.º;
 
@@ -174,7 +225,7 @@ c) Assegurar a organização e funcionamento dos arquivos dos Gabinetes do Minis
 
 d) Assegurar a ligação com os serviços congéneres dos diversos Ministérios, por forma a cumprir os objectivos que se propõe com a maior economia de meios.
 
-###### Art. 6.º - 1 - À Divisão de Organização e Pessoal compete:
+Art. 6.º - 1 - À Divisão de Organização e Pessoal compete:
 
 a) Promover, em colaboração com os departamentos e serviços competentes, o estudo e difusão de normas tendentes ao melhor aproveitamento e gestão do pessoal dos diversos serviços do Ministério;
 
@@ -194,7 +245,7 @@ h) Programar e promover a adequada instalação, nos edifícios destinados ao Mi
 
 2 - A Divisão de Organização e Pessoal actuará em articulação e íntima colaboração com os órgãos centrais da organização administrativa e da função pública, bem ainda com os departamentos análogos dos restantes serviços do Ministério.
 
-###### Art. 7.º - 1 - À Repartição Administrativa compete, especialmente:
+Art. 7.º - 1 - À Repartição Administrativa compete, especialmente:
 
 a) Assegurar os procedimentos administrativos relacionados com a administração de pessoal dos Gabinetes do Ministro e dos Secretários de Estado e da Secretaria-Geral;
 
@@ -220,7 +271,7 @@ j) Quaisquer outras funções que lhe forem superiormente determinadas.
 
 3 - Competem, especialmente, à Secção do Património as funções a que se referem as alíneas g), h) e i) do n.º 1 deste artigo.
 
-###### Art. 8.º - 1 - À Repartição de Contabilidade e Economato compete, especialmente:
+Art. 8.º - 1 - À Repartição de Contabilidade e Economato compete, especialmente:
 
 a) Asegurar a contabilidade dos Gabinetes do Ministro e dos Secretários de Estado;
 
@@ -240,7 +291,7 @@ g) Quaisquer outras funções que lhe forem superiormente determinadas.
 
 3 - Competem, particularmente, à Secção de Economato e Reprografia as funções referidas nas alíneas e) e f) do n.º 1 deste artigo.
 
-###### Art. 9.º - 1 - À Junta Médica do Ministério incumbe o exercício das atribuições a que se referem os artigos 19.º a 22.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931.
+Art. 9.º - 1 - À Junta Médica do Ministério incumbe o exercício das atribuições a que se referem os artigos 19.º a 22.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931.
 
 2 - A Junta Médica do Ministério é presidida pelo secretário-geral e compreende um quadro de dez médicos nomeados por livre escolha do Ministro das Finanças e do Plano, sob proposta do secretário-geral, os quais exercerão as suas funções de acordo com o disposto nos artigos 19.º a 23.º do referido [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), com as remunerações que lhes sejam fixadas por despacho ministerial.
 
@@ -250,13 +301,13 @@ g) Quaisquer outras funções que lhe forem superiormente determinadas.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 10.º - 1 - A Secretaria-Geral disporá do pessoal constante do quadro anexo ao presente diploma.
+Art. 10.º - 1 - A Secretaria-Geral disporá do pessoal constante do quadro anexo ao presente diploma.
 
 2 - O quadro referido no número anterior poderá ser alterado por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tenha a seu cargo a função pública.
 
 3 - O pessoal do quadro da Secretaria-Geral será distribuído pelos respectivos serviços, mediante despacho do secretário-geral.
 
-###### Art. 11.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 11.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -274,35 +325,35 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro da Secretaria-Geral em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 12.º - 1 - O cargo de secretário-geral será provido, nos termos da lei geral, de entre indivíduos de reconhecida competência habilitados com o grau de licenciatura adequada ao exercício das respectivas funções.
+Art. 12.º - 1 - O cargo de secretário-geral será provido, nos termos da lei geral, de entre indivíduos de reconhecida competência habilitados com o grau de licenciatura adequada ao exercício das respectivas funções.
 
 2 - O cargo de adjunto do secretário-geral será provido, nos termos da lei geral, por despacho do Ministro das Finanças e do Plano, sob proposta do secretário-geral, de entre indivíduos de reconhecida competência habilitados com o grau de licenciatura adequada ao exercício das respectivas funções.
 
-###### Art. 13.º Os cargos de directores de serviços e de chefes de divisão serão providos nos termos da lei geral.
+Art. 13.º Os cargos de directores de serviços e de chefes de divisão serão providos nos termos da lei geral.
 
-###### Art. 14.º Os cargos de chefes de repartição serão providos por despacho do Ministro das Finanças e do Plano, sob proposta do secretário-geral, de entre os chefes de secção com, pelo menos, três anos de bom e efectivo serviço nas respectivas categorias e comprovadas qualidades de chefia, ou de entre diplomados com curso superior adequado.
+Art. 14.º Os cargos de chefes de repartição serão providos por despacho do Ministro das Finanças e do Plano, sob proposta do secretário-geral, de entre os chefes de secção com, pelo menos, três anos de bom e efectivo serviço nas respectivas categorias e comprovadas qualidades de chefia, ou de entre diplomados com curso superior adequado.
 
-###### Art. 15.º Os lugares de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos, nos termos da lei geral, de entre licenciados com cursos adequados e de reconhecida competência.
+Art. 15.º Os lugares de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos, nos termos da lei geral, de entre licenciados com cursos adequados e de reconhecida competência.
 
-###### Art. 16.º - 1 - Os lugares de chefe de secção serão providos por despacho do Ministro das Finanças e do Plano, sob proposta do secretário-geral, de entre os primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nesta categoria, ou, na sua falta, de entre diplomados com curso superior adequado.
+Art. 16.º - 1 - Os lugares de chefe de secção serão providos por despacho do Ministro das Finanças e do Plano, sob proposta do secretário-geral, de entre os primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nesta categoria, ou, na sua falta, de entre diplomados com curso superior adequado.
 
 2 - Os lugares de primeiro-oficial e de segundo-oficial serão providos, mediante concurso de provas práticas ou aproveitamento em cursos de formação, de entre, respectivamente, os segundos-oficiais habilitados com o curso geral do ensino secundário ou equivalente e os terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nestas categorias.
 
 3 - Os lugares de terceiro-oficial serão providos nos termos da lei geral.
 
-###### Art. 17.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos, mediante prova de selecção, de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
+Art. 17.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos, mediante prova de selecção, de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 18.º O provimento nos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-á nos termos da lei geral.
+Art. 18.º O provimento nos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-á nos termos da lei geral.
 
-###### Art. 19.º - 1 - Os lugares de operador de reprografia de 1.ª classe e de 2.ª classe serão providos de entre os indivíduos de categoria imediatamente inferior, logo que completem três anos de bom e efectivo serviço na categoria.
+Art. 19.º - 1 - Os lugares de operador de reprografia de 1.ª classe e de 2.ª classe serão providos de entre os indivíduos de categoria imediatamente inferior, logo que completem três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de operador de reprografia de 3.ª classe serão providos, por despacho do Ministro das Finanças e do Plano, sob proposta do secretário-geral, de entre indivíduos tendo como habilitações mínimas a escolaridade obrigatória, com comprovada experiência no domínio da respectiva actividade.
 
-###### Art. 20.º O provimento do pessoal operário e auxiliar, incluindo o pessoal adstrito à central telefónica, será efectuado de acordo com a lei geral.
+Art. 20.º O provimento do pessoal operário e auxiliar, incluindo o pessoal adstrito à central telefónica, será efectuado de acordo com a lei geral.
 
-###### Art. 21.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro da Secretaria-Geral, poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam, obtido o parecer favorável dos dirigentes dos serviços.
+Art. 21.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro da Secretaria-Geral, poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam, obtido o parecer favorável dos dirigentes dos serviços.
 
 2 - O período de requisição, que será previamente fixado, não poderá exceder a duração de um ano.
 
@@ -310,21 +361,21 @@ b) No lugar do quadro da Secretaria-Geral em que vier a ser provido definitivame
 
 4 - Os lugares de que sejam titulares no quadro de origem os funcionários requisitados poderão ser providos interinamente enquanto se mantiver a requisição.
 
-###### Art. 22.º O secretário-geral, mediante autorização do Ministro das Finanças e do Plano, poderá contratar pessoal em regime de prestação eventual de serviço ou em regime de tarefa nos termos da lei geral.
+Art. 22.º O secretário-geral, mediante autorização do Ministro das Finanças e do Plano, poderá contratar pessoal em regime de prestação eventual de serviço ou em regime de tarefa nos termos da lei geral.
 
-###### Art. 23.º - 1 - Enquanto não se instituir para o conjunto dos serviços do Ministério das Finanças e do Plano qualquer outro sistema destinado ao mesmo fim, poderão funcionar na Secretaria-Geral, para valorização profissional e qualificação dos seus funcionários, cursos de formação e especialização, tendo em vista facilitar as promoções do pessoal técnico auxiliar e do pessoal administrativo.
+Art. 23.º - 1 - Enquanto não se instituir para o conjunto dos serviços do Ministério das Finanças e do Plano qualquer outro sistema destinado ao mesmo fim, poderão funcionar na Secretaria-Geral, para valorização profissional e qualificação dos seus funcionários, cursos de formação e especialização, tendo em vista facilitar as promoções do pessoal técnico auxiliar e do pessoal administrativo.
 
 2 - A inscrição e a frequência dos cursos relativos a cada uma das categorias do pessoal mencionado no número anterior são limitadas aos funcionários de categoria imediatamente inferior.
 
-###### Art. 24.º Poderão ainda organizar-se cursos de especialização ou de actualização destinados a quaisquer categorias de funcionários abrangidos ou não no n.º 1 do artigo anterior, quando tal se mostrar conveniente para a respectiva valorização profissional.
+Art. 24.º Poderão ainda organizar-se cursos de especialização ou de actualização destinados a quaisquer categorias de funcionários abrangidos ou não no n.º 1 do artigo anterior, quando tal se mostrar conveniente para a respectiva valorização profissional.
 
-###### Art. 25.º - 1 - Os programas, horários e demais condições dos cursos a que se referem os artigos anteriores, incluindo o regime do respectivo aproveitamento para efeitos de promoção, serão fixados por portaria do Ministro das Finanças e do Plano e do membro do Governo que tenha a seu cargo a função pública.
+Art. 25.º - 1 - Os programas, horários e demais condições dos cursos a que se referem os artigos anteriores, incluindo o regime do respectivo aproveitamento para efeitos de promoção, serão fixados por portaria do Ministro das Finanças e do Plano e do membro do Governo que tenha a seu cargo a função pública.
 
 2 - Os cursos serão ministrados, em princípio, por funcionários da Secretaria-Geral, podendo, porém, contratar-se, especialmente para o efeito, pessoas estranhas ao quadro, mediante remuneração a fixar por despacho do Ministro das Finanças e do Plano, sob proposta do secretário-geral.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 26.º - 1 - A transição do pessoal abrangido pelo presente diploma para os novos lugares do quadro a que se refere o n.º 1 do artigo 10.º far-se-á, de entre o pessoal que, a qualquer título, preste serviço na Secretaria-Geral, por diploma individual de provimento ou mediante lista nominativa aprovada por despacho do Ministro das Finanças e do Plano, visados ou anotados pelo Tribunal de Contas, consoante se verifique ou não mudança de situação jurídico-funcional e publicados no Diário da República, de acordo com as regras seguintes:
+Art. 26.º - 1 - A transição do pessoal abrangido pelo presente diploma para os novos lugares do quadro a que se refere o n.º 1 do artigo 10.º far-se-á, de entre o pessoal que, a qualquer título, preste serviço na Secretaria-Geral, por diploma individual de provimento ou mediante lista nominativa aprovada por despacho do Ministro das Finanças e do Plano, visados ou anotados pelo Tribunal de Contas, consoante se verifique ou não mudança de situação jurídico-funcional e publicados no Diário da República, de acordo com as regras seguintes:
 
 a) Para categoria idêntica à que o funcionário possui;
 
@@ -338,38 +389,38 @@ d) Para categoria correspondente às funções que o funcionário ou agente dese
 
 3 - O provimento será feito a título definitivo sempre que à data da publicação do presente diploma o funcionário já tenha um ano de serviço na actual categoria.
 
-###### Art. 27.º O funcionário que vem exercendo as funções previstas no artigo 12.º do [Decreto-Lei n.º 46365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46365-1965-294358), de 2 de Junho de 1965, será provido na categoria de encarregado da segurança e das instalações do edifício sede do Ministério das Finanças e do Plano.
+Art. 27.º O funcionário que vem exercendo as funções previstas no artigo 12.º do [Decreto-Lei n.º 46365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46365-1965-294358), de 2 de Junho de 1965, será provido na categoria de encarregado da segurança e das instalações do edifício sede do Ministério das Finanças e do Plano.
 
-###### Art. 28.º O pessoal auxiliar afecto ao Gabinete do Ministro das Finanças e do Plano, nomeado nos termos do artigo 59.º do regulamento aprovado pelo [Decreto-Lei n.º 31317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31317-1941-329619), de 13 de Junho de 1941, e do artigo 3.º do [Decreto-Lei n.º 33651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33651-1944-548812), de 19 de Maio de 1944, transita, sem prejuízo de todos os direitos e regalias adquiridos na prestação de serviço ao Estado, para o quadro do pessoal da Secretaria-Geral, nos termos do artigo 26.º
+Art. 28.º O pessoal auxiliar afecto ao Gabinete do Ministro das Finanças e do Plano, nomeado nos termos do artigo 59.º do regulamento aprovado pelo [Decreto-Lei n.º 31317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31317-1941-329619), de 13 de Junho de 1941, e do artigo 3.º do [Decreto-Lei n.º 33651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33651-1944-548812), de 19 de Maio de 1944, transita, sem prejuízo de todos os direitos e regalias adquiridos na prestação de serviço ao Estado, para o quadro do pessoal da Secretaria-Geral, nos termos do artigo 26.º
 
-###### Art. 29.º Os funcionários oriundos das extintas corporações que têm vindo a desempenhar as funções equivalentes a operadores de reprografia junto do Gabinete do Ministro das Finanças e do Plano, atentas as funções efectivamente desempenhadas e o tempo de exercício dessas mesmas funções, transitam para o quadro de pessoal da Secretaria-Geral com a categoria de operador de reprografia de 1.ª classe.
+Art. 29.º Os funcionários oriundos das extintas corporações que têm vindo a desempenhar as funções equivalentes a operadores de reprografia junto do Gabinete do Ministro das Finanças e do Plano, atentas as funções efectivamente desempenhadas e o tempo de exercício dessas mesmas funções, transitam para o quadro de pessoal da Secretaria-Geral com a categoria de operador de reprografia de 1.ª classe.
 
-###### Art. 30.º O pessoal dos Correios e Telecomunicações de Portugal, E. P., a prestar serviço no Ministério das Finanças e do Plano como telefonista, poderá optar pelo ingresso no quadro da Secretaria-Geral, sendo-lhe contado:
+Art. 30.º O pessoal dos Correios e Telecomunicações de Portugal, E. P., a prestar serviço no Ministério das Finanças e do Plano como telefonista, poderá optar pelo ingresso no quadro da Secretaria-Geral, sendo-lhe contado:
 
 a) Todo o tempo de serviço prestado no quadro de origem para efeito de aposentação e diuturnidades, desde que efectuados os respectivos descontos para a Caixa Geral de Aposentações;
 
 b) Todo o tempo de serviço prestado nos Correios, Telégrafos e Telefones, enquanto organismo do Estado, e o prestado no Ministério das Finanças e do Plano.
 
-###### Art. 31.º - 1 - Enquanto não for estabelecido o sistema geral de remunerações para o pessoal do Ministério das Finanças e do Plano, mantém-se o regime de remunerações acessórias actualmente em vigor.
+Art. 31.º - 1 - Enquanto não for estabelecido o sistema geral de remunerações para o pessoal do Ministério das Finanças e do Plano, mantém-se o regime de remunerações acessórias actualmente em vigor.
 
 2 - Por despacho do Ministro das Finanças e do Plano, poderão as remunerações acessórias a que se refere o número anterior ser revistas de acordo com o esquema e âmbito de aplicação que vierem a ser definidos para os funcionários com idêntica categoria ou letra de vencimento do quadro do pessoal de qualquer das direcções-gerais do Ministério das Finanças e do Plano.
 
 3 - Da aplicação do presente diploma não poderá resultar para qualquer funcionário diminuição da remuneração global que presentemente aufere.
 
-###### Art. 32.º A execução do presente diploma fica condicionada, no corrente ano, à existência de disponibilidades financeiras no orçamento da Secretaria-Geral.
+Art. 32.º A execução do presente diploma fica condicionada, no corrente ano, à existência de disponibilidades financeiras no orçamento da Secretaria-Geral.
 
-###### Art. 33.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, e, quando for caso disso, por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tenha a seu cargo a função pública.
+Art. 33.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, e, quando for caso disso, por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tenha a seu cargo a função pública.
 
-###### Art. 34.º São revogados os Decretos-Leis n.os 37949, de 8 de Setembro de 1950, e 46365, de 2 de Junho de 1965, bem como o artigo 18.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931.
+Art. 34.º São revogados os Decretos-Leis n.os 37949, de 8 de Setembro de 1950, e 46365, de 2 de Junho de 1965, bem como o artigo 18.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 23 de Setembro de 1980.**
+Promulgado em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da Secretaria-Geral a que se refere o n.º 1 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31303135.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31303135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31303135.pdf)

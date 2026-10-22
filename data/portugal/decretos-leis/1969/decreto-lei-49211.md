@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49211-1969-215097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a6aa5884c622289f5a021fadfd20f8d294aff7b073659e4940bc53ce4410a99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b3b00c9b0840b70edb5d782f2f59a6e8e6f4d15962695c15277720e9f8525a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Empresa
+- Energia Elétrica
+- Fusão de Empresas
+- Rede Elétrica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:478208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogado o nº 2 do artº 4º pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301]2º supl,sem prejuízo da manutenção dos\
+    \ benefícios já concedidos e dos regimes de caducidade previstos na legislação ao abrigo do qual estão a ser usufruídos.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:33Z'
   warnings: []
   errors: []
 ---
@@ -119,47 +151,47 @@ Aproveita-se, ainda, a oportunidade para definir com precisão o regime jurídic
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizada a fusão das sociedades concessionárias de aproveitamentos hidroeléctricos, de empreendimentos termoeléctricos e de transporte de energia eléctrica cujas centrais e instalações constituem a rede eléctrica primária.
+Artigo 1.º Fica autorizada a fusão das sociedades concessionárias de aproveitamentos hidroeléctricos, de empreendimentos termoeléctricos e de transporte de energia eléctrica cujas centrais e instalações constituem a rede eléctrica primária.
 
-###### Art. 2.º - 1. Cada uma das sociedades referidas no artigo 1.º deliberará sobre a fusão em assembleia geral extraordinária especialmente convocada para o efeito.
+Art. 2.º - 1. Cada uma das sociedades referidas no artigo 1.º deliberará sobre a fusão em assembleia geral extraordinária especialmente convocada para o efeito.
 
 2. Os delegados do Governo e os administradores por parte do Estado promoverão as diligências necessárias para que as assembleias gerais que devam deliberar sobre a fusão se realizem no prazo de sessenta dias, a contar da publicação deste decreto-lei.
 
 3. As deliberações sobre a fusão serão válidas desde que sejam tomadas de harmonia com o disposto na primeira parte do § 2.º do artigo 183.º do Código Comercial.
 
-###### Art. 3.º - 1. Deliberada a fusão, produzirá ela desde logo todos os efeitos consignados na lei, transmitindo-se para a sociedade que dela resultar todos os direitos e obrigações derivados de contratos celebrados pelas sociedades fusionadas, relativamente a arrendamentos, aquisição de equipamentos, execução de obras, aluguer de maquinismos, financiamentos, prestação de serviços ou quaisquer outros que interessem à continuidade das respectivas explorações.
+Art. 3.º - 1. Deliberada a fusão, produzirá ela desde logo todos os efeitos consignados na lei, transmitindo-se para a sociedade que dela resultar todos os direitos e obrigações derivados de contratos celebrados pelas sociedades fusionadas, relativamente a arrendamentos, aquisição de equipamentos, execução de obras, aluguer de maquinismos, financiamentos, prestação de serviços ou quaisquer outros que interessem à continuidade das respectivas explorações.
 
 2. A empresa que resultar da fusão assumirá todos os direitos e obrigações emergentes do contrato colectivo de trabalho em vigor e promoverá a elaboração de um estatuto unificado do pessoal.
 
-###### Art. 4.º - 1. Na fusão das sociedades referidas no artigo 1.º do presente decreto-lei dispensar-se-á, na parte aplicável, a observância do disposto nos artigos 124.º a 127.º do Código Comercial.
+Art. 4.º - 1. Na fusão das sociedades referidas no artigo 1.º do presente decreto-lei dispensar-se-á, na parte aplicável, a observância do disposto nos artigos 124.º a 127.º do Código Comercial.
 
 2. A fusão, bem como todos os actos ou factos que dela directamente derivarem, incluindo a transmissão de bens, direitos e obrigações, serão isentos de todos os impostos, incluindo o do selo, bem como de quaisquer taxas e emolumentos.
 
-###### Art. 5.º - 1. As concessões de que as sociedades fusionadas forem titulares à data da publicação deste decreto-lei serão unificadas, mediante a outorga, nos termos e condições a negociar entre o Governo e a empresa resultante da fusão, de uma concessão que substituirá todas as anteriores.
+Art. 5.º - 1. As concessões de que as sociedades fusionadas forem titulares à data da publicação deste decreto-lei serão unificadas, mediante a outorga, nos termos e condições a negociar entre o Governo e a empresa resultante da fusão, de uma concessão que substituirá todas as anteriores.
 
 2. A concessão a outorgar de harmonia com o disposto no número anterior obedecerá aos princípios da exclusividade, da indeterminação de prazo e da não gratuitidade da reversão para o Estado dos bens afectos à exploração e abrangerá todas as intalações a incluir na rede eléctrica primária.
 
 3. A concessão poderá ser rescindida a todo o tempo, mediante o pagamento do justo valor das instalações e demais activos no momento em que ela se verifique, deduzido do montante total contabilizado no fundo de financiamento legal referido no artigo 11.º
 
-###### Art. 6.º - 1. Logo que sejam publicados no Diário do Governo os estatutos da sociedade que resultar da fusão, a Direcção-Geral dos Serviços Eléctricos, em colaboração com a Direcção-Geral dos Serviços Hidráulicos e a nova empresa, elaborará o projecto do caderno de encargos da concessão única.
+Art. 6.º - 1. Logo que sejam publicados no Diário do Governo os estatutos da sociedade que resultar da fusão, a Direcção-Geral dos Serviços Eléctricos, em colaboração com a Direcção-Geral dos Serviços Hidráulicos e a nova empresa, elaborará o projecto do caderno de encargos da concessão única.
 
 2. O projecto do caderno de encargos da concessão única será apresentado ao Governo no prazo de cento e vinte dias, a contar da data da publicação no Diário da Governo dos estatutos da nova empresa.
 
 3. O caderno de encargos e elaborar por força do n.º 1 deste artigo manterá todas as garantias de rentabilidade, bem como as demais regalias e obrigações estabelecidas por lei, designadamente pelos Decretos-Leis n.os 43335, de 19 de Novembro de 1960, 46031, de 14 de Novembro de 1964, e 46917, de 23 de Março de 1966.
 
-###### Art. 7.º Enquanto não for outorgado o caderno de encargos da concessão única, a sociedade que resultar da fusão será detentora de todas as concessões de que as sociedades fusionadas forem titulares à data da publicação deste decreto-lei.
+Art. 7.º Enquanto não for outorgado o caderno de encargos da concessão única, a sociedade que resultar da fusão será detentora de todas as concessões de que as sociedades fusionadas forem titulares à data da publicação deste decreto-lei.
 
-###### Art. 8.º O Estado manterá todos os seus direitos às instalações das empresas da rede eléctrica primária, constituídos até à data da fusão por força do regime jurídico aplicável às concessões outorgadas até à publicação do presente decreto-lei, nomeadamente em aplicação da alínea b) da base XV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, e do artigo 122.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387).
+Art. 8.º O Estado manterá todos os seus direitos às instalações das empresas da rede eléctrica primária, constituídos até à data da fusão por força do regime jurídico aplicável às concessões outorgadas até à publicação do presente decreto-lei, nomeadamente em aplicação da alínea b) da base XV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, e do artigo 122.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387).
 
-###### Art. 9.º - 1. O valor dos direitos do Estado referidos no artigo anterior será apurado pelo Ministério das Finanças através da Inspecção-Geral de Finanças, tendo em conta o valor das instalações das empresas da rede eléctrica primária e o tempo decorrido desde a data da outorga das diferentes concessões.
+Art. 9.º - 1. O valor dos direitos do Estado referidos no artigo anterior será apurado pelo Ministério das Finanças através da Inspecção-Geral de Finanças, tendo em conta o valor das instalações das empresas da rede eléctrica primária e o tempo decorrido desde a data da outorga das diferentes concessões.
 
 2. A Inspecção-Geral de Finanças apurará, igualmente, o montante dos fundos para reconstituição dos investimentos existentes à data da fusão nas diferentes empresas, em cumprimento do disposto nos n.os 2 e 3 do artigo 122.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387).
 
-###### Art. 10.º - 1. Deliberada a fusão, fica entendido que o Estado aliena a favor da nova empresa os direitos referidos no artigo 8.º, mediante a reversão para sua propriedade dos fundos para reconstituição dos investimentos mencionados no n.º 2 do artigo anterior.
+Art. 10.º - 1. Deliberada a fusão, fica entendido que o Estado aliena a favor da nova empresa os direitos referidos no artigo 8.º, mediante a reversão para sua propriedade dos fundos para reconstituição dos investimentos mencionados no n.º 2 do artigo anterior.
 
 2. No caso de o montante total dos fundos para reconstituição dos investimentos ser inferior ao valor dos direitos do Estado, determinado nos termos do n.º 1 do artigo 9.º, a diferença será havida como dívida da nova empresa a satisfazer nas condições que vierem a ser acordadas entre ela e o Governo.
 
-###### Art. 11.º A nova empresa constituirá um fundo, designado por fundo de financiamento legal, em que serão integrados:
+Art. 11.º A nova empresa constituirá um fundo, designado por fundo de financiamento legal, em que serão integrados:
 
 a) Os fundos de reconstituição dos investimentos mencionados no n.º 2 do artigo 9.º;
 
@@ -167,7 +199,7 @@ b) As quantias obrigatòriamente destinadas a autofinanciamento, arrecadadas at�
 
 c) As quantias que forem arrecadadas pela nova empresa em cumprimento das disposições legais citadas na alínea anterior.
 
-###### Art. 12.º - 1. O fundo de financiamento legal a constituir na nova empresa será considerado como propriedade do Estado e não poderá ser incorporado no capital social nem transferido para lucros ou reservas.
+Art. 12.º - 1. O fundo de financiamento legal a constituir na nova empresa será considerado como propriedade do Estado e não poderá ser incorporado no capital social nem transferido para lucros ou reservas.
 
 2. As quantias que integrarem o fundo de financiamento legal ficam sujeitas ao regime estabelecido nos Decretos-Leis n.os 46031 e 47735, de 14 de Novembro de 1964 e de 29 de Maio de 1967, respectivamente, e, sem prejuízo do disposto no número seguinte, não conferirão direito ao recebimento de juros ou de qualquer outra remuneração.
 
@@ -175,8 +207,8 @@ c) As quantias que forem arrecadadas pela nova empresa em cumprimento das dispos
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 6 de Agosto de 1969.**
+Promulgado em 6 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

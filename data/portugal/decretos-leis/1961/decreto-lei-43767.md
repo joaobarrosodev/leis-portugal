@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/06/15000/07740775.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8938f16ff4a098e07a04b05f223a88590720823f1ba8534281770ecf4b5af8ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 631b389800fd048514268081b5aafe4a0be5cc04216b6265716e0bc48a940a34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mediação de Imóveis
 relationships:
 - type: amended_by
   target: pt:dre:623856:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:412221:por
+  label: "Revogado, no que se refere ao exercício da actividade comercial de mediação na realização de empréstimos com garantia\
+    \ hipotecária, pelo DEC LEI.119/74.23.03.1974.MF, DG.IS [70] de 23.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1974-412221
+  date: '1974-03-23'
+- type: repealed_by
+  target: pt:dre:623856:por
+  label: "Revogado pelo DEC LEI.285/92.19.12.1992.MOPTC, DR.IS-A [292] de 19.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1992-623856
+  date: '1992-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:26Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +115,11 @@ Atendendo ao que dispôs o artigo 14.º do [Decreto-Lei n.º 41403](https://diar
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A actividade comercial de mediador na compra e venda de bens imobiliários e na realização de empréstimos com garantia hipotecária, mobiliária ou imobiliária, só pode ser exercida por pessoas singulares ou sociedades de reconhecida idoneidade, que tenham obtido autorização prévia do Ministro das Finanças, mediante portaria.
+Artigo 1.º A actividade comercial de mediador na compra e venda de bens imobiliários e na realização de empréstimos com garantia hipotecária, mobiliária ou imobiliária, só pode ser exercida por pessoas singulares ou sociedades de reconhecida idoneidade, que tenham obtido autorização prévia do Ministro das Finanças, mediante portaria.
 
 § único. A localização do estabelecimento principal e a abertura de sucursais, delegações ou agências carecem também de autorização do Ministro das Finanças.
 
-###### Art. 2.º Os requerimentos para a autorização a que se refere o artigo anterior serão apresentados na Inspecção-Geral de Crédito e Seguros, instruídos com os elementos seguintes:
+Art. 2.º Os requerimentos para a autorização a que se refere o artigo anterior serão apresentados na Inspecção-Geral de Crédito e Seguros, instruídos com os elementos seguintes:
 
 1.º Certificados do registo criminal e atestados de bom comportamento moral e civil dos indivíduos que pretendem exercer a actividade, quer singularmente, quer como sócios de responsabilidade limitada ou ilimitada;
 
@@ -109,15 +129,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º Obtida a autorização, o pacto social, ou o respectivo projecto, que tiver acompanhado o requerimento não poderá ser alterado sem prévia aprovação do Ministro das Finanças.
 
-###### Art. 3.º É vedado às pessoas singulares ou sociedades referidas no artigo 1.º celebrar em seu nome, ou de conta própria, os actos e contratos respeitantes a empréstimos com garantia hipotecária, ou ter em seu nome ou poder importâncias ou outros bens respeitantes aos mesmos.
+Art. 3.º É vedado às pessoas singulares ou sociedades referidas no artigo 1.º celebrar em seu nome, ou de conta própria, os actos e contratos respeitantes a empréstimos com garantia hipotecária, ou ter em seu nome ou poder importâncias ou outros bens respeitantes aos mesmos.
 
-###### Art. 4.º As sociedades referidas no artigo 1.º não podem exercer actividades estranhas à sua autorização, salvo apenas os actos e contratos necessários e acessórios do seu objecto.
+Art. 4.º As sociedades referidas no artigo 1.º não podem exercer actividades estranhas à sua autorização, salvo apenas os actos e contratos necessários e acessórios do seu objecto.
 
 § único. As pessoas singulares referidas no mesmo artigo deverão observar preceito análogo através dos seus estabelecimentos e dependências autorizadas.
 
-###### Art. 5.º O Ministro das Finanças poderá fixar, em portaria, as percentagens máximas das comissões que as pessoas singulares ou as sociedades referidas no artigo 1.º podem cobrar dos seus clientes, considerando-se essa fixação como fazendo parte integrante deste diploma.
+Art. 5.º O Ministro das Finanças poderá fixar, em portaria, as percentagens máximas das comissões que as pessoas singulares ou as sociedades referidas no artigo 1.º podem cobrar dos seus clientes, considerando-se essa fixação como fazendo parte integrante deste diploma.
 
-###### Art. 6.º Além dos livros de escrituração exigidos por lei, as pessoas singulares ou sociedades autorizadas nos termos do artigo 1.º a exercer as actividades nele mencionadas deverão possuir, e manter escriturado sempre em dia, um livro de registo de todos os actos e contratos compreendidos na sua autorização, ainda mesmo que neles só intervenham materialmente, contendo, pelo menos, os seguintes elementos:
+Art. 6.º Além dos livros de escrituração exigidos por lei, as pessoas singulares ou sociedades autorizadas nos termos do artigo 1.º a exercer as actividades nele mencionadas deverão possuir, e manter escriturado sempre em dia, um livro de registo de todos os actos e contratos compreendidos na sua autorização, ainda mesmo que neles só intervenham materialmente, contendo, pelo menos, os seguintes elementos:
 
 1.º Data e natureza de cada acto ou contrato;
 
@@ -129,7 +149,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. A Inspecção-Geral de Crédito e Seguros poderá fixar o modelo a que deverá obedecer o livro referido no corpo deste artigo.
 
-###### Art. 7.º A actividade de mediador comercial referida neste diploma fica sujeita à fiscalização do Ministério das Finanças, através da Inspecção-Geral de Crédito e Seguros. Para esse efeito, os que exercerem tal actividade são obrigados a:
+Art. 7.º A actividade de mediador comercial referida neste diploma fica sujeita à fiscalização do Ministério das Finanças, através da Inspecção-Geral de Crédito e Seguros. Para esse efeito, os que exercerem tal actividade são obrigados a:
 
 1.º Enviar àquela Inspecção-Geral, logo após o encerramento das contas de cada exercício, o respectivo balanço acompanhado do desenvolvimento da conta de lucros e perdas e ainda, se os houver, o relatório da administração e o parecer do conselho fiscal;
 
@@ -137,16 +157,16 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Facultar os seus livros de escrita e respectiva documentação a exame da dita Inspecção-Geral, quando esta o julgar necessário.
 
-###### Art. 8.º As pessoas singulares ou sociedades que exerçam à data da publicação deste decreto-lei a actividade referida no artigo 1.º deverão requerer a respectiva autorização, nos termos do artigo 2.º, no prazo de 60 dias.
+Art. 8.º As pessoas singulares ou sociedades que exerçam à data da publicação deste decreto-lei a actividade referida no artigo 1.º deverão requerer a respectiva autorização, nos termos do artigo 2.º, no prazo de 60 dias.
 
 § único. As pessoas singulares ou colectivas que nesse prazo não requererem a respectiva autorização e aquelas a quem esta for recusada não poderão continuar a exercer a actividade referida no artigo 1.º
 
-###### Art. 9.º Sem prejuízo dar sanções previstas na lei geral, as transgressões às disposições deste decreto-lei são puníveis com multa desde 1000$00 até 500000$00.
+Art. 9.º Sem prejuízo dar sanções previstas na lei geral, as transgressões às disposições deste decreto-lei são puníveis com multa desde 1000$00 até 500000$00.
 
 § único. No caso de a transgressão se revestir de especial gravidade, além da multa, poderá ser retirada a autorização concedida para o exercício da actividade.
 
-###### Art. 10.º A aplicação das penas a que se refere o artigo anterior é da competência do Ministro das Finanças, devendo na organização e instrução dos respectivos processos observar-se as disposições aplicáveis do capítulo X «Das sanções» do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+Art. 10.º A aplicação das penas a que se refere o artigo anterior é da competência do Ministro das Finanças, devendo na organização e instrução dos respectivos processos observar-se as disposições aplicáveis do capítulo X «Das sanções» do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

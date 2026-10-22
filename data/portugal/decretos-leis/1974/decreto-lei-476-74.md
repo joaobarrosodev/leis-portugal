@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1974-473361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 825ab5b290b1347fa243b8c42b210752e2ddc74d2c161fb1d3813bc0167885e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1caa59e43feb78a16152e1f1d6bc52382891a70371f31410af04f863921ebad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Comércio
+- Definição de Competências
+- Direcção Geral de Fiscalização Económica
+- Fiscalização
+- GNR
+- Guarda Fiscal
+- Infracção Antieconómica
+- Multa
+- Proteção do Consumidor
+- PSP
+- Sanção Penal
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631441:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:04Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +124,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º e 28.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º e 28.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1. A pena complementar de multa relativa a cada infracção será graduada nos seguintes termos:
+Art. 5.º - 1. A pena complementar de multa relativa a cada infracção será graduada nos seguintes termos:
 
 a) No crime de especulação, terá como limite mínimo o dobro do preço por que foi adquirida a mercadoria objecto do mesmo crime, na sua forma consumada ou tentada, ou o quíntuplo do lucro ilegítimo que se obteve ou tentou obter, se não estiverem em causa actividades comerciais, mas em nenhum caso será inferior a 3000$00;
 
@@ -111,7 +136,7 @@ c) Em qualquer dos casos, não será superior a 10000000$00.
 
 2. ...
 
-###### Art. 28.º - 1. São consideradas como contravenções, puníveis com pena de multa quando não constituam crime de açambarcamento ou especulação:
+Art. 28.º - 1. São consideradas como contravenções, puníveis com pena de multa quando não constituam crime de açambarcamento ou especulação:
 
 a) ...
 
@@ -127,7 +152,7 @@ b) 5000$00 a 20000$00, para as pessoas singulares ou colectivas tributadas pelo 
 
 c) 50000 a 100000$00, para as pessoas singulares ou colectivas tributadas pelo grupo A da contribuição industrial.
 
-###### Art. 2.º - 1. As penas de prisão e multa constantes dos artigos 13.º, 14.º, 17.º, 18.º, 21.º, 23.º, 31.º e 32.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) são elavadas nos termos seguintes:
+Art. 2.º - 1. As penas de prisão e multa constantes dos artigos 13.º, 14.º, 17.º, 18.º, 21.º, 23.º, 31.º e 32.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) são elavadas nos termos seguintes:
 
 a) Prisão de dez dias a dois anos e multa não inferior a 80000$00, para as infracções previstas no artigo 13.º;
 
@@ -149,7 +174,7 @@ i) Prisão de dez dias a nove meses e multa, para as infracções previstas no a
 
 2. A elevação efectuada nos termos deste artigo será aplicável sempre que outras disposições remetam para as punições dos artigos respectivos.
 
-###### Art. 3.º Os limites das penas de multa estabelecidos nos artigos 15.º a 18.º, 22.º, 23.º, 26.º, 27.º, 29.º, 30.º, 33.º e 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) são elevadas nos seguintes termos:
+Art. 3.º Os limites das penas de multa estabelecidos nos artigos 15.º a 18.º, 22.º, 23.º, 26.º, 27.º, 29.º, 30.º, 33.º e 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) são elevadas nos seguintes termos:
 
 a) Para 2000$00, o limite mínimo das penas de multa estabelecidas nos artigos 15.º, 16.º, 27.º, 30.º, n.º 2, e 34.º;
 
@@ -169,7 +194,7 @@ h) Para 60000$00 e 20000$00, respectivamente, os limites máximos das penas de m
 
 i) Para 10000$00 e 80000$00, 5000$00 e 50000$00, respectivamente, os limites mínimo e máximo das penas de multa estabelecidas nos artigos 17.º, n.º 1, alínea c), e 18.º, n.º 1, alínea c).
 
-###### Art. 4.º Os limites das penas de multa estabelecidos nos artigos 9.º e 10.º do [Decreto-Lei n.º 42979](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42979-1960-505047), de 16 de Maio de 1960, são elevados nos seguintes termos:
+Art. 4.º Os limites das penas de multa estabelecidos nos artigos 9.º e 10.º do [Decreto-Lei n.º 42979](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42979-1960-505047), de 16 de Maio de 1960, são elevados nos seguintes termos:
 
 a) Para 3000$00, o limite mínimo das penas de multa estabelecidas no artigo 9.º, alínea b), e artigo 10.º, alínea b);
 
@@ -179,24 +204,24 @@ c) Para 30000$00, o limite máximo das penas de multa estabelecidas no artigo 9.
 
 d) Para 20000$00, o limite máximo das penas de multa estabelecidas no artigo 9.º, alínea c), e artigo 10.º, alínea c).
 
-###### Art. 5.º Os limites das penas de multa estabelecidas no artigo 12.º, n.os 1, 2, 3 e 5, do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, são elevadas nos seguintes termos:
+Art. 5.º Os limites das penas de multa estabelecidas no artigo 12.º, n.os 1, 2, 3 e 5, do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, são elevadas nos seguintes termos:
 
 a) Para 3000$00, o limite mínimo das penas de multa estabelecidas nos n.os 1, 2, 3 e 5 do artigo 12.º;
 
 b) Para 80000$00, 40000$00, 20000$00 e 80000$00, os limites máximos das penas de multa estabelecidas, respectivamente, nos n.os 1, 2, 3 e 5 do artigo 12.º
 
-###### Art. 6.º - 1. A denúncia ou queixa de infracções de natureza económica ou contra a saúde pública pode ser feita por qualquer pessoa à Direcção-Geral de Fiscalização Económica, Polícia de Segurança Pública, Guarda Nacional Republicana ou Guarda Fiscal.
+Art. 6.º - 1. A denúncia ou queixa de infracções de natureza económica ou contra a saúde pública pode ser feita por qualquer pessoa à Direcção-Geral de Fiscalização Económica, Polícia de Segurança Pública, Guarda Nacional Republicana ou Guarda Fiscal.
 
 2. No caso de a denúncia ou queixa referidas no número anterior não terem sido apresentadas na Direcção-Geral de Fiscalização Económica, as autoridades mencionadas naquele mesmo número levantarão imediatamente o respectivo auto e enviá-lo-ão, no prazo de vinte e quatro horas, aos serviços centrais daquela Direcção-Geral, quando os factos tenham ocorrido no distrito de Lisboa, e às respectivas zonas do mesmo organismo, nos restantes distritos.
 
-###### Art. 7.º À condenação por infracções antieconómicas e contra a saúde pública que revistam a natureza de crime, quando se verique reincidência, será dada publicidade, através dos órgãos de informação, devendo fazer-se constar, igualmente, no próprio estabelecimento comercial ou industrial, por forma e em local bem visível do exterior.
+Art. 7.º À condenação por infracções antieconómicas e contra a saúde pública que revistam a natureza de crime, quando se verique reincidência, será dada publicidade, através dos órgãos de informação, devendo fazer-se constar, igualmente, no próprio estabelecimento comercial ou industrial, por forma e em local bem visível do exterior.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 19 de Setembro de 1974.**
+Promulgado em 19 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

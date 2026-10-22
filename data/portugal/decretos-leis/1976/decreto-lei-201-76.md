@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06700/05650566.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1976-501432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c544b5d61d606925d926627eb086c3a809bc653382270c8477c97d9330d023f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce0f0486ebda973f20c1db877dbcd8454ca50256cfa18d73c2bd967673d2ee7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheque
+- Código do Processo Civil
+- Conselho Superior do Ministério Público
+- Defensor Oficioso
+- Direito Civil
+- Dívida
+- Estatuto Judiciário
+- Execução por Dívidas
+- Julgamento
+- Letras e Livranças
+- Magistrado Judicial
+- Ministério Público
+- Pessoal de Justiça
+- Processo Civil
+- Processo Disciplinar
+- Processo Penal
+- Reconhecimento Notarial
+- Recurso
+- Sanção Disciplinar
+- Secretaria Judicial
+- Supremo Tribunal de Justiça
+- Tribunal
+- Tribunal da Relação
+- Tribunal de Comarca
+- Tribunal de Instrução Criminal
+- Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276632:por
+  label: "Alterado o art. 51º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.533/77.30.12.1977.MJ, DR.IS [301] de 30.12.1977\077\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1977-276632
+  date: '1977-12-30'
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterado o artigo 51.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterado o art. 51.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 51º do Dec Lei 44129, de 28-Dez de 1961, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:39Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +156,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 42.º, 341.º, 342.º, 403.º, 404.º, 407.º, 416.º, 451.º, 453.º, 460.º, 515.º e 516.º do Estatuto Judiciário passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 42.º, 341.º, 342.º, 403.º, 404.º, 407.º, 416.º, 451.º, 453.º, 460.º, 515.º e 516.º do Estatuto Judiciário passam a ter a seguinte redacção:
 
-###### Art. 42.º - 1. ...
+Art. 42.º - 1. ...
 
 2. Compete aos juízos de instrução criminal exercer as funções jurisdicionais relativas à instrução preparatória e, durante a instrução contraditória nos processos comuns e nos processos de segurança instruídos pela Polícia Judiciária, dirigir a instrução contraditória e proferir os despachos de pronúncia e os despachos de não pronúncia.
 
@@ -109,11 +168,11 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 341.º - 1. Os lugares de ajudante de escrivão são providos em escriturários-dactilógrafos com, pelo menos, três anos de serviço e classificação não inferior à de Bom.
+Art. 341.º - 1. Os lugares de ajudante de escrivão são providos em escriturários-dactilógrafos com, pelo menos, três anos de serviço e classificação não inferior à de Bom.
 
 2. ...
 
-###### Art. 342.º - 1. Os lugares de escriturário-dactilógrafo são providos em escriturários-dactilógrafos, por transferência, ou em indivíduos habilitados com o ciclo preparatório do ensino secundário, ou curso equivalente, que saibam escrever correctamente à máquina.
+Art. 342.º - 1. Os lugares de escriturário-dactilógrafo são providos em escriturários-dactilógrafos, por transferência, ou em indivíduos habilitados com o ciclo preparatório do ensino secundário, ou curso equivalente, que saibam escrever correctamente à máquina.
 
 2. Os escriturários-dactilógrafos com classificação não inferior à de Bom têm preferência sobre os simples candidatos, e, entre estes, constitui motivo de preferência a habilitação com alguma das secções do 2.º ciclo dos liceus ou sua equiparação e a prática dos serviços.
 
@@ -129,7 +188,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 403.º Compete ainda ao Conselho:
+Art. 403.º Compete ainda ao Conselho:
 
 a) ...
 
@@ -161,13 +220,13 @@ j) Exercer a jurisdição disciplinar sobre:
 
 l) ...
 
-###### Art. 404.º - 1. A acção disciplinar do Conselho abrange todos os actos e omissões da vida pública ou particular dos magistrados e funcionários que constituam transgressão de deveres profissionais ou sejam incompatíveis com o decoro e dignidade indispensáveis ao exercício das suas funções.
+Art. 404.º - 1. A acção disciplinar do Conselho abrange todos os actos e omissões da vida pública ou particular dos magistrados e funcionários que constituam transgressão de deveres profissionais ou sejam incompatíveis com o decoro e dignidade indispensáveis ao exercício das suas funções.
 
 2. Os juízes do Supremo apenas estão sujeitos à acção disciplinar do Supremo Conselho Disciplinar.
 
 ...
 
-###### Art. 407.º - 1. ...
+Art. 407.º - 1. ...
 
 2. ...
 
@@ -181,7 +240,7 @@ l) ...
 
 ...
 
-###### Art. 416.º - 1. ...
+Art. 416.º - 1. ...
 
 2. Na secretaria exercerão funções, em comissão de serviço, quatro funcionários de justiça, escolhidos pelo Conselho, com vencimento igual ao dos chefes de secretaria dos tribunais cíveis de Lisboa. O vencimento será abonado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
@@ -193,7 +252,7 @@ l) ...
 
 ...
 
-###### Art. 451.º - 1. Para o exercício da sua actividade disciplinar e para proceder a estudos respeitantes a matérias das suas atribuições, dispõe o Conselho Superior Judiciário de oito inspectores judiciais, nomeados pelo Ministro da Justiça entre juízes desembargadores ou juízes de direito de 1.ª classe. Tendo em consideração as conveniências do serviço, pode o Ministro da Justiça nomear inspectores judiciais extraordinários, em comissão de serviço, recrutados entre os juízes que possam ser nomeados para o quadro ordinário de inspectores judiciais.
+Art. 451.º - 1. Para o exercício da sua actividade disciplinar e para proceder a estudos respeitantes a matérias das suas atribuições, dispõe o Conselho Superior Judiciário de oito inspectores judiciais, nomeados pelo Ministro da Justiça entre juízes desembargadores ou juízes de direito de 1.ª classe. Tendo em consideração as conveniências do serviço, pode o Ministro da Justiça nomear inspectores judiciais extraordinários, em comissão de serviço, recrutados entre os juízes que possam ser nomeados para o quadro ordinário de inspectores judiciais.
 
 2. ...
 
@@ -201,11 +260,11 @@ l) ...
 
 ...
 
-###### Art. 453.º A fim de especialmente fiscalizar os serviços de contabilidade e tesouraria das secretarias judiciais, haverá um inspector-contador, escolhido pelo Conselho de entre os chefes de secretaria, e ao qual é aplicável o n.º 2 do artigo anterior.
+Art. 453.º A fim de especialmente fiscalizar os serviços de contabilidade e tesouraria das secretarias judiciais, haverá um inspector-contador, escolhido pelo Conselho de entre os chefes de secretaria, e ao qual é aplicável o n.º 2 do artigo anterior.
 
 ...
 
-###### Art. 460.º Têm competência para aplicar as penas disciplinares a que são sujeitos os magistrados judiciais e do Ministério Público:
+Art. 460.º Têm competência para aplicar as penas disciplinares a que são sujeitos os magistrados judiciais e do Ministério Público:
 
 a) ...
 
@@ -219,7 +278,7 @@ e) ...
 
 ...
 
-###### Art. 515.º Só há recurso em matéria disciplinar:
+Art. 515.º Só há recurso em matéria disciplinar:
 
 a) ...
 
@@ -233,7 +292,7 @@ e) Das decisões do Supremo Conselho Disciplinar que apliquem penas a juízes do
 
 f) Dos despachos do Ministro da Justiça que homologuem a aplicação das penas 7.ª, 8.ª ou 9.ª por parte do Conselho Superior do Ministério Público ou apliquem essas penas, alterando as decisões do Conselho.
 
-###### Art. 516.º - 1. Os recursos a que se refere o artigo anterior serão interpostos:
+Art. 516.º - 1. Os recursos a que se refere o artigo anterior serão interpostos:
 
 a) ...
 
@@ -249,9 +308,9 @@ e) Das decisões do Ministro da Justiça, para o Supremo Tribunal Administrativo
 
 3. ...
 
-###### Art. 2.º O artigo 23.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, passa a ter a seguinte redacção:
+Art. 2.º O artigo 23.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, passa a ter a seguinte redacção:
 
-###### Art. 23.º Trimestralmente, o Ministério Público enviará ao procurador da República relação dos autos de instrução preparatória referentes a crimes públicos a que corresponda processo de querela que não conduziram a acusação. Dessa nota devem constar, resumidamente, a natureza e circunstâncias do crime denunciado e os motivos da falta de acusação.
+Art. 23.º Trimestralmente, o Ministério Público enviará ao procurador da República relação dos autos de instrução preparatória referentes a crimes públicos a que corresponda processo de querela que não conduziram a acusação. Dessa nota devem constar, resumidamente, a natureza e circunstâncias do crime denunciado e os motivos da falta de acusação.
 
 O procurador da República, no prazo de trinta dias, poderá, em relação a qualquer processo:
 
@@ -261,13 +320,13 @@ O procurador da República, no prazo de trinta dias, poderá, em relação a qua
 
 3.º Propor ao procurador-geral da República que a instrução preparatória do processo seja cometida à Polícia Judiciária.
 
-###### Art. 3.º Fica revogado o artigo 28.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945.
+Art. 3.º Fica revogado o artigo 28.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945.
 
-###### Art. 4.º O artigo 51.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 4.º O artigo 51.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ...
 
-###### Art. 51.º - 1. ...
+Art. 51.º - 1. ...
 
 2. Só é exigível o reconhecimento presencial quando, tratando-se de escritos particulares que não sejam letras, livranças e cheques, a execução tiver por fim o pagamento de quantia certa e o montante da dívida constante do escrito exceder a alçada do tribunal de comarca, ou quando a execução tiver por fim a entrega de coisa fungível.
 
@@ -275,8 +334,8 @@ O procurador da República, no prazo de trinta dias, poderá, em relação a qua
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 12 de Março de 1976.**
+Promulgado em 12 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

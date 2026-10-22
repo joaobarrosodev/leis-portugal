@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1970-225848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20272423191fa9a88426a62d193057c59f96ca770fb12b859413c01dd3db2f18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdf01fc66afa774415ab2d81430a531851ae18c3195519de6702f06aa992a4fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Concessão
+- Empresa Estrangeira
+- Ministro das Comunicações
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:59Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +101,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com a Western Union International Incorporated um adicional ao contrato de concessão de 28 de Fevereiro de 1956, relativo aos cabos submarinos que amarram em território português, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
+Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com a Western Union International Incorporated um adicional ao contrato de concessão de 28 de Fevereiro de 1956, relativo aos cabos submarinos que amarram em território português, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 9 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
-## Anexo ao Decreto-Lei n.º 148/70
+Anexo ao Decreto-Lei n.º 148/70
 
 Termo do adicional ao contrato de concessão de 28 de Fevereiro de 1956, a celebrar entre o Governo Português e a Western Union International Incorporated.
 
-###### Artigo único. É alterado, nos termos a seguir referidos, o artigo 20.º do contrato de concessão de 28 de Fevereiro de 1956, celebrado entre o Governo Português e The Western Union Telegraph Company, depois transferido para a Western Union International Incorporated por contrato de 15 de Junho de 1964, outorgado entre o Governo e as duas referidas companhias:
+Artigo único. É alterado, nos termos a seguir referidos, o artigo 20.º do contrato de concessão de 28 de Fevereiro de 1956, celebrado entre o Governo Português e The Western Union Telegraph Company, depois transferido para a Western Union International Incorporated por contrato de 15 de Junho de 1964, outorgado entre o Governo e as duas referidas companhias:
 
-###### Art. 20.º O presente contrato, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, considera-se em vigor desde 1 de Janeiro de 1955 e continua válido por doze anos, a contar desta última data, prorrogando-se automàticamente pelo período de três anos, e, a partir de 1 de Janeiro de 1970, por períodos anuais sucessivos, salvo denúncia de uma das partes notificada à outra parte, em carta registada com aviso de recepção, com a antecedência de seis meses, pelo menos, em relação ao termo da respectiva vigência.
+Art. 20.º O presente contrato, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, considera-se em vigor desde 1 de Janeiro de 1955 e continua válido por doze anos, a contar desta última data, prorrogando-se automàticamente pelo período de três anos, e, a partir de 1 de Janeiro de 1970, por períodos anuais sucessivos, salvo denúncia de uma das partes notificada à outra parte, em carta registada com aviso de recepção, com a antecedência de seis meses, pelo menos, em relação ao termo da respectiva vigência.
 
 Ministério das Comunicações, 1 de Abril de 1970. - O Ministro das Comunicações, Rui Alves da Silva Sanches.

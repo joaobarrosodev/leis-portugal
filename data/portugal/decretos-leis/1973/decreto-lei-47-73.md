@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 125fe243e85d4cee8322f290d5b705a96431a541ad8b27ed0d453d1e91f34a37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b24da687a77fee5a093703d1633101293241a899820990626e4fbf60b66b555d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Alvará
+- Apoio Pedagógico
+- Carreira de Inspector Orientador
+- Conselho Pedagógico
+- Definição de Competências
+- Direção Geral da Administração Escolar
+- Ensino Básico
+- Ensino Particular
+- Estabelecimento de Ensino
+- Fiscalização
+- Formação Profissional
+- Inspecção Geral do Ensino Particular
+- Inspetor Geral
+- Material de Ensino
+- Ministério da Educação Nacional
+- Orgânica
+- Orientação Escolar
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal Técnico
+- Prestação de Serviços
+- Recrutamento de Pessoal
+- Serviço de Inspecção
+- Subsídio
+- Substituição de Funções
 relationships:
 - type: amended_by
   target: pt:dre:377922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325936:por
+  label: "Alterado o quadro de pessoal constante deste diploma, pelo DEC LEI.337/78.1978.11.14.MEC, DR.IS [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/337-1978-325936
+  date: '1978-11-14'
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:18Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +147,7 @@ I
 
 Das atribuições e competências
 
-###### Artigo 1.º À Inspecção-Geral do Ensino Particular, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, compete:
+Artigo 1.º À Inspecção-Geral do Ensino Particular, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, compete:
 
 a) Coordenar, auxiliar e fiscalizar o ensino ministrado fora dos estabelecimentos públicos, com a excepção dos estabelecimentos de formação ou cultura eclesiástica, nos termos das disposições em vigor, e dos estabelecimentos do ensino superior;
 
@@ -112,7 +155,7 @@ b) Proceder à orientação pedagógica do ensino particular com planos de estud
 
 c) Colaborar na orientação pedagógica do ensino particular, com planos de estudo oficiais, efectuada pelos serviços das respectivas direcções-gerais de ensino.
 
-###### Art. 2.º - 1. Na prossecução da competência definida no artigo anterior cabe especialmente à Inspecção-Geral:
+Art. 2.º - 1. Na prossecução da competência definida no artigo anterior cabe especialmente à Inspecção-Geral:
 
 a) Velar pela qualidade e eficiência do ensino ministrado em estabelecimentos particulares, nomeadamente através do estudo estatístico do seu rendimento quantitativo e proceder à sua avaliação qualitativa;
 
@@ -142,11 +185,11 @@ j) Colaborar nas actividades da acção social escolar dirigidas aos alunos que 
 
 5. A Inspecção-Geral do Ensino Particular poderá solicitar aos estabelecimentos de ensino oficial, quando o julgue conveniente para o cumprimento das suas atribuições, todos os dados que considere necessários, bem como consultar directamente livros e documentos respeitantes aos estabelecimentos do ensino particular da respectiva área.
 
-###### Art. 3.º - 1. A Inspecção-Geral do Ensino Particular poderá exercer fiscalização administrativa e financeira sobre os estabelecimentos de ensino particular que, a qualquer título, recebam subsídios do Estado ou das autarquias locais.
+Art. 3.º - 1. A Inspecção-Geral do Ensino Particular poderá exercer fiscalização administrativa e financeira sobre os estabelecimentos de ensino particular que, a qualquer título, recebam subsídios do Estado ou das autarquias locais.
 
 2. O Ministério da Educação Nacional poderá fazer depender da avaliação dos recursos económicos e financeiros, bem como da sua gestão, a atribuição de subsídios ou outras dotações de auxílio aos estabelecimentos de ensino particular.
 
-###### Art. 4.º - 1. Compete ao inspector-geral superintender em todos os serviços da Inspecção-Geral do Ensino Particular, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
+Art. 4.º - 1. Compete ao inspector-geral superintender em todos os serviços da Inspecção-Geral do Ensino Particular, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
 
 2. O inspector-geral é coadjuvado por um adjunto que exercerá as funções que por ele lhe sejam confiadas.
 
@@ -158,7 +201,7 @@ II
 
 Dos órgãos e serviços
 
-###### Art. 5.º A Inspecção-Geral do Ensino Particular é constituída pelos seguintes órgãos e serviços:
+Art. 5.º A Inspecção-Geral do Ensino Particular é constituída pelos seguintes órgãos e serviços:
 
 a) Conselho Pedagógico;
 
@@ -172,7 +215,7 @@ e) Divisão de Organização e Cadastro;
 
 f) Repartição Administrativa.
 
-###### Art. 6.º - 1. O Conselho Pedagógico do Ensino Particular é um órgão consultivo que funciona na directa dependência do inspector-geral.
+Art. 6.º - 1. O Conselho Pedagógico do Ensino Particular é um órgão consultivo que funciona na directa dependência do inspector-geral.
 
 2. Compete especialmente ao Conselho Pedagógico:
 
@@ -182,7 +225,7 @@ b) Dar parecer sobre programas e planos de estudos de cursos que não tenham cor
 
 c) Pronunciar-se sobre as experiências pedagógicas e sobre a implantação de novas estruturas e métodos de ensino, bem como sobre a criação ou modificação de estabelecimento de ensino particular.
 
-###### Art. 7.º - 1. O Conselho Pedagógico terá como vogais os inspectores superiores, o adjunto do inspector-geral, os chefes de divisão e os representantes dos serviços a seguir indicados:
+Art. 7.º - 1. O Conselho Pedagógico terá como vogais os inspectores superiores, o adjunto do inspector-geral, os chefes de divisão e os representantes dos serviços a seguir indicados:
 
 a) Três representantes da Direcção-Geral do Ensino Básico, respectivamente nos domínios da educação pré-escolar, do ensino primário e do ensino preparatório;
 
@@ -200,7 +243,7 @@ b) Um representante do Grémio dos Proprietários dos Estabelecimentos de Ensino
 
 4. O Conselho Pedagógico poderá funcionar por secções cuja estrutura e organização serão definidas em regulamento aprovado pelo Ministro da Educação Nacional.
 
-###### Art. 8.º Compete aos Serviços de Inspecção:
+Art. 8.º Compete aos Serviços de Inspecção:
 
 a) Velar pela qualidade de ensino;
 
@@ -214,7 +257,7 @@ e) Acompanhar as actividades das sociedades ou associações de carácter pedag�
 
 f) Exercer a acção disciplinar que se mostrar conveniente.
 
-###### Art. 9.º Compete à Divisão de Acção Pedagógica e Orientação Educativa:
+Art. 9.º Compete à Divisão de Acção Pedagógica e Orientação Educativa:
 
 a) Promover a orientação escolar e vocacional dos alunos em intima colaboração com as famílias;
 
@@ -226,7 +269,7 @@ d) Assegurar, em colaboração com as direcções-gerais de ensino, a normal seq
 
 e) Colaborar nas actividades de acção social escolar.
 
-###### Art. 10.º Compete à Divisão de Estudos e Programas:
+Art. 10.º Compete à Divisão de Estudos e Programas:
 
 a) Apreciar, para aprovação ministerial, os planos e programas de estudo dos cursos que não tenham correspondência no ensino oficial;
 
@@ -238,7 +281,7 @@ d) Conceder aos estabelecimentos de ensino particular apoio técnico nos domíni
 
 e) Colaborar nos estudos relativos aos regimes do pessoal docente.
 
-###### Art. 11.º Compete à Divisão de Organização e Cadastro:
+Art. 11.º Compete à Divisão de Organização e Cadastro:
 
 a) Avaliar a gestão administrativa e financeira dos estabelecimentos de ensino particular;
 
@@ -250,7 +293,7 @@ d) Organizar e instruir os processos relativos à concessão de diplomas e alvar
 
 e) Organizar, em colaboração com a Secretaria-Geral e com a Direcção-Geral da Administração Escolar, as estatísticas que se mostrem convenientes relativamente ao ensino particular e nomeadamente as que digam respeito aos professores, aos alunos, às instalações e ao equipamento didáctico.
 
-###### Art. 12.º Compete à Repartição Administrativa:
+Art. 12.º Compete à Repartição Administrativa:
 
 a) Assegurar o serviço de expediente geral, contabilidade, economato e de administração do pessoal da Inspecção-Geral;
 
@@ -260,7 +303,7 @@ III
 
 Do pessoal
 
-###### Art. 13.º - 1. A Inspecção-Geral tem o pessoal dirigente e técnico constante do mapa I, anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 13.º - 1. A Inspecção-Geral tem o pessoal dirigente e técnico constante do mapa I, anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2. A Inspecção-Geral disporá ainda do pessoal administrativo, técnico auxiliar e auxiliar constante do mapa II, anexo ao presente decreto-lei, o qual será integrado no quadro único do Ministério, nos termos do n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
@@ -268,7 +311,7 @@ Do pessoal
 
 4. O pessoal da Inspecção-Geral será distribuído pelos respectivos serviços mediante despacho do inspector-geral.
 
-###### Art. 14.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Inspecção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 14.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Inspecção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de inspector-geral do ensino particular será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, em regime de comissão de serviço, por três anos, renováveis por iguais períodos, de entre diplomados com curso superior adequado e de reconhecida competência ou de entre inspectores-gerais da Junta Nacional da Educação;
 
@@ -278,60 +321,60 @@ c) Os inspectores-orientadores de 2.ª classe serão nomeados pelo Ministro da E
 
 2. O provimento no lugar de inspector-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação.
 
-###### Art. 15.º - 1. O Ministro da Educação Nacional pode autorizar que, para o exercício de funções inspectivas e pedagógicas especificadas, sejam destacados para a Inspecção-Geral, por períodos de três anos, professores do ensino secundário ou básico, habilitados com o Exame de Estado, em número igual ao das vagas existentes no quadro de inspectores-orientadores.
+Art. 15.º - 1. O Ministro da Educação Nacional pode autorizar que, para o exercício de funções inspectivas e pedagógicas especificadas, sejam destacados para a Inspecção-Geral, por períodos de três anos, professores do ensino secundário ou básico, habilitados com o Exame de Estado, em número igual ao das vagas existentes no quadro de inspectores-orientadores.
 
 2. Aos inspectores-chefes, inspectors-orientadores e professores destacados nos termos do n.º 1 será abonada a gratificação mensal de 2000$00.
 
 3. O tempo de serviço prestado na Inspecção-Geral pelos professores a que se refere este artigo será contado como se fosse prestado nos estabelecimentos de ensino.
 
-###### Art. 16.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 16.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 17.º O inspector-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Inspecção-Geral, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+Art. 17.º O inspector-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Inspecção-Geral, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
 IV
 
 Disposições finais e transitórias
 
-###### Art. 18.º É extinta a Inspecção do Ensino Particular e integrado na Inspecção-Geral todo o material e equipamento afecto àquele serviço.
+Art. 18.º É extinta a Inspecção do Ensino Particular e integrado na Inspecção-Geral todo o material e equipamento afecto àquele serviço.
 
-###### Art. 19.º Até à publicação do novo Estatuto do Ensino Particular mantêm-se em vigor as disposições legais relativas ao ensino particular desde que não contrariem o presente diploma.
+Art. 19.º Até à publicação do novo Estatuto do Ensino Particular mantêm-se em vigor as disposições legais relativas ao ensino particular desde que não contrariem o presente diploma.
 
-###### Art. 20.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço no quadro da Inspecção do Ensino Particular será provido em lugares idênticos, ou de categoria equivalente, dos mapas anexos ao presente diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, observando-se no provimento do lugar de inspector-geral o disposto no n.º 2 do artigo 14.º
+Art. 20.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço no quadro da Inspecção do Ensino Particular será provido em lugares idênticos, ou de categoria equivalente, dos mapas anexos ao presente diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, observando-se no provimento do lugar de inspector-geral o disposto no n.º 2 do artigo 14.º
 
 2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados para a Inspecção-Geral do Ensino Particular ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
 
 3. O pessoal que actualmente presta serviço nas condições do número anterior e que não for possível prover, nos termos previstos no mesmo, transita para a Inspecção-Geral do Ensino Particular na situação em que se encontrar à data da publicação deste decreto-lei.
 
-###### Art. 21.º Os funcionários da Inspecção-Geral não poderão por si ou por interposta pessoa elaborar ou participar na elaboração de obras didácticas ou auxiliares destinadas a alunos do ensino particular ou oficial, salvo se dessa tarefa forem encarregados por despacho ministerial.
+Art. 21.º Os funcionários da Inspecção-Geral não poderão por si ou por interposta pessoa elaborar ou participar na elaboração de obras didácticas ou auxiliares destinadas a alunos do ensino particular ou oficial, salvo se dessa tarefa forem encarregados por despacho ministerial.
 
-###### Art. 22.º No prazo de cento e oitenta dias será aprovado por decreto o Regulamento da Inspecção-Geral do Ensino Particular.
+Art. 22.º No prazo de cento e oitenta dias será aprovado por decreto o Regulamento da Inspecção-Geral do Ensino Particular.
 
-###### Art. 23.º Este diploma entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 20.º
+Art. 23.º Este diploma entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 20.º
 
-###### Art. 24.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional.
+Art. 24.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 3 de Fevereiro de 1973.**
+Promulgado em 3 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA I
 
 Quadro a que se refere o n.º 1 do artigo 13.º do Decreto-Lei n.º 47/73, de 12 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/03600/02150218.pdf))](https://files.diariodarepublica.pt/1s/1973/02/03600/02150218.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02150218.pdf)
 
 MAPA II
 
 Quadro a que se refere o n.º 2 do artigo 13.º do Decreto-Lei n.º 47/73, de 12 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/03600/02150218.pdf))](https://files.diariodarepublica.pt/1s/1973/02/03600/02150218.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02150218.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

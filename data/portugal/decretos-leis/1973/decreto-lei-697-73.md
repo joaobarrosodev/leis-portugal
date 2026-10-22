@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/29900/24922494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,143 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 803e50a92f57ae94bece7c09220d29f23e7699f5dc58b6a5808c1fe5b54111a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc60d940bfb19314a2399b47798537b99c405296affbf10e75c52cdd75a36e39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Direcção Geral de Viação
+- Imposto Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:406127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461401:por
+  label: "Alterados os arts. 4º e 10º e o anexo do presente diploma, pelo DEC LEI.757/74.30.12.1974.MF, DG.IS [302] de 30.12.1974\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/757-1974-461401
+  date: '1974-12-30'
+- type: amended_by
+  target: pt:dre:506021:por
+  label: "Aditado um nº 3 ao art. 1º pelo DEC LEI.46/76.20.01.1976.MF, DG.IS [16] de 20.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1976-506021
+  date: '1976-01-20'
+- type: amended_by
+  target: pt:dre:138290:por
+  label: "Alterados os artigos 2.º e 7.º pelo DEC LEI.23/77.18.01.1977.MF, DR.IS [14] de 18.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1977-138290
+  date: '1977-01-18'
+- type: amended_by
+  target: pt:dre:252818:por
+  label: "Alterado o art. 4º, com a redacção conferida no Dec Lei 757/74 de 30-Dez, pelo DEC LEI.212/77.26.05.1977.MF, DR.IS\
+    \ [122] de 26.05.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1977-252818
+  date: '1977-05-26'
+- type: amended_by
+  target: pt:dre:295104:por
+  label: Alterados os arts. 4º e 10º do presente diploma, pela LEI.30/78.14.06.1978.AR, DR.IS [134] de 14.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-1978-295104
+  date: '1978-06-14'
+- type: amended_by
+  target: pt:dre:324876:por
+  label: "Alterados os artigos 1.º, 2.º, 7.º, 8.º e 16.º (passando o artigo 16.º a artigo 17.º), pelo DEC LEI.399/78.15.12.1978.MFP,\
+    \ DR.IS [287] de 15.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1978-324876
+  date: '1978-12-15'
+- type: amended_by
+  target: pt:dre:579296:por
+  label: "Alterados o n.º 1 do art. 1.º e o art. 9.º do presente diploma, com as alterações introduzidas pelo Decreto-Lei\
+    \ n.º 301/80, de 16-Ago. pelo DEC LEI.164/81.17.06.1981.MFP, DR.IS [137] de 17.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-1981-579296
+  date: '1981-06-17'
+- type: amended_by
+  target: pt:dre:381326:por
+  label: "Alterado o artigo 4.º, na redacção dada pelo artigo 3.º da Lei n.º 30/78, de 14 de Junho, pelo DEC LEI.488/82.28.12.1982.MFP,\
+    \ DR.IS [298]2ºSupl de 28.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/488-1982-381326
+  date: '1982-12-28'
+- type: amended_by
+  target: pt:dre:319152:por
+  label: "Alterado o art. 2º (na redação do Dec Lei 23/77, de 18-jan, e Dec Lei 399/78, de 15-dez) e revogado o art. 8º, pelo\
+    \ DEC LEI.368-B/83.04.10.1983.MFP, DR.IS [229-2ºSupl] de 04.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-b-1983-319152
+  date: '1983-10-04'
+- type: amended_by
+  target: pt:dre:178109:por
+  label: Alterado o art. 4.º pelo DEC LEI.422/85.22.10.1985.MFP, DR.IS [243] de 22.10.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/422-1985-178109
+  date: '1985-10-22'
+- type: amended_by
+  target: pt:dre:250614:por
+  label: "Alterado o artigo 1.º e revogado o anexo do presente diploma, pelo DEC LEI.504-F/85.30.12.1985.MF, DR.IS [300]4ºSupl\
+    \ de 30.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/504-f-1985-250614
+  date: '1985-12-30'
+- type: amended_by
+  target: pt:dre:663318:por
+  label: "Alterado o n.º 3 do artigo 1.º, na redacção dada pelo Decreto-Lei n.º 504-F/85, de 30 de Dezembro, pelo DEC LEI.54/87.31.01.1987.MF,\
+    \ DR.IS [26] de 31.01.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-1987-663318
+  date: '1987-01-31'
+- type: cites
+  target: pt:dre:186147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689182:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:413007:por
+  label: Rectificado o artigo 15.º pela DECL.DD9460.19.02.1974.PC, DG.IS [42] de 19.02.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-413007
+  date: '1974-02-19'
+- type: repealed_by
+  target: pt:dre:397291:por
+  label: "Revogado o n.º 2 do artigo 4.º pelo DEC LEI.308/82.02.08.1982.MFP, DR.IS [176] de 02.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1982-397291
+  date: '1982-08-02'
+- type: repealed_by
+  target: pt:dre:406127:por
+  label: "Revogado pelo DEC LEI.405/87.1987.12.31.MF, DR.IS [300]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1987-406127
+  date: '1987-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:50Z'
   warnings: []
   errors: []
 ---
@@ -115,41 +218,41 @@ O segundo condicionalismo básico a que se procurou obedecer foi o de evitar que
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição e no exercício de autorização constante da alínea b) do artigo 9.º da [Lei n.º 6/72](https://diariodarepublica.pt/dr/detalhe/lei/6-1972-186147), de 27 de Dezembro, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado um imposto sobre a venda de veículos automóveis para transporte de pessoas ou de mercadorias, quer montados em Portugal, quer importados já completos, compreendidos nas posições 87.01, com excepção dos tractores agrícolas, 87.02, 87.03 e 87.04 da Pauta de Importação.
+Artigo 1.º - 1. É criado um imposto sobre a venda de veículos automóveis para transporte de pessoas ou de mercadorias, quer montados em Portugal, quer importados já completos, compreendidos nas posições 87.01, com excepção dos tractores agrícolas, 87.02, 87.03 e 87.04 da Pauta de Importação.
 
 2. As taxas do imposto sobre a venda de veículos automóveis referido no número anterior, fixadas em função da natureza desses veículos e, no caso de veículos ligeiros, do escalão em que se encontrem compreendidos os respectivos preços de venda ao público, incidem sobre os referidos preços de venda ao público e são as constantes do anexo ao presente diploma.
 
-###### Art. 2.º - 1. A liquidação e cobrança deste imposto são processadas nas alfândegas por onde correr o respectivo despacho de importação.
+Art. 2.º - 1. A liquidação e cobrança deste imposto são processadas nas alfândegas por onde correr o respectivo despacho de importação.
 
 2. A cobrança do imposto é feita através do próprio bilhete de despacho de importação, sendo, nessa altura, emitida pelas alfândegas competente guia para produzir prova do seu pagamento junto das conservatórias do registo da propriedade automóvel, a fim de possibilitar o respectivo registo.
 
 3. A data da cobrança do imposto nunca pode ir além do prazo de um ano a contar da data do desembaraço aduaneiro do respectivo veículo.
 
-###### Art. 3.º Relativamente aos veículos automóveis classificados pelos artigos 87.02.01, 87.02.02, 87.04.01, 87.04.02, 87.04.03 e 87.04.04, os industriais que os importem, com destino a carroçamento, poderão proceder ao pagamento do imposto referido no artigo 1.º no momento em que os mesmos estejam em condições de entrarem na circulação, desde que o requeiram à Direcção-Geral das Alfândegas.
+Art. 3.º Relativamente aos veículos automóveis classificados pelos artigos 87.02.01, 87.02.02, 87.04.01, 87.04.02, 87.04.03 e 87.04.04, os industriais que os importem, com destino a carroçamento, poderão proceder ao pagamento do imposto referido no artigo 1.º no momento em que os mesmos estejam em condições de entrarem na circulação, desde que o requeiram à Direcção-Geral das Alfândegas.
 
-###### Art. 4.º No caso de ser transformada a natureza do veículo importado, esta só poderá ser legalizada na Direcção-Geral de Viação, após a comprovação do pagamento nas alfândegas da diferença resultante do montante do imposto correspondente à natureza do veículo transformado e à que efectivamente foi cobrada no momento de importação.
+Art. 4.º No caso de ser transformada a natureza do veículo importado, esta só poderá ser legalizada na Direcção-Geral de Viação, após a comprovação do pagamento nas alfândegas da diferença resultante do montante do imposto correspondente à natureza do veículo transformado e à que efectivamente foi cobrada no momento de importação.
 
-###### Art. 5.º Os automóveis usados cuja importação haja sido efectuada directamente sem intervenção das firmas representantes das respectivas marcas beneficiam da isenção ou redução nas taxas do imposto nos precisos termos em que, de harmonia com os Decretos-Leis n.os 38164, de 7 de Fevereiro de 1951, e 42281, de 25 de Maio de 1959, aproveitem da isenção ou redução nos direitos aduaneiros.
+Art. 5.º Os automóveis usados cuja importação haja sido efectuada directamente sem intervenção das firmas representantes das respectivas marcas beneficiam da isenção ou redução nas taxas do imposto nos precisos termos em que, de harmonia com os Decretos-Leis n.os 38164, de 7 de Fevereiro de 1951, e 42281, de 25 de Maio de 1959, aproveitem da isenção ou redução nos direitos aduaneiros.
 
-###### Art. 6.º As entidades importadoras dos automóveis ficam responsáveis perante o Estado pelo pagamento das taxas que lhes competir nos termos deste decreto-lei.
+Art. 6.º As entidades importadoras dos automóveis ficam responsáveis perante o Estado pelo pagamento das taxas que lhes competir nos termos deste decreto-lei.
 
-###### Art. 7.º Decorrido o prazo estabelecido no n.º 3 do artigo 2.º sem que se mostre efectuado o pagamento do imposto devido, haverá lugar à cobrança do triplo da taxa em divida.
+Art. 7.º Decorrido o prazo estabelecido no n.º 3 do artigo 2.º sem que se mostre efectuado o pagamento do imposto devido, haverá lugar à cobrança do triplo da taxa em divida.
 
-###### Art. 8.º As conservatórias do registo da propriedade automóvel não poderão em caso algum efectuar o registo de propriedade dos automóveis abrangidos por este diploma sem que lhes seja presente a competente guia comprovativa do pagamento ou documento passado pela alfândega respeitante à isenção de direitos.
+Art. 8.º As conservatórias do registo da propriedade automóvel não poderão em caso algum efectuar o registo de propriedade dos automóveis abrangidos por este diploma sem que lhes seja presente a competente guia comprovativa do pagamento ou documento passado pela alfândega respeitante à isenção de direitos.
 
-###### Art. 9.º Os preços de venda ao público serão aprovados pelo respectivo Grémio dos Importadores, Agentes e Vendedores de Automóveis e Acessórios, sob proposta dos representantes das marcas e sancionados pelo Secretário de Estado do Comércio, nos quarenta e cinco dias seguintes ao da data da apresentação da proposta.
+Art. 9.º Os preços de venda ao público serão aprovados pelo respectivo Grémio dos Importadores, Agentes e Vendedores de Automóveis e Acessórios, sob proposta dos representantes das marcas e sancionados pelo Secretário de Estado do Comércio, nos quarenta e cinco dias seguintes ao da data da apresentação da proposta.
 
-###### Art. 10.º Da cobrança das taxas referidas no presente diploma, que incidem sobre os veículos automóveis classificados pelo artigo pautal 87.02.09, metade constituirá receita geral do Estado e o restante será receita do Fundo de Fomento de Exportação.
+Art. 10.º Da cobrança das taxas referidas no presente diploma, que incidem sobre os veículos automóveis classificados pelo artigo pautal 87.02.09, metade constituirá receita geral do Estado e o restante será receita do Fundo de Fomento de Exportação.
 
-###### Art. 11.º A alínea c) do artigo 7.º do Código do Imposto de Transacções, aprovado pelo [Decreto-Lei n.º 47066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47066-1966-474922), de 1 de Julho de 1966, passa a ter a seguinte redacção:
+Art. 11.º A alínea c) do artigo 7.º do Código do Imposto de Transacções, aprovado pelo [Decreto-Lei n.º 47066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47066-1966-474922), de 1 de Julho de 1966, passa a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 ...
 
 c) Imposto sobre a venda de veículos automóveis para transporte de pessoas ou de mercadorias, classificáveis aduaneiramente pelas posições 87.01, 87.02, 87.03 e 87.04 da Pauta de Importação.
 
-###### Art. 12.º São alteradas pela forma seguinte as taxas dos artigos 87.01, 87.02.01, 87.02.02, 87.02.03, 87.02.04, 87.02.05, 87.02.06, 87.02.07, 87.02.09, 87.02.10, 87.02.11, 87.02.13, 87.02.14, 87.02.15, 87.02.16, 87.03.01, 87.03.02, 87.03.03, 87.04.01, 87.04.02, 87.04.03 e 87.04.04:
+Art. 12.º São alteradas pela forma seguinte as taxas dos artigos 87.01, 87.02.01, 87.02.02, 87.02.03, 87.02.04, 87.02.05, 87.02.06, 87.02.07, 87.02.09, 87.02.10, 87.02.11, 87.02.13, 87.02.14, 87.02.15, 87.02.16, 87.03.01, 87.03.02, 87.03.03, 87.04.01, 87.04.02, 87.04.03 e 87.04.04:
 
 87.01 ...
 
@@ -297,21 +400,21 @@ Pauta máxima - Livre.
 
 Pauta mínima - Livre.
 
-###### Art. 13.º Os novos direitos da pauta mínima fixados no artigo anterior passam a ser os direitos de base para os efeitos do estabelecido no artigo 3.º da Convenção que instituiu a Associação Europeia do Comércio Livre e no artigo 5 do Acordo entre Portugal e a Comunidade Económica Europeia, assinado em 22 de Julho de 1972.
+Art. 13.º Os novos direitos da pauta mínima fixados no artigo anterior passam a ser os direitos de base para os efeitos do estabelecido no artigo 3.º da Convenção que instituiu a Associação Europeia do Comércio Livre e no artigo 5 do Acordo entre Portugal e a Comunidade Económica Europeia, assinado em 22 de Julho de 1972.
 
-###### Art. 14.º É eliminado o elemento fiscal dos direitos aduaneiros dos artigos pautais mencionados no artigo 12.º do presente diploma fixado nos termos do artigo 6.º da Convenção que instituiu a Associação Europeia de Comércio Livre e do [Decreto-Lei n.º 86/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1970-228398), de 7 de Março, e nos termos do artigo 4 do Acordo entre Portugal e a Comunidade Económica Europeia.
+Art. 14.º É eliminado o elemento fiscal dos direitos aduaneiros dos artigos pautais mencionados no artigo 12.º do presente diploma fixado nos termos do artigo 6.º da Convenção que instituiu a Associação Europeia de Comércio Livre e do [Decreto-Lei n.º 86/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1970-228398), de 7 de Março, e nos termos do artigo 4 do Acordo entre Portugal e a Comunidade Económica Europeia.
 
-###### Art. 15.º São revogados os Decretos n.os 37538, de 2 de Setembro de 1949, 38208, de 16 de Março de 1951, 39503, de 31 de Dezembro de 1953, 43770, de 30 de Junho de 1961, e o artigo 19.º do [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), de 28 de Dezembro.
+Art. 15.º São revogados os Decretos n.os 37538, de 2 de Setembro de 1949, 38208, de 16 de Março de 1951, 39503, de 31 de Dezembro de 1953, 43770, de 30 de Junho de 1961, e o artigo 19.º do [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), de 28 de Dezembro.
 
-###### Art. 16.º O presente diploma entra em vigor em 1 de Janeiro de 1974.
+Art. 16.º O presente diploma entra em vigor em 1 de Janeiro de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 17 de Dezembro de 1973.**
+Promulgado em 17 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO
 
@@ -397,4 +500,4 @@ Mais de 400000$00 ... 100%
 
 04 ... 3$50/kg
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

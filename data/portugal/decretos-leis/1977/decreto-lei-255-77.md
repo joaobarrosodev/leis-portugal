@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13700/14501451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1977-253394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb7f2eb98eeb2ed080cc7ce33a35a5759ffbfc3e837f9d31aac8d6cb787a3561
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a595513e6226fd8c4711810ceec3fe5903715c3a7690a3255f5f57055fdc3ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão Liquidatária
+- Docapesca-sociedade Concessionária da DOCA de Pesca
+- Grémio
+- Lota
+- Peixe
+- Pesca
+- Pescado
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:449941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:256206:por
+  label: "Alterado o art. 1º pelo DEC LEI.339/77.18.08.1977.MAP, DR.IS [190] de 18.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1977-256206
+  date: '1977-08-18'
+- type: amended_by
+  target: pt:dre:378945:por
+  label: "Alterado o art. 1º, com a redacção dada pelo Dec Lei 174/79 de 07-Jun pelo DEC LEI.307/79.20.08.1979.PCM, DR.IS\
+    \ [191] de 20.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1979-378945
+  date: '1979-08-20'
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:250438:por
+  label: "Rectificado pela RECT.DD108.12.07.1977.PCM, DR.IS [159] de 12.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-250438
+  date: '1977-07-12'
+- type: repealed_by
+  target: pt:dre:547844:por
+  label: "Revogado a partir de 21.04.2005 o presente diploma, com as alterações introduzidas pelos Dec Lei 339/77, de 18-Ago,\
+    \ 174/79, de 07-Jun e 307/79, de 20-Ago, pelo DEC LEI.81/2005.20.04.2005.MAPF, DR.IS-A [77] de 20.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2005-547844
+  date: '2005-04-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:53Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +148,7 @@ De acordo com o consignado na Lei do Plano para 1977, entre as medidas globais p
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São alteradas e uniformizadas, a nível de todo o território nacional, as taxas de prestação do serviço de primeira venda do pescado proveniente das actividades da pesca costeira para os valores que se passam a discriminar:
+Artigo 1.º - 1. São alteradas e uniformizadas, a nível de todo o território nacional, as taxas de prestação do serviço de primeira venda do pescado proveniente das actividades da pesca costeira para os valores que se passam a discriminar:
 
 a) A liquidar pelos proprietários do pescado, em função do valor de venda ou de avaliação em lota:
 
@@ -135,20 +170,20 @@ b) A liquidar pelos compradores em função do valor do pescado transaccionado e
 
 5. As taxas de prestação de serviço previstas no presente diploma não incluem a cobrança feita a entidades, ou para entidades, nele não designadas.
 
-###### Art. 2.º São extintas as taxas gremiais, devendo as receitas obtidas pela aplicação das novas taxas ser afectas ao pagamento dos serviços de lotas e vendagens e dos dependentes da Comissão Liquidatária dos Grémios da Pesca.
+Art. 2.º São extintas as taxas gremiais, devendo as receitas obtidas pela aplicação das novas taxas ser afectas ao pagamento dos serviços de lotas e vendagens e dos dependentes da Comissão Liquidatária dos Grémios da Pesca.
 
-###### Art. 3.º Até que seja criada a estrutura definitiva dos serviços de lotas e vendagens, ficam as suas secções autorizadas a cobrar receitas provenientes das taxas de prestação de serviço, a proceder ao pagamento das despesas inerentes ao seu funcionamento e a efectuar a sua contabilização.
+Art. 3.º Até que seja criada a estrutura definitiva dos serviços de lotas e vendagens, ficam as suas secções autorizadas a cobrar receitas provenientes das taxas de prestação de serviço, a proceder ao pagamento das despesas inerentes ao seu funcionamento e a efectuar a sua contabilização.
 
-###### Art. 4.º - 1. Só serão permitidas vendas de pescado a crédito aos compradores que apresentem garantia bancária correspondente.
+Art. 4.º - 1. Só serão permitidas vendas de pescado a crédito aos compradores que apresentem garantia bancária correspondente.
 
 2. Os pescadores do pescado terão noventa dias, contados a partir da data da publicação do presente decreto-lei, para regularizarem a situação dessas garantias.
 
-###### Art. 5.º O Secretário de Estado das Pescas procederá, por via de despacho, a regulamentação necessária à execução do presente diploma.
+Art. 5.º O Secretário de Estado das Pescas procederá, por via de despacho, a regulamentação necessária à execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Carlos Ribeiro Campos.
 
-**Promulgado em 31 de Maio de 1977.**
+Promulgado em 31 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

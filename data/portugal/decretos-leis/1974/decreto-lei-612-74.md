@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 264/1974, 1º Suplemento, Série I de 1974-11-13
   number: '264'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1368-(1) a 1368-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/26401/00010017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1974-271792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afd82694005b83768826a73fe18604acf3e80941cb946d8c7d648b2f8ef04a2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7658e8b04355b31e0f0a295219bb41ff9adab52784400b2b266d95bbd420f1bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada a não vigência do presente diploma pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS [115] de 16.06.2011, nos\
+    \ termos do seu art. 1.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536234:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382993:por
+  label: "Revogado pelo DEC LEI.70/79.31.03.1979.MNE, DR.IS [76] de 31.03.1979, salvo no respeitante aos modelos anexos, que\
+    \ se consideram parte integrante do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1979-382993
+  date: '1979-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:35Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +118,9 @@ Considerando a necessidade de regular a atribuição de passaportes especiais de
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os passaportes diplomáticos e os passaportes especiais de serviço são emitidos pelos Serviços do Protocolo do Ministério dos Negócios Estrangeiros e pelas missões diplomáticas no estrangeiro, de acordo com as disposições contidas no presente diploma.
+Artigo 1.º Os passaportes diplomáticos e os passaportes especiais de serviço são emitidos pelos Serviços do Protocolo do Ministério dos Negócios Estrangeiros e pelas missões diplomáticas no estrangeiro, de acordo com as disposições contidas no presente diploma.
 
-###### Art. 2.º - 1. São titulares de passaporte diplomático:
+Art. 2.º - 1. São titulares de passaporte diplomático:
 
 a) O Chefe do Estado;
 
@@ -116,7 +138,7 @@ f) Os funcionários do quadro do pessoal especializado do Ministério dos Negóc
 
 3. Competirá ao secretário-geral do Ministério dos Negócios Estrangeiros decidir quais os casos em que os funcionários do serviço diplomático na situação de disponibilidade, de licença ilimitada ou de aposentação e respectivos familiares devem beneficiar da concessão de passaporte diplomático.
 
-###### Art. 3.º - 1. Podem ser concedidos passaportes diplomáticos às entidades seguintes:
+Art. 3.º - 1. Podem ser concedidos passaportes diplomáticos às entidades seguintes:
 
 a) Correios de gabinete;
 
@@ -134,7 +156,7 @@ g) Secretários-gerais dos Ministérios, quando em missão oficial.
 
 2. Podem igualmente ser concedidos passaportes diplomáticos aos cônjuges das entidades referidas nas alíneas a), b), c), e), f) e g) do número anterior, quando com eles tenham de viajar.
 
-###### Art. 4.º - 1. Podem ser concedidos passaportes especiais de serviço às seguintes entidades:
+Art. 4.º - 1. Podem ser concedidos passaportes especiais de serviço às seguintes entidades:
 
 a) Às entidades encarregadas pelo Ministério dos Negócios Estrangeiros de uma missão extraordinária de serviço público no estrangeiro não abrangidas pelos casos expressamente definidos nos artigos 2.º e 3.º do presente diploma;
 
@@ -146,9 +168,9 @@ d) Aos funcionários do quadro auxiliar das embaixadas e consulados de Portugal 
 
 2. Podem, igualmente, ser expedidos passaportes especiais de serviço em favor das pessoas de família dos funcionários referidos nas alíneas b), c) e d) do número anterior, nos termos do § 1.º do artigo 146.º do Regulamento do Ministério dos Negócios Estrangeiros, quando com eles vivam ou com eles tenham de viajar.
 
-###### Art. 5.º Poderá excepcionalmente o Ministro dos Negócios Estrangeiros, quando as circunstâncias o justifiquem, autorizar, por despacho, a emissão de passaportes diplomáticos ou de serviço a outras entidades além das referidas nos artigos 2.º, 3.º e 4.º
+Art. 5.º Poderá excepcionalmente o Ministro dos Negócios Estrangeiros, quando as circunstâncias o justifiquem, autorizar, por despacho, a emissão de passaportes diplomáticos ou de serviço a outras entidades além das referidas nos artigos 2.º, 3.º e 4.º
 
-###### Art. 6.º - 1. Os passaportes diplomáticos e de serviço obedecerão aos modelos anexos ao presente diploma.
+Art. 6.º - 1. Os passaportes diplomáticos e de serviço obedecerão aos modelos anexos ao presente diploma.
 
 2. Além de conterem coladas as fotografias das pessoas a que respeitem e autenticados com o selo branco da entidade que os emitiu, os passaportes deverão mencionar:
 
@@ -166,13 +188,13 @@ f) O prazo de validade;
 
 g) O número de registo.
 
-###### Art. 7.º - 1. Os passaportes diplomáticos referidos no artigo 2.º e os passaportes especiais de serviço referidos nas alíneas b), c) e d) do n.º 1 do artigo 4.º terão a validade de um ano, sucessivamente prorrogável por iguais períodos de tempo.
+Art. 7.º - 1. Os passaportes diplomáticos referidos no artigo 2.º e os passaportes especiais de serviço referidos nas alíneas b), c) e d) do n.º 1 do artigo 4.º terão a validade de um ano, sucessivamente prorrogável por iguais períodos de tempo.
 
 2. Os passaportes diplomáticos referidos no artigo 3.º e os passaportes especiais de serviço referidos na alínea a) do n.º 1 do artigo 4.º terão a validade correspondente à duração provável da missão para que foram nomeados os respectivos titulares.
 
 3. A revalidação, por novo prazo, dos passaportes referidos nos números anteriores é feita com as formalidades estabelecidas para a sua emissão e tem os mesmos efeitos.
 
-###### Art. 8.º - 1. A expedição de passaportes diplomáticos e de passaportes especiais de serviço depende de visto prévio ou de autorização da entidade competente, mediante requisição do interessado.
+Art. 8.º - 1. A expedição de passaportes diplomáticos e de passaportes especiais de serviço depende de visto prévio ou de autorização da entidade competente, mediante requisição do interessado.
 
 2. A expedição de passaportes diplomáticos a favor das entidades referidas no artigo 2.º será feita sob simples visto do Ministro ou do secretário-geral do Ministério dos Negócios Estrangeiros e, nas embaixadas, dos embaixadores respectivos, aposto em requisição assinada pelo interessado.
 
@@ -182,24 +204,24 @@ g) O número de registo.
 
 5. Sempre que nas embaixadas forem expedidos passaportes nos termos deste diploma, será o facto comunicado imediatamente à Secretaria-Geral do Ministério; os Serviços do Protocolo dar-lhes-á baixa nos livros a que se refere o artigo seguinte, depois de verificar a legalidade da emissão; não se tendo nesta observado os termos da lei, será o passaporte anulado e mandado apreender imediatamente.
 
-###### Art. 9.º A expedição de passaportes será lançada em livros próprios; os passaportes que o Ministério fornecer às embaixadas serão devidamente numerados e rubricados pelo chefe do protocolo do Estado, ficando o seu lugar em aberto nos livros acima referidos.
+Art. 9.º A expedição de passaportes será lançada em livros próprios; os passaportes que o Ministério fornecer às embaixadas serão devidamente numerados e rubricados pelo chefe do protocolo do Estado, ficando o seu lugar em aberto nos livros acima referidos.
 
-###### Art. 10.º As entidades referidas no artigo 3.º e na alínea a) do n.º 1 do artigo 4.º devolverão sempre aos serviços emitentes os passaportes de que tiverem feito uso finda a missão para que foram designados.
+Art. 10.º As entidades referidas no artigo 3.º e na alínea a) do n.º 1 do artigo 4.º devolverão sempre aos serviços emitentes os passaportes de que tiverem feito uso finda a missão para que foram designados.
 
-###### Art. 11.º Serão apreendidos pelas autoridades a quem forem apresentados os passaportes que não satisfizerem o preceituado no presente diploma e aqueles cujo prazo de validade houver expirado; logo em seguida, serão enviados ao Ministério dos Negócios Estrangeiros.
+Art. 11.º Serão apreendidos pelas autoridades a quem forem apresentados os passaportes que não satisfizerem o preceituado no presente diploma e aqueles cujo prazo de validade houver expirado; logo em seguida, serão enviados ao Ministério dos Negócios Estrangeiros.
 
-###### Art. 12.º Cessam a sua validade no prazo de sessenta dias, a contar da publicação deste decreto-lei, todos os passaportes diplomáticos actualmente expedidos.
+Art. 12.º Cessam a sua validade no prazo de sessenta dias, a contar da publicação deste decreto-lei, todos os passaportes diplomáticos actualmente expedidos.
 
-###### Art. 13.º Fica revogado o [Decreto-Lei n.º 25911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25911-1935-536234), de 7 de Outubro de 1935.
+Art. 13.º Fica revogado o [Decreto-Lei n.º 25911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25911-1935-536234), de 7 de Outubro de 1935.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Soares.
 
-**Promulgado em 25 de Outubro de 1974.**
+Promulgado em 25 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/26401/00010017.pdf))](https://files.diariodarepublica.pt/1s/1974/11/26401/00010017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/26401/00010017.pdf)
 
-**O Ministro dos Negócios Estrangeiros, Mário Soares.**
+O Ministro dos Negócios Estrangeiros, Mário Soares.

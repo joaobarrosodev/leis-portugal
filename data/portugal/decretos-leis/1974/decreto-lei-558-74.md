@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1974-471371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65c42871e82e379e42f8ff2678238f5184dac11b10c53c0a0f6c2a0d31dff370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ee99f55d5a69dd1c015716cb0cc74d0fc669b0adcc83af03d2471586afa83a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emolumento
+- GNR
+- Guarda Fiscal
+- Imposto do SELO
+- Sargento
+relationships:
+- type: cites
+  target: pt:dre:676053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:00Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +106,14 @@ Considerando que é igualmente justa a aplicação de isenção do pagamento de 
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam isentas do pagamento do imposto do selo e de emolumentos as licenças para ausência do País dos sargentos e praças da Guarda Nacional Republicana e Guarda Fiscal nas situações de activo ou reforma.
+Artigo 1.º Ficam isentas do pagamento do imposto do selo e de emolumentos as licenças para ausência do País dos sargentos e praças da Guarda Nacional Republicana e Guarda Fiscal nas situações de activo ou reforma.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
 
-**Promulgado em 8 de Outubro de 1974.**
+Promulgado em 8 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

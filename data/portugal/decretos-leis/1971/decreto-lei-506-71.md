@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1971-631782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a6ccd91343866d45493b0a1808c046792c02b63ba62556131a3e281738098c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9769ec3bd3ba12645de5a74a53a1bf59c0510ba6be12c5d2387bfa108cf4c1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do Imposto de Mais-valias
+- Embarcação
+- Emissão de Títulos
+- Imposto de Mais-Valias
+- Mais-Valias
+- Material Ferroviário
+- Sociedade Anónima
+- Sociedade em Comandita
+- Sociedade por Quotas
+- Tributação
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:294899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689181:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:52Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +115,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São eliminados o § único do artigo 14.º, §§ 1.º e 2.º do artigo 21.º, os §§ 1.º e 2.º do artigo 22.º e os §§ 1.º e 2.º do artigo 58.º do Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, e os seus artigos 1.º, 3.º, 5.º, 14.º, 19.º, 21.º, 22.º, 23.º, 24.º 32.º, 40.º e 41.º passam a ter a redacção seguinte:
+Artigo 1.º São eliminados o § único do artigo 14.º, §§ 1.º e 2.º do artigo 21.º, os §§ 1.º e 2.º do artigo 22.º e os §§ 1.º e 2.º do artigo 58.º do Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, e os seus artigos 1.º, 3.º, 5.º, 14.º, 19.º, 21.º, 22.º, 23.º, 24.º 32.º, 40.º e 41.º passam a ter a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -106,7 +125,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º ...
 
@@ -122,7 +141,7 @@ e) Os alvarás consideram-se situados no local onde é exercida a actividade a q
 
 ...
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 ...
 
@@ -130,11 +149,11 @@ e) Os alvarás consideram-se situados no local onde é exercida a actividade a q
 
 ...
 
-###### Art. 14.º Para efeitos da alínea d) do artigo 2.º haver-se-á como valor das acções emitidas o que resultar da cotação média na Bolsa nos últimos seis meses ou, não havendo cotação, o produto de dezasseis vezes o dividendo que caberia àquelas acções, o qual será determinado ou pelo dividendo distribuído no ano anterior ou, no caso de transformação de sociedades por quotas em sociedades anónimas, pelo lucro que correspondeu a idêntico capital nominal.
+Art. 14.º Para efeitos da alínea d) do artigo 2.º haver-se-á como valor das acções emitidas o que resultar da cotação média na Bolsa nos últimos seis meses ou, não havendo cotação, o produto de dezasseis vezes o dividendo que caberia àquelas acções, o qual será determinado ou pelo dividendo distribuído no ano anterior ou, no caso de transformação de sociedades por quotas em sociedades anónimas, pelo lucro que correspondeu a idêntico capital nominal.
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 ...
 
@@ -142,60 +161,60 @@ e) Os alvarás consideram-se situados no local onde é exercida a actividade a q
 
 ...
 
-###### Art. 21.º Os contribuintes tributados em contribuição industrial pelo grupo B apresentarão sempre, com a declaração referida nos artigos 55.º e 58.º do Código da Contribuição Industrial, uma declaração modelo n.º2, na qual mencionarão a importância das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
+Art. 21.º Os contribuintes tributados em contribuição industrial pelo grupo B apresentarão sempre, com a declaração referida nos artigos 55.º e 58.º do Código da Contribuição Industrial, uma declaração modelo n.º2, na qual mencionarão a importância das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
 
-###### Art. 22.º Os contribuintes tributados em contribuição industrial pelo grupo C deverão apresentar, até 10 de Janeiro, ou, no caso de cessação do exercício da actividade dentro do prazo a que se refere o artigo 62.º do Código da Contribuição Industrial, na repartição de finanças competente para liquidar esta contribuição, uma declaração modelo n.º 2, na qual mencionarão a importância das mais-valias realizadas e das menos-valias sofridas no ano a que a declaração respeita em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
+Art. 22.º Os contribuintes tributados em contribuição industrial pelo grupo C deverão apresentar, até 10 de Janeiro, ou, no caso de cessação do exercício da actividade dentro do prazo a que se refere o artigo 62.º do Código da Contribuição Industrial, na repartição de finanças competente para liquidar esta contribuição, uma declaração modelo n.º 2, na qual mencionarão a importância das mais-valias realizadas e das menos-valias sofridas no ano a que a declaração respeita em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
 
-###### Art. 23.º As sociedades anónimas, em comandita por acções ou por quotas que queiram proceder a aumentos do capital, mediante incorporação de fundos de reserva ou emissão de acções com reserva de preferência participá-lo-ão ao chefe da repartição de finanças do concelho ou bairro onde tiverem a sua sede, em impresso modelo n.º 3, para efeito da liquidação do imposto, se for devido.
+Art. 23.º As sociedades anónimas, em comandita por acções ou por quotas que queiram proceder a aumentos do capital, mediante incorporação de fundos de reserva ou emissão de acções com reserva de preferência participá-lo-ão ao chefe da repartição de finanças do concelho ou bairro onde tiverem a sua sede, em impresso modelo n.º 3, para efeito da liquidação do imposto, se for devido.
 
 § único. São igualmente obrigadas ao disposto neste artigo as sociedades por quotas que pretendam transformar-se em anónimas e aumentar o capital social, quando se reserve direito de preferência na subscrição das acções.
 
-###### Art. 24.º A participação a que se refere o artigo anterior deverá ser acompanhada de um exemplar do balanço e outro da conta de ganhos e perdas, devidamente discriminados, e ambos relativos ao exercício findo, antes da deliberação da assembleia geral, bem como de uma pública-forma da acta que desta houver sido lavrada.
+Art. 24.º A participação a que se refere o artigo anterior deverá ser acompanhada de um exemplar do balanço e outro da conta de ganhos e perdas, devidamente discriminados, e ambos relativos ao exercício findo, antes da deliberação da assembleia geral, bem como de uma pública-forma da acta que desta houver sido lavrada.
 
 § único. No caso de emissão de acções com reserva de preferência, a participação será também acompanhada de uma certidão do síndico da Bolsa donde conste a cotação média das acções nos últimos seis meses.
 
 ...
 
-###### Art. 32.º Liquidado o imposto pelas mais-valias a que respeita o n.º 4.º do artigo 1.º, será notificada a sociedade para o pagar no prazo de quinze dias, observando-se, na falta de pagamento, o disposto no § 3.º do artigo 30.º
+Art. 32.º Liquidado o imposto pelas mais-valias a que respeita o n.º 4.º do artigo 1.º, será notificada a sociedade para o pagar no prazo de quinze dias, observando-se, na falta de pagamento, o disposto no § 3.º do artigo 30.º
 
 § único. ...
 
 ...
 
-###### Art. 40.º Sem que se mostre estar pago ou não ser devido o respectivo imposto, os notários, ainda que privativos, não poderão lavrar escrituras donde constem aumentos do capital de sociedades anónimas, em comandita por acções ou por quotas, operadas mediante incorporação de fundos de reserva ou emissão de acções com reserva de preferência.
+Art. 40.º Sem que se mostre estar pago ou não ser devido o respectivo imposto, os notários, ainda que privativos, não poderão lavrar escrituras donde constem aumentos do capital de sociedades anónimas, em comandita por acções ou por quotas, operadas mediante incorporação de fundos de reserva ou emissão de acções com reserva de preferência.
 
 § único. A proibição referida neste artigo é extensiva às escrituras donde conste a transformação de sociedades por quotas em sociedades anónimas com aumento de capital, quando se reserve o direito de preferência na subscrição das acções.
 
-###### Art. 41.º Até ao dia 15 de cada mês os notários enviarão às repartições de finanças competentes para liquidar o imposto a que respeita o n.º 4.º do artigo 1.º relações modelo n.º 5, donde constem todas as escrituras, celebradas no mês anterior, de aumento de capital de sociedades anónimas, em comandita por acções ou por quotas, quando realizado mediante incorporação de fundos de reserva ou emissão de acções com reserva de preferência.
+Art. 41.º Até ao dia 15 de cada mês os notários enviarão às repartições de finanças competentes para liquidar o imposto a que respeita o n.º 4.º do artigo 1.º relações modelo n.º 5, donde constem todas as escrituras, celebradas no mês anterior, de aumento de capital de sociedades anónimas, em comandita por acções ou por quotas, quando realizado mediante incorporação de fundos de reserva ou emissão de acções com reserva de preferência.
 
 § único. Das relações modelo n.º 5 constarão também as escrituras que respeitem à transformação de sociedades por quotas em sociedades anónimas, com aumento de capital, quando se reserve direito de preferência na subscrição das acções.
 
-###### Art. 2.º São aditados ao Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, os artigos 22.º-A, 33.º-A e 46.º-A, com a redacção seguinte:
+Art. 2.º São aditados ao Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, os artigos 22.º-A, 33.º-A e 46.º-A, com a redacção seguinte:
 
-###### Art. 22.º-A. As entidades não sujeitas a contribuição industrial ou dela isentas, mas não isentas do imposto de mais-valias a que se refere o n.º 2.º do artigo 1.º, apresentarão, até 15 de Abril do ano seguinte ao da alienação dos bens, ou, no caso de cessação do exercício da actividade, dentro dos quinze dias seguintes à data em que ela se verificou, na repartição de finanças que seria competente para liquidar a contribuição industrial se esta fosse devida, a declaração modelo n.º 2.
+Art. 22.º-A. As entidades não sujeitas a contribuição industrial ou dela isentas, mas não isentas do imposto de mais-valias a que se refere o n.º 2.º do artigo 1.º, apresentarão, até 15 de Abril do ano seguinte ao da alienação dos bens, ou, no caso de cessação do exercício da actividade, dentro dos quinze dias seguintes à data em que ela se verificou, na repartição de finanças que seria competente para liquidar a contribuição industrial se esta fosse devida, a declaração modelo n.º 2.
 
 § único. Se o contribuinte tiver domicílio ou sede fora do território do continente e ilhas adjacentes e não possuir neste território instalações comerciais ou industriais nem representação permanente, será a declaração apresentada na Repartição de Finanças do 3.º Bairro Fiscal de Lisboa.
 
-###### Art. 33.º-A. O imposto pago correspondente a entidades que devam beneficiar de isenção será restituído à sociedade, mediante título de anulação, desde que ela o requeira ao Ministro das Finanças, no prazo de trinta dias, contados da data da escritura do aumento de capital.
+Art. 33.º-A. O imposto pago correspondente a entidades que devam beneficiar de isenção será restituído à sociedade, mediante título de anulação, desde que ela o requeira ao Ministro das Finanças, no prazo de trinta dias, contados da data da escritura do aumento de capital.
 
 § único, O requerimento será obrigatòriamente acompanhado de uma relação das entidades isentas, com indicação da parte do aumento de capital que a cada uma delas coube, e das declarações a que se refere o § único do artigo 5.º
 
-###### Art. 46.º-A. A falta de apresentação das participações exigidas pelos artigos 18.º e 23.º antes de efectuadas as transmissões, os traspasses ou as escrituras de aumento de capital será punida com multa igual ao imposto devido, com o mínimo de 500$00.
+Art. 46.º-A. A falta de apresentação das participações exigidas pelos artigos 18.º e 23.º antes de efectuadas as transmissões, os traspasses ou as escrituras de aumento de capital será punida com multa igual ao imposto devido, com o mínimo de 500$00.
 
 § único. Não sendo devido imposto aplicar-se-á sempre o mínimo da multa.
 
-###### Art. 3.º (transitório). A alteração do artigo 19.º aplicar-se-á às mais-valias realizadas e às menos-valias sofridas posteriormente a 31 de Dezembro de 1965, ainda não determinadas à data da entrada em vigor deste diploma.
+Art. 3.º (transitório). A alteração do artigo 19.º aplicar-se-á às mais-valias realizadas e às menos-valias sofridas posteriormente a 31 de Dezembro de 1965, ainda não determinadas à data da entrada em vigor deste diploma.
 
-###### Art. 4.º (transitório). As alterações do artigo 22.º e o artigo 22.º-A aplicar-se-ão, na parte que respeita a cessação de actividade, às que ocorrerem posteriormente à entrada em vigor deste diploma.
+Art. 4.º (transitório). As alterações do artigo 22.º e o artigo 22.º-A aplicar-se-ão, na parte que respeita a cessação de actividade, às que ocorrerem posteriormente à entrada em vigor deste diploma.
 
-###### Art. 5.º (transitório). As alterações relativas às emissões de acções com reserva de preferência aplicar-se-ão apenas aos aumentos de capital deliberados após a entrada em vigor deste diploma.
+Art. 5.º (transitório). As alterações relativas às emissões de acções com reserva de preferência aplicar-se-ão apenas aos aumentos de capital deliberados após a entrada em vigor deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Novembro de 1971.**
+Promulgado em 11 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08200/08380838.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1982-607135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1038a103da1439fac85aa81e81e93209ac08180bea5147ccc23ecb7bdae21455
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7a8d4c35033baa9d1fbb5b0e917be73ef52949ea303e7bc9c163c952f2e9250
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia de Seguros
+- Instituto Nacional de Seguros
+- Receita Própria
+- Seguro
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:294731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448542:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:24Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +126,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O montante correspondente à taxa a favor do Instituto Nacional de Seguros a que se refere a [Lei n.º 5/78](https://diariodarepublica.pt/dr/detalhe/lei/5-1978-448542), de 6 de Fevereiro, deve ser depositado pelas seguradoras, em 2 prestações, a serem realizadas durante os meses de Janeiro e de Julho de cada ano, na Caixa Geral de Depósitos, em «Depósitos obrigatórios», à ordem do Instituto Nacional de Seguros.
+Artigo 1.º O montante correspondente à taxa a favor do Instituto Nacional de Seguros a que se refere a [Lei n.º 5/78](https://diariodarepublica.pt/dr/detalhe/lei/5-1978-448542), de 6 de Fevereiro, deve ser depositado pelas seguradoras, em 2 prestações, a serem realizadas durante os meses de Janeiro e de Julho de cada ano, na Caixa Geral de Depósitos, em «Depósitos obrigatórios», à ordem do Instituto Nacional de Seguros.
 
-###### Art. 2.º Compete ao Instituto Nacional de Seguros a emissão de normas que permitam uma correcta execução por parte das seguradoras do disposto no artigo anterior.
+Art. 2.º Compete ao Instituto Nacional de Seguros a emissão de normas que permitam uma correcta execução por parte das seguradoras do disposto no artigo anterior.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 131/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1978-294731), de 5 de Junho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 63/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1981-389459), de 3 de Abril.
+Art. 3.º É revogado o [Decreto-Lei n.º 131/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1978-294731), de 5 de Junho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 63/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1981-389459), de 3 de Abril.
 
-###### Art. 4.º O presente decreto-lei produz efeitos a partir de 1 de Janeiro de 1982.
+Art. 4.º O presente decreto-lei produz efeitos a partir de 1 de Janeiro de 1982.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

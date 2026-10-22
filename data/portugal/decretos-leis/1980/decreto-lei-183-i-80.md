@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 132/1980, 2º Suplemento, Série I de 1980-06-09
   number: '132'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1364-(61) a 1364-(63)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-i-1980-324954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 707892afe31ca1234d4b6ee75957ba0adbcefbbbe0cd350aad8286564fcef3ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d4deb28aaaf573fd0d4ecf8669df4e536a96583cd257afd545ff42c66104c70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto sobre Veículos
+- Regulamento do Imposto sobre Veículos
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:383385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:471948:por
+  label: Rectificado pela DECL.DD6964.12.07.1980.PCM, DR.IS [159] de 12.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471948
+  date: '1980-07-12'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:26Z'
   warnings: []
   errors: []
 ---
@@ -103,33 +128,33 @@ Nestes termos:
 
 Ao abrigo do disposto no artigo 21.º, n.º 2, da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditados os artigos 14.º-A e 24.º-A ao Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, sendo dada nova redacção aos artigos 8.º, 9.º, e 25.º do mesmo Regulamento, nos termos seguintes:
+Artigo 1.º São aditados os artigos 14.º-A e 24.º-A ao Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, sendo dada nova redacção aos artigos 8.º, 9.º, e 25.º do mesmo Regulamento, nos termos seguintes:
 
-###### Art. 8.º - 1 - As taxas do imposto são as constantes das seguintes tabelas:
+Art. 8.º - 1 - As taxas do imposto são as constantes das seguintes tabelas:
 
 TABELA I
 
 Automóveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
 
 TABELA II
 
 Motociclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
 
 TABELA III
 
 Aeronaves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
 
 TABELA IV
 
 Barcos de recreio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00610063.pdf)
 
 2 - ...
 
@@ -139,7 +164,7 @@ Barcos de recreio
 
 5 - ...
 
-###### Art. 9.º - 1 - O imposto será liquidado e pago nos prazos e condições a estabelecer anualmente por portaria do Ministro das Finanças e do Plano ou quando começar o uso ou fruição dos veículos, se estes factos ocorrerem posteriormente ao prazo fixado para o respectivo ano, nos termos seguintes:
+Art. 9.º - 1 - O imposto será liquidado e pago nos prazos e condições a estabelecer anualmente por portaria do Ministro das Finanças e do Plano ou quando começar o uso ou fruição dos veículos, se estes factos ocorrerem posteriormente ao prazo fixado para o respectivo ano, nos termos seguintes:
 
 a) ...
 
@@ -153,13 +178,13 @@ b) ...
 
 ...
 
-###### Art. 14.º-A. Os elementos comprovativos do pagamento do imposto ou da sua isenção, a que se referem os artigos 13.º e 14.º, respeitantes ao ano anterior, deverão ser mantidos nas condições estabelecidas neste Regulamento até à data do cumprimento das correspondentes obrigações do próprio ano.
+Art. 14.º-A. Os elementos comprovativos do pagamento do imposto ou da sua isenção, a que se referem os artigos 13.º e 14.º, respeitantes ao ano anterior, deverão ser mantidos nas condições estabelecidas neste Regulamento até à data do cumprimento das correspondentes obrigações do próprio ano.
 
 ...
 
-###### Art. 24.º-A. A inobservância do disposto no artigo 14.º-A será punida, consoante os casos, nos termos dos artigos 17.º e seguintes.
+Art. 24.º-A. A inobservância do disposto no artigo 14.º-A será punida, consoante os casos, nos termos dos artigos 17.º e seguintes.
 
-###### Art. 25.º - 1 - ...
+Art. 25.º - 1 - ...
 
 2 - ...
 
@@ -177,8 +202,8 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Junho de 1980.**
+Promulgado em 2 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

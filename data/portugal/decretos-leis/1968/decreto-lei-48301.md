@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48301-1968-234972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 223d6defc44cc971c5a5fee01ce511b1b2bb744b596820f072575773f167cc8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d673b03d99ae4c9ff2adc923e46c8e8f328dda698891f2ce667594cf87f1854f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Centro de Estudos e Planeamento
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Orgânica
+- Presidência do Conselho
+- Quadro de Pessoal
+- Receita Própria
+- Receita Pública
+- Secretariado Técnico da Presidência do Conselho
 relationships:
 - type: amended_by
   target: pt:dre:457463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457463:por
+  label: Integrado no Instituto de Análise da Conjuntura e Estudos de Planeamento (IACEP) o Centro de Estudos de Planeamento
+    (CEP), criado pelo presente diploma, pelo(a) Decreto-Lei n.º 526/80 - Diário da República n.º 256/1980, Série I de 1980-11-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1980-457463
+  date: '1980-11-05'
+- type: cites
+  target: pt:dre:401694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252851:por
+  label: Revogadas todas as disposições contrárias ou inconciliáveis do presente diploma com o disposto no DEC LEI.216/77.1977.05.27.MPCE
+    DR.IS [123]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1977-252851
+  date: '1977-05-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:47Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +142,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Junto do Secretariado Técnico da Presidência do Conselho é criado o Centro de Estudos de Planeamento, com o fim de promover e realizar estudos de base que interessem ao planeamento do desenvolvimento económico e social em todo o espaço português ou visem ao aperfeiçoamento das técnicas de programação.
+Artigo 1.º - 1. Junto do Secretariado Técnico da Presidência do Conselho é criado o Centro de Estudos de Planeamento, com o fim de promover e realizar estudos de base que interessem ao planeamento do desenvolvimento económico e social em todo o espaço português ou visem ao aperfeiçoamento das técnicas de programação.
 
 2. Além dos estudos promovidos por iniciativa própria ou determinação superior, o Centro poderá realizar os que lhe forem encomendados por entidades públicas ou particulares em matérias das suas atribuições.
 
-###### Art. 2.º O Centro terá autonomia administrativa e financeira e será gerido por um conselho orientador e uma direcção.
+Art. 2.º O Centro terá autonomia administrativa e financeira e será gerido por um conselho orientador e uma direcção.
 
-###### Art. 3.º O conselho orientador é constituído pelo director-geral e pelo director de Planeamento do Secretariado Técnico, pelo director do Centro e por quatro vogais designados pelo Presidente do Conselho, por biénios, de entre personalidades com experiência de planeamento em organismos públicos ou privados ou em centros universitários.
+Art. 3.º O conselho orientador é constituído pelo director-geral e pelo director de Planeamento do Secretariado Técnico, pelo director do Centro e por quatro vogais designados pelo Presidente do Conselho, por biénios, de entre personalidades com experiência de planeamento em organismos públicos ou privados ou em centros universitários.
 
-###### Art. 4.º A direcção é constituída por um director e dois vogais nomeados pelo Presidente do Conselho, sobre proposta do conselho orientador, por períodos de três anos, renováveis, entre diplomados com um curso superior, devidamente qualificados. Da direcção fará também parte o chefe dos serviços administrativos do Secretariado Técnico da Presidência do Conselho, o qual, porém, só participará nas deliberações sobre assuntos de carácter administrativo.
+Art. 4.º A direcção é constituída por um director e dois vogais nomeados pelo Presidente do Conselho, sobre proposta do conselho orientador, por períodos de três anos, renováveis, entre diplomados com um curso superior, devidamente qualificados. Da direcção fará também parte o chefe dos serviços administrativos do Secretariado Técnico da Presidência do Conselho, o qual, porém, só participará nas deliberações sobre assuntos de carácter administrativo.
 
-###### Art. 5.º - 1. Para o desempenho das suas atribuições, o Centro poderá:
+Art. 5.º - 1. Para o desempenho das suas atribuições, o Centro poderá:
 
 a) Solicitar dos serviços e institutos públicos, corpos administrativos, organismos corporativos e entidades particulares os elementos e informações necessários ao desempenho das suas atribuições;
 
@@ -122,7 +162,7 @@ c) Contratar com entidades especializadas, públicas ou particulares, a realiza�
 
 2. O Centro desempenhará as suas atribuições em coordenação com os órgãos de estudo e planeamento existentes em outros departamentos do Estado, aos quais deverá recorrer sempre que necessite de colaboração nas respectivas especialidades.
 
-###### Art. 6.º Constituem receitas do Centro:
+Art. 6.º Constituem receitas do Centro:
 
 a) As dotações do Orçamento Geral do Estado inscritas anualmente no seu orçamento privativo, incluindo as correspondentes às dotações extraordinárias previstas nos planos de fomento;
 
@@ -130,7 +170,7 @@ b) As importâncias respeitantes ao pagamento de estudos e trabalhos realizados 
 
 c) Quaisquer outras quantias que legalmente lhe forem atribuídas.
 
-###### Art. 7.º - 1. A aplicação das receitas do Centro é feita pela direcção, mediante orçamento anual aprovado pelo Presidente do Conselho e visado pelo Ministro das Finanças.
+Art. 7.º - 1. A aplicação das receitas do Centro é feita pela direcção, mediante orçamento anual aprovado pelo Presidente do Conselho e visado pelo Ministro das Finanças.
 
 2. O presidente da direcção pode autorizar a realização de despesas até 50000$00.
 
@@ -138,27 +178,27 @@ c) Quaisquer outras quantias que legalmente lhe forem atribuídas.
 
 4. O levantamento dos fundos da conta de depósito será feito por meio de cheques assinados por dois membros da direcção.
 
-###### Art. 8.º - 1. Os membros do conselho orientador e da direcção têm direito, respectivamente, a senhas de presença e a gratificação mensal, a fixar pelo Presidente do Conselho, ouvido o Ministro das Finanças.
+Art. 8.º - 1. Os membros do conselho orientador e da direcção têm direito, respectivamente, a senhas de presença e a gratificação mensal, a fixar pelo Presidente do Conselho, ouvido o Ministro das Finanças.
 
 2. As gratificações e as senhas de presença a que se refere o número anterior são acumuláveis com a remuneração de quaisquer cargos públicos, sem prejuízo, porém, do disposto no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
 3. Os membros do conselho orientador e da direcção que tiverem de deslocar-se da localidade da sua residência habitual para o exercício de funções do Centro terão direito ao abono de ajudas de custo e despesas de transporte.
 
-###### Art. 9.º - 1. As remunerações respeitantes ao funcionamento dos núcleos de trabalho, bem como à colaboração de técnicos ou de consultores nacionais ou estrangeiros, serão fixadas, sobre proposta da direcção do Centro, pelo Presidente do Conselho.
+Art. 9.º - 1. As remunerações respeitantes ao funcionamento dos núcleos de trabalho, bem como à colaboração de técnicos ou de consultores nacionais ou estrangeiros, serão fixadas, sobre proposta da direcção do Centro, pelo Presidente do Conselho.
 
 2. Os contratos a que se refere a alínea c) do artigo 5.º ficam igualmente sujeitos à homologação do Presidente do Conselho.
 
-###### Art. 10.º A competência dos órgãos directivos do Centro, normas de funcionamento do organismo, respectivo quadro do pessoal, suas remunerações e formas de provimento serão definidos em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
+Art. 10.º A competência dos órgãos directivos do Centro, normas de funcionamento do organismo, respectivo quadro do pessoal, suas remunerações e formas de provimento serão definidos em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
 
-###### Art. 11.º - 1. É extinto o Gabinete de Estudos do Secretariado Técnico da Presidência do Conselho, a que se refere a alínea a) do artigo 2.º do [Decreto-Lei n.º 46909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46909-1966-486774), de 19 de Março de 1966, e suprimido o lugar de director do Gabinete de Estudos no mapa anexo ao [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), da mesma data.
+Art. 11.º - 1. É extinto o Gabinete de Estudos do Secretariado Técnico da Presidência do Conselho, a que se refere a alínea a) do artigo 2.º do [Decreto-Lei n.º 46909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46909-1966-486774), de 19 de Março de 1966, e suprimido o lugar de director do Gabinete de Estudos no mapa anexo ao [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), da mesma data.
 
 2. As funções atribuídas no artigo 4.º do mesmo decreto-lei ao citado Gabinete de Estudos, e que não passem para o Centro criado pelo presente diploma, serão distribuídas pelos restantes serviços do Secretariado Técnico, conforme for definido por despacho do Presidente do Conselho.
 
 3. A biblioteca do Secretariado Técnico será transferida para o Centro, mas os funcionários daquele Secretariado poderão utilizá-la nas mesmas condições do pessoal do Centro.
 
-###### Art. 12.º Para satisfação dos encargos resultantes deste diploma, no ano em curso, poderá ser aberto o necessário crédito especial, mediante diploma referendado pelo Ministro das Finanças.
+Art. 12.º Para satisfação dos encargos resultantes deste diploma, no ano em curso, poderá ser aberto o necessário crédito especial, mediante diploma referendado pelo Ministro das Finanças.
 
-**Publique-se e cumpra-se o que nele se contém.**
+Publique-se e cumpra-se o que nele se contém.
 
 Paços do Governo da República, 30 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

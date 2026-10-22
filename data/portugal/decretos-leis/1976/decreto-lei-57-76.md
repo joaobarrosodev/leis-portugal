@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01800/01220124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1976-506000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 158e844002ea1ec7d31f993f2ce3081eda1c40a08a997d71733d4528240f1306
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b6164231129e9cbbe5e6ac20abd5f32b1c86feca66ae528dd85c5d6c143c109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estacionamento
+- Remoção de Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:12Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +109,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Considera-se estacionamento abusivo:
+Artigo 1.º Considera-se estacionamento abusivo:
 
 a) O de veículo estacionado ininterruptamente durante sessenta dias em parque isento de pagamento de qualquer taxa;
 
@@ -114,13 +123,13 @@ e) O que se verifique por tempo superior a quarenta e oito horas, quando se trat
 
 f) O que se prolongue por mais de seis dias consecutivos em qualquer local, apresentando o veículo sinais evidentes de abandono.
 
-###### Art. 2.º - 1. Sempre que um veículo se encontre estacionado abusivamente, a autoridade competente para fiscalização deve proceder à notificação do respectivo proprietário, para a residência indicada no mesmo veículo, para que o retire do local no prazo máximo de quarenta e oito horas.
+Art. 2.º - 1. Sempre que um veículo se encontre estacionado abusivamente, a autoridade competente para fiscalização deve proceder à notificação do respectivo proprietário, para a residência indicada no mesmo veículo, para que o retire do local no prazo máximo de quarenta e oito horas.
 
 2. No caso de o veículo apresentar sinais exteriores evidentes de impossibilidade de deslocação com segurança pelos seus próprios meios, deve ainda na notificação constar que o veículo não pode estacionar na via pública enquanto não for reparado.
 
 3. Se o veículo não tiver a indicação do nome e residência do proprietário nos termos legais, é dispensada a notificação referida nos números anteriores.
 
-###### Art. 3.º - 1. As autoridades competentes para a fiscalização podem promover a remoção imediata de veículos para local adequado, depósito ou parque municipal nos seguintes casos:
+Art. 3.º - 1. As autoridades competentes para a fiscalização podem promover a remoção imediata de veículos para local adequado, depósito ou parque municipal nos seguintes casos:
 
 a) Quando, notificado o proprietário do veículo estacionado abusivamente, este não for retirado no prazo fixado ou quando se verificar o caso previsto no n.º 3 do artigo anterior;
 
@@ -156,7 +165,7 @@ j) De noite, na faixa de rodagem, fora das localidades, salvo em caso de imobili
 
 6. Devem ser aprovadas por portaria do Ministro dos Transportes e Comunicações as taxas devidas pela remoção de veículos nos termos deste artigo.
 
-###### Art. 4.º - 1. Removido o veículo, rege, na parte aplicável e com as necessárias adaptações, o disposto no artigo 1323.º do Código Civil, com exclusão do direito ao prémio referido no seu n.º 3 e sendo reduzido a noventa dias o prazo previsto no seu n.º 2
+Art. 4.º - 1. Removido o veículo, rege, na parte aplicável e com as necessárias adaptações, o disposto no artigo 1323.º do Código Civil, com exclusão do direito ao prémio referido no seu n.º 3 e sendo reduzido a noventa dias o prazo previsto no seu n.º 2
 
 2. Tendo em vista o estado geral do veículo ou outras circunstâncias ponderosas, se for previsível um risco de deterioração ou conservação que possa fazer recear que o preço obtido em venda em hasta pública não cubra as despesas decorrentes da remoção e depósito, o prazo previsto no número anterior é reduzido a trinta dias.
 
@@ -168,7 +177,7 @@ j) De noite, na faixa de rodagem, fora das localidades, salvo em caso de imobili
 
 6. O disposto no n.º 4 do artigo 1323.º do Código Civil é igualmente aplicável à remoção do veículo nos termos do artigo 3.º do presente diploma.
 
-###### Art. 5.º - 1. Após a remoção, deve do facto ser notificado o respectivo proprietário.
+Art. 5.º - 1. Após a remoção, deve do facto ser notificado o respectivo proprietário.
 
 2. Da notificação deve ainda constar a indicação do local para onde o veículo foi removido e, bem assim, que o proprietário o deve daí retirar dentro do prazo referido no artigo anterior e após o pagamento das despesas de remoção e depósito, sob pena de o veículo se considerar abandonado.
 
@@ -178,7 +187,7 @@ j) De noite, na faixa de rodagem, fora das localidades, salvo em caso de imobili
 
 5. Não sendo possível proceder à notificação por se ignorar a residência ou paradeiro do proprietário do veículo, ou residindo aquele no estrangeiro ou fora do território continental, devem ser publicados anúncios durante três dias consecutivos num dos jornais mais lidos na localidade onde se verificou a remoção e no da última residência conhecida.
 
-###### Art. 6.º - 1. Quando o veículo seja objecto de hipoteca, a remoção deve também ser notificada ao credor, pessoalmente ou por meio de carta registada com aviso de recepção para a residência constante do registo, ou ainda nos termos do n.º 5 do artigo anterior.
+Art. 6.º - 1. Quando o veículo seja objecto de hipoteca, a remoção deve também ser notificada ao credor, pessoalmente ou por meio de carta registada com aviso de recepção para a residência constante do registo, ou ainda nos termos do n.º 5 do artigo anterior.
 
 2. Da notificação ao credor deve ainda constar a indicação dos termos em que foi feita ao proprietário a notificação determinada pelo artigo anterior e, bem assim, a data em que terminar o prazo a que o mesmo artigo se refere.
 
@@ -190,30 +199,30 @@ j) De noite, na faixa de rodagem, fora das localidades, salvo em caso de imobili
 
 6. O credor hipotecário tem direito de regresso contra o proprietário, não só quanto às despesas referidas no número anterior como ainda às que efectuar na qualidade de fiel depositário.
 
-###### Art. 7.º - 1. Quando o veículo se encontre penhorado, deve a autoridade que procedeu à remoção informar o tribunal das circunstâncias que justificaram a remoção.
+Art. 7.º - 1. Quando o veículo se encontre penhorado, deve a autoridade que procedeu à remoção informar o tribunal das circunstâncias que justificaram a remoção.
 
 2. No caso previsto no número anterior, deve o veículo ser entregue à pessoa que, para o efeito, o tribunal designar como fiel depositário, sendo dispensado o pagamento prévio das despesas de remoção e depósito.
 
 3. Na execução, o pagamento das despesas de remoção e depósito goza de privilégio mobiliário especial.
 
-###### Art. 8.º - 1. Existindo sobre o veículo um direito de usufruto, a notificação referida no artigo 5.º deve ser feita ao usufrutuário, aplicando-se então à notificação do proprietário, com as necessárias adaptações, o regime previsto nos n.os 1 e 2 do artigo 6.º
+Art. 8.º - 1. Existindo sobre o veículo um direito de usufruto, a notificação referida no artigo 5.º deve ser feita ao usufrutuário, aplicando-se então à notificação do proprietário, com as necessárias adaptações, o regime previsto nos n.os 1 e 2 do artigo 6.º
 
 2. O proprietário pode, nos termos previstos nos n.os 4 e 5 do artigo 6.º para o credor hipotecário, requerer a entrega do veículo.
 
-###### Art. 9.º Tendo o veículo sido vendido com reserva de propriedade e mantendo-se esta, a notificação referida no artigo 5.º deve ser feita ao adquirente.
+Art. 9.º Tendo o veículo sido vendido com reserva de propriedade e mantendo-se esta, a notificação referida no artigo 5.º deve ser feita ao adquirente.
 
-###### Art. 10.º - 1. Quando tenha sido notificado o proprietário nos termos dos n.os 1 a 3 do artigo 5.º e sobre o veículo incidir um direito de usufruto, uma hipoteca, uma reserva de propriedade ou mesmo se encontrar penhorado, deve aquele comunicar à autoridade que ordenou a remoção a existência dos mesmos.
+Art. 10.º - 1. Quando tenha sido notificado o proprietário nos termos dos n.os 1 a 3 do artigo 5.º e sobre o veículo incidir um direito de usufruto, uma hipoteca, uma reserva de propriedade ou mesmo se encontrar penhorado, deve aquele comunicar à autoridade que ordenou a remoção a existência dos mesmos.
 
 2. A comunicação referida no número anterior deve ser feita no prazo de dez dias a contar da notificação.
 
-###### Art. 11.º O documento passado pela autoridade competente discriminando as despesas de remoção e depósito servirá de título executivo para os efeitos do disposto no n.º 6 do artigo 6.º e no n.º 3 do artigo 7.º
+Art. 11.º O documento passado pela autoridade competente discriminando as despesas de remoção e depósito servirá de título executivo para os efeitos do disposto no n.º 6 do artigo 6.º e no n.º 3 do artigo 7.º
 
-###### Art. 12.º O presente diploma entra em vigor na data da sua publicação.
+Art. 12.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - José Augusto Fernandes.
 
-**Promulgado em 12 de Janeiro de 1976.**
+Promulgado em 12 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

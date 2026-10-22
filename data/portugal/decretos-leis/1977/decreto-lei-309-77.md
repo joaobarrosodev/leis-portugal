@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18000/19141914.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1977-255456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 931142dc6644c26250152d79042b8935b2e8acb1e3f2bed88bea7a1a97866ffd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a6611eddfb9fc24bab6576868e7781009c82340f0374363871ed718840d1d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Reestruturação de Carreiras
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20-Supl] de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:44Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +110,16 @@ Considerando que é de elementar justiça rever convenientemente a sua situaçã
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos de ingresso nos quadros permanentes, o concurso para furriel do quadro permanente de sargentos músicos, aberto em Dezembro de 1974, considera-se equivalente ao curso de formação de sargentos.
+Artigo 1.º Para efeitos de ingresso nos quadros permanentes, o concurso para furriel do quadro permanente de sargentos músicos, aberto em Dezembro de 1974, considera-se equivalente ao curso de formação de sargentos.
 
-###### Art. 2.º As praças que tenham obtido aprovação no concurso para furriel referido no artigo 1.º e que reúnam as condições gerais de promoção dos sargentos dos QP são promovidos a segundos-sargentos dos QP, mediante vacatura, sendo dispensadas da condição especial de promoção determinada pelo artigo 14.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
+Art. 2.º As praças que tenham obtido aprovação no concurso para furriel referido no artigo 1.º e que reúnam as condições gerais de promoção dos sargentos dos QP são promovidos a segundos-sargentos dos QP, mediante vacatura, sendo dispensadas da condição especial de promoção determinada pelo artigo 14.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
 
-###### Art. 3.º Aos militares abrangidos pelo presente decreto-lei não será exigida a condição especial de promoção ao posto de primeiro-sargento referida na alínea a) do artigo 15.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
+Art. 3.º Aos militares abrangidos pelo presente decreto-lei não será exigida a condição especial de promoção ao posto de primeiro-sargento referida na alínea a) do artigo 15.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
 
 Visto e aprovado em Conselho da Revolução em 6 de Julho de 1977.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

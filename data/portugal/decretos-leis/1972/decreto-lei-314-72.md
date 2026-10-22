@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19100/10831085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0a85f2f473351eef93c89cfb8579fb50972c83deda035bad0a45b7d15d459a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff5c86e365087243d7f1d21de4d6fa4778cfedde05f24d8487a5c472c7ed75bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Etiquetagem
+- Produto Alimentar
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:661762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421790:por
+  label: "Prorrogado o prazo fixado no nº 1 do artº 8º pela PORT.510/73.1973.07.28.MECO, DG.IS [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/510-1973-421790
+  date: '1973-07-28'
+- type: amended_by
+  target: pt:dre:412976:por
+  label: "Prorrogado o prazo a que se refere o nº 1 do artº 8º pela PORT.138/74.1974.02.21.MECO, DG.IS [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-1974-412976
+  date: '1974-02-21'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661762:por
+  label: "Revogado pelo DEC LEI.89/84.23.03.1984.MAFA, DR.IS [70] de 23.03.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1984-661762
+  date: '1984-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:44Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +141,9 @@ Nestes termos:
 
 Usando da faculdade conferida, pela 1.ª parte do 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O disposto no presente diploma é aplicável aos rótulos dos géneros alimentícios pré - embalados, nacionais ou estrangeiros, vendidos ou expostos à venda ao público no mercado interno do continente e ilhas adjacentes.
+Artigo 1.º O disposto no presente diploma é aplicável aos rótulos dos géneros alimentícios pré - embalados, nacionais ou estrangeiros, vendidos ou expostos à venda ao público no mercado interno do continente e ilhas adjacentes.
 
-###### Art. 2.º Para efeitos deste decreto-lei e das portarias publicadas em virtude do que nele se dispõe, entende-se por:
+Art. 2.º Para efeitos deste decreto-lei e das portarias publicadas em virtude do que nele se dispõe, entende-se por:
 
 a) «Rótulo», toda a forma, marca, imagem ou outra indicação descritiva escrita, impressa, puncionada, aposta, gravada ou aplicada na embalagem de um género alimentício ou a ela junta;
 
@@ -133,7 +155,7 @@ d) «Pré-embalado», o qualificativo dado a um género alimentício cujo acondi
 
 e) «Entidade comercial responsável», o produtor, embalador, importador, armazenista ou retalhista cujo nome, firma ou denominação social, bem como o domicílio ou lugar onde estejam estabelecidos figurem no rótulo ou, no caso de falta ilegal dessas menções, aquela entidade que lançou o género alimentício já pré-embalado no mercado interno do continente e ilhas adjacentes.
 
-###### Art. 3.º - 1. O rótulo não pode mencionar, descrever ou apresentar o género alimentício de maneira falsa, enganadora, ilusória ou, de um modo geral, susceptível de criar, sob qualquer aspecto, uma impressão errónea quanto à sua natureza, composição, qualidade ou quantidade, nem contradizer as indicações obrigatórias.
+Art. 3.º - 1. O rótulo não pode mencionar, descrever ou apresentar o género alimentício de maneira falsa, enganadora, ilusória ou, de um modo geral, susceptível de criar, sob qualquer aspecto, uma impressão errónea quanto à sua natureza, composição, qualidade ou quantidade, nem contradizer as indicações obrigatórias.
 
 2. Os géneros alimentícios pré-embalados não podem ser descritos ou apresentados por meio de palavras, imagens ou outras formas descritivas que se refiram ou façam alusão directa ou indirecta a outro produto de qualquer maneira capaz de induzir o consumidor a supor que tais géneros são semelhantes a outros.
 
@@ -143,11 +165,11 @@ a) Quaisquer alusões a propriedades preventivas ou curativas de doenças;
 
 b) Os qualificativos «fortificante», «revigorante», «vivificante», «reconstituinte», «tónico» e outros similares alusivos a propriedades especiais do género alimentício.
 
-###### Art. 4.º - 1. Carece de autorização da Inspecção-Geral dos Produtos Agrícolas e industriais o uso das expressões «puro» e «natural».
+Art. 4.º - 1. Carece de autorização da Inspecção-Geral dos Produtos Agrícolas e industriais o uso das expressões «puro» e «natural».
 
 2. Carece de autorização da Direcção-Geral de Saúde o uso das expressões indicativas da presença de nutrientes, tais como vitaminas, ácidos aminados ou oligoelementos, naturalmente existentes no género alimentício ou a ele adicionados.
 
-###### Art. 5.º Sem prejuízo da inclusão de outras indicações exigidas por lei geral ou especial, os rótulos devem mencionar, nos casos e nos termos que vierem a ser estabelecidos em portaria do Secretário de Estado do Comércio:
+Art. 5.º Sem prejuízo da inclusão de outras indicações exigidas por lei geral ou especial, os rótulos devem mencionar, nos casos e nos termos que vierem a ser estabelecidos em portaria do Secretário de Estado do Comércio:
 
 a) O nome do género alimentício;
 
@@ -171,7 +193,7 @@ j) O tratamento por radiações ionizantes;
 
 1) Quaisquer outras indicações.
 
-###### Art. 6.º Por portaria do Secretário de Estado do Comércio poderão ser adoptadas as seguintes medidas:
+Art. 6.º Por portaria do Secretário de Estado do Comércio poderão ser adoptadas as seguintes medidas:
 
 a) Proibição ou condicionamento a autorização da inclusão nos rótulos de outras expressões ou alusões para além das previstas no n.º 3 do artigo 3.º e no artigo 4.º;
 
@@ -181,24 +203,24 @@ c) Sujeição dos rótulos de todos ou de alguns géneros alimentícios pré-emb
 
 d) Regulamentação da publicidade dos géneros alimentícios pré-embalados.
 
-###### Art. 7.º - 1. A falta e a inexacta indicação do conteúdo líquido ou do prazo de validade, quando obrigatória, são equiparadas às infracções previstas, respectivamente, no n.º 1 do artigo 26.º e nas alíneas a) ou c) do n.º 1 do artigo 18.º, ambos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, sujeitando as entidades comerciais responsáveis às penas correspondentes.
+Art. 7.º - 1. A falta e a inexacta indicação do conteúdo líquido ou do prazo de validade, quando obrigatória, são equiparadas às infracções previstas, respectivamente, no n.º 1 do artigo 26.º e nas alíneas a) ou c) do n.º 1 do artigo 18.º, ambos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, sujeitando as entidades comerciais responsáveis às penas correspondentes.
 
 2. As restantes infracções ao presente diploma ou às portarias publicadas em virtude do que nele se dispõe sujeitam as entidades comerciais responsáveis à pena da multa de 2000$00 a 30000$00, se outra pena mais grave lhes não couber por força de lei geral ou especial.
 
 3. As regras de competência e do processo são as previstas no capítulo II do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 8.º - 1. É concedido o prazo de um ano, contado da data da publicação da portaria a que se refere o artigo 5.º, para cessar a utilização das embalagens portadoras de rótulos que omitam indicações obrigatórias ou que incluam expressões ou alusões proibidas ou condicionadas a autorização, nos termos do artigo 4.º
+Art. 8.º - 1. É concedido o prazo de um ano, contado da data da publicação da portaria a que se refere o artigo 5.º, para cessar a utilização das embalagens portadoras de rótulos que omitam indicações obrigatórias ou que incluam expressões ou alusões proibidas ou condicionadas a autorização, nos termos do artigo 4.º
 
 2. Por portaria do Secretário de Estado do Comércio pode ser prorrogado o prazo referido no número precedente, em relação às embalagens de todos ou alguns dos géneros alimentícios.
 
 3. É aplicável o disposto nos n.os 2 e 3 do artigo precedente aos que venderem ou expuseram à venda ao público, para além do prazo estabelecido no presente artigo, géneros alimentícios contidos nas embalagens nele referidas e adquiridos durante esse prazo ou anteriormente.
 
-###### Art. 9.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho do Secretário de Estado do Comércio.
+Art. 9.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho do Secretário de Estado do Comércio.
 
 Visto a aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/02/04900/02400245.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1970-228057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fab942b2b2bd16e55cf3e62c1f48f22589ed5c2698a3d5911da56a89ac76ae71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 363f324b45f21cbe3753148deac32b89b23f35358439ed057ed048116abda851
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Gabinete do Plano e Desenvolvimento da Região do Zambeze
+- Moçambique.Colónia Portuguesa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:464045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:464045:por
+  label: Extinto o Gabinete do Plano do Zambeze e revogado o presente diploma pelo(a) Decreto-Lei n.º 367/80 - Diário da República
+    n.º 209/1980, Série I de 1980-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1980-464045
+  date: '1980-09-10'
+- type: cites
+  target: pt:dre:380347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654302:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:33Z'
   warnings: []
   errors: []
 ---
@@ -113,11 +131,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º É criado no Ministério do Ultramar, na dependência directa do Ministro, o Gabinete do Plano de Desenvolvimento da Região do Zambeze, abreviadamente designado por Gabinete do Plano do Zambeze, dotado de personalidade jurídica e autonomia administrativa financeira, com património próprio.
+Artigo 1.º É criado no Ministério do Ultramar, na dependência directa do Ministro, o Gabinete do Plano de Desenvolvimento da Região do Zambeze, abreviadamente designado por Gabinete do Plano do Zambeze, dotado de personalidade jurídica e autonomia administrativa financeira, com património próprio.
 
-###### Art. 2.º O Gabinete do Plano do Zambeze tem por objectivo geral promover, estimular e orientar, com a cooperação das autoridades e serviços competentes da metrópole e da província de Moçambique, o desenvolvimento económico e social da região do Zambeze, incluindo nesta a parte da respectiva bacia hidrográfica em território de Moçambique e, eventualmente, as áreas adjacentes que para o efeito forem definidas pelo Ministro do Ultramar, sob proposta do Gabinete, ouvido o governador-geral da província.
+Art. 2.º O Gabinete do Plano do Zambeze tem por objectivo geral promover, estimular e orientar, com a cooperação das autoridades e serviços competentes da metrópole e da província de Moçambique, o desenvolvimento económico e social da região do Zambeze, incluindo nesta a parte da respectiva bacia hidrográfica em território de Moçambique e, eventualmente, as áreas adjacentes que para o efeito forem definidas pelo Ministro do Ultramar, sob proposta do Gabinete, ouvido o governador-geral da província.
 
-###### Art. 3.º - 1. Para a realização do objectivo geral fixado no artigo anterior compete especialmente ao Gabinete do Plano do Zambeze:
+Art. 3.º - 1. Para a realização do objectivo geral fixado no artigo anterior compete especialmente ao Gabinete do Plano do Zambeze:
 
 a) Efectuar, em continuação dos trabalhos anteriormente realizados, o reconhecimento sistemático da região e o inventário dos seus recursos, incluindo todos os estudos, de qualquer natureza, que se tornem necessários para assegurar a melhor utilização desses recursos em proveito da referida região;
 
@@ -137,11 +155,11 @@ h) Propor ao Governo medidas legislativas ou outras consideradas recomendáveis 
 
 2. No exercício da sua competência o Gabinete do Plano do Zambeze deverá procurar valorizar quanto possível o concurso dos organismos públicos, autoridades administrativas e autarquias locais, existentes ou a criar na região interessada, e bem assim a colaboração das iniciativas privadas, cabendo-lhe propor as disposições necessárias para garantir a melhor coordenação dos esforços aplicados à realização dos objectivos de interesse geral confiados ao Gabinete.
 
-###### Art. 4.º O disposto no artigo anterior considera-se imediatamente aplicável ao empreendimento de Cabora Bassa, passando o Gabinete do Plane do Zambeze a superintender em todas as actividades respeitantes à realização deste empreendimento, actuando em representação do Ministério do Ultramar na execução do acordo celebrado em 19 de Setembro de 1969 entre o Governo de Portugal e o da República da África do Sul, e do contrato de fornecimento de energia celebrado na mesma data entre o Estado e a Electricity Supply Comission, daquele país, e bem assim do contrato celebrado com a firma Zamco - Zambeze Consórcio Hidroeléctrico, Lda., para execução do referido empreendimento.
+Art. 4.º O disposto no artigo anterior considera-se imediatamente aplicável ao empreendimento de Cabora Bassa, passando o Gabinete do Plane do Zambeze a superintender em todas as actividades respeitantes à realização deste empreendimento, actuando em representação do Ministério do Ultramar na execução do acordo celebrado em 19 de Setembro de 1969 entre o Governo de Portugal e o da República da África do Sul, e do contrato de fornecimento de energia celebrado na mesma data entre o Estado e a Electricity Supply Comission, daquele país, e bem assim do contrato celebrado com a firma Zamco - Zambeze Consórcio Hidroeléctrico, Lda., para execução do referido empreendimento.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 5.º - 1. O Gabinete do Plano do Zambeze compreende:
+Art. 5.º - 1. O Gabinete do Plano do Zambeze compreende:
 
 O conselho directivo;
 
@@ -157,17 +175,17 @@ Os serviços regionais.
 
 2. O conselho directivo e o conselho técnico são presididos pelo director-geral, que será substituído, nas suas faltas ou impedimentos, pelo director-geral- adjunto.
 
-###### Art. 6.º - 1. O conselho directivo exercerá a direcção superior da actividade do Gabinete do Plano do Zambeze e terá por vogais o director-geral-adjunto, um representante do Ministério das Finanças, um inspector superior vogal do Conselho Superior de Fomento Ultramarino e um representante da Direcção-Geral de Economia, do Ministério do Ultramar, a designar pelos Ministros respectivos.
+Art. 6.º - 1. O conselho directivo exercerá a direcção superior da actividade do Gabinete do Plano do Zambeze e terá por vogais o director-geral-adjunto, um representante do Ministério das Finanças, um inspector superior vogal do Conselho Superior de Fomento Ultramarino e um representante da Direcção-Geral de Economia, do Ministério do Ultramar, a designar pelos Ministros respectivos.
 
 2. As deliberações do conselho directivo tomadas contra o voto do presidente ficarão suspensas até decisão definitiva do Ministro do Ultramar.
 
-###### Art. 7.º - 1. O conselho técnico, de carácter consultivo, terá a composição que for estabelecida pelo Ministro do Ultramar, sob proposta do presidente do conselho directivo, tendo em vista facultar ao Gabinete a colaboração de especialistas de reconhecida competência nos diversos sectores técnicos interessados na sua actividade.
+Art. 7.º - 1. O conselho técnico, de carácter consultivo, terá a composição que for estabelecida pelo Ministro do Ultramar, sob proposta do presidente do conselho directivo, tendo em vista facultar ao Gabinete a colaboração de especialistas de reconhecida competência nos diversos sectores técnicos interessados na sua actividade.
 
 2. O conselho técnico funcionará, normalmente, por secções com a constituição adequada à especialização dos assuntos a tratar.
 
 3. Poderão ser convidados a participar nas reuniões especialistas nacionais ou estrangeiros estranhos ao Gabinete, quando tal seja julgado conveniente.
 
-###### Art. 8.º - 1. A comissão administrativa, responsável pela execução financeira das resoluções dimanadas do conselho directivo ou do director-geral por sua delegação, será constituída pelo director-geral, que presidirá, e pelo director dos serviços financeiros e pelo chefe dos serviços administrativos.
+Art. 8.º - 1. A comissão administrativa, responsável pela execução financeira das resoluções dimanadas do conselho directivo ou do director-geral por sua delegação, será constituída pelo director-geral, que presidirá, e pelo director dos serviços financeiros e pelo chefe dos serviços administrativos.
 
 2. Às reuniões da comissão administrativa assistirá um representante do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal, cujo quantitativo será fixado pelo Ministro do Ultramar, com o acordo do Ministro das Finanças, e ao qual compete pronunciar-se sobre legalidade das despesas.
 
@@ -175,7 +193,7 @@ Os serviços regionais.
 
 4. O director-geral poderá, mediante deliberação do conselho directivo, fazer-se substituir na presidência da comissão administrativa pelo director-geral-adjunto.
 
-###### Art. 9.º - 1. O Gabinete será assistido por uma comissão coordenadora central, com sede em Lisboa, e uma comissão coordenadora provincial, com sede em Lourenço Marques, nas quais terão representação os departamentos públicos, respectivamente da metrópole e da província de Moçambique, com ingerência nos diferentes domínios da actividade do Gabinete, e, ainda, por comissões coordenadoras distritais funcionando nas capitais dos distritos interessados directamente pela mesma actividade, que serão constituídas à medida do desenvolvimento do Plano do Zambeze e das quais farão parte os delegados distritais dos referidos departamentos.
+Art. 9.º - 1. O Gabinete será assistido por uma comissão coordenadora central, com sede em Lisboa, e uma comissão coordenadora provincial, com sede em Lourenço Marques, nas quais terão representação os departamentos públicos, respectivamente da metrópole e da província de Moçambique, com ingerência nos diferentes domínios da actividade do Gabinete, e, ainda, por comissões coordenadoras distritais funcionando nas capitais dos distritos interessados directamente pela mesma actividade, que serão constituídas à medida do desenvolvimento do Plano do Zambeze e das quais farão parte os delegados distritais dos referidos departamentos.
 
 2. As comissões coordenadoras serão nomeadas pelo Ministro do Ultramar, mediante acordo dos Ministros interessados quanto aos vogais da comissão central, e sob proposta do governador-geral de Moçambique no que respeita às comissões provincial e distritais.
 
@@ -187,13 +205,13 @@ Os serviços regionais.
 
 6. Tomará parte mas reuniões plenárias das comissões coordenadoras distritais um dos directores dos serviços regionais do Gabinete ou o seu substituto legal.
 
-###### Art. 10.º - 1. Os serviços do Gabinete serão dirigidos por um director-geral, coadjuvado por um director-geral-adjunto, que o substituirá nas suas faltas ou impedimentos.
+Art. 10.º - 1. Os serviços do Gabinete serão dirigidos por um director-geral, coadjuvado por um director-geral-adjunto, que o substituirá nas suas faltas ou impedimentos.
 
 2. O Director-geral-adjunto poderá exercer as funções de director de serviços.
 
-###### Art. 11.º Os serviços centrais do Gabinete do Plano do Zambeze, com sede em Lisboa, serão organizados em direcções de serviços, correspondentes aos grandes sectores de actividade do Gabinete.
+Art. 11.º Os serviços centrais do Gabinete do Plano do Zambeze, com sede em Lisboa, serão organizados em direcções de serviços, correspondentes aos grandes sectores de actividade do Gabinete.
 
-###### Art. 12.º - 1. Os serviços regionais, com sede na província de Moçambique, compreenderão:
+Art. 12.º - 1. Os serviços regionais, com sede na província de Moçambique, compreenderão:
 
 a) Serviços de Estudo e Planeamento, afectos ao Plano de Desenvolvimento da Região do Zambeze;
 
@@ -207,23 +225,23 @@ a) Os Serviços de Estudo e Planeamento referidos na alínea a) do número anter
 
 b) Os Serviços de Fiscalização da Obra de Cabora Bassa, com sede em Cabora Bassa.
 
-###### Art. 13.º O Ministro do Ultramar poderá autorizar a constituição de representações do Gabinete do Plano do Zambeze nas localidades do País ou do estrangeiro em que a importância da actividade por ele exercida o recomende.
+Art. 13.º O Ministro do Ultramar poderá autorizar a constituição de representações do Gabinete do Plano do Zambeze nas localidades do País ou do estrangeiro em que a importância da actividade por ele exercida o recomende.
 
-###### Art. 14.º As atribuições e modo de funcionamento dos órgãos constitutivos do Gabinete do Plano do Zambeze, bem como a organização e competência dos respectivos serviços, serão fixados em regulamento a aprovar pelo Ministro do Ultramar.
+Art. 14.º As atribuições e modo de funcionamento dos órgãos constitutivos do Gabinete do Plano do Zambeze, bem como a organização e competência dos respectivos serviços, serão fixados em regulamento a aprovar pelo Ministro do Ultramar.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 15.º - 1. O Gabinete do Plano do Zambeze disporá do pessoal dirigente, técnico, administrativo, especializado e auxiliar necessário ao funcionamento dos seus serviços, o qual será nomeado, contratado ou assalariado, em conformidade com os quadros a aprovar por decreto do Ministro do Ultramar, a publicar até sessenta dias após a entrada em vigor deste decreto-lei.
+Art. 15.º - 1. O Gabinete do Plano do Zambeze disporá do pessoal dirigente, técnico, administrativo, especializado e auxiliar necessário ao funcionamento dos seus serviços, o qual será nomeado, contratado ou assalariado, em conformidade com os quadros a aprovar por decreto do Ministro do Ultramar, a publicar até sessenta dias após a entrada em vigor deste decreto-lei.
 
 2. Os quadros do pessoal do Gabinete serão periòdicamente revistos quanto a categorias e unidades, de harmonia, com a evolução e as exigências do serviço.
 
 3. Além do pessoal incluído nos quadros, poderá ainda ser contratado ou assalariado, nos termos legais, o pessoal que as necessidades de serviço exigirem, dentro das disponibilidades orçamentais existentes.
 
-###### Art. 16.º - 1. São desde já criados os lugares de director-geral, director-geral-adjunto e de directores de serviços do Gabinete, que serão providos por livre escolha do Ministro do Ultramar e nomeados de entre especialistas de reconhecida competência e experiência profissional, pertencentes ou não aos quadros do Ministério, podendo exercer as suas funções em regime de comissão de serviço, se tal for julgado conveniente.
+Art. 16.º - 1. São desde já criados os lugares de director-geral, director-geral-adjunto e de directores de serviços do Gabinete, que serão providos por livre escolha do Ministro do Ultramar e nomeados de entre especialistas de reconhecida competência e experiência profissional, pertencentes ou não aos quadros do Ministério, podendo exercer as suas funções em regime de comissão de serviço, se tal for julgado conveniente.
 
 2. Em casos especiais, devidamente justificados, o pessoal técnico ou especializado poderá exercer as suas funções em acumulação com o cargo ou cargos que esteja desempenhando, mediante a autorização legal.
 
-###### Art. 17.º - 1. O pessoal dos quadros do Estado que for colocado no Gabinete do Plano do Zambeze será considerado em comissão de serviço pelo tempo fixado pelo Ministro do Ultramar, mantendo, enquanto durar a comissão, todos os direitos como se permanecesse ao serviço nos referidos quadros, inclusive às promoções legais e à aposentação.
+Art. 17.º - 1. O pessoal dos quadros do Estado que for colocado no Gabinete do Plano do Zambeze será considerado em comissão de serviço pelo tempo fixado pelo Ministro do Ultramar, mantendo, enquanto durar a comissão, todos os direitos como se permanecesse ao serviço nos referidos quadros, inclusive às promoções legais e à aposentação.
 
 2. A nomeação do pessoal a que se refere o número anterior deverá ser autorizada pelo Ministério de que dependam os funcionários, no caso de não pertencerem ao Ministério do Ultramar.
 
@@ -231,19 +249,19 @@ b) Os Serviços de Fiscalização da Obra de Cabora Bassa, com sede em Cabora Ba
 
 4. Enquanto não se verificarem as vagas a que se refere o número anterior, os funcionários ficarão na situação de adidos ao Ministério do Ultramar, por onde perceberão os vencimentos a que tiverem direito.
 
-###### Art. 18.º - 1. O Gabinete do Plano do Zambeze poderá assalariar, por livre escolha, o pessoal auxiliar, bem como o pessoal jornaleiro que as exigências do serviço determinarem, dentro das verbas para esse fim inscritas no orçamento.
+Art. 18.º - 1. O Gabinete do Plano do Zambeze poderá assalariar, por livre escolha, o pessoal auxiliar, bem como o pessoal jornaleiro que as exigências do serviço determinarem, dentro das verbas para esse fim inscritas no orçamento.
 
 2. O conselho directivo poderá delegar no director-geral e nos directores de serviço regionais a faculdade referida no número anterior, segundo as regras e limites que estabelecer.
 
-###### Art. 19.º O Gabinete do Plano do Zambeze poderá, sempre que isso for julgado conveniente, recorrer à colaboração de técnicos ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos, em regime de prestação de serviço, nas condições aprovadas pelo conselho directivo.
+Art. 19.º O Gabinete do Plano do Zambeze poderá, sempre que isso for julgado conveniente, recorrer à colaboração de técnicos ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos, em regime de prestação de serviço, nas condições aprovadas pelo conselho directivo.
 
-###### Art. 20.º - 1. As condições de provimento e remunerações dos membros do Gabinete e do pessoal ao seu Serviço serão fixadas por despacho do Ministro do Ultramar, podendo ser estabelecidos regimes excepcionais quando circunstâncias especiais o justifiquem.
+Art. 20.º - 1. As condições de provimento e remunerações dos membros do Gabinete e do pessoal ao seu Serviço serão fixadas por despacho do Ministro do Ultramar, podendo ser estabelecidos regimes excepcionais quando circunstâncias especiais o justifiquem.
 
 2. Aos funcionários com atribuições de direcção ou de chefia ou exercendo funções especializadas poderão ser concedidas gratificações mensais, a fixar pelo Ministro do Ultramar.
 
 3. O pessoal em serviço na província de Moçambique terá direito a um subsídio diário, acumulável com o subsídio de estaleiro, ajudas de custo ou subsídio de campo, quando a estes houver lugar.
 
-###### Art. 21.º - 1. Aos vogais do conselho directivo estranhos ao Gabinete do Plano do Zambeze será atribuída uma gratificação mensal, a fixar por despacho ministerial.
+Art. 21.º - 1. Aos vogais do conselho directivo estranhos ao Gabinete do Plano do Zambeze será atribuída uma gratificação mensal, a fixar por despacho ministerial.
 
 2. Os vogais do conselho técnico e das comissões coordenadoras não pertencentes aos serviços do Gabinete, e, bem assim, quaisquer outras individualidades convocadas para as reuniões dos referidos órgãos, terão direito a senhas de presença.
 
@@ -255,15 +273,15 @@ b) Os Serviços de Fiscalização da Obra de Cabora Bassa, com sede em Cabora Ba
 
 6. Ao director-geral do Gabinete e aos directores dos serviços regionais serão fixadas gratificações especiais a titulo de despesas de representação, nas condições a definir por despacho do Ministro do Ultramar.
 
-###### Art. 22.º O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções que tenham interesse ou que, de qualquer modo, estejam relacionadas com as suas atribuições.
+Art. 22.º O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções que tenham interesse ou que, de qualquer modo, estejam relacionadas com as suas atribuições.
 
-###### Art. 23.º - 1. O Gabinete disporá de um consultor jurídico, que assistirá, sempre que para isso seja convocado, às reuniões dos seus órgãos colectivos.
+Art. 23.º - 1. O Gabinete disporá de um consultor jurídico, que assistirá, sempre que para isso seja convocado, às reuniões dos seus órgãos colectivos.
 
 2. O referido cargo poderá se exercido cumulativamente com o desempenho de outras funções, sendo a respectiva gratificação fixada por despacho do Ministro do Ultramar, nos termos do artigo 20.º
 
 ### CAPÍTULO IV — Gestão financeira e patrimonial
 
-###### Art. 24.º - 1. A gestão financeira e patrimonial do Gabinete do Plano do Zambeze será disciplinada pelas seguintes previsões, sujeitas à homologação do Ministro do Ultramar, e, ainda, quanto aos orçamentos anuais, à homologação do Ministro das Finanças:
+Art. 24.º - 1. A gestão financeira e patrimonial do Gabinete do Plano do Zambeze será disciplinada pelas seguintes previsões, sujeitas à homologação do Ministro do Ultramar, e, ainda, quanto aos orçamentos anuais, à homologação do Ministro das Finanças:
 
 a) Planos de acção;
 
@@ -273,17 +291,17 @@ c) Orçamentos anuais.
 
 2. Os planos de acção, periòdicamente ajustados à evolução das circunstâncias, deverão prever, em relação ao prazo a que se referirem, a actividade a desenvolver pelo Gabinete, os investimentos necessários e as fontes de financiamento que deverão ser utilizadas.
 
-###### Art. 25.º O Gabinete arrecadará as receitas provenientes das dotações, comparticipações, subvenções e doações que lhe sejam atribuídas, da exploração dos empreendimentos ou serviços a seu cargo, dos rendimentos dos bens que administre ou possua, dos contratos de financiamento que lhe digam respeito e, ainda, de quaisquer impostos ou taxas que lhe venham a ser consignados por lei.
+Art. 25.º O Gabinete arrecadará as receitas provenientes das dotações, comparticipações, subvenções e doações que lhe sejam atribuídas, da exploração dos empreendimentos ou serviços a seu cargo, dos rendimentos dos bens que administre ou possua, dos contratos de financiamento que lhe digam respeito e, ainda, de quaisquer impostos ou taxas que lhe venham a ser consignados por lei.
 
-###### Art. 26.º Constituem encargo do Gabinete todas as despesas decorrentes da manutenção dos seus serviços e da execução, exploração, conservação e ampliação dos empreendimentos ou serviços a seu cargo.
+Art. 26.º Constituem encargo do Gabinete todas as despesas decorrentes da manutenção dos seus serviços e da execução, exploração, conservação e ampliação dos empreendimentos ou serviços a seu cargo.
 
-###### Art. 27.º - 1. Mediante requisição ao Governo-Geral de Moçambique, transitarão para o Gabinete do Plano do Zambeze as dotações a inscrever anualmente nos orçamentos da província, de harmonia com as previsões dos planos de fomento, para cobertura dos encargos atribuídos ao Gabinete nos termos do presente diploma.
+Art. 27.º - 1. Mediante requisição ao Governo-Geral de Moçambique, transitarão para o Gabinete do Plano do Zambeze as dotações a inscrever anualmente nos orçamentos da província, de harmonia com as previsões dos planos de fomento, para cobertura dos encargos atribuídos ao Gabinete nos termos do presente diploma.
 
 2. O disposto no número anterior aplica-se às dotações destinadas no programa de empreendimentos do III Plano de Fomento à Missão de Fomento e Povoamento do Zambeze.
 
 3. O saldo da gerência de cada ano transitará para o ano seguinte.
 
-###### Art. 28.º - 1. Relativamente à execução do empreendimento de Cabora Bassa, de harmonia com o contrato celebrado com a empresa adjudicatária ao abrigo do [Decreto-Lei n.º 49225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49225-1969-380347), de 4 de Setembro de 1969, o Gabinete do Plano do Zambeze apresentará ao Ministério das Finanças o programa de despesas anuais, com base no orçamento global da obra e no respectivo programa de trabalhos, procedendo-se semestralmente aos necessários ajustamentos.
+Art. 28.º - 1. Relativamente à execução do empreendimento de Cabora Bassa, de harmonia com o contrato celebrado com a empresa adjudicatária ao abrigo do [Decreto-Lei n.º 49225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49225-1969-380347), de 4 de Setembro de 1969, o Gabinete do Plano do Zambeze apresentará ao Ministério das Finanças o programa de despesas anuais, com base no orçamento global da obra e no respectivo programa de trabalhos, procedendo-se semestralmente aos necessários ajustamentos.
 
 2. O Gabinete requisitará oportunamente ao Ministério das Finanças as importâncias necessárias para o pagamento dos encargos de execução do empreendimento, em conformidade com o programa de despesas a que se refere o número anterior.
 
@@ -291,27 +309,27 @@ c) Orçamentos anuais.
 
 4. As dúvidas que se suscitarem nesta matéria serão esclarecidas por despacho conjunto dos Ministros das Finanças e do Ultramar.
 
-###### Art. 29.º - 1. As receitas do Gabinete do Plano do Zambeze serão depositadas à sua ordem na metrópole, na Caixa Geral de Depósitos, Crédito e Previdência, e em Moçambique, no Banco Nacional Ultramarino, devendo as respectivas contas ser movimentadas por meio de cheques assinados pelo director-geral e pelo director dos serviços financeiros ou, em caso de impedimento, pelos seus substitutos legais.
+Art. 29.º - 1. As receitas do Gabinete do Plano do Zambeze serão depositadas à sua ordem na metrópole, na Caixa Geral de Depósitos, Crédito e Previdência, e em Moçambique, no Banco Nacional Ultramarino, devendo as respectivas contas ser movimentadas por meio de cheques assinados pelo director-geral e pelo director dos serviços financeiros ou, em caso de impedimento, pelos seus substitutos legais.
 
 2. Em Moçambique as contas das dotações dos serviços regionais serão movimentadas por meio de cheques assinados pelo respectivo director dos serviços e pelo chefe dos serviços administrativos ou, no seu impedimento, pelos substitutos legais.
 
-###### Art. 30.º Para ocorrer a encargos com despesas correntes inadiáveis haverá nos serviços centrais e nos serviços regionais fundos permanentes, a constituir por despacho do Ministro do Ultramar, nos termos legais, e a administrar pelos presidentes das respectivas comissões administrativas.
+Art. 30.º Para ocorrer a encargos com despesas correntes inadiáveis haverá nos serviços centrais e nos serviços regionais fundos permanentes, a constituir por despacho do Ministro do Ultramar, nos termos legais, e a administrar pelos presidentes das respectivas comissões administrativas.
 
-###### Art. 31.º Os contratos a celebrar pelo Gabinete do Plano do Zambeze são dispensados do visto do Tribunal de Contas, desde que sobre eles haja sido prestado parecer favorável pelo delegado daquele Tribunal junto da comissão administrativa a que se refere o artigo 8.º
+Art. 31.º Os contratos a celebrar pelo Gabinete do Plano do Zambeze são dispensados do visto do Tribunal de Contas, desde que sobre eles haja sido prestado parecer favorável pelo delegado daquele Tribunal junto da comissão administrativa a que se refere o artigo 8.º
 
-###### Art. 32.º O Gabinete do Plano do Zambeze apresentará ao Ministro do Ultramar, até 30 de Abril de cada ano, o relatório de actividades e as contas de gerência relativas ao ano anterior, para serem submetidas, no prazo legal, ao julgamento do Tribunal de Contas.
+Art. 32.º O Gabinete do Plano do Zambeze apresentará ao Ministro do Ultramar, até 30 de Abril de cada ano, o relatório de actividades e as contas de gerência relativas ao ano anterior, para serem submetidas, no prazo legal, ao julgamento do Tribunal de Contas.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 33.º - 1. Das deliberações definitivas e executórias do conselho directivo do Gabinete do Plano do Zambeze cabe recurso contencioso para o Conselho Ultramarino, nos termos da lei geral.
+Art. 33.º - 1. Das deliberações definitivas e executórias do conselho directivo do Gabinete do Plano do Zambeze cabe recurso contencioso para o Conselho Ultramarino, nos termos da lei geral.
 
 2. Os litígios entre o Gabinete e os adjudicatários de obras ou serviços contratados, bem como entidades ou pessoas colectivas beneficiárias dos seus serviços, poderão ser decididos por arbitragem, se tal estiver clausulado nos respectivos contratos.
 
 3. Sempre que o entenda conveniente, o conselho directivo pode constituir advogados para representarem o Gabinete nos processos em que for parte ou por qualquer forma interessado.
 
-###### Art. 34.º São declaradas de utilidade pública urgente as expropriações necessárias à realização dos objectivos cometidos ao Gabinete do Plano do Zambeze.
+Art. 34.º São declaradas de utilidade pública urgente as expropriações necessárias à realização dos objectivos cometidos ao Gabinete do Plano do Zambeze.
 
-###### Art. 35.º - 1. O Gabinete do Plano do Zambeze fica isento em Moçambique do pagamento de quaisquer tributações presentes, tais como taxas, licenças, contribuições, impostos, emolumentos e outros encargos fiscais, incluindo os selos, quer sejam gerais, especiais ou extraordinários, lançados pelo Estado ou pelos corpos administrativos.
+Art. 35.º - 1. O Gabinete do Plano do Zambeze fica isento em Moçambique do pagamento de quaisquer tributações presentes, tais como taxas, licenças, contribuições, impostos, emolumentos e outros encargos fiscais, incluindo os selos, quer sejam gerais, especiais ou extraordinários, lançados pelo Estado ou pelos corpos administrativos.
 
 2. O Gabinete beneficia também em Moçambique da isenção de direitos de importação e demais encargos, incluindo os emolumentos gerais aduaneiros, em toda a maquinaria, aeronaves, veículos, material flutuante, lanchas ou quaisquer embarcações, utensílios, aparelhagem, materiais, combustíveis e lubrificantes e quaisquer outros artigos ou elementos importados para estudo, construção, conservação, exploração ou renovação dos seus empreendimentos ou serviços.
 
@@ -319,27 +337,27 @@ c) Orçamentos anuais.
 
 4. Para efeitos de dispensa de reexportação, serão lavrados, em tempo oportuno, autos de inutilização dos bens referidos no número anterior que tenham sido consumidos ou inutilizados na execução das obras, os quais serão assinados por representantes do Gabinete e da autoridade aduaneira.
 
-###### Art. 36.º Até noventa dias após a publicação deste decreto-lei será transferido para o património do Gabinete do Plano do Zambeze, mediante inventário, todo o material, equipamento, semoventes, aeronaves, arquivos, instalações e demais bens, móveis ou imóveis, afectos ao serviço da Missão de Fomento e Povoamento do Zambeze, a qual se considerará extinta a partir daquela data.
+Art. 36.º Até noventa dias após a publicação deste decreto-lei será transferido para o património do Gabinete do Plano do Zambeze, mediante inventário, todo o material, equipamento, semoventes, aeronaves, arquivos, instalações e demais bens, móveis ou imóveis, afectos ao serviço da Missão de Fomento e Povoamento do Zambeze, a qual se considerará extinta a partir daquela data.
 
-###### Art. 37.º - 1. O pessoal em serviço na Missão de Fomento e Povoamento do Zambeze e no Grupo de Trabalho para o Zambeze transitará, após a publicação do decreto referido no n.º 1 do artigo 15.º, sem mais formalidades e sem interrupção do seu serviço, para o Gabinete do Plano do Zambeze, indo ocupar lugares de categoria tanto quanto possível equiparáveis aos desempenhados à data da transferência.
+Art. 37.º - 1. O pessoal em serviço na Missão de Fomento e Povoamento do Zambeze e no Grupo de Trabalho para o Zambeze transitará, após a publicação do decreto referido no n.º 1 do artigo 15.º, sem mais formalidades e sem interrupção do seu serviço, para o Gabinete do Plano do Zambeze, indo ocupar lugares de categoria tanto quanto possível equiparáveis aos desempenhados à data da transferência.
 
 2. A transferência do pessoal em comissão de serviço ou contratado efectuar-se-á segundo relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo, lavrando-se as necessárias apostilas nos respectivos contratos.
 
 3. Ao pessoal transferido para o Gabinete será contado, para todos os efeitos legais, o tempo de serviço anteriormente prestado, qualquer que tenha sido a sua situação.
 
-###### Art. 38.º O primeiro provimento dos lugares previstos nos quadros referidos no artigo 15.º será feito por livre escolha do Ministro, independentemente da idade, sendo os diplomas de provimento simplesmente anotados pelo Tribunal de Contas.
+Art. 38.º O primeiro provimento dos lugares previstos nos quadros referidos no artigo 15.º será feito por livre escolha do Ministro, independentemente da idade, sendo os diplomas de provimento simplesmente anotados pelo Tribunal de Contas.
 
-###### Art. 39.º Serão submetidas à aprovação do Ministro do Ultramar, até noventa dias após a publicação deste decreto-lei, as disposições regulamentares necessárias para a sua execução.
+Art. 39.º Serão submetidas à aprovação do Ministro do Ultramar, até noventa dias após a publicação deste decreto-lei, as disposições regulamentares necessárias para a sua execução.
 
-###### Art. 40.º Aos casos não especialmente previstos neste diploma e nas suas disposições regulamentares aplicar-se-á o Estatuto do Funcionalismo Ultramarino.
+Art. 40.º Aos casos não especialmente previstos neste diploma e nas suas disposições regulamentares aplicar-se-á o Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 41.º Este diploma entra imediatamente em vigor.
+Art. 41.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Fevereiro de 1970.**
+Promulgado em 20 de Fevereiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

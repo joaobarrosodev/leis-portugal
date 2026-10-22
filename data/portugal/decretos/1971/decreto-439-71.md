@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/439-1971-633326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 458520ca0ba73f8f3a5a7b7eaf75c7dbb2f844c3c16dbca1e35a366f12aa42c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a137f403885119e25ffd6ba71f96f8b534198cf8b5d83d5ee8bf0062abefb92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:36Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +119,17 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 2.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Moçambique, um contrato de concessão com a sociedade anónima portuguesa de responsabilidade limitada, actualmente com sede em Lourenço Marques, Diamoc - Companhia de Diamantes de Moçambique, S. A. R. L., de acordo com o texto anexo ao presente decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e abaixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Moçambique, um contrato de concessão com a sociedade anónima portuguesa de responsabilidade limitada, actualmente com sede em Lourenço Marques, Diamoc - Companhia de Diamantes de Moçambique, S. A. R. L., de acordo com o texto anexo ao presente decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e abaixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 2 de Outubro de 1971.**
+Promulgado em 2 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique - J. da Silva Cunha.
 
@@ -339,7 +359,9 @@ e) As contribuições para o Fundo de Fomento Mineiro Ultramarino referidas no a
 
 7 - A sociedade perderá todos os seus direitos mineirios relativamente às unidades de exploração e às demarcações não agrupadas em unidades de exploração, ou como tal consideradas, que se mantenham improdutivas durante três anos seguidos ou cinco interpolados, dentro de qualquer período de dez anos, excepto se a interrupção for autorizada pelo Governo ou motivada por caso de força maior.
 
-###### ARTIGO 20.º — Título de concessão
+###### ARTIGO 20.º
+
+## Título de concessão
 
 Após as diligências estabelecidas no artigo anterior, e respeitados os trâmites legais, será passado o respectivo título de concessão, que se conformará com o disposto na lei geral que não seja expressamente contrariado pelo contrato.
 
@@ -495,7 +517,7 @@ d) O custo dos trabalhos geológicos, de pesquisa e mineiros, necessários ao de
 
 e) A depreciação anual dos bens do activo imobilizado, que será contabilizada nas seguintes percentagens máximas dos respectivos valores de aquisição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24900/15751588.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24900/15751588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24900/15751588.pdf)
 
 f) A amortização do custo de concessão e pesquisa definido no n.º 9 deste artigo, referente a áreas já demarcadas definitivamente ou a áreas abandonadas até essa data, à taxa de 15 por cento;
 
@@ -777,4 +799,4 @@ Quaisquer aprovações ou autorizações relativas a trabalhos, instalações, p
 
 Qualquer notificação a fazer à sociedade nos termos do contrato deverá ser dirigida à sua sede social, com aviso de recepção.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

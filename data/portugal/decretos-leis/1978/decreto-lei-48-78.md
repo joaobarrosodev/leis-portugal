@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 67/1978, 1º Suplemento, Série I de 1978-03-21
   number: '67'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 564-(21) a 564-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/06701/00210031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0588d9d36951299821b23488233e4a70394365cb0c9859dfda46d8c71c94967a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 458ba599d47f3f77930ad07e7b48ee68e403410fcec64de88faae94f2c75c370
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Inspecção do Trabalho
+- Ministério do Trabalho
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:583800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297469:por
+  label: "Alterada a composição do mapa a que se refere o art. 37.º do presente diploma, pela Port.405/78.05.07.1978.MFP,\
+    \ DR.IS [169/78] de 25.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/405-1978-297469
+  date: '1978-07-05'
+- type: amended_by
+  target: pt:dre:377685:por
+  label: "Alterada a composição do mapa a que se refere o art. 37.º do presente diploma, pela PORT.435/79.31.07.1979.PCM,\
+    \ DR.IS [189] de 17.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/435-1979-377685
+  date: '1979-07-31'
+- type: amended_by
+  target: pt:dre:525383:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.90-A/80.06.03.1980.PCM, DR.IS [55]Supl de 06.03.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/90-a-1980-525383
+  date: '1980-03-06'
+- type: amended_by
+  target: pt:dre:458412:por
+  label: "Alterado o quadro de pessoal da Inspecção do Trabalho, aprovado pelo presente diploma, alterado pelas Ports 710/79,\
+    \ de 29-Dez e 90-A/80, de 06-Mar, pela PORT.977/80.13.11.1980.PCM, DR.IS [263] de 13.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-1980-458412
+  date: '1980-11-13'
+- type: amended_by
+  target: pt:dre:220908:por
+  label: "Criados lugares no quadro de pessoal anexo ao Estatuto da Inspecção do Trabalho, aprovado pelo presente diploma,\
+    \ na redacção da Port 405/78, de 25-Jul, da Port 435/79, de 17-Ago, da Port 710/79, de 29-Dez e da Port 90-A/80, de 06-Mar,\
+    \ pela PORT.693/86.19.11.1986.MF, DR.IS [267] de 19.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-1986-220908
+  date: '1986-11-19'
+- type: amended_by
+  target: pt:dre:583800:por
+  label: "Alterado o quadro de pessoal da Inspecção-Geral do Trabalho, aprovado no presente diploma, pela PORT.17/88.08.01.1988.MF,\
+    \ DR.IS [6] de 08.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-1988-583800
+  date: '1988-01-08'
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453199:por
+  label: "Revogado pelo DEC LEI.327/83.08.07.1983.MFP, DR.IS [155] de 08.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1983-453199
+  date: '1983-07-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:24Z'
   warnings: []
   errors: []
 ---
@@ -160,13 +214,13 @@ REGULAMENTO DA INSPECÇÃO DO TRABALHO
 
 ### CAPÍTULO I — A organização dos serviços
 
-###### Artigo 1.º - 1 - A Inspecção do Trabalho, a que se refere o capítulo III da Lei Orgânica do Ministério do Trabalho, aprovada pelo [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, rege-se pelo disposto naquele diploma e no presente Regulamento.
+Artigo 1.º - 1 - A Inspecção do Trabalho, a que se refere o capítulo III da Lei Orgânica do Ministério do Trabalho, aprovada pelo [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, rege-se pelo disposto naquele diploma e no presente Regulamento.
 
 2 - A Inspecção do Trabalho, no desempenho das respectivas atribuições, exerce a sua competência na área de todo o território nacional em todos os ramos de actividade, nas empresas públicas ou privadas, onde existam ou possam vir a existir relações de trabalho.
 
-###### Art. 2.º A Inspecção do Trabalho é um departamento técnico da Administração Pública integrado no Ministério do Trabalho e dotado, nos termos do presente Regulamento, de autonomia e independência, dispondo os seus funcionários, para o efeito, dos necessários poderes de autoridade.
+Art. 2.º A Inspecção do Trabalho é um departamento técnico da Administração Pública integrado no Ministério do Trabalho e dotado, nos termos do presente Regulamento, de autonomia e independência, dispondo os seus funcionários, para o efeito, dos necessários poderes de autoridade.
 
-###### Art. 3.º - 1 - São atribuições específicas da Inspecção do Trabalho:
+Art. 3.º - 1 - São atribuições específicas da Inspecção do Trabalho:
 
 a) Assegurar a aplicação das normas do direito do trabalho constantes das leis gerais, dos instrumentos de regulamentação colectiva de trabalho, de regulamentos internos de empresas e de contratos individuais de trabalho, bem como de outras normas obrigatórias relativas a condições de trabalho, tais como as que respeitam à duração do trabalho, salários, higiene e segurança, emprego de menores e outras matérias conexas;
 
@@ -180,7 +234,7 @@ c) Chamar a atenção dos departamentos competentes para as deficiências ou abu
 
 4 - De igual modo, a Inspecção do Trabalho prestará àquela Direcção-Geral o apoio e a colaboração que ambas considerem indispensáveis à prossecução dos objectivos comuns.
 
-###### Art. 4.º - 1 - As atribuições da Inspecção do Trabalho são asseguradas pelos seguintes órgãos e serviços:
+Art. 4.º - 1 - As atribuições da Inspecção do Trabalho são asseguradas pelos seguintes órgãos e serviços:
 
 a) O Serviço de Fiscalização de Condições de Trabalho;
 
@@ -192,9 +246,9 @@ d) As subdelegações.
 
 2 - Para o desempenho das suas atribuições próprias a Inspecção do Trabalho dispõe de um corpo de inspecção, cujas categorias são as constantes do presente Regulamento.
 
-###### Art. 5.º Os centros coordenadores, as delegações e as subdelegações são os previstos na Lei Orgânica do Ministério do Trabalho, competindo ao Ministro do Trabalho fixar por despacho a sua localização e a delimitação do respectivo âmbito territorial.
+Art. 5.º Os centros coordenadores, as delegações e as subdelegações são os previstos na Lei Orgânica do Ministério do Trabalho, competindo ao Ministro do Trabalho fixar por despacho a sua localização e a delimitação do respectivo âmbito territorial.
 
-###### Art. 6.º - 1 - A Inspecção do Trabalho é dirigida por um inspector-geral, que é coadjuvado, no exercício da sua competência, por um subinspector-geral e por pessoal técnico de inspecção da sua escolha.
+Art. 6.º - 1 - A Inspecção do Trabalho é dirigida por um inspector-geral, que é coadjuvado, no exercício da sua competência, por um subinspector-geral e por pessoal técnico de inspecção da sua escolha.
 
 2 - O Serviço de Fiscalização de Condições de Trabalho é constituído pelas Repartições de Duração do Trabalho, de Quadros de Pessoal e de Contratos Especiais de Trabalho e é dirigido por um inspector-chefe, o qual dispõe de um corpo técnico para o coadjuvar no exercício da sua competência especializada.
 
@@ -204,11 +258,11 @@ d) As subdelegações.
 
 5 - As subdelegações são dirigidas por chefes de subdelegação, os quais dispõem de pessoal técnico de inspecção para os coadjuvar no exercício da sua competência.
 
-###### Art. 7.º Em cada um dos órgãos ou serviços da Inspecção do Trabalho o pessoal técnico de inspecção terá o apoio do pessoal técnico, técnico auxiliar, administrativo e auxiliar dos quadros do Ministério do Trabalho necessário ao desempenho das suas atribuições.
+Art. 7.º Em cada um dos órgãos ou serviços da Inspecção do Trabalho o pessoal técnico de inspecção terá o apoio do pessoal técnico, técnico auxiliar, administrativo e auxiliar dos quadros do Ministério do Trabalho necessário ao desempenho das suas atribuições.
 
-###### Art. 8.º Os chefes das secções que prestem apoio simultâneo aos órgãos e serviços da Inspecção do Trabalho e da Direcção-Geral das Relações Colectivas de Trabalho dependem hierarquicamente dos respectivos responsáveis, devendo estes definir conjuntamente as funções que aqueles lhes deverão assegurar.
+Art. 8.º Os chefes das secções que prestem apoio simultâneo aos órgãos e serviços da Inspecção do Trabalho e da Direcção-Geral das Relações Colectivas de Trabalho dependem hierarquicamente dos respectivos responsáveis, devendo estes definir conjuntamente as funções que aqueles lhes deverão assegurar.
 
-###### Art. 9.º - 1 - Junto do inspector-geral, em cada centro coordenador regional e em cada delegação e subdelegação devem existir:
+Art. 9.º - 1 - Junto do inspector-geral, em cada centro coordenador regional e em cada delegação e subdelegação devem existir:
 
 a) Uma colecção do Diário da República e do Boletim do Trabalho e Emprego;
 
@@ -264,7 +318,7 @@ d) Registos relativos à contabilidade e tesouraria.
 
 ### CAPÍTULO II — Competências e poderes
 
-###### Art. 10.º - 1 - Compete ao inspector-geral:
+Art. 10.º - 1 - Compete ao inspector-geral:
 
 a) Superintender em todos os serviços da Inspecção do Trabalho;
 
@@ -294,7 +348,7 @@ n) Desempenhar as restantes funções que por lei, regulamento ou determinação
 
 2 - Nas suas ausências e impedimentos, o inspector-geral é substituído pelo subinspector-geral, ao qual compete coadjuvá-lo, podendo exercer os poderes e competências que por ele lhe sejam delegados.
 
-###### Art. 11.º - 1 - Compete ao inspector superior:
+Art. 11.º - 1 - Compete ao inspector superior:
 
 a) Superintender nas delegações e subdelegações compreendidas na área do respectivo centro coordenador regional;
 
@@ -322,7 +376,7 @@ m) Desempenhar as restantes funções que por lei, regulamento ou determinação
 
 2 - Nas suas faltas e impedimentos, o inspector superior é substituído pelo chefe de delegação com categoria de quadro mais elevada de entre os que dirigem as delegações abrangidas pelo respectivo centro coordenador regional.
 
-###### Art. 12.º - 1 - Compete ao chefe de delegação:
+Art. 12.º - 1 - Compete ao chefe de delegação:
 
 a) Superintender nas subdelegações compreendidas na área respectiva;
 
@@ -334,7 +388,7 @@ d) Exercer, na área da sua jurisdição, as demais competências atribuídas no
 
 2 - O chefe de delegação é substituído, nas suas ausências e impedimentos, pelo chefe de subdelegação com categoria de quadro mais elevada de entre os que dirigem as subdelegações abrangidas pela respectiva delegação ou, na sua falta, pelo inspector ou subinspector de categoria mais elevada.
 
-###### Art. 13.º - 1 - Compete ao inspector-chefe que dirige o Serviço de Fiscalização de Condições de Trabalho:
+Art. 13.º - 1 - Compete ao inspector-chefe que dirige o Serviço de Fiscalização de Condições de Trabalho:
 
 a) Superintender no respectivo Serviço e coordenar a actuação das delegações da Inspecção do Trabalho em matérias das suas atribuições;
 
@@ -346,7 +400,7 @@ d) Exercer as demais competências atribuídas nas alíneas h) a l) do n.º 1 do
 
 2 - O inspector-chefe referido no número anterior é substituído, nas suas ausências e impedimentos, pelo inspector-chefe que for designado para o efeito pelo inspector-geral.
 
-###### Art. 14.º - 1 - Compete ao chefe de subdelegação:
+Art. 14.º - 1 - Compete ao chefe de subdelegação:
 
 a) Dirigir os respectivos serviços;
 
@@ -356,11 +410,11 @@ c) Exercer, na área da sua jurisdição, as demais competências atribuídas no
 
 2 - O chefe de subdelegação é substituído, nas suas ausências e impedimentos, pelo inspector ou subinspector de categoria mais elevada.
 
-###### Art. 15.º - 1 - Ao pessoal técnico de inspecção compete executar todas as tarefas e assegurar todas as acções de inspecção no domínio das atribuições daquela, pela forma e na medida que lhe sejam cometidas pelos respectivos responsáveis.
+Art. 15.º - 1 - Ao pessoal técnico de inspecção compete executar todas as tarefas e assegurar todas as acções de inspecção no domínio das atribuições daquela, pela forma e na medida que lhe sejam cometidas pelos respectivos responsáveis.
 
 2 - Quando exerçam acções de inspecção, os estagiários serão sempre acompanhados por funcionário do quadro do pessoal técnico de inspecção, nunca podendo, porém, proceder ao levantamento de autos de notícia.
 
-###### Art. 16.º No exercício das acções de inspecção, podem os funcionários referidos no artigo anterior:
+Art. 16.º No exercício das acções de inspecção, podem os funcionários referidos no artigo anterior:
 
 a) Levantar autos de notícia pelas infracções verificadas;
 
@@ -376,23 +430,23 @@ f) Exigir a afixação de mapas nos casos em que a lei assim o determinar;
 
 g) Recolher e levar para análise amostras de matérias e substâncias utilizadas ou manipuladas, desde que de tal facto seja dado conhecimento à entidade patronal, gestor ou aos seus representantes.
 
-###### Art. 17.º - 1 - Em matérias de higiene e segurança dos locais e postos de trabalho a Inspecção do Trabalho garantirá o cumprimento da lei, regulamentos e disposições contratuais aplicáveis, impondo igualmente medidas destinadas a eliminar as deficiências verificadas, desde que considere que tais deficiências ou métodos de trabalho sejam prejudiciais à saúde ou segurança dos trabalhadores.
+Art. 17.º - 1 - Em matérias de higiene e segurança dos locais e postos de trabalho a Inspecção do Trabalho garantirá o cumprimento da lei, regulamentos e disposições contratuais aplicáveis, impondo igualmente medidas destinadas a eliminar as deficiências verificadas, desde que considere que tais deficiências ou métodos de trabalho sejam prejudiciais à saúde ou segurança dos trabalhadores.
 
 2 - A fim de promover a adopção dos preceitos e medidas referidos no número anterior, a Inspecção do Trabalho poderá ordenar que sejam realizadas nas instalações, dentro de um prazo fixado, as modificações necessárias para assegurar a sua efectiva aplicação.
 
 3 - O disposto nos números anteriores entende-se sem prejuízo da competência legalmente atribuída a outros departamentos do Estado e da colaboração que com estes deverá ser mantida.
 
-###### Art. 18.º Os actos do inspector-geral, do subinspector-geral, do inspector superior, do chefe de delegação, do chefe de subdelegação, do inspector-chefe e do inspector principal praticados no exercício da sua competência gozam do benefício de execução prévia quando:
+Art. 18.º Os actos do inspector-geral, do subinspector-geral, do inspector superior, do chefe de delegação, do chefe de subdelegação, do inspector-chefe e do inspector principal praticados no exercício da sua competência gozam do benefício de execução prévia quando:
 
 a) Em perigo iminente, visem preservar a vida, a saúde e a segurança dos trabalhadores nos locais de trabalho;
 
 b) Reconhecido um direito, haja recusa ilegítima na sua observância.
 
-###### Art. 19.º - 1 - Verificada a identidade dos funcionários da Inspecção do Trabalho, comete o crime previsto no artigo 186.º do Código Penal todo aquele que se oponha à entrada e ao livre exercício das suas funções nos locais onde tenham de actuar, bem como à de qualquer técnico ou representante de associações de classe que, devidamente credenciados, os acompanhem e com eles colaborem, a seu pedido expresso.
+Art. 19.º - 1 - Verificada a identidade dos funcionários da Inspecção do Trabalho, comete o crime previsto no artigo 186.º do Código Penal todo aquele que se oponha à entrada e ao livre exercício das suas funções nos locais onde tenham de actuar, bem como à de qualquer técnico ou representante de associações de classe que, devidamente credenciados, os acompanhem e com eles colaborem, a seu pedido expresso.
 
 2 - Os mesmos funcionários podem prender em flagrante delito, entregando-as à autoridade policial mais próxima com o respectivo auto de notícia, as pessoas que procurem impedir a sua acção ou que os injuriem, ameacem, difamem ou agridam no exercício ou por motivo das suas funções, assim como os indivíduos que os acompanhem, nos termos previstos no número anterior.
 
-###### Art. 20.º - 1 - Aqueles que sem motivo legítimo se recusarem a prestar aos funcionários da Inspecção do Trabalho, no exercício das suas funções, as declarações, informações, depoimentos e outros elementos de apreciação que lhes forem exigidos, nos termos deste diploma, cometem o crime previsto no artigo 188.º do Código Penal.
+Art. 20.º - 1 - Aqueles que sem motivo legítimo se recusarem a prestar aos funcionários da Inspecção do Trabalho, no exercício das suas funções, as declarações, informações, depoimentos e outros elementos de apreciação que lhes forem exigidos, nos termos deste diploma, cometem o crime previsto no artigo 188.º do Código Penal.
 
 2 - Aqueles que prestarem falsas informações ou declarações aos mesmos funcionários, no exercício das suas funções, cometem o crime previsto no artigo 242.º do Código Penal.
 
@@ -400,25 +454,25 @@ b) Reconhecido um direito, haja recusa ilegítima na sua observância.
 
 4 - Os crimes e restantes infracções verificados pelos referidos funcionários relativos a normas cuja fiscalização não seja da sua competência devem ser participados às autoridades respectivas, sendo desse facto dado conhecimento superior.
 
-###### Art. 21.º - 1 - Os funcionários da Inspecção do Trabalho, no exercício das suas funções, devem proceder sempre por forma que da sua intervenção não resulte ofensa ou quebra da hierarquia e disciplina que devem existir dentro das empresas entre entidades patronais ou gestores e os trabalhadores.
+Art. 21.º - 1 - Os funcionários da Inspecção do Trabalho, no exercício das suas funções, devem proceder sempre por forma que da sua intervenção não resulte ofensa ou quebra da hierarquia e disciplina que devem existir dentro das empresas entre entidades patronais ou gestores e os trabalhadores.
 
 2 - Quando em acção de inspecção, deverá o funcionário que a efectuar informar da sua presença a entidade patronal, gestor ou seus representantes, a não ser que tal aviso possa, em seu entender, prejudicar a eficácia da intervenção.
 
 3 - Antes de abandonar o local visitado, deve o funcionário, sempre que lhe seja possível, comunicar à entidade patronal, gestor ou a quem os represente o resultado da visita.
 
-###### Art. 22.º Os serviços da Inspecção do Trabalho, sempre que para tal sejam solicitados pelos tribunais, assegurarão as diligências indispensáveis à averiguação sobre as circunstâncias em que os acidentes de trabalho ocorreram ou foram contraídas doenças profissionais, bem como à determinação das entidades responsáveis por uns e outras.
+Art. 22.º Os serviços da Inspecção do Trabalho, sempre que para tal sejam solicitados pelos tribunais, assegurarão as diligências indispensáveis à averiguação sobre as circunstâncias em que os acidentes de trabalho ocorreram ou foram contraídas doenças profissionais, bem como à determinação das entidades responsáveis por uns e outras.
 
 ### CAPÍTULO III — Acção da Inspecção do Trabalho
 
-###### Art. 23.º - 1 - A Inspecção do Trabalho exercerá uma acção educativa e orientadora, prestando aos gestores, entidades patronais e trabalhadores as informações e conselhos que lhe sejam solicitados nos locais de trabalho ou fora deles e, de igual modo, agirá por meios persuasórios e esclarecedores no sentido de sensibilizar os interessados sobre o processo mais eficaz de observarem as disposições legais.
+Art. 23.º - 1 - A Inspecção do Trabalho exercerá uma acção educativa e orientadora, prestando aos gestores, entidades patronais e trabalhadores as informações e conselhos que lhe sejam solicitados nos locais de trabalho ou fora deles e, de igual modo, agirá por meios persuasórios e esclarecedores no sentido de sensibilizar os interessados sobre o processo mais eficaz de observarem as disposições legais.
 
 2 - Dentro do espírito educativo e orientador exercido pela Inspecção do Trabalho, sempre que sejam notadas infracções em relação às quais se entenda preferível estabelecer prazo para a sua reparação, o mesmo deverá ser fixado e levado ao conhecimento do superior hierárquico.
 
 3 - Decorrido o prazo referido no número anterior, será efectuada nova visita e, se a infracção persistir, proceder-se-á ao levantamento do competente auto de notícia.
 
-###### Art. 24.º Em todas as delegações e subdelegações da Inspecção do Trabalho haverá um serviço informativo e de reclamações assegurado por funcionários do respectivo quadro, ao qual incumbe prestar esclarecimentos e aceitar queixas no âmbito das suas atribuições.
+Art. 24.º Em todas as delegações e subdelegações da Inspecção do Trabalho haverá um serviço informativo e de reclamações assegurado por funcionários do respectivo quadro, ao qual incumbe prestar esclarecimentos e aceitar queixas no âmbito das suas atribuições.
 
-###### Art. 25.º - 1 - Verificadas, por qualquer forma, infracções a normas cuja fiscalização incumba à inspecção do Trabalho, devem os funcionários competentes levantar os respectivos autos de notícia.
+Art. 25.º - 1 - Verificadas, por qualquer forma, infracções a normas cuja fiscalização incumba à inspecção do Trabalho, devem os funcionários competentes levantar os respectivos autos de notícia.
 
 2 - O auto de notícia deve conter os elementos mencionados no artigo 166.º do Código de Processo Penal, com dispensa da indicação de testemunhas e da assinatura do infractor, e a sua eficácia depende de confirmação pelos funcionários competentes para esse efeito, nos termos do presente Regulamento.
 
@@ -430,11 +484,11 @@ b) Reconhecido um direito, haja recusa ilegítima na sua observância.
 
 6 - Se a infracção consistir no incumprimento de obrigações pecuniárias, nomeadamente indemnizações devidas a trabalhadores, será sempre, além da multa, calculado o seu montante.
 
-###### Art. 26.º - 1 - A Inspecção do Trabalho, quando o entender necessário, poderá solicitar a colaboração de quaisquer autoridades, nomeadamente da Polícia de Segurança Pública e da Guarda Nacional Republicana, na fiscalização em matéria da sua competência específica, podendo aquelas levantar os autos de notícia que resultem das contravenções verificadas.
+Art. 26.º - 1 - A Inspecção do Trabalho, quando o entender necessário, poderá solicitar a colaboração de quaisquer autoridades, nomeadamente da Polícia de Segurança Pública e da Guarda Nacional Republicana, na fiscalização em matéria da sua competência específica, podendo aquelas levantar os autos de notícia que resultem das contravenções verificadas.
 
 2 - Os autos de notícia referidos no número anterior serão elaborados nos termos deste diploma e remetidos às delegações ou subdelegações da Inspecção do Trabalho para efeitos de confirmação e demais trâmites legais.
 
-###### Art. 27.º - 1 - Os autos de notícia serão elaborados em quadruplicado, destinando-se o original a ser enviado à entidade notificadora competente para efeito de pagamento voluntário.
+Art. 27.º - 1 - Os autos de notícia serão elaborados em quadruplicado, destinando-se o original a ser enviado à entidade notificadora competente para efeito de pagamento voluntário.
 
 2 - Os demais exemplares destinam-se, um, ao arquivo dos autos de notícia, outro, ao processo individual do transgressor, e o terceiro, a ser apenso, posteriormente, ao original, no caso da sua remessa a juízo.
 
@@ -442,11 +496,11 @@ b) Reconhecido um direito, haja recusa ilegítima na sua observância.
 
 4 - Os autos de notícia serão sempre acompanhados das guias correspondentes às multas e a outras obrigações pecuniárias, se a estas houver lugar.
 
-###### Art. 28.º - 1 - As decisões de não confirmação e de desconfirmação de autos de notícia são da competência do inspector-geral, do subinspector-geral, do inspector superior, dos chefes de delegação e dos chefes de subdelegação.
+Art. 28.º - 1 - As decisões de não confirmação e de desconfirmação de autos de notícia são da competência do inspector-geral, do subinspector-geral, do inspector superior, dos chefes de delegação e dos chefes de subdelegação.
 
 2 - Os despachos de não confirmação e de desconfirmação serão sempre fundamentados e registados em livro próprio.
 
-###### Art. 29.º - 1 - Se os autos de notícia respeitarem a transgressão de preceitos a que corresponda pena de multa, devem ser remetidos no prazo de dez dias, acompanhados das guias para pagamento, ao comando da Polícia de Segurança Pública do concelho do domicílio do transgressor, que notificará este em igual prazo.
+Art. 29.º - 1 - Se os autos de notícia respeitarem a transgressão de preceitos a que corresponda pena de multa, devem ser remetidos no prazo de dez dias, acompanhados das guias para pagamento, ao comando da Polícia de Segurança Pública do concelho do domicílio do transgressor, que notificará este em igual prazo.
 
 2 - Nos concelhos em que não exista comando da Polícia de Segurança Pública, o disposto no número anterior processar-se-á através do respectivo comando da Guarda Nacional Republicana.
 
@@ -454,39 +508,39 @@ b) Reconhecido um direito, haja recusa ilegítima na sua observância.
 
 4 - A notificação considera-se feita na pessoa do infractor quando efectuada em qualquer outra que na altura o represente, ainda que não possua título bastante para o efeito.
 
-###### Art. 30.º - 1 - O transgressor deverá efectuar o pagamento das multas e dos adicionais, se os houver, no prazo de dez dias a contar da data da notificação efectuada nos termos deste Regulamento.
+Art. 30.º - 1 - O transgressor deverá efectuar o pagamento das multas e dos adicionais, se os houver, no prazo de dez dias a contar da data da notificação efectuada nos termos deste Regulamento.
 
 2 - Findo o prazo a que se refere o número anterior, serão os autos de notícia devolvidos à Inspecção do Trabalho pela entidade que procedeu à notificação nos dez dias imediatos.
 
-###### Art. 31.º - 1 - O pagamento das multas e dos adicionais deverá efectuar-se, conforme os casos, nas tesourarias da Fazenda Pública, na Caixa Geral de Depósitos ou no Banco de Portugal.
+Art. 31.º - 1 - O pagamento das multas e dos adicionais deverá efectuar-se, conforme os casos, nas tesourarias da Fazenda Pública, na Caixa Geral de Depósitos ou no Banco de Portugal.
 
 2 - Efectuado o pagamento, juntar-se-ão aos autos de notícia os necessários exemplares das guias, sendo estes documentos enviados à Inspecção do Trabalho para efeito de arquivo.
 
 3 - Não sendo efectuado o pagamento e devolvidos os autos de notícia à Inspecção do Trabalho, nos termos do n.º 2 do artigo anterior, serão aqueles remetidos a juízo nos dez dias seguintes.
 
-###### Art. 32.º Quando haja lugar ao pagamento simultâneo de multas com outras prestações pecuniárias, o depósito destas precederá sempre a liquidação das respectivas multas.
+Art. 32.º Quando haja lugar ao pagamento simultâneo de multas com outras prestações pecuniárias, o depósito destas precederá sempre a liquidação das respectivas multas.
 
-###### Art. 33.º - 1 - As guias relativas a multas e adicionais cuja receita reverta para o Estado serão passadas em quadruplicado, destinando-se dois exemplares ao serviço onde o pagamento for efectuado, outro a ser junto ao auto de notícia e ficando um em poder do infractor.
+Art. 33.º - 1 - As guias relativas a multas e adicionais cuja receita reverta para o Estado serão passadas em quadruplicado, destinando-se dois exemplares ao serviço onde o pagamento for efectuado, outro a ser junto ao auto de notícia e ficando um em poder do infractor.
 
 2 - O número de exemplares das guias respeitantes a multas ou outras prestações pecuniárias cuja receita reverta para outras entidades será determinado consoante as exigências dessas mesmas entidades, acrescido de mais dois, destinando-se um ao infractor e outro a ser junto ao auto de notícia.
 
 3 - As guias de depósito das indemnizações mencionadas nos autos de notícia devidas a trabalhadores serão passadas em triplicado, destinando-se o original ao arquivo da Inspecção do Trabalho e os restantes exemplares ao depositante, que deverá devolver um deles ao comando da Polícia de Segurança Pública ou da Guarda Nacional Republicana, conforme os casos, a fim de ser junto ao auto de notícia.
 
-###### Art. 34.º - 1 - Os autos de notícia remetidos aos tribunais competentes serão acompanhados de dois verbetes, destinando-se um a informar sobre a distribuição do processo e outro sobre o seu resultado.
+Art. 34.º - 1 - Os autos de notícia remetidos aos tribunais competentes serão acompanhados de dois verbetes, destinando-se um a informar sobre a distribuição do processo e outro sobre o seu resultado.
 
 2 - Os referidos verbetes, depois de completado o seu preenchimento, serão devolvidos à Inspecção do Trabalho no prazo máximo de cinco dias, a contar da data do acto a que respeitem.
 
-###### Art. 35.º - 1 - O depósito das indemnizações calculadas nos autos de notícia devidas a trabalhadores será efectuado na Caixa Geral de Depósitos, à ordem das delegações e subdelegações da Inspecção do Trabalho, consoante os casos, ficando estas obrigadas, mediante recibo isento de imposto do selo, a efectuar a entrega das respectivas importâncias aos interessados no prazo máximo de trinta dias, a contar da data do conhecimento do depósito.
+Art. 35.º - 1 - O depósito das indemnizações calculadas nos autos de notícia devidas a trabalhadores será efectuado na Caixa Geral de Depósitos, à ordem das delegações e subdelegações da Inspecção do Trabalho, consoante os casos, ficando estas obrigadas, mediante recibo isento de imposto do selo, a efectuar a entrega das respectivas importâncias aos interessados no prazo máximo de trinta dias, a contar da data do conhecimento do depósito.
 
 2 - Se após aviso registado o credor não se apresentar no prazo de sessenta dias a receber a importância a que tenha direito, a Inspecção do Trabalho solicitará ao agente do Ministério Público junto do tribunal competente que promova a sua consignação em depósito e, se no prazo de um ano aquele não requerer o levantamento, será dado à mencionada importância o destino previsto na lei.
 
 3 - O processo de consignação em depósito será isento de custas.
 
-###### Art. 36.º O produto das multas constitui receita do Estado quando por lei não lhe seja dado outro destino.
+Art. 36.º O produto das multas constitui receita do Estado quando por lei não lhe seja dado outro destino.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 37.º - 1 - O quadro do pessoal da Inspecção do Trabalho é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+Art. 37.º - 1 - O quadro do pessoal da Inspecção do Trabalho é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
 
 2 - O provimento nos lugares do quadro referido no número anterior é regulado pelas normas constantes da Lei Orgânica do Ministério do Trabalho e do presente Regulamento.
 
@@ -496,19 +550,19 @@ b) Reconhecido um direito, haja recusa ilegítima na sua observância.
 
 5 - Sempre que as circunstâncias o justifiquem, pode a composição do quadro ser alterada por portaria conjunta dos Ministros das Finanças e do Trabalho e do Secretário de Estado da Administração Pública.
 
-###### Art. 38.º - 1 - Os funcionários da Inspecção do Trabalho possuirão um cartão de identidade para o exercício das suas funções, que será emitido pela Secretaria-Geral do Ministério do Trabalho e autenticado pelo inspector-geral.
+Art. 38.º - 1 - Os funcionários da Inspecção do Trabalho possuirão um cartão de identidade para o exercício das suas funções, que será emitido pela Secretaria-Geral do Ministério do Trabalho e autenticado pelo inspector-geral.
 
 2 - O modelo de cartão de identidade a que se refere o número anterior será aprovado por portaria do Ministro do Trabalho.
 
-###### Art. 39.º - 1 - São criadas carreiras técnicas de inspecção nos termos do presente Regulamento.
+Art. 39.º - 1 - São criadas carreiras técnicas de inspecção nos termos do presente Regulamento.
 
 2 - Excluem-se das carreiras técnicas de inspecção referidas no número anterior as categorias do pessoal dirigente, cujo provimento é feito em comissão de serviço, nos termos do artigo 96.º da Lei Orgânica do Ministério do Trabalho.
 
-###### Art. 40.º - 1 - A admissão nos quadros do pessoal da Inspecção do Trabalho para o exercício de funções de fiscalização far-se-á sempre na categoria de estagiário, independentemente das habilitações possuídas pelos candidatos, mas sem prejuízo das mínimas exigidas.
+Art. 40.º - 1 - A admissão nos quadros do pessoal da Inspecção do Trabalho para o exercício de funções de fiscalização far-se-á sempre na categoria de estagiário, independentemente das habilitações possuídas pelos candidatos, mas sem prejuízo das mínimas exigidas.
 
 2 - Findo o estágio, os estagiários que devam ser admitidos nas carreiras serão classificados, consoante as habilitações possuídas, em conformidade com as regras constantes do n.º 2 do artigo 45.º
 
-###### Art. 41.º - 1 - As carreiras do pessoal técnico de inspecção iniciam-se com a realização de um estágio na categoria de estagiário.
+Art. 41.º - 1 - As carreiras do pessoal técnico de inspecção iniciam-se com a realização de um estágio na categoria de estagiário.
 
 2 - Aquele estágio efectuar-se-á em qualquer dos serviços da Inspecção do Trabalho e deverá revestir características essencialmente práticas, com predominância da actividade externa.
 
@@ -518,15 +572,15 @@ b) Reconhecido um direito, haja recusa ilegítima na sua observância.
 
 5 - A admissão ao estágio é feita através de concurso documental.
 
-###### Art. 42.º Os estagiários, além da retribuição mensal e demais abonos que lhes sejam atribuídos, terão acesso aos livros, publicações e outro material didáctico indispensável a uma adequada preparação.
+Art. 42.º Os estagiários, além da retribuição mensal e demais abonos que lhes sejam atribuídos, terão acesso aos livros, publicações e outro material didáctico indispensável a uma adequada preparação.
 
-###### Art. 43.º Os estagiários que derem mais de trinta faltas justificadas ou mais de cinco injustificadas, seguidas ou interpoladas, perdem automaticamente o estágio.
+Art. 43.º Os estagiários que derem mais de trinta faltas justificadas ou mais de cinco injustificadas, seguidas ou interpoladas, perdem automaticamente o estágio.
 
-###### Art. 44.º - 1 - Os poderes, direitos e deveres genéricos do estagiário são os conferidos pelo presente Regulamento aos subinspectores, sem prejuízo do disposto no n.º 2 do artigo 15.º
+Art. 44.º - 1 - Os poderes, direitos e deveres genéricos do estagiário são os conferidos pelo presente Regulamento aos subinspectores, sem prejuízo do disposto no n.º 2 do artigo 15.º
 
 2 - O período de estágio contar-se-á para todos os efeitos legais.
 
-###### Art. 45.º - 1 - Decorrido o período de estágio, os estagiários são submetidos a provas de aptidão, cujo programa, constituição do júri de avaliação e demais requisitos constarão de regulamento aprovado por portaria conjunta do Ministro do Trabalho e do Secretário de Estado da Administração Pública.
+Art. 45.º - 1 - Decorrido o período de estágio, os estagiários são submetidos a provas de aptidão, cujo programa, constituição do júri de avaliação e demais requisitos constarão de regulamento aprovado por portaria conjunta do Ministro do Trabalho e do Secretário de Estado da Administração Pública.
 
 2 - Os estagiários que forem aprovados naquelas provas serão providos pela seguinte forma:
 
@@ -538,7 +592,7 @@ c) Todos os restantes, na categoria de subinspector de 2.ª classe.
 
 3 - Os estagiários que não forem aprovados naquelas provas serão exonerados sem direito a qualquer indemnização.
 
-###### Art. 46.º O pessoal técnico de inspecção é recrutado pela seguinte forma:
+Art. 46.º O pessoal técnico de inspecção é recrutado pela seguinte forma:
 
 a) Inspectores-chefes - por concurso documental e avaliação curricular, de entre os inspectores principais habilitados com licenciatura com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação;
 
@@ -558,29 +612,29 @@ h) Subinspectores principais - por concurso documental e avaliação curricular,
 
 i) Subinspectores de 1.ª classe - por concurso documental e avaliação curricular, de entre os subinspectores de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-###### Art. 47.º - 1 - Os funcionários da Inspecção do Trabalho são obrigados, sob pena de demissão e sem prejuízo da aplicação das sanções previstas na lei penal, a guardar rigoroso sigilo profissional, não podendo em caso algum revelar segredos de fabricação ou comércio, nem, de um modo geral, quaisquer precessos de exploração económica de que porventura tenham conhecimento através do desempenho das suas funções.
+Art. 47.º - 1 - Os funcionários da Inspecção do Trabalho são obrigados, sob pena de demissão e sem prejuízo da aplicação das sanções previstas na lei penal, a guardar rigoroso sigilo profissional, não podendo em caso algum revelar segredos de fabricação ou comércio, nem, de um modo geral, quaisquer precessos de exploração económica de que porventura tenham conhecimento através do desempenho das suas funções.
 
 2 - Consideram-se confidenciais todas as fontes de denúncia que assinalem defeitos de instalação ou infracções às disposições legais ou contratuais, não podendo os funcionários da Inspecção do Trabalho revelar à entidade patronal, gestor ou seus representantes que a visita de inspecção foi consequência de uma denúncia.
 
 3 - O disposto nos números anteriores aplicar-se-á aos condutores de viaturas e demais pessoas que, nos termos do presente diploma, possam acompanhar os funcionários da Inspecção do Trabalho.
 
-###### Art. 48.º - 1 - Nenhum funcionário das carreiras de inspecção em serviço efectivo poderá exercer cargos de gerência, administração ou quaisquer outras funções, sejam ou não remuneradas, ao serviço de quaisquer entidades interessadas nas actividades que estejam sujeitas à fiscalização da Inspecção do Trabalho.
+Art. 48.º - 1 - Nenhum funcionário das carreiras de inspecção em serviço efectivo poderá exercer cargos de gerência, administração ou quaisquer outras funções, sejam ou não remuneradas, ao serviço de quaisquer entidades interessadas nas actividades que estejam sujeitas à fiscalização da Inspecção do Trabalho.
 
 2 - É igualmente vedado aos funcionários das carreiras de inspecção aceitar quaisquer benefícios de ordem material das entidades interessadas nas actividades sujeitas à sua fiscalização.
 
-###### Art. 49.º - 1 - Os funcionários das carreiras de inspecção poderão ser deslocados de acordo com as necessidades do serviço da Inspecção do Trabalho sempre que aquelas não possam ser satisfeitas com o pessoal disponível localmente.
+Art. 49.º - 1 - Os funcionários das carreiras de inspecção poderão ser deslocados de acordo com as necessidades do serviço da Inspecção do Trabalho sempre que aquelas não possam ser satisfeitas com o pessoal disponível localmente.
 
 2 - O pessoal das carreiras de inspecção que exerça funções de direcção não deverá permanecer por mais de seis anos numa mesma delegação ou subdelegação da Inspecção do Trabalho.
 
-###### Art. 50.º - 1 - Os funcionários das carreiras de inspecção consideram-se permanentemente investidos na sua autoridade e no exercício das suas funções.
+Art. 50.º - 1 - Os funcionários das carreiras de inspecção consideram-se permanentemente investidos na sua autoridade e no exercício das suas funções.
 
 2 - O regime da duração do traablho dos funcionários da Inspecção do Trabalho é o estipulado para a função pública, podendo, no entanto, as respectivas funções ser exercidas a qualquer hora do dia ou da noite, consoante as necessidades do serviço.
 
 3 - Os funcionários referidos nos números anteriores que tenham de prestar serviço nos dias ou meios dias destinados a descanso semanal terão direito ao correspondente descanso num dos três dias seguintes.
 
-###### Art. 51.º O pessoal dirigente e técnico de inspecção tem direito às gratificações actualmente fixadas, observado o disposto no artigo 2.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro.
+Art. 51.º O pessoal dirigente e técnico de inspecção tem direito às gratificações actualmente fixadas, observado o disposto no artigo 2.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro.
 
-###### Art. 52.º - 1 - De todas as visitas efectuadas devem os funcionários da Inspecção do Trabalho elaborar uma nota diária de serviço, donde constem, nomeadamente, a denominação, sede e actividade da entidade visitada, a hora aproximada da visita e a indicação breve do resultado em coluna de observações.
+Art. 52.º - 1 - De todas as visitas efectuadas devem os funcionários da Inspecção do Trabalho elaborar uma nota diária de serviço, donde constem, nomeadamente, a denominação, sede e actividade da entidade visitada, a hora aproximada da visita e a indicação breve do resultado em coluna de observações.
 
 2 - A nota de serviço deverá ser elaborada e entregue no primeiro período de serviço interno que se seguir à visita ao responsável respectivo.
 
@@ -590,15 +644,15 @@ i) Subinspectores de 1.ª classe - por concurso documental e avaliação curricu
 
 5 - A nota referida no número antecedente será, por sua vez, remetida ao inspector-geral num dos dez dias seguintes.
 
-###### Art. 53.º Os funcionários da Inspecção do Trabalho devem observar a máxima correcção e urbanidade com todas as entidades com quem contactem no exercício das suas funções.
+Art. 53.º Os funcionários da Inspecção do Trabalho devem observar a máxima correcção e urbanidade com todas as entidades com quem contactem no exercício das suas funções.
 
 ### CAPÍTULO V — Avaliação profissional
 
-###### Art. 54.º Enquanto não for regulamentada em termos genéricos, a apreciação do mérito profissional dos funcionários da Inspecção do Trabalho far-se-á anualmente de acordo com os critérios a fixar em portaria do Ministro do Trabalho e do Secretário de Estado da Administração Pública.
+Art. 54.º Enquanto não for regulamentada em termos genéricos, a apreciação do mérito profissional dos funcionários da Inspecção do Trabalho far-se-á anualmente de acordo com os critérios a fixar em portaria do Ministro do Trabalho e do Secretário de Estado da Administração Pública.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 55.º - 1 - As entidades sujeitas a fiscalização da Inspecção do Trabalho são obrigadas a comunicar aos respectivos serviços, em duplicado:
+Art. 55.º - 1 - As entidades sujeitas a fiscalização da Inspecção do Trabalho são obrigadas a comunicar aos respectivos serviços, em duplicado:
 
 a) Antes do início da laboração, a denominação social, ramo ou ramos de actividade, sede e local ou locais de trabalho;
 
@@ -606,24 +660,24 @@ b) Qualquer alteração aos elementos referidos na alínea anterior.
 
 2 - As infracções ao disposto no número anterior serão punidas com a multa de 800$00 a 2000$00.
 
-###### Art. 56.º Com a entrada em vigor do presente diploma e a integração nos quadros da inspecção do Trabalho, os actuais funcionários serão distribuídos pelas diferentes delegações e subdelegações de acordo com as necessidades dos serviços.
+Art. 56.º Com a entrada em vigor do presente diploma e a integração nos quadros da inspecção do Trabalho, os actuais funcionários serão distribuídos pelas diferentes delegações e subdelegações de acordo com as necessidades dos serviços.
 
-###### Art. 57.º O relatório anual a que se refere a alínea c) do n.º 1 do artigo 10.º do presente Regulamento será mandado publicar no Boletim do Trabalho e Emprego por despacho do Ministro do Trabalho.
+Art. 57.º O relatório anual a que se refere a alínea c) do n.º 1 do artigo 10.º do presente Regulamento será mandado publicar no Boletim do Trabalho e Emprego por despacho do Ministro do Trabalho.
 
-###### Art. 58.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro do Trabalho, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 58.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro do Trabalho, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 59.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 59.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - António Manuel Maldonado Gonelha.
 
-**Promulgado em 7 de Março de 1978.**
+Promulgado em 7 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 37.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/06701/00210031.pdf))](https://files.diariodarepublica.pt/1s/1978/03/06701/00210031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/06701/00210031.pdf)
 
-**O Ministro do Trabalho, António Manuel Maldonado Gonelha.**
+O Ministro do Trabalho, António Manuel Maldonado Gonelha.

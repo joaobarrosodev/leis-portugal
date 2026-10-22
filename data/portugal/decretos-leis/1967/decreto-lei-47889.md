@@ -49,36 +49,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47889-1967-390469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c501a740442634155fa1230a1e26dab5f63588da54c946e1c8f358ee50c9e4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80fa30a3011fea7e997ffb1e14a86704f0fb21dad3a2ace721baf4a57986314f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crime
+- Julgamento
+- Militar
+- Ultramar
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:13Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Considerando as vantagens de reunir num único diploma a matéria constante dos 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O militar com acção penal pendente, no foro militar ou comum, que seja nomeado por imposição para prestar serviço em lugar fora do território continental, das ilhas adjacentes ou da província ultramarina em que se situe o tribunal competente para o julgamento ou ainda em zona de operações, segue o seu destino sem embaraço, devendo cessar a prisão preventiva a que esteja sujeito.
+Artigo 1.º - 1. O militar com acção penal pendente, no foro militar ou comum, que seja nomeado por imposição para prestar serviço em lugar fora do território continental, das ilhas adjacentes ou da província ultramarina em que se situe o tribunal competente para o julgamento ou ainda em zona de operações, segue o seu destino sem embaraço, devendo cessar a prisão preventiva a que esteja sujeito.
 
 2. Sendo solicitada a comparência do militar para julgamento e encontrando-se fora do território continental, das ilhas adjacentes ou da província ultramarina em que se situe o tribunal competente para o julgamento ou ainda em zona de operações, não se interrompe o serviço para que foi nomeado por imposição.
 
@@ -99,7 +103,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Não é admitida a prorrogação da comissão ao militar com acção criminal pendente.
 
-###### Art. 2.º - 1. Em relação ao militar abrangido pelos n.os 1 a 3 do artigo 1.º, a acção criminal suspende-se com o libelo, a pronúncia ou despacho equivalente, que não transita em julgado. A suspensão pode ordenar-se antes, quando se considere necessária.
+Art. 2.º - 1. Em relação ao militar abrangido pelos n.os 1 a 3 do artigo 1.º, a acção criminal suspende-se com o libelo, a pronúncia ou despacho equivalente, que não transita em julgado. A suspensão pode ordenar-se antes, quando se considere necessária.
 
 2. Quando já tenha sido entregue a nota de culpa ou transitada a pronúncia ou despacho equivalente, a suspensão deve iniciar-se com a nomeação para o serviço nas condições indicadas. Exceptua-se o recurso pendente, que segue até decisão, mas esta não transita.
 
@@ -107,7 +111,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. A suspensão cessa com a colocação do arguido à disposição do tribunal.
 
-###### Art. 3.º - 1. O militar é, todavia, imediatamente posto à disposição do tribunal competente:
+Art. 3.º - 1. O militar é, todavia, imediatamente posto à disposição do tribunal competente:
 
 a) Quando tiver culpa formada, ainda que sem trânsito, por crime a que corresponda pena acessória de demissão ou expulsão;
 
@@ -115,7 +119,7 @@ b) Sempre que o respectivo departamento das forças armadas o entender convenien
 
 2. O militar com promoção suspensa em virtude de acção criminal pendente pode obter o seu julgamento imediato quando não haja apreciável inconveniente para o serviço.
 
-###### Art. 4.º - 1. Correndo acção criminal contra militar, o agente do Ministério Público junto do tribunal competente deve enviar ao Estado-Maior do Exército ou da Força Aérea ou à Superintendência dos Serviços da Armada, consoante o caso, no prazo de oito dias, certidão do despacho de pronúncia ou equivalente.
+Art. 4.º - 1. Correndo acção criminal contra militar, o agente do Ministério Público junto do tribunal competente deve enviar ao Estado-Maior do Exército ou da Força Aérea ou à Superintendência dos Serviços da Armada, consoante o caso, no prazo de oito dias, certidão do despacho de pronúncia ou equivalente.
 
 Essas entidades devem informar, na prazo de 30 dias, se o processo deve ser suspenso ou pode continuar seus regulares termos.
 
@@ -125,7 +129,7 @@ Essas entidades devem informar, na prazo de 30 dias, se o processo deve ser susp
 
 Este é apresentado sob prisão se o despacho de pronúncia o tiver ordenado.
 
-###### Artigo 5.º - 1. Havendo outros réus, a suspensão nos termos do artigo 2.º não prejudica o prosseguimento do processo quanto a estes.
+Artigo 5.º - 1. Havendo outros réus, a suspensão nos termos do artigo 2.º não prejudica o prosseguimento do processo quanto a estes.
 
 2. Não havendo inconveniente, procede-se ao julgamento em separado dos réus não militares. Para o efeito, deve extrair-se por traslado a culpa tocante do réu militar.
 
@@ -133,11 +137,11 @@ Este é apresentado sob prisão se o despacho de pronúncia o tiver ordenado.
 
 Se a entidade militar não puser o réu militar à disposição do tribunal, podem os autos aguardar para que se proceda a julgamento em conjunto ou ordenar-se o julgamento em separado nos termos do número anterior.
 
-###### Art. 6.º Para o efeito de contagem do tempo de prestação de serviço no ultramar, não é de considerar o tempo do cumprimento de pena.
+Art. 6.º Para o efeito de contagem do tempo de prestação de serviço no ultramar, não é de considerar o tempo do cumprimento de pena.
 
-###### Art. 7.º São revogados os Decretos-Leis n.os 40600, de 12 de Maio de 1956, 44737, de 29 de Novembro de 1962, e 46351, de 24 de Maio de 1965.
+Art. 7.º São revogados os Decretos-Leis n.os 40600, de 12 de Maio de 1956, 44737, de 29 de Novembro de 1962, e 46351, de 24 de Maio de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Alberto de Oliveira.
 

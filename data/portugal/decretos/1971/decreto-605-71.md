@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/605-1971-165868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93b27e92c4e97f28e3de62e0b5d95b8f0b24237e38dba118686a721dc6c974de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab4ab768c6271065364dd9bc124ad99c726188308dc424883c950f34bc088ea9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:52Z'
   warnings: []
   errors: []
 ---
@@ -89,29 +101,29 @@ Com fundamento na alínea, a) do artigo 35.º do [Decreto n.º 18381](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Saúde e Assistência, créditos especiais no montante de 812000$00, destinados a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Saúde e Assistência, créditos especiais no montante de 812000$00, destinados a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
 
-### Capítulo 2.º «Gabinete de Estudos e Planeamento»:
+Capítulo 2.º «Gabinete de Estudos e Planeamento»:
 
-###### Artigo 22.º «Remunerações certas ao pessoal em exercício»:
+Artigo 22.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante dois meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30300/20342035.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30300/20342035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30300/20342035.pdf)
 
-###### Artigo 23.º, n.º 1) «Para pagamento de outros encargos de funcionamento» ... 500000$00
+Artigo 23.º, n.º 1) «Para pagamento de outros encargos de funcionamento» ... 500000$00
 
 ... 812000$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo precedente, são efectuadas as seguintes alterações no Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo precedente, são efectuadas as seguintes alterações no Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério da Saúde e Assistência
 
-### Capítulo 1.º, artigo 1.º, n.º 2) ... 558626$00
+Capítulo 1.º, artigo 1.º, n.º 2) ... 558626$00
 
-### Capítulo 2.º, artigo 22.º, n.º 1) ... 253374$00
+Capítulo 2.º, artigo 22.º, n.º 1) ... 253374$00
 
 ... 812000$00
 
@@ -119,8 +131,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Dezembro de 1971.**
+Promulgado em 22 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

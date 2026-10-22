@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 26/1960, 1º Suplemento, Série I de 1960-02-02
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 205 - 591
   pdf_url: https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf
 entry_into_force_dates: []
@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42826-1960-208843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5099bd067364baa26cecbe2423dbcfef0ae87f067577e97f3f6a46ea93fd30fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bd2472df8c1c178ade4c490d32eebea99723e782ec2484606f6ce34eac60ccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Otava
+- Portugal
+- União Postal Universal
 relationships: []
 article_structure:
-  article_count: 8
-  section_count: 371
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 369
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:55Z'
   warnings: []
   errors: []
 ---
@@ -85,17 +89,17 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aprovados, para serem ratificados, a Convenção, Acordos e respectivos Regulamentos assinados em Otava, no XIV Congresso da União Postal Universal, em 3 de Outubro de 1957, cujos textos em francês e respectiva tradução são os que seguem em anexo ao presente decreto-lei.
+Artigo 1.º São aprovados, para serem ratificados, a Convenção, Acordos e respectivos Regulamentos assinados em Otava, no XIV Congresso da União Postal Universal, em 3 de Outubro de 1957, cujos textos em francês e respectiva tradução são os que seguem em anexo ao presente decreto-lei.
 
-###### Art. 2.º Os impressos de serviços mencionados nos actos diplomáticos a que se refere o artigo anterior são os que figuram na publicação editada pela Secretaria Internacional da União Postal Universal, intitulada Formulária da U. P. U.
+Art. 2.º Os impressos de serviços mencionados nos actos diplomáticos a que se refere o artigo anterior são os que figuram na publicação editada pela Secretaria Internacional da União Postal Universal, intitulada Formulária da U. P. U.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Convenção postal universal
 
@@ -109,115 +113,115 @@ Disposições orgânicas e de ordem geral relativas à União Postal Universal
 
 ### CAPÍTULO I — Constituição da União
 
-###### Art. 1.º Constituição e objectivos da União.
+Art. 1.º Constituição e objectivos da União.
 
-###### Art. 2.º Sede da União.
+Art. 2.º Sede da União.
 
-###### Art. 3.º Novas admissões. Formalidades.
+Art. 3.º Novas admissões. Formalidades.
 
-###### Art. 4.º Territórios por cujas relações internacionais é responsável um País membro.
+Art. 4.º Territórios por cujas relações internacionais é responsável um País membro.
 
-###### Art. 5.º Aplicação dos Actos da União aos Territórios por cujas relações internacionais é responsável um País membro.
+Art. 5.º Aplicação dos Actos da União aos Territórios por cujas relações internacionais é responsável um País membro.
 
-###### Art. 6.º Âmbito da União.
+Art. 6.º Âmbito da União.
 
-###### Art. 7.º Relações excepcionais.
+Art. 7.º Relações excepcionais.
 
-###### Art. 8.º Uniões restritas. Acordos especiais.
+Art. 8.º Uniões restritas. Acordos especiais.
 
-###### Art. 9.º Saída da União.
+Art. 9.º Saída da União.
 
-###### Art. 10.º Línguas.
+Art. 10.º Línguas.
 
 ### CAPÍTULO II — Organização da União
 
-###### Art. 11.º Congressos.
+Art. 11.º Congressos.
 
-###### Art. 12.º Congressos extraordinários.
+Art. 12.º Congressos extraordinários.
 
-###### Art. 13.º Apresentação de propostas aos Congressos.
+Art. 13.º Apresentação de propostas aos Congressos.
 
-###### Art. 14.º Conferências administrativas.
+Art. 14.º Conferências administrativas.
 
-###### Art. 15.º Regulamentos internos dos Congressos e das Conferências.
+Art. 15.º Regulamentos internos dos Congressos e das Conferências.
 
-###### Art. 16.º Comissão executiva e de ligação.
+Art. 16.º Comissão executiva e de ligação.
 
-###### Art. 17.º Comissão consultiva de estudos postais.
+Art. 17.º Comissão consultiva de estudos postais.
 
-###### Art. 18.º Comissões especiais.
+Art. 18.º Comissões especiais.
 
-###### Art. 19.º Secretaria Internacional.
+Art. 19.º Secretaria Internacional.
 
-###### Art. 20.º Despesas da União.
+Art. 20.º Despesas da União.
 
 ### CAPÍTULO III — Relações da União com as Nações Unidas
 
-###### Art. 21.º Relações com as Nações Unidas.
+Art. 21.º Relações com as Nações Unidas.
 
 ### CAPÍTULO IV — Actos da União
 
-###### Art. 22.º Convenção e Acordos da União.
+Art. 22.º Convenção e Acordos da União.
 
-###### Art. 23.º Cessação de participação nos Acordos.
+Art. 23.º Cessação de participação nos Acordos.
 
-###### Art. 24.º Regulamentos de execução.
+Art. 24.º Regulamentos de execução.
 
-###### Art. 25.º Ratificação.
+Art. 25.º Ratificação.
 
-###### Art. 26.º Legislações nacionais.
+Art. 26.º Legislações nacionais.
 
 ### CAPÍTULO V — Propostas de modificação ou interpretação dos Actos da União no intervalo dos Congressos
 
-###### Art. 27.º Apresentação de propostas.
+Art. 27.º Apresentação de propostas.
 
-###### Art. 28.º Exame das propostas.
+Art. 28.º Exame das propostas.
 
-###### Art. 29.º Condições de aprovação.
+Art. 29.º Condições de aprovação.
 
-###### Art. 30.º Notificação das resoluções.
+Art. 30.º Notificação das resoluções.
 
-###### Art. 31.º Execução das resoluções.
+Art. 31.º Execução das resoluções.
 
-###### Art. 32.º Propostas relativas aos Acordos com as Nações Unidas.
+Art. 32.º Propostas relativas aos Acordos com as Nações Unidas.
 
 ### CAPÍTULO VI — Da arbitragem
 
-###### Art. 33.º Arbitragens.
+Art. 33.º Arbitragens.
 
 ## TÍTULO II — Disposições de ordem geral
 
 ### CAPÍTULO I — Princípios relativos aos serviços postais internacionais
 
-###### Art. 34.º Liberdade de trânsito.
+Art. 34.º Liberdade de trânsito.
 
-###### Art. 35.º Inobservância da liberdade de trânsito.
+Art. 35.º Inobservância da liberdade de trânsito.
 
-###### Art. 36.º Suspensão temporária de serviços.
+Art. 36.º Suspensão temporária de serviços.
 
-###### Art. 37.º Taxas.
+Art. 37.º Taxas.
 
-###### Art. 38.º Isenção de franquia.
+Art. 38.º Isenção de franquia.
 
-###### Art. 39.º Isenção de franquia da correspondência relativa a prisioneiros de guerra e internados civis.
+Art. 39.º Isenção de franquia da correspondência relativa a prisioneiros de guerra e internados civis.
 
-###### Art. 40.º Isenção de franquia das impressões em relevo para uso dos cegos.
+Art. 40.º Isenção de franquia das impressões em relevo para uso dos cegos.
 
-###### Art. 41.º Moeda-tipo.
+Art. 41.º Moeda-tipo.
 
-###### Art. 42.º Liquidação de contas.
+Art. 42.º Liquidação de contas.
 
-###### Art. 43.º Equivalentes.
+Art. 43.º Equivalentes.
 
-###### Art. 44.º Selos postais.
+Art. 44.º Selos postais.
 
-###### Art. 45.º Impressos de serviço.
+Art. 45.º Impressos de serviço.
 
-###### Art. 46.º Bilhetes de identidade postais.
+Art. 46.º Bilhetes de identidade postais.
 
 ### CAPÍTULO II — Sanções penais
 
-###### Art. 47.º Compromissos relativos às sanções penais.
+Art. 47.º Compromissos relativos às sanções penais.
 
 SEGUNDA PARTE
 
@@ -225,87 +229,87 @@ Disposições relativas à correspondência postal
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 48.º Objectos de correspondência.
+Art. 48.º Objectos de correspondência.
 
-###### Art. 49.º Taxas e condições gerais.
+Art. 49.º Taxas e condições gerais.
 
-###### Art. 50.º Taxas especiais.
+Art. 50.º Taxas especiais.
 
-###### Art. 51.º Taxa de armazenagem.
+Art. 51.º Taxa de armazenagem.
 
-###### Art. 52.º Franquia.
+Art. 52.º Franquia.
 
-###### Art. 53.º Modalidades de franquia.
+Art. 53.º Modalidades de franquia.
 
-###### Art. 54.º Franquia das correspondências a bordo dos navios.
+Art. 54.º Franquia das correspondências a bordo dos navios.
 
-###### Art. 55.º Taxa no caso de falta total ou insuficiência de franquia.
+Art. 55.º Taxa no caso de falta total ou insuficiência de franquia.
 
-###### Art. 56.º Cupões-resposta internacionais.
+Art. 56.º Cupões-resposta internacionais.
 
-###### Art. 57.º Correspondência a entregar por próprio.
+Art. 57.º Correspondência a entregar por próprio.
 
-###### Art. 58.º Restituição. Modificação de endereço.
+Art. 58.º Restituição. Modificação de endereço.
 
-###### Art. 59.º Reexpedição. Correspondência não entregue e a devolver à procedência.
+Art. 59.º Reexpedição. Correspondência não entregue e a devolver à procedência.
 
-###### Art. 60.º Proibições.
+Art. 60.º Proibições.
 
-###### Art. 61.º Objectos sujeitos a direitos aduaneiros.
+Art. 61.º Objectos sujeitos a direitos aduaneiros.
 
-###### Art. 62.º Verificação aduaneira.
+Art. 62.º Verificação aduaneira.
 
-###### Art. 63.º Taxa aplicável por despachos aduaneiros.
+Art. 63.º Taxa aplicável por despachos aduaneiros.
 
-###### Art. 64.º Direitos aduaneiros e outros direitos não postais.
+Art. 64.º Direitos aduaneiros e outros direitos não postais.
 
-###### Art. 65.º Correspondências livres de encargos para o destinatário.
+Art. 65.º Correspondências livres de encargos para o destinatário.
 
-###### Art. 66.º Anulação de direitos aduaneiros e outros direitos não postais.
+Art. 66.º Anulação de direitos aduaneiros e outros direitos não postais.
 
-###### Art. 67.º Reclamações e pedidos de informações.
+Art. 67.º Reclamações e pedidos de informações.
 
 ### CAPÍTULO II — Objectos registados
 
-###### Art. 68.º Taxas.
+Art. 68.º Taxas.
 
-###### Art. 69.º Aviso de recepção.
+Art. 69.º Aviso de recepção.
 
-###### Art. 70.º Entrega em mão própria.
+Art. 70.º Entrega em mão própria.
 
-###### Art. 71.º Responsabilidade.
+Art. 71.º Responsabilidade.
 
-###### Art. 72.º Isenção de responsabilidade.
+Art. 72.º Isenção de responsabilidade.
 
-###### Art. 73.º Determinação da responsabilidade entre as Administrações postais.
+Art. 73.º Determinação da responsabilidade entre as Administrações postais.
 
-###### Art. 74.º Pagamento da indemnização.
+Art. 74.º Pagamento da indemnização.
 
-###### Art. 75.º Prazo de pagamento da indemnização.
+Art. 75.º Prazo de pagamento da indemnização.
 
-###### Art. 76.º Reembolso da indemnização à Administração expedidora.
+Art. 76.º Reembolso da indemnização à Administração expedidora.
 
-###### Art. 77.º Aparecimento ulterior de uma correspondência registada considerada como perdida.
+Art. 77.º Aparecimento ulterior de uma correspondência registada considerada como perdida.
 
 ### CAPÍTULO III — Atribuição das taxas. Direitos de trânsito
 
-###### Art. 78.º Atribuição das taxas.
+Art. 78.º Atribuição das taxas.
 
-###### Art. 79.º Direitos de trânsito.
+Art. 79.º Direitos de trânsito.
 
-###### Art. 80.º Isenção de direitos de trânsito.
+Art. 80.º Isenção de direitos de trânsito.
 
-###### Art. 81.º Serviços extraordinários.
+Art. 81.º Serviços extraordinários.
 
-###### Art. 82.º Contas dos direitos de trânsito.
+Art. 82.º Contas dos direitos de trânsito.
 
-###### Art. 83.º Permuta de malas fechadas com navios ou aviões de guerra.
+Art. 83.º Permuta de malas fechadas com navios ou aviões de guerra.
 
 TERCEIRA PARTE
 
 Disposições finais
 
-###### Art. 84.º Entrada em vigor e duração da Convenção.
+Art. 84.º Entrada em vigor e duração da Convenção.
 
 Protocolo final da Convenção
 
@@ -841,7 +845,7 @@ A denominação «objectos de correspondência» abrange as cartas, os bilhetes-
 
 1. As taxas de franquia para o transporte dos objectos de correspondência em toda a área da União, bem como os limites de peso e de dimensões, fixam-se conforme as indicações do quadro seguinte. Salvo as excepções previstas no artigo 50.º, § 3, estas taxas incluem a entrega dos objectos no domicílio dos destinatários, desde que o País de destino tenha montado o serviço de distribuição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 2. Os limites de peso e de dimensões fixados no § 1 não se aplicam aos objectos de correspondência relativos ao serviço postal de que trata o artigo 38.º
 
@@ -1177,7 +1181,7 @@ Salvo os casos expressamente previstos pela Convenção e Acordos, as Administra
 
 1. Sem prejuízo das disposições do artigo 80.º, as malas fechadas trocadas entre duas Administrações ou entre duas estações de um mesmo País por intermédio dos serviços de uma ou de várias outras Administrações (serviços de terceiros) ficam sujeitas aos direitos de trânsito indicados no quadro abaixo, a favor de cada um dos Países atravessados ou cujos serviços tomem parte no transporte. Estes direitos ficam a cargo da Administração do País de origem das malas. Todavia, os direitos de transporte entre duas estações do País de destino ficam a cargo desse País.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 2. Consideram-se como serviços de terceiros, salvo acordo em contrário, os transportes marítimos efectuados directamente entre dois Países por intermédio de navios de um deles.
 
@@ -1889,19 +1893,15 @@ Protocolo final da Convenção postal universal
 
 No momento de se proceder à assinatura da Convenção Postal Universal, concluída na data de hoje, os Plenipotenciários abaixo assinados convencionaram o seguinte:
 
-ARTIGO I
-
-Excepção à isenção de franquia das impressões em relevo para uso dos cegos
+###### ARTIGO I — Excepção à isenção de franquia das impressões em relevo para uso dos cegos
 
 Como excepção às disposições dos artigos 48.º e 49.º, os Países que não concedam, no seu regime interno, isenção de franquia às impressões em relevo para uso dos cegos, incluindo as cartas cecográficas depositadas abertas, têm a faculdade de cobrar uma taxa, que, todavia, não pode ser superior à do seu serviço interno.
 
-ARTIGO II
-
-Equivalentes. Limites máximos e mínimos
+###### ARTIGO II — Equivalentes. Limites máximos e mínimos
 
 1. Cada País tem a faculdade de aumentar até 60 por cento ou reduzir até 20 por cento as taxas previstas no artigo 49.º, § 1, de harmonia com as indicações do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 2. As taxas escolhidas devem manter entre si, tanto quanto possível, as proporções existentes nas taxas básicas, tendo cada Administração a faculdade de as arredondar, para mais ou para menos, conforme o caso e de harmonia com as conveniências resultantes do seu sistema monetário.
 
@@ -1909,103 +1909,73 @@ Equivalentes. Limites máximos e mínimos
 
 4. Todavia, as Administrações que se aproveitem do aumento previsto no § 1 têm a faculdade de fixar as taxas a cobrar, no caso de falta total ou insuficiência de franquia, de harmonia com a equivalência das taxas básicas indicadas no artigo 49.º, § 1, e não de harmonia com as suas taxas de expedição aumentadas.
 
-ARTIGO III
-
-Excepções à aplicação das tarifas dos manuscritos, dos impressos e das amostras
+###### ARTIGO III — Excepções à aplicação das tarifas dos manuscritos, dos impressos e das amostras
 
 1. Como excepção às disposições do artigo 49.º, os Países têm o direito de não aplicar aos manuscritos, aos impressos e às amostras a taxa fixada para o primeiro escalão de peso e de aplicar a este escalão a taxa de 5 cêntimos, mas podem aplicar às amostras uma taxa mínima de 10 cêntimos. No caso de objectos agrupados, a taxa a pagar deve ser a taxa mínima das amostras, se a remessa se compuser de impressos e amostras.
 
 2. Excepcionalmente, os Países ficam autorizados a elevar as taxas internacionais dos manuscritos, dos impressos e das amostras até aos valores previstos, na sua legislação interna, para os objectos da mesma natureza do serviço interno.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Onça «avoirdupois»
 
 Admite-se, excepcionalmente, que os Países que, por causa do seu regime interno, não possam adoptar o tipo de peso métrico decimal tenham a faculdade de o substituir pela onça avoirdupois (28,3465 gramas), equiparando 1 onça a 20 gramas para as cartas e correspondência fonopostal e 2 onças a 50 gramas para os manuscritos, impressos, amostras e pacotes postais.
 
-ARTIGO V
-
-Excepção à inclusão de valores nas cartas registadas
+###### ARTIGO V — Excepção à inclusão de valores nas cartas registadas
 
 Como excepção às disposições do artigo 49.º, § 7, as Administrações dos Correios dos Estados Unidos do Brasil, do Chile, da República das Filipinas e da Suíça ficam autorizadas a não admitir nas cartas registadas os valores mencionados no referido § 7.
 
-ARTIGO VI
-
-Correspondência posta no correio em países estrangeiros
+###### ARTIGO VI — Correspondência posta no correio em países estrangeiros
 
 Nenhum País fica obrigado a expedir, nem a distribuir aos destinatários, a correspondência que quaisquer remetentes domiciliados no seu território ponham ou mandem pôr num País estrangeiro, com o fim de beneficiar de taxas mais baixas ali estabelecidas; o mesmo sucede quanto à correspondência nas mesmas condições depositada em grande quantidade, quer esse depósito tenha ou não sido feito com o fim de beneficiar de taxas mais baixas. A regra aplica-se sem distinção, quer à correspondência preparada no País habitado pelo remetente e transportada em seguida através da fronteira, quer à correspondência preparada num País estrangeiro. A Administração interessada tem o direito, ou de devolver à origem os objectos de que se trata, ou de lhes aplicar as suas taxas internas. A modalidade da cobrança das taxas fica à sua escolha.
 
-ARTIGO VII
-
-Cupões-resposta internacionais
+###### ARTIGO VII — Cupões-resposta internacionais
 
 As Administrações têm a faculdade de não se encarregarem da venda de cupões-resposta internacionais ou de a limitarem.
 
-ARTIGO VIII
-
-Restituição. Modificação de endereço
+###### ARTIGO VIII — Restituição. Modificação de endereço
 
 As disposições do artigo 58.º não se aplicam à União da África do Sul, Commonwealth da Austrália, Birmânia, Canadá, Reino Unido da Grã-Bretanha e da Irlanda do Norte, Índia, Nova Zelândia e Paquistão, nem aos Territórios Britânicos do Ultramar, incluindo as Colónias, Protectorados e Territórios sob curadoria exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte, nem à Irlanda, cuja legislação interna não permite a restituição ou a modificação do endereço da correspondência a pedido do remetente.
 
-ARTIGO IX
-
-Prémio de registo e taxa de aviso de recepção
+###### ARTIGO IX — Prémio de registo e taxa de aviso de recepção
 
 Os Países que não podem fixar o prémio de registo e a taxa do aviso de recepção nos valores previstos nos artigos 68.º, § 2, e 69.º, §§ 1 e 2, ficam autorizados a cobrar o prémio e a taxa fixados no seu serviço interno.
 
-ARTIGO X
-
-Direitos especiais de trânsito pelo Transiberiano e pelo Transandino
+###### ARTIGO X — Direitos especiais de trânsito pelo Transiberiano e pelo Transandino
 
 1. A Administração postal da União das Repúblicas Soviéticas Socialistas fica autorizada a cobrar um suplemento de 1 franco e 30 cêntimos, além dos direitos de trânsito mencionados no artigo 79.º, § 1, 1.º (percursos terrestres), por quilograma de correspondência de qualquer natureza transportada em trânsito pelo Transiberiano.
 
 2. A Administração postal da República Argentina fica autorizada a cobrar um suplemento de 30 cêntimos sobre os direitos de trânsito mencionados no artigo 79.º, § 1, 1.º (percursos terrestres), por cada quilograma de correspondência de qualquer natureza transportada, em trânsito, pelo troço argentino do Ferrocarril Transandino.
 
-ARTIGO XI
-
-Condições especiais de trânsito para o Afeganistão
+###### ARTIGO XI — Condições especiais de trânsito para o Afeganistão
 
 Como excepção às disposições do artigo 79.º, § 1, a Administração do Afeganistão fica autorizada provisòriamente, por motivo de dificuldades especiais que se lhe deparam em matéria de meios de transporte e de comunicação, a efectuar o trânsito de malas fechadas e de correspondência a descoberto através do seu País, em condições especialmente combinadas entre ela e as Administrações interessadas.
 
-ARTIGO XII
-
-Direitos especiais de entreposto em Adem
+###### ARTIGO XII — Direitos especiais de entreposto em Adem
 
 Excepcionalmente, a Administração de Adem fica autorizada a cobrar uma taxa de 40 cêntimos por mala, por todas as expedições arrecadadas no entreposto de Adem, desde que esta Administração não receba nenhum direito de trânsito terrestre ou marítimo por estas malas.
 
-ARTIGO XIII
-
-Serviços aéreos
+###### ARTIGO XIII — Serviços aéreos
 
 As disposições relativas ao correio aéreo ficam anexas à Convenção Postal Universal e consideram-se como fazendo parte integrante desta e do seu Regulamento.
 
-ARTIGO XIV
-
-Protocolo deixado em aberto aos Países membros para assinaturas e adesões
+###### ARTIGO XIV — Protocolo deixado em aberto aos Países membros para assinaturas e adesões
 
 O Protocolo fica aberto a favor dos Países cujos representantes só assinaram, nesta data, a Convenção ou a Convenção e um ou mais dos Acordos concluídos pelo Congresso, a fim de lhes permitir a adesão aos Acordos que não assinaram ou a um ou mais de um deles.
 
-ARTIGO XV
-
-Protocolo deixado em aberto aos Países membros não representados
+###### ARTIGO XV — Protocolo deixado em aberto aos Países membros não representados
 
 O Protocolo fica em aberto aos Países membros não representados no Congresso, a fim de lhes permitir aderir, quer à Convenção sòmente, quer à Convenção e aos Acordos, quer ainda à Convenção e a um ou mais dos Acordos concluídos pelo Congresso.
 
-ARTIGO XVI
-
-Prazo para a notificação das adesões
+###### ARTIGO XVI — Prazo para a notificação das adesões
 
 As adesões previstas nos artigos XIV e XV deverão ser notificadas, pelos Governos interessados, por via diplomática, ao Governo do Canadá e, por este, aos Governos dos outros Países membros da União. O prazo concedido aos mencionados Governos para esta notificação expirará no dia 1 de Abril de 1959.
 
-ARTIGO XVII
-
-Comissão executiva e de ligação
+###### ARTIGO XVII — Comissão executiva e de ligação
 
 Como excepção às disposições do artigo 84.º, a Comissão executiva e de ligação fica autorizada a exercer as suas funções antes da entrada em vigor dos Actos emanados do Congresso, com base na designação dos membros feita pelo Congresso nos termos do artigo 16.º, § 3.
 
-ARTIGO XVIII
-
-Comissão consultiva de estudos postais
+###### ARTIGO XVIII — Comissão consultiva de estudos postais
 
 Como excepção às disposições dos artigos 20.º e 84.º, a Comissão consultiva de estudos postais fica autorizada a exercer as suas funções antes da entrada em vigor dos Actos emanados do Congresso. A Secretaria Internacional fica autorizada a incluir as despesas que daí resultem nas contas extraordinárias do ano de 1958.
 
@@ -2025,13 +1995,11 @@ Preâmbulo
 
 Em virtude das obrigações atribuídas à Organização das Nações Unidas, nos termos do artigo 57.º da Carta das Nações Unidas, a Organização das Nações Unidas e a União Postal Universal estipulam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 A Organização das Nações Unidas reconhece a União Postal Universal (designada no presente texto por «União») como sendo a instituição especializada à qual compete tomar todas as medidas conforme ao seu Acto constitutivo para atingir os objectivos fixados neste Acto.
 
-ARTIGO II
-
-Representação recíproca
+###### ARTIGO II — Representação recíproca
 
 1. Serão convidados representantes da Organização das Nações Unidas a assistir aos Congressos, às Conferências administrativas e às Comissões da União e a tomar parte, sem direito de voto, nas deliberações destas reuniões.
 
@@ -2041,15 +2009,11 @@ Representação recíproca
 
 4. O Secretariado da Organização das Nações Unidas procederá à distribuição de todas as comunicações escritas apresentadas pela União aos membros da Assembleia Geral, do Conselho e dos seus órgãos, assim como do Conselho de Curadoria, conforme os casos. As comunicações escritas apresentadas pela Organização das Nações Unidas serão igualmente distribuídas pela União aos seus membros.
 
-ARTIGO III
-
-Inscrição de assuntos na ordem do dia
+###### ARTIGO III — Inscrição de assuntos na ordem do dia
 
 Com excepção das consultas preliminares que se tornem necessárias, a União deverá inscrever na ordem do dia dos seus Congressos, Conferências administrativas ou Comissões, ou, eventualmente, apresentar aos seus membros, de harmonia com as normas de procedimento estabelecidas pela Convenção Postal Universal, os assuntos que lhe forem transmitidos pela Organização das Nações Unidas. Recìprocamente, o Conselho, as suas Comissões e Comités, bem como o Conselho de Curadoria, deverão inscrever na sua ordem do dia os assuntos que lhes forem submetidos pela União.
 
-ARTIGO IV
-
-Recomendações da Organização das Nações Unidas
+###### ARTIGO IV — Recomendações da Organização das Nações Unidas
 
 1. A União tomará todas as providências necessárias para, logo que seja possível, apresentar, para os fins convenientes, aos seus Congressos, Conferências administrativas e Comissões, ou aos seus membros, de harmonia com as normas de procedimento estabelecidas pela Convenção Postal Universal, qualquer recomendação oficial que a Organização das Nações Unidas porventura lhe envie. Estas recomendações serão dirigidas à União, e não directamente aos seus membros.
 
@@ -2057,9 +2021,7 @@ Recomendações da Organização das Nações Unidas
 
 3. A União cooperará em qualquer outra providência necessária para assegurar a coordenação efectiva das actividades das instituições especializadas e da Organização das Nações Unidas. A União colaborará nomeadamente com qualquer órgão que o Conselho venha a criar com o fim de favorecer esta coordenação e de fornecer as informações necessárias à realização deste objectivo.
 
-ARTIGO V
-
-Troca de informações e de documentos
+###### ARTIGO V — Troca de informações e de documentos
 
 1. Entre a Organização das Nações Unidas e a União efectuar-se-á a mais completa e mais rápida troca de informações e de documentos, ressalvadas as providências necessárias para salvaguardar o carácter confidencial de determinados documentos.
 
@@ -2073,23 +2035,17 @@ c) A União fornecerá pareceres escritos sobre assuntos da sua competência qua
 
 d) O Secretário-Geral da Organização das Nações Unidas procederá, com o Director da Secretaria Internacional da União, e a pedido deste, à troca de impressões susceptíveis de proporcionarem à União informações que para ela possam ter especial interesse.
 
-ARTIGO VI
-
-Cooperação com a Organização das Nações Unidas
+###### ARTIGO VI — Cooperação com a Organização das Nações Unidas
 
 1. A União concorda em cooperar com a Organização das Nações Unidas, com os seus órgãos principais e subordinados e em lhes prestar colaboração na medida compatível com as disposições da Convenção Postal Universal.
 
 2. Quanto aos membros da Organização das Nações Unidas, a União reconhece que, nos termos das disposições do artigo 103.º da Carta, nenhuma disposição da Convenção Postal Universal ou dos seus Acordos anexos poderá ser invocada como constituindo um obstáculo ou estabelecendo uma restrição à observância, por parte de um Estado, das suas obrigações para com a Organição das Nações Unidas.
 
-ARTIGO VII
-
-Acordo relativo ao pessoal
+###### ARTIGO VII — Acordo relativo ao pessoal
 
 A Organização das Nações Unidas e a União cooperarão, na medida necessária, a fim de garantirem a maior uniformidade possível nas condições de trabalho e de remuneração do seu pessoal, para evitar a concorrência no seu recrutamento.
 
-ARTIGO VIII
-
-Serviços de estatística
+###### ARTIGO VIII — Serviços de estatística
 
 1. A Organização das Nações Unidas e a União concordam em cooperar com o fim de assegurarem a utilização mais ampla e mais eficaz das informações e dos dados estatísticos.
 
@@ -2097,55 +2053,39 @@ Serviços de estatística
 
 3. A Organização das Nações Unidas reconhece que a União é o organismo qualificado para recolher, analisar, publicar e melhorar as estatísticas que lhe digam respeito, sem prejuízo do interesse que estas estatísticas tenham para a Organização das Nações Unidas, quando forem essenciais à realização do seu objectivo próprio e ao desenvolvimento das estatísticas no Mundo.
 
-ARTIGO IX
-
-Serviços administrativos e técnicos
+###### ARTIGO IX — Serviços administrativos e técnicos
 
 1. A Organização das Nações Unidas e a União reconhecem que, tendo em vista a melhor utilização possível do seu pessoal e dos seus recursos, será conveniente evitar a criação de serviços que entre si façam concorrência ou representem duplicação.
 
 2. A Organização das Nações Unidas e a União tomarão todas as disposições convenientes para registo e arquivo dos documentos oficiais.
 
-ARTIGO X
-
-Disposições orçamentais
+###### ARTIGO X — Disposições orçamentais
 
 O orçamento anual da União será comunicado à Organização das Nações Unidas e a Assembleia Geral terá a faculdade de fazer, a este respeito, quaisquer recomendações ao Congresso da União.
 
-ARTIGO XI
-
-Verba para pagamento dos encargos resultantes de serviços especiais
+###### ARTIGO XI — Verba para pagamento dos encargos resultantes de serviços especiais
 
 Se a União tiver de fazer face a despesas extraordinárias importantes, em consequência de relatórios especiais, de estudos ou de informações pedidas pela Organização das Nações Unidas, nos termos do artigo V ou de qualquer outra disposição do presente Acordo, proceder-se-á a uma troca de impressões para determinar qual a maneira mais equitativa de satisfazer estas despesas.
 
-ARTIGO XII
-
-Acordo entre instituições
+###### ARTIGO XII — Acordo entre instituições
 
 A União informará o Conselho acerca da natureza e amplitude de qualquer Acordo que possa estabelecer com qualquer outra instituição especializada ou outra organização intergovernamental; além disso, informará o Conselho a respeito da preparação de tais Acordos.
 
-ARTIGO XIII
-
-Ligação
+###### ARTIGO XIII — Ligação
 
 1. Ao formular as presentes disposições, a Organização das Nações Unidas e a União manifestam a esperança de que elas contribuirão para assegurar uma ligação eficaz entre as duas organizações e afirmam a sua intenção de tomarem, de comum acordo, as medidas necessárias para esse efeito.
 
 2. As disposições relativas às ligações previstas no presente Acordo aplicar-se-ão, tanto quanto possível, às relações da União com a Organização das Nações Unidas, incluindo os seus serviços anexos e regionais.
 
-ARTIGO XIV
+###### ARTIGO XIV — Execução do Acordo
 
-Execução do Acordo
+O Secretário-Geral da Organização das Nações Unidas e o Presidente da Comissão executiva e de ligação da União podem entre si concluir quaisquer Acordos suplementares que visem à aplicação do presente Acordo e que se tornem aconselháveis em face da experiência das duas organizações.
 
-**O Secretário-Geral da Organização das Nações Unidas e o Presidente da Comissão executiva e de ligação da União podem entre si concluir quaisquer Acordos suplementares que visem à aplicação do presente Acordo e que se tornem aconselháveis em face da experiência das duas organizações.**
-
-ARTIGO XV
-
-Entrada em vigor
+###### ARTIGO XV — Entrada em vigor
 
 O presente Acordo, anexo à Convenção Postal Universal celebrada em Paris em 1957, entrará em vigor depois de aprovado pela Assembleia Geral das Nações Unidas e em data nunca anterior à da entrada em vigor da aludida Convenção.
 
-ARTIGO XVI
-
-Revisão
+###### ARTIGO XVI — Revisão
 
 O presente Acordo poderá ser revisto por entendimento entre a Organização das Nações Unidas e a União, mediante aviso prévio de seis meses de qualquer das partes.
 
@@ -2159,13 +2099,13 @@ Considerando que a União Postal Universal pretende concluir um Acordo suplement
 
 As presentes entidades estipulam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Ao Acordo entre a Organização das Nações Unidas e a União Postal Universal adicionar-se-á, como artigo suplementar, a seguinte cláusula:
 
 Os funcionários da União Postal Universal terão direito a utilizar os laissez-passer das Nações Unidas, de harmonia com os Acordos especiais negociados nos termos do artigo XIV.
 
-ARTIGO II
+###### ARTIGO II
 
 O presente Acordo entrará em vigor logo que tenha sido aprovado pela Assembleia Geral das Nações Unidas e pela União Postal Universal.
 
@@ -2191,63 +2131,63 @@ Disposições gerais
 
 ### CAPÍTULO I — Congressos
 
-###### Art. 101.º Apresentação de propostas aos Congressos.
+Art. 101.º Apresentação de propostas aos Congressos.
 
 ### CAPÍTULO II — Comissão executiva e de ligação
 
-###### Art. 102.º Reuniões.
+Art. 102.º Reuniões.
 
-###### Art. 103.º Relatórios sobre a actividade da Comissão.
+Art. 103.º Relatórios sobre a actividade da Comissão.
 
 ### CAPÍTULO III — Comissão consultiva de estudos postais
 
-###### Art. 104.º Funcionamento.
+Art. 104.º Funcionamento.
 
 ### CAPÍTULO IV — Secretaria Internacional
 
-###### Art. 105.º Preparação dos trabalhos dos Congressos e Conferências.
+Art. 105.º Preparação dos trabalhos dos Congressos e Conferências.
 
-###### Art. 106.º Esclarecimentos. Pareceres. Pedidos de interpretação e de modificação dos Actos. Inquéritos. Intervenção na liquidação das contas.
+Art. 106.º Esclarecimentos. Pareceres. Pedidos de interpretação e de modificação dos Actos. Inquéritos. Intervenção na liquidação das contas.
 
-###### Art. 107.º Selos e impressões de franquia.
+Art. 107.º Selos e impressões de franquia.
 
-###### Art. 108.º Bilhetes de identidade postais. Cupões-resposta internacionais.
+Art. 108.º Bilhetes de identidade postais. Cupões-resposta internacionais.
 
-###### Art. 109.º Comunicações e esclarecimentos que se devem enviar à Secretaria Internacional.
+Art. 109.º Comunicações e esclarecimentos que se devem enviar à Secretaria Internacional.
 
-###### Art. 110.º Publicações.
+Art. 110.º Publicações.
 
-###### Art. 111.º Relatório anual sobre as actividades da União.
+Art. 111.º Relatório anual sobre as actividades da União.
 
 ### CAPÍTULO V — Despesas da União
 
-###### Art. 112.º Limite do crédito.
+Art. 112.º Limite do crédito.
 
-###### Art. 113.º Distribuição das despesas.
+Art. 113.º Distribuição das despesas.
 
-###### Art. 114.º Pagamento dos fornecimentos da Secretaria Internacional.
+Art. 114.º Pagamento dos fornecimentos da Secretaria Internacional.
 
 ### CAPÍTULO VI — Liquidação de contas
 
-###### Art. 115.º Organização e liquidação de contas.
+Art. 115.º Organização e liquidação de contas.
 
-###### Art. 116.º Pagamento dos créditos em ouro. Disposições gerais.
+Art. 116.º Pagamento dos créditos em ouro. Disposições gerais.
 
-###### Art. 117.º Regras de pagamento.
+Art. 117.º Regras de pagamento.
 
 ### CAPÍTULO VII — Disposições diversas
 
-###### Art. 118.º Bilhetes de identidade postais.
+Art. 118.º Bilhetes de identidade postais.
 
-###### Art. 119.º Fixação dos equivalentes.
+Art. 119.º Fixação dos equivalentes.
 
-###### Art. 120.º Países distantes.
+Art. 120.º Países distantes.
 
-###### Art. 121.º Prazo de conservação dos documentos.
+Art. 121.º Prazo de conservação dos documentos.
 
-###### Art. 122.º Endereços telegráficos.
+Art. 122.º Endereços telegráficos.
 
-###### Art. 123.º Código telegráfico postal.
+Art. 123.º Código telegráfico postal.
 
 SEGUNDA PARTE
 
@@ -2257,169 +2197,169 @@ Disposições relativas à correspondência postal
 
 ### CAPÍTULO I — Disposições aplicáveis a todas as categorias de correspondência
 
-###### Art. 124.º Acondicionamento e endereço.
+Art. 124.º Acondicionamento e endereço.
 
-###### Art. 125.º Correspondência de posta restante.
+Art. 125.º Correspondência de posta restante.
 
-###### Art. 126.º Correspondência em sobrescrito com espaço transparente.
+Art. 126.º Correspondência em sobrescrito com espaço transparente.
 
-###### Art. 127.º Correspondência expedida com isenção de franquia.
+Art. 127.º Correspondência expedida com isenção de franquia.
 
-###### Art. 128.º Correspondência sujeita a verificação aduaneira.
+Art. 128.º Correspondência sujeita a verificação aduaneira.
 
-###### Art. 129.º Correspondência livre de encargos.
+Art. 129.º Correspondência livre de encargos.
 
 ### CAPÍTULO II — Disposições especiais aplicáveis a cada categoria de correspondência
 
-###### Art. 130.º Cartas.
+Art. 130.º Cartas.
 
-###### Art. 131.º Bilhetes-postais simples.
+Art. 131.º Bilhetes-postais simples.
 
-###### Art. 132.º Bilhetes-postais de resposta paga.
+Art. 132.º Bilhetes-postais de resposta paga.
 
-###### Art. 133.º Manuscritos.
+Art. 133.º Manuscritos.
 
-###### Art. 134.º Impressos.
+Art. 134.º Impressos.
 
-###### Art. 135.º Impressos. Objectos equiparados.
+Art. 135.º Impressos. Objectos equiparados.
 
-###### Art. 136.º Impressos. Anotações e anexos autorizados.
+Art. 136.º Impressos. Anotações e anexos autorizados.
 
-###### Art. 137.º Impressos. Acondicionamento.
+Art. 137.º Impressos. Acondicionamento.
 
-###### Art. 138.º Objectos equiparados às impressões em relevo para uso dos cegos.
+Art. 138.º Objectos equiparados às impressões em relevo para uso dos cegos.
 
-###### Art. 139.º Amostras. Objectos equiparados.
+Art. 139.º Amostras. Objectos equiparados.
 
-###### Art. 140.º Amostras. Anotações autorizadas.
+Art. 140.º Amostras. Anotações autorizadas.
 
-###### Art. 141.º Amostras. Acondicionamento.
+Art. 141.º Amostras. Acondicionamento.
 
-###### Art. 142.º Pacotes postais.
+Art. 142.º Pacotes postais.
 
-###### Art. 143.º Correspondências fonopostais.
+Art. 143.º Correspondências fonopostais.
 
-###### Art. 144.º Objectos agrupados.
+Art. 144.º Objectos agrupados.
 
 ## TÍTULO II — Objectos registados
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 145.º Objectos registados.
+Art. 145.º Objectos registados.
 
-###### Art. 146.º Avisos de recepção.
+Art. 146.º Avisos de recepção.
 
-###### Art. 147.º Avisos de recepção pedidos posteriormente ao acto do registo.
+Art. 147.º Avisos de recepção pedidos posteriormente ao acto do registo.
 
-###### Art. 148.º Entrega em mão própria.
+Art. 148.º Entrega em mão própria.
 
 ## TÍTULO III — Operações na expedição e na recepção
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 149.º Aplicação da marca do dia.
+Art. 149.º Aplicação da marca do dia.
 
-###### Art. 150.º Correspondência a entregar por próprio.
+Art. 150.º Correspondência a entregar por próprio.
 
-###### Art. 151.º Correspondência com falta total ou insuficiência de franquia.
+Art. 151.º Correspondência com falta total ou insuficiência de franquia.
 
-###### Art. 152.º Devolução de boletins de franquia (Parte A). Cobrança dos direitos abonados pelo remetente de uma correspondência livre de encargos para o destinatário.
+Art. 152.º Devolução de boletins de franquia (Parte A). Cobrança dos direitos abonados pelo remetente de uma correspondência livre de encargos para o destinatário.
 
-###### Art. 153.º Correspondência reexpedida.
+Art. 153.º Correspondência reexpedida.
 
-###### Art. 154.º Sobrescritos de reexpedição e sobrescritos colectores.
+Art. 154.º Sobrescritos de reexpedição e sobrescritos colectores.
 
-###### Art. 155.º Correspondência não entregue, a devolver à procedência.
+Art. 155.º Correspondência não entregue, a devolver à procedência.
 
-###### Art. 156.º Restituição. Modificação de endereço.
+Art. 156.º Restituição. Modificação de endereço.
 
-###### Art. 157.º Reclamações. Correspondência ordinária.
+Art. 157.º Reclamações. Correspondência ordinária.
 
-###### Art. 158.º Reclamações. Correspondência registada.
+Art. 158.º Reclamações. Correspondência registada.
 
-###### Art. 159.º Pedidos de informação.
+Art. 159.º Pedidos de informação.
 
-###### Art. 160.º Reclamações e pedidos de informação relativos à correspondência depositada noutro País.
+Art. 160.º Reclamações e pedidos de informação relativos à correspondência depositada noutro País.
 
 ## TÍTULO IV — Permuta de correspondência. Malas
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 161.º Cartas de aviso.
+Art. 161.º Cartas de aviso.
 
-###### Art. 162.º Transmissão da correspondência registada.
+Art. 162.º Transmissão da correspondência registada.
 
-###### Art. 163.º Transmissão da correspondência a entregar por próprio.
+Art. 163.º Transmissão da correspondência a entregar por próprio.
 
-###### Art. 164.º Organização das malas.
+Art. 164.º Organização das malas.
 
-###### Art. 165.º Entrega das malas.
+Art. 165.º Entrega das malas.
 
-###### Art. 166.º Verificação das malas.
+Art. 166.º Verificação das malas.
 
-###### Art. 167.º Encaminhamento das malas.
+Art. 167.º Encaminhamento das malas.
 
-###### Art. 168.º Permuta em malas fechadas.
+Art. 168.º Permuta em malas fechadas.
 
-###### Art. 169.º Trânsito em malas fechadas e trânsito a descoberto.
+Art. 169.º Trânsito em malas fechadas e trânsito a descoberto.
 
-###### Art. 170.º Encaminhamento da correspondência.
+Art. 170.º Encaminhamento da correspondência.
 
-###### Art. 171.º Malas permutadas com navios ou aviões de guerra.
+Art. 171.º Malas permutadas com navios ou aviões de guerra.
 
-###### Art. 172.º Devolução de sacos vazios.
+Art. 172.º Devolução de sacos vazios.
 
 ## TÍTULO V — Disposições relativas aos direitos de trânsito
 
 ### CAPÍTULO I — Operações de estatística
 
-###### Art. 173.º Período e duração da estatística.
+Art. 173.º Período e duração da estatística.
 
-###### Art. 174.º Organização e designação das malas fechadas durante o período estatístico.
+Art. 174.º Organização e designação das malas fechadas durante o período estatístico.
 
-###### Art. 175.º Inscrição e conferência da quantidade de sacos e do peso das malas fechadas.
+Art. 175.º Inscrição e conferência da quantidade de sacos e do peso das malas fechadas.
 
-###### Art. 176.º Organização dos mapas das malas fechadas.
+Art. 176.º Organização dos mapas das malas fechadas.
 
-###### Art. 177.º Malas fechadas permutadas com navios ou aviões de guerra.
+Art. 177.º Malas fechadas permutadas com navios ou aviões de guerra.
 
-###### Art. 178.º Boletim de trânsito.
+Art. 178.º Boletim de trânsito.
 
-###### Art. 179.º Excepções aos artigos 175.º, 176.º e 178.º
+Art. 179.º Excepções aos artigos 175.º, 176.º e 178.º
 
-###### Art. 180.º Revisão das contas de direitos de trânsito.
+Art. 180.º Revisão das contas de direitos de trânsito.
 
-###### Art. 181.º Serviços extraordinários.
+Art. 181.º Serviços extraordinários.
 
 ### CAPÍTULO II — Contabilidade. Liquidação de contas
 
-###### Art. 182.º Conta dos direitos de trânsito.
+Art. 182.º Conta dos direitos de trânsito.
 
-###### Art. 183.º Conta geral anual. Intervenção da Secretaria Internacional.
+Art. 183.º Conta geral anual. Intervenção da Secretaria Internacional.
 
-###### Art. 184.º Pagamento dos direitos de trânsito.
+Art. 184.º Pagamento dos direitos de trânsito.
 
 ## TÍTULO VI — Disposições diversas
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 185.º Correspondência corrente entre Administrações postais.
+Art. 185.º Correspondência corrente entre Administrações postais.
 
-###### Art. 186.º Selos e impressões de franquia.
+Art. 186.º Selos e impressões de franquia.
 
-###### Art. 187.º Utilização de selos postais reputados fraudulentos ou de impressões reputadas fraudulentas de máquinas de franquiar ou de imprimir.
+Art. 187.º Utilização de selos postais reputados fraudulentos ou de impressões reputadas fraudulentas de máquinas de franquiar ou de imprimir.
 
-###### Art. 188.º Cupões-resposta internacionais.
+Art. 188.º Cupões-resposta internacionais.
 
-###### Art. 189.º Liquidação dos direitos aduaneiros, etc., com a Administração postal de origem da correspondência livre de encargos para o destinatário.
+Art. 189.º Liquidação dos direitos aduaneiros, etc., com a Administração postal de origem da correspondência livre de encargos para o destinatário.
 
-###### Art. 190.º Impressos para uso do público.
+Art. 190.º Impressos para uso do público.
 
 TERCEIRA PARTE
 
 Disposições finais
 
-###### Art. 191.º Entrada em execução e duração do Regulamento.
+Art. 191.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -3019,7 +2959,9 @@ c) A taxa paga não deve ser inferior à taxa mínima dos manuscritos, se o volu
 
 ## TÍTULO II — Objectos registados
 
-### CAPÍTULO ÚNICO — ARTIGO 145.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 145.º
 
 Objectos registados
 
@@ -3065,7 +3007,9 @@ A correspondência registada a entregar em mão própria deve apresentar, na par
 
 ## TÍTULO III — Operações na expedição e na recepção
 
-### CAPÍTULO ÚNICO — ARTIGO 149.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 149.º
 
 Aplicação da marca do dia
 
@@ -3243,7 +3187,9 @@ Os pedidos de informação relativos a correspondência ordinária ou registada 
 
 ## TÍTULO IV — Permuta de correspondência. Malas
 
-### CAPÍTULO ÚNICO — ARTIGO 161.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 161.º
 
 Cartas de aviso
 
@@ -3425,7 +3371,7 @@ A fim de determinar qual o percurso mais favorável e o tempo de transmissão da
 
 2. O endereço destas malas deve ser redigido da seguinte maneira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 3. As malas destinadas a divisões navais ou navios de guerra, ou deles provenientes, são encaminhadas, salvo se alguma via especial for indicada no endereço pelas vias mais rápidas e nas mesmas condições que as malas permutadas entre estações do correio.
 
@@ -3485,7 +3431,7 @@ A fim de determinar qual o percurso mais favorável e o tempo de transmissão da
 
 1. No que diz respeito às malas que motivam o pagamento de direitos de trânsito, a estação expedidora utiliza uma carta de aviso especial, conforme o modelo anexo C 15. Inscreve, nesta carta de aviso, a quantidade de sacos, distribuindo-os, se for necessário, pelas seguintes categorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 2. A quantidade dos sacos isentos de direitos de trânsito deve ser o total dos que levam a indicação «Statistique - Exempt», de harmonia com as disposições do artigo 174.º, § 3.
 
@@ -3603,7 +3549,9 @@ d) As quantias a receber pelas Administrações credoras.
 
 ## TÍTULO VI — Disposições diversas
 
-### CAPÍTULO ÚNICO — ARTIGO 185.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 185.º
 
 Correspondência corrente entre Administrações postais
 
@@ -3721,7 +3669,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -3735,83 +3683,83 @@ Disposições relativas ao correio aéreo
 
 ### CAPÍTULO I — Aceitação. Taxas
 
-###### Art. 1.º Objectos postais admitidos ao transporte aéreo.
+Art. 1.º Objectos postais admitidos ao transporte aéreo.
 
-###### Art. 2.º Aerogramas.
+Art. 2.º Aerogramas.
 
-###### Art. 3.º Taxas.
+Art. 3.º Taxas.
 
-###### Art. 4.º Assinalamento das correspondências-avião sobretaxadas.
+Art. 4.º Assinalamento das correspondências-avião sobretaxadas.
 
-###### Art. 5.º Modalidades de franquia.
+Art. 5.º Modalidades de franquia.
 
-###### Art. 6.º Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia.
+Art. 6.º Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia.
 
 ### CAPÍTULO II — Encaminhamento. Distribuição. Reexpedição. Devolução
 
-###### Art. 7.º Encaminhamento.
+Art. 7.º Encaminhamento.
 
-###### Art. 8.º Distribuição.
+Art. 8.º Distribuição.
 
-###### Art. 9.º Reexpedição e devolução das correspondências-avião.
+Art. 9.º Reexpedição e devolução das correspondências-avião.
 
 ### CAPÍTULO III — Remuneração do transporte aéreo
 
-###### Art. 10.º Princípios gerais.
+Art. 10.º Princípios gerais.
 
-###### Art. 11.º Taxas básicas e cálculo da remuneração.
+Art. 11.º Taxas básicas e cálculo da remuneração.
 
-###### Art. 12.º Pagamento.
+Art. 12.º Pagamento.
 
 ## TÍTULO II — Disposições para a execução do serviço
 
 ### CAPÍTULO I — Regras da expedição e do encaminhamento
 
-###### Art. 13.º Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia.
+Art. 13.º Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia.
 
-###### Art. 14.º Modo de expedição das correspondências-avião.
+Art. 14.º Modo de expedição das correspondências-avião.
 
-###### Art. 15.º Reexpedição e devolução das correspondências-avião sobretaxadas.
+Art. 15.º Reexpedição e devolução das correspondências-avião sobretaxadas.
 
-###### Art. 16.º Assinalamento das malas-avião.
+Art. 16.º Assinalamento das malas-avião.
 
-###### Art. 17.º Inscrição e conferência dos pesos das malas-avião e das correspondências-avião em trânsito a descoberto.
+Art. 17.º Inscrição e conferência dos pesos das malas-avião e das correspondências-avião em trânsito a descoberto.
 
-###### Art. 18.º Guia de entrega.
+Art. 18.º Guia de entrega.
 
-###### Art. 19.º Sacos colectores.
+Art. 19.º Sacos colectores.
 
-###### Art. 20.º Transbordo das malas-avião:
+Art. 20.º Transbordo das malas-avião:
 
-###### Art. 21.º Execução das operações nos aeroportos.
+Art. 21.º Execução das operações nos aeroportos.
 
-###### Art. 22.º Verificação aduaneira das correspondências-avião.
+Art. 22.º Verificação aduaneira das correspondências-avião.
 
-###### Art. 23.º Devolução dos sacos-avião vazios.
+Art. 23.º Devolução dos sacos-avião vazios.
 
-###### Art. 24.º Providências a tomar em casos de acidente ou de interrupção do voo.
+Art. 24.º Providências a tomar em casos de acidente ou de interrupção do voo.
 
 ### CAPÍTULO II — Contabilidade. Liquidação de contas
 
-###### Art. 25.º Formas de organizar as contas da remuneração do transporte aéreo.
+Art. 25.º Formas de organizar as contas da remuneração do transporte aéreo.
 
-###### Art. 26.º Formas de organizar as contas dos direitos de trânsito de superfície relativos às malas-avião.
+Art. 26.º Formas de organizar as contas dos direitos de trânsito de superfície relativos às malas-avião.
 
-###### Art. 27.º Elaboração dos mapas de pesos.
+Art. 27.º Elaboração dos mapas de pesos.
 
-###### Art. 28.º Remessa e aceitação dos mapas de pesos AV 3 e AV 4 e elaboração das contas especiais AV 5.
+Art. 28.º Remessa e aceitação dos mapas de pesos AV 3 e AV 4 e elaboração das contas especiais AV 5.
 
 ### CAPÍTULO III — Informações que as Administrações postais e a Secretaria Internacional devem prestar
 
-###### Art. 29.º Informações que as Administrações postais devem prestar.
+Art. 29.º Informações que as Administrações postais devem prestar.
 
-###### Art. 30.º Documentação que a Secretaria Internacional deve fornecer.
+Art. 30.º Documentação que a Secretaria Internacional deve fornecer.
 
 ## TÍTULO III — Disposições finais
 
-###### Art. 31.º Aplicação da Convenção e dos Acordos.
+Art. 31.º Aplicação da Convenção e dos Acordos.
 
-###### Art. 32.º Entrada em execução e duração das presentes disposições.
+Art. 32.º Entrada em execução e duração das presentes disposições.
 
 Protocolo final
 
@@ -3983,7 +3931,7 @@ b) Para os AO (objectos que não sejam LC), incluindo as correspondências fonop
 
 2. Quando as correspondências-avião sobretaxadas com falta total ou insuficiência de franquia são encaminhadas pelos meios de transporte normalmente utilizados para as correspondências sem sobretaxa, a estação de origem ou a estação de permuta deve riscar, com dois grossos traços transversais, a etiqueta «Par avion» e qualquer anotação relativa ao transporte aéreo e indicar sucintamente os motivos.
 
-###### ARTIGO 14.ºModo de expedição das correspondências-avião
+ARTIGO 14.ºModo de expedição das correspondências-avião
 
 1. As disposições dos artigos 161.º, § 2, alínea a), e 163.º do Regulamento para Execução da Convenção aplicam-se às correspondências-avião incluídas em malas-superfície. Os rótulos dos maços devem levar a indicação «Par avion».
 
@@ -4189,15 +4137,11 @@ Protocolo final das disposições relativas ao correio aéreo
 
 No momento de se proceder à assinatura das disposições relativas ao correio aéreo, os Plenipotenciários abaixo assinados convencionaram o seguinte:
 
-ARTIGO I
-
-Faculdade de reduzir o escalão de peso unitário das correspondências-avião
+###### ARTIGO I — Faculdade de reduzir o escalão de peso unitário das correspondências-avião
 
 As Administrações têm a faculdade de admitir, para a fixação das sobretaxas aéreas, escalões de peso inferiores aos escalões-base previstos no artigo 49.º da Convenção.
 
-ARTIGO II
-
-Sobretaxa excepcional
+###### ARTIGO II — Sobretaxa excepcional
 
 Devido à situação geográfica da U. R. S. S., a Administração postal deste País reserva-se o direito de aplicar uma sobretaxa uniforme em todo o território da U. R. S. S. para todos os Países do mundo. Esta sobretaxa não excederá os encargos reais ocasionados pelo transporte da correspondência por via aérea.
 
@@ -4209,7 +4153,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -4221,49 +4165,49 @@ INDICE
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
-###### Art. 2.º Declaração de valor.
+Art. 2.º Declaração de valor.
 
 ### CAPÍTULO II — Condições de aceitação
 
-###### Art. 3.º Condições de peso e dimensões
+Art. 3.º Condições de peso e dimensões
 
-###### Art. 4.º Inclusões autorizadas.
+Art. 4.º Inclusões autorizadas.
 
-###### Art. 5.º Inclusões proibidas.
+Art. 5.º Inclusões proibidas.
 
-###### Art. 6.º Tratamento dos objectos indevidamente aceites.
+Art. 6.º Tratamento dos objectos indevidamente aceites.
 
 ### CAPÍTULO III — Taxas e prémios
 
-###### Art. 7.º Taxas e prémios postais.
+Art. 7.º Taxas e prémios postais.
 
-###### Art. 8.º Isenção de franquia.
+Art. 8.º Isenção de franquia.
 
-###### Art. 9.º Direitos não postais.
+Art. 9.º Direitos não postais.
 
 ### CAPÍTULO IV — Responsabilidade
 
-###### Art. 10.º Princípio da responsabilidade.
+Art. 10.º Princípio da responsabilidade.
 
-###### Art. 11.º Excepções ao princípio da responsabilidade.
+Art. 11.º Excepções ao princípio da responsabilidade.
 
-###### Art. 12.º Cessação da responsabilidade.
+Art. 12.º Cessação da responsabilidade.
 
-###### Art. 13.º Indemnização.
+Art. 13.º Indemnização.
 
-###### Art. 14.º Responsabilidade recíproca das Administrações postais.
+Art. 14.º Responsabilidade recíproca das Administrações postais.
 
 ### CAPÍTULO V — Disposições diversas e finais
 
-###### Art. 15.º Aplicação da Convenção.
+Art. 15.º Aplicação da Convenção.
 
-###### Art. 16.º Estações que executam o serviço.
+Art. 16.º Estações que executam o serviço.
 
-###### Art. 17.º Aprovação das propostas feitas no intervalo dos Congressos.
+Art. 17.º Aprovação das propostas feitas no intervalo dos Congressos.
 
-###### Art. 18.º Entrada em execução e duração do Acordo.
+Art. 18.º Entrada em execução e duração do Acordo.
 
 Protocolo final
 
@@ -4353,7 +4297,7 @@ b) Notas de banco, cédulas fiduciárias ou quaisquer valores ao portador.
 
 5. O facto de uma caixa com valor declarado conter um documento com carácter de correspondência actual e pessoal não pode, em caso algum, justificar a devolução ao remetente.
 
-### CAPÍTULO IIITaxas e prémios
+CAPÍTULO IIITaxas e prémios
 
 ###### ARTIGO 7.º — Taxas e prémios postais
 
@@ -4367,7 +4311,7 @@ c) Prémio de seguro.
 
 2. A tarifa destas taxas e destes prémios é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 3. Além das taxas e prémios a que se refere o § 1, pelas cartas e caixas com valor declarado podem cobrar-se as taxas e os prémios que resultem da aplicação das disposições da Convenção mencionadas no artigo 15.º do presente Acordo.
 
@@ -4475,19 +4419,19 @@ c) Artigo 57.º, relativo à correspondência a entregar por próprio; contudo, 
 
 d) Artigo 58.º: pedidos de restituição e de modificação de endereço, ressalvado o artigo VIII do Protocolo final referente ao assunto;
 
-###### Artigo 59: reexpedição; correspondência não entregue e a devolver à procedência;
+Artigo 59: reexpedição; correspondência não entregue e a devolver à procedência;
 
-###### Artigo 63.º: taxa aplicável por despachos aduaneiros;
+Artigo 63.º: taxa aplicável por despachos aduaneiros;
 
-###### Artigo 65.º: correspondência livre de encargos para o destinatário;
+Artigo 65.º: correspondência livre de encargos para o destinatário;
 
-###### Artigo 67.º: reclamações e pedidos de informação;
+Artigo 67.º: reclamações e pedidos de informação;
 
-###### Artigo 68.º, § 4: entrega de um recibo;
+Artigo 68.º, § 4: entrega de um recibo;
 
-###### Artigo 69.º: aviso de recepção;
+Artigo 69.º: aviso de recepção;
 
-###### Artigo 70.º: entrega em mão própria;
+Artigo 70.º: entrega em mão própria;
 
 e) Artigos 74.º, 75.º e 76.º, referentes a indemnizações;
 
@@ -5053,9 +4997,7 @@ Máximo da declaração de valor
 
 Por derrogação do disposto no artigo 2.º, qualquer Administração tem a faculdade de limitar o máximo da declaração do valor, pelo que lhe diz respeito, a 5000 francos ou à importância adoptada para o seu serviço interno, caso esta importância seja inferior a 5000 francos.
 
-ARTIGO II
-
-Equivalentes. Limites máximos e mínimos
+###### ARTIGO II — Equivalentes. Limites máximos e mínimos
 
 Cada País tem a faculdade de elevar 60 por cento ou reduzir 20 por cento, o máximo, a taxa postal básica e a taxa mínima previstas, para as caixas com valor declarado, no artigo 7.º, § 2, em conformidade com a escala geral das taxas postais que figura no artigo II, § 1, do Protocolo final da Convenção.
 
@@ -5073,35 +5015,35 @@ INDICE
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 101.º Informações que as Administrações postais devem prestar.
+Art. 101.º Informações que as Administrações postais devem prestar.
 
 ### CAPÍTULO II — Condições e operações de aceitação
 
-###### Art. 102.º Acondicionamento dos objectos.
+Art. 102.º Acondicionamento dos objectos.
 
-###### Art. 103.º Declaração de valor.
+Art. 103.º Declaração de valor.
 
-###### Art. 104.º Declarações para a Alfândega.
+Art. 104.º Declarações para a Alfândega.
 
-###### Art. 105.º Atribuições da estação de origem.
+Art. 105.º Atribuições da estação de origem.
 
 ### CAPÍTULO III — Permuta dos objectos com valor declarado
 
-###### Art. 106.º Vias e modos de transmissão.
+Art. 106.º Vias e modos de transmissão.
 
-###### Art. 107.º Operações na estação de permuta expedidora.
+Art. 107.º Operações na estação de permuta expedidora.
 
-###### Art. 108.º Operações na estação de permuta de recepção ou na estação de destino.
+Art. 108.º Operações na estação de permuta de recepção ou na estação de destino.
 
-###### Art. 109.º Reexpedição. Objectos não entregues, a devolver à procedência.
+Art. 109.º Reexpedição. Objectos não entregues, a devolver à procedência.
 
 ### CAPÍTULO IV — Disposições diversas e finais
 
-###### Art. 110.º Restituição. Modificação de endereço.
+Art. 110.º Restituição. Modificação de endereço.
 
-###### Art. 111.º Aplicação do Regulamento para Execução da Convenção.
+Art. 111.º Aplicação do Regulamento para Execução da Convenção.
 
-###### Art. 112.º Entrada em execução e duração do Regulamento.
+Art. 112.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -5297,7 +5239,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -5307,129 +5249,129 @@ Acordo relativo às encomendas postais
 
 ÍNDICE
 
-### CAPÍTULO I Disposições gerais
+CAPÍTULO I Disposições gerais
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
-###### Art. 2.º Categorias de encomendas.
+Art. 2.º Categorias de encomendas.
 
-###### Art. 3.º Escalões de peso.
+Art. 3.º Escalões de peso.
 
 ### CAPÍTULO II — Disposições comuns a todas as categorias de encomendas
 
 #### SECÇÃO I — Condições gerais de aceitação
 
-###### Art. 4.º Condições de aceitação.
+Art. 4.º Condições de aceitação.
 
-###### Art. 5.º Instruções do remetente no acto da aceitação.
+Art. 5.º Instruções do remetente no acto da aceitação.
 
-###### Art. 6.º Proibições.
+Art. 6.º Proibições.
 
-###### Art. 7.º Tratamento das encomendas indevidamente aceites.
+Art. 7.º Tratamento das encomendas indevidamente aceites.
 
 #### SECÇÃO II — Taxas e direitos
 
-###### Art. 8.º Composição das taxas e dos direitos.
+Art. 8.º Composição das taxas e dos direitos.
 
-###### Art. 9.º Taxa principal.
+Art. 9.º Taxa principal.
 
-###### Art. 10.º Quota-parte terrestre.
+Art. 10.º Quota-parte terrestre.
 
-###### Art. 11.º Quota-parte marítima.
+Art. 11.º Quota-parte marítima.
 
-###### Art. 12.º Quota-parte aérea.
+Art. 12.º Quota-parte aérea.
 
-###### Art. 13.º Redução ou elevação da quota-parte terrestre.
+Art. 13.º Redução ou elevação da quota-parte terrestre.
 
-###### Art. 14.º Redução ou elevação da quota-parte marítima.
+Art. 14.º Redução ou elevação da quota-parte marítima.
 
-###### Art. 15.º Quota-parte de partida e de chegada excepcional.
+Art. 15.º Quota-parte de partida e de chegada excepcional.
 
-###### Art. 16.º Taxas suplementares.
+Art. 16.º Taxas suplementares.
 
-###### Art. 17.º Taxa das encomendas classificadas no escalão de peso superior.
+Art. 17.º Taxa das encomendas classificadas no escalão de peso superior.
 
-###### Art. 18.º Direitos não postais.
+Art. 18.º Direitos não postais.
 
 #### SECÇÃO III — Operações posteriores à chegada das encomendas à estação de destino
 
-###### Art. 19.º Regras gerais de entrega. Prazos de conservação.
+Art. 19.º Regras gerais de entrega. Prazos de conservação.
 
-###### Art. 20.º Restituição. Modificação de endereço.
+Art. 20.º Restituição. Modificação de endereço.
 
-###### Art. 21.º Reexpedição. Devolução à procedência.
+Art. 21.º Reexpedição. Devolução à procedência.
 
-###### Art. 22.º Falta de entrega ao destinatário.
+Art. 22.º Falta de entrega ao destinatário.
 
-###### Art. 23.º Venda. Inutilização.
+Art. 23.º Venda. Inutilização.
 
-###### Art. 24.º Reembolso de despesas pelo remetente.
+Art. 24.º Reembolso de despesas pelo remetente.
 
-###### Art. 25.º Reclamações e pedidos de informações.
+Art. 25.º Reclamações e pedidos de informações.
 
 ### CAPÍTULO III — Disposições especiais respeitantes a algumas categorias de encomendas
 
 #### SECÇÃO I — Encomendas com valor declarado
 
-###### Art. 26.º Declaração de valor.
+Art. 26.º Declaração de valor.
 
-###### Art. 27.º Prémio de seguro e taxa especial.
+Art. 27.º Prémio de seguro e taxa especial.
 
-###### Art. 28.º Outras disposições relativas às encomendas com valor declarado.
+Art. 28.º Outras disposições relativas às encomendas com valor declarado.
 
 #### SECÇÃO II — Encomendas urgentes
 
-###### Art. 29.º Taxas das encomendas urgentes.
+Art. 29.º Taxas das encomendas urgentes.
 
 #### SECÇÃO III — Encomendas de prisioneiros de guerra e internados
 
-###### Art. 30.º Isenção de taxas das encomendas de prisioneiros de guerra e internados.
+Art. 30.º Isenção de taxas das encomendas de prisioneiros de guerra e internados.
 
-###### Art. 31.º Outras disposições especiais respeitantes a encomendas de prisioneiros de guerra e internados.
+Art. 31.º Outras disposições especiais respeitantes a encomendas de prisioneiros de guerra e internados.
 
 ### CAPÍTULO IV — Responsabilidade
 
 #### SECÇÃO I — Princípios gerais
 
-###### Art. 32.º Âmbito e limites da responsabilidade das Administrações postais.
+Art. 32.º Âmbito e limites da responsabilidade das Administrações postais.
 
-###### Art. 33.º Excepções ao princípio da responsabilidade.
+Art. 33.º Excepções ao princípio da responsabilidade.
 
-###### Art. 34.º Responsabilidade do remetente.
+Art. 34.º Responsabilidade do remetente.
 
-###### Art. 35.º Indemnização.
+Art. 35.º Indemnização.
 
-###### Art. 36.º Responsabilidade mútua das Administrações postais
+Art. 36.º Responsabilidade mútua das Administrações postais
 
 #### SECÇÃO II — Indemnização
 
-###### Art. 37.º Pagamento da indemnização.
+Art. 37.º Pagamento da indemnização.
 
-###### Art. 38.º Reembolso eventual da indemnização pelo remetente ou pelo destinatário.
+Art. 38.º Reembolso eventual da indemnização pelo remetente ou pelo destinatário.
 
-###### Art. 39.º Imputação dos pagamentos às Administrações postais responsáveis.
+Art. 39.º Imputação dos pagamentos às Administrações postais responsáveis.
 
 ### CAPÍTULO V — Atribuição das taxas e direitos
 
-###### Art. 40.º Princípio geral da atribuição das taxas e direitos.
+Art. 40.º Princípio geral da atribuição das taxas e direitos.
 
-###### Art. 41.º Taxas abonadas pela Administração de origem às outras Administrações.
+Art. 41.º Taxas abonadas pela Administração de origem às outras Administrações.
 
-###### Art. 42.º Taxas arrecadadas pela Administração cobradora.
+Art. 42.º Taxas arrecadadas pela Administração cobradora.
 
-###### Art. 43.º Casos especiais de atribuição de taxas.
+Art. 43.º Casos especiais de atribuição de taxas.
 
-###### Art. 44.º Recuperação de taxas e direitos.
+Art. 44.º Recuperação de taxas e direitos.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 45.º Aplicação da Convenção.
+Art. 45.º Aplicação da Convenção.
 
-###### Art. 46.º Encomendas destinadas a ou provenientes de Países que não participam no Acordo.
+Art. 46.º Encomendas destinadas a ou provenientes de Países que não participam no Acordo.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 47.º Entrada em execução e duração do Acordo.
+Art. 47.º Entrada em execução e duração do Acordo.
 
 Protocolo final
 
@@ -5631,7 +5573,7 @@ A taxa principal compõe-se das quotas-partes que pertencem a cada uma das Admin
 
 1. Cada quota-parte terrestre de partida, de chegada ou de trânsito é fixada da seguinte forma, por cada País e por cada encomenda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 2. Contudo, no que respeita aos dois últimos escalões de peso, as Administrações de origem e de destino têm a faculdade de fixar como entenderem as quotas-partes terrestres que lhes couberem.
 
@@ -5641,7 +5583,7 @@ A taxa principal compõe-se das quotas-partes que pertencem a cada uma das Admin
 
 1. Em caso de transporte marítimo, a quota-parte marítima, por cada serviço marítimo utilizado, é calculada em conformidade com as indicações do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 2. Eventualmente, os percursos devem ser calculados na base de uma distância média ponderada, determinada em função da tonelagem das malas transportadas entre os portos respectivos dos dois Países.
 
@@ -5731,7 +5673,7 @@ l) Taxa de pedido de restituição ou de modificação de endereço.
 
 Tarifa das taxas suplementares definidas no § 2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 ###### ARTIGO 17.º — Taxa das encomendas classificadas no escalão de peso superior
 
@@ -6797,9 +6739,7 @@ No momento de se proceder à assinatura do Acordo Relativo às Encomendas Postai
 
 #### SECÇÃO I — Disposições de ordem geral
 
-ARTIGO I
-
-Exploração do serviço pelas empresas de transporte
+###### ARTIGO I — Exploração do serviço pelas empresas de transporte
 
 1. Qualquer País, cuja Administração não tiver actualmente a seu cargo o transporte de encomendas e que aderir ao Acordo, tem a faculdade de fazer executar as cláusulas deste Acordo pelas empresas de caminho de ferro e de navegação. Pode, ao mesmo tempo, limitar tal serviço às encomendas provenientes de localidades servidas por essas empresas ou destinadas às mesmas localidades.
 
@@ -6807,17 +6747,13 @@ Exploração do serviço pelas empresas de transporte
 
 3. Serve-lhes de intermediária em todas as suas relações com as Administrações dos outros Países contratantes e com a Secretaria Internacional.
 
-ARTIGO II
-
-Trânsito
+###### ARTIGO II — Trânsito
 
 1. Como excepção ao artigo 34.º da Convenção, é concedida provisòriamente ao Afeganistão, ao Irão e às Províncias Portuguesas da África a faculdade de não darem trânsito a encomendas postais pelos seus territórios.
 
 2. A índia fica autorizada a cobrar por todas as encomendas que transitem pelos seus portos, além das quotas-partes marítimas que lhe forem devidas, as quotas-partes terrestres previstas no artigo 10.º do Acordo.
 
-ARTIGO III
-
-Restituição. Modificação de endereço. Entrega livre de encargos pedida posteriormente ao acto da aceitação da encomenda
+###### ARTIGO III — Restituição. Modificação de endereço. Entrega livre de encargos pedida posteriormente ao acto da aceitação da encomenda
 
 1. As disposições do artigo 20.º não se aplicam ao Reino Unido da Grã-Bretanha e da Irlanda do Norte, nem à Irlanda. Elas não se aplicam também àqueles Territórios Britânicos do Ultramar (incluindo as Colónias, os Protectorados e os Territórios sob tutela exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte) cuja legislação interna não permita a restituição ou a modificação de endereço das encomendas a pedido do expedidor.
 
@@ -6825,23 +6761,17 @@ Restituição. Modificação de endereço. Entrega livre de encargos pedida post
 
 #### SECÇÃO II — Condições de aceitação
 
-ARTIGO IV
-
-Dimensões e volume
+###### ARTIGO IV — Dimensões e volume
 
 1. A Grécia, a Tunísia e a Turquia Asiática têm a faculdade de não aceitar provisòriamente encomendas, cujas dimensões ou volume excedam o máximo autorizado pelo Regulamento para a Execução do Acordo Relativo às Encomendas Postais, para os serviços marítimos.
 
 2. A índia tem a faculdade de não admitir encomendas cujas dimensões excedam os limites prescritos no seu serviço interior.
 
-ARTIGO V
-
-Instruções do remetente no acto da aceitação
+###### ARTIGO V — Instruções do remetente no acto da aceitação
 
 Por derrogação às disposições do artigo 5.º, alínea g), a República Soviética Socialista da Bielorrússia, a República Soviética Socialista da Ucrânia e a União das Repúblicas Soviéticas Socialistas têm provisòriamente o direito de não admitir as encomendas contendo a menção «Venda da encomenda por conta e risco do remetente».
 
-ARTIGO VI
-
-Encomendas de difícil acomodação
+###### ARTIGO VI — Encomendas de difícil acomodação
 
 Como aplicação do artigo 2.º, § 4.º, alínea a), e não obstante os limites fixados pelo Regulamento:
 
@@ -6849,7 +6779,7 @@ a) A República do Sudão tem a faculdade, nas suas relações com os outros Pa�
 
 b) O Reino Unido da Grã-Bretanha e da Irlanda do Norte, o Conjunto dos Territórios Britânicos do Ultramar (incluindo as Colónias, os Protectorados e os Territórios sob tutela exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlando do Norte), bem como a Irlanda, têm a faculdade, nas suas relações com os outros Países, de considerar como de difícil acomodação as encomendas cujas dimensões sejam superiores a 1 metro e 5 de lado ou em que a soma do comprimento e do maior contorno, tomado em sentido que não seja o do comprimento, exceda 1 metro e 80.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Libra «avoirdupois»
 
@@ -6863,23 +6793,17 @@ De mais de 3 até 5 quilogramas ... 7-11 lb
 
 De mais de 5 até 10 quilogramas ... 11-22 lb
 
-ARTIGO VIII
-
-Aviso de recepção
+###### ARTIGO VIII — Aviso de recepção
 
 Excepcionalmente, o Ceilão, o Reino Unido da Grã-Bretanha e da Irlanda do Norte, o Conjunto dos Territórios Britânicos do Ultramar (incluindo as Colónias, os Protectorados e os Territórios sob tutela exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte), bem como a Irlanda, têm a faculdade de limitar os avisos de recepção às encomendas com valor declarado.
 
-ARTIGO IX
-
-Instruções do remetente no acto da aceitação
+###### ARTIGO IX — Instruções do remetente no acto da aceitação
 
 Por derrogação às disposições do artigo 5.º, alíneas a), b) e g), o Ceilão, o Reino Unido da Grã-Bretanha e da Irlanda do Norte, o Conjunto dos Territórios Britânicos do Ultramar (incluindo as Colónias, os Protectorados e os Territórios sob tutela exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte), bem como a Irlanda, têm a faculdade de não admitir as medidas relativas à remessa de aviso de recepção, nem à venda da encomenda por conta e risco do remetente.
 
 #### SECÇÃO III — Tarifas
 
-ARTIGO X
-
-Quotas-partes terrestres excepcionais
+###### ARTIGO X — Quotas-partes terrestres excepcionais
 
 A título provisório, as Administrações que figuram nos quadros 1 e 2 seguintes ficam autorizadas a cobrar:
 
@@ -6889,21 +6813,17 @@ b) As quotas-partes terrestres de trânsito indicadas no quadro 2, que se adicio
 
 1. Quotas-partes de partida e de chegada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 2. Quotas-partes terrestres de trânsito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
-ARTIGO XI
-
-Quotas-partes marítimas
+###### ARTIGO XI — Quotas-partes marítimas
 
 Os Territórios Britânicos do Ultramar (incluindo as Colónias, os Protectorados e os Territórios sob tutela exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte) são autorizados a aumentar de 50 por cento, o máximo, as quotas-partes marítimas previstas nos artigos 11.º e 14.º
 
-ARTIGO XII
-
-Quotas-partes suplementares
+###### ARTIGO XII — Quotas-partes suplementares
 
 1. Qualquer encomenda destinada à Córsega, ou dela procedente, fica sujeita:
 
@@ -6913,21 +6833,19 @@ b) A uma quota-parte marítima suplementar igual à que for aplicada em França 
 
 2. Ficam autorizadas as seguintes quotas-partes suplementares de transporte, por cada encomenda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 3. A Administração portuguesa tem a faculdade de cobrar uma quota-parte suplementar de 1 franco e 50, o máximo, por encomenda, pelo transporte entre Portugal continental e as ilhas da Madeira e Açores.
 
 4. Todas as encomendas que utilizarem os serviços automóveis transdesérticos Iraque-Síria motivam a cobrança de uma quota-parte suplementar especial assim fixada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 5. O transporte entre as estações de permuta de Goa, de um lado, e as estações de permuta de Damão e Diu (Índia Portuguesa), de outro lado, motiva a cobrança de uma quota-parte suplementar igual à quota-parte terrestre ou marítima incluída na taxa principal normal e que está fixada nos artigos 10.º, § 1, e 11.º, § 1.
 
 6. O transporte de encomendas entre Karachi (Paquistão), de um lado, e as estações do Paquistão de Omara, Pasni e Gwadur, de outro lado, motiva a cobrança de quotas-partes suplementares iguais às quotas-partes marítimas fixadas no artigo 11.º, § 1.
 
-ARTIGO XIII
-
-Tarifas especiais
+###### ARTIGO XIII — Tarifas especiais
 
 1. A Administração postal do Iraque tem a faculdade de aplicar às encomendas originárias do seu País uma tarifa graduada correspondente às diferentes categorias de peso, com a condição de que a média das taxas não ultrapasse a taxa normal, incluindo a quota-parte excepcional e a quota-parte suplementar, às quais teria direito.
 
@@ -6939,29 +6857,21 @@ Tarifas especiais
 
 #### SECÇÃO IV — Indemnização e responsabilidade
 
-ARTIGO XIV
-
-Encomendas com valor declarado
+###### ARTIGO XIV — Encomendas com valor declarado
 
 Por derrogação das disposições do artigo 27.º, determinadas Administrações ficam autorizadas, de harmonia com as indicações do quadro seguinte, a cobrar, por cada encomenda com valor declarado, os prémios de seguro suplementar abaixo indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
-ARTIGO XV
-
-Máximo de declaração de valor
+###### ARTIGO XV — Máximo de declaração de valor
 
 Por derrogação das disposições do artigo 26.º, aqueles Territórios Britânicos do Ultramar (incluindo as Colónias, os Protectorados e os Territórios sob tutela exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte) cujo máximo de declaração de valor do seu serviço interno seja inferior a 1000 francos têm a faculdade de limitar a esta importância inferior o máximo da declaração de valor no serviço internacional.
 
-ARTIGO XVI
-
-Excepções ao princípio da responsabilidade
+###### ARTIGO XVI — Excepções ao princípio da responsabilidade
 
 Por derrogação das disposições dos artigos 32.º e 35.º, o Congo Belga, o Iraque e a República do Sudão ficam autorizados a não pagar qualquer indemnização pela avaria das encomendas originárias de todos os Países e destinadas ao Congo Belga, ao Iraque ou ao Sudão, quando contenham líquidos e corpos fáceis de se liquefazerem, objectos de vidro e artigos de natureza igualmente frágil.
 
-ARTIGO XVII
-
-Indemnização
+###### ARTIGO XVII — Indemnização
 
 Por derrogação das disposições do artigo 35.º, aqueles Territórios Britânicos do Ultramar (incluindo as Colónias, os Protectorados e os Territórios sob tutela exercida pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte) cuja regulamentação interna a isso se opõe têm a faculdade de não pagar indemnização pelas encomendas sem valor declarado, perdidas, espoliadas ou avariadas no seu serviço.
 
@@ -6977,131 +6887,131 @@ Regulamento para execução do Acordo relativo às encomendas postaisINDICE
 
 ### CAPÍTULO I — Disposições preliminares e gerais
 
-###### Art. 101.º Definições.
+Art. 101.º Definições.
 
-###### Art. 102.º Informações que as Administrações devem prestar.
+Art. 102.º Informações que as Administrações devem prestar.
 
-###### Art. 103.º Vias de encaminhamento e taxas.
+Art. 103.º Vias de encaminhamento e taxas.
 
 ### CAPÍTULO II — Condições e formalidades gerais de aceitação
 
 #### SECÇÃO I — Condições gerais de aceitação
 
-###### Art. 104.º Acondicionamento geral.
+Art. 104.º Acondicionamento geral.
 
-###### Art. 105.º Acondicionamentos especiais. Assinalamento das encomendas que contenham filmes, celulóide, animais vivos.
+Art. 105.º Acondicionamentos especiais. Assinalamento das encomendas que contenham filmes, celulóide, animais vivos.
 
 #### SECÇÃO II — Formalidades gerais de aceitação
 
-###### Art. 106.º Formalidades que o remetente deve cumprir.
+Art. 106.º Formalidades que o remetente deve cumprir.
 
-###### Art. 107.º Formalidades que a estação de origem deve cumprir.
+Art. 107.º Formalidades que a estação de origem deve cumprir.
 
-###### Art. 108.º Divergências relativas ao peso, ao volume ou às dimensões.
+Art. 108.º Divergências relativas ao peso, ao volume ou às dimensões.
 
 ### CAPÍTULO III — Condições especiais de algumas categorias de encomendas
 
 #### SECÇÃO I — Encomendas com valor declarado
 
-###### Art. 109.º Acondicionamento especial das encomendas com valor declarado.
+Art. 109.º Acondicionamento especial das encomendas com valor declarado.
 
-###### Art. 110.º Declaração fraudulenta de valor.
+Art. 110.º Declaração fraudulenta de valor.
 
 #### SECÇÃO II — Encomendas urgentes
 
-###### Art. 111.º Acondicionamento especial das encomendas urgentes.
+Art. 111.º Acondicionamento especial das encomendas urgentes.
 
-###### Art. 112.º Transmissão e despacho aduaneiro das encomendas urgentes.
+Art. 112.º Transmissão e despacho aduaneiro das encomendas urgentes.
 
 #### SECÇÃO III — Encomendas a entregar por próprio
 
-###### Art. 113.º Formalidades especiais de aceitação das encomendas a entregar por próprio.
+Art. 113.º Formalidades especiais de aceitação das encomendas a entregar por próprio.
 
-###### Art. 114.º Casos especiais de entrega e de reexpedição de uma encomenda a entregar por próprio.
+Art. 114.º Casos especiais de entrega e de reexpedição de uma encomenda a entregar por próprio.
 
 #### SECÇÃO IV — Encomendas livres de encargos para o destinatário
 
-###### Art. 115.º Formalidades especiais de aceitação das encomendas livres de encargos para o destinatário.
+Art. 115.º Formalidades especiais de aceitação das encomendas livres de encargos para o destinatário.
 
-###### Art. 116.º Entrega livre de encargos pedida posteriormente ao acto de aceitação da encomenda.
+Art. 116.º Entrega livre de encargos pedida posteriormente ao acto de aceitação da encomenda.
 
-###### Art. 117.º Tratamento dos boletins de franquia depois da entrega da encomenda.
+Art. 117.º Tratamento dos boletins de franquia depois da entrega da encomenda.
 
 #### SECÇÃO V — Encomendas frágeis e encomendas de difícil acomodação
 
-###### Art. 118.º Encomendas frágeis.
+Art. 118.º Encomendas frágeis.
 
-###### Art. 119.º Encomendas de difícil acomodação.
+Art. 119.º Encomendas de difícil acomodação.
 
-###### Art. 120.º Encomendas classificadas no escalão de peso superior.
+Art. 120.º Encomendas classificadas no escalão de peso superior.
 
 #### SECÇÃO VI — Encomendas de prisioneiros de guerra e internados
 
-###### Art. 121.º Acondicionamento especial das encomendas de prisioneiros de guerra e internados.
+Art. 121.º Acondicionamento especial das encomendas de prisioneiros de guerra e internados.
 
 ### CAPÍTULO IV — Casos especiais
 
 #### SECÇÃO I — Aviso de recepção
 
-###### Art. 122.º Pedido de aviso de recepção feito no acto da aceitação.
+Art. 122.º Pedido de aviso de recepção feito no acto da aceitação.
 
-###### Art. 123.º Pedido de aviso de recepção feito posteriormente ao acto da aceitação.
+Art. 123.º Pedido de aviso de recepção feito posteriormente ao acto da aceitação.
 
 #### SECÇÃO II — Outros casos especiais
 
-###### Art. 124.º Aviso de embarque.
+Art. 124.º Aviso de embarque.
 
-###### Art. 125.º Restituição. Modificação de endereço.
+Art. 125.º Restituição. Modificação de endereço.
 
-###### Art. 126.º Reexpedição.
+Art. 126.º Reexpedição.
 
-###### Art. 127.º Reclamações. Pedidos de informações.
+Art. 127.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO V — Permuta das encomendas
 
-###### Art. 128.º Princípio geral de permuta das encomendas.
+Art. 128.º Princípio geral de permuta das encomendas.
 
-###### Art. 129.º Diversos modos de transmissão.
+Art. 129.º Diversos modos de transmissão.
 
-###### Art. 130.º Guia de expedição.
+Art. 130.º Guia de expedição.
 
-###### Art. 131.º Transmissão em malas fechadas.
+Art. 131.º Transmissão em malas fechadas.
 
-###### Art. 132.º Entrega das malas.
+Art. 132.º Entrega das malas.
 
-###### Art. 133.º Transbordo das encomendas-avião.
+Art. 133.º Transbordo das encomendas-avião.
 
-###### Art. 134.º Verificação das malas pelas estações de permuta.
+Art. 134.º Verificação das malas pelas estações de permuta.
 
-###### Art. 135.º Comprovação das irregularidades que envolvam a responsabilidade das Administrações.
+Art. 135.º Comprovação das irregularidades que envolvam a responsabilidade das Administrações.
 
-###### Art. 136.º Devolução dos recipientes vazios.
+Art. 136.º Devolução dos recipientes vazios.
 
 ### CAPÍTULO VI — Encomendas não entregues
 
-###### Art. 137.º Aviso de falta de entrega.
+Art. 137.º Aviso de falta de entrega.
 
-###### Art. 138.º Falta de entrega. Instruções do remetente.
+Art. 138.º Falta de entrega. Instruções do remetente.
 
-###### Art. 139.º Devolução das encomendas não entregues.
+Art. 139.º Devolução das encomendas não entregues.
 
-###### Art. 140.º Venda. Inutilização.
+Art. 140.º Venda. Inutilização.
 
 ### CAPÍTULO VII — Contabilidade
 
-###### Art. 141.º Organização das contas.
+Art. 141.º Organização das contas.
 
-###### Art. 142.º Liquidação das contas.
+Art. 142.º Liquidação das contas.
 
 ### CAPÍTULO VIII — Disposições diversas
 
-###### Art. 143.º Impressos para uso do público.
+Art. 143.º Impressos para uso do público.
 
-###### Art. 144.º Prazo de conservação dos documentos.
+Art. 144.º Prazo de conservação dos documentos.
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 145.º Entrada em execução e duração do Regulamento.
+Art. 145.º Entrada em execução e duração do Regulamento.
 
 Protocolo final do Regulamento de execução
 
@@ -7779,7 +7689,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -7791,123 +7701,123 @@ INDICE
 
 ## TÍTULO I — Disposições preliminares
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
 ## TÍTULO II — Vales do correio
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 2.º Processos de permuta.
+Art. 2.º Processos de permuta.
 
 ### CAPÍTULO II — Emissão dos vales
 
-###### Art. 3.º Moeda. Conversão.
+Art. 3.º Moeda. Conversão.
 
-###### Art. 4.º Importância máxima da emissão.
+Art. 4.º Importância máxima da emissão.
 
-###### Art. 5.º Entrega dos fundos. Recibo.
+Art. 5.º Entrega dos fundos. Recibo.
 
-###### Art. 6.º Taxas.
+Art. 6.º Taxas.
 
-###### Art. 7.º Isenção de taxas.
+Art. 7.º Isenção de taxas.
 
-###### Art. 8.º Disposições especiais relativas à emissão de vales telegráficos.
+Art. 8.º Disposições especiais relativas à emissão de vales telegráficos.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 9.º Aviso de pagamento. Entrega por próprio. Pagamento em mão própria. Encaminhamento por via aérea.
+Art. 9.º Aviso de pagamento. Entrega por próprio. Pagamento em mão própria. Encaminhamento por via aérea.
 
-###### Art. 10.º Restituição. Modificação de endereço.
+Art. 10.º Restituição. Modificação de endereço.
 
-###### Art. 11.º Reexpedição.
+Art. 11.º Reexpedição.
 
-###### Art. 12.º Endosso.
+Art. 12.º Endosso.
 
 ### CAPÍTULO IV — Pagamento dos vales
 
-###### Art. 13.º Período de validade. Revalidação.
+Art. 13.º Período de validade. Revalidação.
 
-###### Art. 14.º Importância máxima do pagamento.
+Art. 14.º Importância máxima do pagamento.
 
-###### Art. 15.º Regras gerais de pagamento dos vales.
+Art. 15.º Regras gerais de pagamento dos vales.
 
-###### Art. 16.º Entrega por próprio.
+Art. 16.º Entrega por próprio.
 
-###### Art. 17.º Taxas postais eventualmente cobradas do destinatário.
+Art. 17.º Taxas postais eventualmente cobradas do destinatário.
 
-###### Art. 18.º Disposições especiais relativas ao pagamento de vales telegráficos.
+Art. 18.º Disposições especiais relativas ao pagamento de vales telegráficos.
 
 ### CAPÍTULO V — Vales não pagos. Autorizações de pagamento
 
-###### Art. 19.º Vales não pagos.
+Art. 19.º Vales não pagos.
 
-###### Art. 20.º Autorização de pagamento.
+Art. 20.º Autorização de pagamento.
 
-###### Art. 21.º Prescrição dos vales.
+Art. 21.º Prescrição dos vales.
 
 ### CAPÍTULO VI — Responsabilidade
 
-###### Art. 22.º Princípio e âmbito da responsabilidade.
+Art. 22.º Princípio e âmbito da responsabilidade.
 
-###### Art. 23.º Excepções ao princípio da responsabilidade.
+Art. 23.º Excepções ao princípio da responsabilidade.
 
-###### Art. 24.º Cessação da responsabilidade.
+Art. 24.º Cessação da responsabilidade.
 
-###### Art. 25.º Determinação da responsabilidade.
+Art. 25.º Determinação da responsabilidade.
 
-###### Art. 26.º Pagamento das quantias reclamadas. Direito de regresso.
+Art. 26.º Pagamento das quantias reclamadas. Direito de regresso.
 
-###### Art. 27.º Prazo de pagamento das importâncias reclamadas.
+Art. 27.º Prazo de pagamento das importâncias reclamadas.
 
-###### Art. 28.º Reembolso à Administração emissora das importâncias entregues por conta da Administração pagadora.
+Art. 28.º Reembolso à Administração emissora das importâncias entregues por conta da Administração pagadora.
 
 ### CAPÍTULO VII — Contabilidade
 
-###### Art. 29.º Partilha das taxas.
+Art. 29.º Partilha das taxas.
 
-###### Art. 30.º Elaboração das contas.
+Art. 30.º Elaboração das contas.
 
-###### Art. 31.º Pagamento das contas.
+Art. 31.º Pagamento das contas.
 
 ### CAPÍTULO VIII — Disposições diversas
 
-###### Art. 32.º Estações que executam o serviço.
+Art. 32.º Estações que executam o serviço.
 
-###### Art. 33.º Participação de organismos não postais.
+Art. 33.º Participação de organismos não postais.
 
-###### Art. 34.º Proibição de taxas fiscais ou outras.
+Art. 34.º Proibição de taxas fiscais ou outras.
 
 ## TÍTULO III — Ordens postais de viagem
 
 ### CAPÍTULO I — Generalidades e emissão
 
-###### Art. 35.º Definição. Cadernetas.
+Art. 35.º Definição. Cadernetas.
 
-###### Art. 36.º Moeda. Importância máxima. Conversão.
+Art. 36.º Moeda. Importância máxima. Conversão.
 
-###### Art. 37.º Taxa.
+Art. 37.º Taxa.
 
-###### Art. 38.º Preço de venda.
+Art. 38.º Preço de venda.
 
 ### CAPÍTULO II — Pagamento das ordens
 
-###### Art. 39.º Período de validade. Pagamento dos fundos.
+Art. 39.º Período de validade. Pagamento dos fundos.
 
-###### Art. 40.º Embargos ao pagamento.
+Art. 40.º Embargos ao pagamento.
 
 ### CAPÍTULO III — Reclamações. Responsabilidade. Contabilidade
 
-###### Art. 41.º Reclamações e responsabilidade.
+Art. 41.º Reclamações e responsabilidade.
 
-###### Art. 42.º Partilha das taxas. Elaboração das contas.
+Art. 42.º Partilha das taxas. Elaboração das contas.
 
 ## TÍTULO IV — Disposições finais
 
-###### Art. 43.º Aplicação da Convenção e de alguns Acordos.
+Art. 43.º Aplicação da Convenção e de alguns Acordos.
 
-###### Art. 44.º Aprovação das propostas feitas no intervalo dos Congressos.
+Art. 44.º Aprovação das propostas feitas no intervalo dos Congressos.
 
-###### Art. 45.º Entrada em execução e duração do Acordo.
+Art. 45.º Entrada em execução e duração do Acordo.
 
 Acordo relativo aos Vales do correio e às ordens postais de viagem
 
@@ -8765,11 +8675,11 @@ PRIMEIRA PARTE
 
 Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações postais devem prestar.
+Art. 101.º Informações que as Administrações postais devem prestar.
 
-###### Art. 102.º Aplicação do Regulamento para Execução da Convenção.
+Art. 102.º Aplicação do Regulamento para Execução da Convenção.
 
-###### Art. 103.º Impressos para uso do público.
+Art. 103.º Impressos para uso do público.
 
 SEGUNDA PARTE
 
@@ -8779,141 +8689,141 @@ Vales do correio
 
 ### CAPÍTULO I — Emissão. Transmissão
 
-###### Art. 104.º Impressos de vales-cartão.
+Art. 104.º Impressos de vales-cartão.
 
-###### Art. 105.º Preenchimento dos vales-cartão.
+Art. 105.º Preenchimento dos vales-cartão.
 
-###### Art. 106.º Indicações proibidas ou autorizadas.
+Art. 106.º Indicações proibidas ou autorizadas.
 
-###### Art. 107.º Registo obrigatório.
+Art. 107.º Registo obrigatório.
 
-###### Art. 108.º Aviso de pagamento pedido posteriormente ao acto da emissão.
+Art. 108.º Aviso de pagamento pedido posteriormente ao acto da emissão.
 
-###### Art. 109.º Transmissão dos vales-cartão.
+Art. 109.º Transmissão dos vales-cartão.
 
 ### CAPÍTULO II — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 110.º Restituição. Modificação de endereço.
+Art. 110.º Restituição. Modificação de endereço.
 
-###### Art. 111.º Reexpedição dos vales-cartão.
+Art. 111.º Reexpedição dos vales-cartão.
 
 ### CAPÍTULO III — Formalidades especiais. Reclamações. Pedidos de informações
 
-###### Art. 112.º Vales-cartão irregulares.
+Art. 112.º Vales-cartão irregulares.
 
-###### Art. 113.º Preenchimento dos avisos de pagamento.
+Art. 113.º Preenchimento dos avisos de pagamento.
 
-###### Art. 114.º Revalidação.
+Art. 114.º Revalidação.
 
-###### Art. 115.º Reclamações. Pedidos de informações.
+Art. 115.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO IV — Vales-cartão não pagos
 
-###### Art. 116.º Devolução dos vales-cartão não pagos.
+Art. 116.º Devolução dos vales-cartão não pagos.
 
-###### Art. 117.º Autorizações de pagamento.
+Art. 117.º Autorizações de pagamento.
 
-###### Art. 118.º Vales-cartão extraviados, perdidos ou destruídos antes do pagamento.
+Art. 118.º Vales-cartão extraviados, perdidos ou destruídos antes do pagamento.
 
-###### Art. 119.º Vales-cartão extraviados, perdidos ou destruídos depois do pagamento.
+Art. 119.º Vales-cartão extraviados, perdidos ou destruídos depois do pagamento.
 
 ## TÍTULO II — Vales-lista
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 120.º Disposições comuns aos vales-lista e aos vales-cartão.
+Art. 120.º Disposições comuns aos vales-lista e aos vales-cartão.
 
 ### CAPÍTULO II — Emissão. Transmissão
 
-###### Art. 121.º Indicações proibidas ou autorizadas.
+Art. 121.º Indicações proibidas ou autorizadas.
 
-###### Art. 122.º Estações de permuta.
+Art. 122.º Estações de permuta.
 
-###### Art. 123.º Transmissão dos vales-lista.
+Art. 123.º Transmissão dos vales-lista.
 
-###### Art. 124.º Listas especiais.
+Art. 124.º Listas especiais.
 
-###### Art. 125.º Serviços especiais. Indicações a inscrever nas listas.
+Art. 125.º Serviços especiais. Indicações a inscrever nas listas.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 126.º Restituição. Modificação de endereço.
+Art. 126.º Restituição. Modificação de endereço.
 
-###### Art. 127.º Reexpedição dos vales-lista.
+Art. 127.º Reexpedição dos vales-lista.
 
 ### CAPÍTULO IV — Operações no País pagador
 
-###### Art. 128.º Procedimento relativo às listas em falta ou irregulares.
+Art. 128.º Procedimento relativo às listas em falta ou irregulares.
 
-###### Art. 129.º Remessa do aviso de pagamento.
+Art. 129.º Remessa do aviso de pagamento.
 
-###### Art. 130.º Devolução dos vales-lista não pagos.
+Art. 130.º Devolução dos vales-lista não pagos.
 
 ## TÍTULO III — Vales telegráficos
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 131.º Disposições comuns.
+Art. 131.º Disposições comuns.
 
 ### CAPÍTULO II — Emissão. Transmissão
 
-###### Art. 132.º Preenchimento dos vales telegráficos.
+Art. 132.º Preenchimento dos vales telegráficos.
 
-###### Art. 133.º Aviso de emissão.
+Art. 133.º Aviso de emissão.
 
-###### Art. 134.º Transmissão dos vales-lista telegráficos.
+Art. 134.º Transmissão dos vales-lista telegráficos.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 135.º Modificação de endereço.
+Art. 135.º Modificação de endereço.
 
-###### Art. 136.º Reexpedição dos vales telegráficos.
+Art. 136.º Reexpedição dos vales telegráficos.
 
 ### CAPÍTULO IV — Operações no País pagador
 
-###### Art. 137.º Expediente dos vales telegráficos irregulares.
+Art. 137.º Expediente dos vales telegráficos irregulares.
 
-###### Art. 138.º Pagamento dos vales telegráficos.
+Art. 138.º Pagamento dos vales telegráficos.
 
-###### Art. 139.º Preenchimento do aviso de pagamento.
+Art. 139.º Preenchimento do aviso de pagamento.
 
-###### Art. 140.º Devolução dos vales-cartão telegráficos não pagos.
+Art. 140.º Devolução dos vales-cartão telegráficos não pagos.
 
 ## TÍTULO IV — Disposições de contabilidade
 
 ### CAPÍTULO I — Regras comuns
 
-###### Art. 141.º Elaboração das contas mensais.
+Art. 141.º Elaboração das contas mensais.
 
-###### Art. 142.º Elaboração da conta geral.
+Art. 142.º Elaboração da conta geral.
 
-###### Art. 143.º Liquidação das contas. Pagamentos por conta.
+Art. 143.º Liquidação das contas. Pagamentos por conta.
 
 ### CAPÍTULO II — Regras de contabilidade privativas dos vales-lista e dos vales telegráficos
 
-###### Art. 144.º Elaboração das contas mensais.
+Art. 144.º Elaboração das contas mensais.
 
 TERCEIRA PARTE
 
 Ordens postais de viagem
 
-###### Art. 145.º Regras gerais de emissão.
+Art. 145.º Regras gerais de emissão.
 
-###### Art. 146.º Impressos das ordens e capas das cadernetas. Fornecimento.
+Art. 146.º Impressos das ordens e capas das cadernetas. Fornecimento.
 
-###### Art. 147.º Emissão das ordens.
+Art. 147.º Emissão das ordens.
 
-###### Art. 148.º Organização e preenchimento das cadernetas.
+Art. 148.º Organização e preenchimento das cadernetas.
 
-###### Art. 149.º Ordens extraviadas, perdidas ou destruídas depois do pagamento.
+Art. 149.º Ordens extraviadas, perdidas ou destruídas depois do pagamento.
 
-###### Art. 150.º Elaboração das contas.
+Art. 150.º Elaboração das contas.
 
 QUARTA PARTE
 
 Disposições finais
 
-###### Art. 151.º Entrada em execução e duração do Regulamento.
+Art. 151.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -9489,7 +9399,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -9501,83 +9411,83 @@ Acordo relativo às transferências postais
 
 ## TÍTULO I — Disposições preliminares
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
 ## TÍTULO II — Transferências postais
 
 ### CAPÍTULO I — Condições de aceitação e execução das ordens de transferência
 
-###### Art. 2.º Modos de permuta.
+Art. 2.º Modos de permuta.
 
-###### Art. 3.º Moeda. Conversão.
+Art. 3.º Moeda. Conversão.
 
-###### Art. 4.º Importância máxima.
+Art. 4.º Importância máxima.
 
-###### Art. 5.º Taxas.
+Art. 5.º Taxas.
 
-###### Art. 6.º Isenção de taxas.
+Art. 6.º Isenção de taxas.
 
-###### Art. 7.º Aviso de transferência.
+Art. 7.º Aviso de transferência.
 
-###### Art. 8.º Transferências postais transmitidas por via telegráfica.
+Art. 8.º Transferências postais transmitidas por via telegráfica.
 
-###### Art. 9.º Inscrição na conta do beneficiário. Aviso de inscrição.
+Art. 9.º Inscrição na conta do beneficiário. Aviso de inscrição.
 
-###### Art. 10.º Permuta das transferências postais.
+Art. 10.º Permuta das transferências postais.
 
-###### Art. 11.º Estações de permuta.
+Art. 11.º Estações de permuta.
 
 ### CAPÍTULO II — Anulação. Reclamações
 
-###### Art. 12.º Anulação das transferências.
+Art. 12.º Anulação das transferências.
 
-###### Art. 13.º Reclamações. Pedidos de informações.
+Art. 13.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO III — Responsabilidade
 
-###### Art. 14.º Princípio e âmbito da responsabilidade.
+Art. 14.º Princípio e âmbito da responsabilidade.
 
-###### Art. 15.º Excepções ao princípio da responsabilidade.
+Art. 15.º Excepções ao princípio da responsabilidade.
 
-###### Art. 16.º Determinação da responsabilidade.
+Art. 16.º Determinação da responsabilidade.
 
-###### Art. 17.º Reembolso das importâncias devidas.
+Art. 17.º Reembolso das importâncias devidas.
 
-###### Art. 18.º Reembolso à Administração credora.
+Art. 18.º Reembolso à Administração credora.
 
 ### CAPÍTULO IV — Contabilidade
 
-###### Art. 19.º Atribuição das taxas.
+Art. 19.º Atribuição das taxas.
 
-###### Art. 20.º Elaboração e liquidação das contas.
+Art. 20.º Elaboração e liquidação das contas.
 
-###### Art. 21.º Pagamento. Juros de mora.
+Art. 21.º Pagamento. Juros de mora.
 
-###### Art. 22.º Conta geral trimestral.
+Art. 22.º Conta geral trimestral.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 23.º Pedido de abertura de uma conta corrente postal no estrangeiro.
+Art. 23.º Pedido de abertura de uma conta corrente postal no estrangeiro.
 
-###### Art. 24.º Isenção postal.
+Art. 24.º Isenção postal.
 
-###### Art. 25.º Lista dos titulares de contas.
+Art. 25.º Lista dos titulares de contas.
 
 ## TÍTULO III — Liquidação por transferência postal dos valores pagáveis nas repartições de cheques postais
 
-###### Art. 26.º Valores pagáveis nas repartições de cheques postais.
+Art. 26.º Valores pagáveis nas repartições de cheques postais.
 
-###### Art. 27.º Taxa.
+Art. 27.º Taxa.
 
-###### Art. 28.º Responsabilidade.
+Art. 28.º Responsabilidade.
 
 ## TÍTULO IV — Disposições finais
 
-###### Art. 29.º Aplicação da Convenção.
+Art. 29.º Aplicação da Convenção.
 
-###### Art. 30.º Aprovação das propostas feitas no intervalo dos Congressos.
+Art. 30.º Aprovação das propostas feitas no intervalo dos Congressos.
 
-###### Art. 31.º Entrada em execução e duração do Acordo.
+Art. 31.º Entrada em execução e duração do Acordo.
 
 Acordo relativo às transferências postais
 
@@ -10157,69 +10067,69 @@ INDICE
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações postais devem prestar.
+Art. 101.º Informações que as Administrações postais devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
 ### CAPÍTULO II — Emissão. Transmissão
 
-###### Art. 103.º Preenchimento dos impressos.
+Art. 103.º Preenchimento dos impressos.
 
-###### Art. 104.º Organização dos avisos de transferência.
+Art. 104.º Organização dos avisos de transferência.
 
-###### Art. 105.º Transferências telegráficas.
+Art. 105.º Transferências telegráficas.
 
-###### Art. 106.º Listas de transferências.
+Art. 106.º Listas de transferências.
 
-###### Art. 107.º Organização das cartas de remessa.
+Art. 107.º Organização das cartas de remessa.
 
-###### Art. 108.º Transmissão das transferências.
+Art. 108.º Transmissão das transferências.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 109.º Pedido de aviso de inscrição.
+Art. 109.º Pedido de aviso de inscrição.
 
-###### Art. 110.º Pedido de anulação de uma transferência.
+Art. 110.º Pedido de anulação de uma transferência.
 
-###### Art. 111.º Reclamações. Pedidos de informações.
+Art. 111.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO IV — Operações na repartição de cheques postais destinatária
 
-###### Art. 112.º Inscrição imediata das transferências telegráficas.
+Art. 112.º Inscrição imediata das transferências telegráficas.
 
-###### Art. 113.º Devolução do aviso de inscrição.
+Art. 113.º Devolução do aviso de inscrição.
 
-###### Art. 114.º Verificação das remessas e expediente das irregularidades.
+Art. 114.º Verificação das remessas e expediente das irregularidades.
 
-###### Art. 115.º Anulação de uma transferência.
+Art. 115.º Anulação de uma transferência.
 
-###### Art. 116.º Transferências não executadas.
+Art. 116.º Transferências não executadas.
 
 ### CAPÍTULO V — Contabilidade
 
-###### Art. 117.º Organização das contas.
+Art. 117.º Organização das contas.
 
-###### Art. 118.º Pagamento das importâncias devidas.
+Art. 118.º Pagamento das importâncias devidas.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 119.º Sobrescritos isentos de porte contendo extractos de contas.
+Art. 119.º Sobrescritos isentos de porte contendo extractos de contas.
 
-###### Art. 120.º Pedido de abertura de uma conta corrente postal no estrangeiro.
+Art. 120.º Pedido de abertura de uma conta corrente postal no estrangeiro.
 
 ## TÍTULO II — Valores pagáveis nas repartições de cheques postais
 
-###### Art. 121.º Aplicação do Regulamento para Execução do Acordo Relativo às Cobranças.
+Art. 121.º Aplicação do Regulamento para Execução do Acordo Relativo às Cobranças.
 
-###### Art. 122.º Condições especiais a que os valores devem satisfazer.
+Art. 122.º Condições especiais a que os valores devem satisfazer.
 
-###### Art. 123.º Organização e transmissão das listas de remessa dos valores.
+Art. 123.º Organização e transmissão das listas de remessa dos valores.
 
-###### Art. 124.º Remessa dos fundos.
+Art. 124.º Remessa dos fundos.
 
 ## TÍTULO III — Disposições finais
 
-###### Art. 125.º Entrada em execução e duração do Regulamento.
+Art. 125.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -10467,7 +10377,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -10479,47 +10389,47 @@ Acordo relativo aos objectos contra reembolso
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
 ### CAPÍTULO II — Condições gerais. Taxas. Transferências dos fundos
 
-###### Art. 2.º Objectos admitidos.
+Art. 2.º Objectos admitidos.
 
-###### Art. 3.º Condições de aceitação.
+Art. 3.º Condições de aceitação.
 
-###### Art. 4.º Modos de liquidação com o remetente.
+Art. 4.º Modos de liquidação com o remetente.
 
-###### Art. 5.º Taxas.
+Art. 5.º Taxas.
 
-###### Art. 6.º Anulação ou modificação da importância do reembolso.
+Art. 6.º Anulação ou modificação da importância do reembolso.
 
-###### Art. 7.º Vales de reembolso.
+Art. 7.º Vales de reembolso.
 
-###### Art. 8.º Pagamento dos vales de reembolso referentes às encomendas.
+Art. 8.º Pagamento dos vales de reembolso referentes às encomendas.
 
-###### Art. 9.º Falta de pagamento ao remetente.
+Art. 9.º Falta de pagamento ao remetente.
 
 ### CAPÍTULO III — Responsabilidade
 
-###### Art. 10.º Princípio e âmbito da responsabilidade.
+Art. 10.º Princípio e âmbito da responsabilidade.
 
-###### Art. 11.º Restituição ao remetente de um objecto entregue ao destinatário sem cobrança da importância do reembolso.
+Art. 11.º Restituição ao remetente de um objecto entregue ao destinatário sem cobrança da importância do reembolso.
 
-###### Art. 12.º Excepções.
+Art. 12.º Excepções.
 
-###### Art. 13.º Pagamento da indemnização. Direito de regresso. Prazos.
+Art. 13.º Pagamento da indemnização. Direito de regresso. Prazos.
 
-###### Art. 14.º Determinação da responsabilidade referente à cobrança.
+Art. 14.º Determinação da responsabilidade referente à cobrança.
 
 ### CAPÍTULO IV — Disposições diversas e finais
 
-###### Art. 15.º Partilha das taxas no caso de liquidação da importância do reembolso por meio de vale.
+Art. 15.º Partilha das taxas no caso de liquidação da importância do reembolso por meio de vale.
 
-###### Art. 16.º Aplicação da Convenção e de alguns Acordos.
+Art. 16.º Aplicação da Convenção e de alguns Acordos.
 
-###### Art. 17.º Aprovação das propostas feitas no intervalo dos Congressos.
+Art. 17.º Aprovação das propostas feitas no intervalo dos Congressos.
 
-###### Art. 18.º Entrada em execução e duração do Acordo.
+Art. 18.º Entrada em execução e duração do Acordo.
 
 Acordo relativo aos objectos contra reembolso
 
@@ -11101,43 +11011,43 @@ INDICE
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações postais devem prestar.
+Art. 101.º Informações que as Administrações postais devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
 ### CAPÍTULO II — Aceitação
 
-###### Art. 103.º Indicações que devem figurar nos objectos e no boletim de expedição.
+Art. 103.º Indicações que devem figurar nos objectos e no boletim de expedição.
 
-###### Art. 104.º Etiquetas.
+Art. 104.º Etiquetas.
 
-###### Art. 105.º Impressos a juntar aos objectos.
+Art. 105.º Impressos a juntar aos objectos.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 106.º Anulação ou modificação da importância do reembolso.
+Art. 106.º Anulação ou modificação da importância do reembolso.
 
-###### Art. 107.º Reexpedição.
+Art. 107.º Reexpedição.
 
 ### CAPÍTULO IV — Operações na estação encarregada da cobrança
 
-###### Art. 108.º Conversão. Expediente dos títulos de pagamento.
+Art. 108.º Conversão. Expediente dos títulos de pagamento.
 
-###### Art. 109.º Expediente das irregularidades.
+Art. 109.º Expediente das irregularidades.
 
-###### Art. 110.º Prazo de pagamento.
+Art. 110.º Prazo de pagamento.
 
-###### Art. 111.º Destruição, anulação ou substituição dos impressos dos títulos de pagamento.
+Art. 111.º Destruição, anulação ou substituição dos impressos dos títulos de pagamento.
 
-###### Art. 112.º Vales não entregues ou não pagos.
+Art. 112.º Vales não entregues ou não pagos.
 
 ### CAPÍTULO V — Contabilidade
 
-###### Art. 113.º Elaboração e liquidação das contas.
+Art. 113.º Elaboração e liquidação das contas.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 114.º Entrada em execução e duração do Regulamento.
+Art. 114.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -11299,7 +11209,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -11311,59 +11221,59 @@ INDICE
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
-###### Art. 2.º Títulos admitidos à cobrança.
+Art. 2.º Títulos admitidos à cobrança.
 
-###### Art. 3.º Protestos. Diligências.
+Art. 3.º Protestos. Diligências.
 
-###### Art. 4.º Moeda.
+Art. 4.º Moeda.
 
 ### CAPÍTULO II — Aceitação das remessas de títulos à cobrança
 
-###### Art. 5.º Forma e taxa da remessa.
+Art. 5.º Forma e taxa da remessa.
 
-###### Art. 6.º Número e importância máxima dos títulos por remessa.
+Art. 6.º Número e importância máxima dos títulos por remessa.
 
-###### Art. 7.º Proibições.
+Art. 7.º Proibições.
 
 ### CAPÍTULO III — Cobrança dos títulos. Remessa dos fundos cobrados ao remetente
 
-###### Art. 8. Proibição de pagamentos parciais.
+Art. 8. Proibição de pagamentos parciais.
 
-###### Art. 9.º Modos de remessa dos fundos ao remetente.
+Art. 9.º Modos de remessa dos fundos ao remetente.
 
-###### Art. 10.º Vales de cobrança.
+Art. 10.º Vales de cobrança.
 
-###### Art. 11.º Falta de pagamento ao remetente.
+Art. 11.º Falta de pagamento ao remetente.
 
-###### Art. 12.º Taxas. Taxas não postais.
+Art. 12.º Taxas. Taxas não postais.
 
-###### Art. 13.º Cálculo de algumas taxas e determinação das importâncias a remeter.
+Art. 13.º Cálculo de algumas taxas e determinação das importâncias a remeter.
 
 ### CAPÍTULO IV — Particularidades relativas a algumas faculdades concedidas ao público. Devolução
 
-###### Art. 14.º Restituição dos títulos. Rectificação da relação.
+Art. 14.º Restituição dos títulos. Rectificação da relação.
 
-###### Art. 15.º Reexpedição.
+Art. 15.º Reexpedição.
 
-###### Art. 16.º Devolução dos títulos não pagos, incobráveis ou mal dirigidos.
+Art. 16.º Devolução dos títulos não pagos, incobráveis ou mal dirigidos.
 
 ### CAPÍTULO V — Responsabilidade
 
-###### Art. 17.º Princípio e âmbito da responsabilidade.
+Art. 17.º Princípio e âmbito da responsabilidade.
 
 ### CAPÍTULO VI — Disposições diversas e finais
 
-###### Art. 18.º Atribuição das taxas.
+Art. 18.º Atribuição das taxas.
 
-###### Art. 19.º Estações que executam o serviço.
+Art. 19.º Estações que executam o serviço.
 
-###### Art. 20.º Aplicação da Convenção e de alguns Acordos.
+Art. 20.º Aplicação da Convenção e de alguns Acordos.
 
-###### Art. 21.º Aprovação das propostas feitas no intervalo dos Congressos.
+Art. 21.º Aprovação das propostas feitas no intervalo dos Congressos.
 
-###### Art. 22.º Entrada em execução e duração do Acordo.
+Art. 22.º Entrada em execução e duração do Acordo.
 
 Acordo relativo às cobranças
 
@@ -11927,47 +11837,47 @@ INDICE
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as administrações postais devem prestar.
+Art. 101.º Informações que as administrações postais devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
 ### CAPÍTULO II — Aceitação das remessas
 
-###### Art. 103.º Condições a que os títulos devem satisfazer.
+Art. 103.º Condições a que os títulos devem satisfazer.
 
-###### Art. 104.º Constituição das remessas de títulos.
+Art. 104.º Constituição das remessas de títulos.
 
-###### Art. 105.º Aceitação.
+Art. 105.º Aceitação.
 
 ### CAPÍTULO III — Operações na estação encarregada da cobrança
 
-###### Art. 106.º Conferência das remessas.
+Art. 106.º Conferência das remessas.
 
-###### Art. 107.º Expediente das remessas contendo anotações ou comunicações proibidas.
+Art. 107.º Expediente das remessas contendo anotações ou comunicações proibidas.
 
-###### Art. 108.º Apresentação. Prazo de pagamento.
+Art. 108.º Apresentação. Prazo de pagamento.
 
 ### CAPÍTULO IV — Operações posteriores à apresentação
 
-###### Art. 109 .º Liquidação da conta.
+Art. 109 .º Liquidação da conta.
 
-###### Art. 110.º Remessa dos fundos por vale.
+Art. 110.º Remessa dos fundos por vale.
 
-###### Art. 111.º Liquidação par depósito em ou transferencia para uma conta corrente postal.
+Art. 111.º Liquidação par depósito em ou transferencia para uma conta corrente postal.
 
-###### Art. 112.º Operações diversas.
+Art. 112.º Operações diversas.
 
 ### CAPÍTULO V — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 113.º Restituição dos títulos. Rectificação da relação
+Art. 113.º Restituição dos títulos. Rectificação da relação
 
-###### Art. 114.º Reexpedição.
+Art. 114.º Reexpedição.
 
-###### Art. 115.º Reclamações. Pedidos de informações.
+Art. 115.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 118.º Entrada em execução e duração do Regulamento.
+Art. 118.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -12141,7 +12051,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -12153,61 +12063,61 @@ INDICE
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
-###### Art. 2.º Âmbito do serviço.
+Art. 2.º Âmbito do serviço.
 
 ### CAPÍTULO II — Disposições Gerais
 
-###### Art. 3.º Transmissão de fundos.
+Art. 3.º Transmissão de fundos.
 
-###### Art. 4.º Juros.
+Art. 4.º Juros.
 
-###### Art. 5.º Transmissão de cadernetas e documentos diversos.
+Art. 5.º Transmissão de cadernetas e documentos diversos.
 
-###### Art. 6.º Disposições comuns aos depósitos e às transferências.
+Art. 6.º Disposições comuns aos depósitos e às transferências.
 
 ### CAPÍTULO III — Depósitos
 
-###### Art. 7.º Entrega de depósitos.
+Art. 7.º Entrega de depósitos.
 
-###### Art. 8.º Importância máxima.
+Art. 8.º Importância máxima.
 
-###### Art. 9.º Arredondamento para a unidade monetária.
+Art. 9.º Arredondamento para a unidade monetária.
 
-###### Art. 10.º Devolução da caderneta.
+Art. 10.º Devolução da caderneta.
 
 ### CAPÍTULO IV — Levantamentos
 
-###### Art. 11.º Pedidos de levantamento.
+Art. 11.º Pedidos de levantamento.
 
-###### Art. 12.º Autorizações de levantamento.
+Art. 12.º Autorizações de levantamento.
 
-###### Art. 13.º Levantamentos.
+Art. 13.º Levantamentos.
 
-###### Art. 14.º Levantamentos telegráficos.
+Art. 14.º Levantamentos telegráficos.
 
 ### CAPÍTULO V — Transferências
 
-###### Art. 15.º Princípios gerais aplicáveis às transferências.
+Art. 15.º Princípios gerais aplicáveis às transferências.
 
 ### CAPÍTULO VI — Responsabilidade
 
-###### Art. 16.º Âmbito da responsabilidade.
+Art. 16.º Âmbito da responsabilidade.
 
-###### Art. 17.º Determinação da responsabilidade.
+Art. 17.º Determinação da responsabilidade.
 
-###### Art. 18.º Reconstituição da conta de caixa económica.
+Art. 18.º Reconstituição da conta de caixa económica.
 
-###### Art. 19.º Reembolso à caixa económica credora.
+Art. 19.º Reembolso à caixa económica credora.
 
 ### CAPÍTULO VII — Disposições diversas e finais
 
-###### Art. 20.º Aplicação das disposições de ordem geral da Convenção.
+Art. 20.º Aplicação das disposições de ordem geral da Convenção.
 
-###### Art. 21.º Aprovação das propostas feitas no intervalo dos Congressos.
+Art. 21.º Aprovação das propostas feitas no intervalo dos Congressos.
 
-###### Art. 22.º Entrada em execução e duração do Acordo.
+Art. 22.º Entrada em execução e duração do Acordo.
 
 Acordo relativo ao serviço internacional de caixa económica
 
@@ -12521,67 +12431,67 @@ Regulamento para execução do Acordo relativo ao serviço internacional de caix
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações postais devem prestar.
+Art. 101.º Informações que as Administrações postais devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
-###### Art. 103.º Correspondências isentas de franquia.
+Art. 103.º Correspondências isentas de franquia.
 
 ### CAPÍTULO II — Depósitos
 
-###### Art. 104.º Entrega dos depósitos.
+Art. 104.º Entrega dos depósitos.
 
-###### Art. 105.º Carta de remessa.
+Art. 105.º Carta de remessa.
 
-###### Art. 106.º Transmissão das cadernetas e documentos de serviço.
+Art. 106.º Transmissão das cadernetas e documentos de serviço.
 
-###### Art. 107.º Dispensa de apresentação da caderneta.
+Art. 107.º Dispensa de apresentação da caderneta.
 
-###### Art. 108.º Rejeição parcial ou total de um depósito.
+Art. 108.º Rejeição parcial ou total de um depósito.
 
-###### Art. 109.º Devolução da caderneta.
+Art. 109.º Devolução da caderneta.
 
 ### CAPÍTULO III — Levantamentos
 
-###### Art. 110.º Redacção e entrega dos pedidos de levantamento.
+Art. 110.º Redacção e entrega dos pedidos de levantamento.
 
-###### Art. 111.º Autorização de levantamento.
+Art. 111.º Autorização de levantamento.
 
-###### Art. 112.º Expediente da caderneta.
+Art. 112.º Expediente da caderneta.
 
-###### Art. 113.º Pagamento dos levantamentos.
+Art. 113.º Pagamento dos levantamentos.
 
-###### Art. 114.º Validade das autorizações.
+Art. 114.º Validade das autorizações.
 
-###### Art. 115.º Devolução das autorizações com recibo.
+Art. 115.º Devolução das autorizações com recibo.
 
-###### Art. 116.º Autorizações não pagas.
+Art. 116.º Autorizações não pagas.
 
 ### CAPÍTULO IV — Transferências
 
-###### Art. 117.º Entrega dos pedidos.
+Art. 117.º Entrega dos pedidos.
 
-###### Art. 118.º Expediente dos pedidos de transferência.
+Art. 118.º Expediente dos pedidos de transferência.
 
-###### Art. 119.º Emissão de nova caderneta.
+Art. 119.º Emissão de nova caderneta.
 
-###### Art. 120.º Transferência para conta já existente.
+Art. 120.º Transferência para conta já existente.
 
-###### Art. 121.º Expediente da caderneta primitiva depois das operações de transferência.
+Art. 121.º Expediente da caderneta primitiva depois das operações de transferência.
 
 ### CAPÍTULO V — Operações diversas
 
-###### Art. 122.º Substituição das cadernetas.
+Art. 122.º Substituição das cadernetas.
 
-###### Art. 123.º Cálculo dos juros.
+Art. 123.º Cálculo dos juros.
 
-###### Art. 124.º Entrega da caderneta para lançamento dos juros.
+Art. 124.º Entrega da caderneta para lançamento dos juros.
 
-###### Art. 125.º Restituição da caderneta depois do lançamento dos juros.
+Art. 125.º Restituição da caderneta depois do lançamento dos juros.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 126.º Entrada em execução e duração do Regulamento.
+Art. 126.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -12675,7 +12585,7 @@ Como excepção ao disposto nos artigos 104.º a 106.º, um País contratante po
 
 ### CAPÍTULO III — Levantamentos
 
-###### ARTIGO 110.ºRedacção e entrega dos pedidos de levantamento
+ARTIGO 110.ºRedacção e entrega dos pedidos de levantamento
 
 1. Os pedidos de levantamento são redigidos em impressos conforme o modelo anexo CE 3.
 
@@ -12827,7 +12737,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 
@@ -12839,45 +12749,45 @@ Acordo relativo às assinaturas de jornais e publicações periódicas
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 1.º Objecto do Acordo.
+Art. 1.º Objecto do Acordo.
 
 ### CAPÍTULO II — Assinaturas
 
-###### Art. 2.º Assinaturas.
+Art. 2.º Assinaturas.
 
-###### Art. 3.º Períodos de assinatura. Assinaturas pedidas tardiamente.
+Art. 3.º Períodos de assinatura. Assinaturas pedidas tardiamente.
 
-###### Art. 4.º Continuação das assinaturas no caso de cessação do serviço.
+Art. 4.º Continuação das assinaturas no caso de cessação do serviço.
 
-###### Art. 5.º Assinaturas recebidas directamente pelos editores.
+Art. 5.º Assinaturas recebidas directamente pelos editores.
 
 ### CAPÍTULO III — Taxas e preços
 
-###### Art. 6.º Taxa dos jornais.
+Art. 6.º Taxa dos jornais.
 
-###### Art. 7.º Preço de fornecimento.
+Art. 7.º Preço de fornecimento.
 
-###### Art. 8.º Preço de assinatura.
+Art. 8.º Preço de assinatura.
 
-###### Art. 9.º Alterações de preço.
+Art. 9.º Alterações de preço.
 
-###### Art. 10.º Impressos incluídos em jornais.
+Art. 10.º Impressos incluídos em jornais.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 11.º Mudanças de endereço.
+Art. 11.º Mudanças de endereço.
 
-###### Art. 12.º Reclamações.
+Art. 12.º Reclamações.
 
-###### Art. 13.º Responsabilidade.
+Art. 13.º Responsabilidade.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 14.º Aplicação das disposições orgânicas e de ordem geral relativas à União Postal Universal.
+Art. 14.º Aplicação das disposições orgânicas e de ordem geral relativas à União Postal Universal.
 
-###### Art. 15.º Aprovação das propostas feitas no intervalo dos Congressos.
+Art. 15.º Aprovação das propostas feitas no intervalo dos Congressos.
 
-###### Art. 16.º Entrada em execução e duração do Acordo.
+Art. 16.º Entrada em execução e duração do Acordo.
 
 Acordo relativo às assinaturas de jornais e publicações periódicas
 
@@ -13377,43 +13287,43 @@ INDICE
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 101.º Estações de permuta.
+Art. 101.º Estações de permuta.
 
-###### Art. 102.º Listas dos jornais. Jornais proibidos.
+Art. 102.º Listas dos jornais. Jornais proibidos.
 
-###### Art. 103.º Tabela geral dos jornais.
+Art. 103.º Tabela geral dos jornais.
 
-###### Art. 104.º Comunicações que se devem fazer à Secretaria Internacional.
+Art. 104.º Comunicações que se devem fazer à Secretaria Internacional.
 
 ### CAPÍTULO II — Execução dos pedidos de assinatura
 
-###### Art. 105.º Listas dos pedidos de assinatura.
+Art. 105.º Listas dos pedidos de assinatura.
 
-###### Art. 106.º Expedição dos jornais.
+Art. 106.º Expedição dos jornais.
 
-###### Art. 107.º Pedidos de assinatura recebidos directamente pelos editores.
+Art. 107.º Pedidos de assinatura recebidos directamente pelos editores.
 
 ### CAPÍTULO III — Casos especiais
 
-###### Art. 108.º Mudanças de endereço.
+Art. 108.º Mudanças de endereço.
 
-###### Art. 109.º Irregularidades.
+Art. 109.º Irregularidades.
 
-###### Art. 110.º Suspensão ou cessação de publicações.
+Art. 110.º Suspensão ou cessação de publicações.
 
-###### Art. 111.º Assinatura de jornais que não figurem na lista
+Art. 111.º Assinatura de jornais que não figurem na lista
 
 ### CAPÍTULO IV — Contabilidade
 
-###### Art. 112.º Atribuições das taxas.
+Art. 112.º Atribuições das taxas.
 
-###### Art. 113.º Contas trimestrais.
+Art. 113.º Contas trimestrais.
 
-###### Art. 114.º Liquidação. Pagamentos por conta.
+Art. 114.º Liquidação. Pagamentos por conta.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 115.º Entrada em execução e duração do Regulamento.
+Art. 115.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -13559,7 +13469,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf))](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/02601/02050591.pdf)
 
 Anexos
 

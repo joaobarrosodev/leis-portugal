@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/11/25800/16951696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45337-1963-688056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2c65642494cc23b32359bd844f703fdf4df8d8f8983ad367882d178b3cde0b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 078163921ce76581a380fa36d273bc9b9706e6a3a22f272be53044c1ee698050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AVAL do Estado
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Empresa
+- Empréstimo
+- Execução Fiscal
+- Financiamento
+- Garantia
+- Instituição de Crédito
+- Ministro das Finanças
+- Política Económica
+- Responsabilidade do Estado
 relationships:
 - type: amended_by
   target: pt:dre:649166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649166:por
+  label: "Revogado pela LEI.112/97.16.09.1997.AR, DR.IS-A [214] de 16.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/112-1997-649166
+  date: '1997-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:55Z'
   warnings: []
   errors: []
 ---
@@ -103,17 +131,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Ministro das Finanças a dar, por uma ou mais vezes, a garantia solidária do Estado a operações de crédito externo a realizar entre o Banco Internacional de Reconstrução e Desenvolvimento e empresas ou bancos nacionais.
+Artigo 1.º - 1. É autorizado o Ministro das Finanças a dar, por uma ou mais vezes, a garantia solidária do Estado a operações de crédito externo a realizar entre o Banco Internacional de Reconstrução e Desenvolvimento e empresas ou bancos nacionais.
 
 2. Fica o Ministro das Finanças autorizado a estipular e aceitar, para efeitos de prestação da garantia, as condições dos contratos de garantia e de empréstimo a celebrar, incluindo as respeitantes a juros e a quaisquer taxas ou comissões devidas.
 
 3. A garantia do Estado estender-se-á igualmente às obrigações e demais títulos nominativos ou ao portador que venham a ser emitidos em representação de empréstimos, como se prevê no artigo 5.º
 
-###### Art. 2.º - 1. A garantia será prestada por meio de declaração emitida pelo director-geral da Fazenda Pública, precedendo despacho do Ministro das Finanças, ou mediante contrato assinado por este último ou por representante designado para o efeito.
+Art. 2.º - 1. A garantia será prestada por meio de declaração emitida pelo director-geral da Fazenda Pública, precedendo despacho do Ministro das Finanças, ou mediante contrato assinado por este último ou por representante designado para o efeito.
 
 2. Sempre que, por força do disposto no n.º 3 do artigo 1.º, haja que prestar a garantia em títulos representativos de empréstimos, poderão esses títulos ser assinados pelo Ministro das Finanças ou por representante por ele designado.
 
-###### Art. 3.º Observar-se-á o regime seguinte na execução da garantia prevista nos artigos anteriores:
+Art. 3.º Observar-se-á o regime seguinte na execução da garantia prevista nos artigos anteriores:
 
 1.º Até 45 dias antes do vencimento das prestações de amortização e juros e dos demais encargos do empréstimo, a Direcção-Geral da Fazenda Pública e a empresa beneficiária da garantia estudarão a forma de efectivar os respectivos pagamentos.
 
@@ -121,18 +149,18 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º O Estado poderá, até ao termo do ano seguinte ao pagamento que tenha feito de qualquer prestação, transformar o crédito daí resultante em acções ou obrigações da empresa beneficiária da garantia, devendo esta promover obrigatòriamente, por força do presente diploma, as formalidades necessárias.
 
-###### Art. 4.º - 1. O Estado gozará, sobre os bens mobiliários e imobiliários das empresas que faltem ao cumprimento das suas obrigações, de privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que efectivamente tiver despendido para satisfação das garantias prestadas por força do disposto no presente decreto-lei.
+Art. 4.º - 1. O Estado gozará, sobre os bens mobiliários e imobiliários das empresas que faltem ao cumprimento das suas obrigações, de privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que efectivamente tiver despendido para satisfação das garantias prestadas por força do disposto no presente decreto-lei.
 
 2. Se e quando vier a constituir-se o privilégio estabelecido no número anterior, gozará o Banco Internacional de Reconstrução e Desenvolvimento e só ele de idêntico privilégio pelo montante do empréstimo que se encontrar em dívida e de que ainda seja titular ou cujos titulares represente, incluindo a parte do empréstimo titulada por obrigações que lhe não pertençam e de cujos portadores será considerado representante.
 
-###### Art. 5.º - 1. As empresas mutuárias poderão emitir obrigações ou outros títulos nominativos ou ao portador, em representação dos empréstimos contraídos, efectuando a emissão se e quando o credor o exigir, até à concorrência do capital em dívida e em condições de juro e amortização idênticas ou mais favoráveis que as dos contratos respectivos.
+Art. 5.º - 1. As empresas mutuárias poderão emitir obrigações ou outros títulos nominativos ou ao portador, em representação dos empréstimos contraídos, efectuando a emissão se e quando o credor o exigir, até à concorrência do capital em dívida e em condições de juro e amortização idênticas ou mais favoráveis que as dos contratos respectivos.
 
 2. A emissão de acções, obrigações ou outros títulos referidos no n.º 3 do artigo 3.º e no n.º 1 do presente artigo não depende de qualquer das aprovações ou autorizações estabelecidas no artigo 19.º da Lei de 3 de Abril de 1896, nos artigos 7.º e seguintes do Decreto de 27 de Agosto de 1896, no artigo 66.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, no artigo 1.º do Decreto-Lei n.º 42187, de 19 de Março de 1959, e no artigo 12.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, nem está sujeita ao limite fixado no artigo 196.º e seu § 2.º do Código Comercial.
 
 3. Os títulos de crédito referidos nos números anteriores serão expressos, e o respectivo capital e juros pagos, na moeda ou moedas em que for reembolsável a parte do empréstimo que representam.
 
-###### Art. 6.º São isentas de todas as contribuições e impostos, incluindo o imposto do selo, as operações referidas no artigo 1.º, e bem assim todos os documentos necessários para a sua efectivação e os juros das obrigações ou outros títulos de crédito emitidos nos termos do artigo 5.º
+Art. 6.º São isentas de todas as contribuições e impostos, incluindo o imposto do selo, as operações referidas no artigo 1.º, e bem assim todos os documentos necessários para a sua efectivação e os juros das obrigações ou outros títulos de crédito emitidos nos termos do artigo 5.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

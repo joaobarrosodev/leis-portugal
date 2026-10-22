@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15600/15781581.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1980-471884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5bd2a11d798b646f36aa5572c62f15d5c2e3b8dcaaddd5c109445dc256807ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b49bbd2da0f2a721a37c3f14e29899bde0d54784f23149d6d41e49c11df084e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Pessoal Docente
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:599949:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226595:por
+  label: "Revogado pelo DEC LEI.580/80.31.12.1980.MECI, DR.IS [301]2ºSupl de 31.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/580-1980-226595
+  date: '1980-12-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:23Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +159,9 @@ Considerando, finalmente, que importa esclarecer, com a maior correcção possí
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 10.º, 17.º, 25.º, 26.º, 32.º, 34.º, 35.º, 36.º e 46.º, todos do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 10.º, 17.º, 25.º, 26.º, 32.º, 34.º, 35.º, 36.º e 46.º, todos do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Para a docência nos ensinos preparatório e secundário, o Ministério da Educação e Ciência celebrará contratos plurianuais, anuais e temporários com docentes que:
+Artigo 1.º Para a docência nos ensinos preparatório e secundário, o Ministério da Educação e Ciência celebrará contratos plurianuais, anuais e temporários com docentes que:
 
 a) No ano escolar imediatamente anterior já se encontrassem em exercício de funções nos ensinos preparatório ou secundário;
 
@@ -113,7 +169,7 @@ b) No ano escolar imediatamente anterior se encontrassem em exercício de funç�
 
 c) Se hajam candidatado pela primeira vez à celebração de qualquer dos referidos tipos de contrato.
 
-###### Art. 2.º Para a docência nos ensinos preparatório e secundário, o Ministério da Educação e Ciência celebrará contratos com docentes que se encontrem numa das seguintes situações:
+Art. 2.º Para a docência nos ensinos preparatório e secundário, o Ministério da Educação e Ciência celebrará contratos com docentes que se encontrem numa das seguintes situações:
 
 a) Serem professores profissionalizados não efectivos dos ensinos preparatório ou secundário;
 
@@ -123,7 +179,7 @@ c) Outros candidatos não incluídos nas alíneas anteriores, desde que portador
 
 d) Estarem integrados em contratos de completamento de habilitações referidos no n.º 3 do artigo 1.º do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro, com a redacção que lhe foi dada pela [Lei n.º 67/79](https://diariodarepublica.pt/dr/detalhe/lei/67-1979-365132), de 4 de Outubro.
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) ...
 
@@ -141,7 +197,7 @@ f) Não ter sido o seu serviço bem classificado, de acordo com as disposições
 
 3 - ...
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
@@ -151,7 +207,7 @@ f) Não ter sido o seu serviço bem classificado, de acordo com as disposições
 
 5 - Os círculos e zonas escolares poderão ser alterados por despacho normativo do Ministro da Educação e Ciência, ouvidos os sindicatos dos professores, sempre que se verifiquem implicações de rede escolar ou necessidades fundamentadas resultantes da experiência colhida.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - A ordenação referida no número anterior observará ainda as regras definidas nos artigos 13.º, 14.º e 15.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), consoante se tratar, respectivamente, de profissionalizados não efectivos, de portadores de habilitações próprias e de docentes nas condições da alínea d) do artigo 2.º do presente diploma.
 
@@ -165,7 +221,7 @@ c) Outros candidatos portadores de habilitação própria para os ensinos prepar
 
 d) Candidatos portadores de habilitação própria para os ensinos preparatório ou secundário não incluídos nas alíneas anteriores.
 
-###### Art. 17.º Os contratos anuais serão celebrados entre o Ministério da Educação e Ciência e os docentes mencionados no artigo 1.º que se encontrem numa das seguintes condições:
+Art. 17.º Os contratos anuais serão celebrados entre o Ministério da Educação e Ciência e os docentes mencionados no artigo 1.º que se encontrem numa das seguintes condições:
 
 a) ...
 
@@ -173,9 +229,9 @@ b) ...
 
 c) ...
 
-###### Art. 25.º É obrigação do professor contratado já profissionalizado nos ensinos preparatório e secundário apresentar-se anualmente ao concurso de professores efectivos para aqueles graus de ensino a todos os estabelecimentos de, pelo menos, três círculos escolares onde sejam declaradas vagas no aviso de abertura do respectivo concurso.
+Art. 25.º É obrigação do professor contratado já profissionalizado nos ensinos preparatório e secundário apresentar-se anualmente ao concurso de professores efectivos para aqueles graus de ensino a todos os estabelecimentos de, pelo menos, três círculos escolares onde sejam declaradas vagas no aviso de abertura do respectivo concurso.
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 a) ...
 
@@ -183,7 +239,7 @@ b) Os professores profissionalizados nos ensinos preparatório ou secundário n�
 
 2 - ...
 
-###### Art. 32.º - 1 - ...
+Art. 32.º - 1 - ...
 
 2 - ...
 
@@ -203,7 +259,7 @@ d) ...
 
 6 - ...
 
-###### Art. 34.º - 1 - ...
+Art. 34.º - 1 - ...
 
 2 - Os centros de apoio, onde funcionarão as equipas de apoio pedagógico das respectivas zonas, terão as seguintes finalidades:
 
@@ -213,7 +269,7 @@ b) Apoiar acções de coordenação a nível regional ou local.
 
 3 - No prazo de trinta dias a contar da data da publicação no Diário da República da lista definitiva dos orientadores pedagógicos, os directores-gerais dos Ensinos Básico, Secundário, Particular e Cooperativo, do Pessoal e do Equipamento Escolar equiparão os centros com meios humanos, financeiros e materiais necessários ao seu funcionamento.
 
-###### Art. 35.º - 1 - ...
+Art. 35.º - 1 - ...
 
 2 - As equipas de apoio pedagógico serão constituídas pelos orientadores pedagógicos, recrutados nos termos do n.º 2 do artigo 32.º do presente diploma.
 
@@ -245,7 +301,7 @@ f) ...
 
 7 - Os orientadores pedagógicos que em qualquer círculo não tenham que acompanhar a execução do plano individual por falta de professores em formação deverão apoiar os restantes elementos da equipa de apoio pedagógico e dinamizar acções de formação contínua de professores.
 
-###### Art. 36.º - 1 - ...
+Art. 36.º - 1 - ...
 
 a) Acompanhar, através do delegado ou delegados para o efeito eleitos, conforme se trate de profissionalização abrangendo uma ou mais disciplinas, a actividade dos professores em formação nos estabelecimentos de ensino;
 
@@ -259,9 +315,9 @@ b) À gratificação prevista no n.º 4 do artigo 32.º;
 
 c) A preparação e apoio profissional para o exercício das suas funções.
 
-###### Art. 46.º Sempre que o docente já profissionalizado nos ensinos preparatório ou secundário se efectivar naqueles graus de ensino durante o período do contrato ou nos da sua renovação, considera-se extinto o contrato a partir da data da sua tomada de posse na categoria de efectivo.
+Art. 46.º Sempre que o docente já profissionalizado nos ensinos preparatório ou secundário se efectivar naqueles graus de ensino durante o período do contrato ou nos da sua renovação, considera-se extinto o contrato a partir da data da sua tomada de posse na categoria de efectivo.
 
-###### Art. 2.º - 1 - Os professores efectivos do ensino primário colocados em regime de contratação plurianual nos ensinos preparatório e secundário ao abrigo do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) mantêm-se na situação de requisitados, nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, até que:
+Art. 2.º - 1 - Os professores efectivos do ensino primário colocados em regime de contratação plurianual nos ensinos preparatório e secundário ao abrigo do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) mantêm-se na situação de requisitados, nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, até que:
 
 a) Efectuem a sua profissionalização em exercício e nela obtenham ou não aproveitamento;
 
@@ -273,7 +329,7 @@ b) Sejam convocados para a profissionalização em exercício e não aceitem a r
 
 4 - A não apresentação do pedido de exoneração nos termos do número anterior determina, para o respectivo professor, o regresso imediato ao seu lugar de origem.
 
-###### Art. 3.º - 1 - Quando um candidato ao concurso para a contratação plurianual prevista no [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) concorrer por círculos escolares, os estabelecimentos de ensino respectivos são percorridos por ordem crescente dos números dos códigos desses estabelecimentos, procedendo-se do seguinte modo:
+Art. 3.º - 1 - Quando um candidato ao concurso para a contratação plurianual prevista no [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) concorrer por círculos escolares, os estabelecimentos de ensino respectivos são percorridos por ordem crescente dos números dos códigos desses estabelecimentos, procedendo-se do seguinte modo:
 
 a) Logo que o candidato obtenha colocação, deixa de ser considerado como tal em relação a qualquer outra vaga do mesmo círculo;
 
@@ -285,11 +341,11 @@ a) Logo que o candidato obtenha colocação, deixa de ser considerado como tal e
 
 b) Mantém, todavia, a possibilidade de obter colocação noutro estabelecimento de entre aqueles a que concorreu, nos termos do artigo 12.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), ou ainda de outro círculo escolar ou de outra zona escolar a que, em qualquer dos casos, tenha conferido preferência.
 
-###### Art. 4.º A entrada em exercício de funções do pessoal docente contratado plurianualmente ao abrigo do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) far-se-á por conveniência urgente de serviço, sendo-lhe devidos vencimentos, nos termos do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, desde a data do início de funções.
+Art. 4.º A entrada em exercício de funções do pessoal docente contratado plurianualmente ao abrigo do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) far-se-á por conveniência urgente de serviço, sendo-lhe devidos vencimentos, nos termos do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, desde a data do início de funções.
 
-###### Art. 5.º Para todos os efeitos legais, considera-se que a não apresentação de reclamação por parte dos candidatos às listas provisórias referidas no artigo 13.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) equivale à aceitação tácita das mesmas listas, dela resultando a intempestividade do recurso hierárquico previsto no n.º 1 do artigo 16.º do mesmo decreto-lei cujo fundamento seja o erro na elaboração das listas.
+Art. 5.º Para todos os efeitos legais, considera-se que a não apresentação de reclamação por parte dos candidatos às listas provisórias referidas no artigo 13.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037) equivale à aceitação tácita das mesmas listas, dela resultando a intempestividade do recurso hierárquico previsto no n.º 1 do artigo 16.º do mesmo decreto-lei cujo fundamento seja o erro na elaboração das listas.
 
-###### Art. 6.º - 1 - O disposto no artigo 1.º deste diploma, no que se refere às alterações introduzidas nos artigos 1.º, 2.º, 3.º, 4.º, 10.º e 17.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), só se aplica aos concursos para o ano escolar de 1981-1982 e seguintes.
+Art. 6.º - 1 - O disposto no artigo 1.º deste diploma, no que se refere às alterações introduzidas nos artigos 1.º, 2.º, 3.º, 4.º, 10.º e 17.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), só se aplica aos concursos para o ano escolar de 1981-1982 e seguintes.
 
 2 - O disposto no artigo 1.º, no que se refere às alterações introduzidas nos artigos 25.º, 26.º, 32.º, 34.º, 35.º, 36.º e 46.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), aplica-se já no ano escolar de 1979-1980.
 
@@ -297,7 +353,7 @@ b) Mantém, todavia, a possibilidade de obter colocação noutro estabelecimento
 
 4 - O disposto no artigo 4.º deste diploma é aplicável aos concursos para o ano escolar de 1980-1981 e seguintes.
 
-###### Art. 7.º - É revogada toda a legislação em contrário, nomeadamente:
+Art. 7.º - É revogada toda a legislação em contrário, nomeadamente:
 
 a) O [Decreto-Lei n.º 48868](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48868-1969-527839), de 17 de Fevereiro de 1969;
 
@@ -313,8 +369,8 @@ f) O [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
 
-**Promulgado em 30 de Junho de 1980.**
+Promulgado em 30 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

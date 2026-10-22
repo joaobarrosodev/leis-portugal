@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24700/25782582.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1977-277174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98c7f61604c626b9364b11f9dc8e7ba2696af4fc8ee9718bbe3610f98b255fd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98126a510649ae0e5236d0e36afb96ce2eafe02a34fb4236241c889199539f27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Empresa Pública
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:460606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:404684:por
+  label: "Alterados os artigos 1.º, 2.º, 5.º, 6.º e 10.º do presente diploma, pelo DEC LEI.563/77.31.12.1977.MPCE, DR.IS [302-5ºSupl]\
+    \ de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/563-1977-404684
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:326681:por
+  label: "Alterado o disposto no nº 1 do art. 3º pelo DEC LEI.375/78.02.12.1978.MT, DR.IS [277] de 02.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1978-326681
+  date: '1978-12-02'
+- type: amended_by
+  target: pt:dre:393864:por
+  label: "Alterados os artigos 5.º, 6.º, 7.º e 11.º e revogado o artigo 9.º do presente diploma, com a redacção conferida\
+    \ pelo Decreto-Lei 563/77 de 31 de Dezembro, DEC LEI.512/79.24.12.1979.MT, DR.IS [295-Supl] de 24.12.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/512-1979-393864
+  date: '1979-12-24'
+- type: cites
+  target: pt:dre:335708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:460606:por
+  label: "Revogado pelo DEC LEI.380/80.17.09.1980.MT, DR.IS [215] de 17.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/380-1980-460606
+  date: '1980-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:10Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +134,13 @@ Nestes termos:
 
 Usando da autorização legislativa conferida pela [Lei n.º 51/77](https://diariodarepublica.pt/dr/detalhe/lei/51-1977-408721), de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Todas as empresas, públicas e privadas, e demais entidades patronais com trabalhadores ao seu serviço são obrigadas a enviar às entidades referidas neste diploma, e dentro dos prazos adiante fixados, o mapa anexo devidamente preenchido.
+Artigo 1.º - 1 - Todas as empresas, públicas e privadas, e demais entidades patronais com trabalhadores ao seu serviço são obrigadas a enviar às entidades referidas neste diploma, e dentro dos prazos adiante fixados, o mapa anexo devidamente preenchido.
 
 2 - O regime previsto neste diploma não é aplicável à Administração Pública Central, regional e local, bem como aos institutos públicos e demais pessoas colectivas de direito público.
 
 3 - Não se aplica igualmente o disposto neste diploma às entidades patronais que exerçam actividades agrícolas, silvícolas, de exploração florestal, de caça, pesca ou que tenham ao seu serviço trabalhadores domésticos, salvo se abrangidas pelo regime geral da Previdência ou por instrumento de regulamentação colectiva de trabalho.
 
-###### Art. 2.º - 1 - O mapa anexo ao presente diploma será enviado até 30 de Abril de cada ano a cada uma das seguintes entidades:
+Art. 2.º - 1 - O mapa anexo ao presente diploma será enviado até 30 de Abril de cada ano a cada uma das seguintes entidades:
 
 a) Original e uma cópia, aos serviços centrais do Ministério do Trabalho, se a entidade patronal tiver sede no distrito de Lisboa, e, nos restantes distritos, às delegações regionais da Secretaria de Estado do Trabalho;
 
@@ -113,21 +150,21 @@ b) Uma cópia ao sindicato ou sindicatos representativos dos trabalhadores.
 
 3 - No caso de actividades sazonais ou de início de actividades, o envio do mapa referido no n.º 1 será feito até ao dia 30 do mês seguinte ao primeiro mês completo de laboração.
 
-###### Art. 3.º - 1 - Logo após o envio, as entidades patronais afixarão, durante um prazo de três meses, nos locais de trabalho e por forma bem visível, cópia do mapa referido no artigo anterior, podendo qualquer trabalhador, dentro desse prazo, comunicar, por escrito, as irregularidades detectadas aos serviços centrais do Ministério do Trabalho ou às delegações regionais da Secretaria de Estado do Trabalho, consoante os casos, de preferência através do respectivo sindicato.
+Art. 3.º - 1 - Logo após o envio, as entidades patronais afixarão, durante um prazo de três meses, nos locais de trabalho e por forma bem visível, cópia do mapa referido no artigo anterior, podendo qualquer trabalhador, dentro desse prazo, comunicar, por escrito, as irregularidades detectadas aos serviços centrais do Ministério do Trabalho ou às delegações regionais da Secretaria de Estado do Trabalho, consoante os casos, de preferência através do respectivo sindicato.
 
 2 - O exemplar do mapa de quadro de pessoal referido no número anterior será mantido em arquivo pelas entidades patronais pelo prazo de cinco anos.
 
-###### Art. 4.º Para todos os efeitos, designadamente data de remessa, o mapa anexo ao presente diploma substitui os actuais mapas de quadros de pessoal estabelecidos nos instrumentos de regulamentação colectiva de trabalho.
+Art. 4.º Para todos os efeitos, designadamente data de remessa, o mapa anexo ao presente diploma substitui os actuais mapas de quadros de pessoal estabelecidos nos instrumentos de regulamentação colectiva de trabalho.
 
-###### Art. 5.º Por despacho conjunto dos Ministros do Trabalho, do Plano e Coordenação Económica e dos Assuntos Sociais, poderá o mapa anexo ao presente diploma sofrer as alterações julgadas aconselháveis, cumprindo-se, contudo, as disposições legais do Sistema Estatístico Nacional quanto ao registo de instrumento de notação.
+Art. 5.º Por despacho conjunto dos Ministros do Trabalho, do Plano e Coordenação Económica e dos Assuntos Sociais, poderá o mapa anexo ao presente diploma sofrer as alterações julgadas aconselháveis, cumprindo-se, contudo, as disposições legais do Sistema Estatístico Nacional quanto ao registo de instrumento de notação.
 
-###### Art. 6.º - 1 - A impressão e a distribuição dos impressos do mapa anexo ao presente diploma serão feitas pela Imprensa Nacional, nas condições e forma por esta estabelecidas.
+Art. 6.º - 1 - A impressão e a distribuição dos impressos do mapa anexo ao presente diploma serão feitas pela Imprensa Nacional, nas condições e forma por esta estabelecidas.
 
 2 - As empresas interessadas poderão requerer ao Serviço de Estatística do Ministério do Trabalho autorização para utilizarem folhas mecanográficas em substituição dos impressos referidos no número anterior.
 
-###### Art. 7.º Os encargos resultantes da execução deste diploma serão suportados, proporcionalmente, pelos Ministérios interessados, nos termos a definir por despacho conjunto dos Ministros do Trabalho, do Plano e Coordenação Económica e dos Assuntos Sociais.
+Art. 7.º Os encargos resultantes da execução deste diploma serão suportados, proporcionalmente, pelos Ministérios interessados, nos termos a definir por despacho conjunto dos Ministros do Trabalho, do Plano e Coordenação Económica e dos Assuntos Sociais.
 
-###### Art. 8.º - 1 - As infracções ao disposto no presente diploma serão punidas com multa de 1000$00 a 100000$00, graduada de acordo com a gravidade da infracção.
+Art. 8.º - 1 - As infracções ao disposto no presente diploma serão punidas com multa de 1000$00 a 100000$00, graduada de acordo com a gravidade da infracção.
 
 2 - Constituem infracções ao presente diploma os seguintes factos ou omissões:
 
@@ -155,22 +192,22 @@ h) A falta de assinatura da comissão de trabalhadores ou do trabalhador eleito 
 
 6 - O não preenchimento da rubrica correspondente ao volume de vendas só será passível de sanção quando tal omissão se verifique em qualquer dos exemplares enviados ao Ministério do Trabalho.
 
-###### Art. 9.º Por portaria conjunta dos Ministros do Trabalho, dos Assuntos Sociais e do Plano e Coordenação Económica poderão as disposições do presente diploma ser tornadas aplicáveis, com as alterações julgadas necessárias, ao preenchimento e remessa de mapas de quadros de pessoal mensais.
+Art. 9.º Por portaria conjunta dos Ministros do Trabalho, dos Assuntos Sociais e do Plano e Coordenação Económica poderão as disposições do presente diploma ser tornadas aplicáveis, com as alterações julgadas necessárias, ao preenchimento e remessa de mapas de quadros de pessoal mensais.
 
-###### Art. 10.º - 1 - No ano de 1977, a remessa do mapa anexo ao presente diploma às entidades referidas no artigo 2.º será feita até 30 de Setembro.
+Art. 10.º - 1 - No ano de 1977, a remessa do mapa anexo ao presente diploma às entidades referidas no artigo 2.º será feita até 30 de Setembro.
 
 2 - Mediante solicitação fundamentada das empresas e entidades abrangidas, poderá o prazo referido no número anterior ser prorrogado por despacho do Ministro do Trabalho.
 
-###### Art. 11.º As dúvidas e casos omissos serão resolvidos por despacho conjunto dos Ministros do Trabalho, do Plano e Coordenação Económica e dos Assuntos Sociais.
+Art. 11.º As dúvidas e casos omissos serão resolvidos por despacho conjunto dos Ministros do Trabalho, do Plano e Coordenação Económica e dos Assuntos Sociais.
 
-###### Art. 12.º Ficam revogados o artigo 9.º do [Decreto-Lei n.º 292/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1975-335708), de 16 de Junho, e o [Decreto-Lei n.º 479/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1976-431025), de 16 de Junho.
+Art. 12.º Ficam revogados o artigo 9.º do [Decreto-Lei n.º 292/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1975-335708), de 16 de Junho, e o [Decreto-Lei n.º 479/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1976-431025), de 16 de Junho.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - António Manuel Maldonado Gonelha - Armando Bacelar.
 
-**Promulgado em 3 de Setembro de 1977.**
+Promulgado em 3 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24700/25782582.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24700/25782582.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24700/25782582.pdf)

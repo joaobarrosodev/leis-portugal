@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08300/07690770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1977-139919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a8f82083cf500d1edab0967d35818d60e3532176c123fa75f5f1b8cf0180623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d942bc32c378f9c377a9703c5d9ddac2d81aa4f0f279e2bc6afd16954a5dab44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Direcção Geral das Contribuições e Impostos
+- Formas de Provimento
+- Habilitações Literárias
+- Nomeação
+- Pessoal Administrativo
+- Pessoal de Chefia
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
+- Serviço de Finanças
+- Tribunal Tributário
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:03Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +138,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Enquanto não se proceder à reestruturação das carreiras de pessoal da administração fiscal, a nomeação para os lugares de secretário de finanças e de técnico verificador far-se-á de acordo com os seguintes critérios:
+Artigo 1.º - 1. Enquanto não se proceder à reestruturação das carreiras de pessoal da administração fiscal, a nomeação para os lugares de secretário de finanças e de técnico verificador far-se-á de acordo com os seguintes critérios:
 
 a) Os lugares de secretário de finanças de 1.ª e 2.ª classes serão providos de entre funcionários da classe imediatamente anterior, conforme classificação obtida nas provas de selecção;
 
@@ -108,37 +146,37 @@ b) Os lugares de técnico verificador de 1.ª, 2.ª e 3.ª classes serão provid
 
 2. As provas de selecção mencionadas neste artigo terão a validade de três anos e serão definidas por despacho do Ministro das Finanças.
 
-###### Art. 2.º Enquanto não se proceder à reestruturação mencionada no artigo 1.º, o Ministro das Finanças pode, mediante parecer favorável da Direcção-Geral da Função Pública, determinar que os processos de selecção do pessoal em vigor na Direcção-Geral das Contribuições e Impostos sejam substituídos por cursos de selecção a definir caso a caso.
+Art. 2.º Enquanto não se proceder à reestruturação mencionada no artigo 1.º, o Ministro das Finanças pode, mediante parecer favorável da Direcção-Geral da Função Pública, determinar que os processos de selecção do pessoal em vigor na Direcção-Geral das Contribuições e Impostos sejam substituídos por cursos de selecção a definir caso a caso.
 
-###### Art. 3.º Os funcionários da Direcção-Geral das Contribuições e Impostos licenciados em Direito e Economia ou curso equivalente terão preferência no provimento, respectivamente, dos lugares de jurista e de técnico economista de 2.ª classe do Serviço de Prevenção e Fiscalização Tributária, independentemente de concurso, desde que possuam pelo menos dois anos de serviço com boas informações.
+Art. 3.º Os funcionários da Direcção-Geral das Contribuições e Impostos licenciados em Direito e Economia ou curso equivalente terão preferência no provimento, respectivamente, dos lugares de jurista e de técnico economista de 2.ª classe do Serviço de Prevenção e Fiscalização Tributária, independentemente de concurso, desde que possuam pelo menos dois anos de serviço com boas informações.
 
-###### Art. 4.º Para efeitos do artigo anterior os funcionários serão graduados segundo a categoria, o tempo de serviço prestado na Direcção-Geral e a classificação do curso.
+Art. 4.º Para efeitos do artigo anterior os funcionários serão graduados segundo a categoria, o tempo de serviço prestado na Direcção-Geral e a classificação do curso.
 
-###### Art. 5.º - 1. Os tribunais de 1.ª instância das contribuições e impostos das sedes das circunscrições fiscais são de 1.ª classe.
+Art. 5.º - 1. Os tribunais de 1.ª instância das contribuições e impostos das sedes das circunscrições fiscais são de 1.ª classe.
 
 2. Os juízes que actualmente prestam serviço nas circunscrições referidas no número anterior mantêm-se em comissão de serviço, como juízes de 1.ª classe, com dispensa de quaisquer formalidades, excepto o visto do Tribunal de Contas.
 
-###### Art. 6.º Os quadros de pessoal dos serviços da Direcção-Geral das Contribuições e Impostos em que existam lugares de aspirante de finanças são alterados de modo que nos mesmos possam existir só aspirantes de finanças, ou secretários de finanças de 3.ª classe e aspirantes ou só secretários de finanças de 3.ª classe, correspondendo, em qualquer caso, o seu somatório ao actual número de lugares daquelas categorias.
+Art. 6.º Os quadros de pessoal dos serviços da Direcção-Geral das Contribuições e Impostos em que existam lugares de aspirante de finanças são alterados de modo que nos mesmos possam existir só aspirantes de finanças, ou secretários de finanças de 3.ª classe e aspirantes ou só secretários de finanças de 3.ª classe, correspondendo, em qualquer caso, o seu somatório ao actual número de lugares daquelas categorias.
 
-###### Art. 7.º Aos aspirantes e terceiros-oficiais aprovados em concurso para as categorias de secretário de finanças de 3.ª classe e de terceiro-oficial realizado de acordo com a legislação anterior à publicação do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968, bem como aos aspirantes com o exame final do 1.º grau do curso de preparação para a categoria de secretário de finanças e a frequência do 2.º grau daquele curso, é-lhes aplicado o disposto no n.º 1 da [Portaria n.º 419-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/419-b-1975-424142), de 5 de Julho.
+Art. 7.º Aos aspirantes e terceiros-oficiais aprovados em concurso para as categorias de secretário de finanças de 3.ª classe e de terceiro-oficial realizado de acordo com a legislação anterior à publicação do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968, bem como aos aspirantes com o exame final do 1.º grau do curso de preparação para a categoria de secretário de finanças e a frequência do 2.º grau daquele curso, é-lhes aplicado o disposto no n.º 1 da [Portaria n.º 419-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/419-b-1975-424142), de 5 de Julho.
 
-###### Art. 8.º - 1. Os aspirantes de finanças transitarão para a categoria de secretário de finanças de 3.ª classe, nos termos do disposto na parte final da regra 6.ª do artigo 3.º do [Decreto-Lei n.º 576/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1974-471504), de 5 de Novembro, conforme classificação obtida nas provas finais, precedidas de um curso de preparação profissional.
+Art. 8.º - 1. Os aspirantes de finanças transitarão para a categoria de secretário de finanças de 3.ª classe, nos termos do disposto na parte final da regra 6.ª do artigo 3.º do [Decreto-Lei n.º 576/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1974-471504), de 5 de Novembro, conforme classificação obtida nas provas finais, precedidas de um curso de preparação profissional.
 
 2. Poderão ser admitidos às provas de selecção para secretários de finanças de 3.ª classe os terceiros-oficiais com mais de três anos de serviço.
 
-###### Art. 9.º - 1. Os actuais aspirantes de finanças não abrangidos pelo artigo 7.º do presente decreto frequentarão o curso de preparação profissional por ordem da respectiva antiguidade na actual categoria, segundo plano a estabelecer em função da capacidade de actuação dos serviços e das disponibilidades das verbas orçamentais destinadas ao pessoal.
+Art. 9.º - 1. Os actuais aspirantes de finanças não abrangidos pelo artigo 7.º do presente decreto frequentarão o curso de preparação profissional por ordem da respectiva antiguidade na actual categoria, segundo plano a estabelecer em função da capacidade de actuação dos serviços e das disponibilidades das verbas orçamentais destinadas ao pessoal.
 
 2. Os terceiros-oficiais também podem frequentar o curso de preparação referido no número antecedente.
 
-###### Art. 10.º A duração e plano de estudos do curso referido nos artigos anteriores serão aprovados por despacho do Ministro das Finanças.
+Art. 10.º A duração e plano de estudos do curso referido nos artigos anteriores serão aprovados por despacho do Ministro das Finanças.
 
-###### Art. 11.º Para efeitos de contagem de tempo de serviço na nova categoria dos funcionários mencionados no artigo 9.º, proceder-se-á do seguinte modo:
+Art. 11.º Para efeitos de contagem de tempo de serviço na nova categoria dos funcionários mencionados no artigo 9.º, proceder-se-á do seguinte modo:
 
 a) Relativamente aos aspirantes, reportar-se-á à data da primeira promoção dos funcionários daquela categoria com o mesmo número de anos completos de serviço;
 
 b) Os terceiros-oficiais quando forem colocados como secretários de finanças de 3.ª classe, a antiguidade conta-se da respectiva posse.
 
-###### Art. 12.º - 1. Os chefes das repartições concelhias de 3.ª classe serão designados de entre secretários de finanças de 3.ª classe do quadro da repartição onde se verificar a vaga, após o despacho que aprove o primeiro movimento de pessoal que se efectuar para aquela categoria, de acordo com a seguinte ordem de prioridades:
+Art. 12.º - 1. Os chefes das repartições concelhias de 3.ª classe serão designados de entre secretários de finanças de 3.ª classe do quadro da repartição onde se verificar a vaga, após o despacho que aprove o primeiro movimento de pessoal que se efectuar para aquela categoria, de acordo com a seguinte ordem de prioridades:
 
 a) Maior classificação no concurso ou no exame final do curso de preparação para a categoria de secretário de finanças referido no artigo 5.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968, e, em igualdade de circunstâncias, maior antiguidade na categoria;
 
@@ -146,22 +184,22 @@ b) Maior classificação no exame do 1.º grau referido no artigo 7.º ou no exa
 
 2. A designação dos chefes das repartições de 3.ª classe será feita por despacho ministerial a publicar no Diário da República juntamente com o do movimento de pessoal a que se refere o corpo do presente artigo.
 
-###### Art. 13.º Os titulares dos lugares referidos no número anterior mantêm-se no desempenho das respectivas funções, independentemente de, posteriormente ao início daquelas, serem colocados, na mesma repartição, secretários de finanças de 3.ª classe com melhores classificações ou maior antiguidade na categoria.
+Art. 13.º Os titulares dos lugares referidos no número anterior mantêm-se no desempenho das respectivas funções, independentemente de, posteriormente ao início daquelas, serem colocados, na mesma repartição, secretários de finanças de 3.ª classe com melhores classificações ou maior antiguidade na categoria.
 
-###### Art. 14.º São revogados os §§ 1.º e 4.º do artigo 45.º e os §§ 1.º e 7.º do artigo 53.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Junho de 1963, bem como o § 2.º do artigo 6.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968.
+Art. 14.º São revogados os §§ 1.º e 4.º do artigo 45.º e os §§ 1.º e 7.º do artigo 53.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Junho de 1963, bem como o § 2.º do artigo 6.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968.
 
-###### Art. 15.º O n.º 1 do artigo 9.º do [Decreto-Lei n.º 784/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/784-1976-409319), de 30 de Outubro, passa a ter a seguinte redacção:
+Art. 15.º O n.º 1 do artigo 9.º do [Decreto-Lei n.º 784/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/784-1976-409319), de 30 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 9.º - 1. Os chefes das secretarias são nomeados, mediante concurso, entre os escrivães de 1.ª classe com mais de cinco anos de bom e efectivo serviço.
+Art. 9.º - 1. Os chefes das secretarias são nomeados, mediante concurso, entre os escrivães de 1.ª classe com mais de cinco anos de bom e efectivo serviço.
 
-###### Art. 16.º Na satisfação dos encargos resultantes da execução deste decreto serão utilizadas as disponibilidades das verbas orçamentais consignadas no pagamento do pessoal dos quadros aprovados da Direcção-Geral das Contribuições e Impostos.
+Art. 16.º Na satisfação dos encargos resultantes da execução deste decreto serão utilizadas as disponibilidades das verbas orçamentais consignadas no pagamento do pessoal dos quadros aprovados da Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 17.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças.
+Art. 17.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 29 de Março de 1977.**
+Promulgado em 29 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

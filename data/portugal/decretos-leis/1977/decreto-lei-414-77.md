@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/22700/24042405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33970bd558fc2bd4926dc44a7127c79a23f6b89f695215642b824475798ce429
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a61fde43c7a81687e4c957e4b8a0f905913f3318c4904ea59581cfffd7837ec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Gabinete do NOVO Hospital Central de Coimbra
+- Hospital Central
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383638:por
+  label: "Aditado um representante da DGCE ao Conselho Consultivo a que se refere o n.º 2 do artigo 2.º do presente diploma,\
+    \ pela PORT.245/79.28.05.1979.MHOP, DR.IS [122] de 28.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-1979-383638
+  date: '1979-05-28'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:45Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +119,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Natureza e objectivos)
 
@@ -114,7 +129,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3. O Gabinete exercerá a sua actividade canalizando os assuntos através do Ministério das Obras Públicas, cujo titular deverá também coordenar o apoio necessário à sua orientação e fiscalização com os restantes Ministérios ou outras entidades públicas ou privadas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Órgãos)
 
@@ -122,7 +137,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2. No exercício das suas atribuições, o conselho director será assistido por um conselho consultivo, que terá por funções estabelecer as convenientes ligações entre o Gabinete e todas as entidades públicas ou privadas por qualquer forma ligadas à consecução dos objectivos definidos no artigo 1.º e ainda emitir parecer sobre quaisquer assuntos que lhe sejam submetidos pelo conselho director e, obrigatoriamente, sobre os que possam afectar interesses de âmbito nacional, geral ou sectorial, ou de interesse regional ou local e não digam exclusivamente respeito às políticas da saúde e ensino da Medicina.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Meios financeiros e sua gestão)
 
@@ -132,7 +147,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3. Às reuniões do conselho director assistirá um delegado do Tribunal de Contas, designado pelo Ministro das Finanças, que deverá pronunciar-se sobre a legalidade de todas as despesas.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência do Gabinete e intervenção do Governo)
 
@@ -156,25 +171,25 @@ g) Respeitem à contratação e provimento dos funcionários do Gabinete.
 
 3. O Primeiro-Ministro fixará o quantitativo de senhas de presença dos membros do conselho consultivo quando, nos termos a regulamentar, a elas haja lugar.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Tarefas especiais e regime de avença)
 
 O estatuto do pessoal do Gabinete não prejudicará a contratação de pessoas singulares, ainda que já vinculadas à função pública, mediante a necessária autorização do serviço de origem, ou colectivas, nacionais ou estrangeiras, para a realização de tarefas especiais ou em regime de avença, desde que tal se torne conveniente em ordem à consecução dos objectivos definidos no artigo 1.º
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Organização)
 
 As normas referentes às atribuições e organização do Gabinete, ao estatuto dos membros do conselho director, à competência dos seus restantes órgãos e ao regime geral do seu pessoal constarão de decreto regulamentar dos Ministros das Finanças, da Educação e Investigação Científica, dos Assuntos Sociais e das Obras Públicas e do Secretário de Estado da Administração Pública.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Orçamental)
 
 Fica o Ministro das Finanças autorizado a tomar as providências orçamentais necessárias à execução do disposto no presente decreto-lei e da regulamentação prevista no artigo anterior.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Transitório)
 
@@ -182,8 +197,8 @@ Enquanto não estiverem estruturados os serviços do Gabinete, este receberá ap
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - João Orlindo de Almeida Pina.
 
-**Promulgado em 11 de Setembro de 1977.**
+Promulgado em 11 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

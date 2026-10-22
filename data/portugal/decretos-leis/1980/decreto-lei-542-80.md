@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aeecf26ebaaee8e0daa181da604368923f4944f07bca57669569a2be9dc04a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41e1dfb0ecf21b98d4672d755595e648b08c7ca46964ffdfd8471d0233ff0731
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Loja Franca
+- SALA de Trânsito
+relationships:
+- type: cites
+  target: pt:dre:391223:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459610:por
+  label: Rectificado pela DECL.DD6602.03.12.1980.PCM, DR.IS [292] de 19.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459610
+  date: '1980-12-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:27Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +102,19 @@ Assim:
 
 O Governo, ouvidos os Governos Regionais das Regiões Autónomas da Madeira e dos Açores, decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Constituem salas de trânsito internacional dos aeroportos as áreas restritas neles destinadas a passageiros em trânsito internacional e com destino ao estrangeiro, desde que convenientemente isoladas e com acesso controlado, de forma a garantir o cumprimento das formalidades de fronteira, designadamente as aduaneiras, de emigração e de sanidade, bem como as medidas de segurança e de verificação de direitos de tráfego ou outras que venham a ser definidas pelas autoridades competentes.
+Artigo 1.º Constituem salas de trânsito internacional dos aeroportos as áreas restritas neles destinadas a passageiros em trânsito internacional e com destino ao estrangeiro, desde que convenientemente isoladas e com acesso controlado, de forma a garantir o cumprimento das formalidades de fronteira, designadamente as aduaneiras, de emigração e de sanidade, bem como as medidas de segurança e de verificação de direitos de tráfego ou outras que venham a ser definidas pelas autoridades competentes.
 
-###### Art. 2.º A entidade encarregada da exploração aeroportuária pode ser autorizada, por despacho do Ministro dos Transportes e Comunicações, precedido de parecer da Direcção-Geral das Alfândegas e de audição do Governo Regional, nos aeroportos situados nas Regiões Autónomas, a abrir, nas salas de trânsito internacional dos aeroportos, estabelecimentos comerciais, cuja implantação obedecerá a normas específicas que visem garantir a respectiva fiscalização pelas autoridades alfandegárias.
+Art. 2.º A entidade encarregada da exploração aeroportuária pode ser autorizada, por despacho do Ministro dos Transportes e Comunicações, precedido de parecer da Direcção-Geral das Alfândegas e de audição do Governo Regional, nos aeroportos situados nas Regiões Autónomas, a abrir, nas salas de trânsito internacional dos aeroportos, estabelecimentos comerciais, cuja implantação obedecerá a normas específicas que visem garantir a respectiva fiscalização pelas autoridades alfandegárias.
 
-###### Art. 3.º Considera-se «loja franca» o estabelecimento comercial autorizado a transaccionar, nas salas de trânsito internacional dos aeroportos, mercadorias estrangeiras, nacionais e nacionalizadas sob regime fiscal específico.
+Art. 3.º Considera-se «loja franca» o estabelecimento comercial autorizado a transaccionar, nas salas de trânsito internacional dos aeroportos, mercadorias estrangeiras, nacionais e nacionalizadas sob regime fiscal específico.
 
-###### Art. 4.º - 1 - As mercadorias de origem estrangeira importadas para venda nas lojas francas serão isentas de direitos e outras imposições, ficando as nacionais e nacionalizadas sujeitas ao regime de exportação.
+Art. 4.º - 1 - As mercadorias de origem estrangeira importadas para venda nas lojas francas serão isentas de direitos e outras imposições, ficando as nacionais e nacionalizadas sujeitas ao regime de exportação.
 
 2 - São dispensadas das formalidades de licenciamento prévio previstas na lei as importações, as exportações e as reexportações das mercadorias destinadas às lojas francas.
 
-###### Art. 5.º A realização de quaisquer obras de construção, ampliação ou modificação nas salas de trânsito internacional e nos estabelecimentos que aí funcionem dependem de autorização da entidade exploradora do respectivo aeroporto, mediante parecer prévio favorável da Direcção-Geral das Alfândegas, que, para efeitos de fiscalização externa, ouvirá a Guarda Fiscal.
+Art. 5.º A realização de quaisquer obras de construção, ampliação ou modificação nas salas de trânsito internacional e nos estabelecimentos que aí funcionem dependem de autorização da entidade exploradora do respectivo aeroporto, mediante parecer prévio favorável da Direcção-Geral das Alfândegas, que, para efeitos de fiscalização externa, ouvirá a Guarda Fiscal.
 
-###### Art. 6.º - 1 - Só podem entrar e permanecer nas salas de trânsito internacional:
+Art. 6.º - 1 - Só podem entrar e permanecer nas salas de trânsito internacional:
 
 a) Os passageiros em trânsito internacional;
 
@@ -136,32 +148,32 @@ d) Aos funcionários das alfândegas e agentes da Guarda Fiscal em serviço, nos
 
 8 - As bagagens e mercadorias a que se refere o n.º 2 poderão transitar pelas salas de trânsito internacional, nos termos da legislação aduaneira em vigor.
 
-###### Art. 7.º O acesso às lojas francas sitas nas salas de trânsito internacional é restrito aos passageiros em trânsito internacional e aos passageiros que se dirijam para o estrangeiro, para além dos funcionários que, em virtude das suas actividades profissionais, necessitem de entrar nestes estabelecimentos.
+Art. 7.º O acesso às lojas francas sitas nas salas de trânsito internacional é restrito aos passageiros em trânsito internacional e aos passageiros que se dirijam para o estrangeiro, para além dos funcionários que, em virtude das suas actividades profissionais, necessitem de entrar nestes estabelecimentos.
 
-###### Art. 8.º - 1 - A exploração dos estabelecimentos comerciais sitos nas salas de trânsito internacional será objecto de licença de uso privativo do domínio público aeroportuário, a conceder pela entidade exploradora dos aeroportos.
+Art. 8.º - 1 - A exploração dos estabelecimentos comerciais sitos nas salas de trânsito internacional será objecto de licença de uso privativo do domínio público aeroportuário, a conceder pela entidade exploradora dos aeroportos.
 
 2 - As licenças a que se refere o n.º 1 mencionarão todas as condições em que vigorarem, delas devendo ser dado conhecimento às autoridades alfandegárias.
 
-###### Art. 9.º - 1 - A condenação, transitada em julgado, por infracção fiscal do titular de uma licença de ocupação de estabelecimento comercial sito nas salas de trânsito internacional determina o imediato cancelamento da licença, sem direito a qualquer indemnização.
+Art. 9.º - 1 - A condenação, transitada em julgado, por infracção fiscal do titular de uma licença de ocupação de estabelecimento comercial sito nas salas de trânsito internacional determina o imediato cancelamento da licença, sem direito a qualquer indemnização.
 
 2 - Os proprietários dos estabelecimentos comerciais instalados nas salas de trânsito internacional respondem solidariamente pelos direitos e outras imposições devidas, bem como pelas multas aplicadas ao pessoal ao seu serviço naqueles estabelecimentos, salvo se demonstrarem que o delito não se deveu a negligência sua na gestão e contrôle da actividade do estabelecimento.
 
 3 - Não poderão ser admitidos ou mantidos como empregados das entidades que exerçam a sua actividade nas salas de trânsito internacional indivíduos condenados, com trânsito em julgado, por infracção fiscal.
 
-###### Art. 10.º - 1 - As mercadorias adquiridas em lojas francas não podem transaccionar-se ou ser objecto de qualquer tipo de cedência, sob pena de delito fiscal de descaminho, nos termos das disposições do Contencioso Aduaneiro em vigor.
+Art. 10.º - 1 - As mercadorias adquiridas em lojas francas não podem transaccionar-se ou ser objecto de qualquer tipo de cedência, sob pena de delito fiscal de descaminho, nos termos das disposições do Contencioso Aduaneiro em vigor.
 
 2 - À infracção prevista no n.º 1 e aos seus autores, cúmplices ou encobridores é aplicável o regime de responsabilidade civil e criminal estabelecido no mesmo Contencioso Aduaneiro.
 
-###### Art. 11.º A regulamentação do presente diploma será estabelecida em decreto regulamentar.
+Art. 11.º A regulamentação do presente diploma será estabelecida em decreto regulamentar.
 
-###### Art. 12.º Fica expressamente revogado o [Decreto-Lei n.º 934/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/934-1976-391223), de 31 de Dezembro.
+Art. 12.º Fica expressamente revogado o [Decreto-Lei n.º 934/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/934-1976-391223), de 31 de Dezembro.
 
-###### Art. 13.º O presente decreto-lei entra em vigor no dia imediato àquele em que se iniciar a vigência do diploma que o regulamentar.
+Art. 13.º O presente decreto-lei entra em vigor no dia imediato àquele em que se iniciar a vigência do diploma que o regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 28 de Outubro de 1980.**
+Promulgado em 28 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1972-676448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7d14f45b23f425f1211d54a1d8d69c0b8e6efc110fd6e040b08e6a0c5796eb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3587ace514fc134c0286364e5d4be8a51aedaf3bf3999c9ced6230ee35f297b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- Caixa Nacional de Pensões
+- Definição de Competências
+- Fundo Especial de Transportes Terrestres
+- Gestão Financeira
+- Integração de Contribuintes
+- Pagamento
+- Pensões
+- Porto
+- Prestações da Segurança Social
+- Prestações Familiares
+- Previdência Social
+- Serviço de Transportes Colectivos do Porto
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: pt:dre:154984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676212:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:46Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +174,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O prazo a que se refere o artigo 3.º do [Decreto-Lei n.º 48461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48461-1968-272861), de 1 de Julho de 1968, para revisão da orgânica do Serviço de Transportes Colectivos do Porto e do seu regime de exploração será fixado pelo Ministro das Comunicações, ouvida a Câmara Municipal do Porto.
+Artigo 1.º - 1. O prazo a que se refere o artigo 3.º do [Decreto-Lei n.º 48461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48461-1968-272861), de 1 de Julho de 1968, para revisão da orgânica do Serviço de Transportes Colectivos do Porto e do seu regime de exploração será fixado pelo Ministro das Comunicações, ouvida a Câmara Municipal do Porto.
 
 2. Na fixação do prazo a que se refere o número anterior ter-se-ão em conta os resultados dos estudos em curso no Ministério das Comunicações com vista à reorganização dos transportes públicos de passageiros na região do Porto.
 
-###### Art. 2.º - 1. O Serviço de Transportes Colectivos do Porto fica isento, a partir do exercício corrente, do pagamento à Câmara Municipal do Porto das importâncias a que se refere o artigo 2.º do [Decreto-Lei n.º 48461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48461-1968-272861).
+Art. 2.º - 1. O Serviço de Transportes Colectivos do Porto fica isento, a partir do exercício corrente, do pagamento à Câmara Municipal do Porto das importâncias a que se refere o artigo 2.º do [Decreto-Lei n.º 48461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48461-1968-272861).
 
 2. À Câmara Municipal do Porto deixam de ser devidas quaisquer importâncias que não hajam sido cobradas em exercícios anteriores, ao abrigo do estipulado na disposição legal referida no número anterior.
 
@@ -148,7 +186,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. À Câmara Municipal do Porto deixam de ser devidas quaisquer importâncias em divida resultantes de, em exercícios anteriores, se ter substituído ao Serviço de Transportes Colectivos do Porto no pagamento dos encargos referidos no número anterior.
 
-###### Art. 3.º - 1. O Estado, por intermédio do Fundo Especial de Transportes Terrestres, atribuirá ao Serviço de Transportes Colectivos do Porto subsídios não reembolsáveis sempre que:
+Art. 3.º - 1. O Estado, por intermédio do Fundo Especial de Transportes Terrestres, atribuirá ao Serviço de Transportes Colectivos do Porto subsídios não reembolsáveis sempre que:
 
 a) Por imposição do interesse público, o Serviço tenha de manter equipamentos ou prestar serviços em condições ou a preços incompatíveis com uma gestão financeira equilibrada;
 
@@ -166,34 +204,34 @@ b) O Serviço suporte encargos anormais a que não estejam sujeitas as empresas 
 
 7. O estabelecido no n.º 4 constituirá o desenvolvimento, para o respectivo exercício, de um plano plurianual de actividade do Serviço, elaborado e apresentado de acordo com o disposto em despacho do Ministro das Comunicações e do qual constarão as previsões financeiras relativas à exploração e aos investimentos.
 
-###### Art. 4.º - 1. A Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto, com regulamento aprovado por despacho de 7 de Fevereiro de 1959, integra-se no sistema instituído na [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, como instituição prevista na alínea a) da base XII, ficando sujeita ao disposto nas bases VI e XXXIII da mesma lei, no que respeita à sua constituição e regulamentação, passando a denominar-se Caixa de Previdência e Abono de Família do Pessoal do Serviço de Transportes Colectivos do Porto.
+Art. 4.º - 1. A Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto, com regulamento aprovado por despacho de 7 de Fevereiro de 1959, integra-se no sistema instituído na [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, como instituição prevista na alínea a) da base XII, ficando sujeita ao disposto nas bases VI e XXXIII da mesma lei, no que respeita à sua constituição e regulamentação, passando a denominar-se Caixa de Previdência e Abono de Família do Pessoal do Serviço de Transportes Colectivos do Porto.
 
 2. A Caixa abrange na sua acção, como contribuinte, o Serviço de Transportes Colectivos do Porto, e, como beneficiários, todo o pessoal admitido ou que de futuro venha a sê-lo naquele Serviço.
 
-###### Art. 5.º - 1. São integrados na Caixa Nacional de Pensões, para efeitos de protecção na invalidez, velhice e morte, os beneficiários inscritos na Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto posteriormente a 14 de Junho de 1953.
+Art. 5.º - 1. São integrados na Caixa Nacional de Pensões, para efeitos de protecção na invalidez, velhice e morte, os beneficiários inscritos na Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto posteriormente a 14 de Junho de 1953.
 
 2. Aos beneficiários referidos no número anterior continua a aplicar-se o esquema normal de benefícios daquela instituição, a que estão presentemente sujeitos, incluindo as melhorias e actualizações fixadas na [Portaria n.º 436/72](https://diariodarepublica.pt/dr/detalhe/portaria/436-1972-676212), de 5 de Agosto, ou que de futuro venham a ser estabelecidas, além de se manter o actual subsidio por morte complementar de seis meses de retribuições.
 
-###### Art. 6.º - 1. A Caixa Nacional de Pensões assume, a partir de 1 de Janeiro de 1973, o encargo com a concessão dos benefícios de invalidez, velhice e morte respeitantes aos beneficiários da Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto admitidos anteriormente a 15 de Junho de 1953.
+Art. 6.º - 1. A Caixa Nacional de Pensões assume, a partir de 1 de Janeiro de 1973, o encargo com a concessão dos benefícios de invalidez, velhice e morte respeitantes aos beneficiários da Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto admitidos anteriormente a 15 de Junho de 1953.
 
 2. Transitòriamente, porém, até que a Caixa Nacional de Pensões possa desempenhar-se dessa tarefa, mas no máximo até 31 de Dezembro de 1973, continuará a Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto a efectuar o pagamento das pensões que vinham sendo pagas através dos seus serviços.
 
-###### Art. 7.º - 1. A concessão dos benefícios de invalidez, velhice e morte respeitantes aos beneficiários referidos no artigo anterior continuará a reger-se pelos regulamentos a que estão presentemente sujeitos.
+Art. 7.º - 1. A concessão dos benefícios de invalidez, velhice e morte respeitantes aos beneficiários referidos no artigo anterior continuará a reger-se pelos regulamentos a que estão presentemente sujeitos.
 
 2. Compete ao Serviço de Transportes Colectivos do Porto a responsabilidade pela resolução de todos os litígios respeitantes aos valores das pensões em curso à data da integração.
 
 3. O cálculo das importâncias a transferir para a Caixa Nacional de Pensões, relativamente aos beneficiários referidos no n.º 1 do artigo 5.º, será feito pelos serviços actuariais da Direcção-Geral da Previdência e Habitações Económicas, do Ministério das Corporações e Previdência Social, de acordo com os princípios adoptados nos casos normais de articulação dos seguros diferidos dos beneficiários das caixas de previdência e abono de família.
 
-###### Art. 8.º - 1. Como contrapartida dos encargos assumidos nos termos do n.º 1 do artigo 6.º, a Caixa Nacional de Pensões arrecadará a receita de contribuições dos beneficiários respectivos e respeitante à rubrica «Outros benefícios», após dedução das despesas com os benefícios complementares da modalidade de doença.
+Art. 8.º - 1. Como contrapartida dos encargos assumidos nos termos do n.º 1 do artigo 6.º, a Caixa Nacional de Pensões arrecadará a receita de contribuições dos beneficiários respectivos e respeitante à rubrica «Outros benefícios», após dedução das despesas com os benefícios complementares da modalidade de doença.
 
 2. O remanescente dos encargos constitui encargo da Caixa Nacional de Pensões.
 
-###### Art. 9.º A alteração dos regulamentos em vigor data da constituição da Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto, bem como as dúvidas suscitadas pelos mesmos serão resolvidas por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
+Art. 9.º A alteração dos regulamentos em vigor data da constituição da Caixa de Previdência do Pessoal do Serviço de Transportes Colectivos do Porto, bem como as dúvidas suscitadas pelos mesmos serão resolvidas por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

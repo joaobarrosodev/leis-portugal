@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 301/1970, 1º Suplemento, Série I de 1970-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2024-(14) a 2024-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30101/00140015.pdf
 entry_into_force_dates: []
@@ -49,36 +49,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/686-1970-414426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a8654afc87bfd821ce5e98ad4183f03e427e25db38fd9e1b25ea8758b31c209
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64fdedf2879fb21e4125623022b4a0d1e2f6898fa76c6021bbb2059f81d94dfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Aposentado
+- Cálculo de Pensões
+- Funcionário Público
+- Funcionário Ultramarino
+- Governador
+- Governo Colonial
+- Pensões
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:142690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:21Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +122,11 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São integradas nas respectivas pensões as melhorias que actualmente incidem sobre as pensões de aposentação e reforma, tanto provisórias como definitivas, e de invalidez, preço de sangue e de sobrevivência, dos agentes dos serviços públicos aposentados, reformados e sinistrados e dos pensionistas residentes no ultramar, com excepção do complemento ultramarino de aposentação.
+Artigo 1.º - 1. São integradas nas respectivas pensões as melhorias que actualmente incidem sobre as pensões de aposentação e reforma, tanto provisórias como definitivas, e de invalidez, preço de sangue e de sobrevivência, dos agentes dos serviços públicos aposentados, reformados e sinistrados e dos pensionistas residentes no ultramar, com excepção do complemento ultramarino de aposentação.
 
 2. Em relação às pensões calculadas com base na legislação promulgada anteriormente à entrada em vigor do Estatuto do Funcionalismo Ultramarino, as parcelas que as constituem e respectivas melhorias são integradas numa única verba.
 
-###### Art. 2.º - 1. As pensões determinadas de harmonia com o artigo anterior, fixadas com base nos vencimentos que vigoraram no ultramar até 30 de Junho de 1970, são aumentadas, a partir de 1 de Janeiro de 1971, nos seguintes termos, com os necessários arredondamentos para escudos por excesso:
+Art. 2.º - 1. As pensões determinadas de harmonia com o artigo anterior, fixadas com base nos vencimentos que vigoraram no ultramar até 30 de Junho de 1970, são aumentadas, a partir de 1 de Janeiro de 1971, nos seguintes termos, com os necessários arredondamentos para escudos por excesso:
 
 20 por cento - sobre os primeiros 1800$00 mensais;
 
@@ -115,20 +136,20 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 2. O referido aumento não incide sobre o complemento ultramarino de aposentação.
 
-###### Art. 3.º Beneficiam igualmente do aumento previsto no artigo anterior as pensões de aposentação a que se referem os artigos 12.º e 13.º do Acordo Missionário celebrado entre a Santa Sé e a República Portuguesa em 7 de Maio de 1940.
+Art. 3.º Beneficiam igualmente do aumento previsto no artigo anterior as pensões de aposentação a que se referem os artigos 12.º e 13.º do Acordo Missionário celebrado entre a Santa Sé e a República Portuguesa em 7 de Maio de 1940.
 
-###### Art. 4.º O aumento concedido nos termos do artigo 2.º considera-se, para todos os efeitos legais, como fazendo parte integrante das pensões de aposentação, reforma, invalidez, preço de sangue e de sobrevivência.
+Art. 4.º O aumento concedido nos termos do artigo 2.º considera-se, para todos os efeitos legais, como fazendo parte integrante das pensões de aposentação, reforma, invalidez, preço de sangue e de sobrevivência.
 
-###### Art. 5.º Os corpos administrativos poderão, se as suas disponibilidades financeiras o permitirem, proceder à revisão das pensões dos seus servidores residentes nas províncias ultramarinas, de conformidade com o disposto nos artigos 1.º e 2.º
+Art. 5.º Os corpos administrativos poderão, se as suas disponibilidades financeiras o permitirem, proceder à revisão das pensões dos seus servidores residentes nas províncias ultramarinas, de conformidade com o disposto nos artigos 1.º e 2.º
 
-###### Art. 6.º Ficam os governadores das províncias ultramarinas autorizados a abrir os créditos especiais necessários ao pagamento dos encargos resultantes do presente decreto, utilizando para contrapartida os saldos das contas de exercícios findos, na falta de outras disponibilidades orçamentais.
+Art. 6.º Ficam os governadores das províncias ultramarinas autorizados a abrir os créditos especiais necessários ao pagamento dos encargos resultantes do presente decreto, utilizando para contrapartida os saldos das contas de exercícios findos, na falta de outras disponibilidades orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 31 de Dezembro de 1970.**
+Promulgado em 31 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

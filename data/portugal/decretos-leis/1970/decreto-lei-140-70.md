@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1970-225775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e49e1ab736f35876707ada64cd2b5e336302e3be974416b235fcb7099d4f4f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4266a751d2fed826d377ac59f3f69505b6f064228982dee9fec489ce1f60827d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Inspecção Geral de Crédito e Seguros
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:292334:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:54Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +98,17 @@ Nestes termos, atendendo a que os encargos agora assumidos têm integral cobertu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No quadro da Inspecção-Geral de Crédito e Seguros são criados dois lugares de inspector técnico de 1.ª classe e dois lugares de inspector técnico de 2.ª classe, a acrescentar ao número de inspectores afectos à Inspecção de Crédito no mapa anexo ao [Decreto-Lei n.º 46493](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46493-1965-292334), de 18 de Agosto de 1965.
+Artigo 1.º No quadro da Inspecção-Geral de Crédito e Seguros são criados dois lugares de inspector técnico de 1.ª classe e dois lugares de inspector técnico de 2.ª classe, a acrescentar ao número de inspectores afectos à Inspecção de Crédito no mapa anexo ao [Decreto-Lei n.º 46493](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46493-1965-292334), de 18 de Agosto de 1965.
 
-###### Art. 2.º O artigo 6.º do [Decreto-Lei n.º 46493](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46493-1965-292334) passa a ter a seguinte redacção:
+Art. 2.º O artigo 6.º do [Decreto-Lei n.º 46493](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46493-1965-292334) passa a ter a seguinte redacção:
 
-###### Art. 6.º Os cargos de inspectores técnicos de 2.ª classe serão providos pelo Ministro das Finanças, sobre proposta do inspector-geral, em indivíduos diplomados com curso superior adequado.
+Art. 6.º Os cargos de inspectores técnicos de 2.ª classe serão providos pelo Ministro das Finanças, sobre proposta do inspector-geral, em indivíduos diplomados com curso superior adequado.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

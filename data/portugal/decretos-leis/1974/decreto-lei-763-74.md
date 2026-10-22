@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 302/1974, 1º Suplemento, Série I de 1974-12-30
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1646-(14) a 1646-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30201/00140019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/763-1974-256809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 224aa95bfcbd12ec93ec52acc443acbef50331002948c23d6f85c93e05085aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7ba51ce9246e7f5dc643e32af2c3d91bf02fa67c5f4f103c326739045df40ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Direção
+- Extinção de Serviços
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto de Emigração
+- Ministério do Trabalho
+- Orgânica
+- Presidente
+- Regime de Pessoal
+- Secretaria de Estado da Emigração
+- Secretariado Nacional da Emigração
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161489:por
+  label: "Extinto o Centro de Apoio aos Tabalhadores Ultramarinos, integrado na Secretaria de Estado da Emigração, cuja orgânica\
+    \ foi aprovada pelo presente diploma, pelo DEC LEI.169/75.31.03.1975.MCINT, DG.IS [75] de 31.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1975-161489
+  date: '1975-03-31'
+- type: amended_by
+  target: pt:dre:471146:por
+  label: "Extinta a Direcção-Geral da Emigração pelo DEC LEI.316/80.20.08.1980.MNE, DR.IS [191] de 20.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1980-471146
+  date: '1980-08-20'
+- type: amended_by
+  target: pt:dre:389857:por
+  label: "Dada nova redação ao nº 1 do art. 4º do Dec Lei 316/80 de 20-Ago, que alterou o presente diploma, pelo DEC LEI.12/81.27.01.1981.MNE,\
+    \ DR.IS [22] de 27.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1981-389857
+  date: '1981-01-27'
+- type: amended_by
+  target: pt:dre:397909:por
+  label: "Alargado o quadro de pessoal do Instituto de Apoio à Emigração e às Comunidades Portuguesas, aprovado pelo presente\
+    \ diploma, alterado pela Portaria 105/82, de 25 de Janeiro pela PORT.774/82.12.08.1982.MFP, DR.IS [185] de 12.08.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-1982-397909
+  date: '1982-08-12'
+- type: amended_by
+  target: pt:dre:613234:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.207/89.11.03.1989.MF, DR.IS [59] de 11.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-1989-613234
+  date: '1989-03-11'
+- type: amended_by
+  target: pt:dre:515471:por
+  label: "Extinto o Instituto de Apoio à Emigração Comunidades Portuguesas, criado neste diploma, que é revogado, assim como\
+    \ a demais legislação complementar relativa ao referido Instituto, pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46] \0\
+    6] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
+- type: cites
+  target: pt:dre:622588:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:19Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +170,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigos 16.º da Lei Constit
 
 ### CAPÍTULO I — Atribuições e organização
 
-###### Artigo 1.º A Secretaria de Estado da Emigração tem por atribuições:
+Artigo 1.º A Secretaria de Estado da Emigração tem por atribuições:
 
 a) Cooperar com o Secretaria de Estado do Emprego na orientação e apoio aos trabalhadores emigrantes, procurando articular o mercado de emprego interno com o mercado de emprego internacional;
 
@@ -138,7 +194,7 @@ j) Prestar apoio ao emigrante que se encontra transitoriamente em Portugal e aos
 
 l) Proceder aos estudos que lhe sejam cometidos e à recolha de dados respeitantes ao fenómeno emigratório que habilitem o Gabinete de Estudos, Planeamento e Organização do Ministério ao exercício das suas atribuições.
 
-###### Art. 2.º - 1. Para o desempenho das suas atribuições, a Secretaria de Estado da Emigração dispõe dos seguintes organismos e serviços:
+Art. 2.º - 1. Para o desempenho das suas atribuições, a Secretaria de Estado da Emigração dispõe dos seguintes organismos e serviços:
 
 a) Direcção-Geral da Emigração;
 
@@ -160,7 +216,7 @@ c) Pronunciar-se sobre outras questões no domínio da emigração, em que se co
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 3.º À Direcção-Geral da Emigração compete:
+Art. 3.º À Direcção-Geral da Emigração compete:
 
 a) Coordenar e superintender na actuação dos serviços que a integram, dando execução à política de emigração superiormente definida, sem prejuízo da competência do Instituto de Emigração;
 
@@ -178,7 +234,7 @@ g) Propor a nomeação de delegados da Secretaria de Estado da Emigração, em t
 
 #### SECÇÃO II — Serviços
 
-###### Art. 4.º A Direcção-Geral da Emigração compreende:
+Art. 4.º A Direcção-Geral da Emigração compreende:
 
 a) A Direcção de Serviços da Emigração;
 
@@ -186,7 +242,7 @@ b) A Direcção de Serviços de Apoio Social e Cultural;
 
 c) A Direcção de Serviços de Informação Especializada e Acordos de Emigração.
 
-###### Art. 5.º À Direcção de Serviços da Emigração compete:
+Art. 5.º À Direcção de Serviços da Emigração compete:
 
 a) Orientar e informar os trabalhadores que desejam emigrar, organizar os respectivos processos e intervir na obtenção da documentação que para o efeito se torne necessária;
 
@@ -212,7 +268,7 @@ l) Providenciar que os emigrantes e seus familiares tenham adequada assistência
 
 m) Colaborar com a Divisão de Serviços de Informação Especializada e Acordos de Emigração nos cursos de preparação ambiental para emigrantes e seus familiares, designadamente nos aspectos relacionados com os problemas de saúde, higiene e alimentação que possam vir a ter nos países de destino, e elucidá-los sobre os serviços médicos nesses países.
 
-###### Art. 6.º À Direcção de Serviços de Apoio Social e Cultural compete:
+Art. 6.º À Direcção de Serviços de Apoio Social e Cultural compete:
 
 a) Definir, em articulação com o Ministério dos Assuntos Sociais, programas de apoio social ao emigrante e seus familiares;
 
@@ -234,7 +290,7 @@ i) Promover e apoiar em território nacional, em colaboração com outras entida
 
 j) Fornecer aos serviços do Instituto de Emigração os elementos necessários à prossecução no estrangeiro de acções da sua competência no domínio cultural.
 
-###### Art. 7.º À Direcção de Serviços de Informação Especializada e Acordos de Emigração compete:
+Art. 7.º À Direcção de Serviços de Informação Especializada e Acordos de Emigração compete:
 
 a) Colaborar com os departamentos competentes no estudo dos princípios gerais e de ordem técnica a estabelecer nas negociações ou em acordos internacionais sobre emigração e segurança social dos emigrantes, com base na análise dos acordos em vigor, celebrados por Portugal ou por outros países de emigração;
 
@@ -248,17 +304,17 @@ e) Colaborar em programas destinados a esclarecer o País quanto aos problemas l
 
 f) Manter um serviço permanente de informação ao público e promover a realização de cursos de preparação ambiental para os emigrantes e seus familiares.
 
-###### Art. 8.º Aos delegados em território nacional compete exercer na área da sua jurisdição as actividades de que a Direcção-Geral os incumbir.
+Art. 8.º Aos delegados em território nacional compete exercer na área da sua jurisdição as actividades de que a Direcção-Geral os incumbir.
 
 ### CAPÍTULO III — Instituto de Emigração
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 9.º - 1. É extinto o Secretariado Nacional da Emigração, pessoa colectiva de direito público e com autonomia administrativa e financeira, e é criado o Instituto de Emigração, para o qual transitará o seu património.
+Art. 9.º - 1. É extinto o Secretariado Nacional da Emigração, pessoa colectiva de direito público e com autonomia administrativa e financeira, e é criado o Instituto de Emigração, para o qual transitará o seu património.
 
 2. O Instituto de Emigração é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio.
 
-###### Art. 10.º Ao Instituto de Emigração compete:
+Art. 10.º Ao Instituto de Emigração compete:
 
 a) Coordenar a actividade dos delegados da Secretaria de Estado da Emigração na execução no exterior da política de emigração, em articulação com os demais serviços da Secretaria de Estado, e colaborar com os organismos nacionais e estrangeiros e departamentos estaduais com incidência na emigração, nomeadamente o Ministério dos Negócios Estrangeiros;
 
@@ -278,15 +334,15 @@ h) Cobrar as receitas que lhe são atribuídas por lei e superintender na elabor
 
 #### SECÇÃO II — Serviços
 
-###### Art. 11.º O Instituto de Emigração é gerido por uma direcção, junto da qual funciona um conselho administrativo, e compreende as seguintes direcções de serviços, cuja orgânica interna será a que vier a ser definida por portaria do Ministro do Trabalho:
+Art. 11.º O Instituto de Emigração é gerido por uma direcção, junto da qual funciona um conselho administrativo, e compreende as seguintes direcções de serviços, cuja orgânica interna será a que vier a ser definida por portaria do Ministro do Trabalho:
 
 a) Direcção de Serviços de Coordenação da Acção Externa;
 
 b) Direcção de Serviços de Coordenação Económico-Financeira.
 
-###### Art. 12.º A Direcção é composta pelo presidente do Instituto e pelos directores de serviços.
+Art. 12.º A Direcção é composta pelo presidente do Instituto e pelos directores de serviços.
 
-###### Art. 13.º Compete à Direcção:
+Art. 13.º Compete à Direcção:
 
 a) Dirigir os serviços e actividades do Instituto;
 
@@ -300,7 +356,7 @@ e) Cumprir e fazer cumprir as leis e regulamentos;
 
 f) Dar balanço, mensalmente, às disponibilidades do Instituto.
 
-###### Art. 14.º Compete ao presidente:
+Art. 14.º Compete ao presidente:
 
 a) Convocar e presidir às reuniões da Direcção e coordenar as actividades do Instituto;
 
@@ -318,11 +374,11 @@ g) Decidir nos autos de transgressão nos casos expressamente referidos na lei;
 
 h) Contratar o pessoal cuja admissão não dependa de despacho superior.
 
-###### Art. 15.º O conselho administrativo é formado pelo director-geral da Emigração, pelo director de Serviços de Coordenação Económico-Financeira e por um representante do Ministério das Finanças, a designar pelo respectivo Ministro.
+Art. 15.º O conselho administrativo é formado pelo director-geral da Emigração, pelo director de Serviços de Coordenação Económico-Financeira e por um representante do Ministério das Finanças, a designar pelo respectivo Ministro.
 
-###### Art. 16.º O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convoque.
+Art. 16.º O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convoque.
 
-###### Art. 17.º Compete ao conselho administrativo:
+Art. 17.º Compete ao conselho administrativo:
 
 a) Assegurar que as verbas do Instituto se apliquem ao fim a que se destinam;
 
@@ -336,7 +392,7 @@ e) Dar parecer de natureza económica sobre a aquisição e alienação de bens 
 
 f) Emitir parecer sobre a constituição e liquidação de fundos permanentes.
 
-###### Art. 18.º Compete à Direcção de Coordenação da Acção Externa:
+Art. 18.º Compete à Direcção de Coordenação da Acção Externa:
 
 a) Executar, no estrangeiro, em colaboração com os Ministérios competentes, a política de emigração superiormente definida, coordenando e dinamizando os seus serviços;
 
@@ -362,7 +418,7 @@ l) Cooperar na repressão de actividades ilícitas referentes à emigração, pa
 
 m) Fiscalizar as condições de transporte do emigrante, enviar inspectores para o acompanhar sempre que o seu número o justifique e proporcionar-lhe adequadas condições de acolhimento.
 
-###### Art. 19.º Compete à Direcção de Serviços de Coordenação Económico-Financeira:
+Art. 19.º Compete à Direcção de Serviços de Coordenação Económico-Financeira:
 
 a) Elaborar as previsões económico-financeiras do Instituto de Emigração;
 
@@ -382,9 +438,9 @@ h) Centralizar, estudar e informar todos os assuntos respeitantes ao património
 
 #### SECÇÃO III — Receitas e despesas
 
-###### Art. 20.º O Instituto de Emigração goza de capacidade de adquirir, administrar e alienar bens, nos termos das disposições aplicáveis, e pode exercer os direitos civis relativos aos interesses que representa.
+Art. 20.º O Instituto de Emigração goza de capacidade de adquirir, administrar e alienar bens, nos termos das disposições aplicáveis, e pode exercer os direitos civis relativos aos interesses que representa.
 
-###### Art. 21.º Constituirão receitas do Instituto:
+Art. 21.º Constituirão receitas do Instituto:
 
 a) Uma dotação global a inscrever anualmente no Orçamento Geral do Estado;
 
@@ -404,13 +460,13 @@ h) Os saldos verificados em gerências anteriores;
 
 i) Quaisquer outras receitas que, por lei, contrato ou outro título, lhe sejam atribuídas.
 
-###### Art. 22.º - 1. A direcção requisitará mensalmente à 13.ª Delegação da Direcção-Geral da Contabilidade Pública a importância correspondente ao duodécimo da dotação a que se refere a alínea a) do artigo anterior.
+Art. 22.º - 1. A direcção requisitará mensalmente à 13.ª Delegação da Direcção-Geral da Contabilidade Pública a importância correspondente ao duodécimo da dotação a que se refere a alínea a) do artigo anterior.
 
 2. Tal requisição, depois de visada pela mesma Delegação, será expedida com a respectiva autorização de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo a importância correspondente transferida pelo Instituto de Emigração para a sua conta de depósito à ordem na Caixa Geral de Depósitos, Crédito e Previdência ou outros estabelecimentos públicos de crédito.
 
-###### Art. 23.º As heranças, legados e doações em que sejam constituídos encargos para o Instituto apenas poderão ser aceites mediante autorização do Ministro do Trabalho, ouvido o Ministro das Finanças.
+Art. 23.º As heranças, legados e doações em que sejam constituídos encargos para o Instituto apenas poderão ser aceites mediante autorização do Ministro do Trabalho, ouvido o Ministro das Finanças.
 
-###### Art. 24.º Constituirão encargos do Instituto:
+Art. 24.º Constituirão encargos do Instituto:
 
 a) As despesas com os vencimentos, salários, gratificações, ajudas de custo e deslocações, bem como outras despesas e subsídios previstos na lei com o pessoal ao seu serviço;
 
@@ -428,30 +484,30 @@ d) Financiamento de publicações e de outros meios informativos;
 
 e) Quaisquer outras despesas a realizar pelo Instituto dentro da competência que por lei lhe for conferida.
 
-###### Art. 25.º Os rendimentos dos bens próprios do Instituto, assim como subsídios, donativos, heranças ou legados que lhe forem concedidos, são isentos de impostos, contribuições, taxas ou custas devidas ao Estado ou às autarquias locais.
+Art. 25.º Os rendimentos dos bens próprios do Instituto, assim como subsídios, donativos, heranças ou legados que lhe forem concedidos, são isentos de impostos, contribuições, taxas ou custas devidas ao Estado ou às autarquias locais.
 
 #### SECÇÃO IV — Do pessoal
 
-###### Art. 26.º Além do pessoal permanente, poderá o Instituto de Emigração contratar ou assalariar, nos termos legais e dentro das disponibilidades orçamentais respectivas, o pessoal indispensável à boa execução dos serviços, que não possam ser desempenhados por aquele.
+Art. 26.º Além do pessoal permanente, poderá o Instituto de Emigração contratar ou assalariar, nos termos legais e dentro das disponibilidades orçamentais respectivas, o pessoal indispensável à boa execução dos serviços, que não possam ser desempenhados por aquele.
 
-###### Art. 27.º A admissão, a promoção, a exoneração e a demissão do pessoal do Instituto é da competência do Secretário de Estado da Emigração.
+Art. 27.º A admissão, a promoção, a exoneração e a demissão do pessoal do Instituto é da competência do Secretário de Estado da Emigração.
 
-###### Art. 28.º O Instituto de Emigração poderá, sempre que tal se mostre conveniente, recorrer à colaboração de técnicos, empresas ou organismos nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos, ou para a execução de outras funções especializadas, em regime de prestação de serviços.
+Art. 28.º O Instituto de Emigração poderá, sempre que tal se mostre conveniente, recorrer à colaboração de técnicos, empresas ou organismos nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos, ou para a execução de outras funções especializadas, em regime de prestação de serviços.
 
-###### Art. 29.º O Instituto de Emigração poderá enviar missões ao estrangeiro para procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas atribuições.
+Art. 29.º O Instituto de Emigração poderá enviar missões ao estrangeiro para procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas atribuições.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 30.º Enquanto não for legalmente definido e preenchido por nomeação ou provimento individual, o pessoal do quadro do extinto Secretariado Nacional da Emigração manterá provisoriamente a situação anterior.
+Art. 30.º Enquanto não for legalmente definido e preenchido por nomeação ou provimento individual, o pessoal do quadro do extinto Secretariado Nacional da Emigração manterá provisoriamente a situação anterior.
 
-###### Art. 31.º A orgânica de cada um dos serviços dependentes da Direcção-Geral da Emigração será fixada em regulamento interno, aprovado por portaria do Ministro do Trabalho.
+Art. 31.º A orgânica de cada um dos serviços dependentes da Direcção-Geral da Emigração será fixada em regulamento interno, aprovado por portaria do Ministro do Trabalho.
 
-###### Art. 32.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decreto referendado pelos Ministros das Finanças e do Trabalho.
+Art. 32.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decreto referendado pelos Ministros das Finanças e do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Inácio da Costa Martins.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

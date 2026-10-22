@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(10) a 1456-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-h-1980-226044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4eb5f1116058feae11de7ee209bb8a81c6fb4716ddacc44d8d2e2fbb5ee8ccd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7737cb70a9b537e1bf82b52e6e380e7c050cb448bf1a1cbc39ffa6544341f44d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Coordenador Regional
+- Definição de Competências
+- Ensino Preparatório
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285941:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549390:por
+  label: "Revogado pelo DEC LEI.361/89.18.10.1989.ME, DR.IS [240] de 18.10.1989, em tudo o que for incompatível com o disposto\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1989-549390
+  date: '1989-10-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:00Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +120,13 @@ Considerando que o referido diploma, face à sua difícil exequibilidade, se tra
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São mantidos os lugares de coordenador regional do núcleo de acção social escolar (CRNASE), criados, em cada uma das zonas de acção social escolar dos ensinos preparatório e secundário, pelo Decreto-Lei n.º 4/77, de 5 de Janeiro, que passam a designar-se coordenadores regionais de acção social escolar (CRASE).
+Artigo 1.º São mantidos os lugares de coordenador regional do núcleo de acção social escolar (CRNASE), criados, em cada uma das zonas de acção social escolar dos ensinos preparatório e secundário, pelo Decreto-Lei n.º 4/77, de 5 de Janeiro, que passam a designar-se coordenadores regionais de acção social escolar (CRASE).
 
-###### Art. 2.º As zonas de acção social escolar referidas no número anterior são definidas por portaria do Ministro da Educação e Ciência.
+Art. 2.º As zonas de acção social escolar referidas no número anterior são definidas por portaria do Ministro da Educação e Ciência.
 
-###### Art. 3.º As funções dos coordenadores regionais de acção social escolar serão fixadas por despacho do Ministro da Educação e Ciência e o seu desempenho efectuar-se-á em regime de acumulação com o exercício de funções docentes, sem prejuízo de eventual redução do seu horário lectivo normal.
+Art. 3.º As funções dos coordenadores regionais de acção social escolar serão fixadas por despacho do Ministro da Educação e Ciência e o seu desempenho efectuar-se-á em regime de acumulação com o exercício de funções docentes, sem prejuízo de eventual redução do seu horário lectivo normal.
 
-###### Art. 4.º - 1 - Os coordenadores regionais de acção social escolar serão nomeados por despacho do Ministro da Educação e Ciência, ouvida a Direcção-Geral de Pessoal e mediante proposta do Instituto de Acção Social Escolar, de entre os professores efectivos e profissionalizados não efectivos dos estabelecimentos de ensino preparatório ou secundário da respectiva zona.
+Art. 4.º - 1 - Os coordenadores regionais de acção social escolar serão nomeados por despacho do Ministro da Educação e Ciência, ouvida a Direcção-Geral de Pessoal e mediante proposta do Instituto de Acção Social Escolar, de entre os professores efectivos e profissionalizados não efectivos dos estabelecimentos de ensino preparatório ou secundário da respectiva zona.
 
 2 - A nomeação será feita por um período de dois anos, renovável por igual período, podendo, porém, os coordenadores ser exonerados, a qualquer momento, por despacho do Ministro da Educação e Ciência.
 
@@ -111,18 +136,18 @@ a) Encontrarem-se contratados plurianualmente e serem-lhes rescindidos os contra
 
 b) Não obtenham colocação nos concursos a que foram opositores, salvo se tiverem aceitado todas as possibilidades de colocação previstas na legislação em vigor.
 
-###### Art. 5.º - 1 - Os coordenadores regionais têm direito a ajudas de custo e subsídios de viagem nos termos da lei geral.
+Art. 5.º - 1 - Os coordenadores regionais têm direito a ajudas de custo e subsídios de viagem nos termos da lei geral.
 
 2 - Os coordenadores regionais serão ainda reembolsados das eventuais despesas de expediente e de comunicação que tenham de efectuar no exercício das suas funções.
 
-###### Art. 6.º Os coordenadores regionais receberão, no exercício das suas funções, o apoio do estabelecimento de ensino a que pertençam, através do respectivo núcleo, e das secretarias dos estabelecimentos pertencentes à zona de acção social escolar respectiva.
+Art. 6.º Os coordenadores regionais receberão, no exercício das suas funções, o apoio do estabelecimento de ensino a que pertençam, através do respectivo núcleo, e das secretarias dos estabelecimentos pertencentes à zona de acção social escolar respectiva.
 
-###### Art. 7.º É revogado o Decreto-Lei n.º 4/77, de 5 de Janeiro, e a [Portaria n.º 598/77](https://diariodarepublica.pt/dr/detalhe/portaria/598-1977-285941), de 20 de Setembro.
+Art. 7.º É revogado o Decreto-Lei n.º 4/77, de 5 de Janeiro, e a [Portaria n.º 598/77](https://diariodarepublica.pt/dr/detalhe/portaria/598-1977-285941), de 20 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 24 de Junho de 1980.**
+Promulgado em 24 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

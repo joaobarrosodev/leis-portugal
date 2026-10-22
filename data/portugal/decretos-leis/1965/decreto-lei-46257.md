@@ -47,40 +47,146 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46257-1965-238645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4bc59052a830526d3af4dd926bddf1158c4c3fc97c7d6f0117068efaabe348c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fc07790a6274a6f00616e0ae6007e87ee3df2ffae115b14197695b00739c177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Azeite
+- Comércio
+- Crime
+- Definição de Competências
+- Direção Geral da Saúde
+- Embalagem
+- Especificação Técnica
+- Etiquetagem
+- Fabrico Industrial
+- Fiscalização
+- Junta Nacional do Azeite
 relationships:
 - type: amended_by
   target: pt:dre:297447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292677:por
+  label: "Suspensos, até 31.12.1965, os arts. 25º, 27º, 28º e 47º pelo DEC LEI.46473.07.08.1965.MECO, DG.IS [176] de 07.08.1965\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46473-1965-292677
+  date: '1965-08-07'
+- type: amended_by
+  target: pt:dre:508067:por
+  label: "Alterados os artigos 13º, 25º (que é suspenso transitoriamente até 30.09.1966), 28º, 30º, 34º, 43º e 47º pelo DEC\
+    \ LEI.46783.22.12.1965.MECO, DG.IS [289] de 22.12.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46783-1965-508067
+  date: '1965-12-22'
+- type: amended_by
+  target: pt:dre:477795:por
+  label: "Prorrogado, até 31.12.1967, o prazo estabelecido no § 1º do art. 47º pelo PORT.22372.12.12.1966.MECO, DG.IS [286]\
+    \ de 12.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22372-1966-477795
+  date: '1966-12-12'
+- type: amended_by
+  target: pt:dre:477856:por
+  label: "Alterados os arts. 20º, 25º, 28º e 41º e revogado o art. 39º pelo DEC LEI.47404.22.12.1966.MECO, DG.IS [295] de\
+    \ 22.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47404-1966-477856
+  date: '1966-12-22'
+- type: amended_by
+  target: pt:dre:234937:por
+  label: "Alterada a al. a) do art. 6º pelo DEC LEI.48315.04.04.1968.MECO, DG.IS [81] de 04.04.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48315-1968-234937
+  date: '1968-04-04'
+- type: amended_by
+  target: pt:dre:225865:por
+  label: "Alterado o art. 27º pelo DEC LEI.175/70.18.04.1970.MECO, DG.IS [91] de 18.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-1970-225865
+  date: '1970-04-18'
+- type: amended_by
+  target: pt:dre:411844:por
+  label: "Dada nova redacção aos arts. 29º, 33º, 38º e 40º e revogado o § único do art. 11º pelo DEC LEI.143/74.08.04.1974.MAC,\
+    \ DG.IS [83] de 08.04.1974\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1974-411844
+  date: '1974-04-08'
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480124:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:236747:por
+  label: "Rectificada a al. c) do art. 6º do presente diploma, pela RECT.DD747.03.05.1965.PC, DG.IS [97] de 03.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-236747
+  date: '1965-05-03'
+- type: corrected_by
+  target: pt:dre:293966:por
+  label: "Rectificada a al. e) do art. 6º pela RECT.DD748.10.05.1965.PC, DG.IS [103] de 10.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-293966
+  date: '1965-05-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:39Z'
   warnings: []
   errors: []
 ---
@@ -119,13 +225,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para efeitos do presente diploma, entendem-se por:
+Artigo 1.º Para efeitos do presente diploma, entendem-se por:
 
 a) Gorduras naturais - as misturas complexas de triglicéridos que formam as principais reservas nutritivas de natureza animal e vegetal e têm dissolvidos, geralmente em pequenas quantidades, não só outros lípidos, como ácidos gordos libertos por hidrólise e fosfatídeos, mas também diversas substância insaponificáveis;
 
 b) óleos comestíveis - as gorduras naturais líquidas com temperatura de solidificação inferior a 20ºC que se contenham na definição legal de género alimentício e preencham os requisitos impostos para sua normalidade.
 
-###### Art. 2.º Observados os princípios estabelecidos no presente diploma, consideram-se como directamente comestíveis, além do azeite e dos óleos de amendoim, gergelim e gérmen de milho, os seguintes óleos:
+Art. 2.º Observados os princípios estabelecidos no presente diploma, consideram-se como directamente comestíveis, além do azeite e dos óleos de amendoim, gergelim e gérmen de milho, os seguintes óleos:
 
 a) De bagaço de azeitona;
 
@@ -135,23 +241,23 @@ c) De grainha de uva.
 
 § único. À relação dos óleos comestíveis autorizados no fabrico de margarina pelo artigo 2.º do [Decreto n.º 42354](https://diariodarepublica.pt/dr/detalhe/decreto/42354-1959-433044), de 21 de Julho de 1959, é acrescentado o óleo de semente de tomate.
 
-###### Art. 3.º Por portaria conjunta do Ministro da Saúde e Assistência e do Secretário de Estado do Comércio, depois de ouvidos os Secretários de Estado da Agricultura e da Indústria, poderão ser considerados comestíveis outros óleos e regulamentada a sua utilização.
+Art. 3.º Por portaria conjunta do Ministro da Saúde e Assistência e do Secretário de Estado do Comércio, depois de ouvidos os Secretários de Estado da Agricultura e da Indústria, poderão ser considerados comestíveis outros óleos e regulamentada a sua utilização.
 
 § único. No caso de a regulamentação ter repercussões no regime das sanções a aplicar, a portaria será igualmente assinada pelo Ministro da Justiça.
 
-###### Art. 4.º A designação de azeite é reservada para a gordura comestível obtida da azeitona, sem mistura com óleo de bagaço do mesmo fruto ou com qualquer outra gordura, devendo observar-se a definição e as características previstas nas Portarias n.os 10134 e 20167, respectivamente de 9 de Julho de 1942 e de 14 de Novembro de 1963.
+Art. 4.º A designação de azeite é reservada para a gordura comestível obtida da azeitona, sem mistura com óleo de bagaço do mesmo fruto ou com qualquer outra gordura, devendo observar-se a definição e as características previstas nas Portarias n.os 10134 e 20167, respectivamente de 9 de Julho de 1942 e de 14 de Novembro de 1963.
 
 § único. O azeite só pode ser extraído, depurado ou refinado em conformidade com o estatuído nos artigos 17.º a 21.º do presente diploma, permitindo-se ùnicamente operações mecânicas no seu processo de extracção.
 
-###### Art. 5.º O azeite pode apresentar-se:
+Art. 5.º O azeite pode apresentar-se:
 
 a) Virgem, se não sofreu qualquer operação de refinação;
 
 b) Refinado, se foi tratado por operações previstas no n.º 4.º do artigo 20.º, para a refinação definida no artigo 19.º
 
-###### Art. 6.º Os tipos comerciais de azeite são:
+Art. 6.º Os tipos comerciais de azeite são:
 
-a) Azeite extra - o azeite virgem, com caracteres organolépticos irrepreensíveis, acidez não superior a 1 por cento expressa em ácido oleico e com o máximo de 0,2 de absorvência a 268 nanómetros, expresso em [([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06600/03540357.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06600/03540357.pdf).
+a) Azeite extra - o azeite virgem, com caracteres organolépticos irrepreensíveis, acidez não superior a 1 por cento expressa em ácido oleico e com o máximo de 0,2 de absorvência a 268 nanómetros, expresso em [(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06600/03540357.pdf).
 
 b) Azeite fino - o azeite virgem ou a mistura deste com azeite refinado com caracteres organolépticos normais e acidez expressa em ácido oleico não superior a 1,5 por cento.
 
@@ -165,23 +271,23 @@ e) Azeite refinado - o azeite que depois de ser submetido a qualquer das operaç
 
 § 2.º Para fins alimentares, o azeite lampante deverá ser beneficiado por forma a apresentar caracteres organolépticos normais e acidez não superior a 3 por cento.
 
-###### Art. 7.º A designação de óleo de amendoim ou de mendubi é dada à gordura da semente do mesmo nome e este produto deve satisfazer à definição e características previstas na [Portaria n.º 10134](https://diariodarepublica.pt/dr/detalhe/portaria/10134-1942-316320), de 9 de Julho de 1942.
+Art. 7.º A designação de óleo de amendoim ou de mendubi é dada à gordura da semente do mesmo nome e este produto deve satisfazer à definição e características previstas na [Portaria n.º 10134](https://diariodarepublica.pt/dr/detalhe/portaria/10134-1942-316320), de 9 de Julho de 1942.
 
-###### Art. 8.º A designação de óleo de bagaço de azeitona, ou óleo de bagaço, é dada à gordura obtida do subproduto do mesmo nome, restante da extracção do azeite.
+Art. 8.º A designação de óleo de bagaço de azeitona, ou óleo de bagaço, é dada à gordura obtida do subproduto do mesmo nome, restante da extracção do azeite.
 
-###### Art. 9.º A designação de óleo de bolota é dada à gordura obtida do fruto do mesmo nome.
+Art. 9.º A designação de óleo de bolota é dada à gordura obtida do fruto do mesmo nome.
 
-###### Art. 10.º A designação de óleo de gérmen de milho, ou óleo de milho, é dada à gordura obtida do gérmen da semente do mesmo nome.
+Art. 10.º A designação de óleo de gérmen de milho, ou óleo de milho, é dada à gordura obtida do gérmen da semente do mesmo nome.
 
-###### Art. 11.º A designação de óleo de gergelim é dada à gordura obtida da semente do mesmo nome e este produto deve dar resultado positivo na reacção de Baudoin, modificada por Villavechia e Fabris, antes e depois de refinado.
+Art. 11.º A designação de óleo de gergelim é dada à gordura obtida da semente do mesmo nome e este produto deve dar resultado positivo na reacção de Baudoin, modificada por Villavechia e Fabris, antes e depois de refinado.
 
 § único. O óleo de gergelim só pode ser objecto de comércio para se adicionar, como revelador legal, a todos os restantes óleos comestíveis, exceptuado o azeite.
 
-###### Art. 12.º A designação de óleo de grainha de uva é dada à gordura obtida a partir da semente do mesmo nome.
+Art. 12.º A designação de óleo de grainha de uva é dada à gordura obtida a partir da semente do mesmo nome.
 
-###### Art. 13.º A mistura, para fins comestíveis, dos óleos referidos nos artigos 7.º a 12.º designar-se-á apenas por «óleo alimentar».
+Art. 13.º A mistura, para fins comestíveis, dos óleos referidos nos artigos 7.º a 12.º designar-se-á apenas por «óleo alimentar».
 
-###### Art. 14.º Todos os óleos comestíveis referidos no artigo 2.º do presente diploma ou as misturas previstas no artigo anterior, para os quais ainda não haja definição e características oficiais estabelecidas de conformidade com o [Decreto-Lei n.º 37630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37630-1949-268002), de 20 de Novembro de 1949, terão de satisfazer às características a estabelecer com urgência nos termos do n.º 7.º da [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950.
+Art. 14.º Todos os óleos comestíveis referidos no artigo 2.º do presente diploma ou as misturas previstas no artigo anterior, para os quais ainda não haja definição e características oficiais estabelecidas de conformidade com o [Decreto-Lei n.º 37630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37630-1949-268002), de 20 de Novembro de 1949, terão de satisfazer às características a estabelecer com urgência nos termos do n.º 7.º da [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950.
 
 § único. Enquanto não se encontrarem definidas as características mencionadas neste artigo, os óleos deverão, depois de refinados, apresentar as seguintes características:
 
@@ -195,15 +301,15 @@ d) Cor - de intensidade não superior ao grau 2 da escala de iodo referida na [P
 
 e) Acidez - não superior a 0,3 por cento expressa em ácido oleico.
 
-###### Art. 15.º O azeite e o óleo de mendubi destinados à indústria de conservas de peixe não podem apresentar ponto de congelação superior a 5ºC e, nos refinados, não poderá ainda verificar-se a reversão do aroma e do sabor, mesmo depois de submetidos a 120ºC, durante duas horas, em recipiente fechado.
+Art. 15.º O azeite e o óleo de mendubi destinados à indústria de conservas de peixe não podem apresentar ponto de congelação superior a 5ºC e, nos refinados, não poderá ainda verificar-se a reversão do aroma e do sabor, mesmo depois de submetidos a 120ºC, durante duas horas, em recipiente fechado.
 
-###### Art. 16.º Os óleos comestíveis com falta de quaisquer características legais que não impliquem avaria irremediável, corrupção ou falsificação, podem ser beneficiados, mas apenas por depuração, refinação ou lotação.
+Art. 16.º Os óleos comestíveis com falta de quaisquer características legais que não impliquem avaria irremediável, corrupção ou falsificação, podem ser beneficiados, mas apenas por depuração, refinação ou lotação.
 
-###### Art. 17.º Os óleos comestíveis apenas serão obtidos a partir de matérias-primas de boa qualidade que facultem produtos bromatològicamente recomendáveis dos pontos de vista de higiene e fisiologia.
+Art. 17.º Os óleos comestíveis apenas serão obtidos a partir de matérias-primas de boa qualidade que facultem produtos bromatològicamente recomendáveis dos pontos de vista de higiene e fisiologia.
 
-###### Art. 18.º As gorduras recuperadas de subprodutos obtidos nas operações de refinação não podem servir para obter óleos comestíveis, quaisquer que sejam os tratamentos a que se submetam ulteriormente.
+Art. 18.º As gorduras recuperadas de subprodutos obtidos nas operações de refinação não podem servir para obter óleos comestíveis, quaisquer que sejam os tratamentos a que se submetam ulteriormente.
 
-###### Art. 19.º A obtenção e o tratamento dos óleos comestíveis devem processar-se exclusivamente por:
+Art. 19.º A obtenção e o tratamento dos óleos comestíveis devem processar-se exclusivamente por:
 
 a) Extracção - para os retirar das matérias-primas naturais onde se contêm;
 
@@ -213,7 +319,7 @@ c) Desmargarinação - para separar componentes não convenientes para certas ap
 
 d) Refinação - para melhor purificação, separando outras impurezas e componentes indesejáveis, sem contudo modificar quer a composição, quer o arranjo molecular dos constituintes que permanecem.
 
-###### Art. 20.º Os processos de obtenção e tratamento indicados no artigo anterior podem incluir apenas as seguintes operações:
+Art. 20.º Os processos de obtenção e tratamento indicados no artigo anterior podem incluir apenas as seguintes operações:
 
 1.º No processo de extracção:
 
@@ -249,27 +355,27 @@ c) Descoloração com absorventes inócuos;
 
 d) Desodorização, em ambiente rarefeito, pela passagem de vapor de água.
 
-###### Art. 21.º Os processos referidos no artigo anterior serão conduzidos de modo que o produto em laboração e o acabado sejam:
+Art. 21.º Os processos referidos no artigo anterior serão conduzidos de modo que o produto em laboração e o acabado sejam:
 
 1.º Mantidos a temperaturas inferiores a 100ºC quando sujeitos à pressão normal;
 
 2.º Defendidos de oxidação, de hidrólise e de outras alterações.
 
-###### Art. 22.º É proibida a operação da esterificação dos óleos comestíveis, bem como a existência nas instalações para a sua obtenção e tratamento de qualquer aparelhagem para a efectuar.
+Art. 22.º É proibida a operação da esterificação dos óleos comestíveis, bem como a existência nas instalações para a sua obtenção e tratamento de qualquer aparelhagem para a efectuar.
 
 § único. A hidrogenação, a interesterificação, a transesterificação ou quaisquer outras operações de transformação de óleos com fins industriais só podem realizar-se em instalações afastadas das que se destinam à obtenção e tratamento dos mesmos óleos para fins alimentares.
 
-###### Art. 23.º O único solvente admitido é o hexano que obedeça às prescrições da norma portuguesa para ele estabelecida.
+Art. 23.º O único solvente admitido é o hexano que obedeça às prescrições da norma portuguesa para ele estabelecida.
 
 § único. A operação de extracção deve ser realizada de modo a garantir a completa eliminação do solvente.
 
-###### Art. 24.º Os óleos comestíveis só podem ser produzidos, tratados ou armazenados em locais onde nunca se processem quaisquer operações com outras gorduras não consideradas comestíveis.
+Art. 24.º Os óleos comestíveis só podem ser produzidos, tratados ou armazenados em locais onde nunca se processem quaisquer operações com outras gorduras não consideradas comestíveis.
 
-###### Art. 25.º O azeite só pode ser produzido, tratado ou armazenado em locais onde nunca se processem quaisquer operações com outras gorduras mesmo comestíveis.
+Art. 25.º O azeite só pode ser produzido, tratado ou armazenado em locais onde nunca se processem quaisquer operações com outras gorduras mesmo comestíveis.
 
 § único. É proibida a existência, nos locais a que se refere este artigo, de matérias-primas ou subprodutos de quaisquer gorduras, com excepção das relativas à produção e tratamento do azeite.
 
-###### Art. 26.º Nas instalações de obtenção, tratamento e armazenagem de óleos comestíveis, respectivas dependências e anexos, é interdita:
+Art. 26.º Nas instalações de obtenção, tratamento e armazenagem de óleos comestíveis, respectivas dependências e anexos, é interdita:
 
 a) A existência de aparelhagem destinada à realização de operações não previstas no artigo 20.º;
 
@@ -279,77 +385,77 @@ c) A presença de solventes nos locais de obtenção de azeite.
 
 § único. O estabelecido neste artigo não é aplicável aos reagentes existentes nos laboratórios de verificação industrial, desde que se encontrem com a pureza necessária para as análises e em quantidades insuspeitas de aplicação tecnológica.
 
-###### Art. 27.º Tanto o azeite como os restantes óleos comestíveis e as misturas destes só podem ser postos à venda e vendidos em embalagens fechadas de material inerte e inócuo para as gorduras, com garantia de integridade.
+Art. 27.º Tanto o azeite como os restantes óleos comestíveis e as misturas destes só podem ser postos à venda e vendidos em embalagens fechadas de material inerte e inócuo para as gorduras, com garantia de integridade.
 
 § 1.º O acondicionamento só poderá ser efectuado pelos produtores ou armazenistas, aos quais compete prestar a garantia de integridade referida neste artigo.
 
 § 2.º A embalagem de menor capacidade é de 0,2 l.
 
-###### Art. 28.º Nas embalagens, ou em etiquetas presas ao selo de garantia, tem de constar, de forma bem legível, a designação do produto, com especificação do óleo ou óleos que o compõem, o seu volume ou massa e a identificação da entidade que tiver procedido ao acondicionamento.
+Art. 28.º Nas embalagens, ou em etiquetas presas ao selo de garantia, tem de constar, de forma bem legível, a designação do produto, com especificação do óleo ou óleos que o compõem, o seu volume ou massa e a identificação da entidade que tiver procedido ao acondicionamento.
 
 § 1.º O volume será expresso em litros, seus múltiplos e submúltiplos decimais e a massa correspondente em quilogramas.
 
 § 2.º Quando se trate de azeite, é também obrigatória a indicação do tipo comercial respectivo.
 
-###### Art. 29.º Todos os óleos comestíveis, com excepção do azeite, terão de ser adicionados de óleo de gergelim, a que se refere o artigo 11.º do presente diploma, num teor da ordem de 5 por cento, imediatamente a seguir à sua extracção.
+Art. 29.º Todos os óleos comestíveis, com excepção do azeite, terão de ser adicionados de óleo de gergelim, a que se refere o artigo 11.º do presente diploma, num teor da ordem de 5 por cento, imediatamente a seguir à sua extracção.
 
 § único. Podem ser exceptuados da desnaturação os óleos destinados à exportação, quando sob verificação da Inspecção-Geral dos Produtos Agrícolas e Industriais.
 
-###### Art. 30.º Os produtores podem vender directamente aos consumidores azeite a granel, fora de estabelecimentos de retalho, nas condições que forem estabelecidas para cada campanha.
+Art. 30.º Os produtores podem vender directamente aos consumidores azeite a granel, fora de estabelecimentos de retalho, nas condições que forem estabelecidas para cada campanha.
 
 § único. Durante o período de laboração dos respectivos lagares, podem os produtores vender directamente aos consumidores, ao abrigo da regulamentação prevista no corpo do presente artigo, com a designação de azeite lagareiro, azeite lampante de acidez não superior a 3 por cento, expressa em ácido oleico, e desde que a anormalidade dos seus caracteres organolépticos seja apenas a falta de limpidez.
 
-###### Art. 31.º Não é permitido, sem o visto da Direcção-Geral de Saúde, comerciar ou anunciar qualquer óleo comestível com referência, directa ou indirecta, a virtudes terapêuticas ou dietéticas e, bem assim, com a menção de vitaminado ou de conter vitaminas ou outras substâncias.
+Art. 31.º Não é permitido, sem o visto da Direcção-Geral de Saúde, comerciar ou anunciar qualquer óleo comestível com referência, directa ou indirecta, a virtudes terapêuticas ou dietéticas e, bem assim, com a menção de vitaminado ou de conter vitaminas ou outras substâncias.
 
-###### Art. 32.º É proibido importar, fabricar, tratar, fazer transportar, armazenar, expor à venda ou vender como comestível qualquer óleo não previsto no presente diploma.
+Art. 32.º É proibido importar, fabricar, tratar, fazer transportar, armazenar, expor à venda ou vender como comestível qualquer óleo não previsto no presente diploma.
 
-###### Art. 33.º É proibido importar, fazer transportar, armazenar, expor à venda ou vender óleos alimentares destinados a fins industriais que não possuam características organolépticas que fàcilmente os distingam e não estejam desnaturados com 5 por cento de óleo de gergelim.
+Art. 33.º É proibido importar, fazer transportar, armazenar, expor à venda ou vender óleos alimentares destinados a fins industriais que não possuam características organolépticas que fàcilmente os distingam e não estejam desnaturados com 5 por cento de óleo de gergelim.
 
 § único. Além do desnaturante previsto para os óleos comestíveis quando destinados a fins industriais pela declaração publicada no Diário do Governo n.º 124, 1.ª série, de 31 de Maio de 1938, poderão ser aplicados outros, em conformidade com o § 1.º do artigo 6.º do [Decreto-Lei n.º 28152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28152-1937-435007), de 12 de Novembro de 1937, desde que sejam inócuos.
 
-###### Art. 34.º É proibida a mistura do azeite com qualquer outro óleo, inclusivamente no fabrico de conservas de peixe.
+Art. 34.º É proibida a mistura do azeite com qualquer outro óleo, inclusivamente no fabrico de conservas de peixe.
 
-###### Art. 35.º Fica o Governo autorizado a fixar, em portaria, os preços, margens de lucro e regras de comercialização, nos mercados interno e externo, do azeite e dos óleos alimentares e a adoptar as providências excepcionais necessárias à eventual regularização do abastecimento nesses produtos.
+Art. 35.º Fica o Governo autorizado a fixar, em portaria, os preços, margens de lucro e regras de comercialização, nos mercados interno e externo, do azeite e dos óleos alimentares e a adoptar as providências excepcionais necessárias à eventual regularização do abastecimento nesses produtos.
 
-###### Art. 36.º À Junta Nacional do Azeite compete a disciplina das actividades que se dedicam ao fabrico e comércio dos óleos comestíveis abrangidos no presente diploma.
+Art. 36.º À Junta Nacional do Azeite compete a disciplina das actividades que se dedicam ao fabrico e comércio dos óleos comestíveis abrangidos no presente diploma.
 
-###### Art. 37.º Além do disposto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, quanto a infracções, observar-se-á especialmente nesta matéria o que se contém nos artigos seguintes.
+Art. 37.º Além do disposto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, quanto a infracções, observar-se-á especialmente nesta matéria o que se contém nos artigos seguintes.
 
-###### Art. 38.º São punidas, nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), as infracções do disposto nos artigos 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 32.º, 33.º e § único e 34.º
+Art. 38.º São punidas, nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), as infracções do disposto nos artigos 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 32.º, 33.º e § único e 34.º
 
-###### Art. 39.º O fabrico, comércio ou existência para comércio de azeite extra que não satisfaça as características referidas na alínea a) do artigo 6.º constitui infracção punível nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 39.º O fabrico, comércio ou existência para comércio de azeite extra que não satisfaça as características referidas na alínea a) do artigo 6.º constitui infracção punível nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 40.º São punidas nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) as infracções do disposto nos artigos 14.º e seu § único, 15.º, 29.º e § único.
+Art. 40.º São punidas nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) as infracções do disposto nos artigos 14.º e seu § único, 15.º, 29.º e § único.
 
-###### Art. 41.º O fabrico, comércio ou existência para comércio de azeite dos vários tipos indicados nas alíneas b) a e) do artigo 6.º sem que satisfaça as características referidas nas mesmas alíneas constitui infracção punível nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 41.º O fabrico, comércio ou existência para comércio de azeite dos vários tipos indicados nas alíneas b) a e) do artigo 6.º sem que satisfaça as características referidas nas mesmas alíneas constitui infracção punível nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 42.º As infracções do disposto nos artigos 24.º a 26.º são punidas com prisão de três dias a seis meses e multa.
+Art. 42.º As infracções do disposto nos artigos 24.º a 26.º são punidas com prisão de três dias a seis meses e multa.
 
-###### Art. 43.º As infracções do disposto nos artigos 27.º e seus parágrafos, 28.º e seus parágrafos, 30.º e seu § único e 31.º constituem contravenções puníveis com a pena de multa de 500$00 a 10000$00.
+Art. 43.º As infracções do disposto nos artigos 27.º e seus parágrafos, 28.º e seus parágrafos, 30.º e seu § único e 31.º constituem contravenções puníveis com a pena de multa de 500$00 a 10000$00.
 
-###### Art. 44.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão aplicáveis à instrução preparatória e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
+Art. 44.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão aplicáveis à instrução preparatória e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
 
-###### Art. 45.º A beneficiação dos óleos comestíveis, a que se refere o artigo 16.º, livra das penas por falta de características legais quando ocorra antes de qualquer intervenção oficial ou denúncia.
+Art. 45.º A beneficiação dos óleos comestíveis, a que se refere o artigo 16.º, livra das penas por falta de características legais quando ocorra antes de qualquer intervenção oficial ou denúncia.
 
-###### Art. 46.º A extracção, tratamento ou refinação de óleos comestíveis apenas podem ser praticados pelas entidades que para tanto possuam as necessárias autorizações legais, exclusivamente nos precisos termos destas e apenas para os óleos que nelas se incluam.
+Art. 46.º A extracção, tratamento ou refinação de óleos comestíveis apenas podem ser praticados pelas entidades que para tanto possuam as necessárias autorizações legais, exclusivamente nos precisos termos destas e apenas para os óleos que nelas se incluam.
 
 § único. A infracção do disposto neste artigo será punida nos termos do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954.
 
-###### Art. 47.º O estabelecido nos artigos 27.º e 28.º entrará em vigor para o óleo de mendubi a partir do dia 31 de Dezembro de 1965, tendo porém efeitos imediatos para os restantes óleos comestíveis.
+Art. 47.º O estabelecido nos artigos 27.º e 28.º entrará em vigor para o óleo de mendubi a partir do dia 31 de Dezembro de 1965, tendo porém efeitos imediatos para os restantes óleos comestíveis.
 
 § único. Em relação a cada tipo comercial de azeite o disposto nos artigos mencionados entrará em vigor na data que vier a ser fixada em portaria pelo Secretário de Estado do Comércio.
 
-###### Art. 48.º O estabelecido no artigo 34.º tem efeitos imediatos para o fabrico das conservas de peixe e entra em vigor após dois anos, a contar da data da publicação do presente diploma, para as conservas já fabricadas.
+Art. 48.º O estabelecido no artigo 34.º tem efeitos imediatos para o fabrico das conservas de peixe e entra em vigor após dois anos, a contar da data da publicação do presente diploma, para as conservas já fabricadas.
 
 § 1.º Aos molhos constituídos pela mistura de azeite e óleo de amendoim, que possam existir em poder dos fabricantes de conservas à data da publicação do presente diploma, é dado o prazo de seis meses para a sua utilização.
 
 § 2.º Para a utilização das embalagens que se encontram litografadas, contràriamente ao estabelecido no presente diploma, é concedido o prazo de seis meses, a contar da publicação deste decreto-lei.
 
-###### Art. 49.º As dúvidas que possam surgir na interpretação do presente diploma e se situem no âmbito da competência do Ministério da Economia serão esclarecidas por despacho do Secretário de Estado do Comércio.
+Art. 49.º As dúvidas que possam surgir na interpretação do presente diploma e se situem no âmbito da competência do Ministério da Economia serão esclarecidas por despacho do Secretário de Estado do Comércio.
 
-###### Art. 50.º São revogadas as seguintes disposições legais: artigos 3.º, 4.º, 7.º e 8.º do [Decreto n.º 17774](https://diariodarepublica.pt/dr/detalhe/decreto/17774-1929-289418), de 18 de Dezembro de 1929; §§ 1.º e 2.º do artigo 37.º do [Decreto-Lei n.º 26777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26777-1936-359352), de 10 de Julho de 1936; [Decreto-Lei n.º 45620](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45620-1964-470796), de 23 de Março de 1964, com excepção do artigo 2.º
+Art. 50.º São revogadas as seguintes disposições legais: artigos 3.º, 4.º, 7.º e 8.º do [Decreto n.º 17774](https://diariodarepublica.pt/dr/detalhe/decreto/17774-1929-289418), de 18 de Dezembro de 1929; §§ 1.º e 2.º do artigo 37.º do [Decreto-Lei n.º 26777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26777-1936-359352), de 10 de Julho de 1936; [Decreto-Lei n.º 45620](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45620-1964-470796), de 23 de Março de 1964, com excepção do artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho - José Luís Esteves da Fonseca.
 

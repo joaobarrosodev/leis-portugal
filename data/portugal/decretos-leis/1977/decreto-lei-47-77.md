@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 31/1977, 2º Suplemento, Série I de 1977-02-07
   number: '31'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 200-(6) a 200-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1977-221746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04af9cd4776277d6a85d10a68be6a7646ed81fe78654c32613cf99cd5b7ba17b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa3c0ac50e68668c14415177dd8f38bfd9a71e9431bea5c50f51fb0f48fa973f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade
+- Empresa
+- Plano Oficial de Contabilidade
 relationships:
 - type: amended_by
   target: pt:dre:658882:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663520:por
+  label: "Alterado o Plano, pelo DEC LEI.27/87.14.01.1987.MF, DR.IS [11] de 14.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1987-663520
+  date: '1987-01-14'
+- type: cites
+  target: pt:dre:232738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390472:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:658882:por
+  label: "Revogado pelo DEC LEI.410/89.21.11.1989.MF, DR.IS [268]Supl de 21.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1989-658882
+  date: '1989-11-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:45Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +125,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É aprovado o Plano Oficial de Contabilidade para as empresas, publicado em anexo.
+Artigo 1.º - 1. É aprovado o Plano Oficial de Contabilidade para as empresas, publicado em anexo.
 
 2. Serão publicados planos sectoriais de diversas actividades de acordo com as respectivas especificidades.
 
 3. O Plano não é aplicável às instituições de crédito e de seguros.
 
-###### Art. 2.º É obrigatória em relação aos exercícios de 1977 e seguintes a elaboração das peças finais constantes do Plano, que adiante se indicam:
+Art. 2.º É obrigatória em relação aos exercícios de 1977 e seguintes a elaboração das peças finais constantes do Plano, que adiante se indicam:
 
 a) Para as empresas públicas e do grupo A da contribuição industrial:
 
@@ -124,7 +145,7 @@ Demonstração dos resultados de exercícios anteriores;
 
 Movimento da conta de resultados líquidos;
 
-## Anexo ao balanço e à demonstração de resultados;
+Anexo ao balanço e à demonstração de resultados;
 
 Demonstração de resultados por funções e seus desenvolvimentos;
 
@@ -136,33 +157,33 @@ Balanço sintético;
 
 Demonstração dos resultados líquidos.
 
-###### Art. 3.º É obrigatória a publicação das seguintes peças finais constantes do Plano pelas empresas públicas e pelas sociedades comerciais anónimas que não revistam a forma de cooperativa:
+Art. 3.º É obrigatória a publicação das seguintes peças finais constantes do Plano pelas empresas públicas e pelas sociedades comerciais anónimas que não revistam a forma de cooperativa:
 
 Balanço analítico;
 
 Demonstração dos resultados líquidos;
 
-## Anexo ao balanço e à demonstração de resultados.
+Anexo ao balanço e à demonstração de resultados.
 
-###### Art. 4.º - 1. É criada a Comissão de Normalização Contabilística, órgão independente, que funcionará, administrativa e financeiramente, no âmbito do Ministério das Finanças.
+Art. 4.º - 1. É criada a Comissão de Normalização Contabilística, órgão independente, que funcionará, administrativa e financeiramente, no âmbito do Ministério das Finanças.
 
 2. As entidades componentes da Comissão serão designadas por portaria do Ministro das Finanças e representarão, à escala nacional, as instituições oficiais e particulares directamente interessadas e tecnicamente mais válidas.
 
 3. À Comissão compete assegurar o funcionamento e aperfeiçoamento da normalização contabilística nacional.
 
-###### Art. 5.º - 1. O Plano será aplicável obrigatoriamente às empresas públicas e com participação maioritária de capitais do sector público, com início no exercício de 1977, podendo a sua adopção ser adiada para o ano económico de 1978, por despacho do Ministro da Tutela, se razões ponderosas devidamente justificadas o aconselharem.
+Art. 5.º - 1. O Plano será aplicável obrigatoriamente às empresas públicas e com participação maioritária de capitais do sector público, com início no exercício de 1977, podendo a sua adopção ser adiada para o ano económico de 1978, por despacho do Ministro da Tutela, se razões ponderosas devidamente justificadas o aconselharem.
 
 2. Para as restantes empresas do grupo A da contribuição industrial, o Plano será obrigatoriamente aplicável a partir de 1 de Janeiro de 1978, salvo nos casos em que, pela natureza das empresas ou características do sector, o pedido de dispensa de tal obrigatoriedade venha a obter despacho favorável do Ministro das Finanças, ouvida a Comissão de Normalização Contabilística.
 
-###### Art. 6.º Quaisquer dúvidas que se levantem na execução deste diploma serão resolvidas por despacho do Ministro das Finanças.
+Art. 6.º Quaisquer dúvidas que se levantem na execução deste diploma serão resolvidas por despacho do Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 2 de Fevereiro de 1977.**
+Promulgado em 2 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PLANO OFICIAL DE CONTABILIDADE
 
@@ -190,7 +211,7 @@ Notas gerais sobre a demonstração de resultados;
 
 Notas específicas sobre a demonstração de resultados;
 
-## Anexo ao balanço e demonstração de resultados;
+Anexo ao balanço e demonstração de resultados;
 
 Código de contas e lista de contas de utilização no Razão Geral;
 
@@ -392,21 +413,21 @@ Demonstração de resultados por natureza
 
 12 - A seriação das contas foi orientada no sentido de possibilitar o fácil cálculo, aproximado, do valor acrescentado. O seguinte conjunto de contas permitirá o conhecimento do valor acrescentado bruto corrente a custo de factores, numa óptica de produção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Por sua vez, o conjunto das restantes rubricas da demonstração de resultados permitirá o desdobramento do valor acrescentado (aproximado) numa óptica de repartição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 13 - A localização das provisões na «Demonstração dos resultados por natureza» tem a seguinte estrutura:
 
 Provisões em geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Provisões para impostos sobre os lucros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Demonstração de resultados por funções
 
@@ -436,7 +457,7 @@ O próprio sector industrial em que a empresa se insere determina necessidades e
 
 16 - Quanto ao conteúdo das linhas e das contas apresentadas nos mapas em causa, fornecem-se algumas indicações que visam facilitar o seu preenchimento, as quais constam do capítulo XI.
 
-## Anexo ao balanço e demonstração de resultados
+Anexo ao balanço e demonstração de resultados
 
 17 - Dado que não é possível obter todas as informações julgadas necessárias através do balanço e da demonstração de resultados por natureza, estabeleceu-se esta peça complementar que se compõe de um conjunto de notas que permitem a explicação ou o desenvolvimento, em certos sentidos, dos elementos daquelas outras peças.
 
@@ -456,7 +477,7 @@ Quadro de contas
 
 20 - As contas estão distribuídas por dez classes, numeradas de 1 a 0, conforme o esquema seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 21 - As contas das classes 1 a 5, bem como as da classe 8, conduzem à construção do balanço. As contas das classes 6 e 7, em conjugação com as existências iniciais e finais, permitem a determinação dos resultados correntes do exercício e a respectiva demonstração. As contas da classe 8 destinam-se a explicitar, por desenvolvimento ou por síntese, os resultados apurados no exercício e, eventualmente, a sua aplicação. Ficam reservadas as classes 9 e 0 à contabilidade interna, analítica, de custos ou de gestão e ao tratamento de outras informações.
 
@@ -482,29 +503,29 @@ Distribuição das contas de sorte a conseguir-se um certo equilíbrio no tratam
 
 III - Balanço analítico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 IV - Balanço sintético
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 V - Demonstração de resultados por natureza
 
 Movimento da conta de resultados líquidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Demonstração dos resultados líquidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Demonstração dos resultados extraordinárias do exercício
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Demonstração dos resultados de exercícios anteriores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 VI - Anexo ao balanço e à demonstração de resultados
 
@@ -588,11 +609,11 @@ Imobilizações implantadas em propriedade alheia;
 
 24 - Movimentos das contas da situação líquida ocorridos no exercício, os quais podem ser explicitados num mapa do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 25 - Movimentos das contas de provisões ocorridos no exercício, os quais podem ser explicitados num mapa do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 26 - Nota descrevendo as responsabilidades da empresa por valores de terceiros que lhe foram confiados (por exemplo, títulos em depósitos, bem como das garantias prestadas ou compromissos assumidos (por exemplo, letras e outros títulos descontados, avales prestados). Esta nota diz respeito às chamadas «contas de ordem», o que implica que não se prevêem lançamentos digráficos para estas contas.
 
@@ -600,37 +621,37 @@ VII - Demonstração de resultados por funções
 
 Demonstração de resultados por funções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Desenvolvimento das vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Desenvolvimento do custo das vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Desenvolvimento dos custos industriais não incorporados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Desenvolvimento dos custos de distribuição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Desenvolvimento dos custos administrativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 VIII - Mapa de origem e aplicação de fundos
 
 Mapa de origem e aplicação de fundos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Variações dos elementos dos fundos circulantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Algumas indicações sobre estes mapas
 
@@ -648,7 +669,7 @@ As provisões devem ser tratadas no segundo grupo.
 
 1.3 - Recomenda-se a elaboração de um mapa de trabalho com a seguinte disposição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 1.4 - As colunas das variações, positivas e negativas, resultam da comparação dos sois balanços, havendo o cuidado de mudar o sinal às diferenças das contas do 2.º membro do balanço (passivo e situação líquida).
 
@@ -668,7 +689,7 @@ As provisões devem ser tratadas no segundo grupo.
 
 IX - Quadro de contas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 X - Código de contas
 
@@ -1840,7 +1861,7 @@ Classe 2 - Terceiros e antecipações
 
 A arrumação das contas desta classe obedeceu à concepção que se apresenta no esquema seguinte, a qual pretendeu atender simultaneamente às diferentes espécies de entidades e às diversas naturezas de operações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 21 Clientes:
 
@@ -1956,7 +1977,7 @@ As verbas creditadas a esta conta, no fim de cada exercício, são calculadas te
 
 O seu movimento poderá seguir uma das alternativas dos esquemas que adiante se indicam a título exemplificativo, a última das quais é a mais consentânea com as necessidades de apresentação de contas ao fisco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 29 Provisões para cobranças duvidosas e outros riscos e encargos:
 
@@ -1964,7 +1985,7 @@ Engloba-se nesta conta a generalidade das provisões, com excepção das respeit
 
 O seu movimento poderá seguir uma das alternativas dos esquemas que adiante se indicam a título exemplificativo, a última das quais é a mais consentânea com as necessidades de apresentação de contas ao fisco:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 2911 Para cobranças duvidosas - Clientes, e
 
@@ -2170,7 +2191,7 @@ Em alternativa, para o débito da conta 48, a empresa poderá creditar as contas
 
 O seu movimento poderá seguir uma das alternativas dos esquemas que adiante se indicam, a título exemplificativo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03102/00060053.pdf)
 
 Classe 5 - Capital, reservas e resultados transitados
 
@@ -2670,4 +2691,4 @@ Quando se trate de elementos construídos ou fabricados pela própria empresa, o
 
 O seu valor corresponde ao custo de aquisição ou ao somatório dos gastos suportados para a obtenção dos respectivos elementos no estado em que se encontrem.
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.

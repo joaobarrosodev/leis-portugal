@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 102/1976, 3º Suplemento, Série I de 1976-04-30
   number: '102'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 956-(35) a 956-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10203/00350053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-e-1976-345537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8957404cfc6f9712b180b79151e8326031bbb0da3b9cd869c8c1691d7bebfd95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 741bcb0f71ea5b4d352e1b9d1502d9ace100a49d4d3a9677f3c4cbd98972a0af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Regional
+- Eleição Regional
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:684261:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310626:por
+  label: "Alterados os arts. 10º, 33º, 35º e 40º, pelo DEC LEI.427-G/76.01.06.1976.PCM, DR.IS [128]3ºSupl de 01.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-g-1976-310626
+  date: '1976-06-01'
+- type: amended_by
+  target: pt:dre:626985:por
+  label: "Atribuídas ao Tribunal Constitucional, em plenário, as competências da Comissão Nacional de Eleições previstas no\
+    \ n.º 2 do artigo 12.º e ao Tribunal Constitucional as competências dos tribunais da relação previstas no n.º 1 do artigo\
+    \ 26.º, artigos 28.º e 29.º e n.º 1 do artigo 111.º pela LEI.28/82.15.11.1982.AR, DR.IS [264-Supl] de 15.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-1982-626985
+  date: '1982-11-15'
+- type: amended_by
+  target: pt:dre:376818:por
+  label: "Alterado o art. 77.º pela LEI.93/88.1988.08.16.AR DR.IS [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/93-1988-376818
+  date: '1988-08-16'
+- type: amended_by
+  target: pt:dre:281820:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral da norma do nº 2 do art. 2º da Lei Eleitoral da Assembleia\
+    \ Legislativa Regional da Madeira pelo AC.199/2000.2000.03.29.TCS,DR.IS-A [101] de 02.05.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/199-2000-281820
+  date: '2000-03-29'
+- type: amended_by
+  target: pt:dre:303579:por
+  label: "Alterado o art. 2.º pela LEI.11/2000.2000.06.21.AR DR.IS-A [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2000-303579
+  date: '2000-06-21'
+- type: amended_by
+  target: pt:dre:515638:por
+  label: "Aditados os arts 76º-A, 76º-B e 76º-C ao presente diploma pela LEI ORG.2/2001.25.08.2001.AR, DR.IS-A [197] de 25.08.2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2001-515638
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:507437:por
+  label: "Alterado o art. 76º-A, introduzido pela Lei Org 2/2001 de 25-Ago, e aditado o art. 76º-D, ambos pela LEI ORG.3/2004.22.07.2004.AR,\
+    \ DR.IS-A [171] de 22.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2004-507437
+  date: '2004-07-22'
+- type: cites
+  target: pt:dre:144447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:684261:por
+  label: "Revogado pela LEI ORG.1/2006.13.02.2006.AR, DR.IS-A [31] de 13.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2006-684261
+  date: '2006-02-13'
 article_structure:
   article_count: 0
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:30Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +242,7 @@ A conversão dos votos em mandatos far-se-á em obediência às seguintes regras
 
 ###### ARTIGO 10.º — (Marcação da eleição)
 
-**O Presidente da República marcará a data da eleição dos Deputados à Assembleia Regional com a antecedência mínima de cinquenta e cinco dias.**
+O Presidente da República marcará a data da eleição dos Deputados à Assembleia Regional com a antecedência mínima de cinquenta e cinco dias.
 
 ### CAPÍTULO II — Apresentação de candidaturas
 
@@ -1136,7 +1208,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 ###### ARTIGO 144.º — (Recusa de receber reclamações, protestos ou contraprotestos)
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.
 
 ###### ARTIGO 145.º — (Obstrução dos candidatos ou dos delegados das listas)
 
@@ -1218,8 +1290,8 @@ Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo 
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 30 de Abril de 1976.**
+Promulgado em 30 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

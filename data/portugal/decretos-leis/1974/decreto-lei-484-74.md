@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/22500/11401140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1974-473329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5ed26b242d7fdbecf84bd7a5a3d5c6835ddccc6f9ea0cc9b496d8cb46fbb956
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3da3dafad3e523674ef9370263419253ab16d28e8b6b0d3f761379a7e64e9087
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão para a Reintegração dos Servidores do Estado
+- Gratificação
+- Pagamento
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476345:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:12Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +116,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O presidente da comissão a que se refere o artigo 1.º do [Decreto n.º 304/74](https://diariodarepublica.pt/dr/detalhe/decreto/304-1974-476345), de 6 de Julho, terá direito à gratificação mensal de 4000$00, percebendo os vogais da mesma comissão a gratificação mensal de 3000$00.
+Artigo 1.º O presidente da comissão a que se refere o artigo 1.º do [Decreto n.º 304/74](https://diariodarepublica.pt/dr/detalhe/decreto/304-1974-476345), de 6 de Julho, terá direito à gratificação mensal de 4000$00, percebendo os vogais da mesma comissão a gratificação mensal de 3000$00.
 
-###### Art. 2.º - 1. As pessoas que desempenharem funções de secretários da comissão de reintegração serão gratificados com 1500$00 mensais.
+Art. 2.º - 1. As pessoas que desempenharem funções de secretários da comissão de reintegração serão gratificados com 1500$00 mensais.
 
 2. Se for necessário agregar à comissão mais pessoal, este terá direito a perceber as seguintes gratificações:
 
@@ -109,18 +126,18 @@ a) Os funcionários que prestem serviço em Ministério diferente daquele em que
 
 b) Os funcionários da Presidência do Conselho agregados à comissão perceberão a gratificação mensal de 500$00.
 
-###### Art. 3.º As gratificações e abonos estabelecidos no presente diploma não prejudicam os vencimentos e abonos dos funcionários a quem forem atribuídos, ficando desde já autorizada a sua acumulação sem mais formalidades.
+Art. 3.º As gratificações e abonos estabelecidos no presente diploma não prejudicam os vencimentos e abonos dos funcionários a quem forem atribuídos, ficando desde já autorizada a sua acumulação sem mais formalidades.
 
-###### Art. 4.º A todos os funcionários em serviço ou agregados à comissão a que se refere este diploma serão abonadas, quando for caso disso, as ajudas de custo e as remunerações por horas extraordinárias a que tenham direito nos termos da lei geral.
+Art. 4.º A todos os funcionários em serviço ou agregados à comissão a que se refere este diploma serão abonadas, quando for caso disso, as ajudas de custo e as remunerações por horas extraordinárias a que tenham direito nos termos da lei geral.
 
-###### Art. 5.º As remunerações previstas no presente diploma são devidas desde a data da posse dos membros da comissão e a partir do despacho de designação, nos restantes casos.
+Art. 5.º As remunerações previstas no presente diploma são devidas desde a data da posse dos membros da comissão e a partir do despacho de designação, nos restantes casos.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 19 de Setembro de 1974.**
+Promulgado em 19 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

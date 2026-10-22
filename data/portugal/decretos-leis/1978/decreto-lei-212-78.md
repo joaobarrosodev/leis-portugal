@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/17200/15281528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1978-297036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9df999645b2998b2b098525e3eee8acd4ad0ef893fae62cfcc17123d43cf0f46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2f9129a97595daa2b80747e1fe1fc730aa1061619999457e83111e7da25813d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Comando Aéreo dos Açores
+- Orgânica
+- ZONA Aérea dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:657447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657447:por
+  label: "Revogado pelo DEC LEI.51/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1993-657447
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:28Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +109,7 @@ Considerando a necessidade de reorganizar com a finalidade de um melhor aproveit
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a Zona Aérea dos Açores, criada pelo [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 42074, de 31 de Dezembro de 1958, e 44724, de 24 de Novembro de 1962, e criado o Comando Aéreo dos Açores, cujo comandante, brigadeiro piloto aviador, acumula as suas funções com as de comandante da Base Aérea n.º 4, e terá a seu cargo:
+Artigo 1.º É extinta a Zona Aérea dos Açores, criada pelo [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 42074, de 31 de Dezembro de 1958, e 44724, de 24 de Novembro de 1962, e criado o Comando Aéreo dos Açores, cujo comandante, brigadeiro piloto aviador, acumula as suas funções com as de comandante da Base Aérea n.º 4, e terá a seu cargo:
 
 1) O comando superior de todas as unidades e órgãos da Força Aérea no arquipélago dos Açores;
 
@@ -104,18 +117,18 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 3) Estabelecer a ligação entre a Força Aérea Portuguesa e o Comando das Forças da Força Aérea dos Estados Unidos da América nos Açores, no âmbito dos acordos em vigor, dando conhecimento ao comandante-chefe das Forças Armadas dos assuntos que, pela sua importância ou incidências nas atribuições de Carta de Comando, lhe possam interessar.
 
-###### Art. 2.º Compete ao conselho administrativo da Base Aérea n.º 4 apoiar, no âmbito das suas atribuições regulamentares, todos os órgãos da Força Aérea existentes no arquipélago dos Açores.
+Art. 2.º Compete ao conselho administrativo da Base Aérea n.º 4 apoiar, no âmbito das suas atribuições regulamentares, todos os órgãos da Força Aérea existentes no arquipélago dos Açores.
 
-###### Art. 3.º É criada, com carácter transitório, uma comissão liquidatária do conselho administrativo do Comando da Zona Aérea dos Açores, cuja constituição será definida por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 3.º É criada, com carácter transitório, uma comissão liquidatária do conselho administrativo do Comando da Zona Aérea dos Açores, cuja constituição será definida por despacho do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 4.º O quadro orgânico do Comando Aéreo dos Açores será estabelecido por portaria do Chefe do Estado-Maior da Força Aérea.
+Art. 4.º O quadro orgânico do Comando Aéreo dos Açores será estabelecido por portaria do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 5.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas globais atribuídas à Força Aérea.
+Art. 5.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas globais atribuídas à Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 12 de Julho de 1978.
 
-**Promulgado em 18 de Julho de 1978.**
+Promulgado em 18 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

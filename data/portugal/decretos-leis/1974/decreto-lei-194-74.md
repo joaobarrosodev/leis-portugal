@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1974-623006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21e72025aa31dc68f7ca961a12ffd8e3e6b740389b9a70d6649e61af4493f75d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d510fffcba1ffbbade15a3976f35037ee3968584cd74653b8ea43e5812a7900
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Código de Justiça Militar
+- Justiça Militar
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:08Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +99,13 @@ Convindo reajustar o regime da prisão preventiva no foro militar e simplificar 
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São amnistiados todos os crimes essencialmente militares e militares, praticados até ao dia 25 de Abril, exclusive, a que não caiba pena superior à de presídio militar de seis anos e um dia a oito anos, ou equivalente.
+Artigo 1.º - 1. São amnistiados todos os crimes essencialmente militares e militares, praticados até ao dia 25 de Abril, exclusive, a que não caiba pena superior à de presídio militar de seis anos e um dia a oito anos, ou equivalente.
 
 2. São amnistiadas todas as infracções disciplinares militares praticadas até à mesma data.
 
-###### Art. 2.º A amnistia não prejudica a responsabilidade civil emergente dos factos delituosos praticados, nem compreende a anulação dos efeitos das penas, se já verificados, tais como transferência, mudança de quadro, baixa de posto ou de serviço, eliminação, demissão, reforma e descida na escala de antiguidade.
+Art. 2.º A amnistia não prejudica a responsabilidade civil emergente dos factos delituosos praticados, nem compreende a anulação dos efeitos das penas, se já verificados, tais como transferência, mudança de quadro, baixa de posto ou de serviço, eliminação, demissão, reforma e descida na escala de antiguidade.
 
-###### Art. 3.º - 1. Quando haja lugar a prisão preventiva, o arguido pode ser solto desde que:
+Art. 3.º - 1. Quando haja lugar a prisão preventiva, o arguido pode ser solto desde que:
 
 a) À infracção por que é arguido não caiba pena superior à de presídio militar de seis anos e um dia a oito anos, ou equivalente;
 
@@ -107,9 +115,9 @@ b) Não seja inconveniente a sua soltura, considerando a sua perigosidade ou fun
 
 3. Ao arguido, solto nos termos do n.º 1, que haja cumprido o tempo de serviço obrigatório, poderá ser concedida licença registada até à decisão final do processo, com a obrigação de se apresentar quando for ordenada a sua comparência para qualquer acto judicial, sob pena da aplicação do § único do artigo 463.º do Código de Justiça Militar.
 
-###### Art. 4.º Os artigos 429.º e 457.º do Código de Justiça Militar passam a ter a seguinte redacção:
+Art. 4.º Os artigos 429.º e 457.º do Código de Justiça Militar passam a ter a seguinte redacção:
 
-###### Art. 429.º ...
+Art. 429.º ...
 
 1.º Quando o facto ou factos constantes dos autos constituírem crime previsto nas leis militares ou comuns, ordenar o prosseguimento do processo, salvo os casos previstos no n.º 6.º deste preceito e no § 1.º do artigo 6.º;
 
@@ -119,20 +127,20 @@ b) Não seja inconveniente a sua soltura, considerando a sua perigosidade ou fun
 
 ...
 
-###### Art. 457.º ...
+Art. 457.º ...
 
 ...
 
 3.º Se entender, de acordo com o parecer do auditor, que a acção penal está extinta, assim o declarará por despacho nos autos, ordenando que o processo seja arquivado.
 
-###### Art. 5.º Para aplicação em processo disciplinar militar da amnistia constante do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), é competente uma comissão provisória nomeada pelo Presidente da Junta de Salvação Nacional e deste dependente.
+Art. 5.º Para aplicação em processo disciplinar militar da amnistia constante do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), é competente uma comissão provisória nomeada pelo Presidente da Junta de Salvação Nacional e deste dependente.
 
-###### Art. 6.º Este decreto-lei entra imediatamente em vigor.
+Art. 6.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 10 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado em todos os «Boletins Oficiais» dos Estados de Angola e Moçambique e províncias ultramarinas.

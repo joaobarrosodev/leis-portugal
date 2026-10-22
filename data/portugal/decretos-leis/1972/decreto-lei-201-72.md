@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/06/14100/07900796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41af806349a73a17f827a0d37533c31181dd57f59a32f5abf549bdb1480b5611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f030f2f8c6e56416e82d37cae1c6aa4aaeab7a400d61330f9cb2c87facfe52d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Ministério da Educação Nacional
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:665343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:685012:por
+  label: "Acrescentado ao quadro único referido no nº 3 do art. 22º, o pessoal (administrativo e auxiliar) constante do anexo\
+    \ II do DEC LEI.46/73.12.02.1973.MEN, DG.IS [36] de 12.02.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1973-685012
+  date: '1973-02-12'
+- type: amended_by
+  target: pt:dre:684799:por
+  label: "Acrescentado ao quadro único referido no nº 3 do art. 22º o quadro do Instituto de Tecnologia Educativa referido\
+    \ no art. 21º e publicado em anexo ao DEC LEI.71/73.27.02.1973.MEN, DG.IS [71] de 27.02.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1973-684799
+  date: '1973-02-27'
+- type: amended_by
+  target: pt:dre:684451:por
+  label: "Acrescentado ao quadro de pessoal único referido no nº 3 do art. 22º o quadro de pessoal referido no nº 2 do art.\
+    \ 14º e constante do mapa II anexo ao DEC LEI.82/73.03.03.1973.MEN, DG.IS [53] de 03.03.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1973-684451
+  date: '1973-03-03'
+- type: amended_by
+  target: pt:dre:431009:por
+  label: "Aditado um n.º 3 ao art. 7.º pelo DEC LEI.648/76.1976.07.31.MEIC DR.IS [178] de 31.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/648-1976-431009
+  date: '1976-07-31'
+- type: amended_by
+  target: pt:dre:141634:por
+  label: "Alterado o art. 24.º e aditado o n.º 4 ao art. 27.º, pelo DEC.20/77.1977.02.24.MAI DR.IS [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/20-1977-141634
+  date: '1977-02-24'
+- type: amended_by
+  target: pt:dre:277098:por
+  label: Integrado o pessoal da Assessoria Jurídica da Junta de Investigações Científicas do Ultamar (JICU) na Secretaria-Geral
+    do Ministério da Educação e Investigação Científica e alterados os quadros I e II anexos pelo(a) Portaria n.º 651/77 -
+    Diário da República n.º 242/1977, Série I de 1977-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/651-1977-277098
+  date: '1977-10-19'
+- type: amended_by
+  target: pt:dre:279611:por
+  label: Aumentado o quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação
+    e Investigação Científica, constante do mapa I anexo ao presente diploma, pelo(a) Portaria n.º 748/77 - Diário da República
+    n.º 286/1977, Série I de 1977-12-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/748-1977-279611
+  date: '1977-12-13'
+- type: cites
+  target: pt:dre:445908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665343:por
+  label: "Revogado pelo DEC LEI.134/93.1993.04.26.ME DR.IS-A [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1993-665343
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:53Z'
   warnings: []
   errors: []
 ---
@@ -128,9 +188,9 @@ Reorganização da Secretaria-Geral do Ministério da Educação Nacional
 
 ### CAPÍTULO I — Das atribuições e competência
 
-###### Artigo 1.º É reorganizada, nos termos do presente diploma, a Secretaria-Geral do Ministério da Educação Nacional, que adiante se designará, abreviadamente, por Secretaria-Geral.
+Artigo 1.º É reorganizada, nos termos do presente diploma, a Secretaria-Geral do Ministério da Educação Nacional, que adiante se designará, abreviadamente, por Secretaria-Geral.
 
-###### Art. 2.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo do Ministério da Educação Nacional, e incumbe-lhe essencialmente:
+Art. 2.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo do Ministério da Educação Nacional, e incumbe-lhe essencialmente:
 
 a) Colaborar com os órgãos da Presidência do Conselho e de outros departamentos no estudo e execução das providências de âmbito geral pertinentes à reforma administrativa;
 
@@ -142,7 +202,7 @@ d) Desempenhar funções de utilidade comum aos diversos serviços centrais do M
 
 e) Assegurar as relações exteriores do Ministério da Educação Nacional, sem prejuízo da competência do Instituto de Alta Cultura, e em articulação com os serviços respectivos do Ministério dos Negócios Estrangeiros.
 
-###### Art. 3.º Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Secretaria-Geral:
+Art. 3.º Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Secretaria-Geral:
 
 a) Promover a aplicação, relativamente aos serviços centrais do Ministério da Educação Nacional e organismos dele dependentes, das providências de ordem geral que, pelo Governo, sejam aprovadas no sentido da gradual realização da reforma administrativa;
 
@@ -166,15 +226,15 @@ j) Tomar a seu cargo a guarda, conservação e administração dos edifícios oc
 
 l) Transmitir aos serviços do Ministério e organismos dele dependentes as normas e instruções genéricas emanadas da Presidência do Conselho e dos membros do Governo referidos na alínea d).
 
-###### Art. 4.º A Secretaria-Geral desempenhará as suas funções em estreita ligação e cooperação com a Secretaria-Geral da Presidência do Conselho e com as secretarias-gerais dos outros Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
+Art. 4.º A Secretaria-Geral desempenhará as suas funções em estreita ligação e cooperação com a Secretaria-Geral da Presidência do Conselho e com as secretarias-gerais dos outros Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
 
-###### Art. 5.º - 1. Compete ao secretário-geral superintender em todos os serviços da Secretaria-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
+Art. 5.º - 1. Compete ao secretário-geral superintender em todos os serviços da Secretaria-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
 
 2. O secretário-geral poderá receber do Ministro da Educação Nacional delegação de competência para despachar assuntos relativos às funções de administração geral que pertençam à Secretaria-Geral ou aos outros serviços centrais do Ministério.
 
 3. Para efeitos do disposto no número anterior, consideram-se funções de administração geral as que respeitem à gestão do pessoal, do material, dos recursos orçamentais e outras que constituam simples meio de permitir o exercício das atribuições específicas.
 
-###### Art. 6.º - 1. O secretário-geral é coadjuvado por dois adjuntos, que exercerão as funções que por aquele lhes sejam confiadas.
+Art. 6.º - 1. O secretário-geral é coadjuvado por dois adjuntos, que exercerão as funções que por aquele lhes sejam confiadas.
 
 2. O secretário-geral designará o adjunto que o deverá substituir nas suas faltas e impedimentos.
 
@@ -182,7 +242,7 @@ l) Transmitir aos serviços do Ministério e organismos dele dependentes as norm
 
 #### SECÇÃO I — Dos serviços em geral
 
-###### Art. 7.º - 1. A Secretaria-Geral compreende os seguintes serviços:
+Art. 7.º - 1. A Secretaria-Geral compreende os seguintes serviços:
 
 a) Divisão de Pessoal;
 
@@ -202,7 +262,7 @@ g) Repartição de Administração-Geral.
 
 #### SECÇÃO II — Dos serviços da Secretaria-Geral
 
-###### Art. 8.º Compete especialmente à Divisão de Pessoal:
+Art. 8.º Compete especialmente à Divisão de Pessoal:
 
 a) Efectuar os estudos de base relativos aos regimes de pessoal em vigor e das reformas que for conveniente introduzir-lhes;
 
@@ -214,7 +274,7 @@ d) Promover o estudo e resolução dos problemas de relações humanas;
 
 e) Ocupar-se do recrutamento, provimento, colocação, transferência, exoneração e quaisquer outros assuntos relativos à gestão do pessoal dos quadros únicos dos serviços centrais do Ministério.
 
-###### Art. 9.º Compete especialmente à Divisão de Organização:
+Art. 9.º Compete especialmente à Divisão de Organização:
 
 a) Promover o estudo e divulgação dos princípios e técnicas de organização e métodos;
 
@@ -224,7 +284,7 @@ c) Proceder aos estudos preparatórios relativos à utilização da informática
 
 d) Colaborar nos estudos e diligências tendentes à racionalização da instalação e do equipamento dos serviços.
 
-###### Art. 10.º - 1. Compete especialmente à Divisão de Documentação:
+Art. 10.º - 1. Compete especialmente à Divisão de Documentação:
 
 a) Manter actualizado um Centro de Documentação com a função de recolher bibliografia, documentação, textos e demais elementos de informação relativos a assuntos de natureza educativa e administrativa, de interesse para os serviços centrais do Ministério;
 
@@ -238,7 +298,7 @@ c) Promover a publicação de Anais e do Boletim Oficial do Ministério e de out
 
 4. Funciona nesta Divisão o serviço de publicações do Ministério da Educação Nacional.
 
-###### Art. 11.º - 1. Compete especialmente à Divisão de Estatística:
+Art. 11.º - 1. Compete especialmente à Divisão de Estatística:
 
 a) Proceder à prospecção, recolha, tratamento e síntese dos elementos de informação de índole quantitativa que sirvam de base a trabalhos ou estudos de interesse para a educação;
 
@@ -246,7 +306,7 @@ b) Organizar e manter em dia os ficheiros, registos e arquivos necessários à i
 
 2. No exercício das suas funções, a Divisão de Estatística actuará em estreita ligação com o Gabinete de Estudos e Planeamento e prestará apoio à Comissão Consultiva de Estatística do Ministério, que funcionará na Secretaria-Geral.
 
-###### Art. 12.º - 1. Compete especialmente ao Centro de Informação e Relações Públicas:
+Art. 12.º - 1. Compete especialmente ao Centro de Informação e Relações Públicas:
 
 a) Promover a divulgação de actividades de interesse para a educação, exercendo permanente acção informativa junto do público em geral;
 
@@ -262,7 +322,7 @@ f) Manter actualizada ampla documentação sobre a estrutura escolar, cultural, 
 
 2. O Centro de Informação e Relações Públicas será dirigido por um chefe de divisão.
 
-###### Art. 13.º - 1. Compete especialmente à Divisão de Relações Exteriores:
+Art. 13.º - 1. Compete especialmente à Divisão de Relações Exteriores:
 
 a) Coordenar e assegurar as relações do Ministério da Educação Nacional com os organismos internacionais e as entidades estrangeiras, públicas ou privadas, e, em particular, preparar as reuniões que derivam destas relações;
 
@@ -274,7 +334,7 @@ c) Realizar estudos de educação comparada.
 
 3. O disposto no n.º 1 entende-se sem prejuízo das atribuições especificas do Instituto de Alta Cultura.
 
-###### Art. 14.º - 1. Compete especialmente à Repartição de Administração Geral:
+Art. 14.º - 1. Compete especialmente à Repartição de Administração Geral:
 
 a) Assegurar o expediente dos Gabinetes do Ministro e dos membros do Governo que o coadjuvam e colaborar na organização dos respectivos arquivos;
 
@@ -296,7 +356,7 @@ h) Colaborar com os serviços competentes, designadamente com os do Ministério 
 
 #### SECÇÃO III — Do Conselho dos Directores-Gerais
 
-###### Art. 15.º - 1. O Conselho dos Directores-Gerais é um órgão de coordenação, ao qual incumbe coadjuvar o Ministro na harmonização e conjugação das actividades dos diversos órgãos e serviços do Ministério.
+Art. 15.º - 1. O Conselho dos Directores-Gerais é um órgão de coordenação, ao qual incumbe coadjuvar o Ministro na harmonização e conjugação das actividades dos diversos órgãos e serviços do Ministério.
 
 2. No desempenho da sua função coordenadora compete especialmente ao Conselho:
 
@@ -310,21 +370,21 @@ d) Pronunciar-se sobre os programas anuais de todos os serviços centrais do Min
 
 e) Formular, por sua iniciativa, propostas ou sugestões sobre quaisquer assuntos da sua competência.
 
-###### Art. 16.º - 1. O Conselho é presidido pelo Ministro e tem como vice-presidente o secretário-geral do Ministério.
+Art. 16.º - 1. O Conselho é presidido pelo Ministro e tem como vice-presidente o secretário-geral do Ministério.
 
 2. São vogais permanentes do Conselho os directores-gerais do Ministério, os presidentes ou directores do Instituto de Alta Cultura, do Gabinete de Estudos e Planeamento, do instituto de Acção Social Escolar, do Instituto de Tecnologia Educativa e do Secretariado para a Juventude e o inspector-geral do Ensino Particular.
 
 3. Para qualquer reunião do Conselho podem ser convocados funcionários de outras categorias, com especial qualificação nos assuntos a tratar.
 
-###### Art. 17.º - 1. O Conselho funciona em reuniões plenárias ou restritas.
+Art. 17.º - 1. O Conselho funciona em reuniões plenárias ou restritas.
 
 2. Exercerá as funções de secretário do conselho, sem voto, um dos funcionários da Secretaria-Geral.
 
-###### Art. 18.º O regulamento do Conselho será aprovado por portaria do Ministro da Educação Nacional.
+Art. 18.º O regulamento do Conselho será aprovado por portaria do Ministro da Educação Nacional.
 
 #### SECÇÃO IV — Da Auditoria Jurídica
 
-###### Art. 19.º Compete especialmente à Auditoria Jurídica:
+Art. 19.º Compete especialmente à Auditoria Jurídica:
 
 a) Emitir os pareceres e elaborar os estudos jurídicos que lhe sejam determinados pelo Ministro e pelos membros do Governo que o coadjuvam;
 
@@ -334,13 +394,13 @@ c) Prestar à Secretaria-Geral e aos outros serviços centrais o apoio que lhe f
 
 d) Organizar e instruir os processos de inquérito e disciplinares nos serviços e organismos dependentes do Ministério que lhe forem determinados pelo Ministro.
 
-###### Art. 20.º A Auditoria Jurídica é dirigida por um procurador da República, designado nos termos da lei.
+Art. 20.º A Auditoria Jurídica é dirigida por um procurador da República, designado nos termos da lei.
 
-###### Art. 21.º Poderá ser adstrito à Auditoria Jurídica o pessoal da Secretaria-Geral que for necessário ao exercício das respectivas funções.
+Art. 21.º Poderá ser adstrito à Auditoria Jurídica o pessoal da Secretaria-Geral que for necessário ao exercício das respectivas funções.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 22.º - 1. A Secretaria-Geral tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 22.º - 1. A Secretaria-Geral tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2. A Secretaria-Geral disporá ainda de pessoal administrativo, técnico auxiliar e auxiliar constante do mapa II anexo ao presente decreto-lei.
 
@@ -350,11 +410,11 @@ d) Organizar e instruir os processos de inquérito e disciplinares nos serviços
 
 5. O pessoal da Secretaria-Geral será distribuído pelos respectivos serviços mediante despacho do secretário-geral.
 
-###### Art. 23.º - 1. O lugar de secretário-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior e de reconhecida competência, ou inspectores-gerais da Junta Nacional da Educação.
+Art. 23.º - 1. O lugar de secretário-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior e de reconhecida competência, ou inspectores-gerais da Junta Nacional da Educação.
 
 2. O provimento no lugar de secretário-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.
 
-###### Art. 24.º - 1. Os lugares de adjunto do secretário-geral, chefe de divisão, técnico de 3.ª e de 2.ª classes, serão providos por escolha do Ministro, de entre diplomados com curso superior apropriado.
+Art. 24.º - 1. Os lugares de adjunto do secretário-geral, chefe de divisão, técnico de 3.ª e de 2.ª classes, serão providos por escolha do Ministro, de entre diplomados com curso superior apropriado.
 
 2. Os juristas de 2.ª classe serão providos, por escolha do Ministro, sob proposta do secretário-geral, de entre licenciados em Direito.
 
@@ -362,19 +422,19 @@ d) Organizar e instruir os processos de inquérito e disciplinares nos serviços
 
 4. O lugar de chefe de repartição será provido por escolha do Ministro, ouvido o Conselho dos Directores-Gerais, de entre diplomados com curso superior ou de entre os chefes de secção do quadro único do Ministério ou, na falta destes, de outros serviços públicos, num e noutro caso com mais de cinco anos de bom e efectivo serviço.
 
-###### Art. 25.º O provimento dos lugares de técnico e de jurista de 1.ª classe far-se-á por promoção entre os técnicos e juristas de 2.ª classe, respectivamente, segundo regime a definir por despacho do Ministro da Educação Nacional, ouvidos os Serviços da Reforma Administrativa da Presidência do Conselho.
+Art. 25.º O provimento dos lugares de técnico e de jurista de 1.ª classe far-se-á por promoção entre os técnicos e juristas de 2.ª classe, respectivamente, segundo regime a definir por despacho do Ministro da Educação Nacional, ouvidos os Serviços da Reforma Administrativa da Presidência do Conselho.
 
-###### Art. 26.º - 1. As nomeações para os cargos a que se refere o artigo 24.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
+Art. 26.º - 1. As nomeações para os cargos a que se refere o artigo 24.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
 
 2. Findo o período inicial, ou a sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, e exonerado no caso contrário.
 
-###### Art. 27.º - 1. Se a nomeação para qualquer dos cargos referidos no artigo anterior recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
+Art. 27.º - 1. Se a nomeação para qualquer dos cargos referidos no artigo anterior recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
 
 2. Verificando-se a prorrogação, considera-se aberta a vaga no quadro donde proceda o funcionário, podendo este, no entanto, regressar ao mesmo quadro, a seu pedido, desde que se encontre vago o cargo que desempenhava ou outro de categoria equivalente.
 
 3. Se a comissão cessar por decisão ministerial e não existir vaga onde o funcionário possa ser provido, ser-lhe-ão abonados, por conta da Secretaria-Geral, os vencimentos a que tiver direito no quadro de origem, até que nele reingresse; entretanto, o funcionário nessa situação prestará serviço em qualquer organismo dependente do Ministério da Educação Nacional ou do Ministério donde proveio.
 
-###### Art. 28.º - 1. Os lugares de chefe de secção serão providos por escolha do Ministro, ouvido o Conselho dos Directores-Gerais, de entre os primeiros-oficiais, desde que tenham mais de três anos de bom e efectivo serviço, ou de entre diplomados com curso superior, mas neste último caso a nomeação será feita, conforme as circunstâncias, nos termos do artigo 26.º ou do artigo 27.º do presente diploma.
+Art. 28.º - 1. Os lugares de chefe de secção serão providos por escolha do Ministro, ouvido o Conselho dos Directores-Gerais, de entre os primeiros-oficiais, desde que tenham mais de três anos de bom e efectivo serviço, ou de entre diplomados com curso superior, mas neste último caso a nomeação será feita, conforme as circunstâncias, nos termos do artigo 26.º ou do artigo 27.º do presente diploma.
 
 2. O provimento dos primeiros-oficiais e segundos-oficiais será feito, mediante concurso de prestação de provas, de entre os funcionários da categoria imediatamente inferior.
 
@@ -382,9 +442,9 @@ d) Organizar e instruir os processos de inquérito e disciplinares nos serviços
 
 4. Ao provimento e promoção das telefonistas será aplicável o regime estabelecido no [Decreto-Lei n.º 116/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1971-445908), de 2 de Abril.
 
-###### Art. 29.º Nos concursos de promoção para os lugares de que trata o artigo anterior atender-se-á não só ao resultado das provas prestadas, mas também à classificação de serviço e à antiguidade, conforme critérios aprovados por despacho do Ministro da Educação Nacional, ouvidos os Serviços da Reforma Administrativa da Presidência do Conselho.
+Art. 29.º Nos concursos de promoção para os lugares de que trata o artigo anterior atender-se-á não só ao resultado das provas prestadas, mas também à classificação de serviço e à antiguidade, conforme critérios aprovados por despacho do Ministro da Educação Nacional, ouvidos os Serviços da Reforma Administrativa da Presidência do Conselho.
 
-###### Art. 30.º Para o provimento dos lugares abaixo designados, de livre escolha do Ministro, serão exigíveis as habilitações mínimas estabelecidas no Decreto-lei n.º 49410, de 24 de Novembro de 1969, tendo preferência as seguintes:
+Art. 30.º Para o provimento dos lugares abaixo designados, de livre escolha do Ministro, serão exigíveis as habilitações mínimas estabelecidas no Decreto-lei n.º 49410, de 24 de Novembro de 1969, tendo preferência as seguintes:
 
 a) Técnico auxiliar contabilista e técnico auxiliar de programação - cursos de formação apropriados das escolas técnicas, com preferência pelos diplomados pelos institutos comerciais;
 
@@ -396,17 +456,17 @@ d) Desenhador - cursos de formação apropriados das escolas técnicas;
 
 e) Chefe de oficinas - curso de formação das escolas industriais.
 
-###### Art. 31.º O pessoal auxiliar será provido nos termos da lei geral.
+Art. 31.º O pessoal auxiliar será provido nos termos da lei geral.
 
-###### Art. 32.º O provimento dos cargos não abrangidos pelos artigos anteriores será feito de acordo com as normas gerais em vigor.
+Art. 32.º O provimento dos cargos não abrangidos pelos artigos anteriores será feito de acordo com as normas gerais em vigor.
 
-###### Art. 33.º Funcionará na Secretaria-Geral um conselho de classificação dos funcionários dos serviços centrais do Ministério, cuja constituição e funções serão fixadas por despacho do Ministro da Educação Nacional, ouvidos os Serviços da Reforma Administrativa da Presidência do Conselho.
+Art. 33.º Funcionará na Secretaria-Geral um conselho de classificação dos funcionários dos serviços centrais do Ministério, cuja constituição e funções serão fixadas por despacho do Ministro da Educação Nacional, ouvidos os Serviços da Reforma Administrativa da Presidência do Conselho.
 
-###### Art. 34.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 34.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 35.º - 1. O secretário-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Secretaria-Geral.
+Art. 35.º - 1. O secretário-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Secretaria-Geral.
 
 2. A duração, termos e remunerações dos contratos de prestação de serviço, bem como dos estudos, inquéritos e trabalhos de carácter eventual, previstos no n.º 1, serão estabelecidos por despacho do Ministro da Educação Nacional.
 
@@ -414,46 +474,46 @@ e) Chefe de oficinas - curso de formação das escolas industriais.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 36.º As disposições constantes do presente diploma relativas ao pessoal da Secretaria-Geral serão directamente aplicáveis ao pessoal dos serviços centrais do Ministério, à medida que os mesmos forem sendo reorganizados, sem prejuízo de os seus diplomas orgânicos estabelecerem normas privativas para casos ou situações não previstos neste decreto-lei.
+Art. 36.º As disposições constantes do presente diploma relativas ao pessoal da Secretaria-Geral serão directamente aplicáveis ao pessoal dos serviços centrais do Ministério, à medida que os mesmos forem sendo reorganizados, sem prejuízo de os seus diplomas orgânicos estabelecerem normas privativas para casos ou situações não previstos neste decreto-lei.
 
-###### Art. 37.º Para efeitos do presente diploma, consideram-se serviços centrais os órgãos e serviços permanentes da administração central do Ministério referidos no artigo 4.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 37.º Para efeitos do presente diploma, consideram-se serviços centrais os órgãos e serviços permanentes da administração central do Ministério referidos no artigo 4.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
-###### Art. 38.º - 1. É extinto o Centro de Documentação Pedagógica do Gabinete de Estudos e Planeamento da Acção Educativa e transitam para a Secretaria-Geral os serviços que nele se ocupam de estatística, relações internacionais, estudos administrativos, publicações e gabinete de imprensa.
+Art. 38.º - 1. É extinto o Centro de Documentação Pedagógica do Gabinete de Estudos e Planeamento da Acção Educativa e transitam para a Secretaria-Geral os serviços que nele se ocupam de estatística, relações internacionais, estudos administrativos, publicações e gabinete de imprensa.
 
 2. É transferido para a Secretaria-Geral o material do Gabinete de Estudos e Planeamento da Acção Educativa afecto aos serviços e actividades referidos no número antecedente.
 
 3. Até à criação do Instituto Nacional de Pedagogia compete à Divisão de Documentação da Secretaria-Geral assegurar o funcionamento do Centro de Documentação Pedagógica.
 
-###### Art. 39.º - 1. Os actuais funcionários da Secretaria-Geral serão providos em lugares idênticos, ou de categoria equivalente, dos mapas anexos ao presente diploma, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, observando-se no provimento do lugar de secretário-geral o disposto no n.º 2 do artigo 23.º
+Art. 39.º - 1. Os actuais funcionários da Secretaria-Geral serão providos em lugares idênticos, ou de categoria equivalente, dos mapas anexos ao presente diploma, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, observando-se no provimento do lugar de secretário-geral o disposto no n.º 2 do artigo 23.º
 
 2. O Ministro da Educação Nacional pode autorizar procedimento idêntico ao referido no número anterior relativamente a pessoal dos serviços do Gabinete de Estudos e Planeamento da Acção Educativa que, pelo presente diploma, transitam para a Secretaria-Geral, mas sem prejuízo do que neste diploma se dispõe quanto a habilitações.
 
 3. Poderá ainda o Ministro da Educação Nacional preencher, em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo criados pelo presente diploma com funcionários de categoria imediatamente inferior, desde que tenham boa informação, as habilitações exigidas para aquele provimento e o mínimo de dois anos de exercício na categoria.
 
-###### Art. 40.º O pessoal contratado do Gabinete de Estudos e Planeamento da Acção Educativa poderá transitar para a Secretaria-Geral, em regime de contratado além dos quadros, mediante o cumprimento das formalidades fixadas no n.º 1 do artigo anterior.
+Art. 40.º O pessoal contratado do Gabinete de Estudos e Planeamento da Acção Educativa poderá transitar para a Secretaria-Geral, em regime de contratado além dos quadros, mediante o cumprimento das formalidades fixadas no n.º 1 do artigo anterior.
 
-###### Art. 41.º Os encargos resultantes da execução do presente diploma serão suportados, no ano de 1972, pelas disponibilidades das dotações inscritas na «Secretaria-Geral», do orçamento do Ministério da Educação Nacional aprovado para o corrente ano económico.
+Art. 41.º Os encargos resultantes da execução do presente diploma serão suportados, no ano de 1972, pelas disponibilidades das dotações inscritas na «Secretaria-Geral», do orçamento do Ministério da Educação Nacional aprovado para o corrente ano económico.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 7 de Junho de 1972.**
+Promulgado em 7 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA I
 
 Pessoal integrado no quadro único a que se refere o n.º 1 do artigo 22.º do Decreto-Lei n.º 201/72, de 19 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/06/14100/07900796.pdf))](https://files.diariodarepublica.pt/1s/1972/06/14100/07900796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/06/14100/07900796.pdf)
 
 MAPA II
 
 Pessoal a que se refere o n.º 2 do artigo 22.º do Decreto-Lei n.º 201/72, de 19 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/06/14100/07900796.pdf))](https://files.diariodarepublica.pt/1s/1972/06/14100/07900796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/06/14100/07900796.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o secretário-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

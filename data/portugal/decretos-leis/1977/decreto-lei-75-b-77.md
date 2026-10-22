@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(11) a 318-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00110012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-b-1977-509012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb0a511fb0de4658af63b8909d9bb8e6e3294e45399625186c73273c85ec24db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68ee879993f6daadfdae4a900120810b28f7005338f55562ebab70bd5d10762b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Depósito Bancário
+- Emissão de Títulos
+- Instituição de Crédito
+- Títulos de Crédito
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:321699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:255388:por
+  label: "Alterado o art. 2º do presente diploma, pelo DEC LEI.329/77.10.08.1977.MF, DR.IS [184] de 10.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1977-255388
+  date: '1977-08-10'
+- type: cites
+  target: pt:dre:195461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321699:por
+  label: "Revogado pelo DEC LEI.430/91.02.11.1991.MF, DR.IS-A [252] de 02.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1991-321699
+  date: '1991-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:51Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +136,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Sem prejuízo do regime previsto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 729-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-e-1975-307234), de 22 de Dezembro, podem as instituições de crédito, nos depósitos a prazo, acordar com os seus depositantes a mobilização antecipada, total ou parcial, dos depósitos efectuados.
+Artigo 1.º - 1. Sem prejuízo do regime previsto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 729-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-e-1975-307234), de 22 de Dezembro, podem as instituições de crédito, nos depósitos a prazo, acordar com os seus depositantes a mobilização antecipada, total ou parcial, dos depósitos efectuados.
 
 2. No caso de mobilização antecipada, a taxa de juro a aplicar será inferior à correspondente ao tempo decorrente até à sua mobilização, nos termos a estabelecer em aviso do Banco de Portugal.
 
-###### Art. 2.º - 1. As instituições de crédito depositárias procederão à emissão de um título nominativo, representativo do depósito a prazo, na data da sua constituição.
+Art. 2.º - 1. As instituições de crédito depositárias procederão à emissão de um título nominativo, representativo do depósito a prazo, na data da sua constituição.
 
 2. O título referido no número anterior não é transmissível por acto inter vivos, exceptuado o desconto na instituição emitente.
 
@@ -113,16 +148,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. Nos depósitos a prazo constituídos até à data da entrada em vigor do presente decreto-lei, a emissão do título correspondente dependerá de solicitação do depositante interessado.
 
-###### Art. 3.º Ficam excluídos do âmbito de aplicação do regime jurídico do presente diploma os depósitos a prazo constituídos ao abrigo de legislação especial.
+Art. 3.º Ficam excluídos do âmbito de aplicação do regime jurídico do presente diploma os depósitos a prazo constituídos ao abrigo de legislação especial.
 
-###### Art. 4.º Fica revogado o n.º 3 do artigo 4.º do [Decreto-Lei n.º 729-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-e-1975-307234), de 22 de Dezembro, bem como as Portarias n.os [912/73](https://diariodarepublica.pt/dr/detalhe/portaria/912-1973-195461), de 21 de Dezembro, e [83/76](https://diariodarepublica.pt/dr/detalhe/portaria/83-1976-507471), de 18 de Fevereiro.
+Art. 4.º Fica revogado o n.º 3 do artigo 4.º do [Decreto-Lei n.º 729-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-e-1975-307234), de 22 de Dezembro, bem como as Portarias n.os [912/73](https://diariodarepublica.pt/dr/detalhe/portaria/912-1973-195461), de 21 de Dezembro, e [83/76](https://diariodarepublica.pt/dr/detalhe/portaria/83-1976-507471), de 18 de Fevereiro.
 
-###### Art. 5.º Este diploma entra em vigor na data da respectiva publicação.
+Art. 5.º Este diploma entra em vigor na data da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

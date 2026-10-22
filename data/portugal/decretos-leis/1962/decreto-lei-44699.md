@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 265/1962, 1º Suplemento, Série I de 1962-11-17
   number: '265'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1508 - 1513
   pdf_url: https://files.diariodarepublica.pt/1s/1962/11/26501/15081513.pdf
 entry_into_force_dates: []
@@ -47,40 +47,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b945bc3572906bb464c0c842b473fd71663ea781ae00f8e0a674b03177b7566
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7d300c5338f2a0adea8076d52c793a336210bb238fb1aa5763ae51076586f07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mercado Cambial
 relationships:
 - type: amended_by
   target: pt:dre:451790:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:154848:por
+  label: "Alterado o art. 45º [relativamente à entrada em vigor, que é fixada para 01.03.1963] pelo DEC LEI.44828.31.12.1962.PC,\
+    \ DG.IS [299] de 31.12.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44828-1962-154848
+  date: '1962-12-31'
+- type: amended_by
+  target: pt:dre:216291:por
+  label: "Alterados os arts. 8º, 19º, 20º, 29º, 33º, 41º, 42º e 7º, cujo § único passou a constituir o 1º, aditando ao mesmo\
+    \ art. um § 2º, pelo DEC LEI.49306.1969.10.16.MF DG.IS [243]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49306-1969-216291
+  date: '1969-10-16'
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555583:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:390782:por
+  label: "Revogados os §§ 2.º e 3.º do artigo 1.º, pelo DEC LEI.47919.08.09.1967.MF, DG.IS [210] de 08.09.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47919-1967-390782
+  date: '1967-09-08'
+- type: repealed_by
+  target: pt:dre:234933:por
+  label: "Revogado o artigo 26.º e §§ 1.º e 2.º, pelo DEC LEI.48311.1968.05.04.MF DR.IS [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48311-1968-234933
+  date: '1968-05-04'
+- type: repealed_by
+  target: pt:dre:409694:por
+  label: "Revogados os artigos 13.º, 14.º e 15.º, pelo DEC LEI.747/76.18.10.1976.MF, DR.IS [244] de 18.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/747-1976-409694
+  date: '1976-10-18'
+- type: repealed_by
+  target: pt:dre:451790:por
+  label: "Revogado pelo DEC LEI.227/83.1983.05.27.MFP, DR.IS [122], sem prejuízo do disposto nos seus n.os 2 e 3 do artigo\
+    \ 47.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1983-451790
+  date: '1983-05-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:57Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +167,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O comércio de câmbios no continente e ilhas adjacentes fica sujeito ao disposto no presente diploma, considerando-se como exercício do referido comércio a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações cambiais, designadamente as seguintes:
+Artigo 1.º O comércio de câmbios no continente e ilhas adjacentes fica sujeito ao disposto no presente diploma, considerando-se como exercício do referido comércio a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações cambiais, designadamente as seguintes:
 
 a) A compra ou venda de ouro amoedado ou não;
 
@@ -125,7 +191,7 @@ c) As sucursais, agências ou qualquer forma de representação em território n
 
 § 3.º As pessoas singulares referidas na alínea a) do parágrafo anterior perdem a qualidade de residentes quando emigrarem ou quando se ausentarem do território nacional por mais de seis meses. Tratando-se de pessoas singulares portuguesas, estas não perdem a mencionada qualidade quando a ausência for motivada pelo exercício de funções públicas.
 
-###### Art. 2.º O comércio de câmbios sòmente pode ser exercido no continente e ilhas adjacentes:
+Art. 2.º O comércio de câmbios sòmente pode ser exercido no continente e ilhas adjacentes:
 
 a) Pelo Banco de Portugal;
 
@@ -133,9 +199,9 @@ b) Pelos bancos comerciais e casas de câmbio devidamente autorizados e cauciona
 
 § único. Para o efeito do disposto neste decreto-lei, a expressão «bancos comerciais» compreende também os bancos emissores ultramarinos, nos casos previstos no artigo 46.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e as casas bancárias, nos termos do § 1.º do artigo 2.º do mesmo decreto-lei.
 
-###### Art. 3.º A realização de operações cambiais pelo Banco de Portugal regular-se-á pelas disposições legais que especialmente lhe respeitem, além do que estiver estabelecido nos contratos com o Estado, estatutos e leis orgânicas do mesmo Banco.
+Art. 3.º A realização de operações cambiais pelo Banco de Portugal regular-se-á pelas disposições legais que especialmente lhe respeitem, além do que estiver estabelecido nos contratos com o Estado, estatutos e leis orgânicas do mesmo Banco.
 
-###### Art. 4.º As casas de câmbio sòmente podem efectuar as operações cambiais seguintes:
+Art. 4.º As casas de câmbio sòmente podem efectuar as operações cambiais seguintes:
 
 a) Compra de cupões de títulos estrangeiros;
 
@@ -145,11 +211,11 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 § único. A cobrança dos cupões referidos na alínea a) deverá ser efectuada por intermédio do Banco de Portugal, ao qual também serão obrigatòriamente revendidos pelas casas de câmbio, no próprio dia da aquisição ou no dia útil seguinte, os cheques turísticos a que se refere a alínea c).
 
-###### Art. 5.º Compete ao Ministro das Finanças a superintendência e coordenação da actividade das instituições autorizadas a exercer o comércio de câmbios no continente e ilhas adjacentes, bem como a fiscalização das mencionadas instituições e dos bancos de investimento no tocante à prática por estes de operações cambiais.
+Art. 5.º Compete ao Ministro das Finanças a superintendência e coordenação da actividade das instituições autorizadas a exercer o comércio de câmbios no continente e ilhas adjacentes, bem como a fiscalização das mencionadas instituições e dos bancos de investimento no tocante à prática por estes de operações cambiais.
 
-###### Art. 6.º Os Ministros das Finanças e do Ultramar, ouvidos o Banco de Portugal, as inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas e os bancos emissores ultramarinos, fixarão directivas e adoptarão providências tendentes a coordenar o funcionamento dos mercados de câmbios nos diversos territórios nacionais.
+Art. 6.º Os Ministros das Finanças e do Ultramar, ouvidos o Banco de Portugal, as inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas e os bancos emissores ultramarinos, fixarão directivas e adoptarão providências tendentes a coordenar o funcionamento dos mercados de câmbios nos diversos territórios nacionais.
 
-###### Art. 7.º Ao Banco de Portugal, sob a orientação superior do Ministro das Finanças, compete, além das atribuições referidas no artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962:
+Art. 7.º Ao Banco de Portugal, sob a orientação superior do Ministro das Finanças, compete, além das atribuições referidas no artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962:
 
 1.º Assegurar as liquidações das operações cambiais que sejam requeridas pela economia nacional, nos termos da legislação e regulamentação cambial em vigor e dos acordos de compensação e de pagamentos, bilaterais ou multilaterais, celebrados pelo Estado, ou pelo Banco por conta e ordem do Estado;
 
@@ -161,17 +227,17 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 § único. Os bancos comerciais e as casas de câmbio autorizados a exercer o comércio de câmbios, bem como os bancos de investimento e as entidades ou serviços públicos que realizem operações cambiais, enviarão ao Banco de Portugal, de acordo com as instruções que por este lhes forem transmitidas, os elementos de informação necessários à elaboração dos quadros da balança geral de pagamentos internacionais e à verificação do cumprimento dos princípios reguladores e instruções sobre operações cambiais referidos, respectivamente, na alínea c) do artigo 25.º e no artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
-###### Art. 8.º A fiscalização dos bancos comerciais e casas de câmbio quanto ao exercício do comércio de câmbios, bem como dos bancos de investimento, no tocante à realização por estes de operações cambiais, será feita pela Inspecção-Geral de Crédito e Seguros nos próprios estabelecimentos ou não.
+Art. 8.º A fiscalização dos bancos comerciais e casas de câmbio quanto ao exercício do comércio de câmbios, bem como dos bancos de investimento, no tocante à realização por estes de operações cambiais, será feita pela Inspecção-Geral de Crédito e Seguros nos próprios estabelecimentos ou não.
 
 § único. Para os fins do presente artigo, os bancos comerciais e casas de câmbio, bem como os bancos de investimento, enviarão à Inspecção-Geral de Crédito e Seguros cópia dos elementos de informação a que se refere o § único do artigo anterior e quaisquer outros que sejam julgados necessários pela mesma Inspecção-Geral.
 
-###### Art. 9.º A inclusão, em boletins ou relatórios dos bancos comerciais dos estabelecimentos especiais de crédito, das instituições auxiliares de crédito e das pessoas singulares ou colectivas referidas no artigo 5.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de informações sobre matéria cambial que directamente interessem ao mercado nacional fica sujeita a autorização especial do Ministro das Finanças, requerida através da Inspecção-Geral de Crédito e Seguros.
+Art. 9.º A inclusão, em boletins ou relatórios dos bancos comerciais dos estabelecimentos especiais de crédito, das instituições auxiliares de crédito e das pessoas singulares ou colectivas referidas no artigo 5.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de informações sobre matéria cambial que directamente interessem ao mercado nacional fica sujeita a autorização especial do Ministro das Finanças, requerida através da Inspecção-Geral de Crédito e Seguros.
 
 § 1.º Não carecem da autorização referida no presente artigo as informações relativas a câmbios praticados no mercado nacional e a simples transcrição de elementos constantes de publicações do Instituto Nacional de Estatística e de boletins ou relatórios dos bancos emissores.
 
 § 2.º O Ministro das Finanças poderá delegar no inspector-geral de Créditos e Seguros a competência para a concessão das autorizações mencionadas no presente artigo.
 
-###### Art. 10.º É vedado aos bancos comerciais, aos estabelecimentos especiais de crédito, às instituições auxiliares de crédito e às pessoas singulares ou colectivas referidas no artigo 5.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459):
+Art. 10.º É vedado aos bancos comerciais, aos estabelecimentos especiais de crédito, às instituições auxiliares de crédito e às pessoas singulares ou colectivas referidas no artigo 5.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459):
 
 1.º Celebrar entre si contratos ou acordos de qualquer natureza de que possa resultar uma situação de domínio sobre o mercado cambial ou alteração das condições normais do seu funcionamento;
 
@@ -179,19 +245,19 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 ### CAPÍTULO II — Da autorização para o exercício do comércio de câmbios
 
-###### Art. 11.º Os bancos comerciais e as casas de câmbio que pretenderem exercer o comércio de câmbios no continente e ilhas adjacentes deverão requerer ao Ministro das Finanças, por intermédio da Inspecção-Geral de Crédito e Seguros, a respectiva autorização, que lhes poderá ser concedida mediante despacho, devendo prestar no prazo de 30 dias a caução que lhes for fixada e, se for caso disso, observar as condições especiais que o mesmo Ministro estabelecer naquele despacho, ouvido o Banco de Portugal.
+Art. 11.º Os bancos comerciais e as casas de câmbio que pretenderem exercer o comércio de câmbios no continente e ilhas adjacentes deverão requerer ao Ministro das Finanças, por intermédio da Inspecção-Geral de Crédito e Seguros, a respectiva autorização, que lhes poderá ser concedida mediante despacho, devendo prestar no prazo de 30 dias a caução que lhes for fixada e, se for caso disso, observar as condições especiais que o mesmo Ministro estabelecer naquele despacho, ouvido o Banco de Portugal.
 
 § único. Prestada a caução, será o despacho de autorização publicado no Diário do Governo e no Boletim Oficial das províncias ultramarinas, podendo o interessado iniciar o exercício do comércio de câmbios a partir da publicação no Diário do Governo.
 
-###### Art. 12.º As cauções a prestar pelos bancos comerciais não serão inferiores a 200000$00 nem superiores a 2000000$00 e, na fixação do respectivo quantitativo, ter-se-á em atenção a localização da sede, o número de filiais, agências ou quaisquer outras sucursais e, bem assim, o volume de operações cambiais que, presumìvelmente, virão a efectuar.
+Art. 12.º As cauções a prestar pelos bancos comerciais não serão inferiores a 200000$00 nem superiores a 2000000$00 e, na fixação do respectivo quantitativo, ter-se-á em atenção a localização da sede, o número de filiais, agências ou quaisquer outras sucursais e, bem assim, o volume de operações cambiais que, presumìvelmente, virão a efectuar.
 
-###### Art. 13.º As cauções a prestar pelas casas de câmbio não serão inferiores a 20000$00 nem superiores a 200000$00 e na respectiva fixação atender-se-á aos elementos mencionados no artigo anterior.
+Art. 13.º As cauções a prestar pelas casas de câmbio não serão inferiores a 20000$00 nem superiores a 200000$00 e na respectiva fixação atender-se-á aos elementos mencionados no artigo anterior.
 
-###### Art. 14.º No prazo de 60 dias, a contar da publicação do presente decreto-lei, o Ministro das Finanças, por intermédio da Inspecção-Geral de Crédito e Seguros, fará publicar no Diário do Governo a lista dos bancos comerciais, bancos de investimento e casas de câmbio autorizados a exercer o comércio de câmbios no continente e ilhas adjacentes. A referida lista será igualmente publicada no Boletim Oficial das províncias ultramarinas.
+Art. 14.º No prazo de 60 dias, a contar da publicação do presente decreto-lei, o Ministro das Finanças, por intermédio da Inspecção-Geral de Crédito e Seguros, fará publicar no Diário do Governo a lista dos bancos comerciais, bancos de investimento e casas de câmbio autorizados a exercer o comércio de câmbios no continente e ilhas adjacentes. A referida lista será igualmente publicada no Boletim Oficial das províncias ultramarinas.
 
-###### Art. 15.º A Inspecção-Geral de Crédito e Seguros, no prazo de um ano a contar da publicação do presente diploma, procederá à revisão das cauções prestadas pelos bancos comerciais e casas de câmbio referidos no artigo antecedente e, tendo em consideração o disposto nos artigos 12.º e 13.º, proporá os novos quantitativos a fixar, relativamente a cada uma daquelas instituições, por despacho do Ministro das Finanças, que será publicado no Diário do Governo.
+Art. 15.º A Inspecção-Geral de Crédito e Seguros, no prazo de um ano a contar da publicação do presente diploma, procederá à revisão das cauções prestadas pelos bancos comerciais e casas de câmbio referidos no artigo antecedente e, tendo em consideração o disposto nos artigos 12.º e 13.º, proporá os novos quantitativos a fixar, relativamente a cada uma daquelas instituições, por despacho do Ministro das Finanças, que será publicado no Diário do Governo.
 
-###### Art. 16.º As cauções referidas nos artigos anteriores serão prestadas por depósito de numerário ou de títulos da dívida pública, livremente transmissíveis e cotados em bolsa, a efectuar na Caixa Geral de Depósitos, Crédito e Previdência à ordem da Inspecção-Geral de Crédito e Seguros.
+Art. 16.º As cauções referidas nos artigos anteriores serão prestadas por depósito de numerário ou de títulos da dívida pública, livremente transmissíveis e cotados em bolsa, a efectuar na Caixa Geral de Depósitos, Crédito e Previdência à ordem da Inspecção-Geral de Crédito e Seguros.
 
 § 1.º Os depósitos de numerário mencionados no presente artigo serão para todos os efeitos considerados como depósitos obrigatórios.
 
@@ -201,11 +267,11 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 § 4.º Os depósitos de títulos efectuados pelos bancos e pelas casas de câmbio nos termos do presente artigo ficam isentos de comissões de guarda, conservação e cobrança, mas são sujeitos a selo ou outros encargos impostos por lei.
 
-###### Art. 17.º As cauções prestadas pelos bancos comerciais e pelas casas de câmbio respondem pela importância das penalidades que venham eventualmente a ser aplicadas às mesmas instituições em consequência de infracções de natureza cambial.
+Art. 17.º As cauções prestadas pelos bancos comerciais e pelas casas de câmbio respondem pela importância das penalidades que venham eventualmente a ser aplicadas às mesmas instituições em consequência de infracções de natureza cambial.
 
 § único. Verificando-se a hipótese prevista neste artigo o transgressor fica obrigado a reintegrar a caução.
 
-###### Art. 18.º A autorização para o exercício do comércio de câmbios concedida a qualquer banco comercial ou casa de câmbio caducará se, no prazo de 30 dias, a contar da publicação do despacho no Diário do Governo ou da sua comunicação às instituições em causa, não for efectuado:
+Art. 18.º A autorização para o exercício do comércio de câmbios concedida a qualquer banco comercial ou casa de câmbio caducará se, no prazo de 30 dias, a contar da publicação do despacho no Diário do Governo ou da sua comunicação às instituições em causa, não for efectuado:
 
 a) O reforço necessário para atingir o quantitativo que for determinado em execução do disposto no artigo 15.º;
 
@@ -217,25 +283,25 @@ c) O reforço necessário para, em conformidade com o disposto no § único do a
 
 § 2.º Sempre que determinada autorização para o exercício do comércio de câmbios caducar por virtude do estabelecido no presente artigo, a Inspecção-Geral de Crédito e Seguros fará publicar o correspondente aviso no Diário do Governo e no Boletim Oficial das províncias ultramarinas.
 
-###### Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações para o exercício do comércio de câmbios venham a caducar só poderão requerer nova autorização decorridos dois anos sobre a data da publicação no Diário do Governo do aviso mencionado no § 2.º do artigo anterior.
+Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações para o exercício do comércio de câmbios venham a caducar só poderão requerer nova autorização decorridos dois anos sobre a data da publicação no Diário do Governo do aviso mencionado no § 2.º do artigo anterior.
 
 ### CAPÍTULO III — Das operações cambiais
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 20.º É proibida a realização de operações cambiais directamente entre pessoas singulares ou colectivas não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com intervenção de uma instituição autorizada a exercer o mencionado comércio.
+Art. 20.º É proibida a realização de operações cambiais directamente entre pessoas singulares ou colectivas não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com intervenção de uma instituição autorizada a exercer o mencionado comércio.
 
 § 1.º Exceptuam-se do disposto na primeira parte do corpo do presente artigo o aceite ou saque de letras, a subscrição de livranças e a emissão ou o aceite de extractos de factura.
 
 § 2.º O presente artigo não será aplicável aos bancos de investimento, que poderão realizar as operações cambiais consequentes de contratos por eles efectuados e que envolvam operações de crédito externo. Haver-se-ão por consentidas aos ditos bancos a abertura e movimentação de contas de disponibilidades à ordem, em seu nome, expressas em moeda estrangeira em instituições de crédito domiciliadas no estrangeiro, na estrita medida em que forem inerentes à execução dos contratos que os mesmos bancos tiverem sido autorizados a celebrar e nos precisos termos em que hajam sido previstos na respectiva autorização.
 
-###### Art. 21.º As instituições autorizadas a exercer o comércio de câmbios e os bancos de investimento, na medida em que estão autorizados a efectuar operações cambiais, observarão, na realização destas operações, os princípios reguladores a que alude a alínea c) do artigo 25.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), bem como as instruções mencionadas no artigo 28.º do mesmo diploma.
+Art. 21.º As instituições autorizadas a exercer o comércio de câmbios e os bancos de investimento, na medida em que estão autorizados a efectuar operações cambiais, observarão, na realização destas operações, os princípios reguladores a que alude a alínea c) do artigo 25.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), bem como as instruções mencionadas no artigo 28.º do mesmo diploma.
 
-###### Art. 22.º São livres a importação e a exportação ou reexportação de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, quando as mencionadas notas e moedas forem transportadas por viajantes e se destinarem ao pagamento de despesas de turismo ou de viagem.
+Art. 22.º São livres a importação e a exportação ou reexportação de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, quando as mencionadas notas e moedas forem transportadas por viajantes e se destinarem ao pagamento de despesas de turismo ou de viagem.
 
 § único. Em circunstâncias especiais da conjuntura cambial poderá o Ministro das Finanças, ouvido o Banco de Portugal, estabelecer em portaria restrições às operações mencionadas no presente artigo.
 
-###### Art. 23.º Fora dos casos indicados no corpo do artigo anterior ficam sujeitas à autorização especial e prévia do Banco de Portugal as importações e as exportações ou reexportações de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, nomeadamente as que as instituições autorizadas a exercer o comércio de câmbios desejarem efectuar.
+Art. 23.º Fora dos casos indicados no corpo do artigo anterior ficam sujeitas à autorização especial e prévia do Banco de Portugal as importações e as exportações ou reexportações de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, nomeadamente as que as instituições autorizadas a exercer o comércio de câmbios desejarem efectuar.
 
 § 1.º No pedido de autorização serão indicados o quantitativo e espécie das notas e moedas a importar, exportar ou reexportar e os países de procedência ou de destino.
 
@@ -247,55 +313,55 @@ c) O reforço necessário para, em conformidade com o disposto no § único do a
 
 § 5.º A Inspecção-Geral de Crédito e Seguros, ouvido o Banco de Portugal, estabelecerá com os serviços alfandegários as normas de ordem técnica a observar para fiscalização do disposto no presente artigo.
 
-###### Art. 24.º A importação e a exportação ou reexportação, entre o continente ou ilhas adjacentes e o estrangeiro, de ouro, amoedado ou não, ficam sujeitas a autorização especial e prévia do Banco de Portugal.
+Art. 24.º A importação e a exportação ou reexportação, entre o continente ou ilhas adjacentes e o estrangeiro, de ouro, amoedado ou não, ficam sujeitas a autorização especial e prévia do Banco de Portugal.
 
 § único. Obtida a referida autorização, observar-se-á o disposto no [Decreto-Lei n.º 32078](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32078-1942-315957), de 11 de Junho de 1942.
 
-###### Art. 26.º São livres a importação e a exportação ou reexportação de e para o estrangeiro de notas com curso legal no continente e ilhas adjacentes, quando estas notas forem transportadas por viajantes e se destinarem ao pagamento de despesas de turismo ou de viagem.
+Art. 26.º São livres a importação e a exportação ou reexportação de e para o estrangeiro de notas com curso legal no continente e ilhas adjacentes, quando estas notas forem transportadas por viajantes e se destinarem ao pagamento de despesas de turismo ou de viagem.
 
 § 1.º Em circunstâncias especiais da conjuntura cambial poderá o Ministro das Finanças, ouvido o Banco de Portugal, estabelecer em portaria restrições às operações mencionadas no presente artigo.
 
 § 2.º Fora dos casos indicados no corpo deste artigo será aplicável às operações de importação e de exportação ou reexportação das notas a doutrina do artigo 23.º
 
-###### Art. 26.º A exportação de moedas metálicas portuguesas, em circulação ou fora da circulação, continua sujeita ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
+Art. 26.º A exportação de moedas metálicas portuguesas, em circulação ou fora da circulação, continua sujeita ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
 
 § 1.º Poderá o Ministro das Finanças autorizar a exportação, desde que as moedas se destinem a fins numismáticos.
 
 § 2.º O Ministro das Finanças fica com a faculdade de delegar no inspector-geral de Crédito e Seguros a competência para a concessão das autorizações a que se refere o parágrafo anterior.
 
-###### Art. 27.º A importação e exportação de acções de sociedades nacionais ou estrangeiras e de títulos de obrigação nacionais ou estrangeiros, quer de dívida pública, quer emitidos por organizações financeiras internacionais ou por empresas privadas, são livres, desde que respeitem a operações de capitais autorizadas pela Inspecção-Geral de Crédito e Seguros, nos termos dos artigos 19.º e 20.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), ou, em caso de dúvida, o Banco de Portugal dê o seu acordo.
+Art. 27.º A importação e exportação de acções de sociedades nacionais ou estrangeiras e de títulos de obrigação nacionais ou estrangeiros, quer de dívida pública, quer emitidos por organizações financeiras internacionais ou por empresas privadas, são livres, desde que respeitem a operações de capitais autorizadas pela Inspecção-Geral de Crédito e Seguros, nos termos dos artigos 19.º e 20.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), ou, em caso de dúvida, o Banco de Portugal dê o seu acordo.
 
 § único. Relativamente à fiscalização do cumprimento do disposto no presente artigo é aplicável o estabelecido no § 5.º do artigo 23.º
 
-###### Art. 28.º São livres a importação e a exportação de cupões de títulos nacionais ou estrangeiros pelas instituições de crédito autorizadas a exercer o comércio de câmbios, desde que efectuadas nos termos das respectivas instruções emanadas do Banco de Portugal.
+Art. 28.º São livres a importação e a exportação de cupões de títulos nacionais ou estrangeiros pelas instituições de crédito autorizadas a exercer o comércio de câmbios, desde que efectuadas nos termos das respectivas instruções emanadas do Banco de Portugal.
 
 § único. Relativamente à fiscalização do cumprimento do disposto no presente artigo é aplicável o estabelecido no § 5.º do artigo 23.º
 
 #### SECÇÃO II — Dos bancos comerciais autorizados a exercer o comércio de câmbios
 
-###### Art. 29.º Os bancos comerciais poderão possuir ou deter, em suas próprias caixas ou em depósito que constituam no continente e ilhas adjacentes ou no estrangeiro, disponibilidades em ouro, amoedado ou não, e notas ou moedas metálicas estrangeiras com o curso legal nos países que as emitiram e, bem assim, ter abertas, em seu nome, em instituições de crédito domiciliadas no estrangeiro contas de disponibilidade à ordem, expressas em moeda estrangeira.
+Art. 29.º Os bancos comerciais poderão possuir ou deter, em suas próprias caixas ou em depósito que constituam no continente e ilhas adjacentes ou no estrangeiro, disponibilidades em ouro, amoedado ou não, e notas ou moedas metálicas estrangeiras com o curso legal nos países que as emitiram e, bem assim, ter abertas, em seu nome, em instituições de crédito domiciliadas no estrangeiro contas de disponibilidade à ordem, expressas em moeda estrangeira.
 
 § único. A movimentação das contas referidas no presente artigo far-se-á com observância dos princípios reguladores a que alude a alínea c) do artigo 25.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e das instruções previstas no artigo 28.º do mesmo diploma.
 
-###### Art. 30.º Os bancos comerciais poderão abrir nos seus livros contas à ordem expressas em escudos em nome de residentes ou domiciliados no estrangeiro.
+Art. 30.º Os bancos comerciais poderão abrir nos seus livros contas à ordem expressas em escudos em nome de residentes ou domiciliados no estrangeiro.
 
 § único. À movimentação das contas referidas neste artigo é aplicável o disposto no § único do artigo anterior.
 
-###### Art. 31.º Os bancos comerciais poderão abrir nos seus livros contas à ordem expressas em moeda estrangeira em nome de residentes ou domiciliados no continente e ilhas adjacentes ou no estrangeiro.
+Art. 31.º Os bancos comerciais poderão abrir nos seus livros contas à ordem expressas em moeda estrangeira em nome de residentes ou domiciliados no continente e ilhas adjacentes ou no estrangeiro.
 
 § único. A abertura destas contas fica sujeita a autorização especial e prévia do Banco de Portugal e para a respectiva movimentação serão observados os termos e condições estabelecidos na mesma autorização.
 
-###### Art. 32.º A faculdade conferida aos bancos comerciais nos artigos 29.º a 31.º para a prática das operações ali previstas terá as limitações que lhe resultem do estipulado em acordos de compensação e pagamentos celebrados pelo Estado ou pelo Banco de Portugal por conta e ordem do Estado, nos quais se estabeleça a centralização no Banco de Portugal dos pagamentos entre as respectivas zonas monetárias.
+Art. 32.º A faculdade conferida aos bancos comerciais nos artigos 29.º a 31.º para a prática das operações ali previstas terá as limitações que lhe resultem do estipulado em acordos de compensação e pagamentos celebrados pelo Estado ou pelo Banco de Portugal por conta e ordem do Estado, nos quais se estabeleça a centralização no Banco de Portugal dos pagamentos entre as respectivas zonas monetárias.
 
-###### Art. 33.º Os bancos comerciais, ouvido o Banco de Portugal, poderão acordar com os titularas das contas referidas no artigo 31.º a aplicação de todo ou de parte dos respectivos saldos em depósitos na mesma moeda a prazo até um ano, ou em operações de outra natureza, quando admitidas no parecer do Banco de Portugal.
+Art. 33.º Os bancos comerciais, ouvido o Banco de Portugal, poderão acordar com os titularas das contas referidas no artigo 31.º a aplicação de todo ou de parte dos respectivos saldos em depósitos na mesma moeda a prazo até um ano, ou em operações de outra natureza, quando admitidas no parecer do Banco de Portugal.
 
-###### Art. 34.º Os bancos comerciais poderão efectuar entre si e com as casas de câmbio a cedência de disponibilidades em notas ou em moedas metálicas estrangeiras com curso legal nos países que as emitiram.
+Art. 34.º Os bancos comerciais poderão efectuar entre si e com as casas de câmbio a cedência de disponibilidades em notas ou em moedas metálicas estrangeiras com curso legal nos países que as emitiram.
 
-###### Art. 35.º Os bancos comerciais não poderão adquirir nem possuir haveres em moeda estrangeira pagáveis em prazo superior a um ano, salvo nos casos compreendidos em autorizações concedidas pela Inspecção-Geral de Crédito e Seguros, nos termos previstos nos artigos 19.º e 20.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
+Art. 35.º Os bancos comerciais não poderão adquirir nem possuir haveres em moeda estrangeira pagáveis em prazo superior a um ano, salvo nos casos compreendidos em autorizações concedidas pela Inspecção-Geral de Crédito e Seguros, nos termos previstos nos artigos 19.º e 20.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
 § único. O disposto no presente artigo não é aplicável aos títulos estrangeiros que os bancos comerciais possuam à data da publicação do presente decreto-lei.
 
-###### Art. 36.º Para efeito do disposto no § 2.º do artigo 57.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) serão havidas como tendo a natureza das responsabilidades ali referidas aquelas que os bancos comerciais tenham contraído, no exercício do comércio de câmbios, à vista ou até 30 dias, designadamente as representadas por:
+Art. 36.º Para efeito do disposto no § 2.º do artigo 57.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) serão havidas como tendo a natureza das responsabilidades ali referidas aquelas que os bancos comerciais tenham contraído, no exercício do comércio de câmbios, à vista ou até 30 dias, designadamente as representadas por:
 
 a) Saldos de contas expressas em escudos abertas naqueles bancos em nome de não residentes;
 
@@ -303,13 +369,13 @@ b) Letras, livranças ou outros títulos de natureza análoga, pagáveis em escu
 
 c) Ordens de pagamento, expressas em escudos, recebidas pelos mesmos bancos e em via de execução.
 
-###### Art. 37.º As disponibilidades em moeda estrangeira dos bancos comerciais não poderão exceder os quantitativos que forem fixados, em portaria, pelo Ministro das Finanças, ouvido o Banco de Portugal.
+Art. 37.º As disponibilidades em moeda estrangeira dos bancos comerciais não poderão exceder os quantitativos que forem fixados, em portaria, pelo Ministro das Finanças, ouvido o Banco de Portugal.
 
 § 1.º Para efeito do disposto no presente artigo não serão considerados disponibilidades em moeda estrangeira os valores dos títulos estrangeiros mencionados no § único do artigo 35.º e a importância dos haveres que os referidos bancos possuam ou detenham ao abrigo de autorizações concedidas pela Inspecção-Geral de Crédito e Seguros, nos termos previstos nos artigos 19.º e 20.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
 § 2.º À soma das disponibilidades em moeda estrangeira serão deduzidas as responsabilidades, nessa moeda, assumidas pelos bancos comerciais, nos termos dos artigos 31.º e 33.º, e quaisquer outras cujo vencimento não exceda, todavia, 180 dias.
 
-###### Art. 38.º É vedado aos bancos comerciais:
+Art. 38.º É vedado aos bancos comerciais:
 
 a) Receber notas e moedas metálicas estrangeiras para liquidação de operações expressas em moeda estrangeira;
 
@@ -323,15 +389,15 @@ e) Aceitar ou obter de residentes a concessão de créditos expressos em moeda e
 
 #### SECÇÃO III — Das casas de câmbio
 
-###### Art. 39.º As casas de câmbio poderão possuir ou deter, no continente e ilhas adjacentes, disponibilidades em notas e moedas metálicas estrangeiras com curso legal nos países que as emitiram.
+Art. 39.º As casas de câmbio poderão possuir ou deter, no continente e ilhas adjacentes, disponibilidades em notas e moedas metálicas estrangeiras com curso legal nos países que as emitiram.
 
-###### Art. 40.º As casas de câmbio poderão efectuar entre si e com os bancos comerciais a cedência de notas e moedas a que se refere o artigo anterior.
+Art. 40.º As casas de câmbio poderão efectuar entre si e com os bancos comerciais a cedência de notas e moedas a que se refere o artigo anterior.
 
 #### SECÇÃO IV
 
 Da intervenção em operações entre uma província ultramarina e o estrangeiro de instituições autorizadas a exercer o comércio de câmbios no continente e ilhas adjacentes
 
-###### Art. 41.º As instituições de crédito que, exercendo o comércio de câmbios no continente e ilhas adjacentes, intervierem na liquidação de importações, exportações ou reexportações de mercadorias, de operações invisíveis correntes ou de capitais, entre uma província ultramarina e o estrangeiro, deverão:
+Art. 41.º As instituições de crédito que, exercendo o comércio de câmbios no continente e ilhas adjacentes, intervierem na liquidação de importações, exportações ou reexportações de mercadorias, de operações invisíveis correntes ou de capitais, entre uma província ultramarina e o estrangeiro, deverão:
 
 1.º Certificar-se de que as respectivas operações cambiais satisfazem ao estabelecido nos princípios reguladores e instruções referidas na alínea c) e nos parágrafos do artigo 25.º e no artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e em vigor na província a que as mesmas operações respeitarem;
 
@@ -351,16 +417,16 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 42.º As transgressões ao disposto no presente decreto-lei e nas portarias previstas nos artigos 22.º, 25.º 37.º são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
+Art. 42.º As transgressões ao disposto no presente decreto-lei e nas portarias previstas nos artigos 22.º, 25.º 37.º são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
 
-###### Art. 43.º A intervenção em letras, livranças e cheques ou outros títulos de análoga natureza, quando realizada para a prática de actos que constituam transgressão, nos termos do artigo anterior e do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), será punível como neles se dispõe, sem prejuízo da validade das obrigações constantes dos títulos.
+Art. 43.º A intervenção em letras, livranças e cheques ou outros títulos de análoga natureza, quando realizada para a prática de actos que constituam transgressão, nos termos do artigo anterior e do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), será punível como neles se dispõe, sem prejuízo da validade das obrigações constantes dos títulos.
 
 § único. As instituições de crédito que, no exercício da sua actividade, tiverem conhecimento das transgressões abrangidas pelo presente artigo deverão fazer imediatamente a respectiva participação à Inspecção-Geral de Crédito e Seguros.
 
-###### Art. 44.º São revogados os artigos 1.º a 7.º do [Decreto-Lei n.º 43024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43024-1960-503245), de 22 de Junho de 1960.
+Art. 44.º São revogados os artigos 1.º a 7.º do [Decreto-Lei n.º 43024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43024-1960-503245), de 22 de Junho de 1960.
 
-###### Art. 45.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1963.
+Art. 45.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

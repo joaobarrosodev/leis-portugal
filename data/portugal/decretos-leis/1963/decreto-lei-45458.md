@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45458-1963-680413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3c2e50990787e45d90e6c98b24c3b658e1fce6865087e244142b82e0a8254bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a8a1911e25f4f03cf6d4132a0aa43724b4405483e3b637a637bcc68f4e0942e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Combustíveis
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:268472:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:27Z'
   warnings: []
   errors: []
 ---
@@ -93,27 +99,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As instalações de armazenagem de combustíveis sólidos, líquidos ou gasosos, seus derivados e substitutos, deixam de estar sujeitas ao pagamento da taxa anual referida nas alíneas B) e C) da tabela anexa ao [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37689-1949-268472), de 27 de Dezembro de 1949.
+Artigo 1.º As instalações de armazenagem de combustíveis sólidos, líquidos ou gasosos, seus derivados e substitutos, deixam de estar sujeitas ao pagamento da taxa anual referida nas alíneas B) e C) da tabela anexa ao [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37689-1949-268472), de 27 de Dezembro de 1949.
 
-###### Art. 2.º As instalações a que se refere o artigo anterior serão vistoriadas de dez em dez anos.
+Art. 2.º As instalações a que se refere o artigo anterior serão vistoriadas de dez em dez anos.
 
 A vistoria será requerida pelos interessados à Direcção-Geral dos Combustíveis, nos 60 dias anteriores ao termo do decénio.
 
 § único. O período de dez anos conta-se desde a data da entrada em serviço da instalação.
 
-###### Art. 3.º Requerida a vistoria, a Direcção-Geral passará guias para o pagamento da respectiva taxa, que será igual a 30 por cento da taxa inicial, excepto quando se tratar das instalações abrangidas pelo n.º I da alínea C) da tabela anexa ao [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37689-1949-268472), para as quais é fixada a taxa de 300$00.
+Art. 3.º Requerida a vistoria, a Direcção-Geral passará guias para o pagamento da respectiva taxa, que será igual a 30 por cento da taxa inicial, excepto quando se tratar das instalações abrangidas pelo n.º I da alínea C) da tabela anexa ao [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37689-1949-268472), para as quais é fixada a taxa de 300$00.
 
 § único. O disposto neste artigo é aplicável às instalações que não tiverem pago taxa inicial, por já estarem licenciadas à data da publicação do [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37689-1949-268472), mas neste caso a taxa da vistoria será calculada sobre a taxa inicial que, em função da capacidade de armazenagem, seria devida.
 
-###### Art. 4.º Se os interessados não requererem a vistoria no prazo fixado no artigo 2.º, a Direcção-Geral notificá-los-á para o fazerem no prazo de 30 dias, contados da notificação, mas acrescendo à taxa o adicional de 50$00.
+Art. 4.º Se os interessados não requererem a vistoria no prazo fixado no artigo 2.º, a Direcção-Geral notificá-los-á para o fazerem no prazo de 30 dias, contados da notificação, mas acrescendo à taxa o adicional de 50$00.
 
 Passado o prazo referido neste artigo sem que os interessados tenham requerido a vistoria, a Direcção-Geral passará guias para o pagamento da taxa devida, acrescida do adicional de 500$00.
 
-###### Art. 5.º As taxas e adicionais a que se referem os artigos anteriores constituem integralmente receita do Estado, observando-se na sua cobrança o disposto no artigo 2.º e seu parágrafo do [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37689-1949-268472).
+Art. 5.º As taxas e adicionais a que se referem os artigos anteriores constituem integralmente receita do Estado, observando-se na sua cobrança o disposto no artigo 2.º e seu parágrafo do [Decreto-Lei n.º 37689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37689-1949-268472).
 
-###### Art. 6.º (transitório). À importância das taxas de vistoria, determinada de harmonia com o disposto no artigo 3.º e seu § único, será descontado 1/10 por cada taxa anual já paga, durante o período de dez anos, contados da entrada em vigor deste decreto-lei.
+Art. 6.º (transitório). À importância das taxas de vistoria, determinada de harmonia com o disposto no artigo 3.º e seu § único, será descontado 1/10 por cada taxa anual já paga, durante o período de dez anos, contados da entrada em vigor deste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

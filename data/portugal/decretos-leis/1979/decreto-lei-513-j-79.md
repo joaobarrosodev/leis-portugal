@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 296/1979, 1º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3350-(2) a 3350-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29601/00020004.pdf
 entry_into_force_dates: []
@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-j-1979-430014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df8dc1fad8858745e17f6a2d348a49b7ede49b232056785ed8f32eb870952e00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84216793c338bd0cb094ad2df400178f54ad3bcc655049e2fb612ad416ba8639
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agricultura de Grupo
+- Exploração Agrícola
+- Sociedade de Agricultura de Grupo
+relationships:
+- type: cites
+  target: pt:dre:198763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569350:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:28Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +119,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º - 1 - A agricultura de grupo é uma modalidade de associativismo agrícola de produção, resultante da associação de um número limitado de agricultores, sendo proprietários ou não, e ou trabalhadores agrícolas, os quais:
+Artigo 1.º - 1 - A agricultura de grupo é uma modalidade de associativismo agrícola de produção, resultante da associação de um número limitado de agricultores, sendo proprietários ou não, e ou trabalhadores agrícolas, os quais:
 
 a) Põem em comum a terra, os meios financeiros e outros factores de produção;
 
@@ -118,7 +129,7 @@ c) Procedem à partilha dos resultados em conformidade com o respectivo grau de 
 
 2 - Excepcionalmente podem ser também sócios outras pessoas, dotadas de reconhecida experiência e conhecimentos da actividade agrícola, habitualmente residentes na área da sociedade e que se comprometam a participar directamente na sua actividade.
 
-###### Art. 2.º - 1 - Para além da modalidade resultante da integração total das explorações dos sócios, a agricultura de grupo poderá constituir-se ainda como submodalidade associativa, visando os seguintes objectivos:
+Art. 2.º - 1 - Para além da modalidade resultante da integração total das explorações dos sócios, a agricultura de grupo poderá constituir-se ainda como submodalidade associativa, visando os seguintes objectivos:
 
 a) A utilização em comum de máquinas, equipamentos ou instalações;
 
@@ -126,13 +137,13 @@ b) A integração parcial resultante da exploração em comum de apenas uma ou a
 
 2 - A realização em comum de actividades sem terra, designadamente no domínio da pecuária, apenas será de admitir desde que economicamente complementares da exploração agrícola e que contribuam para o equilíbrio da empresa, proporcionando um mais completo aproveitamento dos meios de produção existentes e do trabalho dos sócios.
 
-###### Art. 3.º A agricultura de grupo visa essencialmente a constituição de explorações agrícolas física e economicamente bem dimensionadas, de forma a proporcionar aos sócios que nelas exerçam a sua actividade a melhoria da respectiva situação económica, social e profissional.
+Art. 3.º A agricultura de grupo visa essencialmente a constituição de explorações agrícolas física e economicamente bem dimensionadas, de forma a proporcionar aos sócios que nelas exerçam a sua actividade a melhoria da respectiva situação económica, social e profissional.
 
 ### CAPÍTULO II — constituição e funcionamento
 
-###### Art. 4.º As sociedades de agricultura de grupo são sociedades civis constituídas sob a forma legal de sociedade por quotas de responsabilidade limitada.
+Art. 4.º As sociedades de agricultura de grupo são sociedades civis constituídas sob a forma legal de sociedade por quotas de responsabilidade limitada.
 
-###### Art. 5.º - 1 - Só terão o direito de usar a designação de sociedade de agricultura de grupo aquelas sociedades que como tal forem objecto de reconhecimento por parte do Ministério da Agricultura e Pescas.
+Art. 5.º - 1 - Só terão o direito de usar a designação de sociedade de agricultura de grupo aquelas sociedades que como tal forem objecto de reconhecimento por parte do Ministério da Agricultura e Pescas.
 
 2 - O reconhecimento é concedido através de despacho do Secretário de Estado do Fomento Agrário, em face da cópia da respectiva escritura pública, tendo presente o processo de constituição, e sob parecer fundamentado do serviço regional do Ministério da Agricultura e Pescas, ouvida a Direcção-Geral de Extensão Rural.
 
@@ -142,13 +153,13 @@ O processo de constituição compreende, designadamente, o projecto de estatutos
 
 4 - O reconhecimento, ou a sua retirada, é formalizado através da publicação no Diário da República do despacho do Secretário de Estado do Fomento Agrário que consubstância tal decisão.
 
-###### Art. 6.º - 1 - Além das menções legalmente obrigatórias, os estatutos devem, nomeadamente, estabelecer os direitos e obrigações dos sócios, o modo de deliberação, a forma de partilha dos resultados, as competências da assembleia geral e da gerência. Além disso, compreenderão de forma explícita os princípios essenciais de constituição e funcionamento, de harmonia com o estabelecido no artigo 8.º
+Art. 6.º - 1 - Além das menções legalmente obrigatórias, os estatutos devem, nomeadamente, estabelecer os direitos e obrigações dos sócios, o modo de deliberação, a forma de partilha dos resultados, as competências da assembleia geral e da gerência. Além disso, compreenderão de forma explícita os princípios essenciais de constituição e funcionamento, de harmonia com o estabelecido no artigo 8.º
 
 2 - É vedado às sociedades de agricultura de grupo proceder à alteração dos respectivos estatutos sem prévio consentimento do Ministério da Agricultura e Pescas.
 
-###### Art. 7.º O capital social poderá ser constituído, separada ou cumulativamente, por numerário e bens em espécie, designadamente capital de exploração fixo e circulante, e ainda por prédios rústicos cuja propriedade seja transferida para a sociedade.
+Art. 7.º O capital social poderá ser constituído, separada ou cumulativamente, por numerário e bens em espécie, designadamente capital de exploração fixo e circulante, e ainda por prédios rústicos cuja propriedade seja transferida para a sociedade.
 
-###### Art. 8.º São princípios essenciais da constituição e do funcionamento das sociedades de agricultura de grupo, além de outras disposições contidas neste diploma, os seguintes:
+Art. 8.º São princípios essenciais da constituição e do funcionamento das sociedades de agricultura de grupo, além de outras disposições contidas neste diploma, os seguintes:
 
 a) Número de sócios - o número de sócios de uma sociedade de agricultura de grupo não poderá ser superior a dez;
 
@@ -162,21 +173,21 @@ e) Gerência - os gerentes serão no máximo três, com mandato anual renovável
 
 f) Partilha dos resultados - do lucro líquido anualmente apurado, uma vez deduzidas as despesas efectivas e percentagens destinadas aos fundos sociais, designadamente o fundo de reserva legal, uma fracção não inferior a dois terços será distribuída entre os sócios em função da respectiva participação no trabalho efectivamente prestado à sociedade, sendo o restante distribuído na proporção das quotas.
 
-###### Art. 9.º - 1 - Os sócios obrigam-se a participar directa e efectivamente no trabalho em comum, pela forma como entre eles for decidido e de harmonia com as deliberações da assembleia geral e com o plano anual de gerência.
+Art. 9.º - 1 - Os sócios obrigam-se a participar directa e efectivamente no trabalho em comum, pela forma como entre eles for decidido e de harmonia com as deliberações da assembleia geral e com o plano anual de gerência.
 
 2 - Apenas a assembleia geral, e em casos excepcionais, possui competência para conceder dispensas de trabalho aos sócios.
 
-###### Art. 10.º A área máxima das terras exploradas em comum é calculada em cada caso em função da capacidade de trabalho dos sócios, não podendo, no entanto, exceder dez vezes a superfície da exploração familiar economicamente viável.
+Art. 10.º A área máxima das terras exploradas em comum é calculada em cada caso em função da capacidade de trabalho dos sócios, não podendo, no entanto, exceder dez vezes a superfície da exploração familiar economicamente viável.
 
 ### CAPÍTULO III — Benefícios
 
-###### Art. 11.º Os sócios que participam com trabalho a tempo inteiro poderão integrar-se no regime de segurança social estabelecido para os assalariados agrícolas de natureza permanente.
+Art. 11.º Os sócios que participam com trabalho a tempo inteiro poderão integrar-se no regime de segurança social estabelecido para os assalariados agrícolas de natureza permanente.
 
-###### Art. 12.º A admissão de uma sociedade de agricultura de grupo numa cooperativa agrícola, caixa de crédito agrícola mútuo ou qualquer outra organização de tipo associativo não determina a caducidade dos anteriores direitos dos seus sócios perante estas entidades.
+Art. 12.º A admissão de uma sociedade de agricultura de grupo numa cooperativa agrícola, caixa de crédito agrícola mútuo ou qualquer outra organização de tipo associativo não determina a caducidade dos anteriores direitos dos seus sócios perante estas entidades.
 
-###### Art. 13.º As sociedades de agricultura de grupo beneficiam das regalias e isenções concedidas por lei às cooperativas agrícolas, conforme dispõe o n.º 1 do [Decreto-Lei n.º 49184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763), de 11 de Agosto de 1969.
+Art. 13.º As sociedades de agricultura de grupo beneficiam das regalias e isenções concedidas por lei às cooperativas agrícolas, conforme dispõe o n.º 1 do [Decreto-Lei n.º 49184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763), de 11 de Agosto de 1969.
 
-###### Art. 14.º As sociedades de agricultura de grupo beneficiarão, preferencialmente, além do crédito previsto na [Portaria n.º 131-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/131-a-1979-569350), de condições especiais de financiamento, quer sob forma de empréstimos quer de subsídios, instituídos ou a instituir pelo Ministério da Agricultura e Pescas, designadamente quando destinados:
+Art. 14.º As sociedades de agricultura de grupo beneficiarão, preferencialmente, além do crédito previsto na [Portaria n.º 131-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/131-a-1979-569350), de condições especiais de financiamento, quer sob forma de empréstimos quer de subsídios, instituídos ou a instituir pelo Ministério da Agricultura e Pescas, designadamente quando destinados:
 
 a) À aquisição de prédios ou de parte de prédios rústicos, quando venham a contribuir para o aumento da superfície agrícola útil e, mediante parecer favorável dos serviços regionais do Ministério da Agricultura e Pescas, sejam consideradas operações de reestruturação fundiária;
 
@@ -188,7 +199,7 @@ d) À construção de estábulos e outras instalações integradas no plano de d
 
 e) À electrificação rural.
 
-###### Art. 15.º As sociedades de agricultura de grupo beneficiam, por intermédio dos serviços competentes do Ministério da Agricultura e Pescas, de apoio e assistência em condições preferenciais, nomeadamente nos domínios de:
+Art. 15.º As sociedades de agricultura de grupo beneficiam, por intermédio dos serviços competentes do Ministério da Agricultura e Pescas, de apoio e assistência em condições preferenciais, nomeadamente nos domínios de:
 
 a) Assistência técnica em geral, em particular na elaboração do plano de exploração, e acompanhamento da sua execução;
 
@@ -198,24 +209,24 @@ c) Formação profissional de base e especializada dos sócios.
 
 ### CAPÍTULO IV — Fiscalização
 
-###### Art. 16.º - 1 - O Ministério da Agricultura e Pescas reserva-se o direito de examinar, com observância do disposto no § único do artigo 43.º do Código Comercial, a escrita das sociedades e toda a documentação que esteja na sua base, sempre que estas hajam beneficiado de subsídios estatais ou de crédito bonificado ou avalizado pelo Ministério.
+Art. 16.º - 1 - O Ministério da Agricultura e Pescas reserva-se o direito de examinar, com observância do disposto no § único do artigo 43.º do Código Comercial, a escrita das sociedades e toda a documentação que esteja na sua base, sempre que estas hajam beneficiado de subsídios estatais ou de crédito bonificado ou avalizado pelo Ministério.
 
 2 - Os funcionários do Ministério da Agricultura e Pescas designados para o efeito poderão participar com carácter consultivo nas assembleias gerais e em quaisquer outras reuniões efectuadas pela sociedade, sempre que a sua presença seja requerida.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 17.º - 1 - As sociedades de agricultura de grupo constituídas ao abrigo do [Decreto-Lei n.º 49184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763), de 11 de Agosto de 1969, serão objecto de análise pelos serviços do Ministério da Agricultura e Pescas, a fim de ser verificada a sua harmonização com as disposições contidas naquele diploma.
+Art. 17.º - 1 - As sociedades de agricultura de grupo constituídas ao abrigo do [Decreto-Lei n.º 49184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763), de 11 de Agosto de 1969, serão objecto de análise pelos serviços do Ministério da Agricultura e Pescas, a fim de ser verificada a sua harmonização com as disposições contidas naquele diploma.
 
 2 - Aquelas que não funcionem efectivamente ou que de forma mais flagrante se afastem do regime estabelecido pelo [Decreto-Lei n.º 49184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763), de 11 de Agosto de 1969, deixarão de ser reconhecidas, para todos os efeitos legais, como sociedades de agricultura de grupo.
 
-###### Art. 18.º As dúvidas e casos omissos suscitados pela aplicação deste diploma serão resolvidos por despacho do Ministro da Agricultura e Pescas.
+Art. 18.º As dúvidas e casos omissos suscitados pela aplicação deste diploma serão resolvidos por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 19.º Fica revogado o [Decreto-Lei n.º 49184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763), de 11 de Agosto de 1969, em tudo o que for contrário ao presente diploma.
+Art. 19.º Fica revogado o [Decreto-Lei n.º 49184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763), de 11 de Agosto de 1969, em tudo o que for contrário ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Joaquim da Silva Lourenço.
 
-**Promulgado em 21 de Dezembro de 1979.**
+Promulgado em 21 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

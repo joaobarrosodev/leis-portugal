@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46739-1965-508057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89dad5da0dbb92ce0e0665f4755c37121470a6d1b23bcb2b8e48271b5b2d8e75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f7fddb2497ad74075c41f098e183b8df8fef8643fef201786fc131b9cb02de4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Aeroporto
+- Fundo de Desemprego
+- Horta
+- Ministro das Comunicações
+- Ministro das Obras Públicas
+- Obras Públicas
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:181407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:30Z'
   warnings: []
   errors: []
 ---
@@ -95,23 +119,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Obras Públicas autorizado a conceder ao Ministério das Comunicações, pelo Fundo de Desemprego, o subsídio reembolsável, sem juro, de 10000000$00, destinado à construção e equipamento do aeroporto da Horta.
+Artigo 1.º Fica o Ministro das Obras Públicas autorizado a conceder ao Ministério das Comunicações, pelo Fundo de Desemprego, o subsídio reembolsável, sem juro, de 10000000$00, destinado à construção e equipamento do aeroporto da Horta.
 
 2. Deste subsídio será utilizada no ano corrente uma importância até 2500000$00 e no ano de 1966 o restante.
 
-###### Art. 2.º O Ministério das Comunicações reembolsará o Fundo de Desemprego por força das dotações a inscrever na rubrica adequada do seu orçamento da despesa extraordinária, em execução do Plano Intercalar de Fomento, em duas prestações de 5000000$00, vencíveis nos anos de 1967 e 1968.
+Art. 2.º O Ministério das Comunicações reembolsará o Fundo de Desemprego por força das dotações a inscrever na rubrica adequada do seu orçamento da despesa extraordinária, em execução do Plano Intercalar de Fomento, em duas prestações de 5000000$00, vencíveis nos anos de 1967 e 1968.
 
-###### Art. 3.º As importâncias do subsídio a que se refere o artigo 1.º serão depositadas nos cofres do Estado, mediante guias passadas pela 12.ª Repartição da Direcção-Geral da Contabilidade Pública.
+Art. 3.º As importâncias do subsídio a que se refere o artigo 1.º serão depositadas nos cofres do Estado, mediante guias passadas pela 12.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 4.º Mediante decreto assinado pelos Ministros das Finanças, das Obras Públicas e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
+Art. 4.º Mediante decreto assinado pelos Ministros das Finanças, das Obras Públicas e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
 
-###### Art. 5.º É aplicável à construção e equipamento do aeroporto da Horta o disposto no [Decreto-Lei n.º 45444](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45444-1963-683442), de 16 de Dezembro de 1963, para o aeroporto de S. Miguel, cabendo à Junta Geral do Distrito Autónomo da Horta as atribuições conferidas por aquele diploma à Junta Geral do Distrito Autónomo de Ponta Delgada.
+Art. 5.º É aplicável à construção e equipamento do aeroporto da Horta o disposto no [Decreto-Lei n.º 45444](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45444-1963-683442), de 16 de Dezembro de 1963, para o aeroporto de S. Miguel, cabendo à Junta Geral do Distrito Autónomo da Horta as atribuições conferidas por aquele diploma à Junta Geral do Distrito Autónomo de Ponta Delgada.
 
-###### Art. 6.º É tornado extensivo ao pessoal deslocado nos aeroportos de S. Miguel e da Horta, para o efeito da fiscalização de obras ou da montagem de instalações ou equipamentos, o disposto na alínea b) do artigo 10.º do [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
+Art. 6.º É tornado extensivo ao pessoal deslocado nos aeroportos de S. Miguel e da Horta, para o efeito da fiscalização de obras ou da montagem de instalações ou equipamentos, o disposto na alínea b) do artigo 10.º do [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
 
-###### Art. 7.º Para reinstalação das famílias desalojadas por virtude das obras de construção dos aeroportos de S. Miguel e da Horta, as Juntas Gerais dos Distritos Autónomos de Ponta Delgada e da Horta têm a competência atribuída à Junta Geral do Distrito Autónomo do Funchal pelo artigo 2.º e seus parágrafos do [Decreto-Lei n.º 43446](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43446-1960-479944), de 28 de Dezembro de 1960, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 44023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44023-1961-181407), de 11 de Novembro de 1961.
+Art. 7.º Para reinstalação das famílias desalojadas por virtude das obras de construção dos aeroportos de S. Miguel e da Horta, as Juntas Gerais dos Distritos Autónomos de Ponta Delgada e da Horta têm a competência atribuída à Junta Geral do Distrito Autónomo do Funchal pelo artigo 2.º e seus parágrafos do [Decreto-Lei n.º 43446](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43446-1960-479944), de 28 de Dezembro de 1960, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 44023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44023-1961-181407), de 11 de Novembro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

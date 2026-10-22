@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 104/1962, 1º Suplemento, Série I de 1962-05-08
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 651 - 684
   pdf_url: https://files.diariodarepublica.pt/1s/1962/05/10401/06510684.pdf
 entry_into_force_dates: []
@@ -47,40 +47,258 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03ec5a4e1d6ad522b831ffe91949abc7f0faca34f4965ccbe7301de9e9216374
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76b929973cd563200e675b183cf1a4d607ddb3f90c12ff3016a279e365590017
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:553668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348328:por
+  label: "Alterados, a partir de 01.06.1967, os artigos 3.º, 5.º, 6.º, 8.º, 24.º, 25.º, 26.º, 32.º, 33.º, 42.º, 43.º, 44.º,\
+    \ 46.º, 56.º, 65.º, 84.º, 85.º, 87.º, 89.º, 97.º, 98.º, 101.º, 112.º, 124.º, 131.º, 142.º, 150.º, 160.º, 161.º, 162.º,\
+    \ 171.º, 174.º, 183.º, 184.º, 188.º, 190.º, 195.º, 200.º, 202.º, 236.º, 239.º, 258.º e 267.º do Código, pelo DEC LEI.47692.11.05.1967.MJ,\
+    \ DG.IS [112] de 11.05.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47692-1967-348328
+  date: '1967-05-11'
+- type: amended_by
+  target: pt:dre:526655:por
+  label: "Alterado o art. 52º, nº2 do art. 195º e arts. 258º e 264º do Código das Custas Judiciais, promulgado pelo presente\
+    \ diploma, pelo DEC LEI.48853.30.01.1969.MJ, DG.IS [25] de 30.01.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48853-1969-526655
+  date: '1969-01-30'
+- type: amended_by
+  target: pt:dre:214886:por
+  label: "Alterada a al. b) do nº 1 do art. 112º, e suspensa a aplicação dos arts. 24º, 46º, 47º, 48º, 50º, 68º, 71º, 87º,\
+    \ 131º, 194º e 235º nº 2, pelo DEC LEI.49213.1969.08.29.MJ, DG.IS [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49213-1969-214886
+  date: '1969-08-29'
+- type: amended_by
+  target: pt:dre:675608:por
+  label: "Elevadas para o dobro as quantias certas indicadas nos arts. 69º, 72º, 75º, 88º e 266º e, dada nova redacção aos\
+    \ arts. 90º, 195º (com a redacção constante do Dec Lei 47692 de 11-Mai de 1967) e 255º do Código das Custas Judiciais\
+    \ pelo DEC LEI.270/72.02.08.1972.MJ, DG.IS [179] de 02.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1972-675608
+  date: '1972-08-02'
+- type: amended_by
+  target: pt:dre:470841:por
+  label: "Alterada a al a) do nº 1 do art. 8º pelo DEC LEI.696/73.1973.12.22.MJ,DG.IS [297]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/696-1973-470841
+  date: '1973-12-22'
+- type: amended_by
+  target: pt:dre:507628:por
+  label: "Alterados os arts. 200º e 202º o Código pelo DEC LEI.161/76.27.02.1976.MJ, DG.IS [49] de 27.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1976-507628
+  date: '1976-02-27'
+- type: amended_by
+  target: pt:dre:276632:por
+  label: "Alterado o nº 1 do art. 22º do Código, pelo DEC LEI.533/77.1977.12.30.MJ, DR.IS [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1977-276632
+  date: '1977-12-30'
+- type: amended_by
+  target: pt:dre:464041:por
+  label: "Alterados os artigos 69.º, 72.º, 73.º, 75.º, 84.º, 88.º, 89.º, 91.º, 92.º, 93.º, 95.º, 195.º e 198.º do Código,\
+    \ pelo DEC LEI.366/80.10.09.1980.PCM, DR.IS [209] de 10.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1980-464041
+  date: '1980-09-10'
+- type: amended_by
+  target: pt:dre:608475:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade do n.º 1 do artigo 189.º, na parte em que, conjugado\
+    \ com o disposto no n.º 2 do artigo 192.º do Código, pela RES.56/82.03.04.1982.CR, DR.IS [78] de 03.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/56-1982-608475
+  date: '1982-04-03'
+- type: amended_by
+  target: pt:dre:395722:por
+  label: "Alterados os arts. 8º, 104º e 107º do Código de Custas Judiciais, aprovado pelo presente diploma, pelo DEC LEI.224/82.08.06.1982.MJ,\
+    \ DR.IS [130] de 08.06.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1982-395722
+  date: '1982-06-08'
+- type: amended_by
+  target: pt:dre:311375:por
+  label: "Alterados os arts. 8º, 104º e 107º do Código das Custas Judiciais, na redacção conferida pelo Dec Lei 224/82 de\
+    \ 08-Jun, pela LEI.3/83.1983.02.26.AR DR.IS [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1983-311375
+  date: '1983-02-26'
+- type: amended_by
+  target: pt:dre:451794:por
+  label: "Alterados os arts. 26º, 43º, 52º, 98º, 111º, 171º, 177º, 184º, 185º, 187º, 188º, 190º e 208º do Código, pelo DEC\
+    \ LEI.223/83.27.05.1983.PCM, DR.IS [122] de 27.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1983-451794
+  date: '1983-05-27'
+- type: amended_by
+  target: pt:dre:324328:por
+  label: "Alterados os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 17.º, 22.º, 25.º, 42.º, 43.º, 62.º, 64.º, 69.º, 75.º, 97.º, 101.º,\
+    \ 116.º, 117.º, 124.º, 142.º, 150.º, 167.º, 171.º, 184.º, 188.º, 195.º, 198.º, 205.º e 211.º do Código, pelo DEC LEI.118/85.19.04.1985.MJ,\
+    \ DR.IS [91] de 19.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1985-324328
+  date: '1985-04-19'
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterados os arts. 8º (na redacção dos Dec Lei 696/73 de 22-Dez, 224/82 de 08-Jun, 223/83 de 27-Mai, Lei 3/83 de\
+    \ 26-Fev e Dec Lei 132/93 de 23-Abr), 98º (na redacção do Dec Lei 223/83 de 27-Mai), 104º (na redacção do Dec Lei 224/82\
+    \ de 08-Jun e Lei 3/83 de 26-Fev) e art. 105º, todos do Código das Custas Judiciais, aprovado pelo presente diploma, revisto\
+    \ pelo Dec Lei 49213 de 29-Ago 1969, pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:168599:por
+  label: "Alterados os arts. 105º e 107º pelo DEC LEI.384-A/85.1985.09.30.MJ,DR.IS [225]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-a-1985-168599
+  date: '1985-09-30'
+- type: amended_by
+  target: pt:dre:219960:por
+  label: "Alterado o nº 1 do art. 107º pela LEI.38/86.1986.09.06.AR,DR.IS [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/38-1986-219960
+  date: '1986-09-06'
+- type: amended_by
+  target: pt:dre:421655:por
+  label: "Alterado, a partir de 27.06.1987, o artigo 87.º do Código, na redacção do Decreto-Lei n.º 47692, de 11 de Maio de\
+    \ 1967, pelo DEC LEI.214/87.28.05.1987.MJ, DR.IS [122] de 28.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1987-421655
+  date: '1987-05-28'
+- type: amended_by
+  target: pt:dre:670074:por
+  label: "Alterados os arts. 1º, 8º, 16º, 17º, 18º, 19º, 20º, 21º, 22º, 23º, 25º, 26º, 32º, 33º, 35º, 36º, 37º, 38º, 39º,\
+    \ 40º, 41º, 42º, 43º, 44º, 45º, 48º, 49º, 50º, 51º, 52º, 65º, 67º, 89º, 91º, 95º, 96º, 97º, 98º, 101º, 102º, 104º, 106º,\
+    \ 107º, 108º, 109º, 114º, 116º, 117º, 121º, 122º, 125º, 127º, 132º, 147º, 152º, 153º, 162º, 163º, 164º, 165º, 187º, 188º,\
+    \ 190º, 193º, 194º, 195º, 198º, 208º, 222º, revogados ainda os arts. 4º, 13º, 14º, 24º, 34º, 46º, 47º, 53º, 54º, 56º,\
+    \ 57º, 58º, 59º, 60º, 61º, 62º, 63º, 64º, 68º, 82º, 88º, 90º, 94º, 99º, 105º, 111º, 118º, 119º, 123º, 131º, 171º, 173º,\
+    \ 175º, 176º, 177º, 178º, 180º, 189º, nº 2 do art. 192º, nº 2 do art. 199º e art. 205º, pelo DEC LEI.387-D/87.1987.12.29.MJ,\
+    \ DR.IS [298]Supl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-d-1987-670074
+  date: '1987-12-29'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterados os arts. 8º (com a redacção dada pelo Dec Lei 47692 de 11-Mai 1967, pelo Dec Lei 696/73 de 22-Dez, pelo
+    Dec Lei 224/82 de 08-Jun, pela Lei 3/83 de 26-Fev, pelo Dec Lei 118/85 de 19-Abr , pelo Dec Lei 242/85 de 09-Jul e pelo
+    Dec Lei 387-D/87 de 29-Dez), 11º, 18º (com a redacção dada pelo Dec Lei 387-D/87 de 29-Dez), 43º (com a redacção dada
+    pelo Dec Lei 47692 de 11-Mai 1967, pelo Dec Lei 118/85 de 19-Abr e pelo Dec Lei 387-D/87 de 29-Dez), 46º (com a redacção
+    dada pelo Dec Lei 47692 de 11-Mai 1967 e pelo Dec Lei 387-D/87 de 29-Dez), 50º, 51º (ambos com a redacção dada pelo Dec
+    Lei 387-D/87 de 29-Dez), e 184º (com a redacção dada pelo Dec Lei 47692 de 11-Mai 1967, pelo Dec Lei 223/83 de 27-Mai,
+    Dec Lei 118/85 de 19-Abr e pelo Dec Lei 387-D/87 de 29-Dez) e a nota da tabela anexa referida no art. 16º (com a redacção
+    dada pelo Dec Lei 387-D/87 de 29-Dez) do Código das Custas Judiciais, aprovado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 92/88 - Diário da República n.º 64/1988, 1º Suplemento, Série I de 1988-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: amended_by
+  target: pt:dre:620954:por
+  label: Alterados os arts. 6º, 9º, 17º, 18º, 20º, 22º e 23º(os cinco últimos na redação do Dec Lei 387-D/87, de 29-dez),
+    24º, 26º, 35º, 36º, 42º, 43º, 45º, 48º e 50º (os oito últimos na redação do Dec Lei 387-D/87, de 29-dez), 84º, 85º, 87º,
+    96º, 98º, 102º, 107º e 109º(os cinco últimos na redação do Dec Lei 387-D/87, de 29-dez), 118º, 119º, 119º-A 119º-A (aditado
+    pelo Dec Lei 387-D/87, de 29-dez), 122º(na redação do Dec Lei 387-D/87, de 29-dez), 135, 144º, 170º, 184º, 193º e 195º(os
+    dois últimos na redação do Dec Lei 387-D/87, de 29-dez), 230º, 231º, 234º, 236º, substituida a tabela anexa a que se refere
+    o art. 16º e revogados os n.ºs 3 e 4 do art. 1º, os arts. 15º, 46º, 51º, 74º, o n.º 4 do art. 97º e o art. 207º todos
+    do Código das Custas Judiciais aprovado pelo presente diploma pelo(a) Decreto-Lei n.º 212/89 - Diário da República n.º
+    148/1989, Série I de 1989-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1989-620954
+  date: '1989-06-30'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Altera o art. 85.º do Código das Custas Judiciais, pela LEI.30-C/92.1992.12.28.AR DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:585027:por
+  label: "Actualizados os valores dos emolumentos previstos no artigo 195.º do Código, pela PORT.71/93.19.01.1993.MJ, DR.IS-B\
+    \ [15] de 19.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/71-1993-585027
+  date: '1993-01-19'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Alterados pelo DEC LEI.227/94.1994.09.08.MJ, DR.IS-A [208] os seguintes arts. do Código das Custas Judiciais:art.\
+    \ 4º (na redacção dada pelo Dec Lei 118/85 de 19-Abr), art. 5º (na redacção dada pelo Dec Lei 118/85 de 19-Abr), art.\
+    \ 16º (na redacção do Dec Lei 387-D/87 de 29-Dez), art. 18º (na redacção dada sucessivamente pelo Dec Lei 387-D/87 de\
+    \ 29-Dez, pelo Dec Lei 92/88 de 17-Mar e pelo Dec Lei 212/89 de 30-Jun), art. 33º (alterado pelo Dec Lei 387-D87 de 29-Dez),\
+    \ art. 96º (na redacção dada pelo Dec Lei 387-D/87 de 29-Dez), art. 97º (na redacção dada, sucessivamente, pelos Dec Leis\
+    \ 387-D/87 de 29-Dez e 212/89 de 30-Jun), art. 98º (alterado pelo Dec Lei 387-D/87 de 29-Dez) e o art. 267º e revogado\
+    \ o art. 158º pelo mesmo diploma legal\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: amended_by
+  target: pt:dre:202420:por
+  label: "Alterado o art. 65.º do Código das Custas Judiciais, aprovado pelo presente diploma, na redacção que lhe foi conferida\
+    \ pelo Dec Lei 387-D/87 de 29-Dez, pelo DEC LEI.39/95.1995.02.15.MJ DR.IS-A [39]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1995-202420
+  date: '1995-02-15'
+- type: cites
+  target: pt:dre:201600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614868:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286514:por
+  label: "Revogada a al. c) do art. 258.º do Código das Custas Judiciais, no que respeita ao pessoal em serviço na Polícia\
+    \ Judiciária, desde que não trate de magistrados judiciais ou do Ministério Público em comissão de serviço, e sem prejuízo\
+    \ do disposto no n.º 4 do art. 147.º do presente diploma, pelo DEC LEI.364/77.1977.09.02.MJ DR.IS [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/364-1977-286514
+  date: '1977-09-02'
+- type: repealed_by
+  target: pt:dre:218957:por
+  label: "Revogado o art. 55º, pela LEI.31/86.1986.08.29.AR, DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-1986-218957
+  date: '1986-08-29'
+- type: repealed_by
+  target: pt:dre:666341:por
+  label: "Revogadas as als. m) e n) do nº 1 do art. 8º, a al. d) do art. 17º e os arts. 20º, 21º e 30º do Código, pelo DEC\
+    \ LEI.132/93.1993.04.23.MJ, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1993-666341
+  date: '1993-04-23'
+- type: repealed_by
+  target: pt:dre:389638:por
+  label: "Revogados os artigos 81.º e 83.º do Código, pelo DEC LEI.254/93.15.07.1993.MJ, DR.IS-A [164] de 15.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1993-389638
+  date: '1993-07-15'
+- type: repealed_by
+  target: pt:dre:553668:por
+  label: "Revogado, com excepção do disposto no art 221º, pelo DEC LEI.224-A/96.1996.11.26.MJ DR.IS-A [274]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
 article_structure:
   article_count: 269
-  section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 41
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:38Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +365,7 @@ Código das Custas Judiciais
 
 I
 
-# Parte cível
+## Parte cível
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -671,7 +889,9 @@ d) No Supremo Tribunal de Justiça ... 500$00
 
 Quando a secretaria verificar que o imposto, sendo variável, não está fixado, levará o processo imediatamente concluso ao juiz ou relator e este suprirá a falta, ainda que a omissão proceda de tribunal diferente.
 
-#### SECÇÃO V — Divisão do imposto de justiça
+#### SECÇÃO V
+
+##### Divisão do imposto de justiça
 
 ###### Artigo 54.º — (Destino do imposto de justiça)
 
@@ -1707,7 +1927,7 @@ As taxas de juro de mora são as estabelecidas na lei fiscal, revertendo a recei
 
 II
 
-# Parte criminal
+## Parte criminal
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -2511,7 +2731,7 @@ Cada escrivão recebe o dobro de cada oficial de diligências;
 
 Cada chefe de secretaria recebe mais 20 por cento do que cada escrivão de direito;
 
-**O secretário-geral recebe mais 20 por cento do que cada chefe de secretaria;**
+O secretário-geral recebe mais 20 por cento do que cada chefe de secretaria;
 
 O arquivista judicial recebe o mesmo que cada escrivão.
 
@@ -2561,6 +2781,6 @@ b) Relação dos processos de liquidação de imposto sucessório instaurados no
 
 O presente diploma entra em vigor no dia 1 de Junho de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

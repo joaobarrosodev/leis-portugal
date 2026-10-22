@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 186/1977, 1º Suplemento, Série I de 1977-08-12
   number: '186'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1984-(9) a 1984-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-a-1977-586022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e53d1229dddb811aa856f40ebfee361c71be8782ef1a58546807bf0cb56a14b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44536471fbc962bc4e49d72b9770f1fbfb2872a277f5a85fa5c7626c295bf06d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade Pública
+- Despesas Públicas
+- Gestão Orçamental
+- Orçamento Geral do Estado
+- Receita Pública
+- Subsídio
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165009:por
+  label: "Mantidas em vigor na parte aplicável ao enquadramento orçamental as disposições constantes do presente diploma pelo\
+    \ DEC LEI.20/78.20.01.1978.MF, DR.IS [17-Supl] de 20.01.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1978-165009
+  date: '1978-01-20'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:251472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586023:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:09Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +151,7 @@ QUADRO I
 
 Situação financeira do sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Para esta evolução contribui principalmente o equilíbrio entre as receitas e as despesas da segurança social, que se espera conseguir este ano mediante a recuperação das contribuições em dívida. Além disso, prevê-se a formação de poupança corrente em montante significativo por parte dos serviços e fundos autónomos da Administração Central, o que permitirá compensar a elevação do deficit corrente do Orçamento Geral do Estado de 19,5 para 25,2 milhões de contos.
 
@@ -136,7 +171,7 @@ QUADRO II
 
 Orçamento Geral do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Seguindo a orientação estabelecida de não agravamento do deficit orçamental, a fim de evitar que por esta via se possam gerar novos focos inflacionistas e novas pressões sobre a balança comercial, procedeu o Governo à revisão do Orçamento por forma a integrar apenas os reforços de verbas orçamentais permitidos pelo acréscimo de receitas correntes e considerados estritamente indispensáveis, com rigorosa contenção das despesas correntes, mas sem se reduzir o nível das despesas de capital, incluindo as abrangidas pelo Plano.
 
@@ -156,7 +191,7 @@ QUADRO III
 
 Execução orçamental e situação de tesouraria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Os resultados da execução orçamental acima descrita, conjugados com as operações de tesouraria no seu conjunto, determinaram sensível diminuição das disponibilidades do Tesouro, cujo valor se fixou em 862000 contos no final de Junho.
 
@@ -174,7 +209,7 @@ QUADRO IV
 
 Receitas cobradas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Assinale-se ainda o crescimento observado nas receitas provenientes da sisa, revelador de uma recuperação nas transacções de propriedades imobiliárias.
 
@@ -202,7 +237,7 @@ QUADRO V
 
 Despesas autorizadas por Ministérios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 A maior variação correspondeu, no entanto, às despesas incluídas no Ministério das Finanças (+6,5 milhões de contos), devido, em grande parte, ao acréscimo observado nos juros da dívida pública e ao pagamento de encargos financeiros resultantes da descolonização, bem como à realização de aumentos de capital de empresas públicas.
 
@@ -216,7 +251,7 @@ QUADRO VI
 
 Despesas autorizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 À semelhança de anos anteriores, as despesas autorizadas para investimentos do Plano no decurso do 1.º semestre do ano em curso representavam ainda uma parcela relativamente pouco elevada (19,2%) do valor total inscrito no Orçamento para 1977. Todavia, e como este valor corresponde a uma elevação particularmente sensível dos investimentos em relação ao ano findo, as despesas autorizadas no período considerado atingiram 6,7 milhões de contos, o que corresponde a um aumento de 3,1 milhões de contos. Esta evolução foi particularmente influenciada pela execução dos empreendimentos relativos aos Ministérios do Plano e Coordenação Económica, da Administração Interna, dos Assuntos Sociais e da Agricultura e Pescas.
 
@@ -236,7 +271,7 @@ QUADRO VII
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Atendendo à recuperação de cobranças atrás referida, torna-se difícil avaliar a alteração efectivamente verificada na pressão fiscal.
 
@@ -246,7 +281,7 @@ QUADRO VIII
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Na contribuição industrial prevê-se uma cobrança total superior em 300000 contos à inicialmente estimada, tendo em conta o comportamento das receitas cobradas no corrente ano, as quais correspondem ainda a prestações respeitantes a lucros de 1975 e, em menor escala, de anos anteriores. Além disso, admite-se que, mercê de um aperfeiçoamento da acção dos serviços, seja possível obter maior eficiência na arrecadação desta receita.
 
@@ -296,7 +331,7 @@ Despesas orçamentais
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Para os departamentos militares, no seu conjunto, o valor orçamentado experimenta um acréscimo de 1,9 milhões de contos, devido na sua maior parte à melhoria das remunerações.
 
@@ -328,7 +363,7 @@ Despesas orçamentais
 
 (Classificação económica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Inscrevem-se também no Orçamento revisto, a acrescer ao montante inicialmente fixado, novas transferências para o sector empresarial, no total de 3 milhões de contos, que constituem subsídios extraordinários a empresas dos sectores da agricultura e pescas, das indústrias transformadoras, da electricidade e dos transportes, bem como da comunicação social.
 
@@ -350,7 +385,7 @@ Despesas orçamentais
 
 (Classificação funcional)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Por sua vez, a elevação das despesas com a educação situa-se em 4,3 milhões de contos, enquanto na saúde atinge 1,2 milhões de contos e na segurança e assistência sociais 0,6 milhões de contos.
 
@@ -374,13 +409,13 @@ QUADRO XII
 
 Meios de pagamento e factores monetários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 QUADRO XIII
 
 Dívida pública e serviço da dívida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Justifica-se esta diferença pelo facto de o valor dos pagamentos efectivos de despesas da gerência de 1976 realizados no período complementar (até 14 de Fevereiro de 1977) ter sido inferior ao anteriormente estimado (19 milhões, contra 24 milhões de contos).
 
@@ -404,7 +439,7 @@ QUADRO XIV
 
 Orçamentos dos serviços autónomos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 A poupança corrente dos serviços autónomos apresenta elevado valor positivo, devendo-se, no entanto, este resultado fundamentalmente aos serviços de natureza não empresarial, considerados no quadro geral da Administração Pública.
 
@@ -422,7 +457,7 @@ QUADRO XV
 
 Orçamentos dos fundos autónomos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 Assume ainda peso apreciável no conjunto das despesas o subsídio de desemprego, englobado nas transferências correntes para particulares.
 
@@ -478,22 +513,22 @@ As dúvidas que ocorrerem na aplicação deste diploma serão resolvidas pelo Mi
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO 1 — Mapa das receitas revistas para 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 ## ANEXO 2 — Mapa das despesas revistas fixadas para 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
 ## ANEXO 3 — Resumo, por objectivos finais, das despesas revistas do ano de 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18601/00090037.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

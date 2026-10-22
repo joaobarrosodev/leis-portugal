@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/580-1971-632210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 578cb601643666b01d709e0cfabe67652cc6b2fbb79ea7090d32a396fb3b5a46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c903e536d0cc2915019634533e5e897359f04b70f466c893b86e68c4b6e34ba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:487900:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:40Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +98,14 @@ Considerando o disposto no § 3.º do artigo 136.º da Constituição, por motiv
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O privilégio creditório conferido à província de Moçambique pelo artigo 3.º do [Decreto n.º 46959](https://diariodarepublica.pt/dr/detalhe/decreto/46959-1966-487900), de 13 de Abril de 1966, abrange apenas os bens mobiliários e imobiliários da fábrica da Machava da Sociedade Industrial de Caju e Derivados, S. A. R. L., Cajuca.
+Artigo único. O privilégio creditório conferido à província de Moçambique pelo artigo 3.º do [Decreto n.º 46959](https://diariodarepublica.pt/dr/detalhe/decreto/46959-1966-487900), de 13 de Abril de 1966, abrange apenas os bens mobiliários e imobiliários da fábrica da Machava da Sociedade Industrial de Caju e Derivados, S. A. R. L., Cajuca.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Dezembro de 1971.**
+Promulgado em 7 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.

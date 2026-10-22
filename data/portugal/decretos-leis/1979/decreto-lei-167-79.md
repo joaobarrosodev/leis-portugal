@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/12800/12131214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1979-383841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef69d390ebd407ac8aef29fad0150b4e33a03586c2a6654b28133521ef312239
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3c292505d6be0c47d445befb0d1b04019248ee1a59c1f513a30fa884c0ff8a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque Natural da Serra da Estrela
+- Serra da Estrela
 relationships:
 - type: amended_by
   target: pt:dre:641461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626621:por
+  label: "Interditado o exercício da caça dentro dos limites do Parque Natural da Serra da Estrela, nas zonas identificadas\
+    \ em planta anexa à PORT.818/93.07.09.1993.MARN, DR.IS-B [[210]] de 07.09.1993\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/818-1993-626621
+  date: '1993-09-07'
+- type: amended_by
+  target: pt:dre:216723:por
+  label: "Interditado o exercício da caça nos terrenos cinegéticos não ordenados dentro dos limites do Parque Natural da Serra\
+    \ da Estrela, previstos no presente diploma, reclassificado pelo DR 50/97 de 20-Nov, pela PORT.352/2004.01.04.2004.MCOTA,\
+    \ DR.IS-B [78] de 01.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-2004-216723
+  date: '2004-04-01'
+- type: cites
+  target: pt:dre:430620:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694208:por
+  label: "Revogado pelo DR.50/97.1997.11.20.MAM, DR.IS-B [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-1997-694208
+  date: '1997-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:11Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +124,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os limites do Parque Natural da Serra da Estrela, definidos no artigo 2.º do [Decreto-Lei n.º 557/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1976-430620), de 16 de Julho, passam a ser os seguintes:
+Artigo 1.º Os limites do Parque Natural da Serra da Estrela, definidos no artigo 2.º do [Decreto-Lei n.º 557/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1976-430620), de 16 de Julho, passam a ser os seguintes:
 
 A norte - partindo de Celorico da Beira, excluído o perímetro urbano, segue pela estrada nacional n.º 18 até às proximidades da Guarda e inflecte pelo caminho que conduz a Malmedra, contorna o lugar de Lameirinhas e a mata do Sanatório de Sousa Martins, excluindo também o perímetro urbano da Guarda, até encontrar de novo a estrada nacional n.º 18;
 
@@ -110,22 +134,22 @@ A sul - segue pela estrada nacional n.º 230 até ao desvio para Erada e desta p
 
 A oeste - segue o limite do concelho de Oliveira do Hospital até à estrada nacional n.º 17 e por esta até Celorico da Beira.
 
-###### Art. 2.º - 1 - A matéria contida nos artigos 5.º, 6.º, 7.º e 8.º do [Decreto-Lei n.º 557/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1976-430620), de 16 de Julho, relativa a contravenções, multas, fiscalização e iniciativas sujeitas a autorização superior, dizem respeito ao território do Parque fora do perímetro urbano das povoações existentes, excepto as povoações ou partes de povoações que sejam especificamente classificadas, que terão de dispor de regulamento próprio.
+Art. 2.º - 1 - A matéria contida nos artigos 5.º, 6.º, 7.º e 8.º do [Decreto-Lei n.º 557/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1976-430620), de 16 de Julho, relativa a contravenções, multas, fiscalização e iniciativas sujeitas a autorização superior, dizem respeito ao território do Parque fora do perímetro urbano das povoações existentes, excepto as povoações ou partes de povoações que sejam especificamente classificadas, que terão de dispor de regulamento próprio.
 
 2 - Dentro das povoações incluídas no perímetro do Parque Natural não abrangidas no número anterior devem no entanto as autarquias locais promover a salvaguarda do património arquitectónico e paisagístico, recorrendo aos serviços técnicos do Parque Natural para apoio às suas tomadas de decisão nas disposições visadas pelas restrições.
 
 3 - As freguesias em que uma parte do território seja incluída nos limites fixados no artigo 1.º consideram-se na sua totalidade abrangidas pelos regulamentos do Parque.
 
-###### Art. 3.º No prazo máximo de sessenta dias a partir da publicação do presente diploma serão aprovados superiormente o plano de ordenamento preliminar e o respectivo regulamento, os quais vigorarão até à conclusão e aprovação do plano final de ordenamento do Parque.
+Art. 3.º No prazo máximo de sessenta dias a partir da publicação do presente diploma serão aprovados superiormente o plano de ordenamento preliminar e o respectivo regulamento, os quais vigorarão até à conclusão e aprovação do plano final de ordenamento do Parque.
 
 Carlos Alberto da Mota Pinto - João Orlindo Almeida Pina.
 
-**Promulgado em 11 de Maio de 1979.**
+Promulgado em 11 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/12800/12131214.pdf))](https://files.diariodarepublica.pt/1s/1979/06/12800/12131214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/12800/12131214.pdf)
 
-**O Ministro das Obras Públicas, João Orlindo Almeida Pina.**
+O Ministro das Obras Públicas, João Orlindo Almeida Pina.

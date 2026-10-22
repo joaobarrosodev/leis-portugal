@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30200/31253125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1977-276608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 918a2212bfd3f379b5cd7ab26321d65ca3e5f7a0073b6ba0e079994e3083dabf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe25266f15dd2995367eca8c563034f99b9a01eb598324c85443eb3f4f25bdfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Extinção de Serviços
+- Ministério do Ultramar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:252803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:06Z'
   warnings: []
   errors: []
 ---
@@ -96,30 +114,30 @@ Considerando que importa definir as regras de integração em serviços homólog
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Inspecção Superior das Alfândegas e o Conselho Superior Técnico Aduaneiro do Ultramar são extintos em 31 de Dezembro do corrente ano.
+Artigo 1.º A Inspecção Superior das Alfândegas e o Conselho Superior Técnico Aduaneiro do Ultramar são extintos em 31 de Dezembro do corrente ano.
 
-###### Art. 2.º As funções remanescentes das que cabiam à Inspecção Superior das Alfândegas passam a ser cometidas à Direcção-Geral de Fazenda.
+Art. 2.º As funções remanescentes das que cabiam à Inspecção Superior das Alfândegas passam a ser cometidas à Direcção-Geral de Fazenda.
 
-###### Art. 3.º - 1 - Os funcionários do quadro de pessoal da Inspecção Superior das Alfândegas serão integrados no quadro paralelo da Direcção-Geral das Alfândegas, criado pela [Portaria n.º 298/77](https://diariodarepublica.pt/dr/detalhe/portaria/298-1977-252803), de 25 de Maio, sendo-lhes aplicável o regime geral de pessoal nela estabelecido.
+Art. 3.º - 1 - Os funcionários do quadro de pessoal da Inspecção Superior das Alfândegas serão integrados no quadro paralelo da Direcção-Geral das Alfândegas, criado pela [Portaria n.º 298/77](https://diariodarepublica.pt/dr/detalhe/portaria/298-1977-252803), de 25 de Maio, sendo-lhes aplicável o regime geral de pessoal nela estabelecido.
 
 2 - A integração será feita nas categorias que resultarem da aplicação dos critérios que presidiram à elaboração da tabela de equivalências anexa àquele diploma e efectivar-se-á mediante lista nominativa aprovada pelos Secretários de Estado da Integração Administrativa, do Orçamento e da Administração Pública, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 4.º - 1 - A Inspecção Superior das Alfândegas assegurará o pagamento de todo o seu pessoal até à data da sua extinção, ainda que o mesmo se encontre, ou venha a ser destacado para a Direcção-Geral das Alfândegas antes de ser integrado no respectivo quadro paralelo.
+Art. 4.º - 1 - A Inspecção Superior das Alfândegas assegurará o pagamento de todo o seu pessoal até à data da sua extinção, ainda que o mesmo se encontre, ou venha a ser destacado para a Direcção-Geral das Alfândegas antes de ser integrado no respectivo quadro paralelo.
 
 2 - Os encargos referentes ao ano de 1978 deverão ser considerados para efeitos de inscrição no orçamento da Direcção-Geral das Alfândegas por conta de verbas afectas àquela Inspecção Superior.
 
-###### Art. 5.º - 1 - A documentação e os processos pendentes no Conselho Superior Técnico Aduaneiro do Ultramar transitam, no estado em que se encontrarem, para o Conselho Superior Aduaneiro, da Direcção-Geral das Alfândegas, do Ministério das Finanças.
+Art. 5.º - 1 - A documentação e os processos pendentes no Conselho Superior Técnico Aduaneiro do Ultramar transitam, no estado em que se encontrarem, para o Conselho Superior Aduaneiro, da Direcção-Geral das Alfândegas, do Ministério das Finanças.
 
 2 - A documentação e o património da Inspecção-Geral das Alfândegas são transferidos para a Direcção-Geral de Fazenda.
 
 3 - Os processos individuais acompanharão os funcionários para a Direcção-Geral das Alfândegas, na sequência da extinção.
 
-###### Art. 6.º As dúvidas resultantes da aplicação deste diploma serão esclarecidas mediante despacho dos Ministros interessados.
+Art. 6.º As dúvidas resultantes da aplicação deste diploma serão esclarecidas mediante despacho dos Ministros interessados.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 21 de Outubro de 1977.**
+Promulgado em 21 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

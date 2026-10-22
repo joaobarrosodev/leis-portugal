@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/04000/02590261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1974-413018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb3f3c0a5ca84d68d4d1cca27688a420d649c20fa7e57f29bd9da21e54dcf5f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26f56caf503bd700a01184c417697e538d5b626cf1661c6383900c06d11a9583
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Definição de Competências
+- Financiamento
+- Fundo de Renovação da Marinha Mercante
+- Marinha Mercante
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada a não vigência do presente diploma pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS [115] de 16.06.2011, nos\
+    \ termos do seu art. 1.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643941:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:13Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +124,9 @@ Por outro lado, julga-se adequado aproveitar o referido Fundo na concessão de s
 
 Assim, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É mantido o Fundo de Renovação da Marinha Mercante, adiante designado apenas por Fundo.
+Artigo 1.º É mantido o Fundo de Renovação da Marinha Mercante, adiante designado apenas por Fundo.
 
-###### Art. 2.º O Fundo tem por atribuições:
+Art. 2.º O Fundo tem por atribuições:
 
 a) Financiar e prestar avales, exclusivamente no âmbito dos empreendimentos inscritos nos planos de fomento nacionais, para renovação, modernização e ampliação da frota de comércio nacional, a realizar por armadores inscritos na Junta Nacional da Marinha Mercante;
 
@@ -106,13 +134,13 @@ b) Conceder subsídios às carreiras regulares de navegação marítima entre po
 
 c) Administrar os empréstimos concedidos ao abrigo dos Decretos-Leis n.os 35876, de 24 de Setembro de 1946, 42517, de 21 de Setembro de 1959, 48490, de 19 de Julho de 1968, e 228/71, de 28 de Maio.
 
-###### Art. 3.º - 1. O Fundo será gerido por uma comissão administrativa constituída pelo presidente, que será o presidente da Junta Nacional da Marinha Mercante, e por dois vogais, que representarão, respectivamente, o Ministério das Finanças e o Ministério da Marinha.
+Art. 3.º - 1. O Fundo será gerido por uma comissão administrativa constituída pelo presidente, que será o presidente da Junta Nacional da Marinha Mercante, e por dois vogais, que representarão, respectivamente, o Ministério das Finanças e o Ministério da Marinha.
 
 2. O presidente será substituído, nas suas faltas ou impedimentos, pelo vice-presidente da Junta Nacional da Marinha Mercante.
 
 3. Os vogais serão substituídos, nas suas faltas ou impedimentos, por vogais nomeados, respectivamente, por despacho dos Ministros das Finanças e da Marinha.
 
-###### Art. 4.º - 1. A comissão administrativa reunir-se-á quando convocada pelo presidente, por sua iniciativa ou a pedido de qualquer dos vogais.
+Art. 4.º - 1. A comissão administrativa reunir-se-á quando convocada pelo presidente, por sua iniciativa ou a pedido de qualquer dos vogais.
 
 2. Compete, em especial, à comissão administrativa:
 
@@ -134,33 +162,33 @@ g) Submeter, com o seu parecer, à decisão dos Ministros das Finanças e da Mar
 
 4. Das deliberações da comissão administrativa caberá recurso para o Conselho de Ministros para os Assuntos Económicos, com efeito meramente devolutivo, e que deverá ser interposto no prazo de oito dias a contar do conhecimento, pelos interessados, das deliberações recorrendas.
 
-###### Art. 5.º Compete, em especial, ao presidente da comissão:
+Art. 5.º Compete, em especial, ao presidente da comissão:
 
 a) Representar o Fundo em juízo e fora dele;
 
 b) Propor à comissão administrativa o pessoal necessário para a realização das tarefas com vista à organização e actividade do Fundo e sua remuneração, bem como ordenar o pagamento de despesas uma vez cumpridas as formalidades legais.
 
-###### Art. 6.º - 1. O vogal representante do Ministério das Finanças desempenhará as funções de secretário do Fundo.
+Art. 6.º - 1. O vogal representante do Ministério das Finanças desempenhará as funções de secretário do Fundo.
 
 2. O secretário do Fundo assegurará, no aspecto técnico, a condução das operações financeiras da instituição e dirigirá o expediente da mesma, podendo ser assistido por técnicos especializados.
 
 3. O secretário do Fundo elaborará anualmente, até 31 de Julho, um relatório sobre a actividade desenvolvida pela instituição durante o ano anterior, que será submetido pela comissão administrativa à apreciação dos Ministros das Finanças e da Marinha.
 
-###### Art. 7.º - 1. Os membros da comissão administrativa terão direito a gratificação mensal fixada por despacho dos Ministros das Finanças e da Marinha.
+Art. 7.º - 1. Os membros da comissão administrativa terão direito a gratificação mensal fixada por despacho dos Ministros das Finanças e da Marinha.
 
 2. Os membros substitutos da comissão administrativa, durante o período que exercerem a sua actividade, terão direito a uma gratificação autónoma igual à que for fixada para os membros substituídos.
 
-###### Art. 8.º O Fundo disporá de serviços próprios, que funcionarão de harmonia com o seu regulamento interno.
+Art. 8.º O Fundo disporá de serviços próprios, que funcionarão de harmonia com o seu regulamento interno.
 
-###### Art. 9.º - 1. O pessoal indispensável à execução dos serviços do Fundo poderá ser recrutado entre funcionários da Junta Nacional da Marinha Mercante.
+Art. 9.º - 1. O pessoal indispensável à execução dos serviços do Fundo poderá ser recrutado entre funcionários da Junta Nacional da Marinha Mercante.
 
 2. Sempre que for julgado conveniente, a prestação desses serviços poderá ser cumulativa com o exercício de funções na Junta Nacional da Marinha Mercante e será remunerada mediante uma gratificação a fixar pela comissão administrativa.
 
-###### Art. 10.º - 1. Todo o expediente do Fundo, incluindo os documentos de movimentação de fundos, será assinado pelo presidente e pelo secretário, podendo, porém, por deliberação da comissão administrativa, em relação a expediente que não envolva responsabilidades para o Fundo, ser dispensada uma daquelas assinaturas, ou ser delegada em funcionário do Fundo a assinatura de determinados documentos.
+Art. 10.º - 1. Todo o expediente do Fundo, incluindo os documentos de movimentação de fundos, será assinado pelo presidente e pelo secretário, podendo, porém, por deliberação da comissão administrativa, em relação a expediente que não envolva responsabilidades para o Fundo, ser dispensada uma daquelas assinaturas, ou ser delegada em funcionário do Fundo a assinatura de determinados documentos.
 
 2. Todos os documentos de despesa carecerão do visto do secretário.
 
-###### Art. 11.º - 1. Para satisfação dos compromissos financeiros decorrentes das operações activas poderá o Fundo proceder à realização das seguintes operações:
+Art. 11.º - 1. Para satisfação dos compromissos financeiros decorrentes das operações activas poderá o Fundo proceder à realização das seguintes operações:
 
 a) Emissão de obrigações;
 
@@ -172,49 +200,49 @@ d) Antecipação de meios financeiros previstos, nos termos da alínea anterior.
 
 2. As operações indicadas nas alíneas a) e c) gozam de aval do Estado.
 
-###### Art. 12.º - 1. O montante máximo dos empréstimos a contrair pelo Fundo será fixado por despacho dos Ministros das Finanças e da Marinha, mediante proposta da comissão administrativa.
+Art. 12.º - 1. O montante máximo dos empréstimos a contrair pelo Fundo será fixado por despacho dos Ministros das Finanças e da Marinha, mediante proposta da comissão administrativa.
 
 2. A proposta da comissão administrativa será elaborada de acordo com as previsões aprovadas nos respectivos planos de execução.
 
-###### Art. 13.º - 1. Os empréstimos a efectuar por emissão de obrigações poderão ser desdobrados em séries, cujo quantitativo e demais condições de emissão serão fixados mediante despacho dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
+Art. 13.º - 1. Os empréstimos a efectuar por emissão de obrigações poderão ser desdobrados em séries, cujo quantitativo e demais condições de emissão serão fixados mediante despacho dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
 
 2. Na determinação destas condições deverá atender-se à natureza específica dos empreendimentos a financiar e às condições prevalecentes no mercado de capitais.
 
-###### Art. 14.º Os títulos representativos das obrigações emitidas gozam dos direitos e isenções consignados nos n.os 2.º, 4.º e 5.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, para os títulos da dívida pública, e da isenção do imposto do selo e dos emolumentos para a sua admissão na Bolsa.
+Art. 14.º Os títulos representativos das obrigações emitidas gozam dos direitos e isenções consignados nos n.os 2.º, 4.º e 5.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, para os títulos da dívida pública, e da isenção do imposto do selo e dos emolumentos para a sua admissão na Bolsa.
 
-###### Art. 15.º - 1. Fica autorizado o Fundo a realizar, com instituições de crédito, contratos para a colocação de obrigações.
+Art. 15.º - 1. Fica autorizado o Fundo a realizar, com instituições de crédito, contratos para a colocação de obrigações.
 
 2. As despesas de colocação não poderão exceder 3% do valor nominal.
 
-###### Art. 16.º - 1. O Fundo só poderá conceder empréstimos e avales desde que os projectos dos empreendimentos a que se destinam se encontrem técnica e economicamente bem elaborados, de acordo com o parecer dos competentes departamentos oficiais, e os respectivos interessados estejam em condições de satisfazer as obrigações resultantes dessas operações.
+Art. 16.º - 1. O Fundo só poderá conceder empréstimos e avales desde que os projectos dos empreendimentos a que se destinam se encontrem técnica e economicamente bem elaborados, de acordo com o parecer dos competentes departamentos oficiais, e os respectivos interessados estejam em condições de satisfazer as obrigações resultantes dessas operações.
 
 2. Na fixação do montante total de financiamentos e avales concedidos pelo Fundo a cada empresa será tida em conta a situação económica e financeira da mesma, podendo o Fundo condicionar a prestação do seu apoio financeiro à elevação adequada do capital social realizado.
 
 3. O Fundo poderá solicitar de todas as empresas que apresentem pedidos de financiamentos e de avales os elementos contabilísticos, estatísticos e, de um modo geral, informativos que se considerarem necessários para o cumprimento do disposto nos números anteriores.
 
-###### Art. 17.º As condições gerais de prazos e juros dos empréstimos e o regime de concessão de avales pelo Fundo serão fixados por despacho dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
+Art. 17.º As condições gerais de prazos e juros dos empréstimos e o regime de concessão de avales pelo Fundo serão fixados por despacho dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
 
-###### Art. 18.º - 1. As operações activas do Fundo serão sempre garantidas por hipoteca ou por aval bancário.
+Art. 18.º - 1. As operações activas do Fundo serão sempre garantidas por hipoteca ou por aval bancário.
 
 2. O Fundo só aceitará segunda hipoteca quando a primeira haja sido constituída a seu favor.
 
-###### Art. 19.º - 1. Os bens dados em garantia das operações concedidas pelo Fundo serão seguros contra todos os riscos usuais.
+Art. 19.º - 1. Os bens dados em garantia das operações concedidas pelo Fundo serão seguros contra todos os riscos usuais.
 
 2. Dos seguros a que se refere o número anterior será beneficiário o Fundo, sendo a importância da respectiva indemnização depositada à sua ordem, a qual será entregue ao armador, no caso de se verificar a substituição da unidade e, através desta, a substituição da hipoteca.
 
 3. Se o navio não for substituído, a importância total de indemnização e juros de depósito destinar-se-á à amortização da parte correspondente do empréstimo em dívida, revertendo para o armador a parte remanescente.
 
-###### Art. 20.º - 1. Os limites a observar nos empréstimos e avales do Fundo não poderão, em qualquer caso, exceder 75% dos custos dos empreendimentos conducentes à renovação, modernização e ampliação da frota de comércio nacional e serão fixados por despacho dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
+Art. 20.º - 1. Os limites a observar nos empréstimos e avales do Fundo não poderão, em qualquer caso, exceder 75% dos custos dos empreendimentos conducentes à renovação, modernização e ampliação da frota de comércio nacional e serão fixados por despacho dos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
 
 2. Na fixação desses limites atender-se-á à participação da indústria nacional nos referidos empreendimentos.
 
-###### Art. 21.º - 1. A concessão de subsídios de que trata a alínea b) do artigo 2.º constará de contratos celebrados entre o Fundo e as empresas de navegação, homologados pelos Ministros das Finanças e da Marinha.
+Art. 21.º - 1. A concessão de subsídios de que trata a alínea b) do artigo 2.º constará de contratos celebrados entre o Fundo e as empresas de navegação, homologados pelos Ministros das Finanças e da Marinha.
 
 2. Nos contratos constarão as condições de exploração das carreiras, os subsídios a conceder e as penalidades por falta do seu cumprimento.
 
 3. Em relação às carreiras subsidiadas, as companhias de navegação apresentarão ao Fundo as contas pormenorizadas das viagens realizadas, devidamente documentadas e com o visto do delegado do Governo.
 
-###### Art. 22.º - 1. Serão pagas ao Fundo comissões pelos beneficiários dos financiamentos, nos termos a fixar pelos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
+Art. 22.º - 1. Serão pagas ao Fundo comissões pelos beneficiários dos financiamentos, nos termos a fixar pelos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
 
 2. As despesas resultantes da actividade do Fundo serão suportadas por conta das comissões referidas no número anterior.
 
@@ -224,13 +252,13 @@ d) Antecipação de meios financeiros previstos, nos termos da alínea anterior.
 
 5. A Junta Nacional da Marinha Mercante orçamentará anualmente, em rubrica própria, a verba necessária ao pagamento das despesas resultantes da referida actividade do Fundo que não possam ser cobertas pelas comissões a que se refere o n.º 2.
 
-###### Art. 23.º - 1. Sempre que a reserva de garantia se mostre insuficiente, o Estado adiantará ao Fundo, a pedido da comissão administrativa, formulado com a antecedência mínima de quarenta e cinco dias, as quantias necessárias ao pontual pagamento do capital em dívida, respectivos juros e demais importâncias devidas.
+Art. 23.º - 1. Sempre que a reserva de garantia se mostre insuficiente, o Estado adiantará ao Fundo, a pedido da comissão administrativa, formulado com a antecedência mínima de quarenta e cinco dias, as quantias necessárias ao pontual pagamento do capital em dívida, respectivos juros e demais importâncias devidas.
 
 2. As quantias desembolsadas pelo Estado, nos termos do número anterior, acrescidas de eventuais juros, serão restituídas pelo Fundo à medida que o montante da reserva de garantia o permita.
 
-###### Art. 24.º Quando a entrega de fundos pelo Estado, nos termos do n.º 1 do artigo anterior, seja provocada por falta de qualquer empresa financiada pelo Fundo, a comissão administrativa proporá aos Ministros das Finanças e da Marinha, para decisão conjunta, as medidas a adoptar com vista à defesa desses créditos do Estado.
+Art. 24.º Quando a entrega de fundos pelo Estado, nos termos do n.º 1 do artigo anterior, seja provocada por falta de qualquer empresa financiada pelo Fundo, a comissão administrativa proporá aos Ministros das Finanças e da Marinha, para decisão conjunta, as medidas a adoptar com vista à defesa desses créditos do Estado.
 
-###### Art. 25.º - 1. Poderão os Ministros das Finanças e da Marinha, ouvida a comissão administrativa, nomear um administrador para qualquer empresa beneficiária de financiamento ou aval do Fundo, enquanto o montante global daqueles exceder 50% da soma do capital social realizado e das reservas da empresa.
+Art. 25.º - 1. Poderão os Ministros das Finanças e da Marinha, ouvida a comissão administrativa, nomear um administrador para qualquer empresa beneficiária de financiamento ou aval do Fundo, enquanto o montante global daqueles exceder 50% da soma do capital social realizado e das reservas da empresa.
 
 2. Sempre que o montante total das dívidas de capital e juros, incluindo as relativas a avales concedidos pelo Fundo, atinja a soma do capital social realizado e reservas da empresa beneficiária, é obrigatória a comunicação do facto, pela comissão administrativa, aos Ministros das Finanças e da Marinha.
 
@@ -238,26 +266,26 @@ d) Antecipação de meios financeiros previstos, nos termos da alínea anterior.
 
 4. Os administradores assim nomeados entrarão imediatamente em exercício.
 
-###### Art. 26.º - 1. Durante a vigência deste decreto-lei, os delegados do Governo junto do Grémio dos Armadores da Marinha Mercante e das empresas armadoras ficarão na dependência dos Ministros das Finanças e da Marinha em tudo quanto se refira à administração do Fundo.
+Art. 26.º - 1. Durante a vigência deste decreto-lei, os delegados do Governo junto do Grémio dos Armadores da Marinha Mercante e das empresas armadoras ficarão na dependência dos Ministros das Finanças e da Marinha em tudo quanto se refira à administração do Fundo.
 
 2. A comissão administrativa do Fundo poderá solicitar aos delegados do Governo, sempre que o julgue conveniente, informações ou esclarecimentos sobre a situação das empresas que a ele recorram.
 
-###### Art. 27.º O Ministério das Finanças tomará as providências necessárias para prover o Fundo com vista à concessão de subsídios, prevista na alínea b) do artigo 2.º
+Art. 27.º O Ministério das Finanças tomará as providências necessárias para prover o Fundo com vista à concessão de subsídios, prevista na alínea b) do artigo 2.º
 
-###### Art. 28.º Poderão ser elaborados os orçamentos suplementares que forem julgados necessários à boa execução das operações resultantes da actividade do Fundo.
+Art. 28.º Poderão ser elaborados os orçamentos suplementares que forem julgados necessários à boa execução das operações resultantes da actividade do Fundo.
 
-###### Art. 29.º O Fundo sujeitará as suas contas ao julgamento do Tribunal de Contas, nos termos e pela forma legalmente estabelecidos.
+Art. 29.º O Fundo sujeitará as suas contas ao julgamento do Tribunal de Contas, nos termos e pela forma legalmente estabelecidos.
 
-###### Art. 30.º As dúvidas que possam surgir na interpretação deste diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Marinha.
+Art. 30.º As dúvidas que possam surgir na interpretação deste diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Marinha.
 
-###### Art. 31.º Ficam revogados os Decretos-Leis n.os [228/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1971-643941) e [297/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1973-422664), de 28 de Maio e 9 de Junho, respectivamente.
+Art. 31.º Ficam revogados os Decretos-Leis n.os [228/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1971-643941) e [297/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1973-422664), de 28 de Maio e 9 de Junho, respectivamente.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 
-**Promulgado em 7 de Fevereiro de 1974.**
+Promulgado em 7 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

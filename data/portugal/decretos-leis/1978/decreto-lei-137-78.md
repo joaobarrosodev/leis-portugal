@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 133/1978, 2º Suplemento, Série I de 1978-06-12
   number: '133'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1054-(39) a 1054-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13302/00390041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1978-426142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 237966417a770491236ffc0fe066654f8bd5e487d2e041ea513b6082f5aecb52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1be064ce04a7aa7845181a8bc9a43a74358b44e136bd6a19a4ad0325b3eb4709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Código da Contribuição Industrial
+- Contribuição Industrial
+- Empresa
+- Empresário
+- Isenção Fiscal
+- Serviço de Lotas e Vendagem
+- Trabalhador Independente
+- Venda Ambulante
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325309:por
+  label: "Alterada a al. c) do art. 46º do Código da Contribuição Industrial aprovado pelo Dec Lei 45103 de 01-Jul de 1963,\
+    \ com a redacção dada pelo presente diploma, pelo DEC LEI.430/78.27.12.1978.MFP, DR.IS [296] de 27.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1978-325309
+  date: '1978-12-27'
+- type: amended_by
+  target: pt:dre:606557:por
+  label: "Alterados os arts. 37º e 66º do Código da Contribuição Industrial aprovado pelo Dec Lei 45103 de 01-Jul de 1963,\
+    \ com a redacção conferida no presente diploma, pelo DEC LEI.128/82.23.04.1982.MFP, DR.IS [94] de 23.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1982-606557
+  date: '1982-04-23'
+- type: amended_by
+  target: pt:dre:171525:por
+  label: "Alterados os arts. 12º, 70º, 72º e eliminado o art. 146º-B do Código da Contribuição Industrial aprovado pelo Dec\
+    \ Lei 45103 de 17-Mar de 1963, com a redacção conferida no presente diploma, pelo DEC LEI.474/85.11.11.1985.MFP, DR.IS\
+    \ [259] de 11.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-1985-171525
+  date: '1985-11-11'
+- type: cites
+  target: pt:dre:280738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:07Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +147,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 14.º, 18.º, 37.º, 46.º, 66.º, 70.º, 72.º, 111.º e 120.º-A do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 14.º, 18.º, 37.º, 46.º, 66.º, 70.º, 72.º, 111.º e 120.º-A do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 a) (Eliminada.)
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
@@ -122,7 +163,7 @@ a) (Eliminada.)
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 ...
 
@@ -134,7 +175,7 @@ a) (Eliminada.)
 
 ...
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 ...
 
@@ -148,7 +189,7 @@ b) As remunerações, incluindo as verbas para representação, viagens ou deslo
 
 ...
 
-###### Art. 46.º ...
+Art. 46.º ...
 
 ...
 
@@ -156,7 +197,7 @@ b) As remunerações, incluindo as verbas para representação, viagens ou deslo
 
 ...
 
-###### Art. 66.º ...
+Art. 66.º ...
 
 ...
 
@@ -164,7 +205,7 @@ b) As remunerações, incluindo as verbas para representação, viagens ou deslo
 
 ...
 
-###### Art. 70.º Da fixação dos lucros tributáveis poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público, reclamar para o chefe da repartição de finanças.
+Art. 70.º Da fixação dos lucros tributáveis poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público, reclamar para o chefe da repartição de finanças.
 
 ...
 
@@ -182,7 +223,7 @@ b) Se entender que a mesma não é procedente, remeter a reclamação à comiss�
 
 ...
 
-###### Art. 72.º ...
+Art. 72.º ...
 
 ...
 
@@ -190,7 +231,7 @@ b) Se entender que a mesma não é procedente, remeter a reclamação à comiss�
 
 ...
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 ...
 
@@ -198,21 +239,21 @@ b) Se entender que a mesma não é procedente, remeter a reclamação à comiss�
 
 ...
 
-###### Art. 120.º-A. O Serviço Central das Lotas e Vendagem remeterá, no mês de Janeiro de cada ano, à repartição de finanças competente para a liquidação da contribuição industrial devida pelas respectivas empresas, uma relação nominal, em duplicado, acompanhada de notas individuais, num único exemplar, relativas ao pescado vendido no ano anterior.
+Art. 120.º-A. O Serviço Central das Lotas e Vendagem remeterá, no mês de Janeiro de cada ano, à repartição de finanças competente para a liquidação da contribuição industrial devida pelas respectivas empresas, uma relação nominal, em duplicado, acompanhada de notas individuais, num único exemplar, relativas ao pescado vendido no ano anterior.
 
 § 1.º A relação e respectivas notas individuais deverão conter a indicação das empresas, com menção da sede ou estabelecimento principal ou, na falta de instalações comerciais ou industriais, da representação permanente ou do domicílio, e ainda o valor do pescado vendido.
 
 § 2.º As relações serão organizadas nos termos do § 2.º do artigo 126.º e as notas apresentadas de harmonia com o estabelecido no § 3.º do mesmo artigo.
 
-###### Art. 2.º São aditados ao Código da Contribuição Industrial os artigos 146.º-A, 146.º-B e 163.º-B, com a seguinte redacção:
+Art. 2.º São aditados ao Código da Contribuição Industrial os artigos 146.º-A, 146.º-B e 163.º-B, com a seguinte redacção:
 
-###### Art. 146.º-A. Verificado o atraso da escrita e independentemente do procedimento para a aplicação da correspondente multa, o chefe da repartição de finanças mandará notificar o transgressor para proceder à respectiva regularização, dentro do prazo a designar entre trinta e noventa dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 147.º
+Art. 146.º-A. Verificado o atraso da escrita e independentemente do procedimento para a aplicação da correspondente multa, o chefe da repartição de finanças mandará notificar o transgressor para proceder à respectiva regularização, dentro do prazo a designar entre trinta e noventa dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 147.º
 
-###### Art. 146.º-B. A inobservância do disposto no artigo 163.º-B será punida com a multa de 10000$00 a 200000$00.
+Art. 146.º-B. A inobservância do disposto no artigo 163.º-B será punida com a multa de 10000$00 a 200000$00.
 
-###### Art. 163.º-B. As sociedades legalmente constituídas, ainda que pertencentes ao grupo B, ficam obrigadas a possuir contabilidade regularmente organizada.
+Art. 163.º-B. As sociedades legalmente constituídas, ainda que pertencentes ao grupo B, ficam obrigadas a possuir contabilidade regularmente organizada.
 
-###### Art. 3.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo o disposto nos números seguintes.
+Art. 3.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo o disposto nos números seguintes.
 
 2 - As alterações aos artigos 12.º e 18.º aplicam-se à contribuição industrial respeitante aos exercícios de 1978 e seguintes.
 
@@ -226,8 +267,8 @@ b) Se entender que a mesma não é procedente, remeter a reclamação à comiss�
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 6 de Junho de 1978.**
+Promulgado em 6 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

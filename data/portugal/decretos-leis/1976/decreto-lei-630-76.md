@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17500/17301731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/630-1976-430862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 297291bc4be1ac1b179275bf694cd81ad44815faab5652d944e3286a06b13a3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 105d1309a1a88be845f9009b9e4d348a830068317f80196a18b6e33385e4999e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Infracção Cambial
+- Mercado Cambial
+- Operação Cambial
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:313848:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141195:por
+  label: "Alterados o nº 2 do art. 9º e o nº 2 do art. 10º pelo DEC LEI.92/77.1977.03.12.MF DR.IS [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1977-141195
+  date: '1977-03-12'
+- type: amended_by
+  target: pt:dre:443689:por
+  label: "Reposto em vigor, com a redacção dada pelo Dec Lei 92/77 de 12-Mar, pelo DEC LEI.396/83.1983.10.29.MJ DR.IS [250]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1983-443689
+  date: '1983-10-29'
+- type: cites
+  target: pt:dre:225988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623208:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435623:por
+  label: "Revogado pelo DEC LEI.349-B/83.1983.07.30.MFP DR.IS [174]5º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-b-1983-435623
+  date: '1983-07-30'
+- type: repealed_by
+  target: pt:dre:313848:por
+  label: "Revogado pelo DEC LEI.13/90.1990.01.08.MF, DR.IS [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1990-313848
+  date: '1990-01-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:55Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +151,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valor como lei, o seguinte:
 
-###### Artigo 1.º São punidos com prisão, sem prejuízo de sanção mais grave que resulte da lei geral, aqueles que promovam ou executem, com inobservância dos condicionalismos legais:
+Artigo 1.º São punidos com prisão, sem prejuízo de sanção mais grave que resulte da lei geral, aqueles que promovam ou executem, com inobservância dos condicionalismos legais:
 
 a) A importação, exportação ou reexportação de mercadorias, operações de invisíveis correntes e operações de capitais entre residentes no território nacional e residentes no estrangeiro;
 
@@ -114,33 +163,33 @@ d) A compra ou venda de notas estrangeiras, ouro, prata, metais e pedras precios
 
 e) A exportação ou saída, para o estrangeiro, de ouro, notas, moedas metálicas e quaisquer meios de pagamento, metais e pedras preciosas, objectos destes materiais, títulos de crédito e de quaisquer outros que possam implicar entregas ou pagamentos em escudos a não residentes ou a favor destes.
 
-###### Art. 2.º - 1. A pena estabelecida no artigo anterior tem o limite máximo de um ano, quando o valor do acto ou operação não exceda 20000$00, e o limite mínimo de dezoito meses, quando o mencionado valor seja superior a 100000$00.
+Art. 2.º - 1. A pena estabelecida no artigo anterior tem o limite máximo de um ano, quando o valor do acto ou operação não exceda 20000$00, e o limite mínimo de dezoito meses, quando o mencionado valor seja superior a 100000$00.
 
 2. Quando houver mera negligência, a pena de prisão não pode exceder seis meses.
 
-###### Art. 3.º - 1. A tentativa e a frustração são sempre puníveis.
+Art. 3.º - 1. A tentativa e a frustração são sempre puníveis.
 
 2. Equiparam-se a tentativa as falsas declarações prestadas ou dolosamente aceites com o objectivo de alcançar autorização ou licenciamento para os actos e operações a que se reporta o artigo 1.º, mesmo que mediante aquelas não tenham sido obtidos a autorização ou o licenciamento, bem como o uso fraudulento de mais do que um dos documentos exigidos para ser realizada, autorizada ou licenciada determinada operação.
 
-###### Art. 4.º - 1. À pena de prisão cominada neste decreto-lei acresce a de multa de 10000$00 a 1000000$00, a qual não pode ser inferior a metade do valor que constitua objecto do crime, se este for igual ou superior a 100000$00.
+Art. 4.º - 1. À pena de prisão cominada neste decreto-lei acresce a de multa de 10000$00 a 1000000$00, a qual não pode ser inferior a metade do valor que constitua objecto do crime, se este for igual ou superior a 100000$00.
 
 2. Provando-se simples negligência, a multa será de 5000$00 a 100000$00.
 
-###### Art. 5.º Os bens ou valores directa ou indirectamente obtidos com a actividade criminosa devem ser declarados perdidos a favor do Estado.
+Art. 5.º Os bens ou valores directa ou indirectamente obtidos com a actividade criminosa devem ser declarados perdidos a favor do Estado.
 
-###### Art. 6.º Pode ser cumulativamente aplicada pelo tribunal às pessoas singulares ou colectivas que cometam as infracções previstas neste diploma a medida de interdição da profissão, devendo em tal caso observar-se o disposto no artigo 7.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 6.º Pode ser cumulativamente aplicada pelo tribunal às pessoas singulares ou colectivas que cometam as infracções previstas neste diploma a medida de interdição da profissão, devendo em tal caso observar-se o disposto no artigo 7.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 7.º As pessoas colectivas e as sociedades que promoverem e executarem os actos ou operações neste diploma considerados como ilícitos são punidas com multa até metade do valor da mercadoria ou da transacção e ficam solidariamente responsáveis pelas multas e indemnizações em que forem condenados os seus representantes ou empregados que tenham agido nessa qualidade e no interesse das mesmas.
+Art. 7.º As pessoas colectivas e as sociedades que promoverem e executarem os actos ou operações neste diploma considerados como ilícitos são punidas com multa até metade do valor da mercadoria ou da transacção e ficam solidariamente responsáveis pelas multas e indemnizações em que forem condenados os seus representantes ou empregados que tenham agido nessa qualidade e no interesse das mesmas.
 
-###### Art. 8.º - 1. Aos dirigentes, funcionários e empregados das instituições e organismos de que depende a concessão de autorização ou licenciamento dos actos e operações referidos no artigo 1.º são aplicáveis as disposições dos artigos 313.º, 314.º, 317.º, 318.º e 322.º do Código Penal.
+Art. 8.º - 1. Aos dirigentes, funcionários e empregados das instituições e organismos de que depende a concessão de autorização ou licenciamento dos actos e operações referidos no artigo 1.º são aplicáveis as disposições dos artigos 313.º, 314.º, 317.º, 318.º e 322.º do Código Penal.
 
 2. Também o artigo 321.º do mesmo diploma é aplicável a quem pratique os actos nele previstos com o objectivo de corromper os dirigentes ou empregados das entidades mencionadas no número anterior.
 
-###### Art. 9.º - 1. As sanções previstas neste diploma serão aplicadas segundo as regras próprias da reincidência quando, pelo montante envolvido, o acto ou operação ilícita seja susceptível de perturbar ou causar grave dificuldade à vida económica, financeira ou cambial do País.
+Art. 9.º - 1. As sanções previstas neste diploma serão aplicadas segundo as regras próprias da reincidência quando, pelo montante envolvido, o acto ou operação ilícita seja susceptível de perturbar ou causar grave dificuldade à vida económica, financeira ou cambial do País.
 
 2. Com vista a fundamentar a sua decisão nos termos do previsto no número anterior, o juiz pode solicitar à Inspecção de Crédito o respectivo parecer.
 
-###### Art. 10.º - 1. A instrução preparatória das infracções a que se referem os preceitos antecedentes tem a natureza de urgente.
+Art. 10.º - 1. A instrução preparatória das infracções a que se referem os preceitos antecedentes tem a natureza de urgente.
 
 2. Iniciada a referida instrução, podem ser solicitadas quaisquer diligências, bem como a necessária assistência técnica, quer à Polícia Judiciária, quer à Inspecção de Crédito.
 
@@ -152,12 +201,12 @@ e) A exportação ou saída, para o estrangeiro, de ouro, notas, moedas metálic
 
 6. Em relação aos valores apreendidos nos termos do n.º 4 e aos dados em caução nos termos do n.º 5 observar-se-á o disposto no § 3.º do artigo 297.º do Código de Processo Penal.
 
-###### Art. 11.º São revogados os Decretos-Leis n.os [181/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1974-623190) e [189/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1974-623208), respectivamente de 2 e 6 de Maio.
+Art. 11.º São revogados os Decretos-Leis n.os [181/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1974-623190) e [189/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1974-623208), respectivamente de 2 e 6 de Maio.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

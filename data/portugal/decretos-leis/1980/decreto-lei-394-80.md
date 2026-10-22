@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1980-461828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a436a3ee5be99f1c405c61914bcc626b30e31a6731fc84aa5707b9a3d0084e6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e839aa3e56ef3b74dca32716ed4983514eb9360137b4cd4f0504de6dfb6829b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ADSE
+- Aposentação
+- Desalojado
+relationships:
+- type: cites
+  target: pt:dre:325954:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:02Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +106,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A competência que, em matéria de assistência na doença aos servidores aposentados ou desligados do serviço para efeitos de aposentação das ex-províncias ultramarinas e seus familiares, pertence actualmente ao Serviço de Integração Administrativa da Secretaria de Estado da Reforma Administrativa é transferida para a Assistência na Doença aos Servidores Civis do Estado (ADSE).
+Artigo 1.º - 1 - A competência que, em matéria de assistência na doença aos servidores aposentados ou desligados do serviço para efeitos de aposentação das ex-províncias ultramarinas e seus familiares, pertence actualmente ao Serviço de Integração Administrativa da Secretaria de Estado da Reforma Administrativa é transferida para a Assistência na Doença aos Servidores Civis do Estado (ADSE).
 
 2 - Essa mesma transferência é extensiva:
 
@@ -107,28 +114,28 @@ a) Às viúvas dos funcionários falecidos no activo, oriundos das ex-província
 
 b) Às viúvas dos funcionários que serviram nos organismos e serviços extintos do ex-Ministério do Ultramar.
 
-###### Art. 2.º Os encargos resultantes da aplicação do presente diploma serão suportados pela competente verba do Orçamento Geral do Estado, nos termos do disposto no artigo 2.º do Decreto n.º 763/75, de 31 de Dezembro, conjugado com a legislação que regula o regime de protecção na doença assegurado pela ADSE.
+Art. 2.º Os encargos resultantes da aplicação do presente diploma serão suportados pela competente verba do Orçamento Geral do Estado, nos termos do disposto no artigo 2.º do Decreto n.º 763/75, de 31 de Dezembro, conjugado com a legislação que regula o regime de protecção na doença assegurado pela ADSE.
 
-###### Art. 3.º A dotação adequada da verba «Despesas com a descolonização», inscrita no Orçamento da Secretaria de Estado da Reforma Administrativa (Serviço de Integração Administrativa), para o ano corrente, destinada a encargos com a assistência médica aos funcionários aposentados da ex-administração ultramarina e seus familiares será transferida para o orçamento do Ministério das Finanças e do Plano (ADSE), para reforço das rubricas que venham a suportar as despesas resultantes da execução deste decreto-lei.
+Art. 3.º A dotação adequada da verba «Despesas com a descolonização», inscrita no Orçamento da Secretaria de Estado da Reforma Administrativa (Serviço de Integração Administrativa), para o ano corrente, destinada a encargos com a assistência médica aos funcionários aposentados da ex-administração ultramarina e seus familiares será transferida para o orçamento do Ministério das Finanças e do Plano (ADSE), para reforço das rubricas que venham a suportar as despesas resultantes da execução deste decreto-lei.
 
-###### Art. 4.º - 1 - A partir de 1 de Setembro de 1980, o processamento, liquidação e pagamento das comparticipações nos encargos a que se refere o presente diploma passarão a ser feitos pela Assistência na Doença dos Servidores Civis do Estado (ADSE), devendo este organismo e o Serviço de Integração Administrativa efectuar as diligências necessárias para que a transferência se realize de modo a que não haja interrupção no abono das referidas comparticipações.
+Art. 4.º - 1 - A partir de 1 de Setembro de 1980, o processamento, liquidação e pagamento das comparticipações nos encargos a que se refere o presente diploma passarão a ser feitos pela Assistência na Doença dos Servidores Civis do Estado (ADSE), devendo este organismo e o Serviço de Integração Administrativa efectuar as diligências necessárias para que a transferência se realize de modo a que não haja interrupção no abono das referidas comparticipações.
 
 2 - O Serviço de Integração Administrativa fornecerá os ficheiros e elementos complementares que se mostrarem necessários.
 
-###### Art. 5.º - 1 - O pessoal do Serviço de Integração Administrativa, incluindo o adido, afecto à execução de tarefas inerentes aos cuidados de saúde prestados aos funcionários aposentados da ex-administração ultramarina e seus familiares transita para o quadro da ADSE, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas e publicação no Diário da República.
+Art. 5.º - 1 - O pessoal do Serviço de Integração Administrativa, incluindo o adido, afecto à execução de tarefas inerentes aos cuidados de saúde prestados aos funcionários aposentados da ex-administração ultramarina e seus familiares transita para o quadro da ADSE, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas e publicação no Diário da República.
 
 2 - Para execução do número anterior considera-se aumentado o quadro do pessoal da ADSE no número e categorias correspondentes aos dos funcionários transferidos.
 
-###### Art. 6.º Transitam para a Assistência na Doença aos Servidores Civis do Estado (ADSE) a documentação, ficheiros e arquivos do Serviço de Integração Administrativa relativos ao serviço cuja transferência se determina pelo presnte diploma.
+Art. 6.º Transitam para a Assistência na Doença aos Servidores Civis do Estado (ADSE) a documentação, ficheiros e arquivos do Serviço de Integração Administrativa relativos ao serviço cuja transferência se determina pelo presnte diploma.
 
-###### Art. 7.º As dúvidas resultantes deste diploma serão resolvidas mediante despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
+Art. 7.º As dúvidas resultantes deste diploma serão resolvidas mediante despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 8.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 24 de Agosto de 1980.**
+Promulgado em 24 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

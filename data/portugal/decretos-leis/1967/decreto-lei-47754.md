@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47754-1967-312259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec0926f6783b1df748069ec9c25716f8b1c5c67d4c2ca089f2a4d8ce23e0dd14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0802fc801ccf8f6242a0995c040fcfc93a70c69165e874093e5a6d4da4b88a55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Trabalho e Corporações
+- Fundo Nacional de Abono de Família
+- Instituto Nacional do Trabalho e Previdência
+- Ministério das Corporações e Previdência Social
+- Ministro das Corporações e Previdência Social
+- Orgânica
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:27Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +125,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Aos serviços actuariais da Direcção-Geral da Previdência e Habitações Económicas incumbe:
+Artigo 1.º Aos serviços actuariais da Direcção-Geral da Previdência e Habitações Económicas incumbe:
 
 a) Proceder à elaboração e revisão das bases técnicas necessárias à apreciação dos riscos cobertos pelo seguro social, estudar a evolução desses riscos e estabelecer previsões bioeconométricas da população abrangida;
 
@@ -117,54 +141,54 @@ f) Examinar e dar parecer sobre os assuntos relativos à orientação e assistê
 
 g) Dar parecer sobre os problemas actuariais relativos aos bairros de casas económicas, aos bairros de casas de renda económica e aos empréstimos destinados à construção ou aquisição de fogos.
 
-###### Art. 2.º - 1. Os serviços actuariais passam a estar a cargo de um actuário superior, que será coadjuvado por actuários-chefes, actuários de 1.ª e 2.ª classes, um calculador-chefe, calculadores principais, primeiros e segundos-calculadores e restante pessoal dos quadros necessário ao serviço.
+Art. 2.º - 1. Os serviços actuariais passam a estar a cargo de um actuário superior, que será coadjuvado por actuários-chefes, actuários de 1.ª e 2.ª classes, um calculador-chefe, calculadores principais, primeiros e segundos-calculadores e restante pessoal dos quadros necessário ao serviço.
 
 2. O actuário superior depende directamente do director-geral, com o qual despacha.
 
-###### Art. 3.º O quadro técnico dos serviços actuariais é o que consta do mapa anexo a este diploma, ficando alterado em conformidade o mapa do pessoal da Direcção-Geral da Previdência e Habitações Económicas fixado pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951.
+Art. 3.º O quadro técnico dos serviços actuariais é o que consta do mapa anexo a este diploma, ficando alterado em conformidade o mapa do pessoal da Direcção-Geral da Previdência e Habitações Económicas fixado pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951.
 
-###### Art. 4.º O lugar de actuário superior é provido pelo Ministro das Corporações e Previdência Social em diplomado com curso superior adequado, de reconhecido mérito e capacidade para o exercício das respectivas funções.
+Art. 4.º O lugar de actuário superior é provido pelo Ministro das Corporações e Previdência Social em diplomado com curso superior adequado, de reconhecido mérito e capacidade para o exercício das respectivas funções.
 
-###### Art. 5.º Os lugares de actuário-chefe são providos por escolha entre os actuários de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria.
+Art. 5.º Os lugares de actuário-chefe são providos por escolha entre os actuários de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria.
 
-###### Art. 6.º - 1. Os lugares de actuário de 1.ª classe são providos, mediante concurso de provas públicas, entre os actuários de 2.ª classe com três anos, pelo menos, de bom e efectivo serviço na categoria.
+Art. 6.º - 1. Os lugares de actuário de 1.ª classe são providos, mediante concurso de provas públicas, entre os actuários de 2.ª classe com três anos, pelo menos, de bom e efectivo serviço na categoria.
 
 2. Se o concurso referido no n.º 1 ficar deserto ou se o número de candidatos aprovados for insuficiente para preencher as vagas, abrir-se-á novo concurso, a que poderão concorrer os restantes actuários de 2.ª classe.
 
 3. Na hipótese de, mesmo assim, não serem preenchidas todas as vagas, será aberto novo concurso, a que poderão ser admitidos indivíduos, dos quadros ou estranhos a eles, diplomados com curso superior adequado.
 
-###### Art. 7.º Os lugares de actuário de 2.ª classe serão providos, mediante concurso de provas públicas, entre indivíduos diplomados com curso superior adequado.
+Art. 7.º Os lugares de actuário de 2.ª classe serão providos, mediante concurso de provas públicas, entre indivíduos diplomados com curso superior adequado.
 
-###### Art. 8.º O lugar de calculador-chefe é provido por escolha entre os calculadores principais e os primeiros-calculadores, não podendo estes últimos ter menos de cinco anos de bom e efectivo serviço nesta categoria.
+Art. 8.º O lugar de calculador-chefe é provido por escolha entre os calculadores principais e os primeiros-calculadores, não podendo estes últimos ter menos de cinco anos de bom e efectivo serviço nesta categoria.
 
-###### Art. 9.º Os lugares de calculador principal são providos por escolha entre os primeiros-calculadores com, pelo menos, três anos de bom e efectivo serviço nesta categoria.
+Art. 9.º Os lugares de calculador principal são providos por escolha entre os primeiros-calculadores com, pelo menos, três anos de bom e efectivo serviço nesta categoria.
 
-###### Art. 10.º - 1. Os lugares de primeiro-calculador são providos, mediante concurso de provas públicas, entre os segundos-calculadores com, pelo menos, um ano de bom e efectivo serviço na categoria.
+Art. 10.º - 1. Os lugares de primeiro-calculador são providos, mediante concurso de provas públicas, entre os segundos-calculadores com, pelo menos, um ano de bom e efectivo serviço na categoria.
 
 2. Se o concurso referido no n.º 1 ficar deserto ou se o número de candidatos aprovados for insuficiente para preencher as vagas, abrir-se-á novo concurso, a que poderão ser admitidos indivíduos, dos quadros ou estranhos a eles, com a habilitação mínima prevista no artigo seguinte.
 
-###### Art. 11.º Os lugares de segundo-calculador são providos, mediante concurso de provas públicas, entre indivíduos com a habilitação mínima do 7.º ano dos liceus ou equivalente.
+Art. 11.º Os lugares de segundo-calculador são providos, mediante concurso de provas públicas, entre indivíduos com a habilitação mínima do 7.º ano dos liceus ou equivalente.
 
-###### Art. 12.º Se as vagas a preencher nos termos dos artigos 5.º, 8.º e 9.º forem em número superior ao dos candidatos com o tempo de serviço exigido, pode ser autorizada a nomeação sem serem satisfeitas as condições de tempo de serviço.
+Art. 12.º Se as vagas a preencher nos termos dos artigos 5.º, 8.º e 9.º forem em número superior ao dos candidatos com o tempo de serviço exigido, pode ser autorizada a nomeação sem serem satisfeitas as condições de tempo de serviço.
 
-###### Art. 13.º O Ministro das Corporações e Previdência Social fará publicar a relação nominal dos actuais actuários e calculadores, com indicação dos lugares e situações em que ficam providos. Os provimentos estabelecidos nessa relação e o direito aos abonos dos vencimentos correspondentes efectivam-se a partir do início do mês seguinte ao da sua publicação, com dispensa de mais formalidades, incluindo o visto do Tribunal de Contas e posse.
+Art. 13.º O Ministro das Corporações e Previdência Social fará publicar a relação nominal dos actuais actuários e calculadores, com indicação dos lugares e situações em que ficam providos. Os provimentos estabelecidos nessa relação e o direito aos abonos dos vencimentos correspondentes efectivam-se a partir do início do mês seguinte ao da sua publicação, com dispensa de mais formalidades, incluindo o visto do Tribunal de Contas e posse.
 
-###### Art. 14.º - 1.º Os indivíduos providos interinamente em lugares do quadro referido no artigo 3.º, habilitados com o concurso para a respectiva categoria, e que nessa situação ainda se encontrem a prestar serviço findo o prazo de validade do concurso, serão providos definitivamente em vacaturas que venham a ocorrer na mesma categoria, sem dependência de novo concurso.
+Art. 14.º - 1.º Os indivíduos providos interinamente em lugares do quadro referido no artigo 3.º, habilitados com o concurso para a respectiva categoria, e que nessa situação ainda se encontrem a prestar serviço findo o prazo de validade do concurso, serão providos definitivamente em vacaturas que venham a ocorrer na mesma categoria, sem dependência de novo concurso.
 
 2. O disposto no número anterior é aplicável aos actuais funcionários, nomeados interinamente antes de findo o prazo de validade do respectivo concurso, relativamente aos quais esse prazo já terminou.
 
-###### Art. 15.º - 1. Serão suportados pelo Fundo Nacional do Abono de Família os encargos correspondentes aos lugares de actuário superior, actuário-chefe, calculador-chefe e calculador principal.
+Art. 15.º - 1. Serão suportados pelo Fundo Nacional do Abono de Família os encargos correspondentes aos lugares de actuário superior, actuário-chefe, calculador-chefe e calculador principal.
 
 2. Os encargos com as remunerações serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo Nacional do Abono de Família, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
 
-###### Art. 16.º A partir do início da vigência deste diploma ficam revogados o artigo 18.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948, os artigo 55.º, 56.º, 70.º, 71.º e 75.º do regulamento aprovado pelo [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 de Dezembro de 1948, e os artigos 68.º, 72.º e 77.º do mesmo regulamento, na parte em que se referem a matérias reguladas pelo presente decreto-lei.
+Art. 16.º A partir do início da vigência deste diploma ficam revogados o artigo 18.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948, os artigo 55.º, 56.º, 70.º, 71.º e 75.º do regulamento aprovado pelo [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 de Dezembro de 1948, e os artigos 68.º, 72.º e 77.º do mesmo regulamento, na parte em que se referem a matérias reguladas pelo presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Mapa do pessoal a que se refere o artigo 3.º do Decreto-Lei n.º 47754, de 9 de Junho de 1967
 
-([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/13500/12401242.pdf))
+(ver documento Original)
 
 Ministério das Corporações e Previdência Social, 9 de Junho de 1967. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

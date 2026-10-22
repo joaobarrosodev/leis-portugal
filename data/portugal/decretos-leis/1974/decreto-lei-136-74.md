@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/08000/04870488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1974-411821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47df258d77a58fe30806b00a9584c8da9fdd83e6c0cc3595bc1ccb91344e0acf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42e9a1be60aa0ec8d5e2f029ad8ac96ab89f75994ba59337233c3d54b7538c56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gestão de Recursos Humanos
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615821:por
+  label: "Alterado o quadro de pessoal constante do n.º 1 do art. 2.º do presente diploma, pela PORT.290/89.19.04.1989.MDN,\
+    \ DR.IS [91] de 19.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1989-615821
+  date: '1989-04-19'
+- type: cites
+  target: pt:dre:234698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:30Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +117,7 @@ Tornando-se necessário ainda criar a possibilidade de acesso, nesta classe, ao 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os efectivos do quadro da classe do serviço especial, constantes do mapa I anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, com as alterações que lhes foram introduzidas pela [Portaria n.º 23501](https://diariodarepublica.pt/dr/detalhe/portaria/23501-1968-273609), de 24 de Julho do mesmo ano, são aumentados de:
+Artigo 1.º Os efectivos do quadro da classe do serviço especial, constantes do mapa I anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, com as alterações que lhes foram introduzidas pela [Portaria n.º 23501](https://diariodarepublica.pt/dr/detalhe/portaria/23501-1968-273609), de 24 de Julho do mesmo ano, são aumentados de:
 
 Capitães-de-mar-e-guerra - 5;
 
@@ -103,21 +125,21 @@ Capitães-de-fragata - 14;
 
 Capitães-tenentes - 26.
 
-###### Art. 2.º - 1. O aumento de quadros referido no artigo anterior processar-se-á de forma gradual, à medida que vierem a ser preenchidos os restantes postos desta classe, de acordo com o escalonamento indicado no mapa seguinte, em que se estabelece a correspondência entre os efectivos autorizados para os postos de oficial superior e os efectivos totais existentes na classe:
+Art. 2.º - 1. O aumento de quadros referido no artigo anterior processar-se-á de forma gradual, à medida que vierem a ser preenchidos os restantes postos desta classe, de acordo com o escalonamento indicado no mapa seguinte, em que se estabelece a correspondência entre os efectivos autorizados para os postos de oficial superior e os efectivos totais existentes na classe:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08000/04870488.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08000/04870488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08000/04870488.pdf)
 
 2. Os efectivos de oficiais superiores que constam das diversas colunas do mapa do número anterior, com excepção da primeira, só passam a vigorar a partir do dia 1 de Janeiro do ano seguinte àquele em que tiver sido atingido o mínimo de efectivos totais que se encontra referido em cada uma dessas colunas.
 
-###### Art. 3.º - 1. O primeiro provimento no posto de capitão-de-mar-e-guerra só terá lugar depois de ao mesmo posto ter sido promovido um oficial das classes de marinha, de engenheiros maquinistas navais ou de administração naval mais novo que qualquer dos capitães-de-fragata da classe do serviço especial incluídos no terço superior destes oficiais, arredondado por defeito, ou nos três primeiros lugares do respectivo quadro, se o número for inferior a doze.
+Art. 3.º - 1. O primeiro provimento no posto de capitão-de-mar-e-guerra só terá lugar depois de ao mesmo posto ter sido promovido um oficial das classes de marinha, de engenheiros maquinistas navais ou de administração naval mais novo que qualquer dos capitães-de-fragata da classe do serviço especial incluídos no terço superior destes oficiais, arredondado por defeito, ou nos três primeiros lugares do respectivo quadro, se o número for inferior a doze.
 
 2. Até que se atinja o efectivo total fixado para o posto de capitão-de-mar-e-guerra da classe do serviço especial, os provimentos neste posto processar-se-ão por forma que não se exceda, em cada ano, um aumento dos seus efectivos superior a uma unidade.
 
-###### Art. 4.º As promoções aos postos de segundo-tenente e superiores da classe do serviço especial passam a ter lugar segundo sistemas iguais aos estabelecidos para idênticos postos das classes de oficiais oriundos da Escola Naval.
+Art. 4.º As promoções aos postos de segundo-tenente e superiores da classe do serviço especial passam a ter lugar segundo sistemas iguais aos estabelecidos para idênticos postos das classes de oficiais oriundos da Escola Naval.
 
-###### Art. 5.º Os actuais quadros de primeiros-tenentes e segundos-tenentes e subtenentes da classe do serviço especial são substituídos por um quadro único de primeiros-tenentes, segundos-tenentes e subtenentes, cujos efectivos são iguais à soma dos efectivos actualmente fixados para aqueles quadros.
+Art. 5.º Os actuais quadros de primeiros-tenentes e segundos-tenentes e subtenentes da classe do serviço especial são substituídos por um quadro único de primeiros-tenentes, segundos-tenentes e subtenentes, cujos efectivos são iguais à soma dos efectivos actualmente fixados para aqueles quadros.
 
-###### Art. 6.º - 1. Os limites de idade para a passagem à situação de reserva dos oficiais da classe do serviço especial são os seguintes:
+Art. 6.º - 1. Os limites de idade para a passagem à situação de reserva dos oficiais da classe do serviço especial são os seguintes:
 
 Capitão-de-mar-e-guerra - 62 anos;
 
@@ -135,10 +157,10 @@ Segundo-tenente e subtenente - 52 anos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 
-**Promulgado em 27 de Março de 1974.**
+Promulgado em 27 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

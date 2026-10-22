@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/12900/06810682.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1974-622590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3d85d04cd94e628f851aced71fe5d3c2d3e473923c5965bdb66b4c7954cd185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3543e69e636afe1be5a88853e7a7dd5231ece6e4b8fb83eb8de7ae3e64499dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Indústria de Ourivesaria e Relojoaria
+- Obra de Arte
+- Pedra Preciosa
 relationships:
 - type: amended_by
   target: pt:dre:616264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:623190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616264:por
+  label: "Revogado pelo DEC LEI.139/91.10.04.1991.MF, DR.IS-A [83] de 10.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1991-616264
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:38Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +120,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do n.º 1 do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São autorizadas, nos termos deste decreto-lei, as exportações de pedras preciosas, de objectos, ou suas partes, de prata, ouro, platina ou outros metais preciosos, quadros e objectos de arte, que não sejam classificados como antiguidades, ficando revogado o que, sobre estes tipos de valores, é preceituado na alínea f) do artigo 1.º do [Decreto-Lei n.º 181/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1974-623190), de 2 de Maio, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 189/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1974-623208), de 6 do mesmo mês.
+Artigo 1.º São autorizadas, nos termos deste decreto-lei, as exportações de pedras preciosas, de objectos, ou suas partes, de prata, ouro, platina ou outros metais preciosos, quadros e objectos de arte, que não sejam classificados como antiguidades, ficando revogado o que, sobre estes tipos de valores, é preceituado na alínea f) do artigo 1.º do [Decreto-Lei n.º 181/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1974-623190), de 2 de Maio, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 189/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1974-623208), de 6 do mesmo mês.
 
-###### Art. 2.º O licenciamento destas operações será efectuado pelos competentes serviços dos governos provinciais ou pela Direcção-Geral do Comércio, consoante se trate, respectivamente, de exportação ou saída para outro território nacional ou para o estrangeiro, e obedecerá às normas a estabelecer em despacho da competente autoridade provincial ou do Secretário de Estado do Comércio Externo e Turismo, consoante um ou outro caso.
+Art. 2.º O licenciamento destas operações será efectuado pelos competentes serviços dos governos provinciais ou pela Direcção-Geral do Comércio, consoante se trate, respectivamente, de exportação ou saída para outro território nacional ou para o estrangeiro, e obedecerá às normas a estabelecer em despacho da competente autoridade provincial ou do Secretário de Estado do Comércio Externo e Turismo, consoante um ou outro caso.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida.
 
-**Promulgado em 30 de Maio de 1974.**
+Promulgado em 30 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

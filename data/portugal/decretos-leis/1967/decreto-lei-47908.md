@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47908-1967-390266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9950543eafff0275a8b2a114b57f37efc13be0b98a901218b80b57fe9ff50086
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1d45bfaa5784d5efe8898e9cb6ae23d98e730a3ad534df28b2d5ad973187a24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- AVAL do Estado
+- Contrato de Financiamento
+- Crédito à Exportação
+- Definição de Competências
+- Empresa
+- Exportação
+- Financiamento
+- Fundo de Fomento de Exportação
+- Garantia
+- Incentivos à Exportação
+- Inspecção Geral de Crédito e Seguros
+- Instituição de Crédito
+- Ministério do Ultramar
+- Ministro das Finanças
+- Regime Jurídico
+- Seguro de Créditos
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:502205:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:526203:por
+  label: "Alterados os arts. 5º, 6º, 9º, 11º, 12º, nº 1 do 19º, 25º e 26º e revogados os cap. III e IV pelo DEC LEI.48950.03.04.1969.MF,\
+    \ DG.IS [79] de 03.04.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48950-1969-526203
+  date: '1969-04-03'
+- type: cites
+  target: pt:dre:145869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502205:por
+  label: "Revogados, com excepção do nº 2 do art. 25º, os caps. I, II, V e VI do presente diploma, com as alterações que lhe\
+    \ foram introduzidas pelo Dec Lei 48950 de 03-Abrl de 1969, pelo DEC LEI.289/76.22.04.1976.MF, DR.IS [95] de 22.04.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1976-502205
+  date: '1976-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:22Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +191,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. As operações de crédito à exportação têm por objecto facultar às empresas agrícolas, industriais ou comerciais recursos destinados a financiar a exportação de, bens e serviços.
+Artigo 1.º - 1. As operações de crédito à exportação têm por objecto facultar às empresas agrícolas, industriais ou comerciais recursos destinados a financiar a exportação de, bens e serviços.
 
 2. Ficam sujeitas ao disposto no presente diploma as operações de crédito à exportação em que os interessados pretendam prevalecer-se dos benefícios que nele se estabelecem.
 
@@ -112,7 +199,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os Ministros das Finanças e da Economia, no continente e ilhas adjacentes, e o primeiro e o do Ultramar, nas províncias ultramarinas, poderão, quando o justifiquem os interesses da economia nacional, autorizar de modo geral, mediante portaria, ou caso a caso, através de despacho, a concessão, nos termos do presente diploma, de créditos à exportação de bens que não reúnam as condições estabelecidas no número anterior.
 
-###### Art. 2.º - 1. Os créditos à exportação nacional podem revestir as seguintes modalidades:
+Art. 2.º - 1. Os créditos à exportação nacional podem revestir as seguintes modalidades:
 
 a) Créditos de pré-financiamento;
 
@@ -124,7 +211,7 @@ a) Pré-financiamentos correntes;
 
 b) Pré-financiamentos especiais.
 
-###### Art. 3.º - 1. Os créditos à exportação nacional poderão ser outorgados a curto, médio ou longo termos.
+Art. 3.º - 1. Os créditos à exportação nacional poderão ser outorgados a curto, médio ou longo termos.
 
 2. O prazo das operações conta-se a partir da data em que os recursos são, no todo ou em parte, colocados à disposição do beneficiário do crédito.
 
@@ -136,25 +223,25 @@ b) Pré-financiamentos especiais.
 
 6. Depende de prévia autorização do Ministro das Finanças, no continente e ilhas adjacentes, e do Ministro do Ultramar, nas províncias ultramarinas, a realização de quaisquer créditos de financiamento por prazo superior a dez anos, bem como a prorrogação, para além desse limite, do prazo de operações já contratadas.
 
-###### Art. 4.º Quando o importador, nos prazos contratualmente estabelecidos, tiver emitido as ordens de pagamento para liquidação dos seus débitos, fazendo a entrega dos respectivos fundos numa instituição de crédito do país ou território de importação e a correspondente transferência não puder ser efectuada imediatamente por dificuldades de pagamentos externos do país ou território em causa ou por qualquer outra razão independente da vontade das partes interessadas na transacção, as instituições de crédito portuguesas que houverem outorgado os correlativos créditos à exportação darão dessa situação, bem como de qualquer alteração subsequente que nela se verifique, imediato conhecimento:
+Art. 4.º Quando o importador, nos prazos contratualmente estabelecidos, tiver emitido as ordens de pagamento para liquidação dos seus débitos, fazendo a entrega dos respectivos fundos numa instituição de crédito do país ou território de importação e a correspondente transferência não puder ser efectuada imediatamente por dificuldades de pagamentos externos do país ou território em causa ou por qualquer outra razão independente da vontade das partes interessadas na transacção, as instituições de crédito portuguesas que houverem outorgado os correlativos créditos à exportação darão dessa situação, bem como de qualquer alteração subsequente que nela se verifique, imediato conhecimento:
 
 a) No continente e ilhas adjacentes, ao Banco de Portugal e, simultâneamente, à Inspecção-Geral de Crédito e Seguros, se tiver sido esta a entidade que autorizou a operação de crédito externo em causa;
 
 b) Nas províncias ultramarinas, à respectiva inspecção provincial de créditos e seguros ou do comércio bancário.
 
-###### Art. 5.º - 1. Não poderão ser objecto de créditos à exportarão nacional a médio ou longo prazo as exportações de matérias-primas, produtos alimentares e quaisquer outros bens de consumo imediato, bem como o não poderão ser por créditos a longo prazo as exportações de bens de equipamento de valor global inferior a 5 milhões de escudos e as de bens de consumo duradouro.
+Art. 5.º - 1. Não poderão ser objecto de créditos à exportarão nacional a médio ou longo prazo as exportações de matérias-primas, produtos alimentares e quaisquer outros bens de consumo imediato, bem como o não poderão ser por créditos a longo prazo as exportações de bens de equipamento de valor global inferior a 5 milhões de escudos e as de bens de consumo duradouro.
 
 2. Exceptuam-se do disposto no número antecedente as operações em que for reconhecida, pelo Conselho de Ministros para os Assuntos Económicos, a existência de imperativo de interesse nacional.
 
 3. Se for julgado conveniente, os Ministros das Finanças e da Economia, para o continente e ilhas adjacentes, e o primeiro e o do Ultramar, para as províncias ultramarinas, fixarão, por despacho conjunto, às espécies ou os produtos e serviços de origem nacional que deverão considerar-se prioritários na utilização, em cada uma das categorias de prazos, dos recursos a aplicar em créditos à exportação nacional.
 
-###### Art. 6.º Para a concessão de créditos à exportação nacional de pré-financiamento ou financiamento deve o beneficiário apresentar prova de que os bens ou serviços em causa podem ser objecto de créditos à exportação nacional nos termos do presente diploma.
+Art. 6.º Para a concessão de créditos à exportação nacional de pré-financiamento ou financiamento deve o beneficiário apresentar prova de que os bens ou serviços em causa podem ser objecto de créditos à exportação nacional nos termos do presente diploma.
 
-###### Art. 7.º Os créditos de pré-financiamento especial ou de financiamento não poderão ser outorgados quando as condições de pagamento estipuladas nos contratos com os importadores e as garantias prestadas por estes se afastem das usuais em transacções do mesmo tipo e não se verifiquem circunstâncias que, atentos os superiores interesses da economia nacional, justifiquem a concessão ao importador do regime excepcional convencionado.
+Art. 7.º Os créditos de pré-financiamento especial ou de financiamento não poderão ser outorgados quando as condições de pagamento estipuladas nos contratos com os importadores e as garantias prestadas por estes se afastem das usuais em transacções do mesmo tipo e não se verifiquem circunstâncias que, atentos os superiores interesses da economia nacional, justifiquem a concessão ao importador do regime excepcional convencionado.
 
-###### Art. 8.º Concedidos os créditos de pré-financiamento especial ou de financiamento, os exportadores não poderão, sem prévio consentimento da instituição que outorgou esses créditos, introduzir quaisquer alterações nos seus contratos com os importadores, nomeadamente no que respeita às garantias e às formas e datas de pagamento dos valores das transacções, mas sempre sem prejuízo do estatuído no artigo 3.º
+Art. 8.º Concedidos os créditos de pré-financiamento especial ou de financiamento, os exportadores não poderão, sem prévio consentimento da instituição que outorgou esses créditos, introduzir quaisquer alterações nos seus contratos com os importadores, nomeadamente no que respeita às garantias e às formas e datas de pagamento dos valores das transacções, mas sempre sem prejuízo do estatuído no artigo 3.º
 
-###### Art. 9.º - 1. As taxas de juro anual a praticar na concessão de créditos à exportação nacional nos termos do presente diploma não poderão ultrapassar, consoante os prazos dos créditos, os limites legais fixados para as operações activas das instituições de crédito.
+Art. 9.º - 1. As taxas de juro anual a praticar na concessão de créditos à exportação nacional nos termos do presente diploma não poderão ultrapassar, consoante os prazos dos créditos, os limites legais fixados para as operações activas das instituições de crédito.
 
 2. O Governo poderá estabelecer por portaria limites máximos diferentes dos referidos no número precedente, consoante os sectores de actividade económica interessada.
 
@@ -166,23 +253,23 @@ b) Nas províncias ultramarinas, à respectiva inspecção provincial de crédit
 
 6. As taxas de juro dos créditos à exportação nacional, acordadas com observância do disposto neste artigo, não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do banco com privilégio de emissão no território nacional de exportação, durante o prazo pelo qual foram outorgados os créditos, excepto cláusula contratual em contrário.
 
-###### Art. 10.º As instituições de crédito, para acautelarem a eficácia da sua assistência às empresas beneficiárias de créditos à exportação nacional, poderão assegurar nos respectivos contratos o direito de fiscalizar, pela forma apropriada, a actividade dessas empresas, mas apenas na parte directamente relacionada com os créditos a médio e longo prazos concedidos nos termos do presente diploma.
+Art. 10.º As instituições de crédito, para acautelarem a eficácia da sua assistência às empresas beneficiárias de créditos à exportação nacional, poderão assegurar nos respectivos contratos o direito de fiscalizar, pela forma apropriada, a actividade dessas empresas, mas apenas na parte directamente relacionada com os créditos a médio e longo prazos concedidos nos termos do presente diploma.
 
 #### SECÇÃO II — Dos créditos de pré-financiamento
 
-###### Art. 11.º - 1. Os créditos de pré-financiamento corrente têm por objecto facultar às empresas produtoras de bens ou serviços destinados à exportação, bem como às empresas exportadoras, recursos que lhes permitam cobrir as suas necessidades de capital circulante correspondentes ao volume das exportações que realizem.
+Art. 11.º - 1. Os créditos de pré-financiamento corrente têm por objecto facultar às empresas produtoras de bens ou serviços destinados à exportação, bem como às empresas exportadoras, recursos que lhes permitam cobrir as suas necessidades de capital circulante correspondentes ao volume das exportações que realizem.
 
 2. Os créditos de pré-financiamento corrente não poderão, em caso algum, abranger as necessidades de capital circulante da empresa que resultem do diferimento de liquidação das suas exportações.
 
-###### Art. 12.º - 1. Os créditos de pré-financiamento especial têm por objecto facultar às empresas referidas no n.º 1 do artigo anterior recursos necessários à execução de encomendas firmes de produtos destinados à exportação.
+Art. 12.º - 1. Os créditos de pré-financiamento especial têm por objecto facultar às empresas referidas no n.º 1 do artigo anterior recursos necessários à execução de encomendas firmes de produtos destinados à exportação.
 
 2. O montante dos créditos de pré-financiamento especial não poderão exceder as necessidades resultantes directamente da própria execução da encomenda, nem 80 por cento do valor desta última.
 
-###### Art. 13.º - 1. Para efeito de facilitar a concessão, pelas instituições de crédito, de operações de pré-financiamento, o Fundo de Fomento de Exportação poderá outorgar o seu aval a estas operações, solicitando para tanto, sempre que o considere necessário, o parecer prévio da Direcção-Geral dos Serviços Industriais, da Direcção-Geral de Economia, do Ministério do Ultramar, ou de quaisquer outros serviços ou entidades.
+Art. 13.º - 1. Para efeito de facilitar a concessão, pelas instituições de crédito, de operações de pré-financiamento, o Fundo de Fomento de Exportação poderá outorgar o seu aval a estas operações, solicitando para tanto, sempre que o considere necessário, o parecer prévio da Direcção-Geral dos Serviços Industriais, da Direcção-Geral de Economia, do Ministério do Ultramar, ou de quaisquer outros serviços ou entidades.
 
 2. Os termos e condições em que o Fundo de Fomento de Exportação poderá conceder os avales referidos no número anterior e, bem assim, os limites das responsabilidades do Fundo por esses avales e o valor das comissões a pagar ao Fundo pelos beneficiários serão fixados em despacho conjunto dos Ministros das Finanças e da Economia.
 
-###### Art. 14.º - 1. Os créditos de pré-financiamento a curto prazo realizar-se-ão:
+Art. 14.º - 1. Os créditos de pré-financiamento a curto prazo realizar-se-ão:
 
 a) Por desconto de títulos de crédito renováveis durante todo o período da operação, de acordo com as necessidades da empresa beneficiária, mas sem prejuízo dos prazos referidos no n.º 4 do artigo 3.º;
 
@@ -192,7 +279,7 @@ b) Por empréstimos, designadamente sob a forma de abertura de crédito em conta
 
 #### SECÇÃO III — Dos créditos de financiamento
 
-###### Art. 15.º - 1. Os créditos de financiamento à exportação têm por objecto facultar aos exportadores recursos correspondentes aos seus direitos sobre os importadores.
+Art. 15.º - 1. Os créditos de financiamento à exportação têm por objecto facultar aos exportadores recursos correspondentes aos seus direitos sobre os importadores.
 
 2. O montante dos créditos de financiamento não poderá exceder:
 
@@ -202,7 +289,7 @@ b) Se o crédito for a médio ou a longo prazo, 85 por cento do débito do impor
 
 3. O prazo das operações de financiamento não pode, em caso algum, exceder o período que medeia entre a data da constituição do crédito do exportador sobre o importador e a do último pagamento a efectuar por este nos termos do contrato.
 
-###### Art. 16.º - 1. Para efeitos da realização de operações de créditos de financiamento à exportação nacional, serão emitidos, conforme o caso, pelo Banco de Portugal, pela Inspecção-Geral de Crédito e Seguros ou pelas inspecções provinciais de crédito e seguros ou do comércio bancário, a pedido dos exportadores e dentro dos prazos e condições mencionados no § 1.º do artigo 3.º ou no artigo 5.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), títulos denominados «certificados para créditos à exportarão nacional».
+Art. 16.º - 1. Para efeitos da realização de operações de créditos de financiamento à exportação nacional, serão emitidos, conforme o caso, pelo Banco de Portugal, pela Inspecção-Geral de Crédito e Seguros ou pelas inspecções provinciais de crédito e seguros ou do comércio bancário, a pedido dos exportadores e dentro dos prazos e condições mencionados no § 1.º do artigo 3.º ou no artigo 5.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), títulos denominados «certificados para créditos à exportarão nacional».
 
 2. A emissão dos certificados para créditos à exportação nacional não dispensará a dos boletins de autorização de operações de capitais privados, quando estes forem exigíveis por virtude do determinado nos artigos 19.º e 21.º do dito [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), mas, no caso de as inerentes operações de crédito externo dependerem de autorização prévia do Banco de Portugal, a emissão dos certificados pelo Banco equivalerá, para todos os efeitos, à concessão da autorização.
 
@@ -210,7 +297,7 @@ b) Se o crédito for a médio ou a longo prazo, 85 por cento do débito do impor
 
 4. A pedido das entidades exportadoras e tendo em vista nomeadamente a solicitação às instituições de crédito de garantias antecipadas de concessão de créditos à exportação nacional, podem as autoridades competentes tomar o compromisso de virem a emitir, em determinadas condições, quaisquer dos documentos referidos nos números anteriores.
 
-###### Art. 17.º - 1. Os certificados para créditos à exportação nacional serão preenchidos sempre em original e duas cópias, destinando-se o original e a primeira cópia ao exportador e a segunda cópia ao Banco de Portugal ou à inspecção provincial de crédito e seguros ou do comércio bancário. Quando os certificados forem emitidos pela Inspecção-Geral de Crédito e Seguros, será preenchida uma terceira cópia, a remeter ao Banco de Portugal juntamente com os exemplares dos boletins de autorização de operações de capitais previstos na legislação vigente.
+Art. 17.º - 1. Os certificados para créditos à exportação nacional serão preenchidos sempre em original e duas cópias, destinando-se o original e a primeira cópia ao exportador e a segunda cópia ao Banco de Portugal ou à inspecção provincial de crédito e seguros ou do comércio bancário. Quando os certificados forem emitidos pela Inspecção-Geral de Crédito e Seguros, será preenchida uma terceira cópia, a remeter ao Banco de Portugal juntamente com os exemplares dos boletins de autorização de operações de capitais previstos na legislação vigente.
 
 2. Os modelos dos certificados para créditos à exportação nacional serão estabelecidos pela Inspecção-Geral de Crédito e Seguros, ouvido o Banco de Portugal, mas dos certificados constarão sempre:
 
@@ -234,7 +321,7 @@ g) A indicação de que foi certificada, nos termos legais, a origem nacional da
 
 5. Pela emissão dos certificados não serão devidos impostos ou emolumentos.
 
-###### Art. 18.º - 1. No caso de, após a emissão de certificados para créditos à exportação nacional e até ao montante de se realizarem, com base nesses certificados, as operações de crédito bancário previstas no presente diploma, os correspondentes importadores procederem a quaisquer pagamentos, as instituições de crédito que efectuarem à respectiva liquidação deverão apor as pertinentes indicações no original e primeira cópia dos certificados que para o efeito lhes serão presentes pelos exportadores, comunicando o facto ao Banco de Portugal e, tratando-se de operações que interessem às províncias ultramarinas, à respectiva inspecção provincial de crédito e seguros ou do comércio bancário, o mais tardar no primeiro dia útil seguinte ao da aludida liquidação, independentemente do processo que haverá a seguir, nos termos da legislação vigente, quanto às importações de capitais correspondentes a essas amortizações efectuadas pelos importadores.
+Art. 18.º - 1. No caso de, após a emissão de certificados para créditos à exportação nacional e até ao montante de se realizarem, com base nesses certificados, as operações de crédito bancário previstas no presente diploma, os correspondentes importadores procederem a quaisquer pagamentos, as instituições de crédito que efectuarem à respectiva liquidação deverão apor as pertinentes indicações no original e primeira cópia dos certificados que para o efeito lhes serão presentes pelos exportadores, comunicando o facto ao Banco de Portugal e, tratando-se de operações que interessem às províncias ultramarinas, à respectiva inspecção provincial de crédito e seguros ou do comércio bancário, o mais tardar no primeiro dia útil seguinte ao da aludida liquidação, independentemente do processo que haverá a seguir, nos termos da legislação vigente, quanto às importações de capitais correspondentes a essas amortizações efectuadas pelos importadores.
 
 2. Quando, por virtude dos pagamentos a que se refere o número anterior, se observe a regularização integral dos montantes inscritos nos certificados, as instituições de crédito deverão devolver ao Banco de Portugal, ou à inspecção provincial de crédito e seguros ou do comércio bancário, no prazo e com as indicações referidas também nesse número, os exemplares dos certificados recebidos dos exportadores.
 
@@ -242,13 +329,13 @@ g) A indicação de que foi certificada, nos termos legais, a origem nacional da
 
 4. Quando, por quaisquer circunstâncias e no período a que alude o n.º 1 do presente artigo, se modificarem as condições que informaram a venda a prazo das mercadorias e constam dos respectivos certificados, seguir-se-á procedimento análogo ao indicado no número precedente.
 
-###### Art. 19.º - 1. Ao solicitarem créditos à exportação nacional na modalidade de financiamento, os exportadores entregarão a essas instituições os exemplares dos certificados em seu poder, bem como as letras, livranças, promissórias ou títulos equivalentes eventualmente aceites ou emitidos entretanto pelos importadores, que deverão ser devidamente avalizadas por instituição de crédito ou outra entidade legalmente habilitada para o efeito no país ou território de importação das mercadorias. Outorgados os créditos, as respectivas instituições remeterão ao Banco de Portugal, ou à inspecção provincial de crédito e seguros ou do comércio bancário, até ao primeiro dia útil seguinte ao da realização das operações, as cópias dos certificados recebidos inscrevendo nelas as datas de concessão e importâncias dos ditos créditos.
+Art. 19.º - 1. Ao solicitarem créditos à exportação nacional na modalidade de financiamento, os exportadores entregarão a essas instituições os exemplares dos certificados em seu poder, bem como as letras, livranças, promissórias ou títulos equivalentes eventualmente aceites ou emitidos entretanto pelos importadores, que deverão ser devidamente avalizadas por instituição de crédito ou outra entidade legalmente habilitada para o efeito no país ou território de importação das mercadorias. Outorgados os créditos, as respectivas instituições remeterão ao Banco de Portugal, ou à inspecção provincial de crédito e seguros ou do comércio bancário, até ao primeiro dia útil seguinte ao da realização das operações, as cópias dos certificados recebidos inscrevendo nelas as datas de concessão e importâncias dos ditos créditos.
 
 2. Na hipótese aludida de letras aceites pelos importadores, as instituições de crédito aporão no verso destes títulos a indicação do número dos correlativos certificados para créditos à exportação e devolverão ao Banco de Portugal, ou à inspecção provincial de créditos e seguros ou do comércio bancário, os dois exemplares dos certificados entregues pelos exportadores, com menção, no original do certificado, dos valores, datas de vencimento e intervenientes nas letras em causa.
 
 3. Quando, depois da concessão de créditos à exportação nacional, se verifiquem as circunstâncias mencionadas nos n.os 3 e 4 do artigo anterior, os exportadores são obrigados a comunicar esses factos directa e imediatamente às instituições de crédito a que houverem recorrido, as quais, por seu turno, seguirão procedimento semelhante ao indicado nesses números para os exportadores.
 
-###### Art. 20.º - 1. Os créditos à exportação nacional sob forma de financiamento poderão assumir qualquer das modalidades seguintes:
+Art. 20.º - 1. Os créditos à exportação nacional sob forma de financiamento poderão assumir qualquer das modalidades seguintes:
 
 a) Descontos das letras, livranças, promissórias ou títulos de crédito semelhante, aceites ou emitidos pelos importadores de produtos de origem nacional e mencionados no artigo anterior;
 
@@ -260,9 +347,9 @@ b) Empréstimos, designadamente por aberturas de créditos em conta corrente, ca
 
 4. Quando a operação se realizar por desconto, este não poderá exceder, para cada um dos títulos descontados, o limite estabelecido na alínea a) do n.º 2 do artigo 15.º
 
-###### Art. 21.º Quando nos contratos relativos a operações de crédito à exportação nacional se tenha previsto a faculdade de os beneficiários procederem à amortização ou reembolso desses créditos, independentemente das amortizações ou reembolsos das correlativas operações de crédito externo pelos importadores das mercadorias, e os ditos beneficiários utilizem essa faculdade ou as instituições credoras venham a acordar com eles na realização de tais amortizações ou reembolsos, as ditas instituições de crédito comunicarão ao Banco de Portugal ou à inspecção provincial de crédito e seguros ou do comércio bancário as importâncias assim recebidas e os números dos certificados a que respeitem o mais tardar no primeiro dia útil seguinte ao das liquidações em causa.
+Art. 21.º Quando nos contratos relativos a operações de crédito à exportação nacional se tenha previsto a faculdade de os beneficiários procederem à amortização ou reembolso desses créditos, independentemente das amortizações ou reembolsos das correlativas operações de crédito externo pelos importadores das mercadorias, e os ditos beneficiários utilizem essa faculdade ou as instituições credoras venham a acordar com eles na realização de tais amortizações ou reembolsos, as ditas instituições de crédito comunicarão ao Banco de Portugal ou à inspecção provincial de crédito e seguros ou do comércio bancário as importâncias assim recebidas e os números dos certificados a que respeitem o mais tardar no primeiro dia útil seguinte ao das liquidações em causa.
 
-###### Art. 22.º - 1. Para a liquidação das amortizações reembolsos, ordenados pelos importadores, das operações de crédito externo decorrentes da venda a prazo de mercadorias de origem nacional e quando as mesmas operações tenham originado a outorga de créditos à exportação nacional, proceder-se-á como segue:
+Art. 22.º - 1. Para a liquidação das amortizações reembolsos, ordenados pelos importadores, das operações de crédito externo decorrentes da venda a prazo de mercadorias de origem nacional e quando as mesmas operações tenham originado a outorga de créditos à exportação nacional, proceder-se-á como segue:
 
 a) Os exportadores deverão obter oportunamente, nos termos das disposições legais vigentes conforme o caso, os boletins de autorização de importação de capitais ou a autorização especial e prévia do Banco de Portugal, mencionado a Inspecção-Geral de Crédito e Seguros, a inspecção provincial de crédito e seguros ou do comércio bancário ou o Banco naqueles boletins ou nessa autorização os números dos correspondentes certificados para créditos à exportação nacional que antes emitiram;
 
@@ -274,15 +361,15 @@ d) Por seu turno, as instituições de crédito mencionadas na alínea b), ao re
 
 2. Se, por qualquer circunstância, os exportadores não houverem beneficiado de créditos à exportação nacional, e quando houver lugar às amortizações ou reembolsos referidos no presente artigo, será aplicável o disposto no n.º 1 ou no n.º 2 do artigo 18.º
 
-###### Art. 23.º Em conformidade com o estabelecido no § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461) ou no § 1.º do artigo 8.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), ambos de 17 de Novembro de 1962, poderão o Banco de Portugal e as inspecções provinciais de crédito e seguros ou do comércio bancário solicitar dos bancos comerciais ou dos exportadores, relativamente às operações de crédito externo não efectuadas ao abrigo do regime estabelecido no presente diploma e às respectivas amortizações ou reembolsos, elementos de informação complementares dos constantes dos boletins de autorização de exportação e importação de capitais privados emitidos com referência às operações de crédito externo correlativas daquelas operações de crédito bancário.
+Art. 23.º Em conformidade com o estabelecido no § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461) ou no § 1.º do artigo 8.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), ambos de 17 de Novembro de 1962, poderão o Banco de Portugal e as inspecções provinciais de crédito e seguros ou do comércio bancário solicitar dos bancos comerciais ou dos exportadores, relativamente às operações de crédito externo não efectuadas ao abrigo do regime estabelecido no presente diploma e às respectivas amortizações ou reembolsos, elementos de informação complementares dos constantes dos boletins de autorização de exportação e importação de capitais privados emitidos com referência às operações de crédito externo correlativas daquelas operações de crédito bancário.
 
 ### CAPÍTULO II — Das instituições de crédito
 
-###### Art. 24.º - 1. As operações de crédito à exportação nacional, a curso prazo e nos termos previstos no presente diploma, serão exclusivamente realizadas pelas instituições de crédito referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Art. 24.º - 1. As operações de crédito à exportação nacional, a curso prazo e nos termos previstos no presente diploma, serão exclusivamente realizadas pelas instituições de crédito referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 2. Os bancos comerciais poderão incluir os valores resultantes das operações de crédito a curso prazo que efectuem ao abrigo do estabelecido no presente diploma nas garantias das suas responsabilidades à vista em moeda nacional a que se referem o artigo 60.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), com a modificação introduzida pelo artigo 5.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), e o artigo 78.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) e disposições que os completem, alterem ou regulamentem.
 
-###### Art. 25.º - 1. A concessão de créditos à exportação nacional a médio e longo prazos será realizada, tanto no território do continente e ilhas adjacentes como nas províncias ultramarinas, pelos institutos de crédito do Estado, pelos bancos de investimento e pelos bancos comerciais.
+Art. 25.º - 1. A concessão de créditos à exportação nacional a médio e longo prazos será realizada, tanto no território do continente e ilhas adjacentes como nas províncias ultramarinas, pelos institutos de crédito do Estado, pelos bancos de investimento e pelos bancos comerciais.
 
 2. Nas províncias ultramarinas, as operações de créditos à exportação nacional a médio e longo prazos poderão também constituir objecto dos departamentos financeiros constituídos pelos bancos comerciais, nos termos do artigo 66.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
@@ -294,35 +381,35 @@ b) As operações de crédito a médio prazo, pela aplicação da parte disponí
 
 4. As importâncias dos créditos à exportação nacional a médio prazo realizados pelos bancos comerciais no continente e ilhas adjacentes, ao abrigo do disposto no número precedente, será aplicável o estabelecido no § único do artigo 6.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333) e disposições que o completem, alterem ou regulamentem, adicionando-se essas importâncias aos valores referidos nas alíneas c) e d) do mesmo artigo desse diploma.
 
-###### Art. 26.º - 1. Os bancos emissores nas suas operações de redesconto darão, dentro da orientação geral do crédito, prioridade aos títulos resultantes de operações de créditos à exportação nacional realizadas pelas instituições de crédito nos termos do presente diploma.
+Art. 26.º - 1. Os bancos emissores nas suas operações de redesconto darão, dentro da orientação geral do crédito, prioridade aos títulos resultantes de operações de créditos à exportação nacional realizadas pelas instituições de crédito nos termos do presente diploma.
 
 2. Antes da concessão de quaisquer créditos à exportação nacional, podem as instituições de crédito solicitar do banco emissor no respectivo território um compromisso de redesconto dos títulos através dos quais a operação se efectue.
 
-###### Art. 27.º - 1. Na aplicação dos seus recursos, a Caixa Geral de Depósitos, Crédito e Previdência terá em conta a prioridade a atribuir aos empréstimos que lhe sejam solicitados pelos bancos de investimento para a realização de operações de créditos à exportação nacional a médio e longo prazos previstas no artigo 25.º
+Art. 27.º - 1. Na aplicação dos seus recursos, a Caixa Geral de Depósitos, Crédito e Previdência terá em conta a prioridade a atribuir aos empréstimos que lhe sejam solicitados pelos bancos de investimento para a realização de operações de créditos à exportação nacional a médio e longo prazos previstas no artigo 25.º
 
 2. Os empréstimos a que alude o número precedente serão concedidos por prazo e em condições compatíveis com os das operações de créditos à exportação nacional a que se destinem.
 
 3. As taxas de juro dos empréstimos previstos no n.º 1 do presente artigo serão fixadas por despacho do Ministro das Finanças, sob proposta da Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 28.º - 1. O Ministro das Finanças poderá facultar aos bancos de investimento, mediante empréstimos, recursos destinados à realização de operações de créditos à exportação nacional a médio e longo prazos nos termos do presente diploma.
+Art. 28.º - 1. O Ministro das Finanças poderá facultar aos bancos de investimento, mediante empréstimos, recursos destinados à realização de operações de créditos à exportação nacional a médio e longo prazos nos termos do presente diploma.
 
 2. O prazo, juro e demais condições dos empréstimos a que se refere o número anterior serão fixados pelo Ministro das Finanças de acordo com as condições das operações de créditos à exportação nacional a que os recursos se destinem.
 
-###### Art. 29.º Para a realização das operações de créditos à exportação que o presente diploma lhes comete, poderão os bancos de investimento recorrer, mediante prévio acordo com as instituições de crédito respectivas, à colaboração das agências, filiais e outras sucursais da Caixa Geral de Depósitos, Crédito e Previdência, e dos bancos comerciais, no território do continente e ilhas adjacentes, e aos das agências, filiais e outras sucursais, dos Bancos de Angola e Nacional Ultramarino e dos bancos comerciais, nas províncias ultramarinas.
+Art. 29.º Para a realização das operações de créditos à exportação que o presente diploma lhes comete, poderão os bancos de investimento recorrer, mediante prévio acordo com as instituições de crédito respectivas, à colaboração das agências, filiais e outras sucursais da Caixa Geral de Depósitos, Crédito e Previdência, e dos bancos comerciais, no território do continente e ilhas adjacentes, e aos das agências, filiais e outras sucursais, dos Bancos de Angola e Nacional Ultramarino e dos bancos comerciais, nas províncias ultramarinas.
 
-###### Art. 30.º Os bancos de investimento poderão realizar as operações cambiais necessárias à cobrança de quaisquer títulos de crédito relativos às exportações financiadas e à integral liquidação destas últimas.
+Art. 30.º Os bancos de investimento poderão realizar as operações cambiais necessárias à cobrança de quaisquer títulos de crédito relativos às exportações financiadas e à integral liquidação destas últimas.
 
 ### CAPÍTULO III — Do seguro de créditos à exportação nacional
 
-###### Art. 31.º - 1. O Governo promoverá a constituição, nos termos da legislação aplicável, de uma instituição seguradora denominada «Instituto de Seguro de Créditos», que terá por objectivo principal o seguro de créditos à exportação nacional, mas que poderá também dedicar-se ao seguro de outros créditos externos e internos.
+Art. 31.º - 1. O Governo promoverá a constituição, nos termos da legislação aplicável, de uma instituição seguradora denominada «Instituto de Seguro de Créditos», que terá por objectivo principal o seguro de créditos à exportação nacional, mas que poderá também dedicar-se ao seguro de outros créditos externos e internos.
 
 2. O Instituto constituir-se-á sob a forma de sociedade anónima, sendo para o efeito dispensada a observância do disposto no artigo 162.º do Código Comercial.
 
 3. Ficam isentos de impostos, incluindo o do selo, os actos e documentos necessários à constituição da sociedade.
 
-###### Art. 32.º O Instituto de Seguro de Créditos terá a sua sede em Lisboa e poderá constituir agências em qualquer parcela do território nacional, mediante autorização prévia do Ministro das Finanças, no continente e ilhas adjacentes, ou dos Ministros das Finanças e do Ultramar, nas províncias ultramarinas.
+Art. 32.º O Instituto de Seguro de Créditos terá a sua sede em Lisboa e poderá constituir agências em qualquer parcela do território nacional, mediante autorização prévia do Ministro das Finanças, no continente e ilhas adjacentes, ou dos Ministros das Finanças e do Ultramar, nas províncias ultramarinas.
 
-###### Art. 33.º - 1. O capital inicial do Instituto de Seguro de Créditos será de 100 milhões de escudos, dos quais 40 milhões serão subscritos pela Fazenda Nacional e pelas províncias ultramarinas e o restante pelas empresas seguradoras nacionais, pelas instituições de crédito portuguesas e por quaisquer outras pessoas, singulares ou colectivas, de direito privado.
+Art. 33.º - 1. O capital inicial do Instituto de Seguro de Créditos será de 100 milhões de escudos, dos quais 40 milhões serão subscritos pela Fazenda Nacional e pelas províncias ultramarinas e o restante pelas empresas seguradoras nacionais, pelas instituições de crédito portuguesas e por quaisquer outras pessoas, singulares ou colectivas, de direito privado.
 
 2. As acções representativas do capital do Instituto serão sempre nominativas e sòmente poderão ser averbadas em nome de cidadãos portugueses de origem ou naturalizados há mais de dez anos ou de empresas nacionais, nos termos do artigo 22.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
@@ -330,7 +417,7 @@ b) As operações de crédito a médio prazo, pela aplicação da parte disponí
 
 4. O fundo de reserva legal será formado por 10 por cento dos lucros líquidos anuais, enquanto não atingir montante igual ao do capital social.
 
-###### Art. 34.º - 1. O Instituto de Seguro de Créditos poderá garantir:
+Art. 34.º - 1. O Instituto de Seguro de Créditos poderá garantir:
 
 a) Os riscos políticos e extraordinários a que estejam sujeitos os créditos à exportação nacional, nos termos deste diploma;
 
@@ -370,49 +457,49 @@ f) Rescisão do contrato, por factos imputáveis ao devedor.
 
 5. O Instituto poderá restringir às suas garantias, excluindo total ou parcialmente determinadas categorias ou tipos de riscos.
 
-###### Art. 35.º As garantias de riscos políticos e extraordinários referidos no artigo 34.º só serão concedidas para créditos à exportação nacional, nos termos do presente diploma, e depois de obtido o acordo do Fundo de Fomento de Exportação quanto à garantia do Estado referida no artigo 51.º
+Art. 35.º As garantias de riscos políticos e extraordinários referidos no artigo 34.º só serão concedidas para créditos à exportação nacional, nos termos do presente diploma, e depois de obtido o acordo do Fundo de Fomento de Exportação quanto à garantia do Estado referida no artigo 51.º
 
-###### Art. 36.º As garantias concedidas pelo Instituto de Seguro de Créditos serão, em princípio, liberadas em nome dos exportadores, mas poderão ser também acordadas a terceiros, designadamente às instituições que hajam concedido créditos à exportação nacional ao abrigo do estabelecido no presente decreto-lei e em disposições regulamentares deste diploma.
+Art. 36.º As garantias concedidas pelo Instituto de Seguro de Créditos serão, em princípio, liberadas em nome dos exportadores, mas poderão ser também acordadas a terceiros, designadamente às instituições que hajam concedido créditos à exportação nacional ao abrigo do estabelecido no presente decreto-lei e em disposições regulamentares deste diploma.
 
-###### Art. 37.º - 1. As garantias serão referidas ao valor global dos bens ou serviços exportados, não podendo em caso algum ultrapassar 85 por cento desse valor quando se trate de riscos mencionados nas alíneas c), d) e e) do n.º 2 do artigo 34.º e 80 por cento nos outros casos.
+Art. 37.º - 1. As garantias serão referidas ao valor global dos bens ou serviços exportados, não podendo em caso algum ultrapassar 85 por cento desse valor quando se trate de riscos mencionados nas alíneas c), d) e e) do n.º 2 do artigo 34.º e 80 por cento nos outros casos.
 
 2. Quando as características e condições da exportação o justifiquem, poderão as garantias dos riscos indicados nas alíneas c) e e) do n.º 2 do artigo 34.º ser prestadas com redução de prémios para o exportador ou, a título excepcional, sem prémios, casos em que o Fundo de Fomento de Exportação compensará o Instituto por essa redução ou eliminação.
 
-###### Art. 38.º Os juros de mora por atrasos de amortização ou reembolso dos créditos, ainda que tenham sido previstos nos contratos de venda a prazo dos bens e serviços, não serão considerados no cálculo dos valores a garantir, mas poderão ser contados os encargos de frete, seguros e comissões devidos pelos importadores e, bem assim, os juros dos créditos.
+Art. 38.º Os juros de mora por atrasos de amortização ou reembolso dos créditos, ainda que tenham sido previstos nos contratos de venda a prazo dos bens e serviços, não serão considerados no cálculo dos valores a garantir, mas poderão ser contados os encargos de frete, seguros e comissões devidos pelos importadores e, bem assim, os juros dos créditos.
 
-###### Art. 39.º - 1. As garantias outorgadas às exportações, nos termos do artigo 34.º, poderão ser cedidas pelos exportadores às instituições de crédito que lhes hajam concedido financiamentos em conformidade com o disposto no presente decreto-lei, mas as obrigações que incumbem ao exportador em virtude das garantias obtidas não se extinguem com a cessão do crédito garantido.
+Art. 39.º - 1. As garantias outorgadas às exportações, nos termos do artigo 34.º, poderão ser cedidas pelos exportadores às instituições de crédito que lhes hajam concedido financiamentos em conformidade com o disposto no presente decreto-lei, mas as obrigações que incumbem ao exportador em virtude das garantias obtidas não se extinguem com a cessão do crédito garantido.
 
 2. Os exportadores ou as instituições de crédito que concederam créditos à exportação nacional, nos termos do presente diploma, são obrigados a fornecer ao Instituto de Seguro de Créditos todos os elementos de informação indispensáveis ao perfeito conhecimento da exportação e a autorizar os exames e verificações, inclusive de escrita, reputados necessários.
 
-###### Art. 40.º Com vista a evitar perdas, os exportadores ou as instituições que outorgaram créditos à exportação nacional deverão adoptar as providências aconselháveis pelas circunstâncias. Igualmente, são obrigados a comunicar imediatamente ao Instituto de Seguro de Créditos quaisquer factos de que tenham conhecimento e que, em seu entender, representem um aumento dos riscos particulares contra os quais os créditos foram segurados.
+Art. 40.º Com vista a evitar perdas, os exportadores ou as instituições que outorgaram créditos à exportação nacional deverão adoptar as providências aconselháveis pelas circunstâncias. Igualmente, são obrigados a comunicar imediatamente ao Instituto de Seguro de Créditos quaisquer factos de que tenham conhecimento e que, em seu entender, representem um aumento dos riscos particulares contra os quais os créditos foram segurados.
 
-###### Art. 41.º - 1. Os pedidos de garantia deverão ser apresentados ao Instituto de Seguro de Créditos até ao décimo dia seguinte ao do despacho alfandegário das mercadorias ou da prestação do serviço.
+Art. 41.º - 1. Os pedidos de garantia deverão ser apresentados ao Instituto de Seguro de Créditos até ao décimo dia seguinte ao do despacho alfandegário das mercadorias ou da prestação do serviço.
 
 2. Os exportadores ou as instituições de crédito que outorgaram créditos à exportação nacional deverão fornecer ao Instituto todos os elementos de informação adequados à perfeita apreciação do pedido de garantia e, bem assim, dar conhecimento de todas as circunstâncias que suponham relevantes para a concessão e execução das garantias.
 
-###### Art. 42.º Os exportadores ou as instituições de crédito que houverem concedido créditos à exportação nacional comunicarão ao Instituto de Seguro de Créditos as amortizações ou reembolsos dos créditos respectivos o mais tardar no dia útil seguinte ao do recebimento da amortização ou reembolso, quando os créditos hajam sido garantidos nos termos deste diploma.
+Art. 42.º Os exportadores ou as instituições de crédito que houverem concedido créditos à exportação nacional comunicarão ao Instituto de Seguro de Créditos as amortizações ou reembolsos dos créditos respectivos o mais tardar no dia útil seguinte ao do recebimento da amortização ou reembolso, quando os créditos hajam sido garantidos nos termos deste diploma.
 
-###### Art. 43.º - 1. Pela concessão das garantias do Instituto serão devidos prémios, estabelecidos caso por caso, mas de acordo com os limites e condições gerais que forem fixados pelo Instituto e homologados pelos Ministros das Finanças, da Economia e do Ultramar.
+Art. 43.º - 1. Pela concessão das garantias do Instituto serão devidos prémios, estabelecidos caso por caso, mas de acordo com os limites e condições gerais que forem fixados pelo Instituto e homologados pelos Ministros das Finanças, da Economia e do Ultramar.
 
 2. A duração da garantia corresponderá ao período que decorrer desde a data da sua comunicação ao interessado pelo Instituto de Seguro de Créditos até à data da última amortização ou do reembolso do crédito garantido.
 
-###### Art. 44.º As garantias poderão ser solicitadas e concedidas por prazos inferiores aos dos créditos a garantir e, a todo o tempo, os exportadores ou as instituições de crédito que outorguem créditos à exportação nacional poderão renunciar às garantias do Instituto, nas condições estabelecidas pelos correspondentes contratos.
+Art. 44.º As garantias poderão ser solicitadas e concedidas por prazos inferiores aos dos créditos a garantir e, a todo o tempo, os exportadores ou as instituições de crédito que outorguem créditos à exportação nacional poderão renunciar às garantias do Instituto, nas condições estabelecidas pelos correspondentes contratos.
 
-###### Art. 45.º Em caso algum as garantias de operações de crédito externo relacionadas com a exportação de bens e serviços serão outorgadas para cobrir apenas as amortizações desses créditos vencíveis a partir de certa data de vigência dos mesmos créditos.
+Art. 45.º Em caso algum as garantias de operações de crédito externo relacionadas com a exportação de bens e serviços serão outorgadas para cobrir apenas as amortizações desses créditos vencíveis a partir de certa data de vigência dos mesmos créditos.
 
-###### Art. 46.º - 1. A garantia torna-se executória depois que os exportadores ou a instituição de crédito que outorgou créditos à exportação nacional demonstrem a efectiva concretização do risco coberto pelo seguro e que, não obstante todos os esforços, não puderam obter a liquidação da amortização ou reembolso do crédito pelos importadores ou seus garantes.
+Art. 46.º - 1. A garantia torna-se executória depois que os exportadores ou a instituição de crédito que outorgou créditos à exportação nacional demonstrem a efectiva concretização do risco coberto pelo seguro e que, não obstante todos os esforços, não puderam obter a liquidação da amortização ou reembolso do crédito pelos importadores ou seus garantes.
 
 2. Nas apólices estabelecer-se-á o prazo dentro do qual deve ser deduzido o pedido de indemnização.
 
-###### Art. 47.º O pagamento das indemnizações devidas pelo Instituto será efectuado no prazo de três meses, a contar da data da sua exigibilidade.
+Art. 47.º O pagamento das indemnizações devidas pelo Instituto será efectuado no prazo de três meses, a contar da data da sua exigibilidade.
 
-###### Art. 48.º Em cobertura do prejuízo verificado ou do pagamento não efectivado, o Instituto liquidará a indemnização que lhe compete por força da garantia concedida, mas a importância da indemnização não poderá ultrapassar para o exportador, em qualquer caso, a diferença entre o valor seguro dos bens e serviços exportados e o montante dos pagamentos eventualmente realizados pelos importadores ou seus garantes.
+Art. 48.º Em cobertura do prejuízo verificado ou do pagamento não efectivado, o Instituto liquidará a indemnização que lhe compete por força da garantia concedida, mas a importância da indemnização não poderá ultrapassar para o exportador, em qualquer caso, a diferença entre o valor seguro dos bens e serviços exportados e o montante dos pagamentos eventualmente realizados pelos importadores ou seus garantes.
 
-###### Art. 49.º Quando o prejuízo resultar do facto de o exportador não poder executar, total ou parcialmente, a encomenda por virtude dos factos mencionados nas alíneas f) e g) do n.º 2 do artigo 34.º, serão consideradas como valor da encomenda, para efeitos do previsto no precedente artigo, apenas as despesas efectivamente realizadas até ao momento em que o exportador teve, ou deveria ter tido, conhecimento das circunstâncias que dificultaram ou impossibilitaram a execução da encomenda.
+Art. 49.º Quando o prejuízo resultar do facto de o exportador não poder executar, total ou parcialmente, a encomenda por virtude dos factos mencionados nas alíneas f) e g) do n.º 2 do artigo 34.º, serão consideradas como valor da encomenda, para efeitos do previsto no precedente artigo, apenas as despesas efectivamente realizadas até ao momento em que o exportador teve, ou deveria ter tido, conhecimento das circunstâncias que dificultaram ou impossibilitaram a execução da encomenda.
 
-###### Art. 50.º Uma vez efectuada, nos termos do ortiga 48.º, a liquidação das indemnizações devidas por efeito das garantias efectuadas, os créditos e direitos acessórios, ou, quando for caso disso, a propriedade das mercadorias de exportação que não puderem ser entregues, serão transferidos para nome do Instituto, proporcionalmente aos montantes das indemnizações liquidadas.
+Art. 50.º Uma vez efectuada, nos termos do ortiga 48.º, a liquidação das indemnizações devidas por efeito das garantias efectuadas, os créditos e direitos acessórios, ou, quando for caso disso, a propriedade das mercadorias de exportação que não puderem ser entregues, serão transferidos para nome do Instituto, proporcionalmente aos montantes das indemnizações liquidadas.
 
-###### Art. 51.º - 1. O Estado, por intermédio do Fundo de Fomento de Exportação, poderá garantir o Instituto de Seguro de Créditos, relativamente às operações de seguro que este efectue, dos riscos políticos e extraordinários, com exclusão de outros.
+Art. 51.º - 1. O Estado, por intermédio do Fundo de Fomento de Exportação, poderá garantir o Instituto de Seguro de Créditos, relativamente às operações de seguro que este efectue, dos riscos políticos e extraordinários, com exclusão de outros.
 
 2. As garantias do Estado ao Instituto a que alude o número anterior serão concedidas caso a caso, depois de aprovadas nos termos estabelecidos pelo presente diploma.
 
@@ -420,13 +507,13 @@ f) Rescisão do contrato, por factos imputáveis ao devedor.
 
 ### CAPÍTULO IV — Do Fundo de Fomento de Exportação
 
-###### Art. 52.º Para efeitos da concessão, por conta do Estado e nos termos estabelecidos no presente diploma e disposições complementares, dos avales referidos no artigo 13.º e das garantias a que alude o artigo 51.º, é criada no Fundo de Fomento de Exportação uma comissão especializada com a denominação de «Comissão de Créditos e Seguro de Créditos à Exportação Nacional».
+Art. 52.º Para efeitos da concessão, por conta do Estado e nos termos estabelecidos no presente diploma e disposições complementares, dos avales referidos no artigo 13.º e das garantias a que alude o artigo 51.º, é criada no Fundo de Fomento de Exportação uma comissão especializada com a denominação de «Comissão de Créditos e Seguro de Créditos à Exportação Nacional».
 
-###### Art. 53.º - 1. É criado igualmente um departamento especializado no quadro do Fundo de Fomento de Exportação, sob a designação de «Departamento de Créditos e Seguro de Créditos à Exportação Nacional», a que competirá assegurar o expediente da referida Comissão e servir-lhe de órgão de estudos, consulta e execução, bem como manter registos apropriados, quer das operações de garantias e avales concedidos e dos prémios recebidos, quer das indemnizações pagas e dos reembolsos obtidos, quer ainda dos encargos suportados pelo Fundo nos termos do n.º 2 do artigo 37.º
+Art. 53.º - 1. É criado igualmente um departamento especializado no quadro do Fundo de Fomento de Exportação, sob a designação de «Departamento de Créditos e Seguro de Créditos à Exportação Nacional», a que competirá assegurar o expediente da referida Comissão e servir-lhe de órgão de estudos, consulta e execução, bem como manter registos apropriados, quer das operações de garantias e avales concedidos e dos prémios recebidos, quer das indemnizações pagas e dos reembolsos obtidos, quer ainda dos encargos suportados pelo Fundo nos termos do n.º 2 do artigo 37.º
 
 2. As despesas de funcionamento do Departamento de Créditos e Seguro de Créditos à Exportação Nacional e as remunerações devidas aos membros da Comissão a que se refere o ortiga 52.º serão suportadas pelo orçamento do Fundo de Fomento de Exportação.
 
-###### Art. 54.º - 1. As importâncias das comissões por avales prestados e dos prémios das garantias outorgadas ao Instituto de Seguro de Créditos serão entregues no Banco de Portugal, como receita do Estado, mediante guia passada pela Comissão, e serão escrituradas em rubrica própria, consignadas ao pagamento de eventuais indemnizações devidas e ao de encargos advenientes por força do previsto no n.º 2 do artigo 37.º
+Art. 54.º - 1. As importâncias das comissões por avales prestados e dos prémios das garantias outorgadas ao Instituto de Seguro de Créditos serão entregues no Banco de Portugal, como receita do Estado, mediante guia passada pela Comissão, e serão escrituradas em rubrica própria, consignadas ao pagamento de eventuais indemnizações devidas e ao de encargos advenientes por força do previsto no n.º 2 do artigo 37.º
 
 2. Um dos exemplares da guia de receita, devidamente averbado de pagamento, será remetido à 11.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
@@ -434,13 +521,13 @@ f) Rescisão do contrato, por factos imputáveis ao devedor.
 
 4. A Direcção-Geral da Contabilidade Pública providenciará para que o excedente num ano económico das importâncias dos prémios e comissões a que se refere o presente artigo e que não haja sido utilizado nos pagamentos de indemnizações e encargos a que alude o n.º 1 seja escriturado como receita no ano seguinte.
 
-###### Art. 55.º - 1. Para a liquidação de indemnizações devidas por garantias e avales prestados, a Comissão de Créditos e Seguro de Créditos requisitará à 11.ª Repartição da Direcção-Geral da Contabilidade Pública, mediante visto dos Ministros das Finanças e da Economia, independentemente de quaisquer formalidades, as verbas necessárias, por conta dos saldos constituídos nos termos do artigo anterior.
+Art. 55.º - 1. Para a liquidação de indemnizações devidas por garantias e avales prestados, a Comissão de Créditos e Seguro de Créditos requisitará à 11.ª Repartição da Direcção-Geral da Contabilidade Pública, mediante visto dos Ministros das Finanças e da Economia, independentemente de quaisquer formalidades, as verbas necessárias, por conta dos saldos constituídos nos termos do artigo anterior.
 
 2. Sempre que se torne indispensável, o Ministro das Finanças abrirá créditos em conta da Comissão de Créditos e Seguro de Créditos à Exportação Nacional, por força dos quais se liquidarão aquelas indemnizações devidas e que serão reembolsados ao Tesouro na medida em que forem sendo liquidados os créditos, direitos acessórios e outros valores transferidos nos termos do artigo 61.º ou se constituam saldos disponíveis em conformidade com o previsto no artigo 54.º
 
 3. O pagamento das indemnizações devidas pelo Estado, nos termos do presente diploma, deverá ser efectuado, no prazo referido no artigo 47.º, a contar da data da sua exigibilidade.
 
-###### Art. 56.º - 1. A Comissão de Créditos e Seguro de Créditos à Exportação Nacional será composta dos seguintes membros:
+Art. 56.º - 1. A Comissão de Créditos e Seguro de Créditos à Exportação Nacional será composta dos seguintes membros:
 
 a) O presidente do Fundo de Fomento de Exportação, que presidirá à Comissão;
 
@@ -462,7 +549,7 @@ e) Um representante das empresas seguradoras, a designar pelo respectivo Grémio
 
 6. O Fundo de Fomento de Exportação prestará à Comissão a colaboração que lhe for solicitada e estiver conforme com as suas possibilidades orgânicas e funcionais.
 
-###### Art. 57.º - 1. Compete à Comissão de Créditos e Seguro de Créditos à Exportação Nacional, nomeadamente:
+Art. 57.º - 1. Compete à Comissão de Créditos e Seguro de Créditos à Exportação Nacional, nomeadamente:
 
 a) Apreciar os pedidos de avales e de garantias, nos termos dos artigos 13.º e 51.º, que lhes sejam submetidos e decidir sobre a concessão, em nome e por conta do Estado, desses avales e garantias e respectivas condições, praticando os actos e celebrando os contratos necessários, bem como decidir sobre os encargos advenientes por virtude do previsto no n.º 2 do artigo 37.º;
 
@@ -476,7 +563,7 @@ c) Dar parecer sobre os assuntos da sua competência em que for consultada pelo 
 
 4. Para efeitos da elaboração do relatório anual a que alude a alínea b) do n.º 1 do presente artigo, a Direcção-Geral da Contabilidade Pública prestará à Comissão os elementos de informação que se julguem necessários.
 
-###### Art. 58.º Em conformidade com o n.º 1 do artigo 57.º e para execução dos princípios estabelecidos no presente diploma sobre os créditos e seguro de créditos à exportação nacional, a Comissão deverá, designadamente:
+Art. 58.º Em conformidade com o n.º 1 do artigo 57.º e para execução dos princípios estabelecidos no presente diploma sobre os créditos e seguro de créditos à exportação nacional, a Comissão deverá, designadamente:
 
 a) Estabelecer os elementos que deverão conter os pedidos para a concessão dos avales e das garantias ao Instituto de Seguro de Créditos e, bem assim, os tipos de apólices e dos diferentes impressos necessários;
 
@@ -488,29 +575,29 @@ d) Verificar se os termos de cada aval ou garantia estão perfeitamente conforme
 
 e) Certificar-se da verificação efectiva dos factos alegados para o pagamento das indemnizações.
 
-###### Art. 59.º - 1. As decisões da Comissão de Créditos e Seguro de Créditos à Exportação Nacional serão comunicadas, por cópia, aos Ministros das Finanças e da Economia até ao dia útil seguinte ao da sua aprovação, tornando-se executórias, se não houver qualquer comunicação dos Ministros em contrário, dentro do prazo de cinco dias a contar da data de recepção das ditas decisões.
+Art. 59.º - 1. As decisões da Comissão de Créditos e Seguro de Créditos à Exportação Nacional serão comunicadas, por cópia, aos Ministros das Finanças e da Economia até ao dia útil seguinte ao da sua aprovação, tornando-se executórias, se não houver qualquer comunicação dos Ministros em contrário, dentro do prazo de cinco dias a contar da data de recepção das ditas decisões.
 
 2. As decisões respeitantes a matéria relativa a qualquer província ultramarina serão igualmente comunicadas ao Ministro do Ultramar.
 
-###### Art. 60.º - 1. À cobrança coerciva de todas as dívidas que tenham por credor o Fundo de Fomento de Exportação e resultem de garantias e avales prestados nos termos do presente diploma serão aplicáveis os diplomas que regulam a mesma matéria para a Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 60.º - 1. À cobrança coerciva de todas as dívidas que tenham por credor o Fundo de Fomento de Exportação e resultem de garantias e avales prestados nos termos do presente diploma serão aplicáveis os diplomas que regulam a mesma matéria para a Caixa Geral de Depósitos, Crédito e Previdência.
 
 2. O Fundo será representado em juízo pelos agentes do Ministério Público e gozará de isenção de selos e custas nos mesmos termos que a Fazenda Nacional.
 
 3. Nos casos de arrematação ou negociação particular, a inobservância do disposto nos §§ 1.º e 2.º do artigo 4.º do [Decreto-Lei n.º 33276](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33276-1943-405972), de 24 de Novembro de 1943, será fundamento bastante de anulação da praça.
 
-###### Art. 61.º Uma vez efectuada a liquidação de indemnizações devidas pelo Fundo de Fomento de Exportação por efeito de garantias e avales prestados, os créditos e direitos acessórios, ou, quando for caso disso, a propriedade das mercadorias que não puderam ser entregues, serão transferidos para nome da Comissão de Créditos e Seguro de Créditos à Exportação Nacional, proporcionalmente aos montantes das indemnizações liquidadas.
+Art. 61.º Uma vez efectuada a liquidação de indemnizações devidas pelo Fundo de Fomento de Exportação por efeito de garantias e avales prestados, os créditos e direitos acessórios, ou, quando for caso disso, a propriedade das mercadorias que não puderam ser entregues, serão transferidos para nome da Comissão de Créditos e Seguro de Créditos à Exportação Nacional, proporcionalmente aos montantes das indemnizações liquidadas.
 
 ### CAPÍTULO V — Do crédito às Transacções interterritoriais
 
-###### Art. 62.º As disposições do presente diploma serão também aplicáveis aos créditos de pré-financiamento e de financiamento das transacções de bens e serviços que se efectuem entre as diversas parcelas do território nacional.
+Art. 62.º As disposições do presente diploma serão também aplicáveis aos créditos de pré-financiamento e de financiamento das transacções de bens e serviços que se efectuem entre as diversas parcelas do território nacional.
 
 ### CAPÍTULO VI — Disposições especiais
 
-###### Art. 63.º As instituições de crédito que pretendam realizar operações de crédito à exportação, nos termos do presente decreto-lei, harmonizarão as suas condições de funcionamento com o que nele se estabelece, introduzindo nos seus estatutos as modificações que para o efeito se tornem necessárias.
+Art. 63.º As instituições de crédito que pretendam realizar operações de crédito à exportação, nos termos do presente decreto-lei, harmonizarão as suas condições de funcionamento com o que nele se estabelece, introduzindo nos seus estatutos as modificações que para o efeito se tornem necessárias.
 
-###### Art. 64.º As transgressões ao disposto neste decreto-lei e seus diplomas regulamentares serão puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), e do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), no território do continente e ilhas adjacentes, e do artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), nas províncias ultramarinas.
+Art. 64.º As transgressões ao disposto neste decreto-lei e seus diplomas regulamentares serão puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), e do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), no território do continente e ilhas adjacentes, e do artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), nas províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

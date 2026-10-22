@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44356-1962-164445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f717a0ca274a3c85b923e2bbe222f4ec2c0c6edf5f598026d875d6bb5e2a0b72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36ce72148948a78d5223234b91b53949e4dda6c6e9d865c5b6877e99c9e3af4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente
+- Estabelecimento de Ensino
+- Forças Armadas
+- Incapacidade Física
+- Militar
+- Óbito
+- Pagamento
+- Proteção Social
 relationships:
 - type: amended_by
   target: pt:dre:537192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537192:por
+  label: "Tornadas aplicáveis aos indivíduos mutilados, estropiados ou por qualquer forma incapacitados ao serviço da Pátria\
+    \ as disposições do presente diploma, pelo DEC LEI.45970.17.10.1964.PC, DG.IS [244] de 17.10.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45970-1964-537192
+  date: '1964-10-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:51Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +104,13 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É gratuita a admissão e instrução em todos os estabelecimentos de ensino do Estado dos filhos dos indivíduos falecidos, mutilados, estropiados ou por qualquer forma incapacitados ao serviço da Pátria.
+Artigo 1.º É gratuita a admissão e instrução em todos os estabelecimentos de ensino do Estado dos filhos dos indivíduos falecidos, mutilados, estropiados ou por qualquer forma incapacitados ao serviço da Pátria.
 
-###### Art. 2.º O internamento em estabelecimentos de ensino do Estado poderá ser gratuito ou beneficiar de redução, quando as condições materiais dos estudantes abrangidos pelo presente diploma o justifiquem. Esta concessão será regulada por despacho dos titulares dos departamentos de que dependem os diversos estabelecimentos.
+Art. 2.º O internamento em estabelecimentos de ensino do Estado poderá ser gratuito ou beneficiar de redução, quando as condições materiais dos estudantes abrangidos pelo presente diploma o justifiquem. Esta concessão será regulada por despacho dos titulares dos departamentos de que dependem os diversos estabelecimentos.
 
-###### Art. 3.º Para a admissão ou internamento constantes dos artigos anteriores é concedida prioridade absoluta.
+Art. 3.º Para a admissão ou internamento constantes dos artigos anteriores é concedida prioridade absoluta.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

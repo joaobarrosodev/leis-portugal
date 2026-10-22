@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1978, 5º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 2798-(70) a 2798-(71)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29905/00700071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1978-274050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5ac6c6bd56e96a069b9088a286e6d749dde49f54a9403f9f76c9423d310dba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aae944fd879e46999d76c6046433bcbcd140e9724c6a12dce7a00cc62fc2f53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo IV
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:17Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +100,7 @@ Torna-se necessário definir a orgânica do Governo, já que alterações houve 
 
 Assim, e sendo da exclusiva competência do Governo a matéria respeitante à sua organização e funcionamento, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Governo é constituído pelo Primeiro-Ministro, por um Vice-Primeiro-Ministro, pelos Ministros e pelos Secretários e Subsecretários de Estado.
+Artigo 1.º - 1 - O Governo é constituído pelo Primeiro-Ministro, por um Vice-Primeiro-Ministro, pelos Ministros e pelos Secretários e Subsecretários de Estado.
 
 2 - O Governo compreende os seguintes Ministros:
 
@@ -126,21 +134,21 @@ o) Da Habitação e Obras Públicas;
 
 p) Da Comunicação Social.
 
-###### Art. 2.º - 1 - O Ministro da República para os Açores e o Ministro da República para a Madeira terão assento em Conselho de Ministros sempre que as reuniões tratem de assuntos de interesse para as respectivas regiões.
+Art. 2.º - 1 - O Ministro da República para os Açores e o Ministro da República para a Madeira terão assento em Conselho de Ministros sempre que as reuniões tratem de assuntos de interesse para as respectivas regiões.
 
 2 - Participam ainda nas reuniões do Conselho de Ministros, sem direito a voto, os Secretários de Estado da Presidência do Conselho de Ministros e da Administração Pública.
 
-###### Art. 3.º - 1 - Compete ao Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia coadjuvar o Primeiro-Ministro na coordenação e orientação dos Ministérios económicos, bem como no âmbito dos assuntos relacionados com a integração europeia.
+Art. 3.º - 1 - Compete ao Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia coadjuvar o Primeiro-Ministro na coordenação e orientação dos Ministérios económicos, bem como no âmbito dos assuntos relacionados com a integração europeia.
 
 2 - O Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia é coadjuvado por um Secretário de Estado Adjunto para os Assuntos Económicos e Integração Europeia.
 
-###### Art. 4.º Compete ao Ministro Adjunto do Primeiro-Ministro coadjuvar este no âmbito das relações do Governo com a Assembleia da República, desempenhando ainda funções de natureza específica que pelo Primeiro-Ministro lhe sejam cometidas.
+Art. 4.º Compete ao Ministro Adjunto do Primeiro-Ministro coadjuvar este no âmbito das relações do Governo com a Assembleia da República, desempenhando ainda funções de natureza específica que pelo Primeiro-Ministro lhe sejam cometidas.
 
-###### Art. 5.º - 1 - A Presidência do Conselho de Ministros é ainda integrada pelo Secretário de Estado da Presidência do Conselho de Ministros e pelas Secretarias de Estado da Administração Pública e da Cultura, na dependência directa do Primeiro-Ministro.
+Art. 5.º - 1 - A Presidência do Conselho de Ministros é ainda integrada pelo Secretário de Estado da Presidência do Conselho de Ministros e pelas Secretarias de Estado da Administração Pública e da Cultura, na dependência directa do Primeiro-Ministro.
 
 2 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros coadjuvar o Primeiro-Ministro na organização e funcionamento das reuniões do Conselho de Ministros, desempenhando ainda funções de natureza específica que pelo Primeiro-Ministro lhe sejam cometidas.
 
-###### Art. 6.º - 1 - O Ministério das Finanças e do Plano compreende as seguintes Secretarias de Estado:
+Art. 6.º - 1 - O Ministério das Finanças e do Plano compreende as seguintes Secretarias de Estado:
 
 a) Orçamento;
 
@@ -152,11 +160,11 @@ d) Planeamento.
 
 2 - O Secretário de Estado do Orçamento é coadjuvado, no exercício das suas funções, por um Subsecretário de Estado do Orçamento.
 
-###### Art. 7.º O Ministério da Administração Interna compreende a Secretaria de Estado da Administração Regional e Local.
+Art. 7.º O Ministério da Administração Interna compreende a Secretaria de Estado da Administração Regional e Local.
 
-###### Art. 8.º O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado dos Negócios Estrangeiros e da Emigração.
+Art. 8.º O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado dos Negócios Estrangeiros e da Emigração.
 
-###### Art. 9.º - 1 - O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
+Art. 9.º - 1 - O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
 
 a) Estruturação Agrária;
 
@@ -168,13 +176,13 @@ d) Pescas.
 
 2 - O Ministro da Agricultura e Pescas é coadjuvado, no exercício das suas funções, por um Subsecretário de Estado Adjunto do Ministro.
 
-###### Art. 10.º O Ministério da Indústria e Tecnologia compreende as seguintes Secretarias de Estado:
+Art. 10.º O Ministério da Indústria e Tecnologia compreende as seguintes Secretarias de Estado:
 
 a) Energia e Indústrias de Base;
 
 b) Indústrias Extractivas e Transformadoras.
 
-###### Art. 11.º O Ministério do Comércio e Turismo compreende as seguintes Secretarias de Estado:
+Art. 11.º O Ministério do Comércio e Turismo compreende as seguintes Secretarias de Estado:
 
 a) Comércio Interno;
 
@@ -182,13 +190,13 @@ b) Comércio Externo;
 
 c) Turismo.
 
-###### Art. 12.º O Ministério do Trabalho compreende as seguintes Secretarias de Estado:
+Art. 12.º O Ministério do Trabalho compreende as seguintes Secretarias de Estado:
 
 a) Trabalho;
 
 b) População e Emprego.
 
-###### Art. 13.º - 1 - O Ministério da Educação e Investigação Científica compreende as seguintes Secretarias de Estado:
+Art. 13.º - 1 - O Ministério da Educação e Investigação Científica compreende as seguintes Secretarias de Estado:
 
 a) Ensino Superior e Investigação Científica;
 
@@ -200,19 +208,19 @@ c) Juventude e Desportos.
 
 3 - O Secretário de Estado dos Ensinos Básico e Secundário é coadjuvado, no exercício das suas funções, pelo Subsecretário de Estado para a Administração Escolar.
 
-###### Art. 14.º O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
+Art. 14.º O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
 
 a) Saúde;
 
 b) Segurança Social.
 
-###### Art. 15.º O Ministério dos Transportes e Comunicações compreende as seguintes Secretarias de Estado:
+Art. 15.º O Ministério dos Transportes e Comunicações compreende as seguintes Secretarias de Estado:
 
 a) Transportes e Comunicações;
 
 b) Marinha Mercante.
 
-###### Art. 16.º O Ministério da Habitação e Obras Públicas compreende as seguintes Secretarias de Estado:
+Art. 16.º O Ministério da Habitação e Obras Públicas compreende as seguintes Secretarias de Estado:
 
 a) Habitação;
 
@@ -220,13 +228,13 @@ b) Obras Públicas;
 
 c) Ordenamento Físico, Recursos Hídricos e Ambiente.
 
-###### Art. 17.º - 1 - É extinto o Ministério da Educação e Cultura.
+Art. 17.º - 1 - É extinto o Ministério da Educação e Cultura.
 
 2 - Os organismos e serviços do Ministério da Educação e Cultura, salvo os compreendidos na Secretaria de Estado da Cultura, ficam integrados no Ministério da Educação e Investigação Científica.
 
 3 - Os organismos e serviços da antiga Secretaria de Estado da Cultura ficam na dependência directa do Primeiro-Ministro, integrados na Secretaria de Estado da Cultura.
 
-###### Art. 18.º - 1 - São extintas as seguintes Secretarias de Estado:
+Art. 18.º - 1 - São extintas as seguintes Secretarias de Estado:
 
 a) Fomento Agrário e das Florestas;
 
@@ -242,26 +250,26 @@ b) Transportes e Comunicações;
 
 c) Comunicação Social.
 
-###### Art. 19.º O pessoal dos departamentos extintos transita, independentemente de qualquer formalidade e sem prejuízo dos direitos adquiridos, para os que, nos termos deste diploma, passam a deter as correspondentes atribuições.
+Art. 19.º O pessoal dos departamentos extintos transita, independentemente de qualquer formalidade e sem prejuízo dos direitos adquiridos, para os que, nos termos deste diploma, passam a deter as correspondentes atribuições.
 
-###### Art. 20.º - 1 - Até final do corrente ano mantém-se em vigor a estrutura orgânica do Orçamento Geral do Estado.
+Art. 20.º - 1 - Até final do corrente ano mantém-se em vigor a estrutura orgânica do Orçamento Geral do Estado.
 
 2 - As despesas com os gabinetes criados ou reestruturados pelo presente diploma serão satisfeitas por conta das verbas dos correspondentes gabinetes extintos.
 
 3 - Relativamente aos serviços ou organismos que transitam para diferente departamento ou Ministério, continuarão os respectivos encargos a ser processados em conta das verbas que lhes são atribuídas.
 
-###### Art. 21.º - 1 - Os encargos com o funcionamento dos Gabinetes do Vice-Primeiro-Ministro e do Secretário de Estado Adjunto para os Assuntos Económicos e Integração Europeia, bem como as despesas resultantes da criação dos lugares de Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas e Subsecretário de Estado para a Administração Escolar, serão satisfeitos em conta de dotação residual a inscrever nos respectivos orçamentos.
+Art. 21.º - 1 - Os encargos com o funcionamento dos Gabinetes do Vice-Primeiro-Ministro e do Secretário de Estado Adjunto para os Assuntos Económicos e Integração Europeia, bem como as despesas resultantes da criação dos lugares de Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas e Subsecretário de Estado para a Administração Escolar, serão satisfeitos em conta de dotação residual a inscrever nos respectivos orçamentos.
 
 2 - Serão suportados pelo orçamento de Encargos Gerais da Nação as despesas inerentes ao Gabinete do Ministro da Comunicação Social.
 
 3 - A contrapartida para os reforços necessários por virtude do disposto nos números anteriores poderá ser obtida através da dotação provisional inscrita no actual orçamento do Ministério das Finanças e do Plano.
 
-###### Art. 22.º O presente decreto-lei produz efeitos a partir de 22 de Novembro de 1978.
+Art. 22.º O presente decreto-lei produz efeitos a partir de 22 de Novembro de 1978.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 30 de Dezembro de 1978.**
+Promulgado em 30 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

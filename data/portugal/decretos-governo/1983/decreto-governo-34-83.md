@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/34-1983-450797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9df631ab4711e6180dd99b3acdb4af04ecda1c3523e9a1f08b6df55f644a7fe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bc77d4381a14a3d5913239b81e31277caf0e8b7309640bdcb2680cf6aa0e3d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certidão
+- Convenção
+- Portugal
+- Registo Civil
+- Registos e Notariado
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:44Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +103,15 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - Vasco Luís Caldeira Coelho Futscher Pereira.
 
-**Assinado em 25 de Março de 1983.**
+Assinado em 25 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Março de 1983.**
+Referendado em 29 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 CONVENTION RELATIVE À LA DÉLIVRANCE D'EXTRAITS PLURILINGUES D'ACTES DE L'ÉTAT CIVIL
 
@@ -238,7 +243,7 @@ En foi de quoi les représentants soussignés, dûment autorisés à cet effet, 
 
 Fait à Vienne, le 3 septembre 1976, en un seul exemplaire qui sera déposé dans les archives du Conseil Fédéral Suisse et dont une copie certifiée conforme sera remise par la voie diplomatique à chacun des États contractants et au Secrétaire Général de la Commission International de l'État Civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf)
 
 Pour la République fédérale d'Allemagne:
 
@@ -292,7 +297,7 @@ A. Taluy.
 
 Pour la Yougoslavie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf)
 
 Copie certifiée conforme à l'original déposé dans les archives de la Confédération suisse.
 
@@ -490,4 +495,4 @@ A. Taluy.
 
 Pela Jugoslávia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10900/16851696.pdf)

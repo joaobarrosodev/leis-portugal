@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/07/16200/08460846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43792-1961-172703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9b3f9d04f64d7c1848e7870b5946de302c8dab739cfd350a346da05559b71ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7426aee8c6bb8bf368200a0c845e16ea426fccc23afc331966ded91250cb14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Gabinete de Estudos
+- Gestão de Recursos Humanos
+- Ministério da Saúde e Assistência
+- Requisição de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:632738:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632738:por
+  label: "Revogado, a partir de 01.10.1971, pelo DEC LEI.413/71.27.09.1971.MSA, DG.IS [228] de 27.09.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1971-632738
+  date: '1971-09-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:39Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +103,14 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os funcionários requisitados para o Gabinete de Estudos do Ministério da Saúde e Assistência exercem as suas funções com a categoria do cargo que estejam a desempenhar na altura da requisição, ainda que nele estejam providos interinamente ou em comissão de serviço. A este cargo poderão regressar, nas mesmas condições, logo que sejam dispensados os seus serviços no Gabinete de Estudos.
+Artigo 1.º Os funcionários requisitados para o Gabinete de Estudos do Ministério da Saúde e Assistência exercem as suas funções com a categoria do cargo que estejam a desempenhar na altura da requisição, ainda que nele estejam providos interinamente ou em comissão de serviço. A este cargo poderão regressar, nas mesmas condições, logo que sejam dispensados os seus serviços no Gabinete de Estudos.
 
 § único. Os funcionários requisitados nos termos deste artigo não abrem vaga, mas os cargos em que estão providos poderão ser preenchidos provisòriamente.
 
-###### Art. 2.º Nos seus impedimentos, ou quando requisitados ao abrigo do artigo 1.º, os titulares dos cargos de direcção dos institutos coordenadores e dos estabelecimentos oficiais de saúde e assistência poderão ser substituídos por funcionários dos quadros do Ministério, designados pelo Ministro, em comissão de serviço ou no regime previsto no do artigo 171.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945.
+Art. 2.º Nos seus impedimentos, ou quando requisitados ao abrigo do artigo 1.º, os titulares dos cargos de direcção dos institutos coordenadores e dos estabelecimentos oficiais de saúde e assistência poderão ser substituídos por funcionários dos quadros do Ministério, designados pelo Ministro, em comissão de serviço ou no regime previsto no do artigo 171.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945.
 
-###### Art. 3.º Ficam revogadas as disposições em contrário constantes dos artigos 129.º e 134.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945.
+Art. 3.º Ficam revogadas as disposições em contrário constantes dos artigos 129.º e 134.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

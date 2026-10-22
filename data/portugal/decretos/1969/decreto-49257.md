@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49257-1969-214491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de002143f4e47cf0173e4a48bf32b1b54c91d0c2ec940d02129b5f12aa3f6db1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29569ae6627ee18e88e69463c90abbdae60a79d12a365e950d1d9ef315cc4398
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:550196:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:20Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Ouvido o Conselho Ultramarino, nos termos do § 1.º do n.º 3.º do artigo 150.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Ministro do Ultramar poderá, sob proposta dos governos das províncias ultramarinas, por simples portaria, acrescentar novas substâncias minerais, que pertençam ao domínio do Estado, às referidas no artigo 2.º do Decreto de 20 de Setembro de 1906 e no artigo único do [Decreto n.º 33722](https://diariodarepublica.pt/dr/detalhe/decreto/33722-1944-550196), de 19 de Junho de 1944, as quais ficarão sujeitas à legislação mineira que vigore ou venha a vigorar.
+Artigo 1.º O Ministro do Ultramar poderá, sob proposta dos governos das províncias ultramarinas, por simples portaria, acrescentar novas substâncias minerais, que pertençam ao domínio do Estado, às referidas no artigo 2.º do Decreto de 20 de Setembro de 1906 e no artigo único do [Decreto n.º 33722](https://diariodarepublica.pt/dr/detalhe/decreto/33722-1944-550196), de 19 de Junho de 1944, as quais ficarão sujeitas à legislação mineira que vigore ou venha a vigorar.
 
 § único. Desde já são acrescentadas as seguintes substâncias, para efeitos do corpo deste artigo:
 
@@ -110,7 +114,7 @@ Perlito;
 
 Guano.
 
-###### Art. 2.º Os actuais exploradores de pedreiras das substâncias mencionadas no § único do artigo anterior, em lavra activa, terão o prazo de três meses, contados a partir da data da publicação deste decreto nos Boletins Oficiais das províncias ultramarinas, para se integrarem no novo regime referido no artigo 1.º deste diploma, podendo manifestar tantos claims quantos necessários para cobrir a área cujos direitos detenham naquela área.
+Art. 2.º Os actuais exploradores de pedreiras das substâncias mencionadas no § único do artigo anterior, em lavra activa, terão o prazo de três meses, contados a partir da data da publicação deste decreto nos Boletins Oficiais das províncias ultramarinas, para se integrarem no novo regime referido no artigo 1.º deste diploma, podendo manifestar tantos claims quantos necessários para cobrir a área cujos direitos detenham naquela área.
 
 § 1.º A área de cada claim será a definida no n.º 4.º do artigo 6.º do Decreto de 20 de Setembro de 1906.
 
@@ -118,25 +122,25 @@ Guano.
 
 § 3.º Os pedidos de licenças de pesquisa ou manifestos de substâncias mineiras referidas no § único do artigo 1.º, que venham a ser apresentados por entidades não autorizadas a lavrar pedreiras à data da publicação deste decreto no Boletim Oficial da respectiva província ou que, embora estejam autorizadas, apresentem pedidos relativos a áreas que não possam ser consideradas dentro da zona de natural alargamento das suas actuais explorações, só poderão ser considerados depois de decorridos três meses, a contar da referida publicação.
 
-###### Art. 3.º As substâncias calcárias que se destinem à utilização da indústria transformadora poderão em qualquer altura ser integradas no regime mencionado no artigo 1.º deste diploma, se os actuais exploradores das respectivas pedreiras o desejarem. Em tal eventualidade, para além da tributação mineira geral, será fixada em cada caso, pelo Ministro do Ultramar, ouvido o Governo da respectiva província, uma contribuição anual para o Fundo de Fomento Mineiro Ultramarino, tendo-se em atenção a natureza das explorações, das indústrias transformadoras por elas abastecidas e em que eventualmente se integrem e demais circunstâncias que devam ser tomadas em conta.
+Art. 3.º As substâncias calcárias que se destinem à utilização da indústria transformadora poderão em qualquer altura ser integradas no regime mencionado no artigo 1.º deste diploma, se os actuais exploradores das respectivas pedreiras o desejarem. Em tal eventualidade, para além da tributação mineira geral, será fixada em cada caso, pelo Ministro do Ultramar, ouvido o Governo da respectiva província, uma contribuição anual para o Fundo de Fomento Mineiro Ultramarino, tendo-se em atenção a natureza das explorações, das indústrias transformadoras por elas abastecidas e em que eventualmente se integrem e demais circunstâncias que devam ser tomadas em conta.
 
 § 1.º As áreas cobertas pelos actuais exploradores das substâncias referidas no corpo deste artigo, que não venham a transitar para o regime do Decreto de 20 de Setembro de 1906, não poderão, para todos os efeitos, ser objecto de manifestos mineiros por outras entidades enquanto durarem as suas explorações.
 
 § 2.º As disposições constantes do corpo deste artigo serão também aplicáveis a quaisquer manifestos de substâncias calcárias que venham a ser realizados para áreas livres.
 
-###### Art. 4.º As concessões que venham a ser outorgadas ao abrigo do presente diploma não beneficiarão das isenções previstas no n.º 1 do artigo 130.º do Decreto de 20 de Setembro de 1906.
+Art. 4.º As concessões que venham a ser outorgadas ao abrigo do presente diploma não beneficiarão das isenções previstas no n.º 1 do artigo 130.º do Decreto de 20 de Setembro de 1906.
 
-###### Art. 5.º A superfície dos claims das substâncias referidas no § único do artigo 1.º deste diploma ou de substâncias calcárias, que pode ser demarcada a favor de qualquer manifestante, não poderá exceder uma área que possa ser razoàvelmente considerada como suficiente para manutenção da indústria respectiva e sua natural expansão.
+Art. 5.º A superfície dos claims das substâncias referidas no § único do artigo 1.º deste diploma ou de substâncias calcárias, que pode ser demarcada a favor de qualquer manifestante, não poderá exceder uma área que possa ser razoàvelmente considerada como suficiente para manutenção da indústria respectiva e sua natural expansão.
 
-###### Art. 6.º As dúvidas ou omissões que surjam com a aplicação deste diploma serão resolvidas por despacho do Ministro do Ultramar, ouvidos os governadores das respectivas províncias.
+Art. 6.º As dúvidas ou omissões que surjam com a aplicação deste diploma serão resolvidas por despacho do Ministro do Ultramar, ouvidos os governadores das respectivas províncias.
 
-###### Art. 7.º A integração no novo regime será regulada pelos serviços provinciais de geologia e minas, atentas as circunstâncias especialmente aplicáveis a cada caso.
+Art. 7.º A integração no novo regime será regulada pelos serviços provinciais de geologia e minas, atentas as circunstâncias especialmente aplicáveis a cada caso.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Setembro de 1969.**
+Promulgado em 15 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

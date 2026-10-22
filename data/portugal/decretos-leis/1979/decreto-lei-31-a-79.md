@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 48/1979, 2º Suplemento, Série I de 1979-02-26
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 310-(3) a 310-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/04802/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-1979-592973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bef916e6b39d4520e3d6d9964919259b1c2b8514402b084b31774a189bd38fa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05c1e22714b014f4c200eccc965abe51dde4e82e7ce5cc1cf350b696790425b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Catástrofe
+- Comissão Coordenadora
+- Corepre
+- Criação de Serviços
+- Definição de Competências
+- Presidência do Conselho de Ministros
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 e nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:36Z'
   warnings: []
   errors: []
 ---
@@ -96,40 +114,40 @@ Assim:
 
 O Governo declara, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Com o objectivo de centralizar e coordenar as acções sectoriais necessárias para a reconstrução das infra-estruturas, recuperação das actividades industriais, agrícolas e pecuárias, bem como para auxílio a sinistrados, por virtude dos danos causados pelos recentes temporais, de acordo com programas e normas de execução para o efeito aprovados pelo Conselho de Ministros, é criada a Comissão de Coordenação das Acções de Reparação dos Prejuízos Ocasionados pelos Temporais, abreviadamente designada por Corepre, que funcionará na Presidência do Conselho de Ministros.
+Artigo 1.º Com o objectivo de centralizar e coordenar as acções sectoriais necessárias para a reconstrução das infra-estruturas, recuperação das actividades industriais, agrícolas e pecuárias, bem como para auxílio a sinistrados, por virtude dos danos causados pelos recentes temporais, de acordo com programas e normas de execução para o efeito aprovados pelo Conselho de Ministros, é criada a Comissão de Coordenação das Acções de Reparação dos Prejuízos Ocasionados pelos Temporais, abreviadamente designada por Corepre, que funcionará na Presidência do Conselho de Ministros.
 
-###### Art. 2.º - 1 - A Corepre será dirigida por um superintendente, designado pelo Primeiro-Ministro.
+Art. 2.º - 1 - A Corepre será dirigida por um superintendente, designado pelo Primeiro-Ministro.
 
 2 - A composição e regime de funcionamento da Corepre serão definidos por despacho do Primeiro-Ministro sobre proposta do superintendente.
 
-###### Art. 3.º A gestão administrativa da Corepre será assegurada por um grupo de apoio constituído por quatro membros designados pelo superintendente, que presidirá, um dos quais será indicado pela Direcção-Geral da Contabilidade Pública.
+Art. 3.º A gestão administrativa da Corepre será assegurada por um grupo de apoio constituído por quatro membros designados pelo superintendente, que presidirá, um dos quais será indicado pela Direcção-Geral da Contabilidade Pública.
 
-###### Art. 4.º Para a execução de todos os serviços a cargo da Corepre poderá ser admitido ou requisitado pessoal, em regime de comissão de serviço, aos serviços públicos, civis ou militares, e às empresas públicas ou nacionalizadas, mediante despacho do Secretário de Estado da Presidência do Conselho de Ministros.
+Art. 4.º Para a execução de todos os serviços a cargo da Corepre poderá ser admitido ou requisitado pessoal, em regime de comissão de serviço, aos serviços públicos, civis ou militares, e às empresas públicas ou nacionalizadas, mediante despacho do Secretário de Estado da Presidência do Conselho de Ministros.
 
-###### Art. 5.º Aos membros da Corepre referidos nos artigos 2.º e 3.º poderão ser abonadas senhas de presença ou gratificações, a fixar pelo Secretário de Estado da Presidência do Conselho de Ministros, bem como, quando se desloquem, ajudas de custo e transportes, nos termos legais.
+Art. 5.º Aos membros da Corepre referidos nos artigos 2.º e 3.º poderão ser abonadas senhas de presença ou gratificações, a fixar pelo Secretário de Estado da Presidência do Conselho de Ministros, bem como, quando se desloquem, ajudas de custo e transportes, nos termos legais.
 
-###### Art. 6.º - 1 - As despesas de funcionamento da Corepre serão custeadas por dotação global inscrita no orçamento da Presidência do Conselho de Ministros, e os encargos com a reparação dos danos causados pelos temporais serão suportados por verbas também globais inscritas na Presidência do Conselho de Ministros e nos correspondentes Ministérios.
+Art. 6.º - 1 - As despesas de funcionamento da Corepre serão custeadas por dotação global inscrita no orçamento da Presidência do Conselho de Ministros, e os encargos com a reparação dos danos causados pelos temporais serão suportados por verbas também globais inscritas na Presidência do Conselho de Ministros e nos correspondentes Ministérios.
 
 2 - Os auxílios financeiros a conceder às autarquias locais, em conformidade com o disposto no artigo 1.º do presente decreto-lei, serão suportados por uma verba global a inscrever no orçamento do Ministério da Administração Interna.
 
 3 - Para efeito das alterações orçamentais referidas nos números anteriores, o Conselho de Ministros poderá delegar no Primeiro-Ministro a autorização prevista no n.º 2 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio.
 
-###### Art. 7.º - 1 - Os levantamentos de fundos por parte da Corepre ou dos serviços encarregados das obras, reparações e mais acções serão feitos, sem sujeição ao regime duodecimal, por simples requisições remetidas às respectivas delegações da Direcção-Geral da Contabilidade Pública, podendo as despesas, quando se mostrar indispensável, ser realizadas independentemente do cumprimento de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas.
+Art. 7.º - 1 - Os levantamentos de fundos por parte da Corepre ou dos serviços encarregados das obras, reparações e mais acções serão feitos, sem sujeição ao regime duodecimal, por simples requisições remetidas às respectivas delegações da Direcção-Geral da Contabilidade Pública, podendo as despesas, quando se mostrar indispensável, ser realizadas independentemente do cumprimento de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas.
 
 2 - As contas da aplicação dos fundos levantados serão apresentadas a julgamento do Tribunal de Contas.
 
-###### Art. 8.º Os donativos ou outros auxílios financeiros, nacionais ou estrangeiros, que se destinem a ser aplicados às despesas a que se refere o presente diploma darão imediatamente entrada nos cofres do Tesouro, como receita do Estado consignada a reforços orçamentais para o mesmo fim.
+Art. 8.º Os donativos ou outros auxílios financeiros, nacionais ou estrangeiros, que se destinem a ser aplicados às despesas a que se refere o presente diploma darão imediatamente entrada nos cofres do Tesouro, como receita do Estado consignada a reforços orçamentais para o mesmo fim.
 
-###### Art. 9.º A Corepre será extinta até 31 de Dezembro de 1979, passando para a responsabilidade directa e integral dos respectivos Ministérios a condução até final dos empreendimentos porventura ainda em curso.
+Art. 9.º A Corepre será extinta até 31 de Dezembro de 1979, passando para a responsabilidade directa e integral dos respectivos Ministérios a condução até final dos empreendimentos porventura ainda em curso.
 
-###### Art. 10.º As dúvidas e os casos omissos suscitados na execução deste diploma serão resolvidos por despacho do Primeiro-Ministro.
+Art. 10.º As dúvidas e os casos omissos suscitados na execução deste diploma serão resolvidos por despacho do Primeiro-Ministro.
 
-###### Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 26 de Fevereiro de 1979.**
+Promulgado em 26 de Fevereiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

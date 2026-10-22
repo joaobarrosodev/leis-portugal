@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/04/09700/05450546.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45675-1964-472536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5ea3fe6ecb44227e60116ff24a478e232e4bae6c8d8cbec79537333aab07d19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df2a0215aa9f44f10a11cd482f5118366ed9a8d8a05d3b0dee69b927f97ce65c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Nacional dos Vinhos
+- Região Demarcada
+- Taxa
+- Vinho
+- Vinho Verde
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:509644:por
+  label: "Considerados os produtores que vendam directamente ao público vinho a retalho abrangidos pelo disposto no § 1.º\
+    \ do art. 1.º do presente diploma, pelo DEC LEI.46531.08.09.1965.MECO, DG.IS [203] de 08.09.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46531-1965-509644
+  date: '1965-09-08'
+- type: cites
+  target: pt:dre:539211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391642:por
+  label: "Revogado o parag 2 do art 2º, o parag 2 do art 3º e o art 4º pelo Dec Lei.47966.1967.09.27.MECO, DG.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47966-1967-391642
+  date: '1967-09-27'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:46Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +129,13 @@ Nestes termos, tendo em atenção que na região demarcada dos vinhos verdes tê
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sobre o vinho verde vendido ao público na área da região demarcada dos vinhos verdes passa a incidir uma taxa única de $15 por litro, taxa essa que poderá ser cobrada por meio de avença.
+Artigo 1.º Sobre o vinho verde vendido ao público na área da região demarcada dos vinhos verdes passa a incidir uma taxa única de $15 por litro, taxa essa que poderá ser cobrada por meio de avença.
 
 § 1.º A cobrança da taxa será efectuada pela Comissão de Viticultura da Região dos Vinhos Verdes, e pelo seu pagamento será responsável o comércio retalhista.
 
 § 2.º Do produto da cobrança reverterá para a Junta Nacional do Vinho o correspondente a $05 por litro do vinho vendido ao público, de harmonia com a doutrina do [Decreto-Lei n.º 45215](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45215-1963-694025), de 24 de Agosto de 1963.
 
-###### Art. 2.º Os vinhos maduros entrados na área da região demarcada dos vinhos verdes e nela vendidos ao público estão sujeitos ao pagamento de igual taxa de $15 por litro.
+Art. 2.º Os vinhos maduros entrados na área da região demarcada dos vinhos verdes e nela vendidos ao público estão sujeitos ao pagamento de igual taxa de $15 por litro.
 
 § 1.º A taxa será cobrada pela Comissão de Viticultura da Região dos Vinhos Verdes e o seu pagamento será efectuado no momento da emissão da licença de entrada, relativamente ao vinho encascado.
 
@@ -106,7 +143,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Do produto das cobranças referidas nos parágrafos anteriores reverterá para a Junta Nacional do Vinho o correspondente a $10 por litro de vinho maduro entrado na área da região demarcada dos vinhos verdes, e os restantes $05 reverterão para a Comissão de Viticultura da Região dos Vinhos Verdes.
 
-###### Art. 3.º Sobre o vinho verde lançado no consumo na área da Junta Nacional do Vinho, incluindo a cidade do Porto e o entreposto de Gaia, será cobrada a taxa de $15 por litro.
+Art. 3.º Sobre o vinho verde lançado no consumo na área da Junta Nacional do Vinho, incluindo a cidade do Porto e o entreposto de Gaia, será cobrada a taxa de $15 por litro.
 
 § 1.º A forma de cobrança para os vinhos verdes encascados será feita nos termos em vigor para os vinhos da área da Junta Nacional do Vinho.
 
@@ -114,30 +151,30 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Do produto das cobranças referidas nos parágrafos anteriores reverterá para a Comissão de Viticultura da Região dos Vinhos Verdes o correspondente a $05 por litro de vinho verde entrado na área da Junta Nacional do Vinho, e os restantes $10 reverterão para a Junta Nacional do Vinho.
 
-###### Art. 4.º Sobre todo o vinho verde lançado no mercado em recipientes de capacidade inferior a 1 l incidirá uma taxa única de $05 por litro, que será cobrada no momento em que for efectuada a aposição dos respectivos selos de origem, ou quando estes forem adquiridos.
+Art. 4.º Sobre todo o vinho verde lançado no mercado em recipientes de capacidade inferior a 1 l incidirá uma taxa única de $05 por litro, que será cobrada no momento em que for efectuada a aposição dos respectivos selos de origem, ou quando estes forem adquiridos.
 
-###### Art. 5.º Sobre o vinho verde exportado incidirá uma taxa de $05 por litro, que será cobrada no momento da emissão do respectivo certificado de origem.
+Art. 5.º Sobre o vinho verde exportado incidirá uma taxa de $05 por litro, que será cobrada no momento da emissão do respectivo certificado de origem.
 
-###### Art. 6.º Do produto da taxa a que se refere o artigo 1.º e que reverte para a Comissão de Viticultura da Região dos Vinhos Verdes, metade será aplicada nas despesas de administração e fiscalização do próprio organismo e a outra metade destinar-se-á ao reajustamento económico dos preços dos produtos vínicos, ao apetrechamento da produção por meio da extensão da rede das adegas cooperativas e ao estabelecimento e ampliação da capacidade de armazenagem necessária a essa regularização.
+Art. 6.º Do produto da taxa a que se refere o artigo 1.º e que reverte para a Comissão de Viticultura da Região dos Vinhos Verdes, metade será aplicada nas despesas de administração e fiscalização do próprio organismo e a outra metade destinar-se-á ao reajustamento económico dos preços dos produtos vínicos, ao apetrechamento da produção por meio da extensão da rede das adegas cooperativas e ao estabelecimento e ampliação da capacidade de armazenagem necessária a essa regularização.
 
 § único. O produto da cobrança que, nos termos do § 3.º do artigo 2.º, reverte para a Comissão de Viticultura da Região dos Vinhos Verdes, terá o destino referido em segundo lugar no corpo deste artigo.
 
-###### Art. 7.º Do produto das taxas referidas nos artigos 2.º e 3.º e seus parágrafos e que revertem para a Junta Nacional do Vinho, metade será aplicada nas despesas da administração e fiscalização do próprio organismo e a outra metade destinar-se-á ao reajustamento económico dos preços dos produtos vínicos, ao apetrechamento da produção por meio da extensão da rede das adegas cooperativas e à ampliação da capacidade de armazenagem necessária a essa regularização.
+Art. 7.º Do produto das taxas referidas nos artigos 2.º e 3.º e seus parágrafos e que revertem para a Junta Nacional do Vinho, metade será aplicada nas despesas da administração e fiscalização do próprio organismo e a outra metade destinar-se-á ao reajustamento económico dos preços dos produtos vínicos, ao apetrechamento da produção por meio da extensão da rede das adegas cooperativas e à ampliação da capacidade de armazenagem necessária a essa regularização.
 
-###### Art. 8.º O produto das taxas previstas no artigo 3.º, na parte que reverte para a Comissão de Viticultura da Região dos Vinhos Verdes, e nos artigos 4.º e 5.º, constitui receita própria da Comissão de Viticultura da Região dos Vinhos Verdes e destina-se a fazer face a despesas de administração e fiscalização do próprio organismo.
+Art. 8.º O produto das taxas previstas no artigo 3.º, na parte que reverte para a Comissão de Viticultura da Região dos Vinhos Verdes, e nos artigos 4.º e 5.º, constitui receita própria da Comissão de Viticultura da Região dos Vinhos Verdes e destina-se a fazer face a despesas de administração e fiscalização do próprio organismo.
 
-###### Art. 9.º Os encargos de cobrança das taxas previstas nos artigos 1.º, 2.º e 3.º serão estabelecidos por acordo entre a Comissão de Viticultura e a Junta Nacional do Vinho, devidamente sancionado por despacho dos Secretários de Estado da Agricultura e do Comércio.
+Art. 9.º Os encargos de cobrança das taxas previstas nos artigos 1.º, 2.º e 3.º serão estabelecidos por acordo entre a Comissão de Viticultura e a Junta Nacional do Vinho, devidamente sancionado por despacho dos Secretários de Estado da Agricultura e do Comércio.
 
-###### Art. 10.º O sistema da cobrança das taxas referidas nos artigos 1.º e 2.º e, quando for caso disso, no artigo 3.º obedecerá às normas aplicáveis previstas no artigo 7.º e seguintes do [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, igualmente sucedendo relativamente à multa prevista no artigo 13.º do mesmo decreto-lei.
+Art. 10.º O sistema da cobrança das taxas referidas nos artigos 1.º e 2.º e, quando for caso disso, no artigo 3.º obedecerá às normas aplicáveis previstas no artigo 7.º e seguintes do [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, igualmente sucedendo relativamente à multa prevista no artigo 13.º do mesmo decreto-lei.
 
-###### Art. 11.º Quando não for efectuado o pagamento voluntário das taxas referidas nos artigos anteriores, que compete à Comissão de Viticultura da Região dos Vinhos Verdes arrecadar, a cobrança coerciva será feita nos termos do artigo 7.º do [Decreto-Lei n.º 34054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34054-1944-563853), de 21 de Outubro de 1944, e quanto às que compete à Junta Nacional do Vinho arrecadar, a cobrança coerciva será feita nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955.
+Art. 11.º Quando não for efectuado o pagamento voluntário das taxas referidas nos artigos anteriores, que compete à Comissão de Viticultura da Região dos Vinhos Verdes arrecadar, a cobrança coerciva será feita nos termos do artigo 7.º do [Decreto-Lei n.º 34054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34054-1944-563853), de 21 de Outubro de 1944, e quanto às que compete à Junta Nacional do Vinho arrecadar, a cobrança coerciva será feita nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955.
 
-###### Art. 12.º Por similitude com o que foi preceituado no artigo 20.º do citado [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, deverão as avenças para o ano de 1964 ser requeridas durante o mês de Abril, e o seu pagamento ou o da sua prestação será feito, na hipótese do § 1.º do artigo 9.º do mesmo decreto-lei, até ao dia 10 de Maio imediato, e nas hipóteses dos §§ 2.º e 3.º do mesmo artigo, até dez dias após o respectivo grémio ter avisado o interessado da deliberação definitiva a que se refere o mesmo § 3.º
+Art. 12.º Por similitude com o que foi preceituado no artigo 20.º do citado [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, deverão as avenças para o ano de 1964 ser requeridas durante o mês de Abril, e o seu pagamento ou o da sua prestação será feito, na hipótese do § 1.º do artigo 9.º do mesmo decreto-lei, até ao dia 10 de Maio imediato, e nas hipóteses dos §§ 2.º e 3.º do mesmo artigo, até dez dias após o respectivo grémio ter avisado o interessado da deliberação definitiva a que se refere o mesmo § 3.º
 
-###### Art. 13.º No ano corrente a Comissão de Viticultura cobrará 75 por cento da parte da taxa a que se refere o artigo 1.º e que lhe é destinada, ou seja $075 por litro, como período de transição para a cobrança da taxa por inteiro na campanha de 1964-1965, sendo compensada por um subsídio do Estado no montante idêntico ao da cobrança não realizada.
+Art. 13.º No ano corrente a Comissão de Viticultura cobrará 75 por cento da parte da taxa a que se refere o artigo 1.º e que lhe é destinada, ou seja $075 por litro, como período de transição para a cobrança da taxa por inteiro na campanha de 1964-1965, sendo compensada por um subsídio do Estado no montante idêntico ao da cobrança não realizada.
 
-###### Art. 14.º As disposições do presente diploma entram imediatamente em vigor.
+Art. 14.º As disposições do presente diploma entram imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.

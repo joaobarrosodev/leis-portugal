@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 276/1977, 2º Suplemento, Série I de 1977-11-29
   number: '276'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2850-(3) a 2850-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27602/00030006.pdf
 entry_into_force_dates: []
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1977-424522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c9a152fa9259bc11562ed7576465f4e9a8c7e557b69271f97e7d22e7826e7f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2999c1c9e21c9db2997e0068307286874654753da12003c5175a4536117c43fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANOP
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:391474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425330:por
+  label: Ratificados, com emendas, o presente diploma, assim como os estatutos da ANOP, E.P. publicados em anexo, pela LEI.19/78.1978.04.11.AR,
+    DR.IS [84]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-1978-425330
+  date: '1978-04-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ": REVOGADO O ARTIGO 2 PELO DECRETO LEI NUMERO 96-A/84, PUBLICADO NO DIARIO DA REPUBLICA, I SERIE, NUMERO 72, SUPLEMENTO,\
+    \ DE 840326. ALTERADO O ESTATUTO E O RESPECTIVO DIPLOMA PELA LEI NUMERO 19/78, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE,\
+    \ NUMERO 84, DE 11/4/78. \078. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-03-26'
+- type: cites
+  target: pt:dre:312176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391474:por
+  label: "Revogado o art. 2º pelo DEC LEI.96-A/84.1984.03.26.PCM DR.IS [72]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-a-1984-391474
+  date: '1984-03-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:21Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +130,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As dívidas passivas da empresa pública Agência Noticiosa Portuguesa - Anop, decorrentes da transferência de património operada pelo artigo 1.º do [Decreto-Lei n.º 523/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1975-312176), de 24 de Setembro, de que sejam credores o Estado, a Previdência, os organismos públicos, as empresas públicas, as empresas nacionalizadas e as empresas com maioria de capital público, são assumidas directamente pelo Estado.
+Artigo 1.º - 1 - As dívidas passivas da empresa pública Agência Noticiosa Portuguesa - Anop, decorrentes da transferência de património operada pelo artigo 1.º do [Decreto-Lei n.º 523/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1975-312176), de 24 de Setembro, de que sejam credores o Estado, a Previdência, os organismos públicos, as empresas públicas, as empresas nacionalizadas e as empresas com maioria de capital público, são assumidas directamente pelo Estado.
 
 2 - Após a entrada em vigor do presente diploma, o Estado fará a entrega à Anop, E. P., de uma só vez, da verba de 16000 contos que integrará o capital estatutário inicial da empresa.
 
-###### Art. 2.º A Anop, E. P., passa a reger-se pelos estatutos anexos, que constituem parte integrante do presente decreto-lei.
+Art. 2.º A Anop, E. P., passa a reger-se pelos estatutos anexos, que constituem parte integrante do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 24 de Novembro de 1977.**
+Promulgado em 24 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTOS DA EMPRESA PÚBLICA AGÊNCIA NOTICIOSA PORTUGUESA
 
@@ -334,4 +366,4 @@ O regime de previdência do pessoal da Anop é o regime geral da previdência pa
 
 Na parte não prevista neste Estatuto aplicam-se subsidiariamente à Anop o [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e as normas de direito privado.
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro de Estado, Henrique Teixeira Queirós de Barros. - O Ministro sem Pasta, Joaquim Jorge de Pinho Campinos.**
+O Primeiro-Ministro, Mário Soares. - O Ministro de Estado, Henrique Teixeira Queirós de Barros. - O Ministro sem Pasta, Joaquim Jorge de Pinho Campinos.

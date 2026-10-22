@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/136-1971-445731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e6244e0d424bb6a6e308f29de0c119c88cf2c92944a7b6488fc566e85d48fa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 815b68593b3021ec1bf0e40fe670e04b907c820ba3b7451df48a959b0441397c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:490944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:53Z'
   warnings: []
   errors: []
 ---
@@ -88,21 +96,21 @@ Tornando-se necessário actualizar a estrutura orgânica do Instituto de Biologi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado e posto em execução o Regulamento do Instituto de Biologia Marítima, que faz parte integrante deste decreto, e é revogado o [Decreto n.º 43507](https://diariodarepublica.pt/dr/detalhe/decreto/43507-1961-555188), de 15 de Fevereiro de 1961.
+Artigo único. É aprovado e posto em execução o Regulamento do Instituto de Biologia Marítima, que faz parte integrante deste decreto, e é revogado o [Decreto n.º 43507](https://diariodarepublica.pt/dr/detalhe/decreto/43507-1961-555188), de 15 de Fevereiro de 1961.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 18 de Março de 1971.**
+Promulgado em 18 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DO INSTITUTO DE BIOLOGIA MARÍTIMA
 
 ### CAPÍTULO I — Natureza e fins
 
-###### Artigo 1.º - 1. O Instituto de Biologia Marítima (I. B. M.) é um organismo do Ministério da Marinha tendo por finalidade a investigação no domínio da biologia marítima aplicada às pescas, competindo-lhe, em especial:
+Artigo 1.º - 1. O Instituto de Biologia Marítima (I. B. M.) é um organismo do Ministério da Marinha tendo por finalidade a investigação no domínio da biologia marítima aplicada às pescas, competindo-lhe, em especial:
 
 a) Estudar e investigar os dados oceanográficos relacionados com a biologia marítima;
 
@@ -146,7 +154,7 @@ m) Auxiliar no aspecto técnico, na medida das suas possibilidades e dentro das 
 
 #### SECÇÃO I — Órgãos do Instituto
 
-###### Art. 2.º - 1. A acção do I. B. M. exerce-se por meio de:
+Art. 2.º - 1. A acção do I. B. M. exerce-se por meio de:
 
 a) Director;
 
@@ -180,7 +188,7 @@ b) Postos.
 
 #### SECÇÃO II — Director
 
-###### Art. 3.º - 1. Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do I. B. M. e, em especial:
+Art. 3.º - 1. Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do I. B. M. e, em especial:
 
 a) Propor a criação e extinção de estações e postos;
 
@@ -214,7 +222,7 @@ n) Conceder licenças ao pessoal civil, nos termos da legislação em vigor.
 
 #### SECÇÃO III — Subdirector
 
-###### Art. 4.º - 1. Ao subdirector compete:
+Art. 4.º - 1. Ao subdirector compete:
 
 a) Substituir o director nas suas faltas ou impedimentos;
 
@@ -228,7 +236,7 @@ c) Orientar o serviço da secretaria.
 
 #### SECÇÃO IV — Conselho científico
 
-###### Art. 5.º - 1. O conselho científico, que é um órgão de consulta do director, tem a seguinte constituição:
+Art. 5.º - 1. O conselho científico, que é um órgão de consulta do director, tem a seguinte constituição:
 
 a) Director, como presidente;
 
@@ -244,7 +252,7 @@ e) Investigadores de 1.ª classe em serviço no I. B. M., mesmo que não ocupem 
 
 3. O conselho reúne por convocação do director.
 
-###### Art. 6.º Ao conselho científico compete, de uma maneira geral, pronunciar-se sobre os assuntos que forem submetidos à sua apreciação e, em especial, sobre:
+Art. 6.º Ao conselho científico compete, de uma maneira geral, pronunciar-se sobre os assuntos que forem submetidos à sua apreciação e, em especial, sobre:
 
 a) Criação e extinção de estações e postos ou de outros órgãos técnicos ou de apoio;
 
@@ -260,11 +268,11 @@ f) Distribuição do pessoal científico e técnico auxiliar pelos vários servi
 
 #### SECÇÃO V — Serviço de investigação
 
-###### Art. 7.º - 1. Ao serviço de investigação compete concorrer para a efectivação dos fins cometidos ao I. B. M. pelo artigo 1.º, na parte que lhe respeita.
+Art. 7.º - 1. Ao serviço de investigação compete concorrer para a efectivação dos fins cometidos ao I. B. M. pelo artigo 1.º, na parte que lhe respeita.
 
 2. O chefe do serviço de investigação é o subdirector.
 
-###### Art. 8.º - 1. O serviço de investigação compreende as seguintes secções:
+Art. 8.º - 1. O serviço de investigação compreende as seguintes secções:
 
 a) Peixes e pescas;
 
@@ -284,19 +292,19 @@ e) Estudos de poluição.
 
 #### SECÇÃO VI — Serviço de análises
 
-###### Art. 9.º - 1. Ao serviço de análises compete realizar as análises, ensaios, experiências e outros trabalhos de laboratório necessários à actividade do I. B. M.
+Art. 9.º - 1. Ao serviço de análises compete realizar as análises, ensaios, experiências e outros trabalhos de laboratório necessários à actividade do I. B. M.
 
 2. O chefe do serviço de análises é um investigador do quadro do pessoal civil do Ministério.
 
 #### SECÇÃO VII — Serviço de estatística
 
-###### Art. 10.º - 1. Ao serviço de estatística competem a colheita e compilação de elementos estatísticos, o processamento de dados, a informação estatística e outros trabalhos, no âmbito do serviço, necessários à actividade do I. B. M.
+Art. 10.º - 1. Ao serviço de estatística competem a colheita e compilação de elementos estatísticos, o processamento de dados, a informação estatística e outros trabalhos, no âmbito do serviço, necessários à actividade do I. B. M.
 
 2. O chefe do serviço de estatística é um investigador do quadro do pessoal civil do Ministério.
 
 #### SECÇÃO VIII — Serviço de abastecimento
 
-###### Art. 11.º - 1. Ao serviço de abastecimento compete:
+Art. 11.º - 1. Ao serviço de abastecimento compete:
 
 a) Submeter à apreciação do conselho administrativo os assuntos de serviço que careçam da sua resolução;
 
@@ -316,13 +324,13 @@ f) Promover a contabilização do material, incluindo o das estações e postos 
 
 #### SECÇÃO IX — Gabinete de desenho
 
-###### Art. 12.º - 1. Ao gabinete de desenho compete realizar os trabalhos relativos a cartas de pesca, desenho, fotografia e reprodução necessários ao I. B. M.
+Art. 12.º - 1. Ao gabinete de desenho compete realizar os trabalhos relativos a cartas de pesca, desenho, fotografia e reprodução necessários ao I. B. M.
 
 2. O chefe do gabinete de desenho é um investigador ou um auxiliar de investigador do quadro do pessoal civil do Ministério.
 
 #### SECÇÃO X — Secretaria
 
-###### Art. 13.º - 1. À secretaria compete:
+Art. 13.º - 1. À secretaria compete:
 
 a) Executar o serviço de expediente e arquivo, com excepção do que pertença à secretaria do conselho administrativo;
 
@@ -334,7 +342,7 @@ c) Publicar a ordem de serviço do Instituto, com a periodicidade necessária e 
 
 #### SECÇÃO XI — Biblioteca
 
-###### Art. 14.º - 1. A biblioteca destina-se a guardar, devidamente inventariadas e catalogadas, as publicações adquiridas ou oferecidas ao I. B. M.
+Art. 14.º - 1. A biblioteca destina-se a guardar, devidamente inventariadas e catalogadas, as publicações adquiridas ou oferecidas ao I. B. M.
 
 2. A organização e atribuições da biblioteca constarão do regulamento interno do Instituto.
 
@@ -342,13 +350,13 @@ c) Publicar a ordem de serviço do Instituto, com a periodicidade necessária e 
 
 #### SECÇÃO XII — Conselho administrativo
 
-###### Art. 15.º - 1. A administração dos bens e das dotações orçamentais do I. B. M., assim como as do seu fundo para trabalhos de investigação científica, a que se referem os artigos 4.º, 8.º e 9.º e seus parágrafos do [Decreto-Lei n.º 38079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38079-1950-490944), de 5 de Dezembro de 1950, será exercida por um conselho administrativo.
+Art. 15.º - 1. A administração dos bens e das dotações orçamentais do I. B. M., assim como as do seu fundo para trabalhos de investigação científica, a que se referem os artigos 4.º, 8.º e 9.º e seus parágrafos do [Decreto-Lei n.º 38079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38079-1950-490944), de 5 de Dezembro de 1950, será exercida por um conselho administrativo.
 
 2. Ao vogal e secretário-tesoureiro do conselho administrativo poderão ser atribuídas gratificações, nas condições estabelecidas no artigo 13.º do [Decreto-Lei n.º 38079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38079-1950-490944).
 
 3. O cargo de secretário-tesoureiro não poderá ser provido por funcionário civil de categoria inferior a primeiro-oficial.
 
-###### Art. 16.º - 1. O fundo para trabalhos de investigação científica é destinado a satisfazer os encargos com material, pessoal e investigações científicas e trabalhos técnicos a realizar pelo I. B. M.
+Art. 16.º - 1. O fundo para trabalhos de investigação científica é destinado a satisfazer os encargos com material, pessoal e investigações científicas e trabalhos técnicos a realizar pelo I. B. M.
 
 2. Este fundo será constituído pelos donativos, subsídios ou legados de entidades oficiais, corporativas ou particulares, pelas receitas próprias do Instituto e por parte da dotação a que se refere o [Decreto-Lei n.º 38079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38079-1950-490944), esta apenas na medida em que se torne necessária terá carácter permanente e o saldo que apresente no fim de cada ano transitará para o ano económico seguinte.
 
@@ -364,7 +372,7 @@ d) As importâncias pagas como inscrição nos cursos a que se refere a alínea 
 
 e) Outras receitas eventuais.
 
-###### Art. 17.º - 1. O conselho administrativo rege-se pelas disposições do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública, competindo-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços dotados de autonomia financeira e, em especial:
+Art. 17.º - 1. O conselho administrativo rege-se pelas disposições do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública, competindo-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços dotados de autonomia financeira e, em especial:
 
 a) Propor à aprovação do Ministro da Marinha e visto do Ministro das Finanças os orçamentos privativos e respectivos orçamentos suplementares, tanto do I. B. M. como do fundo para trabalhos de investigação científica;
 
@@ -374,7 +382,7 @@ b) Prestar contas da sua gerência ao Tribunal de Contas.
 
 #### SECÇÃO XIII — Estações e postos
 
-###### Art. 18.º - 1. As estações e postos são órgãos externos do I. B. M., criados a título temporário ou permanente, que se destinam a estudos e investigações de interesse especial ou local.
+Art. 18.º - 1. As estações e postos são órgãos externos do I. B. M., criados a título temporário ou permanente, que se destinam a estudos e investigações de interesse especial ou local.
 
 2. As condições a que devem obedecer os órgãos externos referidos no número anterior para serem classificados como estações ou postos constarão do regulamento interno do Instituto e serão função da sua importância em relação a:
 
@@ -384,7 +392,7 @@ b) Capacidade administrativa;
 
 c) Natureza das instalações.
 
-###### Art. 19.º - 1. As estações e postos são chefiados por investigadores do quadro do pessoal civil do Ministério, nomeados pelo director, ouvido o conselho científico.
+Art. 19.º - 1. As estações e postos são chefiados por investigadores do quadro do pessoal civil do Ministério, nomeados pelo director, ouvido o conselho científico.
 
 2. As estações estão directamente subordinadas ao director, e os postos, ao director ou a estações.
 
@@ -406,19 +414,19 @@ na dependência do director do I. B. M.
 
 #### SECÇÃO I — Nomeações, lotações e regime de serviço
 
-###### Art. 20.º O director do I. B. M. é nomeado pelo Ministro da Marinha, não podendo ter categoria inferior a investigador de 1.ª classe.
+Art. 20.º O director do I. B. M. é nomeado pelo Ministro da Marinha, não podendo ter categoria inferior a investigador de 1.ª classe.
 
-###### Art. 21.º O subdirector é nomeado pelo Ministro da Marinha, mediante proposta do director, não devendo ter categoria inferior a investigador de 1.ª classe.
+Art. 21.º O subdirector é nomeado pelo Ministro da Marinha, mediante proposta do director, não devendo ter categoria inferior a investigador de 1.ª classe.
 
-###### Art. 22.º A lotação do pessoal militar do I. B. M. é fixada por portaria do Ministro da Marinha.
+Art. 22.º A lotação do pessoal militar do I. B. M. é fixada por portaria do Ministro da Marinha.
 
-###### Art. 23.º A lotação do pessoal civil do I. B. M. é fixada por despacho do Ministro da Marinha.
+Art. 23.º A lotação do pessoal civil do I. B. M. é fixada por despacho do Ministro da Marinha.
 
-###### Art. 24.º - 1. Todo o pessoal do I. B. M. é obrigado a prestar serviço nos locais e circunstâncias que a actividade do Instituto exija.
+Art. 24.º - 1. Todo o pessoal do I. B. M. é obrigado a prestar serviço nos locais e circunstâncias que a actividade do Instituto exija.
 
 2. O pessoal que for admitido para servir permanentemente nas estações ou postos terá ùnicamente o vencimento legal estabelecido para a sua categoria, sem direito a qualquer outra remuneração por motivo de exercer funções fora da sede do Instituto.
 
-###### Art. 25.º O pessoal do Instituto, quer o do quadro, quer o contratado além deste, quando deslocado da sua residência oficial por motivo de trabalhos e missões científicas ou técnicas a realizar fora da sede do Instituto, tem direito a perceber:
+Art. 25.º O pessoal do Instituto, quer o do quadro, quer o contratado além deste, quando deslocado da sua residência oficial por motivo de trabalhos e missões científicas ou técnicas a realizar fora da sede do Instituto, tem direito a perceber:
 
 a) Em serviço em terra, as ajudas de custo fixadas para os servidores do Estado com igual vencimento;
 
@@ -426,7 +434,7 @@ b) Em serviço a bordo, uma gratificação diária de importância igual à da a
 
 #### SECÇÃO II — Penalidades
 
-###### Art. 26.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do I. B. M.:
+Art. 26.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do I. B. M.:
 
 a) Multa de um a dez dias, correspondente ao salário diário do infractor;
 
@@ -436,16 +444,16 @@ b) Demissão.
 
 #### SECÇÃO III — Informações
 
-###### Art. 27.º O pessoal civil do quadro é informado pelo director do I. B. M.
+Art. 27.º O pessoal civil do quadro é informado pelo director do I. B. M.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 28.º - 1. O I. B. M. poderá apoiar-se, para a realização de trabalhos no mar, em navios ou embarcações, incluindo os de pesca.
+Art. 28.º - 1. O I. B. M. poderá apoiar-se, para a realização de trabalhos no mar, em navios ou embarcações, incluindo os de pesca.
 
 2. As condições em que os navios da Armada apoiam o I. B. M. serão definidas por portaria do Ministro da Marinha.
 
 3. As condições em que são utilizados outros navios ou embarcações serão definidas por despacho do Ministro da Marinha.
 
-###### Art. 29.º O regulamento interno do I. B. M. será posto em vigor por despacho ministerial.
+Art. 29.º O regulamento interno do I. B. M. será posto em vigor por despacho ministerial.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

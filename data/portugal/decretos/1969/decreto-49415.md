@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49415-1969-217088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57d982e78288d41f6a9a10404b6367016b02da8e6efa4b52f0dcf200a14acda8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6b3ebe53bb6c77501705e933dc6e0de17437bc78b29ab15ac7978bc02b6a069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:264731:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:33Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ Mostrando-se conveniente alterar o disposto na alínea a), n º 2, do [Decreto n
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição e seu § 1.º, por motivo de urgência, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. A alínea a) do n.º 2 do artigo 27.º do [Decreto n.º 48575](https://diariodarepublica.pt/dr/detalhe/decreto/48575-1968-264731), de 12 de Setembro de 1968, passa a ter a seguinte redacção:
+Artigo único. A alínea a) do n.º 2 do artigo 27.º do [Decreto n.º 48575](https://diariodarepublica.pt/dr/detalhe/decreto/48575-1968-264731), de 12 de Setembro de 1968, passa a ter a seguinte redacção:
 
 a) Nas províncias de Angola e Moçambique, e quanto às deliberações referidas nas alíneas a) e), g), h) e j) do número anterior, ao governador de distrito, ouvida a junta distrital, salvo quando, por urgência devidamente justificada, entenda dever dispensar a sua audição; quanto às restantes, ao governador da província, ouvido directamente o governador de distrito e o conselho económico e social.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Novembro de 1969.**
+Promulgado em 12 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

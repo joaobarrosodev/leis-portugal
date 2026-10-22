@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/571-1972-665295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 135aa281a76cb3c2a5f7cca52dad4fa76f72adc8bdd1a9fa5d260f9c5045c540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d672721deb0f90e87bd0f8c656a8aaf57157cf7dafcd23543db4295a17cae63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Avaliação de Conhecimentos
+- Exército
+- Força Aérea
+- Formação Profissional
+- Militar
+- Pessoal Docente
+- Qualificação Profissional
+relationships:
+- type: cites
+  target: pt:dre:147838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590728:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:21Z'
   warnings: []
   errors: []
 ---
@@ -87,25 +103,25 @@ de 29 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passam, desde 1 de Janeiro de 1973, a funcionar integralmente na Academia Militar os cursos de Engenharia do Exército e da Força Aérea previstos nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com as alterações introduzidas pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, em especial no seu artigo 3.º
+Artigo 1.º Passam, desde 1 de Janeiro de 1973, a funcionar integralmente na Academia Militar os cursos de Engenharia do Exército e da Força Aérea previstos nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com as alterações introduzidas pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, em especial no seu artigo 3.º
 
-###### Art. 2.º - 1. O ensino das diferentes cadeiras dos referidos cursos poderá ficar a cargo dos professores que regem idênticas cadeiras no Instituto Superior Técnico e dos seus assistentes para os trabalhos práticos, de harmonia com o § único do artigo 20.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, devendo, consequentemente, as respectivas cadeiras ser consideradas abrangidas na alínea a) do mesmo artigo.
+Art. 2.º - 1. O ensino das diferentes cadeiras dos referidos cursos poderá ficar a cargo dos professores que regem idênticas cadeiras no Instituto Superior Técnico e dos seus assistentes para os trabalhos práticos, de harmonia com o § único do artigo 20.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, devendo, consequentemente, as respectivas cadeiras ser consideradas abrangidas na alínea a) do mesmo artigo.
 
 2. Os professores e assistentes a que se refere o presente artigo são abrangidos pelo § único do artigo 23.º do citado decreto-lei.
 
-###### Art. 3.º - 1. Na falta de professores habilitados para o ensino das cadeiras nos termos do artigo 2.º, poderão ser nomeados para tal ensino oficiais superiores do Exército ou da Força Aérea de reconhecida competência, mediante despacho conjunto dos Ministros do Exército e da Educação Nacional.
+Art. 3.º - 1. Na falta de professores habilitados para o ensino das cadeiras nos termos do artigo 2.º, poderão ser nomeados para tal ensino oficiais superiores do Exército ou da Força Aérea de reconhecida competência, mediante despacho conjunto dos Ministros do Exército e da Educação Nacional.
 
 2. Para o ano lectivo de 1973-1974 serão oportunamente providos os lugares de professores e de assistentes das cadeiras dos cursos de Engenharia nas condições da alínea a) do artigo 20.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, e do seu § único.
 
-###### Art. 4.º Em portaria conjunta dos Ministros do Exército e da Educação Nacional serão fixados os laboratórios, oficinas ou estabelecimentos, quer do Estado, quer particulares, onde os alunos dos cursos de Engenharia satisfarão aos trabalhos práticos que lhes competirem efectuar.
+Art. 4.º Em portaria conjunta dos Ministros do Exército e da Educação Nacional serão fixados os laboratórios, oficinas ou estabelecimentos, quer do Estado, quer particulares, onde os alunos dos cursos de Engenharia satisfarão aos trabalhos práticos que lhes competirem efectuar.
 
-###### Art. 5.º - 1. Os programas das cadeiras dos cursos de Engenharia professados na Academia Militar em conformidade com o presente diploma serão aprovados por despacho conjunto dos Ministros do Exército e da Educação Nacional.
+Art. 5.º - 1. Os programas das cadeiras dos cursos de Engenharia professados na Academia Militar em conformidade com o presente diploma serão aprovados por despacho conjunto dos Ministros do Exército e da Educação Nacional.
 
 2. Os exames regular-se-ão pelas disposições legais em vigor na Academia Militar.
 
 3. Os cursos de Engenharia professados nos termos do presente diploma terão idêntico valor aos professados de acordo com as actuais disposições legais que regulam a Academia Militar.
 
-###### Art. 6.º - 1. Poderão ser autorizados alunos das escolas superiores de engenharia a inscrever-se na Academia Militar como civis nos cursos de Engenharia regulados pelo presente diploma, mediante transferência autorizada pelos Ministros do Exército e da Educação Nacional, e a submeter-se aos respectivos exames.
+Art. 6.º - 1. Poderão ser autorizados alunos das escolas superiores de engenharia a inscrever-se na Academia Militar como civis nos cursos de Engenharia regulados pelo presente diploma, mediante transferência autorizada pelos Ministros do Exército e da Educação Nacional, e a submeter-se aos respectivos exames.
 
 2. O número de alunos civis a admitir em cada curso será fixado anualmente pelo Ministro do Exército e a sua admissão dependerá dos critérios que para o efeito forem estabelecidos.
 
@@ -113,8 +129,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - José Veiga Simão.
 
-**Promulgado em 26 de Dezembro de 1972.**
+Promulgado em 26 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

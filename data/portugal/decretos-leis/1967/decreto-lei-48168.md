@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48168-1967-375993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f63306aa733bdf68d67120a138c9426317fd216daab038338a6b40d6dd162f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df5306bdc767a5ada7f84b705593cb6e2fec07b9e0a32cfbcd6aa12588e533be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Apoio Técnico
+- Equipamento Agrícola
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:48Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +116,7 @@ Escolheremos, para essa comparação, não a totalidade das máquinas e alfaias 
 
 Número de tractores por 1000 ha de superfície arável
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/30000/25212527.pdf))](https://files.diariodarepublica.pt/1s/1967/12/30000/25212527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/30000/25212527.pdf)
 
 Conclui-se, com base nas experiências dos países industrializados da Europa, que o número de tractores utilizados na nossa agricultura terá ainda de crescer mais de dez vezes e talvez mais de vinte vezes à medida que se caminhar para níveis mais altos de desenvolvimento da economia nacional. Esta indicação não se ajusta aos números que presentemente se verificam nos Estados Unidos e no Canadá, dado que esses países, tendo grande abundância relativa de terra, praticam uma agricultura assente em explorações que, pela sua considerável dimensão, permitem a utilização óptima do equipamento mecânico e, em consequência, a sua redução por unidade de solo arável.
 
@@ -178,7 +184,7 @@ DO FOMENTO DA MOTOMECANIZAÇÃO
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O Governo promoverá o fomento da utilização de máquinas nas culturas agrícolas e florestais, visando essencialmente os seguintes objectivos:
+Artigo 1.º O Governo promoverá o fomento da utilização de máquinas nas culturas agrícolas e florestais, visando essencialmente os seguintes objectivos:
 
 1.º Reduzir os custos de produção pela intensificação cultural, aumento da produtividade e diminuição dos encargos;
 
@@ -194,7 +200,7 @@ DO FOMENTO DA MOTOMECANIZAÇÃO
 
 7.º Suavizar o esforço do trabalho rural.
 
-###### Art. 2.º A acção do fomento prevista neste diploma abrangerá:
+Art. 2.º A acção do fomento prevista neste diploma abrangerá:
 
 1.º A divulgação do uso das máquinas agrícolas e florestais e o apoio técnico na sua utilização;
 
@@ -206,7 +212,7 @@ DO FOMENTO DA MOTOMECANIZAÇÃO
 
 ### CAPÍTULO II — Da divulgação e apoio técnico
 
-###### Art. 3.º A acção do Estado no que respeita à divulgação e ao apoio técnico exercer-se-á fundamentalmente através da Estação de Cultura Mecânica, à qual competirá coordenar todas as actividades que se desenvolvem nesse campo, por sua iniciativa ou por iniciativa de outras entidades oficiais ou particulares, e em especial:
+Art. 3.º A acção do Estado no que respeita à divulgação e ao apoio técnico exercer-se-á fundamentalmente através da Estação de Cultura Mecânica, à qual competirá coordenar todas as actividades que se desenvolvem nesse campo, por sua iniciativa ou por iniciativa de outras entidades oficiais ou particulares, e em especial:
 
 1.º Empreender e realizar ou orientar os estudos e ensaios necessários à selecção dos tipos de máquinas, motoras e operadoras, e da aparelhagem complementar, tendo em vista o condicionalismo das diferentes regiões agrárias e as características do trabalho rural;
 
@@ -234,15 +240,15 @@ DO FOMENTO DA MOTOMECANIZAÇÃO
 
 § 3.º As importâncias arrecadadas nos termos dos parágrafos anteriores darão entrada nos cofres do Estado como «consignação de receita» a fim de servirem de contrapartida das correspondentes despesas a realizar pela Estação de Cultura Mecânica.
 
-###### Art. 4.º Fora da sede da Estação de Cultura Mecânica, a acção que lhe compete será exercida pelos organismos de assistência técnica regional do Ministério da Economia, através das respectivas direcções-gerais.
+Art. 4.º Fora da sede da Estação de Cultura Mecânica, a acção que lhe compete será exercida pelos organismos de assistência técnica regional do Ministério da Economia, através das respectivas direcções-gerais.
 
-###### Art. 5.º O Ministério da Educação Nacional intensificará o ensino de mecânica agrícola nas escolas práticas de agricultura e nas escolas industriais das regiões rurais. e entre os seus serviços e a Estação de Cultura Mecânica estabelecer-se-á a colaboração adequada aos fins do presente diploma.
+Art. 5.º O Ministério da Educação Nacional intensificará o ensino de mecânica agrícola nas escolas práticas de agricultura e nas escolas industriais das regiões rurais. e entre os seus serviços e a Estação de Cultura Mecânica estabelecer-se-á a colaboração adequada aos fins do presente diploma.
 
-###### Art. 6.º Com destino à divulgação e apoio técnico da motomecanização agrícola e florestal é criada uma taxa de 1 por cento sobre o valor das vendas de máquinas agrícolas, motoras e operadoras, cujo produto será consignado à Estação de Cultura Mecânica, como receita própria, cobrada das firmas vendedoras através das secções de finanças competentes.
+Art. 6.º Com destino à divulgação e apoio técnico da motomecanização agrícola e florestal é criada uma taxa de 1 por cento sobre o valor das vendas de máquinas agrícolas, motoras e operadoras, cujo produto será consignado à Estação de Cultura Mecânica, como receita própria, cobrada das firmas vendedoras através das secções de finanças competentes.
 
 ### CAPÍTULO III — Do apoio financeiro
 
-###### Art. 7.º O apoio financeiro à mecanização compreenderá:
+Art. 7.º O apoio financeiro à mecanização compreenderá:
 
 1.º A concessão de subsídios não reembolsáveis até 20 por cento do valor da aquisição de equipamento de base;
 
@@ -254,7 +260,7 @@ DO FOMENTO DA MOTOMECANIZAÇÃO
 
 § 2.º A aquisição de equipamento pode, segundo os casos, beneficiar de subsídio, de empréstimo ou dos dois, conjuntamente.
 
-###### Art. 8.º Além dos empresários agrícolas, proprietários ou não, poderão ainda usufruir das facilidades constantes dos n.os 1.º e 2.º do artigo anterior:
+Art. 8.º Além dos empresários agrícolas, proprietários ou não, poderão ainda usufruir das facilidades constantes dos n.os 1.º e 2.º do artigo anterior:
 
 1.º Os grémios da lavoura e as suas associações cooperativas que constituam parques de máquinas para uso em comum dos seus associados;
 
@@ -264,13 +270,13 @@ DO FOMENTO DA MOTOMECANIZAÇÃO
 
 4.º Os indivíduos que tenham carta de aptidão profissional e as empresas que adquiram equipamento para a prestação de serviços mecânicos à lavoura e se sujeitem a um preçário, prèviamente aprovado pela Estação de Cultura Mecânica, que tenha em conta os benefícios recebidos, desde que preceda informação favorável do grémio da lavoura e da comissão técnica regional.
 
-###### Art. 9.º A Estação de Cultura Mecânica e a Junta de Colonização Interna submeterão à aprovação do Secretário de Estado da Agricultura os regulamentos que forem necessários:
+Art. 9.º A Estação de Cultura Mecânica e a Junta de Colonização Interna submeterão à aprovação do Secretário de Estado da Agricultura os regulamentos que forem necessários:
 
 a) Para definir as condições, os princípios de prioridade, o processo, administrativo e outras regras a que deva obedecer a concessão dos subsídios e empréstimos a que se refere o artigo 6.º;
 
 b) Para estatuir, sem prejuízo do disposto no § único do artigo 2.º, sobre a eventual utilização em comum e o aluguer de equipamento que haja beneficiado daquela modalidade de apoio financeiro.
 
-###### Art. 10.º O apoio financeiro à motomecanização será assegurado através do Fundo de Melhoramentos Agrícolas, dentro dos limites que o Ministro da Economia fixar para cada ano.
+Art. 10.º O apoio financeiro à motomecanização será assegurado através do Fundo de Melhoramentos Agrícolas, dentro dos limites que o Ministro da Economia fixar para cada ano.
 
 § 1.º Para efeito do exercício da função que lhe é atribuída, as disponibilidades do Fundo de Melhoramentos Agrícolas poderão ser reforçadas através de operações realizadas com as instituições de crédito ou com os outros fundos de serviços do Estado ou da organização corporativa.
 
@@ -278,21 +284,21 @@ b) Para estatuir, sem prejuízo do disposto no § único do artigo 2.º, sobre a
 
 ### CAPÍTULO IV — Da disciplina e fiscalização da produção, importação e comércio de máquinas agrícolas e florestais
 
-###### Art. 11.º Na disciplina e fiscalização da produção, importação e comércio de máquinas agrícolas e florestais serão considerados os seguintes objectivos:
+Art. 11.º Na disciplina e fiscalização da produção, importação e comércio de máquinas agrícolas e florestais serão considerados os seguintes objectivos:
 
 1.º Facultar à Estação de Cultura Mecânica o conhecimento pormenorizado da natureza e quantidade de máquinas produzidas, importadas e comercializadas na metrópole;
 
 2.º Permitir a intervenção oficial, sempre que esta se afigure conveniente para orientar o progressivo apetrechamento mecânico da agricultura nacional.
 
-###### Art. 12.º A Estação de Cultura Mecânica deverá ser ouvida nos processos de condicionamento industrial que respeitem à produção de máquinas agrícolas ou florestais.
+Art. 12.º A Estação de Cultura Mecânica deverá ser ouvida nos processos de condicionamento industrial que respeitem à produção de máquinas agrícolas ou florestais.
 
-###### Art. 13.º O exercício do comércio de máquinas agrícolas passa a depender da posse de uma licença que será concedida pela Direcção-Geral do Comércio, precedendo parecer favorável da Estação de Cultura Mecânica, emitido depois de feita a prova da capacidade técnica e financeira da empresa para assegurar o exercício normal da actividade e garantir o cumprimento das obrigações impostas pelo presente diploma.
+Art. 13.º O exercício do comércio de máquinas agrícolas passa a depender da posse de uma licença que será concedida pela Direcção-Geral do Comércio, precedendo parecer favorável da Estação de Cultura Mecânica, emitido depois de feita a prova da capacidade técnica e financeira da empresa para assegurar o exercício normal da actividade e garantir o cumprimento das obrigações impostas pelo presente diploma.
 
 § único. A licença a que se refere este artigo poderá ser retirada por despacho do Secretário de Estado do Comércio, exarado sob proposta do Secretário de Estado da Agricultura, precedida de informação da Estação de Cultura Mecânica, na qual se verifiquem infrutíferas as diligências efectuadas para sanar qualquer infracção às regras estabelecidas no presente decreto-lei e respectivas disposições regulamentares.
 
-###### Art. 14.º A execução das normas relativas à disciplina e fiscalização da produção, importação e comércio de máquinas agrícolas e florestais será objecto de disposições regulamentares.
+Art. 14.º A execução das normas relativas à disciplina e fiscalização da produção, importação e comércio de máquinas agrícolas e florestais será objecto de disposições regulamentares.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
 

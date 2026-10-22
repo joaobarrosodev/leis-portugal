@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16200/17431744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4be6d32346c09952cbb037cfcc2d1529fcf64ba07ba0270b1cd16ff6418b9f72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab5076e6328cf3b823bbe99736df8645b220e904667c980121b48f685ba3c80b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto de Santa Catarina
+- Criação de Serviços
+- Funchal
+- Gabinete do Aeroporto de Santa Catarina
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:392016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:681593:por
+  label: "Alterado o art. 8º pelo DEC LEI.272/91.07.08.1991.MPLAT, DR.IS-A [180] de 07.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1991-681593
+  date: '1991-08-07'
+- type: amended_by
+  target: pt:dre:392016:por
+  label: Extinto o Gabinete para os Aeroportos da Região Autónoma da Madeira, assim designado pelo Dec Lei 137/86, de 12-jun,
+    criado como Gabinete do Aeroporto de Santa Catarina pelo presente diploma pelo(a) Decreto-Lei n.º 453/91 - Diário da República
+    n.º 285/1991, Série I-A de 1991-12-11, que determinou a transferência para a ANAM, S. A. da universalidade de direitos
+    e obrigações de que o GARAM seja titular.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/453-1991-392016
+  date: '1991-12-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:53Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +116,13 @@ Ouvidos os órgãos do Governo Regional da Madeira:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado, com carácter eventual, o Gabinete do Aeroporto de Santa Catarina, com personalidade jurídica e autonomia administrativa.
+Artigo 1.º - 1 - É criado, com carácter eventual, o Gabinete do Aeroporto de Santa Catarina, com personalidade jurídica e autonomia administrativa.
 
 2 - O Gabinete do Aeroporto de Santa Catarina ficará na dependência directa do Ministro das Finanças e do Plano.
 
-###### Art. 2.º O Gabinete terá as suas instalações principais na Região Autónoma da Madeira.
+Art. 2.º O Gabinete terá as suas instalações principais na Região Autónoma da Madeira.
 
-###### Art. 3.º O Gabinete do Aeroporto de Santa Catarina tem por fim a gestão técnica e financeira do empreendimento, competindo-lhe, nomeadamente:
+Art. 3.º O Gabinete do Aeroporto de Santa Catarina tem por fim a gestão técnica e financeira do empreendimento, competindo-lhe, nomeadamente:
 
 a) Promover a elaboração de todos os estudos que se tornem necessários para a realização da obra ou com ela relacionados;
 
@@ -120,27 +138,27 @@ f) Promover o pagamento das despesas;
 
 g) Promover o estudo do futuro regime de exploração do conjunto do empreendimento.
 
-###### Art. 4.º - 1 - O Gabinete será constituído por um director, dois subdirectores e um secretário.
+Art. 4.º - 1 - O Gabinete será constituído por um director, dois subdirectores e um secretário.
 
 2 - O director designará, por despacho, um dos subdirectores para o substituir nas suas falhas e impedimentos.
 
 3 - O director, os subdirectores e o secretário constituirão o conselho administrativo do Gabinete.
 
-###### Art. 5.º - 1 - O director e os subdirectores serão nomeados pelo Ministro da tutela. O director será da livre escolha daquele Ministro e os subdirectores serão indicados um pelo Presidente do Governo Regional da Madeira e outro pelo Ministro dos Transportes e Comunicações.
+Art. 5.º - 1 - O director e os subdirectores serão nomeados pelo Ministro da tutela. O director será da livre escolha daquele Ministro e os subdirectores serão indicados um pelo Presidente do Governo Regional da Madeira e outro pelo Ministro dos Transportes e Comunicações.
 
 2 - O secretário é igualmente nomeado pelo Ministro da tutela, competindo-lhe superintender nos serviços administrativos e de expediente do Gabinete e coordenar os estudos dos problemas de carácter financeiro.
 
-###### Art. 6.º O Gabinete poderá solicitar assistência a entidades públicas ou privadas para a prossecução das atribuições que lhe estão cometidas.
+Art. 6.º O Gabinete poderá solicitar assistência a entidades públicas ou privadas para a prossecução das atribuições que lhe estão cometidas.
 
-###### Art. 7.º - 1 - O director, os subdirectores e o secretário poderão exercer as suas funções em regime de comissão de serviço.
+Art. 7.º - 1 - O director, os subdirectores e o secretário poderão exercer as suas funções em regime de comissão de serviço.
 
 2 - Se for julgado conveniente, aquelas funções poderão ser exercidas em acumulação com outro cargo ou cargos que estejam desempenhando.
 
-###### Art. 8.º O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Governo Regional da Madeira, pelo Ministério das Finanças e do Plano ou por outros Ministérios interessados.
+Art. 8.º O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Governo Regional da Madeira, pelo Ministério das Finanças e do Plano ou por outros Ministérios interessados.
 
-###### Art. 9.º Os vencimentos ou gratificações dos membros do Gabinete e do pessoal a ele afecto serão fixados por despacho do Ministro da tutela.
+Art. 9.º Os vencimentos ou gratificações dos membros do Gabinete e do pessoal a ele afecto serão fixados por despacho do Ministro da tutela.
 
-###### Art. 10.º - 1 - As despesas do Gabinete serão suportadas por verbas especialmente inscritas no orçamento do Ministério das Finanças e do Plano.
+Art. 10.º - 1 - As despesas do Gabinete serão suportadas por verbas especialmente inscritas no orçamento do Ministério das Finanças e do Plano.
 
 2 - Mediante processo de alteração do orçamento vigente, transitarão para o Gabinete no presente ano económico as verbas para o efeito necessárias.
 
@@ -148,14 +166,14 @@ g) Promover o estudo do futuro regime de exploração do conjunto do empreendime
 
 4 - As importâncias referidas no número anterior serão depositadas à ordem do Gabinete na Caixa Geral de Depósitos, devendo a respectiva conta ser movimentada por meio de cheques, que terão obrigatoriamente as assinaturas do director e do secretário ou, em caso de impedimento, dos seus substitutos.
 
-###### Art. 11.º O Gabinete prestará anualmente contas da sua gerência ao Tribunal de Contas.
+Art. 11.º O Gabinete prestará anualmente contas da sua gerência ao Tribunal de Contas.
 
-###### Art. 12.º As dúvidas de interpretação e de aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 12.º As dúvidas de interpretação e de aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Julho de 1981.**
+Promulgado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

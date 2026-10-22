@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1972-665127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 425cc84c3aebff9c13cc2667282c1af672905433cc59ffe0e3ac19652896bac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8bbeebe8afea5ad9004bfee1f57aee4414cd5c3fe3cefba1f594f16c49c3fa3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério das Corporações e Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:258350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:27Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +121,11 @@ Nestes termos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Passa a denominar-se Direcção-Geral da Previdência a Direcção-Geral da Previdência e Habitações Económicas, criada pelo [Decreto-Lei n.º 37444](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37444-1949-258350), de 27 de Dezembro de 1948.
+Artigo 1.º - 1. Passa a denominar-se Direcção-Geral da Previdência a Direcção-Geral da Previdência e Habitações Económicas, criada pelo [Decreto-Lei n.º 37444](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37444-1949-258350), de 27 de Dezembro de 1948.
 
 2. Os serviços da Direcção-Geral da Previdência serão reorganizados no prazo máximo de sessenta dias a contar da data da publicação deste diploma.
 
-###### Art. 2.º - 1. É extinta a Direcção de Serviços da Habitação Económica da Direcção-Geral da Previdência e Habitações Económicas, criada pelo [Decreto-Lei n.º 47193](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47193-1966-480496), de 10 de Setembro de 1966, transitando para o Fundo de Fomento da Habitação, dependente da Secretaria de Estado de Urbanismo e Habitação, os seguintes serviços:
+Art. 2.º - 1. É extinta a Direcção de Serviços da Habitação Económica da Direcção-Geral da Previdência e Habitações Económicas, criada pelo [Decreto-Lei n.º 47193](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47193-1966-480496), de 10 de Setembro de 1966, transitando para o Fundo de Fomento da Habitação, dependente da Secretaria de Estado de Urbanismo e Habitação, os seguintes serviços:
 
 a) O Serviço de Inquéritos Habitacionais;
 
@@ -122,28 +143,28 @@ d) Os serviços da 3.ª Repartição, na parte respeitante à administração do
 
 5. Cessa a competência notarial para a celebração de actos de transmissão de propriedade de casas económicas conferida no chefe do serviço do Contencioso e Notariado em relação ao distrito de Lisboa e aos delegados do Instituto Nacional do Trabalho e Previdência nos restantes distritos.
 
-###### Art. 3.º - 1. É extinta a Habitações Económicas - Federação de Caixas de Previdência, criada ao abrigo do disposto no § 3.º do artigo 11.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, por portaria publicada no Diário do Governo, 2.ª série, n.º 137, de 15 de Junho do mesmo ano.
+Art. 3.º - 1. É extinta a Habitações Económicas - Federação de Caixas de Previdência, criada ao abrigo do disposto no § 3.º do artigo 11.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, por portaria publicada no Diário do Governo, 2.ª série, n.º 137, de 15 de Junho do mesmo ano.
 
 2. O pessoal da Federação será transferido, nos termos a definir por despacho do Ministro das Corporações e Previdência Social, para os quadros da Caixa Nacional de Pensões e da Comissão dos Edifícios Dependentes do Ministério das Corporações e Previdência Social.
 
 3. A transferência prevista no n.º 2 far-se-á sem prejuízo dos anteriores direitos e regalias dos empregados.
 
-###### Art. 4.º - 1. É extinta no Conselho Superior da Acção Social, criado pelo [Decreto-Lei n.º 446/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1970-666343), de 23 de Setembro, a 5.ª Subsecção - Habitação Económica - da 3.ª Secção, referida na alínea d) do artigo 2.º daquele diploma.
+Art. 4.º - 1. É extinta no Conselho Superior da Acção Social, criado pelo [Decreto-Lei n.º 446/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1970-666343), de 23 de Setembro, a 5.ª Subsecção - Habitação Económica - da 3.ª Secção, referida na alínea d) do artigo 2.º daquele diploma.
 
 2. A actual 6.ª Subsecção da 3.ª Secção passa a designar-se «5.ª Subsecção - Serviço Social e Desenvolvimento Comunitário».
 
-###### Art. 5.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho conjunto dos Ministros das Obras Públicas e das Corporações e Previdência Social.
+Art. 5.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho conjunto dos Ministros das Obras Públicas e das Corporações e Previdência Social.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 29 de Dezembro de 1972.**
+Promulgado em 29 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o 2 do artigo 2.º do Decreto-Lei n.º 587/72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30200/21362137.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30200/21362137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30200/21362137.pdf)
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

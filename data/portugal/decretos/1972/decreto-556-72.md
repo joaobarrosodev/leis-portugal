@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3df5b60a4488e0476c3d85cdc4e03fe39316bc84f272601cc219594509ed319e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15400017b3139f096b31b81bfb3403aae415513a01de9ae62404e25ab6681344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Estágio de Formação
+- Formas de Provimento
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:317132:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686602:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:336739:por
+  label: Revogada a al. c) do n.º 1 do art. 5.º pelo(a) Decreto n.º 345/75 - Diário do Governo n.º 151/1975, Série I de 1975-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/345-1975-336739
+  date: '1975-07-03'
+- type: repealed_by
+  target: pt:dre:317132:por
+  label: "Revogada a al. b) do nº 1 do art. 5º e os nºs 2 e 3 na parte respeitante aos estagiários para ajudante de experimentador\
+    \ pelo DEC LEI.117-C/76.1976.02.09.MES DG.IS [33]Supl/\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-c-1976-317132
+  date: '1976-02-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:28Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +133,19 @@ Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 468/72](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Aos concursos de admissão aos estágios poderão ser admitidos, se assim convier, indivíduos que tenham concluído a parte escolar dos respectivos cursos.
+Artigo 1.º - 1. Aos concursos de admissão aos estágios poderão ser admitidos, se assim convier, indivíduos que tenham concluído a parte escolar dos respectivos cursos.
 
 2. Aos concursos de admissão a estágio para ajudante de experimentador poderão apresentar-se, consoante for indicado em cada concurso, de harmonia com a natureza das funções a exercer, os indivíduos com determinados cursos industriais de formação profissional ou com o curso geral dos liceus ou habilitações equivalentes.
 
-###### Art. 2.º A nomeação dos estagiários do Laboratório Nacional de Engenharia Civil é feita por despacho do Ministro das Obras Públicas sobre o plano de admissões elaborado após cada concurso.
+Art. 2.º A nomeação dos estagiários do Laboratório Nacional de Engenharia Civil é feita por despacho do Ministro das Obras Públicas sobre o plano de admissões elaborado após cada concurso.
 
-###### Art. 3.º - 1. Os estagiários para especialista têm de candidatar-se a obtenção de certificado de estágio através de concurso aberto no período que decorre entre três e quatro anos e meio de estágio efectivo. Todavia, só serão obrigados a apresentar-se a determinado concurso aberto naquele intervalo de tempo os estagiários para especialista que forem nominalmente mencionados no anúncio de abertura desse concurso e que à data do seu encerramento tenham pelo menos quatro anos e meio de estágio efectivo.
+Art. 3.º - 1. Os estagiários para especialista têm de candidatar-se a obtenção de certificado de estágio através de concurso aberto no período que decorre entre três e quatro anos e meio de estágio efectivo. Todavia, só serão obrigados a apresentar-se a determinado concurso aberto naquele intervalo de tempo os estagiários para especialista que forem nominalmente mencionados no anúncio de abertura desse concurso e que à data do seu encerramento tenham pelo menos quatro anos e meio de estágio efectivo.
 
 2. Os estagiários para experimentador, ajudante de experimentador e desenhador são obrigados a apresentar-se ao primeiro concurso para obtenção de certificado de estágio da respectiva categoria cuja abertura ocorra após um período de estágio efectivo de dois anos. Podem, no entanto, apresentar-se a concurso anteriormente aberto, desde que à data do encerramento deste concurso tenham, pelo menos, dois anos de estágio efectivo.
 
 3. Só serão admitidos aos concursos a que se referem os números anteriores os indivíduos que apresentem o diploma das habilitações exigidas na lei para admissão a estágio ou documento comprovativo de situação escolar para a qual sejam exigidas aquelas habilitações.
 
-###### Art. 4.º - 1. Serão excluídos da frequência do estágio os estagiários que se não apresentem aos concursos a que forem obrigados nos termos do artigo anterior e os estagiários que não forem aprovados em concurso a que tenham sido admitidos definitivamente, salvo o disposto no número seguinte.
+Art. 4.º - 1. Serão excluídos da frequência do estágio os estagiários que se não apresentem aos concursos a que forem obrigados nos termos do artigo anterior e os estagiários que não forem aprovados em concurso a que tenham sido admitidos definitivamente, salvo o disposto no número seguinte.
 
 2. O estágio de quem, por estar impedido por serviço militar obrigatório, não compareça às provas de concurso a que tenha sido definitivamente admitido ou não se apresente a concurso a que seja obrigado à data de início da prestação daquele serviço prolongar-se-á após o termo daquele impedimento. Em tal hipótese o estagiário poderá apresentar-se a concurso que eventualmente se encontre aberto aquando do seu regresso do serviço militar, mas, no caso de assim não acontecer, será obrigado a apresentar-se ao primeiro concurso que, entretanto, se tenha aberto.
 
@@ -114,7 +155,7 @@ a) Da lista definitiva dos candidatos admitidos a concurso, se o estagiário for
 
 b) Da lista de classificação do concurso a que o estagiário tiver sido admitido, se nele não obtiver aprovação.
 
-###### Art. 5.º - 1. Serão recrutados por concurso de provas documentais e práticas os indivíduos que preencherão os lugares de:
+Art. 5.º - 1. Serão recrutados por concurso de provas documentais e práticas os indivíduos que preencherão os lugares de:
 
 a) Experimentador-chefe, a cujo concurso poderão apresentar-se os experimentadores que contem, pelo menos, seis anos de bom e efectivo serviço no quadro, nesta categoria;
 
@@ -130,7 +171,7 @@ b) Desenhador principal, a cujo concurso serão submetidos os desenhadores de 1.
 
 3. Serão recrutados por concurso de provas práticas, sem prejuízo do disposto na alínea b) do artigo 6.º, os indivíduos que preencherão os lugares de mestre, a cujo concurso se poderão apresentar candidatos de especialização adequada possuindo larga prática profissional e habilitados com o curso de uma escola industrial, independentemente do limite de idade legal estabelecido pelo artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929.
 
-###### Art. 6.º Serão recrutados por escolha os indivíduos que preencherão os lugares de:
+Art. 6.º Serão recrutados por escolha os indivíduos que preencherão os lugares de:
 
 a) Mestre geral, entre os mestres do Laboratório com, pelo menos, quatro anos de serviço no quadro, ou, se for julgado conveniente, dadas as funções a desempenhar, por concurso de provas práticas entre candidatos de especialização adequada possuindo larga prática profissional e habilitados com o curso de uma escola industrial, independentemente do limite de idade legal;
 
@@ -138,16 +179,16 @@ b) Mestre, no caso de o domínio de especialização ser o desenho, entre os des
 
 c) Chefes de secção, quando os candidatos forem habilitados com curso superior de natureza adequada às necessidades do serviço.
 
-###### Art. 7.º - 1. Enquanto não for publicada nova regulamentação dos concursos de promoção a experimentador de 1.ª classe aplicar-se-á o regulamento aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, com adaptação correspondente a eliminação das provas práticas.
+Art. 7.º - 1. Enquanto não for publicada nova regulamentação dos concursos de promoção a experimentador de 1.ª classe aplicar-se-á o regulamento aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, com adaptação correspondente a eliminação das provas práticas.
 
 2. A obrigatoriedade de apresentação a concurso para obtenção de certificado de estágio por parte dos estagiários para especialista que, nos termos do § 1.º do artigo 25.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, são candidatos obrigatórios a um dos concursos que se encontram em curso mantém-se, mas sòmente em relação aos estagiários que contem, pelo menos, quatro anos e meio de estágio efectivo à data do encerramento desse concurso.
 
-###### Art. 8.º São revogados o § 2.º do artigo 23.º, os §§ 1.º e 2.º do artigo 25.º e os artigos 34.º, 36.º, 45.º, 46.º e 52.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, os artigos 10.º, 13.º, 17.º, 18.º e 19.º do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967, e o artigo 3.º do [Decreto-Lei n.º 55/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1971-447137), de 26 de Fevereiro.
+Art. 8.º São revogados o § 2.º do artigo 23.º, os §§ 1.º e 2.º do artigo 25.º e os artigos 34.º, 36.º, 45.º, 46.º e 52.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, os artigos 10.º, 13.º, 17.º, 18.º e 19.º do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967, e o artigo 3.º do [Decreto-Lei n.º 55/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1971-447137), de 26 de Fevereiro.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 13 de Dezembro de 1972.**
+Promulgado em 13 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

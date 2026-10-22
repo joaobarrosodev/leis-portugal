@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 261/1971, 1º Suplemento, Série I de 1971-11-06
   number: '261'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1698-(1) a 1698-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/11/26101/00010007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d501ba5bff9152dd91041d578bc08007e8fe98bd028b3995a813595dda1e6cfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7608dc1c3864b22f1b09cd820b23c1895926d8f013c177867feb20776d91708b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Banco de Portugal
+- CABO Verde.Colónia Portuguesa
+- Circulação de Capitais
+- Circulação de Mercadorias
+- Conselho de Ministros para os Assuntos Económicos
+- Definição de Competências
+- Exportação de Capitais
+- Fundo Cambial
+- Fundo Monetário da ZONA do Escudo
+- Gestão Financeira
+- Importação de Capitais
+- Inspecção Provincial de Crédito e Seguros
+- Macau.Colónia Portuguesa
+- Mercado Cambial
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Operação Cambial
+- Política Financeira
+- Timor.Colónia Portuguesa
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:471137:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:237465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643948:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471137:por
+  label: "Revogado pelo DEC LEI.317/80.20.08.1980.MFP, DR.IS [191] de 20.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-1980-471137
+  date: '1980-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:33Z'
   warnings: []
   errors: []
 ---
@@ -151,13 +189,13 @@ I
 
 Orientação da política monetária, cambial e de crédito
 
-###### Artigo 1.º - 1. No Conselho de Ministros para os Assuntos Económicos funcionará uma secção destinada a coordenar e orientar a política monetária, cambial e de crédito dos vários territórios nacionais (secção de Política monetária).
+Artigo 1.º - 1. No Conselho de Ministros para os Assuntos Económicos funcionará uma secção destinada a coordenar e orientar a política monetária, cambial e de crédito dos vários territórios nacionais (secção de Política monetária).
 
 2. Às reuniões dessa secção presidirá o Presidente do Conselho de Ministros e a elas assistirão o Ministro das Finanças, o Ministro da Economia, o Ministro do Ultramar e os governadores dos bancos emissores.
 
 3. O Presidente do Conselho, quando entender necessário, convocará para as reuniões quaisquer outros membros do Governo, os governadores das províncias ultramarinas e quaisquer funcionários ou técnicos que entenda devam ser ouvidos.
 
-###### Art. 2.º - 1. A secção de Política monetária tem por funções:
+Art. 2.º - 1. A secção de Política monetária tem por funções:
 
 a) Apreciar os problemas monetários, cambiais e de crédito do espaço português e de cada um dos territórios que o integram;
 
@@ -171,13 +209,13 @@ II
 
 Da moeda nas províncias ultramarinas
 
-###### Art. 3.º - 1. A unidade monetária de cada uma das províncias ultramarinas é o escudo.
+Art. 3.º - 1. A unidade monetária de cada uma das províncias ultramarinas é o escudo.
 
 2. Em cada província ultramarina haverá emissão própria, quer de moeda metálica cunhada pela província, quer de notas, emitidas pelo respectivo banco emissor.
 
 3. Em cada província ultramarina só as notas nela emitidas gozam de poder liberatório ilimitado.
 
-###### Art. 4.º - 1. Os contratos e obrigações entre residentes da mesma província devem ser expressos na moeda dessa província.
+Art. 4.º - 1. Os contratos e obrigações entre residentes da mesma província devem ser expressos na moeda dessa província.
 
 2. Exceptuam-se os casos em que um dos contraentes seja uma instituição autorizada a exercer o comércio de câmbios e se trate de operação cambial ou de pagamentos interterritoriais, nos termos da lei.
 
@@ -185,7 +223,7 @@ III
 
 Dos fundos cambiais ultramarinos
 
-###### Art. 5.º - 1. Os fundos cambiais ultramarinos são dotados de personalidade jurídica e a sua gestão compete, em Angola e Moçambique, a um administrador nomeado pela secção de Política monetária do Conselho de Ministros para os Assuntos Económicos; nas outras províncias ultramarinas, à Inspecção do Comércio Bancário, nos termos a definir em diploma regulamentar.
+Art. 5.º - 1. Os fundos cambiais ultramarinos são dotados de personalidade jurídica e a sua gestão compete, em Angola e Moçambique, a um administrador nomeado pela secção de Política monetária do Conselho de Ministros para os Assuntos Económicos; nas outras províncias ultramarinas, à Inspecção do Comércio Bancário, nos termos a definir em diploma regulamentar.
 
 2. Na província de Macau as funções atribuídas por lei ao Fundo Cambial serão exercidas pelo banco emissor.
 
@@ -195,7 +233,7 @@ Dos fundos cambiais ultramarinos
 
 5. As inspecções provinciais de crédito e seguros e os bancos emissores ultramarinos prestarão aos administradores dos fundos cambiais toda a colaboração necessária ao bom desempenho das suas funções.
 
-###### Art. 6.º - 1. Os bancos emissores ultramarinos exercerão, nos termos do presente decreto-lei e diplomas que o regulamentarem, e ainda dos contratos com o Estado, as funções de exclusivos agentes e banqueiros dos fundos cambiais das províncias em que exercem o privilégio da emissão.
+Art. 6.º - 1. Os bancos emissores ultramarinos exercerão, nos termos do presente decreto-lei e diplomas que o regulamentarem, e ainda dos contratos com o Estado, as funções de exclusivos agentes e banqueiros dos fundos cambiais das províncias em que exercem o privilégio da emissão.
 
 2. Os fundos cambiais terão contabilidade separada nos bancos emissores ultramarinos, nos termos a definir em diploma regulamentar.
 
@@ -205,7 +243,7 @@ Dos fundos cambiais ultramarinos
 
 5. Poderá o Banco de Portugal solicitar aos administradores dos fundos cambiais e às inspecções do comércio bancário o envio de cópias desses elementos e documentação.
 
-###### Art. 7.º - 1. Como caixa central de reserva da província, compete ao fundo cambial, em especial, assegurar a liquidação das operações cambiais requeridas pela economia da província e a regularidade dos pagamentos entre a mesma província e os outros territórios nacionais, de acordo com as normas reguladoras respectivas.
+Art. 7.º - 1. Como caixa central de reserva da província, compete ao fundo cambial, em especial, assegurar a liquidação das operações cambiais requeridas pela economia da província e a regularidade dos pagamentos entre a mesma província e os outros territórios nacionais, de acordo com as normas reguladoras respectivas.
 
 2. Os fundos cambiais são obrigados a adquirir o ouro amoedado ou em barra, a moeda estrangeira e os meios de pagamento sobre outros territórios nacionais que, para tal fim, lhes sejam oferecidos pelas instituições de crédito autorizadas a exercer o comércio de câmbios na respectiva província, bem como a vender às referidas instituições a moeda estrangeira e os meios de pagamento sobre outros territórios nacionais que forem indispensáveis para assegurar a liquidação das operações cambiais e de pagamentos interterritoriais requeridos pela economia da província.
 
@@ -215,69 +253,69 @@ a) A adquirir ou vender moedas estrangeiras, relativamente às quais não esteja
 
 b) A adquirir haveres ou valores que não forem pagáveis à vista ou em prazo igual ou inferior a cento e oitenta dias.
 
-###### Art. 8.º Os fundos cambiais poderão ser obrigados a constituir, nos termos e prazos que a secção de Política monetária determinar, uma reserva constituída pela retenção de certa percentagem das coberturas em moeda estrangeira ou em meios de pagamento que adquirirem, a qual, enquanto existirem pagamentos no exterior por efectuar, será afectada à respectiva liquidação.
+Art. 8.º Os fundos cambiais poderão ser obrigados a constituir, nos termos e prazos que a secção de Política monetária determinar, uma reserva constituída pela retenção de certa percentagem das coberturas em moeda estrangeira ou em meios de pagamento que adquirirem, a qual, enquanto existirem pagamentos no exterior por efectuar, será afectada à respectiva liquidação.
 
-###### Art. 9.º O Banco de Portugal deverá cotar as moedas que interessem a qualquer dos territórios nacionais, de acordo com a orientação que receber da secção de Política monetária do Conselho de Ministros para os Assuntos Económicos.
+Art. 9.º O Banco de Portugal deverá cotar as moedas que interessem a qualquer dos territórios nacionais, de acordo com a orientação que receber da secção de Política monetária do Conselho de Ministros para os Assuntos Económicos.
 
-###### Art. 10.º Os bancos emissores ultramarinos continuam obrigados a constituir a sua reserva monetária nos termos da lei e dos contratos com o Estado.
+Art. 10.º Os bancos emissores ultramarinos continuam obrigados a constituir a sua reserva monetária nos termos da lei e dos contratos com o Estado.
 
-###### Art. 11.º Os bancos emissores ultramarinos, nas províncias em que exercem o privilégio da emissão, não podem aceitar, a fim de as transferir para o estrangeiro ou para qualquer outro território nacional, importância em moeda local a que não possam garantir cobertura imediata na praça de destino.
+Art. 11.º Os bancos emissores ultramarinos, nas províncias em que exercem o privilégio da emissão, não podem aceitar, a fim de as transferir para o estrangeiro ou para qualquer outro território nacional, importância em moeda local a que não possam garantir cobertura imediata na praça de destino.
 
 IV
 
 Do sistema de compensação interterritorial e do Fundo Monetário da Zona do Escudo
 
-###### Art. 12.º - 1. A regularização multilateral dos saldos das balanças de pagamentos interterritoriais dos vários territórios nacionais será assegurada mediante o sistema de compensação interterritorial do espaço português.
+Art. 12.º - 1. A regularização multilateral dos saldos das balanças de pagamentos interterritoriais dos vários territórios nacionais será assegurada mediante o sistema de compensação interterritorial do espaço português.
 
 2. Fazem parte do sistema de compensação interterritorial o Banco de Portugal e os fundos cambiais das províncias ultramarinas, ou, no caso de Macau, o respectivo banco emissor.
 
 3. O Banco de Portugal exerce, nos termos da lei e dos estatutos e de harmonia com os contratos com o Estado e sob a orientação da secção de Política monetária do Conselho de Ministros para os Assuntos Económicos, as funções de agente do sistema de compensação interterritorial.
 
-###### Art. 13.º O Banco de Portugal e os fundos cambiais ultramarinos conceder-se-ão mùtuamente crédito, dentro das margens estabelecidas na lei, de modo a assegurar em cada província ultramarina o funcionamento regular do mercado de meios de pagamento sobre os outros territórios nacionais.
+Art. 13.º O Banco de Portugal e os fundos cambiais ultramarinos conceder-se-ão mùtuamente crédito, dentro das margens estabelecidas na lei, de modo a assegurar em cada província ultramarina o funcionamento regular do mercado de meios de pagamento sobre os outros territórios nacionais.
 
-###### Art. 14.º - 1. A unidade de conta do sistema de compensação interterritorial é o escudo.
+Art. 14.º - 1. A unidade de conta do sistema de compensação interterritorial é o escudo.
 
 2. As posições líquidas apuradas nas contas de compensação serão regularizadas em escudos metropolitanos.
 
-###### Art. 15.º - 1. No fim de cada mês o Banco de Portugal determinará a posição líquida da conta de compensação de cada fundo cambial.
+Art. 15.º - 1. No fim de cada mês o Banco de Portugal determinará a posição líquida da conta de compensação de cada fundo cambial.
 
 2. A posição líquida determinada nos termos do número anterior será regularizada por transferência de ou para a conta do respectivo fundo cambial no Banco de Portugal.
 
-###### Art. 16.º - 1. O Fundo Monetário da Zona do Escudo tem por função apoiar o funcionamento do sistema de compensação interterritorial e conceder aos fundos cambiais das províncias ultramarinas empréstimos destinados a assegurar a regularidade dos pagamentos externos dessas províncias quando afectada por virtude de desequilíbrios temporários.
+Art. 16.º - 1. O Fundo Monetário da Zona do Escudo tem por função apoiar o funcionamento do sistema de compensação interterritorial e conceder aos fundos cambiais das províncias ultramarinas empréstimos destinados a assegurar a regularidade dos pagamentos externos dessas províncias quando afectada por virtude de desequilíbrios temporários.
 
 2. O Banco de Portugal é o agente do Fundo Monetário da Zona do Escudo e o depositário dos seus haveres nos termos do contrato com o Estado.
 
-###### Art. 17.º Diploma regulamentar modificará a estrutura e o funcionamento do Fundo, de modo a adaptá-lo às disposições do presente decreto-lei.
+Art. 17.º Diploma regulamentar modificará a estrutura e o funcionamento do Fundo, de modo a adaptá-lo às disposições do presente decreto-lei.
 
 V
 
 Do comércio de câmbios e dos pagamentos interterritoriais
 
-###### Art. 18.º - 1. Só os bancos emissores ultramarinos e os bancos comerciais autorizados a exercer o comércio de câmbios nas províncias ultramarinas podem ter abertas em seu nome contas em estabelecimentos de crédito domiciliados no estrangeiro ou em qualquer outro território nacional.
+Art. 18.º - 1. Só os bancos emissores ultramarinos e os bancos comerciais autorizados a exercer o comércio de câmbios nas províncias ultramarinas podem ter abertas em seu nome contas em estabelecimentos de crédito domiciliados no estrangeiro ou em qualquer outro território nacional.
 
 2. Além das instituições mencionadas no número anterior, podem ter contas em estabelecimentos de crédito domiciliados no estrangeiro ou em qualquer outro território nacional os bancos de investimento, os institutos de crédito do Estado e os estabelecimentos especiais de crédito, para operações necessárias ao exercício das suas funções de crédito, e ainda os residentes nas províncias expressamente autorizados pela inspecção de crédito e seguros ou do comércio bancário da respectiva província.
 
-###### Art. 19.º Os residentes nas províncias que, sem para isso estarem devidamente autorizados, possuam disponibilidades em moeda estrangeira ou em escudos metropolitanos devem vendê-las ao fundo cambial.
+Art. 19.º Os residentes nas províncias que, sem para isso estarem devidamente autorizados, possuam disponibilidades em moeda estrangeira ou em escudos metropolitanos devem vendê-las ao fundo cambial.
 
-###### Art. 20.º O Ministro do Ultramar promoverá a oportuna revisão dos regimes cambiais excepcionais, de modo a submeter os respectivos beneficiários ao regime cambial comum.
+Art. 20.º O Ministro do Ultramar promoverá a oportuna revisão dos regimes cambiais excepcionais, de modo a submeter os respectivos beneficiários ao regime cambial comum.
 
-###### Art. 21.º - 1. Os bancos emissores ultramarinos e os bancos comerciais autorizados a exercer o comércio de câmbios nas províncias ultramarinas podem deter nas suas caixas notas e moedas metálicas com curso legal em países estrangeiros ou noutro território nacional.
+Art. 21.º - 1. Os bancos emissores ultramarinos e os bancos comerciais autorizados a exercer o comércio de câmbios nas províncias ultramarinas podem deter nas suas caixas notas e moedas metálicas com curso legal em países estrangeiros ou noutro território nacional.
 
 2. Os bancos emissores ultramarinos e os bancos comerciais podem abrir nos seus livros contas expressas em moeda da província à ordem de residentes no estrangeiro ou em qualquer outro território nacional, a movimentar nos termos da lei.
 
-###### Art. 22.º - 1. Os bancos comerciais autorizados a exercer o comércio de câmbios nas províncias podem abrir nos seus livros contas à ordem ou a prazo expressas em moeda estrangeira em nome de residentes na província ou no estrangeiro.
+Art. 22.º - 1. Os bancos comerciais autorizados a exercer o comércio de câmbios nas províncias podem abrir nos seus livros contas à ordem ou a prazo expressas em moeda estrangeira em nome de residentes na província ou no estrangeiro.
 
 2. A abertura destas contas fica sujeita a autorização especial da inspecção de crédito e seguros ou do comércio bancário.
 
-###### Art. 23.º Os bancos emissores, os bancos comerciais e as casas de câmbio poderão efectuar entre si a cedência recíproca de notas e moedas metálicas que estejam autorizados a comprar e vender.
+Art. 23.º Os bancos emissores, os bancos comerciais e as casas de câmbio poderão efectuar entre si a cedência recíproca de notas e moedas metálicas que estejam autorizados a comprar e vender.
 
-###### Art. 24.º Em cada província ultramarina os bancos comerciais podem adquirir e vender ao fundo cambial moeda estrangeira e meios de pagamento sobre outros territórios nacionais, nas condições a definir em diploma regulamentar.
+Art. 24.º Em cada província ultramarina os bancos comerciais podem adquirir e vender ao fundo cambial moeda estrangeira e meios de pagamento sobre outros territórios nacionais, nas condições a definir em diploma regulamentar.
 
-###### Art. 25.º - 1. O Ministro do Ultramar, em circunstâncias especiais da conjuntura cambial, e sob parecer da competente inspecção de crédito e seguros ou do comércio bancário, pode determinar a transferência para o fundo cambial de toda ou parte das disponibilidades em moeda estrangeira ou em meios de pagamento sobre outros territórios nacionais detidos pelos bancos comerciais, contra a entrega do correspondente contravalor em escudos com curso legal na província.
+Art. 25.º - 1. O Ministro do Ultramar, em circunstâncias especiais da conjuntura cambial, e sob parecer da competente inspecção de crédito e seguros ou do comércio bancário, pode determinar a transferência para o fundo cambial de toda ou parte das disponibilidades em moeda estrangeira ou em meios de pagamento sobre outros territórios nacionais detidos pelos bancos comerciais, contra a entrega do correspondente contravalor em escudos com curso legal na província.
 
 2. O Ministro do Ultramar pode determinar que as instituições autorizadas a exercer o comércio de câmbios entreguem ao fundo cambial, contra escudos com curso legal na província, até 20 por cento das divisas ou meios de pagamento sobre outros territórios nacionais que adquiram a residentes ou domiciliados na província. A entrega deve ser feita no dia imediato àquele em que os valores se tornarem líquidos.
 
-###### Art. 26.º É vedado às instituições de crédito autorizadas a exercer o comércio de câmbios:
+Art. 26.º É vedado às instituições de crédito autorizadas a exercer o comércio de câmbios:
 
 a) Receber ou entregar notas ou moedas metálicas estrangeiras ou com curso legal noutros territórios nacionais para liquidação de operações cambiais ou de pagamentos interterritoriais;
 
@@ -287,15 +325,15 @@ c) Conceder crédito a empresas concessionárias estrangeiras, suas filiais ou a
 
 d) Conceder créditos em moeda local garantidos por fianças ou avales de residentes no estrangeiro ou em qualquer outro território nacional, ou caucionados por títulos ou depósitos em moeda estrangeira ou em escudos de outro território nacional, ou ainda por quaisquer haveres situados no estrangeiro ou em outro território nacional, salvo autorização expressa do Ministro do Ultramar, sob parecer do administrador do fundo cambial.
 
-###### Art. 27.º As casas de câmbio só são autorizadas a exercer comércio de câmbios restrito à aquisição, detenção e venda de notas e moedas metálicas estrangeiras com curso legal nos países de emissão e à compra de cheques turísticos em moeda estrangeira e de cupões de títulos nacionais.
+Art. 27.º As casas de câmbio só são autorizadas a exercer comércio de câmbios restrito à aquisição, detenção e venda de notas e moedas metálicas estrangeiras com curso legal nos países de emissão e à compra de cheques turísticos em moeda estrangeira e de cupões de títulos nacionais.
 
-###### Art. 28.º As casas de câmbio deverão vender ao banco emissor as notas e moedas metálicas estrangeiras de que não careçam para satisfazer a procura.
+Art. 28.º As casas de câmbio deverão vender ao banco emissor as notas e moedas metálicas estrangeiras de que não careçam para satisfazer a procura.
 
 VI
 
 Das operações cambiais
 
-###### Art. 29.º - 1. Nenhum residente nas províncias ultramarinas pode efectuar liquidações cambiais ou de pagamentos interterritoriais a não ser por intermédio de instituição autorizada a exercer o comércio de câmbios, nos termos da lei.
+Art. 29.º - 1. Nenhum residente nas províncias ultramarinas pode efectuar liquidações cambiais ou de pagamentos interterritoriais a não ser por intermédio de instituição autorizada a exercer o comércio de câmbios, nos termos da lei.
 
 2. Exceptuam-se quanto aos pagamentos interterritoriais a emissão de vales de correio, que será efectuada de acordo com as instruções da Inspecção de Crédito e Seguros, no continente e ilhas adjacentes, e das inspecções de crédito e seguros ou do comércio bancário, nas províncias ultramarinas.
 
@@ -303,9 +341,9 @@ Das operações cambiais
 
 4. As instituições de crédito que efectuarem a liquidação das operações cambiais anotá-las-ão nos boletins de importação de mercadorias ou relativos a operações de invisíveis correntes e de capitais, nos termos determinados em regulamento, remetendo as folhas respectivas à inspecção de crédito e seguros ou do comércio bancário, nos quinze dias imediatos.
 
-###### Art. 30.º Os residentes nas províncias ultramarinas que exportem mercadorias ou sejam titulares de créditos em moeda estrangeira ou escudos de qualquer outro território nacional são obrigados a vendê-los, logo que se tornem exigíveis, a instituição autorizada a exercer o comércio de câmbios pleno.
+Art. 30.º Os residentes nas províncias ultramarinas que exportem mercadorias ou sejam titulares de créditos em moeda estrangeira ou escudos de qualquer outro território nacional são obrigados a vendê-los, logo que se tornem exigíveis, a instituição autorizada a exercer o comércio de câmbios pleno.
 
-###### Art. 31.º - 1. As inspecções de crédito e seguros ou do comércio bancário e as entidades competentes para efectuarem o registo prévio não podem emitir boletins para importação de mercadorias, pagamento de invisíveis ao exterior ou exportação de capitais privados, sem que esteja assegurada a respectiva cobertura.
+Art. 31.º - 1. As inspecções de crédito e seguros ou do comércio bancário e as entidades competentes para efectuarem o registo prévio não podem emitir boletins para importação de mercadorias, pagamento de invisíveis ao exterior ou exportação de capitais privados, sem que esteja assegurada a respectiva cobertura.
 
 2. A secção de Política monetária do Conselho de Ministros para os Assuntos Económicos definirá, por despacho, os critérios de prioridade a que deve obedecer a emissão dos boletins e o modo de lhes assegurar a cobertura.
 
@@ -315,52 +353,52 @@ Das operações cambiais
 
 A) Das operações de mercadorias
 
-###### Art. 32.º As operações de importação, exportação e reexportação de mercadorias entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas ao regime de registo prévio a definir em regulamento.
+Art. 32.º As operações de importação, exportação e reexportação de mercadorias entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas ao regime de registo prévio a definir em regulamento.
 
-###### Art. 33.º - 1. Ficam isentos de registo prévio os separados de bagagem, bem como a importação, exportação e reexportação de mercadorias cujo valor não exceda 2500$00.
+Art. 33.º - 1. Ficam isentos de registo prévio os separados de bagagem, bem como a importação, exportação e reexportação de mercadorias cujo valor não exceda 2500$00.
 
 2. O governador da província, sob parecer da inspecção de crédito e seguros ou do comércio bancário, pode sujeitar a registo prévio as operações referidas na parte final do número anterior.
 
-###### Art. 34.º - 1. A liquidação das importações, exportações e reexportações será obrigatòriamente efectuada, mediante a apresentação do respectivo boletim, por intermédio de instituição autorizada a exercer o comércio de câmbios pleno.
+Art. 34.º - 1. A liquidação das importações, exportações e reexportações será obrigatòriamente efectuada, mediante a apresentação do respectivo boletim, por intermédio de instituição autorizada a exercer o comércio de câmbios pleno.
 
 2. Em casos excepcionais, devidamente justificados, pode o Ministro do Ultramar autorizar a liquidação das exportações ou reexportações, com dispensa do disposto no número anterior.
 
 B) Das operações de invisíveis correntes
 
-###### Art. 35.º - 1. As operações de invisíveis correntes entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas a autorização da inspecção de crédito e seguros ou do comércio bancário.
+Art. 35.º - 1. As operações de invisíveis correntes entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas a autorização da inspecção de crédito e seguros ou do comércio bancário.
 
 2. As instituições de crédito autorizadas a exercer o comércio de câmbios pleno nas províncias ultramarinas podem adquirir cambiais ou meios de pagamento sobre outro território nacional, independentemente de autorização, sempre que a operação não exceda 100000$00.
 
 3. O governador da província, sob parecer da inspecção de crédito e seguros ou do comércio bancário, pode sujeitar a registo prévio as operações referidas no número anterior.
 
-###### Art. 36.º A liquidação das operações de invisíveis correntes será obrigatòriamente efectuada através de instituição autorizada a exercer o comércio de câmbios pleno na província, mediante a apresentação do respectivo boletim de autorização.
+Art. 36.º A liquidação das operações de invisíveis correntes será obrigatòriamente efectuada através de instituição autorizada a exercer o comércio de câmbios pleno na província, mediante a apresentação do respectivo boletim de autorização.
 
 C) Das operações de capitais
 
-###### Art. 37.º - 1. As operações de importação e exportação de capitais privados, entre uma província ultramarina e o estrangeiro ou outro território nacional, carecem de autorização do administrador do fundo cambial.
+Art. 37.º - 1. As operações de importação e exportação de capitais privados, entre uma província ultramarina e o estrangeiro ou outro território nacional, carecem de autorização do administrador do fundo cambial.
 
 2. Quando o valor da operação exceder 10000 ou 50000 contos, respectivamente, a autorização está sujeita a homologação do governador da província ou do Ministro do Ultramar.
 
-###### Art. 38.º A liquidação das operações de importação e exportação de capitais privados só pode ser efectuada através de instituição autorizada a exercer o comércio de câmbios pleno, mediante a apresentação do respectivo boletim de autorização.
+Art. 38.º A liquidação das operações de importação e exportação de capitais privados só pode ser efectuada através de instituição autorizada a exercer o comércio de câmbios pleno, mediante a apresentação do respectivo boletim de autorização.
 
 VII
 
 Disposições gerais e transitórias
 
-###### Art. 39.º O Governo, pelos Ministérios competentes, fará publicar os diplomas necessários à regulamentação e execução do presente decreto-lei; promoverá a revisão dos contratos com os bancos emissores ultramarinos e da sua legislação complementar; promoverá a solução para as transferências efectuadas através do sistema de compensação interterritorial que ficarem sem cobertura.
+Art. 39.º O Governo, pelos Ministérios competentes, fará publicar os diplomas necessários à regulamentação e execução do presente decreto-lei; promoverá a revisão dos contratos com os bancos emissores ultramarinos e da sua legislação complementar; promoverá a solução para as transferências efectuadas através do sistema de compensação interterritorial que ficarem sem cobertura.
 
-###### Art. 40.º As transgressões ao disposto no presente decreto-lei e aos diplomas e despachos publicados para sua regulamentação e execução são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 40.º As transgressões ao disposto no presente decreto-lei e aos diplomas e despachos publicados para sua regulamentação e execução são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-###### Art. 41.º Até à publicação dos diplomas complementares e regulamentares do presente decreto-lei mantêm-se em vigor a legislação que, versando matérias nele reguladas, não seja incompatível com os seus preceitos e o sistema agora estatuído.
+Art. 41.º Até à publicação dos diplomas complementares e regulamentares do presente decreto-lei mantêm-se em vigor a legislação que, versando matérias nele reguladas, não seja incompatível com os seus preceitos e o sistema agora estatuído.
 
-###### Art. 42.º O presente decreto-lei entra imediatamente em vigor.
+Art. 42.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Novembro de 1971.**
+Promulgado em 3 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

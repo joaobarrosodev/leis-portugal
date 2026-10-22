@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/00300/00190020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1977-492678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56463c945a1746d933601dc7f6423a6b54d54945375a4df8e42ce3d75a721f80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4644617d1aba2225dad3213d2c04a6d734ba4a13e3d19a16b6fafa1a43844b3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Coordenador Regional
+- Criação de Lugares
+- Definição de Competências
+- Ensino Preparatório
+- Rectificação de Numero de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:226044:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:226044:por
+  label: "Revogado pelo DEC LEI.200-H/80.24.06.1980.MEC, DR.IS [143]Supl de 24.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-h-1980-226044
+  date: '1980-06-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:36Z'
   warnings: []
   errors: []
 ---
@@ -101,36 +112,36 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados lugares de coordenador regional do núcleo de acção social escolar (CRNASE) em cada uma das zonas de acção social escolar dos ensinos preparatório e secundário.
+Artigo 1.º São criados lugares de coordenador regional do núcleo de acção social escolar (CRNASE) em cada uma das zonas de acção social escolar dos ensinos preparatório e secundário.
 
-###### Art. 2.º As zonas de acção social escolar dos ensinos preparatório e secundário referidas no artigo anterior integrarão um mínimo de dez e um máximo de vinte estabelecimentos daqueles ensinos e serão definidas, sob proposta do Instituto de Acção Social Escolar, por portaria do Ministro da Educação e Investigação Científica.
+Art. 2.º As zonas de acção social escolar dos ensinos preparatório e secundário referidas no artigo anterior integrarão um mínimo de dez e um máximo de vinte estabelecimentos daqueles ensinos e serão definidas, sob proposta do Instituto de Acção Social Escolar, por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 3.º As funções dos coordenadores regionais dos núcleos de acção social escolar serão fixadas por despacho ministerial e o seu desempenho efectuar-se-á em regime de acumulação com o exercício de funções docentes, sem prejuízo de eventual redução do seu horário lectivo normal.
+Art. 3.º As funções dos coordenadores regionais dos núcleos de acção social escolar serão fixadas por despacho ministerial e o seu desempenho efectuar-se-á em regime de acumulação com o exercício de funções docentes, sem prejuízo de eventual redução do seu horário lectivo normal.
 
-###### Art. 4.º - 1. Os coordenadores regionais dos núcleos de acção social escolar serão eleitos de entre e pelos docentes dos ensinos preparatório e secundário em exercício de funções nos estabelecimentos que integram as zonas mencionadas no artigo 1.º deste diploma.
+Art. 4.º - 1. Os coordenadores regionais dos núcleos de acção social escolar serão eleitos de entre e pelos docentes dos ensinos preparatório e secundário em exercício de funções nos estabelecimentos que integram as zonas mencionadas no artigo 1.º deste diploma.
 
 2. Sempre que, independentemente dos motivos, se não efectuarem na respectiva zona as eleições citadas no número antecedente, os coordenadores regionais serão nomeados por despacho ministerial, sob proposta do Instituto de Acção Social Escolar.
 
-###### Art. 5.º As eleições aludidas no n.º 1 do artigo anterior serão realizadas por escrutínio secreto e a sua regulamentação será objecto de portaria do Ministro da Educação e Investigação Científica.
+Art. 5.º As eleições aludidas no n.º 1 do artigo anterior serão realizadas por escrutínio secreto e a sua regulamentação será objecto de portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 6.º - 1. Os coordenadores regionais dos núcleos de acção social escolar beneficiam do regime de ajudas de custo e subsídios de viagem previsto na lei geral.
+Art. 6.º - 1. Os coordenadores regionais dos núcleos de acção social escolar beneficiam do regime de ajudas de custo e subsídios de viagem previsto na lei geral.
 
 2. Os coordenadores regionais referidos no número anterior serão ainda reembolsados das eventuais despesas de expediente que sejam obrigados a efectuar no exercício das suas funções.
 
-###### Art. 7.º As nomeações dos coordenadores regionais dos núcleos de acção social escolar serão homologadas por despacho ministerial e consideram-se feitas por conveniência urgente de serviço público, não estando, porém, sujeitas ao cumprimento de quaisquer outras formalidades legais.
+Art. 7.º As nomeações dos coordenadores regionais dos núcleos de acção social escolar serão homologadas por despacho ministerial e consideram-se feitas por conveniência urgente de serviço público, não estando, porém, sujeitas ao cumprimento de quaisquer outras formalidades legais.
 
-###### Art. 8.º Os coordenadores regionais dos núcleos de acção social escolar receberão, no exercício das suas funções, o apoio do estabelecimento de ensino a que pertençam através do respectivo núcleo e das secretarias dos estabelecimentos pertencentes à zona de acção social escolar.
+Art. 8.º Os coordenadores regionais dos núcleos de acção social escolar receberão, no exercício das suas funções, o apoio do estabelecimento de ensino a que pertençam através do respectivo núcleo e das secretarias dos estabelecimentos pertencentes à zona de acção social escolar.
 
-###### Art. 9.º Os encargos originados pelo presente diploma serão suportados pela rubrica «Deslocações», no que se refere ao n.º 1 do artigo 6.º, e pela rubrica «Consumos de secretaria», relativvamente ao n.º 2 do mesmo artigo.
+Art. 9.º Os encargos originados pelo presente diploma serão suportados pela rubrica «Deslocações», no que se refere ao n.º 1 do artigo 6.º, e pela rubrica «Consumos de secretaria», relativvamente ao n.º 2 do mesmo artigo.
 
-###### Art. 10.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, salvo se envolverem encargos orçamentais, caso em que o despacho será conjunto com o Ministro das Finanças.
+Art. 10.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, salvo se envolverem encargos orçamentais, caso em que o despacho será conjunto com o Ministro das Finanças.
 
-###### Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 20 de Dezembro de 1976.**
+Promulgado em 20 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

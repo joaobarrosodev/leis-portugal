@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 266/1974, 2º Suplemento, Série I de 1974-11-15
   number: '266'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1388-(3) a 1388-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/26602/00030013.pdf
 entry_into_force_dates: []
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4ce2723524cf686e4ea12e40c75f6e133355264a023016d12164019bc2a3c47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0af896a614b87bd3a7940f08b9eafc68628be67c0426b67a271b1741ce8d75c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caderno de Recenseamento
+- Comissão Recenseadora
+- Crime
+- Eleição
+- Incompatibilidades
+- Metodo de Hondt
+- Multa
+- Parlamentar
+- Partido Político
+- Recenseamento
+- Recenseamento Eleitoral
+- Sanção Penal
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:264716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356759:por
+  label: "Alterados os arts. 30º, 32º, 36º, 37º, 38º, 39º e 40º do presente diploma, pelo DEC LEI.3/75.07.01.1975.PCM, DG.IS\
+    \ [5-Supl] de 07.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1975-356759
+  date: '1975-01-07'
+- type: amended_by
+  target: pt:dre:356906:por
+  label: "Alterado o art. 39º do presente diploma, na redacção do Dec Lei 3/75, de 07-Jan, pelo DEC LEI.5/75.07.01.1975.PCM,\
+    \ DG.IS [5-2ºSUPL] de 07.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1975-356906
+  date: '1975-01-07'
+- type: amended_by
+  target: pt:dre:617141:por
+  label: "Alterados os arts. 36º, 37º e 38º do presente diploma, na redacção do Dec Lei 3/75, de 07-Jan, pelo DEC LEI.38-B/75.31.01.1975.PCM,\
+    \ DG.IS [26-2SUPL] de 31.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-b-1975-617141
+  date: '1975-01-31'
+- type: amended_by
+  target: pt:dre:160095:por
+  label: "Alterado o art. 39º ( na redacção dos Dec Lei 3/75 e 5/75, ambos de 07-Jan) e o art. 41º do presente diploma, pelo\
+    \ DEC LEI.86/75.27.02.1975.PCM, DG.IS [49] de 27.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1975-160095
+  date: '1975-02-27'
+- type: amended_by
+  target: pt:dre:264716:por
+  label: "Dada nova redacção ao art. 10º pelo DEC LEI.541-A/75.27.09.1975.PCM, DG.IS [224-2ºSupl] de 27.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/541-a-1975-264716
+  date: '1975-09-27'
+- type: corrected_by
+  target: pt:dre:468178:por
+  label: "Rectificado o n.º 1 do artigo 50.º pela RECT.DD197.17.12.1974.PCM, DG.IS [293] de 17.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-468178
+  date: '1974-12-17'
 article_structure:
   article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:41Z'
   warnings: []
   errors: []
 ---
@@ -548,12 +595,12 @@ Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manue
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 15 de Novembro de 1974.**
+Promulgado em 15 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/26602/00030013.pdf))](https://files.diariodarepublica.pt/1s/1974/11/26602/00030013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/26602/00030013.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás.**
+O Ministro da Administração Interna, Manuel da Costa Brás.

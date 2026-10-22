@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1972-685591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70691689c5ce6d6af571a4f90d910b493fe4b0c57bebefb76152d8b357a37835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5655cad9eb3162d425cda821506cf6c3129ecff04f5b089302655e8f0babf201
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Aviação Civil
+- Comissão Aeroportuária de Segurança da Aviação Civil
+- Comissão Nacional de Segurança da Aviação Civil
+- Criação de Serviços
+- Definição de Competências
+- Segurança Aérea
+- Segurança da Navegação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:06Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Nestes termos:
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.» do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada junto da Direcção-Geral da Aeronáutica Civil a Comissão Nacional de Segurança da Aviação Civil, constituída por representantes:
+Artigo 1.º - 1. É criada junto da Direcção-Geral da Aeronáutica Civil a Comissão Nacional de Segurança da Aviação Civil, constituída por representantes:
 
 a) Da Direcção-Geral e Segurança;
 
@@ -120,7 +128,7 @@ h) Do Departamento de Defesa Nacional.
 
 4. O expediente da Comissão será assegurado pela Direcção-Geral da Aeronáutica Civil.
 
-###### Art. 2.º Compete à Comissão Nacional de Segurança da Aviação Civil:
+Art. 2.º Compete à Comissão Nacional de Segurança da Aviação Civil:
 
 a) Estudar e propor as normas de segurança a aplicar nos aeródromos, instalações e serviços de apoio à navegação aérea (contrôle do tráfego aéreo, telecomunicações e ajudas à navegação aérea e meteorologia);
 
@@ -138,7 +146,7 @@ g) Promover a constituição, orientar e coordenar o funcionamento de comissões
 
 h) Orientar e coordenar o funcionamento das comissões aeroportuárias de segurança da aviação civil.
 
-###### Art. 3.º - 1. São criadas, junto dos aeroportos nacionais, com carácter permanente, comissões aeroportuárias de segurança da aviação civil constituídas, em cada aeroporto, por:
+Art. 3.º - 1. São criadas, junto dos aeroportos nacionais, com carácter permanente, comissões aeroportuárias de segurança da aviação civil constituídas, em cada aeroporto, por:
 
 a) O director do aeroporto;
 
@@ -156,7 +164,7 @@ e) Os chefes de escala das empresas nacionais de navegação aérea.
 
 4. Aos aeroportos compete assegurar o expediente das respectivas comissões aeroportuárias.
 
-###### Art. 4.º Compete às comissões aeroportuárias de segurança da aviação civil, nos respectivos aeroportos:
+Art. 4.º Compete às comissões aeroportuárias de segurança da aviação civil, nos respectivos aeroportos:
 
 a) Promover a aplicação das normas de segurança da aviação civil em vigor;
 
@@ -168,10 +176,10 @@ d) Estabelecer os sistemas de permuta de informações e avisos de prevenção e
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Rui Alves da Silva Sanches.
 
-**Promulgado em 15 de Dezembro de 1972.**
+Promulgado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas - J. da Silva Cunha.

@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1972-681985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0706d1c2d448124bb806bed1f6259cea96949f2069acbcf520fbc01609b476b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dfaee2157bbe3d1e05d90c45da8ed708179b360d82b565911d05c7acc90baa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código Penal
+relationships:
+- type: cites
+  target: pt:dre:306223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634100:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:43Z'
   warnings: []
   errors: []
 ---
@@ -140,17 +165,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos do Código Penal adiante referidos passam a ter a seguinte redacção:
+Artigo único. Os artigos do Código Penal adiante referidos passam a ter a seguinte redacção:
 
-###### Art. 46.º ...
+Art. 46.º ...
 
 § único. Não é punível o excesso de legítima defesa devido a perturbação ou medo desculpável do agente.
 
 ...
 
-###### Art. 58.º Na execução das penas privativas de liberdade ter-se-á em vista, sem prejuízo da sua natureza repressiva, a regeneração dos condenados e a sua readaptação social.
+Art. 58.º Na execução das penas privativas de liberdade ter-se-á em vista, sem prejuízo da sua natureza repressiva, a regeneração dos condenados e a sua readaptação social.
 
-###### Art. 59.º ...
+Art. 59.º ...
 
 § 1.º O trabalho dos condenados em penas privativas de liberdade terá lugar, em regra, em oficinas e explorações industriais ou agrícolas próprias dos estabelecimentos prisionais. Poderá, porém, nos termos estabelecidos em legislação especial, ser permitida a ocupação dos condenados fora das prisões.
 
@@ -158,7 +183,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 63.º A pena de multa consiste no pagamento:
+Art. 63.º A pena de multa consiste no pagamento:
 
 a) De quantia determinada ou a fixar entre um mínimo e um máximo declarados na lei;
 
@@ -172,7 +197,7 @@ b) De quantia proporcional aos proventos do condenado, pelo tempo que a sentenç
 
 ...
 
-###### Art. 67.º As penas de prisão e de prisão maior aplicadas a delinquentes de difícil correcção poderão ser prorrogadas por dois períodos sucessivos de três anos, quando se mantenha o estado de perigosidade, verificando-se que o condenado não tem idoneidade para seguir vida honesta.
+Art. 67.º As penas de prisão e de prisão maior aplicadas a delinquentes de difícil correcção poderão ser prorrogadas por dois períodos sucessivos de três anos, quando se mantenha o estado de perigosidade, verificando-se que o condenado não tem idoneidade para seguir vida honesta.
 
 Consideram-se delinquentes de difícil correcção os delinquentes habituais e por tendência.
 
@@ -186,11 +211,11 @@ Consideram-se delinquentes de difícil correcção os delinquentes habituais e p
 
 § 2.º São considerados delinquentes por tendência os que, não estando compreendidos nas categorias enunciadas no parágrafo anterior, cometerem um crime doloso, consumado, frustrado ou tentado, de homicídio ou de ofensas corporais, a que corresponda pena maior, e que, atentos o fim ou motivos determinantes, os meios empregados e mais circunstâncias, e o seu comportamento anterior, contemporâneo ou posterior ao crime, revelem perversão e malvadez que os faça considerar gravemente perigosos.
 
-###### Art. 68.º Aos delinquentes imputáveis, criminalmente perigosos em razão de anomalia mental, anterior à condenação ou sobrevinda após esta, poderá a pena de prisão ou de prisão maior em que tenham sido condenados ser prorrogada por dois períodos sucessivos de três anos, quando se mantiver o estado de perigosidade criminal resultante de anomalia mental. Se após as prorrogações a perigosidade do recluso se mantiver, poderá ser-lhe aplicada a medida de segurança do n.º 1.º do artigo 70.º
+Art. 68.º Aos delinquentes imputáveis, criminalmente perigosos em razão de anomalia mental, anterior à condenação ou sobrevinda após esta, poderá a pena de prisão ou de prisão maior em que tenham sido condenados ser prorrogada por dois períodos sucessivos de três anos, quando se mantiver o estado de perigosidade criminal resultante de anomalia mental. Se após as prorrogações a perigosidade do recluso se mantiver, poderá ser-lhe aplicada a medida de segurança do n.º 1.º do artigo 70.º
 
 § único. ...
 
-###### Art. 69.º Os delinquentes menores de 21 anos e maiores de 16 cumprirão as penas ou medidas de segurança privativas de liberdade, com o fim especial de educação, em prisão-escola ou em estabelecimento prisional comum, mas neste caso separados dos demais delinquentes.
+Art. 69.º Os delinquentes menores de 21 anos e maiores de 16 cumprirão as penas ou medidas de segurança privativas de liberdade, com o fim especial de educação, em prisão-escola ou em estabelecimento prisional comum, mas neste caso separados dos demais delinquentes.
 
 § 1.º Aos delinquentes menores de difícil correcção só poderá ser prorrogada a pena por dois períodos sucessivos de dois anos.
 
@@ -198,7 +223,7 @@ Consideram-se delinquentes de difícil correcção os delinquentes habituais e p
 
 § 3.º Poderá ser concedida a liberdade condicional aos delinquentes menores quando, tendo completado 25 anos, se mostrem corrigidos, ainda que não tenham cumprido metade da pena.
 
-###### Art. 70.º ...
+Art. 70.º ...
 
 § 1.º ...
 
@@ -212,7 +237,7 @@ Na falta de cumprimento das condições de liberdade vigiada poderá ser alterad
 
 § 5.º ...
 
-###### Art. 71.º ...
+Art. 71.º ...
 
 § 1.º ...
 
@@ -224,7 +249,7 @@ O internamento só pode ser ordenado na sentença que tiver condenado o delinque
 
 § 4.º ...
 
-###### Art. 72.º A alteração do estado de perigosidade, determinante da prorrogação das penas ou de aplicação de medidas de segurança, tem por efeito a substituição dessas penas ou medidas de segurança por outras correspondentes à natureza da alteração, nos termos seguintes:
+Art. 72.º A alteração do estado de perigosidade, determinante da prorrogação das penas ou de aplicação de medidas de segurança, tem por efeito a substituição dessas penas ou medidas de segurança por outras correspondentes à natureza da alteração, nos termos seguintes:
 
 1.º Poderá ser substituída a prorrogação da pena aos delinquentes de difícil correcção pela prorrogação da pena como anormais perigosos, bem como a prorrogação da pena de anormais perigosos pela prorrogação da pena como delinquentes de difícil correcção, em consequência da alteração da classificação anterior dos reclusos ou por se demonstrar pràticamente mais eficaz a sujeição a regime diverso do inicialmente determinado;
 
@@ -236,17 +261,17 @@ O internamento só pode ser ordenado na sentença que tiver condenado o delinque
 
 5.º Poderão, em geral, as medidas de segurança mais graves ser substituídas, durante a execução, por medidas de segurança menos graves, que se mostrem adequadas à readaptação social dos delinquentes.
 
-###### Art. 73.º A duração total das penas e medidas de segurança privativas de liberdade aplicadas cumulativamente a um delinquente não pode exceder trinta anos.
+Art. 73.º A duração total das penas e medidas de segurança privativas de liberdade aplicadas cumulativamente a um delinquente não pode exceder trinta anos.
 
 ...
 
-###### Art. 87.º Quando a lei decretar a pena de multa, se a infracção for cometida por vários réus, a cada um deles deve ser imposta essa pena.
+Art. 87.º Quando a lei decretar a pena de multa, se a infracção for cometida por vários réus, a cada um deles deve ser imposta essa pena.
 
 § único. A obrigação de pagar a multa só passa aos herdeiros do condenado se em vida deste a sentença de condenação tiver passado em julgado.
 
 ...
 
-###### Art. 89.º Se decorrer o tempo da suspensão sem que o réu tenha perpetrado outro crime da mesma natureza daquele por que foi condenado ou qualquer crime doloso pelo qual venha a ser condenado em pena privativa de liberdade, ou infringido as obrigações impostas, a sentença deverá considerar-se de nenhum efeito.
+Art. 89.º Se decorrer o tempo da suspensão sem que o réu tenha perpetrado outro crime da mesma natureza daquele por que foi condenado ou qualquer crime doloso pelo qual venha a ser condenado em pena privativa de liberdade, ou infringido as obrigações impostas, a sentença deverá considerar-se de nenhum efeito.
 
 § 1.º No caso de nova condenação, o juiz acumulará a primeira pena à segunda, sem que todavia se confundam na execução, nem se prejudiquem as regras estabelecidas para aplicação da pena no caso de reincidência ou sucessão de crimes.
 
@@ -254,23 +279,23 @@ O internamento só pode ser ordenado na sentença que tiver condenado o delinque
 
 ...
 
-###### Art. 98.º Quando, para qualquer efeito jurídico, se deva fazer a equivalência entre a duração de penas de espécie diferente, far-se-á corresponder a pena de desterro a dois terços da pena de prisão e esta a dois terços da pena de prisão maior.
+Art. 98.º Quando, para qualquer efeito jurídico, se deva fazer a equivalência entre a duração de penas de espécie diferente, far-se-á corresponder a pena de desterro a dois terços da pena de prisão e esta a dois terços da pena de prisão maior.
 
-###### Art. 99.º A equivalência entre a pena de multa e a de prisão, quando aquela directamente não corresponda a certo tempo de duração, faz-se tendo em atenção o critério estabelecido no § 1.º do artigo 123.º para conversão da multa em prisão.
+Art. 99.º A equivalência entre a pena de multa e a de prisão, quando aquela directamente não corresponda a certo tempo de duração, faz-se tendo em atenção o critério estabelecido no § 1.º do artigo 123.º para conversão da multa em prisão.
 
 ...
 
 ### CAPÍTULO V — Da execução das penas e medidas de segurança
 
-###### Art. 113.º As penas não passarão em caso algum da pessoa do delinquente.
+Art. 113.º As penas não passarão em caso algum da pessoa do delinquente.
 
-###### Art. 114.º Não haverá prisão por falta de pagamento do imposto de justiça, custas ou selos.
+Art. 114.º Não haverá prisão por falta de pagamento do imposto de justiça, custas ou selos.
 
-###### Art. 115.º A execução das penas ou medidas de segurança funda-se exclusivamente em sentença passada em julgado.
+Art. 115.º A execução das penas ou medidas de segurança funda-se exclusivamente em sentença passada em julgado.
 
 § único. Só podem ser aplicadas provisòriamente as medidas de segurança de internamento em manicómio criminal, de liberdade vigiada e de interdição do exercício de profissão.
 
-###### Art. 116.º A execução das penas e medidas de segurança privativas de liberdade inicia-se no dia em que passar em julgado a sentença condenatória sempre que o condenado se encontre preso.
+Art. 116.º A execução das penas e medidas de segurança privativas de liberdade inicia-se no dia em que passar em julgado a sentença condenatória sempre que o condenado se encontre preso.
 
 § único. O início da execução das penas e medidas de segurança privativas de liberdade será diferido:
 
@@ -282,7 +307,7 @@ O internamento só pode ser ordenado na sentença que tiver condenado o delinque
 
 4.º Se o condenado tiver de cumprir primeiro outra pena.
 
-###### Art. 117.º Na duração das penas e medidas de segurança privativas de liberdade levar-se-á em conta por inteiro:
+Art. 117.º Na duração das penas e medidas de segurança privativas de liberdade levar-se-á em conta por inteiro:
 
 1.º A prisão preventiva, a partir da captura;
 
@@ -302,7 +327,7 @@ O desconto da prisão preventiva na pena de multa só terá lugar quando não po
 
 § 4.º Na interdição temporária do exercício de profissão descontar-se-á o tempo da aplicação provisória.
 
-###### Art. 118.º Salvas as excepções previstas na lei, a execução das penas é contínua.
+Art. 118.º Salvas as excepções previstas na lei, a execução das penas é contínua.
 
 A execução das penas e medidas de segurança privativas de liberdade suspende-se:
 
@@ -314,9 +339,9 @@ A execução das penas e medidas de segurança privativas de liberdade suspende-
 
 ...
 
-###### Art. 120.º Os condenados a penas privativas de liberdade de duração superior a seis meses poderão ser postos em liberdade condicional pelo tempo que restar para o cumprimento da pena, quando tiverem cumprido metade desta e mostrarem capacidade e vontade de se adaptar à vida honesta.
+Art. 120.º Os condenados a penas privativas de liberdade de duração superior a seis meses poderão ser postos em liberdade condicional pelo tempo que restar para o cumprimento da pena, quando tiverem cumprido metade desta e mostrarem capacidade e vontade de se adaptar à vida honesta.
 
-###### Art. 121.º A decisão que conceder a liberdade condicional especificará as obrigações que incumbem ao libertado e que podem variar segundo o crime cometido, a personalidade do recluso, o ambiente em que tenha vivido ou passe a viver, ou outras circunstâncias atendíveis.
+Art. 121.º A decisão que conceder a liberdade condicional especificará as obrigações que incumbem ao libertado e que podem variar segundo o crime cometido, a personalidade do recluso, o ambiente em que tenha vivido ou passe a viver, ou outras circunstâncias atendíveis.
 
 E, assim, isolada ou cumulativamente, poderá ser-lhe imposto, em geral:
 
@@ -346,13 +371,13 @@ c) Aos menores - a obediência às prescrições dos pais, da família ou dos ó
 
 § 2.º As obrigações impostas podem ser alteradas quando ocorram circunstâncias que o justifiquem.
 
-###### Art. 122.º Se o libertado condicionalmente cometer outro crime da mesma natureza daquele por que foi condenado ou qualquer crime doloso pelo qual venha a sofrer pena privativa de liberdade, a liberdade condicional será revogada.
+Art. 122.º Se o libertado condicionalmente cometer outro crime da mesma natureza daquele por que foi condenado ou qualquer crime doloso pelo qual venha a sofrer pena privativa de liberdade, a liberdade condicional será revogada.
 
 Se não tiver bom comportamento ou não cumprir alguma das obrigações que lhe tenham sido impostas, a liberdade condicional pode ser revogada ou alterado o seu condicionamento.
 
 Quando revogada a liberdade condicional, o condenado terá de completar o cumprimento da pena, não se descontando o tempo que passou em liberdade.
 
-###### Art. 123.º A pena de multa, na falta de bens suficientes e desembaraçados, pode ser modificada na sua execução:
+Art. 123.º A pena de multa, na falta de bens suficientes e desembaraçados, pode ser modificada na sua execução:
 
 1.º Pela conversão em prisão por tempo correspondente;
 
@@ -362,13 +387,13 @@ Quando revogada a liberdade condicional, o condenado terá de completar o cumpri
 
 A taxa diária de conversão da multa em prisão não será, porém, inferior à que resultar da divisão do seu total pelo máximo do tempo em que pode ser convertida a pena de multa.
 
-###### Art. 124.º As penas de multa, quer directamente aplicadas como tais, quer resultantes da substituição de penas de prisão, poderão ser cumpridas por meio de prestação de trabalho em qualquer mister ou ofício, em obras públicas, serviços ou oficinas do Estado e dos corpos administrativos, ou em obras, serviços ou oficinais de entidades particulares, nos termos e condições constantes da lei.
+Art. 124.º As penas de multa, quer directamente aplicadas como tais, quer resultantes da substituição de penas de prisão, poderão ser cumpridas por meio de prestação de trabalho em qualquer mister ou ofício, em obras públicas, serviços ou oficinas do Estado e dos corpos administrativos, ou em obras, serviços ou oficinais de entidades particulares, nos termos e condições constantes da lei.
 
 § 1.º No caso de substituição da multa por prestação de trabalho, por cada dia útil de trabalho fica resgatada a parte da multa equivalente à importância descontada na remuneração do condenado.
 
 § 2.º Tratando-se de pena de multa fixada por certa duração de tempo, ou de pena de prisão substituída por multa, considerar-se-á resgatado um dia de multa com a entrega de metade da remuneração de cada dia de trabalho.
 
-###### Art. 125.º O procedimento criminal, as penas e as medidas de segurança acabam, não só nos casos previstos no artigo 6.º, mas também:
+Art. 125.º O procedimento criminal, as penas e as medidas de segurança acabam, não só nos casos previstos no artigo 6.º, mas também:
 
 1.º Pela morte do criminoso;
 
@@ -406,7 +431,7 @@ A prescrição do procedimento criminal não corre:
 
 § 7.º O condenado julgado inocente em juízo de revisão, ou seus herdeiros, tem direito a receber do Estado uma indemnização pelos danos sofridos.
 
-###### Art. 126.º A pena e a medida de segurança também acabam:
+Art. 126.º A pena e a medida de segurança também acabam:
 
 1.º Pelo seu cumprimento;
 
@@ -442,7 +467,7 @@ A comutação verifica-se por algum dos modos seguintes:
 
 § 7.º Salvo disposição em contrário, o procedimento criminal e as penas só acabam relativamente àqueles a quem se referem as causas da sua extinção.
 
-###### Art. 127.º A reabilitação extingue os efeitos penais da condenação.
+Art. 127.º A reabilitação extingue os efeitos penais da condenação.
 
 § 1.º A reabilitação de direito verifica-se, decorridos prazos iguais aos prazos de prescrição das penas ou ao dobro do prazo de prescrição das medidas de segurança, depois de extintas estas, se entretanto não houver lugar a nova condenação.
 
@@ -466,12 +491,12 @@ A comutação verifica-se por algum dos modos seguintes:
 
 3.º As condenações condicionais quando se tenha verificado a condição resolutiva do julgado.
 
-###### Art. 128.º A imputação e a graduação da responsabilidade civil conexa com os factos criminosos são regidas pela lei civil.
+Art. 128.º A imputação e a graduação da responsabilidade civil conexa com os factos criminosos são regidas pela lei civil.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 17 de Maio de 1972.**
+Promulgado em 17 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46533-1965-509649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78bfd0c1c6267ec1b68dc73bac2e9ca410adc64f705a89f48e2135486ffd7322
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96115dc0ef3330e1961cedb26e4b82c809139076fdcad968bbbbeaa3b951c487
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doação
+- Fundação Calouste Gulbenkian
+- Ministro da Saúde e Assistência
+- Vacinação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:35Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +103,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro da Saúde e Assistência autorizado a receber da Fundação Calouste Gulbenkian o donativo de 15000000$00 destinado à realização de um programa intensivo de vacinação contra a poliomielite, a difteria, o tétano e a tosse convulsa.
+Artigo 1.º Fica o Ministro da Saúde e Assistência autorizado a receber da Fundação Calouste Gulbenkian o donativo de 15000000$00 destinado à realização de um programa intensivo de vacinação contra a poliomielite, a difteria, o tétano e a tosse convulsa.
 
-###### Art. 2.º - 1. Esta importância será solicitada à Fundação na medida em que se mostre necessária à realização do programa, com indicação especificada do respectivo destino, devendo ser depositada na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Ministério da Saúde e Assistência, e movimentada por meio de cheques assinados pelo director-geral de Saúde, ou quem as suas vezes fizer, e por outro funcionário superior a designar pelo Ministro.
+Art. 2.º - 1. Esta importância será solicitada à Fundação na medida em que se mostre necessária à realização do programa, com indicação especificada do respectivo destino, devendo ser depositada na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Ministério da Saúde e Assistência, e movimentada por meio de cheques assinados pelo director-geral de Saúde, ou quem as suas vezes fizer, e por outro funcionário superior a designar pelo Ministro.
 
 2. A efectivação de despesas carece de autorização prévia do Ministro, podendo esta competência ser delegada no director-geral de Saúde até ao montante de 50000$00.
 
-###### Art. 3.º As despesas realizar-se-ão sem dependência de quaisquer outras formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, para sua legitimação, ao visto do Ministro da Saúde e Assistência, dado em balancetes mensais.
+Art. 3.º As despesas realizar-se-ão sem dependência de quaisquer outras formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, para sua legitimação, ao visto do Ministro da Saúde e Assistência, dado em balancetes mensais.
 
-###### Art. 4.º - 1. O Ministro da Saúde e Assistência poderá destacar pessoal do Ministério para, em comissão de serviço, trabalhar no programa de vacinações, pago pela verba indicada no artigo 1.º
+Art. 4.º - 1. O Ministro da Saúde e Assistência poderá destacar pessoal do Ministério para, em comissão de serviço, trabalhar no programa de vacinações, pago pela verba indicada no artigo 1.º
 
 2. Pela mesma verba poderá ser pago, a título precário, qualquer outro pessoal indispensável à realização do programa, mediante simples despacho do Ministro da Saúde e Assistência.
 
 3. As comissões de serviço a que este artigo se refere cessarão automàticamente logo que terminar o financiamento previsto no artigo 1.º se, antes disso, não tiverem sido dadas por findas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

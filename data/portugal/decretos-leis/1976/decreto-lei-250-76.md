@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08300/06990699.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1976-502815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12cf52cead2c8848b7058e853a732809ac6ab0b31dace3909501cadaed68049a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e81b991a1de38f2208a25541ea839d30d72c0e7ca46f6baf1b55789b6db0950
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Espinho
+- Estoril
+- Figueira da Foz
+- Pagamento
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:228458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:472323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228458:por
+  label: "Revogado pelo DEC LEI.162/86.26.06.1986.MF, DR.IS [144] de 26.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-1986-228458
+  date: '1986-06-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:38Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +118,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para cálculo do imposto a pagar pelas concessionárias de exploração das zonas de jogos de fortuna ou azar permanentes do Algarve e do Estoril e das zonas de jogo temporário de Espinho, Figueira da Foz e Póvoa de Varzim, nos termos do artigo 35.º e da alínea a) do n.º 3 do artigo 37.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, os lucros brutos das bancas obtêm-se pela aplicação das seguintes percentagens sobre o capital em giro inicial, a que se refere a alínea a) do n.º 1 do artigo 37.º do mesmo diploma:
+Artigo 1.º Para cálculo do imposto a pagar pelas concessionárias de exploração das zonas de jogos de fortuna ou azar permanentes do Algarve e do Estoril e das zonas de jogo temporário de Espinho, Figueira da Foz e Póvoa de Varzim, nos termos do artigo 35.º e da alínea a) do n.º 3 do artigo 37.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, os lucros brutos das bancas obtêm-se pela aplicação das seguintes percentagens sobre o capital em giro inicial, a que se refere a alínea a) do n.º 1 do artigo 37.º do mesmo diploma:
 
 ... Percentagens
 
@@ -125,14 +146,14 @@ Figueira da Foz ... 26
 
 Póvoa de Varzim ... 35
 
-###### Art. 2.º O disposto neste diploma aplica-se ao imposto a liquidar de 1 a 10 do mês imediato ao da respectiva publicação.
+Art. 2.º O disposto neste diploma aplica-se ao imposto a liquidar de 1 a 10 do mês imediato ao da respectiva publicação.
 
-###### Art. 3.º Os regimes de avenças fixados nos termos do artigo 39.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840) serão revistos em função idas alterações resultantes deste diploma, a partir da mesma data, sem prejuízo de as concessionárias optarem pelo regime de liquidação normal, podendo o Conselho de Inspecção de Jogos rever os capitais respeitantes ao jogo de máquinas automáticas que tenha fixado, nos termos do artigo 37.º do citado diploma legal, tendo em conta as circunstâncias verificadas e as que resultam da entrada em vigor deste diploma.
+Art. 3.º Os regimes de avenças fixados nos termos do artigo 39.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840) serão revistos em função idas alterações resultantes deste diploma, a partir da mesma data, sem prejuízo de as concessionárias optarem pelo regime de liquidação normal, podendo o Conselho de Inspecção de Jogos rever os capitais respeitantes ao jogo de máquinas automáticas que tenha fixado, nos termos do artigo 37.º do citado diploma legal, tendo em conta as circunstâncias verificadas e as que resultam da entrada em vigor deste diploma.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos - Rui Alberto Barradas do Amaral.
 
-**Promulgado em 27 de Março de 1976.**
+Promulgado em 27 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

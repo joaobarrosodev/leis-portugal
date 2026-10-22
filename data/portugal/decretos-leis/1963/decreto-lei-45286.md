@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45286-1963-687451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb23bfceb2525dd1673a2d93bb978f208df100a5b5fe2b0962a9c600896ff83e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b12e473a58d873b70d4f0c4cb7080941d2c54d79693d0511dccb17d032cf1fd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Criação de Serviços
+- Estado Português da Índia
+- Militar
+- Ministério do Exército
+- Ministro do Exército
+- Prestação de Contas
+- Relatório e Contas
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:644301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:35Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +105,11 @@ Tornando-se necessário proceder ao encerramento das contas e à resolução dos
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no Ministério do Exército, na dependência do Ministro, por intermédio do quartel-mestre-general e para os fins indicados no artigo seguinte, uma comissão composta pelo chefe do serviço do orçamento e administração, servindo de presidente, por dois oficiais superiores do serviço da administração militar e por um secretário, sem voto, capitão do mesmo serviço.
+Artigo 1.º É criada no Ministério do Exército, na dependência do Ministro, por intermédio do quartel-mestre-general e para os fins indicados no artigo seguinte, uma comissão composta pelo chefe do serviço do orçamento e administração, servindo de presidente, por dois oficiais superiores do serviço da administração militar e por um secretário, sem voto, capitão do mesmo serviço.
 
 § único. Junto da comissão haverá um representante do Tribunal de Contas, que deve ser ouvido nas questões da sua competência e assiste às sessões sempre que o presidente o convocar.
 
-###### Art. 2.º Compete à comissão:
+Art. 2.º Compete à comissão:
 
 a) Proceder ao encerramento das contas e à resolução dos processos de natureza administrativa das unidades e estabelecimentos militares que em 19 de Dezembro de 1961 faziam parte da guarnição do Estado Português da Índia;
 
@@ -108,22 +121,22 @@ d) Organizar os processos relativos a vencimentos ainda não pagos de militares 
 
 e) Organizar os processos relativos a débitos das unidades e estabelecimentos indicados na alínea a) provenientes de serviços prestados, fornecimentos, depósitos nos conselhos administrativos para transferências que não chegaram a ser efectivadas ou de qualquer outra proveniência e proceder aos respectivos pagamentos.
 
-###### Art. 3.º Quando faltar ou se tornar muito difícil de obter a prova legal dos actos ou factos constantes dos processos a organizar pela comissão, pode fazer-se por qualquer meio a prova deles, inclusivamente por simples declarações dos interessados, ficando ao critério da comissão apreciar a sua suficiência para a demonstração da existência do acto ou facto.
+Art. 3.º Quando faltar ou se tornar muito difícil de obter a prova legal dos actos ou factos constantes dos processos a organizar pela comissão, pode fazer-se por qualquer meio a prova deles, inclusivamente por simples declarações dos interessados, ficando ao critério da comissão apreciar a sua suficiência para a demonstração da existência do acto ou facto.
 
 § único. Se a deficiência de prova incidir sobre falta de valores em dinheiro ou coisas móveis, ou sobre a movimentação de tais valores, essa apreciação compete ao Ministro do Exército, a quem será enviado o processo com o parecer da comissão.
 
-###### Art. 4.º Os fundos ao dispor da comissão serão depositados na Agência Militar e movimentados, em conta corrente, com documentos assinados pelo presidente e qualquer outro dos seus membros.
+Art. 4.º Os fundos ao dispor da comissão serão depositados na Agência Militar e movimentados, em conta corrente, com documentos assinados pelo presidente e qualquer outro dos seus membros.
 
-###### Art. 5.º Os serviços de secretaria necessários ao desenvolvimento das actividades da comissão ficam a cargo da Repartição do Orçamento e Administração.
+Art. 5.º Os serviços de secretaria necessários ao desenvolvimento das actividades da comissão ficam a cargo da Repartição do Orçamento e Administração.
 
-###### Art. 6.º Os actos de simples expediente dos processos ou as diligências que não devam ser realizadas por toda a comissão competem ao presidente, que, porém, poderá delegar essas funções, total ou parcialmente, em qualquer dos vogais.
+Art. 6.º Os actos de simples expediente dos processos ou as diligências que não devam ser realizadas por toda a comissão competem ao presidente, que, porém, poderá delegar essas funções, total ou parcialmente, em qualquer dos vogais.
 
-###### Art. 7.º As deliberações da comissão devem constar de um livro de actas, extractando-se para cada processo a parte que lhe diga respeito.
+Art. 7.º As deliberações da comissão devem constar de um livro de actas, extractando-se para cada processo a parte que lhe diga respeito.
 
-###### Art. 8.º Na administração dos fundos e prestação de contas a comissão procederá em conformidade com os preceitos estabelecidos no Regulamento para a Organização, Funcionamento, Contabilidade e Escrituração dos Conselhos Administrativos, a que se refere o [Decreto n.º 35413](https://diariodarepublica.pt/dr/detalhe/decreto/35413-1945-462604), de 29 de Setembro de 1945, na medida em que não forem contrariados por este decreto-lei.
+Art. 8.º Na administração dos fundos e prestação de contas a comissão procederá em conformidade com os preceitos estabelecidos no Regulamento para a Organização, Funcionamento, Contabilidade e Escrituração dos Conselhos Administrativos, a que se refere o [Decreto n.º 35413](https://diariodarepublica.pt/dr/detalhe/decreto/35413-1945-462604), de 29 de Setembro de 1945, na medida em que não forem contrariados por este decreto-lei.
 
-###### Art. 9.º Logo que tenha realizado os seus fins a comissão será extinta por portaria do Ministro do Exército.
+Art. 9.º Logo que tenha realizado os seus fins a comissão será extinta por portaria do Ministro do Exército.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

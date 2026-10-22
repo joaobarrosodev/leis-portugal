@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30300/19141916.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48794-1968-256474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a566676045384b927c6a7e3f7714882edd1062f88b4b2b04a16de61af7cd2f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfd2d2611a2b563ffa481bf505fb437ff831df56f8f4bb2eb896c6d73b01acb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Estabelecimento Prisional
+- Gestão de Recursos Humanos
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Pessoal Auxiliar
+- Pessoal de Inspecção
+- Pessoal Dirigente
+- PIDE
+- Quadro de Pessoal
+- Subsídio de Alimentação
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:691070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217111:por
+  label: "Substituído o mapa anexo pelo DEC LEI.49401.24.11.1969.MI, DG.IS [275] de 24.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49401-1969-217111
+  date: '1969-11-24'
+- type: cites
+  target: pt:dre:478642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687196:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:527196:por
+  label: "Rectificado o mapa anexo ao presente diploma pela RECT.DD496.14.01.1969.PC, DG.IS [11] de 14.01.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-527196
+  date: '1969-01-14'
+- type: repealed_by
+  target: pt:dre:691070:por
+  label: "Revogado, a partir de 01.10.1972, pelo DEC LEI.368/72.30.09.1972.MI, DG.IS [229] de 30.09.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1972-691070
+  date: '1972-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:59Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +146,13 @@ Considerando a conveniência de alterar algumas normas da respectiva lei orgâni
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal que à Polícia Internacional e de Defesa do Estado é atribuído pelo mapa I anexo ao [Decreto-Lei n.º 47284](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47284-1966-478642), de 28 de Outubro de 1966, passa a ser o indicado no quadro anexo ao presente decreto-lei.
+Artigo 1.º O quadro do pessoal que à Polícia Internacional e de Defesa do Estado é atribuído pelo mapa I anexo ao [Decreto-Lei n.º 47284](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47284-1966-478642), de 28 de Outubro de 1966, passa a ser o indicado no quadro anexo ao presente decreto-lei.
 
-###### Art. 2.º É extinta a categoria de agente auxiliar e criada em sua substituição a de agente provisório, que corresponderá aos indivíduos admitidos à frequência do curso de técnica policial e pelo tempo da sua duração, sendo providos nos lugares de agente de 2.ª classe os actuais agentes auxiliares, de harmonia com as disposições do presente decreto-lei.
+Art. 2.º É extinta a categoria de agente auxiliar e criada em sua substituição a de agente provisório, que corresponderá aos indivíduos admitidos à frequência do curso de técnica policial e pelo tempo da sua duração, sendo providos nos lugares de agente de 2.ª classe os actuais agentes auxiliares, de harmonia com as disposições do presente decreto-lei.
 
-###### Art. 3.º O artigo 22.º e seu § 1.º, o artigo 46.º e seus parágrafos, o artigo 50.º, o artigo 55.º e seus parágrafos e o artigo 81.º e seu § único do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961, e o artigo 54.º e seu § 2.º, com a nova redacção dada pelo [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, passam a ter a seguinte redacção:
+Art. 3.º O artigo 22.º e seu § 1.º, o artigo 46.º e seus parágrafos, o artigo 50.º, o artigo 55.º e seus parágrafos e o artigo 81.º e seu § único do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961, e o artigo 54.º e seu § 2.º, com a nova redacção dada pelo [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 22.º No ultramar, os serviços da Polícia Internacional e de Defesa do Estado compreendem as delegações de Angola e Moçambique, cada uma a cargo de um subdirector, com a categoria de director provincial de serviços, e subdelegações em todas as outras províncias, a cargo de inspectores-adjuntos ou inspectores.
+Art. 22.º No ultramar, os serviços da Polícia Internacional e de Defesa do Estado compreendem as delegações de Angola e Moçambique, cada uma a cargo de um subdirector, com a categoria de director provincial de serviços, e subdelegações em todas as outras províncias, a cargo de inspectores-adjuntos ou inspectores.
 
 § 1.º A criação de subdelegações e postos de fronteira e vigilância nos territórios de todas as províncias ultramarinas efectuar-se-á por simples despacho do Ministro do Ultramar, mediante proposta do director da Polícia Internacional e de Defesa do Estado, sem carência, para a sua efectividade, de publicação no Diário do Governo ou Boletim Oficial.
 
@@ -108,7 +160,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 46.º O pessoal da Polícia Internacional e de Defesa do Estado, a quem compete obrigatòriamente desempenhar as suas funções indistintamente em qualquer parte do território nacional, distribui-se, por um quadro único, para o continente, ilhas e ultramar.
+Art. 46.º O pessoal da Polícia Internacional e de Defesa do Estado, a quem compete obrigatòriamente desempenhar as suas funções indistintamente em qualquer parte do território nacional, distribui-se, por um quadro único, para o continente, ilhas e ultramar.
 
 § 1.º (Eliminado).
 
@@ -120,11 +172,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 50.º Aos concursos para promoção, que têm carácter obrigatório, serão admitidos os funcionários das classes imediatamente inferiores que obtenham parecer favorável do conselho de polícia e que tenham de permanência nelas tempo não inferior a três anos.
+Art. 50.º Aos concursos para promoção, que têm carácter obrigatório, serão admitidos os funcionários das classes imediatamente inferiores que obtenham parecer favorável do conselho de polícia e que tenham de permanência nelas tempo não inferior a três anos.
 
 ...
 
-###### Art. 54.º Os lugares de agente de 2.ª classe serão providos por contrato, renovável por períodos anuais, pelos agentes provisórios logo após a conclusão do curso de técnica policial, com aprovação e boas informações, e os lugares de agente feminino de 2.ª classe serão providos por contrato, renovável por períodos anuais, de entre os indivíduos do sexo feminino com menos de 35 anos de idade que possuam o 1.º ciclo dos liceus ou habilitações equivalentes ou ainda o curso de enfermagem ou assistente social, depois de submetidos a exame médico e a uma prova sumária, com o fim de averiguar se possuem as qualidades necessárias para o desempenho da função.
+Art. 54.º Os lugares de agente de 2.ª classe serão providos por contrato, renovável por períodos anuais, pelos agentes provisórios logo após a conclusão do curso de técnica policial, com aprovação e boas informações, e os lugares de agente feminino de 2.ª classe serão providos por contrato, renovável por períodos anuais, de entre os indivíduos do sexo feminino com menos de 35 anos de idade que possuam o 1.º ciclo dos liceus ou habilitações equivalentes ou ainda o curso de enfermagem ou assistente social, depois de submetidos a exame médico e a uma prova sumária, com o fim de averiguar se possuem as qualidades necessárias para o desempenho da função.
 
 § 1.º ...
 
@@ -138,7 +190,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 6.º ...
 
-###### Art. 55.º Os lugares de agente provisório serão providos por contrato, independentemente de qualquer formalidade e mediante proposta do director da Polícia Internacional e de Defesa do Estado, aprovada pelo Ministro do Interior, em indivíduos com menos de 30 anos de idade que tenham prestado o serviço militar com a 1.ª ou 2.ª classe de comportamento e possuam o 1.º ciclo do curso dos liceus ou habilitações equivalentes.
+Art. 55.º Os lugares de agente provisório serão providos por contrato, independentemente de qualquer formalidade e mediante proposta do director da Polícia Internacional e de Defesa do Estado, aprovada pelo Ministro do Interior, em indivíduos com menos de 30 anos de idade que tenham prestado o serviço militar com a 1.ª ou 2.ª classe de comportamento e possuam o 1.º ciclo do curso dos liceus ou habilitações equivalentes.
 
 § 1.º Os candidatos serão submetidos a exame médico e a provas sumárias, com o fim de averiguar se possuem as qualidades necessárias para o bom desempenho da função.
 
@@ -146,23 +198,23 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 81.º Enquanto não houver regulamento privativo, os funcionários da Polícia Internacional e de Defesa do Estado estão sujeitos ao Estatuto Disciplinar dos Funcionários Civis do Estado ou ao Estatuto do Funcionalismo Ultramarino, conforme o local da infracção, ficando, no entanto, sempre sujeitos à acção disciplinar dos seus superiores hierárquicos.
+Art. 81.º Enquanto não houver regulamento privativo, os funcionários da Polícia Internacional e de Defesa do Estado estão sujeitos ao Estatuto Disciplinar dos Funcionários Civis do Estado ou ao Estatuto do Funcionalismo Ultramarino, conforme o local da infracção, ficando, no entanto, sempre sujeitos à acção disciplinar dos seus superiores hierárquicos.
 
 § 1.º Quando a infracção for cometida nas províncias ultramarinas, a aplicação das penas dos n.os 1.º e 2.º do artigo 354.º do Estatuto do Funcionalismo Ultramarino é da competência de todos os funcionários em relação aos seus subordinados na escala hierárquica, sendo da competência do director da Polícia Internacional e de Defesa do Estado a aplicação das penas dos n.os 3.º, 4.º, 5.º e 6.º do citado artigo.
 
 § 2.º A aplicação das penas de inactividade, aposentação compulsiva e demissão, previstas nos n.os 7.º, 8.º e 9.º do artigo 354.º da Estatuto do Funcionalismo Ultramarino, quando a infracção tenha sido cometida nas províncias ultramarinas, é da competência dos Ministros do Interior e do Ultramar, sob proposta do director da Polícia Internacional e de Defesa do Estado, tendo-se em atenção, se houver motivo, o disposto no artigo 32.º do Estatuto Disciplinar dos Funcionários Civis do Estado.
 
-###### Art. 4.º Ao artigo 63.º e seus parágrafos do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, é adicionado o parágrafo seguinte:
+Art. 4.º Ao artigo 63.º e seus parágrafos do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, é adicionado o parágrafo seguinte:
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 ...
 
 § 8.º As promoções que determinem transferências de uma para outra parcela do território nacional serão feitas por escolha de entre os aprovados em concurso para a respectiva categoria e independentemente do lugar que ocupem nas escalas de classificação.
 
-###### Art. 5.º Ao artigo 4.º do [Decreto-Lei n.º 47284](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47284-1966-478642), de 28 de Outubro de 1966, são adicionados os parágrafos seguintes:
+Art. 5.º Ao artigo 4.º do [Decreto-Lei n.º 47284](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47284-1966-478642), de 28 de Outubro de 1966, são adicionados os parágrafos seguintes:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1.º Compete ao director mandar organizar os autos de corpo de delito em que sejam arguidos funcionários a que se refere o corpo do artigo e exercer a competência que na matéria é conferida pela legislação em vigor aos governadores militares ou comandantes de região.
 
@@ -182,17 +234,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 9.º Concedida autorização para ser demandado criminalmente, decidir-se-á se o funcionário deve ficar desde logo suspenso do exercício das suas funções, quando ao delito corresponder pena superior à referida no artigo 461.º do Código de Justiça Militar. A perda de vencimento será totalmente reparada se o funcionário for absolvido.
 
-###### Art. 6.º O artigo 10.º do [Decreto-Lei n.º 36527](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36527-1947-637902), de 2 de Outubro de 1947, passa a ter a seguinte redacção:
+Art. 6.º O artigo 10.º do [Decreto-Lei n.º 36527](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36527-1947-637902), de 2 de Outubro de 1947, passa a ter a seguinte redacção:
 
-###### Art. 10.º É extensivo aos serventes colocados nos estabelecimentos prisionais destinados à detenção dos arguidos cuja instrução processual caiba à Polícia Internacional e de Defesa do Estado o pagamento de subsídio de alimentação, em dinheiro, estabelecido pelo artigo 13.º do [Decreto-Lei n.º 34678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34678-1945-530244), de 20 de Junho de 1945, devendo o seu quantitativo ser igual ao que for fixado para os guardas dos serviços prisionais do Ministério da Justiça.
+Art. 10.º É extensivo aos serventes colocados nos estabelecimentos prisionais destinados à detenção dos arguidos cuja instrução processual caiba à Polícia Internacional e de Defesa do Estado o pagamento de subsídio de alimentação, em dinheiro, estabelecido pelo artigo 13.º do [Decreto-Lei n.º 34678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34678-1945-530244), de 20 de Junho de 1945, devendo o seu quantitativo ser igual ao que for fixado para os guardas dos serviços prisionais do Ministério da Justiça.
 
-###### Art. 7.º A execução deste diploma, na parte do quadro respeitante à metrópole, não provocará novos encargos no orçamento do Ministério do Interior para 1969.
+Art. 7.º A execução deste diploma, na parte do quadro respeitante à metrópole, não provocará novos encargos no orçamento do Ministério do Interior para 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Dezembro de 1968.**
+Promulgado em 16 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -206,4 +258,4 @@ Categorias e vencimentos do pessoal da Polícia Internacional e de Defesa do Est
 
 Quadro único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/30300/19141916.pdf))](https://files.diariodarepublica.pt/1s/1968/12/30300/19141916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30300/19141916.pdf)

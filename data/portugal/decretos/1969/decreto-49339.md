@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49339-1969-215525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28c35f1d0f5753caf7ff14120801e23d8e9fb86a0f98eb9a8db6f54605966071
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e47f1f9b048e916c6295985f5a682f620745dcee29f0ce5cc0faf1edaea5262b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231539:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:56Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +105,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Com o fim de fomentar o desenvolvimento das actividades gimnodesportivas e a realização de outros fins de interesse pedagógico e social com elas relacionado, é instituído o Fundo de Fomento Gimnodesportivo de Moçambique, em substituição do Fundo criado pelo Diploma Legislativo n.º 1670, de 4 de Maio de 1957, desta província.
+Artigo 1.º - 1. Com o fim de fomentar o desenvolvimento das actividades gimnodesportivas e a realização de outros fins de interesse pedagógico e social com elas relacionado, é instituído o Fundo de Fomento Gimnodesportivo de Moçambique, em substituição do Fundo criado pelo Diploma Legislativo n.º 1670, de 4 de Maio de 1957, desta província.
 
 2. O Fundo de Fomento Gimnodesportivo de Moçambique tem personalidade jurídica e goza de autonomia administrativa e financeira, devendo as suas receitas e despesas ser integradas no orçamento geral da província nos termos legais, sem prejuízo da publicação em separata do orçamento privativo.
 
 3. No ordenamento deste diploma, o Conselho Provincial de Educação Física e Desportos e o Fundo de Fomento Gimnodesportivo de Moçambique são abreviadamente designados por C. P. E. F. e Fundo.
 
-###### Art. 2.º - 1. São atribuições do Fundo:
+Art. 2.º - 1. São atribuições do Fundo:
 
 a) Elaborar planos plurianuais de fomento das actividades gimnodesportivas, estabelecendo ou prevendo, designadamente, comparticipações, subsídios, empréstimos ou outros auxílios de ordem financeira às organizações gimnodesportivas;
 
@@ -119,7 +127,7 @@ f) Conceder subsídios a organismos desportivos.
 
 2. O critério prioritário para a execução das obras indicadas nas alíneas d) e e) é definido pelo Fundo de acordo com os interesses e finalidades que considerar relevantes.
 
-###### Art. 3.º Constituem receitas do Fundo:
+Art. 3.º Constituem receitas do Fundo:
 
 a) Os subsídios inscritos no orçamento geral;
 
@@ -139,7 +147,7 @@ h) O produto da alienação de bens próprios;
 
 i) Os saldos dos orçamentos anteriores.
 
-###### Art. 4.º São órgãos do Fundo:
+Art. 4.º São órgãos do Fundo:
 
 a) O presidente;
 
@@ -147,7 +155,7 @@ b) O conselho administrativo;
 
 c) O conselho consultivo.
 
-###### Art. 5.º - 1. O presidente do C. P. E. F. é, por inerência, o presidente do Fundo e será representado, nas suas faltas ou impedimento, pelo seu substituto legal.
+Art. 5.º - 1. O presidente do C. P. E. F. é, por inerência, o presidente do Fundo e será representado, nas suas faltas ou impedimento, pelo seu substituto legal.
 
 2. Compete-lhe:
 
@@ -163,7 +171,7 @@ e) Assinar, com um vogal do conselho administrativo que for designado para tal f
 
 f) Representar o Fundo em juízo ou fora dele.
 
-###### Art. 6.º - 1. Além do presidente, constituem o conselho administrativo do Fundo:
+Art. 6.º - 1. Além do presidente, constituem o conselho administrativo do Fundo:
 
 a) O funcionário mais categorizado do C. P. E. F.;
 
@@ -187,7 +195,7 @@ f) Elaborar o relatório anual das actividades do Fundo.
 
 3. O conselho deverá reunir ordinàriamente de quinze em quinze dias e extraordinàriamente sempre que for convocado pelo presidente.
 
-###### Art. 7.º - 1. Além do presidente, constituem o conselho consultivo do Fundo:
+Art. 7.º - 1. Além do presidente, constituem o conselho consultivo do Fundo:
 
 a) O comissário provincial da Mocidade Portuguesa;
 
@@ -217,11 +225,11 @@ b) Dar parecer sobre todas as matérias relacionadas com as actividades gimnodes
 
 6. O conselho consultivo reunirá, ordinàriamente, de três em três meses e, extraordinàriamente, sempre que convocado pelo presidente.
 
-###### Art. 8.º - 1. O mandato dos membros designados dos conselhos é de três anos, renovável por períodos iguais, e pode ser dado por findo em qualquer altura.
+Art. 8.º - 1. O mandato dos membros designados dos conselhos é de três anos, renovável por períodos iguais, e pode ser dado por findo em qualquer altura.
 
 2. Servirá de secretário dos conselhos, sem voto, um funcionário da secretaria do C. P. E. F.
 
-###### Art. 9.º - 1. Aos membros do conselho administrativo, com excepção do vogal representante dos Serviços de Fazenda e Contabilidade, e bem assim ao secretário, são devidas gratificações mensais ou senhas de presença, fixadas por despacho do governador-geral, sendo tais gratificações acumuláveis com as remunerações que os nomeados recebam pelo exercício de outras funções públicas.
+Art. 9.º - 1. Aos membros do conselho administrativo, com excepção do vogal representante dos Serviços de Fazenda e Contabilidade, e bem assim ao secretário, são devidas gratificações mensais ou senhas de presença, fixadas por despacho do governador-geral, sendo tais gratificações acumuláveis com as remunerações que os nomeados recebam pelo exercício de outras funções públicas.
 
 2. Os membros do conselho consultivo, com excepção dos que pertençam ao conselho administrativo, têm direito ao abono de uma senha de presença por cada sessão a que assistirem, de montante a fixar pelo governador-geral.
 
@@ -229,7 +237,7 @@ b) Dar parecer sobre todas as matérias relacionadas com as actividades gimnodes
 
 4. Os membros dos conselhos administrativo e consultivo, quando tenham de se deslocar no desempenho das suas funções, terão direito ao abono de transportes e ajudas de custo, nos termos da legislação vigente.
 
-###### Art. 10.º - 1. Para que os conselhos administrativo e consultivo possam deliberar é necessária a presença da maioria dos seus membros.
+Art. 10.º - 1. Para que os conselhos administrativo e consultivo possam deliberar é necessária a presença da maioria dos seus membros.
 
 2. As deliberações são tomadas à pluralidade de votos dos presentes; em caso de empate, o presidente tem voto de qualidade.
 
@@ -237,7 +245,7 @@ b) Dar parecer sobre todas as matérias relacionadas com as actividades gimnodes
 
 O governador-geral terá o prazo máximo de quinze dias para decidir sobre as deliberações votadas, findo o qual elas se consideram aprovadas.
 
-###### Art. 11.º O Fundo funcionará junto do C. P. E. F., observando-se o seguinte:
+Art. 11.º O Fundo funcionará junto do C. P. E. F., observando-se o seguinte:
 
 a) A preparação e execução das deliberações dos conselhos administrativo e consultivo são da competência do presidente ou do seu substituto legal;
 
@@ -247,9 +255,9 @@ o pessoal considerado indispensável pelo governador-geral, devendo os encargos 
 
 c) O Fundo poderá solicitar a colaboração de qualquer departamento do C. P. E. F. e a de qualquer departamento ou serviço público, dentro das respectivas competências.
 
-###### Art. 12.º Para a realização das atribuições conferidas ao Fundo e execução de tarefas específicas de natureza técnica, científica ou pedagógica, podem ser constituídos grupos de trabalho, mediante autorização do governador-geral.
+Art. 12.º Para a realização das atribuições conferidas ao Fundo e execução de tarefas específicas de natureza técnica, científica ou pedagógica, podem ser constituídos grupos de trabalho, mediante autorização do governador-geral.
 
-###### Art. 13.º - 1. As despesas do Fundo são autorizadas:
+Art. 13.º - 1. As despesas do Fundo são autorizadas:
 
 1.º Até 10000$00, pelo presidente ou pelo seu substituto;
 
@@ -259,11 +267,11 @@ c) O Fundo poderá solicitar a colaboração de qualquer departamento do C. P. E
 
 2. Sob proposta do conselho administrativo, o governador-geral pode autorizar a realização de fornecimentos ou empreitadas com dispensa de concurso público ou limitado e de contrato escrito, quando a natureza ou urgência do caso assim o aconselhar e o valor dos fornecimentos ou das empreitadas não exceda 200000$00.
 
-###### Art. 14.º O numerário do Fundo será depositado nos termos legais, mas o conselho administrativo pode manter em cofre um fundo de maneio, para satisfazer despesas correntes, de quantitativo a fixar pelo governador-geral.
+Art. 14.º O numerário do Fundo será depositado nos termos legais, mas o conselho administrativo pode manter em cofre um fundo de maneio, para satisfazer despesas correntes, de quantitativo a fixar pelo governador-geral.
 
-###### Art. 15.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos devem ser assinados ou visados pelo presidente e por um vogal do conselho administrativo que for designado.
+Art. 15.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos devem ser assinados ou visados pelo presidente e por um vogal do conselho administrativo que for designado.
 
-###### Art. 16.º Dependem da aprovação do governador-geral, ouvido o conselho consultivo:
+Art. 16.º Dependem da aprovação do governador-geral, ouvido o conselho consultivo:
 
 a) Os planos referidos nas alíneas a) e b) do artigo 2.º e suas modificações;
 
@@ -277,7 +285,7 @@ e) Os regulamentos do Fundo;
 
 f) As deliberações respeitantes à prática de actos jurídicos, nomeadamente à celebração de contratos de valor superior a 50000$00.
 
-###### Art. 17.º Dos planos referidos nas alíneas a) e b) do artigo 2.º devem constar as seguintes matérias:
+Art. 17.º Dos planos referidos nas alíneas a) e b) do artigo 2.º devem constar as seguintes matérias:
 
 a) Construção de instalações gimnodesportivas e seu apetrechamento;
 
@@ -297,11 +305,11 @@ h) Concessão de bolsas e subsídios de estudo, nos termos a regulamentar;
 
 i) Discriminação pormenorizada das despesas a efectuar.
 
-###### Art. 18.º O custo das obras e aquisições referidas nas alíneas a) e b) do artigo 17.º, na sua totalidade ou na parte comparticipada pelo Fundo, deve ser, em princípio, liquidado directamente aos empreiteiros ou fornecedores, ainda que os contratos não tenham sido por ele firmados.
+Art. 18.º O custo das obras e aquisições referidas nas alíneas a) e b) do artigo 17.º, na sua totalidade ou na parte comparticipada pelo Fundo, deve ser, em princípio, liquidado directamente aos empreiteiros ou fornecedores, ainda que os contratos não tenham sido por ele firmados.
 
-###### Art. 19.º Os encargos previstos nas alíneas c) e e) do artigo 17.º são tomados em princípio sob a forma de subsídios concedidos directamente às entidades que organizarem os respectivos serviços ou participarem nas competições.
+Art. 19.º Os encargos previstos nas alíneas c) e e) do artigo 17.º são tomados em princípio sob a forma de subsídios concedidos directamente às entidades que organizarem os respectivos serviços ou participarem nas competições.
 
-###### Art. 20.º - 1. Em regra, só são concedidos subsídios às organizações gimnodesportivas se ocorrerem cumulativamente as seguintes condições:
+Art. 20.º - 1. Em regra, só são concedidos subsídios às organizações gimnodesportivas se ocorrerem cumulativamente as seguintes condições:
 
 a) Acharem-se pormenorizadamente especificados e devidamente justificados os fins a que os subsídios se aplicam;
 
@@ -313,23 +321,23 @@ b) Destinarem-se efectivamente os subsídios às organizações gimnodesportivas
 
 4. Os dirigentes dessa organização responsáveis pelo acto que deu causa à rescisão garantem, pessoal e solidàriamente, a restituição do subsídio, sem prejuízo de responsabilidade por perdas e danos em que incorrerem.
 
-###### Art. 21.º - 1. Ficam sendo propriedade do Estado as instalações gimnodesportivas, com o respectivo apetrechamento integrante, que tenham sido construídas a expensas do mesmo Fundo, em terrenos por ele adquiridos, a título gratuito ou oneroso, ou em terrenos do domínio público ou privado do Estado, autarquias locais ou instituições públicas, se o valor da construção exceder o terreno, ao tempo dela, e se outra coisa não tiver sido estipulada.
+Art. 21.º - 1. Ficam sendo propriedade do Estado as instalações gimnodesportivas, com o respectivo apetrechamento integrante, que tenham sido construídas a expensas do mesmo Fundo, em terrenos por ele adquiridos, a título gratuito ou oneroso, ou em terrenos do domínio público ou privado do Estado, autarquias locais ou instituições públicas, se o valor da construção exceder o terreno, ao tempo dela, e se outra coisa não tiver sido estipulada.
 
 2. O disposto no n.º 1 aplica-se às instalações cujos encargos tenham sido comparticipados conjuntamente pelo Fundo e outras entidades, quando a comparticipação daquele seja igual ou superior à mais elevada comparticipação destas.
 
 3. Tratando-se de equipamentos ou apetrechos, podem os mesmos ser cedidos, a título gratuito ou oneroso, às organizações interessadas, nos termos do respectivo regulamento a estabelecer pelo mesmo Fundo.
 
-###### Art. 22.º São isentos de direitos aduaneiros e mais imposições legais aduaneiras, com excepção do imposto do selo, os filmes didácticos e os artigos de natureza gimnodesportiva importados pelo Fundo.
+Art. 22.º São isentos de direitos aduaneiros e mais imposições legais aduaneiras, com excepção do imposto do selo, os filmes didácticos e os artigos de natureza gimnodesportiva importados pelo Fundo.
 
-###### Art. 23.º Os elementos individuais ou colectivos que se desloquem para representação do C. P. E. F., do desporto escolar e universitário ou de organismos desportivos oficialmente reconhecidos, têm direito a passaportes individuais ou certificados colectivos de identidade e viagem, isentos de emolumentos e taxas de qualquer natureza.
+Art. 23.º Os elementos individuais ou colectivos que se desloquem para representação do C. P. E. F., do desporto escolar e universitário ou de organismos desportivos oficialmente reconhecidos, têm direito a passaportes individuais ou certificados colectivos de identidade e viagem, isentos de emolumentos e taxas de qualquer natureza.
 
-###### Art. 24.º Na concessão de terrenos e na sua resolução, prevista nos artigos 152.º e 153.º do [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, devem os Serviços Geográficos e Cadastrais ouvir prèviamente o C. P. E. F., quando se destinarem a instalações gimnodesportivas.
+Art. 24.º Na concessão de terrenos e na sua resolução, prevista nos artigos 152.º e 153.º do [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, devem os Serviços Geográficos e Cadastrais ouvir prèviamente o C. P. E. F., quando se destinarem a instalações gimnodesportivas.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Outubro de 1969.**
+Promulgado em 16 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

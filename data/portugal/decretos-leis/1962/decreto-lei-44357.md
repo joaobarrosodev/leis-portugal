@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 115/1962, 1º Suplemento, Série I de 1962-05-21
   number: '115'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 744 - 744
   pdf_url: https://files.diariodarepublica.pt/1s/1962/05/11501/07440744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44357-1962-414201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54b2e31e45a5bfd4f84c198901519c4e54eadeda489fcd9be07c24c3acdf667c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 137890dbb22d7cdded3692bdb716643a0183585d47834d7810de39b92cf543a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Permanente da Acção Educativa
+- Definição de Competências
+- Estudante
+- Infracção Disciplinar
+- Ministro da Educação Nacional
+- Processo Disciplinar
+- Sanção Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:1149265695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:524011:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640339:por
+  label: "Revogado a partir de 10.10.2007 pela LEI.62/2007.10.09.2007.AR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/62-2007-640339
+  date: '2007-09-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:55Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +106,16 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sem prejuízo da competência atribuída por lei a outras entidades, o Ministro da Educação Nacional poderá sempre ordenar procedimento disciplinar contra alunos das escolas dependentes do Ministério, nomear livremente os instrutores e aplicar, mediante parecer do Conselho Permanente da Acção Educativa, qualquer das penas previstas pela legislação respectiva, podendo ser temporária a pena prevista no n.º 6.º do artigo 3.º do [Decreto n.º 21160](https://diariodarepublica.pt/dr/detalhe/decreto/21160-1932-524011), de 1 de Abril de 1932.
+Artigo 1.º Sem prejuízo da competência atribuída por lei a outras entidades, o Ministro da Educação Nacional poderá sempre ordenar procedimento disciplinar contra alunos das escolas dependentes do Ministério, nomear livremente os instrutores e aplicar, mediante parecer do Conselho Permanente da Acção Educativa, qualquer das penas previstas pela legislação respectiva, podendo ser temporária a pena prevista no n.º 6.º do artigo 3.º do [Decreto n.º 21160](https://diariodarepublica.pt/dr/detalhe/decreto/21160-1932-524011), de 1 de Abril de 1932.
 
-###### Art. 2.º - 1. Os alunos arguidos em qualquer processo disciplinar poderão ser, sob proposta do instrutor e mediante despacho da entidade que mande instaurar o processo, suspensos imediatamente da frequência das aulas.
+Art. 2.º - 1. Os alunos arguidos em qualquer processo disciplinar poderão ser, sob proposta do instrutor e mediante despacho da entidade que mande instaurar o processo, suspensos imediatamente da frequência das aulas.
 
 2. A suspensão preventiva das aulas implica a imediata suspensão de quaisquer direitos ou regalias que o arguido possua na sua qualidade de aluno.
 
 3. A suspensão será imposta por prazo não superior a 90 dias, mas prorrogável por períodos de igual duração.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

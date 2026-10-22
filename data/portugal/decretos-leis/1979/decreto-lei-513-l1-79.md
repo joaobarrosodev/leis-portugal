@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 297/1979, 4º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3366-(121) a 3366-(125)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29704/01210125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-l1-1979-147399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b41e0db849db80f63728f0f19454469222c854f2c1426cb4ed2f984eb50a30b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a8180111ba95bb2c9e1e60cf051866187430881dc784d039ef873298dd63c4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior Politécnico
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:495503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474078:por
+  label: "Alterados os artigos 6.º, 16.º, 25.º, 27.º, 34.º e revogados os artigos 25.º, n.º 4, e 26.º, pelo DEC LEI.131/80.17.05.1980.MECI,\
+    \ DR.IS [114] de 17.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1980-474078
+  date: '1980-05-17'
+- type: amended_by
+  target: pt:dre:307784:por
+  label: "Alterados os artigos 12.º e 21.º, pelo DEC LEI.30/83.22.01.1983.ME, DR.IS [18] de 22.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1983-307784
+  date: '1983-01-22'
+- type: amended_by
+  target: pt:dre:358365:por
+  label: "Alterado o artigo 6.º, alterado pelo artigo 1.º do Decreto-Lei n.º 131/80, de 17 de Maio, pelo DEC LEI.399/88.08.11.1988.ME,\
+    \ DR.IS [258] de 08.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1988-358365
+  date: '1988-11-08'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372634:por
+  label: "Revogados os arts. 10º, 11º, 19º e 20º pelo DEC LEI.260/88.23.07.1988.ME, DR.IS [169] de 23.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1988-372634
+  date: '1988-07-23'
+- type: repealed_by
+  target: pt:dre:646304:por
+  label: "Revogados os artigos 22.º, 23.º e 24.º, pelo DEC LEI.344/93.01.10.1993.ME, DR.IS-A [231] de 01.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/344-1993-646304
+  date: '1993-10-01'
+- type: repealed_by
+  target: pt:dre:495503:por
+  label: "Revogado o presente diploma, e respectiva legislação complementar, pelo DEC LEI.24/94.1994.01.27.ME DR.IS-A [22]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-1994-495503
+  date: '1994-01-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:33Z'
   warnings: []
   errors: []
 ---
@@ -110,33 +157,33 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Das disposições gerais
 
-###### Artigo 1.º - 1 - Os estabelecimentos de ensino superior politécnico estão sujeitos, por um período mínimo de três anos, ao regime de instalação constante do presente diploma.
+Artigo 1.º - 1 - Os estabelecimentos de ensino superior politécnico estão sujeitos, por um período mínimo de três anos, ao regime de instalação constante do presente diploma.
 
 2 - O período fixado no número anterior pode, por despacho do Ministro da Educação, ser acrescido, no máximo, de mais três prorrogações anuais.
 
 3 - O prazo do período de instalação começa a contar-se a partir da data da tomada de posse das comissões instaladoras de cada um daqueles estabelecimentos de ensino.
 
-###### Art. 2.º São instituídas comissões instaladoras para os estabelecimentos de ensino superior politécnico, que exercerão o seu mandato durante o período previsto no artigo anterior.
+Art. 2.º São instituídas comissões instaladoras para os estabelecimentos de ensino superior politécnico, que exercerão o seu mandato durante o período previsto no artigo anterior.
 
-###### Art. 3.º - 1 - Aos membros das comissões instaladoras ora instituídas é devida uma gratificação mensal, de montante a fixar por despacho conjunto do Ministro das Finanças, do Ministro da Educação e do Secretário de Estado da Administração Pública.
+Art. 3.º - 1 - Aos membros das comissões instaladoras ora instituídas é devida uma gratificação mensal, de montante a fixar por despacho conjunto do Ministro das Finanças, do Ministro da Educação e do Secretário de Estado da Administração Pública.
 
 2 - O pessoal mencionado no número anterior tem igualmente direito ao abono de ajudas de custo e transportes quando se desloque da sua residência.
 
-###### Art. 4.º Sob proposta fundamentada das comissões instaladoras dos estabelecimentos de ensino a que se referem os artigos anteriores, pode o Ministro da Educação autorizar que, em missão oficial de serviço, se desloquem a centros nacionais ou estrangeiros elementos do respectivo pessoal docente, técnico ou administrativo.
+Art. 4.º Sob proposta fundamentada das comissões instaladoras dos estabelecimentos de ensino a que se referem os artigos anteriores, pode o Ministro da Educação autorizar que, em missão oficial de serviço, se desloquem a centros nacionais ou estrangeiros elementos do respectivo pessoal docente, técnico ou administrativo.
 
 ### CAPÍTULO II — Do regime de instalação
 
 #### SECÇÃO I — Das escolas superiores
 
-###### Art. 5.º - 1 - Durante o período de instalação, e sem prejuízo do que ulteriormente vier a ser estabelecido, as escolas superiores têm personalidade jurídica e gozam de autonomia pedagógica e científica.
+Art. 5.º - 1 - Durante o período de instalação, e sem prejuízo do que ulteriormente vier a ser estabelecido, as escolas superiores têm personalidade jurídica e gozam de autonomia pedagógica e científica.
 
 2 - As escolas superiores não integradas em Institutos Politécnicos dispõem ainda de autonomia administrativa.
 
-###### Art. 6.º - 1 - A comissão instaladora de cada escola superior é composta por um presidente e dois vogais, nomeados por despacho do Ministro da Educação, de entre professores do quadro transitório referido no artigo 25.º ou de entre outras individualidades, nos termos do artigo 26.º
+Art. 6.º - 1 - A comissão instaladora de cada escola superior é composta por um presidente e dois vogais, nomeados por despacho do Ministro da Educação, de entre professores do quadro transitório referido no artigo 25.º ou de entre outras individualidades, nos termos do artigo 26.º
 
 2 - As nomeações previstas no número anterior consideram-se efectuadas em regime de comissão de serviço até ao termo do período de instalação.
 
-###### Art. 7.º - 1 - Compete, nomeadamente às comissões instaladoras das escolas superiores:
+Art. 7.º - 1 - Compete, nomeadamente às comissões instaladoras das escolas superiores:
 
 a) Colaborar, na execução das acções necessárias à instalação da escola, com a Direcção-Geral do Ensino Superior e, tratando-se de escolas integradas em Institutos Politécnicos, com as comissões instaladoras respectivas;
 
@@ -158,7 +205,7 @@ d) Adquirir equipamento e mobiliário, de acordo com as normas para tal estabele
 
 e) Propor planos para a formação de pessoal técnico e administrativo.
 
-###### Art. 8.º - 1 - Os presidentes das comissões instaladoras das escolas superiores estão incumbidos de zelar pela observância das normas legais e regulamentares aplicáveis.
+Art. 8.º - 1 - Os presidentes das comissões instaladoras das escolas superiores estão incumbidos de zelar pela observância das normas legais e regulamentares aplicáveis.
 
 2 - Compete ainda aos presidentes das comissões instaladoras das escolas superiores não integradas em Institutos Politécnicos:
 
@@ -168,13 +215,13 @@ b) Submeter à consideração do Ministro da Educação todas as questões que c
 
 c) Presidir ao conselho administrativo.
 
-###### Art. 9.º A gestão administrativa e patrimonial das escolas superiores não integradas em Institutos Politécnicos é assegurada por um conselho administrativo, constituído pelos membros da comissão instaladora e pelo secretário de cada uma delas.
+Art. 9.º A gestão administrativa e patrimonial das escolas superiores não integradas em Institutos Politécnicos é assegurada por um conselho administrativo, constituído pelos membros da comissão instaladora e pelo secretário de cada uma delas.
 
-###### Art. 10.º - 1 - O recrutamento dos secretários das escolas superiores faz-se por concurso documental, de entre indivíduos habilitados com uma licenciatura adequada que preencham os demais requisitos de admissão constantes do respectivo edital de abertura, a publicar em Diário da República.
+Art. 10.º - 1 - O recrutamento dos secretários das escolas superiores faz-se por concurso documental, de entre indivíduos habilitados com uma licenciatura adequada que preencham os demais requisitos de admissão constantes do respectivo edital de abertura, a publicar em Diário da República.
 
 2 - Os titulares do cargo a que se refere o número anterior têm a categoria correspondente à letra E e são nomeados, sob proposta do director-geral do Ensino Superior, fundamentada nos resultados do concurso, por despacho do Ministro da Educação, ficando providos em regime de comissão de serviço até ao termo do período de instalação.
 
-###### Art. 11.º - 1 - Compete ao secretário das escolas superiores:
+Art. 11.º - 1 - Compete ao secretário das escolas superiores:
 
 a) Secretariar as reuniões da comissão instaladora, prestando-lhe o devido apoio técnico;
 
@@ -194,17 +241,17 @@ h) Assegurar a boa arrumação e conservação do arquivo da escola.
 
 2 - O secretário é substituído, nas suas faltas e impedimentos, pelo funcionário administrativo de mais elevada categoria ou, existindo mais de um nessa categoria, pelo mais antigo.
 
-###### Art. 12.º - 1 - Todas as receitas das escolas superiores não integradas em Institutos Politécnicos darão entrada na Caixa Geral de Depósitos, em conta especial, à ordem dos respectivos conselhos administrativos.
+Art. 12.º - 1 - Todas as receitas das escolas superiores não integradas em Institutos Politécnicos darão entrada na Caixa Geral de Depósitos, em conta especial, à ordem dos respectivos conselhos administrativos.
 
 2 - Os conselhos administrativos apresentarão trimestralmente a visto do Ministro da Educação um balancete, de que será enviada cópia à Direcção-Geral da Contabilidade Pública e do qual constarão o saldo da conta de depósito e as receitas arrecadadas e despesas pagas no trimestre anterior, bem como as despesas previstas para o trimestre seguinte.
 
 #### SECÇÃO II — Dos institutos politécnicos
 
-###### Art. 13.º Durante o período de instalação, e sem prejuízo do que ulteriormente vier a ser estabelecido, os Institutos Politécnicos têm personalidade jurídica e gozam de autonomia administrativa.
+Art. 13.º Durante o período de instalação, e sem prejuízo do que ulteriormente vier a ser estabelecido, os Institutos Politécnicos têm personalidade jurídica e gozam de autonomia administrativa.
 
-###### Art. 14.º Da comissão instaladora de cada Instituto Politécnico fazem parte um presidente e, como vogais, o administrador do Instituto e os presidentes das comissões instaladoras das escolas superiores que nele se agrupam.
+Art. 14.º Da comissão instaladora de cada Instituto Politécnico fazem parte um presidente e, como vogais, o administrador do Instituto e os presidentes das comissões instaladoras das escolas superiores que nele se agrupam.
 
-###### Art. 15.º Compete às comissões instaladoras dos Institutos Politécnicos:
+Art. 15.º Compete às comissões instaladoras dos Institutos Politécnicos:
 
 a) Coordenar as actividades de instalação, administração e gestão das escolas agrupadas no respectivo Instituto;
 
@@ -220,11 +267,11 @@ f) Propor planos para a formação de pessoal técnico e administrativo;
 
 g) Colaborar com a Direcção-Geral do Ensino Superior nas acções necessárias à instalação do instituto respectivo e das escolas que o integram.
 
-###### Art. 16.º - 1 - Os presidentes das comissões instaladoras dos Institutos Politécnicos são livremente nomeados pelo Ministro da Educação, de entre individualidades de reconhecido mérito pedagógico, científico ou técnico, habilitadas, pelo menos, com o grau de licenciado.
+Art. 16.º - 1 - Os presidentes das comissões instaladoras dos Institutos Politécnicos são livremente nomeados pelo Ministro da Educação, de entre individualidades de reconhecido mérito pedagógico, científico ou técnico, habilitadas, pelo menos, com o grau de licenciado.
 
 2 - Os titulares do cargo a que se refere o número anterior percebem uma remuneração a ser fixada por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública e ficam providos em regime de comissão de serviço até ao termo do período de instalação.
 
-###### Art. 17.º Compete aos presidentes das comissões instaladoras dos Institutos Politécnicos:
+Art. 17.º Compete aos presidentes das comissões instaladoras dos Institutos Politécnicos:
 
 a) Zelar pela observância das normas legais e regulamentares aplicáveis;
 
@@ -234,7 +281,7 @@ c) Submeter à consideração ministerial todos os assuntos que careçam de reso
 
 d) Presidir ao conselho administrativo.
 
-###### Art. 18.º - 1 - A gestão administrativa e patrimonial dos Institutos Politécnicos é assegurada pelo conselho administrativo.
+Art. 18.º - 1 - A gestão administrativa e patrimonial dos Institutos Politécnicos é assegurada pelo conselho administrativo.
 
 2 - São vogais do conselho administrativo de cada Instituto:
 
@@ -242,21 +289,21 @@ a) Os presidentes das comissões instaladoras das escolas nele integradas;
 
 b) O administrador respectivo.
 
-###### Art. 19.º - 1 - Os administradores dos Institutos Politécnicos são recrutados por concurso documental, de entre indivíduos habilitados com uma licenciatura adequada, que preencham os demais requisitos de admissão constantes do respectivo edital de abertura, a publicar no Diário da República.
+Art. 19.º - 1 - Os administradores dos Institutos Politécnicos são recrutados por concurso documental, de entre indivíduos habilitados com uma licenciatura adequada, que preencham os demais requisitos de admissão constantes do respectivo edital de abertura, a publicar no Diário da República.
 
 2 - Os titulares do cargo a que se refere o número anterior têm a categoria correspondente à letra C e são nomeados, sob proposta do director-geral do Ensino Superior, fundamentada nos resultados do concurso, por despacho do Ministro da Educação, ficando providos em regime de comissão de serviço até ao termo do período de instalação.
 
-###### Art. 20.º Compete aos administradores dos Institutos Politécnicos:
+Art. 20.º Compete aos administradores dos Institutos Politécnicos:
 
 a) Assegurar o funcionamento dos serviços administrativos e dirigir o respectivo pessoal;
 
 b) Dar execução às deliberações da comissão instaladora e do conselho administrativo.
 
-###### Art. 21.º É extensivo aos conselhos administrativos dos Institutos Politécnicos o disposto, em matéria de receitas e despesas, no artigo 12.º deste diploma.
+Art. 21.º É extensivo aos conselhos administrativos dos Institutos Politécnicos o disposto, em matéria de receitas e despesas, no artigo 12.º deste diploma.
 
 #### SECÇÃO III — Da coordenação das comissões instaladoras
 
-###### Art. 22.º - 1 - É criado o Conselho Coordenador da Instalação dos Estabelecimentos de Ensino Superior Politécnico.
+Art. 22.º - 1 - É criado o Conselho Coordenador da Instalação dos Estabelecimentos de Ensino Superior Politécnico.
 
 2 - Do Conselho farão parte:
 
@@ -264,7 +311,7 @@ a) Os presidentes das comissões instaladoras dos Institutos Politécnicos;
 
 b) Os presidentes das comissões instaladoras das escolas superiores não integradas em institutos Politéenicos.
 
-###### Art. 23.º Compete ao Conselho Coordenador da Instalação dos Estabelecimentos de Ensino Superior Politécnico:
+Art. 23.º Compete ao Conselho Coordenador da Instalação dos Estabelecimentos de Ensino Superior Politécnico:
 
 a) Propor as linhas gerais da política orientadora da instalação e funcionamento dos novos estabelecimentos de ensino superior politécnico;
 
@@ -272,7 +319,7 @@ b) Apreciar os programas e planos de desenvolvimento apresentados pelos presiden
 
 c) Coordenar todas as actividades empreendidas no âmbito dos estabelecimentos de ensino superior politécnico.
 
-###### Art. 24.º - 1 - A organização e funcionamento interno do Conselho a que se referem os artigos anteriores serão definidos por decreto, a aprovar no prazo de noventa dias, contados a partir da data da publicação do presente diploma, sem prejuízo, porém, da observância do disposto no número seguinte.
+Art. 24.º - 1 - A organização e funcionamento interno do Conselho a que se referem os artigos anteriores serão definidos por decreto, a aprovar no prazo de noventa dias, contados a partir da data da publicação do presente diploma, sem prejuízo, porém, da observância do disposto no número seguinte.
 
 2 - Nas reuniões plenárias, os presidentes dos Institutos Politécnicos terão direito a tantos votos quantas as escolas superiores integradas nos respectivos Institutos.
 
@@ -280,7 +327,7 @@ c) Coordenar todas as actividades empreendidas no âmbito dos estabelecimentos d
 
 ##### SUBSECÇÃO I — Do pessoal docente
 
-###### Art. 25.º - 1 - Independentemente do que vier a ficar consignado no diploma regulador da carreira docente do ensino superior politécnico, poderá o Ministro da Educação, entre a data da entrada em vigor deste decreto-lei e a do termo do período de instalação, precedendo concurso documental de análise curricular e parecer de um grupo de professores ou especialistas de reconhecida competência, nomear, a título excepcional, como professores das escolas superiores individualidades especialmente qualificadas sob o ponto de vista profissional que se encontrem habilitadas com uma licenciatura ou equivalente.
+Art. 25.º - 1 - Independentemente do que vier a ficar consignado no diploma regulador da carreira docente do ensino superior politécnico, poderá o Ministro da Educação, entre a data da entrada em vigor deste decreto-lei e a do termo do período de instalação, precedendo concurso documental de análise curricular e parecer de um grupo de professores ou especialistas de reconhecida competência, nomear, a título excepcional, como professores das escolas superiores individualidades especialmente qualificadas sob o ponto de vista profissional que se encontrem habilitadas com uma licenciatura ou equivalente.
 
 2 - O estatuto remuneratório dos professores referidos no número anterior será definido por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
@@ -288,9 +335,9 @@ c) Coordenar todas as actividades empreendidas no âmbito dos estabelecimentos d
 
 4 - E assegurado aos docentes admitidos durante o regime de instalação, de acordo com o que vier a ser estabelecido na carreira do ensino superior politécnico, o ingresso nos respectivos quadros.
 
-###### Art. 26.º Ficando deserto o concurso previsto no n.º 1 do artigo 25.º ou não possuindo os candidatos currículo bastante para o provimento a que se refere aquele preceito, caberá ao Ministro da Educação nomear livremente as individualidades que farão parte da comissão instaladora.
+Art. 26.º Ficando deserto o concurso previsto no n.º 1 do artigo 25.º ou não possuindo os candidatos currículo bastante para o provimento a que se refere aquele preceito, caberá ao Ministro da Educação nomear livremente as individualidades que farão parte da comissão instaladora.
 
-###### Art. 27.º - 1 - Durante o período de instalação, poderão as comissões instaladoras propor ao Ministro da Educação a admissão, com vista ao exercício de funções docentes, das individualidades que considerem científica, pedagógica ou profissionalmente idóneas.
+Art. 27.º - 1 - Durante o período de instalação, poderão as comissões instaladoras propor ao Ministro da Educação a admissão, com vista ao exercício de funções docentes, das individualidades que considerem científica, pedagógica ou profissionalmente idóneas.
 
 2 - As admissões são feitas por contrato, nos termos do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, ou em regime de prestação eventual de serviço.
 
@@ -302,21 +349,21 @@ c) Coordenar todas as actividades empreendidas no âmbito dos estabelecimentos d
 
 ##### SUBSECÇÃO II — Do pessoal técnico, administrativo e auxiliar
 
-###### Art. 28.º - 1 - O Ministro da Educação, observadas as disposições legais em vigor em matéria de habilitações, de tempo de serviço e demais regras gerais do regime da função pública, pode autorizar, durante o período de instalação, a admissão de pessoal técnico, administrativo e auxiliar indispensável ao funcionamento dos serviços.
+Art. 28.º - 1 - O Ministro da Educação, observadas as disposições legais em vigor em matéria de habilitações, de tempo de serviço e demais regras gerais do regime da função pública, pode autorizar, durante o período de instalação, a admissão de pessoal técnico, administrativo e auxiliar indispensável ao funcionamento dos serviços.
 
 2 - À admissão do pessoal referido no número anterior é aplicável o disposto nos n.os 2, 3 e 4 do artigo 27.º
 
 ### CAPÍTULO III — Dos conselhos consultivos
 
-###### Art. 29.º Em cumprimento do preceituado no artigo 10.º do [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, é criado, em cada escola superior técnica, um conselho consultivo.
+Art. 29.º Em cumprimento do preceituado no artigo 10.º do [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, é criado, em cada escola superior técnica, um conselho consultivo.
 
-###### Art. 30.º - 1 - A composição do conselho consultivo e a duração do seu mandato serão definidas no regulamento interno de cada uma daquelas escolas.
+Art. 30.º - 1 - A composição do conselho consultivo e a duração do seu mandato serão definidas no regulamento interno de cada uma daquelas escolas.
 
 2 - Os representantes regulamentarmente designados para o mesmo conselho serão substituídos logo que deixem de exercer as funções que ocasionaram a sua designação.
 
 3 - O conselho referido nos números anteriores é presidido, durante o período de instalação, pelo presidente da comissão instaladora da escola.
 
-###### Art. 31.º - 1 - Compete ao conselho consultivo emitir parecer sobre:
+Art. 31.º - 1 - Compete ao conselho consultivo emitir parecer sobre:
 
 a) A criação de novos cursos e a validade dos cursos existentes;
 
@@ -328,28 +375,28 @@ d) A realização, na escola, de cursos de aperfeiçoamento e de actualização.
 
 2 - Compete ainda ao conselho consultivo fomentar o estabelecimento de laços de cooperação entre a escola e as actividades sócio-económicas, existentes ou a criar, a nível nacional ou regional.
 
-###### Art. 32.º O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, todo o tempo, por iniciativa do presidente ou de um terço dos seus membros em efectividade de funções.
+Art. 32.º O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, todo o tempo, por iniciativa do presidente ou de um terço dos seus membros em efectividade de funções.
 
 ### CAPÍTULO IV — Das disposições finais e transitórias
 
-###### Art. 33.º - 1 - As comissões instaladoras dos estabelecimentos de ensino superior politécnico resultantes da reconversão ou transformação de outros estabelecimentos apresentarão ao Ministro da Educação, nos noventa dias subsequentes ao da respectiva tomada de posse, um relatório circunstanciado contendo propostas tendentes à concretização da reconversão ou transformação referidas, nomeadamente no que concerne ao aproveitamento das instalações e equipamento e ao destino do pessoal, tendo, para tanto, em consideração os estudos já realizados pelas Direcções-Gerais dos Ensinos Superior e Básico e do Equipamento Escolar.
+Art. 33.º - 1 - As comissões instaladoras dos estabelecimentos de ensino superior politécnico resultantes da reconversão ou transformação de outros estabelecimentos apresentarão ao Ministro da Educação, nos noventa dias subsequentes ao da respectiva tomada de posse, um relatório circunstanciado contendo propostas tendentes à concretização da reconversão ou transformação referidas, nomeadamente no que concerne ao aproveitamento das instalações e equipamento e ao destino do pessoal, tendo, para tanto, em consideração os estudos já realizados pelas Direcções-Gerais dos Ensinos Superior e Básico e do Equipamento Escolar.
 
 2 - O Ministro da Educação, com base nas propostas que forem aprovadas, promoverá, dentro dos noventa dias que se seguirem, a implementação das medidas legislativas necessárias e adequadas à integral concretização das mesmas reconversões ou transformações.
 
-###### Art. 34.º - 1 - Os quadros de pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino superior politécnico serão constituídos, até ao termo do período de instalação respectivo, por decreto referendado pelo Ministro das Finanças, pelo Ministro da Educação e pelo Secretário de Estado da Administração Pública.
+Art. 34.º - 1 - Os quadros de pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino superior politécnico serão constituídos, até ao termo do período de instalação respectivo, por decreto referendado pelo Ministro das Finanças, pelo Ministro da Educação e pelo Secretário de Estado da Administração Pública.
 
 2 - Com excepção do pessoal a que se refere o artigo 25.º, o restante pessoal admitido durante o período de instalação e em exercício à data da publicação dos quadros poderá ingressar nestes e ser provido em lugares de categoria idêntica ou equivalente à que tinha, mediante lista nominativa aprovada pelo Ministro da Educação e com dispensa de quaisquer formalidades que não sejam o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 35.º Durante o período de instalação, a importação de equipamento científico e de outro material necessário aos estabelecimentos de ensino superior politécnico poderá ser isenta do pagamento de direitos aduaneiros, nos termos do artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
+Art. 35.º Durante o período de instalação, a importação de equipamento científico e de outro material necessário aos estabelecimentos de ensino superior politécnico poderá ser isenta do pagamento de direitos aduaneiros, nos termos do artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
 
-###### Art. 36.º O Governo, através do Ministério das Finanças, adoptará as medidas de ordem financeira indispensáveis à cobertura dos encargos decorrentes deste decreto-lei.
+Art. 36.º O Governo, através do Ministério das Finanças, adoptará as medidas de ordem financeira indispensáveis à cobertura dos encargos decorrentes deste decreto-lei.
 
-###### Art. 37.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças, da Educação e do Secretário de Estado da Administração Pública.
+Art. 37.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças, da Educação e do Secretário de Estado da Administração Pública.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

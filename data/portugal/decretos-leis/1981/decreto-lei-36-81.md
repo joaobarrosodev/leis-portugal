@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1981-388435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efbf0f0921e181463bea58829e4fffa5a5d451050da46ccf6863a309529c9d56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a9eb2cc90b3e9e296fd92c8d5cdf6c512d63dc26249b098c243780060fe76ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- FMI
+relationships:
+- type: cites
+  target: pt:dre:307421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:16Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +117,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º È o Governo autorizado a dar o seu acordo ao aumento da quota de Portugal no Fundo Monetário Internacional de 172 milhões para 258 milhões de direitos de saque especiais.
+Artigo 1.º È o Governo autorizado a dar o seu acordo ao aumento da quota de Portugal no Fundo Monetário Internacional de 172 milhões para 258 milhões de direitos de saque especiais.
 
-###### Art. 2.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, na parte referente ao Fundo Monetário Internacional, com as alterações decorrentes da segunda emenda ao acordo relativo ao mesmo Fundo, aprovada para adesão pela Resolução n.º 8-A/78, de 20 de Janeiro, e com as alterações introduzidas pelos artigos seguintes, vigorará em relação à totalidade da quota do País, abrangendo tanto a quota inicial como os aumentos autorizados pelos Decretos-Leis n.os 46471, de 7 de Agosto de 1965, [148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762), de 21 de Abril, e [118-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-1978-354107), de 31 de Maio, e pelo artigo 1.º do presente diploma.
+Art. 2.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, na parte referente ao Fundo Monetário Internacional, com as alterações decorrentes da segunda emenda ao acordo relativo ao mesmo Fundo, aprovada para adesão pela Resolução n.º 8-A/78, de 20 de Janeiro, e com as alterações introduzidas pelos artigos seguintes, vigorará em relação à totalidade da quota do País, abrangendo tanto a quota inicial como os aumentos autorizados pelos Decretos-Leis n.os 46471, de 7 de Agosto de 1965, [148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762), de 21 de Abril, e [118-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-1978-354107), de 31 de Maio, e pelo artigo 1.º do presente diploma.
 
-###### Art. 3.º A importância total da responsabilidade para com o Fundo, representada pelos títulos de obrigações emitidos em conformidade com o n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, e ao abrigo do disposto no artigo III da secção 4 da segunda emenda ao acordo relativo ao mesmo Fundo, não poderá exceder o quantitativo correspondente ao contravalor em escudos da parte da quota de Portugal a realizar em moeda nacional nos termos do acordo relativo àquele Fundo, menos as somas que, nos termos que estiverem acordados entre o Estado e o Banco de Portugal, este Banco tenha entregue ao Fundo, por conta e ordem do Estado, relativas à integração daquela parte da mencionada quota e de que o Banco de Portugal não se encontre reembolsado.
+Art. 3.º A importância total da responsabilidade para com o Fundo, representada pelos títulos de obrigações emitidos em conformidade com o n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, e ao abrigo do disposto no artigo III da secção 4 da segunda emenda ao acordo relativo ao mesmo Fundo, não poderá exceder o quantitativo correspondente ao contravalor em escudos da parte da quota de Portugal a realizar em moeda nacional nos termos do acordo relativo àquele Fundo, menos as somas que, nos termos que estiverem acordados entre o Estado e o Banco de Portugal, este Banco tenha entregue ao Fundo, por conta e ordem do Estado, relativas à integração daquela parte da mencionada quota e de que o Banco de Portugal não se encontre reembolsado.
 
-###### Art. 4.º A autorização concedida pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) abrangerá todos os encargos inerentes à realização da quota de Portugal no Fundo até ao seu novo valor de 258 milhões de direitos de saque especiais.
+Art. 4.º A autorização concedida pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) abrangerá todos os encargos inerentes à realização da quota de Portugal no Fundo até ao seu novo valor de 258 milhões de direitos de saque especiais.
 
-###### Art. 5.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 23 de Fevereiro de 1981.**
+Promulgado em 23 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

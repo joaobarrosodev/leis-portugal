@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/07/16300/10311036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46449-1965-291967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6e038b934ba8cd1f432fd9c4eb7b4993dad3f13726b72277606043612523bd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 755db7d93acb9461a7c61cba8fe244e0cfe9dc60657f1bd3e5a02c78b8059d29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Desporto
+- Equipamento Desportivo
+- Financiamento
+- Fiscalização
+- Fundo de Fomento do Desporto
+- Gestão Financeira
+- Gratificação
+- Ministério das Obras Públicas
+- Ministro da Educação Nacional
+- Obras Públicas
+- Orgânica
+- Receita Própria
+- Remuneração
+- Senha de Presença
 relationships:
 - type: amended_by
   target: pt:dre:665345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478007:por
+  label: "Alterado o art. 18º pelo DEC LEI.47393.20.12.1966.MEN, DG.IS [293] de 20.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47393-1966-478007
+  date: '1966-12-20'
+- type: amended_by
+  target: pt:dre:147195:por
+  label: "Dada nova redacção ao art. 9º pelo DEC LEI.556/70.13.11.1970.MEN, DG.IS [264] de 13.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/556-1970-147195
+  date: '1970-11-13'
+- type: amended_by
+  target: pt:dre:665345:por
+  label: "Extinto o Fundo de Fomento do Desporto, criado no presente diploma, e procedida à transferência do seu património,\
+    \ pelo DEC LEI.143/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1993-665345
+  date: '1993-04-26'
+- type: cites
+  target: pt:dre:163657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:509633:por
+  label: "Rectificado os arts. 6º e 11º, o nº 2 do art. 14º e o nº 1 do art. 19º pela RECT.DD595.07.09.1965.PC, DG.IS [202]\
+    \ de 07.09.1965\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-509633
+  date: '1965-09-07'
+- type: repealed_by
+  target: pt:dre:421995:por
+  label: "Revogado pelo DEC LEI.193/73.30.04.1973.MEN, DG.IS [101] de 30.04.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1973-421995
+  date: '1973-04-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:55Z'
   warnings: []
   errors: []
 ---
@@ -138,11 +204,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado no Ministério da Educação Nacional, sob a dependência directa do Ministro, o Fundo de Fomento do Desporto, que terá por fim promover o desenvolvimento das actividades gimno-desportivas.
+Artigo 1.º - 1. É criado no Ministério da Educação Nacional, sob a dependência directa do Ministro, o Fundo de Fomento do Desporto, que terá por fim promover o desenvolvimento das actividades gimno-desportivas.
 
 2. O Fundo de Fomento do Desporto tem personalidade jurídica e goza de autonomia administrativa e financeira sem prejuízo da faculdade que assiste ao Ministro de lhe dar orientações ou instruções para a perfeita realização dos seus fins ou bom funcionamento dos serviços.
 
-###### Art. 2.º Na prossecução da finalidade definida no artigo anterior, são atribuições do Fundo de Fomento do Desporto, além das previstas noutros preceitos deste diploma, as seguintes:
+Art. 2.º Na prossecução da finalidade definida no artigo anterior, são atribuições do Fundo de Fomento do Desporto, além das previstas noutros preceitos deste diploma, as seguintes:
 
 a) Ultimar e manter devidamente actualizadas a inventariação e classificação das instalações gimno-desportivas, quer públicas, quer privadas;
 
@@ -158,15 +224,15 @@ f) Administrar as instalações, equipamentos e apetrechos que fiquem sendo prop
 
 g) Coordenar todas as iniciativas, públicas ou privadas, de fomento gimno-desportivo, segundo regras a estabelecer superiormente.
 
-###### Art. 3.º - 1. A execução e fiscalização das obras de natureza gimno-desportiva que fiquem sendo propriedade do Estado competem ao Ministério das Obras Públicas, nos termos da legislação em vigor e do presente diploma.
+Art. 3.º - 1. A execução e fiscalização das obras de natureza gimno-desportiva que fiquem sendo propriedade do Estado competem ao Ministério das Obras Públicas, nos termos da legislação em vigor e do presente diploma.
 
 2. A iniciativa dessas obras pertence ao Ministro da Educação Nacional e os respectivos projectos carecem da sua aprovação quanto aos aspectos económicos e de política ou técnica gimno-desportiva. Antes de decidir, o Ministro da Educação Nacional ouvirá o Fundo de Fomento do Desporto, que deverá também acompanhar a execução das obras.
 
-###### Art. 4.º - 1. Quanto às obras gimno-desportivas pertencentes a outras entidades, mas subsidiadas pelo Fundo de Fomento do Desporto, poderá o Ministro da Educação Nacional, se assim o entender, sujeitar à sua aprovação os respectivo projectos, depois de ouvido o Fundo, que poderá prestar às referidas entidades apoio jurídico na celebração dos contratos e fiscalizar a execução das obras.
+Art. 4.º - 1. Quanto às obras gimno-desportivas pertencentes a outras entidades, mas subsidiadas pelo Fundo de Fomento do Desporto, poderá o Ministro da Educação Nacional, se assim o entender, sujeitar à sua aprovação os respectivo projectos, depois de ouvido o Fundo, que poderá prestar às referidas entidades apoio jurídico na celebração dos contratos e fiscalizar a execução das obras.
 
 2. Se, porém, estas obras forem também comparticipadas pelo Ministério das Obras Públicas, a eventual intervenção do Ministério da Educação Nacional limitar-se-á à aprovação dos projectos e acompanhamento da sua execução, nos termos constantes do artigo 3.º, n.º 2.
 
-###### Art. 5.º Constituem receitas do Fundo de Fomento do Desporto:
+Art. 5.º Constituem receitas do Fundo de Fomento do Desporto:
 
 a) A percentagem do produto líquido da exploração dos concursos de prognósticos ou apostas mútuas sobre resultados de competições desportivas, prevista no artigo 14.º, § 1.º, alínea a), do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961;
 
@@ -178,7 +244,7 @@ d) As taxas de utilização das instalações, equipamentos ou apetrechos referi
 
 e) Os rendimentos dos capitais próprios e quaisquer outras receitas não proibidas por lei.
 
-###### Art. 6.º - 1.º A administração do Fundo de Fomento do Desporto será exercida por um conselho administrativo, constituído pelos seguintes membros:
+Art. 6.º - 1.º A administração do Fundo de Fomento do Desporto será exercida por um conselho administrativo, constituído pelos seguintes membros:
 
 a) O director-geral da Educação Física, Desportos e Saúde Escolar, que presidirá;
 
@@ -194,25 +260,25 @@ d) O presidente do Comité Olímpico Português.
 
 4. O Ministro da Educação Nacional ou o Subsecretário de Estado da Juventude e Desportos poderá participar nas reuniões do conselho, pertencendo-lhe então a presidência.
 
-###### Art. 7.º - 1. Um representante do desporto militar, outro do desporto ultramarino e outro do desporto corporativo, indicados, respectivamente, pelos Ministros da Defesa Nacional, do Ultramar e das Corporações e Previdência Social, tomarão parte, com direito de voto, nas reuniões em que sejam tratados problemas de coordenação do fomento gimno-desportivo que interessem especìficamente aos seus departamentos.
+Art. 7.º - 1. Um representante do desporto militar, outro do desporto ultramarino e outro do desporto corporativo, indicados, respectivamente, pelos Ministros da Defesa Nacional, do Ultramar e das Corporações e Previdência Social, tomarão parte, com direito de voto, nas reuniões em que sejam tratados problemas de coordenação do fomento gimno-desportivo que interessem especìficamente aos seus departamentos.
 
 2. Igualmente tomará parte nas reuniões, com direito de voto, um representante do Ministério das Obras Públicas, indicado pelo respectivo Ministro, sempre que elas tenham por objecto a apreciação de projectos de obras.
 
-###### Art. 8.º - 1. Os membros do conselho administrativo e as entidades referidas no artigo anterior exercerão as suas funções por períodos renováveis de três anos, podendo, todavia, ser livremente exonerados em qualquer momento.
+Art. 8.º - 1. Os membros do conselho administrativo e as entidades referidas no artigo anterior exercerão as suas funções por períodos renováveis de três anos, podendo, todavia, ser livremente exonerados em qualquer momento.
 
 2. O disposto no número precedente não se aplica ao director-geral da Educação Física, Desportos e Saúde Escolar nem ao presidente do Comité Olímpico Português.
 
-###### Art. 9.º - 1. Os membros do conselho administrativo, com excepção do director-geral da Educação Física, Desportos e Saúde Escolar, e as entidades referidas no artigo 7.º perceberão gratificações mensais ou senhas de presença, fixadas pelo Ministro da Educação Nacional, de acordo com o Ministro das Finanças.
+Art. 9.º - 1. Os membros do conselho administrativo, com excepção do director-geral da Educação Física, Desportos e Saúde Escolar, e as entidades referidas no artigo 7.º perceberão gratificações mensais ou senhas de presença, fixadas pelo Ministro da Educação Nacional, de acordo com o Ministro das Finanças.
 
 2. As gratificações são acumuláveis com as remunerações que os nomeados percebam pelo exercício de outras funções públicas, mas estão sujeitas aos limites fixados pelo [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 10.º - 1. Para que o conselho administrativo possa deliberar, é necessária a presença da maioria dos seus membros, tomando-se também em conta, para definir esta maioria, a entidade ou entidades que igualmente devam participar na reunião por força do disposto no artigo 7.º
+Art. 10.º - 1. Para que o conselho administrativo possa deliberar, é necessária a presença da maioria dos seus membros, tomando-se também em conta, para definir esta maioria, a entidade ou entidades que igualmente devam participar na reunião por força do disposto no artigo 7.º
 
 2. As deliberações serão tomadas à pluralidade de votos dos presentes; em caso de empate, o presidente terá voto de qualidade.
 
 3. Na falta ou impedimento do presidente, serão as respectivas funções exercidas pelo vogal para o efeito designado pelo Ministro da Educação Nacional.
 
-###### Art. 11.º Ao conselho administrativo compete tomar as decisões e ordenar as providências tendentes ao bom desempenho das funções cometidas ao Fundo de Fomento do Desporto, nos termos do artigo 2.º, bem como as demais necessárias ao funcionamento deste, nomeadamente:
+Art. 11.º Ao conselho administrativo compete tomar as decisões e ordenar as providências tendentes ao bom desempenho das funções cometidas ao Fundo de Fomento do Desporto, nos termos do artigo 2.º, bem como as demais necessárias ao funcionamento deste, nomeadamente:
 
 a) Elaborar os regulamentos internos do Fundo;
 
@@ -226,13 +292,13 @@ e) Prestar contas da sua gerência ao Tribunal de Contas, nos termos legais;
 
 f) Elaborar o relatório anual das actividades do Fundo, submetendo-o à apreciação do Ministro da Educação Nacional.
 
-###### Art. 12.º - 1. A preparação e execução das deliberações do conselho administrativo são asseguradas pelos serviços do Fundo, dirigidos, de forma permanente, pelo presidente do aludido conselho ou por um delegado deste, designado pelo Ministro e a todo o tempo livremente substituível.
+Art. 12.º - 1. A preparação e execução das deliberações do conselho administrativo são asseguradas pelos serviços do Fundo, dirigidos, de forma permanente, pelo presidente do aludido conselho ou por um delegado deste, designado pelo Ministro e a todo o tempo livremente substituível.
 
 2. O delegado referido no número anterior participará nas reuniões do conselho administrativo, mas sem direito de voto.
 
-###### Art. 13.º O conselho administrativo pode requerer, sempre que entenda conveniente, a colaboração do Conselho Técnico da Educação Física, do Conselho Técnico dos Desportos e do Conselho da Saúde Escolar e Medicina Desportiva, dentro das respectivas competências.
+Art. 13.º O conselho administrativo pode requerer, sempre que entenda conveniente, a colaboração do Conselho Técnico da Educação Física, do Conselho Técnico dos Desportos e do Conselho da Saúde Escolar e Medicina Desportiva, dentro das respectivas competências.
 
-###### Art. 14.º - 1. Dependem de aprovação do Ministro da Educação Nacional, que pode concedê-la pura e simplesmente ou introduzindo alterações:
+Art. 14.º - 1. Dependem de aprovação do Ministro da Educação Nacional, que pode concedê-la pura e simplesmente ou introduzindo alterações:
 
 a) Os planos referidos no artigo 2.º, alíneas b) e c), e modificações respectivas;
 
@@ -254,13 +320,13 @@ f) As deliberações respeitantes à prática de actos jurídicos, nomeadamente 
 
 5. O Ministro da Educação Nacional pode autorizar a realização de fornecimentos ou empreitadas com dispensa de concurso público ou limitado e de contrato escrito, quando a natureza ou urgência do caso assim o aconselhar.
 
-###### Art. 15.º - 1. O numerário do Fundo será depositado na Caixa Geral de Depósitos, Crédito e Previdência - Caixa Económica Portuguesa e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do conselho administrativo, ou de quem suas vezes fizer, e de um vogal do mesmo conselho.
+Art. 15.º - 1. O numerário do Fundo será depositado na Caixa Geral de Depósitos, Crédito e Previdência - Caixa Económica Portuguesa e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do conselho administrativo, ou de quem suas vezes fizer, e de um vogal do mesmo conselho.
 
 2. O conselho administrativo poderá manter em cofre um fundo de maneio, para satisfação de despesas correntes, de quantitativo a fixar pelo Ministro da Educação Nacional.
 
-###### Art. 16.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou por quem suas vezes fizer, e por um vogal do mesmo conselho.
+Art. 16.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou por quem suas vezes fizer, e por um vogal do mesmo conselho.
 
-###### Art. 17.º - 1. As despesas com a gestão do Fundo serão suportadas pelas respectivas receitas.
+Art. 17.º - 1. As despesas com a gestão do Fundo serão suportadas pelas respectivas receitas.
 
 2. O pessoal técnico, administrativo e menor necessário aos serviços do Fundo será livremente contratado ou assalariado mediante despacho do Ministro da Educação Nacional.
 
@@ -268,11 +334,11 @@ f) As deliberações respeitantes à prática de actos jurídicos, nomeadamente 
 
 4. Aos membros do conselho administrativo e ao pessoal do Fundo, quando tenham de se deslocar no desempenho das suas funções, serão abonadas ajudas de custo, a fixar pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
 
-###### Art. 18.º - 1. Os funcionários públicos ou equiparados, chamados a prestar serviço de carácter permanente no Fundo de Fomento do Desporto, ficarão sujeitos ao regime legal de acumulação ou de comissão, conforme determinar o Ministro da Educação Nacional, podendo este, no primeiro caso e com o acordo do Ministro das Finanças, atribuir-lhes, sem prejuízo do vencimento, uma gratificação pelo ónus especial do cargo.
+Art. 18.º - 1. Os funcionários públicos ou equiparados, chamados a prestar serviço de carácter permanente no Fundo de Fomento do Desporto, ficarão sujeitos ao regime legal de acumulação ou de comissão, conforme determinar o Ministro da Educação Nacional, podendo este, no primeiro caso e com o acordo do Ministro das Finanças, atribuir-lhes, sem prejuízo do vencimento, uma gratificação pelo ónus especial do cargo.
 
 2. Os funcionários sujeitos ao regime de comissão conservam direito aos seus lugares, que só poderão ser preenchidos interinamente, contando-se, para todos os efeitos, como tempo de serviço efectivo o que prestarem em comissão.
 
-###### Art. 19.º - 1. Nos planos referidos nas alíneas a) e c) do artigo 2.º, considerar-se-ão designadamente as seguintes matérias:
+Art. 19.º - 1. Nos planos referidos nas alíneas a) e c) do artigo 2.º, considerar-se-ão designadamente as seguintes matérias:
 
 a) Construção de novas instalações gimno-desportivas e seu apetrechamento;
 
@@ -288,17 +354,17 @@ e) Realização de competições gimno-desportivas.
 
 3. Nos serviços a que aludem as alíneas c) e d) do n.º 1 deste artigo não se incluem os do Estado, salvo expressa disposição legal em contrário.
 
-###### Art. 20.º - 1. As instalações a construir devem ser sóbrias e funcionais, de forma a permitirem o máximo aproveitamento dos capitais disponíveis.
+Art. 20.º - 1. As instalações a construir devem ser sóbrias e funcionais, de forma a permitirem o máximo aproveitamento dos capitais disponíveis.
 
 2. Em todas as instalações custeadas total ou parcialmente pelo Fundo será colocada, em lugar bem visível, uma lápida com menção do facto.
 
-###### Art. 21.º - 1. O custo das obras e aquisições referidas nas alíneas a) e b) do n.º 1 do artigo 19.º, na sua totalidade ou na parte comparticipada pelo Fundo, será, em princípio, liquidado directamente aos empreiteiros ou fornecedores, ainda que os contratos não tenham sido por ele firmados.
+Art. 21.º - 1. O custo das obras e aquisições referidas nas alíneas a) e b) do n.º 1 do artigo 19.º, na sua totalidade ou na parte comparticipada pelo Fundo, será, em princípio, liquidado directamente aos empreiteiros ou fornecedores, ainda que os contratos não tenham sido por ele firmados.
 
 2. Os encargos previstos nas alíneas c) a e) do mesmo preceito serão, também em princípio, tomados sob a forma de subsídios concedidos directamente às entidades que organizarem os respectivos serviços ou participarem nas competições, sem prejuízo do disposto no n.º 3 do artigo 19.º
 
 3. Tratando-se de obras a executar pelo Ministério das Obras Públicas, será acordado entre este e o Fundo o modo mais prático de proceder à sua liquidação, à medida que os trabalhos se forem realizando.
 
-###### Art. 22.º - 1. Em regra, só serão concedidos directamente subsídios às organizações gimno-desportivas, nos casos previstos neste diploma, se ocorrerem cumulativamente as seguintes condições:
+Art. 22.º - 1. Em regra, só serão concedidos directamente subsídios às organizações gimno-desportivas, nos casos previstos neste diploma, se ocorrerem cumulativamente as seguintes condições:
 
 a) Acharem-se pormenorizadamente especificados e devidamente justificados os fins a que os subsídios se aplicarão;
 
@@ -310,7 +376,7 @@ b) Destinarem-se efectivamente os subsídios às organizações gimno-desportiva
 
 4. Os dirigentes dessa organização responsáveis pelo acto que deu causa à rescisão garantem, pessoal e solidàriamente, a restituição do subsídio, sem prejuízo da responsabilidade por perdas e danos em que incorrerem.
 
-###### Art. 23.º - 1. Ficam sendo propriedade do Estado e, em princípio, afectas ao Fundo de Fomento do Desporto as instalações gimno-desportivas, com o respectivo apetrechamento integrante, que tenham sido construídas a expensas do mesmo Fundo, em terrenos por ele adquiridos, a título gratuito ou oneroso, ou em terrenos do domínio público ou privado do Estado, autarquias locais ou institutos públicos, se o valor da construção exceder o do terreno, ao tempo dela, e se outra coisa não tiver sido estipulada.
+Art. 23.º - 1. Ficam sendo propriedade do Estado e, em princípio, afectas ao Fundo de Fomento do Desporto as instalações gimno-desportivas, com o respectivo apetrechamento integrante, que tenham sido construídas a expensas do mesmo Fundo, em terrenos por ele adquiridos, a título gratuito ou oneroso, ou em terrenos do domínio público ou privado do Estado, autarquias locais ou institutos públicos, se o valor da construção exceder o do terreno, ao tempo dela, e se outra coisa não tiver sido estipulada.
 
 2. O disposto no número anterior aplica-se às instalações cujos encargos tenham sido comparticipados conjuntamente pelo Fundo e por outras entidades, quando a comparticipação daquele seja igual ou superior à mais elevada comparticipação destas.
 
@@ -318,14 +384,14 @@ b) Destinarem-se efectivamente os subsídios às organizações gimno-desportiva
 
 4. Tratando-se de equipamentos ou apetrechos, poderão os mesmos continuar a pertencer ao Fundo ou ser cedidos, a título gratuito ou oneroso, às organizações interessadas, nos termos do respectivo regulamento a estabelecer pelo mesmo Fundo.
 
-###### Art. 24.º - 1. A alínea a) do § 1.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, passa a ter a seguinte redacção:
+Art. 24.º - 1. A alínea a) do § 1.º do artigo 14.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, passa a ter a seguinte redacção:
 
 a) 55 por cento para o Fundo de Fomento do Desporto;
 
 2. Na parte que não colida com as disposições deste diploma, serão observadas pelo Fundo as disposições do [Decreto-Lei n.º 44495](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44495-1962-163657), de 6 de Agosto de 1962, substituindo-se nessas disposições a referência à Direcção-Geral da Educação Física, Desportos e Saúde Escolar pela do citado Fundo.
 
-###### Art. 25.º As dúvidas que suscitar a aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional.
+Art. 25.º As dúvidas que suscitar a aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

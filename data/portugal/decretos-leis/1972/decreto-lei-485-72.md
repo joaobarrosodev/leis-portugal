@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/28000/18091812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1972-686834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35f6cf8269d5f7cccc63d3de93a373fd708f8aa82b33aecb5ff3c06c07a0a105
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0be791b9ba3c632d1868e30402e3ec5d895f89c210f26395da95bd3b2e0f882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento
+- Ministério da Educação Nacional
 relationships:
 - type: amended_by
   target: pt:dre:665340:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665340:por
+  label: "Revogado pelo DEC LEI.135/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1993-665340
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:46Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +120,9 @@ Ouvidos os Serviços da Reforma Administrativa da Presidência do Conselho;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto nos artigos 6.º e 33.º da Lei Orgânica do Ministério da Educação Nacional, o Gabinete de Estudos e Planeamento da Acção Educativa é reorganizado nos termos do presente diploma, passando a denominar-se Gabinete de Estudos e Planeamento, adiante designado por Gabinete.
+Artigo 1.º De harmonia com o disposto nos artigos 6.º e 33.º da Lei Orgânica do Ministério da Educação Nacional, o Gabinete de Estudos e Planeamento da Acção Educativa é reorganizado nos termos do presente diploma, passando a denominar-se Gabinete de Estudos e Planeamento, adiante designado por Gabinete.
 
-###### Art. 2.º - 1. Compete ao Gabinete:
+Art. 2.º - 1. Compete ao Gabinete:
 
 a) Estudar de forma permanente e sistemática os problemas relacionados com a educação e propor as correspondentes soluções, contribuindo para a formulação da política geral da educação nacional;
 
@@ -117,9 +136,9 @@ e) Planear a rede escolar do País e propor a criação, modificação ou extin�
 
 2. Para o desempenho das suas funções o Gabinete estabelecerá a devida articulação com os demais serviços e organismos do Ministério e bem assim com as entidades públicas e privadas interessadas em problemas e matérias de que tenha de se ocupar.
 
-###### Art. 3.º Até à criação do organismo previsto no n.º 3 do artigo 33.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, o Gabinete tem personalidade jurídica e goza de autonomia administrativa e financeira.
+Art. 3.º Até à criação do organismo previsto no n.º 3 do artigo 33.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, o Gabinete tem personalidade jurídica e goza de autonomia administrativa e financeira.
 
-###### Art. 4.º O Gabinete compreende os seguintes órgãos e serviços:
+Art. 4.º O Gabinete compreende os seguintes órgãos e serviços:
 
 1) Órgãos:
 
@@ -137,7 +156,7 @@ b) Serviço de Planeamento;
 
 c) Repartição Administrativa.
 
-###### Art. 5.º - 1. Ao director compete dirigir superiormente o Gabinete, orientar e coordenar os seus serviços e actividades, imprimindo-lhes unidade, continuidade e eficiência, e ainda:
+Art. 5.º - 1. Ao director compete dirigir superiormente o Gabinete, orientar e coordenar os seus serviços e actividades, imprimindo-lhes unidade, continuidade e eficiência, e ainda:
 
 a) Representar o Gabinete em juízo e fora dele;
 
@@ -149,7 +168,7 @@ d) Dirigir, coordenar e orientar as actividades da Comissão da Rede Escolar.
 
 2. No exercício das suas funções o director será coadjuvado por um subdirector, que o substituirá nas suas faltas e impedimentos.
 
-###### Art. 6.º - 1. O Conselho Orientador é presidido pelo Ministro da Educação Nacional, que poderá delegar essa função no director do Gabinete.
+Art. 6.º - 1. O Conselho Orientador é presidido pelo Ministro da Educação Nacional, que poderá delegar essa função no director do Gabinete.
 
 2. Compete ao Conselho Orientador pronuncia-se e emitir parecer sobre todas as questões que sejam submetidas à sua apreciação, e designadamente:
 
@@ -181,7 +200,7 @@ g) Um representante da Direcção-Geral de Educação do Ministério do Ultramar
 
 7. O Conselho Orientador será secretariado pelo técnico designado pelo director do Gabinete.
 
-###### Art. 7.º - 1. Ao Conselho Administrativo compete:
+Art. 7.º - 1. Ao Conselho Administrativo compete:
 
 a) Elaborar o projecto de orçamento;
 
@@ -195,7 +214,7 @@ e) Apresentar as contas do exercício findo;
 
 2. O Conselho Administrativo é composto pelo director do Gabinete, pelo subdirector, pelos directores de serviços e pelo chefe da Repartição Administrativa.
 
-###### Art. 8.º Ao Serviço de Estudos compete:
+Art. 8.º Ao Serviço de Estudos compete:
 
 a) A elaboração de estudos e relatórios e a preparação de pareceres e projectos relativos a matérias de natureza educacional, em particular as que se refiram aos processos de inovação das estruturas e da administração do ensino e às grandes linhas da acção pedagógica;
 
@@ -203,7 +222,7 @@ b) A elaboração de trabalhos relativos à utilização e coordenação geral d
 
 c) Promover ou acompanhar as experiências piloto referidas na alínea c) do n.º 1 do artigo 2.º
 
-###### Art. 9.º Ao Serviço de Planeamento compete:
+Art. 9.º Ao Serviço de Planeamento compete:
 
 a) A realização dos trabalhos de planeamento geral do Ministério e, em particular, a preparação dos planos e programas de fomento no sector da educação;
 
@@ -213,7 +232,7 @@ c) O aperfeiçoamento das técnicas de planeamento educativo e a elaboração de
 
 d) A coordenação dos núcleos de planeamento previstos no n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969.
 
-###### Art. 10.º À Repartição Administrativa compete:
+Art. 10.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral, contabilidade, economato e de pessoal do Gabinete não pertencente aos quadros únicos do Ministério;
 
@@ -221,47 +240,47 @@ b) Prestar apoio administrativo aos órgãos e serviços do Gabinete;
 
 c) Organizar e manter actualizado, no que respeita ao Gabinete, o cadastro dos seus bens.
 
-###### Art. 11.º - 1. No Gabinete funciona, a título permanente, a Comissão da Rede Escolar, à qual, ouvido o Serviço de Planeamento, cabe exercer a competência prevista na alínea e) do n.º 1 do artigo 2.º deste diploma.
+Art. 11.º - 1. No Gabinete funciona, a título permanente, a Comissão da Rede Escolar, à qual, ouvido o Serviço de Planeamento, cabe exercer a competência prevista na alínea e) do n.º 1 do artigo 2.º deste diploma.
 
 2. O Ministro da Educação Nacional estabelecerá, por despacho, a composição da Comissão e as normas do seu funcionamento.
 
-###### Art. 12.º - 1. O director poderá corresponder-se directamente com os serviços ou organismos dependentes do Ministério da Educação Nacional e com as entidades públicas e privadas que tenham a seu cargo a execução de tarefas de planeamento ou a aplicação de medidas no âmbito da política educativa ou com ela, relacionadas, para lhes solicitar todas as informações e elementos necessários ao desempenho das funções do Gabinete.
+Art. 12.º - 1. O director poderá corresponder-se directamente com os serviços ou organismos dependentes do Ministério da Educação Nacional e com as entidades públicas e privadas que tenham a seu cargo a execução de tarefas de planeamento ou a aplicação de medidas no âmbito da política educativa ou com ela, relacionadas, para lhes solicitar todas as informações e elementos necessários ao desempenho das funções do Gabinete.
 
 2. Ao director do Gabinete caberá a representação do Ministério em todos os órgãos centrais de planeamento em que seja prevista essa representação.
 
-###### Art. 13.º - 1. O Gabinete inscreverá anualmente no seu plano de trabalhos ou estudos e outras iniciativas que se proponha levar a efeito os que lhe forem superiormente determinados.
+Art. 13.º - 1. O Gabinete inscreverá anualmente no seu plano de trabalhos ou estudos e outras iniciativas que se proponha levar a efeito os que lhe forem superiormente determinados.
 
 2. Em relação a todas as actividades referentes à elaboração dos planos e programas de fomento ou relacionadas com os órgãos centrais, interministeriais e regionais de planeamento, o Gabinete atenderá às normas dadas pelo Secretariado Técnico da Presidência do Conselho, directamente ou através do seu representante junto do Gabinete.
 
 3. O plano anual de trabalhos deverá ser submetido à apreciação do Conselho dos Directores-Gerais e será aprovado pelo Ministro da Educação Nacional.
 
-###### Art. 14.º Os núcleos de planeamento previstos no n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, ou outros serviços que exerçam funções análogas, poderão ser criados na medida das necessidades, mediante despacho ministerial em que se estabelecerão também as bases gerais dos respectivos programas de trabalho e da sua articulação com as acções do Gabinete de Estudos e Planeamento.
+Art. 14.º Os núcleos de planeamento previstos no n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, ou outros serviços que exerçam funções análogas, poderão ser criados na medida das necessidades, mediante despacho ministerial em que se estabelecerão também as bases gerais dos respectivos programas de trabalho e da sua articulação com as acções do Gabinete de Estudos e Planeamento.
 
-###### Art. 15.º - 1. O director do Gabinete poderá fazer-se representar pelo subdirector ou delegar neste ou nos directores de serviços as funções que forem especificadas por despacho ministerial.
+Art. 15.º - 1. O director do Gabinete poderá fazer-se representar pelo subdirector ou delegar neste ou nos directores de serviços as funções que forem especificadas por despacho ministerial.
 
 2. O subdirector, na falta de um director de serviços, poderá ser incumbido de exercer as respectivas funções.
 
-###### Art. 16.º O quadro do pessoal dirigente, técnico, administrativo e auxiliar do Gabinete é o constante do mapa anexo ao presente diploma, o qual será acrescentado aos quadros únicos do Ministério da Educação Nacional.
+Art. 16.º O quadro do pessoal dirigente, técnico, administrativo e auxiliar do Gabinete é o constante do mapa anexo ao presente diploma, o qual será acrescentado aos quadros únicos do Ministério da Educação Nacional.
 
-###### Art. 17.º - 1. O director será provido de entre individualidades habilitadas com curso superior, de reconhecida competência em matéria de educação, sendo nomeado, em comissão de serviço, por despacho conjunto do Presidente do Conselho e do Ministro da Educação Nacional, por períodos de três anos renováveis.
+Art. 17.º - 1. O director será provido de entre individualidades habilitadas com curso superior, de reconhecida competência em matéria de educação, sendo nomeado, em comissão de serviço, por despacho conjunto do Presidente do Conselho e do Ministro da Educação Nacional, por períodos de três anos renováveis.
 
 2. O cargo de director do Gabinete poderá ser exercido em regime de acumulação de funções, devendo em tal caso ser remunerado por gratificação.
 
-###### Art. 18.º - 1. O subdirector será nomeado por escolha do Ministro da Educação Nacional de entre individualidades habilitadas com curso superior, de reconhecida competência em matéria de educação.
+Art. 18.º - 1. O subdirector será nomeado por escolha do Ministro da Educação Nacional de entre individualidades habilitadas com curso superior, de reconhecida competência em matéria de educação.
 
 2. Os directores de serviços serão nomeados por escolha do Ministro da Educação Nacional de entre diplomados com curso superior.
 
-###### Art. 19.º - 1. O recrutamento e provimento do pessoal do Gabinete obedecerá às regras estabelecidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Julho, salvo o disposto nos números seguintes.
+Art. 19.º - 1. O recrutamento e provimento do pessoal do Gabinete obedecerá às regras estabelecidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Julho, salvo o disposto nos números seguintes.
 
 2. Os lugares de especialistas e de técnicos do Gabinete serão providos por escolha do Ministro da Educação Nacional de entre diplomados com curso superior apropriado.
 
 3. Os lugares de técnicos auxiliares de programação e de técnicos auxiliares serão providos por escolha do Ministro da Educação Nacional, sendo habilitação suficiente o curso de formação das escolas técnicas ou equivalente.
 
-###### Art. 20.º - 1. As nomeações do pessoal a que se referem o artigo 18.º e o n.º 2 do artigo 19.º terão carácter provisório por dois anos, prorrogáveis por mais um ano.
+Art. 20.º - 1. As nomeações do pessoal a que se referem o artigo 18.º e o n.º 2 do artigo 19.º terão carácter provisório por dois anos, prorrogáveis por mais um ano.
 
 2. Findo o período inicial ou a sua prorrogação o funcionário será provido definitivamente se tiver revelado aptidão para o lugar, ou exonerado no caso contrário.
 
-###### Art. 21.º - 1. Se a nomeação para subdirector, director de serviços, especialista, técnico e chefe de repartição recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
+Art. 21.º - 1. Se a nomeação para subdirector, director de serviços, especialista, técnico e chefe de repartição recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
 
 2. Verificando-se a prorrogação, considera-se aberta a vaga no quadro donde proceda o funcionário, podendo este, no entanto. regressar ao mesmo quadro, a seu pedido, desde que se encontre vago o cargo que desempenhava ou outro de categoria equivalente.
 
@@ -269,21 +288,21 @@ c) Organizar e manter actualizado, no que respeita ao Gabinete, o cadastro dos s
 
 entretanto, o funcionário prestará serviço em qualquer organismo dependente do Ministério da Educação Nacional ou do Ministério donde proveio.
 
-###### Art. 22.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias do Gabinete.
+Art. 22.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias do Gabinete.
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
 3. Os contratos além dos quadros poderão também ser celebrados em comissão de serviço, quando se trate de pessoal docente especialmente qualificado em assuntos ligados à reforma educativa.
 
-###### Art. 23.º - 1. O director do Gabinete poderá propor superiormente a admissão de pessoal em regime de prestação de serviço bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Gabinete.
+Art. 23.º - 1. O director do Gabinete poderá propor superiormente a admissão de pessoal em regime de prestação de serviço bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Gabinete.
 
 2. A duração, termos e remunerações da prestação de serviço, bem como dos estudos e trabalhos de carácter eventual, previstos no n.º 1, serão estabelecidos por despacho do Ministro da Educação Nacional.
 
 3. As remunerações fixadas nos termos dos números anteriores serão pagas por força de dotações próprias a inscrever para tal fim no orçamento do Gabinete.
 
-###### Art. 24.º Considera-se, para todos os efeitos legais, como prestado no quadro de origem o tempo de serviço dos funcionários em comissão de serviço previstos nos artigos 21.º e 22.º
+Art. 24.º Considera-se, para todos os efeitos legais, como prestado no quadro de origem o tempo de serviço dos funcionários em comissão de serviço previstos nos artigos 21.º e 22.º
 
-###### Art. 25.º Constituem receitas do Gabinete:
+Art. 25.º Constituem receitas do Gabinete:
 
 a) As dotações ordinárias e extraordinárias consignadas no orçamento do Ministério da Educação Nacional;
 
@@ -293,26 +312,26 @@ c) O produto da venda de publicações que edite;
 
 d) Quaisquer outras receitas permitidas por lei ou que por disposição especial lhe sejam atribuídas.
 
-###### Art. 26.º O Gabinete é considerado, para todos os efeitos, nos termos dos artigos 34.º e 35.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, como resultante da reorganização do Gabinete de Estudos e Planeamento da Acção Educativa, para ele transitando todos os bens, direitos e obrigações a ele pertencentes.
+Art. 26.º O Gabinete é considerado, para todos os efeitos, nos termos dos artigos 34.º e 35.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, como resultante da reorganização do Gabinete de Estudos e Planeamento da Acção Educativa, para ele transitando todos os bens, direitos e obrigações a ele pertencentes.
 
-###### Art. 27.º - 1. O Ministro da Educação Nacional pode autorizar que sejam providos nos lugares do quadro anexo ao presente diploma os actuais servidores do Gabinete de Estudos e Planeamento da Acção Educativa que desempenhem funções de categorias idênticas ou equivalentes às daqueles lugares, mediante lista por ele aprovada e publicada no Diário do Governo, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, mas sem prejuízo do que neste diploma se disponha quanto a habilitações.
+Art. 27.º - 1. O Ministro da Educação Nacional pode autorizar que sejam providos nos lugares do quadro anexo ao presente diploma os actuais servidores do Gabinete de Estudos e Planeamento da Acção Educativa que desempenhem funções de categorias idênticas ou equivalentes às daqueles lugares, mediante lista por ele aprovada e publicada no Diário do Governo, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, mas sem prejuízo do que neste diploma se disponha quanto a habilitações.
 
 2. Poderá ainda o Ministro da Educação Nacional preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo criados pelo presente diploma com funcionários de categoria imediatamente inferior, desde que tenham boa informação, as habilitações exigidas para aquele provimento e um mínimo de dois anos de exercício na categoria.
 
-###### Art. 28.º Os encargos resultantes da execução do presente diploma, durante o ano de 1972, serão suportados pelas dotações inscritas no orçamento do Gabinete de Estudos e Planeamento da Acção Educativa.
+Art. 28.º Os encargos resultantes da execução do presente diploma, durante o ano de 1972, serão suportados pelas dotações inscritas no orçamento do Gabinete de Estudos e Planeamento da Acção Educativa.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 16 de Novembro de 1972.**
+Promulgado em 16 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Mapa a que se refere o artigo 16.º do Decreto-Lei n.º 485/72, de 2 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/28000/18091812.pdf))](https://files.diariodarepublica.pt/1s/1972/12/28000/18091812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/28000/18091812.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro da Educação Nacional, José Veiga Simão.

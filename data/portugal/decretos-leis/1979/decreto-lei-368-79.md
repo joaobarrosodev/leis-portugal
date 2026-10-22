@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20400/21982198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1979-370783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 095bb0300ea6030aebc0f9e39b27186672b48ddf257fceb7c6f81afbb52ba698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16df7d66260a2d2fdcc55fbbb5449840abf0d1cd386db219b4d3151da312a437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direção Geral do Ensino Superior
+- Gabinete Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:325171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:26Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +129,9 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado na Direcção-Geral do Ensino Superior um Gabinete Jurídico, a acrescer, para todos os efeitos, aos serviços previstos no artigo 6.º do Decreto-lei n.º 581/73, de 5 de Novembro.
+Artigo 1.º É criado na Direcção-Geral do Ensino Superior um Gabinete Jurídico, a acrescer, para todos os efeitos, aos serviços previstos no artigo 6.º do Decreto-lei n.º 581/73, de 5 de Novembro.
 
-###### Art. 2.º São atribuições do Gabinete Jurídico:
+Art. 2.º São atribuições do Gabinete Jurídico:
 
 a) Prestar apoio técnico-jurídico aos serviços da Direcção-Geral do Ensino Superior e aos organismos dela dependentes, mediante despacho do director-geral do Ensino Superior;
 
@@ -114,24 +139,24 @@ b) Colaborar na preparação e elaboração de projectos de diplomas legais;
 
 c) Elaborar e manter actualizados ficheiros de legislação, jurisprudência e doutrina.
 
-###### Art. 3.º - 1 - O Gabinete compreende um corpo técnico e é coordenado por um chefe de divisão.
+Art. 3.º - 1 - O Gabinete compreende um corpo técnico e é coordenado por um chefe de divisão.
 
 2 - Serão atribuídos ao Gabinete, mediante despacho do director-geral, os técnicos da Direcção-Geral do Ensino Superior necessários ao seu bom funcionamento.
 
-###### Art. 4.º O Gabinete será apoiado por pessoal, designado para o efeito por despacho do director-geral, que exerça funções, a qualquer título, na Direcção-Geral do Ensino Superior.
+Art. 4.º O Gabinete será apoiado por pessoal, designado para o efeito por despacho do director-geral, que exerça funções, a qualquer título, na Direcção-Geral do Ensino Superior.
 
-###### Art. 5.º - 1 - Ao quadro do pessoal constante do mapa I anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616) é acrescentado um lugar de chefe de divisão e outro de técnico principal, a acrescer ao mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
+Art. 5.º - 1 - Ao quadro do pessoal constante do mapa I anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616) é acrescentado um lugar de chefe de divisão e outro de técnico principal, a acrescer ao mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
 
 2 - O lugar de chefe de divisão será recrutado e provido nos termos previstos pelo [Decreto-Lei n.º 407/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1978-325171), de 19 de Dezembro.
 
 3 - O lugar de técnico principal será provido nos termos do n.º 3 do artigo 24.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 6.º Os encargos com remunerações certas e permanentes resultantes da execução deste diploma serão suportados, no corrente ano, pelas disponibilidades das dotações respectivas inscritas no cap. 02 do orçamento do Ministério da Educação e Investigação Científica.
+Art. 6.º Os encargos com remunerações certas e permanentes resultantes da execução deste diploma serão suportados, no corrente ano, pelas disponibilidades das dotações respectivas inscritas no cap. 02 do orçamento do Ministério da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

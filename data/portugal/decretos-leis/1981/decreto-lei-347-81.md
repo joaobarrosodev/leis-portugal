@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29300/33283332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1981-567059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06edd93218014006b274b1de36ca45b31ee6d390bc8fc1011d88a15fc36acc73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 308cf46f2852a2f997a2304c98e30d498bca7e071e914677908574930c4e8397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação de Socorros Mútuos
+- IPSS
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523236:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:609174:por
+  label: Rectificado pela DECL.DD2512.1982.03.09.PCM, DR.IS [65] de 19.03.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-609174
+  date: '1982-03-09'
+- type: repealed_by
+  target: pt:dre:397370:por
+  label: "Revogado o n.º 1 do artigo 18.º, pelo DEC LEI.298/82.29.07.1982.MAS, DR.IS [173] de 29.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1982-397370
+  date: '1982-07-29'
+- type: repealed_by
+  target: pt:dre:622173:por
+  label: "Revogado o artigo 17.º, na parte relativa às associações de socorros mútuos, pelo DEC LEI.9/85.09.01.1985.MFP, DR.IS\
+    \ [7] de 09.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-1985-622173
+  date: '1985-01-09'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:03Z'
   warnings: []
   errors: []
 ---
@@ -137,19 +197,19 @@ Assim, tendo presente o disposto no n.º 5 do artigo 2.º do [Decreto-Lei n.º 5
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Natureza e objectivos)
 
 As associações de socorros mútuos do associações de fim não lucrativo que, por meio das quotizações dos seus sócios, prosseguem, no interesse destes ou das suas famílias, fins de previdência e auxílio recíproco, previstos neste diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Estatuto jurídico)
 
 As associações de socorros mútuos são consideradas instituições privadas de solidariedade social e regem-se pelo respectivo Estatuto, aprovado pelo [Decreto-Lei n.º 519-G2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-g2-1979-157007), de 29 de Dezembro, e legislação complementar em tudo o que não for contrariado ou regulado de modo diferente por este decreto-lei e pelo diploma previsto no artigo 16.º
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Fins)
 
@@ -165,7 +225,7 @@ d) Conceder subsídios de funeral;
 
 e) Proporcionar o acesso a equipamentos sociais.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Constituição)
 
@@ -173,7 +233,7 @@ e) Proporcionar o acesso a equipamentos sociais.
 
 2 - As associações de socorros mútuos só podem constituir-se com número ilimitado de sócios, capital indeterminado e duração indefinida.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Registo)
 
@@ -183,13 +243,13 @@ e) Proporcionar o acesso a equipamentos sociais.
 
 3 - Os benefícios não poderão ser alterados sem prévio registo da alteração do respectivo regulamento.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Caixas económicas)
 
 As caixas económicas anexas às associações de socorros mútuos regem-se pelas disposições legais que lhes sejam aplicáveis, com respeito por todos os regimes especiais existentes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Órgãos)
 
@@ -197,7 +257,7 @@ As caixas económicas anexas às associações de socorros mútuos regem-se pela
 
 2 - Nas associações com caixas económicas anexas poderá existir um conselho geral, ao qual competirá pronunciar-se ou deliberar sobre matéria que, nos termos dos estatutos ou por causa de exercício de competência delegada no conselho pela assembleia geral, a direcção tenha de submeter ao seu parecer ou aprovação.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Regulamentos internos)
 
@@ -215,13 +275,13 @@ e) A quantia máxima que os tesoureiros poderão ter em caixa.
 
 2 - Os regulamentos referidos no número anterior e as suas alterações deverão ser aprovados pela assembleia geral e estão sujeitos ao registo referido no artigo 5.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Regime jurídico das prestações pecuniárias)
 
 As prestações pecuniárias devidas pelas associações de socorros mútuos aos sócios e outros beneficiários não podem ser cedidas a terceiros nem penhoradas e prescrevem a favor das mesmas associações no prazo de um ano, a contar do vencimento, ou do último dia do prazo do pagamento, se o houver.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Fundos)
 
@@ -233,7 +293,7 @@ As prestações pecuniárias devidas pelas associações de socorros mútuos aos
 
 4 - As associações deverão constituir um fundo de reserva, destinado a ocorrer a quaisquer emergências imprevistas.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Cooperação das instituições privadas entre si)
 
@@ -245,7 +305,7 @@ b) Proporcionar a utilização em comum de instalações ou serviços.
 
 2 - As associações de socorros mútuos podem ainda celebrar acordos de cooperação com outras instituições privadas de solidariedade social para a utilização concertada de instalações e concessão de prestações ou benefícios.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Cooperação com serviços oficiais)
 
@@ -253,7 +313,7 @@ b) Proporcionar a utilização em comum de instalações ou serviços.
 
 2 - As condições a que devem obedecer a celebração e o funcionamento de acordos de cooperação entre as associações de socorros mútuos e os centros regionais de segurança social e os serviços de saúde constarão de normas aprovadas pelo Ministro dos Assuntos Sociais.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Integração de entidades, fundos ou instituições em associações de socorros mútuos)
 
@@ -261,13 +321,13 @@ b) Proporcionar a utilização em comum de instalações ou serviços.
 
 2 - Os beneficiários das entidades, fundos ou instituições referidos no número anterior poderão ser dispensados do preenchimento de alguns requisitos exigidos na admissão de sócios nas associações de socorros mútuos, ouvidos os serviços competentes do Ministério dos Assuntos Sociais.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Regime do pessoal)
 
 Não será aplicável ao pessoal das associações de socorros mútuos o regulamento das condições de trabalho do pessoal das restantes instituições privadas de solidariedade social.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Uniões e federações)
 
@@ -275,19 +335,19 @@ Não será aplicável ao pessoal das associações de socorros mútuos o regulam
 
 2 - As uniões e federações são consideradas para todos os efeitos associações de socorros mútuos, ficando sujeitas ao respectivo regime e gozando das mesmas isenções e regalias.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Diploma regulamentar)
 
 As matérias respeitantes ao funcionamento das associações de socorros mútuos, designadamente quanto à composição, competência e obrigações dos seus órgãos, condições de concessão de benefícios, administração e gestão financeira, serão reguladas por decreto.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Isenções e regalias)
 
 As associações de socorros mútuos e as caixas económicas anexas conservam as isenções fiscais e regalias que actualmente lhes são concedidas por lei, quer em atenção à sua específica natureza, quer em consequência da qualificação como instituições de previdência, nos termos da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Regime transitório)
 
@@ -295,7 +355,7 @@ As associações de socorros mútuos e as caixas económicas anexas conservam as
 
 2 - Enquanto não se efectuarem as diligências previstas no número anterior, as associações de socorros mútuos serão provisoriamente registadas com base nos documentos existentes nos serviços do Ministério dos Assuntos Sociais, com dispensa das formalidades previstas no Estatuto das Instituições Privadas de Solidariedade Social.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Legislação revogada)
 
@@ -315,8 +375,8 @@ e) [Decreto-Lei n.º 807/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 3 de Dezembro de 1981.**
+Promulgado em 3 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

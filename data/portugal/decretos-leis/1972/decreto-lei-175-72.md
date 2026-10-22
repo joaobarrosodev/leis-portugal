@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1972-681810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d634204776591164cc28ee7bf0ec5aaf5da1c166ea531ca7e518038b5302ef03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2312e24343efe613b881d3399834a8d4f4c4ffeab3f0d167856bfa003407f73e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bragança
+- Hospital Distrital
+relationships:
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:40Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +105,22 @@ Ouvido o Gabinete de Estudos e Planeamento;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Hospital Distrital de Bragança, nos termos do n.º 1 do artigo 27.º do Estatuto Hospitalar, será dotado de personalidade jurídica e autonomia administrativa e funcionará no edifício de que o Estado é proprietário naquela cidade.
+Artigo 1.º - 1. O Hospital Distrital de Bragança, nos termos do n.º 1 do artigo 27.º do Estatuto Hospitalar, será dotado de personalidade jurídica e autonomia administrativa e funcionará no edifício de que o Estado é proprietário naquela cidade.
 
 2. Competem ao Hospital Distrital de Bragança as funções próprias de hospital distrital, para o que lhe será atribuído o respectivo esquema da serviços, devendo assumir a responsabilidade pela assistência hospitalar dentro da área que lhe for assinalada por despacho do Ministro da Saúde e Assistência, ouvida a Direcção-Geral dos Hospitais.
 
-###### Art. 2.º - 1. Sem prejuízo de a administração vir a ser oportunamente confiada à Santa Casa da Misericórdia de Bragança, nos termos do n.º 2 do artigo 103.º do Decreto-Lei n.º 48358, de 27 de Abril de 1968, ao Hospital será aplicado, entretanto, o regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
+Art. 2.º - 1. Sem prejuízo de a administração vir a ser oportunamente confiada à Santa Casa da Misericórdia de Bragança, nos termos do n.º 2 do artigo 103.º do Decreto-Lei n.º 48358, de 27 de Abril de 1968, ao Hospital será aplicado, entretanto, o regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
 
 2. Até à publicação do respectivo regulamento, serão aprovados por despacho ministerial os regulamentos parcelares que se mostrarem necessários ao seu funcionamento.
 
-###### Art. 3.º - 1. O pessoal que nesta data presta serviço no Hospital da Santa Casa da Misericórdia de Bragança pode ser admitido em lugares idênticos do novo Hospital, independentemente do requisito da idade, sendo-lhe contado, para efeitos de antiguidade e acesso, o tempo de serviço anteriormente prestado.
+Art. 3.º - 1. O pessoal que nesta data presta serviço no Hospital da Santa Casa da Misericórdia de Bragança pode ser admitido em lugares idênticos do novo Hospital, independentemente do requisito da idade, sendo-lhe contado, para efeitos de antiguidade e acesso, o tempo de serviço anteriormente prestado.
 
 2. O referido pessoal manter-se-á inscrito na Caixa de Previdência dos Empregados da Assistência, salvo se, não se achando abrangido pelo disposto no artigo 58.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, e preenchendo os requisitos de inscrição na Caixa Geral de Aposentações, optar por esta, no prazo de noventa dias, a partir da admissão no novo Hospital.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 17 de Maio de 1972.**
+Promulgado em 17 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

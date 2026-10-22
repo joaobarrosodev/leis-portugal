@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1973-673843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11cf6d1a7e1e70a654ebcd3828deb71d44def765b2e1c5cfcee621e9e3bc9e2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00505b88798275d06f30d559eb398e684b583919fd60d1895d7a45c62a476b1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Câmara Municipal
+- Definição de Competências
+- Deslocação em Serviço
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gratificação
+- Lisboa
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Porto
+- Presidente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Subsídio de Deslocação
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686232:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:422257:por
+  label: "Rectificado [no referente ao art. 1º - que conferiu nova redacção aos arts. 12º e 40º do Dec Lei 45248 de 16-Set\
+    \ de 1963] pela RECT.DD344.30.05.1973.PC, DG.IS [127] de 30.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-422257
+  date: '1973-05-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:27Z'
   warnings: []
   errors: []
 ---
@@ -87,21 +120,21 @@ de 19 de Abril
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 13.º, 14.º, 15.º, 17.º, 18.º, 26.º, 27.º, 32.º, 35.º e 40.º do [Decreto-Lei n.º 45248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232), de 16 de Setembro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 13.º, 14.º, 15.º, 17.º, 18.º, 26.º, 27.º, 32.º, 35.º e 40.º do [Decreto-Lei n.º 45248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232), de 16 de Setembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 12.º O pessoal dos quadros distribuir-se-á por grupos, de harmonia com a natureza das suas funções, e a sua admissão, tratando-se de pessoal maior, será feita, mediante concurso, pela classe inferior do respectivo grupo, salvo os casos exceptuados por este diploma, ou, quando se trate de cargos criados posteriormente a 1973, por deliberação da câmara aprovada pelo Ministro do Interior.
+Art. 12.º O pessoal dos quadros distribuir-se-á por grupos, de harmonia com a natureza das suas funções, e a sua admissão, tratando-se de pessoal maior, será feita, mediante concurso, pela classe inferior do respectivo grupo, salvo os casos exceptuados por este diploma, ou, quando se trate de cargos criados posteriormente a 1973, por deliberação da câmara aprovada pelo Ministro do Interior.
 
-###### Art. 13.º O ingresso no quadro do pessoal maior de secretaria e tesouraria dá-se pelos cargos de escriturário-dactilógrafo de 2.ª classe ou de terceiro-oficial, nos termos dos artigos 19.º e 23.º, salvo se se tratar de diplomados com curso superior.
+Art. 13.º O ingresso no quadro do pessoal maior de secretaria e tesouraria dá-se pelos cargos de escriturário-dactilógrafo de 2.ª classe ou de terceiro-oficial, nos termos dos artigos 19.º e 23.º, salvo se se tratar de diplomados com curso superior.
 
-###### Art. 14.º A admissão e promoção do pessoal maior dos serviços especiais do pessoal do batalhão de sapadores bombeiros e do pessoal auxiliar, especializado e operário, serão feitas de harmonia com os regulamentos aprovados pelo Ministro do Interior.
+Art. 14.º A admissão e promoção do pessoal maior dos serviços especiais do pessoal do batalhão de sapadores bombeiros e do pessoal auxiliar, especializado e operário, serão feitas de harmonia com os regulamentos aprovados pelo Ministro do Interior.
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 a) Director dos Serviços Centrais e Culturais - funcionário da 1.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Política e Civil ou funcionário, de categoria não inferior, pertencente ao quadro interno da mesma Direcção-Geral, ou chefe de repartição da Direcção dos Serviços Centrais e Culturais, em qualquer dos casos com licenciatura em Direito;
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 a) Chefes de divisão - indivíduos habilitados com a licenciatura em curso superior adequado ao desempenho da função e de reconhecida competência com mais de dez anos de exercício da profissão ou de actividade prestada ao Estado ou às autarquias locais;
 
@@ -145,13 +178,13 @@ s) ...
 
 t) ...
 
-###### Art. 18.º Os lugares de chefe de secção serão providos em diplomados com o curso superior adequado ou em primeiros-oficiais da câmara com mais de três anos de serviço nesta categoria.
+Art. 18.º Os lugares de chefe de secção serão providos em diplomados com o curso superior adequado ou em primeiros-oficiais da câmara com mais de três anos de serviço nesta categoria.
 
 § único. Aos lugares de chefe de secção das Direcções dos Serviços de Finanças poderão também concorrer chefes de secretaria das câmaras municipais e adjuntos ou subinspectores da Inspecção-Geral de Finanças, com mais de três anos de serviço na categoria.
 
 ...
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 a) ...
 
@@ -163,7 +196,7 @@ d) Os funcionários públicos ou administrativos a prover transitoriamente, medi
 
 § único ...
 
-###### Art. 27.º O gabinete do presidente da câmara será constituído por um chefe de gabinete e um secretário.
+Art. 27.º O gabinete do presidente da câmara será constituído por um chefe de gabinete e um secretário.
 
 § 1.º O regime de recrutamento, remuneração e provimento do lugar de chefe do gabinete é o aplicável aos chefes dos gabinetes dos membros do Governo, com as necessárias adaptações, constituindo sempre encargo da câmara o pagamento do respectivo vencimento.
 
@@ -173,13 +206,13 @@ d) Os funcionários públicos ou administrativos a prover transitoriamente, medi
 
 ...
 
-###### Art. 32.º As Câmaras Municipais de Lisboa e do Porto podem instituir cursos de preparação dos candidatos a concursos de promoção ou de ingresso ou para especialização ou aperfeiçoamento do pessoal, orientados por indivíduos com a necessária qualificação, designados pelo presidente da câmara, aos quais, tratando-se de funcionários, será abonada gratificação fixada pelo Ministro do Interior, sob proposta do presidente, quando o seu funcionamento se verifique fora das horas normais de serviço.
+Art. 32.º As Câmaras Municipais de Lisboa e do Porto podem instituir cursos de preparação dos candidatos a concursos de promoção ou de ingresso ou para especialização ou aperfeiçoamento do pessoal, orientados por indivíduos com a necessária qualificação, designados pelo presidente da câmara, aos quais, tratando-se de funcionários, será abonada gratificação fixada pelo Ministro do Interior, sob proposta do presidente, quando o seu funcionamento se verifique fora das horas normais de serviço.
 
 § único. Os cursos de especialização ou aperfeiçoamento do pessoal serão de frequência obrigatória para os funcionários que, para o efeito, forem designados por despacho do presidente da câmara, sob proposta do respectivo director de serviços.
 
 ...
 
-###### Art. 35.º Serão abonadas as seguintes gratificações:
+Art. 35.º Serão abonadas as seguintes gratificações:
 
 a) ...
 
@@ -199,30 +232,30 @@ f) Aos primeiros-oficiais encarregados da chefia das secretarias não integradas
 
 ...
 
-###### Art. 40.º Podem ser admitidos aos concursos para lugares de ingresso nos quadros das Câmaras Municipais de Lisboa e Porto os que, excedendo o limite de idade a que se refere o n.º 2 do artigo 460.º do Código Administrativo, satisfaçam aos demais requisitos legais e se encontrem no exercício de funções, a qualquer título, na própria câmara desde data anterior àquela em que atingiram o referido limite, ininterruptamente ou com interrupções por períodos não superiores a sessenta dias e por motivos que não les sejam imputáveis.
+Art. 40.º Podem ser admitidos aos concursos para lugares de ingresso nos quadros das Câmaras Municipais de Lisboa e Porto os que, excedendo o limite de idade a que se refere o n.º 2 do artigo 460.º do Código Administrativo, satisfaçam aos demais requisitos legais e se encontrem no exercício de funções, a qualquer título, na própria câmara desde data anterior àquela em que atingiram o referido limite, ininterruptamente ou com interrupções por períodos não superiores a sessenta dias e por motivos que não les sejam imputáveis.
 
-###### Art. 2.º - 1. Quando for absolutamente necessário admitir pessoal para suprir a falta de funcionários administrativos decorrente da vacatura de lugares ou de os respectivos titulares se encontrarem na situação de inactividade no quadro, poderão ser feitas nomeações interinas para os lugares de entrada dos respectivos quadros, adoptando-se a ordem de preferência estabelecida no artigo 4.º do [Decreto-Lei n.º 32679](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32679-1943-594104), de 20 de Fevereiro de 1943, e sendo os correspondentes vencimentos abonados em conta das respectivas dotações orçamentais.
+Art. 2.º - 1. Quando for absolutamente necessário admitir pessoal para suprir a falta de funcionários administrativos decorrente da vacatura de lugares ou de os respectivos titulares se encontrarem na situação de inactividade no quadro, poderão ser feitas nomeações interinas para os lugares de entrada dos respectivos quadros, adoptando-se a ordem de preferência estabelecida no artigo 4.º do [Decreto-Lei n.º 32679](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32679-1943-594104), de 20 de Fevereiro de 1943, e sendo os correspondentes vencimentos abonados em conta das respectivas dotações orçamentais.
 
 2. As nomeações a que alude o número anterior só poderão recair, quando não se trate de candidatos habilitados em concurso, em indivíduos que satisfaçam todos os requisitos legalmente exigíveis para o provimento, segundo o regime previsto na lei para ingresso nos quadros.
 
 3. As nomeações a que este artigo se refere caducam logo que sejam preenchidos os lugares vagos ou que regressem ao serviço os funcionários na situação de inactividade no quadro, bem como quando se reconheça que o nomeado interinamente não convém ao serviço, mas mantêm-se, no caso de vagarem os cargos cujos titulares estejam substituídos, até ao preenchimento das respectivas vacaturas.
 
-###### Art. 3.º - 1. Os funcionários administrativos podem ser nomeados interinamente, ou com carácter provisório, para cargos da categoria ou classe imediatamente superior àquela a que pertençam, desde que satisfaçam ao requisito das habilitações literárias.
+Art. 3.º - 1. Os funcionários administrativos podem ser nomeados interinamente, ou com carácter provisório, para cargos da categoria ou classe imediatamente superior àquela a que pertençam, desde que satisfaçam ao requisito das habilitações literárias.
 
 2. Os funcionários providos nos termos do número anterior consideram-se na situação de actividade no quadro e não abrem vaga neste.
 
-###### Art. 4.º - 1. O presidente da câmara poderá, mediante proposta dos respectivos directores de serviços, contratar a efectivação de estudos, a elaboração de projectos ou outros trabalhos de interesse semelhante que se mostrem de urgente necessidade, mediante remunerações, a fixar pelo presidente, que, quando se trate de funcionários públicos ou administrativos, serão acumuláveis com quaisquer vencimentos ou gratificações, sem prejuízo, porém, do limite estabelecido na alínea a) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 4.º - 1. O presidente da câmara poderá, mediante proposta dos respectivos directores de serviços, contratar a efectivação de estudos, a elaboração de projectos ou outros trabalhos de interesse semelhante que se mostrem de urgente necessidade, mediante remunerações, a fixar pelo presidente, que, quando se trate de funcionários públicos ou administrativos, serão acumuláveis com quaisquer vencimentos ou gratificações, sem prejuízo, porém, do limite estabelecido na alínea a) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. Poderá ainda o presidente da câmara criar grupos de trabalho para o estudo de problemas específicos, cujo mandato, composição, funcionamento e condições de remuneração serão estabelecidos por despacho do presidente, observando-se, quanto a remuneração, o preceituado na parte final do número anterior.
 
-###### Art. 5.º O pessoal das Câmaras Municipais de Lisboa e do Porto que, nos termos do artigo 535.º do Código Administrativo, se deslocar dentro da área dos respectivos concelhos terá direito ao abono para transportes previsto na tabela legalmente estabelecida, com referência ao percurso efectuado, salvo se na deslocação for utilizada viatura municipal ou dos transportes colectivos públicos, neste último caso mediante passe fornecido pela câmara ou o pagamento, por esta, do custo das passagens.
+Art. 5.º O pessoal das Câmaras Municipais de Lisboa e do Porto que, nos termos do artigo 535.º do Código Administrativo, se deslocar dentro da área dos respectivos concelhos terá direito ao abono para transportes previsto na tabela legalmente estabelecida, com referência ao percurso efectuado, salvo se na deslocação for utilizada viatura municipal ou dos transportes colectivos públicos, neste último caso mediante passe fornecido pela câmara ou o pagamento, por esta, do custo das passagens.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 12 de Abril de 1973.**
+Promulgado em 12 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

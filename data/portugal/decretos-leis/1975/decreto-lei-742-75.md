@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30000/21552155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/742-1975-316706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab43e8e50f5ffa2a1d6afc1a5c00cbf85e39506fb7a94ba2dfe87a76f964e854
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a83ca52915342b98cd14ea67bb6c45830046a49d2f60cf752bc8505646dbd8a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial do Exército
+- Exército
+- Formação Profissional
+- Militar
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:243487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:243487:por
+  label: "Revogado pelo DEC LEI.434-P/82.29.10.1982.CR, DR.IS [251]2ºSupl de 29.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/434-p-1982-243487
+  date: '1982-10-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:06Z'
   warnings: []
   errors: []
 ---
@@ -100,14 +118,14 @@ Considerando, portanto, a necessidade de prorrogar a suspensão prevista no [Dec
 
 Usando da faculdade conferida pelo artigo 6.º, n.º 1, da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam suspensas as condições de promoção expressas nos artigos 75.º, alínea b), 76.º, alínea c), e 79.º, alínea c), do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril, desde 1 de Janeiro até à data em que venham a terminar os próximos cursos de promoção a capitão e a oficial superior e o curso de altos comandos.
+Artigo 1.º Ficam suspensas as condições de promoção expressas nos artigos 75.º, alínea b), 76.º, alínea c), e 79.º, alínea c), do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril, desde 1 de Janeiro até à data em que venham a terminar os próximos cursos de promoção a capitão e a oficial superior e o curso de altos comandos.
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor.
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 20 de Dezembro de 1975.**
+Promulgado em 20 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

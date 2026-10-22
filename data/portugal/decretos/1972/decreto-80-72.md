@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/80-1972-398781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3a3f5864b0ed5eeac910f8362ab12a6e07939a643130122255616504da249cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aabcc4b6cb1349cfd39daac277983c2fa47f2571eff5737cfd8395949063c47e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:15Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Tendo em consideração o parecer do Conselho Superior de Disciplina do Ultramar
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulga o seguinte Artigo único. É eliminado o § único do artigo 418.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, e os artigos 12.º, 263.º, 353.º, 357.º a 359.º, 366.º, 373.º a 375.º, 382.º, 395.º, 402.º, 403.º, 408.º, 415.º e 419.º do mesmo diploma passam a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § 1.º ...
 
@@ -110,7 +114,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 ...
 
-###### Art. 203.º ...
+Art. 203.º ...
 
 § 1.º Não podem ser marcadas passagens aos funcionários para transportes que partam antes de decorridos oito dias sobre a data em que foram considerados prontos para o serviço pelas juntas de saúde, terminadas as suas situações legais.
 
@@ -126,7 +130,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 ...
 
-###### Art. 353.º ...
+Art. 353.º ...
 
 § 1.º ...
 
@@ -138,15 +142,15 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 ...
 
-###### Art. 357.º Sempre que um funcionário, tendo sofrido condenação em qualquer das penas dos n.os 3.º a 7.º do artigo 354.º, praticar nova infracção a que corresponda uma daquelas penas, antes de decorridos cinco anos desde a data do último despacho punitivo, a pena a aplicar à nova infracção será sempre agravada de modo que seja a imediatamente superior àquela que corresponderia à infracção se não existisse essa circunstância, mas a segunda condenação nas penas dos n.os 6.º ou 7.º do mesmo artigo, qualquer que tenha sido o tempo decorrido desde a última condenação, importa a aplicação da pena de aposentação ou a demissão.
+Art. 357.º Sempre que um funcionário, tendo sofrido condenação em qualquer das penas dos n.os 3.º a 7.º do artigo 354.º, praticar nova infracção a que corresponda uma daquelas penas, antes de decorridos cinco anos desde a data do último despacho punitivo, a pena a aplicar à nova infracção será sempre agravada de modo que seja a imediatamente superior àquela que corresponderia à infracção se não existisse essa circunstância, mas a segunda condenação nas penas dos n.os 6.º ou 7.º do mesmo artigo, qualquer que tenha sido o tempo decorrido desde a última condenação, importa a aplicação da pena de aposentação ou a demissão.
 
-###### Art. 358.º A terceira condenação em qualquer das penas compreendidas entre os n.os 3.º e 5.º do artigo 354.º, se for relativa a infracção praticada antes de decorridos cinco anos sobre a data do último despacho punitivo, implicará que a pena aplicável seja a do n.º 5.º se a infracção sem essa circunstância fosse punida pelo n.º 3.º, a do n.º 6.º se a pena aplicável nos termos anteriores fosse a do n.º 4.º e a do n.º 7.º se a pena aplicável fosse a do n.º 5.º
+Art. 358.º A terceira condenação em qualquer das penas compreendidas entre os n.os 3.º e 5.º do artigo 354.º, se for relativa a infracção praticada antes de decorridos cinco anos sobre a data do último despacho punitivo, implicará que a pena aplicável seja a do n.º 5.º se a infracção sem essa circunstância fosse punida pelo n.º 3.º, a do n.º 6.º se a pena aplicável nos termos anteriores fosse a do n.º 4.º e a do n.º 7.º se a pena aplicável fosse a do n.º 5.º
 
-###### Art. 359.º A quarta condenação em qualquer das penas dos n.os 4.º e 5.º do artigo 354.º implicará a pena de aposentação compulsiva ou de demissão.
+Art. 359.º A quarta condenação em qualquer das penas dos n.os 4.º e 5.º do artigo 354.º implicará a pena de aposentação compulsiva ou de demissão.
 
 ...
 
-###### Art. 366.º ...
+Art. 366.º ...
 
 1.º ...
 
@@ -200,19 +204,19 @@ c) ...
 
 ...
 
-###### Art. 373.º Quando o local da prática da infracção for a metrópole ou província ultramarina diferente daquela a cujos serviços o funcionário pertença, a competência para punir transferir-se-á para os directores-gerais do Ministério ou para o governador da província onde a falta tiver sido praticada, ressalvado o disposto no § único do artigo antecedente.
+Art. 373.º Quando o local da prática da infracção for a metrópole ou província ultramarina diferente daquela a cujos serviços o funcionário pertença, a competência para punir transferir-se-á para os directores-gerais do Ministério ou para o governador da província onde a falta tiver sido praticada, ressalvado o disposto no § único do artigo antecedente.
 
 § único. A competência para punir, transferida para os directores-gerais do Ministério nos termos do disposto no corpo do artigo, será por eles exercida sem audição de qualquer órgão consultivo, ainda que a pena aplicável seja expulsiva ou produza efeitos idênticos.
 
-###### Art. 374.º Sempre que seja de aplicar uma pena superior àquela que corresponderia à infracção praticada, em razão de punição anteriormente sofrida nos termos dos artigos 357.º, 358.º e 359.º, a competência para punir deferir-se-á à entidade a quem, segundo as regras dos artigos 369.º a 372.º, pertença aplicar a pena superior.
+Art. 374.º Sempre que seja de aplicar uma pena superior àquela que corresponderia à infracção praticada, em razão de punição anteriormente sofrida nos termos dos artigos 357.º, 358.º e 359.º, a competência para punir deferir-se-á à entidade a quem, segundo as regras dos artigos 369.º a 372.º, pertença aplicar a pena superior.
 
 § único. A competência para aplicação de penas disciplinares, fixada nos artigos antecedentes, é determinada pelas normas que especificamente enquadram o respectivo ilícito, independentemente de quaisquer atenuantes.
 
-###### Art. 375.º As autoridades ultramarinas com competência disciplinar fixada por este diploma devem sempre pronunciar-se sobre os processos que lhes forem submetidos para aplicarem as penas que estiverem dentro da sua competência ou para a declinarem, fazendo-os subir, neste caso, à entidade que julgarem competente.
+Art. 375.º As autoridades ultramarinas com competência disciplinar fixada por este diploma devem sempre pronunciar-se sobre os processos que lhes forem submetidos para aplicarem as penas que estiverem dentro da sua competência ou para a declinarem, fazendo-os subir, neste caso, à entidade que julgarem competente.
 
 ...
 
-###### Art. 382.º É insuprível a nulidade resultante da falta de audiência do arguido, em artigos de acusação deduzidos nos termos prescritos na segunda parte do artigo 395.º
+Art. 382.º É insuprível a nulidade resultante da falta de audiência do arguido, em artigos de acusação deduzidos nos termos prescritos na segunda parte do artigo 395.º
 
 § 1.º ...
 
@@ -224,13 +228,13 @@ c) ...
 
 ...
 
-###### Art. 395.º Concluída a investigação, se o instrutor entender que os factos constantes dos autos não constituem infracção disciplinar, que não foi o arguido o agente da infracção ou que não é de exigir responsabilidade disciplinar por virtude da prescrição ou outro motivo, elaborará no prazo de dez dias o seu relatório e remetê-lo-á imediatamente com o respectivo processo à autoridade que o tiver mandado instaurar, propondo que ele se arquive.
+Art. 395.º Concluída a investigação, se o instrutor entender que os factos constantes dos autos não constituem infracção disciplinar, que não foi o arguido o agente da infracção ou que não é de exigir responsabilidade disciplinar por virtude da prescrição ou outro motivo, elaborará no prazo de dez dias o seu relatório e remetê-lo-á imediatamente com o respectivo processo à autoridade que o tiver mandado instaurar, propondo que ele se arquive.
 
 No caso contrário deduzirá a acusação no prazo de cinco dias, articulando com a possível discriminação os factos que repute provados, constitutivos de cada infracção, e indicando o preceito legal que a prevê e comina a pena correspondente, bem como, se assim o entender, a disposição violada entre aquelas que estabelecem deveres para o arguido.
 
 ...
 
-###### Art. 402.º ...
+Art. 402.º ...
 
 § 1.º ...
 
@@ -238,13 +242,13 @@ No caso contrário deduzirá a acusação no prazo de cinco dias, articulando co
 
 § 3.º ...
 
-###### Art. 403.º A autoridade que julgar o processo decidirá, concordando ou não com as conclusões do relatório, mas, sendo punitiva a decisão será aplicada a pena correspondente à gravidade dos factos que considere provados, desde que descritos na acusação, ainda que nesta o instrutor tenha indicado pena de menor gravidade. A decisão será sempre fundamentada quando discordar da pena indicada na acusação.
+Art. 403.º A autoridade que julgar o processo decidirá, concordando ou não com as conclusões do relatório, mas, sendo punitiva a decisão será aplicada a pena correspondente à gravidade dos factos que considere provados, desde que descritos na acusação, ainda que nesta o instrutor tenha indicado pena de menor gravidade. A decisão será sempre fundamentada quando discordar da pena indicada na acusação.
 
 § único ...
 
 ...
 
-###### Art. 408.º Para o efeito da aplicação das respectivas penas disciplinares, os funcionários com atribuições de chefia levantarão auto por falta de assiduidade aos seus subordinados que, sem justificação:
+Art. 408.º Para o efeito da aplicação das respectivas penas disciplinares, os funcionários com atribuições de chefia levantarão auto por falta de assiduidade aos seus subordinados que, sem justificação:
 
 a) Tenham faltado ao serviço durante cinco dias úteis seguidos ou oito interpolados, no prazo de um ano civil;
 
@@ -256,7 +260,7 @@ d) Tenham faltado ao serviço durante quarenta dias úteis interpolados no prazo
 
 ...
 
-###### Art. 415.º ...
+Art. 415.º ...
 
 § 1.º ...
 
@@ -274,7 +278,7 @@ d) Tenham faltado ao serviço durante quarenta dias úteis interpolados no prazo
 
 ...
 
-###### Art. 419.º Em recurso hierárquico poderão os processos sofrer instrução complementar sempre que as autoridades recorridas ou para quem se recorre a julgarem conveniente ao apuramento da verdade.
+Art. 419.º Em recurso hierárquico poderão os processos sofrer instrução complementar sempre que as autoridades recorridas ou para quem se recorre a julgarem conveniente ao apuramento da verdade.
 
 § 1.º ...
 
@@ -284,10 +288,10 @@ d) Tenham faltado ao serviço durante quarenta dias úteis interpolados no prazo
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Fevereiro de 1972.**
+Promulgado em 26 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha

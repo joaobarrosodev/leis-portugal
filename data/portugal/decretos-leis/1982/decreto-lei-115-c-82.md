@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 86/1982, 1º Suplemento, Série I de 1982-04-14
   number: '86'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 890-(3) a 890-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08601/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-c-1982-457028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 222003f2d5c447a78a029e1edb983820dcb60766f00f34ad9127947a50efb6b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5abe2ae7a8a2c0cfcb93e6e1a92ff4620244f0f51ae68ff325933165a364c8a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- FIP
+- Obrigações do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693026:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392409:por
+  label: Retificado o art. 12.º pela DECL, de 21-mai, DR.IS [115]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-392409
+  date: '1982-05-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:39Z'
   warnings: []
   errors: []
 ---
@@ -96,68 +119,68 @@ Usando da autorização concedida pelo n.º 1 e pela alínea b) do n.º 2 do art
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para financiamento de investimentos públicos previstos no Orçamento Geral do Estado para 1982 será emitido um empréstimo interno, amortizável, denominado «Obrigações do Tesouro - FIP, 1982».
+Artigo 1.º Para financiamento de investimentos públicos previstos no Orçamento Geral do Estado para 1982 será emitido um empréstimo interno, amortizável, denominado «Obrigações do Tesouro - FIP, 1982».
 
-###### Art. 2.º O empréstimo, cujo serviço é confiado à Junta do Crédito Público, não poderá exceder o total nominal de 15 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
+Art. 2.º O empréstimo, cujo serviço é confiado à Junta do Crédito Público, não poderá exceder o total nominal de 15 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
 
-###### Art. 3.º - 1 - A representação do empréstimo far-se-á em títulos de cupão de 1 a 10 obrigações, no valor nominal de 1000$00 cada uma, ou em certificados de dívida inscritos correspondentes a qualquer quantidade de títulos.
+Art. 3.º - 1 - A representação do empréstimo far-se-á em títulos de cupão de 1 a 10 obrigações, no valor nominal de 1000$00 cada uma, ou em certificados de dívida inscritos correspondentes a qualquer quantidade de títulos.
 
 2 - Os títulos e certificados levarão a assinatura de chancela do Ministro de Estado e das Finanças e do Plano, do vogal-presidente e de outro vogal da Junta do Crédito Público, bem como o selo branco da mesma Junta.
 
 3 - É aplicável ao empréstimo autorizado pelo presente diploma o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 45142](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45142-1963-693026), de 17 de Julho de 1963.
 
-###### Art. 4.º Os títulos e certificados representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais do Estado, da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
+Art. 4.º Os títulos e certificados representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais do Estado, da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
 
-###### Art. 5.º Poderá o Ministro de Estado e da Finanças e do Plano contratar com as instituições de crédito nacionais a colocação, total ou parcial, dos títulos ou fazê-la por subscrição pública ou por venda no mercado.
+Art. 5.º Poderá o Ministro de Estado e da Finanças e do Plano contratar com as instituições de crédito nacionais a colocação, total ou parcial, dos títulos ou fazê-la por subscrição pública ou por venda no mercado.
 
-###### Art. 6.º - 1 - A colocação do empréstimo será feita inicialmente por subscrição pública, aberta a partir de 1 de Setembro do corrente ano, na sede da Junta do Crédito Público, em Lisboa, na sua delegação no Porto, em qualquer instituição de crédito ou em outras instituições que, para o efeito, sejam definidas pelo Ministro de Estado e das Finanças e do Plano.
+Art. 6.º - 1 - A colocação do empréstimo será feita inicialmente por subscrição pública, aberta a partir de 1 de Setembro do corrente ano, na sede da Junta do Crédito Público, em Lisboa, na sua delegação no Porto, em qualquer instituição de crédito ou em outras instituições que, para o efeito, sejam definidas pelo Ministro de Estado e das Finanças e do Plano.
 
 2 - A data de encerramento da subscrição será fixada por despacho do Ministro de Estado e das Finanças e do Plano.
 
 3 - No caso da tomada para a carteira própria por instituições de crédito, o Ministro de Estado e das Finanças e do Plano poderá proceder ao resgate antecipado de parte ou do todo do montante assim colocado, ou à sua substituição por títulos de outro empréstimo, mediante negociação com as entidades tomadoras.
 
-###### Art. 7.º As obrigações que forem colocadas por subscrição pública serão representadas, até à troca pelos títulos definitivos, por cautelas entregues no acto do pagamento da subscrição.
+Art. 7.º As obrigações que forem colocadas por subscrição pública serão representadas, até à troca pelos títulos definitivos, por cautelas entregues no acto do pagamento da subscrição.
 
-###### Art. 8.º O juro das obrigações será pagável aos semestres, em 1 de Março e em 1 de Setembro de cada ano, sendo os primeiros juros pagáveis em 1 de Março de 1983.
+Art. 8.º O juro das obrigações será pagável aos semestres, em 1 de Março e em 1 de Setembro de cada ano, sendo os primeiros juros pagáveis em 1 de Março de 1983.
 
-###### Art. 9.º A taxa de juro nominal anual será a correspondente à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período semestral da contagem de juro, acrescida do diferencial de 2%.
+Art. 9.º A taxa de juro nominal anual será a correspondente à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período semestral da contagem de juro, acrescida do diferencial de 2%.
 
-###### Art. 10.º - 1 - O tempo durante o qual a subscrição pública estiver aberta considera-se dividido em períodos quinzenais, com início nos dias 1 e 15 de cada mês.
+Art. 10.º - 1 - O tempo durante o qual a subscrição pública estiver aberta considera-se dividido em períodos quinzenais, com início nos dias 1 e 15 de cada mês.
 
 2 - Quando o primeiro juro a pagar não corresponder a um semestre completo, cada obrigação subscrita confere direito a 1/12 por cada um dos períodos que faltem para o vencimento de juro semestral, incluindo o da subscrição, arredondado nos termos do [Decreto-Lei n.º 267/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1981-563019), de 15 de Setembro.
 
-###### Art. 11.º Relativamente às obrigações representadas por cautelas entregues aos tomadores no acto da subscrição, o primeiro juro será pago, a partir da data do vencimento, na mesma instituição onde a subscrição foi efectuada, mediante aposição de carimbo adequado naquelas cautelas.
+Art. 11.º Relativamente às obrigações representadas por cautelas entregues aos tomadores no acto da subscrição, o primeiro juro será pago, a partir da data do vencimento, na mesma instituição onde a subscrição foi efectuada, mediante aposição de carimbo adequado naquelas cautelas.
 
-###### Art. 12.º Até à data de vencimento dos primeiros juros, a Junta do Crédito Público entregará a cada uma das instituições de crédito que tenham participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar a partir de 1 de Fevereiro de 1983.
+Art. 12.º Até à data de vencimento dos primeiros juros, a Junta do Crédito Público entregará a cada uma das instituições de crédito que tenham participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar a partir de 1 de Fevereiro de 1983.
 
-###### Art. 13.º Encerrada a subscrição pública, as obrigações que vierem a ser colocadas só vencerão juro a partir da data da entrega ao Tesouro do capital correspondente.
+Art. 13.º Encerrada a subscrição pública, as obrigações que vierem a ser colocadas só vencerão juro a partir da data da entrega ao Tesouro do capital correspondente.
 
-###### Art. 14.º As obrigações deste empréstimo serão amortizadas ao par por sorteio, em 5 anuidades iguais, excepto uma, se necessário.
+Art. 14.º As obrigações deste empréstimo serão amortizadas ao par por sorteio, em 5 anuidades iguais, excepto uma, se necessário.
 
-###### Art. 15.º As amortizações deste empréstimo serão pagáveis em 1 de Setembro de cada ano, realizando-se a primeira em 1986.
+Art. 15.º As amortizações deste empréstimo serão pagáveis em 1 de Setembro de cada ano, realizando-se a primeira em 1986.
 
-###### Art. 16.º - 1 - A importância total das subscrições feitas por intermédio das instituições de crédito será por estas entregue na Junta do Crédito Público nos 7 dias úteis após o final de cada um dos períodos de subscrição.
+Art. 16.º - 1 - A importância total das subscrições feitas por intermédio das instituições de crédito será por estas entregue na Junta do Crédito Público nos 7 dias úteis após o final de cada um dos períodos de subscrição.
 
 2 - As importâncias referidas no número anterior bem como as provenientes das subscrições efectuadas por intermédio da Junta do Crédito Público serão por esta transferidas para o Tesouro nos 10 dias úteis após o final de cada um dos períodos de subscrição.
 
-###### Art. 17.º No mesmo prazo indicado no n.º 1 do artigo anterior cada uma das instituições de crédito comunicará por escrito à Junta do Crédito Público a quantidade de obrigações subscritas por seu intermédio, com discriminação dos títulos de 1 e de 10 obrigações pretendidos.
+Art. 17.º No mesmo prazo indicado no n.º 1 do artigo anterior cada uma das instituições de crédito comunicará por escrito à Junta do Crédito Público a quantidade de obrigações subscritas por seu intermédio, com discriminação dos títulos de 1 e de 10 obrigações pretendidos.
 
-###### Art. 18.º A entrega dos títulos definitivos aos tomadores será feita antes de 1 de Setembro de 1983, a partir da data a fixar pela Junta do Crédito Público.
+Art. 18.º A entrega dos títulos definitivos aos tomadores será feita antes de 1 de Setembro de 1983, a partir da data a fixar pela Junta do Crédito Público.
 
-###### Art. 19.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
+Art. 19.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
 
-###### Art. 20.º As despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+Art. 20.º As despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano inscritas nos orçamentos dos anos económicos em que tiverem lugar.
 
-###### Art. 21.º Não são aplicáveis a este empréstimo as disposições do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se refere à indicação do encargo máximo.
+Art. 21.º Não são aplicáveis a este empréstimo as disposições do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se refere à indicação do encargo máximo.
 
-###### Art. 22.º As dúvidas suscitadas pela aplicação das disposições do presente decreto-lei serão esclarecidas por despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 22.º As dúvidas suscitadas pela aplicação das disposições do presente decreto-lei serão esclarecidas por despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 23.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 23.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Abril de 1982.**
+Promulgado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

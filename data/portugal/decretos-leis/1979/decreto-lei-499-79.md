@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29400/33063312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1979-365889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fe72aefc8c56929cb463d186fc625c4fe42ce4e23dcbbddd418c431fbe5fc78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92f24d52bd47a06871f2b685a4b5e06bb94ae7f38efed0ffbd1baeb2b5c46df2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade Pública
+- Definição de Competências
+- Direcção Geral da Contabilidade Pública
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222251:por
+  label: "Criado um lugar de assessor no quadro de pessoal a que se refere o presente diploma, pela PORT.612/86.21.10.1986.MF,\
+    \ DR.IS [243] de 21.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-1986-222251
+  date: '1986-10-21'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:148063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569561:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692430:por
+  label: Rectificado pela DECL.DD6623.04.01.1980.PCM, DR.IS [18] de 22.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692430
+  date: '1980-01-04'
+- type: repealed_by
+  target: pt:dre:223194:por
+  label: "Revogados os arts. 1º a 8º, 10º a 12º, 14º, 15º e 19º a 27º pelo DEC LEI.344/98.1998.11.06.MF, DR.IS-A [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/344-1998-223194
+  date: '1998-11-06'
+- type: repealed_by
+  target: pt:dre:667361:por
+  label: "Revogados os arts. 9º, 13º e 16º a 18º pelo DEC LEI.420/99.1999.10.21.MF, DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1999-667361
+  date: '1999-10-21'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:53Z'
   warnings: []
   errors: []
 ---
@@ -128,19 +200,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Objectivos, âmbito, atribuições e competência
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objectivos)
 
 A Direcção-Geral da Contabilidade Pública é o órgão do Ministério das Finanças que superintende na execução orçamental e na contabilidade do Estado, assegurando a regularidade e a economia na administração financeira.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Âmbito)
 
 A acção da Direcção-Geral exerce-se no sector público administrativo sobre todos os organismos da Administração Central, independentemente do seu grau de autonomia.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Atribuições)
 
@@ -164,7 +236,7 @@ h) Elaborar, seleccionar, recolher e difundir documentação de índole administ
 
 i) Gerir e administrar os recursos humanos e materiais.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Domínios de actuação)
 
@@ -278,7 +350,7 @@ e) Manter actualizado o inventário das existências do material e outros bens p
 
 ### CAPÍTULO II — Estrutura orgânica e funcionamento
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Níveis e natureza dos serviços)
 
@@ -288,7 +360,7 @@ e) Manter actualizado o inventário das existências do material e outros bens p
 
 3 - Os serviços delegados representam a Direcção-Geral junto dos vários Ministérios, incumbindo-lhes não só a execução da generalidade dos trabalhos que, constituindo funções próprias da Direcção-Geral, se excluem da competência dos serviços centrais, como também prestar apoio aos serviços dos Ministérios e estabelecer a ligação entre estes e o Ministério das Finanças.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Serviços centrais e delegados)
 
@@ -304,7 +376,7 @@ e) Manter actualizado o inventário das existências do material e outros bens p
 
 6 - Sempre que se julgue conveniente, poderão ainda ser criadas novas delegações de contabilidade, quando se verifiquem as circunstâncias previstas no número anterior e pela forma nele referida.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Chefias dos serviços)
 
@@ -314,7 +386,7 @@ e) Manter actualizado o inventário das existências do material e outros bens p
 
 3 - A chefia dos serviços de informática competirá a um director de contabilidade, coadjuvado por um subdirector de contabilidade.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Funcionamento dos serviços da Direcção-Geral)
 
@@ -322,7 +394,7 @@ O funcionamento dos serviços da Direcção-Geral deverá pautar-se pelos crité
 
 ### CAPÍTULO III — Do pessoal
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Grupos profissionais)
 
@@ -344,7 +416,7 @@ f) Pessoal auxiliar.
 
 3 - O grupo do pessoal técnico superior abrangerá licenciados em Direito, Economia, Finanças, Organização e Gestão de Empresas e outros necessários ao desempenho de funções indispensáveis à consecução dos fins da Direcção-Geral.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Fixação e alteração do quadro de pessoal)
 
@@ -352,7 +424,7 @@ f) Pessoal auxiliar.
 
 2 - A distribuição do pessoal pelos serviços centrais e delegações é da competência do director-geral.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Desempenho de funções especiais)
 
@@ -364,7 +436,7 @@ f) Pessoal auxiliar.
 
 4 - O serviço externo de transporte, recolha e distribuição de correspondência ou expediente, bem como de quaisquer volumes, a efectuar em veículos afectos à Direcção-Geral, será permanentemente atribuído a três contínuos, que poderão ser coadjuvados ou substituídos por outros funcionários de igual categoria.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Recrutamento de pessoal em situações especiais)
 
@@ -382,7 +454,7 @@ f) Pessoal auxiliar.
 
 7 - Os funcionários requisitados ou em comissão de serviço conservam os direitos e regalias adquiridos nos lugares de origem, podendo estes ser providos interinamente durante o tempo em que aqueles se mantiverem nas referidas situações.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Trabalhos especiais diversos)
 
@@ -390,7 +462,7 @@ f) Pessoal auxiliar.
 
 2 - Em nenhum caso as actividades referidas no número anterior conferem a quem as exerce a qualidade de agente administrativo.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Destacamento e requisição do pessoal da Direcção-Geral)
 
@@ -406,7 +478,7 @@ f) Pessoal auxiliar.
 
 6 - Quando os funcionários requisitados regressarem aos quadros da Direcção-Geral e não tiverem vaga na categoria que à data possuam nos aludidos quadros, aguardarão a primeira vacatura nessa categoria e serão entretanto pagos pelas disponibilidades das dotações de pessoal dos quadros ou pelas verbas para o efeito especialmente atribuídas.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Pessoal em comissão de serviço noutros departamentos)
 
@@ -414,7 +486,7 @@ f) Pessoal auxiliar.
 
 2 - Aos funcionários em comissão de serviço são aplicáveis as disposições dos n.os 5 e 6 do artigo 14.º deste diploma.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Recrutamento)
 
@@ -424,7 +496,7 @@ f) Pessoal auxiliar.
 
 3 - Na classificação final dos candidatos aos diferentes lugares de acesso serão tidos em conta os resultados dos métodos de selecção aplicados e o mérito profissional, avaliado este com base na classificação de serviço.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Formas de provimento do pessoal)
 
@@ -432,13 +504,13 @@ f) Pessoal auxiliar.
 
 2 - Se a nomeação provisória, para lugares de estágio ou de ingresso do pessoal de carreiras, recair em funcionários dos quadros dos serviços do Estado, dos institutos públicos ou da administração local, poderá ser feita em regime de comissão de serviço, nos termos que vierem a ser definidos no decreto regulamentar.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Remunerações e abonos diversos)
 
 Os funcionários da Direcção-Geral, além do vencimento correspondente às respectivas categorias ou cargos, têm direito às remunerações acessórias e outros abonos que especialmente vierem a ser estabelecidos em decreto regulamentar.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Dos deveres e responsabilidades em especial)
 
@@ -450,7 +522,7 @@ b) Guardar sigilo profissional, não podendo, nomeadamente, revelar quaisquer el
 
 2 - No que se refere aos funcionários da Direcção-Geral, as responsabilidades pecuniárias, disciplinares e outras emergentes da inobservância das normas a que se reporta a alínea a) do número anterior são as que decorrem e se definem nas disposições em vigor, nomeadamente no artigo 22.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Incompatibilidades)
 
@@ -458,7 +530,7 @@ b) Guardar sigilo profissional, não podendo, nomeadamente, revelar quaisquer el
 
 2 - Em casos especiais, devidamente justificados, poderá o Ministro das Finanças autorizar o desempenho de actividades profissionais estranhas à Direcção-Geral, designadamente o exercício da advocacia e de outras profissões liberais.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Condições de desempenho das funções)
 
@@ -470,7 +542,7 @@ b) Guardar sigilo profissional, não podendo, nomeadamente, revelar quaisquer el
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Matérias a regulamentar)
 
@@ -492,19 +564,19 @@ f) A transição dos actuais funcionários para as novas categorias do quadro ge
 
 3 - O sistema de avaliação do mérito profissional, os testes, estágios, cursos, concursos e outras formas de preparação e selecção do pessoal serão regulamentados por portaria do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Entrada em funcionamento das novas estruturas)
 
 As novas estruturas orgânicas e do pessoal previstas no presente decreto-lei poderão entrar em funcionamento por fases, de acordo com o que for definido em despacho do Ministro das Finanças.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Providências orçamentais)
 
 Enquanto não forem tomadas as necessárias providências orçamentais, os encargos resultantes da publicação deste decreto-lei serão satisfeitos de conta das verbas adequadas atribuídas à Direcção-Geral, que para o efeito se consideram como dotações globais.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Legislação revogada)
 
@@ -528,13 +600,13 @@ h) [Decreto Regulamentar n.º 83/77](https://diariodarepublica.pt/dr/detalhe/dec
 
 2 - Até à publicação da portaria a que se refere o n.º 3 do artigo 22.º deste decreto-lei, são aplicáveis aos testes, estágios, cursos e concursos para selecção do pessoal as disposições dos diplomas citados nas alíneas d), f) e h) do n.º 1 deste artigo, em tudo o que não for contrariado no decreto que regulamentar o presente decreto-lei.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Resolução de dúvidas)
 
 As dúvidas surgidas na aplicação do presente decreto-lei e diplomas complementares serão resolvidas por despacho do Ministro das Finanças e, quando for caso disso, do membro do Governo que tiver a seu cargo a função pública.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Entrada em vigor)
 
@@ -542,8 +614,8 @@ Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 14 de Dezembro de 1979.**
+Promulgado em 14 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

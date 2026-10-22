@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43642-1961-169915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec907a3cf616eeac777fc51cf65b81e37f63eb842c8923329dc76f99c9276456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12c10011e301a46973bff1fe1ca1c2e7e81f24388f60366bb8576302ca73dfa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Arquipélago da Madeira
+- Comércio
+- Conselho Consultivo
+- Funchal
+- Junta Nacional dos Vinhos
+- Mercado Interno
+- Profissão Comercial
+- Vinha
+- Vinho
+- Vitivinicultor
+relationships:
+- type: cites
+  target: pt:dre:189119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:39Z'
   warnings: []
   errors: []
 ---
@@ -101,29 +128,29 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As entidades que exerçam a actividade de partidista, definida no artigo 3.º do [Decreto-Lei n.º 41166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41166-1957-278236), de 25 de Junho de 1957, beneficiam dos mesmos direitos e ficam sujeitas às mesmas obrigações que vigoram para os exportadores, com excepção da possibilidade de exportar e da manutenção da existência mínima obrigatória prevista no artigo 4.º daquele diploma.
+Artigo 1.º As entidades que exerçam a actividade de partidista, definida no artigo 3.º do [Decreto-Lei n.º 41166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41166-1957-278236), de 25 de Junho de 1957, beneficiam dos mesmos direitos e ficam sujeitas às mesmas obrigações que vigoram para os exportadores, com excepção da possibilidade de exportar e da manutenção da existência mínima obrigatória prevista no artigo 4.º daquele diploma.
 
-###### Art. 2.º Os viticultores ou cooperativas de viticultores que se limitam a beneficiar ou a envelhecer vinhos da sua produção ou de produção dos seus associados, sem proceder ao respectivo engarrafamento, são isentos da obrigação de inscrição como partidistas na Alfândega do Funchal e delegação da Junta Nacional do Vinho na região vinícola da Madeira, devendo, no entanto, sempre que pretendam beneficiar um volume igual ou superior a 500 l, dar prévio conhecimento à delegação do organismo.
+Art. 2.º Os viticultores ou cooperativas de viticultores que se limitam a beneficiar ou a envelhecer vinhos da sua produção ou de produção dos seus associados, sem proceder ao respectivo engarrafamento, são isentos da obrigação de inscrição como partidistas na Alfândega do Funchal e delegação da Junta Nacional do Vinho na região vinícola da Madeira, devendo, no entanto, sempre que pretendam beneficiar um volume igual ou superior a 500 l, dar prévio conhecimento à delegação do organismo.
 
-###### Art. 3.º Os viticultores ou cooperativas de viticultores que, além de beneficiarem e envelhecerem os vinhos da sua exclusiva produção, procedam ao seu engarrafamento com destino à venda no mercado local, são obrigados a inscrever-se na delegação da Junta Nacional do Vinho, a cuja aprovação devem submeter amostras-padrão dos tipos e marcas dos seus produtos, bem como a manter uma existência mínima igual à exigida para os partidistas, sujeitando-se nestes aspectos e nos demais à acção fiscalizadora do organismo.
+Art. 3.º Os viticultores ou cooperativas de viticultores que, além de beneficiarem e envelhecerem os vinhos da sua exclusiva produção, procedam ao seu engarrafamento com destino à venda no mercado local, são obrigados a inscrever-se na delegação da Junta Nacional do Vinho, a cuja aprovação devem submeter amostras-padrão dos tipos e marcas dos seus produtos, bem como a manter uma existência mínima igual à exigida para os partidistas, sujeitando-se nestes aspectos e nos demais à acção fiscalizadora do organismo.
 
 § 1.º As entidades referidas neste artigo que pretendam cessar o engarrafamento darão do facto conhecimento à delegação da Junta.
 
 § 2.º As infracções do disposto no corpo deste artigo são punidas com as penalidades aplicáveis aos partidistas.
 
-###### Art. 4.º Para o efeito do preenchimento das existências mínimas obrigatórias estabelecidas no [Decreto-Lei n.º 41166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41166-1957-278236) e no presente diploma, só se considera vinho generoso o produto que se encontre alcoolizado a um mínimo de 15º centesimais.
+Art. 4.º Para o efeito do preenchimento das existências mínimas obrigatórias estabelecidas no [Decreto-Lei n.º 41166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41166-1957-278236) e no presente diploma, só se considera vinho generoso o produto que se encontre alcoolizado a um mínimo de 15º centesimais.
 
-###### Art. 5.º - 1.º Constitui infracção, punível com a sanção prevista no artigo 217.º do Código da Propriedade Industrial, a venda ou exposição para venda de vinho generoso da Madeira engarrafado sem prévia verificação da delegação da Junta Nacional do Vinho;
+Art. 5.º - 1.º Constitui infracção, punível com a sanção prevista no artigo 217.º do Código da Propriedade Industrial, a venda ou exposição para venda de vinho generoso da Madeira engarrafado sem prévia verificação da delegação da Junta Nacional do Vinho;
 
 2.º Quando houver mera negligência, a pena é ùnicamente de multa, não excedente a 5000$00;
 
 3.º Presume-se a culpa do vendedor ou da pessoa que possua o produto se não identificar o fornecedor e se este não for comerciante ou produtor de vinhos.
 
-###### Art. 6.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções a que se refere o artigo anterior, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
+Art. 6.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções a que se refere o artigo anterior, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
 
-###### Art. 7.º O artigo 3.º do [Decreto-Lei n.º 30517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30517-1940-189119), de 18 de Junho de 1940, passa a ter a seguinte redacção:
+Art. 7.º O artigo 3.º do [Decreto-Lei n.º 30517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30517-1940-189119), de 18 de Junho de 1940, passa a ter a seguinte redacção:
 
-###### Art. 3.º Junto da delegação funcionará um conselho com atribuições consultivas, que dará o seu parecer acerca de todos os assuntos de interesse da produção e comércio de vinhos da região que lhe forem propostos e que será constituído por:
+Art. 3.º Junto da delegação funcionará um conselho com atribuições consultivas, que dará o seu parecer acerca de todos os assuntos de interesse da produção e comércio de vinhos da região que lhe forem propostos e que será constituído por:
 
 a) O director da Alfândega do Funchal;
 
@@ -143,6 +170,6 @@ e) Dois representantes do comércio de exportação de vinho da Madeira.
 
 § 4.º O actual § 3.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

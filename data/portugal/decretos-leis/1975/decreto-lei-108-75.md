@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05500/03530356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1975-160749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca85972842337efcb3d7742947c0dcb1ade1bcfa4ca1c52ea029f9e775c609f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b688d1ac51bb31c147667b4f37268396ffbb01f0f27612451b924df23713ae5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Nacional de Petroquímica
+- Petroquímica
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:16Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +141,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Em seguimento do disposto no artigo 23.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro, é autorizada a Companhia Nacional de Petroquímica, S. A. R. L., a exercer, de harmonia com o estabelecido nos artigos seguintes, a indústria petroquímica de olefinas.
+Artigo 1.º Em seguimento do disposto no artigo 23.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro, é autorizada a Companhia Nacional de Petroquímica, S. A. R. L., a exercer, de harmonia com o estabelecido nos artigos seguintes, a indústria petroquímica de olefinas.
 
-###### Art. 2.º - 1. As unidades industriais a instalar ao abrigo da autorização concedida pelo artigo anterior são as seguintes:
+Art. 2.º - 1. As unidades industriais a instalar ao abrigo da autorização concedida pelo artigo anterior são as seguintes:
 
 a) Fábrica de produção de etileno com a capacidade mínima de 200000 t anuais;
 
@@ -144,9 +175,9 @@ e) Fábrica de produção de policloreto de vinilo (PVC) ... 550000
 
 f) Fábrica de produção de cloreto de vinilo monómero (VCM) ... 650000
 
-###### Art. 3.º As unidades industriais referidas no n.º 1 do artigo anterior serão instaladas na zona de actuação directa do Gabinete da Área de Sines, nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho.
+Art. 3.º As unidades industriais referidas no n.º 1 do artigo anterior serão instaladas na zona de actuação directa do Gabinete da Área de Sines, nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho.
 
-###### Art. 4.º - 1. As unidades industriais mencionadas no n.º 1 do artigo 2.º deverão iniciar a sua laboração no prazo de quatro anos a contar da data da entrada em vigor deste diploma.
+Art. 4.º - 1. As unidades industriais mencionadas no n.º 1 do artigo 2.º deverão iniciar a sua laboração no prazo de quatro anos a contar da data da entrada em vigor deste diploma.
 
 2. O prazo estabelecido no n.º 1 deste artigo poderá ser prorrogado por despacho do Secretário de Estado da Indústria e Energia por período não superior a dois anos, se o requerente demonstrar ter iniciado a execução dos actos licenciados e ser-lhe impossível completá-lo dentro do prazo fixado por este diploma.
 
@@ -154,15 +185,15 @@ f) Fábrica de produção de cloreto de vinilo monómero (VCM) ... 650000
 
 4. Sem prejuízo do cumprimento do prazo estabelecido no n.º 1 deste artigo, o prazo fixado no número anterior poderá, caso ocorra motivo justificado, ser prorrogado por uma só vez e por igual período, mediante despacho do Secretário de Estado da Indústria e Energia.
 
-###### Art. 5.º - 1. Conjuntamente com os projectos das instalações será submetido à aprovação do Governo o plano pormenorizado da cobertura financeira dos investimentos correspondentes.
+Art. 5.º - 1. Conjuntamente com os projectos das instalações será submetido à aprovação do Governo o plano pormenorizado da cobertura financeira dos investimentos correspondentes.
 
 2. Salvo autorização do Ministro das Finanças, não poderá exceder 60% do respectivo investimento o montante de eventuais financiamentos por utilização de créditos de fornecedores.
 
-###### Art. 6.º - 1. Com excepção da fábrica de produção de etileno, cuja instalação fica obrigada a efectuar, a Companhia Nacional de Petroquímica, S. A. R. L., poderá proceder à instalação das unidades referidas no n.º 1 do artigo 2.º através de sociedades já existentes ou promover para esse efeito a constituição de novas sociedades.
+Art. 6.º - 1. Com excepção da fábrica de produção de etileno, cuja instalação fica obrigada a efectuar, a Companhia Nacional de Petroquímica, S. A. R. L., poderá proceder à instalação das unidades referidas no n.º 1 do artigo 2.º através de sociedades já existentes ou promover para esse efeito a constituição de novas sociedades.
 
 2. A instalação das unidades referidas no n.º 1 do artigo 2.º através das sociedades mencionadas no número anterior depende de despacho do Secretário de Estado da Indústria e Energia, a requerimento da Companhia Nacional de Petroquímica, S. A. R. L.
 
-###### Art. 7.º - 1. No caso de desejar instalar por si as unidades referidas nas alíneas b) a f) do n.º 1 do artigo 2.º, a Companhia Nacional de Petroquímica, S. A. R. L., deverá proceder à elevação do seu capital social nos montantes que se indicam a seguir para cada uma daquelas alíneas:
+Art. 7.º - 1. No caso de desejar instalar por si as unidades referidas nas alíneas b) a f) do n.º 1 do artigo 2.º, a Companhia Nacional de Petroquímica, S. A. R. L., deverá proceder à elevação do seu capital social nos montantes que se indicam a seguir para cada uma daquelas alíneas:
 
 ... Contos
 
@@ -188,11 +219,11 @@ Fábrica de produção de cloreto de vinilo monómero (VCM) ... 195000
 
 7. Por despacho do Secretário de Estado da Indústria e Energia as sociedades existentes que façam prova de que a sua estrutura financeira tem capacidade adequada à execução dos novos investimentos podem ser dispensadas do cumprimento das obrigações estabelecidas nos n.os 3 e 6 deste artigo.
 
-###### Art. 8.º - 1. Os projectos das unidades industriais a instalar não poderão ser aprovados sem que a Companhia Nacional de Petroquímica, S. A. R. L., prove terem sido efectuados os aumentos de capital impostos pelos n.os 1, 3 e 4 do artigo 7.º ou constituídas as novas sociedades a que alude o artigo 6.º
+Art. 8.º - 1. Os projectos das unidades industriais a instalar não poderão ser aprovados sem que a Companhia Nacional de Petroquímica, S. A. R. L., prove terem sido efectuados os aumentos de capital impostos pelos n.os 1, 3 e 4 do artigo 7.º ou constituídas as novas sociedades a que alude o artigo 6.º
 
 2. As unidades industriais referidas no n.º 1 do artigo 2.º não poderão arrancar sem que se mostre estar integralmente realizado o capital social da Companhia Nacional de Petroquímica, S. A. R. L., ou das sociedades já existentes que se tenham proposto a instalação das mesmas unidades, incluindo os aumentos a efectuar por força deste diploma, ou o das novas sociedades constituídas ao abrigo do artigo 6.º
 
-###### Art. 9.º - 1. A Companhia Nacional de Petroquímica, S. A. R. L., prestará no prazo de sessenta dias, a contar da entrada em vigor deste diploma, uma caução no valor de 30000 contos, mediante depósito ou garantia bancária, relativamente à instalação da fábrica de produção de etileno referida na alínea a) do n.º 1 do artigo 2.º
+Art. 9.º - 1. A Companhia Nacional de Petroquímica, S. A. R. L., prestará no prazo de sessenta dias, a contar da entrada em vigor deste diploma, uma caução no valor de 30000 contos, mediante depósito ou garantia bancária, relativamente à instalação da fábrica de produção de etileno referida na alínea a) do n.º 1 do artigo 2.º
 
 2. Até um ano após a entrada em vigor deste diploma, a Companhia Nacional de Petroquímica, S. A. R. L., ou as sociedades já existentes ou constituídas de novo a que alude o artigo 6.º prestarão ainda, mediante depósito ou garantia bancária, relativamente a cada uma das unidades industriais referidas nas alíneas b) a f) do n.º 1 do artigo 2.º, uma caução no valor que para cada uma delas a seguir se indica:
 
@@ -210,7 +241,7 @@ Fábrica de produção de cloreto de vinilo monómero (VCM) ... 8000
 
 3. A caução referida no n.º 1 deste artigo substituirá a prestada pela Companhia União Fabril, S. A. R. L., e pela Sociedade Nacional de Petróleos, S. A. R. L., aquando da apresentação do requerimento de 3 de Abril de 1971, para a instalação da indústria petroquímica de olefinas.
 
-###### Art. 10.º - 1. As acções representativas dos aumentos de capital a que a Companhia Nacional de Petroquímica, S. A. R. L., venha a proceder, nomeadamente de harmonia com o disposto nos n.os 1, 2 e 4 do artigo 7.º, serão subscritas de modo a respeitarem-se as seguintes percentagens mínimas de participação no capital total da sociedade:
+Art. 10.º - 1. As acções representativas dos aumentos de capital a que a Companhia Nacional de Petroquímica, S. A. R. L., venha a proceder, nomeadamente de harmonia com o disposto nos n.os 1, 2 e 4 do artigo 7.º, serão subscritas de modo a respeitarem-se as seguintes percentagens mínimas de participação no capital total da sociedade:
 
 a) 13,6% para a Companhia União Fabril, S. A. R. L.;
 
@@ -224,11 +255,11 @@ b) 20,4% para a Sociedade Nacional de Petróleos, S. A. R. L.
 
 5. A Companhia União Fabril, S. A. R. L., e a Sociedade Nacional de Petróleos, S. A. R. L., ficam obrigadas a subscrever as acções que não sejam subscritas pelo Estado, pelo público ou por outras entidades nacionais ou estrangeiras.
 
-###### Art. 11.º - 1. As acções que pertençam às entidades referidas nas alíneas a) e b) do n.º 1 do artigo anterior e que sejam representativas do capital social da Companhia Nacional de Petroquímica, S. A. R. L., ou das sociedades cuja constituição aquela promova ao abrigo do artigo 6.º serão obrigatoriamente nominativas.
+Art. 11.º - 1. As acções que pertençam às entidades referidas nas alíneas a) e b) do n.º 1 do artigo anterior e que sejam representativas do capital social da Companhia Nacional de Petroquímica, S. A. R. L., ou das sociedades cuja constituição aquela promova ao abrigo do artigo 6.º serão obrigatoriamente nominativas.
 
 2. É aplicável às mesmas entidades, relativamente às participações de que trata este artigo, o disposto no n.º 3 do artigo 6.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 39/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1972-398487), de 3 de Fevereiro.
 
-###### Art. 12.º - 1. Fica a Sociedade Portuguesa de Refinação de Petróleos, S. A. R. L., dispensada das obrigações decorrentes do artigo 23.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro.
+Art. 12.º - 1. Fica a Sociedade Portuguesa de Refinação de Petróleos, S. A. R. L., dispensada das obrigações decorrentes do artigo 23.º do [Decreto-Lei n.º 497/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1971-631419), de 12 de Novembro.
 
 2. A Sociedade Nacional de Petróleos, S. A. R. L., e a Companhia União Fabril, S. A. R. L., ficam obrigadas a adquirir à Sociedade Portuguesa de Refinação de Petróleos, S. A. R. L., ao valor nominal realizado, 17,34% do capital da Companhia Nacional de Petroquímica, S. A. R. L., a fim de entregarem as acções correspondentes ao Estado, liberando-as à medida das respectivas chamadas de capital.
 
@@ -238,7 +269,7 @@ b) 20,4% para a Sociedade Nacional de Petróleos, S. A. R. L.
 
 5. As operações previstas nos números deste artigo poderão ser executadas com dispensa da condição estabelecida no artigo 169.º do Código Comercial.
 
-###### Art. 13.º - 1. Para efeitos do artigo 1.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, são consideradas prioritárias as actividades petroquímicas referidas no artigo 2.º do presente diploma.
+Art. 13.º - 1. Para efeitos do artigo 1.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, são consideradas prioritárias as actividades petroquímicas referidas no artigo 2.º do presente diploma.
 
 2. À Companhia Nacional de Petroquímica, S. A. R. L., bem como às sociedades através das quais se venha a proceder, nos termos do artigo 6.º, à instalação das unidades referidas no n.º 1 do artigo 2.º serão concedidos, ao abrigo do disposto no n.º 3 do artigo 12.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), os incentivos correspondentes à classe E do quadro anexo ao mesmo diploma desde que se mostrem cumpridas as condições impostas pelo presente decreto-lei e pelos despachos do Secretário de Estado da Indústria e Energia que aprovarem os projectos das unidades a instalar e os respectivos programas de fabrico.
 
@@ -252,9 +283,9 @@ b) 20,4% para a Sociedade Nacional de Petróleos, S. A. R. L.
 
 7. Os benefícios fiscais a conceder às entidades referidas no n.º 2 respeitarão apenas às actividades previstas no artigo 2.º do presente diploma.
 
-###### Art. 14.º O Governo reconhece o interesse nacional da indústria petroquímica para efeitos do disposto no artigo 6.º do Protocolo n.º 1 do Acordo assinado em 22 de Junho de 1972 com a Comunidade Económica Europeia.
+Art. 14.º O Governo reconhece o interesse nacional da indústria petroquímica para efeitos do disposto no artigo 6.º do Protocolo n.º 1 do Acordo assinado em 22 de Junho de 1972 com a Comunidade Económica Europeia.
 
-###### Art. 15.º - 1. É aprovado o programa de fabrico apresentado pela Companhia Nacional de Petroquímica, S. A. R. L., relativamente à segunda fase do empreendimento, compreendendo fábricas de produção de acrilonitrilo, estireno, poliestireno e borracha de estirenobutadieno.
+Art. 15.º - 1. É aprovado o programa de fabrico apresentado pela Companhia Nacional de Petroquímica, S. A. R. L., relativamente à segunda fase do empreendimento, compreendendo fábricas de produção de acrilonitrilo, estireno, poliestireno e borracha de estirenobutadieno.
 
 2. A Companhia Nacional de Petroquímica, S. A. R. L., deverá apresentar até 30 de Junho de 1976 os projectos conceptuais de realização das unidades industriais mencionadas no número anterior, sem o que a aprovação nele referida ficará sem efeito.
 
@@ -262,20 +293,20 @@ b) 20,4% para a Sociedade Nacional de Petróleos, S. A. R. L.
 
 4. Por despacho do Secretário de Estado da Indústria e Energia poderá ser transferida para a segunda fase a instalação de qualquer das unidades mencionadas nas alíneas b) a f) do n.º 1 do artigo 2.º, desde que em sua substituição seja instalada uma das unidades previstas para a segunda fase, sendo aplicável às unidades transferidas da segunda fase para a primeira fase o tratamento previsto neste diploma para as unidades da primeira fase.
 
-###### Art. 16.º No projecto e na construção das unidades industriais referidas no n.º 1 do artigo 2.º e no n.º 1 do artigo 15.º serão utilizados os serviços ou os equipamentos produzidos por empresas nacionais na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos em condições próximas de preço, qualidade e prazo de entrega, de harmonia com o despacho de 21 de Julho de 1970 do Conselho de Ministros para os Assuntos Económicos.
+Art. 16.º No projecto e na construção das unidades industriais referidas no n.º 1 do artigo 2.º e no n.º 1 do artigo 15.º serão utilizados os serviços ou os equipamentos produzidos por empresas nacionais na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos em condições próximas de preço, qualidade e prazo de entrega, de harmonia com o despacho de 21 de Julho de 1970 do Conselho de Ministros para os Assuntos Económicos.
 
-###### Art. 17.º - 1. Será designada pelos Ministros das Finanças e da Economia uma comissão incumbida da fiscalização técnica administrativa e financeira da instalação das unidades industriais referidas nos n.º 1 do artigo 2.º e n.º 1 do artigo 15.º
+Art. 17.º - 1. Será designada pelos Ministros das Finanças e da Economia uma comissão incumbida da fiscalização técnica administrativa e financeira da instalação das unidades industriais referidas nos n.º 1 do artigo 2.º e n.º 1 do artigo 15.º
 
 2. A comissão gozará, relativamente às suas atribuições, dos poderes estabelecidos pelo n.º 2 da base XVI da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937.
 
-###### Art. 18.º A autorização concedida pelo artigo 2.º para instalação de uma fábrica de produção de policloreto de vinilo anula e substitui a concedida em 30 de Janeiro de 1973 à Companhia União Fabril, S. A. R. L., ou a uma sociedade a constituir e publicada no Boletim da Direcção-Geral dos Serviços Industriais, n.º 372, de 14 de Fevereiro do mesmo ano.
+Art. 18.º A autorização concedida pelo artigo 2.º para instalação de uma fábrica de produção de policloreto de vinilo anula e substitui a concedida em 30 de Janeiro de 1973 à Companhia União Fabril, S. A. R. L., ou a uma sociedade a constituir e publicada no Boletim da Direcção-Geral dos Serviços Industriais, n.º 372, de 14 de Fevereiro do mesmo ano.
 
-###### Art. 19.º O não cumprimento dos prazos e condições fixados para a instalação das unidades industriais mencionadas no n.º 1 do artigo 2.º importa a perda das cauções a que se refere o artigo 9.º, bem como as dos benefícios fiscais que eventualmente hajam sido concedidos à Companhia Nacional de Petroquímica, S. A. R. L., ou às sociedades já existentes que se tenham proposto a instalação daquelas unidades industriais, ou às sociedades constituídas ao abrigo do artigo 6.º
+Art. 19.º O não cumprimento dos prazos e condições fixados para a instalação das unidades industriais mencionadas no n.º 1 do artigo 2.º importa a perda das cauções a que se refere o artigo 9.º, bem como as dos benefícios fiscais que eventualmente hajam sido concedidos à Companhia Nacional de Petroquímica, S. A. R. L., ou às sociedades já existentes que se tenham proposto a instalação daquelas unidades industriais, ou às sociedades constituídas ao abrigo do artigo 6.º
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 24 de Fevereiro de 1975.**
+Promulgado em 24 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

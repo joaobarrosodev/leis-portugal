@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/35-1987-499273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8c982570465e016f0a0118462c0fa5a1dd75531e60c1471d4e1017fd28293ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e273d06369ef8b08facfbf0f148cf505f3eb42eec67e5b32c4e9bc825a870f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Genebra
+- JUTA
+- Portugal
 relationships: []
 article_structure:
-  article_count: 48
+  article_count: 47
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:21Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +90,19 @@ de 22 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para adesão o Acordo Internacional da Juta e Produtos da Juta, feito em Genebra em 1 de Outubro de 1982, cujo texto original em inglês e a tradução portuguesa vão anexos ao presente decreto.
+Artigo único. É aprovado para adesão o Acordo Internacional da Juta e Produtos da Juta, feito em Genebra em 1 de Outubro de 1982, cujo texto original em inglês e a tradução portuguesa vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1987. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 3 de Dezembro de 1987.**
+Assinado em 3 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Dezembro de 1987.**
+Referendado em 7 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 INTERNATIONAL AGREEMENT ON JUTE AND JUTE PRODUCTS, 1982
 
@@ -1376,7 +1380,7 @@ b) Depois da assinatura do presente Acordo, pode ratificá-lo, aceitá-lo ou apr
 
 ###### Artigo 38 — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas é designado como depositário do presente Acordo.**
+O Secretário-Geral da Organização das Nações Unidas é designado como depositário do presente Acordo.
 
 ###### Artigo 39 — Notificação de aplicação a título provisório
 
@@ -1470,7 +1474,7 @@ Os textos do presente Acordo em inglês, árabe, espanhol, francês e russo faze
 
 ## ANEXO A
 
-# Parte de cada país exportador no total das exportações líquidas da juta e artigos de juta dos países participantes na Conferência das Nações Unidas sobre a Juta e os Artigos de Juta, 1981, tal como ficou estabelecido no final do artigo 40:
+Parte de cada país exportador no total das exportações líquidas da juta e artigos de juta dos países participantes na Conferência das Nações Unidas sobre a Juta e os Artigos de Juta, 1981, tal como ficou estabelecido no final do artigo 40:
 
 Percentagem
 
@@ -1490,7 +1494,7 @@ Total ... 100,000
 
 ## ANEXO B
 
-# Parte de cada país importador no total das importações líquidas de juta e de artigos de juta dos países participantes na Conferência das Nações Unidas sobre a Juta e Artigos de Juta, 1981, tal como ficou estabelecido no final do artigo 40:
+Parte de cada país importador no total das importações líquidas de juta e de artigos de juta dos países participantes na Conferência das Nações Unidas sobre a Juta e Artigos de Juta, 1981, tal como ficou estabelecido no final do artigo 40:
 
 Percentagem
 

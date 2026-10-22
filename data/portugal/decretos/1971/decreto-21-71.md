@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-1971-445928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c4d2ae1097e1ae90c1a2156917b93450baa921ec469400e7e40398d0b77cce3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdc1c63ba046b6dad40d67c7b0faf5d68848f85a8ea9b68c2d420daf956fdc0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:284710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561040:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:30Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +98,19 @@ Por motivo de urgência, nos termos do § 1.º do artigo 150.º da Constituiçã
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O [Decreto n.º 43525](https://diariodarepublica.pt/dr/detalhe/decreto/43525-1961-561040), de 7 de Março de 1961, continua a constituir o diploma básico regulador, no ultramar, do arrendamento de prédios urbanos, só sendo aplicáveis as normas do Código Civil como legislação subsidiária.
+Artigo 1.º O [Decreto n.º 43525](https://diariodarepublica.pt/dr/detalhe/decreto/43525-1961-561040), de 7 de Março de 1961, continua a constituir o diploma básico regulador, no ultramar, do arrendamento de prédios urbanos, só sendo aplicáveis as normas do Código Civil como legislação subsidiária.
 
-###### Art. 2.º É tornado extensivo ao ultramar o artigo 32.º da [Lei n.º 300](https://diariodarepublica.pt/dr/detalhe/lei/300-1915-284710), de 3 de Fevereiro de 1915, regulando o prazo de prescrição do procedimento por contravenções e transgressões.
+Art. 2.º É tornado extensivo ao ultramar o artigo 32.º da [Lei n.º 300](https://diariodarepublica.pt/dr/detalhe/lei/300-1915-284710), de 3 de Fevereiro de 1915, regulando o prazo de prescrição do procedimento por contravenções e transgressões.
 
-###### Art. 3.º A forma de preenchimento dos quadros de secretaria dos tribunais de polícia do ultramar, prevista no Decreto n.º 43125, de 19 de Agosto de 1960, poderá ser alterada pelos governos provinciais, quanto aos lugares dos quadros privativos, logo que o interesse do serviço assim o exija.
+Art. 3.º A forma de preenchimento dos quadros de secretaria dos tribunais de polícia do ultramar, prevista no Decreto n.º 43125, de 19 de Agosto de 1960, poderá ser alterada pelos governos provinciais, quanto aos lugares dos quadros privativos, logo que o interesse do serviço assim o exija.
 
-###### Art. 4.º - 1. Em caso de urgente conveniência de serviço, podem os presidentes da Relações do ultramar, mediante provisão, durante as ausências e impedimentos de qualquer juiz de direito do respectivo distrito judicial cuja substituição se não afigure satisfatória pelos meios normais, fazer ocupar o lugar por transferência de outro juiz, colocado em lugar onde o impedimento do titular não cause tão grave prejuízo, desde que isso não implique deslocação de comarca do magistrado transferido e este anua ao movimento.
+Art. 4.º - 1. Em caso de urgente conveniência de serviço, podem os presidentes da Relações do ultramar, mediante provisão, durante as ausências e impedimentos de qualquer juiz de direito do respectivo distrito judicial cuja substituição se não afigure satisfatória pelos meios normais, fazer ocupar o lugar por transferência de outro juiz, colocado em lugar onde o impedimento do titular não cause tão grave prejuízo, desde que isso não implique deslocação de comarca do magistrado transferido e este anua ao movimento.
 
 2. O uso desta faculdade será sempre imediatamente comunicado ao Conselho Superior Judiciário do Ultramar.
 
-###### Art. 5.º Os delegados e ajudantes do procurador da República, quando tomem posse na sede do distrito judicial respectivo, deverão fazê-lo perante o procurador da República.
+Art. 5.º Os delegados e ajudantes do procurador da República, quando tomem posse na sede do distrito judicial respectivo, deverão fazê-lo perante o procurador da República.
 
-###### Art. 6.º - 1. As quantias em dinheiro apreendidas em processos criminais serão depositadas no estabelecimento de crédito competente, à ordem do respectivo magistrado, devendo ser restituídas a final e gratuitamente a quem a elas tiver direito.
+Art. 6.º - 1. As quantias em dinheiro apreendidas em processos criminais serão depositadas no estabelecimento de crédito competente, à ordem do respectivo magistrado, devendo ser restituídas a final e gratuitamente a quem a elas tiver direito.
 
 2. Todos os objectos e quantias não reclamados pelos interessados no prazo de três meses, a contar do trânsito em julgado das decisões finais proferidas nos respectivos processos, ou da data da publicação deste diploma em relação a processos com decisão final já transitada, prescreverão a favor da Fazenda Nacional e o seu produto dará entrada no Cofre Geral de Justiça.
 
@@ -114,10 +122,10 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Janeiro de 1971.**
+Promulgado em 20 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

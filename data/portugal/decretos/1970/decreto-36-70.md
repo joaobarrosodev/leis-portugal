@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1970-227625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f2356da5daae8735feca8f6409b15585e0c61434cbf3249a49c23e847e84e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62772e7026112d63474a1538ba799fe5e5795a54bbff96baae1c0e43ad9e5def
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537580:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:37Z'
   warnings: []
   errors: []
 ---
@@ -91,23 +103,23 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 A) Cabo Verde
 
-###### Artigo 1.º A gratificação prevista no mapa II anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1950, para os delegados da Capitania dos Portos é elevada para 100$00, e para 200$00 a do delegado da aldeia piscatória de Salamansa.
+Artigo 1.º A gratificação prevista no mapa II anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1950, para os delegados da Capitania dos Portos é elevada para 100$00, e para 200$00 a do delegado da aldeia piscatória de Salamansa.
 
 B) Guiné
 
-###### Art. 2.º - 1. Com o fim ide se acelerar a promoção cultural das populações locais, poderão os elementos das forças armadas em serviço na Guiné, nas condições que forem fixadas pelo Governo da província, coadjuvar o pessoal docente previsto no artigo 15.º do [Decreto-Lei n.º 45908](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45908-1964-537580), de 10 de Setembro de 1964, a ministrar o ensino primário nas escolas ou postos escolares.
+Art. 2.º - 1. Com o fim ide se acelerar a promoção cultural das populações locais, poderão os elementos das forças armadas em serviço na Guiné, nas condições que forem fixadas pelo Governo da província, coadjuvar o pessoal docente previsto no artigo 15.º do [Decreto-Lei n.º 45908](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45908-1964-537580), de 10 de Setembro de 1964, a ministrar o ensino primário nas escolas ou postos escolares.
 
 2. Àqueles elementos será atribuída, pelo Governo da província, uma gratificação mensal não superior a 1800$00
 
 C) Macau
 
-###### Art. 3.º Fica o Governo da província autorizado a remodelar o quadro permanente do pessoal assalariado das Oficinas Navais, de forma a integrar nele o pessoal assalariado eventual que ali presta serviço, fixando-lhe as respectivas remunerações de acordo com o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 3.º Fica o Governo da província autorizado a remodelar o quadro permanente do pessoal assalariado das Oficinas Navais, de forma a integrar nele o pessoal assalariado eventual que ali presta serviço, fixando-lhe as respectivas remunerações de acordo com o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 4.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 500000$00, destinado a reforçar a verba do capítulo 10.º, artigo 286.º, n.º 4), alínea b), 1.ª) «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1969, tomando como contrapartida o saldo das contas de exercícios findos.
+Art. 4.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 500000$00, destinado a reforçar a verba do capítulo 10.º, artigo 286.º, n.º 4), alínea b), 1.ª) «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1969, tomando como contrapartida o saldo das contas de exercícios findos.
 
 D) Timor
 
-###### Art. 5.º - 1. No quadro de pessoal de nomeação dos Serviços de Obras Públicas e Transportes é criado um lugar de chefe de secção de máquinas, com a categoria da letra J do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 5.º - 1. No quadro de pessoal de nomeação dos Serviços de Obras Públicas e Transportes é criado um lugar de chefe de secção de máquinas, com a categoria da letra J do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. O lugar de chefe de secção de máquinas será provido por meio de concurso de provas práticas, a que se poderão candidatar os chefes de oficinas, encarregados gerais de oficinais, mecânicos electricistas de 1.ª classe, mecânicos de 1.ª classe, electricistas, mestres carpinteiros e mestres de oficinas dos serviços de obras públicas e transportes do ultramar com mais de três anos de serviço efectivo na categoria.
 
@@ -117,9 +129,9 @@ D) Timor
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Janeiro de 1970.**
+Promulgado em 19 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

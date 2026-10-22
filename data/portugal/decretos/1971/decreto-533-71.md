@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/533-1971-632030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b09da83834bee6d06b6bea5553353dce88b541135a839bfdf945b7bb47936a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: deaff3548dbd45de3f00ae0b2589db148557a4df3f236c374b06e6f31fdc0581
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arsenal do Alfeite
+- Definição de Competências
+- Gratificação
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:251775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181627:por
+  label: "Dada nova redacção ao artºs 32º e 66º e revogado o o mapa anexo (com a redacção dada pelo presente diploma) e respectiva\
+    \ tabela de gratificações do Regulamento doArsenal do Alfeite, aprovado pelo Decreto n.º 31873, de 27 de Janeiro de 1942,\
+    \ pelo DEC.550-B/76.12.07.1976.CR, DR.IS [161-1ºSupl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/550-b-1976-181627
+  date: '1976-07-12'
+- type: amended_by
+  target: pt:dre:251775:por
+  label: "Reposto em vigor, tansitoriamente, o mapa anexo ao Dec 31873 de 27-Jan de 1942, com as alterações introduzidas pelo\
+    \ presente diploma, pelo DEC LEI.179/77.04.05.1977.CR, DR.IS [103] de 04.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1977-251775
+  date: '1977-05-04'
+- type: cites
+  target: pt:dre:168826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:16Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +122,9 @@ Convindo actualizar algumas das disposições do Regulamento do Arsenal do Alfei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta, e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 5.º, n.º 2.º, 6.º, n.os 2.º e 4.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 22.º, 23.º, 24.º, 25.º, 26.º, 28.º, 29.º, 37.º e seu § 2.º, 39.º e seu § 2.º, 44.º e 70.º do Regulamento do Arsenal do Alfeite, aprovado pelo [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, com a redacção que lhe foi dada pelo [Decreto n.º 43380](https://diariodarepublica.pt/dr/detalhe/decreto/43380-1960-512662), de 6 de Dezembro de 1960, bem como os mapas anexos, passam a ter seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 5.º, n.º 2.º, 6.º, n.os 2.º e 4.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 22.º, 23.º, 24.º, 25.º, 26.º, 28.º, 29.º, 37.º e seu § 2.º, 39.º e seu § 2.º, 44.º e 70.º do Regulamento do Arsenal do Alfeite, aprovado pelo [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, com a redacção que lhe foi dada pelo [Decreto n.º 43380](https://diariodarepublica.pt/dr/detalhe/decreto/43380-1960-512662), de 6 de Dezembro de 1960, bem como os mapas anexos, passam a ter seguinte redacção:
 
-###### Artigo 1.º O Arsenal do Alfeite, também designado neste decreto por Arsenal, é o organismo industrial do Ministério da Marinha que tem por fim:
+Artigo 1.º O Arsenal do Alfeite, também designado neste decreto por Arsenal, é o organismo industrial do Ministério da Marinha que tem por fim:
 
 1.º Reparar e conservar por meio de fabricos todos os navios e outros flutuadores que se encontrem no continente, seus acessórios e mais material pertencente aos mesmos, com excepção das reparações e fabricos a executar por outros organismos;
 
@@ -117,11 +146,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 2.º Quando não possa executar qualquer trabalho da sua especialidade, por deficiência de instalação ou por ter atingido o limite máximo da capacidade de produção, deverá informar a entidade de quem depende.
 
-###### Art. 2.º O Arsenal do Alfeite tem administração autónoma.
+Art. 2.º O Arsenal do Alfeite tem administração autónoma.
 
 ...
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 ...
 
@@ -129,7 +158,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 ...
 
@@ -141,25 +170,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 13.º Os serviços técnicos e administrativos distribuem-se pela Direcção Técnica (DT), Direcção Fabril (DF), Direcção Comercial (DC) e Direcção de Pessoal (DP), na dependência do administrador.
+Art. 13.º Os serviços técnicos e administrativos distribuem-se pela Direcção Técnica (DT), Direcção Fabril (DF), Direcção Comercial (DC) e Direcção de Pessoal (DP), na dependência do administrador.
 
-###### Art. 14.º Como órgãos de conselho, disporá o administrador do Contencioso, do Gabinete de Organização e Métodos, da Comissão de Segurança no Trabalho e do Conselho de Informática e Estatística.
+Art. 14.º Como órgãos de conselho, disporá o administrador do Contencioso, do Gabinete de Organização e Métodos, da Comissão de Segurança no Trabalho e do Conselho de Informática e Estatística.
 
-###### Art. 15.º O Centro de Informática e Estatística e a Secretaria Central e Arquivo Geral funcionarão na directa dependência do administrador. O chefe da Secretaria desempenhará o cargo de secretário sem voto do conselho de administração.
+Art. 15.º O Centro de Informática e Estatística e a Secretaria Central e Arquivo Geral funcionarão na directa dependência do administrador. O chefe da Secretaria desempenhará o cargo de secretário sem voto do conselho de administração.
 
-###### Art. 16.º À Direcção Técnica, além das atribuições que eram cometidas ao Serviço de Estudos, cabe a elaboração do planeamento geral, o contrôle de produção e a direcção do laboratório.
+Art. 16.º À Direcção Técnica, além das atribuições que eram cometidas ao Serviço de Estudos, cabe a elaboração do planeamento geral, o contrôle de produção e a direcção do laboratório.
 
-###### Art. 17.º Todas as encomendas feitas ao Arsenal passam inicialmente pela Direcção Técnica.
+Art. 17.º Todas as encomendas feitas ao Arsenal passam inicialmente pela Direcção Técnica.
 
-###### Art. 18.º A Direcção Técnica compreenderá os Serviços de Orçamentação e Planeamento Geral, o de Investigação e Estudos e o de Contrôle.
+Art. 18.º A Direcção Técnica compreenderá os Serviços de Orçamentação e Planeamento Geral, o de Investigação e Estudos e o de Contrôle.
 
-###### Art. 19.º O Serviço de Investigação e Estudos manterá a biblioteca e documentação e o serviço de reproduções.
+Art. 19.º O Serviço de Investigação e Estudos manterá a biblioteca e documentação e o serviço de reproduções.
 
-###### Art. 20.º A Direcção Técnica disporá de uma única secção administrativa.
+Art. 20.º A Direcção Técnica disporá de uma única secção administrativa.
 
 ...
 
-###### Art. 22.º A Direcção Fabril compreende:
+Art. 22.º A Direcção Fabril compreende:
 
 1.º O Serviço de Planeamento Fabril e Preparação Central;
 
@@ -173,9 +202,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 6.º A secção administrativa da Direcção Fabril.
 
-###### Art. 23.º O agrupamento das oficinas nas divisões faz-se como segue:
+Art. 23.º O agrupamento das oficinas nas divisões faz-se como segue:
 
-##### Divisão de Construção Naval:
+Divisão de Construção Naval:
 
 Sala do risco;
 
@@ -209,7 +238,7 @@ Oficina de carpinteiros de moldes;
 
 Oficina de fundição.
 
-##### Divisão de Electricidade:
+Divisão de Electricidade:
 
 Oficina de reparações e construções eléctricas;
 
@@ -245,11 +274,11 @@ Serviço de produção e distribuição de energia e de comunicações;
 
 Serviço de incêndios.
 
-###### Art. 24.º A criação de novas divisões na Direcção Fabril far-se-á por portaria do Ministro da Marinha.
+Art. 24.º A criação de novas divisões na Direcção Fabril far-se-á por portaria do Ministro da Marinha.
 
-###### Art. 25.º O agrupamento das oficinas nas divisões poderá ser alterado por despacho do Ministro da Marinha.
+Art. 25.º O agrupamento das oficinas nas divisões poderá ser alterado por despacho do Ministro da Marinha.
 
-###### Art. 26.º A Divisão de Coordenação e Contrôle Fabril compreende os departamentos seguintes:
+Art. 26.º A Divisão de Coordenação e Contrôle Fabril compreende os departamentos seguintes:
 
 Novas construções;
 
@@ -261,7 +290,7 @@ Obras externas diversas, obras internas e para armazém.
 
 ...
 
-###### Art. 28.º A Direcção Comercial compreende os seguintes serviços:
+Art. 28.º A Direcção Comercial compreende os seguintes serviços:
 
 Serviço de Compras;
 
@@ -269,11 +298,11 @@ Serviço de Normalização;
 
 Armazém de Abastecimentos e Ferramentaria;
 
-##### Divisão de Orçamento e Contabilidade;
+Divisão de Orçamento e Contabilidade;
 
 Tesouraria.
 
-###### Art. 29.º A Direcção de Pessoal agrupa os seguintes serviços:
+Art. 29.º A Direcção de Pessoal agrupa os seguintes serviços:
 
 Serviço de Admissões, Movimento e Ponto;
 
@@ -287,7 +316,7 @@ Serviço de Polícia e Fiscalização.
 
 ...
 
-###### Art. 37.º A admissão dos engenheiros faz-se na categoria equivalente à 3.ª classe, sendo as promoções às outras classes feitas depois de decorridos quatro anos de serviço em cada classe.
+Art. 37.º A admissão dos engenheiros faz-se na categoria equivalente à 3.ª classe, sendo as promoções às outras classes feitas depois de decorridos quatro anos de serviço em cada classe.
 
 ...
 
@@ -295,7 +324,7 @@ Serviço de Polícia e Fiscalização.
 
 ...
 
-###### Art. 39.º A admissão de desenhadores far-se-á, em regra, por concurso entre ajudantes de desenhador com três anos de prática efectiva na sala de desenho e que tenham boas informações de serviço.
+Art. 39.º A admissão de desenhadores far-se-á, em regra, por concurso entre ajudantes de desenhador com três anos de prática efectiva na sala de desenho e que tenham boas informações de serviço.
 
 ...
 
@@ -303,19 +332,19 @@ Serviço de Polícia e Fiscalização.
 
 ...
 
-###### Art. 44.º O director comercial, o chefe da Divisão de Orçamento e Contabilidade e o técnico economista serão licenciados em Ciências Económicas e Financeiras, em Economia ou em Finanças. O chefe do Contencioso será licenciado em Direito. O técnico de organização será ou engenheiro ou licenciado em Ciências Económicas e Financeiras.
+Art. 44.º O director comercial, o chefe da Divisão de Orçamento e Contabilidade e o técnico economista serão licenciados em Ciências Económicas e Financeiras, em Economia ou em Finanças. O chefe do Contencioso será licenciado em Direito. O técnico de organização será ou engenheiro ou licenciado em Ciências Económicas e Financeiras.
 
 § único. À admissão e promoção do técnico economista e do técnico de organização aplica-se o disposto no corpo do artigo 37.º e seu parágrafo.
 
 ...
 
-###### Art. 70.º As lições destinadas a completar os conhecimentos indispensáveis ao pessoal de qualquer serviço, mesmo quando ministradas por estranhos ao Serviço de Qualificação, Formação e Segurança, serão orientadas e coordenadas por este Serviço.
+Art. 70.º As lições destinadas a completar os conhecimentos indispensáveis ao pessoal de qualquer serviço, mesmo quando ministradas por estranhos ao Serviço de Qualificação, Formação e Segurança, serão orientadas e coordenadas por este Serviço.
 
 ...
 
 Quadro do pessoal do Arsenal do Alfeite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/28300/18641867.pdf))](https://files.diariodarepublica.pt/1s/1971/12/28300/18641867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/28300/18641867.pdf)
 
 Tabela de gratificações especiais
 
@@ -335,14 +364,14 @@ A gratificação a atribuir ao representante do Tribunal de Contas junto do cons
 
 O tesoureiro receberá para falhas 300$00 por mês.
 
-###### Art. 2.º É acrescentado ao Regulamento o seguinte artigo:
+Art. 2.º É acrescentado ao Regulamento o seguinte artigo:
 
-###### Art. 73.º O administrador apresentará ao Ministro da Marinha a estrutura interna dos serviços e suas atribuições, o que será aprovado por despacho do Ministro.
+Art. 73.º O administrador apresentará ao Ministro da Marinha a estrutura interna dos serviços e suas atribuições, o que será aprovado por despacho do Ministro.
 
 Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 19 de Novembro de 1971.**
+Promulgado em 19 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

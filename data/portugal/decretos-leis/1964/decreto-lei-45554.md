@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45554-1964-469638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc5b7f9a756d90b4c94a6980cd4187f07b3069da5d994523d3258d07f9fd4954
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42d3b6150680f3af5d9287de6fa65865b00730d9f88e8fad69feca629c5dca00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Estudante
+relationships:
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:55Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +98,7 @@ Considerando que é de permitir o abate ao efectivo daquele estabelecimento de e
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São abatidos ao efectivo da Academia Militar:
+Artigo 1.º São abatidos ao efectivo da Academia Militar:
 
 a) Os alunos que reprovem em dois anos escolares durante a frequência da Academia, ou três, se alguma das perdas de ano for motivada por doença resultante de desastre em serviço;
 
@@ -116,9 +122,9 @@ j) Os cadetes alunos eliminados por terem contraído matrimónio;
 
 l) Os alunos que o requeiram.
 
-###### Art. 2.º Os alunos abatidos ao efectivo da Academia Militar são obrigados a, dentro de um dos escalões de indemnização considerados no artigo 3.º, reparar o Estado de todas ou parte das despesas efectuadas com os seus estudos, alojamento, alimentação e fardamento.
+Art. 2.º Os alunos abatidos ao efectivo da Academia Militar são obrigados a, dentro de um dos escalões de indemnização considerados no artigo 3.º, reparar o Estado de todas ou parte das despesas efectuadas com os seus estudos, alojamento, alimentação e fardamento.
 
-###### Art. 3.º A reparação ao Estado pode compreender:
+Art. 3.º A reparação ao Estado pode compreender:
 
 Escalão A:
 
@@ -140,9 +146,9 @@ Escalão C:
 
 2. Indemnização do total das despesas feitas pelo Estado com o alojamento, estudos, alimentação e fardamento do aluno.
 
-###### Art. 4.º O montante da reparação ao Estado será calculado pela Academia Militar, com base no fixado no artigo 3.º, e submetido à aprovação do Ministro do Exército.
+Art. 4.º O montante da reparação ao Estado será calculado pela Academia Militar, com base no fixado no artigo 3.º, e submetido à aprovação do Ministro do Exército.
 
-###### Art. 5.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão A:
+Art. 5.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão A:
 
 a) Os alunos abatidos, a seu pedido, ao efectivo da Academia Militar durante o 1.º ano do curso;
 
@@ -152,7 +158,7 @@ c) Os alunos eliminados por incapacidade física.
 
 § único. Os alunos considerados nas alíneas b) e c) são dispensados de satisfazer a indemnização fixada no n.º 2 do escalão A.
 
-###### Art. 6.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão B:
+Art. 6.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão B:
 
 a) Os alunos abatidos ao efectivo, a seu pedido, em qualquer ano do curso que não o primeiro;
 
@@ -164,7 +170,7 @@ d) Os alunos do curso de Aeronáutica abatidos ao efectivo por, sendo já piloto
 
 § único. Em circunstâncias especiais a considerar para cada caso, poderá o Ministro do Exército atenuar o montante da indemnização fixado com base no presente artigo.
 
-###### Art. 7.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão C:
+Art. 7.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão C:
 
 a) Os alunos abatidos ao efectivo por falta de qualidades morais;
 
@@ -172,7 +178,7 @@ b) Os alunos abatidos ao efectivo por motivos disciplinares;
 
 c) Os cadetes alunos abatidos ao efectivo por terem contraído matrimónio.
 
-###### Art. 8.º Os alunos abatidos ao efectivo da Academia Militar que não tenham cumprido a obrigação normal de serviço militar cumprirão esta de acordo com a sua aptidão e preparação militar nos termos seguintes:
+Art. 8.º Os alunos abatidos ao efectivo da Academia Militar que não tenham cumprido a obrigação normal de serviço militar cumprirão esta de acordo com a sua aptidão e preparação militar nos termos seguintes:
 
 a) Os cadetes eliminados por motivos disciplinares ou de ordem moral serão aumentados ao efectivo do Exército ou da Força Aérea como soldados e, conforme os motivos ou circunstâncias particulares da sua eliminação, incorporados nas unidades activas ou nas companhias disciplinares;
 
@@ -196,15 +202,15 @@ f) Os alunos do curso de Aeronáutica abatidos por, não sendo ainda pilotos mil
 
 3. Eliminados por razões de saúde.
 
-###### Art. 9.º Os alunos abatidos ao efectivo da Academia Militar e que não satisfaçam a reparação financeira fixada nos escalões B e C serão obrigados à prestação de dois anos de serviço nas fileiras, além do tempo normal de serviço que lhes competir.
+Art. 9.º Os alunos abatidos ao efectivo da Academia Militar e que não satisfaçam a reparação financeira fixada nos escalões B e C serão obrigados à prestação de dois anos de serviço nas fileiras, além do tempo normal de serviço que lhes competir.
 
 § único. O aumento de tempo de serviço será normalmente cumprido no ultramar.
 
-###### Art. 10.º Aos alunos abatidos só poderá ser passada certidão das cadeiras da Academia Militar em que tenham obtido aproveitamento, mediante prova de que foi satisfeito o pagamento das propinas exigidas e após terem cumprido todo o tempo nas fileiras a que, nos termos do artigo 9.º, são obrigados.
+Art. 10.º Aos alunos abatidos só poderá ser passada certidão das cadeiras da Academia Militar em que tenham obtido aproveitamento, mediante prova de que foi satisfeito o pagamento das propinas exigidas e após terem cumprido todo o tempo nas fileiras a que, nos termos do artigo 9.º, são obrigados.
 
-###### Art. 11.º As disposições do presente decreto-lei aplicam-se desde já aos alunos que requeiram o seu abate à Academia Militar, ao abrigo da alínea l) do artigo 1.º, e passam a ter completa aplicação aos alunos admitidos à mesma Academia a partir do ano lectivo de 1963-1964.
+Art. 11.º As disposições do presente decreto-lei aplicam-se desde já aos alunos que requeiram o seu abate à Academia Militar, ao abrigo da alínea l) do artigo 1.º, e passam a ter completa aplicação aos alunos admitidos à mesma Academia a partir do ano lectivo de 1963-1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
 

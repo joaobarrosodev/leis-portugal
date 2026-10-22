@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 130/1976, 1º Suplemento, Série I de 1976-06-03
   number: '130'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1248-(1) a 1248-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/13001/00010001.pdf
 entry_into_force_dates: []
@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-a-1976-241428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e008dbe187d3d710b4497e44d8c69fcf784b5f1c2f3d4db5bd54693abad08209
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa42cf1261dc476d2b2f9008cac3bb13896f1eb3e716d018a84fd55975633192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Forças Armadas
+- Militar
+- Reformado
+- Reserva
+relationships:
+- type: cites
+  target: pt:dre:141220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:06Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +113,9 @@ Considerando, por outro lado, não deverem subsistir aqueles prejuízos relativa
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os oficiais e sargentos do extinto quadro privativo das forças ultramarinas com idade inferior a 70 anos que passaram à situação de reforma, nos termos da legislação anterior, serão colocados na situação de reserva desde que o requeiram e não hajam passado àquela situação compulsivamente, por motivos de ordem disciplinar.
+Artigo 1.º Os oficiais e sargentos do extinto quadro privativo das forças ultramarinas com idade inferior a 70 anos que passaram à situação de reforma, nos termos da legislação anterior, serão colocados na situação de reserva desde que o requeiram e não hajam passado àquela situação compulsivamente, por motivos de ordem disciplinar.
 
-###### Art. 2.º - 1. Os requerentes deverão fazer prova de não terem sido julgados incapazes de todo o serviço e declarar a sua intenção de continuar na efectividade de serviços:
+Art. 2.º - 1. Os requerentes deverão fazer prova de não terem sido julgados incapazes de todo o serviço e declarar a sua intenção de continuar na efectividade de serviços:
 
 a) Por um período mínimo de um ano até atingirem o actual limite de idade para a situação de reforma;
 
@@ -106,12 +123,12 @@ b) Ou pelo período de tempo que lhes falte para atingirem aquele limite de idad
 
 2. Na impossibilidade de lhes ser aplicável o disposto nas alíneas a) e b) do número anterior, deverão os requerentes comprovar que prestaram os mínimos nelas referidos durante a situação de reforma.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 3 de Junho de 1976.**
+Promulgado em 3 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

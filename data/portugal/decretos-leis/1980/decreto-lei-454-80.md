@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23400/32253244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,155 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1980-462212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50e8bf8fcb28469775dbdad8b91a8ef929f0ade854006a9d18129f3e60b5cad8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39bb5d4803f0e05a722dea352b856143b4dad216d4e5df490f618b3147fdd941
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Geral
+- Código Cooperativo
+- Conselho Fiscal
+- Cooperativa
+- Direção
 relationships:
 - type: amended_by
   target: pt:dre:241472:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457415:por
+  label: "Rectificado pela DECL.DD880.1980.10.28.PCM, DR.IS [261] de 11/Nov/1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-457415
+  date: '1980-10-28'
+- type: amended_by
+  target: pt:dre:576534:por
+  label: "Alterados os art.s 3º, 4º, 5º, 7º, 11º, 12º, 13º, 15º, 17º, 19º, 20º, 21º, 23º, 25º, 27º, 28º, 29º, 31º, 37º, 39º,\
+    \ 50º, 54º, 67º, 68º, 69º, 70º, 71º, 74º, 77º, 82º, 83º, 86º, 87º, 88º, 89º, 90º, 91º, 92º, 93º, 94º, 95º, 96º, 99º e\
+    \ 100º [ o último revoga o capítulo V do título II do Código Comercial, a al. e) do nº 1 do art. 15.º, o art. 18.º e o\
+    \ nº 2 do art. 22.º todos do Dec 42645, de 14-Nov de 1959, e o art. 18º do Dec 5219, de 08-Jan de 1919 ] bem como a epígrafe\
+    \ do capítulo VI, eliminado o art. 98º e aditado um art. 102º ao Código Cooperativo, aprovado pelo art. 1º do do presente\
+    \ diploma, pelo DEC LEI.238/81.1981.08.10.PCM, DR.IS [182]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1981-576534
+  date: '1981-08-10'
+- type: amended_by
+  target: pt:dre:600355:por
+  label: "Alterado o art. 99º do Código aprovado pelo presente diploma, na redacção dada pelo Dec Lei 238/81 de 10-Ago, pelo\
+    \ DEC LEI.45/82.1982.02.10.PCM, DR.IS [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1982-600355
+  date: '1982-02-10'
+- type: amended_by
+  target: pt:dre:676035:por
+  label: "Alterada a redacção dos art.s 1º, 3º, 4º, 5º (os três últimos na redacção do do Dec Lei 238/81, de 10-Ago), 6º,\
+    \ 7º (o último na redacção do do Dec Lei 238/81, de 10-Ago), 9º, 11º, 12º (os dois últimos na redacção do do Dec Lei 238/81,\
+    \ de 10-Ago), 14º, 15º, 17º (os dois últimos na redacção do do Dec Lei 238/81, de 10-Ago), 18º, 20º (o último na redacção\
+    \ do do Dec Lei 238/81, de 10-Ago), 22º, 27º, 28º (os dois últimos na redacção do do Dec Lei 238/81, de 10-Ago), 34º,\
+    \ 37º (o último na redacção do do Dec Lei 238/81, de 10-Ago), 38º, 39º (o último na redacção do do Dec Lei 238/81, de\
+    \ 10-Ago),40º, 41º, 42º, 43º, 44º, 46º, 48º, 49º, 50º (o último na redacção do do Dec Lei 238/81, de 10-Ago), 51º, 54º\
+    \ (o último na redacção do do Dec Lei 238/81, de 10-Ago), 59º, 60º, 72º, 73º, 81º, 82º (o último na redacção do do Dec\
+    \ Lei 238/81, de 10-Ago), 85º, 86º, 95º (os dois últimos na redacção do do Dec Lei 238/81, de 10-Ago) e 97º, e alterada\
+    \ a numeração dos art.s 99º, na redacção do Dec Lei 45/82, de 10-Fev, 100º [o último revoga o capítulo V do título II\
+    \ do Código Comercial, a al. e) do nº 1 do art. 15.º, o art. 18.º e o nº 2 do art. 22.º todos do Dec 42645, de 14-Nov\
+    \ de 1959, e o art. 18º do Dec 5219, de 08-Jan de 1919 ], 101º e 102º - os quais passam, com uma nova redacção, a ter\
+    \ o número 98º, 99º, 100º e 101º, respectivamente - do Código Cooperativo, pela LEI.1/83.1983.01.10.AR, DR.IS [7]-Supl\0\
+    pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-1983-676035
+  date: '1983-01-10'
+- type: amended_by
+  target: pt:dre:453794:por
+  label: "Alterada a redacção do art. 98º do Código aprovado pelo presente diploma pelo DEC LEI.335/83.1983.07.16.PCM, DR.IS\
+    \ [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-1983-453794
+  date: '1983-07-16'
+- type: amended_by
+  target: pt:dre:630631:por
+  label: "Prorrogado, até 31 de Dezembro de 1984, o prazo de adaptação das cooperativas de 1º grau e de grau superior ao Código\
+    \ Cooperativo, fixado pelo art. 98º, na redacção dada pelo Dec Lei 335/83 de 16-Jul, pelo DEC LEI.462/83.1983.12.31.PCM,\
+    \ DR.IS [301]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/462-1983-630631
+  date: '1983-12-31'
+- type: amended_by
+  target: pt:dre:660931:por
+  label: "Prorrogado até 31 de Dezembro de 1984, o prazo de adaptação das cooperativas de 1º grau e grau superior ao Código\
+    \ Cooperativo aprovado pelo presente diploma, na redacção dada pelo Dec Lei 335/83 de 16-Jul, pelo Dec LEI.36/84.1984.02.01.PCM,\
+    \ DR.IS [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1984-660931
+  date: '1984-02-01'
+- type: amended_by
+  target: pt:dre:396478:por
+  label: "Prorrogado até 31 de Dezembro de 1985, o prazo de adaptação das cooperativas de 1º grau e de grau superior ao Código\
+    \ Cooperativo, aprovado pelo Dec Lei 454/80 de 09-Out, fixado no art. 98º, na redacção dada pelo Dec Lei 335/83 de 16-Jul,\
+    \ pelo DEC LEI.395/84.1984.12.27.PCM, DR.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1984-396478
+  date: '1984-12-27'
+- type: amended_by
+  target: pt:dre:193611:por
+  label: "Prorrogado, até 30 de Junho de 1986, o prazo de adaptação das cooperativas de 1º grau e grau superior, ao Código\
+    \ Cooperativo, fixado pelo art. 98º, na redacção dada pelo Dec Lei 335/83 de 16-Jul, pelo DEC LEI.42/86.1986.03.06.MPAT,\
+    \ DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1986-193611
+  date: '1986-03-06'
+- type: amended_by
+  target: pt:dre:221370:por
+  label: "Alterado o art. 98º, na redacção dada pelo Dec Lei 335/83 de 16-Jul, pelo DEC LEI.399/86.1986.11.27.MPAT, DR.IS\
+    \ [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1986-221370
+  date: '1986-11-27'
+- type: amended_by
+  target: pt:dre:373417:por
+  label: "Alterados os arts. 10º, 30º e 43º do Código, pelo DEC LEI.230/88.1988.07.05.PCM, DR.IS [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1988-373417
+  date: '1988-07-05'
+- type: cites
+  target: pt:dre:207643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631796:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221517:por
+  label: "Revogados, a partir de 01.01.1987, os arts. 17º, 18º, 84º a 94º e 101º do Código, pelo DEC LEI.403/86.1986.12.03.MJ,\
+    \ DR.IS [278], sem prejuízo do disposto no nº 2 do seu art. 5º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1986-221517
+  date: '1986-12-03'
+- type: repealed_by
+  target: pt:dre:241472:por
+  label: "Revogado, a partir de 1 de Janeiro de 1997, pela LEI.51/96.1996.09.07.AR, DR.IS-A [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-1996-241472
+  date: '1996-09-07'
 article_structure:
-  article_count: 101
+  article_count: 100
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:59Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +245,7 @@ Para além de terem surgido em Portugal novas zonas de actividade cooperativa (p
 
 O quadro seguinte resume elucidativamente as alterações operadas nos últimos anos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23400/32253244.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23400/32253244.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23400/32253244.pdf)
 
 7. As profundas mudanças evidenciadas pelo desenvolvimento do cooperativismo no decurso destes últimos seis anos tiveram inegáveis reflexos nas próprias cooperativas e na sociedade portuguesa. As cooperativas, especialmente de produção operária, deram um indiscutível contributo à luta contra o desemprego, pela capacidade demonstrada na manutenção e criação de postos de trabalho; reanimaram actividades em crise, como a da produção artesanal, e desenvolveram outras de interesse para o País, de que a pesca é exemplo relevante; participaram na construção de habitações económicas destinadas às classes de menores recursos; colaboraram na luta contra a inflação e actividades especulativas, pela correcta e judiciosa distribuição de géneros através das cooperativas de consumo e distribuição; aceitaram o desafio do Mercado Comum aumentando a produção agrícola nacional e organizando unidades de segundo grau, convenientemente dimensionadas e tecnicamente equipadas; estimularam o aforro e, especialmente através das caixas de crédito agrícola mútuo, diminuíram a dependência em relação ao Estado, pela geração de fundos próprios e indispensáveis para uma progressiva autonomização do sector; desenvolveram e estreitaram as relações com as autarquias locais, inserindo-se no esforço comum com vista à melhoria da qualidade de vida e consequente fixação de populações.
 
@@ -202,17 +317,17 @@ Relativamente às cooperativas, e para evitar dúvidas que na prática se têm l
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Código Cooperativo, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código Cooperativo, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O Código Cooperativo entra em vigor em 1 de Janeiro de 1981.
+Art. 2.º O Código Cooperativo entra em vigor em 1 de Janeiro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
 
-**Promulgado em 23 de Setembro de 1980.**
+Promulgado em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1058,7 +1173,7 @@ c) O conselho fiscal, composto por três membros da assembleia geral.
 
 4 - É aplicável às federações de cooperativas, com as devidas adaptações, o disposto nos artigos 79.º a 81.º
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Confederações de cooperativas)
 
@@ -1274,4 +1389,4 @@ d) À alteração dos estatutos, se necessária.
 
 Os benefícios fiscais e financeiros das cooperativas serão objecto de legislação autónoma.
 
-**O Primeiro-Ministro, Francisco Sá Carneiro.**
+O Primeiro-Ministro, Francisco Sá Carneiro.

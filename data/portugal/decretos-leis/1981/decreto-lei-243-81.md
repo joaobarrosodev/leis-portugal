@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1981-575898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4cf01b378b6db556c35799866a2a4745d0964b44471e4e03942d09a8995a176
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cd222b92ed615f0da78bf996c4f45f2405d10e7f246df587c9b257e50f5f12c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:298638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412181:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:16Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +101,13 @@ Considerando que para as funções específicas atribuídas a capitães e subalt
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os oficiais do quadro do serviço de material distribuem-se como se segue:
+Artigo 1.º Os oficiais do quadro do serviço de material distribuem-se como se segue:
 
 a) Material;
 
 b) Serviços técnicos de manutenção de material.
 
-###### Art. 2.º - 1 - A distribuição dos oficiais dentro do quadro do serviço de material é a seguinte:
+Art. 2.º - 1 - A distribuição dos oficiais dentro do quadro do serviço de material é a seguinte:
 
 a) Oficiais de material:
 
@@ -125,16 +135,16 @@ Subalternos ... 102
 
 3 - O quadro dos serviços técnicos de manutenção de material engloba os oficiais referidos na alínea b) do artigo 2.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956, e os que vierem a ingressar oriundos do Instituto Superior Militar.
 
-###### Art. 3.º - 1 - Os oficiais do serviço de material devem estar habilitados à resolução dos assuntos de carácter técnico relativos ao reabastecimento e manutenção, compreendidos nas actividades do serviço.
+Art. 3.º - 1 - Os oficiais do serviço de material devem estar habilitados à resolução dos assuntos de carácter técnico relativos ao reabastecimento e manutenção, compreendidos nas actividades do serviço.
 
 2 - Os oficiais de material poderão ainda complementarmente, de acordo com as necessidades do serviço, adquirir habilitações para a resolução dos problemas relativos à investigação, desenvolvimento, ensaio e fabrico, compreendidos nas suas especificações.
 
-###### Art. 4.º São revogados os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956, e o [Decreto-Lei n.º 129/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1974-412181), de 2 de Abril.
+Art. 4.º São revogados os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956, e o [Decreto-Lei n.º 129/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1974-412181), de 2 de Abril.
 
 Visto e aprovado em Conselho da Revolução em 5 de Agosto de 1981.
 
-**Promulgado em 11 de Agosto de 1981.**
+Promulgado em 11 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

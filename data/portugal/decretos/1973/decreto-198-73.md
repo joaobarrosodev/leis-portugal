@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/10400/06800682.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/198-1973-422013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb0993f095b3baa5a5d422b1b5c3b9e7674331bcb7af1c7784bc2bd6d24835cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60fd717c0bff7eca2b8eb12534ba5ad3d07166ef7b4c8f65f410f6ac21a919b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Registos e do Notariado
+- Orgânica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:524225:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152365:por
+  label: "Revogados os arts. 10º a 20º, pelo DEC LEI.145/85.1985.05.08.MJ, DR.IS [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1985-152365
+  date: '1985-05-08'
+- type: repealed_by
+  target: pt:dre:524225:por
+  label: "Revogado pelo DEC LEI.40/94.1994.02.11.MJ, DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1994-524225
+  date: '1994-02-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:12Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +114,9 @@ REGULAMENTO DA DIRECÇÃO-GERAL DOS REGISTOS E DO NOTARIADO
 
 #### SECÇÃO I — Disposições preliminares
 
-###### Artigo 1.º A Direcção-Geral dos Registos e do Notariado tem por atribuições orientar os serviços dos registos civil, predial, comercial e de propriedade automóvel, os serviços do notariado e de identificação, superintender na sua organização e funcionamento, e ainda efectuar os estudos relativos ao aperfeiçoamento dos mesmos serviços.
+Artigo 1.º A Direcção-Geral dos Registos e do Notariado tem por atribuições orientar os serviços dos registos civil, predial, comercial e de propriedade automóvel, os serviços do notariado e de identificação, superintender na sua organização e funcionamento, e ainda efectuar os estudos relativos ao aperfeiçoamento dos mesmos serviços.
 
-###### Art. 2.º Para o exercício das suas atribuições compete especialmente à Direcção-Geral:
+Art. 2.º Para o exercício das suas atribuições compete especialmente à Direcção-Geral:
 
 a) Providenciar sobre a organização dos serviços dos registos e do notariado, para o efeito de, mediante portaria, se proceder à criação, anexação ou extinção e classificação de lugares de conservador e notário, à delimitação da respectiva competência territorial, à criação de secretarias notariais e ainda à alteração da composição dos quadros do pessoal auxiliar;
 
@@ -112,15 +130,15 @@ e) Ocupar-se da gestão do pessoal dos serviços externos;
 
 f) Informar sobre a instalação e equipamento dos serviços.
 
-###### Art. 3.º A Direcção-Geral compreende serviços centrais e serviços externos.
+Art. 3.º A Direcção-Geral compreende serviços centrais e serviços externos.
 
-###### Art. 4.º - 1. Os serviços externos compreendem a Conservatória dos Registos Centrais, os serviços dos registos civil, predial, comercial e de propriedade automóvel e os serviços do notariado e de identificação.
+Art. 4.º - 1. Os serviços externos compreendem a Conservatória dos Registos Centrais, os serviços dos registos civil, predial, comercial e de propriedade automóvel e os serviços do notariado e de identificação.
 
 2. Os serviços externos são objecto de regulamento próprio.
 
 #### SECÇÃO II — Serviços centrais
 
-###### Art. 5.º - 1. Os serviços centrais abrangem:
+Art. 5.º - 1. Os serviços centrais abrangem:
 
 a) Os serviços técnicos;
 
@@ -130,7 +148,7 @@ c) Os serviços de administração.
 
 2. Junto dos serviços centrais funciona o conselho técnico.
 
-###### Art. 6.º Aos serviços técnicos compete em especial:
+Art. 6.º Aos serviços técnicos compete em especial:
 
 a) Elaborar pareceres técnicos sobre matérias de registo, de notariado e de identificação ou relativos à organização, funcionamento e divisão territorial dos respectivos serviços;
 
@@ -138,13 +156,13 @@ b) Proceder ao estudo das consultas formuladas pelos conservadores, notários e 
 
 c) Organizar a estatística anual dos actos do registo, do notariado e de identificação.
 
-###### Art. 7.º - 1. Aos serviços de inspecção compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
+Art. 7.º - 1. Aos serviços de inspecção compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
 
 2. Para efeitos do disposto no número anterior deverão realizar-se inspecções, tanto quanto possível, de três em três anos, bem como os inquéritos, sindicâncias e processos disciplinares que se mostrem necessários.
 
-###### Art. 8.º Aos serviços de administração compete dar execução a todo o serviço de expediente geral, contabilidade e arquivo, bem como ao expediente relativo à gestão do pessoal dos serviços externos.
+Art. 8.º Aos serviços de administração compete dar execução a todo o serviço de expediente geral, contabilidade e arquivo, bem como ao expediente relativo à gestão do pessoal dos serviços externos.
 
-###### Art. 9.º Compete especialmente ao conselho técnico:
+Art. 9.º Compete especialmente ao conselho técnico:
 
 a) Proceder aos estudos sobre questões de ordem técnica dos serviços dos registos, do notariado e de identificação, incluindo os relativos à orientação e funcionamento dos mesmos serviços;
 
@@ -156,7 +174,7 @@ d) Proceder à graduação periódica dos conservadores e notários, segundo a s
 
 e) Emitir parecer sobre reclamações dos conservadores e notários contra as respectivas listas de antiguidade.
 
-###### Art. 10.º - 1. O conselho técnico é constituído pelas seguintes secções:
+Art. 10.º - 1. O conselho técnico é constituído pelas seguintes secções:
 
 a) Secção de registo civil e identificação;
 
@@ -170,11 +188,11 @@ c) Secção de notariado.
 
 4. Um dos secretários dos serviços de inspecção exercerá cumulativamente as funções de secretário do conselho técnico.
 
-###### Art. 11.º - 1. O conselho técnico reúne, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o presidente o convoque.
+Art. 11.º - 1. O conselho técnico reúne, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o presidente o convoque.
 
 2. As reuniões podem ser em sessão plenária ou por secções, consoante a natureza dos processos a apreciar.
 
-###### Art. 12.º - 1. Os processos que devam ser submetidos à apreciação do conselho técnico serão distribuídos entre os vogais para se designar relator.
+Art. 12.º - 1. Os processos que devam ser submetidos à apreciação do conselho técnico serão distribuídos entre os vogais para se designar relator.
 
 2. Feita a distribuição, o processo será imediatamente remetido aos vistos, primeiro do vogal relator, depois dos restantes vogais da respectiva secção e, finalmente, do presidente.
 
@@ -182,7 +200,7 @@ c) Secção de notariado.
 
 4. Decorrido o prazo dos vistos, o processo é apresentado para deliberação à primeira sessão do conselho técnico.
 
-###### Art. 13.º - 1. As deliberações do conselho técnico são tomadas por maioria de votos, competindo ao presidente voto de qualidade.
+Art. 13.º - 1. As deliberações do conselho técnico são tomadas por maioria de votos, competindo ao presidente voto de qualidade.
 
 2. Nas decisões dos processos de inspecção não é permitido consignar qualquer declaração de voto de vencido.
 
@@ -190,7 +208,7 @@ c) Secção de notariado.
 
 4. De cada sessão do conselho será lavrada acta.
 
-###### Art. 14.º - 1. Os funcionários inspeccionados serão classificados com as notas de Muito bom, Bom com distinção, Bom, Regular, Medíocre ou Mau.
+Art. 14.º - 1. Os funcionários inspeccionados serão classificados com as notas de Muito bom, Bom com distinção, Bom, Regular, Medíocre ou Mau.
 
 2. A nota de Muito bom não pode ser atribuída a funcionários com menos de três anos de serviço inspeccionado, nem aos que há menos de três anos tenham tido classificação inferior à de Bom.
 
@@ -198,15 +216,15 @@ c) Secção de notariado.
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 15.º - 1. Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
+Art. 15.º - 1. Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
 
 2. O director-geral será substituído, nas suas faltas ou impedimentos, pelo inspector superior que dirigir os serviços técnicos, ou, na falta ou impedimento deste, pelo inspector superior que dirigir os serviços de inspecção, e, na falta ou impedimento de ambos, pelo seu adjunto.
 
-###### Art. 16.º - 1. Ao inspector superior adstrito aos serviços técnicos compete dirigir os serviços técnicos e coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados.
+Art. 16.º - 1. Ao inspector superior adstrito aos serviços técnicos compete dirigir os serviços técnicos e coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados.
 
 2. Nas suas faltas ou impedimentos, o inspector superior será substituído pelo funcionário designado pelo director-geral.
 
-###### Art. 17.º - 1. Ao inspector superior adstrito aos serviços de inspecção compete:
+Art. 17.º - 1. Ao inspector superior adstrito aos serviços de inspecção compete:
 
 a) Dirigir os serviços de inspecção e realizar as inspecções, inquéritos e sindicâncias de que for incumbido;
 
@@ -216,22 +234,22 @@ c) Superintender em tudo o que respeite a relações do público com os serviço
 
 2. Nas suas faltas ou impedimentos, o inspector superior será substituído pelo funcionário designado pelo director-geral.
 
-###### Art. 18.º - 1. Ao adjunto do director-geral compete dirigir os serviços de administração e coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados.
+Art. 18.º - 1. Ao adjunto do director-geral compete dirigir os serviços de administração e coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados.
 
 2. Nas suas faltas ou impedimentos, o adjunto será substituído pelo funcionário designado pelo director-geral.
 
-###### Art. 19.º - 1. Aos inspectores compete exercer as funções próprias do serviço de inspecção.
+Art. 19.º - 1. Aos inspectores compete exercer as funções próprias do serviço de inspecção.
 
 2. Por conveniência de serviço, pode o Ministro da Justiça encarregar magistrados e outros funcionários do Ministério de proceder a inspecções, inquéritos e sindicâncias ou de instruir processos disciplinares.
 
 3. Ao pagamento das ajudas de custo e despesas de transporte devidos aos encarregados dos serviços referidos no número anterior é aplicável o disposto no artigo 48.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961.
 
-###### Art. 20.º Aos secretários da inspecção compete organizar os processos instaurados pelos serviços de inspecção e dar execução ao respectivo expediente.
+Art. 20.º Aos secretários da inspecção compete organizar os processos instaurados pelos serviços de inspecção e dar execução ao respectivo expediente.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 14 de Abril de 1973.**
+Promulgado em 14 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

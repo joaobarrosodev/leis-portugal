@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/20000/21432145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1979-370045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c570d9619061d502633b2fd6f722ae60875a2d6ca0d5bfea7cfdb2fbeaa24f71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a0f17bbd95916c07a0524bb1656437e0d20f280f5274ad15f32c7a02c9a0fdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque Natural de Montesinho
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:479666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479666:por
+  label: "Revogado, nos termos do num 1 do art 32º do Dec Lei 19/93 de 23-Jan, pelo DR 5-A/97.1997.04.04.MAM, DR.IS-B [79]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-a-1997-479666
+  date: '1997-04-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:16Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +118,9 @@ Considerando as potencialidades de recreio e desporto ao ar livre que aquela reg
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Parque Natural de Montezinho.
+Artigo 1.º É criado o Parque Natural de Montezinho.
 
-###### Art. 2.º - 1 - A área do Parque Natural de Montezinho, englobando as serras de Montezinho e Coroa e terrenos adjacentes, é definida pelos limites provisórios cartografados no mapa, à escala 1:400000, anexo ao presente diploma e que são os seguintes:
+Art. 2.º - 1 - A área do Parque Natural de Montezinho, englobando as serras de Montezinho e Coroa e terrenos adjacentes, é definida pelos limites provisórios cartografados no mapa, à escala 1:400000, anexo ao presente diploma e que são os seguintes:
 
 1.1 - A norte, pela fronteira de Portugal-Espanha.
 
@@ -152,9 +168,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 2 - Qualquer dúvidas levantadas pela leitura do mapa a escala 1:400000 anexo ao presente decreto-lei serão resolvidas pelos limites registados em mapa à escala 1:25000 existente no Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 3.º O Parque Natural visa fundamentalmente, dentro dos limites da sua área, a protecção dos aspectos naturais existentes, a defesa do património arquitectónico e cultural e a renovação da economia local o desenvolvimento das actividades artesanais, bem como a promoção de repouso e de recreio ao ar livre.
+Art. 3.º O Parque Natural visa fundamentalmente, dentro dos limites da sua área, a protecção dos aspectos naturais existentes, a defesa do património arquitectónico e cultural e a renovação da economia local o desenvolvimento das actividades artesanais, bem como a promoção de repouso e de recreio ao ar livre.
 
-###### Art. 4.º Até à entrada em funcionamento das estruturas definitivas do Parque Natural, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, aquele será orientado por uma comissão instaladora, a criar por despacho do Secretário de Estado do Ordenamento Físico Recursos Hídricos e Ambiente, presidida pelo representante do Serviço Nacional de Parques, Reservas e Património Paisagístico, coadjuvado por um representante de cada uma das seguintes Direcções:
+Art. 4.º Até à entrada em funcionamento das estruturas definitivas do Parque Natural, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, aquele será orientado por uma comissão instaladora, a criar por despacho do Secretário de Estado do Ordenamento Físico Recursos Hídricos e Ambiente, presidida pelo representante do Serviço Nacional de Parques, Reservas e Património Paisagístico, coadjuvado por um representante de cada uma das seguintes Direcções:
 
 Direcção-Geral do Ordenamento e Gestão Florestal;
 
@@ -166,13 +182,13 @@ Direcção Regional de Agricultura de Trás-os-Montes;
 
 e de que farão parte representantes designados pelas seguintes entidades: Câmara Municipal de Bragança, Câmara Municipal de Vinhais, Juntas de Freguesia de Quintanilha, Deilão, S. João de Palácios, Babe, Rio de Onor, Gimonde, Aveleda, Baçal, Alfaião, França, Rabal, Meixedo, Carragosa, Donai, Gondosende Espinhosela Parâmio, Castrelos e Castro de Avelãs (concelho de Bragança), Juntas de Freguesia de Mofreita, Santa Cruz, Fresulfe, Soeira, Paçó, Moimenta, Montouro, Travanca, Vilar de Ossos, Vila Verde, Tuizelo, Santalha, Pinheiro Novo, Sobreiro de Baixo, Quirás e Vilar Seco da Lomba (concelho de Vinhais) e Comissão Regional de Turismo de Bragança.
 
-###### Art. 5 - 1 - O ordenamento preliminar, equipamento e regulamento do Parque Natural de Montezinho são estudados pelo Serviço Nacional de Parques, Reservas e Património Paisagístico, no prazo de um ano a partir da publicação do presente diploma, sendo coadjuvado durante a sua execução pela comissão instaladora, que os aprovará, quando concluídos, antes de serem submetidos à aprovação superior.
+Art. 5 - 1 - O ordenamento preliminar, equipamento e regulamento do Parque Natural de Montezinho são estudados pelo Serviço Nacional de Parques, Reservas e Património Paisagístico, no prazo de um ano a partir da publicação do presente diploma, sendo coadjuvado durante a sua execução pela comissão instaladora, que os aprovará, quando concluídos, antes de serem submetidos à aprovação superior.
 
 2 - O prazo poderá vir a ser prorrogado, se necessário no máximo de um ano, por simples despacho do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
 3 - A execução dos planos sectoriais aprovados as referidas áreas será da responsabilidade dos serviços ou entidades com competência para a gestão directa daquelas áreas, atendendo ao espírito que preside à criação do Parque Natural.
 
-###### Art. 6.º - 1 - Dentro dos limites do Parque Natural de Montezinho (excluindo os perímetros urbanos dos aglomerados), ficam sujeitas a autorização da comissão instaladora:
+Art. 6.º - 1 - Dentro dos limites do Parque Natural de Montezinho (excluindo os perímetros urbanos dos aglomerados), ficam sujeitas a autorização da comissão instaladora:
 
 a) Construção, reconstrução, ampliação ou demolição de edifícios e outras construções de qualquer natureza;
 
@@ -190,26 +206,26 @@ g) Captação e desvio de águas.
 
 2 - A autorização a que se refere o número anterior não dispensa quaisquer outros condicionamentos legalmente exigidos.
 
-###### Art. 7.º - 1 - A administração das áreas com jurisdição própria, no que se refere à actividade sectorial respectiva, será exercida pelas autoridades a que estiverem atribuídas, sem prejuízo de competência, devendo atender, no entanto, ao regulamento e ordenamento que venham a ser aprovados para o Parque Natural.
+Art. 7.º - 1 - A administração das áreas com jurisdição própria, no que se refere à actividade sectorial respectiva, será exercida pelas autoridades a que estiverem atribuídas, sem prejuízo de competência, devendo atender, no entanto, ao regulamento e ordenamento que venham a ser aprovados para o Parque Natural.
 
 2 - A caça será regulamentada pelos serviços competentes, atendendo ao espírito que preside à criação do Parque Natural.
 
-###### Art. 8.º É aplicável às obras e trabalhos efectuados com inobservância do preceituado neste diploma o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (Lei dos Solos).
+Art. 8.º É aplicável às obras e trabalhos efectuados com inobservância do preceituado neste diploma o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (Lei dos Solos).
 
-###### Art. 9 - 1 - As funções de policiamento e fiscalização competem aos funcionários do Serviço Nacional de Parques, Reservas e Património Paisagístico, câmaras municipais, Guarda Nacional Republicana, Polícia Florestal, Guarda Fiscal, guarda-rios e demais entidades com jurisdição nos respectivos campos de acção.
+Art. 9 - 1 - As funções de policiamento e fiscalização competem aos funcionários do Serviço Nacional de Parques, Reservas e Património Paisagístico, câmaras municipais, Guarda Nacional Republicana, Polícia Florestal, Guarda Fiscal, guarda-rios e demais entidades com jurisdição nos respectivos campos de acção.
 
 2 - Os respectivos autos de notícia por infracção ao disposto no presente decreto são levantados e processados nos termos dos artigos 160.º e 167.º do Código de Processo Penal, sem prejuízo de outras disposições legais aplicáveis.
 
-###### Art. 10.º As despesas emergentes da execução do presente diploma serão suportadas pelas dotações adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
+Art. 10.º As despesas emergentes da execução do presente diploma serão suportadas pelas dotações adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 11.º As dúvidas resultantes da interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
+Art. 11.º As dúvidas resultantes da interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
 Visto e aprovado em Conselho de Ministros, 31 de Maio de 1979. - Carlos Alberto da Mota Pinto - João Orlindo Almeida Pina.
 
-**Promulgado em 26 de Julho de 1979.**
+Promulgado em 26 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/20000/21432145.pdf))](https://files.diariodarepublica.pt/1s/1979/08/20000/21432145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/20000/21432145.pdf)

@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1977-252799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37b9b1e4af82e5683656fc41ad4290ee08280f6736bf741b17b21dd62b9e1d3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96c935e4a76983636c1757f1861788b6d20086b62e2069fd0b860f52a9d5a494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Formas de Provimento
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Reforma Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:231161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:08Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +120,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os mapas anexos à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na sua redacção actual, são alterados de conformidade com o mapa junto ao presente diploma.
+Artigo 1.º Os mapas anexos à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na sua redacção actual, são alterados de conformidade com o mapa junto ao presente diploma.
 
-###### Art. 2.º O primeiro provimento nos lugares constantes do mapa referido no artigo anterior será feito directamente para qualquer das categorias, de acordo com normas a aprovar pelo Ministro das Finanças, tendo em atenção as habilitações literárias legalmente exigidas à data da entrada no respectivo quadro, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 2.º O primeiro provimento nos lugares constantes do mapa referido no artigo anterior será feito directamente para qualquer das categorias, de acordo com normas a aprovar pelo Ministro das Finanças, tendo em atenção as habilitações literárias legalmente exigidas à data da entrada no respectivo quadro, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 3.º A actual categoria de reverificador-chefe é extinta, sendo substituída, para todos os efeitos legais, pela de reverificador.
+Art. 3.º A actual categoria de reverificador-chefe é extinta, sendo substituída, para todos os efeitos legais, pela de reverificador.
 
-###### Art. 4.º - 1. São extintas as categorias de assalariado do sexo masculino não especializado e de assalariado do sexo feminino constantes do mapa IX anexo à Reforma Aduaneira.
+Art. 4.º - 1. São extintas as categorias de assalariado do sexo masculino não especializado e de assalariado do sexo feminino constantes do mapa IX anexo à Reforma Aduaneira.
 
 2. É extinta a categoria de assalariado especializado do quadro do tráfego, sendo os actuais titulares integrados na categoria de fiel de balança de 2.ª classe.
 
 3. Em derrogação do disposto no número anterior, os assalariados especializados que presentemente vencem pela letra P serão integrados em fiéis de balança de 1.ª classe.
 
-###### Art. 5.º O corpo do artigo 241.º e o n.º 2 do § 2.º do artigo 262.º da Reforma Aduaneira passam a ter a seguinte redacção:
+Art. 5.º O corpo do artigo 241.º e o n.º 2 do § 2.º do artigo 262.º da Reforma Aduaneira passam a ter a seguinte redacção:
 
-###### Art. 241.º Os lugares de fiel de tesoureiro serão desempenhados por funcionários do quadro administrativo, propostos pelo tesoureiro, de entre os distribuídos à respectiva alfândega, mediante aprovação do director-geral e nomeação do Ministro das Finanças.
+Art. 241.º Os lugares de fiel de tesoureiro serão desempenhados por funcionários do quadro administrativo, propostos pelo tesoureiro, de entre os distribuídos à respectiva alfândega, mediante aprovação do director-geral e nomeação do Ministro das Finanças.
 
-###### Art. 262.º ...
+Art. 262.º ...
 
 § 1.º ...
 
@@ -125,26 +146,26 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2. Curso geral dos liceus ou equiparado.
 
-###### Art. 6.º - 1. As participações emolumentares dos funcionários, constantes do mapa a que se refere o artigo 1.º do presente diploma, serão niveladas pelas percentagens praticadas nos restantes serviços e organismos do Ministério das Finanças, tendo em conta o congelamento estabelecido pelo [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
+Art. 6.º - 1. As participações emolumentares dos funcionários, constantes do mapa a que se refere o artigo 1.º do presente diploma, serão niveladas pelas percentagens praticadas nos restantes serviços e organismos do Ministério das Finanças, tendo em conta o congelamento estabelecido pelo [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
 
 2. Serão mantidos os actuais níveis globais de remuneração se, pela aplicação do disposto no número anterior, se verificar diminuição dos mesmos, sendo a diferença absorvida com as futuras alterações da Tabela Salarial da Função Pública.
 
-###### Art. 7.º Os funcionários que excederem os números fixados para cada categoria no mapa referido no artigo 1.º do presente diploma poderão ser abonados pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal dos quadros aduaneiros e, na sua falta, pela que for inscrita para o efeito.
+Art. 7.º Os funcionários que excederem os números fixados para cada categoria no mapa referido no artigo 1.º do presente diploma poderão ser abonados pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal dos quadros aduaneiros e, na sua falta, pela que for inscrita para o efeito.
 
-###### Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 15 de Maio de 1977.**
+Promulgado em 15 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa dos quadros do pessoal aduaneiro
 
 I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/12100/12131214.pdf))](https://files.diariodarepublica.pt/1s/1977/05/12100/12131214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12100/12131214.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

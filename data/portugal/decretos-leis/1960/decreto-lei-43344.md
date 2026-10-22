@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8fc0b586edd6ad9fdb5d5641f4d40ed4085938b36814d551e2033a56b44c226
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c70c511751b2b51ce7d4f43c26ac509c3ee453fcd5dbfee63a2f5415b21595e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:536407:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:536407:por
+  label: "Dada nova redacção ao nº 3º do art. 16º pelo DEC LEI.46030.13.11.1964.MNE, DG.IS [267] de 13.11.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46030-1964-536407
+  date: '1964-11-13'
+- type: cites
+  target: pt:dre:149175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568726:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:163631:por
+  label: "Revogados os arts. 11º e 12º pelo DEC LEI.44526.21.08.1962.MNE, DG.IS [191] de 21.08.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44526-1962-163631
+  date: '1962-08-21'
+- type: repealed_by
+  target: pt:dre:194867:por
+  label: "Revogado o art. 13º pelo DEC LEI.44970.10.04.1963.MNE, DG.IS [85] de 10.04.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44970-1963-194867
+  date: '1963-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:34Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +122,11 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O serviço do arquivo e biblioteca a que se refere o § 2.º do artigo 2.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938) será dirigido por um primeiro-bibliotecário-arquivista, livremente contratado pelo Ministro dos Negócios Estrangeiros de entre diplomados com o respectivo curso de reconhecida competência para o exercício das suas funções.
+Artigo 1.º O serviço do arquivo e biblioteca a que se refere o § 2.º do artigo 2.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938) será dirigido por um primeiro-bibliotecário-arquivista, livremente contratado pelo Ministro dos Negócios Estrangeiros de entre diplomados com o respectivo curso de reconhecida competência para o exercício das suas funções.
 
 § único. Este lugar é aumentado ao quadro do pessoal adjunto da Secretaria de Estado.
 
-###### Art. 2.º Competem aos serviços do arquivo e biblioteca, além das atribuições expressamente indicadas na lei orgânica e no regulamento do Ministério dos Negócios Estrangeiros, mais as seguintes:
+Art. 2.º Competem aos serviços do arquivo e biblioteca, além das atribuições expressamente indicadas na lei orgânica e no regulamento do Ministério dos Negócios Estrangeiros, mais as seguintes:
 
 1.º Proceder à reorganização das colecções manuscritas e impressas do arquivo e biblioteca, arrumando-as, classificando-as e catalogando-as de harmonia com os modernos princípios da arquivologia e bibliotecnia;
 
@@ -104,7 +138,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5.º Fornecer aos arquivistas das diferentes repartições e serviços do Ministério indicações técnicas sobre a forma como deverão executar os trabalhos a seu cargo.
 
-###### Art. 3.º Além do primeiro-bibliotecário-arquivista, fica adstrito ao mesmo serviço o seguinte pessoal:
+Art. 3.º Além do primeiro-bibliotecário-arquivista, fica adstrito ao mesmo serviço o seguinte pessoal:
 
 ... Grupo de vencimento
 
@@ -120,7 +154,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º No novo lugar de fiel, a prever no futuro ao abrigo das disposições do artigo 81.º do regulamento do Ministério, poderá ser colocado, independentemente de quaisquer formalidades, o actual servidor que desempenha as funções de fiel do arquivo, lugar que se extingue no quadro do pessoal menor.
 
-###### Art. 4.º São extintos logo que vaguem os lugares de consultor ultramarino e consultor económico e criados, junto do Gabinete do Ministro, os lugares de director dos serviços dos organismos económicos internacionais, director dos serviços políticos do ultramar e director dos serviços de relações públicas.
+Art. 4.º São extintos logo que vaguem os lugares de consultor ultramarino e consultor económico e criados, junto do Gabinete do Ministro, os lugares de director dos serviços dos organismos económicos internacionais, director dos serviços políticos do ultramar e director dos serviços de relações públicas.
 
 § 1.º O lugar de chefe dos serviços de imprensa será extinto logo que vague.
 
@@ -132,33 +166,33 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º Quando estas nomeações recaiam em funcionários do Ministério, não carecem de confirmação, sendo consideradas definitivas desde a data da posse do cargo e ficando, neste caso, acrescido o número de ministros plenipotenciários de 2.ª classe previsto no quadro.
 
-###### Art. 5.º Quando as nomeações efectuadas nos termos do n.º 8 do artigo 7.º da lei orgânica recaiam em funcionários do Ministério, não carecem de confirmação, sendo consideradas definitivas desde a data da posse do cargo.
+Art. 5.º Quando as nomeações efectuadas nos termos do n.º 8 do artigo 7.º da lei orgânica recaiam em funcionários do Ministério, não carecem de confirmação, sendo consideradas definitivas desde a data da posse do cargo.
 
-###### Art. 6.º O conselho do Ministério será composto pelo secretário-geral, que será o presidente, pelos directores-gerais e os directores dos serviços dos organismos económicos internacionais e dos serviços políticos do ultramar, referidos no artigo 4.º deste decreto-lei, e terá como secretário, sem voto, o chefe da Repartição dos Serviços Administrativos.
+Art. 6.º O conselho do Ministério será composto pelo secretário-geral, que será o presidente, pelos directores-gerais e os directores dos serviços dos organismos económicos internacionais e dos serviços políticos do ultramar, referidos no artigo 4.º deste decreto-lei, e terá como secretário, sem voto, o chefe da Repartição dos Serviços Administrativos.
 
-###### Art. 7.º Para efeitos de estágio, será contado na Secretaria de Estado o serviço prestado no Gabinete do Ministro.
+Art. 7.º Para efeitos de estágio, será contado na Secretaria de Estado o serviço prestado no Gabinete do Ministro.
 
-###### Art. 8.º Aos directores dos serviços referidos no artigo 4.º, bem como ao ministro plenipotenciário de 2.ª classe especialmente encarregado de inspeccionar os consulados a que se refere o regulamento do Ministério, são aplicáveis as disposições do artigo 112.º do mesmo regulamento.
+Art. 8.º Aos directores dos serviços referidos no artigo 4.º, bem como ao ministro plenipotenciário de 2.ª classe especialmente encarregado de inspeccionar os consulados a que se refere o regulamento do Ministério, são aplicáveis as disposições do artigo 112.º do mesmo regulamento.
 
-###### Art. 9.º O Ministro poderá, quando a urgência do recrutamento do pessoal o imponha, fixar a classificação final que os concorrentes habilitados com qualquer dos cursos indicados no artigo 72.º do regulamento do Ministério devem ter obtido para serem dispensados das provas do concurso de admissão.
+Art. 9.º O Ministro poderá, quando a urgência do recrutamento do pessoal o imponha, fixar a classificação final que os concorrentes habilitados com qualquer dos cursos indicados no artigo 72.º do regulamento do Ministério devem ter obtido para serem dispensados das provas do concurso de admissão.
 
 § 1.º Exceptuam-se do disposto neste artigo as provas referidas nos n.os 1.º e 2.º do artigo 8.º do [Decreto n.º 29511](https://diariodarepublica.pt/dr/detalhe/decreto/29511-1939-568726), de 31 de Março de 1939, que serão obrigatórias para todos os concorrentes.
 
 § 2.º O júri que apreciará as provas referidas no § 1.º deste artigo será composto por três funcionários do Ministério designados por despacho do Ministro.
 
-###### Art. 10.º É reduzido a 90 dias antes do início das provas do concurso o prazo estabelecida no § único do artigo 6.º do [Decreto n.º 29511](https://diariodarepublica.pt/dr/detalhe/decreto/29511-1939-568726), de 31 de Março de 1939.
+Art. 10.º É reduzido a 90 dias antes do início das provas do concurso o prazo estabelecida no § único do artigo 6.º do [Decreto n.º 29511](https://diariodarepublica.pt/dr/detalhe/decreto/29511-1939-568726), de 31 de Março de 1939.
 
-###### Art. 11.º O júri do concurso de promoção a conselheiros de legação e cônsules gerais será constituído pelo Ministro ou por um embaixador por ele designado, que presidirá em sua representação, e por quatro funcionários do Ministério, de categoria igual ou superior a ministro plenipotenciário de 2.ª classe.
+Art. 11.º O júri do concurso de promoção a conselheiros de legação e cônsules gerais será constituído pelo Ministro ou por um embaixador por ele designado, que presidirá em sua representação, e por quatro funcionários do Ministério, de categoria igual ou superior a ministro plenipotenciário de 2.ª classe.
 
-###### Art. 12.º A apreciação oral, referida no n.º 3.º do [Decreto n.º 36001](https://diariodarepublica.pt/dr/detalhe/decreto/36001-1946-149175), de 29 de Novembro de 1946, das monografias e das conclusões das provas escritas dos concorrentes será feita metade do tempo em português e outra metade em francês ou inglês, à escolha do candidato.
+Art. 12.º A apreciação oral, referida no n.º 3.º do [Decreto n.º 36001](https://diariodarepublica.pt/dr/detalhe/decreto/36001-1946-149175), de 29 de Novembro de 1946, das monografias e das conclusões das provas escritas dos concorrentes será feita metade do tempo em português e outra metade em francês ou inglês, à escolha do candidato.
 
-###### Art. 13.º Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea d) do artigo 76.º do regulamento do Ministério, pode o Ministro nomear para essas vagas os conselheiros de legação ou cônsules gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e se encontrem exercendo as funções correspondentes ao estágio que lhes falte completar.
+Art. 13.º Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea d) do artigo 76.º do regulamento do Ministério, pode o Ministro nomear para essas vagas os conselheiros de legação ou cônsules gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e se encontrem exercendo as funções correspondentes ao estágio que lhes falte completar.
 
-###### Art. 14.º As licenças registadas serão contadas desde a data em que o funcionário deixar de prestar serviço no seu respectivo posto.
+Art. 14.º As licenças registadas serão contadas desde a data em que o funcionário deixar de prestar serviço no seu respectivo posto.
 
-###### Art. 15.º Os primeiros-secretários de embaixada, bem como os adidos comerciais, de imprensa e ultramarinos, colocados no quadro externo, que tenham mais de cinco anos de bom e efectivo serviço na respectiva categoria, podem ser autorizados, por despacho do Ministro, a usar o título de conselheiros.
+Art. 15.º Os primeiros-secretários de embaixada, bem como os adidos comerciais, de imprensa e ultramarinos, colocados no quadro externo, que tenham mais de cinco anos de bom e efectivo serviço na respectiva categoria, podem ser autorizados, por despacho do Ministro, a usar o título de conselheiros.
 
-###### Art. 16.º Na antiguidade e para efeitos de aposentação conta-se o tempo de serviço com os seguintes aumentos:
+Art. 16.º Na antiguidade e para efeitos de aposentação conta-se o tempo de serviço com os seguintes aumentos:
 
 1.º 20 por cento em Adem, Adis Abeba, Baçorá, Bagdade, Banguecoque, Bombaim, Brazzaville, Colombo, Jacatra, Elizabethville, Karachi, Lagos, Léopoldville, Manaus e Nova Deli;
 
@@ -172,16 +206,16 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º A percentagem contada no n.º 4.º não é acumulável com as dos n.os 1.º a 3.º, mas prevalece sobre elas.
 
-###### Art. 17.º O número de ministros plenipotenciários de 1.ª classe do quadro externo é aumentado em quatro unidades, o de ministros plenipotenciários de 2.ª classe do quadro externo em quatro unidades, o de ministros plenipotenciários de 2.ª classe no quadro da Secretaria de Estado em duas unidades e os de conselheiros e primeiros-secretários do quadro externo, respectivamente, em quatro e cinco unidades. É aumentado um lugar de chefe de secção no quadro do pessoal burocrático privativo da Secretaria de Estado.
+Art. 17.º O número de ministros plenipotenciários de 1.ª classe do quadro externo é aumentado em quatro unidades, o de ministros plenipotenciários de 2.ª classe do quadro externo em quatro unidades, o de ministros plenipotenciários de 2.ª classe no quadro da Secretaria de Estado em duas unidades e os de conselheiros e primeiros-secretários do quadro externo, respectivamente, em quatro e cinco unidades. É aumentado um lugar de chefe de secção no quadro do pessoal burocrático privativo da Secretaria de Estado.
 
-###### Art. 18.º O disposto no artigo 4.º do [Decreto-Lei n.º 36376](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36376-1947-183984), de 26 de Junho de 1947, é aplicável aos funcionários do corpo diplomático ou consular que, na vigência do presente diploma e seja qual for a sua situação, regressem definitivamente a Portugal e sejam chamados ao exercício de quaisquer funções na Secretaria de Estado.
+Art. 18.º O disposto no artigo 4.º do [Decreto-Lei n.º 36376](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36376-1947-183984), de 26 de Junho de 1947, é aplicável aos funcionários do corpo diplomático ou consular que, na vigência do presente diploma e seja qual for a sua situação, regressem definitivamente a Portugal e sejam chamados ao exercício de quaisquer funções na Secretaria de Estado.
 
-###### Art. 19.º O Ministro dos Negócios Estrangeiros fará publicar até 31 de Dezembro de 1960 a lista das missões diplomáticas e dos consulados de carreira e o quadro geral dos corpos diplomático e consular, do pessoal adjunto e do pessoal privativo da Secretaria de Estado, com as alterações introduzidas até à vigência do presente decreto-lei.
+Art. 19.º O Ministro dos Negócios Estrangeiros fará publicar até 31 de Dezembro de 1960 a lista das missões diplomáticas e dos consulados de carreira e o quadro geral dos corpos diplomático e consular, do pessoal adjunto e do pessoal privativo da Secretaria de Estado, com as alterações introduzidas até à vigência do presente decreto-lei.
 
-###### Art. 20.º É revogado o § único do artigo 13.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938).
+Art. 20.º É revogado o § único do artigo 13.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938).
 
-###### Art. 21.º As despesas do pessoal resultantes da execução deste diploma serão satisfeitas no ano corrente pelas sobras das verbas da mesma classe do orçamento do Ministério.
+Art. 21.º As despesas do pessoal resultantes da execução deste diploma serão satisfeitas no ano corrente pelas sobras das verbas da mesma classe do orçamento do Ministério.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29200/20922094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/709-1975-310993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cded411a435d84b9d1c4a3c0a42f34ead0cd10ddfe0e7112250c4049705cbfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4aa20b77ce37c6d9b6280065e06bb9ccfad95e0531f152045a27ca6931624562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Função Pública
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:462061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474140:por
+  label: Substituído o quadro de pessoal aprovado pelo Dec Lei 45002, de 27-abr de 1963, com as alterações introduzidas pelo
+    presente diploma, pelo(a) Portaria n.º 278/80 - Diário da República n.º 119/1980, Série I de 1980-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/278-1980-474140
+  date: '1980-05-23'
+- type: cites
+  target: pt:dre:526656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628294:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:462061:por
+  label: Revogado pelo(a) Decreto-Lei n.º 476/80 - Diário da República n.º 239/1980, Série I de 1980-10-15, a partir da data
+    de entrada em vigor deste diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/476-1980-462061
+  date: '1980-10-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:33Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +125,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal da ADSE é o constante do mapa anexo ao presente decreto-lei.
+Artigo 1.º O quadro do pessoal da ADSE é o constante do mapa anexo ao presente decreto-lei.
 
-###### Artigo 2.º O lugar de director da ADSE será provido, em comissão de serviço, pelo período de três anos, sucessivamente renovável, mediante livre escolha do Ministro das Finanças, em indivíduo de reconhecida competência, diplomado com curso superior adequado, podendo cessar, por conveniência de qualquer das partes, antes de expirado o período da comissão.
+Artigo 2.º O lugar de director da ADSE será provido, em comissão de serviço, pelo período de três anos, sucessivamente renovável, mediante livre escolha do Ministro das Finanças, em indivíduo de reconhecida competência, diplomado com curso superior adequado, podendo cessar, por conveniência de qualquer das partes, antes de expirado o período da comissão.
 
 Art.º 3.º - 1. Os lugares de chefe de repartição serão providos por escolha, sobre proposta do director da ADSE, de entre os chefes de secção da ADSE com três anos de bom e efectivo serviço, ou entre diplomados com curso superior adequado.
 
@@ -112,9 +139,9 @@ Art.º 3.º - 1. Os lugares de chefe de repartição serão providos por escolha
 
 5. Os tesoureiros de 1.ª e 2.ª classes serão escolhidos entre os primeiros-oficiais do quadro ou categoria equivalente, devendo prestar a caução de 10000$00 à Direcção-Geral da Fazenda Pública.
 
-###### Art. 4.º - 1. O recrutamento para os lugares de escriturário-dactilógrafo far-se-á, por concurso de prestação de provas, de entre indivíduos que possuam a escolaridade obrigatória como habilitação.
+Art. 4.º - 1. O recrutamento para os lugares de escriturário-dactilógrafo far-se-á, por concurso de prestação de provas, de entre indivíduos que possuam a escolaridade obrigatória como habilitação.
 
-###### Art. 5.º - 1. O provimento dos lugares do quadro a que se refere o artigo 1.º será feito por nomeação, mas serão providos por contrato os lugares de escriturário-dactilógrafo, de telefonista, de contínuo e de servente.
+Art. 5.º - 1. O provimento dos lugares do quadro a que se refere o artigo 1.º será feito por nomeação, mas serão providos por contrato os lugares de escriturário-dactilógrafo, de telefonista, de contínuo e de servente.
 
 2. As nomeações para os cargos de chefe de repartição ou de secção terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver dado provas de aptidão para o lugar, ou exonerado, no caso contrário.
 
@@ -124,25 +151,25 @@ Art.º 3.º - 1. Os lugares de chefe de repartição serão providos por escolha
 
 5. Os funcionários desta instituição, que sejam chamados a prestar serviço noutro organismo por onde não sejam abonados, poderão ser substituídos interinamente e remunerados, uns e outros, por verbas inscritas ou a inscrever no orçamento privativo desta Assistência.
 
-###### Art. 6.º - 1. O Ministro das Finanças poderá, por despacho, determinar que os concursos de prestação de provas previstos no presente diploma sejam substituídos pela realização de cursos de promoção.
+Art. 6.º - 1. O Ministro das Finanças poderá, por despacho, determinar que os concursos de prestação de provas previstos no presente diploma sejam substituídos pela realização de cursos de promoção.
 
 2. Os concursos ou cursos de promoção serão regulamentados por portaria do Ministro das Finanças.
 
-###### Art. 7.º Todo o pessoal que se encontra além do quadro, recrutado nos termos do artigo 10.º do [Decreto-Lei n.º 48854](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48854-1969-526656), de 31 de Janeiro de 1969, em serviço na Assistência na Doença aos Servidores Civis do Estado, não excederá 60 unidades, sendo anualmente revisto e regulado por despacho do Ministro das Finanças.
+Art. 7.º Todo o pessoal que se encontra além do quadro, recrutado nos termos do artigo 10.º do [Decreto-Lei n.º 48854](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48854-1969-526656), de 31 de Janeiro de 1969, em serviço na Assistência na Doença aos Servidores Civis do Estado, não excederá 60 unidades, sendo anualmente revisto e regulado por despacho do Ministro das Finanças.
 
-###### Art. 8.º - 1. As despesas com o pessoal e com a sustentação dos serviços da ADSE serão satisfeitas em conta da verba global que, para tal fim, se inscrever no orçamento da despesa do Ministério das Finanças.
+Art. 8.º - 1. As despesas com o pessoal e com a sustentação dos serviços da ADSE serão satisfeitas em conta da verba global que, para tal fim, se inscrever no orçamento da despesa do Ministério das Finanças.
 
 2. Os fundos requisitados, bem como as receitas próprias, serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, em conta especial, à ordem da ADSE.
 
-###### Art. 9.º Aos técnicos do corpo de inspecção podem ser cometidos trabalhos de natureza tanto interna como externa.
+Art. 9.º Aos técnicos do corpo de inspecção podem ser cometidos trabalhos de natureza tanto interna como externa.
 
-###### Art. 10.º Sem prejuízo do disposto no [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, e no [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, as matérias relativas à organização, às formalidades burocráticas e ao modo de funcionamento da ADSE serão reguladas por despacho do Ministro das Finanças, ouvido o Ministro dos Assuntos Sociais quando a sua intervenção o justifique pela natureza dos assuntos.
+Art. 10.º Sem prejuízo do disposto no [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, e no [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, as matérias relativas à organização, às formalidades burocráticas e ao modo de funcionamento da ADSE serão reguladas por despacho do Ministro das Finanças, ouvido o Ministro dos Assuntos Sociais quando a sua intervenção o justifique pela natureza dos assuntos.
 
-###### Art. 11.º Para ocorrer a necessidades eventuais e extraordinárias de serviço o director da ADSE poderá propor superiormente que seja requisitado pessoal a outros serviços públicos.
+Art. 11.º Para ocorrer a necessidades eventuais e extraordinárias de serviço o director da ADSE poderá propor superiormente que seja requisitado pessoal a outros serviços públicos.
 
 Disposições transitórias
 
-###### Art. 12.º - 1. O pessoal do quadro actualmente ao serviço da ADSE poderá ser provido nas vagas existentes, nos lugares criados pelo presente diploma e nas vagas que resultem desses provimentos.
+Art. 12.º - 1. O pessoal do quadro actualmente ao serviço da ADSE poderá ser provido nas vagas existentes, nos lugares criados pelo presente diploma e nas vagas que resultem desses provimentos.
 
 2. O preenchimento das vagas referidas no número anterior poderá ainda ser feito de entre os indivíduos concursados para os lugares de terceiro-oficial e escriturário-dactilógrafo e, também, de entre os servidores contratados e interinos, ou em prestação eventual de serviços, com pelo menos um ano de bom e efectivo serviço à data da publicação do presente diploma e que possuam as habilitações literárias exigidas para os respectivos lugares.
 
@@ -150,22 +177,22 @@ Disposições transitórias
 
 4. Até à publicação das listas de que trata o número anterior, o pessoal em serviço na ADSE conservará a situação e remuneração que tem à data da publicação deste diploma.
 
-###### Art. 13.º Ao pessoal presentemente em serviço na ADSE será levado em conta, para todos os efeitos, o tempo de serviço prestado ao Estado anteriormente ao seu ingresso no mesmo organismo.
+Art. 13.º Ao pessoal presentemente em serviço na ADSE será levado em conta, para todos os efeitos, o tempo de serviço prestado ao Estado anteriormente ao seu ingresso no mesmo organismo.
 
-###### Art. 14.º As vagas de segundos e terceiros-oficiais e de escriturários-dactilógrafos que ocorrerem dentro dos prazos de validade dos concursos realizados perante a ADSE poderão ser providas pelos candidatos aprovados nos últimos concursos para aquelas categorias.
+Art. 14.º As vagas de segundos e terceiros-oficiais e de escriturários-dactilógrafos que ocorrerem dentro dos prazos de validade dos concursos realizados perante a ADSE poderão ser providas pelos candidatos aprovados nos últimos concursos para aquelas categorias.
 
-###### Art. 15.º O presente decreto revoga o [Decreto-Lei n.º 48854](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48854-1969-526656), de 31 de Janeiro de 1969, e entra em vigor na data da publicação.
+Art. 15.º O presente decreto revoga o [Decreto-Lei n.º 48854](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48854-1969-526656), de 31 de Janeiro de 1969, e entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 9 de Dezembro de 1975.**
+Promulgado em 9 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29200/20922094.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29200/20922094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29200/20922094.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

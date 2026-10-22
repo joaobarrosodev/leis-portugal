@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/13600/12981298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1976-427104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b19efeac451f48dcdf03786956f0840d03da80d07c56433a9f09136bbec2066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d6dab3b67f3675fc435718518e71a48b12da8e18e214faa52ccce1b3a2aa960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Militar
+- Pessoal Civil
+- Quadro de Pessoal
+- Quadro não Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:181630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605805:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181630:por
+  label: "Revogado pelo Dec Lei.550-E/76.12.07.1976.CR, DR.IS [161-Supl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-e-1976-181630
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:31Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +125,14 @@ Considerando que o [Decreto-Lei n.º 486/74](https://diariodarepublica.pt/dr/det
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No quadro de efectivos dos oficiais médicos da Força Aérea e dos oficiais de intendência e contabilidade autorizados pelo [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, alterado pelos Decretos-Leis n.os 46345, de 21 de Maio de 1965, [296/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1972-605805), de 14 de Agosto, e [499/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1974-473551), de 1 de Outubro, é aumentado um posto de coronel em cada uma das especialidades referidas.
+Artigo 1.º No quadro de efectivos dos oficiais médicos da Força Aérea e dos oficiais de intendência e contabilidade autorizados pelo [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, alterado pelos Decretos-Leis n.os 46345, de 21 de Maio de 1965, [296/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1972-605805), de 14 de Agosto, e [499/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1974-473551), de 1 de Outubro, é aumentado um posto de coronel em cada uma das especialidades referidas.
 
-###### Art. 2.º Os encargos resultantes do disposto no artigo anterior serão suportados, no corrente ano pelas disponibilidades da dotação orçamental destinada a vencimentos e salários do pessoal militar permanente privativo da Força Aérea.
+Art. 2.º Os encargos resultantes do disposto no artigo anterior serão suportados, no corrente ano pelas disponibilidades da dotação orçamental destinada a vencimentos e salários do pessoal militar permanente privativo da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 2 de Junho de 1976.**
+Promulgado em 2 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

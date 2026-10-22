@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/111-1973-684175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e47ea803cb99a85c03bc4b86346151fe3469d38ccc63f390bc4d80eb3b19072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0303cca18ec7d58e9f0ce285378c996c86ffc85881cff2f8dfac43d9e76c4c72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:30Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +111,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Regime Jurídico do Contrato Individual de Trabalho, aprovado pelo [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, e o regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, são aplicados às empresas concessionárias do ser público dos transportes colectivos urbanos, com as adaptações constantes do presente diploma.
+Artigo 1.º O Regime Jurídico do Contrato Individual de Trabalho, aprovado pelo [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, e o regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, são aplicados às empresas concessionárias do ser público dos transportes colectivos urbanos, com as adaptações constantes do presente diploma.
 
-###### Art. 2.º - 1. Os trabalhadores devem cumprir integral e diligentemente as ordens e instruções recebidas em tudo quanto se destine a assegurar o funcionamento normal do serviço público.
+Art. 2.º - 1. Os trabalhadores devem cumprir integral e diligentemente as ordens e instruções recebidas em tudo quanto se destine a assegurar o funcionamento normal do serviço público.
 
 2. Os trabalhadores devem igualmente dar cumprimento às ordens ou instruções que reputem contrárias aos seus direitos, podendo, contudo, apresentar posteriormente reclamação pelas vias competentes.
 
-###### Art. 3.º Quando as necessidades de serviço o imponham, pode o trabalhador de categoria superior desempenhar outra inferior pelo tempo estritamente necessário e sem perda da retribuição correspondente à sua categoria.
+Art. 3.º Quando as necessidades de serviço o imponham, pode o trabalhador de categoria superior desempenhar outra inferior pelo tempo estritamente necessário e sem perda da retribuição correspondente à sua categoria.
 
-###### Art. 4.º O período normal de trabalho diário pode ter a duração de nove horas, sem ultrapassar a média de quarenta e oito horas por semana ao fim de sete semanas consecutivas.
+Art. 4.º O período normal de trabalho diário pode ter a duração de nove horas, sem ultrapassar a média de quarenta e oito horas por semana ao fim de sete semanas consecutivas.
 
-###### Art. 5.º - 1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal ou dias feriados o trabalho que for imposto pelas necessidades do serviço público de que as empresas são concessionárias, a menos que sejam dispensados por motivos atendíveis.
+Art. 5.º - 1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal ou dias feriados o trabalho que for imposto pelas necessidades do serviço público de que as empresas são concessionárias, a menos que sejam dispensados por motivos atendíveis.
 
 2. Salvo as excepções previstas nas respectivas convenções colectivas de trabalho, o trabalho prestado em dias de descanso semanal e em dias feriados será retribuído com o acréscimo de 50 por cento sobre o montante da retribuição fixa devida por cada dia de trabalho normal.
 
@@ -113,11 +129,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. As empresas estão isentas da obrigatoriedade de contribuir para o Fundo Nacional do Abono de Família em relação à prestação de trabalho extraordinário.
 
-###### Art. 6.º As férias são concedidas de harmonia com as conveniências de serviço, devendo ser gozadas durante todo o ano civil em que se vence o respectivo direito, mas podendo, em casos excepcionais, ser transferidas para o 1.º trimestre do ano civil imediato.
+Art. 6.º As férias são concedidas de harmonia com as conveniências de serviço, devendo ser gozadas durante todo o ano civil em que se vence o respectivo direito, mas podendo, em casos excepcionais, ser transferidas para o 1.º trimestre do ano civil imediato.
 
-###### Art. 7.º As empresas podem conceder a troca do dia de descanso dentro da mesma semana, sem obrigação de retribuição especial ou de comunicação ao Instituto Nacional do Trabalho e Previdência, quando essa troca lhes seja expressamente pedida pelos trabalhadores.
+Art. 7.º As empresas podem conceder a troca do dia de descanso dentro da mesma semana, sem obrigação de retribuição especial ou de comunicação ao Instituto Nacional do Trabalho e Previdência, quando essa troca lhes seja expressamente pedida pelos trabalhadores.
 
-###### Art. 8.º - 1. O serviço de transportes colectivos urbanos é considerado de laboração contínua e o trabalho nocturno não dá direito a retribuição especial, quando tenha carácter normal e não represente agravamento excepcional de esforço exigido aos agentes que o executam.
+Art. 8.º - 1. O serviço de transportes colectivos urbanos é considerado de laboração contínua e o trabalho nocturno não dá direito a retribuição especial, quando tenha carácter normal e não represente agravamento excepcional de esforço exigido aos agentes que o executam.
 
 2. Não se aplica o disposto no número anterior ao pessoal dos escritórios, a não ser que estes estejam ligados a serviços cujo funcionamento exija permanentemente a prestação de trabalho nocturno ou que utilizem equipamentos especiais, quando a rentabilidade desses equipamentos justifique a organização de turnos.
 
@@ -125,7 +141,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Considera-se com carácter normal, para os efeitos deste artigo, o trabalho previamente estabelecido em escalas de serviço.
 
-###### Art. 9.º - 1. As sanções disciplinares aplicáveis aos trabalhadores são as seguintes:
+Art. 9.º - 1. As sanções disciplinares aplicáveis aos trabalhadores são as seguintes:
 
 a) Repreensão;
 
@@ -141,18 +157,18 @@ f) Despedimento.
 
 2. As sanções disciplinares previstas nas alíneas c) e d) não podem exceder em cada ano civil vinte dias de multa e trinta dias de suspensão.
 
-###### Art. 10.º Só se considera como transferência a mudança do trabalhador para uma localidade onde não exista serviço de transportes da respectiva empresa.
+Art. 10.º Só se considera como transferência a mudança do trabalhador para uma localidade onde não exista serviço de transportes da respectiva empresa.
 
-###### Art. 11.º - 1. Os mapas de horário de trabalho serão enviados ao Instituto Nacional do Trabalho e Previdência, devendo ser obrigatoriamente afixados, para o pessoal tripulante, nas estações a que os trabalhadores estiverem adstritos.
+Art. 11.º - 1. Os mapas de horário de trabalho serão enviados ao Instituto Nacional do Trabalho e Previdência, devendo ser obrigatoriamente afixados, para o pessoal tripulante, nas estações a que os trabalhadores estiverem adstritos.
 
 2. As escalas de serviço, quando existam, funcionam para todos os efeitos legais como mapas de horário de trabalho.
 
-###### Art. 12.º Fica revogado o [Decreto n.º 47474](https://diariodarepublica.pt/dr/detalhe/decreto/47474-1966-488101), de 31 de Dezembro de 1966.
+Art. 12.º Fica revogado o [Decreto n.º 47474](https://diariodarepublica.pt/dr/detalhe/decreto/47474-1966-488101), de 31 de Dezembro de 1966.
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 6 de Março de 1973.**
+Promulgado em 6 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

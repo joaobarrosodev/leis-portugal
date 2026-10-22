@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44336-1962-140565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72077dd8f3fe8ea320ec2bfe11e551779fedebe7539a732517924ed90256117f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eac51b408e5f6bae40ff75c5ee486ed88febff79887713ea1c11edb65e6ec7f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Docente Universitária
+- Contratação de Pessoal
+- Ensino Superior
+- Pessoal Docente
+- Tempo de Serviço
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:180189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368623:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:44Z'
   warnings: []
   errors: []
 ---
@@ -93,26 +107,26 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As escolas universitárias poderão contratar, além do quadro, pelas disponibilidades das suas dotações para pessoal ou por verba especialmente inscrita no orçamento, com a categoria de incumbido de regência, individualidades que tenham adquirido especialização em ciências incluídas nos respectivos planos de estudo.
+Artigo 1.º As escolas universitárias poderão contratar, além do quadro, pelas disponibilidades das suas dotações para pessoal ou por verba especialmente inscrita no orçamento, com a categoria de incumbido de regência, individualidades que tenham adquirido especialização em ciências incluídas nos respectivos planos de estudo.
 
 § 1.º A proposta para o contrato como incumbido de regência deve subir à apreciação do Ministro da Educação Nacional instruída com o parecer da 4.ª secção da Junta Nacional da Educação.
 
 § 2.º Não poderá ser contratado como incumbido de regência quem for segundo-assistente ou quem, tendo exercido estas funções, não houver obtido aprovação em doutoramento ou agregação.
 
-###### Art. 2.º O serviço ordinário do incumbido de regência será preenchido com a regência das aulas teóricas e dos trabalhos práticos de uma disciplina.
+Art. 2.º O serviço ordinário do incumbido de regência será preenchido com a regência das aulas teóricas e dos trabalhos práticos de uma disciplina.
 
-###### Art. 3.º Ao incumbido de regência compete o vencimento mensal de 5000$00.
+Art. 3.º Ao incumbido de regência compete o vencimento mensal de 5000$00.
 
 § 1.º Se o incumbido de regência acumular este cargo com outro lugar remunerado do Estado, corpos administrativos ou entidades para o efeito equiparadas a estes, perceberá a gratificação mensal de 2000$00.
 
 § 2.º O serviço que, em virtude de desdobramento de cursos ou de acumulação de regências, o incumbido de regência prestar na sua escola ou em outra escola universitária será retribuído pela forma estabelecida para os assistentes.
 
-###### Art. 4.º É aplicável aos incumbidos de regência, em tudo o que se coadune com as disposições especiais deste diploma, o regime de faltas e licenças em vigor para o pessoal docente universitário.
+Art. 4.º É aplicável aos incumbidos de regência, em tudo o que se coadune com as disposições especiais deste diploma, o regime de faltas e licenças em vigor para o pessoal docente universitário.
 
-###### Art. 5.º Não poderá ser contratado como encarregado de curso da Faculdade de Economia da Universidade do Porto aquele que cessar o exercício das funções de assistente por ter atingido o prazo máximo por que lhe era permitido manter-se nessas funções, salvo se obtiver aprovação em doutoramento.
+Art. 5.º Não poderá ser contratado como encarregado de curso da Faculdade de Economia da Universidade do Porto aquele que cessar o exercício das funções de assistente por ter atingido o prazo máximo por que lhe era permitido manter-se nessas funções, salvo se obtiver aprovação em doutoramento.
 
 § único. O tempo de desempenho das funções de assistente será, em todo o caso, levado em conta para efeito dos limites fixados no artigo único do [Decreto n.º 43931](https://diariodarepublica.pt/dr/detalhe/decreto/43931-1961-180189), de 23 de Setembro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

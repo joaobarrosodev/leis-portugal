@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/554-1970-147189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3072620cd7ef72a5f646bee61af6eb1036db3c478d0048de160f719e540db6c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de4f3059e43a47812a0017b7a97608a21dd64a3004a5c7ad4898dbed49e0241a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141587:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:13Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Por motivo de urgência, nos termos do disposto no § 1.º do artigo 150.º da C
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Em execução dos Decretos n.os [339/70](https://diariodarepublica.pt/dr/detalhe/decreto/339-1970-141587) e [355/70](https://diariodarepublica.pt/dr/detalhe/decreto/355-1970-141250), de 16 e 28 de Julho de 1970, respectivamente, são criados, em cada uma das províncias de Angola e Moçambique, os seguintes lugares:
+Artigo único. Em execução dos Decretos n.os [339/70](https://diariodarepublica.pt/dr/detalhe/decreto/339-1970-141587) e [355/70](https://diariodarepublica.pt/dr/detalhe/decreto/355-1970-141250), de 16 e 28 de Julho de 1970, respectivamente, são criados, em cada uma das províncias de Angola e Moçambique, os seguintes lugares:
 
 a) No Governo da província e representação nacional - um de governador de distrito e um de secretário de governador de distrito;
 
@@ -103,10 +111,10 @@ c) Nos Serviços de Fazenda e Contabilidade - um de director de Fazenda de 3.ª 
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Outubro de 1970.**
+Promulgado em 30 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 67/1977, 1º Suplemento, Série I de 1977-03-21
   number: '67'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 570-(1) a 570-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06701/00010007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1977-350351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c4d88e2aee2f8eb7a2f7cdc38cd69689af115bc5ce94f087d36f139b916d64c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e5d82f084ae691be1eb9357f0ec7db73a321ef23c5a834dcbec68d91047fbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Magistratura
+- Definição de Competências
+- Estágio de Formação
+- Formação Profissional
+- Funcionário Público
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Nomeação
+- Procuradoria Geral da República
+- Remuneração
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450263:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139177:por
+  label: Rectificado pela DECL.DD8175.21.04.1977.PCM, DR.IS [93] de 21.04.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139177
+  date: '1977-04-21'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:22Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +137,7 @@ Usando da autorização conferida pela [Lei n.º 16/77](https://diariodarepublic
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Ingresso nas magistraturas judicial e do Ministério Público)
 
@@ -116,7 +145,7 @@ Usando da autorização conferida pela [Lei n.º 16/77](https://diariodarepublic
 
 2. O disposto no número anterior não é aplicável nos casos em que a lei preveja formas especiais de recrutamento de magistrados.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Duração e local do estágio)
 
@@ -124,7 +153,7 @@ Usando da autorização conferida pela [Lei n.º 16/77](https://diariodarepublic
 
 2. Sempre que se mostre conveniente, o Conselho Superior da Magistratura e o Conselho Superior do Ministério Público podem determinar que o estágio tenha também lugar noutras comarcas desde que nelas existam as condições necessárias para o seu funcionamento.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Orientação do estágio)
 
@@ -136,13 +165,13 @@ Usando da autorização conferida pela [Lei n.º 16/77](https://diariodarepublic
 
 4. Excepcionalmente, o Conselho Superior da Magistratura e o Conselho Superior do Ministério Público podem determinar que o âmbito da competência de um GOE se alargue a mais de uma comarca.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência dos estagiários)
 
 Os estagiários para ingresso nas magistraturas judicial e do Ministério Público têm, respectivamente, a mesma competência dos juízes de direito e dos delegados do procurador da República estabelecida no Estatuto Judiciário e na legislação processual e terão participação gradual na actividade judicial.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Atribuições do GOE)
 
@@ -154,7 +183,7 @@ b) Programar sessões de estudo e investigação, algumas das quais deverão ter
 
 c) Convidar funcionários qualificados dos estabelecimentos referidos na alínea anterior ou outras entidades para a realização de palestras seguidas de debate.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Júri)
 
@@ -168,13 +197,13 @@ c) Convidar funcionários qualificados dos estabelecimentos referidos na alínea
 
 5. Da decisão do júri só caberá recurso quando a exclusão não tenha sido votada por unanimidade. O recurso será interposto no prazo de dez dias, a contar da publicação dos resultados, para um júri alargado composto pelos membros do primeiro júri e ainda por todos os magistrados formadores dos tribunais em que o estagiário tenha exercido funções.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Regalias, direitos e deveres)
 
 Os estagiários beneficiarão de todos os direitos e regalias e estarão sujeitos aos mesmos deveres dos magistrados judiciais e do Ministério Público, respectivamente, salvas as excepções previstas neste diploma.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Funcionários e agentes do Estado)
 
@@ -184,7 +213,7 @@ Os estagiários beneficiarão de todos os direitos e regalias e estarão sujeito
 
 Se a exclusão derivar de desistência injustificada, o tempo de frequência do estágio será descontado na antiguidade.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Dever de permanência na magistratura)
 
@@ -194,7 +223,7 @@ Se a exclusão derivar de desistência injustificada, o tempo de frequência do 
 
 ### CAPÍTULO II — Disposições especiais relativas ao ingresso na magistratura judicial
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Composição do GOE)
 
@@ -210,7 +239,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. O magistrado referido na alínea a) do n.º 1 representará o Conselho Superior da Magistratura e presidirá nessa qualidade a cada GOE, servindo de elemento de ligação e coordenação dos diversos grupos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Abertura do estágio)
 
@@ -218,7 +247,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. O Ministro da Justiça, fundado na necessidade de preenchimento dos quadros, poderá também determinar a abertura do estágio.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Candidatos)
 
@@ -230,7 +259,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 4. A Procuradoria-Geral da República fornecerá ao Conselho Superior da Magistratura relação dos delegados do procurador da República que se encontrem na situação referida no n.º 1.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Requerimentos)
 
@@ -238,7 +267,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. Os requerimentos dos candidatos que não sejam delegados do procurador da República serão instruídos com documentos comprovativos das respectivas situações e dos requisitos legais de ingresso na magistratura judicial.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Organização e publicação das listas)
 
@@ -246,7 +275,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. Decididas as reclamações ou na falta delas, será publicada no Diário da República a lista definitiva.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Estagiários. Nomeação, posse e vencimentos)
 
@@ -254,7 +283,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. Os estagiários têm direito ao vencimento de juiz de direito de 3.ª classe e a 90% das respectivas remunerações acessórias.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Desistentes e não aptos)
 
@@ -262,7 +291,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. Excepcionalmente, e sobre informação do respectivo GOE, o Conselho Superior da Magistratura pode autorizar a frequência do novo estágio aos estagiários que não tenham sido valorados a final por falta justificada de assiduidade.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Nomeação como juiz de direito)
 
@@ -278,7 +307,7 @@ b) Advogados, conservadores e notários, segundo a ordem de antiguidade em qualq
 
 ### CAPÍTULO III — Disposições especiais relativas ao ingresso na magistratura do Ministério Público
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Composição dos GOE)
 
@@ -294,7 +323,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. O magistrado a que se refere a alínea a) do número anterior representará o Conselho Superior do Ministério Público e presidirá nessa qualidade a cada GOE, servindo de elemento de ligação e coordenação dos diversos grupos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Abertura do estágio)
 
@@ -302,7 +331,7 @@ d) Um magistrado do Ministério Público designado por organizações sindicais 
 
 2. O Ministro da Justiça, fundado na necessidade de preenchimento dos quadros, poderá também determinar a abertura do estágio.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Candidatos)
 
@@ -320,7 +349,7 @@ c) Os candidatos graduados em testes de aptidão profissional.
 
 4. O Conselho Superior do Ministério Público poderá deliberar a abertura de estágio destinado exclusivamente aos candidatos referidos na alínea a) do n.º 1.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Requerimentos)
 
@@ -330,7 +359,7 @@ c) Os candidatos graduados em testes de aptidão profissional.
 
 3. Os candidatos que hajam de submeter-se a testes de aptidão profissional comprovarão, além do mais, terem pago a propina de 300$00, mediante depósito efectuado na Caixa Geral de Depósitos, à ordem da Procuradoria-Geral da República.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Organização e publicação das listas)
 
@@ -342,13 +371,13 @@ c) Os candidatos graduados em testes de aptidão profissional.
 
 4. Com a publicação da lista definitiva serão anunciados a data e o local da efectivação dos testes.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Testes de aptidão profissional)
 
 Podem submeter-se a testes de aptidão profissional para a frequência do estágio para delegado do procurador da República os licenciados em Direito por Universidades portuguesas, ou a quem tenha sido conferida tal equivalência, que reúnam os demais requisitos de ingresso na magistratura do Ministério Público.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Conteúdo dos testes)
 
@@ -356,7 +385,7 @@ Podem submeter-se a testes de aptidão profissional para a frequência do estág
 
 2. Nos casos de manifesta inaptidão a fase escrita é eliminatória.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Fase escrita dos testes)
 
@@ -372,7 +401,7 @@ c) Na resolução de uma questão prática de direito penal e de direito process
 
 3. Os candidatos podem socorrer-se de apontamentos pessoais e terão acesso a elementos de legislação e literatura jurídica.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Fase oral dos testes)
 
@@ -384,7 +413,7 @@ b) Num interrogatório, com a duração máxima de quarenta e cinco minutos, ten
 
 2. A fase oral dos testes é pública. Não podem, todavia, assistir às provas os candidatos que ainda as não tenham prestado.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Falta de comparência às provas)
 
@@ -394,7 +423,7 @@ b) Num interrogatório, com a duração máxima de quarenta e cinco minutos, ten
 
 3. A nenhum candidato é lícito dar mais de uma falta.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Júri)
 
@@ -404,7 +433,7 @@ b) Num interrogatório, com a duração máxima de quarenta e cinco minutos, ten
 
 3. O presidente tem voto de qualidade.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Graduação dos candidatos)
 
@@ -412,7 +441,7 @@ b) Num interrogatório, com a duração máxima de quarenta e cinco minutos, ten
 
 2. A graduação será feita segundo um critério valorimétrico, com escala de 0 a 20, o qual, todavia, não constará da pauta.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Validade dos testes)
 
@@ -422,7 +451,7 @@ b) Num interrogatório, com a duração máxima de quarenta e cinco minutos, ten
 
 3. Na hipótese prevista no n.º 2, o candidato ingressará e sairá do estágio à direita dos demais.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Estagiários. Nomeação, posse e vencimentos)
 
@@ -432,13 +461,13 @@ b) Num interrogatório, com a duração máxima de quarenta e cinco minutos, ten
 
 3. Os estagiários têm direito ao vencimento de delegado do procurador da República de 3.ª classe e a 90% das remunerações acessórias, não beneficiando, porém, de subsídio para habitação.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Exclusão)
 
 O GOE poderá, durante a primeira metade do estágio, ouvidos os delegados formadores respectivos e por unanimidade destes, excluir os estagiários que se revelem manifestamente inaptos.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Desistentes e não aptos)
 
@@ -450,7 +479,7 @@ O GOE poderá, durante a primeira metade do estágio, ouvidos os delegados forma
 
 4. Os estagiários excluídos têm preferência no provimento de lugares dos quadros das secretarias judiciais.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Nomeação como delegado do procurador da República)
 
@@ -470,13 +499,13 @@ c) Restantes estagiários, segundo a graduação obtida nos testes de aptidão p
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Redução do tempo de duração do estágio)
 
 Se o exigirem a carência de magistrados ou outras circunstâncias igualmente ponderosas, o Conselho Superior da Magistratura e o Conselho Superior do Ministério Público poderão reduzir o tempo de duração dos dois primeiros estágios que se seguirem à publicação do presente diploma, até ao limite de seis meses.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Nomeação de delegados sem habilitação própria)
 
@@ -486,13 +515,13 @@ Se o exigirem a carência de magistrados ou outras circunstâncias igualmente po
 
 3. Na nomeação, preferem os subdelegados do procurador da República mais antigos e, em casos de igualdade, os mais velhos.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Ingresso de interinos)
 
 Os licenciados que, tendo-se encontrado na situação prevista no artigo 25.º do [Decreto-Lei n.º 714/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/714-1975-310785), de 20 de Dezembro, não requereram o seu ingresso na magistratura do Ministério Público, podem ainda beneficiar do regime estabelecido naquela disposição, mediante requerimento a apresentar no prazo de quinze dias contado da publicação do presente diploma.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Estágios em curso)
 
@@ -500,7 +529,7 @@ Os licenciados que, tendo-se encontrado na situação prevista no artigo 25.º d
 
 2. Aos estágios referidos no n.º 1 são apenas aplicáveis as disposições constantes do n.º 2 do artigo 16.º, n.º 3 e 4 do artigo 33.º e dos artigos seguintes.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Funcionários e agentes do Estado)
 
@@ -510,19 +539,19 @@ Os licenciados que, tendo-se encontrado na situação prevista no artigo 25.º d
 
 3. Não havendo vagas, e até à sua existência, os reintegrados ficarão na situação de supranumerários.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Direitos, deveres e regalias dos estagiários)
 
 Enquanto não forem nomeados ou reintegrados, os estagiários mantêm os direitos, deveres e regalias, incluindo remunerações, usufruídos durante o estágio.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Disposição revogatória)
 
 Com ressalva do disposto no artigo 37.º do presente diploma, fica revogado o [Decreto-Lei n.º 714/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/714-1975-310785), de 20 de Dezembro.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Entrada em vigor do diploma)
 
@@ -530,8 +559,8 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos.
 
-**Promulgado em 12 de Março de 1977.**
+Promulgado em 12 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/25800/23472349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c983e95a75e8b021e9fbf7e4fab6d637ec2c88d1f22d942d0a661a13d83aa8cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09cd0659ac8b1757fd7ece441d4f1b2fe4a38b97033a74a78989629d9e01fd2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Gabinete de Registo Nacional
+- Ministério da Justiça
+- Pessoa Coletiva
+- Registo Nacional de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:312427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:312427:por
+  label: "Revogado pelo DEC LEI.144/83.1983.03.31.MJ, DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1983-312427
+  date: '1983-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:18Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +117,13 @@ Finalmente eliminam-se as desnecessárias duplicações quanto à obrigatoriedad
 
 Nestes termos, o Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 8.º, 10.º, 19.º, 20.º, 30.º e 85.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 8.º, 10.º, 19.º, 20.º, 30.º e 85.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 4.º O ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações, sociedades, agrupamentos complementares de empresas e empresas públicas que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.
+Art. 4.º O ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações, sociedades, agrupamentos complementares de empresas e empresas públicas que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.
 
-###### Art. 5.º O ficheiro central de pessoas colectivas e entidades equiparadas abrange também os empresários em nome individual e outras entidades, organismos ou serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social.
+Art. 5.º O ficheiro central de pessoas colectivas e entidades equiparadas abrange também os empresários em nome individual e outras entidades, organismos ou serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social.
 
-###### Art. 8.º - 1 - O registo de cada pessoa colectiva deve conter informação sobre:
+Art. 8.º - 1 - O registo de cada pessoa colectiva deve conter informação sobre:
 
 a) O número de identificação;
 
@@ -131,13 +145,13 @@ f) A data da constituição e, quando aplicável, da publicação no Diário da 
 
 5 - O modelo de cartão de identificação, que constitui exclusivo do Gabinete do Registo Nacional, deve ser diferente para as pessoas colectivas e para as entidades equiparadas.
 
-###### Art. 10.º - 1 - O número de identificação das pessoas colectivas e entidades equiparadas é um número sequencial cujo primeiro dígito deve ser diferente para as pessoas colectivas e para as entidades equiparadas, e o último um dígito de contrôle da exactidão do número.
+Art. 10.º - 1 - O número de identificação das pessoas colectivas e entidades equiparadas é um número sequencial cujo primeiro dígito deve ser diferente para as pessoas colectivas e para as entidades equiparadas, e o último um dígito de contrôle da exactidão do número.
 
 2 - Podem ser usadas sequências numéricas diferentes correspondentes à área de localização geográfica da sede do titular do registo.
 
 3 - O significado dos dígitos correspondentes a pessoas colectivas e a entidades equiparadas, bem como as sequências correspondentes a áreas geográficas distintas, devem ser objecto de divulgação em portaria do Ministro da Justiça.
 
-###### Art. 19.º - 1 - As associações, fundações, sociedades e agrupamentos complementares de empresas que se constituírem a partir da data do presente diploma ficam obrigadas à posse de cartão de identificação, que devem requerer no prazo de noventa dias, a contar da data da sua constituição.
+Art. 19.º - 1 - As associações, fundações, sociedades e agrupamentos complementares de empresas que se constituírem a partir da data do presente diploma ficam obrigadas à posse de cartão de identificação, que devem requerer no prazo de noventa dias, a contar da data da sua constituição.
 
 2 - A mesma obrigação incumbe aos empresários em nome individual, no prazo de trinta dias, a contar do início da sua actividade.
 
@@ -145,15 +159,15 @@ f) A data da constituição e, quando aplicável, da publicação no Diário da 
 
 4 - Não podem ser recebidos em organismos da Administração Pública declarações ou requerimentos de pessoas colectivas e de empresários em nome individual, designadamente para efeitos fiscais, estatísticos ou obtenção de quaisquer licenças ou autorizações, sem que deles conste o respectivo número de identificação.
 
-###### Art. 20.º - 1 - Os notários são obrigados a comunicar ao Centro de Informática do Ministério da Justiça, no prazo de oito dias, os actos respeitantes à constituição, transformação ou extinção de associações, fundações, sociedades ou agrupamentos complementares de empresas.
+Art. 20.º - 1 - Os notários são obrigados a comunicar ao Centro de Informática do Ministério da Justiça, no prazo de oito dias, os actos respeitantes à constituição, transformação ou extinção de associações, fundações, sociedades ou agrupamentos complementares de empresas.
 
 2 - A mesma obrigação incumbe aos serviços públicos por onde corre o expediente relativo à aprovação dos estatutos das fundações ou a quem incumbe receber a participação escrita da constituição de pessoas colectivas religiosas.
 
 3 - As comunicações referidas nos números anteriores são efectuadas em impresso próprio, exclusivo do Gabinete do Registo Nacional.
 
-###### Art. 30.º O fornecimento de informações em suporte manual ou informático, fora dos casos previstos nos artigos anteriores, será efectuado nas condições aprovadas por despacho do Ministro da Justiça, sob proposta do Gabinete do Registo Nacional.
+Art. 30.º O fornecimento de informações em suporte manual ou informático, fora dos casos previstos nos artigos anteriores, será efectuado nas condições aprovadas por despacho do Ministro da Justiça, sob proposta do Gabinete do Registo Nacional.
 
-###### Art. 85.º - 1 - ...
+Art. 85.º - 1 - ...
 
 2 - ...
 
@@ -161,20 +175,20 @@ f) A data da constituição e, quando aplicável, da publicação no Diário da 
 
 4 - O mesmo regime, com as necessárias adaptações, é aplicável aos impressos exclusivos do Gabinete do Registo Nacional.
 
-###### Art. 2.º - 1 - O cartão de identificação de pessoa colectiva ou de entidade equiparada é válido durante três anos, podendo, no entanto, para melhor distribuição, o prazo de validade ser alongado por período não superior a onze meses.
+Art. 2.º - 1 - O cartão de identificação de pessoa colectiva ou de entidade equiparada é válido durante três anos, podendo, no entanto, para melhor distribuição, o prazo de validade ser alongado por período não superior a onze meses.
 
 2 - O cartão de identificação deve ser renovado quando expirar o prazo de validade ou se verificar alteração dos elementos dele constantes, bem como nos casos de mau estado de conservação, perda, destruição ou extravio.
 
 3 - A renovação dos cartões de identificação deve ser pedida, em impresso próprio, ao Gabinete do Registo Nacional.
 
-###### Art. 3.º - 1 - São nulos e não poderão ser usados para qualquer efeito os cartões de identificação de pessoa colectiva cujo prazo de validade esteja ultrapassado, os que contiverem elementos desactualizados ou se encontrem em mau estado de conservação.
+Art. 3.º - 1 - São nulos e não poderão ser usados para qualquer efeito os cartões de identificação de pessoa colectiva cujo prazo de validade esteja ultrapassado, os que contiverem elementos desactualizados ou se encontrem em mau estado de conservação.
 
 2 - Qualquer entidade pública perante a qual sejam usados cartões de identificação nulos deve apreendê-los e remetê-los ao Gabinete do Registo Nacional, onde aguardarão que os interessados requeiram a respectiva renovação.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Mário Ferreira Bastos Raposo - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 26 de Outubro de 1978.**
+Promulgado em 26 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

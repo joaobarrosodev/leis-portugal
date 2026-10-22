@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44147-1962-642572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 986e9135d2397345faa4f76b90983e032417a38a8dddc7a0cf8138dff921883f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aade1107d2866dc4d4d1633a00e5684fc49626d510c168da27acc3531969ab05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Organização Territorial
+- Sintra
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:31Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +98,19 @@ Considerando que se verificam as demais condições referidas no artigo 9.º do 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Sintra, distrito de Lisboa, a freguesia de Algueirão-Mem Martins, com sede na actual povoação do mesmo nome.
+Artigo 1.º É criada no concelho de Sintra, distrito de Lisboa, a freguesia de Algueirão-Mem Martins, com sede na actual povoação do mesmo nome.
 
 § único. A freguesia de Algueirão-Mem Martins é classificada de 1.ª ordem.
 
-###### Art. 2.º Os limites da freguesia de Algueirão-Mem Martins são definidos por uma linha que, partindo da bifurcação da estrada municipal ao quilómetro 14,700 da estrada nacional n.º 249, continua para poente pela estrada municipal, até ao canto do lado poente da Quinta A Nossa Pousada; daqui segue, em linha recta, até ao canto poente do Casal da Carvalheira, rodeando, pelo nascente e norte, o Casal de S. José; sobe a serra de Ouressa e contorna pelo poente e norte este casal, até ao marco divisório das freguesias de S. Pedro e Santa Maria, junto da linha do caminho de ferro Lisboa-Sintra; continua pelos limites das mesmas freguesias até Sacotes, seguindo depois pelo caminho adjacente ao Casal de A dos Rolhados, até estrada nacional n.º 250, nos limites das freguesias de Santa Maria e Montelavar. Prosseguindo pelos limites destas freguesias até à linha do caminho de ferro do Oeste e pelo lado poente dessa linha até à passagem de nível de Meleças, continua pelo caminho de Entrevinhas e rodeia pelo sul o Casal Dr. Meira de Carvalho e o Casal do Alto até à estrada municipal de Algueirão-Rio de Mouro, a sul do Bairro dos Três Amigos. Daqui encaminha-se pelo lado poente da referida estrada, até ao portão da entrada da Quinta da Tapada, continuando junto do muro, pelo lado sul, até à passagem de nível das Mercês e daí, pela estrada municipal, até ao marco divisório das freguesias de Rio de Mouro e S. Pedro, em Casais de Mem Martins. Avança pelos limites destas freguesias até ao marco divisório n.º 47, situado a nascente do Casal Pascoalino, em Mem Martins, e, contornando-o pelo nascente, prossegue pelo caminho vicinal até ao Casal Sequeira, torneando este pelo nascente, norte e poente; daqui progride pelos limites das freguesias de Rio de Mouro e S. Pedro até ao marco divisório n.º 44, junto da estrada nacional n.º 249, ao quilómetro 14, seguindo pelo lado norte da mesma estrada até ao ponto de partida.
+Art. 2.º Os limites da freguesia de Algueirão-Mem Martins são definidos por uma linha que, partindo da bifurcação da estrada municipal ao quilómetro 14,700 da estrada nacional n.º 249, continua para poente pela estrada municipal, até ao canto do lado poente da Quinta A Nossa Pousada; daqui segue, em linha recta, até ao canto poente do Casal da Carvalheira, rodeando, pelo nascente e norte, o Casal de S. José; sobe a serra de Ouressa e contorna pelo poente e norte este casal, até ao marco divisório das freguesias de S. Pedro e Santa Maria, junto da linha do caminho de ferro Lisboa-Sintra; continua pelos limites das mesmas freguesias até Sacotes, seguindo depois pelo caminho adjacente ao Casal de A dos Rolhados, até estrada nacional n.º 250, nos limites das freguesias de Santa Maria e Montelavar. Prosseguindo pelos limites destas freguesias até à linha do caminho de ferro do Oeste e pelo lado poente dessa linha até à passagem de nível de Meleças, continua pelo caminho de Entrevinhas e rodeia pelo sul o Casal Dr. Meira de Carvalho e o Casal do Alto até à estrada municipal de Algueirão-Rio de Mouro, a sul do Bairro dos Três Amigos. Daqui encaminha-se pelo lado poente da referida estrada, até ao portão da entrada da Quinta da Tapada, continuando junto do muro, pelo lado sul, até à passagem de nível das Mercês e daí, pela estrada municipal, até ao marco divisório das freguesias de Rio de Mouro e S. Pedro, em Casais de Mem Martins. Avança pelos limites destas freguesias até ao marco divisório n.º 47, situado a nascente do Casal Pascoalino, em Mem Martins, e, contornando-o pelo nascente, prossegue pelo caminho vicinal até ao Casal Sequeira, torneando este pelo nascente, norte e poente; daqui progride pelos limites das freguesias de Rio de Mouro e S. Pedro até ao marco divisório n.º 44, junto da estrada nacional n.º 249, ao quilómetro 14, seguindo pelo lado norte da mesma estrada até ao ponto de partida.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Algueirão-Mem Martins realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Sintra e serão eleitores os chefes de família da respectiva área inscritos nos recenseamentos eleitorais das freguesias de S. Pedro, Santa Maria e Rio de Mouro.
+Art. 3.º A eleição da Junta de Freguesia de Algueirão-Mem Martins realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Sintra e serão eleitores os chefes de família da respectiva área inscritos nos recenseamentos eleitorais das freguesias de S. Pedro, Santa Maria e Rio de Mouro.
 
-###### Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara de Sintra.
+Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara de Sintra.
 
-###### Art. 5.º A Câmara Municipal de Sintra procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+Art. 5.º A Câmara Municipal de Sintra procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

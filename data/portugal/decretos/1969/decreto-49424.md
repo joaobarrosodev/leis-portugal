@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49424-1969-217490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d68ae11480d4899b6914554c24c1a4a4a67f93b75afcb2df67080169a2a9dc25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67c85679b0be70ea11dd340c716150301341ee25452c90d996bea66bd7df47b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256576:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:41Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +101,12 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Fica autorizada a Comissão Administrativa de Obras da Santa Casa da Misericórdia de Lisboa a despender, durante o ano de 1970, em pagamentos relativos às obras de construção do prédio da Rua do Tenente Espanca, 27, nos termos do contrato celebrado com a firma Ferreiras & Cunha, Lda., a importância que se apurar como saldo, no fecho da respectiva conta, no final do corrente ano económico.
+Artigo único. Fica autorizada a Comissão Administrativa de Obras da Santa Casa da Misericórdia de Lisboa a despender, durante o ano de 1970, em pagamentos relativos às obras de construção do prédio da Rua do Tenente Espanca, 27, nos termos do contrato celebrado com a firma Ferreiras & Cunha, Lda., a importância que se apurar como saldo, no fecho da respectiva conta, no final do corrente ano económico.
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 19 de Novembro de 1969.**
+Promulgado em 19 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

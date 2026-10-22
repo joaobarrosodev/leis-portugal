@@ -49,40 +49,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/45-1985-171570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f32d8ad47cb67b7ec4d9a2624950a0fda74e5a53242a8edefe4e01173358da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92a778c7bbf2cefecbaaba2f6925a2765fd8ad6fac8934fa6dc4a012b339cdad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Portugal
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:618942:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:618942:por
+  label: "Substituída a Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde aprovada\
+    \ pelo presente diploma pelo DEC.2/2005.04.02.2005.MNE, DR.IS-A [25] de 04.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-2005-618942
+  date: '2005-02-04'
 article_structure:
-  article_count: 1
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:26Z'
   warnings: []
   errors: []
 ---
@@ -93,21 +103,21 @@ de 6 de Novembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada para ratificação a Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde, assinada em Lisboa em 17 de Dezembro de 1981, cujo texto se publica em anexo.
+Artigo 1.º É aprovada para ratificação a Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde, assinada em Lisboa em 17 de Dezembro de 1981, cujo texto se publica em anexo.
 
-###### Art. 2.º É aprovado o Acordo Administrativo Geral Relativo às Modalidades de Aplicação da Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde, assinado na cidade da Praia em 5 de Junho de 1985, cujo texto se publica em anexo.
+Art. 2.º É aprovado o Acordo Administrativo Geral Relativo às Modalidades de Aplicação da Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde, assinado na cidade da Praia em 5 de Junho de 1985, cujo texto se publica em anexo.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - António Manuel Maldonado Gonelha.
 
-**Assinado em 8 de Outubro de 1985.**
+Assinado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE
 
@@ -119,11 +129,11 @@ Dando cumprimento ao artigo 5.º, n.º 1, do Acordo Geral sobre Migração entre
 
 resolveram concluir uma convenção sobre segurança social com vista a coordenar a aplicação das legislações de segurança social portuguesa e cabo-verdiana aos seus nacionais, pelo que acordaram nas seguintes disposições:
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Definições)
 
@@ -161,7 +171,7 @@ n) O termo «períodos equiparados» designa os períodos equiparados aos perío
 
 o) Os termos «prestações» e «pensões» designam as prestações, pensões, incluindo todos os elementos a cargo dos fundos públicos que completem ou possam completar as prestações e pensões de segurança social previstas na Convenção, assim como as melhorias, subsídios de actualização ou subsídios suplementares, e as prestações em capital que possam substituir as pensões.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Campo de aplicação material)
 
@@ -199,7 +209,7 @@ a) Aos regimes de segurança social aplicáveis aos trabalhadores da função p�
 
 b) Aos regimes dos cooperantes estabelecidos em legislação ou acordos especiais.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Campo de aplicação pessoal. Igualdade de tratamento)
 
@@ -211,7 +221,7 @@ Para interpretação do termo «salariado», no sentido da presente Convenção 
 
 § 3 - Os nacionais portugueses ou cabo-verdianos residentes em Cabo Verde ou em Portugal podem ser admitidos ao seguro voluntário ou facultativo continuado das legislações enumeradas no artigo 2.º nas mesmas condições que os nacionais do país em que residem, tomados em conta, eventualmente, os períodos de seguro em Portugal e em Cabo Verde.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Exportação das prestações)
 
@@ -219,7 +229,7 @@ Para interpretação do termo «salariado», no sentido da presente Convenção 
 
 § 2 - As prestações de segurança social de uma das Partes Contratantes são pagas aos nacionais da outra Parte Contratante que residam no território de terceiro Estado nas mesmas condições e na mesma medida em que o seriam se se tratasse de nacionais da primeira Parte residentes no território desse terceiro Estado.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Cúmulo de prestações)
 
@@ -227,17 +237,17 @@ Para interpretação do termo «salariado», no sentido da presente Convenção 
 
 § 2 - As cláusulas de redução ou suspensão previstas pela legislação de uma Parte Contratante, no caso de acumulação de uma prestação com outras prestações de segurança social ou com outros rendimentos ou pelo facto do exercício de um emprego, são oponíveis ao beneficiário, ainda que hajam sido as prestações adquiridas ao abrigo de um regime da outra Parte Contratante ou os rendimentos obtidos ou o emprego exercido no território da outra Parte Contratante.
 
-## TÍTULO II
+TÍTULO II
 
 Disposições determinativas da legislação aplicável
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Regra geral)
 
 Sob reserva das disposições do presente título, os trabalhadores ocupados no território de uma das Partes Contratantes estão sujeitos à legislação dessa Parte, mesmo que sejam considerados como residentes no território da outra Parte ou neste se encontre a entidade patronal ou a sede da empresa que os ocupa.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Excepções)
 
@@ -247,25 +257,25 @@ a) Os trabalhadores salariados ou equiparados que tenham residência no territó
 
 b) Os trabalhadores salariados ou equiparados ocupados na qualidade de pessoal ambulante ou tripulante ao serviço de uma empresa que efectue, por conta de outrem ou por sua própria conta, transporte de passageiros ou de mercadorias, por caminho de ferro, estrada, via aérea ou navegação, e tenha a sede no território de uma das Partes Contratantes estão sujeitos à legislação da Parte Contratante em cujo território a empresa tem a sede; todavia, se a empresa possuir no território da outra Parte Contratante uma sucursal ou representação permanente, os trabalhadores ocupados por esta, com carácter fixo, estão sujeitos à legislação da Parte em cujo território se encontre a sucursal ou a representação permanente.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Normas excepcionais)
 
 As autoridades competentes das Partes Contratantes podem prever de comum acordo, para certos trabalhadores ou grupos de trabalhadores, excepções às disposições dos artigos 6.º e 7.º da presente Convenção.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições particulares relativas às diferentes categorias de prestações
 
 ### CAPÍTULO I — Doença e maternidade
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Totalização dos períodos de seguro)
 
 Para a aquisição, conservação ou recuperação do direito às prestações, quando um trabalhador tenha estado sujeito sucessiva ou alternadamente à legislação das duas Partes Contratantes, os períodos de seguro e os períodos equiparados cumpridos ao abrigo da legislação de cada uma das Partes Contratantes são totalizados desde que não se sobreponham.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Residência fora do país da instituição competente)
 
@@ -275,7 +285,7 @@ Para a aquisição, conservação ou recuperação do direito às prestações, 
 
 § 3 - Os §§ 1 e 2 do presente artigo são aplicáveis aos familiares dos segurados nas mesmas condições.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Deslocação temporária)
 
@@ -283,7 +293,7 @@ Para a aquisição, conservação ou recuperação do direito às prestações, 
 
 § 2 - O § 1 do presente artigo é aplicável aos familiares dos segurados nas mesmas condições.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Transferência de residência)
 
@@ -295,7 +305,7 @@ b) Hajam obtido autorização prévia da instituição que se encontrava a garan
 
 § 2 - O disposto no parágrafo anterior é aplicável, nas mesmas condições, aos familiares dos segurados.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Concessão das prestações)
 
@@ -303,19 +313,19 @@ b) Hajam obtido autorização prévia da instituição que se encontrava a garan
 
 § 2 - Nos casos previstos nos artigos 10.º, 11.º e 12.º, a concessão das prestações pecuniárias é assegurada pela instituição competente, segundo as disposições da legislação aplicável à referida instituição, tendo em conta, eventualmente, o disposto no artigo 9.º Estas prestações podem ser concedidas por intermédio da instituição do lugar de residência por conta da instituição competente, segundo as modalidades a fixar em acordo administrativo.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Cumulação do direito às prestações em espécie - Maternidade)
 
 Na caso de a aplicação do presente capítulo poder conferir a um segurado ou a um membro de sua família o direito ao benefício das prestações em espécie de maternidade ao abrigo das legislações das duas Partes Contratantes, será aplicável a legislação da Parte em cujo território ocorreu o nascimento.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Encargo de prestações)
 
 Nos casos previstos nos artigos 10.º, 11.º e 12.º, o encargo das prestações compete à instituição competente. O acordo administrativo estabelecerá as modalidades segundo as quais as prestações em espécie são reembolsadas pela instituição competente à instituição do lugar de residência ou de estada.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Prestações em espécie de grande montante)
 
@@ -323,7 +333,7 @@ Nas situações para as quais vier a ser fixado um regime financeiro de reembols
 
 ### CAPÍTULO II — Invalidez, velhice e morte
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Totalização dos períodos de seguro)
 
@@ -335,7 +345,7 @@ Nas situações para as quais vier a ser fixado um regime financeiro de reembols
 
 § 4 - A data e as modalidades de aplicação do disposto no presente artigo no que diz respeito à pensão de sobrevivência serão fixadas por um acordo administrativo.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Totalização de outros períodos de seguro)
 
@@ -343,7 +353,7 @@ Os períodos de seguro ou períodos equiparados cumpridos por segurados ao abrig
 
 O mesmo se observará relativamente aos períodos de seguro cumpridos no território de um terceiro Estado quando sejam tomados em consideração ao abrigo de um regime de uma Parte Contratante.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Cálculo e liquidação das pensões)
 
@@ -351,7 +361,7 @@ O mesmo se observará relativamente aos períodos de seguro cumpridos no territ�
 
 § 2 - Se a soma das pensões portuguesa e cabo-verdiana não atingir o montante mínimo garantido pela legislação portuguesa, o segurado ou os seus sobreviventes têm direito a um complemento igual à diferença, a cargo da instituição competente portuguesa. Este complemento apenas será pago em território português.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Modalidades de aplicação)
 
@@ -359,7 +369,7 @@ As modalidades de aplicação dos artigos 18.º e 19.º podem ser objecto de um 
 
 ### CAPÍTULO III — Pensão social prevista na legislação portuguesa
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Indagação de recursos)
 
@@ -371,7 +381,7 @@ b) Avaliar os bens que os requerentes possuam em Cabo Verde.
 
 Os pedidos apresentados para este efeito pelas instituições devedoras portuguesas são dirigidos ao organismo de ligação cabo-verdiano.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Não exportação de pensão)
 
@@ -379,7 +389,7 @@ A pensão social atribuída aos nacionais cabo-verdianos cessa de ser concedida 
 
 ### Capítulo IV — Acidentes de trabalho e doenças profissionais
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Transferência de residência)
 
@@ -389,7 +399,7 @@ Esta autorização só é válida durante o período fixado pela instituição c
 
 Se, no final do prazo assim fixado, o estado da vítima o exigir, o prazo será prorrogado até à cura ou à consolidação efectiva da lesão, por decisão da instituição competente, após parecer favorável da sua inspecção médica.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Recaída)
 
@@ -397,7 +407,7 @@ Se, no final do prazo assim fixado, o estado da vítima o exigir, o prazo será 
 
 § 2 - O direito é apreciado face à legislação aplicável pela instituição competente à data do acidente ou da primeira verificação da doença profissional.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Concessão das prestações de incapacidade temporária)
 
@@ -407,7 +417,7 @@ A concessão das prestações em espécie é assegurada pela instituição do lu
 
 A concessão das prestações pecuniárias é assegurada pela instituição competente, de acordo com a legislação que lhe for aplicável.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Encargo das prestações de incapacidade temporária)
 
@@ -415,25 +425,25 @@ Nos casos previstos nos artigos 23.º e 24.º o encargo das prestações incumbe
 
 O acordo administrativo fixa as modalidades segundo as quais as prestações em espécie são reembolsadas pela instituição competente à instituição do lugar da nova residência do trabalhador.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Prestações em espécie de grande montante)
 
 Nos casos previstos nos artigos 23.º e 24.º a concessão de próteses, de grande aparelhagem e de outras prestações em espécie de grande montante que constam da lista anexa ao acordo administrativo está subordinada, salvo em caso de urgência, à autorização da instituição competente.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Designação da instituição competente)
 
 Para a aplicação dos artigos 23.º a 27.º inclusive, o acordo administrativo designa as instituições portuguesa e cabo-verdiana encarregadas de desempenhar as funções de instituição competente para efeito daquelas disposições.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Acidentes sucessivos)
 
 Para avaliar o grau de incapacidade permanente resultante de um acidente de trabalho ou de uma doença profissional face à legislação de uma Parte, os acidentes de trabalho ou as doenças profissionais ocorridos anteriormente a coberto da legislação da outra Parte são tomados em consideração como se tivessem ocorrido ao abrigo da legislação da primeira Parte.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Doenças profissionais)
 
@@ -445,7 +455,7 @@ Para avaliar o grau de incapacidade permanente resultante de um acidente de trab
 
 § 4 - Em caso de silicose (pneumoconiose esclerógena), o encargo das prestações é repartido entre as instituições competentes das duas Partes, de acordo com as modalidades estabelecidas por acordo administrativo.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Agravamento da doença profissional)
 
@@ -461,7 +471,7 @@ A instituição da outra Parte toma a seu cargo o suplemento da prestação corr
 
 ### CAPÍTULO V — Desemprego
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 § 1 - O trabalhador salariado ou equiparado que se desloque do território de uma das Partes Contratantes para o território da outra tem direito, durante a sua permanência neste último território, depois de aí ter estado ocupado, às prestações de desemprego previstas pela legislação desta Parte, sob condição de satisfazer as prescrições da legislação desta Parte, tomando-se em conta a totalização dos períodos que abrem direito às prestações de desemprego em cada território.
 
@@ -469,13 +479,13 @@ A instituição da outra Parte toma a seu cargo o suplemento da prestação corr
 
 ### CAPÍTULO VI — Prestações familiares
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Totalização dos períodos de seguro)
 
 Quando, para a abertura do direito às prestações familiares, o trabalhador não justifica todo o período de seguro exigido pela legislação do novo país de emprego, é tomado em conta, para o completar, o período de seguro cumprido no outro país.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Concessão de prestações)
 
@@ -487,17 +497,17 @@ Quando, para a abertura do direito às prestações familiares, o trabalhador n�
 
 § 4 - Se as prestações familiares não forem destinadas ao sustento dos descendentes pela pessoa que a elas tem direito, a instituição competente concede as referidas prestações, com efeito liberatório, à pessoa física ou moral que efectivamente tem a seu cargo os descendentes, a pedido e por intermédio da instituição do lugar de residência dos descendentes.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Não cumulação)
 
 O direito às prestações familiares devidas ao abrigo da legislação da Parte Contratante em cujo território não resida o descendente é suspenso quando, no decurso de um mesmo período e relativamente ao mesmo descendente, sejam igualmente devidas prestações ao abrigo da legislação da Parte Contratante em cujo território o descendente reside ou recebe educação.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições diversas
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Cooperação administrativa)
 
@@ -505,7 +515,7 @@ Disposições diversas
 
 § 2 - Com este mesmo fim de aplicação da Convenção, as autoridades e as instituições prestarão mutuamente os seus bons ofícios e actuarão como se tratasse da aplicação da sua própria legislação.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Cobrança de quotizações no outro país)
 
@@ -513,7 +523,7 @@ Disposições diversas
 
 § 2 - As modalidades de aplicação do presente artigo podem ser objecto de acordos administrativos entre as autoridades competentes.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Sub-rogação e acção directa)
 
@@ -523,7 +533,7 @@ a) Quando a instituição devedora esteja sub-rogada, ao abrigo da legislação 
 
 b) Quando a instituição devedora tenha direito de acção directa contra o terceiro, cada Parte Contratante reconhece esse direito.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Isenções de taxas e dispensa do visto)
 
@@ -531,13 +541,13 @@ b) Quando a instituição devedora tenha direito de acção directa contra o ter
 
 § 2 - Todos os actos, documentos e quaisquer papéis a produzir para execução da presente Convenção são dispensados do visto de legalização das autoridades diplomáticas e consulares e dos direitos de chancelaria.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Recursos)
 
 As petições, declarações ou recursos que deveriam ter sido apresentados para fins de aplicação da legislação de uma das Partes Contratantes, em determinado prazo junto de uma autoridade, de uma instituição ou de um outro organismo da mesma Parte, são considerados em condições de serem recebidos se forem apresentados no mesmo prazo junto de uma autoridade, uma instituição ou outro organismo correspondente da outra Parte. Neste caso, a autoridade, a instituição ou o organismo que tenha recebido tais documentos transmite sem demora essas petições, declarações ou recursos à autoridade, instituição ou organismo competente da primeira Parte, quer directamente, quer por intermédio das autoridades competentes das duas Partes.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Moeda e taxa de câmbio)
 
@@ -545,7 +555,7 @@ As petições, declarações ou recursos que deveriam ter sido apresentados para
 
 § 2 - As transferências de numerário resultantes da execução da presente Convenção efectuar-se-ão em conformidade com os acordos em vigor nessa matéria entre as duas Partes no momento da transferência.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Resolução dos conflitos)
 
@@ -555,7 +565,7 @@ As petições, declarações ou recursos que deveriam ter sido apresentados para
 
 A comissão arbitral deverá resolver o conflito de harmonia com os princípios fundamentais e o espírito da presente Convenção. As decisões por ela tomadas serão obrigatórias e definitivas.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Compensações de adiantamentos)
 
@@ -563,7 +573,7 @@ A comissão arbitral deverá resolver o conflito de harmonia com os princípios 
 
 § 2 - Quando o titular tenha sido admitido ao benefício da assistência de uma Parte Contratante no decurso de um período em relação ao qual tenha direito a prestações pecuniárias, os montantes de tais prestações são reduzidos pela instituição devedora a pedido da instituição de assistência e por conta desta, até à concorrência do montante dos subsídios pagos a título de assistência.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Cessão e penhora)
 
@@ -571,17 +581,17 @@ A comissão arbitral deverá resolver o conflito de harmonia com os princípios 
 
 § 2 - A instituição pagadora substitui-se, nas hipóteses que precedem, à instituição competente em todos os processos administrativos ou judiciais.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Organismos de ligação)
 
 Os organismos de ligação, suas atribuições e competências serão definidos por acordo administrativo.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições transitórias e finais
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 § 1 - A presente Convenção não abre direito algum ao pagamento de prestações por período que anteceda a data da sua entrada em vigor, sem prejuízo das disposições mais favoráveis da legislação nacional.
 
@@ -595,21 +605,21 @@ Havendo o pedido sido apresentado após a expiração desse prazo, o direito às
 
 § 5 - As autoridades competentes das Partes Contratantes poderão regular o acordo complementar, tendo em conta os princípios definidos nos parágrafos anteriores e sua aplicação a situações de eventual complexidade e diversidade.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 A presente Convenção terá a duração de 1 ano. Será renovada tacitamente por períodos de 1 ano, salvo denúncia, que deverá ser notificada 90 dias antes do termo do prazo.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 § 1 - No caso de denúncia da presente Convenção, todos os direitos adquiridos em aplicação das suas disposições serão mantidos.
 
 § 2 - Os direitos em curso de aquisição relativos aos períodos cumpridos anteriormente à data em que a denúncia se tiver efectuado não se extinguem pelo facto da denúncia; a sua conservação será determinada de comum acordo em relação ao período posterior ou, na falta de tal acordo, pela legislação própria da instituição interessada.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 A presente Convenção será ratificada e proceder-se-á à troca de ratificações logo que possível.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 A presente Convenção entrará em vigor no primeiro dia do segundo mês seguinte àquele em cujo decurso os instrumentos de ratificação tiverem sido trocados.
 
@@ -623,15 +633,15 @@ ACORDO ADMINISTRATIVO GERAL RELATIVO ÀS MODALIDADES DE APLICAÇÃO DA CONVENÇ�
 
 Para aplicação da Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde, assinada em 17 de Dezembro de 1981, a seguir designada pelo termo «Convenção», as autoridades competentes portuguesas e cabo-verdianas estabelecem, de comum acordo, as seguintes disposições:
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para os fins de aplicação do presente Acordo, os termos definidos no artigo 1.º da Convenção têm o significado que lhes é atribuído no referido artigo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 § 1 - Nos casos previstos na primeira parte da alínea a) do artigo 7.º da Convenção, a instituição de segurança social em que o trabalhador esteja inscrito envia à entidade patronal ou ao trabalhador, a seu pedido, um certificado comprovativo de que ele continua sujeito à legislação aplicada pela referida instituição.
 
@@ -639,19 +649,19 @@ Para os fins de aplicação do presente Acordo, os termos definidos no artigo 1.
 
 § 3 - Nos casos previstos na segunda parte da alínea a) do artigo 7.º da Convenção, a entidade patronal envia antes do termo do primeiro período de 24 meses um pedido de prorrogação de destacamento à instituição que passou o certificado inicial; esta última solicita o acordo da autoridade competente do país do lugar de trabalho temporário, por intermédio do organismo de ligação deste país; obtido esse acordo, passa um segundo certificado.
 
-## TÍTULO II
+TÍTULO II
 
 Disposições particulares
 
 ### CAPÍTULO I — Doença e maternidade
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 § 1 - Para beneficiar do disposto no artigo 9.º da Convenção, o trabalhador apresenta à instituição competente da Parte Contratante para cujo território se deslocou um atestado em que se mencionam os períodos de seguro cumpridos ao abrigo da legislação da outra Parte a que esteve sujeito anteriormente.
 
 § 2 - O atestado é passado, a pedido do trabalhador, pela instituição de segurança social do país em que o trabalhador esteve inscrito em último lugar antes da sua saída para o outro país. Se o trabalhador não apresentar o atestado, a instituição competente do país de novo lugar de trabalho dirige-se à mencionada instituição do outro país para o obter.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 § 1 - Para beneficiar das prestações em espécie em conformidade com o disposto nos §§ 1 e 3 do artigo 10.º da Convenção, o segurado bem como os familiares inscrevem-se junto da instituição do lugar de residência, apresentando um atestado comprovativo de que têm direito a essas prestações. Este atestado é passado pela instituição competente. Se o segurado ou os seus familiares não apresentarem o atestado, a instituição do lugar de residência dirige-se à instituição competente para o obter.
 
@@ -665,7 +675,7 @@ Disposições particulares
 
 § 6 - A instituição do lugar de residência presta os seus bons ofícios à instituição competente, com vista a proceder contra o beneficiário que indevidamente tenha obtido prestações.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 § 1 - Para beneficiar das prestações em espécie em conformidade com o disposto no § 1 do artigo 11.º da Convenção, o segurado apresenta à instituição do lugar de estada um atestado passado pela instituição competente, se possível antes de deixar o país da instituição competente, provando que tem direito às prestações acima referidas. Este atestado indica, designadamente, o período durante o qual as prestações podem ser concedidas. Se o segurado não apresentar o atestado, a instituição do lugar de estada dirige-se à instituição competente para o obter.
 
@@ -673,17 +683,17 @@ Disposições particulares
 
 § 3 - No caso de hospitalização, a instituição do lugar de estada notifica à instituição competente, no prazo de 3 dias a contar daquele em que teve conhecimento da ocorrência, a data de entrada no hospital ou na clínica e a duração provável do internamento; aquando da alta do hospital ou da clínica, a instituição do lugar de estada notifica, em igual prazo, a instituição competente da data da alta.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 § 1 - Para conservar o benefício das prestações em espécie em conformidade com o disposto nos §§ 1 e 2 do artigo 12.º da Convenção, o segurado ou os seus familiares apresentam à instituição do lugar da sua nova residência um atestado mediante o qual a instituição competente os autoriza a conservar o benefício das prestações após a transferência da sua residência. A referida instituição indica, eventualmente, nesse atestado a duração máxima da concessão das prestações em espécie tal como está previsto na legislação por ela aplicada. A instituição competente pode passar o atestado, após a transferência de residência do segurado ou dos seus familiares, a pedido destes ou da instituição do lugar da nova residência, quando aquele documento não puder ser passado anteriormente por razões válidas.
 
 § 2 - No que diz respeito às prestações em espécie concedidas pela instituição do lugar da nova residência, as disposições do § 3 do artigo 5.º do presente Acordo são aplicáveis por analogia.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 O segurado que faz valer direito às prestações pecuniárias do seguro de doença ao abrigo da legislação de uma Parte Contratante por incapacidade de trabalho ocorrida quando se encontra no território da outra Parte apresenta imediatamente o seu pedido junto da instituição do lugar de residência ou de estada, conforme o caso, juntando um certificado médico passado pelo médico assistente. Este certificado indica a data inicial da incapacidade de trabalho, assim como o diagnóstico e o prognóstico.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 § 1 - Nos casos previstos no artigo 7.º do presente Acordo, a instituição do lugar de residência ou de estada, conforme o caso, faz examinar, sem demora, o interessado pelos serviços médicos competentes. O relatório, efectuado para este efeito no prazo de 3 dias a contar da data do exame, é enviado sem demora à instituição competente, com a informação relativa à apresentação do pedido de prestações. Esta informação comporta, designadamente, a data da apresentação do pedido, assim como o nome e morada da entidade patronal.
 
@@ -693,7 +703,7 @@ O segurado que faz valer direito às prestações pecuniárias do seguro de doen
 
 § 4 - Quando a instituição competente decide recusar ou suprimir as prestações pecuniárias, notifica a sua decisão directamente ao segurado, enviando simultaneamente cópia dessa notificação à instituição do lugar de residência ou de estada. Neste caso, esta última instituição suspende as medidas de inspecção.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 § 1 - O segurado residente ou em estada temporária no país que não é o país competente está sujeito às normas de inspecção da instituição do lugar de residência ou de estada, conforme o caso.
 
@@ -701,7 +711,7 @@ O segurado que faz valer direito às prestações pecuniárias do seguro de doen
 
 § 3 - Quando o segurado sob tratamento médico queira deslocar-se ao país da instituição competente, informa a instituição do lugar de residência ou de estada, conforme o caso. Esta instituição faz determinar pelos serviços médicos competentes se a deslocação é de natureza a comprometer o estado de saúde ou a aplicação do tratamento médico do segurado. A instituição do lugar de residência ou de estada comunica, logo que possível, o parecer dos serviços médicos competentes à instituição competente e ao segurado.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 § 1 - As despesas resultantes das prestações em espécie outorgadas nos termos dos artigos 10.º, 11.º e 12.º da Convenção serão reembolsadas pelas instituições competentes às instituições que concederam as prestações, com base em montantes convencionais a estabelecer para cada ano civil.
 
@@ -715,7 +725,7 @@ b) Nos casos previstos no artigo 11.º da Convenção, multiplicando o duodécim
 
 § 4 - O custo médio anual dos cuidados de saúde por pessoa obtém-se dividindo o montante global das despesas com os cuidados de saúde prestados em cada país pelo número total das pessoas que a eles tenham direito.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 § 1 - Os reembolsos previstos no artigo 10.º, do presente Acordo, bem como as comunicações necessárias para o efeito, são efectuados por intermédio dos organismos de ligação das Partes contratantes.
 
@@ -725,7 +735,7 @@ b) Nos casos previstos no artigo 11.º da Convenção, multiplicando o duodécim
 
 ### CAPÍTULO 2 — Invalidez, velhice e morte
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 § 1 - O segurado ou o sobrevivente de um segurado residente em Portugal ou em Cabo Verde que solicite o benefício de uma prestação ao abrigo da legislação do outro país envia o seu pedido ao organismo de ligação do país de residência, conforme as modalidades determinadas pela legislação deste país.
 
@@ -735,7 +745,7 @@ b) Nos casos previstos no artigo 11.º da Convenção, multiplicando o duodécim
 
 § 4 - A instituição que tenha recebido um pedido e não seja uma das referidas nos §§ 1 ou 2 deste artigo deve imediatamente transmitir o pedido à instituição interessada nos referidos parágrafos, indicando a data de apresentação do pedido. Esta data é considerada como a data de apresentação junto da última instituição.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 § 1 - Para a instrução dos pedidos de prestações, a instituição que receber o pedido utiliza um formulário de ligação, que, seguidamente, é enviado em duplicado à instituição competente do outro país, juntamente com o pedido apresentado em conformidade com o disposto no artigo 12.º do presente Acordo.
 
@@ -745,7 +755,7 @@ b) Nos casos previstos no artigo 11.º da Convenção, multiplicando o duodécim
 
 Os pedidos de pensão de sobrevivência ao abrigo da legislação portuguesa apresentados a uma instituição cabo-verdiana, nos termos previstos no artigo 12.º, devem ser remetidos à instituição competente portuguesa acompanhados dos documentos necessários à sua instrução.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 § 1 - A instituição competente do país de residência indica, no formulário previsto no artigo 13.º do presente Acordo, os períodos de seguro cumpridos ao abrigo da legislação por ela aplicada, bem como os direitos decorrentes desses períodos. Nos casos de pedidos de prestações de invalidez, a mesma instituição deve juntar ao formulário de ligação um relatório médico indicando o início, a causa e o grau de invalidez do requerente, assim como as medidas possíveis com vista à recuperação da sua capacidade de ganho.
 
@@ -753,17 +763,17 @@ Os pedidos de pensão de sobrevivência ao abrigo da legislação portuguesa apr
 
 § 3 - Após a recepção da cópia do formulário de ligação, a instituição competente do país de residência, tendo determinado o direito às prestações, recorrendo, se necessário, à totalização dos períodos creditados ao abrigo da legislação das duas Partes, comunica a sua decisão à instituição competente do outro país.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Cada instituição calcula as prestações segundo as respectivas disposições legais e notifica ao interessado a sua decisão com indicação das vias e prazos de recurso, transmitindo ao mesmo tempo uma cópia à instituição competente da outra Parte.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Para aplicação do disposto no § 2 do artigo 19.º da Convenção, a conversão dos montantes apresentados em diferentes moedas nacionais é efectuada ao câmbio oficial válido na data em que a mesma disposição deva ser aplicada.
 
 ### CAPÍTULO 3 — Pensão social prevista na legislação portuguesa
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 § 1 - Para efeitos da atribuição da pensão social em conformidade com o disposto no artigo 21.º da Convenção, a instituição competente portuguesa dá conhecimento do pedido de pensão ao organismo de ligação cabo-verdiano, solicitando informações necessárias para a sua concessão nos termos da legislação portuguesa aplicável.
 
@@ -771,7 +781,7 @@ Para aplicação do disposto no § 2 do artigo 19.º da Convenção, a conversã
 
 ### CAPÍTULO 4 — Acidentes de trabalho e doenças profissionais
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 § 1 - Para beneficiar das prestações em conformidade com o disposto na parte final do artigo 23.º e do artigo 24.º da Convenção, o trabalhador deve apresentar o pedido, acompanhado dos documentos médicos justificativos, à instituição do país de residência.
 
@@ -781,11 +791,11 @@ Para aplicação do disposto no § 2 do artigo 19.º da Convenção, a conversã
 
 § 4 - A notificação prevista no precedente § 3 menciona obrigatoriamente a duração da prorrogação da concessão e a natureza das prestações. No caso de recusa, a notificação indica o motivo da mesma, assim como as vias e prazos de recurso de que dispõe o trabalhador.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Para efeitos do disposto no artigo 28.º da Convenção, são designados, do lado português, a Caixa Nacional de Seguros de Doenças Profissionais e, do lado cabo-verdiano, o Instituto de Seguros e Previdência Social.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 § 1 - O trabalhador ou o sobrevivente de um trabalhador que solicite o benefício de uma prestação de acidente de trabalho ou de doença profissional apresenta o seu pedido à instituição competente do país sob cuja legislação ocorreu o acidente de trabalho ou foi verificada a doença profissional, quer directamente, quer por intermédio da instituição do país de residência, a qual o transmite à instituição competente.
 
@@ -793,17 +803,17 @@ Para efeitos do disposto no artigo 28.º da Convenção, são designados, do lad
 
 § 3 - A mesma instituição notifica directamente o requerente da sua decisão, indicando as vias e prazos de recurso previstos pela legislação aplicável.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 § 1 - Para efeitos de apreciação do grau de incapacidade permanente, no caso previsto no artigo 29.º da Convenção, o trabalhador é obrigado a prestar à instituição competente todas as informações relativas aos acidentes de trabalho ou às doenças profissionais ocorridos ou verificados anteriormente sob a legislação do outro país, seja qual for o grau de incapacidade deles resultante.
 
 § 2 - As informações referidas no parágrafo anterior deverão, sempre que possível, ser confirmadas pela instituição, do país onde ocorreu o acidente ou foi verificada a doença profissional.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 No caso previsto no § 1 do artigo 30.º da Convenção, a declaração de doença profissional é enviada à instituição competente do país em cujo território a vítima exerceu em último lugar o emprego susceptível de provocar a doença profissional em causa ou à instituição do país de residência, que a transmitirá, sem demora, à instituição competente do outro país.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 § 1 - No caso de a instituição competente do país em cujo território a vítima exerceu em último lugar o emprego susceptível de provocar a doença profissional em causa verificar que a vítima ou os seus sobreviventes, tendo-se em conta o disposto nos §§ 2 e 3 do artigo 30.º da Convenção, não satisfazem às condições da legislação que lhes é aplicável, essa instituição:
 
@@ -813,11 +823,11 @@ b) Notifica simultaneamente o interessado da sua decisão de rejeição, na qual
 
 § 2 - No caso de se ter interposto recurso contra decisão de rejeição da instituição competente do país em cujo território a vítima exerceu em último lugar o emprego susceptível de provocar a doença profissional em causa, a instituição recorrida é obrigada a informar desse facto a instituição do outro país e a comunicar-lhe a decisão definitiva.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 No caso previsto no § 4 do artigo 30.º da Convenção, as instituições competentes das duas Partes liquidarão as prestações proporcionalmente aos períodos do seguro de velhice cumpridos nas duas Partes, ressalvando-se, porém, que as prestações em espécie ficarão a cargo do país de residência.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 § 1 - Para aplicação do artigo 31.º da Convenção, o trabalhador é obrigado a prestar à instituição competente do país da sua nova residência as informações necessárias relativas às prestações anteriormente liquidadas para a reparação da doença profissional em causa. Se a referida instituição o julgar conveniente, pode dirigir-se à instituição que concedeu as prestações ao interessado, a fim de obter quaisquer informações a seu respeito.
 
@@ -827,19 +837,19 @@ No caso previsto no § 4 do artigo 30.º da Convenção, as instituições compe
 
 ### CAPÍTULO 5 — Prestações familiares
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Para beneficiar do disposto no artigo 34.º da Convenção, o interessado deve apresentar à instituição competente um pedido instruído com a prova de parentesco dos descendentes que residem ou recebem educação no território do outro país.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 As prestações familiares são pagas segundo as modalidades e nos prazos previstos pela legislação aplicável.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições diversas
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 § 1 - Para totalização dos períodos de seguro cumpridos ao abrigo das legislações dos dois países, prevista na Convenção, as instituições competentes aplicam as seguintes regras:
 
@@ -853,41 +863,41 @@ d) No caso de não poder ser determinada de maneira precisa a época em que cert
 
 § 2 - Se, nos termos da alínea a) do § 1 do presente artigo, não foram tomados em consideração períodos de seguro cumpridos em seguro voluntário ou facultativo em conformidade com a legislação de uma Parte, em matéria de seguro de invalidez-velhice-morte (pensões), as quotizações relativas a esses períodos são consideradas como destinadas a melhorar as prestações devidas nos termos da referida legislação.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 § 1 - A inspecção administrativa e médica dos requerentes ou beneficiários de prestações ao abrigo da legislação de uma das Partes Contratantes que residem no território da outra Parte é efectuada, a pedido da instituição competente, por intermédio da instituição do lugar de residência quando o não seja pelo organismo de ligação, que poderá utilizar os serviços de uma instituição por ele designada.
 
 § 2 - A instituição competente conserva, no entanto, o direito de mandar proceder ao exame do titular por um médico da sua escolha.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Para avaliar o grau de incapacidade, as instituições de cada país tomam em atenção os relatórios médicos, assim como as informações de ordem administrativa obtidas pelas instituições do outro país. As referidas instituições conservam, todavia, o direito de mandar proceder ao exame do interessado por um médico da sua escolha.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Quando após a suspensão de uma prestação o interessado recuperar o seu direito, estando a residir no território de outro país, as instituições interessadas prestar-se-ão todas as informações úteis com vista ao restabelecimento do pagamento da prestação.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 § 1 - As despesas resultantes dos exames médicos, e das inspecções de qualquer género necessários à concessão ou revisão das prestações são reembolsadas pela instituição que as solicitou à instituição encarregada de as levar a efeito, na base das tarifas aplicadas para esta última instituição.
 
 § 2 - Os reembolsos previstos no parágrafo anterior são efectuados por intermédio dos organismos de ligação.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 § 1 - As prestações pecuniárias devidas pela instituição competente de uma das Partes Contratantes são pagas directamente aos beneficiários, qualquer que seja a sua residência, num ou noutro país, sem dedução das despesas postais ou bancárias. Quando se trate de prestações periódicas, o pagamento é efectuado por via bancária, postal ou em numerário, nas datas de vencimento previstas pela legislação aplicável à mesma instituição.
 
 § 2 - Todavia, o pagamento pode ser efectuado, a pedido da instituição devedora, pela instituição do lugar de residência ou de estada do beneficiário ou pelo organismo de ligação, após acordo estabelecido para o efeito.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 As instituições competentes dos dois países podem solicitar do beneficiário, quer directamente, quer através da instituição do lugar de residência, as provas de vida e de estado civil, bem como outros documentos necessários para a determinação do direito ou manutenção das prestações.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 Para aplicação do artigo 40.º da Convenção, a autoridade, instituição ou organismo que tenha recebido o pedido, declaração ou recurso que deviam ter sido apresentados a uma autoridade, instituição ou organismo de outro país indicará a data de recepção desses documentos.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 § 1 - Em conformidade com o disposto no artigo 45.º da Convenção, são designados como organismos de ligação:
 
@@ -903,7 +913,7 @@ b) Tomarem, de comum acordo, medidas de ordem administrativa para aplicação do
 
 c) Adoptarem instruções para informar os interessados sobre os seus direitos e sobre as normas a que devam dar cumprimento para o seu exercício.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 As autoridades competentes constituirão uma comissão mista de carácter técnico, que reunirá, alternadamente em Portugal e em Cabo Verde, para:
 
@@ -915,7 +925,7 @@ iii) Regularizar as contas existentes entre as instituições das duas Partes;
 
 iv) Pronunciar-se sobre os demais assuntos que lhe forem submetidos pelas autoridades competentes.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 O presente Acordo entrará em vigor na mesma data que a Convenção e terá a mesma duração.
 

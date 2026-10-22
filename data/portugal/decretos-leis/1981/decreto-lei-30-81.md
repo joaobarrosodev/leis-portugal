@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04100/04370438.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1981-391014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bedb34cf400153a278f018244714626b945650f559601b7a33561fe2c88219da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c5a14d8916fcf362e3f4f4796722495b9d8e88e0400be20cb84ea6060dacd37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Comissão Executiva do Polígono de Acústica Submarina dos Açores
+- Concurso
+- Forças Armadas
+- Pessoal Civil
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:19Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +109,7 @@ Não tendo sido realizados nos anos passados quaisquer concursos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. As vagas de terceiro-oficial actualmente existentes no quadro de pessoal civil da Comissão Executiva do Polígono de Acústica Submarina dos Açores serão preenchidas mediante concurso de prestação de provas de entre os escriturários-dactilógrafos do referido quadro que:
+Artigo único. As vagas de terceiro-oficial actualmente existentes no quadro de pessoal civil da Comissão Executiva do Polígono de Acústica Submarina dos Açores serão preenchidas mediante concurso de prestação de provas de entre os escriturários-dactilógrafos do referido quadro que:
 
 a) Possuam habilitação do curso geral dos liceus ou equiparado;
 
@@ -106,8 +117,8 @@ b) Ou que, possuindo a escolaridade obrigatória, tenham, pelo menos, três anos
 
 Visto e aprovado em Conselho da Revolução em 6 de Fevereiro de 1981.
 
-**Promulgado em 6 de Fevereiro de 1981.**
+Promulgado em 6 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

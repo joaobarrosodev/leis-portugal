@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-1974-465397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6f3d5dd848f05a2ad79c1f23d5063bb1e2074d59aeac9b07db887adc731e2bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06677e68d4e99f99e7c46b67d5c52e1c2b99a63d496242a9f0bbf91c5619fec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto Judiciário
+- Ministério Público
+- Orgânica
+- Presidente do Supremo Tribunal Administrativo
+- Supremo Tribunal Administrativo
+relationships:
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622834:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:31Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +110,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 8.º e 11.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 8.º e 11.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956, passam a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 1.º Na 1.ª secção serão as funções desempenhadas por um ajudante do procurador-geral da República.
 
@@ -113,7 +130,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 § 8.º Os agentes do Ministério Público junto da 1.ª e 3.ª secções ficam na dependência do Ministro da Justiça, ficando na dependência do Ministro das Finanças o da 2.ª secção.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § único. ...
 
@@ -127,7 +144,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 § 5.º ...
 
-###### Art. 11.º Ao presidente do Supremo Tribunal Administrativo compete:
+Art. 11.º Ao presidente do Supremo Tribunal Administrativo compete:
 
 1.º ...
 
@@ -153,11 +170,11 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 12.º ...
 
-###### Art. 2.º O actual agente do Ministério Público junto da 1.ª secção do Supremo Tribunal Administrativo passa a integrar o quadro de ajudantes do procurador-geral da República, independentemente de qualquer formalidade ou tomada de posse.
+Art. 2.º O actual agente do Ministério Público junto da 1.ª secção do Supremo Tribunal Administrativo passa a integrar o quadro de ajudantes do procurador-geral da República, independentemente de qualquer formalidade ou tomada de posse.
 
-###### Art. 3.º Os agentes do Ministério Público junto das auditorias administrativas, imediatamente subordinados ao agente do Ministério Público junto da 1.ª secção do Supremo Tribunal Administrativo, ficam na dependência do Ministro da Justiça e sujeitos, em matéria disciplinar, ao regime estabelecido para os delegados do procurador da República.
+Art. 3.º Os agentes do Ministério Público junto das auditorias administrativas, imediatamente subordinados ao agente do Ministério Público junto da 1.ª secção do Supremo Tribunal Administrativo, ficam na dependência do Ministro da Justiça e sujeitos, em matéria disciplinar, ao regime estabelecido para os delegados do procurador da República.
 
-###### Art. 4.º - 1. No Supremo Tribunal Administrativo e nas auditorias administrativas funcionarão comissões de reforma judiciária, das quais farão parte juízes e funcionários dos tribunais, eleitos pelos corpos a que pertencem, bem como os agentes do Ministério Público respectivos. As comissões serão presididas pelo presidente do Supremo Tribunal Administrativo.
+Art. 4.º - 1. No Supremo Tribunal Administrativo e nas auditorias administrativas funcionarão comissões de reforma judiciária, das quais farão parte juízes e funcionários dos tribunais, eleitos pelos corpos a que pertencem, bem como os agentes do Ministério Público respectivos. As comissões serão presididas pelo presidente do Supremo Tribunal Administrativo.
 
 2. As eleições far-se-ão de harmonia com o regimento a elaborar pelo presidente do Supremo Tribunal Administrativo.
 
@@ -165,9 +182,9 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. As comissões de reforma judiciária terão por finalidade a elaboração e sistematização das críticas ao regime vigente, bem como sugerir as reformas que se jugarem mais adequadas à democratização e eficácia da justiça em todos os seus aspectos. Os relatórios, com os votos de vencido, e as conclusões deverão ser enviados com a maior brevidade ao Ministério da Justiça.
 
-###### Art. 5.º Os artigos 197.º e 213.º do Estatuto Judiciário passam a ter a seguinte redacção:
+Art. 5.º Os artigos 197.º e 213.º do Estatuto Judiciário passam a ter a seguinte redacção:
 
-###### Art. 197.º - 1. O procurador-geral é coadjuvado no exercício das suas funções por vinte ajudantes, distribuídos pela forma seguinte:
+Art. 197.º - 1. O procurador-geral é coadjuvado no exercício das suas funções por vinte ajudantes, distribuídos pela forma seguinte:
 
 a) ...
 
@@ -183,18 +200,18 @@ f) Um é o agente do Ministério Público junto da 1.ª secção do Supremo Trib
 
 2. ...
 
-###### Art. 213.º - 1. Junto da Procuradoria-Geral da República funciona o Conselho Superior do Ministério Público, constituído pelo procurador-geral e pelos seus ajudantes em serviço no Supremo Tribunal de Justiça, na 1.ª secção do Supremo Tribunal Administrativo e nas relações.
+Art. 213.º - 1. Junto da Procuradoria-Geral da República funciona o Conselho Superior do Ministério Público, constituído pelo procurador-geral e pelos seus ajudantes em serviço no Supremo Tribunal de Justiça, na 1.ª secção do Supremo Tribunal Administrativo e nas relações.
 
 2. ...
 
-###### Art. 6.º O agente do Ministério Público junto da 1.ª secção do Supremo Tribunal Administrativo receberá o vencimento, emolumento e quaisquer outros subsídios a que tenha direito pelas verbas consignadas ao Supremo Tribunal Administrativo até ao fim do corrente ano de 1974.
+Art. 6.º O agente do Ministério Público junto da 1.ª secção do Supremo Tribunal Administrativo receberá o vencimento, emolumento e quaisquer outros subsídios a que tenha direito pelas verbas consignadas ao Supremo Tribunal Administrativo até ao fim do corrente ano de 1974.
 
-###### Art. 7.º As referências feitas no [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956, ao Presidente do Conselho e à Presidência do Conselho devem considerar-se como feitas, respectivamente, ao Ministro da Justiça e ao Ministério da Justiça.
+Art. 7.º As referências feitas no [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956, ao Presidente do Conselho e à Presidência do Conselho devem considerar-se como feitas, respectivamente, ao Ministro da Justiça e ao Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - José da Silva Lopes.
 
-**Promulgado em 28 de Outubro de 1974.**
+Promulgado em 28 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

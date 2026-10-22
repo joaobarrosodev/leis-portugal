@@ -48,40 +48,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49401-1969-217111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01bf39ce97fb040fba2f6bb2f5f2a738249160ecb44904b2e8804af91518b7cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 774bf257019be2417882170b055b542a330dbc5117e7323e4e834dc1a83a82ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditor
+- Criação de Lugares
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Segurança
+- Extinção de Serviços
+- Gratificação
+- Integração de Trabalhadores
+- Ministério do Interior
+- Orgânica
+- Pessoal de Inspecção
+- Pessoal Dirigente
+- PIDE
+- Quadro de Pessoal
+- Remuneração
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:523191:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:523191:por
+  label: "Extinta a Direcção-Geral de Segurança pelo DEC LEI.171/74.25.04.1974.JSN, DG.IS [97-Supl] de 25.04.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1974-523191
+  date: '1974-04-25'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:227253:por
+  label: "Rectificado o mapa anexo pela RECT.DD453.13.01.1970.PC, DG.IS [10] de 13.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-227253
+  date: '1970-01-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:48Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +138,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Da organização, competência e atribuições da Direcção-Geral de Segurança
 
-###### Artigo 1.º É criado no Ministério do Interior um serviço nacional com a designação de Direcção-Geral de Segurança.
+Artigo 1.º É criado no Ministério do Interior um serviço nacional com a designação de Direcção-Geral de Segurança.
 
-###### Art. 2.º A competência da Direcção-Geral de Segurança exerce-se em todo o território nacional, incluindo as ilhas adjacentes e as províncias ultramarinas.
+Art. 2.º A competência da Direcção-Geral de Segurança exerce-se em todo o território nacional, incluindo as ilhas adjacentes e as províncias ultramarinas.
 
-###### Art. 3.º São atribuições fundamentais da Direcção-Geral de Segurança:
+Art. 3.º São atribuições fundamentais da Direcção-Geral de Segurança:
 
 a) Velar pela segurança interior e exterior do Estado;
 
@@ -112,11 +158,11 @@ f) Manter relações com organizações policiais nacionais e estrangeiras e ser
 
 g) Assegurar as relações com a Organização Internacional de Polícia Criminal.
 
-###### Art. 4.º O Ministro do Interior tem, em relação à Direcção-Geral de Segurança, a mesma competência que a lei confere ao Ministro da Justiça relativamente à Polícia Judiciária; nas províncias ultramarinas essa competência cabe ao Ministro do Ultramar.
+Art. 4.º O Ministro do Interior tem, em relação à Direcção-Geral de Segurança, a mesma competência que a lei confere ao Ministro da Justiça relativamente à Polícia Judiciária; nas províncias ultramarinas essa competência cabe ao Ministro do Ultramar.
 
 Da direcção
 
-###### Art. 5.º - 1. A Direcção-Geral de Segurança fica a cargo de um director-geral, a quem compete orientar, coordenar e inspeccionar os serviços e submeter a despacho do Ministro do Interior ou do Ultramar, conforme os casos, os assuntos que careçam de resolução superior.
+Art. 5.º - 1. A Direcção-Geral de Segurança fica a cargo de um director-geral, a quem compete orientar, coordenar e inspeccionar os serviços e submeter a despacho do Ministro do Interior ou do Ultramar, conforme os casos, os assuntos que careçam de resolução superior.
 
 2. O director-geral é coadjuvado no exercício das suas funções por dois inspectores superiores, que têm a seu cargo a coordenação dos serviços da metrópole e do ultramar, respectivamente.
 
@@ -124,7 +170,7 @@ Da direcção
 
 Dos serviços
 
-###### Art. 6.º A Direcção-Geral de Segurança compreende os seguintes serviços:
+Art. 6.º A Direcção-Geral de Segurança compreende os seguintes serviços:
 
 a) Direcção de Serviços de Informação;
 
@@ -140,7 +186,7 @@ e) Delegações, subdelegações e postos.
 
 3. A Direcção dos Serviços Administrativos superintende na escola técnica.
 
-###### Art. 7.º - 1. As direcções de serviços são chefiadas por directores de serviços e compreendem divisões, dirigidas por inspectores-adjuntos de segurança ou por inspectores de segurança, e secções, chefiadas por chefes de secção.
+Art. 7.º - 1. As direcções de serviços são chefiadas por directores de serviços e compreendem divisões, dirigidas por inspectores-adjuntos de segurança ou por inspectores de segurança, e secções, chefiadas por chefes de secção.
 
 2. As delegações na metrópole e nas províncias ultramarinas de governo-geral são chefiadas por directores de serviços, e nas restantes províncias ultramarinas por chefes de serviços, podendo, no entanto, aquelas ficar a cargo de inspectores-adjuntos de segurança, com direito a uma gratificação de chefia de importância igual à diferença de vencimentos entre as letras E e D do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, abonada por conta do cofre da Direcção-Geral, e compreenderão os serviços que forem julgados indispensáveis para o seu bom funcionamento.
 
@@ -154,17 +200,17 @@ e) Delegações, subdelegações e postos.
 
 Disposições finais e transitórias
 
-###### Art. 8.º É extinta a Polícia Internacional e de Defesa do Estado, criada pelo [Decreto-Lei n.º 35046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35046-1945-465047), de 22 de Outubro de 1945.
+Art. 8.º É extinta a Polícia Internacional e de Defesa do Estado, criada pelo [Decreto-Lei n.º 35046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35046-1945-465047), de 22 de Outubro de 1945.
 
-###### Art. 9.º - 1. Até à publicação da lei orgânica da Direcção-Geral de Segurança, ficará esta a reger-se pelas disposições contastes dos diplomas que até agora disciplinavam o funcionamento da Polícia Internacional e de Defesa do Estado.
+Art. 9.º - 1. Até à publicação da lei orgânica da Direcção-Geral de Segurança, ficará esta a reger-se pelas disposições contastes dos diplomas que até agora disciplinavam o funcionamento da Polícia Internacional e de Defesa do Estado.
 
 2. São transferidos para a Direcção-Geral de Segurança, sem dependência de quaisquer formalidades, os arrendamentos e todo o material mecânico, veículos, armamento e munições, mobiliário, livros, papéis de escrituração, documentos e demais elementos afectos à Polícia Internacional e de Defesa do Estado.
 
 3. O pessoal constante do mapa anexo ao [Decreto-Lei n.º 48794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48794-1968-256474), de 26 de Dezembro de 1968, passa, com as mesmas categorias, para a Direcção-Geral de Segurança, considerando-se, para todos os efeitos, o tempo de serviço prestado, que será contado em conformidade com a legislação aplicável, sem prejuízo dos seus anteriores direitos e regalias.
 
-###### Art. 10.º O mapa do pessoal referido no n.º 3 do artigo anterior é substituído, para todos os efeitos, pelo mapa n.º 1 anexo a este decreto-lei, e elaborado em conformidade com as suas disposições.
+Art. 10.º O mapa do pessoal referido no n.º 3 do artigo anterior é substituído, para todos os efeitos, pelo mapa n.º 1 anexo a este decreto-lei, e elaborado em conformidade com as suas disposições.
 
-###### Art. 11.º - 1. Os encargos resultantes da criação da Direcção-Geral de Segurança são suportados, no actual ano económico, pelas verbas descritas no capítulo 6.º do orçamento do Ministério do Interior.
+Art. 11.º - 1. Os encargos resultantes da criação da Direcção-Geral de Segurança são suportados, no actual ano económico, pelas verbas descritas no capítulo 6.º do orçamento do Ministério do Interior.
 
 2. Os encargos resultantes das alterações do quadro do pessoal da Direcção-Geral de Segurança serão suportados, no actual ano económico, pelas disponibilidades da verba destinada ao pessoal no capítulo 6.º do orçamento do Ministério do Interior.
 
@@ -172,15 +218,15 @@ Disposições finais e transitórias
 
 4. No ultramar, as gratificações referidas no número anterior serão fixadas pelo Ministro do Ultramar, de harmonia com a legislação em vigor.
 
-###### Art. 12.º Os subdirectores, inspectores-adjuntos de polícia, inspectores de polícia, subinspectores de polícia, chefes de brigada e agentes passam a designar-se, respectivamente, por directores de serviços, inspectores-adjuntos de segurança, inspectores de segurança, subinspectores de segurança, chefes de brigada de segurança e agentes de segurança, mantendo a mesma classe designada pela letra da categoria que lhe é conferida no mapa de pessoal anexo ao [Decreto-Lei n.º 48794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48794-1968-256474), de 26 de Dezembro de 1968.
+Art. 12.º Os subdirectores, inspectores-adjuntos de polícia, inspectores de polícia, subinspectores de polícia, chefes de brigada e agentes passam a designar-se, respectivamente, por directores de serviços, inspectores-adjuntos de segurança, inspectores de segurança, subinspectores de segurança, chefes de brigada de segurança e agentes de segurança, mantendo a mesma classe designada pela letra da categoria que lhe é conferida no mapa de pessoal anexo ao [Decreto-Lei n.º 48794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48794-1968-256474), de 26 de Dezembro de 1968.
 
-###### Art. 13.º É criado um lugar de auditor jurídico no Ministério do Interior, que será provido nos termos do artigo 198.º do Estatuto Judiciário. Este auditor exercerá, além das funções de consulta jurídica do Ministério, aquelas que lhe forem conferidas na lei orgânica da Direcção-Geral de Segurança.
+Art. 13.º É criado um lugar de auditor jurídico no Ministério do Interior, que será provido nos termos do artigo 198.º do Estatuto Judiciário. Este auditor exercerá, além das funções de consulta jurídica do Ministério, aquelas que lhe forem conferidas na lei orgânica da Direcção-Geral de Segurança.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Novembro de 1969.**
+Promulgado em 19 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -190,6 +236,6 @@ MAPA I
 
 Categorias e vencimentos do pessoal do quadro único da Direcção-Geral de Segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/27500/16641666.pdf))](https://files.diariodarepublica.pt/1s/1969/11/27500/16641666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/27500/16641666.pdf)
 
 Ministérios do Interior e do Ultramar, 19 de Novembro de 1969. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 109/1976, 1º Suplemento, Série I de 1976-05-10
   number: '109'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1048-(2) a 1048-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/10901/00020004.pdf
 entry_into_force_dates: []
@@ -46,36 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-b-1976-171134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d407dea3b71523328825ef5c04de6dff8d36f79e4a595c46dce459ff8535a0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edd991726bd5b159b597e61b12417bafe6015217b277e31cb4960fd5b77d051d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Tesouro
+- Dívida Pública
+- Emissão de Títulos
+- Junta de Crédito Público
+- JURO Bonificado
+- Mercado de Títulos
+- Obrigações do Tesouro
+- TAXA de JURO
+relationships:
+- type: cites
+  target: pt:dre:171133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693026:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:431217:por
+  label: Rectificado pela DECL.DD8991.24.06.1976.PCM, DR.IS [146] de 24.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-431217
+  date: '1976-06-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:38Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +129,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 6% ouro - 1976».
+Artigo 1.º É autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 6% ouro - 1976».
 
-###### Art. 2.º O produto da colocação do empréstimo destinar-se-á ao financiamento do Programa de Investimentos Públicos previstos no Orçamento Geral do Estado para 1976.
+Art. 2.º O produto da colocação do empréstimo destinar-se-á ao financiamento do Programa de Investimentos Públicos previstos no Orçamento Geral do Estado para 1976.
 
-###### Art. 3.º- 1. O empréstimo, cujo serviço é confiado à Junta do Crédito Público, desdobrar-se-á em séries, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a obrigação geral da 1.ª série representativa de 1800000 obrigações.
+Art. 3.º- 1. O empréstimo, cujo serviço é confiado à Junta do Crédito Público, desdobrar-se-á em séries, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a obrigação geral da 1.ª série representativa de 1800000 obrigações.
 
 2. Cada obrigação terá o valor correspondente à equivalência em escudos de 3,819 g de ouro fino, calculada de harmonia com as disposições do n.º 3 do artigo 12.º do presente diploma.
 
@@ -108,33 +141,33 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. Fica o Ministro das Finanças autorizado a, por simples decreto, mandar proceder, pela Direcção-Geral do Tesouro, à emissão de outra ou outras obrigações gerais correspondentes a novas séries do empréstimo.
 
-###### Art. 4.º - 1. A representação do empréstimo far-se-á em títulos de cupão de 1, 5 e 10 obrigações ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
+Art. 4.º - 1. A representação do empréstimo far-se-á em títulos de cupão de 1, 5 e 10 obrigações ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
 
 2. Os títulos e certificados levarão as assinaturas de chancela do Ministro das Finanças, do presidente e de um dos vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta.
 
 3. É aplicável ao empréstimo autorizado pelo presente decreto-lei o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 45142](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45142-1963-693026), de 17 de Julho de 1963.
 
-###### Art. 5.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, bem como da isenção do pagamento do imposto sobre as sucessões e doações.
+Art. 5.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, bem como da isenção do pagamento do imposto sobre as sucessões e doações.
 
-###### Art. 6.º- 1. A colocação do empréstimo será feita por subscrição pública, reservada exclusivamente aos subscritores do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10% - 1976», cuja emissão foi autorizada pelo [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133), de 10 de Maio.
+Art. 6.º- 1. A colocação do empréstimo será feita por subscrição pública, reservada exclusivamente aos subscritores do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10% - 1976», cuja emissão foi autorizada pelo [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133), de 10 de Maio.
 
 2. As subscrições das obrigações do empréstimo autorizado pelo presente diploma só poderão ser feitas simultaneamente com as do autorizado pelo decreto-lei referido no número anterior, na proporção de uma daquelas para cada cinco destas.
 
-###### Art. 7.º- 1. A subscrição pública estará aberta de 10 de Maio a 30 de Junho do corrente ano, considerando-se este prazo, para efeito da determinação do valor dos primeiros juros, dividido em três períodos.
+Art. 7.º- 1. A subscrição pública estará aberta de 10 de Maio a 30 de Junho do corrente ano, considerando-se este prazo, para efeito da determinação do valor dos primeiros juros, dividido em três períodos.
 
 2. As obrigações serão representadas, até à troca pelos correspondentes títulos definitivos, por cautelas entregues no acto do pagamento da subscrição.
 
-###### Art. 8.º - 1. Sobre a quantia de 500$00, valor de subscrição de cada obrigação, será pagável aos semestres, em 15 de Maio e 15 de Novembro, juro calculado à taxa de 6% ao ano.
+Art. 8.º - 1. Sobre a quantia de 500$00, valor de subscrição de cada obrigação, será pagável aos semestres, em 15 de Maio e 15 de Novembro, juro calculado à taxa de 6% ao ano.
 
 2. Os primeiros juros são pagáveis a partir de 15 de Novembro de 1976.
 
-###### Art. 9.º As obrigações subscritas durante o primeiro período em que estiver aberta a subscrição ao público, com termo em 31 de Maio, conferem aos tomadores direito ao juro completo do semestre que termina em 14 de Novembro de 1976; as subscritas durante o segundo período, com termo em 15 de Junho, conferem direito a juro parcial do mesmo semestre no valor de 13$80 por obrigação; e as subscritas durante o último período, com termo em 30 de Junho, conferem direito a juro parcial do mesmo semestre no valor de 12$50 por obrigação.
+Art. 9.º As obrigações subscritas durante o primeiro período em que estiver aberta a subscrição ao público, com termo em 31 de Maio, conferem aos tomadores direito ao juro completo do semestre que termina em 14 de Novembro de 1976; as subscritas durante o segundo período, com termo em 15 de Junho, conferem direito a juro parcial do mesmo semestre no valor de 13$80 por obrigação; e as subscritas durante o último período, com termo em 30 de Junho, conferem direito a juro parcial do mesmo semestre no valor de 12$50 por obrigação.
 
-###### Art. 10.º Relativamente às obrigações representadas por cautelas entregues aos tomadores pelas instituições de crédito no acto da subscrição, o primeiro juro será liquidado, a partir da data do seu vencimento, pelas mesmas instituições de crédito mediante aposição de carimbo de «Pago» naquelas cautelas.
+Art. 10.º Relativamente às obrigações representadas por cautelas entregues aos tomadores pelas instituições de crédito no acto da subscrição, o primeiro juro será liquidado, a partir da data do seu vencimento, pelas mesmas instituições de crédito mediante aposição de carimbo de «Pago» naquelas cautelas.
 
-###### Art. 11.º Até à data do vencimento dos primeiros juros, a que se refere o n.º 2 do artigo 8.º do presente diploma, a Junta do Crédito Público entregará a cada uma das instituições de crédito que tenha participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar no 2.º semestre de 1976 das obrigações colocadas por seu intermédio.
+Art. 11.º Até à data do vencimento dos primeiros juros, a que se refere o n.º 2 do artigo 8.º do presente diploma, a Junta do Crédito Público entregará a cada uma das instituições de crédito que tenha participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar no 2.º semestre de 1976 das obrigações colocadas por seu intermédio.
 
-###### Art. 12.º- 1. As obrigações deste empréstimo serão amortizadas por sorteio, em quatro anuidades, todas iguais, excepto uma, se necessário for para efeito de acerto.
+Art. 12.º- 1. As obrigações deste empréstimo serão amortizadas por sorteio, em quatro anuidades, todas iguais, excepto uma, se necessário for para efeito de acerto.
 
 2. As amortizações deste empréstimo serão pagáveis em 15 de Maio de cada ano, realizando-se a primeira amortização em 15 de Maio de 1978.
 
@@ -154,24 +187,24 @@ B é o câmbio médio de 1 dólar EUA nas operações de compra efectuadas pelas
 
 5. A Direcção-Geral dos Serviços da Junta do Crédito Público fará publicar, por aviso na 2.ª série do Diário da República e no Boletim de Cotações da Bolsa de Lisboa, antes da data do início do pagamento das amortizações, o valor de reembolso de cada obrigação.
 
-###### Art. 13.º A importância total das subcrições feitas por intermédio das instituições de crédito será por estas entregues ao Tesouro nos dez dias úteis após o final de cada um dos três períodos de subscrição, mediante guias a solicitar.
+Art. 13.º A importância total das subcrições feitas por intermédio das instituições de crédito será por estas entregues ao Tesouro nos dez dias úteis após o final de cada um dos três períodos de subscrição, mediante guias a solicitar.
 
-###### Art. 14.º No mesmo prazo indicado no número anterior cada uma das instituições de crédito comunicará por escrito à Junta do Crédito Público a quantidade de obrigações subscritas por seu intermédio, com discriminação dos títulos de 1, 5 e 10 obrigações pretendidos.
+Art. 14.º No mesmo prazo indicado no número anterior cada uma das instituições de crédito comunicará por escrito à Junta do Crédito Público a quantidade de obrigações subscritas por seu intermédio, com discriminação dos títulos de 1, 5 e 10 obrigações pretendidos.
 
-###### Art. 15.º A entrega dos títulos definitivos aos tomadores será feita antes do vencimento do juro de 15 de Maio de 1977, a partir da data a fixar pela Junta do Crédito Público.
+Art. 15.º A entrega dos títulos definitivos aos tomadores será feita antes do vencimento do juro de 15 de Maio de 1977, a partir da data a fixar pela Junta do Crédito Público.
 
-###### Art. 16.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
+Art. 16.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
 
-###### Art. 17.º As despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+Art. 17.º As despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças inscritas nos orçamentos dos anos económicos em que tiverem lugar.
 
-###### Art. 18.º As disposições do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se referem à indicação do montante e do encargo máximo, não são aplicáveis a este empréstimo.
+Art. 18.º As disposições do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se referem à indicação do montante e do encargo máximo, não são aplicáveis a este empréstimo.
 
-###### Art. 19.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 19.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 10 de Maio de 1976.**
+Promulgado em 10 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

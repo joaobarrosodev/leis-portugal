@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44508-1962-163453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e5ee39173b19e98bff7795a2b019919ab45225d8647e7054886f1a63cc026d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4a459eefe135294b37c02aacc001d7113de73b583da05fabe7ac147b363d999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Ilhas Adjacentes
+- Importação
+- Isenção Fiscal
+- Metrópole
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:51Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +98,9 @@ Tendo em consideração o disposto nos artigos 10.º e 13.º do [Decreto-Lei n.�
 
 Usando da faculdade conferida pelo n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. A partir de 1 de Janeiro de 1963 são livres de direitos aduaneiros de importação, no continente e ilhas adjacentes, as mercadorias incluídas na lista anexa ao presente decreto-lei, que, provenientes das províncias ultramarinas, satisfaçam às condições a que se refere o artigo 9.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961.
+Artigo único. A partir de 1 de Janeiro de 1963 são livres de direitos aduaneiros de importação, no continente e ilhas adjacentes, as mercadorias incluídas na lista anexa ao presente decreto-lei, que, provenientes das províncias ultramarinas, satisfaçam às condições a que se refere o artigo 9.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -97,7 +108,7 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Ol
 
 Lista dos produtos que, nos termos da alínea b) do artigo 10.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, passam a ser livres de direitos a partir de 1 de Janeiro de 1963.
 
-Artigo pautal
+###### Artigo pautal
 
 03.01 Peixe fresco (vivo ou morto), refrigerado ou congelado:
 
@@ -185,7 +196,7 @@ ex 02 Amêndoa de caju torrada, condimentada ou não.
 
 03 Sisal e outras fibras de agaves.
 
-Artigo pautal
+###### Artigo pautal
 
 57.07 Fios de outras fibras têxteis vegetais:
 

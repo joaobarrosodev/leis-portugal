@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47761-1967-312024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d19a2f8b3cf147e0264a6b0ecd517f34a52639410caad9b32d9b046f61ad8122
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c356c9437b6a60cd5af341f7695b0ef11980d3e8a261ed10ec6d8ecb1cd3719
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- BASE Aérea
+- Comissão de Construções Hospitalares
+- Definição de Competências
+- Direcção Geral da Aeronáutica Civil
+- Estabelecimento Hospitalar
+- ILHA das Flores
+- Obras Públicas
+- Santa CRUZ das Flores
 relationships:
 - type: amended_by
   target: pt:dre:147462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147462:por
+  label: "Prorrogado até 31.12.1971 o prazo constante do art. único deste diploma pelo DEC LEI.484/70.19.10.1970.MOP, DG.IS\
+    \ [242] de 19.10.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/484-1970-147462
+  date: '1970-10-19'
+- type: cites
+  target: pt:dre:238776:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:32Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +113,8 @@ Nestes termos:
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. As disposições constantes do [Decreto-Lei n.º 46189](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46189-1965-238776), de 16 de Fevereiro de 1965, consideram-se aplicáveis à ampliação do hospital sub-regional de Santa Cruz das Flores e à construção de uma pista de aterragem, ficando a execução das obras a cargo da Comissão de Construções Hospitalares e da Direcção-Geral da Aeronáutica Civil, respectivamente, que as levarão a efeito até ao fim de 1969.
+Artigo único. As disposições constantes do [Decreto-Lei n.º 46189](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46189-1965-238776), de 16 de Fevereiro de 1965, consideram-se aplicáveis à ampliação do hospital sub-regional de Santa Cruz das Flores e à construção de uma pista de aterragem, ficando a execução das obras a cargo da Comissão de Construções Hospitalares e da Direcção-Geral da Aeronáutica Civil, respectivamente, que as levarão a efeito até ao fim de 1969.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

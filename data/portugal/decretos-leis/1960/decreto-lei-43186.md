@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43186-1960-514845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49e22ac057ffc47469acd702bc62b6cdabf2f2764403a7135a55f90e261b4a22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc79568c561e830087c2945d69f1e8515ea608a38b034a2b7bc2279f7bd3f56e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Imóveis
+- Associação de Socorros Mútuos
+- Caixa de Previdência
+- Caixa de Reforma
+- Caixa Sindical de Previdência
+- Crédito à Habitação
+- Habitação Social
+- Previdência Social
 relationships:
 - type: amended_by
   target: pt:dre:431267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:281452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:46Z'
   warnings: []
   errors: []
 ---
@@ -134,34 +150,34 @@ Nestes termos:
 
 Usando pela faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sem prejuízo das diversas modalidades previstas na [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, sobre a cooperação, no fomento da habitação, das caixas sindicais de previdência, caixas de reforma ou de previdência e associações de socorros mútuos, são estas instituições autorizadas a afectar os seus capitais à concessão de empréstimos aos seus beneficiários ou sócios, para aquisição de habitações próprias.
+Artigo 1.º Sem prejuízo das diversas modalidades previstas na [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, sobre a cooperação, no fomento da habitação, das caixas sindicais de previdência, caixas de reforma ou de previdência e associações de socorros mútuos, são estas instituições autorizadas a afectar os seus capitais à concessão de empréstimos aos seus beneficiários ou sócios, para aquisição de habitações próprias.
 
-###### Art. 2.º À aquisição de casas ao abrigo do artigo anterior aplicam-se os preceitos da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e os dos seus regulamentos, que, para tanto, serão adaptados na medida do que for necessário.
+Art. 2.º À aquisição de casas ao abrigo do artigo anterior aplicam-se os preceitos da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e os dos seus regulamentos, que, para tanto, serão adaptados na medida do que for necessário.
 
-###### Art. 3.º As associações de socorros mútuos cujos fundos de reserva excedam 25 por cento do fundo permanente podem ser autorizadas, mediante despacho do Ministro das Corporações e Previdência Social, a conceder empréstimos aos beneficiários para construção, benfeitorias e obras de conservação das suas próprias habitações.
+Art. 3.º As associações de socorros mútuos cujos fundos de reserva excedam 25 por cento do fundo permanente podem ser autorizadas, mediante despacho do Ministro das Corporações e Previdência Social, a conceder empréstimos aos beneficiários para construção, benfeitorias e obras de conservação das suas próprias habitações.
 
-###### Art. 4.º Os empréstimos previstos neste diploma e na [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) para aquisição ou para a construção de casas poderão atingir 80 por cento do montante da compra e 100 por cento do custo provável das construções, mas com o limite máximo, por habitação, acrescido de 50 por cento, dos custos relativos às casas económicas das classes e tipos mais adequados aos rendimentos e agregados familiares dos pretendentes ou, no caso de empréstimos às entidades patronais, dos presumíveis beneficiários.
+Art. 4.º Os empréstimos previstos neste diploma e na [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) para aquisição ou para a construção de casas poderão atingir 80 por cento do montante da compra e 100 por cento do custo provável das construções, mas com o limite máximo, por habitação, acrescido de 50 por cento, dos custos relativos às casas económicas das classes e tipos mais adequados aos rendimentos e agregados familiares dos pretendentes ou, no caso de empréstimos às entidades patronais, dos presumíveis beneficiários.
 
 § único. Os empréstimos só poderão atingir os limites máximos previstos neste artigo quando as casas, pelo valor do terreno e demais condições, dêem todas as garantias à instituição mutuante.
 
-###### Art. 5.º Os empréstimos a conceder pelas instituições de previdência, nos termos da alínea c) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e dos artigos 1.º e 3.º do presente diploma, poderão ser feitos a beneficiários com idade não superior a 45 anos.
+Art. 5.º Os empréstimos a conceder pelas instituições de previdência, nos termos da alínea c) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e dos artigos 1.º e 3.º do presente diploma, poderão ser feitos a beneficiários com idade não superior a 45 anos.
 
 § único. O limite de idade fixado neste artigo poderá ser ampliado para 50 ou 55 anos, conforme se trate de empréstimos para construção ou aquisição, ou de empréstimos para benfeitorias e obras de conservação, desde que o prazo de amortização não exceda o número de anos que faltar ao mutuário para atingir 65 anos ou, no caso de beneficiários de caixas sindicais de previdência ou de caixas de reforma ou de previdência, a idade de reforma por velhice estabelecida nos respectivos estatutos.
 
-###### Art. 6.º É aplicável às casas adquiridas ao abrigo do disposto nos artigos 1.º e 3.º deste diploma a [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e demais legislação em vigor sobre casas económicas.
+Art. 6.º É aplicável às casas adquiridas ao abrigo do disposto nos artigos 1.º e 3.º deste diploma a [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e demais legislação em vigor sobre casas económicas.
 
 A legislação sobre casas económicas é ainda aplicável, salvo no que for exclusivamente próprio de moradias, aos prédios em regime de propriedade horizontal.
 
-###### Art. 7.º Os preceitos da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e os dos seus regulamentos são aplicáveis às habitações previstas neste diploma, ficando as associações de socorros mútuos, para todos os efeitos de construção, beneficiação, aquisição ou distribuição de casas em qualquer das modalidades referidas naquela lei, sujeitas às regras que vigorem para as caixas de previdência, salvo aquelas que por despacho ministerial forem consideradas inaplicáveis.
+Art. 7.º Os preceitos da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e os dos seus regulamentos são aplicáveis às habitações previstas neste diploma, ficando as associações de socorros mútuos, para todos os efeitos de construção, beneficiação, aquisição ou distribuição de casas em qualquer das modalidades referidas naquela lei, sujeitas às regras que vigorem para as caixas de previdência, salvo aquelas que por despacho ministerial forem consideradas inaplicáveis.
 
-###### Art. 8.º O n.º 2 da base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) passa a ter a seguinte redacção:
+Art. 8.º O n.º 2 da base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) passa a ter a seguinte redacção:
 
 A transformação do regime previsto no número anterior só pode operar-se desde que todos os arrendatários o solicitem e estejam nas condições para o efeito exigidas.
 
-###### Art. 9.º As caixas de previdência, sempre que, para construírem novas habitações, promovam a demolição de casas de renda económica de que sejam proprietárias, poderão transferir os arrendatários para outras habitações de tipo idêntico existentes no mesmo agrupamento ou bairro.
+Art. 9.º As caixas de previdência, sempre que, para construírem novas habitações, promovam a demolição de casas de renda económica de que sejam proprietárias, poderão transferir os arrendatários para outras habitações de tipo idêntico existentes no mesmo agrupamento ou bairro.
 
 § único. Sempre que necessário, a desocupação para os fins deste artigo será feita nos termos em vigor para as casas económicas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

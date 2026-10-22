@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21700/23922395.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1979-369827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 650e3b38c26729aa5d8f05956f43954c2f9ed1ee588fcec7927d2e1697be267c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d854c3dcfd1a564ced12e7675961276540519d1bc59b284a04d88ec3c91feb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior da Armada
+- Comissão Técnica de Administração Naval
+- Conselho Administrativo
+- Conselho Superior da Armada
+- Conselho Técnico Naval
+- Criação de Serviços
+- Definição de Competências
+- Direcção da Fazenda Naval
+- Direcção do Apuramento de Responsabilidades
+- Direcção do Planeamento Administrativo
+- Estado Maior da Armada
+- Extinção de Serviços
+- Fiscalização
+- Gestão Financeira
+- Marinha
+- Militar
+- Orçamento
+- Orgânica
+- Pessoal Civil
+- Pessoal de Chefia
+- Quadro de Pessoal
+- Serviço de Informática da Armada
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:654539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654539:por
+  label: "Extinta a Direcção do Planeamento Administrativo, a Direcção da Fazenda Naval e o Serviço de Informática da Armada,\
+    \ pelo DR.24/94.1994.09.01.MDN, DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1994-654539
+  date: '1994-09-01'
+- type: cites
+  target: pt:dre:163215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:52Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +160,7 @@ Nestes termos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Incumbe à Superintendência dos Serviços Financeiros (SSF) tratar de todos os assuntos de natureza técnica e administrativa relativos às actividades de âmbito financeiro da Marinha, designadamente:
+Artigo 1.º - 1 - Incumbe à Superintendência dos Serviços Financeiros (SSF) tratar de todos os assuntos de natureza técnica e administrativa relativos às actividades de âmbito financeiro da Marinha, designadamente:
 
 a) O desenvolvimento e a aplicação de técnicas e métodos de gestão administrativo-financeira, visando a maximização do rendimento dos meios financeiros utilizados pela Marinha;
 
@@ -120,7 +174,7 @@ d) A análise económica e o apuramento de responsabilidades em relação a todo
 
 3 - As restantes atribuições, designadamente as respeitantes ao apuramento de responsabilidades, em relação aos organismos dotados de autonomia financeira situam-se nos limites que decorrem dos diplomas orgânicos estabelecidos para esses organismos.
 
-###### Art. 2.º A SSF compreende:
+Art. 2.º A SSF compreende:
 
 a) O superintendente;
 
@@ -134,21 +188,21 @@ e) A Direcção do Apuramento de Responsabilidades (DAR);
 
 f) O Serviço de Informática da Armada (SIA).
 
-###### Art. 3.º - 1 - Compete ao superintendente dos Serviços Financeiros da Armada, na directa dependência do Chefe do Estado-Maior da Armada, dirigir a SSF e exercer os demais poderes que lhe são conferidos nos termos da lei em vigor.
+Art. 3.º - 1 - Compete ao superintendente dos Serviços Financeiros da Armada, na directa dependência do Chefe do Estado-Maior da Armada, dirigir a SSF e exercer os demais poderes que lhe são conferidos nos termos da lei em vigor.
 
 2 - O superintendente dos Serviços Financeiros da Armada é um oficial general da classe de administração naval e é vogal do Conselho Superior da Armada e do Conselho Técnico Naval.
 
-###### Art. 4.º - 1 - Incumbe à Secretaria Central assegurar o expediente do superintendente dos Serviços Financeiros da Armada e aquele que, pela sua natureza, não pertença especificamente a qualquer dos departamentos da SSF, bem como manter actualizado o alardo de todo o pessoal em serviço na mesma Superintendência e assegurar o expediente que àquele pessoal diga respeito.
+Art. 4.º - 1 - Incumbe à Secretaria Central assegurar o expediente do superintendente dos Serviços Financeiros da Armada e aquele que, pela sua natureza, não pertença especificamente a qualquer dos departamentos da SSF, bem como manter actualizado o alardo de todo o pessoal em serviço na mesma Superintendência e assegurar o expediente que àquele pessoal diga respeito.
 
 2 - Incumbe ainda à Secretaria Central assegurar o funcionamento do centro de mensagens e emitir propostas relativas à coordenação das suas funções com as actividades dos serviços de expediente e arquivo dos diversos departamentos integrantes da Superintendência.
 
 3 - A Secretaria Central é chefiada por um capitão-tenente de administração naval, a quem cumulativamente cabe assistir o superintendente dos Serviços Financeiros da Armada nas matérias e nas condições por este determinadas.
 
-###### Art. 5.º - 1 - Incumbem à Direcção do Planeamento Administrativo (DPA) os assuntos que no âmbito da missão da SSF respeitam à organização administrativo-financeira.
+Art. 5.º - 1 - Incumbem à Direcção do Planeamento Administrativo (DPA) os assuntos que no âmbito da missão da SSF respeitam à organização administrativo-financeira.
 
 2 - A DPA é chefiada por um capitão-de-mar-e-guerra da classe de administração naval.
 
-###### Art. 6.º - 1 - A Direcção do Planeamento Administrativo compreende:
+Art. 6.º - 1 - A Direcção do Planeamento Administrativo compreende:
 
 a) A 1.ª Repartição (Normas e Métodos);
 
@@ -158,11 +212,11 @@ b) A 2.ª Repartição (Legislação).
 
 3 - Incumbe à 2.ª Repartição, especialmente, o estudo de projectos de diplomas de natureza administrativo-financeira e da adaptação à Marinha das normas de contabilidade pública, a actualização permanente do Regulamento de Administração da Fazenda Naval e a emissão de pareceres sobre assuntos de contencioso administrativo-financeiro.
 
-###### Art. 7.º - 1 - Incumbem à Direcção da Fazenda Naval (DFN) os assuntos de natureza orçamental que no âmbito da missão da SSF respeitam a gestão financeira.
+Art. 7.º - 1 - Incumbem à Direcção da Fazenda Naval (DFN) os assuntos de natureza orçamental que no âmbito da missão da SSF respeitam a gestão financeira.
 
 2 - A DFN é chefiada por um capitão-de-mar-e-guerra de administração naval.
 
-###### Art. 8.º - 1 - A Direcção da Fazenda Naval compreende:
+Art. 8.º - 1 - A Direcção da Fazenda Naval compreende:
 
 a) A 1.ª Repartição (Orçamento);
 
@@ -172,11 +226,11 @@ b) A 2.ª Repartição (Execução Orçamental).
 
 3 - Incumbe à 2.ª Repartição, especialmente, a correcção jurídica e económica dos actos de execução orçamental na fase do seu processamento prévio, tanto no referente aos abonos do pessoal, incluindo os específicos da situação de reserva, como do respeitante às aquisições de bens e serviços e outras despesas.
 
-###### Art. 9.º - 1 - Incumbem à Direcção de Apuramento de Responsabilidades (DAR) os assuntos que no âmbito da missão da SSF se referem à análise, dos pontos de vista jurídico e económico, dos actos de administração financeira praticados pelos conselhos administrativos e do apuramento das responsabilidades inerentes a esses actos.
+Art. 9.º - 1 - Incumbem à Direcção de Apuramento de Responsabilidades (DAR) os assuntos que no âmbito da missão da SSF se referem à análise, dos pontos de vista jurídico e económico, dos actos de administração financeira praticados pelos conselhos administrativos e do apuramento das responsabilidades inerentes a esses actos.
 
 2 - A DAR é chefiada por um capitão-de-mar-e-guerra da classe de administração naval.
 
-###### Art. 10.º - 1 - A Direcção do Apuramento de Responsabilidades compreende:
+Art. 10.º - 1 - A Direcção do Apuramento de Responsabilidades compreende:
 
 a) A 1.ª Repartição (Responsabilidades Pecuniárias);
 
@@ -190,9 +244,9 @@ c) A 3.ª Repartição (Inspecções Administrativas).
 
 4 - Incumbe à 3.ª Repartição, especialmente, accionar tudo quanto respeite à realização de inspecções in loco aos actos de administração financeira praticados pelos responsáveis administrativos e à elaboração de relatórios de análise da forma como por eles são cumpridas as determinações e disposições legais em matéria administrativa, inspecções esses a executar em conformidade com os procedimentos estabelecidos para o efeito no Regulamento de Administração da Fazenda Naval.
 
-###### Art. 11.º Cada uma das direcções de que tratam os artigos 6.º, 8.º e 10.º dispõe de uma secretaria, por onde corre o serviço de expediente e arquivo comum às repartições integrantes de cada direcção e às quais compete desempenhar, em complemento das funções da Secretaria Central, as actividades específicas da respectiva direcção.
+Art. 11.º Cada uma das direcções de que tratam os artigos 6.º, 8.º e 10.º dispõe de uma secretaria, por onde corre o serviço de expediente e arquivo comum às repartições integrantes de cada direcção e às quais compete desempenhar, em complemento das funções da Secretaria Central, as actividades específicas da respectiva direcção.
 
-###### Art. 12.º - 1 - O Serviço de Informática da Armada (SIA) assegura o tratamento automático de dados, é chefiado por um capitão-de-mar-e-guerra ou capitão-de-fragata da classe de administração naval e compreende, além de uma secretaria para os assuntos de expediente e arquivo, a Divisão de Concepção e Métodos, a Divisão de Produção e a Divisão de Apoio.
+Art. 12.º - 1 - O Serviço de Informática da Armada (SIA) assegura o tratamento automático de dados, é chefiado por um capitão-de-mar-e-guerra ou capitão-de-fragata da classe de administração naval e compreende, além de uma secretaria para os assuntos de expediente e arquivo, a Divisão de Concepção e Métodos, a Divisão de Produção e a Divisão de Apoio.
 
 2 - À Divisão de Concepção e Métodos do SIA competem as actividades inerentes a análise e programação, a manutenção de programas e respectiva biblioteca e ao desenvolvimento e coordenação da metodologia inerente à execução da informática da Armada.
 
@@ -202,7 +256,7 @@ c) A 3.ª Repartição (Inspecções Administrativas).
 
 5 - As funções do SIA situam-se no domínio da gestão administrativo-financeira, onde são exclusivas, e bem assim em todos os demais domínios onde, na Marinha, não estejam estruturados serviços próprios de informática, ou em complemento destes, quando existam. Em qualquer dos casos, as actividades de coordenação metodológica que competem ao SIA são exclusivas, tendo em vista uma utilização racional de ficheiros e bases de dados e a maximização do rendimento do sistema central de tratamento de dados, que é único para todos os domínios e cuja gestão incumbe ao SIA, em conformidade com as directivas para o efeito estabelecidas pelo Chefe do Estado-Maior da Armada.
 
-###### Art. 13.º No artigo 6.º do [Decreto n.º 48819](https://diariodarepublica.pt/dr/detalhe/decreto/48819-1968-256662), de 31 de Dezembro de 1968, que trata da Comissão Liquidatária de Responsabilidades (CLR), os seus §§ 1.º e 2.º passam a ter a redacção seguinte, distribuída por três parágrafos:
+Art. 13.º No artigo 6.º do [Decreto n.º 48819](https://diariodarepublica.pt/dr/detalhe/decreto/48819-1968-256662), de 31 de Dezembro de 1968, que trata da Comissão Liquidatária de Responsabilidades (CLR), os seus §§ 1.º e 2.º passam a ter a redacção seguinte, distribuída por três parágrafos:
 
 § 1.º A CLR é presidida por um oficial general da classe de administração naval do activo ou da reserva, e da mesma fazem parte o superintendente dos Serviços Financeiros da Armada, o director da 6.ª Delegação da Direcção-Geral da Contabilidade Pública, como representante do Ministério das Finanças, os directores da Direcção do Apuramento de Responsabilidades e da Direcção da Fazenda Naval e um oficial superior de administração naval do activo ou da reserva, que desempenha as funções de secretário.
 
@@ -210,7 +264,7 @@ c) A 3.ª Repartição (Inspecções Administrativas).
 
 § 3.º A CLR é de carácter permanente e dispõe de uma secretaria própria.
 
-###### Art. 14.º - 1 - Os organismos que, nos termos do artigo 3.º do [Decreto n.º 48819](https://diariodarepublica.pt/dr/detalhe/decreto/48819-1968-256662), integravam a Intendência dos Serviços Financeiros da Marinha (ISAFM), extinta pelo [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, cessam as suas funções, sem solução de continuidade, com a criação dos organismos que resultam do presente diploma.
+Art. 14.º - 1 - Os organismos que, nos termos do artigo 3.º do [Decreto n.º 48819](https://diariodarepublica.pt/dr/detalhe/decreto/48819-1968-256662), integravam a Intendência dos Serviços Financeiros da Marinha (ISAFM), extinta pelo [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, cessam as suas funções, sem solução de continuidade, com a criação dos organismos que resultam do presente diploma.
 
 2 - Todo o pessoal, instalações, equipamentos, funções e responsabilidades dos organismos cessantes transitam para os novos organismos na conformidade seguinte:
 
@@ -222,24 +276,24 @@ c) Para o Serviço de Informática da Armada, os do Serviço Mecanográfico da A
 
 d) Para a Secretaria Central, os da Secretaria da extinta ISAFM.
 
-###### Art. 15.º É extinta a Comissão Técnica de Administração Naval.
+Art. 15.º É extinta a Comissão Técnica de Administração Naval.
 
-###### Art. 16.º As lotações do pessoal militar e do pessoal civil da Superintendência dos Serviços Financeiros são fixadas, respectivamente, por portaria e por despacho do Chefe do Estado-Maior da Armada.
+Art. 16.º As lotações do pessoal militar e do pessoal civil da Superintendência dos Serviços Financeiros são fixadas, respectivamente, por portaria e por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 17.º - 1 - No artigo 4.º do [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942, que aprovou e mandou pôr em execução o Regulamento de Administração da Fazenda Naval (RAFN), a incumbência atribuída à extinta ISAFM passa a competir, nos mesmos termos, à Superintendência dos Serviços Financeiros.
+Art. 17.º - 1 - No artigo 4.º do [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942, que aprovou e mandou pôr em execução o Regulamento de Administração da Fazenda Naval (RAFN), a incumbência atribuída à extinta ISAFM passa a competir, nos mesmos termos, à Superintendência dos Serviços Financeiros.
 
 2 - Nos termos da disposição citada no número anterior, serão por portaria do Chefe do Estado-Maior da Armada introduzidas no RAFN as alterações que decorrem do estabelecido neste diploma.
 
 3 - Até à publicação da referida portaria, as disposições do RAFN consideram-se desde já reajustadas em conformidade com a transferência de funções e responsabilidade expressamente referida no artigo 14.º deste diploma.
 
-###### Art. 18.º Sem prejuízo do disposto no n.º 2 do artigo 14.º, são revogados o [Decreto n.º 44521](https://diariodarepublica.pt/dr/detalhe/decreto/44521-1962-163215), de 18 de Agosto de 1962, os artigos 1.º a 5.º, inclusive, do [Decreto n.º 48819](https://diariodarepublica.pt/dr/detalhe/decreto/48819-1968-256662), de 31 de Dezembro de 1968, e a [Portaria n.º 24383](https://diariodarepublica.pt/dr/detalhe/portaria/24383-1969-216127), de 22 de Outubro de 1969.
+Art. 18.º Sem prejuízo do disposto no n.º 2 do artigo 14.º, são revogados o [Decreto n.º 44521](https://diariodarepublica.pt/dr/detalhe/decreto/44521-1962-163215), de 18 de Agosto de 1962, os artigos 1.º a 5.º, inclusive, do [Decreto n.º 48819](https://diariodarepublica.pt/dr/detalhe/decreto/48819-1968-256662), de 31 de Dezembro de 1968, e a [Portaria n.º 24383](https://diariodarepublica.pt/dr/detalhe/portaria/24383-1969-216127), de 22 de Outubro de 1969.
 
-###### Art. 19.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 19.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 31 de Agosto de 1979.
 
-**Promulgado em 10 de Setembro de 1979.**
+Promulgado em 10 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

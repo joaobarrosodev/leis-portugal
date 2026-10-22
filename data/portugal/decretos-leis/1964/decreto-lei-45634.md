@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45634-1964-470833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb8f7b766995c6a8374949eb7d87354eef9a3522995f35d2bd9e2975230bc3ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33954a4afa8dc1560a7fdf127285ec7364602d8e57f0acfacad4d0f400301bd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Liceal
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:637471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:26Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +106,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 24.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947, passa a ter a seguinte redacção:
+Artigo único. O artigo 24.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947, passa a ter a seguinte redacção:
 
-###### Art. 24.º - 1. Os quadros dos professores dos liceus são os constantes das tabelas n.os 1, 2 e 3 anexas ao presente decreto-lei.
+Art. 24.º - 1. Os quadros dos professores dos liceus são os constantes das tabelas n.os 1, 2 e 3 anexas ao presente decreto-lei.
 
 2. Se, em consequência de concursos para professores auxiliares de qualquer grupo do quadro masculino, sòmente metade, ou menos de metade, das vaga forem preenchidas e, no mesmo grupo, todo os lugares do quadro auxiliar feminino estiverem providos, poder-se-á abrir imediatamente concurso para candidatos do sexo feminino e para o número de vagas julgado conveniente. Anàlogamente se poderá proceder quanto aos concursos dos quadros femininos.
 
@@ -108,7 +116,7 @@ Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os professores ou professoras que fizerem parte, respectivamente, do quadro feminino ou do masculino transitarão automàticamente para o outro quadro, segundo a ordem de preferência legal, à medida que nestes ocorrerem vagas dentro dos seus grupos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -116,18 +124,18 @@ TABELA N.º 1
 
 Quadro dos professores efectivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf))](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf)
 
 TABELA N.º 2
 
 Quadro dos professores contratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf))](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf)
 
 TABELA N.º 3
 
 Quadro dos professores auxiliares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf))](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/03/07700/04570459.pdf)
 
 Ministério da Educação Nacional, 31 de Março de 1964. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

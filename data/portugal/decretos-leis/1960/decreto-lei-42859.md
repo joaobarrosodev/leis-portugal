@@ -49,36 +49,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42859-1960-282135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29cf1afe40cc976b76b057e53b28d45895d496080614fba95cb341c667f661ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f979adec750d2cc736702f5356fa3da27a20c978c17c077ed0dccaa60d1fea36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- EUA
+- Lisboa
+- Portugal
+- Serviço Postal
+- Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:19Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +93,9 @@ validation:
 
 Usando da faculdade conferida pela segunda parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre as Administrações dos Estados Unidos da América e de Portugal metropolitano para a permuta de encomendas postais, bem como o Regulamento para a sua execução, ambos assinados, respectivamente, em Lisboa, em 12 de Janeiro de 1959, pelas autoridades portuguesas, e em Washington, em 27 de Fevereiro do mesmo ano, pelas autoridades americanas, cujos textos em inglês e respectiva tradução portuguesa são os que seguem anexos ao decreto.
+Artigo único. É aprovado, para ratificação, o Acordo entre as Administrações dos Estados Unidos da América e de Portugal metropolitano para a permuta de encomendas postais, bem como o Regulamento para a sua execução, ambos assinados, respectivamente, em Lisboa, em 12 de Janeiro de 1959, pelas autoridades portuguesas, e em Washington, em 27 de Fevereiro do mesmo ano, pelas autoridades americanas, cujos textos em inglês e respectiva tradução portuguesa são os que seguem anexos ao decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -97,15 +103,11 @@ Acordo entre as Administrações dos Estados Unidos da América e de Portugal me
 
 Os abaixo assinados, em representação das Administrações Postais dos Estados Unidos da América e de Portugal metropolitano, habilitados com plenos poderes pelos respectivos Governos, firmam, por entendimento mútuo, o seguinte Acordo:
 
-ARTIGO I
-
-Objecto do Acordo
+###### ARTIGO I — Objecto do Acordo
 
 Entre os Estados Unidos da América (incluindo Alasca, Porto Rico, as ilhas Virgens, Guam, Samoa e Hawai), por um lado, e Portugal metropolitano (continente e arquipélago dos Açores e da Madeira), por outro lado, é estabelecida a permuta de encomenpostais, até aos limites de peso e dimensões admitidos no Regulamento para a execução deste Acordo.
 
-ARTIGO II
-
-Encomendas em trânsito
+###### ARTIGO II — Encomendas em trânsito
 
 1. Cada Administração Postal garante o direito de trânsito, através dos seus territórios, de ou para qualquer país com o qual mantenha serviço de encomendas postais, das encomendas originárias da outra Administração contratante ou a esta destinadas.
 
@@ -113,23 +115,17 @@ Encomendas em trânsito
 
 3. As encomendas em trânsito expedidas por qualquer das Administrações contratantes deverão obedecer às condições de aceitação exigidas pela Administração intermediária.
 
-ARTIGO III
-
-Portes e outras taxas
+###### ARTIGO III — Portes e outras taxas
 
 1. A Administração de origem cobrará do remetente o porte das encomendas, bem como as taxas respeitantes aos pedidos de informação e aos pedidos de avisos de recepção, quer estes pedidos acompanhem a encomenda, quer sejam formulados posteriormente.
 
 2. Excepto no caso de encomendas devolvidas ou reexpedidas, os portes e as taxas indicados no número anterior deverão ser pagos adiantadamente.
 
-ARTIGO IV
-
-Acondicionamento de encomendas
+###### ARTIGO IV — Acondicionamento de encomendas
 
 As encomendas postais devem ser acondicionadas segundo a natureza do conteúdo, o peso e a duração do transporte, conforme o determinado no Regulamento de execução desta Acordo.
 
-ARTIGO V
-
-Proibições
+###### ARTIGO V — Proibições
 
 1. As encomendas postais não podem conter:
 
@@ -155,17 +151,13 @@ Proibições
 
 5. Se uma encomenda indevidamente aceite não for devolvida à origem ou entregue ao destinatário, a Administração de origem deverá ser informada do tratamento dado à mesma encomenda.
 
-ARTIGO VI
-
-Declaração de valor
+###### ARTIGO VI — Declaração de valor
 
 1. A declaração de valor de uma encomenda não pode ultrapassar a quantia de 500 francos-ouro ou o seu equivalente em moeda do país de origem. As Administrações Postais podem, no entanto, acordar em aumentar ou diminuir este máximo estabelecido para a declaração de valor.
 
 2. A indemnização por uma encomenda nunca pode ser superior ao valor real do seu conteúdo. É permitido declarar, apenas, uma parte do valor real de uma encomenda.
 
-ARTIGO VII
-
-Responsabilidade. Indemnização
+###### ARTIGO VII — Responsabilidade. Indemnização
 
 1. As Administrações Postais dos dois países interessados só tomam responsabilidade pela perda, avaria ou espoliação de encomendas com «valor declarado» («valeur déclarée»).
 
@@ -183,9 +175,7 @@ Responsabilidade. Indemnização
 
 8. Quando, a pedido do remetente ou do destinatário, uma encomenda com valor declarado aceite num país para ser entregue noutro for reexpedida ou devolvida daí para um terceiro país, a pessoa com direito à indemnização, no caso de perda, espoliação ou avaria ocorrida posteriormente à reexpedição ou devolução da encomenda pelo primeiro país de destino, sòmente poderá reclamar a indemnização que o país onde ocorreu essa perda, espoliação ou avaria deva pagar ou a que esse país seja obrigado a pagar, em harmonia com o acordo celebrado entre os países directamente interessados na expedição ou devolução. Qualquer das Administrações signatárias do presente Acordo que erradamente envie uma encomenda com valor declarado para um terceiro país é responsável perante o remetente, da mesma forma que o é, nos termos deste mesmo Acordo, para com o país de origem.
 
-ARTIGO VIII
-
-Excepções ao princípio de responsabilidade
+###### ARTIGO VIII — Excepções ao princípio de responsabilidade
 
 1. As duas Administrações ficam isentas de responsabilidade, no que respeita a encomendas com valor declarado:
 
@@ -209,25 +199,19 @@ Excepções ao princípio de responsabilidade
 
 2. O remetente é responsável pelas deficiências do acondicionamento, do fecho e da selagem das encomendas com valor declarado. As duas Administrações ficam ilibadas de toda a responsabilidade no caso de perda, espoliação ou avaria causada por defeitos que não tenham sido notados no acto da aceitação das encomendas.
 
-ARTIGO IX
-
-Cessação da responsabilidade
+###### ARTIGO IX — Cessação da responsabilidade
 
 1. A responsabilidade das Administrações cessa desde que as encomendas tenham sido entregues regularmente aos destinatários ou seus representantes.
 
 2. A responsabilidade mantém-se quando o destinatário ou o remetente, no caso de devolução, formule reservas no acto da entrega das encomendas.
 
-ARTIGO X
-
-Pagamento de indemnizações
+###### ARTIGO X — Pagamento de indemnizações
 
 1. O pagamento da indemnização compete à Administração de origem, excepto nos casos previstos no n.º 2 do artigo VII, em que o pagamento da indemnização incumbe à Administração de destino.
 
 2. A Administração de origem poderá, com prévio consentimento do remetente, autorizar a Administração de destino a liquidar a indemnização ao destinatário. A Administração que efectuar o pagamento reserva o direito de ser reembolsada pela Administração responsável.
 
-ARTIGO XI
-
-Prazo para pagamento de indemnizações
+###### ARTIGO XI — Prazo para pagamento de indemnizações
 
 1. O pagamento de indemnizações por encomendas com valor declarado deverá ser feito ao legítimo reclamante o mais cedo possível e dentro do período de um ano, a contar do dia seguinte àquele em que a reclamação foi apresentada.
 
@@ -235,9 +219,7 @@ Prazo para pagamento de indemnizações
 
 3. Salvo nos casos em que o pagamento é excepcionalmente prorrogado, nas condições indicadas no número anterior, à Administração Postal que queira efectuar o pagamento de uma indemnização pode fazê-lo por conta da Administração que, depois de informada da reclamação, tenha deixado decorrer nove meses sem solucionar o assunto.
 
-ARTIGO XII
-
-Determinação da responsabilidade
+###### ARTIGO XII — Determinação da responsabilidade
 
 1. Até prova em contrário, a responsabilidade por uma encomenda com valor declarado pertence à Administração que, tendo recebido a encomenda sem reservas e dispondo de todos os meios regulamentares de investigação, não puder provar o destino que lhe foi dado.
 
@@ -249,17 +231,13 @@ Determinação da responsabilidade
 
 5. Se uma encomenda considerada extraviada for posteriormente encontrada, total ou parcialmente, a pessoa a quem foi paga a indemnização deverá ser informada de que a encomenda lhe poderá ser entregue desde que restitua a indemnização que lhe foi paga ou a importância correspondente à parte da mercadoria que haja sido encontrada, conforme o caso.
 
-ARTIGO XIII
-
-Reembolso das indemnizações
+###### ARTIGO XIII — Reembolso das indemnizações
 
 1. A Administração responsável pela perda, espoliação ou avaria de uma encomenda com valor declarado, sempre que qualquer indemnização seja paga por sua conta, é obrigada a reembolsar o montante desta indemnização à Administração que tiver efectuado o pagamento. Este reembolso deve ser efectuado sem demora, o mais tardar dentro do prazo de nove meses, a contar da notificação do pagamento.
 
 2. Estes reembolsos à Administração credora devem ser efectuados sem encargos para esta, em vale de correio ou cheque, em moeda corrente no país credor, por desconto nas respectivas contas ou qualquer outro meio acordado mùtuamente por correspondência.
 
-ARTIGO XIV
-
-Certificado de depósito de encomendas
+###### ARTIGO XIV — Certificado de depósito de encomendas
 
 Recibos
 
@@ -267,9 +245,7 @@ Recibos
 
 2. Ao remetente de encomenda com valor declarado será entregue, no acto do depósito da encomenda, recibo gratuito.
 
-ARTIGO XV
-
-Avisos de recepção e pedidos de informação
+###### ARTIGO XV — Avisos de recepção e pedidos de informação
 
 1. O remetente de uma encomenda com valor declarado pode obter aviso de recepção pagando a taxa adicional que estiver prevista nos regulamentos do país de procedência da encomenda.
 
@@ -277,55 +253,39 @@ Avisos de recepção e pedidos de informação
 
 3. As reclamações sobre quaisquer irregularidades que não possam, desde logo, ser atribuídas ao serviço postal podem também dar lugar à cobrança de uma taxa fixa, se a Administração do país de origem assim o entender.
 
-ARTIGO XVI
-
-Direitos aduaneiros
+###### ARTIGO XVI — Direitos aduaneiros
 
 As encomendas estão sujeitas a todas as leis e regulamentos aduaneiros em vigor no país de destino. Os direitos com que elas forem oneradas devem ser cobrados do destinatário no acto da entrega da encomenda, de acordo com os regulamentos aduaneiros.
 
-ARTIGO XVII
-
-Anulação de direitos aduaneiros
+###### ARTIGO XVII — Anulação de direitos aduaneiros
 
 Ambas as Administrações concordam em anular os direitos aduaneiros e outras taxas não postais relativos às encomendas postais devolvidas ao país de procedência reexpedidas para outro país ou abandonadas pelo expedidor.
 
-ARTIGO XVIII
-
-Taxa de desalfandegação
+###### ARTIGO XVIII — Taxa de desalfandegação
 
 A Administração do país de destino pode cobrar do destinatário, quer pela entrega à alfândega e cumprimento de formalidades aduaneiras, quer sòmente pela entrega à alfândega, uma taxa máxima de 80 cêntimos-ouro por encomenda ou qualquer outra taxa que seja estabelecida para o regime internacional.
 
-ARTIGO XIX
-
-Entrega ao destinatário
+###### ARTIGO XIX — Entrega ao destinatário
 
 Taxa de entrega ao domicílio
 
 As encomendas devem ser entregues aos destinatários no mais curto prazo possível e conforme as disposições em vigor no país de destino. As Administrações destinatárias podem cobrar pela distribuição em domicílio uma taxa máxima idêntica à que se encontra estabelecida na sua regulamentação interna. A mesma taxa pode ser aplicada todas as vezes que uma encomenda seja novamente apresentada ao destinatário, quer no domicílio particular, quer no local onde ele exerça a sua profissão.
 
-ARTIGO XX
-
-Taxa de armazenagem
+###### ARTIGO XX — Taxa de armazenagem
 
 A Administração do país de destino é autorizada a cobrar as taxas de armazenagem fixadas na sua legislação interna pelas encomendas dirigidas à posta restante ou que não sejam levantadas dentro dos prazos estabelecidos. Contudo, estas taxas não poderão, em caso algum, exceder 5 francos-ouro.
 
-ARTIGO XXI
-
-Restituição e rectificação do endereço
+###### ARTIGO XXI — Restituição e rectificação do endereço
 
 1. Enquanto uma encomenda não for entregue ao destinatário, pode o remetente pedir que ela lhe seja restituída ou que seja alterado o seu endereço. A Administração de origem pode cobrar e arrecadar por este serviço a taxa fixada nos seus regulamentos.
 
 2. Os pedidos de restituição ou de rectificação de endereço das encomendas a entregar nos Estados Unidos da América devem ser endereçados à Administração Central dos Correios de Washington e os relativos a encomendas a entregar em Portugal devem ser endereçados às respectivas estações de permuta.
 
-ARTIGO XXII
-
-Encomendas erradamente encaminhadas
+###### ARTIGO XXII — Encomendas erradamente encaminhadas
 
 As encomendas erradamente encaminhadas ou indevidamente aceites serão reexpedidas ou devolvidas, conforme estiver estabelecido no Regulamento deste Acordo.
 
-ARTIGO XXIII
-
-Reexpedição
+###### ARTIGO XXIII — Reexpedição
 
 1. A reexpedição de uma encomenda por mudança de residência do destinatário no território do país de destino pode ser feita quer a pedido do destinatário, quer a pedido do remetente. Estas reexpedições dão lugar à cobrança das taxas suplementares que se encontram estabelecidas para o serviço interno de cada país.
 
@@ -333,9 +293,7 @@ Reexpedição
 
 3. As taxas adicionais que onerarem as encomendas a reexpedir e que não tiverem sido pagas pelo destinatário ou pelo seu representante não serão anuladas no caso de nova rexpedição ou devolução à origem, devendo ser cobradas do novo destinatário ou do remetente, conforme o caso, independentemente de quaisquer outras taxas que onerem as encomendas.
 
-ARTIGO XXIV
-
-Encomendas não entregues
+###### ARTIGO XXIV — Encomendas não entregues
 
 1. No caso do depósito de uma encomenda, o remetente poderá declarar que, no caso de ela não ser entregue ao destinatário, tenha um dos seguintes tratamentos: (a) seja entregue, no país de destino, a outra pessoal determinada; (b) seja abandonada; (c) seja devolvida ao próprio remetente. Se o remetente quiser utilizar-se desta faculdade, deverá indicar na própria encomenda e na declaração para a alfândega uma das seguintes declarações:
 
@@ -351,21 +309,15 @@ Nenhuma outra declaração além das indicadas será permitida.
 
 3. As taxas devidas pela devolução de encomendas serão reembolsadas à Administração que fez a devolução, nos termos do Regulamento deste Acordo.
 
-ARTIGO XXV
-
-Venda e inutilização das encomendas
+###### ARTIGO XXV — Venda e inutilização das encomendas
 
 1. As encomendas cujo conteúdo esteja sujeito a deterioração ou corrupção devem ser vendidas imediatamente, mesmo em trânsito, à ida ou à volta, sem aviso prévio ou formalidade judicial. Se a venda for impossível, as encomendas serão inutilizadas, fazendo-se a necessária comunicação à Administração de origem.
 
-ARTIGO XXVI
-
-Encomendas abandonadas
+###### ARTIGO XXVI — Encomendas abandonadas
 
 As encomendas que não possam ser entregues aos destinatários e tenham sido abandonadas pelos remetentes não devem ser devolvidas à Administração de origem. Estas encomendas serão tratadas de acordo com a legislação interna do país de destino, não podendo sobre elas a Administração de destino formular qualquer reclamação contra a de origem.
 
-ARTIGO XXVII
-
-Taxas
+###### ARTIGO XXVII — Taxas
 
 1. Por cada encomenda permutada entre as Administrações contratantes, a estação expedidora creditará a estação destinatária, nas guias de expedição, dos abonos devidos a esta última indicados no Regulamento de execução.
 
@@ -377,15 +329,11 @@ Taxas
 
 3. A importância a pagar por uma encomenda em trânsito, quer destinada a uma possessão, quer destinada a um terceiro país, será a indicada no Regulamento de execução ou a fixada por cada Administração e comunicada por meio de correspondência.
 
-ARTIGO XXVIII
-
-Encomendas-avião
+###### ARTIGO XXVIII — Encomendas-avião
 
 As Administrações Postais dos dois países têm o direito de fixar, por mútuo acordo, a sobretaxa-avião e outras condições sempre que as encomendas sejam expedidas por via aérea.
 
-ARTIGO XXIX
-
-Disposições gerais
+###### ARTIGO XXIX — Disposições gerais
 
 1. Os francos e os cêntimos mencionados neste Acordo são os francos-ouro e os cêntimos-ouro definidos na Convenção da União Postal Universal.
 
@@ -393,9 +341,7 @@ Disposições gerais
 
 3. Em circunstâncias excepcionais, qualquer das duas Administrações pode suspender temporàriamente o serviço de encomendas postais, quer parcial, quer totalmente, desde que disso dê imediato conhecimento, quando necessário por telégrafo, à outra Administração.
 
-ARTIGO XXX
-
-Assuntos não previstos no presente Acordo
+###### ARTIGO XXX — Assuntos não previstos no presente Acordo
 
 1. Todas as questões não previstas neste Acordo relativas a pedidos de restituição ou devolução de encomendas postais e ao expediente a dar aos avisos de recepção ou aos pedidos de indemnização das encomendas com valor declarado devem ser resolvidas pelas disposições da Convenção Postal Universal e seus Regulamentos de execução, na medida em que tais disposições possam ser aplicadas sem contrariar o preceituado neste mesmo Acordo. Nos casos omissos será aplicada a legislação interna dos Estados Unidos da América ou de Portugal, e as decisões tomadas por uma ou por outra das Administrações serão aplicáveis no respectivo país.
 
@@ -403,9 +349,7 @@ Assuntos não previstos no presente Acordo
 
 3. As duas Administrações podem notificar-se, mùtuamente, das suas leis, regulamentos e tarifas relativas à permuta de encomendas postais e, bem assim, de todas as alterações de taxas que subsequentemente venham a fazer.
 
-ARTIGO XXXI
-
-Entrada em vigor e duração do Acordo
+###### ARTIGO XXXI — Entrada em vigor e duração do Acordo
 
 Este Acordo entrará em vigor na data ajustada entre as Administrações dos dois países e continuará em vigor enquanto não for denunciado, com seis meses de antecedência, por qualquer das duas Administrações.
 
@@ -631,4 +575,4 @@ Administrador-Geral dos Correios de Portugal, Luis d'Albuquerque Couto dos Santo
 
 Administrador-Geral dos Correios dos Estados Unidos da América, Arthur E. Summerfield.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/02/04400/06770692.pdf))](https://files.diariodarepublica.pt/1s/1960/02/04400/06770692.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/02/04400/06770692.pdf)

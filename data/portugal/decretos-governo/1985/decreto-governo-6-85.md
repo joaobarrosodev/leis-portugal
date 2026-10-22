@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/6-1985-325551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0ff08114a2b4dcb5ffd5e4f42cac81d5ffc05a2b3fb7a7e2760fdb713703248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7623fb19ec15fba5e68cc8be22484172302a684b398a94c7b6f5afe00d33ae42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benin
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:35Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 8 de Abril
 
 O Governo decreta, nos termos do n.º 1, alínea c), e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural e Científico entre a República Portuguesa e a República Popular do Benin, assinado em Cotonou em 26 de Julho de 1984, cujo texto em francês e sua tradução portuguesa vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural e Científico entre a República Portuguesa e a República Popular do Benin, assinado em Cotonou em 26 de Julho de 1984, cujo texto em francês e sua tradução portuguesa vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Jaime José Matos da Gama - João de Deus Rogado Salvador Pinheiro - António Antero Coimbra Martins - Júlio Miranda Calha.
 
-**Assinado em 8 de Março de 1985.**
+Assinado em 8 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Março de 1985.**
+Referendado em 13 de Março de 1985.
 
-**O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.**
+O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.
 
 ACCORD CULTUREL ET SCIENTIFIQUE ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA RÉPUBLIQUE POPULAIRE DU BÉNIN
 

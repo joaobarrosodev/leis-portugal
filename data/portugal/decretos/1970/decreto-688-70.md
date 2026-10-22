@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 301/1970, 1º Suplemento, Série I de 1970-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2024-(17) a 2024-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30101/00170024.pdf
 entry_into_force_dates: []
@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/688-1970-414437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf59dd3d47925bb81c53a855e03b0ae43b43e129633ddfcbc7a71b7b328e6018
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 184ab83879a06f9c4d4fccac2d16257fc708bc4a521673b36e0671a1610c3674
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa
+- Imposto sobre o Rendimento do Petróleo
+- Países e Territórios Ultramarinos
+- Petróleo
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:155410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414436:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:22Z'
   warnings: []
   errors: []
 ---
@@ -90,31 +107,31 @@ Por motivo de urgência, tendo em vista o § 1.º do artigo 150.º da Constitui�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1. É aprovado o Regulamento do Imposto sobre o Rendimento do Petróleo nas províncias ultramarinas, que faz parte integrante do presente decreto e baixa assinado pelo Ministro do Ultramar.
+Artigo 1. É aprovado o Regulamento do Imposto sobre o Rendimento do Petróleo nas províncias ultramarinas, que faz parte integrante do presente decreto e baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º O Regulamento começará a vigorar em todas as províncias ultramarinas em 1 de Janeiro de 1971.
+Art. 2.º O Regulamento começará a vigorar em todas as províncias ultramarinas em 1 de Janeiro de 1971.
 
-###### Art. 3.º Relativamente às empresas cujos contratos de concessão prevejam subordinação à regulamentação anterior do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, a aplicação do presente diploma ficará dependente de resolução a tomar pelo Governo.
+Art. 3.º Relativamente às empresas cujos contratos de concessão prevejam subordinação à regulamentação anterior do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, a aplicação do presente diploma ficará dependente de resolução a tomar pelo Governo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 31 de Dezembro de 1970.**
+Promulgado em 31 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 REGULAMENTO DO IMPOSTO SOBRE O RENDIMENTO DO PETRÓLEO
 
-###### Artigo 1.º O imposto de que trata o presente Regulamento incide sobre os rendimentos tributáveis nos termos deste Regulamento auferidos pelas pessoas singulares ou colectivas, nacionais ou estrangeiras, que exerçam nas províncias ultramarinas qualquer das seguintes actividades:
+Artigo 1.º O imposto de que trata o presente Regulamento incide sobre os rendimentos tributáveis nos termos deste Regulamento auferidos pelas pessoas singulares ou colectivas, nacionais ou estrangeiras, que exerçam nas províncias ultramarinas qualquer das seguintes actividades:
 
 a) Prospecção, pesquisa, desenvolvimento, produção, armazenagem, venda, exportação, tratamento e transporte de petróleo entre pontos do mesmo espaço fiscal;
 
 b) Comércio por grosso de quaisquer outros produtos provenientes das operações referidas na alínea anterior.
 
-###### Art. 2.º Para os efeitos deste Regulamento, entende-se por:
+Art. 2.º Para os efeitos deste Regulamento, entende-se por:
 
 1. Petróleo. - Mistura natural de hidrocarbonetos líquidos e/ou gasosos, incluindo todas as substâncias de qualquer outra natureza que com eles se encontrem em combinação, suspensão ou mistura, com exclusão dos hidrocarbonetos sólidos e de todas as concentrações de hidrocarbonetos naturais cuja exploração não possa ser feita pelos métodos normais de exploração por sondagem.
 
@@ -182,11 +199,11 @@ b) Esteja localizado na proximidade de outro ou outros poços produtivos e no qu
 
 5. Instalações de tratamento de petróleo. - Todo o equipamento principal, auxiliar e respectivas infra-estruturas necessárias à extracção de materiais estranhos ou à separação de fracções de petróleo, por quaisquer processos, com ou sem alteração química, não mencionado nas instalações de produção.
 
-###### Art. 3.º - 1. O rendimento tributável reportar-se-á ao saldo revelado pela conta dos resultados de cada exercício, elaborado em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício anterior àquele a que o ano fiscal respeitar e os custos ou perdas imputáveis ao mesmo exercício, uns e outros eventualmente corrigidos nos termos deste diploma.
+Art. 3.º - 1. O rendimento tributável reportar-se-á ao saldo revelado pela conta dos resultados de cada exercício, elaborado em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício anterior àquele a que o ano fiscal respeitar e os custos ou perdas imputáveis ao mesmo exercício, uns e outros eventualmente corrigidos nos termos deste diploma.
 
 2. O exercício de que se fala neste Regulamento corresponde ao decurso de cada ano civil.
 
-###### Art. 4.º - 1. Consideram-se proveitos ou ganhos do exercício os provenientes de quaisquer transacções ou operações realizadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, designadamente os resultantes:
+Art. 4.º - 1. Consideram-se proveitos ou ganhos do exercício os provenientes de quaisquer transacções ou operações realizadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, designadamente os resultantes:
 
 a) Da actividade básica, tais como os resultantes de atribuições de produtos em espécie, inclusive a título de imposto, ou a venda de produtos e de quaisquer outros bens ou serviços, e bem assim bónus e abatimentos conseguidos e comissões e corretagens;
 
@@ -206,7 +223,7 @@ g) Da prestação de serviços de carácter administrativo, comercial, técnico 
 
 3. São ainda havidos como proveitos ou ganhos as indemnizações que, de algum modo, representem compensação dos que deixaram de ser obtidos, bem como as mais-valias realizadas ou contabilizadas.
 
-###### Art. 5.º - 1. Para efeitos de determinação de ganhos ou proveitos, considerar-se-ão as vendas de petróleo como efectuadas nas condições indicadas nos números seguintes.
+Art. 5.º - 1. Para efeitos de determinação de ganhos ou proveitos, considerar-se-ão as vendas de petróleo como efectuadas nas condições indicadas nos números seguintes.
 
 2. Relativamente às ramas e gasolina natural exportadas da província durante o ano civil, considera-se que as vendas são feitas pelos preços afixados, diminuídos dos descontos que, por uma ou mais vezes, forem aprovados pelo Ministro do Ultramar, tendo em conta a situação de concorrência para ramas de qualidade e densidade comparáveis e para gasolina natural.
 
@@ -218,7 +235,7 @@ g) Da prestação de serviços de carácter administrativo, comercial, técnico 
 
 6. Sempre que, por incúria do contribuinte ou de operador por conta deste, se verifique deficiência de operação ou acidente de que resulte perda de quaisquer quantidades de petróleo, considerar-se-á, para efeitos de cálculo de ganhos ou proveitos da empresa, como rendimento desta, o produto das quantidades perdidas ou tècnicamente susceptíveis de terem sido produzidas se tal acidente ou deficiência se não tivesse verificado, pelo valor da referida substância, tal como definido nos n.os 2, 4 e 5 deste artigo, salvo para o caso do gás natural, em que, na falta de valores reais de venda, o respectivo valor será calculado tendo na devida conta o poder calorífico do gás comparado com o do fuelóleo tipo bunker C e o preço deste posto no campo.
 
-###### Art. 6.º - 1. Para efeitos de cálculo do imposto sobre o rendimento do petróleo, o valor das ramas exportadas para o estrangeiro será estabelecido pelo contribuinte com base nos preços afixados (posted prices) publicados de ramas de qualidade e densidade comparáveis às exportadas e vigorando nos principais centros internacionais de exportação de ramas, tendo em conta as diferenças em qualidade, densidade, situação geográfica e outros factores relevantes.
+Art. 6.º - 1. Para efeitos de cálculo do imposto sobre o rendimento do petróleo, o valor das ramas exportadas para o estrangeiro será estabelecido pelo contribuinte com base nos preços afixados (posted prices) publicados de ramas de qualidade e densidade comparáveis às exportadas e vigorando nos principais centros internacionais de exportação de ramas, tendo em conta as diferenças em qualidade, densidade, situação geográfica e outros factores relevantes.
 
 2. Aplicam-se à gasolina natural os mesmos princípios do n.º 1 deste artigo.
 
@@ -232,7 +249,7 @@ g) Da prestação de serviços de carácter administrativo, comercial, técnico 
 
 7. Para a determinação do valor diário em escudos do preço afixado em dólares dos Estados Unidos por barril de cada qualidade e densidade de ramas utilizar-se-á a equivalência entre escudos e dólares dos Estados Unidos, tal como definida pelo Fundo Monetário Internacional à data da avaliação ou, na sua falta, por outra referência aceite conjuntamente pelo Governo e pelo contribuinte.
 
-###### Art. 7.º Consideram-se custos ou perdas imputáveis ao exercício os que, dentro dos limites considerados razoáveis pelos serviços provinciais da Fazenda e contabilidade, se tornou indispensável despender para a obtenção dos proveitos ou ganhos sujeitos a imposto e para a manutenção da fonte produtora, designadamente os seguintes:
+Art. 7.º Consideram-se custos ou perdas imputáveis ao exercício os que, dentro dos limites considerados razoáveis pelos serviços provinciais da Fazenda e contabilidade, se tornou indispensável despender para a obtenção dos proveitos ou ganhos sujeitos a imposto e para a manutenção da fonte produtora, designadamente os seguintes:
 
 a) Encargos da actividade básica, acessória ou complementar relativos à produção ou aquisição de quaisquer bens ou serviços, tais como os respeitantes a materiais diversos, artigos de consumo corrente, mão-de-obra, energia e outros gastos gerais de produção, conservação ou reparação;
 
@@ -258,11 +275,11 @@ l) Dívidas incobráveis, resultantes da actividade normal da empresa, quando re
 
 m) Juros e outros encargos relativos a empréstimos efectivamente pagos, quando devidamente autorizados pelo Governo.
 
-###### Art. 8.º - 1. As taxas de reintegração ou amortização das instalações referidas na alínea f) do artigo anterior são as constantes da tabela anexa a este diploma.
+Art. 8.º - 1. As taxas de reintegração ou amortização das instalações referidas na alínea f) do artigo anterior são as constantes da tabela anexa a este diploma.
 
 2. Os equipamentos e instalações auxiliares a utilizar nas várias operações de prospecção, pesquisa, desenvolvimento, produção, armazenagem, tratamento e entrega serão reintegrados ou amortizados, para efeitos de apuramento de custos, de acordo com a tabela anexa.
 
-###### Art. 9.º Para os efeitos deste diploma, o custo de concessão a que se refere a alínea g) do artigo 7.º compreende:
+Art. 9.º Para os efeitos deste diploma, o custo de concessão a que se refere a alínea g) do artigo 7.º compreende:
 
 a) Despesas efectivamente feitas pela concessionária, devidamente comprovadas, com vista à obtenção da concessão;
 
@@ -272,7 +289,7 @@ c) Encargos de natureza administrativa, designadamente gastos em benefício do p
 
 d) Encargos com perfuração de poços estéreis em áreas não demarcadas definitivamente, designadamente com consumo de materiais, mão-de-obra, serviços prestados por terceiros e amortização do equipamento e instalações utilizadas nessas operações.
 
-###### Art. 10.º Não se consideram custos ou perdas do exercício:
+Art. 10.º Não se consideram custos ou perdas do exercício:
 
 a) As reintegrações ou amortizações contabilizadas fora do ano a que respeitem ou que excedam as taxas das respectivas tabelas;
 
@@ -298,7 +315,7 @@ k) Juros intercalares;
 
 l) Direitos e mais imposições aduaneiras de importação sobre artigos que venham a ser vendidos e para os quais se tivesse verificado isenção anterior.
 
-###### Art. 11.º - 1. Os contribuintes deste imposto ficam sujeitos a todas as obrigações relativas à escrituração comercial previstas na lei geral ou em legislação especial aplicável, devendo possuir ainda os seguintes livros ou registos:
+Art. 11.º - 1. Os contribuintes deste imposto ficam sujeitos a todas as obrigações relativas à escrituração comercial previstas na lei geral ou em legislação especial aplicável, devendo possuir ainda os seguintes livros ou registos:
 
 a) Para escrituração ou registo, por produtos, das vendas para o exterior, especificando para cada venda da sede, suas filiais, sucursais e demais dependências, data da venda, identificação do comprador, características e destino do produto, quantidades (em medidas usadas nos contratos de venda e sua correspondência no sistema métrico decimal) e valores de venda (em moedas dos contratos de venda e seu contravalor em moeda da província);
 
@@ -306,9 +323,9 @@ b) Para escrituração ou registo, por produtos, das vendas feitas para o mercad
 
 2. A centralização dos livros e registos obrigatórios, nos termos da lei geral e legislação especial aplicável, far-se-á na província onde o contribuinte exerce a sua actividade.
 
-###### Art. 12.º As perdas verificadas em determinado exercício serão deduzidas aos rendimentos tributáveis, havendo-os, de um ou mais dos cinco anos posteriores.
+Art. 12.º As perdas verificadas em determinado exercício serão deduzidas aos rendimentos tributáveis, havendo-os, de um ou mais dos cinco anos posteriores.
 
-###### Art. 13.º - 1. Os contribuintes apresentarão anualmente, na repartição de Fazenda da área onde esteja centralizada a sua contabilidade na província, durante o mês de Abril, declaração, em duplicado, contendo os seguintes elementos:
+Art. 13.º - 1. Os contribuintes apresentarão anualmente, na repartição de Fazenda da área onde esteja centralizada a sua contabilidade na província, durante o mês de Abril, declaração, em duplicado, contendo os seguintes elementos:
 
 a) Nome da empresa, situação da sede, filiais, sucursais ou outras dependências existentes na província;
 
@@ -340,25 +357,25 @@ vii) Outros elementos reputados de interesse à justa determinação do lucro tr
 
 2. Não estando aprovadas as contas, indicar-se-ão os motivos que a tal obstaram e, se a aprovação tiver sido efectuada judicialmente, juntar-se-á documento comprovativo do facto.
 
-###### Art. 14.º A taxa do imposto sobre o rendimento do petróleo é de 50 por cento.
+Art. 14.º A taxa do imposto sobre o rendimento do petróleo é de 50 por cento.
 
-###### Art. 15.º - 1. A declaração referida no artigo 13.º e os elementos a ela anexos serão sempre escritos em língua portuguesa e assinados pelos contribuintes ou seus representantes legais ou mandatários, e ainda pelo respectivo técnico de contabilidade responsável, que deverá ter obrigatòriamente a nacionalidade portuguesa, os quais rubricarão os documentos que os acompanhem.
+Art. 15.º - 1. A declaração referida no artigo 13.º e os elementos a ela anexos serão sempre escritos em língua portuguesa e assinados pelos contribuintes ou seus representantes legais ou mandatários, e ainda pelo respectivo técnico de contabilidade responsável, que deverá ter obrigatòriamente a nacionalidade portuguesa, os quais rubricarão os documentos que os acompanhem.
 
 2. Toda a declaração que não estiver assinada ou rubricada nos termos indicados será recusada, sem prejuízo das sanções estabelecidas para a falta da sua apresentação.
 
-###### Art. 16.º Quando a declaração e os documentos que a acompanhem não forem considerados suficientemente claros, as repartições de Fazenda notificarão os contribuintes para prestarem por escrito, no prazo que lhes for fixado, não superior a quinze dias, os esclarecimentos indispensáveis.
+Art. 16.º Quando a declaração e os documentos que a acompanhem não forem considerados suficientemente claros, as repartições de Fazenda notificarão os contribuintes para prestarem por escrito, no prazo que lhes for fixado, não superior a quinze dias, os esclarecimentos indispensáveis.
 
-###### Art. 17.º - 1. Os contribuintes devem organizar e conservar a sua escrita de modo que se possa apurar clara e inequìvocamente e controlar o rendimento tributável, com inteira observância das disposições deste Regulamento.
+Art. 17.º - 1. Os contribuintes devem organizar e conservar a sua escrita de modo que se possa apurar clara e inequìvocamente e controlar o rendimento tributável, com inteira observância das disposições deste Regulamento.
 
 2. Poderá, entretanto, o Ministro do Ultramar tornar obrigatória, por portaria, a existência de determinados livros, documentos ou outros elementos de escrita e a observância de certas normas na sua arrumação.
 
-###### Art. 18.º Os governadores das províncias, ouvidos os serviços provinciais de Fazenda e contabilidade e das alfândegas, elaborarão as instruções necessárias ao cumprimento das formalidades fazendárias emergentes do presente Regulamento.
+Art. 18.º Os governadores das províncias, ouvidos os serviços provinciais de Fazenda e contabilidade e das alfândegas, elaborarão as instruções necessárias ao cumprimento das formalidades fazendárias emergentes do presente Regulamento.
 
-###### Art. 19.º - 1. Em face da declaração apresentada nos termos do artigo 13.º, o director ou o chefe da repartição provincial dos serviços de Fazenda e contabilidade da província determinará a matéria colectável sujeita ao imposto de que trata o presente Regulamento.
+Art. 19.º - 1. Em face da declaração apresentada nos termos do artigo 13.º, o director ou o chefe da repartição provincial dos serviços de Fazenda e contabilidade da província determinará a matéria colectável sujeita ao imposto de que trata o presente Regulamento.
 
 2. Na falta ou insuficiência das declarações, proceder-se-á a exame à escrita e, subsistindo a impossibilidade de determinar a matéria colectável de harmonia com as disposições deste Regulamento, ou havendo dúvida fundada sobre se o resultado da escrita corresponde ou não à realidade, o assunto subirá ao governador da província para decisão.
 
-###### Art. 20.º - 1. As decisões dos serviços provinciais de Fazenda e contabilidade que envolvam divergências com o critério do contribuinte ser-lhe-ão notificadas com indicação dos respectivos fundamentos.
+Art. 20.º - 1. As decisões dos serviços provinciais de Fazenda e contabilidade que envolvam divergências com o critério do contribuinte ser-lhe-ão notificadas com indicação dos respectivos fundamentos.
 
 2. Destas decisões cabe recurso hierárquico para o governo da província, a interpor no prazo de oito dias.
 
@@ -366,7 +383,7 @@ vii) Outros elementos reputados de interesse à justa determinação do lucro tr
 
 4. Quando o recurso for totalmente desatendido, o governador da província poderá fixar, a título de custas, um agravamento à verba principal da colecta, graduado conforme as circunstâncias, mas nunca superior a 5 por cento.
 
-###### Art. 21.º - 1. Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto sobre o rendimento do petróleo superior ao devido, proceder-se-á à anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a data do pagamento.
+Art. 21.º - 1. Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto sobre o rendimento do petróleo superior ao devido, proceder-se-á à anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a data do pagamento.
 
 2. O mesmo se observará quando, em exame à escrita dos contribuintes, se verificar que estes indicaram nas suas declarações rendimento superior ao que resulta da aplicação das regras de determinação da matéria colectável.
 
@@ -378,7 +395,7 @@ vii) Outros elementos reputados de interesse à justa determinação do lucro tr
 
 6. Os juros serão contados dia a dia, desde a data do pagamento do imposto até à data do processamento do título de anulação e acrescido à importância deste.
 
-###### Art. 22.º - 1. Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto de que trata o presente Regulamento poderão reclamar contra a liquidação deste, ou impugná-lo, com os fundamentos e nos termos estabelecidos nas normas de processo fiscal vigentes na província.
+Art. 22.º - 1. Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto de que trata o presente Regulamento poderão reclamar contra a liquidação deste, ou impugná-lo, com os fundamentos e nos termos estabelecidos nas normas de processo fiscal vigentes na província.
 
 2. Quando seja impugnada a determinação da matéria colectável que servir de base à liquidação do imposto, podem os tribunais competentes ordenar oficiosamente um arbitramento, que será efectuado nos termos do Código de Processo Civil.
 
@@ -386,9 +403,9 @@ vii) Outros elementos reputados de interesse à justa determinação do lucro tr
 
 4. Os peritos por parte da Fazenda Nacional serão designados pelo governador da província.
 
-###### Art. 23.º A competência para a liquidação do imposto sobre o rendimento do petróleo pertence à repartição de Fazenda em que deva ser apresentada a declaração do contribuinte a que se refere o artigo 13.º
+Art. 23.º A competência para a liquidação do imposto sobre o rendimento do petróleo pertence à repartição de Fazenda em que deva ser apresentada a declaração do contribuinte a que se refere o artigo 13.º
 
-###### Art. 24.º - 1. Os conhecimentos de cobrança serão entregues anualmente nas tesourarias da Fazenda Pública até 30 de Junho de cada ano.
+Art. 24.º - 1. Os conhecimentos de cobrança serão entregues anualmente nas tesourarias da Fazenda Pública até 30 de Junho de cada ano.
 
 2. O imposto sobre o rendimento do petróleo será pago em duas prestações iguais, vencíveis nos meses de Julho e Outubro.
 
@@ -396,40 +413,40 @@ vii) Outros elementos reputados de interesse à justa determinação do lucro tr
 
 4. Se a primeira prestação tiver sido paga no prazo devido, a segunda poderá ser paga no mês de vencimento ou nos sessenta dias imediatos, com juros de mora calculados a 1 por cento ao mês, depois do que relaxará.
 
-###### Art. 25.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 25.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 26.º - 1. A falta das declarações dos contribuintes, exigidas no presente diploma, bem como as omissões ou inexactidões nelas praticadas ou nos documentos que as devem acompanhar, serão punidas com a multa de 5000$00 a 10000$00, mas, havendo dolo, a multa será igual ao dobro do imposto não liquidado, com o mínimo de 10000$00 e a máximo de 2000000$00.
+Art. 26.º - 1. A falta das declarações dos contribuintes, exigidas no presente diploma, bem como as omissões ou inexactidões nelas praticadas ou nos documentos que as devem acompanhar, serão punidas com a multa de 5000$00 a 10000$00, mas, havendo dolo, a multa será igual ao dobro do imposto não liquidado, com o mínimo de 10000$00 e a máximo de 2000000$00.
 
 2. As transgressões relativas à falta de remessa de elementos de contrôle, bem como as omissões ou inexactidões nela praticadas, serão punidas com a multa de 10000$00 a 500000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 30.º
 
-###### Art. 27.º Incorrem na multa de 100000$00 a 1000000$00 os contribuintes que não observarem na organização da sua escrita as disposições constantes deste diploma.
+Art. 27.º Incorrem na multa de 100000$00 a 1000000$00 os contribuintes que não observarem na organização da sua escrita as disposições constantes deste diploma.
 
-###### Art. 28.º Os contribuintes que deixarem atrasar a sua escrita por tempo superior a noventa dias serão punidos com multa de 10000$00 a 100000$00.
+Art. 28.º Os contribuintes que deixarem atrasar a sua escrita por tempo superior a noventa dias serão punidos com multa de 10000$00 a 100000$00.
 
-###### Art. 29.º - 1. A recusa de exibição da escrita e dos documentos com ela relacionados, assim como a sua ocultação, destruição, inutilização ou viciação, será punida com a multa de 100000$00 a 1000000$00, na qual incorrerão solidàriamente entre si os directores, administradores, gerentes, membros do conselho fiscal, liquidatários e técnicos de contabilidade que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
+Art. 29.º - 1. A recusa de exibição da escrita e dos documentos com ela relacionados, assim como a sua ocultação, destruição, inutilização ou viciação, será punida com a multa de 100000$00 a 1000000$00, na qual incorrerão solidàriamente entre si os directores, administradores, gerentes, membros do conselho fiscal, liquidatários e técnicos de contabilidade que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
 
 2. As mesmas sanções se aplicarão no caso de não serem arquivados na forma e pelo tempo devidos os livros de escrituração e documentos com eles relacionados.
 
-###### Art. 30.º Os funcionários públicos que deixarem de cumprir alguma das suas obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo de responsabilidade penal prevista em outras leis.
+Art. 30.º Os funcionários públicos que deixarem de cumprir alguma das suas obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo de responsabilidade penal prevista em outras leis.
 
-###### Art. 31.º A qualquer infracção não especialmente prevista nos artigos anteriores será aplicada multa até 100000$00.
+Art. 31.º A qualquer infracção não especialmente prevista nos artigos anteriores será aplicada multa até 100000$00.
 
-###### Art. 32.º - 1. Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal ou liquidatários ao tempo em que foi cometida a infracção.
+Art. 32.º - 1. Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal ou liquidatários ao tempo em que foi cometida a infracção.
 
 2. A responsabilidade solidária prevista neste artigo só terá lugar quanto às pessoas nela referidas que hajam praticado ou sancionado a omissão ou o acto delituoso.
 
 3. Após a extinção das pessoas colectivas, responderão solidàriamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 33.º Nas questões relativas ao contencioso das contribuições e impostos, liquidações adicionais, expedição do títulos de anulação, execuções fiscais, estatística, multas, juros de mora e arredondamentos observar-se-ão os diplomas da província que especialmente regularem tais matérias.
+Art. 33.º Nas questões relativas ao contencioso das contribuições e impostos, liquidações adicionais, expedição do títulos de anulação, execuções fiscais, estatística, multas, juros de mora e arredondamentos observar-se-ão os diplomas da província que especialmente regularem tais matérias.
 
-###### Art. 34.º Não será aplicável, relativamente ao imposto de que trata o presente Regulamento, o disposto no artigo 34.º do [Decreto n.º 44736](https://diariodarepublica.pt/dr/detalhe/decreto/44736-1962-155410), de 28 de Novembro de 1962.
+Art. 34.º Não será aplicável, relativamente ao imposto de que trata o presente Regulamento, o disposto no artigo 34.º do [Decreto n.º 44736](https://diariodarepublica.pt/dr/detalhe/decreto/44736-1962-155410), de 28 de Novembro de 1962.
 
-###### Art. 35.º Os governadores das províncias, mediante parecer dos serviços provinciais de Fazenda e contabilidade, esclarecerão quaisquer dúvidas que se suscitem na execução do presente diploma, devendo os seus despachos ser sempre publicados no Boletim Oficial.
+Art. 35.º Os governadores das províncias, mediante parecer dos serviços provinciais de Fazenda e contabilidade, esclarecerão quaisquer dúvidas que se suscitem na execução do presente diploma, devendo os seus despachos ser sempre publicados no Boletim Oficial.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Tabela anexa ao Regulamento do Imposto sobre o Rendimento do Petróleo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30101/00170024.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30101/00170024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30101/00170024.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

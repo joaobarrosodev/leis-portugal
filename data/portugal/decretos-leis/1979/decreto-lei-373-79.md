@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f06c1975791f4baf459d0fae4b85791bb15576bb9916e05f47c8bc23c2fe9df3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cb8a0b8f819bc7fe231e4f88707c4108d1c14b91aeb9edc93584866870f5123
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Médico
 relationships:
 - type: amended_by
   target: pt:dre:579298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:472498:por
+  label: "Revogado o nº 2 do art. 12º, na parte atinente ao serviço médico na periferia, pelo DEC LEI.248/80.1980.07.24.PCM,\
+    \ DR.IS [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-1980-472498
+  date: '1980-07-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:32Z'
   warnings: []
   errors: []
 ---
@@ -105,29 +133,29 @@ I
 
 Disposições gerais
 
-###### Artigo 1.º - 1 - O presente Estatuto aplica-se a todos os médicos que exerçam funções profissionais nos estabelecimentos e serviços directamente dependentes da Administração Central, Regional e Local, adiante designados por serviços públicos.
+Artigo 1.º - 1 - O presente Estatuto aplica-se a todos os médicos que exerçam funções profissionais nos estabelecimentos e serviços directamente dependentes da Administração Central, Regional e Local, adiante designados por serviços públicos.
 
 2 - Os médicos a quem se aplica o presente decreto-lei desempenham uma importante função pública na prestação de cuidados de saúde à população, cabendo-lhes, face ao Estado, direitos e deveres especiais, nos termos do presente diploma.
 
-###### Art. 2.º - 1 - As funções atribuídas aos médicos nos serviços públicos corresponderão às qualificações profissionais que possuam e obedecerão aos estatutos das carreiras médicas existentes ou que venham a ser criadas.
+Art. 2.º - 1 - As funções atribuídas aos médicos nos serviços públicos corresponderão às qualificações profissionais que possuam e obedecerão aos estatutos das carreiras médicas existentes ou que venham a ser criadas.
 
 2 - Os médicos dos serviços públicos, para além das funções estritamente técnicas, têm o dever de exercer funções nos órgãos de gestão dos estabelecimentos ou serviços em que se encontrem colocados, desde que para esse efeito nomeados de acordo com as disposições dos respectivos regulamentos.
 
-###### Art. 3.º - 1 - Aos médicos a que se refere o presente Estatuto é garantido o direito ao associativismo próprio e exigido o respeito pelos códigos de deontologia e de ética e padrões para qualificação profissional fixados pela Ordem dos Médicos.
+Art. 3.º - 1 - Aos médicos a que se refere o presente Estatuto é garantido o direito ao associativismo próprio e exigido o respeito pelos códigos de deontologia e de ética e padrões para qualificação profissional fixados pela Ordem dos Médicos.
 
 2 - Os padrões para qualificação profissional a que se refere o número anterior servirão para as provas da especialidade efectuadas quer pela Ordem dos Médicos quer, no âmbito das carreiras, pelos serviços de saúde.
 
 3 - Fora das suas obrigações para com os serviços públicos, a liberdade profissional dos médicos não terá outras limitações para além das constantes do presente diploma.
 
-###### Art. 4.º Sempre que da reorganização dos serviços públicos ou da inclusão nos mesmos dos serviços de saúde não públicos resultar a extinção de instituições, os médicos a elas vinculados profissionalmente serão, desde que o desejem, integrados em unidades da rede oficial segundo normas a definir para cada caso e sem prejuízo de direitos adquiridos.
+Art. 4.º Sempre que da reorganização dos serviços públicos ou da inclusão nos mesmos dos serviços de saúde não públicos resultar a extinção de instituições, os médicos a elas vinculados profissionalmente serão, desde que o desejem, integrados em unidades da rede oficial segundo normas a definir para cada caso e sem prejuízo de direitos adquiridos.
 
-###### Art. 5.º O direito de opção consagrado no artigo 41.º do [Decreto-Lei n.º 124/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1979-383206), de 10 de Maio, poderá ainda ser exercido pelos médicos dos Serviços Médico-Sociais até noventa dias após a entrada em vigor do diploma que reformula as carreiras médicas.
+Art. 5.º O direito de opção consagrado no artigo 41.º do [Decreto-Lei n.º 124/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1979-383206), de 10 de Maio, poderá ainda ser exercido pelos médicos dos Serviços Médico-Sociais até noventa dias após a entrada em vigor do diploma que reformula as carreiras médicas.
 
 II
 
 Direitos e deveres
 
-###### Art. 6.º Aos médicos dos serviços públicos são reconhecidos os seguintes direitos:
+Art. 6.º Aos médicos dos serviços públicos são reconhecidos os seguintes direitos:
 
 a) Garantia da continuidade de emprego em serviços públicos, desde que, terminada a fase obrigatória de serviço tutelado, neles ingressem;
 
@@ -149,7 +177,7 @@ i) Exercício, pelos membros dos órgãos directivos da Ordem dos Médicos e dos
 
 j) Tratamento fiscal idêntico ao aplicável aos funcionários e agentes do Estado.
 
-###### Art. 7.º Aos médicos dos serviços públicos cabem os seguintes deveres gerais, além dos que constem dos regulamentos próprios dos serviços em que desempenham funções:
+Art. 7.º Aos médicos dos serviços públicos cabem os seguintes deveres gerais, além dos que constem dos regulamentos próprios dos serviços em que desempenham funções:
 
 a) Cumprir as obrigações e funções que lhes competem e que hajam sido legalmente estabelecidas;
 
@@ -165,7 +193,7 @@ f) Prestar à administração dos serviços e estabelecimentos toda a colaboraç
 
 g) Participar em comissões, grupos de trabalho e outros órgãos não institucionalizados, destinados a estudar problemas ou a executar decisões no âmbito da organização e funcionamento dos serviços de saúde.
 
-###### Art. 8.º - 1 - A violação dos deveres enunciados no artigo anterior faz incorrer o médico em responsabilidade disciplinar, civil ou criminal, consoante os casos.
+Art. 8.º - 1 - A violação dos deveres enunciados no artigo anterior faz incorrer o médico em responsabilidade disciplinar, civil ou criminal, consoante os casos.
 
 2 - Em matéria de responsabilidade disciplinar, os médicos abrangidos por este diploma ficam sujeitos ao regime disciplinar dos funcionários e agentes da Administração Central, Regional e Local.
 
@@ -175,7 +203,7 @@ III
 
 Regime de trabalho
 
-###### Art. 9.º - 1 - Os médicos dos serviços públicos exercem funções em regime de:
+Art. 9.º - 1 - Os médicos dos serviços públicos exercem funções em regime de:
 
 a) Tempo completo;
 
@@ -187,7 +215,7 @@ b) Tempo completo prolongado.
 
 4 - Poderão ser oportunamente definidos, por portaria conjunta dos Secretários de Estado do Orçamento, da Saúde e da Administração Pública, outros regimes que melhor se adeqúem ao bom funcionamento dos serviços.
 
-###### Art. 10.º - 1 - Ao regime de tempo completo correspondem trinta e seis horas de trabalho normal por semana.
+Art. 10.º - 1 - Ao regime de tempo completo correspondem trinta e seis horas de trabalho normal por semana.
 
 2 - O regime de tempo completo prolongado poderá ser desde já atribuído, caso a caso, a médicos das carreiras hospitalares e de saúde pública com a anuência dos interessados e por despacho do Secretário de Estado da Saúde, quando houver comprovada vantagem para o funcionamento dos serviços, correspondendo-lhe quarenta e cinco horas de trabalho normal por semana.
 
@@ -197,9 +225,9 @@ b) Tempo completo prolongado.
 
 5 - O regime de tempo parcial só poderá ser aplicado em casos expressamente previstos por lei.
 
-###### Art. 11.º Os médicos municipais poderão passar aos regimes de tempo completo ou parcial mediante autorização da autarquia local respectiva, precedendo parecer favorável da administração distrital dos serviços de saúde competente.
+Art. 11.º Os médicos municipais poderão passar aos regimes de tempo completo ou parcial mediante autorização da autarquia local respectiva, precedendo parecer favorável da administração distrital dos serviços de saúde competente.
 
-###### Art. 12.º - 1 - A dedicação exclusiva é incompatível com o exercício de quaisquer outras actividades profissionais para além das que correspondem ao desempenho das funções a que se aplica tal regime.
+Art. 12.º - 1 - A dedicação exclusiva é incompatível com o exercício de quaisquer outras actividades profissionais para além das que correspondem ao desempenho das funções a que se aplica tal regime.
 
 2 - O regime de dedicação exclusiva é obrigatório para os médicos em fase de formação profissional a que corresponda exercício tutelado, e bem assim durante a prestação do serviço médico na periferia.
 
@@ -209,21 +237,21 @@ b) Tempo completo prolongado.
 
 5 - Sem prejuízo do disposto nos n.os 2 e 3, o regime de dedicação exclusiva será atribuído, caso a caso, com a anuência do médico e por despacho do Secretário de Estado da Saúde, quando houver comprovada vantagem para o funcionamento dos serviços.
 
-###### Art. 13.º As competências atribuídas nos artigos 10.º e 12.º ao Secretário de Estado da Saúde são delegáveis nos presidentes das administrações distritais de serviços de saúde, aos quais incumbe zelar pelo cumprimento das disposições constantes dos mesmos.
+Art. 13.º As competências atribuídas nos artigos 10.º e 12.º ao Secretário de Estado da Saúde são delegáveis nos presidentes das administrações distritais de serviços de saúde, aos quais incumbe zelar pelo cumprimento das disposições constantes dos mesmos.
 
-###### Art. 14.º - 1 - Tendo em vista a obtenção do rendimento máximo das unidades de saúde, incumbe aos respectivos órgãos de gestão, ouvidas as direcções médicas, de acordo com as normas a definir superiormente, estabelecer os horários de trabalho dos serviços, por forma que os mesmos se adeqúem às necessidades locais e prossigam a maior produtividade dos recursos disponíveis.
+Art. 14.º - 1 - Tendo em vista a obtenção do rendimento máximo das unidades de saúde, incumbe aos respectivos órgãos de gestão, ouvidas as direcções médicas, de acordo com as normas a definir superiormente, estabelecer os horários de trabalho dos serviços, por forma que os mesmos se adeqúem às necessidades locais e prossigam a maior produtividade dos recursos disponíveis.
 
 2 - Compete às direcções médicas nos estabelecimentos, ouvidas as chefias dos serviços, elaborar e propor, tendo em conta as normas superiormente definidas, os horários individuais dos médicos, por forma a compatibilizar os respectivos deveres contratuais com o melhor funcionamento das unidades de saúde.
 
 3 - Sem prejuízo do disposto na lei geral quanto ao contrôle da assiduidade e pontualidade, a vigilância do cumprimento dos horários e das actividades médicas será da competência dos órgãos da direcção clínica das unidades de saúde.
 
-###### Art. 15.º - 1 - Enquanto não for possível organizar os serviços públicos em moldes que permitam, a cada médico, o exercício de funções em uma só unidade de saúde, serão permitidas acumulações de acordo com os condicionalismos impostos pelo presente diploma e demais legislação em vigor.
+Art. 15.º - 1 - Enquanto não for possível organizar os serviços públicos em moldes que permitam, a cada médico, o exercício de funções em uma só unidade de saúde, serão permitidas acumulações de acordo com os condicionalismos impostos pelo presente diploma e demais legislação em vigor.
 
 2 - O disposto no número anterior não revoga a norma da proibição de acumulação de funções hospitalares, tal como ficou determinada no artigo 18.º do [Decreto-Lei n.º 674/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1975-309502), de 27 de Novembro.
 
 3 - É permitido o exercício simultâneo de funções hospitalares e nos Serviços Médico-Sociais ou outros serviços extra-hospitalares, sem redução de remunerações, através de processo de acumulação a organizar pelas administrações distritais de saúde.
 
-###### Art. 16.º - 1 - Em situações de imperiosa necessidade, resultante de exigências de cobertura sanitária das populações, podem os médicos hospitalares ser destacados da unidade em que prestam serviço para outra pertencente à mesma zona, desde que se observem as seguintes condições:
+Art. 16.º - 1 - Em situações de imperiosa necessidade, resultante de exigências de cobertura sanitária das populações, podem os médicos hospitalares ser destacados da unidade em que prestam serviço para outra pertencente à mesma zona, desde que se observem as seguintes condições:
 
 a) Cada período de destacamento será, em princípio, de um mês, não podendo exceder três meses, excepto com a concordância do interessado;
 
@@ -231,7 +259,7 @@ b) Após um período de destacamento, cada médico, a menos que o deseje, só po
 
 c) Entre dois destacamentos sucessivos do mesmo médico não poderá mediar um prazo inferior a um ano, a menos que com a anuência do interessado.
 
-###### Art. 17.º - 1 - Para além das situações de destacamento previstas no artigo anterior, os especialistas hospitalares poderão ainda prestar serviço das respectivas especialidades em unidades da rede oficial de cuidados primários de saúde que se situem na zona de influência do hospital a que se encontrem afectos e que não se distanciem deste mais de 30 km e desde que não existam candidatos ao preenchimento do respectivo lugar.
+Art. 17.º - 1 - Para além das situações de destacamento previstas no artigo anterior, os especialistas hospitalares poderão ainda prestar serviço das respectivas especialidades em unidades da rede oficial de cuidados primários de saúde que se situem na zona de influência do hospital a que se encontrem afectos e que não se distanciem deste mais de 30 km e desde que não existam candidatos ao preenchimento do respectivo lugar.
 
 2 - O serviço prestado ao abrigo do disposto no número anterior obedecerá às seguintes condições:
 
@@ -239,17 +267,17 @@ a) Não ultrapassará quatro dias por semana, devendo os médicos prestar servi�
 
 b) Salvo o acordo dos interessados, não poderão exceder a duração de um ano e o mesmo médico não poderá prestar novo serviço desta natureza antes de decorrido o mesmo prazo sobre o período anterior.
 
-###### Art. 18.º O médico destacado ou no regime a que se refere o artigo 17.º terá direito a um subsídio especial, em termos a definir por despacho conjunto dos Secretários de Estado do Orçamento, da Saúde e da Administração Pública.
+Art. 18.º O médico destacado ou no regime a que se refere o artigo 17.º terá direito a um subsídio especial, em termos a definir por despacho conjunto dos Secretários de Estado do Orçamento, da Saúde e da Administração Pública.
 
 IV
 
 Remunerações
 
-###### Art. 19.º - 1 - Aos médicos dos serviços oficiais de saúde são atribuídas as remunerações constantes da tabela anexa ao presente diploma.
+Art. 19.º - 1 - Aos médicos dos serviços oficiais de saúde são atribuídas as remunerações constantes da tabela anexa ao presente diploma.
 
 2 - A remuneração em regime de trabalho de tempo parcial será determinada de acordo com o disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 20.º - 1 - Sempre que o regime de trabalho seja o de tempo completo prolongado, as remunerações a que se refere o artigo anterior serão acrescidas de um suplemento a estabelecer por portaria conjunta dos Ministros das Finanças e dos Assuntos Sociais e do Secretário de Estado da Administração Pública.
+Art. 20.º - 1 - Sempre que o regime de trabalho seja o de tempo completo prolongado, as remunerações a que se refere o artigo anterior serão acrescidas de um suplemento a estabelecer por portaria conjunta dos Ministros das Finanças e dos Assuntos Sociais e do Secretário de Estado da Administração Pública.
 
 2 - As remunerações dos médicos que, nos termos previstos no artigo 12.º, trabalhem em regime de dedicação exclusiva serão as atribuídas ao tempo completo prolongado, acrescidas de um montante a estabelecer para cada categoria profissional, a definir por portaria conjunta dos Ministros das Finanças e dos Assuntos Sociais e do Secretário de Estado da Administração Pública.
 
@@ -257,21 +285,21 @@ Remunerações
 
 4 - As portarias a que se referem os n.os 1 e 2 do presente artigo terão em conta, em cada caso, designadamente, a capacidade financeira dos serviços, a prioridade na cobertura médica às áreas de menor disponibilidade de cuidados de saúde, o nível organizativo alcançado pelos serviços de saúde, a necessidade de fazer preceder a sua execução definitiva de um período de vigência experimental, bem como a prioridade na melhoria das condições de trabalho aos médicos que, por se encontrarem em início da carreira, dêem garantias de exercício exclusivo da profissão em serviços oficiais.
 
-###### Art. 21.º - 1 - As remunerações dos médicos que trabalham em serviços oficiais de saúde cujas situações não se encontrem previstas no presente diploma serão actualizadas por portaria conjunta dos Ministros da tutela, das Finanças e dos Assuntos Sociais e do Secretário de Estado da Administração Pública.
+Art. 21.º - 1 - As remunerações dos médicos que trabalham em serviços oficiais de saúde cujas situações não se encontrem previstas no presente diploma serão actualizadas por portaria conjunta dos Ministros da tutela, das Finanças e dos Assuntos Sociais e do Secretário de Estado da Administração Pública.
 
 2 - As actualizações previstas no número anterior terão lugar por forma que os médicos com funções comparáveis aufiram quantitativos idênticos.
 
-###### Art. 22.º - 1 - Os médicos dos quadros permanentes que exerçam funções em regime de dedicação exclusiva poderão usufruir de prémios para actualização profissional, destinados a custear encargos com reuniões científicas e documentação.
+Art. 22.º - 1 - Os médicos dos quadros permanentes que exerçam funções em regime de dedicação exclusiva poderão usufruir de prémios para actualização profissional, destinados a custear encargos com reuniões científicas e documentação.
 
 2 - A atribuição dos prémios a que se refere o número anterior, bem como a fixação do seu montante, será feita em moldes a regulamentar por portaria dos Ministros das Finanças e dos Assuntos Sociais e do Secretário de Estado da Administração Pública.
 
-###### Art. 23.º As remunerações de base referidas nos artigos precedentes serão acrescidas dos suplementos devidos pela prestação do trabalho em condições especiais, previstos no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, com as alterações que a prática aconselha.
+Art. 23.º As remunerações de base referidas nos artigos precedentes serão acrescidas dos suplementos devidos pela prestação do trabalho em condições especiais, previstos no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, com as alterações que a prática aconselha.
 
 V
 
 Segurança social
 
-###### Art. 24.º - 1 - O regime de segurança social dos médicos dos serviços oficiais de saúde obedecerá às normas em vigor para a função pública, com as seguintes especificações:
+Art. 24.º - 1 - O regime de segurança social dos médicos dos serviços oficiais de saúde obedecerá às normas em vigor para a função pública, com as seguintes especificações:
 
 a) Todas as remunerações auferidas nos serviços oficiais com carácter de regularidade, quer a tempo inteiro, quer a tempo parcial, contarão para efeitos de segurança social;
 
@@ -293,24 +321,24 @@ VI
 
 Disposições finais
 
-###### Art. 25.º Da aplicação das disposições do presente Estatuto não poderão resultar prejuízos de direitos adquiridos pelos médicos à data da sua entrada em vigor, na medida em que não forem incompatíveis com o disposto no presente decreto-lei.
+Art. 25.º Da aplicação das disposições do presente Estatuto não poderão resultar prejuízos de direitos adquiridos pelos médicos à data da sua entrada em vigor, na medida em que não forem incompatíveis com o disposto no presente decreto-lei.
 
-###### Art. 26.º As alterações ao presente Estatuto, no todo ou em parte, serão precedidas de audição da Ordem dos Médicos e das associações sindicais médicas.
+Art. 26.º As alterações ao presente Estatuto, no todo ou em parte, serão precedidas de audição da Ordem dos Médicos e das associações sindicais médicas.
 
-###### Art. 27.º Em tudo o que não estiver previsto neste diploma aplica-se a legislação em vigor para a função pública e a específica para o pessoal médico, nomeadamente a que se refere aos deveres para com os serviços públicos de saúde e a população que aos mesmos recorre.
+Art. 27.º Em tudo o que não estiver previsto neste diploma aplica-se a legislação em vigor para a função pública e a específica para o pessoal médico, nomeadamente a que se refere aos deveres para com os serviços públicos de saúde e a população que aos mesmos recorre.
 
-###### Art. 28.º Das remunerações da tabela em anexo, as relativas aos períodos de trabalho nos Serviços Médico-Sociais são devidas a partir de 1 de Março de 1979, sendo as restantes devidas a partir de 1 de Julho do mesmo ano.
+Art. 28.º Das remunerações da tabela em anexo, as relativas aos períodos de trabalho nos Serviços Médico-Sociais são devidas a partir de 1 de Março de 1979, sendo as restantes devidas a partir de 1 de Julho do mesmo ano.
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa - Gabriela Guedes Salgueiro.
 
-**Promulgado em 31 de Agosto de 1979.**
+Promulgado em 31 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 TABELA ANEXA
 
 Remunerações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20800/22402244.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20800/22402244.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20800/22402244.pdf)

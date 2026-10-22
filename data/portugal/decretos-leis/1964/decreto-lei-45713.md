@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45713-1964-576108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a4721c489e9241cadde1225a94347d275efd4009c07f4bd3a7b86bc08949e03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aca9e68f18003b371566850881410ec6e109a2475e58575580b9c2326dbe9caf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Formação Profissional
+- Moçambique.Colónia Portuguesa
+- Polícia Judiciária
+- Quadro de Pessoal
+- Qualificação Profissional
+relationships:
+- type: cites
+  target: pt:dre:303870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500455:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:06Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +115,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São instituídos nas directorias da Polícia Judiciária do Ultramar cursos de preparação e de especialização destinados ao pessoal da mesma Polícia e dos serviços afins.
+Artigo 1.º São instituídos nas directorias da Polícia Judiciária do Ultramar cursos de preparação e de especialização destinados ao pessoal da mesma Polícia e dos serviços afins.
 
-###### Art. 2.º Os cursos referidos no artigo anterior têm equivalência aos cursos referidos nas alíneas a) e b) do artigo 9.º do [Decreto n.º 41516](https://diariodarepublica.pt/dr/detalhe/decreto/41516-1958-303870), de 1 de Fevereiro de 1958, e são os seguintes:
+Art. 2.º Os cursos referidos no artigo anterior têm equivalência aos cursos referidos nas alíneas a) e b) do artigo 9.º do [Decreto n.º 41516](https://diariodarepublica.pt/dr/detalhe/decreto/41516-1958-303870), de 1 de Fevereiro de 1958, e são os seguintes:
 
 a) Cursos de preparação destinados aos agentes auxiliares;
 
@@ -111,7 +129,7 @@ b) Cursos de especialização destinados aos agentes de qualquer classe, chefes 
 
 3. Se puderem, porém, ser acumulados com o desempenho das funções normalmente atribuídas àqueles que se destinam a frequentá-los, os cursos de especialização poderão ter uma duração de 40 a 140 horas, distribuídas pelo período máximo de 90 dias, por forma a não ocuparem mais de 2 horas por dia.
 
-###### Art. 3.º Os cursos a que se refere o artigo anterior compreendem, especialmente, o ensino das seguintes matérias:
+Art. 3.º Os cursos a que se refere o artigo anterior compreendem, especialmente, o ensino das seguintes matérias:
 
 a) Serviços de prevenção e repressão da criminalidade. Noções de organização judiciária;
 
@@ -131,15 +149,15 @@ h) Dactilografia;
 
 i) Educação física e prática dos métodos individuais de defesa.
 
-###### Art. 4.º A criação dos cursos referidos nos artigos anteriores não prejudica o disposto no artigo 30.º e parágrafos do [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), de 19 de Agosto de 1960.
+Art. 4.º A criação dos cursos referidos nos artigos anteriores não prejudica o disposto no artigo 30.º e parágrafos do [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), de 19 de Agosto de 1960.
 
-###### Art. 5.º - 1. Sempre que se mostrar conveniente, poderá, por despacho conjunto dos Ministros da Justiça e do Ultramar, ser facultada a colaboração da Escola Prática de Ciências Criminais na realização das actividades docentes dos cursos criados por este diploma.
+Art. 5.º - 1. Sempre que se mostrar conveniente, poderá, por despacho conjunto dos Ministros da Justiça e do Ultramar, ser facultada a colaboração da Escola Prática de Ciências Criminais na realização das actividades docentes dos cursos criados por este diploma.
 
 2. Se essa colaboração importar a deslocação ao ultramar de professores ou técnicos daquela Escola, será efectivada em regime de comissão eventual.
 
-###### Art. 6.º A direcção, orientação e fiscalização dos cursos incumbe ao director da Polícia Judiciária, assistido pelo conselho directivo.
+Art. 6.º A direcção, orientação e fiscalização dos cursos incumbe ao director da Polícia Judiciária, assistido pelo conselho directivo.
 
-###### Art. 7.º Constituem o conselho directivo:
+Art. 7.º Constituem o conselho directivo:
 
 a) O director da Polícia Judiciária, que presidirá;
 
@@ -149,25 +167,25 @@ c) O inspector dos serviços prisionais;
 
 d) O delegado do procurador da República junto do tribunal de menores.
 
-###### Art. 8.º O corpo docente dos cursos é constituído por professores e instrutores.
+Art. 8.º O corpo docente dos cursos é constituído por professores e instrutores.
 
-###### Art. 9.º Os professores e os instrutores são designados pelo governador-geral, sob proposta do director da Polícia Judiciária, aprovada pelo procurador da República, entre magistrados judiciais e do Ministério Público e técnicos de reconhecida competência.
+Art. 9.º Os professores e os instrutores são designados pelo governador-geral, sob proposta do director da Polícia Judiciária, aprovada pelo procurador da República, entre magistrados judiciais e do Ministério Público e técnicos de reconhecida competência.
 
 1. A designação de magistrados judiciais e do Ministério Público dependerá de prévia concordância do presidente da Relação e do procurador da República.
 
-###### Art. 10.º A remuneração do director dos cursos de técnica policial, dos professores e dos instrutores será fixada em portaria pelo governador-geral e abrangerá apenas o período de funcionamento dos respectivos cursos.
+Art. 10.º A remuneração do director dos cursos de técnica policial, dos professores e dos instrutores será fixada em portaria pelo governador-geral e abrangerá apenas o período de funcionamento dos respectivos cursos.
 
-###### Art. 11.º No prazo de 60 dias, o governador-geral publicará o regulamento da organização e funcionamento dos cursos.
+Art. 11.º No prazo de 60 dias, o governador-geral publicará o regulamento da organização e funcionamento dos cursos.
 
-###### Art. 12.º O escrivão do tribunal de polícia e o funcionário da secretaria da Polícia Judiciária que o coadjuvar, exercendo funções de ajudante de escrivão, terão direito a uma gratificação mensal, que será fixada em portaria pelo Governo da província.
+Art. 12.º O escrivão do tribunal de polícia e o funcionário da secretaria da Polícia Judiciária que o coadjuvar, exercendo funções de ajudante de escrivão, terão direito a uma gratificação mensal, que será fixada em portaria pelo Governo da província.
 
-###### Art. 13.º O quadro de pessoal de direcção e investigação da Polícia Judiciária de Angola e Moçambique é aumentado em quatro lugares de inspector, sendo dois para cada província.
+Art. 13.º O quadro de pessoal de direcção e investigação da Polícia Judiciária de Angola e Moçambique é aumentado em quatro lugares de inspector, sendo dois para cada província.
 
-###### Art. 14.º A competência para conceder ao ultramar as gratificações referidas no artigo 62.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945, pertence aos governadores das províncias, mediante proposta do procurador da República devidamente fundamentada em informações dos directores ou inspector adjunto da Polícia Judiciária.
+Art. 14.º A competência para conceder ao ultramar as gratificações referidas no artigo 62.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945, pertence aos governadores das províncias, mediante proposta do procurador da República devidamente fundamentada em informações dos directores ou inspector adjunto da Polícia Judiciária.
 
-###### Art. 15.º Ficam desde já os respectivos governos das províncias de Angola e Moçambique autorizados a abrir os créditos especiais necessários à execução deste decreto-lei, utilizando para esse efeito as disponibilidades orçamentais ou, na sua falta, os saldos das contas de exercícios findos.
+Art. 15.º Ficam desde já os respectivos governos das províncias de Angola e Moçambique autorizados a abrir os créditos especiais necessários à execução deste decreto-lei, utilizando para esse efeito as disponibilidades orçamentais ou, na sua falta, os saldos das contas de exercícios findos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

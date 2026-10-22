@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1970-147978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6b9e3ab7e730364edc2826fa3eb78cd118381d26b2168d970c2df38eb0aa0cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eab8da59ca3806c2200aafa77d8b8b18bec00ba411272ca7bff7fe7ab92e8085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Socorros a Náufragos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:181190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383606:por
+  label: "Extintas as gratificações previstas no § único do art. 8º do Dec Lei 41279 de 20-Set de 1957, com a redacção conferida\
+    \ neste diploma, pelo DEC LEI.253-A/79.27.07.1979.CR, DR.IS [172-Supl] de 27.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-a-1979-383606
+  date: '1979-07-27'
+- type: cites
+  target: pt:dre:251425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591938:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181190:por
+  label: "Revogado o Decreto-Lei n.º 41279, de 20 de Setembro de 1957, com a redacção dada no presente diploma, pelo DEC LEI.349/85.26.08.1985.MDN,\
+    \ DR.IS [195] de 26.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-1985-181190
+  date: '1985-08-26'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:22Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +129,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A alínea g) do artigo 1.º, a alínea b) do artigo 4.º, os artigos 7.º, 8.º e 9.º, o corpo do artigo 10.º, o artigo 11.º, as alíneas 1) e 11) do artigo 12.º e o artigo 14.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657), de 20 de Setembro de 1957, tomam a redacção seguinte:
+Artigo 1.º A alínea g) do artigo 1.º, a alínea b) do artigo 4.º, os artigos 7.º, 8.º e 9.º, o corpo do artigo 10.º, o artigo 11.º, as alíneas 1) e 11) do artigo 12.º e o artigo 14.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657), de 20 de Setembro de 1957, tomam a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -105,7 +139,7 @@ g) Conceder pensões a indivíduos que se inutilizarem, temporária ou definitiv
 
 ...
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 ...
 
@@ -121,21 +155,21 @@ b) Faculdade de emitir selos do modelo que figura no Regulamento do Instituto de
 
 ...
 
-###### Art. 7.º O Instituto de Socorros a Náufragos tem como director um oficial general do quadro da reserva, ou um capitão-de-mar-e-guerra dos quadros do activo ou da reserva, na directa dependência do director-geral dos Serviços de Fomento Marítimo.
+Art. 7.º O Instituto de Socorros a Náufragos tem como director um oficial general do quadro da reserva, ou um capitão-de-mar-e-guerra dos quadros do activo ou da reserva, na directa dependência do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 8.º A lotação do pessoal militar do Instituto de Socorros a Náufragos é estabelecida por portaria do Ministro da Marinha.
+Art. 8.º A lotação do pessoal militar do Instituto de Socorros a Náufragos é estabelecida por portaria do Ministro da Marinha.
 
 § único. Os oficiais que prestem serviço no Instituto em acumulação com o desempenho de outros cargos nos organismos do Ministério da Marinha vencerão uma gratificação fixada pelo Ministro da Marinha, com o acordo do Ministro das Finanças, por conta da verba para esse fim inscrita no orçamento privativo do Instituto.
 
-###### Art. 9.º A administração financeira do Instituto de Socorros a Náufragos é exercida por um conselho administrativo constituído nos termos estabelecidos no Regulamento de Administração da Fazenda Naval.
+Art. 9.º A administração financeira do Instituto de Socorros a Náufragos é exercida por um conselho administrativo constituído nos termos estabelecidos no Regulamento de Administração da Fazenda Naval.
 
-###### Art. 10.º O conselho administrativo do Instituto de Socorros a Náufragos rege-se pelas disposições do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública e compete-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os organismos dotados de autonomia administrativa.
+Art. 10.º O conselho administrativo do Instituto de Socorros a Náufragos rege-se pelas disposições do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública e compete-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os organismos dotados de autonomia administrativa.
 
-###### Art. 11.º Nos termos estabelecidos no Regulamento do Instituto de Socorros a Náufragos os capitães de portos nas áreas da sua jurisdição são responsáveis pelas actividades da competência do mesmo Instituto.
+Art. 11.º Nos termos estabelecidos no Regulamento do Instituto de Socorros a Náufragos os capitães de portos nas áreas da sua jurisdição são responsáveis pelas actividades da competência do mesmo Instituto.
 
 § único. No desempenho das funções a que se refere este artigo os capitães dos portos ficam directamente subordinados ao director do Instituto de Socorros a Náufragos.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 1) A cedência dos selos de aposição obrigatória nos documentos referidos no presente decreto-lei;
 
@@ -145,7 +179,7 @@ b) Faculdade de emitir selos do modelo que figura no Regulamento do Instituto de
 
 ...
 
-###### Art. 14.º O quadro do pessoal civil do Instituto de Socorros a Náufragos compreende:
+Art. 14.º O quadro do pessoal civil do Instituto de Socorros a Náufragos compreende:
 
 a) Pessoal administrativo e auxiliar;
 
@@ -159,7 +193,7 @@ b) Pessoal dos barcos salva-vidas.
 
 § 4.º O Ministro da Marinha regulará, por despacho, as condições em que o pessoal administrativo e auxiliar do Instituto de Socorros a Náufragos pode ser transferido para o quadro do pessoal civil do Ministério da Marinha ou deste para aquele.
 
-###### Art. 2.º No artigo 4.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657) são incluídos três parágrafos, com a redacção seguinte:
+Art. 2.º No artigo 4.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657) são incluídos três parágrafos, com a redacção seguinte:
 
 § 1.º As importâncias dos selos a apor nos documentos referidos neste artigo são as seguintes:
 
@@ -183,9 +217,9 @@ Selo de 1$00 - cor vermelha.
 
 § 3.º A percentagem a que se refere a alínea b) do § 1.º aplica-se às importâncias dos respectivos documentos, devendo o resultado ser arredondado por excesso para a quantia em escudos mais próxima do valor calculado.
 
-###### Art. 3.º Nos artigos 1.º e 15.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657) as designações director-geral da Marinha e tabela II são substituídas, respectivamente, por director-geral dos Serviços de Fomento Marítimo e por tabela III.
+Art. 3.º Nos artigos 1.º e 15.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657) as designações director-geral da Marinha e tabela II são substituídas, respectivamente, por director-geral dos Serviços de Fomento Marítimo e por tabela III.
 
-###### Art. 4.º Ficam revogados os diplomas seguintes:
+Art. 4.º Ficam revogados os diplomas seguintes:
 
 [Decreto-Lei n.º 41495](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41495-1957-251425), de 31 de Dezembro de 1957;
 
@@ -197,28 +231,28 @@ Selo de 1$00 - cor vermelha.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 16 de Setembro de 1970.**
+Promulgado em 16 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 TABELA I
 
 Pessoal administrativo e auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf))](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf)
 
 TABELA II
 
 Pessoal dos barcos salva-vidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf))](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf)
 
 TABELA III
 
 Gratificação do pessoal dos salva-vidas e dos cabos de vaivém
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf))](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/22900/14061408.pdf)
 
 Ministério da Marinha, 16 de Setembro de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.

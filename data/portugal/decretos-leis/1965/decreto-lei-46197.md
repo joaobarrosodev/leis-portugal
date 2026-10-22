@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46197-1965-238866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ccb984a9f90ea8a0a5f01af0834e3816a51ef1394343372feb7b7205df13427
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 916add4920191739391167e0102b0f00e454d11199ceaf78fd52a2631d29256e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento Geral do Estado
+relationships:
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:18Z'
   warnings: []
   errors: []
 ---
@@ -85,12 +93,12 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial da quantia de 1500000$00, devendo a mesma importância constituir o n.º 2) do artigo 137.º, capítulo 10.º, do orçamento respeitante ao corrente ano económico do mencionado Ministério, sob a rubrica «Para pagamento de todos os encargos resultantes de adaptação de instalações, apetrechamento e transferência dos serviços de finanças concelhios cuja concentração venha a ser determinada».
+Artigo 1.º É aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial da quantia de 1500000$00, devendo a mesma importância constituir o n.º 2) do artigo 137.º, capítulo 10.º, do orçamento respeitante ao corrente ano económico do mencionado Ministério, sob a rubrica «Para pagamento de todos os encargos resultantes de adaptação de instalações, apetrechamento e transferência dos serviços de finanças concelhios cuja concentração venha a ser determinada».
 
-###### Art. 2.º Para compensação do crédito aludido no artigo precedente, é adicionada a importância de 1500000$00 à verba inscrita no capítulo 1.º, artigo 1.º «Contribuição industrial», do orçamento das receitas para o actual ano económico.
+Art. 2.º Para compensação do crédito aludido no artigo precedente, é adicionada a importância de 1500000$00 à verba inscrita no capítulo 1.º, artigo 1.º «Contribuição industrial», do orçamento das receitas para o actual ano económico.
 
-###### Art. 3.º Para os fins mencionados na rubrica orçamental criada por este decreto-lei, pode o Ministro das Finanças dispensar o cumprimento do disposto no artigo 82.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Junho de 1963, e bem assim na lei vigente a que o mesmo artigo se refere.
+Art. 3.º Para os fins mencionados na rubrica orçamental criada por este decreto-lei, pode o Ministro das Finanças dispensar o cumprimento do disposto no artigo 82.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Junho de 1963, e bem assim na lei vigente a que o mesmo artigo se refere.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Fevereiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

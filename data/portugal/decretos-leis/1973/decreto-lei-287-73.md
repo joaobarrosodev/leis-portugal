@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1973-422817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6a499bf18ee7d11b40bc1c3858e41117bcd8ddc3be2667b11152f42e1097b0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcef32c4b17bfb5f2aac1c54c370e59a29ac6189fbe25d533e17a2813a5ce7c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caminhos de Ferro Portugueses
+- Contrato de Concessão
+- Fundo Especial de Transportes Terrestres
+- Ministro das Comunicações
+- Rede Ferroviária
+- Sociedade Anónima
+- Transporte Terrestre
+relationships:
+- type: cites
+  target: pt:dre:228656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:16Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +104,14 @@ Em complemento do regime estabelecido no [Decreto-Lei n.º 104/73](https://diari
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O n.º 1 da base LIII anexa ao [Decreto-Lei n.º 104/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1973-684232), de 13 de Março, passa a ter a seguinte redacção:
+Artigo único. O n.º 1 da base LIII anexa ao [Decreto-Lei n.º 104/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1973-684232), de 13 de Março, passa a ter a seguinte redacção:
 
 1. Ficam a cargo do Estado as rendas vincendas, necessárias à constituição, quer das reservas matemáticas das caixas de reformas e pensões existentes antes de 1955, quer do fundo de reserva correspondente aos beneficiários a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 103/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1970-228656), de 14 de Março, e a pagar pela Companhia à Caixa Nacional de Pensões, nos termos do mesmo diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 30 de Maio de 1973.**
+Promulgado em 30 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

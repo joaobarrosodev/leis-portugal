@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 303/1976, 5º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 2900-(117) a 2900-(128)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30305/01170128.pdf
 entry_into_force_dates: []
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08fa676b05183be95f2bd87ef7262fddaf06a9dc64c5371aa201cf2e9f0b9450
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 577cb4c0ad3cb614821c2bbe92a85eed50ff2c73cf9f33b747e346869f7f41f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Revolução
+- Definição de Competências
+- Exército
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251655:por
+  label: "Extinta a Chefia do Serviço de Educação Física, criada pela al. b) do nº 2 do art. 12º deste diploma pelo DEC LEI.176/77.03.05.1977.CR,\
+    \ DR.IS [102] de 03.05.1977, que determinou a transferência, transitória, para a Direcção do Serviço de Educação Física\
+    \ das atribuições que lhe estão cometidas, pessoal, infra-estruturas e material aí existente.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1977-251655
+  date: '1977-05-03'
+- type: amended_by
+  target: pt:dre:196912:por
+  label: "Alterado o art. 24º e revogado o art. 27º do presente diploma, pelo DEC LEI.457/77.04.11.1977.CR, DR.IS [255] de\
+    \ 04.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1977-196912
+  date: '1977-11-04'
+- type: amended_by
+  target: pt:dre:329827:por
+  label: "Extinta a Chefia do Serviço de Obras do Exército, criada pela al. f) do nº 2 do art. 11º do presente diploma, e\
+    \ transferidas para a Direcção do Serviço de Fortificações e Obras do Exército as suas atribuições, pessoal, infra-estruturas\
+    \ e todo o material ali existente, pelo DEC LEI.283/78.11.09.1978.CR, DR.IS [209] de 11.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/283-1978-329827
+  date: '1978-09-11'
+- type: repealed_by
+  target: pt:dre:385472:por
+  label: "Revogadas as disposições em contrário contidas no presente diploma, pelo DEC LEI.228/84.10.07.1984.MDN, DR.IS [158]\
+    \ de 10.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1984-385472
+  date: '1984-07-10'
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: "Revogado pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993, que o mantém, contudo, transitoriamente\
+    \ em vigor, nos termos do seu art. 32º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:07Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +146,7 @@ ORGANIZAÇÃO SUPERIOR DO EXÉRCITO
 
 ### CAPÍTULO I — Disposição gerais
 
-###### Artigo 1.º - 1. São missões das forças armadas as consignadas no artigo 273.º da Constituição da República. No quadro dessas missões, competem ao Exército as seguintes tarefas específicas:
+Artigo 1.º - 1. São missões das forças armadas as consignadas no artigo 273.º da Constituição da República. No quadro dessas missões, competem ao Exército as seguintes tarefas específicas:
 
 a) Assegurar a defesa terrestre do território nacional;
 
@@ -126,7 +162,7 @@ f) Preparar e organizar militarmente a população activa do País que lhe é de
 
 2. Ao Exército podem ser cometidas outras missões que interessem à defesa nacional e protecção das populações, desde que não colidam com as disposições constitucionais.
 
-###### Art. 2.º - 1. O Exército, sob o comando do Chefe do Estado-Maior do Exército (CEME), compreende:
+Art. 2.º - 1. O Exército, sob o comando do Chefe do Estado-Maior do Exército (CEME), compreende:
 
 a) O Estado-Maior do Exército (EME);
 
@@ -138,9 +174,9 @@ d) As unidades, estabelecimentos, órgãos de execução dos serviços ou outros
 
 2. Forças do Exército poderão ser postas à disposição de comandos de forças combinadas para o cumprimento de compromissos internacionais assumidos pelo Estado Português, ou na dependência de comandos de forças conjuntas.
 
-###### Art. 3.º O Chefe do Estado-Maior do Exército (CEME), respondendo unicamente perante o Chefe do Estado-Maior-General das Forças Armadas, é o responsável pelo eficaz funcionamento do Exército, pelo cumprimento das missões que são cometidas ao Exército, tendo como atribuições fundamentais a organização, preparação, planeamento e emprego operacionais, administração, manutenção e mobilização das forças do Exército.
+Art. 3.º O Chefe do Estado-Maior do Exército (CEME), respondendo unicamente perante o Chefe do Estado-Maior-General das Forças Armadas, é o responsável pelo eficaz funcionamento do Exército, pelo cumprimento das missões que são cometidas ao Exército, tendo como atribuições fundamentais a organização, preparação, planeamento e emprego operacionais, administração, manutenção e mobilização das forças do Exército.
 
-###### Art. 4.º - 1. No Exército existem as seguintes armas e serviços:
+Art. 4.º - 1. No Exército existem as seguintes armas e serviços:
 
 a) Armas:
 
@@ -226,15 +262,15 @@ Bandas e fanfarras do Exército.
 
 9. A acção social do Exército é exercida por intermédio dos Serviços Sociais das Forças Armadas, orientados e coordenados superiormente pelo CEMGFA. A assistência na doença aos militares do Exército e suas famílias é promovida no departamento de finanças.
 
-###### Art. 5.º As direcções das armas, bem como todas as direcções e chefias de serviços e a inspecção de bandas e fanfarras do Exército, além de outras atribuições gerais ou específicas que lhes sejam cometidas, superintendem, orientam e inspeccionam tecnicamente as actividades relativas às funções que lhes são inerentes em todos as unidades, estabelecimentos e outros órgãos do Exército.
+Art. 5.º As direcções das armas, bem como todas as direcções e chefias de serviços e a inspecção de bandas e fanfarras do Exército, além de outras atribuições gerais ou específicas que lhes sejam cometidas, superintendem, orientam e inspeccionam tecnicamente as actividades relativas às funções que lhes são inerentes em todos as unidades, estabelecimentos e outros órgãos do Exército.
 
-###### Art. 6.º - 1. O CEME dispõe, como seus imediatos colaboradores, de dois generais que têm as designações, respectivamente, de Vice-Chefe do Estado-Maior do Exército (VCEME) e inspector-geral do Exército (IGE), os quais são hierarquicamente superiores aos restantes generais em serviço no Exército.
+Art. 6.º - 1. O CEME dispõe, como seus imediatos colaboradores, de dois generais que têm as designações, respectivamente, de Vice-Chefe do Estado-Maior do Exército (VCEME) e inspector-geral do Exército (IGE), os quais são hierarquicamente superiores aos restantes generais em serviço no Exército.
 
 2. O Vice-Chefe do Estado-Maior do Exército tem precedência sobre o inspector-geral do Exército.
 
 ### CAPÍTULO II — Do Estado-Maior do Exército (EME)
 
-###### Art. 7.º - 1. O Estado-Maior do Exército (EME) destina-se a assegurar o desempenho das funções de planeamento, direcção e contrôle das actividades relativas à organização, preparação, emprego operacional, administração, manutenção e mobilização das forças do Exército.
+Art. 7.º - 1. O Estado-Maior do Exército (EME) destina-se a assegurar o desempenho das funções de planeamento, direcção e contrôle das actividades relativas à organização, preparação, emprego operacional, administração, manutenção e mobilização das forças do Exército.
 
 2. O Chefe do Estado-Maior do Exército é coadjuvado, ao nível do EME, pelo Vice-Chefe do Estado-Maior do Exército e tem na sua dependência cinco oficiais generais: o ajudante-general, o director do Departamento de Operações, o Quartel-Mestre-General, o director do Departamento de Instrução e o director do Departamento de Finanças.
 
@@ -266,11 +302,11 @@ k) A Direcção do Serviço Histórico-Militar;
 
 l) A Direcção do Serviço de Informática.
 
-###### Art. 8.º - 1. O Vice-Chefe do Estado-Maior do Exército assegura a coordenação das actividades dos departamentos do EME e superintende nos serviços de informática e histórico-militar.
+Art. 8.º - 1. O Vice-Chefe do Estado-Maior do Exército assegura a coordenação das actividades dos departamentos do EME e superintende nos serviços de informática e histórico-militar.
 
 2. Compete ao Vice-Chefe do Estado-Maior do Exército orientar superiormente o funcionamento do Estado-Maior do Exército.
 
-###### Art. 9.º - 1. Ao Departamento de Pessoal, dirigido pelo ajudante-general, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
+Art. 9.º - 1. Ao Departamento de Pessoal, dirigido pelo ajudante-general, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
 
 a) Estudar, planear, coordenar e accionar as actividades das seguintes áreas de responsabilidade relativas ao pessoal militar e civil: efectivos, administração de pessoal, moral, lei e ordem;
 
@@ -296,7 +332,7 @@ g) A Inspecção de Bandas e Fanfarras do Exército.
 
 4. Do ajudante-general depende ainda o Centro de Estudos Psicotécnicos do Exército.
 
-###### Art. 10.º - 1. Ao Departamento de Operações, dirigido pelo director do Departamento de Operações, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
+Art. 10.º - 1. Ao Departamento de Operações, dirigido pelo director do Departamento de Operações, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
 
 a) Planear, coordenar e accionar as actividades de informação e contra-informação no âmbito do Exército;
 
@@ -320,7 +356,7 @@ d) A Chefia do Serviço Cartográfico do Exército;
 
 e) A Chefia do Serviço de Reconhecimento das Transmissões.
 
-###### Art. 11.º - 1. Ao Departamento de Logística, dirigido pelo Quartel-Mestre-General, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
+Art. 11.º - 1. Ao Departamento de Logística, dirigido pelo Quartel-Mestre-General, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
 
 a) Estudar, planear, coordenar e accionar, no âmbito do Exército, as actividades de apoio logístico, designadamente de reabastecimento, hospitalização, transporte e serviços técnicos, incluindo a obtenção de material, equipamento e infra-estruturas e a sua manutenção;
 
@@ -350,7 +386,7 @@ a) Os estabelecimentos fabris do Exército;
 
 b) O conselho fiscal dos estabelecimentos fabris do Exército.
 
-###### Art. 12.º - 1. Ao Departamento de Instrução, dirigido pelo director do Departamento de Instrução, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
+Art. 12.º - 1. Ao Departamento de Instrução, dirigido pelo director do Departamento de Instrução, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
 
 a) Estudar, planear e accionar os assuntos relativos à instrução no âmbito do Exército, incluindo os que respeitem aos materiais necessários a tal actividade;
 
@@ -372,7 +408,7 @@ a) Os estabelecimentos de ensino militar;
 
 b) Os estabelecimentos militares do ensino.
 
-###### Art. 13.º - 1. Ao Departamento de Finanças, dirigido pelo director do Departamento de Finanças, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
+Art. 13.º - 1. Ao Departamento de Finanças, dirigido pelo director do Departamento de Finanças, compete, fundamentalmente, de acordo com as directivas do Chefe do Estado-Maior do Exército:
 
 a) Planear e accionar todos os assuntos relativos à administração financeira do Exército;
 
@@ -396,7 +432,7 @@ c) O Centro Financeiro do Exército.
 
 4. Do director do Departamento de Finanças depende a Comissão de Contencioso Militar.
 
-###### Art. 14.º - 1. O Gabinete do Chefe do Estado-Maior do Exército (GCEME) é o órgão de trabalho e de apoio directo do CEME, competindo-lhe ainda:
+Art. 14.º - 1. O Gabinete do Chefe do Estado-Maior do Exército (GCEME) é o órgão de trabalho e de apoio directo do CEME, competindo-lhe ainda:
 
 a) Estabelecer as necessárias relações entre o Exército e os organismos superiores civis;
 
@@ -420,7 +456,7 @@ e) A Secção de Expediente e Arquivo.
 
 3. Adstrita ao Gabinete do Chefe do Estado-Maior do Exército, funcionará uma auditoria jurídica dirigida por um auditor jurídico, com dois adjuntos, à qual compete dar parecer jurídico sobre os assuntos que lhe forem postos pelo CEME.
 
-###### Art. 15.º - 1. O Gabinete de Estudos e Planeamento é dirigido pelo adjunto para o planeamento, na dependência do CEME.
+Art. 15.º - 1. O Gabinete de Estudos e Planeamento é dirigido pelo adjunto para o planeamento, na dependência do CEME.
 
 2. Ao Gabinete de Estudos e Planeamento compete:
 
@@ -434,7 +470,7 @@ d) Promover o reajustamento dos planos e programas de emprego do Exército decor
 
 3. A composição do Gabinete de Estudos e Planeamento será definida por despacho do CEME.
 
-###### Art. 16.º - 1. O Subchefe do Estado-Maior do Exército, oficial general ou coronel, na dependência do Vice-Chefe do Estado-Maior do Exército, é o comandante do aquartelamento principal do EME, bem como de outros aquartelamentos para apoio deste, expressamente designados.
+Art. 16.º - 1. O Subchefe do Estado-Maior do Exército, oficial general ou coronel, na dependência do Vice-Chefe do Estado-Maior do Exército, é o comandante do aquartelamento principal do EME, bem como de outros aquartelamentos para apoio deste, expressamente designados.
 
 2. Compete ainda ao Subchefe do Estado-Maior do Exército coordenar as actividades dos seguintes órgãos de apoio do EME:
 
@@ -452,7 +488,7 @@ e) A Biblioteca do Estado-Maior do Exército.
 
 4. Dependem administrativamente do Subchefe do Estado-Maior do Exército o Centro de Transmissões, o Centro Cripto e o Posto de Socorros do EME.
 
-###### Art. 17.º - 1. As direcções das armas, as direcções dos Serviços de Administração Militar, de Saúde e de Material, a Chefia do Serviço Geral do Exército e a Inspecção de Bandas e Fanfarras do Exército dependem do CEME, através dos departamentos do EME, no que respeita aos assuntos do âmbito de cada um destes.
+Art. 17.º - 1. As direcções das armas, as direcções dos Serviços de Administração Militar, de Saúde e de Material, a Chefia do Serviço Geral do Exército e a Inspecção de Bandas e Fanfarras do Exército dependem do CEME, através dos departamentos do EME, no que respeita aos assuntos do âmbito de cada um destes.
 
 2. As direcções das armas, as direcções dos Serviços de Administração Militar, de Saúde e de Material, a Chefia do Serviço Geral do Exército e a Inspecção de Bandas e Fanfarras do Exército têm as seguintes atribuições gerais:
 
@@ -478,7 +514,7 @@ j) Executar no seu âmbito os trâmites correspondentes à obtenção de materia
 
 k) Apoiar o conselho da arma ou serviço de forma a facultar os meios indispensáveis ao desempenho das suas atribuições.
 
-###### Art. 18.º - 1. À Direcção do Serviço Histórico-Militar, na directa dependência do VCEME, compete promover o cumprimento das missões do serviço histórico-militar, que são, fundamentalmente, as seguintes:
+Art. 18.º - 1. À Direcção do Serviço Histórico-Militar, na directa dependência do VCEME, compete promover o cumprimento das missões do serviço histórico-militar, que são, fundamentalmente, as seguintes:
 
 a) Zelar pela conservação do património histórico-militar do País relacionado com a existência e acção das instituições e forças militares terrestres, em particular no que respeita ao Exército;
 
@@ -498,7 +534,7 @@ c) Os museus militares afectos ao Exército e suas dependências;
 
 d) Os destacamentos ou equipas de história militar, quando se encontrem em apoio da Direcção do Serviço.
 
-###### Art. 19.º - 1. À Direcção do Serviço de Informática, na directa dependência do VCEME, compete, fundamentalmente:
+Art. 19.º - 1. À Direcção do Serviço de Informática, na directa dependência do VCEME, compete, fundamentalmente:
 
 a) Definir a política de informática do Exército e informar sobre as possibilidades do serviço;
 
@@ -518,9 +554,9 @@ f) Executar todas as operações decorrentes da aplicação da política de info
 
 ### CAPÍTULO III — Das regiões militares (RM) e das zonas militares (ZM)
 
-###### Art. 20.º O território nacional é dividido em regiões militares (RM) e zonas militares (ZM), estando os respectivos comandos subordinados ao CEME.
+Art. 20.º O território nacional é dividido em regiões militares (RM) e zonas militares (ZM), estando os respectivos comandos subordinados ao CEME.
 
-###### Art. 21.º As regiões militares e as zonas militares compreendem:
+Art. 21.º As regiões militares e as zonas militares compreendem:
 
 a) Os comandos respectivos;
 
@@ -528,7 +564,7 @@ b) As unidades territoriais e escolas práticas;
 
 c) As unidades operacionais, órgãos de execução dos serviços e outros órgãos do Exército que lhes forem atribuídos.
 
-###### Art. 22.º - 1. Os comandos das RM e ZM têm por missão fundamental nas respectivas áreas de jurisdição:
+Art. 22.º - 1. Os comandos das RM e ZM têm por missão fundamental nas respectivas áreas de jurisdição:
 
 a) Comandar e administrar, de acordo com as directivas superiores, as unidades e os órgãos de execução dos serviços do Exército, com excepção dos que, por determinação expressa, estejam na dependência directa do CEME ou de comandos operacionais constituídos;
 
@@ -540,7 +576,7 @@ d) Planear e executar as actividades a desenvolver de acordo com as missões que
 
 2. Os comandos das RM e ZM são responsáveis pela segurança e disciplina das unidades, órgãos de execução dos serviços e outros órgãos do Exército situados nas respectivas áreas territoriais, mesmo que dependentes de outros comandos, sem prejuízo de outras responsabilidades que em relação àquelas lhes venham a ser superiormente fixadas.
 
-###### Art. 23.º - 1. Os órgãos de execução dos serviços do Exército são, na generalidade, os seguintes:
+Art. 23.º - 1. Os órgãos de execução dos serviços do Exército são, na generalidade, os seguintes:
 
 a) As unidades de serviços;
 
@@ -566,7 +602,7 @@ j) Os arquivos, bibliotecas e os museus militares.
 
 ### CAPÍTULO IV — Dos órgãos de conselho e inspecção
 
-###### Art. 24.º - 1. O Conselho Superior do Exército (CSE) é um órgão de conselho do CEME especialmente para as questões relativas a:
+Art. 24.º - 1. O Conselho Superior do Exército (CSE) é um órgão de conselho do CEME especialmente para as questões relativas a:
 
 a) Doutrina de emprego das forças do Exército;
 
@@ -588,11 +624,11 @@ a) Recebe colaboração dos conselhos das armas e dos serviços;
 
 b) Deverá agregar a si, como membros de pleno direito, os presidentes dos conselhos das armas e serviços de igual posto ou superior ao dos militares em apreciação.
 
-###### Art. 25.º - 1. O Conselho Superior de Disciplina do Exército (CSDE) é o órgão superior do Exército ao qual compete pronunciar-se, em conformidade com a lei, sobre assuntos de natureza disciplinar.
+Art. 25.º - 1. O Conselho Superior de Disciplina do Exército (CSDE) é o órgão superior do Exército ao qual compete pronunciar-se, em conformidade com a lei, sobre assuntos de natureza disciplinar.
 
 2. O CSDE compreende cinco generais do activo ou da reserva, sendo o mais antigo ou graduado o presidente, e um promotor oficial superior do activo ou da reserva, todos nomeados pelo CEME.
 
-###### Art. 26.º - 1. À Inspecção-Geral do Exército (IGE), dirigida pelo inspector-geral do Exército na dependência directa do CEME, compete:
+Art. 26.º - 1. À Inspecção-Geral do Exército (IGE), dirigida pelo inspector-geral do Exército na dependência directa do CEME, compete:
 
 a) Fiscalizar, no âmbito do Exército, o cumprimento das disposições legais em vigor e das determinações do CEME;
 
@@ -616,7 +652,7 @@ c) O Gabinete.
 
 6. O Gabinete compreende, além de outros elementos, um secretário permanente, oficial superior, que poderá ser coadjuvado por outros oficiais para esse fim designados.
 
-###### Art. 27.º - 1. O Conselho das Armas e Serviços do Exército (CASE) é um órgão de conselho do CEME, competindo-lhe:
+Art. 27.º - 1. O Conselho das Armas e Serviços do Exército (CASE) é um órgão de conselho do CEME, competindo-lhe:
 
 a) Pronunciar-se sobre os assuntos relativos à melhoria da condição militar;
 
@@ -628,7 +664,7 @@ a) Por iniciativa do próprio CEME, que é o seu presidente nato;
 
 b) A pedido, considerado justificado, de um ou mais conselhos.
 
-###### Art. 28.º - 1. A Comissão de Contas e Apuramento de Responsabilidades (CCAR), na dependência directa do CEME, destina-se a ajustar e aprovar as contas de gerência de todas as entidades do Exército responsáveis pela administração de numerário e bens materiais do Estado para ulterior julgamento pelo Tribunal de Contas.
+Art. 28.º - 1. A Comissão de Contas e Apuramento de Responsabilidades (CCAR), na dependência directa do CEME, destina-se a ajustar e aprovar as contas de gerência de todas as entidades do Exército responsáveis pela administração de numerário e bens materiais do Estado para ulterior julgamento pelo Tribunal de Contas.
 
 2. À CCAR, dispondo de um órgão de trabalho designado por Repartição de Contas, compreende:
 
@@ -636,11 +672,11 @@ a) O presidente, oficial general do activo ou da reserva;
 
 b) Os vogais:
 
-**O chefe da Repartição de Contas;**
+O chefe da Repartição de Contas;
 
 Dois oficiais superiores designados pelo Departamento de Finanças;
 
-**O chefe da 5.ª Delegação da Direcção-Geral da Contabilidade Pública;**
+O chefe da 5.ª Delegação da Direcção-Geral da Contabilidade Pública;
 
 c) O secretário, sem voto, que é um dos chefes de secção da Repartição de Contas.
 
@@ -648,20 +684,20 @@ c) O secretário, sem voto, que é um dos chefes de secção da Repartição de 
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 29.º A constituição, a orgânica e as atribuições específicas dos órgãos do Exército referidos neste decreto-lei serão reguladas ou completadas por diplomas especiais.
+Art. 29.º A constituição, a orgânica e as atribuições específicas dos órgãos do Exército referidos neste decreto-lei serão reguladas ou completadas por diplomas especiais.
 
-###### Art. 30.º O presente diploma revoga todas as disposições em contrário relativas à organização geral do Exército, com excepção das que respeitem às missões, atribuições, funções ou estruturação das unidades, estabelecimentos e outros órgãos que não hajam sido explicitamente alterados por este decreto-lei, até que seja dado cumprimento ao determinado no artigo anterior.
+Art. 30.º O presente diploma revoga todas as disposições em contrário relativas à organização geral do Exército, com excepção das que respeitem às missões, atribuições, funções ou estruturação das unidades, estabelecimentos e outros órgãos que não hajam sido explicitamente alterados por este decreto-lei, até que seja dado cumprimento ao determinado no artigo anterior.
 
-###### Art. 31.º A organização estabelecida no presente diploma entra em vigor em 1 de Janeiro de 1977.
+Art. 31.º A organização estabelecida no presente diploma entra em vigor em 1 de Janeiro de 1977.
 
 Visto e aprovado em Conselho da Revolução em 15 de Dezembro de 1976.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30305/01170128.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30305/01170128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30305/01170128.pdf)
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

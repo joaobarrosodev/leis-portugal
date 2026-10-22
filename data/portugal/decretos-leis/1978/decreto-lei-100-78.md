@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/11600/09080909.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1978-296386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 032dfb17b02f8c76a25a7075f527b5973982c912d0325b92f1cd6075b7b4a29d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8e208d9e2f167290f881275c3f590a1bf183064ef732d0e73bdb34992595d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Ajudas de Custo
+- Deslocação em Serviço
+- Função Pública
+- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:510013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:295103:por
+  label: Retificado, no referente às assinaturas, pelo(a) Declaração - Diário da República n.º 134/1978, Série I de 1978-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-295103
+  date: '1978-06-14'
+- type: repealed_by
+  target: pt:dre:510013:por
+  label: "Revogado pelo DEC LEI.519-M/79.28.12.1979.MF, DR.IS [298]3ºSupl de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-m-1979-510013
+  date: '1979-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:32Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +130,13 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os funcionários ou agentes da Administração Central e das administrações local e regional e dos institutos públicos nas modalidades de serviços públicos personalizados e de fundos públicos só têm direito ao abono de ajudas de custo pelas deslocações em serviço que se efectuem para além de 10 km da sua residência oficial, tratando-se de deslocações diárias, e para além de 30 km daquela residência, no caso de deslocações por dias sucessivos.
+Artigo 1.º - 1 - Os funcionários ou agentes da Administração Central e das administrações local e regional e dos institutos públicos nas modalidades de serviços públicos personalizados e de fundos públicos só têm direito ao abono de ajudas de custo pelas deslocações em serviço que se efectuem para além de 10 km da sua residência oficial, tratando-se de deslocações diárias, e para além de 30 km daquela residência, no caso de deslocações por dias sucessivos.
 
 2 - São consideradas deslocações diárias as que se efectuam dentro de um período de vinte e quatro horas ou, no caso de ultrapassarem esse período, quando não impliquem a necessidade de realização de novas despesas no período excedente.
 
 3 - Consideram-se deslocações por dias sucessivos as que se efectuam por período superior a vinte e quatro horas e que não estejam compreendidas na última parte do número anterior.
 
-###### Art. 2.º - 1 - Nas deslocações diárias, o abono da respectiva ajuda de custo será efectuado contra a apresentação dos documentos comprovativos das despesas efectivamente pagas, dentro dos seguintes limites de percentagem da ajuda de custo diária:
+Art. 2.º - 1 - Nas deslocações diárias, o abono da respectiva ajuda de custo será efectuado contra a apresentação dos documentos comprovativos das despesas efectivamente pagas, dentro dos seguintes limites de percentagem da ajuda de custo diária:
 
 ... Percentagem
 
@@ -143,13 +174,13 @@ Depois das 20 horas ... 50
 
 5 - Os documentos referidos no n.º 1 deste artigo, devidamente visados, ficam arquivados nos serviços processadores, declarando os respectivos dirigentes, sob sua responsabilidade, em observação exarada nas folhas, que os abonos foram processados de acordo com a documentação arquivada.
 
-###### Art. 3.º - 1 - Os dirigentes dos serviços poderão autorizar o abono adiantado de ajudas de custo até trinta dias, devendo os interessados prestar contas da importância avançada no prazo de dez dias, após o regresso à residência oficial.
+Art. 3.º - 1 - Os dirigentes dos serviços poderão autorizar o abono adiantado de ajudas de custo até trinta dias, devendo os interessados prestar contas da importância avançada no prazo de dez dias, após o regresso à residência oficial.
 
 2 - Poderá ser autorizada a constituição, nos termos legais, de fundos permanentes para o pagamento adiantado de ajudas de custo, sob proposta dos serviços onde se verifique frequentemente a necessidade de deslocações urgentes de pessoal.
 
 3 - Fica expressamente proibido o processamento adiantado de ajudas de custo, ou o seu pagamento antecipado através de fundos permanentes, aos funcionários ou agentes que não tenham promovido a regularização de adiantamentos concedidos nos termos do n.º 1 no prazo aí fixado.
 
-###### Art. 4.º - 1 - Nas deslocações por dias sucessivos em que seja fornecido alojamento e alimentação, ou apenas um destes benefícios, abonar-se-á a ajuda de custo diária nas seguintes percentagens:
+Art. 4.º - 1 - Nas deslocações por dias sucessivos em que seja fornecido alojamento e alimentação, ou apenas um destes benefícios, abonar-se-á a ajuda de custo diária nas seguintes percentagens:
 
 ... Percentagem
 
@@ -165,20 +196,20 @@ Com fornecimento de duas refeições e alojamento ... 20
 
 2 - Quando as despesas de alojamento e/ou alimentação forem suportadas pelas entidades abrangidas por este diploma, os respectivos encargos não podem exceder a despesa correspondente ao quantitativo das ajudas de custo a que houver lugar, de acordo com a tabela em vigor, deduzidas as percentagens referidas no n.º 1.
 
-###### Art. 5.º O quantitativo correspondente ao abono diário do subsídio de refeição, previsto no [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, será deduzido nas ajudas de custo quando as despesas sujeitas a compensação incluírem o custo do almoço.
+Art. 5.º O quantitativo correspondente ao abono diário do subsídio de refeição, previsto no [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, será deduzido nas ajudas de custo quando as despesas sujeitas a compensação incluírem o custo do almoço.
 
-###### Art. 6.º As disposições do presente diploma e as tabelas de ajudas de custo, fixadas nos termos do artigo 1.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968, aplicam-se apenas às deslocações efectuadas no território nacional.
+Art. 6.º As disposições do presente diploma e as tabelas de ajudas de custo, fixadas nos termos do artigo 1.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968, aplicam-se apenas às deslocações efectuadas no território nacional.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Reforma Administrativa, sob parecer da Direcção-Geral da Contabilidade Pública ou da Direcção-Geral da Função Pública, de harmonia com a respectiva competência.
+Art. 7.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Reforma Administrativa, sob parecer da Direcção-Geral da Contabilidade Pública ou da Direcção-Geral da Função Pública, de harmonia com a respectiva competência.
 
-###### Art. 8.º Ficam revogados o corpo do artigo 1.º, o artigo 3.º, os n.os 2.º, 3.º e 4.º do artigo 4.º e os artigos 5.º e 9.º do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944, com as alterações introduzidas pelos artigos 11.º e 12.º do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956, e pelo artigo 3.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968.
+Art. 8.º Ficam revogados o corpo do artigo 1.º, o artigo 3.º, os n.os 2.º, 3.º e 4.º do artigo 4.º e os artigos 5.º e 9.º do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944, com as alterações introduzidas pelos artigos 11.º e 12.º do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956, e pelo artigo 3.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968.
 
-###### Art. 9.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 9.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 10 de Maio de 1978.**
+Promulgado em 10 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

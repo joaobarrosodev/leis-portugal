@@ -48,40 +48,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1980-464045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6749cbfa3d97115bc6e1b90652654ebc09435acb630eba9444ae9a6837549eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e82d92b9e2f4363d6e04947e3bdf543afba55f1a69a714d6ff142f88be1091c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial do Café
+- Direcção Geral de Economia
+- Extinção de Serviços
+- Fundo de Fomento e de Propaganda do Café
+- Fundo de Fomento Mineiro Ultramarino
+- Gabinete de Planeamento e Integração Económica
+- Gabinete do Plano e Desenvolvimento da Região do Zambeze
+- Inspecção Geral de Minas
+- Ministério da Cooperação
+- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:565386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685796:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:565386:por
+  label: Revogado, a partir de 11.01.1991, o art. 7.º pelo DEC LEI.385/90.10.12.1990.MNE, DR.IS [283] de 10.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1990-565386
+  date: '1990-12-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:38Z'
   warnings: []
   errors: []
 ---
@@ -98,34 +145,34 @@ Tendo presente que para a boa regularidade do funcionamento da Direcção-Geral 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nos termos do artigo 22.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, são extintos a Direcção-Geral de Economia, criada pelo [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, a Comissão Interministerial do Café e o Fundo de Fomento e de Propaganda do Café, criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, o Gabinete de Planeamento e Integração Económica, criado pelo [Decreto-Lei n.º 45222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45222-1963-685796), de 30 de Agosto de 1963, o Fundo de Fomento Mineiro Ultramarino, criado pelo Decreto-Lei n.º 48085, de 2 de Dezembro de 1967, a Inspecção-Geral de Minas, criada pelo [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro, e o Gabinete do Plano do Zambeze, criado pelo [Decreto-Lei n.º 69/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1970-228057), de 27 de Fevereiro.
+Artigo 1.º Nos termos do artigo 22.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, são extintos a Direcção-Geral de Economia, criada pelo [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, a Comissão Interministerial do Café e o Fundo de Fomento e de Propaganda do Café, criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, o Gabinete de Planeamento e Integração Económica, criado pelo [Decreto-Lei n.º 45222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45222-1963-685796), de 30 de Agosto de 1963, o Fundo de Fomento Mineiro Ultramarino, criado pelo Decreto-Lei n.º 48085, de 2 de Dezembro de 1967, a Inspecção-Geral de Minas, criada pelo [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro, e o Gabinete do Plano do Zambeze, criado pelo [Decreto-Lei n.º 69/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1970-228057), de 27 de Fevereiro.
 
-###### Art. 2.º O pessoal pertencente aos serviços e organismos mencionados ora extintos ou a eles vinculado a qualquer título poderá ser integrado no quadro da Direcção-Geral de Cooperação anexo ao [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, nos termos, condições e formas de provimento fixados no artigo 23.º do mesmo diploma, no prazo de sessenta dias a contar da entrada em vigor deste diploma.
+Art. 2.º O pessoal pertencente aos serviços e organismos mencionados ora extintos ou a eles vinculado a qualquer título poderá ser integrado no quadro da Direcção-Geral de Cooperação anexo ao [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, nos termos, condições e formas de provimento fixados no artigo 23.º do mesmo diploma, no prazo de sessenta dias a contar da entrada em vigor deste diploma.
 
-###### Art. 3.º Até à publicação do decreto regulamentar previsto no artigo 24.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), o pessoal referido no mesmo artigo ficará adstrito à Secretaria-Geral do Ministério dos Negócios Estrangeiros, onde deverá efectuar de imediato a sua apresentação.
+Art. 3.º Até à publicação do decreto regulamentar previsto no artigo 24.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), o pessoal referido no mesmo artigo ficará adstrito à Secretaria-Geral do Ministério dos Negócios Estrangeiros, onde deverá efectuar de imediato a sua apresentação.
 
-###### Art. 4.º Dentro do prazo estabelecido no artigo anterior, o processamento dos vencimentos do pessoal nele referido caberá à Direcção-Geral dos Serviços Centrais do Ministério dos Negócios Estrangeiros.
+Art. 4.º Dentro do prazo estabelecido no artigo anterior, o processamento dos vencimentos do pessoal nele referido caberá à Direcção-Geral dos Serviços Centrais do Ministério dos Negócios Estrangeiros.
 
-###### Art. 5.º Os responsáveis pelos organismos ora extintos deverão, em colaboração com os respectivos conselhos e comissões administrativas, organizar, nos termos legais, as respectivas contas de gerência relativas ao orçamento vigente até à sua extinção, remetendo-as ao Tribunal de Contas dentro do prazo de noventa dias a contar da entrada em vigor do presente diploma.
+Art. 5.º Os responsáveis pelos organismos ora extintos deverão, em colaboração com os respectivos conselhos e comissões administrativas, organizar, nos termos legais, as respectivas contas de gerência relativas ao orçamento vigente até à sua extinção, remetendo-as ao Tribunal de Contas dentro do prazo de noventa dias a contar da entrada em vigor do presente diploma.
 
-###### Art. 6.º Transitam para reforço das dotações com idêntica classificação económica da divisão 01 do capítulo 03 do Orçamento do Ministério dos Negócios Estrangeiros os saldos das dotações orçamentais dos organismos extintos pelo presente diploma que não tiverem sido utilizados até à data da sua entrada em vigor.
+Art. 6.º Transitam para reforço das dotações com idêntica classificação económica da divisão 01 do capítulo 03 do Orçamento do Ministério dos Negócios Estrangeiros os saldos das dotações orçamentais dos organismos extintos pelo presente diploma que não tiverem sido utilizados até à data da sua entrada em vigor.
 
-###### Art. 7.º É aplicável ao património e documentação dos organismos extintos o regime estabelecido pelo artigo 28.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, devendo a comissão prevista no n.º 1 do mesmo artigo ser nomeada no prazo de trinta dias sobre a data da entrada em vigor do presente diploma e apresentar as suas propostas dentro de noventa dias sobre a data da sua posse.
+Art. 7.º É aplicável ao património e documentação dos organismos extintos o regime estabelecido pelo artigo 28.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, devendo a comissão prevista no n.º 1 do mesmo artigo ser nomeada no prazo de trinta dias sobre a data da entrada em vigor do presente diploma e apresentar as suas propostas dentro de noventa dias sobre a data da sua posse.
 
-###### Art. 8.º - 1 - Transitam para o Estado todas e quaisquer obrigações, valores e direitos, incluindo os emergentes de arrendamento, dos organismos extintos dotados de personalidade jurídica.
+Art. 8.º - 1 - Transitam para o Estado todas e quaisquer obrigações, valores e direitos, incluindo os emergentes de arrendamento, dos organismos extintos dotados de personalidade jurídica.
 
 2 - Este decreto-lei constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração da Direcção-Geral do Património do Estado de que os bens se incluem entre os referidos no n.º 1 do presente artigo.
 
-###### Art. 9.º São revogados todos os diplomas legais que criaram e regulam os organismos extintos pelo presente decreto-lei.
+Art. 9.º São revogados todos os diplomas legais que criaram e regulam os organismos extintos pelo presente decreto-lei.
 
-###### Art. 10.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros.
+Art. 10.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros.
 
-###### Art. 11.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 25 de Agosto de 1980.**
+Promulgado em 25 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

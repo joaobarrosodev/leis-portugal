@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/29800/28232824.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/864-1976-407679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b78d488420b0d87f58add0ae0bb4c75326e55a1afa4a40bf6b828f120b1f85f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caf8157e4aad84be145f6a21be50c1526b3c3b2894db375e08a9cba429a62053
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AVAL do Estado
+- Contratação Colectiva
+- Empresa Intervencionada
+- Situação Económica Dificil
 relationships:
 - type: amended_by
   target: pt:dre:240853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:407123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240853:por
+  label: "Revogado pelo DEC LEI.353-H/77.29.08.1977.MPCE, DR.IS [199]2ºSupl de 29.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-h-1977-240853
+  date: '1977-08-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:07Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +126,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As entidades patronais e os conselhos de gerência ou órgãos equiparados de empresas ou daquelas em que se verifique a intervenção do Estado ou a quem por este hajam sido concedidos avales poderão requerer, aos Ministros do Trabalho e da Tutela ou responsável pelo sector de actividade respectiva, a declaração da empresa em situação de crise económica.
+Artigo 1.º - 1. As entidades patronais e os conselhos de gerência ou órgãos equiparados de empresas ou daquelas em que se verifique a intervenção do Estado ou a quem por este hajam sido concedidos avales poderão requerer, aos Ministros do Trabalho e da Tutela ou responsável pelo sector de actividade respectiva, a declaração da empresa em situação de crise económica.
 
 2. O requerimento será obrigatoriamente acompanhado de descrição circunstanciada e fundamentada da situação económico-financeira da empresa e das medidas consideradas necessárias à superação da crise.
 
@@ -117,7 +134,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. O requerimento de declaração da situação de crise económica prevista nos números anteriores não tem efeito suspensivo da obrigatoriedade de cumprimento da lei e regulamentação colectiva vigentes, salvo se acompanhado de declaração expressa dos representantes dos trabalhadores interessados de aceitação da produção desse efeito suspensivo.
 
-###### Art. 2.º - 1. Declarada a empresa em situação de crise económica, nos termos do artigo anterior, os Ministros competentes podem, através de despacho conjunto:
+Art. 2.º - 1. Declarada a empresa em situação de crise económica, nos termos do artigo anterior, os Ministros competentes podem, através de despacho conjunto:
 
 a) Isentar as entidades patronais, conselhos de gerência ou órgãos equiparados da obrigação do pagamento das remunerações mínimas garantidas;
 
@@ -133,12 +150,12 @@ d) Estabelecer um regime de reconversão obrigatória.
 
 4. Para os efeitos do disposto no n.º 1, os Ministros competentes deverão consultar as associações sindicais interessadas e a Comissão Interministerial criada pelo [Decreto-Lei n.º 822/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/822-1976-407123), de 12 de Novembro.
 
-###### Art. 3.º Fica revogado o [Decreto-Lei n.º 530/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1976-431429), de 17 de Julho.
+Art. 3.º Fica revogado o [Decreto-Lei n.º 530/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1976-431429), de 17 de Julho.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 9 de Dezembro de 1976.**
+Promulgado em 9 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

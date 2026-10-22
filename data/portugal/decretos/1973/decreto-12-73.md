@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-1973-288470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 896a56b310e0dcdc7efb664a5991fddbc33957829b9ac9f59fe6a1a230aaf785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03674fd9f122b09830985f1d43a577f100bac0fdd825822792c57125f0cbcc35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:397096:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:32Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +102,27 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1.º O cálculo e demais elementos referentes ao lançamento e cobrança das contribuições e impostos, e bem assim as folhas e os recibos de vencimentos e outros abonos dos servidores civis e pensionistas serão, em Moçambique, elaborados por processo mecanográfico sempre que se entenda vantajosa a aplicação deste sistema, podendo adoptar-se igual procedimento em relação a todos ou alguns dos documentos que tenham de acompanhar as folhas.
+Artigo 1.º - 1.º O cálculo e demais elementos referentes ao lançamento e cobrança das contribuições e impostos, e bem assim as folhas e os recibos de vencimentos e outros abonos dos servidores civis e pensionistas serão, em Moçambique, elaborados por processo mecanográfico sempre que se entenda vantajosa a aplicação deste sistema, podendo adoptar-se igual procedimento em relação a todos ou alguns dos documentos que tenham de acompanhar as folhas.
 
 2.º As folhas e demais documentos a elaborar nos termos deste artigo substituirão, para todos os efeitos, os modelos congéneres actualmente em vigor, aprovados pelo Regulamento Geral da Administração da Fazenda Pública, de 3 de Outubro de 1901.
 
-###### Art. 2.º O Governador-Geral decidirá por despacho a que serviço ou serviços deverão ser atribuídas as funções a que se refere o artigo anterior.
+Art. 2.º O Governador-Geral decidirá por despacho a que serviço ou serviços deverão ser atribuídas as funções a que se refere o artigo anterior.
 
-###### Art. 3.º As folhas de liquidação serão enviadas, em triplicado, pelos serviços mecanográficos às respectivas direcções de finanças, destinando-se a estas um exemplar e os outros ao cofre pagador e ao serviço interessado.
+Art. 3.º As folhas de liquidação serão enviadas, em triplicado, pelos serviços mecanográficos às respectivas direcções de finanças, destinando-se a estas um exemplar e os outros ao cofre pagador e ao serviço interessado.
 
-###### Art. 4.º - 1. Os funcionários e pensionistas figugarão nas folhas e recibos a elaborar por processo mecânico com o nome abreviado, devendo, porém, a assinatura dos recibos ser feita com o nome que consta do bilhete de identidade.
+Art. 4.º - 1. Os funcionários e pensionistas figugarão nas folhas e recibos a elaborar por processo mecânico com o nome abreviado, devendo, porém, a assinatura dos recibos ser feita com o nome que consta do bilhete de identidade.
 
 2. A cada funcionário ou pensionista será passado um cartão, contendo, além do respectivo número de ordem, o nome abreviado utilizado pelos serviços mecanográficos.
 
-###### Art. 5.º - 1. Em substituição dos livros de assentamento modelo n.º 24, a que se refere a alínea k) do artigo 61.º do Regulamento Geral da Administração da Fazenda Pública, de 3 de Outubro de 1901, são criadas fichas individuais de assentamento, das quais constarão, obrigatòriamente, todos os elementos necessários a uma completa e clara interpretação dos abonos e descontos.
+Art. 5.º - 1. Em substituição dos livros de assentamento modelo n.º 24, a que se refere a alínea k) do artigo 61.º do Regulamento Geral da Administração da Fazenda Pública, de 3 de Outubro de 1901, são criadas fichas individuais de assentamento, das quais constarão, obrigatòriamente, todos os elementos necessários a uma completa e clara interpretação dos abonos e descontos.
 
 2. Nas fichas serão lançados inicialmente todos os abonos e descontos.
 
 3. Posteriormente, apenas se farão novos lançamentos quando haja qualquer alteração naqueles elementos, caso em que todos eles deverão ser escriturados de novo.
 
-###### Art. 6.º Nas folhas elaboradas por processo mecanográfico deixarão de figurar as datas do visto dos Tribunais de Contas ou Administrativo, as quais, no entanto, constarão, obrigatòriamente, dos boletins de alteração de abonos e das fichas individuais de assentamento.
+Art. 6.º Nas folhas elaboradas por processo mecanográfico deixarão de figurar as datas do visto dos Tribunais de Contas ou Administrativo, as quais, no entanto, constarão, obrigatòriamente, dos boletins de alteração de abonos e das fichas individuais de assentamento.
 
-###### Art. 7.º - 1. Competirá e será da responsabilidade de cada serviço o fornecimento, dentro de prazos a estabelecer no Estado Português de Moçambique, de todos os elementos que possam ter qualquer influência nos abonos ou descontos dos funcionários.
+Art. 7.º - 1. Competirá e será da responsabilidade de cada serviço o fornecimento, dentro de prazos a estabelecer no Estado Português de Moçambique, de todos os elementos que possam ter qualquer influência nos abonos ou descontos dos funcionários.
 
 2. As alterações a introduzir nas folhas serão comunicadas através de boletins, que deverão conter todos os elementos necessários ao processamento e à verificação da legalidade dos abonos e descontos.
 
@@ -128,25 +132,25 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 5. As relações serão organizadas pelos serviços com base nos respectivos processos e substituirão os boletins sempre que não se verifiquem quaisquer outras alterações.
 
-###### Art. 8.º - 1. Todos os impressos que sirvam de base ao processamento dos vencimentos e outros abonos por processo mecanográfico serão assinados pelo director ou chefe do serviço respectivo, salvo se determinação expressa de lei atribuir a outrem tal competência, podendo, no entanto, o director ou chefe de serviço delegar a assinatura em funcionário de categoria igual ou imediatamente inferior.
+Art. 8.º - 1. Todos os impressos que sirvam de base ao processamento dos vencimentos e outros abonos por processo mecanográfico serão assinados pelo director ou chefe do serviço respectivo, salvo se determinação expressa de lei atribuir a outrem tal competência, podendo, no entanto, o director ou chefe de serviço delegar a assinatura em funcionário de categoria igual ou imediatamente inferior.
 
 2. A delegação a que se refere o número anterior considera-se pessoal e não pode ser subdelegada, sendo solidária a responsabilidade dela resultante.
 
-###### Art. 9.º - 1. As direcções de finanças verificarão e serão responsáveis pela legalidade e exactidão dos abonos e descontos a processar, de harmonia com os elementos recebidos.
+Art. 9.º - 1. As direcções de finanças verificarão e serão responsáveis pela legalidade e exactidão dos abonos e descontos a processar, de harmonia com os elementos recebidos.
 
 2. Aquelas direcções, depois de terem procedido às operações de verificação e à anotação nas fichas de assentamento dos funcionários em face dos boletins ou das relações de abono de família, remetê-los-ão, acompanhados da respectiva relação, aos serviços mecanográficos, dentro de prazos a estabelecer no Estado.
 
-###### Art. 10.º - 1. Os serviços mecanográficos não poderão introduzir qualquer alteração nas folhas senão em presença dos respectivos boletins ou das relações do abono de família sancionados pela direcção de finanças a que o serviço esteja afecto.
+Art. 10.º - 1. Os serviços mecanográficos não poderão introduzir qualquer alteração nas folhas senão em presença dos respectivos boletins ou das relações do abono de família sancionados pela direcção de finanças a que o serviço esteja afecto.
 
 2. Os mesmos serviços serão responsáveis pelo cumprimento do disposto no número precedente, bem como pela exactidão do processamento das folhas, devendo estas ser entregues nas direcções de finanças de forma a poderem ser autorizadas sem nova verificação dos abonos.
 
 3. As folhas terão de ser remetidas pelos serviços mecanográficos às direcções de finanças com a antecedência necessária ao seu pagamento.
 
-###### Art. 11.º - 1. Os recibos individuais serão processados mecanicamente em modelo uniforme e conterão todos os abonos e descontos, bem como a importância líquida a pagar.
+Art. 11.º - 1. Os recibos individuais serão processados mecanicamente em modelo uniforme e conterão todos os abonos e descontos, bem como a importância líquida a pagar.
 
 2. Se, por qualquer motivo, houver necessidade de preencher manualmente algum recibo respeitante a abonos incluídos em folha elaborada por processo mecanográfico, deverá utilizar-se, para esse efeito, o mesmo modelo de impresso, a escriturar de harmonia com o disposto no número anterior.
 
-###### Art. 12.º - 1. Todos os abonos e descontos dos servidores e pensionistas do Estado serão, a partir de 1 de Janeiro de 1973, arredondados para escudos.
+Art. 12.º - 1. Todos os abonos e descontos dos servidores e pensionistas do Estado serão, a partir de 1 de Janeiro de 1973, arredondados para escudos.
 
 2. O arredondamento efectuar-se-á pela forma seguinte:
 
@@ -156,11 +160,11 @@ b) Tratando-se de descontos, para a unidade imediatamente superior, se a fracç�
 
 3. As quotas e outras contribuições para instituições de previdência, cujas deduções sejam feitas em folha, poderão ser arredondadas por outro critério, a estabelecer pelos respectivos corpos directivos, devendo, no entanto, ser fixadas sempre em número exacto de escudos.
 
-###### Art. 13.º O Governador-Geral do Estado Português de Moçambique aprovará, por portaria, os modelos de impressos indispensáveis à execução deste diploma, devendo a Direcção Provincial dos Serviços de Finanças expedir, depois de aprovadas por despacho da mesma entidade, as necessárias instruções.
+Art. 13.º O Governador-Geral do Estado Português de Moçambique aprovará, por portaria, os modelos de impressos indispensáveis à execução deste diploma, devendo a Direcção Provincial dos Serviços de Finanças expedir, depois de aprovadas por despacho da mesma entidade, as necessárias instruções.
 
-###### Art. 14.º A mecanização será introduzida gradualmente, competindo à Direcção Provincial dos Serviços de Finanças indicar oportunamente a cada entidade a data em que deve fornecer os elementos destinados a iniciar o processamento mecanográfico.
+Art. 14.º A mecanização será introduzida gradualmente, competindo à Direcção Provincial dos Serviços de Finanças indicar oportunamente a cada entidade a data em que deve fornecer os elementos destinados a iniciar o processamento mecanográfico.
 
-###### Art. 15.º - 1. É criado no quadro privativo dos Serviços Provinciais de Finanças o lugar de programador, a que corresponde a letra J do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 15.º - 1. É criado no quadro privativo dos Serviços Provinciais de Finanças o lugar de programador, a que corresponde a letra J do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. O provimento do lugar de programador far-se-á por concurso de provas práticas, entre indivíduos habilitados com um curso de programação e que possuam como habilitações literárias mínimas o 2.º ciclo dos liceus ou equivalente.
 
@@ -174,10 +178,10 @@ b) O 1.º ciclo dos liceus ou equivalente, para os lugares de segundo-mecanógra
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Dezembro de 1972.**
+Promulgado em 30 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.

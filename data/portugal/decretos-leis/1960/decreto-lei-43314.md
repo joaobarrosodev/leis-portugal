@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43314-1960-514197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f951a2f0badca357271f13d1800d031b579cb31231a706d61d5ffcb14c87315
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69b651edd92d7f8d04254b8c8e562b96c53bc703b8acbd1bc8653c0b63091063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Bombeiro
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:382799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382799:por
+  label: "Alterado o artigo 1.º do Decreto-Lei 35892, de 04 de Outubro, de 1946, na redacção do presente diploma, pelo DEC\
+    \ LEI.86/79.18.04.1979.MAI, DR.IS [90] de 18.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1979-382799
+  date: '1979-04-18'
+- type: cites
+  target: pt:dre:150351:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:22Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 5.º do [Decreto-Lei n.º 35892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35892-1946-150351), de 4 de Outubro de 1946, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 5.º do [Decreto-Lei n.º 35892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35892-1946-150351), de 4 de Outubro de 1946, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O pessoal dos batalhões de sapadores bombeiros terá direito a que o número de anos de serviço prestado nos mesmos batalhões, ou na situação de destacado em aeródromos ou aeroportos, lhe seja aumentado, para o efeito de aposentação, das percentagens a seguir indicadas, relativas à sua categoria no momento da passagem à reforma:
+Artigo 1.º O pessoal dos batalhões de sapadores bombeiros terá direito a que o número de anos de serviço prestado nos mesmos batalhões, ou na situação de destacado em aeródromos ou aeroportos, lhe seja aumentado, para o efeito de aposentação, das percentagens a seguir indicadas, relativas à sua categoria no momento da passagem à reforma:
 
 ... Por cento
 
@@ -109,7 +122,7 @@ Chefes-ajudantes e chefes ... 15
 
 ...
 
-###### Art. 5.º O pessoal militarizado dos batalhões de sapadores bombeiros abandonará os seus lugares, nos termos da legislação vigente, logo que atinja as seguintes idades:
+Art. 5.º O pessoal militarizado dos batalhões de sapadores bombeiros abandonará os seus lugares, nos termos da legislação vigente, logo que atinja as seguintes idades:
 
 ... Anos
 
@@ -121,8 +134,8 @@ Subchefes-ajudantes ... 58
 
 Chefes-ajudantes e chefes ... 60
 
-###### Art. 2.º Enquanto a Câmara Municipal do Porto não proceder à remodelação do quadro do pessoal do respectivo batalhão de sapadores bombeiros, os actuais subchefes e ajudantes do referido batalhão são equiparados, para efeitos do presente diploma, a subchefes-ajudantes e subchefes, respectivamente.
+Art. 2.º Enquanto a Câmara Municipal do Porto não proceder à remodelação do quadro do pessoal do respectivo batalhão de sapadores bombeiros, os actuais subchefes e ajudantes do referido batalhão são equiparados, para efeitos do presente diploma, a subchefes-ajudantes e subchefes, respectivamente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo.

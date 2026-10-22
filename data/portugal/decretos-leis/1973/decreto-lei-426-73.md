@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1973-419785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdd63cddab650c37a7909e985cdb67e25d0e6cae37aeee21991f732c05597514
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb70305d766d32489fefba527d4631086ca2470a1e4cbb5e33a366d172f81442
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Superior de Belas-artes
+- Lisboa
+- Pessoal Docente
+- Porto
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:395301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:363280:por
+  label: "Alterado o artigo 5.º pelo DEC LEI.447/79.09.11.1979.ME, DR.IS [259] de 09.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/447-1979-363280
+  date: '1979-11-09'
+- type: amended_by
+  target: pt:dre:563672:por
+  label: "Alterado o quadro de pessoal da Escola Superior de Belas-Artes do Porto, aprovada pelo Decreto 41362, de 14 de Novembro\
+    \ 1957, na redacção do presente diploma, pela PORT.848/81.25.09.1981.MFP, DR.IS [221] de 25.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/848-1981-563672
+  date: '1981-09-25'
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:10Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +119,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As categorias e os vencimentos do pessoal docente das escolas superiores de belas-artes são os constantes do mapa anexo ao presente diploma.
+Artigo 1.º As categorias e os vencimentos do pessoal docente das escolas superiores de belas-artes são os constantes do mapa anexo ao presente diploma.
 
-###### Art. 2.º Os professores terão direito a uma só diuturnidade, decorridos quinze anos sobre o início das suas funções nesta categoria.
+Art. 2.º Os professores terão direito a uma só diuturnidade, decorridos quinze anos sobre o início das suas funções nesta categoria.
 
-###### Art. 3.º Poderá o Ministro da Educação Nacional, durante dois anos, ouvida uma comissão por ele designada, nomear ou contratar, como professores ou primeiros-assistentes, para as escolas superiores de belas-artes, individualidades especialmente qualificadas.
+Art. 3.º Poderá o Ministro da Educação Nacional, durante dois anos, ouvida uma comissão por ele designada, nomear ou contratar, como professores ou primeiros-assistentes, para as escolas superiores de belas-artes, individualidades especialmente qualificadas.
 
-###### Art. 4.º Dentro do prazo fixado no artigo anterior serão publicados, de acordo com a lei orientadora do ensino superior, os estatutos dessas escolas, nos quais se estabelecerão os regimes de concurso do seu pessoal docente.
+Art. 4.º Dentro do prazo fixado no artigo anterior serão publicados, de acordo com a lei orientadora do ensino superior, os estatutos dessas escolas, nos quais se estabelecerão os regimes de concurso do seu pessoal docente.
 
-###### Art. 5.º Sem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes e dos assistentes eventuais são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, para idênticas categorias.
+Art. 5.º Sem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes e dos assistentes eventuais são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, para idênticas categorias.
 
-###### Art. 6.º - 1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, mediante anotação do Tribunal de Contas.
+Art. 6.º - 1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, mediante anotação do Tribunal de Contas.
 
 2. Os restantes segundos-assistentes ficam sujeitos ao regime definido para a categoria de assistente eventual.
 
@@ -116,14 +137,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 8 de Agosto de 1973.**
+Promulgado em 8 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa anexo, a que se refere o artigo 1.º do Decreto-Lei n.º 426/73, de 24 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/19800/14861486.pdf))](https://files.diariodarepublica.pt/1s/1973/08/19800/14861486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/19800/14861486.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

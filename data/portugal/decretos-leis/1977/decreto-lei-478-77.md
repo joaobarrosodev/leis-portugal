@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26400/27182724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1977-280737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a9f45f390401d73787a7ef6f83676d62ac804daa8710dcf3020f713c74876f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c343769c9e40c27ca6fd2863c4267cbfa1f124eb4b75623bb169e9743fa44af7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Extensão Educativa
+- Extinção de Serviços
+- Ministério da Educação e Investigação Científica
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448526:por
+  label: Recusada a ratificação do presente diploma pelo(a) Resolução n.º 16/78 - Diário da República n.º 33/1978, Série I
+    de 1978-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/16-1978-448526
+  date: '1978-02-09'
+- type: amended_by
+  target: pt:dre:665342:por
+  label: "Extinta pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:55Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +152,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Direcção-Geral de Extensão Educativa na estrutura orgânica do Ministério da Educação e Investigação Científica com o objectivo fundamental de completar, quer em relação à juventude, quer em relação aos adultos, a acção do sistema educativo institucional.
+Artigo 1.º É criada a Direcção-Geral de Extensão Educativa na estrutura orgânica do Ministério da Educação e Investigação Científica com o objectivo fundamental de completar, quer em relação à juventude, quer em relação aos adultos, a acção do sistema educativo institucional.
 
 ### CAPÍTULO I — Das atribuições
 
-###### Art. 2.º São atribuições da Direcção-Geral de Extensão Educativa a promoção cultural de jovens e adultos, em acção complementar do sistema de ensino, visando, nomeadamente, o desenvolvimento do associativismo e do intercâmbio juvenis e a alfabetização de adultos.
+Art. 2.º São atribuições da Direcção-Geral de Extensão Educativa a promoção cultural de jovens e adultos, em acção complementar do sistema de ensino, visando, nomeadamente, o desenvolvimento do associativismo e do intercâmbio juvenis e a alfabetização de adultos.
 
 ### CAPÍTULO II — Dos serviços e organismos da Direcção-Geral de Extensão Educativa
 
-###### Art. 3.º A Direcção-Geral de Extensão Educativa compreende os seguintes serviços e organismos:
+Art. 3.º A Direcção-Geral de Extensão Educativa compreende os seguintes serviços e organismos:
 
 a) Direcção de Serviços de Actividades Juvenis;
 
@@ -116,7 +172,7 @@ d) Repartição Administrativa;
 
 e) Fundo de Extensão Educativa.
 
-###### Art. 4.º A Direcção de Serviços de Actividades Juvenis compreende:
+Art. 4.º A Direcção de Serviços de Actividades Juvenis compreende:
 
 a) Divisão de Actividades Culturais;
 
@@ -124,7 +180,7 @@ b) Divisão de Actividades Sociais e de Ar Livre;
 
 c) Divisão de Formação.
 
-###### Art. 5.º À Direcção de Serviços de Actividades Juvenis compete:
+Art. 5.º À Direcção de Serviços de Actividades Juvenis compete:
 
 a) Apoiar, fomentar e coordenar actividades culturais e artísticas dos jovens;
 
@@ -136,7 +192,7 @@ d) Fomentar e apoiar o intercâmbio entre a juventude dos meios rurais e urbanos
 
 e) Manter um centro de documentação e informação sobre problemas da juventude e proceder à divulgação de estudos e documentação sobre esta matéria.
 
-###### Art. 6.º A Direcção de Serviços de Alfabetização e Promoção Cultural compreende:
+Art. 6.º A Direcção de Serviços de Alfabetização e Promoção Cultural compreende:
 
 a) Divisão de Formação Cultural;
 
@@ -144,7 +200,7 @@ b) Divisão de Actividades Artísticas;
 
 c) Divisão de Material Didáctico.
 
-###### Art. 7.º À Direcção de Serviços de Alfabetização e Promoção Cultural compete:
+Art. 7.º À Direcção de Serviços de Alfabetização e Promoção Cultural compete:
 
 a) Apoiar projectos de intervenção no domínio da promoção cultural dos adultos e de educação permanente;
 
@@ -160,7 +216,7 @@ f) Promover, coordenar e difundir, em colaboração com os demais serviços do M
 
 g) Adquirir, analisar e difundir documentação de natureza educativa e de interesse do ponto de vista cultural, técnico e profissional dos adultos.
 
-###### Art. 8.º A Direcção de Serviços de Programação e Apoio Técnico compreende:
+Art. 8.º A Direcção de Serviços de Programação e Apoio Técnico compreende:
 
 a) Divisão de Programação e Coordenação;
 
@@ -168,7 +224,7 @@ b) Divisão de Apoio Técnico;
 
 c) Divisão de Documentação e Informação.
 
-###### Art. 9.º À Direcção de Serviços de Programação e Apoio Técnico compete:
+Art. 9.º À Direcção de Serviços de Programação e Apoio Técnico compete:
 
 a) Assegurar, em coordenação com os serviços do Ministério competentes para tal, o planeamento e o contrôle de gestão relativos à Direcção-Geral;
 
@@ -194,15 +250,15 @@ l) Organizar e manter actualizado um centro de documentação e informação sob
 
 m) Assegurar a execução de outras funções de apoio aos diversos sectores da Direcção-Geral não previstas nas alíneas anteriores que lhe venham a ser cometidas por despacho do director-geral.
 
-###### Art. 10.º À Repartição Administrativa compete:
+Art. 10.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral e de gestão de pessoal da Direcção-Geral e seus serviços sem prejuízo da competência da Secretaria-Geral do Ministério;
 
 b) Prestar apoio administrativo aos serviços da Direcção-Geral.
 
-###### Art. 11.º O Fundo de Extensão Educativa, adiante designado por Fundo, goza de personalidade jurídica e de autonomia administrativa e financeira.
+Art. 11.º O Fundo de Extensão Educativa, adiante designado por Fundo, goza de personalidade jurídica e de autonomia administrativa e financeira.
 
-###### Art. 12.º - 1 - Ao Fundo, cujos objectivos gerais são apoiar e financiar as actividades da Direcção-Geral de Extensão Educativa, compete:
+Art. 12.º - 1 - Ao Fundo, cujos objectivos gerais são apoiar e financiar as actividades da Direcção-Geral de Extensão Educativa, compete:
 
 a) Assistir e apoiar financeiramente as actividades de iniciativa juvenil de natureza sócio-cultural, artística, de ar livre e exploração e de intercâmbio nacional e estrangeiro;
 
@@ -226,13 +282,13 @@ j) Adquirir e conceder material, equipamento ou outros meios de acção educativ
 
 2 - O apoio a prestar pelo Fundo poderá revestir outras formas além do financeiro, desde que o mesmo não possa ser prestado pela Direcção-Geral de Extensão Educativa.
 
-###### Art. 13.º O Fundo compreende:
+Art. 13.º O Fundo compreende:
 
 a) O Conselho Administrativo;
 
 b) A Repartição de Património e Finanças.
 
-###### Art. 14.º Constituem o Conselho Administrativo:
+Art. 14.º Constituem o Conselho Administrativo:
 
 a) O director-geral de Extensão Educativa, que presidirá;
 
@@ -240,7 +296,7 @@ b) O subdirector-geral de Extensão Educativa, como vogal, que substituirá o pr
 
 c) Três vogais, nomeados pelo Ministro da Educação e Investigação Científica de entre individualidades de reconhecida competência.
 
-###### Art. 15.º Ao Conselho Administrativo compete tomar as decisões e ordenar as providências tendentes ao cumprimento das atribuições cometidas ao Fundo pelo n.º 1 do artigo 12.º deste diploma, bem como as demais necessárias ao funcionamento deste, nomeadamente:
+Art. 15.º Ao Conselho Administrativo compete tomar as decisões e ordenar as providências tendentes ao cumprimento das atribuições cometidas ao Fundo pelo n.º 1 do artigo 12.º deste diploma, bem como as demais necessárias ao funcionamento deste, nomeadamente:
 
 a) Organizar o orçamento do Fundo, submetendo-o à aprovação do Ministro da Educação e Investigação Científica e ao visto do Ministro das Finanças;
 
@@ -254,7 +310,7 @@ e) Autorizar a concessão de subsídios, empréstimos ou outras formas de apoio 
 
 f) Apreciar as contas dos organismos sujeitos à fiscalização do Fundo.
 
-###### Art. 16.º - 1 - O Conselho Administrativo reunirá quinzenalmente em sessão ordinária e extraordinariamente sempre que for convocado pelo presidente.
+Art. 16.º - 1 - O Conselho Administrativo reunirá quinzenalmente em sessão ordinária e extraordinariamente sempre que for convocado pelo presidente.
 
 2 - De cada reunião será lavrada acta, assinada pelo presidente e pelos demais membros presentes.
 
@@ -266,7 +322,7 @@ f) Apreciar as contas dos organismos sujeitos à fiscalização do Fundo.
 
 6 - A preparação e execução das deliberações do Conselho Administrativo serão asseguradas pela Direcção-Geral de Extensão Educativa.
 
-###### Art. 17.º À Repartição de Património e Finanças compete assegurar as funções de economato, gestão do património e fiscalização da execução orçamental das receitas e despesas, para o que deverá:
+Art. 17.º À Repartição de Património e Finanças compete assegurar as funções de economato, gestão do património e fiscalização da execução orçamental das receitas e despesas, para o que deverá:
 
 a) Organizar o inventário dos bens, imóveis e móveis, que façam parte do património do Fundo;
 
@@ -278,7 +334,7 @@ d) Orientar e fiscalizar os serviços administrativos dos serviços ou organismo
 
 e) Elaborar a conta de gerência do Fundo.
 
-###### Art. 18.º Constituem receitas do Fundo:
+Art. 18.º Constituem receitas do Fundo:
 
 a) As dotações para o efeito inscritas anualmente no orçamento do Ministério da Educação e Investigação Científica;
 
@@ -290,27 +346,27 @@ d) Os subsídios, comparticipações ou liberalidades de entidades públicas ou 
 
 e) Quaisquer outras permitidas por lei.
 
-###### Art. 19.º O Fundo pode adquirir ou alienar bens imóveis, por qualquer título, e dá-los e tomá-los de arrendamento, mediante autorização concedida, caso a caso, por despacho ministerial.
+Art. 19.º O Fundo pode adquirir ou alienar bens imóveis, por qualquer título, e dá-los e tomá-los de arrendamento, mediante autorização concedida, caso a caso, por despacho ministerial.
 
-###### Art. 20.º - 1 - O Fundo pode directamente promover a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe estejam afectas.
+Art. 20.º - 1 - O Fundo pode directamente promover a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe estejam afectas.
 
 2 - O Fundo pode levar a efeito construções para apoio e estímulo às actividades juvenis e de alfabetização.
 
-###### Art. 21.º O Fundo está isento de impostos, contribuições e taxas, tanto gerais como especiais, do Estado, das autarquias locais e dos institutos públicos e de custas e demais encargos em processos judiciais, administrativos e fiscais, bem como dos emolumentos relativos a actos notariais e de registo predial.
+Art. 21.º O Fundo está isento de impostos, contribuições e taxas, tanto gerais como especiais, do Estado, das autarquias locais e dos institutos públicos e de custas e demais encargos em processos judiciais, administrativos e fiscais, bem como dos emolumentos relativos a actos notariais e de registo predial.
 
-###### Art. 22.º - 1 - São submetidas a despacho ministerial todas as deliberações do Conselho Administrativo que visem o desempenho das atribuições do Fundo.
+Art. 22.º - 1 - São submetidas a despacho ministerial todas as deliberações do Conselho Administrativo que visem o desempenho das atribuições do Fundo.
 
 2 - A assistência financeira do Fundo a quaisquer instituições, sejam quais forem as modalidades em que se traduza, que não envolva encargo superior a 50 contos e até ao montante total anual de 500 contos não carece de aprovação ministerial, bastando a do Conselho Administrativo.
 
-###### Art. 23.º - 1 - O numerário do Fundo será depositado na Caixa Geral de Depósitos, Crédito e Previdência, e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do Conselho Administrativo, ou do seu substituto legal, e de um vogal do mesmo Conselho.
+Art. 23.º - 1 - O numerário do Fundo será depositado na Caixa Geral de Depósitos, Crédito e Previdência, e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do Conselho Administrativo, ou do seu substituto legal, e de um vogal do mesmo Conselho.
 
 2 - O Conselho Administrativo poderá manter em cofre um fundo de maneio para satisfação de despesas correntes, de quantitativo a fixar por despacho ministerial.
 
-###### Art. 24.º Todos os documentos relativos a levantamento de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo, ou pelo seu substituto legal, e por um vogal do mesmo Conselho.
+Art. 24.º Todos os documentos relativos a levantamento de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo, ou pelo seu substituto legal, e por um vogal do mesmo Conselho.
 
 ### CAPÍTULO III — Das actividades regionais
 
-###### Art. 25.º - 1 - A Direcção-Geral de Extensão Educativa poderá desenvolver, através de delegações regionais, que constituem órgãos dos serviços regionais do Ministério da Educação e Investigação Científica, criados pelo [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril, actividades regionais de extensão educativa.
+Art. 25.º - 1 - A Direcção-Geral de Extensão Educativa poderá desenvolver, através de delegações regionais, que constituem órgãos dos serviços regionais do Ministério da Educação e Investigação Científica, criados pelo [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril, actividades regionais de extensão educativa.
 
 2 - Nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril, existirá uma delegação regional correspondente a cada um dos serviços regionais do Ministério da Educação e Investigação Científica.
 
@@ -318,7 +374,7 @@ e) Quaisquer outras permitidas por lei.
 
 4 - O funcionamento específico das delegações regionais será regulamentado por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 26.º - 1 - As actividades regionais referidas no artigo anterior terão como finalidades essenciais:
+Art. 26.º - 1 - As actividades regionais referidas no artigo anterior terão como finalidades essenciais:
 
 a) Promover o desenvolvimento na respectiva área das actividades juvenis, de promoção cultural dos adultos e de educação permanente, organizadas ou apoiadas pela Direcção-Geral de Extensão Educativa;
 
@@ -328,13 +384,13 @@ c) Manter os serviços regionais do Ministério da Educação e Investigação C
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 27.º - 1 - A Direcção-Geral de Extensão Educativa tem o pessoal dirigente, técnico e auxiliar constante do mapa n.º 1 anexo ao presente diploma, o qual será adicionado ao quadro único do Ministério a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 27.º - 1 - A Direcção-Geral de Extensão Educativa tem o pessoal dirigente, técnico e auxiliar constante do mapa n.º 1 anexo ao presente diploma, o qual será adicionado ao quadro único do Ministério a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2 - A Direcção-Geral de Extensão Educativa tem ainda o pessoal administrativo e auxiliar constante do mapa n.º 2 anexo a este diploma, o qual será adicionado ao quadro único a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 28.º Os quadros a que se referem os mapas n.os 1 e 2 anexos a este diploma poderão ser alterados por portaria dos Ministros das Finanças e da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
+Art. 28.º Os quadros a que se referem os mapas n.os 1 e 2 anexos a este diploma poderão ser alterados por portaria dos Ministros das Finanças e da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
 
-###### Art. 29.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral de Extensão Educativa são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 29.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral de Extensão Educativa são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral será provido por escolha do Primeiro-Ministro e do Ministro da Educação e Investigação Científica, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com um curso superior adequado e de reconhecida competência;
 
@@ -344,31 +400,31 @@ c) O lugar de tesoureiro de 1.ª classe será provido por escolha do Ministro da
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 30.º - 1 - O pessoal pertencente aos quadros do Fundo de Apoio aos Organismos Juvenis e da Direcção-Geral da Educação Permanente será provido, independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, em lugares idênticos, ou de categoria equivalente, nos quadros anexos ao presente diploma.
+Art. 30.º - 1 - O pessoal pertencente aos quadros do Fundo de Apoio aos Organismos Juvenis e da Direcção-Geral da Educação Permanente será provido, independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, em lugares idênticos, ou de categoria equivalente, nos quadros anexos ao presente diploma.
 
 2 - O pessoal dos quadros afectos às direcções-gerais ou serviços equiparados do Ministério em serviço no Fundo de Apoio aos Organismos Juvenis e na Direcção-Geral da Educação Permanente à data da publicação deste diploma regressará aos seus lugares de origem, salvo despacho ministerial em contrário, proferido caso a caso.
 
-###### Art. 31.º - 1 - Os trabalhadores na situação de além dos quadros e prestação eventual de serviços e outras situações colocados no Fundo de Apoio aos Organismos Juvenis e na Direcção-Geral da Educação Permanente serão providos, consoante as necessidades, nos quadros da Direcção-Geral de Extensão Educativa anexos ao presente diploma, mediante lista nominativa, aprovada por despacho do Ministro da Educação e Investigação Científica e publicada no Diário da República.
+Art. 31.º - 1 - Os trabalhadores na situação de além dos quadros e prestação eventual de serviços e outras situações colocados no Fundo de Apoio aos Organismos Juvenis e na Direcção-Geral da Educação Permanente serão providos, consoante as necessidades, nos quadros da Direcção-Geral de Extensão Educativa anexos ao presente diploma, mediante lista nominativa, aprovada por despacho do Ministro da Educação e Investigação Científica e publicada no Diário da República.
 
 2 - Os provimentos referidos no número anterior não dependem de quaisquer formalidades legais à excepção do visto do Tribunal de Contas, observando-se, porém, nos mesmos provimentos as regras estabelecidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, nomeadamente o que naquele diploma se dispõe sobre habilitações literárias, e ainda as fixadas no n.º 1 do artigo 29.º do presente decreto-lei.
 
 3 - O disposto no número anterior só é aplicável aos prestadores eventuais de serviço e em outras situações que se encontrem nas condições definidas nos artigos 1.º e 2.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro.
 
-###### Art. 32.º O pessoal que à data da entrada em vigor do presente diploma esteja provido além dos quadros no Fundo de Apoio aos Organismos Juvenis e na Direcção-Geral da Educação Permanente e não venha a constar da lista nominativa prevista no n.º 1 do artigo anterior poderá ser colocado, por despacho ministerial, em qualquer serviço do Ministério da Educação e Investigação Científica ou transferido para qualquer outro departamento do Estado, mediante despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro da pasta do qual dependa o referido departamento.
+Art. 32.º O pessoal que à data da entrada em vigor do presente diploma esteja provido além dos quadros no Fundo de Apoio aos Organismos Juvenis e na Direcção-Geral da Educação Permanente e não venha a constar da lista nominativa prevista no n.º 1 do artigo anterior poderá ser colocado, por despacho ministerial, em qualquer serviço do Ministério da Educação e Investigação Científica ou transferido para qualquer outro departamento do Estado, mediante despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro da pasta do qual dependa o referido departamento.
 
-###### Art. 33.º - 1 - Podem ser nomeados, em regime de colocação especial, para a Direcção-Geral de Extensão Educativa quaisquer elementos do pessoal docente profissionalizado, considerando-se o serviço por eles prestado como serviço docente, para todos os efeitos legais.
+Art. 33.º - 1 - Podem ser nomeados, em regime de colocação especial, para a Direcção-Geral de Extensão Educativa quaisquer elementos do pessoal docente profissionalizado, considerando-se o serviço por eles prestado como serviço docente, para todos os efeitos legais.
 
 2 - As nomeações previstas no número anterior ficam sujeitas ao regime de colocação especial de docentes nos organismos ou serviços centrais do Ministério.
 
-###### Art. 34.º O pessoal que, em regime de contrato individual de trabalho, preste serviço em pousadas e colónias de férias ou noutros organismos ou serviços dependentes da Direcção-Geral de Extensão Educativa será abrangido pelo regime de previdência social.
+Art. 34.º O pessoal que, em regime de contrato individual de trabalho, preste serviço em pousadas e colónias de férias ou noutros organismos ou serviços dependentes da Direcção-Geral de Extensão Educativa será abrangido pelo regime de previdência social.
 
-###### Art. 35.º - 1 - O Ministro da Educação e Investigação Científica poderá autorizar que, pelas disponibilidades de vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 35.º - 1 - O Ministro da Educação e Investigação Científica poderá autorizar que, pelas disponibilidades de vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2 - A utilização das disponibilidades de vencimentos de pessoal dos quadros, para efeitos do disposto no número anterior, carece de prévia autorização do Ministro das Finanças.
 
 3 - O fixado no n.º 1 deste artigo só pode ser aplicado após dois anos, contados a partir da entrada em vigor do presente diploma.
 
-###### Art. 36.º - 1 - O director-geral poderá propor superiormente:
+Art. 36.º - 1 - O director-geral poderá propor superiormente:
 
 a) A realização de contratos de prestação de serviços, que serão reduzidos a escrito, com a indicação da tarefa, do prazo e da remuneração, e que não conferirão, em qualquer caso, a qualidade de agente administrativo;
 
@@ -376,21 +432,21 @@ b) O convite a entidades nacionais ou estrangeiras para realizarem estudos e inq
 
 2 - A admissão de pessoal em regime de prestação de serviço, prevista no número anterior, só é permitida após dois anos, contados a partir da entrada em vigor deste decreto-lei.
 
-###### Art. 37.º Através do Fundo de Extensão Educativa poderá a Direcção-Geral de Extensão Educativa efectuar contratos de seguro de material ou contra acidentes no trabalho por parte de pessoal em regime de prestação de serviços não pago por «Remunerações certas e permanentes», desde que tais acidentes se verifiquem em serviço.
+Art. 37.º Através do Fundo de Extensão Educativa poderá a Direcção-Geral de Extensão Educativa efectuar contratos de seguro de material ou contra acidentes no trabalho por parte de pessoal em regime de prestação de serviços não pago por «Remunerações certas e permanentes», desde que tais acidentes se verifiquem em serviço.
 
-###### Art. 38.º Consideram-se inerência de funções as desempenhadas pelo director-geral e subdirector-geral de Extensão Educativa, nos termos das alíneas a) e b) do artigo 14.º deste diploma.
+Art. 38.º Consideram-se inerência de funções as desempenhadas pelo director-geral e subdirector-geral de Extensão Educativa, nos termos das alíneas a) e b) do artigo 14.º deste diploma.
 
-###### Art. 39.º As disponibilidades apuradas nas verbas orçamentadas para o presente ano económico a favor do Fundo de Apoio aos Organismos Juvenis e da Direcção-Geral da Educação Permanente servirão de contrapartida às inscrições que se mostrarem necessárias no orçamento da Direcção-Geral de Extensão Educativa.
+Art. 39.º As disponibilidades apuradas nas verbas orçamentadas para o presente ano económico a favor do Fundo de Apoio aos Organismos Juvenis e da Direcção-Geral da Educação Permanente servirão de contrapartida às inscrições que se mostrarem necessárias no orçamento da Direcção-Geral de Extensão Educativa.
 
-###### Art. 40.º Serão suportados pelas dotações do Fundo de Extensão Educativa os subsídios destinados às comissões organizadoras de actividades de extensão educativa, as quais serão regulamentadas por despacho ministerial.
+Art. 40.º Serão suportados pelas dotações do Fundo de Extensão Educativa os subsídios destinados às comissões organizadoras de actividades de extensão educativa, as quais serão regulamentadas por despacho ministerial.
 
-###### Art. 41.º Os encargos resultantes do presente diploma relativamente a «Remunerações certas e permanentes» serão suportados pelas disponibilidades das respectivas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Investigação Científica aprovado para o corrente ano económico.
+Art. 41.º Os encargos resultantes do presente diploma relativamente a «Remunerações certas e permanentes» serão suportados pelas disponibilidades das respectivas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Investigação Científica aprovado para o corrente ano económico.
 
-###### Art. 42.º O regulamento interno da Direcção-Geral de Extensão Educativa será aprovado por portaria do Ministro da Educação e Investigação Científica.
+Art. 42.º O regulamento interno da Direcção-Geral de Extensão Educativa será aprovado por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 43.º Transita para a Direcção-Geral de Extensão Educativa todo o material, equipamento e património que à data da publicação do presente diploma pertença ao Fundo de Apoio aos Organismos Juvenis e à Direcção-Geral da Educação Permanente.
+Art. 43.º Transita para a Direcção-Geral de Extensão Educativa todo o material, equipamento e património que à data da publicação do presente diploma pertença ao Fundo de Apoio aos Organismos Juvenis e à Direcção-Geral da Educação Permanente.
 
-###### Art. 44.º - 1 - São revogados:
+Art. 44.º - 1 - São revogados:
 
 a) O [Decreto-Lei n.º 106/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1976-506662), de 6 de Fevereiro;
 
@@ -400,24 +456,24 @@ c) O artigo 26.º do [Decreto-Lei n.º 38968](https://diariodarepublica.pt/dr/de
 
 2 - Por efeito do disposto no número anterior consideram-se extintos o Fundo de Apoio aos Organismos Juvenis e a Direcção-Geral da Educação Permanente.
 
-###### Art. 45.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e da Educação e Investigação Científica ou Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 45.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e da Educação e Investigação Científica ou Secretário de Estado da Administração Pública, consoante a sua natureza.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 2 de Novembro de 1977.**
+Promulgado em 2 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa n.º 1 a que se refere o n.º 1 do artigo 27.º do Decreto-Lei n.º 478/77, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/26400/27182724.pdf))](https://files.diariodarepublica.pt/1s/1977/11/26400/27182724.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/26400/27182724.pdf)
 
 Mapa n.º 2 a que se refere o n.º 2 do artigo 27.º do Decreto-Lei n.º 478/77, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/26400/27182724.pdf))](https://files.diariodarepublica.pt/1s/1977/11/26400/27182724.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/26400/27182724.pdf)
 
 Notas. - O funcionário que secretariar o director-geral tem direito à gratificação mensal de 1000$00. O contínuo encarregado de dirigir o restante pessoal auxiliar terá direito a uma gratificação mensal de 100$00.
 
-**O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.

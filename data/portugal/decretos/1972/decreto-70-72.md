@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/70-1972-398797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7acefda809398fae456a69262d48beeb34f6c4ce6cc63cf92dc207e1f4f04027
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cca5fb6e25ffd952dc17592c59e845dc3fcdec18867985db19b902ba3a99422
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:11Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 83.º, n.º 4, 84.º, n.os 4, alínea d), e 5, 85.º e 91.º, n.os 2 e 3, do Regulamento Geral dos Hospitais, com a redacção dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 83.º, n.º 4, 84.º, n.os 4, alínea d), e 5, 85.º e 91.º, n.os 2 e 3, do Regulamento Geral dos Hospitais, com a redacção dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 83.º - 1. ...
+Art. 83.º - 1. ...
 
 2. ...
 
@@ -108,7 +120,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 5. ...
 
-###### Art. 84.º - 1. ...
+Art. 84.º - 1. ...
 
 2. ...
 
@@ -128,7 +140,7 @@ e) ...
 
 5. O presidente pode convocar para o conselho os funcionários cujo parecer entenda vantajoso e, bem assim, determinar a constituição de grupos de trabalho para estudo de problemas específicos.
 
-###### Art. 85.º - 1. O conselho de direcção é presidido pelo director do hospital e tem como vogais o director clínico e o administrador.
+Art. 85.º - 1. O conselho de direcção é presidido pelo director do hospital e tem como vogais o director clínico e o administrador.
 
 2. No Hospital Geral de Santo António o conselho de direcção é presidido pelo provedor da Santa Casa da Misericórdia do Porto, e dele também faz parte um mesário designado pela mesa, que substitui o provedor nas suas faltas e impedimentos.
 
@@ -158,7 +170,7 @@ g) Elaborar os relatórios trimestrais e anuais do hospital.
 
 ...
 
-###### Art. 91.º - 1. ...
+Art. 91.º - 1. ...
 
 2. O director dos serviços de urgência é nomeado de entre directores, chefes ou assistentes de serviços de acção médica, sob proposta do director do hospital, ouvida a comissão médica, e exercerá o cargo cumulativamente com as suas funções médicas hospitalares.
 
@@ -166,9 +178,9 @@ g) Elaborar os relatórios trimestrais e anuais do hospital.
 
 4. ...
 
-###### Art. 2.º Os artigos 4.º n.os 1 e 2, e 6.º do [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439) passam a ter a seguinte redacção:
+Art. 2.º Os artigos 4.º n.os 1 e 2, e 6.º do [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439) passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1. Quando se verificar a impossibilidade de provimento dos lugares de director e de director clínico com elementos do próprio estabelecimento hospitalar, pode o Ministro da Saúde e Assistência autorizar o provimento com médicos pertencentes a outros hospitais ou serviços de saúde
+Art. 4.º - 1. Quando se verificar a impossibilidade de provimento dos lugares de director e de director clínico com elementos do próprio estabelecimento hospitalar, pode o Ministro da Saúde e Assistência autorizar o provimento com médicos pertencentes a outros hospitais ou serviços de saúde
 
 2. O disposto no n.º 2 do artigo 87.º do Regulamento Geral dos Hospitais aplica-se igualmente quando o cargo de director seja provido nas termos do número anterior.
 
@@ -176,8 +188,8 @@ Art. - 6.º O Ministro da Saúde e Assistência, sempre que haja conveniência e
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Fevereiro de 1972.**
+Promulgado em 22 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

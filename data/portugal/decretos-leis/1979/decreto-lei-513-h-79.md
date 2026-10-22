@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3334-(83) a 3334-(84)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00830084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-h-1979-393784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58d37b062d60a4c14dce303fdeac32f6ca80d8392a345e87315e47054cb29c0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a153424c56d3f83ee3351c86563b446fd4f1591eb0e5eadf79e96e956987f32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Fiscalização
+- Gestão Financeira
+- Organismo do Estado
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:382849:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:25Z'
   warnings: []
   errors: []
 ---
@@ -106,24 +121,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presidente do Tribunal de Contas, por iniciativa própria ou sob proposta do director-geral, poderá determinar a devolução das contas das gerências anteriores a 1977 que se encontrem por julgar, desde que, efectuado o seu exame por sondagem e verificada a correcção do apuramento, não haja presunção de anomalias ou irregularidades graves susceptíveis de alterar os saldos escriturados.
+Artigo 1.º O presidente do Tribunal de Contas, por iniciativa própria ou sob proposta do director-geral, poderá determinar a devolução das contas das gerências anteriores a 1977 que se encontrem por julgar, desde que, efectuado o seu exame por sondagem e verificada a correcção do apuramento, não haja presunção de anomalias ou irregularidades graves susceptíveis de alterar os saldos escriturados.
 
-###### Art. 2.º Durante um período de cinco anos a contar da data da sua devolução, as contas e a respectiva documentação ficam à disposição do Tribunal de Contas nos arquivos dos serviços, onde poderão ser reexaminadas sempre que for considerado conveniente.
+Art. 2.º Durante um período de cinco anos a contar da data da sua devolução, as contas e a respectiva documentação ficam à disposição do Tribunal de Contas nos arquivos dos serviços, onde poderão ser reexaminadas sempre que for considerado conveniente.
 
-###### Art. 3.º - 1 - No prazo referido no artigo anterior o Tribunal de Contas, ou qualquer dos seus membros, o Ministério Público e o director-geral podem promover o exame, liquidação e julgamento das contas devolvidas.
+Art. 3.º - 1 - No prazo referido no artigo anterior o Tribunal de Contas, ou qualquer dos seus membros, o Ministério Público e o director-geral podem promover o exame, liquidação e julgamento das contas devolvidas.
 
 2 - Os órgãos de gestão ou representativos, no caso das autarquias locais, os gestores responsáveis, os tesoureiros caucionados para efeito de levantamento de fianças e ainda as comissões de trabalhadores são competentes para requerer à presidência do Tribunal o julgamento das contas mencionadas no número anterior.
 
 3 - Os requerimentos, nos casos do número anterior, devem ser devidamente fundamentados.
 
-###### Art. 4.º O acórdão de levantamento de fianças, a proferir nos processos de contas de responsabilidade dos tesoureiros caucionados, presume, para todos os efeitos, a quitação nas contas anteriores da sua responsabilidade.
+Art. 4.º O acórdão de levantamento de fianças, a proferir nos processos de contas de responsabilidade dos tesoureiros caucionados, presume, para todos os efeitos, a quitação nas contas anteriores da sua responsabilidade.
 
-###### Art. 5.º Não são aplicáveis as disposições deste diploma às contas das tesourarias da Fazenda Pública e às contas consulares.
+Art. 5.º Não são aplicáveis as disposições deste diploma às contas das tesourarias da Fazenda Pública e às contas consulares.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

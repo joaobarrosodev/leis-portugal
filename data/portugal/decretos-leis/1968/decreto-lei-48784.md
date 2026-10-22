@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 300/1968, 1º Suplemento, Série I de 1968-12-21
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1884 - 1884
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30001/18841884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4762f4231b86760ee59f2b470d4cfb3cfe039dd43473c5ce1290b317b46ac7e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f1851e7b4b0bc707e120435dd86a07d1188f23d9f512c2ee2125dabb16b6e03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Comissão do Domínio Público Marítimo
+- Direcção Geral da Fazenda Pública
+- Direcção Geral dos Serviços Hidráulicos
+- Domínio Público Marítimo
+- Propriedade do Estado
+- Regime Jurídico
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:449418:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449418:por
+  label: "Revogado pelo DEC LEI.100/2008.16.06.2008.PCM, DR.IS [114] de 16.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2008-449418
+  date: '2008-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:55Z'
   warnings: []
   errors: []
 ---
@@ -107,25 +136,25 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os terrenos do domínio público sob a administração da Direcção-Geral dos Serviços Hidráulicos podem ser desafectados quando se considerem prevalentes, em relação ao uso público a que estão destinados, outros fins de interesse geral para que os terrenos sejam aptos e para cuja conveniente satisfação seja inadequado o regime de dominialidade.
+Artigo 1.º Os terrenos do domínio público sob a administração da Direcção-Geral dos Serviços Hidráulicos podem ser desafectados quando se considerem prevalentes, em relação ao uso público a que estão destinados, outros fins de interesse geral para que os terrenos sejam aptos e para cuja conveniente satisfação seja inadequado o regime de dominialidade.
 
-###### Art. 2.º - 1. A desafectação será da iniciativa do Ministério das Obras Públicas e revestirá a forma de decreto referendado pelo respectivo Ministro e pelo Ministro das Finanças.
+Art. 2.º - 1. A desafectação será da iniciativa do Ministério das Obras Públicas e revestirá a forma de decreto referendado pelo respectivo Ministro e pelo Ministro das Finanças.
 
 2. Tratando-se de terrenos situados no litoral ou nas faixas marginais dos rios, dentro das zonas de jurisdição dos departamentos marítimos e capitanias, a desafectação depende de parecer favorável da Comissão do Domínio Público Marítimo, homologado pelo Ministro da Marinha.
 
 3. No decreto de desafectação deverão ser indicados os fins a que os terrenos ficam destinados e o condicionamento a que eventualmente a sua utilização fique sujeita.
 
-###### Art. 3.º - 1. Os bens desafectados poderão, conforme as circunstâncias, ser arrendados, vendidos, trocados ou cedidos, gratuita ou onerosamente e a título definitivo ou precário, ou, ainda, transferidos para outros serviços do Estado.
+Art. 3.º - 1. Os bens desafectados poderão, conforme as circunstâncias, ser arrendados, vendidos, trocados ou cedidos, gratuita ou onerosamente e a título definitivo ou precário, ou, ainda, transferidos para outros serviços do Estado.
 
 2. A competência para a prática destes actos pertence à Direcção-Geral da Fazenda Pública, à qual a Direcção-Geral dos Serviços Hidráulicos remeterá o processo de desafectação para efeitos de incorporação dos terrenos no património do Estado.
 
-###### Art. 4.º - 1. Poderão ser vendidos com dispensa de hasta pública os lotes ocupados com construções devidamente licenciadas e os necessários para a construção de estabelecimentos hoteleiros ou de outras instalações de interesse colectivo.
+Art. 4.º - 1. Poderão ser vendidos com dispensa de hasta pública os lotes ocupados com construções devidamente licenciadas e os necessários para a construção de estabelecimentos hoteleiros ou de outras instalações de interesse colectivo.
 
 2. Os terrenos encravados e destinados à exploração agrícola, florestal, pecuária ou salineira ou a outra forma de exploração com aproveitamento do solo poderão também ser vendidos, com dispensa de hasta pública, a proprietários de prédios confinantes.
 
 3. O preço das vendas, com dispensa de hasta pública, será fixado pelo Ministro das Finanças.
 
-###### Art. 5.º - 1. Reverterão ao domínio público os terrenos a que for dada utilização diferente da fixada no decreto de desafectação ou em relação aos quais não seja observado o condicionamento nele estabelecido.
+Art. 5.º - 1. Reverterão ao domínio público os terrenos a que for dada utilização diferente da fixada no decreto de desafectação ou em relação aos quais não seja observado o condicionamento nele estabelecido.
 
 2. A reversão importa a perda a favor do Estado das obras e benfeitorias realizadas nos terrenos e não confere direito a qualquer indemnização nem à restituição do preço por eles pago ou dos bens por eles permutados.
 
@@ -133,9 +162,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
 
-**Promulgado em 18 de Dezembro de 1968.**
+Promulgado em 18 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

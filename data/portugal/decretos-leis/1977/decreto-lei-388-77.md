@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21400/22572257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1977-286088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5316c844b8af10eb64a0b394f661183119a40ee3ec096cf7f3bcd233f1b0e85c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f0c3fb7bdfd2fa2b26a52ad43d71768b5996a8670a622d107603c2c11eb4418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estado Maior General das Forças Armadas
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Militar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251590:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:20Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +116,16 @@ Atendendo, ainda, a que o [Decreto-Lei n.º 188/77](https://diariodarepublica.pt
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constiuição, o seguinte:
 
-###### Artigo único. Os artigos 1.º e 3.º do [Decreto-Lei n.º 188/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1977-251590), de 10 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 3.º do [Decreto-Lei n.º 188/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1977-251590), de 10 de Maio, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Consideram-se adidos aos quadros dos respectivos ramos, não se contando nos efectivos aprovados por lei, os oficiais, sargentos e praças do quadro permanente que estejam em situação de diligência no EMGFA, com vista à sua colocação no respectivo quadro.
+Artigo 1.º Consideram-se adidos aos quadros dos respectivos ramos, não se contando nos efectivos aprovados por lei, os oficiais, sargentos e praças do quadro permanente que estejam em situação de diligência no EMGFA, com vista à sua colocação no respectivo quadro.
 
-###### Art. 3.º Os encargos com os vencimentos dos militares referidos no artigo 1.º são suportados pelos orçamentos dos ramos a que pertencem enquanto não for criado o quadro do EMGFA.
+Art. 3.º Os encargos com os vencimentos dos militares referidos no artigo 1.º são suportados pelos orçamentos dos ramos a que pertencem enquanto não for criado o quadro do EMGFA.
 
 Visto e aprovado em Conselho da Revolução em 24 de Agosto de 1977.
 
-**Promulgado em 31 de Agosto de 1977.**
+Promulgado em 31 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

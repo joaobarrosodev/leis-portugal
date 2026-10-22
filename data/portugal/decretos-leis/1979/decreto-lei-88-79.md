@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1979-382795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73f2c0e907825e9e77a5059d07f55bc6f2d2999917c4089609fa452f375c5233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430c529a822ed8653a48a6d065c063aacb9516add25ca6045e3b37202c61030b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Científico
+- Ensino Superior
+- Estabelecimento de Ensino
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:141402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:41Z'
   warnings: []
   errors: []
 ---
@@ -90,26 +102,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Sob proposta das comissões instaladoras respectivas, pode ser autorizado o funcionamento de conselhos científicos em estabelecimentos e cursos de ensino superior em período de instalação, volvido que seja um ano sobre o início deste.
+Artigo 1.º Sob proposta das comissões instaladoras respectivas, pode ser autorizado o funcionamento de conselhos científicos em estabelecimentos e cursos de ensino superior em período de instalação, volvido que seja um ano sobre o início deste.
 
-###### Art. 2.º - 1 - Cada um dos referidos conselhos será constituído por todos os professores e equiparados em exercício efectivo de funções, em número nunca inferior a cinco, que estejam habilitados, pelo menos, com o grau de doutor ou equivalente.
+Art. 2.º - 1 - Cada um dos referidos conselhos será constituído por todos os professores e equiparados em exercício efectivo de funções, em número nunca inferior a cinco, que estejam habilitados, pelo menos, com o grau de doutor ou equivalente.
 
 2 - Na falta ou insuficiência de docentes que preencham os requisitos fixados no número anterior, observar-se-á, com as necessárias adaptações, o disposto no [Decreto-Lei n.º 51/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1977-141402), de 16 de Fevereiro.
 
 3 - Cada conselho terá um presidente, eleito de entre os respectivos membros.
 
-###### Art. 3.º - 1 - Compete aos mesmos conselhos emitir parecer acerca de todas as questões que, fazendo parte das atribuições cometidas às comissões instaladoras pelas disposições legais em vigor, respeitem a matéria de natureza idêntica à das enunciadas no n.º 1 do artigo 25.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro.
+Art. 3.º - 1 - Compete aos mesmos conselhos emitir parecer acerca de todas as questões que, fazendo parte das atribuições cometidas às comissões instaladoras pelas disposições legais em vigor, respeitem a matéria de natureza idêntica à das enunciadas no n.º 1 do artigo 25.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro.
 
 2 - Os pareceres proferidos no uso daquela competência vincularão as comissões instaladoras, sempre que forem votados pela maioria de dois terços do número total de membros do conselho.
 
-###### Art. 4.º O Ministro da Educação e Investigação Científica resolverá, por despacho, as dúvidas que se suscitarem na interpretação e aplicação deste decreto-lei.
+Art. 4.º O Ministro da Educação e Investigação Científica resolverá, por despacho, as dúvidas que se suscitarem na interpretação e aplicação deste decreto-lei.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1979. - Carlos Alberto da Mota Pinto - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 2 de Abril de 1979.**
+Promulgado em 2 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

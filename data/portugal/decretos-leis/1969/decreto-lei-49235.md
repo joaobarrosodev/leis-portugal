@@ -49,36 +49,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49235-1969-214068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02c7d479f3499176816467fec780112ab4bfdfff5c340994b0814dbe69a0879d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4ff3af3a1fe5c37eda2ec67a26abe441bd8f7578ee45d33456c9608630055b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Assistência Materno-infantil do Doutor Bissaia Barreto
+- Definição de Competências
+- Maternidade Bissaya Barreto
+- Prorrogação de Prazo
+- Regime de Instalação
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680789:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:45Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +122,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É prorrogado até ao fim do prazo previsto no artigo 1.º e seu § único do [Decreto-Lei n.º 45988](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45988-1964-537045), de 22 de Outubro de 1964, o período do regime de instalação do Centro de Saúde de Assistência Materno-Infantil do Doutor Bissaia Barreto, criado pelo [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964.
+Artigo 1.º É prorrogado até ao fim do prazo previsto no artigo 1.º e seu § único do [Decreto-Lei n.º 45988](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45988-1964-537045), de 22 de Outubro de 1964, o período do regime de instalação do Centro de Saúde de Assistência Materno-Infantil do Doutor Bissaia Barreto, criado pelo [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964.
 
-###### Art. 2.º - 1. A Maternidade de Bissaia Barreto considera-se desde já integrada no esquema geral da organização hospitalar, nos termos do Estatuto Hospitalar promulgado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, sem prejuízo de a sua administração continuar a ser assegurada pela direcção do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto.
+Art. 2.º - 1. A Maternidade de Bissaia Barreto considera-se desde já integrada no esquema geral da organização hospitalar, nos termos do Estatuto Hospitalar promulgado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, sem prejuízo de a sua administração continuar a ser assegurada pela direcção do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto.
 
 2. Até ao fim do ano corrente os encargos com a Maternidade de Bissaia Barreto continuarão a ser suportados pelas verbas próprias da Direcção-Geral da Assistência.
 
-###### Art. 3.º O artigo 11.º do [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964, passa a ter a seguinte redacção:
+Art. 3.º O artigo 11.º do [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964, passa a ter a seguinte redacção:
 
-###### Artigo 11.º - 1. Presidido pelo director, funciona um conselho administrativo, de que fazem parte:
+Artigo 11.º - 1. Presidido pelo director, funciona um conselho administrativo, de que fazem parte:
 
 a) O director clínico;
 
@@ -117,12 +142,12 @@ d) O chefe dos serviços administrativos.
 
 2. Podem ser convocados para assistir às reuniões do conselho, embora sem direito a voto, os funcionários cujos pareceres ou informações sejam considerados necessários ou convenientes para as decisões a tomar.
 
-###### Art. 4.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 45988](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45988-1964-537045), de 22 de Outubro de 1964.
+Art. 4.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 45988](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45988-1964-537045), de 22 de Outubro de 1964.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 5 de Setembro de 1969.**
+Promulgado em 5 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

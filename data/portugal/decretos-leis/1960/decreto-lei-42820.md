@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42820-1960-277147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57068bbe1803969f221ed1282c9fe8928ae1167d2a6c64703245b4cb4bedd595
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e427c3c13e1da9bfcc0ba501b8b79ff83049322d26557180a65e097d1418df7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Serviço
+- Funcionário Público
+- Organismo Internacional
+- Secretaria de Estado da Agricultura
+- Secretaria de Estado da Indústria
+- Secretaria de Estado do Comércio
+relationships:
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669981:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:45Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +109,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os funcionários de todos os serviços dependentes das Secretarias de Estado da Agricultura, do Comércio e da Indústria que se encontrem ou venham a ser requisitados para prestar serviço em organismos internacionais, ao abrigo do [Decreto-Lei n.º 39018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39018-1952-669981), de 3 de Dezembro de 1952, passam, decorrido um ano, a partir da data em que efectivamente abandonarem o serviço a que pertencem, à situação de actividade fora do quadro, abrindo vaga, mas sendo-lhes contado para todos os efeitos, incluindo promoção, aposentação ou reforma, o tempo de serviço prestado nos referidos organismos.
+Artigo 1.º Os funcionários de todos os serviços dependentes das Secretarias de Estado da Agricultura, do Comércio e da Indústria que se encontrem ou venham a ser requisitados para prestar serviço em organismos internacionais, ao abrigo do [Decreto-Lei n.º 39018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39018-1952-669981), de 3 de Dezembro de 1952, passam, decorrido um ano, a partir da data em que efectivamente abandonarem o serviço a que pertencem, à situação de actividade fora do quadro, abrindo vaga, mas sendo-lhes contado para todos os efeitos, incluindo promoção, aposentação ou reforma, o tempo de serviço prestado nos referidos organismos.
 
-###### Art. 2.º Os funcionários referidos no artigo anterior regressarão ao serviço quando terminada a comissão e, enquanto não tiverem vaga no respectivo quadro, serão abonados dos seus vencimentos por força das disponibilidades dos quadros de pessoal ou por verba especialmente inscrita para o fim.
+Art. 2.º Os funcionários referidos no artigo anterior regressarão ao serviço quando terminada a comissão e, enquanto não tiverem vaga no respectivo quadro, serão abonados dos seus vencimentos por força das disponibilidades dos quadros de pessoal ou por verba especialmente inscrita para o fim.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 

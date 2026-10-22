@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c061825d86cf8ffbd712e1c973e80f347f55ff712d1c00c1dbda2db380498f58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd428735669d5ac2cda13b433b6d4386a38e2cdd7632c7e44f2bae5d49ee6f88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Comparticipação do Estado
+- Saneamento Básico
 relationships:
 - type: amended_by
   target: pt:dre:251403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251403:por
+  label: "Suspensa a aplicação do artº 13º pelo DEC LEI.304/77.1977.07.29.MOP, DR.IS [174]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1977-251403
+  date: '1977-07-29'
+- type: cites
+  target: pt:dre:321327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:08Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +135,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As câmaras municipais ou as federações de municípios executoras de obras de saneamento poderão beneficiar da comparticipação do Estado nas percentagens máximas seguintes:
+Artigo 1.º - 1. As câmaras municipais ou as federações de municípios executoras de obras de saneamento poderão beneficiar da comparticipação do Estado nas percentagens máximas seguintes:
 
 a) 75 por cento para as redes de drenagem de esgotos;
 
@@ -123,45 +143,45 @@ b) 90 por cento para as estações de tratamento.
 
 2. As percentagens de comparticipação mais elevadas corresponderão à construção de redes e de estações de tratamento em concelhos rurais de limitados recursos e as mais baixas, não superiores a 50 por cento, a obras de remodelação, ampliação ou melhoramento de instalações existentes nos aglomerados populacionais mais importantes.
 
-###### Art. 2.º - 1. As obras a comparticipar em cada ano constarão de planos gerais a aprovar pelo Ministro das Obras Públicas, sob proposta da Direcção-Geral dos Serviços de Urbanização.
+Art. 2.º - 1. As obras a comparticipar em cada ano constarão de planos gerais a aprovar pelo Ministro das Obras Públicas, sob proposta da Direcção-Geral dos Serviços de Urbanização.
 
 2. Terão prioridade nos planos os pedidos de federações de municípios relativos a projectos de obras conjuntas de saneamento, que, de acordo com as soluções técnica e econòmicamente mais adequadas, beneficiem o maior número possível de aglomerados, independentemente do seu enquadramento administrativo.
 
-###### Art. 3.º - 1. Os projectos das obras, depois de apreciados e aprovados nos termos legais, serão executados em conformidade com as portarias a publicar pelo Ministério das Obras Públicas, que determinarão os montantes e o escalonamento anual das comparticipações, bem como os prazos concedidos para a execução das obras.
+Art. 3.º - 1. Os projectos das obras, depois de apreciados e aprovados nos termos legais, serão executados em conformidade com as portarias a publicar pelo Ministério das Obras Públicas, que determinarão os montantes e o escalonamento anual das comparticipações, bem como os prazos concedidos para a execução das obras.
 
 2. Se a obra não for concluída no prazo fixado, será este automàticamente prorrogado por dois períodos consecutivos de duração igual a metade do prazo inicial, sofrendo, porém, a comparticipação correspondente aos trabalhos ainda não realizados a redução de 5 ou 10 por cento, respectivamente. Se, mesmo assim, a obra não ficar concluída no termo da segunda prorrogação, ficará sem efeito o saldo da comparticipação.
 
 3. Não se aplica o disposto no número anterior aos casos em que a prorrogação de prazo inicialmente fixado tenha sido concedida mediante prévia justificação, devidamente fundamentada.
 
-###### Art. 4.º As comparticipações concedidas ao abrigo deste diploma serão pagas no decurso das obras a que se referem, na proporção dos trabalhos realizados, mas o Ministro das Obras Públicas poderá autorizar o pagamento de uma fracção da comparticipação, proporcional ao valor dos materiais ao pé da obra.
+Art. 4.º As comparticipações concedidas ao abrigo deste diploma serão pagas no decurso das obras a que se referem, na proporção dos trabalhos realizados, mas o Ministro das Obras Públicas poderá autorizar o pagamento de uma fracção da comparticipação, proporcional ao valor dos materiais ao pé da obra.
 
-###### Art. 5.º Os encargos assumidos pelas câmaras municipais e federações de municípios com a elaboração dos projectos e fiscalização técnica serão levados à conta de despesas gerais das obras até 7 por cento do seu custo.
+Art. 5.º Os encargos assumidos pelas câmaras municipais e federações de municípios com a elaboração dos projectos e fiscalização técnica serão levados à conta de despesas gerais das obras até 7 por cento do seu custo.
 
-###### Art. 6.º - 1. O Ministro das Obras Públicas poderá autorizar, mediante solicitação ou com o acordo dos organismos locais interessados, que a Direcção-Geral dos Serviços de Urbanização promova a elaboração dos projectos e, bem assim, preste outras modalidades de assistência técnica no estudo e na execução das obras.
+Art. 6.º - 1. O Ministro das Obras Públicas poderá autorizar, mediante solicitação ou com o acordo dos organismos locais interessados, que a Direcção-Geral dos Serviços de Urbanização promova a elaboração dos projectos e, bem assim, preste outras modalidades de assistência técnica no estudo e na execução das obras.
 
 2. A parte da comparticipação do Estado correspondente à elaboração do projecto poderá ser antecipada à comparticipação para a execução das obras respectivas.
 
 3. Os encargos derivados da aplicação do disposto no n.º 1 e que sejam imputáveis às obras não podem exceder, para cada projecto, 5 por cento do respectivo orçamento.
 
-###### Art. 7.º De cada projecto fará parte integrante o estudo económico da exploração e conservação do serviço de saneamento respectivo, o qual incluirá também as condições de financiamento das obras a realizar.
+Art. 7.º De cada projecto fará parte integrante o estudo económico da exploração e conservação do serviço de saneamento respectivo, o qual incluirá também as condições de financiamento das obras a realizar.
 
-###### Art. 8.º - 1. As obras comparticipadas serão, em regra, executadas em regime de empreitada, nos termos das disposições legais aplicáveis.
+Art. 8.º - 1. As obras comparticipadas serão, em regra, executadas em regime de empreitada, nos termos das disposições legais aplicáveis.
 
 2. A execução das obras ficará sujeita à fiscalização superior da Direcção-Geral dos Serviços de Urbanização.
 
-###### Art. 9.º As obras efectuadas ao abrigo deste diploma só poderão entrar em serviço depois de vistoria da Direcção-Geral dos Serviços de Urbanização e uma vez concedida autorização do Ministro das Obras Públicas.
+Art. 9.º As obras efectuadas ao abrigo deste diploma só poderão entrar em serviço depois de vistoria da Direcção-Geral dos Serviços de Urbanização e uma vez concedida autorização do Ministro das Obras Públicas.
 
-###### Art. 10.º - 1. A construção dos ramais de ligação à rede de saneamento dos prédios cujo rendimento colectável seja inferior ao limite que em cada caso e para tal efeito for fixado pelo Ministro das Obras Públicas poderá ser integrada no programa de execução da obra de saneamento e beneficiar do regime de financiamento estabelecido para essa obra.
+Art. 10.º - 1. A construção dos ramais de ligação à rede de saneamento dos prédios cujo rendimento colectável seja inferior ao limite que em cada caso e para tal efeito for fixado pelo Ministro das Obras Públicas poderá ser integrada no programa de execução da obra de saneamento e beneficiar do regime de financiamento estabelecido para essa obra.
 
 2. Iniciada a exploração, as câmaras municipais ou as federações de municípios poderão manter o regime de comparticipação para a construção de novos ramais domiciliários, ou autorizar o reembolso, em prestações, das respectivas despesas, devendo, porém, os encargos correspondentes passar a ser assumidos pelo serviço de exploração respectivo.
 
-###### Art. 11.º - 1. As obras de saneamento realizadas com auxílio financeiro do Estado serão, em regra, exploradas conjuntamente com os abastecimentos de água em regime de serviços municipalizados.
+Art. 11.º - 1. As obras de saneamento realizadas com auxílio financeiro do Estado serão, em regra, exploradas conjuntamente com os abastecimentos de água em regime de serviços municipalizados.
 
 2. A actividade dos serviços municipalizados já existentes que tenham por objecto a captação, adução e distribuição de água potável, estender-se-á, sempre que possível, à execução e exploração das obras de saneamento previstas neste diploma, procurando-se, porém, quando tal seja aconselhável, a federação de municípios vizinhos para a acção em comum.
 
 3. Nos casos de exploração directa pelos municípios ou da existência de serviços municipalizados não federados, devem as câmaras municipais criar e manter em comum um serviço técnico responsável pela condução e conservação das instalações e obras de abastecimento de águas e de saneamento, de modo que fique assegurada a sua conveniente utilização.
 
-###### Art. 12.º - 1. Cada serviço de saneamento obedecerá a regulamento aprovado por portaria dos Ministérios do Interior e das Obras Públicas, do qual devem constar as condições de exploração, designadamente no que respeita à taxa de ligação dos prédios à rede e à taxa de utilização.
+Art. 12.º - 1. Cada serviço de saneamento obedecerá a regulamento aprovado por portaria dos Ministérios do Interior e das Obras Públicas, do qual devem constar as condições de exploração, designadamente no que respeita à taxa de ligação dos prédios à rede e à taxa de utilização.
 
 2. A taxa de ligação não poderá exceder 10 por cento do rendimento colectável do prédio e será paga por uma só vez, ou em prestações anuais, até doze, se assim for requerida, adicionadas dos juros, à taxa de 5 por cento ao ano, correspondentes às prestações em dívida.
 
@@ -169,13 +189,13 @@ b) 90 por cento para as estações de tratamento.
 
 4. A taxa de utilização será paga mensalmente e o seu valor será fixado em função do volume de água consumido por cada fogo.
 
-###### Art. 13.º No prazo de um ano a contar da publicação deste diploma serão revistas, de acordo com o estabelecido nos artigos 11.º e 12.º os regulamentos aprovados ao abrigo das disposições do [Decreto-Lei n.º 31674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31674-1941-321327), de 22 de Novembro de 1941.
+Art. 13.º No prazo de um ano a contar da publicação deste diploma serão revistas, de acordo com o estabelecido nos artigos 11.º e 12.º os regulamentos aprovados ao abrigo das disposições do [Decreto-Lei n.º 31674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31674-1941-321327), de 22 de Novembro de 1941.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 13 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

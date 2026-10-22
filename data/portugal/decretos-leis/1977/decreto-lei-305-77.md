@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 174/1977, 1º Suplemento, Série I de 1977-07-29
   number: '174'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1864-(1) a 1864-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/17401/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16533826e33da8480ed5a86e4047e0a5d43ca146dc880a638ff6eef52f48956d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3c7b625c6c15dbaf1795049f466e9bb7b0eec5f1f442d6453c0f170f5be48df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Funcionário Público
+- Subsídio de Refeição
 relationships:
 - type: amended_by
   target: pt:dre:667522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430638:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667522:por
+  label: "Revogado pelo DEC LEI.57-B/84.1984.02.20.PCM DR.IS [43]Supl de 20.02.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-b-1984-667522
+  date: '1984-02-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:39Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +118,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. A partir de 1 de Agosto de 1977, os funcionários e agentes da Administração Central, local e regional e dos institutos públicos nas modalidades de serviços públicos personalizados e de fundos públicos, beneficiários ou não de qualquer esquema de subvenção de refeição ou de alimentação em espécie, passam a ser abonados em 700$00 mensais, desde que exerçam funções a tempo completo.
+Artigo 1.º - 1. A partir de 1 de Agosto de 1977, os funcionários e agentes da Administração Central, local e regional e dos institutos públicos nas modalidades de serviços públicos personalizados e de fundos públicos, beneficiários ou não de qualquer esquema de subvenção de refeição ou de alimentação em espécie, passam a ser abonados em 700$00 mensais, desde que exerçam funções a tempo completo.
 
 2. Cessam, em 31 de Julho de 1977, os esquemas actualmente em vigor de subvenção de refeição ou de alimentação em espécie.
 
@@ -114,28 +126,28 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. O direito à percepção do abono referido no n.º 1 é independente do título de provimento ou da natureza deste.
 
-###### Art. 2.º As interrupções de serviço que dêem origem à suspensão do pagamento de vencimento de categoria inerente à função acarretam a perca do direito à percepção do abono referido no artigo anterior.
+Art. 2.º As interrupções de serviço que dêem origem à suspensão do pagamento de vencimento de categoria inerente à função acarretam a perca do direito à percepção do abono referido no artigo anterior.
 
-###### Art. 3.º Os funcionários civis ao serviço das forças armadas e militarizadas estão excluídos do âmbito da aplicação do presente diploma.
+Art. 3.º Os funcionários civis ao serviço das forças armadas e militarizadas estão excluídos do âmbito da aplicação do presente diploma.
 
-###### Art. 4.º - 1. Ficam cativas as verbas consignadas no Orçamento Geral do Estado e nos orçamentos de quaisquer entidades ou serviços públicos, personalizados ou não, e destinadas a subvenção de refeição ou de fornecimento de alimentação em espécie, eliminadas por força do n.º 2 do artigo 1.º
+Art. 4.º - 1. Ficam cativas as verbas consignadas no Orçamento Geral do Estado e nos orçamentos de quaisquer entidades ou serviços públicos, personalizados ou não, e destinadas a subvenção de refeição ou de fornecimento de alimentação em espécie, eliminadas por força do n.º 2 do artigo 1.º
 
 2. Exceptuam-se do disposto do número anterior as verbas referidas na parte final do n.º 2 do artigo 5.º
 
-###### Art. 5.º - 1. Por portaria conjunta dos Secretários de Estado da Administração Pública e do Orçamento, serão definidas as condições de fornecimento de refeição aos funcionários e agentes referidos no artigo 1.º e fixado anualmente um preço de venda uniforme.
+Art. 5.º - 1. Por portaria conjunta dos Secretários de Estado da Administração Pública e do Orçamento, serão definidas as condições de fornecimento de refeição aos funcionários e agentes referidos no artigo 1.º e fixado anualmente um preço de venda uniforme.
 
 2. O Estado custeará, relativamente à diferença entre o preço estabelecido no n.º 1 a suportar pelos utentes e o preço total da refeição, o encargo com o pessoal, de investimento, de manutenção e gerais de funcionamento.
 
-###### Art. 6.º A Direcção-Geral da Função Pública, por sua iniciativa ou a pedido da Comissão Interministerial da Acção Social Complementar - CIASC -, criada nos termos do [Decreto-Lei n.º 592/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/592-1976-430638), de 23 de Julho, poderá solicitar todos os elementos que julgue necessários, a fim de poder pronunciar-se sobre os vários aspectos da aplicação do presente diploma.
+Art. 6.º A Direcção-Geral da Função Pública, por sua iniciativa ou a pedido da Comissão Interministerial da Acção Social Complementar - CIASC -, criada nos termos do [Decreto-Lei n.º 592/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/592-1976-430638), de 23 de Julho, poderá solicitar todos os elementos que julgue necessários, a fim de poder pronunciar-se sobre os vários aspectos da aplicação do presente diploma.
 
-###### Art. 7.º Os encargos resultantes do disposto no artigo 1.º poderão ser satisfeitos por dotações a inscrever no capítulo de «Despesas comuns».
+Art. 7.º Os encargos resultantes do disposto no artigo 1.º poderão ser satisfeitos por dotações a inscrever no capítulo de «Despesas comuns».
 
-###### Art. 8.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários de Estado da Administração Pública e do Orçamento.
+Art. 8.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários de Estado da Administração Pública e do Orçamento.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 26 de Julho de 1977.**
+Promulgado em 26 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

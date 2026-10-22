@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08700/07890800.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1976-502620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c105bd66c587787c6f578ce239a6e0b0d16118312b94b04bdf098d5a5c3cb2dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 571f8ab1a898d40d67dc40b77e03ea9b06cf6432eb15e58410e4133a3a7a0d7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- RDP
 relationships:
 - type: amended_by
   target: pt:dre:393219:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:277173:por
+  label: "Revogados os arts. 35.º, 38.º e 39.º pela LEI.78/77.1977.10.25.AR DR.IS [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/78-1977-277173
+  date: '1977-10-25'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ESTATUTO PELO DECRETO LEI 17/79, PUBLICADO NO DR.IS, 278, DE 790208. ESTE DECRETO LEI NAO FOI RATIFICADO\
+    \ PELA RESOLUCAO NUMERO 82/79, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 69, DE 23/3/79. \0/79. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-02-08'
+- type: repealed_by
+  target: pt:dre:393219:por
+  label: "Revogado o Estatuto aprovado no presente diploma, pelo DEC LEI.17/79.08.02.1979.MCS, DR.IS [33] de 08.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1979-393219
+  date: '1979-02-08'
 article_structure:
-  article_count: 68
+  article_count: 67
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:55Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +146,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado o Estatuto da Empresa Pública Radiodifusão Portuguesa, E. P., criada pelo [Decreto-Lei n.º 674-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-c-1975-302484), de 2 de Dezembro.
+Artigo único. É aprovado o Estatuto da Empresa Pública Radiodifusão Portuguesa, E. P., criada pelo [Decreto-Lei n.º 674-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-c-1975-302484), de 2 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António de Almeida Santos - Artur Eduardo Brochado dos Santos Silva.
 
-**Promulgado em 30 de Março de 1976.**
+Promulgado em 30 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ESTATUTO DA EMPRESA PÚBLICA RADIODIFUSÃO PORTUGUESA, E. P.
 
@@ -808,4 +842,4 @@ c) À protecção das suas instalações e do seu pessoal.
 
 5 - As fotocópias têm a mesma força probatória dos originais, mesmo quando se trate de ampliações dos microfilmes que os reproduzem.
 
-**O Ministro da Comunicação Social, António de Almeida Santos.**
+O Ministro da Comunicação Social, António de Almeida Santos.

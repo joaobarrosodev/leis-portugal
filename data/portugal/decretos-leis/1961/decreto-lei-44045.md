@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44045-1961-181605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb13f2f5606cf784eaa56bd5d40bf0a762cd67d4b3963f06bf2219046c89210b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e60950eee9a801aa4a247020c57c533c883a74c3cd1846a9d0d0eebd5eecfe3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Manutenção Militar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:473745:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265113:por
+  label: "Substituídos os quadros de pessoal das Oficinas Gerais de Fardamento, Manutenção Militar e Laboratório Militar de\
+    \ Produtos Químicos e Farmacêuticos, constantes dos mapas V, VI e VII anexos ao Decreto-Lei 41892, de 03-Out de 1958,\
+    \ com as alterações constantes deste diploma, pelo DEC LEI.48566.03.09.1968.MX, DG.IS [208] de 03.09.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48566-1968-265113
+  date: '1968-09-03'
+- type: amended_by
+  target: pt:dre:473745:por
+  label: "Alterado o quadro de pessoal civil, assalariado e contratado da Manutenção Militar constante do Dec Lei 41892 de\
+    \ 03-Out de 1958, com as alterações constantes do presente diploma, pelo DEC LEI.429/74.11.09.1974.CCEMFA, DG.IS [212]\
+    \ de 11.09.1974 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/429-1974-473745
+  date: '1974-09-11'
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:01Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +111,9 @@ Tornando-se necessário alterar o quadro orgânico da Manutenção Militar, a fi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O mapa VI anexo ao [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, é substituído pelo anexo ao presente diploma.
+Artigo único. O mapa VI anexo ao [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, é substituído pelo anexo ao presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -102,6 +123,6 @@ Manutenção Militar
 
 Quadro orgânico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26900/14311435.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26900/14311435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26900/14311435.pdf)
 
 Ministério do Exército, 20 de Novembro de 1961. - O Ministro do Exército, Mário José Pereira da Silva.

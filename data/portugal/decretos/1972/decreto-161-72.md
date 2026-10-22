@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/161-1972-681229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40b6fd58a62a9e81dbc786de0278093abd7f6eb4af5c1ebf5a9b5b6d3fdb9f21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08c3319119fe513c19f0006c355678f9e8d58e1cac127ae5557b8562049d07b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:288627:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681228:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:00Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +113,13 @@ De harmonia com o disposto no artigo 3.º do [Decreto-Lei n.º 160/72](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É aplicável aos hospitais especializados e aos centros de reabilitação a carreira de pessoal de administração hospitalar, a que se refere o artigo 24.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, e regulada pelos artigos 37.º e seguintes do Regulamento Geral dos Hospitais, na forma dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, com as adaptações constantes deste diploma.
+Artigo 1.º - 1. É aplicável aos hospitais especializados e aos centros de reabilitação a carreira de pessoal de administração hospitalar, a que se refere o artigo 24.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, e regulada pelos artigos 37.º e seguintes do Regulamento Geral dos Hospitais, na forma dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, com as adaptações constantes deste diploma.
 
-###### Art. 2.º Para efeitos deste diploma, os hospitais especializados e os centros de reabilitação classificam-se em grupos, de acordo com o quadro seguinte:
+Art. 2.º Para efeitos deste diploma, os hospitais especializados e os centros de reabilitação classificam-se em grupos, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/11300/06140614.pdf))](https://files.diariodarepublica.pt/1s/1972/05/11300/06140614.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/11300/06140614.pdf)
 
-###### Art. 3.º Nos hospitais especializados e centros de reabilitação consideram-se integrados na carreira os lugares correspondentes às categorias a seguir mencionadas, com a respectiva equivalência às dos hospitais gerais:
+Art. 3.º Nos hospitais especializados e centros de reabilitação consideram-se integrados na carreira os lugares correspondentes às categorias a seguir mencionadas, com a respectiva equivalência às dos hospitais gerais:
 
 a) Categorias equivalentes às de chefe de serviços de apoio geral de hospital central e administrador de hospital distrital do grupo III:
 
@@ -121,16 +137,16 @@ c) Categoria equivalente à de administrador de hospital central não escolar e 
 
 Administrador de hospital especializado e de centro de reabilitação do grupo I.
 
-###### Art. 4.º As regras de ingresso e acesso na carreira são as constantes do Regulamento Geral dos Hospitais, na forma dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, tomando em conta a correspondência entre as categorias nos hospitais gerais e nos hospitais especializados e centros de reabilitação.
+Art. 4.º As regras de ingresso e acesso na carreira são as constantes do Regulamento Geral dos Hospitais, na forma dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, tomando em conta a correspondência entre as categorias nos hospitais gerais e nos hospitais especializados e centros de reabilitação.
 
-###### Art. 5.º O disposto no n.º 3 do artigo 2.º do [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, aplica-se aos administradores de hospitais especializados e centros de reabilitação na data da publicação daquele diploma, desde que tenham completado seis anos de provimento no cargo de administrador de estabelecimento do grupo I ou venham a completar dez anos de provimento no referido cargo, em estabelecimento de qualquer dos grupos, até final do ano corrente.
+Art. 5.º O disposto no n.º 3 do artigo 2.º do [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, aplica-se aos administradores de hospitais especializados e centros de reabilitação na data da publicação daquele diploma, desde que tenham completado seis anos de provimento no cargo de administrador de estabelecimento do grupo I ou venham a completar dez anos de provimento no referido cargo, em estabelecimento de qualquer dos grupos, até final do ano corrente.
 
-###### Art. 6.º É estabelecido, a partir da publicação do presente diploma, um período transitório, que terminará em 31 de Dezembro de 1973, durante o qual as condições de admissão e acesso do pessoal de administração hospitalar abrangido por este diploma são as fixadas no despacho ministerial publicado no Diário do Governo, 2.ª série, de 31 de Dezembro de 1970, com as adaptações indispensáveis.
+Art. 6.º É estabelecido, a partir da publicação do presente diploma, um período transitório, que terminará em 31 de Dezembro de 1973, durante o qual as condições de admissão e acesso do pessoal de administração hospitalar abrangido por este diploma são as fixadas no despacho ministerial publicado no Diário do Governo, 2.ª série, de 31 de Dezembro de 1970, com as adaptações indispensáveis.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 4 de Maio de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 4 de Maio de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.

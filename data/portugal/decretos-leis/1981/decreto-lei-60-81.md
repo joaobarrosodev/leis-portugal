@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1981-389472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b60f50596f0f0a6e138b6184b1a57488001584ed9a4c2a8382274967147f333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc1b1116e85fbd918c3dd0db596faa38709df72ff71031d592cf25600c15fd1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Animação Sócio-cultural
+- Forças Armadas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:44Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +95,7 @@ Considerando, finalmente, que tal espírito pode e deve ser fomentado através d
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - No âmbito das forças armadas serão adoptadas as providências que forem julgadas convenientes e oportunas visando incentivar o espírito criativo dos seus membros - militares, militarizados e civis -, por forma a atingir-se um maior desenvolvimento científico, tecnológico ou cultural.
+Artigo 1.º - 1 - No âmbito das forças armadas serão adoptadas as providências que forem julgadas convenientes e oportunas visando incentivar o espírito criativo dos seus membros - militares, militarizados e civis -, por forma a atingir-se um maior desenvolvimento científico, tecnológico ou cultural.
 
 2 - O referido espírito criativo deverá contribuir para um aumento da eficiência e da economia das forças armadas através de medidas que:
 
@@ -115,16 +117,16 @@ h) Protejam a saúde;
 
 i) Contemplem outras acções enquadradas no espírito deste diploma.
 
-###### Art. 2.º Aos trabalhos de reconhecido mérito poderão ser atribuídas recompensas de ordem disciplinar, estatutária, pecuniária ou outras que vierem a ser estabelecidas em cada ramo das forças armadas por despacho do respectivo Chefe de Estado-Maior.
+Art. 2.º Aos trabalhos de reconhecido mérito poderão ser atribuídas recompensas de ordem disciplinar, estatutária, pecuniária ou outras que vierem a ser estabelecidas em cada ramo das forças armadas por despacho do respectivo Chefe de Estado-Maior.
 
-###### Art. 3.º Os encargos resultantes da execução do presente diploma serão suportados por verbas próprias dos orçamentos militares.
+Art. 3.º Os encargos resultantes da execução do presente diploma serão suportados por verbas próprias dos orçamentos militares.
 
-###### Art. 4.º O presente diploma será regulamentado mediante portaria conjunta dos Chefes de Estado-Maior.
+Art. 4.º O presente diploma será regulamentado mediante portaria conjunta dos Chefes de Estado-Maior.
 
 Visto e aprovado em Conselho da Revolução em 11 de Março de 1981.
 
-**Promulgado em 18 de Março de 1981.**
+Promulgado em 18 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

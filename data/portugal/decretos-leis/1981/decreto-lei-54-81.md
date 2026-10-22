@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1981-389419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ddf177826a64023e75f652227e1fb1331f01c6171e689b5dd5b17835590f5a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f28e87592e5c041ef48fcd7c0085eba6b21635bf7daa09bba2a2301bab286cd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cofre de Previdência
+- Cofre de Previdência dos Funcionários e Agentes do Estado
+- Estatuto
+- Função Pública
+- Ministério das Finanças
+- Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:327301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510014:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:39Z'
   warnings: []
   errors: []
 ---
@@ -89,41 +111,41 @@ Considerando o deliberado em assembleias gerais do Cofre de Previdência do Mini
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Cofre de Previdência do Ministério das Finanças passa a denominar-se «Cofre de Previdência dos Funcionários e Agentes do Estado», considerando-se automaticamente alterada a redacção dos preceitos legais que empregam aquela designação.
+Artigo 1.º O Cofre de Previdência do Ministério das Finanças passa a denominar-se «Cofre de Previdência dos Funcionários e Agentes do Estado», considerando-se automaticamente alterada a redacção dos preceitos legais que empregam aquela designação.
 
-###### Art. 2.º Os Estatutos do Cofre de Previdência do Ministério das Finanças, aprovados pelo [Decreto-Lei n.º 465/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1976-427105), de 11 de Junho, alterados pelos Decretos-Leis n.os [325/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1978-327301), de 9 de Novembro, [236/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1979-381285), de 25 de Julho, e [519-N/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-n-1979-510014), de 28 de Dezembro, são modificados nos termos que se seguem:
+Art. 2.º Os Estatutos do Cofre de Previdência do Ministério das Finanças, aprovados pelo [Decreto-Lei n.º 465/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1976-427105), de 11 de Junho, alterados pelos Decretos-Leis n.os [325/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1978-327301), de 9 de Novembro, [236/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1979-381285), de 25 de Julho, e [519-N/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-n-1979-510014), de 28 de Dezembro, são modificados nos termos que se seguem:
 
 ESTATUTOS DO COFRE DE PREVIDÊNCIA DOS FUNCIONÁRIOS E AGENTES DO ESTADO
 
 ...
 
-###### Art. 7.º - 1 - (O actual corpo do artigo 7.º).
+Art. 7.º - 1 - (O actual corpo do artigo 7.º).
 
 2 - Logo após a sua admissão, os sócios podem, contudo, gozar as regalias referentes à aquisição ou construção de casas e a obras de beneficiação.
 
 ...
 
-###### Art. 38.º Para cobrir o pagamento das prestações vincendas à data da sua morte o sócio poderá vincular o subsídio vencido à data do contrato e, se o capital investido for superior a esse subsídio, deverá constituir e manter um seguro de renda certa-amortização ou outro.
+Art. 38.º Para cobrir o pagamento das prestações vincendas à data da sua morte o sócio poderá vincular o subsídio vencido à data do contrato e, se o capital investido for superior a esse subsídio, deverá constituir e manter um seguro de renda certa-amortização ou outro.
 
 ...
 
-###### Art. 69.º - 1 - Para ser concedido o reembolso é necessário que o sócio o solicite até ao último dia do sexto mês seguinte ao termo da doença.
+Art. 69.º - 1 - Para ser concedido o reembolso é necessário que o sócio o solicite até ao último dia do sexto mês seguinte ao termo da doença.
 
 2 - Sempre que possível, o pedido escrito deve ser acompanhado de declaração discriminada dos vencimentos perdidos, autenticada legalmente, e da qual conste não haver processo pendente para o reembolso por parte da entidade processadora dos vencimentos.
 
 ...
 
-###### Art. 88.º - 1 - ...
+Art. 88.º - 1 - ...
 
 2 - Quando a assembleia não possa funcionar por falta de quórum ou qualquer outro motivo de força maior, a nova sessão terá lugar decorrida que seja uma hora, sendo então válidas as deliberações tomadas, qualquer que seja o número de sócios presente.
 
-###### Art. 94.º - 1 - A direcção é constituída por cinco elementos, dois dos quais deverão ser trabalhadores do Cofre.
+Art. 94.º - 1 - A direcção é constituída por cinco elementos, dois dos quais deverão ser trabalhadores do Cofre.
 
 2 - Um dos elementos da direcção deverá ter disponibilidades de tempo para poder fazer parte do secretariado.
 
 ...
 
-###### Art. 96.º - 1 - Na direcção haverá um secretariado incumbido do despacho de todo o expediente, podendo ser-lhe especialmente delegadas outras competências pela direcção.
+Art. 96.º - 1 - Na direcção haverá um secretariado incumbido do despacho de todo o expediente, podendo ser-lhe especialmente delegadas outras competências pela direcção.
 
 2 - As deliberações do secretariado serão obrigatoriamente submetidas à apreciação da direcção nos casos seguintes:
 
@@ -139,14 +161,14 @@ b) Os dois trabalhadores do Cofre.
 
 ...
 
-###### Art. 111.º - 1 - ...
+Art. 111.º - 1 - ...
 
 2 - O quadro do pessoal será fixado pela assembleia geral, sob proposta da direcção, e ficará sujeito ao regime geral do funcionalismo público.
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 11 de Março de 1981.**
+Promulgado em 11 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

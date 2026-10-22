@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/04/09300/06060610.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a182615ad043f2bbe3e44b26f17d0edb002c01f0af0535c42109927310c86a03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d3d8eda2aa08288d0442028b18fc111aee8e5c8978b262b69542d73f94e52b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio Técnico
+- Atividade Industrial
+- Cooperação Industrial
+- Criação de Serviços
+- Definição de Competências
+- Instituto Nacional de Investigação Industrial
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:314176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159907:por
+  label: "Transferidas para o Instituto de Apoio às Pequenas e Médias Empresas as funções relativas às ligações do Estado\
+    \ com os centros técnicos de cooperação industrial atribuídas ao Instituto Nacional de Investigação Industrial no presente\
+    \ diploma pelo DEC LEI.51/75.07.02.1975.MECO, DG.IS [32] de 07.02.1975\075\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1975-159907
+  date: '1975-02-07'
+- type: amended_by
+  target: pt:dre:428021:por
+  label: Extintos os Centros Técnicos da Cerâmica, do Metal e da Madeira, criados ao abrigo do presente diploma e, respetivamente,
+    pelas Ports 713/73, de 17-out, 733/73, de 24-out, e 740/73, de 25-out, pelo(a) Decreto-Lei n.º 358/76 - Diário da República
+    n.º 113/1976, Série I de 1976-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1976-428021
+  date: '1976-05-14'
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:422070:por
+  label: "Rectificado [no referente à data de promulgação] pela DECL.DD9732.16.05.1973.PC, DG.IS [115] de 16.05.1973\073"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-422070
+  date: '1973-05-16'
+- type: repealed_by
+  target: pt:dre:314176:por
+  label: "Revogado pelo DEC LEI.461/83.30.12.1983.MIE, DR.IS [300-Supl] de 30.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/461-1983-314176
+  date: '1983-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:29Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +147,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Da constituição e fins
 
-###### Artigo 1.º - 1. Para a realização dos objectivos consignados na alínea b) do n.º 5 da base XXV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, serão criados, por portaria do Secretário de Estado da Indústria, organismos de âmbito sectorial, designados por centros técnicos de cooperação industrial, a constituir mediante a associação de pessoas, singulares ou colectivas, de direito privado às quais, para tal efeito, poderá o Estado conceder o apoio necessário.
+Artigo 1.º - 1. Para a realização dos objectivos consignados na alínea b) do n.º 5 da base XXV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, serão criados, por portaria do Secretário de Estado da Indústria, organismos de âmbito sectorial, designados por centros técnicos de cooperação industrial, a constituir mediante a associação de pessoas, singulares ou colectivas, de direito privado às quais, para tal efeito, poderá o Estado conceder o apoio necessário.
 
 2. Compete à Secretaria de Estado da Indústria definir, de harmonia com as orientações de política industrial e o interesse manifestado pela iniciativa privada, nomeadamente através dos organismos corporativos competentes, os sectores em que serão criados centros técnicos de cooperação industrial.
 
 3. Os estatutos de cada centro serão elaborados pelos interessados, ou pelo Instituto Nacional de Investigação Industrial, com a colaboração daqueles, quando a criação do centro tenha sido apoiada pelo Estado, devendo, porém, em todos os casos ser submetidos à homologação do Secretário de Estado da Indústria, através daquele organismo.
 
-###### Art. 2.º Os centros técnicos de cooperação industrial são pessoas colectivas de direito privado sem fim lucrativo e reger-se-ão pelas normas legais a estas aplicáveis em tudo o que se não achar especialmente previsto no presente decreto-lei e nos diplomas que em sua execução vierem a ser publicados.
+Art. 2.º Os centros técnicos de cooperação industrial são pessoas colectivas de direito privado sem fim lucrativo e reger-se-ão pelas normas legais a estas aplicáveis em tudo o que se não achar especialmente previsto no presente decreto-lei e nos diplomas que em sua execução vierem a ser publicados.
 
-###### Art. 3.º - 1. Poderão beneficiar do apoio dos centros técnicos de cooperação industrial, considerando-se seus membros, as sociedades e os empresários em nome individual legalmente autorizados a exercer as indústrias a que os centros respeitarem.
+Art. 3.º - 1. Poderão beneficiar do apoio dos centros técnicos de cooperação industrial, considerando-se seus membros, as sociedades e os empresários em nome individual legalmente autorizados a exercer as indústrias a que os centros respeitarem.
 
 2. Poderão também ser membros dos centros técnicos de cooperação industrial outras entidades, públicas, privadas, mistas ou organismos corporativos, com interesse reconhecido para a sua actividade.
 
-###### Art. 4.º Os centros técnicos têm por finalidade apoiar directamente as empresas, promovendo o adequado desenvolvimento dos sectores em que actuam, cabendo-lhes as seguintes atribuições:
+Art. 4.º Os centros técnicos têm por finalidade apoiar directamente as empresas, promovendo o adequado desenvolvimento dos sectores em que actuam, cabendo-lhes as seguintes atribuições:
 
 a) Promover a aplicação pelas empresas que exerçam indústrias abrangidas pelos centros dos conhecimentos e inovações adquiridos no País e no estrangeiro, com vista a facilitar a modernização das mesmas, nos seus diferentes aspectos, sem prejuízo da propriedade e confidencialidade de tecnologias especificas das empresas;
 
@@ -128,7 +171,7 @@ d) Promover a formação e o aperfeiçoamento do pessoal de todas as categorias,
 
 e) Elaborar estudos sectoriais e outros com interesse para a expansão dos sectores e promover acções de índole colectiva.
 
-###### Art. 5.º Para a consecução dos fins previstos no artigo anterior, devem os centros técnicos:
+Art. 5.º Para a consecução dos fins previstos no artigo anterior, devem os centros técnicos:
 
 a) Prestar assistência técnica às empresas;
 
@@ -156,15 +199,15 @@ m) Manter ligações de carácter técnico com organismos afins, nacionais, estr
 
 ### CAPÍTULO II — Dos órgãos de gestão
 
-###### Art. 6.º - 1. São órgãos dos centros técnicos, além dos que venham a ser estatutariamente criados, a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 6.º - 1. São órgãos dos centros técnicos, além dos que venham a ser estatutariamente criados, a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2. Os estatutos de cada centro definirão, com respeito dos princípios fundamentais estabelecidos neste diploma, a composição, a competência e as modalidades de funcionamento de todos os órgãos mencionados no número anterior.
 
-###### Art. 7.º A assembleia geral é constituída pelos membros do centro mencionados no artigo 3.º, nos termos a definir nos respectivos estatutos.
+Art. 7.º A assembleia geral é constituída pelos membros do centro mencionados no artigo 3.º, nos termos a definir nos respectivos estatutos.
 
-###### Art. 8.º A assembleia geral reunirá, pelo menos, uma vez por ano para dar cumprimento ao disposto na alínea d) do artigo 9.º
+Art. 8.º A assembleia geral reunirá, pelo menos, uma vez por ano para dar cumprimento ao disposto na alínea d) do artigo 9.º
 
-###### Art. 9.º Compete, nomeadamente, à assembleia geral:
+Art. 9.º Compete, nomeadamente, à assembleia geral:
 
 a) Apreciar e votar as propostas de alteração dos estatutos que lhe forem submetidas;
 
@@ -174,21 +217,21 @@ c) Discutir e dar parecer sobre os programas gerais de actividades;
 
 d) Discutir e aprovar o relatório e contas anuais.
 
-###### Art. 10.º Os centros técnicos são administrados por um conselho de administração, que nomeará o director do centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
+Art. 10.º Os centros técnicos são administrados por um conselho de administração, que nomeará o director do centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
 
-###### Art. 11.º - 1. Terão sempre assento no conselho de administração, além do director do centro, representantes das entidades privadas, eleitos ou designados, nos termos dos respectivos estatutos.
+Art. 11.º - 1. Terão sempre assento no conselho de administração, além do director do centro, representantes das entidades privadas, eleitos ou designados, nos termos dos respectivos estatutos.
 
 2. Quando o centro haja sido constituído com o apoio do Estado, farão igualmente parte do conselho de administração personalidades de reconhecida competência, nomeadas pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial.
 
-###### Art. 12.º - 1. Os membros do conselho de administração representantes das entidades privadas exercerão as suas funções por um período de três anos, podendo, no entanto, ser reconduzidos por igual período, até metade do seu número.
+Art. 12.º - 1. Os membros do conselho de administração representantes das entidades privadas exercerão as suas funções por um período de três anos, podendo, no entanto, ser reconduzidos por igual período, até metade do seu número.
 
 2. Os membros do conselho de administração representantes de entidades privadas não poderão permanecer em funções mais de dois mandatos consecutivos.
 
 3. As personalidades referidas no n.º 2 do artigo 11.º serão nomeadas por um período de três anos, podendo o Secretário de Estado da Indústria, por decisão expressa, renovar os respectivos mandatos.
 
-###### Art. 13.º O conselho de administração elegerá um presidente de entre os seus membros representantes das entidades privadas.
+Art. 13.º O conselho de administração elegerá um presidente de entre os seus membros representantes das entidades privadas.
 
-###### Art. 14.º Ao conselho de administração compete, nomeadamente:
+Art. 14.º Ao conselho de administração compete, nomeadamente:
 
 a) Definir a política geral do centro e superintender na sua actividade, por forma que este atinja os objectivos que lhe são cometidos;
 
@@ -202,11 +245,11 @@ e) Aprovar anualmente o orçamento e o programa de actividades;
 
 f) Submeter à assembleia geral o relatório e contas anuais.
 
-###### Art. 15.º O conselho de administração reunirá ordinariamente pelo menos uma vez por trimestre e extraordinariamente nos casos previstos nos estatutos, bem como sempre que o presidente do conselho fiscal o entenda conveniente.
+Art. 15.º O conselho de administração reunirá ordinariamente pelo menos uma vez por trimestre e extraordinariamente nos casos previstos nos estatutos, bem como sempre que o presidente do conselho fiscal o entenda conveniente.
 
-###### Art. 16.º Os membros do conselho de administração terão direito a uma retribuição e ao abono das despesas de transporte e de ajudas de custo, nos termos a definir nos estatutos de cada centro.
+Art. 16.º Os membros do conselho de administração terão direito a uma retribuição e ao abono das despesas de transporte e de ajudas de custo, nos termos a definir nos estatutos de cada centro.
 
-###### Art. 17.º Ao director dos centros técnicos compete, nomeadamente:
+Art. 17.º Ao director dos centros técnicos compete, nomeadamente:
 
 a) Orientar e dirigir a actividade do centro e, bem assim, praticar todos os actos inerentes à sua gestão, de harmonia com as orientações gerais fixadas pelo conselho de administração;
 
@@ -214,11 +257,11 @@ b) Submeter ao conselho de administração os programas e orçamentos anuais;
 
 c) Estabelecer a organização interna do centro e elaborar os respectivos regulamentos internos.
 
-###### Art. 18.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois membros eleitos em assembleia geral.
+Art. 18.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois membros eleitos em assembleia geral.
 
 2. É aplicável ao presidente e aos membros eleitos do conselho fiscal, conforme os casos, o disposto no artigo 12.º deste diploma.
 
-###### Art. 19.º Compete, nomeadamente, ao conselho fiscal:
+Art. 19.º Compete, nomeadamente, ao conselho fiscal:
 
 a) Zelar por que a actividade do centro não se desvie dos objectivos que lhe foram fixados;
 
@@ -230,13 +273,13 @@ d) Fiscalizar a escrituração e exigir que ela esteja sempre em dia e devidamen
 
 e) Proceder à verificação dos fundos em cofre e em depósito.
 
-###### Art. 20.º Para efeito de execução das alíneas b), c) e d) do artigo 19.º, os centros técnicos poderão contratar um revisor oficial de contas ou uma sociedade de revisão de contas, referidos no [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
+Art. 20.º Para efeito de execução das alíneas b), c) e d) do artigo 19.º, os centros técnicos poderão contratar um revisor oficial de contas ou uma sociedade de revisão de contas, referidos no [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
 
-###### Art. 21.º O conselho fiscal reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar.
+Art. 21.º O conselho fiscal reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar.
 
-###### Art. 22.º Os membros do conselho fiscal terão direito a uma retribuição, nos termos a definir nos estatutos de cada centro.
+Art. 22.º Os membros do conselho fiscal terão direito a uma retribuição, nos termos a definir nos estatutos de cada centro.
 
-###### Art. 23.º - 1. Ao presidente do conselho fiscal compete, nomeadamente:
+Art. 23.º - 1. Ao presidente do conselho fiscal compete, nomeadamente:
 
 a) Presidir às reuniões do conselho fiscal, gozando de voto de qualidade em todas as deliberações;
 
@@ -252,7 +295,7 @@ d) Defender os interesses públicos de ordem patrimonial, administrativa e econ�
 
 ### CAPÍTULO III — Do regime financeiro
 
-###### Art. 24.º - 1. As receitas dos centros técnicos compreendem, nomeadamente:
+Art. 24.º - 1. As receitas dos centros técnicos compreendem, nomeadamente:
 
 a) As quotizações obrigatoriamente pagas pelas empresas;
 
@@ -270,19 +313,19 @@ g) O produto da venda de publicações.
 
 2. As receitas dos centros técnicos serão depositadas na Caixa Geral de Depósitos.
 
-###### Art. 25.º Quando houver comparticipação do Estado nas despesas de instalação e funcionamento dos centros técnicos, o respectivo montante será fixado, caso a caso, por despacho do Secretário de Estado da Indústria, através da utilização das dotações que para o efeito forem atribuídas ao Instituto Nacional de Investigação Industrial no Orçamento Geral do Estado e nos programas de execução dos planos de fomento.
+Art. 25.º Quando houver comparticipação do Estado nas despesas de instalação e funcionamento dos centros técnicos, o respectivo montante será fixado, caso a caso, por despacho do Secretário de Estado da Indústria, através da utilização das dotações que para o efeito forem atribuídas ao Instituto Nacional de Investigação Industrial no Orçamento Geral do Estado e nos programas de execução dos planos de fomento.
 
-###### Art. 26.º Os estatutos dos centros técnicos estabelecerão as quotizações dos membros a satisfazer pelas entidades privadas.
+Art. 26.º Os estatutos dos centros técnicos estabelecerão as quotizações dos membros a satisfazer pelas entidades privadas.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 27.º - 1. O pessoal de cada centro ficará sujeito a um regulamento próprio, elaborado tendo em conta as normas legais e regulamentares, bem como as convenções colectivas aplicáveis às indústrias abrangidas pelo centro.
+Art. 27.º - 1. O pessoal de cada centro ficará sujeito a um regulamento próprio, elaborado tendo em conta as normas legais e regulamentares, bem como as convenções colectivas aplicáveis às indústrias abrangidas pelo centro.
 
 2. O regulamento referido no número anterior será homologado por despacho conjunto dos Secretários de Estado da Indústria e do Trabalho e Previdência.
 
-###### Art. 28.º O pessoal dos centros técnicos é obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
+Art. 28.º O pessoal dos centros técnicos é obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
 
-###### Art. 29.º - 1. Mediante prévia autorização do Ministro competente, sob proposta dos respectivos conselhos de administração, poderão prestar serviço nos centros técnicos funcionários públicos pertencentes aos quadros aprovados por 1ei.
+Art. 29.º - 1. Mediante prévia autorização do Ministro competente, sob proposta dos respectivos conselhos de administração, poderão prestar serviço nos centros técnicos funcionários públicos pertencentes aos quadros aprovados por 1ei.
 
 2. Os funcionários a que se refere o número anterior exercerão as suas funções em regime de comissão de serviço pelo período de três anos, renovável, a qual poderá ser dada por finda, em qualquer momento, por decisão ministerial.
 
@@ -294,11 +337,11 @@ g) O produto da venda de publicações.
 
 6. É aplicável aos funcionários referidos no presente artigo o regime previsto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, para os subscritores da Caixa Geral de Aposentações que, em regime de comissão ou de requisição, prestem serviço nos organismos de coordenação económica.
 
-###### Art. 30.º Os funcionários públicos que não pertençam aos quadros aprovados por lei e que passem a exercer funções nos centros técnicos manterão nestes a antiguidade que tinham nos serviços de origem, nomeadamente no que respeita a férias, indemnizações por despedimento e remunerações complementares dependentes do tempo de serviço.
+Art. 30.º Os funcionários públicos que não pertençam aos quadros aprovados por lei e que passem a exercer funções nos centros técnicos manterão nestes a antiguidade que tinham nos serviços de origem, nomeadamente no que respeita a férias, indemnizações por despedimento e remunerações complementares dependentes do tempo de serviço.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 31.º - 1. As ligações dos centros técnicos com a Secretaria de Estado da Indústria processar-se-ão por intermédio do Instituto Nacional de Investigação Industrial.
+Art. 31.º - 1. As ligações dos centros técnicos com a Secretaria de Estado da Indústria processar-se-ão por intermédio do Instituto Nacional de Investigação Industrial.
 
 2. Compete ao Instituto Nacional de Investigação Industrial coordenar a actuação dos representantes da Secretaria de Estado da Indústria junto dos centros técnicos, por forma a assegurar o cumprimento das orientações de política industrial que a estes cabe prosseguir no âmbito das suas atribuições.
 
@@ -308,16 +351,16 @@ g) O produto da venda de publicações.
 
 5. O Instituto Nacional de Investigação Industrial apoiará a realização dos actos necessários à constituição e instalação dos centros técnicos.
 
-###### Art. 32.º A constituição e a actividade dos centros técnicos serão isentas de todos os impostos, incluindo o do selo, taxas e emolumentos e de custas.
+Art. 32.º A constituição e a actividade dos centros técnicos serão isentas de todos os impostos, incluindo o do selo, taxas e emolumentos e de custas.
 
-###### Art. 33.º Os montantes correspondentes às quotizações pagas pelas empresas aos centros técnicos são dedutíveis da matéria colectável para efeito das contribuições devidas ao Estado e aos corpos administrativos.
+Art. 33.º Os montantes correspondentes às quotizações pagas pelas empresas aos centros técnicos são dedutíveis da matéria colectável para efeito das contribuições devidas ao Estado e aos corpos administrativos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

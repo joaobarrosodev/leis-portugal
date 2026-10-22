@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07100/05940597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1976-500913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbaf10087dd73732275ad54015a93653757695acccc34df233e8065be968c935
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38bedc77df09be440d75a62e49a656ea33673d99a9ae80e60891c0b8e60133a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adega Cooperativa
+- Armazenista
+- Comércio
+- Comércio por Grosso
+- Compra
+- Contabilidade
+- Definição de Competências
+- Exportação
+- Fiscalização
+- Grémio dos Armazenistas de Vinhos
+- Junta Nacional dos Vinhos
+- Ministro da Agricultura e Pescas
+- Ministro do Comércio Interno
+- Multa
+- Preço
+- Produtor
+- Região Demarcada dos Vinhos Verdes
+- Venda
+- Vinho
+- Vitivinicultor
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431421:por
+  label: "Alterado o art. 3º pelo DEC LEI.526/76.06.07.1976.MCOMI, DR.IS [156] de 06.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1976-431421
+  date: '1976-07-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:488850:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321573:por
+  label: "Revogados os arts. 2º e 3º, pelo DEC LEI.178/99.1999.05.21.MADRP DR.IS-A [118], a partir da data da entrada em vigor\
+    \ da Portaria a que se refere o art. 5.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1999-321573
+  date: '1999-05-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:52Z'
   warnings: []
   errors: []
 ---
@@ -172,15 +213,15 @@ Nestes termos:
 
 Usando da faculdade conferida no artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. os produtores que tenham vinhos que não satisfaçam as características legais ou que se apresentem defeituosos ou alterados ficam obrigados a comunicar aos organismos vinícolas das respectivas áreas a sua existência e a proceder à entrega dos mesmos nos armazéns que lhes forem indicados.
+Artigo 1.º - 1. os produtores que tenham vinhos que não satisfaçam as características legais ou que se apresentem defeituosos ou alterados ficam obrigados a comunicar aos organismos vinícolas das respectivas áreas a sua existência e a proceder à entrega dos mesmos nos armazéns que lhes forem indicados.
 
 2. Os vinhos a que se refere o número anterior serão pagos pelos preços dos vinhos destinados a destilação nas tabelas estabelecidas anualmente para as operações de intervenção.
 
-###### Art. 2.º - 1. O comércio por grosso de vinhos e derivados na área do extinto Grémio dos Armazenistas de Vinhos poderá ser exercido não só pelos armazenistas e produtores armazenistas, mas também pelos armazenistas registados, a que se refere o [Decreto-Lei n.º 46868](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46868-1966-488850), de 10 de Fevereiro de 1966, que se encontrem devidamente inscritos na Junta Nacional do Vinho.
+Art. 2.º - 1. O comércio por grosso de vinhos e derivados na área do extinto Grémio dos Armazenistas de Vinhos poderá ser exercido não só pelos armazenistas e produtores armazenistas, mas também pelos armazenistas registados, a que se refere o [Decreto-Lei n.º 46868](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46868-1966-488850), de 10 de Fevereiro de 1966, que se encontrem devidamente inscritos na Junta Nacional do Vinho.
 
 2. Os armazenistas registados que queiram exercer a actividade a que se refere o número anterior deverão manter permanentemente as existências mínimas determinadas para os armazenistas, suportando os respectivos vinhos as mesmas imposições fiscais que incidem sobre os vinhos comercializados por estes últimos.
 
-###### Art. 3.º - 1. Além dos já legalmente estabelecidos, são também necessários para o exercício da actividade de armazenista ou de exportador de vinhos e derivados os seguintes requisitos:
+Art. 3.º - 1. Além dos já legalmente estabelecidos, são também necessários para o exercício da actividade de armazenista ou de exportador de vinhos e derivados os seguintes requisitos:
 
 a) Organização e manutenção de contas correntes, para o registo diário de entradas e saídas dos produtos vínicos;
 
@@ -190,37 +231,37 @@ b) Colaboração, em tempo inteiro ou parcial, de um técnico idóneo responsáv
 
 3. Salvo em casos justificados, e mediante prévia autorização a conceder pelos organismos competentes, é proibido o comércio de vinhos e derivados entre armazenistas.
 
-###### Art. 4.º As entidades singulares ou colectivas que detenham, para uso próprio ou para fornecimento a outrem, livros de guias de trânsito para vinhos e derivados emitidos pelos organismos vinícolas, deverão enviar mensalmente aos respectivos organismos, até ao dia 15 do mês seguinte a que respeitam, relações com o movimento das guias utilizadas, discriminando as entidades de origem e de destino dos produtos movimentados.
+Art. 4.º As entidades singulares ou colectivas que detenham, para uso próprio ou para fornecimento a outrem, livros de guias de trânsito para vinhos e derivados emitidos pelos organismos vinícolas, deverão enviar mensalmente aos respectivos organismos, até ao dia 15 do mês seguinte a que respeitam, relações com o movimento das guias utilizadas, discriminando as entidades de origem e de destino dos produtos movimentados.
 
-###### Art. 5.º Sem prejuízo do disposto no artigo 1.º deste diploma, tem lugar em 1976 uma operação de intervenção por compra à lavoura de vinhos da colheita de 1975, a efectuar pelos organismos vinícolas nas condições estabelecidas nos artigos seguintes.
+Art. 5.º Sem prejuízo do disposto no artigo 1.º deste diploma, tem lugar em 1976 uma operação de intervenção por compra à lavoura de vinhos da colheita de 1975, a efectuar pelos organismos vinícolas nas condições estabelecidas nos artigos seguintes.
 
-###### Art. 6.º - 1. Podem beneficiar da operação de intervenção os produtores que o desejem, desde que a sua produção em 1975 se encontre devidamente manifestada e não exceda 500 hl (100 pipas).
+Art. 6.º - 1. Podem beneficiar da operação de intervenção os produtores que o desejem, desde que a sua produção em 1975 se encontre devidamente manifestada e não exceda 500 hl (100 pipas).
 
 2. Esta operação de compra de vinhos é extensiva às adegas cooperativas na base das entregas dos seus associados que satisfaçam às condições dos números anteriores.
 
 3. Na Região Demarcada dos Vinhos Verdes a intervenção limita-se, no ano em curso, aos vinhos a que se refere o artigo 1.º deste diploma.
 
-###### Art. 7.º - 1. Os termos de classificação e os preços relativos aos vinhos que sejam propostos para venda aos organismos interventores são os constantes das tabelas anexas ao presente diploma.
+Art. 7.º - 1. Os termos de classificação e os preços relativos aos vinhos que sejam propostos para venda aos organismos interventores são os constantes das tabelas anexas ao presente diploma.
 
 2. Os organismos interventores expedirão as instruções necessárias para execução da operação de intervenção.
 
-###### Art. 8.º Por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio Interno ou, por sua delegação, dos Secretários de Estado dos respectivos Ministérios, poderá ser alargado o âmbito da intervenção, se as circunstâncias o vierem a aconselhar.
+Art. 8.º Por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio Interno ou, por sua delegação, dos Secretários de Estado dos respectivos Ministérios, poderá ser alargado o âmbito da intervenção, se as circunstâncias o vierem a aconselhar.
 
-###### Art. 9.º - 1. As infracções do disposto no artigo 1.º do presente diploma constituem transgressões puníveis com a multa de 3$50 por litro de vinho objecto da infracção, que no caso de reincidência passará para o dobro.
+Art. 9.º - 1. As infracções do disposto no artigo 1.º do presente diploma constituem transgressões puníveis com a multa de 3$50 por litro de vinho objecto da infracção, que no caso de reincidência passará para o dobro.
 
 2. O não cumprimento dos requisitos legais estabelecidos para o exercício da actividade de armazenista ou de exportador de vinhos e derivados, entre os quais aqueles a que se refere o artigo 3 do presente diploma, será punido, conforme a gravidade da infracção, com multa de 2500$00 a 20000$00 ou com a suspensão temporária ou cessação da actividade.
 
 3. Em relação às restantes disposições, e sempre que outra penalidade específica não couber, nos termos da lei, às infracções, estas serão punidas com a multa de 2500$00 a 100000$00.
 
-###### Art. 10.º O presente decreto-lei é aplicável ao território nacional do continente e entra em vigor à data da sua publicação.
+Art. 10.º O presente decreto-lei é aplicável ao território nacional do continente e entra em vigor à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 12 de Março de 1976.**
+Promulgado em 12 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 TABELA I
 
@@ -230,7 +271,7 @@ Preços para intervenção por compra do vinhos
 
 Área da Junta Nacional do Vinho e da Região Demarcada do Dão - Campanha 1975-1976
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/07100/05940597.pdf))](https://files.diariodarepublica.pt/1s/1976/03/07100/05940597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/07100/05940597.pdf)
 
 NOTAS
 
@@ -250,6 +291,6 @@ Preços para intervenção por compra de vinhos
 
 Área da Região Demarcada dos Vinhos Verdes - Campanha 1975-1976
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/07100/05940597.pdf))](https://files.diariodarepublica.pt/1s/1976/03/07100/05940597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/07100/05940597.pdf)
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

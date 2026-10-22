@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/07/16500/09550958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/341-1970-141592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03e986d282fe401968bc8f53aa5be6d947aae9454f9f0b3f1addb59145bfbf5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f64309a067fd8e9debd0269325e1d70afa5256cda5f7493cdba05fabfb6f65a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:252058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252058:por
+  label: "Revogado pelo DR.28/77.03.05.1977.MCT, DR.IS [114] de 17.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1977-252058
+  date: '1977-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:24Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +141,13 @@ Nos termos dos n.os 2.º e 13.º do artigo 8.º do mesmo diploma;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São substituídos pelo articulado do presente decreto o artigo 16.º do título I «Disposições gerais» e todas as disposições do capítulo I «Rebocadores e lanchas» do título V «Serviços marítimos» do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, e alterado pelos Decretos n.os 35842, de 30 de Agosto de 1946, e 48345, de 20 de Abril de 1968:
+Artigo único. São substituídos pelo articulado do presente decreto o artigo 16.º do título I «Disposições gerais» e todas as disposições do capítulo I «Rebocadores e lanchas» do título V «Serviços marítimos» do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, e alterado pelos Decretos n.os 35842, de 30 de Agosto de 1946, e 48345, de 20 de Abril de 1968:
 
 ## TÍTULO I — Disposições gerais
 
 ...
 
-###### Art. 16.º - 1. Por todos os serviços prestados no mar que sejam objecto de contrato especial ou que dêem origem a salários de assistência e salvação, serão abonadas ao pessoal da Administração dos Portos do Douro e Leixões neles interveniente ou a eles ligado gratificações, a repartir proporcionalmente aos seus vencimentos, correspondentes às seguintes percentagens sobre as importâncias cobradas pela Administração dos Portos do Douro e Leixões:
+Art. 16.º - 1. Por todos os serviços prestados no mar que sejam objecto de contrato especial ou que dêem origem a salários de assistência e salvação, serão abonadas ao pessoal da Administração dos Portos do Douro e Leixões neles interveniente ou a eles ligado gratificações, a repartir proporcionalmente aos seus vencimentos, correspondentes às seguintes percentagens sobre as importâncias cobradas pela Administração dos Portos do Douro e Leixões:
 
 a) 10 por cento nos serviços que sejam objecto de contrato especial;
 
@@ -133,13 +161,13 @@ b) 20 por cento nos serviços que dêem motivo a salários de assistência e sal
 
 ### CAPÍTULO I — Rebocadores e lanchas
 
-###### Art. 63.º - 1. Para garantir a segurança da navegação na área dos portos do Douro e Leixões, dispõe a Administração dos Portos do Douro e Leixões de rebocadores e lanchas cujos serviços serão regulados e tarifados segundo as normas do presente capítulo.
+Art. 63.º - 1. Para garantir a segurança da navegação na área dos portos do Douro e Leixões, dispõe a Administração dos Portos do Douro e Leixões de rebocadores e lanchas cujos serviços serão regulados e tarifados segundo as normas do presente capítulo.
 
 2. Será proibido a qualquer entidade efectuar serviços de reboque dentro da área dos portos, salvo em casos especiais justificados e superiormente autorizados pela Administração dos Portos do Douro e Leixões.
 
 3. A Administração dos Portos do Douro e Leixões não contrairá qualquer responsabilidade pela execução do mencionado no presente Regulamento em caso de suspensão ou impossibilidade de execução do serviço de reboque, quaisquer que sejam as suas causas.
 
-###### Art. 64.º - 1. Os navios de arqueação bruta igual ou superior a 700 t que demandem as docas ou manobrem no interior das mesmas, ficam obrigados a utilizar um ou dois rebocadores, conforme a sua tonelagem de arqueação bruta for inferior ou superior a 1800 t.
+Art. 64.º - 1. Os navios de arqueação bruta igual ou superior a 700 t que demandem as docas ou manobrem no interior das mesmas, ficam obrigados a utilizar um ou dois rebocadores, conforme a sua tonelagem de arqueação bruta for inferior ou superior a 1800 t.
 
 2. Os navios de arqueação bruta superior a 1000 t que atraquem ou desatraquem ao ou do cais do molhe sul e cais da Administração dos Portos do Douro e Leixões, no Douro, são obrigados a utilizar um ou dois rebocadores, consoante a tonelagem de arqueação bruta for inferior ou superior a 3000 t.
 
@@ -165,7 +193,7 @@ c) De mais de 40000 tdw - dois rebocadores, garantido que seja um mínimo de 45 
 
 5. Sempre que a Administração dos Portos do Douro e Leixões não disponha, a determinada hora, de rebocador para qualquer dos serviços no Douro, será o requisitante autorizado, no momento da solicitação, pelos serviços competentes desta Administração, a utilizar qualquer rebocador particular em serviço autorizado no Douro.
 
-###### Art. 65.º - 1. A capitania do navio rebocado tem o comando absoluto do conjunto «navio-rebocador», ficando, assim, os mestres dos rebocadores exclusivamente sob a sua direcção e ordens.
+Art. 65.º - 1. A capitania do navio rebocado tem o comando absoluto do conjunto «navio-rebocador», ficando, assim, os mestres dos rebocadores exclusivamente sob a sua direcção e ordens.
 
 Cumpre ao rebocado ordenar todas as manobras a executar pelos rebocadores, os quais constituirão simples auxiliares de manobra, cabendo, consequentemente, à capitania do navio rebocado a responsabilidade por toda e qualquer avaria causada ou sofrida no decurso das manobras.
 
@@ -175,7 +203,7 @@ Cumpre ao rebocado ordenar todas as manobras a executar pelos rebocadores, os qu
 
 4. O navio rebocado fornecerá, por norma, o cabo de reboque.
 
-###### Art. 66.º - 1. As taxas de aluguer de rebocador para serviço dentro da área molhada sob jurisdição da Administração dos Portos do Douro e Leixões, nos casos não tarifados especialmente, são as seguintes, por hora:
+Art. 66.º - 1. As taxas de aluguer de rebocador para serviço dentro da área molhada sob jurisdição da Administração dos Portos do Douro e Leixões, nos casos não tarifados especialmente, são as seguintes, por hora:
 
 Rebocadores até 300 H. P. ... 360$00
 
@@ -211,7 +239,7 @@ Rebocadores de mais de 2500 H. P. - 1,5.
 
 5. Não são aplicáveis à taxa de rebocador à ordem os aumentos fixados no artigo 71.º-A do presente Regulamento, quaisquer que sejam a hora e o dia da semana para que foi feita a requisição.
 
-###### Art. 67.º - 1. Pela utilização de rebocadores dentro dos portos para manobrarem ou rebocarem navios de mais de 500 t de arqueação bruta cobrar-se-ão, por cada rebocador empregado, as taxas dadas em escudos pelas seguintes expressões algébricas:
+Art. 67.º - 1. Pela utilização de rebocadores dentro dos portos para manobrarem ou rebocarem navios de mais de 500 t de arqueação bruta cobrar-se-ão, por cada rebocador empregado, as taxas dadas em escudos pelas seguintes expressões algébricas:
 
 a) Navios de 500 tab a 5000 tab - (350 + 0,30 T)C;
 
@@ -229,11 +257,11 @@ Quando este tempo for excedido, será o tempo excedente facturado como rebocador
 
 5. Quando a pedido do capitão do navio a rebocar, para a execução do serviço mencionado neste artigo, for o cabo de reboque fornecido pela Administração dos Portos do Douro e Leixões, será devida uma taxa de 300$00.
 
-###### Art. 68.º Pelos serviços de desatracação e atracação sequentes e correspondente reboque cobrar-se-ão as taxas constantes do artigo 67.º, acrescidas de 50 por cento.
+Art. 68.º Pelos serviços de desatracação e atracação sequentes e correspondente reboque cobrar-se-ão as taxas constantes do artigo 67.º, acrescidas de 50 por cento.
 
-###### Art. 69.º Para simples mudança de navios dentro de uma mesma doca ou para simples manobras de desatracação, não seguidas de reboque, dos cais do anteporto de Leixões ou dos cais da Administração dos Portos do Douro e Leixões do Douro, as taxas referidas no artigo 67.º e nos n.os 1 e 2 do artigo 71.º sofrerão uma redução de 50 por cento.
+Art. 69.º Para simples mudança de navios dentro de uma mesma doca ou para simples manobras de desatracação, não seguidas de reboque, dos cais do anteporto de Leixões ou dos cais da Administração dos Portos do Douro e Leixões do Douro, as taxas referidas no artigo 67.º e nos n.os 1 e 2 do artigo 71.º sofrerão uma redução de 50 por cento.
 
-###### Art. 70.º - 1. Os serviços prestados à navegação fora da zona dos portos do Douro e Leixões para além dos limites referidos no n.º 2 serão sempre objecto de contrato especial, a aprovar pela Administração dos Portos do Douro e Leixões. Outro tanto se passará com as operações de salvação, envolvendo riscos pessoais e materiais dentro dos limites atrás referidos.
+Art. 70.º - 1. Os serviços prestados à navegação fora da zona dos portos do Douro e Leixões para além dos limites referidos no n.º 2 serão sempre objecto de contrato especial, a aprovar pela Administração dos Portos do Douro e Leixões. Outro tanto se passará com as operações de salvação, envolvendo riscos pessoais e materiais dentro dos limites atrás referidos.
 
 2. Os serviços de rebocadores efectuados para ou de fora da barra do Douro ou molhes de Leixões, até à distância máxima de duas milhas de qualquer das entradas, assim como os serviços entre ambos os portos, estão sujeitos, por cada rebocador empregado, à tarifa consignada no artigo 67.º, com o aumento de 25 por cento.
 
@@ -243,7 +271,7 @@ Quando este tempo for excedido, será o tempo excedente facturado como rebocador
 
 5. Em especial para os serviços referidos neste artigo e quando solicitado pelo capitão do navio, poderá a Administração dos Portos do Douro e Leixões fornecer o cabo de reboque apropriado, cuja taxa será de 500$00 por serviço.
 
-###### Art. 71.º - 1. As taxas de aluguer das lanchas com motor em serviço nos portos são as seguintes:
+Art. 71.º - 1. As taxas de aluguer das lanchas com motor em serviço nos portos são as seguintes:
 
 a) Serviço de atracação de navios, independentemente do tempo empregado, 240$00;
 
@@ -253,13 +281,13 @@ b) Outros serviços, por cada hora, 240$00.
 
 3. A taxa de lancha à ordem é de 100$00 por hora e aplicável por fracções mínimas de meia hora.
 
-###### Art. 71.º-A - 1. Salvo nos casos especiais considerados no presente Regulamento, quando se trate de serviços que, de qualquer forma, envolvam mão-de-obra e sejam executados aos domingos e dias feriados durante as horas normais de trabalho que estiverem em vigor na Administração dos Portos do Douro e Leixões (das 8 às 12 horas e das 13 às 17 horas) ou em dias de semana fora das referidas horas, serão as respectivas taxas aumentadas de 25 por cento nas duas primeiras horas e de 50 por cento nas horas seguintes, excepto no serviço de aluguer de rebocador, em que o aumento será de 50 por cento.
+Art. 71.º-A - 1. Salvo nos casos especiais considerados no presente Regulamento, quando se trate de serviços que, de qualquer forma, envolvam mão-de-obra e sejam executados aos domingos e dias feriados durante as horas normais de trabalho que estiverem em vigor na Administração dos Portos do Douro e Leixões (das 8 às 12 horas e das 13 às 17 horas) ou em dias de semana fora das referidas horas, serão as respectivas taxas aumentadas de 25 por cento nas duas primeiras horas e de 50 por cento nas horas seguintes, excepto no serviço de aluguer de rebocador, em que o aumento será de 50 por cento.
 
 2. O aumento será de 100$00 quando os serviços a que se refere o presente artigo forem executados aos domingos ou dias feriados fora das horas normais.
 
 3. Quando um feriado for seguido ou precedido de um domingo, será este considerado como dia normal para efeitos de pagamento de taxas.
 
-###### Art. 71.º-B Para efeitos de contagem do tempo na aplicação das diferentes tarifas, o início e o fim dos serviços, salvo o disposto no n.º 3 do artigo 70.º, são determinados pela seguinte forma:
+Art. 71.º-B Para efeitos de contagem do tempo na aplicação das diferentes tarifas, o início e o fim dos serviços, salvo o disposto no n.º 3 do artigo 70.º, são determinados pela seguinte forma:
 
 1.º Se o material presta um só serviço, consideram-se início e fim a partida ou a chegada aos locais de atracação;
 
@@ -271,8 +299,8 @@ b) Como fim, o momento em que o serviço termina, salvo tratando-se do último, 
 
 Marcello Caetano - João Augusto Dias Rosas - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 3 de Julho de 1970.**
+Promulgado em 3 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/04/08300/04930493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/134-1971-445681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ab34643ef7167bdc863b1298bae986811e614c508d2c98aec75c9aca0065d27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61f7bd31830d32b3aec0292c7511e1e4632dc6d683e7fcc6d32fee800ddece54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Algarve
+- Câmara Municipal
+- Concurso Público
+- Conselho de Inspecção de Jogos
+- Conselho de Ministros
+- Construção Civil
+- Definição de Competências
+- Estabelecimento de Jogos
+- Estabelecimento Hoteleiro
+- Interesse para o Turismo
+- Jogos de Fortuna e Azar
+- Ministro das Obras Públicas
+- Ministro do Interior
+- Plano de Urbanização
+- Secretário de Estado da Informação e Turismo
+- Turismo
+- Urbanização
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:145228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:212871:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145228:por
+  label: "Revogado pelo DR.1/95.1995.01.19.MCT, DR.IS-B [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-1995-145228
+  date: '1995-01-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:51Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +122,12 @@ Reconhecendo-se que os interesses de natureza turística justificam que a explor
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A exploração do jogo na zona permanente do Algarve poderá efectuar-se em três casinos, situados em concelhos diferentes, devendo, nesse caso, a empresa adjudicatária assumir, relativamente à localização que vier a definir-se para o terceiro casino, as obrigações a que se referem as alíneas c), j) e n) do n.º 1 do artigo 3.º do [Decreto n.º 49463](https://diariodarepublica.pt/dr/detalhe/decreto/49463-1969-212871), de 27 de Dezembro de 1969.
+Artigo único. A exploração do jogo na zona permanente do Algarve poderá efectuar-se em três casinos, situados em concelhos diferentes, devendo, nesse caso, a empresa adjudicatária assumir, relativamente à localização que vier a definir-se para o terceiro casino, as obrigações a que se referem as alíneas c), j) e n) do n.º 1 do artigo 3.º do [Decreto n.º 49463](https://diariodarepublica.pt/dr/detalhe/decreto/49463-1969-212871), de 27 de Dezembro de 1969.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - César Henrique Moreira Baptista.
 
-**Promulgado em 26 de Março de 1971.**
+Promulgado em 26 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

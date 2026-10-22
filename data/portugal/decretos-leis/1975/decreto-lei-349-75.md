@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/15200/09310932.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1975-336758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd30626728a7b8169d6ac8270cd8054dabe483ca119f68db6b3e53fb082cf41b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b6ae1b24611c9e84ba023ca13820650a1ef93a0113f300038919046ac804b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Apoio às Cooperativas
+- Criação de Serviços
+- Definição de Competências
+- Ministro para o Planeamento e Coordenação Económica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252186:por
+  label: "Extinta a Comissão de Apoio às Cooperativas e determinada a transferência do seu espólio para o INSCOOP, criado\
+    \ pelo Dec lei 902/76 de 31-Dez, pelo DEC LEI.200/77.18.05.1977.MPCE, DR.IS [115] de 18.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1977-252186
+  date: '1977-05-18'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:534410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:31Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +129,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada, junto do Ministro para o Planeamento e Coordenação Económica, a Comissão de Apoio às Cooperativas.
+Artigo 1.º - 1. É criada, junto do Ministro para o Planeamento e Coordenação Económica, a Comissão de Apoio às Cooperativas.
 
-###### Art. 2.º Compete à Comissão assegurar a coordenação que se mostrar necessária entre os diversos serviços públicos encarregados do estudo e resolução dos problemas ligados ao desenvolvimento das formas cooperativas, nomeadamente:
+Art. 2.º Compete à Comissão assegurar a coordenação que se mostrar necessária entre os diversos serviços públicos encarregados do estudo e resolução dos problemas ligados ao desenvolvimento das formas cooperativas, nomeadamente:
 
 a) Identificar as características estruturais e conjunturais do sector cooperativo, através da recolha e organização de informação relativa ao mesmo;
 
@@ -119,7 +143,7 @@ d) Promover a divulgação da natureza e interesse da cooperação;
 
 e) Executar outros trabalhos relacionados com problemas de política de cooperação que lhe forem cometidos pelo Governo ou propostos por membros da Comissão e por ela aprovados.
 
-###### Art. 3.º - 1. A Comissão é constituída por um presidente, designado por despacho do Ministro para o Planeamento e Coordenação Económica, e pelos seguintes vogais:
+Art. 3.º - 1. A Comissão é constituída por um presidente, designado por despacho do Ministro para o Planeamento e Coordenação Económica, e pelos seguintes vogais:
 
 a) Representantes do Ministério para o Planeamento e Coordenação Económica, Ministério da Agricultura e Pescas, Ministério da Indústria e Tecnologia, Ministério das Finanças, Ministério do Equipamento Social e do Ambiente, Ministério do Trabalho e Ministério dos Transportes e Comunicações;
 
@@ -141,26 +165,26 @@ c) O mencionado na alínea d), pela Intersindical Nacional.
 
 4. A Comissão poderá propor ao Governo a alteração da sua composição.
 
-###### Art. 4.º A Comissão poderá, decidindo por maioria simples, convidar a participar nas reuniões, embora sem direito a voto, individualidades com especial competência nas matérias a tratar ou representantes de entidades ou associações cooperativas com particular interesse nas mesmas questões.
+Art. 4.º A Comissão poderá, decidindo por maioria simples, convidar a participar nas reuniões, embora sem direito a voto, individualidades com especial competência nas matérias a tratar ou representantes de entidades ou associações cooperativas com particular interesse nas mesmas questões.
 
-###### Art. 5.º Os serviços dos Ministérios indicados no artigo 3.º, n.º 1, alíneas a) e b), prestarão à Comissão toda a colaboração que for solicitada através dos respectivos representantes, facultando-lhes as informações que se mostrem necessárias e destacando funcionários especializados nos assuntos de que a Comissão venha a ocupar-se.
+Art. 5.º Os serviços dos Ministérios indicados no artigo 3.º, n.º 1, alíneas a) e b), prestarão à Comissão toda a colaboração que for solicitada através dos respectivos representantes, facultando-lhes as informações que se mostrem necessárias e destacando funcionários especializados nos assuntos de que a Comissão venha a ocupar-se.
 
-###### Art. 6.º Na execução dos seus trabalhos poderá a Comissão ser assistida por peritos eventualmente admitidos para esse efeito.
+Art. 6.º Na execução dos seus trabalhos poderá a Comissão ser assistida por peritos eventualmente admitidos para esse efeito.
 
-###### Art. 7.º - 1. A Comissão poderá organizar contactos com as instituições nacionais e internacionais relacionadas com actividades de natureza cooperativa com a finalidade de obter a colaboração e as informações úteis para o desempenho das suas funções.
+Art. 7.º - 1. A Comissão poderá organizar contactos com as instituições nacionais e internacionais relacionadas com actividades de natureza cooperativa com a finalidade de obter a colaboração e as informações úteis para o desempenho das suas funções.
 
 2. A Comissão deverá manter estreita ligação com a Comissão Coordenadora das Campanhas de Dinamização Cultural, promovidas pela 5.ª Divisão do Estado-Maior-General das Forças Armadas, tendo em vista a boa articulação das iniciativas a desenvolver no campo do cooperativismo.
 
-###### Art. 8.º Os encargos financeiros e a execução dos serviços de apoio administrativo e de expediente da Comissão serão assegurados pela Secretaria-Geral do Ministério para o Planeamento e Coordenação Económica.
+Art. 8.º Os encargos financeiros e a execução dos serviços de apoio administrativo e de expediente da Comissão serão assegurados pela Secretaria-Geral do Ministério para o Planeamento e Coordenação Económica.
 
-###### Art. 9.º No prazo de quinze dias após a publicação deste diploma deverá a Comissão submeter à aprovação do Ministro para o Planeamento e Coordenação Económica o seu processo de funcionamento.
+Art. 9.º No prazo de quinze dias após a publicação deste diploma deverá a Comissão submeter à aprovação do Ministro para o Planeamento e Coordenação Económica o seu processo de funcionamento.
 
-###### Art. 10.º Este diploma entra imediatamente em vigor.
+Art. 10.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho - José Augusto Fernandes - Álvaro Augusto Veiga de Oliveira - José Inácio da Costa Martins.
 
-**Promulgado em 23 de Junho de 1975.**
+Promulgado em 23 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

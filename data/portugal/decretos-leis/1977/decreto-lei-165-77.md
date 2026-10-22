@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1977-139063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dffef6f95169c9f8e245c872d92541bce764b76e5153b6638bca7a3ca5bf40de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2d5cf1cde58e7d747b78ca53a8605655e62b24ca6e13fd83f102c74619ae706
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equivalência de Habilitações Literárias
+- Formas de Provimento
+- Ministério da Indústria e Tecnologia
+- Pessoal Técnico
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:428021:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:23Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +110,9 @@ Considerando que era intenção do legislador a resolução dessas mesmas situa�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 20.º do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 20.º do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 20.º - 1. Consideram-se automaticamente providos na categoria imediatamente superior, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República, os funcionários que à data de entrada em vigor deste diploma se encontrem colocados em lugares de técnico de 3.ª classe, agente técnico de engenharia de 3.ª classe, técnico auxiliar de 3.ª classe e desenhador de 3.ª classe ou categorias equivalentes e que possuam as habilitações literárias exigíveis para o preenchimento dos respectivos lugares.
+Art. 20.º - 1. Consideram-se automaticamente providos na categoria imediatamente superior, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República, os funcionários que à data de entrada em vigor deste diploma se encontrem colocados em lugares de técnico de 3.ª classe, agente técnico de engenharia de 3.ª classe, técnico auxiliar de 3.ª classe e desenhador de 3.ª classe ou categorias equivalentes e que possuam as habilitações literárias exigíveis para o preenchimento dos respectivos lugares.
 
 2. Para o efeito do disposto no número anterior, são equiparados a técnicos de 3.ª classe os actuais técnicos analistas e técnicos químicos analistas possuidores das habilitações literárias exigidas para o preenchimento daqueles lugares.
 
@@ -108,16 +122,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5. Para os efeitos dos números anteriores, consideram-se aumentados em número igual ao dos lugares a prover os quadros dos respectivos serviços, extinguindo-se os correspondentes lugares de origem.
 
-###### Art. 2.º As dúvidas suscitadas pela aplicação deste decreto serão resolvidas por despacho conjunto do Ministro da Indústria e Tecnologia e Ministro da Administração Interna e Ministro das Finanças, quando envolva matéria financeira.
+Art. 2.º As dúvidas suscitadas pela aplicação deste decreto serão resolvidas por despacho conjunto do Ministro da Indústria e Tecnologia e Ministro da Administração Interna e Ministro das Finanças, quando envolva matéria financeira.
 
-###### Art. 3.º As despesas decorrentes de aplicação deste diploma serão suportadas por verba adequada do orçamento do Ministério.
+Art. 3.º As despesas decorrentes de aplicação deste diploma serão suportadas por verba adequada do orçamento do Ministério.
 
-###### Art. 4.º Este diploma produz efeitos a partir da entrada em vigor do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio.
+Art. 4.º Este diploma produz efeitos a partir da entrada em vigor do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 11 de Abril de 1977.**
+Promulgado em 11 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

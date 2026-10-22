@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/04400/02790282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1975-160124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e624dd39b125b82ad3758ab0003adfe3d78ee5197d4cc317dfe4f9eaf08f11d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 969c02db565e485f5c8f5afdff34bbbf5ba8dfdfc7dbe76b346d3882d707516a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Empresa
+- Ministro da Coordenação Interterritorial
+- Petróleo
+- Timor.Colónia Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:398551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400990:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:158437:por
+  label: "Rectificado o n.º 2 do artigo 2.º pela RECT.DD262.26.04.1975.PCM, DG.IS [97] de 26.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-158437
+  date: '1975-04-26'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:20Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +122,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro da Coordenação Interterritorial autorizado a celebrar com a Companhia de Petróleos de Timor, S. A. R. L., um adicional ao contrato assinado em 26 de Janeiro de 1968, autorizado pelo [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, no qual se introduzirão as alterações decorrentes do presente diploma.
+Artigo 1.º Fica o Ministro da Coordenação Interterritorial autorizado a celebrar com a Companhia de Petróleos de Timor, S. A. R. L., um adicional ao contrato assinado em 26 de Janeiro de 1968, autorizado pelo [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, no qual se introduzirão as alterações decorrentes do presente diploma.
 
-###### Art. 2.º A Companhia de Petróleos de Timor, S. A. R. L., conduzirá operações de prospecção e pesquisa até 31 de Dezembro de 1975 na área definida pelas seguintes coordenadas:
+Art. 2.º A Companhia de Petróleos de Timor, S. A. R. L., conduzirá operações de prospecção e pesquisa até 31 de Dezembro de 1975 na área definida pelas seguintes coordenadas:
 
 1. Zona terrestre:
 
@@ -109,17 +132,17 @@ A linha de costa meridional desde a sua intersecção com a linha de fronteira a
 
 A linha poligonal aberta definida pelos seguintes vértices:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04400/02790282.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04400/02790282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04400/02790282.pdf)
 
 2. Zona marítima:
 
 Linha poligonal definida pelos pontos de coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04400/02790282.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04400/02790282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04400/02790282.pdf)
 
 Depois, seguindo o paralelo 8º 30' até à linha da costa; a linha da costa meridional, para oeste, até à sua intersecção com a linha de fronteira; linha de fronteira até ao paralelo 9º 31' latitude sul.
 
-###### Art. 3.º A base VII anexa ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, passará a ter a seguinte redacção:
+Art. 3.º A base VII anexa ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, passará a ter a seguinte redacção:
 
 BASE VII
 
@@ -143,7 +166,7 @@ BASE VII
 
 10. A demarcação da área ou áreas referidas no n.º 4 desta base será feita depois de consultados os serviços responsáveis e de modo a ficarem perfeitamente identificadas. Essa demarcação pode ser baseada em mapas topográficos ou em diagramas fotogramétricos e não estará sujeita a limitações quanto ao número ou tamanho de blocos, e em particular ao disposto no artigo 4.º do Decreto de 9 de Dezembro de 1909. Porém, nenhuma área poderá ser demarcada sem ter sido provado que nela existe um jazigo.
 
-###### Art. 4.º À base X anexa ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, será aditado o seguinte número:
+Art. 4.º À base X anexa ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, será aditado o seguinte número:
 
 10. Independentemente dos investimentos mínimos obrigatórios, previstos no n.º 4 da base XXII, a sociedade fica obrigada a realizar, pelo menos, os trabalhos seguintes:
 
@@ -155,7 +178,7 @@ c) Levantamentos sísmicos de detalhe complementares, respectivamente em terra e
 
 d) Execução de duas sondagens, sendo uma offshore.
 
-###### Art. 5.º A base XXII anexa ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, passará a ter a seguinte redacção:
+Art. 5.º A base XXII anexa ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, passará a ter a seguinte redacção:
 
 1. A concessionária deverá despender em cada ano do período do exclusivo previsto no n.º 1 da base III ou suas prorrogações, se as houver, na execução dos programas de prospecção e pesquisa, as importâncias necessárias aos trabalhos aprovados superiormente, de acordo com o plano submetido à aprovação do Governo.
 
@@ -181,13 +204,13 @@ Os valores das alienações de materiais e equipamentos incluídos na alínea c)
 
 8. A concessionária poderá estabelecer com terceiros contratos de empreitada por tempo determinado, para a execução de trabalhos aprovados, devendo cópias desses contratos ser enviadas ao Governo logo que possível.
 
-###### Art. 6.º À base XLVII serão aditados os números seguintes:
+Art. 6.º À base XLVII serão aditados os números seguintes:
 
 6. Nos anos de 1974 e 1975 a sociedade obriga-se a promover e financiar anualmente, em condições económicas não inferiores, no que respeita a encargos do Fundo de Fomento Mineiro Ultramarino, às previstas nos Decretos n.os 49094 e 49098, de 2 e 3 de Julho de 1969, respectivamente, bem como na [Portaria n.º 118/72](https://diariodarepublica.pt/dr/detalhe/portaria/118-1972-398551), de 23 de Fevereiro, ao abrigo dos quais se processa a formação e valorização do pessoal a expensas do referido Fundo, a frequência de dois técnicos portugueses, a designar pelo Ministro da Coordenação Interterritorial, em estágios nas áreas de trabalho da concessão, ou em companhias associadas à sociedade, actuando em outras zonas do globo, ou bolsas de estudo.
 
 7. A duração e termos quer dos estágios, quer das bolsas de estudo, deverão ser propostos pela concessionária ao Ministro da Coordenação Interterritorial e merecer a sua aprovação.
 
-###### Art. 7.º Ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, será aditada uma nova base, com a seguinte redacção:
+Art. 7.º Ao [Decreto n.º 48077](https://diariodarepublica.pt/dr/detalhe/decreto/48077-1967-400990), de 27 de Novembro de 1967, será aditada uma nova base, com a seguinte redacção:
 
 BASE LVI
 
@@ -197,14 +220,14 @@ BASE LVI
 
 3. As contribuições deverão ser depositadas onde a Comissão Administrativa Central do Fundo indicar.
 
-###### Art. 8.º O presente decreto-lei entra imediatamente em vigor.
+Art. 8.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 12 de Fevereiro de 1975.**
+Promulgado em 12 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial de Timor. - A. Almeida Santos.

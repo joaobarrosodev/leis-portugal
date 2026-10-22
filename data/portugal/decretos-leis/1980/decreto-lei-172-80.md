@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12400/12551255.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1980-474687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c23a9c1a6e34d426f3acc1388560e0ead9a147dfd2684b3a931180b251ae7e50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2db410e573448f35d662995652c54b1a51c932651ef5964e997aa1b9dc3629e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:374460:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374460:por
+  label: "Revogado pelo Dec Lei.344/82.01.09.1982.ME, DR.IS [202] de 01.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/344-1982-374460
+  date: '1982-09-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:10Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +126,20 @@ Considerando, finalmente, que, muito embora a carreira deste pessoal se deva int
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Enquanto se não proceder à regulamentação do quadro técnico dos estabelecimentos de ensino, aos funcionários referidos nas alíneas a), c) e d) do n.º 1 do artigo 2.º e na alínea a) do n.º 2 do mesmo artigo, ambos do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), é aplicável o disposto nas alíneas seguintes:
+Artigo 1.º Enquanto se não proceder à regulamentação do quadro técnico dos estabelecimentos de ensino, aos funcionários referidos nas alíneas a), c) e d) do n.º 1 do artigo 2.º e na alínea a) do n.º 2 do mesmo artigo, ambos do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), é aplicável o disposto nas alíneas seguintes:
 
 a) Se possuírem o curso geral do ensino secundário ou equivalente, são remunerados pela letra de vencimento correspondente a terceiro-oficial;
 
 b) Se possuírem o curso complementar do ensino secundário ou equivalente, são remunerados pela letra de vencimento correspondente a segundo-oficial.
 
-###### Art. 2.º É revogado o artigo 12.º do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051).
+Art. 2.º É revogado o artigo 12.º do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051).
 
-###### Art. 3.º O disposto no artigo 1.º produz efeitos desde 1 de Janeiro de 1980.
+Art. 3.º O disposto no artigo 1.º produz efeitos desde 1 de Janeiro de 1980.
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

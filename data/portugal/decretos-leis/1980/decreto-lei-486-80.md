@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24100/34363436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1980-462586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7701ae4b36517e89854af4ad844c3b948017c620b6c1eb67bea0671b08699850
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09dea45f5938f15a37c6352d085f93cecf8dafc4b68cc179b4867e7c22223a7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Instituto Geográfico e Cadastral
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:275836:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275836:por
+  label: "Revogado pelo DEC LEI.74/94.1994.03.05.MPLAT, DR.IS-A [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1994-275836
+  date: '1994-03-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:36Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +106,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Missão do Instituto Geográfico e Cadastral nos Açores passará a repartição regional e ficará dependente, administrativamente, do Governo Regional, através da Secretaria Regional das Finanças.
+Artigo 1.º A Missão do Instituto Geográfico e Cadastral nos Açores passará a repartição regional e ficará dependente, administrativamente, do Governo Regional, através da Secretaria Regional das Finanças.
 
-###### Art. 2.º Competirá ao Governo Regional a definição de prioridades das acções cometidas à Repartição Regional do Instituto Geográfico e Cadastral (IGC), sem prejuízo dos programas de âmbito nacional.
+Art. 2.º Competirá ao Governo Regional a definição de prioridades das acções cometidas à Repartição Regional do Instituto Geográfico e Cadastral (IGC), sem prejuízo dos programas de âmbito nacional.
 
-###### Art. 3.º - 1 - O pessoal adstrito ao serviço da Missão do IGC transita para a Secretaria Regional das Finanças do Governo Regional dos Açores, independentemente de qualquer formalidade, com excepção do pessoal dirigente, que continua pertencendo aos quadros do IGC.
+Art. 3.º - 1 - O pessoal adstrito ao serviço da Missão do IGC transita para a Secretaria Regional das Finanças do Governo Regional dos Açores, independentemente de qualquer formalidade, com excepção do pessoal dirigente, que continua pertencendo aos quadros do IGC.
 
 2 - Ao pessoal que se encontre há mais de um ano na situação de destacado na Região Autónoma dos Açores pelo IGC, pertença ou não ao seu quadro permanente, reconhece-se, no entanto, a faculdade de optar pela sua integração nos serviços regionais correspondentes, devendo tal faculdade ser exercida no prazo de seis meses a contar da publicação do presente diploma.
 
@@ -108,22 +120,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Se o tempo de permanência ao serviço da Missão do IGC for inferior a três meses à data da publicação do presente diploma, a opção carecerá, para produzir os seus efeitos, da concordância do Secretário Regional das Finanças e da Direcção-Geral do IGC.
 
-###### Art. 4.º Os agentes que, podendo optar nos termos do artigo anterior, não o fizerem ou cuja opção não obtiver a concordância conjunta a que se refere o n.º 5 do mesmo artigo, considerar-se-ão como destacados do IGC junto dos serviços regionais correspondentes, ficando a sua permanência nesta situação dependente do interesse, para a Região, dos seus serviços, avaliado em conjunto com aquele Instituto.
+Art. 4.º Os agentes que, podendo optar nos termos do artigo anterior, não o fizerem ou cuja opção não obtiver a concordância conjunta a que se refere o n.º 5 do mesmo artigo, considerar-se-ão como destacados do IGC junto dos serviços regionais correspondentes, ficando a sua permanência nesta situação dependente do interesse, para a Região, dos seus serviços, avaliado em conjunto com aquele Instituto.
 
-###### Art. 5.º Enquanto não for criado o departamento previsto no artigo 1.º, manter-se-ão com o mínimo de alterações as estruturas organizativas, materiais e humanas, da Missão do IGC, substituída por força daquele artigo.
+Art. 5.º Enquanto não for criado o departamento previsto no artigo 1.º, manter-se-ão com o mínimo de alterações as estruturas organizativas, materiais e humanas, da Missão do IGC, substituída por força daquele artigo.
 
-###### Art. 6.º No período transitório referido no artigo antecedente o funcionamento das estruturas nele mencionadas processar-se-á sob a dependência directa do Secretário Regional das Finanças e com total apoio técnico, humano e económico do IGC.
+Art. 6.º No período transitório referido no artigo antecedente o funcionamento das estruturas nele mencionadas processar-se-á sob a dependência directa do Secretário Regional das Finanças e com total apoio técnico, humano e económico do IGC.
 
-###### Art. 7.º As despesas com a manutenção e realização das atribuições dos serviços regionais sucedâneos da Missão do IGC passarão a constituir encargos da Região a partir de 1981, salvo no que respeita à colaboração devida pelos mesmos serviços com as missões de âmbito nacional que envolvam o território dos Açores.
+Art. 7.º As despesas com a manutenção e realização das atribuições dos serviços regionais sucedâneos da Missão do IGC passarão a constituir encargos da Região a partir de 1981, salvo no que respeita à colaboração devida pelos mesmos serviços com as missões de âmbito nacional que envolvam o território dos Açores.
 
-###### Art. 8.º O Governo Regional prestará todas as informações que lhe sejam requeridas pela Administração Central e concederá o apoio em meios técnicos e humanos ao seu dispor a quaisquer empreendimentos nos Açores que transcendam os interesses específicos da Região.
+Art. 8.º O Governo Regional prestará todas as informações que lhe sejam requeridas pela Administração Central e concederá o apoio em meios técnicos e humanos ao seu dispor a quaisquer empreendimentos nos Açores que transcendam os interesses específicos da Região.
 
-###### Art. 9.º As dúvidas suscitadas pela interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para os Açores e das Finanças e do Plano, ouvido o Governo Regional dos Açores.
+Art. 9.º As dúvidas suscitadas pela interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para os Açores e das Finanças e do Plano, ouvido o Governo Regional dos Açores.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 1 de Outubro de 1980.**
+Promulgado em 1 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

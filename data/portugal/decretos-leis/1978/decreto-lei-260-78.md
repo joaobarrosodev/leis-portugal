@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19800/17311732.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1978-299419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d84070097a6c46deeb1db5d26c09b519aa4335a9f6765086338fe4512464c3d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a1b14d9930b8afe48e2692f2432dc916fa9c14531822095c60efab112ec21a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Criação de Lugares
+- Gestão Financeira
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:510020:por
+  label: "Alterado o n.º 2 do artigo 4.º pelo DEC LEI.519-T/79.28.12.1979.MAP, DR.IS [298-3ºSupl] de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-t-1979-510020
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507389:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:18Z'
   warnings: []
   errors: []
 ---
@@ -104,36 +132,36 @@ Considerando, por fim, que urge resolver a situação existente, no que respeita
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Centro de Pescadores de S. João da Terra Nova, que dependia do extinto Grémio dos Armadores de Navios da Pesca do Bacalhau, fica na dependência hierárquica do cônsul-geral de Montreal.
+Artigo 1.º O Centro de Pescadores de S. João da Terra Nova, que dependia do extinto Grémio dos Armadores de Navios da Pesca do Bacalhau, fica na dependência hierárquica do cônsul-geral de Montreal.
 
-###### Art. 2.º À Secretaria de Estado das Pescas, pela Direcção-Geral das Pescas, para quem é transferido o activo e passivo, bem como quaisquer valores e direitos do Centro, caberá orientar, através do Ministério dos Negócios Estrangeiros, a sua acção em todos os aspectos de carácter técnico.
+Art. 2.º À Secretaria de Estado das Pescas, pela Direcção-Geral das Pescas, para quem é transferido o activo e passivo, bem como quaisquer valores e direitos do Centro, caberá orientar, através do Ministério dos Negócios Estrangeiros, a sua acção em todos os aspectos de carácter técnico.
 
-###### Art. 3.º - 1 - Os encargos com o pessoal, equipamento e funcionamento do Centro são suportados pelas dotações adequadas do orçamento do Ministério da Agricultura e Pescas, inscritas nos capítulos Secretaria-Geral, divisão «Pessoal permanente do Ministério», e Direcção-Geral das Pescas.
+Art. 3.º - 1 - Os encargos com o pessoal, equipamento e funcionamento do Centro são suportados pelas dotações adequadas do orçamento do Ministério da Agricultura e Pescas, inscritas nos capítulos Secretaria-Geral, divisão «Pessoal permanente do Ministério», e Direcção-Geral das Pescas.
 
 2 - As despesas de anos anteriores já realizadas e ainda por liquidar serão suportadas pela verba «Despesas de anos económicos findos», com dispensa das correspondentes formalidades legais, depois de apuradas pela Direcção-Geral das Pescas e de sancionadas pelo respectivo Secretário de Estado.
 
 3 - Para efeitos do referido nos números anteriores, serão transferidas para o Consulado-Geral de Montreal as quantias necessárias por intermédio da Direcção-Geral do Tesouro.
 
-###### Art. 4.º - 1 - São desde já criados, com efeitos a partir de 1 de Janeiro de 1978, os lugares de enfermeiro de 1.ª classe e de técnico auxiliar principal, aos quais correspondem, para efeitos de vencimentos, respectivamente, as letras I e J, considerando-se aqueles lugares acrescidos ao mapa anexo ao [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, o primeiro em grupo autónomo e o segundo no grupo 7.
+Art. 4.º - 1 - São desde já criados, com efeitos a partir de 1 de Janeiro de 1978, os lugares de enfermeiro de 1.ª classe e de técnico auxiliar principal, aos quais correspondem, para efeitos de vencimentos, respectivamente, as letras I e J, considerando-se aqueles lugares acrescidos ao mapa anexo ao [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, o primeiro em grupo autónomo e o segundo no grupo 7.
 
 2 - O pessoal do Centro com residência permanente em S. João da Terra Nova vencerá, quando em serviço, ajudas de custo correspondentes à letra do respectivo vencimento.
 
-###### Art. 5.º - 1 - O lugar de enfermeiro de 1.ª classe é provido, por nomeação, nos termos da lei geral.
+Art. 5.º - 1 - O lugar de enfermeiro de 1.ª classe é provido, por nomeação, nos termos da lei geral.
 
 2 - O lugar de técnico auxiliar principal é provido entre técnicos auxiliares de 1.ª classe, nos termos da Lei Orgânica do Ministério da Agricultura e Pescas.
 
-###### Art. 6.º - 1 - O primeiro provimento dos lugares referidos no artigo anterior será efectuado com o pessoal actualmente em serviço no Centro, mediante lista nominativa aprovada pelo Ministro da Agricultura e Pescas e visada pelo Tribunal de Contas, considerando-se investido definitivamente nos respectivos lugares a partir da publicação da lista, com dispensa de quaisquer outros requisitos ou formalidades.
+Art. 6.º - 1 - O primeiro provimento dos lugares referidos no artigo anterior será efectuado com o pessoal actualmente em serviço no Centro, mediante lista nominativa aprovada pelo Ministro da Agricultura e Pescas e visada pelo Tribunal de Contas, considerando-se investido definitivamente nos respectivos lugares a partir da publicação da lista, com dispensa de quaisquer outros requisitos ou formalidades.
 
 2 - O pessoal referido no número anterior tem direito às respectivas remunerações em conta das competentes dotações do orçamento do MAP desde 1 de Janeiro do corrente ano.
 
-###### Art. 7.º As dúvidas suscitadas na execução deste diploma serão esclarecidas por despacho dos Ministros da Agricultura e Pescas, das Finanças e do Plano e dos Negócios Estrangeiros, consoante a natureza daquelas.
+Art. 7.º As dúvidas suscitadas na execução deste diploma serão esclarecidas por despacho dos Ministros da Agricultura e Pescas, das Finanças e do Plano e dos Negócios Estrangeiros, consoante a natureza daquelas.
 
-###### Art. 8.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Vítor Augusto Nunes de Sá Machado - Rui Eduardo Ferreira Rodrigues Pena - Luís Silvério Gonçalves Saias.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

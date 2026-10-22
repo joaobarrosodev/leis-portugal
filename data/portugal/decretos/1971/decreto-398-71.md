@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/398-1971-632681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21a6d12988d51a122edaa4ac47df60cdee497b5317346ea0a397338730c68487
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19b68ba7fb647ea0e28ede4f95e16dabf0097b139cc0c784bd201a57216189fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643159:por
+  label: null
+  source: null
 article_structure:
-  article_count: 33
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:13Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +115,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério das Finanças
 
@@ -129,83 +153,83 @@ Do artigo 228.º, n.º 1) «Subsídios ...», alínea 3 «Para concursos, ...» 
 
 Para o artigo 227.º, n.º 1) «Publicidade ...» ... +12000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 117730532$10, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 117730532$10, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 3.º «Secretaria-Geral»:
+Capítulo 3.º «Secretaria-Geral»:
 
-###### Artigo 26.º, n.º 1) «Gastos confidenciais ...» ... 200000$00
+Artigo 26.º, n.º 1) «Gastos confidenciais ...» ... 200000$00
 
-### Capítulo 18.º «Guarda Fiscal»:
+Capítulo 18.º «Guarda Fiscal»:
 
-###### Artigo 206.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 300000$00
+Artigo 206.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 300000$00
 
-###### Artigo 207.º, n.º 3) «Artigos de expediente ...» ... 20000$00
+Artigo 207.º, n.º 3) «Artigos de expediente ...» ... 20000$00
 
-###### Artigo 208.º, n.º 2) «Luz, ...» ... 30000$00
+Artigo 208.º, n.º 2) «Luz, ...» ... 30000$00
 
-###### Artigo 209.º «Despesas de comunicações»:
+Artigo 209.º «Despesas de comunicações»:
 
 N.º 2) «Telefones» ... 15000$00
 
 N.º 3) «Transportes» ... 50000$00
 
-###### Artigo 212.º, n.º 2) «Pagamento de serviços ...» ... 20000$00
+Artigo 212.º, n.º 2) «Pagamento de serviços ...» ... 20000$00
 
-###### Artigo 213.º, n.º 3) «Despesas com funerais» ... 40000$00
+Artigo 213.º, n.º 3) «Despesas com funerais» ... 40000$00
 
 ... 675000$00
 
 Ministério da Justiça
 
-### Capítulo 2.º «Conselhos superiores e institutos de criminologia - Conselho Superior Judiciário»:
+Capítulo 2.º «Conselhos superiores e institutos de criminologia - Conselho Superior Judiciário»:
 
-###### Artigo 11.º «Remunerações certas ao pessoal em exercício»:
+Artigo 11.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei»:
 
 Durante seis meses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22400/13511353.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22400/13511353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22400/13511353.pdf)
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
 Supremo Tribunal de Justiça
 
-###### Artigo 57.º «Remunerações certas ao pessoal em exercício»:
+Artigo 57.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 Durante cinco meses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22400/13511353.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22400/13511353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22400/13511353.pdf)
 
 Juízos de 1.ª instância
 
-###### Artigo 88.º, n.º 1) «Despesas de deslocação, ...», alínea 1 «Subsídios a magistrados judiciais, ...» ... 45000$00
+Artigo 88.º, n.º 1) «Despesas de deslocação, ...», alínea 1 «Subsídios a magistrados judiciais, ...» ... 45000$00
 
 Polícia Judiciária
 
 Subdirectoria de Lisboa
 
-###### Artigo 129.º «Luz, ...» ... 35000$00
+Artigo 129.º «Luz, ...» ... 35000$00
 
-###### Artigo 130.º, n.º 1) «Correios ...» ... 2500$00
+Artigo 130.º, n.º 1) «Correios ...» ... 2500$00
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Prisionais»:
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais»:
 
 Cadeia Comarcã de Lisboa
 
 Cadeias do Limoeiro e Mónicas
 
-###### Artigo 187.º-A «Remunerações acidentais»:
+Artigo 187.º-A «Remunerações acidentais»:
 
 N.º 1) «Remunerações por horas extraordinárias» ... 7000$00
 
-###### Artigo 189.º, n.º 1) «Móveis» ... 7000$00
+Artigo 189.º, n.º 1) «Móveis» ... 7000$00
 
-###### Artigo 190.º «Despesas de conservação ...»:
+Artigo 190.º «Despesas de conservação ...»:
 
 N.º 2), alínea 1 «Veículos com motor» ... 12000$00
 
@@ -213,27 +237,27 @@ N.º 3) «De móveis» ... 5000$00
 
 Cadeia Civil do Porto
 
-###### Artigo 200.º, n.º 3) «De móveis» ... 6000$00
+Artigo 200.º, n.º 3) «De móveis» ... 6000$00
 
-###### Artigo 204.º, n.º 1) «Alimentação, ...» ... 100000$00
+Artigo 204.º, n.º 1) «Alimentação, ...» ... 100000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
 
-###### Artigo 407.º, n.º 2) «Luz, ...» ... 16000$00
+Artigo 407.º, n.º 2) «Luz, ...» ... 16000$00
 
-### Capítulo 7.º «Serviços médico-legais - Instituto de Medicina Legal do Porto»:
+Capítulo 7.º «Serviços médico-legais - Instituto de Medicina Legal do Porto»:
 
-###### Artigo 494.º, n.º 1) «Móveis» ... 20000$00
+Artigo 494.º, n.º 1) «Móveis» ... 20000$00
 
-###### Artigo 496.º, n.º 2) «Artigos de expediente ...» ... 20500$00
+Artigo 496.º, n.º 2) «Artigos de expediente ...» ... 20500$00
 
 ... 352600$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 53.º «Despesas de conservação e aproveitamento do material»:
+Artigo 53.º «Despesas de conservação e aproveitamento do material»:
 
 Despesas a efectuar com a conservação, reparação e melhoramentos ou restauro, incluindo pessoal e material:
 
@@ -241,13 +265,13 @@ N.º 2) «Despesas de conservação, reparação e melhoramentos de que o Estado
 
 Alínea 9 «Direcção-Geral dos Serviços Agrícolas - Diversas obras de conservação nas instalações» ... 130000$00
 
-### Capítulo 13.º «Despesas de anos económicos findos»:
+Capítulo 13.º «Despesas de anos económicos findos»:
 
-###### Artigo 113.º «Despesas de anos económicos findos» ... 37000$00
+Artigo 113.º «Despesas de anos económicos findos» ... 37000$00
 
-### Capítulo 14.º «III Plano de Fomento - Educação e investigação»:
+Capítulo 14.º «III Plano de Fomento - Educação e investigação»:
 
-###### Artigo 122.º «Educação e investigação ligada ao ensino»:
+Artigo 122.º «Educação e investigação ligada ao ensino»:
 
 N.º 1) «Instalações e apetrechamento inicial»:
 
@@ -261,97 +285,97 @@ Ministério da Economia
 
 Secretaria de Estado do Comércio
 
-### Capítulo 11.º «Direcção-Geral do Comércio»:
+Capítulo 11.º «Direcção-Geral do Comércio»:
 
-###### Artigo 227.º, n.º 1) «Publicidade ...» ... 729000$00
+Artigo 227.º, n.º 1) «Publicidade ...» ... 729000$00
 
-### Capítulo 25.º «Despesas de anos económicos findos»:
+Capítulo 25.º «Despesas de anos económicos findos»:
 
-###### Artigo 372.º «Despesas de anos económicos findos» ... 300000$00
+Artigo 372.º «Despesas de anos económicos findos» ... 300000$00
 
 ... 1029000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica Civil - Aeroporto de Lisboa»:
+Capítulo 4.º «Aeronáutica Civil - Aeroporto de Lisboa»:
 
-###### Artigo 70.º «Despesas com o pessoal» ... 2364100$00
+Artigo 70.º «Despesas com o pessoal» ... 2364100$00
 
-###### Artigo 71.º «Despesas com o material» ... 83246166$50
+Artigo 71.º «Despesas com o material» ... 83246166$50
 
-###### Artigo 72.º «Pagamento de serviços ...» ... 870000$00
+Artigo 72.º «Pagamento de serviços ...» ... 870000$00
 
-###### Artigo 74.º «Despesas de anos económicos findos» ... 400000$00
+Artigo 74.º «Despesas de anos económicos findos» ... 400000$00
 
-### Capítulo 7.º «Administração dos Portos do Douro e Leixões»:
+Capítulo 7.º «Administração dos Portos do Douro e Leixões»:
 
-###### Artigo 160.º «Pagamento de serviços ...» ... 25676665$60
+Artigo 160.º «Pagamento de serviços ...» ... 25676665$60
 
 ... 112556932$10
 
 ... 117730532$10
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 4.º, artigo 81.º «Direcção-Geral do Comércio» ... 729000$00
+Capítulo 4.º, artigo 81.º «Direcção-Geral do Comércio» ... 729000$00
 
-### Capítulo 5.º, artigo 107.º «Aeroporto de Lisboa» ... 86880266$50
+Capítulo 5.º, artigo 107.º «Aeroporto de Lisboa» ... 86880266$50
 
-### Capítulo 5.º, artigo 115.º «Portos do Douro e Leixões» ... 25676665$60
+Capítulo 5.º, artigo 115.º «Portos do Douro e Leixões» ... 25676665$60
 
-### Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 1630000$00
+Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 1630000$00
 
-### Capítulo 7.º, artigo 201.º «Reembolsos diversos» ... 100000$00
+Capítulo 7.º, artigo 201.º «Reembolsos diversos» ... 100000$00
 
-### Capítulo 7.º, artigo 202.º «Reposições não abatidas nos pagamentos» ... 1450000$00
+Capítulo 7.º, artigo 202.º «Reposições não abatidas nos pagamentos» ... 1450000$00
 
 ... 116465932$10
 
 Ministério das Finanças
 
-### Capítulo 13.º, artigo 152.º, n.º 1) ... 200000$00
+Capítulo 13.º, artigo 152.º, n.º 1) ... 200000$00
 
-### Capítulo 18.º, artigo 201.º, n.º 1) ... 175000$00
+Capítulo 18.º, artigo 201.º, n.º 1) ... 175000$00
 
-### Capítulo 18.º, artigo 202.º, n.º 1), alínea 1 ... 300000$00
+Capítulo 18.º, artigo 202.º, n.º 1), alínea 1 ... 300000$00
 
 ... 675000$00
 
 Ministério da Justiça
 
-### Capítulo 2.º, artigo 11.º, n.º 1) ... 12600$00
+Capítulo 2.º, artigo 11.º, n.º 1) ... 12600$00
 
-### Capítulo 3.º, artigo 100.º, n.º 1) ... 109000$00
+Capítulo 3.º, artigo 100.º, n.º 1) ... 109000$00
 
-### Capítulo 3.º, artigo 107.º, n.º 1) ... 37500$00
+Capítulo 3.º, artigo 107.º, n.º 1) ... 37500$00
 
-### Capítulo 4.º, artigo 187.º, n.º 1) ... 7000$00
+Capítulo 4.º, artigo 187.º, n.º 1) ... 7000$00
 
-### Capítulo 4.º, artigo 195.º, n.º 1) ... 24000$00
+Capítulo 4.º, artigo 195.º, n.º 1) ... 24000$00
 
-### Capítulo 4.º, artigo 204.º, n.º 1) ... 6000$00
+Capítulo 4.º, artigo 204.º, n.º 1) ... 6000$00
 
-### Capítulo 5.º, artigo 341.º, n.º 1) ... 16000$00
+Capítulo 5.º, artigo 341.º, n.º 1) ... 16000$00
 
-### Capítulo 7.º, artigo 491.º, n.º 1) ... 15650$00
+Capítulo 7.º, artigo 491.º, n.º 1) ... 15650$00
 
-### Capítulo 7.º, artigo 498.º, n.º 3), alínea 1 ... 24850$00
+Capítulo 7.º, artigo 498.º, n.º 3), alínea 1 ... 24850$00
 
 ... 252600$00
 
 Ministério das Obras Públicas
 
-### Capítulo 12.º, artigo 112.º ... 37000$00
+Capítulo 12.º, artigo 112.º ... 37000$00
 
 Ministério da Economia
 
-### Capítulo 7.º, artigo 177.º, n.º 1) ... 300000$00
+Capítulo 7.º, artigo 177.º, n.º 1) ... 300000$00
 
 ... 117730532$10
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério da Justiça
 
@@ -369,13 +393,13 @@ Do Ministério das Obras Públicas
 
 ... e 1500000$00 da Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
 
-###### Art. 5.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
+Art. 5.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
 
 Reforços:
 
 Despesa ordinária:
 
-###### Artigo 12.º «Outros encargos»:
+Artigo 12.º «Outros encargos»:
 
 N.º 7), alínea 2 «Fundo de melhoramentos ...» ... 12376665$60
 
@@ -387,14 +411,14 @@ Contrapartida:
 
 Receita ordinária:
 
-###### Artigo 26.º «Taxas do artigo 5.º do [Decreto-Lei n.º 47026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47026-1966-473491), de 25 de Maio de 1966» ... 25676665$60
+Artigo 26.º «Taxas do artigo 5.º do [Decreto-Lei n.º 47026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47026-1966-473491), de 25 de Maio de 1966» ... 25676665$60
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

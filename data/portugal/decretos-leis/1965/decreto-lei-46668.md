@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46668-1965-512249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58e728512cac12bea7120b4a00b5f1d56d2d0f7baf5b4796b7b0fa38bc54142d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 651c987523183f5ea283bf2543fd0d477479b4b54dc5bd2f0cf7770b7e983371
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Instituições de Assistência
+- Ministro da Saúde e Assistência
+- Serviço de Saúde
+relationships:
+- type: cites
+  target: pt:dre:180019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653510:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:16Z'
   warnings: []
   errors: []
 ---
@@ -119,18 +152,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As instituições particulares de assistência que exerçam actividades de natureza hospitalar, referidas no n.º 2 do artigo 1.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, podem criar serviços de utilização comum, em ordem a obter o melhor rendimento económico.
+Artigo 1.º - 1. As instituições particulares de assistência que exerçam actividades de natureza hospitalar, referidas no n.º 2 do artigo 1.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, podem criar serviços de utilização comum, em ordem a obter o melhor rendimento económico.
 
 2. Os serviços hospitalares de utilização comum podem ser constituídos a pedido das instituições interessadas ou por determinação do Ministro da Saúde e Assistência, que aprovará os respectivos estatutos.
 
 3. A estes serviços é aplicável o disposto no artigo 417.º do Código Administrativo, considerando-se constituídos a partir da aprovação dos estatutos.
 
-###### Art. 2.º Os estabelecimentos hospitalares oficiais, tanto gerais como especializados, poderão participar nos serviços a que se refere o artigo anterior, mediante autorização do Ministro da Saúde e Assistência, desde que daí resultem reais vantagens.
+Art. 2.º Os estabelecimentos hospitalares oficiais, tanto gerais como especializados, poderão participar nos serviços a que se refere o artigo anterior, mediante autorização do Ministro da Saúde e Assistência, desde que daí resultem reais vantagens.
 
-###### Art. 3.º A comparticipação das instituições e dos estabelecimentos oficiais nos encargos de instalação e funcionamento dos serviços hospitalares de utilização comum constará dos orçamentos próprios dessas instituições e estabelecimentos e com eles será aprovada.
+Art. 3.º A comparticipação das instituições e dos estabelecimentos oficiais nos encargos de instalação e funcionamento dos serviços hospitalares de utilização comum constará dos orçamentos próprios dessas instituições e estabelecimentos e com eles será aprovada.
 
-###### Art. 4.º Os serviços comuns, criados nos termos deste diploma, ficam sujeitos à legislação vigente para as instituições particulares de assistência, sendo-lhes igualmente aplicável o disposto nos artigos 5.º e 6.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
+Art. 4.º Os serviços comuns, criados nos termos deste diploma, ficam sujeitos à legislação vigente para as instituições particulares de assistência, sendo-lhes igualmente aplicável o disposto nos artigos 5.º e 6.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

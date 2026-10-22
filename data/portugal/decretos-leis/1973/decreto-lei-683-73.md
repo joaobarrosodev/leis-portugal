@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 296/1973, 1º Suplemento, Série I de 1973-12-21
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2476-(1) a 2476-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/29601/00010002.pdf
 entry_into_force_dates: []
@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-1973-195785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 163001d75ec9fcf435f56648a5afbcaecd758aa062f8c57487d7ec9ee53eb3aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3676226d8ed461c3711b9a6beaecc98bae47e704ba432f218ceb87224efec1f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe do Estado Maior General das Forças Armadas
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Ministro da Defesa Nacional
+- Remuneração
+- Secretariado Geral da Defesa Nacional
+- Vice-chefe do Estado-maior-general das Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:501979:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:44Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +99,9 @@ de 21 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A alínea b) do artigo 2.º, o corpo do artigo 10.º, o § único do artigo 20.º e o artigo 22.º do [Decreto-Lei n.º 43077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43077-1960-501979), de 18 de Julho de 1960, passam a ter a seguinte redacção:
+Artigo 1.º A alínea b) do artigo 2.º, o corpo do artigo 10.º, o § único do artigo 20.º e o artigo 22.º do [Decreto-Lei n.º 43077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43077-1960-501979), de 18 de Julho de 1960, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
@@ -96,7 +109,7 @@ b) Presidente do Supremo Tribunal Militar e vice-chefe do Estado-Maior-General d
 
 ...
 
-###### Art. 10.º Junto do chefe do Estado-Maior-General das Forças Armadas prestam serviço dois secretários-adjuntos da Defesa Nacional, oficiais generais do Exército, da Armada ou da Força Aérea e, quando o chefe do Estado-Maior o proponha, um vice-chefe, também oficial general de qualquer dos ramos das forças armadas.
+Art. 10.º Junto do chefe do Estado-Maior-General das Forças Armadas prestam serviço dois secretários-adjuntos da Defesa Nacional, oficiais generais do Exército, da Armada ou da Força Aérea e, quando o chefe do Estado-Maior o proponha, um vice-chefe, também oficial general de qualquer dos ramos das forças armadas.
 
 O vice-chefe do Estado-Maior-General tem competência cumulativa com o chefe do Estado-Maior-General para as matérias que, sob proposta deste, constem de despacho do Ministro da Defesa Nacional.
 
@@ -104,17 +117,17 @@ Os secretários-adjuntos da Defesa Nacional, além dos trabalhos que especialmen
 
 § único ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § único. Não estão incluídos nos quadros a que se refere o corpo deste artigo o chefe da Repartição do Gabinete e os ajudantes-de-campo do Ministro, do chefe e vice-chefe do Estado-Maior-General das Forças Armadas. O primeiro vence pela função e os outros pelos respectivos quadros.
 
 ...
 
-###### Art. 22.º O chefe do Estado-Maior-General das Forças Armadas é hierarquicamente superior a todos os oficiais generais de terra, mar e ar e usará os emblemas e distintivos estabelecidos, dispondo de dois ajudantes-de-campo, oficiais do Exército, da Armada e da Força Aérea, de preferência com o curso de estado-maior.
+Art. 22.º O chefe do Estado-Maior-General das Forças Armadas é hierarquicamente superior a todos os oficiais generais de terra, mar e ar e usará os emblemas e distintivos estabelecidos, dispondo de dois ajudantes-de-campo, oficiais do Exército, da Armada e da Força Aérea, de preferência com o curso de estado-maior.
 
 O vice-chefe do Estado-Maior-General das Forças Armadas dispõe de um ajudante-de-campo, oficial do Exército, da Armada ou da Força Aérea.
 
-###### Art. 2.º - 1. O vice-chefe do Estado-Maior-General das Forças Armadas, quando general do Exército ou da Força Aérea, vence como general de quatro estrelas e tem direito ao uso de quatro estrelas de prata;
+Art. 2.º - 1. O vice-chefe do Estado-Maior-General das Forças Armadas, quando general do Exército ou da Força Aérea, vence como general de quatro estrelas e tem direito ao uso de quatro estrelas de prata;
 
 quando contra-almirante, é promovido a vice-almirante, sendo o diploma de nomeação conjuntamente diploma de promoção.
 
@@ -126,8 +139,8 @@ quando contra-almirante, é promovido a vice-almirante, sendo o diploma de nomea
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 19 de Dezembro de 1973.**
+Promulgado em 19 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

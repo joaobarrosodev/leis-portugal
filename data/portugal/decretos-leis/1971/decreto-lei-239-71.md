@@ -49,36 +49,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1971-643925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3086127b54bf825610cfe3c258633ad33c2ef49b70aa1d0e39b2a347216f7fc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7ed66a9ddb1f474209ad91959dfd9411cae7fada09eb2dc8a8bca120eac7537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Estabelecimento de Ensino
+- Exército
+- Extinção de Lugares
+- Forças Armadas
+- Instituto de Odivelas
+- Instituto Técnico Militar dos Pupilos do Exército
+- Militar
+- Pessoal Docente
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591544:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:643350:por
+  label: Rectificado pela DECL.DD10230.19.06.1971.PC, DG.IS [143] de 19.06.1971
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1971-643350
+  date: '1971-06-19'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:58Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +141,7 @@ Considerando, finalmente, a necessidade de actualizar os vencimentos do pessoal 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro anexo I ao [Decreto-Lei n.º 42135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42135-1959-591544), de 3 de Fevereiro de 1959, sofre as seguintes alterações:
+Artigo 1.º O quadro anexo I ao [Decreto-Lei n.º 42135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42135-1959-591544), de 3 de Fevereiro de 1959, sofre as seguintes alterações:
 
 a) É extinto o lugar de mestre de Educação Física, capitão, e substituído pelo lugar de professor efectivo de Educação Física, director da instrução de educação física;
 
@@ -107,7 +151,7 @@ c) É extinto o lugar de professor contratado de Música e Canto Coral e substit
 
 d) São extintos os dois lugares de mestre contratado de Trabalhos Manuais e substituídos por dois lugares de professor efectivo de Trabalhos Manuais.
 
-###### Art. 2.º - 1. Os quadros anexos ao [Decreto-Lei n.º 42632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42632-1959-439780), de 4 de Novembro de 1959, sofrem as seguintes alterações:
+Art. 2.º - 1. Os quadros anexos ao [Decreto-Lei n.º 42632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42632-1959-439780), de 4 de Novembro de 1959, sofrem as seguintes alterações:
 
 a) É extinto o lugar de instrutor de Educação Física, capitão, e substituído pelo lugar de professor efectivo de Educação Física, director da instrução de educação física;
 
@@ -127,9 +171,9 @@ g) São extintos os lugares de mestre dos cursos industriais de serralheiro mec�
 
 3. Pode ser mantido no exercício das suas funções, independentemente do disposto no n.º 2, quem, há data da publicação do presente diploma, desempenhar as funções de professor adjunto de Escritórios Comerciais.
 
-###### Art. 3.º - 1. O artigo 1.º do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965, passa a ter a seguinte redacção:
+Art. 3.º - 1. O artigo 1.º do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Para preenchimento dos quadros aprovados por lei do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército e da Escola Central de Sargentos, os professores efectivos são nomeados por despacho do Ministro do Exército, sob proposta fundamentada do director de cada um desses estabelecimentos de ensino:
+Artigo 1.º - 1. Para preenchimento dos quadros aprovados por lei do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército e da Escola Central de Sargentos, os professores efectivos são nomeados por despacho do Ministro do Exército, sob proposta fundamentada do director de cada um desses estabelecimentos de ensino:
 
 a) ...
 
@@ -147,7 +191,7 @@ d) Diplomados com Exame de Estado para o correspondente magistério ou, no caso 
 
 2. O n.º 1 do artigo 5.º do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 a) ...
 
@@ -157,7 +201,7 @@ c) ...
 
 d) Indivíduos com as habilitações exigidas por lei para professores de Educação Física e de Canto Coral ou, na falta destes, com reconhecida prática de ensino, de preferência oficiais milicianos.
 
-###### Art. 4.º Os mapas anexos ao [Decreto-Lei n.º 42134](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42134-1959-591543), de 3 de Fevereiro de 1959, sofrem as seguintes alterações:
+Art. 4.º Os mapas anexos ao [Decreto-Lei n.º 42134](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42134-1959-591543), de 3 de Fevereiro de 1959, sofrem as seguintes alterações:
 
 a) É extinto o lugar de professora contratada de Moral e substituído pelo lugar de professora efectiva de Moral;
 
@@ -175,24 +219,24 @@ g) Aos dois lugares de adjunta de regente passa a ser atribuído o vencimento co
 
 h) O vencimento atribuído às professoras auxiliares, ou agregadas, em serviço eventual ou em comissão, deve ser o referido na tabela n.º 1 do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621), de 28 de Dezembro de 1968, actualizado pelo [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 21 de Novembro de 1969.
 
-###### Art. 5.º - 1. Aos professores, mestres e regentes a que se refere este diploma é contado, para todos os efeitos legais, nas suas novas situações e categorias, o tempo de serviço prestado nos quadros anteriores, considerando-se providos nos novos lugares com dispensa de concurso ou outras formalidades os titulares dos respectivos lugares.
+Art. 5.º - 1. Aos professores, mestres e regentes a que se refere este diploma é contado, para todos os efeitos legais, nas suas novas situações e categorias, o tempo de serviço prestado nos quadros anteriores, considerando-se providos nos novos lugares com dispensa de concurso ou outras formalidades os titulares dos respectivos lugares.
 
 2. Os professores efectivos de Educação Física e de Canto Coral do Colégio Militar e do Instituto Técnico Militar dos Pupilos do Exército são considerados nomeados ao abrigo da alínea d) do artigo 1.º do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965, com a redacção que lhe é dada pelo presente diploma, e considerados confirmados nos termos do n.º 1 do artigo 2.º do citado decreto-lei os que desempenham há mais de um ano as funções nos quadros anteriores.
 
-###### Art. 6.º Os professores, mestres e regentes a que se refere o presente decreto-lei têm direito aos vencimentos, remunerações e gratificações estabelecidos para idênticas categorias e situações no Ministério da Educação Nacional relativamente ao ensino técnico e liceal.
+Art. 6.º Os professores, mestres e regentes a que se refere o presente decreto-lei têm direito aos vencimentos, remunerações e gratificações estabelecidos para idênticas categorias e situações no Ministério da Educação Nacional relativamente ao ensino técnico e liceal.
 
-###### Art. 7.º Os encargos resultantes da execução do presente decreto-lei serão suportados, no corrente ano económico, pelos saldos das dotações consignadas no orçamento do Ministério do Exército a «Remunerações certas ao pessoal em exercício» do Colégio Militar, Instituto Técnico Militar dos Pupilos do Exército e Instituto de Odivelas, respectivamente (artigos 162.º, 171.º e 180.º do capítulo 3.º).
+Art. 7.º Os encargos resultantes da execução do presente decreto-lei serão suportados, no corrente ano económico, pelos saldos das dotações consignadas no orçamento do Ministério do Exército a «Remunerações certas ao pessoal em exercício» do Colégio Militar, Instituto Técnico Militar dos Pupilos do Exército e Instituto de Odivelas, respectivamente (artigos 162.º, 171.º e 180.º do capítulo 3.º).
 
-###### Art. 8.º O artigo 22.º do Decreto-Lei n.º 32615, de 31 de Dezembro de 1942, passa a ter a seguinte redacção:
+Art. 8.º O artigo 22.º do Decreto-Lei n.º 32615, de 31 de Dezembro de 1942, passa a ter a seguinte redacção:
 
-###### Art. 22.º A professora de Puericultura orientará os serviços da mestra respectiva, a cargo de quem ficam os serviços da creche.
+Art. 22.º A professora de Puericultura orientará os serviços da mestra respectiva, a cargo de quem ficam os serviços da creche.
 
-###### Art. 9.º As disposições do presente diploma entram em vigor no dia 1 do mês imediato ao da sua publicação.
+Art. 9.º As disposições do presente diploma entram em vigor no dia 1 do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 27 de Maio de 1971.**
+Promulgado em 27 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,40 +47,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44966-1963-194840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8750a32f4fa17ed27711fc936595fb77ed3ac6b6eaf0ff133a2692d0116d3918
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd9ad35d255c111d7f56d0be7d478ee24b73db845e6ec0e75dea9b115c20c6b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Fiscal
+- Ajudas de Custo
+- Concurso
+- Definição de Competências
+- Direcção Distrital de Finanças
+- Extinção de Lugares
+- Formas de Provimento
+- Funcionário Público
+- Gratificação
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Regime de Pessoal
+- Remuneração
+- Serviço de Finanças
+- Substituição de Funções
 relationships:
 - type: amended_by
   target: pt:dre:693236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693236:por
+  label: "Mantido em vigor pelo período de seis anos o disposto no art. 23º pelo DEC.45095.29.06.1963.MF, DG.IS [152] de 29.06.1963\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45095-1963-693236
+  date: '1963-06-29'
+- type: cites
+  target: pt:dre:155400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:39Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +173,9 @@ Assim, e em execução do preceito do artigo 28.º da [Lei n.º 2117](https://di
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Serviço de prevenção e repressão das infracções fiscais e de fiscalização tributária, criado pelo [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961, passa a ter a organização, funções e composição estabelecidas no presente diploma e a denominação de Serviço de prevenção e fiscalização tributária.
+Artigo 1.º O Serviço de prevenção e repressão das infracções fiscais e de fiscalização tributária, criado pelo [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961, passa a ter a organização, funções e composição estabelecidas no presente diploma e a denominação de Serviço de prevenção e fiscalização tributária.
 
-###### Art. 2.º O Serviço de prevenção e fiscalização tributária é o serviço administrativo da Direcção-Geral das Contribuições e Impostos, preparatório e coadjuvante da acção de justiça fiscal, competindo-lhe em especial, no que respeita às contribuições, impostos, taxas e demais receitas a cargo da Direcção-Geral:
+Art. 2.º O Serviço de prevenção e fiscalização tributária é o serviço administrativo da Direcção-Geral das Contribuições e Impostos, preparatório e coadjuvante da acção de justiça fiscal, competindo-lhe em especial, no que respeita às contribuições, impostos, taxas e demais receitas a cargo da Direcção-Geral:
 
 a) A observação, a averiguação e a notação dos factos que interessem à tributação;
 
@@ -119,7 +187,7 @@ d) A repressão das infracções fiscais;
 
 e) Quaisquer outras atribuições que por lei estejam ou venham a estar cometidas aos serviços de fiscalização.
 
-###### Art. 3.º A acção do Serviço de prevenção e fiscalização tributária é exercida:
+Art. 3.º A acção do Serviço de prevenção e fiscalização tributária é exercida:
 
 a) Por um serviço central, directamente subordinado ao director-geral das Contribuições e Impostos;
 
@@ -127,7 +195,7 @@ b) Por serviços distritais, subordinados aos directores de finanças;
 
 c) Por serviços concelhios, subordinados aos chefes das secções de finanças.
 
-###### Art. 4.º As atribuições referidas no artigo 2.º deste diploma são desempenhadas pelos seguintes funcionários:
+Art. 4.º As atribuições referidas no artigo 2.º deste diploma são desempenhadas pelos seguintes funcionários:
 
 a) Director-geral;
 
@@ -145,7 +213,7 @@ g) Funcionários do quadro especial do Serviço de prevenção e fiscalização 
 
 § único. O disposto no corpo deste artigo não prejudica o cumprimento das obrigações legalmente impostas a quaisquer autoridades, corpos administrativos, repartições públicas, pessoas colectivas de utilidade pública ou outras entidades, nem o dever geral de todos os funcionários da Direcção-Geral das Contribuições e Impostos de velar pelo cumprimento das leis fiscais e pela sua justa aplicação, tomando as providências que estiverem nos limites da sua competência sempre que observem a existência de matéria colectável omitida ou ocultada, a violação das referidas leis e distorções dos seus objectivos e, de modo geral, infracções ou quaisquer outras circunstâncias que interessem à prossecução dos fins da administração fiscal.
 
-###### Art. 5.º O quadro especial do Serviço de prevenção e fiscalização tributária é constituído pelas seguintes categorias de funcionários:
+Art. 5.º O quadro especial do Serviço de prevenção e fiscalização tributária é constituído pelas seguintes categorias de funcionários:
 
 a) Director do Serviço de prevenção e fiscalização tributária;
 
@@ -161,27 +229,27 @@ f) Ajudantes de verificador;
 
 g) Auxiliares informadores.
 
-###### Art. 6.º O quadro especial do Serviço de prevenção e fiscalização tributária será fixado e poderá ser de futuro revisto pelo Ministro das Finanças nos termos estabelecidos no artigo 17.º
+Art. 6.º O quadro especial do Serviço de prevenção e fiscalização tributária será fixado e poderá ser de futuro revisto pelo Ministro das Finanças nos termos estabelecidos no artigo 17.º
 
 § único. Os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária necessários à execução dos serviços dos concelhos de Lisboa e do Porto serão incluídos nos quadros das direcções de finanças respectivas, devendo os directores de finanças submeter anualmente à apreciação do director-geral proposta sobre os técnicos verificadores de 3.ª classe e ajudantes de verificador que ficarão adstritos a cada uma das secções de finanças dos bairros fiscais.
 
-###### Art. 7.º Os trabalhos de secretaria do Serviço de prevenção e fiscalização tributária são executados pelos funcionários do quadro geral da Direcção-Geral das Contribuições e Impostos.
+Art. 7.º Os trabalhos de secretaria do Serviço de prevenção e fiscalização tributária são executados pelos funcionários do quadro geral da Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Os serviços de recrutamento, provimento, licenças e aposentação do pessoal e os de administração financeira do Serviço de prevenção e fiscalização tributária, designadamente os que digam respeito ao orçamento de despesas, processamento de folhas, escrituração de contas correntes de dotações orçamentais e armamento, são executados na Direcção-Geral e nas direcções de finanças, respectivamente, pela repartição e pelas secções que tenham essa competência geral.
 
 § 2.º Sem prejuízo do disposto no parágrafo anterior, é constituída nos serviços centrais da Direcção-Geral das Contribuições e Impostos uma secção à qual incumbe a execução dos trabalhos de secretaria do Serviço de prevenção e fiscalização tributária e que será dirigida por um chefe de secção subordinado ao director daquele Serviço.
 
-###### Art. 8.º É atribuída a todos os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária, com exclusão dos auxiliares informadores, a competência conferida pelo artigo 24.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437), de 13 de Abril de 1929, ao pessoal do quadro dos serviços de fiscalização.
+Art. 8.º É atribuída a todos os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária, com exclusão dos auxiliares informadores, a competência conferida pelo artigo 24.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437), de 13 de Abril de 1929, ao pessoal do quadro dos serviços de fiscalização.
 
 § único. Os autos de transgressão levantados nos termos do corpo deste artigo devem ser apresentados imediatamente ao superior hierárquico do autuante, que, no prazo de três dias, adoptará as providências necessárias para a instauração do processo nos termos gerais do contencioso das contribuições e impostos.
 
-###### Art. 9.º Sempre que nas leis se reconhecer aos directores de finanças, chefes dos serviços de prevenção e repressão e chefes das secções de finanças a faculdade de se fazerem representar no exame de livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, entender-se-á que essa representação é exercida pelos funcionários do Serviço de prevenção e fiscalização tributária referidos nas alíneas c), d), e) e f) do artigo 5.º, com relação aos seus superiores hierárquicos imediatos.
+Art. 9.º Sempre que nas leis se reconhecer aos directores de finanças, chefes dos serviços de prevenção e repressão e chefes das secções de finanças a faculdade de se fazerem representar no exame de livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, entender-se-á que essa representação é exercida pelos funcionários do Serviço de prevenção e fiscalização tributária referidos nas alíneas c), d), e) e f) do artigo 5.º, com relação aos seus superiores hierárquicos imediatos.
 
 § único. O disposto neste artigo não prejudica a representação exercida por outros funcionários, mas neste caso, ela deve ser demonstrada por credencial passada para o efeito.
 
-###### Art. 10.º A competência dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária de categoria superior à de ajudante de verificador, colocados na Direcção-Geral e nas direcções ou secções de finanças, exerce-se, respectivamente, no território do continente e ilhas e na área do respectivo distrito; a dos restantes funcionários restringe-se à área do concelho em que estejam colocados.
+Art. 10.º A competência dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária de categoria superior à de ajudante de verificador, colocados na Direcção-Geral e nas direcções ou secções de finanças, exerce-se, respectivamente, no território do continente e ilhas e na área do respectivo distrito; a dos restantes funcionários restringe-se à área do concelho em que estejam colocados.
 
-###### Art. 11.º Os funcionários das categorias referidas nas alíneas a), b), c), d), e) e f) do artigo 5.º são nomeados pelo Ministro das Finanças, sobre proposta do director-geral e por escolha entre as pessoas que reúnam as seguintes condições:
+Art. 11.º Os funcionários das categorias referidas nas alíneas a), b), c), d), e) e f) do artigo 5.º são nomeados pelo Ministro das Finanças, sobre proposta do director-geral e por escolha entre as pessoas que reúnam as seguintes condições:
 
 a) Para os lugares de director do Serviço de prevenção e fiscalização tributária e directores ajudantes deste Serviço nos distritos de Lisboa e Porto, os funcionários com categoria de director de finanças;
 
@@ -197,13 +265,13 @@ c) Para as restantes categorias, os funcionários aprovados nos respectivos conc
 
 § 4.º As comissões exercidas no Serviço de prevenção e fiscalização tributária podem ser dadas por findas por iniciativa da Administração ou a pedido dos funcionários, mas, nesta hipótese, só dois anos depois da nomeação. Em qualquer caso, o funcionário só regressará ao quadro de origem quando houver vaga na categoria que nele tinha ao ser nomeado para o quadro especial ou na que tivesse obtido posteriormente.
 
-###### Art. 12.º Os concursos de aptidão a que se refere o artigo anterior são documentais para as categorias de economista e engenheiro de 2.ª classe e com provas escritas e orais nos restantes casos.
+Art. 12.º Os concursos de aptidão a que se refere o artigo anterior são documentais para as categorias de economista e engenheiro de 2.ª classe e com provas escritas e orais nos restantes casos.
 
 § 1.º Para os concursos documentais deverá exigir-se dos candidatos, além de outra documentação que em regulamento venha a considerar-se necessária, a apresentação do curriculum vitae.
 
 § 2.º A composição e funcionamento dos júris, os programas e a prestação das provas dos concursos de aptidão obedecerão a regulamento a publicar pelo Ministro das Finanças.
 
-###### Art. 13.º Aos concursos de aptidão a que se refere o artigo 11.º são admitidos:
+Art. 13.º Aos concursos de aptidão a que se refere o artigo 11.º são admitidos:
 
 a) Para os lugares de economista de 2.ª classe, os licenciados em Economia, Finanças ou Ciências Económicas e Financeiras, do sexo masculino, de idade não inferior a 21 nem superior a 35 anos;
 
@@ -223,31 +291,31 @@ f) Para os lugares de ajudantes de verificador, os aspirantes de finanças com t
 
 § 3.º As classificações terão a validade de três anos, mas o Ministro das Finanças poderá, em qualquer altura, declarar sem efeito os concursos ou fazer cessar a sua validade e ordenar a abertura de outros, desde que o considere vantajoso para o recrutamento e selecção do pessoal.
 
-###### Art. 14.º Os vencimentos dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária são os constantes do mapa anexo a este decreto-lei.
+Art. 14.º Os vencimentos dos funcionários do quadro especial do Serviço de prevenção e fiscalização tributária são os constantes do mapa anexo a este decreto-lei.
 
 § único. Pelo Ministro das Finanças serão fixadas as gratificações a que tenham direito, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, os funcionários a que se refere o artigo 4.º deste diploma, não incluídos na tabela anexa ao [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), da mesma data.
 
 No entanto, o Ministro das Finanças, quando entenda conveniente limitar a aplicação do § 1.º do artigo 3.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, poderá fixar a parte das gratificações que deverá ser considerada para efeitos desse preceito legal.
 
-###### Art. 15.º Os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária têm direito a abonos de ajudas de custo e de transportes, nos termos da lei geral, quando se desloquem para fora do concelho onde tenha sede o serviço em que estejam colocados e apenas ao subsídio de marcha regulado na [Portaria n.º 11949](https://diariodarepublica.pt/dr/detalhe/portaria/11949-1947-184716), de 18 de Julho de 1947, nas deslocações dentro dos limites daquele concelho, salvo, neste caso, se lhes forem fornecidos pelo Estado bilhetes de assinatura em transportes colectivos.
+Art. 15.º Os funcionários do quadro especial do Serviço de prevenção e fiscalização tributária têm direito a abonos de ajudas de custo e de transportes, nos termos da lei geral, quando se desloquem para fora do concelho onde tenha sede o serviço em que estejam colocados e apenas ao subsídio de marcha regulado na [Portaria n.º 11949](https://diariodarepublica.pt/dr/detalhe/portaria/11949-1947-184716), de 18 de Julho de 1947, nas deslocações dentro dos limites daquele concelho, salvo, neste caso, se lhes forem fornecidos pelo Estado bilhetes de assinatura em transportes colectivos.
 
 § 1.º Não é reconhecido o direito a ajudas de custo nos casos em que o funcionário possa utilizar meios de transporte que lhe permitam regressar à sede no mesmo dia da saída sem prejuízo para a sua economia e com vantagem para o Estado.
 
 § 2.º O disposto no corpo deste artigo para as deslocações dentro dos limites do concelho onde tenha sede o Serviço pode ser mandado aplicar pelo Ministro das Finanças às deslocações para determinadas localidades de outros concelhos.
 
-###### Art. 16.º Até à publicação de novo regulamento do Serviço de prevenção e fiscalização tribuntária adoptar-se-á, com as adaptações que se mostrem necessárias, o regulamento aprovado pela [Portaria n.º 18936](https://diariodarepublica.pt/dr/detalhe/portaria/18936-1962-642565), de 3 de Janeiro de 1962, devendo ser resolvidas por despacho do Ministro das Finanças as dúvidas suscitadas pela sua aplicação e pela deste decreto-lei.
+Art. 16.º Até à publicação de novo regulamento do Serviço de prevenção e fiscalização tribuntária adoptar-se-á, com as adaptações que se mostrem necessárias, o regulamento aprovado pela [Portaria n.º 18936](https://diariodarepublica.pt/dr/detalhe/portaria/18936-1962-642565), de 3 de Janeiro de 1962, devendo ser resolvidas por despacho do Ministro das Finanças as dúvidas suscitadas pela sua aplicação e pela deste decreto-lei.
 
-###### Art. 17.º O Ministro das Finanças, até à reforma geral dos serviços de administração fiscal, poderá, sempre que as necessidades o exijam, alterar, por portaria publicada no Diário do Governo, o quadro do pessoal da Direcção-Geral das Contribuições e Impostos, aumentando-o, diminuindo-o e distribuindo-o pelos quadros das repartições e serviços da Direcção-Geral, das direcções de finanças, das secções de finanças e de outros serviços dela dependentes.
+Art. 17.º O Ministro das Finanças, até à reforma geral dos serviços de administração fiscal, poderá, sempre que as necessidades o exijam, alterar, por portaria publicada no Diário do Governo, o quadro do pessoal da Direcção-Geral das Contribuições e Impostos, aumentando-o, diminuindo-o e distribuindo-o pelos quadros das repartições e serviços da Direcção-Geral, das direcções de finanças, das secções de finanças e de outros serviços dela dependentes.
 
-###### Art. 18.º Os informadores fiscais actualmente colocados nos diferentes serviços da Direcção-Geral das Contribuições e Impostos deixam de ter a competência especial prevista nos n.os 1.º a 3.º do artigo 21.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, e passam a desempenhar as funções de escriturários de 2.ª classe, mantendo, porém, a sua categoria enquanto não forem providos nesses ou noutros lugares.
+Art. 18.º Os informadores fiscais actualmente colocados nos diferentes serviços da Direcção-Geral das Contribuições e Impostos deixam de ter a competência especial prevista nos n.os 1.º a 3.º do artigo 21.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, e passam a desempenhar as funções de escriturários de 2.ª classe, mantendo, porém, a sua categoria enquanto não forem providos nesses ou noutros lugares.
 
-###### Art. 19.º As funções de oficial de diligências dos tribunais do contencioso das contribuições e impostos, com excepção dos tribunais privativos, e os serviços externos que não sejam das atribuições do Serviço de prevenção e fiscalização tributária são desempenhados pelos escriturários de 2.ª classe ou, não os havendo ou sendo insuficiente o seu quadro, por outros funcionários, uns e outros designados superiormente.
+Art. 19.º As funções de oficial de diligências dos tribunais do contencioso das contribuições e impostos, com excepção dos tribunais privativos, e os serviços externos que não sejam das atribuições do Serviço de prevenção e fiscalização tributária são desempenhados pelos escriturários de 2.ª classe ou, não os havendo ou sendo insuficiente o seu quadro, por outros funcionários, uns e outros designados superiormente.
 
 § único. As deslocações efectuadas pelos funcionários no desempenho de serviços do contencioso ou das execuções fiscais serão aproveitadas, tanto quanto possível, para o desempenho de outros serviços externos e, quando assim aconteça, as despesas de transportes considerar-se-ão compensadas pelas custas contadas nos processos a título de caminhos.
 
 Fora destes casos, os funcionários que efectuem os serviços referidos no corpo deste artigo têm direito ao subsídio de marcha regulado pela [Portaria n.º 11949](https://diariodarepublica.pt/dr/detalhe/portaria/11949-1947-184716), de 18 de Julho de 1947.
 
-###### Art. 20.º Os funcionários que exerçam cargos de chefia nos serviços da Direcção-Geral das Contribuições e Impostos são substituídos, nos seus impedimentos legais, nos termos do artigo 35.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, com as seguintes alterações:
+Art. 20.º Os funcionários que exerçam cargos de chefia nos serviços da Direcção-Geral das Contribuições e Impostos são substituídos, nos seus impedimentos legais, nos termos do artigo 35.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, com as seguintes alterações:
 
 a) O director do Serviço de prevenção e fiscalização tributária, por um chefe de repartição da Direcção-Geral, designado nos termos do § 2.º deste artigo;
 
@@ -261,15 +329,15 @@ d) Os chefes das secções de finanças, pelo funcionário mais categorizado do 
 
 § 2.º Nas hipóteses não compreendidas no corpo deste artigo ou quando se reconheça conveniente para os serviços procedimento diferente do ali admitido e no parágrafo anterior, o director-geral ou o director de finanças distrital designarão o substituto sobre proposta do funcionário a substituir.
 
-###### Art. 21.º É autorizado o Ministro das Finanças a tomar as providências financeiras indispensáveis à execução deste diploma.
+Art. 21.º É autorizado o Ministro das Finanças a tomar as providências financeiras indispensáveis à execução deste diploma.
 
 § único. Na satisfação dos encargos com pessoal resultantes da execução deste diploma poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal dos quadros aprovados por lei da Direcção-Geral das Contribuições e Impostos e das direcções de finanças distritais e secções concelhias para o pessoal dos respectivos quadros e as da verba consignada ao pagamento de todos os encargos com o serviço de imposto sobre consumos, quanto ao pessoal colocado nos termos do corpo dos artigos 24.º e 25.º deste decreto-lei.
 
-###### Art. 22.º É revogado o [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961.
+Art. 22.º É revogado o [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961.
 
-###### Art. 23.º Os informadores fiscais que a requerimento forem providos nos lugares de escriturários de 2.ª classe mantêm os direitos previstos no artigo 2.º do [Decreto n.º 44181](https://diariodarepublica.pt/dr/detalhe/decreto/44181-1962-518407), de 9 de Fevereiro de 1962.
+Art. 23.º Os informadores fiscais que a requerimento forem providos nos lugares de escriturários de 2.ª classe mantêm os direitos previstos no artigo 2.º do [Decreto n.º 44181](https://diariodarepublica.pt/dr/detalhe/decreto/44181-1962-518407), de 9 de Fevereiro de 1962.
 
-###### Art. 24.º (transitório). Os funcionários actualmente destacados para exercerem as funções de director do serviço central e de directores regionais da 1.ª e 2.ª zonas do Serviço de prevenção e repressão ficam investidos, em comissão, respectivamente nos lugares de director do Serviço de prevenção e fiscalização tributária e de directores ajudantes do mesmo Serviço nos distritos do Porto e de Lisboa.
+Art. 24.º (transitório). Os funcionários actualmente destacados para exercerem as funções de director do serviço central e de directores regionais da 1.ª e 2.ª zonas do Serviço de prevenção e repressão ficam investidos, em comissão, respectivamente nos lugares de director do Serviço de prevenção e fiscalização tributária e de directores ajudantes do mesmo Serviço nos distritos do Porto e de Lisboa.
 
 Os restantes funcionários também actualmente destacados no Serviço de prevenção e repressão e exercendo funções de chefe distrital, chefe de brigada ou auxiliar de brigada ficam investidos provisòriamente, consoante as categorias que tenham no quadro geral da Direcção-Geral das Contribuições e Impostos, nas do quadro especial em seguida referidas:
 
@@ -285,15 +353,15 @@ c) Os secretários de finanças de 3.ª classe, os terceiros-oficiais, os escriv
 
 § 3.º A nomeação, a cessação de comissão e a colocação de funcionários para execução do disposto no corpo deste artigo e seu § 2.º ficam dispensadas do cumprimento de quaisquer formalidades legais, designadamente do visto do Tribunal de Contas.
 
-###### Art. 25.º (transitório). São extintos os lugares de engenheiro civil e agrónomo e de inspectores avaliador e farmacêutico da Direcção-Geral das Contribuições e Impostos; os funcionários que actualmente desempenham as funções das três primeiras categorias referidas ficam investidos definitivamente: em lugares de engenheiro de 1.ª classe do quadro especial do Serviço de prevenção e fiscalização tributária os que tiverem maior antiguidade no quadro e em lugares de engenheiro de 2.ª classe do mesmo quadro especial os restantes.
+Art. 25.º (transitório). São extintos os lugares de engenheiro civil e agrónomo e de inspectores avaliador e farmacêutico da Direcção-Geral das Contribuições e Impostos; os funcionários que actualmente desempenham as funções das três primeiras categorias referidas ficam investidos definitivamente: em lugares de engenheiro de 1.ª classe do quadro especial do Serviço de prevenção e fiscalização tributária os que tiverem maior antiguidade no quadro e em lugares de engenheiro de 2.ª classe do mesmo quadro especial os restantes.
 
 § único. À nomeação e colocação de funcionários para execução do disposto neste artigo é aplicável o estabelecido no § 3.º do artigo 24.º
 
-###### Art. 26.º (transitório). Durante os quatro primeiros anos, contados da entrada em vigor deste diploma e para os efeitos das alíneas c), d) e e) do artigo 13.º, considerar-se-á como tempo de serviço nas categorias de técnico verificador e de ajudante de verificador, não só o prestado no quadro especial do serviço de prevenção e repressão, como também o da categoria que tinham no quadro geral à data da admissão no referido quadro especial.
+Art. 26.º (transitório). Durante os quatro primeiros anos, contados da entrada em vigor deste diploma e para os efeitos das alíneas c), d) e e) do artigo 13.º, considerar-se-á como tempo de serviço nas categorias de técnico verificador e de ajudante de verificador, não só o prestado no quadro especial do serviço de prevenção e repressão, como também o da categoria que tinham no quadro geral à data da admissão no referido quadro especial.
 
 § único. Para os efeitos previstos no corpo deste artigo e dentro do prazo de um ano, contado nos mesmos termos, admitir-se-á, para os técnicos verificadores e ajudantes de verificador, a classificação de serviço que tenham obtido no quadro geral, nos casos em que ainda não estejam classificados pelo desempenho dessas funções.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -303,6 +371,6 @@ Mapa a que se refere o artigo 14.º do Decreto-Lei n.º 44966
 
 Pessoal do quadro especial do Serviço de prevenção e fiscalização tributária e vencimentos correspondentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/08400/03430346.pdf))](https://files.diariodarepublica.pt/1s/1963/04/08400/03430346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/08400/03430346.pdf)
 
 Ministério das Finanças, 9 de Abril de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.

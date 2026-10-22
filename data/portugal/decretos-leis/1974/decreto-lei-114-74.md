@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/06600/03630366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1974-412421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 415a47e2de706b3acac5db2144d23a74735d18def4616b493c66d7cc3b0dce6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97c291f0eadefa08b1ed56cbc1c33e8bf3c10ee0bac1566d0f0e8ffeb8dc41c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Assistência Social
+- Instituto da Família e Acção Social
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:473328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:358116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690218:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473328:por
+  label: "Revogado pelo DEC LEI.489/74.26.09.1974.MAS, DG.IS [225] de 26.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/489-1974-473328
+  date: '1974-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:18Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +131,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral da Assistência Social e as instituições particulares e os estabelecimentos ou serviços oficiais de assistência continuam a reger-se pelas disposições que lhes eram aplicáveis à data da publicação do [Decreto-Lei n.º 584/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/584-1973-358116), de 6 de Novembro, com as adaptações resultantes da integração da Direcção-Geral da Assistência Social no Ministério das Corporações e Segurança Social e com as alterações introduzidas pelo presente diploma.
+Artigo 1.º A Direcção-Geral da Assistência Social e as instituições particulares e os estabelecimentos ou serviços oficiais de assistência continuam a reger-se pelas disposições que lhes eram aplicáveis à data da publicação do [Decreto-Lei n.º 584/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/584-1973-358116), de 6 de Novembro, com as adaptações resultantes da integração da Direcção-Geral da Assistência Social no Ministério das Corporações e Segurança Social e com as alterações introduzidas pelo presente diploma.
 
-###### Art. 2.º A Direcção-Geral da Assistência Social compreende:
+Art. 2.º A Direcção-Geral da Assistência Social compreende:
 
 a) A Inspecção Superior de Tutela Administrativa;
 
@@ -118,7 +145,7 @@ d) O Instituto da Família e Acção Social;
 
 e) A Repartição de Serviços Administrativos.
 
-###### Art. 3.º - 1. Além das atribuições legalmente cometidas à Inspecção Superior de Tutela Administrativa, passa a competir-lhe também, em especial, e sem prejuízo da competência legalmente atribuída ao Ministério da Saúde:
+Art. 3.º - 1. Além das atribuições legalmente cometidas à Inspecção Superior de Tutela Administrativa, passa a competir-lhe também, em especial, e sem prejuízo da competência legalmente atribuída ao Ministério da Saúde:
 
 a) Exercer as funções de inspecção administrativa das actividades de assistência social a cargo das instituições particulares e dos estabelecimentos e serviços oficiais de assistência;
 
@@ -134,7 +161,7 @@ b) Proceder a inspecções, inquéritos, sindicâncias e processos disciplinares
 
 6. As actividades de inspecção que exijam preparação especializada poderão ser, por despacho ministerial, confiadas a pessoas devidamente qualificadas, em regime de prestação de serviços.
 
-###### Art. 4.º Ao Núcleo de Estudos e Planeamento compete:
+Art. 4.º Ao Núcleo de Estudos e Planeamento compete:
 
 a) Assegurar a coordenação das actividades respeitantes ao planeamento de actividades;
 
@@ -150,7 +177,7 @@ f) Assegurar, em estreita ligação com outras entidades competentes do Ministé
 
 g) Exercer quaisquer outras funções que lhe sejam superiormente atribuídas.
 
-###### Art. 5.º - 1. Aos serviços de acção directa compete, em geral:
+Art. 5.º - 1. Aos serviços de acção directa compete, em geral:
 
 a) Contribuir para a execução do programa anual de acção da Direcção-Geral da Assistência Social e para a sua avaliação, cooperando com os órgãos e serviços de planeamento regional e coordenando a sua acção com a de outros serviços regionais e locais de acção social, designadamente as comissões para a promoção e acção social;
 
@@ -174,7 +201,7 @@ d) Prestar socorros de urgência por motivo de calamidades públicas ou sinistro
 
 3. Os serviços de acção directa recebem orientação técnica e submetem a despacho do inspector superior de Tutela Administrativa e do director do Instituto da Família e Acção Social os assuntos em que se traduz a sua actividade, consoante o domínio respectivo em que esta se desenvolve.
 
-###### Art. 6.º - 1. Os serviços de acção directa deverão incluir técnicos de formação diversa no campo da promoção familiar e social e integração social de menores, idosos e deficientes.
+Art. 6.º - 1. Os serviços de acção directa deverão incluir técnicos de formação diversa no campo da promoção familiar e social e integração social de menores, idosos e deficientes.
 
 2. Os serviços de acção directa podem dispor temporariamente de pessoal especializado dos serviços centrais da Direcção-Geral da Assistência Social ou de estabelecimentos oficiais, sempre que haja lugar a intervenções da competência destes serviços ou estabelecimentos.
 
@@ -182,7 +209,7 @@ d) Prestar socorros de urgência por motivo de calamidades públicas ou sinistro
 
 4. Os funcionários a que se refere o número anterior integram-se nas inspecções coordenadoras a que se refere o artigo 51.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com objectivo de se assegurar ao nível da região a necessária coordenação das actividades médico-sanitárias, hospitalares e assistenciais.
 
-###### Art. 7.º - 1. O Instituto da Família e Acção Social, dirigido por um director, compreende:
+Art. 7.º - 1. O Instituto da Família e Acção Social, dirigido por um director, compreende:
 
 a) O Centro de Formação e Aperfeiçoamento de Pessoal;
 
@@ -196,11 +223,11 @@ d) Os Serviços Administrativos.
 
 3. O Instituto pode dispor de estabelecimentos oficiais que não constituam duplicação das actividades dos serviços previstos no presente diploma.
 
-###### Art. 8.º - 1. É criado o Centro de Observação e Orientação Médico-Pedagógica como estabelecimento oficial dotado de personalidade jurídica e autonomia administrativa.
+Art. 8.º - 1. É criado o Centro de Observação e Orientação Médico-Pedagógica como estabelecimento oficial dotado de personalidade jurídica e autonomia administrativa.
 
 2. O Centro de Observação e Orientação Médico-Pedagógica pode dispor, se a sua actividade assim o exigir, de delegações ou equipas de extensão.
 
-###### Art. 9.º - 1. Ao Centro de Observação e Orientação Médico-Pedagógica incumbe, em geral, a observação, diagnóstico e orientação psico-médico-pedagógica dos menores que recorram aos serviços e instituições de assistência social, em conjugação com os centros de saúde mental infantil.
+Art. 9.º - 1. Ao Centro de Observação e Orientação Médico-Pedagógica incumbe, em geral, a observação, diagnóstico e orientação psico-médico-pedagógica dos menores que recorram aos serviços e instituições de assistência social, em conjugação com os centros de saúde mental infantil.
 
 2. Ao Centro de Observação e Orientação Médico-Pedagógica compete, em especial:
 
@@ -216,21 +243,21 @@ e) Apoiar, no âmbito das suas atribuições e em colaboração com os Ministér
 
 f) Colaborar com serviços, estabelecimentos e instituições de assistência, fornecendo-lhes elementos que os habilitem no exercício das respectivas funções.
 
-###### Art. 10.º - 1. Sempre que houver conveniência de serviço, pode o director-geral da Assistência Social destacar temporariamente funcionários dos quadros da Direcção-Geral de Assistência Social, do Instituto da Família e Acção Social e dos estabelecimentos oficiais, de uns para os outros, não podendo, contudo, os funcionários, salvo com o seu acordo expresso, ser destacados para lugares distantes mais de 30 km do local onde exerciam as anteriores funções.
+Art. 10.º - 1. Sempre que houver conveniência de serviço, pode o director-geral da Assistência Social destacar temporariamente funcionários dos quadros da Direcção-Geral de Assistência Social, do Instituto da Família e Acção Social e dos estabelecimentos oficiais, de uns para os outros, não podendo, contudo, os funcionários, salvo com o seu acordo expresso, ser destacados para lugares distantes mais de 30 km do local onde exerciam as anteriores funções.
 
 2. Sempre que a natureza técnica das funções o exija, o provimento dos lugares dos quadros do pessoal dirigente poderá recair em técnicos de grau mais elevado da carreira de técnicos de serviço social, a que se refere o artigo 4.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
 
-###### Art. 11.º - 1. Com a publicação do novo quadro do Instituto da Família e Acção Social os técnicos do Serviço Social Rural, extinto a partir dessa data, integram-se no novo quadro, em categorias correspondentes às que então tenham, mediante publicação de lista nominal no Diário do Governo e com dispensa de todas as formalidades legais, excepto anotação do Tribunal de Contas.
+Art. 11.º - 1. Com a publicação do novo quadro do Instituto da Família e Acção Social os técnicos do Serviço Social Rural, extinto a partir dessa data, integram-se no novo quadro, em categorias correspondentes às que então tenham, mediante publicação de lista nominal no Diário do Governo e com dispensa de todas as formalidades legais, excepto anotação do Tribunal de Contas.
 
 2. O encargo com a remuneração dos técnicos a que se refere o número anterior será suportado pela Junta da Acção Social até que passe a constituir, por despacho conjunto dos Ministros das Finanças e das Corporações e Segurança Social, encargo do Orçamento Geral do Estado.
 
-###### Art. 12.º - 1. O quadro do pessoal da Direcção-Geral da Assistência Social é o que consta do mapa anexo.
+Art. 12.º - 1. O quadro do pessoal da Direcção-Geral da Assistência Social é o que consta do mapa anexo.
 
 2. A distribuição do pessoal pelo quadro anexo ao presente diploma será feita de acordo com as regras do artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 13.º Mantém-se em vigor até à sua reformulação, na sequência do presente diploma, o Regulamento do Instituto da Família e Acção Social, constante do [Decreto n.º 396/72](https://diariodarepublica.pt/dr/detalhe/decreto/396-1972-690218), de 17 de Outubro.
+Art. 13.º Mantém-se em vigor até à sua reformulação, na sequência do presente diploma, o Regulamento do Instituto da Família e Acção Social, constante do [Decreto n.º 396/72](https://diariodarepublica.pt/dr/detalhe/decreto/396-1972-690218), de 17 de Outubro.
 
-###### Art. 14.º - 1. No corrente ano o aumento de encargos resultante da entrada em vigor do quadro do pessoal anexo ao presente diploma terá em contrapartida a verba a deduzir na dotação inscrita na rubrica «Remunerações dos serviços auxiliares» da tabela orçamental da Direcção-Geral da Assistência Social.
+Art. 14.º - 1. No corrente ano o aumento de encargos resultante da entrada em vigor do quadro do pessoal anexo ao presente diploma terá em contrapartida a verba a deduzir na dotação inscrita na rubrica «Remunerações dos serviços auxiliares» da tabela orçamental da Direcção-Geral da Assistência Social.
 
 2. Os encargos com o funcionamento dos serviços de acção directa serão satisfeitos por conta de dotações inscritas no orçamento do Instituto da Família e Acção Social.
 
@@ -238,18 +265,18 @@ f) Colaborar com serviços, estabelecimentos e instituições de assistência, f
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 8 de Março de 1974.**
+Promulgado em 8 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Mapa a que se refere o artigo 12.º do Decreto-Lei n.º 114/74
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/06600/03630366.pdf))](https://files.diariodarepublica.pt/1s/1974/03/06600/03630366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/06600/03630366.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho ministerial, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro das Corporações e Segurança Social, Joaquim Dias da Silva Pinto.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro das Corporações e Segurança Social, Joaquim Dias da Silva Pinto.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 67/1978, 1º Suplemento, Série I de 1978-03-21
   number: '67'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 564-(2) a 564-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/06701/00020021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,395 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de1a74e563e947a07520a9d6e8c3c8a7feed9b561da3d1d751b44e1ac340d024
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1fd8bea836c725c90df944da74d967657d92d203a043eae21dca92bba50a774
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério do Trabalho
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297469:por
+  label: "Alterada a composição dos mapas pela Port.405/78.05.07.1978.MFP, DR.IS [169/78] de 25.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/405-1978-297469
+  date: '1978-07-05'
+- type: amended_by
+  target: pt:dre:324735:por
+  label: "Alterado pelo DEC.146/78.1978.12.13.MT, DR.IS [285] de 13/Dez/1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/146-1978-324735
+  date: '1978-12-13'
+- type: amended_by
+  target: pt:dre:377685:por
+  label: "Alterada a composição dos mapas pela PORT.435/79 (Rectificações).31.07.1979.PCM, DR.IS [189/79] de 17.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/435-1979-377685
+  date: '1979-07-31'
+- type: amended_by
+  target: pt:dre:525383:por
+  label: "Alterados os quadros de pessoal anexos ao presente diploma, pela PORT.90-A/80.06.03.1980.PCM, DR.IS [55]Supl de\
+    \ 06.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/90-a-1980-525383
+  date: '1980-03-06'
+- type: amended_by
+  target: pt:dre:458412:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral, do Serviço de Informação Científica e Técnica, da Direcção\
+    \ Geral de Higiene e Segurança do Trabalho e da Auditoria Jurídica, todos do Ministério do Trabalho, aprovados pelo presente\
+    \ diploma, alterados pelas Ports 710/79, de 29-Dez e 90-A/80, de 06-Mar, pela PORT.977/80.13.11.1980.PCM, DR.IS [263]\
+    \ de 13.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-1980-458412
+  date: '1980-11-13'
+- type: amended_by
+  target: pt:dre:616235:por
+  label: "Alterado o quadro de pessoal do Serviço de Estatística do Ministério do Trabalho, constante do mapa anexo ao presente\
+    \ diploma, pela PORT.1101/80.30.12.1980.PCM, DR.IS [300] de 30.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1101-1980-616235
+  date: '1980-12-30'
+- type: amended_by
+  target: pt:dre:389425:por
+  label: "Alterados os quadros e as carreiras de pessoal da Direcção-Geral do Emprego, do Fundo de Desenvolvimento da Mão-de-Obra\
+    \ e do Gabinete de Gestão do Fundo de Desemprego constantes do presente diploma na redacção do Decreto 146/78, de 13 de\
+    \ Dezembro pela PORT.297/81.27.03.1981.MFP, DR.IS [72] de 27.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-1981-389425
+  date: '1981-03-27'
+- type: amended_by
+  target: pt:dre:574510:por
+  label: "Alterado o quadro de pessoal na parte respeitante à Auditoria Jurídica constante nos mapas anexos pela PORT.436/81.27.05.1981.MFP,\
+    \ DR.IS [121] de 27.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1981-574510
+  date: '1981-05-27'
+- type: amended_by
+  target: pt:dre:600507:por
+  label: "Alterados os quadros de pessoal aprovados pelo presente diploma, pela PORT.173/82.1982.02.08.MFP, DR.IS [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-1982-600507
+  date: '1982-02-08'
+- type: amended_by
+  target: pt:dre:395727:por
+  label: "Alterado o quadro de pessoal pela PORT.564/82.1982.06.08.MFP DR.IS [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-1982-395727
+  date: '1982-06-08'
+- type: amended_by
+  target: pt:dre:394766:por
+  label: "Alargado o quadro de pessoal do Serviço de Informação Científica e Técnica, do Ministério do Trabalho, aprovado\
+    \ pelo presente diploma, na redacção da Port 710/79, de 29-Dez, Port 90-A/80, de 06-Mar e Port 977/80, de 13-Nov, pela\
+    \ PORT.692/82.13.07.1982.MFP, DR.IS [159] de 13.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1982-394766
+  date: '1982-07-13'
+- type: amended_by
+  target: pt:dre:394171:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério do Trabalho, aprovado pelo presente diploma, alterado\
+    \ pelas Ports 710/79, de 29-Dez, 90-A/80, de 06-Mar, 977/80, de 13-Nov e 173/82, de 08-Fev, pela Port.700/82.15.07.1982.MFP,\
+    \ DR.IS [161] de 15.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1982-394171
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:375201:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral e da Direcção Geral de Higiene e Segurança do Trabalho, do Ministério\
+    \ do Trabalho, aprovados pelo presente diploma, alterados pelas Ports 710/79, de 29-Dez, 90-A/80, de 06-Mar, 173/82, de\
+    \ 08-Fev e 432/82, de 29-Abr, pela Port.904/82.25.09.1982.MFP, DR.IS [223] de 25.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/904-1982-375201
+  date: '1982-09-25'
+- type: amended_by
+  target: pt:dre:384272:por
+  label: "Criado um lugar de assessor, Letra B, no quadro de pessoal da Secretaria-Geral, aprovado pelo presente diploma,\
+    \ na redacção da Port 922/80, de 04-Nov, pela PORT.321/84.29.05.1984.PCM, DR.IS [124] de 29.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-1984-384272
+  date: '1984-05-29'
+- type: amended_by
+  target: pt:dre:386580:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral e da Direcção Geral de Higiene e Segurança do Trabalho, do Ministério\
+    \ do Trabalho e Segurança Social, aprovados pelo presente diploma, alterados pelas Ports 710/79, de 29-Dez, 90-A/80, de\
+    \ 06-Mar, 977/80, de 13-Nov, 173/82, de 08-Fev, 432/82, de 29-Abr, 904/82, de 25-Set e 832/84, de 27-Out, pela PORT.362/84.12.06.1984.PCM,\
+    \ DR.IS [136] de 12.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-1984-386580
+  date: '1984-06-12'
+- type: amended_by
+  target: pt:dre:400455:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral e da Direcção Geral de Higiene e Segurança do Trabalho do Ministério\
+    \ do Trabalho, aprovado pelo presente diploma, alterados pelas Ports 710/79, de 29-Dez, 90-A/80, de 06-Mar, 173/82, de\
+    \ 08-Fev, 432/82, de 29-Abr e 904/82, de 25-Set, pela PORT.832/84.27.10.1984.MFP, DR.IS [250] de 27.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/832-1984-400455
+  date: '1984-10-27'
+- type: amended_by
+  target: pt:dre:396314:por
+  label: "Alterado o quadro de pessoal da Auditoria Jurídica do Ministério do Trabalho e Segurança Social, aprovado pelo presente\
+    \ diploma, com a redacção constante da Port 977/80, de 03-Nov, pela PORT.936/84.19.12.1984.PCM, DR.IS [292] de 19.12.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/936-1984-396314
+  date: '1984-12-19'
+- type: amended_by
+  target: pt:dre:622170:por
+  label: "Alterados os arts. 19º, 20º e 21º pelo DEC LEI.1/85.03.01.1985.PCM, DR.IS [2] de 03.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-1985-622170
+  date: '1985-01-03'
+- type: amended_by
+  target: pt:dre:326148:por
+  label: "Alterado o quadro de pessoal na redacção dada pelas Port. 710/79, de 29-Dez, 90-A/80, de 06-Mar, 73/81, de 17-Jan\
+    \ e 182/82 de 11-Fev, pela PORT.130/85.1985.03.08.PCM, DR.IS (56)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/130-1985-326148
+  date: '1985-03-08'
+- type: amended_by
+  target: pt:dre:181016:por
+  label: "Aumentados lugares ao quadro de pessoal da Secretaria-Geral do MTSS, aprovado pelo presente diploma, pela PORT.630/85.23.08.1985.PCM,\
+    \ DR.IS [193] de 23.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/630-1985-181016
+  date: '1985-08-23'
+- type: amended_by
+  target: pt:dre:605831:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral do Trabalho, anexo ao presente diploma, pela\
+    \ PORT.753-A/85.03.10.1985.PCM, DR.IS [228-SUPL] de 03.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/753-a-1985-605831
+  date: '1985-10-03'
+- type: amended_by
+  target: pt:dre:228231:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério do Trabalho e Segurança Social, aprovado pelo presente\
+    \ diploma, alterado pelas Ports 710/79, de 29-Dez, 90-A/80, de 06-Mar, 173/82, de 08-Fev, 432/82, de 29-Abr, 700/82, de\
+    \ 15-Jul, 904/82, de 25-Set, 362/84, de 12-Jun e 832/84, de 27-Out, pela PORT.355/86.09.07.1986.MF, DR.IS [155] de 09.07.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-1986-228231
+  date: '1986-07-09'
+- type: amended_by
+  target: pt:dre:227867:por
+  label: "Criado um lugar no quadro de pessoal aprovado pelo presente diploma, pela PORT.393/86.24.07.1986.MF, DR.IS [168]\
+    \ de 24.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-1986-227867
+  date: '1986-07-24'
+- type: amended_by
+  target: pt:dre:218717:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral das Relações Colectivas do Trabalho, aprovado\
+    \ pelo presente diploma, pela PORT.404/86.26.07.1986.MF, DR.IS [170] de 26.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/404-1986-218717
+  date: '1986-07-26'
+- type: amended_by
+  target: pt:dre:219963:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, pela PORT.496/86.06.09.1986.MF,\
+    \ DR.IS [205] de 06.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-1986-219963
+  date: '1986-09-06'
+- type: amended_by
+  target: pt:dre:221997:por
+  label: "Aumentado o quadro de pessoal do Serviço de Organização e Gestão de Pessoal, aprovado pelo presente diploma, na\
+    \ redacção da Port 710/79, de 29-Dez e da Port 90-A/80, de 06-Mar, pela PORT.517/86.12.09.1986.MF, DR.IS [210] de 12.09.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/517-1986-221997
+  date: '1986-09-12'
+- type: amended_by
+  target: pt:dre:221981:por
+  label: "Aumentado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, aprovado pelo presente diploma,\
+    \ na redacção da Port 710/79, de 29-Dez e da Port 90-A/80, de 06-Mar, pela PORT.520/86.13.09.1986.MF, DR.IS [211] de 13.09.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/520-1986-221981
+  date: '1986-09-13'
+- type: amended_by
+  target: pt:dre:220970:por
+  label: "Aumentado lugares no quadro de pessoal do Serviço de Informação Científica e Técnica, alterado pela Port. 710/79,\
+    \ de 29-dez, e pela Port. 977/80, de 13-Nov, pela PORT.643/86.30.10.1986.MF, DR.IS [251] de 30.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-1986-220970
+  date: '1986-10-30'
+- type: amended_by
+  target: pt:dre:220964:por
+  label: "Aumentados os lugares no quadro de pessoal da Direcção-Geral de Higiene e Segurança do Trabalho pela PORT.646/86.31.10.1986.MF,\
+    \ DR.IS [252] de 31.10.1986.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-1986-220964
+  date: '1986-10-31'
+- type: amended_by
+  target: pt:dre:221308:por
+  label: "Criado um lugar de assistente principal no quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho,\
+    \ aprovado pelo presente diploma, pela PORT.746/86.15.12.1986.MF, DR.IS [287] de 15.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/746-1986-221308
+  date: '1986-12-15'
+- type: amended_by
+  target: pt:dre:663319:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, aprovado no presente diploma,\
+    \ pela PORT.61/87.24.01.1987.MF, DR.IS [20] de 24.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-1987-663319
+  date: '1987-01-24'
+- type: amended_by
+  target: pt:dre:421849:por
+  label: "Alargado o quadro de pessoal da Direcção Geral de Higiene e Segurança do Trabalho pela PORT.455/87.1987.05.30.MF,\
+    \ DR.IS [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-1987-421849
+  date: '1987-05-30'
+- type: amended_by
+  target: pt:dre:421858:por
+  label: "Alargado o quadro de pessoal do Serviço de Informação Científica e Técnica pela PORT.458/87.1987.06.01.MF, DR.IS\
+    \ [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-1987-421858
+  date: '1987-06-01'
+- type: amended_by
+  target: pt:dre:495113:por
+  label: "Alterados os quadros de pessoal constantes dos mapas anexos ao presente diploma, pela PORT.782/87.09.09.1987.MF,\
+    \ DR.IS [207] de 09.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/782-1987-495113
+  date: '1987-09-09'
+- type: amended_by
+  target: pt:dre:498698:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho aprovado\
+    \ pelo presente diploma, pela PORT.911/87.30.11.1987.MF, DR.IS [276] de 30.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/911-1987-498698
+  date: '1987-11-30'
+- type: amended_by
+  target: pt:dre:583800:por
+  label: "Alterados todos os quadros de pessoal, constantes do presente diploma, pela PORT.17/88.08.01.1988.MF, DR.IS [6]\
+    \ de 08.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-1988-583800
+  date: '1988-01-08'
+- type: amended_by
+  target: pt:dre:283119:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral, aprovado no presente diploma, pela PORT.117/88.17.02.1988.MF,\
+    \ DR.IS [39] de 17.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-1988-283119
+  date: '1988-02-17'
+- type: amended_by
+  target: pt:dre:283129:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, pela PORT.115/88.17.02.1988.MF,\
+    \ DR.IS [39] de 17.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-1988-283129
+  date: '1988-02-17'
+- type: amended_by
+  target: pt:dre:286314:por
+  label: "Alterados os quadros de pessoal, constantes dos mapas anexos ao presente diploma, pela PORT.201/88.30.03.1988.MF,\
+    \ DR.IS [75] de 30.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-1988-286314
+  date: '1988-03-30'
+- type: amended_by
+  target: pt:dre:487122:por
+  label: "Extintos o Serviço de Organização e Gestão de Pessoal, o Serviço de Informação Científica e Técnica, o Serviço de\
+    \ Comunicação Social e Relações Públicas, a Direcção-Geral do Trabalho e a Direcção-Geral das Relações Colectivas de Trabalho\
+    \ e revogado o presente diploma pelo DEC LEI.83/91.20.02.1991.MESS, DR.IS-A [42] de 20.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1991-487122
+  date: '1991-02-20'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinta Inspecção-Geral do Trabalho, criada pelo presente diploma e cujo Estatuto consta do Dec Lei 102/2000 de\
+    \ 02-Jun, pelo DEC LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, nos termos do preceituado no respectivo art.\
+    \ 36º, sendo as suas atribuições integradas na Autoridade para as Condições de Trabalho\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:141822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676006:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:425547:por
+  label: Retificado o presente diploma pelo(a) Declaração - Diário da República n.º 94/1978, Série I de 1978-04-22 , que procedeu
+    à publicação do organograma anexo omisso.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-425547
+  date: '1978-04-22'
+- type: repealed_by
+  target: pt:dre:453199:por
+  label: "Revogados os artigos 43.º a 53.º pelo DEC LEI.327/83.08.07.1983.MFP, DR.IS [155] de 08.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1983-453199
+  date: '1983-07-08'
+- type: repealed_by
+  target: pt:dre:181179:por
+  label: "Revogada a alínea e) do n.º 1 do artigo 4.º e os artigos 29.º a 33.º, pelo DEC LEI.352/85.27.08.1985.MTSS, DR.IS\
+    \ [196] de 27.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-1985-181179
+  date: '1985-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:20Z'
   warnings: []
   errors: []
 ---
@@ -132,15 +487,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Da natureza e atribuições do Ministério
 
-###### Artigo 1.º É reestruturado, pelo presente diploma, o Ministério do Trabalho, que adiante se designará abreviadamente por Ministério e cujas atribuições, orgânica e funcionamento passam a ser os constantes dos artigos seguintes.
+Artigo 1.º É reestruturado, pelo presente diploma, o Ministério do Trabalho, que adiante se designará abreviadamente por Ministério e cujas atribuições, orgânica e funcionamento passam a ser os constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - São atribuições do Ministério do Trabalho estabelecer a política do trabalho e coordenar as acções necessárias à sua execução, assegurando a eficácia da responsabilidade das organizações do trabalho e incentivando a harmonia das relações laborais, com vista à melhoria das condições de vida dos trabalhadores e tendo em conta as realidades sócio-económicas nacionais.
+Art. 2.º - 1 - São atribuições do Ministério do Trabalho estabelecer a política do trabalho e coordenar as acções necessárias à sua execução, assegurando a eficácia da responsabilidade das organizações do trabalho e incentivando a harmonia das relações laborais, com vista à melhoria das condições de vida dos trabalhadores e tendo em conta as realidades sócio-económicas nacionais.
 
 2 - Compete ao Ministro do Trabalho assegurar a representação nacional e internacional do Ministério e a realização das atribuições deste.
 
 3 - A competência do Ministro do Trabalho pode ser exercida por direito próprio, nos termos da lei, ou por delegação específica pelo Secretário ou Secretários de Estado previstos na Lei Orgânica do Governo ou em diploma legal adequado.
 
-###### Art. 3.º O Ministério compreende:
+Art. 3.º O Ministério compreende:
 
 a) Os órgãos de concepção e de apoio a que se refere o artigo 4.º;
 
@@ -154,7 +509,7 @@ e) A Direcção-Geral de Higiene e Segurança do Trabalho.
 
 ### CAPÍTULO II — Órgãos de concepção e apoio
 
-###### Art. 4.º - 1 - Os órgãos de concepção e apoio do Ministério são os seguintes:
+Art. 4.º - 1 - Os órgãos de concepção e apoio do Ministério são os seguintes:
 
 a) A Auditoria Jurídica;
 
@@ -174,9 +529,9 @@ g) O Serviço de Comunicação Social e Relações Públicas.
 
 #### SECÇÃO I — Auditoria Jurídica
 
-###### Art. 5.º A Auditoria Jurídica é o órgão de consulta jurídica dos membros do Governo do Ministério.
+Art. 5.º A Auditoria Jurídica é o órgão de consulta jurídica dos membros do Governo do Ministério.
 
-###### Art. 6.º São atribuições da Auditoria Jurídica:
+Art. 6.º São atribuições da Auditoria Jurídica:
 
 a) Dar parecer sobre todos os assuntos de natureza jurídica que para o efeito lhe sejam submetidos pelo Ministro do Trabalho;
 
@@ -184,7 +539,7 @@ b) Informar e apoiar tecnicamente todos os processos judiciais e de contencioso 
 
 c) Realização de inquéritos e instrução de processos disciplinares quando tal haja sido superiormente determinado, sem prejuízo da competência disciplinar hierárquica.
 
-###### Art. 7.º - 1 - A Auditoria Jurídica compreende um corpo técnico e é dirigida por um auditor designado nos termos preceituados pelo Estatuto Judiciário.
+Art. 7.º - 1 - A Auditoria Jurídica compreende um corpo técnico e é dirigida por um auditor designado nos termos preceituados pelo Estatuto Judiciário.
 
 2 - O auditor jurídico depende hierarquicamente do procurador-geral da República, ficando, porém, na dependência funcional do Ministro do Trabalho.
 
@@ -192,13 +547,13 @@ c) Realização de inquéritos e instrução de processos disciplinares quando t
 
 4 - O auditor jurídico será substituído, nas suas faltas ou impedimentos, pelo funcionário superior da Auditoria para o efeito designado.
 
-###### Art. 8.º No exercício das funções em que está investido, o auditor poderá corresponder-se directamente com quaisquer órgãos, serviços, organismos ou autoridades, solicitando deles as diligências e informações que forem julgadas necessárias ao desempenho do seu cargo.
+Art. 8.º No exercício das funções em que está investido, o auditor poderá corresponder-se directamente com quaisquer órgãos, serviços, organismos ou autoridades, solicitando deles as diligências e informações que forem julgadas necessárias ao desempenho do seu cargo.
 
 #### SECÇÃO II — Secretaria-Geral
 
-###### Art. 9.º A Secretaria-Geral é um órgão de coordenação e apoio técnico-administrativo dos diversos órgãos e serviços do Ministério.
+Art. 9.º A Secretaria-Geral é um órgão de coordenação e apoio técnico-administrativo dos diversos órgãos e serviços do Ministério.
 
-###### Art. 10.º São atribuições da Secretaria-Geral:
+Art. 10.º São atribuições da Secretaria-Geral:
 
 a) Elaborar o orçamento do Ministério, bem como as respectivas alterações;
 
@@ -218,7 +573,7 @@ h) Assegurar a gestão das viaturas ao serviço do Ministério com vista ao seu 
 
 i) Assegurar, em geral, o normal funcionamento do Ministério em tudo o que não seja da competência específica dos restantes serviços.
 
-###### Art. 11.º - 1 - A Secretaria-Geral é dirigida por um secretário-geral, coadjuvado por dois adjuntos, e integra os seguintes serviços:
+Art. 11.º - 1 - A Secretaria-Geral é dirigida por um secretário-geral, coadjuvado por dois adjuntos, e integra os seguintes serviços:
 
 a) A Repartição de Administração do Pessoal;
 
@@ -232,11 +587,11 @@ d) A Repartição de Assuntos Gerais.
 
 3 - Os funcionários das secções administrativas previstas no número anterior situam-se na dependência funcional da Secretaria-Geral, mas dependem hierarquicamente do responsável pelo serviço em que exerçam funções.
 
-###### Art. 12.º - 1 - Compete em especial ao secretário-geral representar o Ministério, enquanto órgão da Administração Pública, na falta ou impedimento dos respectivos dirigentes políticos.
+Art. 12.º - 1 - Compete em especial ao secretário-geral representar o Ministério, enquanto órgão da Administração Pública, na falta ou impedimento dos respectivos dirigentes políticos.
 
 2 - O secretário-geral é substituído, nas suas ausências e impedimentos, pelo adjunto que for designado para o efeito.
 
-###### Art. 13.º São atribuições da Repartição de Administração do Pessoal:
+Art. 13.º São atribuições da Repartição de Administração do Pessoal:
 
 a) Assegurar o recrutamento e selecção do pessoal do Ministério, em coordenação com os serviços interessados;
 
@@ -248,7 +603,7 @@ d) Elaborar e manter actualizado o cadastro de todo o pessoal do Ministério;
 
 e) Instruir todos os processos referentes a prestações sociais de que sejam beneficiários funcionários do Ministério e seus familiares, nomeadamente os relativos a abono de família, ADSE, aposentação e subsídio por morte, dando-lhes o devido seguimento.
 
-###### Art. 14.º São atribuições da Repartição de Administração Financeira:
+Art. 14.º São atribuições da Repartição de Administração Financeira:
 
 a) Elaborar o orçamento do Ministério e as respectivas alterações, bem como acompanhar e fiscalizar a respectiva execução;
 
@@ -258,13 +613,13 @@ c) Organizar e manter actualizada a conta corrente do orçamento do Ministério;
 
 d) Efectuar todos os pagamentos por conta do orçamento do Ministério, bem como os referentes a prestações sociais, mantendo à sua guarda os fundos permanentes dos diversos serviços.
 
-###### Art. 15.º São atribuições da Repartição de Administração Patrimonial:
+Art. 15.º São atribuições da Repartição de Administração Patrimonial:
 
 a) Assegurar o apetrechamento dos serviços do Ministério, procedendo às necessárias aquisições e mantendo em depósito o material indispensável ao seu regular funcionamento;
 
 b) Assegurar a gestão do património do Ministério, zelando pela conservação dos edifícios, mobiliário e outro material e mantendo actualizado o respectivo cadastro.
 
-###### Art. 16.º São atribuições da Repartição dos Assuntos Gerais:
+Art. 16.º São atribuições da Repartição dos Assuntos Gerais:
 
 a) Assegurar a expedição de toda a correspondência e demais documentos, assim como promover a distribuição dos recebidos pelo Ministério;
 
@@ -282,11 +637,11 @@ g) Superintender no pessoal auxiliar, assegurando a organização do respectivo 
 
 #### SECÇÃO III — Departamento de Estudos e Planeamento
 
-###### Art. 17.º - 1 - O Departamento de Estudos e Planeamento é o órgão técnico com atribuições e competência em matéria de planeamento nos domínios do trabalho e outros com este relacionados.
+Art. 17.º - 1 - O Departamento de Estudos e Planeamento é o órgão técnico com atribuições e competência em matéria de planeamento nos domínios do trabalho e outros com este relacionados.
 
 2 - O Departamento poderá ser apoiado por núcleos de planeamento, a constituir, quando as circunstâncias o justifiquem, nas direcções-gerais ou serviços equiparados do Ministério, que tenham ligação com as tarefas de planeamento.
 
-###### Art. 18.º São atribuições do Departamento de Estudos e Planeamento:
+Art. 18.º São atribuições do Departamento de Estudos e Planeamento:
 
 a) Efectuar estudos que contribuam para a formulação da política do Ministério;
 
@@ -296,23 +651,23 @@ c) Preparar periodicamente relatórios de conjuntura respeitantes às principais
 
 d) Desempenhar as funções de planeamento previstas na legislação em vigor.
 
-###### Art. 19.º O Departamento de Estudos e Planeamento é dirigido por um director, coadjuvado por um subdirector, e compreende um corpo técnico e um núcleo de informação e documentação.
+Art. 19.º O Departamento de Estudos e Planeamento é dirigido por um director, coadjuvado por um subdirector, e compreende um corpo técnico e um núcleo de informação e documentação.
 
-###### Art. 20.º - 1 - Compete em especial ao director do Departamento de Estudos e Planeamento representar o Ministério em todos os órgãos centrais de planeamento em que esteja prevista essa representação.
+Art. 20.º - 1 - Compete em especial ao director do Departamento de Estudos e Planeamento representar o Ministério em todos os órgãos centrais de planeamento em que esteja prevista essa representação.
 
 2 - O director do Departamento é substituído, nas suas ausências e impedimentos, pelo subdirector, ao qual compete coadjuvar aquele, podendo exercer os poderes e competências que por ele lhe sejam delegados.
 
-###### Art. 21.º O corpo técnico é directamente orientado pelo director, distribuindo-se os técnicos que o constituem por grupos correspondentes aos campos de acção necessários e aos projectos a realizar, competindo-lhes em especial prosseguir as atribuições permanentes do Departamento.
+Art. 21.º O corpo técnico é directamente orientado pelo director, distribuindo-se os técnicos que o constituem por grupos correspondentes aos campos de acção necessários e aos projectos a realizar, competindo-lhes em especial prosseguir as atribuições permanentes do Departamento.
 
-###### Art. 22.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica -, assegurar a informação documental e respectivo tratamento, necessários à acção do Departamento.
+Art. 22.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica -, assegurar a informação documental e respectivo tratamento, necessários à acção do Departamento.
 
 2 - O Núcleo de Informação e Documentação manterá permanentemente informado o Serviço de Informação Científica e Técnica sobre o respectivo património documental.
 
 #### SECÇÃO IV — Serviço de Organização e Gestão de Pessoal
 
-###### Art. 23.º O Serviço de Organização e Gestão de Pessoal é um departamento de apoio técnico nos domínios da organização administrativa e do pessoal.
+Art. 23.º O Serviço de Organização e Gestão de Pessoal é um departamento de apoio técnico nos domínios da organização administrativa e do pessoal.
 
-###### Art. 24.º São atribuições do Serviço de Organização e Gestão de Pessoal:
+Art. 24.º São atribuições do Serviço de Organização e Gestão de Pessoal:
 
 a) Estudar, promover e coordenar, de forma permanente e sistemática, as medidas tendentes ao aperfeiçoamento organizacional, ao desenvolvimento e gestão dos recursos humanos e ao funcionamento integrado dos serviços do Ministério;
 
@@ -322,17 +677,17 @@ c) Promover as acções de formação e aperfeiçoamento técnico-administrativo
 
 d) Introduzir e acompanhar o lançamento das medidas aprovadas nas matérias referidas nas alíneas anteriores, propondo as correcções necessárias.
 
-###### Art. 25.º O Serviço de Organização e Gestão de Pessoal é dirigido por um director e compreende os seguintes serviços:
+Art. 25.º O Serviço de Organização e Gestão de Pessoal é dirigido por um director e compreende os seguintes serviços:
 
 a) A Divisão de Organização;
 
 b) A Divisão de Estudos de Pessoal.
 
-###### Art. 26.º - 1 - Compete em especial ao director do Serviço de Organização e Gestão de Pessoal representar o Ministério junto do departamento governamental competente na matéria das suas atribuições.
+Art. 26.º - 1 - Compete em especial ao director do Serviço de Organização e Gestão de Pessoal representar o Ministério junto do departamento governamental competente na matéria das suas atribuições.
 
 2. O director do Serviço é substituído, nas suas ausências e impedimentos, pelo funcionário superior que for designado para o efeito.
 
-###### Art. 27.º São atribuições da Divisão de Organização:
+Art. 27.º São atribuições da Divisão de Organização:
 
 a) Planear, de acordo com as directrizes superiormente definidas, a estrutura do Ministério, bem como propor critérios objectivos sobre a criação, fusão, supressão e modificação de unidades orgânicas, quer a nível central quer regional, visando o desenvolvimento nacional das actividades necessárias à prossecução das finalidades do mesmo;
 
@@ -344,7 +699,7 @@ d) Estudar e propor os critérios de desenvolvimento dos meios tendentes à adop
 
 e) Proceder ao estudo da implantação de sistemas informáticos e do tratamento automático da informação.
 
-###### Art. 28.º São atribuições da Divisão de Estudos de Pessoal:
+Art. 28.º São atribuições da Divisão de Estudos de Pessoal:
 
 a) Promover, em articulação com a Secretaria-Geral a gestão dos recursos humanos e a optimização da sua rendibilidade através de mecanismos de formação, de reciclagem e de reconversão profissional;
 
@@ -356,29 +711,29 @@ d) Analisar as diversas situações funcionais com vista à definição de crit�
 
 #### SECÇÃO V — Serviço de Estatística
 
-###### Art. 29.º O Serviço de Estatística é o órgão técnico com atribuições em matéria de informação estatística.
+Art. 29.º O Serviço de Estatística é o órgão técnico com atribuições em matéria de informação estatística.
 
-###### Art. 30.º São atribuições do Serviço de Estatística:
+Art. 30.º São atribuições do Serviço de Estatística:
 
 a) Recolher, tratar e difundir a informação estatística complementar da fornecida pelo Instituto Nacional de Estatística, necessária à actividade dos serviços do Ministério;
 
 b) Centralizar a informação estatística do Ministério com vista à organização de um banco de dados, sua gestão e difusão para o exterior.
 
-###### Art. 31.º O Serviço de Estatística é dirigido por um director e compreende um corpo técnico e um núcleo de informação e documentação.
+Art. 31.º O Serviço de Estatística é dirigido por um director e compreende um corpo técnico e um núcleo de informação e documentação.
 
-###### Art. 32.º - 1 - Compete em especial ao director do Serviço de Estatística representar o Ministério em todos os órgãos centrais de informação estatística em que esteja prevista essa representação.
+Art. 32.º - 1 - Compete em especial ao director do Serviço de Estatística representar o Ministério em todos os órgãos centrais de informação estatística em que esteja prevista essa representação.
 
 2 - O director do Serviço é substituído, nas suas ausências e impedimentos, pelo funcionário superior que for designado para o efeito.
 
-###### Art. 33.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica - assegurar a informação documental necessária à acção do Serviço.
+Art. 33.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica - assegurar a informação documental necessária à acção do Serviço.
 
 2 - O Núcleo de Informação manterá permanentemente informado o Serviço de Informação Científica e Técnica sobre o respectivo património documental.
 
 #### SECÇÃO VI — Serviço de Informação Científica e Técnica
 
-###### Art. 34.º O Serviço de Informação Científica e Técnica constitui o subsistema nacional de informação no domínio do trabalho e do emprego e é o órgão técnico e de apoio com atribuições em matéria de informação científica e técnica.
+Art. 34.º O Serviço de Informação Científica e Técnica constitui o subsistema nacional de informação no domínio do trabalho e do emprego e é o órgão técnico e de apoio com atribuições em matéria de informação científica e técnica.
 
-###### Art. 35.º São atribuições do Serviço de Informação Científica e Técnica:
+Art. 35.º São atribuições do Serviço de Informação Científica e Técnica:
 
 a) Integrar-se nas estruturas nacionais de informação científica e técnica;
 
@@ -392,17 +747,17 @@ e) Assegurar a execução de traduções exigidas pelo Serviço, bem como pelos 
 
 f) Planificar, editar e difundir as publicações do Ministério, em articulação com os serviços que as solicitem ou a que elas digam principalmente respeito.
 
-###### Art. 36.º O Serviço de Informação Científica e Técnica é dirigido por um director e compreende os seguintes serviços:
+Art. 36.º O Serviço de Informação Científica e Técnica é dirigido por um director e compreende os seguintes serviços:
 
 a) A Divisão de Informação e Documentação;
 
 b) A Repartição de Edições.
 
-###### Art. 37.º - 1 - Compete em especial ao director do Serviço de Informação Científica e Técnica representar o Ministério em todos os órgãos centrais de informação científica e técnica e em todas as reuniões sobre a matéria em que esteja prevista essa representação.
+Art. 37.º - 1 - Compete em especial ao director do Serviço de Informação Científica e Técnica representar o Ministério em todos os órgãos centrais de informação científica e técnica e em todas as reuniões sobre a matéria em que esteja prevista essa representação.
 
 2 - O director é substituído, nas suas ausências e impedimentos, pelo funcionário superior que for designado para o efeito.
 
-###### Art. 38.º São atribuições da Divisão de Informação e Documentação:
+Art. 38.º São atribuições da Divisão de Informação e Documentação:
 
 a) Promover a actualização permanente das necessidades de informação documental, elaborando, com base nelas, um plano temático geral;
 
@@ -424,13 +779,13 @@ i) Difundir informação bibliográfica, documental e factológica;
 
 j) Assegurar a actualização de conhecimento sobre técnicas de informação, de material documentário e de equipamento gráfico a utilizar.
 
-###### Art. 39.º São atribuições da Repartição de Edições planificar, editar e difundir as publicações do Ministério, com o consequente funcionamento de oficinas gráficas e gestão de material, distribuição e venda das mesmas publicações.
+Art. 39.º São atribuições da Repartição de Edições planificar, editar e difundir as publicações do Ministério, com o consequente funcionamento de oficinas gráficas e gestão de material, distribuição e venda das mesmas publicações.
 
 #### SECÇÃO VII — Serviço de Comunicação Social e Relações Públicas
 
-###### Art. 40.º O Serviço de Comunicação Social e Relações Públicas é o departamento de apoio em matéria de relações com os meios de comunicação social, bem como em acções de relações públicas internas ou com entidades públicas privadas.
+Art. 40.º O Serviço de Comunicação Social e Relações Públicas é o departamento de apoio em matéria de relações com os meios de comunicação social, bem como em acções de relações públicas internas ou com entidades públicas privadas.
 
-###### Art. 41.º São atribuições do Serviço de Comunicação Social e Relações Públicas:
+Art. 41.º São atribuições do Serviço de Comunicação Social e Relações Públicas:
 
 a) Recolher e tratar a informação noticiosa difundida pelos órgãos de comunicação social com interesse para as actividades do Ministério;
 
@@ -442,17 +797,17 @@ d) Organizar e gerir os serviços de recepção, informação e acompanhamento d
 
 e) Esclarecer os funcionários sobre as medidas globais ou sectoriais do Ministério.
 
-###### Art. 42.º O Serviço de Comunicação Social e Relações Públicas é dirigido por um director.
+Art. 42.º O Serviço de Comunicação Social e Relações Públicas é dirigido por um director.
 
 ### CAPÍTULO III — Inspecção do Trabalho
 
-###### Art. 43.º - 1 - A Inspecção do Trabalho é o departamento com atribuições e competência para assegurar em todo o território nacional a aplicação das disposições legais relativas às condições de trabalho e à protecção dos trabalhadores.
+Art. 43.º - 1 - A Inspecção do Trabalho é o departamento com atribuições e competência para assegurar em todo o território nacional a aplicação das disposições legais relativas às condições de trabalho e à protecção dos trabalhadores.
 
 2 - A Inspecção do Trabalho, na medida das suas atribuições e competência, exercerá a sua acção em todos os ramos de actividade, nas empresas públicas ou privadas, onde existam ou possam vir a existir relações de trabalho.
 
 3 - A Inspecção do Trabalho é dotada de autonomia e independência no exercício da sua acção, dispondo os seus funcionários para o efeito, nos termos do respectivo regulamento, dos necessários poderes de autoridade.
 
-###### Art. 44.º - 1 - São atribuições da Inspecção do Trabalho:
+Art. 44.º - 1 - São atribuições da Inspecção do Trabalho:
 
 a) Assegurar o cumprimento da legislação do trabalho e dos instrumentos da regulamentação colectiva de trabalho, através de acções de carácter informativo ou orientador e coercivo;
 
@@ -468,7 +823,7 @@ d) Apreciar e conceder as autorizações e aprovações previstas nas normas de 
 
 4 - As entidades referidas no número anterior ficam sujeitas ao dever de sigilo imposto aos funcionários da Inspecção do Trabalho.
 
-###### Art. 45.º A Inspecção do Trabalho é dirigida por um inspector-geral, coadjuvado por um subinspector-geral, e compreende os seguintes serviços:
+Art. 45.º A Inspecção do Trabalho é dirigida por um inspector-geral, coadjuvado por um subinspector-geral, e compreende os seguintes serviços:
 
 a) O Serviço de Fiscalização de Condições de Trabalho;
 
@@ -478,7 +833,7 @@ c) As delegações;
 
 d) As subdelegações.
 
-###### Art. 46.º - 1 - Compete, em especial, ao inspector-geral:
+Art. 46.º - 1 - Compete, em especial, ao inspector-geral:
 
 a) Elaborar um relatório anual sobre a actuação dos serviços da Inspecção do Trabalho, tendo em vista as obrigações decorrentes das convenções internacionais;
 
@@ -490,7 +845,7 @@ d) Confirmar os autos de notícia levantados pelos demais funcionários de inspe
 
 2 - O inspector-geral é substituído, nas suas ausências e impedimentos, pelo subinspector-geral.
 
-###### Art. 47.º - 1 - São atribuições do Serviço de Fiscalização de Condições de Trabalho:
+Art. 47.º - 1 - São atribuições do Serviço de Fiscalização de Condições de Trabalho:
 
 a) Verificar o regime de duração do traablho e apreciar os horários de trabalho, nos termos da lei;
 
@@ -504,7 +859,7 @@ e) Apreciar, nos termos da lei, as situações de trabalho de estrangeiros.
 
 2 - As atribuições referidas nas alíneas a), b) e d) do número anterior serão exercidas fora do distrito de Lisboa pelas delegações da Inspecção do Trabalho, em coordenação com o Serviço.
 
-###### Art. 48.º O Serviço de Fiscalização de Condições de Trabalho é dirigido por um inspector-chefe e compreende um corpo técnico e os seguintes serviços:
+Art. 48.º O Serviço de Fiscalização de Condições de Trabalho é dirigido por um inspector-chefe e compreende um corpo técnico e os seguintes serviços:
 
 a) Repartição de Duração de Trabalho;
 
@@ -512,7 +867,7 @@ b) Repartição de Quadros de Pessoal;
 
 c) Repartição de Contratos Especiais de Trabalho.
 
-###### Art. 49.º - 1 - São atribuições dos centros coordenadores regionais da Inspecção do Trabalho:
+Art. 49.º - 1 - São atribuições dos centros coordenadores regionais da Inspecção do Trabalho:
 
 a) Coordenar a actuação das delegações da Inspecção do Trabalho abrangidas pelo seu âmbito;
 
@@ -532,7 +887,7 @@ e) Do Algarve.
 
 3 - A localização dos centros coordenadores regionais da Inspecção do Trabalho e a delimitação do respectivo âmbito territorial serão fixadas por despacho do Ministro do Trabalho.
 
-###### Art. 50.º - 1 - Cada centro coordenador regional da Inspecção do Trabalho é dirigido por um inspector superior.
+Art. 50.º - 1 - Cada centro coordenador regional da Inspecção do Trabalho é dirigido por um inspector superior.
 
 2 - Compete, em especial, aos inspectores superiores dos centros coordenadores regionais:
 
@@ -542,7 +897,7 @@ b) Elaborar um relatório semestral sobre a actuação dos serviços de inspecç
 
 3 - O inspector superior é substituído, nas suas ausências e impedimentos, pelo chefe de delegação com categoria de quadro mais elevada de entre os que dirigem as delegações abrangidas pelo respectivo centro coordenador regional.
 
-###### Art. 51.º - 1 - As delegações e subdelegações da Inspecção do Trabalho asseguram as atribuições gerais desta, na área respectiva, em conformidade com as directivas superiores.
+Art. 51.º - 1 - As delegações e subdelegações da Inspecção do Trabalho asseguram as atribuições gerais desta, na área respectiva, em conformidade com as directivas superiores.
 
 2 - Constitui ainda atribuição das delegações coordenar a actuação das subdelegações abrangidas pelo seu âmbito.
 
@@ -550,7 +905,7 @@ b) Elaborar um relatório semestral sobre a actuação dos serviços de inspecç
 
 4 - A área de jurisdição das delegações e subdelegações da Inspecção do Trabalho corresponde, respectivamente, à dos actuais distritos e concelhos a que são referidas, sem prejuízo de poder ser alterada por despacho do Ministro do Trabalho.
 
-###### Art. 52.º - 1 - Cada delegação da Inspecção do Trabalho é dirigida por um chefe de delegação.
+Art. 52.º - 1 - Cada delegação da Inspecção do Trabalho é dirigida por um chefe de delegação.
 
 2 - Cada subdelegação da Inspecção do Trabalho é dirigida por um chefe de subdelegação.
 
@@ -564,11 +919,11 @@ b) Elaborar relatórios periódicos sobre a actuação dos serviços na área da
 
 5 - O chefe de subdelegação é substituído, nas suas ausências e impedimentos, pelo inspector ou subinspector de categoria mais elevada.
 
-###### Art. 53.º As atribuições da Inspecção do Trabalho e as competências dos seus funcionários serão regulamentadas em diploma legal específico.
+Art. 53.º As atribuições da Inspecção do Trabalho e as competências dos seus funcionários serão regulamentadas em diploma legal específico.
 
 ### CAPÍTULO IV — Direcção-Geral do Trabalho
 
-###### Art. 54.º - 1 - A Direcção-Geral do Trabalho é o departamento com atribuições e competência no domínio das condições de trabalho e da organização associativa de classe.
+Art. 54.º - 1 - A Direcção-Geral do Trabalho é o departamento com atribuições e competência no domínio das condições de trabalho e da organização associativa de classe.
 
 2 - São atribuições da Direcção-Geral do Trabalho:
 
@@ -594,7 +949,7 @@ j) Solicitar a outros serviços do Ministério ou de outros Ministérios, bem co
 
 k) Elaborar pareceres e prestar apoio técnico aos serviços e entidades que deles careçam.
 
-###### Art. 55.º - 1 - A Direcção-Geral do Trabalho é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
+Art. 55.º - 1 - A Direcção-Geral do Trabalho é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
 
 a) O Núcleo de Informação e Documentação;
 
@@ -606,11 +961,11 @@ c) A Direcção de Serviços de Rendimentos do Trabalho.
 
 3 - Aos subdirectores-gerais compete, em geral, coadjuvar o director-geral, podendo exercer os poderes e competências que por ele lhes sejam delegados.
 
-###### Art. 56.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica -, assegurar a informação documental e respectivo tratamento, necessários à acção da Direcção-Geral em matéria de apoio técnico nas relações com a Organização Internacional do Trabalho e outras organizações ou entidades similares estrangeiras ou internacionais.
+Art. 56.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica -, assegurar a informação documental e respectivo tratamento, necessários à acção da Direcção-Geral em matéria de apoio técnico nas relações com a Organização Internacional do Trabalho e outras organizações ou entidades similares estrangeiras ou internacionais.
 
 2 - O Núcleo de Informação e Documentação manterá permanentemente informado o Serviço de Informação Científica e Técnica sobre o respectivo património documental.
 
-###### Art. 57.º São atribuições da Direcção de Serviços do Trabalho:
+Art. 57.º São atribuições da Direcção de Serviços do Trabalho:
 
 a) Proceder a estudos sobre problemas jurídicos e sociológicos das associações de classe e das relações de trabalho, em ordem à definição da respectiva política e à elaboração da legislação a elas respeitantes;
 
@@ -624,7 +979,7 @@ e) Praticar todos os actos respeitantes à constituição e actividade das assoc
 
 f) Apresentar relatórios semestrais sobre a regulamentação colectiva de trabalho publicada, convencional e administrativa.
 
-###### Art. 58.º - 1 - A Direcção de Serviços do Trabalho é dirigida por um director de serviços e compreende:
+Art. 58.º - 1 - A Direcção de Serviços do Trabalho é dirigida por um director de serviços e compreende:
 
 a) A Divisão de Regulamentação Geral do Trabalho;
 
@@ -636,7 +991,7 @@ d) A Divisão de Sociologia do Trabalho.
 
 2 - O director de serviços é substituído, nas suas ausências e impedimentos, pelo funcionário que for designado para o efeito pelo director-geral do Trabalho, sob proposta daquele.
 
-###### Art. 59.º São atribuições da Divisão de Regulamentação Geral do Trabalho:
+Art. 59.º São atribuições da Divisão de Regulamentação Geral do Trabalho:
 
 a) Assegurar os estudos necessários à definição da política e à elaboração da legislação respeitante às relações individuais e às condições de prestação de trabalho;
 
@@ -646,7 +1001,7 @@ c) Elaborar pareceres e prestar apoio técnico aos serviços ou entidades que de
 
 d) Assegurar a organização, actualização e manutenção de um arquivo - ficheiro da legislação do trabalho.
 
-###### Art. 60.º São atribuições da Divisão de Regulamentação Colectiva do Trabalho:
+Art. 60.º São atribuições da Divisão de Regulamentação Colectiva do Trabalho:
 
 a) Assegurar os estudos necessários à definição da política e à elaboração de legislação respeitantes às relações colectivas de trabalho;
 
@@ -664,7 +1019,7 @@ g) Elaborar pareceres e prestar apoio técnico aos serviços e entidades que del
 
 h) Assegurar a organização, actualização e manutenção de um arquivo-ficheiro de todos os instrumentos de regulamentação colectiva de trabalho.
 
-###### Art. 61.º São atribuições da Divisão de Organizações do Trabalho:
+Art. 61.º São atribuições da Divisão de Organizações do Trabalho:
 
 a) Proceder a estudos sobre problemas das associações sindicais, organizações de trabalhadores nas empresas e associações patronais, com vista à definição da política e à elaboração da legislação a elas respeitantes;
 
@@ -682,7 +1037,7 @@ g) Elaborar outros pareceres e prestar apoio técnico aos serviços e entidades 
 
 h) Assegurar a organização, actualização e manutenção de um arquivo-ficheiro das organizações do trabalho.
 
-###### Art. 62.º São atribuições da Divisão de Sociologia do Trabalho:
+Art. 62.º São atribuições da Divisão de Sociologia do Trabalho:
 
 a) Realizar os estudos sociológicos exigidos pela prossecução das atribuições dos serviços do Ministério;
 
@@ -696,7 +1051,7 @@ e) Analisar o processo evolutivo das relações colectivas de trabalho, com vist
 
 f) Desenvolver inquéritos de opinião junto dos trabalhadores e das entidades patronais em ordem a determinar as posições colectivas dominantes em aspectos específicos das relações de trabalho.
 
-###### Art. 63.º São atribuições da Direcção de Serviços de Rendimentos do Trabalho:
+Art. 63.º São atribuições da Direcção de Serviços de Rendimentos do Trabalho:
 
 a) Proceder a estudos sobre rendimentos do trabalho, em ordem à definição da respectiva política e à elaboração da legislação a eles respeitantes;
 
@@ -706,7 +1061,7 @@ c) Participar em estudos preparatórios de legislação sobre rendimentos do tra
 
 d) Apresentar relatórios semestrais sobre o conteúdo económico da regulamentação colectiva de trabalho publicada, convencional e administrativa.
 
-###### Art. 64.º - 1 - A Direcção de Serviços de Rendimentos do Trabalho é dirigida por um director de serviços e compreende:
+Art. 64.º - 1 - A Direcção de Serviços de Rendimentos do Trabalho é dirigida por um director de serviços e compreende:
 
 a) A Divisão de Remunerações;
 
@@ -714,7 +1069,7 @@ b) A Divisão de Análise Financeira.
 
 2 - O director de serviços é substituído, nas suas ausências e impedimentos, pelo funcionário que for designado para o efeito pelo director-geral do trabalho, sob proposta daquele.
 
-###### Art. 65.º São atribuições da Divisão de Remunerações:
+Art. 65.º São atribuições da Divisão de Remunerações:
 
 a) Assegurar os estudos necessários à definição da política e à elaboração da legislação respeitantes a retribuições e distribuição de rendimentos do trabalho;
 
@@ -728,7 +1083,7 @@ e) Elaborar pareceres e prestar apoio técnico aos serviços e entidades que del
 
 f) Assegurar a organização, actualização e manutenção de um arquivo-ficheiro das condições de retribuição do trabalho constantes da lei geral e dos instrumentos de regulamentação colectiva.
 
-###### Art. 66.º São atribuições da Divisão de Análise Financeira:
+Art. 66.º São atribuições da Divisão de Análise Financeira:
 
 a) Proceder a estudos da situação financeira das empresas ou dos sectores da actividade económica, com vista à definição da política e à elaboração da legislação do trabalho;
 
@@ -740,9 +1095,9 @@ d) Elaborar pareceres e prestar apoio técnico aos serviços e entidades que del
 
 ### CAPÍTULO V — Direcção-Geral das Relações Colectivas de Trabalho
 
-###### Art. 67.º A Direcção-Geral das Relações Colectivas de Trabalho é o departamento com atribuições e competência em matéria de relações profissionais, individuais e colectivas.
+Art. 67.º A Direcção-Geral das Relações Colectivas de Trabalho é o departamento com atribuições e competência em matéria de relações profissionais, individuais e colectivas.
 
-###### Art. 68.º São atribuições da Direcção-Geral das Relações Colectivas de Trabalho:
+Art. 68.º São atribuições da Direcção-Geral das Relações Colectivas de Trabalho:
 
 a) Planificar, para cada ano, o movimento da contratação colectiva de trabalho;
 
@@ -754,7 +1109,7 @@ d) Prevenir a eclosão de conflitos de trabalho e propor as medidas necessárias
 
 e) Assegurar a organização, actualização e manutenção de um arquivo-ficheiro dos conflitos de trabalho.
 
-###### Art. 69.º - 1 - A Direcção-Geral das Relações Colectivas de Trabalho é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
+Art. 69.º - 1 - A Direcção-Geral das Relações Colectivas de Trabalho é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
 
 a) Os centros coordenadores regionais;
 
@@ -766,7 +1121,7 @@ c) As subdelegações.
 
 3 - Aos subdirectores-gerais compete, em geral, coadjuvar o director-geral, podendo exercer os poderes e competências que por ele lhes sejam delegados.
 
-###### Art. 70.º - 1 - São atribuições dos centros coordenadores regionais da Direcção-Geral das Relações Colectivas de Trabalho:
+Art. 70.º - 1 - São atribuições dos centros coordenadores regionais da Direcção-Geral das Relações Colectivas de Trabalho:
 
 a) Coordenar a actuação das delegações e subdelegações da Direcção-Geral abrangidas pelo seu âmbito;
 
@@ -786,13 +1141,13 @@ e) Do Algarve.
 
 3 - A localização dos centros coordenadores regionais da Direcção-Geral das Relações Colectivas de Trabalho e a delimitação do respectivo âmbito territorial serão fixadas por despacho do Ministro do Trabalho.
 
-###### Art. 71.º - 1 - Cada centro coordenador da Direcção-Geral das Relações Colectivas de Trabalho é dirigido por um director regional.
+Art. 71.º - 1 - Cada centro coordenador da Direcção-Geral das Relações Colectivas de Trabalho é dirigido por um director regional.
 
 2 - Compete, em especial, aos directores regionais elaborar relatório mensal sobre a situação das questões específicas das suas atribuições na área abrangida pelo respectivo centro coordenador regional.
 
 3 - O director regional é substituído, nas suas ausências e impedimentos, pelo delegado de categoria mais elevada de entre os que dirigem as delegações abrangidas pelo respectivo centro coordenador regional.
 
-###### Art. 72.º - 1 - As delegações e subdelegações da Direcção-Geral das Relações Colectivas de Trabalho asseguram as atribuições gerais desta, na área respectiva, em conformidade com as directivas superiores.
+Art. 72.º - 1 - As delegações e subdelegações da Direcção-Geral das Relações Colectivas de Trabalho asseguram as atribuições gerais desta, na área respectiva, em conformidade com as directivas superiores.
 
 2 - Constitui ainda atribuição das delegações coordenar a actuação das subdelegações abrangidas pelo seu âmbito.
 
@@ -800,7 +1155,7 @@ e) Do Algarve.
 
 4 - A área de jurisdição das delegações e subdelegações da Direcção-Geral das Relações Colectivas de Trabalho corresponde, respectivamente, à dos actuais distritos e concelhos a que são referidas, sem prejuízo de poder ser alterada por despacho do Ministro do Trabalho.
 
-###### Art. 73.º - 1 - Cada delegação e subdelegação da Direcção-Geral das Relações Colectivas de Trabalho é dirigida, respectivamente, por um delegado e subdelegado.
+Art. 73.º - 1 - Cada delegação e subdelegação da Direcção-Geral das Relações Colectivas de Trabalho é dirigida, respectivamente, por um delegado e subdelegado.
 
 2 - Compete, em especial, aos delegados e subdelegados elaborar relatórios mensais sobre a situação das questões específicas das suas atribuições na área abrangida pelas respectivas delegações e subdelegações.
 
@@ -812,13 +1167,13 @@ e) Do Algarve.
 
 6 - Os subdelegados são substituídos, nas suas ausências e impedimentos, pelo delegado ou subdelegado que for designado pelo director regional competente.
 
-###### Art. 74.º Compete, em especial, ao director-geral das Relações Colectivas de Trabalho, aos directores regionais, aos delegados e aos subdelegados convocar, sempre que necessário e no âmbito das atribuições dos respectivos serviços, qualquer entidade representativa dos trabalhadores ou qualquer associação ou entidade patronal.
+Art. 74.º Compete, em especial, ao director-geral das Relações Colectivas de Trabalho, aos directores regionais, aos delegados e aos subdelegados convocar, sempre que necessário e no âmbito das atribuições dos respectivos serviços, qualquer entidade representativa dos trabalhadores ou qualquer associação ou entidade patronal.
 
 ### CAPÍTULO VI — Direcção-Geral de Higiene e Segurança do Trabalho
 
-###### Art. 75.º - A Direcção-Geral de Higiene e Segurança do Trabalho é o departamento com atribuições e competência em matéria de higiene, segurança e prevenção de riscos no trabalho.
+Art. 75.º - A Direcção-Geral de Higiene e Segurança do Trabalho é o departamento com atribuições e competência em matéria de higiene, segurança e prevenção de riscos no trabalho.
 
-###### Art. 76.º São atribuições da Direcção-Geral de Higiene e Segurança do Trabalho:
+Art. 76.º São atribuições da Direcção-Geral de Higiene e Segurança do Trabalho:
 
 a) Estudar e definir os princípios que informam a prevenção de riscos profissionais, tendo em vista a protecção da saúde dos trabalhadores e a melhoria das condições de trabalho;
 
@@ -834,7 +1189,7 @@ f) Solicitar a outros serviços do Ministério ou de outros Ministérios, bem co
 
 g) Promover exposições e reuniões de estudo, nomeadamente colóquios, seminários e congressos no domínio da sua especialidade.
 
-###### Art. 77.º - 1 - A Direcção-Geral de Higiene e Segurança do Trabalho é dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
+Art. 77.º - 1 - A Direcção-Geral de Higiene e Segurança do Trabalho é dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
 
 a) O Núcleo de Informação e Documentação;
 
@@ -846,11 +1201,11 @@ d) Os serviços regionais.
 
 2 - O director-geral é substituído, nas suas ausências e impedimentos, pelo subdirector-geral, ao qual compete coadjuvá-lo, podendo exercer os poderes e competências que por ele lhe sejam delegados.
 
-###### Art. 78.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica -, assegurar a informação documental e respectivo tratamento, necessários à acção da Direcção-Geral.
+Art. 78.º - 1 - Ao Núcleo de Informação e Documentação compete, em articulação com o correspondente serviço central do Ministério - Serviço de Informação Científica e Técnica -, assegurar a informação documental e respectivo tratamento, necessários à acção da Direcção-Geral.
 
 2 - O Núcleo de Informação e Documentação manterá permanentemente informado o Serviço de Informação Científica e Técnica sobre o respectivo património documental.
 
-###### Art. 79.º São atribuições da Direcção de Serviços Técnicos:
+Art. 79.º São atribuições da Direcção de Serviços Técnicos:
 
 a) Proceder a estudos técnicos e científicos no domínio da prevenção de riscos profissionais;
 
@@ -864,7 +1219,7 @@ e) Actuar em estreita colaboração com as organizações de trabalhadores e com
 
 f) Promover a recolha, nos locais de trabalho, de amostras de matérias-primas, produtos manufacturados e substâncias susceptíveis de afectarem os trabalhadores, para os estudos julgados convenientes.
 
-###### Art. 80.º - 1 - A Direcção de Serviços Técnicos é dirigida por um director de serviços e compreende:
+Art. 80.º - 1 - A Direcção de Serviços Técnicos é dirigida por um director de serviços e compreende:
 
 a) A Divisão de Estudos e Investigação Aplicada;
 
@@ -872,7 +1227,7 @@ b) A Divisão de Prevenção Técnica.
 
 2 - O director de serviços é substituído, nas suas ausências e impedimentos, pelo funcionário que for designado para o efeito pelo director-geral, sob proposta daquele.
 
-###### Art. 81.º São atribuições da Divisão de Estudos e Investigação Aplicada:
+Art. 81.º São atribuições da Divisão de Estudos e Investigação Aplicada:
 
 a) Definir e executar programas de estudo e investigação, em especial no domínio dos poluentes físicos e químicos dos ambientes de trabalho e dos factores psico-sociais e fisiológicos, atinentes aos acidentes e doenças profissionais;
 
@@ -884,7 +1239,7 @@ d) Proceder a estudos epidemiológicos nos domínios dos acidentes de trabalho e
 
 e) Assegurar a articulação com o Serviço de Estatística do Ministério do Trabalho na recolha e tratamento de dados estatísticos relativos à prevenção de riscos profissionais.
 
-###### Art. 82.º São atribuições da Divisão de Prevenção Técnica:
+Art. 82.º São atribuições da Divisão de Prevenção Técnica:
 
 a) Proceder à avaliação das condições de trabalho e à detecção de riscos profissionais;
 
@@ -896,7 +1251,7 @@ d) Assegurar à Direcção-Geral, nomeadamente à Divisão de Estudos e Investig
 
 e) Apoiar a Divisão de Formação na realização de cursos através da colaboração dos seus técnicos como monitores.
 
-###### Art. 83.º São atribuições da Direcção de Serviços de Formação e de Divulgação:
+Art. 83.º São atribuições da Direcção de Serviços de Formação e de Divulgação:
 
 a) Fomentar e desenvolver acções formativas no campo da prevenção de riscos profissionais;
 
@@ -914,7 +1269,7 @@ g) Organizar exposições fixas e itinerantes, campanhas e outras acções adequ
 
 h) Promover publicações periódicas de carácter técnico formativo e informativo no domínio da prevenção de riscos profissionais, em coordenação com o Serviço de Informação Científica e Técnica.
 
-###### Art. 84.º - 1 - A Direcção de Serviços de Formação e Divulgação é dirigida por um director de serviços e compreende:
+Art. 84.º - 1 - A Direcção de Serviços de Formação e Divulgação é dirigida por um director de serviços e compreende:
 
 a) A Divisão de Formação;
 
@@ -922,7 +1277,7 @@ b) A Divisão de Divulgação.
 
 2 - O director de serviços é substituído, nas suas ausências e impedimentos, pelo funcionário que for designado para o efeito pelo director-geral, sob proposta daquele.
 
-###### Art. 85.º São atribuições da Divisão de Formação:
+Art. 85.º São atribuições da Divisão de Formação:
 
 a) Promover palestras, colóquios, seminários e outras acções de formação, no domínio da prevenção de riscos profissionais;
 
@@ -934,7 +1289,7 @@ d) Estudar e aplicar a metodologia mais adequada às diversas acções formativa
 
 e) Proceder à elaboração de textos, lições e outros apoios didácticos para as acções que lhe competem e promover a aquisição de meios áudio-visuais e outros suportes.
 
-###### Art. 86.º São atribuições da Divisão de Divulgação:
+Art. 86.º São atribuições da Divisão de Divulgação:
 
 a) Difundir, através de meios próprios ou de meios de comunicação social, textos e informações considerados de interesse para a prevenção de riscos profissionais, cartazes, gravuras e outro material gráfico destinado à sensibilização dos trabalhadores e das entidades patronais;
 
@@ -942,7 +1297,7 @@ b) Proceder à recolha triagem e avaliação de informações e manter um arquiv
 
 c) Proceder ao estudo e elaboração de trabalhos de redacção e de artes gráficas no âmbito da sua especialidade.
 
-###### Art. 87.º - 1 - Os serviços regionais da Direcção-Geral de Higiene e Segurança do Trabalho asseguram as atribuições gerais desta, na área respectiva, em conformidade com as directivas superiores.
+Art. 87.º - 1 - Os serviços regionais da Direcção-Geral de Higiene e Segurança do Trabalho asseguram as atribuições gerais desta, na área respectiva, em conformidade com as directivas superiores.
 
 2 - São criados os seguintes serviços regionais:
 
@@ -954,7 +1309,7 @@ c) A Divisão Regional do Sul.
 
 3 - A localização e a área de jurisdição dos serviços regionais serão fixadas por despacho do Ministro do Trabalho.
 
-###### Art. 88.º - 1 - A Direcção de Serviços Regionais do Norte é dirigida por um director de serviços e compreende:
+Art. 88.º - 1 - A Direcção de Serviços Regionais do Norte é dirigida por um director de serviços e compreende:
 
 a) A Divisão de Prevenção Técnica;
 
@@ -962,7 +1317,7 @@ b) A Divisão de Formação e Divulgação.
 
 2 - O director de serviços é substituído, nas suas faltas e impedimentos, pelo funcionário que for designado para o efeito pelo director-geral, sob proposta daquele.
 
-###### Art. 89.º - 1 - É criado, na directa dependência do director-geral, o Conselho Ergonómico, constituído por aquele, pelo director dos Serviços Técnicos, pelos chefes das Divisões de Prevenção Técnica e de Estudos e Investigação Aplicada e ainda por três técnicos da Direcção-Geral, designados pelo director-geral entre os que tenham formação em Ergonomia.
+Art. 89.º - 1 - É criado, na directa dependência do director-geral, o Conselho Ergonómico, constituído por aquele, pelo director dos Serviços Técnicos, pelos chefes das Divisões de Prevenção Técnica e de Estudos e Investigação Aplicada e ainda por três técnicos da Direcção-Geral, designados pelo director-geral entre os que tenham formação em Ergonomia.
 
 2 - O director-geral poderá, quando o julgar conveniente, convocar outros técnicos e convidar a participar nas reuniões pessoas de reconhecida competência na matéria.
 
@@ -974,17 +1329,17 @@ b) Propor que, em função das suas características, determinados estudos e tra
 
 ### CAPÍTULO VII — Do pessoal
 
-###### Art. 90.º - 1 - Os quadros e as carreiras do pessoal do Ministério, com excepção do quadro e das carreiras da Inspecção do Trabalho, são os constantes dos mapas anexos ao presente diploma, do qual fazem parte integrante.
+Art. 90.º - 1 - Os quadros e as carreiras do pessoal do Ministério, com excepção do quadro e das carreiras da Inspecção do Trabalho, são os constantes dos mapas anexos ao presente diploma, do qual fazem parte integrante.
 
 2 - A distribuição dos contingentes dos quadros de pessoal constantes dos mapas anexos será fixada por despacho do Ministro do Trabalho, de acordo com as necessidades de cada órgão ou serviço.
 
 3 - Sempre que as circunstâncias o justifiquem, pode a composição dos quadros ser alterada por portaria conjunta dos Ministros das Finanças e do Trabalho e do Secretário de Estado da Administração Pública.
 
-###### Art. 91.º O recrutamento de pessoal para lugares do quadro é efectuado em conformidade com as necessidades dos serviços e nos termos das regras estabelecidas nos artigos seguintes.
+Art. 91.º O recrutamento de pessoal para lugares do quadro é efectuado em conformidade com as necessidades dos serviços e nos termos das regras estabelecidas nos artigos seguintes.
 
-###### Art. 92.º Quando existam vagas de lugares do quadro de qualquer categoria que não possam ser preenchidos por falta de candidatos que reúnam as condições legais de promoção, poderá ser preenchido número igual de lugares de categorias mais baixas da respectiva carreira.
+Art. 92.º Quando existam vagas de lugares do quadro de qualquer categoria que não possam ser preenchidos por falta de candidatos que reúnam as condições legais de promoção, poderá ser preenchido número igual de lugares de categorias mais baixas da respectiva carreira.
 
-###### Art. 93.º - 1 - O provimento do pessoal dos quadros do Ministério será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 93.º - 1 - O provimento do pessoal dos quadros do Ministério será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2 - O provimento por nomeação, nos termos do número anterior, terá carácter provisório durante um período de dois anos, findo o qual o funcionário será nomeado definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, em caso contrário.
 
@@ -994,15 +1349,15 @@ b) Propor que, em função das suas características, determinados estudos e tra
 
 5 - Nos casos previstos no número anterior, salvo tratando-se de comissão de serviço em lugar de chefia, os funcionários serão providos definitivamente nos quadros do Ministério ou regressarão aos lugares de origem decorridos que sejam dois anos sobre o início da comissão de serviço.
 
-###### Art. 94.º O Ministro do Trabalho poderá autorizar que seja contratado, além dos quadros, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços do Ministério.
+Art. 94.º O Ministro do Trabalho poderá autorizar que seja contratado, além dos quadros, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços do Ministério.
 
-###### Art. 95.º - 1 - O Ministro do Trabalho poderá autorizar a requisição de pessoal de outros departamentos do Estado para prestar serviço nos órgãos e serviços do Ministério, verificado o acordo prévio do funcionário requisitado e do membro do Governo de que o mesmo dependa, fixando-lhe a respectiva remuneração, a abonar por verba apropriada do orçamento daqueles órgãos ou serviços.
+Art. 95.º - 1 - O Ministro do Trabalho poderá autorizar a requisição de pessoal de outros departamentos do Estado para prestar serviço nos órgãos e serviços do Ministério, verificado o acordo prévio do funcionário requisitado e do membro do Governo de que o mesmo dependa, fixando-lhe a respectiva remuneração, a abonar por verba apropriada do orçamento daqueles órgãos ou serviços.
 
 2 - O pessoal requisitado nos termos do número anterior abre vaga no serviço de origem, a qual, no entanto, só poderá ser preenchida interinamente.
 
 3 - O tempo de serviço prestado pelos funcionários requisitados contar-se-á, para todos os efeitos legais, como se fosse prestado no quadro de origem.
 
-###### Art. 96.º - 1 - Os lugares de secretário-geral e adjunto do secretário-geral, director e subdirector do Departamento de Estudos e Planeamento, director do Serviço de Organização e Gestão de Pessoal, director do Serviço de Estatística, director do Serviço de Informação Científica e Técnica, director do Serviço de Comunicação Social e Relações Públicas, inspector-geral, subinspector-geral, inspector superior, director-geral, subdirector-geral, director de serviços, director regional, delegado, delegado adjunto e subdelegado são providos em comissão de serviço por tempo indeterminado.
+Art. 96.º - 1 - Os lugares de secretário-geral e adjunto do secretário-geral, director e subdirector do Departamento de Estudos e Planeamento, director do Serviço de Organização e Gestão de Pessoal, director do Serviço de Estatística, director do Serviço de Informação Científica e Técnica, director do Serviço de Comunicação Social e Relações Públicas, inspector-geral, subinspector-geral, inspector superior, director-geral, subdirector-geral, director de serviços, director regional, delegado, delegado adjunto e subdelegado são providos em comissão de serviço por tempo indeterminado.
 
 2 - Os lugares de chefe de delegação e chefe de subdelegação da Inspecção do Trabalho são também providos em comissão de serviço por período não superior a seis anos na mesma delegação ou subdelegação.
 
@@ -1024,11 +1379,11 @@ b) Propor que, em função das suas características, determinados estudos e tra
 
 11 - Os subdelegados são escolhidos pelo Ministro do Trabalho, sob proposta do director regional respectivo com parecer do director-geral das Relações Colectivas de Trabalho, de entre os assistentes do quadro da Direcção-Geral com reconhecida capacidade para o desempenho das respectivas funções.
 
-###### Art. 97.º Na impossibilidade de provimento nos lugares referidos nos n.os 7 a 11 do artigo anterior, nos termos neles previstos, o Ministro do Trabalho escolherá os respectivos titulares, igualmente sob proposta, de entre indivíduos habilitados com licenciatura e experiência profissional adequadas ao exercício das correspondentes funções, dos quadros do Ministério ou fora deles, com preferência pelos primeiros.
+Art. 97.º Na impossibilidade de provimento nos lugares referidos nos n.os 7 a 11 do artigo anterior, nos termos neles previstos, o Ministro do Trabalho escolherá os respectivos titulares, igualmente sob proposta, de entre indivíduos habilitados com licenciatura e experiência profissional adequadas ao exercício das correspondentes funções, dos quadros do Ministério ou fora deles, com preferência pelos primeiros.
 
-###### Art. 98.º Os funcionários dos quadros da Administração Pública que forem providos em comissão de serviço no Ministério mantêm o lugar no quadro a que pertencem, contando-se, para todos os efeitos legais, o tempo de serviço prestado naquela situação como se o fosse no quadro de origem.
+Art. 98.º Os funcionários dos quadros da Administração Pública que forem providos em comissão de serviço no Ministério mantêm o lugar no quadro a que pertencem, contando-se, para todos os efeitos legais, o tempo de serviço prestado naquela situação como se o fosse no quadro de origem.
 
-###### Art. 99.º - 1 - Os chefes de divisão são providos, por nomeação ou em comissão de serviço, pelo Ministro do Trabalho, sob proposta do director de serviços com parecer do director-geral, quando o houver, de entre os funcionários da carreira técnica dos quadros do Ministério com formação específica e experiência comprovada para o exercício das correspondentes funções.
+Art. 99.º - 1 - Os chefes de divisão são providos, por nomeação ou em comissão de serviço, pelo Ministro do Trabalho, sob proposta do director de serviços com parecer do director-geral, quando o houver, de entre os funcionários da carreira técnica dos quadros do Ministério com formação específica e experiência comprovada para o exercício das correspondentes funções.
 
 2 - Os chefes de repartição são providos pelo Ministro do Trabalho, sob proposta do secretário-geral, do director do Serviço de Informação Científica e Técnica ou do inspector-geral do Trabalho, de entre:
 
@@ -1042,11 +1397,11 @@ a) Indivíduos habilitados com curso superior e experiência profissional adequa
 
 b) Primeiros-oficiais e técnicos auxiliares de 1.ª classe de comprovada experiência para o exercício das correspondentes funções e com, pelo menos, três anos de bom e efectivo serviço nessas categorias.
 
-###### Art. 100.º - 1 - Sem prejuízo do disposto nos n.os 1 a 5, 7 e 10 do artigo 96.º, o provimento nos lugares do quadro da Inspecção do Trabalho e as carreiras de inspecção são regulados nos termos do diploma legal específico previsto no artigo 53.º
+Art. 100.º - 1 - Sem prejuízo do disposto nos n.os 1 a 5, 7 e 10 do artigo 96.º, o provimento nos lugares do quadro da Inspecção do Trabalho e as carreiras de inspecção são regulados nos termos do diploma legal específico previsto no artigo 53.º
 
 2 - Do diploma legal específico referido no número anterior constará igualmente o quadro do pessoal da Inspecção do Trabalho.
 
-###### Art. 101.º O pessoal técnico do Ministério é recrutado de entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar pela seguinte forma:
+Art. 101.º O pessoal técnico do Ministério é recrutado de entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar pela seguinte forma:
 
 a) Técnicos assessores - por concurso documental e avaliação curricular, de entre os técnicos principais dos quadros do Ministério com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação;
 
@@ -1056,7 +1411,7 @@ c) Técnicos de 1.ª classe - por concurso documental e avaliação curricular, 
 
 d) Técnicos de 2.ª classe - por concurso documental, de entre os funcionários dos quadros do Ministério e de indivíduos a ele estranhos, com preferência pelos primeiros e pelos que possuírem estágios com aproveitamento ou especializações nas funções a que se destinam.
 
-###### Art. 102.º O pessoal técnico do quadro especial da Direcção-Geral das Relações Colectivas de Trabalho é recrutado de entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar, pela seguinte forma:
+Art. 102.º O pessoal técnico do quadro especial da Direcção-Geral das Relações Colectivas de Trabalho é recrutado de entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar, pela seguinte forma:
 
 a) Assistentes assessores - por concurso documental e avaliação curricular, de entre os primeiros-assistentes com, pelo menos, seis anos de bom e efectivo serviço na categoria, que tenham revelado capacidade de concepção, coordenação e orientação;
 
@@ -1066,7 +1421,7 @@ c) Segundos-assistentes - por concurso documenmental e avaliação curricular, d
 
 d) Terceiros-assistentes - por concurso documental, de entre os funcionários dos quadros do Ministério e de indivíduos a ele estranhos, com preferência pelos primeiros e pelos que possuírem estágios com aproveitamento ou especializações nas funções a que se destinem.
 
-###### Art. 103.º O pessoal técnico auxiliar dos quadros do Ministério é recrutado pela seguinte forma:
+Art. 103.º O pessoal técnico auxiliar dos quadros do Ministério é recrutado pela seguinte forma:
 
 a) Técnicos auxiliares principais - por concurso documental e avaliação curricular, de entre os técnicos auxiliares de 1.ª classe dos quadros do Ministério com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -1074,13 +1429,13 @@ b) Técnicos auxiliares de 1.ª classe - por concurso documental e avaliação c
 
 c) Técnicos auxiliares de 2.ª classe - por concurso documental, de entre os funcionários dos quadros do Ministério habilitados com o curso geral dos liceus ou equiparado e de indivíduos estranhos aos quadros com igual habilitação, com preferência pelos primeiros e pelos que possuírem estágios com aproveitamento ou especializações nas funções a que se destinam.
 
-###### Art. 104.º - 1 - Excepcionalmente, sem prejuízo das legítimas expectativas dos funcionários dos quadros, poderão ser recrutados directamente para lugares de acesso das carreiras técnica e técnica auxiliar, com respeito pelas habilitações referidas nos artigos 101.º, 102.º e 103.º, indivíduos de comprovada experiência profissional, mediante proposta fundamentada do responsável pelo serviço.
+Art. 104.º - 1 - Excepcionalmente, sem prejuízo das legítimas expectativas dos funcionários dos quadros, poderão ser recrutados directamente para lugares de acesso das carreiras técnica e técnica auxiliar, com respeito pelas habilitações referidas nos artigos 101.º, 102.º e 103.º, indivíduos de comprovada experiência profissional, mediante proposta fundamentada do responsável pelo serviço.
 
 2 - O disposto no número anterior não se aplica às categorias de técnico assessor e assistente assessor.
 
 3 - A experiência profissional referida no n.º 1 não poderá ter uma duração inferior ao período de progressão normal para atingir idêntica categoria segundo as regras de ingresso na respectiva carreira.
 
-###### Art. 105.º - 1 - O pessoal administrativo do quadro da Secretaria-Geral é recrutado pela seguinte forma:
+Art. 105.º - 1 - O pessoal administrativo do quadro da Secretaria-Geral é recrutado pela seguinte forma:
 
 a) Primeiros-oficiais - por concurso de provas escritas e práticas e avaliação curricular, de entre os segundo-oficiais do quadro da Secretaria-Geral habilitados com o curso geral dos liceus ou equiparado com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -1106,37 +1461,37 @@ i) Escriturários-dactilógrafos - por concurso de provas escritas e práticas d
 
 2 - O acesso dos escriturários-dactilógrafos às categorias de terceiro-oficial e segundo-oficial, de acordo com a norma estabelecida na alínea c) do número anterior, é feito sem prejuízo do exercício de funções de dactilografia.
 
-###### Art. 106.º - 1 - O recrutamento do pessoal operário para as categorias de ingresso de cada carreira, previstas nos quadros do Ministério, é feito, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória e experiência comprovada no exercício da função a desempenhar.
+Art. 106.º - 1 - O recrutamento do pessoal operário para as categorias de ingresso de cada carreira, previstas nos quadros do Ministério, é feito, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória e experiência comprovada no exercício da função a desempenhar.
 
 2 - O acesso dentro de cada carreira é feito, mediante concurso de provas práticas, de entre os funcionários dos quadros do Ministério da categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço nessa categoria.
 
 3 - O encarregado geral é recrutado de entre os funcionários do quadro do pessoal operário do Ministério da categoria mais elevada de cada carneira com, pelo menos, três anos de bom e efectivo serviço nessa categoria.
 
-###### Art. 107.º - 1 - O recrutamento do pessoal auxiliar do quadro da Secretaria-Geral é feito pela forma prevista na legislação geral.
+Art. 107.º - 1 - O recrutamento do pessoal auxiliar do quadro da Secretaria-Geral é feito pela forma prevista na legislação geral.
 
 2 - O pessoal a que se refere o número anterior situa-se na dependência funcional da Secretaria-Geral, mas depende hierarquicamente do responsável pelo serviço em que exerça funções.
 
-###### Art. 108.º Os funcionários que, à data da entrada em vigor do presente diploma, já possuam provimento definitivo em categorias que passam a ser providas apenas em comissão de serviço ou que não constem dos quadros gerais do Ministério ficam nessas categorias como supranumerários dos mesmos quadros, em lugares que se extinguirão logo que vaguem.
+Art. 108.º Os funcionários que, à data da entrada em vigor do presente diploma, já possuam provimento definitivo em categorias que passam a ser providas apenas em comissão de serviço ou que não constem dos quadros gerais do Ministério ficam nessas categorias como supranumerários dos mesmos quadros, em lugares que se extinguirão logo que vaguem.
 
-###### Art. 109.º - 1 - O tempo de serviço na categoria, para efeitos de futura promoção nos termos das regras constantes deste capítulo, em relação aos funcionários que sejam providos ao abrigo do artigo 113.º, conta-se a partir da data da entrada em vigor do presente diploma e do Regulamento da Inspecção do Trabalho.
+Art. 109.º - 1 - O tempo de serviço na categoria, para efeitos de futura promoção nos termos das regras constantes deste capítulo, em relação aos funcionários que sejam providos ao abrigo do artigo 113.º, conta-se a partir da data da entrada em vigor do presente diploma e do Regulamento da Inspecção do Trabalho.
 
 2 - Exceptua-se do disposto no número anterior o caso dos funcionários que, providos de acordo com o preceito nele referido, mantenham a mesma categoria, em relação aos quais, para efeito de futura promoção, conta todo o tempo de serviço prestado nessa categoria.
 
 3 - O pessoal provido nos termos do artigo 113.º terá direito ao vencimento pelos novos lugares com efeitos reportados a 1 de Março de 1978.
 
-###### Art. 110.º - 1 - Os funcionários da Secretaria-Geral, da Inspecção do Trabalho, da Direcção-Geral das Relações Colectivas de Trabalho e da Direcção-Geral de Higiene e Segurança do Trabalho que, por motivo de nomeação, promoção ou transferência por conveniência de serviço, hajam que mudar a sua residência para outra localidade terão direito ao pagamento integral das despesas efectuadas com o seu transporte e dos seus familiares, até ao limite de duas pessoas além do cônjuge e filhos, e bem assim o do respectivo mobiliário.
+Art. 110.º - 1 - Os funcionários da Secretaria-Geral, da Inspecção do Trabalho, da Direcção-Geral das Relações Colectivas de Trabalho e da Direcção-Geral de Higiene e Segurança do Trabalho que, por motivo de nomeação, promoção ou transferência por conveniência de serviço, hajam que mudar a sua residência para outra localidade terão direito ao pagamento integral das despesas efectuadas com o seu transporte e dos seus familiares, até ao limite de duas pessoas além do cônjuge e filhos, e bem assim o do respectivo mobiliário.
 
 2 - O pessoal indicado no número anterior terá ainda, dentro do mesmo condicionalismo, direito a um subsídio para despesas de instalação no valor máximo de 20000$00, a atribuir por despacho do Ministro do Trabalho.
 
 ### CAPÍTULO VIII — Disposições gerais e finais
 
-###### Art. 111.º As atribuições dos órgãos e serviços do Ministério, bem como as competências dos respectivos funcionários, serão regulamentadas em diploma legal específico.
+Art. 111.º As atribuições dos órgãos e serviços do Ministério, bem como as competências dos respectivos funcionários, serão regulamentadas em diploma legal específico.
 
-###### Art. 112.º - 1 - Salvo despacho de autorização do Ministro do Trabalho, é vedada aos funcionários do Ministério a prestação de serviços, a qualquer título, em associações sindicais ou patronais, com excepção, quanto às primeiras, das associações sindicais da função pública.
+Art. 112.º - 1 - Salvo despacho de autorização do Ministro do Trabalho, é vedada aos funcionários do Ministério a prestação de serviços, a qualquer título, em associações sindicais ou patronais, com excepção, quanto às primeiras, das associações sindicais da função pública.
 
 2 - A não observância do disposto no número anterior constitui infracção passível de procedimento disciplinar.
 
-###### Art. 113.º - 1 - O primeiro provimento do pessoal que, à data da entrada em vigor do presente diploma, se ache adstrito, a qualquer título, aos serviços do Ministério, nas categorias dos quadros anexos ao presente diploma e ao diploma específico da Inspecção do Trabalho, far-se-á de acordo com as normas estabelecidas por despacho do Ministro do Trabalho, sem prejuízo das seguintes regras:
+Art. 113.º - 1 - O primeiro provimento do pessoal que, à data da entrada em vigor do presente diploma, se ache adstrito, a qualquer título, aos serviços do Ministério, nas categorias dos quadros anexos ao presente diploma e ao diploma específico da Inspecção do Trabalho, far-se-á de acordo com as normas estabelecidas por despacho do Ministro do Trabalho, sem prejuízo das seguintes regras:
 
 a) Para qualquer lugar do quadro e com respeito pelas habilitações literárias exigidas no presente diploma;
 
@@ -1148,25 +1503,25 @@ c) Para lugar do quadro que integre as funções efectivamente exercidas pelo in
 
 3 - Enquanto não for efectuado o provimento previsto no n.º 1, o pessoal manterá a situação existente à data da entrada em vigor do presente diploma, com todos os direitos e competências dela decorrentes.
 
-###### Art. 114.º - 1 - O primeiro provimento previsto no n.º 1 do artigo anterior será feito mediante lista nominativa, aprovada pelo Ministro do Trabalho, donde conste a categoria em que cada funcionário fica provido.
+Art. 114.º - 1 - O primeiro provimento previsto no n.º 1 do artigo anterior será feito mediante lista nominativa, aprovada pelo Ministro do Trabalho, donde conste a categoria em que cada funcionário fica provido.
 
 2 - O provimento feito nos termos do número anterior produz todos os efeitos sem dependência de outros requisitos ou formalidades, salvo o visto do Tribunal de Contas e a publicação da correspondente lista nominativa no Diário da República.
 
-###### Art. 115.º - 1 - Os encargos emergentes da publicação do presente diploma serão suportados pelas dotações inscritas no orçamento do Ministério.
+Art. 115.º - 1 - Os encargos emergentes da publicação do presente diploma serão suportados pelas dotações inscritas no orçamento do Ministério.
 
 2 - Os ajustamentos e reforços que se tornam indispensáveis à cobertura das despesas previstas para o preenchimento dos lugares constantes dos quadros do pessoal dos mapas anexos serão efectuados com o acordo do Ministro das Finanças.
 
 3 - Enquanto não for assegurado o disposto no n.º 1 e sem prejuízo da produção de todos os efeitos decorrentes das normas do presente diploma, manter-se-á transitoriamente em vigor o regime de cobertura orçamental aplicável na data da sua publicação, o qual somente será alterado com o acordo do Ministro das Finanças.
 
-###### Art. 116.º - 1 - Enquanto não for definida a sua integração definitiva na orgânica do Estado, a Inspecção-Geral dos Tribunais do Trabalho, os tribunais do trabalho e as comissões de conciliação e julgamento continuarão afectos ao Ministério, regendo-se pelas disposições legais que actualmente lhes são aplicáveis.
+Art. 116.º - 1 - Enquanto não for definida a sua integração definitiva na orgânica do Estado, a Inspecção-Geral dos Tribunais do Trabalho, os tribunais do trabalho e as comissões de conciliação e julgamento continuarão afectos ao Ministério, regendo-se pelas disposições legais que actualmente lhes são aplicáveis.
 
 2 - De entre o pessoal em exercício de funções na Inspecção-Geral dos Tribunais do Trabalho e nas comissões de conciliação e julgamento na data da publicação do presente diploma, apenas será provido, nos termos do artigo 113.º, aquele que pertença, a qualquer título, a outros órgãos ou serviços do Ministério.
 
 3 - Ao restante pessoal referido ao número anterior, com preferência pelo que pertence ao quadro privativo das comissões de conciliação e julgamento, será dada prioridade nas futuras admissões nos serviços do Ministério.
 
-###### Art. 117.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro do Trabalho, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 117.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro do Trabalho, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 118.º São revogados os seguintes diplomas legais:
+Art. 118.º São revogados os seguintes diplomas legais:
 
 [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948;
 
@@ -1200,19 +1555,19 @@ Decreto-Lei n.º 617/76, de 27 de Julho;
 
 [Decreto-Lei n.º 59/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1977-141822), de 21 de Fevereiro.
 
-###### Art. 119.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 119.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - António Maldonado Gonelha.
 
-**Promulgado em 7 de Março de 1978.**
+Promulgado em 7 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapas a que se refere o artigo 90.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/06701/00020021.pdf))](https://files.diariodarepublica.pt/1s/1978/03/06701/00020021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/06701/00020021.pdf)
 
 ## ANEXO I — Lista das delegações e das subdelegações criadas no artigo 51.º, n.º 3, e no artigo 72.º, n.º 3
 
@@ -1314,4 +1669,4 @@ Subdelegação:
 
 Lamego.
 
-**O Ministro do Trabalho, António Manuel Maldonado Gonelha.**
+O Ministro do Trabalho, António Manuel Maldonado Gonelha.

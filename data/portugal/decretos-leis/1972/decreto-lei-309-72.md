@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1972-676439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1efd76effdf62f2cecc37076ea1bb42bbd4c2e6066ef8069057d05a6ebb490a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a5e8950bd705abd591c71fee507ec1bf12eccba85d47d3e0a18d47159337246
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Coordenação Económica
+- Direcção Geral do Comércio
+- Pessoal Técnico
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:41Z'
   warnings: []
   errors: []
 ---
@@ -89,20 +97,20 @@ Mostrando-se conveniente atribuir aos lugares de técnico da Direcção-Geral do
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º da artigo 109.º da Constituição, o Governo decreta a eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nos quadros do pessoal permanente e contratado da Direcção-Geral do Comércio e da Comissão de Coordenação Económica os lugares de técnico de 2.ª e 3.ª classes passam a ter a designação, respectivamente, de técnico de 1.ª a 2.ª classes, com os vencimentos correspondentes às categorias F e H, a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.Art.
+Artigo 1.º Nos quadros do pessoal permanente e contratado da Direcção-Geral do Comércio e da Comissão de Coordenação Económica os lugares de técnico de 2.ª e 3.ª classes passam a ter a designação, respectivamente, de técnico de 1.ª a 2.ª classes, com os vencimentos correspondentes às categorias F e H, a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.Art.
 
 2.º O provimento de lugares de técnico dos quadros referidos no artigo anterior far-se-á entre diplomados com curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 3.º O disposto no artigo 1.º é aplicável, independentemente de quaisquer formalidades, incluindo a visto do Tribunal de Contas, ao pessoal que, à data da vigência do presente diploma, pertença aos quadros a que se refere o mesmo preceito.
+Art. 3.º O disposto no artigo 1.º é aplicável, independentemente de quaisquer formalidades, incluindo a visto do Tribunal de Contas, ao pessoal que, à data da vigência do presente diploma, pertença aos quadros a que se refere o mesmo preceito.
 
-###### Art. 4.º Os encargos resultantes da execução deste decreto-lei serão suportados no ano económico corrente pelas disponibilidades das dotações orçamentais dos serviços respectivos, até que se proceda às correcções no orçamento que se mostrem convenientes.
+Art. 4.º Os encargos resultantes da execução deste decreto-lei serão suportados no ano económico corrente pelas disponibilidades das dotações orçamentais dos serviços respectivos, até que se proceda às correcções no orçamento que se mostrem convenientes.
 
-###### Art. 5.º Este diploma entra em vigor a partir do dia 1 do mês seguinte ao da sua publicação no Diário do Governo.
+Art. 5.º Este diploma entra em vigor a partir do dia 1 do mês seguinte ao da sua publicação no Diário do Governo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

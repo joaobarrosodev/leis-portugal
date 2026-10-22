@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10100/11091115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1982-393009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d08fcd11a9bab5e6a5ca16ec7a331b71096741924def8880fb05484562295c77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b4d75815b23682b62f30e28c090ed6e979b6819f1ec7876bf0ef5369e568918
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Planeamento Urbano
+- Política de Solos
+- Urbanismo
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:25345938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451440:por
+  label: "Alterados os artigos 2º, 6º, 9º, 11º, 12º, 14º, 19º e 20º pelo DEC LEI.210/83.23.05.1983.MQV, DR.IS [118] de 23.05.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1983-451440
+  date: '1983-05-23'
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, pelo DEC LEI.108/94.1994.04.23.MPLAT\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574334:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392997:por
+  label: Rectificado o art. 5º pela DECL.DD3176.1982.05.03.PCM, DR.IS [108] de 11/Mai/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-392997
+  date: '1982-05-03'
+- type: corrected_by
+  target: pt:dre:395767:por
+  label: Rectificado pela DECL.DD3464.1982.05.27.SG-PCM, DR.IS [134] de 14/Jun/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395767
+  date: '1982-05-27'
+- type: repealed_by
+  target: pt:dre:25345938:por
+  label: Revogado, a partir de 29.06.2014,o presente diploma, na redação do Dec Lei 210/83, de 23-maio, pela LEI.31/2014.30.05.2014.AR,
+    DR.IS [104] de 30.05.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2014-25345938
+  date: '2014-05-30'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:21Z'
   warnings: []
   errors: []
 ---
@@ -390,8 +435,8 @@ As dúvidas resultantes do presente decreto-lei serão resolvidas por despacho d
 
 Visto e aprovado em Conselho de Ministros de 9 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 23 de Abril de 1982.**
+Promulgado em 23 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

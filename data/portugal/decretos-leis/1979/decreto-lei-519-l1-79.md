@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 4º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3446-(92) a 3446-(95)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29904/00920095.pdf
 entry_into_force_dates: []
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-l1-1979-157061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3340d80a88ac5cd318b43c52919e3a108b6d86352e3b7834733d513c29fd1e46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e886dabd049577fd62e38745e91968821945d6372388d228e908475b46c0e4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Executiva
+- Comissão Regional de Turismo
+- Conselho Regional
+- Criação de Serviços
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Região de Turismo do ALTO Minho
+relationships:
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:19Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +184,7 @@ h) Coordenar e incentivar a acção dos serviços da Comissão Regional de Turis
 
 1 - O conselho regional tem a seguinte composição:
 
-**O presidente da Comissão Regional de Turismo, que presidirá;**
+O presidente da Comissão Regional de Turismo, que presidirá;
 
 Um representante de cada uma das câmaras municipais que integram a Região;
 
@@ -376,8 +400,8 @@ Em tudo e que não for contrário ao disposto no presente decreto-lei é aplicá
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Acácio Manuel Pereira Magro.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

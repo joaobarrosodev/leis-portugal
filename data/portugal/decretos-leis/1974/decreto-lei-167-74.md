@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1974-411336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b94b1a9ba1a99cba9af66280147dde268ebcdac45e3bcc6b9e35d762e100925
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54e5d6d4ed74a7763d368aa71e6e8f27ab8deb05737d73ab8454f8f6818e732e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aveiro
+- Contrato de Concessão
+- Definição de Competências
+- Exploração Portuária
+- Indústria da Construção Naval
+- Ministro das Comunicações
+relationships:
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:475923:por
+  label: Rectificado o anexo do presente diploma pela DECL.DD9010.18.07.1974.PCM, DG.IS [166] de 18.07.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-475923
+  date: '1974-07-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:47Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +124,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Governo autorizado a conceder, pelo Ministro das Comunicações, a exploração da doca seca do porto de Aveiro e do estaleiro em que se integra, destinados a reparações navais, a uma empresa a constituir nos termos do artigo 3.º
+Artigo 1.º Fica o Governo autorizado a conceder, pelo Ministro das Comunicações, a exploração da doca seca do porto de Aveiro e do estaleiro em que se integra, destinados a reparações navais, a uma empresa a constituir nos termos do artigo 3.º
 
-###### Art. 2.º A concessão será outorgada, mediante concurso, em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante e baixam assinadas pelo Ministro das Comunicações.
+Art. 2.º A concessão será outorgada, mediante concurso, em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante e baixam assinadas pelo Ministro das Comunicações.
 
-###### Art. 3.º A concessionária revestirá a forma de sociedade anónima de responsabilidade limitada e obedecerá na sua constituição ao disposto na [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, e artigos 21.º e seguintes do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
+Art. 3.º A concessionária revestirá a forma de sociedade anónima de responsabilidade limitada e obedecerá na sua constituição ao disposto na [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, e artigos 21.º e seguintes do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
-###### Art. 4.º O Governo reserva-se o direito de construir ou de autorizar que se construam na área da concessão outras docas secas, que poderão ser integradas na concessão outorgada, mediante contrato adicional.
+Art. 4.º O Governo reserva-se o direito de construir ou de autorizar que se construam na área da concessão outras docas secas, que poderão ser integradas na concessão outorgada, mediante contrato adicional.
 
-###### Art. 5.º - 1. A concessionária fruirá, relativamente ao objecto da concessão, dos seguintes benefícios fiscais:
+Art. 5.º - 1. A concessionária fruirá, relativamente ao objecto da concessão, dos seguintes benefícios fiscais:
 
 a) Isenção de todos os impostos e contribuições do Estado ou das autarquias locais, gerais ou especiais, por um período de dez anos, a contar da data do contrato de concessão;
 
@@ -117,15 +144,15 @@ b) Isenção de direitos de importação relativos aos materiais e equipamentos 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 11 de Abril de 1974.**
+Promulgado em 11 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
-## ANEXO AO DECRETO-LEI N.º 167/74
+ANEXO AO DECRETO-LEI N.º 167/74
 
 BASE I
 
@@ -509,4 +536,4 @@ BASE XXVII
 
 2. O tribunal arbitral julgará segundo a equidade e das suas decisões não cabe recurso.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

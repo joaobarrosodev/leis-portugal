@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13200/13141325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1981-578909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1391eaa78a334f1b131607460483bb03691d875aa6c2b1731de4d3f7f146b530
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c03fef7ada4196bf5097682d0902659e1cc36397238bb85a1a5bb6821afd4ba3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:661084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661084:por
+  label: "Revogado pelo DEC LEI.568/99.1999.12.23.MEPAT,DR.IS-A [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/568-1999-661084
+  date: '1999-12-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:46Z'
   warnings: []
   errors: []
 ---
@@ -108,21 +119,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Passagens de Nível (RPN), que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Passagens de Nível (RPN), que faz parte integrante do presente diploma.
 
-###### Art. 2.º - 1 - O presente diploma entra em vigor vinte dias após a sua publicação, exceptuando-se os artigos 10.º, 11.º, 15.º, 16.º e 17.º cuja aplicação terá lugar progressivamente, por decisão do caminho de ferro (CF), abrangendo quer passagens de nível (PN) isoladas quer conjuntos de passagens de nível integradas em programas periódicos.
+Art. 2.º - 1 - O presente diploma entra em vigor vinte dias após a sua publicação, exceptuando-se os artigos 10.º, 11.º, 15.º, 16.º e 17.º cuja aplicação terá lugar progressivamente, por decisão do caminho de ferro (CF), abrangendo quer passagens de nível (PN) isoladas quer conjuntos de passagens de nível integradas em programas periódicos.
 
 2 - A classificação ou reclassificação das PN, a efectuar pelo CF, sempre que implique encargos financeiros para o Estado, será submetida a prévia aprovação do Ministério da tutela e do Ministério das Finanças e do Plano.
 
 3 - Independentemente da origem do financiamento, deverá o CF dar prévio conhecimento ao Ministério da tutela das acções de reclassificação a empreender.
 
-###### Art. 3.º Os conjuntos de PN referidos no artigo anterior deverão ser reclassificados nos termos do RPN, nomeadamente quanto à tipologia, visibilidade, sinalização geral e equipamento.
+Art. 3.º Os conjuntos de PN referidos no artigo anterior deverão ser reclassificados nos termos do RPN, nomeadamente quanto à tipologia, visibilidade, sinalização geral e equipamento.
 
-###### Art. 4.º Enquanto não se proceder à sua reclassificação nos termos do presente diploma, as PN actualmente existentes classificam-se de acordo com o disposto no artigo 9.º do RPN, atendendo-se unicamente ao equipamento com que estão dotadas.
+Art. 4.º Enquanto não se proceder à sua reclassificação nos termos do presente diploma, as PN actualmente existentes classificam-se de acordo com o disposto no artigo 9.º do RPN, atendendo-se unicamente ao equipamento com que estão dotadas.
 
-###### Art. 5.º Qualquer PN que de futuro se construa deve obedecer ao preceituado no RPN.
+Art. 5.º Qualquer PN que de futuro se construa deve obedecer ao preceituado no RPN.
 
-###### Art. 6.º - 1 - Mantém-se em vigor o n.º 2 do artigo 25.º do Regulamento para a Exploração e Polícia dos Caminhos de Ferro, aprovado pelo [Decreto-Lei n.º 39780](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39780-1954-638760), de 21 de Agosto de 1954.
+Art. 6.º - 1 - Mantém-se em vigor o n.º 2 do artigo 25.º do Regulamento para a Exploração e Polícia dos Caminhos de Ferro, aprovado pelo [Decreto-Lei n.º 39780](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39780-1954-638760), de 21 de Agosto de 1954.
 
 2 - Mantém-se igualmente em vigor a legislação actualmente existente sobre PN e que regulamente matérias não contidas no presente RPN.
 
@@ -528,12 +539,12 @@ Das infracções verificadas é levantado o competente auto, nos termos e para o
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1981. - Basílio Adolfo Mendonça Horta da Franca. - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 6 de Maio de 1981.**
+Promulgado em 6 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13200/13141325.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13200/13141325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13200/13141325.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08300/07000700.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1976-502801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e066bd6484bbc6b961a6ac84ee86ed0f6f1c35dbda43bf8d332fe2d75b2412e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed8f70f90847d26d86c8930003af334250e6deb101086a725b3b6d879d6fc6af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento
+- Equiparação de Cargos
+- Pessoal de Justiça
+- Remuneração Acessória
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:419615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:39Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +119,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os ajudantes de escrivão dos tribunais do trabalho são equiparados, para efeitos de participação emolumentar, aos funcionários de idênticas categorias dos tribunais judiciais.
+Artigo 1.º Os ajudantes de escrivão dos tribunais do trabalho são equiparados, para efeitos de participação emolumentar, aos funcionários de idênticas categorias dos tribunais judiciais.
 
-###### Art. 2.º Os encargos a que der lugar a execução do presente diploma serão suportados pela receita prevista no artigo 152.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964.
+Art. 2.º Os encargos a que der lugar a execução do presente diploma serão suportados pela receita prevista no artigo 152.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964.
 
-###### Art. 3.º A participação emolumentar concedida pelo presente diploma será devida nos termos fixados no [Decreto-Lei n.º 274-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1975-443136), de 2 de Junho, e a partir de 1 de Março de 1976.
+Art. 3.º A participação emolumentar concedida pelo presente diploma será devida nos termos fixados no [Decreto-Lei n.º 274-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1975-443136), de 2 de Junho, e a partir de 1 de Março de 1976.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João Pedro Tomás Rosa - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

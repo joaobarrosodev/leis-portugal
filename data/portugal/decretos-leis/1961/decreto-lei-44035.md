@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44035-1961-181621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 580fa310455efec6ace5835e3334a478f157c6ab555888cf5296b31bb7e3096c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b1bdbfc9d1f5c44208ede860240bfdfdbbf2d7b3eba126bd1b4b6772ea91551
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Marinha
+- Militar
+- Missão Militar
+- Remuneração
+- Remuneração Acessória
+- Subsídio
+- Subsídio de Embarque
+relationships:
+- type: cites
+  target: pt:dre:190832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513827:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:56Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +111,14 @@ Tendo sido publicado o [Decreto-Lei n.º 43267](https://diariodarepublica.pt/dr/
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 2.º e o seu § único do [Decreto-Lei n.º 37705](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37705-1949-268382), de 30 de Dezembro de 1949, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º e o seu § único do [Decreto-Lei n.º 37705](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37705-1949-268382), de 30 de Dezembro de 1949, passam a ter a seguinte redacção:
 
-###### Art. 2.º Os vencimentos a abonar ao pessoal da Armada embarcado em navios mandados estacionar nas províncias ultramarinas, com excepção dos navios hidrográficos, e que não pertença as lotações dos comandos navais e das defesas marítimas, serão os estabelecidos na legislação em vigor e mais o complemento que se torne necessário para igualar os vencimentos totais desse pessoal aos atribuídos nos artigos 1.º, 2.º, 4.º e 10.º do [Decreto-Lei n.º 43267](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43267-1960-513827), de 24 de Outubro de 1960, aos militares da Armada de igual patente em serviço nos comandos navais ou das defesas marítimas da província em que estacionem.
+Art. 2.º Os vencimentos a abonar ao pessoal da Armada embarcado em navios mandados estacionar nas províncias ultramarinas, com excepção dos navios hidrográficos, e que não pertença as lotações dos comandos navais e das defesas marítimas, serão os estabelecidos na legislação em vigor e mais o complemento que se torne necessário para igualar os vencimentos totais desse pessoal aos atribuídos nos artigos 1.º, 2.º, 4.º e 10.º do [Decreto-Lei n.º 43267](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43267-1960-513827), de 24 de Outubro de 1960, aos militares da Armada de igual patente em serviço nos comandos navais ou das defesas marítimas da província em que estacionem.
 
 § único. Os vencimentos do pessoal embarcado a considerar para efeito da determinação do complemento de que trata este artigo são os vencimentos mensais e o subsídio de embarque e respectivo suplemento, quando esteja a ser abonado dos vencimentos normais previstos para o tempo de paz, e ainda a subvenção de campanha e a alimentação, quando se encontre abonado dos vencimentos estabelecidos pelo [Decreto-Lei n.º 30583](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30583-1940-190832), de 12 de Julho de 1940, tornado extensivo, na parte aplicável, aos militares da Armada pelo [Decreto-Lei n.º 31307](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31307-1941-329783), de 6 de Junho de 1941.
 
-###### Art. 2.º O abono do complemento de vencimentos estabelecido por este diploma é devido desde 1 de Maio de 1961.
+Art. 2.º O abono do complemento de vencimentos estabelecido por este diploma é devido desde 1 de Maio de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

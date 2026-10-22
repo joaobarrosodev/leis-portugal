@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/28100/31913201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1981-567461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee73bf295a75e1d318c2fd8bc9a1d6bbd09f4f9d329a62a4c6a557f3a0d5722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3384bf1982dddeba25137d4a698a3b19c50fb33b78e4df487c352b73fbf874c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Imprensa Nacional-Casa da Moeda
 relationships:
 - type: amended_by
   target: pt:dre:70686126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380756:por
+  label: "Alterados os arts. 4º, 36º e 43º, pelo DEC LEI.479/82.1982.12.23.MFP, DR.IS [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/479-1982-380756
+  date: '1982-12-23'
+- type: amended_by
+  target: pt:dre:209664:por
+  label: "Alterado o nº 4 e revogado o nº 5, ambos do art. 45º, pelo DEC LEI.33/98.1998.02.18.MF, DR.IS-A [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1998-209664
+  date: '1998-02-18'
+- type: amended_by
+  target: pt:dre:521595:por
+  label: "Aditado o nº 3 ao art. 4º, na redacção dada pelo Dec Lei 479/82, de 23-Dez, pelo DEC LEI.138/98.1998.05.16.MF DR.IS-A\
+    \ [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1998-521595
+  date: '1998-05-16'
+- type: amended_by
+  target: pt:dre:323949:por
+  label: "Alterada a natureza jur&#237;dica da Empresa P&#250;blica Imprensa Nacional-Casa da Moeda, E.P., pelo DEC LEI.170/99.1999.05.19.MF,\
+    \ DR.IS-A [116], que aprovou os novos estatutos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1999-323949
+  date: '1999-05-19'
+- type: cites
+  target: pt:dre:674416:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533271:por
+  label: "Revogado o nº 2 do art. 8º e os nºs. 2 e 3 do art. 9º, pelo DEC LEI.406/93.1993.12.14.PCM, DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1993-533271
+  date: '1993-12-14'
+- type: repealed_by
+  target: pt:dre:70686126:por
+  label: Revogado, a partir de 15.10.2015, o presente diploma, na redação dos Decs Leis 479/82 de 23-dez, 406/93 de 14-dez,
+    33/98 de 18-fev, e 138/98 de 16-mai, pelo(a) Decreto-Lei n.º 235/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2015-70686126
+  date: '2015-10-14'
 article_structure:
   article_count: 59
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:49Z'
   warnings: []
   errors: []
 ---
@@ -446,7 +485,7 @@ g) Apreciar a legalidade e pronunciar-se acerca da conveniência dos actos do co
 
 ###### Artigo 27.º — (Presidente da comissão de fiscalização)
 
-**O presidente da comissão de fiscalização terá voto de qualidade e a sua competência regular-se-á pelo disposto nas alíneas a), c) e h) do n.º 1 do artigo 19.º, com as necessárias adaptações.**
+O presidente da comissão de fiscalização terá voto de qualidade e a sua competência regular-se-á pelo disposto nas alíneas a), c) e h) do n.º 1 do artigo 19.º, com as necessárias adaptações.
 
 ###### Artigo 28.º — (Reuniões)
 
@@ -728,8 +767,8 @@ As dúvidas que se suscitarem na interpretação ou aplicação do presente esta
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Novembro de 1981.**
+Promulgado em 25 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/23-1985-182649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50fee0b62734a238c7ee5acf00154f9f20d2f0ac5093de46de08dc2e5e281715
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c07bd90000b8882630bcb10639eee35e7547677b7fdbac8b4756ec9af7fac13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contentor
+- Convenção
+- Portugal
+- Segurança no Trabalho
+- Transporte de Carga
 relationships:
 - type: amended_by
   target: pt:dre:495711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495711:por
+  label: "Aprovadas as emendas à Convenção aprovada no presente diploma, pelo DEC.3/94.26.01.1994.MNE, DR.IS-A [21] de 26.01.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-1994-495711
+  date: '1994-01-26'
+- type: corrected_by
+  target: pt:dre:267840:por
+  label: Rectificado pela DECL.DD5041.29.08.1985.PCM, DR.IS [200]2ºSupl de 31.08.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-267840
+  date: '1985-08-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:06Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +106,19 @@ de 12 de Julho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção Internacional sobre a Segurança de Contentores, de 1972, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovada para adesão a Convenção Internacional sobre a Segurança de Contentores, de 1972, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - José Veiga Simão - José de Almeida Serra.
 
-**Assinado em 3 de Julho de 1985.**
+Assinado em 3 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Julho de 1985.**
+Referendado em 5 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 INTERNATIONAL CONVENTION FOR SAFE CONTAINERS (CSC)(ver nota *)
 
@@ -520,7 +536,7 @@ APPENDIX
 
 The Safety Approval Plate, conforming to the model reproduced below, shall take the form of a permanent, non-corrosive, fire-proof rectangular plate measuring not less than 200 mm by 100 mm. The words «CSC Safety approval» of a minimum letter height of 8 mm and all other words and numbers of a minimum height of 5 mm shall be stamped into, embossed on or indicated on the surface of the Plate in any other permanent and legible way.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 1 - Country of Approval and Approval Reference as given in the example on line 1. (The country of Approval should be indicated by means of the distinguishing sign used to indicate country of registration of motor vehicles in international road traffic.)
 
@@ -570,11 +586,11 @@ The container, having the prescribed INTERNAL LOADING, shall be lifted in such a
 
 A) Lifting from corner fittings
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 B) Lifting by any other additional methods
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 Where containers are designed to be lifted in the loaded condition by any method not mentioned in A) or B) i) and ii), they shall also be tested with the INTERNAL LOADING AND EXTERNALLY APPLIED FORCES representative of the acceleration conditions appropriate to that method.
 
@@ -584,29 +600,29 @@ Where containers are designed to be lifted in the loaded condition by any method
 
 2 - On successful completion of this test the container may be rated for the allowable superimposed static stacking weight which should be indicated on the Safety Approval Plate against the heading «Allowable stacking weight for 1.8 g (kilogrammes end lbs)».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 3 - Concentrated loads
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 4 - Transverse racking
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 5 - Longitudinal restraint (static test)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 6 - End-walls
 
 The end-walls should be capable of withstanding a load of not less than 0.4 times the maximum permissible payload. If, however, the end-walls are designed to withstand a load of less or greater than 0.4 times maximum permissible payload such a strength factor shall be indicated on the Safety Approval Plate in accordance with Annex I, Regulation 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 7 - Side-walls
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 1983 amendments to annexes I and II of the International Convention for Safe Containers (CSC)(ver nota *)
 
@@ -688,15 +704,11 @@ Considerando que o melhor meio de se alcançar esse fim é a elaboração de uma
 
 ACORDARAM no seguinte:
 
-ARTIGO I
-
-Obrigação geral nos termos da presente Convenção
+###### ARTIGO I — Obrigação geral nos termos da presente Convenção
 
 As Partes Contratantes comprometem-se a dar efectivação às disposições da presente Convenção e seus Anexos, os quais constituem parte integrante da presente Convenção.
 
-ARTIGO II
-
-Definições
+###### ARTIGO II — Definições
 
 Para os fins de aplicação da presente Convenção, salvo expressa indicação em contrário:
 
@@ -748,9 +760,7 @@ A presente Convenção aplica-se igualmente quando uma parte de um transporte en
 
 16 - «Carga útil máxima admissível» ou «P» significa a diferença entre a massa bruta máxima de serviço e a tara.
 
-ARTIGO III
-
-Campo de aplicação
+###### ARTIGO III — Campo de aplicação
 
 1 - A presente Convenção aplica-se aos contentores novos e existentes utilizados no transporte internacional, com excepção dos que são especialmente concebidos para o transporte aéreo.
 
@@ -758,9 +768,7 @@ Campo de aplicação
 
 3 - Todo o contentor existente será aprovado em conformidade com as disposições relativas a contentores existentes enunciadas no Anexo I, nos 5 anos seguintes à data da entrada em vigor da presente Convenção.
 
-ARTIGO IV
-
-Ensaios inspecções, aprovação e manutenção
+###### ARTIGO IV — Ensaios inspecções, aprovação e manutenção
 
 1 - Para execução das disposições do Anexo I, cada Administração estabelecerá procedimentos eficazes de ensaios, inspecções e aprovações de contentores, conforme os critérios estabelecidos na presente Convenção; sempre que o entenda, poderá delegar estes ensaios, inspecções e aprovações em organizações por ela devidamente autorizadas.
 
@@ -772,25 +780,19 @@ Ensaios inspecções, aprovação e manutenção
 
 5 - Se um contentor aprovado não corresponder às regras dos Anexos I e II, a Administração tomará as medidas necessárias para que o contentor passe a estar conforme com aquelas regras ou para que lhe seja retirada a aprovação.
 
-ARTIGO V
-
-Aceitação de aprovação
+###### ARTIGO V — Aceitação de aprovação
 
 1 - A aprovação concedida nos termos da presente Convenção sob a responsabilidade de uma Parte Contratante será aceite pelas outras Partes Contratantes em tudo o que respeita aos objectivos da presente Convenção. Ela será considerada pelas outras Partes Contratantes com o mesmo valor como se a aprovação fosse concedida por elas próprias.
 
 2 - Uma Parte Contratante não imporá nenhuma outra prescrição nem nenhum outro ensaio relativo à segurança de construção dos contentores aos quais se aplique a presente Convenção; todavia, nenhuma disposição da presente Convenção exclui a aplicação de regulamentos ou leis nacionais ou acordos internacionais prescrevendo regras ou ensaios suplementares em matéria de segurança de construção dos contentores especialmente concebidos para o transporte de mercadorias perigosas, ou em matéria de segurança de construção dos elementos característicos dos contentores que transportam líquidos a granel, ou ainda em matéria de segurança de construção dos contentores quando eles são transportados por via aérea. A expressão «mercadorias perigosas» tem o sentido que lhe é dado pelos acordos internacionais.
 
-ARTIGO VI
-
-Fiscalização
+###### ARTIGO VI — Fiscalização
 
 1 - Todo o contentor que tenha sido aprovado conforme o artigo III fica sujeito, no território das Partes Contratantes, à fiscalização pelos funcionários devidamente autorizados por essas Partes. Esta fiscalização deve limitar-se à verificação da existência no contentor do placa de aprovação para fins de segurança exigida pela presente Convenção, dentro do prazo de validade, a menos que haja provas evidentes de que o estado do contentor revela riscos manifestos para a segurança. Neste caso, o funcionário encarregado da fiscalização apenas deve diligenciar de forma que sejam restauradas as condições de segurança do contentor antes de ele voltar a ser usado.
 
 2 - Quando se verificar que o contentor não satisfaz às prescrições de segurança, devido a um defeito que possa ter existido quando foi aprovado, a Administração responsável pela aprovação será informada pela Parte Contratante que detectou o defeito.
 
-ARTIGO VII
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### ARTIGO VII — Assinatura, ratificação, aceitação, aprovação e adesão
 
 1 - A presente Convenção estará aberta para assinatura até 15 de Janeiro de 1973, nas instalações das Nações Unidas em Genebra, e depois de 1 de Fevereiro de 1973 até 31 de Dezembro de 1973, inclusive, na sede da Organização em Londres, a todos os Estados Membros da Organização das Nações Unidas ou Membro de uma das suas agências especializadas ou da Agência Internacional de Energia Atómica ou Partes do Estatuto do Tribunal Internacional de justiça, e a qualquer outro Estado convidado pela Assembleia Geral da Organização das Nações Unidas a tornar-se Parte da presente Convenção.
 
@@ -800,9 +802,7 @@ Assinatura, ratificação, aceitação, aprovação e adesão
 
 4 - Os instrumentos de ratificação, aceitação, aprovação ou adesão devem ser depositados junto do Secretário-Geral da Organização (a seguir designado por «o Secretário-Geral»).
 
-ARTIGO VIII
-
-Entrada em vigor
+###### ARTIGO VIII — Entrada em vigor
 
 1 - A presente Convenção entrará em vigor 12 meses depois da data do depósito do décimo instrumento de ratificação, aceitação, aprovação ou adesão.
 
@@ -814,9 +814,7 @@ a) Parte da Convenção tal como ela foi emendada; e
 
 b) Parte da Convenção não emendada em relação a qualquer Parte da Convenção que não esteja ligada à emenda.
 
-ARTIGO IX
-
-Processo de emendas à totalidade ou parte da presente Convenção
+###### ARTIGO IX — Processo de emendas à totalidade ou parte da presente Convenção
 
 1 - A presente Convenção pode ser emendada sob proposta de uma Parte Contratante por um dos processos indicados no presente artigo.
 
@@ -832,9 +830,7 @@ c) Esta emenda entrará em vigor 12 meses depois da data em que ela foi aceite p
 
 Sob proposta de uma Parte Contratante apoiada por um mínimo de um terço das Partes Contratantes, será convocada pelo Secretário-Geral uma Conferência para a qual serão convidados os Estados referidos no artigo VII para examinar as emendas à presente Convenção.
 
-ARTIGO X
-
-Processo especial para emendas aos Anexos
+###### ARTIGO X — Processo especial para emendas aos Anexos
 
 1 - Qualquer emenda aos Anexos proposta por uma Parte Contratante será examinada pela Organização a pedido dessa Parte.
 
@@ -848,23 +844,17 @@ Processo especial para emendas aos Anexos
 
 6 - Quando o Comité de Segurança Marítima examine, mas não adopte, uma proposta de emenda aos Anexos, qualquer Parte Contratante pode requerer a convocação de uma conferência, para a qual serão convidados todos os Estados indicados no artigo VII. Logo que pelo menos um terço das outras Partes Contratantes tenham notificado a sua aprovação, o Secretário-Geral convocará uma conferência para examinar essa emenda aos Anexos.
 
-ARTIGO XI
-
-Denúncia
+###### ARTIGO XI — Denúncia
 
 1 - Qualquer Parte Contratante pode denunciar a presente Convenção por meio do depósito de um instrumento junto do Secretário-Geral. A denúncia será considerada efectiva 1 ano após a data deste depósito junto do Secretário-Geral.
 
 2 - Uma Parte Contratante que tenha comunicado uma objecção a uma emenda aos Anexos pode denunciar a presente Convenção e esta denúncia será considerada efectiva a partir da data da entrada em vigor dessa emenda.
 
-ARTIGO XII
-
-Extinção
+###### ARTIGO XII — Extinção
 
 A presente Convenção deixará de estar em vigor se o número das Partes Contratantes for inferior a cinco durante qualquer período de 12 meses consecutivos.
 
-ARTIGO XIII
-
-Resolução de diferendos
+###### ARTIGO XIII — Resolução de diferendos
 
 Qualquer diferendo entre duas ou mais Partes Contratantes relativo à interpretação ou aplicação da presente Convenção que não possa ser resolvido por negociações ou de uma outra forma será, a pedido de uma das Partes, submetido a um tribunal arbitral composto da seguinte maneira: cada uma das Partes em diferendo nomeará um árbitro e estes dois árbitros designarão um terceiro, que será o presidente do tribunal. Se, decorridos 3 meses sobre a entrada da petição, uma das Partes não tiver designado um árbitro, ou se os árbitros não tiverem escolhido um Presidente, qualquer destas Partes poderá pedir ao Secretário-Geral que nomeie um árbitro ou o Presidente do tribunal arbitral.
 
@@ -876,9 +866,7 @@ Qualquer diferendo entre duas ou mais Partes Contratantes relativo à interpreta
 
 5 - Qualquer dúvida que possa surgir entre as Partes em diferendo relativamente à interpretação e à execução da sentença arbitral poderá ser submetida por uma das Partes ao tribunal arbitral que pronunciou a sentença, a fim de este a julgar.
 
-ARTIGO XIV
-
-Reservas
+###### ARTIGO XIV — Reservas
 
 1 - As reservas à presente Convenção serão autorizadas, com excepção das relativas às disposições dos artigos I a VI, do artigo XIII, do presente artigo e dos anexos, com a condição de que tais reservas sejam comunicadas por escrito e, no caso de o serem antes do depósito do instrumento de ratificação, aceitação, aprovação ou adesão, que sejam confirmadas neste instrumento. O Secretário-Geral comunicará tais reservas a todos os Estados indicados no artigo VII.
 
@@ -890,9 +878,7 @@ b) Modifica estas disposições na mesma medida para as outras Partes Contratant
 
 3 - Qualquer Parte Contratante que tenha comunicado uma reserva de acordo com o parágrafo 1 pode retirá-la a todo o momento por notificação ao Secretário-Geral.
 
-ARTIGO XV
-
-Notificação
+###### ARTIGO XV — Notificação
 
 Além das notificações e comunicações previstas nos artigos IX, X e XIV, o Secretário-Geral notificará a todos os Estados indicados no artigo VII;
 
@@ -906,9 +892,7 @@ d) As denúncias de acordo com o artigo XI;
 
 e) A extinção da presente Convenção de acordo com o artigo XII.
 
-ARTIGO XVI
-
-Textos autênticos
+###### ARTIGO XVI — Textos autênticos
 
 O original da presente Convenção, cujos textos em chinês, espanhol, francês, inglês e russo são igualmente autênticos, será depositado junto do Secretário-Geral, que enviará cópias certificadas a todos os Estados indicados no artigo VII.
 
@@ -1090,11 +1074,11 @@ f) Outras indicações exigidas na placa de aprovação para fins de segurança;
 
 a Administração, após averiguação prévia, pode aprovar o contentor, não obstante as disposições do capítulo II. Quando se conceda a aprovação, esta será notificada por escrito ao proprietário e esta notificação autoriza-o a afixar a placa de aprovação para fins de segurança, depois de ter sido efectuado um exame ao contentor em causa em conformidade com a regra 2. O exame do contentor em causa e a afixação da placa de aprovação para fins de segurança devem ser efectuados em data não posterior a 1 de Janeiro de 1985.
 
-## APÊNDICE
+APÊNDICE
 
 A placa de aprovação para fins de segurança será conforme o modelo reproduzido a seguir. Apresentar-se-á sob a forma de uma placa rectangular, fixada de modo permanente, resistente à corrosão e ao fogo e medindo, pelo menos, 200 mm por 100 mm. Terá gravadas em entalhe ou em relevo, ou inscritas de maneira a ficarem permanentemente legíveis, as palavras «Aprovação CSC para fins de segurança» em caracteres de, pelo menos, 8 mm de altura; todos os outros caracteres ou algarismos devem ter, pelo menos, 5 mm de altura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15800/19711989.pdf)
 
 1 - País de aprovação e referência de aprovação como indicado no exemplo da linha 1 (o país de aprovação deve ser indicado por meio do sinal distintivo utilizado para indicar o país de registo dos veículos motorizados do tráfego rodoviário internacional).
 

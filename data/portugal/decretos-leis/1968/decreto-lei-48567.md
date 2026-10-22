@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48567-1968-265105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df676e065e6012c55003e3d5978dc3f1fe4f8c8c1bc7d039595ce50d412d39e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f497740a5b5e2e3fa57a2c49365b72377df6cf587c8d43b8f2fe6289cacee7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Junta de Energia Nuclear
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:341001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:29Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +108,9 @@ A inclusão, no conselho administrativo, dos elementos das direcções-gerais re
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O corpo do artigo 7.º, o corpo do artigo 8.º, o artigo 10.º, o artigo 20.º, o artigo 30.º e o artigo 37.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958, passam a ter a seguinte redacção:
+Artigo 1.º O corpo do artigo 7.º, o corpo do artigo 8.º, o artigo 10.º, o artigo 20.º, o artigo 30.º e o artigo 37.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958, passam a ter a seguinte redacção:
 
-###### Art. 7.º A comissão executiva é composta pelo presidente da Junta e pelos seguintes membros:
+Art. 7.º A comissão executiva é composta pelo presidente da Junta e pelos seguintes membros:
 
 a) O vice-presidente da Junta;
 
@@ -106,11 +120,11 @@ c) O representante do Ministério das Finanças no conselho consultivo;
 
 d) O chefe da Repartição de Contabilidade e Tesouraria dos Serviços Centrais.
 
-###### Art. 8.º O conselho administrativo é constituído pelo director dos Serviços Centrais, que preside, pelo chefe da Repartição de Contabilidade e Tesouraria dos Serviços Centrais, pelo chefe da Repartição Administrativa da Direcção-Geral dos Serviços de Prospecção e Exploração Mineira, pelo chefe da Repartição Administrativa do Laboratório de Física e Engenharia Nucleares e pelo chefe da Repartição Administrativa da Direcção-Geral de Combustíveis e Reactores Nucleares Industriais.
+Art. 8.º O conselho administrativo é constituído pelo director dos Serviços Centrais, que preside, pelo chefe da Repartição de Contabilidade e Tesouraria dos Serviços Centrais, pelo chefe da Repartição Administrativa da Direcção-Geral dos Serviços de Prospecção e Exploração Mineira, pelo chefe da Repartição Administrativa do Laboratório de Física e Engenharia Nucleares e pelo chefe da Repartição Administrativa da Direcção-Geral de Combustíveis e Reactores Nucleares Industriais.
 
 ...
 
-###### Art. 10.º Os serviços da Junta de Energia Nuclear são os seguintes:
+Art. 10.º Os serviços da Junta de Energia Nuclear são os seguintes:
 
 a) Direcção-Geral dos Serviços de Prospecção e Exploração Mineira, compreendendo o Gabinete, os Serviços Técnicos e a Repartição Administrativa;
 
@@ -124,7 +138,7 @@ e) Direcção dos Serviços Centrais, compreendendo a Repartição de Contabilid
 
 ...
 
-###### Art. 20.º Os serviços da Junta de Energia Nuclear serão desempenhados pelo seguinte pessoal, que constitui o seu quadro permanente:
+Art. 20.º Os serviços da Junta de Energia Nuclear serão desempenhados pelo seguinte pessoal, que constitui o seu quadro permanente:
 
 a) Director-geral dos Serviços de Prospecção e Exploração Mineira;
 
@@ -162,14 +176,14 @@ p) Quatro dactilógrafos.
 
 ...
 
-###### Art. 30.º Os adjuntos, a que se referem as alíneas d), e) e f) do artigo 20.º, terão direito ao vencimento correspondente à letra C do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885); o director a que se refere a alínea h) do mesmo artigo 20.º terá direito ao vencimento estabelecido no artigo 31.º, e os directores a que se referem as alíneas i) e j) do artigo 20.º terão direito ao vencimento correspondente à letra D da referida disposição.
+Art. 30.º Os adjuntos, a que se referem as alíneas d), e) e f) do artigo 20.º, terão direito ao vencimento correspondente à letra C do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885); o director a que se refere a alínea h) do mesmo artigo 20.º terá direito ao vencimento estabelecido no artigo 31.º, e os directores a que se referem as alíneas i) e j) do artigo 20.º terão direito ao vencimento correspondente à letra D da referida disposição.
 
 ...
 
-###### Art. 37.º O presidente e o vice-presidente da Junta e o pessoal constante das alíneas a) a h) do artigo 20.º terão o direito de visitar todas as minas, estabelecimentos industriais e laboratórios existentes em território português, podendo para tal fim solicitar às autoridades o auxílio que seja necessário.
+Art. 37.º O presidente e o vice-presidente da Junta e o pessoal constante das alíneas a) a h) do artigo 20.º terão o direito de visitar todas as minas, estabelecimentos industriais e laboratórios existentes em território português, podendo para tal fim solicitar às autoridades o auxílio que seja necessário.
 
-###### Art. 2.º O presente decreto-lei entra em vigor em 1 de Outubro de 1968.
+Art. 2.º O presente decreto-lei entra em vigor em 1 de Outubro de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

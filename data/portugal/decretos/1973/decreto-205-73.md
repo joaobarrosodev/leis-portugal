@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/205-1973-422021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6595bdb6a5e8132204e1ac227cd3ce025705f364986dcf1ec26e33f72ea39aa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0538c799081fcd8e17a742397297c2ad895886ec14460637185d28ad943efe19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:19Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +95,22 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo de Cabo Verde a prestar ao Banco de Fomento Nacional garantia do reembolso de um empréstimo de 20000 contos e respectivos juros, a contrair pela Frigorífica - Sociedade Frigorífica Exportadora (Cabo Verde), Lda., adiante designada por Frigorífica.
+Artigo 1.º - 1. É autorizado o Governo de Cabo Verde a prestar ao Banco de Fomento Nacional garantia do reembolso de um empréstimo de 20000 contos e respectivos juros, a contrair pela Frigorífica - Sociedade Frigorífica Exportadora (Cabo Verde), Lda., adiante designada por Frigorífica.
 
 2. Os fundos mutuados destinam-se à ampliação das instalações da Frigorífica na ilha de S. Vicente e à aquisição de novos barcos de pesca.
 
-###### Art. 2.º As cláusulas e condições que forem ajustadas para a concessão do empréstimo referido no artigo 1.º ficam sujeitas à prévia aprovação do Governo da província.
+Art. 2.º As cláusulas e condições que forem ajustadas para a concessão do empréstimo referido no artigo 1.º ficam sujeitas à prévia aprovação do Governo da província.
 
-###### Art. 3.º A Frigorífica, caso não possa efectuar, na data do respectivo vencimento, no todo ou em parte, qualquer pagamento de amortização ou de juros do empréstimo, dará do facto conhecimento ao Governo da província com a antecedência mínima de sessenta dias.
+Art. 3.º A Frigorífica, caso não possa efectuar, na data do respectivo vencimento, no todo ou em parte, qualquer pagamento de amortização ou de juros do empréstimo, dará do facto conhecimento ao Governo da província com a antecedência mínima de sessenta dias.
 
-###### Art. 4.º Pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto, a província de Cabo Verde gozará de privilégio mobiliário e imobiliário, nos mesmos termos dos créditos do Estado graduados, respectivamente, na alínea a) do n.º 1 do artigo 747.º e na alínea a) do artigo 748.º do Código Civil.
+Art. 4.º Pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto, a província de Cabo Verde gozará de privilégio mobiliário e imobiliário, nos mesmos termos dos créditos do Estado graduados, respectivamente, na alínea a) do n.º 1 do artigo 747.º e na alínea a) do artigo 748.º do Código Civil.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Abril de 1973.**
+Promulgado em 23 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

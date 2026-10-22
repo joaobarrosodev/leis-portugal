@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19000/10771077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1972-676421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a4b1ecf193b790353a963f1cc8a21e9cb974e88f8dece64f83cce529c33586
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc1e3cd0b6359863293fcfa9740549623d524d3233aa11f4cc68eca9763b5e47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Regional de Pesca
+- Conselho Técnico
+- Direcção Geral dos Serviços Florestais e Aquícolas
+- Fundo Especial de CAÇA e Pesca
+- Pesca
+- Pesca Desportiva
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:247981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247981:por
+  label: "Revogado pela LEI.7/2008.15.02.2008.AR, DR.IS [33] de 15.02.2008, a partir da entrada em vigor e nos termos do art.\
+    \ 42º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2008-247981
+  date: '2008-02-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:39Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +126,26 @@ Nestes termos, tendo em vista o estatuído no n.º 3 da base XI da [Lei n.º 209
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Passam a Constituir as Comissões Regionais de Pesca, além dos membros indicados no § 1.º do artigo 22.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro e 1962, um representante da Direcção-Geral do Turismo, um representante da Fundação Nacional para a Alegria no Trabalho (F. N. A. T.) e um representante das associações desportivas federadas que tenham a sua sede na respectiva área.
+Artigo 1.º - 1. Passam a Constituir as Comissões Regionais de Pesca, além dos membros indicados no § 1.º do artigo 22.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro e 1962, um representante da Direcção-Geral do Turismo, um representante da Fundação Nacional para a Alegria no Trabalho (F. N. A. T.) e um representante das associações desportivas federadas que tenham a sua sede na respectiva área.
 
 2. O representante das associações referidas no número precedente será designado entre os três pescadores desportivos que fazem parte da Comissão
 
-###### Art. 2.º - 1. Os membros das Comissões Regionais de Pesca têm direito a senhas de presença em cada sessão a que assistam do quantitativo legalmente fixado, à ajuda de custo correspondente aos vencimentos que se situam entre as letras C e F do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, quando outra mais elevada não lhes competir como funcionários, e a transportes nas condições legais.
+Art. 2.º - 1. Os membros das Comissões Regionais de Pesca têm direito a senhas de presença em cada sessão a que assistam do quantitativo legalmente fixado, à ajuda de custo correspondente aos vencimentos que se situam entre as letras C e F do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, quando outra mais elevada não lhes competir como funcionários, e a transportes nas condições legais.
 
 2. As importâncias respeitantes às senhas de presença são acumuláveis com os abonos percebidos pelo exercício de quaisquer funções no Estado, nos corpos administrativos, nas pessoas colectivas de utilidade pública administrativa e nos organismos de coordenação económica, com sujeição ao limite de vencimentos legalmente estabelecido.
 
-###### Art. 3.º - 1. As Comissões Regionais de Pesca serão secretariadas por um funcionário da Direcção-Geral dos Serviços Florestais e Aquícolas, a qual também se encarregará do expediente resultante do funcionamento das mesmas Comissões.
+Art. 3.º - 1. As Comissões Regionais de Pesca serão secretariadas por um funcionário da Direcção-Geral dos Serviços Florestais e Aquícolas, a qual também se encarregará do expediente resultante do funcionamento das mesmas Comissões.
 
 2. Ao funcionário referido no número anterior será atribuída uma gratificação mensal, a fixar pelo Secretário de Estado da Agricultura com a concordância do Ministro das Finanças.
 
-###### Art. 4.º A constituição da Secção Aquícola do Conselho Técnico da Direcção-Geral dos Serviços Florestais e Aquícolas, a que se refere a § 2.º do artigo 17.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, é acrescida com um representante da Direcção-Geral dos Serviços Industriais e um representante da Direcção- Geral de Saúde.
+Art. 4.º A constituição da Secção Aquícola do Conselho Técnico da Direcção-Geral dos Serviços Florestais e Aquícolas, a que se refere a § 2.º do artigo 17.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, é acrescida com um representante da Direcção-Geral dos Serviços Industriais e um representante da Direcção- Geral de Saúde.
 
-###### Art. 5.º As despesas emergentes da execução do presente diploma serão suportadas pela Fundo Especial de Caça e Pesca, nos termos do artigo 252.º do Decreto n.º 47847, de 14 de Agosto de 1967.
+Art. 5.º As despesas emergentes da execução do presente diploma serão suportadas pela Fundo Especial de Caça e Pesca, nos termos do artigo 252.º do Decreto n.º 47847, de 14 de Agosto de 1967.
 
 Visita e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

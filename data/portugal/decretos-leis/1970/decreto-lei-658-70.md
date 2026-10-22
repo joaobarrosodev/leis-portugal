@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/658-1970-154425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03b4e384d39f913a62b7a86c21b55ec20749060833d3d40a597674e6fdc27b20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6581d5bbcb62a6636a76c635d9b9da3558f54cf99ad11f4be6fba7bd4a37f2a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato
+- Obras Públicas
+- Prorrogação de Prazo
+- Subsídio
+- Teatro Nacional de DONA Maria II
+relationships:
+- type: cites
+  target: pt:dre:264290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509421:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:17Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +109,18 @@ Considerando, porém, que o estudo da situação financeira da Empresa Rey Cola�
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer come lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro da Educação Nacional, enquanto não estiverem concluídas as obras de reconstrução do edifício de Teatro Nacional de D. Maria II, a prorrogar o contrato, celebrado nos termos dos Decretos-Leis n.os 45251, de 18 de Setembro de 1963, e 46604, de 21 de Outubro de 1965, com a Empresa Rey Colaço-Robles Monteiro.
+Artigo 1.º É autorizado o Ministro da Educação Nacional, enquanto não estiverem concluídas as obras de reconstrução do edifício de Teatro Nacional de D. Maria II, a prorrogar o contrato, celebrado nos termos dos Decretos-Leis n.os 45251, de 18 de Setembro de 1963, e 46604, de 21 de Outubro de 1965, com a Empresa Rey Colaço-Robles Monteiro.
 
-###### Art. 2.º O subsídio a que se refere o artigo único do [Decreto-Lei n.º 47613](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47613-1967-509421), de 29 de Março de 1967, é elevado para 2500000$00.
+Art. 2.º O subsídio a que se refere o artigo único do [Decreto-Lei n.º 47613](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47613-1967-509421), de 29 de Março de 1967, é elevado para 2500000$00.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

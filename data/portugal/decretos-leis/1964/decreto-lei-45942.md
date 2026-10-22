@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45942-1964-538180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9789e58a610a7ff38f8c9c5bc9706887bbb31cb716851a4c0e5c09d9475192da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 721ea0f56c1b7569fab614d7f89aa1cbf619ae9e05679d1e7d40540496d5e39a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Central
+- Convenção
+- Direcção Geral dos Serviços Judiciários
+- Nova Iorque
+- Obrigação Alimentar
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:37Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +91,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção para a cobrança de alimentos no estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para adesão, a Convenção para a cobrança de alimentos no estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se e como nele se contém.**
+Publique-se e cumpra-se e como nele se contém.
 
 Paços do Governo da República, 28 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -325,7 +331,7 @@ Decididas a prever os meios que permitam resolver estes problemas e superar tais
 
 As Partes Contratantes acordam no que segue:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Objecto da Convenção
 
@@ -333,7 +339,7 @@ Objecto da Convenção
 
 2. Os meios de direito previstos na presente Convenção completam, sem os substituir, todos os outros existentes em direito interno ou em direito internacional.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Designação das instituições
 
@@ -345,7 +351,7 @@ Designação das instituições
 
 4. As autoridades expedidoras e as instituições intermediárias podem entrar directamente em contacto com as autoridades expedidoras e as instituições intermediárias das outras Partes Contratantes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Apresentação do pedido à autoridade expedidora
 
@@ -363,7 +369,7 @@ b) O nome completo do devedor e, na medida em que o credor tenha disso conhecime
 
 c) Uma exposição detalhada dos motivos em que se funda o pedido, do objecto deste, e toda e qualquer outra indicação pertinente, que se refira, designadamente, à situação financeira e familiar do credor e do devedor.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Transmissão do processo
 
@@ -373,7 +379,7 @@ Transmissão do processo
 
 3. A autoridade expedidora pode comunicar à instituição intermediária a sua opinião sobre o merecimento do pedido e recomendar que o credor beneficie de assistência judiciária e de isenção de custas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Transmissão de decisões e outros actos judiciais
 
@@ -383,7 +389,7 @@ Transmissão de decisões e outros actos judiciais
 
 3. O processo previsto no artigo 6.º pode ser, segundo a lei do Estado do devedor, um processo de exequátur ou de registo, ou então uma acção nova, fundada sobre a decisão transmitida por força do disposto no n.º 1.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Funções da instituição intermediária
 
@@ -393,7 +399,7 @@ Funções da instituição intermediária
 
 3. Não obstante as disposições da presente Convenção, a lei que rege aquelas acções e todas as questões com elas ligadas é a lei do Estado do devedor, designadamente o seu direito internacional privado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Cartas rogatórias
 
@@ -413,13 +419,13 @@ e) O cumprimento da carta rogatória não poderá ser recusado senão:
 
 2. Quando o Estado em cujo território o cumprimento devesse realizar-se o julgar atentatório da sua soberania ou da sua segurança.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Modificações das decisões judiciais
 
 As disposições da presente Convenção são também aplicáveis aos pedidos que visam modificar as decisões judiciais proferidas em matéria de obrigações de alimentos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Isenções e facilidades
 
@@ -429,13 +435,13 @@ Isenções e facilidades
 
 3. As autoridades expedidoras e as instituições intermediárias não poderão receber nenhuma remuneração pelos serviços que prestem, de acordo com as disposições da presente Convenção.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Transferências de fundos
 
 As Partes Contratantes cuja lei impõe restrições às transferências de fundos para o estrangeiro deverão conceder a máxima prioridade às transferências de fundos que se destinam a satisfazer prestações de alimentos ou a cobrir despesas ocasionadas por acções judiciais regidas pela presente Convenção.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Cláusula federal
 
@@ -447,13 +453,13 @@ b) No que toca aos artigos da presente Convenção cuja aplicação exige a acç
 
 c) Um Estado federal Parte na presente Convenção apresentará, a pedido de qualquer outra Parte Contratante, transmitido pelo secretário-geral, uma exposição da legislação e das práticas em vigor na federação e nas suas unidades constituintes no que toca a cada preceito da Convenção, indicando a medida em que foi atribuído efeito ao preceito em questão, mediante um acto legislativo ou de outra natureza.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Aplicação territorial
 
 As disposições da presente Convenção aplicam-se, nas mesmas condições, aos territórios não autónomos, sob tutela ou a todo e qualquer território cujas relações internacionais são asseguradas por uma Parte Contratante, a menos que esta, ao ratificar a presente Convenção ou a ela aderindo, declare que a Convenção não se aplicará a algum desses territórios. A Parte Contratante que tiver feito esta declaração poderá, em qualquer momento, por notificação dirigida ao secretário-geral, estender a aplicação da Convenção aos territórios assim excluídos ou a algum deles.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Assinatura, ratificação e adesão
 
@@ -463,7 +469,7 @@ Assinatura, ratificação e adesão
 
 3. Qualquer Estado mencionado no n.º 1 do presente artigo poderá, em qualquer momento, aderir à Convenção. Os instrumentos de adesão serão depositados junto do secretário-geral.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Entrada em vigor
 
@@ -471,7 +477,7 @@ Entrada em vigor
 
 2. A Convenção entrará em vigor, em relação a cada um dos Estados que a ratifique ou a ela adira após o depósito do terceiro instrumento de ratificação ou de adesão, no trigésimo dia, a contar da data do depósito por aquele Estado do seu instrumento de ratificação ou de adesão.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Denúncia
 
@@ -479,13 +485,13 @@ Denúncia
 
 2. A denúncia produzirá efeito um ano após a data em que a notificação for recebida pelo secretário-geral, tendo-se em atenção que não se aplicará às acções em curso no momento em que produzir efeito.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Resolução dos diferendos
 
 Se surgir um diferendo entre duas Partes Contratantes sobre a interpretação ou a aplicação da presente Convenção, e se não for resolvido por outras vias, deverá ser apresentado ao Tribunal Internacional de Justiça. Para tanto bastará ou a notificação de um acordo especial ou o pedido de uma das Partes do diferendo.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Reservas
 
@@ -493,13 +499,13 @@ Reservas
 
 2. Qualquer Parte Contratante pode retirar, em qualquer momento, uma reserva que tenha feito, devendo disso notificar o secretário-geral.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Reciprocidade
 
 Uma Parte Contratante não pode invocar as disposições da presente Convenção contra outras Partes Contratantes, a não ser na medida em que ela própria esteja ligada pela Convenção.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Notificações pelo secretário-geral
 
@@ -521,7 +527,7 @@ g) As reservas e notificações feitas de acordo com as disposições do artigo 
 
 2. O secretário-geral notificará, igualmente, a todas as Partes Contratantes os pedidos de revisão e as respostas dadas a estes pedidos por força do artigo 20.º
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Revisão
 
@@ -529,7 +535,7 @@ Revisão
 
 2. O secretário-geral transmitirá esta notificação a cada uma das Partes Contratantes convidando-a a manifestar-se, no prazo de quatro meses, sobre se é favorável à reunião de uma conferência que estude a revisão proposta. Se a maioria das Partes Contratantes responder afirmativamente, o secretário-geral convocará aquela conferência.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Depósito da Convenção e línguas
 

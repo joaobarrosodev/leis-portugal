@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/30300/18651873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49476-1969-213060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d8e2fd3cb9b5b31d957923d33dbb35007cd5e607efab79f59d5c190d887b5ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fcae9403f1851870ac83fa4e2540ff4aafe63c99bb898ff664c4df5cb35e751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Nacional
+- Câmara Corporativa
+- Comércio
+- Conselho de Administração
+- Conselho Fiscal
+- Criação de Empresas
+- Criação de Serviços
+- Definição de Competências
+- Diário do Governo
+- Diploma Legal
+- Empresa Pública
+- Estatuto
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Imprensa Nacional de Lisboa
+- Impresso
+- Integração de Serviços
+- Presidência do Conselho
+- Publicação
+- Secretário Geral
+- Serviços Sociais
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:674416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649919:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:674416:por
+  label: "Revogado pelo DEC LEI.225/72.04.07.1972.MI, DG.IS [154] de 04.07.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-1972-674416
+  date: '1972-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:17Z'
   warnings: []
   errors: []
 ---
@@ -235,11 +294,11 @@ ESTATUTO DA IMPRENSA NACIONAL
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. A Imprensa Nacional, abreviadamente I. N., passa a reger-se pelo disposto no presente diploma e nos regulamentos que venham a ser adoptados em sua execução.
+Artigo 1.º - 1. A Imprensa Nacional, abreviadamente I. N., passa a reger-se pelo disposto no presente diploma e nos regulamentos que venham a ser adoptados em sua execução.
 
 2. Nos casos omissos serão observadas, com as necessárias adaptações, as normas que regulam a actividade das empresas comerciais e a competência dos seus órgãos.
 
-###### Art. 2.º - 1. A I. N. é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio, e constitui uma empresa pública.
+Art. 2.º - 1. A I. N. é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio, e constitui uma empresa pública.
 
 2. A I. N. tem sede em Lisboa e exerce as suas funções em todo o território do continente e ilhas adjacentes.
 
@@ -247,7 +306,7 @@ ESTATUTO DA IMPRENSA NACIONAL
 
 ### CAPÍTULO II — Atribuições
 
-###### Art. 3.º Constituem atribuições da I. N.:
+Art. 3.º Constituem atribuições da I. N.:
 
 a) O exercício da actividade gráfica em regime de exploração industrial, especialmente para execução de trabalhos destinados a serviços do Estado e de outras entidades públicas;
 
@@ -255,7 +314,7 @@ b) O ensino das artes gráficas nas suas diversas modalidades, para preparação
 
 c) O desenvolvimento e elevação do nível técnico das artes gráficas no País, quer pelo aperfeiçoamento dos processos em uso, quer pela introdução de outros mais modernos e progressivos que possam melhorar qualitativa e quantitativamente a produção do respectivo ramo industrial.
 
-###### Art. 4.º No uso das atribuições a que se refere a alínea a) do artigo anterior, cabe à I. N.:
+Art. 4.º No uso das atribuições a que se refere a alínea a) do artigo anterior, cabe à I. N.:
 
 a) Editar:
 
@@ -285,11 +344,11 @@ b) Imprimir, embora não lhe pertençam as respectivas edições:
 
 c) Fundir caracteres e outros materiais tipográficos necessários à sua laboração e à das tipografias particulares, enquanto estas não possam ser fornecidas pela indústria privada nacional.
 
-###### Art. 5.º Com parecer favorável do conselho de administração, homologado pelo Ministro do Interior, poderão ser executados na I. N. trabalhos de interesse nacional encomendados por entidades particulares.
+Art. 5.º Com parecer favorável do conselho de administração, homologado pelo Ministro do Interior, poderão ser executados na I. N. trabalhos de interesse nacional encomendados por entidades particulares.
 
-###### Art. 6.º Para realização das atribuições a que se reporta a alínea b) do artigo 3.º, a I. N. manterá escolas onde será ministrado o ensino das várias especialidades das artes gráficas e adoptará ainda quaisquer outras medidas tendentes à boa preparação profissional dos seus servidores.
+Art. 6.º Para realização das atribuições a que se reporta a alínea b) do artigo 3.º, a I. N. manterá escolas onde será ministrado o ensino das várias especialidades das artes gráficas e adoptará ainda quaisquer outras medidas tendentes à boa preparação profissional dos seus servidores.
 
-###### Art. 7.º Para desempenho das atribuições a que alude a alínea c) do artigo 3.º, a I. N.:
+Art. 7.º Para desempenho das atribuições a que alude a alínea c) do artigo 3.º, a I. N.:
 
 a) Criará um centro de documentação e informação, no qual será reunida, ordenada e mantida sempre actualizada a bibliografia que for aparecendo no mercado sobre problemas do livro e da tecnologia das artes gráficas, constituída por tratados, compêndios, boletins, ensaios, revistas, artigos e quaisquer outras publicações;
 
@@ -297,27 +356,27 @@ b) Promoverá, por si só ou de colaboração com a Corporação da Imprensa e A
 
 c) Editará uma revista para divulgação das modernas técnicas e orientações adoptadas nas artes gráficas e utilizará ainda outros meios que possam servir o progresso das mesmas artes.
 
-###### Art. 8.º - 1. A I. N. continuará a dispor de biblioteca privativa, na qual será integrado e funcionará o centro de documentação e informação a que se refere o artigo anterior.
+Art. 8.º - 1. A I. N. continuará a dispor de biblioteca privativa, na qual será integrado e funcionará o centro de documentação e informação a que se refere o artigo anterior.
 
 2. Tanto a biblioteca como o centro poderão ser utilizados pelo público, para leitura e estudo das obras e documentos neles existentes, dentro das horas regulamentares.
 
 ### CAPÍTULO III — Administração e fiscalização
 
-###### Art. 9.º A I. N. é administrada e fiscalizada, respectivamente, pelos seguintes órgãos:
+Art. 9.º A I. N. é administrada e fiscalizada, respectivamente, pelos seguintes órgãos:
 
 a) Conselho de administração;
 
 b) Conselho fiscal.
 
-###### Art. 10.º - 1. O conselho de administração é constituído por três administradores, um dos quais será o presidente e os outros dois vogais, todos livremente nomeados pelo Ministro do Interior pelo período de cinco anos, renovável por iguais períodos, e isentos de caução.
+Art. 10.º - 1. O conselho de administração é constituído por três administradores, um dos quais será o presidente e os outros dois vogais, todos livremente nomeados pelo Ministro do Interior pelo período de cinco anos, renovável por iguais períodos, e isentos de caução.
 
 2. Quando a designação recair em funcionário público, as funções serão exercidas em regime de comissão de serviço.
 
 3. O presidente e os vogais do conselho de administração tomarão posse dos respectivos cargos perante o Ministro do Interior.
 
-###### Art. 11.º Nas suas faltas e impedimentos, o presidente será substituído por um dos administradores designado pelo Ministro do Interior.
+Art. 11.º Nas suas faltas e impedimentos, o presidente será substituído por um dos administradores designado pelo Ministro do Interior.
 
-###### Art. 12.º Compete ao presidente ou a quem legalmente o substituir:
+Art. 12.º Compete ao presidente ou a quem legalmente o substituir:
 
 a) Representar a I. N. em quaisquer actos ou contratos em que ela haja de intervir, podendo delegar a representação em um dos administradores ou em funcionário especialmente designado para o efeito;
 
@@ -329,13 +388,13 @@ d) Determinar o que seja necessário ao bom funcionamento e regularidade dos ser
 
 e) Desempenhar quaisquer outras funções que lhe sejam cometidas por lei ou disposição regulamentar.
 
-###### Art. 13.º - 1. O conselho de administração reúne, ordinàriamente, pelo menos, uma vez por semana e, extraordinàriamente, sempre que for convocado pelo presidente.
+Art. 13.º - 1. O conselho de administração reúne, ordinàriamente, pelo menos, uma vez por semana e, extraordinàriamente, sempre que for convocado pelo presidente.
 
 2. Para o conselho deliberar validamente é indispensável a presença de dois membros em exercício.
 
 3. As resoluções são tomadas por maioria.
 
-###### Art. 14.º Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção do estabelecimento e em especial:
+Art. 14.º Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção do estabelecimento e em especial:
 
 a) Autorizar a execução de trabalhos incluídos nas atribuições do estabelecimento, fixando, dentro das normas legais e regulamentares aplicáveis e sempre que possível de acordo com os respectivos destinatários, as condições a que a mesma execução deverá obedecer;
 
@@ -359,23 +418,23 @@ j) Estabelecer as condições e preços de venda dos impressos e demais publica�
 
 l) Celebrar contratos com os autores, editores ou titulares da respectiva propriedade de obras particulares cuja impressão ou reimpressão haja sido autorizada nos termos do artigo 5.º
 
-###### Art. 15.º Competem também ao conselho de administração todos os poderes necessários para assegurar a existência do estabelecimento, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento, a gestão do património e ainda o regular funcionamento dos serviços a seu cargo.
+Art. 15.º Competem também ao conselho de administração todos os poderes necessários para assegurar a existência do estabelecimento, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento, a gestão do património e ainda o regular funcionamento dos serviços a seu cargo.
 
-###### Art. 16.º Os lugares de administrador da I. N. são incompatíveis com o desempenho de quaisquer cargos ou funções noutros estabelecimentos ou empresas de artes gráficas ou de objectivos afins.
+Art. 16.º Os lugares de administrador da I. N. são incompatíveis com o desempenho de quaisquer cargos ou funções noutros estabelecimentos ou empresas de artes gráficas ou de objectivos afins.
 
-###### Art. 17.º - 1. Os membros do conselho de administração percebem ordenado mensal fixado pelo Ministro do Interior.
+Art. 17.º - 1. Os membros do conselho de administração percebem ordenado mensal fixado pelo Ministro do Interior.
 
 2. Terão, além disso, direito a participar nos lucros do estabelecimento, de harmonia com o disposto no presente diploma.
 
 3. O limite máximo anual da remuneração constituída pelo ordenado e participação nos lucros será fixado em Conselho de Ministros.
 
-###### Art. 18.º - 1. O conselho fiscal é constituído por um presidente e dois a quatro vogais, nomeados por portaria conjunta dos Ministros do Interior e das Finanças, por períodos de cinco anos, renováveis.
+Art. 18.º - 1. O conselho fiscal é constituído por um presidente e dois a quatro vogais, nomeados por portaria conjunta dos Ministros do Interior e das Finanças, por períodos de cinco anos, renováveis.
 
 2. O presidente e os vogais do conselho fiscal tomarão posse dos respectivos cargos perante o Ministro do Interior.
 
-###### Art. 19.º O conselho fiscal reúne, ordinàriamente, uma vez por trimestre e, extraordinàriamente, sempre que for convocado pelo presidente ou por quem suas vezes fizer, bem como a pedido do conselho de administração.
+Art. 19.º O conselho fiscal reúne, ordinàriamente, uma vez por trimestre e, extraordinàriamente, sempre que for convocado pelo presidente ou por quem suas vezes fizer, bem como a pedido do conselho de administração.
 
-###### Art. 20.º Compete ao conselho fiscal:
+Art. 20.º Compete ao conselho fiscal:
 
 a) Examinar o verificar, em qualquer momento, a contabilidade e os valores existentes em cofre;
 
@@ -385,97 +444,97 @@ c) Exercer as demais funções referidas no presente diploma e ainda as que por 
 
 d) Pronunciar-se sobre qualquer assunto de interesse para o estabelecimento que lhe seja submetido pelo conselho de administração.
 
-###### Art. 21.º - 1. Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá voto nos casos expressamente previstos no presente diploma.
+Art. 21.º - 1. Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá voto nos casos expressamente previstos no presente diploma.
 
 2. A assistência às reuniões do conselho de administração e as demais funções que cabem ao conselho fiscal, incluindo as de exame, serão asseguradas em regime de delegação por um ou dois dos seus membros, conforme a conveniência do serviço e segundo a escala que, para esse efeito, for estabelecida.
 
-###### Art. 22.º Aos membros do conselho fiscal será arbitrada, por despacho conjunto dos Ministros do Interior e das Finanças, uma gratificação mensal.
+Art. 22.º Aos membros do conselho fiscal será arbitrada, por despacho conjunto dos Ministros do Interior e das Finanças, uma gratificação mensal.
 
-###### Art. 23.º O conselho de administração porá à disposição do conselho fiscal os meios de acção indispensáveis ao exercício das suas atribuições.
+Art. 23.º O conselho de administração porá à disposição do conselho fiscal os meios de acção indispensáveis ao exercício das suas atribuições.
 
-###### Art. 24.º A administração da I. N. é autónoma, mas o Ministro do Interior poderá em qualquer momento mandar inspeccionar a contabilidade e o movimento de fundos do estabelecimento, tornando responsável a mesma administração pelos abusos ou faltas que tenha praticado.
+Art. 24.º A administração da I. N. é autónoma, mas o Ministro do Interior poderá em qualquer momento mandar inspeccionar a contabilidade e o movimento de fundos do estabelecimento, tornando responsável a mesma administração pelos abusos ou faltas que tenha praticado.
 
-###### Art. 25.º - 1. Como fiscal supremo da administração, cabe ao Ministro do Interior verificar se a I. N. cumpre as leis e regulamentos aplicáveis e satisfaz os objectivos que lhe respeitem.
+Art. 25.º - 1. Como fiscal supremo da administração, cabe ao Ministro do Interior verificar se a I. N. cumpre as leis e regulamentos aplicáveis e satisfaz os objectivos que lhe respeitem.
 
 2. A administração prestará ao Ministro todas as informações que este lhe requisite em matéria de serviço.
 
-###### Art. 26.º Das deliberações definitivas e executórias tomadas pelo conselho de administração cabe recurso contencioso, nos termos de direito, para o Supremo Tribunal Administrativo.
+Art. 26.º Das deliberações definitivas e executórias tomadas pelo conselho de administração cabe recurso contencioso, nos termos de direito, para o Supremo Tribunal Administrativo.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 27.º - 1. O pessoal dos quadros da I. N., quer funcionário, quer assalariado, continua sujeito ao regime jurídico dos servidores do Estado, com as modificações exigidas pela natureza específica da actividade industrial do estabelecimento, de harmonia com o disposto no presente diploma e nos demais preceitos aplicáveis, inclusive os constantes da orgânica interna dos serviços.
+Art. 27.º - 1. O pessoal dos quadros da I. N., quer funcionário, quer assalariado, continua sujeito ao regime jurídico dos servidores do Estado, com as modificações exigidas pela natureza específica da actividade industrial do estabelecimento, de harmonia com o disposto no presente diploma e nos demais preceitos aplicáveis, inclusive os constantes da orgânica interna dos serviços.
 
 2. Em matéria de impostos, o pessoal referido no n.º 1 deste artigo fica, até 31 de Dezembro de 1971, em situação idêntica à do funcionalismo público. Desde essa data até 31 de Dezembro de 1973, passará a estar sujeito a 50 por cento da tributação legal, após o que lhe será aplicada integralmente essa tributação.
 
-###### Art. 28.º - 1. Ao fixar as categorias e as remunerações do pessoal o conselho de administração terá em conta as condições impostas pela circunstância de se tratar, já de servidores do Estado, já de profissionais de estabelecimento gráfico, independentemente dos limites constantes da lei geral.
+Art. 28.º - 1. Ao fixar as categorias e as remunerações do pessoal o conselho de administração terá em conta as condições impostas pela circunstância de se tratar, já de servidores do Estado, já de profissionais de estabelecimento gráfico, independentemente dos limites constantes da lei geral.
 
 2. Além de parecer favorável do conselho fiscal, carece de homologação do Ministro do Interior a deliberação pela qual forem fixadas as categorias e remunerações a que alude o número antecedente.
 
-###### Art. 29.º A integração do pessoal actualmente ao serviço nas novas categorias adoptadas será feita por despacho do conselho de administração, após a homologação ministerial prevista na alínea f) do artigo 14.º, independentemente de quaisquer formalidades.
+Art. 29.º A integração do pessoal actualmente ao serviço nas novas categorias adoptadas será feita por despacho do conselho de administração, após a homologação ministerial prevista na alínea f) do artigo 14.º, independentemente de quaisquer formalidades.
 
-###### Art. 30.º - 1. Os assalariados da I. N. perceberão salário em relação a todos os dias, inclusive domingos.
+Art. 30.º - 1. Os assalariados da I. N. perceberão salário em relação a todos os dias, inclusive domingos.
 
 2. Além da percepção de ordenado e salário, o pessoal do estabelecimento, quando se verifique o condicionalismo previsto na alínea a) do n.º 3 do artigo 52.º, participará nos lucros de cada exercício dentro dos limites nela prescritos e nos termos que forem estabelecidos pelo conselho de administração em deliberação homologada pelo Ministro do Interior.
 
 3. Para estímulo e distinção dos melhores servidores do estabelecimento o conselho de administração, com parecer favorável do conselho fiscal, poderá atribuir prémios de produção e de assiduidade, em numerário, nas condições que para tal fim forem estabelecidas.
 
-###### Art. 31.º - 1. Todo o pessoal será contratado ou assalariado pelo conselho de administração dentro das respectivas dotações orçamentais e na medida das necessidades do estabelecimento.
+Art. 31.º - 1. Todo o pessoal será contratado ou assalariado pelo conselho de administração dentro das respectivas dotações orçamentais e na medida das necessidades do estabelecimento.
 
 2. Os servidores com provimento vitalício actualmente ao serviço conservam esta situação ainda que, por força da integração a que se refere o artigo 29.º, venham a ser colocados em lugares diferentes daqueles de que agora são titulares.
 
 3. O limite de idade para a admissão a lugares de acesso é o estabelecido na lei geral. O pessoal contratado ou assalariado, enquanto ao serviço, não está sujeito àquele limite para o acesso a outros lugares do estabelecimento.
 
-###### Art. 32.º - 1. Os candidatos aprovados em concurso para ingresso na I. N., quer como contratados, quer como assalariados, poderão começar logo a prestar serviço no estabelecimento na base de simples ajuste verbal enquanto não forem ultimadas as formalidades necessárias aos provimentos normais dos cargos que vão ocupar.
+Art. 32.º - 1. Os candidatos aprovados em concurso para ingresso na I. N., quer como contratados, quer como assalariados, poderão começar logo a prestar serviço no estabelecimento na base de simples ajuste verbal enquanto não forem ultimadas as formalidades necessárias aos provimentos normais dos cargos que vão ocupar.
 
 2. O tempo de serviço prestado na situação referida no número anterior será contado para todos os efeitos, inclusive o de aposentação.
 
-###### Art. 33.º Independentemente do disposto nos dois artigos anteriores, pode o conselho de administração, sem dependência de quaisquer formalidades, ajustar a prestação de serviços profissionais ou técnicos, por certo tempo ou para determinadas tarefas, nas condições a fixar em cada caso pelo mesmo conselho.
+Art. 33.º Independentemente do disposto nos dois artigos anteriores, pode o conselho de administração, sem dependência de quaisquer formalidades, ajustar a prestação de serviços profissionais ou técnicos, por certo tempo ou para determinadas tarefas, nas condições a fixar em cada caso pelo mesmo conselho.
 
-###### Art. 34.º - 1. O quantitativo das pensões de aposentação dos servidores da I. N. será calculado nos termos da lei geral.
+Art. 34.º - 1. O quantitativo das pensões de aposentação dos servidores da I. N. será calculado nos termos da lei geral.
 
 2. As remunerações que vierem a ser atribuídas às várias categorias do pessoal a partir de 1 de Janeiro de 1970 servirão de base para o cálculo da respectiva pensão nas aposentações requeridas ou impostas a partir daquela data.
 
 3. A formalidade a que se refere o artigo 35.º do Decreto com força de lei n.º l6669, de 27 de Março de 1929, será substituída pela notificação directa aos interessados e aos serviços competentes.
 
-###### Art. 35.º - 1. A I. N. promoverá cursos de aperfeiçoamento profissional dos seus servidores, a cargo de funcionários do estabelecimento designados pela administração ou de pessoal docente a ele estranho contratado para o efeito.
+Art. 35.º - 1. A I. N. promoverá cursos de aperfeiçoamento profissional dos seus servidores, a cargo de funcionários do estabelecimento designados pela administração ou de pessoal docente a ele estranho contratado para o efeito.
 
 2. A administração, quando o julgue conveniente, poderá ainda promover que os servidores da I. N. frequentem cursos e estágios externos.
 
-###### Art. 36.º O bom aproveitamento, tanto nos cursos a que se refere o artigo anterior, como nas escolas de aprendizagem, a que alude o artigo 6.º, será um dos factores a considerar na promoção dos servidores do estabelecimento.
+Art. 36.º O bom aproveitamento, tanto nos cursos a que se refere o artigo anterior, como nas escolas de aprendizagem, a que alude o artigo 6.º, será um dos factores a considerar na promoção dos servidores do estabelecimento.
 
-###### Art. 37.º As alterações que o Governo eventualmente venha a introduzir nas remunerações do funcionalismo e demais servidores do Estado não serão extensivas ao pessoal da I. N.
+Art. 37.º As alterações que o Governo eventualmente venha a introduzir nas remunerações do funcionalismo e demais servidores do Estado não serão extensivas ao pessoal da I. N.
 
 ### CAPÍTULO V — Gestão financeira
 
-###### Art. 38.º - 1. A I. N. organizará para cada ano económico o seu orçamento, pelo qual será disciplinada toda a sua gestão financeira.
+Art. 38.º - 1. A I. N. organizará para cada ano económico o seu orçamento, pelo qual será disciplinada toda a sua gestão financeira.
 
 2. Na organização do seu orçamento a I. N., além de observar tanto quanto possível as normas que regulam o Orçamento Geral do Estado, terá em devida conta os objectivos industriais a prosseguir pelo estabelecimento e as necessidades da respectiva exploração.
 
-###### Art. 39.º O orçamento da I. N. para cada ano económico será publicado na parte complementar do Orçamento Geral do Estado e as alterações que lhe forem introduzidas insertas no Diário do Governo.
+Art. 39.º O orçamento da I. N. para cada ano económico será publicado na parte complementar do Orçamento Geral do Estado e as alterações que lhe forem introduzidas insertas no Diário do Governo.
 
-###### Art. 40.º Dependem de deliberação do conselho de administração as transferências de verbas orçamentais, e de deliberação do mesmo conselho, com parecer favorável do conselho fiscal, a abertura de créditos especiais e o reforço de dotações orçamentais, com compensação em excesso de receitas a cobrar, relativamente à previsão feita.
+Art. 40.º Dependem de deliberação do conselho de administração as transferências de verbas orçamentais, e de deliberação do mesmo conselho, com parecer favorável do conselho fiscal, a abertura de créditos especiais e o reforço de dotações orçamentais, com compensação em excesso de receitas a cobrar, relativamente à previsão feita.
 
-###### Art. 41.º - 1. Na execução do orçamento será assegurada pelos órgãos da I. N. a fiscalização da arrecadação das receitas e a regularidade da realização das despesas.
+Art. 41.º - 1. Na execução do orçamento será assegurada pelos órgãos da I. N. a fiscalização da arrecadação das receitas e a regularidade da realização das despesas.
 
 2. Na celebração de despesas vigorará o princípio da prévia autorização, dependente da existência de cabimento na respectiva dotação orçamental.
 
-###### Art. 42.º A I. N., mantendo embora a sua escrita orçamental, organizará a sua contabilidade em obediência às regras de gestão empresarial, tendo em vista a fiscalização a que se refere o n.º 1 do artigo anterior e ainda os objectivos e necessidades a que se reporta o n.º 2 do artigo 38.º
+Art. 42.º A I. N., mantendo embora a sua escrita orçamental, organizará a sua contabilidade em obediência às regras de gestão empresarial, tendo em vista a fiscalização a que se refere o n.º 1 do artigo anterior e ainda os objectivos e necessidades a que se reporta o n.º 2 do artigo 38.º
 
-###### Art. 43.º - 1. A I. N. arrecadará as receitas provenientes da exploração industrial do estabelecimento, da prestação de outros serviços a seu cargo e dos rendimentos dos bens que possua.
+Art. 43.º - 1. A I. N. arrecadará as receitas provenientes da exploração industrial do estabelecimento, da prestação de outros serviços a seu cargo e dos rendimentos dos bens que possua.
 
 2. A I. N. pagará ao Estado a renda de 1 por cento sobre a receita cobrada da sua exploração. Esta renda constituirá encargo da conta correspondente e será liquidada mensalmente.
 
-###### Art. 44.º - 1. A I. N. pode contrair empréstimos a longo prazo em estabelecimentos bancários ou mediante a emissão de obrigações.
+Art. 44.º - 1. A I. N. pode contrair empréstimos a longo prazo em estabelecimentos bancários ou mediante a emissão de obrigações.
 
 2. Os empréstimos a que se refere o número anterior só podem ser contraídos para realização de empreendimentos reprodutivos, aquisição e ampliação de prédios destinados às actividades do estabelecimento e ainda para consolidação de créditos anteriormente obtidos.
 
 3. Os empréstimos de que trata este artigo só podem ser contraídos mediante autorização conjunta dos Ministros do Interior e das Finanças, dada em portaria, na qual será fixado o plano e demais condições da respectiva aplicação.
 
-###### Art. 45.º - 1. A I. N. poderá igualmente contrair empréstimos a curto e a médio prazo em estabelecimentos bancários nacionais para antecipação de receitas, aquisição de material ou maneio de tesouraria.
+Art. 45.º - 1. A I. N. poderá igualmente contrair empréstimos a curto e a médio prazo em estabelecimentos bancários nacionais para antecipação de receitas, aquisição de material ou maneio de tesouraria.
 
 2. Os empréstimos a que se refere o número anterior serão contraídos por deliberação do conselho de administração, com parecer favorável do conselho fiscal.
 
-###### Art. 46.º - 1. A I. N. manterá os seguintes fundos permanentes:
+Art. 46.º - 1. A I. N. manterá os seguintes fundos permanentes:
 
 a) Fundo de reserva;
 
@@ -485,25 +544,25 @@ b) Fundo de renovação.
 
 3. O fundo de renovação tem por fim custear os investimentos a realizar nas instalações, no equipamento das oficinas e demais serviços.
 
-###### Art. 47.º O fundo de reserva é constituído pela percentagem dos lucros de cada exercício que lhe for destinada nos termos do artigo 52.º e pelo rendimento dos valores que lhe pertencerem.
+Art. 47.º O fundo de reserva é constituído pela percentagem dos lucros de cada exercício que lhe for destinada nos termos do artigo 52.º e pelo rendimento dos valores que lhe pertencerem.
 
-###### Art. 48.º Constituem o fundo de renovação:
+Art. 48.º Constituem o fundo de renovação:
 
 a) A percentagem dos lucros de cada exercício que lhe for destinada pelo conselho de administração e os rendimentos dos bens que lhe pertencerem;
 
 b) O produto da venda de bens considerados dispensáveis aos serviços.
 
-###### Art. 49.º - 1. Os recursos que constituam os fundos da I. N. podem aplicar-se em títulos de crédito, depósitos a prazo ou amortização de empréstimos. A compra e venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com parecer favorável do conselho fiscal.
+Art. 49.º - 1. Os recursos que constituam os fundos da I. N. podem aplicar-se em títulos de crédito, depósitos a prazo ou amortização de empréstimos. A compra e venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com parecer favorável do conselho fiscal.
 
 2. A parte do fundo de reserva representada por dinheiro poderá ser utilizada no maneio dos serviços de tesouraria.
 
 3. Quando as disponibilidades aludidas no número anterior não sejam suficientes para o efeito nele previsto, poderá o conselho de administração, com parecer favorável do conselho fiscal, utilizar nesse giro a parte dos recursos em dinheiro do fundo de renovação que, sem prejuízo da realização da sua função específica, possa ser assim empregada.
 
-###### Art. 50.º As disponibilidades do estabelecimento em numerário sem aplicação imediata serão depositadas à ordem da I. N. na Caixa Geral de Depósitos.
+Art. 50.º As disponibilidades do estabelecimento em numerário sem aplicação imediata serão depositadas à ordem da I. N. na Caixa Geral de Depósitos.
 
-###### Art. 51.º O produto das vendas de impressos do estabelecimento efectuadas através das tesourarias da Fazenda Pública ou de quaisquer outros serviços oficiais será depositado na Caixa Geral de Depósitos ou suas agências, à ordem da I. N., até ao dia 10 do mês seguinte àquele a que as mesmas vendas disserem respeito.
+Art. 51.º O produto das vendas de impressos do estabelecimento efectuadas através das tesourarias da Fazenda Pública ou de quaisquer outros serviços oficiais será depositado na Caixa Geral de Depósitos ou suas agências, à ordem da I. N., até ao dia 10 do mês seguinte àquele a que as mesmas vendas disserem respeito.
 
-###### Art. 52.º - 1. Quando a conta «Ganhos e perdas» de um exercício encerre com lucros, o conselho de administração, com voto favorável do conselho fiscal, atribuirá, obrigatòriamente: 5 por cento ao fundo de reserva e 20 por cento ao Estado a título de participação nos lucros da empresa, dispondo do remanescente na forma dos números seguintes.
+Art. 52.º - 1. Quando a conta «Ganhos e perdas» de um exercício encerre com lucros, o conselho de administração, com voto favorável do conselho fiscal, atribuirá, obrigatòriamente: 5 por cento ao fundo de reserva e 20 por cento ao Estado a título de participação nos lucros da empresa, dispondo do remanescente na forma dos números seguintes.
 
 2. Se a diminuta importância do lucro ou as previsões do próximo exercício o aconselharem, será levado o remanescente a conta nova.
 
@@ -517,29 +576,29 @@ c) O restante reverterá para o Estado.
 
 4. No caso de a conta saldar com prejuízo que o fundo de reserva não possa suportar, será o mesmo levado à conta do exercício seguinte.
 
-###### Art. 53.º - 1. O relatório e contas do conselho de administração e o parecer do conselho fiscal serão publicados no Diário do Governo e num jornal diário da capital.
+Art. 53.º - 1. O relatório e contas do conselho de administração e o parecer do conselho fiscal serão publicados no Diário do Governo e num jornal diário da capital.
 
 2. A publicação num jornal diário poderá ser substituída pela reprodução em folheto, a distribuir gratuitamente, com a tiragem de, pelo menos, cinco mil exemplares.
 
-###### Art. 54.º A I. N. conservará em arquivo os elementos da sua escrita principal e a correspondência pelo prazo de vinte anos. Nos demais casos poderá a administração ordenar a inutilização dos documentos decorridos três anos.
+Art. 54.º A I. N. conservará em arquivo os elementos da sua escrita principal e a correspondência pelo prazo de vinte anos. Nos demais casos poderá a administração ordenar a inutilização dos documentos decorridos três anos.
 
-###### Art. 55.º Os livros e documentos que devam conservar-se em arquivo poderão ser microfilmados. Os microfilmes serão autenticados com a assinatura do responsável pelo serviço e os originais poderão ser inutilizados depois das microfilmagens.
+Art. 55.º Os livros e documentos que devam conservar-se em arquivo poderão ser microfilmados. Os microfilmes serão autenticados com a assinatura do responsável pelo serviço e os originais poderão ser inutilizados depois das microfilmagens.
 
-###### Art. 56.º - 1. A aquisição e a alienação de imóveis dependem de deliberação do conselho de administração, com parecer favorável do conselho fiscal, homologada por despacho conjunto dos Ministros do Interior e das Finanças.
+Art. 56.º - 1. A aquisição e a alienação de imóveis dependem de deliberação do conselho de administração, com parecer favorável do conselho fiscal, homologada por despacho conjunto dos Ministros do Interior e das Finanças.
 
 2. A aquisição e a alienação do bens móveis são da competência do conselho de administração.
 
-###### Art. 57.º O conselho de administração pode, mediante parecer favorável do conselho fiscal, tomar de arrendamento prédios ou dependências de prédios que forem julgados indispensáveis à instalação dos seus serviços.
+Art. 57.º O conselho de administração pode, mediante parecer favorável do conselho fiscal, tomar de arrendamento prédios ou dependências de prédios que forem julgados indispensáveis à instalação dos seus serviços.
 
-###### Art. 58.º A prestação de contas do estabelecimento ao Tribunal de Contas será efectuada segundo as regras e prazos aplicáveis.
+Art. 58.º A prestação de contas do estabelecimento ao Tribunal de Contas será efectuada segundo as regras e prazos aplicáveis.
 
 ### CAPÍTULO VI — Das publicações e impressos oficiais
 
-###### Art. 59.º - 1. A edição das publicações oficiais que cabem à I. N. será orientada de harmonia com as superiores determinações das entidades competentes.
+Art. 59.º - 1. A edição das publicações oficiais que cabem à I. N. será orientada de harmonia com as superiores determinações das entidades competentes.
 
 2. Compete ao secretário-geral da Presidência do Conselho a direcção da 1.ª série do Diário do Governo e a resolução das dúvidas que surjam acerca da inserção de actos ou documentos nas restantes séries.
 
-###### Art. 60.º - 1. Só podem ser insertos na 1.ª série do Diário do Governo os originais provenientes da Secretaria-Geral da Presidência do Conselho e aí registados e autenticados. Exceptuam-se os actos do Chefe do Estado que, nos termos da Constituição, não careçam de ser referendados pelo Presidente do Conselho, os quais serão publicados por ordem da Secretaria-Geral da Presidência da República, sem embargo do registo dos decretos na Secretaria-Geral da Presidência do Conselho.
+Art. 60.º - 1. Só podem ser insertos na 1.ª série do Diário do Governo os originais provenientes da Secretaria-Geral da Presidência do Conselho e aí registados e autenticados. Exceptuam-se os actos do Chefe do Estado que, nos termos da Constituição, não careçam de ser referendados pelo Presidente do Conselho, os quais serão publicados por ordem da Secretaria-Geral da Presidência da República, sem embargo do registo dos decretos na Secretaria-Geral da Presidência do Conselho.
 
 2. A inserção de documentos oficiais na 2.ª ou 3.ª séries do mesmo Diário depende de ordem de publicação neles aposta, competentemente assinada e autenticada com o selo branco da repartição pública donde provenham.
 
@@ -547,13 +606,13 @@ c) O restante reverterá para o Estado.
 
 4. Os interessados na inserção de escritos na 3.ª série, referidos no número anterior, farão prèviamente o pagamento do seu custo ou o depósito da quantia suficiente para o cobrir, sendo-lhes devolvidos os saldos que houver, desde que os reclamem no prazo de seis meses, a contar da última publicação. Não os reclamando, considerar-se-ão prescritos a favor da I. N.
 
-###### Art. 61.º - 1. As rectificações dos erros provenientes de divergência entre o texto do original e o texto impresso serão publicadas na série do Diário do Governo em que o tiver sido o texto rectificando, devendo obedecer aos requisitos exigidos para a publicação deste e provir da mesma origem.
+Art. 61.º - 1. As rectificações dos erros provenientes de divergência entre o texto do original e o texto impresso serão publicadas na série do Diário do Governo em que o tiver sido o texto rectificando, devendo obedecer aos requisitos exigidos para a publicação deste e provir da mesma origem.
 
 2. Se a divergência a que se refere o número anterior respeitar a texto inserto na 3.ª série do Diário do Governo e dimanado de entidades particulares ou empresas públicas, a rectificação poderá ser feita oficiosamente pela I. N.
 
 3. Só se fará segunda publicação de qualquer texto quando a primeira haja sido feita com transposições, saltos ou erros materiais que tornem difícil o correcto entendimento do conjunto e desde que não haja quaisquer modificações no conteúdo.
 
-###### Art. 62.º - 1. O serviço de assinaturas do Diário do Governo e do Diário das Sessões, da Assembleia Nacional, incluindo Actas da Câmara Corporativa, constitui exclusivo da I. N. e é por ela directamente assegurado.
+Art. 62.º - 1. O serviço de assinaturas do Diário do Governo e do Diário das Sessões, da Assembleia Nacional, incluindo Actas da Câmara Corporativa, constitui exclusivo da I. N. e é por ela directamente assegurado.
 
 2. As assinaturas do Diário do Governo e as dos seus apêndices serão abertas por períodos de seis ou de doze meses, com início no primeiro dia de Janeiro ou Julho de cada ano, e ao preço delas acrescerá o custo dos portes do correio, quando se tratar de expedições para fora do continente.
 
@@ -561,11 +620,11 @@ c) O restante reverterá para o Estado.
 
 4. As assinaturas do Diário das Sessões, da Assembleia Nacional, e Actas da Câmara Corporativa serão abertas apenas por períodos legislativos. Ao seu preço acrescerá o custo dos portes do correio, quando a expedição se tiver de fazer para fora do continente.
 
-###### Art. 63.º - 1. O pagamento das assinaturas de qualquer das publicações da I. N. deve ser realizado no acto da subscrição, e o dos exemplares avulso das mesmas publicações no momento da respectiva venda.
+Art. 63.º - 1. O pagamento das assinaturas de qualquer das publicações da I. N. deve ser realizado no acto da subscrição, e o dos exemplares avulso das mesmas publicações no momento da respectiva venda.
 
 2. Exceptuam-se do regime estabelecido no número anterior as assinaturas feitas por serviços públicos do Estado ou das autarquias locais, assim como a aquisição, pelos referidos serviços, de exemplares avulso de tais publicações.
 
-###### Art. 64.º - 1. A fim de facilitar a aquisição pelos interessados de impressos, de outras publicações e de material tipográfico, a I. N. promoverá as respectivas vendas:
+Art. 64.º - 1. A fim de facilitar a aquisição pelos interessados de impressos, de outras publicações e de material tipográfico, a I. N. promoverá as respectivas vendas:
 
 a) Directamente ao público;
 
@@ -581,63 +640,63 @@ c) Por recurso a estabelecimentos que se dediquem ao comércio de livros, papela
 
 5. Em caso algum será confiada a entidade particular a venda de impressos e de outras publicações da I. N. em regime de exclusivo.
 
-###### Art. 65.º Os serviços públicos e estabelecimentos do Estado e das autarquias locais, assim como os organismos de coordenação económica e empresas concessionárias do Estado, são obrigados a adquirir directamente na I. N. os impressos oficiais cujo exclusivo lhe pertença.
+Art. 65.º Os serviços públicos e estabelecimentos do Estado e das autarquias locais, assim como os organismos de coordenação económica e empresas concessionárias do Estado, são obrigados a adquirir directamente na I. N. os impressos oficiais cujo exclusivo lhe pertença.
 
-###### Art. 66.º Além dos que disposições legais posteriores lhe tenham concedido ou venham a conceder, constituem exclusivo da I. N. os impressos ainda em uso constantes da lista n.º 1 anexa ao [Decreto-Lei n.º 24437](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24437-1934-445163), de 29 de Agosto de 1934.
+Art. 66.º Além dos que disposições legais posteriores lhe tenham concedido ou venham a conceder, constituem exclusivo da I. N. os impressos ainda em uso constantes da lista n.º 1 anexa ao [Decreto-Lei n.º 24437](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24437-1934-445163), de 29 de Agosto de 1934.
 
-###### Art. 67.º Compete aos serviços públicos, logo que tenham conhecimento de que qualquer dos seus impressos será substituído ou eliminado, dar do facto conhecimento à I. N., a fim de se evitar nova tiragem.
+Art. 67.º Compete aos serviços públicos, logo que tenham conhecimento de que qualquer dos seus impressos será substituído ou eliminado, dar do facto conhecimento à I. N., a fim de se evitar nova tiragem.
 
 ### CAPÍTULO VII — Das publicações particulares
 
-###### Art. 68.º Quando for autorizada a impressão ou reimpressão de obras particulares, estas serão executadas segundo as cláusulas do contrato respectivo e quando se mostre ter sido feito o depósito da quantia correspondente ao custo do trabalho a executar ou se ache garantido o seu pagamento.
+Art. 68.º Quando for autorizada a impressão ou reimpressão de obras particulares, estas serão executadas segundo as cláusulas do contrato respectivo e quando se mostre ter sido feito o depósito da quantia correspondente ao custo do trabalho a executar ou se ache garantido o seu pagamento.
 
-###### Art. 69.º Se as obras a que se refere o artigo anterior ficarem, no todo ou em parte, depositadas para venda na I. N., assim constará do respectivo contrato, fixando-se nele as condições de depósito.
+Art. 69.º Se as obras a que se refere o artigo anterior ficarem, no todo ou em parte, depositadas para venda na I. N., assim constará do respectivo contrato, fixando-se nele as condições de depósito.
 
 ### CAPÍTULO VIII — Serviços Sociais
 
-###### Art. 70.º - 1. Os Serviços Sociais da I. N. exercem a sua actividade nos domínios da formação cultural, previdência, assistência, habitação, recreio e actividades afins, com o objectivo de elevar o nível profissional dos servidores do estabelecimento e melhorar as suas condições económico-sociais e as dos seus familiares.
+Art. 70.º - 1. Os Serviços Sociais da I. N. exercem a sua actividade nos domínios da formação cultural, previdência, assistência, habitação, recreio e actividades afins, com o objectivo de elevar o nível profissional dos servidores do estabelecimento e melhorar as suas condições económico-sociais e as dos seus familiares.
 
 2. Consideram-se integradas nos Serviços Sociais, com todos os seus bens, as organizações denominadas «Caixa de Socorros», «Previdência Mútua» e «Caixa de Auxílio a Viúvas e Órfãos». Poderão também ser integradas instituições, fundadas e subscritas pelo pessoal, que sirvam os objectivos do número anterior.
 
-###### Art. 71.º Os Serviços Sociais estão isentos de custas e selos nos processos em que intervenham, bem como de emolumentos, taxas, contribuições ou impostos, e beneficiam ainda de todas as regalias conferidas por lei às instituições oficiais de assistência.
+Art. 71.º Os Serviços Sociais estão isentos de custas e selos nos processos em que intervenham, bem como de emolumentos, taxas, contribuições ou impostos, e beneficiam ainda de todas as regalias conferidas por lei às instituições oficiais de assistência.
 
-###### Art. 72.º - 1. O quantitativo da dotação anual para os Serviços Sociais será fixado pelo conselho de administração.
+Art. 72.º - 1. O quantitativo da dotação anual para os Serviços Sociais será fixado pelo conselho de administração.
 
 2. As contas anuais de gerência dos Serviços Sociais, acompanhadas de parecer do seu conselho fiscal, serão submetidas ao conselho de administração, cuja aprovação legaliza, para todos os efeitos, as respectivas receitas e despesas.
 
 3. O conselho de administração poderá ceder aos Serviços Sociais bens ou valores que pertençam ao património do estabelecimento e sejam considerados necessários às finalidades prosseguidas por aqueles Serviços, fixando, em cada caso, as condições de cedência.
 
-###### Art. 73.º Compete ao conselho de administração aprovar o regulamento dos Serviços Sociais e quaisquer alterações que venham a ser-lhe introduzidas.
+Art. 73.º Compete ao conselho de administração aprovar o regulamento dos Serviços Sociais e quaisquer alterações que venham a ser-lhe introduzidas.
 
 ### CAPÍTULO IX — Disposições diversas e transitórias
 
-###### Art. 74.º A universalidade do estabelecimento até agora afecta à I. N., incluindo todos os bens, direitos e obrigações, transitará, nas mesmas condições e sem necessidade de qualquer formalidade, a partir da entrada em vigor do presente diploma, para a pessoa colectiva por ele criada.
+Art. 74.º A universalidade do estabelecimento até agora afecta à I. N., incluindo todos os bens, direitos e obrigações, transitará, nas mesmas condições e sem necessidade de qualquer formalidade, a partir da entrada em vigor do presente diploma, para a pessoa colectiva por ele criada.
 
-###### Art. 75.º A I. N. conserva os direitos e assume as responsabilidades atribuídas por lei ao Estado, designadamente quanto à cobrança coerciva de dívidas e à protecção das suas instalações e do pessoal.
+Art. 75.º A I. N. conserva os direitos e assume as responsabilidades atribuídas por lei ao Estado, designadamente quanto à cobrança coerciva de dívidas e à protecção das suas instalações e do pessoal.
 
-###### Art. 76.º - 1. A I. N. é representada em juízo pelos agentes do Ministério Público e está isenta de imposto de justiça, selos e outros encargos.
+Art. 76.º - 1. A I. N. é representada em juízo pelos agentes do Ministério Público e está isenta de imposto de justiça, selos e outros encargos.
 
 2. Sem prejuízo do disposto no número anterior, pode o conselho de administração, sempre que o entender conveniente, constituir advogado ou procurador que represente o estabelecimento em juízo nos processos em que for parte por qualquer forma interessada.
 
-###### Art. 77.º - 1. Os servidores da I. N. que forem investidos nos lugares do conselho de administração desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria mais elevada do pessoal, independentemente de vaga.
+Art. 77.º - 1. Os servidores da I. N. que forem investidos nos lugares do conselho de administração desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria mais elevada do pessoal, independentemente de vaga.
 
 2. O tempo de serviço prestado no conselho de administração pelos servidores a que alude o número anterior é contado para efeitos de aposentação, cuja pensão será afectada pelo coeficiente determinado nas disposições legais aplicáveis.
 
-###### Art. 78.º Sem prejuízo do estabelecido no artigo 27.º, o pessoal funcionário continua sujeito ao estatuto disciplinar aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943, e o assalariado ao regulamento aprovado pelo [Decreto n.º 40424](https://diariodarepublica.pt/dr/detalhe/decreto/40424-1955-246816), de 7 de Dezembro de 1955, incumbindo ao conselho de administração exercer quanto ao primeiro a competência atribuída aos Ministros e relativamente ao segundo a pertencente ao administrador.
+Art. 78.º Sem prejuízo do estabelecido no artigo 27.º, o pessoal funcionário continua sujeito ao estatuto disciplinar aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943, e o assalariado ao regulamento aprovado pelo [Decreto n.º 40424](https://diariodarepublica.pt/dr/detalhe/decreto/40424-1955-246816), de 7 de Dezembro de 1955, incumbindo ao conselho de administração exercer quanto ao primeiro a competência atribuída aos Ministros e relativamente ao segundo a pertencente ao administrador.
 
-###### Art. 79.º - 1. O presente diploma entra em vigor no dia 1 de Janeiro de 1970.
+Art. 79.º - 1. O presente diploma entra em vigor no dia 1 de Janeiro de 1970.
 
 2. Enquanto não estiverem constituídos os órgãos de administração e fiscalização a que alude o artigo 9.º, a gestão do estabelecimento continuará confiada ao actual conselho administrativo.
 
-###### Art. 80.º São revogados: o [Decreto-Lei n.º 39487](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39487-1953-649919), de 29 de Dezembro de 1953; o [Decreto-Lei n.º 40399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40399-1955-247416), de 24 de Novembro de 1955, e o [Decreto-Lei n.º 46148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46148-1965-226607), de 8 de Janeiro de 1965.
+Art. 80.º São revogados: o [Decreto-Lei n.º 39487](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39487-1953-649919), de 29 de Dezembro de 1953; o [Decreto-Lei n.º 40399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40399-1955-247416), de 24 de Novembro de 1955, e o [Decreto-Lei n.º 46148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46148-1965-226607), de 8 de Janeiro de 1965.
 
-###### Art. 81.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Interior.
+Art. 81.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Interior.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 30 de Dezembro de 1969.**
+Promulgado em 30 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

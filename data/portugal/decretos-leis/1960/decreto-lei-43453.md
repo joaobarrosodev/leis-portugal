@@ -50,40 +50,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c8532c1efc4a82dfcefe8b314d4c5d2494d6199d4b3d1e5322e5d18fd4de273
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cb43327a5641b691d38ba643bf163a42aaddf476038bc62531a279a008217fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Aforro
+- Dívida Pública
+- Emissão de Títulos
+- Junta de Crédito Público
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:223628:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223628:por
+  label: "Revogados os arts 6º, 13º e 15º a 22º pela LEI.7/98.1998.02.03.AR, DR.IS-A [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-1998-223628
+  date: '1998-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:16Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +146,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo para valer como lei, o seguinte:
 
-###### Artigo 1.º Em substituição do actual Fundo de amortização da dívida pública, são criados o Fundo de regularização da dívida pública e o Fundo de renda vitalícia.
+Artigo 1.º Em substituição do actual Fundo de amortização da dívida pública, são criados o Fundo de regularização da dívida pública e o Fundo de renda vitalícia.
 
 § único. Os títulos até agora incorporados no Fundo de amortização da dívida pública serão transferidos:
 
@@ -116,41 +154,41 @@ a) Para o Fundo de regularização da dívida pública, aqueles em relação aos
 
 b) Para o Fundo de renda vitalícia, aqueles que tenham resultado de operações de renda vitalícia e que pertençam a empréstimos ainda não convertidos ou remidos.
 
-###### Art. 2.º É extinta a conta de depósito do Fundo de amortização, revertendo para o Fundo de regularização da dívida pública os valores existentes na mesma conta de depósito que pertençam ao Fundo de amortização da dívida pública e passando a figurar em rubricas adequadas os restantes valores na sua posse, aos quais serão mantidas as consignações que sobre eles actualmente impendem.
+Art. 2.º É extinta a conta de depósito do Fundo de amortização, revertendo para o Fundo de regularização da dívida pública os valores existentes na mesma conta de depósito que pertençam ao Fundo de amortização da dívida pública e passando a figurar em rubricas adequadas os restantes valores na sua posse, aos quais serão mantidas as consignações que sobre eles actualmente impendem.
 
-###### Art. 3.º Consideram-se alteradas de harmonia com o prescrito nos artigos anteriores as disposições da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e dos diplomas subsequentes que se referem ao extinto Fundo de amortização da dívida pública e à sua conta de depósito.
+Art. 3.º Consideram-se alteradas de harmonia com o prescrito nos artigos anteriores as disposições da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e dos diplomas subsequentes que se referem ao extinto Fundo de amortização da dívida pública e à sua conta de depósito.
 
-###### Art. 4.º As funções que competiam ao extinto Fundo de amortização, no que respeita à diminuição da dívida, passam a ser desempenhadas pelo Fundo de regularização da dívida pública, na medida das suas possibilidades, de harmonia com o disposto no artigo 35.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
+Art. 4.º As funções que competiam ao extinto Fundo de amortização, no que respeita à diminuição da dívida, passam a ser desempenhadas pelo Fundo de regularização da dívida pública, na medida das suas possibilidades, de harmonia com o disposto no artigo 35.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
-###### Art. 5.º Enquanto não for possível ao Fundo de renda vitalícia suportar, por força dos seus recursos, os encargos de todas as rendas vitalícias, continuará a inscrever-se no Orçamento Geral do Estado, a favor do mesmo Fundo, dotação destinada ao pagamento de rendas criadas ao abrigo do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
+Art. 5.º Enquanto não for possível ao Fundo de renda vitalícia suportar, por força dos seus recursos, os encargos de todas as rendas vitalícias, continuará a inscrever-se no Orçamento Geral do Estado, a favor do mesmo Fundo, dotação destinada ao pagamento de rendas criadas ao abrigo do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
 
-###### Art. 6.º Sempre que as circunstâncias o aconselhem, poderá a Junta do Crédito Público aceitar títulos amortizáveis para a constituição de rendas vitalícias.
+Art. 6.º Sempre que as circunstâncias o aconselhem, poderá a Junta do Crédito Público aceitar títulos amortizáveis para a constituição de rendas vitalícias.
 
-###### Art. 7.º Os títulos e certificados recebidos para operações de renda vitalícia ou adquiridos pelos Fundos de regularização da dívida pública e de renda vitalícia consideram-se abatidos à circulação efectiva dos empréstimos a que pertençam, mas poderão, por decisão da Junta, regressar à circulação sempre que o aconselhe a situação do mercado de títulos e capitais ou o exijam as necessidades financeiras dos referidos Fundos.
+Art. 7.º Os títulos e certificados recebidos para operações de renda vitalícia ou adquiridos pelos Fundos de regularização da dívida pública e de renda vitalícia consideram-se abatidos à circulação efectiva dos empréstimos a que pertençam, mas poderão, por decisão da Junta, regressar à circulação sempre que o aconselhe a situação do mercado de títulos e capitais ou o exijam as necessidades financeiras dos referidos Fundos.
 
-###### Art. 8.º Quando venham a extinguir-se, por conversão ou remição, empréstimos a que pertençam títulos ou certificados referidos no artigo anterior, observar-se-á o seguinte:
+Art. 8.º Quando venham a extinguir-se, por conversão ou remição, empréstimos a que pertençam títulos ou certificados referidos no artigo anterior, observar-se-á o seguinte:
 
 a) Se estiverem na posse do Fundo de regularização da dívida pública, serão definitivamente abatidos à dívida e terminarão os correspondentes encargos;
 
 b) Se estiverem na posse do Fundo de renda vitalícia, serão convertidos ou remidos.
 
-###### Art. 9.º As aquisições de certificados de renda perpétua a que se referem a alínea c) do artigo 28.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257) e o § 2.º do artigo 1.º do [Decreto-Lei n.º 34549](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34549-1945-614983), de 28 de Abril de 1945, passam a ser feitas pelo Fundo de regularização da dívida pública ou pelo Fundo de renda vitalícia.
+Art. 9.º As aquisições de certificados de renda perpétua a que se referem a alínea c) do artigo 28.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257) e o § 2.º do artigo 1.º do [Decreto-Lei n.º 34549](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34549-1945-614983), de 28 de Abril de 1945, passam a ser feitas pelo Fundo de regularização da dívida pública ou pelo Fundo de renda vitalícia.
 
-###### Art. 10.º O encargo de juros e de renda perpétua correspondente aos títulos e certificados incorporados no Fundo de regularização da dívida pública e no Fundo de renda vitalícia passará a ser inscrito nas rubricas orçamentais respeitantes a estes fundos, voltando, porém, a inscrever-se nas dotações de juros e de renda perpétua o encargo relativo aos que regressarem à circulação.
+Art. 10.º O encargo de juros e de renda perpétua correspondente aos títulos e certificados incorporados no Fundo de regularização da dívida pública e no Fundo de renda vitalícia passará a ser inscrito nas rubricas orçamentais respeitantes a estes fundos, voltando, porém, a inscrever-se nas dotações de juros e de renda perpétua o encargo relativo aos que regressarem à circulação.
 
-###### Art. 11.º A Junta do Crédito Público é autorizada a transferir das dotações orçamentais destinadas aos encargos de juros de qualquer empréstimo e de renda perpétua para as dotações do Fundo de regularização da dívida pública e do Fundo de renda vitalícia a parte correspondente aos títulos e certificados incorporados em qualquer destes fundos posteriormente à data que tenha servido de base à elaboração do orçamento, podendo também fazer transferências em sentido inverso, quando títulos ou certificados de qualquer destes fundos voltarem à circulação efectiva. Da mesma forma, pode a Junta transferir da dotação orçamental relativa ao encargo de juros de qualquer empréstimo para a dotação de renda perpétua a importância dos juros dos títulos ou certificados convertidos nesta espécie de renda.
+Art. 11.º A Junta do Crédito Público é autorizada a transferir das dotações orçamentais destinadas aos encargos de juros de qualquer empréstimo e de renda perpétua para as dotações do Fundo de regularização da dívida pública e do Fundo de renda vitalícia a parte correspondente aos títulos e certificados incorporados em qualquer destes fundos posteriormente à data que tenha servido de base à elaboração do orçamento, podendo também fazer transferências em sentido inverso, quando títulos ou certificados de qualquer destes fundos voltarem à circulação efectiva. Da mesma forma, pode a Junta transferir da dotação orçamental relativa ao encargo de juros de qualquer empréstimo para a dotação de renda perpétua a importância dos juros dos títulos ou certificados convertidos nesta espécie de renda.
 
-###### Art. 12.º A administração do Fundo de regularização da dívida pública e do Fundo de renda vitalícia compete à Junta, que poderá adquirir, por intermédio de corretor ou directamente às pessoas ou entidades interessadas, títulos ou certificados destinados a regularizar a situação da dívida pública ou com o fim de aplicar capitais ou rendimentos de qualquer dos fundos.
+Art. 12.º A administração do Fundo de regularização da dívida pública e do Fundo de renda vitalícia compete à Junta, que poderá adquirir, por intermédio de corretor ou directamente às pessoas ou entidades interessadas, títulos ou certificados destinados a regularizar a situação da dívida pública ou com o fim de aplicar capitais ou rendimentos de qualquer dos fundos.
 
-###### Art. 13.º Fica o Ministro das Finanças autorizado a mandar emitir, por simples portaria, a favor do Fundo de regularização da dívida pública e do Fundo de renda vitalícia, certificados especiais de dívida pública representativos de importâncias entregues ao Tesouro pelos referidos fundos, idênticos aos certificados emitidos ao abrigo do artigo 2.º do [Decreto-Lei n.º 37440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37440-1949-258727), de 6 de Junho de 1949.
+Art. 13.º Fica o Ministro das Finanças autorizado a mandar emitir, por simples portaria, a favor do Fundo de regularização da dívida pública e do Fundo de renda vitalícia, certificados especiais de dívida pública representativos de importâncias entregues ao Tesouro pelos referidos fundos, idênticos aos certificados emitidos ao abrigo do artigo 2.º do [Decreto-Lei n.º 37440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37440-1949-258727), de 6 de Junho de 1949.
 
 § único. Às portarias a que alude o corpo deste artigo são aplicáveis as disposições contidas no artigo 38.º e seus parágrafos do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283).
 
-###### Art. 14.º Fica o Ministro das Finanças autorizado a mandar emitir, por intermédio da Junta do Crédito Público e nos termos a estabelecer, títulos da dívida pública nominativos e amortizáveis, denominados certificados de aforro, destinados a conceder uma aplicação remuneradora aos pequenos capitais.
+Art. 14.º Fica o Ministro das Finanças autorizado a mandar emitir, por intermédio da Junta do Crédito Público e nos termos a estabelecer, títulos da dívida pública nominativos e amortizáveis, denominados certificados de aforro, destinados a conceder uma aplicação remuneradora aos pequenos capitais.
 
 § único. A autorização a que se refere o corpo deste artigo abrange quaisquer medidas que o Ministro das Finanças venha a aprovar por simples portaria, destinadas à expansão e colocação deste tipo de empréstimo, incluindo a venda de estampilhas representativas de numerário que possam ser trocadas, nas condições a fixar, por certificados de aforro.
 
-###### Art. 15.º São admitidas as seguintes formas de representação da dívida pública:
+Art. 15.º São admitidas as seguintes formas de representação da dívida pública:
 
 a) Títulos de cupão ou ao portador;
 
@@ -170,7 +208,7 @@ g) Certificados de aforro.
 
 § 2.º Quando o usufruto e a propriedade dos certificados de dívida inscrita e dos certificados de renda perpétua pertencerem a pessoas diferentes, poderão passar-se certificados de usufruto a favor do usufrutuário ou usufrutuários e certificados de propriedade a favor das pessoas ou entidades com direito a ela. Tratando-se de renda perpétua, os certificados de propriedade designar-se-ão por certificados de renda suspensa.
 
-###### Art. 16.º Os títulos de cupão e os certificados, desde que as respectivas características o permitam, podem ser objecto das seguintes operações:
+Art. 16.º Os títulos de cupão e os certificados, desde que as respectivas características o permitam, podem ser objecto das seguintes operações:
 
 Integração;
 
@@ -184,7 +222,7 @@ Substituição.
 
 Dá-se a integração, quando os títulos ou certificados são englobados noutros da mesma natureza; o desdobramento, quando um título ou certificado é dividido noutros da mesma natureza; a inversão, quando a dívida representada em títulos de cupão passa a ser representada em certificados de dívida inscrita; a reversão, quando a dívida representada em certificados de dívida inscrita volta a ser representada em títulos de cupão; a substituição, quando por cada título ou certificado deteriorado ou destruído, total ou parcialmente, se entrega outro.
 
-###### Art. 17.º A dívida pública poderá ser diminuída por alguma das seguintes formas:
+Art. 17.º A dívida pública poderá ser diminuída por alguma das seguintes formas:
 
 1.º Anulação;
 
@@ -196,21 +234,21 @@ Dá-se a integração, quando os títulos ou certificados são englobados noutro
 
 § 2.º Os empréstimos consolidados são remíveis, salvo disposição expressa em contrário.
 
-###### Art. 18.º Prescrevem, considerando-se abandonados a favor do Fundo de regularização da dívida pública:
+Art. 18.º Prescrevem, considerando-se abandonados a favor do Fundo de regularização da dívida pública:
 
 a) Os juros, rendas perpétuas, reembolsos e outros créditos da dívida pública após cinco anos, a contar da data do respectivo vencimento ou, para os últimos, da data em que tenham sido transferidos para as contas dos respectivos titulares;
 
 b) Os títulos ou certificados, com excepção dos certificados de renda vitalícia, cujos rendimentos deixarem de ser cobrados durante dez anos, a contar do primeiro vencimento posterior ao dos últimos juros ou rendas recebidas ou da data em que tiver sido posta à ordem um nova folha de cupões.
 
-###### Art. 19.º Os prazos de prescrição indicados no artigo anterior são aplicáveis às rendas vitalícias, aos respectivos certificados e a quaisquer empréstimos emitidos com garantia ou aval do Estado.
+Art. 19.º Os prazos de prescrição indicados no artigo anterior são aplicáveis às rendas vitalícias, aos respectivos certificados e a quaisquer empréstimos emitidos com garantia ou aval do Estado.
 
 § único. Consideram-se anulados os certificados de renda vitalícia prescritos.
 
-###### Art. 20.º São aplicáveis aos prazos indicados nos artigos 18.º e 19.º as regras da lei civil quanto à suspensão ou interrupção da prescrição.
+Art. 20.º São aplicáveis aos prazos indicados nos artigos 18.º e 19.º as regras da lei civil quanto à suspensão ou interrupção da prescrição.
 
-###### Art. 21.º Admite-se a anulação total ou parcial de um empréstimo emitido, mas ainda não colocado, assim como de títulos ou certificados na posse do Estado ou do Fundo de regularização da dívida pública.
+Art. 21.º Admite-se a anulação total ou parcial de um empréstimo emitido, mas ainda não colocado, assim como de títulos ou certificados na posse do Estado ou do Fundo de regularização da dívida pública.
 
-###### Art. 22.º Sem prejuízo de outros especialmente consignados e desde que as respectivas características o permitam, os títulos e certificados gozam, de uma maneira geral, dos seguintes direitos, isenções e garantias:
+Art. 22.º Sem prejuízo de outros especialmente consignados e desde que as respectivas características o permitam, os títulos e certificados gozam, de uma maneira geral, dos seguintes direitos, isenções e garantias:
 
 1.º Pagamento integral dos juros, rendas e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais do Estado e de harmonia com o preceituado nos artigos 65.º e 66.º da Constituição;
 
@@ -224,11 +262,11 @@ b) Os títulos ou certificados, com excepção dos certificados de renda vitalí
 
 6.º Recebimento de juros e rendas por antecipação, dentro do bimestre anterior ao vencimento, mediante redução calculada pela taxa de desconto do Banco de Portugal, salvo quando daí possam resultar prejuízos para terceiros, quando os empréstimos sejam libertados em moeda estrangeira ou se trate de renda vitalícia.
 
-###### Art. 23.º São revogados os artigos 22.º e o seu § único, 26.º, 46.º, 47.º, 49.º, 50.º, 51.º, 52.º e o seu § único, 53.º e os seus parágrafos, 54.º e o seu § único, 55.º e o seu § 2.º, 56.º e o seu § único e 57.º e o seu § único da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936. São revogados também os artigos 6.º e os seus parágrafos e 7.º do [Decreto-Lei n.º 31089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31089-1940-400462), de 30 de Dezembro de 1940, e os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
+Art. 23.º São revogados os artigos 22.º e o seu § único, 26.º, 46.º, 47.º, 49.º, 50.º, 51.º, 52.º e o seu § único, 53.º e os seus parágrafos, 54.º e o seu § único, 55.º e o seu § 2.º, 56.º e o seu § único e 57.º e o seu § único da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936. São revogados também os artigos 6.º e os seus parágrafos e 7.º do [Decreto-Lei n.º 31089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31089-1940-400462), de 30 de Dezembro de 1940, e os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
 
-###### Art. 24.º Este decreto-lei entra em vigor em 1 de Janeiro de 1961.
+Art. 24.º Este decreto-lei entra em vigor em 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

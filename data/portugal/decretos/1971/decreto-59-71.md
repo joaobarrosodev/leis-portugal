@@ -46,40 +46,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7322a6095b1f672f6dd64f90350d2ef62b529e1694f4a4ef42bcfdb34df2d913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 549b48c34b50a47ea60663af74af6b2a4f60cd4d7fcacd26d86574f0c67f88c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Imposto de Camionagem
+- Imposto de Compensação
+- Licença de Transporte
+- Licenciamento
+- Multa
+- Preço
+- Regulamentação dos Transportes
+- Regulamento
+- Regulamento de Transportes em Automóveis
+- Transporte
+- Transporte de Passageiros
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Urbano
+- Veículo
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:451044:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252060:por
+  label: "Dada nova redacção ao § 4º do art. 112º e ao § 3º do art. 147º do Regulamento de Transportes em Autómóveis, aprovado\
+    \ pelo Dec 37272 de 31-dez 1948, alterado pelo presente diploma, pelo DR.29/77.17.05.1977.MTC, DR.IS [114] de 17.05.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/29-1977-252060
+  date: '1977-05-17'
+- type: amended_by
+  target: pt:dre:286503:por
+  label: "Dada nova redação ao § 7º do art. 112º do Regulamento de Transportes em Automóveis, aprovado Dec 37292 de 31-dez\
+    \ 1948, alterado pelo presente diploma, pelo DR.60/77.05.09.1977.MTC, DR.IS [205] de 05.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/60-1977-286503
+  date: '1977-09-05'
+- type: amended_by
+  target: pt:dre:470594:por
+  label: "Alterado o § único do art. 139.º do Decreto n.º 37272, de 31-Dez, de 1948, alterado pelo presente diploma, pelo\
+    \ DEC.65/80.18.08.1980.MTC, DR.IS [189] de 18.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/65-1980-470594
+  date: '1980-08-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 219 DO REGULAMENTO DE TRANSPORTES EM AUTOMÓVEIS, APROVADO PELO DEC 37272 DE 31-DEZ 1948, NA REDACÇÃO
+    CONSTANTE DO PRESENTE DIPLOMA, PELO DR 66/84 DE 22-AGO DR.IS [194]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-08-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 208 E 211 DO REGULAMENTO DE TRANSPORTES EM AUTOMÓVEIS, APROVADO PELO DEC 37272 DE 31-DEZ 1948,\
+    \ NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DR 52/87 DE 04-AGO DR.IS [177]\0 04-AGO DR.IS [177]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-08-04'
+- type: cites
+  target: pt:dre:281472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:607134:por
+  label: "Revogados os arts. 28º, 167º, e 168º do Dec 37272, de 31-Dez 1948, os 2 últimos com redacção do presente diploma,\
+    \ pelo DR.18/82.1982.04.08.MHOPT, DR.IS [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1982-607134
+  date: '1982-04-08'
+- type: repealed_by
+  target: pt:dre:375412:por
+  label: "Revogado o § único do art. 93º do Dec 37272, de 31-Dez 1948, na redacção que lhe foi dada pelo presente diploma,\
+    \ pelo DR.67/82.1982.10.02.MHOPT, DR.IS [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/67-1982-375412
+  date: '1982-10-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:45Z'
   warnings: []
   errors: []
 ---
@@ -144,11 +224,11 @@ Ouvida a Corporação dos Transportes e Turismo;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É alterada a redacção dos artigos a seguir indicados do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, nos seguintes termos:
+Artigo 1.º É alterada a redacção dos artigos a seguir indicados do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, nos seguintes termos:
 
 ...
 
-###### Art. 33.º Os transportes públicos só podem ser explorados em regime de transportes de aluguer ou de transporte colectivo.
+Art. 33.º Os transportes públicos só podem ser explorados em regime de transportes de aluguer ou de transporte colectivo.
 
 São de aluguer os transportes em que os veículos são, no conjunto da sua lotação ou da sua carga, postos ao exclusivo serviço de uma só entidade, segundo itinerários da sua escolha, mediante retribuição.
 
@@ -158,19 +238,19 @@ São colectivos os transportes em que os veículos são postos, mediante retribu
 
 ...
 
-###### Art. 72.º Todos os transportes colectivos em automóveis são considerados como serviço público, e serão explorados em regime de concessão, outorgada pelo Ministro das Comunicações ou pelas câmaras municipais, nos termos dos artigos seguintes.
+Art. 72.º Todos os transportes colectivos em automóveis são considerados como serviço público, e serão explorados em regime de concessão, outorgada pelo Ministro das Comunicações ou pelas câmaras municipais, nos termos dos artigos seguintes.
 
 § único. Exceptuam-se do disposto na última parte do corpo deste artigo os transportes colectivos explorados directamente pelas câmaras municipais, cujo estabelecimento dependerá, no entanto, de autorização do Ministro das Comunicações.
 
 ...
 
-###### Art. 74.º As concessões de serviço público de transportes colectivos em automóveis serão outorgadas com vista à satisfação de necessidades da procura de transportes caracterizadas pela sua intensidade, regularidade e permanência, e tendo em atenção os objectivos da coordenação de transportes.
+Art. 74.º As concessões de serviço público de transportes colectivos em automóveis serão outorgadas com vista à satisfação de necessidades da procura de transportes caracterizadas pela sua intensidade, regularidade e permanência, e tendo em atenção os objectivos da coordenação de transportes.
 
 Poderão porém as concessões, a requerimento dos interessados ou por decisão do Ministro das Comunicações, ser outorgadas inicialmente em regime provisório com a finalidade de verificar a existência de uma procura de transportes com aquelas características e a salvaguarda daqueles objectivos, ou em razão da urgência na satisfação de necessidades de procura.
 
 § único. Denominam-se carreiras as ligações estabelecidas por meio de transportes colectivos, obedecendo a itinerários, horários ou frequências mínimas e tarifas pré-fixadas.
 
-###### Art. 75.º As carreiras classificam-se, quanto às suas relações com os transportes ferroviários, em:
+Art. 75.º As carreiras classificam-se, quanto às suas relações com os transportes ferroviários, em:
 
 Independentes - as que não interfiram econòmicamente com o caminho de ferro.
 
@@ -182,7 +262,7 @@ Complementares - as que a empresa ferroviária estabelecer para assegurar o trá
 
 § único. A classificação a que se refere este artigo será atribuída em função da extensão dos percursos rodo e ferroviários, da situação das localidades servidas por estrada e por caminho de ferro e de outros factores susceptíveis de influenciar a preferência do tráfego por um ou outro meio de transporte.
 
-###### Art. 76.º Sem prejuízo das definições e dos critérios constantes do artigo anterior, presumem-se:
+Art. 76.º Sem prejuízo das definições e dos critérios constantes do artigo anterior, presumem-se:
 
 I) Independentes - as carreiras que estabeleçam comunicações entre:
 
@@ -202,31 +282,31 @@ b) As carreiras que ligam duas estações ou apeadeiros em serviço, desde que o
 
 § 2.º Compete ao Ministro das Comunicações a classificação das carreiras, bem como a alteração da sua classificação.
 
-###### Art. 77.º As carreiras classificam-se, quanto às localidades que servem, em urbanas e interurbanas.
+Art. 77.º As carreiras classificam-se, quanto às localidades que servem, em urbanas e interurbanas.
 
 São carreiras urbanas as que se efectuem dentro dos limites das povoações; poderão ainda ser classificadas como urbanas as carreiras que se efectuem entre grandes centros populacionais e povoações vizinhas, desde que o respectivo percurso se faça através de vias urbanizadas.
 
 São carreiras interurbanas todas as restantes.
 
-###### Art. 78.º Às carreiras interurbanas poderá ser atribuída uma classificação mista em relação aos vários troços do seu percurso limitados pelo cruzamento ou confluência da estrada com a via férrea.
+Art. 78.º Às carreiras interurbanas poderá ser atribuída uma classificação mista em relação aos vários troços do seu percurso limitados pelo cruzamento ou confluência da estrada com a via férrea.
 
 ...
 
-###### Art. 81.º Quando, nas circunstâncias previstas no artigo 89.º, for autorizada uma nova carreira que implique concorrência a outras ou ao caminho de ferro, poderão as empresas interessadas acordar numa adequada repartição de tráfego, a aprovar pelo Ministro das Comunicações.
+Art. 81.º Quando, nas circunstâncias previstas no artigo 89.º, for autorizada uma nova carreira que implique concorrência a outras ou ao caminho de ferro, poderão as empresas interessadas acordar numa adequada repartição de tráfego, a aprovar pelo Ministro das Comunicações.
 
 § único. Na falta de tal acordo, ou não sendo o mesmo aprovado, competirá à Direcção-Geral de Transportes Terrestres definir a repartição que melhor satisfaça as necessidades dos utentes, a igualdade de tratamento das empresas e os objectivos da coordenação de transportes.
 
-###### Art. 82.º Em relação a todos os percursos para os quais se imponha a necessidade de realizar a conjugação dos transportes por caminho de ferro e por estrada, a concessionária ferroviária e os concessionários de transportes colectivos rodoviários estabelecerão acordos para repartição de tráfego, de forma a servir convenientemente o interesse público, tendo em atenção as características especiais de cada um dos dois sistemas de transporte.
+Art. 82.º Em relação a todos os percursos para os quais se imponha a necessidade de realizar a conjugação dos transportes por caminho de ferro e por estrada, a concessionária ferroviária e os concessionários de transportes colectivos rodoviários estabelecerão acordos para repartição de tráfego, de forma a servir convenientemente o interesse público, tendo em atenção as características especiais de cada um dos dois sistemas de transporte.
 
 § 1.º Estes acordos carecem de aprovação do Ministro das Comunicações, ao qual serão submetidos acompanhados de informação da Direcção-Geral de Transportes Terrestres.
 
 § 2.º Na falta de acordo ou quando este não for aprovado, a repartição do tráfego será definida pelo Ministro das Comunicações, com base em proposta da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 83.º Os concessionários, quando o interesse público o justifique, deverão celebrar contratos de combinação de serviços com outros concessionários.
+Art. 83.º Os concessionários, quando o interesse público o justifique, deverão celebrar contratos de combinação de serviços com outros concessionários.
 
 Estes contratos só entrarão em vigor depois de aprovados pela Direcção-Geral de Transportes Terrestres, que, no caso de recusa da aprovação ou de não celebração dos contratos, definirá o regime do serviço combinado.
 
-###### Art. 84.º Entre as empresas ferroviárias e as concessionárias de transportes colectivos rodoviários celebrar-se-ão contratos de serviço combinado que assegurem devidamente a ligação entre os dois modos de transporte, os quais deverão obedecer a princípios e normas gerais estabelecidos por portaria do Ministro das Comunicações, ouvidos o Grémio dos Industriais de Transportes em Automóveis e a empresa ferroviária.
+Art. 84.º Entre as empresas ferroviárias e as concessionárias de transportes colectivos rodoviários celebrar-se-ão contratos de serviço combinado que assegurem devidamente a ligação entre os dois modos de transporte, os quais deverão obedecer a princípios e normas gerais estabelecidos por portaria do Ministro das Comunicações, ouvidos o Grémio dos Industriais de Transportes em Automóveis e a empresa ferroviária.
 
 § 1.º A empresa ferroviária, uma vez celebrados os contratos a que se refere o corpo deste artigo, dará deles conhecimento à Direcção-Geral de Transportes Terrestres.
 
@@ -234,17 +314,17 @@ Estes contratos só entrarão em vigor depois de aprovados pela Direcção-Geral
 
 § 3.º Na falta de efectivação de contratos de serviço combinado, o regime deste serviço pode ser imposto pelo Ministro das Comunicações.
 
-###### Art. 85.º A concessionária ferroviária poderá estabelecer serviços combinados, num mesmo troço de estrada, com mais de uma empresa concessionária de transportes colectivos rodoviários, sem prejuízo dos horários em vigor.
+Art. 85.º A concessionária ferroviária poderá estabelecer serviços combinados, num mesmo troço de estrada, com mais de uma empresa concessionária de transportes colectivos rodoviários, sem prejuízo dos horários em vigor.
 
-###### Art. 86.º As questões suscitadas entre os concessionários rodoviários ou entre estes e a concessionária ferroviária, que não digam respeito à matéria cível dos contratos e não devam ser resolvidos por processo contencioso ou por arbitragem, serão solucionadas pelo Ministro dos Comunicações.
+Art. 86.º As questões suscitadas entre os concessionários rodoviários ou entre estes e a concessionária ferroviária, que não digam respeito à matéria cível dos contratos e não devam ser resolvidos por processo contencioso ou por arbitragem, serão solucionadas pelo Ministro dos Comunicações.
 
 ...
 
-###### Art. 88.º De futuro só serão outorgadas novas concessões aos actuais concessionários e às empresas que resultarem do seu agrupamento, salvo sempre as exigências do tráfego.
+Art. 88.º De futuro só serão outorgadas novas concessões aos actuais concessionários e às empresas que resultarem do seu agrupamento, salvo sempre as exigências do tráfego.
 
-###### Art. 89.º Só serão outorgadas concessões que dêem lugar a concorrência entre carreiras ou entre estas e o caminho de ferro quando, considerados os objectivos de coordenação de transportes, as necessidades públicas o justifiquem.
+Art. 89.º Só serão outorgadas concessões que dêem lugar a concorrência entre carreiras ou entre estas e o caminho de ferro quando, considerados os objectivos de coordenação de transportes, as necessidades públicas o justifiquem.
 
-###### Art. 90.º A favor de um ou mais concessionários que explorem, em determinada região, uma rede de carreiras de vincado interesse regional poderá ser definida, em portaria do Ministro das Comunicações, ouvida a Corporação dos Transportes e Turismo, a respectiva área de preferência, desde que, verificando-se a inviabilidade da participação de todos os concessionários que operem nessa área, representem, pelo menos, dois terços da extensão dos percursos nela servidos.
+Art. 90.º A favor de um ou mais concessionários que explorem, em determinada região, uma rede de carreiras de vincado interesse regional poderá ser definida, em portaria do Ministro das Comunicações, ouvida a Corporação dos Transportes e Turismo, a respectiva área de preferência, desde que, verificando-se a inviabilidade da participação de todos os concessionários que operem nessa área, representem, pelo menos, dois terços da extensão dos percursos nela servidos.
 
 § 1.º As áreas de preferência deverão abranger regiões caracterizadas pela homogeneidade de estruturas económico-sociais, pela complementaridade ou interdependência funcional das várias relações de transporte colectivo nelas exploradas e pela existência de um centro de polarização regional, devendo ainda ter-se em conta, na sua delimitação, uma conveniente articulação com a divisão do território, para efeitos de planeamento regional, e a necessidade de a rede de transportes colectivos rodoviários respectiva ter difusão geográfica suficiente para se repercutir na estruturação do sistema nacional de transportes terrestres.
 
@@ -258,7 +338,7 @@ Estes contratos só entrarão em vigor depois de aprovados pela Direcção-Geral
 
 § 6.º O Ministro das Comunicações tomará, por despacho, todas as disposições necessárias à execução do disposto neste artigo, tendo sempre presente os objectivos da concentração empresarial e a satisfação das necessidades públicas.
 
-###### Art. 91.º O requerimento da definição de uma área de preferência deverá ser acompanhado de uma memória justificativa pormenorizada, em que, além de se integrar a pretensão no condicionalismo estabelecido no § 1.º do artigo anterior, se inclua o plano da rede de carreiras a estabelecer, bem como as respectivas condições de exploração.
+Art. 91.º O requerimento da definição de uma área de preferência deverá ser acompanhado de uma memória justificativa pormenorizada, em que, além de se integrar a pretensão no condicionalismo estabelecido no § 1.º do artigo anterior, se inclua o plano da rede de carreiras a estabelecer, bem como as respectivas condições de exploração.
 
 § 1.º A definição da área de preferência requerida será objecto de inquérito, em que serão sempre ouvidas as câmaras municipais interessadas e os restantes concessionários da área.
 
@@ -266,15 +346,15 @@ Estes contratos só entrarão em vigor depois de aprovados pela Direcção-Geral
 
 § 3.º A integração de novas carreiras na concessão de determinada área de preferência será feita por despacho do Ministro das Comunicações, mediante simples informação da Direcção-Geral de Transportes Terrestres, com dispensa das formalidades referidas nos artigos 101.º e 102.º
 
-###### Art. 92.º Os concessionários de transportes colectivos em automóveis poderão efectuar transportes eventuais, mediante autorização prévia, entre locais que não se encontrem ligados por carreiras ou por caminho de ferro, ou que o estejam, mas revelando-se aqueles meios insuficientes para assegurar o tráfego, ainda que com recurso a horários ou serviços extraordinários, respectivamente.
+Art. 92.º Os concessionários de transportes colectivos em automóveis poderão efectuar transportes eventuais, mediante autorização prévia, entre locais que não se encontrem ligados por carreiras ou por caminho de ferro, ou que o estejam, mas revelando-se aqueles meios insuficientes para assegurar o tráfego, ainda que com recurso a horários ou serviços extraordinários, respectivamente.
 
-###### Art. 93.º Só poderão realizar-se transportes eventuais quando existirem necessidades anormais de tráfego, tais como as decorrentes de feiras, romarias e outras festividades ou manifestações públicas.
+Art. 93.º Só poderão realizar-se transportes eventuais quando existirem necessidades anormais de tráfego, tais como as decorrentes de feiras, romarias e outras festividades ou manifestações públicas.
 
 § único. No mesmo percurso não poderão realizar-se transportes eventuais em mais do que dez dias em cada mês.
 
-###### Art. 94.º Sempre que, surgindo necessidades anormais de tráfego, nenhum dos concessionários que operem no respectivo percurso ou região requerer a realização de transportes em horários extraordinários ou eventuais, ou os transportes requeridos sejam ainda insuficientes para ocorrer às necessidades, a Direcção-Geral de Transportes Terrestres poderá impor a qualquer daqueles concessionários a realização desses transportes.
+Art. 94.º Sempre que, surgindo necessidades anormais de tráfego, nenhum dos concessionários que operem no respectivo percurso ou região requerer a realização de transportes em horários extraordinários ou eventuais, ou os transportes requeridos sejam ainda insuficientes para ocorrer às necessidades, a Direcção-Geral de Transportes Terrestres poderá impor a qualquer daqueles concessionários a realização desses transportes.
 
-###### Art. 95.º Quando a concessão for outorgada em regime provisório, ser-lhe-á fixado o prazo máximo de um ano, prorrogável uma única vez por igual período de tempo.
+Art. 95.º Quando a concessão for outorgada em regime provisório, ser-lhe-á fixado o prazo máximo de um ano, prorrogável uma única vez por igual período de tempo.
 
 § 1.º A concessão em regime provisório, como tal requerida pelo interessado, será outorgada mediante simples informação da Direcção-Geral de Transportes Terrestres, tendo em conta o disposto no artigo 114.º
 
@@ -284,7 +364,7 @@ Estes contratos só entrarão em vigor depois de aprovados pela Direcção-Geral
 
 § 4.º Durante o regime provisório, o concessionário terá os poderes e deveres, limitados à respectiva exploração, que lhe assistiriam se a concessão houvesse sido outorgada desde logo nos termos do artigo 96.º
 
-###### Art. 96.º Salvo o disposto na segunda parte do corpo do artigo 74.º e no artigo anterior, as concessões serão outorgadas pelo prazo de dez anos, contados do início do trimestre em que começar a respectiva exploração.
+Art. 96.º Salvo o disposto na segunda parte do corpo do artigo 74.º e no artigo anterior, as concessões serão outorgadas pelo prazo de dez anos, contados do início do trimestre em que começar a respectiva exploração.
 
 § 1.º Findo o prazo referido no corpo deste artigo, considerar-se-á sucessiva e automàticamente prorrogado, por períodos de cinco anos, se o Governo ou o concessionário não notificarem a contraparte, com a antecedência mínima de seis meses, de que desejam dar por finda a concessão.
 
@@ -292,7 +372,7 @@ Estes contratos só entrarão em vigor depois de aprovados pela Direcção-Geral
 
 § 3.º A requerimento fundamentado dos interessados, poderão ser outorgadas concessões por prazo inferior ao mínimo estabelecido no corpo deste artigo, sem obediência ao regime do § 1.º, nos casos especiais em que as necessidades de transporte a satisfazer se apresentem delimitadas no tempo.
 
-###### Art. 97.º O Ministro das Comunicações, em razão do essencial interesse regional de determinadas carreiras, ou tendo em vista a realização de uma eficiente política de coordenação regional dos transportes públicos, poderá, ouvida a Corporação dos Transportes e Turismo:
+Art. 97.º O Ministro das Comunicações, em razão do essencial interesse regional de determinadas carreiras, ou tendo em vista a realização de uma eficiente política de coordenação regional dos transportes públicos, poderá, ouvida a Corporação dos Transportes e Turismo:
 
 a) Impor às empresas que operem em determinada região o estabelecimento, a manutenção ou o prolongamento de determinadas carreiras, fixando a forma de uma compensação justa enquanto o novo serviço não oferecer condições de exploração financeira equilibrada;
 
@@ -306,7 +386,7 @@ c) Condicionar a outorga ou a prorrogação do prazo de uma concessão à introd
 
 § 3.º Sempre que a outorga de uma concessão seja condicionada, nos termos da alínea c) do corpo deste artigo, à introdução de modificações de que resulte a possibilidade de preferência de outros concessionários na sua obtenção, de acordo com o artigo 112.º, serão estes notificados para que, no prazo de vinte dias, exerçam, querendo, o seu direito.
 
-###### Art. 98.º A outorga de concessões compete ao Ministro das Comunicações, salvo quanto às concessões de carreiras:
+Art. 98.º A outorga de concessões compete ao Ministro das Comunicações, salvo quanto às concessões de carreiras:
 
 a) Dentro da área das sedes dos concelhos;
 
@@ -324,11 +404,11 @@ cuja concessão compete às respectivas câmaras municipais.
 
 § 4.º A municipalização dos serviços de transportes colectivos em automóveis não poderá ser aprovada, nos termos do artigo 100.º do Código Administrativo, sem prévia informação do Ministério das Comunicações de que não prejudica a coordenação de transportes e de que a municipalização tem viabilidade financeira.
 
-###### Art. 99.º Os requerimentos de concessões serão dirigidos ao Ministro das Comunicações e apresentados na Direcção-Geral de Transportes Terrestres.
+Art. 99.º Os requerimentos de concessões serão dirigidos ao Ministro das Comunicações e apresentados na Direcção-Geral de Transportes Terrestres.
 
 § único. Exceptuam-se do disposto no corpo deste artigo os requerimentos de concessões que, segundo o artigo anterior, sejam da competência das câmaras municipais, os quais serão dirigidos às câmaras respectivas.
 
-###### Art. 100.º Os requerimentos referidos no artigo anterior, dos quais deverá constar a completa identidade e morada do requerente ou do seu representante legal, serão instruídos com os seguintes elementos:
+Art. 100.º Os requerimentos referidos no artigo anterior, dos quais deverá constar a completa identidade e morada do requerente ou do seu representante legal, serão instruídos com os seguintes elementos:
 
 a) Horários ou frequências mínimas e tarifas;
 
@@ -340,29 +420,29 @@ d) Memória justificativa do estabelecimento da carreira e um gráfico com a ind
 
 § único. Os requerimentos e demais documentos que os acompanhem deverão ser apresentados com duplicado em papel comum.
 
-###### Art. 101.º Recebido o requerimento a que se refere o artigo anterior, se este tiver sido apresentado com observância de todos os requisitos legais e regulamentares, mandará a Direcção-Geral de Transportes Terrestres proceder a um inquérito administrativo sobre a utilidade da concessão requerida, salvo se a concessão tiver sido requerida em regime provisório ou se trate de carreiras complementares.
+Art. 101.º Recebido o requerimento a que se refere o artigo anterior, se este tiver sido apresentado com observância de todos os requisitos legais e regulamentares, mandará a Direcção-Geral de Transportes Terrestres proceder a um inquérito administrativo sobre a utilidade da concessão requerida, salvo se a concessão tiver sido requerida em regime provisório ou se trate de carreiras complementares.
 
 § 1.º Este inquérito terá início com a publicação no Diário do Governo de um edital, no qual serão convidados todos os interessados a manifestarem-se sobre a concessão requerida, no prazo de sessenta dias.
 
 § 2.º O requerente poderá contestar as reclamações que tenham sido apresentadas sobre o pedido nos quinze dias seguintes ao termo do prazo referido no parágrafo anterior, devendo para o efeito ser-lhe facultada a consulta das reclamações deduzidas.
 
-###### Art. 102.º Sobre os requerimentos de concessões, para cuja outorga seja competente o Ministro das Comunicações, recairá parecer do Conselho Superior dos Transportes Terrestres, salvo tratando-se de concessões em regime provisório ou de carreiras complementares.
+Art. 102.º Sobre os requerimentos de concessões, para cuja outorga seja competente o Ministro das Comunicações, recairá parecer do Conselho Superior dos Transportes Terrestres, salvo tratando-se de concessões em regime provisório ou de carreiras complementares.
 
 § único. O Conselho, a quem os processos serão submetidos com todos os elementos instrutórios apresentados pelos requerentes e com os inquéritos efectuados nos termos do artigo anterior, deverá inserir nos seus pareceres todas as sugestões que entenda poderem contribuir para uma mais eficiente coordenação dos transportes na região e melhor serviço dos tráfegos a que se destinam.
 
-###### Art. 103.º Os despachos ministeriais que incidirem sobre os requerimentos de concessões serão publicados no Diário do Governo e neles se deverá indicar a classificação das respectivas carreiras, o prazo de cada concessão e, eventualmente, se esta é outorgada em regime provisório.
+Art. 103.º Os despachos ministeriais que incidirem sobre os requerimentos de concessões serão publicados no Diário do Governo e neles se deverá indicar a classificação das respectivas carreiras, o prazo de cada concessão e, eventualmente, se esta é outorgada em regime provisório.
 
 § 1.º Em caso de deferimento do pedido de concessão, a Direcção-Geral de Transportes Terrestres fixará o prazo, não superior a noventa dias, dentro do qual a exploração terá de ser iniciada, cuja prorrogação poderá autorizar, em circunstâncias especiais.
 
 § 2.º Por cada concessão outorgada será passado um título, de modelo a fixar pela Direcção-Geral de Transportes Terrestres.
 
-###### Art. 104.º Se o pedido de uma concessão for indeferido, não serão tomados em consideração os requerimentos para idêntica concessão antes de decorridos seis meses, a contar da data do respectivo despacho, desde que se trate do mesmo requerente ou, tratando-se de requerente diverso, o indeferimento tiver sido proferido com fundamento que não respeite à pessoa do requerente.
+Art. 104.º Se o pedido de uma concessão for indeferido, não serão tomados em consideração os requerimentos para idêntica concessão antes de decorridos seis meses, a contar da data do respectivo despacho, desde que se trate do mesmo requerente ou, tratando-se de requerente diverso, o indeferimento tiver sido proferido com fundamento que não respeite à pessoa do requerente.
 
-###### Art. 105.º Compete às direcções de viação, que, para o efeito, procederão às averiguações que entendam necessárias, a decisão sobre os pedidos de realização de transportes eventuais.
+Art. 105.º Compete às direcções de viação, que, para o efeito, procederão às averiguações que entendam necessárias, a decisão sobre os pedidos de realização de transportes eventuais.
 
 § único. As autorizações para a realização de transportes eventuais devem ser requeridas, salvo casos especiais devidamente justificados, com a antecedência mínima de quinze dias, e as decisões comunicadas aos requerentes até cinco dias antes da data da pretendida realização.
 
-###### Art. 106.º Dos requerimentos para a realização de transportes eventuais devem constar:
+Art. 106.º Dos requerimentos para a realização de transportes eventuais devem constar:
 
 a) O nome do requerente e a indicação das carreiras que efectua na região;
 
@@ -370,7 +450,7 @@ b) A indicação do número de veículos a empregar;
 
 c) Os itinerários.
 
-###### Art. 107.º Todo o pedido de concessão deverá ser precedido de um depósito de 2000$00, efectuado na tesouraria da Direcção-Geral de Transportes Terrestres.
+Art. 107.º Todo o pedido de concessão deverá ser precedido de um depósito de 2000$00, efectuado na tesouraria da Direcção-Geral de Transportes Terrestres.
 
 § 1.º Se o requerente não der início à exploração da carreira, nos termos do artigo 103.º, desistir do pedido ou for encontrado a explorar a carreira antes da data fixada para o início da sua exploração, além das penalidades previstas neste Regulamento perderá o depósito acima referido, que constituirá receita do Estado.
 
@@ -380,9 +460,9 @@ c) Os itinerários.
 
 § 4.º As despesas com as publicações no Diário do Governo referentes a pedidos de concessão ou decorrentes da exploração das carreiras correrão por conta dos concessionários, podendo ser satisfeitas por força dos respectivos depósitos ou cauções se aqueles não efectuarem o respectivo pagamento.
 
-###### Art. 108.º Depois de efectuado um depósito, e até resolução final do pedido de concessão a que o mesmo se refere, é vedado à Direcção-Geral de Transportes Terrestres receber depósitos para pedidos de concessão idênticos, salvo se efectuados por concessionários que se apresentarem a concorrer àquela durante o respectivo inquérito administrativo, nas condições previstas no artigo 111.º
+Art. 108.º Depois de efectuado um depósito, e até resolução final do pedido de concessão a que o mesmo se refere, é vedado à Direcção-Geral de Transportes Terrestres receber depósitos para pedidos de concessão idênticos, salvo se efectuados por concessionários que se apresentarem a concorrer àquela durante o respectivo inquérito administrativo, nas condições previstas no artigo 111.º
 
-###### Art. 109.º As empresas a quem tenham sido outorgadas concessões são obrigadas a caucionar, antes do início da exploração, por depósito, garantia bancária ou apólice de seguro de cauções, a manutenção das carreiras.
+Art. 109.º As empresas a quem tenham sido outorgadas concessões são obrigadas a caucionar, antes do início da exploração, por depósito, garantia bancária ou apólice de seguro de cauções, a manutenção das carreiras.
 
 § 1.º O valor da caução é fixado à razão de 300$00 por cada quilómetro, contado entre os locais de estacionamento nos pontos extremos do percurso do serviço concedido, não podendo nunca ser inferior a 15000$00.
 
@@ -392,19 +472,19 @@ c) Os itinerários.
 
 § 4.º Serão restituídas as cauções referentes a concessões transferidas nos termos da alínea b) do § 2.º do artigo 116.º e a concessões que venham a ser resgatadas ou substituídas.
 
-###### Art. 110.º O pedido de transferência deverá ser acompanhado de uma caução, prestada pelo pretendente à concessão pela forma e para os efeitos prescritos no artigo anterior e seu § 1.º, a qual servirá também para garantir o começo da exploração dentro do prazo de noventa dias, a contar da data da publicação no Diário do Governo do despacho de confirmação ministerial, referido no artigo 116.º
+Art. 110.º O pedido de transferência deverá ser acompanhado de uma caução, prestada pelo pretendente à concessão pela forma e para os efeitos prescritos no artigo anterior e seu § 1.º, a qual servirá também para garantir o começo da exploração dentro do prazo de noventa dias, a contar da data da publicação no Diário do Governo do despacho de confirmação ministerial, referido no artigo 116.º
 
 § 1.º Se, decorrido o prazo que o novo concessionário tem para começar a exploração, não a tiver iniciado, reverterá para os cofres do Estado a caução respectiva e será cancelada a concessão.
 
 § 2.º A caução que o antigo concessionário tiver prestado, nos termos do artigo 109.º e seu § 1.º, responderá pela manutenção e exploração dentro do prazo a que se refere o corpo deste artigo, até ao começo da exploração pelo novo concessionário.
 
-###### Art. 111.º As empresas que, enquanto decorrer o inquérito administrativo referente a um pedido de concessão ou de sua substituição, se apresentarem a requerer a mesma concessão concorrerão com o primeiro requerente.
+Art. 111.º As empresas que, enquanto decorrer o inquérito administrativo referente a um pedido de concessão ou de sua substituição, se apresentarem a requerer a mesma concessão concorrerão com o primeiro requerente.
 
 § 1.º Os requerimentos referidos no corpo deste artigo, que poderão ser acompanhados de memória justificativa diferente da do primeiro requerente, serão submetidos juntamente com o deste ao Conselho Superior dos Transportes Terrestres.
 
 § 2.º A desistência do primeiro requerente, antes da decisão final, não impedirá que prossigam os processos dos demais pedidos de concessão, formulados nos termos do corpo deste artigo.
 
-###### Art. 112.º Na graduação de preferência entre as empresas que concorram à mesma concessão, tomar-se-á em consideração:
+Art. 112.º Na graduação de preferência entre as empresas que concorram à mesma concessão, tomar-se-á em consideração:
 
 1.º A forma como os requerentes tenham cumprido os preceitos legais e regulamentares que regem a actividade transportadora;
 
@@ -428,17 +508,17 @@ c) Os itinerários.
 
 § 7.º As dúvidas que se suscitem sobre a graduação de preferência entre os concorrentes à mesma concessão serão resolvidas por despacho do Ministro das Comunicações.
 
-###### Art. 113.º Se a empresa à qual for feita uma concessão, em virtude de preferência deduzida nos termos do artigo anterior, não iniciar a exploração dentro do prazo a que se refere o § 1.º do artigo 103.º, poderá a concessão ser dada sem mais formalidades ao concorrente que persistir no seu direito e imediatamente se lhe seguir na lista de preferência.
+Art. 113.º Se a empresa à qual for feita uma concessão, em virtude de preferência deduzida nos termos do artigo anterior, não iniciar a exploração dentro do prazo a que se refere o § 1.º do artigo 103.º, poderá a concessão ser dada sem mais formalidades ao concorrente que persistir no seu direito e imediatamente se lhe seguir na lista de preferência.
 
-###### Art. 114.º Na outorga de concessão em regime provisório, a preferência entre os concessionários que a ela concorram deduzir-se-á nos termos do artigo 112.º
+Art. 114.º Na outorga de concessão em regime provisório, a preferência entre os concessionários que a ela concorram deduzir-se-á nos termos do artigo 112.º
 
 § único. Para este efeito, deverá a Direcção-Geral de Transportes Terrestres notificar do pedido de concessão os concessionários que tenham preferência sobre o requerente, para que a deduzam, querendo, no prazo de vinte dias.
 
-###### Art. 115.º Na autorização de transportes eventuais, a preferência entre os concessionários que a requeiram deverá fundar-se ùnicamente nos n.os 2.º e 3.º do corpo do artigo 112.º e no seu § 3.º, não sendo, porém, de considerar, quanto ao que dispõe este parágrafo, as circulações apenas requeridas.
+Art. 115.º Na autorização de transportes eventuais, a preferência entre os concessionários que a requeiram deverá fundar-se ùnicamente nos n.os 2.º e 3.º do corpo do artigo 112.º e no seu § 3.º, não sendo, porém, de considerar, quanto ao que dispõe este parágrafo, as circulações apenas requeridas.
 
 § único. Nas áreas ou percursos em que tenha sido concedida a realização de transportes, nos termos das alíneas a) e b) e da alínea c) do artigo 98.º, respectivamente, só será permitida a realização de transportes eventuais aos respectivos concessionários.
 
-###### Art. 116.º A transferência de concessão, que deverá ser requerida conjuntamente pelos interessados, depende da autorização prévia do Ministro das Comunicações, ouvido o Conselho Superior dos Transportes Terrestres.
+Art. 116.º A transferência de concessão, que deverá ser requerida conjuntamente pelos interessados, depende da autorização prévia do Ministro das Comunicações, ouvido o Conselho Superior dos Transportes Terrestres.
 
 § 1.º Notificados os interessados do deferimento da sua pretensão, deverão, no prazo de trinta dias, proceder à transferência, por escritura pública, da qual será enviada certidão à Direcção-Geral de Transportes Terrestres, que submeterá o processo a despacho de confirmação ministerial.
 
@@ -452,7 +532,7 @@ c) A transferência motivada pela conversão em sociedade de uma empresa em nome
 
 § 3.º A transferência de uma concessão será efectuada sem prejuízo do seu prazo de duração e só se tornará efectiva a partir do momento em que a carreira começar a ser realizada pelo novo concessionário, cessando então toda a responsabilidade do anterior.
 
-###### Art. 117.º As concessões são susceptíveis de resgate decorrido que seja metade do prazo respectivo, mas nunca antes de três anos de exploração.
+Art. 117.º As concessões são susceptíveis de resgate decorrido que seja metade do prazo respectivo, mas nunca antes de três anos de exploração.
 
 § 1.º No caso de se efectuado o resgate de uma concessão, a importância que o Governo pagará ao respectivo concessionário, por cada ano que falte para terminar o prazo da concessão ou a prorrogação em curso, será calculada pela fórmula seguinte:
 
@@ -470,29 +550,29 @@ n = número anual de viagens simples.
 
 § 2.º As questões suscitadas pela execução ou interpretação das condições do resgate serão resolvidas pelo Ministro das Comunicações.
 
-###### Art. 118.º A suspensão temporária e o cancelamento de qualquer concessão poderão ser pedidos pelo concessionário, em requerimento devidamente fundamentado, dirigido à Direcção-Geral de Transportes Terrestres.
+Art. 118.º A suspensão temporária e o cancelamento de qualquer concessão poderão ser pedidos pelo concessionário, em requerimento devidamente fundamentado, dirigido à Direcção-Geral de Transportes Terrestres.
 
-###### Art. 119.º A autorização da suspensão temporária é da competência da Direcção-Geral de Transportes Terrestres.
+Art. 119.º A autorização da suspensão temporária é da competência da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 120.º O cancelamento, a pedido dos concessionários, só poderá ser autorizado mediante despacho ministerial, ouvido o Conselho Superior dos Transportes Terrestres, desde que não seja afectado o interesse público.
+Art. 120.º O cancelamento, a pedido dos concessionários, só poderá ser autorizado mediante despacho ministerial, ouvido o Conselho Superior dos Transportes Terrestres, desde que não seja afectado o interesse público.
 
 § único. Os despachos de deferimento serão publicados no Diário do Governo.
 
-###### Art. 121.º Os concessionários, enquanto não decorrer o prazo de um ano, a contar da data do cancelamento determinado nos termos do artigo 207.º, não poderão requerer qualquer concessão nem a ela concorrer nos termos do artigo 111.º
+Art. 121.º Os concessionários, enquanto não decorrer o prazo de um ano, a contar da data do cancelamento determinado nos termos do artigo 207.º, não poderão requerer qualquer concessão nem a ela concorrer nos termos do artigo 111.º
 
 ...
 
-###### Art. 124.º Os concessionários são obrigados a explorar directamente os transportes que lhes tenham sido concedidos, sendo, porém, admitida a celebração, entre dois ou mais concessionários da mesma região, de acordos de cooperação que abranjam a exploração conjunta dos respectivos serviços, devendo tais acordos ser sujeitos a prévia aprovação do Ministro das Comunicações.
+Art. 124.º Os concessionários são obrigados a explorar directamente os transportes que lhes tenham sido concedidos, sendo, porém, admitida a celebração, entre dois ou mais concessionários da mesma região, de acordos de cooperação que abranjam a exploração conjunta dos respectivos serviços, devendo tais acordos ser sujeitos a prévia aprovação do Ministro das Comunicações.
 
-###### Art. 125.º Os transportes colectivos rodoviários atribuídos à empresa ferroviária poderão ser explorados por terceiros, mediante contrato celebrado com empresas concessionárias de carreiras na região.
+Art. 125.º Os transportes colectivos rodoviários atribuídos à empresa ferroviária poderão ser explorados por terceiros, mediante contrato celebrado com empresas concessionárias de carreiras na região.
 
 § único. Os contratos a que se refere o corpo deste artigo carecem de aprovação da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 126.º Se um concessionário abandonar ou interromper, total ou parcialmente, a exploração do serviço público antes de findar o prazo por que este foi concedido, poderá o Ministro das Comunicações determinar que a Direcção-Geral de Transportes Terrestres dirija provisòriamente a exploração, continuando todas as despesas que dela resultem a cargo do concessionário faltoso.
+Art. 126.º Se um concessionário abandonar ou interromper, total ou parcialmente, a exploração do serviço público antes de findar o prazo por que este foi concedido, poderá o Ministro das Comunicações determinar que a Direcção-Geral de Transportes Terrestres dirija provisòriamente a exploração, continuando todas as despesas que dela resultem a cargo do concessionário faltoso.
 
 § único. ...
 
-###### Art. 127.º Os concessionários são obrigados a assegurar o tráfego normal que se verificar no percurso onde efectuem o serviço público, realizando, quando necessário, os indispensáveis desdobramentos, com início, quer na origem das carreiras, quer em pontos de escala intermédios.
+Art. 127.º Os concessionários são obrigados a assegurar o tráfego normal que se verificar no percurso onde efectuem o serviço público, realizando, quando necessário, os indispensáveis desdobramentos, com início, quer na origem das carreiras, quer em pontos de escala intermédios.
 
 § 1.º Para este efeito poderá a Direcção-Geral de Transportes Terrestres tomar as medidas que julgar convenientes, designadamente impor aos concessionários a aquisição do necessário material.
 
@@ -502,19 +582,19 @@ n = número anual de viagens simples.
 
 ...
 
-###### Art. 130.º Os desdobramentos efectuados serão participados à Direcção-Geral de Transportes Terrestres em relações mensais, que nela deverão dar entrada até ao dia 7 do mês imediato àquele a que respeitam.
+Art. 130.º Os desdobramentos efectuados serão participados à Direcção-Geral de Transportes Terrestres em relações mensais, que nela deverão dar entrada até ao dia 7 do mês imediato àquele a que respeitam.
 
-###### Art. 131.º Os concessionários são obrigados a assegurar o transporte das pessoas munidas de bilhetes de serviço combinado, quer com a concessionária ferroviária, quer com outros concessionários de transportes colectivos rodoviários, nos veículos que efectuarem a viagem que dê ligação ao comboio ou ao veículo automóvel utilizado, nos termos dos respectivos contratos ou esquemas de serviço combinado.
+Art. 131.º Os concessionários são obrigados a assegurar o transporte das pessoas munidas de bilhetes de serviço combinado, quer com a concessionária ferroviária, quer com outros concessionários de transportes colectivos rodoviários, nos veículos que efectuarem a viagem que dê ligação ao comboio ou ao veículo automóvel utilizado, nos termos dos respectivos contratos ou esquemas de serviço combinado.
 
-###### Art. 132.º Sempre que a fiscalização da Direcção-Geral de Transportes Terrestres ocupar um lugar nos veículos utilizados em transportes colectivos, poderá ser excedida em uma unidade a sua lotação.
-
-...
-
-###### Art. 135.º Nos pontos extremos ou intermédios do percurso de carreiras interurbanas poderá haver estações de camionagem ou simples abrigos para passageiros, atendendo-se sempre, quer para efeitos da sua localização, quer na elaboração dos respectivos projectos, às exigências fundamentais de coordenação das explorações de transportes, de ordenação e circulação do tráfego rodoviário e de comodidade dos utentes.
+Art. 132.º Sempre que a fiscalização da Direcção-Geral de Transportes Terrestres ocupar um lugar nos veículos utilizados em transportes colectivos, poderá ser excedida em uma unidade a sua lotação.
 
 ...
 
-###### Art. 136.º As carreiras serão exploradas segundo as seguintes normas:
+Art. 135.º Nos pontos extremos ou intermédios do percurso de carreiras interurbanas poderá haver estações de camionagem ou simples abrigos para passageiros, atendendo-se sempre, quer para efeitos da sua localização, quer na elaboração dos respectivos projectos, às exigências fundamentais de coordenação das explorações de transportes, de ordenação e circulação do tráfego rodoviário e de comodidade dos utentes.
+
+...
+
+Art. 136.º As carreiras serão exploradas segundo as seguintes normas:
 
 I) Carreiras interurbanas:
 
@@ -542,7 +622,7 @@ d) Pagamento de imposto do selo sobre cada bilhete vendido, incluindo os de assi
 
 e) Tarifas por zonas.
 
-###### Art. 137.º Os transportes eventuais obedecerão, na sua realização, às regras seguintes:
+Art. 137.º Os transportes eventuais obedecerão, na sua realização, às regras seguintes:
 
 a) Pagamento de imposto de camionagem;
 
@@ -550,7 +630,7 @@ b) Proibição de transporte de mercadorias;
 
 c) Tarifas a fixar nos termos do artigo 148.º
 
-###### Art. 138.º Os locais de paragem e de estacionamento dos veículos afectos a carreiras interurbanas serão fixados pela Direcção-Geral de Transportes Terrestres, e não poderão ser alterados pelos respectivos concessionários senão por motivos de força maior.
+Art. 138.º Os locais de paragem e de estacionamento dos veículos afectos a carreiras interurbanas serão fixados pela Direcção-Geral de Transportes Terrestres, e não poderão ser alterados pelos respectivos concessionários senão por motivos de força maior.
 
 § 1.º A fixação, dentro das povoações, dos itinerários e locais de paragem e de estacionamento dos veículos adstritos a carreiras interurbanas compete às respectivas câmaras municipais, a requerimento dos interessados.
 
@@ -558,11 +638,11 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 § 3.º Uma vez aprovada a localização de estações de camionagem e de simples abrigos, deverão as câmaras municipais atender a essa localização na fixação dos itinerários e locais de paragem e estacionamento das carreiras interurbanas, dentro das respectivas povoações, por forma que se tenda para a identificação desses locais com os superiormente aprovados.
 
-###### Art. 139.º Os veículos automóveis empregados na realização de carreiras só poderão parar, tomar e largar passageiros, bagagens e mercadorias, segundo normas estabelecidas pela Direcção-Geral de Transportes Terrestres, nos locais fixados nos termos do artigo anterior, salvo em circunstâncias especiais devidamente definidas pela mesma Direcção-Geral, no tocante aos locais a que se refere o corpo do mesmo artigo.
+Art. 139.º Os veículos automóveis empregados na realização de carreiras só poderão parar, tomar e largar passageiros, bagagens e mercadorias, segundo normas estabelecidas pela Direcção-Geral de Transportes Terrestres, nos locais fixados nos termos do artigo anterior, salvo em circunstâncias especiais devidamente definidas pela mesma Direcção-Geral, no tocante aos locais a que se refere o corpo do mesmo artigo.
 
 § único. Nos casos das alíneas a) e b) do corpo do artigo 98.º, é vedado aos veículos empregados em carreiras interurbanas tomar passageiros e respectivas bagagens, desde que o local do seu destino fique dentro da mesma área, salvo se, não existindo exclusivo de transportes colectivos urbanos, não houver carreiras urbanas que o permitam servir.
 
-###### Art. 140.º Os horários das carreiras serão fixados pela Direcção-Geral de Transportes Terrestres, tendo em atenção o interesse público, a utilização mais produtiva pelo concessionário do seu pessoal e material e o disposto no artigo 81.º
+Art. 140.º Os horários das carreiras serão fixados pela Direcção-Geral de Transportes Terrestres, tendo em atenção o interesse público, a utilização mais produtiva pelo concessionário do seu pessoal e material e o disposto no artigo 81.º
 
 § 1.º Os horários aprovados nos termos do corpo deste artigo poderão prever maior frequência de ligações entre pontos do percurso de carreiras interurbanas em que se verifique especial intensidade de tráfego, desde que entre esses pontos não haja outras carreiras, ou daí não resulte concorrência ao caminho de ferro.
 
@@ -574,7 +654,7 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 § 5.º Quando se trate de carreiras que efectuem o transporte de sacos postais, será prèviamente ouvida a administração dos Correios e Telecomunicações de Portugal, mas se esta não der parecer no prazo de quinze dias a contar da data do ofício de consulta, a Direcção-Geral de Transportes Terrestres fixará os horários, prescindindo do seu parecer.
 
-###### Art. 141.º As carreiras poderão ter, além do seu horário normal, um horário extraordinário, aplicável em dias de tráfego excepcional.
+Art. 141.º As carreiras poderão ter, além do seu horário normal, um horário extraordinário, aplicável em dias de tráfego excepcional.
 
 § 1.º Os horários normais serão estabelecidos por ocasião da outorga das concessões e poderão ser alterados a requerimento dos concessionários ou por iniciativa da Direcção Geral de Transportes Terrestres.
 
@@ -582,21 +662,21 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 § 3.º Dos horários normais ou extraordinários constará, sempre que possível, a hora da passagem dos veículos nas localidades servidas pelas carreiras.
 
-###### Art. 142.º As carreiras afluentes com origem comum não podem ter horários que permitam serviço combinado entre si, desde que as duas carreiras ligadas constituam um serviço concorrente ao caminho de ferro, salvo se para tanto forem autorizadas pelo Ministro das Comunicações, fundado em motivos de interesse público, caso em que as carreiras passarão a ser classificadas de concorrentes.
+Art. 142.º As carreiras afluentes com origem comum não podem ter horários que permitam serviço combinado entre si, desde que as duas carreiras ligadas constituam um serviço concorrente ao caminho de ferro, salvo se para tanto forem autorizadas pelo Ministro das Comunicações, fundado em motivos de interesse público, caso em que as carreiras passarão a ser classificadas de concorrentes.
 
-###### Art. 143.º Na fixação dos horários das carreiras, atender-se-á aos limites de velocidade estabelecidos no Código da Estrada, às condições das estradas e do tráfego e às características dos veículos.
+Art. 143.º Na fixação dos horários das carreiras, atender-se-á aos limites de velocidade estabelecidos no Código da Estrada, às condições das estradas e do tráfego e às características dos veículos.
 
 § único. Os horários deverão ser fixados por forma que a velocidade média da marcha dos veículos pesados empregados nas carreiras não exceda 40 km por hora, entre as povoações que constem dos horários, salvo em casos especiais, em que a Direcção-Geral de Transportes Terrestres poderá permitir velocidades médias superiores, atendendo às condições e características do tráfego e das estradas.
 
-###### Art. 144.º Nas carreiras urbanas, além das viagens correspondentes às frequências mínimas fixadas nos termos do artigo 136.º, ficam os concessionários obrigados a efectuar as viagens necessárias para satisfazer as exigências do tráfego nas ocasiões de maior movimento.
+Art. 144.º Nas carreiras urbanas, além das viagens correspondentes às frequências mínimas fixadas nos termos do artigo 136.º, ficam os concessionários obrigados a efectuar as viagens necessárias para satisfazer as exigências do tráfego nas ocasiões de maior movimento.
 
 ...
 
-###### Art. 146.º As tarifas das carreiras urbanas estão sujeitas a aprovação do Ministro das Comunicações mediante informação da Direcção-Geral de Transportes Terrestres, ouvidas as câmaras municipais interessadas quando as concessões não sejam por elas directamente exploradas, considerando-se concordante, porém, o seu parecer quando o não comuniquem no prazo de sessenta dias.
+Art. 146.º As tarifas das carreiras urbanas estão sujeitas a aprovação do Ministro das Comunicações mediante informação da Direcção-Geral de Transportes Terrestres, ouvidas as câmaras municipais interessadas quando as concessões não sejam por elas directamente exploradas, considerando-se concordante, porém, o seu parecer quando o não comuniquem no prazo de sessenta dias.
 
 § único. As tarifas das carreiras interurbanas carecem de aprovação da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 147.º As tarifas serão estabelecidas tendo em atenção os vários factores que influem no custo da prestação de transporte de uma empresa bem gerida e em condições de emprego normal da sua capacidade transportadora, devendo atender-se também, na sua fixação, à necessidade do estabelecimento de uma concorrência regrada, bem como a permitir aos concessionários obter uma remuneração equitativa de acordo com a procura previsível, o progresso técnico, e a evolução económica e social.
+Art. 147.º As tarifas serão estabelecidas tendo em atenção os vários factores que influem no custo da prestação de transporte de uma empresa bem gerida e em condições de emprego normal da sua capacidade transportadora, devendo atender-se também, na sua fixação, à necessidade do estabelecimento de uma concorrência regrada, bem como a permitir aos concessionários obter uma remuneração equitativa de acordo com a procura previsível, o progresso técnico, e a evolução económica e social.
 
 § 1.º A Direcção-Geral de Transportes Terrestres poderá fixar para determinados percursos valores mínimos de cobrança, bem como fixar um preço único por passageiro em carreiras de percurso não superior a 5 km, por sua iniciativa ou a requerimento do concessionário.
 
@@ -604,25 +684,25 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 § 3.º Quando duas carreiras com a mesma origem tenham percursos coincidentes, por forma que a mais extensa compreenda inteiramente o percurso da outra, a Direcção-Geral de Transportes Terrestres poderá autorizar, a título excepcional, que na carreira de maior extensão, não possa cobrar-se, entre a origem comum e qualquer ponto do percurso igualmente servido pela carreira menos extensa, um preço inferior ao que nesta estiver fixado para a totalidade do percurso. Nos veículos empregados na carreira mais extensa deverá indicar-se até onde se efectua o serviço directo.
 
-###### Art. 148.º As tarifas dos transportes eventuais, a fixar pelas direcções de viação, serão iguais às das carreiras existentes no mesmo percurso. Se no percurso não existirem carreiras, deverão ter-se em conta, na sua fixação, os limites fixados nos termos do artigo 145.º
+Art. 148.º As tarifas dos transportes eventuais, a fixar pelas direcções de viação, serão iguais às das carreiras existentes no mesmo percurso. Se no percurso não existirem carreiras, deverão ter-se em conta, na sua fixação, os limites fixados nos termos do artigo 145.º
 
-###### Art. 149.º Nas carreiras de passageiros não é permitida a concessão de passes ou quaisquer reduções além das regulamentares.
+Art. 149.º Nas carreiras de passageiros não é permitida a concessão de passes ou quaisquer reduções além das regulamentares.
 
 ...
 
-###### Art. 151.º Nas carreiras interurbanas as crianças de idade igual ou superior a 4 e inferior a 12 anos pagarão meio bilhete, tendo direito à ocupação de lugar, nos termos do artigo 163.º
+Art. 151.º Nas carreiras interurbanas as crianças de idade igual ou superior a 4 e inferior a 12 anos pagarão meio bilhete, tendo direito à ocupação de lugar, nos termos do artigo 163.º
 
-###### Art. 152.º Em todas as carreiras de passageiros é obrigatório o uso de bilhetes individuais, cuja apresentação poderá ser exigida pelos empregados do concessionário ou pelos agentes de fiscalização.
+Art. 152.º Em todas as carreiras de passageiros é obrigatório o uso de bilhetes individuais, cuja apresentação poderá ser exigida pelos empregados do concessionário ou pelos agentes de fiscalização.
 
 § único. Poderá ser vendido um único bilhete, a utilizar em duas ou mais carreiras que se realizem no mesmo dia, do mesmo concessionário ou de concessionários diferentes, desde que entre eles exista contrato de serviço combinado ou acordo de exploração conjunta.
 
-###### Art. 153.º A venda dos bilhetes efectuar-se-á nas bilheteiras, antes da hora da partida, ou dentro dos veículos.
+Art. 153.º A venda dos bilhetes efectuar-se-á nas bilheteiras, antes da hora da partida, ou dentro dos veículos.
 
 § 1.º A cada passageiro deve ser entregue o bilhete antes do termo da zona do percurso em que tiver tomado o veículo.
 
 § 2.º Os bilhetes de assinatura só poderão ser vendidos nas bilheteiras ou nos escritórios da empresa.
 
-###### Art. 154.º Os bilhetes a utilizar nas carreiras interurbanas poderão ser simples, de ida e volta e de assinatura, não podendo ser concedida redução superior a 20 por cento nos de ida e volta, e 30 por cento nos de assinatura, sobre os preços das passagens normais, aprovados nos termos deste Regulamento.
+Art. 154.º Os bilhetes a utilizar nas carreiras interurbanas poderão ser simples, de ida e volta e de assinatura, não podendo ser concedida redução superior a 20 por cento nos de ida e volta, e 30 por cento nos de assinatura, sobre os preços das passagens normais, aprovados nos termos deste Regulamento.
 
 § 1.º Se o bilhete não for utilizado na viagem para que tiver sido adquirido, poderá ser revalidado para nova viagem a realizar até dois dias depois, mediante pagamento de uma sobretaxa de 25 por cento sobre o seu preço.
 
@@ -642,13 +722,13 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 § 9.º Nas carreiras concorrentes não poderá ser concedida qualquer redução, salvo nos casos previstos no § 5.º deste artigo.
 
-###### Art. 155.º Dos bilhetes das carreiras interurbanas deverão constar a firma do concessionário e o respectivo preço, bem como outras indicações que a Direcção-Geral de Transportes Terrestres entenda convenientes.
+Art. 155.º Dos bilhetes das carreiras interurbanas deverão constar a firma do concessionário e o respectivo preço, bem como outras indicações que a Direcção-Geral de Transportes Terrestres entenda convenientes.
 
-###### Art. 156.º Nas carreiras urbanas os bilhetes poderão ser simples e de assinatura.
+Art. 156.º Nas carreiras urbanas os bilhetes poderão ser simples e de assinatura.
 
 § único. Os bilhetes de assinatura poderão ser mensais, trimestrais, semestrais ou anuais, válidos ou não para todas as carreiras do mesmo concessionário e para um número ilimitado de viagens, carecendo o respectivo modelo de aprovação da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 157.º ...
+Art. 157.º ...
 
 § 1.º Os veículos em que se efectuem esses transportes serão devidamente assinalados, conforme determinação da Direcção-Geral de Transportes Terrestres.
 
@@ -656,7 +736,7 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 ...
 
-###### Art. 162.º O bilhete confere ao passageiro o direito a um lugar sentado no veículo que efectuar a carreira para que foi adquirido, salvo em carreiras urbanas ou em interurbanas que prestam serviço do mesmo tipo em que a Direcção-Geral de Transportes Terrestres poderá permitir que parte dos passageiros viagem de pé, em condições compatíveis com a sua segurança e desde que nelas sejam utilizados veículos com as características dos empregados em transportes urbanos.
+Art. 162.º O bilhete confere ao passageiro o direito a um lugar sentado no veículo que efectuar a carreira para que foi adquirido, salvo em carreiras urbanas ou em interurbanas que prestam serviço do mesmo tipo em que a Direcção-Geral de Transportes Terrestres poderá permitir que parte dos passageiros viagem de pé, em condições compatíveis com a sua segurança e desde que nelas sejam utilizados veículos com as características dos empregados em transportes urbanos.
 
 § 1.º Consideram-se cativos, para passageiros inválidos, doentes ou idosos e senhoras grávidas ou transportando crianças ao colo, quatro lugares, correspondentes aos primeiros bancos, a partir da entrada dos veículos com plataforma, utilizados em carreiras urbanas. Estes lugares serão devidamente assinalados por meio de um letreiro com a seguinte indicação: «reservado para passageiros inválidos, doentes ou idosos e senhoras grávidas ou com crianças ao colo.»
 
@@ -668,7 +748,7 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 ...
 
-###### Art. 164.º ...
+Art. 164.º ...
 
 ...
 
@@ -676,7 +756,7 @@ c) Tarifas a fixar nos termos do artigo 148.º
 
 ...
 
-###### Art. 166.º Nos veículos de passageiros afectos a carreiras interurbanas é obrigatório o transporte gratuito das bagagens dos mesmos, quando o respectivo peso não exceda os 20 kg por passageiro.
+Art. 166.º Nos veículos de passageiros afectos a carreiras interurbanas é obrigatório o transporte gratuito das bagagens dos mesmos, quando o respectivo peso não exceda os 20 kg por passageiro.
 
 § 1.º As crianças portadoras de meio bilhete têm direito ao transporte gratuito de 10 kg de bagagem.
 
@@ -702,9 +782,9 @@ f) Ferramentas de artífices em caixas ou sacos, quando possam ser transportados
 
 § 6.º O concessionário só é obrigado ao transporte do excesso do peso da bagagem dentro dos limites da capacidade do veículo.
 
-###### Art. 167.º Nas carreiras urbanas é obrigatório o transporte gratuito de bagagens no interior dos veículos, em grades, redes e outros lugares adequados, desde que, pelas suas dimensões e natureza, não incomodem ou prejudiquem os outros passageiros nem danifiquem os veículos.
+Art. 167.º Nas carreiras urbanas é obrigatório o transporte gratuito de bagagens no interior dos veículos, em grades, redes e outros lugares adequados, desde que, pelas suas dimensões e natureza, não incomodem ou prejudiquem os outros passageiros nem danifiquem os veículos.
 
-###### Art. 168.º Nos veículos empregados em carreiras interurbanas de passageiros é permitido o transporte de mercadorias, desde que o respectivo peso não exceda, conjuntamente com a bagagem e sacos do correio transportados em cada viagem, o peso bruto aprovado para o veículo.
+Art. 168.º Nos veículos empregados em carreiras interurbanas de passageiros é permitido o transporte de mercadorias, desde que o respectivo peso não exceda, conjuntamente com a bagagem e sacos do correio transportados em cada viagem, o peso bruto aprovado para o veículo.
 
 § 1.º Se nos respectivos percursos existirem, porém, carreiras de mercadorias ou mistas, apenas é permitido o seu transporte em pequenos volumes, de peso não superior a 15 kg.
 
@@ -712,7 +792,7 @@ f) Ferramentas de artífices em caixas ou sacos, quando possam ser transportados
 
 ...
 
-###### Art. 169.º As bagagens e mercadorias serão obrigatòriamente postas à disposição do destinatário dentro das vinte e quatro horas seguintes à sua expedição, que será feita, sempre que possível, na primeira carreira a realizar segundo o horário em vigor.
+Art. 169.º As bagagens e mercadorias serão obrigatòriamente postas à disposição do destinatário dentro das vinte e quatro horas seguintes à sua expedição, que será feita, sempre que possível, na primeira carreira a realizar segundo o horário em vigor.
 
 § 1.º No caso de atraso, o concessionário fica obrigado a pagar uma indemnização fixada em $50 por quilómetro de peso bruto das bagagens ou mercadorias demoradas e por período indivisível de vinte e quatro horas até ao máximo de sete dias.
 
@@ -724,7 +804,7 @@ f) Ferramentas de artífices em caixas ou sacos, quando possam ser transportados
 
 ...
 
-###### Art. 174.º Os concessionários são obrigados a transportar os sacos postais permutados normalmente entre pontos do percurso das carreiras que efectuem, nas seguintes condições:
+Art. 174.º Os concessionários são obrigados a transportar os sacos postais permutados normalmente entre pontos do percurso das carreiras que efectuem, nas seguintes condições:
 
 a) Remuneração a fixar nos ternos do artigo 179.º;
 
@@ -732,19 +812,19 @@ b) Observância dos horários estabelecidos;
 
 c) Recepção e entrega dos sacos nos locais de paragem das carreiras a fazer pelos agentes dos Correios e Telecomunicações de Portugal, auxiliados pelo pessoal dos concessionários, podendo esses locais ser diferentemente determinados por livre acordo entre os Correios e Telecomunicações de Portugal e os mesmos concessionários.
 
-###### Art. 175.º Para celebrar contratos ou ajustes de transportes de sacos postais em veículos de transportes colectivos rodoviários os Correios e Telecomunicações de Portugal deverão sempre exigir das empresas a apresentação do respectivo título de concessão.
+Art. 175.º Para celebrar contratos ou ajustes de transportes de sacos postais em veículos de transportes colectivos rodoviários os Correios e Telecomunicações de Portugal deverão sempre exigir das empresas a apresentação do respectivo título de concessão.
 
 ...
 
-###### Art. 178.º Quando seja atingida a capacidade do veículo e a remessa postal ultrapassar 200 kg, ficará o concessionário autorizado a deixar para a carreira imediata os sacos existentes, dando prioridade de transporte àqueles que contenham correspondência e lhe sejam indicados pelo agente local expedidor.
+Art. 178.º Quando seja atingida a capacidade do veículo e a remessa postal ultrapassar 200 kg, ficará o concessionário autorizado a deixar para a carreira imediata os sacos existentes, dando prioridade de transporte àqueles que contenham correspondência e lhe sejam indicados pelo agente local expedidor.
 
-###### Art. 179.º ...
+Art. 179.º ...
 
 a = Coeficiente de remuneração a fixar periòdicamente pelo Ministro das Comunicações, ouvidos os Correios e Telecomunicações de Portugal.
 
 ...
 
-###### Art. 180.º ...
+Art. 180.º ...
 
 ...
 
@@ -752,19 +832,19 @@ a = Coeficiente de remuneração a fixar periòdicamente pelo Ministro das Comun
 
 ...
 
-###### Art. 182.º Nos automóveis pesados empregados em carreiras de passageiros, além do respectivo condutor, prestará serviço um cobrador, salvo se existir qualquer outro processo de cobrança, mecânico ou não, devidamente aprovado para cada caso pela Direcção-Geral de Transportes Terrestres.
+Art. 182.º Nos automóveis pesados empregados em carreiras de passageiros, além do respectivo condutor, prestará serviço um cobrador, salvo se existir qualquer outro processo de cobrança, mecânico ou não, devidamente aprovado para cada caso pela Direcção-Geral de Transportes Terrestres.
 
 § único. Só podem exercer a profissão de cobrador indivíduos maiores ou emancipados.
 
 ...
 
-###### Art. 185.º ...
+Art. 185.º ...
 
 § único. Se este pessoal for insuficiente, inábil ou negligente, a Direcção-Geral de Transportes Terrestres obrigará os concessionários a aumentá-lo ou substituí-lo.
 
-###### Art. 186.º Os concessionários são obrigados a ter à disposição da Direcção-Geral de Transportes Terrestres um registo actualizado com os nomes e residências dos condutores e cobradores ao seu serviço, bem como um registo diário dos condutores e cobradores em serviço e dos veículos em que trabalham.
+Art. 186.º Os concessionários são obrigados a ter à disposição da Direcção-Geral de Transportes Terrestres um registo actualizado com os nomes e residências dos condutores e cobradores ao seu serviço, bem como um registo diário dos condutores e cobradores em serviço e dos veículos em que trabalham.
 
-###### Art. 187.º O pessoal que presta serviço nos veículos empregados em transportes colectivos de passageiros é obrigado a:
+Art. 187.º O pessoal que presta serviço nos veículos empregados em transportes colectivos de passageiros é obrigado a:
 
 a) Usar da maior deferência para com os passageiros e agentes de fiscalização, prestando a uns e outros todos os esclarecimentos que lhe sejam pedidos;
 
@@ -788,7 +868,7 @@ h) Não utilizar, e velar por que os passageiros não o façam, aparelhos de T. 
 
 § 3.º A obrigação de paragem para tomada de passageiros cessa quando o veículo tiver a sua lotação completa, devidamente sinalizada.
 
-###### Art. 188.º Aos passageiros de transportes colectivos é proibido:
+Art. 188.º Aos passageiros de transportes colectivos é proibido:
 
 a) Viajar sem se munir do título válido ou ultrapassar a paragem para que aquele tem validade sem pagar um bilhete suplementar;
 
@@ -816,11 +896,11 @@ m) Recusar identificar-se quando tal lhe seja exigido pelos empregados do conces
 
 ...
 
-###### Art. 192.º O número mínimo de veículos a empregar nas carreiras será fixado pela Direcção-Geral de Transportes Terrestres, tendo em atenção o tráfego normal do percurso em que se vai efectuar o serviço público e a necessária reserva de material circulante.
+Art. 192.º O número mínimo de veículos a empregar nas carreiras será fixado pela Direcção-Geral de Transportes Terrestres, tendo em atenção o tráfego normal do percurso em que se vai efectuar o serviço público e a necessária reserva de material circulante.
 
 § único. Em casos especiais poderá a Direcção-Geral de Transportes Terrestres fixar o número máximo de veículos a empregar nas carreiras.
 
-###### Art. 193.º O concessionário deverá, em princípio, efectuar as suas carreiras com veículos de sua propriedade.
+Art. 193.º O concessionário deverá, em princípio, efectuar as suas carreiras com veículos de sua propriedade.
 
 § 1.º Pode, no entanto, utilizar veículos de terceiros devidamente licenciados para transportes colectivos:
 
@@ -834,17 +914,17 @@ d) Em outros casos excepcionais, mediante autorização da Direcção-Geral de T
 
 § 2.º Não sendo possível, no caso previsto na alínea b) do parágrafo anterior, pedir prèviamente autorização à Direcção-Geral de Transportes Terrestres, deverá ser apresentada a respectiva justificação no dia imediato.
 
-###### Art. 194.º Para cada veículo que pretenda empregar na exploração de transportes colectivos deverá o concessionário requerer uma licença, que acompanhará sempre o veículo a que respeita, e que será passada pela Direcção-Geral de Transportes Terrestres.
+Art. 194.º Para cada veículo que pretenda empregar na exploração de transportes colectivos deverá o concessionário requerer uma licença, que acompanhará sempre o veículo a que respeita, e que será passada pela Direcção-Geral de Transportes Terrestres.
 
 § único. Todos os veículos licenciados nos termos do corpo deste artigo serão considerados como afectos à exploração de todas as carreiras de que o respectivo proprietário seja concessionário.
 
-###### Art. 195.º As licenças a que se refere o artigo anterior serão enviadas pela Direcção-Geral de Transportes Terrestres às repartições de finanças com jurisdição nas áreas das sedes dos concessionários, a fim de serem visadas e seguidamente entregues àqueles, para o que serão postas à sua disposição mediante aviso prévio.
+Art. 195.º As licenças a que se refere o artigo anterior serão enviadas pela Direcção-Geral de Transportes Terrestres às repartições de finanças com jurisdição nas áreas das sedes dos concessionários, a fim de serem visadas e seguidamente entregues àqueles, para o que serão postas à sua disposição mediante aviso prévio.
 
 § único. O visto aposto na licença implica para a secção de finanças a obrigação de ponderar a lotação do respectivo veículo no cálculo do imposto de camionagem de todas as carreiras daquele concessionário.
 
-###### Art. 196.º Sempre que qualquer veículo adstrito a transportes colectivos rodoviários se inutilize para o serviço em que era empregado, seja transferido de proprietário ou seja desafectado daquela utilização, o concessionário deverá solicitar à Direcção-Geral de Transportes Terrestres o cancelamento da respectiva licença.
+Art. 196.º Sempre que qualquer veículo adstrito a transportes colectivos rodoviários se inutilize para o serviço em que era empregado, seja transferido de proprietário ou seja desafectado daquela utilização, o concessionário deverá solicitar à Direcção-Geral de Transportes Terrestres o cancelamento da respectiva licença.
 
-###### Art. 197.º Os veículos destinados a transportes colectivos devem ter, em local bem visível:
+Art. 197.º Os veículos destinados a transportes colectivos devem ter, em local bem visível:
 
 1) No interior:
 
@@ -868,13 +948,13 @@ b) Nas carreiras de mercadorias, um letreiro contendo os dizeres «Transporte co
 
 § 4.º É permitida a afixação de anúncios nestes veículos, nas condições fixadas em portaria do Ministro das Comunicações.
 
-###### Art. 2.º O título III - Das penalidades - do mesmo Regulamento passa a compreender os seguintes artigos:
+Art. 2.º O título III - Das penalidades - do mesmo Regulamento passa a compreender os seguintes artigos:
 
-###### Art. 207.º Independentemente das demais sanções aplicáveis, são punidas com cancelamento da concessão as infracções aos artigos 103.º, § 1.º, e 124.º, o abandono ou interrupção, total ou parcial, da exploração de carreiras, a recusa de aquisição do material necessário à exploração e, de uma forma geral, o não cumprimento das cláusulas da concessão que, pela sua frequência ou natureza, seja considerado incompatível com a qualidade de concessionário de um serviço público.
+Art. 207.º Independentemente das demais sanções aplicáveis, são punidas com cancelamento da concessão as infracções aos artigos 103.º, § 1.º, e 124.º, o abandono ou interrupção, total ou parcial, da exploração de carreiras, a recusa de aquisição do material necessário à exploração e, de uma forma geral, o não cumprimento das cláusulas da concessão que, pela sua frequência ou natureza, seja considerado incompatível com a qualidade de concessionário de um serviço público.
 
 § único. No despacho que determinar o cancelamento fixar-se-á a data em que se tornará efectivo, devendo ser convidados a concorrer à concessão cancelada os concessionários que operem no mesmo percurso, respeitando-se as regras de preferência e, não os havendo, que explorem carreiras nos concelhos em que a carreira efectuada ao abrigo da concessão cancelada se desenvolvia, preferindo os que neles sirvam maior número de quilómetros.
 
-###### Art. 208.º É punida com a multa de 10000$00 a realização de transportes públicos - de aluguer ou colectivos - sem título de licenciamento.
+Art. 208.º É punida com a multa de 10000$00 a realização de transportes públicos - de aluguer ou colectivos - sem título de licenciamento.
 
 § 1.º A realização de transportes colectivos em veículos com a indicação de serviço de aluguer ou licenciados para transportes turísticos constitui acto de concorrência desleal, podendo, em caso de condenação judicial, havendo reincidência, ser canceladas as licenças de que o infractor seja titular.
 
@@ -882,11 +962,11 @@ b) Nas carreiras de mercadorias, um letreiro contendo os dizeres «Transporte co
 
 § 3.º Os transportes públicos efectuados sem licença por esta ter sido apreendida ou cancelada implicam, além de multa, procedimento criminal por desobediência. Havendo condenação por este crime, o veículo ou veículos a eles afectos serão apreendidos pelo prazo de seis meses.
 
-###### Art. 209.º A recusa pelos concessionários, da realização de transportes eventuais que lhes tenha sido imposta nos termos do artigo 94.º e da exploração de carreiras cujo estabelecimento, manutenção ou prolongamento lhes tenham sido impostos, ao abrigo do disposto na alínea a) do corpo do artigo 97.º, serão punidas com a multa de 10000$00.
+Art. 209.º A recusa pelos concessionários, da realização de transportes eventuais que lhes tenha sido imposta nos termos do artigo 94.º e da exploração de carreiras cujo estabelecimento, manutenção ou prolongamento lhes tenham sido impostos, ao abrigo do disposto na alínea a) do corpo do artigo 97.º, serão punidas com a multa de 10000$00.
 
-###### Art. 210.º O transporte de mercadorias pertencentes aos transportadores públicos, realizado em veículos seus licenciados para transportes públicos, para além do raio de círculo de aluguer ou dos itinerários das concessões, será punido com a multa de 5000$00, agravada para 7500$00 e 10000$00 em caso de reincidências sucessivas.
+Art. 210.º O transporte de mercadorias pertencentes aos transportadores públicos, realizado em veículos seus licenciados para transportes públicos, para além do raio de círculo de aluguer ou dos itinerários das concessões, será punido com a multa de 5000$00, agravada para 7500$00 e 10000$00 em caso de reincidências sucessivas.
 
-###### Art. 211.º São punidas com a multa de 5000$00:
+Art. 211.º São punidas com a multa de 5000$00:
 
 a) A transgressão dos artigos 8.º, 20.º, 27.º, e seus parágrafos, 41.º e 144.º;
 
@@ -908,7 +988,7 @@ h) Os transportes a que se refere o § 1.º do artigo 1.º, quando realizados se
 
 § 2.º A tentativa de inobservância de disposições relativas a tarifas é punida com a multa de 1000$00.
 
-###### Art. 212.º Serão punidas com a multa de 500$00;
+Art. 212.º Serão punidas com a multa de 500$00;
 
 a) As transgressões dos artigos 4.º, 46.º, 130.º e do § único do artigo 139.º;
 
@@ -916,7 +996,7 @@ b) A inobservância dos horários aprovados;
 
 c) A alteração do local de estacionamento de veículos de aluguer, dentro da localidade em que o veículo está autorizado a estacionar.
 
-###### Art. 213.º São punidas com a multa de 200$00:
+Art. 213.º São punidas com a multa de 200$00:
 
 a) O transporte de cada passageiro para além do número legalmente permitido;
 
@@ -926,11 +1006,11 @@ c) O transporte de cada fracção de 15 kg a mais, em cada volume ou além do pe
 
 d) Qualquer infracção não expressamente prevista neste título.
 
-###### Art. 214.º É punida com a multa de 100$00 a transgressão do artigo 11.º, desde que os condutores apresentem os documentos no prazo de oito dias.
+Art. 214.º É punida com a multa de 100$00 a transgressão do artigo 11.º, desde que os condutores apresentem os documentos no prazo de oito dias.
 
 § único. Se os documentos mencionados não forem apresentados no prazo consignado neste artigo, presumir-se-á que os interessados não os possuem e aplicar-se-ão as sanções previstas, para o caso, neste Regulamento.
 
-###### Art. 215.º O excesso de carga útil transportada em automóveis de mercadorias será punido com a multa, expressa em escudos, que resulte da aplicação da fórmula M = (2 x E)/N, em que E representa o excesso de carga, em quilogramas, e N a carga útil, em toneladas.
+Art. 215.º O excesso de carga útil transportada em automóveis de mercadorias será punido com a multa, expressa em escudos, que resulte da aplicação da fórmula M = (2 x E)/N, em que E representa o excesso de carga, em quilogramas, e N a carga útil, em toneladas.
 
 § 1.º A mesma multa será aplicada pelo não cumprimento das limitações de carga estabelecidas para a passagem sobre pontes e obras de arte, sendo neste caso E o excesso de carga verificado, em quilogramas, e N a carga máxima, em toneladas, admissível na travessia de pontes ou obras de arte.
 
@@ -938,13 +1018,13 @@ d) Qualquer infracção não expressamente prevista neste título.
 
 § 3.º A inobservância do disposto no § anterior será punida com a multa de 5000$00.
 
-###### Art. 216.º Por cada saco, não abrangido pela limitação de carga do artigo 178.º, que o concessionário ou seus agentes se recusem a transportar será aplicada uma multa no valor da remuneração diária R, a descontar nos pagamentos mensais. Esta multa será triplicada quando haja reincidência dentro do mesmo mês.
+Art. 216.º Por cada saco, não abrangido pela limitação de carga do artigo 178.º, que o concessionário ou seus agentes se recusem a transportar será aplicada uma multa no valor da remuneração diária R, a descontar nos pagamentos mensais. Esta multa será triplicada quando haja reincidência dentro do mesmo mês.
 
 § 1.º Quando se derem seis faltas de transporte seguidas ou doze interpoladas num período de dois meses, poderá a Direcção-Geral de Transportes Terrestres cancelar a concessão.
 
 § 2.º A importância das multas aplicadas nos termos deste artigo constituirá receita dos Correios e Telecomunicações de Portugal.
 
-###### Art. 217.º No caso de infracção ao disposto na alíneas a) e b) do artigo 188.º será devido o pagamento, acrescido de 50 por cento da importância do respectivo bilhete, com o mínimo de cobrança de 20$00.
+Art. 217.º No caso de infracção ao disposto na alíneas a) e b) do artigo 188.º será devido o pagamento, acrescido de 50 por cento da importância do respectivo bilhete, com o mínimo de cobrança de 20$00.
 
 § 1.º Serão punidas com a multa de 50$00 as infracções às alíneas a), g) e h) do artigo 188.º
 
@@ -956,7 +1036,7 @@ d) Qualquer infracção não expressamente prevista neste título.
 
 § 5.º Sempre que houver lugar ao pagamento de qualquer multa pelas infracções punidas neste artigo, o pessoal em serviço nos veículos deverá, não sendo possível a comparência de agentes da autoridade policial, participar a ocorrência à entidade competente, indicando pelo menos duas testemunhas.
 
-###### Art. 218.º São da responsabilidade dos empresários as infracções ao disposto neste Regulamento:
+Art. 218.º São da responsabilidade dos empresários as infracções ao disposto neste Regulamento:
 
 § 1.º Exceptuam-se do disposto do corpo deste artigo as transgressões do disposto nos artigos 47.º, 48.º, 183.º e 187.º, bem como as cometidas em desobediência às ordens expressas dos empresários, além das previstas no § 1.º do artigo 211.º e no artigo 217.º, que são da responsabilidade dos respectivos autores.
 
@@ -966,19 +1046,19 @@ d) Qualquer infracção não expressamente prevista neste título.
 
 § 4.º O pagamento voluntário da multa equivale, para efeitos de reincidência, à condenação judicial do transgressor.
 
-###### Art. 219.º Será sempre decretada a apreensão dos veículos até resolução do tribunal, quando os seus proprietários não paguem nem depositem voluntàriamente as multas devidas pela prática das infracções referidas nos artigos 208.º, 210.º, 211.º e § 2.º e 215.º, § 2.º
+Art. 219.º Será sempre decretada a apreensão dos veículos até resolução do tribunal, quando os seus proprietários não paguem nem depositem voluntàriamente as multas devidas pela prática das infracções referidas nos artigos 208.º, 210.º, 211.º e § 2.º e 215.º, § 2.º
 
-###### Art. 220.º As multas aplicadas nos termos deste diploma não estão sujeitas a qualquer adicional.
+Art. 220.º As multas aplicadas nos termos deste diploma não estão sujeitas a qualquer adicional.
 
-###### Art. 221.º É da competência do director-geral de Transportes Terrestres a apreensão de cartas de condução e a apreensão ou cancelamento dos títulos de licenciamento de transportes, salvo tratando-se de cancelamento de concessões, que compete ao Ministro das Comunicações.
+Art. 221.º É da competência do director-geral de Transportes Terrestres a apreensão de cartas de condução e a apreensão ou cancelamento dos títulos de licenciamento de transportes, salvo tratando-se de cancelamento de concessões, que compete ao Ministro das Comunicações.
 
-###### Art. 222.º A decisão de cancelamento de títulos de licenciamento ou de concessões, fundada na prática dos factos contravencionais previstos neste Regulamento, impossibilita os seus titulares de obterem novas licenças, para o mesmo ou para outro veículo, ou novas concessões, ainda que em opção, antes de decorrido um ano sobre a data do cancelamento.
+Art. 222.º A decisão de cancelamento de títulos de licenciamento ou de concessões, fundada na prática dos factos contravencionais previstos neste Regulamento, impossibilita os seus titulares de obterem novas licenças, para o mesmo ou para outro veículo, ou novas concessões, ainda que em opção, antes de decorrido um ano sobre a data do cancelamento.
 
-###### Art. 3.º Ficam revogados o artigo 14.º do mesmo Regulamento e o artigo 1.º do [Decreto n.º 42944](https://diariodarepublica.pt/dr/detalhe/decreto/42944-1960-281472), de 25 de Abril de 1960.
+Art. 3.º Ficam revogados o artigo 14.º do mesmo Regulamento e o artigo 1.º do [Decreto n.º 42944](https://diariodarepublica.pt/dr/detalhe/decreto/42944-1960-281472), de 25 de Abril de 1960.
 
-###### Art. 4.º (transitório) - Os novos critérios de classificação de carreiras contidos nos artigos 75.º e 76.º apenas se aplicarão às novas concessões, fazendo-se a revisão progressiva da classificação das actuais quando da sua prorrogação.
+Art. 4.º (transitório) - Os novos critérios de classificação de carreiras contidos nos artigos 75.º e 76.º apenas se aplicarão às novas concessões, fazendo-se a revisão progressiva da classificação das actuais quando da sua prorrogação.
 
-###### Art. 5.º (transitório) - 1. As carreiras existentes em regiões onde sejam definidas áreas de preferência e que não sejam integradas na respectiva rede de transportes colectivos ficam sujeitas ao seguinte regime:
+Art. 5.º (transitório) - 1. As carreiras existentes em regiões onde sejam definidas áreas de preferência e que não sejam integradas na respectiva rede de transportes colectivos ficam sujeitas ao seguinte regime:
 
 a) Contendo-se integralmente dentro dessa área, ser-lhes-á assegurado um prazo de validade de cinco anos, improrrogável, a contar da data da publicação da respectiva portaria;
 
@@ -986,18 +1066,18 @@ b) Desenvolvendo-se predominantemente dentro dela, manter-se-ão em vigor, salvo
 
 2. Em qualquer dos casos, deverá a Direcção-Geral de Transportes Terrestres promover uma conveniente coordenação da sua exploração com a da rede de transportes da área de preferência.
 
-###### Art. 6.º (transitório) - 1. Considera-se aplicável às concessões de carreiras regulares, outorgadas anteriormente à data de entrada em vigor do presente diploma, e cujo prazo finde a partir de um ano contado daquela data, o regime do § 1.º do artigo 96.º
+Art. 6.º (transitório) - 1. Considera-se aplicável às concessões de carreiras regulares, outorgadas anteriormente à data de entrada em vigor do presente diploma, e cujo prazo finde a partir de um ano contado daquela data, o regime do § 1.º do artigo 96.º
 
 2. As concessões que tenham terminado já o prazo máximo de validade, estabelecido na redacção anterior do artigo 95.º, ou venham a terminá-lo até um ano, contado do início da vigência do presente diploma, poderão ser objecto de nova concessão, pelo prazo de cinco anos, prorrogável posteriormente nos termos do § 1.º do artigo 96.º
 
 3. Para efeitos de aplicação do disposto no número anterior, continuará a considerar-se na graduação da preferência entre os requerentes, imediatamente após o n.º 1.º do corpo do artigo 112.º a circunstância de o requerente ser ainda o detentor da concessão no momento em que de novo a requer, como tal sendo considerado se o fizer até 120 dias após a data em que tenha terminado a sua validade.
 
-###### Art. 7.º O presente diploma entra em vigor trinta dias após a data da sua publicação no Diário do Governo.
+Art. 7.º O presente diploma entra em vigor trinta dias após a data da sua publicação no Diário do Governo.
 
 Marcello Caetano - Rui Alves da Silva Sanches - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 15 de Fevereiro de 1971.**
+Promulgado em 15 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

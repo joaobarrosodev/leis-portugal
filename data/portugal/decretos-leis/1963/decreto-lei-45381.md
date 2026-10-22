@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/11/27500/18161817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45381-1963-684011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00688dd0afaa296aaf4bd6dc6f136fef5b413a75135522b6f42b10d3c7e8f07e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de884d51e4bc4a5df89908216439429784849d14d0cf98c75ed15bed5cbb5454
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Formas de Provimento
+- Militar
+- Nomeação
+- Promoção Profissional
+- Quadro Permanente da Força Aérea
+- Reserva
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:215880:por
+  label: "Dada nova redacção ao art. 21º do Dec Lei 39071 de 31-Dez de 1952, com as alterações constante deste diploma, pelo\
+    \ DEC LEI.49361.07.11.1969.PC, DG.IS [261] de 07.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49361-1969-215880
+  date: '1969-11-07'
+- type: cites
+  target: pt:dre:159547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:04Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +121,13 @@ Convindo harmonizar as disposições do [Decreto-Lei n.º 39071](https://diariod
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 39071](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39071-1952-418471), de 31 de Dezembro de 1952, alterados pelo [Decreto-Lei n.º 41749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41749-1958-352506), de 23 de Julho de 1958, passam a ter a seguinte redacção:
+Artigo único. Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 39071](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39071-1952-418471), de 31 de Dezembro de 1952, alterados pelo [Decreto-Lei n.º 41749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41749-1958-352506), de 23 de Julho de 1958, passam a ter a seguinte redacção:
 
-###### Art. 20.º Têm passagem à situação de reserva os oficiais da Força Aérea que atinjam as idades seguintes:
+Art. 20.º Têm passagem à situação de reserva os oficiais da Força Aérea que atinjam as idades seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/27500/18161817.pdf))](https://files.diariodarepublica.pt/1s/1963/11/27500/18161817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/27500/18161817.pdf)
 
-###### Art. 21.º No quadro de oficiais pilotos aviadores são preenchidas por escolha:
+Art. 21.º No quadro de oficiais pilotos aviadores são preenchidas por escolha:
 
 a) Todas as vacaturas verificadas nos postos de general e brigadeiro;
 
@@ -147,7 +177,7 @@ b) Para os postos de tenente-coronel e major, as qualidades pessoais, as qualida
 
 c) Para o posto de capitão, as qualidades pessoais e as profissionais relativas às respectivas especialidades.
 
-###### Art. 22.º As promoções a general e brigadeiro são feitas pelo Conselho de Ministros, em face, para cada caso, do parecer do Conselho Superior da Aeronáutica, homologado pelo Ministro da Defesa Nacional, ouvido o Secretário de Estado da Aeronáutica.
+Art. 22.º As promoções a general e brigadeiro são feitas pelo Conselho de Ministros, em face, para cada caso, do parecer do Conselho Superior da Aeronáutica, homologado pelo Ministro da Defesa Nacional, ouvido o Secretário de Estado da Aeronáutica.
 
 § 1.º Concorrem às vagas de general e brigadeiro piloto aviador, respectivamente, todos os brigadeiros e coronéis pilotos aviadores e todos os coronéis pilotos aviadores que, na data em que for determinado o preenchimento da vacatura ou vacaturas, perfaçam as necessárias condições de promoção, quer estejam no quadro, quer nas situações de supranumerário ou de adido.
 
@@ -155,6 +185,6 @@ c) Para o posto de capitão, as qualidades pessoais e as profissionais relativas
 
 § 3.º Concorrem às vagas de brigadeiro engenheiro todos os coronéis engenheiros, com excepção dos referidos no parágrafo anterior, que, na data em que for determinado o preenchimento da vacatura ou vacaturas, perfaçam as necessárias condições de promoção, quer estejam no quadro, quer nas situações de supranumerário ou de adido.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco António das Chagas.

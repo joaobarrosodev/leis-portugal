@@ -47,40 +47,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47338-1966-477364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef83ffa75c9881f96e525d86407e8e2154fb20579904ed0e3095736578e36d42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5c182dc3ccf3b616d5175c5006f5d77ebdd4eb79359d6718f8bd99fd328aee9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- AGA
+- Álcool
+- Estatuto
+- Fundo de Compensação
+- Inspecção Geral dos Produtos Agrícolas e Industriais
+- Junta Nacional dos Vinhos
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:408349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234551:por
+  label: "Aditada a al. e) ao n.º 1, e suprime o n.º 5 do art. 5.º do Estatuto da AGA aprovado pelo presente diploma, pelo\
+    \ DEC LEI.48332.1968.04.15.MF DG.IS [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48332-1968-234551
+  date: '1968-04-15'
+- type: amended_by
+  target: pt:dre:291605:por
+  label: "Alterado o nº 1 do art. 5º e nº 1 do art. 8º do estatuto, pelo DEC LEI.425/72.1972.10.31.MECO, DG.IS [254]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/425-1972-291605
+  date: '1972-10-31'
+- type: amended_by
+  target: pt:dre:408349:por
+  label: "Determinado que seja cometido à AGA, na parte que se refere ao Grémio dos Amazenistas de Mercearia, a execução do\
+    \ disposto no § 4.º do art. 10.º (na redacção do Dec Lei 354/70, de 28-Jul) pelo DEC LEI.7/74.1974.01.12.MF DG.IS [34],\
+    \ que substituiu o Estatuto anexo ao presente diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1974-408349
+  date: '1974-01-12'
+- type: cites
+  target: pt:dre:163452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:13Z'
   warnings: []
   errors: []
 ---
@@ -163,23 +218,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Administração-Geral do Álcool (A. G. A.), com a organização e funções constantes do estatuto anexo ao presente decreto-lei e que dele faz parte integrante.
+Artigo 1.º É criada a Administração-Geral do Álcool (A. G. A.), com a organização e funções constantes do estatuto anexo ao presente decreto-lei e que dele faz parte integrante.
 
-###### Art. 2.º A data da entrada em vigor do regime do álcool resultante do estatuto aprovado pelo presente decreto-lei será fixada por portaria do Ministro da Economia, continuando até essa data a ser aplicado os diplomas actualmente vigentes.
+Art. 2.º A data da entrada em vigor do regime do álcool resultante do estatuto aprovado pelo presente decreto-lei será fixada por portaria do Ministro da Economia, continuando até essa data a ser aplicado os diplomas actualmente vigentes.
 
-###### Art. 3.º O Ministro da Economia nomeará imediatamente os dois administradores-directores que, com o presidente da Junta Nacional do Vinho, formarão a comissão instaladora da A. G. A.
+Art. 3.º O Ministro da Economia nomeará imediatamente os dois administradores-directores que, com o presidente da Junta Nacional do Vinho, formarão a comissão instaladora da A. G. A.
 
 § 1.º A comissão submeterá à aprovação do Ministro o quadro provisório do pessoal da A. G. A., podendo desde logo contratar os empregados que sejam necessários para assegurar no momento oportuno o seu funcionamento.
 
 § 2.º A comissão promoverá a constituição dos demais órgãos da A. G. A. e, na data da entrada em vigor do estatuto, passará a funcionar como direcção.
 
-###### Art. 4.º Fica o Ministro da Economia autorizado a transferir desde já, por portaria, para a A. G. A., as dotações necessárias à sua instalação e posterior gestão administrativa, retirando-as dos saldos dos diferenciais de preços estabelecidos para o álcool e arrecadados pela Junta Nacional do Vinho.
+Art. 4.º Fica o Ministro da Economia autorizado a transferir desde já, por portaria, para a A. G. A., as dotações necessárias à sua instalação e posterior gestão administrativa, retirando-as dos saldos dos diferenciais de preços estabelecidos para o álcool e arrecadados pela Junta Nacional do Vinho.
 
-###### Art. 5.º Na data que for fixada para a entrada em vigor do estatuto da A. G. A. ficará extinto o Conselho Técnico do Álcool, cessando as funções da Inspecção-Geral dos Produtos Agrícolas e Industriais e da Junta Nacional do Vinho nas matérias que passam para as atribuições da nova Administração-Geral.
+Art. 5.º Na data que for fixada para a entrada em vigor do estatuto da A. G. A. ficará extinto o Conselho Técnico do Álcool, cessando as funções da Inspecção-Geral dos Produtos Agrícolas e Industriais e da Junta Nacional do Vinho nas matérias que passam para as atribuições da nova Administração-Geral.
 
-###### Art. 6.º As dúvidas que surjam na interpretação das disposições do presente diploma e do estatuto serão resolvidas por despacho do Ministro da Economia, subsistindo a competência do Ministro das Finanças na parte que não contrariar o que neles se dispõe relativamente ao regime sacarino da Madeira enquanto este não for revisto.
+Art. 6.º As dúvidas que surjam na interpretação das disposições do presente diploma e do estatuto serão resolvidas por despacho do Ministro da Economia, subsistindo a competência do Ministro das Finanças na parte que não contrariar o que neles se dispõe relativamente ao regime sacarino da Madeira enquanto este não for revisto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
 
@@ -189,11 +244,11 @@ I
 
 Denominação, sede e atribuições
 
-###### Artigo 1.º - 1. A Administração-Geral do Álcool (A. G. A.) é uma pessoa jurídica de direito público, dotada de autonomia administrativa e financeira, com sede em Lisboa, que tem por fim exercer o exclusivo da produção e distribuição do álcool.
+Artigo 1.º - 1. A Administração-Geral do Álcool (A. G. A.) é uma pessoa jurídica de direito público, dotada de autonomia administrativa e financeira, com sede em Lisboa, que tem por fim exercer o exclusivo da produção e distribuição do álcool.
 
 2. A Administração exercerá o seu exclusivo no território do continente e ilhas adjacentes.
 
-###### Art. 2.º - 1. A A. G. A. tem as seguintes atribuições:
+Art. 2.º - 1. A A. G. A. tem as seguintes atribuições:
 
 1.º Adquirir, aos preços fixados pelo Governo, e nas demais condições que vierem a ser estabelecidas, as matérias-primas a partir das quais seja legalmente autorizada a produção de álcool;
 
@@ -219,7 +274,7 @@ Denominação, sede e atribuições
 
 2. A A. G. A. deverá, dentro do âmbito das suas atribuições, promover o estudo dos problemas económicos e técnicos suscitados pela produção, comércio e consumo das matérias-primas alcoógenas e do álcool e propor as medidas que considere convenientes para melhorar a economia das indústrias de destilação e rectificação ou a revisão das normas legais respeitantes ao álcool industrial.
 
-###### Art. 3.º - 1. O exclusivo da A. G. A. compreende a aquisição de todas as matérias-primas alcoógenas, especialmente do figo industrial, o ciclo de produção do álcool e a distribuição do produto por venda a industriais e retalhistas.
+Art. 3.º - 1. O exclusivo da A. G. A. compreende a aquisição de todas as matérias-primas alcoógenas, especialmente do figo industrial, o ciclo de produção do álcool e a distribuição do produto por venda a industriais e retalhistas.
 
 2. É vedada a quaisquer outras entidades a detenção, laboração e comércio de matérias-primas alcoógenas, de aguardentes destinadas ao fabrico de álcool e dos álcoois, desde que os factos se não produzam nos termos do presente diploma.
 
@@ -229,7 +284,7 @@ II
 
 Órgãos
 
-###### Art. 4.º - 1. São órgãos da A. G. A.:
+Art. 4.º - 1. São órgãos da A. G. A.:
 
 a) O conselho de administração;
 
@@ -241,7 +296,7 @@ d) O conselho geral.
 
 2. O Ministro da Economia exerce sobre a A. G. A. poderes de inspecção e os demais conferidos por lei.
 
-###### Art. 5.º - 1. O conselho de administração será nomeado pelo Ministro da Economia e terá a seguinte composição:
+Art. 5.º - 1. O conselho de administração será nomeado pelo Ministro da Economia e terá a seguinte composição:
 
 a) O presidente da Junta Nacional do Vinho, que presidirá;
 
@@ -259,7 +314,7 @@ d) Dois vogais, membros da direcção.
 
 5. Os governadores dos distritos autónomos insulares, onde estiver legalizada a produção de álcool, ouvidos os interessados, indicarão dois representantes, um por cada arquipélago da Madeira e dos Açores, com residência em Lisboa, os quais serão convocados a tomar parte nas reuniões do conselho de administração em que se debaterem assuntos respeitantes às regiões representadas, nos quais terão voto deliberativo.
 
-###### Art. 6.º - 1. Compete ao conselho de administração:
+Art. 6.º - 1. Compete ao conselho de administração:
 
 a) Discutir e votar a proposta do orçamento anual apresentada pela direcção;
 
@@ -279,7 +334,7 @@ h) Autorizar os empréstimos a contrair em estabelecimentos bancários;
 
 i) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pela direcção.
 
-###### Art. 7.º - 1. O conselho de administração terá uma reunião ordinária mensal e as extraordinárias que forem convocadas pelo presidente.
+Art. 7.º - 1. O conselho de administração terá uma reunião ordinária mensal e as extraordinárias que forem convocadas pelo presidente.
 
 2. As reuniões poderão celebrar-se desde que estejam presentes o presidente e três vogais.
 
@@ -287,7 +342,7 @@ i) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pela direcçã
 
 4. No caso de o presidente considerar certa deliberação nociva ao interesse público, suspendê-la-á para a submeter, no prazo de 48 horas, à apreciação do Ministério da Economia, que manterá ou não a sua suspensão.
 
-###### Art. 8.º - 1. A direcção é composta pelo administrador-geral, que será o presidente da Junta Nacional do Vinho, e por dois administradores-directores livremente nomeados pelo Ministro da Economia por períodos de cinco anos, renováveis.
+Art. 8.º - 1. A direcção é composta pelo administrador-geral, que será o presidente da Junta Nacional do Vinho, e por dois administradores-directores livremente nomeados pelo Ministro da Economia por períodos de cinco anos, renováveis.
 
 2. Compete à direcção:
 
@@ -325,13 +380,13 @@ f) Delegar nos administradores-directores, permanente ou temporàriamente, qualq
 
 5. A A. G. A. fica obrigada pela assinatura ou mediante a outorga de dois membros da direcção.
 
-###### Art. 9.º - 1. O conselho fiscal será nomeado pelo Ministro da Economia e será composto por um juiz conselheiro do Tribunal de Contas, que presidirá, por um representante da Direcção-Geral da Contabilidade Pública, ambos designados pelo Ministro das Finanças, e por um representante do Sindicato Nacional dos Contabilistas, todos com mandato trienal.
+Art. 9.º - 1. O conselho fiscal será nomeado pelo Ministro da Economia e será composto por um juiz conselheiro do Tribunal de Contas, que presidirá, por um representante da Direcção-Geral da Contabilidade Pública, ambos designados pelo Ministro das Finanças, e por um representante do Sindicato Nacional dos Contabilistas, todos com mandato trienal.
 
 2. Competem ao conselho fiscal os poderes atribuídos pela lei aos conselhos fiscais das sociedades anónimas.
 
 3. Os vogais do conselho fiscal têm direito a senha de presença por cada reunião em que participem, igual à estabelecida para os administradores.
 
-###### Art. 10.º - 1. O conselho geral é composto:
+Art. 10.º - 1. O conselho geral é composto:
 
 a) Pelo presidente do conselho fiscal, que presidirá;
 
@@ -349,7 +404,7 @@ d) Pelos representantes dos arquipélagos da Madeira e dos Açores no conselho d
 
 5. O relatório, as contas e o parecer do conselho fiscal serão publicados na 3.ª série do Diário do Governo.
 
-###### Art. 11.º - 1. Compete ao Ministro da Economia:
+Art. 11.º - 1. Compete ao Ministro da Economia:
 
 a) Fixar, sob proposta da A. G. A., os preços das matérias-primas a adquirir e dos produtos a vender, bem como as taxas de laboração industrial;
 
@@ -369,43 +424,43 @@ III
 
 Funcionamento
 
-###### Art. 12.º - 1. Na sua gestão económica e financeira a A. G. A. reger-se-á pelas normas aplicáveis ás empresas comerciais, salvo O disposto nas suas leis orgânicas e respectivos regulamentos.
+Art. 12.º - 1. Na sua gestão económica e financeira a A. G. A. reger-se-á pelas normas aplicáveis ás empresas comerciais, salvo O disposto nas suas leis orgânicas e respectivos regulamentos.
 
 2. A contabilidade da A. G. A. será organizada de acordo com as práticas do comércio e as disposições legais a este aplicáveis, sob a responsabilidade de perito - contabilista legalmente habilitado.
 
 3. Os saldos de gerência, quando negativos, transitarão para o ano económico seguinte; e, quando positivos, serão distribuídos pelos fundos que forem instituídos por lei ou por deliberação do conselho de administração, podendo este, quando julgar oportuno e sem prejuízo para a gestão financeira da A. G. A., conceder participação, em certa percentagem, ao pessoal contratado.
 
-###### Art. 13.º - 1. Ao pessoal da A. G. A. aplica-se a legislação reguladora do contrato de trabalho com empresas privadas.
+Art. 13.º - 1. Ao pessoal da A. G. A. aplica-se a legislação reguladora do contrato de trabalho com empresas privadas.
 
 2. Os litígios entre a A. G. A. e os seus empregados são da competência dos tribunais do trabalho.
 
-###### Art. 14.º - 1. Cabe recurso contencioso para o Supremo Tribunal Administrativo das deliberações definitivas e executórias dos órgãos da A. G. A. que tenham por objecto a requisição de bens ou a aplicação de sanções a comerciantes ou industriais sob a sua alçada, quando arguidas de ilegalidade.
+Art. 14.º - 1. Cabe recurso contencioso para o Supremo Tribunal Administrativo das deliberações definitivas e executórias dos órgãos da A. G. A. que tenham por objecto a requisição de bens ou a aplicação de sanções a comerciantes ou industriais sob a sua alçada, quando arguidas de ilegalidade.
 
 2. Das deliberações do conselho geral que declarem os membros da direcção responsáveis pelo pagamento de quantia certa podem os interessados recorrer para o Tribunal de Contas.
 
-###### Art. 15.º - 1. São considerados administrativos ùnicamente os contratos de empreitada de obras públicas, de arrendamento de bens imobiliários para instalação de serviços ou depósitos e de fornecimento contínuo celebrados pela A. G. A. com outras entidades.
+Art. 15.º - 1. São considerados administrativos ùnicamente os contratos de empreitada de obras públicas, de arrendamento de bens imobiliários para instalação de serviços ou depósitos e de fornecimento contínuo celebrados pela A. G. A. com outras entidades.
 
 2. Todos os restantes contratos seguirão o regime do direito comum, pertencendo o seu contencioso aos tribunais judiciais.
 
-###### Art. 16.º A A. G. A. goza da isenção de todas as contribuições, impostos e taxas, gerais ou especiais, ordinárias ou extraordinárias, nos mesmos termos que o Estado.
+Art. 16.º A A. G. A. goza da isenção de todas as contribuições, impostos e taxas, gerais ou especiais, ordinárias ou extraordinárias, nos mesmos termos que o Estado.
 
 IV
 
 Fundos permanentes
 
-###### Art. 17.º - 1. A A. G. A. constituirá um fundo de capital, um fundo de reserva e o Fundo de Compensação do Álcool.
+Art. 17.º - 1. A A. G. A. constituirá um fundo de capital, um fundo de reserva e o Fundo de Compensação do Álcool.
 
 2. O conselho de administração poderá instituir outros fundos, permanentes ou temporários, e regulamentar a sua formação e aplicação, desde que esteja garantida a dotação dos fundos obrigatórios.
 
-###### Art. 18.º - 1. O fundo de capital destina-se aos investimentos a realizar nas instalações e no equipamento da A. G. A. e a financiar as operações exigidas pelo desempenho das suas atribuições.
+Art. 18.º - 1. O fundo de capital destina-se aos investimentos a realizar nas instalações e no equipamento da A. G. A. e a financiar as operações exigidas pelo desempenho das suas atribuições.
 
 2. O fundo de capital pode ser inicialmente constituído por valores obtidos por empréstimo a longo prazo, obtido na Caixa Geral de Depósitos, Crédito e Previdência ou no Fundo de Abastecimento, e a ele serão atribuídos, com preferência a quaisquer outras aplicações, 75 por cento dos saldos de gerência da A. G. A., até ser atingida a importância de 30000000$00, e 50 por cento a partir desta importância até ao máximo de 100000000$00.
 
-###### Art. 19.º - 1. O fundo de reserva destina-se a complemento do fundo de capital para financiamento das operações que competem à A. G. A.
+Art. 19.º - 1. O fundo de reserva destina-se a complemento do fundo de capital para financiamento das operações que competem à A. G. A.
 
 2. Logo que ao fundo de capital tenham sido atribuídos 100000000$00, será obrigatòriamente atribuída a fundo de reserva 25 por cento da importância dos saldos de gerência da A. G. A.
 
-###### Art. 20.º - 1. O Fundo de Compensação do Álcool destina-se a estabelecer o equilíbrio do sistema de preços diferenciados a praticar nas operações da A. G. A., e a compensá-los entre si.
+Art. 20.º - 1. O Fundo de Compensação do Álcool destina-se a estabelecer o equilíbrio do sistema de preços diferenciados a praticar nas operações da A. G. A., e a compensá-los entre si.
 
 2. A constituição e utilização deste Fundo serão reguladas por portaria do Ministro da Economia.
 
@@ -415,7 +470,7 @@ V
 
 Obrigações e sanções
 
-###### Art. 21.º - 1. Os industriais de destilação e de rectificação ficam obrigados a fornecer à A. G. A. todos os elementos de informação solicitados pelos seus serviços e a facultar a estes a inspecção das suas instalações e o exame da sua escrita.
+Art. 21.º - 1. Os industriais de destilação e de rectificação ficam obrigados a fornecer à A. G. A. todos os elementos de informação solicitados pelos seus serviços e a facultar a estes a inspecção das suas instalações e o exame da sua escrita.
 
 2. Os referidos industriais deverão manter actualizados inventários das suas existências e o registo da respectiva movimentação e montar contadores automáticos acopulados nos aparelhos utilizados, nos termos a fixar em regulamento.
 
@@ -423,18 +478,18 @@ Obrigações e sanções
 
 4. Compete à direcção da A. G. A., precedendo processo com audiência do arguido, a aplicação das sanções cominadas para estas infracções, salvo recurso por ilegalidade a interpor para os tribunais competentes.
 
-###### Art. 22.º - 1. Todos os produtores de figo industrial e das matérias-primas legalmente autorizadas para produção do álcool são obrigados a manifestar essas matérias-primas à A. G. A. nos termos e prazos regulamentares.
+Art. 22.º - 1. Todos os produtores de figo industrial e das matérias-primas legalmente autorizadas para produção do álcool são obrigados a manifestar essas matérias-primas à A. G. A. nos termos e prazos regulamentares.
 
 2. As referidas matérias-primas só poderão ser vendidas à A. G. A., que as adquirirá nos termos legais.
 
 3. A falta de manifesto é punida como detenção ilegal de matérias-primas alcoógenas.
 
-###### Art. 23.º - 1. Todo aquele que no continente e ilhas adjacentes tiver em seu poder, adquirir ou vender matérias-primas alcoógenas, laborar essas matérias-primas e produzir álcoois de qualquer natureza com violação do disposto no presente diploma será punido com a multa de 20000$00 a 100000$00 e com a apreensão dos instrumentos do crime.
+Art. 23.º - 1. Todo aquele que no continente e ilhas adjacentes tiver em seu poder, adquirir ou vender matérias-primas alcoógenas, laborar essas matérias-primas e produzir álcoois de qualquer natureza com violação do disposto no presente diploma será punido com a multa de 20000$00 a 100000$00 e com a apreensão dos instrumentos do crime.
 
 2. O crime previsto neste artigo será processado e julgado como infracção antieconómica.
 
-###### Art. 24.º O transporte dos produtos a que se refere o presente diploma sem as guias de trânsito passadas nos termos que forem regulamentados será punido como infracção antieconómica.
+Art. 24.º O transporte dos produtos a que se refere o presente diploma sem as guias de trânsito passadas nos termos que forem regulamentados será punido como infracção antieconómica.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.

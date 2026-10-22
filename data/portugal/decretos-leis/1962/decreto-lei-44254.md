@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44254-1962-516687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c59f601a8555f807ce66d7153f908c40690d2d8ce92465400bc97e7e59be645e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a87ec5803b3b0602af984789561c172ec20a10f9857df8d3a08328ff32c537d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Acidente de Trabalho
+- Cidadão Estrangeiro
+- Convenção
+- Doença
+- Doença Profissional
+- Espanha
+- Madrid
+- Maternidade
+- Óbito
+- Pensão de Invalidez
+- Pensão de Reforma
+- Pensão de Velhice
+- Portugal
+- Prestações da Segurança Social
+- Proteção Social
+- Segurança Social
+- Seguro de Doença
+- Trabalhador
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:13Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +103,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreto e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção geral sobre segurança social entre Portugal e a Espanha, cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção geral sobre segurança social entre Portugal e a Espanha, cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -108,11 +127,11 @@ S. Ex.ª o Doutor Fernando María Castiella y Maíz, Ministro de Assuntos Exteri
 
 os quais, depois de trocarem os seus plenos poderes, achados em boa e devida forma, acordaram nas seguintes disposições:
 
-## TÍTULO I
+TÍTULO I
 
 Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 § 1.º Os portugueses ou espanhóis salariados ou assimilados aos salariados pelas legislações indicadas no artigo 2.º da presente Convenção estão sujeitos às mesmas legislações aplicáveis, respectivamente, em Espanha e Portugal, e delas beneficiam, assim como os seus familiares titulares de benefícios, nas mesmas condições que os nacionais de cada país, sob reserva da prova de nacionalidade em harmonia com a legislação de cada um dos países contratantes.
 
@@ -124,7 +143,7 @@ Na interpretação do termo «salariado» no sentido da presente Convenção nã
 
 § 4.º A presente Convenção é aplicável aos nacionais portugueses e espanhóis que trabalhem a bordo de navios ou aeronaves espanholas ou portuguesas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 § 1.º As legislações a que se aplica a presente Convenção vêm a ser:
 
@@ -170,7 +189,7 @@ a) Aos actos legislativos ou regulamentares que cubram um novo ramo de seguranç
 
 b) Aos actos legislativos ou regulamentares que estendam os regimes existentes a novas categorias de beneficiários, se houver a esse respeito oposição do Governo interessado, notificada no prazo de três meses, a contar da publicarão oficial dos actos referidos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 § 1.º Os trabalhadores salariados ou assimilados aos salariados pelas legislações aplicáveis em cada um dos países contratantes, ocupados num dos dois países, estão sujeitos às legislações em vigor no país do lugar do seu trabalho.
 
@@ -184,7 +203,7 @@ b) Os trabalhadores salariados ou assimilados das empresas de transportes e linh
 
 § 4.º As autoridades administrativas supremas dos Estados contratantes poderão estabelecer de comum acordo excepções às regras enunciadas no § 1.º do presente artigo. As mesmas autoridades poderão convir em que as excepções previstas no § 2.º se não apliquem a determinados casos particulares.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 § 1.º As disposições a que se faz referência no § 1.º do artigo 3.º serão aplicáveis aos trabalhadores ou empregados administrativos contratados ou temporários ocupados nas missões diplomáticas e nos postos consulares de qualquer dos dois países, ou que estejam ao serviço pessoal dos respectivos chefes, membros ou empregados.
 
@@ -194,19 +213,19 @@ b) Os trabalhadores salariados ou assimilados das empresas de transportes e linh
 
 § 4.º Os trabalhadores salariados ou assimilados ao serviço do Governo de um dos dois países que sejam enviados temporàriamente ao outro estarão sujeitos à legislação do país que os enviou.
 
-## TÍTULO II
+TÍTULO II
 
 Disposições especiais
 
 ### CAPÍTULO I — Seguros de doença, maternidade e morte
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 § 1.º Os trabalhadores salariados ou assimilados que saiam de Portugal para Espanha, ou inversamente, receberão, assim como os seus familiares titulares de benefícios que com eles coabitem no país do novo lugar de trabalho, as prestações do seguro de doença em Espanha ou em Portugal, desde que tenham adquirido a qualidade de segurado social e satisfaçam às condições exigidas pela legislação do mesmo país, tomando-se em conta, quando necessário, os períodos de seguro ou equivalentes cumpridos ao abrigo da legislação do outro país.
 
 § 2.º O disposto no § anterior será extensivo aos familiares dos trabalhadores, residentes no outro país, quando não tiverem direito às prestações do seguro-doença em virtude de o seu próprio seguro ou do de uma pessoa que esteja segurada no país em que residirem aqueles familiares, nas condições e prazos que foram determinados em acordo administrativo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 § 1.º Os trabalhadores que transfiram a sua residência de Portugal para Espanha beneficiam, assim como os seus familiares, das prestações de maternidade do regime espanhol, desde que tenham adquirido a qualidade de segurado social e satisfaçam às condições exibidas pela legislação do mesmo país, tomando-se em conta, quando necessário, os períodos de seguro ou equivalentes cumpridos ao abrigo da legislação do outro país.
 
@@ -214,29 +233,29 @@ Disposições especiais
 
 § 3.º O disposto no § 2.º do artigo 5.º será extensivo às prestações em caso de maternidade.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Os trabalhadores salariados ou assimilados que se desloquem de um para outro dos países contratantes darão direito aos subsídios por morte, desde que tenham adquirido a qualidade de segurado social e satisfaçam às condições exigidas pela legislação do mesmo país, tomando-se em conta, quando necessário, os períodos de seguro ou equivalentes cumpridos ao abrigo da legislação do outro país.
 
 ### CAPÍTULO II — Seguro de invalidez
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 § 1.º Para os trabalhadores salariados ou assimilados espanhóis ou portugueses que tenham sido filiados sucessiva ou alternadamente nos dois países contratantes, num ou mais regimes de seguro de invalidez, os períodos de seguro cumpridos sob estes regimes e os considerados equivalentes a períodos de seguro ao abrigo dos regimes referidos serão totalizados, desde que não se sobreponham, tanto no respeitante à determinação do direito às prestações pecuniárias ou em espécie, como à manutenção e recuperação do mesmo direito.
 
 § 2.º As prestações pecuniárias do seguro de invalidez a que o trabalhador tiver direito perante cada organismo interessado serão reduzidas nos termos previstos nos parágrafos 3.º e 4.º do artigo 11.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Se, após a suspensão da pensão de invalidez, o segurado recuperar o seu direito, o pagamento das pensões será retomado pelo organismo devedor da pensão primitivamente concedida. Se, após a suspensão da pensão de invalidez, o estado do segurado justificar a concessão de nova pensão, esta última será liquidada em conformidade com as regras estabelecidas no precedente artigo 8.º
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Se a pensão de invalidez for transformada em pensão de velhice, nas condições previstas pela legislação ao abrigo da qual foi atribuída, aplicar-se-ão as disposições do capítulo III do presente título.
 
 ### CAPÍTULO III — Pensões de velhice e de sobrevivência
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 § 1.º Para os trabalhadores salariados ou assimilados espanhóis ou portugueses que tenham sido filiados sucessiva ou alternadamente nos países contratantes em um ou mais regimes do seguro-velhice ou de sobrevivência os períodos de seguro cumpridos sob os mesmos regimes, ou os considerados como equivalentes a períodos de seguro ao abrigo dos referidos regimes, serão totalizados, desde que não se sobreponham, tanto em vista à determinação do direito às prestações, como à sua manutenção ou recuperação.
 
@@ -250,23 +269,23 @@ Nos acordos administrativos mencionados no artigo 19.º precisar-se-ão as condi
 
 § 5.º Quando um segurado, tomada em conta a totalidade dos períodos referidos no § 1.º do presente artigo, não satisfizer no mesmo momento às condições requeridas pelas legislações dos dois países, o seu direito à pensão será estabelecido em referência a cada legislação, ao passo que for satisfazendo às mesmas condições.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Os segurados poderão renunciar ao benefício das disposições do artigo 11.º da presente Convenção. As prestações que possam pretender ao abrigo de cada uma das legislações nacionais serão nesse caso liquidadas separadamente pelos organismos interessados, independentemente dos períodos de seguro ou considerados equivalentes cumpridos no outro país.
 
 As formalidades desta renúncia serão determinadas nos acordos administrativos previstos no artigo 19.º
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Se a legislação de um dos países contratantes subordinar a concessão de certas prestações a condições de residência, estas considerar-se-ão cumpridas pelos nacionais portugueses ou espanhóis enquanto residirem num dos dois países contratantes.
 
 ### CAPÍTULO IV — Acidentes de trabalho e doenças profissionais
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Não são aplicáveis aos nacionais de qualquer das partes contratantes as disposições contidas na legislação da outra parte respeitantes aos acidentes de trabalho e às doenças profissionais e que restrinjam ou anulem os direitos dos estrangeiros em razão do lugar da sua residência. As melhorias ou subsídios complementares, concedidos em suplemento das pensões de acidentes de trabalho, por força da legislação aplicável em cada um dos países contratantes, serão mantidos às pessoas referidas na primeira parte deste artigo que transfiram a residência de um para outro país.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Se um trabalhador que obteve reparação de uma doença profissional num dos países contratantes fizer valer, para doença da mesma natureza, direitos a reparação ao abrigo da legislação do seu novo lugar de trabalho no outro país, será obrigado a apresentar ao organismo competente deste último a declaração das prestações e indemnizações anteriormente recebidas a título da mesma doença.
 
@@ -274,7 +293,7 @@ O organismo devedor das novas prestações e indemnizações tomará em conta as
 
 ### CAPÍTULO V — Prestações familiares
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 § 1.º Se a legislação nacional subordinar a abertura do direito às prestações familiares ao cumprimento de períodos de seguro ou similares, serão tomados em consideração os períodos satisfeitos quer num quer noutro país.
 
@@ -284,7 +303,7 @@ As modalidades e o prazo máximo de concessão do abono, neste caso, serão esta
 
 ### CAPÍTULO VI — Mutualismo laboral
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 § 1.º Os trabalhadores portugueses em Espanha beneficiarão das prestações do mutualismo laboral, nos mesmos termos que os trabalhadores espanhóis, desde que satisfaçam:
 
@@ -310,19 +329,19 @@ A mesma pensão será eventualmente modificada pelo coeficiente de revalorizaç�
 
 Disposições comuns aos seguros de invalidez, velhice e sobrevivência, aos seguros contra acidentes de trabalho e doenças profissionais e ao regime espanhol do mutualismo laboral.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 As pensões de invalidez, velhice e sobrevivência, incluindo as pensões e fracções de pensão adquiridas em virtude do disposto no artigo 17.º e as rendas por acidentes de trabalho e doenças profissionais, assim como as prestações económicas de carácter acessório ou complementar, serão satisfeitas tanto aos espanhóis como aos portugueses titulares das mesmas em qualquer dos dois países em que residam. Quando, pela legislação de um dos países contratantes, o pagamento de uma pensão de sobrevivência se subordine à residência ou permanência de tais pessoas no dito país, a referida prestação será satisfeita ainda que as pessoas mencionadas se encontrem no outro país. Os organismos devedores de qualquer dos países contratantes poderão encarregar do pagamento das prestações, assim como da inspecção médica e administrativa dos interessados que residam ou se encontrem temporàriamente no outro país, os organismos competentes deste último país. As despesas efectuadas serão objecto de reembolso.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições diversas
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Os Governos de ambos os países celebrarão no mais breve prazo possível acordos administrativos para cumprimento da presente Convenção.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 § 1.º As autoridades dos dois países contratantes, assim como os organismos portugueses de previdência social, ou espanhóis de segurança social, prestar-se-ão mútua colaboração, na mesma medida em que se tratasse da aplicação dos seus próprios regimes; essa recíproca assistência será gratuita.
 
@@ -330,51 +349,51 @@ Poderão também, quando necessário, recorrer para o mesmo fim à intervenção
 
 § 2.º As provas de natureza médica e administrativa a que estejam sujeitos por conta dos organismos de um país contratante os segurados que se encontrem no outro país serão levadas a efeito pelo organismo segurador competente deste último, a pedido e por conta do organismo responsável.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 As autoridades diplomáticas e consulares de cada um dos dois países poderão dirigir-se às autoridades administrativas e aos organismos competentes do outro país, a fim de recolherem as informações úteis para a defesa dos interesses dos seus nacionais.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 § 1.º As isenções de impostos, contribuições e direitos previstos pela legislação de um dos dois países contratantes serão concedidos para o cumprimento da presente Convenção aos nacionais do outro país, independentemente da nacionalidade dos interessados.
 
 § 2.º A isenção de direitos de registo, de custas judiciais, de selo e de emolumentos consulares previstos na legislação de uma das duas partes contratantes para os documentos destinados às suas administrações ou organismos competentes, do mesmo país, é extensiva aos documentos correspondentes a apresentar, para a aplicação da presente Convenção, às administrações ou organismos competentes do outro país.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Para cumprimento da presente Convenção, as autoridades, bem como os organismos competentes dos dois países contratantes, comunicar-se-ão directamente entre si e com os segurados ou seus representantes.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 As petições que os interessados dirigirem às autoridades e aos organismos competentes de um dos dois países contratantes para a aplicação da presente Convenção, bem como os outros documentos a esta relativos, não poderão ser recusadas pelo facto de estarem redigidas na língua oficial do outro país.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 As petições e outros documentos apresentados às autoridades ou organismos competentes de um dos dois países contratantes produzirão os mesmos efeitos que produziriam se fossem apresentados às autoridades ou organismos correspondentes do outro país.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 As reclamações e recursos que devam ser interpostos num prazo determinado, junto de uma autoridade ou organismo competentes para receber as mesmas reclamações e recursos em matéria da presente Convenção, serão considerados em condições de ser recebidos, se forem apresentados no mesmo prazo junto de uma autoridade ou organismo competente do outro país. Neste caso, esta última autoridade ou este último organismo deverá transmitir sem demora as reclamações ou recursos à entidade competente, acusando a recepção ao interessado.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Serão considerados em cada um dos estados contratantes como autoridades administrativas supremas, no sentido da presente Convenção, os Ministros a cujas atribuições competirem os regimes enumerados no artigo 2.º, cada um no que lhe disser respeito.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 § 1.º Todas as dificuldades relativas à aplicação da presente Convenção serão resolvidas de comum acordo pelas autoridades administrativas supremas dos Estados contratantes.
 
 § 2.º No caso de não ser possível chegar por essa via a uma solução, as divergências serão resolvidas por um processo de arbitragem estabelecido por acordo entre os dois Governos. O órgão arbitral deverá resolver a divergência segundo os princípios fundamentais do espírito desta Convenção. As suas decisões serão obrigatórias e definitivas.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Os organismos devedores de prestações sociais por força desta Convenção desonerar-se-ão delas vàlidamente na moeda do seus país, de harmonia com os acordos de pagamentos em vigor. No caso de serem adoptadas, em um ou outro dos países contratantes, disposições para submeter a restrições o comércio de divisas, serão tomadas providências imediatas por acordo entre os dois Governos para assegurar, em conformidade com as disposições da presente Convenção, as transferências devidas por uma e outra parte.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 As formalidades que as disposições legais ou regulamentares de um dos Estados contratantes possam prever, para o serviço fora do seu território das prestações concedidas pelas suas instituições ou organismos competentes, aplicar-se-ão igualmente, nas mesmas condições que aos nacionais, às pessoas admitidas ao benefício daquelas prestações em virtude do disposto na presente Convenção.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 § 1.º As prestações que tenham sido suspensas ao abrigo das disposições em vigor num dos países contratantes, em razão da nacionalidade ou da residência no estrangeiro dos interessados, serão servidas a partir do primeiro dia do mês seguinte ao da entrada em vigor da presente Convenção. As prestações que não tiverem podido ser atribuídas aos interessados pela mesma razão serão liquidadas e servidas a contar da mesma data. O disposto no presente parágrafo apenas terá aplicação se as reclamações ou recursos forem formulados no prazo de um ano, a contar da entrada em vigor da presente Convenção.
 
@@ -382,13 +401,13 @@ As formalidades que as disposições legais ou regulamentares de um dos Estados 
 
 § 3.º Para cumprimento da presente Convenção deverão ser tomados em conta os períodos de seguro anteriores à sua entrada em vigor, na mesma medida em que seriam tomados em conta no caso de a presente Convenção ter sido posta em vigor no seu decurso.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 § 1.º A presente Convenção será ratificada e proceder-se-á à troca dos instrumentos de ratificação logo que possível.
 
 § 2.º Entrará em vigor no dia primeiro do mês seguinte ao da troca dos instrumentos de ratificação.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 § 1.º A presente Convenção terá a duração de um ano. Será renovada tàcitamente por períodos de um ano, salvo denúncia, que deverá ser notificada pelo menos três meses antes de expirar cada prazo.
 
@@ -406,4 +425,4 @@ Por Espanha:
 
 Fernando María Castiella y Maíz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/06700/02920302.pdf))](https://files.diariodarepublica.pt/1s/1962/03/06700/02920302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/06700/02920302.pdf)

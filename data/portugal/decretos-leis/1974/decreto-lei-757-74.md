@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30200/16361636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/757-1974-461401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02e1d1894df4a0510ada197012296ee153b9120463c07f29aaa98f3b5a6afe71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9d9565e673e3c6172cd7d23c47a34baf72d9d5ef2eae76aed5476bdc38b9884
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Direcção Geral de Viação
+- Importação
+- Imposto Automóvel
+- Pauta Aduaneira
+- Regime Fiscal
+- Taxa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:295104:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312051:por
+  label: "Reduzidas as taxas do imposto sobre a venda de veículos automóveis fixadas pelo presente diploma, pelo DEC LEI.528/75.25.09.1975.MPLCE,\
+    \ DG.IS [222] de 25.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/528-1975-312051
+  date: '1975-09-25'
+- type: amended_by
+  target: pt:dre:252818:por
+  label: "Alterado o art. 4º do Dec Lei 697/73 de 27-Dez, com a redacção constante do presente diploma, pelo DEC LEI.212/77.26.05.1977.MF,\
+    \ DR.IS [122] de 26.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1977-252818
+  date: '1977-05-26'
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:295104:por
+  label: Revogado pela LEI.30/78.14.06.1978.AR, DR.IS [134] de 14.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-1978-295104
+  date: '1978-06-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:09Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +120,7 @@ de 30 de Dezembro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As percentagens estabelecidas no anexo do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, correspondentes ao artigo pautal 87.02.09 são substituídas pelas percentagens a seguir enumeradas:
+Artigo 1.º As percentagens estabelecidas no anexo do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, correspondentes ao artigo pautal 87.02.09 são substituídas pelas percentagens a seguir enumeradas:
 
 87.02.09 - Veículos com preço de venda ao público:
 
@@ -123,22 +152,22 @@ Até 300000$00 ... 120
 
 Mais de 300000$00 ... 150
 
-###### Art. 2.º Os artigos 4.º e 10.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 4.º e 10.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1. No caso de ser transformada a natureza do veículo importado, esta só poderá ser legalizada na Direcção-Geral de Viação, após a comprovação do pagamento nas alfândegas, da diferença entre o montante do imposto correspondente à natureza do veículo transformado e o que efectivamente foi cobrado no momento de importação.
+Art. 4.º - 1. No caso de ser transformada a natureza do veículo importado, esta só poderá ser legalizada na Direcção-Geral de Viação, após a comprovação do pagamento nas alfândegas, da diferença entre o montante do imposto correspondente à natureza do veículo transformado e o que efectivamente foi cobrado no momento de importação.
 
 2. Os veículos automóveis mistos de passageiros e carga, tanto para efeitos de classificação pautal como para efeitos do imposto criado pelo presente diploma, consideram-se como automóveis de carga não especificados, classificados pelo artigo pautal 87.02.15.
 
 ...
 
-###### Art. 10.º - 1. A cobrança das taxas referidas no presente diploma constitui receita geral do Estado.
+Art. 10.º - 1. A cobrança das taxas referidas no presente diploma constitui receita geral do Estado.
 
 2. Anualmente será inscrita no Orçamento Geral do Estado uma dotação conveniente que será transferida como receita do Fundo de Fomento de Exportação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

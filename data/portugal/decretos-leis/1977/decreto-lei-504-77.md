@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1977-279815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 244642025600dbd54f1c083a3e9b66451f84c898408f6e1df9205449878eed12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 636306bc28ff6c567ba6815fffcfce82c15e35978bdea6595cbb1f15aa70a38f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Marinha
+- Militar
+- Quadro de Pessoal
+- Sargento
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409559:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:30Z'
   warnings: []
   errors: []
 ---
@@ -102,27 +117,27 @@ Nestes termos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os quadros permanentes de sargentos e praças do activo da classe de fuzileiros são os constantes no mapa n.º 1 anexo ao presente diploma.
+Artigo 1.º Os quadros permanentes de sargentos e praças do activo da classe de fuzileiros são os constantes no mapa n.º 1 anexo ao presente diploma.
 
-###### Art. 2.º Os efectivos de pessoal em prestação de serviço militar obrigatório da classe referida no artigo anterior não figuram no mapa a que aí se alude, mas o seu número não deverá exceder o que constar anualmente do orçamento de despesa da Marinha, sem deixar de ser, todavia, o indispensável para apropriada alimentação dos quadros e satisfação das necessidades do seu completamento.
+Art. 2.º Os efectivos de pessoal em prestação de serviço militar obrigatório da classe referida no artigo anterior não figuram no mapa a que aí se alude, mas o seu número não deverá exceder o que constar anualmente do orçamento de despesa da Marinha, sem deixar de ser, todavia, o indispensável para apropriada alimentação dos quadros e satisfação das necessidades do seu completamento.
 
-###### Art. 3.º - 1 - Na classe de fuzileiros, e durante um período transitório necessário para se atingir um desejável equilíbrio dos quadros, existirá uma subclasse designada por subclasse de equipagem, alimentada lateralmente, em cada posto, pelo pessoal da classe e com os efectivos máximos indicados no mapa n.º 2, a deduzir dos agora para esta fixados, indicados para a classe, no seu conjunto, no mapa referido no artigo 1.º
+Art. 3.º - 1 - Na classe de fuzileiros, e durante um período transitório necessário para se atingir um desejável equilíbrio dos quadros, existirá uma subclasse designada por subclasse de equipagem, alimentada lateralmente, em cada posto, pelo pessoal da classe e com os efectivos máximos indicados no mapa n.º 2, a deduzir dos agora para esta fixados, indicados para a classe, no seu conjunto, no mapa referido no artigo 1.º
 
 2 - As condições de transferência para o quadro da subclasse de equipagem e o escalonamento dessa transferência serão regulados por portaria do Chefe do Estado-Maior da Armada.
 
 3 - A carreira dos militares transferidos para a subclasse de equipagem processar-se-á em condições paralelas às do restante pessoal e de acordo com a movimentação do respectivo quadro, não podendo, no entanto, ser promovido qualquer militar no quadro da subclasse sem que no quadro de origem hajam logrado promoção todos os militares com condições de promoção que nesse quadro se encontravam à sua direita.
 
-###### Art. 4.º O primeiro provimento nos postos de sargento-chefe e de sargento-mor só poderá ter lugar, respectivamente, em 1978 e 1979.
+Art. 4.º O primeiro provimento nos postos de sargento-chefe e de sargento-mor só poderá ter lugar, respectivamente, em 1978 e 1979.
 
-###### Art. 5.º Os quadros fixados no mapa n.º 1 entram em vigor em 1 de Julho de 1977, sendo referida a 1 de Outubro de 1977 a transferência para a subclasse de equipagem do pessoal que nesta deva ingressar, de acordo com o escalonamento previsto no n.º 2 do artigo 3.º, e a 1 de Outubro de cada ano as transferências subsequentes.
+Art. 5.º Os quadros fixados no mapa n.º 1 entram em vigor em 1 de Julho de 1977, sendo referida a 1 de Outubro de 1977 a transferência para a subclasse de equipagem do pessoal que nesta deva ingressar, de acordo com o escalonamento previsto no n.º 2 do artigo 3.º, e a 1 de Outubro de cada ano as transferências subsequentes.
 
 Visto e aprovado em Conselho da Revolução em 26 de Outubro de 1977.
 
-**Promulgado em 23 de Novembro de 1977.**
+Promulgado em 23 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.
 
 MAPA N.º 1
 
@@ -130,7 +145,7 @@ MAPA N.º 1
 
 Efectivos dos quadros permanentes do activo de sargentos e praças da classe de fuzileiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf)
 
 MAPA N.º 2
 
@@ -138,6 +153,6 @@ MAPA N.º 2
 
 Efectivos dos quadros permanentes do activo de sargentos e praças da classe de fuzileiros, subclasse de equipagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf)
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

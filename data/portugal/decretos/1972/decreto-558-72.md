@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/558-1972-685594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e83ac52e4b8664c861d291c898978eebb4e7b79465f9404a015aa3ad7114bc9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eca41509e49a66e7074c9a7bfdff4b5c935525433fb233904479511a13c8262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:665285:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478027:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:31Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +121,15 @@ Nestas condições, e de harmonia com o disposto no [Decreto-Lei n.º 23049](htt
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 4.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 19.º, 20.º, 26.º, 27.º, 29.º, 30.º, 31.º, 35.º, 51.º, 52.º, 55.º, 56.º e 59.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), de 13 de Maio de 1942, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 4.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 19.º, 20.º, 26.º, 27.º, 29.º, 30.º, 31.º, 35.º, 51.º, 52.º, 55.º, 56.º e 59.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), de 13 de Maio de 1942, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O Grémio dos Industriais de Transportes em Automóveis (G. I. T. A.), criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935, é constituído, obrigatòriamente, por todas as entidades singulares ou colectivas que exerçam ou venham a exercer no continente a indústria de transportes em automóveis nas modalidades de transportes de aluguer, de aluguer de veículos sem condutor e de carreiras de serviço público.
+Artigo 1.º O Grémio dos Industriais de Transportes em Automóveis (G. I. T. A.), criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935, é constituído, obrigatòriamente, por todas as entidades singulares ou colectivas que exerçam ou venham a exercer no continente a indústria de transportes em automóveis nas modalidades de transportes de aluguer, de aluguer de veículos sem condutor e de carreiras de serviço público.
 
 § único ...
 
 ...
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1.º ...
 
@@ -123,7 +139,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 a) ...
 
@@ -149,7 +165,7 @@ k) ...
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 a) ...
 
@@ -161,7 +177,7 @@ d) ...
 
 e) Exercer os cargos dos órgãos directivos do Grémio para que forem eleitos pela primeira vez.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 a) ...
 
@@ -181,7 +197,7 @@ c) Ser eleito para um dos órgãos directivos do Grémio, representando só uma 
 
 d) Ser nomeados para exercer as funções de chefe de delegação ou de correspondente.
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 a) ...
 
@@ -201,11 +217,11 @@ g) Os que não pagarem a jóia que lhes for atribuída ou que durante dois trime
 
 § 2.º Para o efeito do disposto na alínea a) deste artigo, as Direcções-Gerais de Transportes Terrestres e de Viação participarão ao G. I. T. A. as alterações que se produzam no regime do serviço dos automóveis registados em aluguer.
 
-###### Art. 14.º A direcção do Grémio é composta de sete directores, um dos quais será o presidente e os outros vogais, todos cidadãos portugueses, eleitos de três em três anos, em reunião do conselho geral, de entre os sócios do Grémio que reúnam as condições de elegibilidade expressas na alínea c) do artigo 12.º, sendo dois vogais por cada uma das secções referidas no artigo 4.º
+Art. 14.º A direcção do Grémio é composta de sete directores, um dos quais será o presidente e os outros vogais, todos cidadãos portugueses, eleitos de três em três anos, em reunião do conselho geral, de entre os sócios do Grémio que reúnam as condições de elegibilidade expressas na alínea c) do artigo 12.º, sendo dois vogais por cada uma das secções referidas no artigo 4.º
 
 § único. Os directores eleitos serão confirmados pelo Ministro das Comunicações, que, em caso de não confirmação, provirá os respectivos lugares enquanto se não proceder a nova eleição.
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 a) ...
 
@@ -215,13 +231,13 @@ b) ...
 
 § 2.º ...
 
-###### Art. 16.º Nos casos de falecimento, exoneração, eliminação do Grémio, ou por qualquer outra causa de carácter permanente impeditiva do exercício do cargo, os lugares da direcção por tal forma vagos serão preenchidos por eleição do conselho geral, expressamente convocado para esse fim.
+Art. 16.º Nos casos de falecimento, exoneração, eliminação do Grémio, ou por qualquer outra causa de carácter permanente impeditiva do exercício do cargo, os lugares da direcção por tal forma vagos serão preenchidos por eleição do conselho geral, expressamente convocado para esse fim.
 
 ...
 
-###### Art. 18.º Os membros da direcção podem ser reconduzidos uma ou mais vezes nos seus lugares, embora na hipótese contemplada no § 2.º do artigo 15.º não possam ser para o exercício imediato.
+Art. 18.º Os membros da direcção podem ser reconduzidos uma ou mais vezes nos seus lugares, embora na hipótese contemplada no § 2.º do artigo 15.º não possam ser para o exercício imediato.
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 a) ...
 
@@ -247,13 +263,13 @@ k) ...
 
 l) Apresentar ao conselho geral as propostas dos sindicatos para a celebração ou a revisão de contratos de trabalho antes do início das negociações para este deliberar e orientar a política a seguir, mantendo o mesmo ao corrente do andamento das negociações, sempre que o julgar necessário.
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § único. Todos os estudos ou informações de carácter técnico, com base nos quais o Grémio emita pareceres ou tome decisões, conterão obrigatóriamente a aprovação e a assinatura do presidente e de um dos vogais da respectiva secção.
 
 ...
 
-###### Art. 26.º O conselho geral é constituído:
+Art. 26.º O conselho geral é constituído:
 
 a) Por um presidente eleito de entre os sócios do Grémio que reúnam as condições de elegibilidade expressas na alínea c) do artigo 12.º;
 
@@ -265,7 +281,7 @@ b) Pelos representantes das secções, quatro por cada uma, eleitos de entre os 
 
 § 3.º Por cada vogal efectivo será eleito um vogal substituto, que não poderá ser da mesma empresa.
 
-###### Art. 27.º O conselho geral reúne ordinàriamente uma vez em cada trimestre, a fim de apreciar a evolução da situação da indústria e de traçar as linhas de orientação para a prossecução dos interesses que O Grémio representa.
+Art. 27.º O conselho geral reúne ordinàriamente uma vez em cada trimestre, a fim de apreciar a evolução da situação da indústria e de traçar as linhas de orientação para a prossecução dos interesses que O Grémio representa.
 
 a) Na reunião do 1.º trimestre competir-lhe-á também apreciar e votar o relatório e contas do exercício findo;
 
@@ -283,11 +299,11 @@ c) Pelo delegado do Governo.
 
 ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 § único. A direcção não assistirá às reuniões destinadas à eleição da nova direcção.
 
-###### Art. 30.º As vagas que ocorrerem no conselho geral serão providas pelos vogais substitutos.
+Art. 30.º As vagas que ocorrerem no conselho geral serão providas pelos vogais substitutos.
 
 § 1.º ...
 
@@ -295,7 +311,7 @@ c) Pelo delegado do Governo.
 
 § 3.º ...
 
-###### Art. 31.º Ao conselho geral compete:
+Art. 31.º Ao conselho geral compete:
 
 a) Tomar todas as resoluções que forem julgadas indispensáveis para a completa e eficaz resolução dos fins do Grémio e para salvaguarda do prestígio da indústria;
 
@@ -325,13 +341,13 @@ k) ...
 
 ...
 
-###### Art. 35.º A convocação de qualquer reunião do conselho geral será feita, em conformidade com o artigo 27.º, com antecedência não inferior a oito dias, por carta registada, da qual constarão todos os assuntos a tratar, tanto quanto possível programados, devendo ser enviada a todos os membros do conselho geral uma cópia da ordem dos trabalhos, bem como os elementos suficientes à apreciação dos assuntos que virão a ser tratados nessa reunião.
+Art. 35.º A convocação de qualquer reunião do conselho geral será feita, em conformidade com o artigo 27.º, com antecedência não inferior a oito dias, por carta registada, da qual constarão todos os assuntos a tratar, tanto quanto possível programados, devendo ser enviada a todos os membros do conselho geral uma cópia da ordem dos trabalhos, bem como os elementos suficientes à apreciação dos assuntos que virão a ser tratados nessa reunião.
 
 § único ...
 
 ...
 
-###### Art. 51.º As infracções às regras estabelecidas neste decreto e seus regulamentos e às deliberações da direcção e do conselho geral ficam sujeitas às seguintes penalidades:
+Art. 51.º As infracções às regras estabelecidas neste decreto e seus regulamentos e às deliberações da direcção e do conselho geral ficam sujeitas às seguintes penalidades:
 
 a) Censura;
 
@@ -345,7 +361,7 @@ d) Eliminação.
 
 § 2.º ...
 
-###### Art. 52.º As penas de censura e multa a que se refere o artigo anterior são da competência da direcção e serão aplicadas, na sua ordem, segundo a gravidade das infracções. As penas de suspensão e eliminação são da competência do conselho geral, sob proposta da direcção. A pena de eliminação corresponderá, ùnicamente:
+Art. 52.º As penas de censura e multa a que se refere o artigo anterior são da competência da direcção e serão aplicadas, na sua ordem, segundo a gravidade das infracções. As penas de suspensão e eliminação são da competência do conselho geral, sob proposta da direcção. A pena de eliminação corresponderá, ùnicamente:
 
 a) Aos casos de falência fraudulenta;
 
@@ -361,9 +377,9 @@ d) Aos casos em que se verifique grave dano para o prestígio e crédito do Gré
 
 ...
 
-###### Art. 55.º Quando ao conselho geral for proposta a pena de suspensão e eliminação, o presidente convocará o mesmo conselho, extraordinàriamente, nos três dias imediatos à recepção da proposta, devendo o conselho reunir em prazo não superior a quinze dias, salvo se a reunião ordinária do mesmo conselho houver que ter lugar nos trinta dias seguintes.
+Art. 55.º Quando ao conselho geral for proposta a pena de suspensão e eliminação, o presidente convocará o mesmo conselho, extraordinàriamente, nos três dias imediatos à recepção da proposta, devendo o conselho reunir em prazo não superior a quinze dias, salvo se a reunião ordinária do mesmo conselho houver que ter lugar nos trinta dias seguintes.
 
-###### Art. 56.º O Ministro das Comunicações fixará o prazo em que deverá proceder-se, em conformidade com o presente Regulamento, à eleição do conselho geral, o qual, dentro de trinta dias após a sua posse, elegerá a nova direcção.
+Art. 56.º O Ministro das Comunicações fixará o prazo em que deverá proceder-se, em conformidade com o presente Regulamento, à eleição do conselho geral, o qual, dentro de trinta dias após a sua posse, elegerá a nova direcção.
 
 § 1.º Enquanto se não proceder à eleição do conselho geral e da direcção, mantêm-se os actuais órgãos.
 
@@ -371,16 +387,16 @@ d) Aos casos em que se verifique grave dano para o prestígio e crédito do Gré
 
 ...
 
-###### Art. 59.º Mantêm-se as actuais delegações com sede no Porto, Coimbra, Évora e Funchal.
+Art. 59.º Mantêm-se as actuais delegações com sede no Porto, Coimbra, Évora e Funchal.
 
-###### Art. 2.º O delegado do Governo, os membro do conselho geral e da direcção e o secretário-geral do G. I. T. A. têm direito à livre circulação nos veículos automóveis de transporte colectivo.
+Art. 2.º O delegado do Governo, os membro do conselho geral e da direcção e o secretário-geral do G. I. T. A. têm direito à livre circulação nos veículos automóveis de transporte colectivo.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 15 de Dezembro de 1972.**
+Promulgado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

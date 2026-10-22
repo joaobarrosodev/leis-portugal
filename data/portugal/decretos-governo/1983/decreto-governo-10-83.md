@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/10-1983-311003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61eed7bef50d6df045df7629d1cdcbd8d1629d11057a9a0c1b24880e9b827481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7828ff589f4364fa3c44ac21dbee06c7cc40329b81fd9d82167e989bccc1427
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CECA
+- Circulação de Mercadorias
+- Convenção
+- Direitos Aduaneiros
+- Grécia
+- Pauta Aduaneira
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:23Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ de 9 de Fevereiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional Anexo ao Acordo entre a República Portuguesa, por um lado, e os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por outro lado, no seguimento da adesão da República Helénica à Comunidade, assinado em Bruxelas em 16 de Março de 1982, cujo texto em português acompanha o presente decreto.
+Artigo único. É aprovado o Protocolo Adicional Anexo ao Acordo entre a República Portuguesa, por um lado, e os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por outro lado, no seguimento da adesão da República Helénica à Comunidade, assinado em Bruxelas em 16 de Março de 1982, cujo texto em português acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - Vasco Luís Caldeira Coelho Futscher Pereira.
 
-**Assinado em 6 de Janeiro de 1983.**
+Assinado em 6 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocolo Adicional Anexo ao Acordo entre a República Portuguesa, por um lado, e os Estados Membros da Comunidade Europeia do Carvão e de Aço e a Comunidade Europeia do Carvão e do Aço, por outro lado, no seguimento da adesão da República Helénica à Comunidade.
 
@@ -211,4 +218,4 @@ O presente Protocolo é redigido em exemplar duplo nas línguas portuguesa, alem
 
 Feito em Bruxelas, aos dezasseis dias do mês de Março de mil novecentos e oitenta e dois.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03300/03950397.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03300/03950397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03300/03950397.pdf)

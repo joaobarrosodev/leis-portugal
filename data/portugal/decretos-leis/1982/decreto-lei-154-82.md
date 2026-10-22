@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10300/11431145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1982-392811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7b059db0309fbf5943a2f65cd8991fc7a30ef21dc0254fd2a56fbe1c90a82e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01704c91af62a17493dbb7283928aef59c32e0854a9e292d56c44f7aeb9f60f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Predial
+- Imposto sobre a Indústria Agrícola
+- Instituto Geográfico e Cadastral
+- Junta Cadastral Concelhia
+- Prédio Rústico
+- Prédio Urbano
+- Presidente
+- Registo Predial
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462035:por
+  label: "Remetidas para a Direcção-Geral das Contribuições e Impostos as referências feitas ao Instituto Português de Cartografia\
+    \ e Cadastro no art. 89º e revogados os arts. 163º e 164º, todos do Código da Contribuição Predial e do Imposto sobre\
+    \ a Indústria Agrícola aprovado pelo Dec Lei 45104 de 01-Jul de 1963, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.172/95.18.07.1995.MPLAT, DR.IS-A [164] de 18.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1995-462035
+  date: '1995-07-18'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:23Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +121,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 89.º, 163.º, 164.º, 189.º, 190.º, 260.º-C e 261.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 89.º, 163.º, 164.º, 189.º, 190.º, 260.º-C e 261.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
 
-###### Art. 89.º A junta cadastral concelhia é composta por 5 membros. O presidente é, por inerência, o perito do Instituto Geográfico e Cadastral encarregado da organização dos quadros no concelho; o secretário será o membro que, na comissão de avaliação concelhia para a propriedade rústica, prevista no artigo 132.º, exerce aí idênticas funções; dos 3 vogais, um será o membro da comissão de avaliação atrás referida, designado pela câmara municipal, e os restantes serão indicados, respectivamente, pela lavoura do concelho e pelo Ministério da Agricultura, Comércio e Pescas.
+Art. 89.º A junta cadastral concelhia é composta por 5 membros. O presidente é, por inerência, o perito do Instituto Geográfico e Cadastral encarregado da organização dos quadros no concelho; o secretário será o membro que, na comissão de avaliação concelhia para a propriedade rústica, prevista no artigo 132.º, exerce aí idênticas funções; dos 3 vogais, um será o membro da comissão de avaliação atrás referida, designado pela câmara municipal, e os restantes serão indicados, respectivamente, pela lavoura do concelho e pelo Ministério da Agricultura, Comércio e Pescas.
 
 § 1.º O vogal representante da lavoura será designado pelos organismos representativos da lavoura concelhia ou, na sua falta, escolhido pelo chefe da repartição de finanças de entre os proprietários dos prédios rústicos do concelho no prazo referido no § 3.º
 
@@ -121,7 +145,7 @@ b) Por iniciativa das entidades a quem cabe a sua nomeação, sempre que estas j
 
 § 7.º As substituições referidas no parágrafo anterior deverão processar-se no prazo de 20 dias, a contar da ocorrência dos factos que lhes deram origem, devendo dos mesmos ser dado conhecimento, na altura própria, ao presidente da junta cadastral concelhia.
 
-###### Art. 163.º A matriz rústica será elaborada com base nos elementos do cadastro extraídos da carta cadastral do País, elaborada pelo Instituto Geográfico e Cadastral em 2 fases distintas e sucessivas, a saber:
+Art. 163.º A matriz rústica será elaborada com base nos elementos do cadastro extraídos da carta cadastral do País, elaborada pelo Instituto Geográfico e Cadastral em 2 fases distintas e sucessivas, a saber:
 
 a) Inventarial e fiscal;
 
@@ -135,7 +159,7 @@ b) Geométrica de precisão.
 
 § 4.º Da carta referida no parágrafo anterior, após as correcções que porventura hajam de fazer-se nos termos previstos na alínea a) do artigo seguinte, resultará a carta cadastral rústica, que servirá de base à organização da matriz cadastral definitiva relativamente a cada concelho.
 
-###### Art. 164.º Para os efeitos do artigo anterior e logo que ultimadas as operações previstas no seu § 3.º, o Instituto Geográfico e Cadastral enviará à Direcção-Geral das Contribuições e Impostos:
+Art. 164.º Para os efeitos do artigo anterior e logo que ultimadas as operações previstas no seu § 3.º, o Instituto Geográfico e Cadastral enviará à Direcção-Geral das Contribuições e Impostos:
 
 a) Verbete do modelo aprovado, por cada prédio a inscrever, com os elementos especificados nas alíneas a) a f) do artigo seguinte, com a menção expressa de que as áreas atribuídas aos prédios rústicos e suas parcelas, mormente as confinantes com as suas estremas, denominadas «áreas cadastrais fiscais», poderão vir a ser confirmadas ou rectificadas em consequência das operações referidas nos §§ 2.º e 4.º do artigo anterior;
 
@@ -151,13 +175,13 @@ a) Verbetes, de modelo a aprovar, com as correcções que eventualmente hajam de
 
 b) 2 exemplares de cada mapa parcelar das freguesias ou zonas de freguesia.
 
-###### Art. 189.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a criar nas direcções de finanças, à medida que o cadastro for sendo concluído nos respectivos distritos, ou em número considerável dos respectivos concelhos, secções especialmente incumbidas da guarda e conservação dos elementos cadastrais.
+Art. 189.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a criar nas direcções de finanças, à medida que o cadastro for sendo concluído nos respectivos distritos, ou em número considerável dos respectivos concelhos, secções especialmente incumbidas da guarda e conservação dos elementos cadastrais.
 
 § 1.º ...
 
 § 2.º Em tudo o que se refira à guarda e conservação do cadastro, o director de finanças deverá corresponder-se com o Instituto Geográfico e Cadastral através das delegações deste que actuem na área da sua jurisdição ou directamente, se estas ainda não tiverem sido criadas.
 
-###### Art. 190.º ...
+Art. 190.º ...
 
 § 1.º Os peritos que procedam às alterações previstas neste artigo poderão, quando se justifique, actualizar o mapa parcelar para além das alterações requeridas, com excepção das estremas com outros proprietários.
 
@@ -169,7 +193,7 @@ b) 2 exemplares de cada mapa parcelar das freguesias ou zonas de freguesia.
 
 § 5.º Todos os actos relacionados com as alterações previstas neste artigo e que dependam da intervenção do Instituto Geográfico e Cadastral só se tornarão definitivos depois de efectuadas as actualizações nos mapas parcelares.
 
-###### Art. 260.º-C ...
+Art. 260.º-C ...
 
 § 1.º ...
 
@@ -177,15 +201,15 @@ b) 2 exemplares de cada mapa parcelar das freguesias ou zonas de freguesia.
 
 § 3.º A existência dos elementos necessários à implantação das alterações ocorridas não se aplica à matéria referida no n.º 5.º do § 1.º
 
-###### Art. 261.º ...
+Art. 261.º ...
 
 § 1.º Durante a vigência da matriz cadastral provisória, qualquer acto ou contrato de divisão de prédios rústicos deverá mencionar que as áreas que dela constam são áreas cadastrais fiscais e, portanto, sujeitas a ser confirmadas ou rectificadas nos termos prescritos no § 4.º do artigo 163.º e de acordo com o mencionado na alínea a) do artigo 164.º
 
 § 2.º A declaração prevista neste artigo será transcrita no título de divisão ou a ele junta, conforme os casos.
 
-###### Art. 2.º É aditado ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e o artigo 295.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e o artigo 295.º-A, com a seguinte redacção:
 
-###### Art. 295.º-A - Toda a pessoa convocada nos termos do artigo 54.º-A que não comparecer no dia, hora e local designados nem justificar a falta poderá incorrer na multa de 400$00 a 5000$00.
+Art. 295.º-A - Toda a pessoa convocada nos termos do artigo 54.º-A que não comparecer no dia, hora e local designados nem justificar a falta poderá incorrer na multa de 400$00 a 5000$00.
 
 A justificação da falta será feita no prazo de 5 dias a contar da data marcada para a sua comparência.
 
@@ -195,12 +219,12 @@ Não se considera em falta o que se fizer representar no acto por pessoa devidam
 
 § 2.º O Instituto Geográfico e Cadastral não responderá por erros eventualmente cometidos e que não foram oportunamente corrigidos devido à falta de comparência do convocado ou do seu representante.
 
-###### Art. 3.º É revogado o artigo 81.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
+Art. 3.º É revogado o artigo 81.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 23 de Abril de 1982.**
+Promulgado em 23 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05ec4c476ba2e9e4936c26cb2c7173817e55297439c96f84d263d290a20bfb4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae7aca703dc48f4796825326ab09b832f90a49d156d8be9c00c3006cd89d3807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Formas de Provimento
+- Funcionário Ultramarino
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Quadro de Pessoal
+- Reclassificação de Pessoal
+- Serviços de Economia do Ultramar
+- Transferência de Pessoal
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:241626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527268:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:02Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +133,7 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS DE ECONOMIA DO ULTRAMAR
 
 ### CAPÍTULO I — Das atribuições dos serviços de economia
 
-###### Artigo 1.º - 1. Os serviços de economia do ultramar têm como função, por si ou em ligação com outros serviços ou organismos, para o efeito designados por lei ou por determinações superiores, promover o desenvolvimento económico das províncias ultramarinas, orientando, disciplinando e fiscalizando todas as actividades económicas que não estiverem subordinadas especìficamente a outros serviços ou organismos.
+Artigo 1.º - 1. Os serviços de economia do ultramar têm como função, por si ou em ligação com outros serviços ou organismos, para o efeito designados por lei ou por determinações superiores, promover o desenvolvimento económico das províncias ultramarinas, orientando, disciplinando e fiscalizando todas as actividades económicas que não estiverem subordinadas especìficamente a outros serviços ou organismos.
 
 Incumbe-lhes nomeadamente:
 
@@ -215,15 +247,15 @@ e) Exercer a fiscalização que lhes for cometida sobre o exercício de activida
 
 8. Os serviços de economia poderão impor sanções disciplinares às empresas cuja actividade se lhes encontre subordinada, nos termos das disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, posto em vigor no ultramar pela Portaria Ministerial n.º 18381, de 5 de Abril de 1961, ou outra legislação aplicável.
 
-###### Art. 2.º Os serviços de economia actuarão, com vista a uma acção conjugada, em colaboração com os órgãos que nas províncias estabelecem, de acordo com a orientação do Governo, a coordenação da política económica, financeira e social e do planeamento e integração económica.
+Art. 2.º Os serviços de economia actuarão, com vista a uma acção conjugada, em colaboração com os órgãos que nas províncias estabelecem, de acordo com a orientação do Governo, a coordenação da política económica, financeira e social e do planeamento e integração económica.
 
 ### CAPÍTULO II — Da organização dos serviços
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 3.º Os serviços de economia das províncias ultramarinas estão a cargo de direcções provinciais e de repartições provinciais, respectivamente, nas províncias de governo-geral e nas províncias de governo simples. Os governos provinciais superintendem, dentro de cada província, em todas as actividades dos serviços de economia, sem prejuízo do que estiver fixado nas leis quanto à intervenção que neles deva ter o Ministro do Ultramar, orientando-os, coordenando-os e fiscalizando-os.
+Art. 3.º Os serviços de economia das províncias ultramarinas estão a cargo de direcções provinciais e de repartições provinciais, respectivamente, nas províncias de governo-geral e nas províncias de governo simples. Os governos provinciais superintendem, dentro de cada província, em todas as actividades dos serviços de economia, sem prejuízo do que estiver fixado nas leis quanto à intervenção que neles deva ter o Ministro do Ultramar, orientando-os, coordenando-os e fiscalizando-os.
 
-###### Art. 4.º - 1. Os serviços provinciais de economia compreendem:
+Art. 4.º - 1. Os serviços provinciais de economia compreendem:
 
 a) Serviços centrais;
 
@@ -241,11 +273,11 @@ b) Serviços regionais (delegações).
 
 7. Nas províncias de governo-geral, poderão, nos locais onde se não justifique a criações de subdelegações, ser nomeados como correspondentes, funcionários de outras direcções provinciais de serviços ou de outros organismos provinciais, que ali tenham dependências, os quais desempenharão atribuições fixadas na portaria que os nomear.
 
-###### Art. 5.º - 1. Os directores de serviço ou chefes de serviço de cada província dirigem, coordenam e fiscalizam a actividade dos serviços a seu cargo, respondendo por eles perante os respectivos governadores.
+Art. 5.º - 1. Os directores de serviço ou chefes de serviço de cada província dirigem, coordenam e fiscalizam a actividade dos serviços a seu cargo, respondendo por eles perante os respectivos governadores.
 
 2. Os directores de serviço serão coadjuvados nas suas funções e substituídos nas suas faltas e impedimentos pelos directores-adjuntos, que poderão despachar directamente com o governador-geral os assuntos por aquele indicados. Os chefes de serviço serão substituídos nas províncias de governo simples pelo perito económico e, nas faltas e impedimento deste, pelo técnico económico.
 
-###### Art. 6.º - 1. Para apoiar os serviços de economia em matéria de distribuição, comercialização e abastecimento de produtos essenciais, de estabilização de preços, de fomento e propaganda da produção e da exportação, e de um modo geral, a valorização económica das províncias, funciona, junto de cada um dos serviços, um fundo de comercialização com personalidade jurídica e autonomia administrativa e financeira.
+Art. 6.º - 1. Para apoiar os serviços de economia em matéria de distribuição, comercialização e abastecimento de produtos essenciais, de estabilização de preços, de fomento e propaganda da produção e da exportação, e de um modo geral, a valorização económica das províncias, funciona, junto de cada um dos serviços, um fundo de comercialização com personalidade jurídica e autonomia administrativa e financeira.
 
 2. O fundo tem contabilidade própria, é gerido por um conselho administrativo e presta contas na forma da lei; os respectivos planos de acção, com a descrição pormenorizada das despesas a efectuar com a respectiva intervenção económica, devem ser aprovados pelos governos provinciais.
 
@@ -257,7 +289,7 @@ b) Serviços regionais (delegações).
 
 6. Os contratos celebrados pelo conselho administrativo do fundo, em ordem a atingir os seus objectivos, têm a fé pública dos documentos autênticos e serão lavrados pelo funcionário que o governador-geral designar sob proposta do conselho administrativo.
 
-###### Art. 7.º - 1. Os serviços de economia podem manter ou criar agências comerciais no estrangeiro, quando não dispuserem de outra forma de representação comercial adequada, as quais funcionarão de acordo com as instruções emanadas da direcção de serviços.
+Art. 7.º - 1. Os serviços de economia podem manter ou criar agências comerciais no estrangeiro, quando não dispuserem de outra forma de representação comercial adequada, as quais funcionarão de acordo com as instruções emanadas da direcção de serviços.
 
 2. O pessoal das agências comerciais poderá ser de quadro eventual.
 
@@ -265,7 +297,7 @@ b) Serviços regionais (delegações).
 
 #### SECÇÃO II — Das direcções provinciais
 
-###### Art. 8.º - 1. Nas províncias de governo-geral são serviços centrais:
+Art. 8.º - 1. Nas províncias de governo-geral são serviços centrais:
 
 a) A direcção de serviços;
 
@@ -297,7 +329,7 @@ a) Será constituída por quatro secções, divididas por sua vez em subsecçõe
 
 b) Poderão ser agregados à comissão representantes de outras actividades ou serviços, quando necessário, mediante despacho do governo-geral.
 
-###### Art. 9.º - 1. Incumbe aos governos provinciais, por meio de portaria, a organização interna e a regulamentação dos serviços.
+Art. 9.º - 1. Incumbe aos governos provinciais, por meio de portaria, a organização interna e a regulamentação dos serviços.
 
 2. Nessa regulamentação deverão ter-se em atenção os princípios seguintes:
 
@@ -361,15 +393,15 @@ c) Assegurar directamente as operações de manutenção, modificação, repara�
 
 11. À inspecção pertencerá especialmente o exercício das funções enumeradas no n.º 7 do artigo 1.º que não colidam com as atribuídas no n.º 9 deste artigo ao serviço de indústria, e bem assim quaisquer outras funções de fiscalização e de inquéritos de que seja especialmente encarregada pela direcção de serviços.
 
-###### Art. 10.º - 1. As funções relativas ao comércio interno, distribuição e abastecimento público, as respeitantes a matéria industrial, condicionamento económico e licenciamento industrial respectivo são da competência dos serviços de economia.
+Art. 10.º - 1. As funções relativas ao comércio interno, distribuição e abastecimento público, as respeitantes a matéria industrial, condicionamento económico e licenciamento industrial respectivo são da competência dos serviços de economia.
 
 2. Mediante portaria provincial, as atribuições referidas no corpo deste artigo podem ser total ou parcialmente delegadas em outros serviços ou organismos.
 
-###### Art. 11.º As funções de licenciamento do comércio externo poderão ser delegadas, mediante portaria provincial, em outros serviços ou organismos que por lei não possuam ainda tais atribuições, devendo ser desempenhadas por esses serviços ou organismos mediante a orientação dos serviços de economia.
+Art. 11.º As funções de licenciamento do comércio externo poderão ser delegadas, mediante portaria provincial, em outros serviços ou organismos que por lei não possuam ainda tais atribuições, devendo ser desempenhadas por esses serviços ou organismos mediante a orientação dos serviços de economia.
 
 #### SECÇÃO III — Das repartições provinciais
 
-###### Art. 12.º - 1. Nas províncias de governo simples as repartições provinciais dispõem dos seguintes serviços centrais:
+Art. 12.º - 1. Nas províncias de governo simples as repartições provinciais dispõem dos seguintes serviços centrais:
 
 a) Chefia dos serviços;
 
@@ -387,7 +419,7 @@ f) Inspecção das actividades económicas.
 
 #### SECÇÃO IV — Da inspecção das actividades económicas
 
-###### Art. 13.º - 1. A inspecção rege-se pelo disposto no n.º 11 do artigo 9.º, pelo preceituado nesta secção e pelas demais normas que no presente diploma lhe sejam aplicáveis.
+Art. 13.º - 1. A inspecção rege-se pelo disposto no n.º 11 do artigo 9.º, pelo preceituado nesta secção e pelas demais normas que no presente diploma lhe sejam aplicáveis.
 
 2. Pertence à inspecção, em matéria de fiscalização e sem prejuízo das funções especialmente cometidas a outros serviços ou organismos:
 
@@ -429,7 +461,7 @@ c) Exercer as funções de polícia judiciária relativamente a infracções ant
 
 d) Exercer as demais funções que por lei, regulamento ou determinação superior lhe sejam cometidas.
 
-###### Art. 14.º - 1. No exercício de vigilância a que se refere o n.º 3 do artigo 13.º, incumbe designadamente à inspecção a fiscalização dos estabelecimentos produtores de bens de consumo ou de matérias-primas, bem como dos armazéns, escritórios, estabelecimentos comerciais de qualquer natureza, hotéis, pensões, restaurantes, bares, cafés, recintos de diversões, espectáculos e semelhantes, gares, estações de caminho de ferro, cais de embarque e desembarque, mercados, feiras, bolsas e, de modo geral, quaisquer locais onde se transaccionem mercadorias ou se exerça qualquer outra actividade económica.
+Art. 14.º - 1. No exercício de vigilância a que se refere o n.º 3 do artigo 13.º, incumbe designadamente à inspecção a fiscalização dos estabelecimentos produtores de bens de consumo ou de matérias-primas, bem como dos armazéns, escritórios, estabelecimentos comerciais de qualquer natureza, hotéis, pensões, restaurantes, bares, cafés, recintos de diversões, espectáculos e semelhantes, gares, estações de caminho de ferro, cais de embarque e desembarque, mercados, feiras, bolsas e, de modo geral, quaisquer locais onde se transaccionem mercadorias ou se exerça qualquer outra actividade económica.
 
 2. No exercício das funções a que se refere a alínea a) do n.º 3 do artigo 13.º incumbe à inspecção organizar a prevenção e promover a repressão das actividades antieconómicas e contra a saúde pública e, bem assim, organizar a prevenção e promover a repressão das infracções cometidas no exercício das actividades económicas, com observância das regras estabelecidas no presente diploma.
 
@@ -443,13 +475,13 @@ d) Exercer as demais funções que por lei, regulamento ou determinação superi
 
 7. A competência disciplinar em relação a actividades económicas não sujeitas à disciplina dos organismos corporativos e de coordenação económica cabe à inspecção.
 
-###### Art. 15.º Quando as necessidades dos serviços o imponham, sob proposta do director ou do chefe de serviço respectivos, será criado na inspecção um departamento de contencioso, cujas atribuições constarão de portaria provincial.
+Art. 15.º Quando as necessidades dos serviços o imponham, sob proposta do director ou do chefe de serviço respectivos, será criado na inspecção um departamento de contencioso, cujas atribuições constarão de portaria provincial.
 
 ### CAPÍTULO III — Do pessoal
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 16.º - 1. O pessoal dos serviços de economia do ultramar distribui-se pelos seguintes quadros:
+Art. 16.º - 1. O pessoal dos serviços de economia do ultramar distribui-se pelos seguintes quadros:
 
 a) Quadro comum;
 
@@ -459,11 +491,11 @@ b) Quadros privativos.
 
 3. A organização dos quadros privativos das províncias far-se-á de acordo com as categorias indicadas no mapa II anexo a este diploma.
 
-###### Art. 17.º Quando as necessidades dos serviços o justifiquem, poderão ser contratados além dos quadros, nos termos das disposições legais em vigor, técnicos nacionais ou estrangeiros de reconhecido mérito e especialização aos quais convenha recorrer para a execução de estudos ou trabalhos especiais.
+Art. 17.º Quando as necessidades dos serviços o justifiquem, poderão ser contratados além dos quadros, nos termos das disposições legais em vigor, técnicos nacionais ou estrangeiros de reconhecido mérito e especialização aos quais convenha recorrer para a execução de estudos ou trabalhos especiais.
 
 #### SECÇÃO II — Da competência do pessoal
 
-###### Art. 18.º Aos directores ou chefes de serviço, conforme os casos, compete:
+Art. 18.º Aos directores ou chefes de serviço, conforme os casos, compete:
 
 a) Planear e orientar a actividade dos serviços em conformidade com os objectivos orgânicos e a legislação aplicável;
 
@@ -493,9 +525,9 @@ n) Convocar, sempre que o reputem conveniente, a comissão consultiva a que se r
 
 o) Exercer outras funções por delegação do governo da província, em conformidade com as autorizações que lhes forem dadas.
 
-###### Art. 19.º Aos directores-adjuntos ou aos agentes que, nas províncias de governo simples, desempenharem funções semelhantes compete substituir o director ou chefe de serviço nas suas faltas e impedimentos e dar andamento, sob a sua orientação, aos assuntos que por aqueles lhes forem delegados.
+Art. 19.º Aos directores-adjuntos ou aos agentes que, nas províncias de governo simples, desempenharem funções semelhantes compete substituir o director ou chefe de serviço nas suas faltas e impedimentos e dar andamento, sob a sua orientação, aos assuntos que por aqueles lhes forem delegados.
 
-###### Art. 20.º Aos inspectores provinciais de economia compete, sem prejuízo do disposto nos Diplomas Legislativos Ministeriais n.os 10 e 4, publicados em Angola e Moçambique, respectivamente, em 19 de Dezembro de 1965 e em 15 de Dezembro do mesmo ano:
+Art. 20.º Aos inspectores provinciais de economia compete, sem prejuízo do disposto nos Diplomas Legislativos Ministeriais n.os 10 e 4, publicados em Angola e Moçambique, respectivamente, em 19 de Dezembro de 1965 e em 15 de Dezembro do mesmo ano:
 
 a) Executar os estudos, trabalhos, relatórios, pareceres e outros serviços que lhes forem determinados;
 
@@ -509,11 +541,11 @@ e) Propor as providências que julguem necessárias ao melhoramento dos referido
 
 f) Representar os serviços de economia nos conselhos ou comissões de outros serviços e organismos de outras secretarias provinciais ou em instituições em que tenha ou venha a ter assento o director dos aludidos serviços, sempre que o governo-geral reconheça vantagem em que tal representação caiba a um inspector provincial.
 
-###### Art. 21.º Ao restante pessoal compete, sem prejuízo do que for fixado em leis especiais, desempenhar-se das tarefas que lhes forem designadas no regulamento dos serviços, a aprovar em cada província por portaria, ou de que for incumbido pelos directores ou chefes de serviço ou outros legítimos superiores hierárquicos.
+Art. 21.º Ao restante pessoal compete, sem prejuízo do que for fixado em leis especiais, desempenhar-se das tarefas que lhes forem designadas no regulamento dos serviços, a aprovar em cada província por portaria, ou de que for incumbido pelos directores ou chefes de serviço ou outros legítimos superiores hierárquicos.
 
 #### SECÇÃO III — Do preenchimento dos cargos
 
-###### Art. 22.º O provimento dos cargos do quadro comum far-se-á de harmonia com as seguintes regras:
+Art. 22.º O provimento dos cargos do quadro comum far-se-á de harmonia com as seguintes regras:
 
 a) Os cargos de director e director-adjunto são providos por escolha do Ministro, em comissão ordinária de serviço, normalmente mediante proposta do governo-geral de cada província e em regra de entre funcionários com a categoria de técnico-director com, pelo menos, três anos de serviço nesta categoria, ou ainda entre licenciados por qualquer Universidade portuguesa cuja especialização e curriculum o justifiquem.
 
@@ -551,9 +583,9 @@ o) Os cargos de tradutores-correspondentes serão providos, por escolha do Minis
 
 5. Para a nomeação de técnico-director, prevista na alínea e) do n.º 1 do presente artigo, em igualdade de situações, será, em regra, dada preferência àqueles peritos económicos que já tenham chefiado os serviços centrais, referidos nos artigos 8.º e 12.º, com a categoria de técnico-chefe ou inspector-chefe.
 
-###### Art. 23.º As formas e condições de provimento dos lugares constantes do mapa II anexo a este diploma serão estabelecidas em portaria dos governos provinciais. Os casos omissos serão regulados pelo disposto no Estatuto do Funcionalismo Ultramarino.
+Art. 23.º As formas e condições de provimento dos lugares constantes do mapa II anexo a este diploma serão estabelecidas em portaria dos governos provinciais. Os casos omissos serão regulados pelo disposto no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 24.º - 1. Os serviços referidos nas alíneas a) a j) do n.º 1 do artigo 8.º deste diploma serão chefiados por peritos económicos, e os serviços referidos nas alíneas a) a e) do n.º 1 do artigo 12.º, por peritos ou técnicos económicos, podendo o mesmo funcionário, em qualquer província, chefiar mais que um serviço.
+Art. 24.º - 1. Os serviços referidos nas alíneas a) a j) do n.º 1 do artigo 8.º deste diploma serão chefiados por peritos económicos, e os serviços referidos nas alíneas a) a e) do n.º 1 do artigo 12.º, por peritos ou técnicos económicos, podendo o mesmo funcionário, em qualquer província, chefiar mais que um serviço.
 
 2. A escolha para a chefia para os serviços centrais é feita pelo governo da província, sob proposta do director ou chefe de serviço, nas condições que vierem a ser fixadas no regulamento previsto no artigo 21.º
 
@@ -569,11 +601,11 @@ o) Os cargos de tradutores-correspondentes serão providos, por escolha do Minis
 
 #### SECÇÃO IV — Dos direitos e deveres do pessoal
 
-###### Art. 25.º - 1. Em tudo o que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal dos serviços de economia regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
+Art. 25.º - 1. Em tudo o que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal dos serviços de economia regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
 
 2. Os técnicos dos serviços de economia devem procurar aumentar a sua preparação profissional para o desempenho eficaz das funções que lhes são atribuídas e contribuir para a documentação que os dirigentes dos serviços julgarem útil publicar.
 
-###### Art. 26.º - 1. Ao pessoal dos serviços de economia com curso superior e aos diplomados com cursos técnicos médios, quando trabalhe em regime de ocupação exclusiva, serão atribuídas gratificações mensais fixadas na mapa III anexo a este diploma.
+Art. 26.º - 1. Ao pessoal dos serviços de economia com curso superior e aos diplomados com cursos técnicos médios, quando trabalhe em regime de ocupação exclusiva, serão atribuídas gratificações mensais fixadas na mapa III anexo a este diploma.
 
 2. Consideram-se em regime de ocupação exclusiva os funcionários que não desempenhem qualquer actividade remunerada estranha aos serviços públicos. Não deixam de estar em regime de ocupação exclusiva os funcionários nomeados pelos governos provinciais como representantes especiais de empresas concessionárias do Estado.
 
@@ -601,7 +633,7 @@ i) Chefes de pessoal menor;
 
 j) Funcionários que chefiarem a produção de frio.
 
-###### Art. 27.º - 1. Os directores e chefes de serviço, os inspectores provinciais de economia, os directores-adjuntos, os técnicos-directores, os peritos económicos que chefiarem as inspecções das actividades económicas, os inspectores, os chefes de delegação e subdelegação e demais pessoal em serviço de inspecção e fiscalização são considerados agentes de autoridade para os efeitos dos artigos 250.º e 252.º do Código de Processo Penal e gozam, além dos que pertençam aos demais funcionários públicos, dos direitos seguintes:
+Art. 27.º - 1. Os directores e chefes de serviço, os inspectores provinciais de economia, os directores-adjuntos, os técnicos-directores, os peritos económicos que chefiarem as inspecções das actividades económicas, os inspectores, os chefes de delegação e subdelegação e demais pessoal em serviço de inspecção e fiscalização são considerados agentes de autoridade para os efeitos dos artigos 250.º e 252.º do Código de Processo Penal e gozam, além dos que pertençam aos demais funcionários públicos, dos direitos seguintes:
 
 a) Do uso de cartão de identidade assinado pelo director ou chefe de serviço e autenticado com o selo branco e de distintivo especial para pronto conhecimento da sua qualidade, de modelo a aprovar pelos governos provinciais;
 
@@ -617,13 +649,13 @@ d) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o 
 
 4. O mesmo pessoal pode prender em flagrante delito pessoas que sem motivo legítimo procurarem impedir a sua acção, bem como as pessoas que o injuriarem, ameaçarem ou agredirem no exercício, ou por motivo, das suas funções, e entregá-las à autoridade competente mais próxima, com o respectivo auto de notícia.
 
-###### Art. 28.º - 1. Os funcionários dos serviços de economia do ultramar que tenham boas informações de serviço e ocupem lugares sem acesso a cargo superior, quer por esses cargos não fazerem parte de qualquer escala hierárquica, quer por já terem atingido o topo desta, têm direito, após dez e vinte anos de serviço nessas categorias, às diuturnidades correspondentes, respectivamente a 10 e 20 por cento do vencimento base próprio do lugar.
+Art. 28.º - 1. Os funcionários dos serviços de economia do ultramar que tenham boas informações de serviço e ocupem lugares sem acesso a cargo superior, quer por esses cargos não fazerem parte de qualquer escala hierárquica, quer por já terem atingido o topo desta, têm direito, após dez e vinte anos de serviço nessas categorias, às diuturnidades correspondentes, respectivamente a 10 e 20 por cento do vencimento base próprio do lugar.
 
 2. Estas diuturnidades ser-lhes-ão abonadas sempre que o seja o vencimento do exercício e sobre elas se baseará o cálculo da pensão de aposentação, quando esta venha a ter lugar.
 
 3. Os funcionários dos serviços de economia do ultramar que transitarem para os novos quadros, ao abrigo do disposto neste diploma, para lugares nas condições indicadas no corpo deste artigo, passarão a perceber as diuturnidades de 10 a 20 por cento, quando o tempo de serviço prestado ao Estado ou nas extintas juntas de comércio externo, sem interrupção, até à transição, em lugares das mesmas categorias, somar com o tempo de exercício dos lugares para que transitaram, respectivamente, mais de dez a vinte anos, sendo, no primeiro caso, o tempo em excesso contado para efeito da segunda diuturnidade.
 
-###### Art. 29.º - 1. Os funcionários do quadro comum dos serviços de economia poderão, sob proposta do governador da respectiva província, prestar serviço da sua especialidade, em comissão eventual, em qualquer departamento do Ministério do Ultramar.
+Art. 29.º - 1. Os funcionários do quadro comum dos serviços de economia poderão, sob proposta do governador da respectiva província, prestar serviço da sua especialidade, em comissão eventual, em qualquer departamento do Ministério do Ultramar.
 
 2. Após o termo da respectiva licença graciosa, o pessoal dos quadros comuns e dos quadros privativos poderá igualmente ser autorizado pelo Ministro do Ultramar a estagiar nos serviços do Ministério até dois meses, para especialização em qualquer assunto de serviço ou familiarização com métodos de trabalho ou novos regimes legais. Este estágio poderá ser prolongado até seis meses, mediante requerimento ao Ministro, boa informação do dirigente do respectivo serviço e parecer favorável da província a que o funcionário pertencer.
 
@@ -631,15 +663,15 @@ d) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o 
 
 4. As inspecções organizarão cursos de habilitação técnica destinados à preparação e especialização, a regulamentar em portaria provincial.
 
-###### Art. 30.º Os funcionários da inspecção são obrigados, sob pena de demissão e sem prejuízo da aplicação das sanções previstas no artigo 290.º do Código Penal, a guardar rigoroso sigilo profissional, não podendo, em caso algum, revelar segredo de fabricação ou comércio, nem, de um modo geral, quaisquer processos de exploração económica de que porventura tomem conhecimento no exercício das suas funções. A mesma pena disciplinar será aplicável, independentemente de procedimento criminal, aos que recebam dádivas ou gratificações por qualquer motivo relacionado com investigações ou por causa delas ou com qualquer outra função que lhes caiba nas atribuições da inspecção.
+Art. 30.º Os funcionários da inspecção são obrigados, sob pena de demissão e sem prejuízo da aplicação das sanções previstas no artigo 290.º do Código Penal, a guardar rigoroso sigilo profissional, não podendo, em caso algum, revelar segredo de fabricação ou comércio, nem, de um modo geral, quaisquer processos de exploração económica de que porventura tomem conhecimento no exercício das suas funções. A mesma pena disciplinar será aplicável, independentemente de procedimento criminal, aos que recebam dádivas ou gratificações por qualquer motivo relacionado com investigações ou por causa delas ou com qualquer outra função que lhes caiba nas atribuições da inspecção.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 31.º Salvo o disposto nos artigos seguintes ou em leis especiais, o funcionamento dos serviços de economia rege-se pelas normas do Estatuto do Funcionalismo Ultramarino.
+Art. 31.º Salvo o disposto nos artigos seguintes ou em leis especiais, o funcionamento dos serviços de economia rege-se pelas normas do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 32.º Sempre que haja conveniência, poderão os serviços de economia, por iniciativa própria ou determinação superior, proceder a inquéritos sobre a forma como se exercem as actividades económicas, destinados a colher informações e demais elementos junto dos interessados e organismos oficiais ou oficiosos.
+Art. 32.º Sempre que haja conveniência, poderão os serviços de economia, por iniciativa própria ou determinação superior, proceder a inquéritos sobre a forma como se exercem as actividades económicas, destinados a colher informações e demais elementos junto dos interessados e organismos oficiais ou oficiosos.
 
-###### Art. 33.º - 1. A inspecção poderá actuar mediante a constituição de brigadas externas, que normalmente cumprirão as suas missões sob a direcção dos inspectores. Quando actuem com permanência fora da área da sede, ficarão adstritos à respectiva delegação, com a qual cooperarão estreitamente, sem prejuízo da competência administrativa do respectivo governador de distrito.
+Art. 33.º - 1. A inspecção poderá actuar mediante a constituição de brigadas externas, que normalmente cumprirão as suas missões sob a direcção dos inspectores. Quando actuem com permanência fora da área da sede, ficarão adstritos à respectiva delegação, com a qual cooperarão estreitamente, sem prejuízo da competência administrativa do respectivo governador de distrito.
 
 2. Os organismos de coordenação económica e corporativa e as associações de carácter económico podem solicitar a colaboração dos serviços de inspecção, subsidiando, quando necessário, o pagamento de agentes ou de outras despesas.
 
@@ -647,7 +679,7 @@ d) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o 
 
 4. As funções de fiscalização previstas neste artigo poderão ser desempenhadas, a pedido dos serviços, directamente por outras entidades públicas, e designadamente pelos organismos de coordenação económica a que não sejam atribuídas já tais funções.
 
-###### Art. 34.º - 1. Considera-se delegada na inspecção a competência para proceder à instrução preparatória das processos correspondentes aos delitos de natureza antieconómica e contra a saúde pública, sem prejuízo da respectiva direcção por parte do Ministério Público, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 34.º - 1. Considera-se delegada na inspecção a competência para proceder à instrução preparatória das processos correspondentes aos delitos de natureza antieconómica e contra a saúde pública, sem prejuízo da respectiva direcção por parte do Ministério Público, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 2. Aos inspectores, e nas províncias ultramarinas do governo-geral também aos subinspectores, cabe presidir à instrução preparatória, podendo, nestas províncias, os actos que devem ser presididos ou praticados pessoalmente pelo agente do Ministério Público ser presididos ou praticados pelo perito económico que chefiar a inspecção ou pelo funcionário em que este delegar.
 
@@ -655,21 +687,21 @@ d) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o 
 
 4. As diligências efectuadas pela inspecção com destino à instrução preparatória de quaisquer processos são de carácter secreto.
 
-###### Art. 35.º - 1. Todas as autoridades que recebam denúncias ou levantem autos de notícia, nos termos do artigo 166.º do Código de Processo Penal, relativamente às infracções de natureza antieconómica ou contra a saúde pública, enviá-las-ão à inspecção no prazo de quarenta e oito horas.
+Art. 35.º - 1. Todas as autoridades que recebam denúncias ou levantem autos de notícia, nos termos do artigo 166.º do Código de Processo Penal, relativamente às infracções de natureza antieconómica ou contra a saúde pública, enviá-las-ão à inspecção no prazo de quarenta e oito horas.
 
 2. As reclamações, queixas ou denúncias recebidas, quer pela inspecção, quer pelas autoridades a que se refere o corpo do artigo, são estritamente confidenciais; aos funcionários da inspecção é proibido, sob pena de aplicação da sanção disciplinar correspondente à violação do segredo profissional, dar a conhecer por qualquer forma que a visita respectiva é consequência de reclamação, queixa ou denúncia. Igual pena será imposta aos que, sem autorização dos respectivos superiores, revelem qualquer facto relativo a investigações em curso ou missão de que sejam encarregados.
 
 3. Quando se trate de infracções contra a saúde pública, a inspecção deve dar imediato conhecimento delas à direcção provincial dos serviços de saúde e assistência para efeitos que esta houver por convenientes.
 
-###### Art. 36.º - 1. A inspecção enviará directamente cópia de todos os autos ou denúncias ao agente do Ministério Público.
+Art. 36.º - 1. A inspecção enviará directamente cópia de todos os autos ou denúncias ao agente do Ministério Público.
 
 2. A falta de comunicação ao agente do Ministério Público, no prazo de quatro dias, a contar do levantamento do auto da apresentação da denúncia, sujeita o funcionário responsável à multa prevista no § 2.º do artigo 168.º do Código de Processo Penal, além da sanção disciplinar correspondente aos casos de negligência indesculpável.
 
-###### Art. 37.º As entidades oficiais e os organismos corporativos e de coordenação económica deverão prestar à inspecção as informações que julguem convenientes ou lhes sejam solicitadas, que possam contribuir para a descoberta das infracções ou de organização ilegal dos sectores ou actividades económicas.
+Art. 37.º As entidades oficiais e os organismos corporativos e de coordenação económica deverão prestar à inspecção as informações que julguem convenientes ou lhes sejam solicitadas, que possam contribuir para a descoberta das infracções ou de organização ilegal dos sectores ou actividades económicas.
 
-###### Art. 38.º As diligências que for necessário realizar fora da sede dos serviços encarregados da instrução dos processos poderão ser solicitadas aos agentes do Ministério Público ou às autoridades administrativas ou policiais das localidades onde devam ser efectuadas.
+Art. 38.º As diligências que for necessário realizar fora da sede dos serviços encarregados da instrução dos processos poderão ser solicitadas aos agentes do Ministério Público ou às autoridades administrativas ou policiais das localidades onde devam ser efectuadas.
 
-###### Art. 39.º - 1. Os proprietários, administradores, directores, encarregados ou seus representantes nos estabelecimentos e escritórios das empresas comerciais ou industriais e demais locais sujeitos a fiscalização são especialmente obrigados:
+Art. 39.º - 1. Os proprietários, administradores, directores, encarregados ou seus representantes nos estabelecimentos e escritórios das empresas comerciais ou industriais e demais locais sujeitos a fiscalização são especialmente obrigados:
 
 a) A facultar a entrada nos referidos locais ao pessoal da inspecção, depois de devidamente identificado, e a sua permanência nele pelo tempo que for necessário à conclusão do serviço;
 
@@ -683,21 +715,21 @@ c) A cumprir as determinações de natureza económica fixadas em diplomas e des
 
 4. Os que, sendo legalmente obrigados a prestar informações, declarações e depoimentos, o fizerem falsamente aos funcionários da inspecção no exercício das suas funções cometem o crime previsto e punido pelo artigo 242.º do Código Penal.
 
-###### Art. 40.º - 1. Concluída a instrução preparatória dos processos, ao perito económico que chefiar a inspecção ou ao inspector, conforme se trate de províncias de governo-geral ou de governo simples, cabe enviá-los, mediante proposta de quem tenha presidido à instrução, ao director de serviço, para posterior remessa ao Ministério Público, sem prejuízo do disposto no artigo 41.º
+Art. 40.º - 1. Concluída a instrução preparatória dos processos, ao perito económico que chefiar a inspecção ou ao inspector, conforme se trate de províncias de governo-geral ou de governo simples, cabe enviá-los, mediante proposta de quem tenha presidido à instrução, ao director de serviço, para posterior remessa ao Ministério Público, sem prejuízo do disposto no artigo 41.º
 
 2. Se o agente do Ministério Público considerar que se impõe a realização de novas diligências, poderá realizá-las directamente ou, em casos devidamente fundamentados, solicitá-las à inspecção das actividades económicas, bem como a cooperação dos seus agentes para o coadjuvarem.
 
-###### Art. 41.º - 1. Quando, depois de concluída a instrução preparatória, os autos não forneçam prova suficiente ou se mostre a inexistência das infracções, poderá o director ou chefe de serviço ou o funcionário no qual esta competência for delegada ordenar o arquivamento ou determinar que os autos aguardem a produção de melhor prova, para o que serão remetidos ao sector respectivo da inspecção.
+Art. 41.º - 1. Quando, depois de concluída a instrução preparatória, os autos não forneçam prova suficiente ou se mostre a inexistência das infracções, poderá o director ou chefe de serviço ou o funcionário no qual esta competência for delegada ordenar o arquivamento ou determinar que os autos aguardem a produção de melhor prova, para o que serão remetidos ao sector respectivo da inspecção.
 
 2. Ao respectivo agente do Ministério Público e às entidades referidas no artigo 35.º será comunicado, logo que proferido, o despacho que ordenar o arquivamento ou mandar aguardar produção de melhor prova de processos crime que lhes digam respeito.
 
-###### Art. 42.º A aplicação provisória das medidas de segurança previstas nos artigos 7.º a 9.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, será proposta pela inspecção ao tribunal competente, se no decurso da instrução vier a conhecer-se perigo de actividade delituosa contra a saúde dos consumidores ou contra os interesses da economia nacional.
+Art. 42.º A aplicação provisória das medidas de segurança previstas nos artigos 7.º a 9.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, será proposta pela inspecção ao tribunal competente, se no decurso da instrução vier a conhecer-se perigo de actividade delituosa contra a saúde dos consumidores ou contra os interesses da economia nacional.
 
-###### Art. 43.º - 1. São órgãos de fiscalização das actividades económicas, sem prejuízo das atribuições cometidas à inspecção por este diploma, a Polícia de Segurança Pública e outras autoridades policiais, administrativas e fiscais.
+Art. 43.º - 1. São órgãos de fiscalização das actividades económicas, sem prejuízo das atribuições cometidas à inspecção por este diploma, a Polícia de Segurança Pública e outras autoridades policiais, administrativas e fiscais.
 
 2. As autoridades a que se refere o corpo do artigo poderão ter elementos de ligação junto da inspecção com o fim de melhor se assegurar a execução das diligências necessárias, sem que essa colaboração importe qualquer gratificação especial.
 
-###### Art. 44.º - 1. Os Serviços de Economia de Angola e Moçambique poderão realizar alternadamente, em regra de dois em dois anos, jornadas sobre assuntos de economia, reunindo técnicos dos serviços pertencentes às secretarias provinciais de economia daquelas províncias, onde e como melhor convier para a apresentação e discussão de temas com actualidade e importância para a eficiência dos serviços e para a economia do conjunto português, podendo ainda assistir às sessões funcionários da Direcção-Geral de Economia, do Ministério do Ultramar, dos serviços ligados ao sector económico das restantes províncias ultramarinas e ainda outros técnicos, nacionais ou estrangeiros, cuja presença interesse aos trabalhos.
+Art. 44.º - 1. Os Serviços de Economia de Angola e Moçambique poderão realizar alternadamente, em regra de dois em dois anos, jornadas sobre assuntos de economia, reunindo técnicos dos serviços pertencentes às secretarias provinciais de economia daquelas províncias, onde e como melhor convier para a apresentação e discussão de temas com actualidade e importância para a eficiência dos serviços e para a economia do conjunto português, podendo ainda assistir às sessões funcionários da Direcção-Geral de Economia, do Ministério do Ultramar, dos serviços ligados ao sector económico das restantes províncias ultramarinas e ainda outros técnicos, nacionais ou estrangeiros, cuja presença interesse aos trabalhos.
 
 2. As jornadas serão públicas em todas ou em algumas das suas sessões, e os respectivos trabalhos poderão ser divulgados pela forma que for julgada mais conveniente.
 
@@ -707,29 +739,29 @@ c) A cumprir as determinações de natureza económica fixadas em diplomas e des
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 45.º O pessoal dos actuais quadros dos serviços de economia do ultramar transita nas mesmas categorias e sem mais formalidades, incluindo as do visto e posse, para os novos quadros anexos ao presente diploma.
+Art. 45.º O pessoal dos actuais quadros dos serviços de economia do ultramar transita nas mesmas categorias e sem mais formalidades, incluindo as do visto e posse, para os novos quadros anexos ao presente diploma.
 
-###### Art. 46.º Para os lugares de tradutor-correspondente, criados por este diploma, transitam, mediante portaria do Ministério do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo, os funcionários dos Serviços de Economia de Angola que exercem as funções de tradutores e intérpretes.
+Art. 46.º Para os lugares de tradutor-correspondente, criados por este diploma, transitam, mediante portaria do Ministério do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo, os funcionários dos Serviços de Economia de Angola que exercem as funções de tradutores e intérpretes.
 
-###### Art. 47.º - 1. São extintas as categorias de técnico-chefe e inspector-chefe do quadro comum dos serviços de economia do ultramar. Transitam para a categoria de perito económico os actuais técnicos-chefes e inspectores-chefes, sem mais formalidades, incluindo as do visto e posse.
+Art. 47.º - 1. São extintas as categorias de técnico-chefe e inspector-chefe do quadro comum dos serviços de economia do ultramar. Transitam para a categoria de perito económico os actuais técnicos-chefes e inspectores-chefes, sem mais formalidades, incluindo as do visto e posse.
 
 2. O perito económico que chefiar a inspecção terá a designação funcional de inspector-chefe.
 
-###### Art. 48.º - 1. Transitam para os lugares de chefe de repartição, independentemente de quaisquer formalidades, incluindo o visto e posse, os chefes de divisão a que se refere o n.º 4 do artigo 44.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, assim como os adjuntos de chefe de repartição dos Serviços de Economia de Angola que transitaram para esta categoria na relação nominal publicada no Diário do Governo, 2.ª série, n.º 234, de 3 de Outubro de 1968, devendo os respectivos vencimentos, desde a data da entrada em vigor deste diploma até serem tomadas as providências financeiras adequadas, ser abonados nos termos do artigo 70.º do Decreto n.º 40058, de 23 de Novembro de 1961.
+Art. 48.º - 1. Transitam para os lugares de chefe de repartição, independentemente de quaisquer formalidades, incluindo o visto e posse, os chefes de divisão a que se refere o n.º 4 do artigo 44.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, assim como os adjuntos de chefe de repartição dos Serviços de Economia de Angola que transitaram para esta categoria na relação nominal publicada no Diário do Governo, 2.ª série, n.º 234, de 3 de Outubro de 1968, devendo os respectivos vencimentos, desde a data da entrada em vigor deste diploma até serem tomadas as providências financeiras adequadas, ser abonados nos termos do artigo 70.º do Decreto n.º 40058, de 23 de Novembro de 1961.
 
 2. O primeiro provimento dos lugares vagos de chefe de repartição dos Serviços de Economia de Moçambique será feito por escolha do governador-geral, sobre proposta do director de serviço, de entre os actuais adjuntos de chefe de repartição.
 
-###### Art. 49.º Transitam para os cargos de terceiro-oficial, sem mais formalidades, incluindo o visto e posse, os actuais aspirantes do quadro privativo dos serviços de economia do ultramar.
+Art. 49.º Transitam para os cargos de terceiro-oficial, sem mais formalidades, incluindo o visto e posse, os actuais aspirantes do quadro privativo dos serviços de economia do ultramar.
 
-###### Art. 50.º Para efeitos de vencimentos, as categorias dos condutores de automóveis dos Serviços de Economia de Angola entram em vigor a partir de 1 de Janeiro de 1969.
+Art. 50.º Para efeitos de vencimentos, as categorias dos condutores de automóveis dos Serviços de Economia de Angola entram em vigor a partir de 1 de Janeiro de 1969.
 
-###### Art. 51.º Os fiscais de 1.ª, 2.ª e 3.ª classe e os auxiliares fiscais dos serviços de economia do ultramar passam a designar-se, respectivamente, agentes de fiscalização de 1.ª, 2.ª e 3.ª classe e agentes de fiscalização auxiliares.
+Art. 51.º Os fiscais de 1.ª, 2.ª e 3.ª classe e os auxiliares fiscais dos serviços de economia do ultramar passam a designar-se, respectivamente, agentes de fiscalização de 1.ª, 2.ª e 3.ª classe e agentes de fiscalização auxiliares.
 
-###### Art. 52.º - 1. O pessoal que transitar para os novos quadros nos termos dos artigos anteriores considerar-se-á empossado na data da entrada em vigor do presente diploma.
+Art. 52.º - 1. O pessoal que transitar para os novos quadros nos termos dos artigos anteriores considerar-se-á empossado na data da entrada em vigor do presente diploma.
 
 2. Se da transição resultar para alguns agentes diminuição de vencimentos ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para onde transitaram, os seus actuais vencimentos e outras regalias inerentes.
 
-###### Art. 53.º As colocações não previstas especialmente neste diploma serão feitas tendo em atenção:
+Art. 53.º As colocações não previstas especialmente neste diploma serão feitas tendo em atenção:
 
 a) A composição dos quadros:
 
@@ -745,29 +777,29 @@ f) As funções que presentemente desempenham;
 
 g) O número de anos de serviço prestado ao Estado.
 
-###### Art. 54.º Os funcionários dos quadros privativos dos serviços de economia do ultramar que, à data da publicação do presente diploma, se encontrem a desempenhar funções em regime de interinidade poderão, independentemente de concurso, ser providos, pelos respectivos governos, nos lugares que ocupam, desde que pelas suas informações o mereçam, tendo em atenção a qualidade dos serviços prestados, as habilitações literárias e as especializações que possam reconhecer-se-lhes.
+Art. 54.º Os funcionários dos quadros privativos dos serviços de economia do ultramar que, à data da publicação do presente diploma, se encontrem a desempenhar funções em regime de interinidade poderão, independentemente de concurso, ser providos, pelos respectivos governos, nos lugares que ocupam, desde que pelas suas informações o mereçam, tendo em atenção a qualidade dos serviços prestados, as habilitações literárias e as especializações que possam reconhecer-se-lhes.
 
-###### Art. 55.º Todo o tempo de serviço prestado ao Estado anteriormente à entrada em vigor do presente diploma, qualquer que tenha sido o título dessa prestação de serviço e desde que não tenha havido interrupção de serviço, será contado para todos os efeitos legais, incluindo o da aposentação, desde que, neste último caso, descontem as quotas respectivas, se não o tiverem feito já.
+Art. 55.º Todo o tempo de serviço prestado ao Estado anteriormente à entrada em vigor do presente diploma, qualquer que tenha sido o título dessa prestação de serviço e desde que não tenha havido interrupção de serviço, será contado para todos os efeitos legais, incluindo o da aposentação, desde que, neste último caso, descontem as quotas respectivas, se não o tiverem feito já.
 
-###### Art. 56.º - 1. O preenchimento de lugares criados por este diploma efectuar-se-á à medida que forem orçamentadas as verbas respectivas, devendo os governos provinciais tomar as providências necessárias para que, entretanto, se mantenha a actividade normal dos serviços.
+Art. 56.º - 1. O preenchimento de lugares criados por este diploma efectuar-se-á à medida que forem orçamentadas as verbas respectivas, devendo os governos provinciais tomar as providências necessárias para que, entretanto, se mantenha a actividade normal dos serviços.
 
 2. Ficam os governos provinciais autorizados desde já a abrir os créditos necessários, com contrapartida nos recursos orçamentais, para prover às necessidades financeiras resultantes da presente reorganização dos serviços.
 
 3. Os lugares de dois dos três peritos económicos, de dois inspectores e de oito adjuntos-técnicos de 1.ª classe, com que foi aumentado o quadro comum dos Serviços de Economia de Angola, serão inscritos no orçamento geral desta província, mas a contrapartida para suportar os respectivos encargos será entregue, anualmente, pelo Fundo de Comercialização criado pelo [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, aos Serviços de Fazenda e Contabilidade de Angola.
 
-###### Art. 57.º Ficam revogados o artigo 8.º do Diploma Legislativo Ministerial n.º 15, de 31 de Maio de 1967, o [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, bem assim como o [Decreto n.º 48826](https://diariodarepublica.pt/dr/detalhe/decreto/48826-1969-241626), de 2 de Janeiro de 1969.
+Art. 57.º Ficam revogados o artigo 8.º do Diploma Legislativo Ministerial n.º 15, de 31 de Maio de 1967, o [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, bem assim como o [Decreto n.º 48826](https://diariodarepublica.pt/dr/detalhe/decreto/48826-1969-241626), de 2 de Janeiro de 1969.
 
-###### Art. 58.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
+Art. 58.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
 
-###### Art. 59.º - 1. O presente diploma entra imediatamente em vigor em Angola e Moçambique.
+Art. 59.º - 1. O presente diploma entra imediatamente em vigor em Angola e Moçambique.
 
 2. A aplicação deste decreto, nas províncias de governo simples, fica dependente da prévia proposta dos respectivos governos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Agosto de 1970.**
+Promulgado em 14 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Setembro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -775,7 +807,7 @@ Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva 
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/20500/11641176.pdf))](https://files.diariodarepublica.pt/1s/1970/09/20500/11641176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/20500/11641176.pdf)
 
 MAPA II
 

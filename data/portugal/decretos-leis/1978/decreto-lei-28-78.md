@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 23/1978, 1º Suplemento, Série I de 1978-01-27
   number: '23'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 266-(4) a 266-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/02301/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1978-331859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1c0f610b7a4cd3701d78f539f7a849fd9d7cbec994ce40beef62ccdfd2ad1fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53483156bd57a76620b45d39c875af639fc3af343b14ee796b8f4cf6e9327721
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Juiz
+- Nomeação
+- Recrutamento de Pessoal
+- Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:33Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +105,7 @@ Para tanto, autoriza-se que os tribunais militares de instância possam funciona
 
 Nestes termos, o Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Quando, por circunstâncias de carácter transitório, o serviço de qualquer tribunal militar de instância se encontre sensivelmente atrasado ou se verifique ou seja de prever o impedimento prolongado ou frequentemente repetido de um juiz, promotor de justiça ou defensor oficioso, poderão ser criadas, por despacho do Chefe do Estado-Maior respectivo, equipas auxiliares, que funcionarão adstritas a um ou mais tribunais militares de instância com a mesma sede, ou poderão ser nomeados como auxiliares, os juízes, promotores de justiça, defensores oficiosos e secretários que se reputem necessários para a completa normalização do serviço.
+Artigo 1.º - 1 - Quando, por circunstâncias de carácter transitório, o serviço de qualquer tribunal militar de instância se encontre sensivelmente atrasado ou se verifique ou seja de prever o impedimento prolongado ou frequentemente repetido de um juiz, promotor de justiça ou defensor oficioso, poderão ser criadas, por despacho do Chefe do Estado-Maior respectivo, equipas auxiliares, que funcionarão adstritas a um ou mais tribunais militares de instância com a mesma sede, ou poderão ser nomeados como auxiliares, os juízes, promotores de justiça, defensores oficiosos e secretários que se reputem necessários para a completa normalização do serviço.
 
 2 - Cada equipa auxiliar será constituída por dois juízes militares, dos quais o mais graduado ou antigo servirá de presidente, por um juiz auditor, por um promotor de justiça e por um defensor oficioso.
 
@@ -110,18 +119,18 @@ Nestes termos, o Conselho da Revolução decreta, nos termos da alínea a) do n.
 
 7 - Os juízes, promotores e defensores auxiliares substituirão os titulares respectivos, nas suas faltas e impedimentos, com preferência sobre os demais substitutos, desde que não estejam em idêntico exercício noutro tribunal.
 
-###### Art. 2.º - 1 - Os juízes, promotores de justiça, defensores oficiosos e secretários auxiliares serão nomeados nos mesmos termos dos efectivos.
+Art. 2.º - 1 - Os juízes, promotores de justiça, defensores oficiosos e secretários auxiliares serão nomeados nos mesmos termos dos efectivos.
 
 2 - A nomeação dos auditores auxiliares será feita por um período de um ano, renovável.
 
 3 - Os juízes, promotores, defensores e secretários auxiliares terão os direitos, regalias e remunerações dos titulares dos respectivos cargos, ressalvado o disposto no número anterior.
 
-###### Art. 3.º Os encargos resultantes deste diploma serão satisfeitos por verba global inscrita no orçamento respectivo.
+Art. 3.º Os encargos resultantes deste diploma serão satisfeitos por verba global inscrita no orçamento respectivo.
 
 Visto e aprovado em Conselho da Revolução em 26 de Outubro de 1977.
 
-**Promulgado em 24 de Janeiro de 1978.**
+Promulgado em 24 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

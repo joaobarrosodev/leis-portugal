@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19600/23742375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1980-469795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c7342a17c194e123f9a28cdd2bbe36dba61cf5041951d6e591702b7bff8d837
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 884637d53b66d50a84bcf2dec431a273e6ec3c634b969cf4d9b0fa0eab07d83b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Regentes Agrícolas
+- Estabelecimento de Ensino
+- Évora
+- Extinção de Serviços
+- Universidade de Évora
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:58Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +115,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a Escola de Regentes Agrícolas de Évora com efeitos a partir de 1 de Agosto de 1980, inclusive.
+Artigo 1.º É extinta a Escola de Regentes Agrícolas de Évora com efeitos a partir de 1 de Agosto de 1980, inclusive.
 
-###### Art. 2.º - 1 - O pessoal em serviço na Escola, a qualquer título, à data da sua extinção, transita para um quadro de supranumerários da Universidade, na mesma categoria ou em categoria equivalente, mediante despacho do Ministro da Educação e Ciência, sob proposta do reitor, extinguindo-se os respectivos lugares à medida que vagarem.
+Art. 2.º - 1 - O pessoal em serviço na Escola, a qualquer título, à data da sua extinção, transita para um quadro de supranumerários da Universidade, na mesma categoria ou em categoria equivalente, mediante despacho do Ministro da Educação e Ciência, sob proposta do reitor, extinguindo-se os respectivos lugares à medida que vagarem.
 
 2 - O pessoal a que se refere o número anterior poderá desde logo ser contratado pela Universidade, nos termos do artigo 24.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, ou integrado no quadro do pessoal da Universidade, desde que os interessados satisfaçam as condições estabelecidas para o provimento nos respectivos lugares.
 
-###### Art. 3.º Consideram-se transferidos para a Universidade o património e os serviços da Escola de Regentes Agrícolas de Évora, independentemente de quaisquer formalidades, com os direitos e obrigações de que esta for titular.
+Art. 3.º Consideram-se transferidos para a Universidade o património e os serviços da Escola de Regentes Agrícolas de Évora, independentemente de quaisquer formalidades, com os direitos e obrigações de que esta for titular.
 
-###### Art. 4.º São transferidos para a Universidade os saldos das dotações dos orçamentos da Escola existentes à data da sua extinção.
+Art. 4.º São transferidos para a Universidade os saldos das dotações dos orçamentos da Escola existentes à data da sua extinção.
 
-###### Art. 5.º A documentação da Escola transita para a Universidade, que dela ficará fiel depositária, com a obrigação da passagem das correspondentes certidões.
+Art. 5.º A documentação da Escola transita para a Universidade, que dela ficará fiel depositária, com a obrigação da passagem das correspondentes certidões.
 
-###### Art. 6.º É entregue à Universidade e integrado no seu património o edifício e demais instalações em que funcionou o Liceu Nacional de Évora até final do ano lectivo de 1978-1979.
+Art. 6.º É entregue à Universidade e integrado no seu património o edifício e demais instalações em que funcionou o Liceu Nacional de Évora até final do ano lectivo de 1978-1979.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral - Vítor Pereira Crespo.
 
-**Promulgado em 13 de Agosto de 1980.**
+Promulgado em 13 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

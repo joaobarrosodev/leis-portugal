@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44803-1962-154660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f6a77bfa7e3176bdf802f13935fcaaa830624eefeb60baa66f874747182b9dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72bdc3586f8cc92e12df21e28046810d263b3da71586edd6a3f1a730a13e6c6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral dos Correios Telégrafos e Telefones
+- Contabilidade Pública
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:428610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:38Z'
   warnings: []
   errors: []
 ---
@@ -91,33 +102,33 @@ Resolveu-se, por isso, concentrar esta parte do orçamento numa única divisão,
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O orçamento privativo das receitas ordinárias extraordinárias da Administração-Geral dos Correios, Telégrafos e Telefones incluirá todas as receitas, devidamente discriminadas, agrupadas da forma seguinte:
+Artigo 1.º O orçamento privativo das receitas ordinárias extraordinárias da Administração-Geral dos Correios, Telégrafos e Telefones incluirá todas as receitas, devidamente discriminadas, agrupadas da forma seguinte:
 
-### Capítulo I - Receitas de exploração.
+Capítulo I - Receitas de exploração.
 
-### Capítulo II - Receitas dos fundos especiais com consignação.
+Capítulo II - Receitas dos fundos especiais com consignação.
 
-### Capítulo III - Receitas do fundo de 1.º estabelecimento.
+Capítulo III - Receitas do fundo de 1.º estabelecimento.
 
-### Capítulo IV - Receitas do fundo de reserva.
+Capítulo IV - Receitas do fundo de reserva.
 
-###### Art. 2.º O orçamento das despesas ordinárias e extraordinárias dos CTT compreenderá todas as despesas devidamente discriminadas e agrupadas em:
+Art. 2.º O orçamento das despesas ordinárias e extraordinárias dos CTT compreenderá todas as despesas devidamente discriminadas e agrupadas em:
 
-### Capítulo I - Despesas de exploração relativas às classes do pessoal, material e pagamento de serviços e diversos encargos.
+Capítulo I - Despesas de exploração relativas às classes do pessoal, material e pagamento de serviços e diversos encargos.
 
-### Capítulo II - Despesas de acidentes em serviço.
+Capítulo II - Despesas de acidentes em serviço.
 
-### Capítulo III - Despesas de anos económicos findos.
+Capítulo III - Despesas de anos económicos findos.
 
-### Capítulo IV - Despesas dos fundos especiais com consignação.
+Capítulo IV - Despesas dos fundos especiais com consignação.
 
-### Capítulo V - Despesas do fundo de 1.º estabelecimento.
+Capítulo V - Despesas do fundo de 1.º estabelecimento.
 
-### Capítulo VI - Despesas do fundo de reserva.
+Capítulo VI - Despesas do fundo de reserva.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 31044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31044-1940-653730), de 28 de Dezembro de 1940.
+Art. 3.º É revogado o [Decreto-Lei n.º 31044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31044-1940-653730), de 28 de Dezembro de 1940.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

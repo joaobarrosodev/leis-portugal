@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01500/01140115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1978-447892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 452183429d2b7bfd7ecae118da4060eb8cfa8a015944571e3b3b61ef39d85830
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 754ac6d00b87aaf7da5570fc41dff40b4864fbfe02b362956fd25e0ad6d5ae6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Agrícola de Emergência
+- Exploração Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:141779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509023:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:35Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +143,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º e 5.º do [Decreto-Lei n.º 56/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1977-141779), de 18 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º e 5.º do [Decreto-Lei n.º 56/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1977-141779), de 18 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - A concessão do Crédito Agrícola de Emergência destina-se a permitir o pagamento de salários, preparação das terras, aquisição de pesticidas, fertilizantes e correctivos dos solos, sementes e propágulos, rações, complementos necessários à alimentação animal, gados, equipamento, incluindo as reparações, e combustíveis.
+Art. 2.º - 1 - A concessão do Crédito Agrícola de Emergência destina-se a permitir o pagamento de salários, preparação das terras, aquisição de pesticidas, fertilizantes e correctivos dos solos, sementes e propágulos, rações, complementos necessários à alimentação animal, gados, equipamento, incluindo as reparações, e combustíveis.
 
 2 - Na concessão do Crédito Agrícola de Emergência deverão as entidades mutuárias ter em consideração as necessidades de reconversão e reestruturação dos estabelecimentos agrícolas (em terras expropriadas), o redimensionamento físico e económico das pequenas empresas, a rendibilidade da exploração das reservas limitadas por força do n.º 1 do artigo 29.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, e a procura de estabilidade de emprego em todos os sectores de propriedade e de exploração agrícolas.
 
 ...
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - ...
 
@@ -131,12 +159,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O montante global dos avales concedidos pelo Instituto de Reorganização Agrária poderá atingir 9 milhões de contos.
 
-###### Art. 2.º O prazo a que se refere o artigo 11.º do [Decreto-Lei n.º 75-N/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-n-1977-509023), de 28 de Fevereiro, prorrogado pelo [Decreto-Lei n.º 330/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1977-255400), de 10 de Agosto, é prorrogado até 30 de Junho de 1978, e poderá ser ulteriormente prorrogado por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas.
+Art. 2.º O prazo a que se refere o artigo 11.º do [Decreto-Lei n.º 75-N/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-n-1977-509023), de 28 de Fevereiro, prorrogado pelo [Decreto-Lei n.º 330/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1977-255400), de 10 de Agosto, é prorrogado até 30 de Junho de 1978, e poderá ser ulteriormente prorrogado por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 3 de Janeiro de 1978.**
+Promulgado em 3 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/04000/02620262.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1974-413013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0c7d48a5bb2c5254c93fda13a9fd93f4a706f28bca6177030a0cd0b5e6b1c23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d278829ecb9fa3212f96a6ed0107917abe00001ae89b3dec83878ebb3d680a6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido Cultural
+- Conselheiro Cultural
+- Criação de Lugares
+- Definição de Competências
+- Formas de Provimento
+- Ministério dos Negócios Estrangeiros
+- Pessoal Especializado
+- Profissão Diplomática
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:152327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250427:por
+  label: "Retirada aos conselheiros e adidos culturais nos países onde tiverem sido criados os serviços de coordenação geral\
+    \ do ensino português ou nomeados delegados de coordenador-geral, a competência prevista na al. f) do nº 1 do art. 2º\
+    \ do presente diploma pelo DEC LEI.264/77.01.07.1977.MNE, DR.IS [150] de 01.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1977-250427
+  date: '1977-07-01'
+- type: cites
+  target: pt:dre:248787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152327:por
+  label: "Revogado pelo DEC LEI.133/85.02.05.1985.MNE, DR.IS [100] de 02.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1985-152327
+  date: '1985-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:18Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +134,13 @@ de 16 de Fevereiro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os conselheiros e adidos culturais a que se referem os artigos 24.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e 53.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro do mesmo ano, serão escolhidos pelo Ministro dos Negócios Estrangeiros de entre os indivíduos com reconhecida aptidão para o exercício do lugar, ouvido o Ministro da Educação Nacional.
+Artigo 1.º - 1. Os conselheiros e adidos culturais a que se referem os artigos 24.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e 53.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro do mesmo ano, serão escolhidos pelo Ministro dos Negócios Estrangeiros de entre os indivíduos com reconhecida aptidão para o exercício do lugar, ouvido o Ministro da Educação Nacional.
 
 2. Quando as circunstâncias assim o aconselharem, poderá o Ministro dos Negócios Estrangeiros designar funcionários do serviço diplomático para exercerem em comissão as funções de conselheiros ou adidos culturais ou requisitar para o efeito funcionários de outros serviços públicos.
 
 3. O provimento dos lugares a que se refere o n.º 1 deste artigo será feito por contrato quando a nomeação recair em indivíduos estranhos aos quadros do funcionalismo público. Quando, porém, as nomeações recaírem em funcionários do serviço diplomático ou em funcionários pertencentes a outros serviços públicos, ser-lhes-á aplicável, consoante os casos, o disposto nos §§ 1.º, 2.º e 3.º do artigo 4.º, nos artigos 5.º e 7.º e no § 2.º do artigo 10.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.
 
-###### Art. 2.º - 1. Compete aos conselheiros e adidos culturais coadjuvar o chefe da missão diplomática no desenvolvimento das relações culturais de Portugal com os países em que se acham acreditados, e nomeadamente:
+Art. 2.º - 1. Compete aos conselheiros e adidos culturais coadjuvar o chefe da missão diplomática no desenvolvimento das relações culturais de Portugal com os países em que se acham acreditados, e nomeadamente:
 
 a) Promover o estudo e difusão nesses países das manifestações culturais do povo português;
 
@@ -115,26 +158,26 @@ f) Promover e acompanhar, junto das autoridades locais competentes, os assuntos 
 
 3. Na hipótese contemplada no número anterior, os conselheiros e adidos culturais perceberão, pelo Instituto de Alta Cultura, um abono anual, cujo quantitativo será fixado em cada ano por despacho do Ministro da Educação Nacional.
 
-###### Art. 3.º - 1. Os conselheiros e adidos culturais serão equiparados a conselheiros de embaixada e a primeiros-secretários de embaixada, respectivamente, ficando sujeitos em tudo que lhes for aplicável, e nomeadamente para o efeito de vencimentos e mais abonos, ao regime estabelecido nos diplomas referidos no artigo 1.º para os funcionários do serviço diplomático das categorias correspondentes.
+Art. 3.º - 1. Os conselheiros e adidos culturais serão equiparados a conselheiros de embaixada e a primeiros-secretários de embaixada, respectivamente, ficando sujeitos em tudo que lhes for aplicável, e nomeadamente para o efeito de vencimentos e mais abonos, ao regime estabelecido nos diplomas referidos no artigo 1.º para os funcionários do serviço diplomático das categorias correspondentes.
 
 2. Dentro de cada missão diplomática, e sem prejuízo do disposto na parte final do artigo 122.º do Regulamento do Ministério dos Negócios Estrangeiros, as precedências entre os funcionários do serviço diplomático, os referidos no presente diploma e os pertencentes a outros Ministérios serão estabelecidas, para cada caso, por despacho do Ministro dos Negócios Estrangeiros e do Ministro de quem aqueles dependerem. As precedências entre os funcionários do serviço diplomático e os aludidos neste decreto-lei serão estabelecidas, para cada caso, por despacho do Ministro dos Negócios Estrangeiros.
 
-###### Art. 4.º O Ministro dos Negócios Estrangeiros estabelecerá por despacho os postos em que servirão os conselheiros e os adidos culturais, que poderão ser livremente transferidos por despacho ministerial.
+Art. 4.º O Ministro dos Negócios Estrangeiros estabelecerá por despacho os postos em que servirão os conselheiros e os adidos culturais, que poderão ser livremente transferidos por despacho ministerial.
 
-###### Art. 5.º - 1. O quadro do pessoal especializado do Ministério dos Negócios Estrangeiros será aumentado de oito unidades, sendo cinco de conselheiros culturais e três de adidos culturais.
+Art. 5.º - 1. O quadro do pessoal especializado do Ministério dos Negócios Estrangeiros será aumentado de oito unidades, sendo cinco de conselheiros culturais e três de adidos culturais.
 
 2. É mantido o lugar de conselheiro cultural criado pelo [Decreto-Lei n.º 40458](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40458-1955-248787), de 26 de Dezembro de 1955, e substituído por um lugar de adido cultural o de adjunto de conselheiro cultural, criado pelo [Decreto-Lei n.º 46030](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46030-1964-536407), de 13 de Novembro de 1964, ficando o actual adjunto provido no novo lugar, independentemente de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas.
 
-###### Art. 6.º Aos funcionários referidos no presente diploma serão abonadas para despesas de representação as quantias que forem inscritas para esse fim no orçamento, devendo os encargos decorrentes deste diploma, até à realização das necessárias alterações orçamentais, ser satisfeitos de conta das disponibilidades das dotações inscritas para pessoal no orçamento do Ministério dos Negócios Estrangeiros.
+Art. 6.º Aos funcionários referidos no presente diploma serão abonadas para despesas de representação as quantias que forem inscritas para esse fim no orçamento, devendo os encargos decorrentes deste diploma, até à realização das necessárias alterações orçamentais, ser satisfeitos de conta das disponibilidades das dotações inscritas para pessoal no orçamento do Ministério dos Negócios Estrangeiros.
 
-###### Art. 7.º Ficam revogados os Decretos-Leis n.os 40458, de 26 de Dezembro de 1955, e 46030, de 13 de Novembro de 1964.
+Art. 7.º Ficam revogados os Decretos-Leis n.os 40458, de 26 de Dezembro de 1955, e 46030, de 13 de Novembro de 1964.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Manuel de Medeiros d'Espiney Patrício - José Veiga Simão.
 
-**Promulgado em 7 de Fevereiro de 1974.**
+Promulgado em 7 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

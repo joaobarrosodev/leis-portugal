@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/17800/18811884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1977-251436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0e46d350f6e1237aafaaef6a9fe4dac3bb3bc644c2750d6bb3e8e16900cb5e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8a9bb3ab605ad8039489ddfe86c77d2a8f37a060af739e1d27752b87ab1b5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- CEE
+- Comissão para a Integração Europeia
+- Presidência do Conselho de Ministros
+- Secretariado para a Integração Europeia
 relationships:
 - type: amended_by
   target: pt:dre:546605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469776:por
+  label: "Substituído o quadro de pessoal do Secretariado para a Integração Europeia, aprovado pelo presente diploma, e confirmado\
+    \ pelo art. 27.º do Dec Lei 185/79, de 20-Jun, pelo quadro V anexo à PORT.547/80.1980.08.28.PCM DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1980-469776
+  date: '1980-08-28'
+- type: amended_by
+  target: pt:dre:390197:por
+  label: "Alterado o quadro de pessoal do Secretariado para a Integração Europeia, aprovado pelo presente diploma, pela PORT.95/81.22.01.1981.PCM,\
+    \ DR.IS [18] de 22.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1981-390197
+  date: '1981-01-22'
+- type: amended_by
+  target: pt:dre:546605:por
+  label: "Extinto o Secretariado para a Integração Europeia, criado pelo presente diploma, e a funcionar nos termos do Dec\
+    \ Lei 185/79, de 20-Jun, pelo DEC LEI.526/85.1985.12.31.MNE, DR.IS [301]8ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1985-546605
+  date: '1985-12-31'
+- type: cites
+  target: pt:dre:236125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:381117:por
+  label: "Revogado pelo DEC LEI.185/79.1979.06.20.PCM, DR.IS [140], continuando o Secretariado para a Integração Europeia\
+    \ a dispor do pessoal constante no quadro\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1979-381117
+  date: '1979-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:44Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +133,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada na Presidência do Conselho de Ministros e na dependência directa do Primeiro-Ministro a Comissão para a Integração Europeia, adiante designada por Comissão.
+Artigo 1.º É criada na Presidência do Conselho de Ministros e na dependência directa do Primeiro-Ministro a Comissão para a Integração Europeia, adiante designada por Comissão.
 
-###### Art. 2.º O Ministro dos Negócios Estrangeiros, além de ser informado regularmente pela Comissão do andamento das negociações para a adesão, dará à Comissão as linhas de orientação e instruções necessárias ao enquadramento global das negociações com os objectivos concretos da política externa.
+Art. 2.º O Ministro dos Negócios Estrangeiros, além de ser informado regularmente pela Comissão do andamento das negociações para a adesão, dará à Comissão as linhas de orientação e instruções necessárias ao enquadramento global das negociações com os objectivos concretos da política externa.
 
-###### Art. 3.º O Ministro do Plano e Coordenação Económica deverá ser informado e mantido ao corrente do andamento das negociações pela Comissão e deverá dar-lhe orientações e directivas que permitam a coordenação daquelas negociações com a política económica do Governo.
+Art. 3.º O Ministro do Plano e Coordenação Económica deverá ser informado e mantido ao corrente do andamento das negociações pela Comissão e deverá dar-lhe orientações e directivas que permitam a coordenação daquelas negociações com a política económica do Governo.
 
-###### Art. 4.º Relativamente às posições a assumir nas negociações que respeitam a matérias da competência dos diferentes Ministérios sectoriais, a Comissão deverá contactar os respectivos Ministros, para efeito de fornecimento recíproco de informações, directamente ou através do grupo de representantes permanentes adiante mencionado.
+Art. 4.º Relativamente às posições a assumir nas negociações que respeitam a matérias da competência dos diferentes Ministérios sectoriais, a Comissão deverá contactar os respectivos Ministros, para efeito de fornecimento recíproco de informações, directamente ou através do grupo de representantes permanentes adiante mencionado.
 
-###### Art. 5.º - 1. A Comissão é composta por um presidente, um vice-presidente e nove vogais, um dos quais desempenhará as funções de vogal-secretário.
+Art. 5.º - 1. A Comissão é composta por um presidente, um vice-presidente e nove vogais, um dos quais desempenhará as funções de vogal-secretário.
 
 2. Os membros da Comissão, sem prejuízo do disposto no artigo 8.º, são designados pelo Conselho de Ministros, sendo três dos vogais propostos pelos Ministros dos Negócios Estrangeiros, do Plano e Coordenação Económica e do Comércio e Turismo.
 
@@ -114,7 +151,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5. Quando tal se revele necessário, poderá o Conselho de Ministros nomear até mais dois vice-presidentes de entre os vogais da Comissão.
 
-###### Art. 6.º Compete genericamente à Comissão, de acordo com as directrizes emanadas do Governo, preparar e dirigir as negociações com vista à adesão de Portugal às Comunidades Europeias e, nomeadamente:
+Art. 6.º Compete genericamente à Comissão, de acordo com as directrizes emanadas do Governo, preparar e dirigir as negociações com vista à adesão de Portugal às Comunidades Europeias e, nomeadamente:
 
 a) Assegurar e promover a orientação geral dos estudos indispensáveis à preparação das negociações;
 
@@ -124,7 +161,7 @@ c) Propor ao Governo as medidas necessárias à preparação das estruturas econ
 
 d) Assegurar a audição dos pontos de vista das organizações de trabalhadores e das entidades representativas de empresários e de actividades económicas e mantê-las informadas da evolução dos seus trabalhos.
 
-###### Art. 7.º - 1. Com a finalidade de apoiar a Comissão nas suas funções, nos planos técnico e administrativo, é criado o Secretariado para a Integração Europeia, serviço público com a categoria de direcção-geral.
+Art. 7.º - 1. Com a finalidade de apoiar a Comissão nas suas funções, nos planos técnico e administrativo, é criado o Secretariado para a Integração Europeia, serviço público com a categoria de direcção-geral.
 
 2. Ao Secretariado para a Integração Europeia compete especialmente:
 
@@ -138,25 +175,25 @@ c) Acompanhar a execução dos acordos celebrados com a CEE, por forma a garanti
 
 4. Assim que tal se revele exequível e por resolução do Conselho de Ministros, transitarão para o Secretariado para a Integração Europeia as funções que, no domínio das relações económicas com a EFTA, competem ao Secretariado para a Cooperação Económica e Técnica Externa.
 
-###### Art. 8.º O director-geral do Secretariado para a Integração Europeia é membro nato da Comissão para a Integração Europeia com a categoria de vice-presidente.
+Art. 8.º O director-geral do Secretariado para a Integração Europeia é membro nato da Comissão para a Integração Europeia com a categoria de vice-presidente.
 
-###### Art. 9.º A orgânica interna do Secretariado para a Integração Europeia será definida por portaria da Presidência do Conselho de Ministros.
+Art. 9.º A orgânica interna do Secretariado para a Integração Europeia será definida por portaria da Presidência do Conselho de Ministros.
 
-###### Art. 10.º - 1. Junto da Comissão funciona o Grupo de Representantes Permanentes, integrando representantes das seguintes entidades: Ministério do Plano e Coordenação Económica, dois; Ministério dos Negócios Estrangeiros, dois; Ministério das Finanças, dois; Ministério da Indústria e Tecnologia, um; Ministério da Agricultura e Pescas, um; Ministério do Comércio e Turismo, um; Ministério do Trabalho, um; Ministério dos Transportes e Comunicações, um; Ministério dos Assuntos Sociais, um; Ministério da Justiça, um; Região Autónoma da Madeira, um; Região Autónoma dos Açores, um; Banco de Portugal, um.
+Art. 10.º - 1. Junto da Comissão funciona o Grupo de Representantes Permanentes, integrando representantes das seguintes entidades: Ministério do Plano e Coordenação Económica, dois; Ministério dos Negócios Estrangeiros, dois; Ministério das Finanças, dois; Ministério da Indústria e Tecnologia, um; Ministério da Agricultura e Pescas, um; Ministério do Comércio e Turismo, um; Ministério do Trabalho, um; Ministério dos Transportes e Comunicações, um; Ministério dos Assuntos Sociais, um; Ministério da Justiça, um; Região Autónoma da Madeira, um; Região Autónoma dos Açores, um; Banco de Portugal, um.
 
 2. Os membros do Grupo de Representantes Permanentes funcionam como elementos de ligação entre a Comissão e as entidades que representam, para efeitos da dinamização e coordenação das colaborações a estabelecer, bem como para veicularem para a Comissão as posições oficiais que as entidades representadas tiverem sobre as matérias das negociações.
 
 3. Para efeitos do número anterior, a Comissão reunirá periodicamente, em plenário ou isoladamente, com os membros do Grupo de Representantes Permanentes.
 
-###### Art. 11.º - 1. A delegação portuguesa junto das Comunidades Europeias receberá instruções do Ministério dos Negócios Estrangeiros, de quem depende.
+Art. 11.º - 1. A delegação portuguesa junto das Comunidades Europeias receberá instruções do Ministério dos Negócios Estrangeiros, de quem depende.
 
 2. A Comissão e a delegação portuguesa junto das Comunidades Europeias corresponder-se-ão para troca de informações sobre tudo o que diga respeito às nossas relações com as Comunidades e ao acompanhamento das respectivas actividades, através dos serviços competentes do Ministério dos Negócios Estrangeiros.
 
-###### Art. 12.º Todos os serviços do Estado, organismos de coordenação económica e empresas públicas deverão prestar à Comissão e ao Secretariado toda a colaboração que por estes lhes for pedida, realizando estudos e fornecendo informações ou esclarecimentos. A Comissão e o Secretariado poderão corresponder-se directamente ou comunicar verbalmente com as referidas entidades.
+Art. 12.º Todos os serviços do Estado, organismos de coordenação económica e empresas públicas deverão prestar à Comissão e ao Secretariado toda a colaboração que por estes lhes for pedida, realizando estudos e fornecendo informações ou esclarecimentos. A Comissão e o Secretariado poderão corresponder-se directamente ou comunicar verbalmente com as referidas entidades.
 
-###### Art. 13.º Para efeitos protocolares ou de representação, o presidente da Comissão terá as prerrogativas inerentes ao cargo de Secretário de Estado, e os restantes membros da Comissão, os inerentes aos funcionários públicos da letra A.
+Art. 13.º Para efeitos protocolares ou de representação, o presidente da Comissão terá as prerrogativas inerentes ao cargo de Secretário de Estado, e os restantes membros da Comissão, os inerentes aos funcionários públicos da letra A.
 
-###### Art. 14.º - 1. Ao presidente da Comissão compete especialmente:
+Art. 14.º - 1. Ao presidente da Comissão compete especialmente:
 
 a) Dirigir os trabalhos da Comissão e representá-la publicamente;
 
@@ -170,11 +207,11 @@ e) Informar o Conselho Económico sobre o andamento das negociações, sempre qu
 
 2. O presidente da Comissão será substituído nos seus impedimentos por um dos vice-presidentes.
 
-###### Art. 15.º A Comissão poderá dispor de secretários, até ao número de dois, aos quais é aplicável o disposto no [Decreto-Lei n.º 785/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125), de 31 de Dezembro, e legislação complementar.
+Art. 15.º A Comissão poderá dispor de secretários, até ao número de dois, aos quais é aplicável o disposto no [Decreto-Lei n.º 785/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125), de 31 de Dezembro, e legislação complementar.
 
-###### Art. 16.º O Secretariado para a Integração Europeia disporá do pessoal constante do quadro anexo ao presente diploma.
+Art. 16.º O Secretariado para a Integração Europeia disporá do pessoal constante do quadro anexo ao presente diploma.
 
-###### Art. 17.º - 1. O pessoal dirigente definido no quadro anexo será nomeado pelo Primeiro-Ministro, em comissão de serviço (por tempo indeterminado), sob proposta do presidente da Comissão, de entre diplomados com curso superior adequado.
+Art. 17.º - 1. O pessoal dirigente definido no quadro anexo será nomeado pelo Primeiro-Ministro, em comissão de serviço (por tempo indeterminado), sob proposta do presidente da Comissão, de entre diplomados com curso superior adequado.
 
 2. O pessoal técnico será nomeado por escolha do presidente da Comissão de entre licenciados com curso superior adequado.
 
@@ -184,50 +221,50 @@ e) Informar o Conselho Económico sobre o andamento das negociações, sempre qu
 
 5. O chefe de repartição e os chefes de secção serão nomeados, respectivamente, de entre indivíduos que possuam curso superior adequado ou chefes de secção com, pelo menos, três anos de bom e efectivo serviço e de entre indivíduos com curso superior adequado ou primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nesta categoria.
 
-###### Art. 18.º O primeiro provimento nos lugares do quadro poderá ser feito directamente em qualquer categoria ou classe nele previstas, independentemente do tempo de serviço prestado, de concurso e de quaisquer formalidades, salvo o visto do Tribunal de Contas, de entre indivíduos que possuam as habilitações estabelecidas no presente diploma e na lei geral.
+Art. 18.º O primeiro provimento nos lugares do quadro poderá ser feito directamente em qualquer categoria ou classe nele previstas, independentemente do tempo de serviço prestado, de concurso e de quaisquer formalidades, salvo o visto do Tribunal de Contas, de entre indivíduos que possuam as habilitações estabelecidas no presente diploma e na lei geral.
 
-###### Art. 19.º - 1. Sem prejuízo do disposto nos números seguintes, as nomeações feitas nos termos dos artigos 17.º e 18.º terão carácter provisório durante dois anos, findos os quais os funcionários serão providos definitivamente, se tiverem revelado aptidão para o lugar.
+Art. 19.º - 1. Sem prejuízo do disposto nos números seguintes, as nomeações feitas nos termos dos artigos 17.º e 18.º terão carácter provisório durante dois anos, findos os quais os funcionários serão providos definitivamente, se tiverem revelado aptidão para o lugar.
 
 2. Se a nomeação recair em funcionário público, será feita em comissão de serviço pelo prazo de dois anos, findos os quais poderá converter-se em nomeação definitiva, se os funcionários tiverem revelado aptidão para o lugar.
 
 3. No caso de a nomeação ser feita em comissão de serviço, não se considera aberta vaga no quadro de origem do funcionário, podendo, no entanto, o respectivo lugar ser preenchido interinamente.
 
-###### Art. 20.º - 1. Poderá também ser requisitado a quaisquer serviços públicos, empresas públicas ou nacionalizadas, por simples despacho do Primeiro-Ministro, pessoal considerado necessário ao funcionamento do Secretariado.
+Art. 20.º - 1. Poderá também ser requisitado a quaisquer serviços públicos, empresas públicas ou nacionalizadas, por simples despacho do Primeiro-Ministro, pessoal considerado necessário ao funcionamento do Secretariado.
 
 2. A requisição de qualquer funcionário para prestar serviço na Comissão não dá lugar à abertura de vaga no quadro correspondente do respectivo serviço, mas, se se tratar de destacamento que exceda seis meses, poderá o lugar ser provido interinamente pelo tempo que durar o destacamento do funcionário, passando este, em tal caso, a receber a respectiva remuneração pelas dotações do Secretariado.
 
 3. O Secretariado poderá ainda requisitar técnicos ou gestores de empresas privadas, nos termos da legislação aplicável.
 
-###### Art. 21.º - 1. O tempo de serviço prestado no Secretariado considera-se, para todos os efeitos legais, como efectuado no quadro de origem dos funcionários.
+Art. 21.º - 1. O tempo de serviço prestado no Secretariado considera-se, para todos os efeitos legais, como efectuado no quadro de origem dos funcionários.
 
 2. Os funcionários providos em comissão de serviço mantêm os abonos e gratificações a que tinham direito no serviço de origem.
 
 3. No caso referido no número anterior, ser-lhes-ão abonadas as respectivas diferenças de remuneração, em conta das disponibilidades das dotações do pessoal do quadro ou por verba inscrita para esse fim.
 
-###### Art. 22.º - 1. Poderá ser contratado além do quadro o pessoal indispensável para ocorrer a necessidades transitórias que não possam ser asseguradas pelo pessoal permanente do Secretariado.
+Art. 22.º - 1. Poderá ser contratado além do quadro o pessoal indispensável para ocorrer a necessidades transitórias que não possam ser asseguradas pelo pessoal permanente do Secretariado.
 
 2. A realização de estudos, inquéritos e outros trabalhos de carácter técnico e eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras estranhas aos serviços.
 
 3. Poderá ainda ser contratado pessoal em regime de tempo parcial, o qual receberá uma gratificação mensal de quantitativo correspondente ao número de horas realizado, com base em salário/hora a determinar nos termos do artigo 3.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro.
 
-###### Art. 23.º - 1. O pessoal do Secretariado ficará abrangido pelos Serviços Sociais da Presidência do Conselho de Ministros.
+Art. 23.º - 1. O pessoal do Secretariado ficará abrangido pelos Serviços Sociais da Presidência do Conselho de Ministros.
 
 2. O pessoal em comissão de serviço poderá optar por manter a sua integração nos serviços sociais de origem.
 
-###### Art. 24.º As despesas com a Comissão e com o Secretariado serão satisfeitas em conta das dotações a inscrever no orçamento de Encargos Gerais da Nação, afectas à Secretaria-Geral da Presidência do Conselho de Ministros, que as processará enquanto estas funções não forem, por despacho do Primeiro-Ministro, atribuídas ao Secretariado.
+Art. 24.º As despesas com a Comissão e com o Secretariado serão satisfeitas em conta das dotações a inscrever no orçamento de Encargos Gerais da Nação, afectas à Secretaria-Geral da Presidência do Conselho de Ministros, que as processará enquanto estas funções não forem, por despacho do Primeiro-Ministro, atribuídas ao Secretariado.
 
-###### Art. 25.º Este diploma entra em vigor na data da sua publicação.
+Art. 25.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - Carlos Alberto da Mota Pinto - José Dias dos Santos Pais.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do pessoal a que se refere o artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/17800/18811884.pdf))](https://files.diariodarepublica.pt/1s/1977/08/17800/18811884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/17800/18811884.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

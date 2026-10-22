@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46641-1965-511670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f71aaed105d47842bb022f2bf18a71dbc8b0026ba8cd7ea78fe105565b348bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acd06713a547e58898a81d9de360edb090dceffda4f7037f2006c5ff8a5cb03a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento Consular
+- TAXA de Câmbio
 relationships:
 - type: amended_by
   target: pt:dre:613932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146059:por
+  label: Alterados os n.ºs. 1.º e 2.º do art. 1.º e os arts. 3.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º e 13.º e revogado o art.
+    22.º da tabela de emolumentos consulares, aprovada pelo presente diploma, pelo(a) Decreto-Lei n.º 633/70 - Diário do Governo
+    n.º 295/1970, Série I de 1970-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/633-1970-146059
+  date: '1970-12-22'
+- type: amended_by
+  target: pt:dre:607351:por
+  label: "Alterado o art. 23.º da Tabela de Emolumentos Consulares aprovada pelo presente diploma, pela LEI.4/82.1982.04.15.AR\
+    \ DR.IS[87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-1982-607351
+  date: '1982-04-15'
+- type: amended_by
+  target: pt:dre:666550:por
+  label: "Alterados os art.s 1º, 19º e 24º da Tabela, pelo DEC LEI.157/87.01.04.1987.MNE, DR.IS [[76]] de 01.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1987-666550
+  date: '1987-04-01'
+- type: amended_by
+  target: pt:dre:496082:por
+  label: Alterados os n.ºs. 28.º e 29.º do art. 1.º da tabela de emolumentos consulares aprovada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 339/87 - Diário da República n.º 242/1987, Série I de 1987-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1987-496082
+  date: '1987-10-21'
+- type: amended_by
+  target: pt:dre:613932:por
+  label: Alterados os n.ºs 4 e 7 do art. 1.º (com a redacção dada pelos Dec Lei 47010 de 16-mai de 1966, 633/70 de 22-dez,
+    463/82 de 30-nov e 157/87 de 01-abr) da Tabela de Emolumentos Consulares, pelo DEC LEI.84/89.1989.03.23.MNE DR.IS [69]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1989-613932
+  date: '1989-03-23'
+- type: cites
+  target: pt:dre:251579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689033:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:472903:por
+  label: "Revogados, a partir de 01.07.1966, os nºs 65º e 66º do art. 1º e o art. 25º, dada nova redacção ao art. 7º e ao\
+    \ art. 8º, e eliminada a referência aos arts. 7º e 8º constante do art. 12º todos da Tabela de Emolumentos Consulares\
+    \ pelo DEC LEI.47010.16.05.1966.MNE, DG.IS [115] de 16.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47010-1966-472903
+  date: '1966-05-16'
+- type: repealed_by
+  target: pt:dre:665132:por
+  label: "Revogado, a partir de 01.02.1973, o nº 73º do art. 1º da Tabela de Emolumentos Consulares pelo DEC LEI.582/72.30.12.1972.MNE,\
+    \ DG.IS [302] de 30.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/582-1972-665132
+  date: '1972-12-30'
 article_structure:
-  article_count: 1
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:10Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +146,13 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovada a tabela de emolumentos consulares, que baixa assinada pelo Ministro dos Negócios Estrangeiros e faz parte integrante do presente decreto com força de lei.
+Artigo 1.º É aprovada a tabela de emolumentos consulares, que baixa assinada pelo Ministro dos Negócios Estrangeiros e faz parte integrante do presente decreto com força de lei.
 
-###### Art. 2.º A referida tabela começará a vigorar em todos os postos consulares no dia 1 de Janeiro de 1966.
+Art. 2.º A referida tabela começará a vigorar em todos os postos consulares no dia 1 de Janeiro de 1966.
 
-###### Art. 3.º Fica revogada a tabela aprovada pelo [Decreto n.º 20253](https://diariodarepublica.pt/dr/detalhe/decreto/20253-1931-528632), de 25 de Agosto de 1931, com as alterações e os aditamentos posteriormente introduzidos.
+Art. 3.º Fica revogada a tabela aprovada pelo [Decreto n.º 20253](https://diariodarepublica.pt/dr/detalhe/decreto/20253-1931-528632), de 25 de Agosto de 1931, com as alterações e os aditamentos posteriormente introduzidos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -103,7 +160,9 @@ Tabela de emolumentos consulares
 
 ### CAPÍTULO I — Actos consulares
 
-###### ARTIGO 1.º — SECÇÃO I
+###### ARTIGO 1.º
+
+#### SECÇÃO I
 
 Protecção consular
 

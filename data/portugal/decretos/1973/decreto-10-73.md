@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1973-288462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcea48a4752a92ddc80277b36c80649019e5e64f53ede501f7a8b0221f4ecd6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00f8b479440fe0d5b85b019b07b026d52eed9d833b1158516e71e5ead3c2ec05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:525233:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:22Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Considerando a necessidade de actualizar algumas disposições do [Decreto n.º 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 3.º, 4.º, 5.º e 7.º do [Decreto n.º 48891](https://diariodarepublica.pt/dr/detalhe/decreto/48891-1969-525233), de 4 de Março de 1969, tomam a redacção seguinte:
+Artigo único. Os artigos 3.º, 4.º, 5.º e 7.º do [Decreto n.º 48891](https://diariodarepublica.pt/dr/detalhe/decreto/48891-1969-525233), de 4 de Março de 1969, tomam a redacção seguinte:
 
-###### Art. 3.º - 1. O Gabinete do Ministro compreende:
+Art. 3.º - 1. O Gabinete do Ministro compreende:
 
 a) O chefe do Gabinete;
 
@@ -109,20 +113,20 @@ g) A Secretaria.
 
 2. As atribuições das entidades e organismos referidos no número anterior são definidas no regulamento interno do Gabinete.
 
-###### Art. 4.º - 1. Para o desempenho de funções de estudo ou de inspecção o Ministro poderá colocar na situação de adjuntos ao Gabinete oficiais dos quadros do activo ou da reserva.
+Art. 4.º - 1. Para o desempenho de funções de estudo ou de inspecção o Ministro poderá colocar na situação de adjuntos ao Gabinete oficiais dos quadros do activo ou da reserva.
 
 2. Os oficiais a que se refere o número anterior dependem directamente do Ministro e quando em funções de inspecção actuam por sua delegação.
 
 3. Para todos os efeitos legais os mesmos oficiais são considerados como prestando serviço no Gabinete.
 
-###### Art. 5.º Além dos oficiais a que se refere o artigo anterior, o Ministro poderá mandar apresentar no Gabinete o pessoal que julgar necessário para desempenhar tarefas de carácter eventual ou transitório.
+Art. 5.º Além dos oficiais a que se refere o artigo anterior, o Ministro poderá mandar apresentar no Gabinete o pessoal que julgar necessário para desempenhar tarefas de carácter eventual ou transitório.
 
-###### Art. 7.º A lotação do pessoal militar e civil do Gabinete, com exclusão do referido nos artigos 4.º e 5.º deste diploma, é fixada, respectivamente, por portaria e por despacho.
+Art. 7.º A lotação do pessoal militar e civil do Gabinete, com exclusão do referido nos artigos 4.º e 5.º deste diploma, é fixada, respectivamente, por portaria e por despacho.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 3 de Janeiro de 1973.**
+Promulgado em 3 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

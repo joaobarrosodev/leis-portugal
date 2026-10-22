@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1979-381106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88ab25bc6ef5065677c350d8617de3d20eb5893c8859011b89abe209c040741d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aef346005a978a58d304daa811dd07dad2d86ee2c5ca82367fcf522975fbe1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Equipamento Regional e Urbano
+- Ministério da Habitação e Obras Públicas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:390382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390382:por
+  label: "Substituído o quadro de pessoal pela PORT.39/81.1981.01.15.PCM DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/39-1981-390382
+  date: '1981-01-15'
+- type: cites
+  target: pt:dre:407335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:369802:por
+  label: Rectificado pela DECL.DD7221.20.09.1979.PCM, DR.IS [218] de 20.09.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-369802
+  date: '1979-09-20'
 article_structure:
   article_count: 44
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:31Z'
   warnings: []
   errors: []
 ---
@@ -570,14 +593,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.
 
-**Promulgado em 11 de Junho de 1979.**
+Promulgado em 11 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da Direcção-Geral do Equipamento Regional e Urbano a que se refere o artigo 37.º do Decreto-Lei n.º 189/79.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14200/13751382.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14200/13751382.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14200/13751382.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.

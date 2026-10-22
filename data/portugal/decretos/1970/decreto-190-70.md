@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/190-1970-141861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 112fb3241b0e2ede5a205a248ba31f151f7dbef02145b9055b47428a1e91e2c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b4cce13ac2abd0155c6f016c67b2b22b7e332e40ca59411f60ad3c77b379d39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:07Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +90,13 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os lugares de professores e professoras de língua chinesa das escolas primárias oficiais luso-chinesas de Macau serão providos por escolha do governador da província entre indivíduos chineses habilitados com o curso secundário chinês e curso do magistério primário chinês.
+Artigo único. Os lugares de professores e professoras de língua chinesa das escolas primárias oficiais luso-chinesas de Macau serão providos por escolha do governador da província entre indivíduos chineses habilitados com o curso secundário chinês e curso do magistério primário chinês.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 21 de Abril de 1970.**
+Promulgado em 21 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

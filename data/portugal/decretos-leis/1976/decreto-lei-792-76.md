@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/25900/25122516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/792-1976-409290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94ffad3dbece8bb48aa950dfbdef32dd12b80e87542cd03e5cdad835933ae7bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d0131d3e7825e93f7d2a8b1ba02de5538b8ba514e327472e2a0c3eed1d1c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Centro de Estudos da Juventude
+- Centro de Estudos da Profilaxia da Droga
+- Criação de Serviços
+- Crime
+- Definição de Competências
+- Droga
+- Extinção de Serviços
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Inserção Social
+- Orgânica
+- Pessoal Dirigente
+- Presidência do Conselho de Ministros
+- Primeiro-ministro
+- Quadro de Pessoal
+- Saúde Pública
+- Toxicodependente
 relationships:
 - type: amended_by
   target: pt:dre:374399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447880:por
+  label: "Alterados os arts. 5.º, 6.º e 15.º e substituído o quadro anexo, todos do presente diploma, pelo DR.2/78.1978.01.19.PCM\
+    \ DR.IS [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-1978-447880
+  date: '1978-01-19'
+- type: amended_by
+  target: pt:dre:363895:por
+  label: "Alterado o nº 1 do art. 18º pelo DEC LEI.436/79.1979.11.06.PCM, DR:IS [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1979-363895
+  date: '1979-11-06'
+- type: cites
+  target: pt:dre:355158:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408156:por
+  label: Rectificado pela DECL.DD879.1976.11.19.PCM DR.IS [281]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408156
+  date: '1976-11-19'
+- type: repealed_by
+  target: pt:dre:374399:por
+  label: "Revogado pelo DEC LEI.365/82.1982.09.08.MJ DR.IS [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1982-374399
+  date: '1982-09-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:08Z'
   warnings: []
   errors: []
 ---
@@ -358,16 +401,16 @@ A direcção nacional poderá propor ao coordenador a admissão de pessoal para 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 25 de Outubro de 1976.**
+Promulgado em 25 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal a que se refere o artigo 14.º (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/25900/25122516.pdf))](https://files.diariodarepublica.pt/1s/1976/11/25900/25122516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/25900/25122516.pdf)
 
 (nota a) Este quadro refere-se aos serviços e três centros regionais.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

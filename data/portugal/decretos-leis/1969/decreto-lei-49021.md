@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49021-1969-200844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f093d8a92c3e3ad02f0a299fab360ea38267befe5ae8766da418c99748cbc9e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a65fe07825cfcc1d1c2db48d339a1b7d65844cd68c712c69e2b1796ede1071c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comitiva Oficial
+- Deslocação ao Estrangeiro
+- Despesas Públicas
+- Presidente da República
+- Primeiro-ministro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:25Z'
   warnings: []
   errors: []
 ---
@@ -85,28 +90,28 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Chefe do Estado, quando se deslocar ao estrangeiro, indicará o pessoal civil e militar da Presidência da República e de qualquer Ministério e as restantes pessoas que o hão-de acompanhar.
+Artigo 1.º O Chefe do Estado, quando se deslocar ao estrangeiro, indicará o pessoal civil e militar da Presidência da República e de qualquer Ministério e as restantes pessoas que o hão-de acompanhar.
 
 § 1.º No país onde se encontrar poderá o Chefe do Estado designar oficiais das forças armadas nacionais, qualquer que seja a sua situação nesse país, para seus ajudantes e oficiais às ordens e indicar para o seu serviço qualquer funcionário público em exercício de funções no estrangeiro.
 
 § 2.º O Chefe do Estado fixará as remunerações a atribuir aos oficiais e funcionários a que se refere o parágrafo anterior. Se os quantitativos forem superiores aos que estiverem auferindo, as diferenças serão satisfeitas pela dotação orçamental a que se refere o artigo 6.º do presente decreto-lei.
 
-###### Art. 2.º Quando o Presidente do Conselho de Ministros se deslocar ao estrangeiro, indicará as pessoas que o hão-de acompanhar.
+Art. 2.º Quando o Presidente do Conselho de Ministros se deslocar ao estrangeiro, indicará as pessoas que o hão-de acompanhar.
 
-###### Art. 3.º O Ministro que acompanhar o Chefe do Estado ou o Presidente do Conselho de Ministros na sua visita ao estrangeiro poderá escolher para fazer parte da comitiva todo ou parte do pessoal do seu Gabinete.
+Art. 3.º O Ministro que acompanhar o Chefe do Estado ou o Presidente do Conselho de Ministros na sua visita ao estrangeiro poderá escolher para fazer parte da comitiva todo ou parte do pessoal do seu Gabinete.
 
-###### Art. 4.º O Conselho de Ministros fixará a verba necessária para despesas extraordinárias de deslocação do Chefe do Estado ou do Presidente do Conselho de Ministros durante as suas visitas ao estrangeiro.
+Art. 4.º O Conselho de Ministros fixará a verba necessária para despesas extraordinárias de deslocação do Chefe do Estado ou do Presidente do Conselho de Ministros durante as suas visitas ao estrangeiro.
 
-###### Art. 5.º Além de todas as passagens, os Ministros e os funcionários, civis e militares, que acompanharem o Chefe do Estado, ou o Presidente do Conselho de Ministros, têm direito durante as viagens e permanência no estrangeiro a todos os vencimentos dos seus cargos e ao subsidio diário que for estabelecido pelo Conselho de Ministros.
+Art. 5.º Além de todas as passagens, os Ministros e os funcionários, civis e militares, que acompanharem o Chefe do Estado, ou o Presidente do Conselho de Ministros, têm direito durante as viagens e permanência no estrangeiro a todos os vencimentos dos seus cargos e ao subsidio diário que for estabelecido pelo Conselho de Ministros.
 
 § único. No caso de o Chefe do Estado ou o Presidente do Conselho de Ministros se fazerem acompanhar por um médico, terá este direito a passagens e à remuneração e subsidio diário que for fixado pelo Conselho de Ministros. As restantes pessoas da comitiva do Chefe do Estado ou do Presidente do Conselho de Ministros terão direito a passagens.
 
-###### Art. 6.º Todas as despesas a que se refere o presente diploma serão suportadas pela verba global que se inscrever para o efeito no Orçamento Geral do Estado.
+Art. 6.º Todas as despesas a que se refere o presente diploma serão suportadas pela verba global que se inscrever para o efeito no Orçamento Geral do Estado.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Augusto Dias Rosas.
 
-**Promulgado em 14 de Maio de 1969.**
+Promulgado em 14 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

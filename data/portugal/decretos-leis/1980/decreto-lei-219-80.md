@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15800/16181619.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1980-471932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d295a52fd83e180233374ef12d367fbc48aecaec624c011a634dbe3664a9bcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 420665f4ab97f6a57312ccc3d8c9b9ff98d4da7451c5435de99f1b41d0187c42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Regional de Cultura
+- Direcção Geral da Acção Cultural
+- Política Cultural
 relationships:
 - type: amended_by
   target: pt:dre:599929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:599929:por
+  label: Revogado, pelo(a) Decreto-Lei n.º 73/82 - Diário da República n.º 51/1982, Série I de 1982-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1982-599929
+  date: '1982-03-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:25Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ Considerando que se torna necessário criar um órgão que assegure a harmoniza�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados, na dependência da Direcção-Geral da Acção Cultural, conselhos regionais de cultura, adiante designados por CRC, cuja área geográfica de actuação será definida por despacho do membro do Governo responsável pela cultura.
+Artigo 1.º São criados, na dependência da Direcção-Geral da Acção Cultural, conselhos regionais de cultura, adiante designados por CRC, cuja área geográfica de actuação será definida por despacho do membro do Governo responsável pela cultura.
 
-###### Art. 2.º - 1 - Os CRC serão constituídos por:
+Art. 2.º - 1 - Os CRC serão constituídos por:
 
 a) O delegado da SEC na região, que presidirá;
 
@@ -120,7 +128,7 @@ j) Dois representantes dos centros culturais regionais eleitos pelas associaçõ
 
 2 - No caso de não existir delegado da Secretaria de Estado da Cultura na área de actuação do CRC, o respectivo presidente será designado pelo membro do Governo responsável pela área da cultura.
 
-###### Art. 3.º - 1 - Aos CRC compete:
+Art. 3.º - 1 - Aos CRC compete:
 
 a) Aprovar, até 30 de Novembro, os programas das actividades dos centros culturais regionais subsidiadas pela Secretaria de Estado da Cultura a desenvolver no ano civil seguinte;
 
@@ -132,7 +140,7 @@ c) Dar parecer sobre todas as matérias consideradas de interesse para a activid
 
 3 - Os relatórios e contas referidos na alínea b) do n.º 1 devem ser apresentados pelos centros culturais regionais até 28 de Fevereiro de cada ano.
 
-###### Art. 4.º - 1 - Os CRC reúnem ordinariamente duas vezes por ano, para os efeitos indicados nas alíneas a) e b) do n.º 1 do artigo anterior, e extraordinariamente sempre que convocados pelo seu presidente, por iniciativa deste ou nos termos do número seguinte.
+Art. 4.º - 1 - Os CRC reúnem ordinariamente duas vezes por ano, para os efeitos indicados nas alíneas a) e b) do n.º 1 do artigo anterior, e extraordinariamente sempre que convocados pelo seu presidente, por iniciativa deste ou nos termos do número seguinte.
 
 2 - O presidente deve convocar extraordinariamente o conselho sempre que isso lhe seja requerido:
 
@@ -142,10 +150,10 @@ b) Pelo presidente da mesa da assembleia geral dos centros culturais regionais o
 
 3 - Nos casos previstos no número anterior o requerimento deverá ser acompanhado da ordem de trabalho da sessão e a convocatória deverá ser feita no prazo máximo de oito dias após a recepção do requerimento.
 
-###### Art. 5.º As deliberações dos CRC são válidas quando aprovadas por maioria simples dos seus membros.
+Art. 5.º As deliberações dos CRC são válidas quando aprovadas por maioria simples dos seus membros.
 
-###### Art. 6.º A competência prevista na alínea a) do n.º 1 do artigo 3.º e os deveres constantes do n.º 2 do mesmo artigo serão exercidos no prazo de trinta dias após a constituição dos CRC.
+Art. 6.º A competência prevista na alínea a) do n.º 1 do artigo 3.º e os deveres constantes do n.º 2 do mesmo artigo serão exercidos no prazo de trinta dias após a constituição dos CRC.
 
-###### Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.

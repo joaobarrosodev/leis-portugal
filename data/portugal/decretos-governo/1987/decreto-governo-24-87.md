@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/24-1987-420064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 958cba22b830487f9c98afc78f4908852f475410b8135ebcfdc04b413c4ff187
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb55b2aa321d91212061efe9d0654eef27ec749c5841f8872256924bd73d5612
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bruxelas
+- Circulação de Mercadorias
+- Classificação de Mercadorias
+- Convenção
+- Normalização
+- Portugal
+- Sistema Harmonizado de Designação e de Codificação de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:243687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243687:por
+  label: "Estendida ao território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.235-C/99.1999.12.14.PR\
+    \ DR.IS-A [289]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/235-c-1999-243687
+  date: '1999-12-14'
+- type: corrected_by
+  target: pt:dre:692982:por
+  label: Rectificado pelo DECL.DD3782.1987.07.08.PCM, DR.IS [154]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-692982
+  date: '1987-07-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:10Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +109,18 @@ de 8 de Julho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, feita em Bruxelas em 14 de Junho de 1983, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo 1.º É aprovada, para ratificação, a Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, feita em Bruxelas em 14 de Junho de 1983, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
-###### Art. 2.º É aprovado, para aceitação, o Protocolo de Emenda à Convenção referida no artigo 1.º, elaborado pelo Conselho de Cooperação Aduaneira em 24 de Junho de 1986, cujo texto original em francês e respectiva tradução para português seguem em anexo ao presente decreto.
+Art. 2.º É aprovado, para aceitação, o Protocolo de Emenda à Convenção referida no artigo 1.º, elaborado pelo Conselho de Cooperação Aduaneira em 24 de Junho de 1986, cujo texto original em francês e respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Pedro José Rodrigues Pires de Miranda - Jorge Manuel Águas da Ponte Silva Marques - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 16 de Abril de 1987.**
+Assinado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1987.**
+Referendado em 21 de Abril de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

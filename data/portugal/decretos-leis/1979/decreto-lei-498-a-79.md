@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 293/1979, 1º Suplemento, Série I de 1979-12-21
   number: '293'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3302-(1) a 3302-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29301/00010009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-a-1979-197077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bdcbe53832c26778ca25eb9a9260ac74b317cdb41ca533e38438da9df0110ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b80afaf8e521d9bda6782c3e5844d919bf556ec2788762bc25fabd43bd76338
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de Gestão e Estruturação Fundiária
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:148599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221764:por
+  label: Revogadas as als. c) e d) do n.º 2 do art. 36.º e os arts. 39.º e 40.º do presente diploma pelo(a) Decreto-Lei n.º
+    304/86 - Diário da República n.º 218/1986, Série I de 1986-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1986-221764
+  date: '1986-09-22'
+- type: repealed_by
+  target: pt:dre:221084:por
+  label: "Revogado pelo DEC LEI.375/86.06.11.1986.MAPA, DR.IS [256] de 06.11.1986, em tudo o que o contrarie, designadamente\
+    \ no que respeita às competências agora atribuídas à Direcção de Serviços de Estruturação Fundiária e Topografia pelos\
+    \ seus artigos 21.º e seguintes\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1986-221084
+  date: '1986-11-06'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:48Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +164,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Instituto de Gestão e Estruturação Fundiária, criado pelo artigo 42.º e alínea f) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, abreviadamente designado por IGEF, e um organismo dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
+Artigo 1.º - 1 - O Instituto de Gestão e Estruturação Fundiária, criado pelo artigo 42.º e alínea f) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, abreviadamente designado por IGEF, e um organismo dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º As atribuições do IGEF são as constantes do artigo 28.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e quaisquer outras que lhe sejam cometidas por lei.
+Art. 2.º As atribuições do IGEF são as constantes do artigo 28.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e quaisquer outras que lhe sejam cometidas por lei.
 
-###### Art. 3.º - 1 - O IGEF é dirigido por um director, coadjuvado por um subdirector, que o substituirá nas suas ausências ou impedimentos, equiparados, para todos os efeitos legais, a director-geral e subdirector-geral, respectivamente.
+Art. 3.º - 1 - O IGEF é dirigido por um director, coadjuvado por um subdirector, que o substituirá nas suas ausências ou impedimentos, equiparados, para todos os efeitos legais, a director-geral e subdirector-geral, respectivamente.
 
 2 - O director tem a competência genérica atribuída aos directores-gerais e, em especial, a de:
 
@@ -126,13 +190,13 @@ e) Submeter à aprovação da entidade ou órgão competente as propostas que de
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos do IGEF:
+Art. 4.º São órgãos do IGEF:
 
 a) O Conselho Técnico;
 
 b) O Conselho Administrativo.
 
-###### Art. 5.º - 1 - O conselho Técnico é constituído pelos seguintes membros:
+Art. 5.º - 1 - O conselho Técnico é constituído pelos seguintes membros:
 
 a) O director do IGEF, que presidirá;
 
@@ -152,7 +216,7 @@ f) Os directores de serviço de IGEF.
 
 4 - As entidades estranhas ao Ministério da Agricultura e Pescas, convidadas em conformidade com o n.º 3 deste artigo, terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de deslocação, nos termos legais.
 
-###### Art. 6.º - 1 - Ao Conselho Técnico compete:
+Art. 6.º - 1 - Ao Conselho Técnico compete:
 
 a) Apreciar, emitindo os respectivos pareceres, o orçamento privativo, os estudos, planos, programas e projectos e, ainda, a actividade geral do organismo;
 
@@ -180,11 +244,11 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do Conselho.
 
-###### Art. 7.º - 1 - O Conselho Técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário, ordinariamente, pelo menos, duas vezes por ano e, extraordinariamente, sempre que o presidente o convoque.
+Art. 7.º - 1 - O Conselho Técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário, ordinariamente, pelo menos, duas vezes por ano e, extraordinariamente, sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos à apreciação do Conselho Técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 8.º - 10 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 8.º - 10 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director do IGEF, que presidirá;
 
@@ -198,7 +262,7 @@ d) O director de serviços do Gabinete de Planeamento.
 
 3 - O Conselho será assistido por um representante do Tribunal de Contas, com direito a senhas de presença, nos termos da lei geral.
 
-###### Art. 9.º - 1 - Ao Conselho Administrativo compete:
+Art. 9.º - 1 - Ao Conselho Administrativo compete:
 
 a) Gerir todas as receitas do IGEF e os fundos que lhe sejam consignados;
 
@@ -224,7 +288,7 @@ h) Prestar anualmente contas da sua gerência ao Tribunal de Contas.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 10.º - 1 - O IGEF dispõe dos seguintes serviços:
+Art. 10.º - 1 - O IGEF dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -250,7 +314,7 @@ c) Direcção de Serviços de Ordenamento Rural.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 11.º - 1 - O Gabinete de Planeamento tem como atribuições elaborar os planos anuais e plurianuais do organismo e controlar a sua execução, bem como promover os estudos necessários para o efeito.
+Art. 11.º - 1 - O Gabinete de Planeamento tem como atribuições elaborar os planos anuais e plurianuais do organismo e controlar a sua execução, bem como promover os estudos necessários para o efeito.
 
 2 - O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes Divisões:
 
@@ -258,7 +322,7 @@ a) De Planeamento, Estatística e Contrôle de Execução;
 
 b) De Estudos e Análise de Projectos.
 
-###### Art. 12.º À Divisão de Planeamento, Estatística e Contrôle de Execução compete:
+Art. 12.º À Divisão de Planeamento, Estatística e Contrôle de Execução compete:
 
 a) Elaborar os planos de actuação do organismo de acordo com as directrizes do Gabinete de Planeamento do MAP;
 
@@ -272,7 +336,7 @@ e) Assegurar, em colaboração com os Serviços de Administração, um sistema d
 
 f) Proceder à compilação dos dados estatísticos referentes à actividade do organismo, fornecendo estes dados ao Centro de Documentação e Informação.
 
-###### Art. 13.º À Divisão de Estudos e Análise de Projectos compete:
+Art. 13.º À Divisão de Estudos e Análise de Projectos compete:
 
 a) Realizar os estudos a nível superior dentro do campo de acção do organismo;
 
@@ -282,7 +346,7 @@ c) Colaborar com os órgãos do IGEF e outros sectores de administração em est
 
 d) Analisar os resultados das medidas de política agrária e de planeamento relativas ao IGEF.
 
-###### Art. 14.º - O Centro de Documentação e Informação tem como atribuições assegurar a difusão de documentação e informação no âmbito das acções do IGEF.
+Art. 14.º - O Centro de Documentação e Informação tem como atribuições assegurar a difusão de documentação e informação no âmbito das acções do IGEF.
 
 2 - O Centro é dirigido por um técnico superior e compete-lhe:
 
@@ -308,7 +372,7 @@ j) Criar um banco de dados, logo que a actividade do organismo o justifique;
 
 k) Assegurar o serviço de tradução.
 
-###### Art. 15.º O Serviço de Contencioso é dirigido por um elemento do grupo do pessoal técnico superior com adequada especialização e compete-lhe:
+Art. 15.º O Serviço de Contencioso é dirigido por um elemento do grupo do pessoal técnico superior com adequada especialização e compete-lhe:
 
 a) Dar parecer sobre questões de carácter jurídico respeitantes à actividade do IGEF;
 
@@ -316,9 +380,9 @@ b) Pleitear, juntamente com o Ministério Público e nas instâncias judiciais, 
 
 c) Colaborar na preparação e redacção de projectos de diplomas e de normas de contratos, no âmbito das atribuições do IGEF.
 
-###### Art. 16.º A Direcção dos Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
+Art. 16.º A Direcção dos Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
 
-###### Art. 17.º A Direcção de Serviços de Administração compreende as seguintes Repartições:
+Art. 17.º A Direcção de Serviços de Administração compreende as seguintes Repartições:
 
 a) De Administração Financeira;
 
@@ -326,7 +390,7 @@ b) De Administração Patrimonial;
 
 c) De Pessoal e Assuntos Gerais.
 
-###### Art. 18.º A Repartição de Administração Financeira compreende as seguintes Secções:
+Art. 18.º A Repartição de Administração Financeira compreende as seguintes Secções:
 
 a) De Orçamento e Conta;
 
@@ -334,7 +398,7 @@ b) De Processamento e Verificação;
 
 c) De Contabilidade.
 
-###### Art. 19.º À Secção de Orçamento e Conta compete:
+Art. 19.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de receita e despesa indispensáveis à organização dos orçamentos do IGEF;
 
@@ -346,7 +410,7 @@ d) Organizar a conta de gerência e preparar os elementos para a elaboração do
 
 e) Manter organizado o arquivo de toda a documentação das gerências findas.
 
-###### Art. 20.º À Secção de Processamento e Verificação compete:
+Art. 20.º À Secção de Processamento e Verificação compete:
 
 a) Elaborar as folhas de vencimentos e outros abonos do pessoal;
 
@@ -356,7 +420,7 @@ c) Organizar os processos relativos a todas as despesas de execução de project
 
 d) Verificar todos os documentos de despesa e receita remetidos pelos diversos serviços.
 
-###### Art. 21.º À Secção de Contabilidade compete:
+Art. 21.º À Secção de Contabilidade compete:
 
 a) Acompanhar a execução orçamental e escriturar as receitas e despesas, com observância das normas da contabilidade pública;
 
@@ -368,7 +432,7 @@ d) Fiscalizar o movimento de tesouraria, efectuando mensalmente o seu balanço;
 
 e) Manter em funcionamento um sistema de contrôle de custos em relação às propriedades administradas pelo IGEF.
 
-###### Art. 22.º Adstrita à Repartição de Administração Financeira funciona uma tesouraria dirigida por um tesoureiro, à qual compete:
+Art. 22.º Adstrita à Repartição de Administração Financeira funciona uma tesouraria dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar as receitas pertencentes ao IGEF;
 
@@ -376,13 +440,13 @@ b) Pagar as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados os livros de tesouraria.
 
-###### Art. 23.º A Repartição da Administração Patrimonial compreende as seguintes Secções:
+Art. 23.º A Repartição da Administração Patrimonial compreende as seguintes Secções:
 
 a) De Património e Instalações;
 
 b) De Aprovisionamento e Parque Automóvel.
 
-###### Art. 24.º À Secção de Património e Instalações compete:
+Art. 24.º À Secção de Património e Instalações compete:
 
 a) Organizar e manter actualizado o inventário do IGEF respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e outros bens de capital;
 
@@ -402,7 +466,7 @@ h) Zelar pela segurança dos edifícios e outras instalações;
 
 i) Assegurar a eficiência nas redes de comunicação interna e externa dos serviços.
 
-###### Art. 25.º À Secção de Aprovisionamento e Parque Automóvel compete:
+Art. 25.º À Secção de Aprovisionamento e Parque Automóvel compete:
 
 a) Promover a aquisição de maquinaria, material de transporte, mobiliário e demais equipamento necessário ao IGEF, ouvidos os serviços interessados;
 
@@ -412,13 +476,13 @@ c) Proceder à distribuição do material de consumo corrente e gerir o armazém
 
 d) Assegurar a gestão do contingente das viaturas automóveis, de acordo com as instruções do Gabinete de Gestão de Viaturas do Estado.
 
-###### Art. 26.º A Repartição de Pessoal e Assuntos Gerais compreende as seguintes Secções:
+Art. 26.º A Repartição de Pessoal e Assuntos Gerais compreende as seguintes Secções:
 
 a) De Pessoal;
 
 b) De Assuntos Gerais.
 
-###### Art. 27.º À Secção de Pessoal compete:
+Art. 27.º À Secção de Pessoal compete:
 
 a) Elaborar e manter actualizado o cadastro do pessoal;
 
@@ -430,7 +494,7 @@ d) Instruir os processos referentes a prestações sociais de que sejam benefici
 
 e) Superintender no pessoal auxiliar.
 
-###### Art. 28.º À Secção de Assuntos Gerais compete:
+Art. 28.º À Secção de Assuntos Gerais compete:
 
 a) Assegurar o apoio dactilográfico e administrativo aos diversos órgãos e serviços do IGEF;
 
@@ -442,7 +506,7 @@ d) Assegurar uma adequada circulação de documentos e normas pelos diversos ser
 
 ##### Subsecção II — Dos Serviços Operativos
 
-###### Art. 29.º - 1 - A Direcção de Serviço de Gestão do Património Fundiário tem como atribuições a coordenação e contrôle da gestão e, em certos casos, a administração directa do património rústico estatal que não esteja adstrito a outro organismo, bem como dar cumprimento às acções e objectivos fixados nas Leis da Reforma Agrária e do Arrendamento Rural.
+Art. 29.º - 1 - A Direcção de Serviço de Gestão do Património Fundiário tem como atribuições a coordenação e contrôle da gestão e, em certos casos, a administração directa do património rústico estatal que não esteja adstrito a outro organismo, bem como dar cumprimento às acções e objectivos fixados nas Leis da Reforma Agrária e do Arrendamento Rural.
 
 2 - A Direcção de Serviços de Gestão do Património Fundiário compreende as seguintes Divisões:
 
@@ -452,7 +516,7 @@ b) De Avaliação e Indemnizações;
 
 c) De Contratação Fundiária.
 
-###### Art. 30.º À Divisão de Coordenação e Contrôle de Gestão do Património Fundiário compete:
+Art. 30.º À Divisão de Coordenação e Contrôle de Gestão do Património Fundiário compete:
 
 a) Coordenar e controlar a gestão e aproveitamento dos solos das propriedades rústicas expropriadas ou nacionalizadas no âmbito da Reforma Agrária, assim como em todos os bens fundiários do Estado não adstritos a outro organismo;
 
@@ -466,7 +530,7 @@ e) Incentivar a formação e especialização de administradores e gestores no �
 
 f) Dar informação final em todos os processos de concessão do direito de reserva e acompanhar esses processos, quando necessário.
 
-###### Art. 31.º À Divisão de Avaliação e Indemnizações compete:
+Art. 31.º À Divisão de Avaliação e Indemnizações compete:
 
 a) Proceder à colheita, organização e processamento de todos os dados para o cálculo e fixação das indemnizações previstas nas leis da Reforma Agrária, em colaboração com os serviços regionais de agricultura e outras entidades;
 
@@ -474,7 +538,7 @@ b) Orientar e conduzir os processos resultantes da aplicação das referidas lei
 
 c) Proceder à avaliação e dar parecer sobre a aquisição de prédios rústicos por parte do Estado, particularmente em questões de peritagem a nível superior.
 
-###### Art. 32.º À Divisão de Contratação Fundiária compete:
+Art. 32.º À Divisão de Contratação Fundiária compete:
 
 a) Colaborar no estudo e regulamentação das medidas legislativas sobre arrendamento rural e coordenar e acompanhar a sua execução em ligação com os serviços regionais de agricultura;
 
@@ -482,7 +546,7 @@ b) Calcular e propor as contraprestações a pagar pela exploração de terras e
 
 c) Exercer, relativamente aos prédios expropriados e nacionalizados, as funções atribuídas pela Lei do Arrendamento Rural às comissões concelhias.
 
-###### Art. 33.º - 1 - A Direcção de Serviços de Estruturação Agrária tem como atribuições estudar e propor as medidas e os meios tendentes a adaptar a estrutura agrária à melhor utilização dos factores de produção, bem como superintender, orientar e coordenar, a nível nacional, operações de estruturação fundiária e redimensionamento de explorações.
+Art. 33.º - 1 - A Direcção de Serviços de Estruturação Agrária tem como atribuições estudar e propor as medidas e os meios tendentes a adaptar a estrutura agrária à melhor utilização dos factores de produção, bem como superintender, orientar e coordenar, a nível nacional, operações de estruturação fundiária e redimensionamento de explorações.
 
 2 - A Direcção de Serviços de Estruturação Agrária compreende as seguintes Divisões:
 
@@ -490,7 +554,7 @@ a) De Emparcelamento;
 
 b) De Acesso à Propriedade.
 
-###### Art. 34.º À Divisão de Emparcelamento compete:
+Art. 34.º À Divisão de Emparcelamento compete:
 
 a) Estudar as medidas e os meios tendentes a adaptar a superfície agrícola disponível à melhor rendibilidade dos factores de produção;
 
@@ -502,7 +566,7 @@ d) Incentivar e acompanhar as iniciativas de natureza privada que conduzam ao me
 
 e) Estudar e apontar as medidas que devem ser tomadas para assegurar o êxito das operações.
 
-###### Art. 35.º À Divisão de Acesso à Propriedade compete:
+Art. 35.º À Divisão de Acesso à Propriedade compete:
 
 a) Inquirir da viabilidade do acesso à propriedade, bem como das razões de natureza social que o possam aconselhar;
 
@@ -512,7 +576,7 @@ c) Acompanhar os processos no sentido da rápida titularidade das propriedades a
 
 d) Apoiar formas de associativismo do trabalho da terra em comum.
 
-###### Art. 36.º - 1 - A Direcção de Serviços de Ordenamento Rural tem como atribuições coordenar e orientar a execução das medidas de ordenamento agrário, utilização do solo e outras tendentes à valorização do meio rural e ao melhor aproveitamento dos espaços agrícola, florestal e estuarial, nomeadamente no desenvolvimento das várias culturas, e, dentro destes objectivos, intervir no seu condicionamento.
+Art. 36.º - 1 - A Direcção de Serviços de Ordenamento Rural tem como atribuições coordenar e orientar a execução das medidas de ordenamento agrário, utilização do solo e outras tendentes à valorização do meio rural e ao melhor aproveitamento dos espaços agrícola, florestal e estuarial, nomeadamente no desenvolvimento das várias culturas, e, dentro destes objectivos, intervir no seu condicionamento.
 
 2 - A Direcção de Serviços de Ordenamento Rural compreende as seguintes Divisões:
 
@@ -524,7 +588,7 @@ c) De Condicionamento da Cultura da Vinha;
 
 d) De Cadastro Vitícola.
 
-###### Art. 37.º À Divisão de Ordenamento Rural compete:
+Art. 37.º À Divisão de Ordenamento Rural compete:
 
 a) Promover, coordenar ou orientar os estudos de ordenamento agrário do território, de acordo com a mais adequada utilização do solo e o melhor aproveitamento dos espaços agrícola, florestal e estuarial, tendo em vista a valorização do meio rural;
 
@@ -532,7 +596,7 @@ b) Coordenar a execução dos trabalhos necessários à consecução dos objecti
 
 c) Informar e esclarecer sobre as medidas a adoptar para se alcançar tais objectivos.
 
-###### Art. 38.º À Divisão de Condicionamento Geral de Culturas compete:
+Art. 38.º À Divisão de Condicionamento Geral de Culturas compete:
 
 a) Promover ou proceder aos estudos referentes à distribuição das culturas de acordo com uma zonagem que atenda aos condicionalismos ecológicos, económicos e sociais que a eles estão ligados;
 
@@ -540,7 +604,7 @@ b) Propor as medidas tendentes à melhor distribuição cultural, de modo a cons
 
 c) Actuar de forma a alcançar-se os objectivos propostos nas alíneas anteriores.
 
-###### Art. 39.º À Divisão de Condicionamento da Cultura da Vinha compete:
+Art. 39.º À Divisão de Condicionamento da Cultura da Vinha compete:
 
 a) Estudar as medidas e os meios tendentes ao contrôle de plantio da vinha e fiscalização dos encepamentos;
 
@@ -554,7 +618,7 @@ e) Promover, através das repartições de finanças, a cobrança das taxas refe
 
 f) Prestar aos serviços técnicos do cadastro vitícola as informações que sejam consideradas de interesse para estes serviços.
 
-###### Art. 40.º À Divisão de Cadastro Vitícola compete:
+Art. 40.º À Divisão de Cadastro Vitícola compete:
 
 a) Dar execução ao cadastro vitícola, de acordo com a legislação promulgada;
 
@@ -572,13 +636,13 @@ g) Colaborar com a delegação nacional do Office International de la Vigne et d
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Art. 41.º - 1 - Para realização dos seus fins, o IGEF administrará os bens a seu cargo de acordo com as boas regras de gestão.
+Art. 41.º - 1 - Para realização dos seus fins, o IGEF administrará os bens a seu cargo de acordo com as boas regras de gestão.
 
 2 - Procederá, em colaboração com os serviços regionais de agricultura, aos estudos e à consequente execução de uma política de aquisição e entrega para exploração dos prédios rústicos no âmbito da Reforma Agrária.
 
 3 - Assegurará a gestão dos recursos materiais dos bens que lhe estão afectos.
 
-###### Art. 42.º A gestão do IGEF será disciplinada pelos seguintes instrumentos de previsão:
+Art. 42.º A gestão do IGEF será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano de actividade plurianual;
 
@@ -586,9 +650,9 @@ b) Programas anuais de trabalho;
 
 c) Orçamento privativo.
 
-###### Art. 43.º O orçamento privativo será elaborado anualmente com base no programa de trabalho para cada ano económico, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
+Art. 43.º O orçamento privativo será elaborado anualmente com base no programa de trabalho para cada ano económico, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
 
-###### Art. 44.º - 1 - Constituem receitas do IGEF:
+Art. 44.º - 1 - Constituem receitas do IGEF:
 
 a) As dotações atribuídas no Orçamento Geral do Estado;
 
@@ -616,13 +680,13 @@ h) Os saldos das receitas referidas nas alíneas anteriores, apurados no fim de 
 
 6 - O Conselho Administrativo poderá autorizar a constituição de fundos de maneio, dentro dos limites da sua competência, para ocorrer ao pagamento de despesas.
 
-###### Art. 45.º Todos os documentos relativos a recebimentos e pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo e director de serviços de administração ou pelos seus substitutos legais.
+Art. 45.º Todos os documentos relativos a recebimentos e pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo e director de serviços de administração ou pelos seus substitutos legais.
 
 ### CAPÍTULO IV — Pessoal
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 46.º - 1 - O IGEF disporá para o desempenho das suas atribuições do contingente do pessoal dirigente e do pessoal dos quadros únicos do MAP constantes do mapa anexo a este diploma.
+Art. 46.º - 1 - O IGEF disporá para o desempenho das suas atribuições do contingente do pessoal dirigente e do pessoal dos quadros únicos do MAP constantes do mapa anexo a este diploma.
 
 2 - A distribuição do pessoal do IGEF pelos respectivos serviços é da competência do director.
 
@@ -636,41 +700,41 @@ h) Os saldos das receitas referidas nas alíneas anteriores, apurados no fim de 
 
 7 - Os contratos ou termos de tarefa serão sempre reduzidos em escrito e não conferirão, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 47.º O provimento dos lugares do pessoal dirigente do IGEF, cujos cargos se encontrem referenciados no mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como o respectivo recrutamento, efectuar-se-á nos termos dos artigos 2.º e 4.º de mesmo diploma.
+Art. 47.º O provimento dos lugares do pessoal dirigente do IGEF, cujos cargos se encontrem referenciados no mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como o respectivo recrutamento, efectuar-se-á nos termos dos artigos 2.º e 4.º de mesmo diploma.
 
-###### Art. 48.º Os restantes lugares serão providos nos termos do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, tendo em vista as alterações introduzidas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 48.º Os restantes lugares serão providos nos termos do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, tendo em vista as alterações introduzidas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 49.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
+Art. 49.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 50.º O suprimento temporário de cargos dirigentes referenciados no mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, por vacatura de lugar ou ausência ou impedimento dos respectivos titulares, efectuar-se-á nos termos do artigo 11.º daquele diploma.
+Art. 50.º O suprimento temporário de cargos dirigentes referenciados no mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, por vacatura de lugar ou ausência ou impedimento dos respectivos titulares, efectuar-se-á nos termos do artigo 11.º daquele diploma.
 
-###### Art. 51.º Os chefes de repartição são substituídos nas suas ausências e impedimentos pelo chefe de secção que, sob proposta do director de serviço, for designado pelo director do IGEF.
+Art. 51.º Os chefes de repartição são substituídos nas suas ausências e impedimentos pelo chefe de secção que, sob proposta do director de serviço, for designado pelo director do IGEF.
 
-###### Art. 52.º O tesoureiro será substituído nas suas ausências e impedimentos pelo oficial de secretaria que for designado, sob sua proposta, com a concordância do director de serviços, por despacho do director.
+Art. 52.º O tesoureiro será substituído nas suas ausências e impedimentos pelo oficial de secretaria que for designado, sob sua proposta, com a concordância do director de serviços, por despacho do director.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 53.º - 1 - O IGEF está isento de todos os impostos, contribuições, taxas, custas, emolumentos e selos nos processos, actos notariais e outros em que intervenha, em termos e condições idênticas aos do Estado.
+Art. 53.º - 1 - O IGEF está isento de todos os impostos, contribuições, taxas, custas, emolumentos e selos nos processos, actos notariais e outros em que intervenha, em termos e condições idênticas aos do Estado.
 
 2 - A aquisição, alienação, troca, entrega para exploração e venda de prédios ou direitos a eles inerentes, realizados no âmbito da reestruturação fundiária, não carecem de exame e visto do Tribunal de Contas.
 
-###### Art. 54.º As atribuições, competências e direitos conferidos por lei aos organismos e órgãos integrados no IGEF pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para este organismo.
+Art. 54.º As atribuições, competências e direitos conferidos por lei aos organismos e órgãos integrados no IGEF pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para este organismo.
 
-###### Art. 55.º Para efeito da realização de projectos multidisciplinares ou de carácter regional, nos domínios da actividade do IGEF, podem ser constituídas equipas de projecto, formadas por técnicos de uma ou mais especialidades ou serviços.
+Art. 55.º Para efeito da realização de projectos multidisciplinares ou de carácter regional, nos domínios da actividade do IGEF, podem ser constituídas equipas de projecto, formadas por técnicos de uma ou mais especialidades ou serviços.
 
-###### Art. 56.º - 1 - As equipas de projecto são compostas por técnicos das diversas especialidades que interessam ao projecto, designados pelo respectivo director-geral ou equiparado, mediante proposta do chefe de projecto.
+Art. 56.º - 1 - As equipas de projecto são compostas por técnicos das diversas especialidades que interessam ao projecto, designados pelo respectivo director-geral ou equiparado, mediante proposta do chefe de projecto.
 
 2 - A designação dos técnicos é feita pelo tempo limitado à execução da tarefa respectiva, de acordo com o plano de trabalho, e a sua actividade é exercida a tempo inteiro.
 
 3 - Os técnicos designados actuam na dependência funcional do chefe de projecto.
 
-###### Art. 57.º - 1 - Os chefes de projecto são designados por despacho ministerial, sob proposta do director do IGEF, de acordo com o director regional da área funcional do Chefe de projecto.
+Art. 57.º - 1 - Os chefes de projecto são designados por despacho ministerial, sob proposta do director do IGEF, de acordo com o director regional da área funcional do Chefe de projecto.
 
 2 - Os chefes de projecto são responsáveis pela consistência e eficiência dos estudos ou realizações a cargo da sua equipa, bem como pela conclusão destes estudos ou realizações nos pratos e nas condições fixados previamente, sendo igualmente responsáveis nos aspectos financeiro e administrativo dos mesmos projectos.
 
-###### Art. 58.º - 1 - A cobrança coerciva dos créditos do IGEF far-se-á pelo processo das execuções fiscais, através dos serviços de justiça fiscal.
+Art. 58.º - 1 - A cobrança coerciva dos créditos do IGEF far-se-á pelo processo das execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada pela Direcção dos Serviços de Administração, da qual constem os elementos seguintes:
 
@@ -684,13 +748,13 @@ d) Data a partir da qual são devidos juros de mora.
 
 3 - A mora do devedor a que alude a alínea d) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 59.º - 1 - As direcções de serviços serão desde já implantadas.
+Art. 59.º - 1 - As direcções de serviços serão desde já implantadas.
 
 2 - As divisões e os restantes serviços serão implantados por fases, de harmonia com a orientação que vier a ser definida por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 60.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das suas competências.
+Art. 60.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das suas competências.
 
-###### Art. 61.º Ficam revogados os seguintes diplomas legais:
+Art. 61.º Ficam revogados os seguintes diplomas legais:
 
 [Decreto-Lei n.º 36053](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36053-1946-148599), de 19 de Dezembro de 1946;
 
@@ -702,20 +766,20 @@ Decreto-Lei n.º 36596, de 20 de Novembro de 1947;
 
 [Decreto-Lei n.º 37399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37399-1949-385653), de 4 de Maio de 1949;
 
-###### Artigo 8.º, § 1.º, do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro.
+Artigo 8.º, § 1.º, do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro.
 
-###### Art. 62.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 62.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros em 10 de Outubro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás -António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço.
 
-**Promulgado em 11 de Dezembro de 1979.**
+Promulgado em 11 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 46.º deste diploma
 
 (Contingente de pessoal do Instituto de Gestão e Estruturação Fundiária)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29301/00010009.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29301/00010009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29301/00010009.pdf)

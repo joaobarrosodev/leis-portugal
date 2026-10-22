@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20000/23192322.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 211afa09ba9e3458786acfb32e35372247ed19574880fcd2fad35e309a9983f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b528cdfccc8b608c70412bb76943a3bd14c2fbd0857fb51699b741ccb3f93ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imposto sobre a Produção de Petróleo
+- Imposto sobre o Rendimento do Petróleo
+- Incentivos Fiscais
+- Isenção Fiscal
+- Petróleo
+- Plataforma Continental
+- Prospecção de Petróleo
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:165993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.02.05.1990.MIE, DR.IS [100] de 02.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:28Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +135,9 @@ Assim:
 
 Usando da autorização conferida pelo n.º 1 do artigo 32.º da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 4.º e 7.º do [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), de 31 de Dezembro, passam a ter, respectivamente, a redacção que se segue:
+Artigo 1.º Os artigos 1.º, 2.º, 4.º e 7.º do [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), de 31 de Dezembro, passam a ter, respectivamente, a redacção que se segue:
 
-###### Artigo 1.º - 1 - As pessoas singulares ou colectivas, concessionárias ou arrendatárias, que exerçam em Portugal a indústria extractiva de petróleo, incluindo a prospecção, pesquisa, desenvolvimento e exploração, bem como todas as que com elas se encontrem de qualquer forma associadas (joint-venture, farm-out, etc.), ficam sujeitas ao pagamento ao Estado dos seguintes encargos fiscais:
+Artigo 1.º - 1 - As pessoas singulares ou colectivas, concessionárias ou arrendatárias, que exerçam em Portugal a indústria extractiva de petróleo, incluindo a prospecção, pesquisa, desenvolvimento e exploração, bem como todas as que com elas se encontrem de qualquer forma associadas (joint-venture, farm-out, etc.), ficam sujeitas ao pagamento ao Estado dos seguintes encargos fiscais:
 
 a) Renda de superfície;
 
@@ -128,11 +157,11 @@ c) A plataforma continental.
 
 4 - Sobre os encargos referidos nos n.os 1 e 3 não incidirão quaisquer adicionais, quer para o Estado quer para as autarquias locais.
 
-###### Art. 2.º - 1 - A renda de superfície, a pagar anual e adiantadamente e nunca reembolsável, será fixada para cada concessão, por despacho dos Ministros das Finanças e do Plano e da Indústria e Energia, entre 1000$00 e 40000$00 por quilómetro quadrado ou fracção.
+Art. 2.º - 1 - A renda de superfície, a pagar anual e adiantadamente e nunca reembolsável, será fixada para cada concessão, por despacho dos Ministros das Finanças e do Plano e da Indústria e Energia, entre 1000$00 e 40000$00 por quilómetro quadrado ou fracção.
 
 2 - A renda fixada nos termos do número anterior, bem como os limites nele estabelecidos, poderão ser objecto de actualização de três em três anos, de acordo com a variação do valor do escudo.
 
-###### Art. 4.º - 1 - A taxa do imposto sobre o rendimento do petróleo será de 45% do rendimento tributável, determinado nos termos que se seguem.
+Art. 4.º - 1 - A taxa do imposto sobre o rendimento do petróleo será de 45% do rendimento tributável, determinado nos termos que se seguem.
 
 2 - ...
 
@@ -244,7 +273,7 @@ k) ...
 
 5 - Poderá ser autorizada, com observância dos preceitos legais, a importação temporária, pelo prazo de seis meses, renovável, de materiais ou equipamentos - incluindo os de natureza flutuante ou fixa - destinados a ser exclusivamente utilizados em trabalhos de prospecção, pesquisa, desenvolvimento e exploração de petróleo, seja por concessionários, incluindo quaisquer entidades associadas ou que com eles cooperem, seja por titulares de licenças ou de autorizações de prospecção petrolífera.
 
-###### Art. 2.º É facultado à empresa refinadora nacional de petróleo, com vista a incentivar a sua actividade de prospecção ou pesquisa de petróleo e desenvolvimento de descobertas, a constituição de uma reserva por aplicação dos resultados de cada um dos exercícios dos anos de 1981 a 1983, nas condições e com os efeitos seguintes:
+Art. 2.º É facultado à empresa refinadora nacional de petróleo, com vista a incentivar a sua actividade de prospecção ou pesquisa de petróleo e desenvolvimento de descobertas, a constituição de uma reserva por aplicação dos resultados de cada um dos exercícios dos anos de 1981 a 1983, nas condições e com os efeitos seguintes:
 
 a) A reserva terá como limite máximo, em cada ano, os resultados do respectivo exercício, líquidos das reservas legais e da remuneração do capital investido pelo Estado em conformidade com o [Decreto-Lei n.º 300/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1980-470775), de 16 de Agosto;
 
@@ -254,12 +283,12 @@ c) A reserva ou a parte dela que for aplicada nos termos da alínea anterior ser
 
 d) Não poderão, porém, ser deduzidas à matéria colectável, nos termos da alínea anterior, as reservas reinvestidas a partir da data da primeira demarcação definitiva de campo comercial de petróleos no espaço a que se refere a alínea b) deste artigo, bem como a partir da data em que o Governo decidir fazer participar qualquer empresa pública, em associação não societária de interesses ou noutra modalidade, em campos de petróleo comerciais descobertos e demarcados no mesmo espaço.
 
-###### Art. 3.º O disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), de 31 de Dezembro, na redacção dada por este diploma, só é aplicável às concessões outorgadas após a sua entrada em vigor.
+Art. 3.º O disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), de 31 de Dezembro, na redacção dada por este diploma, só é aplicável às concessões outorgadas após a sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Agosto de 1981.**
+Promulgado em 21 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

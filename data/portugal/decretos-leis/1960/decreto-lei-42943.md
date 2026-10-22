@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42943-1960-281471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0639341623b32bcba9f41a1d602ded9e058380aa0cfd29dbc33ac9de522399c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a64d0ca591115357de4ab6f74f4f48922a4e44a6bf67c396ea45559ff0e4071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Depósito Geral de Adidos
+- Governo Militar de Lisboa
+- Integração de Serviços
+- Orgânica
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:475731:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475731:por
+  label: "Dada nova redacção ao art. 2º pelo DEC LEI.386/74.26.08.1974.CCEMFA, DG.IS [198] de 26.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/386-1974-475731
+  date: '1974-08-26'
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:06Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +109,9 @@ Considerando que actualmente algumas destas actividades estão simultâneamente 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São reunidos num só órgão, com a designação de Depósito Geral de Adidos (D. G. A.), o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
+Artigo 1.º São reunidos num só órgão, com a designação de Depósito Geral de Adidos (D. G. A.), o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
 
-###### Art. 2.º O Depósito Geral de Adidos terá a sua sede em Lisboa, competindo-lhe:
+Art. 2.º O Depósito Geral de Adidos terá a sua sede em Lisboa, competindo-lhe:
 
 a) Fornecer alojamento, alimentação, vencimento e outros meios de manutenção às praças não pertencentes aos quadros das unidades, formações ou estabelecimentos militares da guarnição de Lisboa e em serviço nos vários órgãos do Ministério do Exército com carácter de permanência;
 
@@ -131,19 +147,19 @@ p) Diligenciar pela regularização da situação militar dos mancebos naturais 
 
 § 2.º Pode ser ainda incumbida ao D. G. A., por determinação do Estado-Maior do Exército, por intermédio da 4.ª Repartição ou pela Direcção-Geral do Serviço de Transportes, a organização do transporte de forças de pequeno efectivo.
 
-###### Art. 3.º O D. G. A. depende do Governo Militar de Lisboa para efeitos de justiça, disciplina e ordem pública e do director do Serviço de Pessoal para todos os outros efeitos, de harmonia com o artigo 64.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959.
+Art. 3.º O D. G. A. depende do Governo Militar de Lisboa para efeitos de justiça, disciplina e ordem pública e do director do Serviço de Pessoal para todos os outros efeitos, de harmonia com o artigo 64.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959.
 
-###### Art. 4.º O quadro orgânico do D. G. A. será estabelecido em portaria a publicar pelo Ministério do Exército, dentro dos quadros gerais aprovados.
+Art. 4.º O quadro orgânico do D. G. A. será estabelecido em portaria a publicar pelo Ministério do Exército, dentro dos quadros gerais aprovados.
 
-###### Art. 5.º O serviço prestado pelo pessoal do quadro do D. G. A. é considerado, para todos os efeitos, como serviço nas tropas.
+Art. 5.º O serviço prestado pelo pessoal do quadro do D. G. A. é considerado, para todos os efeitos, como serviço nas tropas.
 
-###### Art. 6.º São transferidas para o D. G. A. as disponibilidades à data existentes nas dotações e verbas destinadas no corrente ano económico ao Depósito de Tropas do Ultramar e à companhia de adidos do Governo Militar de Lisboa, bem como as verbas dos seus orçamentos privativos.
+Art. 6.º São transferidas para o D. G. A. as disponibilidades à data existentes nas dotações e verbas destinadas no corrente ano económico ao Depósito de Tropas do Ultramar e à companhia de adidos do Governo Militar de Lisboa, bem como as verbas dos seus orçamentos privativos.
 
-###### Art. 7.º A partir da data da entrada em vigor do presente diploma consideram-se extintos o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
+Art. 7.º A partir da data da entrada em vigor do presente diploma consideram-se extintos o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
 
-###### Art. 8.º Fica revogada toda a legislação em contrário, continuando a reger-se pelas normas aplicáveis estabelecidas do antecedente os casos não previstos neste decreto-lei.
+Art. 8.º Fica revogada toda a legislação em contrário, continuando a reger-se pelas normas aplicáveis estabelecidas do antecedente os casos não previstos neste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

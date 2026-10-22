@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 108/1980, 1º Suplemento, Série I de 1980-05-10
   number: '108'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 936-(1) a 936-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10801/00010012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5245d97a77e18c2ae2512c158fe48f1e587372f967d00e39967693f0a5747ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65b5a90b56def4f75ae2f0566f9a4ae546aa65ce2f4c0ddf3e31efeab651b4bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Informática
 relationships:
 - type: amended_by
   target: pt:dre:517233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391838:por
+  label: "Eliminado o art. 34º e alteradas parcialmente a estrutura e a redacção dos arts. 1º, 13º, 21, 25º, 30º, 33º, 34º\
+    \ e 35º, pelo DRR.9/82/M.1982.06.02.GR-RAM, DR.IS [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1982-391838
+  date: '1982-06-02'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693840:por
+  label: "Revogado, sem prejuízo do disposto no nº 1 do art. 18º, pelo DEC LEI.23/91.1991.01.11.MF, DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1991-693840
+  date: '1991-01-11'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:07Z'
   warnings: []
   errors: []
 ---
@@ -722,7 +743,7 @@ As alterações resultantes das revalorizações operadas pela aplicação do di
 
 ###### ARTIGO 34.º — (Providências orçamentais)
 
-**O Ministro das Finanças e do Plano fica autorizado a introduzir, nos orçamentos dos Ministérios em que se verifique a existência dos serviços e organismos mencionados no n.º 1 do artigo 1.º, as alterações necessárias à execução do presente diploma.**
+O Ministro das Finanças e do Plano fica autorizado a introduzir, nos orçamentos dos Ministérios em que se verifique a existência dos serviços e organismos mencionados no n.º 1 do artigo 1.º, as alterações necessárias à execução do presente diploma.
 
 ###### ARTIGO 35.º — (Esclarecimento de dúvidas)
 
@@ -734,17 +755,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 5 de Maio de 1980.**
+Promulgado em 5 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Carreiras de informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10801/00010012.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10801/00010012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10801/00010012.pdf)
 
 Carreiras de informática
 

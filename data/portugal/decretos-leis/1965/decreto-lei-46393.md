@@ -49,36 +49,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46393-1965-296197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dab9107ce063b24484e2e87225d2f29f3069574c42abba11097131d92bd2d88a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff2f348500572d6eee40bc06883dd4bfc1c5d80a12f0de615608fb3dca2089b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Aproveitamento Hidroeléctrico
+- Autorização de Despesas
+- Caixa Geral de Depósitos Crédito e Previdência
+- Câmara Municipal
+- Electrificação Rural
+- Empréstimo
+- Financiamento
+- Garantia
+- Horta
+- ILHA do Faial
+relationships:
+- type: cites
+  target: pt:dre:652099:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:44Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +108,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 41087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41087-1957-652099), de 30 de Abril de 1957, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 41087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41087-1957-652099), de 30 de Abril de 1957, passa a ter a seguinte redacção:
 
-###### Art. 2.º O encargo com a execução das obras referidas no artigo anterior, cujo limite se fixa em 23000 contos, serão suportados pela Câmara Municipal da Horta, com as comparticipações permitidas pelo Decreto-Lei n.º 40212, de 30 de Junho de 1955, não inferiores, no seu conjunto, a 50 por cento do custo total das obras. Estas comparticipações, que não serão consideradas para os efeitos do disposto no § único do artigo 9.º daquele diploma, deverão ser escalonadas até 1965, inclusive.
+Art. 2.º O encargo com a execução das obras referidas no artigo anterior, cujo limite se fixa em 23000 contos, serão suportados pela Câmara Municipal da Horta, com as comparticipações permitidas pelo Decreto-Lei n.º 40212, de 30 de Junho de 1955, não inferiores, no seu conjunto, a 50 por cento do custo total das obras. Estas comparticipações, que não serão consideradas para os efeitos do disposto no § único do artigo 9.º daquele diploma, deverão ser escalonadas até 1965, inclusive.
 
 Os saldos finais que se verificarem em relação ao limite de custo estabelecido neste artigo serão aplicados na 2.ª fase da electrificação rural.
 
-###### Art. 2.º É autorizada a Câmara Municipal da Horta a contratar com a Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até à importância de 14500 contos, devendo ser liquidado o empréstimo contraído ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 41087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41087-1957-652099).
+Art. 2.º É autorizada a Câmara Municipal da Horta a contratar com a Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até à importância de 14500 contos, devendo ser liquidado o empréstimo contraído ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 41087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41087-1957-652099).
 
 § único. Este empréstimo terá, além das habituais garantias, as consignadas nos §§ 1.º e 2.º do referido artigo, sendo-lhe aplicável igualmente o disposto no § 3.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - Francisco Pereira Neto de Carvalho.

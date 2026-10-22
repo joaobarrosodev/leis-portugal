@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22200/19982000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43183-1960-514842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2df8fa18f79cf5953d950f3e76f7e3b51100f8fbfc52c9a03071eeb3d8f88dd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd158ed3b543a4586641805e1c4fefd5f78757e85a478bb0c1fa1a698cac4065
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ministro das Corporações e Previdência Social
+- Presidente
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:666343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666343:por
+  label: "Extinto o Conselho Superior da Previdência e da Habitação Económica, reorganizado pelo presente diploma, passando\
+    \ as suas atribuições para o CSAS pelo DEC LEI.446/70.23.09.1970.MCPS, DG.IS [221-Supl] de 23.09.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/446-1970-666343
+  date: '1970-09-23'
+- type: cites
+  target: pt:dre:150367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256667:por
+  label: "Revogado, a partir de 05.01.1969, pelo DEC LEI.48824.31.12.1968.MCPS, DG.IS [307] de 31.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48824-1968-256667
+  date: '1968-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:44Z'
   warnings: []
   errors: []
 ---
@@ -146,23 +186,23 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho Superior da Previdência Social, instituído pelo [Decreto-Lei n.º 35896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35896-1946-150367), de 8 de Outubro de 1946, e integrado no Ministério das Corporações e Previdência Social pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, é reorganizado nos termos das disposições seguintes e passa a denominar-se Conselho Superior da Previdência e da Habitação Económica.
+Artigo 1.º O Conselho Superior da Previdência Social, instituído pelo [Decreto-Lei n.º 35896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35896-1946-150367), de 8 de Outubro de 1946, e integrado no Ministério das Corporações e Previdência Social pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, é reorganizado nos termos das disposições seguintes e passa a denominar-se Conselho Superior da Previdência e da Habitação Económica.
 
-###### Art. 2.º O Conselho Superior da Previdência e da Habitação Económica é um órgão técnico de carácter consultivo, destinado a coadjuvar o Governo no estudo e resolução dos problemas da previdência social e da habitação económica, competindo-lhe em especial:
+Art. 2.º O Conselho Superior da Previdência e da Habitação Económica é um órgão técnico de carácter consultivo, destinado a coadjuvar o Governo no estudo e resolução dos problemas da previdência social e da habitação económica, competindo-lhe em especial:
 
 a) Emitir pareceres fundamentados sobre os assuntos que lhe sejam submetidos;
 
 b) Promover, por iniciativa própria, o exame das questões que interessem ao aperfeiçoamento da organização da previdência social, em todos os seus aspectos, e à acção a desenvolver no domínio da habitação económica, propondo as medidas que julgar convenientes.
 
-###### Art. 3.º Para observância do disposto na base XXI da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e desde que possa ser superior a 50 o número de trabalhadores a empregar, as autorizações para estabelecimento de indústrias sujeitas ao condicionamento industrial deverão conter cláusula que obrigue a empresa interessada à construção de casas de renda económica destinadas ao respectivo pessoal, nas condições que vierem a ser fixadas por despacho dos Ministros da Economia e das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação, Económica.
+Art. 3.º Para observância do disposto na base XXI da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e desde que possa ser superior a 50 o número de trabalhadores a empregar, as autorizações para estabelecimento de indústrias sujeitas ao condicionamento industrial deverão conter cláusula que obrigue a empresa interessada à construção de casas de renda económica destinadas ao respectivo pessoal, nas condições que vierem a ser fixadas por despacho dos Ministros da Economia e das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação, Económica.
 
 § único. Em execução do preceituado neste artigo, a Direcção-Geral dos Serviços Industriais comunicará ao vice-presidente daquele Conselho as autorizações concedidas com aquela cláusula.
 
-###### Art. 4.º O Conselho elaborará periòdicamente o plano dos seus trabalhos e submetê-lo-á à apreciação do Ministro das Corporações e Previdência Social.
+Art. 4.º O Conselho elaborará periòdicamente o plano dos seus trabalhos e submetê-lo-á à apreciação do Ministro das Corporações e Previdência Social.
 
 § único. O Conselho poderá requisitar dos serviços públicos as informações e elementos de estudo de que necessitar.
 
-###### Art. 5.º O Conselho será constituído por duas secções, competindo à 1.ª (secção da previdência social) a apreciação dos assuntos respeitantes ao seguro social e à 2.ª (secção da habitação económica) o estudo das matérias relativas ao problema da habitação económica.
+Art. 5.º O Conselho será constituído por duas secções, competindo à 1.ª (secção da previdência social) a apreciação dos assuntos respeitantes ao seguro social e à 2.ª (secção da habitação económica) o estudo das matérias relativas ao problema da habitação económica.
 
 § único. São formadas as seguintes subsecções:
 
@@ -184,7 +224,7 @@ b) Na 2.ª secção (habitação económica):
 
 3.ª Habitação no meio rural.
 
-###### Art. 6.º O Conselho é presidido pelo Ministro das Corporações e Previdência Social e compõe-se de um vice-presidente e dos seguintes vogais:
+Art. 6.º O Conselho é presidido pelo Ministro das Corporações e Previdência Social e compõe-se de um vice-presidente e dos seguintes vogais:
 
 1) 1.ª secção (previdência social):
 
@@ -228,11 +268,11 @@ Os representantes mencionados nas alíneas a) e d) do n.º 1) e nas alíneas a) 
 
 § 5.º Para estudo de questões especiais, poderão ser chamados a participar nos trabalhos do Conselho os funcionários ou outras pessoas que se tenham especializado nos assuntos a tratar.
 
-###### Art. 7.º O Conselho funciona em sessões plenárias, em reuniões de secção, em reuniões de subsecção ou em reuniões conjuntas de duas ou mais subsecções.
+Art. 7.º O Conselho funciona em sessões plenárias, em reuniões de secção, em reuniões de subsecção ou em reuniões conjuntas de duas ou mais subsecções.
 
 § único. Os trabalhos do Conselho serão dirigidos pelo presidente ou vice-presidente e, na falta ou impedimento deste, por um vogal designado pelo primeiro.
 
-###### Art. 8.º O vice-presidente terá o vencimento previsto no quadro anexo ao [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1957, e, se for funcionário público, desempenhará o lugar em comissão de serviço.
+Art. 8.º O vice-presidente terá o vencimento previsto no quadro anexo ao [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1957, e, se for funcionário público, desempenhará o lugar em comissão de serviço.
 
 § 1.º Os vogais das secções terão direito a senhas de presença da importância de 150$00 por sessão ou reunião.
 
@@ -240,12 +280,12 @@ Os representantes mencionados nas alíneas a) e d) do n.º 1) e nas alíneas a) 
 
 § 3.º É aplicável ao pessoal a que se refere o § 5.º do artigo 7.º o disposto nos §§ 1.º e 2.º deste artigo.
 
-###### Art. 9.º Aos vogais que forem encarregados de proceder a inquéritos ou estudos fora das sessões do Conselho poderá ser atribuída uma remuneração especial, na importância que for arbitrada pelo Ministro das Corporações e Previdência Social, ouvido o Ministro das Finanças.
+Art. 9.º Aos vogais que forem encarregados de proceder a inquéritos ou estudos fora das sessões do Conselho poderá ser atribuída uma remuneração especial, na importância que for arbitrada pelo Ministro das Corporações e Previdência Social, ouvido o Ministro das Finanças.
 
-###### Art. 10.º O Conselho terá uma secretaria privativa, que funcionará com o pessoal nas condições indicadas no quadro anexo ao [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, em harmonia com o estabelecido no artigo 4.º do mesmo diploma.
+Art. 10.º O Conselho terá uma secretaria privativa, que funcionará com o pessoal nas condições indicadas no quadro anexo ao [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, em harmonia com o estabelecido no artigo 4.º do mesmo diploma.
 
-###### Art. 11.º Ficam revogados o [Decreto-Lei n.º 35896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35896-1946-150367), de 8 de Outubro de 1946, e o artigo 8.º do [Decreto-Lei n.º 38775](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38775-1952-566378), de 5 de Junho de 1952.
+Art. 11.º Ficam revogados o [Decreto-Lei n.º 35896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35896-1946-150367), de 8 de Outubro de 1946, e o artigo 8.º do [Decreto-Lei n.º 38775](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38775-1952-566378), de 5 de Junho de 1952.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

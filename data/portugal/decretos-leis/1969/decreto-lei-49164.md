@@ -49,36 +49,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49164-1969-198744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26bc6d2bb1c6f2185d8dc88bac5397d0a4a76269a5111eb1964c602b79d6f9f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae8677121fc6dcde4c4d4fb2286c4f2a3394f9b38b97db646316842c89ad53f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Doação
+- Fundação Salazar
+- Isenção Fiscal
+- Regime Fiscal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:12Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +92,14 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Fundação Salazar é isenta de todos os impostos, taxas e emolumentos do Estado ou dos corpos administrativos, incluindo o imposto do selo.
+Artigo 1.º A Fundação Salazar é isenta de todos os impostos, taxas e emolumentos do Estado ou dos corpos administrativos, incluindo o imposto do selo.
 
-###### Art. 2.º Os donativos à Fundação Salazar beneficiam do mesmo regime estabelecido nas leis fiscais para os donativos ao Estado e, quando imputáveis a rendimentos do trabalho por conta própria, são também havidos como encargos para efeitos da sua integral dedução no apuramento da matéria colectável em imposto profissional do ano em que foram efectivamente entregues.
+Art. 2.º Os donativos à Fundação Salazar beneficiam do mesmo regime estabelecido nas leis fiscais para os donativos ao Estado e, quando imputáveis a rendimentos do trabalho por conta própria, são também havidos como encargos para efeitos da sua integral dedução no apuramento da matéria colectável em imposto profissional do ano em que foram efectivamente entregues.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 24 de Julho de 1969.**
+Promulgado em 24 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

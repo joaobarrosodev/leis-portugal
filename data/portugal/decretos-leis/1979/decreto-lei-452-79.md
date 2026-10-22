@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26600/29582958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1979-367806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 970c8488976ca72ef15362b2bcc65c848ae40b8f73b0b8c08b0aa21e48fdd5fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35c9bd98123642ad3341fad62675949536d3e076e03f4f66a4c740a12b2a80ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condutor
+- Horas Extraordinárias
+- Presidente do Supremo Tribunal de Justiça
+- Supremo Tribunal de Justiça
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:235938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:02Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +115,12 @@ Considerando que razões de igualdade de tratamento aconselham a adopção da me
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aplicável ao motorista afecto ao serviço do Presidente do Supremo Tribunal de Justiça o regime previsto no [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho, e pelo artigo 16.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
+Artigo único. É aplicável ao motorista afecto ao serviço do Presidente do Supremo Tribunal de Justiça o regime previsto no [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho, e pelo artigo 16.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo - António Luciano Pacheco de Sousa Franco - Gabriela Guedes Salgueiro.
 
-**Promulgado em 6 de Novembro de 1979.**
+Promulgado em 6 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

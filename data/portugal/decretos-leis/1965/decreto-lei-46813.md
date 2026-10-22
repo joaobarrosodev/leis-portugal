@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/12/29500/18621864.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46813-1965-508428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 223dfc1e9162ce77a9cc9b9ad8767394f090ae8ef866e411c01c6b73a92dff3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c24f76ecf43f78fd0062aaa20b67efd79a9301ad33cd5c5e73b9bfe3dd87ad2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Central de Segurança Social dos Trabalhadores Migrantes
+- Orgânica
+- Personalidade Jurídica
+- Segurança Social
+- Trabalhador Migrante
 relationships:
 - type: amended_by
   target: pt:dre:454041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272048:por
+  label: "Alterado o art. 4.º, pelo DEC LEI.48451.1968.06.24.MU DG.IS [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48451-1968-272048
+  date: '1968-06-24'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454041:por
+  label: "Revogado, com a redacção introduzida pelo Dec Lei 48451 de 24-Jun 1968, pelo DEC LEI.345/83.1983.07.26.MFP DR.IS\
+    \ [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1983-454041
+  date: '1983-07-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:48Z'
   warnings: []
   errors: []
 ---
@@ -121,17 +153,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É constituída, na dependência do Ministério das Corporações e Previdência Social, como instituição de interesse público, a Caixa Central de Segurança Social dos Trabalhadores Migrantes, dotada de personalidade jurídica e destinada a assegurar a aplicação das convenções e acordos internacionais sobre segurança social de que o Estado Português é signatário, actividade em que actuará como organismo de ligação representativo das instituições e demais entidades portuguesas responsáveis pela concessão de prestações previstas naqueles diplomas e seus acordos administrativos.
+Artigo 1.º - 1. É constituída, na dependência do Ministério das Corporações e Previdência Social, como instituição de interesse público, a Caixa Central de Segurança Social dos Trabalhadores Migrantes, dotada de personalidade jurídica e destinada a assegurar a aplicação das convenções e acordos internacionais sobre segurança social de que o Estado Português é signatário, actividade em que actuará como organismo de ligação representativo das instituições e demais entidades portuguesas responsáveis pela concessão de prestações previstas naqueles diplomas e seus acordos administrativos.
 
 2. A Caixa goza das mesmas isenções e regalias legalmente atribuídas às caixas sindicais de previdência classificadas na [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e rege-se por estatuto aprovado por alvará do Ministro das Corporações e Previdência Social.
 
-###### Art. 2.º - 1. A gerência da Caixa incumbirá a uma direcção assistida pelo conselho geral, em que será assegurada a representação das instituições e demais entidades responsáveis pela execução das convenções e acordos.
+Art. 2.º - 1. A gerência da Caixa incumbirá a uma direcção assistida pelo conselho geral, em que será assegurada a representação das instituições e demais entidades responsáveis pela execução das convenções e acordos.
 
 2. Ao provimento dos cargos de presidente e vice-presidente da direcção da Caixa é extensivo o disposto no [Decreto-Lei n.º 37743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37743-1950-659680), de 23 de Janeiro de 1950.
 
-###### Art. 3.º Os encargos derivados do funcionamento da Caixa serão suportados por contribuições do Fundo Nacional do Abono de Família e da Caixa Nacional de Pensões, nos termos que forem determinados por despacho do Ministro das Corporações e Previdência Social.
+Art. 3.º Os encargos derivados do funcionamento da Caixa serão suportados por contribuições do Fundo Nacional do Abono de Família e da Caixa Nacional de Pensões, nos termos que forem determinados por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 4.º - 1. As actividades da Caixa são orientadas pela Comissão de Estudo de Convenções Internacionais sobre Segurança Social, instituída no Ministério das Corporações e Previdência Social para apreciar os aspectos gerais da negociação das referidas convenções e subsequentes acordos administrativos e suas incidências na legislação interna.
+Art. 4.º - 1. As actividades da Caixa são orientadas pela Comissão de Estudo de Convenções Internacionais sobre Segurança Social, instituída no Ministério das Corporações e Previdência Social para apreciar os aspectos gerais da negociação das referidas convenções e subsequentes acordos administrativos e suas incidências na legislação interna.
 
 2. Compõem a Comissão, a que preside o vice-presidente do Conselho Superior da Previdência Social e da Habitação Económica, os seguintes vogais:
 
@@ -149,7 +181,7 @@ e) Um representante do Fundo de Desenvolvimento da Mão-de-Obra.
 
 4. Incumbe à Caixa assegurar o expediente da Comissão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

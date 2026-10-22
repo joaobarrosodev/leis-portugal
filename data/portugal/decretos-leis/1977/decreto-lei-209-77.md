@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1977-252824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cb6607888346230e606b0ebbb898e213f178392b2a71fb639ddb3f289bb5e1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 556b3bf282b91d6821c2a8a13976138b5df615fffcc356b09980094a0f4a41a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ALTO Comissário para os Desalojados
+- Assistência Médica
+- Assistência Medicamentosa
+- Comissariado para os Desalojados
+- Desalojado
+- Inserção Social
+- Integração de Trabalhadores
+- Prestações Pecuniárias
+- Realojamento
 relationships:
 - type: amended_by
   target: pt:dre:324774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278258:por
+  label: "Alterados, por ratificação, os arts. 1º e 2º pela LEI.73/77.27.09.1977.AR, DR.IS [224] de 27.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-1977-278258
+  date: '1977-09-27'
+- type: cites
+  target: pt:dre:534386:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324774:por
+  label: "Revogado o presente diploma, com excepção do art. 1º (na redacção introduzida pela Lei 73/77 de 27-Set) e do nº\
+    \ 3 do art. 11º pelo DEC LEI.401/78.15.12.1978.MAI, DR.IS [287] de 15.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/401-1978-324774
+  date: '1978-12-15'
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:08Z'
   warnings: []
   errors: []
 ---
@@ -215,8 +239,8 @@ O presente diploma será revisto um ano após a sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 16 de Maio de 1977.**
+Promulgado em 16 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

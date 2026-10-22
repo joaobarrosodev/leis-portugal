@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26500/27312749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1977-280721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90a520816769e37ac36f0b672e11e0d82ff8699c684f18ae69f811fb948b792d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a5e910fba30e06d18ca989add2da6664432919c67802b1380a3d2bca828ec24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Companhia Nacional de Navegação
+- Companhia Portuguesa de Transportes Marítimos
+- Criação de Empresas
+- Empresa Pública
+- Estatuto
+- Marinha Mercante
+- Nacionalização
+- Navis-Navegação de Portugal
+- Reestruturação de Empresas
+- Setor Empresarial do Estado
+- Setor Público
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 85
+  article_count: 86
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:00Z'
   warnings: []
   errors: []
 ---
@@ -110,39 +168,39 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Navis - Navegação de Portugal, E. P., que se regerá pelas disposições do presente decreto-lei e dos estatutos que se publicam em anexo.
+Artigo 1.º É criada a Navis - Navegação de Portugal, E. P., que se regerá pelas disposições do presente decreto-lei e dos estatutos que se publicam em anexo.
 
-###### Art. 2.º - 1 - São aprovados e publicados em anexo, igualmente como parte integrante do presente decreto-lei, os estatutos por que se passarão a reger a CTM - Companhia Portuguesa de Transportes Marítimos, E. P., e a CNN - Companhia Nacional de Navegação, E. P., nacionalizadas pelos Decretos-Leis n.os [205-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-c-1975-497833) e [205-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-d-1975-497834), de 16 de Abril, e com âmbito alargado nos termos das incorporações determinadas pelos Decretos n.os [808/76](https://diariodarepublica.pt/dr/detalhe/decreto/808-1976-407325) e [809/76](https://diariodarepublica.pt/dr/detalhe/decreto/809-1976-407326), de 8 de Novembro, e [814/76](https://diariodarepublica.pt/dr/detalhe/decreto/814-1976-407305), de 9 de Novembro.
+Art. 2.º - 1 - São aprovados e publicados em anexo, igualmente como parte integrante do presente decreto-lei, os estatutos por que se passarão a reger a CTM - Companhia Portuguesa de Transportes Marítimos, E. P., e a CNN - Companhia Nacional de Navegação, E. P., nacionalizadas pelos Decretos-Leis n.os [205-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-c-1975-497833) e [205-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-d-1975-497834), de 16 de Abril, e com âmbito alargado nos termos das incorporações determinadas pelos Decretos n.os [808/76](https://diariodarepublica.pt/dr/detalhe/decreto/808-1976-407325) e [809/76](https://diariodarepublica.pt/dr/detalhe/decreto/809-1976-407326), de 8 de Novembro, e [814/76](https://diariodarepublica.pt/dr/detalhe/decreto/814-1976-407305), de 9 de Novembro.
 
 2 - A introdução de alterações aos estatutos referidos no número anterior será feita por decreto-lei referendado pelo Primeiro-Ministro e pelos Ministros das Finanças, do Plano e Coordenação Económica e dos Transportes e Comunicações.
 
-###### Art. 3.º - 1 - Os capitais estatutários das empresas públicas Navis, CTM e CNN, referidas nos artigos anteriores, serão fixados de acordo com o disposto no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
+Art. 3.º - 1 - Os capitais estatutários das empresas públicas Navis, CTM e CNN, referidas nos artigos anteriores, serão fixados de acordo com o disposto no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
 2 - O capital estatutário da Navis poderá ser parcialmente realizado ou aumentado através da transferência para essa empresa da propriedade de navios ou de outros elementos patrimoniais da CTM e da CNN que, por despacho conjunto dos Ministérios da Tutela e das Finanças, forem julgados necessários para o exercício das suas atribuições. Essa transferência efectivar-se-á, mesmo para efeitos de registo, com a simples publicação desse despacho no Diário da República.
 
 3 - O capital estatutário das empresas que venham a ser criadas por acção ou proposta da Navis poderá ser parcialmente realizado ou aumentado nas condições do número anterior.
 
-###### Art. 4.º - 1 - Por despacho do Ministro da Tutela, qualquer trabalhador da CTM ou da CNN poderá ser transferido de uma para outra dessas empresas públicas ou ser colocado no quadro da Navis ou de qualquer outra empresa que esta venha a criar no exercício das suas atribuições.
+Art. 4.º - 1 - Por despacho do Ministro da Tutela, qualquer trabalhador da CTM ou da CNN poderá ser transferido de uma para outra dessas empresas públicas ou ser colocado no quadro da Navis ou de qualquer outra empresa que esta venha a criar no exercício das suas atribuições.
 
 2 - O despacho referido no número anterior será proferido sob proposta do conselho de gerência da Navis e poderá individualizar os trabalhadores a transferir ou simplesmente o sector empresarial cuja transferência deva ser acompanhada de todos os trabalhadores a ele directamente afectos.
 
 3 - Os trabalhadores que forem transferidos nos termos dos números anteriores manterão todos os direitos adquiridos ao serviço da empresa a cujo quadro pertenciam.
 
-###### Art. 5.º Será comum à Navis, à CNN e à CTM o conselho geral previsto no artigo 8.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
+Art. 5.º Será comum à Navis, à CNN e à CTM o conselho geral previsto no artigo 8.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
-###### Art. 6.º Logo que forem nomeados os conselhos de gerência das empresas públicas CTM e CNN, cessarão as suas funções a comissão administrativa e os conselhos de directores previstos nos Decretos-Leis n.os [704/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1975-311023), de 18 de Dezembro, e [813/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/813-1976-407304), de 9 de Novembro, decretos estes que ficam revogados.
+Art. 6.º Logo que forem nomeados os conselhos de gerência das empresas públicas CTM e CNN, cessarão as suas funções a comissão administrativa e os conselhos de directores previstos nos Decretos-Leis n.os [704/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1975-311023), de 18 de Dezembro, e [813/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/813-1976-407304), de 9 de Novembro, decretos estes que ficam revogados.
 
-###### Art. 7.º A Navis, a CNN e a CIM ficam sujeitas à tutela do Ministério dos Transportes e Comunicações, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
+Art. 7.º A Navis, a CNN e a CIM ficam sujeitas à tutela do Ministério dos Transportes e Comunicações, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
-###### Art. 8.º O presente decreto-lei entra em vigor no prazo de oito dias, a contar da sua publicação, devendo os conselhos de gerência ser empossados no prazo de trinta dias.
+Art. 8.º O presente decreto-lei entra em vigor no prazo de oito dias, a contar da sua publicação, devendo os conselhos de gerência ser empossados no prazo de trinta dias.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barros de Sousa Gomes - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 2 de Novembro de 1977.**
+Promulgado em 2 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 NAVIS - NAVEGAÇÃO DE PORTUGAL, E. P.
 
@@ -596,13 +654,15 @@ A empresa pode fazer parte de associações ou organismos nacionais ou internaci
 
 As dúvidas que suscitarem a interpretação ou aplicação do presente estatuto são resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.
 
 CNN - COMPANHIA NACIONAL DE NAVEGAÇÃO, E. P.
 
 ESTATUTOS
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 (Natureza, denominação e sede)
 
@@ -958,13 +1018,15 @@ A empresa pode fazer parte de associações ou organismos nacionais ou internaci
 
 As dúvidas que suscitarem a interpretação ou aplicação dos presentes estatutos são resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.
 
 CTM - COMPANHIA PORTUGUESA DE TRANSPORTES MARÍTIMOS, E. P.
 
 ESTATUTOS
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 (Natureza, denominação e sede)
 
@@ -1322,4 +1384,4 @@ A empresa pode fazer parte de associações ou organismos nacionais ou internaci
 
 As dúvidas que suscitarem a interpretação ou aplicação do presente estatutos são resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10
   number: '209'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2258-(54) a 2258-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20901/00540056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-l-1979-256647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6f1f19e28f02a7d208d2486c5dfd7edf0cccffbaf81b1628f278cb9a4c74a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca4321975f39026ab9acfaeb9326074f58acc129caabb8002a84f57ddb5ffca5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria da Madeira
+- Instituto dos Produtos Florestais
+- Produto em Madeira
+- Receita
+- Resina
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:392448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:392448:por
+  label: "Revogado pelo DEC LEI.181/82.15.05.1982.MACP, DR.IS [110] de 15.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1982-392448
+  date: '1982-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:42Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +125,7 @@ Nestes termos:
 
 Usando da autorização conferida pelo artigo 6.º da [Lei n.º 43/79](https://diariodarepublica.pt/dr/detalhe/lei/43-1979-276592), de 7 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Constituem receita para o Instituto dos Produtos Florestais:
+Artigo 1.º Constituem receita para o Instituto dos Produtos Florestais:
 
 a) A taxa de 120$00 por tonelada de peso líquido de pez, aguarrás, seus derivados e subprodutos, e aguarrás sulfatada ou talóleo transaccionados;
 
@@ -126,9 +149,9 @@ j) A taxa de 0,25% sobre o valor FOB das exportações de madeiras em bruto, inc
 
 l) A contribuição de 0,25% sobre o valor CIF da importação de madeiras em bruto e serradas, com excepção das originárias da Espanha, EFTA e CEE.
 
-###### Art. 2.º Nas transacções de cortiça em prancha, quadros, rolhas, granulados, aglomerados e outros produtos de cortiça realizadas no mercado interno, o industrial responsável pelo pagamento integral da taxa cobrará, com verba separada, 70$00 por tonelada de granulados e de aglomerado negro e, 100$00 por tonelada dos restantes produtos, correspondentes à parte do comprador na taxa para o Instituto dos Produtos Florestais.
+Art. 2.º Nas transacções de cortiça em prancha, quadros, rolhas, granulados, aglomerados e outros produtos de cortiça realizadas no mercado interno, o industrial responsável pelo pagamento integral da taxa cobrará, com verba separada, 70$00 por tonelada de granulados e de aglomerado negro e, 100$00 por tonelada dos restantes produtos, correspondentes à parte do comprador na taxa para o Instituto dos Produtos Florestais.
 
-###### Art. 3.º O Instituto dos Produtos Florestais procederá à liquidação das quantias correspondentes às taxas devidas:
+Art. 3.º O Instituto dos Produtos Florestais procederá à liquidação das quantias correspondentes às taxas devidas:
 
 a) Relativamente às taxas a que se referem as alíneas a), c), d), e), f), g) e h) do artigo 1.º, com base, conforme a origem dos produtos, nos mapas de movimento dos industriais e dos importadores;
 
@@ -162,7 +185,7 @@ c) Relativamente à taxa anual a que se refere a alínea i) do mesmo artigo, com
 
 13.º Com 201 ou mais trabalhadores ... 13000$00
 
-###### Art. 4.º Os mapas a que se refere a alínea a) do artigo anterior deverão ser enviados ao Instituto nos prazos e nas condições fixados pelo Instituto para este efeito, deles constando as seguintes indicações:
+Art. 4.º Os mapas a que se refere a alínea a) do artigo anterior deverão ser enviados ao Instituto nos prazos e nas condições fixados pelo Instituto para este efeito, deles constando as seguintes indicações:
 
 a) O volume mensal de vendas da sua fabricação, para as empresas industriais;
 
@@ -170,22 +193,22 @@ b) Os quantitativos da produção sujeita ao pagamento da taxa utilizados mensal
 
 c) Os volumes dos produtos importados, transaccionados mensalmente, para os importadores.
 
-###### Art. 5.º A direcção do Instituto poder isentar do pagamento destas taxas as entidades abrangidas que, pela natureza artística ou artesanal da sua actividade, o justifiquem.
+Art. 5.º A direcção do Instituto poder isentar do pagamento destas taxas as entidades abrangidas que, pela natureza artística ou artesanal da sua actividade, o justifiquem.
 
-###### Art. 6.º As importâncias liquidadas nos termos das alíneas a) e c) do artigo 3.º deste decreto-lei deverão ser pagas, no prazo de trinta dias a contar da data da guia de depósito emitida, directamente no Instituto dos Produtos Florestais ou depositadas, dentro do mesmo prazo, na Caixa Geral de Depósitos.
+Art. 6.º As importâncias liquidadas nos termos das alíneas a) e c) do artigo 3.º deste decreto-lei deverão ser pagas, no prazo de trinta dias a contar da data da guia de depósito emitida, directamente no Instituto dos Produtos Florestais ou depositadas, dentro do mesmo prazo, na Caixa Geral de Depósitos.
 
-###### Art. 7.º As importâncias liquidadas nos termos da alínea b) do artigo 3.º serão pagas directamente no Instituto dos Produtos Florestais.
+Art. 7.º As importâncias liquidadas nos termos da alínea b) do artigo 3.º serão pagas directamente no Instituto dos Produtos Florestais.
 
-###### Art. 8.º Para efeitos de despacho alfandegário das mercadorias abrangidas nas alíneas b), j) e l) do artigo 1.º, as estações aduaneiras exigirão a apresentação de um exemplar do boletim de cobrança da taxa, devidamente autenticado pelo Instituto dos Produtos Florestais, que faça prova de ter sido liquidada a respectiva importância.
+Art. 8.º Para efeitos de despacho alfandegário das mercadorias abrangidas nas alíneas b), j) e l) do artigo 1.º, as estações aduaneiras exigirão a apresentação de um exemplar do boletim de cobrança da taxa, devidamente autenticado pelo Instituto dos Produtos Florestais, que faça prova de ter sido liquidada a respectiva importância.
 
-###### Art. 9.º O Instituto dos Produtos Florestais expedirá as instruções que se mostrem necessárias à execução do presente decreto-lei.
+Art. 9.º O Instituto dos Produtos Florestais expedirá as instruções que se mostrem necessárias à execução do presente decreto-lei.
 
-###### Art. 10.º Fica revogada a [Portaria n.º 28/75](https://diariodarepublica.pt/dr/detalhe/portaria/28-1975-158889), de 17 de Janeiro.
+Art. 10.º Fica revogada a [Portaria n.º 28/75](https://diariodarepublica.pt/dr/detalhe/portaria/28-1975-158889), de 17 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Acácio Manuel Pereira Magro.
 
-**Promulgado em 10 de Setembro de 1979.**
+Promulgado em 10 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

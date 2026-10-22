@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/497-1972-685177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8669c587decab90c56e2e120aab35532c7e79ad603016aff2a530f1858d973b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53dcf8be9c6235b185cfee91ad1232a0f8269d7a1ee800eb53c0bbb25d43ed74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Companhia das Águas de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:02Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +98,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição Política, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, é aplicado ao trabalho prestado à Companhia das Águas de Lisboa, sociedade anónima de responsabilidade limitada, com as adaptações constantes do presente diploma.
+Artigo 1.º O regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, é aplicado ao trabalho prestado à Companhia das Águas de Lisboa, sociedade anónima de responsabilidade limitada, com as adaptações constantes do presente diploma.
 
-###### Art. 2.º O estabelecimento e a organização dos horários de trabalho e escalas de serviço para o pessoal em regime de turnos serão definidos na respectiva convenção colectiva de trabalho.
+Art. 2.º O estabelecimento e a organização dos horários de trabalho e escalas de serviço para o pessoal em regime de turnos serão definidos na respectiva convenção colectiva de trabalho.
 
-###### Art. 3.º - 1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal o trabalho que for imposto pelas necessidades do serviço público de que a empresa é concessionária, a menos que sejam dispensados por motivos atendíveis.
+Art. 3.º - 1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal o trabalho que for imposto pelas necessidades do serviço público de que a empresa é concessionária, a menos que sejam dispensados por motivos atendíveis.
 
 2. O número máximo de horas de trabalho extraordinário que os trabalhadores podem prestar será fixado na respectiva convenção colectiva de trabalho.
 
 3. A empresa é obrigada a comunicar mensalmente ao Instituto Nacional do Trabalho e Previdência o número de horas de trabalho prestado pelos seus trabalhadores em dias de descanso semanal.
 
-###### Art. 4.º A empresa é autorizada a laborar contìnuamente.
+Art. 4.º A empresa é autorizada a laborar contìnuamente.
 
 Marcello Caetano - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 17 de Novembro de 1972.**
+Promulgado em 17 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

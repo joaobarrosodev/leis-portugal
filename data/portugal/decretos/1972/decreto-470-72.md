@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/470-1972-686614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90b1865d917290332ec9f82f0e20fcd3f20cfff394654b2cb05a2353535c9bf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07d7cd9773cd00f6b4b2d013b0f5cc69384b62d6c445e2cd34e3b25a5d567791
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:216479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:45Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +116,9 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS DE OBRAS PUBLICAS E TRANSPORTES DO ULTRAMAR
 
 ### CAPÍTULO I — Da designação, fins e atribuições
 
-###### Artigo 1.º Os serviços de obras públicas e transportes do ultramar são constituídos por direcções provinciais em Angola e Moçambique e por repartições provinciais nas restantes províncias.
+Artigo 1.º Os serviços de obras públicas e transportes do ultramar são constituídos por direcções provinciais em Angola e Moçambique e por repartições provinciais nas restantes províncias.
 
-###### Art. 2.º As Direcções Provinciais de Angola e Moçambique são os organismos através dos quais se exerce a acção executiva da administração provincial nos sectores das obras públicas relativos a edifícios, monumentos nacionais, urbanização e melhoramentos locais, bem como no sector da viação e transportes rodoviários, no âmbito da legislação aplicável, competindo-lhes especialmente:
+Art. 2.º As Direcções Provinciais de Angola e Moçambique são os organismos através dos quais se exerce a acção executiva da administração provincial nos sectores das obras públicas relativos a edifícios, monumentos nacionais, urbanização e melhoramentos locais, bem como no sector da viação e transportes rodoviários, no âmbito da legislação aplicável, competindo-lhes especialmente:
 
 a) Ocupar-se dos assuntos relativos à construção e conservação dos edifícios públicos e monumentos nacionais;
 
@@ -126,7 +142,7 @@ j) Executar ou promover a execução, para as autarquias locais que de tal neces
 
 k) Ocupar-se subsidiàriamente, por determinação dos Governadores-Gerais, de outros trabalhos ou serviços não compreendidos nas alíneas anteriores que, pela sua natureza, possam enquadrar-se no âmbito da competência técnica do seu pessoal.
 
-###### Art. 3.º As Repartições Provinciais de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor são os organismos através dos quais se exerce a acção executiva da administração provincial em todos os sectores das obras públicas, bem como no sector da viação e transportes rodoviários, no âmbito da legislação aplicável, competindo-lhes especialmente, além das atribuições definidas no artigo 2.º deste diploma, as seguintes, desde que não estejam legal e expressamente cometidas a outros organismos públicos:
+Art. 3.º As Repartições Provinciais de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor são os organismos através dos quais se exerce a acção executiva da administração provincial em todos os sectores das obras públicas, bem como no sector da viação e transportes rodoviários, no âmbito da legislação aplicável, competindo-lhes especialmente, além das atribuições definidas no artigo 2.º deste diploma, as seguintes, desde que não estejam legal e expressamente cometidas a outros organismos públicos:
 
 a) Promover a elaboração e execução dos planos rodoviários das províncias;
 
@@ -148,9 +164,9 @@ h) Sem prejuízo do disposto no artigo 435.º do [Decreto n.º 34076](https://di
 
 #### SECÇÃO I — Em Angola e Moçambique
 
-###### Art. 4.º As Direcções Provinciais dos Serviços de Obras Públicas e Transportes dispõem de serviços centrais e serviços regionais.
+Art. 4.º As Direcções Provinciais dos Serviços de Obras Públicas e Transportes dispõem de serviços centrais e serviços regionais.
 
-###### Art. 5.º Aos serviços centrais incumbe:
+Art. 5.º Aos serviços centrais incumbe:
 
 a) Imprimir orientação geral à actuação do organismo de acordo com as atribuições anteriormente definidas e superintender na sua administração;
 
@@ -160,11 +176,11 @@ c) Coordenar as actividades das autoridades distritais em matéria de obras púb
 
 d) Assegurar o perfeito e pontual funcionamento da escrita e contabilização das despesas e receitas dos serviços por forma a exactamente se conhecer, em cada momento, da situação financeira de cada um deles.
 
-###### Art. 6.º Os serviços regionais são os departamentos através dos quais a acção das direcções provinciais se estende a todo o território, competindo-lhes, de uma maneira geral e na área da respectiva jurisdição, atribuições idênticas às das serviços centrais, de harmonia com o que for estabelecido no regulamento dos serviços.
+Art. 6.º Os serviços regionais são os departamentos através dos quais a acção das direcções provinciais se estende a todo o território, competindo-lhes, de uma maneira geral e na área da respectiva jurisdição, atribuições idênticas às das serviços centrais, de harmonia com o que for estabelecido no regulamento dos serviços.
 
 ##### SUBSECÇÃO I — Dos serviços centrais
 
-###### Art. 7.º - 1. Os serviços centrais dividem-se em:
+Art. 7.º - 1. Os serviços centrais dividem-se em:
 
 Serviços de administração;
 
@@ -172,15 +188,15 @@ Serviços técnicos.
 
 2. Adstrita aos serviços centrais funciona a Inspecção dos Serviços de Prevenção e Extinção de Incêndios, cujas atribuições constarão do regulamento dos serviços.
 
-###### Art. 8.º - 1. Os serviços da administração compreendem os seguintes departamentos:
+Art. 8.º - 1. Os serviços da administração compreendem os seguintes departamentos:
 
 Repartição de Pessoal e Expediente Geral;
 
 Gabinete de Estudos;
 
-##### Divisão de Contabilidade e Património;
+Divisão de Contabilidade e Património;
 
-##### Divisão de Contencioso;
+Divisão de Contencioso;
 
 Parque, Armazéns e Oficinas.
 
@@ -224,7 +240,7 @@ entradas e saídas, de modo a poder conhecer-se fàcilmente das existências em 
 
 f) Contabilizar e escriturar as receitas e despesas do departamento.
 
-###### Art. 9.º - 1. Os serviços técnicos compreendem os seguintes departamentos:
+Art. 9.º - 1. Os serviços técnicos compreendem os seguintes departamentos:
 
 Serviço de Edifícios;
 
@@ -270,9 +286,9 @@ f) Planear e executar, ou acompanhar a execução, de campanhas de prevenção e
 
 5. A Divisão Técnica dispõe de uma ou mais secções de viação, conforme as necessidades do serviço.
 
-###### Art. 10.º Junto das Direcções Provinciais dos Serviços de Obras Públicas e Transportes funcionam as Comissões de Monumentos Nacionais, de Urbanização e de Viação, cujo funcionamento será regulado pelos Governadores - Gerais em diplomas provinciais.
+Art. 10.º Junto das Direcções Provinciais dos Serviços de Obras Públicas e Transportes funcionam as Comissões de Monumentos Nacionais, de Urbanização e de Viação, cujo funcionamento será regulado pelos Governadores - Gerais em diplomas provinciais.
 
-###### Art. 11.º - 1. A Comissão de Monumentos Nacionais é o órgão de orientação e consulta para a classificação, restauro, conservação e protecção de monumentos históricos e arqueológicos da província, criação de novos padrões e exercício da competência já atribuída por lei ou que, pela mesma forma, lhe venha a ser fixada.
+Art. 11.º - 1. A Comissão de Monumentos Nacionais é o órgão de orientação e consulta para a classificação, restauro, conservação e protecção de monumentos históricos e arqueológicos da província, criação de novos padrões e exercício da competência já atribuída por lei ou que, pela mesma forma, lhe venha a ser fixada.
 
 2. A constituição da Comissão é a seguinte:
 
@@ -296,7 +312,7 @@ Duas pessoas de reconhecida idoneidade no assunto, a nomear pelo Governador-Gera
 
 3. O expediente da Comissão é assegurado pelo Serviço de Edifícios.
 
-###### Art. 12.º - 1. A Comissão de Urbanização é o órgão consultivo para os problemas de urbanização.
+Art. 12.º - 1. A Comissão de Urbanização é o órgão consultivo para os problemas de urbanização.
 
 2. A constituição da Comissão é a seguinte:
 
@@ -316,7 +332,7 @@ Dois engenheiros ou arquitectos, como representantes das câmaras municipais da 
 
 3. O expediente da Comissão é assegurado pelo Serviço de Urbanismo.
 
-###### Art. 13.º - 1. A Comissão de Viação é o órgão consultivo, orientador e coordenador, a nível provincial, para os assuntos relativos a viação e trânsito rodoviário, sua regulamentação e fiscalização e repartição de tráfego, e à concessão e exploração de transportes rodoviários.
+Art. 13.º - 1. A Comissão de Viação é o órgão consultivo, orientador e coordenador, a nível provincial, para os assuntos relativos a viação e trânsito rodoviário, sua regulamentação e fiscalização e repartição de tráfego, e à concessão e exploração de transportes rodoviários.
 
 2. A constituição da Comissão é a seguinte:
 
@@ -354,7 +370,7 @@ SUESECÇÃO II
 
 Dos serviços regionais
 
-###### Art. 14.º - 1. Os serviços regionais, que são directamente orientados pela Direcção Provincial, constituem direcções regionais e repartições distritais, compreendendo, além das divisões e secções técnicas e administrativas necessárias, uma secção de viação, quando possível.
+Art. 14.º - 1. Os serviços regionais, que são directamente orientados pela Direcção Provincial, constituem direcções regionais e repartições distritais, compreendendo, além das divisões e secções técnicas e administrativas necessárias, uma secção de viação, quando possível.
 
 2. As direcções regionais abrangem, em regra, mais do que um distrito, prestando orientação e apoio técnico às respectivas repartições distritais.
 
@@ -362,7 +378,7 @@ Dos serviços regionais
 
 #### SECÇÃO II — Em Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor
 
-###### Art. 15.º - 1. As Repartições Províncias das Serviços de Obras Públicas e Transportes dispõem de uma Divisão Administrativa, uma Divisão Técnica e uma Secção de Viação.
+Art. 15.º - 1. As Repartições Províncias das Serviços de Obras Públicas e Transportes dispõem de uma Divisão Administrativa, uma Divisão Técnica e uma Secção de Viação.
 
 2. A Divisão Administrativa compreende, além da Secretaria, as Secções de Contabilidade e de Armazém, competindo-lhe:
 
@@ -416,7 +432,7 @@ n) Assegurar a manutenção do equipamento mecânico e de transportes, indispens
 
 4. A Secção de Viação compete todo o serviço respeitante ao cumprimento do Código da Estrada e demais legislação subsidiária, anteriormente desempenhado pelas comissões técnicas de automobilismo.
 
-###### Art. 16.º - 1. Junto de cada uma das Repartições Provinciais dos Serviços de Obras Públicas e Transportes funciona a comissão de viação, como órgão consultivo, orientador e coordenador, a nível provincial, para os assuntos relativos a viação e trânsito rodoviário, sua regulamentação e fiscalização e à concessão e exploração de transportes rodoviários, sendo o respectivo expediente assegurado pela Secção de Viação.
+Art. 16.º - 1. Junto de cada uma das Repartições Provinciais dos Serviços de Obras Públicas e Transportes funciona a comissão de viação, como órgão consultivo, orientador e coordenador, a nível provincial, para os assuntos relativos a viação e trânsito rodoviário, sua regulamentação e fiscalização e à concessão e exploração de transportes rodoviários, sendo o respectivo expediente assegurado pela Secção de Viação.
 
 2. Os Governadores provinciais regularão em diploma provincial o funcionamento e atribuições da Comissão, cuja constituição é a seguinte:
 
@@ -448,15 +464,15 @@ Um engenheiro ou um adjunto técnico dos Serviços de Obras Públicas e Transpor
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 17.º - 1. O pessoal dos serviços de obras públicas e transportes do ultramar distribui-se por um quadro comum a todas as províncias, com designação de quadro comum de obras públicas do ultramar, e por quadros privativos de cada província.
+Art. 17.º - 1. O pessoal dos serviços de obras públicas e transportes do ultramar distribui-se por um quadro comum a todas as províncias, com designação de quadro comum de obras públicas do ultramar, e por quadros privativos de cada província.
 
 2. O quadro comum abrange as unidades e categorias indicadas no mapa III anexo a este diploma.
 
 3. Os quadros privativos das províncias serão fixados pelos respectivos Governos, conforme as necessidades dos serviços e observado o disposto no mapa XI anexo a este diploma.
 
-###### Art. 18.º Os quadros de pessoal de cada uma das províncias ultramarinas são os fixados nos mapas IV a X anexos ao presente diploma e que dele fazem parte integrante.
+Art. 18.º Os quadros de pessoal de cada uma das províncias ultramarinas são os fixados nos mapas IV a X anexos ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 19.º - 1. O pessoal dos quadros referidos no artigo 17.º é classificado em:
+Art. 19.º - 1. O pessoal dos quadros referidos no artigo 17.º é classificado em:
 
 Pessoal técnico superior;
 
@@ -484,7 +500,7 @@ Pessoal operário e serventuário.
 
 #### SECÇÃO II — Das remunerações especiais
 
-###### Art. 20.º - 1. Ao pessoal do quadro comum de obras públicas do ultramar são atribuídas as gratificações mensais indicadas no mapa I, que faz parte integrante deste diploma.
+Art. 20.º - 1. Ao pessoal do quadro comum de obras públicas do ultramar são atribuídas as gratificações mensais indicadas no mapa I, que faz parte integrante deste diploma.
 
 2. Ficam os Governadores das províncias ultramarinas autorizados a alterar os quantitativos daquelas gratificações quando o considerarem conveniente, com vista à sua uniformização relativamente a outros serviços.
 
@@ -500,11 +516,11 @@ Pessoal operário e serventuário.
 
 8. Não tem direito a subsídio diário o pessoal assalariado.
 
-###### Art. 21.º Os substitutos legais nos cargos de direcção ou de chefia dos diversos departamentos dos serviços, quando em exercício das respectivos funções, serão abonados das correspondentes gratificações de chefia.
+Art. 21.º Os substitutos legais nos cargos de direcção ou de chefia dos diversos departamentos dos serviços, quando em exercício das respectivos funções, serão abonados das correspondentes gratificações de chefia.
 
 #### SECÇÃO III — Das condições especiais de provimento
 
-###### Art. 22.º - 1. Os lugares de técnico-director são desempenhados por funcionários habilitados com os seguintes cursos superiores:
+Art. 22.º - 1. Os lugares de técnico-director são desempenhados por funcionários habilitados com os seguintes cursos superiores:
 
 a) De Engenharia Civil, os de inspector provincial, director provincial, subdirector provincial e director de serviço de edifícios;
 
@@ -538,59 +554,59 @@ c) De Engenharia Civil ou de Arquitectura, os de chefe de divisão dos serviços
 
 5. Os lugares de chefe de divisão administrativa das repartições provinciais são desempenhados por indivíduos habilitados com o curso de Direito, de Finanças, de Economia, de Ciências Económicas e Financeiras ou de Ciências Sociais e Política Ultramarina.
 
-###### Art. 23.º - 1. Os lugares de técnico de 2.ª classe são providos, mediante concurso documental, por indivíduos habilitados com o curso superior de Engenharia ou Arquitectura, consoante a especialidade requerida para cada caso.
+Art. 23.º - 1. Os lugares de técnico de 2.ª classe são providos, mediante concurso documental, por indivíduos habilitados com o curso superior de Engenharia ou Arquitectura, consoante a especialidade requerida para cada caso.
 
 2. Quando se verifique a impossibilidade de preencher, nos termos referidos no número anterior, todas as vagas de técnico de 2.ª classe da especialidade de engenharia, poderão os lugares respectivos ser providos, a título interino, por adjuntos-técnicos principais, da especialidade correspondente.
 
 3. Os técnicos de 2.ª classe do quadro de nomeação com mais de dois anos de serviço ininterrupto nessa categoria, com boas informações, transitam automàticamente para a categoria de técnico de 1.ª classe por simples despacho ministerial, a publicar no Diário do Governo, ficando os Governos provinciais autorizados a promover os necessários ajustamentos orçamentais para o efeito.
 
-###### Art. 24.º As vagas de técnico-chefe são preenchidas por escolha entre os técnicos de 1.ª classe com, pelo menos, três anos de serviço nesta classe, com boas informações.
+Art. 24.º As vagas de técnico-chefe são preenchidas por escolha entre os técnicos de 1.ª classe com, pelo menos, três anos de serviço nesta classe, com boas informações.
 
-###### Art. 25.º O provimento das vagas de técnico-director é feito por escolha entre funcionários com a categoria de técnico-chefe com, pelo menos, cinco anos de serviço nesta categoria, com boas informações.
+Art. 25.º O provimento das vagas de técnico-director é feito por escolha entre funcionários com a categoria de técnico-chefe com, pelo menos, cinco anos de serviço nesta categoria, com boas informações.
 
-###### Art. 26.º - 1. Os lugares de adjunto técnico de 2.ª classe são providos, mediante concurso documental, por indivíduos habilitados com um curso médio de Engenharia, de especialidade adequada.
+Art. 26.º - 1. Os lugares de adjunto técnico de 2.ª classe são providos, mediante concurso documental, por indivíduos habilitados com um curso médio de Engenharia, de especialidade adequada.
 
 2. Quando se verificar a impossibilidade de preencher as vagas de adjunto técnico de 2.ª classe, nos termos do número anterior, podem as referidas vagas ser providas, interinamente por escolha entre técnicos auxiliares de categoria da letra J.
 
 3. Os adjuntos técnicos de 2.ª classe do quadro de nomeação com mais de dois anos de serviço ininterrupto nessa categoria, com boas informações, transitam automàticamente para a categoria de adjunto técnico de 1.ª classe, por simples despacho ministerial a publicar no Diário do Governo, ficando os Governos provinciais autorizados a promover os necessários ajustamentos orçamentais para o efeito.
 
-###### Art. 27.º Os lugares de adjunto técnico principal são providos por escolha entre adjuntos técnicos de 1.ª classe que possuam, pelo menos, três anos de serviço nesta classe, com boas informações.
+Art. 27.º Os lugares de adjunto técnico principal são providos por escolha entre adjuntos técnicos de 1.ª classe que possuam, pelo menos, três anos de serviço nesta classe, com boas informações.
 
-###### Art. 28.º Os adjuntos técnicos principais com mais de cinco anos de serviço na classe, com boas informações, terão, para todos os efeitos legais, os vencimentos correspondentes à letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 28.º Os adjuntos técnicos principais com mais de cinco anos de serviço na classe, com boas informações, terão, para todos os efeitos legais, os vencimentos correspondentes à letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 29.º - 1. Os lugares de técnico-chefe, técnicos ide 1.ª e 2.ª classes, adjunto técnico principal e adjuntos técnicos de 1.ª e 2.ª classes poderão ser preenchidos, em regime de comissão ordinária de serviço, por funcionários de igual categoria e especialidade dos quadros de nomeação de outros serviços públicos metropolitanos ou ultramarinos.
+Art. 29.º - 1. Os lugares de técnico-chefe, técnicos ide 1.ª e 2.ª classes, adjunto técnico principal e adjuntos técnicos de 1.ª e 2.ª classes poderão ser preenchidos, em regime de comissão ordinária de serviço, por funcionários de igual categoria e especialidade dos quadros de nomeação de outros serviços públicos metropolitanos ou ultramarinos.
 
 2. Os lugares referidos no n.º 1 poderão também ser preenchidos, em regime de comissão ordinária de serviço, por funcionários da mesma especialidade e de categoria imediatamente inferior dos quadros de nomeação de outros serviços públicos metropolitanos ou ultramarinos que tenham, pelo menos, cinco anos de serviço nesta categoria, com boas informações.
 
 3. As comissões de serviço a que se referem os números anteriores serão, pelo prazo de dois anos, renováveis, de comum acordo, por mais dois anos, findos os quais os funcionários regressarão aos quadros de origem ou poderão, se o requererem com a antecedência de noventa dias e convier à Administração, ingressar no quadro comum de obras públicas do ultramar, nos lugares que ocupam.
 
-###### Art. 30.º - 1. Quando as circunstâncias o aconselharem, os lugares referidos no artigo anterior poderão ser preenchidos, em regime de contrato, por indivíduos estranhos aos quadros, com as habilitações exigidas, que tenham revelado competência na sua actividade profissional e contem no exercício da profissão mais de dez, cinco e dois anos, conforme se trate de técnicos-chefes e adjuntos técnicos principais, técnicos e adjuntos técnicos de 1.ª classe ou técnicos e adjuntos técnicos de 2.ª classe.
+Art. 30.º - 1. Quando as circunstâncias o aconselharem, os lugares referidos no artigo anterior poderão ser preenchidos, em regime de contrato, por indivíduos estranhos aos quadros, com as habilitações exigidas, que tenham revelado competência na sua actividade profissional e contem no exercício da profissão mais de dez, cinco e dois anos, conforme se trate de técnicos-chefes e adjuntos técnicos principais, técnicos e adjuntos técnicos de 1.ª classe ou técnicos e adjuntos técnicos de 2.ª classe.
 
 2. Os técnicos referidos no número anterior que tenham prestado cinco anos de serviço como contratados, com boas informações, poderão, se o requererem e convier à Administração, ingressar no quadro comum de obras públicas do ultramar nos lugares que ocupam.
 
-###### Art. 31.º - 1. A divisão de contabilidade e património das direcções provinciais será chefiada, em comissão, por um chefe de secção do quadro dos serviços de finanças.
+Art. 31.º - 1. A divisão de contabilidade e património das direcções provinciais será chefiada, em comissão, por um chefe de secção do quadro dos serviços de finanças.
 
 2. Nas suas faltas, ausências ou impedimentos, o chefe da divisão será substituído por um dos chefes de secção, designado para o efeito por despacho do director provincial dos serviços.
 
 3. Ao chefe de secção do quadro dos serviços de finanças que for nomeado para chefiar a divisão de contabilidade e património aplicar-se-á o disposto no n.º 4 do artigo 23.º do [Decreto n.º 49446](https://diariodarepublica.pt/dr/detalhe/decreto/49446-1969-216479), de 18 de Dezembro de 1969.
 
-###### Art. 32.º - 1. Os lugares de chefe de secretaria nas províncias de Angola e Moçambique serão providos por escolha entre os chefes de secção de expediente dos quadros dos serviços das respectivas províncias.
+Art. 32.º - 1. Os lugares de chefe de secretaria nas províncias de Angola e Moçambique serão providos por escolha entre os chefes de secção de expediente dos quadros dos serviços das respectivas províncias.
 
 2. A escolha para preenchimento das primeiras vagas poderá, no entanto, ser feita não só entre aqueles chefes de secção, mas também entre primeiros-oficiais dos mesmos quadros com, pelo menos, cinco anos de serviço na categoria.
 
-###### Art. 33.º - 1. Ficam os Governadores provinciais autorizados a fazer a colocação do pessoal e o seu ajustamento às novas designações, mediante despacho publicado no Boletim Oficial, sem carência de qualquer outra formalidade ou visto, nos lugares constantes dos quadros fixados nos mapas IV a X e nos lugares dos quadros privativos que venham a fixar-se nos termos do n.º 3 do artigo 17.º, mantendo todos os direitos adquiridos e tendo em atenção o determinado nos artigos 34.º a 41.º
+Art. 33.º - 1. Ficam os Governadores provinciais autorizados a fazer a colocação do pessoal e o seu ajustamento às novas designações, mediante despacho publicado no Boletim Oficial, sem carência de qualquer outra formalidade ou visto, nos lugares constantes dos quadros fixados nos mapas IV a X e nos lugares dos quadros privativos que venham a fixar-se nos termos do n.º 3 do artigo 17.º, mantendo todos os direitos adquiridos e tendo em atenção o determinado nos artigos 34.º a 41.º
 
 2. Até que sejam fixados e orçamentados os novos quadros privativos, nos termos do n.º 3 do artigo 17.º, consideram-se estes constituídos pelas unidades das diferentes categorias e designações existentes à data da publicação do presente diploma.
 
-###### Art. 34.º Os engenheiros e arquitectos em serviço à data da publicação deste diploma, que já pertençam aos quadros dos serviços por nomeação definitiva ou provisória transitam para lugares das mesmas categorias, continuando no desempenho das mesmas funções quando estas não passem a competir a técnico de categoria superior.
+Art. 34.º Os engenheiros e arquitectos em serviço à data da publicação deste diploma, que já pertençam aos quadros dos serviços por nomeação definitiva ou provisória transitam para lugares das mesmas categorias, continuando no desempenho das mesmas funções quando estas não passem a competir a técnico de categoria superior.
 
-###### Art. 35.º Transitam para os lugares de adjunto técnico de 1.ª classe os actuais inspectores de viação e trânsito das províncias de Angola e Moçambique.
+Art. 35.º Transitam para os lugares de adjunto técnico de 1.ª classe os actuais inspectores de viação e trânsito das províncias de Angola e Moçambique.
 
-###### Art. 36.º Para os lugares de subdirector-adjunto transitam os funcionários que presentemente desempenham as funções de adjuntos administrativos das províncias de Angola e Moçambique.
+Art. 36.º Para os lugares de subdirector-adjunto transitam os funcionários que presentemente desempenham as funções de adjuntos administrativos das províncias de Angola e Moçambique.
 
-###### Art. 37.º Para os lugares de chefe de repartição de pessoal e expediente geral transitam os funcionários que presentemente desempenham as funções de chefe de secretaria central de Angola e Moçambique.
+Art. 37.º Para os lugares de chefe de repartição de pessoal e expediente geral transitam os funcionários que presentemente desempenham as funções de chefe de secretaria central de Angola e Moçambique.
 
-###### Art. 38.º - 1. O pessoal dos actuais quadros privativos adiante designados, que à data da publicação do presente decreto exerça funções de nomeação definitiva ou provisória ou em regime de contrato, transita para os novos quadros de nomeação pela seguinte forma:
+Art. 38.º - 1. O pessoal dos actuais quadros privativos adiante designados, que à data da publicação do presente decreto exerça funções de nomeação definitiva ou provisória ou em regime de contrato, transita para os novos quadros de nomeação pela seguinte forma:
 
 a) Os tesoureiros-pagadores de 1.ª classe (letra L) e os contabilistas contratados (letra L), para primeiro-oficial;
 
@@ -612,15 +628,15 @@ i) Os escriturários de 3.ª classe contratados (letra U), os dactilógrafos, in
 
 j) Os contínuos de 1.ª e 2.ª classes (letras V e X) e o contínuo auxiliar (letra Y), para contínuo.
 
-###### Art. 39.º O pessoal em serviço à data da publicação do presente decreto que exerça já funções em regime de contrato fora dos quadros pode, depois de feito o movimento referido nos artigos anteriores, ingressar nos lugares vagos dos quadros de nomeação nas mesmas categorias em que se encontre investido, independentemente da idade, desde que assim o requeiram no prazo de sessenta dias, tenham boas informações e reúnam as necessárias aptidões para o desempenho dos cargos.
+Art. 39.º O pessoal em serviço à data da publicação do presente decreto que exerça já funções em regime de contrato fora dos quadros pode, depois de feito o movimento referido nos artigos anteriores, ingressar nos lugares vagos dos quadros de nomeação nas mesmas categorias em que se encontre investido, independentemente da idade, desde que assim o requeiram no prazo de sessenta dias, tenham boas informações e reúnam as necessárias aptidões para o desempenho dos cargos.
 
-###### Art. 40.º O pessoal do quadro complementar das construções escolares da Direcção das Serviços de Obras Públicas e Transportes de Angola, agora extinto, transita para os quadros permanentes da mesma Direcção Provincial, nos termos e forma estabelecidos no artigo 33.º
+Art. 40.º O pessoal do quadro complementar das construções escolares da Direcção das Serviços de Obras Públicas e Transportes de Angola, agora extinto, transita para os quadros permanentes da mesma Direcção Provincial, nos termos e forma estabelecidos no artigo 33.º
 
-###### Art. 41.º O pessoal do quadro da Brigada de Melhoramentos locais e dos quadros complementares das construções escolares e hospitalares da Direcção dos Serviços de Obras Públicas e Transportes de Moçambique, agora extintos, transita para os quadros permanentes da mesma Direcção Provincial, nos termos e forma estabelecidos no artigo 33.º
+Art. 41.º O pessoal do quadro da Brigada de Melhoramentos locais e dos quadros complementares das construções escolares e hospitalares da Direcção dos Serviços de Obras Públicas e Transportes de Moçambique, agora extintos, transita para os quadros permanentes da mesma Direcção Provincial, nos termos e forma estabelecidos no artigo 33.º
 
 #### SECÇÃO IV — Das atribuições e competência do pessoal
 
-###### Art. 42.º Aos inspectores provinciais de obras públicas compete:
+Art. 42.º Aos inspectores provinciais de obras públicas compete:
 
 a) Elaborar, no mês de Janeiro de cada ano, em colaboração com o director provincial dos serviços, o plano de inspecções a realizar aos serviços regionais;
 
@@ -628,7 +644,7 @@ b) Submeter o plano de inspecções à aprovação do Governador-Geral e execut�
 
 c) Executar os estudos, trabalhos, relatórios, pareceres e outros serviços ordenados pelo Governador-Geral.
 
-###### Art. 43.º Aos directores provinciais, além da competência decorrente de disposições especiais, incumbe:
+Art. 43.º Aos directores provinciais, além da competência decorrente de disposições especiais, incumbe:
 
 a) Superintender em todos os serviços e departamentos das respectivas direcções provinciais, dando orientação geral às actividades dos serviços centrais e regionais, submetendo a despacho do Governador-Geral os assuntos que de tal careçam, devidamente informados e com o seu parecer, e resolvendo directamente todos os restantes;
 
@@ -656,7 +672,7 @@ k) Intervir, como representante do Governo da província, na assinatura dos cont
 
 l) Delegar nos subdirectores, directores de serviço, directores regionais, chefes de repartição de pessoal e expediente geral, chefes de serviços regionais e noutros funcionários directamente subordinados as funções que entender convenientes, excepto as referidas nas alíneas b) e d).
 
-###### Art. 44.º Ao subdirector provincial compete:
+Art. 44.º Ao subdirector provincial compete:
 
 a) Coadjuvar o director provincial no desempenho das suas atribuições e substituí-lo nas suas faltas ou ausências;
 
@@ -664,7 +680,7 @@ b) Exercer as funções que lhe forem confiadas ou delegadas pelo director provi
 
 c) Estudar, informar e preparar todos os processos e assuntos que lhe sejam distribuídos pelo director provincial.
 
-###### Art. 45.º Ao subdirector-adjunto compete:
+Art. 45.º Ao subdirector-adjunto compete:
 
 a) Coadjuvar o director provincial na condução dos serviços de carácter administrativo, exercer as funções que lhe forem delegadas e estudar e informar os processos que lhe forem distribuídos;
 
@@ -672,7 +688,7 @@ b) Inspeccionar e promover inspecções dos serviços administrativos das repart
 
 c) Cumprir as atribuições fixadas na alínea b) do artigo 27.º do [Decreto n.º 49446](https://diariodarepublica.pt/dr/detalhe/decreto/49446-1969-216479), de 18 de Dezembro de 1969, sem prejuízo do que vier a ser regulamentado nos termos da alínea c) do artigo 46.º do presente diploma.
 
-###### Art. 46.º Ao adjunto administrativo compete:
+Art. 46.º Ao adjunto administrativo compete:
 
 a) Coadjuvar o subdirector-adjunto na execução das missões que lhe forem confiadas;
 
@@ -680,7 +696,7 @@ b) Realizar periòdicamente, sob a orientação do subdirector-adjunto, inspecç
 
 c) Exercer as funções que lhe forem atribuídas pelo director provincial e designadamente aquelas que em pormenor venham a ser fixadas no regulamento dos serviços.
 
-###### Art. 47.º Aos chefes das repartições provinciais, além de atribuições idênticas às definidas nas alíneas a), c), e), f), h), i) e j) do artigo 43.º, incumbe:
+Art. 47.º Aos chefes das repartições provinciais, além de atribuições idênticas às definidas nas alíneas a), c), e), f), h), i) e j) do artigo 43.º, incumbe:
 
 a) Administrar as dotações que forem postas à disposição dos serviços e autorizar a liquidação de despesas que não excedam a importância de 100000$00;
 
@@ -690,7 +706,7 @@ c) Distribuir o pessoal pelos diversos departamentos de acordo com as necessidad
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 48.º - 1. São extintas as comissões técnicas de automobilismo existentes nas províncias ultramarinas, passando as secções de viação referidas nos artigos 9.º, n.º 5, 14.º e l5.º a desempenhar as funções e serviços que àquelas competiam.
+Art. 48.º - 1. São extintas as comissões técnicas de automobilismo existentes nas províncias ultramarinas, passando as secções de viação referidas nos artigos 9.º, n.º 5, 14.º e l5.º a desempenhar as funções e serviços que àquelas competiam.
 
 2. Os Governadores provinciais poderão criar delegações das secções de viação em localidades em que tal se justifique.
 
@@ -702,29 +718,29 @@ c) Distribuir o pessoal pelos diversos departamentos de acordo com as necessidad
 
 6. A actividade dos membros dos júris de exame será remunerada mediante gratificações especiais a fixar em diploma da província.
 
-###### Art. 49.º - 1. A chefia das direcções regionais, na falta, ausência ou impedimento de técnicos-chefes será exercida, sob proposta do director provincial, por técnicos de 1.ª ou 2.ª classes, ou ainda por adjuntos técnicos, que ficarão com direito, enquanto durar o exercício do cargo, às respectivas gratificações.
+Art. 49.º - 1. A chefia das direcções regionais, na falta, ausência ou impedimento de técnicos-chefes será exercida, sob proposta do director provincial, por técnicos de 1.ª ou 2.ª classes, ou ainda por adjuntos técnicos, que ficarão com direito, enquanto durar o exercício do cargo, às respectivas gratificações.
 
 2. A chefia das repartições distritais, na falta, ausência ou impedimento de técnicos de 1.ª classe, será exercida sob proposta do director provincial, por técnicos de 2.ª classe, adjuntos técnicos ou funcionários do quadro técnico auxiliar que, enquanto durar o exercício do cargo, ficarão com direito às gratificações correspondentes.
 
 3. Em caso de necessidade e conveniência de serviço poderá o Governador-Geral autorizar, sob proposta do director provincial, que a chefia de qualquer repartição distrital seja confiada temporàriamente, em regime de acumulação, a um engenheiro de categoria e especialidade adequada, que, sendo funcionário de outro serviço público, desempenhe as suas funções, com carácter permanente, na localidade sede da repartição distrital.
 
-###### Art. 50.º Nas províncias de Cabo Verde e de Macau os serviços de agrimensura e cadastro mantêm-se integrados nas respectivas Repartições Provinciais dos Serviços de Obras Públicas e Transportes, constituindo uma secção da sua divisão técnica, enquanto não se justificar a criação de serviço independente.
+Art. 50.º Nas províncias de Cabo Verde e de Macau os serviços de agrimensura e cadastro mantêm-se integrados nas respectivas Repartições Provinciais dos Serviços de Obras Públicas e Transportes, constituindo uma secção da sua divisão técnica, enquanto não se justificar a criação de serviço independente.
 
-###### Art. 51.º Nas províncias de S. Tomé e Príncipe e de Macau os Serviços de Obras dos Portos mantêm-se integrados nas respectivas Repartições Provinciais dos Serviços de Obras Públicas e Transportes enquanto não se justificar a criação de serviço independente.
+Art. 51.º Nas províncias de S. Tomé e Príncipe e de Macau os Serviços de Obras dos Portos mantêm-se integrados nas respectivas Repartições Provinciais dos Serviços de Obras Públicas e Transportes enquanto não se justificar a criação de serviço independente.
 
-###### Art. 52.º - 1. Enquanto for julgado conveniente pelo Governador de Macau, manter-se-ão a cargo da respectiva Repartição Provincial dos Serviços de Obras Públicas e Transportes os serviços de carácter municipal que ali têm estado integrados.
+Art. 52.º - 1. Enquanto for julgado conveniente pelo Governador de Macau, manter-se-ão a cargo da respectiva Repartição Provincial dos Serviços de Obras Públicas e Transportes os serviços de carácter municipal que ali têm estado integrados.
 
 2. O Governador de Macau decidirá da oportunidade em que o serviço de viação, que tem funcionado na Câmara Municipal, deverá ser integrado na Repartição Provincial dos Serviços de Obras Públicas e Transportes.
 
-###### Art. 53.º Enquanto não estiver completamente assegurada a cobertura técnica das províncias pelos serviços a que respeita o presente diploma continuam a ser delegados destes serviços, nos concelhos ou circunscrições onde seja necessário, os respectivos administradores ou seus substitutos legais.
+Art. 53.º Enquanto não estiver completamente assegurada a cobertura técnica das províncias pelos serviços a que respeita o presente diploma continuam a ser delegados destes serviços, nos concelhos ou circunscrições onde seja necessário, os respectivos administradores ou seus substitutos legais.
 
-###### Art. 54.º São exactores de Fazenda:
+Art. 54.º São exactores de Fazenda:
 
 a) Por gerência de fundos:
 
 O subdirector-adjunto e os chefes de serviços regionais das Direcções Provinciais, em Angola e Moçambique;
 
-**O chefe de divisão administrativa das repartições provinciais, nas restantes províncias;**
+O chefe de divisão administrativa das repartições provinciais, nas restantes províncias;
 
 b) Por cobrança de receitas:
 
@@ -732,15 +748,15 @@ Em Angola e Moçambique, os funcionários que desempenhem as funções de chefe 
 
 Nas restantes províncias, os funcionários que desempenhem as funções de chefe de secretaria das respectivas repartições.
 
-###### Art. 55.º Os funcionários responsáveis por cargas serão designados no regulamento dos serviços.
+Art. 55.º Os funcionários responsáveis por cargas serão designados no regulamento dos serviços.
 
-###### Art. 56.º Independentemente do pagamento, nos termos legais, dos trabalhos executados em horas extraordinárias, aos funcionários dos serviços a que respeita o presente diploma que hajam demonstrado zelo, competência e dedicação especiais poderão ser atribuídos, por despacho dos Governadores provinciais, prémios pecuniários.
+Art. 56.º Independentemente do pagamento, nos termos legais, dos trabalhos executados em horas extraordinárias, aos funcionários dos serviços a que respeita o presente diploma que hajam demonstrado zelo, competência e dedicação especiais poderão ser atribuídos, por despacho dos Governadores provinciais, prémios pecuniários.
 
 Ant. 57.º - 1. Ficam os Governadores-Gerais de Angola e de Moçambique autorizados a criar um fundo de viação, cuja gerência ficará a cargo das Direcções Provinciais dos serviços de Obras Públicas e Transportes, destinado a suportar as despesas de apetrechamento e funcionamento do Serviço de Viação, com exclusão de vencimentos e demais abonos legais ao pessoal dos quadros dos Serviços, no sentido de proporcionar os meios necessários ao melhor ordenamento de trânsito e intensificação da sua fiscalização e garantir maior segurança de circulação.
 
 2. Para efeitos do número anterior, ficam também autorizados aqueles Governadores-Gerais a rever a actual distribuição e utilização das receitas cobradas pelo Serviço de Viação e a alterar os respectivos quantitativos.
 
-###### Art. 58.º No prazo de cento e vinte dias, a partir da entrada em vigor do presente diploma, em cada província devem ser submetidos à aprovação dos Governadores provinciais os projectos dos regulamentos necessários à sua execução, nos quais se estabelecerão, nomeadamente:
+Art. 58.º No prazo de cento e vinte dias, a partir da entrada em vigor do presente diploma, em cada província devem ser submetidos à aprovação dos Governadores provinciais os projectos dos regulamentos necessários à sua execução, nos quais se estabelecerão, nomeadamente:
 
 a) As sedes dos serviços regionais, áreas de jurisdição e sua constituição;
 
@@ -750,13 +766,13 @@ c) As condições de admissão e promoção do pessoal dos quadros privativos da
 
 d) As condições de constituição e utilização do fundo de viação.
 
-###### Art. 59.º São mantidas em vigor as disposições do [Decreto n.º 49446](https://diariodarepublica.pt/dr/detalhe/decreto/49446-1969-216479), de 18 de Dezembro de 1969, que se consideram harmonizadas com as novas designações e orgânica estabelecidas pelo presente diploma, observadas as necessárias adaptações, com excepção dos n.os 1 do artigo 1.º, 5 do artigo 2.º, 3 do artigo 3.º, 6 do artigo 4.º e artigo 18.º, que passam a ter as seguintes redacções:
+Art. 59.º São mantidas em vigor as disposições do [Decreto n.º 49446](https://diariodarepublica.pt/dr/detalhe/decreto/49446-1969-216479), de 18 de Dezembro de 1969, que se consideram harmonizadas com as novas designações e orgânica estabelecidas pelo presente diploma, observadas as necessárias adaptações, com excepção dos n.os 1 do artigo 1.º, 5 do artigo 2.º, 3 do artigo 3.º, 6 do artigo 4.º e artigo 18.º, que passam a ter as seguintes redacções:
 
-###### Artigo 1.º - 1. As Direcções Provinciais dos Serviços de Obras Públicas e Transportes de Angola e Moçambique e respectivos serviços regionais e às Repartições de Obras Públicas e Transportes das Províncias da Guiné, S. Tomé e Príncipe, Cabo Verde, Macau e Timor compete o pagamento de todas as despesas com obras e aquisições inerentes, devidamente autorizadas e realizadas sob sua responsabilidade, sejam quais forem as verbas por que tais pagamentos devam ser efectuados.
+Artigo 1.º - 1. As Direcções Provinciais dos Serviços de Obras Públicas e Transportes de Angola e Moçambique e respectivos serviços regionais e às Repartições de Obras Públicas e Transportes das Províncias da Guiné, S. Tomé e Príncipe, Cabo Verde, Macau e Timor compete o pagamento de todas as despesas com obras e aquisições inerentes, devidamente autorizadas e realizadas sob sua responsabilidade, sejam quais forem as verbas por que tais pagamentos devam ser efectuados.
 
 ...
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 ...
 
@@ -764,13 +780,13 @@ d) As condições de constituição e utilização do fundo de viação.
 
 ...
 
-###### Art. 3.º - 1. ...
+Art. 3.º - 1. ...
 
 ...
 
 3. As importâncias requisitadas a mais para os pagamentos de cada mês transitarão em saldo para as contas do mês seguinte.
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 ...
 
@@ -778,25 +794,25 @@ d) As condições de constituição e utilização do fundo de viação.
 
 ...
 
-###### Art. 18.º É autorizada a utilização da escrituração mecanográfica, podendo os serviços introduzir, para tal fim, as alterações necessárias nos modelos anexos ou criar outros que se vierem a mostrar necessários.
+Art. 18.º É autorizada a utilização da escrituração mecanográfica, podendo os serviços introduzir, para tal fim, as alterações necessárias nos modelos anexos ou criar outros que se vierem a mostrar necessários.
 
-###### Art. 60.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor a execução das disposições constantes do n.º 3 do artigo 17.º, do artigo 20.º e do artigo 38.º do presente diploma poderá fazer-se parcial e progressivamente, segundo o critério dos respectivos Governadores, de acordo com as condições particulares de cada província e com observância do disposto no n.º 2 do artigo 33.º
+Art. 60.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor a execução das disposições constantes do n.º 3 do artigo 17.º, do artigo 20.º e do artigo 38.º do presente diploma poderá fazer-se parcial e progressivamente, segundo o critério dos respectivos Governadores, de acordo com as condições particulares de cada província e com observância do disposto no n.º 2 do artigo 33.º
 
-###### Art. 61.º O presente decreto entra em vigor em 1 de Janeiro de 1973.
+Art. 61.º O presente decreto entra em vigor em 1 de Janeiro de 1973.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Novembro de 1972.**
+Promulgado em 10 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Do MAPA I ao MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27300/17181730.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27300/17181730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27300/17181730.pdf)
 
 MAPA IV
 
@@ -1122,4 +1138,4 @@ Escriturário-dactilógrafo de 2.ª classe ... U
 
 Contínuo ... V
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

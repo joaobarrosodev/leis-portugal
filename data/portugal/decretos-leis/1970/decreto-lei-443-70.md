@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 221/1970, 1º Suplemento, Série I de 1970-09-23
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1356-(2) a 1356-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/22101/00020004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1970-666347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8631414eb76d24a8e1bce9f2a8525246f751bbfa30300e68ab66d43642e6e94e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a823afb3d25491950b61189fae37d9a18bb8761884b009c0f0b56ec5c1835b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Federação das Casas do POVO
+- Gestão Financeira
+- Orgânica
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:468391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468391:por
+  label: "Extintas as federações de Casas do Povo, reguladas pelo presente diploma, pelo DEC LEI.737/74.23.12.1974.MAS, DG.IS\
+    \ [298] de 23.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/737-1974-468391
+  date: '1974-12-23'
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254674:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147247:por
+  label: "Rectificado [relativamente à al. b) do art. 8º e ao nº 3 do art. 10º] pela RECT.DD414.19.11.1970.PC, DG.IS [269]\
+    \ de 19.11.1970\070\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-147247
+  date: '1970-11-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:17Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +131,17 @@ Considerando-se, assim, os inconvenientes da subsistência de um diploma só par
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As Casas do Povo podem agrupar-se em federações, cuja constituição, atribuições e funcionamento se regulam pelo presente diploma.
+Artigo 1.º As Casas do Povo podem agrupar-se em federações, cuja constituição, atribuições e funcionamento se regulam pelo presente diploma.
 
-###### Art. 2.º As federações são organismos corporativos intermédios da corporação e gozam de personalidade jurídica.
+Art. 2.º As federações são organismos corporativos intermédios da corporação e gozam de personalidade jurídica.
 
-###### Art. 3.º As federações são constituídas a requerimento das Casas do Povo interessadas ou mediante proposta doa Corporação da Lavoura e reger-se-ão por estatutos aprovados pelo Ministro das Corporações e Previdência Social.
+Art. 3.º As federações são constituídas a requerimento das Casas do Povo interessadas ou mediante proposta doa Corporação da Lavoura e reger-se-ão por estatutos aprovados pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 4.º - 1. As federações têm em regra âmbito distrital, mas, sempre que as circunstâncias o aconselhem, permitir-se-á a constituição dentro do mesmo distrito de duas ou mais federações.
+Art. 4.º - 1. As federações têm em regra âmbito distrital, mas, sempre que as circunstâncias o aconselhem, permitir-se-á a constituição dentro do mesmo distrito de duas ou mais federações.
 
 2. A título excepcional, e depois de ouvida a Corporação da Lavoura, poderão ainda incluir-se em qualquer das federações previstas no n.º 1 Casas do Povo estranhas aos respectivos distritos, sub-regiões ou regiões.
 
-###### Art. 5.º São atribuições das federações:
+Art. 5.º São atribuições das federações:
 
 a) Coordenar a actividade das Casas do Povo federadas em matéria de cooperação social e de representação profissional;
 
@@ -132,11 +161,11 @@ h) Tomar a iniciativa da construção de casas para trabalhadores rurais ou de b
 
 i) Exercer as funções políticas conferidas por lei.
 
-###### Art. 6.º As federações têm como órgãos o conselho da federação, a direcção da federação e a secção de representação profissional.
+Art. 6.º As federações têm como órgãos o conselho da federação, a direcção da federação e a secção de representação profissional.
 
-###### Art. 7.º O conselho da federação é formado pelos presidentes da assembleia geral e da direcção de todas as Casas do Povo federadas.
+Art. 7.º O conselho da federação é formado pelos presidentes da assembleia geral e da direcção de todas as Casas do Povo federadas.
 
-###### Art. 8.º Compete especialmente ao conselho da federação:
+Art. 8.º Compete especialmente ao conselho da federação:
 
 a) Eleger trienalmente, de entre os seus membros, o presidente e os secretários;
 
@@ -146,17 +175,17 @@ c) Apreciar e votar os orçamentos de cada exercício, bem como examinar e discu
 
 d) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pela direcção.
 
-###### Art. 9.º - 1. O conselho reúne ordinàriamente duas vezes por ano, e extraordinàriamente, sempre que for convocado por iniciativa, do seu presidente ou a requerimento da direcção ou da maioria dos membros do conselho.
+Art. 9.º - 1. O conselho reúne ordinàriamente duas vezes por ano, e extraordinàriamente, sempre que for convocado por iniciativa, do seu presidente ou a requerimento da direcção ou da maioria dos membros do conselho.
 
 2. São nulas as deliberações sobre assuntos estranhos aos da convocação.
 
-###### Art. 10.º - 1. A direcção da federação é composta pelo presidente, pelo vice-presidente e por três vogais, tendo o seu mandato a duração de três anos.
+Art. 10.º - 1. A direcção da federação é composta pelo presidente, pelo vice-presidente e por três vogais, tendo o seu mandato a duração de três anos.
 
 2. Será vice-presidente o vice-presidente da secção de representação profissional.
 
 3. A direcção designará de entre os vogais um secretário e o tesoureiro.
 
-###### Art. 11.º Compete à direcção:
+Art. 11.º Compete à direcção:
 
 a) Representar a federação em juízo e fora dele;
 
@@ -164,13 +193,13 @@ b) Apresentar ao conselho da federação as propostas orçamentais, assim como o
 
 c) Tomar todas as resoluções e praticar todos os actos conducentes à realização dos fins do organismo.
 
-###### Art. 12.º - 1. A secção de representação profissional é presidida pelo presidente da direcção da federação e composta por quatro vogais, eleitos trienalmente, de entre si, pelos vice-presidentes das direcções das Casas do Povo federadas.
+Art. 12.º - 1. A secção de representação profissional é presidida pelo presidente da direcção da federação e composta por quatro vogais, eleitos trienalmente, de entre si, pelos vice-presidentes das direcções das Casas do Povo federadas.
 
 2. Os vogais designarão, de entre si, o vice-presidente da secção.
 
 3. O vice-presidente da secção representará a federação no conselho da Corporação da Lavoura e será vogal do conselho geral da respectiva caixa regional de previdência e abono de família.
 
-###### Art. 13.º - 1. As funções de representação profissional das federações serão exercidas pela secção de representação profissional.
+Art. 13.º - 1. As funções de representação profissional das federações serão exercidas pela secção de representação profissional.
 
 2. No exercício das funções referidas no numero anterior, compete à secção de representação profissional:
 
@@ -186,7 +215,7 @@ e) Dar parecer sobre os problemas do trabalho agrícola, designadamente quanto �
 
 3. As secções de representação profissional deverão exercer as suas atribuições respeitantes à negociação e celebração de convenções colectivas em estreita colaboração com as comissões de representação profissional das Casas do Povo federadas, quando tenham sido constituídas.
 
-###### Art. 14.º - 1. Constituem receitas das federações:
+Art. 14.º - 1. Constituem receitas das federações:
 
 a) As contribuições das Casas do Povo federadas, nos termos que vierem a ser estabelecidos pelo conselho da federação;
 
@@ -198,18 +227,18 @@ d) Os juros das importâncias capitalizadas;
 
 e) Quaisquer outros rendimentos previstos por lei.
 
-###### Art. 15.º São garantidas às federações todas as regalias e isenções de que beneficiam as Casas do Povo.
+Art. 15.º São garantidas às federações todas as regalias e isenções de que beneficiam as Casas do Povo.
 
-###### Art. 16.º Em caso de dissolução, os bens das federações serão incorporados no património do Fundo Comum das Casas do Povo.
+Art. 16.º Em caso de dissolução, os bens das federações serão incorporados no património do Fundo Comum das Casas do Povo.
 
-###### Art. 17.º As federações regular-se-ão, no que não estiver estabelecido no presente diploma, pelas disposições aplicáveis da regulamentação das Casas do Povo.
+Art. 17.º As federações regular-se-ão, no que não estiver estabelecido no presente diploma, pelas disposições aplicáveis da regulamentação das Casas do Povo.
 
-###### Art. 18.º É revogado o [Decreto-Lei n.º 41286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41286-1957-254674), de 23 de Setembro de 1957.
+Art. 18.º É revogado o [Decreto-Lei n.º 41286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41286-1957-254674), de 23 de Setembro de 1957.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Setembro de 1970.**
+Promulgado em 16 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

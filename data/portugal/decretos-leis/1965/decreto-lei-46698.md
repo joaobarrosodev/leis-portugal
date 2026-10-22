@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46698-1965-507872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2d4edc5be7f006b3783adbe148ef65660d49c839e649e53f1d869bb1067aafa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5697f8d493cbbf707530c35025f30b7097b04cb0ceeaf80856aee86bbc749b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Hospitalar
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Médico
+- Ministro da Saúde e Assistência
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:24Z'
   warnings: []
   errors: []
 ---
@@ -123,19 +133,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro da Saúde e Assistência pode estabelecer, em hospitais ou serviços que para isso reúnam as necessárias condições, o regime de presença médica constante, em ordem a utilizar as instalações e o material durante o maior período que, em cada dia, seja possível.
+Artigo 1.º - 1. O Ministro da Saúde e Assistência pode estabelecer, em hospitais ou serviços que para isso reúnam as necessárias condições, o regime de presença médica constante, em ordem a utilizar as instalações e o material durante o maior período que, em cada dia, seja possível.
 
 2. O regime referido no número anterior obter-se-á pela presença de turnos de pessoal, cujo trabalho não excederá, em duração, o que constar do respectivo contrato ou das condições legais de admissão.
 
-###### Art. 2.º - 1. Pode o Ministro da Saúde e Assistência designar hospitais ou serviços nos quais todo ou parte do pessoal clínico trabalhe em tempo completo.
+Art. 2.º - 1. Pode o Ministro da Saúde e Assistência designar hospitais ou serviços nos quais todo ou parte do pessoal clínico trabalhe em tempo completo.
 
 2. Estabelecer-se-á, em regulamento, um regime transitório que salvaguarde os direitos dos médicos que trabalhem nesses serviços em tempo parcial e não desejem ingressar no horário de tempo completo.
 
-###### Art. 3.º Nos hospitais e serviços referidos nos artigos anteriores é aplicável, mediante portaria do Ministro da Saúde e Assistência, o regime de instalação, contido nos artigos 7.º a 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+Art. 3.º Nos hospitais e serviços referidos nos artigos anteriores é aplicável, mediante portaria do Ministro da Saúde e Assistência, o regime de instalação, contido nos artigos 7.º a 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
 
-###### Art. 4.º O pessoal que trabalhe nos referidos hospitais ou serviços à data da instauração de alguns dos regimes previstos nos artigos 1.º e 2.º poderá, sem perda de direitos adquiridos, desempenhar as funções que lhe sejam atribuídas, em regime de comissão de serviço, válida por todo o tempo que durar o período de instalação ou até à publicação dos quadros, se esta não coincidir com o fim daquele período.
+Art. 4.º O pessoal que trabalhe nos referidos hospitais ou serviços à data da instauração de alguns dos regimes previstos nos artigos 1.º e 2.º poderá, sem perda de direitos adquiridos, desempenhar as funções que lhe sejam atribuídas, em regime de comissão de serviço, válida por todo o tempo que durar o período de instalação ou até à publicação dos quadros, se esta não coincidir com o fim daquele período.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

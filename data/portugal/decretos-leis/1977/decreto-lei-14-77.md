@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/00400/00250027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1977-492721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b18657b8fdc65f8a7da00dd4a0fef3251fa8dad7bfbc80003ba535ef36115b1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d9bd2d0be4fb82ebe2424ce22f47f4df95520f78850cb4f4e2d0b3f0dff49c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Recursos Florestais
+- Exploração Florestal
+- Fiscalização
+- Fundo de Fomento Florestal
+- Montado de Azinho
+- Multa
+- Política Florestal
+- Proteção da Floresta
+- Rectificação de Numero de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:532240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:532240:por
+  label: "Revogado pelo Dec Lei.11/97.1997.01.14. MADRP, DR.IS-A [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1997-532240
+  date: '1997-01-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:58Z'
   warnings: []
   errors: []
 ---
@@ -108,21 +122,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O arranque, corte ou poda de azinheiras dependem de prévia autorização da Direcção-Geral dos Recursos Florestais.
+Artigo 1.º O arranque, corte ou poda de azinheiras dependem de prévia autorização da Direcção-Geral dos Recursos Florestais.
 
-###### Art. 2.º - 1. São proibidos os arranques ou cortes de azinheiras que provoquem o abaixamento do coberto para além do limite inferior de densidade normal dos montados de azinho.
+Art. 2.º - 1. São proibidos os arranques ou cortes de azinheiras que provoquem o abaixamento do coberto para além do limite inferior de densidade normal dos montados de azinho.
 
 2. Considera-se limite inferior da densidade normal dos montados de azinho aquele que corresponde a um coberto arbóreo de 40%.
 
-###### Art. 3.º As podas de azinheiras só poderão ser realizadas no período de 1 de Novembro a 30 de Abril.
+Art. 3.º As podas de azinheiras só poderão ser realizadas no período de 1 de Novembro a 30 de Abril.
 
-###### Art. 4.º A Direcção-Geral dos Recursos Florestais poderá fixar condições técnicas especiais ou quaisquer limitações às operações autorizadas, podendo conceder autorização para cortes rasos desde que seja expressamente reconhecida pelos serviços competentes do Ministério da Agricultura e Pescas a vantagem de os solos serem utilizados por outras culturas.
+Art. 4.º A Direcção-Geral dos Recursos Florestais poderá fixar condições técnicas especiais ou quaisquer limitações às operações autorizadas, podendo conceder autorização para cortes rasos desde que seja expressamente reconhecida pelos serviços competentes do Ministério da Agricultura e Pescas a vantagem de os solos serem utilizados por outras culturas.
 
-###### Art. 5.º O pedido de autorização para qualquer das operações referidas no artigo 1.º deverá ser feito por escrito devidamente assinado pelo responsável ou responsáveis pela exploração onde a operação se vai efectuar, devendo a assinatura ou assinaturas ser reconhecidas por declaração, no próprio requerimento, de qualquer funcionário do Ministério da Agricultura e Pescas.
+Art. 5.º O pedido de autorização para qualquer das operações referidas no artigo 1.º deverá ser feito por escrito devidamente assinado pelo responsável ou responsáveis pela exploração onde a operação se vai efectuar, devendo a assinatura ou assinaturas ser reconhecidas por declaração, no próprio requerimento, de qualquer funcionário do Ministério da Agricultura e Pescas.
 
-###### Art. 6.º O pedido de autorização referido no artigo anterior deve conter a designação da entidade gestora da exploração, a identificação do prédio e localização da área onde a operação irá ter lugar e a discriminação do tipo de trabalhos que se pretendem efectuar.
+Art. 6.º O pedido de autorização referido no artigo anterior deve conter a designação da entidade gestora da exploração, a identificação do prédio e localização da área onde a operação irá ter lugar e a discriminação do tipo de trabalhos que se pretendem efectuar.
 
-###### Art. 7.º As infracções ao disposto no presente diploma são puníveis, como transgressão, com as multas seguintes:
+Art. 7.º As infracções ao disposto no presente diploma são puníveis, como transgressão, com as multas seguintes:
 
 a) Por falta de pedido de autorização para as operações de arranque, corte ou poda de azinheiras - 200$00;
 
@@ -138,16 +152,16 @@ Por árvore com perímetro superior a 150 cm - 350$00;
 
 c) Por podas não autorizadas que afectem temporária ou definitivamente a capacidade produtiva das azinheiras - metade das multas fixadas na alínea b).
 
-###### Art. 8.º São solidariamente responsáveis pelo pagamento das multas a entidade gestora do montado e a entidade responsável pela execução das operações ilegais.
+Art. 8.º São solidariamente responsáveis pelo pagamento das multas a entidade gestora do montado e a entidade responsável pela execução das operações ilegais.
 
-###### Art. 9.º Os serviços competentes da Direcção-Geral dos Recursos Florestais farão a fiscalização, calcularão as multas e farão a sua cobrança, revertendo o produto das multas para o Fundo de Fomento Florestal.
+Art. 9.º Os serviços competentes da Direcção-Geral dos Recursos Florestais farão a fiscalização, calcularão as multas e farão a sua cobrança, revertendo o produto das multas para o Fundo de Fomento Florestal.
 
-###### Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Miguel Morais Barreto.
 
-**Promulgado em 20 de Dezembro de 1976.**
+Promulgado em 20 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

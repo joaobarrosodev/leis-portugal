@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26400/18031806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad5c795ff0331f249e4ec4496852a8e5d668cd08822e30347a023aaf1ed799ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22fc8704d974ceacb6e2c73bb86518b6780f0d09db6a7540ea341d6bc629d45c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Descolonização
+- Forças Armadas
+- Guarda Fiscal
+- Integração de Trabalhadores
+- Países e Territórios Ultramarinos
+- PSP
+- Quadro de Pessoal
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394923:por
+  label: "Aditado um n.º 5 ao artigo 1.º pelo DEC LEI.89/81.1981.04.28.MAI, DR.IS [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1981-394923
+  date: '1981-04-28'
+- type: amended_by
+  target: pt:dre:374606:por
+  label: "Alterada a alínea a) do n.º 5 do artigo 1.º, na redacção dada pelo Decreto-Lei n.º 89/81, de 28 de Abril, pelo DEC\
+    \ LEI.351/82.03.09.1982.MFP, DR.IS [204] de 03.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-1982-374606
+  date: '1982-09-03'
+- type: cites
+  target: pt:dre:646092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609308:por
+  label: "Revogado o art. 11º, pelo DEC LEI.83/82.1982.03.16.MAI, DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1982-609308
+  date: '1982-03-16'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:30Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +135,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Integração de adidos na PSP)
 
@@ -127,7 +161,7 @@ b) Um curso de adaptação ou aperfeiçoamento, para os comissários ou demais g
 
 4. Até à conclusão das acções de formação, a que alude o número anterior, os mesmos elementos prestarão serviço na Polícia de Segurança Pública como adidos em regime de destacamento, pagos por conta do quadro geral de adidos, criado pelo [Decreto-Lei n.º 23/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1975-646092), de 22 de Janeiro.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Conceito de supranumerário permanente)
 
@@ -143,7 +177,7 @@ d) Intercalação na lista geral de antiguidades da Polícia de Segurança Públ
 
 e) Promoção por arrastamento dos servidores do quadro privativo da Polícia de Segurança Pública.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Verificação de requisitos de ingresso)
 
@@ -151,7 +185,7 @@ e) Promoção por arrastamento dos servidores do quadro privativo da Polícia de
 
 2. Para os elementos que já tenham sido admitidos no quadro mencionado no número anterior, à data da publicação do presente diploma, é concedido o prazo de dois meses para comprovação documental dos mesmos requisitos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Categorias em que será feita a integração)
 
@@ -161,7 +195,7 @@ e) Promoção por arrastamento dos servidores do quadro privativo da Polícia de
 
 3. Quando, por força do disposto nos números anteriores, a integração ou destacamento implicarem diminuição de vencimentos, aqueles só se verificarão a requerimento dos interessados, os quais poderão optar pela permanência no quadro geral de adidos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Lista de antiguidades)
 
@@ -169,7 +203,7 @@ e) Promoção por arrastamento dos servidores do quadro privativo da Polícia de
 
 2. A intercalação na lista, dentro de cada categoria, dos elementos a que se reporta o n.º 1 do artigo 1.º com o pessoal já integrado na Polícia de Segurança Pública far-se-á de acordo com a antiguidade que cada um possuir na respectiva categoria, devendo, no caso de igualdade, ter prioridade aquele que for mais antigo na categoria imediatamente inferior.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Promoções)
 
@@ -181,7 +215,7 @@ e) Promoção por arrastamento dos servidores do quadro privativo da Polícia de
 
 4. A frequência das acções de formação, para efeitos de promoção, pelos comissários, agentes de polícia e guarda fiscal oriundos dos territórios far-se-á igualmente por arrastamento dos elementos de idêntica categoria da Polícia de Segurança Pública.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Processo de integração e de destacamento)
 
@@ -189,7 +223,7 @@ e) Promoção por arrastamento dos servidores do quadro privativo da Polícia de
 
 2. O destacamento previsto no n.º 4 do artigo 1.º far-se-á por despacho do membro do Governo que superintender no quadro geral de adidos, o qual determinará a data da passagem de guia de marcha para a Polícia de Segurança Pública.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Funções desempenhadas pelo pessoal oriundo dos territórios ultramarinos)
 
@@ -201,7 +235,7 @@ a) Os capitães, as de comandante distrital ou de divisão;
 
 b) Os tenentes, as de comandante de secção, adjunto distrital e adjunto de divisão.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Acções de formação a promover pela Escola Prática e comandos distritais da Polícia de Segurança Pública)
 
@@ -209,7 +243,7 @@ b) Os tenentes, as de comandante de secção, adjunto distrital e adjunto de div
 
 2. Os programas, regime de funcionamento e duração das escolas de alistados e das acções de formação a que se refere o n.º 3 do artigo 1.º serão estabelecidos por despacho do Ministro da Administração Interna, sob proposta do Comando-Geral da Polícia de Segurança Pública.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Falta de aproveitamento ou recusa à frequência das acções de formação)
 
@@ -219,7 +253,7 @@ b) Os tenentes, as de comandante de secção, adjunto distrital e adjunto de div
 
 3. A recusa à frequência das acções de formação a promover pela Polícia de Segurança Pública, nos termos do presente artigo, equivale para todos os efeitos à falta de aproveitamento, salvo razões ponderosas, devidamente comprovadas e aceites.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Promoção de oficiais do Exército no quadro de complemento)
 
@@ -229,7 +263,7 @@ a) Cinco anos de serviço no posto;
 
 b) Frequência, com aproveitamento, do curso de promoção a capitão.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Providências orçamentais)
 
@@ -237,13 +271,13 @@ b) Frequência, com aproveitamento, do curso de promoção a capitão.
 
 2. Os meios financeiros necessários para fazer face aos encargos com o pessoal resultantes da entrada em vigor do presente diploma serão suportados, no corrente ano, pelas dotações do quadro geral de adidos, a que se refere o [Decreto-Lei n.º 23/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1975-646092), de 22 de Janeiro.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Dúvidas ou omissões)
 
 As dúvidas ou casos omissos do presente diploma serão resolvidos mediante despacho dos Ministros da Administração Interna, das Finanças e da Cooperação, de harmonia com a respectiva competência.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Entrada em vigor do presente diploma)
 
@@ -251,20 +285,20 @@ Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 31 de Outubro de 1975.**
+Promulgado em 31 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA I
 
 Tabela de equivalências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/26400/18031806.pdf))](https://files.diariodarepublica.pt/1s/1975/11/26400/18031806.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26400/18031806.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/26400/18031806.pdf))](https://files.diariodarepublica.pt/1s/1975/11/26400/18031806.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26400/18031806.pdf)
 
-**O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.

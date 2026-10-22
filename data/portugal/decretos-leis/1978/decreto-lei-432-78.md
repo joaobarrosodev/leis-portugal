@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1978-325329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 635abfa08c07f4ecfd1a4ec7ac9ba9c20e39bb5299e0264fcd547d2d8303a10a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d37f18eea83bebf6f227cb37980f3d919e0484eda7c1401c44d5024cccfeb9af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Integrado de Formação de Professores
+- Formação Profissional
+- Pessoal Docente
+- Universidade de Aveiro
+relationships:
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:57Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +102,11 @@ Inserindo-se a criação deste centro num plano global de renovação ou lançam
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado na Universidade de Aveiro o Centro Integrado de Formação de Professores, organismo interdisciplinar cujas actividades se situam no domínio da preparação de docentes de todos os níveis de ensino e no da investigação em Ciências da Educação, abrangendo todas as acções que nesses domínios se realizem naquela Universidade.
+Artigo 1.º É criado na Universidade de Aveiro o Centro Integrado de Formação de Professores, organismo interdisciplinar cujas actividades se situam no domínio da preparação de docentes de todos os níveis de ensino e no da investigação em Ciências da Educação, abrangendo todas as acções que nesses domínios se realizem naquela Universidade.
 
-###### Art. 2.º O centro goza de autonomia científica e pedagógica, sem prejuízo da orientação geral da política de ensino e da função coordenadora dos órgãos competentes da Universidade.
+Art. 2.º O centro goza de autonomia científica e pedagógica, sem prejuízo da orientação geral da política de ensino e da função coordenadora dos órgãos competentes da Universidade.
 
-###### Art. 3.º O Centro tem por fim:
+Art. 3.º O Centro tem por fim:
 
 a) Promover, em colaboração com os diferentes departamentos da Universidade, cursos de formação inicial de professores para a educação pré-escolar e para os ensinos básico e secundário;
 
@@ -114,7 +122,7 @@ f) Realizar cursos de licenciatura e de pós-graduação em Ciências da Educaç
 
 g) Fomentar, apoiar e desenvolver a investigação no domínio das Ciências da Educação.
 
-###### Art. 4.º - 1 - Por despacho do Ministro da Educação e Cultura será nomeada uma Comissão Coordenadora para a Instalação do Centro, a qual será constituída por:
+Art. 4.º - 1 - Por despacho do Ministro da Educação e Cultura será nomeada uma Comissão Coordenadora para a Instalação do Centro, a qual será constituída por:
 
 a) Um representante da Comissão Instaladora da Universidade de Aveiro, que presidirá;
 
@@ -124,7 +132,7 @@ c) Três docentes da Universidade de Aveiro, propostos pela respectiva Comissão
 
 2 - É aplicável aos membros da Comissão Coordenadora o artigo 43.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
 
-###### Art. 5.º Compete à Comissão Coordenadora:
+Art. 5.º Compete à Comissão Coordenadora:
 
 a) Elaborar o regulamento ou regulamentos do Centro e submetê-los à aprovação do director-geral do Ensino Superior, precedendo parecer da Comissão Instaladora da Universidade de Aveiro;
 
@@ -142,16 +150,16 @@ g) Propor à Comissão Instaladora da Universidade a admissão de pessoal docent
 
 h) Promover a elaboração de esquemas de avaliação dos programas e actividades pedagógicas do Centro.
 
-###### Art. 6.º Durante o período de instalação do Centro será atribuída à Universidade de Aveiro, por via orçamental, uma verba global a afectar ao referido Centro e que será gerida, nos termos da lei, pela respectiva Comissão Coordenadora, com a colaboração e contrôle da administração da Universidade.
+Art. 6.º Durante o período de instalação do Centro será atribuída à Universidade de Aveiro, por via orçamental, uma verba global a afectar ao referido Centro e que será gerida, nos termos da lei, pela respectiva Comissão Coordenadora, com a colaboração e contrôle da administração da Universidade.
 
-###### Art. 7.º Os encargos da execução do presente diploma durante o ano de 1978 serão suportados por conta das dotações comuns inscritas no orçamento do Ministério da Educação e Cultura para o ensino superior.
+Art. 7.º Os encargos da execução do presente diploma durante o ano de 1978 serão suportados por conta das dotações comuns inscritas no orçamento do Ministério da Educação e Cultura para o ensino superior.
 
-###### Art. 8.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura, com o acordo do Ministro das Finanças e do Plano, quando estiverem em causa matérias de carácter financeiro ou regras da contabilidade pública.
+Art. 8.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura, com o acordo do Ministro das Finanças e do Plano, quando estiverem em causa matérias de carácter financeiro ou regras da contabilidade pública.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 6 de Dezembro de 1978.**
+Promulgado em 6 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

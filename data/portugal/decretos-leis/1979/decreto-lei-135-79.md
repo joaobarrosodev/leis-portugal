@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11400/09650967.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1979-382610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3156e10801f232d41a211e0aeea4de17e905c8144013de0f08e859d889678a38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9c0d986386aa1d29cd12d289ae7aa9eaf67441154182ed44e1612e63bcf2501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituição de Crédito
+- Locação Financeira
+- Regime Jurídico
+- Sociedade de Locação Financeira
 relationships:
 - type: amended_by
   target: pt:dre:227070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307793:por
+  label: "Alterado o n.º 2 do artigo 7.º, pelo DEC LEI.25/83.22.01.1983.MFP, DR.IS [18] de 22.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1983-307793
+  date: '1983-01-22'
+- type: amended_by
+  target: pt:dre:311052:por
+  label: "Alterado o n.º 1 do artigo 11.º, DEC LEI.97/83.17.02.1983.MFP, DR.IS [39] de 17.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-1983-311052
+  date: '1983-02-17'
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227070:por
+  label: "Revogado pelo DEC LEI.103/86.19.05.1986.MF, DR.IS [114] de 19.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1986-227070
+  date: '1986-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:45Z'
   warnings: []
   errors: []
 ---
@@ -212,8 +235,8 @@ c) Tais pessoas detenham o poder de direcção efectiva das empresas, por via de
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes.
 
-**Promulgado em 29 de Abril de 1979.**
+Promulgado em 29 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

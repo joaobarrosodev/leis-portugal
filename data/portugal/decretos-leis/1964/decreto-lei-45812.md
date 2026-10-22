@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45812-1964-578746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08323eec98e044bde84f52b0216d205a5fa5c8c117d8fb8b213597eb76dcdfe7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cc3cbe2a863be62dc07c349d4d8e78c4cb61e37f3eaa58d8961cdc3c1b72f13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:51Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +90,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os actuais artigos da pauta de importação n.os 39.01.23 e 39.01.24, 39.02.06 a 39.02.14, 39.03.22 e 39.03.23, 39.07.04 e 90.26.06 passam a ter, respectivamente, os n.os 39.01.24 e 39.01.25, 39.02.08 a 39.02.16, 39.03.23 e 39.03.24, 39.07.05 e 90.26.07.
+Artigo 1.º Os actuais artigos da pauta de importação n.os 39.01.23 e 39.01.24, 39.02.06 a 39.02.14, 39.03.22 e 39.03.23, 39.07.04 e 90.26.06 passam a ter, respectivamente, os n.os 39.01.24 e 39.01.25, 39.02.08 a 39.02.16, 39.03.23 e 39.03.24, 39.07.05 e 90.26.07.
 
-###### Art. 2.º São introduzidas no texto da pauta de importação as seguintes alterações:
+Art. 2.º São introduzidas no texto da pauta de importação as seguintes alterações:
 
 39.01 ...
 
@@ -266,7 +272,7 @@ Pauta máxima, um 480$00.
 
 Pauta mínima, um 240$00.
 
-###### Art. 3.º São alteradas, pela forma seguinte, as taxas do artigo 74.04.02 da pauta de importação:
+Art. 3.º São alteradas, pela forma seguinte, as taxas do artigo 74.04.02 da pauta de importação:
 
 74.04.02 ...
 
@@ -274,6 +280,6 @@ Pauta máxima, ad valorem 15 por cento.
 
 Pauta mínima, ad valorem 5 por cento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Francisco Pereira Neto de Carvalho.

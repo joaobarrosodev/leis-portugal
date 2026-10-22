@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13300/14051405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1977-253240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4623299a043dc4a737312e80fb6ff4e697270a83d4e33ef2911f6c469d2faaf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f074770eb16fddfca77669c0b595cfd356d4fe9d1287647abba18153d7c770ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Estatuto
+- Forças Armadas
+- Limite de Idade
+- Militar
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401359:por
+  label: "Suspensos para os tenentes-coronéis e para os majores os limites de idade para a passagem a adidos aos respectivos\
+    \ quadros constantes do 1.º grupo do mapa n.º 1 referido no n.º 16 da alínea b) do artigo 44.º do Dec Lei 176/71 de 30-Abr,\
+    \ com as alterações constantes do presente diploma, pelo DEC LEI.389/84.11.12.1984.MDN, DR.IS [285] de 11.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1984-401359
+  date: '1984-12-11'
+- type: corrected_by
+  target: pt:dre:250057:por
+  label: Rectificado pela DECL.DD8369.29.06.1977.CR, DR.IS [148] de 29.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250057
+  date: '1977-06-29'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:38Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +116,14 @@ Considerando a necessidade de um mais ajustado escalonamento dos limites de idad
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único - 1. É fixado em 48 anos o limite de idade para a passagem à situação de adido aos quadros no posto de major e capitão-tenente do grupo 1.º do mapa 3 a que se refere o artigo 6.º do Decreto-creto-Lei n.º 327-A/75, de 30 de Junho:
+Artigo único - 1. É fixado em 48 anos o limite de idade para a passagem à situação de adido aos quadros no posto de major e capitão-tenente do grupo 1.º do mapa 3 a que se refere o artigo 6.º do Decreto-creto-Lei n.º 327-A/75, de 30 de Junho:
 
 2. Consideram-se nulos os efeitos que hajam sido produzidos pela entrada em vigor do limite de idade anteriormente fixado.
 
 Visto e aprovado em Conselho da Revolução em 1 de Junho de 1977.
 
-**Promulgado em 3 de Junho de 1977.**
+Promulgado em 3 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

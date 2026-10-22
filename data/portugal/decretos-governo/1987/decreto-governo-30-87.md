@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/30-1987-417615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 112f0de67a68dc8255c67e48117a1eb733e2b7bc01c1efcb6b60da913353e903
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acac0bd70d63907afa99eca043a0133b096ac840d41929aa18c2905e49d5bd91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acordo ATP
+- Convenção
+- Portugal
+- Produto Alimentar
+- Produto Deteriorável
+- Transporte Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:575759:por
+  label: "Substituído o texto do Anexo 1 constante da Emenda 1 do Acordo, aprovado para ratificação pelo presente diploma,\
+    \ pelo AV.DD1949.17.07.1990.MNE, DR.IS [163] de 17.07.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1990-575759
+  date: '1990-07-17'
+- type: amended_by
+  target: pt:dre:574172:por
+  label: "Tornados públicos os textos em francês e português das emendas entradas em vigor em 20 de Abril de 1986, 20 de Julho\
+    \ de 1986, 19 de Outubro de 1986, 11 de Agosto de 1987 e 27 de Maio de 1988 relativamente aos anexos 1 e 3 do Acordo Relativo\
+    \ a Transportes Internacionais de Produtos Alimentares Perecíveis e aos Equipamentos Especializados a Utilizar Nestes\
+    \ Transportes (ATP), pelo AV.DD1963.23.08.1990.MNE, DR.IS [194] de 23.08.1990, devendo os textos das referidas emendas\
+    \ ser intercalados ou substituir, nas partes correspondentes, os textos dos anexos 1 e 3 constantes da emenda 1.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1990-574172
+  date: '1990-08-23'
+- type: amended_by
+  target: pt:dre:556615:por
+  label: "Tornados públicos os textos em francês e português das emendas entradas em vigor em 20 de Abril de 1986, 20 de Julho\
+    \ de 1986, 19 de Outubro de 1986, 11 de Agosto de 1987 e 27 de Maio de 1988, relativamente aos anexos 1 e 3 do Acordo\
+    \ Relativo a Transportes Internacionais de Produtos Alimentares Perecíveis e aos Equipamentos Especializados a Utilizar\
+    \ Nestes Transportes (ATP), pelo AV.DD1990.05.09.1990.MNE, DR.IS [205] de 05.09.1990, devendo os textos das referidas\
+    \ emendas ser intercalados ou substituir nas partes correspondentes os textos dos anexos n.os 1 e 3, constantes da emenda\
+    \ nº 1.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1990-556615
+  date: '1990-09-05'
 article_structure:
-  article_count: 21
+  article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:17Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +118,17 @@ de 14 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Relativo a Transportes Internacionais de Produtos Alimentares Perecíveis e aos Equipamentos Especializados a Utilizar Nestes Transportes (ATP) e respectivos anexos 1, 2 e 3, feito em Genebra em 1 de Setembro de 1970, cujo texto original em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Relativo a Transportes Internacionais de Produtos Alimentares Perecíveis e aos Equipamentos Especializados a Utilizar Nestes Transportes (ATP) e respectivos anexos 1, 2 e 3, feito em Genebra em 1 de Setembro de 1970, cujo texto original em francês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1987. - Aníbal António Cavaco Silva - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - Gonçalo Manuel Bourbon Sequeira Braga.
 
-**Assinado em 21 de Julho de 1987.**
+Assinado em 21 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1987.**
+Referendado em 23 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
@@ -451,7 +482,7 @@ où W est la puissance thermique dépensée à l'intérieur de la caisse de surf
 
 2 - La surface moyenne S de la caisse est la moyenne géométrique de la surface intérieure S(índice i) et de la surface extérieure S(índice e) de la caisse:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 La détermination des deux surfaces, S(índice i) et S(índice e), est faite en tenant compte des singularités de structure de la caisse ou des irrégularités de la surface, telles qu'arrondis, décrochements pour passage des roues, etc., et il est fait mention de ces singularités ou irrégularités à la rubrique appropriée du procès-verbal d'essai prévu ci-après; toutefois, si la caisse comporte un revêtement du type tôle ondulée, la surface à considérer est la surface droite de ce revêtement, et non la surface développée.
 
@@ -735,7 +766,7 @@ Surface totale extérieure des parois de la caisse S(ídice e): ... m2.
 
 Surface totale intérieure des parois de la caisse S(índice i): ... m2.
 
-Surface moyenne [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Surface moyenne [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Spécifications des parois de la caisse (ver nota 3):
 
@@ -801,7 +832,7 @@ Essai par chauffage intérieur:
 
 K = (W(índice 1) + W(índice 2))/(S x (Delta)(teta))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Observations: ...
 
@@ -871,7 +902,7 @@ Surface totale extérieure des parois S(índice e): ... m2.
 
 Surface totale intérieure des parois S(índice i): ... m2.
 
-Surface moyenne [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Surface moyenne [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Spécifications des parois (ver nota 3): ...
 
@@ -919,7 +950,7 @@ Coefficient global de transmission thermique calculé par la formule:
 
 K = (W(índice 1) + W(índice 2))/(S x (Delta)(teta))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Observations: ...
 
@@ -981,7 +1012,7 @@ Surface totale extérieure des parois de la caisse S(índice e): ... m2.
 
 Surface totale intérieure des parois de la caisse S(índice i): ... m2.
 
-Surface moyenne de la caisse [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Surface moyenne de la caisse [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Spécifications des parois de la caisse (ver nota 3):
 
@@ -1097,7 +1128,7 @@ Surface totale extérieure des parois de la caisse S(índice e): ... m2.
 
 Surface totale intérieure des parois de la caisse S(índice i): ... m2.
 
-Surface moyenne de la caisse [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Surface moyenne de la caisse [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Spécifications des parois de la caisse (ver nota 3):
 
@@ -1213,7 +1244,7 @@ Surface totale extérieure des parois de la caisse S(índice e): ... m2.
 
 Surface totale intérieure des parois de la caisse S(índice i) ... m2.
 
-Surface moyenne de la caisse [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m3.
+Surface moyenne de la caisse [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m3.
 
 Spécifications des parois de la caisse (ver nota 3):
 
@@ -1287,7 +1318,7 @@ APPENDICE 3
 
 Formule d'attestation pour les engins isothermes, réfrigérants, frigorifiques ou calorifiques affectés aux transports terrestres internationaux de denrées périssables.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Attestation (ver nota 2) délivrée conformément à l'Accord Relatif aux Transports internationaux de Denrées périssables et aux Engins spéciaux à Utiliser pour ces Transports (ATP).
 
@@ -1379,7 +1410,7 @@ Marques d'identification à apposer sur les engins spéciaux
 
 Les marques d'identification prescrites au paragraphe 5 de l'appendice 1 de la présente annexe sont formées par des lettres majuscules, en caractères latins, de couleur bleu foncé sur fond blanc; la hauteur des lettres doit être de 12 cm, au moins. Elles sont les suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Si l'engin est doté de dispositifs thermiques amovibles ou non autonomes, la ou les marques d'identification seront complétées par la lettre X.
 
@@ -1387,7 +1418,7 @@ Outre les marques d'identification indiquées ci-dessus, on indiquera au-dessous
 
 Modèle:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 ANNEXE 2
 
@@ -1603,7 +1634,7 @@ où W est la puissance thermique dépensée à l'intérieur de la caisse de surf
 
 2 - La surface moyenne S de la caisse est la moyenne géométrique de la surface intérieure S(índice i) et de la surface extérieure S(índice e) de la caisse:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 La détermination des deux surfaces, S(índice i) et S(índice e), est faite en tenant compte des singularités de structure de la caisse ou des irrégularités de la surface, telles qu'arrondis, décrochements pour passage des roues, etc., et il est fait mention de ces singularités ou irrégularités à la rubrique appropriée du procès-verbal d'essai prévu ci-après; toutefois, si la caisse comporte un revêtement du type tôle ondulée, la surface à considérer est la surface droite de ce revêtement et non la surface développée.
 
@@ -1853,7 +1884,7 @@ A) Modèle de la formule d'attestation de conformité de l'engin prescrite au pa
 
 Formule d'attestation pour les engins isothermes, réfrigérants, frigorifiques ou calorifiques affectés aux transports terrestres internationaux de denrées périssables.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Attestation (ver nota 2) délivrée conformément à l'Accord Relatif aux Transports internationaux de Denrées périssables et aux Engins spéciaux à Utiliser pour ces Transports (ATP).
 
@@ -1959,17 +1990,17 @@ Marques d'identification à apposer sur les engins spéciaux
 
 Les marques d'identification prescrites au paragraphe 5 de l'appendice 1 de la présente annexe sont formées par des lettres majuscules, en caractères latins, de couleur bleu foncé sur fond blanc; la hauter des lettres doit être de 100 mm, au moins. Elles sont les suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Si l'engin est doté de dispositifs thermiques amovibles ou non autonomes, la ou les marques d'identification seront complétées par la lettre X.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Outre les marques d'identification indiquées ci-dessus, on indiquera au-dessous de la ou des marques d'identification la date d'expiration de validité de l'attestation délivrée pour l'engin (mois, année) qui figure à la rubrique 8 de la section A de l'appendice 3 de la présente annexe.
 
 Modèle:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 L'annexe 3 est remplacée par la suivante:
 
@@ -2347,7 +2378,7 @@ onde W é a potência térmica consumida no interior da caixa de superfície mé
 
 2 - A superfície média S da caixa é a média geométrica da superfície interior S(índice i) e da superfície exterior S(índice e) da caixa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 A determinação das duas superfícies, S(índice i) e S(índice e), é calculada tendo em conta as singularidades de estrutura da caixa ou as irregularidades da superfície, tais como arredondados, reentrâncias para a passagem das rodas, etc., e de que se fará menção em rubrica própria da acta de ensaio prevista mais adiante; contudo, se a caixa apresentar um revestimento do tipo de chapa metálica ondulada, a superfície a considerar é a superfície plana projectada correspondente, e não a superfície desdobrada.
 
@@ -2641,7 +2672,7 @@ Superfície total exterior das paredes da caixa S(índice e): ... m2.
 
 Superfície total interior das paredes da caixa S(índice i): ... m2.
 
-Superfície média: [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Superfície média: [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Especificações das paredes da caixa (ver nota 3):
 
@@ -2707,7 +2738,7 @@ Ensaio por aquecimento interior:
 
 K = (W(índice 1) + W(índice 2))/(S x (Delta)(teta))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Observações: ...
 
@@ -2777,7 +2808,7 @@ Superfície total exterior das paredes S(índice e): ... m2.
 
 Superfície total interior das paredes S(índice i): ... m2.
 
-Superfície média [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Superfície média [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Especificações das paredes (ver nota 3): ...
 
@@ -2825,7 +2856,7 @@ Coeficiente global de transmissão térmica calculado pela fórmula:
 
 K = (W(índice 1) + W(índice 2))/(S x (Delta)(teta))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Observações: ...
 
@@ -2887,7 +2918,7 @@ Superfície total exterior das paredes da caixa S(índice e): ... m2.
 
 Superfície total interior das paredes da caixa S(índice i): ... m2.
 
-Superfície média da caixa [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Superfície média da caixa [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Especificação das paredes da caixa (ver nota 3):
 
@@ -3003,7 +3034,7 @@ Superfície total exterior das paredes da caixa S(índice e): ... m2.
 
 Superfície total interior das paredes da caixa S(índice i): ... m2.
 
-Superfície média da caixa [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Superfície média da caixa [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Especificação das paredes da caixa (ver nota 3):
 
@@ -3119,7 +3150,7 @@ Superfície total exterior das paredes da caixa S(índice e): ... m2.
 
 Superfície total interior das paredes da caixa S(índice i): ... m2.
 
-Superfície média da caixa [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
+Superfície média da caixa [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf): ... m2.
 
 Especificação das paredes da caixa (ver nota 3):
 
@@ -3191,7 +3222,7 @@ O Responsável pelos Ensaios,
 
 Modelo de certificado para equipamentos isotérmicos, refrigerados, frigoríficos ou caloríficos utilizados nos transportes terrestres internacionais de produtos alimentares perecíveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Certificado (ver nota 2) passado conforme o Acordo Relativo a Transportes Internacionais de Produtos Alimentares Perecíveis e aos Equipamentos Especializados a Utilizar Nestes Transportes (ATP).
 
@@ -3279,7 +3310,7 @@ Marcas de identificação a serem afixadas nos veículos especiais
 
 As marcas de identificação prescritas no parágrafo 5 do apêndice 1 do presente anexo são constituídas por letras maiúsculas, em caracteres latinos, de cor azul-escuro sobre fundo branco; a altura das letras deverá ser de 12 cm, pelo menos. São as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Se o equipamento for dotado de dispositivos térmicos amovíveis ou não autónomos, a ou as marcas de identificação serão completadas com a letra X.
 
@@ -3287,7 +3318,7 @@ Além das marcas de identificação acima referidas, deverá indicar-se por deba
 
 Modelo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 ## ANEXO 2 — Condições de temperatura para o transporte de produtos alimentares ultracongelados e congelados
 
@@ -3499,7 +3530,7 @@ onde W é a potência térmica despendida no interior da caixa de superfície m�
 
 2 - A superfície média S da caixa é a média geométrica da superfície interior S(índice i) e da superfície exterior S(índice e) da caixa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 A determinação das duas superfícies, S(índice i) e S(índice e), é calculada tendo em conta as singularidades de estrutura da caixa e as irregularidades da superfície, tais como arredondados, reentrâncias para a passagem das rodas, etc., e de que se fará menção em rubrica própria da acta de ensaio prevista mais adiante; contudo, se a caixa apresentar um revestimento do tipo de chapa metálica ondulada, a superfície a considerar é a superfície plana projectada correspondente, a não a superfície desdobrada.
 
@@ -3761,7 +3792,7 @@ A) Modelo do impresso de certificado de conformidade do equipamento previsto no 
 
 Impresso de certificado para equipamentos isotérmicos, refrigerados, frigoríficos ou caloríficos utilizados nos transportes terrestres internacionais de produtos alimentares perecíveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Certificado (ver nota 2) passado conforme o Acordo Relativo a Transportes Internacionais de Produtos Alimentares Perecíveis e aos Equipamentos Especializados a Utilizar Nestes Transportes (ATP).
 
@@ -3867,17 +3898,17 @@ Marcas de identificação a serem afixadas nos equipamentos especializados
 
 As marcas de identificação prescritas no parágrafo 5 do apêndice 1 do presente anexo são constituídas por letras maiúsculas em caracteres latinos, de cor azul-escuro sobre fundo branco; a altura das letras deverá ser de 100 mm, pelo menos. São as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Se o equipamento for dotado de dispositivos térmicos amovíveis ou não autónomos, a ou as marcas de identificação serão completadas com a letra X.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 Além das marcas de identificação acima referidas, deverá indicar-se por debaixo da ou das marcas de identificação a data de termo do prazo de validade do certificado passado para o equipamento (mês, ano) constante da rubrica 8 da secção A do apêndice 3 do presente anexo.
 
 Modelo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18600/31503192.pdf)
 
 O anexo 3 é substituído pelo seguinte:
 

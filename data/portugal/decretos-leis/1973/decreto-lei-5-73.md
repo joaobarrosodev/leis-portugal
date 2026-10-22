@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1973-288622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ce78f6edbeaa3d77197bf45c52749aa0d591c3ee6e5cbd52875a2395f0f799a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 252d5a5777be336cdce55b861aadedcdc52d44c9bee159a656cfdd9cb27829d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CTT
+- Empresa Pública
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:665898:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466059:por
+  label: "Alterados os arts. 9º, 11º do anexo I do Dec Lei 49368, de 10-Nov, de 1969, na redacção do presente diploma, pelo\
+    \ DEC LEI.642/74.20.11.1974.MESA, DG.IS [270] de 20.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/642-1974-466059
+  date: '1974-11-20'
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:30Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +114,9 @@ O presente diploma tem como objectivo imediato levar a efeito um número reduzid
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. As disposições do anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, abaixo indicadas, passam a vigorar com a seguinte redacção:
+Artigo único. As disposições do anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, abaixo indicadas, passam a vigorar com a seguinte redacção:
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. ...
 
@@ -119,7 +132,7 @@ Tais matérias serão também publicadas no Boletim Oficial dos Correios e Telec
 
 ...
 
-###### Art. 9.º - 1. O conselho de administração é composto por um presidente, com a designação de correio-mor, e por oito administradores, incluindo os administradores-delegados, todos isentos de caução e nomeados pelo período de cinco anos, renovável por iguais períodos.
+Art. 9.º - 1. O conselho de administração é composto por um presidente, com a designação de correio-mor, e por oito administradores, incluindo os administradores-delegados, todos isentos de caução e nomeados pelo período de cinco anos, renovável por iguais períodos.
 
 2. ...
 
@@ -129,9 +142,9 @@ Tais matérias serão também publicadas no Boletim Oficial dos Correios e Telec
 
 5. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que o seu presidente o convocar.
 
-###### Art. 10.º No conselho de administração haverá uma comissão executiva composta pelo correio-mor, que a ela presidirá, e pelos administradores-delegados.
+Art. 10.º No conselho de administração haverá uma comissão executiva composta pelo correio-mor, que a ela presidirá, e pelos administradores-delegados.
 
-###### Art. 11.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar o funcionamento da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste estatuto atribuídos a outras entidades ou a outros órgãos da empresa.
+Art. 11.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar o funcionamento da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste estatuto atribuídos a outras entidades ou a outros órgãos da empresa.
 
 2. Compete também ao conselho de administração celebrar acordos com as administrações ou empresas congéneres sobre a execução dos serviços comuns, desde que se coadunem com a política de actuação dos CTT definida pelo Governo.
 
@@ -143,7 +156,7 @@ Tais matérias serão também publicadas no Boletim Oficial dos Correios e Telec
 
 ...
 
-###### Art. 17.º - 1. ...
+Art. 17.º - 1. ...
 
 2. ...
 
@@ -165,7 +178,7 @@ f) ...
 
 ...
 
-###### Art. 20.º - 1. ...
+Art. 20.º - 1. ...
 
 2. ...
 
@@ -185,7 +198,7 @@ c) Ao montante das remunerações que devem ser atribuídas aos inspectores-gera
 
 ...
 
-###### Art. 23.º - 1. ...
+Art. 23.º - 1. ...
 
 2. ...
 
@@ -195,7 +208,7 @@ c) Ao montante das remunerações que devem ser atribuídas aos inspectores-gera
 
 ...
 
-###### Art. 25.º - 1. ...
+Art. 25.º - 1. ...
 
 a) ...
 
@@ -215,7 +228,7 @@ c) Nomear os administradores e os administradores-delegados e exonerá-los a seu
 
 ...
 
-###### Art. 39.º - 1. Os programas, os orçamentos anuais e a contabilidade dos CTT serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
+Art. 39.º - 1. Os programas, os orçamentos anuais e a contabilidade dos CTT serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
 
 As modificações que, nestas matérias, se tornem necessárias serão introduzidas gradualmente, à medida que as reestruturações administrativas e a adopção de novos métodos de trabalho o permitam e aconselhem.
 
@@ -223,7 +236,7 @@ As modificações que, nestas matérias, se tornem necessárias serão introduzi
 
 ...
 
-###### Art. 53.º - 1. A exploração e o uso público dos serviços a cargo dos CTT continuam a reger-se pelas leis e regulamentos correspondentes em tudo que não estiver previsto no presente estatuto ou que, ao abrigo dele, não haja sido alterado.
+Art. 53.º - 1. A exploração e o uso público dos serviços a cargo dos CTT continuam a reger-se pelas leis e regulamentos correspondentes em tudo que não estiver previsto no presente estatuto ou que, ao abrigo dele, não haja sido alterado.
 
 2. ...
 
@@ -235,7 +248,7 @@ As modificações que, nestas matérias, se tornem necessárias serão introduzi
 
 ...
 
-###### Art. 59.º - 1. Os servidores dos CTT que forem investidos nos lugares de presidente do conselho de administração e de administradores-delegados desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria de inspectores-gerais de correios e telecomunicações, correspondente à posição hierárquica mais elevada dos quadros da empresa. As remunerações dos inspectores-gerais ficam sujeitas ao condicionalismo e regime fiscal aplicáveis ao pessoal da empresa, mas serão fixadas nos termos do n.º 4 do artigo 20.º
+Art. 59.º - 1. Os servidores dos CTT que forem investidos nos lugares de presidente do conselho de administração e de administradores-delegados desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria de inspectores-gerais de correios e telecomunicações, correspondente à posição hierárquica mais elevada dos quadros da empresa. As remunerações dos inspectores-gerais ficam sujeitas ao condicionalismo e regime fiscal aplicáveis ao pessoal da empresa, mas serão fixadas nos termos do n.º 4 do artigo 20.º
 
 2. ...
 
@@ -245,8 +258,8 @@ As modificações que, nestas matérias, se tornem necessárias serão introduzi
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 29 de Dezembro de 1972.**
+Promulgado em 29 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES TROMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES TROMAZ.

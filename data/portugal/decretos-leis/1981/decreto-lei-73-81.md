@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08100/08840888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1981-389051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25820eb7b5b0d5537a2f61994b712946b83c484599240a44b9bb99c5bf417e0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3630e1877e92e6c2f3937ff9df73b7ca738de5ad340b5bb8063cba4dfd987a5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:308554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394757:por
+  label: Rectificado o presente diploma pelo(a) Declaração - Diário da República n.º 94/1981, Série I de 1981-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-394757
+  date: '1981-04-23'
+- type: corrected_by
+  target: pt:dre:574559:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 125/1981, Série I de 1981-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-574559
+  date: '1981-06-01'
+- type: repealed_by
+  target: pt:dre:308554:por
+  label: "Revogado pelo DEC LEI.49/83.31.01.1983.MQV, DR.IS [25] de 31.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1983-308554
+  date: '1983-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:56Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +140,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria de Estado do Ordenamento e Ambiente é o departamento governamental incumbido de promover, coordenar, apoiar e participar na definição e execução da política nacional do ordenamento e ambiente, em estreita colaboração com os demais departamentos do Estado cujas acções têm repercussões naqueles domínios.
+Artigo 1.º A Secretaria de Estado do Ordenamento e Ambiente é o departamento governamental incumbido de promover, coordenar, apoiar e participar na definição e execução da política nacional do ordenamento e ambiente, em estreita colaboração com os demais departamentos do Estado cujas acções têm repercussões naqueles domínios.
 
-###### Art. 2.º São atribuições da Secretaria de Estado do Ordenamento e Ambiente, com vista a contribuir para a promoção da qualidade de vida das populações:
+Art. 2.º São atribuições da Secretaria de Estado do Ordenamento e Ambiente, com vista a contribuir para a promoção da qualidade de vida das populações:
 
 a) Ocupar-se das acções necessárias à formulação, actualização e execução, de forma coordenada, em plano nacional, da política do ordenamento e ambiente a aprovar pelo Governo;
 
@@ -136,9 +164,9 @@ i) Ocupar-se dos assuntos relativos à cooperação internacional no domínio do
 
 ### CAPÍTULO II — Estrutura orgânica
 
-###### Art. 3.º Junto do Ministro da Qualidade de Vida funcionará o Conselho Nacional do Ordenamento e Ambiente (CNOA), como órgão consultivo e de coordenação relativamente à formulação da política nacional do ordenamento e ambiente a aprovar pelo Conselho de Ministros e à sua execução a nível dos diversos departamentos do Estado e de outras entidades interessadas.
+Art. 3.º Junto do Ministro da Qualidade de Vida funcionará o Conselho Nacional do Ordenamento e Ambiente (CNOA), como órgão consultivo e de coordenação relativamente à formulação da política nacional do ordenamento e ambiente a aprovar pelo Conselho de Ministros e à sua execução a nível dos diversos departamentos do Estado e de outras entidades interessadas.
 
-###### Art. 4.º - 1 - A Secretaria de Estado do Ordenamento e Ambiente compreende os seguintes órgãos e serviços:
+Art. 4.º - 1 - A Secretaria de Estado do Ordenamento e Ambiente compreende os seguintes órgãos e serviços:
 
 a) Conselho de directores-gerais;
 
@@ -152,7 +180,7 @@ e) Gabinete de Estudos e Planeamento;
 
 2 - A Secretaria de Estado do Ordenamento e Ambiente disporá de delegações regionais em cada uma das regiões Plano que vierem a ser definidas.
 
-###### Art. 5.º - 1 - O Conselho Nacional do Ordenamento e Ambiente é um órgão colegial em que participam representantes dos departamentos e organismos do Estado e de outras entidades cuja competência ou actuação seja relevante nos domínios do ordenamento e ambiente.
+Art. 5.º - 1 - O Conselho Nacional do Ordenamento e Ambiente é um órgão colegial em que participam representantes dos departamentos e organismos do Estado e de outras entidades cuja competência ou actuação seja relevante nos domínios do ordenamento e ambiente.
 
 2 - Ao Conselho Nacional do Ordenamento e Ambiente compete:
 
@@ -174,7 +202,7 @@ e) Promover e assegurar as acções necessárias à criação do quadro legal ad
 
 6 - A composição, estrutura e funcionamento do CNOA serão posteriormente regulamentados, e, enquanto não forem definidos, competirá ao seu presidente estabelecer as regras necessárias para o seu funcionamento, nomeadamente a composição das secções, as questões reservadas ao plenário e as destinadas às secções.
 
-###### Art. 6.º - 1 - O conselho de directores-gerais é um órgão de coordenação interna da Secretaria de Estado do Ordenamento e Ambiente, presidido pelo membro do Governo responsável e constituído pelos directores-gerais ou equiparados da Secretaria de Estado.
+Art. 6.º - 1 - O conselho de directores-gerais é um órgão de coordenação interna da Secretaria de Estado do Ordenamento e Ambiente, presidido pelo membro do Governo responsável e constituído pelos directores-gerais ou equiparados da Secretaria de Estado.
 
 2 - Ao conselho de directores-gerais cabe recolher informação e apresentar propostas para uma eficiente articulação das actividades dos diversos órgãos e serviços, centrais e regionais, da Secretaria de Estado do Ordenamento e Ambiente.
 
@@ -182,7 +210,7 @@ e) Promover e assegurar as acções necessárias à criação do quadro legal ad
 
 4 - Quando conveniente, o presidente convocará para as reuniões do conselho outro pessoal dirigente dos órgãos e serviços da Secretaria de Estado.
 
-###### Art. 7.º O Serviço Nacional de Conservação da Natureza é um organismo com autonomia administrativa e financeira, ao qual compete:
+Art. 7.º O Serviço Nacional de Conservação da Natureza é um organismo com autonomia administrativa e financeira, ao qual compete:
 
 a) Elaborar o plano nacional de conservação da natureza;
 
@@ -202,7 +230,7 @@ h) Promover a elaboração de uma política nacional de gestão dos resíduos s�
 
 i) Propor a celebração de acordos e convenções internacionais no âmbito da conservação da natureza e protecção da paisagem e participar nas actividades dos organismos internacionais que se ocupem de assuntos relacionados com as suas competências.
 
-###### Art. 8.º À Direcção-Geral do Ordenamento compete:
+Art. 8.º À Direcção-Geral do Ordenamento compete:
 
 a) Promover o ordenamento do território, possibilitando a compatibilização dos aspectos sectoriais e harmonizando a satisfação das necessidades humanas, ao longo do tempo, com os recursos, aptidões e potencialidades físicas e biológicas do território, tendo em vista a optimização de soluções do uso do espaço a adoptar pelas diversas entidades competentes para favorecer a melhoria da qualidade de vida;
 
@@ -222,7 +250,7 @@ h) Promover, coordenar e realizar as acções necessárias à regulamentação, 
 
 i) Participar nas actividades dos organismos internacionais que se ocupem de assuntos relacionados com as suas competências.
 
-###### Art. 9.º À Direcção-Geral da Qualidade do Ambiente compete:
+Art. 9.º À Direcção-Geral da Qualidade do Ambiente compete:
 
 a) Propor e colaborar na elaboração de uma política integrada de gestão dos recursos hídricos e participar na sua execução coordenando e dinamizando a realização de acções tendentes a uma correcta avaliação das disponibilidades, necessidades e respectivo balanço hídrico;
 
@@ -260,7 +288,7 @@ r) Propor as medidas legislativas convenientes e coordenar acções de fiscaliza
 
 s) Propor a celebração de acordos e convenções internacionais no âmbito da protecção e melhoria do ambiente e participar nas actividades dos organismos internacionais que se ocupam de assuntos relacionados com as suas competências.
 
-###### Art. 10.º Ao Gabinete de Estudos e Planeamento compete:
+Art. 10.º Ao Gabinete de Estudos e Planeamento compete:
 
 a) Proceder aos diagnósticos de situação necessários à fundamentação dos planos e programas de desenvolvimento no âmbito das atribuições da Secretaria de Estado do Ordenamento e Ambiente;
 
@@ -292,7 +320,7 @@ o) Apoiar as associações particulares votadas à conservação da natureza e d
 
 p) Pronunciar-se sobre os assuntos de natureza jurídica que lhe sejam submetidos.
 
-###### Art. 11.º - 1 - As delegações regionais são serviços de representação e actuação desconcentrada da Secretaria de Estado a criar por decreto regulamentar no âmbito das regiões Plano que vierem a ser definidas.
+Art. 11.º - 1 - As delegações regionais são serviços de representação e actuação desconcentrada da Secretaria de Estado a criar por decreto regulamentar no âmbito das regiões Plano que vierem a ser definidas.
 
 2 - As delegações regionais são equiparadas a direcções de serviços, competindo-lhes, de acordo com as orientações superiormente definidas:
 
@@ -306,11 +334,11 @@ d) Assegurar, no exercício das atribuições da Secretaria de Estado, ao nível
 
 e) Prestar o apoio técnico que lhe for solicitado pelos órgãos autárquicos em matéria de conservação da natureza, protecção da paisagem e seus valores culturais, ordenamento do território e salvaguarda da qualidade do ambiente.
 
-###### Art. 12.º A orgânica dos órgãos e serviços referidos no artigo 4.º bem como os seus quadros e regime de pessoal, serão definidos num diploma regulamentar, nos termos do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 12.º A orgânica dos órgãos e serviços referidos no artigo 4.º bem como os seus quadros e regime de pessoal, serão definidos num diploma regulamentar, nos termos do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
 ### CAPÍTULO III
 
-###### Art. 13.º - 1 - São criados os lugares de:
+Art. 13.º - 1 - São criados os lugares de:
 
 a) Presidente do Serviço Nacional de Conservação da Natureza;
 
@@ -324,28 +352,28 @@ d) Director do Gabinete de Estudos e Planeamento.
 
 3 - O provimento dos lugares referidos nas alíneas a) a d) do n.º 1 do presente artigo far-se-á de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 14.º - 1 - O pessoal dos quadros dos serviços e organismos que à data da publicação do presente diploma façam parte da Secretaria de Estado do Ordenamento e Ambiente transitará para os quadros a aprovar nos termos do artigo 12.º
+Art. 14.º - 1 - O pessoal dos quadros dos serviços e organismos que à data da publicação do presente diploma façam parte da Secretaria de Estado do Ordenamento e Ambiente transitará para os quadros a aprovar nos termos do artigo 12.º
 
 2 - As transições previstas no n.º 1 não poderão prejudicar os funcionários dos quadros em igualdade de condições, nomeadamente quanto a habilitações e tempo de serviço.
 
 ### CAPÍTULO IV — Disposições transitórias
 
-###### Art. 15.º Serão gradualmente transferidos para a Secretaria de Estado do Ordenamento e Ambiente os serviços ou atribuições de outros departamentos do Estado que por natureza se enquadrem no seu âmbito de actividade.
+Art. 15.º Serão gradualmente transferidos para a Secretaria de Estado do Ordenamento e Ambiente os serviços ou atribuições de outros departamentos do Estado que por natureza se enquadrem no seu âmbito de actividade.
 
-###### Art. 16.º São extintos a Comissão Nacional do Ambiente, o Serviço Nacional de Parques, Reservas e Património Paisagístico, o Serviço de Estudos do Ambiente e as comissões regionais do ambiente.
+Art. 16.º São extintos a Comissão Nacional do Ambiente, o Serviço Nacional de Parques, Reservas e Património Paisagístico, o Serviço de Estudos do Ambiente e as comissões regionais do ambiente.
 
-###### Art. 17.º - 1 - Enquanto não for publicada legislação sobre quadros e regime de pessoal, os serviços da Secretaria de Estado do Ordenamento e Ambiente continuarão a reger-se pelas disposições que actualmente lhes são aplicáveis.
+Art. 17.º - 1 - Enquanto não for publicada legislação sobre quadros e regime de pessoal, os serviços da Secretaria de Estado do Ordenamento e Ambiente continuarão a reger-se pelas disposições que actualmente lhes são aplicáveis.
 
 2 - Até serem aprovados os quadros referidos no artigo 4.º, o pessoal da Secretaria de Estado será distribuído pelos respectivos serviços e organismos mediante despacho do membro do Governo responsável.
 
-###### Art. 18.º As dúvidas suscitadas na aplicação do presente diploma e, bem assim, as que resultem da aglutinação ou extinção de serviços serão resolvidas por despacho do Ministro da Qualidade de Vida ou por despacho conjunto deste e de outros membros do Governo, quando estiverem em causa matérias das respectivas competências.
+Art. 18.º As dúvidas suscitadas na aplicação do presente diploma e, bem assim, as que resultem da aglutinação ou extinção de serviços serão resolvidas por despacho do Ministro da Qualidade de Vida ou por despacho conjunto deste e de outros membros do Governo, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 19.º Fica revogado o [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro.
+Art. 19.º Fica revogado o [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 27 de Março de 1981.**
+Promulgado em 27 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26000/25262527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1976-407337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fe0e3ed9423ab85ca4935a762400725854da5e0f12a6f4f9da0244311ccb995
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 617bd635dbd98d3981fc172ea8f4c277983574a65296267bcd46232777a77ed3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Despesas de Representação
+- Madeira.região Autónoma
+- Ministro da República
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:409676:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250416:por
+  label: "Revogados os arts. 1º e 2º, pelo DEC LEI.267/77.1977.07.02.PCM, DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1977-250416
+  date: '1977-07-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:14Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +119,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O quadro de cada um dos gabinetes dos Ministros da República para os Açores e para a Madeira é acrescido dos seguintes lugares:
+Artigo 1.º - 1. O quadro de cada um dos gabinetes dos Ministros da República para os Açores e para a Madeira é acrescido dos seguintes lugares:
 
 a) Um adjunto do gabinete do Ministro;
 
@@ -109,16 +129,16 @@ b) Um secretário pessoal.
 
 3. A categoria, vencimento e nomeação do pessoal referido no número anterior regem-se pelo disposto no [Decreto-Lei n.º 735/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/735-1976-409676), de 16 de Outubro.
 
-###### Art. 2.º Os membros dos gabinetes dos Ministros da República que prestem serviço nos Açores e na Madeira terão direito ao vencimento legalmente fixado, acrescido de mais um terço correspondente às respectivas categorias, sempre que com residência permanente no continente a tenham transferido para as Regiões Autónomas por força do exercício das suas funções.
+Art. 2.º Os membros dos gabinetes dos Ministros da República que prestem serviço nos Açores e na Madeira terão direito ao vencimento legalmente fixado, acrescido de mais um terço correspondente às respectivas categorias, sempre que com residência permanente no continente a tenham transferido para as Regiões Autónomas por força do exercício das suas funções.
 
-###### Art. 3.º A verba de despesas para representação dos Ministros da República para os Açores e para a Madeira é de 15000$00.
+Art. 3.º A verba de despesas para representação dos Ministros da República para os Açores e para a Madeira é de 15000$00.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 28 de Outubro de 1976.**
+Promulgado em 28 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

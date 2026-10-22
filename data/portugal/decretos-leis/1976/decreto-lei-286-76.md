@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09400/08470848.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1976-502224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dd9f47680453ef1ccbf42c7d574e3b347e50abf6807909a12fafa4240a67888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed1b386a826e3290cce3532d64d7fc2828d1c4e4871b2c50509b0d8a76a6c444
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Conselho Coordenador do Financiamento do Comércio Externo
+- Criação de Serviços
+- Definição de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:294725:por
+  label: Extinto o Conselho Coordenador do Financiamento do Comércio Externo pelo DEC LEI.125/78.03.06.1978.MFP, DR.IS [127]
+    de 03.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1978-294725
+  date: '1978-06-03'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:04Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado junto do Banco de Portugal o Conselho Coordenador do Financiamento do Comércio Externo - CFCE -, adiante designado por Conselho.
+Artigo 1.º É criado junto do Banco de Portugal o Conselho Coordenador do Financiamento do Comércio Externo - CFCE -, adiante designado por Conselho.
 
-###### Art. 2.º - 1. O Conselho será presidido pelo representante do Banco de Portugal e terá nove vogais representativos das seguintes entidades:
+Art. 2.º - 1. O Conselho será presidido pelo representante do Banco de Portugal e terá nove vogais representativos das seguintes entidades:
 
 Ministério das Finanças;
 
@@ -118,7 +134,7 @@ Dois representantes da banca comercial.
 
 2. Caberá ao Banco de Portugal a designação dos representantes da banca comercial.
 
-###### Art. 3.º O Conselho é um órgão consultivo no domínio da coordenação e contrôle das políticas de financiamento do comércio externo e questões conexas, nomeadamente:
+Art. 3.º O Conselho é um órgão consultivo no domínio da coordenação e contrôle das políticas de financiamento do comércio externo e questões conexas, nomeadamente:
 
 1.º Propor medidas que forem achadas convenientes a uma melhor eficiência do sistema, de modo a responder às necessidades do financiamento do comércio externo;
 
@@ -126,14 +142,14 @@ Dois representantes da banca comercial.
 
 3.º Promover, através do sistema bancário e por forma consentânea com a conjuntura cambial vigente, o aproveitamento do crédito externo para o financiamento das importações essenciais ao desenvolvimento económico do País.
 
-###### Art. 4.º As normas de funcionamento do Conselho serão definidas pelo Banco de Portugal.
+Art. 4.º As normas de funcionamento do Conselho serão definidas pelo Banco de Portugal.
 
-###### Art. 5.º O Banco de Portugal porá à disposição do Conselho os meios humanos e materiais necessários à prossecução da sua actividade, para o que poderá, se necessário, requisitar pessoal a outros estabelecimentos bancários ou organismos públicos.
+Art. 5.º O Banco de Portugal porá à disposição do Conselho os meios humanos e materiais necessários à prossecução da sua actividade, para o que poderá, se necessário, requisitar pessoal a outros estabelecimentos bancários ou organismos públicos.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 9 de Abril de 1976.**
+Promulgado em 9 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

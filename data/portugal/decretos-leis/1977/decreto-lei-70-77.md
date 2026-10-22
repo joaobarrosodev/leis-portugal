@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04700/02960297.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1977-141653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40483b870623b1b75766715631c43ed9da51337e8b2277ab38d94849bdfffef6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9db811e59efa22a07b185a552192f5a40d3be9c3761b68ba19f01f44d4041ad8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Extinção de Serviços
+- Junta Nacional de Educação
+- Ministério da Educação e Investigação Científica
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:294969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:46Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +120,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a Junta Nacional da Educação, regulamentada pelo [Decreto-Lei n.º 46348](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46348-1965-294969) e [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), ambos de 22 de Maio de 1965.
+Artigo 1.º É extinta a Junta Nacional da Educação, regulamentada pelo [Decreto-Lei n.º 46348](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46348-1965-294969) e [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), ambos de 22 de Maio de 1965.
 
-###### Art. 2.º As funções da Junta Nacional da Educação são cometidas ao Ministério da Educação e Investigação Científica nos seguintes termos:
+Art. 2.º As funções da Junta Nacional da Educação são cometidas ao Ministério da Educação e Investigação Científica nos seguintes termos:
 
 a) As atribuições da 1.ª secção serão exercidas pela Direcção-Geral do Ensino Superior;
 
@@ -112,13 +138,13 @@ f) As atribuições da Junta Nacional da Educação em matéria disciplinar ser�
 
 g) Os pareceres relativos ao adiamento do serviço militar por motivo de estudo, que competiam à Junta Nacional da Educação, serão exercidos pela Direcção-Geral em que se integre o curso frequentado pelo requerente.
 
-###### Art. 3.º - 1. As 2.ª e 3.ª secções da Junta Nacional da Educação manter-se-ão em funcionamento com as suas actuais atribuições, competência e composição durante o período de noventa dias, a contar da data da entrada em vigor deste diploma.
+Art. 3.º - 1. As 2.ª e 3.ª secções da Junta Nacional da Educação manter-se-ão em funcionamento com as suas actuais atribuições, competência e composição durante o período de noventa dias, a contar da data da entrada em vigor deste diploma.
 
 2. No prazo de trinta dias, a contar da data da entrada em vigor deste diploma, a Secretaria de Estado da Cultura submeterá à apreciação do Conselho de Ministros um projecto de diploma criando os organismos que, integrados na sua estrutura, substituirão as secções referidas no número anterior.
 
 3. Os delegados natos e os delegados permanentes das 2.ª e 3.ª secções da Junta Nacional da Educação manter-se-ão no exercício de funções até ao fim do período referido no n.º 1, ainda que já tenha terminado o triénio para que foram nomeados.
 
-###### Art. 4.º - 1. O pessoal administrativo actualmente em serviço na Junta Nacional da Educação transitará para lugares do quadro da Secretaria de Estado da Cultura, mantendo a sua categoria, independentemente da forma de provimento ou do regime de prestação de trabalho.
+Art. 4.º - 1. O pessoal administrativo actualmente em serviço na Junta Nacional da Educação transitará para lugares do quadro da Secretaria de Estado da Cultura, mantendo a sua categoria, independentemente da forma de provimento ou do regime de prestação de trabalho.
 
 2. Os funcionários dos quadros do Ministério da Educação e Investigação Científica que prestam serviço na Junta Nacional da Educação em regime de comissão, requisição ou destacamento poderão, no prazo de quinze dias, a contar da data da entrada em vigor deste diploma, optar pelos quadros do referido Ministério, ficando, neste caso, integrados na Secretaria-Geral, ou pelos quadros da Secretaria de Estado da Cultura.
 
@@ -126,7 +152,7 @@ g) Os pareceres relativos ao adiamento do serviço militar por motivo de estudo,
 
 4. De acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, o quadro do pessoal da Secretaria de Estado da Cultura será acrescido dos lugares exigidos pela integração dos funcionários constantes da lista nominativa referida no número anterior.
 
-###### Art. 5.º - 1. É extinto o lugar de presidente da Junta Nacional da Educação, incluído no quadro único do pessoal dirigente e técnico dos serviços centrais do Ministério da Educação e Investigação Científica constante do mapa anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 5.º - 1. É extinto o lugar de presidente da Junta Nacional da Educação, incluído no quadro único do pessoal dirigente e técnico dos serviços centrais do Ministério da Educação e Investigação Científica constante do mapa anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2. Os lugares de chefe de repartição, de técnicos de 1.ª e 2.ª classes e de técnico auxiliar de 1.ª classe afectos, segundo o mapa referido no número anterior, à Junta Nacional de Educação serão, por despacho ministerial, distribuídos pelos serviços do Ministério da Educação e Investigação Científica.
 
@@ -134,24 +160,24 @@ g) Os pareceres relativos ao adiamento do serviço militar por motivo de estudo,
 
 4. Serão extintos os lugares dos quadros únicos do Ministério da Educação e Investigação Científica providos por funcionários que optem pela integração nos quadros da Secretaria de Estado da Cultura.
 
-###### Art. 6.º - 1. O tempo de serviço prestado pelo pessoal de qualquer categoria na Junta Nacional da Educação e, bem assim, o que decorrer entre a extinção desta e a sua posterior colocação é contado para todos os efeitos.
+Art. 6.º - 1. O tempo de serviço prestado pelo pessoal de qualquer categoria na Junta Nacional da Educação e, bem assim, o que decorrer entre a extinção desta e a sua posterior colocação é contado para todos os efeitos.
 
 2. Até à efectivação da colocação o pessoal manterá todos os direitos e regalias, designadamente os relativos a remunerações.
 
-###### Art. 7.º Os membros das secções que transitam para a Secretaria de Estado da Cultura, bem como os agregados e delegados, manterão o direito ao pagamento de transporte e ajudas de custo, nos termos da lei geral e sem prejuízo de outras retribuições que lhes possam vir a ser atribuídas.
+Art. 7.º Os membros das secções que transitam para a Secretaria de Estado da Cultura, bem como os agregados e delegados, manterão o direito ao pagamento de transporte e ajudas de custo, nos termos da lei geral e sem prejuízo de outras retribuições que lhes possam vir a ser atribuídas.
 
-###### Art. 8.º - 1. Os actuais inspectores-gerais da Junta Nacional da Educação que não tiverem optado pela sua integração nos quadros da Secretaria de Estado da Cultura, nos termos do n.º 2 do artigo 4.º, serão integrados nos serviços centrais do Ministério da Educação e Investigação Científica, com dispensa de todas as formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República quanto às novas situações.
+Art. 8.º - 1. Os actuais inspectores-gerais da Junta Nacional da Educação que não tiverem optado pela sua integração nos quadros da Secretaria de Estado da Cultura, nos termos do n.º 2 do artigo 4.º, serão integrados nos serviços centrais do Ministério da Educação e Investigação Científica, com dispensa de todas as formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República quanto às novas situações.
 
 2. Os funcionários referidos no número anterior podem ser nomeados para quaisquer funções, no âmbito do MEIC, pelo respectivo Ministro ou, fora dele, por despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro do departamento em que hajam de prestar serviço.
 
-###### Art. 9.º Por despacho conjunto dos Ministros da Educação e Investigação Científica e das Finanças e do Secretário de Estado da Cultura, as instalações, móveis e dotações orçamentais afectas à Junta Nacional da Educação serão atribuídos aos serviços do Ministério da Educação e Investigação Científica e da Secretaria de Estado da Cultura, sem prejuízo das formalidades legais relativas à transferência de verbas orçamentais.
+Art. 9.º Por despacho conjunto dos Ministros da Educação e Investigação Científica e das Finanças e do Secretário de Estado da Cultura, as instalações, móveis e dotações orçamentais afectas à Junta Nacional da Educação serão atribuídos aos serviços do Ministério da Educação e Investigação Científica e da Secretaria de Estado da Cultura, sem prejuízo das formalidades legais relativas à transferência de verbas orçamentais.
 
-###### Art. 10.º As dúvidas resultantes da aplicação deste decreto serão resolvidas por despacho conjunto do Ministro da Educação e Investigação Científica e do Secretário de Estado da Cultura.
+Art. 10.º As dúvidas resultantes da aplicação deste decreto serão resolvidas por despacho conjunto do Ministro da Educação e Investigação Científica e do Secretário de Estado da Cultura.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 14 de Fevereiro de 1977.**
+Promulgado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

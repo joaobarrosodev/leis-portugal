@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 16º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 16º Suplemento
+  supplement: null
   pages: 3446-(327) a 3446-(335)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29916/03270335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-q2-1979-156832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cfd6c38f16628cac40fac450607eb346d60892cede45f998b3b27cb9cca1da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6eb2cc6cd5d3389fcaf6f4ecc97bcdc3ac3b7bd00596b56e0a9c8f4a522c615f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto da Família e Acção Social
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470378:por
+  label: "Alterado o art. 26º e aditados os art. 20º-A, 22º-A e um nº 2 ao art. 25º pela LEI.37/80.1980.07.31.AR, DR.IS [299]16Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-1980-470378
+  date: '1980-07-31'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690218:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:34Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +181,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do número do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1
+ARTIGO 1
 
 (Quadro de pessoal)
 
 O Instituto da Família e Acção Social dispõe do pessoal constante do quadro anexo ao presente diploma, e que dele faz parte integrante.
 
-###### ARTIGO 2
+ARTIGO 2
 
 (Estrutura do quadro)
 
@@ -144,7 +213,7 @@ i) Pessoal auxiliar e operário.
 
 2 - As carreiras e categorias do pessoal do Instituto terão a composição constante do quadro anexo, que poderá ser alterada sempre que as circunstâncias o justifiquem, através de portarias conjuntas dos Ministros das Finanças, da Coordenação Social e dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Provimento dos lugares do quadro)
 
@@ -156,7 +225,7 @@ a) Será provido definitivamente, se tiver revelado aptidão para o lugar;
 
 b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomeação provisória ou comissão de serviço, se não tiver revelado aptidão para o lugar.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Efeitos da comissão de serviço)
 
@@ -164,7 +233,7 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 2 - O tempo de serviço prestado em conformidade com o disposto no número anterior considera-se para todos os efeitos, inclusive promoção, como prestado no lugar de origem.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Provimento por contrato)
 
@@ -172,7 +241,7 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 2 - O contrato referido no número anterior será celebrado pelo prazo de um ano e obedecerá ao regime estabelecido no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, na parte que lhe for aplicável.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Destacamento e requisição)
 
@@ -186,7 +255,7 @@ b) Requisição, verificado o acordo prévio do funcionário interessado e do me
 
 3 - Qualquer das situações referidas no n.º 1 terá a duração máxima de um ano, renovável automaticamente e por uma só vez, podendo, todavia, ser dada por finda antes do seu termo a pedido do funcionário, por conveniência do Instituto ou por comum acordo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Exercício de funções noutros serviços ou organismos)
 
@@ -200,7 +269,7 @@ b) Requisição, verificado o acordo prévio do funcionário interessado e do me
 
 5 - Qualquer das situações mencionadas no presente artigo terá a duração máxima de um ano, renovável automaticamente e por uma só vez, findo o qual o funcionário ou regressará ao lugar de origem ou será integrado no quadro do serviço ou organismo onde se encontre destacado ou requisitado.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Contrato em regime do prestação de serviços)
 
@@ -208,7 +277,7 @@ b) Requisição, verificado o acordo prévio do funcionário interessado e do me
 
 2 - Os contratos deverão ser sempre reduzidos a escrito e mencionar a natureza do trabalho, o seu montante e o prazo previsto para a sua execução, sendo pagos por força de dotação própria a inscrever para esse fim no orçamento do Instituto e contendo obrigatoriamente a indicação de que não conferem em nenhum caso às entidades contratadas a qualidade de agente administrativo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Pessoal dirigente)
 
@@ -222,7 +291,7 @@ b) Os directores de serviços e chefes de divisão, por despacho do Ministro da 
 
 3 - Os chefes de repartição serão providos, por escolha do Ministro da Coordenação Social e dos Assuntos Sociais, de entre os indivíduos habilitados com licenciatura e experiência profissional adequada ou de entre chefes de secção do quadro do Instituto que reúnam os conhecimentos e experiência necessários para o exercício das funções e contem, pelo menos, três anos de bom e efectivo serviço nessa categoria.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Pessoal técnico superior)
 
@@ -234,7 +303,7 @@ b) Os directores de serviços e chefes de divisão, por despacho do Ministro da 
 
 4 - Os técnicos superiores de 2.ª classe serão recrutados, mediante concurso documental, de entre os funcionários do quadro do Instituto habilitados com licenciatura ou de entre indivíduos a ele estranhos com as mesmas habilitações, com preferência pelos primeiros e pelos que possuírem especialização apropriada às funções a que sejam destinados.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Pessoal técnico)
 
@@ -246,7 +315,7 @@ b) Os directores de serviços e chefes de divisão, por despacho do Ministro da 
 
 4 - Os inspectores-orientadores de educação pré-escolar são providos, por concurso de provas públicas e aprovação com curso específico, de harmonia com o disposto na [Lei n.º 26/79](https://diariodarepublica.pt/dr/detalhe/lei/26-1979-377922), de 7 de Agosto, sendo-lhes aplicável a legislação que, para idêntica categoria, for aprovada pelo Ministro da Educação.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Criação de novas carreiras)
 
@@ -284,7 +353,7 @@ c) Preceptor de 2.ª classe.
 
 6 - O ingresso na carreira de preceptor fica condicionado à posse do curso geral do ensino liceal ou equivalente, acrescido de formação em exercício adequada com a duração mínima de um ano.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Pessoal técnico-profissional e administrativo)
 
@@ -336,7 +405,7 @@ b) Indivíduos habilitados com o curso geral do ensino liceal ou equivalente.
 
 22 - Os técnicos auxiliares de 2.ª classe serão recrutados, mediante concurso documental, de entre os funcionários do quadro do Instituto habilitados com o curso geral do ensino liceal ou equivalente ou de entre indivíduos a ele estranhos com iguais habilitações, com preferência pelos primeiros e pelos que possuírem especialização apropriada às funções a que se destinam.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Carreiras com regime especial)
 
@@ -348,19 +417,19 @@ b) Indivíduos habilitados com o curso geral do ensino liceal ou equivalente.
 
 4 - O pessoal de informática será provido de harmonia com o [Decreto Regulamentar n.º 82/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/82-1977-279625), de 16 de Dezembro, e legislação complementar.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Pessoal auxiliar e operário)
 
 O recrutamento e o acesso do pessoal auxiliar e do pessoal operário far-se-ão atendendo ao que para o efeito estiver determinado na lei geral.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Alargamento da base de carreiras)
 
 Poderão ser preenchidos tantos lugares de categoria mais baixa da respectiva carreira quantas as vagas de categorias superiores que não possam ser preenchidas por falta de candidatos que reúnam as condições legais de promoção.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Classificação de serviço)
 
@@ -370,19 +439,19 @@ Poderão ser preenchidos tantos lugares de categoria mais baixa da respectiva ca
 
 3 - A classificação de serviço será sempre comunicada ao interessado, observando-se, quanto ao respectivo sistema, competência para apreciação e formalidades processuais, o que estiver fixado na lei geral.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Pessoal oriundo do quadro geral de adidos)
 
 Ao pessoal que transitar do quadro geral de adidos ser-lhe-á contada, para todos os efeitos legais, inclusive promoção, a respectiva antiguidade na categoria, verificada quer naquele quadro, quer nos ex-territórios ultramarinos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Pessoal oriundo das instituições privadas de solidariedade social)
 
 Ao pessoal que presta serviço no Instituto transferido por força da extinção de instituições privadas de solidariedade social ou da denúncia de acordos de cooperação ser-lhe-á contada, para todos os efeitos legais, inclusive promoção, a antiguidade na categoria verificada naqueles organismos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Primeiro provimento)
 
@@ -402,13 +471,13 @@ b) Para o lugar do quadro de categoria equivalente à que o interessado já poss
 
 6 - As presentes regras de provimento não são aplicáveis à categoria de técnico assessor.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Remunerações)
 
 Quando as remunerações das categorias atribuídas ao pessoal referido no artigo 2.º forem inferiores àquelas que o mesmo pessoal vem auferindo, será atribuído a este um complemento correspondente à diferença remuneratória respectiva até que, por promoção ou revisão salarial, seja alcançado o quantitativo das segundas.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Transferências de funcionários)
 
@@ -420,31 +489,31 @@ Quando as remunerações das categorias atribuídas ao pessoal referido no artig
 
 4 - Observado o disposto no número anterior, qualquer funcionário pode ser chamado a desempenhar temporariamente funções compatíveis com a sua categoria e qualificação em mais de um serviço ou em serviço diferente daquele em que se encontra colocado, sem que isso dê direito a qualquer aumento de remunerações.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Encargos financeiros)
 
 Para satisfação dos encargos resultantes da execução do presente diploma até final do ano económico em curso poderão ser utilizadas as disponibilidades das respectivas dotações de pessoal dos quadros aprovados por lei.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Resolução de dúvidas)
 
 As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro da Coordenação Social e dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública e, quando estiverem em causa matérias da sua competência, do Ministro das Finanças.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Revisão)
 
 O presente diploma poderá ser revisto com vista a adaptá-lo às exigências funcionais próprias decorrentes das directrizes definidas para o sistema unificado segurança social.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Revogações)
 
 Ficam revogados integralmente os capítulos V e VI do [Decreto n.º 396/72](https://diariodarepublica.pt/dr/detalhe/decreto/396-1972-690218), de 17 de Outubro, bem como as Portarias n.os 742/72, de 18 de Dezembro, e n.º 808/72, de 30 do mesmo mês, com as alterações introduzidas pelo [Decreto-Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1976-506186), de 13 de Junho, e pela [Portaria n.º 236/76](https://diariodarepublica.pt/dr/detalhe/portaria/236-1976-502577), de 14 de Abril.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Entrada em vigor)
 
@@ -452,14 +521,14 @@ Este diploma entra em vigor no dia imediato ao da sua publicação, retrotraindo
 
 Visto e aprovado em Conselho de Ministros. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 29 de Dezembro de 1979.**
+Promulgado em 29 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro anexo nos termos do artigo 1.º do Decreto-Lei n.º 519-02/79
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29916/03270335.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29916/03270335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29916/03270335.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro dos Assuntos Sociais, Alfredo Bruto da Casta.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro dos Assuntos Sociais, Alfredo Bruto da Casta.

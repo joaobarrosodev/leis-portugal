@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1979-377548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e554e75205be41ca961e6902795e3c31fcb35889e0a307b107e0f6a4310cca1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f53713436677fad20b559e3c605e07d86b079e11af109c42a2741d0c39c56325
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aluno Militar
+- Cartão de Identificação
+- Cidadão Estrangeiro
+- Cooperação Militar
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:395894:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395894:por
+  label: "Alterado o cartão de identificação criado pelo art. 1.º do presente diploma, pelo DEC LEI.230/82.1982.06.17.CR DR.IS\
+    \ [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1982-395894
+  date: '1982-06-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:16Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +104,11 @@ Considerando ser de toda a conveniência o estabelecimento de um modelo de cart�
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os cartões de identificação dos alunos militares estrangeiros frequentando unidades ou estabelecimentos militares de ensino são do modelo indicado em anexo ao presente diploma.
+Artigo 1.º Os cartões de identificação dos alunos militares estrangeiros frequentando unidades ou estabelecimentos militares de ensino são do modelo indicado em anexo ao presente diploma.
 
-###### Art. 2.º Os cartões de identificação referidos no artigo anterior não substituem o passaporte ou qualquer outra forma de identificação estabelecida pele lei civil.
+Art. 2.º Os cartões de identificação referidos no artigo anterior não substituem o passaporte ou qualquer outra forma de identificação estabelecida pele lei civil.
 
-###### Art. 3.º Os cartões de identificação referidos no artigo 1.º caracterizam-se da seguinte forma:
+Art. 3.º Os cartões de identificação referidos no artigo 1.º caracterizam-se da seguinte forma:
 
 1) São impressos em ambas as faces em papel do tipo utilizado nos bilhetes de identidade do quadro permanente, de cor laranja, com os desenhos repetitivos de fundo dos distintivos dos diversos ramos, tendo no topo a expressão «Exército Português», «Marinha Portuguesa» ou «Força Aérea Portuguesa», conforme os casos, e a designação da unidade ou estabelecimento militar frequentado;
 
@@ -105,9 +116,9 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 3) Os mesmos cartões são protegidos por um invólucro transparente de matéria plástica aplicada directamente sobre o cartão.
 
-###### Art. 4.º A fotografia a utilizar é tirada a três quartos e da linha ombro para cima, com o modelo de uniforme correspondente ao determinado para o bilhete de identidade ou cartão de identificação dos alunos nacionais que frequentam a mesma unidade ou estabelecimento de ensino.
+Art. 4.º A fotografia a utilizar é tirada a três quartos e da linha ombro para cima, com o modelo de uniforme correspondente ao determinado para o bilhete de identidade ou cartão de identificação dos alunos nacionais que frequentam a mesma unidade ou estabelecimento de ensino.
 
-###### Art. 5.º - 1 - Os cartões de identificação são emitidas pela direcção do serviço de pessoal de cada ramo das forças armadas e autenticados com os respectivos selos brancos ou os das repartições competentes apostos no canto inferior direito da fotografia.
+Art. 5.º - 1 - Os cartões de identificação são emitidas pela direcção do serviço de pessoal de cada ramo das forças armadas e autenticados com os respectivos selos brancos ou os das repartições competentes apostos no canto inferior direito da fotografia.
 
 2 - Incumbe às direcções do serviço de pessoal:
 
@@ -119,14 +130,14 @@ c) No caso de falecimento, providenciar para que sejam restituídos os cartões 
 
 d) Definir o prazo de validade a inscrever nos cartões, por forma a coincidir, quanto possível, com o termo do período do curso ou estágio.
 
-###### Art. 6.º As regalias sociais a conceder aos alunos estrangeiros serão as determinadas pelos acordos gerais de cooperação, protocolos adicionais e mais regulamentação complementar que venha a ser posteriormente fixada.
+Art. 6.º As regalias sociais a conceder aos alunos estrangeiros serão as determinadas pelos acordos gerais de cooperação, protocolos adicionais e mais regulamentação complementar que venha a ser posteriormente fixada.
 
 Visto e aprovado em Conselho da Revolução em 29 de Junho de 1979.
 
-**Promulgado em 4 de Julho de 1979.**
+Promulgado em 4 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18700/19111912.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18700/19111912.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18700/19111912.pdf)

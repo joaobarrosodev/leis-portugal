@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08800/08510853.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1977-139954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 104155ae71b7f1be9463869786511901eae3c527212a30650cfe46c39becf71b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f426dfdbc4c46890dc29a8cf94d88d7c0b68fdaf963626cbfa4d3cc6c3a84917
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Caixa Geral de Depósitos
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Contabilidade Pública
+- Fiscalização
+- Formação Profissional
+- Formas de Provimento
+- Gabinete de Formação e Informação Técnica
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Gestão de Recursos Humanos
+- Instituto de Geologia Minas e Metalurgia
+- Ministério da Indústria e Tecnologia
+- Ministro da Administração Interna
+- Ministro da Indústria e Tecnologia
+- Nomeação
+- Orgânica
+- Personalidade Jurídica
+- Pessoal Dirigente
+- Petróleo
+- Presidente
+- Produto Petrolífero
+- Prospecção de Petróleo
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime de Pessoal
+- Secretário de Estado da Energia e Minas
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:434008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434008:por
+  label: "Extinto o Gabinete para a Pesquisa e Exploração do Petróleo (GPEP) criado pelo presente diploma, e regulamentado\
+    \ pelo DR 23/90 de 07-Ago, pelo DEC LEI.334/99.1999.08.20.MECO DR.IS-A [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1999-434008
+  date: '1999-08-20'
+- type: corrected_by
+  target: pt:dre:253237:por
+  label: "Rectificado pela RECT.DD138.08.06.1977.PCM, DR.IS [133] de 08.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-253237
+  date: '1977-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:13Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +145,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1. É criado no Ministério da Indústria e Tecnologia, na dependência directa da Secretaria de Estado da Energia e Minas, o Gabinete para a Pesquisa e Exploração de Petróleo, abreviadamente designado neste diploma por Gabinete.
+Artigo 1.º - 1. É criado no Ministério da Indústria e Tecnologia, na dependência directa da Secretaria de Estado da Energia e Minas, o Gabinete para a Pesquisa e Exploração de Petróleo, abreviadamente designado neste diploma por Gabinete.
 
 2. O Gabinete é dotado de personalidade jurídica e de autonomia administrativa e reger-se-á pelas disposições do presente diploma e pelos regulamentos que em sua execução vierem a ser aprovados.
 
-###### Art. 2.º São atribuições do Gabinete:
+Art. 2.º São atribuições do Gabinete:
 
 a) Proceder ao estudo da legislação relacionada com a prospecção, pesquisa, desenvolvimento e exploração de recursos petrolíferos, acompanhando a actividade internacional paralela;
 
@@ -135,7 +175,7 @@ l) Exercer os demais funções que lhe sejam cometidas por lei ou que se mostrem
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º São órgãos do Gabinete:
+Art. 3.º São órgãos do Gabinete:
 
 a) A direcção;
 
@@ -143,11 +183,11 @@ b) O conselho administrativo.
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 4.º - 1. A direcção é composta por um director e um subdirector, designados pelo Secretário de Estado da Energia e Minas.
+Art. 4.º - 1. A direcção é composta por um director e um subdirector, designados pelo Secretário de Estado da Energia e Minas.
 
 2. O subdirector substitui o director nas suas feitas e impedimentos.
 
-###### Art. 5.º Compete à direcção praticar todos os actos necessários à gestão do Gabinete e, em especial:
+Art. 5.º Compete à direcção praticar todos os actos necessários à gestão do Gabinete e, em especial:
 
 a) Submeter à aprovação superior os programas de actividade do Gabinete e fazê-los executar;
 
@@ -167,7 +207,7 @@ h) Dar execução a todos os actos necessários à realização das suas atribui
 
 #### SECÇÃO II — Do conselho administrativo
 
-###### Art. 6.º - 1. O conselho administrativo é constituído por um presidente e dois vogais, podendo ser assistido por um representante do Tribunal de Contas.
+Art. 6.º - 1. O conselho administrativo é constituído por um presidente e dois vogais, podendo ser assistido por um representante do Tribunal de Contas.
 
 2. As funções de presidente serão desempenhadas pelo director do Gabinete e, na sua falta, pelo subdirector.
 
@@ -175,7 +215,7 @@ h) Dar execução a todos os actos necessários à realização das suas atribui
 
 4. Servirá de secretário o funcionário do Gabinete que o director designar.
 
-###### Art. 7.º - 1. Compete ao conselho administrativo:
+Art. 7.º - 1. Compete ao conselho administrativo:
 
 a) Organizar o orçamento anual das despesas;
 
@@ -195,13 +235,13 @@ g) Apresentar o relatório anual das actividades do Gabinete.
 
 3. De todas as reuniões do conselho serão lavradas actas em livro próprio.
 
-###### Art. 8.º - 1. Os fundos do Gabinete serão depositados na Caixa Geral de Depósitos e movimentados por meio de cheques assinados por dois membros do conselho administrativo.
+Art. 8.º - 1. Os fundos do Gabinete serão depositados na Caixa Geral de Depósitos e movimentados por meio de cheques assinados por dois membros do conselho administrativo.
 
 2. Poderá ser constituído um fundo de maneio, de quantitativo a fixar por despacho do Ministro da Indústria e Tecnologia, destinado ao pagamento directo de pequenas despesas ou despesas de liquidação inadiável.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 9.º - 1. O pessoal do Gabinete agrupar-se-á de acordo com a seguinte classificação:
+Art. 9.º - 1. O pessoal do Gabinete agrupar-se-á de acordo com a seguinte classificação:
 
 Pessoal dirigente;
 
@@ -209,17 +249,17 @@ Pessoal técnico.
 
 2. Os quadros do pessoal dirigente e técnico do Gabinete terão a composição constante do mapa anexo ao presente diploma, deste fazendo parte integrante.
 
-###### Art. 10.º A dotação em pessoal administrativo e auxiliar pertence ao quadro único do pessoal do Ministério e sera fixado por despacho do Ministro da Indústria e Tecnologia.
+Art. 10.º A dotação em pessoal administrativo e auxiliar pertence ao quadro único do pessoal do Ministério e sera fixado por despacho do Ministro da Indústria e Tecnologia.
 
-###### Art. 11.º O pessoal dirigente será recrutado pela seguinte forma:
+Art. 11.º O pessoal dirigente será recrutado pela seguinte forma:
 
 a) O director e o subdirector, por escolha do Ministro da Indústria e Tecnologia de entre indivíduos habilitados com curso superior adequado;
 
 b) Os directores de serviço, por escolha do Ministro da Indústria e Tecnologia, sob proposta do director, de entre indivíduos de reconhecida competência habilitados com curso superior adequado.
 
-###### Art. 12.º O pessoal dirigente será provido em comissão de serviço pelo período de três anos, renovável.
+Art. 12.º O pessoal dirigente será provido em comissão de serviço pelo período de três anos, renovável.
 
-###### Art. 13.º - 1. O pessoal técnico deverá possuir as habilitações literárias seguintes:
+Art. 13.º - 1. O pessoal técnico deverá possuir as habilitações literárias seguintes:
 
 Carreira técnica - licenciatura adequada ao desempenho das respectivas funções;
 
@@ -229,40 +269,40 @@ Carreira de técnico auxiliar - curso geral do ensino liceal ou habilitações e
 
 2. O provimento do pessoal técnico far-se-á por nomeação.
 
-###### Art. 14.º - 1. O Gabinete poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a execução de funções especializadas, em de prestação de serviços.
+Art. 14.º - 1. O Gabinete poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a execução de funções especializadas, em de prestação de serviços.
 
 2. Os contratos de prestação de serviços celebrados ao abrigo do número anterior deverão especificar obrigatoriamente a natureza da tarefa a executar, o prazo para a sua execução e a remuneração a pagar.
 
 Disposições finais e transitórias
 
-###### Art. 15.º O regime de pessoal do Gabinete, designadamente no que respeita a formas e requisitos de provimento, sistema de admissão, promoção e formação, será o que for aprovado para o Ministério da Indústria e Tecnologia, por decreto dos Ministros da Administração Interna, das Finanças e da Indústria e Tecnologia.
+Art. 15.º O regime de pessoal do Gabinete, designadamente no que respeita a formas e requisitos de provimento, sistema de admissão, promoção e formação, será o que for aprovado para o Ministério da Indústria e Tecnologia, por decreto dos Ministros da Administração Interna, das Finanças e da Indústria e Tecnologia.
 
-###### Art. 16.º - 1. O primeiro provimento dos lugares do quadro anexo a este diploma será feito por escolha prioritariamente de entre o pessoal que reúna os requisitos legais estabelecidos no artigo 13.º e que à data da publicação deste diploma preste serviço, a qualquer título, no Ministério da Indústria e Tecnologia.
+Art. 16.º - 1. O primeiro provimento dos lugares do quadro anexo a este diploma será feito por escolha prioritariamente de entre o pessoal que reúna os requisitos legais estabelecidos no artigo 13.º e que à data da publicação deste diploma preste serviço, a qualquer título, no Ministério da Indústria e Tecnologia.
 
 2. O pessoal referido no número anterior ingressará no quadro do Gabinete, à medida que os serviços forem sendo organizados, mediante listas nominativas, a publicar no Diário da República, aprovadas pelo Ministro da Indústria e Tecnologia e visadas pelo Tribunal de Contas, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de qualquer outra formalidade.
 
 3. Das listas nominativas constarão as categorias nas quais o pessoal é integrado de acordo com critérios a definir pelo MIT e que atenderão às habilitações, ao mérito e à antiguidade.
 
-###### Art. 17.º Até ao final do corrente ano, os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério da Indústria e Tecnologia para o corrente ano, com os necessários reajustamentos e reforços indispensáveis à cobertura das empresas previstas.
+Art. 17.º Até ao final do corrente ano, os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério da Indústria e Tecnologia para o corrente ano, com os necessários reajustamentos e reforços indispensáveis à cobertura das empresas previstas.
 
-###### Art. 18.º Transita para o Gabinete a competência que está atribuída à Direcção-Geral de Minas e Serviços Geológicos na parte abrangida por este diploma.
+Art. 18.º Transita para o Gabinete a competência que está atribuída à Direcção-Geral de Minas e Serviços Geológicos na parte abrangida por este diploma.
 
-###### Art. 19.º Transitam para o Gabinete a documentação e outros valores necessários ao exercício das funções que lhe são cometidas existentes em qualquer dos actuais organismos do Ministério da Indústria e Tecnologia.
+Art. 19.º Transitam para o Gabinete a documentação e outros valores necessários ao exercício das funções que lhe são cometidas existentes em qualquer dos actuais organismos do Ministério da Indústria e Tecnologia.
 
-###### Art. 20.º As dúvidas que surjam na interpretação das normas deste diploma serão resolvidas por despacho dos Ministros da Administração Interna, das Finanças e da Indústria e Tecnologia, de acordo com as respectivas competências.
+Art. 20.º As dúvidas que surjam na interpretação das normas deste diploma serão resolvidas por despacho dos Ministros da Administração Interna, das Finanças e da Indústria e Tecnologia, de acordo com as respectivas competências.
 
-###### Art. 21.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 21.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 29 de Março de 1977.**
+Promulgado em 29 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/08800/08510853.pdf))](https://files.diariodarepublica.pt/1s/1977/04/08800/08510853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08800/08510853.pdf)
 
-**O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.**
+O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.

@@ -49,40 +49,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1f1f2884a7e7a4f934259dc309bb544e9ef11ec82afa7077310fdd61e783906
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dc66a7932048f0d876814bc586d90f1d4e669ba922320b4d12a61c48439d423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Arquipélago da Madeira
+- Câmara Municipal
+- Cobrança de Impostos
+- Código Administrativo
+- Contribuição Predial
+- Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+- Imposto de Comércio e Indústria
+- Imposto de Turismo
+- Imposto Profissional
+- Imposto sobre a Indústria Agrícola
+- Impostos Directos
+- Receita Própria
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:253214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446896:por
+  label: "Alterados os arts. 706º, 711º e 712º do Código Administrativo, aprovado pelo Dec lei 31095, de 31-Dez de 1940, na\
+    \ redacção do presente diploma, pelo DEC LEI.48/71.22.02.1971.MI, DG.IS [44] de 22.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1971-446896
+  date: '1971-02-22'
+- type: amended_by
+  target: pt:dre:413014:por
+  label: "Considerada prejudicada a referência a carnes verdes, salgadas e fumadas constante do § 2.º do artigo 715.ºdo Código\
+    \ Administrativo aprovado pelo Dec Lei 31095 de 31-Dez de 1940, considerando-se regulada por legislação especial, para\
+    \ efeito do disposto no § 1.º do artigo 711.º do mesmo Código, na redacção que lhe foi conferida pelo presente diploma.\
+    \ DEC LEI.56/74.16.02.1974.MI, DG.IS [40] de 16.02.1974\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1974-413014
+  date: '1974-02-16'
+- type: cites
+  target: pt:dre:152513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:46Z'
   warnings: []
   errors: []
 ---
@@ -117,13 +169,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 685.º, 704.º, 705.º 706.º, 708.º, 709.º, 710.º, 711.º, 712.º, 713,º, 723.º e 784.º do Código Administrativo passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 685.º, 704.º, 705.º 706.º, 708.º, 709.º, 710.º, 711.º, 712.º, 713,º, 723.º e 784.º do Código Administrativo passam a ter a seguinte redacção:
 
-###### Art. 685.º A liquidação e cobrança dos impostos directos que não sejam constituídos por adicionais a impostos do Estado e em geral a dos rendimentos em relação aos quais seja adoptado o sistema de lançamento será regida, na parte aplicável, pelas regras estabelecidas para os rendimentos do Tesouro.
+Art. 685.º A liquidação e cobrança dos impostos directos que não sejam constituídos por adicionais a impostos do Estado e em geral a dos rendimentos em relação aos quais seja adoptado o sistema de lançamento será regida, na parte aplicável, pelas regras estabelecidas para os rendimentos do Tesouro.
 
 ...
 
-###### Art. 704.º São impostos directos:
+Art. 704.º São impostos directos:
 
 1.º Os adicionais às contribuições e impostos do Estado;
 
@@ -137,7 +189,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6.º O imposto de turismo.
 
-###### Art. 705.º As câmaras municipais poderão lançar uma percentagem adicional sobre as colectas da contribuição predial, do imposto sobre a indústria agrícola, da contribuição industrial e do imposto de capitais liquidadas para o Estado nos respectivos concelhos, a qual não poderá ser superior a:
+Art. 705.º As câmaras municipais poderão lançar uma percentagem adicional sobre as colectas da contribuição predial, do imposto sobre a indústria agrícola, da contribuição industrial e do imposto de capitais liquidadas para o Estado nos respectivos concelhos, a qual não poderá ser superior a:
 
 35 por cento da contribuição predial rústica;
 
@@ -151,7 +203,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. A fixação das percentagens adicionais será feita de modo que possa ser comunicada ao director de finanças até ao dia 30 de Setembro, entendendo-se, na falta de comunicação, que se mantêm as percentagens fixadas anteriormente.
 
-###### Art. 706.º Os adicionais às colectas da contribuição industrial dos grupos A e B e do imposto sobre a indústria agrícola liquidados aos contribuintes com instalações em mais do que um concelho serão repartidos pelas câmaras municipais que o requererem, na proporção dos rendimentos atribuíveis à actividade exercida em cada um dos respectivos concelhos, sempre que a importância dessa actividade o justifique.
+Art. 706.º Os adicionais às colectas da contribuição industrial dos grupos A e B e do imposto sobre a indústria agrícola liquidados aos contribuintes com instalações em mais do que um concelho serão repartidos pelas câmaras municipais que o requererem, na proporção dos rendimentos atribuíveis à actividade exercida em cada um dos respectivos concelhos, sempre que a importância dessa actividade o justifique.
 
 § 1.º As câmaras municipais que desejarem receber os adicionais à contribuição industrial e ao imposto sobre a indústria agrícola liquidados noutro concelho ou que pretenderem a alteração da percentagem que lhes estiver atribuída farão o pedido, durante o mês de Maio, à Direcção-Geral de Administração Política e Civil do Ministério do Interior, instruindo-o com cópias das declarações que lhes tenham sido apresentadas pelo contribuinte para efeito da distribuição do imposto de comércio ou indústria, devidamente informadas, e cópia da deliberação em que foi resolvido formulá-lo.
 
@@ -169,7 +221,7 @@ A falta de remessa dos elementos, pelas empresas, dentro do prazo que lhes for i
 
 ...
 
-###### Art. 708.º O imposto para o serviço de incêndios destina-se a manter o serviço de prevenção e extinção de incêndios existente no concelho e, especialmente, à aquisição de material.
+Art. 708.º O imposto para o serviço de incêndios destina-se a manter o serviço de prevenção e extinção de incêndios existente no concelho e, especialmente, à aquisição de material.
 
 § 1.º As câmaras municipais que mantenham ou subsidiem serviço de incêndios poderão colectar os prédios urbanos que não beneficiem de isenção definitiva de contribuição predial e os estabelecimentos comerciais ou industriais do concelho, quando uns e outros não estejam seguros pelo seu valor em sociedades legalmente autorizadas.
 
@@ -193,17 +245,17 @@ A falta de remessa dos elementos, pelas empresas, dentro do prazo que lhes for i
 
 § 11.º São aplicáveis ao imposto para o serviço de incêndios directamente cobrado pelas câmaras as disposições do § 5.º do artigo anterior.
 
-###### Art. 709.º O imposto municipal sobre espectáculos é devido pelas actividades passíveis de imposto, para o Estado, sobre espectáculos e divertimentos públicos, não podendo exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado, ou 35 por cento nos concelhos de Lisboa e Porto.
+Art. 709.º O imposto municipal sobre espectáculos é devido pelas actividades passíveis de imposto, para o Estado, sobre espectáculos e divertimentos públicos, não podendo exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado, ou 35 por cento nos concelhos de Lisboa e Porto.
 
 § 1.º Sobre o imposto de espectáculos incidirá o adicional de 8 por cento para o Estado, não sendo devido selo de conhecimento.
 
 § 2.º Aplicam-se a este imposto as disposições que regulam a liquidação e cobrança do correspondente imposto do Estado.
 
-###### Art. 710.º O imposto de comércio e indústria é devido pelo exercício, na circunscrição municipal, de qualquer actividade passível de contribuição industrial, ou imposto de natureza especial que a substitua.
+Art. 710.º O imposto de comércio e indústria é devido pelo exercício, na circunscrição municipal, de qualquer actividade passível de contribuição industrial, ou imposto de natureza especial que a substitua.
 
 § único. As empresas isentas do pagamento de contribuição industrial, mas não do pagamento do imposto municipal, pagarão imposto de comércio e indústria sobre a colecta que lhes seria liquidada, segundo a lei, se não estivessem isentas.
 
-###### Art. 711.º A taxa do imposto de comércio e indústria não poderá exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado no ano anterior, ou 45 por cento em Lisboa e Porto.
+Art. 711.º A taxa do imposto de comércio e indústria não poderá exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado no ano anterior, ou 45 por cento em Lisboa e Porto.
 
 § 1.º Será aplicável o limite fixado para os concelhos de Lisboa e Porto aos concelhos cujas câmaras não cobrem ou deliberem suprimir a cobrança de impostos indirectos a que se refere o artigo 714.º deste Código, salvo os que incidam sobre géneros ou artigos cuja tributação esteja regulada por legislação especial.
 
@@ -211,7 +263,7 @@ A falta de remessa dos elementos, pelas empresas, dentro do prazo que lhes for i
 
 § 3.º Sobre o imposto de comércio e indústria incidirá um adicional, para o Estado, de 8 por cento, não sendo devido selo de conhecimento.
 
-###### Art. 712.º As empresas que exerçam actividade em mais do que um concelho pagarão o imposto de comércio e indústria na câmara municipal do concelho onde lhes for liquidada a contribuição industrial, ou onde este imposto lhes seria liquidável, segundo a lei, se dele não estivessem isentas, aplicando-se a taxa mais elevada das votadas nos diversos concelhos.
+Art. 712.º As empresas que exerçam actividade em mais do que um concelho pagarão o imposto de comércio e indústria na câmara municipal do concelho onde lhes for liquidada a contribuição industrial, ou onde este imposto lhes seria liquidável, segundo a lei, se dele não estivessem isentas, aplicando-se a taxa mais elevada das votadas nos diversos concelhos.
 
 § 1.º O imposto de comércio e indústria será repartido pelas câmaras municipais dos concelhos onde as empresas possuam a sede, escritórios de administração, filiais, sucursais, agências, delegações ou qualquer outra forma de representação própria permanente.
 
@@ -229,7 +281,7 @@ As alterações que, em anos seguintes e por acordo entre os referidos serviços
 
 § 5.º O disposto nos parágrafos 1.º a 4.º deste artigo não se aplica relativamente aos contribuintes cuja colecta para o Estado seja igual ou inferior a 10000$00.
 
-###### Art. 713.º O imposto de comércio e indústria será cobrado eventualmente durante o mês de Abril, ou nos meses de Abril e Outubro quando a câmara municipal delibere permitir o pagamento em duas prestações.
+Art. 713.º O imposto de comércio e indústria será cobrado eventualmente durante o mês de Abril, ou nos meses de Abril e Outubro quando a câmara municipal delibere permitir o pagamento em duas prestações.
 
 § 1.º A secretaria da câmara municipal expedirá avisos para pagamento voluntário do imposto até cinco dias antes da data do início do período da cobrança.
 
@@ -241,7 +293,7 @@ Se a cessação se verificar posteriormente à liquidação, a segunda prestaç�
 
 ...
 
-###### Art. 723.º As câmaras municipais podem cobrar taxas:
+Art. 723.º As câmaras municipais podem cobrar taxas:
 
 1.º Por enterramentos, concessão de terrenos nos cemitérios municipais e uso de jazigos e ossários municipais e casas mortuárias;
 
@@ -267,17 +319,17 @@ Se a cessação se verificar posteriormente à liquidação, a segunda prestaç�
 
 ...
 
-###### Art. 784.º As juntas distritais podem lançar o adicional de 2 por cento sobre as colectas das contribuições predial e industrial e dos impostos sobre a indústria agrícola e de capitais, liquidadas para o Estado na área da sua jurisdição.
+Art. 784.º As juntas distritais podem lançar o adicional de 2 por cento sobre as colectas das contribuições predial e industrial e dos impostos sobre a indústria agrícola e de capitais, liquidadas para o Estado na área da sua jurisdição.
 
 § 1.º A votação dos adicionais será feita de modo que possa ser comunicada ao director de finanças até ao dia 30 de Setembro, presumindo-se, na falta de comunicação, que se mantêm os adicionais votados anteriormente.
 
 § 2.º A repartição que se efectuar nos termos e para o efeito do disposto no artigo 706.º aplicar-se-á, do mesmo modo, relativamente aos adicionais para as juntas distritais.
 
-###### Art. 2.º A rubrica do capítulo IV do título I da parte III do Código Administrativo passa a designar-se: «Da liquidação e cobrança das receitas».
+Art. 2.º A rubrica do capítulo IV do título I da parte III do Código Administrativo passa a designar-se: «Da liquidação e cobrança das receitas».
 
-###### Art. 3.º O artigo 83.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passa a ter a seguinte redacção:
+Art. 3.º O artigo 83.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passa a ter a seguinte redacção:
 
-###### Art. 83.º Constituem receita ordinária dos distritos autónomos:
+Art. 83.º Constituem receita ordinária dos distritos autónomos:
 
 1.º A contribuição predial, rústica e urbana;
 
@@ -309,21 +361,21 @@ Se a cessação se verificar posteriormente à liquidação, a segunda prestaç�
 
 15.º Quaisquer outros rendimentos atribuídos por lei.
 
-###### Art. 4.º Compete ao Ministro do Interior aprovar, por despacho, os modelos de livros e demais impressos a utilizar nos serviços de contabilidade dos corpos administrativos.
+Art. 4.º Compete ao Ministro do Interior aprovar, por despacho, os modelos de livros e demais impressos a utilizar nos serviços de contabilidade dos corpos administrativos.
 
-###### Art. 5.º Mantém-se o critério de repartição dos adicionais à contribuição industrial que houver sido fixado nos termos do artigo 3.º do [Decreto-Lei n.º 45241](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45241-1963-686271), de 13 de Setembro de 1963, enquanto não se proceder à respectiva alteração, de harmonia com o disposto no artigo 706.º do Código Administrativo, na sua nova redacção.
+Art. 5.º Mantém-se o critério de repartição dos adicionais à contribuição industrial que houver sido fixado nos termos do artigo 3.º do [Decreto-Lei n.º 45241](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45241-1963-686271), de 13 de Setembro de 1963, enquanto não se proceder à respectiva alteração, de harmonia com o disposto no artigo 706.º do Código Administrativo, na sua nova redacção.
 
-###### Art. 6.º As Direcções-Gerais das Contribuições e Impostos e do Comércio remeterão à Direcção-Geral de Administração Política e Civil, do Ministério do Interior, dentro de um mês, todos os processos respeitantes à aplicação do [Decreto-Lei n.º 36779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36779-1948-152513), de 6 de Março de 1948.
+Art. 6.º As Direcções-Gerais das Contribuições e Impostos e do Comércio remeterão à Direcção-Geral de Administração Política e Civil, do Ministério do Interior, dentro de um mês, todos os processos respeitantes à aplicação do [Decreto-Lei n.º 36779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36779-1948-152513), de 6 de Março de 1948.
 
-###### Art. 7.º A taxa do imposto de comércio e indústria aplicável às empresas que nos últimos cinco anos foram sempre colectadas em função do capital poderá ser a utilizada na liquidação do imposto municipal no ano de 1963, acrescida em 1964, e, sucessivamente, nos anos seguintes, de um quinto da diferença entre a mesma e a que vier a ser fixada, até que esta seja atingida.
+Art. 7.º A taxa do imposto de comércio e indústria aplicável às empresas que nos últimos cinco anos foram sempre colectadas em função do capital poderá ser a utilizada na liquidação do imposto municipal no ano de 1963, acrescida em 1964, e, sucessivamente, nos anos seguintes, de um quinto da diferença entre a mesma e a que vier a ser fixada, até que esta seja atingida.
 
-###### Art. 8.º O imposto de comércio e indústria a liquidar em 1964 aos contribuintes abrangidos pelo artigo 16.º do [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, terá por base a colecta da contribuição industrial que lhes foi liquidada em 1963, nos termos do Código da Contribuição Industrial.
+Art. 8.º O imposto de comércio e indústria a liquidar em 1964 aos contribuintes abrangidos pelo artigo 16.º do [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, terá por base a colecta da contribuição industrial que lhes foi liquidada em 1963, nos termos do Código da Contribuição Industrial.
 
-###### Art. 9.º O imposto de comércio e indústria a pagar em 1964 pelos vendedores ambulantes a que se referiam os Decretos-Leis n.os 32595 e 34520, respectivamente de 30 de Dezembro de 1942 e 23 de Abril de 1945, será de importância igual à obtida em 1963 pela câmara municipal, mediante a participação no produto da respectiva contribuição industrial, nos termos do artigo 5.º do citado [Decreto-Lei n.º 34520](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34520-1945-614799).
+Art. 9.º O imposto de comércio e indústria a pagar em 1964 pelos vendedores ambulantes a que se referiam os Decretos-Leis n.os 32595 e 34520, respectivamente de 30 de Dezembro de 1942 e 23 de Abril de 1945, será de importância igual à obtida em 1963 pela câmara municipal, mediante a participação no produto da respectiva contribuição industrial, nos termos do artigo 5.º do citado [Decreto-Lei n.º 34520](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34520-1945-614799).
 
-###### Art. 10.º A cobrança eventual do imposto de comércio e indústria poderá no ano corrente, mediante deliberação da câmara municipal, iniciar-se nos meses de Maio ou Junho.
+Art. 10.º A cobrança eventual do imposto de comércio e indústria poderá no ano corrente, mediante deliberação da câmara municipal, iniciar-se nos meses de Maio ou Junho.
 
-###### Art. 11.º São criados no quadro do pessoal da Direcção-Geral de Administração Política e Civil mais os seguintes lugares:
+Art. 11.º São criados no quadro do pessoal da Direcção-Geral de Administração Política e Civil mais os seguintes lugares:
 
 1 chefe de secção;
 
@@ -335,18 +387,18 @@ Se a cessação se verificar posteriormente à liquidação, a segunda prestaç�
 
 1 dactilógrafo.
 
-###### Art. 12.º Ao funcionário da Direcção-Geral em quem for delegada a presidência da comissão a que se refere o § 3.º do artigo 706.º do Código Administrativo, segundo a redacção que lhe é dada por este diploma, e confiada a chefia do respectivo serviço, poderá ser atribuída gratificação mensal a fixar por despacho do Ministro do Interior, ouvido o Ministro das Finanças.
+Art. 12.º Ao funcionário da Direcção-Geral em quem for delegada a presidência da comissão a que se refere o § 3.º do artigo 706.º do Código Administrativo, segundo a redacção que lhe é dada por este diploma, e confiada a chefia do respectivo serviço, poderá ser atribuída gratificação mensal a fixar por despacho do Ministro do Interior, ouvido o Ministro das Finanças.
 
 Os vogais da comissão terão direito, por cada reunião em que participarem, ao abono de senha de presença de montante a fixar também por despacho do Ministro do Interior, ouvido o Ministro das Finanças, além do abono para transportes e ajudas de custo, nos termos da lei.
 
-###### Art. 13.º Os lugares de chefe de secção da Direcção-Geral de Administração Política e Civil serão providos, sob proposta do director-geral, por funcionário da 1.ª classe da 2.ª categoria do quadro geral dos serviços externos, subinspectores administrativos ou primeiros-oficiais do quadro interno, da mesma Direcção-Geral, com boas informações e o mínimo de três anos de serviço na respectiva classe, ou por licenciados em Direito, ainda que estranhos aos mesmos quadros.
+Art. 13.º Os lugares de chefe de secção da Direcção-Geral de Administração Política e Civil serão providos, sob proposta do director-geral, por funcionário da 1.ª classe da 2.ª categoria do quadro geral dos serviços externos, subinspectores administrativos ou primeiros-oficiais do quadro interno, da mesma Direcção-Geral, com boas informações e o mínimo de três anos de serviço na respectiva classe, ou por licenciados em Direito, ainda que estranhos aos mesmos quadros.
 
-###### Art. 14.º Os encargos a que der lugar a execução dos artigos 11.º e 12.º deste diploma serão satisfeitos no ano corrente pelas sobras das verbas do n.º 1) do artigo 34.º do orçamento do Ministério do Interior.
+Art. 14.º Os encargos a que der lugar a execução dos artigos 11.º e 12.º deste diploma serão satisfeitos no ano corrente pelas sobras das verbas do n.º 1) do artigo 34.º do orçamento do Ministério do Interior.
 
-###### Art. 15.º Ficam revogados os Decretos-Leis n.os 36779, de 6 de Março de 1948, e 44187, de 14 de Fevereiro de 1962, com excepção, respectivamente, dos seus artigos 5.º e 2.º
+Art. 15.º Ficam revogados os Decretos-Leis n.os 36779, de 6 de Março de 1948, e 44187, de 14 de Fevereiro de 1962, com excepção, respectivamente, dos seus artigos 5.º e 2.º
 
-###### Art. 16.º Este decreto-lei entra em vigor nas ilhas adjacentes na mesma data em que começar a vigorar no território do continente.
+Art. 16.º Este decreto-lei entra em vigor nas ilhas adjacentes na mesma data em que começar a vigorar no território do continente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

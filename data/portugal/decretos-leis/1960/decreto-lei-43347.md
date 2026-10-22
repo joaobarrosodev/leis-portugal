@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43347-1960-513016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e3bbb8ebb3d25e1ef6bad512301118a4c3cdaa8415daa8d8e31388fda50a3d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48ae1c549ca63f9ba8461e71337f206e11a2b1173771a57e03525711c548e343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Vila Real
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:40Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +97,9 @@ Considerando que a autoridade eclesiástica se dispõe a criar uma paróquia nos
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada na cidade de Vila Real a freguesia de Nossa Senhora da Conceição, classificada de 2.ª ordem.
+Artigo 1.º É criada na cidade de Vila Real a freguesia de Nossa Senhora da Conceição, classificada de 2.ª ordem.
 
-###### Art. 2.º A cidade de Vila Real passa a ser constituída pelas freguesias de S. Pedro (1.ª ordem), Nossa Senhora da Conceição (2.ª ordem) e S. Dinis (1.ª ordem), cujas delimitações são as seguintes:
+Art. 2.º A cidade de Vila Real passa a ser constituída pelas freguesias de S. Pedro (1.ª ordem), Nossa Senhora da Conceição (2.ª ordem) e S. Dinis (1.ª ordem), cujas delimitações são as seguintes:
 
 1. A freguesia de S. Pedro é limitada por uma linha, a assinalar por marcos nos locais que adiante se indicam, que, partindo da confluência dos rios Corgo e Cabril (marco 1.), segue na direcção do nascente e, sempre em recta, atravessa a via do caminho de ferro do Corgo ao quilómetro 24,450 (marco 1.2.) e a estrada municipal de Folhadela, a 130 m do local onde a mesma se cruza com o caminho público de Vila Nova (marco 1.1.2.), até atingir um ponto situado no quilómetro 53,744 da estrada nacional n.º 313 (marco 2.). Daqui, inflectindo para nordeste, prossegue, também em linha recta, atravessando, sucessivamente, a entrada municipal dos Torneiros, a 575 m do local onde esta se encontra com a estrada nacional n.º 322 (marco 2.3.), o caminho público para a Quinta da Lomba, a 114 m do seu cruzamento com a referida estrada nacional n.º 322 (marco 2.2.3.), alcançando, por fim, esta última estrada, ao quilómetro 1,245 (marco 3.); desviando-se para norte, continua até ao caminho público que liga o rio Corgo com o quilómetro 27 do caminho de ferro do Corgo, atingindo o citado caminho público a 76 m do ponto de encontro com a via férrea (marco 3.4.). Continua, para oeste, pelo eixo do último dos referidos caminhos públicos, até ao rio Corgo, que atravessa, prossegue pelo eixo do caminho público de Codeçais, até ao cruzamento com a estrada nacional n.º 2; continua pelas vedações do lado norte do Jardim de Camilo Castelo Branco e do campo de jogos, até à Rua de Santo António; progride pelos eixos da Rua de Diogo Cão e do arruamento norte da praça do mesmo nome, inflectindo, para sul, pela eixo da Avenida de D. Dinis, até ao ponto onde esta se encontra com a Rua dos Morgados de Mateus; continua pelo eixo desta rua, até encontrar a Rua de D. Afonso III (vértice comum das freguesias de S. Pedro, S. Dinis e Nossa Senhora da Conceição). Daqui, e a confinar com a freguesia de S. Dinis, segue, para sul, pelos eixos das Ruas de D. Afonso III, D. Pedro de Meneses e D. Pedro de Castro, até à Praça de Luís de Camões, prosseguindo, para nascente, pelo eixo do respectivo arruamento norte; desviando-se de novo para sul, continua pelo arruamento nascente da mesma praça, segue pelo eixo da Rua de António de Azevedo, até à Rua de Serpa Pinto, cujo eixo acompanha, e prossegue, para sul, pelo eixo da Rua da Portela, até ao cruzamento com a Travessa do Rossio; continua pelo eixo da aludida travessa até ao Largo do Via-Realense e, com a direcção-sul, progride pelo eixo da Rua da Misericórdia até encontrar a Travessa da Escorregadia; segue pelo eixo desta travessa até ao seu extremo, donde parte, em linha recta, até ao rio Corgo, que alcança a 200 m ao norte da confluência com o ribeiro de Tourinhas; acompanha, finalmente, o eixo do rio Corgo até ao ponto de partida, na confluência com o rio Cabril.
 
@@ -105,14 +107,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3. A freguesia de S. Dinis é limitada por uma linha, a assinalar por marcos nos locais que adiante se indicam, que, partindo da confluência dos rios Corgo e Cabril (marco 1.), segue na direcção do norte, em sentido inverso, a linha de separação desta freguesia com a de S. Pedro, descrita no n.º 1, até ao cruzamento das Ruas de Morgado de Mateus e de D. Afonso III (vértice comum das freguesias da cidade); deste ponto prossegue, para noroeste, pela linha de separação desta freguesia com a de Nossa Senhora da Conceição, até atingir o marco 8, já referido. Daqui, inflectindo para sul, continua pelo eixo do rio Cabril, atravessando a ponte da Petisqueira sobre o mesmo rio (marco 9.), na estrada municipal de Vila Real-Lordelo, e a ponte do rio Cabril, na estrada nacional n.º 2 (marco 10.), até à confluência onde se iniciou a descrição.
 
-###### Art. 3.º A Câmara Municipal de Vila Real procederá, no prazo de 90 dias, a contar da publicação do presente diploma, à colocação de marcos perimétricos da cidade, por forma que fiquem bem patentes os limites entre as freguesias desta e as freguesias rurais.
+Art. 3.º A Câmara Municipal de Vila Real procederá, no prazo de 90 dias, a contar da publicação do presente diploma, à colocação de marcos perimétricos da cidade, por forma que fiquem bem patentes os limites entre as freguesias desta e as freguesias rurais.
 
-###### Art. 4.º Enquanto se não proceder à eleição da Junta de Freguesia de Nossa Senhora da Conceição, a gerência dos interesses desta autarquia será confiada a uma comissão administrativa, composta de um presidente e dois vogais, a qual será nomeada pelo Governo, mediante proposta do governador civil, e exercerá as atribuições e a competência que a lei confere ao corpo administrativo.
+Art. 4.º Enquanto se não proceder à eleição da Junta de Freguesia de Nossa Senhora da Conceição, a gerência dos interesses desta autarquia será confiada a uma comissão administrativa, composta de um presidente e dois vogais, a qual será nomeada pelo Governo, mediante proposta do governador civil, e exercerá as atribuições e a competência que a lei confere ao corpo administrativo.
 
-###### Art. 5.º A comissão referida no artigo anterior elaborará o recenseamento eleitoral da freguesia, nos termos do § 1.º do artigo 205.º do Código Administrativo.
+Art. 5.º A comissão referida no artigo anterior elaborará o recenseamento eleitoral da freguesia, nos termos do § 1.º do artigo 205.º do Código Administrativo.
 
-###### Art. 6.º A eleição da Junta de Freguesia de Nossa Senhora da Conceição realizar-se-á na mesma data das eleições das restantes juntas de freguesia da cidade.
+Art. 6.º A eleição da Junta de Freguesia de Nossa Senhora da Conceição realizar-se-á na mesma data das eleições das restantes juntas de freguesia da cidade.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

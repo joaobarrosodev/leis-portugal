@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/523-1971-631799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac9b9e06d7d51456f4b929406f535332684a9eac3c168360b8249b582e1708dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 997926809fa0f20e5c28f1ccc4bbf6c850c1d1a13e42583f90d3dd6225c7ceb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:161101:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:273382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525627:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:10Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +110,9 @@ Tendo em vista o disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 48963](h
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É de quinze o número mínimo de alunos, em idade escolar, necessários para a criação de postos oficiais de recepção do ciclo preparatório TV, previstos pelo n.º 1 do artigo 9.º do [Decreto-Lei n.º 48963](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48963-1969-525627), de 14 de Abril de 1969.
+Artigo 1.º É de quinze o número mínimo de alunos, em idade escolar, necessários para a criação de postos oficiais de recepção do ciclo preparatório TV, previstos pelo n.º 1 do artigo 9.º do [Decreto-Lei n.º 48963](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48963-1969-525627), de 14 de Abril de 1969.
 
-###### Art. 2.º - 1. Nos edifícios das escolas do ensino primário poderão funcionar postos de recepção oficiais do ciclo preparatório TV, desde que nessa localidade não se encontre em funcionamento, em qualquer das suas modalidades, o ciclo preparatório do ensino secundário.
+Art. 2.º - 1. Nos edifícios das escolas do ensino primário poderão funcionar postos de recepção oficiais do ciclo preparatório TV, desde que nessa localidade não se encontre em funcionamento, em qualquer das suas modalidades, o ciclo preparatório do ensino secundário.
 
 2. A relação das salas das escolas primárias que irão ser utilizadas para o ciclo preparatório TV, depois de aprovada por despacho ministerial, será fornecida pela Telescola, antes do início de cada ano lectivo, às correspondentes direcções dos distritos escolares.
 
@@ -112,7 +120,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Compete ao Instituto de Meios Áudio-Visuais de Educação o apetrechamento de todos os postos oficiais relativamente ao material específico do ensino por televisão.
 
-###### Art. 3.º - 1. Nos postos oficiais de recepção desempenham as funções de monitor, por acumulação, os professores do ensino oficial da localidade respectiva ou de localidades próximas, desde que se verifique a possibilidade de deslocação que permita o cumprimento do horário.
+Art. 3.º - 1. Nos postos oficiais de recepção desempenham as funções de monitor, por acumulação, os professores do ensino oficial da localidade respectiva ou de localidades próximas, desde que se verifique a possibilidade de deslocação que permita o cumprimento do horário.
 
 2. As condições de provimento dos professores nas funções de monitores serão regulamentadas por despacho do Ministro da Educação Nacional.
 
@@ -128,25 +136,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 8. A actividade dos monitores será classificada anualmente pela Telescola, que proporá a substituição dos monitores cujo serviço seja classificado de deficiente.
 
-###### Art. 4.º - 1. A matrícula dos alunos em idade escolar obedecerá apenas à apresentação do boletim de matrícula, em duplicado, confirmado pelo correspondente delegado escolar ou secretário de zona.
+Art. 4.º - 1. A matrícula dos alunos em idade escolar obedecerá apenas à apresentação do boletim de matrícula, em duplicado, confirmado pelo correspondente delegado escolar ou secretário de zona.
 
 2. Em relação aos restantes alunos e aos restantes aspectos, seguir-se-á o que se encontra já determinado para o ciclo preparatório TV.
 
 3. Nos postos oficiais do ciclo preparatório TV os alunos ficarão isentos do pagamento de matrícula, de mensalidades ou de propinas de frequência.
 
-###### Art. 5.º Em todos os aspectos não abrangidos pelo presente diploma seguir-se-á o que se encontra já legalmente estabelecido para o ciclo preparatório da Telescola.
+Art. 5.º Em todos os aspectos não abrangidos pelo presente diploma seguir-se-á o que se encontra já legalmente estabelecido para o ciclo preparatório da Telescola.
 
-###### Art. 6.º - 1. Compete ao Instituto de Meios Áudio-Visuais de Educação empreender as necessárias adaptações do funcionamento administrativo e pedagógico da Telescola para a concretização do presente decreto.
+Art. 6.º - 1. Compete ao Instituto de Meios Áudio-Visuais de Educação empreender as necessárias adaptações do funcionamento administrativo e pedagógico da Telescola para a concretização do presente decreto.
 
 2. Para o efeito, será o Instituto de Meios Áudio-Visuais de Educação dotado das verbas consideradas necessárias.
 
 Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 13 de Novembro de 1971.**
+Promulgado em 13 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Tabela a que se refere o n.º 7 do artigo 3.º
 
@@ -158,4 +166,4 @@ Meio horário - 1750$00 (dez meses).
 
 Encarregado do posto - 300$00 (doze meses).
 
-**O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro da Educação Nacional, José Veiga Simão.

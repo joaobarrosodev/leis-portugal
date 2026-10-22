@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/01/00700/00370048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47489-1967-239274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d020c778f2e890144ce6582b5489c068839c973a299edea7ab7120f9fe2491a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6bc9a22dba59f81891148734d17ae3866d92dc8c4ea099b01be8abefbad1f56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração Geral do Porto de Lisboa
+- Gratificação
+- Orgânica
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:417818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417818:por
+  label: "Revogado pelo DEC LEI.309/87.07.08.1987.MOPTC, DR.IS [180] de 07.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1987-417818
+  date: '1987-08-07'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:51Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +167,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Administração-Geral do Porto de Lisboa promoverá o desenvolvimento dos estudos em curso para a reforma da sua actual orgânica, em conformidade com a orientação expressa no artigo 1.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
+Artigo 1.º A Administração-Geral do Porto de Lisboa promoverá o desenvolvimento dos estudos em curso para a reforma da sua actual orgânica, em conformidade com a orientação expressa no artigo 1.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
 
 Em resultados desses estudos, a Administração-Geral do Porto de Lisboa poderá diferenciar-se dos restantes serviços públicos, na medida em que seja necessário adaptar a sua orgânica, regras de administração e métodos de trabalho às funções especializadas que lhe competem, como organismo autónomo responsável por uma eficiente exploração económica do porto e pelo desenvolvimento das suas instalações.
 
 § único. A reforma da orgânica, referida no corpo deste artigo, será efectivada por fases, de acordo com as conveniências do serviço público a prestar e em termos de proporcionar um progressivo ajustamento dos quadros de pessoal.
 
-###### Art. 2.º Como primeira fase da reforma a que se refere o artigo anterior, as disposições do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), do 20 de Julho de 1948, abaixo indicadas, incluindo as dos seus artigos 43.º e 44.º, que foram revogadas e substituídas pelas dos artigos 1.º e 2.º de [Decreto-Lei n.º 38533](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38533-1951-593366), de 24 de Novembro de 1951, e as do artigo 71.º, que foram revogadas e substituídas pelas do [Decreto-Lei n.º 41823](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41823-1958-352104), de 12 de Agosto de 1958, passam a vigorar com a seguinte redacção, sendo a tabela I, apensa ao primeiro dos referidos decretos-leis, substituída pela que se publica em anexo:
+Art. 2.º Como primeira fase da reforma a que se refere o artigo anterior, as disposições do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), do 20 de Julho de 1948, abaixo indicadas, incluindo as dos seus artigos 43.º e 44.º, que foram revogadas e substituídas pelas dos artigos 1.º e 2.º de [Decreto-Lei n.º 38533](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38533-1951-593366), de 24 de Novembro de 1951, e as do artigo 71.º, que foram revogadas e substituídas pelas do [Decreto-Lei n.º 41823](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41823-1958-352104), de 12 de Agosto de 1958, passam a vigorar com a seguinte redacção, sendo a tabela I, apensa ao primeiro dos referidos decretos-leis, substituída pela que se publica em anexo:
 
-###### Art. 14.º A administração e a direcção do porto de Lisboa são exercidas através dos seguintes órgãos:
+Art. 14.º A administração e a direcção do porto de Lisboa são exercidas através dos seguintes órgãos:
 
 a) O conselho de administração;
 
@@ -130,7 +185,7 @@ c) Os administradores-delegados.
 
 Junto destes órgãos funcionam a comissão técnica e a junta consultiva.
 
-###### Art. 15.º O conselho de administração é constituído pelo presidente, por dois administradores-delegados e por mais três administradores.
+Art. 15.º O conselho de administração é constituído pelo presidente, por dois administradores-delegados e por mais três administradores.
 
 § 1.º Os membros do conselho de administração são de livre escolha do Ministro das Comunicações entre indivíduos de reconhecida idoneidade com habilitação superior adequada.
 
@@ -140,7 +195,7 @@ Quando as nomeações recaírem em funcionários dos quadros permanentes dos ser
 
 §. 3.º As remunerações dos membros do conselho de administração são acumuláveis com as que os nomeados percebam pelo exercício de funções noutros serviços do Estado ou dos corpos administrativos ou em organismos de coordenação económica, desde que, no conjunto, não excedam o limite fixado no artigo 1.º da [Lei n.º 2105](https://diariodarepublica.pt/dr/detalhe/lei/2105-1960-503782), de 6 de Junho de 1960.
 
-**O presidente do conselho de administração e os administradores-delegados não poderão, contudo, acumular, nesses serviços e organismos, funções a que correspondam remunerações com a natureza de vencimentos.**
+O presidente do conselho de administração e os administradores-delegados não poderão, contudo, acumular, nesses serviços e organismos, funções a que correspondam remunerações com a natureza de vencimentos.
 
 § 4.º O conselho de administração reúne ordinàriamente uma vez por semana e extraordinàriamente sempre que o presidente o julgue conveniente ou quando dois dos seus outros membros o solicitem.
 
@@ -156,7 +211,7 @@ Os representantes das entidades indicadas não têm direito a voto, mas podem us
 
 ...
 
-###### Art. 17.º Compete aos administradores:
+Art. 17.º Compete aos administradores:
 
 1.º Tomar parte nas sessões do conselho;
 
@@ -170,13 +225,13 @@ Os representantes das entidades indicadas não têm direito a voto, mas podem us
 
 § único. Aos administradores-delegados pertence igual competência, além da que resulta da primeira parte do artigo 68.º e da que, em matéria executiva, lhes está expressamente atribuída no artigo 27.º
 
-###### Art. 18.º As deliberações do conselho de administração serão tomadas por maioria de votos, tendo o presidente voto de qualidade. A acta de cada reunião, depois de aprovada, será assinada por todas as pessoas que a ela tenham estado presentes.
+Art. 18.º As deliberações do conselho de administração serão tomadas por maioria de votos, tendo o presidente voto de qualidade. A acta de cada reunião, depois de aprovada, será assinada por todas as pessoas que a ela tenham estado presentes.
 
 As deliberações serão obrigatòriamente submetidas à aprovação do Ministro das Comunicações desde que assim o decida o presidente ou o requeira qualquer dos representantes das entidades a que se refere o § 5.º do artigo 15.º, quando se trate de assunto que directamente afecte o organismo representado.
 
-###### Art. 19.º O conselho de administração definirá o âmbito da competência dos administradores-delegados em matéria executiva, de forma que, normalmente, fique confiada a um deles a superintendência nos serviços de administração e ao outro a superintendência nos serviços técnicos.
+Art. 19.º O conselho de administração definirá o âmbito da competência dos administradores-delegados em matéria executiva, de forma que, normalmente, fique confiada a um deles a superintendência nos serviços de administração e ao outro a superintendência nos serviços técnicos.
 
-###### Art. 20.º Compete ao presidente do conselho de administração:
+Art. 20.º Compete ao presidente do conselho de administração:
 
 1.º Coordenar, no plano executivo, a acção de todos os serviços do porto, providenciando de forma que sejam observadas as disposições legais e regulamentares em vigor e que seja obtida a conveniente unidade administrativa e a maior eficiência, regularidade e rapidez desses serviços;
 
@@ -214,7 +269,7 @@ As deliberações serão obrigatòriamente submetidas à aprovação do Ministro
 
 A representação da Administração-Geral do Porto de Lisboa no Conselho Superior dos Transportes Terrestres é exercida nos termos do [Decreto-Lei n.º 44393](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44393-1962-164836), de 9 de Junho de 1962.
 
-###### Art. 21.º A comissão técnica é um órgão essencialmente consultivo, visando, em especial, a aplicação de critérios uniformes e a coordenação geral dos serviços.
+Art. 21.º A comissão técnica é um órgão essencialmente consultivo, visando, em especial, a aplicação de critérios uniformes e a coordenação geral dos serviços.
 
 A sua constituição é a seguinte:
 
@@ -224,7 +279,7 @@ Vice-presidente - o outro administrador-delegado.
 
 Vogais:
 
-**O secretário-geral;**
+O secretário-geral;
 
 O director dos Serviços Financeiros;
 
@@ -240,9 +295,9 @@ Secretário - o chefe da 1.ª Repartição da Secretaria-Geral, que, no entanto,
 
 § 2.º Poderão assistir às sessões os funcionários cuja presença for, pelo presidente, julgada conveniente, mas, tal como o secretário, sem direito a voto.
 
-###### Art. 22.º A comissão técnica será ouvida sempre que o conselho de administração ou o seu presidente o julguem conveniente e, além disso, nos casos expressamente previstos na lei.
+Art. 22.º A comissão técnica será ouvida sempre que o conselho de administração ou o seu presidente o julguem conveniente e, além disso, nos casos expressamente previstos na lei.
 
-###### Art. 23.º A junta consultiva do porto de Lisboa é constituída por:
+Art. 23.º A junta consultiva do porto de Lisboa é constituída por:
 
 a) Representantes das Câmaras Municipais de Lisboa, Oeiras, Loures, Vila Franca de Xira, Almada, Seixal, Barreiro, Moita, Montijo, Alcochete e Benavente;
 
@@ -280,7 +335,7 @@ p) Um representante de cada um dos seguintes Ministérios: Exército, Negócios 
 
 § 2.º Não pode continuar a exercer as funções de membro da junta o vogal que, sem motivo justificado, faltar, consecutivamente, a três das suas sessões.
 
-###### Art. 24.º Compete à junta consultiva:
+Art. 24.º Compete à junta consultiva:
 
 1.º Dar parecer sobre as questões relativas ao porto de Lisboa que lhe sejam postas pelo Governo ou pelo conselho de administração;
 
@@ -290,7 +345,7 @@ p) Um representante de cada um dos seguintes Ministérios: Exército, Negócios 
 
 Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
-###### Art. 25.º A junta consultiva reúne quando o presidente a convoque para os fins enumerados no artigo anterior, e, além disso, sempre que o Ministro das Comunicações ou o presidente o julguem conveniente ou o requeira a maioria dos seus vogais.
+Art. 25.º A junta consultiva reúne quando o presidente a convoque para os fins enumerados no artigo anterior, e, além disso, sempre que o Ministro das Comunicações ou o presidente o julguem conveniente ou o requeira a maioria dos seus vogais.
 
 § 1.º As reuniões podem efectuar-se desde que esteja presente a maioria absoluta dos seus membros.
 
@@ -304,7 +359,7 @@ Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
 ...
 
-###### Art. 27.º Aos administradores-delegados compete, na parte respectiva:
+Art. 27.º Aos administradores-delegados compete, na parte respectiva:
 
 1.º Orientar, coordenar e dirigir os serviços a seu cargo;
 
@@ -340,7 +395,7 @@ Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
 ...
 
-###### Art. 33.º No orçamento das despesas da Administração-Geral do Porto de Lisboa serão inscritas anualmente, em rubricas especiais:
+Art. 33.º No orçamento das despesas da Administração-Geral do Porto de Lisboa serão inscritas anualmente, em rubricas especiais:
 
 a) Sob a designação «Fundo de melhoramentos do porto de Lisboa», uma importância não inferior a 5 por cento da sua receita ordinária, com destino a obras e a renovação do material de apetrechamento do porto;
 
@@ -360,7 +415,7 @@ Mediante autorização do mesmo Ministro, poderá uma parte dessa reserva ser co
 
 ...
 
-###### Art. 39.º Ao cofre da tesouraria serão dados balanços mensais, em dia incerto, pelo administrador-delegado que tenha a seu cargo a superintendência nos serviços financeiros. Aos balanços assistirá o respectivo director de serviços e o chefe da Repartição de Contabilidade.
+Art. 39.º Ao cofre da tesouraria serão dados balanços mensais, em dia incerto, pelo administrador-delegado que tenha a seu cargo a superintendência nos serviços financeiros. Aos balanços assistirá o respectivo director de serviços e o chefe da Repartição de Contabilidade.
 
 § 1.º São obrigatórios os balanços de 14 de Fevereiro e de 31 de Dezembro de cada ano.
 
@@ -368,7 +423,7 @@ Mediante autorização do mesmo Ministro, poderá uma parte dessa reserva ser co
 
 ...
 
-###### Art. 43.º A Administração-Geral do Porto de Lisboa compreende os seguintes serviços:
+Art. 43.º A Administração-Geral do Porto de Lisboa compreende os seguintes serviços:
 
 I - Serviços de administração:
 
@@ -526,7 +581,7 @@ Este serviço prestará às Obras Sociais e Culturais a colaboração que for ne
 
 ...
 
-###### Art. 44.º O pessoal normalmente necessário ao desempenho dos serviços a cargo da Administração-Geral do Porto de Lisboa distribui-se por quadros, divididos em grupos, consoante a natureza das funções. A designação e composição destes quadros, bem como os vencimentos mensais do respectivo pessoal, são as seguintes:
+Art. 44.º O pessoal normalmente necessário ao desempenho dos serviços a cargo da Administração-Geral do Porto de Lisboa distribui-se por quadros, divididos em grupos, consoante a natureza das funções. A designação e composição destes quadros, bem como os vencimentos mensais do respectivo pessoal, são as seguintes:
 
 I - Conselho de administração:
 
@@ -756,7 +811,7 @@ A primeira dessas revisões não poderá produzir efeitos antes de 1 de Janeiro 
 
 ...
 
-###### Art. 56.º O Regulamento de Admissão e Promoção do Pessoal da Administração-Geral do Porto de Lisboa estabelecerá as condições e normas a que devem obedecer, tendo em consideração os princípios fixados nos artigos anteriores e nas alíneas seguintes:
+Art. 56.º O Regulamento de Admissão e Promoção do Pessoal da Administração-Geral do Porto de Lisboa estabelecerá as condições e normas a que devem obedecer, tendo em consideração os princípios fixados nos artigos anteriores e nas alíneas seguintes:
 
 a) Os indivíduos do sexo feminino só poderão ser admitidos nos grupos 1, 2, 4 (uma unidade), 5 (uma unidade), 8, 17, 21 e 23. Ouvida a comissão técnica e com autorização do Ministro das Comunicações, poderão também ter acesso a outros grupos, designadamente aos grupos 13, 14, 15, 16, 18 e 19; poderão ainda ser admitidos, nos termos dos artigos 45.º e 46.º, para outros lugares adequados.
 
@@ -820,7 +875,7 @@ o) O provimento de lugares de motorista será feito nas condições estabelecida
 
 p) O provimento de lugares de contínuo será feito nos termos do disposto no § 1.º do artigo 6.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 57.º São providos por escolha os seguintes lugares, salvo nos casos referidos nas alíneas m) e n), em que também se admite o provimento por concurso:
+Art. 57.º São providos por escolha os seguintes lugares, salvo nos casos referidos nas alíneas m) e n), em que também se admite o provimento por concurso:
 
 a) Membros do conselho de administração - conforme o disposto no § 1.º do artigo 15.º;
 
@@ -866,7 +921,7 @@ t) Chefe do serviço de armazéns - no subchefe do serviço de armazéns ou em a
 
 § 2.º Poderão ser providos nos lugares a que se referem as alíneas d), f), g), h) e i), além dos funcionários das categorias nas mesmas indicadas, também os que se encontrem exercendo na Administração-Geral do Porto de Lisboa funções especializadas que a comissão técnica considere, para o efeito, equivalentes a essas categorias.
 
-###### Art. 58.º A nomeação e promoção do pessoal dos quadros compete ao Ministro das Comunicações, que poderá delegar no presidente do conselho de administração a competência para nomear e promover os funcionários não compreendidos nas alíneas a) a j) do artigo anterior.
+Art. 58.º A nomeação e promoção do pessoal dos quadros compete ao Ministro das Comunicações, que poderá delegar no presidente do conselho de administração a competência para nomear e promover os funcionários não compreendidos nas alíneas a) a j) do artigo anterior.
 
 § 1.º A admissão do pessoal referido no artigo 45.º depende de autorização do Ministro das Comunicações, que a poderá conceder, inclusivamente, em despacho de aplicação permanente ou com validade por período determinado.
 
@@ -874,29 +929,29 @@ t) Chefe do serviço de armazéns - no subchefe do serviço de armazéns ou em a
 
 A competência aqui referida envolve a de colocação de um dos directores de serviço no exercício das funções de secretário-geral.
 
-###### Art. 59.º Os funcionários dos quadros III, IV e V do artigo 44.º poderão, mediante parecer favorável da comissão técnica, ser definitivamente providos nos lugares que exerçam quando tiverem três anos de bom e efectivo serviço prestado nesses mesmos lugares ou noutros que, para o efeito, sejam considerados semelhantes pela mesma comissão.
+Art. 59.º Os funcionários dos quadros III, IV e V do artigo 44.º poderão, mediante parecer favorável da comissão técnica, ser definitivamente providos nos lugares que exerçam quando tiverem três anos de bom e efectivo serviço prestado nesses mesmos lugares ou noutros que, para o efeito, sejam considerados semelhantes pela mesma comissão.
 
 Os dos quadros I e II do mesmo artigo, com excepção daqueles para cuja nomeação se prevê o regime de comissão de serviço, poderão ser providos definitivamente depois de um ano de bom e efectivo serviço nos respectivos lugares, qualquer que tenha sido a forma do seu provimento.
 
 ...
 
-###### Art. 68.º O presidente do conselho de administração poderá delegar nos administradores-delegados, mediante prévia autorização do Ministro das Comunicações, as atribuições que por lei lhe são conferidas e para as quais não está prevista expressamente essa faculdade.
+Art. 68.º O presidente do conselho de administração poderá delegar nos administradores-delegados, mediante prévia autorização do Ministro das Comunicações, as atribuições que por lei lhe são conferidas e para as quais não está prevista expressamente essa faculdade.
 
 Poderá também delegar nos administradores a prática de actos determinados.
 
-###### Art. 69.º O presidente do conselho de administração é substituído, nas suas faltas ou impedimentos, pelo administrador-delegado que o Ministro das Comunicações designar, e, na falta ou impedimento deste, pelo outro administrador-delegado.
+Art. 69.º O presidente do conselho de administração é substituído, nas suas faltas ou impedimentos, pelo administrador-delegado que o Ministro das Comunicações designar, e, na falta ou impedimento deste, pelo outro administrador-delegado.
 
-###### Art. 70.º Os administradores-delegados poderão delegar no secretário-geral, nos directores de serviços e noutros funcionários da sua directa dependência, mediante prévia autorização do presidente do conselho de administração, as atribuições que digam respeito ao despacho corrente das respectivas direcções; anàlogamente, o secretário-geral, os directores de serviço e os chefes de repartição poderão delegar em funcionários da sua directa dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização dos administradores-delegados.
+Art. 70.º Os administradores-delegados poderão delegar no secretário-geral, nos directores de serviços e noutros funcionários da sua directa dependência, mediante prévia autorização do presidente do conselho de administração, as atribuições que digam respeito ao despacho corrente das respectivas direcções; anàlogamente, o secretário-geral, os directores de serviço e os chefes de repartição poderão delegar em funcionários da sua directa dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização dos administradores-delegados.
 
-###### Art. 71.º Os administradores-delegados são substituídos, nas faltas e impedimentos, pelos directores de serviços da sua directa dependência, incluindo o secretário-geral, que para esse fim forem designados pelo presidente do conselho de administração.
+Art. 71.º Os administradores-delegados são substituídos, nas faltas e impedimentos, pelos directores de serviços da sua directa dependência, incluindo o secretário-geral, que para esse fim forem designados pelo presidente do conselho de administração.
 
 A substituição abrange apenas as atribuições de carácter executivo; mas os substitutos, quando em exercício, deverão assistir, embora sem direito a voto, às sessões que se realizarem tanto do conselho de administração como da junta consultiva.
 
-###### Art. 72.º Os funcionários que exerçam funções de direcção ou de chefia serão substituídos, nas suas faltas e impedimentos, pelos funcionários da mesma categoria ou das imediatamente inferiores que os administradores-delegados designarem.
+Art. 72.º Os funcionários que exerçam funções de direcção ou de chefia serão substituídos, nas suas faltas e impedimentos, pelos funcionários da mesma categoria ou das imediatamente inferiores que os administradores-delegados designarem.
 
 ...
 
-###### Art. 76.º As gratificações especiais destinam-se a distinguir certas funções ou cargos da Administração-Geral do Porto de Lisboa e são as constantes da tabela I anexa ao presente decreto-lei e que dele faz parte integrante.
+Art. 76.º As gratificações especiais destinam-se a distinguir certas funções ou cargos da Administração-Geral do Porto de Lisboa e são as constantes da tabela I anexa ao presente decreto-lei e que dele faz parte integrante.
 
 Mediante despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças, poderão ainda ser estabelecidas outras gratificações em atenção à natureza ou ao ónus especial de determinadas funções ou cargos.
 
@@ -904,7 +959,7 @@ Mediante despacho do Ministro das Comunicações, com o acordo do Ministro das F
 
 ...
 
-###### Art. 88.º A Administração-Geral do Porto de Lisboa poderá promover a abertura de concursos especiais de aptidão profissional, com prémios pecuniários e honoríficos, e bem assim o funcionamento de cursos e estágios de aperfeiçoamento profissional, assim como outras realizações e iniciativas com os mesmos objectivos.
+Art. 88.º A Administração-Geral do Porto de Lisboa poderá promover a abertura de concursos especiais de aptidão profissional, com prémios pecuniários e honoríficos, e bem assim o funcionamento de cursos e estágios de aperfeiçoamento profissional, assim como outras realizações e iniciativas com os mesmos objectivos.
 
 § 1.º As condições de admissão aos concursos a que alude o presente artigo, as normas a que os mesmos devem obedecer, bem como os prémios a atribuir, serão estabelecidos por despacho do Ministro das Comunicações, sob proposta do presidente do conselho de administração, ouvida a comissão técnica.
 
@@ -912,17 +967,17 @@ Mediante despacho do Ministro das Comunicações, com o acordo do Ministro das F
 
 ...
 
-###### Art. 94.º Os membros do conselho de administração têm direito às remunerações estabelecidas no presente diploma e aos demais abonos que estejam ou venham a ser estabelecidos para os servidores civis do Estado, podendo ao presidente e aos administradores-delegados ser também concedidos abonos para despesas de representação nos quantitativos definidos em despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças.
+Art. 94.º Os membros do conselho de administração têm direito às remunerações estabelecidas no presente diploma e aos demais abonos que estejam ou venham a ser estabelecidos para os servidores civis do Estado, podendo ao presidente e aos administradores-delegados ser também concedidos abonos para despesas de representação nos quantitativos definidos em despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
 Nos mesmos termos serão estabelecidas as gratificações mensais a abonar aos representantes do Tribunal de Contas e da Direcção-Geral da Contabilidade Pública junto do conselho de administração.
 
-###### Art. 3.º As disposições do citado [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), além das expressamente abrangidas pelo artigo anterior que se refiram aos serviços estruturados no seu artigo 43.º e, bem assim, aos grupos dos quadros ou às designações das categorias do pessoal constantes do artigo seguinte do mesmo decreto-lei, consideram-se modificadas em harmonia com a numeração e as designações especificadas na nova redacção desses artigos.
+Art. 3.º As disposições do citado [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), além das expressamente abrangidas pelo artigo anterior que se refiram aos serviços estruturados no seu artigo 43.º e, bem assim, aos grupos dos quadros ou às designações das categorias do pessoal constantes do artigo seguinte do mesmo decreto-lei, consideram-se modificadas em harmonia com a numeração e as designações especificadas na nova redacção desses artigos.
 
-###### Art. 4.º O disposto no artigo 56.º e suas alíneas do mesmo [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), com a nova redacção que lhes foi dada pelo artigo 2.º do presente diploma, poderá ter aplicação independentemente do ajustamento das disposições do Regulamento dos Concursos de Admissão e Promoção do Pessoal, aprovado pelo Decreto n.º 38828, de 16 de Julho de 1952.
+Art. 4.º O disposto no artigo 56.º e suas alíneas do mesmo [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), com a nova redacção que lhes foi dada pelo artigo 2.º do presente diploma, poderá ter aplicação independentemente do ajustamento das disposições do Regulamento dos Concursos de Admissão e Promoção do Pessoal, aprovado pelo Decreto n.º 38828, de 16 de Julho de 1952.
 
 Designadamente no que se refere à última parte da alínea a) e à alínea n) daquele artigo, as respectivas disposições são aplicáveis às vagas existentes na data da publicação deste diploma e, também, aos concursos abertos ou realizados e ainda válidos.
 
-###### Art. 5.º Os funcionários dos quadros da Administração-Geral do Porto de Lisboa cujas categorias não tenham sofrido modificação mantêm-se nos respectivos lugares, com todos os direitos inerentes à qualidade que possuírem, assim como os que devam mudar de situação, até essa mudança se tornar efectiva.
+Art. 5.º Os funcionários dos quadros da Administração-Geral do Porto de Lisboa cujas categorias não tenham sofrido modificação mantêm-se nos respectivos lugares, com todos os direitos inerentes à qualidade que possuírem, assim como os que devam mudar de situação, até essa mudança se tornar efectiva.
 
 Relativamente aos lugares e às situações adiante indicadas, observar-se-á o seguinte:
 
@@ -936,7 +991,7 @@ d) Enquanto se verificar existirem numa categoria ou classe funcionários em nú
 
 § único. A passagem às novas situações referidas nas alíneas a) a c) considera-se automàticamente operada, tornando-se efectivo o direito aos vencimentos correspondentes a essas novas situações a partir do dia 1 do mês seguinte ao da publicação deste diploma.
 
-###### Art. 6.º O pessoal dos quadros de administração superior, de direcção e de chefia que nos novos quadros deva passar a ocupar diferente posição ou que se torne necessário confirmar na correspondente à actual será colocado nos respectivos lugares por meio de uma ou mais listas que o Ministro das Comunicações fará publicar no Diário do Governo, no prazo de 60 dias, a contar da data da publicação deste diploma. Também através de listas poderão ser preenchidas as vacaturas existentes em lugares de direcção ou chefia e as resultantes da criação de novas categorias, mediante acesso, por escolha, de funcionários das categorias imediatamente inferiores, ou, em relação aos provimentos de que tratam as alíneas do artigo 57.º da lei orgânica da Administração-Geral do Porto de Lisboa, de funcionários das categorias que as mesmas alíneas indicam.
+Art. 6.º O pessoal dos quadros de administração superior, de direcção e de chefia que nos novos quadros deva passar a ocupar diferente posição ou que se torne necessário confirmar na correspondente à actual será colocado nos respectivos lugares por meio de uma ou mais listas que o Ministro das Comunicações fará publicar no Diário do Governo, no prazo de 60 dias, a contar da data da publicação deste diploma. Também através de listas poderão ser preenchidas as vacaturas existentes em lugares de direcção ou chefia e as resultantes da criação de novas categorias, mediante acesso, por escolha, de funcionários das categorias imediatamente inferiores, ou, em relação aos provimentos de que tratam as alíneas do artigo 57.º da lei orgânica da Administração-Geral do Porto de Lisboa, de funcionários das categorias que as mesmas alíneas indicam.
 
 De igual modo poderão ser colocados nos quadros, em lugares vagos das categorias consideradas pela comissão técnica correspondentes às que actualmente desempenham, ou das categorias ou classes de entrada dos respectivos grupos, os funcionários na situação de suplementares à data da publicação deste diploma que tenham mais de um ano de bom e efectivo serviço.
 
@@ -948,11 +1003,11 @@ De igual modo poderão ser colocados nos quadros, em lugares vagos das categoria
 
 § 4.º Quando a ocupação de nova posição implique, em conformidade com a nova redacção do artigo 44.º da lei orgânica da Administração-Geral do Porto de Lisboa, diminuição de vencimento, o respectivo titular conservará, nessa nova posição, o direito àquele que actualmente aufere.
 
-###### Art. 7.º Ao pessoal que mudar de situação, em consequência da aplicação das disposições do presente diploma, será contado nos novos lugares, para efeito de promoção e antiguidade, o tempo de serviço prestado nos anteriormente ocupados quando sejam de categoria equivalente ou como tal considerados pela comissão técnica.
+Art. 7.º Ao pessoal que mudar de situação, em consequência da aplicação das disposições do presente diploma, será contado nos novos lugares, para efeito de promoção e antiguidade, o tempo de serviço prestado nos anteriormente ocupados quando sejam de categoria equivalente ou como tal considerados pela comissão técnica.
 
-###### Art. 8.º As alterações de vencimentos, bem como a passagem dos funcionários às novas situações que lhes competirem, quer automàticamente, quer por inclusão nas listas referidas no artigo 6.º, não carecem de qualquer formalidade adicional, designadamente de visto do Tribunal de Contas e de posse.
+Art. 8.º As alterações de vencimentos, bem como a passagem dos funcionários às novas situações que lhes competirem, quer automàticamente, quer por inclusão nas listas referidas no artigo 6.º, não carecem de qualquer formalidade adicional, designadamente de visto do Tribunal de Contas e de posse.
 
-###### Art. 9.º Os funcionários com mais de seis anos de bom e efectivo serviço na respectiva categoria, à data da publicação deste diploma, que se encontrem impedidos de concorrer às categorias superiores poderão ser admitidos ao primeiro concurso a realizar para essas categorias e, mediante parecer da comissão técnica e autorização do Ministro das Comunicações, para outras categorias para que não seja de exigir preparação diferente da que esses funcionários possuírem. Poderão também ser colocados, com dispensa de concurso, em vagas de categorias para que tenham sido realizados, expressamente, cursos ou estágios de aperfeiçoamento profissional, nos termos do artigo 88.º da lei orgânica da Administração-Geral do Porto de Lisboa, a cuja frequência hajam sido admitidos e que a tenham concluído com bom aproveitamento.
+Art. 9.º Os funcionários com mais de seis anos de bom e efectivo serviço na respectiva categoria, à data da publicação deste diploma, que se encontrem impedidos de concorrer às categorias superiores poderão ser admitidos ao primeiro concurso a realizar para essas categorias e, mediante parecer da comissão técnica e autorização do Ministro das Comunicações, para outras categorias para que não seja de exigir preparação diferente da que esses funcionários possuírem. Poderão também ser colocados, com dispensa de concurso, em vagas de categorias para que tenham sido realizados, expressamente, cursos ou estágios de aperfeiçoamento profissional, nos termos do artigo 88.º da lei orgânica da Administração-Geral do Porto de Lisboa, a cuja frequência hajam sido admitidos e que a tenham concluído com bom aproveitamento.
 
 Os funcionários, de entre os anteriormente referidos, que tenham dez ou mais anos de serviço efectivo poderão, mediante parecer favorável da comissão técnica, ser dispensados da exigência do concurso para o acesso à categoria imediatamente superior, podendo ser-lhes cativadas para esse efeito até metade das vagas existentes e das que posteriormente se abrirem até à sua total absorção.
 
@@ -966,7 +1021,7 @@ Verificando-se, quando ao acesso no grupo 1 dos quadros, a situação prevista n
 
 § 4.º Os funcionários que, por efeito de extinção da actual última classe da categoria em que se encontrem providos, transitam automàticamente à classe imediata não poderão beneficiar, cumulativamente, das disposições deste artigo, salvo no que diz respeito à colocação em vagas de outras categorias, se vierem a frequentar, com aproveitamento, os cursos ou estágios nele referidos.
 
-###### Art. 10.º Serão extintos, quando vagarem, os lugares correspondentes às seguintes categorias dos quadros:
+Art. 10.º Serão extintos, quando vagarem, os lugares correspondentes às seguintes categorias dos quadros:
 
 Grupo 22:
 
@@ -976,21 +1031,21 @@ Grupo 23:
 
 1 técnico conservador arquivista.
 
-###### Art. 11.º Enquanto não forem efectuados no orçamento os convenientes ajustamentos, os encargos resultantes das disposições do presente diploma, na parte em que se referem ao pessoal, serão satisfeitos pelas disponibilidades das verbas de remunerações certas ao pessoal dos quadros, convenientemente reforçadas no caso de se verificar a sua insuficiência, ou por verbas especialmente inscritas.
+Art. 11.º Enquanto não forem efectuados no orçamento os convenientes ajustamentos, os encargos resultantes das disposições do presente diploma, na parte em que se referem ao pessoal, serão satisfeitos pelas disponibilidades das verbas de remunerações certas ao pessoal dos quadros, convenientemente reforçadas no caso de se verificar a sua insuficiência, ou por verbas especialmente inscritas.
 
-###### Art. 12.º Este decreto entra imediatamente em vigor e revoga as seguintes disposições:
+Art. 12.º Este decreto entra imediatamente em vigor e revoga as seguintes disposições:
 
 S único do artigo 77.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), de 20 de Julho de 1948;
 
 Artigos 1.º e 2.º do [Decreto-Lei n.º 38533](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38533-1951-593366), de 24 de Novembro de 1951;
 
-###### Artigo 6.º do mesmo [Decreto-Lei n.º 38533](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38533-1951-593366) e [Decreto-Lei n.º 42626](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42626-1959-439797), de 31 de Outubro de 1959, na parte em que davam nova redacção às disposições do citado [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), neles referidas, com excepção das do n.º 5.º do artigo 28.º, do artigo 47.º e seus parágrafos e do § 2.º do artigo 86.º
+Artigo 6.º do mesmo [Decreto-Lei n.º 38533](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38533-1951-593366) e [Decreto-Lei n.º 42626](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42626-1959-439797), de 31 de Outubro de 1959, na parte em que davam nova redacção às disposições do citado [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), neles referidas, com excepção das do n.º 5.º do artigo 28.º, do artigo 47.º e seus parágrafos e do § 2.º do artigo 86.º
 
 [Decreto-Lei n.º 41823](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41823-1958-352104), de 12 de Agosto de 1958;
 
 deixando de ter aplicação à Administração-Geral do Porto de Lisboa as do [Decreto-Lei n.º 37190](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37190-1948-369409), de 24 de Novembro de 1948.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

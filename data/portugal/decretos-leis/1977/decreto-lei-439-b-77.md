@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 247/1977, 2º Suplemento, Série I de 1977-10-25
   number: '247'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2584-(3) a 2584-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24702/00030004.pdf
 entry_into_force_dates: []
@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-b-1977-582382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9699ec6b90a6086e72a8e1ea0c3047b96ffe9a65ddc05871751acc683aa0f0fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f0e289097a593f9e57fd132bbfd709a44ca63bbd15645f40ed39f6a4e722991
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Caminhos de Ferro Portugueses
+- CP
+- Empréstimo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:10Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +98,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica o Governo autorizado, através do Ministro das Finanças, a celebrar um contrato de empréstimo com os Caminhos de Ferro Portugueses, E. P., até ao limite máximo do contravalor em em escudos de US $ 600000.
+Artigo 1.º - 1 - Fica o Governo autorizado, através do Ministro das Finanças, a celebrar um contrato de empréstimo com os Caminhos de Ferro Portugueses, E. P., até ao limite máximo do contravalor em em escudos de US $ 600000.
 
 2 - O produto do empréstimo destina-se exclusivamente a financiar despesas em moeda estrangeira realizadas pela CP em consultores por ela escolhidos para lhe prestar assistência técnica no quadro do seu programa de reabilitação ferrovária.
 
-###### Art. 2.º A utilização do empréstimo obedecerá às mesmas condições de saque definidas no contrato celebrado, em 3 de Março do ano corrente, entre o Estado e o Banco Internacional de Reconstrução e Desenvolvimento.
+Art. 2.º A utilização do empréstimo obedecerá às mesmas condições de saque definidas no contrato celebrado, em 3 de Março do ano corrente, entre o Estado e o Banco Internacional de Reconstrução e Desenvolvimento.
 
-###### Art. 3.º - 1 - O reembolso do empréstimo será feito em vinte e quatro semestralidades iguais de capital, vencendo-se a primeira prestação em 1 de Dezembro de 1979.
+Art. 3.º - 1 - O reembolso do empréstimo será feito em vinte e quatro semestralidades iguais de capital, vencendo-se a primeira prestação em 1 de Dezembro de 1979.
 
 2 - Os juros serão pagáveis semestralmente nos dias 1 de Junho e 1 de Dezembro e contados dia a dia à taxa de juro de 8,70% ao ano.
 
@@ -107,14 +112,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O pagamento do capital, juros e comissão de imobilização será efectuado em dólares americanos.
 
-###### Art. 4.º Qualquer alteração mais favorável que vier a ser introduzida no contrato celebrado entre o Estado e o Banco produz imediatos efeitos neste contrato.
+Art. 4.º Qualquer alteração mais favorável que vier a ser introduzida no contrato celebrado entre o Estado e o Banco produz imediatos efeitos neste contrato.
 
-###### Art. 5.º Fica a CP obrigada a inscrever nos seus orçamentos anuais as importâncias necessárias ao serviço do presente empréstimo.
+Art. 5.º Fica a CP obrigada a inscrever nos seus orçamentos anuais as importâncias necessárias ao serviço do presente empréstimo.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

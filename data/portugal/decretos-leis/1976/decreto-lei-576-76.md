@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16900/16041605.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1976-430470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98d76775652ef96a4511d89417ebd2295f772fa7ba905238932a67f7e8beb061
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93fce05be5db5315895533953fe66e29a1d8a934afe80dc9db74a78353eb8342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de Higiene e Medicina Tropical
+- Secretaria de Estado da Saúde
+- Transferência de Competências
+- Transferência de Pessoal
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:224630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:15Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +120,9 @@ Considerando que o Instituto é uma instituição fundamental para a cooperaçã
 
 Usando da faculdade conferida pelo artigo 201.º, n.º 1, alínea a), da Constituição da República Portuguesa o Governo decreta e eu promulgo, para valer como lei o seguinte:
 
-###### Artigo 1.º O Instituto de Higiene e Medicina Tropical, criado pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, passa a funcionar na dependência da Secretaria de Estado da Saúde.
+Artigo 1.º O Instituto de Higiene e Medicina Tropical, criado pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, passa a funcionar na dependência da Secretaria de Estado da Saúde.
 
-###### Art. 2.º O Instituto mantém as suas actuais funções de ensino, investigação e divulgação nos domínios da saúde tropical, nos aspectos preventivo e curativo, competindo-lhe, sem prejuízo de outras funções que por lei lhe sejam atribuídas:
+Art. 2.º O Instituto mantém as suas actuais funções de ensino, investigação e divulgação nos domínios da saúde tropical, nos aspectos preventivo e curativo, competindo-lhe, sem prejuízo de outras funções que por lei lhe sejam atribuídas:
 
 a) Ministrar cursos de saúde tropical, bem como quaisquer outros cursos de especialização que venham a ser reconhecidos como necessários no âmbito das ciências nele cultivadas;
 
@@ -112,23 +136,23 @@ e) Colaborar com o laboratório do Instituto Nacional de saúde Dr. Ricardo Jorg
 
 f) Estabelecer relações de intercâmbio e colaboração com instituições nacionais, estrangeiras e internacionais que se relacionem com as suas actividades específicas.
 
-###### Art. 3.º O Instituto tem personalidade jurídica e autonomia pedagógica, administrativa e financeira, podendo receber heranças, legados e doações, possuir bens próprios e administrar as suas receitas.
+Art. 3.º O Instituto tem personalidade jurídica e autonomia pedagógica, administrativa e financeira, podendo receber heranças, legados e doações, possuir bens próprios e administrar as suas receitas.
 
-###### Art. 4.º É reconhecida ao Instituto a posse de edifícios, bens móveis e terrenos do Estado em que, presentemente, se acham instalados os seus serviços privativos, nos termos e para os efeitos dos artigos 21.º e 22.º do [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 2 de Agosto de 1930.
+Art. 4.º É reconhecida ao Instituto a posse de edifícios, bens móveis e terrenos do Estado em que, presentemente, se acham instalados os seus serviços privativos, nos termos e para os efeitos dos artigos 21.º e 22.º do [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 2 de Agosto de 1930.
 
-###### Art. 5.º - 1. O Instituto elaborará no prazo máximo de seis meses após a publicação do presente decreto um regulamento adaptado às suas características, que constará de portaria do Secretário de Estado da Saúde.
+Art. 5.º - 1. O Instituto elaborará no prazo máximo de seis meses após a publicação do presente decreto um regulamento adaptado às suas características, que constará de portaria do Secretário de Estado da Saúde.
 
 2. Enquanto não for elaborado o regulamento do Instituto de Higiene e Medicina Tropical, o pessoal administrativo poderá optar pelo seu quadro de origem.
 
-###### Art. 6.º - 1. O pessoal que na data da publicação deste diploma se encontra ao serviço do Instituto, seja qual for a sua forma de provimento, poderá transitar o quadro do pessoal do Instituto com para dispensa de quaisquer formalidades, com excepção do visto do Tribunal de Contas.
+Art. 6.º - 1. O pessoal que na data da publicação deste diploma se encontra ao serviço do Instituto, seja qual for a sua forma de provimento, poderá transitar o quadro do pessoal do Instituto com para dispensa de quaisquer formalidades, com excepção do visto do Tribunal de Contas.
 
 2. No prazo máximo de sessenta dias, a partir da publicação do regulamento, será elaborado o quadro a que se refere o número anterior, a publicar no Diário da República.
 
-###### Art. 7.º - 1. O serviço hospitalar da disciplina de Clínica das Doenças Tropicais é mantido no Hospital de Egas Moniz, nas condições legais que o regulam na presente data.
+Art. 7.º - 1. O serviço hospitalar da disciplina de Clínica das Doenças Tropicais é mantido no Hospital de Egas Moniz, nas condições legais que o regulam na presente data.
 
 2. O Instituto pode utilizar, no exercício das suas funções, os serviços dependentes do Ministério dos Assuntos Sociais e, mediante autorização do Ministro respectivo, os dependentes de outros Ministérios.
 
-###### Art. 8.º Constituem receitas do Instituto:
+Art. 8.º Constituem receitas do Instituto:
 
 a) As verbas inscritas no Orçamento Geral do Estado que lhe sejam destinadas;
 
@@ -140,18 +164,18 @@ d) As taxas devidas por serviços prestados nos termos das tabelas aprovadas;
 
 e) Os saldos anuais da sua gestão orçamental, que transitarão para a gerência seguinte.
 
-###### Art. 9.º Os encargos com o funcionamento do Instituto passam a ser suportados pela Secretaria de Estado da Saúde, devendo, porém, considerar-se em vigor todas as disposições que actualmente regulam a administração financeira do Instituto.
+Art. 9.º Os encargos com o funcionamento do Instituto passam a ser suportados pela Secretaria de Estado da Saúde, devendo, porém, considerar-se em vigor todas as disposições que actualmente regulam a administração financeira do Instituto.
 
-###### Art. 10.º - 1. Durante o corrente ano, as despesas com o funcionamento do Instituto são suportadas pelas verbas inscritas no seu actual orçamento, cujos saldos deverá conservar.
+Art. 10.º - 1. Durante o corrente ano, as despesas com o funcionamento do Instituto são suportadas pelas verbas inscritas no seu actual orçamento, cujos saldos deverá conservar.
 
 2. O saldo que vier a apurar-se no Fundo do Instituto de Higiene e Medicina Tropical, criado pelo artigo 11.º do [Decreto n.º 570/73](https://diariodarepublica.pt/dr/detalhe/decreto/570-1973-412625), de 31 de Outubro, fica à disposição da Secretaria de Estado da Saúde, competindo ao respectivo Secretário de Estado decidir a forma por que este saldo deverá servir de complemento à verba inscrita no Orçamento Geral do Estado a favor do Instituto.
 
-###### Art. 11.º As dúvidas que se suscitarem na execução e aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Saúde.
+Art. 11.º As dúvidas que se suscitarem na execução e aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Saúde.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 8 de Julho de 1976.**
+Promulgado em 8 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

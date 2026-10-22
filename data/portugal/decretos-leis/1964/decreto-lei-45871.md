@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45871-1964-534843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6afd502d8414a56196a642b7bb4365d61fbec13374261b562431b14bb32d4bb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1387fd15bb62fae66e9b3b0bcd87d88057c024d630060693efa412bbde399630
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Solos
+- Câmara Municipal
+- Direcção Geral da Fazenda Pública
+- Lisboa
+- Rede de Estradas
+- Urbanismo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:16Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +96,7 @@ Considerando ainda que, parra fins de interesse público, têm sido acolhidos fa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Lisboa, para alargamento da Rua do Barão de Sabrosa, as duas parcelas de terreno a destacar do prédio do Estado sito na mesma rua, 92, onde se encontra instalada a Escola Maternal do Alto do Pina, designadas com as letras A e B e delimitadas a traço grosso, preto, na planta anexa a este diploma e que dele fica a fazer parte integrante.
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Lisboa, para alargamento da Rua do Barão de Sabrosa, as duas parcelas de terreno a destacar do prédio do Estado sito na mesma rua, 92, onde se encontra instalada a Escola Maternal do Alto do Pina, designadas com as letras A e B e delimitadas a traço grosso, preto, na planta anexa a este diploma e que dele fica a fazer parte integrante.
 
 § 1.º Pela cessão destas parcelas, com, respectivamente, 33 m2 e 660 m2, a Câmara Municipal de Lisboa pagará a compensação de 55440$00 e reconstruirá um muro de suporte, nas condições acordadas, em todo o perímetro afectado pela transmissão.
 
@@ -98,10 +104,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A presente cessão efectivar-se-á por meio de auto lavrado e assinado na Direcção-Geral da Fazenda Pública e fica isenta de impostos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/08/19100/10081008.pdf))](https://files.diariodarepublica.pt/1s/1964/08/19100/10081008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/08/19100/10081008.pdf)
 
 Ministério das Finanças, 14 de Agosto de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.

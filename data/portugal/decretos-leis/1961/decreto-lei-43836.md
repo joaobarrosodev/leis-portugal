@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43836-1961-173492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3bcabb341158a82716014c6e30e953f1396c3614e16f8e3110822e8b0a24c48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f0155ac5d5118ef88a16825e363a3a851d533640f4f74cca2b817cbabbac9e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto do Oficial do Exército
+- Exército
+- Militar
+- Promoção Profissional
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:173968:por
+  label: Rectificado o art. 1º pela DECL.DD11987.24.08.1961.PC, DG.IS [196] de 24.08.1961
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1961-173968
+  date: '1961-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:56Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +106,16 @@ Considerando que ao Exército interessam especialistas cuja formação é demora
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ao artigo 66.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947 (Estatuto do Oficial do Exército), com a redacção alterada pelo Decreto-Lei n.º 42384, de 8 de Fevereiro de 1960, é acrescentado o seguinte:
+Artigo 1.º Ao artigo 66.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947 (Estatuto do Oficial do Exército), com a redacção alterada pelo Decreto-Lei n.º 42384, de 8 de Fevereiro de 1960, é acrescentado o seguinte:
 
 § 1.º Quando as circunstâncias o impuserem, poderá o Ministro do Exército determinar que seja reduzido ou anulado o tempo de serviço efectivo referido no corpo deste artigo.
 
-###### Art. 2.º O § único do artigo 66.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), acima referido, passa a § 2.º do mesmo artigo.
+Art. 2.º O § único do artigo 66.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), acima referido, passa a § 2.º do mesmo artigo.
 
-###### Art. 3.º O artigo 67.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461) passa a ter a seguinte redacção:
+Art. 3.º O artigo 67.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461) passa a ter a seguinte redacção:
 
-###### Art. 67.º Serão promovidos a alferes para as vagas que forem ocorrendo nos quadros permanentes de médicos, farmacêuticos e veterinários militares os oficiais ou aspirantes a oficial miliciano dessas especialidades com menos de 36 anos de idade, pela ordem de classificação obtida nos respectivos concursos e durante a validade destes.
+Art. 67.º Serão promovidos a alferes para as vagas que forem ocorrendo nos quadros permanentes de médicos, farmacêuticos e veterinários militares os oficiais ou aspirantes a oficial miliciano dessas especialidades com menos de 36 anos de idade, pela ordem de classificação obtida nos respectivos concursos e durante a validade destes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16400/13401342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1978-297411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0efc9b2d3fa5f82b6112f34f000d228edd4734e14f722c943a3edcb67b9ff214
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bb54f9c6bb9f254ac289d89d8a767290d7089360ca2caf7c8270d924af5fc82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento
+- Armazenagem
+- Cabotagem
+- Comércio
+- Controlo Sanitário
+- Embarcação
+- Higiene Alimentar
+- Inspecção dos Alimentos
+- Pessoal de Inspecção
+- Pessoal do MAR
+- Produto Alimentar
+- Refeição
+- Refeitório
+relationships:
+- type: cites
+  target: pt:dre:311405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583074:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329450:por
+  label: "REVOGADO PELO DECRETO LEI 285/93, DE 18 DE AGOSTO, PUBLICADO NO DR.IS-A, 193, DE 930818.\030818.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1993-329450
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:12Z'
   warnings: []
   errors: []
 ---
@@ -101,27 +134,27 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aplicáveis às embarcações da marinha de comércio de longo curso e cabotagem os princípios contidos na Convenção n.º 68 da Conferência Geral da Organização Internacional do Trabalho.
+Artigo 1.º São aplicáveis às embarcações da marinha de comércio de longo curso e cabotagem os princípios contidos na Convenção n.º 68 da Conferência Geral da Organização Internacional do Trabalho.
 
-###### Art. 2.º Todas as embarcações de comércio referidas no artigo anterior devem dispor de cozinhas e demais instalações e utensílios que permitam fornecer e servir refeições aos membros da tripulação, e ser abastecidas de acordo com as viagens que vão efectuar e em conformidade com tabelas a aprovar por portaria do Secretário de Estado da Marinha Mercante.
+Art. 2.º Todas as embarcações de comércio referidas no artigo anterior devem dispor de cozinhas e demais instalações e utensílios que permitam fornecer e servir refeições aos membros da tripulação, e ser abastecidas de acordo com as viagens que vão efectuar e em conformidade com tabelas a aprovar por portaria do Secretário de Estado da Marinha Mercante.
 
-###### Art. 3.º - 1 - Para os serviços de mesa e cozinha serão recrutados trabalhadores inscritos marítimos devidamente habilitados a desempenhar as respectivas funções, nos termos do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964.
+Art. 3.º - 1 - Para os serviços de mesa e cozinha serão recrutados trabalhadores inscritos marítimos devidamente habilitados a desempenhar as respectivas funções, nos termos do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964.
 
 2 - As refeições deverão ser servidas por tripulantes dos serviços de câmaras (empregados de câmara), aos quais caberá ainda a responsabilidade pela limpeza, higiene e arrumação dos respectivos refeitórios e pela conservação de todo o material que lhes for entregue, assim como de todas as instalações, acessos e salas de bem-estar.
 
 3 - Aos tripulantes do serviço de câmaras (empregados de câmara) encarregados do serviço de mesa, além das atribuições indicadas no número anterior, cabem também a responsabilidade do serviço parcelar ou individual de todas as comidas e bebidas das refeições diárias, do extravio ou estrago de alimentos e da guarda, em local apropriado, do que não for consumido.
 
-###### Art. 4.º Compete à comissão sindical de bordo quando exista e ao serviço de saúde da embarcação proceder às inspecções da qualidade e quantidade dos alimentos requisitados, dos locais, das instalações e dos utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.
+Art. 4.º Compete à comissão sindical de bordo quando exista e ao serviço de saúde da embarcação proceder às inspecções da qualidade e quantidade dos alimentos requisitados, dos locais, das instalações e dos utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.
 
-###### Art. 5.º Além dos encarregados das inspecções a que se refere o artigo anterior, podem ir a bordo de qualquer embarcação de comércio, como delegados das autoridades respectivas, os técnicos dos competentes serviços da Secretaria de Estado da Marinha Mercante a quem incumbe, além das inspecções, fazer recomendações com o fim de melhorar o nível dos serviços de cozinha e de mesa, sendo-lhes facultados, para o efeito, todos os meios que considerem necessários.
+Art. 5.º Além dos encarregados das inspecções a que se refere o artigo anterior, podem ir a bordo de qualquer embarcação de comércio, como delegados das autoridades respectivas, os técnicos dos competentes serviços da Secretaria de Estado da Marinha Mercante a quem incumbe, além das inspecções, fazer recomendações com o fim de melhorar o nível dos serviços de cozinha e de mesa, sendo-lhes facultados, para o efeito, todos os meios que considerem necessários.
 
-###### Art. 6.º As entidades com competência para proceder às inspecções anteriormente referidas apresentarão relatórios circunstanciados das que efectuarem, sejam elas ordinárias ou extraordinárias.
+Art. 6.º As entidades com competência para proceder às inspecções anteriormente referidas apresentarão relatórios circunstanciados das que efectuarem, sejam elas ordinárias ou extraordinárias.
 
 Art.º 7.º - 1 - As autoridades sanitárias competentes determinarão a realização de inspecções extraordinárias sempre que recebam participações da comissão sindical da respectiva embarcação, das associações sindicais representativas dos trabalhadores marítimos ou dos armadores, relativas às condições higiénicas existentes nas embarcações.
 
 2 - A fim de não retardar a partida das embarcações, as participações referidas no número anterior devem ser apresentadas o mais cedo possível, e, no mínimo, vinte e quatro horas antes da hora fixada para a saída do porto.
 
-###### Art. 8.º - 1 - O comandante ou oficial por ele designado e a comissão sindical de bordo, quando em viagem, devem proceder, semanalmente, acompanhados por um ou mais tripulantes responsáveis do serviço de câmaras, às inspecções:
+Art. 8.º - 1 - O comandante ou oficial por ele designado e a comissão sindical de bordo, quando em viagem, devem proceder, semanalmente, acompanhados por um ou mais tripulantes responsáveis do serviço de câmaras, às inspecções:
 
 a) Das provisões de víveres e água potável;
 
@@ -129,7 +162,7 @@ b) De todos os locais e utensílios empregues no armazenamento e manipulação d
 
 2 - As conclusões obtidas em cada inspecção devem ser reduzidas a escrito e constar do relatório a elaborar por viagem.
 
-###### Art. 9.º Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à Direcção-Geral do Pessoal do Mar da Secretaria de Estado da Marinha Mercante, para elaboração do relatório anual, do qual serão extraídas cópias a enviar às seguintes entidades:
+Art. 9.º Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à Direcção-Geral do Pessoal do Mar da Secretaria de Estado da Marinha Mercante, para elaboração do relatório anual, do qual serão extraídas cópias a enviar às seguintes entidades:
 
 Organização Internacional do Trabalho - Repartição Internacional do Trabalho;
 
@@ -141,7 +174,7 @@ Federação dos Sindicatos do Mar e Associações Sindicais dos Tripulantes não
 
 Associação Portuguesa dos Armadores da Marinha Mercante.
 
-###### Art. 10.º Estão sujeitos às sanções disciplinares previstas no artigo 4.º do [Decreto-Lei n.º 678/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/678-1975-311405), de 6 de Dezembro, os tripulantes que, nomeadamente:
+Art. 10.º Estão sujeitos às sanções disciplinares previstas no artigo 4.º do [Decreto-Lei n.º 678/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/678-1975-311405), de 6 de Dezembro, os tripulantes que, nomeadamente:
 
 a) Sem autorização do comandante, convidem ou recebam pessoas estranhas nos refeitórios ou nas salas de estar;
 
@@ -151,14 +184,14 @@ c) No porto de armamento ou em qualquer outro porto, sempre que a embarcação m
 
 d) No porto de armamento ou em viagem não mantenham a higiene das salas de estar, refeitórios, alojamentos, demais instalações e corredores anexos.
 
-###### Art. 11.º A inobservância das disposições deste diploma, por parte dos armadores, será punida com multa de 5000$00 a 200000$00, aplicável pelos órgãos competentes da Secretaria de Estado da Marinha Mercante.
+Art. 11.º A inobservância das disposições deste diploma, por parte dos armadores, será punida com multa de 5000$00 a 200000$00, aplicável pelos órgãos competentes da Secretaria de Estado da Marinha Mercante.
 
-###### Art. 12.º É revogado o [Decreto-Lei n.º 42978](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42978-1960-505203), de 14 de Maio de 1960.
+Art. 12.º É revogado o [Decreto-Lei n.º 42978](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42978-1960-505203), de 14 de Maio de 1960.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel Branco Ferreira Lima.
 
-**Promulgado em 30 de Junho de 1978.**
+Promulgado em 30 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

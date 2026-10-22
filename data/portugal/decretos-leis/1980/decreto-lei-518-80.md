@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25600/37343736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1980-457576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2e40299ec7fd36c18d21d6fd5566fc6491e635daf4d3a2e60c93ccad50d0f76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3a17de86f35aee21398d8e410050c7c0dfcf8928ad4d060be4eef6121bba1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Regulamento Geral do Serviço do Exército
 relationships:
 - type: amended_by
   target: pt:dre:183427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:472530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:183427:por
+  label: Revogado pelo(a) Decreto-Lei n.º 251/85 - Diário da República n.º 160/1985, Série I de 1985-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1985-183427
+  date: '1985-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:06Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +124,13 @@ Assim:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É posta em execução, a título definitivo, em todas as unidades e estabelecimentos militares do Exército, a partir de 1 de Janeiro de 1981, a II parte do Regulamento Geral do Serviço do Exército (RGSE) aprovada pelo [Decreto n.º 49/80](https://diariodarepublica.pt/dr/detalhe/decreto/49-1980-472530), de 22 de Julho.
+Artigo 1.º É posta em execução, a título definitivo, em todas as unidades e estabelecimentos militares do Exército, a partir de 1 de Janeiro de 1981, a II parte do Regulamento Geral do Serviço do Exército (RGSE) aprovada pelo [Decreto n.º 49/80](https://diariodarepublica.pt/dr/detalhe/decreto/49-1980-472530), de 22 de Julho.
 
-###### Art. 2.º Os artigos 9.º, 10.º, 11.º, 12.º, 24.º, 25.º, 26.º, 33.º, 34.º, 36.º, 37.º, 43.º, 68.º, 79.º, 85.º, 86.º, 97.º, 108.º e 128.º do Regulamento referido no artigo anterior passam a ter a seguinte redacção:
+Art. 2.º Os artigos 9.º, 10.º, 11.º, 12.º, 24.º, 25.º, 26.º, 33.º, 34.º, 36.º, 37.º, 43.º, 68.º, 79.º, 85.º, 86.º, 97.º, 108.º e 128.º do Regulamento referido no artigo anterior passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - ...
 
@@ -126,7 +138,7 @@ a) Redigir, sob a orientação do comando, a ordem de serviço e apresentá-la, 
 
 ...
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -134,7 +146,7 @@ a) Ao iniciar o serviço, receber do oficial de dia o respectivo relatório, tom
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 a) ...
 
@@ -142,7 +154,7 @@ b) ...
 
 c) Receber o expediente de rotina das companhias, prepará-lo para despacho do comandante de batalhão e, posteriormente, entregá-lo na secretaria do comando.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 a) ...
 
@@ -166,7 +178,7 @@ j) Relacionar, através do cabo de dia, o pessoal que carece de ser presente à 
 
 ...
 
-###### Art. 24.º - 1 - ...
+Art. 24.º - 1 - ...
 
 2 - Poderão ser inscritos na mesma escala militares que pertençam a grupos diferentes nas circunstâncias seguintes:
 
@@ -188,7 +200,7 @@ A nomeação para o serviço pela escala A subordina-se à previsão de nomeaç�
 
 6 - Quando houver serviço de oficial de prevenção, será o número total de oficiais da escala de dia acrescido com o dos aspirantes a oficial, dividido em duas escalas, tanto quanto possível iguais; a dos oficiais mais antigos destina-se ao serviço de dia à unidade e a outra ao serviço de prevenção, sem prejuízo do expresso no n.º 3 deste artigo.
 
-###### Art. 25.º - 1 - ...
+Art. 25.º - 1 - ...
 
 2 - ...
 
@@ -196,21 +208,21 @@ A nomeação para o serviço pela escala A subordina-se à previsão de nomeaç�
 
 ...
 
-###### Art. 26.º - 1 - A folga dentro da mesma escala de serviço diário, excepto para as companhias independentes ou isoladas, deve ser, no mínimo, de três dias.
+Art. 26.º - 1 - A folga dentro da mesma escala de serviço diário, excepto para as companhias independentes ou isoladas, deve ser, no mínimo, de três dias.
 
 ...
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 2 - Para os assuntos de alojamento e limpeza, o adjunto do comando de companhia será coadjuvado pelo cabo de aquartelamento, que tem por deveres, além de outros que lhe sejam atribuídos, os seguintes:
 
 ...
 
-###### Art. 34.º - 1 - Em regra, cada companhia nomeará diariamente, por escala, um sargento de dia, um cabo de dia e plantões.
+Art. 34.º - 1 - Em regra, cada companhia nomeará diariamente, por escala, um sargento de dia, um cabo de dia e plantões.
 
 ...
 
-###### Art. 36.º - 1 - ...
+Art. 36.º - 1 - ...
 
 a) ...
 
@@ -224,7 +236,7 @@ b) Nos dias em que não há expediente normal, a organização e apresentação 
 
 ...
 
-###### Art. 37.º - 1 - ...
+Art. 37.º - 1 - ...
 
 2 - ...
 
@@ -238,15 +250,15 @@ b) Ao toque respectivo, comparecem perante o médico, no local designado, o cabo
 
 ...
 
-###### Art. 43.º - 1 - O comandante de unidade pode conceder dispensas de arranchar e dormir no quartel, permanentemente, às praças que o solicitem por intermédio da cadeia de comando, quando comprovem ter família na localidade e apresentem motivos especiais e atendíveis para tal concessão.
+Art. 43.º - 1 - O comandante de unidade pode conceder dispensas de arranchar e dormir no quartel, permanentemente, às praças que o solicitem por intermédio da cadeia de comando, quando comprovem ter família na localidade e apresentem motivos especiais e atendíveis para tal concessão.
 
 ...
 
-###### Art. 68.º - 1 - ...
+Art. 68.º - 1 - ...
 
 2 - O pessoal dos meios de apoio tem, além da dependência administrativa da unidade, a dependência técnico-funcional que for estabelecida.
 
-###### Art. 79.º - 1 - ...
+Art. 79.º - 1 - ...
 
 a) Assegurar as relações entre as autoridades militares e as autoridades civis;
 
@@ -262,7 +274,7 @@ f) ...
 
 g) Coordenar com os órgãos competentes a participação militar nas acções de apoio à protecção civil e nas fases de prevenção e luta contra sinistros e calamidades e recuperação das áreas e populações afectadas.
 
-###### Art. 85.º - 1 - ...
+Art. 85.º - 1 - ...
 
 2 - ...
 
@@ -276,7 +288,7 @@ b) Quando a guarda for de comando de sargento e, para a nomeação do comandante
 
 ...
 
-###### Art. 86.º - 1 - ...
+Art. 86.º - 1 - ...
 
 2 - ...
 
@@ -296,7 +308,7 @@ e) Não se abrigar senão quando chover, saindo sempre que tiver de prestar cont
 
 ...
 
-###### Art. 97.º - 1 - ...
+Art. 97.º - 1 - ...
 
 2 - ...
 
@@ -306,7 +318,7 @@ e) Não se abrigar senão quando chover, saindo sempre que tiver de prestar cont
 
 ...
 
-###### Art. 108.º - 1 - ...
+Art. 108.º - 1 - ...
 
 2 - Para administrar os materiais, o comandante da unidade é coadjuvado por dois órgãos:
 
@@ -328,7 +340,7 @@ e) Controlar as recepções e evacuações do material;
 
 f) Promover, de acordo com as instruções do comando, a execução das medidas de segurança e manutenção relativas ao material.
 
-###### Art. 128.º - 1 - ...
+Art. 128.º - 1 - ...
 
 a) ...
 
@@ -342,8 +354,8 @@ d) Por indicação do comandante da unidade, o comandante das forças em parada 
 
 Visto e aprovado em Conselho da Revolução em 15 de Outubro de 1980.
 
-**Promulgado em 23 de Outubro de 1980.**
+Promulgado em 23 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1979-381284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77967a4b84c056bd1889ca42bd01453aa1356ba3853addbb2dc69711aefdeb04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c9b1dbcbde13974b5664f14b5582616ffbe86534b9bdb902e914a95ed61599d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Definição de Competências
+- Gestão Orçamental
+- Orçamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365746:por
+  label: "Alterados os artigos 36.º e 37.º pelo DEC LEI.516/79.28.12.1979.MAI, DR.IS [298] de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/516-1979-365746
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:679447:por
+  label: "Aditado um art. 20º-A pelo DEC LEI.10/80.16.02.1980.MAI, DR.IS [40] de 16.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1980-679447
+  date: '1980-02-16'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:31Z'
   warnings: []
   errors: []
 ---
@@ -124,23 +156,23 @@ I
 
 ÂMBITO, PRINCÍPIOS E REGRAS ORÇAMENTAIS
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Âmbito da aplicaçãoO orçamento e as contas das autarquias locais passam a reger-se por este diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Independência orçamental
 
 O orçamento das autarquias locais, na sua elaboração, aprovação e execução, é independente do Orçamento Geral do Estado.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Anualidade
 
 O orçamento é anual e o ano financeiro coincide com o ano civil.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Unidade e universalidade
 
@@ -148,7 +180,7 @@ Unidade e universalidade
 
 2 - Em anexo ao orçamento da autarquia figurarão os orçamentos dos serviços autónomos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Especificação
 
@@ -156,7 +188,7 @@ Especificação
 
 2 - São nulas as inscrições orçamentais que possibilitem a existência de dotações para utilização confidencial ou para fundos secretos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Equilíbrio
 
@@ -164,13 +196,13 @@ Equilíbrio
 
 2 - As receitas correntes serão, pelo menos, iguais às despesas correntes, salvo se a conjuntura do período a que se refere o orçamento o não permitir.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Não consignação
 
 No orçamento não poderá afectar-se o produto de quaisquer receitas à cobertura de determinadas despesas, salvo quando essa afectação for determinada ou permitida por lei.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Não compensação
 
@@ -182,7 +214,7 @@ II
 
 PROCEDIMENTOS PARA A ELABORAÇÃO DO ORÇAMENTO
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Propostas e votação do orçamento
 
@@ -190,7 +222,7 @@ Propostas e votação do orçamento
 
 2 - As propostas referidas no número anterior serão apresentadas de modo que o orçamento possa entrar em vigor em 1 de Janeiro do ano a que respeitar.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Conteúdo das propostas de orçamento
 
@@ -204,13 +236,13 @@ b) As receitas variáveis, pela média da cobrança dos últimos três anos;
 
 c) As receitas cuja variação tenha carácter regular, pela importância da receita efectiva do último ano, corrigida por um coeficiente de aumento ou diminuição, calculado em face da cobrança desse ano e dos dois anteriores, aplicando a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf)
 
 3 - Em anexo à proposta de orçamento figurarão os cálculos das médias e a justificação dos coeficientes da correcção utilizados para o cômputo das receitas.
 
 4 - Sempre que se mostre ser adequado aplicar o disposto nas alíneas b) e c) do n.º 2, poderá ser utilizado outro método de cálculo desde que devidamente justificado em anexo à proposta de orçamento.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Dotações obrigatórias
 
@@ -218,7 +250,7 @@ Dotações obrigatórias
 
 2 - As remunerações certas e permanentes do pessoal serão desenvolvidas, em relação a cada serviço, fora da parte substancial do orçamento, em anexo que dele fará parte integrante.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Dotação provisional
 
@@ -226,7 +258,7 @@ Dotação provisional
 
 2 - Para além do que se dispõe no número anterior, não podem, em princípio, abranger-se numa mesma rubrica quaisquer receitas ou despesas de diferente natureza económica.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Classificação económica das receitas
 
@@ -262,7 +294,7 @@ d) Passivos financeiros;
 
 e) Outras receitas de capital.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Classificação económica das despesas
 
@@ -296,7 +328,7 @@ d) Passivos financeiros;
 
 e) Outras despesas de capital.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Código de classificação
 
@@ -310,7 +342,7 @@ Código de classificação
 
 5 - A conversão da classificação anterior na classificação a que se referem os artigos 13.º e 14.º faz-se de acordo com o anexo I a este diploma.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Espécimen orçamental
 
@@ -328,19 +360,19 @@ c) Cada capítulo da classificação orgânica corresponde a um serviço da auta
 
 4 - A aplicação dos números anteriores aos Municípios de Lisboa e Porto far-se-á com as necessárias adaptações.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Mapas-resumo
 
 O orçamento incluirá os mapas-resumo das receitas e despesas necessárias para uma apreciação global dos valores previstos e desenvolvidos segundo os diferentes critérios de classificação adoptados.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Freguesias com receitas e despesas de montante limitado
 
 As freguesias cujo montante global de receitas ou despesas respeitantes ao ano transacto seja inferior a 2 milhões de escudos e cuja previsão seja igualmente inferior a este montante farão apenas o registo sequencial dessas receitas e despesas.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Atraso na votação ou na aprovação das propostas de orçamento
 
@@ -350,7 +382,7 @@ Atraso na votação ou na aprovação das propostas de orçamento
 
 3 - Os orçamentos que venham a ser aprovados pelos órgãos deliberativos competentes já no decurso do ano financeiro a que se destinam integrarão a parte dos orçamentos referidos no número anterior que tenha sido executada até à sua entrada em vigor.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Elaboração do orçamento
 
@@ -362,7 +394,7 @@ III
 
 EXECUÇÃO E ALTERAÇÕES ORÇAMENTAIS
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Arrecadação de receitas
 
@@ -372,7 +404,7 @@ Arrecadação de receitas
 
 3 - As importâncias das receitas por cobrar em 31 de Dezembro transitarão para o novo ano financeiro e as cobranças serão inscritas em conta das respectivas verbas do novo orçamento.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Realização de despesas
 
@@ -384,7 +416,7 @@ Realização de despesas
 
 4 - As despesas a fazer com compensação em receitas legalmente consignadas consideram-se autorizadas, independentemente da existência de dotações ou cabimento orçamental, até à concorrência das importâncias cobradas.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Período de vigência do orçamento
 
@@ -392,7 +424,7 @@ Período de vigência do orçamento
 
 2 - As autorizações de despesa que não forem pagas até 15 de Janeiro consideram-se caducas nessa data, sem prejuízo da sua renovação por conta dos orçamentos seguintes, dentro do prazo e nos termos previstos neste diploma.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Fundos permanentes
 
@@ -400,7 +432,7 @@ Fundos permanentes
 
 2 - A justificação a que se refere o número anterior deverá processar-se mensalmente e num único título, salvo se outro processo for determinado.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Revisões e alterações orçamentais
 
@@ -438,7 +470,7 @@ IV
 
 ENCARGOS DE ANOS ANTERIORES
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Princípio geral
 
@@ -446,13 +478,13 @@ Princípio geral
 
 2 - A satisfação dos encargos referidos no número anterior dependerá de adequada justificação das razões do seu não pagamento em tempo oportuno.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Encargos liquidados e não pagos
 
 As despesas autorizadas até 31 de Dezembro e não pagas até 15 de Janeiro seguinte poderão ser objecto de nova autorização com base em requerimento do interessado a apresentar ao órgão executivo da autarquia no prazo improrrogável de três anos a contar de 31 de Dezembro do ano financeiro a que respeita o crédito ou com base em proposta dos serviços a formular dentro do mesmo prazo.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Encargos não incluídos em autorização de pagamento
 
@@ -460,7 +492,7 @@ Encargos não incluídos em autorização de pagamento
 
 2 - Se os encargos referidos no número anterior tiverem sido contraídos com infracção das normas legais aplicáveis à realização das despesas ou à margem da competência própria de quem por eles é responsável, o seu pagamento não prejudica a efectivação das responsabilidades que ao caso couberem.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Casos especiais
 
@@ -488,7 +520,7 @@ V
 
 CONTAS DE GERÊNCIA
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Elaboração das contas de gerência
 
@@ -516,7 +548,7 @@ VI
 
 FISCALIZAÇÃO, ACOMPANHAMENTO E RESPONSABILIDADE ORÇAMENTAIS
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Fiscalização
 
@@ -528,7 +560,7 @@ Fiscalização
 
 4 - A apreciação e aprovação das contas de gerência das juntas de freguesia que registem receitas ou despesas inferiores a 2 milhões de escudos compete às assembleias de freguesia.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 Responsabilidades
 
@@ -544,7 +576,7 @@ VII
 
 COLABORAÇÃO ENTRE GOVERNO E ÓRGAOS AUTÁRQUICOS
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 Apoio técnico prestado pelo Governo
 
@@ -556,7 +588,7 @@ Apoio técnico prestado pelo Governo
 
 4 - O despacho a que se refere o número anterior, relativamente às regiões autónomas, é da competência dos respectivos governos regionais.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 Do acompanhamento das finanças locais
 
@@ -580,7 +612,7 @@ VIII
 
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 Contabilidade autárquica
 
@@ -588,7 +620,7 @@ Contabilidade autárquica
 
 2 - Continuarão igualmente em vigor os modelos de impressos obrigatórios à data da publicação daquela lei, sem prejuízo de, por portaria do Ministro da Administração Interna, se determinarem as modificações aconselháveis.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 Revisão do orçamento de 1979
 
@@ -602,7 +634,7 @@ a) Anulação dos saldos das rubricas de receita e de despesa;
 
 b) Inscrição de novas verbas nas rubricas de classificação de receita e de despesa a que se referem os artigos 13.º, 14.º e 15.º, tendo em conta o disposto no presente diploma.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 Conta de gerência de 1979
 
@@ -616,19 +648,19 @@ c) Discriminação do movimento de despesas registado de acordo com a classifica
 
 d) Discriminação do movimento de despesas de acordo com a classificação referida nos artigos 14.º e 15.º
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 Encargos de cobrança
 
 Podem ser autorizadas, para além do respectivo cabimento orçamental, as despesas resultantes de encargos a satisfazer ao Estado pelo lançamento e cobrança de receitas das autarquias locais anteriores à entrada em vigor da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 Revisão do presente diploma
 
 Este diploma será revisto até seis meses depois da entrada em vigor da revisão da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 Dúvidas e casos omissos
 
@@ -636,16 +668,16 @@ As dúvidas e casos omissos serão resolvidos por despacho conjunto do Ministro 
 
 Visto e aprovado em Conselho de Ministros de 31 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
 
-**Promulgado em 19 de Junho de 1979.**
+Promulgado em 19 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo I a que se refere o n.º 5 do artigo 15.º do Decreto-Lei n.º 243/79, de 25 de Julho
+Anexo I a que se refere o n.º 5 do artigo 15.º do Decreto-Lei n.º 243/79, de 25 de Julho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf)
 
-## Anexo II a que se refere o n.º 1 do artigo 16.º do Decreto-Lei n.º 243/79, de 25 de Julho
+Anexo II a que se refere o n.º 1 do artigo 16.º do Decreto-Lei n.º 243/79, de 25 de Julho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16611679.pdf)

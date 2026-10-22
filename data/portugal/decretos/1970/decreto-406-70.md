@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/406-1970-138827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e154999896e0190f2954af26a7462c6acb4012f7e666e649300d418da52eb7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4ddb89170fed27fc18330609b4217a3d4745d3e67ecc0bf3706f705ff667372
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:389180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575769:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:58Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +98,17 @@ Nestes termos, ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os tribunais municipais funcionarão como tribunais municipais do trabalho.
+Artigo 1.º Os tribunais municipais funcionarão como tribunais municipais do trabalho.
 
-###### Art. 2.º - 1. Os tribunais municipais do trabalho de 1.ª e 2.ª classes conhecem, respectivamente, das causas cíveis que a lei submete à jurisdição dos tribunais do trabalho, de valor não superior a 40000$00 e a 10000$00.
+Art. 2.º - 1. Os tribunais municipais do trabalho de 1.ª e 2.ª classes conhecem, respectivamente, das causas cíveis que a lei submete à jurisdição dos tribunais do trabalho, de valor não superior a 40000$00 e a 10000$00.
 
 2. Compete a estes tribunais, em matéria penal, conhecer e julgar as transgressões enunciadas no artigo 187.º do Código de Processo do Trabalho.
 
 3. A alçada dos tribunais municipais do trabalho de 1.ª e 2.ª classes nos processos de natureza cível é, respectivamente, de 10000$00 e 5000$00, não havendo alçada nos de natureza penal.
 
-###### Art. 3.º Nos tribunais municipais do trabalho é aplicável o Código de Processo do Trabalho com as modificações constantes do presente diploma.
+Art. 3.º Nos tribunais municipais do trabalho é aplicável o Código de Processo do Trabalho com as modificações constantes do presente diploma.
 
-###### Art. 4.º Nos julgados municipais as acções de valor não superior a 10000$00 serão processadas do seguinte modo:
+Art. 4.º Nos julgados municipais as acções de valor não superior a 10000$00 serão processadas do seguinte modo:
 
 a) O pleito terá por base a participação verbal do autor, que será reduzida a auto, mencionando-se a pretensão em litígio e seus fundamentos, a identificação das partes, indicação de testemunhas em número não superior a cinco para cada facto, e mais provas;
 
@@ -114,7 +122,7 @@ e) A sentença será logo ditada para a acta;
 
 f) As diligências não poderão ser afectadas por meio de carta.
 
-###### Art. 5.º - 1. É obrigatório o recurso das decisões finais dos juizes municipais do trabalho de 2.ª classe:
+Art. 5.º - 1. É obrigatório o recurso das decisões finais dos juizes municipais do trabalho de 2.ª classe:
 
 a) Que conheçam acções de valor superior a 5000$00;
 
@@ -122,17 +130,17 @@ b) Que apliquem multas de valor superior a 5000$00.
 
 2. Na falta de impulso ou iniciativa das partes dentro do prazo de cinco dias, os recursos obrigatórios subirão, oficiosamente, nos três dias seguintes.
 
-###### Art. 6.º Os recursos, cíveis ou penais, das decisões dos juizes municipais do trabalho de 2.ª classe têm sempre efeito suspensivo e sobem nos próprios autos.
+Art. 6.º Os recursos, cíveis ou penais, das decisões dos juizes municipais do trabalho de 2.ª classe têm sempre efeito suspensivo e sobem nos próprios autos.
 
-###### Art. 7.º Os subdelegados do procurador da República junto dos tribunais municipais do trabalho têm as mesmas atribuições dos delegados do procurador da República junto dos tribunais do trabalho.
+Art. 7.º Os subdelegados do procurador da República junto dos tribunais municipais do trabalho têm as mesmas atribuições dos delegados do procurador da República junto dos tribunais do trabalho.
 
-###### Art. 8.º Os tribunais municipais do trabalho regem-se pelas disposições do [Decreto n.º 48033](https://diariodarepublica.pt/dr/detalhe/decreto/48033-1967-389180), de 11 de Novembro de 1967, na parte aplicável, considerando-se substituídas pelas do presente diploma e restante legislação aplicável as disposições que se lhes referem do [Decreto n.º 44310](https://diariodarepublica.pt/dr/detalhe/decreto/44310-1962-575769), de 27 de Abril de 1962.
+Art. 8.º Os tribunais municipais do trabalho regem-se pelas disposições do [Decreto n.º 48033](https://diariodarepublica.pt/dr/detalhe/decreto/48033-1967-389180), de 11 de Novembro de 1967, na parte aplicável, considerando-se substituídas pelas do presente diploma e restante legislação aplicável as disposições que se lhes referem do [Decreto n.º 44310](https://diariodarepublica.pt/dr/detalhe/decreto/44310-1962-575769), de 27 de Abril de 1962.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 8 de Agosto de 1970.**
+Promulgado em 8 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

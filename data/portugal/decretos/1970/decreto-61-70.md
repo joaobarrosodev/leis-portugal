@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 46/1970, 1º Suplemento, Série I de 1970-02-24
   number: '46'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 232-(0) a 232-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 301672478640cc6a50df1b9d76f1f40ed706163987273dcc7d7d2a683371a882
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8db30283fc9d12361c02eac688359857ec6f6aa075b8f4ef4c43e0d28e86722a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:613898:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461255:por
+  label: "Alterados os arts. 172º, 208º, 244º e 249º e revogados os arts. 176º, 177º e 266º do presente diploma, pelo DEC.768/74.31.12.1974.MECO,\
+    \ DG.IS [303] de 31.12.1974\074\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/768-1974-461255
+  date: '1974-12-31'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643943:por
+  label: "Revogado o nº2 dos arts. 175º e 176º do Dec 61/70, de 24-Fev DG. IS [46]Supl DEC LEI.224/71.28.05.1971.PC, DG.IS\
+    \ [125] de 28.05.1971, na parte respeitante à matéria regulada neste decreto-lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1971-643943
+  date: '1971-05-28'
+- type: repealed_by
+  target: pt:dre:613898:por
+  label: "Revogado, a partir de 20.05.1989, pelo DR.8/89.1989.03.21.MCT, DR.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-1989-613898
+  date: '1989-03-21'
 article_structure:
-  article_count: 58
-  section_count: 135
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 57
+  section_count: 72
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:44Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +127,13 @@ REGULAMENTO DA INDÚSTRIA HOTELEIRA E SIMILAR
 
 #### SECÇÃO I — Da competência
 
-###### Artigo 1.º - 1. Os processos respeitantes à instalação, classificação, disciplina e funcionamento dos estabelecimentos hoteleiros e similares de interesse para o turismo serão organizados pela Direcção-Geral do Turismo ou pelas demais entidades a que se referem os artigos 7.º, 32.º e 33.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, de harmonia com o disposto nesse diploma e no presente Regulamento.
+Artigo 1.º - 1. Os processos respeitantes à instalação, classificação, disciplina e funcionamento dos estabelecimentos hoteleiros e similares de interesse para o turismo serão organizados pela Direcção-Geral do Turismo ou pelas demais entidades a que se referem os artigos 7.º, 32.º e 33.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, de harmonia com o disposto nesse diploma e no presente Regulamento.
 
 2. Na apreciação dos empreendimentos referidos no número anterior, a Direcção-Geral do Turismo e demais entidades tomarão sempre em consideração os planos gerais de aproveitamento turístico do País e de cada região em particular, aprovados pela Secretaria de Estado da Informação e Turismo.
 
 #### SECÇÃO II — Da declaração de ou sem interesse para o turismo
 
-###### Art. 2.º - 1. Para poder instalar-se um estabelecimento hoteleiro ou similar deverá, em primeiro lugar, requerer-se que o empreendimento seja declarado de ou sem interesse para o turismo.
+Art. 2.º - 1. Para poder instalar-se um estabelecimento hoteleiro ou similar deverá, em primeiro lugar, requerer-se que o empreendimento seja declarado de ou sem interesse para o turismo.
 
 2. Para este efeito, o requerimento deverá ser acompanhado dos seguintes elementos, em duplicado:
 
@@ -120,19 +149,19 @@ b) Questionário, de modelo normalizado, a emitir pela Direcção-Geral do Turis
 
 6. Quando os elementos previstos no n.º 2 forem apresentados nas delegações da Secretaria de Estado da Informação e Turismo, o prazo a que se refere o número anterior será de vinte e cinco dias.
 
-###### Art. 3.º Quando os processos previstos no artigo anterior forem organizados por alguma das entidades a que se referem os n.os 2 e 3 do artigo 7.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), estas deverão remetê-los, depois de findos, à Direcção-Geral do Turismo, sempre que se verifiquem cumulativamente os seguintes requisitos:
+Art. 3.º Quando os processos previstos no artigo anterior forem organizados por alguma das entidades a que se referem os n.os 2 e 3 do artigo 7.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), estas deverão remetê-los, depois de findos, à Direcção-Geral do Turismo, sempre que se verifiquem cumulativamente os seguintes requisitos:
 
 a) Ter sido o estabelecimento declarado de interesse para o turismo;
 
 b) Não deverem correr perante essas entidades os termos subsequentes do processo de instalação.
 
-###### Art. 4.º - 1. A declaração excepcional de interesse para o turismo dos estabelecimentos referidos no n.º 2 do artigo 6.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) poderá ser feita oficiosamente ou a requerimento do respectivo interessado.
+Art. 4.º - 1. A declaração excepcional de interesse para o turismo dos estabelecimentos referidos no n.º 2 do artigo 6.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) poderá ser feita oficiosamente ou a requerimento do respectivo interessado.
 
 2. Neste último caso, o requerente deverá expor fundamentalmente a sua pretensão e requerer vistoria do estabelecimento.
 
 3. Os serviços poderão condicionar o deferimento da pretensão do requerente à realização, dentro do prazo que for fixado, das obras consideradas essenciais ao funcionamento do estabelecimento com um nível aceitável.
 
-###### Art. 5.º - 1. Declarado um estabelecimento sem interesse para o turismo, a Direcção-Geral do Turismo poderá, a qualquer tempo, oficiosamente ou a requerimento do interessado, rever esta declaração, precedendo vistoria.
+Art. 5.º - 1. Declarado um estabelecimento sem interesse para o turismo, a Direcção-Geral do Turismo poderá, a qualquer tempo, oficiosamente ou a requerimento do interessado, rever esta declaração, precedendo vistoria.
 
 2. No caso de revisão oficiosa, os serviços poderão exigir ao interessado a apresentação da planta do estabelecimento.
 
@@ -144,13 +173,13 @@ b) Não deverem correr perante essas entidades os termos subsequentes do process
 
 ##### SUBSECÇÃO I — Da localização
 
-###### Art. 6.º - 1. No prazo de seis meses, contado da data em que foi notificado da declaração de interesse para o turismo ou do termo do prazo a que se refere o n.º 5 do artigo 2.º, o interessado deverá apresentar os elementos referidos nos artigos seguintes, para apreciação em pormenor da localização do estabelecimento.
+Art. 6.º - 1. No prazo de seis meses, contado da data em que foi notificado da declaração de interesse para o turismo ou do termo do prazo a que se refere o n.º 5 do artigo 2.º, o interessado deverá apresentar os elementos referidos nos artigos seguintes, para apreciação em pormenor da localização do estabelecimento.
 
 2. Pode a Direcção-Geral do Turismo, a requerimento do interessado, prorrogar este prazo por períodos, que não devem, no seu conjunto, exceder seis meses.
 
 3. O decurso do prazo sem que tenham sido apresentados os elementos referidos no n.º 1 determinará a caducidade da declaração de interesse para o turismo.
 
-###### Art. 7.º Quando se tratar de estabelecimento hoteleiro a instalar em edifício a construir, os elementos a apresentar para a apreciação da localização serão os seguintes:
+Art. 7.º Quando se tratar de estabelecimento hoteleiro a instalar em edifício a construir, os elementos a apresentar para a apreciação da localização serão os seguintes:
 
 1) Planta de localização a que se refere o artigo 2.º, salvo se já tiver sido apresentada;
 
@@ -182,7 +211,7 @@ j) Grupo e categoria pretendidos para o estabelecimento;
 
 l) Quaisquer outros elementos que o interessado julgue convenientes para ilustrar as características particulares do empreendimento.
 
-###### Art. 8.º Quando se tratar de estabelecimento a instalar em edifício já construído, os elementos a apresentar para a apreciação da localização serão os seguintes:
+Art. 8.º Quando se tratar de estabelecimento a instalar em edifício já construído, os elementos a apresentar para a apreciação da localização serão os seguintes:
 
 1) Planta de localização a que se refere o artigo 2.º, salvo se já tiver sido apresentada;
 
@@ -210,7 +239,7 @@ h) Quaisquer outros elementos que o interessado julgue convenientes para ilustra
 
 ##### SUBSECÇÃO II — Do anteprojecto e projecto
 
-###### Art. 9.º - 1. Aprovada a localização, o interessado deverá apresentar o respectivo anteprojecto ou o projecto no prazo que for fixado pela Direcção-Geral do Turismo.
+Art. 9.º - 1. Aprovada a localização, o interessado deverá apresentar o respectivo anteprojecto ou o projecto no prazo que for fixado pela Direcção-Geral do Turismo.
 
 2. Na fixação do prazo deverá ter-se em atenção as características e a dimensão do empreendimento, não podendo, no entanto, ser inferior a seis meses nem superior a dois anos.
 
@@ -218,7 +247,7 @@ h) Quaisquer outros elementos que o interessado julgue convenientes para ilustra
 
 4. Se o anteprojecto ou o projecto não forem apresentados dentro do prazo fixado, caducará a aprovação da localização.
 
-###### Art. 10.º - 1. Quando se tratar de estabelecimento hoteleiro a instalar em edifício a construir, o anteprojecto ou projecto será constituído pelos seguintes elementos:
+Art. 10.º - 1. Quando se tratar de estabelecimento hoteleiro a instalar em edifício a construir, o anteprojecto ou projecto será constituído pelos seguintes elementos:
 
 1) Planta de implantação à escala 1:1000 ou 1:2000, que permita observar a situação da construção a realizar;
 
@@ -246,7 +275,7 @@ f) Prazo previsto para o início e termo da construção.
 
 2. Nas plantas a que se refere a alínea 2) do número anterior deve constar a indicação das áreas, em conformidade com as exigências da tabela anexa a este Regulamento.
 
-###### Art. 11.º - 1. Quando se tratar de estabelecimento hoteleiro a instalar em edifício já construído, o anteprojecto ou projecto será constituído pelos seguintes elementos:
+Art. 11.º - 1. Quando se tratar de estabelecimento hoteleiro a instalar em edifício já construído, o anteprojecto ou projecto será constituído pelos seguintes elementos:
 
 1) Planta do edifício nos diferentes pavimentos ocupados ou afectados ao estabelecimento à escala 1:100, pelas quais se possa apreciar a distribuição das instalações projectadas e suas circulações e a do equipamento;
 
@@ -270,7 +299,7 @@ d) Prazo previsto para o inicio e termo das obras, se as houver.
 
 3. Quando se trate de pensões de uma ou duas estrelas, os elementos exigidos nas alíneas 1) a 3) do n.º 1 poderão ser substituídos por uma única planta descritiva do estabelecimento, se não houver obras, ou a simplicidade destas o permitir.
 
-###### Art. 12.º - 1. No caso de o interessado ter apresentado anteprojecto, deverá, em seguida sua aprovação, apresentar o respectivo projecto.
+Art. 12.º - 1. No caso de o interessado ter apresentado anteprojecto, deverá, em seguida sua aprovação, apresentar o respectivo projecto.
 
 2. O projecto será constituído pelos elementos previstos nos artigos 10.º ou 11.º, completados com os pormenores próprios desta fase, e dando satisfação aos condicionamentos estabelecidos na aprovação do anteprojecto.
 
@@ -280,11 +309,11 @@ d) Prazo previsto para o inicio e termo das obras, se as houver.
 
 ##### SUBSECÇÃO I — Da localização
 
-###### Art. 13.º - 1. Declarado o estabelecimento similar de interesse para o turismo, deve o interessado apresentar na Direcção-Geral do Turismo, para apreciação da localização, os elementos constantes dos artigos seguintes, conforme for o caso.
+Art. 13.º - 1. Declarado o estabelecimento similar de interesse para o turismo, deve o interessado apresentar na Direcção-Geral do Turismo, para apreciação da localização, os elementos constantes dos artigos seguintes, conforme for o caso.
 
 2. Aplicar-se-á a estes estabelecimentos o disposto no artigo 6.º, entendendo-se reduzidos a três meses cada um dos prazos ali fixados.
 
-###### Art. 14.º Quando se tratar de estabelecimento a instalar em edifício a construir, os elementos a apresentar para a apreciação da localização serão os seguintes:
+Art. 14.º Quando se tratar de estabelecimento a instalar em edifício a construir, os elementos a apresentar para a apreciação da localização serão os seguintes:
 
 1) Planta de localização a que se refere o artigo 2.º, salvo se já tiver sido apresentada;
 
@@ -314,7 +343,7 @@ h) Partido geral da composição, volumetria e cércea do edifício;
 
 i) Definição de zonas públicas e de serviço e respectivas áreas.
 
-###### Art. 15.º Quando se tratar de estabelecimento a instalar em edifício já construído, os elementos a apresentar para a apreciação da localização serão os seguintes:
+Art. 15.º Quando se tratar de estabelecimento a instalar em edifício já construído, os elementos a apresentar para a apreciação da localização serão os seguintes:
 
 1) Planta de localização a que se refere o artigo 2.º, salvo se já tiver sido apresentada;
 
@@ -340,7 +369,7 @@ f) Indicação do pé direito das dependências a ocupar.
 
 ##### SUBSECÇÃO II — Do projecto
 
-###### Art. 16.º - 1. Aprovada a localização, o interessado deverá apresentar o respectivo projecto no prazo que for fixado pela Direcção-Geral do Turismo.
+Art. 16.º - 1. Aprovada a localização, o interessado deverá apresentar o respectivo projecto no prazo que for fixado pela Direcção-Geral do Turismo.
 
 2. Na fixação do prazo deverão ter-se em atenção as características e a dimensão do empreendimento, não podendo, no entanto, ser inferior a três meses nem superior a um ano.
 
@@ -348,7 +377,7 @@ f) Indicação do pé direito das dependências a ocupar.
 
 4. Se o projecto não for apresentado dentro do prazo fixado, caducará a aprovação da localização.
 
-###### Art. 17.º Quando se tratar de estabelecimento similar a instalar em edifício a construir, o projecto será constituído pelos elementos constantes das alíneas 1) a 5) do n.º 1 do artigo 10.º e ainda memória descritiva e justificativa, da qual conste, designadamente:
+Art. 17.º Quando se tratar de estabelecimento similar a instalar em edifício a construir, o projecto será constituído pelos elementos constantes das alíneas 1) a 5) do n.º 1 do artigo 10.º e ainda memória descritiva e justificativa, da qual conste, designadamente:
 
 a) Integração do edifício no local e na região, no aspecto arquitectónico e paisagístico;
 
@@ -364,7 +393,7 @@ f) Grupo e categoria pretendidos para o estabelecimento;
 
 g) Prazo previsto para o início e termo da construção.
 
-###### Art. 18.º Quando se trata de estabelecimento, similar a instalar em edifício já construído, o projecto será constituído pelos seguintes elementos:
+Art. 18.º Quando se trata de estabelecimento, similar a instalar em edifício já construído, o projecto será constituído pelos seguintes elementos:
 
 1) Planta dos diferentes pavimentos à escala 1:100, pela qual se possa apreciar a distribuição das instalações projectadas e suas circulações e a do equipamento;
 
@@ -390,75 +419,75 @@ f) Prazo previsto para o início e termo das obras, se as houver.
 
 #### SECÇÃO V — Dos conjuntos turísticos
 
-###### Art. 19.º - 1. Aos conjuntos turísticos será aplicável o disposto nas secções III e IV deste, capítulo, com as necessárias adaptações e as modificações constantes dos artigos seguintes.
+Art. 19.º - 1. Aos conjuntos turísticos será aplicável o disposto nas secções III e IV deste, capítulo, com as necessárias adaptações e as modificações constantes dos artigos seguintes.
 
 2. As instalações e respectivos equipamentos destinados à prática de desportos, a que se refere o n.º 2 do artigo 23.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), serão apreciados e aprovados pela Direcção-Geral do Turismo, que, para o efeito, poderá exigir dos interessados a apresentação dos elementos considerados necessários.
 
-###### Art. 20.º Todos os estabelecimentos hoteleiros e similares integrados nos conjuntos turísticos devem satisfazer aos respectivos requisitos mínimos, sendo dispensada a fase da declaração de interesse para o turismo.
+Art. 20.º Todos os estabelecimentos hoteleiros e similares integrados nos conjuntos turísticos devem satisfazer aos respectivos requisitos mínimos, sendo dispensada a fase da declaração de interesse para o turismo.
 
-###### Art. 21.º - 1. A localização será apreciada em função do conjunto, considerado como um todo.
+Art. 21.º - 1. A localização será apreciada em função do conjunto, considerado como um todo.
 
 2. As plantas de localização e de implantação deverão identificar as várias unidades integrantes do conjunto, de modo a permitir apreciar, com suficiente clareza, a sua interdependência.
 
 3. O interessado deverá indicar as várias fases da realização do empreendimento e referir especificadamente as unidades a construir em cada uma delas, bem como os prazos previstos para o início e termo de cada uma das fases.
 
-###### Art. 22.º Apreciada a localização, o interessado deverá apresentar conjuntamente os anteprojectos ou projectos respeitantes às várias unidades que compõem cada uma das fases de execução do empreendimento.
+Art. 22.º Apreciada a localização, o interessado deverá apresentar conjuntamente os anteprojectos ou projectos respeitantes às várias unidades que compõem cada uma das fases de execução do empreendimento.
 
-###### Art. 23.º Se se tratar de instalações já existentes, o interessado deverá justificar a interdependência das unidades integrantes do conjunto turístico.
+Art. 23.º Se se tratar de instalações já existentes, o interessado deverá justificar a interdependência das unidades integrantes do conjunto turístico.
 
 #### SECÇÃO VI — Disposições comuns
 
-###### Art. 24.º - 1. Os elementos a que se referem os artigos 7.º, 8.º, 10.º, 11.º, 12.º, 14.º, 15.º, 17.º, 18.º e 19.º deverão ser apresentados em sextuplicado, com excepção das fotografias, que serão em triplicado.
+Art. 24.º - 1. Os elementos a que se referem os artigos 7.º, 8.º, 10.º, 11.º, 12.º, 14.º, 15.º, 17.º, 18.º e 19.º deverão ser apresentados em sextuplicado, com excepção das fotografias, que serão em triplicado.
 
 2. A Direcção-Geral do Turismo poderá exigir, se necessário, a apresentação de mais exemplares.
 
-###### Art. 25.º - 1. Além dos elementos exigidos nas secções anteriores, a Direcção-Geral do Turismo poderá ainda solicitar do interessado quaisquer outros que forem julgados indispensáveis para uma correcta apreciação dos processos.
+Art. 25.º - 1. Além dos elementos exigidos nas secções anteriores, a Direcção-Geral do Turismo poderá ainda solicitar do interessado quaisquer outros que forem julgados indispensáveis para uma correcta apreciação dos processos.
 
 2. Estes elementos deverão ser solicitados ao interessado aquando da notificação da decisão sobre a fase anterior, salvo se a sua necessidade resultar de circunstâncias supervenientes.
 
 3. O interessado poderá, em qualquer caso, apresentar outros elementos que julgue convenientes para uma melhor apreciação das características do empreendimento.
 
-###### Art. 26.º - 1. Quando a instalação dos estabelecimentos hoteleiros, dos estabelecimentos similares e dos conjuntos turísticos implicar a utilização de terrenos do domínio público marítimo ou sujeitos à jurisdição, das autoridades marítimas, hidráulicas ou portuárias, os interessados deverão também apresentar, nos termos da parte final do n.º 1 do artigo 24.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), documento das entidades competentes comprovativo de ter sido autorizada ou concedida aquela utilização.
+Art. 26.º - 1. Quando a instalação dos estabelecimentos hoteleiros, dos estabelecimentos similares e dos conjuntos turísticos implicar a utilização de terrenos do domínio público marítimo ou sujeitos à jurisdição, das autoridades marítimas, hidráulicas ou portuárias, os interessados deverão também apresentar, nos termos da parte final do n.º 1 do artigo 24.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), documento das entidades competentes comprovativo de ter sido autorizada ou concedida aquela utilização.
 
 2. Se o referido documento não for apresentado conjuntamente com os restantes elementos, o processo de localização será suspenso por período de seis meses, findo o qual será arquivado, sem prejuízo do disposto no número seguinte ou de nova apreciação quando o documento for entregue.
 
 3. Se no prazo referido no número anterior o interessado não apresentar, por circunstâncias independentes da sua vontade, o documento exigido, poderá a Direcção-Geral do Turismo, sempre que o interesse do empreendimento para o turismo nacional o justifique, propor superiormente ou às autoridades requeridas que sejam tomadas as providências necessárias à adopção do regime que se apresente como mais expedito e equilibrado para alcançar o fim pretendido.
 
-###### Art. 27.º - 1. Quando os elementos exigidos nos termos das secções anteriores não forem apresentados em conformidade com o disposto neste Regulamento, a Direcção-Geral do Turismo deverá solicitar imediatamente ao interessado que corrija ou supra as deficiências verificadas.
+Art. 27.º - 1. Quando os elementos exigidos nos termos das secções anteriores não forem apresentados em conformidade com o disposto neste Regulamento, a Direcção-Geral do Turismo deverá solicitar imediatamente ao interessado que corrija ou supra as deficiências verificadas.
 
 2. Neste caso, os prazos impostos aos serviços só começarão a correr a partir da data em que forem corrigidas ou supridas as deficiências.
 
-###### Art. 28.º No caso previsto no n.º 2 do artigo 24.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), as delegações deverão remeter a documentação à Direcção-Geral do Turismo, no prazo de cinco dias, contado do seu recebimento.
+Art. 28.º No caso previsto no n.º 2 do artigo 24.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), as delegações deverão remeter a documentação à Direcção-Geral do Turismo, no prazo de cinco dias, contado do seu recebimento.
 
-###### Art. 29.º Recebidos os elementos exigidos para a apreciação da localização, do anteprojecto ou do projecto dos estabelecimentos hoteleiros e similares e dos elementos para aprovação dos conjuntos turísticos, a Direcção-Geral do Turismo remetê-los-á às demais entidades interessadas, no prazo de quinze dias, contado do seu recebimento, para efeitos do disposto nos artigos 25.º e seguintes do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
+Art. 29.º Recebidos os elementos exigidos para a apreciação da localização, do anteprojecto ou do projecto dos estabelecimentos hoteleiros e similares e dos elementos para aprovação dos conjuntos turísticos, a Direcção-Geral do Turismo remetê-los-á às demais entidades interessadas, no prazo de quinze dias, contado do seu recebimento, para efeitos do disposto nos artigos 25.º e seguintes do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
 
-###### Art. 30.º Quando houver lugar à intervenção de outras entidades ou serviços e as decisões não tiverem sido tomadas em reunião conjunta, a Direcção-Geral do Turismo deverá pronunciar-se no prazo de trinta dias, a contar da última comunicação recebida.
+Art. 30.º Quando houver lugar à intervenção de outras entidades ou serviços e as decisões não tiverem sido tomadas em reunião conjunta, a Direcção-Geral do Turismo deverá pronunciar-se no prazo de trinta dias, a contar da última comunicação recebida.
 
-###### Art. 31.º - 1. Com a aprovação do anteprojecto, se o houver, ou do projecto, deve a Direcção-Geral do Turismo definir qual a classificação máxima do estabelecimento que essa aprovação comporta.
+Art. 31.º - 1. Com a aprovação do anteprojecto, se o houver, ou do projecto, deve a Direcção-Geral do Turismo definir qual a classificação máxima do estabelecimento que essa aprovação comporta.
 
 2. Este limite de classificação, quando definido no anteprojecto, pode ser alterado na aprovação do projecto, se neste último se verificarem modificações que o justifiquem.
 
-###### Art. 32.º Com a aprovação do projecto, a Direcção-Geral do Turismo comunicará ao interessado o prazo fixado para o inicio da construção do empreendimento, nos termos e para os efeitos do artigo 36.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
+Art. 32.º Com a aprovação do projecto, a Direcção-Geral do Turismo comunicará ao interessado o prazo fixado para o inicio da construção do empreendimento, nos termos e para os efeitos do artigo 36.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
 
-###### Art. 33.º Da apresentação pelo interessado dos elementos previstos neste capítulo ser-lhe-á passado recibo, do qual conste a data do seu recebimento e a menção dos elementos entregues.
+Art. 33.º Da apresentação pelo interessado dos elementos previstos neste capítulo ser-lhe-á passado recibo, do qual conste a data do seu recebimento e a menção dos elementos entregues.
 
-###### Art. 34.º O interessado terá sempre direito a ser informado do estado do processo e a obter as certidões que pretender, devendo indicar o fim para que as requer.
+Art. 34.º O interessado terá sempre direito a ser informado do estado do processo e a obter as certidões que pretender, devendo indicar o fim para que as requer.
 
 ### CAPÍTULO II — Requisitos comuns a todos os estabelecimentos hoteleiros
 
 #### SECÇÃO I — Dos requisitos gerais
 
-###### Art. 35.º Os estabelecimentos hoteleiros, além dos requisitos previstos para cada grupo e categoria, deverão obedecer aos requisitos comuns constantes deste capítulo.
+Art. 35.º Os estabelecimentos hoteleiros, além dos requisitos previstos para cada grupo e categoria, deverão obedecer aos requisitos comuns constantes deste capítulo.
 
-###### Art. 36.º Todos os estabelecimentos hoteleiros devem estar dotados de água corrente e electricidade e dispor de telefone ligado à rede geral para uso dos clientes.
+Art. 36.º Todos os estabelecimentos hoteleiros devem estar dotados de água corrente e electricidade e dispor de telefone ligado à rede geral para uso dos clientes.
 
-###### Art. 37.º - 1. As instalações sanitárias deverão ter água corrente fria e ventilação directa ou artificial, com continua renovação de ar.
+Art. 37.º - 1. As instalações sanitárias deverão ter água corrente fria e ventilação directa ou artificial, com continua renovação de ar.
 
 2. Estas instalações deverão estar sempre dotadas de toalhas ou secadores.
 
 3. As paredes, pavimentos e tectos serão revestidos de materiais de fácil limpeza.
 
-###### Art. 38.º - 1. Para os efeitos do disposto neste Regulamento, as instalações sanitárias a seguir designadas entendem-se constituídas da seguinte forma:
+Art. 38.º - 1. Para os efeitos do disposto neste Regulamento, as instalações sanitárias a seguir designadas entendem-se constituídas da seguinte forma:
 
 a) Sanitário - é a instalação constituída por retrete e lavatório;
 
@@ -472,7 +501,7 @@ e) Casa de banho especial - é a composta por dois compartimentos, que podem ou 
 
 2. Os chuveiros e as casas de banho deverão dispor de água corrente quente a todas as horas, quando forem privativas dos quartos e apartamentos, e durante as horas normais da sua utilização, nos outros casos.
 
-###### Art. 39.º - 1. As instalações previstas no artigo anterior, com excepção dos sanitários, deverão ainda estar equipadas com o seguinte:
+Art. 39.º - 1. As instalações previstas no artigo anterior, com excepção dos sanitários, deverão ainda estar equipadas com o seguinte:
 
 a) Luz e espelho por cima do lavatório;
 
@@ -490,37 +519,37 @@ g) Campainha de chamada junto das banheiras e dos chuveiros ou polibanhos.
 
 2. Nos motéis e hotéis-apartamentos não é exigível o requisito da alínea g) do número anterior.
 
-###### Art. 40.º - 1. Quando se exija ar condicionado, deverá poder ser separadamente regulada a sua graduação para as diversas dependências de utilização dos clientes.
+Art. 40.º - 1. Quando se exija ar condicionado, deverá poder ser separadamente regulada a sua graduação para as diversas dependências de utilização dos clientes.
 
 2. Deverá, em qualquer caso, ser mantida a conveniente humidade relativa do ar.
 
-###### Art. 41.º - 1. Quando se exija aquecimento, existirão elementos em número suficiente e com comando regulável nos quartos, salas privadas e instalações sanitárias.
+Art. 41.º - 1. Quando se exija aquecimento, existirão elementos em número suficiente e com comando regulável nos quartos, salas privadas e instalações sanitárias.
 
 2. O aquecimento deverá funcionar sempre que a temperatura ambiente o requeira, devendo manter-se uma temperatura mínima entre 18ºC e 22ºC.
 
-###### Art. 42.º A Direcção-Geral do Turismo poderá dispensar, total ou parcialmente, a instalação de aquecimento ou de ar condicionado, se pela localização do estabelecimento e período de exploração tais requisitos se mostrarem desnecessários.
+Art. 42.º A Direcção-Geral do Turismo poderá dispensar, total ou parcialmente, a instalação de aquecimento ou de ar condicionado, se pela localização do estabelecimento e período de exploração tais requisitos se mostrarem desnecessários.
 
-###### Art. 43.º A instalação de máquinas ou aparelhagens, ascensores, condutas de água e esgotos efectuar-se-á de modo que se eliminem ruídos e vibrações, devendo utilizar-se para esse fim os meios técnicos adequados.
+Art. 43.º A instalação de máquinas ou aparelhagens, ascensores, condutas de água e esgotos efectuar-se-á de modo que se eliminem ruídos e vibrações, devendo utilizar-se para esse fim os meios técnicos adequados.
 
-###### Art. 44.º Os estabelecimentos, respectivas instalações, mobiliário e demais pertences deverão ser mantidos nas devidas condições de apresentação, funcionamento e limpeza, reparando-se prontamente as deteriorações ou avarias verificadas.
+Art. 44.º Os estabelecimentos, respectivas instalações, mobiliário e demais pertences deverão ser mantidos nas devidas condições de apresentação, funcionamento e limpeza, reparando-se prontamente as deteriorações ou avarias verificadas.
 
 #### SECÇÃO II — Das dependências comuns
 
-###### Art. 45.º A superfície dos átrios deverá estar de acordo com a capacidade receptiva dos estabelecimentos, devendo, em todo o caso, ser suficiente para permitir um fácil acesso às suas dependências.
+Art. 45.º A superfície dos átrios deverá estar de acordo com a capacidade receptiva dos estabelecimentos, devendo, em todo o caso, ser suficiente para permitir um fácil acesso às suas dependências.
 
-###### Art. 46.º Nos estabelecimentos classificados de cinco e quatro estrelas e nos hotéis de três estrelas as zonas de convívio e de refeições deverão ser revestidas, em grande parte da sua superfície, com alcatifa ou carpetes de qualidade adequada, admitindo-se, no entanto, outras soluções, desde que garantam o mesmo nível de instalação.
+Art. 46.º Nos estabelecimentos classificados de cinco e quatro estrelas e nos hotéis de três estrelas as zonas de convívio e de refeições deverão ser revestidas, em grande parte da sua superfície, com alcatifa ou carpetes de qualidade adequada, admitindo-se, no entanto, outras soluções, desde que garantam o mesmo nível de instalação.
 
-###### Art. 47.º Poderão instalar-se lojas nos estabelecimentos hoteleiros, desde que o seu nível esteja de acordo com a classificação do estabelecimento e não afectem as áreas exigidas neste Regulamento.
+Art. 47.º Poderão instalar-se lojas nos estabelecimentos hoteleiros, desde que o seu nível esteja de acordo com a classificação do estabelecimento e não afectem as áreas exigidas neste Regulamento.
 
-###### Art. 48.º As salas de refeições dos estabelecimentos deverão ter ventilação directa para o exterior ou, na sua falta, dispositivos de renovação de ar adequados à capacidade das mesmas.
+Art. 48.º As salas de refeições dos estabelecimentos deverão ter ventilação directa para o exterior ou, na sua falta, dispositivos de renovação de ar adequados à capacidade das mesmas.
 
-###### Art. 49.º - 1. Quando nos estabelecimentos existam salões para banquetes, festas ou conferências, estes deverão ser dotados de um vestíbulo de recepção próprio, com vestiários, instalações sanitárias e, pelo menos, uma cabina telefónica, se a sua capacidade o justificar, e na medida em que as restantes instalações do estabelecimento os não possam apoiar.
+Art. 49.º - 1. Quando nos estabelecimentos existam salões para banquetes, festas ou conferências, estes deverão ser dotados de um vestíbulo de recepção próprio, com vestiários, instalações sanitárias e, pelo menos, uma cabina telefónica, se a sua capacidade o justificar, e na medida em que as restantes instalações do estabelecimento os não possam apoiar.
 
 2. A área destes salões não será considerada na área mínima exigida para as zonas de convívio.
 
-###### Art. 50.º As instalações dos estabelecimentos onde se ofereça música para dançar ou de concerto deverão ser isoladas acùsticamente.
+Art. 50.º As instalações dos estabelecimentos onde se ofereça música para dançar ou de concerto deverão ser isoladas acùsticamente.
 
-###### Art. 51.º - 1. As instalações sanitárias comuns terão uma porta de entrada dupla, com um pequeno vestíbulo entre elas, se com uma única porta se não conseguir o seu necessário isolamento do exterior.
+Art. 51.º - 1. As instalações sanitárias comuns terão uma porta de entrada dupla, com um pequeno vestíbulo entre elas, se com uma única porta se não conseguir o seu necessário isolamento do exterior.
 
 2. Deverá haver instalações sanitárias comuns em todos os pisos em que existam salões, salas de refeições ou outras zonas de convívio, excepto se no piso imediato e a uma distância que permita a sua cómoda utilização existirem outras instalações sanitárias comuns.
 
@@ -528,17 +557,17 @@ g) Campainha de chamada junto das banheiras e dos chuveiros ou polibanhos.
 
 #### SECÇÃO III — Dos acessos verticais
 
-###### Art. 52.º - 1. Os acessos verticais dos estabelecimentos serão constituídos pelas escadas principais, de serviço e de recurso, ascensores, monta-cargas e monta-pratos.
+Art. 52.º - 1. Os acessos verticais dos estabelecimentos serão constituídos pelas escadas principais, de serviço e de recurso, ascensores, monta-cargas e monta-pratos.
 
 2. Sem prejuízo do disposto nos artigos seguintes, a organização e composição dos diferentes meios de acesso previstos no número anterior dependerá essencialmente do grupo e categoria do estabelecimento e será determinada tendo em atenção a solução arquitectónica adoptada e o número de quartos e de pavimentos.
 
-###### Art. 53.º - 1. Quando o estabelecimento esteja instalado em edifício com mais de três pisos, no programa dos seus acessos verticais deverá prestar-se especial atenção ao número e características dos ascensores, monta-cargas ou monta-pratos a instalar.
+Art. 53.º - 1. Quando o estabelecimento esteja instalado em edifício com mais de três pisos, no programa dos seus acessos verticais deverá prestar-se especial atenção ao número e características dos ascensores, monta-cargas ou monta-pratos a instalar.
 
 2. Neste caso, o número de escadas, as suas dimensões e localização serão determinados em função do número do pavimentos ocupados pelo estabelecimento e de quartos por piso, bem como pela forma do edifício e pelo seu sistema distributivo horizontal.
 
 3. Nestes estabelecimentos as funções da escada principal geral poderão acumular-se com as da escada de serviço, sempre que o seu programa de acessos verticais o permita fazer, sem que disso resulte prejuízo para a sua utilização pelos hóspedes e serviço.
 
-###### Art. 54.º - 1. Exceptuados os estabelecimentos de cinco e quatro estrelas e os hotéis de três e duas estrelas, só será exigível ascensor no caso de o estabelecimento ter mais de três pisos, incluindo o rés-do-chão.
+Art. 54.º - 1. Exceptuados os estabelecimentos de cinco e quatro estrelas e os hotéis de três e duas estrelas, só será exigível ascensor no caso de o estabelecimento ter mais de três pisos, incluindo o rés-do-chão.
 
 2. Aplicar-se-á o disposto no número anterior quando o estabelecimento não ocupe todo o edifício, mas se situe ou atinja níveis superiores ao 3.º piso.
 
@@ -550,17 +579,17 @@ g) Campainha de chamada junto das banheiras e dos chuveiros ou polibanhos.
 
 #### SECÇÃO IV — Dos quartos
 
-###### Art. 55.º - 1. Todos os quartos e apartamentos devem ser identificados mediante um número, que será colocado no exterior da porta da entrada.
+Art. 55.º - 1. Todos os quartos e apartamentos devem ser identificados mediante um número, que será colocado no exterior da porta da entrada.
 
 2. Quando os quartos ou apartamentos se situem em mais de um piso, o primeiro algarismo do número que os identifique indicará o piso e o restante ou restantes o número de ordem do quarto.
 
-###### Art. 56.º - 1. Todos os quartos deverão ter janela ou sacada dando directamente para o exterior.
+Art. 56.º - 1. Todos os quartos deverão ter janela ou sacada dando directamente para o exterior.
 
 2. A área da abertura para o exterior não poderá ser inferior a 1,2 m2.
 
 3. As janelas ou sacadas dos quartos deverão ser dotadas de um sistema que permita impedir totalmente a entrada de luz.
 
-###### Art. 57.º - 1. Todos os quartos destinados aos hóspedes deverão ter, pelo menos, o seguinte:
+Art. 57.º - 1. Todos os quartos destinados aos hóspedes deverão ter, pelo menos, o seguinte:
 
 a) Uma cama individual ou de casal ou duas camas individuais com as seguintes dimensões mínimas:
 
@@ -590,13 +619,13 @@ h) Uma campainha de chamada do pessoal de serviço junto da cabeceira da cama, s
 
 5. O disposto nos n.os 3 e 4 não se aplica aos quartos dos hotéis-apartamentos.
 
-###### Art. 58.º - 1. Quando os estabelecimentos ofereçam quartos com salas ou terraços privativos, aquelas e estes deverão dispor das áreas mínimas fixadas na tabela anexa a este Regulamento.
+Art. 58.º - 1. Quando os estabelecimentos ofereçam quartos com salas ou terraços privativos, aquelas e estes deverão dispor das áreas mínimas fixadas na tabela anexa a este Regulamento.
 
 2. As salas privativas poderão comunicar com um ou mais quartos, devendo, porém, estar aptas a funcionar como anexo apenas de um deles, com isolamento dos demais.
 
 3. As áreas das salas e terraços privativos não serão consideradas no cálculo da área dos respectivos quartos.
 
-###### Art. 59.º - 1. Considera-se suite o conjunto constituído, no mínimo, por antecâmara de entrada, quarto de dormir, casa de banho privativa e sala, comunicantes entre si através da antecâmara.
+Art. 59.º - 1. Considera-se suite o conjunto constituído, no mínimo, por antecâmara de entrada, quarto de dormir, casa de banho privativa e sala, comunicantes entre si através da antecâmara.
 
 2. As salas das suites deverão ser dotadas de telefone e dispor das áreas mínimas fixadas na tabela anexa a este Regulamento.
 
@@ -604,29 +633,29 @@ h) Uma campainha de chamada do pessoal de serviço junto da cabeceira da cama, s
 
 #### SECÇÃO V — Das zonas de serviço
 
-###### Art. 60.º - 1. Nos estabelecimentos de cinco e quatro estrelas e nos hotéis, motéis e hotéis-apartamentos as zonas de serviço deverão estar completamente separadas das destinadas ao uso dos clientes.
+Art. 60.º - 1. Nos estabelecimentos de cinco e quatro estrelas e nos hotéis, motéis e hotéis-apartamentos as zonas de serviço deverão estar completamente separadas das destinadas ao uso dos clientes.
 
 2. Nos restantes estabelecimentos deve proceder-se, na instalação das zonas de serviço, por forma a evitar-se a propagação de cheiros e a obter-se o seu conveniente isolamento de outras dependências.
 
-###### Art. 61.º - 1. As cozinhas terão sempre ventilação directa ou artificial e disporão de aparelhos para a renovação do ar e extracção de fumos e cheiros.
+Art. 61.º - 1. As cozinhas terão sempre ventilação directa ou artificial e disporão de aparelhos para a renovação do ar e extracção de fumos e cheiros.
 
 2. O pavimento, as paredes e o tecto deverão ser revestidos de materiais de fácil limpeza.
 
 3. A comunicação das cozinhas com as salas de refeições deverá ser de molde a permitir uma circulação rápida, com trajectos breves, ou dispor de ligação directa por monta-pratos com capacidade adequada, quando a cozinha não se situe no mesmo piso da sala de refeições.
 
-###### Art. 62.º Todos os estabelecimentos deverão possuir instalações frigoríficas para conservação e refrigeração dos alimentos e bebidas, de harmonia com a sua capacidade, características e condições locais de abastecimento.
+Art. 62.º Todos os estabelecimentos deverão possuir instalações frigoríficas para conservação e refrigeração dos alimentos e bebidas, de harmonia com a sua capacidade, características e condições locais de abastecimento.
 
-###### Art. 63.º - 1. O conjunto das instalações destinado à circulação do serviço e sua distribuição e apoio pelos vários pavimentos, normalmente composto por monta-cargas e copas de andar, constituirá a coluna de serviço.
+Art. 63.º - 1. O conjunto das instalações destinado à circulação do serviço e sua distribuição e apoio pelos vários pavimentos, normalmente composto por monta-cargas e copas de andar, constituirá a coluna de serviço.
 
 2. A existência e composição da coluna de serviço serão, em todo o caso, determinadas pela capacidade receptiva do estabelecimento, número de quartos por andar e soluções de serviço adoptadas.
 
 #### SECÇÃO VI — Dos anexos
 
-###### Art. 64.º Os estabelecimentos hoteleiros poderão dispor de anexos, que ficam sujeitos, com as necessárias adaptações, às normas aplicáveis aos estabelecimentos principais.
+Art. 64.º Os estabelecimentos hoteleiros poderão dispor de anexos, que ficam sujeitos, com as necessárias adaptações, às normas aplicáveis aos estabelecimentos principais.
 
-###### Art. 65.º Os anexos devem situar-se em edifício contíguo ao estabelecimento principal ou a distância tão próxima dele que a sua utilização não constitua incómodo para os hóspedes.
+Art. 65.º Os anexos devem situar-se em edifício contíguo ao estabelecimento principal ou a distância tão próxima dele que a sua utilização não constitua incómodo para os hóspedes.
 
-###### Art. 66.º - 1. As instalações dos anexos devem satisfazer às mesmas características e requisitos do estabelecimento principal.
+Art. 66.º - 1. As instalações dos anexos devem satisfazer às mesmas características e requisitos do estabelecimento principal.
 
 2. Serão dispensáveis as instalações de uso comum e de serviço que a contiguidade ou proximidade do estabelecimento principal puder suprir.
 
@@ -634,17 +663,17 @@ h) Uma campainha de chamada do pessoal de serviço junto da cabeceira da cama, s
 
 #### SECÇÃO I — Dos requisitos mínimos
 
-###### Art. 67.º Para um estabelecimento ser classificado como hotel deverá ocupar a totalidade de um edifício ou uma parte dele completamente independente, constituindo as suas instalações um todo homogéneo, e dispor de acesso directo aos andares para uso exclusivo dos clientes.
+Art. 67.º Para um estabelecimento ser classificado como hotel deverá ocupar a totalidade de um edifício ou uma parte dele completamente independente, constituindo as suas instalações um todo homogéneo, e dispor de acesso directo aos andares para uso exclusivo dos clientes.
 
-###### Art. 68.º A Direcção-Geral do Turismo poderá dispensar, nas instalações dos hotéis, alguns dos requisitos mínimos a que se refere o presente capítulo, quando se trate do aproveitamento de edifícios de interesse histórico ou arquitectónico e a sua observância se mostrar excessivamente onerosa ou afectar as características próprias do edifício.
+Art. 68.º A Direcção-Geral do Turismo poderá dispensar, nas instalações dos hotéis, alguns dos requisitos mínimos a que se refere o presente capítulo, quando se trate do aproveitamento de edifícios de interesse histórico ou arquitectónico e a sua observância se mostrar excessivamente onerosa ou afectar as características próprias do edifício.
 
 #### SECÇÃO II — Dos hotéis de cinco estrelas
 
-###### Art. 69.º - 1. Para um hotel ser classificado de cinco estrelas deverá implantar-se em local adequado á categoria do estabelecimento e oferecer o máximo conforto e comodidade, com instalações, mobiliário e apetrechamento de elevado nível com os mais modernos aperfeiçoamentos da técnica hoteleira, aspecto geral e ambiente requintados, e obedecer, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
+Art. 69.º - 1. Para um hotel ser classificado de cinco estrelas deverá implantar-se em local adequado á categoria do estabelecimento e oferecer o máximo conforto e comodidade, com instalações, mobiliário e apetrechamento de elevado nível com os mais modernos aperfeiçoamentos da técnica hoteleira, aspecto geral e ambiente requintados, e obedecer, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
 2. Estes estabelecimentos deverão dispor de entrada ao nível da via pública para uso exclusivo dos clientes.
 
-###### Art. 70.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
+Art. 70.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
 
 a) Átrio, no qual se situarão a portaria, recepção, vestiários, tabacaria e cabinas telefónicas isoladas acùsticamente;
 
@@ -688,7 +717,7 @@ s) Garagem ou parque guardado, de acordo com a capacidade e localização do est
 
 4. Tendo em atenção a localização do estabelecimento dentro ou fora de zonas urbanas, a Direcção-Geral do Turismo decidirá quanto à existência, características e amplitudes das instalações desportivas e de recreio.
 
-###### Art. 71.º - 1. Na zona de serviço deverá existir:
+Art. 71.º - 1. Na zona de serviço deverá existir:
 
 a) Entrada para bagagens, mercadorias e pessoal distinta das entradas para os clientes;
 
@@ -710,9 +739,9 @@ h) Salas de refeições para o pessoal.
 
 #### SECÇÃO III — Dos hotéis de quatro estrelas
 
-###### Art. 72.º Para um hotel ser classificado de quatro estrelas deverá dispor de todas as condições de comodidade, com bom nível de instalações, mobiliário e apetrechamento, oferecendo aspecto geral e ambiente confortáveis, e obedecer, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
+Art. 72.º Para um hotel ser classificado de quatro estrelas deverá dispor de todas as condições de comodidade, com bom nível de instalações, mobiliário e apetrechamento, oferecendo aspecto geral e ambiente confortáveis, e obedecer, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
-###### Art. 73.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
+Art. 73.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
 
 a) Átrio, no qual se situarão a portaria, recepção, vestiário e cabinas telefónicas;
 
@@ -746,7 +775,7 @@ o) Instalações desportivas ou de recreio.
 
 3. Aplicar-se-á nestes estabelecimentos o disposto no n.º 4 do artigo 70.º
 
-###### Art. 74.º - 1. Na zona de serviço deverá existir:
+Art. 74.º - 1. Na zona de serviço deverá existir:
 
 a) Entrada de bagagens, mercadorias e pessoal distinta da dos clientes;
 
@@ -768,23 +797,23 @@ h) Salas de refeições para o pessoal.
 
 #### SECÇÃO IV — Dos hotéis de três estrelas
 
-###### Art. 75.º Para um hotel ser classificado de três estrelas deve satisfazer às exigências previstas na secção anterior, salvo o disposto nos artigos seguintes e tabela anexa.
+Art. 75.º Para um hotel ser classificado de três estrelas deve satisfazer às exigências previstas na secção anterior, salvo o disposto nos artigos seguintes e tabela anexa.
 
-###### Art. 76.º - 1. Nos hotéis de três estrelas não serão exigíveis os requisitos das alíneas l) e o) do n.º 1 e o n.º 2 do artigo 73.º
+Art. 76.º - 1. Nos hotéis de três estrelas não serão exigíveis os requisitos das alíneas l) e o) do n.º 1 e o n.º 2 do artigo 73.º
 
 2. Nos quartos não será exigível antecâmara.
 
 3. Não será exigível ar condicionado nas zonas privadas de uso dos hóspedes.
 
-###### Art. 77.º Todos os quartos destes estabelecimentos deverão ter casa de banho privativa, sendo 30 por cento com casa de banho completa e os restantes com casa de banho simples.
+Art. 77.º Todos os quartos destes estabelecimentos deverão ter casa de banho privativa, sendo 30 por cento com casa de banho completa e os restantes com casa de banho simples.
 
-###### Art. 78.º Nestes estabelecimentos não será exigível depósito para bagagens.
+Art. 78.º Nestes estabelecimentos não será exigível depósito para bagagens.
 
 #### SECÇÃO V — Dos hotéis de duas estrelas
 
-###### Art. 79.º Para um hotel ser classificado de duas estrelas deverá possuir instalações, mobiliário e equipamento que permita oferecer condições bastantes de comodidade e conforto, obedecendo, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
+Art. 79.º Para um hotel ser classificado de duas estrelas deverá possuir instalações, mobiliário e equipamento que permita oferecer condições bastantes de comodidade e conforto, obedecendo, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
-###### Art. 80.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
+Art. 80.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
 
 a) Átrio, no qual se situará a portaria, recepção, vestiário e cabina telefónica;
 
@@ -812,7 +841,7 @@ m) Aquecimento em todas as zonas públicas e privadas de uso exclusivo dos hósp
 
 2. 10 por cento dos quartos terão casa de banho completa, 45 por cento terão casa de banho simples e os restantes com chuveiro.
 
-###### Art. 81.º Na zona de serviço deverá existir:
+Art. 81.º Na zona de serviço deverá existir:
 
 a) Coluna de serviço simplificada;
 
@@ -828,9 +857,9 @@ f) Sala de refeições para o pessoal.
 
 #### SECÇÃO VI — Dos hotéis de uma estrela
 
-###### Art. 82.º Para um hotel ser classificado de uma estrela deverá possuir instalações, mobiliário e equipamento capaz de satisfazer às necessidades dos hóspedes, com um mínimo de comodidade e conforto, obedecendo, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
+Art. 82.º Para um hotel ser classificado de uma estrela deverá possuir instalações, mobiliário e equipamento capaz de satisfazer às necessidades dos hóspedes, com um mínimo de comodidade e conforto, obedecendo, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
-###### Art. 83.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
+Art. 83.º - 1. Nas zonas destinadas aos hóspedes deverá existir:
 
 a) Átrio, no qual se situará a portaria, recepção e telefone;
 
@@ -854,7 +883,7 @@ j) Aquecimento em todas as zonas públicas e privadas de uso exclusivo dos hósp
 
 2. 25 por cento dos quartos deverão dispor de casa de banho simples e 25 por cento, de chuveiro.
 
-###### Art. 84.º Na zona de serviço deverá existir:
+Art. 84.º Na zona de serviço deverá existir:
 
 a) Coluna de serviço simplificada;
 
@@ -870,15 +899,15 @@ e) Zona de refeições para o pessoal.
 
 #### SECÇÃO I — Dos requisitos mínimos
 
-###### Art. 85.º - 1. Pensões são os estabelecimentos hoteleiros que, pelas suas instalações, equipamento, aspecto geral, localização e capacidade, não obedeçam às normas estabelecidas para a classificação como hotel ou estalagem e satisfaçam aos requisitos constantes das disposições seguintes.
+Art. 85.º - 1. Pensões são os estabelecimentos hoteleiros que, pelas suas instalações, equipamento, aspecto geral, localização e capacidade, não obedeçam às normas estabelecidas para a classificação como hotel ou estalagem e satisfaçam aos requisitos constantes das disposições seguintes.
 
 2. Para que um estabelecimento seja classificado de pensão deverá ocupar a totalidade de um edifício ou fracção autónoma dele.
 
 #### SECÇÃO II — Das pensões de quatro estrelas
 
-###### Art. 86.º Para que um estabelecimento seja classificado como pensão de quatro estrelas deverá oferecer boas condições de conforto e comodidade, com mobiliário e equipamento de boa qualidade, e obedecer, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
+Art. 86.º Para que um estabelecimento seja classificado como pensão de quatro estrelas deverá oferecer boas condições de conforto e comodidade, com mobiliário e equipamento de boa qualidade, e obedecer, além disso, às características e requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
-###### Art. 87.º - 1. As pensões de quatro estrelas deverão dispor de:
+Art. 87.º - 1. As pensões de quatro estrelas deverão dispor de:
 
 a) Portaria com telefone;
 
@@ -902,7 +931,7 @@ j) Zona de refeições, vestiário e instalações sanitárias com chuveiro para
 
 2. Todos os quartos terão casa de banho privativa ou chuveiro, sendo 5 por cento deles com casa de banho completa, 10 por cento com casa de banho simples e os restantes com chuveiro.
 
-###### Art. 88.º As pensões de quatro estrelas poderão usar na sua denominação o termo «albergaria», em substituição do de pensão, quando satisfizerem cumulativamente às seguintes exigências:
+Art. 88.º As pensões de quatro estrelas poderão usar na sua denominação o termo «albergaria», em substituição do de pensão, quando satisfizerem cumulativamente às seguintes exigências:
 
 a) Ocuparem a totalidade de um edifício ou uma parte dele completamente independente, constituindo as suas instalações um todo homogéneo, e disporem de acesso directo aos andares para uso exclusivo dos clientes;
 
@@ -918,7 +947,7 @@ f) Terem todos os quartos casa de banho privativa ou chuveiro, sendo 10 por cent
 
 #### SECÇÃO III — Das pensões de três estrelas
 
-###### Art. 89.º - 1. Para uma pensão ser classificada de três estrelas deverá dispor de mobiliário e equipamento de boa qualidade e satisfazer aos requisitos mínimos constantes da tabela anexa e alíneas seguintes:
+Art. 89.º - 1. Para uma pensão ser classificada de três estrelas deverá dispor de mobiliário e equipamento de boa qualidade e satisfazer aos requisitos mínimos constantes da tabela anexa e alíneas seguintes:
 
 a) Portaria com telefone;
 
@@ -944,7 +973,7 @@ i) Vestiário e instalações sanitárias com chuveiro para o pessoal.
 
 #### SECÇÃO IV — Das pensões de duas estrelas
 
-###### Art. 90.º Para uma pensão ser classificada de duas estrelas deverá dispor de mobiliário e equipamento de qualidade aceitável e satisfazer aos requisitos mínimos constantes da tabela anexa e alíneas seguintes:
+Art. 90.º Para uma pensão ser classificada de duas estrelas deverá dispor de mobiliário e equipamento de qualidade aceitável e satisfazer aos requisitos mínimos constantes da tabela anexa e alíneas seguintes:
 
 a) Portaria com telefone;
 
@@ -964,7 +993,7 @@ h) Instalações sanitárias para o pessoal.
 
 #### SECÇÃO V — Das pensões de uma estrela
 
-###### Art. 91.º Para uma pensão ser classificada de uma estrela deverá dispor de mobiliário e equipamento simples, mas cómodo, e satisfazer aos requisitos mínimos constantes da tabela anexa e das alíneas seguintes:
+Art. 91.º Para uma pensão ser classificada de uma estrela deverá dispor de mobiliário e equipamento simples, mas cómodo, e satisfazer aos requisitos mínimos constantes da tabela anexa e das alíneas seguintes:
 
 a) Portaria com telefone;
 
@@ -982,19 +1011,19 @@ g) Instalações sanitárias para o pessoal.
 
 ### CAPÍTULO V — Dos estabelecimentos residenciais
 
-###### Art. 92.º - 1. Os hotéis e as pensões que ofereçam apenas alojamento e primeiro almoço serão classificados de residenciais.
+Art. 92.º - 1. Os hotéis e as pensões que ofereçam apenas alojamento e primeiro almoço serão classificados de residenciais.
 
 2. Esta classificação será estabelecida a requerimento dos interessados.
 
-###### Art. 93.º - 1. Os estabelecimentos a que se refere o artigo anterior usarão obrigatòriamente na sua denominação o termo «residencial», e só eles o poderão usar.
+Art. 93.º - 1. Os estabelecimentos a que se refere o artigo anterior usarão obrigatòriamente na sua denominação o termo «residencial», e só eles o poderão usar.
 
 2. O termo «residencial» acrescerá à menção correspondente ao grupo e categoria.
 
-###### Art. 94.º - 1. Os requisitos mínimos exigidos para os estabelecimentos residenciais serão os correspondentes à sua classificação, com as modificações derivadas da sua natureza e as constantes da tabela anexa.
+Art. 94.º - 1. Os requisitos mínimos exigidos para os estabelecimentos residenciais serão os correspondentes à sua classificação, com as modificações derivadas da sua natureza e as constantes da tabela anexa.
 
 2. Não será permitido integrar nos estabelecimentos residenciais instalações destinadas à prestação do serviço de refeições principais.
 
-###### Art. 95.º - 1. A estes estabelecimentos aplicar-se-á o disposto nas respectivas secções anteriores, com as seguintes modificações:
+Art. 95.º - 1. A estes estabelecimentos aplicar-se-á o disposto nas respectivas secções anteriores, com as seguintes modificações:
 
 a) As salas de refeições destinadas aos clientes serão substituídas por salas de primeiros almoços;
 
@@ -1006,7 +1035,7 @@ c) A existência de bar será facultativa nos hotéis de uma e duas estrelas.
 
 ### CAPÍTULO VI — Das estalagens
 
-###### Art. 96.º - 1. Estalagens são estabelecimentos situados fora de um centro urbano, instalados em edifício próprio, com zona verde envolvente, e oferecendo boas condições de conforto e comodidade.
+Art. 96.º - 1. Estalagens são estabelecimentos situados fora de um centro urbano, instalados em edifício próprio, com zona verde envolvente, e oferecendo boas condições de conforto e comodidade.
 
 2. As estalagens devem integrar-se tanto quanto possível nas características da respectiva região, designadamente pela sua arquitectura, estilo do mobiliário e serviço.
 
@@ -1014,7 +1043,7 @@ c) A existência de bar será facultativa nos hotéis de uma e duas estrelas.
 
 4. A título excepcional, a Direcção-Geral do Turismo poderá autorizar a instalação de estalagens nos centros urbanos, desde que seja respeitado o disposto no n.º 1 quanto à área envolvente.
 
-###### Art. 97.º - 1. Para uma estalagem ser classificada de quatro estrelas deverá satisfazer aos requisitos mínimos constantes da tabela anexa e das alíneas seguintes:
+Art. 97.º - 1. Para uma estalagem ser classificada de quatro estrelas deverá satisfazer aos requisitos mínimos constantes da tabela anexa e das alíneas seguintes:
 
 a) Recepção-portaria com telefone;
 
@@ -1038,7 +1067,7 @@ j) Garagem ou parque guardado com capacidade para um automóvel por cada quatro 
 
 2. Todos os quartos deverão ter casa de banho privativa, sendo 50 por cento deles com casa de banho completa e os restantes com casa de banho simples.
 
-###### Art. 98.º Para uma estalagem ser classificada de cinco estrelas deve satisfazer, além dos requisitos previstos no n.º 1 do artigo anterior e tabela anexa, mais os seguintes:
+Art. 98.º Para uma estalagem ser classificada de cinco estrelas deve satisfazer, além dos requisitos previstos no n.º 1 do artigo anterior e tabela anexa, mais os seguintes:
 
 a) As instalações, equipamento, decoração e serviço deverão ser de nível elevado;
 
@@ -1052,19 +1081,19 @@ d) Nas zonas públicas e privadas de uso dos hóspedes deverá existir ar condic
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 99.º - 1. Motéis são os estabelecimentos destinados a estadas normalmente curtas, situados fora dos centros urbanos e na proximidade das estradas, constituídos por apartamentos independentes com entradas directas do exterior e com garagem ou parque de estacionamento privativos contíguos a cada apartamento.
+Art. 99.º - 1. Motéis são os estabelecimentos destinados a estadas normalmente curtas, situados fora dos centros urbanos e na proximidade das estradas, constituídos por apartamentos independentes com entradas directas do exterior e com garagem ou parque de estacionamento privativos contíguos a cada apartamento.
 
 2. Em qualquer caso, os respectivos edifícios não poderão exceder dois pisos, incluindo o rés-do-chão.
 
-###### Art. 100.º Estes estabelecimentos situar-se-ão por forma que os seus apartamentos fiquem distanciados, pelo menos, 25 m do eixo das vias principais com eles confinantes, sem prejuízo da observância das determinações da Junta Autónoma de Estradas.
+Art. 100.º Estes estabelecimentos situar-se-ão por forma que os seus apartamentos fiquem distanciados, pelo menos, 25 m do eixo das vias principais com eles confinantes, sem prejuízo da observância das determinações da Junta Autónoma de Estradas.
 
-###### Art. 101.º - 1. Cada um dos apartamentos componentes de um motel deverá constituir uma unidade autónoma, isolada ou integrada num conjunto.
+Art. 101.º - 1. Cada um dos apartamentos componentes de um motel deverá constituir uma unidade autónoma, isolada ou integrada num conjunto.
 
 2. Os apartamentos serão compostos, pelo menos, de um quarto com antecâmara e casa de banho simples.
 
-###### Art. 102.º Os motéis deverão dispor de aquecimento em todas as zonas públicas e privadas de uso dos hóspedes.
+Art. 102.º Os motéis deverão dispor de aquecimento em todas as zonas públicas e privadas de uso dos hóspedes.
 
-###### Art. 103.º Na zona de serviço deverá existir:
+Art. 103.º Na zona de serviço deverá existir:
 
 a) Cozinha - copa e instalações frigoríficas adequadas;
 
@@ -1072,19 +1101,19 @@ b) Despensa para víveres e bebidas;
 
 c) Dependências para o pessoal, constituídas por zona de refeições, vestiários e instalações sanitárias com chuveiros e retretes.
 
-###### Art. 104.º Nestes estabelecimentos deverá haver durante vinte e quatro horas por dia:
+Art. 104.º Nestes estabelecimentos deverá haver durante vinte e quatro horas por dia:
 
 a) Pessoal na recepção-portaria;
 
 b) Um serviço ligeiro de refeições.
 
-###### Art. 105.º No exterior destes estabelecimentos deverá indicar-se a inexistência de lugares disponíveis através de indicativos com caracteres luminosos ou reflectores que permitam a sua leitura, sem dificuldade, da estrada, mesmo de noite.
+Art. 105.º No exterior destes estabelecimentos deverá indicar-se a inexistência de lugares disponíveis através de indicativos com caracteres luminosos ou reflectores que permitam a sua leitura, sem dificuldade, da estrada, mesmo de noite.
 
 #### SECÇÃO II — Dos motéis de três estrelas
 
-###### Art. 106.º Para um motel ser classificado de três estrelas deverá estar instalado em edifícios construídos com materiais de primeira qualidade e dispor de instalações e equipamento de bom nível, satisfazendo, além disso, aos requisitos mínimos constantes dos artigos seguintes e tabela anexa.
+Art. 106.º Para um motel ser classificado de três estrelas deverá estar instalado em edifícios construídos com materiais de primeira qualidade e dispor de instalações e equipamento de bom nível, satisfazendo, além disso, aos requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
-###### Art. 107.º Nas zonas de uso comum destinadas aos hóspedes deverá existir:
+Art. 107.º Nas zonas de uso comum destinadas aos hóspedes deverá existir:
 
 a) Recepção-portaria com cabina telefónica;
 
@@ -1094,13 +1123,13 @@ c) Bar;
 
 d) Restaurante.
 
-###### Art. 108.º Todos os apartamentos serão dotados de telefone com ligação interna e à rede geral.
+Art. 108.º Todos os apartamentos serão dotados de telefone com ligação interna e à rede geral.
 
 #### SECÇÃO III — Dos motéis de duas estrelas
 
-###### Art. 109.º Para um motel ser classificado de duas estrelas deverá oferecer boas condições de conforto, satisfazendo, além disso, aos requisitos mínimos constantes dos artigos seguintes e tabela anexa.
+Art. 109.º Para um motel ser classificado de duas estrelas deverá oferecer boas condições de conforto, satisfazendo, além disso, aos requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
-###### Art. 110.º - 1. Nas zonas de uso comum destinadas aos hóspedes deverá existir:
+Art. 110.º - 1. Nas zonas de uso comum destinadas aos hóspedes deverá existir:
 
 a) Recepção-portaria com cabina telefónica e zona de estar anexa;
 
@@ -1112,17 +1141,17 @@ b) Restaurante.
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 111.º - 1. Hotéis-apartamentos são os estabelecimentos constituídos por um conjunto de apartamentos mobilados e independentes, instalado em edifício próprio, e explorados em regime hoteleiro.
+Art. 111.º - 1. Hotéis-apartamentos são os estabelecimentos constituídos por um conjunto de apartamentos mobilados e independentes, instalado em edifício próprio, e explorados em regime hoteleiro.
 
 2. Para este efeito, considerar-se-á exploração em regime hoteleiro a locação dos apartamentos dia a dia ou por períodos até um mês, acompanhada, pelo menos, da prestação de serviços de limpeza.
 
 3. Para um estabelecimento ser classificado de hotel-apartamento deverá ainda obedecer aos requisitos mínimos constantes dos artigos seguintes e tabela anexa.
 
-###### Art. 112.º - 1. Os apartamentos devem ser constituídos, no mínimo, pelas seguintes divisões: quarto de dormir, sala comum, casa de banho e pequena cozinha (kitchenette).
+Art. 112.º - 1. Os apartamentos devem ser constituídos, no mínimo, pelas seguintes divisões: quarto de dormir, sala comum, casa de banho e pequena cozinha (kitchenette).
 
 2. Deverão ainda estar dotados com mobiliário completo, louças, vidros, talheres, roupas de cama e banho, toalhas de mesa e guardanapos, panos de cozinha e demais utensílios de cozinha e limpeza em quantidade e qualidade adequadas à capacidade e categoria do estabelecimento.
 
-###### Art. 113.º - 1. A capacidade de alojamento dos apartamentos será determinada pelo número de camas existentes nos quartos de dormir e pelo de camas convertíveis instaladas noutras divisões.
+Art. 113.º - 1. A capacidade de alojamento dos apartamentos será determinada pelo número de camas existentes nos quartos de dormir e pelo de camas convertíveis instaladas noutras divisões.
 
 2. O número de lugares das camas convertíveis não poderá exceder 50 por cento dos correspondentes aos quartos, sem prejuízo do disposto no número seguinte.
 
@@ -1130,7 +1159,7 @@ b) Restaurante.
 
 4. As camas convertíveis só poderão ser instaladas nos quartos de dormir ou nas salas comuns.
 
-###### Art. 114.º - 1. Considera-se quarto de dormir a divisão exclusivamente destinada a este fim.
+Art. 114.º - 1. Considera-se quarto de dormir a divisão exclusivamente destinada a este fim.
 
 2. Nos quartos de dormir poderá instalar-se o número de camas proporcional à sua área, devendo corresponder a cada cama individual a área mínima de 6 m2 e a cada cama de casal a de 10 m2.
 
@@ -1138,7 +1167,7 @@ b) Restaurante.
 
 4. Só as camas individuais poderão ser instaladas em sistema de beliche.
 
-###### Art. 115.º - 1. A sala comum, que funcionará como sala de estar e sala de refeições, deverá estar dotada de mobiliário adequado a esta dupla finalidade.
+Art. 115.º - 1. A sala comum, que funcionará como sala de estar e sala de refeições, deverá estar dotada de mobiliário adequado a esta dupla finalidade.
 
 2. Sem prejuízo do disposto na tabela anexa, a sala comum deverá ter uma área proporcionada à capacidade do apartamento.
 
@@ -1146,15 +1175,15 @@ b) Restaurante.
 
 4. As janelas ou sacadas deverão ser dotadas de um sistema que permita impedir totalmente a entrada de luz.
 
-###### Art. 116.º - 1. A cozinha deverá estar sempre equipada com frigorífico e fogão eléctrico ou a gás com, pelo menos, duas bocas e forno, lava-louça e armários para víveres e utensílios.
+Art. 116.º - 1. A cozinha deverá estar sempre equipada com frigorífico e fogão eléctrico ou a gás com, pelo menos, duas bocas e forno, lava-louça e armários para víveres e utensílios.
 
 2. A cozinha poderá ser instalada na sala comum, se estiver equipada com um dispositivo para absorver os fumos e cheiros e a conformação e amplitude da sala permitirem a sua localização adequada.
 
 3. Em qualquer caso, a cozinha deverá dispor de ventilação directa ou artificial.
 
-###### Art. 117.º Nos apartamentos de um ou dois lugares, o quarto de dormir, a sala comum e a cozinha poderão estar integrados numa só divisão, desde que a conformação e amplitude desta e as características do mobiliário o permitam.
+Art. 117.º Nos apartamentos de um ou dois lugares, o quarto de dormir, a sala comum e a cozinha poderão estar integrados numa só divisão, desde que a conformação e amplitude desta e as características do mobiliário o permitam.
 
-###### Art. 118.º - 1. Todos os apartamentos deverão dispor, para utilização dos clientes e sem limitações de consumo, de:
+Art. 118.º - 1. Todos os apartamentos deverão dispor, para utilização dos clientes e sem limitações de consumo, de:
 
 a) Água corrente, potável, tanto na cozinha como nas instalações sanitárias;
 
@@ -1164,7 +1193,7 @@ c) Combustível necessário para a cozinha, esquentador e aquecimento, se a solu
 
 2. Os apartamentos deverão ainda dispor de um sistema de eliminação de lixos ou, quando o não houver, deverá estar assegurada a sua recolha diária.
 
-###### Art. 119.º - 1. Nos hotéis-apartamentos deverá sempre existir:
+Art. 119.º - 1. Nos hotéis-apartamentos deverá sempre existir:
 
 a) Recepção-portaria com telefone;
 
@@ -1172,11 +1201,11 @@ b) Restaurante.
 
 2. Quando o estabelecimento for constituído por vários blocos de apartamentos, a recepção poderá ser comum a todos os blocos, devendo, porém, existir uma portaria em cada um deles.
 
-###### Art. 120.º - 1. O restaurante constituirá um serviço complementar independente do alojamento, não podendo ser incluído no preço deste.
+Art. 120.º - 1. O restaurante constituirá um serviço complementar independente do alojamento, não podendo ser incluído no preço deste.
 
 2. A Direcção-Geral do Turismo poderá dispensar a existência do restaurante quando, pela integração do hotel-apartamento num centro urbano, aquele se não justifique.
 
-###### Art. 121.º Nestes estabelecimentos é proibido aos clientes:
+Art. 121.º Nestes estabelecimentos é proibido aos clientes:
 
 a) Introduzir móveis no apartamento ou fazer nele quaisquer reparações;
 
@@ -1192,7 +1221,7 @@ f) Utilizar, sem autorização escrita da empresa, aparelhos que aumentem sensì
 
 #### SECÇÃO II — Dos hotéis-apartamentos de quatro estrelas
 
-###### Art. 122.º - 1. Para um hotel-apartamento ser classificado de quatro estrelas deverá estar instalado em edifício com boa localização e aspecto exterior, com mobiliário e decoração de bom nível e equipamento e utensilagem de muito boa qualidade.
+Art. 122.º - 1. Para um hotel-apartamento ser classificado de quatro estrelas deverá estar instalado em edifício com boa localização e aspecto exterior, com mobiliário e decoração de bom nível e equipamento e utensilagem de muito boa qualidade.
 
 2. Deverá ainda obedecer aos requisitos mínimos constantes da tabela anexa e alíneas seguintes:
 
@@ -1206,7 +1235,7 @@ d) Casa de banho completa em cada apartamento.
 
 3. Quando os apartamentos tiverem capacidade superior a seis lugares, deverão possuir mais uma casa de banho simples.
 
-###### Art. 123.º Nestes estabelecimentos as áreas mínimas dos quartos de dormir correspondentes às camas a instalar são as seguintes:
+Art. 123.º Nestes estabelecimentos as áreas mínimas dos quartos de dormir correspondentes às camas a instalar são as seguintes:
 
 a) Para cada cama individual, 7 m2;
 
@@ -1216,7 +1245,7 @@ c) Para cada beliche, 5 m2.
 
 #### SECÇÃO III — Dos hotéis-apartamentos de três estrelas
 
-###### Art. 124.º - 1. Para um hotel-apartamento ser classificado de três estrelas deverá estar instalado em edifício de boa construção, com mobiliário confortável e decoração de bom nível e equipamento e utensilagem de boa qualidade.
+Art. 124.º - 1. Para um hotel-apartamento ser classificado de três estrelas deverá estar instalado em edifício de boa construção, com mobiliário confortável e decoração de bom nível e equipamento e utensilagem de boa qualidade.
 
 2. Deverá ainda obedecer aos requisitos mínimos constantes da tabela anexa e alíneas seguintes:
 
@@ -1232,7 +1261,7 @@ d) Telefone em cada apartamento, ligado à portaria.
 
 #### SECÇÃO IV — Dos hotéis-apartamentos de duas estrelas
 
-###### Art. 125.º - 1. Para um hotel-apartamento ser classificado de duas estrelas deverá estar instalado em edifício em boas condições de conservação, com mobiliário, equipamento e utensilagem de nível aceitável.
+Art. 125.º - 1. Para um hotel-apartamento ser classificado de duas estrelas deverá estar instalado em edifício em boas condições de conservação, com mobiliário, equipamento e utensilagem de nível aceitável.
 
 2. Deverá ainda obedecer aos requisitos mínimos constantes da tabela anexa e alíneas seguintes:
 
@@ -1250,9 +1279,9 @@ d) Telefone em cada piso, ligado à portaria.
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 126.º O nível e a qualidade do serviço nos estabelecimentos hoteleiros devem estar de harmonia com a classificação do estabelecimento.
+Art. 126.º O nível e a qualidade do serviço nos estabelecimentos hoteleiros devem estar de harmonia com a classificação do estabelecimento.
 
-###### Art. 127.º - 1. A recepção e a portaria, que devem situar-se no andar da entrada do estabelecimento, constituirão o centro de relação com os clientes, para efeitos administrativos, de assistência e de informação.
+Art. 127.º - 1. A recepção e a portaria, que devem situar-se no andar da entrada do estabelecimento, constituirão o centro de relação com os clientes, para efeitos administrativos, de assistência e de informação.
 
 2. À recepção e à portaria competem, entre outras, as seguintes funções:
 
@@ -1278,7 +1307,7 @@ j) Encarregar-se do serviço de despertar.
 
 3. O serviço de recepção e portaria deve funcionar permanentemente durante as vinte e quatro horas do dia.
 
-###### Art. 128.º - 1. Os quartos e apartamentos devem estar preparados e limpos no momento de serem ocupados pelos clientes.
+Art. 128.º - 1. Os quartos e apartamentos devem estar preparados e limpos no momento de serem ocupados pelos clientes.
 
 2. Nos hotéis e estalagens de cinco e quatro estrelas os quartos serão de novo arrumados ao fim da tarde e preparados para a noite.
 
@@ -1288,25 +1317,25 @@ j) Encarregar-se do serviço de despertar.
 
 5. Nos hotéis-apartamentos as roupas de mesa e de cozinha deverão ser mudadas, pelo menos, duas vezes por semana.
 
-###### Art. 129.º - 1. A composição e qualidade das refeições deverá estar de harmonia com a classificação do estabelecimento.
+Art. 129.º - 1. A composição e qualidade das refeições deverá estar de harmonia com a classificação do estabelecimento.
 
 2. Na preparação dos pratos deverão utilizar-se produtos em perfeito estado de conservação, devendo a sua apresentação ser cuidada e estar de acordo com a classificação do estabelecimento.
 
-###### Art. 130.º - 1. Nos estabelecimentos de cinco, quatro e três estrelas, que devam prestar serviço de primeiros almoços, haverá, pelo menos, duas variedades à escolha do cliente.
+Art. 130.º - 1. Nos estabelecimentos de cinco, quatro e três estrelas, que devam prestar serviço de primeiros almoços, haverá, pelo menos, duas variedades à escolha do cliente.
 
 2. Os primeiros almoços deverão ser serviços no quarto quando o cliente o solicitar, sem que por isso possa haver lugar a qualquer encargo suplementar.
 
-###### Art. 131.º O serviço de refeições terá lugar dentro do horário marcado pela direcção do estabelecimento, devendo compreender para cada uma delas um período mínimo de duas horas e meia.
+Art. 131.º O serviço de refeições terá lugar dentro do horário marcado pela direcção do estabelecimento, devendo compreender para cada uma delas um período mínimo de duas horas e meia.
 
-###### Art. 132.º - 1. Em todos os estabelecimentos prestar-se-á gratuitamente um serviço de depósito de dinheiro, jóias ou objectos de valor que, para esse efeito, sejam entregues, contra recibo, pelos hóspedes.
+Art. 132.º - 1. Em todos os estabelecimentos prestar-se-á gratuitamente um serviço de depósito de dinheiro, jóias ou objectos de valor que, para esse efeito, sejam entregues, contra recibo, pelos hóspedes.
 
 2. O hoteleiro deverá dar conhecimento ao hóspede, por forma inequívoca, de que a empresa não se responsabiliza pelo dinheiro, jóias ou objectos de valor que não sejam depositados pela forma estabelecida no número anterior.
 
-###### Art. 133.º - 1. Os estabelecimentos deverão estar sempre habilitados a prestar um serviço de lavadaria e engomadoria.
+Art. 133.º - 1. Os estabelecimentos deverão estar sempre habilitados a prestar um serviço de lavadaria e engomadoria.
 
 2. Estes serviços poderão ser contratados com uma empresa especializada, embora, quando se destinem aos hóspedes, o estabelecimento seja responsável pela sua correcta prestação e especialmente pela entrega das roupas no prazo de quarenta e oito horas, ou de vinte e quatro, no caso de serviço urgente.
 
-###### Art. 134.º - 1. Todo o pessoal de serviço vestirá uniforme adequado ao serviço que preste, devendo apresentar-se sempre com a máxima correcção e limpeza.
+Art. 134.º - 1. Todo o pessoal de serviço vestirá uniforme adequado ao serviço que preste, devendo apresentar-se sempre com a máxima correcção e limpeza.
 
 2. O pessoal encarregado da preparação dos alimentos deverá ainda cobrir-se segundo a maneira tradicional.
 
@@ -1316,73 +1345,73 @@ j) Encarregar-se do serviço de despertar.
 
 ##### SUBSECÇÃO I — Hotéis de cinco e quatro estrelas
 
-###### Art. 135.º A recepção e a portaria serão dotadas de pessoal habilitado e diferenciado para cada um dos serviços.
+Art. 135.º A recepção e a portaria serão dotadas de pessoal habilitado e diferenciado para cada um dos serviços.
 
-###### Art. 136.º - 1. A limpeza e arrumação dos quartos estarão a cargo de governantes de andar, com o auxílio de pessoal próprio, em número proporcionado à capacidade do estabelecimento.
+Art. 136.º - 1. A limpeza e arrumação dos quartos estarão a cargo de governantes de andar, com o auxílio de pessoal próprio, em número proporcionado à capacidade do estabelecimento.
 
 2. O serviço de refeições e bebidas nos quartos estará a cargo do chefe de mesa, auxiliado pelo pessoal necessário à boa execução do serviço.
 
 3. Durante a noite deverá existir um serviço permanente encarregado de atender as chamadas dos clientes, e bem assim de lhes servir nos quartos águas minerais ou quaisquer outras bebidas de preparação imediata.
 
-###### Art. 137.º - 1. Nestes estabelecimentos haverá à disposição dos clientes uma grande variedade de pratos, incluindo cozinha internacional e cozinha portuguesa.
+Art. 137.º - 1. Nestes estabelecimentos haverá à disposição dos clientes uma grande variedade de pratos, incluindo cozinha internacional e cozinha portuguesa.
 
 2. Em todo o caso, o estabelecimento deverá permitir aos clientes escolher entre, pelo menos, três variedades de sopas ou acepipes e de peixe, carne, fruta, doce e queijo.
 
 3. O estabelecimento deverá ainda dispor de uma carta de vinhos de grande variedade, incluindo marcas nacionais e estrangeiras de reconhecido prestígio.
 
-###### Art. 138.º - 1. O serviço de refeições será dirigido por um chefe de mesa, assistido pelo pessoal necessário, tendo em atenção a capacidade do estabelecimento.
+Art. 138.º - 1. O serviço de refeições será dirigido por um chefe de mesa, assistido pelo pessoal necessário, tendo em atenção a capacidade do estabelecimento.
 
 2. O serviço de vinhos estará a cargo de um chefe de vinhos.
 
 3. Nestes estabelecimentos as refeições serão servidas usando uma mesa auxiliar.
 
-###### Art. 139.º O serviço telefónico estará permanentemente assegurado por pessoal habilitado e suficiente para ser executado com rapidez e eficiência.
+Art. 139.º O serviço telefónico estará permanentemente assegurado por pessoal habilitado e suficiente para ser executado com rapidez e eficiência.
 
-###### Art. 140.º Os chefes da recepção, da portaria, de mesa e de vinhos e as telefonistas deverão falar, além da língua portuguesa, o inglês e o francês.
+Art. 140.º Os chefes da recepção, da portaria, de mesa e de vinhos e as telefonistas deverão falar, além da língua portuguesa, o inglês e o francês.
 
 ##### SUBSECÇÃO II — Hotéis de três estrelas
 
-###### Art. 141.º É aplicável a estes estabelecimentos o disposto na subsecção anterior, com as modificações constantes dos artigos seguintes.
+Art. 141.º É aplicável a estes estabelecimentos o disposto na subsecção anterior, com as modificações constantes dos artigos seguintes.
 
-###### Art. 142.º O serviço de recepção-portaria será dotado de pessoal habilitado.
+Art. 142.º O serviço de recepção-portaria será dotado de pessoal habilitado.
 
-###### Art. 143.º - 1. O serviço de refeições e bebidas nos quartos, quando não haja pessoal especialmente destinado para o efeito, poderá ser prestado pelo pessoal da sala de refeições.
+Art. 143.º - 1. O serviço de refeições e bebidas nos quartos, quando não haja pessoal especialmente destinado para o efeito, poderá ser prestado pelo pessoal da sala de refeições.
 
 2. Durante a noite o serviço dos quartos poderá ser assegurado apenas por um empregado.
 
-###### Art. 144.º - 1. Nestes estabelecimentos a ementa deverá permitir ao cliente a escolha entre, pelo menos, duas variedades de sopas ou acepipes e de peixe, carne, fruta, doce e queijo.
+Art. 144.º - 1. Nestes estabelecimentos a ementa deverá permitir ao cliente a escolha entre, pelo menos, duas variedades de sopas ou acepipes e de peixe, carne, fruta, doce e queijo.
 
 2. A carta de vinhos será variada, incluindo marcas nacionais de reconhecido prestígio.
 
-###### Art. 145.º Os chefes da recepção, da portaria e de mesa e as telefonistas deverão falar, além da língua portuguesa, o inglês ou o francês.
+Art. 145.º Os chefes da recepção, da portaria e de mesa e as telefonistas deverão falar, além da língua portuguesa, o inglês ou o francês.
 
 ##### SUBSECÇÃO III — Hotéis de duas e uma estrela
 
-###### Art. 146.º O serviço de recepção-portaria será dotado de pessoal habilitado.
+Art. 146.º O serviço de recepção-portaria será dotado de pessoal habilitado.
 
-###### Art. 147.º - 1. A limpeza e arrumação dos quartos estarão a cargo de governantes de andar, com o auxílio de pessoal próprio, em número proporcionado à capacidade do estabelecimento.
+Art. 147.º - 1. A limpeza e arrumação dos quartos estarão a cargo de governantes de andar, com o auxílio de pessoal próprio, em número proporcionado à capacidade do estabelecimento.
 
 2. O serviço de refeições e bebidas nos quartos deverá estar assegurado.
 
 3. Durante a noite o serviço de quartos será assegurado apenas por um empregado.
 
-###### Art. 148.º - 1. Nestes estabelecimentos o serviço de refeições será assegurado por um chefe de mesa, auxiliado pelo pessoal necessário.
+Art. 148.º - 1. Nestes estabelecimentos o serviço de refeições será assegurado por um chefe de mesa, auxiliado pelo pessoal necessário.
 
 2. A ementa deverá permitir ao cliente a escolha entre, pelo menos, duas variedades de sopas ou acepipes e de peixe, carne, fruta, doce ou queijo.
 
-###### Art. 149.º O serviço telefónico estará permanentemente assegurado, podendo sê-lo por pessoal da portaria.
+Art. 149.º O serviço telefónico estará permanentemente assegurado, podendo sê-lo por pessoal da portaria.
 
 #### SECÇÃO III — Do serviço nos restantes estabelecimentos hoteleiros
 
-###### Art. 150. Aplicar-se-á ao serviço nas estalagens o disposto para os hotéis de três estrelas, com as adaptações decorrentes das características e capacidade destes estabelecimentos.
+Art. 150. Aplicar-se-á ao serviço nas estalagens o disposto para os hotéis de três estrelas, com as adaptações decorrentes das características e capacidade destes estabelecimentos.
 
-###### Art. 151.º Nos restantes estabelecimentos hoteleiros o serviço deverá satisfazer aos requisitos gerais.
+Art. 151.º Nos restantes estabelecimentos hoteleiros o serviço deverá satisfazer aos requisitos gerais.
 
 ### CAPÍTULO X — Dos estabelecimentos similares dos hoteleiros
 
 #### SECÇÃO I — Disposições comuns a todos os estabelecimentos
 
-###### Art. 152.º - 1. Todos os estabelecimentos similares deverão dispor de:
+Art. 152.º - 1. Todos os estabelecimentos similares deverão dispor de:
 
 a) Água corrente;
 
@@ -1410,7 +1439,7 @@ i) Instalações sanitárias para o pessoal.
 
 5. Pode admitir-se a existência de instalações destinadas à preparação dos alimentos na sala de refeições, desde que a qualidade da solução adoptada o permita.
 
-###### Art. 153.º - 1. As instalações sanitárias terão ventilação directa ou artificial, com continua renovação de ar.
+Art. 153.º - 1. As instalações sanitárias terão ventilação directa ou artificial, com continua renovação de ar.
 
 2. Estas instalações deverão, tanto quanto possível, ser localizadas de forma a não darem directamente para as salas de utilização dos clientes.
 
@@ -1418,17 +1447,17 @@ i) Instalações sanitárias para o pessoal.
 
 4. As paredes, pavimentos e tectos serão revestidos de materiais de fácil limpeza.
 
-###### Art. 154.º - 1. Quando se exija ar condicionado ou aquecimento, as respectivas instalações deverão permitir a sua regulação separada para as diversas dependências de utilização dos clientes.
+Art. 154.º - 1. Quando se exija ar condicionado ou aquecimento, as respectivas instalações deverão permitir a sua regulação separada para as diversas dependências de utilização dos clientes.
 
 2. O aquecimento e o ar condicionado deverão funcionar sempre que as condições climatéricas o requeiram, de modo a manter-se sempre uma temperatura ambiente adequada.
 
 3. A Direcção-Geral do Turismo poderá dispensar, total ou parcialmente, a instalação de aquecimento ou de ar condicionado, se, pela localização do estabelecimento e período de exploração, tais requisitos se mostrarem desnecessários.
 
-###### Art. 155.º A instalação de máquinas ou aparelhagens, ascensores, condutas de água e esgotos efectuar-se-á de modo que se eliminem ruídos e vibrações, devendo utilizar-se para esse fim os meios técnicos adequados.
+Art. 155.º A instalação de máquinas ou aparelhagens, ascensores, condutas de água e esgotos efectuar-se-á de modo que se eliminem ruídos e vibrações, devendo utilizar-se para esse fim os meios técnicos adequados.
 
-###### Art. 156.º Os estabelecimentos, respectivas instalações, mobiliário e demais pertences deverão ser mantidos nas devidas condições de apresentação, funcionamento e limpeza, reparando-se prontamente as deteriorações ou avarias verificadas.
+Art. 156.º Os estabelecimentos, respectivas instalações, mobiliário e demais pertences deverão ser mantidos nas devidas condições de apresentação, funcionamento e limpeza, reparando-se prontamente as deteriorações ou avarias verificadas.
 
-###### Art. 157.º Em todos os estabelecimentos similares deverá cuidar-se do seu aspecto higiénico e da qualidade dos serviços prestados, de harmonia com a sua classificação, tendo em especial atenção o seguinte:
+Art. 157.º Em todos os estabelecimentos similares deverá cuidar-se do seu aspecto higiénico e da qualidade dos serviços prestados, de harmonia com a sua classificação, tendo em especial atenção o seguinte:
 
 a) A preparação dos alimentos e bebidas, utilizando produtos em perfeito estado de conservação;
 
@@ -1438,23 +1467,23 @@ c) O trato amável dos clientes, atendendo-os com rapidez e eficiência;
 
 d) O perfeito funcionamento e limpeza das instalações sanitárias.
 
-###### Art. 158.º - 1. Os estabelecimentos deverão dispor do pessoal necessário à boa execução do serviço, de acordo com a classificação, capacidade e características do estabelecimento.
+Art. 158.º - 1. Os estabelecimentos deverão dispor do pessoal necessário à boa execução do serviço, de acordo com a classificação, capacidade e características do estabelecimento.
 
 2. Aplicar-se-á ao pessoal destes estabelecimentos o disposto no artigo 134.º
 
 #### SECÇÃO II — Dos restaurantes
 
-###### Art. 159.º - 1. Os restaurantes serão classificados nas seguintes categorias: luxo, 1.ª, 2.ª e 3.ª
+Art. 159.º - 1. Os restaurantes serão classificados nas seguintes categorias: luxo, 1.ª, 2.ª e 3.ª
 
 2. Independentemente da sua categoria, os restaurantes poderão ainda ser classificados de típicos.
 
-###### Art. 160.º - 1. Nos restaurantes que assumam formas não tradicionais, tais como o snack-bar, o self-service ou o restaurante automático, os requisitos mínimos de instalação, gerais e próprios de cada categoria, e o serviço serão adaptados de acordo com as características especificas deste tipo de estabelecimentos.
+Art. 160.º - 1. Nos restaurantes que assumam formas não tradicionais, tais como o snack-bar, o self-service ou o restaurante automático, os requisitos mínimos de instalação, gerais e próprios de cada categoria, e o serviço serão adaptados de acordo com as características especificas deste tipo de estabelecimentos.
 
 2. Estes estabelecimentos serão classificados apenas em três categorias: 1.ª 2.ª e 3.ª
 
 ##### SUBSECÇÃO I — Dos restaurantes de luxo
 
-###### Art. 161.º - 1. Para um restaurante ser classificado de luxo deverá satisfazer aos requisitos mínimos constantes dos números seguintes.
+Art. 161.º - 1. Para um restaurante ser classificado de luxo deverá satisfazer aos requisitos mínimos constantes dos números seguintes.
 
 2. Na zona destinada aos clientes deverá existir:
 
@@ -1490,11 +1519,11 @@ e) Vestiário para o pessoal.
 
 5. No caso de o estabelecimento se situar num 2.º andar ou superior ou as instalações destinadas aos clientes se distribuírem por três ou mais andares, deverá existir ascensor, sendo aplicável o disposto nos n.os 3 e 4 do artigo 54.º
 
-###### Art. 162.º - 1. Nestes estabelecimentos haverá à disposição dos clientes uma grande variedade de pratos, incluindo cozinha internacional e cozinha portuguesa, atendendo-se, em todo o caso, às regras fixadas nos termos do artigo 174.º
+Art. 162.º - 1. Nestes estabelecimentos haverá à disposição dos clientes uma grande variedade de pratos, incluindo cozinha internacional e cozinha portuguesa, atendendo-se, em todo o caso, às regras fixadas nos termos do artigo 174.º
 
 2. Do mesmo modo deverá dispor de grande variedade de vinhos de marcas nacionais de reconhecido prestígio.
 
-###### Art. 163.º - 1. O serviço de refeições será dirigido por um chefe de mesa e efectuar-se-á usando mesa auxiliar.
+Art. 163.º - 1. O serviço de refeições será dirigido por um chefe de mesa e efectuar-se-á usando mesa auxiliar.
 
 2. O serviço de vinhos estará a cargo de um chefe de vinhos.
 
@@ -1502,7 +1531,7 @@ e) Vestiário para o pessoal.
 
 ##### SUBSECÇÃO II — Dos restaurantes de 1.ª
 
-###### Art. 164.º - 1. Para um restaurante ser classificado de 1.ª deverá satisfazer aos requisitos mínimos constantes dos números seguintes.
+Art. 164.º - 1. Para um restaurante ser classificado de 1.ª deverá satisfazer aos requisitos mínimos constantes dos números seguintes.
 
 2. Na zona destinada aos clientes deverá existir:
 
@@ -1536,17 +1565,17 @@ e) Vestiário para o pessoal.
 
 5. Aplicar-se-á a estes estabelecimentos o disposto no n.º 5 do artigo 161.º
 
-###### Art. 165.º - 1. Nestes estabelecimentos haverá à disposição dos clientes pratos de cozinha internacional e portuguesa, atendendo-se, em todo o caso, às regras fixadas nos termos do artigo 174.º
+Art. 165.º - 1. Nestes estabelecimentos haverá à disposição dos clientes pratos de cozinha internacional e portuguesa, atendendo-se, em todo o caso, às regras fixadas nos termos do artigo 174.º
 
 2. Haverá ainda vinhos de marcas nacionais de reconhecido prestígio.
 
-###### Art. 166.º - 1. O serviço de refeições será dirigido por um chefe de mesa.
+Art. 166.º - 1. O serviço de refeições será dirigido por um chefe de mesa.
 
 2. O chefe de mesa deverá falar, além do português, o francês ou o inglês.
 
 ##### SUBSECÇÃO III — Dos restaurantes de 2.ª
 
-###### Art. 167.º - 1. Para um restaurante ser classificado de 2.ª deverá satisfazer aos requisitos mínimos constantes dos números seguintes.
+Art. 167.º - 1. Para um restaurante ser classificado de 2.ª deverá satisfazer aos requisitos mínimos constantes dos números seguintes.
 
 2. Na zona destinada aos clientes deverá existir:
 
@@ -1572,13 +1601,13 @@ c) Vestiário para o pessoal.
 
 5. Quando as condições do local onde está instalado o estabelecimento o não permitam, poderá dispensar-se a existência da entrada de serviço, devendo, neste caso, os fornecimentos fazer-se fora das horas em que o estabelecimento está aberto ao público ou, não sendo possível, nas horas de menor frequência.
 
-###### Art. 168.º - 1. Nestes estabelecimentos haverá à disposição dos clientes pratos de cozinha portuguesa, atendendo-se, em todo o caso, às regras fixadas nos termos do artigo 174.º
+Art. 168.º - 1. Nestes estabelecimentos haverá à disposição dos clientes pratos de cozinha portuguesa, atendendo-se, em todo o caso, às regras fixadas nos termos do artigo 174.º
 
 2. Haverá ainda vinhos de marcas nacionais.
 
 ##### SUBSECÇÃO IV — Dos restaurantes de 3.ª
 
-###### Art. 169.º - 1. Para um restaurante ser classificado de 3.ª deverá satisfazer aos requisitos mínimos dos estabelecimentos similares.
+Art. 169.º - 1. Para um restaurante ser classificado de 3.ª deverá satisfazer aos requisitos mínimos dos estabelecimentos similares.
 
 2. O equipamento, ainda que simples, deverá apresentar-se em bom estado de conservação.
 
@@ -1586,17 +1615,17 @@ c) Vestiário para o pessoal.
 
 ##### SUBSECÇÃO V — Dos restaurantes típicos
 
-###### Art. 170.º - 1. Podem ser classificados como restaurantes típicos os que, pela sua cozinha, mobiliário, decoração e, eventualmente, pela exibição de folclore, reconstituam um ambiente característico de um país ou de uma região.
+Art. 170.º - 1. Podem ser classificados como restaurantes típicos os que, pela sua cozinha, mobiliário, decoração e, eventualmente, pela exibição de folclore, reconstituam um ambiente característico de um país ou de uma região.
 
 2. Os empregados destes estabelecimentos poderão usar trajes próprios do País ou da região.
 
-###### Art. 171.º - 1. A classificação prevista no artigo anterior será atribuída a requerimento do interessado.
+Art. 171.º - 1. A classificação prevista no artigo anterior será atribuída a requerimento do interessado.
 
 2. A Direcção-Geral do Turismo poderá, oficiosamente, retirar, a qualquer tempo, esta classificação, desde que deixem de verificar-se os pressupostos que a determinam.
 
 ##### SUBSECÇÃO VI — Das refeições nos restaurantes
 
-###### Art. 172.º - 1. Em todos os restaurantes será obrigatòriamente afixada, em local bem visível e que permita uma fácil leitura do exterior, a lista do dia, com os respectivos preços, e ainda, de forma salientada, a composição e preço da refeição completa e da ementa turística.
+Art. 172.º - 1. Em todos os restaurantes será obrigatòriamente afixada, em local bem visível e que permita uma fácil leitura do exterior, a lista do dia, com os respectivos preços, e ainda, de forma salientada, a composição e preço da refeição completa e da ementa turística.
 
 2. A lista do dia incluirá todos os pratos que o estabelecimento esteja apto a servir no dia a que a lista respeitar.
 
@@ -1604,7 +1633,7 @@ c) Vestiário para o pessoal.
 
 4. Nos estabelecimentos de luxo e de 1.ª a lista será escrita, pelo menos, em português, inglês e francês.
 
-###### Art. 173.º - 1. No interior dos restaurantes haverá ao dispor dos clientes uma lista do dia, elaborada em conformidade com o disposto no artigo anterior.
+Art. 173.º - 1. No interior dos restaurantes haverá ao dispor dos clientes uma lista do dia, elaborada em conformidade com o disposto no artigo anterior.
 
 2. Nos restaurantes de luxo, 1.ª e 2.ª haverá ainda uma carta de vinhos, com a indicação das marcas existentes e respectivos preços.
 
@@ -1614,13 +1643,13 @@ c) Vestiário para o pessoal.
 
 5. O disposto neste artigo não se aplica aos estabelecimentos previstos no n.º 1 do artigo 160.º, que pelas suas características o não permitam.
 
-###### Art. 174.º A composição mínima da lista do dia nas várias categorias de restaurantes será fixada por despacho do Secretário de Estado da Informação e Turismo.
+Art. 174.º A composição mínima da lista do dia nas várias categorias de restaurantes será fixada por despacho do Secretário de Estado da Informação e Turismo.
 
-###### Art. 175.º - 1. Sem prejuízo do disposto quanto à ementa turística, os restaurantes, qualquer que seja a sua categoria, poderão oferecer, a preço fixo, um serviço de refeição denominado «refeição completa».
+Art. 175.º - 1. Sem prejuízo do disposto quanto à ementa turística, os restaurantes, qualquer que seja a sua categoria, poderão oferecer, a preço fixo, um serviço de refeição denominado «refeição completa».
 
 2. A refeição completa será composta de pratos constantes da lista do dia e incluirá, obrigatoriamente, pão (80 g) e vinho corrente, tinto ou branco (3 dl).
 
-###### Art. 176.º - 1. Em todos os restaurantes é obrigatória a prática de um serviço de refeição denominado «ementa turística».
+Art. 176.º - 1. Em todos os restaurantes é obrigatória a prática de um serviço de refeição denominado «ementa turística».
 
 2. Por ementa turística entende-se a refeição composta de sopa ou acepipes, um prato de ovos, peixe ou carne e uma sobremesa (queijo, doce, fruta ou gelado) em qualidade e quantidade iguais às do serviço à lista, incluindo pão (80 g) e vinho corrente, tinto ou branco (3 dl).
 
@@ -1630,15 +1659,15 @@ c) Vestiário para o pessoal.
 
 5. O preço da ementa turística inclui todos os impostos e taxas devidos e o seu limite máximo será fixado por despacho do Secretário de Estado da Informação e Turismo para cada categoria.
 
-###### Art. 177.º A obrigatoriedade da ementa turística poderá ser dispensada, por despacho do Secretário de Estado da Informação e Turismo, em relação a algum ou alguns dos tipos de estabelecimentos previstos no n.º 1 do artigo 160.º, que pelas suas características não permitam a sua prática.
+Art. 177.º A obrigatoriedade da ementa turística poderá ser dispensada, por despacho do Secretário de Estado da Informação e Turismo, em relação a algum ou alguns dos tipos de estabelecimentos previstos no n.º 1 do artigo 160.º, que pelas suas características não permitam a sua prática.
 
 #### SECÇÃO III — Dos estabelecimentos de bebidas
 
-###### Art. 178.º - 1. Os estabelecimentos deste grupo serão classificados nas seguintes categorias: luxo, 1.ª, 2.ª e 3.ª
+Art. 178.º - 1. Os estabelecimentos deste grupo serão classificados nas seguintes categorias: luxo, 1.ª, 2.ª e 3.ª
 
 2. As instalações destes estabelecimentos deverão estar adaptadas aos serviços específicos que prestem, designadamente como cafés, cervejarias, casas de chá ou bares, e obedecerão ao disposto nos artigos seguintes.
 
-###### Art. 179.º - 1. Para um estabelecimento de bebidas ser classificado de luxo deverá ter decoração e equipamento de modo a proporcionar ambiente e serviço requintados e obedecer aos requisitos mínimos constantes dos artigos seguintes.
+Art. 179.º - 1. Para um estabelecimento de bebidas ser classificado de luxo deverá ter decoração e equipamento de modo a proporcionar ambiente e serviço requintados e obedecer aos requisitos mínimos constantes dos artigos seguintes.
 
 2. Na zona destinada aos clientes deverá existir:
 
@@ -1668,7 +1697,7 @@ d) Vestiário para o pessoal.
 
 5. No caso de o estabelecimento se situar num 2.º andar ou superior ou as instalações destinadas aos clientes se distribuírem por três ou mais andares, deverá existir ascensor, sendo aplicável o disposto nos n.os 3 e 4 do artigo 54.º
 
-###### Art. 180.º - 1. Para um estabelecimento ser classificado de 1.ª deverá ter decoração de bom nível e equipamento de boa qualidade, de modo a proporcionar ambiente confortável e satisfazer aos requisitos mínimos constantes dos números seguintes.
+Art. 180.º - 1. Para um estabelecimento ser classificado de 1.ª deverá ter decoração de bom nível e equipamento de boa qualidade, de modo a proporcionar ambiente confortável e satisfazer aos requisitos mínimos constantes dos números seguintes.
 
 2. Na zona destinada aos clientes deverá existir:
 
@@ -1698,7 +1727,7 @@ d) Vestiário para o pessoal.
 
 6. Aplicar-se-á a estes estabelecimentos o disposto no n.º 5 do artigo anterior.
 
-###### Art. 181.º - 1. Para um estabelecimento ser classificado de 2.ª deverá possuir equipamento de qualidade aceitável e obedecer aos requisites mínimos constantes das alíneas seguintes:
+Art. 181.º - 1. Para um estabelecimento ser classificado de 2.ª deverá possuir equipamento de qualidade aceitável e obedecer aos requisites mínimos constantes das alíneas seguintes:
 
 a) Aparelhagem adequada para arrefecimento do ambiente;
 
@@ -1710,15 +1739,15 @@ d) Vestiário para o pessoal.
 
 2. Nos bares deverá existir vestiário, localizado próximo da entrada.
 
-###### Art. 182.º - 1. Para um estabelecimento ser classificado de 3.ª deverá satisfazer aos requisitos mínimos dos estabelecimentos similares.
+Art. 182.º - 1. Para um estabelecimento ser classificado de 3.ª deverá satisfazer aos requisitos mínimos dos estabelecimentos similares.
 
 2. O equipamento, ainda que simples, deverá apresentar-se em bom estado de conservação.
 
 #### SECÇÃO IV — Das salas de dança
 
-###### Art. 183.º Os estabelecimentos deste grupo serão classificados nas seguintes categorias: luxo, 1.ª e 2.ª
+Art. 183.º Os estabelecimentos deste grupo serão classificados nas seguintes categorias: luxo, 1.ª e 2.ª
 
-###### Art. 184.º - 1. Sem prejuízo do disposto na legislação relativa a salas de espectáculos e independentemente do tipo de exploração adoptado, os estabelecimentos deste grupo devem obedecer aos seguintes requisitos mínimos:
+Art. 184.º - 1. Sem prejuízo do disposto na legislação relativa a salas de espectáculos e independentemente do tipo de exploração adoptado, os estabelecimentos deste grupo devem obedecer aos seguintes requisitos mínimos:
 
 a) Entrada com visibilidade restrita para o interior;
 
@@ -1740,7 +1769,7 @@ h) Vestiário para o pessoal.
 
 3. No caso de o estabelecimento se situar num 2.º andar ou superior ou as instalações destinadas aos clientes se distribuírem por três ou mais andares, deverá existir ascensor, sendo aplicável o disposto nos n.os 3 e 4 do artigo 54.º
 
-###### Art. 185.º - 1. Para um estabelecimento ser classificado de luxo deverá satisfazer aos seguintes requisitos mínimos:
+Art. 185.º - 1. Para um estabelecimento ser classificado de luxo deverá satisfazer aos seguintes requisitos mínimos:
 
 a) Telefone com cabina isolada;
 
@@ -1750,7 +1779,7 @@ c) Instalações sanitárias com materiais de revestimento e equipamento de luxo
 
 2. A decoração e equipamento devem ser de modo a proporcionar ambiente e serviço requintados.
 
-###### Art. 186.º - 1. Para um estabelecimento ser classificado de 1.ª deverá satisfazer aos seguintes requisitos mínimos:
+Art. 186.º - 1. Para um estabelecimento ser classificado de 1.ª deverá satisfazer aos seguintes requisitos mínimos:
 
 a) Telefone com cabina isolada;
 
@@ -1760,7 +1789,7 @@ c) Instalações sanitárias com materiais de revestimento e equipamento de boa 
 
 2. A decoração deve ser de bom nível e o equipamento de boa qualidade, de modo a proporcionar ambiente confortável.
 
-###### Art. 187.º - 1. Para um estabelecimento ser classificado de 2.ª deverá satisfazer aos seguintes requisitos mínimos:
+Art. 187.º - 1. Para um estabelecimento ser classificado de 2.ª deverá satisfazer aos seguintes requisitos mínimos:
 
 a) Aquecimento;
 
@@ -1770,17 +1799,17 @@ b) Aparelhagem adequada ao arrefecimento do ambiente.
 
 ### CAPÍTULO XI — Das vistorias e abertura dos estabelecimentos
 
-###### Art. 188.º - 1. Quem pretender iniciar a exploração de um estabelecimento hoteleiro ou similar deverá requerer à Direcção-Geral do Turismo a respectiva vistoria.
+Art. 188.º - 1. Quem pretender iniciar a exploração de um estabelecimento hoteleiro ou similar deverá requerer à Direcção-Geral do Turismo a respectiva vistoria.
 
 2. Ao mesmo tempo deve requerer a aprovação da denominação do estabelecimento e das respectivas tabelas de preços, sob pena de se considerar não requerida a vistoria.
 
-###### Art. 189.º - 1. A vistoria será realizada no prazo de vinte dias, contado da entrada do requerimento nos serviços, devendo a decisão dela resultante ser comunicada ao interessado nos dez dias seguintes à sua realização.
+Art. 189.º - 1. A vistoria será realizada no prazo de vinte dias, contado da entrada do requerimento nos serviços, devendo a decisão dela resultante ser comunicada ao interessado nos dez dias seguintes à sua realização.
 
 2. Se nos prazos previstos no número anterior não tiver sido realizada a vistoria ou feita a comunicação, poderá o estabelecimento iniciar a sua exploração com a classificação provisória que lhe tiver sido atribuída aquando da aprovação do respectivo projecto.
 
 3. No momento da vistoria será entregue ao interessado um certificado, do qual conste a identificação do estabelecimento e a data da vistoria, e que servirá apenas para comprovar a data em que foi efectuada.
 
-###### Art. 190.º - 1. Da vistoria será elaborado um relatório, do qual devem constar informação acerca da conformidade do estabelecimento com e projecto aprovado, a proposta de classificação e demais elementos necessários à aprovação da denominação e das tabelas de preços.
+Art. 190.º - 1. Da vistoria será elaborado um relatório, do qual devem constar informação acerca da conformidade do estabelecimento com e projecto aprovado, a proposta de classificação e demais elementos necessários à aprovação da denominação e das tabelas de preços.
 
 2. No caso de ser autorizada a abertura do estabelecimento, da comunicação ao interessado deve constar, além desta autorização, a decisão sobre a classificação e a denominação do estabelecimento.
 
@@ -1788,49 +1817,49 @@ b) Aparelhagem adequada ao arrefecimento do ambiente.
 
 4. No caso de não ser autorizada a abertura do estabelecimento, devem ser comunicados ao interessado os fundamentos da recusa.
 
-###### Art. 191.º - 1. Decorrido um ano, a contar da data em que for comunicada ao interessado a classificação provisória, será efectuada nova vistoria, para atribuição da classificação definitiva.
+Art. 191.º - 1. Decorrido um ano, a contar da data em que for comunicada ao interessado a classificação provisória, será efectuada nova vistoria, para atribuição da classificação definitiva.
 
 2. Esta vistoria será efectuada no prazo de sessenta dias e o seu resultado comunicado ao interessado no prazo de um mês.
 
 3. Se nos prazos previstos no número anterior não tiver sido realizada a vistoria ou feita a comunicação, a classificação provisòriamente atribuída considerar-se-á definitiva.
 
-###### Art. 192.º Nenhum estabelecimento hoteleiro ou similar de interesse para o turismo poderá iniciar a sua exploração sem ter obtido a aprovação da respectiva denominação e das tabelas de preços.
+Art. 192.º Nenhum estabelecimento hoteleiro ou similar de interesse para o turismo poderá iniciar a sua exploração sem ter obtido a aprovação da respectiva denominação e das tabelas de preços.
 
-###### Art. 193.º - 1. Requerida a aprovação da denominação, a Direcção-Geral do Turismo deverá pronunciar-se no prazo de trinta dias, contado da entrada do requerimento nos serviços.
+Art. 193.º - 1. Requerida a aprovação da denominação, a Direcção-Geral do Turismo deverá pronunciar-se no prazo de trinta dias, contado da entrada do requerimento nos serviços.
 
 2. Entende-se tàcitamente aprovada a denominação acerca da qual não houver decisão neste prazo, salvo se contrariar o disposto nos n.os 2 e 3 do artigo 12.º e nos artigos 16.º e 20.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
 
-###### Art. 194.º Não poderão ser aprovadas denominações iguais às de outros estabelecimentos hoteleiros eu similares existentes no mesmo concelho eu por tal forma semelhante que possam induzir em erro.
+Art. 194.º Não poderão ser aprovadas denominações iguais às de outros estabelecimentos hoteleiros eu similares existentes no mesmo concelho eu por tal forma semelhante que possam induzir em erro.
 
-###### Art. 195.º Quando o interessado requerer a vistoria para reclassificação do estabelecimento, observar-se-á, com necessárias adaptações, o disposto neste capítulo.
+Art. 195.º Quando o interessado requerer a vistoria para reclassificação do estabelecimento, observar-se-á, com necessárias adaptações, o disposto neste capítulo.
 
-###### Art. 196.º - 1. As vistorias para a abertura e reclassificação dos estabelecimentos serão realizadas por funcionários da Direcção-Geral do Turismo ou das delegações da Secretaria de Estado e por um delegado do respectivo grémio.
+Art. 196.º - 1. As vistorias para a abertura e reclassificação dos estabelecimentos serão realizadas por funcionários da Direcção-Geral do Turismo ou das delegações da Secretaria de Estado e por um delegado do respectivo grémio.
 
 2. No caso de falta de comparência do delegado do grémio, se este tiver sido convocado, a vistoria realizar-se-á do mesmo modo.
 
 ### CAPÍTULO XII — Dos preços nos estabelecimentos hoteleiros e similares
 
-###### Art. 197.º - 1. Para efeito de aprovação dos preços nos estabelecimentos hoteleiros e similares, devem os interessados apresentar na Direcção-Geral do Turismo, em impresso normalizado, a proposta dos preços que pretendem praticar.
+Art. 197.º - 1. Para efeito de aprovação dos preços nos estabelecimentos hoteleiros e similares, devem os interessados apresentar na Direcção-Geral do Turismo, em impresso normalizado, a proposta dos preços que pretendem praticar.
 
 2. A proposta deverá ser apresentada em duplicado, destinando-se um dos exemplares a ser devolvido ao interessado, com a data da entrada, para servir de recibo.
 
 3. Os preços aprovados constarão de impresso normalizado, devidamente autenticado pela Direcção-Geral do Turismo, o qual será remetido ao interessado por carta registada com aviso de recepção eu entregue mediante recibo.
 
-###### Art. 198.º - 1. Entendem-se tàcitamente aprovados os preços acerca dos quais não tenha havido qualquer decisão no prazo de trinta dias, contado da data da entrada nos serviços da respectiva proposta.
+Art. 198.º - 1. Entendem-se tàcitamente aprovados os preços acerca dos quais não tenha havido qualquer decisão no prazo de trinta dias, contado da data da entrada nos serviços da respectiva proposta.
 
 2. Nos casos de aprovação tácita, se os preços propostos excederem os limites máximos fixados, quando os houver, considerar-se-ão reduzidos àqueles máximos.
 
-###### Art. 199.º - 1. Quando os preços propostos não mereçam aprovação, a Direcção-Geral do Turismo poderá desde logo fixá-los oficiosamente ou convidar o interessado a apresentar novos preços.
+Art. 199.º - 1. Quando os preços propostos não mereçam aprovação, a Direcção-Geral do Turismo poderá desde logo fixá-los oficiosamente ou convidar o interessado a apresentar novos preços.
 
 2. No caso de os novos preços propostos também não merecerem a aprovação, a Direcção-Geral do Turismo deverá fixá-los oficiosamente.
 
-###### Art. 200.º - 1. Em relação aos alimentos sujeitos a flutuações de preço muito amplas, conforme as épocas do ano, poderão ser propostos e fixados preços variáveis entre limites máximos e mínimos.
+Art. 200.º - 1. Em relação aos alimentos sujeitos a flutuações de preço muito amplas, conforme as épocas do ano, poderão ser propostos e fixados preços variáveis entre limites máximos e mínimos.
 
 2. Neste caso, os empresários deverão praticar em cada época, dentro desses limites e tendo em atenção os preços de custo e as margens comerciais habituais em estabelecimentos com a mesma classificação, o preço correspondente.
 
 3. A prática de preços em contravenção do disposto no número anterior será considerada, para todos os efeitos legais, prática de preços não aprovados.
 
-###### Art. 201.º - 1. Salvo o disposto nos artigos 202.º e 203.º, os estabelecimentos hoteleiros que pretendam alterar os preços neles praticados deverão apresentar a respectiva proposta até 31 de Maio de cada ano, para produzir efeitos no ano imediato.
+Art. 201.º - 1. Salvo o disposto nos artigos 202.º e 203.º, os estabelecimentos hoteleiros que pretendam alterar os preços neles praticados deverão apresentar a respectiva proposta até 31 de Maio de cada ano, para produzir efeitos no ano imediato.
 
 2. Não valerão para qualquer efeito as propostas de preços apresentadas depois da data referida no número anterior.
 
@@ -1838,31 +1867,31 @@ b) Aparelhagem adequada ao arrefecimento do ambiente.
 
 4. O que no presente artigo se estabelece não impede a proposta, a todo e tempo, de preços correspondentes a novos bens e serviços.
 
-###### Art. 202.º - 1. Sempre que a classificação de um estabelecimento seja alterada, deverão ser apresentadas pelo interessado novas tabelas, no prazo de quinze dias, a contar do recebimento da respectiva comunicação.
+Art. 202.º - 1. Sempre que a classificação de um estabelecimento seja alterada, deverão ser apresentadas pelo interessado novas tabelas, no prazo de quinze dias, a contar do recebimento da respectiva comunicação.
 
 2. No prazo de três dias, a contar da fixação dos novos preços, deverá o empresário devolver as tabelas anteriores.
 
 3. Até à data em que se considerem fixadas as novas tabelas, o empresário será admitido a praticar os preços das tabelas anteriores.
 
-###### Art. 203.º No caso dos estabelecimentos a que se refere o artigo 4.º, as propostas de preços deverão ser apresentadas para aprovação no prazo de quinze dias a seguir à comunicação da classificação.
+Art. 203.º No caso dos estabelecimentos a que se refere o artigo 4.º, as propostas de preços deverão ser apresentadas para aprovação no prazo de quinze dias a seguir à comunicação da classificação.
 
-###### Art. 204.º - 1. Em todas as salas de dança ou estabelecimentos similares com espectáculo poderá ser autorizada a prática do consumo mínimo obrigatório.
+Art. 204.º - 1. Em todas as salas de dança ou estabelecimentos similares com espectáculo poderá ser autorizada a prática do consumo mínimo obrigatório.
 
 2. Para este efeito, o interessado deverá apresentar na Direcção-Geral do Turismo o respectivo pedido, do qual conste a denominação e classificação do estabelecimento, o preço do consumo, o serviço a que dá direito e as características e cartaz do espectáculo, quando o houver.
 
 3. O pedido poderá ser apresentado em qualquer época do ano, aplicando-se, com as necessárias adaptações, o disposto no artigo 197.º
 
-###### Art. 205.º - 1. A Direcção-Geral do Turismo fixará o preço do consumo mínimo obrigatório, tendo em atenção a classificação do estabelecimento, o serviço oferecido e o nível do espectáculo, quando o houver.
+Art. 205.º - 1. A Direcção-Geral do Turismo fixará o preço do consumo mínimo obrigatório, tendo em atenção a classificação do estabelecimento, o serviço oferecido e o nível do espectáculo, quando o houver.
 
 2. Entendem-se tàcitamente fixados os consumos mínimos obrigatórios acerca dos quais não tenha havido qualquer decisão no prazo de quinze dias, contado da data da entrada do respectivo pedido nos serviços.
 
-###### Art. 206.º - 1. A Direcção-Geral do Turismo poderá, sempre que as circunstâncias o justifiquem, rever oficiosamente o consumo mínimo obrigatório fixado.
+Art. 206.º - 1. A Direcção-Geral do Turismo poderá, sempre que as circunstâncias o justifiquem, rever oficiosamente o consumo mínimo obrigatório fixado.
 
 2. O consumo mínimo, fixado nos termos do número anterior, entrará em vigor no dia seguinte ao do recebimento pelo interessado da comunicação de alteração.
 
-###### Art. 207.º Não poderão ser praticados nos estabelecimentos preços superiores aos legalmente fixados, nem vendidos quaisquer bens ou serviços cujos preços não tenham sido aprovados ou fixados pela Direcção-Geral do Turismo.
+Art. 207.º Não poderão ser praticados nos estabelecimentos preços superiores aos legalmente fixados, nem vendidos quaisquer bens ou serviços cujos preços não tenham sido aprovados ou fixados pela Direcção-Geral do Turismo.
 
-###### Art. 208.º - 1. Nos estabelecimentos hoteleiros devem afixar-se em todos os quartos, em lugar bem visível, tabelas normalizadas, das quais constem a denominação e a classificação do estabelecimento e os preços do aposento, das refeições e da pensão completa.
+Art. 208.º - 1. Nos estabelecimentos hoteleiros devem afixar-se em todos os quartos, em lugar bem visível, tabelas normalizadas, das quais constem a denominação e a classificação do estabelecimento e os preços do aposento, das refeições e da pensão completa.
 
 2. Nestes estabelecimentos as cartas a apresentar aos clientes nas salas de refeições deverão conter sempre o preço da refeição.
 
@@ -1870,31 +1899,31 @@ b) Aparelhagem adequada ao arrefecimento do ambiente.
 
 4. Nos estabelecimentos em que o consumo mínimo obrigatório seja autorizado, o preço deste deve ser afixado à entrada e no interior, em lugar bem visível, com a indicação das taxas e impostos que sobre ele incidam e devam ser cobrados dos clientes.
 
-###### Art. 209.º Para os efeitos do disposto no n.º 2 do artigo 49.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), a Direcção-Geral do Turismo comunicará às câmaras municipais os preços médios aprovados na mesma região para os estabelecimentos de interesse para o turismo.
+Art. 209.º Para os efeitos do disposto no n.º 2 do artigo 49.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), a Direcção-Geral do Turismo comunicará às câmaras municipais os preços médios aprovados na mesma região para os estabelecimentos de interesse para o turismo.
 
 ### CAPÍTULO XIII — Da disciplina e funcionamento
 
 #### SECÇÃO I — Disposições comuns aos estabelecimentos hoteleiros e similares
 
-###### Art. 210.º - 1. Compete à Direcção-Geral do Turismo fiscalizar os estabelecimentos hoteleiros similares de interesse para o turismo.
+Art. 210.º - 1. Compete à Direcção-Geral do Turismo fiscalizar os estabelecimentos hoteleiros similares de interesse para o turismo.
 
 2. Para este efeito, aos funcionários da Direcção-Geral do Turismo em serviço de fiscalização, depois de devidamente identificados, será facultada, a todo o momento, a entrada nos estabelecimentos e suas dependências, devendo ainda ser postos ao seu dispor todos os elementos por eles solicitados.
 
-###### Art. 211.º - 1. Em todos os estabelecimentos hoteleiros e similares de interesse para o turismo será obrigatória a afixação no exterior, junto à entrada principal, de uma placa normalizada com a classificação do estabelecimento, conforme modelo a aprovar por portaria do Secretário de Estado da Informação e Turismo.
+Art. 211.º - 1. Em todos os estabelecimentos hoteleiros e similares de interesse para o turismo será obrigatória a afixação no exterior, junto à entrada principal, de uma placa normalizada com a classificação do estabelecimento, conforme modelo a aprovar por portaria do Secretário de Estado da Informação e Turismo.
 
 2. No prazo de quinze dias, a contar da data em que o estabelecimento for classificado ou se verificar qualquer alteração da sua classificação, deve o empresário satisfazer ao disposto no número anterior.
 
-###### Art. 212.º - 1. Os estabelecimentos não poderão usar classificação diferente da que lhe tenha sido atribuída, nem aludir por qualquer forma à classificação anterior.
+Art. 212.º - 1. Os estabelecimentos não poderão usar classificação diferente da que lhe tenha sido atribuída, nem aludir por qualquer forma à classificação anterior.
 
 2. Na publicidade, correspondência, facturas ou qualquer outra forma de referência aos estabelecimentos deverá claramente indicar-se, por forma completa e inequívoca, a sua classificação.
 
-###### Art. 213.º - 1. Os estabelecimentos de interesse para o turismo, quando não estejam abertos ao público durante todo o ano, deverão comunica à Direcção-Geral do Turismo, até 31 de Maio de cada ano, o período do seu funcionamento para o ano seguinte.
+Art. 213.º - 1. Os estabelecimentos de interesse para o turismo, quando não estejam abertos ao público durante todo o ano, deverão comunica à Direcção-Geral do Turismo, até 31 de Maio de cada ano, o período do seu funcionamento para o ano seguinte.
 
 2. Será dispensada a comunicação prevista no n.º 1, desde que não se verifique alteração do período de funcionamento comunicado em ano anterior.
 
 3. Na falta de comunicação tempestiva é obrigatório o funcionamento do estabelecimento durante todo o ano.
 
-###### Art. 214.º - 1. Em todos os estabelecimentos hoteleiros e similares existirá um livro de reclamações, que será obrigatòriamente facultado aos clientes que o solicitem e exibam documento comprovativo da sua identificação.
+Art. 214.º - 1. Em todos os estabelecimentos hoteleiros e similares existirá um livro de reclamações, que será obrigatòriamente facultado aos clientes que o solicitem e exibam documento comprovativo da sua identificação.
 
 2. O livro, do modelo a aprovar pela Direcção-Geral do Turismo, deverá ter termos de abertura e de encerramento assinados pelo chefe da repartição competente, com as folhas numeradas e rubricadas pelo mesmo funcionário, podendo estas assinaturas e rubricas ser de chancela.
 
@@ -1906,11 +1935,11 @@ b) Aparelhagem adequada ao arrefecimento do ambiente.
 
 6. Em todos os estabelecimentos deverá afixar-se, em local bem visível, a indicação da existência de um livro de reclamações ao dispor dos clientes.
 
-###### Art. 215.º - 1. Em todos os estabelecimentos hoteleiros e similares deverá haver um responsável, a quem caberá zelar pelo bom funcionamento do estabelecimento, trato amável da clientela, rapidez e eficiência do serviço e demais disposições legais aplicáveis.
+Art. 215.º - 1. Em todos os estabelecimentos hoteleiros e similares deverá haver um responsável, a quem caberá zelar pelo bom funcionamento do estabelecimento, trato amável da clientela, rapidez e eficiência do serviço e demais disposições legais aplicáveis.
 
 2. Nos hotéis e hotéis-apartamentos e nas estalagens com mais de trinta quartos o lugar de responsável será exercido por um director.
 
-###### Art. 216.º - 1. Os estabelecimentos hoteleiros e similares serão considerados como públicos, não sendo permitida qualquer prática discriminatória injustificada que limite o seu livre acesso.
+Art. 216.º - 1. Os estabelecimentos hoteleiros e similares serão considerados como públicos, não sendo permitida qualquer prática discriminatória injustificada que limite o seu livre acesso.
 
 2. Consideram-se motivos justificados de proibição do acesso ou permanência nos estabelecimentos os seguintes:
 
@@ -1922,19 +1951,19 @@ c) A inobservância das normas usuais de higiene, moralidade, convivência e ord
 
 3. Poderão ainda as empresas proibir o acesso às pessoas que se façam acompanhar de animais.
 
-###### Art. 217.º Não é permitida a venda ambulante nos estabelecimentos, salvo quanto aos produtos que constituam objecto do seu comércio e quando feita pelas próprias empresas.
+Art. 217.º Não é permitida a venda ambulante nos estabelecimentos, salvo quanto aos produtos que constituam objecto do seu comércio e quando feita pelas próprias empresas.
 
-###### Art. 218.º Nos estabelecimentos similares não poderão ser consumidas comidas ou bebidas que não sejam fornecidas pelo próprio estabelecimento, salvo se o empresário o autorizar.
+Art. 218.º Nos estabelecimentos similares não poderão ser consumidas comidas ou bebidas que não sejam fornecidas pelo próprio estabelecimento, salvo se o empresário o autorizar.
 
-###### Art. 219.º Os clientes devem observar as normas usuais de urbanidade, higiene e convivência, bem como as normas privativas dos estabelecimentos, que não contrariem as disposições legais.
+Art. 219.º Os clientes devem observar as normas usuais de urbanidade, higiene e convivência, bem como as normas privativas dos estabelecimentos, que não contrariem as disposições legais.
 
-###### Art. 220.º A inobservância pelos clientes dos deveres que lhe são impostos nos termos deste Regulamento atribuirá ao empresário o direito de resolver os respectivos contratos ou de proibir o acesso ou a permanência dos clientes nos estabelecimentos.
+Art. 220.º A inobservância pelos clientes dos deveres que lhe são impostos nos termos deste Regulamento atribuirá ao empresário o direito de resolver os respectivos contratos ou de proibir o acesso ou a permanência dos clientes nos estabelecimentos.
 
-###### Art. 221.º - 1. Das importâncias pagas pelos clientes serão obrigatòriamente passadas facturas, das quais constarão, discriminadamente, os serviços prestados e o respectivo preço.
+Art. 221.º - 1. Das importâncias pagas pelos clientes serão obrigatòriamente passadas facturas, das quais constarão, discriminadamente, os serviços prestados e o respectivo preço.
 
 2. Exceptuam-se do disposto no número anterior os estabelecimentos de bebidas, nos quais só serão passadas facturas quando o cliente o solicite.
 
-###### Art. 222.º - 1. Quando um estabelecimento deva ser desclassificado, sê-lo-á baixando de categoria dentro do seu grupo.
+Art. 222.º - 1. Quando um estabelecimento deva ser desclassificado, sê-lo-á baixando de categoria dentro do seu grupo.
 
 2. No caso de o estabelecimento hoteleiro não corresponder sequer às exigências mínimas do seu grupo, a desclassificação processar-se-á pela seguinte forma:
 
@@ -1946,7 +1975,7 @@ b) Sendo pensão, motel ou hotel-apartamento, será declarado sem interesse para
 
 #### SECÇÃO II — Da disciplina e funcionamento dos estabelecimentos hoteleiros
 
-###### Art. 223.º - 1. O cliente alojado num estabelecimento hoteleiro tem direito à utilização do quarto e suas instalações privativas ou do apartamento e ainda a usufruir as instalações comuns do estabelecimento, não podendo ser-lhe cobrado algum suplemento de preço por esta utilização.
+Art. 223.º - 1. O cliente alojado num estabelecimento hoteleiro tem direito à utilização do quarto e suas instalações privativas ou do apartamento e ainda a usufruir as instalações comuns do estabelecimento, não podendo ser-lhe cobrado algum suplemento de preço por esta utilização.
 
 2. Para este efeito, consideram-se instalações comuns as seguintes:
 
@@ -1968,21 +1997,21 @@ d) A recolha diária do lixo, se for caso disso.
 
 4. Pelos serviços ou instalações não compreendidos nos números anteriores poderão os estabelecimentos cobrar preços suplementares.
 
-###### Art. 224.º - 1. Para efeitos do disposto neste Regulamento, entende-se por aposento o serviço que consiste na locação de um quarto e suas instalações privativas por um período máximo de vinte e quatro horas, o qual termina sempre, salvo convenção em contrário, às 12 horas de cada dia.
+Art. 224.º - 1. Para efeitos do disposto neste Regulamento, entende-se por aposento o serviço que consiste na locação de um quarto e suas instalações privativas por um período máximo de vinte e quatro horas, o qual termina sempre, salvo convenção em contrário, às 12 horas de cada dia.
 
 2. A ocupação de um quarto por tempo inferior a 12 horas não poderá, no entanto, ser considerada, em qualquer caso, superior a um período de locação.
 
-###### Art. 225.º - 1. Quando o cliente não deixe o quarto livre até às 12 horas ou até à hora convencionada, entender-se-á, salvo o disposto no n.º 2 do artigo anterior, que prolonga a sua estada por mais um dia.
+Art. 225.º - 1. Quando o cliente não deixe o quarto livre até às 12 horas ou até à hora convencionada, entender-se-á, salvo o disposto no n.º 2 do artigo anterior, que prolonga a sua estada por mais um dia.
 
 2. Quando, tendo anunciado a sua partida ou tendo-se esgotado o prazo convencionado de estada, o cliente pretender prolongar a sua permanência no estabelecimento, o hoteleiro poderá não aceitar a continuação da hospedagem, se se tiver comprometido com outro cliente.
 
-###### Art. 226.º - 1. No caso de o cliente ocupar um quarto duplo, por não existir quarto individual disponível, não poderá ser-lhe cobrado preço superior ao do quarto ocupado, deduzido de 30 por cento.
+Art. 226.º - 1. No caso de o cliente ocupar um quarto duplo, por não existir quarto individual disponível, não poderá ser-lhe cobrado preço superior ao do quarto ocupado, deduzido de 30 por cento.
 
 2. Logo que haja quarto individual disponível, pode o hoteleiro convidar o cliente a ocupá-lo.
 
 3. Se o cliente o não quiser fazer, pode o hoteleiro, a partir dessa data, cobrar integralmente o preço do quarto duplo.
 
-###### Art. 227.º - 1. Para os efeitos deste Regulamento, entende-se por pensão completa o serviço complexo, que consiste na locação de um quarto nas condições do artigo 224.º e na prestação de primeiro almoço, almoço e jantar.
+Art. 227.º - 1. Para os efeitos deste Regulamento, entende-se por pensão completa o serviço complexo, que consiste na locação de um quarto nas condições do artigo 224.º e na prestação de primeiro almoço, almoço e jantar.
 
 2. Nenhum estabelecimento poderá exigir dos seus clientes que sujeitem a sua estada ao regime de pensão completa.
 
@@ -1992,7 +2021,7 @@ d) A recolha diária do lixo, se for caso disso.
 
 5. O período de tempo referido no número anterior conta-se a partir da prestação do primeiro dos serviços nele, previstos, qualquer que ele seja.
 
-###### Art. 228.º - 1. O cliente só terá direito à prática da pensão completa desde o inicio da sua permanência, se optar por esta modalidade no momento da sua admissão no estabelecimento.
+Art. 228.º - 1. O cliente só terá direito à prática da pensão completa desde o inicio da sua permanência, se optar por esta modalidade no momento da sua admissão no estabelecimento.
 
 2. Quando o não fizer, só terá direito á prática da pensão completa a partir do momento em que declare optar por esta modalidade.
 
@@ -2000,7 +2029,7 @@ d) A recolha diária do lixo, se for caso disso.
 
 ### CAPÍTULO XIV — Do registo
 
-###### Art. 229.º - 1. O registo dos estabelecimentos hoteleiros e similares de interesse para o turismo deverá conter os seguintes elementos:
+Art. 229.º - 1. O registo dos estabelecimentos hoteleiros e similares de interesse para o turismo deverá conter os seguintes elementos:
 
 a) Denominação do estabelecimento;
 
@@ -2024,65 +2053,65 @@ f) Identidade do responsável pelo estabelecimento.
 
 6. Este prazo poderá ser prorrogado pela Direcção-Geral do Turismo se se mostrar haver motivos atendíveis para o fazer.
 
-###### Art. 230.º As reclamações, sanções, louvores e relatórios de inspecção e vistoria serão anotados no registo por meio de averbamento, com menção dos processos onde se encontram os respectivos documentos.
+Art. 230.º As reclamações, sanções, louvores e relatórios de inspecção e vistoria serão anotados no registo por meio de averbamento, com menção dos processos onde se encontram os respectivos documentos.
 
-###### Art. 231.º As empresas exploradoras dos estabelecimentos já abertos ao público à data da entrada em vigor deste Regulamento devem fornecer à Direcção-Geral do Turismo os elementos necessários para o registo referido no artigo 229.º no prazo de sessenta dias, a contar daquela data.
+Art. 231.º As empresas exploradoras dos estabelecimentos já abertos ao público à data da entrada em vigor deste Regulamento devem fornecer à Direcção-Geral do Turismo os elementos necessários para o registo referido no artigo 229.º no prazo de sessenta dias, a contar daquela data.
 
-###### Art. 232.º As empresas exploradoras devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos a que se refere o n.º 1 do artigo 229.º no prazo de trinta dias, a contar da data em que tenha lugar essa alteração, mesmo quando esta dependa de autorização prévia.
+Art. 232.º As empresas exploradoras devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos a que se refere o n.º 1 do artigo 229.º no prazo de trinta dias, a contar da data em que tenha lugar essa alteração, mesmo quando esta dependa de autorização prévia.
 
-###### Art. 233.º - 1. Poderão ser passadas certidões dos elementos constantes do registo a requerimento da empresa proprietária ou exploradora do estabelecimento e de quem mostre interesse legítimo na sua obtenção.
+Art. 233.º - 1. Poderão ser passadas certidões dos elementos constantes do registo a requerimento da empresa proprietária ou exploradora do estabelecimento e de quem mostre interesse legítimo na sua obtenção.
 
 2. Do requerimento deverá sempre constar os fins a que se destinam as certidões, que não poderão ser usadas para efeitos diferentes dos requeridos.
 
 ### CAPÍTULO XV — Das infracções e sua sanção
 
-###### Art. 234.º Compete à Direcção-Geral do Turismo organizar os processos relativos às infracções ao disposto no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e suas disposições regulamentares.
+Art. 234.º Compete à Direcção-Geral do Turismo organizar os processos relativos às infracções ao disposto no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e suas disposições regulamentares.
 
-###### Art. 235.º - 1. A multa aplicada será notificada ao infractor para pagamento voluntário, o qual poderá ser efectuado no prazo de dez dias, a contar da notificação, na, repartição de finanças do concelho ou bairro fiscal da situação do estabelecimento.
+Art. 235.º - 1. A multa aplicada será notificada ao infractor para pagamento voluntário, o qual poderá ser efectuado no prazo de dez dias, a contar da notificação, na, repartição de finanças do concelho ou bairro fiscal da situação do estabelecimento.
 
 2. Para este efeito, a Direcção-Geral do Turismo passará as respectivas guias, remetendo-as à repartição de finanças competente.
 
 3. Devolvidas as guias por falta de pagamento, será o processo remetido aos tribunais fiscais para execução, nos termos do Código de Processo das Contribuições e Impostos.
 
-###### Art. 236.º A infracção ao disposto no n.º 2 do artigo 38.º será punida com multa de 1000$00 a 15000$00.
+Art. 236.º A infracção ao disposto no n.º 2 do artigo 38.º será punida com multa de 1000$00 a 15000$00.
 
-###### Art. 237.º As infracções ao disposto no n.º 2 do artigo 41.º e no n.º 2 do artigo 154.º serão punidas com multa de 1000$00 a 15000$00.
+Art. 237.º As infracções ao disposto no n.º 2 do artigo 41.º e no n.º 2 do artigo 154.º serão punidas com multa de 1000$00 a 15000$00.
 
-###### Art. 238.º A infracção ao disposto no artigo 44.º será punida com a multa de 1000$00 a 20000$00.
+Art. 238.º A infracção ao disposto no artigo 44.º será punida com a multa de 1000$00 a 20000$00.
 
-###### Art. 239.º - 1. As infracções ao disposto nos artigos 16.º e 20.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e no artigo 93.º deste Regulamento serão punidas com a multa de 1000$00 a 15000$00.
+Art. 239.º - 1. As infracções ao disposto nos artigos 16.º e 20.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e no artigo 93.º deste Regulamento serão punidas com a multa de 1000$00 a 15000$00.
 
 2. O uso de denominação do estabelecimento que não tenha sido aprovada será punida com a multa de 2000$00.
 
-###### Art. 240.º A infracção ao disposto no artigo 104.º será punida com a multa de 1000$00 a 20000$00.
+Art. 240.º A infracção ao disposto no artigo 104.º será punida com a multa de 1000$00 a 20000$00.
 
-###### Art. 241.º A infracção ao disposto no artigo 105.º será punida com a multa de 1000$00.
+Art. 241.º A infracção ao disposto no artigo 105.º será punida com a multa de 1000$00.
 
-###### Art. 242.º As infracções ao disposto no artigo 134.º e no n.º 2 do artigo 158.º serão punidas com a multa de 1000$00 a 10000$00.
+Art. 242.º As infracções ao disposto no artigo 134.º e no n.º 2 do artigo 158.º serão punidas com a multa de 1000$00 a 10000$00.
 
-###### Art. 243.º A infracção ao disposto no artigo 157.º será punida com a multa de 1000$00 a 20000$00.
+Art. 243.º A infracção ao disposto no artigo 157.º será punida com a multa de 1000$00 a 20000$00.
 
-###### Art. 244.º As infracções ao disposto nos artigos 172.º e 173.º serão punidas com a multa de 500$00 a 5000$00.
+Art. 244.º As infracções ao disposto nos artigos 172.º e 173.º serão punidas com a multa de 500$00 a 5000$00.
 
-###### Art. 245.º A elaboração da lista do dia em contravenção das normas que fixarem a sua composição mínima será punida com multa de 500$00 a 20000$00.
+Art. 245.º A elaboração da lista do dia em contravenção das normas que fixarem a sua composição mínima será punida com multa de 500$00 a 20000$00.
 
-###### Art. 246.º A prática do serviço de refeição completa em contravenção do disposto no n.º 2 do artigo 175.º será punida com multa de 1000$00 a 5000$00.
+Art. 246.º A prática do serviço de refeição completa em contravenção do disposto no n.º 2 do artigo 175.º será punida com multa de 1000$00 a 5000$00.
 
-###### Art. 247.º A infracção ao disposto no artigo 176.º ou qualquer conduta fraudulenta destinada a evitar a sua aplicação será punida com multa de 2000$00 a 50000$00.
+Art. 247.º A infracção ao disposto no artigo 176.º ou qualquer conduta fraudulenta destinada a evitar a sua aplicação será punida com multa de 2000$00 a 50000$00.
 
-###### Art. 248.º A infracção ao disposto no artigo 207.º será punida com multa de 1000$00 a 50000$00, quando praticada num estabelecimento similar, e com multa de 2000$00 a 100000$00, quando praticada num estabelecimento hoteleiro.
+Art. 248.º A infracção ao disposto no artigo 207.º será punida com multa de 1000$00 a 50000$00, quando praticada num estabelecimento similar, e com multa de 2000$00 a 100000$00, quando praticada num estabelecimento hoteleiro.
 
-###### Art. 249.º - 1. A infracção ao disposto no n.º 1 do artigo 208.º será punida com multa de 500$00 a 1000$00 por cada tabela em falta, com o limite de 30000$00.
+Art. 249.º - 1. A infracção ao disposto no n.º 1 do artigo 208.º será punida com multa de 500$00 a 1000$00 por cada tabela em falta, com o limite de 30000$00.
 
 2. As infracções ao disposto nos n.os 2, 3 e 4 do mesmo artigo serão punidas com multa de 500$00 a 5000$00.
 
-###### Art. 250.º A infracção ao disposto no artigo 211.º será punida com multa de 500$00 a 5000$00.
+Art. 250.º A infracção ao disposto no artigo 211.º será punida com multa de 500$00 a 5000$00.
 
-###### Art. 251.º A infracção ao disposto no artigo 212.º será punida com multa de 3000$00 a 30000$00.
+Art. 251.º A infracção ao disposto no artigo 212.º será punida com multa de 3000$00 a 30000$00.
 
-###### Art. 252.º A interrupção do funcionamento do estabelecimento, em contravenção do disposto no artigo 213.º, é punida com multa de 2000$00 a 50000$00, quando se tratar de estabelecimento hoteleiro, e com multa de 1000$00 a 10000$00, quando se tratar de estabelecimento similar.
+Art. 252.º A interrupção do funcionamento do estabelecimento, em contravenção do disposto no artigo 213.º, é punida com multa de 2000$00 a 50000$00, quando se tratar de estabelecimento hoteleiro, e com multa de 1000$00 a 10000$00, quando se tratar de estabelecimento similar.
 
-###### Art. 253.º As infracções ao disposto no artigo 214.º serão punidas nos termos seguintes:
+Art. 253.º As infracções ao disposto no artigo 214.º serão punidas nos termos seguintes:
 
 a) A infracção ao n.º 1, com multa de 1000$00 a 10000$00;
 
@@ -2094,43 +2123,43 @@ d) A infracção ao n.º 5, com multa de 1000$00 a 10000$00;
 
 e) A infracção ao n.º 6, com multa de 500$00 a 10000$00.
 
-###### Art. 254.º A infracção ao disposto no n.º 1 do artigo 216.º será punida com multa de 500$00 a 10000$00.
+Art. 254.º A infracção ao disposto no n.º 1 do artigo 216.º será punida com multa de 500$00 a 10000$00.
 
-###### Art. 255.º A infracção ao disposto no artigo 221.º será punida com multa de 500$00 a 20000$00.
+Art. 255.º A infracção ao disposto no artigo 221.º será punida com multa de 500$00 a 20000$00.
 
-###### Art. 256.º - 1. A cobrança aos hóspedes de qualquer importância pela utilização das instalações comuns dos estabelecimentos hoteleiros em contravenção do disposto nos n.os 1 e 2 do artigo 223.º será punida com multa de 2000$00 a 30000$00.
+Art. 256.º - 1. A cobrança aos hóspedes de qualquer importância pela utilização das instalações comuns dos estabelecimentos hoteleiros em contravenção do disposto nos n.os 1 e 2 do artigo 223.º será punida com multa de 2000$00 a 30000$00.
 
 2. A cobrança aos clientes de qualquer importância pela prestação de algum dos serviços previstos no n.º 3 do artigo 223.º será punida com multa de 1000$00 a 30000$00.
 
-###### Art. 257.º A infracção ao disposto no n.º 2 do artigo 224.º será punida com multa de 1000$00 a 30000$00.
+Art. 257.º A infracção ao disposto no n.º 2 do artigo 224.º será punida com multa de 1000$00 a 30000$00.
 
-###### Art. 258.º A infracção ao disposto no n.º 1 do artigo 226.º será punida com multa de 1000$00 a 50000$00.
+Art. 258.º A infracção ao disposto no n.º 1 do artigo 226.º será punida com multa de 1000$00 a 50000$00.
 
-###### Art. 259.º A infracção ao disposto no artigo 227.º ou qualquer conduta fraudulenta destinada a evitar a sua aplicação será punida com multa de 1000$00 a 50000$00.
+Art. 259.º A infracção ao disposto no artigo 227.º ou qualquer conduta fraudulenta destinada a evitar a sua aplicação será punida com multa de 1000$00 a 50000$00.
 
-###### Art. 260.º A infracção, pelos empresários, das normas respeitantes a registo será punida com multa de 500$00 a 5000$00.
+Art. 260.º A infracção, pelos empresários, das normas respeitantes a registo será punida com multa de 500$00 a 5000$00.
 
-###### Art. 261.º - 1. As empresas deverão manter os estabelecimentos, respectivas instalações e serviço em conformidade com as normas constantes do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e suas disposições regulamentares, e bem assim observar, em qualquer caso, todo o disposto nos mesmos diplomas.
+Art. 261.º - 1. As empresas deverão manter os estabelecimentos, respectivas instalações e serviço em conformidade com as normas constantes do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e suas disposições regulamentares, e bem assim observar, em qualquer caso, todo o disposto nos mesmos diplomas.
 
 2. A infracção ao estabelecido no número anterior, desde que não lhe corresponda sanção específica, será punida com multa de 500$00 a 20000$00.
 
-###### Art. 262.º No caso de reincidência, os limites máximos das multas estabelecidas neste diploma serão elevados para o dobro.
+Art. 262.º No caso de reincidência, os limites máximos das multas estabelecidas neste diploma serão elevados para o dobro.
 
-###### Art. 263.º Quando for aplicável a pena de multa, a Direcção-Geral do Turismo poderá, atendendo à reduzida gravidade e demais circunstâncias da infracção, substituir pena de multa pela de advertência, se se tratar da primeira infracção verificada no decurso desse ano civil.
+Art. 263.º Quando for aplicável a pena de multa, a Direcção-Geral do Turismo poderá, atendendo à reduzida gravidade e demais circunstâncias da infracção, substituir pena de multa pela de advertência, se se tratar da primeira infracção verificada no decurso desse ano civil.
 
-###### Art. 264.º Será aplicável a pena de suspensão temporária do funcionamento do estabelecimento até seis meses por infracções repetidas em matéria de serviço ou no caso de segunda reincidência em matéria de preços.
+Art. 264.º Será aplicável a pena de suspensão temporária do funcionamento do estabelecimento até seis meses por infracções repetidas em matéria de serviço ou no caso de segunda reincidência em matéria de preços.
 
-###### Art. 265.º No caso de incumprimento injustificado das providências ordenadas nos termos da alínea h) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), será suspenso o funcionamento do estabelecimento até que tenha sido dada integral satisfação ao que tiver sido determinado.
+Art. 265.º No caso de incumprimento injustificado das providências ordenadas nos termos da alínea h) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), será suspenso o funcionamento do estabelecimento até que tenha sido dada integral satisfação ao que tiver sido determinado.
 
-###### Art. 266.º - 1. Independentemente da aplicação da sanção a que haja lugar, a Direcção-Geral do Turismo notificará o empresário, sempre que a natureza da infracção o justifique, para corrigir, no prazo que lhe for fixado, a deficiência verificada.
+Art. 266.º - 1. Independentemente da aplicação da sanção a que haja lugar, a Direcção-Geral do Turismo notificará o empresário, sempre que a natureza da infracção o justifique, para corrigir, no prazo que lhe for fixado, a deficiência verificada.
 
 2. Neste caso, se o empresário não cumprir a notificação que lhe foi feita, a Direcção-Geral do Turismo poderá suspender temporàriamente o funcionamento do estabelecimento até que a deficiência seja corrigida.
 
-###### Art. 267.º - 1. Será aplicável a pena de encerramento definitivo do estabelecimento quando pela prática de infracções repetidas e graves a manutenção da sua exploração represente um grave prejuízo para os interesses do turismo nacional.
+Art. 267.º - 1. Será aplicável a pena de encerramento definitivo do estabelecimento quando pela prática de infracções repetidas e graves a manutenção da sua exploração represente um grave prejuízo para os interesses do turismo nacional.
 
 2. Para este efeito, considerar-se-ão infracções graves, nomeadamente, as respeitantes a preços e serviço.
 
-###### Art. 268.º - 1. O estabelecimento encerrado definitivamente por aplicação da sanção prevista no artigo anterior só poderá reabrir com denominação diferente e novo responsável e desde que se tenha verificado a transmissão do estabelecimento.
+Art. 268.º - 1. O estabelecimento encerrado definitivamente por aplicação da sanção prevista no artigo anterior só poderá reabrir com denominação diferente e novo responsável e desde que se tenha verificado a transmissão do estabelecimento.
 
 2. Para este efeito, a transmissão considerar-se-á ineficaz quando se apresentar como adquirente alguma das pessoas a que se refere o n.º 2 do artigo 579.º do Código Civil ou uma sociedade da qual seja sócio ou gerente o proprietário, o explorador ou o responsável ao tempo da aplicação da sanção.
 
@@ -2138,29 +2167,29 @@ e) A infracção ao n.º 6, com multa de 500$00 a 10000$00.
 
 ### CAPÍTULO XVI — Disposições finais
 
-###### Art. 269.º O regime jurídico dos estabelecimentos hoteleiros e similares e das respectivas actividades e serviços estabelecido no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e no presente Regulamento fixará para todos os efeitos a sua caracterização legal.
+Art. 269.º O regime jurídico dos estabelecimentos hoteleiros e similares e das respectivas actividades e serviços estabelecido no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e no presente Regulamento fixará para todos os efeitos a sua caracterização legal.
 
-###### Art. 270.º - 1. Quando num estabelecimento hoteleiro sejam acessòriamente exercidas actividades próprias dos estabelecimentos similares, que assumam perante o público autonomia funcional, ser-lhe-ão aplicáveis, na parte respectiva, as disposições que regulam a exploração dos estabelecimentos similares, com as necessárias adaptações.
+Art. 270.º - 1. Quando num estabelecimento hoteleiro sejam acessòriamente exercidas actividades próprias dos estabelecimentos similares, que assumam perante o público autonomia funcional, ser-lhe-ão aplicáveis, na parte respectiva, as disposições que regulam a exploração dos estabelecimentos similares, com as necessárias adaptações.
 
 2. Para este efeito, considera-se designadamente haver autonomia funcional quando a respectiva exploração for anunciada ao público como estabelecimento similar individualizado.
 
 3. Em caso de dúvida acerca da autonomia da exploração similar, a Direcção-Geral do Turismo decidirá.
 
-###### Art. 271.º Quando num estabelecimento hoteleiro forem cumulativamente exercidas actividades próprias dos estabelecimentos similares, nos termos previstos no artigo anterior, a classificação do estabelecimento hoteleiro determinará as demais classificações, nos termos da tabela anexa, salvo nos casos em que a Direcção-Geral do Turismo autorizar o contrário.
+Art. 271.º Quando num estabelecimento hoteleiro forem cumulativamente exercidas actividades próprias dos estabelecimentos similares, nos termos previstos no artigo anterior, a classificação do estabelecimento hoteleiro determinará as demais classificações, nos termos da tabela anexa, salvo nos casos em que a Direcção-Geral do Turismo autorizar o contrário.
 
-###### Art. 272.º Serão aplicáveis às esplanadas, quando funcionarem como estabelecimentos autónomos, as disposições respeitantes aos estabelecimentos similares dos hoteleiros, com as adaptações determinadas pelas características e a natureza destes empreendimentos.
+Art. 272.º Serão aplicáveis às esplanadas, quando funcionarem como estabelecimentos autónomos, as disposições respeitantes aos estabelecimentos similares dos hoteleiros, com as adaptações determinadas pelas características e a natureza destes empreendimentos.
 
-###### Art. 273.º - 1. Todos os elementos a apresentar na Direcção-Geral do Turismo pelos interessados poderão ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata dos duplicados ou recibos, quando for caso disso.
+Art. 273.º - 1. Todos os elementos a apresentar na Direcção-Geral do Turismo pelos interessados poderão ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata dos duplicados ou recibos, quando for caso disso.
 
 2. O disposto no número anterior aplicar-se-á igualmente quando os elementos forem apresentados a alguma das outras entidades referidas nos artigos 7.º, 24.º, 32.º e 33.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
 
-###### Art. 274.º A Junta Autónoma de Estradas sinalizará, mediante indicação da Direcção-Geral do Turismo, a existência de estabelecimentos hoteleiros e similares de interesse para o turismo, bem como de conjuntos turísticos.
+Art. 274.º A Junta Autónoma de Estradas sinalizará, mediante indicação da Direcção-Geral do Turismo, a existência de estabelecimentos hoteleiros e similares de interesse para o turismo, bem como de conjuntos turísticos.
 
 ### CAPÍTULO XVII — Disposições transitórias
 
-###### Art. 275.º Quando se mostre necessário realizar obras para que o estabelecimento mantenha a classificação actual, a Direcção-Geral do Turismo poderá dispensá-las, ou reduzi-las a requerimento fundamentado do interessado, se as circunstâncias tornarem impossível ou excessivamente onerosa a sua execução.
+Art. 275.º Quando se mostre necessário realizar obras para que o estabelecimento mantenha a classificação actual, a Direcção-Geral do Turismo poderá dispensá-las, ou reduzi-las a requerimento fundamentado do interessado, se as circunstâncias tornarem impossível ou excessivamente onerosa a sua execução.
 
-###### Art. 276.º - 1. Todos os estabelecimentos hoteleiros e similares de interesse para o turismo existentes à data da entrada em vigor deste decreto deverão apresentar até 30 de Junho do corrente ano, à Direcção-Geral do Turismo, nos impressos normalizados previstos neste diploma, as propostas de preços que pretendem praticar.
+Art. 276.º - 1. Todos os estabelecimentos hoteleiros e similares de interesse para o turismo existentes à data da entrada em vigor deste decreto deverão apresentar até 30 de Junho do corrente ano, à Direcção-Geral do Turismo, nos impressos normalizados previstos neste diploma, as propostas de preços que pretendem praticar.
 
 2. Até 30 de Setembro do mesmo ano, a Direcção-Geral do Turismo apreciará os preços propostos pelos estabelecimentos hoteleiros, considerando-se os preços aprovados se nesse prazo não houver qualquer decisão sobre eles, sem prejuízo do disposto no n.º 3 do artigo 46.º do decreto-lei n.º 49399.
 
@@ -2168,293 +2197,299 @@ e) A infracção ao n.º 6, com multa de 500$00 a 10000$00.
 
 4. Os preços aprovados nos termos dos n.os 2 e 3 só entrarão em vigor a partir de 1 de Janeiro de 1971.
 
-###### Art. 277.º - 1. As empresas exploradoras dos estabelecimentos reclassificados nos termos do artigo 58.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) deverão apresentar na Direcção-Geral do Turismo a nova proposta de preços resultante dessa reclassificação no prazo de quinze dias, a contar da respectiva notificação, aplicando-se o disposto no artigo 202.º
+Art. 277.º - 1. As empresas exploradoras dos estabelecimentos reclassificados nos termos do artigo 58.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) deverão apresentar na Direcção-Geral do Turismo a nova proposta de preços resultante dessa reclassificação no prazo de quinze dias, a contar da respectiva notificação, aplicando-se o disposto no artigo 202.º
 
 2. Se a reclassificação for efectuada no decorrer do ano de 1970, os novos preços só entrarão em vigor em 1 de Janeiro de 1971.
 
-###### Art. 278.º - 1. Os estabelecimentos que por força da tabela III anexa a este diploma deixem automàticamente de ser declarados de interesse para o turismo poderão requerer, até 30 de Outubro de 1970, a revisão dessa declaração sem observância do disposto no artigo 5.º, não se aplicando também o prazo estabelecido no n.º 5 do artigo 2.º
+Art. 278.º - 1. Os estabelecimentos que por força da tabela III anexa a este diploma deixem automàticamente de ser declarados de interesse para o turismo poderão requerer, até 30 de Outubro de 1970, a revisão dessa declaração sem observância do disposto no artigo 5.º, não se aplicando também o prazo estabelecido no n.º 5 do artigo 2.º
 
 2. No caso de esses estabelecimentos serem classificados de interesse para o turismo, deverão apresentar a correspondente proposta de preços no prazo de quinze dias, aplicando-se-lhes o disposto no n.º 4 do artigo 276.º
 
-###### Art. 279.º - 1. Até 31 de Dezembro de 1970, os estabelecimentos hoteleiros e similares continuarão a praticar os preços actuais, desde que satisfaçam ao disposto no artigo 42.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), sem prejuízo do disposto no n.º 2 do artigo 41.º e no n.º 3 do artigo 44.º do mesmo diploma, salvo o preço da ementa turística, que entrará em vigor com o despacho que o fixar.
+Art. 279.º - 1. Até 31 de Dezembro de 1970, os estabelecimentos hoteleiros e similares continuarão a praticar os preços actuais, desde que satisfaçam ao disposto no artigo 42.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), sem prejuízo do disposto no n.º 2 do artigo 41.º e no n.º 3 do artigo 44.º do mesmo diploma, salvo o preço da ementa turística, que entrará em vigor com o despacho que o fixar.
 
 2. A prática de preços superiores aos estabelecidos em conformidade com as regras do número antecedente será punida nos termos previstos neste diploma para a infracção aos preços legalmente fixados.
 
-###### Art. 280.º Este diploma entrará em vigor em 1 de Junho de 1970 e será obrigatòriamente revisto até 31 de Dezembro de 1972.
+Art. 280.º Este diploma entrará em vigor em 1 de Junho de 1970 e será obrigatòriamente revisto até 31 de Dezembro de 1972.
 
 Marcello Caetano - César Henrique Moreira Baptista.
 
-**Promulgado em 24 de Fevereiro de 1970.**
+Promulgado em 24 de Fevereiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO I — Tabela de dimensões e áreas mínimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf))](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf)
 
 ## ANEXO II — Tabela a que se refere o artigo 271.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf))](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf)
 
 ## ANEXO III — Tabela a que se refere o artigo 59.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf))](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/02/04601/00000026.pdf)
 
 Secretaria de Estado da Informação e Turismo, 24 de Fevereiro de 1970. - O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.
 
 ÍNDICE
 
-### Capítulo I - Da instalação dos estabelecimentos.
+Capítulo I - Da instalação dos estabelecimentos.
 
-#### Secção I - Da competência.
+Secção I - Da competência.
 
 ###### Artigo 1.º
 
-#### Secção II - Da declaração de ou sem interesse para e turismo.
+Secção II - Da declaração de ou sem interesse para e turismo.
 
 ###### Artigo 2.º
 
-#### Secção III - Da instalação dos estabelecimentos hoteleiros.
+Secção III - Da instalação dos estabelecimentos hoteleiros.
 
-##### Subsecção I - Da localização.
+Subsecção I - Da localização.
 
 ###### Artigo 6.º
 
-##### Subsecção II - Da anteprojecto e projecto.
+Subsecção II - Da anteprojecto e projecto.
 
 ###### Artigo 9.º
 
-#### Secção IV - Da instalação dos estabelecimentos similares dos hoteleiros.
+Secção IV - Da instalação dos estabelecimentos similares dos hoteleiros.
 
-##### Subsecção I - Da localização.
+Subsecção I - Da localização.
 
 ###### Artigo 13.º
 
-##### Subsecção II - Do projecto.
+Subsecção II - Do projecto.
 
 ###### Artigo 16.º
 
-#### Secção V - Dos conjuntos turísticos.
+Secção V - Dos conjuntos turísticos.
 
 ###### Artigo 19.º
 
-#### Secção VI - Disposições comuns.
+Secção VI - Disposições comuns.
 
 ###### Artigo 24.º
 
-### Capítulo II - Requisitos comuns a todos os estabelecimentos hoteleiros.
+Capítulo II - Requisitos comuns a todos os estabelecimentos hoteleiros.
 
-#### Secção I - Dos requisitos gerais.
+Secção I - Dos requisitos gerais.
 
 ###### Artigo 35.º
 
-#### Secção II - Das dependências comuns.
+Secção II - Das dependências comuns.
 
 ###### Artigo 45.º
 
-#### Secção III - Dos acessos verticais.
+Secção III - Dos acessos verticais.
 
 ###### Artigo 52.º
 
-#### Secção IV - Dos quartos.
+Secção IV - Dos quartos.
 
 ###### Artigo 55.º
 
-#### Secção V - Das zonas de serviço.
+Secção V - Das zonas de serviço.
 
 ###### Artigo 60.º
 
-#### Secção VI - Dos anexos.
+Secção VI - Dos anexos.
 
 ###### Artigo 64.º
 
-### Capítulo III - Dos hotéis.
+Capítulo III - Dos hotéis.
 
-#### Secção I - Dos requisitos mínimos.
+Secção I - Dos requisitos mínimos.
 
 ###### Artigo 67.º
 
-#### Secção II - Dos hotéis de cinco estrelas.
+Secção II - Dos hotéis de cinco estrelas.
 
 ###### Artigo 69.º
 
-#### Secção III - Dos hotéis de quatro estrelas.
+Secção III - Dos hotéis de quatro estrelas.
 
 ###### Artigo 72.º
 
-#### Secção IV - Dos hotéis de três estrelas.
+Secção IV - Dos hotéis de três estrelas.
 
 ###### Artigo 75.º
 
-#### Secção V - Dos hotéis de duas estrelas.
+Secção V - Dos hotéis de duas estrelas.
 
 ###### Artigo 79.º
 
-#### Secção VI - Dos hotéis de uma estrela.
+Secção VI - Dos hotéis de uma estrela.
 
 ###### Artigo 82.º
 
-### Capítulo IV - Das pensões.
+Capítulo IV - Das pensões.
 
-#### Secção I - Dos requisitos mínimos.
+Secção I - Dos requisitos mínimos.
 
 ###### Artigo 85.º
 
-#### Secção II - Das pensões de quatro estrelas.
+Secção II - Das pensões de quatro estrelas.
 
 ###### Artigo 86.º
 
-#### Secção III - Das pensões de três estrelas.
+Secção III - Das pensões de três estrelas.
 
 ###### Artigo 89.º
 
-#### Secção IV - Das pensões de duas estrelas.
+Secção IV - Das pensões de duas estrelas.
 
 ###### Artigo 90.º
 
-#### Secção V - Das pensões de uma estrela.
+Secção V - Das pensões de uma estrela.
 
 ###### Artigo 91.º
 
-### Capítulo V - Dos estabelecimentos residenciais.
+Capítulo V - Dos estabelecimentos residenciais.
 
 ###### Artigo 92.º
 
-### Capítulo VI - Das estalagens.
+Capítulo VI - Das estalagens.
 
 ###### Artigo 96.º
 
-### Capítulo VII - Dos motéis.
+Capítulo VII - Dos motéis.
 
-#### Secção I - Disposições comuns.
+Secção I - Disposições comuns.
 
 ###### Artigo 99.º
 
-#### Secção II - Dos motéis de três estrelas.
+Secção II - Dos motéis de três estrelas.
 
 ###### Artigo 106.º
 
-#### Secção III - Dos motéis de duas estrelas.
+Secção III - Dos motéis de duas estrelas.
 
 ###### Artigo 109.º
 
-### Capítulo VIII - Dos hotéis-apartamentos.
+Capítulo VIII - Dos hotéis-apartamentos.
 
-#### Secção I - Disposições comuns.
+Secção I - Disposições comuns.
 
 ###### Artigo 111.º
 
-#### Secção II - Dos hotéis-apartamentos de quatro estrelas.
+Secção II - Dos hotéis-apartamentos de quatro estrelas.
 
 ###### Artigo 122.º
 
-#### Secção III - Dos hotéis-apartamentos de três estrelas.
+Secção III - Dos hotéis-apartamentos de três estrelas.
 
 ###### Artigo 124.º
 
-#### Secção IV - Dos hotéis-apartamentos de duas estrelas.
+Secção IV - Dos hotéis-apartamentos de duas estrelas.
 
 ###### Artigo 125.º
 
-### Capítulo IX - Do serviço nos estabelecimentos hoteleiros.
+Capítulo IX - Do serviço nos estabelecimentos hoteleiros.
 
-#### Secção I - Disposições comuns.
+Secção I - Disposições comuns.
 
 ###### Artigo 126.º
 
-#### Secção II - Do serviço nos hotéis.
+Secção II - Do serviço nos hotéis.
 
-##### Subsecção I - Hotéis de cinco e quatro estrelas.
+Subsecção I - Hotéis de cinco e quatro estrelas.
 
 ###### Artigo 135.º
 
-##### Subsecção II - Hotéis de três estrelas.
+Subsecção II - Hotéis de três estrelas.
 
 ###### Artigo 141.º
 
-##### Subsecção III - Hotéis de duas e uma estrela.
+Subsecção III - Hotéis de duas e uma estrela.
 
 ###### Artigo 146.º
 
-#### Secção III - Do serviço nos restantes estabelecimentos hoteleiros.
+Secção III - Do serviço nos restantes estabelecimentos hoteleiros.
 
 ###### Artigo 150.º
 
-### Capítulo X - Dos estabelecimentos similares dos hoteleiros.
+Capítulo X - Dos estabelecimentos similares dos hoteleiros.
 
-#### Secção I - Disposições comuns a todos os estabelecimentos.
+Secção I - Disposições comuns a todos os estabelecimentos.
 
 ###### Artigo 152.º
 
-#### Secção II - Dos restaurantes.
+Secção II - Dos restaurantes.
 
 ###### Artigo 159.º
 
-##### Subsecção I - Dos restaurantes de luxo.
+Subsecção I - Dos restaurantes de luxo.
 
-###### Artigo 161.º — Subsecção II - Dos restaurantes de 1.ª
+###### Artigo 161.º
 
-###### Artigo 164.º — Subsecção III - Dos restaurantes de 2.ª
+##### Subsecção II - Dos restaurantes de 1.ª
 
-###### Artigo 167.º — Subsecção IV - Dos restaurantes de 3.ª
+###### Artigo 164.º
+
+##### Subsecção III - Dos restaurantes de 2.ª
+
+###### Artigo 167.º
+
+##### Subsecção IV - Dos restaurantes de 3.ª
 
 ###### Artigo 169.º
 
-##### Subsecção V - Dos restaurantes típicos.
+Subsecção V - Dos restaurantes típicos.
 
 ###### Artigo 170.º
 
-##### Subsecção VI - Das refeições nos restaurantes.
+Subsecção VI - Das refeições nos restaurantes.
 
 ###### Artigo 172.º
 
-#### Secção III - Dos estabelecimentos de bebidas.
+Secção III - Dos estabelecimentos de bebidas.
 
 ###### Artigo 178.º
 
-#### Secção IV - Das salas de dança.
+Secção IV - Das salas de dança.
 
 ###### Artigo 183.º
 
-### Capítulo XI - Das vistorias e abertura dos estabelecimentos.
+Capítulo XI - Das vistorias e abertura dos estabelecimentos.
 
 ###### Artigo 188.º
 
-### Capítulo XII - Dos preços nos estabelecimentos hoteleiros e similares.
+Capítulo XII - Dos preços nos estabelecimentos hoteleiros e similares.
 
 ###### Artigo 197.º
 
-### Capítulo XII - Da disciplina e funcionamento.
+Capítulo XII - Da disciplina e funcionamento.
 
-#### Secção I - Disposições comuns aos estabelecimentos hoteleiros e similares.
+Secção I - Disposições comuns aos estabelecimentos hoteleiros e similares.
 
 ###### Artigo 210.º
 
-#### Secção II - Da disciplina e funcionamento dos estabelecimentos hoteleiros.
+Secção II - Da disciplina e funcionamento dos estabelecimentos hoteleiros.
 
 ###### Artigo 223.º
 
-### Capítulo XIV - Do registo.
+Capítulo XIV - Do registo.
 
 ###### Artigo 229.º
 
-### Capítulo XV - Das infracções e sua sanção.
+Capítulo XV - Das infracções e sua sanção.
 
 ###### Artigo 234.º
 
-### Capítulo XVI - Disposições finais.
+Capítulo XVI - Disposições finais.
 
 ###### Artigo 269.º
 
-### Capítulo XVII - Disposições transitórias.
+Capítulo XVII - Disposições transitórias.
 
 ###### Artigo 275.º — Anexos
 
 ## Anexo I.
 
-## Anexo II.
+Anexo II.
 
 ## Anexo III.
 

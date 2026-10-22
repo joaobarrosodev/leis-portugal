@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1975-336742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 221c7b6d7f8392cd6653e82ae62c45d3fdfc2e580e58a606e9a43dc525979546
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9edd4a3df458b7bd9c3f197072159d8ce00b363af2988f9893b04c4d7e4d3494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Equipamento Desportivo
+- Estacionamento
+- Licenciamento
+- Ordenamento do Território
+- Parque de Campismo
+- Parque de Sucata
+- Proteção do Ambiente
+- Resíduo
+- Saúde Pública
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:537249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção ao artigo 6.º do presente diploma, pela LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: repealed_by
+  target: pt:dre:250666:por
+  label: "Revogado, no que respeita aos depósitos de ferro-velho, de entulhos, de combustíveis sólidos e de veículos, pelo\
+    \ DEC LEI.117/94.1994.05.03.MPLAT, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1994-250666
+  date: '1994-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:27Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +121,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Sem prejuízo de outros condicionamentos legalmente exigidos, fica dependente de licença municipal a localização ou a ampliação das seguintes instalações, equipamentos ou actividades fora das áreas a que se refere o artigo 3.º ou das zonas previstas para o efeito em planos de urbanização aprovados:
+Artigo 1.º - 1. Sem prejuízo de outros condicionamentos legalmente exigidos, fica dependente de licença municipal a localização ou a ampliação das seguintes instalações, equipamentos ou actividades fora das áreas a que se refere o artigo 3.º ou das zonas previstas para o efeito em planos de urbanização aprovados:
 
 a) Abrigos fixos ou móveis, utilizáveis ou não para habitação, se a ocupação do terreno se prolongar para além de três meses;
 
@@ -112,17 +135,17 @@ e) Parques para caravanas.
 
 2. O regime poderá ser aplicado a outras situações, mediante portaria conjunta dos Ministros da Administração Interna e do Equipamento Social e do Ambiente.
 
-###### Art. 2.º Enquanto não for revista a legislação vigente sobre o licenciamento das edificações urbanas, tal licenciamento levará sempre em conta a protecção do ambiente nos termos definidos nos n.os 1 e 2 do artigo 4.º do presente diploma.
+Art. 2.º Enquanto não for revista a legislação vigente sobre o licenciamento das edificações urbanas, tal licenciamento levará sempre em conta a protecção do ambiente nos termos definidos nos n.os 1 e 2 do artigo 4.º do presente diploma.
 
-###### Art. 3.º As câmaras municipais podem destinar determinados polígonos do território para a localização das instalações, equipamentos e actividades a que se refere o artigo 1.º
+Art. 3.º As câmaras municipais podem destinar determinados polígonos do território para a localização das instalações, equipamentos e actividades a que se refere o artigo 1.º
 
-###### Art. 4.º - 1. A licença será sempre recusada se a localização, pela natureza ou aspecto do empreendimento, comprometer a estabilidade ecológica, ocupar solos de alta potencialidade ou capacidade de uso agrícola, prejudicar a salubridade, segurança, tranquilidade e ambiente públicos, o carácter ou interesse público dos próprios lugares ou das proximidades, as paisagens e sítios panorâmicos ou, ainda, se implicar a realização de novos equipamentos não previstos pelo Estado ou pelo município.
+Art. 4.º - 1. A licença será sempre recusada se a localização, pela natureza ou aspecto do empreendimento, comprometer a estabilidade ecológica, ocupar solos de alta potencialidade ou capacidade de uso agrícola, prejudicar a salubridade, segurança, tranquilidade e ambiente públicos, o carácter ou interesse público dos próprios lugares ou das proximidades, as paisagens e sítios panorâmicos ou, ainda, se implicar a realização de novos equipamentos não previstos pelo Estado ou pelo município.
 
 2. A licença pode ser condicionada, nomeadamente através da imposição de medidas de integração na paisagem e de protecção aos sítios.
 
 3. A licença é concedida a título precário, por prazo não superior a três anos, renovável a requerimento dos interessados.
 
-###### Art. 5.º - 1. O presidente da câmara deverá determinar a apreensão do título da licença:
+Art. 5.º - 1. O presidente da câmara deverá determinar a apreensão do título da licença:
 
 a) Se não for dado cumprimento às condições fixadas;
 
@@ -134,7 +157,7 @@ b) Se, em momento posterior à concessão, se verificar qualquer dos efeitos pre
 
 4. Na falta de pagamento voluntário, proceder-se-á à cobrança coerciva, servindo de título executivo certidão, passada pelos serviços, donde conste o quantitativo global das despesas.
 
-###### Art. 6.º São punidos com multa de 10000$00 a 100000$00, a pagar na tesouraria da câmara municipal:
+Art. 6.º São punidos com multa de 10000$00 a 100000$00, a pagar na tesouraria da câmara municipal:
 
 a) A violação do n.º 1 do artigo 1.º;
 
@@ -142,12 +165,12 @@ b) O não acatamento das condições impostas nos termos do n.º 2 do artigo 4.�
 
 c) A falta de cumprimento da ordem a que se refere o n.º 2 do artigo 5.º
 
-###### Art. 7.º As instalações, equipamentos ou actividades actualmente localizados nos vários concelhos poderão manter-se, a título precário, pelo prazo de três anos, sendo aplicável o disposto no final do n.º 3 do artigo 4.º
+Art. 7.º As instalações, equipamentos ou actividades actualmente localizados nos vários concelhos poderão manter-se, a título precário, pelo prazo de três anos, sendo aplicável o disposto no final do n.º 3 do artigo 4.º
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - José Augusto Fernandes.
 
-**Promulgado em 24 de Junho de 1975.**
+Promulgado em 24 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

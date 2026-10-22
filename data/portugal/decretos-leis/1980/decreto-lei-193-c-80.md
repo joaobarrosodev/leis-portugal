@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 138/1980, 1º Suplemento, Série I de 1980-06-18
   number: '138'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1396-(5) a 1396-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13801/00050007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-c-1980-381684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65ee6b80ed71f3e8a602f166c1d50f9ce83940e5b964cd2abcf5b6d70c74ebba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b38ef3b5d2a5fe928279e1353173a0d8e1f026b47b1df325f99d8c4c162c5fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:226596:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393195:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226596:por
+  label: Revogado pelo(a) Decreto-Lei n.º 581/80 - Diário da República n.º 301/1980, 2º Suplemento, Série I de 1980-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/581-1980-226596
+  date: '1980-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:46Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +113,9 @@ Considerando, finalmente, que a conciliação dos diversos interesses depende do
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As alíneas e) e f) do n.º 1 do artigo 3.º, os n.os 3, 4 e 6 do artigo 4.º, a alínea a) do n.º 1 do artigo 5.º e o artigo 23.º, todos do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), de 7 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º As alíneas e) e f) do n.º 1 do artigo 3.º, os n.os 3, 4 e 6 do artigo 4.º, a alínea a) do n.º 1 do artigo 5.º e o artigo 23.º, todos do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), de 7 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) ...
 
@@ -121,7 +133,7 @@ g) ...
 
 ...
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
@@ -139,7 +151,7 @@ b) Terem concorrido a todo o continente e não terem obtido colocação;
 
 c) Terem sido colocados na 3.ª fase do concurso e a sua situação se integrar numa das alíneas do artigo 23.º do presente diploma.
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) Para efeitos de aplicação desta preferência, consideram-se funcionários ou agentes os indivíduos que se encontrem providos em lugares de quadro ou contratados além do quadro por tempo indeterminado em serviços e organismos da Administração Central e Local, das forças armadas, da Administração Pública ou dos corpos administrativos e ainda os aposentados que à data da sua aposentação se encontrassem em qualquer das situações referidas nesta alínea;
 
@@ -157,7 +169,7 @@ e) ...
 
 ...
 
-###### Art. 23.º - 1 - ...
+Art. 23.º - 1 - ...
 
 a) ...
 
@@ -169,7 +181,7 @@ d) indivíduos que, estando em exercício de funções docentes no dia 30 de Set
 
 2 - ...
 
-###### Art. 2.º - 1 - Quando um candidato à 1.ª ou 2.ª fase do concurso previsto no [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195) concorrer por distritos, os estabelecimentos de ensino respectivos são percorridos por ordem crescente dos números dos códigos desses estabelecimentos, procedendo-se do seguinte modo:
+Art. 2.º - 1 - Quando um candidato à 1.ª ou 2.ª fase do concurso previsto no [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195) concorrer por distritos, os estabelecimentos de ensino respectivos são percorridos por ordem crescente dos números dos códigos desses estabelecimentos, procedendo-se do seguinte modo:
 
 a) Logo que o candidato obtenha colocação, deixa de ser considerado como tal em relação a qualquer outra vaga do mesmo distrito;
 
@@ -181,20 +193,20 @@ a) Logo que o candidato obtenha colocação, deixa de ser considerado como tal e
 
 b) Mantêm, todavia, a possibilidade de obter colocação noutro estabelecimento de entre aqueles a que concorreu, nos termos do artigo 21.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), ou ainda noutro distrito ou noutra zona a que, em qualquer dos casos, tenha conferido preferência.
 
-###### Art. 3.º - 1 - Os professores provisórios portadores de habilitação própria colocados ao abrigo do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195) em grupo, subgrupo, disciplina ou especialidade para que possuam somente habilitação suficiente serão remunerados pela habilitação própria que possuem, desde que haja carência de professores portadores de habilitação própria para o respectivo grupo, subgrupo, disciplina ou especialidade.
+Art. 3.º - 1 - Os professores provisórios portadores de habilitação própria colocados ao abrigo do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195) em grupo, subgrupo, disciplina ou especialidade para que possuam somente habilitação suficiente serão remunerados pela habilitação própria que possuem, desde que haja carência de professores portadores de habilitação própria para o respectivo grupo, subgrupo, disciplina ou especialidade.
 
 2 - Os grupos, subgrupos, disciplinas ou especialidades a que se aplica o disposto no número anterior serão designados, para cada ano escolar, por despacho do Ministro da Educação e Ciência.
 
-###### Art. 4.º Para todos os efeitos legais, considera-se que a não apresentação de reclamação por parte dos candidatos às listas provisórias referidas no n.º 1 do artigo 29.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195) equivale à aceitação tácita das mesmas listas, dela resultando a intempestividade do recurso hierárquico previsto no n.º 3 do mesmo artigo.
+Art. 4.º Para todos os efeitos legais, considera-se que a não apresentação de reclamação por parte dos candidatos às listas provisórias referidas no n.º 1 do artigo 29.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195) equivale à aceitação tácita das mesmas listas, dela resultando a intempestividade do recurso hierárquico previsto no n.º 3 do mesmo artigo.
 
-###### Art. 5.º - 1 - O disposto no artigo 1.º, excepto no que se refere às alterações introduzidas ao artigo 23.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), e no artigo 3.º só será aplicável aos concursos respeitantes ao ano escolar de 1981-1982 e seguintes.
+Art. 5.º - 1 - O disposto no artigo 1.º, excepto no que se refere às alterações introduzidas ao artigo 23.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), e no artigo 3.º só será aplicável aos concursos respeitantes ao ano escolar de 1981-1982 e seguintes.
 
 2 - As alterações introduzidas no artigo 23.º do [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195) e o disposto nos artigos 2.º e 4.º deste diploma consideram-se já aplicáveis no ano escolar de 1979-1980.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 18 de Junho de 1980.**
+Promulgado em 18 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

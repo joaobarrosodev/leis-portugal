@@ -46,36 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49374-1969-215761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47308d1cde8cd040a225a382fbd150a36a54c61f0a727105f41760cea4bc6d8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 527ad523d7836812d3dcb4b5b5d833526d83a9b630762fd652e868a0c8532762
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Conselho Superior Judiciário do Ultramar
+- Conservador
+- Estatuto Judiciário
+- Formas de Provimento
+- Juiz
+- Ministério Público
+- Notário
+- PIDE
+- Procurador da República
+- Procuradoria da República
+- Promoção Profissional
+- Solicitador
+- Tribunal da Relação
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:156385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591093:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:19Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +151,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Ao concurso para juiz de direito do ultramar são convocados tantos delegados do procurador da República quantas as vagas existentes, mas nunca menos de quinze, se tantos houver em condições legais.
+Artigo 1.º - 1. Ao concurso para juiz de direito do ultramar são convocados tantos delegados do procurador da República quantas as vagas existentes, mas nunca menos de quinze, se tantos houver em condições legais.
 
 2. São obrigatòriamente chamados:
 
@@ -110,17 +173,17 @@ c) Delegados do procurador da República do quadro da metrópole com, pelo menos
 
 6. Os requisitos exigidos neste artigo reportam-se à data do encerramento do concurso, marcada pela última publicação do respectivo aviso nas províncias ultramarinas.
 
-###### Art. 2.º No concurso referido no artigo anterior, as provas são prestadas simultâneamente em todo o ultramar, segundo calendário fixado pela Direcção-Geral de Justiça com a necessária antecedência, respondendo todos os candidatos ao mesmo ponto em cada classe.
+Art. 2.º No concurso referido no artigo anterior, as provas são prestadas simultâneamente em todo o ultramar, segundo calendário fixado pela Direcção-Geral de Justiça com a necessária antecedência, respondendo todos os candidatos ao mesmo ponto em cada classe.
 
-###### Art. 3.º São tornados extensivos ao ultramar o n.º 3 do artigo 123.º e o artigo 227.º, ambos do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962.
+Art. 3.º São tornados extensivos ao ultramar o n.º 3 do artigo 123.º e o artigo 227.º, ambos do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962.
 
-###### Art. 4.º - 1. É revogado o n.º 24.º da [Portaria n.º 23090](https://diariodarepublica.pt/dr/detalhe/portaria/23090-1967-401537), de 26 de Dezembro de 1967.
+Art. 4.º - 1. É revogado o n.º 24.º da [Portaria n.º 23090](https://diariodarepublica.pt/dr/detalhe/portaria/23090-1967-401537), de 26 de Dezembro de 1967.
 
 2. A discussão e julgamento da causa, qualquer que seja o valor da acção, são no ultramar feitos com intervenção do juiz singular, sendo aplicáveis, com as necessárias adaptações, os preceitos do Código de Processo Civil relativos ao tribunal colectivo.
 
 3. Nas causas de valor superior à alçada do tribunal, se as partes não prescindirem de recurso, os depoimentos serão reduzidos a escrito.
 
-###### Art. 5.º - 1. Os juízes municipais de 1.ª classe, de direito ou da Relação, quando queiram gozar licença graciosa concedida ou tomar posse de outro cargo para que tenham sido nomeados, devem, além de ultimar, nos termos da lei de processo, os julgamentos que se tenham iniciado com a sua intervenção, proferir despacho ou sentença ou relatar o respectivo acórdão em todos os processos que para o efeito tenham conclusos além do prazo legal, sem o que lhes não é lícito deixar o exercício efectivo das funções que exercem.
+Art. 5.º - 1. Os juízes municipais de 1.ª classe, de direito ou da Relação, quando queiram gozar licença graciosa concedida ou tomar posse de outro cargo para que tenham sido nomeados, devem, além de ultimar, nos termos da lei de processo, os julgamentos que se tenham iniciado com a sua intervenção, proferir despacho ou sentença ou relatar o respectivo acórdão em todos os processos que para o efeito tenham conclusos além do prazo legal, sem o que lhes não é lícito deixar o exercício efectivo das funções que exercem.
 
 2. O cumprimento do dever imposto no número anterior pelos juízes municipais de 1.ª classe e juízes de direito prova-se mediante certidão passada pelo respectivo escrivão, que será apresentada ao presidente da Relação a quem incumbe velar pela sua observância quanto a todos os magistrados referidos no mesmo número.
 
@@ -130,19 +193,19 @@ c) Delegados do procurador da República do quadro da metrópole com, pelo menos
 
 5. Cessa a obrigação imposta no n.º 1 sempre que pelo Conselho Superior Judiciário do Ultramar, ou com audiência sua, seja determinada a partida imediata do juiz da localidade onde serve.
 
-###### Art. 6.º A posse do procurador da República no ultramar é deferida pelo governador-geral da província em que se situa a sede do respectivo distrito judicial.
+Art. 6.º A posse do procurador da República no ultramar é deferida pelo governador-geral da província em que se situa a sede do respectivo distrito judicial.
 
-###### Art. 7.º - 1. É tornado extensivo ao ultramar o artigo 105.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, para começar a ter execução no ano de 1970 na província de Timor e no ano de 1971 nas restantes províncias ultramarinas.
+Art. 7.º - 1. É tornado extensivo ao ultramar o artigo 105.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, para começar a ter execução no ano de 1970 na província de Timor e no ano de 1971 nas restantes províncias ultramarinas.
 
 2. Em 1970, nas províncias de S. Tomé e Príncipe, Angola e Moçambique, o ano judicial abrirá no segundo dia de Fevereiro, sendo de férias durante esse ano, além dos outros períodos referidos no artigo 3.º do [Decreto n.º 38502](https://diariodarepublica.pt/dr/detalhe/decreto/38502-1951-591093), de 10 de Novembro de 1951, o correspondente a todo o mês de Agosto.
 
-###### Art. 8.º - 1. É revogado o n.º 27.º da [Portaria n.º 23090](https://diariodarepublica.pt/dr/detalhe/portaria/23090-1967-401537), de 26 de Dezembro de 1967.
+Art. 8.º - 1. É revogado o n.º 27.º da [Portaria n.º 23090](https://diariodarepublica.pt/dr/detalhe/portaria/23090-1967-401537), de 26 de Dezembro de 1967.
 
 2. Os presidentes das Relações não entram na distribuição, mas intervêm como adjuntos, relatando os processos em que sejam eles a fazer vencimento.
 
 3. Aos juízes chamados por substituição ao exercício da presidência, por período que se presuma vir a ser superior a trinta dias, é aplicável o disposto no artigo 227.º do Código de Processo Civil, excepto relativamente à parte final do seu n.º 1, quanto aos processos que já lhes estejam conclusos para o visto final, destinado à elaboração do projecto de acórdão.
 
-###### Art. 9.º - 1. Nas comarcas onde haja mais de uma vara ou onde além do tribunal cível exista um tribunal criminal, os juízes das varas de ordem numérica seguinte substituem os das de ordem numérica sucessivamente inferior.
+Art. 9.º - 1. Nas comarcas onde haja mais de uma vara ou onde além do tribunal cível exista um tribunal criminal, os juízes das varas de ordem numérica seguinte substituem os das de ordem numérica sucessivamente inferior.
 
 2. O critério estabelecido no número anterior é aplicável aos juízes criminais, devendo no entanto o juiz do juízo criminal ou do 1.º juízo criminal substituir o da última vara cível e o da 1.ª vara cível substituir o do juízo criminal ou do último juízo criminal.
 
@@ -154,39 +217,39 @@ c) Delegados do procurador da República do quadro da metrópole com, pelo menos
 
 6. As designações e nomeações referidas neste artigo são sempre comunicadas imediatamente ao Conselho Superior Judiciário do Ultramar, devendo a recusa referida no n.º 3 ser sempre fundamentada.
 
-###### Art. 10.º Quando os juízes de 2.ª classe não tenham o tempo de serviço necessário para a promoção por mérito, serão promovidos pela ordem de antiguidade, excluindo os que tenham classificação inferior à de Bom.
+Art. 10.º Quando os juízes de 2.ª classe não tenham o tempo de serviço necessário para a promoção por mérito, serão promovidos pela ordem de antiguidade, excluindo os que tenham classificação inferior à de Bom.
 
-###### Art. 11.º Os oficiais privativos do registo civil são substituídos pelos respectivos ajudantes e só na falta destes pela entidade referida no artigo 50.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961.
+Art. 11.º Os oficiais privativos do registo civil são substituídos pelos respectivos ajudantes e só na falta destes pela entidade referida no artigo 50.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961.
 
-###### Art. 12.º - 1. Os presidentes das Relações do ultramar e os procuradores da República junto dos mesmos distritos ficam dispensados da elaboração dos relatórios anuais, cumprindo antes que vão pondo permanentemente o Conselho Superior Judiciário do Ultramar ao corrente do estado, questões e necessidades de maior interesse para os serviços respectivos e vão fazendo as propostas de providências dependentes do Governo Central.
+Art. 12.º - 1. Os presidentes das Relações do ultramar e os procuradores da República junto dos mesmos distritos ficam dispensados da elaboração dos relatórios anuais, cumprindo antes que vão pondo permanentemente o Conselho Superior Judiciário do Ultramar ao corrente do estado, questões e necessidades de maior interesse para os serviços respectivos e vão fazendo as propostas de providências dependentes do Governo Central.
 
 2. Além dos elementos exigidos por lei, ficam os presidentes das mesmas Relações obrigados a remeter, no 1.º trimestre de cada ano judicial, ao Conselho Superior Judiciário do Ultramar, um mapa discriminado, de modelo a aprovar, do movimento judiciário do tribunal da Relação e de cada comarca ou julgado municipal de 1.ª classe do distrito, no ano anterior.
 
-###### Art. 13.º - 1. Os conservadores e notários das províncias de governo simples devem submeter directamente a despacho dos governos provinciais todos os assuntos da competência destes necessários ao regular funcionamento dos serviços.
+Art. 13.º - 1. Os conservadores e notários das províncias de governo simples devem submeter directamente a despacho dos governos provinciais todos os assuntos da competência destes necessários ao regular funcionamento dos serviços.
 
 2. Sempre que lhes pareça útil, para despacho das propostas dos conservadores e notários referidos no número anterior, os governos das províncias consultarão a Direcção-Geral de Justiça do Ultramar.
 
 3. Os notários e conservadores referidos no n.º 1 deste artigo deverão sempre manter a Direcção-Geral de Justiça do Ultramar informada das propostas que pelo seu especial interesse lhes pareça útil fazer chegar ao seu conhecimento.
 
-###### Art. 14.º O provimento dos lugares de distribuidor-geral do ultramar passa a ser feito por escolha entre os escrivães de direito ou contadores que tenham a classificação de Muito bom nos últimos três anos e mais de sete anos de serviço no ultramar em tais categorias.
+Art. 14.º O provimento dos lugares de distribuidor-geral do ultramar passa a ser feito por escolha entre os escrivães de direito ou contadores que tenham a classificação de Muito bom nos últimos três anos e mais de sete anos de serviço no ultramar em tais categorias.
 
-###### Art. 15.º Nas nomeações que venham a realizar-se ulteriormente à publicação deste decreto para os lugares de escrivão de direito do ultramar, o preenchimento das vagas passará a ser feito entre os concorrentes da metrópole e do ultramar na proporção de um para três.
+Art. 15.º Nas nomeações que venham a realizar-se ulteriormente à publicação deste decreto para os lugares de escrivão de direito do ultramar, o preenchimento das vagas passará a ser feito entre os concorrentes da metrópole e do ultramar na proporção de um para três.
 
-###### Art. 16.º - 1. Para efeitos de promoção a escrivão de direito, o tempo de serviço mandado contar aos ajudantes no artigo 8.º, n.º 3, do [Decreto n.º 47859](https://diariodarepublica.pt/dr/detalhe/decreto/47859-1967-315079), de 24 de Agosto de 1967, só poderá ser considerado depois de completados dois anos de serviço efectivo no ultramar na categoria de ajudante de escrivão.
+Art. 16.º - 1. Para efeitos de promoção a escrivão de direito, o tempo de serviço mandado contar aos ajudantes no artigo 8.º, n.º 3, do [Decreto n.º 47859](https://diariodarepublica.pt/dr/detalhe/decreto/47859-1967-315079), de 24 de Agosto de 1967, só poderá ser considerado depois de completados dois anos de serviço efectivo no ultramar na categoria de ajudante de escrivão.
 
 2. Só podem ser admitidos a concurso para escrivães de direito os candidatos que tenham, como habilitações literárias, pelo menos, o 1.º ciclo dos liceus ou equivalente.
 
-###### Art. 17.º Fixam-se no 1.º ciclo dos liceus ou equivalente as habilitações exigidas no artigo 67.º, n.º 1, do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, para os concursos para terceiros-ajudantes.
+Art. 17.º Fixam-se no 1.º ciclo dos liceus ou equivalente as habilitações exigidas no artigo 67.º, n.º 1, do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, para os concursos para terceiros-ajudantes.
 
-###### Art. 18.º - 1. É revogado o artigo 28.º do [Decreto n.º 35777](https://diariodarepublica.pt/dr/detalhe/decreto/35777-1946-156385), de 1 de Agosto de 1946, e, assim, de futuro, havendo vaga, pode sempre ser autorizada pelo presidente da Relação a transferência de um solicitador para outra comarca do mesmo distrito judicial.
+Art. 18.º - 1. É revogado o artigo 28.º do [Decreto n.º 35777](https://diariodarepublica.pt/dr/detalhe/decreto/35777-1946-156385), de 1 de Agosto de 1946, e, assim, de futuro, havendo vaga, pode sempre ser autorizada pelo presidente da Relação a transferência de um solicitador para outra comarca do mesmo distrito judicial.
 
 2. Havendo mais do que um interessado na transferência para a mesma vaga de uma dada comarca, deverá dar-se preferência ao que exerça há mais tempo as funções de solicitador e, em caso de igualdade entre os diversos interessados ou de diferença de antiguidade não superior a 3/5, ao que exerça funções na comarca limítrofe mais relacionada com aquela para onde se pretende a transferência.
 
 3. A transferência de solicitadores em exercício numa dada comarca para outra de diferente distrito judicial depende de autorização do presidente da Relação com jurisdição no distrito para onde se faz a transferência, o qual exigirá sempre, antes de autorizá-la, os elementos do curriculum vitae constantes dos serviços que sobre o solicitador a transferir exerçam acção disciplinar.
 
-###### Art. 19.º A dedução determinada no n.º 3 do artigo 72.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, não inclui a participação emolumentar atribuída no n.º 2 do artigo 7.º do [Decreto n.º 49104](https://diariodarepublica.pt/dr/detalhe/decreto/49104-1969-199832), de 5 de Julho de 1969, e que é fixada, tanto na 1.ª como na 2.ª classe, em 12 por cento da receita emolumentar ilíquida do respectivo cartório.
+Art. 19.º A dedução determinada no n.º 3 do artigo 72.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, não inclui a participação emolumentar atribuída no n.º 2 do artigo 7.º do [Decreto n.º 49104](https://diariodarepublica.pt/dr/detalhe/decreto/49104-1969-199832), de 5 de Julho de 1969, e que é fixada, tanto na 1.ª como na 2.ª classe, em 12 por cento da receita emolumentar ilíquida do respectivo cartório.
 
-###### Art. 20.º Passam a ser atribuídas, na província de S. Tomé e Príncipe, as seguintes gratificações mensais, a abonar pelo exercício efectivo das respectivas funções:
+Art. 20.º Passam a ser atribuídas, na província de S. Tomé e Príncipe, as seguintes gratificações mensais, a abonar pelo exercício efectivo das respectivas funções:
 
 a) Juiz municipal do trabalho de S. Tomé - 2500$00;
 
@@ -194,19 +257,19 @@ b) Subdelegado do procurador da República do mesmo julgado - 2000$00;
 
 c) Cada um dos peritos médicos em exercício no mesmo julgado - 500$00.
 
-###### Art. 21.º Nos quadros da Procuradoria da República junto do Tribunal da Relação de Lourenço Marques são criados dois lugares de chefe de secção, um para funcionar na secretaria dos Serviços Prisionais, cujo quadro privativo será organizado na província, e outro na secretaria da Procuradoria da República, afecto à contabilidade, serviço que a província dotará com as unidades do quadro privativo que considerar necessárias.
+Art. 21.º Nos quadros da Procuradoria da República junto do Tribunal da Relação de Lourenço Marques são criados dois lugares de chefe de secção, um para funcionar na secretaria dos Serviços Prisionais, cujo quadro privativo será organizado na província, e outro na secretaria da Procuradoria da República, afecto à contabilidade, serviço que a província dotará com as unidades do quadro privativo que considerar necessárias.
 
-###### Art. 22.º É revogado o artigo 15.º do [Decreto n.º 45788](https://diariodarepublica.pt/dr/detalhe/decreto/45788-1964-578122), de 1 de Julho de 1964, na redacção que lhe foi dada pelo artigo 9.º do [Decreto n.º 46076](https://diariodarepublica.pt/dr/detalhe/decreto/46076-1964-535048), de 16 de Dezembro de 1964.
+Art. 22.º É revogado o artigo 15.º do [Decreto n.º 45788](https://diariodarepublica.pt/dr/detalhe/decreto/45788-1964-578122), de 1 de Julho de 1964, na redacção que lhe foi dada pelo artigo 9.º do [Decreto n.º 46076](https://diariodarepublica.pt/dr/detalhe/decreto/46076-1964-535048), de 16 de Dezembro de 1964.
 
-###### Art. 23.º - 1. As despesas dos cofres gerais de justiça com a aquisição de impressos, livros e mais expediente relativo à identificação, aos registos ou ao notariado deverão ser compensadas por taxas de reembolso a pagar pelas partes.
+Art. 23.º - 1. As despesas dos cofres gerais de justiça com a aquisição de impressos, livros e mais expediente relativo à identificação, aos registos ou ao notariado deverão ser compensadas por taxas de reembolso a pagar pelas partes.
 
 2. Sem prejuízo do disposto no n.º 2 do artigo 7.º do [Decreto n.º 48152](https://diariodarepublica.pt/dr/detalhe/decreto/48152-1967-401549), de 23 de Dezembro de 1967, as despesas com a aquisição de material de consumo corrente que não devam ser compensadas com taxas de reembolso continuam a constituir encargo dos orçamentos gerais das províncias ultramarinas.
 
 3. É elevada para 40 por cento a receita atribuída aos cofres gerais de justiça do ultramar no n.º 6 do artigo 6.º do [Decreto n.º 48152](https://diariodarepublica.pt/dr/detalhe/decreto/48152-1967-401549), de 23 de Dezembro de 1967.
 
-###### Art. 24.º Dentro de cento e oitenta dias, o Conselho Superior Judiciário do Ultramar, ouvidos os conselhos administrativos dos cofres gerais de justiça, elaborará um regulamento destinado a substituir as regulamentações locais disciplinando a aquisição, uso e renovação do direito a mobiliário reconhecido pelo [Decreto n.º 38502](https://diariodarepublica.pt/dr/detalhe/decreto/38502-1951-591093), de 10 de Novembro de 1951.
+Art. 24.º Dentro de cento e oitenta dias, o Conselho Superior Judiciário do Ultramar, ouvidos os conselhos administrativos dos cofres gerais de justiça, elaborará um regulamento destinado a substituir as regulamentações locais disciplinando a aquisição, uso e renovação do direito a mobiliário reconhecido pelo [Decreto n.º 38502](https://diariodarepublica.pt/dr/detalhe/decreto/38502-1951-591093), de 10 de Novembro de 1951.
 
-###### Art. 25.º - 1. Durante o período de um ano, a contar da publicação deste diploma na respectiva província, ficam isentas de emolumentos a emissão ou renovação de bilhetes de identidade relativos aos vizinhos das regedorias da província de Moçambique.
+Art. 25.º - 1. Durante o período de um ano, a contar da publicação deste diploma na respectiva província, ficam isentas de emolumentos a emissão ou renovação de bilhetes de identidade relativos aos vizinhos das regedorias da província de Moçambique.
 
 2. São isentos de pagamento dos emolumentos e taxas, excepto as de reembolso, os actos de registo civil a praticar no período referido no número anterior quanto aos nacionais vizinhos das regedorias da mesma província menores de 14 anos que não tiverem o seu nascimento inscrito nem se encontrem domiciliados em aglomerados populacionais que não constituam as regedorias tradicionais.
 
@@ -214,9 +277,9 @@ c) Cada um dos peritos médicos em exercício no mesmo julgado - 500$00.
 
 4. Os impressos para obtenção dos bilhetes de identidade e os necessários à prática de actos de registo civil indispensáveis à emissão daqueles bilhetes devem, a pedido dos interessados, ser gratuitamente preenchidos pelos serviços.
 
-###### Art. 26.º São tornados extensivos ao ultramar os artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 40550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40550-1956-306223), de 12 de Março de 1956, o último com a seguinte redacção:
+Art. 26.º São tornados extensivos ao ultramar os artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 40550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40550-1956-306223), de 12 de Março de 1956, o último com a seguinte redacção:
 
-###### Art. 9.º Se houver só lugar à aplicação de medida de segurança prevista no artigo 7.º, o processo será instruído como processo de segurança e julgado pelos tribunais de execução das penas, que serão igualmente competentes para julgar os processos complementares correspondentes.
+Art. 9.º Se houver só lugar à aplicação de medida de segurança prevista no artigo 7.º, o processo será instruído como processo de segurança e julgado pelos tribunais de execução das penas, que serão igualmente competentes para julgar os processos complementares correspondentes.
 
 § 1.º Das decisões finais proferidas nos processos de segurança e complementares pelos tribunais referidos no corpo deste artigo cabe recurso para a Relação que julgará de facto e de direito, com recurso para a secção criminal do Supremo Tribunal de Justiça quanto às questões de direito.
 
@@ -226,9 +289,9 @@ c) Cada um dos peritos médicos em exercício no mesmo julgado - 500$00.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Outubro de 1969.**
+Promulgado em 29 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

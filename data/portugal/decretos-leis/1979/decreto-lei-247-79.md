@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dd22715133c527512455e6e5a3be8341671e05eb1ce3bb9463ce8a80a6c2f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8963be1c3e4ce1c5bc059b7b68630a3f0263989dfdfa89ac1a831f48a6dc58fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Estatuto Laboral das Administrações e Juntas Portuárias
+- Junta Autónoma dos Portos
+- Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:620319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311451:por
+  label: "Tornado extensivo o disposto nos arts. 18º e 19º à Administração do Porto de Sines, pelo DEC LEI.108/83.1983.02.19.MFP\
+    \ DR.IS [41]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1983-311451
+  date: '1983-02-19'
+- type: amended_by
+  target: pt:dre:622289:por
+  label: "Alterada a al. b) do nº 3 e o nº 4 do art. 47º pelo DEC LEI.5/85.07.01.1985.PCM, DR.IS [5] de 07.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1985-622289
+  date: '1985-01-07'
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513425:por
+  label: null
+  source: null
 article_structure:
   article_count: 87
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:36Z'
   warnings: []
   errors: []
 ---
@@ -294,7 +317,7 @@ d) De 2.ª classe - mediante prova documental, constituindo motivo de preferênc
 
 ###### Artigo 22.º — (Chefe dos serviços de segurança)
 
-**O chefe dos serviços de segurança será recrutado mediante prova prática de entre indivíduos que reúnam, cumulativamente, os seguintes requisitos:**
+O chefe dos serviços de segurança será recrutado mediante prova prática de entre indivíduos que reúnam, cumulativamente, os seguintes requisitos:
 
 a) Licenciatura;
 
@@ -330,7 +353,7 @@ d) Estagiários - mediante provas práticas de entre indivíduos habilitados com
 
 ###### Artigo 25.º — (Chefe de serviços de abastecimento)
 
-**O chefe de serviços de abastecimento é recrutado mediante prova documental de entre indivíduos habilitados com curso superior e possuidores de experiência nas funções a que se destinam.**
+O chefe de serviços de abastecimento é recrutado mediante prova documental de entre indivíduos habilitados com curso superior e possuidores de experiência nas funções a que se destinam.
 
 #### SECÇÃO III — Pessoal de informática
 
@@ -964,21 +987,21 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Maio de 1579. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 5 de Julho de 1979.**
+Promulgado em 5 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 2.º do Decreto-Lei n.º 247/79
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf)
 
 Mapa II
 
 Remunerações previstas para estágios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf)
 
 Mapa III
 

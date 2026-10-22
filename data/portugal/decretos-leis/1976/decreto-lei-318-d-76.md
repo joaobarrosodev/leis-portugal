@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 102/1976, 3º Suplemento, Série I de 1976-04-30
   number: '102'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 956-(29) a 956-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10203/00290035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aab8fdb3b2fe10cc9b0d4f80de42eec4b99767ae680da4c7a77731b7d8c85a0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d65156fa0022520146dd63134431b1c821489eed5f1256a9058685d98af14072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional
+- Assembleia Regional
+- Autonomia Regional
+- Estatuto
+- Finanças Regionais
+- Governo Regional
+- Madeira.região Autónoma
+- Ministro da República
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310625:por
+  label: "Dada nova redacção aos arts. 22º, 24º, 33º, 50º, 55º, 60º, 64º e 65º do Estatuto Provisório da RAM pelo DEC LEI.427-F/76.01.06.1976.PCM,\
+    \ DR.IS [128-3ºSupl] de 01.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-f-1976-310625
+  date: '1976-06-01'
+- type: amended_by
+  target: pt:dre:574876:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, e parcialmente, do art. 9º, pelo AC.136/90.1990.04.23.TCS,\
+    \ DR.IS [126] de 01/Jun/1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/136-1990-574876
+  date: '1990-04-23'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:29Z'
   warnings: []
   errors: []
 ---
@@ -118,19 +143,19 @@ ESTATUTO PROVISÓRIO DA REGIÃO AUTÓNOMA DA MADEIRA
 
 ## TÍTULO I — Princípios gerais
 
-###### Artigo 1.º - 1. O arquipélago da Madeira, composto pelas ilhas da Madeira, Porto Santo, Desertas e Selvagens, constitui uma região autónoma da República Portuguesa e é pessoa colectiva de direito público.
+Artigo 1.º - 1. O arquipélago da Madeira, composto pelas ilhas da Madeira, Porto Santo, Desertas e Selvagens, constitui uma região autónoma da República Portuguesa e é pessoa colectiva de direito público.
 
 2. A Região Autónoma da Madeira compreende freguesias e municípios, nos termos da Constituição e da lei.
 
-###### Art. 2.º - 1. A autonomia político-administrativa da Região Autónoma da Madeira não afecta a integridade da soberania do Estado e exerce-se no quadro da Constituição e do presente Estatuto.
+Art. 2.º - 1. A autonomia político-administrativa da Região Autónoma da Madeira não afecta a integridade da soberania do Estado e exerce-se no quadro da Constituição e do presente Estatuto.
 
 2. A autonomia da Região da Madeira visa a participação democrática dos cidadãos, o desenvolvimento económico-social e a promoção e defesa dos interesses regionais, bem como o reforço da unidade nacional e dos laços de solidariedade entre todos os portugueses.
 
-###### Art. 3.º são órgãos de governo próprio da Região a Assembleia Regional e o Governo Regional.
+Art. 3.º são órgãos de governo próprio da Região a Assembleia Regional e o Governo Regional.
 
-###### Art. 4.º A soberania da República é especialmente representada na Região por um Ministro da República.
+Art. 4.º A soberania da República é especialmente representada na Região por um Ministro da República.
 
-###### Art. 5.º Os órgãos da Região e respectivos departamentos terão a sua sede na cidade do Funchal.
+Art. 5.º Os órgãos da Região e respectivos departamentos terão a sua sede na cidade do Funchal.
 
 ## TÍTULO II — Órgãos regionais
 
@@ -138,41 +163,41 @@ ESTATUTO PROVISÓRIO DA REGIÃO AUTÓNOMA DA MADEIRA
 
 #### SECÇÃO I — Composição
 
-###### Art. 6.º A Assembleia Regional é composta por Deputados regionais, eleitos mediante sufrágio universal, directo e secreto, de harmonia com o princípio da representação proporcional e por círculos eleitorais.
+Art. 6.º A Assembleia Regional é composta por Deputados regionais, eleitos mediante sufrágio universal, directo e secreto, de harmonia com o princípio da representação proporcional e por círculos eleitorais.
 
-###### Art. 7.º - 1. Haverá onze círculos eleitorais, correspondentes a cada um dos concelhos compreendidos pela Região e designados pelo respectivo nome.
+Art. 7.º - 1. Haverá onze círculos eleitorais, correspondentes a cada um dos concelhos compreendidos pela Região e designados pelo respectivo nome.
 
 2. Cada um dos círculos referidos no número anterior elegerá um Deputado por cada 3500 eleitores recenseados ou fracção superior a 1750.
 
-###### Art. 8.º Serão eleitores os cidadãos portugueses inscritos no recenseamento eleitoral na área do respectivo círculo.
+Art. 8.º Serão eleitores os cidadãos portugueses inscritos no recenseamento eleitoral na área do respectivo círculo.
 
-###### Art. 9.º Serão elegíveis os cidadãos portugueses eleitores, salvas as restrições que a lei estabelecer, desde que tenham residência habitual no território da Região há mais de um ano.
+Art. 9.º Serão elegíveis os cidadãos portugueses eleitores, salvas as restrições que a lei estabelecer, desde que tenham residência habitual no território da Região há mais de um ano.
 
-###### Art. 10.º As incapacidades eleitorais, activas e passivas, serão as que constarem da lei geral.
+Art. 10.º As incapacidades eleitorais, activas e passivas, serão as que constarem da lei geral.
 
-###### Art. 11.º - 1. Os Deputados regionais serão eleitos para um mandato de quatro anos.
+Art. 11.º - 1. Os Deputados regionais serão eleitos para um mandato de quatro anos.
 
 2. Em caso de dissolução da Assembleia Regional, as eleições terão lugar no prazo máximo de noventa dias e para um novo mandato de quatro anos.
 
-###### Art. 12.º - 1. Os Deputados regionais serão eleitos por listas apresentadas pelos partidos políticos, isoladamente ou em coligação, concorrentes em cada círculo eleitoral, e contendo um número de candidatos efectivos igual ao dos mandatos atribuídos ao respectivo círculo, além de suplentes em número não superior a três.
+Art. 12.º - 1. Os Deputados regionais serão eleitos por listas apresentadas pelos partidos políticos, isoladamente ou em coligação, concorrentes em cada círculo eleitoral, e contendo um número de candidatos efectivos igual ao dos mandatos atribuídos ao respectivo círculo, além de suplentes em número não superior a três.
 
 2. As listas poderão integrar cidadãos não inscritos nos respectivos partidos.
 
 3. No apuramento dos resultados aplicar-se-á, dentro de cada círculo, o sistema da representação proporcional e o método da média mais alta de Hondt. Os mandatos que couberem a cada lista serão conferidos aos respectivos candidatos pela ordem de precedência indicada na declaração de candidatura.
 
-###### Art. 13.º - 1. O preenchimento das vagas que ocorrerem na Assembleia Regional, bem como a substituição temporária de Deputados legalmente impedidos do exercício de funções, serão assegurados, segundo a ordem de precedência acima referida, pelos candidatos não eleitos da respectiva lista.
+Art. 13.º - 1. O preenchimento das vagas que ocorrerem na Assembleia Regional, bem como a substituição temporária de Deputados legalmente impedidos do exercício de funções, serão assegurados, segundo a ordem de precedência acima referida, pelos candidatos não eleitos da respectiva lista.
 
 2. Se na lista já não houver mais candidatos, não terá lugar o preenchimento da vaga ou a substituição.
 
-###### Art. 14.º - 1. A Assembleia Regional reúne, por direito próprio, no décimo dia após o apuramento dos resultados eleitorais.
+Art. 14.º - 1. A Assembleia Regional reúne, por direito próprio, no décimo dia após o apuramento dos resultados eleitorais.
 
 2. A Assembleia verificará os poderes dos seus membros e elegerá a sua mesa.
 
 #### SECÇÃO II — Deputados regionais
 
-###### Art. 15.º Os Deputados regionais são representantes de toda a Região, e não dos círculos por que foram eleitos.
+Art. 15.º Os Deputados regionais são representantes de toda a Região, e não dos círculos por que foram eleitos.
 
-###### Art. 16.º - 1. Os Deputados têm o poder de:
+Art. 16.º - 1. Os Deputados têm o poder de:
 
 a) Apresentar projectos de decreto regional e propostas de alteração;
 
@@ -186,7 +211,7 @@ d) Formular perguntas ao Governo Regional sobre quaisquer, actos deste ou da Adm
 
 3. Os Deputados que tiverem subscrito uma proposta de moção de censura ao Governo Regional que não haja sido aprovada não poderão subscrever outra durante a mesma sessão legislativa.
 
-###### Art. 17.º - 1. Os Deputados regionais não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções.
+Art. 17.º - 1. Os Deputados regionais não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções.
 
 2. Nenhum Deputado pode ser detido ou preso sem autorização da Assembleia, salvo por crime punível com pena maior e em flagrante delito.
 
@@ -194,7 +219,7 @@ d) Formular perguntas ao Governo Regional sobre quaisquer, actos deste ou da Adm
 
 4. Em caso de suspensão, o Deputado será substituído nos termos do artigo 13.º
 
-###### Art. 18.º - 1. Os Deputados não podem ser jurados, peritos ou testemunhas, durante o período de funcionamento efectivo da Assembleia, sem autorização desta.
+Art. 18.º - 1. Os Deputados não podem ser jurados, peritos ou testemunhas, durante o período de funcionamento efectivo da Assembleia, sem autorização desta.
 
 2. A falta de Deputados regionais a actos ou diligências oficiais estranhos à Assembleia Regional, por causa do funcionamento desta, considera-se sempre justificada.
 
@@ -202,7 +227,7 @@ d) Formular perguntas ao Governo Regional sobre quaisquer, actos deste ou da Adm
 
 4. Os Deputados não podem ser prejudicados na sua colocação, benefícios sociais ou emprego permanente, por virtude do desempenho do mandato.
 
-###### Art. 19.º - 1. Perdem o mandato os Deputados que:
+Art. 19.º - 1. Perdem o mandato os Deputados que:
 
 a) Incorrerem em qualquer das incapacidades ou incompatibilidades previstas na lei eleitoral;
 
@@ -214,13 +239,13 @@ d) Forem judicialmente condenados por participação em organizações de ideolo
 
 2. A perda do mandato será declarada pelo Presidente da Assembleia, ouvida a Mesa, sem prejuízo do direito de recurso para o plenário.
 
-###### Art. 20.º Os Deputados poderão renunciar ao mandato, mediante declaração escrita.
+Art. 20.º Os Deputados poderão renunciar ao mandato, mediante declaração escrita.
 
-###### Art. 21.º Os Deputados que desempenharem os cargos de membros do Governo da República ou do Governo Regional não poderão exercer o seu mandato até à cessação dessas funções, sendo temporariamente substituídos nos termos do artigo 13.º
+Art. 21.º Os Deputados que desempenharem os cargos de membros do Governo da República ou do Governo Regional não poderão exercer o seu mandato até à cessação dessas funções, sendo temporariamente substituídos nos termos do artigo 13.º
 
 #### SECÇÃO III — Competência
 
-###### Art. 22.º Compete à Assembleia Regional:
+Art. 22.º Compete à Assembleia Regional:
 
 a) Elaborar o projecto de estatuto político-administrativo da Região, bem como emitir parecer sobre a respectiva rejeição ou introdução de alterações pela Assembleia da República, nos termos do artigo 228.º da Constituição, bem como os projectos das respectivas alterações;
 
@@ -250,7 +275,7 @@ n) Pronunciar-se, sob consulta dos órgãos de soberania, relativamente às ques
 
 o) Elaborar o seu regimento.
 
-###### Art. 23.º - 1. Revestirão a forma de decreto regional os actos previstos nas alíneas b) e c) do artigo anterior.
+Art. 23.º - 1. Revestirão a forma de decreto regional os actos previstos nas alíneas b) e c) do artigo anterior.
 
 2. Revestirão a forma de moção os actos previstos na alínea m) do artigo anterior.
 
@@ -258,7 +283,7 @@ o) Elaborar o seu regimento.
 
 4. Os decretos regionais, as moções e resoluções da Assembleia Regional serão publicados no Diário da República.
 
-###### Art. 24.º - 1. Os decretos regionais da Assembleia Regional serão enviados ao Ministro da República para serem assinados e publicados.
+Art. 24.º - 1. Os decretos regionais da Assembleia Regional serão enviados ao Ministro da República para serem assinados e publicados.
 
 2. No prazo de quinze dias, contados da recepção dos diplomas previstos no número anterior, o Ministro da República pode, em mensagem fundamentada, exercer o direito de veto, solicitando nova apreciação do diploma.
 
@@ -268,37 +293,37 @@ o) Elaborar o seu regimento.
 
 #### SECÇÃO IV — Funcionamento
 
-###### Art. 25.º - 1. A Assembleia Regional reunirá cada ano em sessão ordinária, a qual compreende três períodos, que terão início nos dias 1 de Março, 1 de Junho e 2 de Novembro e terminarão quando a Assembleia o deliberar.
+Art. 25.º - 1. A Assembleia Regional reunirá cada ano em sessão ordinária, a qual compreende três períodos, que terão início nos dias 1 de Março, 1 de Junho e 2 de Novembro e terminarão quando a Assembleia o deliberar.
 
 2. A Assembleia será convocada extraordinariamente a pedido do Governo Regional ou a requerimento de, pelo menos, um quarto dos Deputados, para deliberar sobre os assuntos indicados na respectiva convocatória.
 
-###### Art. 26.º - 1. A Assembleia funcionará em reuniões plenárias e em comissões.
+Art. 26.º - 1. A Assembleia funcionará em reuniões plenárias e em comissões.
 
 2. As reuniões plenárias serão públicas, e das mesmas se lavrará acta, sendo ainda publicado um diário das sessões.
 
 3. A Assembleia considera-se constituída em reunião plenária achando-se presente a maioria do número legal dos seus membros.
 
-###### Art. 27.º - 1. A iniciativa legislativa compete aos Deputados e ao Governo Regional.
+Art. 27.º - 1. A iniciativa legislativa compete aos Deputados e ao Governo Regional.
 
 2. A Assembleia pode, por sua iniciativa ou a solicitação do Governo Regional, declarar a urgência de qualquer projecto ou proposta de decreto regional, que seguirá tramitação especial, a definir pelo regimento.
 
-###### Art. 28.º Os membros do Governo Regional terão assento nas reuniões da Assembleia e o direito de usar da palavra para efeitos de apresentarem qualquer comunicação ou prestarem esclarecimentos.
+Art. 28.º Os membros do Governo Regional terão assento nas reuniões da Assembleia e o direito de usar da palavra para efeitos de apresentarem qualquer comunicação ou prestarem esclarecimentos.
 
 ### CAPÍTULO II — Governo Regional
 
 #### SECÇÃO I — Constituição e responsabilidade
 
-###### Art. 29.º - 1. O Governo Regional é formado pelo Presidente, pelos Secretários regionais e pelos Subsecretários regionais, se os houver.
+Art. 29.º - 1. O Governo Regional é formado pelo Presidente, pelos Secretários regionais e pelos Subsecretários regionais, se os houver.
 
 2. O número e a denominação dos Secretários e Subsecretários regionais, a sua competência e a composição orgânica dos respectivos departamentos serão determinados por decreto regional.
 
-###### Art. 30.º - 1. O Presidente do Governo Regional será nomeado pelo Ministro da República, tendo em conta os resultados das eleições para a Assembleia Regional.
+Art. 30.º - 1. O Presidente do Governo Regional será nomeado pelo Ministro da República, tendo em conta os resultados das eleições para a Assembleia Regional.
 
 2. Os Secretários e Subsecretários serão nomeados e exonerados pelo Ministro da República, sob proposta do Presidente do Governo Regional.
 
 3. As funções dos Secretários regionais cessarão com as do Presidente do Governo Regional, e as dos Subsecretários, com as dos respectivos Secretários.
 
-###### Art. 31.º - 1. O Governo Regional é politicamente responsável perante a Assembleia Regional.
+Art. 31.º - 1. O Governo Regional é politicamente responsável perante a Assembleia Regional.
 
 2. O Governo Regional pode solicitar um voto de confiança da Assembleia Regional sobre uma declaração de política geral ou sobre qualquer assunto de especial relevância para a Região.
 
@@ -312,11 +337,11 @@ a) A recusa de voto de confiança nos termos do n.º 2;
 
 b) A aprovação, no decurso de uma mesma sessão legislativa, de duas moções de censura com, pelo menos, trinta dias de intervalo.
 
-###### Art. 32.º As funções de Presidente do Governo Regional serão asseguradas, durante a vacatura do cargo, pelo Presidente da Assembleia Regional.
+Art. 32.º As funções de Presidente do Governo Regional serão asseguradas, durante a vacatura do cargo, pelo Presidente da Assembleia Regional.
 
 #### SECÇÃO II — Competência e funcionamento
 
-###### Art. 33.º Compete ao Governo Regional:
+Art. 33.º Compete ao Governo Regional:
 
 a) Conduzir a política da Região, defendendo a legalidade democrática;
 
@@ -338,27 +363,27 @@ i) Apresentar à Assembleia Regional propostas de decretos regionais;
 
 j) Participar nas negociações de tratados e acordos internacionais que directamente digam respeito à Região.
 
-###### Art. 34.º - 1. A orientação geral do Governo Regional será definida em plenário.
+Art. 34.º - 1. A orientação geral do Governo Regional será definida em plenário.
 
 2. Constituem o plenário do Governo Regional o Presidente e os Secretários regionais.
 
-###### Art. 35.º - 1. o Governo Regional reunirá sempre que seja convocado pelo seu Presidente e, em princípio, pelo menos uma vez por semana.
+Art. 35.º - 1. o Governo Regional reunirá sempre que seja convocado pelo seu Presidente e, em princípio, pelo menos uma vez por semana.
 
 2. Poderão ser convocados para as reuniões do Governo os Subsecretários regionais, quando a natureza dos assuntos em apreciação o justificar.
 
 3. De cada reunião será lavrada acta, em que se relatem sucintamente os assuntos tratados e as deliberações aprovadas, e destas será dado conhecimento público.
 
-###### Art. 36.º - 1. O Presidente do Governo Regional representa o mesmo, coordena o exercício das funções deste e convoca e dirige as respectivas reuniões.
+Art. 36.º - 1. O Presidente do Governo Regional representa o mesmo, coordena o exercício das funções deste e convoca e dirige as respectivas reuniões.
 
 2. O Presidente poderá ter a seu cargo qualquer dos departamentos regionais.
 
 3. Nas suas ausências e impedimentos, o Presidente será substituído por um dos Secretários regionais, por ele designado.
 
-###### Art. 37.º - 1. Os departamentos regionais denominam-se Secretarias regionais e serão dirigidos por um Secretário regional, sem prejuízo do n.º 2 do artigo anterior.
+Art. 37.º - 1. Os departamentos regionais denominam-se Secretarias regionais e serão dirigidos por um Secretário regional, sem prejuízo do n.º 2 do artigo anterior.
 
 2. Os Subsecretários regionais terão os poderes que lhes forem delegados pelos respectivos Secretários.
 
-###### Art. 38.º - 1. Poderá existir na ilha de Porto Santo um delegado do Governo Regional.
+Art. 38.º - 1. Poderá existir na ilha de Porto Santo um delegado do Governo Regional.
 
 2. O delegado do Governo Regional, nomeado por este, superintenderá sobre as delegações das Secretarias regionais previstas no artigo 48.º
 
@@ -366,11 +391,11 @@ j) Participar nas negociações de tratados e acordos internacionais que directa
 
 ### CAPÍTULO I — Ministro da República
 
-###### Art. 39.º - 1. O Ministro da República é nomeado pelo Presidente de República, sob proposta do Primeiro-Ministro, ouvido o Conselho da Revolução.
+Art. 39.º - 1. O Ministro da República é nomeado pelo Presidente de República, sob proposta do Primeiro-Ministro, ouvido o Conselho da Revolução.
 
 2. Nas suas ausências e impedimentos, o Ministro da República é substituído, na Região, pelo Presidente da Assembleia Regional.
 
-###### Art. 40.º Compete ao Ministro da República:
+Art. 40.º Compete ao Ministro da República:
 
 a) Marcar, de harmonia com a lei eleitoral, o dia das eleições para a Assembleia Regional;
 
@@ -386,31 +411,31 @@ f) Coordenar a actividade dos serviços centrais do Estado no tocante aos intere
 
 g) Superintender nas funções administrativas exercidas pelo Estado na Região e coordená-las com as exercidas pela própria Região.
 
-###### Art. 41.º Para o desempenho das funções previstas na alínea f) do artigo anterior, o Ministro da República dispõe de competência ministerial e tem assento no Conselho de Ministros nas reuniões que tratem de assuntos de interesse para a Região.
+Art. 41.º Para o desempenho das funções previstas na alínea f) do artigo anterior, o Ministro da República dispõe de competência ministerial e tem assento no Conselho de Ministros nas reuniões que tratem de assuntos de interesse para a Região.
 
 ### CAPÍTULO II — Contencioso administrativo
 
-###### Art. 42.º Dos actos administrativos definitivos e executórios do Governo Regional e dos seus membros caberá recurso para o Supremo Tribunal Administrativo.
+Art. 42.º Dos actos administrativos definitivos e executórios do Governo Regional e dos seus membros caberá recurso para o Supremo Tribunal Administrativo.
 
-###### Art. 43.º Dos actos administrativos definitivos e executórios dos órgãos administrativos não referidos no artigo anterior caberá recurso contencioso, em 1.ª instância, para a Auditoria Administrativa de Lisboa e desta para o Supremo Tribunal Administrativo, nos termos da lei geral.
+Art. 43.º Dos actos administrativos definitivos e executórios dos órgãos administrativos não referidos no artigo anterior caberá recurso contencioso, em 1.ª instância, para a Auditoria Administrativa de Lisboa e desta para o Supremo Tribunal Administrativo, nos termos da lei geral.
 
 ## TÍTULO IV — Administração regional
 
 ### CAPÍTULO I — Serviços regionais
 
-###### Art. 44.º - 1. A organização administrativa regional reger-se-á pelo princípio da desconcentração de serviços.
+Art. 44.º - 1. A organização administrativa regional reger-se-á pelo princípio da desconcentração de serviços.
 
 2. Procurar-se-ão soluções maleáveis adaptadas aos condicionalismos locais, com vista a uma actividade administrativa rápida e eficaz, sem prejuízo, porém, da qualidade dos serviços prestados e da unidade de critérios perante os cidadãos.
 
-###### Art. 45.º - 1. Os serviços da autarquia distrital, extinta nos termos da Constituição, passam a depender do Governo Regional.
+Art. 45.º - 1. Os serviços da autarquia distrital, extinta nos termos da Constituição, passam a depender do Governo Regional.
 
 2. O enquadramento destes serviços e do respectivo pessoal será definido por decreto regional.
 
-###### Art. 46.º Poderão os órgãos regionais criar os serviços que se mostrem necessários à administração da Região.
+Art. 46.º Poderão os órgãos regionais criar os serviços que se mostrem necessários à administração da Região.
 
-###### Art. 47.º Os serviços regionais integrar-se-ão nas Secretarias regionais ou ficarão sob tutela dos Secretários regionais, de acordo com os sectores a que pertencerem.
+Art. 47.º Os serviços regionais integrar-se-ão nas Secretarias regionais ou ficarão sob tutela dos Secretários regionais, de acordo com os sectores a que pertencerem.
 
-###### Art. 48.º - 1. Na ilha de Porto Santo, e na dependência do delegado do Governo Regional, quando exista, poderão funcionar delegações das Secretarias regionais.
+Art. 48.º - 1. Na ilha de Porto Santo, e na dependência do delegado do Governo Regional, quando exista, poderão funcionar delegações das Secretarias regionais.
 
 2. As delegações das Secretarias regionais podem ser aglutinadas na medida em que o volume das suas actividades o justificar.
 
@@ -418,7 +443,7 @@ g) Superintender nas funções administrativas exercidas pelo Estado na Região 
 
 ### CAPÍTULO II — Funcionalismo
 
-###### Art. 49.º - 1. Criar-se-ão quadros regionais de funcionalismo nos diversos departamentos e quadros únicos interdepartamentais nos serviços, funções e categorias em que tal. seja conveniente.
+Art. 49.º - 1. Criar-se-ão quadros regionais de funcionalismo nos diversos departamentos e quadros únicos interdepartamentais nos serviços, funções e categorias em que tal. seja conveniente.
 
 2. A capacidade para o exercício de funções públicas nos serviços regionais rege-se pela lei geral.
 
@@ -430,17 +455,17 @@ g) Superintender nas funções administrativas exercidas pelo Estado na Região 
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Art. 50.º O desenvolvimento económico e social da Região deverá processar-se dentro das linhas definidas pelo plano regional, integrado no plano nacional, que diligenciará pelo aproveitamento das potencialidades regionais e pela promoção do bem-estar, do nível e da qualidade de vida de toda a população, com vista à realização dos princípios constitucionais.
+Art. 50.º O desenvolvimento económico e social da Região deverá processar-se dentro das linhas definidas pelo plano regional, integrado no plano nacional, que diligenciará pelo aproveitamento das potencialidades regionais e pela promoção do bem-estar, do nível e da qualidade de vida de toda a população, com vista à realização dos princípios constitucionais.
 
-###### Art. 51.º Os órgãos de soberania asseguram, em cooperação com os órgãos de governo da Região, o desenvolvimento económico e social da Região Autónoma da Madeira, visando, em especial, a correcção das desigualdades derivadas da insularidade.
+Art. 51.º Os órgãos de soberania asseguram, em cooperação com os órgãos de governo da Região, o desenvolvimento económico e social da Região Autónoma da Madeira, visando, em especial, a correcção das desigualdades derivadas da insularidade.
 
-###### Art. 52.º A Assembleia Regional e o Governo Regional participarão na definição das políticas fiscal, monetária, financeira e cambial, mediante proposta a apresentar aos órgãos de soberania, de modo a assegurarem o contrôle regional dos meios de pagamento em circulação e o financiamento dos investimentos necessários ao desenvolvimento económico-social.
+Art. 52.º A Assembleia Regional e o Governo Regional participarão na definição das políticas fiscal, monetária, financeira e cambial, mediante proposta a apresentar aos órgãos de soberania, de modo a assegurarem o contrôle regional dos meios de pagamento em circulação e o financiamento dos investimentos necessários ao desenvolvimento económico-social.
 
 ### CAPÍTULO II — Finanças e património
 
 #### SECÇÃO I — Receitas o despesas
 
-###### Art. 53.º Constituem receitas da Região:
+Art. 53.º Constituem receitas da Região:
 
 a) Os rendimentos do seu património;
 
@@ -450,29 +475,31 @@ c) As participações mencionadas nos artigos 55.º e 56.º;
 
 d) O produto dos empréstimos contraídos nos termos do artigo 58.º
 
-###### Art. 54.º - 1. Integrará as receitas fiscais da Região o produto dos impostos, taxas e adicionais nela cobrados.
+Art. 54.º - 1. Integrará as receitas fiscais da Região o produto dos impostos, taxas e adicionais nela cobrados.
 
 2. O disposto neste artigo não prejudica o regime financeiro das autarquias locais da Região.
 
-###### Art. 55.º A Região participará nos benefícios decorrentes de tratados e acordos internacionais que directamente lhe digam respeito.
+Art. 55.º A Região participará nos benefícios decorrentes de tratados e acordos internacionais que directamente lhe digam respeito.
 
-###### Art. 56.º De harmonia com o princípio da solidariedade nacional, a Região receberá apoio financeiro do Estado, ou para o mesmo contribuirá com parte das suas receitas, conforme anualmente for estabelecido pelo Orçamento Geral do Estado.
+Art. 56.º De harmonia com o princípio da solidariedade nacional, a Região receberá apoio financeiro do Estado, ou para o mesmo contribuirá com parte das suas receitas, conforme anualmente for estabelecido pelo Orçamento Geral do Estado.
 
-###### Art. 57.º As receitas fiscais da Região serão afectadas às despesas da mesma, segundo um orçamento anual elaborado pelo Governo Regional, aprovado pela Assembleia Regional e posto em vigor pela lei do orçamento aprovada anualmente pela Assembleia da República.
+Art. 57.º As receitas fiscais da Região serão afectadas às despesas da mesma, segundo um orçamento anual elaborado pelo Governo Regional, aprovado pela Assembleia Regional e posto em vigor pela lei do orçamento aprovada anualmente pela Assembleia da República.
 
-###### Art. 58.º O financiamento dos deficits orçamentais resultantes de investimentos constantes do plano regional será definido por diploma do Governo da República.
+Art. 58.º O financiamento dos deficits orçamentais resultantes de investimentos constantes do plano regional será definido por diploma do Governo da República.
 
-#### SECÇÃO II — Secção regional do Tribunal de Contas
+#### SECÇÃO II
 
-###### Art. 59.º A apreciação da legalidade das despesas públicas será feita, na Região, por uma secção regional do Tribunal de Contas, com os poderes e funções atribuídos pela lei geral.
+#### Secção regional do Tribunal de Contas
+
+Art. 59.º A apreciação da legalidade das despesas públicas será feita, na Região, por uma secção regional do Tribunal de Contas, com os poderes e funções atribuídos pela lei geral.
 
 #### SECÇÃO III — Património da Região
 
-###### Art. 60.º Integram o património da Região os bens do extinto distrito autónomo, os que por ela vierem a ser adquiridos e os que vierem a ser definidos por lei da Assembleia da República.
+Art. 60.º Integram o património da Região os bens do extinto distrito autónomo, os que por ela vierem a ser adquiridos e os que vierem a ser definidos por lei da Assembleia da República.
 
 ## TÍTULO VI — Limites dos poderes dos órgãos regionais
 
-###### Art. 61.º É vedado à Região Autónoma da Madeira:
+Art. 61.º É vedado à Região Autónoma da Madeira:
 
 a) Restringir os direitos legalmente reconhecidos aos trabalhadores;
 
@@ -482,28 +509,28 @@ c) Reservar o exercício de qualquer profissão ou acesso a qualquer cargo públ
 
 ## TÍTULO VII — Disposições finais e transitórias
 
-###### Art. 62.º O presente Estatuto tem carácter provisório e vigorará até que, nos termos do artigo 228.º da Constituição, entre em vigor o Estatuto definitivo da Região Autónoma da Madeira.
+Art. 62.º O presente Estatuto tem carácter provisório e vigorará até que, nos termos do artigo 228.º da Constituição, entre em vigor o Estatuto definitivo da Região Autónoma da Madeira.
 
-###### Art. 63.º - 1. Até à entrada em funções da Assembleia Regional e do Governo Regional, a Junta Regional da Madeira continua a exercer a competência que lhe é conferida pelos diplomas em vigor na data da publicação do presente Estatuto.
+Art. 63.º - 1. Até à entrada em funções da Assembleia Regional e do Governo Regional, a Junta Regional da Madeira continua a exercer a competência que lhe é conferida pelos diplomas em vigor na data da publicação do presente Estatuto.
 
 2. Com a posse do primeiro Governo Regional, designado nos termos do presente Estatuto, ficará dissolvida a Junta Regional da Madeira.
 
-###### Art. 64.º A Região sucede nas posições contratuais derivadas de contratos outorgados pela Junta Geral ou pela Junta Regional da Madeira.
+Art. 64.º A Região sucede nas posições contratuais derivadas de contratos outorgados pela Junta Geral ou pela Junta Regional da Madeira.
 
-###### Art. 65.º A entrada em vigor do disposto no n.º 1 do artigo 54.º fica dependente da publicação de diplomas que regulamentem os aspectos administrativos necessários à sua execução e procedam à adequada revisão do Orçamento Geral do Estado.
+Art. 65.º A entrada em vigor do disposto no n.º 1 do artigo 54.º fica dependente da publicação de diplomas que regulamentem os aspectos administrativos necessários à sua execução e procedam à adequada revisão do Orçamento Geral do Estado.
 
-###### Art. 66.º A transferência de serviços periféricos dos órgãos de soberania que não tenha sido efectuada até à data da entrada em vigor do presente Estatuto, e deva sê-lo, far-se-á sob proposta de comissões com representação do Governo Regional e do Governo da República e aprovada por este.
+Art. 66.º A transferência de serviços periféricos dos órgãos de soberania que não tenha sido efectuada até à data da entrada em vigor do presente Estatuto, e deva sê-lo, far-se-á sob proposta de comissões com representação do Governo Regional e do Governo da República e aprovada por este.
 
-###### Art. 67.º O Governo da República poderá, ulteriormente à data prevista no n.º 2 do artigo 302.º da Constituição da República, e até à data da entrada em funcionamento da Assembleia da República, aprovar diplomas interpretativos e integradores de lacunas do presente Estatuto.
+Art. 67.º O Governo da República poderá, ulteriormente à data prevista no n.º 2 do artigo 302.º da Constituição da República, e até à data da entrada em funcionamento da Assembleia da República, aprovar diplomas interpretativos e integradores de lacunas do presente Estatuto.
 
-###### Art. 68.º O presente diploma entra em vigor na data da sua publicação.
+Art. 68.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - António de Almeida Santos - Armando Bacelar - Vítor Manuel Ribeiro Constâncio.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 30 de Abril de 1976.**
+Promulgado em 30 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

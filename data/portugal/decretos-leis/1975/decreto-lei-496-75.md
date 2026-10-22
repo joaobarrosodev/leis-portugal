@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1975-307423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c682948a3c59323b5a94c179c7f420521c8f3133da9d49150bba08e82d122c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c92a31910bb8b034671006935431a1f3dc71c989e950d69df32d1d63c73c6a2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Escola Naval
+- Exoneração
+- Forças Armadas
+- Instituto de Altos Estudos Militares
+- Instituto Superior Naval de Guerra
+- Pessoal Docente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:38Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +98,16 @@ Considerando que, entretanto, se torna necessário rever, desde já, o problema 
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os oficiais actualmente em exercício dos cargos de professores militares da Academia Militar, do Instituto de Altos Estudos Militares, da Escola Naval e do Instituto Superior Naval de Guerra consideram-se exonerados dos mesmos cargos a partir desta data e por conveniência de serviço.
+Artigo 1.º Os oficiais actualmente em exercício dos cargos de professores militares da Academia Militar, do Instituto de Altos Estudos Militares, da Escola Naval e do Instituto Superior Naval de Guerra consideram-se exonerados dos mesmos cargos a partir desta data e por conveniência de serviço.
 
-###### Art. 2.º - 1. Enquanto não for publicada a reorganização dos estabelecimentos referidos no artigo anterior, os lugares de professor militar julgados necessários serão preenchidos por escolha do Chefe do Estado-Maior respectivo, mediante proposta do comandante ou director daqueles estabelecimentos e ouvido o Chefe do Estado-Maior do ramo a que o oficial pertencer.
+Art. 2.º - 1. Enquanto não for publicada a reorganização dos estabelecimentos referidos no artigo anterior, os lugares de professor militar julgados necessários serão preenchidos por escolha do Chefe do Estado-Maior respectivo, mediante proposta do comandante ou director daqueles estabelecimentos e ouvido o Chefe do Estado-Maior do ramo a que o oficial pertencer.
 
 2. Na portaria de nomeação deverão constar necessariamente as condições do exercício da função.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 3 de Setembro de 1975.**
+Promulgado em 3 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

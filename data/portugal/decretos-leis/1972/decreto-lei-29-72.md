@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/01/01900/00930094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24ceff2f23912d3b19e4a7aa7da08be90a491042f4a7b86d9ed667838877b4d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 704a017c9d38a21a76fe1395dfc7b4cad1828323920649235d22920fe3d91535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Arquivo
+- Conservação de Documentos
+- Microfilmagem
+- Prazo de Conservação
 relationships:
 - type: amended_by
   target: pt:dre:491441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:356515:por
+  label: "Revogado pelo DEC LEI.447/88.10.12.1988.PCM, DR.IS [287] de 10.12.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/447-1988-356515
+  date: '1988-12-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:31Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +107,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Serão fixados em portaria do Ministro competente os prazos mínimos de conservação em arquivo dos documentos na posse de:
+Artigo 1.º Serão fixados em portaria do Ministro competente os prazos mínimos de conservação em arquivo dos documentos na posse de:
 
 a) Serviços do Estado;
 
@@ -115,26 +125,26 @@ g) Instituições de previdência;
 
 h) Pessoas colectivas de utilidade pública administrativa.
 
-###### Art. 2.º - 1. Mediante proposta fundamentada dos dirigentes dos serviços, poderá ser autorizada, em portaria do respectivo Ministro, a microfilmagem dos documentos que devam manter-se em arquivo e a consequente inutilização dos originais.
+Art. 2.º - 1. Mediante proposta fundamentada dos dirigentes dos serviços, poderá ser autorizada, em portaria do respectivo Ministro, a microfilmagem dos documentos que devam manter-se em arquivo e a consequente inutilização dos originais.
 
 2. Não serão, porém, inutilizados os documentos cuja conservação se imponha, pelo seu interesse histórico ou outro motivo atendível, devendo proceder-se à transferência dos mesmos para os correspondentes arquivos eruditos.
 
-###### Art. 3.º - 1. Da proposta referida no n.º 1 do artigo anterior constará a indicação de um funcionário dos serviços, que ficará responsável pela regularidade das operações de microfilmagem.
+Art. 3.º - 1. Da proposta referida no n.º 1 do artigo anterior constará a indicação de um funcionário dos serviços, que ficará responsável pela regularidade das operações de microfilmagem.
 
 2. O Ministro fixará em portaria as formalidades a observar nas referidas operações, com vista a garantir a sua regularidade e a autenticidade dos microfilmes, e bem assim as condições de segurança que devem ser adoptadas na inutilização dos documentos.
 
-###### Art. 4.º As fotocópias obtidas a partir do microfilme têm a força probatória dos originais, desde que sejam autenticadas com a assinatura do responsável pelos serviços e o selo branco.
+Art. 4.º As fotocópias obtidas a partir do microfilme têm a força probatória dos originais, desde que sejam autenticadas com a assinatura do responsável pelos serviços e o selo branco.
 
-###### Art. 5.º Ficam revogados a partir da entrada em vigor do presente decreto-lei os preceitos especiais que providenciam sobre a matéria por ele disciplinada.
+Art. 5.º Ficam revogados a partir da entrada em vigor do presente decreto-lei os preceitos especiais que providenciam sobre a matéria por ele disciplinada.
 
-###### Art. 6.º O presente decreto-lei entra em vigor sessenta dias após a sua publicação.
+Art. 6.º O presente decreto-lei entra em vigor sessenta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 17 de Janeiro de 1972.**
+Promulgado em 17 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

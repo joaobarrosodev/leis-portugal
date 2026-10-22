@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 68/1975, 2º Suplemento, Série I de 1975-03-21
   number: '68'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 430-(4) a 430-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06802/00040005.pdf
 entry_into_force_dates: []
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-d-1975-335974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1838931adf737f51f3e347f298e0282ca332d4ddcae7e060aa043306ee59c905
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 212bff2f4acbacfba97be827a312b251d41cd2da61635f7ea2d6156bf6dab715
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crime Militar
+- Exoneração
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Sanção Militar
 relationships:
 - type: amended_by
   target: pt:dre:197148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197148:por
+  label: "Declarada a inconstitucionalidade das normas constantes dos arts. 1º, 2º e 3º do presente diploma, e declarada a\
+    \ incompetência para apreciar a eventual inconstitucionalidade da norma constante do art. 4º do mesmo diploma pela RES.24/78.27.02.1978.CR,\
+    \ DR.IS [48-SUPL] de 27.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/24-1978-197148
+  date: '1978-02-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:56Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +108,9 @@ Considerando que a substituição do sistema político vigente antes de 25 de Ab
 
 Nos termos da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São expulsos das fileiras das forças armadas os autores do golpe contra-revolucionário de 11 de Março que se furtaram ou se venham a furtar às responsabilidades fugindo do País.
+Artigo 1.º São expulsos das fileiras das forças armadas os autores do golpe contra-revolucionário de 11 de Março que se furtaram ou se venham a furtar às responsabilidades fugindo do País.
 
-###### Art. 2.º A expulsão a que se refere o artigo anterior tem como consequências:
+Art. 2.º A expulsão a que se refere o artigo anterior tem como consequências:
 
 a) A suspensão do exercício dos direitos políticos pelo tempo de vinte anos;
 
@@ -105,21 +118,21 @@ b) A perda de direito de usar medalhas militares, condecorações e de haver rec
 
 c) A inabilidade para o serviço militar.
 
-###### Art. 3.º - 1. Serão congelados todos os bens patrimoniais dos implicados no golpe contra-revolucionário de 11 de Março, cabendo ao Conselho da Revolução tomar as providências necessárias para o efeito e fixar a quantia desses bens ou seus rendimentos a atribuir, para subsistência, aos familiares que deles estejam economicamente dependentes, podendo delegar essa competência.
+Art. 3.º - 1. Serão congelados todos os bens patrimoniais dos implicados no golpe contra-revolucionário de 11 de Março, cabendo ao Conselho da Revolução tomar as providências necessárias para o efeito e fixar a quantia desses bens ou seus rendimentos a atribuir, para subsistência, aos familiares que deles estejam economicamente dependentes, podendo delegar essa competência.
 
 2. A medida prevista neste artigo cessa com a morte do implicado ou por decisão do Conselho da Revolução.
 
-###### Art. 4.º Compete ao Conselho da Revolução decidir da aplicação do disposto neste diploma, aplicando-se desde já aos indivíduos constantes na lista anexa.
+Art. 4.º Compete ao Conselho da Revolução decidir da aplicação do disposto neste diploma, aplicando-se desde já aos indivíduos constantes na lista anexa.
 
-###### Art. 5.º O disposto no presente diploma entra imediatamente em vigor e não prejudica o ulterior apuramento da responsabilidade civil e criminal.
+Art. 5.º O disposto no presente diploma entra imediatamente em vigor e não prejudica o ulterior apuramento da responsabilidade civil e criminal.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 21 de Março de 1975.**
+Promulgado em 21 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Lista anexa ao Decreto-Lei n.º 147-D/75
 

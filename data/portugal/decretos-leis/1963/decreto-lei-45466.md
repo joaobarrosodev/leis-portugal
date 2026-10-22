@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45466-1963-680627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fb42996287ff3ab6b65bb97333cebaa5e70d7ab3c4976e557fef4df59af8d39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7702c8541674817b97f0d05e4d889e45dbfbf2892994da96e6887e84455b910
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Comércio Internacional
+- Convenção
+- Cooperação Internacional
+- Exportação
+- Importação
+- Nova Iorque
+- Organização Internacional do CAFÉ
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:265081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:265081:por
+  label: "Dada continuação ao Convénio Internacional do Café de 1962, aprovado, para ratificação, neste diploma, pelo Convénio\
+    \ Internacional do Café de 1968 (nos termos do estabelecido no seu art. 72º), aprovado, para ratificação, pelo DEC LEI.48570.05.09.1968.MNE,\
+    \ DG.IS [210] de 05.09.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48570-1968-265081
+  date: '1968-09-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:31Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +104,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Convénio Internacional do Café, assinado em Nova Iorque em 28 de Setembro de 1962, cujo texto em português vai anexo ao presente decreto-lei.
+Artigo único. É aprovado para ratificação o Convénio Internacional do Café, assinado em Nova Iorque em 28 de Setembro de 1962, cujo texto em português vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -860,7 +876,7 @@ O Conselho, durante os seis últimos meses do ano cafeeiro que termina a 30 de S
 
 ###### ARTIGO 74 — Notificações pelo secretário-geral
 
-**O secretário-geral das Nações Unidas notificará todos os Governos representados por delegados ou observadores à Conferência de Café das Nações Unidas, de 1962, e todos os outros Governos de Estados Membros das Nações Unidas ou de qualquer das suas agências especializadas, de cada depósito de um instrumento de ratificação, aceitação ou adesão, e das datas nas quais o Convénio entrar provisória e definitivamente em vigor. O secretário-geral das Nações Unidas notificará igualmente todas as Partes Contratantes de cada notificação feita de acordo com os artigos 5, 67, 68 ou 69, bem como da data em que o Convénio for prorrogado ou terminado, segundo o artigo 71, e da data em que uma emenda entrar em vigor, segundo o artigo 73.**
+O secretário-geral das Nações Unidas notificará todos os Governos representados por delegados ou observadores à Conferência de Café das Nações Unidas, de 1962, e todos os outros Governos de Estados Membros das Nações Unidas ou de qualquer das suas agências especializadas, de cada depósito de um instrumento de ratificação, aceitação ou adesão, e das datas nas quais o Convénio entrar provisória e definitivamente em vigor. O secretário-geral das Nações Unidas notificará igualmente todas as Partes Contratantes de cada notificação feita de acordo com os artigos 5, 67, 68 ou 69, bem como da data em que o Convénio for prorrogado ou terminado, segundo o artigo 71, e da data em que uma emenda entrar em vigor, segundo o artigo 73.
 
 Em fé do que os abaixo assinados, devidamente autorizados pelos seus respectivos Governos, firmaram este Convénio nas datas que aparecem ao lado das suas assinaturas.
 

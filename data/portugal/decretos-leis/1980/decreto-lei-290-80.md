@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18800/22042205.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1980-470789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a91853e58becb23a90814f2ece083859e1281baa3ab66f085906cd944fcdeed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 692fd8a14d209d594a599528cb8f7646dc3313df05aa9b8c28e4a8c31ff2e565
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Instituto de Gestão Financeira da Segurança Social
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:374620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374620:por
+  label: "Revogado pelo DEC LEI.260/99.1999.07.07.MTS,DR.IS-A [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1999-374620
+  date: '1999-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:28Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +122,19 @@ Considerando ainda a indispensabilidade de intensificar todo o processo de recup
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Do conselho directivo)
 
 O conselho directivo do Instituto de Gestão Financeira da Segurança Social é constituído por três a cinco membros, sendo o presidente com a categoria de director-geral e os vogais com a categoria de subdirectores-gerais, um dos quais, como vice-presidente, substituirá o presidente nas suas faltas e impedimentos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Da organização interna)
 
 O artigo 18.º do [Decreto Regulamentar n.º 24/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1977-139726), de 1 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 18.º O Instituto de Gestão Financeira da Segurança Social compreende os seguintes serviços:
+Art. 18.º O Instituto de Gestão Financeira da Segurança Social compreende os seguintes serviços:
 
 a) ...
 
@@ -118,13 +144,13 @@ c) ...
 
 d) Serviços Jurídico-Contenciosos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Competência dos serviços)
 
 O artigo 19.º do [Decreto Regulamentar n.º 24/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1977-139726), de 1 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 19.º - 1 - ...
+Art. 19.º - 1 - ...
 
 2 - ...
 
@@ -142,7 +168,7 @@ a) Desenvolver acções de natureza jurídico-contenciosa indispensáveis às at
 
 b) O desenvolvimento das acções necessárias ao exercício das competências referidas nas alíneas g), h), i) e j) do artigo 3.º do presente diploma.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Do quadro do pessoal)
 
@@ -150,8 +176,8 @@ Ao quadro do pessoal do Instituto de Gestão Financeira da Segurança Social sã
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 1 de Agosto de 1980.**
+Promulgado em 1 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

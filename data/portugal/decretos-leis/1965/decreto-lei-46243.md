@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2dd19c52542a334d373e55f79a9adcbdb3942648098ff20ec5cc7f690e455ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e6761cd95efa7bbcaabc7a17c227ac3a631456bafbad83f05cb229f8cec825a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito
+- Empréstimo
+- Instituição de Crédito
+- Política de Crédito
+- TAXA de JURO
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:422390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:422390:por
+  label: "Alterado o art. 111º do Dec Lei 45296, de 08-Out, de 1963, na redacção do presente diploma, pelo DEC LEI.279/73.01.06.1973.PC,\
+    \ DG.IS [129] de 01.06.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-1973-422390
+  date: '1973-06-01'
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:33Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Convindo, finalmente, providenciar no sentido de poderem ser concedidas isençõ
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § 3.º do artigo 17.º, o artigo 101.º, o artigo 111.º, o artigo 112.º, o artigo 115.º e o artigo 117.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º O § 3.º do artigo 17.º, o artigo 101.º, o artigo 111.º, o artigo 112.º, o artigo 115.º e o artigo 117.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, passam a ter a seguinte redacção:
 
 ###### Artigo 17.º ...
 
@@ -104,11 +120,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 101.º As caixas económicas não poderão estabelecer departamentos especializados de natureza e fins análogos aos dos departamentos financeiros referidos no artigo 66.º
+Art. 101.º As caixas económicas não poderão estabelecer departamentos especializados de natureza e fins análogos aos dos departamentos financeiros referidos no artigo 66.º
 
 ...
 
-###### Art. 111.º Nenhuma instituição de crédito nacional que não seja banco comercial ou de investimento poderá estabelecer dependências numa província ultramarina. Para estabelecer essas dependências, a instituição de crédito deverá:
+Art. 111.º Nenhuma instituição de crédito nacional que não seja banco comercial ou de investimento poderá estabelecer dependências numa província ultramarina. Para estabelecer essas dependências, a instituição de crédito deverá:
 
 a) Tratando-se da sua primeira dependência nessa província ultramarina, que será considerada seu estabelecimento principal na mesma província, obter prévia autorização conjunta dos Ministros das Finanças e do Ultramar e afectar a essa dependência, por transferência do território da sua sede, um capital não inferior a metade do capital mínimo exigido pelos artigos 48.º e 89.º do presente diploma, conforme se trate, respectivamente, de um banco comercial ou de um banco de investimento;
 
@@ -128,25 +144,25 @@ b) Tratando-se de outras dependências, que serão consideradas como filiais, ag
 
 § 5.º Um banco comercial, estabelecido em qualquer outra parcela do território nacional, poderá requerer, nos termos do artigo 66.º, autorização para constituir um departamento financeiro numa província ultramarina, desde que não possua dependências na mesma província e haja obtido para tanto autorização no território onde tiver a sua sede nos termos da legislação respectiva, nomeadamente da que regular as operações de pagamentos interterritoriais.
 
-###### Art. 112.º ...
+Art. 112.º ...
 
 § único. As referidas dependências são obrigadas a aplicar nas províncias ultramarinas onde se acharem localizadas a importância do capital que lhes esteja afectado, bem como as reservas constituídas e os depósitos recebidos nas mesmas províncias, podendo, todavia, ter como saldo credor na sede e sucursais noutra parcela do território nacional importância total não superior a 10 por cento do mesmo capital.
 
 ...
 
-###### Art. 115.º Nenhuma instituição de crédito estrangeira poderá funcionar numa província ultramarina sem que o seu estabelecimento principal na província disponha de um capital não inferior a metade do capital mínimo exigido pelo artigo 48.º do presente diploma e especialmente afecto às operações a realizar na mesma província.
+Art. 115.º Nenhuma instituição de crédito estrangeira poderá funcionar numa província ultramarina sem que o seu estabelecimento principal na província disponha de um capital não inferior a metade do capital mínimo exigido pelo artigo 48.º do presente diploma e especialmente afecto às operações a realizar na mesma província.
 
 § único. Às instituições de crédito estrangeiras aplica-se o disposto no artigo 111.º e § 3.º do artigo 17.º deste diploma.
 
 ...
 
-###### Art. 117.º Os estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras são obrigados a ter empregados de nacionalidade portuguesa em número não inferior a 80 por cento do total dos seus empregados classificados profissionalmente dentro do ramo bancário, excluindo-se o pessoal auxiliar - contínuos, serventes e respectivos chefes, quando existam -, que terá de ter, na sua totalidade, a nacionalidade portuguesa.
+Art. 117.º Os estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras são obrigados a ter empregados de nacionalidade portuguesa em número não inferior a 80 por cento do total dos seus empregados classificados profissionalmente dentro do ramo bancário, excluindo-se o pessoal auxiliar - contínuos, serventes e respectivos chefes, quando existam -, que terá de ter, na sua totalidade, a nacionalidade portuguesa.
 
 § único. Os mesmos estabelecimentos deverão assegurar a todos os elementos do seu pessoal, sem qualquer discriminação, idênticas oportunidades de acesso a lugares superiores ou de chefia.
 
-###### Art. 2.º Fica o Ministro do Ultramar autorizado a conceder aos departamentos financeiros dos bancos comerciais, constituídos nos termos dos artigos 66.º e seguintes do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), isenções de impostos directos pelo prazo máximo de dez anos.
+Art. 2.º Fica o Ministro do Ultramar autorizado a conceder aos departamentos financeiros dos bancos comerciais, constituídos nos termos dos artigos 66.º e seguintes do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), isenções de impostos directos pelo prazo máximo de dez anos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

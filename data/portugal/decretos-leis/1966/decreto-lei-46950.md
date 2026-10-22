@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46950-1966-487923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab6f53a799db4232d79c7845b3166e80d918e69fee4e580e6448bc9c47f05440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08673f85a2f9a8895a43aa47918abee65ee686a49aaeca82e6169531ceecbde5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Lisboa
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Ponte
+- Prédio Rústico
+- RIO TEJO
+relationships:
+- type: cites
+  target: pt:dre:302897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:43Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +153,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Em conformidade com o artigo 4.º do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958, ficam sujeitos a um encargo de mais-valia os prédios rústicos sitos na margem sul do Tejo que, por virtude da execução da ponte entre Lisboa e Almada, aumentem de valor pela possibilidade da sua utilização como terrenos de construção urbana.
+Artigo 1.º - 1. Em conformidade com o artigo 4.º do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958, ficam sujeitos a um encargo de mais-valia os prédios rústicos sitos na margem sul do Tejo que, por virtude da execução da ponte entre Lisboa e Almada, aumentem de valor pela possibilidade da sua utilização como terrenos de construção urbana.
 
 2. Os terrenos de construção definidos no artigo 11.º, n.º 2, da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, e no artigo 44.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, situados na zona referida no n.º 1 deste artigo ficam igualmente sujeitos a um encargo de mais-valia.
 
@@ -137,19 +161,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. No apuramento da mais-valia deverá também atender-se ao disposto no artigo 78.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
 
-###### Art. 2.º - 1. Considera-se área valorizada toda a zona ao sul do Tejo abrangida pelo Plano Director do Desenvolvimento Urbanístico da Região de Lisboa e definida nos termos da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), de 14 de Agosto de 1959, com os ajustamentos determinados ao artigo do n.º 4 da base I da referida lei.
+Art. 2.º - 1. Considera-se área valorizada toda a zona ao sul do Tejo abrangida pelo Plano Director do Desenvolvimento Urbanístico da Região de Lisboa e definida nos termos da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), de 14 de Agosto de 1959, com os ajustamentos determinados ao artigo do n.º 4 da base I da referida lei.
 
 2. Esta delimitação substitui, para todos os efeitos, os actos e formalidades previstos no artigo 79.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
 
-###### Art. 3.º A mais-valia corresponde a diferença entre o valor do prédio à data em que for requerida a licença de construção ou de obra e o seu valor em conformidade com o respectivo destino económico à data em que foi anunciada a construção da ponte pela publicação do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958.
+Art. 3.º A mais-valia corresponde a diferença entre o valor do prédio à data em que for requerida a licença de construção ou de obra e o seu valor em conformidade com o respectivo destino económico à data em que foi anunciada a construção da ponte pela publicação do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958.
 
-###### Art. 4.º - 1. O encargo de mais-valia é de 60 por cento da importância apurada nos termos do artigo 3.º, revertendo em todos os casos 20 por cento para o Estado e 40 por cento para a câmara municipal do concelho onde se situar o prédio.
+Art. 4.º - 1. O encargo de mais-valia é de 60 por cento da importância apurada nos termos do artigo 3.º, revertendo em todos os casos 20 por cento para o Estado e 40 por cento para a câmara municipal do concelho onde se situar o prédio.
 
 2. Nos casos previstos na segunda parte do n.º 4 do artigo 17.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, o custo das obras suportadas pela entidade expropriada será abatido à parte da mais-valia atribuída à câmara municipal.
 
-###### Art. 5.º O processo para o apuramento da mais-valia e a cobrança do respectivo encargo regem-se, na parte não especialmente prevista neste diploma, pelo disposto no [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
+Art. 5.º O processo para o apuramento da mais-valia e a cobrança do respectivo encargo regem-se, na parte não especialmente prevista neste diploma, pelo disposto no [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
 
-###### Art. 6.º - 1. Para determinação da mais-valia, na fase administrativa, intervirá um representante do Estado, a designar pelo Ministério das Obras Públicas, juntamente com representante da câmara municipal respectiva e o proprietário interessado ou seu representante.
+Art. 6.º - 1. Para determinação da mais-valia, na fase administrativa, intervirá um representante do Estado, a designar pelo Ministério das Obras Públicas, juntamente com representante da câmara municipal respectiva e o proprietário interessado ou seu representante.
 
 2. Não se chegando a acordo nesta primeira fase, haverá que recorrer à arbitragem prevista no [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
 
@@ -157,12 +181,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. No caso de haver recurso da arbitragem, o perito representante do Estado e câmara municipal deverá ser designado por esta com parecer favorável do Ministério das Obras Públicas.
 
-###### Art. 7.º O produto da mais-valia pertencente ao Estado será contabilizado em regime de consignação de receitas pela câmara municipal que efectuar a cobrança e dará entrada nos cofres do Estado até ao dia 10 do mês seguinte àquele em que tiver sido pago.
+Art. 7.º O produto da mais-valia pertencente ao Estado será contabilizado em regime de consignação de receitas pela câmara municipal que efectuar a cobrança e dará entrada nos cofres do Estado até ao dia 10 do mês seguinte àquele em que tiver sido pago.
 
-###### Art. 8.º Todas as obras de construção ou reconstrução urbana na área prevista no artigo 2.º do presente diploma ficam sujeitas a licença da câmara municipal do concelho onde se situar o terreno.
+Art. 8.º Todas as obras de construção ou reconstrução urbana na área prevista no artigo 2.º do presente diploma ficam sujeitas a licença da câmara municipal do concelho onde se situar o terreno.
 
-###### Art. 9.º O encargo de mais-valia será cobrado relativamente às obras cujas licenças forem concedidas depois da publicação deste decreto-lei, considerando-se concretamente beneficiadas todas as áreas abrangidas pela delimitação fixada no artigo 2.º, sem necessidade dos despachos previstos no artigo 83.º, alínea a), do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
+Art. 9.º O encargo de mais-valia será cobrado relativamente às obras cujas licenças forem concedidas depois da publicação deste decreto-lei, considerando-se concretamente beneficiadas todas as áreas abrangidas pela delimitação fixada no artigo 2.º, sem necessidade dos despachos previstos no artigo 83.º, alínea a), do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

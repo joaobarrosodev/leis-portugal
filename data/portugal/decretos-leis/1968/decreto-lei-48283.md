@@ -49,40 +49,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48283-1968-234893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2874f5be1ab27614fa7792e7bdeab3acf03058f27aab92d06cad9331be565031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e5a5fa16964ca3a52f3c9dba0bb43db2c7c18ff6f832dddcca67a6f0f32014b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Exército
+- Forças Armadas
+- Oficinas Gerais de Material de Engenharia
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:58763441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58763441:por
+  label: Revogado, a partir de 07.11.2014, na parte respeitante às OGME, pelo(a) Decreto-Lei n.º 167/2014 - Diário da República
+    n.º 215/2014, Série I de 2014-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2014-58763441
+  date: '2014-11-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:39Z'
   warnings: []
   errors: []
 ---
@@ -99,12 +118,12 @@ Considerando, no entanto, não ser oportuno proceder, de momento, a uma reestrut
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os lugares previstos no mapa IV anexo ao [Decreto-Lei n.º 44322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44322-1962-140540), de 3 de Maio de 1962, para oficiais engenheiros do serviço de material, com excepção do director e do subdirector, podem ser preenchidos por oficiais dos serviços técnicos de manutenção do serviço de material, a título transitório.
+Artigo 1.º Os lugares previstos no mapa IV anexo ao [Decreto-Lei n.º 44322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44322-1962-140540), de 3 de Maio de 1962, para oficiais engenheiros do serviço de material, com excepção do director e do subdirector, podem ser preenchidos por oficiais dos serviços técnicos de manutenção do serviço de material, a título transitório.
 
 Os lugares previstos no mesmo mapa para oficiais dos serviços técnicos de manutenção do serviço de material, ou do quadro do serviço geral do Exército, do activo ou da reserva, podem ser preenchidos, transitòriamente, por oficiais de qualquer arma ou serviço, quando tal preenchimento não possa ser feito por oficiais daqueles quadros.
 
-###### Art. 2.º O quadro orgânico das Oficinas Gerais de Material de Engenharia, constante do mapa referido no artigo anterior, é aumentado com um capitão e dois subalternos de qualquer arma ou serviço, do quadro permanente ou do quadro de complemento, de preferência do quadro dos serviços técnicos de manutenção do serviço de material ou do quadro do serviço geral do Exército.
+Art. 2.º O quadro orgânico das Oficinas Gerais de Material de Engenharia, constante do mapa referido no artigo anterior, é aumentado com um capitão e dois subalternos de qualquer arma ou serviço, do quadro permanente ou do quadro de complemento, de preferência do quadro dos serviços técnicos de manutenção do serviço de material ou do quadro do serviço geral do Exército.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

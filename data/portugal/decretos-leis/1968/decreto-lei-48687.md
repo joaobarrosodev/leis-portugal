@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/11/26900/16811682.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48687-1968-263727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebefc61c829eb5b685d3c656ee225342a380a80dfa29b6aa2a0a7f667a654f44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a86bf35686cc0ab8bdd3b46871b28b04e24d8dee906f8ba25dd143ec6eee1890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Ministério da Economia
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:632932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632932:por
+  label: "Revogado pelo DEC LEI.537/99.1999.12.13.MF,DR.IS-A [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/537-1999-632932
+  date: '1999-12-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:11Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +111,15 @@ Nestes termos, tendo em consideração as providências adoptadas em outros Mini
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São criados os Serviços Sociais do Ministério da Economia, instituição que tem por fim estreitar os laços de solidariedade entre os servidores do Ministério e exercer em seu benefício uma acção de carácter social, cultural e de recuperação.
+Artigo 1.º - 1. São criados os Serviços Sociais do Ministério da Economia, instituição que tem por fim estreitar os laços de solidariedade entre os servidores do Ministério e exercer em seu benefício uma acção de carácter social, cultural e de recuperação.
 
 2. A acção dos Serviços Sociais poderá tornar-se extensiva, pela forma a estabelecer em regulamento, ao agregado familiar dos beneficiários e aos aposentados ou reformados dos serviços do Ministério.
 
-###### Art. 2.º - 1. Os Serviços Sociais do Ministério da Economia são dotados de personalidade jurídica, gozam de autonomia administrativa e financeira e dispõem de património privativo.
+Art. 2.º - 1. Os Serviços Sociais do Ministério da Economia são dotados de personalidade jurídica, gozam de autonomia administrativa e financeira e dispõem de património privativo.
 
 2. Os Serviços Sociais estão isentos de custas e selos em todos os processos em que forem parte ou interessados e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficiam de todas as facilidades conferidas por lei às instituições oficiais de assistência.
 
-###### Art. 3.º - 1. São órgãos dos Serviços Sociais:
+Art. 3.º - 1. São órgãos dos Serviços Sociais:
 
 a) A direcção;
 
@@ -116,13 +129,13 @@ c) A comissão verificadora de contas.
 
 2. Dos órgãos mencionados neste artigo farão parte representantes de cada uma das secretarias de Estado do Ministério, nomeados pelo Ministro da Economia.
 
-###### Art. 4.º - 1. Os Serviços Sociais terão o pessoal indispensável à boa execução dos seus fins.
+Art. 4.º - 1. Os Serviços Sociais terão o pessoal indispensável à boa execução dos seus fins.
 
 2. Os lugares dos Serviços Sociais poderão ser desempenhados por quaisquer funcionários do Estado em regime de comissão de serviço por tempo indeterminado, sem perda dos direitos dos cargos de origem, quanto a antiguidade, promoção ou aposentação.
 
 3. Enquanto os quadros do pessoal não estiverem organizados de harmonia com as necessidades dos serviços, poderão estes ser assegurados por funcionários destacados dos serviços do Ministério, sendo os respectivos vencimentos pagos pelos orçamentos dos quadros a que pertençam.
 
-###### Art. 5.º Constituem receitas dos Serviços Sociais:
+Art. 5.º Constituem receitas dos Serviços Sociais:
 
 a) As quotizações dos beneficiários;
 
@@ -134,21 +147,21 @@ d) Os juros de fundos capitalizados e outros rendimentos;
 
 e) Quaisquer receitas que lhes sejam atribuídas.
 
-###### Art. 6.º - 1. Para efeitos do disposto na alínea c) do artigo anterior, os serviços, fundos ou organismos autónomos dependentes do Ministério da Economia ficam autorizados a inscrever em orçamento verbas destinadas a comparticipações para os Serviços Sociais.
+Art. 6.º - 1. Para efeitos do disposto na alínea c) do artigo anterior, os serviços, fundos ou organismos autónomos dependentes do Ministério da Economia ficam autorizados a inscrever em orçamento verbas destinadas a comparticipações para os Serviços Sociais.
 
 2. Uma vez aprovados os orçamentos, nos termos legais, poderá o pagamento das referidas comparticipações ser efectuado mediante despacho de autorização do respectivo Secretário de Estado, homologado pelo Ministro.
 
-###### Art. 7.º - 1. O relatório e contas de gerência serão anualmente submetidos à aprovação do Ministro da Economia, acompanhados do parecer da comissão verificadora.
+Art. 7.º - 1. O relatório e contas de gerência serão anualmente submetidos à aprovação do Ministro da Economia, acompanhados do parecer da comissão verificadora.
 
 2. A aprovação a ano se refere este artigo corresponde, para efeitos de prestação e julgamento de contas, a quitação dos directores, sem prejuízo de revisão, a determinar pelo Ministro, nos casos admitidos na lei.
 
-###### Art. 8.º Os Serviços Sociais do Ministério da Economia poderão colaborar com outras instituições similares em realizações de interesse comum para o bom desempenho das suas finalidades.
+Art. 8.º Os Serviços Sociais do Ministério da Economia poderão colaborar com outras instituições similares em realizações de interesse comum para o bom desempenho das suas finalidades.
 
-###### Art. 9.º - 1. Os subsídios concedidos pelos Serviços Sociais aos seus beneficiários são inalienáveis e impenhoráveis e estão isentos de quaisquer contribuições ou impostos.
+Art. 9.º - 1. Os subsídios concedidos pelos Serviços Sociais aos seus beneficiários são inalienáveis e impenhoráveis e estão isentos de quaisquer contribuições ou impostos.
 
 2. A cobrança das importâncias devidas aos Serviços Sociais pelos beneficiários poderá ser efectuada por descontos.
 
-###### Art. 10.º - 1. Em regulamento aprovado pelo Ministro da Economia serão estabelecidas as normas necessárias à prossecução dos fins dos Serviços Sociais.
+Art. 10.º - 1. Em regulamento aprovado pelo Ministro da Economia serão estabelecidas as normas necessárias à prossecução dos fins dos Serviços Sociais.
 
 2. Constarão especialmente do regulamento:
 
@@ -166,7 +179,7 @@ f) Os actos que o Ministro entenda de submeter à sua autorização prévia.
 
 3. O Ministro da Economia poderá delegar em qualquer dos Secretários de Estado do Ministério a competência que lhe é atribuída na alínea f) do número anterior.
 
-###### Art. 11.º - 1. Além dos casos preceituados em regulamento, serão excluídos dos benefícios dos Serviços Sociais:
+Art. 11.º - 1. Além dos casos preceituados em regulamento, serão excluídos dos benefícios dos Serviços Sociais:
 
 a) Os funcionários exonerados, demitidos ou cujos contratos sejam dados por findos;
 
@@ -178,8 +191,8 @@ c) Os que se encontrem de licença ilimitada.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
 
-**Promulgado em 6 de Novembro de 1968.**
+Promulgado em 6 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

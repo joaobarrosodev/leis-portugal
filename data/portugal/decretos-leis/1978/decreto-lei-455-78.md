@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1978, 13º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 13º Suplemento
+  supplement: null
   pages: 2798-(241) a 2798-(276)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1978-273855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 369bad7e8175eedbb205152b374235c54d2c4d3cfee02efb0a6f5724a990556d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14d8f400f0b4481bda610fe022385864ca31d91373a869d63526389ca948d6a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banca
+- Instituição de Crédito
+- Plano de Contas
+- Sistema Bancário
 relationships:
 - type: amended_by
   target: pt:dre:333165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:382870:por
+  label: Rectificado pela DECL.DD7281.02.05.1979.PCM, DR.IS [100] de 02.05.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-382870
+  date: '1979-05-02'
+- type: repealed_by
+  target: pt:dre:333165:por
+  label: "Revogado, com efeitos reportados a 01.01.1990, pelo DEC LEI.91/90.17.03.1990.MF, DR.IS [64] de 17.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1990-333165
+  date: '1990-03-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:23Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +136,11 @@ Considerando, por isso, a necessidade de definição de novas regras e princípi
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Plano de Contas para o Sistema Bancário, publicado com anexo.
+Artigo 1.º É aprovado o Plano de Contas para o Sistema Bancário, publicado com anexo.
 
-###### Art. 2.º A aplicação do presente Plano de Contas é obrigatória a partir do início do exercício de 1979.
+Art. 2.º A aplicação do presente Plano de Contas é obrigatória a partir do início do exercício de 1979.
 
-###### Art. 3.º - 1 - As instituições de crédito ficam obrigadas a publicar no Diário da República e num dos jornais mais lidos da localidade da sua sede, acompanhados dos relatórios de gestão ou administração, bem como, havendo-o, do parecer da comissão de fiscalização ou órgão equiparado, no prazo de trinta dias a contar da data da aprovação das contas, os seguintes elementos:
+Art. 3.º - 1 - As instituições de crédito ficam obrigadas a publicar no Diário da República e num dos jornais mais lidos da localidade da sua sede, acompanhados dos relatórios de gestão ou administração, bem como, havendo-o, do parecer da comissão de fiscalização ou órgão equiparado, no prazo de trinta dias a contar da data da aprovação das contas, os seguintes elementos:
 
 Balanço.
 
@@ -116,7 +154,7 @@ Inventário de participações financeiras.
 
 3 - Apenas nas publicações anuais, as instituições de crédito com filiais no estrangeiro ou em Macau deverão publicar, para além do balanço e demonstração de resultados relativos ao território nacional, os elementos consolidados.
 
-###### Art. 4.º - 1 - Para além de outros elementos que o Banco de Portugal venha a indicar, as instituições de crédito deverão remeter-lhe, assinados por um responsável pela gestão ou administração e pelo responsável pela contabilidade:
+Art. 4.º - 1 - Para além de outros elementos que o Banco de Portugal venha a indicar, as instituições de crédito deverão remeter-lhe, assinados por um responsável pela gestão ou administração e pelo responsável pela contabilidade:
 
 1.º Até ao último dia do mês seguinte àquele a que respeita, a situação analítica mensal, acompanhada dos desenvolvimentos do crédito concedido e do desenvolvimento dos depósitos.
 
@@ -128,21 +166,21 @@ Relativamente ao mês de Dezembro de cada ano, deverá ser enviada, para além d
 
 3 - As instituições de crédito com filiais no estrangeiro ou em Macau remeterão, ainda, ao Banco de Portugal a situação analítica mensal e o balanço e contas relativos a cada um dos territórios onde desenvolvam a sua actividade, além dos elementos consolidados.
 
-###### Art. 5.º - 1 - As alterações ao presente Plano de Contas e, bem assim, a resolução de dúvidas que se levantem na execução deste diploma são da competência do Banco de Portugal, ao qual cabe ainda a emissão de instruções adequadas.
+Art. 5.º - 1 - As alterações ao presente Plano de Contas e, bem assim, a resolução de dúvidas que se levantem na execução deste diploma são da competência do Banco de Portugal, ao qual cabe ainda a emissão de instruções adequadas.
 
 2 - Caberá, igualmente, ao Banco de Portugal a emissão de instruções que repute adequadas à implantação do Plano.
 
 3 - As alterações ao presente Plano de Contas, com excepção das relativas à valorimetria, e as instruções referidas nos números anteriores serão transmitidas por meio de circulares, que se considerarão de natureza regulamentar para o efeito do disposto no artigo 89.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-###### Art. 6.º Ficam revogados o [Decreto-Lei n.º 39525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39525-1954-215700), de 2 de Fevereiro de 1954, e ainda o § 1.º do artigo 39.º, os artigos 75.º, 76.º e 77.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e o n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1977-286498), de 5 de Setembro, na parte respeitante às instituições de crédito.
+Art. 6.º Ficam revogados o [Decreto-Lei n.º 39525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39525-1954-215700), de 2 de Fevereiro de 1954, e ainda o § 1.º do artigo 39.º, os artigos 75.º, 76.º e 77.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e o n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1977-286498), de 5 de Setembro, na parte respeitante às instituições de crédito.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 17 de Novembro de 1978.**
+Promulgado em 17 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PLANO DE CONTAS PARA O SISTEMA BANCÁRIO
 
@@ -220,7 +258,7 @@ As instituições com filiais no estrangeiro ou em Macau apresentarão ainda os 
 
 Quadro de contas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf)
 
 III - Quadro e lista das contas
 
@@ -3260,7 +3298,7 @@ Estas contas são desdobradas por espécies e movimentadas a débito pelo valor 
 
 A movimentação desta conta far-se-á de acordo com o seguinte esquema:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf)
 
 5 - Acções, obrigações e quotas:
 
@@ -3318,4 +3356,4 @@ i) Os restantes elementos patrimoniais devem ser avaliados pelos respectivos val
 
 VII - Elementos contabilísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29913/02410276.pdf)

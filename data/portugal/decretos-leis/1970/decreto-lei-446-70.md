@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 221/1970, 1º Suplemento, Série I de 1970-09-23
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1356-(19) a 1356-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/22101/00190023.pdf
 entry_into_force_dates: []
@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1970-666343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc7c8bf9a9448cc3b9aa5cdce934d913c5c850eb32bd230c988d8fbca084ff1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 364f017d50b4421da10e344b2063483961513ed7e9a0f2dc51a435ce4718d811
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Acção Social
+- Criação de Serviços
+- Definição de Competências
+- Ministério da Saúde e Assistência
+- Ministério das Corporações e Previdência Social
+- Orgânica
+- Presidente
+- Secretário
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:487122:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163667:por
+  label: "Alterado o quadro de pessoal anexo pelo DEC LEI.611/72.30.12.1972.MCPS, DG.IS [302-2ºSupl] de 30.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/611-1972-163667
+  date: '1972-12-30'
+- type: amended_by
+  target: pt:dre:665127:por
+  label: "Extinta a 5.ª Subsecção da 3.ª Secção e alterada a designação da 6.ª Subsecção da 3.ª Secção do Conselho Superior\
+    \ da Acção Social, pelo DEC LEI.587/72.30.12.1972.MOP, DG.IS [302] de 30.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/587-1972-665127
+  date: '1972-12-30'
+- type: amended_by
+  target: pt:dre:471525:por
+  label: "Extinto o Conselho Superior da Acção Social, pelo DEC LEI.599/74.07.11.1974.MT, DG.IS [259] de 07.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/599-1974-471525
+  date: '1974-11-07'
+- type: amended_by
+  target: pt:dre:487122:por
+  label: "Efectivada a extinção, determinada pelo Dec Lei 599/74, de 07-Nov, do Conselho Superior de Acção Social, pelo DEC\
+    \ LEI.83/91.20.02.1991.MESS, DR.IS-A [42] de 20.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1991-487122
+  date: '1991-02-20'
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418072:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147225:por
+  label: "Rectificado o preâmbulo, o nº2 do art. 1º, o nº2 do art. 6º e o nº1 do art. 8º do presente diploma, pela RECT.DD413.18.11.1970.PC,\
+    \ DG.IS [268] de 18.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-147225
+  date: '1970-11-18'
+- type: corrected_by
+  target: pt:dre:644678:por
+  label: "Rectificados os arts. 8º e 16º pela RECT.DD444.21.05.1971.PC, DG.IS [119] de 21.05.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-644678
+  date: '1971-05-21'
+- type: repealed_by
+  target: pt:dre:278929:por
+  label: "Revogada a al. c) do nº1 do art. 15º pelo DEC LEI.425/77.11.10.1977.MAS, DR.IS [235] de 11.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/425-1977-278929
+  date: '1977-10-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:17Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +203,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado o Conselho Superior da Acção Social.
+Artigo 1.º - 1. É criado o Conselho Superior da Acção Social.
 
 2. Ao Conselho caberá a coordenação, no âmbito dos Ministérios das Corporações e Previdência Social e da Saúde e Assistência, das actividades de execução da política social e o estudo dos problemas a estes inerentes.
 
-###### Art. 2.º O Conselho Superior da Acção Social compreende as seguintes secções e subsecções:
+Art. 2.º O Conselho Superior da Acção Social compreende as seguintes secções e subsecções:
 
 a) Secção Permanente;
 
@@ -176,7 +243,7 @@ d) 3.ª Secção - Promoção e segurança social:
 
 6.ª Subsecção - Serviço social e desenvolvimento comunitário.
 
-###### Art. 3.º - 1. A secção Permanente exercerá as funções de coordenação atribuídas ao Conselho, incumbindo-lhe dar os pareceres que forem especialmente determinados pelos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
+Art. 3.º - 1. A secção Permanente exercerá as funções de coordenação atribuídas ao Conselho, incumbindo-lhe dar os pareceres que forem especialmente determinados pelos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
 
 2. Compete, em especial, às restantes secções:
 
@@ -184,7 +251,7 @@ a) Emitir pareceres fundamentados sobre todas as questões que, por determinaç�
 
 b) Proceder ao estudo sistemático das questões que interessam ao desenvolvimento das políticas do trabalho e emprego, da saúde e da promoção e segurança social, em todos os seus aspectos, propondo as medidas julgadas convenientes.
 
-###### Art. 4.º O Conselho Superior da Acção Social é constituído por:
+Art. 4.º O Conselho Superior da Acção Social é constituído por:
 
 a) Um presidente;
 
@@ -196,7 +263,7 @@ d) Os vogais das secções referidas nos artigos 7.º e 8.º;
 
 e) Um secretário sem voto.
 
-###### Art. 5.º - 1. O presidente do Conselho Superior da Acção Social será nomeado por despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
+Art. 5.º - 1. O presidente do Conselho Superior da Acção Social será nomeado por despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
 
 2. Serão providos pelos Ministros das Corporações e Previdência Social e da Saúde e Assistência:
 
@@ -210,13 +277,13 @@ c) O lugar de secretário, em funcionário dos quadros dos dois Ministérios com
 
 4. Os funcionários com provimento definitivo conservam essa situação quando nomeados para qualquer lugar do quadro do Conselho.
 
-###### Art. 6.º - 1. O presidente do Conselho Superior da Acção Social presidirá à secção Permanente, cabendo a presidência das demais secções aos vogais permanentes para o efeito designados por despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
+Art. 6.º - 1. O presidente do Conselho Superior da Acção Social presidirá à secção Permanente, cabendo a presidência das demais secções aos vogais permanentes para o efeito designados por despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
 
 2. Cada um dos presidentes das restantes secções será coadjuvado por três vogais adjuntos designados nos termos do número anterior.
 
 3. Os vogais permanentes designados presidentes de secção, nos termos do n.º 1, desempenharão as funções de vice-presidentes do Conselho.
 
-###### Art. 7.º A secção Permanente será constituída pelo presidente e pelos seguintes vogais:
+Art. 7.º A secção Permanente será constituída pelo presidente e pelos seguintes vogais:
 
 a) Os vogais permanentes em serviço no Conselho;
 
@@ -226,7 +293,7 @@ c) O inspector-geral dos Tribunais do Trabalho;
 
 d) O vice-presidente da Junta da Acção Social.
 
-###### Art. 8.º - 1. As secções referidas no n.º 2 do artigo 3.º são constituídas, além dos respectivos presidentes e vogais adjuntos, pelos seguintes vogais:
+Art. 8.º - 1. As secções referidas no n.º 2 do artigo 3.º são constituídas, além dos respectivos presidentes e vogais adjuntos, pelos seguintes vogais:
 
 1.ª Secção:
 
@@ -294,17 +361,17 @@ n) Três individualidades de reconhecida competência.
 
 2. A distribuição dos vogais pelas diferentes subsecções é da competência do presidente, sob proposta dos respectivos vice-presidentes.
 
-###### Art. 9.º - 1. O Conselho funciona por secções e subsecções, sendo permitida a reunião conjunta de duas ou mais secções ou subsecções.
+Art. 9.º - 1. O Conselho funciona por secções e subsecções, sendo permitida a reunião conjunta de duas ou mais secções ou subsecções.
 
 2. Será afecto à secção Permanente o tratamento dos assuntos que interessem a todas as secções do Conselho.
 
 3. A apreciação de assuntos cujo estudo se não enquadre em qualquer das secções poderá ser confiada a grupos de trabalho eventuais, para o efeito designados pelo presidente, podendo neles tomar parte vogais de várias secções.
 
-###### Art. 10.º - 1. Os directores-gerais, os directores dos Gabinetes de Planeamento, o inspector-geral dos Tribunais do Trabalho, o provedor da Santa Casa da Misericórdia de Lisboa, o vice-presidente da Junta da Acção Social e o director do Fundo de Desenvolvimento da Mão-de-Obra poderão fazer-se substituir ou acompanhar nas sessões de trabalho da 1.ª, 2.ª e 3.ª Secções do Conselho por funcionários superiores dos respectivos departamentos.
+Art. 10.º - 1. Os directores-gerais, os directores dos Gabinetes de Planeamento, o inspector-geral dos Tribunais do Trabalho, o provedor da Santa Casa da Misericórdia de Lisboa, o vice-presidente da Junta da Acção Social e o director do Fundo de Desenvolvimento da Mão-de-Obra poderão fazer-se substituir ou acompanhar nas sessões de trabalho da 1.ª, 2.ª e 3.ª Secções do Conselho por funcionários superiores dos respectivos departamentos.
 
 2. Os Ministros das Corporações e Previdência Social e da Saúde e Assistência poderão autorizar que sejam agregados temporàriamente a qualquer das secções ou subsecções, como vogais extraordinários com direito a voto, os vogais permanentes em serviço no Conselho, bem como quaisquer funcionários ou outras pessoas com especial competência nos assuntos a tratar.
 
-###### Art. 11.º - 1. A designação dos vogais das secções, representantes dos Ministérios das Finanças, Negócios Estrangeiros, Obras Públicas, Ultramar, Educação Nacional e Economia, cabe nos respectivos Ministros.
+Art. 11.º - 1. A designação dos vogais das secções, representantes dos Ministérios das Finanças, Negócios Estrangeiros, Obras Públicas, Ultramar, Educação Nacional e Economia, cabe nos respectivos Ministros.
 
 2. O vogal representante das instituições de previdência dos servidores do Estado será designado pelo Ministro das Finanças.
 
@@ -312,7 +379,7 @@ n) Três individualidades de reconhecida competência.
 
 4. Serão efectuados nos termos do n.º 2 do artigo 5.º as designações dos vogais que hajam de recair em individualidades de reconhecida competência.
 
-###### Art. 12.º - 1. O presidente, os vogais permanentes, os vogais adjuntos e o secretário terão os vencimentos previstos no quadro anexo ao presente diploma.
+Art. 12.º - 1. O presidente, os vogais permanentes, os vogais adjuntos e o secretário terão os vencimentos previstos no quadro anexo ao presente diploma.
 
 2. Os restantes vogais têm direito a senhas de presença e, quando não residam em Lisboa, a abono de transportes e ajudas de custo.
 
@@ -320,11 +387,11 @@ n) Três individualidades de reconhecida competência.
 
 4. Aos vogais que forem encarregados de proceder a inquéritos ou estudos fora das sessões do Conselho poderá ser atribuída uma remuneração especial, por despacho ministerial.
 
-###### Art. 13.º O serviço de expediente e arquivo do Conselho será executado, sob a direcção do secretário, por uma secretaria, à qual fica afecto o pessoal do quadro anexo.
+Art. 13.º O serviço de expediente e arquivo do Conselho será executado, sob a direcção do secretário, por uma secretaria, à qual fica afecto o pessoal do quadro anexo.
 
-###### Art. 14.º No provimento dos cargos previstos no quadro anexo observar-se-ão as disposições aplicáveis do Regulamento do Instituto Nacional do Trabalho e Previdência e do Regulamento do Ministério da Saúde e Assistência em tudo o que não estiver expressamente determinado no presente diploma.
+Art. 14.º No provimento dos cargos previstos no quadro anexo observar-se-ão as disposições aplicáveis do Regulamento do Instituto Nacional do Trabalho e Previdência e do Regulamento do Ministério da Saúde e Assistência em tudo o que não estiver expressamente determinado no presente diploma.
 
-###### Art. 15.º - 1. Os Ministros das Finanças e das Corporações e Previdência Social determinarão, em cada ano, a importância com que hão-de entrar em receita do Estado para custeio de parte dos encargos emergentes da execução do presente diploma:
+Art. 15.º - 1. Os Ministros das Finanças e das Corporações e Previdência Social determinarão, em cada ano, a importância com que hão-de entrar em receita do Estado para custeio de parte dos encargos emergentes da execução do presente diploma:
 
 a) O Fundo das Casas Económicas, previsto no artigo 6.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933;
 
@@ -336,7 +403,7 @@ d) O Fundo de Desenvolvimento da Mão-de-Obra, previsto no artigo 9.º do [Decre
 
 2. A importância total fixada nos termos do n.º 1 será rateada pelos Fundos a que se refere por despacho do Ministro das Corporações e Previdência Social, que fará remeter nota discriminativa à Direcção-Geral da Contabilidade Pública.
 
-###### Art. 16.º - 1. Passam para o Conselho Superior da Acção Social as atribuições cometidas por lei aos Conselhos Superiores da Previdência e da Habitação Económica, de Higiene e Assistência Social e da Saúde e Assistência, bem como ao Conselho Coordenador do Ministério da Saúde e Assistência.
+Art. 16.º - 1. Passam para o Conselho Superior da Acção Social as atribuições cometidas por lei aos Conselhos Superiores da Previdência e da Habitação Económica, de Higiene e Assistência Social e da Saúde e Assistência, bem como ao Conselho Coordenador do Ministério da Saúde e Assistência.
 
 2. A competência atribuída por lei ao vice-presidente do Conselho Superior da Previdência e da Habitação Económica passa para o presidente do Conselho Superior da Acção Social, que a poderá delegar no presidente da 3.ª Secção.
 
@@ -344,22 +411,22 @@ d) O Fundo de Desenvolvimento da Mão-de-Obra, previsto no artigo 9.º do [Decre
 
 4. São transferidos para o Conselho Superior da Acção Social os bens dos órgãos referidos no número anterior.
 
-###### Art. 17.º Os Ministros das Corporações e Previdência Social e da Saúde e Assistência colocarão os actuais funcionários dos Conselhos Superiores da Previdência e da Habitação Económica e de Higiene e Assistência Social nos lugares do quadro anexo, sem prejuízo das suas categorias como efectivos e sem dependência de quaisquer outras formalidades além da publicação da respectiva relação nominal no Diário do Governo.
+Art. 17.º Os Ministros das Corporações e Previdência Social e da Saúde e Assistência colocarão os actuais funcionários dos Conselhos Superiores da Previdência e da Habitação Económica e de Higiene e Assistência Social nos lugares do quadro anexo, sem prejuízo das suas categorias como efectivos e sem dependência de quaisquer outras formalidades além da publicação da respectiva relação nominal no Diário do Governo.
 
-###### Art. 18.º Para efeitos de natureza orçamental deverá considerar-se o Conselho Superior da Acção Social na dependência do Ministério das Corporações e Previdência Social.
+Art. 18.º Para efeitos de natureza orçamental deverá considerar-se o Conselho Superior da Acção Social na dependência do Ministério das Corporações e Previdência Social.
 
-###### Art. 19.º O regulamento do presente diploma será aprovado por portaria dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
+Art. 19.º O regulamento do presente diploma será aprovado por portaria dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Setembro de 1970.**
+Promulgado em 16 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Pessoal e vencimentos do Conselho Superior da Acção Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/22101/00190023.pdf))](https://files.diariodarepublica.pt/1s/1970/09/22101/00190023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/22101/00190023.pdf)
 
 Ministérios das Corporações e Previdência Social e da Saúde e Assistência, 16 de Setembro de 1970. - O Ministro das Corporações e Previdência Social e da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

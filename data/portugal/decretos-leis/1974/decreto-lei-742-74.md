@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30000/16241625.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/742-1974-461430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b47773614088c80b6d8fbb935c5a3ea27dd1837e565c6f5a0de886c67721a51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33156f97c94c1b7723b098fad2cd2a232d86430e4ec1d7e7ac3e60f2d87c21bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Contabilidade Pública
+- Direcção Geral da Contabilidade Pública
+- Gestão Administrativa
+- Gestão Financeira
+- Gestão Orçamental
+- Organismo Autónomo
+- Regime Jurídico
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:430819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235955:por
+  label: "Alterado para 31.01.1975, o prazo a que se refere o nº3 do art. 2º do presente diploma, pelo DEC LEI.809/74.31.12.1974.MF,\
+    \ DG.IS [303-7ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/809-1974-235955
+  date: '1974-12-31'
+- type: amended_by
+  target: pt:dre:355332:por
+  label: "Suspenso até ulterior revisão a execução do presente diploma pelo DEC LEI.768/75.31.12.1975.MF, DG.IS [300-5ºSupl]\
+    \ de 31.12.1975\075\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/768-1975-355332
+  date: '1975-12-31'
+- type: cites
+  target: pt:dre:642729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430819:por
+  label: "Revogado pelo DEC LEI.585/76.22.07.1976.MF, DR.IS [170] de 22.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/585-1976-430819
+  date: '1976-07-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:00Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +126,9 @@ Neste sentido, estabelecem-se no presente diploma disposições tendentes a asse
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A actividade financeira dos fundos autónomos da Administração Central e de outros departamentos paralelos dotados de autonomia administrativa e financeira fica sujeita ao regime geral estabelecido no presente diploma, relativamente à organização dos seus orçamentos privativos e à prestação e publicidade das contas de gerência.
+Artigo 1.º A actividade financeira dos fundos autónomos da Administração Central e de outros departamentos paralelos dotados de autonomia administrativa e financeira fica sujeita ao regime geral estabelecido no presente diploma, relativamente à organização dos seus orçamentos privativos e à prestação e publicidade das contas de gerência.
 
-###### Art. 2.º - 1. Os orçamentos privativos, quer ordinários, quer suplementares, das entidades a que se refere o artigo 1.º serão aprovados pelo Ministro da pasta respectiva e pelo Ministro das Finanças, devendo na sua organização ser observada a classificação orçamental instituída pelo [Decreto-Lei n.º 305/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1971-642729), de 15 de Julho.
+Art. 2.º - 1. Os orçamentos privativos, quer ordinários, quer suplementares, das entidades a que se refere o artigo 1.º serão aprovados pelo Ministro da pasta respectiva e pelo Ministro das Finanças, devendo na sua organização ser observada a classificação orçamental instituída pelo [Decreto-Lei n.º 305/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1971-642729), de 15 de Julho.
 
 2. Após a aprovação pelo Ministro da pasta respectiva, deverão os orçamentos ser remetidos, em duplicado, à Direcção-Geral da Contabilidade Pública, que, com o seu parecer, os submeterá à aprovação do Ministro das Finanças e promoverá a sua inclusão na parte complementar do Orçamento Geral do Estado.
 
@@ -105,31 +136,31 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 4. Os organismos abrangidos pelo presente diploma poderão organizar até três orçamentos suplementares.
 
-###### Art. 3.º - 1. As receitas próprias das entidades a que se refere o artigo 1.º serão entregues nos cofres do Tesouro como rendimentos do Estado, mediante guias passadas pelas mesmas entidades e escrituradas em rubricas da parte complementar do Orçamento Geral do Estado.
+Art. 3.º - 1. As receitas próprias das entidades a que se refere o artigo 1.º serão entregues nos cofres do Tesouro como rendimentos do Estado, mediante guias passadas pelas mesmas entidades e escrituradas em rubricas da parte complementar do Orçamento Geral do Estado.
 
 2. Um exemplar da guia de receita, averbado do pagamento, deverá ser remetido à delegação da Direcção-Geral da Contabilidade Pública junto do respectivo Ministério.
 
-###### Art. 4.º As despesas das entidades abrangidas pelo presente diploma serão pagas através de dotações para esse efeito inscritas na parte complementar do Orçamento Geral do Estado e a sua realização será sujeita às normas de autorização aplicáveis nos termos da regulamentação da contabilidade pública.
+Art. 4.º As despesas das entidades abrangidas pelo presente diploma serão pagas através de dotações para esse efeito inscritas na parte complementar do Orçamento Geral do Estado e a sua realização será sujeita às normas de autorização aplicáveis nos termos da regulamentação da contabilidade pública.
 
-###### Art. 5.º - 1. As contas de gerência das entidades referidas no artigo 1.º, depois de aprovadas, serão remetidas para julgamento ao Tribunal de Contas até 30 de Abril do ano seguinte àquele a que respeitam e publicadas de forma resumida no Diário do Governo, 3.ª série.
+Art. 5.º - 1. As contas de gerência das entidades referidas no artigo 1.º, depois de aprovadas, serão remetidas para julgamento ao Tribunal de Contas até 30 de Abril do ano seguinte àquele a que respeitam e publicadas de forma resumida no Diário do Governo, 3.ª série.
 
 2. O prazo a que se refere o número anterior poderá ser prorrogado em casos justificáveis mediante despacho do Ministro das Finanças.
 
-###### Art. 6.º - 1. As disposições do presente decreto-lei começarão a ser aplicadas, com referência aos orçamentos de 1975, aos organismos constantes do mapa anexo, bem como às entidades cujas receitas e despesas foram inscritas nos capítulos de «Contas de ordem» do Orçamento Geral do Estado para 1974.
+Art. 6.º - 1. As disposições do presente decreto-lei começarão a ser aplicadas, com referência aos orçamentos de 1975, aos organismos constantes do mapa anexo, bem como às entidades cujas receitas e despesas foram inscritas nos capítulos de «Contas de ordem» do Orçamento Geral do Estado para 1974.
 
 2. Por despacho do Conselho de Ministros serão indicados, com referência aos orçamentos dos anos seguintes, os serviços que irão sendo abrangidos pelo pelo presente diploma.
 
-###### Art. 7.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Ministro de que depende a entidade interessada.
+Art. 7.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Ministro de que depende a entidade interessada.
 
-###### Art. 8.º Ficam revogadas as disposições gerais e especiais que contrariem os preceitos contidos no presente decreto-lei.
+Art. 8.º Ficam revogadas as disposições gerais e especiais que contrariem os preceitos contidos no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 19 de Dezembro de 1974.**
+Promulgado em 19 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa anexo ao Decreto-Lei n.º 742/74, de 27 de Dezembro
 
@@ -169,4 +200,4 @@ Fundo de Socorro Social;
 
 Fundo de Compensação Hospitalar.
 
-**O Ministro das Finanças, José da Silva Lopes.**
+O Ministro das Finanças, José da Silva Lopes.

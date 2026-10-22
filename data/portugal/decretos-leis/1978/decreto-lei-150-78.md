@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1978-295156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 279ccd5ff00aa9bc33063781975dfb1f2196aff4554e7a4d0d181dfadc99243f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb7cb9ffe6597c76bb89d3521d0a76468ca4b1e4da6d7d6affbe6ff77db5cb93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Património
+- Código do Processo Civil
+- Comércio
+- Conselho de Ministros
+- Empresário
+- Falência
+- Ministério Público
+- Pessoa Coletiva
+- Pessoa Singular
+- Processo Judicial
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:379555:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:22Z'
   warnings: []
   errors: []
 ---
@@ -113,23 +140,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Conselho de Ministros, tendo em atenção a situação patrimonial da respectiva empresa, pode determinar que o Ministério Público requeira a declaração de falência de comerciante em nome individual ou de sociedade comercial com base em qualquer dos fundamentos previstos no artigo 1174.º do Código de Processo Civil.
+Artigo 1.º - 1 - O Conselho de Ministros, tendo em atenção a situação patrimonial da respectiva empresa, pode determinar que o Ministério Público requeira a declaração de falência de comerciante em nome individual ou de sociedade comercial com base em qualquer dos fundamentos previstos no artigo 1174.º do Código de Processo Civil.
 
 2 - Não é admissível, neste caso, concordata, acordo de credores ou qualquer outro meio preventivo ou suspensivo da declaração de falência.
 
 3 - O Conselho de Ministros pode deliberar, desde logo, a reserva para o Estado de determinados bens e direitos da empresa.
 
-###### Art. 2.º - 1 - O Ministério Público requererá a declaração de falência nos cinco dias subsequentes à comunicação feita à Procuradoria-Geral da República da deliberação do Conselho de Ministros, para o que, juntamente com esta, devem ser-lhe enviados os elementos necessários.
+Art. 2.º - 1 - O Ministério Público requererá a declaração de falência nos cinco dias subsequentes à comunicação feita à Procuradoria-Geral da República da deliberação do Conselho de Ministros, para o que, juntamente com esta, devem ser-lhe enviados os elementos necessários.
 
 2 - Quando se verifique a hipótese do n.º 3 do artigo anterior, a reserva de bens e direitos para o Estado será declarada no requerimento da falência, ao qual se juntará a respectiva relação. Se esta não puder ser junta desde logo, será apresentada em momento posterior, por iniciativa do Ministério Público, sob indicação do Ministro responsável pelo sector da actividade do falido.
 
-###### Art. 3.º - 1 - Requerida a declaração da falência em conformidade com o disposto no artigo 1.º, não se procederá à citação do devedor, devendo designar-se logo dia para o julgamento, o qual deverá ter lugar nos oito dias seguintes ao recebimento da petição.
+Art. 3.º - 1 - Requerida a declaração da falência em conformidade com o disposto no artigo 1.º, não se procederá à citação do devedor, devendo designar-se logo dia para o julgamento, o qual deverá ter lugar nos oito dias seguintes ao recebimento da petição.
 
 2 - Logo após a apresentação do requerimento para a declaração de falência, tem lugar a apreensão de bens, nos termos do artigo 1205.º do Código de Processo Civil, apreensão que ficará sem efeito se a falência não vier a ser declarada.
 
 3 - O recurso da decisão declaratória da falência tem efeito meramente devolutivo e os embargos previstos no artigo 1183.º do Código de Processo Civil não suspendem os termos do processo; não obstam, nomeadamente, à efectivação da transmissão dos bens e direitos reservados para o Estado.
 
-###### Art. 4.º - 1 - A titularidade dos bens e direitos que tenham sido objecto de reserva, nos termos deste diploma, transfere-se para o Estado por mero efeito da sentença de declaração da falência, ou do equivalente despacho do juiz quando a reserva tenha sido requerida posteriormente.
+Art. 4.º - 1 - A titularidade dos bens e direitos que tenham sido objecto de reserva, nos termos deste diploma, transfere-se para o Estado por mero efeito da sentença de declaração da falência, ou do equivalente despacho do juiz quando a reserva tenha sido requerida posteriormente.
 
 2 - A aquisição de bens e direitos pelo Estado nos termos deste diploma está dispensada de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, sendo isenta do pagamento de quaisquer emolumentos.
 
@@ -137,25 +164,25 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A avaliação será feita de acordo com as disposições dos artigos 603.º a 611.º do Código de Processo Civil, cabendo ao Ministro responsável pelo sector de actividade do falido a nomeação de louvados por parte do Estado e ao administrador da falência a nomeação de louvados por parte da massa falida.
 
-###### Art. 5.º O Estado, pelo Ministro responsável pelo sector de actividade do falido, e por requerimento ao juiz da falência, poderá adquirir quaisquer outros bens ainda não alienados da massa falida que não tenha reservado inicialmente, aplicando-se o disposto nos n.os 3 e 4 do artigo anterior.
+Art. 5.º O Estado, pelo Ministro responsável pelo sector de actividade do falido, e por requerimento ao juiz da falência, poderá adquirir quaisquer outros bens ainda não alienados da massa falida que não tenha reservado inicialmente, aplicando-se o disposto nos n.os 3 e 4 do artigo anterior.
 
-###### Art. 6.º O Estado, pelo Ministro responsável pelo sector de actividade do falido, receberá por termo nos autos os bens que tiverem sido apreendidos à data em que os adquirir, nos termos dos artigos 4.º, n.º 1, e 5.º, e poderá tomar posse administrativa dos que ainda não tiverem sido apreendidos.
+Art. 6.º O Estado, pelo Ministro responsável pelo sector de actividade do falido, receberá por termo nos autos os bens que tiverem sido apreendidos à data em que os adquirir, nos termos dos artigos 4.º, n.º 1, e 5.º, e poderá tomar posse administrativa dos que ainda não tiverem sido apreendidos.
 
-###### Art. 7.º O Estado poderá, nos termos dos preceitos anteriores, sub-rogar-se na posição jurídica do falido, resultante de actos jurídicos por este celebrados, ou em que seja parte, independentemente do consentimento do outro contratante.
+Art. 7.º O Estado poderá, nos termos dos preceitos anteriores, sub-rogar-se na posição jurídica do falido, resultante de actos jurídicos por este celebrados, ou em que seja parte, independentemente do consentimento do outro contratante.
 
-###### Art. 8.º - 1 - O Estado afectará os bens ou direitos adquiridos nos termos deste diploma a uma nova empresa, a empresa já existente ou a qualquer outro fim que tiver por conveniente.
+Art. 8.º - 1 - O Estado afectará os bens ou direitos adquiridos nos termos deste diploma a uma nova empresa, a empresa já existente ou a qualquer outro fim que tiver por conveniente.
 
 2 - O Estado, pelo Ministro responsável pelo sector de actividade do falido, poderá administrar directamente, a título transitório, os bens referidos no número anterior, nos termos aplicáveis às empresas públicas, celebrando, designadamente, contratos de trabalho, prestação de serviço, compra e venda, locação ou outros que tiver por convenientes.
 
 3 - As transmissões efectuadas nos termos do n.º 1 beneficiam da isenção estabelecida no n.º 2 do artigo 4.º
 
-###### Art. 9.º - 1 - Quando, por efeito da aquisição de bens ou direitos nos termos deste diploma, se abram novos postos de trabalho, os trabalhadores da empresa falida terão preferência, em igualdade de condições de qualificação, nas admissões que se verificarem no ano subsequente à aquisição dos bens ou direitos pelo Estado.
+Art. 9.º - 1 - Quando, por efeito da aquisição de bens ou direitos nos termos deste diploma, se abram novos postos de trabalho, os trabalhadores da empresa falida terão preferência, em igualdade de condições de qualificação, nas admissões que se verificarem no ano subsequente à aquisição dos bens ou direitos pelo Estado.
 
 2 - A admissão com contrato sem prazo poderá ser condicionada à redução da indemnização por cessação do contrato de trabalho com o falido a montante não superior aos prejuízos efectivamente sofridos pelo trabalhador, sem prejuízo de este, por acordo, poder considerar compensado pelo direito à nova relação de trabalho o seu crédito sobre a massa falida.
 
-###### Art. 10.º Os bens e direitos que o Estado tenha reservado inicialmente, nos termos dos artigos 1.º e 2.º, ou adquira nos termos do n.º 1 do artigo 4.º, não serão considerados na determinação do valor da falência, designadamente para os efeitos do artigo 8.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
+Art. 10.º Os bens e direitos que o Estado tenha reservado inicialmente, nos termos dos artigos 1.º e 2.º, ou adquira nos termos do n.º 1 do artigo 4.º, não serão considerados na determinação do valor da falência, designadamente para os efeitos do artigo 8.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
 
-###### Art. 11.º - 1 - O disposto nos artigos 3.º, 4.º e 5.º é aplicável aos processos de falência que, requeridos ao abrigo do [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro, se encontrem pendentes à data da entrada em vigor do presente diploma e, nomeadamente:
+Art. 11.º - 1 - O disposto nos artigos 3.º, 4.º e 5.º é aplicável aos processos de falência que, requeridos ao abrigo do [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro, se encontrem pendentes à data da entrada em vigor do presente diploma e, nomeadamente:
 
 a) Passará a meramente devolutivo o efeito de recursos pendentes, nos termos do n.º 3 do artigo 3.º;
 
@@ -163,16 +190,16 @@ b) Transmitir-se-á imediatamente a titularidade dos bens que o Estado tenha res
 
 2 - O preceituado nos artigos 6.º, 7.º, 8.º, 9.º e 10.º é aplicável a todos os processos de falência pendentes à data da entrada em vigor deste diploma e aos bens neles adquiridos pelo Estado.
 
-###### Art. 12.º Aos processos de falência requeridos nos termos do [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro, e do artigo 1.º deste diploma deixa de ser aplicável o disposto no [Decreto-Lei n.º 321/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1976-287658), de 12 de Novembro.
+Art. 12.º Aos processos de falência requeridos nos termos do [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro, e do artigo 1.º deste diploma deixa de ser aplicável o disposto no [Decreto-Lei n.º 321/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1976-287658), de 12 de Novembro.
 
-###### Art. 13.º Fica revogado o [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro.
+Art. 13.º Fica revogado o [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - José Dias dos Santos Pais.
 
-**Promulgado em 6 de Junho de 1978.**
+Promulgado em 6 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

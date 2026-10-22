@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12600/12141218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,188 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d95beb339e20322a073f57c9f4ed7c27fef96a3b50efad607ce2de3fd7cffef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b556153aea012f87bc1d25dfa90b45338666cb783ef6603ad1d9e96117c5528d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cisão de Empresas
+- Cooperação Interempresas
+- Empresa Privada
+- Falência
+- Fusão de Empresas
+- Gestão
+- Gestão de Empresas
+- Intervenção do Estado
+- Sociedade de Capitais Públicos
 relationships:
 - type: amended_by
   target: pt:dre:608214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430443:por
+  label: "Alterado o art. 20º e o nº 1 do art. 21º pelo Dec Lei.543/76.10.07.1976.MF, DR.IS [160] de 10.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/543-1976-430443
+  date: '1976-07-10'
+- type: amended_by
+  target: pt:dre:286497:por
+  label: "Alterado o nº3 do art. 6º pelo DEC LEI.370/77.05.09.1977.MPCE, DR.IS [205] de 05.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/370-1977-286497
+  date: '1977-09-05'
+- type: amended_by
+  target: pt:dre:485645:por
+  label: Alterado o art. 24º pelo DEC LEI.67/78.05.04.1978.MFP, DR.IS [79-Supl] de 05.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1978-485645
+  date: '1978-04-05'
+- type: amended_by
+  target: pt:dre:297001:por
+  label: Determinada a manutenção do regime previsto nos arts. 12.º, 13.º e 14.º pelo(a) Resolução n.º 119/78 - Diário da
+    República n.º 171/1978, Série I de 1978-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/119-1978-297001
+  date: '1978-07-27'
+- type: amended_by
+  target: pt:dre:297018:por
+  label: Determinada a manutenção do regime previsto nos arts. 12.º, 13.º e 14.º do presente diploma pelo(a) Resolução n.º
+    120/78 - Diário da República n.º 171/1978, Série I de 1978-07-27, nos termos do n.º 3
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/120-1978-297018
+  date: '1978-07-27'
+- type: amended_by
+  target: pt:dre:297020:por
+  label: Determinada a manutenção do regime previsto nos arts. 12.º, 13.º e 14.º do presente diploma pelo(a) Resolução n.º
+    123/78 - Diário da República n.º 171/1978, Série I de 1978-07-27, nos termos do n.º 5
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/123-1978-297020
+  date: '1978-07-27'
+- type: amended_by
+  target: pt:dre:631813:por
+  label: Mantém em vigor, até á celebração do contrato de viabilização, nos termos do n.º 3 do presente diploma, o regime
+    previsto nos arts 12.º, 13.º e 14.º e o n.º 3 do art 24.º do presente decreto lei, pelo(a) Resolução n.º 152/78 - Diário
+    da República n.º 235/1978, 1º Suplemento, Série I de 1978-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/152-1978-631813
+  date: '1978-10-12'
+- type: amended_by
+  target: pt:dre:326341:por
+  label: Mantido o regime previsto nos arts 12.º, 13.º e 14.º, até à celebração do contrato de viabilização, do presente diploma,
+    pelo(a) Resolução n.º 205/78 - Diário da República n.º 271/1978, Série I de 1978-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/205-1978-326341
+  date: '1978-11-24'
+- type: amended_by
+  target: pt:dre:326348:por
+  label: Prorrogado o prazo da intervenção do Estado na empresa A. C. - Trabalhos de Arquitectura e Construção, S. A. R. L.,
+    previsto no n.º 3 do art. 6.º do presente diploma, pelo(a) Resolução n.º 210/78 - Diário da República n.º 271/1978, Série
+    I de 1978-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/210-1978-326348
+  date: '1978-11-24'
+- type: amended_by
+  target: pt:dre:326351:por
+  label: Prorrogado o prazo da intervenção do Estado nas empresas do grupo J. Pimenta previsto no n.º 3 do art. 6.º do presente
+    diploma, pelo(a) Resolução n.º 209/78 - Diário da República n.º 271/1978, Série I de 1978-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/209-1978-326351
+  date: '1978-11-24'
+- type: amended_by
+  target: pt:dre:383655:por
+  label: "Alterado o art. 20.º do presente diploma, com a redacção conferida pelo Decreto-Lei n.º 543/76, de 10 de Julho,\
+    \ pelo DEC LEI.38/79.05.03.1979.PCM, DR.IS [53] de 05.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1979-383655
+  date: '1979-03-05'
+- type: amended_by
+  target: pt:dre:396773:por
+  label: "Mantido, nos termos do n.º 8, o regime previsto nos artigos 12.º, 13.º e 14.º do presente diploma, pela RES.229-A/79.01.08.1979.PCM,\
+    \ DR.IS [176-3ºSupl] de 01.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/229-a-1979-396773
+  date: '1979-08-01'
+- type: amended_by
+  target: pt:dre:692420:por
+  label: "Prorrogado até 30.06.1980, o prazo de vigência da disciplina dos artigos 12.º, 13.º e 14.º do presente diploma,\
+    \ previsto na alínea e) da Resolução 125/79 da PCM de 27 de Abril, pela RES.12/80.10.01.1980.PCM, DR.IS [19] de 23.01.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/12-1980-692420
+  date: '1980-01-10'
+- type: amended_by
+  target: pt:dre:679403:por
+  label: "Prorrogado o prazo de vigência da disciplina dos artigos 12.º, 13.º e 14.º, pela RES.59/80.29.01.1980.PCM, DR.IS\
+    \ [42] de 20.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/59-1980-679403
+  date: '1980-01-29'
+- type: amended_by
+  target: pt:dre:678241:por
+  label: "Prorrogado o prazo de manutenção do regime previsto nos artigos 12.º, 13.º e 14.º do presente diploma, pela RES.98/80.19.03.1980.PCM,\
+    \ DR.IS [66] de 19.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/98-1980-678241
+  date: '1980-03-19'
+- type: amended_by
+  target: pt:dre:458073:por
+  label: "Mantido nos termos do n.º 3 do artigo 24.º do presente diploma, o regime dos seus artigos 12.º, 13.º e 14.º, pela\
+    \ RES 390/80, de 24 de Novembro, DR.IS [272], durante o período estipulado no seu n.º 4.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/390-1980-458073
+  date: '1980-11-24'
+- type: amended_by
+  target: pt:dre:394550:por
+  label: "Mantido, relativamente à firma Júdice Fialho, o regime dos artigos 12.º, 13.º e 14.º pela RES.80/81.07.04.1981.PCM,\
+    \ DR.IS [80] de 21.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/80-1981-394550
+  date: '1981-04-07'
+- type: cites
+  target: pt:dre:142569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480762:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:394919:por
+  label: Revogado pelo(a) Decreto-Lei n.º 90/81 - Diário da República n.º 97/1981, Série I de 1981-04-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1981-394919
+  date: '1981-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:46Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +252,9 @@ Assim:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São revogados os Decreto-Leis n.os [660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, [222-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-b-1975-169463), de 12 de Maio, [597/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1975-312382), de 28 de Outubro, e [631/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1975-310385), de 14 de Novembro, devendo as referências a esses diplomas, feitas na lei ou em resoluções e despachos, entender-se como feitas para as correspondentes disposições do presente decreto-lei.
+Artigo 1.º São revogados os Decreto-Leis n.os [660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, [222-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-b-1975-169463), de 12 de Maio, [597/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1975-312382), de 28 de Outubro, e [631/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1975-310385), de 14 de Novembro, devendo as referências a esses diplomas, feitas na lei ou em resoluções e despachos, entender-se como feitas para as correspondentes disposições do presente decreto-lei.
 
-###### Art. 2.º - 1. O Estado só poderá intervir na gestão de empresas privadas, nos termos do presente diploma, a fim de evitar a sua dissolução ou a declaração da sua falência, desde que tal intervenção se justifique em ordem a corrigir desequilíbrios fundamentais na sua situação económico-financeira e a defender o interesse nacional.
+Art. 2.º - 1. O Estado só poderá intervir na gestão de empresas privadas, nos termos do presente diploma, a fim de evitar a sua dissolução ou a declaração da sua falência, desde que tal intervenção se justifique em ordem a corrigir desequilíbrios fundamentais na sua situação económico-financeira e a defender o interesse nacional.
 
 2. Consideram-se, nomeadamente, elementos integradores do conceito de interesse nacional referido no número anterior, os seguintes:
 
@@ -128,11 +276,11 @@ d) Exercício anormal da actividade empresarial resultante de conduta dolosa ou 
 
 e) Incumprimento de forma reiterada das obrigações da empresa para com os trabalhadores, o Estado, a previdência social e as autarquias locais.
 
-###### Art. 3.º - 1. Quando tiver fundada notícia de que se verifica qualquer das situações a que se refere o artigo anterior, o Governo, por intermédio do Ministro da tutela, ordenará a realização de um inquérito urgente, nos termos do artigo 5.º, para averiguar a real situação da empresa.
+Art. 3.º - 1. Quando tiver fundada notícia de que se verifica qualquer das situações a que se refere o artigo anterior, o Governo, por intermédio do Ministro da tutela, ordenará a realização de um inquérito urgente, nos termos do artigo 5.º, para averiguar a real situação da empresa.
 
 2. Considera-se como Ministro da tutela o responsável pelo sector em que se integre a actividade económica dominante da empresa ou o que para o efeito for expressamente mandatado pelo Conselho de Ministros.
 
-###### Art. 4.º - 1. Ocorrendo justificada urgência, e quando se verifique qualquer das situações previstas nas alíneas a) e b) do n.º 3 do artigo 2.º, poderá o Governo, após averiguação sumária mediante despacho conjunto, devidamente fundamentado, do Ministro das Finanças e do Ministro da tutela, e sem prejuízo da realização do inquérito referido no artigo 3.º, nomear um ou mais gestores para a empresa, podendo igualmente suspender provisoriamente um ou mais dos administradores ou gerentes em exercício.
+Art. 4.º - 1. Ocorrendo justificada urgência, e quando se verifique qualquer das situações previstas nas alíneas a) e b) do n.º 3 do artigo 2.º, poderá o Governo, após averiguação sumária mediante despacho conjunto, devidamente fundamentado, do Ministro das Finanças e do Ministro da tutela, e sem prejuízo da realização do inquérito referido no artigo 3.º, nomear um ou mais gestores para a empresa, podendo igualmente suspender provisoriamente um ou mais dos administradores ou gerentes em exercício.
 
 2. Os gestores nomeados terão todos os poderes estatutários e legais de administração da empresa, mas deverão actuar em estreita colaboração com o Ministério da tutela, respondendo apenas pelos seus actos, perante o Estado representado por aquele Ministério.
 
@@ -140,7 +288,7 @@ e) Incumprimento de forma reiterada das obrigações da empresa para com os trab
 
 4. O regime provisório de gestão estipulado neste artigo cessará logo que esteja concluído o inquérito previsto no artigo anterior e tenha sido adoptada qualquer das providências estabelecidas neste diploma.
 
-###### Art. 5.º - 1. Sem prejuízo da competência legalmente atribuída à Inspecção-Geral de Finanças e ao Banco de Portugal, o inquérito a que se refere o artigo 3.º será realizado por inquiridor ou inquiridores expressamente designados para o efeito pelo Ministro da tutela, podendo a escolha recair em pessoa que não seja servidor do Estado.
+Art. 5.º - 1. Sem prejuízo da competência legalmente atribuída à Inspecção-Geral de Finanças e ao Banco de Portugal, o inquérito a que se refere o artigo 3.º será realizado por inquiridor ou inquiridores expressamente designados para o efeito pelo Ministro da tutela, podendo a escolha recair em pessoa que não seja servidor do Estado.
 
 2. Os inquiridores poderão praticar todos os actos e diligências que entendam necessários para averiguar a real situação da empresa, ficando os responsáveis pela sua administração, bem como os vogais do conselho fiscal, técnico de contas respectivo e demais trabalhadores, obrigados a facultar àqueles os elementos e esclarecimentos de que carecerem.
 
@@ -148,7 +296,7 @@ e) Incumprimento de forma reiterada das obrigações da empresa para com os trab
 
 4. O inquérito a que se refere este artigo deverá estar concluído no prazo máximo de cento e vinte dias e as suas conclusões servirão de base à determinação da eventual responsabilidade civil da empresa e dos seus agentes e da responsabilidade criminal destes.
 
-###### Art. 6.º - 1. Quando através do inquérito se verificar que não está preenchido o condicionalismo descrito no artigo 2.º, poderá o Ministro da tutela adoptar uma das seguintes providências:
+Art. 6.º - 1. Quando através do inquérito se verificar que não está preenchido o condicionalismo descrito no artigo 2.º, poderá o Ministro da tutela adoptar uma das seguintes providências:
 
 a) Propor ao Ministro das Finanças a concessão de auxílio financeiro extraordinário, nos termos do artigo 7.º, ou determinar qualquer outra medida de apoio que julgar adequada;
 
@@ -160,7 +308,7 @@ b) Propor ao Conselho de Ministros que o Ministério Público, nos termos do [De
 
 4. Quando se trate de empresas em nome individual, a resolução de intervenção do Estado na administração da empresa deverá especificar o património objecto de gestão.
 
-###### Art. 7.º - 1. O auxílio financeiro extraordinário previsto no n.º 1 do artigo anterior poderá traduzir-se:
+Art. 7.º - 1. O auxílio financeiro extraordinário previsto no n.º 1 do artigo anterior poderá traduzir-se:
 
 a) Na concessão de empréstimos por instituições de crédito, com ou sem prestação de garantia por parte do Estado;
 
@@ -172,7 +320,7 @@ d) Na subscrição de obrigações eventualmente convertíveis em acções.
 
 2. Para efeitos do disposto no número anterior, o Estado poderá impor medidas de prévio saneamento económico e financeiro da empresa, designadamente mediante a realização de correcções no balanço, incluindo as relativas ao capital próprio.
 
-###### Art. 8.º - 1. A intervenção do Estado prevista no n.º 2 do artigo 6.º poderá ser acompanhada da dissolução ou suspensão de quaisquer órgãos sociais da empresa ou da exoneração ou substituição de quaisquer dos seus membros, mas o funcionamento da assembleia geral ficará, em qualquer caso, suspenso enquanto durar a intervenção, salvo se as respectivas convocatórias forem também subscritas pelos gestores nomeados pelo Estado.
+Art. 8.º - 1. A intervenção do Estado prevista no n.º 2 do artigo 6.º poderá ser acompanhada da dissolução ou suspensão de quaisquer órgãos sociais da empresa ou da exoneração ou substituição de quaisquer dos seus membros, mas o funcionamento da assembleia geral ficará, em qualquer caso, suspenso enquanto durar a intervenção, salvo se as respectivas convocatórias forem também subscritas pelos gestores nomeados pelo Estado.
 
 2. Os gestores por parte do Estado e as comissões administrativas designadas pelo Conselho de Ministros nos termos do n.º 2 do artigo 6.º assumem a plenitude dos poderes estatutários e legais de todos os órgãos sociais dissolvidos ou suspensos, com excepção da competência para a prática dos actos não respeitantes à gestão corrente das respectivas empresas, a qual ficará dependente da autorização genérica ou específica do Ministro da tutela.
 
@@ -180,17 +328,17 @@ d) Na subscrição de obrigações eventualmente convertíveis em acções.
 
 4. Os gestores por parte do Estado poderão, a todo o tempo, propor ao Ministro da tutela a suspensão dos órgãos sociais da empresa e a sua substituição por uma comissão administrativa, justificando a proposta.
 
-###### Art. 9.º A designação dos gestores por parte do Estado ou dos membros da comissão administrativa que podem obrigar a empresa perante terceiros constará de acta, cuja exibição será prova bastante para efeitos notariais.
+Art. 9.º A designação dos gestores por parte do Estado ou dos membros da comissão administrativa que podem obrigar a empresa perante terceiros constará de acta, cuja exibição será prova bastante para efeitos notariais.
 
-###### Art. 10.º Os gestores por parte do Estado e os membros das comissões administrativas terão os poderes, os direitos e os deveres fixados no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, além dos que decorrem do presente diploma, e ficarão sujeitos às incompatibilidades e inibições aí prescritas e no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro.
+Art. 10.º Os gestores por parte do Estado e os membros das comissões administrativas terão os poderes, os direitos e os deveres fixados no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, além dos que decorrem do presente diploma, e ficarão sujeitos às incompatibilidades e inibições aí prescritas e no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro.
 
 2. Os representantes do Estado nomeados nos termos do presente decreto-lei e dos Decretos-Leis n.os 40883, de 29 de Outubro de 1956, 44722, de 24 de Fevereiro, [660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, e [597/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1975-312382), de 28 de Outubro, só serão responsáveis perante o Estado, excepto nos casos em que haja dolo. A responsabilidade do Estado emergente de actos dos seus representantes será, nos termos gerais, a dos comitentes pelos actos dos seus comitidos.
 
-###### Art. 11.º - 1. As remunerações dos gestores por parte do Estado e dos membros das comissões administrativas serão fixadas por despacho conjunto dos Ministros da tutela e das Finanças, observados os limites estabelecidos do [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo das respectivas empresas.
+Art. 11.º - 1. As remunerações dos gestores por parte do Estado e dos membros das comissões administrativas serão fixadas por despacho conjunto dos Ministros da tutela e das Finanças, observados os limites estabelecidos do [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo das respectivas empresas.
 
 2. Os gestores por parte do Estado e os membros das comissões administrativas poderão ser nomeados para simultaneamente superintender em mais de uma empresa, sem direito a acumulação de remunerações, e desde que se verifique que as empresas a gerir conjuntamente funcionavam como uma única unidade económica, ou que, explorando o mesmo ramo de actividade, existem vantagens na sua gestão integrada.
 
-###### Art. 12.º - 1. Os gestores por parte do Estado ou as comissões administrativas poderão requerer ao juízo respectivo a suspensão de qualquer acção executiva contra empresas objecto de intervenção do Estado que vise o pagamento de dívidas contraídas anteriormente à data do início da intervenção ou emergentes de actos anteriores à mesma data.
+Art. 12.º - 1. Os gestores por parte do Estado ou as comissões administrativas poderão requerer ao juízo respectivo a suspensão de qualquer acção executiva contra empresas objecto de intervenção do Estado que vise o pagamento de dívidas contraídas anteriormente à data do início da intervenção ou emergentes de actos anteriores à mesma data.
 
 2. A suspensão referida no número anterior será requerida por tempo limitado ou por todo o tempo que durar a intervenção, e será sempre deferida.
 
@@ -200,41 +348,41 @@ d) Na subscrição de obrigações eventualmente convertíveis em acções.
 
 5. A letras e livranças subscritas anteriormente à data da intervenção, por cujo pagamento sejam responsáveis as empresas objecto da mesma intervenção do Estado, consideram-se não exigíveis nas datas dos respectivos vencimentos, cabendo aos portadores daquelas o direito de exigir a sua substituição.
 
-###### Art. 13.º O disposto nos n.os 1 e 3 do artigo anterior aplica-se, igualmente, aos procedimentos cautelares preparatórios incidentes de acções, desde que afectem a correcta gestão patrimonial da empresa.
+Art. 13.º O disposto nos n.os 1 e 3 do artigo anterior aplica-se, igualmente, aos procedimentos cautelares preparatórios incidentes de acções, desde que afectem a correcta gestão patrimonial da empresa.
 
-###### Art. 14.º Enquanto não se verificar o termo da intervenção do Estado, não poderá ser requerida nem decretada a falência ou insolvência das respectivas empresas, nem estas poderão ser dissolvidas ou liquidadas.
+Art. 14.º Enquanto não se verificar o termo da intervenção do Estado, não poderá ser requerida nem decretada a falência ou insolvência das respectivas empresas, nem estas poderão ser dissolvidas ou liquidadas.
 
-###### Art. 15.º - 1. Os créditos do Estado sobre as empresas em que tenha intervindo, em primeiro lugar, os de terceiros sobre as mesmas empresas garantidos pelo Estado, em segundo lugar, e os das instituições de crédito nacionalizadas, em terceiro lugar, os dois últimos quando posteriores à intervenção, gozam de privilégio mobiliário geral sobre todos os móveis existentes no património da empresa devedora e de hipoteca legal sobre todos os bens imóveis existentes no mesmo património, a qual deverá ser registada.
+Art. 15.º - 1. Os créditos do Estado sobre as empresas em que tenha intervindo, em primeiro lugar, os de terceiros sobre as mesmas empresas garantidos pelo Estado, em segundo lugar, e os das instituições de crédito nacionalizadas, em terceiro lugar, os dois últimos quando posteriores à intervenção, gozam de privilégio mobiliário geral sobre todos os móveis existentes no património da empresa devedora e de hipoteca legal sobre todos os bens imóveis existentes no mesmo património, a qual deverá ser registada.
 
 2. O disposto no número anterior não prejudica os privilégios imobiliários especiais de que gozam os créditos do Estado nos termos da lei vigente.
 
-###### Art. 16.º - 1. Nas acções em que figurar como autora ou como ré uma empresa objecto de intervenção do Estado ou que beneficiou de auxílio financeiro extraordinário, poderá esta invocar o benefício da assistência judiciária, na modalidade de dispensa total ou parcial de preparos e de prévio pagamento de custas, nos termos da [Lei n.º 7/70](https://diariodarepublica.pt/dr/detalhe/lei/7-1970-142569), de 9 de Junho, e legislação complementar.
+Art. 16.º - 1. Nas acções em que figurar como autora ou como ré uma empresa objecto de intervenção do Estado ou que beneficiou de auxílio financeiro extraordinário, poderá esta invocar o benefício da assistência judiciária, na modalidade de dispensa total ou parcial de preparos e de prévio pagamento de custas, nos termos da [Lei n.º 7/70](https://diariodarepublica.pt/dr/detalhe/lei/7-1970-142569), de 9 de Junho, e legislação complementar.
 
 2. Na hipótese prevista no número anterior, o benefício será concedido desde que a empresa apresente prova documental de intervenção do Estado ou de auxílio financeiro extraordinário.
 
-###### Art. 17.º - 1. Fica proibida a distribuição de lucros ou juros de suprimentos em empresas objecto de intervenção do Estado, enquanto durar aquela intervenção.
+Art. 17.º - 1. Fica proibida a distribuição de lucros ou juros de suprimentos em empresas objecto de intervenção do Estado, enquanto durar aquela intervenção.
 
 2. A distribuição de lucros ou dividendos de empresas que beneficiam de auxílio financeiro extraordinário, enquanto não tiver sido integralmente liquidado o montante daquele auxílio, depende de autorização do Ministro da tutela.
 
-###### Art. 18.º Os salários e demais remunerações dos trabalhadores, bem como a remuneração dos membros dos órgãos sociais da empresa objecto de intervenção ou que beneficiou de auxílio financeiro extraordinário, poderão não sofrer qualquer aumento durante o períido de doze meses a contar da data da intervenção, podendo, inclusivamente, ser reduzidos por decisão do Ministro da tutela, após audição da comissão de trabalhadores e da organização sindical, quando o impuser a situação económica e financeira da empresa.
+Art. 18.º Os salários e demais remunerações dos trabalhadores, bem como a remuneração dos membros dos órgãos sociais da empresa objecto de intervenção ou que beneficiou de auxílio financeiro extraordinário, poderão não sofrer qualquer aumento durante o períido de doze meses a contar da data da intervenção, podendo, inclusivamente, ser reduzidos por decisão do Ministro da tutela, após audição da comissão de trabalhadores e da organização sindical, quando o impuser a situação económica e financeira da empresa.
 
-###### Art. 19.º As entidades designadas para a gestão das empresas a que se refere o presente diploma deverão submeter ao Ministro das Finanças e ao da tutela um plano financeiro global, bem como um plano de cumprimento das obrigações e satisfação de encargos das respectivas empresas para com terceiros.
+Art. 19.º As entidades designadas para a gestão das empresas a que se refere o presente diploma deverão submeter ao Ministro das Finanças e ao da tutela um plano financeiro global, bem como um plano de cumprimento das obrigações e satisfação de encargos das respectivas empresas para com terceiros.
 
-###### Art. 20.º - 1. A cessação da intervenção deverá ser precedida das medidas que forem necessárias ao saneamento económico-financeiro da empresa, incluindo, nomeadamente, a sua transformação em empresa de economia mista ou toda e qualquer operação de fusão, cisão, transformação, aumento de capital, emissão de obrigações ou outras que se tornem necessárias para aquele efeito.
+Art. 20.º - 1. A cessação da intervenção deverá ser precedida das medidas que forem necessárias ao saneamento económico-financeiro da empresa, incluindo, nomeadamente, a sua transformação em empresa de economia mista ou toda e qualquer operação de fusão, cisão, transformação, aumento de capital, emissão de obrigações ou outras que se tornem necessárias para aquele efeito.
 
 2. Quando não seja possível executar as medidas referidas no número anterior antes da cessação da intervenção, serão as mesmas objecto de disposição precisa na resolução que determinar a cessação da intervenção na empresa, fixando-se prazo para o seu cumprimento obrigatório, sob pena de se enquadrar no regime previsto na alínea b) do n.º 1 do artigo 24.º, e de os seus titulares ou gerentes incorrerem em responsabilidades pelas perdas e danos emergentes desse incumprimento.
 
-###### Art. 21.º - 1. No caso de cisão, associação, fusão ou transformação de empresas objecto de intervenção do Estado, a aprovação dos respectivos instrumentos será da competência do Conselho de Ministros, sob proposta dos Ministros da tutela e das Finanças.
+Art. 21.º - 1. No caso de cisão, associação, fusão ou transformação de empresas objecto de intervenção do Estado, a aprovação dos respectivos instrumentos será da competência do Conselho de Ministros, sob proposta dos Ministros da tutela e das Finanças.
 
 2. A aprovação dos instrumentos referidos no número anterior dispensa o cumprimento das disposições e formalidades previstas na lei ou nos estatutos da empresa, à excepção das fiscais e de registo.
 
 3. Os instrumentos e as resoluções do Conselho de Ministros que os aprovarem serão publicados na série do Diário da República.
 
-###### Art. 22.º Sem prejuízo do disposto no artigo anterior, para efeitos de celebração de escrituras públicas que formalizem alterações dos estatutos de empresas objecto de intervenção do Estado ou que beneficiaram de auxílio financeiro extraordinário é documento bastante certidão ou fotocópia autenticada da deliberação do órgão administrativo estatutário ou da comissão administrativa nomeada nos termos do n.º 2 do artigo 6.º
+Art. 22.º Sem prejuízo do disposto no artigo anterior, para efeitos de celebração de escrituras públicas que formalizem alterações dos estatutos de empresas objecto de intervenção do Estado ou que beneficiaram de auxílio financeiro extraordinário é documento bastante certidão ou fotocópia autenticada da deliberação do órgão administrativo estatutário ou da comissão administrativa nomeada nos termos do n.º 2 do artigo 6.º
 
-###### Art. 23.º Quer no acto da intervenção, quer no decurso ou no acto de cessação da mesma, poderão, por deliberação do Conselho de Ministros, ser suspensos ou extintos quaisquer privilégios estatutários atribuídos a acções, obrigações ou partes sociais, desde que julgados injustificados, independentemente de alteração dos respectivos estatutos.
+Art. 23.º Quer no acto da intervenção, quer no decurso ou no acto de cessação da mesma, poderão, por deliberação do Conselho de Ministros, ser suspensos ou extintos quaisquer privilégios estatutários atribuídos a acções, obrigações ou partes sociais, desde que julgados injustificados, independentemente de alteração dos respectivos estatutos.
 
-###### Art. 24.º - 1. No acto de cessação da intervenção do Estado, o Conselho de Ministros, sob proposta fundamentada do Ministro da tutela, determinará que à empresa se aplique qualquer das seguintes medidas:
+Art. 24.º - 1. No acto de cessação da intervenção do Estado, o Conselho de Ministros, sob proposta fundamentada do Ministro da tutela, determinará que à empresa se aplique qualquer das seguintes medidas:
 
 a) Cisão, associação ou fusão, nos termos do artigo 21.º;
 
@@ -250,18 +398,18 @@ f) Transformação em empresa cooperativa.
 
 2. A operação descrita na alínea b) do número anterior será sempre efectuada com referência à situação da empresa no momento da sua intervenção, mas só poderá ser decretada se se verificar que contraria o interesse público restituir uma empresa que foi reequilibrada com recursos da colectividade àqueles que conduziram à ruptura do seu equilíbrio económico e financeiro, isto sem prejuízo da indemnização a que os titulares da empresa tenham eventualmente direito.
 
-###### Art. 25.º Às empresas objecto de intervenção do Estado à data da entrada em vigor do presente diploma é aplicável:
+Art. 25.º Às empresas objecto de intervenção do Estado à data da entrada em vigor do presente diploma é aplicável:
 
 a) Quando a intervenção se tenha efectuado ao abrigo do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, o prazo fixado pelo n.º 3 do artigo 6.º salvo se o mesmo se mostrar inferior ao de doze meses contados a partir daquela data, caso em que a intervenção findará no termo deste prazo;
 
 b) Quando a intervenção se tenha efectuado ao abrigo do [Decreto-Lei n.º 597/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1975-312382), de 28 de Outubro, o disposto no artigo 4.º, contando-se o prazo para a conclusão do inquérito referido no artigo 3.º a partir da data da entrada em vigor deste diploma.
 
-###### Art. 26.º Este diploma entra em vigor na data da sua publicação.
+Art. 26.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - João Pedro Tomás Rosa - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 4 de Maio de 1976.**
+Promulgado em 4 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

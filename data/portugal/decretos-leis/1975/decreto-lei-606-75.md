@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/25400/17351736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/606-1975-312668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 473c32a403bc58800aa5f5120367b7f5f262e5debe68b3836de5ed347e233f7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a27658c2f0a09b759fad42fdba3deb681dd72f25420dbd325b5bf7d7c19768b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Exploração Agrícola
+- Fertilizante
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507617:por
+  label: "Prorrogado até 30.06.1976 - com efeitos a 01.01.1976 - o prazo de pagamento dos subsídios constante do nº 1 d art.\
+    \ 3º pelo DEC LEI.135/76.17.02.1976.MCOMI, DG.IS [40] de 17.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1976-507617
+  date: '1976-02-17'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:184221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314961:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:311270:por
+  label: "Rectificado o n.º 1 do artigo 9.º pela RECT.DD140.10.12.1975.PCM, DG.IS [284] de 10.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-311270
+  date: '1975-12-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:11Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +131,7 @@ Outra alternativa corresponderia a obrigar ao encerramento da maioria das unidad
 
 Assim, consideram-se as hipóteses seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/25400/17351736.pdf))](https://files.diariodarepublica.pt/1s/1975/11/25400/17351736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/25400/17351736.pdf)
 
 admitindo como mais provável a verba de 1,070 milhões de contos, média das hipóteses consideradas.
 
@@ -144,48 +173,48 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Consideram-se beneficiários para os efeitos previstos neste diploma e na [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961) os pequenos e médios agricultores e as unidades de produção geridas por trabalhadores.
+Artigo 1.º Consideram-se beneficiários para os efeitos previstos neste diploma e na [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961) os pequenos e médios agricultores e as unidades de produção geridas por trabalhadores.
 
-###### Art. 2.º - 1. O Ministério da Agricultura e Pescas definirá por portaria a qualidade de pequeno e médio agricultor, bem como a quantidade máxima do adubo que poderá ser adquirida pelos benificiários.
+Art. 2.º - 1. O Ministério da Agricultura e Pescas definirá por portaria a qualidade de pequeno e médio agricultor, bem como a quantidade máxima do adubo que poderá ser adquirida pelos benificiários.
 
 2. O Ministério da Agricultura e Pescas indicará também quais as entidades competentes para certificarem a qualidade de beneficiário.
 
-###### Art. 3.º - 1. Desde 29 de Agosto de 1975 até 31 de Dezembro de 1975, o Fundo de Abastecimento pagará, por tonelada de adubo vendida para o mercado interno, a diferença entre os preços que resultam da aplicação da [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961) e os que anteriormente vigoravam.
+Art. 3.º - 1. Desde 29 de Agosto de 1975 até 31 de Dezembro de 1975, o Fundo de Abastecimento pagará, por tonelada de adubo vendida para o mercado interno, a diferença entre os preços que resultam da aplicação da [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961) e os que anteriormente vigoravam.
 
 2. Não são abrangidos pelo disposto no número anterior a cianamida cálcica e os adubos importados, com excepção dos potássicos elementares.
 
 3. A Direcção-Geral de Preços proporá, se for caso disso, outros subsídios a atribuir por tonelada de adubo fabricado ou importado e vendido para o mercado interno, tendo em conta os acréscimos de custos entretanto verificados.
 
-###### Art. 4.º A Direcção-Geral de Preços proporá o montante do subsídio a atribuir, por tonelada de adubo, correspondente ao acréscimo de encargo de transporte para as ilhas adjacentes.
+Art. 4.º A Direcção-Geral de Preços proporá o montante do subsídio a atribuir, por tonelada de adubo, correspondente ao acréscimo de encargo de transporte para as ilhas adjacentes.
 
-###### Art. 5.º - 1. A Direcção-Geral do Comércio Interno fiscalizará a atribuição dos subsídios referidos nos artigos 3.º e 4.º deste decreto-lei e a Direcção-Geral da Fiscalização Económica o cumprimento dos preços previstos na tabela a que se refere o n.º 2.º da [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961).
+Art. 5.º - 1. A Direcção-Geral do Comércio Interno fiscalizará a atribuição dos subsídios referidos nos artigos 3.º e 4.º deste decreto-lei e a Direcção-Geral da Fiscalização Económica o cumprimento dos preços previstos na tabela a que se refere o n.º 2.º da [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961).
 
 2. A Direcção-Geral do Comércio Interno efectuará o apuramento das quantias a pagar a cada um dos fabricantes ou importadores, que comunicará ao Fundo de Abastecimento.
 
-###### Art. 6.º Os subsídios referidos nos artigos 3.º e 4.º serão aprovados por despacho conjunto dos Ministros das Finanças, do Comércio Interno e da Indústria e Tecnologia.
+Art. 6.º Os subsídios referidos nos artigos 3.º e 4.º serão aprovados por despacho conjunto dos Ministros das Finanças, do Comércio Interno e da Indústria e Tecnologia.
 
-###### Art. 7.º A fim de fazer face aos encargos previstos neste diploma, o Fundo de Abastecimento inscreverá no seu orçamento uma verba global de 1200000 contos.
+Art. 7.º A fim de fazer face aos encargos previstos neste diploma, o Fundo de Abastecimento inscreverá no seu orçamento uma verba global de 1200000 contos.
 
-###### Art. 8.º - 1. O Banco de Portugal redescontará os títulos de crédito que lhe forem apresentados pela banca comercial, respeitantes a operações de venda de adubos realizadas pelos fabricantes na presente campanha.
+Art. 8.º - 1. O Banco de Portugal redescontará os títulos de crédito que lhe forem apresentados pela banca comercial, respeitantes a operações de venda de adubos realizadas pelos fabricantes na presente campanha.
 
 2. As operações bancárias a que se refere o número anterior serão realizadas de acordo com regulamentação a publicar pelo Ministério das Finanças.
 
-###### Art. 9.º - 1. Os fabricantes e produtores de adubos facturarão todas as vendas aos preços previstos nos n.os 1.º e 5.º da [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961), que contemplam as reduções de 20%, compensando, mediante documentos justificativos, os comerciantes e organizações da lavoura dos diferenciais dos preços resultantes da aplicação dos n.os 2.º e 5.º da citada portaria, que correspondem às reduções de 30%.
+Art. 9.º - 1. Os fabricantes e produtores de adubos facturarão todas as vendas aos preços previstos nos n.os 1.º e 5.º da [Portaria n.º 527/75](https://diariodarepublica.pt/dr/detalhe/portaria/527-1975-314961), que contemplam as reduções de 20%, compensando, mediante documentos justificativos, os comerciantes e organizações da lavoura dos diferenciais dos preços resultantes da aplicação dos n.os 2.º e 5.º da citada portaria, que correspondem às reduções de 30%.
 
 2. Até ao dia 10 do mês seguinte, os fabricantes e importadores darão conhecimento à Direcção-Geral do Comércio Interno da compensação de preços atribuída no mês anterior.
 
 3. Para efeitos do disposto no n.º 1, consideram-se organizações de lavoura, além das cooperativas, as comissões liquidatárias dos grémios da lavoura.
 
-###### Art. 10.º As infracções ao disposto neste diploma serão punidas com multa de 2000$00 a 200000$00, ou do dobro destes limites em caso de reincidência.
+Art. 10.º As infracções ao disposto neste diploma serão punidas com multa de 2000$00 a 200000$00, ou do dobro destes limites em caso de reincidência.
 
-###### Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças, da Agricultura e Pescas e do Comércio Interno.
+Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças, da Agricultura e Pescas e do Comércio Interno.
 
-###### Art. 12.º O presente decreto-lei entra em vigor na data da publicação.
+Art. 12.º O presente decreto-lei entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 17 de Outubro de 1975.**
+Promulgado em 17 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

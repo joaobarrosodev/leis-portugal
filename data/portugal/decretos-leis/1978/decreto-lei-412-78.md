@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1978-325167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bdf963824d435aeffe244819fb13d5356e2ab407ee539c69ddf7eb8aa0cda14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1424c1340b9cf8084fc9bb46dd3b4d6119e33101e674b9659d26eaef40005da6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Forças Armadas
+- Regulamento
+- Regulamento de Amparos
 relationships:
 - type: amended_by
   target: pt:dre:334596:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382841:por
+  label: "Dada nova redacção à subalínea 6) da alínea g) do n.º 1 do artigo 6.º e à alínea b) do n.º 1 do artigo 10.º do presente\
+    \ diploma, pelo DEC LEI.111/79.04.05.1979.CR, DR.IS [102] de 04.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-1979-382841
+  date: '1979-05-04'
+- type: amended_by
+  target: pt:dre:568517:por
+  label: Alterada a al. d) do n.º 1 e o n.º 2 do art. 2.º do Regulamento de Amparos, promulgado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 315/81 - Diário da República n.º 268/1981, Série I de 1981-11-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1981-568517
+  date: '1981-11-20'
+- type: cites
+  target: pt:dre:231687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334596:por
+  label: "Revogado pela PORT.94/90.08.02.1990.MDN, DR.IS [33] de 08.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-1990-334596
+  date: '1990-02-08'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:39Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +125,19 @@ Considerando finalmente de inteira justiça acautelar, por igual, a situação d
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º As condições necessárias à qualificação de amparo de família, bem como o procedimento, em termos do cumprimento das obrigações militares, a seguir com os indivíduos que no acto das operações de classificação e selecção ou ulteriormente vierem a ser qualificados único amparo de família, regular-se-ão pelo respectivo Regulamento de Amparos, que faz parte integrante do presente diploma, para ter execução nas forças armadas.
+Artigo 1.º As condições necessárias à qualificação de amparo de família, bem como o procedimento, em termos do cumprimento das obrigações militares, a seguir com os indivíduos que no acto das operações de classificação e selecção ou ulteriormente vierem a ser qualificados único amparo de família, regular-se-ão pelo respectivo Regulamento de Amparos, que faz parte integrante do presente diploma, para ter execução nas forças armadas.
 
-###### Art. 2.º As dúvidas suscitadas na sua aplicação serão resolvidas por despacho interpretativo do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 2.º As dúvidas suscitadas na sua aplicação serão resolvidas por despacho interpretativo do Chefe do Estado-Maior-General das Forças Armadas.
 
-###### Art. 3.º O Regulamento de Amparos entra imediatamente em vigor.
+Art. 3.º O Regulamento de Amparos entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução em 22 de Novembro de 1978.
 
-**Promulgado em 22 de Novembro de 1978.**
+Promulgado em 22 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DE AMPAROS
 
@@ -490,7 +519,7 @@ Respeitosamente, pede deferimento.
 
 (nota a) Director do Serviço de Pessoal do Exército, para indivíduos classificados aptos ainda não incorporados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf)
 
 MODELO N.º 2
 
@@ -512,7 +541,7 @@ b) Mais declaro, sob compromisso de honra, que o meu agregado familiar é compos
 
 3 - A aceitação ou uso de influências para obtenção ilícita dos fins referidos no n.º 1 deste artigo é punível com metade das penas previstas nos números anteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf)
 
 MODELO N.º 3
 
@@ -520,7 +549,7 @@ MODELO N.º 3
 
 Pedido de nomeação da comissão para elaboração do inquérito referente ao pedido de amparo apresentado pelo requerente abaixo indicado, deste (ver nota a) ..., a favor das pessoas indicadas e residentes no concelho d ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29100/26872697.pdf)
 
 (nota a) Unidade ou estabelecimento militar.
 

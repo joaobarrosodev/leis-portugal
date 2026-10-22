@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/11/26200/19641964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,40 +50,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48032-1967-389209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0bdcde295be44d0408983df66e4e38f4366063cd60e3cce0f180ad4c667bc68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f94bde2b1c4f24d0a7c87cda0f4847741be8c0b5906d302530ae62ae6492d84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Nacional dos Vinhos
+- Região Demarcada
+- Taxa
+- Vinho
+- Vinho Verde
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:488097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogado pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:12Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +117,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Constitui receita da Junta Nacional do Vinho a taxa a que se refere o [Decreto-Lei n.º 47470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47470-1966-488097), de 31 de Dezembro de 1966, a qual será cobrada nos termos estabelecidos no artigo 2.º e seguintes do mesmo diploma.
+Artigo 1.º Constitui receita da Junta Nacional do Vinho a taxa a que se refere o [Decreto-Lei n.º 47470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47470-1966-488097), de 31 de Dezembro de 1966, a qual será cobrada nos termos estabelecidos no artigo 2.º e seguintes do mesmo diploma.
 
 § único. O quantitativo da taxa e o processo da sua cobrança poderão ser alterados em portaria do Secretário de Estado do Comércio.
 
-###### Art. 2.º Quando as circunstâncias o aconselharem, o Secretário de Estado do Comércio, mediante despacho, pode determinar que na região demarcada dos vinhos verdes fique suspensa a acção de intervenção da Junta Nacional do Vinho, bem como que seja restituído à Comissão de Viticultura daquela região o produto da cobrança da taxa que, nos termos legais, constitui receita da Junta com vista às despesas de intervenção.
+Art. 2.º Quando as circunstâncias o aconselharem, o Secretário de Estado do Comércio, mediante despacho, pode determinar que na região demarcada dos vinhos verdes fique suspensa a acção de intervenção da Junta Nacional do Vinho, bem como que seja restituído à Comissão de Viticultura daquela região o produto da cobrança da taxa que, nos termos legais, constitui receita da Junta com vista às despesas de intervenção.
 
-###### Art. 3.º Este diploma entra em vigor no dia 10 de Novembro de 1967.
+Art. 3.º Este diploma entra em vigor no dia 10 de Novembro de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
 

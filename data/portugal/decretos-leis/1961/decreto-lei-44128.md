@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44128-1961-184543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7accf57de2aafe4d6a966b9fdb810d595e1a2fc8084352308fe851cf6ad2c062
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33266c730b99b5bcfb33430fea3579e1f083536cd74a6b7071e0befabded0a82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aborto
+- Criança
+- Maternidade
+- Óbito
+- Saúde Materna
 relationships:
 - type: amended_by
   target: pt:dre:678834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678834:por
+  label: "Dada nova redacção aos arts.1º, 3º, 4º e 5º pelo DEC LEI.27/80.29.02.1980.MAS, DR.IS [50] de 29.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1980-678834
+  date: '1980-02-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:21Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +109,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para efeitos estatísticos, a duração da gravidez será classificada nos seguintes grupos:
+Artigo 1.º Para efeitos estatísticos, a duração da gravidez será classificada nos seguintes grupos:
 
 1.º grupo: menos de 20 semanas completas;
 
@@ -111,13 +121,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. A duração da gravidez é contada desde o primeiro dia do último cataménio até ao dia do nascimento.
 
-###### Art. 2.º Considera-se nascimento de criança viva a expulsão ou extracção completa, relativamente ao corpo materno e independentemente da duração da gravidez, do produto da fecundação que, após esta separação, respire ou manifeste quaisquer outros sinais de vida, tais como pulsações do coração ou do cordão umbilical ou contracção efectiva de qualquer músculo sujeito à acção da vontade, quer o cordão umbilical tenha sido cortado, quer não, e quer a placenta esteja ou não retida.
+Art. 2.º Considera-se nascimento de criança viva a expulsão ou extracção completa, relativamente ao corpo materno e independentemente da duração da gravidez, do produto da fecundação que, após esta separação, respire ou manifeste quaisquer outros sinais de vida, tais como pulsações do coração ou do cordão umbilical ou contracção efectiva de qualquer músculo sujeito à acção da vontade, quer o cordão umbilical tenha sido cortado, quer não, e quer a placenta esteja ou não retida.
 
 § único. O produto do nascimento ocorrido nestas condições denomina-se nado vivo.
 
-###### Art. 3.º Designar-se-ão por prematuros os nado vivos cujo nascimento se verifique com menos de 37 semanas de gravidez provável ou que pesem ao nascer 2,5 kg ou menos.
+Art. 3.º Designar-se-ão por prematuros os nado vivos cujo nascimento se verifique com menos de 37 semanas de gravidez provável ou que pesem ao nascer 2,5 kg ou menos.
 
-###### Art. 4.º Sempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.
+Art. 4.º Sempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.
 
 § único. A morte fetal, com relação à duração da gravidez, poderá ser:
 
@@ -127,11 +137,11 @@ b) Intermédia, se pertencer ao 2.º;
 
 c) Tardia, caso se classifique no 3.º
 
-###### Art. 5.º Para todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.
+Art. 5.º Para todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.
 
 § único. A anterior designação de abortamento corresponde às actuais designações de morte fetal precoce ou intermédia, consoante a duração de gravidez; e as de mortinatalidade ou de nado morto, respectivamente à de morte fetal tardia ou de feto que a sofreu.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

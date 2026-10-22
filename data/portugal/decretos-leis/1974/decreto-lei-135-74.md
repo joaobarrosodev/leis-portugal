@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1974-411823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c66d6c8c570c5e937e6e3b8ff17112d158cf30f996fd57613ac126426d8bc2fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26994bdb7d5c8863bc44a7599b82f37b8fb72e253d46f42baab1d803ed48653b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Contribuições e Impostos
+- Criação de Empresas
+- Fusão de Empresas
+- Isenção Fiscal
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do presente diploma, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301[2ºSupl,\
+    \ a partir da entrada em vigor do referido diploma, sem prejuízo da manutenção dos benefícios já concedidos e dos regimes\
+    \ de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:29Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +140,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Às sociedades exploradoras da indústria de transportes públicos rodoviários que se constituam ou ampliem em resultado de operações de concentração poderão ser concedidos os seguintes benefícios fiscais:
+Artigo 1.º - 1. Às sociedades exploradoras da indústria de transportes públicos rodoviários que se constituam ou ampliem em resultado de operações de concentração poderão ser concedidos os seguintes benefícios fiscais:
 
 a) Isenção ou redução da taxa de sisa relativa às transmissões de bens resultantes dos actos de concentração, desde que tais bens sejam utilizados directamente no exercício da referida actividade e as empresas concentradas estejam todas em actividade no momento da concentração;
 
@@ -143,7 +168,7 @@ i) Redução até 50% do imposto de camionagem, durante o período de dois a cin
 
 5. Os investimentos referidos na alínea f) do n.º 1 consideram-se realizados no ano em que os respectivos bens entrem em funcionamento.
 
-###### Art. 2.º - 1. Para os efeitos do presente diploma, consideram-se operações de concentração apenas as seguintes:
+Art. 2.º - 1. Para os efeitos do presente diploma, consideram-se operações de concentração apenas as seguintes:
 
 a) A fusão de sociedades que exerçam a actividade de transportes públicos rodoviários;
 
@@ -159,7 +184,7 @@ a) Quando destinadas à constituição de áreas de preferência, nos termos dos
 
 b) Em outros casos, desde que a concessão dos benefícios seja expressamente disposta nos diplomas legais ou regulamentares em que as operações venham previstas.
 
-###### Art. 3.º - 1. Os benefícios previstos no artigo 1.º só poderão ser concedidos se as sociedades resultantes das operações de concentração:
+Art. 3.º - 1. Os benefícios previstos no artigo 1.º só poderão ser concedidos se as sociedades resultantes das operações de concentração:
 
 a) Visarem a constituição de unidades de exploração que garantam melhor aproveitamento da respectiva capacidade de produção e aperfeiçoamento da qualidade do serviço prestado;
 
@@ -177,7 +202,7 @@ b) Promoverem a celebração de acordos de repartição de tráfego ou de servi�
 
 c) Promoverem a distribuição dos veículos que tenham licenciados pelos vários raios de acção e locais de estacionamento, em determinadas proporções, tratando-se de transportadores públicos de mercadorias em regime de aluguer.
 
-###### Art. 4.º - 1. As sociedades e empresas em nome individual que pretendam levar a efeito uma operação de concentração e auferir os benefícios previstos no artigo 1.º deverão entregar na Direcção-Geral de Transportes Terrestres um requerimento dirigido ao Ministro das Comunicações em que indiquem, designadamente:
+Art. 4.º - 1. As sociedades e empresas em nome individual que pretendam levar a efeito uma operação de concentração e auferir os benefícios previstos no artigo 1.º deverão entregar na Direcção-Geral de Transportes Terrestres um requerimento dirigido ao Ministro das Comunicações em que indiquem, designadamente:
 
 a) A modalidade de operação de concentração, face às alternativas constantes do artigo 2.º;
 
@@ -199,7 +224,7 @@ e) Outros elementos demonstrativos dos benefícios empresariais e colectivos pro
 
 6. A entrega do requerimento fora do prazo fixado no número anterior importa a perda do direito à dedução relativa ao respectivo investimento realizado ou à consideração como custos das despesas efectuadas.
 
-###### Art. 5.º - 1. Compete à Direcção-Geral de Transportes Terrestres fiscalizar o cumprimento das condições impostas nos despachos de concessão dos benefícios.
+Art. 5.º - 1. Compete à Direcção-Geral de Transportes Terrestres fiscalizar o cumprimento das condições impostas nos despachos de concessão dos benefícios.
 
 2. Verificando-se que qualquer das condições referidas no número anterior não foi satisfeita, por causa imputável à sociedade que ficou exercendo a actividade, caducarão os benefícios concedidos, devendo ainda as entidades competentes promover a liquidação dos impostos que não tenham sido liquidados, para pagamento no prazo de trinta dias a contar da notificação a fazer para o efeito pelos serviços.
 
@@ -209,16 +234,16 @@ e) Outros elementos demonstrativos dos benefícios empresariais e colectivos pro
 
 5. Não sendo o pagamento referido no n.º 2 efectuado até ao fim do prazo estabelecido e tratando-se de impostos a cargo da Direcção-Geral das Contribuições e Impostos, será o respectivo título debitado ao tesoureiro para cobrança, com juros de mora, nos sessenta dias seguintes, findos os quais haverá lugar a procedimento executivo.
 
-###### Art. 6.º Sempre que as empresas utilizem a autorização concedida ao abrigo da alínea e) do n.º 1 do artigo 1.º, deverão mencionar o facto no mapa das reintegrações e amortizações que acompanha a declaração para efeitos da liquidação da contribuição industrial.
+Art. 6.º Sempre que as empresas utilizem a autorização concedida ao abrigo da alínea e) do n.º 1 do artigo 1.º, deverão mencionar o facto no mapa das reintegrações e amortizações que acompanha a declaração para efeitos da liquidação da contribuição industrial.
 
-###### Art. 7.º A dedução prevista na alínea f) do n.º 1 do artigo 1.º será escalonada pelo período de três anos, mas a parte que não possa ser deduzida num determinado ano, por insuficiência de matéria colectável, sê-lo-á nos anos seguintes, desde que não ultrapasse o último dos exercícios anteriormente referidos.
+Art. 7.º A dedução prevista na alínea f) do n.º 1 do artigo 1.º será escalonada pelo período de três anos, mas a parte que não possa ser deduzida num determinado ano, por insuficiência de matéria colectável, sê-lo-á nos anos seguintes, desde que não ultrapasse o último dos exercícios anteriormente referidos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 27 de Março de 1974.**
+Promulgado em 27 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

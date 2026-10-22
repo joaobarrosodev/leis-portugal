@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-1972-291791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07f25afb7e21569290c771dc781ad8c415a469fc58c95a4912b1cb533177379b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd2395e529e7264d44262a2dda9823b2ada9c1ea1f4175426a063ae85af769b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Lisboa
+- Porto
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:397365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280533:por
+  label: "Alterado o quadro de pessoal do Tribunal de Família do Porto, aprovado pelo presente diploma pela PORT.707/77.28.10.1977.MJ,\
+    \ DR.IS [266] de 17.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/707-1977-280533
+  date: '1977-10-28'
+- type: amended_by
+  target: pt:dre:397365:por
+  label: "Alterado o quadro de pessoal do Tribunal de Família do Porto, aprovado pelo presente diploma alterado pela portaria\
+    \ 707/77, de 17 de Novembro e portaria 357/82, de 06 de Abril pela PORT.742/82.29.07.1982.MJ, DR.IS [173] de 29.07.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/742-1982-397365
+  date: '1982-07-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:13Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +119,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Em cada uma das comarcas de Lisboa e do Porto é criado um tribunal de família, de classe correspondente à da comarca.
+Artigo 1.º - 1. Em cada uma das comarcas de Lisboa e do Porto é criado um tribunal de família, de classe correspondente à da comarca.
 
 2. O tribunal de família exerce jurisdição na área da respectiva comarca.
 
-###### Art. 2.º - 1. É da competência exclusiva dos tribunais de família criados por este diploma a instrução e julgamento de:
+Art. 2.º - 1. É da competência exclusiva dos tribunais de família criados por este diploma a instrução e julgamento de:
 
 a) Processos de jurisdição voluntária relativos aos cônjuges;
 
@@ -122,7 +139,7 @@ f) Providências cíveis atribuídas pela lei vigente aos tribunais tutelares de
 
 2. Aos recursos interpostos das decisões proferidas nos processos constantes da alínea f) do número anterior é aplicável o disposto no artigo 48.º da Organização Tutelar de Menores.
 
-###### Art. 3.º - 1. Os tribunais de família funcionam em tribunal colectivo ou juízo singular, conforme as leis de processo.
+Art. 3.º - 1. Os tribunais de família funcionam em tribunal colectivo ou juízo singular, conforme as leis de processo.
 
 2. O Tribunal de Família de Lisboa é composto por três juízos e o do Porto por um único juízo.
 
@@ -130,31 +147,31 @@ f) Providências cíveis atribuídas pela lei vigente aos tribunais tutelares de
 
 4. Nos processos julgados pelo tribunal colectivo a sentença será sempre proferida pelo juiz do respectivo juízo.
 
-###### Art. 4.º - 1. Os adjuntos do tribunal colectivo do Tribunal de Família de Lisboa são os juízes dos 2.º e 3.º Juízos.
+Art. 4.º - 1. Os adjuntos do tribunal colectivo do Tribunal de Família de Lisboa são os juízes dos 2.º e 3.º Juízos.
 
 2. Os adjuntos do tribunal colectivo do Tribunal de Família do Porto são dois juízes corregedores do respectivo tribunal cível, designados pelo Ministério da Justiça, sob proposta do Conselho Superior Judiciário.
 
-###### Art. 5.º - 1. Os juízes do Tribunal de Família de Lisboa substituem-se uns aos outros, nos termos da alínea c) do artigo 46.º do Estatuto Judiciário.
+Art. 5.º - 1. Os juízes do Tribunal de Família de Lisboa substituem-se uns aos outros, nos termos da alínea c) do artigo 46.º do Estatuto Judiciário.
 
 2. No Tribunal de Família do Porto a substituição do presidente incumbe aos adjuntos, por ordem de antiguidade; para efeitos de constituição do tribunal colectivo, encontrando-se impedido algum dos seus membros, o presidente da Relação designará o substituto.
 
-###### Art. 6.º - 1. O Ministério Público junto de cada tribunal de família é representado por um curador, nomeado entre os delegados do procurador da República.
+Art. 6.º - 1. O Ministério Público junto de cada tribunal de família é representado por um curador, nomeado entre os delegados do procurador da República.
 
 2. Nas suas faltas ou impedimentos, os curadores são substituídos pelos subcuradores, e estes por pessoa idónea indicada pelo respectivo procurador da República; em caso de urgência, e quando não seja possível a substituição nos termos referidos, o juiz pode designar para cada caso qualquer pessoa idónea.
 
-###### Art. 7.º Em períodos de excepcional acumulação de serviço nos tribunais de família, os juizes e os curadores dos Tribunais Tutelares Centrais de Menores de Lisboa e do Porto podem ser mandados exercer funções naqueles, cumulativamente com as do seu cargo.
+Art. 7.º Em períodos de excepcional acumulação de serviço nos tribunais de família, os juizes e os curadores dos Tribunais Tutelares Centrais de Menores de Lisboa e do Porto podem ser mandados exercer funções naqueles, cumulativamente com as do seu cargo.
 
-###### Art. 8.º - 1. Em cada tribunal de família haverá uma secretaria e um serviço de assistência social, comuns, no de Lisboa, a todos os juízos, e que têm a composição constante do mapa anexo a este diploma.
+Art. 8.º - 1. Em cada tribunal de família haverá uma secretaria e um serviço de assistência social, comuns, no de Lisboa, a todos os juízos, e que têm a composição constante do mapa anexo a este diploma.
 
 2. Haverá igualmente um corpo de assessores, constituído por indivíduos de um ou outro sexo, com conhecimentos especializados de psicologia, pedagogia, sociologia ou matérias afins destas, livremente nomeados pelo Ministro da Justiça e sem limitação de número.
 
-###### Art. 9.º - 1. Compete aos assessores, no âmbito da sua formação especializada, emitir parecer em cada caso sobre que sejam chamados a pronunciar-se pelo juiz.
+Art. 9.º - 1. Compete aos assessores, no âmbito da sua formação especializada, emitir parecer em cada caso sobre que sejam chamados a pronunciar-se pelo juiz.
 
 2. Os assessores podem ser ouvidos em qualquer estado da causa, sempre que o tribunal entenda conveniente, sendo as conclusões do seu parecer reduzidas a auto, ainda que ouvidos em grau de julgamento.
 
 3. Aos assessores podem ser opostos os impedimentos e recusas que é possível opor os peritos em processo civil.
 
-###### Art. 10.º - 1. Incumbe ao serviço de assistência social a realização de inquéritos e demais actividades de serviço social de que for encarregado pelo juiz em qualquer estado do processo, inclusivamente para boa execução das suas
+Art. 10.º - 1. Incumbe ao serviço de assistência social a realização de inquéritos e demais actividades de serviço social de que for encarregado pelo juiz em qualquer estado do processo, inclusivamente para boa execução das suas
 
 Decisões.
 
@@ -162,17 +179,17 @@ Decisões.
 
 3. Os funcionários destacados para os tribunais de família nos termos do número anterior actuam sob a direcção dos respectivos juízes, sem prejuízo da sua subordinação hierárquica ao inspector da Direcção-Geral dos Serviços Tutelares de Menores.
 
-###### Art. 11.º - 1. As funções de assistência social nos tribunais de família podem ser excepcionalmente confiadas pelo juiz a quaisquer autoridades ou a particulares que se prestem a desempenhá-las.
+Art. 11.º - 1. As funções de assistência social nos tribunais de família podem ser excepcionalmente confiadas pelo juiz a quaisquer autoridades ou a particulares que se prestem a desempenhá-las.
 
 2. As pessoas designadas nos termos do número anterior têm as atribuições, direitos e deveres dos assistentes e auxiliares sociais.
 
-###### Art. 12.º - 1. Para instrução, julgamento e execução das providências cíveis referidas na alínea f) do n.º 1 do artigo 2.º, os tribunais de família dispõem de todos os poderes atribuídos pela Organização Tutelar de Menores aos tribunais tutelares, mesmo quanto a medidas e providências a título provisório e a exames.
+Art. 12.º - 1. Para instrução, julgamento e execução das providências cíveis referidas na alínea f) do n.º 1 do artigo 2.º, os tribunais de família dispõem de todos os poderes atribuídos pela Organização Tutelar de Menores aos tribunais tutelares, mesmo quanto a medidas e providências a título provisório e a exames.
 
 2. As providências mencionadas no número anterior correm por apenso aos respectivos processos.
 
-###### Art. 13.º Dentro dos poderes conferidos ao juiz pelos artigos 264.º, n.º 3, e 1409.º, n.º 2, do Código de Processo Civil, para realizar ou ordenar oficiosamente diligências os tribunais de família devem procurar obter um conhecimento real e actual de cada situação.
+Art. 13.º Dentro dos poderes conferidos ao juiz pelos artigos 264.º, n.º 3, e 1409.º, n.º 2, do Código de Processo Civil, para realizar ou ordenar oficiosamente diligências os tribunais de família devem procurar obter um conhecimento real e actual de cada situação.
 
-###### Art. 14.º - 1. Quando o tribunal considere necessário, para o efeito previsto no artigo anterior, que qualquer das partes seja submetida a exame especializado, assim o declarará no processo, marcando logo prazo para realização desse acto.
+Art. 14.º - 1. Quando o tribunal considere necessário, para o efeito previsto no artigo anterior, que qualquer das partes seja submetida a exame especializado, assim o declarará no processo, marcando logo prazo para realização desse acto.
 
 2. As partes e os seus mandatários judiciais devem guardar segredo de justiça sobre o exame e o resultado deste.
 
@@ -180,50 +197,50 @@ Decisões.
 
 4. Se, findo o prazo fixado ou o da sua prorrogação, o exame não tiver sido realizado, o processo seguirá os ulteriores termos.
 
-###### Art. 15.º O juiz pode ouvir pessoalmente os interessados sempre que o entenda conveniente ou lhe for por eles solicitado; a diligência será reduzida a auto.
+Art. 15.º O juiz pode ouvir pessoalmente os interessados sempre que o entenda conveniente ou lhe for por eles solicitado; a diligência será reduzida a auto.
 
-###### Art. 16.º Os tribunais de família só cumprem deprecadas emanadas de outros tribunais de família.
+Art. 16.º Os tribunais de família só cumprem deprecadas emanadas de outros tribunais de família.
 
-###### Art. 17.º O tribunal pode solicitar a cooperação de organismos oficiais ou particulares de protecção da família ou da juventude, inclusivamente para boa execução das suas decisões.
+Art. 17.º O tribunal pode solicitar a cooperação de organismos oficiais ou particulares de protecção da família ou da juventude, inclusivamente para boa execução das suas decisões.
 
-###### Art. 18.º - 1. Sempre que em processo pendente no tribunal de família se verifique a existência de alguma das situações previstas nos artigos 17.º ou 18.º da Organização Tutelar de Menores, ou for caso de instituir a providência de assistência educativa, será dado conhecimento do facto ao tribunal tutelar competente.
+Art. 18.º - 1. Sempre que em processo pendente no tribunal de família se verifique a existência de alguma das situações previstas nos artigos 17.º ou 18.º da Organização Tutelar de Menores, ou for caso de instituir a providência de assistência educativa, será dado conhecimento do facto ao tribunal tutelar competente.
 
 2. As decisões proferidas pelo tribunal tutelar sobre as matérias referidas no número anterior não podem ser prejudicadas pelas decisões do tribunal de família, que deverão conjugar-se com aquelas.
 
-###### Art. 19.º - 1. Sem prejuízo do seu regular andamento e carácter secreto, os processos tutelares podem, sempre que necessário, ser requisitados pelos tribunais de família; nas mesmas circunstâncias, os processos dos tribunais de família podem ser requisitados pelos tribunais tutelares.
+Art. 19.º - 1. Sem prejuízo do seu regular andamento e carácter secreto, os processos tutelares podem, sempre que necessário, ser requisitados pelos tribunais de família; nas mesmas circunstâncias, os processos dos tribunais de família podem ser requisitados pelos tribunais tutelares.
 
 2. Quando a requisição pelo tribunal de família seja consequência de providências cíveis relativas a menores, o processo tutelar será acompanhado de informação fundamentada do juiz sobre a situação do menor.
 
-###### Art. 20.º O tribunal tutelar enviará mensalmente ao tribunal de família da comarca uma relação dos processos tutelares organizados por motivo de situações previstas nos artigos 17.º e 18.º da Organização Tutelar de Menores, ou para instituição de assistência educativa, com identificação dos respectivos menores.
+Art. 20.º O tribunal tutelar enviará mensalmente ao tribunal de família da comarca uma relação dos processos tutelares organizados por motivo de situações previstas nos artigos 17.º e 18.º da Organização Tutelar de Menores, ou para instituição de assistência educativa, com identificação dos respectivos menores.
 
-###### Art. 21.º A cobrança coerciva das custas, impostos de justiça, multas e indemnizações fixados pelos tribunais de família é da competência dos tribunais comuns.
+Art. 21.º A cobrança coerciva das custas, impostos de justiça, multas e indemnizações fixados pelos tribunais de família é da competência dos tribunais comuns.
 
-###### Art. 22.º A remuneração dos assessores, de montante a fixar genèricamente por despacho do Ministro da Justiça, entrará em regras de custas.
+Art. 22.º A remuneração dos assessores, de montante a fixar genèricamente por despacho do Ministro da Justiça, entrará em regras de custas.
 
-###### Art. 23.º Os processos, incidentes e actos das espécies referidas na alínea f) do n.º 1 do artigo 2.º, quando afectos ao tribunal de família, continuam sujeitos a imposto de justiça fixado nos termos do artigo 26.º do Código das Custas Judiciais.
+Art. 23.º Os processos, incidentes e actos das espécies referidas na alínea f) do n.º 1 do artigo 2.º, quando afectos ao tribunal de família, continuam sujeitos a imposto de justiça fixado nos termos do artigo 26.º do Código das Custas Judiciais.
 
-###### Art. 24.º Os processos das espécies indicadas no n.º 1 do artigo 2.º, pendentes nos tribunais cíveis e nos Tribunais Tutelares Centrais de Menores de Lisboa e do Porto à data da entrada em funcionamento dos tribunais de família, continuam afectos àqueles tribunais.
+Art. 24.º Os processos das espécies indicadas no n.º 1 do artigo 2.º, pendentes nos tribunais cíveis e nos Tribunais Tutelares Centrais de Menores de Lisboa e do Porto à data da entrada em funcionamento dos tribunais de família, continuam afectos àqueles tribunais.
 
-###### Art. 25.º Durante a fase experimental dos tribunais de família, o provimento dos lugares de funcionário de justiça criados por este diploma é feito nos termos do artigo 767.º do Estatuto Judiciário.
+Art. 25.º Durante a fase experimental dos tribunais de família, o provimento dos lugares de funcionário de justiça criados por este diploma é feito nos termos do artigo 767.º do Estatuto Judiciário.
 
-###### Art. 26.º Em tudo o que não esteja especialmente regulado no presente diploma, regem as disposições aplicáveis do Estatuto Judiciário e da Organização Tutelar de Menores, considerando-se os tribunais de família equiparados aos tribunais cíveis das comarcas de Lisboa e do Porto.
+Art. 26.º Em tudo o que não esteja especialmente regulado no presente diploma, regem as disposições aplicáveis do Estatuto Judiciário e da Organização Tutelar de Menores, considerando-se os tribunais de família equiparados aos tribunais cíveis das comarcas de Lisboa e do Porto.
 
-###### Art. 27.º - 1. Os encargos a que der lugar a execução do presente diploma, na parte em que excedam a dotação do Orçamento Geral do Estado consignada a vencimentos e salários com os magistrados, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
+Art. 27.º - 1. Os encargos a que der lugar a execução do presente diploma, na parte em que excedam a dotação do Orçamento Geral do Estado consignada a vencimentos e salários com os magistrados, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
 
 2. Enquanto não for corrigido o Orçamento Geral do Estado, os encargos serão satisfeitos pelas disponibilidades da dotação de vencimentos dos quadros dos juizes de 1.ª instância e do Ministério Público nas comarcas.
 
-###### Art. 28.º A data da entrada em funcionamento dos Tribunais de Família de Lisboa e do Porto será fixada em portaria do Ministro da Justiça.
+Art. 28.º A data da entrada em funcionamento dos Tribunais de Família de Lisboa e do Porto será fixada em portaria do Ministro da Justiça.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 7 de Janeiro de 1972.**
+Promulgado em 7 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/01/00500/00410043.pdf))](https://files.diariodarepublica.pt/1s/1972/01/00500/00410043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/01/00500/00410043.pdf)
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/557-1972-685593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b98ffa704df8f5f5a176b09838afe2cbe182469b52b28b31e7c791786933025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e5a0dfe503531d7a72154c308f2bdce551da6840ddfed9c462db5176af6b45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:412985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256457:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:31Z'
   warnings: []
   errors: []
 ---
@@ -103,18 +107,18 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É dispensada, pelo período de um ano, a prestação de provas de concurso para a promoção dos funcionários dos Serviços de Administração Civil de Cabo Verde com relação à qual, nos termos do respectivo diploma orgânico, esteja fixada essa forma de selecção de pessoal.
+Artigo 1.º É dispensada, pelo período de um ano, a prestação de provas de concurso para a promoção dos funcionários dos Serviços de Administração Civil de Cabo Verde com relação à qual, nos termos do respectivo diploma orgânico, esteja fixada essa forma de selecção de pessoal.
 
-###### Art. 2.º As promoções a efectuar no âmbito de aplicação do artigo antecedente far-se-ão de harmonia com o que se encontra estabelecido na alínea b) do artigo 13.º do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
+Art. 2.º As promoções a efectuar no âmbito de aplicação do artigo antecedente far-se-ão de harmonia com o que se encontra estabelecido na alínea b) do artigo 13.º do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
 
-###### Art. 3.º Os indivíduos que se encontrem providos interinamente no grau de adjunto de administrador de posto há mais de cinco anos consecutivos e cujo serviço seja qualificado de Bom, pelo menos, poderão ser nomeados provisòriamente nesse grau, independentemente da sua idade e da habilitação literária que possuam.
+Art. 3.º Os indivíduos que se encontrem providos interinamente no grau de adjunto de administrador de posto há mais de cinco anos consecutivos e cujo serviço seja qualificado de Bom, pelo menos, poderão ser nomeados provisòriamente nesse grau, independentemente da sua idade e da habilitação literária que possuam.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Dezembro de 1972.**
+Promulgado em 18 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45064-1963-627461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3860128c54238e7f6187ac118edf0de14f2a49700f86bf27412a0d4e1c4ea292
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b50f68dcd8324409cfe35ffd43c2ed6b93754b87494e7b26e8824963bc00d2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Exportação
+- Federação dos Vinicultores do DÃO
+- Financiamento
+- Junta Nacional dos Vinhos
+- Produto Vitivinícola
+- Região Demarcada do DÃO
+- Secretário de Estado do Comércio
+- Taxa
+- Vinho
+relationships:
+- type: cites
+  target: pt:dre:282568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651526:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:15Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +117,22 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1º A acção de regularização do mercado a cargo da Junta Nacional do Vinho, incluindo o financiamento aos produtores e fomento de exportação vinícola, passa a ser extensiva à região demarcada do Dão.
+Artigo 1º A acção de regularização do mercado a cargo da Junta Nacional do Vinho, incluindo o financiamento aos produtores e fomento de exportação vinícola, passa a ser extensiva à região demarcada do Dão.
 
 Serão aplicáveis à referida região os correspondentes preceitos legais em vigor para a área da Junta Nacional do Vinho.
 
-###### Art. 2.º Para efeito do disposto no artigo antecedente, um representante da Federação dos Vinicultores do Dão fará parte do conselho geral da Junta Nacional do Vinho, podendo esta designar, por sua vez, um delegado junto da Federação.
+Art. 2.º Para efeito do disposto no artigo antecedente, um representante da Federação dos Vinicultores do Dão fará parte do conselho geral da Junta Nacional do Vinho, podendo esta designar, por sua vez, um delegado junto da Federação.
 
-###### Art. 3.º A acção da Junta Nacional do Vinho na área da região demarcada do Dão exercer-se-á, sempre que possível, através da respectiva federação de vinicultores, que ficará, assim, por ela responsável.
+Art. 3.º A acção da Junta Nacional do Vinho na área da região demarcada do Dão exercer-se-á, sempre que possível, através da respectiva federação de vinicultores, que ficará, assim, por ela responsável.
 
-###### Art. 4.º É extensivo à região demarcada do Dão o preceituado no [Decreto-Lei n.º 43550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018), de 21 de Março de 1961, revertendo a respectiva receita, a cobrar por intermédio da Federação dos Vinicultores do Dão, para a Junta Nacional do Vinho.
+Art. 4.º É extensivo à região demarcada do Dão o preceituado no [Decreto-Lei n.º 43550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018), de 21 de Março de 1961, revertendo a respectiva receita, a cobrar por intermédio da Federação dos Vinicultores do Dão, para a Junta Nacional do Vinho.
 
 § 1.º A fim de assegurar o prosseguimento da execução, por parte da Federação dos Vinicultores do Dão, do plano de construção de adegas cooperativas e dos armazéns necessários à regularização do mercado, continua a ser receita daquele organismo a taxa criada pela [Portaria n.º 16295](https://diariodarepublica.pt/dr/detalhe/portaria/16295-1957-282568), de 16 de Maio de 1957, ao abrigo do [Decreto-Lei n.º 41058](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41058-1957-651526), de 8 de Abril de 1957.
 
 § 2.º Para os fins indicados no parágrafo anterior, poderá a Junta Nacional do Vinho fazer empréstimos à Federação dos Vinicultores do Dão, por antecipação da receita da taxa a cobrar por este organismo.
 
-###### Art. 5.º O Secretário de Estado do Comércio regulará por portaria, ouvidas a Junta Nacional do Vinho e a Federação dos Vinicultores do Dão, as relações entre os dois organismos e resolverá, por despacho, as dúvidas que vierem a suscitar-se.
+Art. 5.º O Secretário de Estado do Comércio regulará por portaria, ouvidas a Junta Nacional do Vinho e a Federação dos Vinicultores do Dão, as relações entre os dois organismos e resolverá, por despacho, as dúvidas que vierem a suscitar-se.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Armando Ramos de Paula Coelho.

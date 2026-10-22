@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d9426dd9be30a024235b556cf7370c0b7d8f4bae36153f408d0f870d5c3abb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 178856cff3bb48a22f08691bb5e3a3feb3c5d94f455e48f153d860236d3a6408
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:442949:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442949:por
+  label: Revogado o art. 38º pelo DEC LEI.423/83.05.12.1983.PCM, DR.IS [279] de 05.12.1983, sem prejuízo do disposto no seu
+    art. 35º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/423-1983-442949
+  date: '1983-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:50Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +151,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Das atribuições e competência
 
-###### Artigo 1.º - 1. São organizados pelo presente diploma os Serviços de Inspecção da Direcção-Geral do Turismo, a que se refere o artigo 26.º, alínea e), do [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968.
+Artigo 1.º - 1. São organizados pelo presente diploma os Serviços de Inspecção da Direcção-Geral do Turismo, a que se refere o artigo 26.º, alínea e), do [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968.
 
 2. Os Serviços de Inspecção regem-se pelo disposto naquele decreto-lei e no presente diploma.
 
-###### Art. 2.º - 1. Incumbe especialmente aos Serviços de Inspecção:
+Art. 2.º - 1. Incumbe especialmente aos Serviços de Inspecção:
 
 a) Fiscalizar, para prevenção e repressão das respectivas infracções, o cumprimento das normas legais que regulam o exercício das actividades e profissões turísticas, designadamente a exploração dos estabelecimentos hoteleiros e similares, de ou sem interesse para o turismo, das agências de viagens, dos parques de campismo, públicos ou privativos, e de outros meios complementares de alojamento, a prática do campismo fora dos parques e a actividade do pessoal de informação turística;
 
@@ -131,7 +167,7 @@ c) Desempenhar as demais funções de inspecção e fiscalização cometidas por
 
 3. Para efeitos de fiscalização e disciplina das actividades e profissões turísticas e segundo o disposto no artigo 2.º, n.º 2, do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, e demais legislação aplicável, os Serviços de Inspecção devem coordenar a sua acção com a da Inspecção-Geral das Actividades Económicas e com a de outros organismos competentes na matéria.
 
-###### Art. 3.º Para o prosseguimento das finalidades definidas no artigo anterior, compete designadamente aos Serviços de Inspecção:
+Art. 3.º Para o prosseguimento das finalidades definidas no artigo anterior, compete designadamente aos Serviços de Inspecção:
 
 a) Inspeccionar todos os locais onde se exerçam quaisquer actividades ou profissões sujeitas à sua fiscalização;
 
@@ -143,11 +179,11 @@ d) Proceder à instrução dos processos relativos a infracções cujo conhecime
 
 ### CAPÍTULO II — Das normas de processo
 
-###### Art. 4.º - 1. Todas as autoridades e seus agentes que tomem conhecimento das infracções a que se refere o artigo 2.º, n.º 1, alínea a), do presente diploma e não sejam competentes para a instrução dos respectivos processos devem participá-las aos Serviços de Inspecção no prazo de dois dias, a contar do seu conhecimento.
+Art. 4.º - 1. Todas as autoridades e seus agentes que tomem conhecimento das infracções a que se refere o artigo 2.º, n.º 1, alínea a), do presente diploma e não sejam competentes para a instrução dos respectivos processos devem participá-las aos Serviços de Inspecção no prazo de dois dias, a contar do seu conhecimento.
 
 2. A mesma obrigação cabe a todos os funcionários da Secretaria de Estado da Informação e Turismo.
 
-###### Art. 5.º - 1. Os autos de notícia respeitantes a infracções puníveis com multa até 10000$00 e que tenham sido presenciados pelo autuante poderão ser sujeitos a despacho para aplicação da sanção, sem necessidade de quaisquer outras diligências
+Art. 5.º - 1. Os autos de notícia respeitantes a infracções puníveis com multa até 10000$00 e que tenham sido presenciados pelo autuante poderão ser sujeitos a despacho para aplicação da sanção, sem necessidade de quaisquer outras diligências
 
 2. Poderá, porém, o arguido, se não tiver feito o pagamento voluntário da multa, requerer, no mesmo prazo previsto para o pagamento, que se proceda à instrução.
 
@@ -159,7 +195,7 @@ d) Proceder à instrução dos processos relativos a infracções cujo conhecime
 
 6. O deferimento do requerimento de instrução torna sem efeito a sanção aplicada nos termos do n.º 1 do presente artigo.
 
-###### Art. 6.º - 1. A instrução dos processos é secreta.
+Art. 6.º - 1. A instrução dos processos é secreta.
 
 2. A instrução destina-se a provar a existência ou inexistência de infracção e respectivas circunstâncias relevantes, devendo nela efectuar-se todas as diligências necessárias ao apuramento da verdade.
 
@@ -167,27 +203,27 @@ d) Proceder à instrução dos processos relativos a infracções cujo conhecime
 
 4. As declarações e os depoimentos devem constar de auto.
 
-###### Art. 7.º É aplicável à instrução, como direito subsidiário, o Código de Processo Penal e legislação complementar, em tudo quanto não seja inconciliável com a natureza do processo sancionador.
+Art. 7.º É aplicável à instrução, como direito subsidiário, o Código de Processo Penal e legislação complementar, em tudo quanto não seja inconciliável com a natureza do processo sancionador.
 
-###### Art. 8.º As diligências de instrução que for necessário realizar fora da sede dos Serviços de Inspecção ou das suas delegações poderão ser solicitadas às autoridades administrativas ou policiais das localidades onde devam ser efectuadas.
+Art. 8.º As diligências de instrução que for necessário realizar fora da sede dos Serviços de Inspecção ou das suas delegações poderão ser solicitadas às autoridades administrativas ou policiais das localidades onde devam ser efectuadas.
 
-###### Art. 9.º - 1. Concluída a instrução dos processos, será elaborado um relatório sucinto.
+Art. 9.º - 1. Concluída a instrução dos processos, será elaborado um relatório sucinto.
 
 2. Se houver prova bastante da prática da infracção e de quem foram os seus agentes, far-se-á constar do relatório a matéria de facto apurada, indicando-se as normas legais aplicáveis e a identidade dos agentes da infracção; no caso de não haver prova bastante ou de se ter concluído pela inexistência de infracção, isso se fará constar, fundamentadamente, do relatório.
 
 3. Os processos serão em seguida sujeitos a despacho do director-geral do Turismo, precedendo informação do inspector-chefe.
 
-###### Art. 10.º - 1. O arguido será notificado do despacho que aplique a sanção, e, quando for caso disso, a taxa prevista no n.º 5 do artigo 5.º, ou declare a inexistência de infracção, e tem, desde esse momento, acesso ao processo.
+Art. 10.º - 1. O arguido será notificado do despacho que aplique a sanção, e, quando for caso disso, a taxa prevista no n.º 5 do artigo 5.º, ou declare a inexistência de infracção, e tem, desde esse momento, acesso ao processo.
 
 2. O queixoso será também, sempre que possível, notificado da decisão proferida.
 
 3. Da decisão cabe recurso nos termos da legislação ao caso aplicável.
 
-###### Art. 11.º - 1. Em todos os casos em que a competência para a aplicação da sanção seja da Secretaria de Estado da Informação e Turismo, mas em que a respectiva instrução possa ser efectuada por outros organismos, nos termos da legislação especial aplicável, os processos serão remetidos aos Serviços de Inspecção depois de neles ser exarado, sempre que for possível, o relatório a que se refere o artigo 9.º
+Art. 11.º - 1. Em todos os casos em que a competência para a aplicação da sanção seja da Secretaria de Estado da Informação e Turismo, mas em que a respectiva instrução possa ser efectuada por outros organismos, nos termos da legislação especial aplicável, os processos serão remetidos aos Serviços de Inspecção depois de neles ser exarado, sempre que for possível, o relatório a que se refere o artigo 9.º
 
 2. A remessa será efectuada para os presidentes das câmaras municipais, nos casos previstos no artigo 3.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
 
-###### Art. 12.º - 1. Com a notificação do despacho que aplica a multa, e ainda, quando for caso disso, a taxa prevista no n.º 5 do artigo 5.º, os Serviços de Inspecção devem entregar ao infractor as guias, em triplicado, para efeitos de pagamento voluntário.
+Art. 12.º - 1. Com a notificação do despacho que aplica a multa, e ainda, quando for caso disso, a taxa prevista no n.º 5 do artigo 5.º, os Serviços de Inspecção devem entregar ao infractor as guias, em triplicado, para efeitos de pagamento voluntário.
 
 2. O pagamento voluntário deve ser efectuado na tesouraria da Fazenda Pública do concelho ou bairro fiscal da situação do estabelecimento, se se tratar de uma empresa singular ou colectiva, ou do domicílio do infractor, nos demais casos.
 
@@ -199,13 +235,13 @@ d) Proceder à instrução dos processos relativos a infracções cujo conhecime
 
 6. Na falta de cumprimento pelo infractor do disposto no número anterior, extrair-se-á certidão da dívida, que terá força executiva e será remetida aos tribunais das contribuições e impostos para efeitos da cobrança coerciva, nos termos do Código de Processo das Contribuições e Impostos.
 
-###### Art. 13.º - 1. Sem prejuízo do disposto no número seguinte, o produto das multas por infracção das normas legais que regulam o exercício das actividades e profissões turísticas e das taxas previstas no n.º 5 do artigo 5.º constituirá receita do Estado.
+Art. 13.º - 1. Sem prejuízo do disposto no número seguinte, o produto das multas por infracção das normas legais que regulam o exercício das actividades e profissões turísticas e das taxas previstas no n.º 5 do artigo 5.º constituirá receita do Estado.
 
 2. Constituem receita das câmaras municipais as multas aplicadas nos termos dos artigos 3.º e 56.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e as taxas previstas no n.º 5 do artigo 5.º do presente diploma, quando aplicadas nesses processos.
 
-###### Art. 14.º Quando pertença a outras entidades a competência para punir qualquer infracção no exercício das actividades e profissões cuja fiscalização cabe também aos Serviços de Inspecção, estes remeterão àquelas entidades os respectivos autos, ou, se isso resultar da lei aplicável, os correspondentes processos já instruídos.
+Art. 14.º Quando pertença a outras entidades a competência para punir qualquer infracção no exercício das actividades e profissões cuja fiscalização cabe também aos Serviços de Inspecção, estes remeterão àquelas entidades os respectivos autos, ou, se isso resultar da lei aplicável, os correspondentes processos já instruídos.
 
-###### Art. 15.º - 1. Para efeitos do disposto nos artigos 3.º e 56.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), os Serviços de Inspecção remeterão aos presidentes das câmaras municipais só os autos de notícia ou os processos instruídos, consoante as directrizes estabelecidas pela Secretaria de Estado da Informação e Turismo, nos termos do mesmo artigo 3.º
+Art. 15.º - 1. Para efeitos do disposto nos artigos 3.º e 56.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), os Serviços de Inspecção remeterão aos presidentes das câmaras municipais só os autos de notícia ou os processos instruídos, consoante as directrizes estabelecidas pela Secretaria de Estado da Informação e Turismo, nos termos do mesmo artigo 3.º
 
 2. À fiscalização exercida nos termos do artigo 3.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e aos respectivos processos são aplicáveis as disposições deste capítulo, com as necessárias adaptações e as modificações constantes dos números seguintes.
 
@@ -215,27 +251,27 @@ d) Proceder à instrução dos processos relativos a infracções cujo conhecime
 
 ### CAPÍTULO III — Da fiscalização
 
-###### Art. 16.º - 1. O director-geral, o director de serviços, os chefes de repartição e os chefes de secção da Direcção-Geral do Turismo e o inspector-chefe, inspectores, subinspectores e agentes dos Serviços de Inspecção, depois de identificados nos termos do artigo 20.º, têm direito de entrada e permanência, pelo tempo necessário ao exercício das suas funções, em quaisquer locais sujeitos a fiscalização e a qualquer hora do dia ou da noite.
+Art. 16.º - 1. O director-geral, o director de serviços, os chefes de repartição e os chefes de secção da Direcção-Geral do Turismo e o inspector-chefe, inspectores, subinspectores e agentes dos Serviços de Inspecção, depois de identificados nos termos do artigo 20.º, têm direito de entrada e permanência, pelo tempo necessário ao exercício das suas funções, em quaisquer locais sujeitos a fiscalização e a qualquer hora do dia ou da noite.
 
 2. Cometem os crimes previstos nos artigos 186.º e 188.º do Código Penal, conforme for o caso, todos aqueles que, depois da identificação dos funcionários referidos no número anterior, se oponham à sua entrada ou ao livre exercício das suas funções nos locais indicados no mesmo número.
 
-###### Art. 17.º - 1. Os proprietários, directores, gerentes, encarregados e, em geral, os indivíduos que exercerem poderes de direcção nos estabelecimentos e locais sujeitos a fiscalização são obrigados a prestar as informações solicitadas por qualquer dos funcionários referidos no artigo antecedente e a apresentar-lhes a documentação, registos, livros de escrituração comercial e outros elementos que lhes forem exigidos.
+Art. 17.º - 1. Os proprietários, directores, gerentes, encarregados e, em geral, os indivíduos que exercerem poderes de direcção nos estabelecimentos e locais sujeitos a fiscalização são obrigados a prestar as informações solicitadas por qualquer dos funcionários referidos no artigo antecedente e a apresentar-lhes a documentação, registos, livros de escrituração comercial e outros elementos que lhes forem exigidos.
 
 2. A recusa de informações ou de apresentação de quaisquer dos elementos referidos no número anterior é punida nos termos do artigo 188.º do Código Penal.
 
 3. Os que, sendo obrigados a prestar informações, declarações ou depoimentos, o fizerem falsamente cometem o crime previsto no artigo 242.º do mesmo Código.
 
-###### Art. 18.º A fiscalização a que se refere este diploma e quaisquer diligências instrutórias exercer-se-ão de modo a evitar, tanto quanto possível, que seja perturbado o funcionamento normal dos estabelecimentos ou locais onde decorram.
+Art. 18.º A fiscalização a que se refere este diploma e quaisquer diligências instrutórias exercer-se-ão de modo a evitar, tanto quanto possível, que seja perturbado o funcionamento normal dos estabelecimentos ou locais onde decorram.
 
-###### Art. 19.º - 1. O serviço de fiscalização é de carácter permanente e a competência dos respectivos funcionários, para efeitos de tomar conhecimento de qualquer infracção ou reclamação ou para a prática de actos urgentes, não está limitada territorialmente.
+Art. 19.º - 1. O serviço de fiscalização é de carácter permanente e a competência dos respectivos funcionários, para efeitos de tomar conhecimento de qualquer infracção ou reclamação ou para a prática de actos urgentes, não está limitada territorialmente.
 
 2. Consideram-se actos urgentes os que tenham em vista obstar à consumação da infracção ou visem à recolha de prova que de outro modo se perderia, ou que se tornaria contingente ou particularmente difícil.
 
-###### Art. 20.º Por portaria do Secretário de Estado da Informação e Turismo serão criados cartões de identidade especiais e distintivos para identificar os funcionários referidos no artigo 16.º
+Art. 20.º Por portaria do Secretário de Estado da Informação e Turismo serão criados cartões de identidade especiais e distintivos para identificar os funcionários referidos no artigo 16.º
 
 ### CAPÍTULO IV — Dos serviços
 
-###### Art. 21.º - 1. Os Serviços de Inspecção são dirigidos por um inspector-chefe, hieràrquicamente subordinado ao director-geral do Turismo, e compreendem:
+Art. 21.º - 1. Os Serviços de Inspecção são dirigidos por um inspector-chefe, hieràrquicamente subordinado ao director-geral do Turismo, e compreendem:
 
 a) O serviço externo;
 
@@ -243,15 +279,15 @@ b) O serviço de expediente.
 
 2. À estrutura orgânica do serviço de expediente e ao recrutamento do respectivo pessoal aplicar-se-á o disposto no [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968.
 
-###### Art. 22.º Pertencem ao serviço externo os inspectores, os subinspectores e os agentes de 1.ª e de 2.ª classes.
+Art. 22.º Pertencem ao serviço externo os inspectores, os subinspectores e os agentes de 1.ª e de 2.ª classes.
 
-###### Art. 23.º - 1. Os Serviços de Inspecção, com sede em Lisboa, poderão ter delegações noutros lugares.
+Art. 23.º - 1. Os Serviços de Inspecção, com sede em Lisboa, poderão ter delegações noutros lugares.
 
 2. As delegações serão criadas por portaria conjunta do Ministro das Finanças e do Secretário de Estado da Informação e Turismo, na qual se definirão igualmente as respectivas sedes e áreas de fiscalização.
 
 3. Cada delegação será dirigida por um inspector ou subinspector e será dotada com o pessoal adequado às suas necessidades.
 
-###### Art. 24.º Ao inspector-chefe compete dirigir, orientar e coordenar os Serviços de Inspecção e designadamente:
+Art. 24.º Ao inspector-chefe compete dirigir, orientar e coordenar os Serviços de Inspecção e designadamente:
 
 a) Expedir as normas necessárias para a execução do serviço, seu aperfeiçoamento e unidade;
 
@@ -265,7 +301,7 @@ e) Elaborar periòdicamente o relatório e os mapas estatísticos dos Serviços 
 
 f) Apresentar a despacho do director-geral do Turismo os processos instruídos, neles exarando prèviamente a sua informação.
 
-###### Art. 25.º Aos inspectores compete, em geral, coadjuvar o inspector-chefe no exercício das suas funções, e em particular:
+Art. 25.º Aos inspectores compete, em geral, coadjuvar o inspector-chefe no exercício das suas funções, e em particular:
 
 a) Dirigir superiormente o serviço do pessoal que lhes esteja subordinado;
 
@@ -281,7 +317,7 @@ f) Fazer visitas de inspecção, a fim de se inteirarem da oportunidade da fisca
 
 g) Elaborar um relatório mensal, do qual constem os elementos estatísticos referentes ao serviço a seu cargo, designadamente o movimento de processos.
 
-###### Art. 26.º Aos subinspectores compete, em geral, cooperar, sob a superintendência dos inspectores, na orientação do serviço, assegurando a sua correcta execução pelos agentes, e em especial:
+Art. 26.º Aos subinspectores compete, em geral, cooperar, sob a superintendência dos inspectores, na orientação do serviço, assegurando a sua correcta execução pelos agentes, e em especial:
 
 a) Substituir os inspectores nas suas faltas e impedimentos;
 
@@ -297,7 +333,7 @@ f) Executar, ou fazer executar pelos agentes, as diligências que forem superior
 
 g) Manter os inspectores ao corrente do andamento do serviço.
 
-###### Art. 27.º Aos agentes cabe:
+Art. 27.º Aos agentes cabe:
 
 a) Exercer a fiscalização nos termos que lhes forem determinados;
 
@@ -311,31 +347,31 @@ e) Efectuar todas as restantes diligências ordenadas, para os efeitos do dispos
 
 ### CAPÍTULO V — Do provimento
 
-###### Art. 28.º São providos por escolha do Secretário de Estado da Informação e Turismo, entre licenciados em Direito, ou entre outros indivíduos devidamente qualificados, os lugares de inspector-chefe e de inspector dos Serviços de Inspecção.
+Art. 28.º São providos por escolha do Secretário de Estado da Informação e Turismo, entre licenciados em Direito, ou entre outros indivíduos devidamente qualificados, os lugares de inspector-chefe e de inspector dos Serviços de Inspecção.
 
-###### Art. 29.º Os lugares de subinspector serão providos por escolha do Secretário de Estado da Informação e Turismo entre agentes com pelo menos três anos na 1.ª classe e boas informações, ou entre outros indivíduos devidamente qualificados para a função, tendo como habilitações literárias mínimas o 2.º ciclo dos liceus ou equivalente.
+Art. 29.º Os lugares de subinspector serão providos por escolha do Secretário de Estado da Informação e Turismo entre agentes com pelo menos três anos na 1.ª classe e boas informações, ou entre outros indivíduos devidamente qualificados para a função, tendo como habilitações literárias mínimas o 2.º ciclo dos liceus ou equivalente.
 
-###### Art. 30.º Os lugares de agente de 1.ª classe serão providos por promoção dos agentes com pelo menos três anos na 2.ª classe e boas informações de serviço.
+Art. 30.º Os lugares de agente de 1.ª classe serão providos por promoção dos agentes com pelo menos três anos na 2.ª classe e boas informações de serviço.
 
-###### Art. 31.º - 1. Os lugares de agente de 2.ª classe serão providos mediante concurso, a que serão admitidos indivíduos tendo como habilitações literárias mínimas o 2.º ciclo dos liceus ou equivalente.
+Art. 31.º - 1. Os lugares de agente de 2.ª classe serão providos mediante concurso, a que serão admitidos indivíduos tendo como habilitações literárias mínimas o 2.º ciclo dos liceus ou equivalente.
 
 2. Os concursos, organizados pela Direcção-Geral do Turismo, nos termos de despacho do Secretário de Estado da Informação e Turismo, publicado no Diário do Governo, constarão de provas escritas e orais sobre legislação de turismo e noções elementares de direito administrativo e direito processual penal.
 
 3. A habilitação com os cursos das escolas de hotelaria e turismo do Centro Nacional de Formação Turística e Hoteleira ou com os cursos de turismo das escolas privadas, que para o efeito forem definidos por despacho do Secretário de Estado da Informação e Turismo, constituirá, em igualdade de classificação nos concursos, condição de preferência.
 
-###### Art. 32.º O inspector-chefe, os inspectores, subinspectores e agentes têm direito às gratificações a fixar pelo Secretário de Estado da Informação e Turismo, com o acordo do Ministro das Finanças, consoante a natureza ou o ónus especial dos seus cargos, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 32.º O inspector-chefe, os inspectores, subinspectores e agentes têm direito às gratificações a fixar pelo Secretário de Estado da Informação e Turismo, com o acordo do Ministro das Finanças, consoante a natureza ou o ónus especial dos seus cargos, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 33.º No prazo de um ano, a contar da publicação deste diploma, e na medida necessária para ocorrer ao preenchimento dos quadros, os lugares de agente de 1.ª ou de 2.ª classes poderão ser providos por livre escolha do Secretário de Estado da Informação e Turismo, independentemente de outras formalidades, entre indivíduos devidamente qualificados para a função, tendo como habilitações literárias mínimas o 2.º ciclo dos liceus ou equivalente.
+Art. 33.º No prazo de um ano, a contar da publicação deste diploma, e na medida necessária para ocorrer ao preenchimento dos quadros, os lugares de agente de 1.ª ou de 2.ª classes poderão ser providos por livre escolha do Secretário de Estado da Informação e Turismo, independentemente de outras formalidades, entre indivíduos devidamente qualificados para a função, tendo como habilitações literárias mínimas o 2.º ciclo dos liceus ou equivalente.
 
 ### CAPÍTULO VI — Das taxas
 
-###### Art. 34.º - 1. Sem prejuízo das já existentes, são criadas as taxas constantes das tabelas anexas ao presente diploma, a cobrar pela Direcção-Geral do Turismo.
+Art. 34.º - 1. Sem prejuízo das já existentes, são criadas as taxas constantes das tabelas anexas ao presente diploma, a cobrar pela Direcção-Geral do Turismo.
 
 2. As taxas previstas no número anterior constituirão receita do Estado.
 
-###### Art. 35.º fixada em 500$00 a taxa referida no n.º 5 do artigo 34.º do [Decreto n.º 41307](https://diariodarepublica.pt/dr/detalhe/decreto/41307-1957-253633), de 3 de Outubro de 1957.
+Art. 35.º fixada em 500$00 a taxa referida no n.º 5 do artigo 34.º do [Decreto n.º 41307](https://diariodarepublica.pt/dr/detalhe/decreto/41307-1957-253633), de 3 de Outubro de 1957.
 
-###### Art. 36.º - 1. As taxas previstas neste diploma serão pagas nos cofres do Estado por meio de guia, excepto as referidas nos n.os 1 e 7 da tabela I, que serão pagas por estampilha fiscal.
+Art. 36.º - 1. As taxas previstas neste diploma serão pagas nos cofres do Estado por meio de guia, excepto as referidas nos n.os 1 e 7 da tabela I, que serão pagas por estampilha fiscal.
 
 2. As guias serão emitidas, em triplicado, pela Direcção-Geral do Turismo ou pelas entidades que, nos termos legais, se lhe substituírem, e remetidas ao interessado, para pagamento, sob registo.
 
@@ -345,9 +381,9 @@ e) Efectuar todas as restantes diligências ordenadas, para os efeitos do dispos
 
 ### CAPÍTULO VII — Disposições complementares
 
-###### Art. 37.º São aditados ao quadro de pessoal em vigor para os serviços da Secretaria de Estado da Informação e Turismo os lugares constantes do mapa anexo ao presente diploma.
+Art. 37.º São aditados ao quadro de pessoal em vigor para os serviços da Secretaria de Estado da Informação e Turismo os lugares constantes do mapa anexo ao presente diploma.
 
-###### Art. 38.º - 1. A declaração de utilidade turística poderá ser revogada por despacho do Secretário de Estado da Informação e Turismo, desde que o estabelecimento respectivo seja desclassificado em virtude do deficiente estado de conservação das instalações ou de reiteradas deficiências de serviço, mediante verificação feita pelos Serviços de Inspecção ou por outros departamentos da Secretaria de Estado para o efeito designados.
+Art. 38.º - 1. A declaração de utilidade turística poderá ser revogada por despacho do Secretário de Estado da Informação e Turismo, desde que o estabelecimento respectivo seja desclassificado em virtude do deficiente estado de conservação das instalações ou de reiteradas deficiências de serviço, mediante verificação feita pelos Serviços de Inspecção ou por outros departamentos da Secretaria de Estado para o efeito designados.
 
 2. A declaração de utilidade turística poderá ainda ser revogada quando, tendo sido subordinada à observância de quaisquer condicionamentos, se verifique, nos termos da parte final do número anterior, que estes não foram cumpridos.
 
@@ -355,9 +391,9 @@ e) Efectuar todas as restantes diligências ordenadas, para os efeitos do dispos
 
 4. O disposto neste artigo aplica-se às declarações de utilidade turística já concedidas, desde que os factos que fundamentam a revogação sejam posteriores à publicação do presente diploma.
 
-###### Art. 39.º A forma de processamento do pagamento das multas previstas no artigo 235.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, é substituída pela constante do artigo 12.º do presente diploma.
+Art. 39.º A forma de processamento do pagamento das multas previstas no artigo 235.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, é substituída pela constante do artigo 12.º do presente diploma.
 
-###### Art. 40.º São revogados:
+Art. 40.º São revogados:
 
 a) Os n.os 8, 9 e 10 da base XVII da [Lei n.º 2082](https://diariodarepublica.pt/dr/detalhe/lei/2082-1956-231319), de 4 de Junho de 1956;
 
@@ -365,9 +401,9 @@ b) O artigo 30.º e o § único do artigo 34.º do [Decreto n.º 41307](https://
 
 c) O n.º 4 do artigo 50.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969.
 
-###### Art. 41.º O disposto neste diploma não será aplicável respeitem a receitas ou despesas do Estado, serão resolaos processos por infracções ao [Decreto-Lei n.º 41248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41248-1957-281248), de 31 de Agosto de 1957, e [Decreto n.º 41307](https://diariodarepublica.pt/dr/detalhe/decreto/41307-1957-253633), de 3 de Outubro de 1957, pendentes em tribunal à data da sua entrada em vigor.
+Art. 41.º O disposto neste diploma não será aplicável respeitem a receitas ou despesas do Estado, serão resolaos processos por infracções ao [Decreto-Lei n.º 41248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41248-1957-281248), de 31 de Agosto de 1957, e [Decreto n.º 41307](https://diariodarepublica.pt/dr/detalhe/decreto/41307-1957-253633), de 3 de Outubro de 1957, pendentes em tribunal à data da sua entrada em vigor.
 
-###### Art. 42.º - 1. O Secretário de Estado da Informação e Turismo resolverá por despacho as dúvidas levantadas pela aplicação deste decreto-lei e disposições regulamentares que venham a ser publicadas.
+Art. 42.º - 1. O Secretário de Estado da Informação e Turismo resolverá por despacho as dúvidas levantadas pela aplicação deste decreto-lei e disposições regulamentares que venham a ser publicadas.
 
 2. Se as dúvidas, porém, se referirem a disposições que respeitem a receitas ou despesas do Estado, serão resolvidas por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Informação e Turismo.
 
@@ -375,11 +411,11 @@ c) O n.º 4 do artigo 50.º do [Decreto-Lei n.º 49399](https://diariodarepublic
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Tabelas a que se refere o artigo 34.º do Decreto-Lei n.º 74/71, de 17 de Março
 
@@ -455,6 +491,6 @@ Observações. - As taxas previstas nos n.os 1 e 2 serão elevadas para o dobro 
 
 Mapa a que se refere o artigo 37.º do Decreto-Lei n.º 74/71, de 17 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/03/06400/03320337.pdf))](https://files.diariodarepublica.pt/1s/1971/03/06400/03320337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/03/06400/03320337.pdf)
 
-**O Presidente do Conselho, Marcello Caetano.**
+O Presidente do Conselho, Marcello Caetano.

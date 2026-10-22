@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/05/10700/05780578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/198-1970-142105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e226496fabb3dcf644245c4ba341f690393cad2076be487cb8fae847afad01f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f841d0a58b35ccd498c27b34da3f6b6100b901c6bd79f0e3b0270303c893dd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Atividade Industrial
+- Licenciamento
+- Petróleo
+- Resíduo Industrial
 relationships:
 - type: amended_by
   target: pt:dre:628828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628828:por
+  label: "Revogado, a partir de 14.01.2008, pelo DEC LEI.389/2007.30.11.2007.MEI, DR.IS [231] de 30.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-2007-628828
+  date: '2007-11-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:11Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +107,18 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao artigo 56.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, é dada a seguinte redacção:
+Artigo 1.º Ao artigo 56.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, é dada a seguinte redacção:
 
-###### Art. 56.º As entidades singulares ou colectivas que desejem obter licença para construção ou exploração de tanques ou armazéns de petróleos brutos, de produtos seus derivados e de resíduos do seu tratamento deverão pedi-la em requerimento entregue na Direcção-Geral dos Combustíveis, dirigido ao Secretário de Estado da Indústria.
+Art. 56.º As entidades singulares ou colectivas que desejem obter licença para construção ou exploração de tanques ou armazéns de petróleos brutos, de produtos seus derivados e de resíduos do seu tratamento deverão pedi-la em requerimento entregue na Direcção-Geral dos Combustíveis, dirigido ao Secretário de Estado da Indústria.
 
-###### Art. 2.º O artigo 72.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, passa a ter a seguinte redacção:
+Art. 2.º O artigo 72.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, passa a ter a seguinte redacção:
 
-###### Art. 72.º As disposições deste decreto são aplicadas às instalações de armazenagem de petróleos brutos, seus derivados e resíduos, de capacidade superior a 300 l, referida a produtos de 1.ª categoria nos termos do artigo 5.º do Regulamento de Segurança das Instalações para Armazenagem e Tratamento Industrial de Petróleos Brutos, seus Derivados e Resíduos, aprovado pelo [Decreto n.º 36270](https://diariodarepublica.pt/dr/detalhe/decreto/36270-1947-185521), de 9 de Maio de 1947, considerando os reservatórios subterrâneos equiparados aos armazéns de produtos em taras.
+Art. 72.º As disposições deste decreto são aplicadas às instalações de armazenagem de petróleos brutos, seus derivados e resíduos, de capacidade superior a 300 l, referida a produtos de 1.ª categoria nos termos do artigo 5.º do Regulamento de Segurança das Instalações para Armazenagem e Tratamento Industrial de Petróleos Brutos, seus Derivados e Resíduos, aprovado pelo [Decreto n.º 36270](https://diariodarepublica.pt/dr/detalhe/decreto/36270-1947-185521), de 9 de Maio de 1947, considerando os reservatórios subterrâneos equiparados aos armazéns de produtos em taras.
 
 Marcello Caetano - Rogério da Conceição Serafim Martins.
 
-**Promulgado em 24 de Abril de 1970.**
+Promulgado em 24 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/463-1972-686247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3844d9129d5399dfb601d08243362402bccfbf88435dcc73feee7cdecc45e1a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9acdf7b5bad8f8a0e60d8de3b653ff4c7233edd482936c9961005b91dcb637f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:41Z'
   warnings: []
   errors: []
 ---
@@ -93,37 +93,37 @@ Sob proposta do Governo-Geral de Angola e ouvidos o Governo-Geral de Moçambique
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º O certificado de dívida inscrita uma forma de representação da dívida pública que reúne em si qualquer número de obrigações do mesmo empréstimo.
+Artigo 1.º O certificado de dívida inscrita uma forma de representação da dívida pública que reúne em si qualquer número de obrigações do mesmo empréstimo.
 
-###### Art. 2.º - 1. O certificado de dívida inscrita pode ser nominativo ou assentado ao portador.
+Art. 2.º - 1. O certificado de dívida inscrita pode ser nominativo ou assentado ao portador.
 
 2. É nominativo quando do próprio certificado consta o nome do seu proprietário, cuja identidade é exigida para a transmissão do capital nele representado ou recebimento dos respectivos juros.
 
 3. É assentado ao portador quando dele não consta o nome do proprietário, sendo, por isso, transmissível por simples posse e podendo os juros ser recebidos por quem o apresentar, mediante a competente identificação.
 
-###### Art. 3.º Quando o usufruto e a propriedade dos certificados de dívida inscrita pertencerem a pessoas diferentes, poderão passar-se certificados de usufruto e de propriedade a favor, respectivamente, dos usufrutuários e proprietários.
+Art. 3.º Quando o usufruto e a propriedade dos certificados de dívida inscrita pertencerem a pessoas diferentes, poderão passar-se certificados de usufruto e de propriedade a favor, respectivamente, dos usufrutuários e proprietários.
 
-###### Art. 4.º - 1. A folha de rosto do certificado de dívida inscrita será normalmente semelhante à de um título unitário do respectivo empréstimo, reservando-se a segunda página para indicação das isenções, garantias e quadro de amortização, a terceira para os assentamentos e a quarta para o movimento do capital e juros e tabela de pagamentos.
+Art. 4.º - 1. A folha de rosto do certificado de dívida inscrita será normalmente semelhante à de um título unitário do respectivo empréstimo, reservando-se a segunda página para indicação das isenções, garantias e quadro de amortização, a terceira para os assentamentos e a quarta para o movimento do capital e juros e tabela de pagamentos.
 
 2. Os certificados de propriedade não inserirão tabela de pagamentos.
 
 3. Serão utilizadas cores diversas, dentro do mesmo empréstimo, para as várias espécies de certificados.
 
-###### Art. 5.º Os títulos e certificados de dívida inscrita são transmissíveis por todos os modos admitidos em direito, mas só podem negociar-se fora de cada uma das províncias ultramarinas mutuárias os títulos e certificados que tenham sido exportados legalmente.
+Art. 5.º Os títulos e certificados de dívida inscrita são transmissíveis por todos os modos admitidos em direito, mas só podem negociar-se fora de cada uma das províncias ultramarinas mutuárias os títulos e certificados que tenham sido exportados legalmente.
 
-###### Art. 6.º A transmissão de títulos de cupões, e a destes, faz-se pela simples transferência da sua posse, reconhecendo-se como proprietários legítimos os seus portadores, sempre que não haja suspeita de falsificação.
+Art. 6.º A transmissão de títulos de cupões, e a destes, faz-se pela simples transferência da sua posse, reconhecendo-se como proprietários legítimos os seus portadores, sempre que não haja suspeita de falsificação.
 
-###### Art. 7.º - 1. Os títulos e certificados de dívida inscrita podem incorporar quaisquer direitos reais, designadamente o de propriedade pura ou condicional, singular ou comum.
+Art. 7.º - 1. Os títulos e certificados de dívida inscrita podem incorporar quaisquer direitos reais, designadamente o de propriedade pura ou condicional, singular ou comum.
 
 2. As obrigações de dívida pública que incorporem um direito de propriedade singular e não sujeita a condição podem ser representadas em títulos de cupão ou em certificados de dívida inscrita.
 
 3. As obrigações que incorporem direito de propriedade diverso do previsto no número anterior ou outros direitos reais serão sempre representadas em certificados de dívida inscrita nominativos.
 
-###### Art. 8.º - 1. A propriedade dos certificados de dívida inscrita nominativos é garantida pelo registo no próprio certificado do nome da pessoa ou entidade a quem pertencer; do mesmo registo deverão constar as cláusulas que modifiquem a natureza da propriedade.
+Art. 8.º - 1. A propriedade dos certificados de dívida inscrita nominativos é garantida pelo registo no próprio certificado do nome da pessoa ou entidade a quem pertencer; do mesmo registo deverão constar as cláusulas que modifiquem a natureza da propriedade.
 
 2. Designa-se assentamento o registo de propriedade aposto num certificado; e por averbamento o registo de cláusulas supervenientes, e bem assim as aclarações, modificações ou cancelamento das existentes.
 
-###### Art. 9.º - 1. O assentamento de certificados de dívida inscrita só pode ser ordenado, nos termos regulamentares, pela Direcção Provincial de Finanças, e poderá fundar-se em:
+Art. 9.º - 1. O assentamento de certificados de dívida inscrita só pode ser ordenado, nos termos regulamentares, pela Direcção Provincial de Finanças, e poderá fundar-se em:
 
 a) Endosso particular ou pertence lançado em juízo;
 
@@ -137,9 +137,9 @@ d) Habilitação administrativa requerida perante a Direcção Provincial de Fin
 
 3. A representação de pais ou tutores em assentamento a menores caduca logo que estes tenham atingido a maioridade; para tal efeito, a idade do menor constará do respectivo assentamento.
 
-###### Art. 10.º Compete igualmente à Direcção Provincial de Finanças ordenar os averbamentos, de harmonia com o documento exigido pela natureza da cláusula ou alteração pedida.
+Art. 10.º Compete igualmente à Direcção Provincial de Finanças ordenar os averbamentos, de harmonia com o documento exigido pela natureza da cláusula ou alteração pedida.
 
-###### Art. 11.º - 1. Sem prejuízo de outros especialmente consignados e desde que as respectivas características o permitam, os títulos e certificados de dívida inscrita gozam, de uma maneira geral, dos seguintes direitos, isenções e regalias:
+Art. 11.º - 1. Sem prejuízo de outros especialmente consignados e desde que as respectivas características o permitam, os títulos e certificados de dívida inscrita gozam, de uma maneira geral, dos seguintes direitos, isenções e regalias:
 
 a)Pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais das respectivas províncias ultramarinas, na parte que a cada uma disser respeito e de harmonia com o preceituado nos n.º 2 e 3 a base LVII e na alínea a) do n.º 2 da base LXII da Lei Orgânica do Ultramar Português;
 
@@ -155,7 +155,7 @@ um prémio sobre a importância antecipada, calculado à taxa de desconto do ban
 
 2. Os títulos e certificados representativos dos empréstimos autorizados pelos Decretos-Leis n.os 46378 e 46379, de 11 de Junho de 1965, só gozam da isenção consignada na alínea c) quando os seus detentores residam no continente e ilhas adjacentes ou nas correspondentes províncias mutuárias.
 
-###### Art. 12.º Os títulos e certificados de dívida inscrita gozam também dos seguintes privilégios:
+Art. 12.º Os títulos e certificados de dívida inscrita gozam também dos seguintes privilégios:
 
 a) O portador que os tiver adquirido por intermédio de corrector oficial não pode ser desapossado deles por vício de aquisição sem prévia restituição do seu preço à última cotação;
 
@@ -165,9 +165,9 @@ c) A arrematação em hasta pública será substituída pela liquidação do val
 
 d) Só pode proceder-se à retenção dos juros para cumprimento de obrigações registadas no respectivo assentamento ou para pagamento de despesas devidas por operações requeridas perante a Direcção Provincial de Finanças.
 
-###### Art. 13.º A propriedade resolúvel ou outros direitos reais gozam de todas as garantias e privilégios compatíveis com a sua natureza e extensão.
+Art. 13.º A propriedade resolúvel ou outros direitos reais gozam de todas as garantias e privilégios compatíveis com a sua natureza e extensão.
 
-###### Art. 14.º - 1. Os títulos de cupão e os certificados de dívida inscrita, desde que as respectivas características o permitam, podem ser objecto das seguintes operações:
+Art. 14.º - 1. Os títulos de cupão e os certificados de dívida inscrita, desde que as respectivas características o permitam, podem ser objecto das seguintes operações:
 
 a) Integração;
 
@@ -181,7 +181,7 @@ e) Substituição.
 
 2. Dá-se a integração quando os títulos ou certificados são englobados noutros da mesma natureza; o desdobramento, quando um título ou certificado é dividido noutros da mesma natureza; a inversão, quando a dívida representada em títulos de cupão passa a ser representada em certificados de dívida inscrita; a reversão, quando a dívida representada em certificados de dívida inscrita volta a ser representada em títulos de cupão; a substituição, quando por cada título ou certificado deteriorado ou destruído, total ou parcialmente, se entrega outro.
 
-###### Art. 15.º - 1. A inversão em dívida inscrita pode ser:
+Art. 15.º - 1. A inversão em dívida inscrita pode ser:
 
 a) Obrigatória, se respeita a capitais imobilizados temporàriamente, tais como cauções, dotes, usufrutos, valores pertencentes a menores ou interditos ou a capitalizações legalmente obrigatórias em dívida pública;
 
@@ -191,17 +191,17 @@ b) Facultativa, se representa capitalizações livres, pertencentes a pessoas si
 
 3. Na inversão facultativa será ilimitado o número de certificados de dívida inscrita, nominativos ou assentados ao portador, que podem ser solicitados pela mesma pessoa ou entidade.
 
-###### Art. 16.º Aos tribunais competentes, tutores e demais pessoas ou entidades interessadas em capitalizações obrigatórias é facultado solicitarem directamente à Direcção Provincial de Finanças a inversão em certificado nominativo dos valores em títulos de cupão ou certificados de qualquer empréstimo que já possuam ou venham a adquirir no mercado.
+Art. 16.º Aos tribunais competentes, tutores e demais pessoas ou entidades interessadas em capitalizações obrigatórias é facultado solicitarem directamente à Direcção Provincial de Finanças a inversão em certificado nominativo dos valores em títulos de cupão ou certificados de qualquer empréstimo que já possuam ou venham a adquirir no mercado.
 
-###### Art. 17.º Quando os créditos contra a província pertencerem em usufruto a uma pessoa e em propriedade a outras, ou esta pertencer a menores, poderão os interesses dos proprietários ser acautelados pela inversão dos respectivos valores em certificados de dívida inscrita nominativos.
+Art. 17.º Quando os créditos contra a província pertencerem em usufruto a uma pessoa e em propriedade a outras, ou esta pertencer a menores, poderão os interesses dos proprietários ser acautelados pela inversão dos respectivos valores em certificados de dívida inscrita nominativos.
 
-###### Art. 18.º - 1. Os títulos e certificados de dívida inscrita que não incorporem um direito de propriedade condicional podem ser objecto de desdobramento ou reversão, total ou parcial.
+Art. 18.º - 1. Os títulos e certificados de dívida inscrita que não incorporem um direito de propriedade condicional podem ser objecto de desdobramento ou reversão, total ou parcial.
 
 2. Os desdobramentos ou reversões de certificados com cláusula de imobilidade só poderão ser obtidos quando se prove a caducidade da respectiva cláusula.
 
 3. É permitido endossar sòmente parte de um certificado nominativo, podendo neste caso indicar-se os números das obrigações alienadas.
 
-###### Art. 19.º - 1. A substituição de certificados de dívida inscrita, nominativos ou assentados ao portador, é permitida nos seguintes termos:
+Art. 19.º - 1. A substituição de certificados de dívida inscrita, nominativos ou assentados ao portador, é permitida nos seguintes termos:
 
 a) Por outros da mesma espécie e assentamento;
 
@@ -213,15 +213,15 @@ b) A favor de terceiros, quando, além da sua deterioração ou destruição, se
 
 4. Na Direcção Provincial de Finanças haverá um livro de notas em que serão extractados os pedidos relativos à substituição de certificados de dívida inscrita destruídos.
 
-###### Art. 20.º - 1. É permitida a substituição de títulos de dívida pública de cupão, deteriorados ou parcialmente destruídos, sempre que se possam identificar os respectivos números e características e não lhes falte a folha de cupões.
+Art. 20.º - 1. É permitida a substituição de títulos de dívida pública de cupão, deteriorados ou parcialmente destruídos, sempre que se possam identificar os respectivos números e características e não lhes falte a folha de cupões.
 
 2. Não podem, porém, ser substituídos os títulos de cupão totalmente destruídos ou cuja deterioração torne impossível a sua completa identificação.
 
-###### Art. 21.º Será proposta oficialmente, se os interessados a não requererem, a substituição de título ou certificado
+Art. 21.º Será proposta oficialmente, se os interessados a não requererem, a substituição de título ou certificado
 
 que, pelo seu estado de deterioração ou qualquer outro motivo, possa afectar o seu valor ou o prestígio do crédito público.
 
-###### Art. 22.º - 1. Os pedidos de títulos e certificados de dívida inscrita serão formulados em impresso próprio fornecido pela Direcção Provincial de Finanças, a preencher em duplicado, e deles constará o nome e morada do interessado ou seu procurador, o objecto, o montante do capital e a sua representação especificada por números e vencimentos.
+Art. 22.º - 1. Os pedidos de títulos e certificados de dívida inscrita serão formulados em impresso próprio fornecido pela Direcção Provincial de Finanças, a preencher em duplicado, e deles constará o nome e morada do interessado ou seu procurador, o objecto, o montante do capital e a sua representação especificada por números e vencimentos.
 
 2. O duplicado será devolvido ao requerente e servirá de documento-ficha para receber os títulos ou certificados, devendo nele ser lançada a declaração de recebimento por aquele a quem de facto for feita a entrega.
 
@@ -229,15 +229,15 @@ que, pelo seu estado de deterioração ou qualquer outro motivo, possa afectar o
 
 4. Se o pedido envolver imobilização obrigatória, far-se-á constar da informação a que se refere o artigo 23.º, n.º 1. se existe qualquer outro certificado do mesmo empréstimo assentado ao requerente.
 
-###### Art. 23.º - 1. Do processo de criação dos certificados de dívida inscrita constará informação sobre as conferências e averiguações necessárias à realização da operação requerida e ao número, capital, juro e assentamento do certificado a criar, após o que será sujeito ao director provincial de Finanças para despacho, que terá execução imediata.
+Art. 23.º - 1. Do processo de criação dos certificados de dívida inscrita constará informação sobre as conferências e averiguações necessárias à realização da operação requerida e ao número, capital, juro e assentamento do certificado a criar, após o que será sujeito ao director provincial de Finanças para despacho, que terá execução imediata.
 
 2. Quando os títulos ou certificados a entregar tenham juros vencidos, promover-se-á oficiosamente a actualização da respectiva cobrança.
 
 3. A numeração dos certificados será dada pela ordem de registo no livro numerador respectivo.
 
-###### Art. 24.º Não serão inutilizados, desde que se apresentem em bom estado de conservação, os títulos de cupão que forem entregues na Direcção Provincial de Finanças para inversão em dívida inscrita, com vista a possibilitar a operação de reversão sem necessidade de se imprimirem novos títulos.
+Art. 24.º Não serão inutilizados, desde que se apresentem em bom estado de conservação, os títulos de cupão que forem entregues na Direcção Provincial de Finanças para inversão em dívida inscrita, com vista a possibilitar a operação de reversão sem necessidade de se imprimirem novos títulos.
 
-###### Art. 25.º - 1. Os juros dos certificados de dívida inscrita serão pagos nos respectivos vencimentos em conformidade com os assentamentos, mediante preenchimento da guia de cobrança e entrega do correspondente certificado.
+Art. 25.º - 1. Os juros dos certificados de dívida inscrita serão pagos nos respectivos vencimentos em conformidade com os assentamentos, mediante preenchimento da guia de cobrança e entrega do correspondente certificado.
 
 2. Os certificados serão devolvidos aos juristas depois de ter sido aposto no lugar próprio o carimbo de pagamento.
 
@@ -251,7 +251,7 @@ b) Apresentação do bilhete de identidade;
 
 c) Aposição de selo branco ou carimbo a tinta de óleo por instituições de crédito, correctores oficiais, associações, sociedades ou fundações e pessoas colectivas de direito público.
 
-###### Art. 26.º - 1. Consideram-se abandonados em favor do Estado:
+Art. 26.º - 1. Consideram-se abandonados em favor do Estado:
 
 a) Os títulos e certificados de dívida inscrita quando, durante o prazo de vinte anos, os seus titulares ou possuidores não hajam cobrado os respectivos juros ou amortizações, ou não tenham manifestado por outro modo legítimo e inequívoco o seu direito sobre os títulos ou certificados;
 
@@ -259,24 +259,24 @@ b) Os juros e amortizações dos mesmos títulos ou certificados quando, durante
 
 2. Os prazos fixados no número anterior contam-se a partir do primeiro dia em que os rendimentos se devam considerar vencidos ou em pagamento, ou da prática, pelos titulares ou possuidores, do último acto pelo qual tenham manifestado o seu direito.
 
-###### Art. 27.º As disposições do Código Civil sobre suspensão e interrupção da prescrição são aplicáveis, com as necessárias adaptações, ao abandono previsto no artigo anterior.
+Art. 27.º As disposições do Código Civil sobre suspensão e interrupção da prescrição são aplicáveis, com as necessárias adaptações, ao abandono previsto no artigo anterior.
 
-###### Art. 28.º - 1. À declaração de abandono e adjudicação a favor do Estado, nos termos deste diploma, é aplicável o processo regulado nos artigos 1132.º e 1133.º do Código de Processo Civil.
+Art. 28.º - 1. À declaração de abandono e adjudicação a favor do Estado, nos termos deste diploma, é aplicável o processo regulado nos artigos 1132.º e 1133.º do Código de Processo Civil.
 
 2. Os bens adjudicados ao Estado serão entregues aos Serviços Provinciais de Finanças e terão o destino que for determinado por despacho do Governador da província.
 
-###### Art. 29.º - 1. Quando não tiver sido pedido, até ao primeiro vencimento posterior à sua amortização por sorteio, o reembolso de títulos de cupão amortizados, os juros correspondentes àquele vencimento e seguintes, cujo pagamento é de presumir que esteja a ser efectuado por os títulos continuarem em circulação, serão, sucessivamente, debitados numa conta de portadores remissos e considerar-se-ão liquidações parcelares do reembolso, a regularizar, por dedução, quando este se verificar.
+Art. 29.º - 1. Quando não tiver sido pedido, até ao primeiro vencimento posterior à sua amortização por sorteio, o reembolso de títulos de cupão amortizados, os juros correspondentes àquele vencimento e seguintes, cujo pagamento é de presumir que esteja a ser efectuado por os títulos continuarem em circulação, serão, sucessivamente, debitados numa conta de portadores remissos e considerar-se-ão liquidações parcelares do reembolso, a regularizar, por dedução, quando este se verificar.
 
 2. Se, ao efectuar-se o reembolso, se verificar estarem apensos aos títulos algum ou todos os cupões que se presumiu terem sido pagos, proceder-se-á à anulação dos respectivos débitos.
 
-###### Art. 30.º Os livros e os impressos necessários à execução do presente diploma serão aprovados por despacho do Governador da respectiva província.
+Art. 30.º Os livros e os impressos necessários à execução do presente diploma serão aprovados por despacho do Governador da respectiva província.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Novembro de 1972.**
+Promulgado em 9 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

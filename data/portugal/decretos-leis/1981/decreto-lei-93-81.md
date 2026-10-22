@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/09800/10091009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1981-394736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f17e79f2878b8a2358bea8c2edb54363af7eef6ad26f69e48c335610306c6fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f63cc32a89d2cd5601f67dbfc8802fe67a771d3d9e927868adc4d0168d5884ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:627236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391636:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 444/86, DE 31 DE DEZEMBRO, PUBLICADO DR.IS, 300, 13SUPL.\0UPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-12-31'
+- type: repealed_by
+  target: pt:dre:627236:por
+  label: Revogado pelo(a) Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1986-627236
+  date: '1986-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:14Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 15.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, passa a ter a seguinte redacção:
+Artigo único. O artigo 15.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 15.º - 1 - O tabaco fornecido em regime de consumo de bordo será conservado em compartimento selado pela autoridade aduaneira nos termos da legislação própria.
+Art. 15.º - 1 - O tabaco fornecido em regime de consumo de bordo será conservado em compartimento selado pela autoridade aduaneira nos termos da legislação própria.
 
 2 - O Ministro das Finanças e do Plano pode dispensar, em casos especiais devidamente justificados, a selagem do compartimento referido no número anterior.
 
@@ -107,8 +125,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Abril de 1981.**
+Promulgado em 14 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

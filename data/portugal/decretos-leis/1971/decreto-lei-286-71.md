@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1971-643688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed5fc1435cf7d94e01a38ab52286698c8b364c0accdbcb1f6065dae4cd7cbbc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 403800352cd57085a976e8176050a579b935483e512da4bc7af6e58b2b60742f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Mútua
+- Convenção
+- Cooperação Internacional
+- Exploração do Espaço
+- Investigação Científica e Tecnológica
+- Londres
+- Moscovo
+- Portugal
+- Responsabilidade Internacional
+- Segurança Internacional
+- Transporte Espacial
+- Tratado sobre os Principios que Regem as Actividades dos Estados na Exploração e Utilização do Espaço Exterior Incluindo
+  a LUA e outros Corpos Celestes
+- Utilização do Espaço
+- Washington
 relationships:
 - type: amended_by
   target: pt:dre:667754:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667754:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para Adesão pelo presente diploma, pelo DEC.191/99.1999.10.22.PR,\
+    \ DR.IS-A [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/191-1999-667754
+  date: '1999-10-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:18Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +113,15 @@ de 30 de Junho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Tratado sobre os Princípios Que Regem as Actividades dos Estados na Exploração e Utilização do Espaço Exterior, Incluindo a Lua e Outros Corpos Celestes, assinado em Washington, Londres e Moscovo em 27 de Janeiro de 1967, cujos textos, em inglês e respectiva tradução portuguesa, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para adesão, o Tratado sobre os Princípios Que Regem as Actividades dos Estados na Exploração e Utilização do Espaço Exterior, Incluindo a Lua e Outros Corpos Celestes, assinado em Washington, Londres e Moscovo em 27 de Janeiro de 1967, cujos textos, em inglês e respectiva tradução portuguesa, vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 11 de Junho de 1971.**
+Promulgado em 11 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente á Assembleia Nacional.
 
@@ -242,7 +263,7 @@ Convictos de que o Tratado sobre os Princípios Que Regem as Actividades dos Est
 
 Acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 A exploração e utilização do espaço exterior, incluindo a Lua e outros corpos celestes, será conduzida para benefício e interesse de todos os países, independentemente do seu grau de desenvolvimento económico ou científico, constituindo apanágio de toda a Humanidade.
 
@@ -250,21 +271,21 @@ O espaço exterior, compreendendo a Lua e os outros corpos celestes, poderá ser
 
 Haverá liberdade de investigação científica no espaço exterior, incluindo a Lua e outros corpos celestes, e os Estados facilitarão e encorajarão a cooperação internacional em tal investigação.
 
-ARTIGO II
+###### ARTIGO II
 
 O espaço exterior, incluindo a Lua e outros corpos celestes, não poderá ser objecto de apropriação nacional por reivindicação de soberania, uso, ocupação ou qualquer outro processo.
 
-ARTIGO III
+###### ARTIGO III
 
 Os Estados Partes neste Tratado conduzirão as suas actividades na exploração e utilização do espaço exterior, incluindo a Lua e outros corpos celestes, em conformidade com o direito internacional, incluindo a Carta das Nações Unidas, no interesse da manutenção da paz e segurança internacionais e promovendo a cooperação internacional e a compreensão recíprocas.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Os Estados Partes neste Tratado comprometem-se a não colocar em órbita à volta da Terra quaisquer objectos transportando armas nucleares ou quaisquer outras espécies de armas de destruição maciça, a não instalar tais armas nos corpos celestes e a não manter, sob quaisquer formas, as armas no espaço exterior.
 
 A Lua e outros corpos celestes deverão ser utilizados por todos os Estados Partes no Tratado exclusivamente para fins pacíficos. A instalação de bases militares, fortificações ou outras instalações militares, os ensaios de qualquer tipo de armas e a condução de manobras militares nos corpos celestes serão proibidas. Não será proibida, contudo, a utilização de pessoal militar para investigação científica ou para quaisquer outros fins pacíficos. Também não ficará proibido o uso de qualquer equipamento ou facilidades necessárias à exploração pacífica da Lua e dos outros corpos celestes.
 
-ARTIGO V
+###### ARTIGO V
 
 Os Estados Partes neste Tratado considerarão os astronautas como enviados da Humanidade no espaço exterior, e prestar-lhes-ão toda a possível assistência no caso de acidente, perigo de aterragem ou amaragem de emergência no território de um Estado Parte ou no alto mar. Quando os astronautas efectuarem tal aterragem ou amaragem, serão segura e prontamente devolvidos ao Estado onde se achar registada a sua nave espacial.
 
@@ -272,43 +293,43 @@ No desempenho das actividades no espaço exterior e nos corpos celestes, os astr
 
 Os Estados Partes no Tratado deverão imediatamente informar os outros Estados Partes ou o secretário-geral das Nações Unidas de qualquer fenómeno que descubram no espaço exterior, incluindo a Lua e outros corpos celestes, e que possa constituir perigo para a vida ou saúde dos astronautas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os Estados Partes no Tratado sujeitam-se a responsabilidade internacional pelas suas actividades nacionais no espaço exterior, incluindo a Lua e os outros corpos celestes, quer tais actividades sejam conduzidas por agências governamentais, quer por entidades não governamentais e ainda por assegurar que as actividades nacionais sejam prosseguidas em conformidade com as provisões fixadas no presente Tratado. As actividades de entidades não governamentais no espaço exterior, incluindo a Lua e os outros corpos celestes, dependem da autorização e supervisão contínua do competente Estado Parte no Tratado. Quando as actividades são prosseguidas no espaço exterior, incluindo a Lua e os outros corpos celestes, por uma organização internacional, quer esta, quer os Estados Partes nela participantes, serão responsáveis nos termos do presente Tratado.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Cada Estado Parte no Tratado que proceda ou faça proceder ao lançamento de um objecto no espaço exterior, incluindo a Lua e os outros corpos celestes, e cada Estado Parte de cujo território ou instalações um objecto é lançado, é internacionalmente responsável perante outro Estado Parte ou perante pessoas naturais ou jurídicas, pelos danos causados por tal objecto ou pelas suas partes componentes, tanto na Terra, como no espaço aéreo e espaço exterior, incluindo a Lua e os outros corpos celestes.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O Estado Parte sob cujo registo está inscrito um objecto lançado no espaço exterior manterá a jurisdição e o contrôle sobre tal objecto e sobre o pessoal do mesmo, quando no espaço exterior ou num corpo celeste. A propriedade de objectos lançados no espaço exterior, incluindo os objectos colocados ou construídos num corpo celeste, bem como as suas partes componentes, não é afectada pela sua presença no espaço exterior ou num corpo celeste ou pelo seu regresso à Terra. Tais objectos, ou partes componentes, encontrados para além dos limites do Estado Parte sob cujo registo se acham inscritos serão devolvidos a esse Estado Parte, que deverá prèviamente fornecer, se pedidos, os dados de identificação.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Na exploração e utilização do espaço exterior, incluindo a Lua e os outros corpos celestes, os Estados Partes no Tratado serão guiados pelo princípio da cooperação e assistência mútua e conduzirão todas as suas actividades no espaço exterior, incluindo a Lua e os outros corpos celestes, com a devida consideração pelos interesses correspondentes de todos os outros Estados Partes. Os Estados Partes no Tratado prosseguirão os seus estudos sobre o espaço exterior, incluindo a Lua e os outros corpos celestes, e conduzirão as suas explorações por forma a evitar a sua nociva contaminação e também alterações prejudiciais no ambiente da Terra, resultante da introdução de substâncias extraterrestres e, quando necessário, adoptarão medidas apropriadas a estes fins. Se um Estado Parte tem razões para crer que determinada actividade ou experiência projectada por si ou pelos seus nacionais no espaço exterior, incluindo a Lua e os outros corpos celestes, poderá potencialmente causar interferências nocivas com as actividades de outros Estados Partes na exploração e utilização pacífica do espaço exterior, incluindo a Lua e os outros corpos celestes, deverá encetar consultas internacionais apropriadas antes de iniciar tal actividade ou experiência. Um Estado Parte no Tratado que tenha razões para supor que uma actividade ou experiência projectada por outro Estado Parte no espaço exterior, incluindo a Lua e os outros corpos celestes, venha a causar potencialmente interferência nociva com actividades de exploração pacífica e utilização do espaço exterior, incluindo a Lua e os outros corpos celestes, pode solicitar consultas sobre a referida actividade ou experiência.
 
-ARTIGO X
+###### ARTIGO X
 
 Na intenção de promover a cooperação internacional na exploração e utilização do espaço exterior, compreendendo a Lua e os outros corpos celestes, e em conformidade com os objectivos do presente Tratado, os Estados Partes examinarão em base de igualdade os pedidos de outros Estados Partes, com vista a obterem facilidades para observação de voo dos objectos espaciais lançados por aqueles Estados.
 
 As circunstâncias e condições em que tal observação poderá ser concedida serão determinadas por acordo entre os Estados interessados.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Na intenção de promover a cooperação internacional na exploração e utilização pacífica do espaço exterior, os Estados Partes que conduzam actividades no espaço exterior, incluindo a Lua e os outros corpos celestes, concordam em informar o secretário-geral das Nações Unidas, assim como o público e a comunidade científica internacional, o mais amplamente que seja viável, sobre a natureza, processamento, localização e resultados de tais actividades. Ao receber tais informações, o secretário-geral das Nações Unidas deverá estar habilitado a divulgá-las imediata e eficientemente.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Todas as estações, instalações, equipamento e veículos espaciais na Lua e os outros corpos celestes estarão disponíveis para os representantes dos Estados Partes em base de reciprocidade. Tais representantes darão notícia devidamente antecipada sobre a projectada visita, a fim de que as apropriadas consultas possam ser realizadas e as máximas precauções tomadas, de forma a garantir a segurança e evitar interferências com operações normais em curso no local da instalação visitada.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 As disposições do presente Tratado deverão aplicar-se às actividades dos Estados Partes na exploração e utilização do espaço exterior, incluindo a Lua e os outros corpos celestes, quer tais actividades sejam prosseguidas por um Estado Parte isoladamente ou conjuntamente com outros Estados, incluindo os casos em que são prosseguidas no âmbito de organizações internacionais intergovernamentais.
 
 Quaisquer questões práticas que venham a surgir relativamente a actividades prosseguidas por organizações internacionais intergovernamentais em matéria de exploração e utilização do espaço exterior, incluindo a Lua e os outros corpos celestes, serão resolvidas pelos Estados Partes no Tratado,, quer com a competente organização internacional, quer com um ou mais dos Estados Membros da organização internacional que são Partes no presente Tratado.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1. O presente Tratado estará aberto para assinatura a todos os Estados. Qualquer Estado que o não assine antes da sua entrada em vigor, nos termos do parágrafo 3 deste artigo, poderá aderir-lhe em qualquer momento.
 
@@ -322,15 +343,15 @@ ARTIGO XIV
 
 6. Este Tratado deverá ser registado pelos Governos depositários nos termos do artigo 102 da Carta das Nações Unidas.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Qualquer Estado Parte pode propor emendas ao presente Tratado. As emendas entrarão em vigor para cada Estado Parte que as aceite logo que sejam aceites pela maioria dos Estados Partes no Tratado e, posteriormente, para cada um dos outros Estados Partes na data da sua aceitação das referidas emendas.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Qualquer Estado Parte poderá notificar a sua retirada do Tratado um ano após a sua entrada em vigor e por meio de notificação escrita feita aos Governos depositários. Tal retirada passará a ter efeito um ano após a data do recebimento da notificação.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 O presente Tratado, cujos textos em inglês, russo, francês, espanhol e chinês são igualmente autênticos, será depositado nos arquivos dos Governos depositários. Cópias devidamente certificadas do Tratado serão transmitidas pelos Governos depositários aos Governos dos Estados signatários e aderentes.
 

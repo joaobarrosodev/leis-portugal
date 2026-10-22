@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 100/1975, 1º Suplemento, Série I de 1975-04-30
   number: '100'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 634-(1) a 634-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/10001/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-1975-345088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e8f008437489311070c58878ba5722b6390d2f11bd8c1d0a17b7c13ec9c3c81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba809a7492cc16a7a2e64c0fb3fd85c8a5f4bbaf20a30d2b3a18708c948b9ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Sindical
+- Cgtp-in
+- Estatuto
+- Estatuto Jurídico
+- Personalidade Jurídica
 relationships:
 - type: amended_by
   target: pt:dre:409333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:409333:por
+  label: "Revogado pelo DEC LEI.773/76.27.10.1976.PCM, DR.IS [252] de 27.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/773-1976-409333
+  date: '1976-10-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:08Z'
   warnings: []
   errors: []
 ---
@@ -102,16 +112,16 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para todos os efeitos legais, nomeadamente aquisição de personalidade jurídica, é reconhecida a Intersindical Nacional como a confederação geral dos sindicatos portugueses, bem como toda a sua estrutura de âmbito regional, distrital e local, tendo como órgão deliberativo máximo o plenário ou congresso dos sindicatos nela fiiados e como órgão executivo central o Secretariado Nacional.
+Artigo 1.º Para todos os efeitos legais, nomeadamente aquisição de personalidade jurídica, é reconhecida a Intersindical Nacional como a confederação geral dos sindicatos portugueses, bem como toda a sua estrutura de âmbito regional, distrital e local, tendo como órgão deliberativo máximo o plenário ou congresso dos sindicatos nela fiiados e como órgão executivo central o Secretariado Nacional.
 
-###### Art. 2.º Os estatutos provisórios da Intersindical Nacional serão publicados no Boletim do Ministério do Trabalho e vigorarão até à publicação dos estatutos definitivos, a elaborar nos termos e condições que a lei sindical determinar.
+Art. 2.º Os estatutos provisórios da Intersindical Nacional serão publicados no Boletim do Ministério do Trabalho e vigorarão até à publicação dos estatutos definitivos, a elaborar nos termos e condições que a lei sindical determinar.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 30 de Abril de 1975.**
+Promulgado em 30 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

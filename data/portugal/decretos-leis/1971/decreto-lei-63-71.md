@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1971-445551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d76629d37b1109bf8c86f1382b70399bd42b23c812da789a6d35b07f39f6fe7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1c38e536ca474fc4e819d8cb5c75c0241ffc1407624fe4ad411466bb7b31de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Denominação de Origem
+- Espanha
+- Lisboa
+- Portugal
+- Protecção Recíproca de Indicadores de Proveniência
+relationships:
+- type: amended_by
+  target: pt:dre:674459:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo presente diploma, pelo AV.DD3770.01.07.1972.MNE, DG.IS [152]\
+    \ de 01.07.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1972-674459
+  date: '1972-07-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:45Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +99,19 @@ de 3 de Março
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo entre Portugal e a Espanha sobre a Protecção de Indicações de Proveniência, Denominações de Origem e Denominações de Certos Produtos, assinado em Lisboa em 16 de Dezembro de 1970, cujos textos em português e espanhol vão anexos ao presente decreto-lei.
+Artigo único. É aprovado para ratificação o Acordo entre Portugal e a Espanha sobre a Protecção de Indicações de Proveniência, Denominações de Origem e Denominações de Certos Produtos, assinado em Lisboa em 16 de Dezembro de 1970, cujos textos em português e espanhol vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Fevereiro de 1971.**
+Promulgado em 12 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Acordo entre Portugal e a Espanha sobre a Protecção de Indicações de Proveniência, Denominações de Origem e Denominações de Certos Produtos.
 
-**O Presidente da República Portuguesa e o Chefe de Estado Espanhol, tendo em conta o interesse de ambos os Estados Contratantes em proteger eficazmente contra a concorrência desleal determinados produtos naturais e industriais e em especial as indicações de proveniência, as denominações de origem e outras denominações que estão reservadas para aqueles produtos, decidiram assinar um Acordo e, para esse fim, nomearam como plenipotenciários:**
+O Presidente da República Portuguesa e o Chefe de Estado Espanhol, tendo em conta o interesse de ambos os Estados Contratantes em proteger eficazmente contra a concorrência desleal determinados produtos naturais e industriais e em especial as indicações de proveniência, as denominações de origem e outras denominações que estão reservadas para aqueles produtos, decidiram assinar um Acordo e, para esse fim, nomearam como plenipotenciários:
 
 S.Ex.ª o Presidente da República Portuguesa: ao Exmo. Sr. Dr. Rui Patrício, Ministro dos Negócios Estrangeiros;
 
@@ -425,4 +437,4 @@ Rui Patrício, Ministro dos Negócios Estrangeiros de Portugal.
 
 A S.Ex.ª o Sr. D. Gregorio López Bravo, Ministro dos Assuntos Exteriores de Espanha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/03/05200/02700277.pdf))](https://files.diariodarepublica.pt/1s/1971/03/05200/02700277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/03/05200/02700277.pdf)

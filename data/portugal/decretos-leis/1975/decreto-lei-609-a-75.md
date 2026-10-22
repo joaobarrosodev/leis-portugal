@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 259/1975, 1º Suplemento, Série I de 1975-11-08
   number: '259'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1772-(1) a 1772-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/25901/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-a-1975-666720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 168ffd14d424a4518dbd41b1ebf74e6be191eb7f00b713c9bad6996ae74e25d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85dea484c08b9617cf4bb99a77c67d7a4b173ee6a52b2873bc0ffb6e8f1025cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Classificação de Arroz
+- Comércio
+- Controlo de Qualidade
+- Fundo de Abastecimento
+- Importação
+- Instituto dos Cereais
+- Preço
+- Receita Própria
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355296:por
+  label: "Dada nova redacção ao nº 1 do art. 14º pelo DEC LEI.751/75.31.12.1975.MCOMI, DG.IS [300-2ºSupl] de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/751-1975-355296
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:416413:por
+  label: "Revogados os arts. 9º, 10º, 11º, 12º, 13º e 14º pelo DEC LEI.885/76.29.12.1976.MF, DR.IS [301] de 29.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/885-1976-416413
+  date: '1976-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:10Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +145,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3) da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os produtores de arroz são obrigados a manifestar anualmente a sua sementeira e a sua produção directamente ao Instituto dos Cereais, nos termos por este fixados.
+Artigo 1.º - 1. Os produtores de arroz são obrigados a manifestar anualmente a sua sementeira e a sua produção directamente ao Instituto dos Cereais, nos termos por este fixados.
 
 2. O manifesto das sementeiras terá de ser feito até ao dia 15 de Junho de cada ano.
 
@@ -116,15 +153,15 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3) da Lei Consti
 
 4. Todas as vendas da produção nacional terão necessariamente por objecto arroz incluído nos manifestos a que se referem os n.os 2 e 3 do presente artigo.
 
-###### Art. 2.º - 1. O arroz em casca da produção nacional será livremente adquirido aos produtores pelos industriais descascadores.
+Art. 2.º - 1. O arroz em casca da produção nacional será livremente adquirido aos produtores pelos industriais descascadores.
 
 2. O Instituto dos Cereais garante a aquisição, aos produtores ou suas associações, do arroz em casca da produção nacional que não seja transaccionado nos termos do número anterior.
 
-###### Art. 3.º - 1. Tendo em vista facilitar para o efeito do ajuste do preço entre o produtor e o industrial, o Instituto dos Cereais manterá à sua disposição postos de classificação e determinação do comportamento industrial do arroz.
+Art. 3.º - 1. Tendo em vista facilitar para o efeito do ajuste do preço entre o produtor e o industrial, o Instituto dos Cereais manterá à sua disposição postos de classificação e determinação do comportamento industrial do arroz.
 
 2. Os elementos fornecidos pelos postos têm carácter informativo, não vinculando qualquer das partes interessadas.
 
-###### Art. 4.º - 1. Por despacho conjunto dos Secretários de Estado do Fomento Agrário e do Abastecimento e Preços serão estabelecidos:
+Art. 4.º - 1. Por despacho conjunto dos Secretários de Estado do Fomento Agrário e do Abastecimento e Preços serão estabelecidos:
 
 a) Os preços e condições de aquisição do arroz em casca de produção nacional pelo Instituto dos Cereais;
 
@@ -134,11 +171,11 @@ c) Os preços de aquisição de arroz para semente e de venda da mesma pelo Inst
 
 2. Por despacho do Secretário de Estado do Abastecimento e Preços serão estabelecidas as condições de venda do arroz pelo Instituto dos Cereais, quer da produção nacional, quer importada.
 
-###### Art. 5.º - 1. Fica o Instituto dos Cereais autorizado a facilitar o financiamento das existências do arroz em casca e branqueado em poder dos industriais, nos termos que vierem a ser estabelecidos em despacho conjunto dos Secretários de Estado do Tesouro e do Abastecimento e Preços.
+Art. 5.º - 1. Fica o Instituto dos Cereais autorizado a facilitar o financiamento das existências do arroz em casca e branqueado em poder dos industriais, nos termos que vierem a ser estabelecidos em despacho conjunto dos Secretários de Estado do Tesouro e do Abastecimento e Preços.
 
 2. Ficam os industriais descascadores obrigados a possuir, como reserva, a quantidade de arroz em casca determinada pelo Instituto dos Cereais até ao limite máximo correspondente a dois meses da sua laboração média mensal no trimestre anterior.
 
-###### Art. 6.º Os industriais descacadores remeterão ao Instituto dos Cereais:
+Art. 6.º Os industriais descacadores remeterão ao Instituto dos Cereais:
 
 a) Até ao dia 10 de cada mês mapas de todas as aquisições de arroz em casca ou meio preparo e de todas as vendas de arroz realizadas no decurso do mês anterior, acompanhados da documentação justificativa;
 
@@ -146,23 +183,23 @@ b) Até ao dia 10 de cada mês mapa das existências de arroz em casca, em meio 
 
 c) Até ao dia 10 de cada mês manifesto da produção industrial referente ao mês anterior.
 
-###### Art. 7.º As importações de arroz, a realizar no continente e nas ilhas adjacentes, quando não efectuadas pelo Instituto dos Cereais, carecem de prévia autorização deste organismo.
+Art. 7.º As importações de arroz, a realizar no continente e nas ilhas adjacentes, quando não efectuadas pelo Instituto dos Cereais, carecem de prévia autorização deste organismo.
 
-###### Art. 8.º - 1. As normas de classificação do arroz e as regras a observar na sua comercialização poderão ser estabelecidas ou alteradas em portaria do Secretário de Estado do Abastecimento e Preços.
+Art. 8.º - 1. As normas de classificação do arroz e as regras a observar na sua comercialização poderão ser estabelecidas ou alteradas em portaria do Secretário de Estado do Abastecimento e Preços.
 
 2. Os preços de venda ao público do arroz branqueado são fixados nos termos do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
 
-###### Art. 9.º Constitui receita do Instituto dos Cereais a verba de 300$00 por tonelada de arroz estrangeiro que aquele organismo fará acrescer aos custos de importação, para efeito da cobertura das despesas realizadas com a prestação dos respectivos serviços de compra.
+Art. 9.º Constitui receita do Instituto dos Cereais a verba de 300$00 por tonelada de arroz estrangeiro que aquele organismo fará acrescer aos custos de importação, para efeito da cobertura das despesas realizadas com a prestação dos respectivos serviços de compra.
 
-###### Art. 10.º Por portaria dos Secretários de Estado do Orçamento e do Abastecimento e Preços, poderão ser fixados ou modificados em cada campanha, sempre que se considere conveniente, os diferenciais de compensação de preços a pagar ou a receber pelos industriais descascadores, por tonelada de arroz em casca da produção nacional por eles adquiridos à lavoura ou ao Instituto dos Cereais.
+Art. 10.º Por portaria dos Secretários de Estado do Orçamento e do Abastecimento e Preços, poderão ser fixados ou modificados em cada campanha, sempre que se considere conveniente, os diferenciais de compensação de preços a pagar ou a receber pelos industriais descascadores, por tonelada de arroz em casca da produção nacional por eles adquiridos à lavoura ou ao Instituto dos Cereais.
 
-###### Art. 11.º - 1. As remessas de arroz para os arquipélagos da Madeira e dos Açores serão bonificadas dos custos de transporte e demais encargos para colocação no cais.
+Art. 11.º - 1. As remessas de arroz para os arquipélagos da Madeira e dos Açores serão bonificadas dos custos de transporte e demais encargos para colocação no cais.
 
 2. A bonificação referida no número anterior será calculada pela Direcção-Geral de Preços como custo padrão a aplicar a cada ilha e deverá contemplar todas as despesas para colocação do arroz em idênticas condições de preço de compra pelos armazenistas no continente e nas ilhas adjacentes.
 
-###### Art. 12.º Sempre que as condições de produção de arroz nacional o aconselhem, poderão ser estabelecidas bonificações regionais e regulada a forma do seu pagamento, por despacho conjunto dos Secretários de Estado do Fomento Agrário, do Abastecimento e Preços e do Orçamento.
+Art. 12.º Sempre que as condições de produção de arroz nacional o aconselhem, poderão ser estabelecidas bonificações regionais e regulada a forma do seu pagamento, por despacho conjunto dos Secretários de Estado do Fomento Agrário, do Abastecimento e Preços e do Orçamento.
 
-###### Art. 13.º Constituem encargo da receita do Fundo de Abastecimento:
+Art. 13.º Constituem encargo da receita do Fundo de Abastecimento:
 
 a) As diferenças entre os custos de importação do arroz adquirido pelo Instituto dos Cereais, acrescidos da importância de 300$00 por tonelada, a que se refere o artigo 9.º, e os respectivos preços de venda;
 
@@ -170,19 +207,19 @@ b) O saldo dos diferenciais de compensação de preços a que se refere o artigo
 
 c) As bonificações referidas nos artigos 11.º e 12.º
 
-###### Art. 14.º - 1. Constituem receita do Fundo de Abastecimento, por quilograma de arroz existente, à data da publicação deste diploma, na posse dos fabricantes, descascadores, empacotadores, armazenistas e retalhistas, as importâncias seguintes:
+Art. 14.º - 1. Constituem receita do Fundo de Abastecimento, por quilograma de arroz existente, à data da publicação deste diploma, na posse dos fabricantes, descascadores, empacotadores, armazenistas e retalhistas, as importâncias seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/25901/00010004.pdf))](https://files.diariodarepublica.pt/1s/1975/11/25901/00010004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/25901/00010004.pdf)
 
 2. As entidades indicadas no número anterior declararão ao Instituto dos Cereais, até dez dias após a publicação deste diploma, as suas existências na mesma data e depositarão, nos vinte dias seguintes, na Caixa Geral de Depósitos, em conta do Instituto dos Cereais, as quantias determinadas nos termos do n.º 1 deste artigo.
 
-###### Art. 15.º Incumbe ao Instituto dos Cereais:
+Art. 15.º Incumbe ao Instituto dos Cereais:
 
 a) Proceder ao registo e cadastro de todos os produtores industriais, importadores e armazenistas de arroz, bem como à sua actualização periódica;
 
 b) Elaborar as instruções regulamentares necessárias à execução do presente diploma.
 
-###### Art. 16.º - 1. As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à instrução preparatória e julgamento das infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.
+Art. 16.º - 1. As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à instrução preparatória e julgamento das infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.
 
 2. A omissão ou falsidade de declarações nos manifestos anuais de produção são puníveis nos termos do artigo 23.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
@@ -192,16 +229,16 @@ b) Elaborar as instruções regulamentares necessárias à execução do present
 
 5. As restantes infracções do disposto no presente diploma são punidas com multa de 1000$00 a 50000$00, consoante a sua gravidade, se outra pena mais grave lhes não couber por força de lei geral ou especial.
 
-###### Art. 17.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado do Abastecimento e Preços e conjuntamente com os Secretários de Estado do Fomento Agrário e do Orçamento, quando respeitar a matéria da sua competência.
+Art. 17.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado do Abastecimento e Preços e conjuntamente com os Secretários de Estado do Fomento Agrário e do Orçamento, quando respeitar a matéria da sua competência.
 
-###### Art. 18.º Fica revogado o [Decreto-Lei n.º 473/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1974-618081), de 20 de Setembro.
+Art. 18.º Fica revogado o [Decreto-Lei n.º 473/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1974-618081), de 20 de Setembro.
 
-###### Art. 19.º Este decreto-lei entra em vigor na data da publicação.
+Art. 19.º Este decreto-lei entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Luís Cordes da Ponte Marques do Carmo - Joaquim Jorge de Pinho Campinos - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 7 de Novembro de 1975.**
+Promulgado em 7 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

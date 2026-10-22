@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/05/11000/05950596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1970-142299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e96b49bd5d5b97b51f62e585051a3631fe744d98f3ef4e04d195e29b2a1d13a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4e92aa8c4d788968654fbfa8ab26ac4fdc5810d92d094377fa0cb33809d846e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Angola.Colónia Portuguesa
+- Beira
+- Coimbra
+- Comando Militar
+- Elvas
+- Évora
+- Exército
+- Lisboa
+- Lourenço Marques
+- Luanda
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Porto
+- Região Militar
+- Região Militar do Norte
+- Região Militar do SUL
+- Tomar
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408535:por
+  label: "Extinto o Comando Territorial do Algarve criado pelo art. 8º do Dec Lei 43351, de 24-Nov de 1960, com a redacção\
+    \ que lhe foi conferida no presente diploma, pelo DEC LEI.201/74.14.05.1974.JSN, DG.IS [112-Supl] de 14.05.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1974-408535
+  date: '1974-05-14'
+- type: cites
+  target: pt:dre:414058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: "Revogado pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:30Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +135,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 8.º e o § 1.º do [Decreto-Lei n.º 43351](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43351-1960-512987), de 24 de Novembro de 1960, alterado pelo artigo 1.º do [Decreto-Lei n.º 44190](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44190-1962-519008), de 16 de Fevereiro de 1962, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 8.º e o § 1.º do [Decreto-Lei n.º 43351](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43351-1960-512987), de 24 de Novembro de 1960, alterado pelo artigo 1.º do [Decreto-Lei n.º 44190](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44190-1962-519008), de 16 de Fevereiro de 1962, passa a ter a seguinte redacção:
 
-###### Art. 8.º De acordo com o expresso no artigo anterior, são constituídas sete regiões militares e oito comandos territoriais independentes, a saber:
+Art. 8.º De acordo com o expresso no artigo anterior, são constituídas sete regiões militares e oito comandos territoriais independentes, a saber:
 
 a) Regiões militares:
 
@@ -148,13 +189,13 @@ Região Militar de Évora: a totalidade dos distritos de Portalegre, Évora, Bej
 
 O Comando Territorial do Algarve, dependente do Comando da Região Militar de Évora, abrange a área do distrito de Faro.
 
-###### Art. 2.º O mapa anexo n.º 1 referido no § 3.º do artigo 8.º do [Decreto-Lei n.º 43351](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43351-1960-512987), segundo a redacção do [Decreto-Lei n.º 44190](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44190-1962-519008), de 16 de Fevereiro de 1962, é substituído pelo mapa com o mesmo número anexo a este diploma.
+Art. 2.º O mapa anexo n.º 1 referido no § 3.º do artigo 8.º do [Decreto-Lei n.º 43351](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43351-1960-512987), segundo a redacção do [Decreto-Lei n.º 44190](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44190-1962-519008), de 16 de Fevereiro de 1962, é substituído pelo mapa com o mesmo número anexo a este diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Abril de 1970.**
+Promulgado em 28 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -162,6 +203,6 @@ Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva 
 
 Mapa anexo n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/11000/05950596.pdf))](https://files.diariodarepublica.pt/1s/1970/05/11000/05950596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/11000/05950596.pdf)
 
 Ministério do Exército, 28 de Abril de 1970. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.

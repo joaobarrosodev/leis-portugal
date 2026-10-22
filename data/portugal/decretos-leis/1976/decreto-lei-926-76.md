@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(62) a 2900-(67)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00620067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/926-1976-391216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6164e20f9b9a21835a205e2f06273d1935c0d225fb8b6f10a54a208f5031aa3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a28947ae8ffe0ded8f45a361453262d79ac3e0886959c81eacc8f0fb061b817
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Magistratura
+- Definição de Competências
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Secretário
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:690272:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138522:por
+  label: "Rectiificado pela RECT.DD116.02.02.1977.PCM, DR.IS [27] de 02.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-138522
+  date: '1977-02-02'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 32
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:52Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +175,7 @@ d) Quatro funcionários de justiça.
 
 ###### Artigo 3.º — (Substituição do presidente do Conselho Superior da Magistratura)
 
-**O presidente do Conselho Superior da Magistratura é substituído, nas suas faltas e impedimentos, por um vice-presidente.**
+O presidente do Conselho Superior da Magistratura é substituído, nas suas faltas e impedimentos, por um vice-presidente.
 
 ###### Artigo 4.º — (Vice-presidente do Conselho Superior da Magistratura)
 
@@ -470,11 +491,11 @@ Fica o Ministro das Finanças autorizado a adoptar as providências orçamentais
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o artigo 16.º
 
@@ -488,4 +509,4 @@ Inspectores-contadores - 1.
 
 Secretários - 1.
 
-**O Ministro da Justiça, António de Almeida Santos.**
+O Ministro da Justiça, António de Almeida Santos.

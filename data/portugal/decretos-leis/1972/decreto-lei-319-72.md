@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19200/10981100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1972-676460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 355f142b5b9f094421e95c29da8f361bc9b3ca3b1b62acc455e3f4a09dfba94c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62f78dac8582a12fbabd7ce54da439e5207a1c8de070dd0fcedc81733dc3490a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:468802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:142572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553965:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468802:por
+  label: "Revogado pelo DEC LEI.83/97.1997.04.09.MADRP, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1997-468802
+  date: '1997-04-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:48Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +141,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Até ao dia 10 de Novembro do ano das respectivas colheitas são proibidos o trânsito e a venda a retalho de vinhos simples ou misturados.
+Artigo 1.º - 1. Até ao dia 10 de Novembro do ano das respectivas colheitas são proibidos o trânsito e a venda a retalho de vinhos simples ou misturados.
 
 2. Antes da mesma data, só é autorizado o trânsito de uvas ou mostos destinados a vinificação para os lagares e adegas dos próprios produtores, salvo nos casos previstos neste diploma.
 
 3. A data referida neste artigo poderá ser alterada, em cada ano, mediante portaria dos Secretários de Estado da Agricultura e do Comércio, sob proposta da Junta Nacional do Vinho, ouvidos os organismos vitivinícolas das respectivas regiões.
 
-###### Art. 2.º - 1. A compra e venda de uvas e de mostos só pode ser autorizada nas regiões onde esse comércio é tradicional ou quando se destine ao fabrico de vinhos engarrafados na origem ou a engarrafar no destino com marcas portuguesas de superior qualidade ou de reputado interesse comercial, ou, ainda, à indústria de derivados da uva diferentes do vinho.
+Art. 2.º - 1. A compra e venda de uvas e de mostos só pode ser autorizada nas regiões onde esse comércio é tradicional ou quando se destine ao fabrico de vinhos engarrafados na origem ou a engarrafar no destino com marcas portuguesas de superior qualidade ou de reputado interesse comercial, ou, ainda, à indústria de derivados da uva diferentes do vinho.
 
 2. Em despacho do Secretário de Estado do Comércio serão estabelecidos os princípios em função dos quais se determinará o reputado interesse comercial a que se refere o número anterior.
 
@@ -141,7 +169,7 @@ c) Terem sido celebrados, entre o comprador e a adega ou adegas cooperativas da 
 
 5. No caso de as compras se efectuarem em regiões vinícolas demarcadas e de as uvas ou mostos se destinarem ao fabrico de produtos que não sejam os vinhos tradicionais e se reconhecer que tal facto põe em perigo o comércio dos vinhos típicos regionais, poderá exigir-se, como condição da autorização, que o comprador, ou empresa a ele associada, comercialize vinhos típicos em quantidades correspondentes a, pelo menos, 50 por cento dos produtos fabricados com as uvas ou mostos comprados na respectiva região.
 
-###### Art. 3.º Independentemente das condições estabelecidas no artigo anterior, será sempre autorizada em cada campanha a compra e venda de uvas ou mostos às entidades inscritas como armazenistas e exportadores de vinhos nos respectivos grémios, em qualquer dos seguintes casos:
+Art. 3.º Independentemente das condições estabelecidas no artigo anterior, será sempre autorizada em cada campanha a compra e venda de uvas ou mostos às entidades inscritas como armazenistas e exportadores de vinhos nos respectivos grémios, em qualquer dos seguintes casos:
 
 a) Apresentar o interessado o pedido acompanhado de informação favorável da adega cooperativa, em relação aos seus associados, ou da federação de grémios da lavoura da respectiva área, em relação aos que não sejam sócios de adegas cooperativas;
 
@@ -149,32 +177,32 @@ b) Ter o comprador adquirido uvas ou mostos nas três campanhas anteriores ou ap
 
 c) Ser a transacção feita pelo grémio da lavoura da região, com parecer favorável da respectiva federação.
 
-###### Art. 4.º - 1. A autorização prevista nos artigos anteriores poderá ser concedida directamente às entidades que preencherem os requisitos determinados, bem como às empresas que com aquelas tiverem contratos de fornecimento a longo prazo para o fabrico de vinhos nas condições do n.º 1 do artigo 2.º
+Art. 4.º - 1. A autorização prevista nos artigos anteriores poderá ser concedida directamente às entidades que preencherem os requisitos determinados, bem como às empresas que com aquelas tiverem contratos de fornecimento a longo prazo para o fabrico de vinhos nas condições do n.º 1 do artigo 2.º
 
 2. A autorização será concedida pela Junta Nacional do Vinho, a requerimento dos interessados, acompanhada dos elementos justificativos da verificação das condições estabelecidas.
 
 3. Em relação aos pedidos referentes às regiões vinícolas demarcadas, a Junta ouvirá os organismos vitivinícolas respectivos, os quais deverão dar o seu parecer no prazo de oito dias, a contar da data da recepção da consulta.
 
-###### Art. 5.º - 1. Nos casos em que seja autorizada a compra e venda de uvas e mostos, a sua vinificação ou o fabrico de derivados da uva, bem como a conservação e engarrafamento, terão de ser efectuados em instalações apropriadas devidamente apetrechadas.
+Art. 5.º - 1. Nos casos em que seja autorizada a compra e venda de uvas e mostos, a sua vinificação ou o fabrico de derivados da uva, bem como a conservação e engarrafamento, terão de ser efectuados em instalações apropriadas devidamente apetrechadas.
 
 2. Para melhor harmonização dos interesses regionais e dos compradores, a localização das instalações deverá ser, na medida do possível, estabelecida de comum acordo.
 
-###### Art. 6.º Fora das condições previstas nos artigos anteriores, podem efectuar-se a compra e venda e o trânsito de mostos amuados destinados à exportação ou para concentração em instalações apropriadas, mediante autorização da Junta Nacional do Vinho e nos termos por este organismo estabelecidos.
+Art. 6.º Fora das condições previstas nos artigos anteriores, podem efectuar-se a compra e venda e o trânsito de mostos amuados destinados à exportação ou para concentração em instalações apropriadas, mediante autorização da Junta Nacional do Vinho e nos termos por este organismo estabelecidos.
 
-###### Art. 7.º As uvas e mostos abrangidos pelo presente diploma poderão circular acompanhados das guias de trânsito a que se refere a [Portaria n.º 21010](https://diariodarepublica.pt/dr/detalhe/portaria/21010-1964-553965), de 28 de Dezembro de 1964, com as adaptações necessárias estabelecidas por despacho do Secretário de Estado do Comércio.
+Art. 7.º As uvas e mostos abrangidos pelo presente diploma poderão circular acompanhados das guias de trânsito a que se refere a [Portaria n.º 21010](https://diariodarepublica.pt/dr/detalhe/portaria/21010-1964-553965), de 28 de Dezembro de 1964, com as adaptações necessárias estabelecidas por despacho do Secretário de Estado do Comércio.
 
-###### Art. 8.º - 1. A compra e venda e o trânsito dos produtos a que se refere este diploma fora da data prevista no artigo 1.º ou sem a autorização a que aludem os artigos seguintes constituem infracção punível nos termos do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 8.º - 1. A compra e venda e o trânsito dos produtos a que se refere este diploma fora da data prevista no artigo 1.º ou sem a autorização a que aludem os artigos seguintes constituem infracção punível nos termos do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 2. Às entidades que não cumprirem as condições de que se faz depender a autorização referida no artigo 4.º deste decreto-lei não serão concedidas mais autorizações durante um prazo a fixar pela Junta Nacional do Vinho, que poderá ir até cinco anos.
 
-###### Art. 9.º As dúvidas que se suscitarem na aplicação deste decreto-lei serão esclarecidas por despacho do Secretários de Estado do Comércio.
+Art. 9.º As dúvidas que se suscitarem na aplicação deste decreto-lei serão esclarecidas por despacho do Secretários de Estado do Comércio.
 
-###### Art. 10.º Fica revogado o [Decreto-Lei n.º 31565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31565-1941-370188), de 10 de Outubro de 1941.
+Art. 10.º Fica revogado o [Decreto-Lei n.º 31565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31565-1941-370188), de 10 de Outubro de 1941.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

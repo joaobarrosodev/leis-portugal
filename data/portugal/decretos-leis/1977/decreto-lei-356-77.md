@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/20100/20902092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1f14ddcc54b17a661b7909f3c3b3e1bb1fe204844311af73f71e85368907cd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fbe95366e7bd0edb6d590faf2ead9f86176935aa5a5b29dcfa924d1510f52e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Funcionário Ultramarino
+- Integração de Trabalhadores
+- Macau
+- Quadro Geral de Adidos
+- Reclassificação de Pessoal
+- Secretário de Estado da Administração Pública
+- Secretário de Estado da Integração Europeia
+- Timor Leste
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281269:por
+  label: "Alterado o art. 1º pelo DEC LEI.497/77.26.11.1977.PCM, DR.IS [274] de 26.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1977-281269
+  date: '1977-11-26'
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507435:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:44Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +134,7 @@ Considerando, finalmente, que essas medidas, a par dos esforços já desenvolvid
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Ingresso no quadro geral de adidos de agentes provenientes da ex-administração ultramarina)
 
@@ -125,7 +160,7 @@ b) Licença sem vencimento por tempo indeterminado, a que se refere o n.º 2 do 
 
 5. Os agentes abrangidos pela alínea a) do n.º 1 do artigo 17.º que tenham requerido o seu ingresso no quadro geral de adidos sem entrega de toda a documentação necessária à instrução do respectivo processo deverão fazê-lo, sob pena de indeferimento liminar, até 31 de Dezembro do corrente ano.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Transformação do destacamento em requisição)
 
@@ -135,7 +170,7 @@ b) Licença sem vencimento por tempo indeterminado, a que se refere o n.º 2 do 
 
 3. As alterações orçamentais referidas no número anterior poderão também ser solicitadas pelos serviços e organismos interessados antes do prazo previsto no n.º 1 sempre que aqueles entendam que os adidos satisfazem necessidades permanentes de serviço.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Prorrogação do destacamento para efeitos de requisição ou integração)
 
@@ -145,19 +180,19 @@ a) Até ao fim do ano em que se complete aquele período, no caso de destacament
 
 b) Por seis meses, sempre que os serviços e organismos utilizadores de adidos informem o Serviço Central de Pessoal, com a antecedência mínima de três meses em relação ao termo daquele período, que os integrarão nos respectivos quadros.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Integrações de adidos a título individual ou global)
 
 1. O n.º 2 do artigo 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) passa a ter a seguinte redacção:
 
-###### Art. 43.º ...
+Art. 43.º ...
 
 2. A integração a que se refere o n.º 1 e bem assim o n.º 4 do artigo 41.º far-se-á, salvo o disposto no artigo anterior, no respeito pelos requisitos de provimento estabelecidos na lei geral ou na lei orgânica dos respectivos serviços, com excepção dos casos em que o adido possua categoria igual ou equivalente à do lugar a prover, e sem prejuízo de o recrutamento poder ser realizado pelo recurso a outros trabalhadores já vinculados à função pública, desde que reúnam os requisitos legais bastantes e o provimento se faça por livre escolha.
 
 2. As portarias constitutivas de quadros paralelos ou de supranumerários, a criar nos termos do artigo 13.º e do n.º 4 do artigo 41.º, estabelecerão, sempre que necessário, a correspondência entre as categorias dos quadros dos serviços e organismos integradores e as dos adidos, para efeitos da integração.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Aposentação de agentes do quadro geral de adidos)
 
@@ -167,7 +202,7 @@ b) Por seis meses, sempre que os serviços e organismos utilizadores de adidos i
 
 3. O cálculo a que se refere a parte final do mesmo preceito incidirá sobre o vencimento base e sobre as diuturnidades a que cada agente tiver direito.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Descongelamento das restrições à admissão de pessoal)
 
@@ -179,7 +214,7 @@ b) Por seis meses, sempre que os serviços e organismos utilizadores de adidos i
 
 4. Nos casos em que a evolução dos efectivos do quadro geral de adidos, do ponto de vista de ingresso de novos agentes, impuser, como garantia de integração dos mesmos, o reinício temporário, relativamente a alguma categoria ou carreira e ou formação literária ou qualificação profissional, da política de restrições à admissão de pessoal na função pública, nos termos previstos nos artigos 43.º e 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), poderá a mesma ser reposta em vigor, por despacho do Secretário de Estado da Administração Pública, sob proposta do Serviço Central de Pessoal, a publicar pela forma prevista no número anterior.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Transferência dos processos individuais dos adidos)
 
@@ -187,7 +222,7 @@ b) Por seis meses, sempre que os serviços e organismos utilizadores de adidos i
 
 2. Igual procedimento deverá ser seguido relativamente aos adidos integrados com recurso à faculdade prevista no artigo 40.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), ainda que neste caso o processo individual deva ser devolvido ao Serviço Central de Pessoal, se o adido não vier a obter provimento definitivo no serviço ou organismo integrador.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Resolução de dúvidas)
 
@@ -197,7 +232,7 @@ a) Do Secretário de Estado da Integração Administrativa, no tocante ao artigo
 
 b) Do Secretário de Estado da Administração Pública, relativamente aos demais preceitos e, bem assim, ao artigo 1.º no referente à sua esfera de competência.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Entrada em vigor)
 
@@ -205,8 +240,8 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - José Dias dos Santos Pais.
 
-**Promulgado em 12 de Agosto de 1977.**
+Promulgado em 12 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

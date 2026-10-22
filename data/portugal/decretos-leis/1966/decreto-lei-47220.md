@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47220-1966-480127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 726e5375e279e127fe667a1517454d0b11de7c297d42573ec87ff05bfdbfd19c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90ce8714d408795d3361120e082de59d2b6838efe7a9a356c6015f51f4ec62bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- EFTA
+- Genebra
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:29Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +88,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo sobre a capacidade jurídica, os privilégios e imunidades da Associação Europeia de Comércio Livre, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Protocolo sobre a capacidade jurídica, os privilégios e imunidades da Associação Europeia de Comércio Livre, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -295,7 +298,7 @@ Considerando que o parágrafo 1 do artigo 35 da Convenção que institui a Assoc
 
 Acordaram no seguinte:
 
-# PARTE I — A Associação
+## PARTE I — A Associação
 
 ###### ARTIGO 1
 
@@ -343,7 +346,7 @@ c) De direitos aduaneiros e de proibições e restrições de importação e exp
 
 4. O presente artigo não poderá ser interpretado como prejudicando a adopção de medidas de segurança apropriadas, a determinar por acordo entre um Estado parte no presente Protocolo e a Associação.
 
-# PARTE II — Representantes
+## PARTE II — Representantes
 
 ###### ARTIGO 8
 
@@ -373,7 +376,7 @@ As disposições do artigo 8, acima, não obrigam nenhum Estado parte no present
 
 Para os fins dos artigos 8, 9 e 10, supra, a expressão «representantes» será considerada como abrangendo todos os suplentes, conselheiros, peritos técnicos e secretários das delegações.
 
-# PARTE III — Funcionários da Associação e peritos em missão
+## PARTE III — Funcionários da Associação e peritos em missão
 
 ###### ARTIGO 12
 
@@ -425,7 +428,7 @@ c) Inviolabilidade de qualquer papel e documento relacionados com o trabalho em 
 
 d) No caso dos funcionários da Associação abrangidos pelas disposições dos artigos 13 e 14, isenção de impostos sobre os vencimentos e emolumentos recebidos na qualidade de funcionário da Associação.
 
-# PARTE IV — Disposições gerais
+## PARTE IV — Disposições gerais
 
 ###### ARTIGO 18
 

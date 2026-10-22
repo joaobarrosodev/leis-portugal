@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43399-1960-512842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90c7c530dc8bed55b27761a9a7f684012e6393c674ff7a195199b67088c578be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42d53c36ec3b66f918e377260bf7cb5497519101996c3695762745104542bd30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Orgânica
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:667323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160691:por
+  label: "Alterado o art. 11º do Dec Lei 40397, de 24-Nov de 1955, na redacção do presente diploma, pelo DEC LEI.120/75.10.03.1975.MCINT,\
+    \ DG.IS [58] de 10.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1975-160691
+  date: '1975-03-10'
+- type: cites
+  target: pt:dre:247414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:00Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 11.º do [Decreto-Lei n.º 40397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40397-1955-247414), de 24 de Novembro de 1955, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 11.º do [Decreto-Lei n.º 40397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40397-1955-247414), de 24 de Novembro de 1955, passa a ter a seguinte redacção:
 
-###### Art. 11.º Em comparticipação com o Estado e com as províncias ultramarinas de Angola e Moçambique, compete à Misericórdia de Lisboa a exploração, sob regime de monopólio para todo o território metropolitano e ultramarino, da lotaria nacional portuguesa, distribuindo-se as receitas pela forma seguinte:
+Art. 11.º Em comparticipação com o Estado e com as províncias ultramarinas de Angola e Moçambique, compete à Misericórdia de Lisboa a exploração, sob regime de monopólio para todo o território metropolitano e ultramarino, da lotaria nacional portuguesa, distribuindo-se as receitas pela forma seguinte:
 
 a) Do produto líquido correspondente às vendas efectuadas em todo o território metropolitano e ultramarino, com excepção de Angola e Moçambique, pertence à Misericórdia de Lisboa um terço e os restantes dois terças ao Tesouro da metrópole;
 
@@ -127,15 +140,15 @@ e) No final de cada exercício anual, até perfazer a importância de 40000 cont
 
 § 9.º As importâncias depositadas a partir de 1 de Janeiro de 1961 nas contas da Misericórdia de Lisboa em Angola e Moçambique serão livremente transferíveis para a metrópole sem encargos a favor da província.
 
-###### Art. 2.º O artigo 16.º do [Decreto-Lei n.º 40397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40397-1955-247414), de 24 de Novembro de 1955, passa a ter a seguinte redacção:
+Art. 2.º O artigo 16.º do [Decreto-Lei n.º 40397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40397-1955-247414), de 24 de Novembro de 1955, passa a ter a seguinte redacção:
 
-###### Art. 16.º A administração da Misericórdia de Lisboa compete à mesa, composta de um provedor e dois adjuntos, à qual, para a gerência da lotaria, acrescerão um representante do Ministério da Saúde e Assistência, outro do Ministério das Finanças e outro do Ministério do Ultramar, designados por despacho ministerial.
+Art. 16.º A administração da Misericórdia de Lisboa compete à mesa, composta de um provedor e dois adjuntos, à qual, para a gerência da lotaria, acrescerão um representante do Ministério da Saúde e Assistência, outro do Ministério das Finanças e outro do Ministério do Ultramar, designados por despacho ministerial.
 
 § único. Pela gerência da lotaria nacional portuguesa os membros da mesa, os representantes dos Ministérios da Saúde e Assistência, Finanças e Ultramar, e bem assim o secretário, não têm direito a abonação alguma, gratificação, percentagem ou remuneração de qualquer natureza, apenas havendo lugar a ajudas de custo nas deslocações e senhas de presença, fixadas estas, em analogia com os serviços públicos, pelo Ministro da Saúde e Assistência, ouvidos os das Finanças e do Ultramar.
 
-###### Art. 3.º O novo regime instituído por este diploma entra em vigor no dia 1 de Janeiro de 1961.
+Art. 3.º O novo regime instituído por este diploma entra em vigor no dia 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

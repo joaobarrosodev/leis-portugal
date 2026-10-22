@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/10600/08490850.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1978-295825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2e84462ba2eb3156dba81ad697a3c3b1b44ce32568a453a0999b59a91ef7ad5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec6eae9fcd7ca740c9f9f02d2e546566d65ea381f3c6d8682b94841fb60604c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Militar
+- Reforma
+- Regime de Pessoal
+- Reserva
+- Serviço Militar
+- Serviço Voluntário
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20-Supl] de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:04Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +120,11 @@ Considerando que estes oficiais não têm possibilidades de ingresso nos quadros
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os oficiais do complemento, excepto os do serviço de saúde e os que se encontram em serviço ao abrigo do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, com mais de cinco anos de serviço voluntário ou seis anos de serviço efectivo completado até 31 de Janeiro de 1978 que estejam na efectividade de serviço no Exército podem, nos termos do presente diploma, permanecer nas fileiras nas condições dos artigos seguintes.
+Artigo 1.º Os oficiais do complemento, excepto os do serviço de saúde e os que se encontram em serviço ao abrigo do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, com mais de cinco anos de serviço voluntário ou seis anos de serviço efectivo completado até 31 de Janeiro de 1978 que estejam na efectividade de serviço no Exército podem, nos termos do presente diploma, permanecer nas fileiras nas condições dos artigos seguintes.
 
-###### Art. 2.º O regime previsto neste diploma depende de requerimento dos oficiais a que se refere o artigo 1.º, o qual deverá ser apresentado no prazo de trinta dias a contar da publicação do presente diploma.
+Art. 2.º O regime previsto neste diploma depende de requerimento dos oficiais a que se refere o artigo 1.º, o qual deverá ser apresentado no prazo de trinta dias a contar da publicação do presente diploma.
 
-###### Art. 3.º - 1 - A permanência ao serviço é por contracto renovável por períodos de três anos e obedece às seguintes condições:
+Art. 3.º - 1 - A permanência ao serviço é por contracto renovável por períodos de três anos e obedece às seguintes condições:
 
 a) Ter aptidão física;
 
@@ -108,17 +132,17 @@ b) Possuir qualidades morais, intelectuais e militares compatíveis com o servi�
 
 2 - A análise e apreciação dos processos dos oficiais que venham a requerer a prestação de serviço nos termos do presente diploma será feita pela Direcção do Serviço de Pessoal e pelas direcções das armas e serviços respectivos.
 
-###### Art. 4.º Poderão deixar de prestar serviço efectivo:
+Art. 4.º Poderão deixar de prestar serviço efectivo:
 
 1) No final de cada período de contrato, a seu pedido ou quando não satisfizerem as condições expressas no n.º 1 do artigo anterior;
 
 2) Em qualquer momento, a requerimento do próprio, desde que não haja inconveniente para o serviço.
 
-###### Art. 5.º - 1 - Os oficiais ao serviço nos termos do presente diploma destinam-se em princípio ao serviço nas armas e serviços de origem.
+Art. 5.º - 1 - Os oficiais ao serviço nos termos do presente diploma destinam-se em princípio ao serviço nas armas e serviços de origem.
 
 2 - Admitem-se reclassificações em casos devidamente justificados desde que haja conveniência para o Exército.
 
-###### Art. 6.º - 1 - Os militares abrangidos pelo artigo 1.º, em função da disponibilidade para o serviço, passam a poder encontrar-se numa das seguintes situações:
+Art. 6.º - 1 - Os militares abrangidos pelo artigo 1.º, em função da disponibilidade para o serviço, passam a poder encontrar-se numa das seguintes situações:
 
 a) Activo;
 
@@ -130,22 +154,22 @@ c) Reforma.
 
 3 - O limite de idade para passagem à situação de reserva, para capitães e subalternos, é de 48 anos.
 
-###### Art. 7.º Os oficiais do complemento abrangidos pelo presente diploma têm as obrigações e os direitos consignados no capítulo II do Estatuto do Oficial do Exército, aprovado pelo [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril.
+Art. 7.º Os oficiais do complemento abrangidos pelo presente diploma têm as obrigações e os direitos consignados no capítulo II do Estatuto do Oficial do Exército, aprovado pelo [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril.
 
-###### Art. 8.º É aplicável aos militares abrangidos pelo presente diploma o disposto no [Decreto-Lei n.º 537/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1970-147203), de 10 de Novembro.
+Art. 8.º É aplicável aos militares abrangidos pelo presente diploma o disposto no [Decreto-Lei n.º 537/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1970-147203), de 10 de Novembro.
 
-###### Art. 9.º Os oficiais abrangidos pelo artigo 1.º, que não requeiram a permanência ao serviço, e os que não venham a ingressar por não satisfazerem a qualquer das condições expressas no n.º 1 do artigo 3.º deixam o serviço efectivo após o final do período de serviço voluntário que se encontram a cumprir.
+Art. 9.º Os oficiais abrangidos pelo artigo 1.º, que não requeiram a permanência ao serviço, e os que não venham a ingressar por não satisfazerem a qualquer das condições expressas no n.º 1 do artigo 3.º deixam o serviço efectivo após o final do período de serviço voluntário que se encontram a cumprir.
 
-###### Art. 10.º O Exército poderá usar da faculdade de orientar, com sentido obrigatório, o retorno à vida civil dos oficiais abrangidos neste diploma, para o que, com essa finalidade, facultará a frequência de cursos, estágios e reciclagens.
+Art. 10.º O Exército poderá usar da faculdade de orientar, com sentido obrigatório, o retorno à vida civil dos oficiais abrangidos neste diploma, para o que, com essa finalidade, facultará a frequência de cursos, estágios e reciclagens.
 
-###### Art. 11.º O Chefe do Estado-Maior do Exército, por despacho, determinará as medidas que julgar convenientes, respeitantes à regulamentação do presente diploma.
+Art. 11.º O Chefe do Estado-Maior do Exército, por despacho, determinará as medidas que julgar convenientes, respeitantes à regulamentação do presente diploma.
 
-###### Art. 12.º As dúvidas e os casos omissos suscitados na execução do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior do Exército.
+Art. 12.º As dúvidas e os casos omissos suscitados na execução do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior do Exército.
 
 Visto e aprovado em Conselho da Revolução em 12 de Abril de 1978.
 
-**Promulgado em 26 de Abril de 1978.**
+Promulgado em 26 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

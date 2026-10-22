@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27500/28392840.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1977-281251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcd756df6fdcb3a25f61ebfb45be380301abc060dc3f6cf06f1d2178f4bb109b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 053924029787381307e51ec0c086eaff0b73541c8ad13ac6aa9ad6bec35d48f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Fazenda
+- Direcção Geral das Obras Públicas e Comunicações
+- Extinção de Serviços
+- Instituto para a Cooperação Económica
+- Integração de Trabalhadores
+- Secretaria de Estado da Integração Administrativa
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:15Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +115,9 @@ Considerando que importa definir as regras de integração do pessoal afecto a e
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral de Obras Públicas e Comunicações da Secretaria de Estado da Integração Administrativa é extinta em 31 de Dezembro do corrente ano.
+Artigo 1.º A Direcção-Geral de Obras Públicas e Comunicações da Secretaria de Estado da Integração Administrativa é extinta em 31 de Dezembro do corrente ano.
 
-###### Art. 2.º - 1 - O pessoal da Direcção-Geral extinta poderá ser integrado:
+Art. 2.º - 1 - O pessoal da Direcção-Geral extinta poderá ser integrado:
 
 a) Em vagas dos quadros de serviços e organismos públicos;
 
@@ -116,25 +137,25 @@ b) Tenha desempenhado funções que correspondessem, de modo efectivo, a necessi
 
 5 - Os funcionários que se encontrem de licença ilimitada poderão ser aposentados se satisfazerem os requisitos legais e o requererem ao Secretário de Estado da Integração Administrativa até à data prevista neste diploma para extinção da Direcção-Geral.
 
-###### Art. 3.º - 1 - A integração, nos termos da alínea a) do n.º 1 do artigo 2.º, far-se-á no respeito pelos requisitos de provimento definidos nas leis orgânicas dos respectivos serviços ou organismos e pelos direitos e expectativas de promoção dos respectivos funcionários, de harmonia com as regras previstas nos artigos 41.º a 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
+Art. 3.º - 1 - A integração, nos termos da alínea a) do n.º 1 do artigo 2.º, far-se-á no respeito pelos requisitos de provimento definidos nas leis orgânicas dos respectivos serviços ou organismos e pelos direitos e expectativas de promoção dos respectivos funcionários, de harmonia com as regras previstas nos artigos 41.º a 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
 
 2 - A integração a que se refere a alínea b) do n.º 1 do artigo 2.º far-se-á nos casos em que existirem necessidades de pessoal de carácter permanente para além dos efectivos previstos nos quadros dos respectivos serviços ou organismos e se se reconhecer como útil para os mesmos a qualificação profissional obtida pelos agentes a integrar.
 
 3 - A integração em quadros paralelos ou como supranumerários permanentes verificar-se-á em serviços e organismos que prossigam fins homólogos aos da Direcção-Geral extinta, onde se revelem necessidades de pessoal de carácter permanente, e se se reconhecer como útil para os mesmos a qualificação profissional obtida pelos agentes a integrar.
 
-###### Art. 4.º - 1 - O número de lugares de cada categoria a acrescer aos quadros a alargar e a criação e constituição de quadros paralelos ou a colaboração dos funcionários como supranumerários permanentes, de acordo com o previsto nos n.os 2 e 3 do artigo anterior, serão definidos, para cada serviço ou organismo onde se der a integração, por portaria do Ministro respectivo e dos Secretários de Estado da Administração Pública e do Orçamento, a qual especificará o regime geral de pessoal a que os funcionários ficarão sujeitos, regime que deverá conformar-se com as normas legais aplicáveis ao pessoal dos quadros.
+Art. 4.º - 1 - O número de lugares de cada categoria a acrescer aos quadros a alargar e a criação e constituição de quadros paralelos ou a colaboração dos funcionários como supranumerários permanentes, de acordo com o previsto nos n.os 2 e 3 do artigo anterior, serão definidos, para cada serviço ou organismo onde se der a integração, por portaria do Ministro respectivo e dos Secretários de Estado da Administração Pública e do Orçamento, a qual especificará o regime geral de pessoal a que os funcionários ficarão sujeitos, regime que deverá conformar-se com as normas legais aplicáveis ao pessoal dos quadros.
 
 2 - As integrações serão feitas mediante listas nominativas a aprovar em termos a definir nas portarias a que se refere o número anterior.
 
-###### Art. 5.º - 1 - Sempre que as categorias dos agentes a integrar nos termos do artigo 2.º não estejam previstas nos quadros do organismo integrador, poderá proceder-se à sua reclassificação, no respeito pelas qualificações escolares e profissionais exigidas pela lei orgânica respectiva.
+Art. 5.º - 1 - Sempre que as categorias dos agentes a integrar nos termos do artigo 2.º não estejam previstas nos quadros do organismo integrador, poderá proceder-se à sua reclassificação, no respeito pelas qualificações escolares e profissionais exigidas pela lei orgânica respectiva.
 
 2 - As reclassificações previstas operar-se-ão através das listas nominativas a publicar nos termos do artigo 4.º
 
-###### Art. 6.º Ao pessoal que vier a ser integrado nos termos do presente diploma será contado, para todos os efeitos legais, todo o tempo de serviço prestado nos serviços e quadros de origem, designadamente para efeitos de conversão de nomeação provisória em definitiva, promoções, antiguidade e diuturnidades.
+Art. 6.º Ao pessoal que vier a ser integrado nos termos do presente diploma será contado, para todos os efeitos legais, todo o tempo de serviço prestado nos serviços e quadros de origem, designadamente para efeitos de conversão de nomeação provisória em definitiva, promoções, antiguidade e diuturnidades.
 
-###### Art. 7.º O Serviço Central de Pessoal providenciará no sentido da colocação dos agentes a que se reporta o presente diploma, pelas formas nele previstas, em ordem a que as integrações se efectivem a partir de 1 de Janeiro de 1978.
+Art. 7.º O Serviço Central de Pessoal providenciará no sentido da colocação dos agentes a que se reporta o presente diploma, pelas formas nele previstas, em ordem a que as integrações se efectivem a partir de 1 de Janeiro de 1978.
 
-###### Art. 8.º - 1 - A Direcção-Geral de Obras Públicas e Comunicações assegurará o pagamento de todo o seu pessoal até à data da sua extinção, ainda que o mesmo se encontre ou venha a ser destacado para os serviços e organismos antes de neles ser integrado.
+Art. 8.º - 1 - A Direcção-Geral de Obras Públicas e Comunicações assegurará o pagamento de todo o seu pessoal até à data da sua extinção, ainda que o mesmo se encontre ou venha a ser destacado para os serviços e organismos antes de neles ser integrado.
 
 2 - Até ao final do ano económico de 1978 o pessoal a que se reporta o presente diploma continuará a ser pago pelas verbas afectas à Direcção-Geral de Obras Públicas e Comunicações, sendo os respectivos vencimentos processados pelos serviços onde vierem a ser integrados; os encargos referentes ao ano de 1979 deverão ser considerados para efeitos de inscrição no orçamento do serviço ou organismo integrador, por conta daquelas verbas.
 
@@ -142,7 +163,7 @@ b) Tenha desempenhado funções que correspondessem, de modo efectivo, a necessi
 
 4 - O Ministério das Finanças tomará as providências necessárias à boa execução do presente diploma.
 
-###### Art. 9.º - 1 - O arquivo técnico da Direcção-Geral extinta é transferido para o Instituto para a Cooperação Económica.
+Art. 9.º - 1 - O arquivo técnico da Direcção-Geral extinta é transferido para o Instituto para a Cooperação Económica.
 
 2 - Os processos individuais acompanharão os funcionários para os serviços em que ingressarem, na sequência da extinção.
 
@@ -150,12 +171,12 @@ b) Tenha desempenhado funções que correspondessem, de modo efectivo, a necessi
 
 4 - A restante documentação, material e mobiliário permanecerão na Secretaria de Estado da Integração Administrativa.
 
-###### Art. 10.º As dúvidas resultantes da aplicação deste diploma serão esclarecidas mediante despacho dos Ministros interessados.
+Art. 10.º As dúvidas resultantes da aplicação deste diploma serão esclarecidas mediante despacho dos Ministros interessados.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 15 de Novembro de 1977.**
+Promulgado em 15 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

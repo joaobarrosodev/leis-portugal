@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48973-1969-526000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 072eab35fcc071908ce0201308d0b40ef966c7299138184acb2ce1d29f062a9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 179707a5571fd8cab3889219c865122f4245a2de20ce2ee1e438eeee2a0e2119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ciclo Preparatório
+- Colégio Militar
+- Ensino Secundário
+- Instituto de Odivelas
+- Instituto Técnico Militar dos Pupilos do Exército
+relationships:
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:07Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +103,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É adoptado no Colégio Militar, no Instituto de Odivelas e no Instituto Técnico Militar das Pupilos do Exército o ciclo preparatório do ensino secundário, que substitui o 1.º ciclo do ensino liceal e o ciclo preparatório do ensino técnico profissional.
+Artigo 1.º - 1. É adoptado no Colégio Militar, no Instituto de Odivelas e no Instituto Técnico Militar das Pupilos do Exército o ciclo preparatório do ensino secundário, que substitui o 1.º ciclo do ensino liceal e o ciclo preparatório do ensino técnico profissional.
 
 2. A programação e orientação do novo ciclo, bem como o acesso a qualquer dos ramos do ensino secundário, nos estabelecimentos de ensino a que se refere o número anterior, passam a reger-se pelas disposições legais aplicáveis ao ciclo preparatório do ensino secundário.
 
 3. O ciclo preparatório do ensino secundário ministrado no Colégio Militar, no Instituto de Odivelas e no Instituto Técnico Militar dos Pupilos do Exército é, para todos os efeitos, quer considerado ano a ano, quer no seu conjunto, equiparado ao que é ministrado nos estabelecimentos de ensino dependentes do Ministério da Educação Nacional.
 
-###### Art. 2.º Os programas das disciplinas ministradas nos diferentes ramos de ensino secundário são os legalmente aprovados pelo Ministério da Educação Nacional e, no processamento dos respectivos exames, são adoptados quanto ao número, natureza e classificação das provas, os moldes estatuídos para os correspondentes estabelecimentos de ensino daquele Ministério.
+Art. 2.º Os programas das disciplinas ministradas nos diferentes ramos de ensino secundário são os legalmente aprovados pelo Ministério da Educação Nacional e, no processamento dos respectivos exames, são adoptados quanto ao número, natureza e classificação das provas, os moldes estatuídos para os correspondentes estabelecimentos de ensino daquele Ministério.
 
-###### Art. 3.º Considerando as características especiais do Colégio Militar, do Instituto de Odivelas e do Instituto Técnico Militar dos Pupilos do Exército, compete aos seus conselho escolar e pedagógico ou conselho pedagógico e disciplinar - consoante os casos e sem prejuízo do estatuído no artigo 1.º - programar e orientar as disciplinas e actividades adequadas à consecução das finalidades específicas de cada um daqueles estabelecimentos de ensino, desde que autorizadas pelo Ministro do Exército.
+Art. 3.º Considerando as características especiais do Colégio Militar, do Instituto de Odivelas e do Instituto Técnico Militar dos Pupilos do Exército, compete aos seus conselho escolar e pedagógico ou conselho pedagógico e disciplinar - consoante os casos e sem prejuízo do estatuído no artigo 1.º - programar e orientar as disciplinas e actividades adequadas à consecução das finalidades específicas de cada um daqueles estabelecimentos de ensino, desde que autorizadas pelo Ministro do Exército.
 
-###### Art. 4.º A título transitório, observar-se-ão as seguintes disposições:
+Art. 4.º A título transitório, observar-se-ão as seguintes disposições:
 
 a) No ano escolar de 1968-1969 funcionará no Colégio Militar, no Instituto de Odivelas e no Instituto Técnico Militar dos Pupilos do Exército o 1.º ano do ciclo preparatório do ensino secundário, deixando de ser professados o 1.º ano do ensino liceal e o 1.º ano do ciclo preparatório do ensino técnico profissional;
 
@@ -120,8 +129,8 @@ f) As alunas que frequentaram sem aproveitamento o 3.º ano do ensino liceal no 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Manuel Bethencourt Conceição Rodrigues - José Hermano Saraiva.
 
-**Promulgado em 9 de Abril de 1969.**
+Promulgado em 9 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

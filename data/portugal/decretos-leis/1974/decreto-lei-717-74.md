@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/717-1974-468190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d263207fa2352aec296eefd31c1c3916637843937cd134dc75e2a2c8cf58e1d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3426b08775a2442b3d8b262d98b96bf1561f0aae1de81d23b09b03a7d0b4ba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Militar
+- Moçambique
+relationships:
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:42Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +98,16 @@ Considerando que a legislação em vigor coloca na situação de adidos aos quad
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os oficiais, os sargentos e as praças do recrutamento metropolitano e insular, dos três ramos das forças armadas, colocados ou a colocar no Estado de Moçambique preenchem as vacaturas dos respectivos quadros metropolitanos.
+Artigo 1.º Os oficiais, os sargentos e as praças do recrutamento metropolitano e insular, dos três ramos das forças armadas, colocados ou a colocar no Estado de Moçambique preenchem as vacaturas dos respectivos quadros metropolitanos.
 
-###### Art. 2.º O presente decreto-lei produz efeitos a partir do dia 9 de Setembro de 1974 sem prejuízo das situações jurídicas que constituam direitos adquiridos.
+Art. 2.º O presente decreto-lei produz efeitos a partir do dia 9 de Setembro de 1974 sem prejuízo das situações jurídicas que constituam direitos adquiridos.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 19 de Novembro de 1974.**
+Promulgado em 19 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - A. Almeida Santos.

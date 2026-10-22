@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1971-642702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b6a872b90d4b78a9b3d49645c7b2f6f1d0ad77311b23bf3ffb80b37195d8bc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dca2ea4a0afa71d44a45e404051293574ed2d794761069d456bbeb8eaecc05be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Acidente de Trabalho
+- Bélgica
+- Convenção
+- Desemprego
+- Doença Profissional
+- Lisboa
+- Marinha Mercante
+- Mineiro
+- Pensão de Invalidez
+- Pensão de Reforma
+- Pensão de Velhice
+- Pessoal do MAR
+- Portugal
+- Prestações da Segurança Social
+- Prestações Familiares
+- Segurança Social
+- Subsídio de Desemprego
+- Subsídio de Doença
+- Subsídio de Maternidade
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:32Z'
   warnings: []
   errors: []
 ---
@@ -87,23 +107,23 @@ de 20 de Julho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Geral sobre Segurança Social entre a República de Portugal e o Reino da Bélgica, assinada em Lisboa em 14 de Setembro de 1970, cujo texto, nas línguas portuguesa, francesa e flamenga, vai anexo ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção Geral sobre Segurança Social entre a República de Portugal e o Reino da Bélgica, assinada em Lisboa em 14 de Setembro de 1970, cujo texto, nas línguas portuguesa, francesa e flamenga, vai anexo ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 21 de Junho de 1971.**
+Promulgado em 21 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Convenção Geral sobre Segurança Social entre a República de Portugal e o Reino da Bélgica
 
-**O Presidente da República Portuguesa e Sua Majestade o Rei dos Belgas, animados do desejo de garantir o benefício das legislações sobre segurança social em vigor nos dois Estados contratantes, às pessoas a que se aplicam ou foram aplicadas as mesmas legislações, resolveram concluir uma convenção e, para esse efeito, nomearam seus plenipotenciários, a saber:**
+O Presidente da República Portuguesa e Sua Majestade o Rei dos Belgas, animados do desejo de garantir o benefício das legislações sobre segurança social em vigor nos dois Estados contratantes, às pessoas a que se aplicam ou foram aplicadas as mesmas legislações, resolveram concluir uma convenção e, para esse efeito, nomearam seus plenipotenciários, a saber:
 
-**O Presidente da República Portuguesa: S. Ex.ª o Sr. Rui Manuel de Medeiros d'Espiney Patrício, Ministro dos Negócios Estrangeiros,**
+O Presidente da República Portuguesa: S. Ex.ª o Sr. Rui Manuel de Medeiros d'Espiney Patrício, Ministro dos Negócios Estrangeiros,
 
 Sua Majestade o Rei dos Belgas: S. Ex.ª o Sr. Placide de Paepe, Ministro da Previdência Social,
 
@@ -481,11 +501,11 @@ São consideradas como autoridades administrativas competentes, no sentido da pr
 
 Em Portugal:
 
-**O Ministro das Corporações e Previdência Social.**
+O Ministro das Corporações e Previdência Social.
 
 Na Bélgica:
 
-**O Ministro da Previdência Social.**
+O Ministro da Previdência Social.
 
 ###### ARTIGO 44.º
 
@@ -1007,7 +1027,7 @@ ARTICLE 51
 
 § 3. En ce qui concerne les droits en cours d'acquisition afférents aux périodes d'assurance accomplis antérieurement à la date à laquelle la présente Convention cessera d'être en vigueur, les stipulations de cette Convention resteront applicables dans les conditions qui seront définies d'un commun accord par les Parties contractantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16900/10331056.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16900/10331056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16900/10331056.pdf)
 
 PROTOCOLO
 
@@ -1033,4 +1053,4 @@ ARTICLE 2
 
 Le présent Protocole entrera en application le même jour que la Convention et demeurera en vigueur pendant la même durée que celle-ci.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16900/10331056.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16900/10331056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16900/10331056.pdf)

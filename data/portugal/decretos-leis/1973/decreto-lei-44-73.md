@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/02/03600/02000204.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f04143028c68909faf18cec6fb65ede4d41caa34865c47b3107f3f9f59b0a3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de2f55474add5d8ba8054441daa11812aba53ea5774e85ed53b23ff18d551df3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- Gestão Escolar
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:549377:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466829:por
+  label: "Altera a al. b) do nº1 do art. 13º pelo DEC LEI.694/74.05.12.1974.MEC, DG.IS [283] de 05.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/694-1974-466829
+  date: '1974-12-05'
+- type: amended_by
+  target: pt:dre:549377:por
+  label: "Extinta a Direcção Geral do Ensino Secundário, pelo DR.30/89.1989.10.20.ME, DR.IS [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-1989-549377
+  date: '1989-10-20'
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:230886:por
+  label: "Revogado o n.º 2 do artigo 8.º pelo DEC LEI.541/79.31.12.1979.ME, DR.IS [300-12ºSupl] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/541-1979-230886
+  date: '1979-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:15Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +147,7 @@ I
 
 Das atribuições e competências
 
-###### Artigo 1.º - 1. A Direcção-Geral do Ensino Secundário, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, tem por atribuições:
+Artigo 1.º - 1. A Direcção-Geral do Ensino Secundário, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, tem por atribuições:
 
 a) Superintender na organização e funcionamento dos estabelecimentos deste grau de ensino e proceder à sua orientação pedagógica e à respectiva fiscalização, velando pela qualidade e eficiência do ensino e promovendo a renovação dos respectivos métodos e técnicas, a formação, actualização e classificação do pessoal docente, a consideração dos problemas escolares dos alunos, incluindo os referentes aos diminuídos e a acção disciplinar que se mostrar conveniente;
 
@@ -126,7 +157,7 @@ c) Proceder à orientação pedagógica do ensino secundário particular, em col
 
 2. Pertence também a esta Direcção-Geral promover e orientar o ensino secundário da língua portuguesa no estrangeiro.
 
-###### Art. 2.º Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral:
+Art. 2.º Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral:
 
 a) Promover e orientar ou acompanhar as expeperiências pedagógicas e a aplicação de reformas ou aperfeiçoamentos que se mostre necessário introduzir na organização ou no funcionamento dos estabelecimentos de ensino secundário, visando uma gradual melhoria dos processos, dos métodos e das técnicas de ensino;
 
@@ -154,7 +185,7 @@ m) Cooperar no fomento da acção social escolar, das actividades juvenis e das 
 
 n) Publicar o Boletim do Ensino Secundário.
 
-###### Art. 3.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
+Art. 3.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
 
 2. Os directores de serviços chefiarão as respectivas direcções de serviços e coadjuvarão directamente o director-geral exercendo as funções que por ele lhes forem confiadas.
 
@@ -164,7 +195,7 @@ II
 
 Dos órgãos e serviços
 
-###### Art. 4.º - 1. A Direcção-Geral compreende os seguintes órgãos e serviços:
+Art. 4.º - 1. A Direcção-Geral compreende os seguintes órgãos e serviços:
 
 a) Conselho Pedagógico;
 
@@ -180,7 +211,7 @@ f) Repartição Administrativa.
 
 2. Os órgãos e serviços externos, referidos no artigo 24.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, serão objecto de legislação especial.
 
-###### Art. 5.º - 1. O Conselho Pedagógico do ensino secundário é um órgão consultivo que funciona na directa dependência do director-geral.
+Art. 5.º - 1. O Conselho Pedagógico do ensino secundário é um órgão consultivo que funciona na directa dependência do director-geral.
 
 2. Compete especialmente ao Conselho Pedagógico:
 
@@ -190,11 +221,11 @@ b) Coadjuvar o director-geral na planificação das actividades;
 
 c) Dar parecer sobre as experiências pedagógicas e sobre a implantação de novas estruturas e métodos de ensino.
 
-###### Art. 6.º - 1. O Conselho Pedagógico terá como vogais permanentes os inspectores superiores, os directores de serviços, os chefes de divisão e um representante de cada um dos seguintes serviços: Direcção-Geral do Ensino Básico, Direcção-Geral da Administração Escolar, Inspecção-Geral do Ensino Particular e Instituto de Tecnologia Educativa.
+Art. 6.º - 1. O Conselho Pedagógico terá como vogais permanentes os inspectores superiores, os directores de serviços, os chefes de divisão e um representante de cada um dos seguintes serviços: Direcção-Geral do Ensino Básico, Direcção-Geral da Administração Escolar, Inspecção-Geral do Ensino Particular e Instituto de Tecnologia Educativa.
 
 2. Sempre que a natureza dos problemas o justifique, poderão ser agregados ao Conselho professores do ensino secundário e ainda quaisquer individualidades com especial qualificação nos assuntos a debater.
 
-###### Art. 7.º - 1. Compete aos Serviços de Inspecção:
+Art. 7.º - 1. Compete aos Serviços de Inspecção:
 
 a) Fomentar e orientar a investigação pedagógica nos estabelecimentos de ensino;
 
@@ -212,7 +243,7 @@ g) Colaborar nas acções de formação e actualização do pessoal docente, bem
 
 2. Os Serviços de Inspecção serão dirigidos, de acordo com as actividades a desenvolver, pelo inspector superior designado pelo, director-geral.
 
-###### Art. 8.º - 1. Compete à Direcção de Serviços de Acção Pedagógica:
+Art. 8.º - 1. Compete à Direcção de Serviços de Acção Pedagógica:
 
 a) Promover e fomentar a realização de acções destinadas à formação contínua dos professores do ensino secundário;
 
@@ -232,7 +263,7 @@ f) Assegurar a realização de experiências pedagógicas, nomeadamente no que r
 
 4. A Direcção de Serviços de Acção Pedagógica compreende a Divisão de Formação Pedagógica e a Divisão de Programas e Métodos.
 
-###### Art. 9.º - 1. Compete à Direcção de Serviços de Orientação Educativa:
+Art. 9.º - 1. Compete à Direcção de Serviços de Orientação Educativa:
 
 a) Promover a orientação escolar e vocacional dos alunos em íntima colaboração com as famílias;
 
@@ -244,7 +275,7 @@ d) Colaborar nas acções destinadas ao recenseamento escolar.
 
 2. A Direcção de Serviços de Orientação Educativa compreende a Divisão de Organização e Rendimento Escolar e a Divisão de Ensino Especial e Profissional.
 
-###### Art. 10.º - 1. O Gabinete Técnico-Pedagógico é um serviço de apoio técnico e documental.
+Art. 10.º - 1. O Gabinete Técnico-Pedagógico é um serviço de apoio técnico e documental.
 
 2. Compete especialmente ao Gabinete Técnico-Pedagógico:
 
@@ -260,7 +291,7 @@ e) Planear o equipamento fundamental à promoção do ensino artístico, das ci�
 
 3. O Gabinete Técnico-Pedagógico será chefiado por um inspector-chefe designado pelo director-geral.
 
-###### Art. 11.º À Repartição Administrativa compete:
+Art. 11.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral, contabilidade, economato e de administração do pessoal da Direcção-Geral, sem prejuízo da competência da Secretaria-Geral;
 
@@ -270,7 +301,7 @@ III
 
 Do pessoal
 
-###### Art. 12.º - 1. A Direcção-Geral tem o pessoal dirigente e técnico constante no mapa I, anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734).
+Art. 12.º - 1. A Direcção-Geral tem o pessoal dirigente e técnico constante no mapa I, anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734).
 
 2. A Direcção-Geral disporá ainda do pessoal administrativo, técnico-auxiliar e auxiliar constante do mapa II, anexo ao presente decreto-lei, o qual será integrado no quadro único do Ministério, a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
@@ -278,7 +309,7 @@ Do pessoal
 
 4. O pessoal da Direcção-Geral será distribuído pelos respectivos serviços mediante despacho do director-geral.
 
-###### Art. 13.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 13.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral do Ensino Secundário será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de entre diplomados com curso superior adequado e de reconhecida competência ou de entre inspectores-gerais da Junta Nacional da Educação;
 
@@ -288,59 +319,59 @@ c) Os lugares de director de serviços serão providos por escolha do Ministro d
 
 2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação.
 
-###### Art. 14.º - 1. O Ministro da Educação Nacional pode autorizar que para o exercício de funções inspectivas e pedagógicas especificadas sejam destacados para a Direcção-Geral, por períodos de três anos, professores habilitados com Exame de Estado para o ensino secundário, em número igual ao das vagas existentes, no quadro de inspectores-orientadores.
+Art. 14.º - 1. O Ministro da Educação Nacional pode autorizar que para o exercício de funções inspectivas e pedagógicas especificadas sejam destacados para a Direcção-Geral, por períodos de três anos, professores habilitados com Exame de Estado para o ensino secundário, em número igual ao das vagas existentes, no quadro de inspectores-orientadores.
 
 2. Aos inspectores-chefes, inspectores-orientadores e professores destacados para funções inspectivas ou pedagógicas será abonada a gratificação mensal de 2000$00.
 
 3. O tempo de serviço prestado na Direcção-Geral pelos professores a que se refere o n.º 1 deste artigo será contado como se fosse prestado nos estabelecimentos de ensino.
 
-###### Art. 15.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 15.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades de vencimento do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 16.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+Art. 16.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
 IV
 
 Disposições finais e transitórias
 
-###### Art. 17.º - 1. São extintas as actuais Direcções-Gerais dos Ensinos Liceal e Técnico Profissional e integradas nesta Direcção-Geral as Inspecções do Ensino Liceal e Técnico Profissional para ela transitando todo o material e equipamento afecto àqueles serviços.
+Art. 17.º - 1. São extintas as actuais Direcções-Gerais dos Ensinos Liceal e Técnico Profissional e integradas nesta Direcção-Geral as Inspecções do Ensino Liceal e Técnico Profissional para ela transitando todo o material e equipamento afecto àqueles serviços.
 
 2. É transferida para a Direcção-Geral do Ensino Secundário a competência que nos domínios mencionados no presente diploma estava atribuída aos serviços referidos no número anterior.
 
 3. O Ministro da Educação Nacional poderá determinar que a Direcção-Geral do Ensino Secundário assegure o exercício de funções que competiam aos organismos referidos no n.º 1 deste artigo enquanto não for possível afectá-lo à Direcção-Geral da Administração Escolar, mas por prazo não superior a dois anos.
 
-###### Art. 18.º Enquanto não forem reorganizados os institutos comerciais e industriais, bem como as escolas de regentes agrícolas, estes estabelecimentos continuam dependentes desta Direcção-Geral, dentro do âmbito da sua competência.
+Art. 18.º Enquanto não forem reorganizados os institutos comerciais e industriais, bem como as escolas de regentes agrícolas, estes estabelecimentos continuam dependentes desta Direcção-Geral, dentro do âmbito da sua competência.
 
-###### Art. 19.º Até à publicação do Estatuto do Ensino Secundário, manter-se-ão em vigor as disposições dos Estatutos dos Ensinos Liceal e Técnico Profissional e respectiva legislação complementar desde que não contrariem o presente diploma.
+Art. 19.º Até à publicação do Estatuto do Ensino Secundário, manter-se-ão em vigor as disposições dos Estatutos dos Ensinos Liceal e Técnico Profissional e respectiva legislação complementar desde que não contrariem o presente diploma.
 
-###### Art. 20.º Mantêm-se em vigor as disposições reguladoras das Comissões do Livro Único dos Ensinos Liceal e Técnico Profissional, até à regulamentação do mesmo serviço.
+Art. 20.º Mantêm-se em vigor as disposições reguladoras das Comissões do Livro Único dos Ensinos Liceal e Técnico Profissional, até à regulamentação do mesmo serviço.
 
-###### Art. 21.º São extintos os boletins Cadernos de Pedagogia e Escolas Técnicas e criado em sua substituição o Boletim do Ensino Secundário para ele transitando o material afecto àquelas publicações.
+Art. 21.º São extintos os boletins Cadernos de Pedagogia e Escolas Técnicas e criado em sua substituição o Boletim do Ensino Secundário para ele transitando o material afecto àquelas publicações.
 
-###### Art. 22.º No prazo de cento e oitenta dias será aprovado por decreto o Regulamento da Direcção-Geral do Ensino Secundário.
+Art. 22.º No prazo de cento e oitenta dias será aprovado por decreto o Regulamento da Direcção-Geral do Ensino Secundário.
 
-###### Art. 23.º Os funcionários ao serviço da Direcção-Geral não poderão, por si ou por interposta pessoa, elaborar ou participar na elaboração de obras didácticas ou auxiliares destinadas a alunos do ensino secundário, salvo se dessa tarefa forem encarregados por despacho ministerial.
+Art. 23.º Os funcionários ao serviço da Direcção-Geral não poderão, por si ou por interposta pessoa, elaborar ou participar na elaboração de obras didácticas ou auxiliares destinadas a alunos do ensino secundário, salvo se dessa tarefa forem encarregados por despacho ministerial.
 
-###### Art. 24.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço nos quadros das Direcções-Gerais do Ensino Liceal e do Ensino Técnico e das Inspecções do Ensino Liceal e do Ensino Técnico será provido em lugares idênticos, ou de categoria equivalente, dos quadros anexos ao presente diploma, nos termos das regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se no provimento do lugar de director-geral o disposto no n.º 2 do artigo 13.º
+Art. 24.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço nos quadros das Direcções-Gerais do Ensino Liceal e do Ensino Técnico e das Inspecções do Ensino Liceal e do Ensino Técnico será provido em lugares idênticos, ou de categoria equivalente, dos quadros anexos ao presente diploma, nos termos das regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se no provimento do lugar de director-geral o disposto no n.º 2 do artigo 13.º
 
 2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados para a Direcção-Geral do Ensino Secundário ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
 
 3. O pessoal que actualmente presta serviço nas condições do número anterior e que não for possível prover nos termos previstos no mesmo transita para a Direcção-Geral do Ensino Secundário na situação em que se encontrar à data da publicação deste decreto-lei.
 
-###### Art. 25.º Este decreto-lei entra em vigor no dia 1 de Março, devendo porém ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 24.º
+Art. 25.º Este decreto-lei entra em vigor no dia 1 de Março, devendo porém ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 24.º
 
-###### Art. 26.º Os encargos resultantes da execução do presente diploma serão suportados por dotações inscritas no orçamento da Secretaria-Geral do Ministério
+Art. 26.º Os encargos resultantes da execução do presente diploma serão suportados por dotações inscritas no orçamento da Secretaria-Geral do Ministério
 
 da Educação Nacional para o ano de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 3 de Fevereiro de 1973.**
+Promulgado em 3 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Pessoal e vencimentos da Direcção-Geral do Ensino Secundário
 
@@ -348,7 +379,7 @@ MAPA I
 
 Pessoal integrado no quadro único a que se refere o n.º 1 do artigo 12.º do Decreto-Lei n.º 44/73, de 12 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/03600/02000204.pdf))](https://files.diariodarepublica.pt/1s/1973/02/03600/02000204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02000204.pdf)
 
 Pessoal e vencimentos da Direcção-Geral do Ensino Secundário
 
@@ -356,8 +387,8 @@ MAPA II
 
 Pessoal a que se refere o n.º 2 do artigo 12.º do Decreto-Lei n.º 44/73, de 12 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/03600/02000204.pdf))](https://files.diariodarepublica.pt/1s/1973/02/03600/02000204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02000204.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

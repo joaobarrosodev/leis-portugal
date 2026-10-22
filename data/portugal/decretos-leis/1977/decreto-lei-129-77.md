@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/07800/06830686.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1977-139718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eceff85e97e6d89e468df11fce60c84290f25a109cfcd17d70164c49d38a251
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c8af1c8a97d862100a106674bca7a8a94a2e6507cfec109d10aba20dd0f47af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Orgânica
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADO UM NUMERO 3 AO ARTIGO 2 PELO DECRETO-LEI NUMERO 476/77, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO\
+    \ 263, DE 14/11/77. REPOSTO EM VIGOR PELA RESOLUÇÃO DA ASSEMBLEIA DA REPÚBLICA NUMERO 5/87, PUBLICADA NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, NUMERO 41, DE 18/2/87. REVOGADO PELO DECRETO-LEI NUMERO 19/88, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO\
+    \ 17, 3 SUPLEMENTO, DE 21/1/88.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:662677:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577911:por
+  label: "Alterado o nº 2 do art. 4º pelo DEC LEI.250/81.29.08.1981.PCM, DR.IS [198] de 29.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1981-577911
+  date: '1981-08-29'
+- type: amended_by
+  target: pt:dre:662677:por
+  label: "Repristinado pelo RES.5/87.1987.02.03.AR DR.IS [41] DE 18/FEV/1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/5-1987-662677
+  date: '1987-02-03'
+- type: cites
+  target: pt:dre:486300:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599525:por
+  label: "Revogado pelo DEC LEI.16/87.09.01.1987.MS, DR.IS [7] de 09.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1987-599525
+  date: '1987-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:47Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +136,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O presente decreto-lei aplica-se aos hospitais centrais, gerais e especializados e aos hospitais distritais.
+Artigo 1.º - 1. O presente decreto-lei aplica-se aos hospitais centrais, gerais e especializados e aos hospitais distritais.
 
 2. Até que se proceda a uma revisão global da legislação hospitalar em vigor continuam a observar-se as disposições do Estatuto Hospitalar, do Regulamento Geral dos Hospitais e dos diplomas complementares, na parte não contrariada por este diploma.
 
-###### Art. 2.º - 1. Os hospitais a que se aplica o presente decreto-lei são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, sem prejuízo do disposto no artigo seguinte.
+Art. 2.º - 1. Os hospitais a que se aplica o presente decreto-lei são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, sem prejuízo do disposto no artigo seguinte.
 
 2. A capacidade jurídica dos hospitais abrange todos os direitos e obrigações necessários à prossecução dos seus fins definidos na lei.
 
-###### Art. 3.º - 1. Ao Estado compete, através da Secretaria de Estado da Saúde, no exercício do seu poder de tutela:
+Art. 3.º - 1. Ao Estado compete, através da Secretaria de Estado da Saúde, no exercício do seu poder de tutela:
 
 a) Estabelecer planos e programas de acção, acompanhar a sua execução e avaliar os seus resultados;
 
@@ -136,15 +164,15 @@ h) Definir os critérios a que deve obedecer a elaboração dos quadros de pesso
 
 i) Autorizar a compra ou alienação de imóveis e a efectivação de empréstimos.
 
-###### Art. 4.º - 1. Aos trabalhadores que anteriormente ao [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), de 7 de Dezembro, tiverem subscrito para alguma caixa de previdência ou de aposentação particular será permitido optar por manterem a situação actual ou inscreverem-se na Caixa Geral de Aposentações ou na Caixa de Previdência dos Empregados da Assistência, conforme o que for aplicável à generalidade do pessoal da sua categoria.
+Art. 4.º - 1. Aos trabalhadores que anteriormente ao [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), de 7 de Dezembro, tiverem subscrito para alguma caixa de previdência ou de aposentação particular será permitido optar por manterem a situação actual ou inscreverem-se na Caixa Geral de Aposentações ou na Caixa de Previdência dos Empregados da Assistência, conforme o que for aplicável à generalidade do pessoal da sua categoria.
 
 2. Aos trabalhadores que optarem por nova inscrição será contado todo o tempo de serviço anteriormente prestado, competindo ao Ministro dos Assuntos Sociais ou a este e ao das Finanças, conforme os casos, fixar por despacho o montante das reservas a transferir para a caixa onde for feita a inscrição.
 
-###### Art. 5.º - 1. No exercício do contrôle da gerência pode o Secretário de Estado da Saúde decidir a colocação nos hospitais de um ou mais delegados seus, sempre que se verificarem deficiências na organização ou funcionamento dos respectivos serviços, que julgue insuperáveis em prazo conveniente, com os meios pessoais de que dispõem.
+Art. 5.º - 1. No exercício do contrôle da gerência pode o Secretário de Estado da Saúde decidir a colocação nos hospitais de um ou mais delegados seus, sempre que se verificarem deficiências na organização ou funcionamento dos respectivos serviços, que julgue insuperáveis em prazo conveniente, com os meios pessoais de que dispõem.
 
 2. Os despachos do Secretário de Estado da Saúde proferidos nos termos do número anterior fixarão as atribuições dos delegados nomeados, as modalidades da articulação entre os órgãos de gestão dos hospitais em causa e esses delegados, os prazos de nomeação e as respectivas remunerações.
 
-###### Art. 6.º - 1. O financiamento dos estabelecimentos hopitalares far-se-á nos termos de decreto dos Ministérios das Finanças e dos Assuntos Sociais.
+Art. 6.º - 1. O financiamento dos estabelecimentos hopitalares far-se-á nos termos de decreto dos Ministérios das Finanças e dos Assuntos Sociais.
 
 2. Até à publicação do diploma referido no número anterior as receitas dos hospitais são as seguintes:
 
@@ -166,37 +194,37 @@ g) Outras receitas que lhes sejam atribuídas.
 
 4. As disponibilidades dos hopistais serão depositadas na Caixa Geral de Depósitos ou nos bancos nacionalizados, sem prejuízo de poderem levantar e ter em tesouraria as importâncias estritamente indispensáveis ao pagamento de pequenas despesas que deva ser feito em dinheiro.
 
-###### Art. 7.º - 1. As receitas e despesas dos hospitais serão classificadas segundo o plano de contas hospitalar.
+Art. 7.º - 1. As receitas e despesas dos hospitais serão classificadas segundo o plano de contas hospitalar.
 
 2. Compete à Direcção-Geral dos Hospitais promover a revisão do actual plano de contas hospitalar e apresentá-lo à aprovação dos Ministros das Finanças e dos Assuntos Sociais, que engloba também o orçamento.
 
 3. O actual plano de contas hospitalar mantém-se em vigor até aprovação da revisão prevista no número precedente.
 
-###### Art. 8.º - 1. Nos hospitais as contas de cada ano obedecerão ao princípio da especialização dos exercícios.
+Art. 8.º - 1. Nos hospitais as contas de cada ano obedecerão ao princípio da especialização dos exercícios.
 
 2. O plano de contas hospitalares descreverá separadamente as receitas emitidas e as despesas contraídas relativas a exercícios anteriores.
 
 3. Competirá à Direcção-Geral dos Hospitais estabelecer as normas necessárias para a contabilização destas receitas e despesas.
 
-###### Art. 9.º É da competência dos órgãos de gestão dos hospitais classificar como incobráveis as contas por cujo pagamento tenham sido determinados como responsável o próprio doente ou seus parentes com obrigação legal de prestação de alimentos, e bem assim proceder à redução dos seus montantes, mas em ambos os casos de acordo com os critérios a definir pelo Secretário de Estado da Saúde.
+Art. 9.º É da competência dos órgãos de gestão dos hospitais classificar como incobráveis as contas por cujo pagamento tenham sido determinados como responsável o próprio doente ou seus parentes com obrigação legal de prestação de alimentos, e bem assim proceder à redução dos seus montantes, mas em ambos os casos de acordo com os critérios a definir pelo Secretário de Estado da Saúde.
 
-###### Art. 10.º - 1. Os hospitais deverão possuir inventário valorizado, designadamente de todo o imobilizado que neles exista.
+Art. 10.º - 1. Os hospitais deverão possuir inventário valorizado, designadamente de todo o imobilizado que neles exista.
 
 2. Compete à Direcção-Geral dos Hospitais fixar, com periodicidade não superior a cinco anos, as taxas de reavaliação do imobilizado, sendo os órgãos de gestão de cada hospital responsáveis pela sua aplicação.
 
 3. O imobilizado será obrigatoriamente reintegrado nos termos a fixar pelo plano de contas hospitalar.
 
-###### Art. 11.º - 1. As dotações para reintegrações e previsões serão obrigatoriamente inscritas no orçamento anual do estabelecimento.
+Art. 11.º - 1. As dotações para reintegrações e previsões serão obrigatoriamente inscritas no orçamento anual do estabelecimento.
 
 2. A aplicação de quaisquer saldos positivos da exploração a reservas para investimento ou cobertura de deficit dependerá da aprovação do Secretário de Estado da Saúde, ouvidos os serviços competentes.
 
-###### Art. 12.º - 1. Os hospitais podem inscrever nos seus orçamentos de exploração dotações para conservação, reparação e beneficiação das instalações e do equipamento, conforme as suas necessidades e até limites a fixar.
+Art. 12.º - 1. Os hospitais podem inscrever nos seus orçamentos de exploração dotações para conservação, reparação e beneficiação das instalações e do equipamento, conforme as suas necessidades e até limites a fixar.
 
 2. As inscrições orçamentais, na parte previsivelmente afectada a obras de conservação, reparação ou beneficiação das instalações, devem ser justificadas por descrição sumária das obras a realizar e por indicação do custo previsto.
 
 3. É da competência dos órgãos de gestão dos hospitais a autorização das obras ou trabalhos de conservação, reparação e beneficiação das instalações e do equipamento, qualquer que seja o seu montante, até ao limite orçamentado em cada ano.
 
-###### Art. 13.º - 1. Sob proposta fundamentada dos órgãos de gestão dos hospitais, pode o Secretário de Estado da Saúde autorizar que os hospitais contratem com empresas ou técnicos especializados a realização de estudos visando a reorganização dos seus serviços ou a remodelação das suas instalações.
+Art. 13.º - 1. Sob proposta fundamentada dos órgãos de gestão dos hospitais, pode o Secretário de Estado da Saúde autorizar que os hospitais contratem com empresas ou técnicos especializados a realização de estudos visando a reorganização dos seus serviços ou a remodelação das suas instalações.
 
 2. Os estudos que visarem a remodelação das instalações só serão exequíveis depois de aprovados pelos Ministérios das Obras Públicas e dos Assuntos Socais.
 
@@ -204,7 +232,7 @@ g) Outras receitas que lhes sejam atribuídas.
 
 4. Os estudos e as obras de remodelação que forem autorizados poderão ser pagos, no todo ou em parte, pelas disponibilidades existentes como reservas para investimento constituídas nos termos previstos neste diploma.
 
-###### Art. 14.º - 1. Pode o Secretário de Estado da Saúde delegar nos órgãos de gestão dos hospitais a competência para:
+Art. 14.º - 1. Pode o Secretário de Estado da Saúde delegar nos órgãos de gestão dos hospitais a competência para:
 
 a) Autorizar a abertura dos concursos e praticar todos os actos subsequentes e necessários para preenchimento das vagas que existem nos quadros ou mapas de pessoal, desde que as condições de admissão e classificação dos candidatos se conformem com as regras aplicáveis das carreias de pessoal hospitalar;
 
@@ -224,7 +252,7 @@ g) Qualificar como acidente em serviço, de acordo com as disposições legais e
 
 3. A competência atribuída neste diploma aos órgãos de gestão dos hospitais e a que lhes for delegada pode ser por estes delegada ou subdelegadas em alguns ou algum dos seus membros, salvo determinação em contrário.
 
-###### Art. 15.º - 1. Nos hospitais haverá órgãos de gestão, órgãos de direcção e de apoio técnico e órgãos de expressão da vontade dos trabalhadores.
+Art. 15.º - 1. Nos hospitais haverá órgãos de gestão, órgãos de direcção e de apoio técnico e órgãos de expressão da vontade dos trabalhadores.
 
 2. Os órgãos de gestão são responsáveis pelo planeamento e desenvolvimento da gerência do hospital.
 
@@ -232,16 +260,16 @@ g) Qualificar como acidente em serviço, de acordo com as disposições legais e
 
 4. Os órgãos de expressão da vontade dos trabalhadores, dotados de independência, são órgãos de auscultação da opinião e dos anseios dos trabalhadores democraticamente expressos e pronunciam-se a título consultivo, por sua iniciativa ou a pedido dos órgãos de gestão ou de direcção do hospital.
 
-###### Art. 16.º São nulos e de nenhum efeito as deliberações e actos de qualquer dos órgãos enumerados no artigo anterior que incidam sobre matéria alheia à sua competência ou invadam a esfera de competência de qualquer dos outros órgãos.
+Art. 16.º São nulos e de nenhum efeito as deliberações e actos de qualquer dos órgãos enumerados no artigo anterior que incidam sobre matéria alheia à sua competência ou invadam a esfera de competência de qualquer dos outros órgãos.
 
-###### Art. 17.º - 1. O Regulamento dos Órgãos de Gestão e Direcção dos Hospitais constará de decreto do Ministro dos Assuntos Sociais.
+Art. 17.º - 1. O Regulamento dos Órgãos de Gestão e Direcção dos Hospitais constará de decreto do Ministro dos Assuntos Sociais.
 
 2. O Regulamento indicará os órgãos que deverão existir nos hospitais, a sua designação, composição e competência, a responsabilidade e remunerações dos respectivos titulares e as matérias que poderão constar do regulamento interno de cada hospital.
 
 Visto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros - Armando Bacelar.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

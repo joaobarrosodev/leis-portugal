@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/15300/11901192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4506ccca2f54998ffeaaf52334a6dad80fb0864cf674bb6bafbd2e26e943975b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cef7614c161f792f1597d044139cfdc3f66a80fa5a573731012f866fc50b92e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério do Ultramar
+- OBRA Social
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:324960:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:501605:por
+  label: Determinada a transição para a dependência do Ministério da Cooperação da Obra Social do Ministério do Ultramar,
+    continuando a reger-se pela legislação em vigor, com as necessárias adaptações, pelo(a) Decreto n.º 197/76 - Diário do
+    Governo n.º 66/1976, Série I de 1976-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/197-1976-501605
+  date: '1976-03-18'
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324960:por
+  label: "Revogado pelo DEC LEI.77/85.1985.03.26.PCM, DR.IS [71]e extinta a Obra Social do ex-Ministério do Ultramar criada\
+    \ pelo presente diploma e transferidas para os Serviços Sociais da Presidência do Conselho de Ministros as suas atribuições,\
+    \ competências e património \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1985-324960
+  date: '1985-03-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:25Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +157,11 @@ OBRA SOCIAL DO MINISTÉRIO DO ULTRAMAR
 
 I) Fins e meios
 
-###### Artigo 1.º É criada a Obra Social do Ministério do Ultramar, sob a dependência directa do Ministério do Ultramar, tendo por fim desenvolver a solidariedade entre os funcionários do ultramar e seus familiares e a assistência em todos os sectores em que se reconheça a sua necessidade.
+Artigo 1.º É criada a Obra Social do Ministério do Ultramar, sob a dependência directa do Ministério do Ultramar, tendo por fim desenvolver a solidariedade entre os funcionários do ultramar e seus familiares e a assistência em todos os sectores em que se reconheça a sua necessidade.
 
-###### Art. 2.º A Obra Social do Ministério do Ultramar tem personalidade jurídica, é dotado de autonomia administrativa e financeira, dispõe de património privativo e goza de todas as isenções e facilidades conferidas pela lei às instituições oficiais de assistência.
+Art. 2.º A Obra Social do Ministério do Ultramar tem personalidade jurídica, é dotado de autonomia administrativa e financeira, dispõe de património privativo e goza de todas as isenções e facilidades conferidas pela lei às instituições oficiais de assistência.
 
-###### Art. 3.º Constituem receitas da Obra Social do Ministério do Ultramar:
+Art. 3.º Constituem receitas da Obra Social do Ministério do Ultramar:
 
 a) Subsídios e comparticipações inscritos nos orçamentos da metrópole, das provinciais ultramarinas, organismos de coordenação económica, autarquias locais e outras entidades públicas;
 
@@ -144,7 +181,7 @@ g) Quaisquer outras receitas que lhe sejam atribuídas.
 
 II) Beneficiários
 
-###### Art. 4.º São beneficiários do Obra Social do Ministério do Ultramar:
+Art. 4.º São beneficiários do Obra Social do Ministério do Ultramar:
 
 a) Funcionários do Estado e das autarquias locais servindo nas províncias ultramarinas ou no Ministério do Ultramar e nos seus organismos dependentes e consultivos;
 
@@ -166,7 +203,7 @@ g) Estudantes provenientes do ultramar quando portadores de guia passada pela Pr
 
 III) Estrutura, órgãos de direcção e execução
 
-###### Art. 5.º A Obra Social do Ministério do Ultramar compreende:
+Art. 5.º A Obra Social do Ministério do Ultramar compreende:
 
 Uma direcção;
 
@@ -174,15 +211,15 @@ Um secretariado;
 
 Comissões executivas.
 
-###### Art. 6.º A direcção superintende na Obra Social do Ministério do Ultramar, competindo-lhe orientar, estudar, fiscalizar e impulsionar todos os organismos e iniciativas consideradas no artigo 11.º e, em especial, a distribuição das receitas previstas no artigo 3.º, a elaboração dos orçamentos do secretariado e dos vários organismos executivos e a apreciação das contas de gerência, depois de devidamente conferidas e relatadas pelo secretariado para aprovação ministerial.
+Art. 6.º A direcção superintende na Obra Social do Ministério do Ultramar, competindo-lhe orientar, estudar, fiscalizar e impulsionar todos os organismos e iniciativas consideradas no artigo 11.º e, em especial, a distribuição das receitas previstas no artigo 3.º, a elaboração dos orçamentos do secretariado e dos vários organismos executivos e a apreciação das contas de gerência, depois de devidamente conferidas e relatadas pelo secretariado para aprovação ministerial.
 
 § 1.º A direcção é constituída pelo secretário-geral, que será o presidente, directores-gerais de Administração Política e Civil, de Fazenda e de Saúde e Assistência e mais dois vogais, nomeados pelo Ministro do Ultramar, devendo a designação de um deles recair num dos membros dos órgãos administrativos assistenciais já criados.
 
 § 2.º Ao presidente da direcção incumbe a coordenação e superior orientação de todos os serviços da Obra Social e a efectivação das resoluções tomadas pela direcção, submetendo a despacho ministerial os assuntos que dele careçam.
 
-###### Art. 7.º O secretariado destina-se a assegurar todos os serviços relativos a orçamentos, contas e expediente geral, reunindo, preparando e coordenando todos os elementos necessários ao exercício das funções da direcção.
+Art. 7.º O secretariado destina-se a assegurar todos os serviços relativos a orçamentos, contas e expediente geral, reunindo, preparando e coordenando todos os elementos necessários ao exercício das funções da direcção.
 
-###### Art. 8.º Para efectivação dos objectivos da Obra Social serão constituídas as comissões executivas que forem necessárias, propostas pela direcção e nomeadas por despacho do Ministro do Ultramar, com a constituição e atribuições que lhes forem fixadas.
+Art. 8.º Para efectivação dos objectivos da Obra Social serão constituídas as comissões executivas que forem necessárias, propostas pela direcção e nomeadas por despacho do Ministro do Ultramar, com a constituição e atribuições que lhes forem fixadas.
 
 § único. É criada desde já a comissão executiva de recepção e instalação dos funcionários do ultramar e suas famílias que se desloquem à metrópole em situação legal, competindo-lhe especialmente:
 
@@ -194,7 +231,7 @@ c) Pequenos empréstimos em casos de atraso de recebimento de vencimentos ou out
 
 IV) Isenções
 
-###### Art. 9.º A Obra Social do Ministério do Ultramar é isenta de:
+Art. 9.º A Obra Social do Ministério do Ultramar é isenta de:
 
 a) Sisa pela aquisição a título oneroso de bens imobiliários com prévia autorização do Ministro do Ultramar na parte que for destinada à directa realização dos seus fins;
 
@@ -214,7 +251,7 @@ h) Pagamento de taxas das licenças para obras.
 
 V) Pessoal
 
-###### Art. 10.º O secretariado da Obra Social será dirigido por um funcionário de categoria não inferior a chefe de secção e disporá do pessoal que for julgado necessário à boa execução dos serviços.
+Art. 10.º O secretariado da Obra Social será dirigido por um funcionário de categoria não inferior a chefe de secção e disporá do pessoal que for julgado necessário à boa execução dos serviços.
 
 § 1.º Os funcionários que prestarem serviço no secretariado serão para ali destacados ou colocados em comissão eventual, conforme os casos, e pagos pelos orçamentos dos quadros a que pertencerem.
 
@@ -222,15 +259,15 @@ V) Pessoal
 
 VI) Disposições transitórias
 
-###### Art. 11.º Pelo presente diploma são integradas na Obra Social do Ministério do Ultramar as instituições de assistência, previdência e cooperação actualmente existentes em que sejam beneficiárias as pessoas mencionadas no artigo 4.º, conservando estas todos os direitos e regalias que actualmente usufruem.
+Art. 11.º Pelo presente diploma são integradas na Obra Social do Ministério do Ultramar as instituições de assistência, previdência e cooperação actualmente existentes em que sejam beneficiárias as pessoas mencionadas no artigo 4.º, conservando estas todos os direitos e regalias que actualmente usufruem.
 
 § 1.º A data a partir da qual se tornará efectiva a integração das instituições referidas no corpo deste artigo e o seu grau de dependência relativamente à direcção da Obra Social do Ministério do Ultramar serão regulados por despacho do Ministro do Ultramar.
 
 § 2.º A integração da Cooperativa de Casas Económicas dos Funcionários Civis do Ministério do Ultramar, dada a natureza jurídica da sua constituição, dependerá de deliberação nesse sentido da assembleia geral.
 
-###### Art. 12.º Enquanto não for julgada oportuna a integração do Instituto Ultramarino na Obra Social do Ministério do Ultramar, aquela instituição subsistirá com autonomia administrativa e financeira e regulando-se pelo seu estatuto próprio.
+Art. 12.º Enquanto não for julgada oportuna a integração do Instituto Ultramarino na Obra Social do Ministério do Ultramar, aquela instituição subsistirá com autonomia administrativa e financeira e regulando-se pelo seu estatuto próprio.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46292-1965-237446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fb97e23cbb679acafb79e46eeb1bdb6913a6fdd14c1752b6b9850e60ea93918
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f84f7bd5825fb6c292f5f42afcbb8ddeb399b44b58149365f86bf896f9dfea1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Formas de Provimento
+- Ministério da Saúde e Assistência
+- Quadro de Pessoal
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:57Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +102,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Ministro da Saúde e Assistência poderá determinar que aos concursos de habilitação, por provas públicas, para promoção em lugares dos quadros do Ministério, sejam opositores obrigatórios, além dos funcionários de categoria imediatamente inferior na respectiva escala, os que, pertencendo aos quadros, desempenham nos mesmos serviços funções retribuídas com vencimento igual ou superior.
+Artigo 1.º O Ministro da Saúde e Assistência poderá determinar que aos concursos de habilitação, por provas públicas, para promoção em lugares dos quadros do Ministério, sejam opositores obrigatórios, além dos funcionários de categoria imediatamente inferior na respectiva escala, os que, pertencendo aos quadros, desempenham nos mesmos serviços funções retribuídas com vencimento igual ou superior.
 
-###### Art. 2.º Os funcionários de quaisquer serviços do Ministério da Saúde e Assistência que já tenham sido aprovados em concurso anterior à publicação deste diploma e não hajam sido providos, de acordo com a ordem das classificações obtidas, nos lugares da categoria a que o mesmo concurso dava acesso, por diversidade da designação do respectivo cargo, poderão sê-lo ainda, independentemente dessa designação, mesmo no caso de o concurso ter caducado.
+Art. 2.º Os funcionários de quaisquer serviços do Ministério da Saúde e Assistência que já tenham sido aprovados em concurso anterior à publicação deste diploma e não hajam sido providos, de acordo com a ordem das classificações obtidas, nos lugares da categoria a que o mesmo concurso dava acesso, por diversidade da designação do respectivo cargo, poderão sê-lo ainda, independentemente dessa designação, mesmo no caso de o concurso ter caducado.
 
-###### Art. 3.º Os funcionários, que, tendo ocupado lugares dos quadros, deles hajam transitado, seja a que titulo for, para lugares além dos quadros, em consequência de concurso de provas públicas, poderão, mediante despacho ministerial, ocupar as primeiras vagas do quadro na categoria igual à que presentemente ocupam, contando-se-lhes, para todos os efeitos, incluindo o de promoção, o tempo de serviço prestado na actual situação.
+Art. 3.º Os funcionários, que, tendo ocupado lugares dos quadros, deles hajam transitado, seja a que titulo for, para lugares além dos quadros, em consequência de concurso de provas públicas, poderão, mediante despacho ministerial, ocupar as primeiras vagas do quadro na categoria igual à que presentemente ocupam, contando-se-lhes, para todos os efeitos, incluindo o de promoção, o tempo de serviço prestado na actual situação.
 
-###### Art. 4.º Para efeito de provimento definitivo em qualquer cargo pertencente aos quadros do Ministério da Saúde e Assistência será contado o tempo de serviço prestado no desempenho do mesmo cargo em interinidade, provisòriamente ou em comissão de serviço.
+Art. 4.º Para efeito de provimento definitivo em qualquer cargo pertencente aos quadros do Ministério da Saúde e Assistência será contado o tempo de serviço prestado no desempenho do mesmo cargo em interinidade, provisòriamente ou em comissão de serviço.
 
-###### Art. 5.º O § único do artigo 166.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, passa a aplicar-se também ao provimento dos cargos dos institutos e estabelecimentos oficiais dependentes do Ministério da Saúde e Assistência, salvo disposição expressa em contrário.
+Art. 5.º O § único do artigo 166.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, passa a aplicar-se também ao provimento dos cargos dos institutos e estabelecimentos oficiais dependentes do Ministério da Saúde e Assistência, salvo disposição expressa em contrário.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

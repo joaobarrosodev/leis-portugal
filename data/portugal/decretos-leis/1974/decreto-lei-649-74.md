@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27100/14351436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1974-466039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 557a26c721ef7fa8a2b395b16779f6bfa9a4ef228efb6e23abcb6f4700fccd7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bc5f786f246efe9422ed650a57ca474f2cc57bfeba82f93d39aeeafa32df1ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Autorização de Despesas
+- Contrato
+- Sacor
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161710:por
+  label: "Alterado o art. 7º pelo DEC LEI.183/75.03.04.1975.MESA, DG.IS [78] de 03.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1975-161710
+  date: '1975-04-03'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:473491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:57Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +129,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, primeira parte, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Fica a Administração dos Portos do Douro e Leixões (APDL) autorizada a celebrar com a Sociedade Anónima Concessionária da Refinação de Petróleos em Portugal (Sacor), S. A. R. L., contrato tendo por objecto promover a construção em Leixões, das seguintes obras:
+Artigo 1.º - 1. Fica a Administração dos Portos do Douro e Leixões (APDL) autorizada a celebrar com a Sociedade Anónima Concessionária da Refinação de Petróleos em Portugal (Sacor), S. A. R. L., contrato tendo por objecto promover a construção em Leixões, das seguintes obras:
 
 a) Ampliação da instalação de água de lastro que serve os postos de acostagem do terminal petroleiro actualmente em serviço;
 
@@ -118,13 +137,13 @@ b) Construção de um novo posto de acostagem para navios-tanques de cerca de 30
 
 2. Todas as obras a realizar se integrarão no complexo do terminal petroleiro por forma a satisfazerem as novas necessidades consequentes da ampliação da Refinaria do Norte.
 
-###### Art. 2.º - 1. Fica a Sacor autorizada a promover, nos termos previstos no contrato, a construção das obras referidas no artigo precedente.
+Art. 2.º - 1. Fica a Sacor autorizada a promover, nos termos previstos no contrato, a construção das obras referidas no artigo precedente.
 
 2. As obras serão executadas segundo projectos a aprovar pela APDL, a quem competirá igualmente a orientação técnica e a fiscalização das mesmas.
 
-###### Art. 3.º Os encargos com a construção das obras referidas no artigo 1.º serão suportadas pela APDL e integradas no seu património imediatamente após a sua conclusão.
+Art. 3.º Os encargos com a construção das obras referidas no artigo 1.º serão suportadas pela APDL e integradas no seu património imediatamente após a sua conclusão.
 
-###### Art. 4.º - 1. A Sacor, se a APDL o pretender, cooperará, nas condições normais do mercado de capitais ao tempo, no financiamento das despesas decorrentes da realização das obras referidas no artigo 1.º
+Art. 4.º - 1. A Sacor, se a APDL o pretender, cooperará, nas condições normais do mercado de capitais ao tempo, no financiamento das despesas decorrentes da realização das obras referidas no artigo 1.º
 
 2. O financiamento previsto no número anterior poderá ser feito directamente pela Sacor ou por financiador directo obtido por esta.
 
@@ -132,20 +151,20 @@ b) Construção de um novo posto de acostagem para navios-tanques de cerca de 30
 
 4. Ficarão isentos de todas as contribuições e impostos, salvo o imposto do selo, as operações relativas ao financiamento previsto no n.º 1 deste artigo, bem como os respectivos juros.
 
-###### Art. 5.º Ficarão isentos do imposto de transacções os fornecimentos destinados às obras referidas no artigo 1.º
+Art. 5.º Ficarão isentos do imposto de transacções os fornecimentos destinados às obras referidas no artigo 1.º
 
-###### Art. 6.º - 1. Mantém-se a concessão de exploração das instalações do terminal consignado no [Decreto-Lei n.º 47026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47026-1966-473491), de 26 de Maio de 1966, considerando-se as obras a executar como fazendo parte da referida concessão a partir da data da sua conclusão.
+Art. 6.º - 1. Mantém-se a concessão de exploração das instalações do terminal consignado no [Decreto-Lei n.º 47026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47026-1966-473491), de 26 de Maio de 1966, considerando-se as obras a executar como fazendo parte da referida concessão a partir da data da sua conclusão.
 
 2. A concessão de todas as instalações, incluindo as constantes do artigo 1.º do presente diploma, caducará no termo do prazo consignado no referido [Decreto-Lei n.º 47026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47026-1966-473491), de 26 de Maio de 1966.
 
-###### Art. 7.º O contrato a celebrar entre a APDL e a Sacor, ao abrigo do presente decreto-lei, e quaisquer actos adicionais serão precedidos de minutas aprovadas pelo Ministro do Equipamento Social e do Ambiente.
+Art. 7.º O contrato a celebrar entre a APDL e a Sacor, ao abrigo do presente decreto-lei, e quaisquer actos adicionais serão precedidos de minutas aprovadas pelo Ministro do Equipamento Social e do Ambiente.
 
-###### Art. 8.º As dúvidas que se levantarem na execução do presente decreto-lei, exceptuadas as relativas a isenções fiscais, serão resolvidas por despacho do Ministro do Equipamento Social e do Ambiente.
+Art. 8.º As dúvidas que se levantarem na execução do presente decreto-lei, exceptuadas as relativas a isenções fiscais, serão resolvidas por despacho do Ministro do Equipamento Social e do Ambiente.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 13 de Novembro de 1974.**
+Promulgado em 13 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

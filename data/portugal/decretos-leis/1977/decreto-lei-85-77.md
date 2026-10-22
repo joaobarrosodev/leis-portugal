@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05500/03880389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1977-140354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 830e93c72df129b5cbc70c50057893a1390c526cab9112e0c6f35ab3549ea982
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24a6f903582106fff6aba0108cc182d1fbb5989f43d38883076158b4c9e4333f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Importação
+- Isenção Fiscal
+- Pauta Aduaneira
+- Produto Petrolífero
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:422183:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:16Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +105,14 @@ de 7 de Março
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São prorrogados, até 31 de Dezembro de 1977, os prazos de vigência dos Decretos-Leis n.os 37375 e 37402, respectivamente, de 13 de Abril e 6 de Maio de 1949, que determinaram a aplicação da pauta mínima às mercadorias classificadas pelos artigos 141, 142, 142-A, 143, 144, 144-A, 144-C, 145 e 388 da Pauta de Importação, os quais, na Pauta actualmente em vigor, correspondem, respectivamente, aos seguintes artigos: 27.09, 27.10.05, 27.10.04, 27.10.02, 27.10.03, 27.10.07, 27.10.09, 27.10.11 e 34.03.02, e, ainda, do [Decreto-Lei n.º 230/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1973-422183), de 14 de Maio, que determinou a aplicação de idêntico regime às mercadorias classificadas pelo artigo 27.11 da Pauta de Importação.
+Artigo 1.º São prorrogados, até 31 de Dezembro de 1977, os prazos de vigência dos Decretos-Leis n.os 37375 e 37402, respectivamente, de 13 de Abril e 6 de Maio de 1949, que determinaram a aplicação da pauta mínima às mercadorias classificadas pelos artigos 141, 142, 142-A, 143, 144, 144-A, 144-C, 145 e 388 da Pauta de Importação, os quais, na Pauta actualmente em vigor, correspondem, respectivamente, aos seguintes artigos: 27.09, 27.10.05, 27.10.04, 27.10.02, 27.10.03, 27.10.07, 27.10.09, 27.10.11 e 34.03.02, e, ainda, do [Decreto-Lei n.º 230/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1973-422183), de 14 de Maio, que determinou a aplicação de idêntico regime às mercadorias classificadas pelo artigo 27.11 da Pauta de Importação.
 
-###### Art. 2.º O presente diploma será aplicável às mercadorias referidas no artigo que antecede que hajam sido desalfandegadas a partir do dia 1 de Janeiro do ano em curso e cujos direitos se mostrem garantidos.
+Art. 2.º O presente diploma será aplicável às mercadorias referidas no artigo que antecede que hajam sido desalfandegadas a partir do dia 1 de Janeiro do ano em curso e cujos direitos se mostrem garantidos.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 21 de Fevereiro de 1977.**
+Promulgado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

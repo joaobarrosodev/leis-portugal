@@ -48,36 +48,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bacf49403871ff6714460c9ee9fca1dbe6451eca892ef47fee3b011c9bd15d8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a1900925efcbb2a6e0eaf55fc2d3cf167d2e80e786d5c6b906e345dee4f4a79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquivo
+- Código do Notariado
+- Conservatória dos Registos Centrais
+- Notário
+- Reconhecimento Notarial
+- Serviços de Registo e Notariado
+relationships:
+- type: cites
+  target: pt:dre:167250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657190:por
+  label: null
+  source: null
 article_structure:
-  article_count: 273
-  section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 272
+  section_count: 60
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:58Z'
   warnings: []
   errors: []
 ---
@@ -264,37 +342,37 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Notariado, que faz parte integrante do presente diploma e segue assinado pelo Ministro da Justiça.
+Artigo 1.º É aprovado o Código do Notariado, que faz parte integrante do presente diploma e segue assinado pelo Ministro da Justiça.
 
-###### Art. 2.º - 1. Os livros dos modelos em uso, que à data da entrada em vigor do código se encontrem selados, podem ser utilizados, com as necessárias adaptações, até findarem.
+Art. 2.º - 1. Os livros dos modelos em uso, que à data da entrada em vigor do código se encontrem selados, podem ser utilizados, com as necessárias adaptações, até findarem.
 
 2. As escrituras de revogação de testamentos passam, porém, a ser lavradas no livro de testamentos públicos desde a entrada em vigor do código.
 
-###### Art. 3.º - 1. Os lugares de notário que constituem as secretarias notariais passam a ser designados por cartórios da secretaria a que pertencem.
+Art. 3.º - 1. Os lugares de notário que constituem as secretarias notariais passam a ser designados por cartórios da secretaria a que pertencem.
 
 2. Os cartórios de cada secretaria são identificados por um número de ordem, que será determinado pela antiguidade dos notários que actualmente nela servem.
 
-###### Art. 4.º Consideram-se abrangidas nos serviços a que se refere o n.º 3 do artigo 134.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951, as minutas não tabeladas que sejam elaboradas pelo notário, a pedido dos interessados, para actos a realizar na respectiva repartição notarial.
+Art. 4.º Consideram-se abrangidas nos serviços a que se refere o n.º 3 do artigo 134.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951, as minutas não tabeladas que sejam elaboradas pelo notário, a pedido dos interessados, para actos a realizar na respectiva repartição notarial.
 
-###### Art. 5.º A adaptação dos serviços de registo predial às circunscrições municipais e a determinação da área de competência territorial das actuais conservatórias continuam a ser feitas nas condições previstas na legislação em vigor à data da publicação do [Decreto-Lei n.º 42565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42565-1959-430039), de 8 de Setembro de 1959.
+Art. 5.º A adaptação dos serviços de registo predial às circunscrições municipais e a determinação da área de competência territorial das actuais conservatórias continuam a ser feitas nas condições previstas na legislação em vigor à data da publicação do [Decreto-Lei n.º 42565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42565-1959-430039), de 8 de Setembro de 1959.
 
-###### Art. 6.º As transcrições oficiosas, realizadas na Conservatória dos Registos Centrais, de actos de registo civil ou de nacionalidade lavrados pelos agentes diplomáticos ou consulares, bem como a transcrição de duplicados dos assentos canónicos, são gratuitas.
+Art. 6.º As transcrições oficiosas, realizadas na Conservatória dos Registos Centrais, de actos de registo civil ou de nacionalidade lavrados pelos agentes diplomáticos ou consulares, bem como a transcrição de duplicados dos assentos canónicos, são gratuitas.
 
-###### Art. 7.º - 1. É criado um lugar de conservador adjunto na Conservatória dos Registos Centrais, com o vencimento correspondente ao de conservador e notário de 1.ª classe, a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 7.º - 1. É criado um lugar de conservador adjunto na Conservatória dos Registos Centrais, com o vencimento correspondente ao de conservador e notário de 1.ª classe, a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2. O lugar de conservador adjunto será provido, em comissão de serviço, por conservadores ou notários com mais de dez anos de serviço e com classificação não inferior à de Bom.
 
 3. A nomeação é da livre escolha do Ministro da Justiça e por períodos trienais renováveis.
 
-###### Art. 8.º - 1. A participação emolumentar dos conservadores da Conservatória dos Registos Centrais é determinada, nos termos do artigo 150.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951, por aplicação das percentagens previstas, para os notários, nas alíneas a) a c) do mesmo artigo.
+Art. 8.º - 1. A participação emolumentar dos conservadores da Conservatória dos Registos Centrais é determinada, nos termos do artigo 150.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951, por aplicação das percentagens previstas, para os notários, nas alíneas a) a c) do mesmo artigo.
 
 2. Do produto da participação pertencem dois terços ao conservador e um terço ao adjunto.
 
 3. O disposto nos números anteriores só entra em vigor a partir da data do provimento do lugar de adjunto.
 
-###### Art. 9.º Os copistas com mais de quatro anos de bom e efectivo serviço, atestado pelo conservador ou notário, podem ser providos em lugares de escriturário de 2.ª classe do quadro do serviço a que pertençam, com dispensa das habilitações previstas na primeira parte do n.º 1 do artigo 89.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951.
+Art. 9.º Os copistas com mais de quatro anos de bom e efectivo serviço, atestado pelo conservador ou notário, podem ser providos em lugares de escriturário de 2.ª classe do quadro do serviço a que pertençam, com dispensa das habilitações previstas na primeira parte do n.º 1 do artigo 89.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951.
 
-###### Art. 10.º - 1. Os penhores das quotas de sociedades comerciais por quotas e os penhores de créditos hipotecários podem ser constituídos em caução de quaisquer dívidas ou obrigações, nos termos e para os efeitos previstos no Código Civil.
+Art. 10.º - 1. Os penhores das quotas de sociedades comerciais por quotas e os penhores de créditos hipotecários podem ser constituídos em caução de quaisquer dívidas ou obrigações, nos termos e para os efeitos previstos no Código Civil.
 
 2. As quotas e os créditos hipotecários a que se refere o número anterior não podem ser dados em penhor mais de uma vez, a não ser a favor dos mesmos credores.
 
@@ -304,15 +382,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3. A entrega das quotas sociais e dos créditos hipotecários dados em penhor é substituída pelos registos feitos, respectivamente, na conservatória do registo comercial e na conservatória do registo predial e é efectiva para com terceiros desde a data dos registos.
 
-###### Art. 11.º A alínea a) do artigo 69.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:
+Art. 11.º A alínea a) do artigo 69.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:
 
 a) Certidão do testamento com que tiver falecido o autor da herança.
 
-###### Art. 12.º O Código do Notariado começa a vigorar em todo o continente e ilhas adjacentes no dia 1 de Junho de 1960.
+Art. 12.º O Código do Notariado começa a vigorar em todo o continente e ilhas adjacentes no dia 1 de Junho de 1960.
 
-###### Art. 13.º A partir da vigência do novo código ficam revogados o Decreto n.º 26118, de 24 de Novembro de 1935, o artigo 193.º e seus §§ 1.º, 2.º e 3.º do [Decreto n.º 17070](https://diariodarepublica.pt/dr/detalhe/decreto/17070-1929-241450), de 4 de Julho de 1929, o artigo 3.º e § único do [Decreto-Lei n.º 33219](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33219-1943-257463), de 13 de Novembro de 1943, o artigo 3.º e seus §§ 1.º e 2.º e o artigo 5.º do [Decreto-Lei n.º 40603](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40603-1956-231095), de 18 de Maio de 1956, bem como quaisquer outros preceitos legais que contrariem as suas disposições.
+Art. 13.º A partir da vigência do novo código ficam revogados o Decreto n.º 26118, de 24 de Novembro de 1935, o artigo 193.º e seus §§ 1.º, 2.º e 3.º do [Decreto n.º 17070](https://diariodarepublica.pt/dr/detalhe/decreto/17070-1929-241450), de 4 de Julho de 1929, o artigo 3.º e § único do [Decreto-Lei n.º 33219](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33219-1943-257463), de 13 de Novembro de 1943, o artigo 3.º e seus §§ 1.º e 2.º e o artigo 5.º do [Decreto-Lei n.º 40603](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40603-1956-231095), de 18 de Maio de 1956, bem como quaisquer outros preceitos legais que contrariem as suas disposições.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -2030,7 +2108,7 @@ As fotocópias referidas no artigo 186.º têm o mesmo valor das correspondentes
 
 3. É aplicável às traduções o disposto nos artigos 180.º e 185.º
 
-## TITULO III
+TITULO III
 
 Recusas e recursos
 
@@ -2120,7 +2198,7 @@ A revalidação judicial dos actos notariais não exime os funcionários notaria
 
 A responsabilidade civil dos funcionários notariais, quando não for conexa com a responsabilidade criminal, prescreve no prazo de três anos, contados da data em que o lesado teve conhecimento do seu direito de indemnização e da pessoa responsável, sem prejuízo da prescrição ordinária do mesmo direito.
 
-### CAPITULO II
+CAPITULO II
 
 Estatística
 
@@ -2800,6 +2878,6 @@ c) Pelos actos que a lei declarar gratuito.
 
 Ministério da Justiça, 20 de Abril de 1960. - O Ministro da Justiça, João de Matos Antunes Varela.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/04/09200/09330974.pdf))](https://files.diariodarepublica.pt/1s/1960/04/09200/09330974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09200/09330974.pdf)
 
 Ministério da Justiça, 20 de Abril de 1960. - O Ministro da Justiça, João de Matos Antunes Varela.

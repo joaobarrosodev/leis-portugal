@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1970-227635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 497e016c0dd90c90bf931d1881154db40e0a59dd99a69cb0008bf1df483b31d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e511c393c41b9c4709f112b6caecf8771d00d3cc07de7acb43c9e948cd3c116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:198717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534614:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:49Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +109,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os preceitos legais adiante indicados do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, e com alterações posteriores, passam a ter a seguinte redacção:
+Artigo 1.º Os preceitos legais adiante indicados do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, e com alterações posteriores, passam a ter a seguinte redacção:
 
-###### Art. 5.º Todo o pessoal da lotação das corporações e das secções locais usará, como documento de identificação, no exercício das suas funções, um cartão de identidade passado pela Comissão Central, conforme o modelo anexo a este Regulamento.
+Art. 5.º Todo o pessoal da lotação das corporações e das secções locais usará, como documento de identificação, no exercício das suas funções, um cartão de identidade passado pela Comissão Central, conforme o modelo anexo a este Regulamento.
 
 § 1.º As fotografias devem ser actuais, obtidas em tons de preto e branco, e representar o interessado convenientemente fardado e em posição que não seja de perfil. Não são admitidas fotografias com óculos de lentes de cor escura, salvo se o interessado provar a necessidade permanente do seu uso.
 
@@ -103,17 +119,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 13.º O preenchimento das vagas ocorridas nas corporações e nas secções locais será efectuado pela ordem de classificação dos concorrentes, que serão nomeados por despacho do director-geral dos Serviços de Fomento Marítimo.
+Art. 13.º O preenchimento das vagas ocorridas nas corporações e nas secções locais será efectuado pela ordem de classificação dos concorrentes, que serão nomeados por despacho do director-geral dos Serviços de Fomento Marítimo.
 
 § único. O provimento e a posse do pessoal nomeado ficam sujeitos às normas gerais estabelecidas para os funcionários públicos.
 
 ...
 
-###### Art. 21.º No funcionamento e validade dos concursos e no provimento e na posse do pessoal promovido devem observar-se, na parte aplicável, as disposições anteriormente estabelecidas para a admissão, sendo a constituição do júri a prevista pelo artigo 18.º e seu § único.
+Art. 21.º No funcionamento e validade dos concursos e no provimento e na posse do pessoal promovido devem observar-se, na parte aplicável, as disposições anteriormente estabelecidas para a admissão, sendo a constituição do júri a prevista pelo artigo 18.º e seu § único.
 
 ...
 
-###### Art. 23.º Os pilotos provisórios que durante dois anos tenham tido bom comportamento e mostrado a necessária aptidão física e profissional serão nomeados, por despacho do director-geral dos Serviços de Fomento Marítimo, pilotos efectivos, ingressando nesta categoria, quando a antiguidade seja a mesma, pela ordem dos seus méritos relativos.
+Art. 23.º Os pilotos provisórios que durante dois anos tenham tido bom comportamento e mostrado a necessária aptidão física e profissional serão nomeados, por despacho do director-geral dos Serviços de Fomento Marítimo, pilotos efectivos, ingressando nesta categoria, quando a antiguidade seja a mesma, pela ordem dos seus méritos relativos.
 
 § 1.º ...
 
@@ -121,7 +137,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 40.º O quinhão mensal nunca pode exceder as percentagens que a seguir se indicam dos soldos dos capitães dos portos, acrescidos da média mensal dos emolumentos pelas mesmas autoridades percebidos no ano anterior:
+Art. 40.º O quinhão mensal nunca pode exceder as percentagens que a seguir se indicam dos soldos dos capitães dos portos, acrescidos da média mensal dos emolumentos pelas mesmas autoridades percebidos no ano anterior:
 
 a) Portos de Lisboa, do Douro e do Funchal - 70 por cento;
 
@@ -133,7 +149,7 @@ b) Outros portos - 65 por cento.
 
 ...
 
-###### Art. 118.º ...
+Art. 118.º ...
 
 ...
 
@@ -157,15 +173,15 @@ c) Realização de despesas de material de valor excedente a 10000$00 e quaisque
 
 § 2.º ...
 
-###### Art. 2.º A tabela C anexa ao Regulamento referido no artigo anterior é substituída pela que figura anexa a este diploma.
+Art. 2.º A tabela C anexa ao Regulamento referido no artigo anterior é substituída pela que figura anexa a este diploma.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1970.
+Art. 3.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1970.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 22 de Janeiro de 1970.**
+Promulgado em 22 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -173,13 +189,13 @@ Modelo do cartão de identidade
 
 (Artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/02300/01380140.pdf))](https://files.diariodarepublica.pt/1s/1970/01/02300/01380140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/02300/01380140.pdf)
 
 Nota. - Em diagonal, do canto superior esquerdo ao canto inferior direito, tem impressa uma faixa verde.
 
 Formato: A7 (105 mm x 74 mm).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/02300/01380140.pdf))](https://files.diariodarepublica.pt/1s/1970/01/02300/01380140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/02300/01380140.pdf)
 
 Ministério da Marinha, 22 de Janeiro de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.
 

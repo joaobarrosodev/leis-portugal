@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 201/1981, 1º Suplemento, Série I de 1981-09-02
   number: '201'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2334-(12) a 2334-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20101/00120014.pdf
 entry_into_force_dates: []
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-e-1981-158423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c27948d894464ca167fff1b921c0320c4b3851917d384a5743588ff07473aa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76e7bdad1b5136f52cbf49d09cf4e7c315f6526614560b84d969474d96821dda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AGA
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:170506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:448494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602288:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:38Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +110,9 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 17-B/81](https://diariodarepublica.pt/dr/detalhe/lei/17-b-1981-602288), de 8 de Agosto, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea b) do n.º 1 do artigo 3.º e a alínea a) do n.º 1 do artigo 4.º do Estatuto da Administração-Geral do Açúcar e do Álcool, E. P., abreviadamente designada por AGA, aprovado pelo [Decreto-Lei n.º 33/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1978-448494), de 14 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º A alínea b) do n.º 1 do artigo 3.º e a alínea a) do n.º 1 do artigo 4.º do Estatuto da Administração-Geral do Açúcar e do Álcool, E. P., abreviadamente designada por AGA, aprovado pelo [Decreto-Lei n.º 33/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1978-448494), de 14 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 ...
 
@@ -110,13 +120,13 @@ b) Efectuar, em regime de concorrência, relativamente a quaisquer outros produt
 
 ...
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 a) Proceder à importação de açúcar em rama para transformação em açúcar refinado destinado ao mercado interno, em condições a definir por portaria conjunta dos Ministros das Finanças e do Plano e do Comércio e Turismo;
 
 ...
 
-###### Art. 2.º - 1 - São considerados práticas restritivas da concorrência, e, como tal, proibidos, os acordos entre empresas e as decisões de associações de empresas, qualquer que seja a forma que revistam, bem como as práticas concertadas entre empresas que tenham por objecto ou como efeito impedir, falsear ou restringir a concorrência, no todo ou em parte, do mercado nacional, nomeadamente as que se traduzam em:
+Art. 2.º - 1 - São considerados práticas restritivas da concorrência, e, como tal, proibidos, os acordos entre empresas e as decisões de associações de empresas, qualquer que seja a forma que revistam, bem como as práticas concertadas entre empresas que tenham por objecto ou como efeito impedir, falsear ou restringir a concorrência, no todo ou em parte, do mercado nacional, nomeadamente as que se traduzam em:
 
 a) Fixar ou recomendar, directa ou indirectamente, os preços de compra ou de venda e, bem assim, outras condições das transacções efectuadas no mesmo ou em diferentes estádios do processo económico;
 
@@ -134,9 +144,9 @@ f) Subordinar a celebração de contratos à aceitação de obrigações supleme
 
 3 - Os acordos e decisões proibidos nos números anteriores são nulos e de nenhum efeito.
 
-###### Art. 3.º Em casos excepcionais poderão ser consideradas justificadas pelo Conselho de Ministros as práticas restritivas da concorrência que contribuam para melhorar a produção ou a distribuição ou para promover o progresso técnico ou económico, reservando aos utilizadores dos bens uma parte equitativa do lucro daí resultante e sem que imponham às empresas interessadas restrições que não sejam indispensáveis para atingir esses objectivos nem lhes dêem a possibilidade de eliminar a concorrência numa parte substancial do mercado.
+Art. 3.º Em casos excepcionais poderão ser consideradas justificadas pelo Conselho de Ministros as práticas restritivas da concorrência que contribuam para melhorar a produção ou a distribuição ou para promover o progresso técnico ou económico, reservando aos utilizadores dos bens uma parte equitativa do lucro daí resultante e sem que imponham às empresas interessadas restrições que não sejam indispensáveis para atingir esses objectivos nem lhes dêem a possibilidade de eliminar a concorrência numa parte substancial do mercado.
 
-###### Art. 4.º - 1 - São também proibidos por este diploma os abusos praticados por uma ou mais empresas que disponham de posições dominantes no mercado nacional e na compra ou venda de bens.
+Art. 4.º - 1 - São também proibidos por este diploma os abusos praticados por uma ou mais empresas que disponham de posições dominantes no mercado nacional e na compra ou venda de bens.
 
 2 - Entende-se que há abuso sempre que uma ou mais empresas utilizem a posição dominante em detrimento da economia nacional ou em injustificado prejuízo dos interesses de outras empresas ou dos consumidores, adoptando, designadamente, algumas das práticas referidas no artigo 2.º
 
@@ -156,13 +166,13 @@ b) Uma participação igual ou superior a 65%, tratando-se de 5 ou menos empresa
 
 6 - Para efeitos de aplicação deste artigo, é equiparado a empresa o grupo de empresas, entendendo-se como tal o conjunto de empresas que, embora juridicamente distintas, se comportam concertadamente no mercado, em virtude de vínculos de interdependência ou subordinação de carácter financeiro, contratual ou directivo.
 
-###### Art. 5.º À Direcção-Geral do Comércio Alimentar compete detectar as práticas susceptíveis de infringir o que consta do presente diploma e proceder à organização e instrução dos respectivos processos, podendo praticar todos os actos que, para o efeito, se mostrem necessários.
+Art. 5.º À Direcção-Geral do Comércio Alimentar compete detectar as práticas susceptíveis de infringir o que consta do presente diploma e proceder à organização e instrução dos respectivos processos, podendo praticar todos os actos que, para o efeito, se mostrem necessários.
 
-###### Art. 6.º À Auditoria Jurídica do Ministério do Comércio e Turismo compete dar parecer sobre os processos relativos às práticas restritivas da concorrência e aos abusos de posição dominante que lhe sejam remetidas pelo Ministro do Comércio e Turismo.
+Art. 6.º À Auditoria Jurídica do Ministério do Comércio e Turismo compete dar parecer sobre os processos relativos às práticas restritivas da concorrência e aos abusos de posição dominante que lhe sejam remetidas pelo Ministro do Comércio e Turismo.
 
-###### Art. 7.º Ao Ministro do Comércio e Turismo compete aplicar as medidas, sancionatórias ou não, previstas no presente decreto-lei.
+Art. 7.º Ao Ministro do Comércio e Turismo compete aplicar as medidas, sancionatórias ou não, previstas no presente decreto-lei.
 
-###### Art. 8.º - 1 - Concluída a instrução do processo, a Direcção-Geral do Comércio Alimentar enviá-lo-á, acompanhado de um relatório, ao Ministro do Comércio e Turismo, para decisão.
+Art. 8.º - 1 - Concluída a instrução do processo, a Direcção-Geral do Comércio Alimentar enviá-lo-á, acompanhado de um relatório, ao Ministro do Comércio e Turismo, para decisão.
 
 2 - A decisão será obrigatoriamente precedida de parecer da Auditoria Jurídica do Ministério do Comércio e Turismo.
 
@@ -176,12 +186,12 @@ c) Aplicar uma multa de 100000$00 a 2000000$00, graduada consoante a gravidade d
 
 4 - O não acatamento da notificação referida na alínea b) do número anterior implicará o prosseguimento do processo, com vista à aplicação da multa.
 
-###### Art. 9.º As dúvidas suscitadas na interpretação deste decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
+Art. 9.º As dúvidas suscitadas na interpretação deste decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Agosto de 1981.**
+Promulgado em 29 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

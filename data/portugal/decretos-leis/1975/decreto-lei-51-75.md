@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/03200/01670172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ec1eb00f53da22f9150e6270c23c9644a91cf343e011495674b8457dd01d960
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8509305a30cd2ab8adbe0f2dea800a0401d184f200910d284bcd918d26d82a70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- IAPMEI
+- Instituto Nacional de Investigação Industrial
+- Orgânica
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:354114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470420:por
+  label: "Transferidas para a Região Autónoma da Madeira, integrando-as na Secretaria Regional de Economia, as competências,\
+    \ direitos e obrigações do IAPMEI relativamente àquele território pelo DEC LEI.268/80.09.08.1980.GMR-RAM, DR.IS [183]\
+    \ de 09.08.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1980-470420
+  date: '1980-08-09'
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673842:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354114:por
+  label: "Revogado pelo DEC LEI.387/88.25.10.1988.MIE, DR.IS [247] de 25.10.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-1988-354114
+  date: '1988-10-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:48Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +128,15 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 ### CAPÍTULO I — Natureza, funções e competência
 
-###### Artigo 1.º - 1. É criado na Secretaria de Estado da Indústria e Energia o Instituto de Apoio às Pequenas e Médias Empresas Industriais, organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
+Artigo 1.º - 1. É criado na Secretaria de Estado da Indústria e Energia o Instituto de Apoio às Pequenas e Médias Empresas Industriais, organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
 
 2. O Instituto reger-se-á pelas disposições do presente decreto-lei e pelas dos regulamentos que em sua execução vierem a ser publicados.
 
-###### Art. 2.º - 1. Incumbe basicamente ao Instituto, em cooperação com os demais órgãos e serviços da Secretaria de Estado da Indústria e Energia e de outros departamentos ministeriais e com os centros técnicos de cooperação industrial, estudar e promover a execução das medidas que integram a política de apoio às pequenas e médias empresas.
+Art. 2.º - 1. Incumbe basicamente ao Instituto, em cooperação com os demais órgãos e serviços da Secretaria de Estado da Indústria e Energia e de outros departamentos ministeriais e com os centros técnicos de cooperação industrial, estudar e promover a execução das medidas que integram a política de apoio às pequenas e médias empresas.
 
 2. A acção do Instituto orientar-se-á no sentido de dinamizar o potencial produtivo de que dispõem as pequenas e médias empresas, superar as limitações e deficiências a que estão sujeitas, preservar a sua independência e assegurar a sua modernização, contribuindo para a efectivação da estratégia antimonopolista.
 
-###### Art. 3.º Compete especialmente ao Instituto:
+Art. 3.º Compete especialmente ao Instituto:
 
 a) Promover a reorganização e a reconversão das empresas susceptíveis de se tornarem competitivas e económica e socialmente válidas, auxiliando-as a superar as suas deficiências de ordem técnica, financeira e de organização;
 
@@ -140,7 +164,7 @@ l) Prestar apoio à criação e funcionamento de centros técnicos de cooperaç�
 
 m) Apoiar, através dos organismos e serviços competentes, a instalação de empresas nos parques industriais.
 
-###### Art. 4.º Para o desempenho das suas atribuições poderá o Instituto:
+Art. 4.º Para o desempenho das suas atribuições poderá o Instituto:
 
 a) Realizar, encomendar, financiar ou subsidiar os estudos e acções necessários;
 
@@ -150,9 +174,9 @@ c) Contactar com quaisquer entidades nacionais, estrangeiras ou internacionais, 
 
 d) Tomar a iniciativa de propor quaisquer outras medidas que entenda por convenientes para a realização dos objectivos da política industrial a seu cargo.
 
-###### Art. 5.º No quadro de acordos estabelecidos com as empresas interessadas, o Instituto poderá, no uso de poderes delegados pelas entidades com competência legal para concedê-los, ou na sequência de prévios contactos com essas entidades, assumir o compromisso da oportuna concessão de quaisquer benefícios previstos na lei.
+Art. 5.º No quadro de acordos estabelecidos com as empresas interessadas, o Instituto poderá, no uso de poderes delegados pelas entidades com competência legal para concedê-los, ou na sequência de prévios contactos com essas entidades, assumir o compromisso da oportuna concessão de quaisquer benefícios previstos na lei.
 
-###### Art. 6.º - 1. Nos termos da alínea d) do artigo 3.º, poderá o Instituto:
+Art. 6.º - 1. Nos termos da alínea d) do artigo 3.º, poderá o Instituto:
 
 a) Decidir sobre a prestação de avales, nos termos a fixar por despacho do Secretário de Estado do Tesouro e do Secretário de Estado da Indústria e Energia;
 
@@ -166,7 +190,7 @@ c) A solicitação dos interessados, apoiar junto dos estabelecimentos de crédi
 
 4. O Instituto deverá ser mantido a par das negociações entre as empresas e os estabelecimentos de crédito, sem o que não poderão aqueles beneficiar de nenhuma das formas de colaboração previstas neste artigo.
 
-###### Art. 7.º Na realização da política de apoio às PME poderá ainda o Instituto financiar:
+Art. 7.º Na realização da política de apoio às PME poderá ainda o Instituto financiar:
 
 a) A realização de estudos de análise de mercados e de viabilidade económica;
 
@@ -186,13 +210,13 @@ h) A criação de centros de concepção e projectos;
 
 i) A execução de outras medidas de promoção industrial para as quais se prevejam regimes adequados de crédito, designadamente nos planos e programas de desenvolvimento anuais e plurianuais.
 
-###### Art. 8.º - 1. O Governo, pelo Ministério das Finanças, publicará as disposições necessárias para que as diferentes instituições de crédito concedam adequada preferência na obtenção de crédito, relativamente aos empreendimentos que sejam considerados pelo Instituto de interesse para a realização dos objectivos da política de apoio às pequenas e médias empresas.
+Art. 8.º - 1. O Governo, pelo Ministério das Finanças, publicará as disposições necessárias para que as diferentes instituições de crédito concedam adequada preferência na obtenção de crédito, relativamente aos empreendimentos que sejam considerados pelo Instituto de interesse para a realização dos objectivos da política de apoio às pequenas e médias empresas.
 
 2. A Caixa Geral de Depósitos, o Banco de Fomento Nacional e as outras instituições públicas de crédito coordenarão a sua actividade com vista ao apropriado financiamento das pequenas e médias empresas, atribuindo-lhes adequada prioridade na concessão de crédito, embora sem prejuízo dos critérios a que normalmente obedecem as suas operações.
 
 ### CAPÍTULO II — Receitas e despesas
 
-###### Art. 9.º Constituem receitas do Instituto:
+Art. 9.º Constituem receitas do Instituto:
 
 a) As dotações que lhe sejam especialmente atribuídas no Orçamento Geral do Estado;
 
@@ -204,7 +228,7 @@ d) As remunerações por serviços prestados;
 
 e) As quantias que lhe forem legalmente atribuídas ou quaisquer outras que, com o parecer favorável do Secretário de Estado da Indústria e Energia, seja autorizado a receber pelo Ministro das Finanças.
 
-###### Art. 10.º Constituem despesas do Instituto as que resultem do exercício das funções que lhe são cometidas pelos artigos 2.º, 3.º e 4.º deste diploma, designadamente:
+Art. 10.º Constituem despesas do Instituto as que resultem do exercício das funções que lhe são cometidas pelos artigos 2.º, 3.º e 4.º deste diploma, designadamente:
 
 a) Os encargos com o respectivo funcionamento;
 
@@ -216,33 +240,33 @@ d) Os encargos reembolsáveis que suporte por conta de empresas a que preste apo
 
 e) Os encargos resultantes do pagamento de serviços de que beneficie ou das providências cautelares ou execuções que deva promover para defesa dos seus interesses.
 
-###### Art. 11.º - 1. A actividade do Instituto será exercida ao abrigo de planos de actividade aprovados pelos Ministros das Finanças e da Economia, sob proposta do Secretário de Estado da Indústria e Energia.
+Art. 11.º - 1. A actividade do Instituto será exercida ao abrigo de planos de actividade aprovados pelos Ministros das Finanças e da Economia, sob proposta do Secretário de Estado da Indústria e Energia.
 
 2. As receitas e despesas do Instituto serão arrecadadas e realizadas em obediência às normas orçamentais em vigor para serviços com autonomia financeira.
 
 3. Os saldos apurados no fim de cada ano económico serão transferidos para a gerência do ano seguinte.
 
-###### Art. 12.º O Instituto prestará anualmente contas da execução dos planos de actividades e orçamentos aprovados, os quais serão apreciados nos termos do n.º 1 do artigo anterior, sem prejuízo da fiscalização pelo Tribunal de Contas.
+Art. 12.º O Instituto prestará anualmente contas da execução dos planos de actividades e orçamentos aprovados, os quais serão apreciados nos termos do n.º 1 do artigo anterior, sem prejuízo da fiscalização pelo Tribunal de Contas.
 
-###### Art. 13.º Os rendimentos dos bens próprios do Instituto, assim como os subsídios, donativos, heranças ou legados que lhe forem concedidos, serão isentos de todos os impostos devidos ao Estado ou às autarquias locais.
+Art. 13.º Os rendimentos dos bens próprios do Instituto, assim como os subsídios, donativos, heranças ou legados que lhe forem concedidos, serão isentos de todos os impostos devidos ao Estado ou às autarquias locais.
 
 ### CAPÍTULO III — Órgãos do Instituto
 
-###### Art. 14.º São órgãos do Instituto o conselho de administração e o conselho consultivo.
+Art. 14.º São órgãos do Instituto o conselho de administração e o conselho consultivo.
 
-###### Art. 15.º - 1. O conselho de administração é constituído por um presidente e por um vice-presidente, nomeados por despacho conjunto do Ministro da Economia e do Secretário de Estado da Indústria e Energia, e por três vogais, designados, respectivamente, pelos Ministros das Finanças e do Trabalho e pelo Secretário de Estado do Comércio Externo e Turismo.
+Art. 15.º - 1. O conselho de administração é constituído por um presidente e por um vice-presidente, nomeados por despacho conjunto do Ministro da Economia e do Secretário de Estado da Indústria e Energia, e por três vogais, designados, respectivamente, pelos Ministros das Finanças e do Trabalho e pelo Secretário de Estado do Comércio Externo e Turismo.
 
 2. Por despacho dos Secretários de Estado da Indústria e Energia e do Trabalho serão designados para o conselho de administração representantes das associações patronais e sindicais da indústria.
 
 3. Por despacho dos Secretários de Estado do Tesouro e da Indústria e Energia poderá ser incluído no conselho de administração um representante dos bancos comerciais. Por despacho deste último poderão ainda ser designados representantes de quaisquer outras entidades públicas ou privadas cuja participação venha a revelar-se conveniente.
 
-###### Art. 16.º - 1. Os membros do conselho de administração serão nomeados por um período de três anos, renovável por uma só vez.
+Art. 16.º - 1. Os membros do conselho de administração serão nomeados por um período de três anos, renovável por uma só vez.
 
 2. Se a escolha do presidente ou do vice-presidente recair em funcionário público, a nomeação será feita em comissão de serviço.
 
 3. Os vogais do conselho de administração terão direito a uma gratificação mensal cujo montante será fixado pelo Secretário de Estado da Indústria e Energia, com o acordo do Ministro das Finanças, acumulável com quaisquer outras remunerações.
 
-###### Art. 17.º Compete ao conselho de administração:
+Art. 17.º Compete ao conselho de administração:
 
 a) Elaborar e submeter à apreciação do conselho consultivo, até 15 de Novembro de cada ano, o orçamento e o plano de actividades do Instituto;
 
@@ -264,13 +288,13 @@ i) Submeter ao Secretário de Estado da Indústria e Energia, depois de apreciad
 
 j) Deliberar sobre os compromissos prévios de oportuna concessão de benefícios, nos termos do artigo 5.º
 
-###### Art. 18.º - 1. O conselho de administração reunir-se-á ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo seu presidente.
+Art. 18.º - 1. O conselho de administração reunir-se-á ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo seu presidente.
 
 2. As deliberações do conselho de administração serão tomadas por maioria absoluta e só serão válidas desde que esteja presente a maioria dos membros.
 
 3. O presidente do conselho de administração goza de voto de qualidade nas votações deste órgão.
 
-###### Art. 19.º - 1. Compete ao presidente do conselho de administração:
+Art. 19.º - 1. Compete ao presidente do conselho de administração:
 
 a) Convocar e presidir às reuniões do conselho de administração e do conselho consultivo;
 
@@ -286,7 +310,7 @@ d) Representar o Instituto em juízo ou fora dele.
 
 4. Por delegação do presidente do conselho de administração poderão autorizar despesas, até ao montante expressamente fixado, os membros do mesmo conselho ou os funcionários do Instituto.
 
-###### Art. 20.º - 1. O conselho consultivo será presidido pelo presidente do conselho de administração e será constituído, além dos membros do mesmo conselho, pelos seguintes vogais:
+Art. 20.º - 1. O conselho consultivo será presidido pelo presidente do conselho de administração e será constituído, além dos membros do mesmo conselho, pelos seguintes vogais:
 
 a) Um representante da Secretaria de Estado do Planeamento Económico;
 
@@ -308,11 +332,11 @@ h) Um representante do Banco de Fomento Nacional.
 
 3. Quando a natureza dos assuntos a tratar o aconselhe, o presidente, por sua iniciativa ou a pedido do conselho, pode convidar a participar nas reuniões, sem direito a voto, pessoas de reconhecida competência nas matérias a discutir.
 
-###### Art. 21.º - 1. Os vogais do conselho consultivo serão nomeados por despacho do Secretário de Estado da Indústria e Energia, sob proposta das entidades que representam, pelo período de três anos, não renovável.
+Art. 21.º - 1. Os vogais do conselho consultivo serão nomeados por despacho do Secretário de Estado da Indústria e Energia, sob proposta das entidades que representam, pelo período de três anos, não renovável.
 
 2. Os vogais do conselho consultivo terão direito a receber por cada sessão a que assistirem uma senha de presença de montante a fixar por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria e Energia, acumulável com quaisquer outras remunerações.
 
-###### Art. 22.º - 1. Compete ao conselho consultivo:
+Art. 22.º - 1. Compete ao conselho consultivo:
 
 a) Apreciar os planos de actividade, os orçamentos, os relatórios anuais e as contas de gerência e elaborar os respectivos pareceres;
 
@@ -328,7 +352,7 @@ f) Acompanhar a actividade do Instituto, podendo formular quaisquer propostas, s
 
 2. O conselho consultivo ou qualquer dos seus vogais poderão solicitar ao conselho de administração quaisquer elementos de informação necessários ao desempenho das suas funções, sendo-lhes, porém, vedado o acesso a elementos de natureza reservada fornecidos ao Instituto por empresas determinadas ou identificáveis.
 
-###### Art. 23.º - 1. O conselho consultivo reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de cinco dos vogais.
+Art. 23.º - 1. O conselho consultivo reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de cinco dos vogais.
 
 2. As deliberações do conselho consultivo só serão válidas desde que se encontre presente a maioria dos seus membros, e serão tomadas por maioria.
 
@@ -338,7 +362,7 @@ f) Acompanhar a actividade do Instituto, podendo formular quaisquer propostas, s
 
 ### CAPÍTULO IV — Serviços do Instituto
 
-###### Art. 24.º - 1. O Instituto compreenderá as seguintes direcções de serviços e divisões:
+Art. 24.º - 1. O Instituto compreenderá as seguintes direcções de serviços e divisões:
 
 a) Direcção de Serviços Jurídicos e Financeiros;
 
@@ -354,40 +378,40 @@ e) Divisão Administrativa.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 25.º - 1. A dotação em pessoal do Instituto será a constante do quadro anexo.
+Art. 25.º - 1. A dotação em pessoal do Instituto será a constante do quadro anexo.
 
 2. O pessoal do Instituto ficará sujeito, em tudo o que não se encontrar especialmente previsto neste decreto-lei, às normas legais aplicáveis aos funcionários da Secretaria de Estado da Indústria e Energia e aos funcionários civis do Estado em geral.
 
-###### Art. 26.º Por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria e Energia poderão ser atribuídas gratificações mensais ao pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
+Art. 26.º Por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria e Energia poderão ser atribuídas gratificações mensais ao pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
 
-###### Art. 27.º - 1. O Instituto poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos específicos ou para a execução de outras funções especializadas, em regime de prestação de serviços.
+Art. 27.º - 1. O Instituto poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos específicos ou para a execução de outras funções especializadas, em regime de prestação de serviços.
 
 2. Os contratos de prestação de serviços celebrados ao abrigo do número anterior deverão especificar obrigatoriamente a natureza da tarefa a executar, o prazo para a sua execução e a remuneração a pagar.
 
-###### Art. 28.º O Instituto poderá enviar missões ao estrangeiro para procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas funções.
+Art. 28.º O Instituto poderá enviar missões ao estrangeiro para procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas funções.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 29.º Para os efeitos deste decreto-lei serão consideradas como pequenas e médias empresas as que satisfizerem os requisitos que vierem a ser fixados por despacho conjunto do Ministro da Economia e do Secretário de Estado da Indústria e Energia.
+Art. 29.º Para os efeitos deste decreto-lei serão consideradas como pequenas e médias empresas as que satisfizerem os requisitos que vierem a ser fixados por despacho conjunto do Ministro da Economia e do Secretário de Estado da Indústria e Energia.
 
-###### Art. 30.º - 1. Passam a competir ao Instituto de Apoio às Pequenas e Médias Empresas as funções relativas às ligações do Estado com os centros técnicos de cooperação industrial atribuídas ao Instituto Nacional de Investigação Industrial pelo [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril.
+Art. 30.º - 1. Passam a competir ao Instituto de Apoio às Pequenas e Médias Empresas as funções relativas às ligações do Estado com os centros técnicos de cooperação industrial atribuídas ao Instituto Nacional de Investigação Industrial pelo [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril.
 
 2. O montante da comparticipação do Estado nas despesas de instalação e funcionamento dos centros técnicos será fixado, caso a caso, por despacho do Secretário do Estado da indústria e Energia, através da utilização das dotações que para o efeito forem atribuídas ao Instituto de Apoio às Pequenas e Médias Empresas no Orçamento Geral do Estado e nos programas anuais de desenvolvimento.
 
-###### Art. 31.º A acção do Instituto poderá ser alargada conjunturalmente a empresas de outros sectores, mediante deliberação do Conselho de Ministros, que deverá, nesse caso, providenciar no sentido de habilitar o Instituto com os meios necessários para tal fim.
+Art. 31.º A acção do Instituto poderá ser alargada conjunturalmente a empresas de outros sectores, mediante deliberação do Conselho de Ministros, que deverá, nesse caso, providenciar no sentido de habilitar o Instituto com os meios necessários para tal fim.
 
-###### Art. 32.º É extinta a Comissão de Apoio às Pequenas e Médias Empresas, criada pelo artigo 15.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, passando o desempenho das suas funções a incumbir ao Instituto, que poderá actuar pelas formas autorizadas à mesma Comissão e para o qual são transferidos os meios financeiros a ela atribuídos.
+Art. 32.º É extinta a Comissão de Apoio às Pequenas e Médias Empresas, criada pelo artigo 15.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, passando o desempenho das suas funções a incumbir ao Instituto, que poderá actuar pelas formas autorizadas à mesma Comissão e para o qual são transferidos os meios financeiros a ela atribuídos.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 31 de Janeiro de 1975.**
+Promulgado em 31 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/03200/01670172.pdf))](https://files.diariodarepublica.pt/1s/1975/02/03200/01670172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/03200/01670172.pdf)
 
-**O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.

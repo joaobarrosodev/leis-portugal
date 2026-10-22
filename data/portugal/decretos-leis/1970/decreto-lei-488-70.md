@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/24400/15081511.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1970-147581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d91859e0c92257de9af995b51895475ab52da41afd47502d5513328f7b84741
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5844c7d87319cdc76da2f86d41c5ddd2b8f720bce88ec8947dcc32d19abf471
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arborização
+- Assistência Médica
+- Assistência Medicamentosa
+- Conselho Distrital
+- Crime
+- Definição de Competências
+- Equipamento de Combate a Incêndios
+- Fiscalização
+- GNR
+- Governador Civil
+- Guarda Fiscal
+- Incêndio
+- Indemnização
+- Multa
+- Polícia Florestal
+- Presidente
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Proteção Social
+- PSP
+- Receita Própria
+- Secretaria de Estado da Agricultura
+- Subsídio
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:469788:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146258:por
+  label: "Rectificado [relativamente ao nº 1 do art. 20º e ao nº 1 do art. 21º] pela RECT.DD405.14.12.1970.PC, DG.IS [288]\
+    \ de 14.12.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-146258
+  date: '1970-12-14'
+- type: repealed_by
+  target: pt:dre:469788:por
+  label: "Revogado, a partir de 26.08.1980, pelo DEC LEI.327/80.26.08.1980.PCM, DR.IS [196] de 26.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1980-469788
+  date: '1980-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:38Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +173,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Medidas de prevenção, detecção e extinção dos incêndios florestais
 
-###### Artigo 1.º Com vista à prevenção, detecção e extinção dos incêndios florestais, a Secretaria de Estado da Agricultura tomará as medidas adequadas e, designadamente:
+Artigo 1.º Com vista à prevenção, detecção e extinção dos incêndios florestais, a Secretaria de Estado da Agricultura tomará as medidas adequadas e, designadamente:
 
 a) Procederá aos estudos básicos necessários para a adopção de medidas indispensáveis para a detecção e eliminação das causas dos incêndios florestais;
 
@@ -128,9 +183,9 @@ c) Efectuará campanhas educativas sobre a prevenção, detecção e combate a i
 
 d) Determinará as normas de segurança a estabelecer nas explorações florestais, nas instalações industriais e nos depósitos de produtos inflamáveis ou combustíveis, quando se localizem nas matas ou nas suas imediações.
 
-###### Art. 2.º A Direcção-Geral dos Serviços Florestais e Aquícolas coordenará e orientará, com a assistência técnica do Batalhão de Sapadores Bombeiros de Lisboa, todas as medidas tomadas em execução do presente diploma.
+Art. 2.º A Direcção-Geral dos Serviços Florestais e Aquícolas coordenará e orientará, com a assistência técnica do Batalhão de Sapadores Bombeiros de Lisboa, todas as medidas tomadas em execução do presente diploma.
 
-###### Art. 3.º - 1. São criados nos distritos do continente e das ilhas adjacentes conselhos distritais de prevenção, detecção e combate a incêndios florestais.
+Art. 3.º - 1. São criados nos distritos do continente e das ilhas adjacentes conselhos distritais de prevenção, detecção e combate a incêndios florestais.
 
 2. Os conselhos a que se refere o número anterior serão constituídos pelas seguintes entidades:
 
@@ -148,7 +203,7 @@ f) Um representante da organização Defesa Civil do Território.
 
 3. Os representantes referidos na alínea c) do número precedente serão escolhidos pelo governador civil do respectivo distrito.
 
-###### Art. 4.º - 1. Constituem atribuições dos conselhos distritais:
+Art. 4.º - 1. Constituem atribuições dos conselhos distritais:
 
 a) O estudo das medidas destinadas a prevenir, detectar e combater incêndios florestais;
 
@@ -174,19 +229,19 @@ k) Dar parecer sobre os assuntos que lhe sejam presentes em matéria das suas at
 
 2. Os conselhos poderão obter parecer e cooperação da Secretaria de Estado da Informação e Turismo, dos presidentes das câmaras municipais do distrito, da Defesa Civil do Território, da organização corporativa da lavoura, das direcções de estradas e dos Correios e Telecomunicações de Portugal.
 
-###### Art. 5.º - 1. O conselho terá uma reunião ordinária em cada trimestre e as extraordinárias que o seu presidente determinar.
+Art. 5.º - 1. O conselho terá uma reunião ordinária em cada trimestre e as extraordinárias que o seu presidente determinar.
 
 2. Os membros do conselho terão direito a senhas de presença e, quando não residam na sede do distrito, ao pagamento das despesas de transporte e a ajudas de custo que, quanto aos membros que a elas não tenham direito por outra disposição legal, serão as correspondentes à categoria F do mapa anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 6.º A Direcção-Geral dos Serviços Florestais e Aquícolas poderá proceder à pesquisa, captação e armazenamento de águas, sem prejuízo da legítima utilização das mesmas águas por entidades públicas ou particulares.
+Art. 6.º A Direcção-Geral dos Serviços Florestais e Aquícolas poderá proceder à pesquisa, captação e armazenamento de águas, sem prejuízo da legítima utilização das mesmas águas por entidades públicas ou particulares.
 
-###### Art. 7.º - 1. Qualquer pessoa que detecte um incêndio florestal é obrigada a tentar a sua extinção com a maior urgência ou, se as circunstâncias o não permitirem, a comunicar a ocorrência às autoridades administrativas e policiais, corpos de bombeiros, centros de combate, postos de vigia ou aos departamentos da Direcção-Geral dos Serviços Florestais e Aquícolas mais próximos.
+Art. 7.º - 1. Qualquer pessoa que detecte um incêndio florestal é obrigada a tentar a sua extinção com a maior urgência ou, se as circunstâncias o não permitirem, a comunicar a ocorrência às autoridades administrativas e policiais, corpos de bombeiros, centros de combate, postos de vigia ou aos departamentos da Direcção-Geral dos Serviços Florestais e Aquícolas mais próximos.
 
 2. A obrigação de comunicar a existência de incêndios florestais incumbe igualmente aos encarregados e assinantes de postos telefónicos das localidades mais próximas.
 
 3. As comunicações referidas nos números anteriores preferem a quaisquer outras que por lei não gozem deste privilégio.
 
-###### Art. 8.º - 1. As entidades referidas no n.º 1 do artigo anterior, ao tomarem conhecimento de um incêndio florestal, deverão imediatamente adoptar as medidas adequadas à sua extinção, através da mobilização dos meios normais e permanentes de que disponham, sem prejuízo de comunicarem a ocorrência ao governador civil do distrito ou, na sua falta ou impedimento, ao respectivo substituto legal e ao presidente do conselho distrital.
+Art. 8.º - 1. As entidades referidas no n.º 1 do artigo anterior, ao tomarem conhecimento de um incêndio florestal, deverão imediatamente adoptar as medidas adequadas à sua extinção, através da mobilização dos meios normais e permanentes de que disponham, sem prejuízo de comunicarem a ocorrência ao governador civil do distrito ou, na sua falta ou impedimento, ao respectivo substituto legal e ao presidente do conselho distrital.
 
 2. Caso os meios normais disponíveis não se revelem suficientes para a extinção do incêndio, os governadores civis ou os seus substitutos poderão requisitar os serviços de quaisquer homens válidos e as viaturas existentes nas localidades mais próximas indispensáveis para socorro de vidas e bens.
 
@@ -196,19 +251,19 @@ k) Dar parecer sobre os assuntos que lhe sejam presentes em matéria das suas at
 
 ### CAPÍTULO II — Fiscalização
 
-###### Art. 9.º - 1. A fiscalização do estabelecido neste diploma e seus regulamentos compete à polícia florestal, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Guarda Fiscal e às autoridades administrativas.
+Art. 9.º - 1. A fiscalização do estabelecido neste diploma e seus regulamentos compete à polícia florestal, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Guarda Fiscal e às autoridades administrativas.
 
 2. Para efeitos de fiscalização do presente diploma é reconhecido aos funcionários florestais o direito estabelecido no artigo 12.º do Regulamento da Polícia Florestal, aprovado pelo [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 24 de Novembro de 1954.
 
-###### Art. 10.º Poderá formar-se um corpo especial de vigilantes de incêndios, a quem, sob a orientação de um funcionário dos serviços florestais ou da direcção de estradas do distrito, sejam confiadas certas zonas da floresta ou determinadas vias de comunicações, com o objectivo de nelas fiscalizarem o disposto neste diploma.
+Art. 10.º Poderá formar-se um corpo especial de vigilantes de incêndios, a quem, sob a orientação de um funcionário dos serviços florestais ou da direcção de estradas do distrito, sejam confiadas certas zonas da floresta ou determinadas vias de comunicações, com o objectivo de nelas fiscalizarem o disposto neste diploma.
 
-###### Art. 11.º As autoridades e agentes da autoridade com competência para a fiscalização do disposto neste diploma e seus regulamentos deverão levantar autos de notícia de todas as infracções que presenciem ou lhe sejam comunicadas.
+Art. 11.º As autoridades e agentes da autoridade com competência para a fiscalização do disposto neste diploma e seus regulamentos deverão levantar autos de notícia de todas as infracções que presenciem ou lhe sejam comunicadas.
 
 ### CAPÍTULO III — Penalidades
 
-###### Art. 12.º As pessoas que não executarem os trabalhos preventivos referidos na segunda parte da alínea b) do artigo 4.º serão punidas, como contraventoras, com a pena de multa de 100$00 a 1000$00.
+Art. 12.º As pessoas que não executarem os trabalhos preventivos referidos na segunda parte da alínea b) do artigo 4.º serão punidas, como contraventoras, com a pena de multa de 100$00 a 1000$00.
 
-###### Art. 13.º As infracções das regras estabelecidas por força do disposto na alínea c) do artigo 4.º constituem contravenções, que serão puníveis da seguinte forma:
+Art. 13.º As infracções das regras estabelecidas por força do disposto na alínea c) do artigo 4.º constituem contravenções, que serão puníveis da seguinte forma:
 
 a) Com a pena de um a dois meses de prisão e a multa de 1000$00 a 10000$00, a utilização do lume ou fogo ou o emprego de máquinas susceptíveis de provocar a deflagração de incêndios e o lançamento de balões ou fogo de artifício;
 
@@ -216,27 +271,27 @@ b) Com a pena de multa de 500$00 a 2500$00, o lançamento de pontas de cigarro o
 
 c) Com a pena de multa de 100$00 a 500$00, o acesso à floresta ou a outros locais proibidos.
 
-###### Art. 14.º A infracção ao disposto no n.º 1 do artigo 7.º constitui crime de desobediência.
+Art. 14.º A infracção ao disposto no n.º 1 do artigo 7.º constitui crime de desobediência.
 
-###### Art. 15.º Constitui crime de desobediência qualificada a infracção ao n.º 2 do artigo 7.º e, bem assim, a recusa do cumprimento da requisição prevista no n.º 2 do artigo 8.º
+Art. 15.º Constitui crime de desobediência qualificada a infracção ao n.º 2 do artigo 7.º e, bem assim, a recusa do cumprimento da requisição prevista no n.º 2 do artigo 8.º
 
-###### Art. 16.º Sobre as multas aplicadas nos termos deste diploma não incidirão quaisquer adicionais.
+Art. 16.º Sobre as multas aplicadas nos termos deste diploma não incidirão quaisquer adicionais.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 17.º - 1. Os sinistrados de incêndios florestais que não beneficiem do disposto da legislação sobre acidentes de trabalho no que respeita às consequências da sua intervenção no respectivo combate terão direito a assistência clínica, a medicamentos e a indemnizações ou pensões, nos termos da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de Julho de 1936.
+Art. 17.º - 1. Os sinistrados de incêndios florestais que não beneficiem do disposto da legislação sobre acidentes de trabalho no que respeita às consequências da sua intervenção no respectivo combate terão direito a assistência clínica, a medicamentos e a indemnizações ou pensões, nos termos da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de Julho de 1936.
 
 2. Aplica-se, porém, o disposto no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951, tratando-se de sinistrados abrangidos por esse diploma quando vítimas de acidentes em serviço.
 
-###### Art. 18.º - 1. Aos proprietários florestais será concedido um subsídio para rearborização das áreas atingidas por incêndios nos seus prédios rústicos.
+Art. 18.º - 1. Aos proprietários florestais será concedido um subsídio para rearborização das áreas atingidas por incêndios nos seus prédios rústicos.
 
 2. Os proprietários a quem forem concedidos os subsídios a que se refere o número anterior terão de efectuar a arborização no período mínimo de dois anos, a partir da sua entrega, sob pena de terem de o restituir, na parte respeitante à área não arborizada, acrescido de 20 por cento da importância a repor.
 
 3. Não terão direito ao subsídio para rearborização os proprietários que não contribuam com a importância referida na alínea a) do artigo 21.º ou sejam os causadores de incêndios.
 
-###### Art. 19.º À Direcção-Geral dos Serviços Florestais e Aquícolas compete tomar todas as disposições tendentes à reconstituição dos povoamentos florestais atingidos por incêndios.
+Art. 19.º À Direcção-Geral dos Serviços Florestais e Aquícolas compete tomar todas as disposições tendentes à reconstituição dos povoamentos florestais atingidos por incêndios.
 
-###### Art. 20.º - 1. São encargos do Fundo de Fomento Florestal e Aquícola:
+Art. 20.º - 1. São encargos do Fundo de Fomento Florestal e Aquícola:
 
 a) O custo dos equipamentos de detecção e combate a incêndios florestais a utilizar pelos postos de vigia e centros de combate;
 
@@ -252,7 +307,7 @@ f) Os outros encargos resultantes da execução deste diploma.
 
 2. O Fundo tem direito de regresso contra os causadores dos incêndios florestais pelo quantitativo total dos encargos que satisfaça em sua consequência.
 
-###### Art. 21.º - 1. Às receitas do Fundo de Fomento Florestal e Aquícola acrescerão as seguintes:
+Art. 21.º - 1. Às receitas do Fundo de Fomento Florestal e Aquícola acrescerão as seguintes:
 
 a) Uma importância a cobrar, por hectare de mata ou fracção, aos proprietários que desejem beneficiar do subsídio previsto no n.º 1 do artigo 18.º;
 
@@ -262,12 +317,12 @@ c) O produto da venda dos instrumentos das infracções aos preceitos contidos n
 
 2. Constarão de decreto, a publicar pelos Ministérios das Finanças e Economia, a fixação da importância referida nas alíneas a) e b) do número anterior, a forma da sua arrecadação e demais regras aplicáveis.
 
-###### Art. 22.º O Secretário de Estado da Agricultura aprovará, por portaria, os regulamentos necessários à execução deste diploma.
+Art. 22.º O Secretário de Estado da Agricultura aprovará, por portaria, os regulamentos necessários à execução deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 14 de Outubro de 1970.**
+Promulgado em 14 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

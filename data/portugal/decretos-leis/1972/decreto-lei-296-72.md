@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 189/1972, 1º Suplemento, Série I de 1972-08-14
   number: '189'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1070-(1) a 1070-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/18901/00010004.pdf
 entry_into_force_dates: []
@@ -47,40 +47,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1972-605805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b077f8a6185910632709477b688243c7423b23f2b36441da1b5d426c5a6f98aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 614b662d7a571d28ac4c4b05f8591b8ddc3fa835a7ae878db7ec7d9aa375eb17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Religiosa
+- Capelão
+- Força Aérea
+- Militar
+- Pessoal Civil
+- Quadro de Pessoal
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:442971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513072:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 42066, de 29-Dez 1958, na redacção do presente diploma, pelo\
+    \ Dec Lei.527/72.19.12.1972.PCM, DG.IS [293-Supl] de 19.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/527-1972-513072
+  date: '1972-12-19'
+- type: amended_by
+  target: pt:dre:407942:por
+  label: "Alterado o quadro de pessoal aprovado no Dec Lei 42066, de 29-Dez 1958, na redacção do presente diploma, pelo DEC\
+    \ LEI.711/73.31.12.1973.PC, DG.IS [302] de 31.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/711-1973-407942
+  date: '1974-12-31'
+- type: amended_by
+  target: pt:dre:312048:por
+  label: "Alterado o preâmbulo dos artigos 2.º, 3.º e 4.º e os mapas nºs 1 e 3 do presente diploma, pelo Dec Lei.525/75.25.09.1975.CR,\
+    \ DG.IS [222] de 25.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/525-1975-312048
+  date: '1975-09-25'
+- type: amended_by
+  target: pt:dre:312049:por
+  label: "Alterado o quadro de pessoal aprovado pelo Decreto-Lei 42066, de 29 de Dezembro 1958, alterado pelo Decreto-Lei\
+    \ 46345, de 21 de Maio pelo Dec Lei.526/75.25.09.1975.CR, DG.IS [222] de 25.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1975-312049
+  date: '1975-09-25'
+- type: amended_by
+  target: pt:dre:427104:por
+  label: "Alterado o quadro de pessoal aprovado pelo Decreto-Lei 42066, de 29 de Dezembro, na redacção do presente diploma\
+    \ pelo Dec Lei.464/76.11.06.1976.CR, DR.IS [136] de 11.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/464-1976-427104
+  date: '1976-06-11'
+- type: amended_by
+  target: pt:dre:409682:por
+  label: "Alterado o nº3 do art. 2º e a al. c) do art. 5º pelo DEC LEI.741/76.18.10.1976.CR, DR.IS [244] de 18.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/741-1976-409682
+  date: '1976-10-18'
+- type: amended_by
+  target: pt:dre:382838:por
+  label: "Dada nova redacção à alínea a) do n.º 3 do artigo 2.º pelo DEC LEI.114/79.04.05.1979.CR, DR.IS [102] de 04.05.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-1979-382838
+  date: '1979-05-04'
+- type: amended_by
+  target: pt:dre:442971:por
+  label: "Extinto o Depósito Geral de Adidos da Força Aérea, pelo DEC LEI.412/83.23.11.1983.MDN, DR.IS [270] de 23.11.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-1983-442971
+  date: '1983-11-23'
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181630:por
+  label: "Revogado o artigo 8.º do presente diploma pelo Dec Lei.550-E/76.12.07.1976.CR, DR.IS [161-Supl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-e-1976-181630
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:32Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +182,7 @@ Convindo igualmente oficializar a constituição, como elemento orgânico separa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Serviço de Saúde da Força Aérea tem por finalidades essenciais:
+Artigo 1.º - 1. O Serviço de Saúde da Força Aérea tem por finalidades essenciais:
 
 a) Colaborar, por meio de estudos, propostas e estatísticas pertinentes, na elaboração dos planos e programas gerais da Força Aérea;
 
@@ -117,7 +200,7 @@ g) Produzir regulamentos, normas e instruções referentes ao Serviço.
 
 2. Para a realização das inspecções médicas necessárias são constituídas juntas médicas com designações e funções especificas.
 
-###### Art. 2.º - 1. O Serviço de Saúde da Força Aérea compreende:
+Art. 2.º - 1. O Serviço de Saúde da Força Aérea compreende:
 
 a) A Direcção;
 
@@ -159,7 +242,7 @@ c) Centro de Medicina Aeronáutica, localizado em Lisboa, para selecção e revi
 
 7. O Serviço de Saúde da Força Aérea pode recorrer aos órgãos de tratamento hospitalar do Exército e da Armada ou a organismos civis especializados sempre que necessário.
 
-###### Art. 3.º - 1. O director do Serviço de Saúde superintende:
+Art. 3.º - 1. O director do Serviço de Saúde superintende:
 
 a) Nos elementos da própria direcção;
 
@@ -169,7 +252,7 @@ c) Nos respectivos órgãos de execução integrados em unidades dele não depen
 
 2. As directivas, instruções, ordens e outras determinações de carácter técnico, dadas pelo mesmo director aos órgãos de execução integrados em unidades dele não dependentes, assim como as inspecções que, sob a sua presidência, lhes sejam feitas, sê-lo-ão sempre com conhecimento dos chefes, comandantes ou directores de tais unidades.
 
-###### Art. 4.º Em especial, o director do Serviço de Saúde é responsável:
+Art. 4.º Em especial, o director do Serviço de Saúde é responsável:
 
 a) Pela disciplina dos elementos da própria direcção e dos respectivos órgãos de execução constituídos em unidades independentes;
 
@@ -177,7 +260,7 @@ b) Pela eficiência do Serviço, responsabilidade que inclui o aperfeiçoamento 
 
 c) Pela colaboração no estabelecimento dos planos e programas gerais da Força Aérea e pelo desenvolvimento e execução de programas específicos de apoio.
 
-###### Art. 5.º Na dependência do comandante da 1.ª Região Aérea é constituído o Depósito Geral de Adidos da Força Aérea, em Lisboa, para:
+Art. 5.º Na dependência do comandante da 1.ª Região Aérea é constituído o Depósito Geral de Adidos da Força Aérea, em Lisboa, para:
 
 a) Enquadramento de pessoal que presta serviço nos órgãos centrais da Força Aérea;
 
@@ -185,11 +268,11 @@ b) Apoio de pessoal em trânsito, nos aspectos necessários;
 
 c) Apoio administrativo e logístico dos órgãos de execução do Serviço de Saúde referidos nas alíneas a) e c) do n.º 3 do artigo 2.º e da banda de música da Força Aérea.
 
-###### Art. 6.º A banda de música da Força Aérea é estabelecida como elemento orgânico separado e colocada na dependência directa do Estado-Maior da Força Aérea.
+Art. 6.º A banda de música da Força Aérea é estabelecida como elemento orgânico separado e colocada na dependência directa do Estado-Maior da Força Aérea.
 
-###### Art. 7.º Os quadros de pessoal da Direcção do Serviço de Saúde, dos órgãos de execução referidos no n.º 3 do artigo 2.º e do Depósito Geral de Adidos da Força Aérea serão fixados em portarias do Secretário de Estado da Aeronáutica.
+Art. 7.º Os quadros de pessoal da Direcção do Serviço de Saúde, dos órgãos de execução referidos no n.º 3 do artigo 2.º e do Depósito Geral de Adidos da Força Aérea serão fixados em portarias do Secretário de Estado da Aeronáutica.
 
-###### Art. 8.º - 1. O pessoal militar permanente privativo da Força Aérea, equiparado a militar, civil contratado e civil assalariado destinado a completar a constituição dos órgãos anteriormente referidos é o incluído nos mapas n.os 1, 2 e 3 anexos ao presente diploma.
+Art. 8.º - 1. O pessoal militar permanente privativo da Força Aérea, equiparado a militar, civil contratado e civil assalariado destinado a completar a constituição dos órgãos anteriormente referidos é o incluído nos mapas n.os 1, 2 e 3 anexos ao presente diploma.
 
 2. O pessoal discriminado no mapa n.º 1 anexo é aumentado aos quadros autorizados para a Força Aérea pelo [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, alterado pelo [Decreto-Lei n.º 46345](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46345-1965-295076), de 21 de Maio de 1965.
 
@@ -201,13 +284,13 @@ c) Apoio administrativo e logístico dos órgãos de execução do Serviço de S
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-## Anexo ao Decreto-Lei n.º 296/72
+Anexo ao Decreto-Lei n.º 296/72
 
 MAPA N.º 1
 
@@ -395,4 +478,4 @@ De 1.ª classe ... 2
 
 De 2.ª classe ... 2
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.

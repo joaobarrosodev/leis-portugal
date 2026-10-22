@@ -46,36 +46,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49268-1969-214266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdf8d0335120568b5537b516a39241134617e701deafbf099bea6e1ffb251b3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ef02b92a9c4b500b52c130ba44a4f75a08495ecfcbabf89560213c76b2e47bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Administrativo
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:57Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +117,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 51.º, 67.º, 74.º, 75.º, 81.º, 83.º, 84.º, 103.º, 109.º, 134.º, 142.º, 408.º e 751.º do Código Administrativo passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 51.º, 67.º, 74.º, 75.º, 81.º, 83.º, 84.º, 103.º, 109.º, 134.º, 142.º, 408.º e 751.º do Código Administrativo passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -128,7 +129,7 @@ a) Dividir em bairros as cidades com mais de 100000 habitantes;
 
 b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes distintos da sede do concelho e com densidade de tipo urbano, sempre que convenha aos interesses dos habitantes a desconcentração dos serviços municipais.
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º ...
 
@@ -136,7 +137,7 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º ...
 
@@ -146,7 +147,7 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 3.º ...
 
-###### Art. 51.º ...
+Art. 51.º ...
 
 ...
 
@@ -154,11 +155,11 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 67.º As câmaras municipais dos concelhos de 1.ª ordem e dos concelhos urbanos de 2.ª ordem reúnem ordinàriamente uma vez por semana e as dos demais concelhos uma vez por quinzena, salvo se a câmara municipal, por proposta do presidente, reconhecer a conveniência de que as reuniões ordinárias se efectuem semanalmente.
+Art. 67.º As câmaras municipais dos concelhos de 1.ª ordem e dos concelhos urbanos de 2.ª ordem reúnem ordinàriamente uma vez por semana e as dos demais concelhos uma vez por quinzena, salvo se a câmara municipal, por proposta do presidente, reconhecer a conveniência de que as reuniões ordinárias se efectuem semanalmente.
 
 ...
 
-###### Art. 74.º As funções de presidente da câmara são remuneradas por meio de ordenado nos concelhos de Lisboa e Porto, nos de 1.ª ordem e nos urbanos de 2.ª ordem. Aos presidentes das demais câmaras e aos vice-presidentes que exerçam permanentemente, por delegação, funções próprias dos presidentes, será atribuído um subsídio mensal para despesas de representação.
+Art. 74.º As funções de presidente da câmara são remuneradas por meio de ordenado nos concelhos de Lisboa e Porto, nos de 1.ª ordem e nos urbanos de 2.ª ordem. Aos presidentes das demais câmaras e aos vice-presidentes que exerçam permanentemente, por delegação, funções próprias dos presidentes, será atribuído um subsídio mensal para despesas de representação.
 
 § 1.º As funções de vice-presidente da câmara em Lisboa e Porto e nos concelhos urbanos de 1.ª ordem serão também remuneradas por meio de ordenado sempre que o presidente da câmara neles delegue a prática de actos da sua competência.
 
@@ -170,7 +171,7 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 § 5.º Os presidentes e vice-presidentes das câmaras que percebam ordenado têm direito à aposentação e são inscritos na Caixa Geral de Aposentações, nas condições prescritas para os funcionários que exerçam cargos de comissão do Estado.
 
-###### Art. 75.º As funções de presidente e vice-presidente da câmara, quando remuneradas por meio de ordenado, são incompatíveis com o exercício de qualquer outra função pública retribuída e com a advocacia.
+Art. 75.º As funções de presidente e vice-presidente da câmara, quando remuneradas por meio de ordenado, são incompatíveis com o exercício de qualquer outra função pública retribuída e com a advocacia.
 
 § 1.º O Conselho de Ministros poderá permitir a acumulação de funções com outras para cujo exercício independente não esteja fixada retribuição bastante.
 
@@ -182,19 +183,19 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 81.º ...
+Art. 81.º ...
 
 § único. Nos concelhos a que se refere o § 1.º do artigo 74.º poderá o presidente da câmara delegar no vice-presidente quaisquer outros actos da sua competência, designadamente aqueles a que se referem os n.os 6.º, 10.º, 12.º e 14.º do artigo 77.º
 
 ...
 
-###### Art. 83.º ...
+Art. 83.º ...
 
 ...
 
 § 4.º O disposto nos parágrafos anteriores aplica-se às decisões do vice-presidente da câmara nos casos em que exerça competência por delegação do presidente.
 
-###### Art. 84.º ...
+Art. 84.º ...
 
 § 1.º Nas Câmaras Municipais de Lisboa e Porto poderá haver dois vice-presidentes, se as necessidades do serviço o exigirem e a Câmara assim o deliberar, ficando a deliberação sujeita a aprovação do Ministro do Interior. A precedência entre os vice-presidentes é nesse caso, para todos os efeitos, regulada pela ordem da nomeação.
 
@@ -202,7 +203,7 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 103.º Os serviços municipais de Lisboa e Porto distribuem-se por direcções de serviços, que podem compreender divisões, repartições e secções.
+Art. 103.º Os serviços municipais de Lisboa e Porto distribuem-se por direcções de serviços, que podem compreender divisões, repartições e secções.
 
 § 1.º Em cada bairro administrativo e, sempre que possível, em instalações anexas ou próximas das da administração, funcionarão delegações de serviços municipais.
 
@@ -210,7 +211,7 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 109.º Competem aos administradores de bairro de Lisboa e Porto, sob a imediata direcção e inspecção do governador civil do distrito:
+Art. 109.º Competem aos administradores de bairro de Lisboa e Porto, sob a imediata direcção e inspecção do governador civil do distrito:
 
 1.º Os poderes e deveres enumerados no artigo 79.º, com excepção dos constantes dos n.os 6.º e 7.º, que pertencem ao governador civil, e dos n.º 8.º, que incumbem ao presidente da câmara, quanto aos vereadores, e ao governador civil, quanto aos vogais das juntas de freguesia;
 
@@ -226,13 +227,13 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 134.º ...
+Art. 134.º ...
 
 § único. Nas administrações dos bairros a que se refere o § 2.º do artigo 1.º deverão funcionar delegações de serviços municipais, com a competência a fixar pela câmara municipal.
 
 ...
 
-###### Art. 142.º ...
+Art. 142.º ...
 
 ...
 
@@ -240,7 +241,7 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 408.º ...
+Art. 408.º ...
 
 § 1.º O governador civil pode elaborar regulamentos obrigatórios em todo o distrito sobre as matérias das atribuições policiais que não sejam objecto de lei ou regulamento geral de administração pública. Estes regulamentos carecem de aprovação do Governo, serão publicados no Diário do Governo, entrarão em vigor nos prazos fixados para a vigência das leis, se eles próprios não fixarem outros, e não poderão cominar multas superiores a 500$00, acrescidas de 1/3 por cada reincidência.
 
@@ -248,7 +249,7 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 751.º ...
+Art. 751.º ...
 
 ...
 
@@ -256,15 +257,15 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 ...
 
-###### Art. 2.º São aditados ao Código Administrativo os artigos 109.º-A e 109.º-B, com a redacção seguinte:
+Art. 2.º São aditados ao Código Administrativo os artigos 109.º-A e 109.º-B, com a redacção seguinte:
 
-###### Art. 109.º-A. Nos bairros previstos no § 2.º do artigo 1.º haverá um magistrado administrativo com a designação de administrador de bairro, substituído, nas suas faltas e impedimentos, pelo secretário da respectiva administração.
+Art. 109.º-A. Nos bairros previstos no § 2.º do artigo 1.º haverá um magistrado administrativo com a designação de administrador de bairro, substituído, nas suas faltas e impedimentos, pelo secretário da respectiva administração.
 
 § 1.º Os administradores de bairro a que este artigo se refere serão nomeados pelo Ministro do Interior, sob proposta do presidente da câmara do concelho a que os bairros pertençam, e ficam sujeitos ao regime dos artigos 71.º a 75.º
 
 § 2.º Os administradores dos bairros podem ser livremente exonerados pelo Ministro do Interior, por conveniência de serviço.
 
-###### Art. 109.º-B. Competem aos administradores de bairro, a que se refere o artigo anterior:
+Art. 109.º-B. Competem aos administradores de bairro, a que se refere o artigo anterior:
 
 1.º Os poderes e deveres enumerados no artigo 79.º, com excepção dos n.os 6.º a 8.º, no n.º 14.º do artigo 80.º e no n.º 2.º do artigo 109.º;
 
@@ -276,17 +277,17 @@ b) Organizar em bairros os núcleos populacionais de mais de 10000 habitantes di
 
 § 2.º No caso da delegação prevista no n.º 2.º, não vigorará qualquer outra delegação municipal na área dos bairros respectivos.
 
-###### Art. 3.º A secção III do capítulo V do título II da parte I do Código Administrativo passa a constituir o capítulo V-A do mesmo título.
+Art. 3.º A secção III do capítulo V do título II da parte I do Código Administrativo passa a constituir o capítulo V-A do mesmo título.
 
-###### Art. 4.º O capítulo II da tabela A anexa ao Código Administrativo passa a ter a redacção constante do mapa anexo a este diploma.
+Art. 4.º O capítulo II da tabela A anexa ao Código Administrativo passa a ter a redacção constante do mapa anexo a este diploma.
 
-###### Art. 5.º Os serviços das administrações dos bairros previstas no § 2.º do artigo 1.º do Código Administrativo serão assegurados por pessoal dos quadros das respectivas câmaras municipais, competindo as funções de secretário a funcionário do quadro geral dos serviços externos da Direcção-Geral de Administração Política e Civil, ao qual será abonada gratificação de chefia correspondente à classe a que pertença.
+Art. 5.º Os serviços das administrações dos bairros previstas no § 2.º do artigo 1.º do Código Administrativo serão assegurados por pessoal dos quadros das respectivas câmaras municipais, competindo as funções de secretário a funcionário do quadro geral dos serviços externos da Direcção-Geral de Administração Política e Civil, ao qual será abonada gratificação de chefia correspondente à classe a que pertença.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 17 de Setembro de 1969.**
+Promulgado em 17 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

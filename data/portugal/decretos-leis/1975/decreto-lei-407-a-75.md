@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 174/1975, 2º Suplemento, Série I de 1975-07-30
   number: '174'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1056-(3) a 1056-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/17402/00030005.pdf
 entry_into_force_dates: []
@@ -47,40 +47,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00d71b2de80933cb020ef4e60b01b10f2a72baa7d79202ea53e2c3bb8c8fc9fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbdf7e7386387408071b571e6c2db24a88b972f889681e6bd2ae68393fcc80af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Reserva
+- Equipamento Agrícola
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
+- Reserva Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:1165988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 9 PELO DEC LEI 895/76 DE 30-DEZ DR.IS [302]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1976-12-30'
+- type: amended_by
+  target: pt:dre:382844:por
+  label: "Desanexada uma parcela de terreno do prédio rústico denominado «Monte da Barca», nacionalizado pelo presente diploma,\
+    \ pela PORT.215/79.04.05.1979.MFP, DR.IS [102] de 04.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-1979-382844
+  date: '1979-05-04'
+- type: amended_by
+  target: pt:dre:578911:por
+  label: "Desanexada parte do prédio rústico «Azenha do Mar», nacionalizado pela PORT.476/81.09.06.1981.MFP, DR.IS [132] de\
+    \ 09.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/476-1981-578911
+  date: '1981-06-09'
+- type: amended_by
+  target: pt:dre:580283:por
+  label: "Desanexado parte do prédio rústico \"Herdade da Comporta\", pela PORT.576/81.09.07.1981.MFP, DR.IS [155] de 09.07.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/576-1981-580283
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:380744:por
+  label: "Desanexado o prédio rústico Quinta expropriado pelo presente dioploma, pela PORT.1219/82.28.12.1982.MFP, DR.IS [298]\
+    \ de 28.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1219-1982-380744
+  date: '1982-12-28'
+- type: amended_by
+  target: pt:dre:1165988:por
+  label: "Declarado não nacionalizado o prédio rústico denominado \"Cortes de D. Miguel\", nacionalizado pelo presente diploma,\
+    \ PORT.218/99(2ªSÉRIE).1999.03.05.PCM DR.IIS [64] DE 17/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-1999-1165988
+  date: '1999-03-05'
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534410:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º, pela LEI.77/77.1977.09.29.PCM DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ART 4 PELO DEC LEI 81/78 DE 29-ABR DR.IS [99]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-04-29'
+- type: repealed_by
+  target: pt:dre:425528:por
+  label: Revogado o art. 4.º pelo(a) Decreto-Lei n.º 81/78 - Diário da República n.º 99/1978, Série I de 1978-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1978-425528
+  date: '1978-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:16Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +169,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São nacionalizados os prédios rústicos beneficiados, no todo ou em parte, pelos aproveitamentos hidroagrícolas de Caia, Campilhas, S. Domingos e Alto Sado, Divor, Loures, Idanha, Mira, Odivelas, Roxo, vale do Sado e vale do Sorraia, pertencentes a pessoas singulares, sociedades ou pessoas colectivas de direito privado, incluindo as de utilidade pública, que sejam proprietárias, no conjunto dos perímetros daqueles aproveitamentos, de uma área beneficiada que, mediante aplicação da tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, se verifique corresponder a mais de 50000 pontos.
+Artigo 1.º São nacionalizados os prédios rústicos beneficiados, no todo ou em parte, pelos aproveitamentos hidroagrícolas de Caia, Campilhas, S. Domingos e Alto Sado, Divor, Loures, Idanha, Mira, Odivelas, Roxo, vale do Sado e vale do Sorraia, pertencentes a pessoas singulares, sociedades ou pessoas colectivas de direito privado, incluindo as de utilidade pública, que sejam proprietárias, no conjunto dos perímetros daqueles aproveitamentos, de uma área beneficiada que, mediante aplicação da tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, se verifique corresponder a mais de 50000 pontos.
 
-###### Art. 2.º Sem prejuízo do disposto nos artigos seguintes, consideram-se extintos todos e quaisquer direitos, ónus reais e outros encargos que incidam sobre prédios nacionalizados.
+Art. 2.º Sem prejuízo do disposto nos artigos seguintes, consideram-se extintos todos e quaisquer direitos, ónus reais e outros encargos que incidam sobre prédios nacionalizados.
 
-###### Art. 3.º - 1. É garantido aos proprietários atingidos pelas medidas de nacionalização decretadas no artigo 1.º o direito de reservar, na zona nacionalizada, a propriedade de uma área de terra, a demarcar em função do ordenamento global de explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, desde que aqueles preencham cumulativamente os requisitos seguintes:
+Art. 3.º - 1. É garantido aos proprietários atingidos pelas medidas de nacionalização decretadas no artigo 1.º o direito de reservar, na zona nacionalizada, a propriedade de uma área de terra, a demarcar em função do ordenamento global de explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, desde que aqueles preencham cumulativamente os requisitos seguintes:
 
 a) Explorem directamente a terra de que são proprietários;
 
@@ -121,7 +189,7 @@ c) Não mantenham terras incultas ou subaproveitadas nem hajam incorrido em qual
 
 5. É, contudo, proibida, sob pena de nulidade, a divisão do prédio rústico reservado.
 
-###### Art. 4.º - 1. O direito de reserva previsto no artigo anterior caduca se não for exercido no prazo de vinte dias a contar da notificação, para o efeito, do proprietário ou de quem o represente, através de declaração escrita, dirigida ao Instituto de Reorganização Agrária.
+Art. 4.º - 1. O direito de reserva previsto no artigo anterior caduca se não for exercido no prazo de vinte dias a contar da notificação, para o efeito, do proprietário ou de quem o represente, através de declaração escrita, dirigida ao Instituto de Reorganização Agrária.
 
 2. Independentemente da notificação referida no número anterior, o direito de reserva caduca no prazo de trinta dias a contar da afixação de editais na sede da associação de regantes e beneficiários do aproveitamento hidroagrícola de que beneficiem os prédios nacionalizados.
 
@@ -129,25 +197,25 @@ c) Não mantenham terras incultas ou subaproveitadas nem hajam incorrido em qual
 
 4. Tanto a notificação referida no n.º 1 deste artigo como a declaração de exercício do direito de reserva serão efectuadas mediante carta registada com aviso de recepção.
 
-###### Art. 5.º No ano agrícola subsequente à entrada em vigor do presente diploma poderá o Instituto de Reorganização Agrária tomar compulsivamente de arrendamento as áreas reservadas sem a consequência prevista no n.º 2 do artigo 3.º deste diploma.
+Art. 5.º No ano agrícola subsequente à entrada em vigor do presente diploma poderá o Instituto de Reorganização Agrária tomar compulsivamente de arrendamento as áreas reservadas sem a consequência prevista no n.º 2 do artigo 3.º deste diploma.
 
-###### Art. 6.º As regras a utilizar na fixação das indemnizações a atribuir aos proprietários e outros titulares de direitos ou ónus reais atingidos pela nacionalização serão definidas em decreto-lei a promulgar no prazo de cento e oitenta dias a contar da entrada em vigor deste diploma.
+Art. 6.º As regras a utilizar na fixação das indemnizações a atribuir aos proprietários e outros titulares de direitos ou ónus reais atingidos pela nacionalização serão definidas em decreto-lei a promulgar no prazo de cento e oitenta dias a contar da entrada em vigor deste diploma.
 
-###### Art. 7.º - 1. São respeitados os direitos dos que, a qualquer título que não o de propriedade perfeita, explorem uma área dos prédios nacionalizados que, acrescida de todas as outras que a qualquer título também explorem, não exceda a pontuação referida no artigo 1.º
+Art. 7.º - 1. São respeitados os direitos dos que, a qualquer título que não o de propriedade perfeita, explorem uma área dos prédios nacionalizados que, acrescida de todas as outras que a qualquer título também explorem, não exceda a pontuação referida no artigo 1.º
 
 2. Aos que, a qualquer título que não o de propriedade perfeita, explorem uma área dos prédios nacionalizados que, acrescida de todas as outras que a qualquer título também explorem, exceda a pontuação referida no artigo 1.º, é garantido, com referência à sua posição contratual, um direito de reserva análogo ao atribuído aos proprietários e a exercer em idênticas condições de fundo e de processo.
 
-###### Art. 8.º - 1. O Instituto de Reorganização Agrária entra imediatamente na posse das áreas nacionalizadas, independentemente de prévia fixação e pagamento das indemnizações devidas, com as limitações decorrentes dos números seguintes.
+Art. 8.º - 1. O Instituto de Reorganização Agrária entra imediatamente na posse das áreas nacionalizadas, independentemente de prévia fixação e pagamento das indemnizações devidas, com as limitações decorrentes dos números seguintes.
 
 2. Os proprietários, arrendatários ou quaisquer outros empresários agrícolas afectados pelas medidas de nacionalização conservarão todos os poderes necessários à realização das operações agrícolas, de colheita, conservação, maneio de gado e outras necessárias ao bom aproveitamento da terra até ao termo da presente época agrícola, devendo assegurar os níveis normais de produtividade, de harmonia com as técnicas e usos socialmente aceites.
 
 3. As práticas, por acção ou omissão, dolosas ou simplesmente negligentes, de proprietários, arrendatários e outros empresários agrícolas que afectem o bom aproveitamento da terra, infra-estruturas e equipamentos, ou conduzam à perda, diminuição ou destruição da produção, para além de outras sanções que por lei sejam aplicáveis, e da consequência prevista através da alínea c) do n.º 1 do artigo 3.º do presente diploma, importarão, segundo a gravidade, redução ou eliminação da indemnização a que houver lugar, em termos a definir no diploma que regular a fixação e modo de pagamento das indemnizações.
 
-###### Art. 9.º - 1. O Instituto de Reorganização Agrária poderá requisitar aos proprietários, arrendatários e demais atingidos pelas medidas estabelecidas neste diploma o equipamento mecânico e industrial, gado e outros componentes das respectivas explorações excedentários em relação à área que fiquem a cultivar, gozando, em qualquer caso, de direito de preferência, com eficácia real, em todas as alienações por aqueles efectuadas.
+Art. 9.º - 1. O Instituto de Reorganização Agrária poderá requisitar aos proprietários, arrendatários e demais atingidos pelas medidas estabelecidas neste diploma o equipamento mecânico e industrial, gado e outros componentes das respectivas explorações excedentários em relação à área que fiquem a cultivar, gozando, em qualquer caso, de direito de preferência, com eficácia real, em todas as alienações por aqueles efectuadas.
 
 2. As indemnizações a que houver lugar por virtude de requisição serão reguladas no diploma referido no artigo 6.º
 
-###### Art. 10.º - 1. O Secretário de Estado da Estruturação Agrária nomeará, para cada perímetro, uma Comissão de Gestão Transitória, à qual competirá, designadamente, assegurar:
+Art. 10.º - 1. O Secretário de Estado da Estruturação Agrária nomeará, para cada perímetro, uma Comissão de Gestão Transitória, à qual competirá, designadamente, assegurar:
 
 a) A actualização do cadastro do respectivo perímetro;
 
@@ -169,28 +237,28 @@ i) Quaisquer outras funções que lhes sejam cometidas por despacho ministerial.
 
 2. As associações de regantes e beneficiários dos aproveitamentos hidroagrícolas abrangidos pelas presentes medidas passarão a ser dirigidas transitoriamente por comissões administrativas, a nomear por despacho do Secretário de Estado de Estruturação Agrária, e cujo presidente será um dos membros da respectiva Comissão de Gestão Transitória, ficando os membros dos actuais corpos gerentes obrigados a prestar-lhes todas as informações e elementos solicitados, sob pena de incorrerem no crime de desobediência qualificada.
 
-###### Art. 11.º Dos actos das Comissões de Gestão Transitória relativos à execução deste diploma de que resulte ofensa ilegítima aos direitos de proprietários, arrendatários e demais interessados caberá recurso, com efeito meramente devolutivo, para os Conselhos Regionais da Reforma Agrária e da decisão destes para o Ministro da Agricultura e Pescas.
+Art. 11.º Dos actos das Comissões de Gestão Transitória relativos à execução deste diploma de que resulte ofensa ilegítima aos direitos de proprietários, arrendatários e demais interessados caberá recurso, com efeito meramente devolutivo, para os Conselhos Regionais da Reforma Agrária e da decisão destes para o Ministro da Agricultura e Pescas.
 
-###### Art. 12.º A organização e funcionamento das Comissões de Gestão Transitória serão regulados através de portaria.
+Art. 12.º A organização e funcionamento das Comissões de Gestão Transitória serão regulados através de portaria.
 
-###### Art. 13.º - 1. Para efeitos de aplicação das medidas estabelecidas neste diploma são declarados ineficazes todos os actos praticados desde 25 de Abril de 1974 que, por qualquer forma, impliquem diminuição da área do conjunto dos prédios rústicos de cada proprietário.
+Art. 13.º - 1. Para efeitos de aplicação das medidas estabelecidas neste diploma são declarados ineficazes todos os actos praticados desde 25 de Abril de 1974 que, por qualquer forma, impliquem diminuição da área do conjunto dos prédios rústicos de cada proprietário.
 
 2. São declarados ineficazes os contratos de arrendamento ou quaisquer outros envolvendo cedência do uso da terra celebrados, em data posterior a 7 de Fevereiro de 1975, por proprietários ou outros empresários afectados pelas presentes medidas de nacionalização.
 
-###### Art. 14.º Para os efeitos do presente diploma, os cônjuges não separados judicialmente de bens ou pessoas e bens, os comproprietários, a herança indivisa e outros patrimónios autónomos ou agrupamentos de facto semelhantes são tratados como um único proprietário ou arrendatário.
+Art. 14.º Para os efeitos do presente diploma, os cônjuges não separados judicialmente de bens ou pessoas e bens, os comproprietários, a herança indivisa e outros patrimónios autónomos ou agrupamentos de facto semelhantes são tratados como um único proprietário ou arrendatário.
 
-###### Art. 15.º Nas áreas nacionalizadas, as Comissões de Gestão Transitória promoverão a instalação progressiva de novas unidades de produção, tendo em conta a necessidade de preservar a capacidade e o nível produtivo dos perímetros e corresponder aos justos interesses dos trabalhadores rurais e pequenos e médios agricultores da região, de harmonia com programa a aprovar pelo Ministro da Agricultura e Pescas, depois de ouvidas as assembleias locais.
+Art. 15.º Nas áreas nacionalizadas, as Comissões de Gestão Transitória promoverão a instalação progressiva de novas unidades de produção, tendo em conta a necessidade de preservar a capacidade e o nível produtivo dos perímetros e corresponder aos justos interesses dos trabalhadores rurais e pequenos e médios agricultores da região, de harmonia com programa a aprovar pelo Ministro da Agricultura e Pescas, depois de ouvidas as assembleias locais.
 
-###### Art. 16.º As dúvidas surgidas na interpretação e execução do presente diploma, e designadamente na aplicação da tabela a ele anexa, serão resolvidas por portaria do Ministro da Agricultura e Pescas.
+Art. 16.º As dúvidas surgidas na interpretação e execução do presente diploma, e designadamente na aplicação da tabela a ele anexa, serão resolvidas por portaria do Ministro da Agricultura e Pescas.
 
-###### Art. 17.º As disposições do presente diploma poderão ser tornadas extensivas aos aproveitamentos hidroagrícolas do Alvor, Silves, Lagoa e Portimão, Paul de Magos e Salvaterra de Magos, através de simples portaria do Ministro da Agricultura e Pescas, a qual deverá conter, em anexo, a tabela de equivalências a aplicar.
+Art. 17.º As disposições do presente diploma poderão ser tornadas extensivas aos aproveitamentos hidroagrícolas do Alvor, Silves, Lagoa e Portimão, Paul de Magos e Salvaterra de Magos, através de simples portaria do Ministro da Agricultura e Pescas, a qual deverá conter, em anexo, a tabela de equivalências a aplicar.
 
-###### Art. 18.º Este diploma entra imediatamente em vigor.
+Art. 18.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - Fernando Oliveira Baptista.
 
-**Promulgado em 29 de Julho de 1975.**
+Promulgado em 29 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

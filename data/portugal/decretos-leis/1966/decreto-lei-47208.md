@@ -50,36 +50,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47208-1966-480278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0b09962c5fc61454318ff9a3abf1d75b9949de13b286e34b6aa668cef2f5672
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fc7d672ed54a11cb86800649ae279f70b076b7189c21607833b9ec617f57c11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartório Notarial
+- Cofre dos Conservadores Notários e Funcionários da Justiça
+- Cofre Geral dos Tribunais
+- Conservador
+- Funcionário Público
+- Notário
+- Pessoal Auxiliar
+- Pessoal de Justiça
+- Serviços de Registo e Notariado
+- Subsídio Eventual de Custo de VIDA
+relationships:
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:25Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +106,20 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É aplicável aos conservadores, notários, funcionários de justiça, pessoal auxiliar das conservatórias, cartórios e secretarias notariais, bem como a todos os servidores remunerados pelo Cofre Geral dos Tribunais e pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, o disposto nos artigos 2.º e 4.º e nos n.os 1.º e 2.º do artigo 6.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
+Artigo 1.º - 1. É aplicável aos conservadores, notários, funcionários de justiça, pessoal auxiliar das conservatórias, cartórios e secretarias notariais, bem como a todos os servidores remunerados pelo Cofre Geral dos Tribunais e pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, o disposto nos artigos 2.º e 4.º e nos n.os 1.º e 2.º do artigo 6.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
 
 2. As taxas de subsídio eventual incidem sobre a parte fixa da remuneração que compete aos funcionários e são as correspondentes aos escalões, previstos naquele diploma, em cujos limites ficar compreendida a mesma parte fixa.
 
 3. Quando a parte fixa da remuneração for equidistante dos limites de dois escalões, aplicar-se-á a taxa mais elevada.
 
-###### Art. 2.º - 1. O subsídio eventual de custo de vida não é computado para os efeitos do disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 44330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44330-1962-545667), de 8 de Maio de 1962.
+Art. 2.º - 1. O subsídio eventual de custo de vida não é computado para os efeitos do disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 44330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44330-1962-545667), de 8 de Maio de 1962.
 
 2. As horas extraordinárias e os subsídios de residência que, nos termos legais, sejam abonados em função do vencimento continuarão a ser processados com base nos vencimentos actualmente devidos.
 
-###### Art. 3.º A satisfação do subsídio eventual de custo de vida constitui encargo total dos Cofres a que se refere o artigo 1.º
+Art. 3.º A satisfação do subsídio eventual de custo de vida constitui encargo total dos Cofres a que se refere o artigo 1.º
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 de Setembro de 1966.
+Art. 4.º O presente diploma entra em vigor no dia 1 de Setembro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

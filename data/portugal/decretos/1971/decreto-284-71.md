@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/284-1971-643152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68745b5d406f979c92bc960bab101fe6de39286ef0e8dddbea9b4c90e99ea40e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bad8391aa65ba0bec81175cc70947ff7ccb9264763f6df5c7b2caca54de88cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322683:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:03Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +109,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 56.º, 58.º, 61.º, 64.º e 71.º do Regulamento da Direcção-Geral dos Serviços Tutelares de Menores, aprovado pelo [Decreto n.º 44289](https://diariodarepublica.pt/dr/detalhe/decreto/44289-1962-322683), de 20 de Abril de 1962, passam a ter a seguinte redacção:
+Artigo único. Os artigos 56.º, 58.º, 61.º, 64.º e 71.º do Regulamento da Direcção-Geral dos Serviços Tutelares de Menores, aprovado pelo [Decreto n.º 44289](https://diariodarepublica.pt/dr/detalhe/decreto/44289-1962-322683), de 20 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 56.º - 1. ...
+Art. 56.º - 1. ...
 
 2. ...
 
@@ -105,13 +121,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 58.º - 1. ...
+Art. 58.º - 1. ...
 
 2. As funções de director do Instituto de Navarro de Paiva serão exercidas, em regime de acumulação e mediante a gratificação fixada no mapa n.º 2 anexo ao [Decreto-Lei n.º 44287](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44287-1962-322681), pelo funcionário do quadro do estabelecimento ou dos quadros únicos da Direcção-Geral que o Ministro da Justiça designar.
 
 ...
 
-###### Art. 61.º - 1. Os lugares de educador de 2.ª classe serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados com o curso do magistério primário ou com o curso adequado da Escola Prática de Ciências Criminais.
+Art. 61.º - 1. Os lugares de educador de 2.ª classe serão providos, mediante concurso documental e em regime de estágio por dois anos, entre indivíduos habilitados com o curso do magistério primário ou com o curso adequado da Escola Prática de Ciências Criminais.
 
 2. Na falta de candidatos com as habilitações exigidas, podem ser contratados no mesmo regime os que tiverem a habilitação mínima do 2.º ciclo dos liceus ou equivalente e a idoneidade necessária.
 
@@ -119,11 +135,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 64.º - Os lugares de psicólogo serão providos, em regime de estágio por dois anos, em licenciados em Medicina ou em Letras, que, em qualquer dos casos, possuam o curso de Ciências Pedagógicas da Faculdade de Letras ou tenham frequentado com aproveitamento um curso de especialização da Escola Prática de Ciências Criminais.
+Art. 64.º - Os lugares de psicólogo serão providos, em regime de estágio por dois anos, em licenciados em Medicina ou em Letras, que, em qualquer dos casos, possuam o curso de Ciências Pedagógicas da Faculdade de Letras ou tenham frequentado com aproveitamento um curso de especialização da Escola Prática de Ciências Criminais.
 
 ...
 
-###### Art. 71.º - 1. Os lugares de enfermeiro de qualquer classe serão providos, mediante concurso documental, entre indivíduos habilitados com o curso de enfermagem geral.
+Art. 71.º - 1. Os lugares de enfermeiro de qualquer classe serão providos, mediante concurso documental, entre indivíduos habilitados com o curso de enfermagem geral.
 
 2. Na falta de candidatos ao lugar de enfermeiro, poderão contratar-se tantos auxiliares de enfermagem de 1.ª classe quantos os lugares vagos de enfermeiro.
 
@@ -133,8 +149,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 15 de Junho de 1971.**
+Promulgado em 15 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

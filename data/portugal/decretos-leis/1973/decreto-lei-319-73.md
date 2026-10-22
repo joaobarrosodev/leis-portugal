@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1973-421019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dc602742094c865bedbe29fe627b3717bcb5b19f543d876afccb6534238476e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eead94437addbc5a5aebd7cde9e343b437a9e1dc7c26ebda238d29794fd1cb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Serviço Público
+- Televisão
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:168988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:168988:por
+  label: "Revogado, na parte relativa a Angola, pelo DEC LEI.677/74.29.11.1974.MCINT, DG.IS [278-Supl] de 29.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/677-1974-168988
+  date: '1974-11-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:26Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +116,17 @@ Verificada, porém, a conveniência, nessa extensão, da constituição de novas
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valor como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Governo, ouvido o Governo de cada província ultramarina interessada e de acordo com o disposto no [Decreto-Lei n.º 40341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40341-1955-245369) em tudo quanto não contrariar o presente diploma, promoverá com a Radiotelevisão Portuguesa, S. A. R. L., a constituição de sociedades anónimas de responsabilidade limitada em conformidade com o disposto na [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, com as quais contratará a concessão do serviço público de televisão nos territórios de cada uma das províncias ultramarinas, nos termos das bases anexas a este diploma e que dele fazem parte integrante.
+Artigo 1.º - 1. O Governo, ouvido o Governo de cada província ultramarina interessada e de acordo com o disposto no [Decreto-Lei n.º 40341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40341-1955-245369) em tudo quanto não contrariar o presente diploma, promoverá com a Radiotelevisão Portuguesa, S. A. R. L., a constituição de sociedades anónimas de responsabilidade limitada em conformidade com o disposto na [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, com as quais contratará a concessão do serviço público de televisão nos territórios de cada uma das províncias ultramarinas, nos termos das bases anexas a este diploma e que dele fazem parte integrante.
 
 2. Quando se mostre conveniente, poderá o Governo, ouvidos os Governos das províncias ultramarinas interessadas, afectar a uma mesma concessionária a exploração da televisão em mais de uma província ou deferir essa exploração à Radiotelevisão Portuguesa, S. A. R. L.
 
 3. O capital de cada sociedade será distribuído do seguinte modo: uma percentagem não inferior a 51%, a repartir entre o Governo da correspondente província e a RTP - Radiotelevisão Portuguesa, S. A. R. L.; o restante para a radiodifusão local e o público, na proporção que vier a ser determinada em cada contrato de concessão e conforme as directrizes que, para o efeito, vierem a ser definidas pelo Governo da respectiva província.
 
-###### Art. 2.º - 1. Ficam os Governos das províncias ultramarinas autorizados a subscrever a quantia com que estas entendam dever participar no capital das respectivas sociedades concessionárias.
+Art. 2.º - 1. Ficam os Governos das províncias ultramarinas autorizados a subscrever a quantia com que estas entendam dever participar no capital das respectivas sociedades concessionárias.
 
 2. O título constitutivo das sociedades concessionárias e os contratos de concessão, bem como os actos e documentos a eles relativos, serão isentos de todos os impostos, incluindo o do selo.
 
-###### Art. 3.º - 1. Os corpos gerentes das sociedades concessionárias do serviço público consideradas neste diploma serão constituídos, exclusivamente, por cidadãos portugueses originários ou naturalizados há mais de dez anos.
+Art. 3.º - 1. Os corpos gerentes das sociedades concessionárias do serviço público consideradas neste diploma serão constituídos, exclusivamente, por cidadãos portugueses originários ou naturalizados há mais de dez anos.
 
 2. O Governo, mediante proposta do Ministro do Ultramar, ouvido o Governador da respectiva província, reserva-se a faculdade de nomear um ou dois administradores das sociedades concessionárias, consoante o respectivo conselho de administração seja composto de três ou de cinco membros, e de designar o delegado do Governo junto das mesmas sociedades.
 
@@ -113,19 +134,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os membros dos corpos gerentes, de nomeação do Governo, exercerão as suas funções por períodos de três anos, podendo ser reconduzidos, e são amovíveis a todo o tempo, conforme a legislação em vigor.
 
-###### Art. 4.º - 1. A utilização ou simples detenção de aparelhos receptores de televisão nos territórios das províncias ultramarinas obriga, salvo nos casos de isenção previstos na lei, ao pagamento de uma taxa denominada «taxa de televisão», cujo quantitativo será fixado em despacho dos respectivos Governadores.
+Art. 4.º - 1. A utilização ou simples detenção de aparelhos receptores de televisão nos territórios das províncias ultramarinas obriga, salvo nos casos de isenção previstos na lei, ao pagamento de uma taxa denominada «taxa de televisão», cujo quantitativo será fixado em despacho dos respectivos Governadores.
 
 2. O licenciamento e a cobrança desta taxa serão feitos pela entidade oficial que o Governador de cada província ultramarina designar e o produto da cobrança será por esta entregue à respectiva concessionária depois de deduzida uma percentagem a fixar por despacho do Governador da província a que respeitar, para despesas de cobrança e outras, podendo a concessionária ser chamada a cooperar nas tarefas relacionadas com os mencionados serviços.
 
-###### Art. 5.º Os Governadores das províncias ultramarinas farão publicar os regulamentos necessários à boa execução do presente decreto-lei, observando-se, entretanto, as disposições legais e regulamentares relativas a instalações de radiodifusão, designadamente os Decretos n.os 22783 e 22784, de 29 de Junho de 1933, e n.º 41486, de 30 de Dezembro de 1957, além da legislação em vigor em cada uma daquelas províncias.
+Art. 5.º Os Governadores das províncias ultramarinas farão publicar os regulamentos necessários à boa execução do presente decreto-lei, observando-se, entretanto, as disposições legais e regulamentares relativas a instalações de radiodifusão, designadamente os Decretos n.os 22783 e 22784, de 29 de Junho de 1933, e n.º 41486, de 30 de Dezembro de 1957, além da legislação em vigor em cada uma daquelas províncias.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Junho de 1973.**
+Promulgado em 15 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -355,4 +376,4 @@ BASE XX
 
 4. As despesas efectuadas com a constituição e funcionamento do tribunal arbitral serão suportadas pela parte vencida, na proporção em que o for.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

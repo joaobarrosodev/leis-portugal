@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29900/33923392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1981-566998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9859c1dcbce462bd76cc84320110d3a4cfdd0af0ac1bc77652ae103264f291cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d1d0c393869366e42b92356a39fd5b509805758814ee0bf5c4890cea1e913e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Empregos
+- Escola Naval
+- Pessoal Docente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:278721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687620:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:09Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +120,17 @@ Nestes termos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os docentes civis universitários ou personalidades civis ligadas ao ensino ou à investigação contratados nas condições do n.º 4 do artigo 13.º do [Decreto-Lei n.º 417/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1977-278721), de 3 de Outubro, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 258-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-a-1979-345904), de 30 de Julho, terão direito a uma remuneração compreendida entre 20% e 60% do vencimento fixado no artigo 3.º do [Decreto-Lei n.º 45304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45304-1963-687620), de 14 de Outubro de 1963, para os professores civis que não acumulem as suas funções na Escola Naval com outras funções públicas estranhas à mesma, em correspondência com o número de horas de serviço docente a prestar semanalmente e que será fixado entre um mínimo de 8 e um máximo de 22, incluindo aulas, sua preparação e apoio aos alunos, limites a que corresponderão respectivamente 2 e 6 horas de serviço de aulas.
+Artigo 1.º Os docentes civis universitários ou personalidades civis ligadas ao ensino ou à investigação contratados nas condições do n.º 4 do artigo 13.º do [Decreto-Lei n.º 417/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1977-278721), de 3 de Outubro, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 258-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-a-1979-345904), de 30 de Julho, terão direito a uma remuneração compreendida entre 20% e 60% do vencimento fixado no artigo 3.º do [Decreto-Lei n.º 45304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45304-1963-687620), de 14 de Outubro de 1963, para os professores civis que não acumulem as suas funções na Escola Naval com outras funções públicas estranhas à mesma, em correspondência com o número de horas de serviço docente a prestar semanalmente e que será fixado entre um mínimo de 8 e um máximo de 22, incluindo aulas, sua preparação e apoio aos alunos, limites a que corresponderão respectivamente 2 e 6 horas de serviço de aulas.
 
-###### Art. 2.º Sempre que se revele conveniente e, designadamente, por falta de professores nas condições enunciadas no artigo 1.º, poderão, também, ser contratados como docentes para as cadeiras de natureza académica:
+Art. 2.º Sempre que se revele conveniente e, designadamente, por falta de professores nas condições enunciadas no artigo 1.º, poderão, também, ser contratados como docentes para as cadeiras de natureza académica:
 
 a) Personalidades civis que desempenhem outras funções no âmbito do sector da administração pública estranhas ao serviço da Escola Naval, mediante convite dirigido pelo Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval, ouvido o titular do departamento;
 
 b) Personalidades civis que desempenhem outras funções e que pelas suas qualificações estejam especialmente habilitadas para as funções docentes, mediante convite dirigido pelo Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval.
 
-###### Art. 3.º Aos docentes contratados nas condições do artigo anterior é aplicável o disposto no artigo 1.º
+Art. 3.º Aos docentes contratados nas condições do artigo anterior é aplicável o disposto no artigo 1.º
 
-###### Art. 4.º Os contratos do pessoal docente previstos no presente diploma apenas podem ser rescindidos nas seguintes condições:
+Art. 4.º Os contratos do pessoal docente previstos no presente diploma apenas podem ser rescindidos nas seguintes condições:
 
 a) Denúncia, por qualquer das partes, até 30 dias antes do termo do respectivo prazo;
 
@@ -119,18 +140,18 @@ c) Mútuo acordo, a todo o tempo;
 
 d) Por decisão final proferida na sequência de processo disciplinar.
 
-###### Art. 5.º As dúvidas e os casos omissos resultantes da aplicação deste diploma serão resolvidos por despacho do Chefe do Estado-Maior da Armada.
+Art. 5.º As dúvidas e os casos omissos resultantes da aplicação deste diploma serão resolvidos por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 6.º Os encargos resultantes da aplicação do presente diploma serão suportados, no corrente ano económico, pelas dotações orçamentais da Escola Naval consignadas no pagamento destas remunerações.
+Art. 6.º Os encargos resultantes da aplicação do presente diploma serão suportados, no corrente ano económico, pelas dotações orçamentais da Escola Naval consignadas no pagamento destas remunerações.
 
-###### Art. 7.º É revogado o artigo 4.º do [Decreto-Lei n.º 45304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45304-1963-687620), de 14 de Outubro de 1963.
+Art. 7.º É revogado o artigo 4.º do [Decreto-Lei n.º 45304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45304-1963-687620), de 14 de Outubro de 1963.
 
-###### Art. 8.º O presente decreto-lei produz efeitos em relação a todos os contratos celebrados relativamente aos anos lectivos de 1980-1981 e seguintes.
+Art. 8.º O presente decreto-lei produz efeitos em relação a todos os contratos celebrados relativamente aos anos lectivos de 1980-1981 e seguintes.
 
 Visto e aprovado em Conselho da Revolução em 9 de Dezembro de 1981.
 
-**Promulgado em 14 de Dezembro de 1981.**
+Promulgado em 14 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

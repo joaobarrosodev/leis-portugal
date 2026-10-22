@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/21-1984-385057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a269db0544f33bb0feb5d90f2fa47156786cd32f9cea2acba92d06da42234275
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7acd2aacbd5e7ffda218449738f833d8bac1f6d220976ca5f18f19b7c2acdeaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Convenção
+- França
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:50Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +92,19 @@ de 9 de Maio
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Ministério do Equipamento Social da República Portuguesa e o Ministério dos Correios, das Telecomunicações e da Teledifusão da República Francesa Relativo à Construção de Um Sistema de Cabo Submarino entre Portugal e a França, assinado em Lisboa em 3 de Fevereiro de 1984, em 2 exemplares originais, um em português e outro em francês, que acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Ministério do Equipamento Social da República Portuguesa e o Ministério dos Correios, das Telecomunicações e da Teledifusão da República Francesa Relativo à Construção de Um Sistema de Cabo Submarino entre Portugal e a França, assinado em Lisboa em 3 de Fevereiro de 1984, em 2 exemplares originais, um em português e outro em francês, que acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1984. - Mário Soares - Jaime José Matos da Gama - João Rosado Correia.
 
-**Assinado em 24 de Abril de 1984.**
+Assinado em 24 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Abril de 1984.**
+Referendado em 26 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Acordo Relativo à Construção de Um Sistema de Cabo Submarino entre Portugal e França
 
@@ -116,11 +120,11 @@ A ligação submarino França-Portugal n.º 2 utilizará a tecnologia das fibras
 
 A configuração da ligação será estabelecida em função dos resultados dos estudos de tráfego em curso e do número de estações terminais em cada um dos países. Ela será, em princípio, constituída pelas 3 secções seguintes:
 
-#### Secção 1: estação(ões) terminal(ais) em França;
+Secção 1: estação(ões) terminal(ais) em França;
 
-#### Secção 2: sistema submarino compreendido entre os pontos de junção a 140 Mbit/s (referência aviso G 703 parag. 9 do livro amarelo do CCITT) de ou da(s) estação(ões) terminal(ais) em França e os pontos correspondentes de ou da(s) estação(ões) terminal(ais) em Portugal. Será realizado sob a responsabilidade da Sociedade Portuguesa de Cabos Telefónicos Submarinos, SUBTEL;
+Secção 2: sistema submarino compreendido entre os pontos de junção a 140 Mbit/s (referência aviso G 703 parag. 9 do livro amarelo do CCITT) de ou da(s) estação(ões) terminal(ais) em França e os pontos correspondentes de ou da(s) estação(ões) terminal(ais) em Portugal. Será realizado sob a responsabilidade da Sociedade Portuguesa de Cabos Telefónicos Submarinos, SUBTEL;
 
-#### Secção 3: estação(ões) terminal(ais) em Portugal.
+Secção 3: estação(ões) terminal(ais) em Portugal.
 
 ###### ARTIGO 3.º — Acordo de construção
 
@@ -144,11 +148,11 @@ Feito em Lisboa, no dia 3 de Fevereiro de 1984, em 2 exemplares originais, um em
 
 Pelo Governo da República Portuguesa:
 
-**O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Equipamento Social, João Rosado Correia.
 
 Pelo Governo da República Francesa:
 
-**O Ministro dos Correios, das Telecomunicações e da Teledifusão, (Assinatura ilegível.)**
+O Ministro dos Correios, das Telecomunicações e da Teledifusão, (Assinatura ilegível.)
 
 Accord Relatif à la Construction d'Un Système de Câble Sous-Marin entre le Portugal et la France
 

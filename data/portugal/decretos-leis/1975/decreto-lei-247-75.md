@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1975-336085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6ce00b8e4d07b8ec964417bdb48f890d90cbc22bf95ef356725f766f2df95a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d931d9ab5399069368db6921e2045736aa2b55f4ed35848978b6db1cdb1a4a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Militar
+- Tomar
+- Transferência de Serviços
+- Viseu
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:38Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +94,18 @@ Considerando a necessidade de transferir para Tomar a Casa de Reclusão da Regi�
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Casa de Reclusão da Região Militar de Coimbra é transferida para Tomar.
+Artigo 1.º A Casa de Reclusão da Região Militar de Coimbra é transferida para Tomar.
 
-###### Art. 2.º A transferência, de Viseu para Tomar, da Casa de Reclusão da Região Militar de Coimbra considera-se referida a 16 de Dezembro de 1974.
+Art. 2.º A transferência, de Viseu para Tomar, da Casa de Reclusão da Região Militar de Coimbra considera-se referida a 16 de Dezembro de 1974.
 
-###### Art. 3.º A presente Casa de Reclusão passa a designar-se por Casa de Reclusão da Região Militar do Centro.
+Art. 3.º A presente Casa de Reclusão passa a designar-se por Casa de Reclusão da Região Militar do Centro.
 
-###### Art. 4.º À Casa de Reclusão da Região Militar do Centro compete receber e administrar os reclusos da Região Militar do Centro, cujas penas impliquem internamento em casa de reclusão ou aguardem julgamento no Tribunal Militar Territorial de Tomar.
+Art. 4.º À Casa de Reclusão da Região Militar do Centro compete receber e administrar os reclusos da Região Militar do Centro, cujas penas impliquem internamento em casa de reclusão ou aguardem julgamento no Tribunal Militar Territorial de Tomar.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 13 de Maio de 1975.**
+Promulgado em 13 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

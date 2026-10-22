@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/07/16000/13371342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47791-1967-314257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec698ad7845f1f9796ad4b420b0340f3b3f4169655018fc6448f9c23e2313c6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b08d6216ce59ae176e3a5d98cfcf0ebf12b076f0704f6cfa7ac585ddd243b70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jnict
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:354088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631398:por
+  label: "Dada nova redacção ao art. 5º e ao § único do art. 18º deste diploma pelo DEC LEI.466/71.05.11.1971.PC, DG.IS [260]\
+    \ de 05.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/466-1971-631398
+  date: '1971-11-05'
+- type: amended_by
+  target: pt:dre:157179:por
+  label: "Alterados os artigos 5.º, 6.º, 7.º e 8.º, pelo DEC LEI.519-S1/79.1979.12.29.MCCI, DR.IS [299]6ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-s1-1979-157179
+  date: '1979-12-29'
+- type: amended_by
+  target: pt:dre:459589:por
+  label: "Substituído o quadro de pessoal, a partir da entrada em vigor do Dec Lei 191-C/79 de 25-Jun e até total integração\
+    \ do pessoal no quadro aprovado pelo Dec Lei 519-S1/79, pela PORT.1089/80.1980.12.22.PCM DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1089-1980-459589
+  date: '1980-12-22'
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510670:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:391052:por
+  label: "Rectificado pela RECT.DD535.18.09.1967.PC, DG.IS [218] de 18.09.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-391052
+  date: '1967-09-08'
+- type: repealed_by
+  target: pt:dre:146953:por
+  label: "Revogados o parágrafo 5 do art. 6.º, na redacção dada pelo Dec Lei 48204 de 16/Jan/1968, e alterada a al. 1) do\
+    \ art. 3.º e os arts. 19.º e 22.º pelo DEC LEI.601/70.1970.12.05.PC DG.IS [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/601-1970-146953
+  date: '1970-12-05'
+- type: repealed_by
+  target: pt:dre:354088:por
+  label: "Revogado pelo DEC LEI.374/88.1988.10.21.MPAT DR.IS [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1988-354088
+  date: '1988-10-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:41Z'
   warnings: []
   errors: []
 ---
@@ -163,9 +206,9 @@ I
 
 Natureza, fins e atribuições
 
-###### Artigo 1.º É criada na Presidência do Conselho, e na dependência directa do Presidente do Conselho, a Junta Nacional de Investigação Científica e Tecnológica, organismo com personalidade jurídica e autonomia administrativa e financeira, que tem por funções planear, coordenar e fomentar a investigação científica e tecnológica no território nacional.
+Artigo 1.º É criada na Presidência do Conselho, e na dependência directa do Presidente do Conselho, a Junta Nacional de Investigação Científica e Tecnológica, organismo com personalidade jurídica e autonomia administrativa e financeira, que tem por funções planear, coordenar e fomentar a investigação científica e tecnológica no território nacional.
 
-###### Art. 2.º São atribuições da Junta:
+Art. 2.º São atribuições da Junta:
 
 a) Dar parecer ao Presidente do Conselho sobre as bases em que deve assentar a definição da política científica nacional;
 
@@ -187,7 +230,7 @@ i) Coordenar, em colaboração com o Ministério dos Negócios Estrangeiros, a r
 
 § único. Estas funções serão exercidas com o objectivo de evitar dispersão de esforços e gastos, sem prejuízo da acção dos organismos de fomento da investigação, dentro dos limites da coordenação geral a estabelecer pela Junta, bem como da autonomia científica das Universidades e Estudos Gerais Universitários e dos centros ou institutos de investigação a eles ligados.
 
-###### Art. 3.º Para os efeitos do disposto no artigo anterior, compete à Junta proceder aos estudos, inquéritos e outros trabalhos destinados à realização dos seus fins, assim como propor ao Governo as providências necessárias ao desempenho das suas atribuições e, designadamente:
+Art. 3.º Para os efeitos do disposto no artigo anterior, compete à Junta proceder aos estudos, inquéritos e outros trabalhos destinados à realização dos seus fins, assim como propor ao Governo as providências necessárias ao desempenho das suas atribuições e, designadamente:
 
 a) Propor ao Presidente do Conselho as medidas conducentes à realização da política científica nacional;
 
@@ -215,7 +258,7 @@ II
 
 Dos órgãos da Junta
 
-###### Art. 4.º São órgãos da Junta Nacional de Investigação Científica e Tecnológica:
+Art. 4.º São órgãos da Junta Nacional de Investigação Científica e Tecnológica:
 
 a) O presidente;
 
@@ -225,11 +268,11 @@ c) A comissão executiva;
 
 d) O conselho administrativo.
 
-###### Art. 5.º O presidente da Junta é de livre nomeação do Presidente do Conselho, de entre personalidades que exerçam ou tenham exercido o magistério universitário ou funções de direcção dos organismos científicos, públicos ou privados.
+Art. 5.º O presidente da Junta é de livre nomeação do Presidente do Conselho, de entre personalidades que exerçam ou tenham exercido o magistério universitário ou funções de direcção dos organismos científicos, públicos ou privados.
 
 § único. A nomeação será feita por períodos de três anos, renováveis, sem prejuízo da exoneração a todo o tempo.
 
-###### Art. 6.º O conselho geral é composto pelo presidente da Junta, que presidirá, e pelos vogais seguintes:
+Art. 6.º O conselho geral é composto pelo presidente da Junta, que presidirá, e pelos vogais seguintes:
 
 a) O presidente da Junta de Energia Nuclear;
 
@@ -271,23 +314,23 @@ p) Dois representantes da investigação científica e tecnológica do sector pr
 
 § 5.º Servirá de secretário do conselho geral um funcionário da Presidência do Conselho, designado pelo Presidente do Conselho.
 
-###### Art. 7.º O conselho geral reunirá, pelo menos, três vezes por ano e sempre que o presidente da Junta o convoque.
+Art. 7.º O conselho geral reunirá, pelo menos, três vezes por ano e sempre que o presidente da Junta o convoque.
 
-###### Art. 8.º A comissão executiva é formada pelo presidente da Junta e pelos vogais indicados nas alíneas a), e), f), n) e o) do artigo 6.º
+Art. 8.º A comissão executiva é formada pelo presidente da Junta e pelos vogais indicados nas alíneas a), e), f), n) e o) do artigo 6.º
 
 § 1.º A comissão executiva reunirá pelo menos uma vez por mês, e às suas reuniões assistirá um delegado do Tribunal de Contas, bem como quaisquer outros membros da Junta eventualmente designados para cada reunião pelo presidente.
 
 § 2.º Servirá de secretário da comissão executiva o secretário do conselho geral.
 
-###### Art. 9.º O conselho administrativo é constituído pelo presidente da Junta, pelo representante no conselho geral do Ministro das Finanças e pelo secretário do conselho geral.
+Art. 9.º O conselho administrativo é constituído pelo presidente da Junta, pelo representante no conselho geral do Ministro das Finanças e pelo secretário do conselho geral.
 
-###### Art. 10.º A competência dos órgãos directivos será fixada em regulamento.
+Art. 10.º A competência dos órgãos directivos será fixada em regulamento.
 
 III
 
 Dos meios financeiros e da administração
 
-###### Art. 11.º Constituem receitas da Junta:
+Art. 11.º Constituem receitas da Junta:
 
 a) As dotações do Estado e os subsídios ou donativos que receber de qualquer outra proveniência, nacional ou estrangeira;
 
@@ -299,36 +342,36 @@ d) Quaisquer outras que legalmente lhe pertençam ou sejam atribuídas.
 
 § único. Os saldos das receitas referidas neste artigo podem ser despendidos pela Junta nos anos económicos seguintes àqueles a que disserem respeito.
 
-###### Art. 12.º A Junta arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos que legalmente lhe caibam.
+Art. 12.º A Junta arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos que legalmente lhe caibam.
 
-###### Art. 13.º Logo que haja dotação orçamental correspondente, o conselho administrativo requisitará mensalmente à 1.ª Repartição da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações consignadas à Junta no Orçamento Geral do Estado; essas requisições, depois de visadas pela mesma Repartição, serão expedidas com as competentes autorizações de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo as respectivas importâncias levantadas pela Junta e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 13.º Logo que haja dotação orçamental correspondente, o conselho administrativo requisitará mensalmente à 1.ª Repartição da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações consignadas à Junta no Orçamento Geral do Estado; essas requisições, depois de visadas pela mesma Repartição, serão expedidas com as competentes autorizações de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo as respectivas importâncias levantadas pela Junta e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 14.º Os levantamento de fundos serão feitos por meio de cheques. Os pagamentos serão também efectuados, em regra, por meio de cheques, e estes entregues em troca dos competentes recibos, devidamente legalizados.
+Art. 14.º Os levantamento de fundos serão feitos por meio de cheques. Os pagamentos serão também efectuados, em regra, por meio de cheques, e estes entregues em troca dos competentes recibos, devidamente legalizados.
 
-###### Art. 15.º Ao Tribunal de Contas será enviada, até 31 de Maio de cada ano, a conta de gerência da Junta, assinada pelo conselho administrativo.
+Art. 15.º Ao Tribunal de Contas será enviada, até 31 de Maio de cada ano, a conta de gerência da Junta, assinada pelo conselho administrativo.
 
-###### Art. 16.º A acção do Tribunal de Contas na Junta exerce-se por meio do seu delegado na comissão executiva, ficando apenas sujeitos a visto prévio do referido Tribunal os diplomas referentes a pessoal que venha a ser pago pela dotação orçamental da Junta e os contratos de qualquer natureza que tragam encargos para o Estado.
+Art. 16.º A acção do Tribunal de Contas na Junta exerce-se por meio do seu delegado na comissão executiva, ficando apenas sujeitos a visto prévio do referido Tribunal os diplomas referentes a pessoal que venha a ser pago pela dotação orçamental da Junta e os contratos de qualquer natureza que tragam encargos para o Estado.
 
 IV
 
 Disposições gerais
 
-###### Art. 17.º Enquanto não for constituído o quadro de pessoal da Junta, os respectivos serviços serão assegurados pela Secretaria-Geral da Presidência do Conselho.
+Art. 17.º Enquanto não for constituído o quadro de pessoal da Junta, os respectivos serviços serão assegurados pela Secretaria-Geral da Presidência do Conselho.
 
-###### Art. 18.º O cargo de presidente da Junta pode ser remunerado nas condições fixadas pelo Presidente do Conselho, ouvido o Ministro das Finanças, e fica incluído no n.º 1.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
+Art. 18.º O cargo de presidente da Junta pode ser remunerado nas condições fixadas pelo Presidente do Conselho, ouvido o Ministro das Finanças, e fica incluído no n.º 1.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
 
 § único. Se o presidente da Junta for funcionário público poderá, a seu pedido, ser dispensado do exercício das respectivos funções, deixando, nesse caso, de perceber as remunerações correspondentes, mas conservando o direito à contagem do tempo como presidente da Junta, para todos os efeitos legais, incluindo a aposentação, desde que o interessado efectue o pagamento das importâncias devidas à Caixa Geral de Aposentações, com base no vencimento do cargo de cujo exercício for dispensado.
 
-###### Art. 19.º Os vogais do conselho geral terão direito a senhas de presença e o secretário da Junta a uma gratificação mensal, cujos quantitativos serão fixados pelo Presidente do Conselho.
+Art. 19.º Os vogais do conselho geral terão direito a senhas de presença e o secretário da Junta a uma gratificação mensal, cujos quantitativos serão fixados pelo Presidente do Conselho.
 
-###### Art. 20.º Os vogais do conselho geral, quando em serviço se desloquem no País, terão direito aos transportes e ajudas de custo correspondentes à sua categoria como funcionários públicos.
+Art. 20.º Os vogais do conselho geral, quando em serviço se desloquem no País, terão direito aos transportes e ajudas de custo correspondentes à sua categoria como funcionários públicos.
 
-###### Art. 21.º Os delegados nacionais em missão de serviço no estrangeiro terão direito aos transportes e ajudas de custo correspondentes à categoria de director-geral.
+Art. 21.º Os delegados nacionais em missão de serviço no estrangeiro terão direito aos transportes e ajudas de custo correspondentes à categoria de director-geral.
 
-###### Art. 22.º A Junta poderá contratar, assalariar ou subvencionar pessoal científico, técnico e auxiliar, nacional ou estrangeiro, necessário à prossecução dos seus fins.
+Art. 22.º A Junta poderá contratar, assalariar ou subvencionar pessoal científico, técnico e auxiliar, nacional ou estrangeiro, necessário à prossecução dos seus fins.
 
-###### Art. 23.º Pelo Ministério das Finanças serão imediatamente abertos os créditos necessários à execução do presente diploma.
+Art. 23.º Pelo Ministério das Finanças serão imediatamente abertos os créditos necessários à execução do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha- Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

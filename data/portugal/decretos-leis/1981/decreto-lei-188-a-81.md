@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 149/1981, 1º Suplemento, Série I de 1981-07-02
   number: '149'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1566-(1) a 1566-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/14901/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-a-1981-516031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ddfd116be1e1ef63b06834ca965114957a2ef3353af1a1af2904c2cfcb56f68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e4ed35d00dfcf0d4a8bea371efbb46f9292285f4bfbf9dbc4d91637b48c7a97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Criação de Lugares
+- Força Aérea
+- Militar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:388979:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:16Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +112,15 @@ Considerando o disposto no [Decreto-Lei n.º 75/81](https://diariodarepublica.pt
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para prover cargos de comando, direcção ou chefia, cujas funções não sejam consideradas obrigatoriamente privativas de certas especialidades e para se conseguir um melhor enquadramento do conjunto geral das actividades da Força Aérea, é constituído um quadro com o efectivo de 6 coronéis.
+Artigo 1.º - 1 - Para prover cargos de comando, direcção ou chefia, cujas funções não sejam consideradas obrigatoriamente privativas de certas especialidades e para se conseguir um melhor enquadramento do conjunto geral das actividades da Força Aérea, é constituído um quadro com o efectivo de 6 coronéis.
 
 2 - Os cargos previstos no n.º 1, bem como as respectivas funções, serão definidos por despacho do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 2.º - 1 - O preenchimento do quadro referido no n.º 1 do artigo 1.º faz-se pela promoção, por escolha, mediante parecer da Comissão Técnica da Força Aérea (CTFA), de tenentes-coronéis de qualquer dos quadros de oficiais técnicos da Força Aérea ou do serviço geral pára-quedista, desde que possuam as condições adequadas ao desempenho dos cargos a prover.
+Art. 2.º - 1 - O preenchimento do quadro referido no n.º 1 do artigo 1.º faz-se pela promoção, por escolha, mediante parecer da Comissão Técnica da Força Aérea (CTFA), de tenentes-coronéis de qualquer dos quadros de oficiais técnicos da Força Aérea ou do serviço geral pára-quedista, desde que possuam as condições adequadas ao desempenho dos cargos a prover.
 
 2 - O parecer da Comissão Técnica da Força Aérea deverá ter em conta as funções genéricas do posto de coronel e as funções específicas dos cargos a prover.
 
-###### Art. 3.º As condições especiais de promoção a coronel para o quadro referido no n.º 1 do artigo 1.º são as seguintes:
+Art. 3.º As condições especiais de promoção a coronel para o quadro referido no n.º 1 do artigo 1.º são as seguintes:
 
 a) Doze anos de tempo mínimo de serviço efectivo, contados a partir da promoção a tenente;
 
@@ -116,18 +130,18 @@ c) Ter desempenhado como oficial superior, durante o período mínimo de dois an
 
 d) Ter demonstrado reconhecida competência no exercício de funções de oficial superior afins às dos cargos a prover ou possuir reconhecida capacidade para o desempenho das funções inerentes a esses cargos.
 
-###### Art. 4.º O limite de idade para passagem à situação de reserva, a que se refere o artigo 71.º do Estatuto do Oficial da Força Aérea (EOFAP), dos coronéis que integram o quadro referido neste diploma é de 62 anos.
+Art. 4.º O limite de idade para passagem à situação de reserva, a que se refere o artigo 71.º do Estatuto do Oficial da Força Aérea (EOFAP), dos coronéis que integram o quadro referido neste diploma é de 62 anos.
 
-###### Art. 5.º Quando, por razões especiais, haja de ser aplicado o disposto no n.º 2 do artigo 73.º do EOFAP, em relação aos coronéis promovidos de acordo com este diploma, a sua aplicação deve, atentos os condicionalismos estabelecidos no n.º 2 do artigo 1.º, ser precedida de parecer da Comissão Técnica da Força Aérea.
+Art. 5.º Quando, por razões especiais, haja de ser aplicado o disposto no n.º 2 do artigo 73.º do EOFAP, em relação aos coronéis promovidos de acordo com este diploma, a sua aplicação deve, atentos os condicionalismos estabelecidos no n.º 2 do artigo 1.º, ser precedida de parecer da Comissão Técnica da Força Aérea.
 
-###### Art. 6.º O preenchimento das vagas disponíveis no quadro a que se refere o n.º 1 do artigo 1.º depende de determinação expressa do Chefe do Estado-Maior da Força Aérea, em função das necessidades do serviço, ouvida, quando julgado conveniente, a Comissão Técnica da Força Aérea.
+Art. 6.º O preenchimento das vagas disponíveis no quadro a que se refere o n.º 1 do artigo 1.º depende de determinação expressa do Chefe do Estado-Maior da Força Aérea, em função das necessidades do serviço, ouvida, quando julgado conveniente, a Comissão Técnica da Força Aérea.
 
-###### Art. 7.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 7.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 5 de Maio de 1981.
 
-**Promulgado em 5 de Maio de 1981.**
+Promulgado em 5 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

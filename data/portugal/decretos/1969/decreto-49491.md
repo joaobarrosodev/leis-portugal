@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49491-1969-213204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86ae301b3bec8c13441bac9de44c08f484f02207be666d4f42fd2fb8b6821dd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f77f258a21d82580b0596edf11706a5dbe42136f9e3fd704bd57bf6feb4cf088
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:12Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +93,16 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Secretaria de Estado da Informação e Turismo a celebrar contrato para a aquisição do imóvel em que se encontra instalado o Centro de Turismo de Portugal no Brasil, pela importância de 3934320$00.
+Artigo 1.º É autorizada a Secretaria de Estado da Informação e Turismo a celebrar contrato para a aquisição do imóvel em que se encontra instalado o Centro de Turismo de Portugal no Brasil, pela importância de 3934320$00.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder a quantia de 393432$00, processando-se o pagamento durante dez anos, com início no corrente ano de 1969.
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder a quantia de 393432$00, processando-se o pagamento durante dez anos, com início no corrente ano de 1969.
 
 § único. A importância fixada para um ano será acrescida do saldo apurado no ano anterior.
 
 Marcello Caetano - João Augusto Dias Rosas - César Henrique Moreira Baptista.
 
-**Promulgado em 31 de Dezembro de 1969.**
+Promulgado em 31 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

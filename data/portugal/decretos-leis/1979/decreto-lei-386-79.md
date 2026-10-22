@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21700/23982400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1979-369832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9a02f7933fb107f2f8f39816ea93bd0096fb94b29bbb452c505b07a78855621
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b368241f417a569f40269a54e0cc2054ea999a9c5b483724e40ed585c61b2f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo V
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:692986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:381117:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692986:por
+  label: "Revogado pelo DEC LEI.3/80.07.02.1980.PCM, DR.IS [32] de 07.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1980-692986
+  date: '1980-02-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:56Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +105,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Governo é constituído pelo Primeiro-Ministro, Ministros, Secretários e Subsecretários de Estado.
+Artigo 1.º - 1 - O Governo é constituído pelo Primeiro-Ministro, Ministros, Secretários e Subsecretários de Estado.
 
 2 - O Governo compreende os seguintes Ministros:
 
@@ -130,15 +141,15 @@ p) Ministro da Educação;
 
 q) Ministro da Comunicação Social.
 
-###### Art. 2.º - 1 - O Ministro da República para os Açores e o Ministro da República para a Madeira terão assento em Conselho de Ministros sempre que as reuniões tratem de assuntos de interesse para as respectivas regiões.
+Art. 2.º - 1 - O Ministro da República para os Açores e o Ministro da República para a Madeira terão assento em Conselho de Ministros sempre que as reuniões tratem de assuntos de interesse para as respectivas regiões.
 
 2 - Participam ainda nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros.
 
-###### Art. 3.º - 1 - Compete ao Ministro Adjunto para a Administração Interna, além das funções como titular do Ministério da Administração Interna, coadjuvar especialmente o Primeiro-Ministro.
+Art. 3.º - 1 - Compete ao Ministro Adjunto para a Administração Interna, além das funções como titular do Ministério da Administração Interna, coadjuvar especialmente o Primeiro-Ministro.
 
 2 - O Ministro Adjunto para a Administração Interna exercerá a competência que, no domínio da Administração Pública, é atribuída ao Primeiro-Ministro.
 
-###### Art. 4.º - 1 - Compete ao Ministro da Coordenação Económica e do Plano, ao Ministro da Coordenação Social e dos Assuntos Sociais e ao Ministro da Coordenação Cultural e da Cultura e da Ciência não só superiormente dirigir os departamentos de que são titulares como também desenvolver as acções prévias necessárias à tomada de decisões pelo Conselho de Ministros que consubstanciem uma visão integrada a nível das áreas cuja coordenação têm a seu cargo e em estreita conjugação com os Ministros responsáveis pelos sectores.
+Art. 4.º - 1 - Compete ao Ministro da Coordenação Económica e do Plano, ao Ministro da Coordenação Social e dos Assuntos Sociais e ao Ministro da Coordenação Cultural e da Cultura e da Ciência não só superiormente dirigir os departamentos de que são titulares como também desenvolver as acções prévias necessárias à tomada de decisões pelo Conselho de Ministros que consubstanciem uma visão integrada a nível das áreas cuja coordenação têm a seu cargo e em estreita conjugação com os Ministros responsáveis pelos sectores.
 
 2 - O Ministro da Coordenação Económica e do Plano, na área das funções de coordenação cometidas ao seu cargo, desenvolve a sua acção com o Ministro da Agricultura e Pescas, o Ministro da Indústria e o Ministro do Comércio e Turismo.
 
@@ -146,7 +157,7 @@ q) Ministro da Comunicação Social.
 
 4 - O Ministro da Coordenação Cultural e da Cultura e da Ciência, na área das funções específicas de coordenação cometidas ao seu cargo, desenvolve a sua acção com o Ministro da Educação e o Ministro da Comunicação Social.
 
-###### Art. 5.º - 1 - O Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros integram-se na Presidência do Conselho de Ministros.
+Art. 5.º - 1 - O Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros integram-se na Presidência do Conselho de Ministros.
 
 2 - Mantém-se na dependência orgânica da Presidência do Conselho de Ministros a Secretaria de Estado da Administração Pública, competindo a coordenação e orientação dos serviços que a constituem ao Secretário de Estado da Administração Pública, sem prejuízo do disposto no n.º 2 do artigo 3.º
 
@@ -154,15 +165,15 @@ q) Ministro da Comunicação Social.
 
 4 - Compete especificamente ao Secretário de Estado da Presidência do Conselho de Ministros coadjuvar o Primeiro-Ministro na organização e funcionamento das reuniões do Conselho de Ministros, desempenhando ainda funções de natureza especial que pelo Primeiro-Ministro lhe sejam cometidas.
 
-###### Art. 6.º O Ministério dos Negócios Estrangeiros compreende as seguintes Secretarias de Estado:
+Art. 6.º O Ministério dos Negócios Estrangeiros compreende as seguintes Secretarias de Estado:
 
 a) Negócios Estrangeiros;
 
 b) Emigração.
 
-###### Art. 7.º O Ministério da Administração Interna compreende a Secretaria de Estado da Administração Regional e Local.
+Art. 7.º O Ministério da Administração Interna compreende a Secretaria de Estado da Administração Regional e Local.
 
-###### Art. 8.º O Ministério das Finanças compreende as seguintes Secretarias de Estado:
+Art. 8.º O Ministério das Finanças compreende as seguintes Secretarias de Estado:
 
 a) Orçamento;
 
@@ -170,11 +181,11 @@ b) Tesouro;
 
 c) Finanças.
 
-###### Art. 9.º - 1 - O Ministério da Coordenação Económica e do Plano compreende a Secretaria de Estado do Plano.
+Art. 9.º - 1 - O Ministério da Coordenação Económica e do Plano compreende a Secretaria de Estado do Plano.
 
 2 - O Ministro da Coordenação Económica e do Plano superintende no funcionamento da Comissão para a Integração Europeia, ficando-lhe atribuída a competência que, nos termos do [Decreto-Lei n.º 185/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117), de 20 de Junho, e, designadamente, a referida no seu artigo 4.º, estava anteriormente cometida ao Vice-Primeiro-Ministro.
 
-###### Art. 10.º - 1 - O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
+Art. 10.º - 1 - O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
 
 a) Estruturação Agrária;
 
@@ -188,13 +199,13 @@ d) Pescas.
 
 3 - As funções do cargo de Secretário de Estado do Fomento Agrário são directamente assumidas e exercidas pelo Ministro da Agricultura e Pescas.
 
-###### Art. 11.º O Ministério da Indústria compreende as seguintes Secretarias do Estado:
+Art. 11.º O Ministério da Indústria compreende as seguintes Secretarias do Estado:
 
 a) Energia e Indústrias de Base;
 
 b) Indústrias Extractivas e Transformadoras.
 
-###### Art. 12.º O Ministério do Comércio e Turismo compreende as seguintes Secretarias de Estado:
+Art. 12.º O Ministério do Comércio e Turismo compreende as seguintes Secretarias de Estado:
 
 a) Comércio Interno;
 
@@ -202,23 +213,23 @@ b) Comércio Externo;
 
 c) Turismo.
 
-###### Art. 13.º O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
+Art. 13.º O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
 
 a) Saúde;
 
 b) Segurança Social.
 
-###### Art. 14.º O Ministério do Trabalho compreende as seguintes Secretarias de Estado:
+Art. 14.º O Ministério do Trabalho compreende as seguintes Secretarias de Estado:
 
 a) Trabalho;
 
 b) População e Emprego.
 
-###### Art. 15.º - 1 - O Ministério dos Transportes e Comunicações continua a compreender as Secretarias de Estado dos Transportes e Comunicações e da Marinha Mercante, sendo as atribuições dos respectivos cargos governativos exercidas pelo Ministro dos Transportes e Comunicações.
+Art. 15.º - 1 - O Ministério dos Transportes e Comunicações continua a compreender as Secretarias de Estado dos Transportes e Comunicações e da Marinha Mercante, sendo as atribuições dos respectivos cargos governativos exercidas pelo Ministro dos Transportes e Comunicações.
 
 2 - O Ministro dos Transportes e Comunicações será coadjuvado por um Secretário de Estado Adjunto, com competência cumulativa em tudo o que por lei lhe não esteja vedado, e por um Subsecretário de Estado Adjunto, com a competência que por despacho lhe for expressamente delegada.
 
-###### Art. 16.º O Ministério da Habitação e Obras Públicas compreende as seguintes Secretarias de Estado:
+Art. 16.º O Ministério da Habitação e Obras Públicas compreende as seguintes Secretarias de Estado:
 
 a) Obras Públicas;
 
@@ -226,7 +237,7 @@ b) Habitação;
 
 c) Urbanismo e Ambiente.
 
-###### Art. 17.º - 1 - O Ministério da Cultura e da Ciência compreende as seguintes Secretarias de Estado:
+Art. 17.º - 1 - O Ministério da Cultura e da Ciência compreende as seguintes Secretarias de Estado:
 
 a) Cultura;
 
@@ -234,7 +245,7 @@ b) Ciência.
 
 2 - O Secretário de Estado da Cultura será coadjuvado no exercício das suas funções por um Subsecretário de Estado Adjunto.
 
-###### Art. 18.º O Ministério da Educação compreende as seguintes Secretarias de Estado:
+Art. 18.º O Ministério da Educação compreende as seguintes Secretarias de Estado:
 
 a) Administração da Educação;
 
@@ -244,9 +255,9 @@ c) Ensinos Básico e Secundário;
 
 d) Juventude e Desportos.
 
-###### Art. 19.º São extintos os cargos de Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia, de Ministro Adjunto do Primeiro-Ministro, de Secretário de Estado Adjunto para os Assuntos Económicos e Integração Europeia, de Subsecretário de Estado Adjunto do Ministro da Educação e Investigação Científica e de Subsecretário de Estado para a Administração Escolar.
+Art. 19.º São extintos os cargos de Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia, de Ministro Adjunto do Primeiro-Ministro, de Secretário de Estado Adjunto para os Assuntos Económicos e Integração Europeia, de Subsecretário de Estado Adjunto do Ministro da Educação e Investigação Científica e de Subsecretário de Estado para a Administração Escolar.
 
-###### Art. 20.º - 1 - São extintos o Ministério das Finanças e do Plano, o Ministério da Indústria e Tecnologia e o Ministério da Educação e Investigação Científica.
+Art. 20.º - 1 - São extintos o Ministério das Finanças e do Plano, o Ministério da Indústria e Tecnologia e o Ministério da Educação e Investigação Científica.
 
 2 - Os organismos e serviços do Ministério das Finanças e do Plano serão integrados no Ministério das Finanças e no Ministério da Coordenação Económica e do Plano.
 
@@ -254,7 +265,7 @@ d) Juventude e Desportos.
 
 4 - Os organismos e serviços do Ministério da Educação e Investigação Científica ficam integrados no Ministério da Educação e no Ministério da Cultura e Ciência.
 
-###### Art. 21.º - 1 - São extintas as seguintes Secretarias de Estado:
+Art. 21.º - 1 - São extintas as seguintes Secretarias de Estado:
 
 a) Negócios Estrangeiros e da Emigração;
 
@@ -270,24 +281,24 @@ b) Habitação e Obras Públicas;
 
 c) Educação; Cultura e da Ciência.
 
-###### Art. 22.º O pessoal dos departamentos extintos transita, independentemente de qualquer formalidade e sem prejuízo dos direitos adquiridos, para os que, nos termos deste diploma, passam a deter as correspondentes atribuições.
+Art. 22.º O pessoal dos departamentos extintos transita, independentemente de qualquer formalidade e sem prejuízo dos direitos adquiridos, para os que, nos termos deste diploma, passam a deter as correspondentes atribuições.
 
-###### Art. 23.º - 1 - Até final do ano mantém-se em vigor a estrutura do Orçamento Geral do Estado, com as alterações resultantes dos números seguintes.
+Art. 23.º - 1 - Até final do ano mantém-se em vigor a estrutura do Orçamento Geral do Estado, com as alterações resultantes dos números seguintes.
 
 2 - As despesas com os gabinetes criados ou reestruturados pelo presente diploma serão satisfeitas por conta das verbas dos correspondentes gabinetes extintos.
 
 3 - Relativamente aos serviços ou organismos que transitam para diferente departamento ou Ministério, continuarão os respectivos encargos a ser processados em conta das verbas que lhes são atribuídas.
 
-###### Art. 24.º - 1 - Os encargos com o funcionamento do Ministério da Coordenação Económica e do Plano e do Ministério da Cultura e da Ciência serão satisfeitos em conta de dotação residual a inscrever no actual orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
+Art. 24.º - 1 - Os encargos com o funcionamento do Ministério da Coordenação Económica e do Plano e do Ministério da Cultura e da Ciência serão satisfeitos em conta de dotação residual a inscrever no actual orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
 
 2 - A contrapartida para reforços necessários por virtude do disposto nos números anteriores poderá ser obtida através da dotação provisional inscrita no orçamento do Ministério das Finanças.
 
-###### Art. 25.º O presente diploma produz efeitos a partir de 1 de Agosto de 1979.
+Art. 25.º O presente diploma produz efeitos a partir de 1 de Agosto de 1979.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
 
-**Promulgado em 10 de Setembro de 1979.**
+Promulgado em 10 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24100/34583464.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1980-462576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f3e04cd063ba465c8e07337dc9cde1d1c6ecc1c5f758f4112c78c737100d764
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9d0e67faa3f49f785d9c151cc5875202c02ff449011394728e6aa85d9ca51e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Empresa Pública
+- Sata-sociedade Açoreana de Transportes Aéreos
+- Serviço Açoreano de Transportes Aéreos
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 32
+  article_count: 31
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:41Z'
   warnings: []
   errors: []
 ---
@@ -101,25 +111,25 @@ Assim:
 
 Ouvidos os órgãos do Governo Regional, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a SATA - Sociedade Açoreana de Transportes Aéreos, S. A. R. L., na data de entrada em vigor do presente decreto-lei, o qual titula a extinção, para todos os efeitos, incluindo o de registo.
+Artigo 1.º É extinta a SATA - Sociedade Açoreana de Transportes Aéreos, S. A. R. L., na data de entrada em vigor do presente decreto-lei, o qual titula a extinção, para todos os efeitos, incluindo o de registo.
 
-###### Art. 2.º É constituída, nos termos do presente diploma, a empresa pública Serviço Açoreano de Transportes Aéreos, designada por SATA, E. P., a qual sucede à sociedade agora extinta, regendo-se pelo estatuto anexo ao presente decreto-lei, do qual faz parte integrante, e pela legislação aplicável às empresas públicas.
+Art. 2.º É constituída, nos termos do presente diploma, a empresa pública Serviço Açoreano de Transportes Aéreos, designada por SATA, E. P., a qual sucede à sociedade agora extinta, regendo-se pelo estatuto anexo ao presente decreto-lei, do qual faz parte integrante, e pela legislação aplicável às empresas públicas.
 
-###### Art. 3.º A SATA, E. P., é uma empresa pública regional com personalidade jurídica, dotada de autonomia administrativa e financeira, com património próprio e sujeita a intervenção tutelar, nos termos do estatuto anexo.
+Art. 3.º A SATA, E. P., é uma empresa pública regional com personalidade jurídica, dotada de autonomia administrativa e financeira, com património próprio e sujeita a intervenção tutelar, nos termos do estatuto anexo.
 
-###### Art. 4.º - 1 - A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da empresa SATA, S. A. R. L., é transferida para a nova empresa SATA, E. P.
+Art. 4.º - 1 - A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da empresa SATA, S. A. R. L., é transferida para a nova empresa SATA, E. P.
 
 2 - São igualmente transferidos os bens que se encontram legalmente afectos à sua exploração e que se mostrem necessários ao cumprimento das suas atribuições.
 
 3 - A transferência prevista nos números anteriores opera-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo os de registo.
 
-###### Art. 5.º É declarada a extinção da concessão do serviço público de transporte aéreo de passageiros, carga e correio feita a favor da SATA, S. A. R. L., e publicada no Diário do Governo, 3.ª série, n.º 112, de 12 de Maio de 197, sem prejuízo da transmissão para a SATA, E. P., de todas as obrigações contraídas durante a vigência do respectivo contrato.
+Art. 5.º É declarada a extinção da concessão do serviço público de transporte aéreo de passageiros, carga e correio feita a favor da SATA, S. A. R. L., e publicada no Diário do Governo, 3.ª série, n.º 112, de 12 de Maio de 197, sem prejuízo da transmissão para a SATA, E. P., de todas as obrigações contraídas durante a vigência do respectivo contrato.
 
-###### Art. 6.º O pessoal que, à data da publicação do presente diploma, estiver ao serviço da SATA, S. A. R. L., transitará automaticamente para a nova empresa, mantendo todos os direitos adquiridos.
+Art. 6.º O pessoal que, à data da publicação do presente diploma, estiver ao serviço da SATA, S. A. R. L., transitará automaticamente para a nova empresa, mantendo todos os direitos adquiridos.
 
-###### Art. 7.º É atribuída à TAP, E. P., a título de compensação pela sua participação no capital social da SATA, S. A. R. L., agora extinta, a verba de 25000 contos, a retirar do montante inscrito no Orçamento Geral do Estado para dotações de capital estatutário de empresas públicas.
+Art. 7.º É atribuída à TAP, E. P., a título de compensação pela sua participação no capital social da SATA, S. A. R. L., agora extinta, a verba de 25000 contos, a retirar do montante inscrito no Orçamento Geral do Estado para dotações de capital estatutário de empresas públicas.
 
-###### Art. 8.º - 1 - Para realização do capital estatutário e para saneamento da situação financeira inicial é atribuída uma dotação de 250000 contos à SATA, E. P., a retirar do montante inscrito no Orçamento Geral do Estado para dotações de capital estatutário de empresas públicas.
+Art. 8.º - 1 - Para realização do capital estatutário e para saneamento da situação financeira inicial é atribuída uma dotação de 250000 contos à SATA, E. P., a retirar do montante inscrito no Orçamento Geral do Estado para dotações de capital estatutário de empresas públicas.
 
 2 - Com o mesmo objectivo do referido no número anterior, são transformados todos os subsídios reembolsáveis atribuídos até à data da publicação do presente diploma à SATA, S. A. R. L., pelo Governo Central, em subsídios não reembolsáveis.
 
@@ -127,15 +137,15 @@ Ouvidos os órgãos do Governo Regional, o Governo decreta, nos termos da alíne
 
 4 - Em despacho conjunto dos Ministros da República para os Açores, das Finanças e do Plano e dos Transportes e Comunicações, ouvido o Governo Regional, serão determinadas as aplicações da dotação referida no n.º 1 deste artigo.
 
-###### Art. 9.º Os actuais órgãos de gestão e fiscalização da SATA, S. A. R. L., manter-se-ão em funções até à nomeação do conselho de gerência e da comissão de fiscalização da SATA, E. P.
+Art. 9.º Os actuais órgãos de gestão e fiscalização da SATA, S. A. R. L., manter-se-ão em funções até à nomeação do conselho de gerência e da comissão de fiscalização da SATA, E. P.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1983. - Francisco Sá Carneiro - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 1 de Outubro de 1980.**
+Promulgado em 1 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Estatutos da empresa pública SATA
 

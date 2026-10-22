@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1980-460826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46f6c306bc5926c52e950444ce9e4364693a969ac8b555d7ec9a5eadec012f7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff1df66a5102b3d6b64dc3ab2008ac0337661a7ae1e7fa6bafdde5a1fd1fbc73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Equipamento Eléctrico
+- Segurança das Instalações
 relationships:
 - type: amended_by
   target: pt:dre:344965:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:344965:por
+  label: Revogados, a partir de 29.03.2001, os arts. 9.º e 10.º do presente diploma pelo(a) Decreto-Lei n.º 98/2001 - Diário
+    da República n.º 74/2001, Série I-A de 2001-03-28 nos termos do art. 6.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2001-344965
+  date: '2001-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:48Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +107,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O estabelecimento e a exploração das instalações eléctricas das embarcações deverão obedecer às disposições do regulamento de segurança das instalações eléctricas das embarcações, cuja publicação será feita por decreto regulamentar.
+Artigo 1.º O estabelecimento e a exploração das instalações eléctricas das embarcações deverão obedecer às disposições do regulamento de segurança das instalações eléctricas das embarcações, cuja publicação será feita por decreto regulamentar.
 
-###### Art. 2.º - 1 - Sem prejuízo do estipulado no artigo 6.º, as regras indicadas nas várias partes do regulamento serão aplicáveis às embarcações com as características indicadas no regulamento cuja data de autorização de construção em estaleiros nacionais ou estrangeiros seja posterior à data da publicação de cada parte do regulamento.
+Art. 2.º - 1 - Sem prejuízo do estipulado no artigo 6.º, as regras indicadas nas várias partes do regulamento serão aplicáveis às embarcações com as características indicadas no regulamento cuja data de autorização de construção em estaleiros nacionais ou estrangeiros seja posterior à data da publicação de cada parte do regulamento.
 
 2 - Às embarcações a adquirir no estrangeiro ou em construção em estaleiros nacionais ou estrangeiros, à data da publicação do regulamento, serão aplicadas as regras e executadas as alterações que a Inspecção-Geral de Navios (IGN) considerar necessárias para se atingir o nível de segurança satisfatório, de acordo com a actividade da embarcação.
 
@@ -108,7 +117,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O regulamento será aplicado também às instalações de radiocomunicações e de equipamentos auxiliares de navegação, desde que as suas regras não sejam contrárias às disposições do Regulamento do Serviço Radioeléctrico das Embarcações.
 
-###### Art. 3.º - 1 - As instalações eléctricas das embarcações novas ou as alterações importantes de instalações existentes abrangidas pelo regulamento serão executadas mediante projecto previamente aprovado pela IGN.
+Art. 3.º - 1 - As instalações eléctricas das embarcações novas ou as alterações importantes de instalações existentes abrangidas pelo regulamento serão executadas mediante projecto previamente aprovado pela IGN.
 
 2 - Para efeitos do disposto no número anterior entende-se por alteração importante toda aquela que não for:
 
@@ -164,7 +173,7 @@ c) Instalações de potência total de geradores instalados superior a 1000 kW o
 
 11 - De acordo com o disposto nos números anteriores, será apresentado, conjuntamente com o projecto, um termo de responsabilidade, atestando o cumprimento das regras regulamentares e da boa técnica do projecto e o compromisso de assistência à montagem, podendo a IGN, sempre que tal se torne necessário, exigir a apresentação de certificado das habilitações escolares passado pelo MEC.
 
-###### Art. 4.º - 1 - As instalações eléctricas das embarcações nacionais a construir em estaleiros nacionais serão vistoriadas durante a montagem e/ou no final com as instalações a funcionar, conforme se indica a seguir:
+Art. 4.º - 1 - As instalações eléctricas das embarcações nacionais a construir em estaleiros nacionais serão vistoriadas durante a montagem e/ou no final com as instalações a funcionar, conforme se indica a seguir:
 
 a) As instalações de tensão não superior a 50 V ou de potência instalada de geradores, total, inferior a 5 kW serão vistoriadas no final da montagem pelos peritos da IGN, podendo ser delegada nos peritos da capitania em cuja área decorreram os trabalhos;
 
@@ -176,17 +185,17 @@ c) As instalações de tensão superior a 50 V e de potência igual ou superior 
 
 3 - Em todos os casos mencionados anteriormente a vistoria de final de montagem e de funcionamento poderá servir para efeitos de registo.
 
-###### Art. 5.º - 1 - As vistorias de meio, final de montagem e suplementares das embarcações a construir no estrangeiro poderão ser efectuadas por peritos da IGN ou por peritos da Sociedade de Classificação de Navios reconhecida pelo Governo, ou por peritos da Administração Local ou outros, devendo estes actuar por delegação da IGN, a quem deverá ser presente relatório circunstanciado.
+Art. 5.º - 1 - As vistorias de meio, final de montagem e suplementares das embarcações a construir no estrangeiro poderão ser efectuadas por peritos da IGN ou por peritos da Sociedade de Classificação de Navios reconhecida pelo Governo, ou por peritos da Administração Local ou outros, devendo estes actuar por delegação da IGN, a quem deverá ser presente relatório circunstanciado.
 
 2 - As embarcações estrangeiras a adquirir para armadores nacionais serão sujeitas à fiscalização da IGN em portos nacionais antes do seu registo definitivo, para efeitos do estipulado no artigo 2.º
 
-###### Art. 6.º - 1 - As embarcações a construir em estaleiros nacionais para exportação obedecerão ao regulamento de segurança das instalações eléctricas das embarcações, desde que o contrato de construção não estipule outros regulamentos ou regras de outro país ou da Sociedade de Classificação de Navios.
+Art. 6.º - 1 - As embarcações a construir em estaleiros nacionais para exportação obedecerão ao regulamento de segurança das instalações eléctricas das embarcações, desde que o contrato de construção não estipule outros regulamentos ou regras de outro país ou da Sociedade de Classificação de Navios.
 
 2 - Será obrigação do construtor o fornecimento da documentação que contenha a regulamentação estrangeira, em língua portuguesa, francesa ou inglesa, sempre que tal lhe for exigido pela IGN.
 
 3 - As embarcações referidas no n.º 1 deste artigo serão vistoriadas conforme estipulado no artigo 4.º para as embarcações nacionais.
 
-###### Art. 7.º - 1 - Antes da sua montagem a bordo, a IGN procederá à inspecção e assistirá aos ensaios dos seguintes equipamentos ou componentes:
+Art. 7.º - 1 - Antes da sua montagem a bordo, a IGN procederá à inspecção e assistirá aos ensaios dos seguintes equipamentos ou componentes:
 
 a) Quadros eléctricos principais de potência total superior a 100 kW;
 
@@ -200,13 +209,13 @@ d) Motores eléctricos de serviços essenciais com potência superior a 100 kW.
 
 3 - A IGN emitirá um certificado, atestando as inspecções ou ensaios mencionados no n.º 1, em modelo a aprovar por portaria do Secretário de Estado da Marinha Mercante.
 
-###### Art. 8.º As matérias não incluídas no regulamento serão apreciadas e decididas pela IGN, tendo em vista atingir o mais elevado grau de segurança a bordo.
+Art. 8.º As matérias não incluídas no regulamento serão apreciadas e decididas pela IGN, tendo em vista atingir o mais elevado grau de segurança a bordo.
 
-###### Art. 9.º - 1 - As taxas a cobrar por cada vistoria de meio, de final de montagem ou suplementar serão calculadas pelas fórmulas indicadas na coluna 2 da tabela seguinte, em função da potência, não podendo ultrapassar para a totalidade das vistorias efectuadas os valores constantes da coluna 3.
+Art. 9.º - 1 - As taxas a cobrar por cada vistoria de meio, de final de montagem ou suplementar serão calculadas pelas fórmulas indicadas na coluna 2 da tabela seguinte, em função da potência, não podendo ultrapassar para a totalidade das vistorias efectuadas os valores constantes da coluna 3.
 
 Tabela das taxas a cobrar pelas vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/27392742.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/27392742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/27392742.pdf)
 
 2 - Para efeito da aplicação deste artigo será considerada vistoria suplementar a que for feita de acordo com o preceituado no n.º 2 do artigo 4.º
 
@@ -220,20 +229,20 @@ b) No caso de instalações parcelares, devidas a alterações, a soma das potê
 
 5 - As taxas constantes da tabela do n.º 1 e o valor indicado no número anterior deste artigo poderão ser alterados por portaria do Ministro dos Transportes e Comunicações.
 
-###### Art. 10.º - 1 - As taxas das vistorias serão cobradas pelas entidades que as executarem, de acordo com as competências definidas no artigo 4.º
+Art. 10.º - 1 - As taxas das vistorias serão cobradas pelas entidades que as executarem, de acordo com as competências definidas no artigo 4.º
 
 2 - As taxas das vistorias, embora constituindo emolumentos de carácter pessoal, serão receita do Estado e a sua distribuição far-se-á de harmonia com as disposições legais em vigor.
 
-###### Art. 11.º As instalações eléctricas das embarcações nacionais deverão incluir as disposições necessárias para satisfazer as exigências que forem feitas pelo Estado-Maior da Armada, para fins de defesa das mesmas embarcações.
+Art. 11.º As instalações eléctricas das embarcações nacionais deverão incluir as disposições necessárias para satisfazer as exigências que forem feitas pelo Estado-Maior da Armada, para fins de defesa das mesmas embarcações.
 
-###### Art. 12.º Mediante despacho do Ministro dos Transportes e Comunicações, sobre proposta da IGN, será impedida a saída para o mar das embarcações que não satisfaçam as disposições constantes deste diploma.
+Art. 12.º Mediante despacho do Ministro dos Transportes e Comunicações, sobre proposta da IGN, será impedida a saída para o mar das embarcações que não satisfaçam as disposições constantes deste diploma.
 
-###### Art. 13.º São revogados os Decretos-Leis n.os 13268, de 26 de Fevereiro de 1927, e 20353, de 28 de Setembro de 1931.
+Art. 13.º São revogados os Decretos-Leis n.os 13268, de 26 de Fevereiro de 1927, e 20353, de 28 de Setembro de 1931.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 27 de Agosto de 1980.**
+Promulgado em 27 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

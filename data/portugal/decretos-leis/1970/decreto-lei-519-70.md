@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1970-147836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 834a840aebc8828b6b9ec54a20f0097e5df93ff6d743511224a9d5b2dec022f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 480db4708217ff7d24c36f6a516c2a37d337809919e0947b2a38f0a54283195b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Prática de Agricultura
+- Formas de Provimento
+- Horas Extraordinárias
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256621:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:53Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +107,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O quadro de pessoal da Escola Prática de Agricultura de D. Dinis é o que consta do mapa anexo a este diploma.
+Artigo 1.º - 1. O quadro de pessoal da Escola Prática de Agricultura de D. Dinis é o que consta do mapa anexo a este diploma.
 
 2. É aplicável ao actual professor-adjunto do grupo A o disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621).
 
@@ -101,22 +117,22 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. É aplicável ao provimento dos lugares de terceiro-oficial e de chefe de secretaria (primeiro-oficial) o disposto no n.º 1 e no n.º 2 do artigo 18.º do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621), respectivamente.
 
-###### Art. 2.º - 1. São aplicáveis à Escola Prática de Agricultura de D. Dinis, a partir de 1 de Janeiro de 1969, as tabelas n.os 1 e 2 anexas ao [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621).
+Art. 2.º - 1. São aplicáveis à Escola Prática de Agricultura de D. Dinis, a partir de 1 de Janeiro de 1969, as tabelas n.os 1 e 2 anexas ao [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621).
 
 2. A partir de 1 de Janeiro de 1970 são atribuídos ao pessoal da Escola Prática de Agricultura de D. Dinis os vencimentos e gratificações mensais legalmente fixados para as idênticas categorias das demais escolas práticas de agricultura.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 1.º do Decreto-Lei n.º 519/70
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/25600/16581658.pdf))](https://files.diariodarepublica.pt/1s/1970/11/25600/16581658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/25600/16581658.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

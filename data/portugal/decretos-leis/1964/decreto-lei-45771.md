@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45771-1964-577505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 558ff76a1dcab710c8cb1c27dc089ee4e1286be9726a2a3da1fb5590e796bf66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad31810c6cc8f191d4b49c1b9f5595bcc82295202fd718594399bce8e9b863c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão
+- Convenção Coletiva de Trabalho
+- Definição de Competências
+- Direito do Trabalho
+- Instituto Nacional do Trabalho e Previdência
+- Ministro das Corporações e Previdência Social
+- Trabalhador Rural
+- Trabalho Rural
+relationships:
+- type: cites
+  target: pt:dre:514838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:27Z'
   warnings: []
   errors: []
 ---
@@ -94,51 +106,51 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Da instituição de comissões corporativas do trabalho rural
 
-###### Artigo 1.º Quando as circunstâncias o justificarem, poderão ser instituídas, mediante portaria do Ministério das Corporações e Previdência Social, comissões corporativas do trabalho rural, dotadas de personalidade jurídica.
+Artigo 1.º Quando as circunstâncias o justificarem, poderão ser instituídas, mediante portaria do Ministério das Corporações e Previdência Social, comissões corporativas do trabalho rural, dotadas de personalidade jurídica.
 
-###### Art. 2.º As comissões previstas no artigo anterior terão, em princípio, âmbito distrital, mas, sempre que o condicionalismo da actividade agrícola o aconselhe, poderão ser instituídas em regiões de diferente amplitude.
+Art. 2.º As comissões previstas no artigo anterior terão, em princípio, âmbito distrital, mas, sempre que o condicionalismo da actividade agrícola o aconselhe, poderão ser instituídas em regiões de diferente amplitude.
 
 #### SECÇÃO II — Da composição e do funcionamento
 
-###### Art. 3.º - 1. As comissões corporativas do trabalho rural serão constituídas por um representante do Instituto Nacional do Trabalho e Previdência, que presidirá, e por seis vogais efectivos e igual número de substitutos, que assegurarão a representação paritária das entidades patronais e dos trabalhadores.
+Art. 3.º - 1. As comissões corporativas do trabalho rural serão constituídas por um representante do Instituto Nacional do Trabalho e Previdência, que presidirá, e por seis vogais efectivos e igual número de substitutos, que assegurarão a representação paritária das entidades patronais e dos trabalhadores.
 
 2. Das comissões, a convite do respectivo presidente, poderão igualmente fazer parte, na qualidade de assessores técnicos, sem direito de voto, representantes das autarquias locais e dos organismos oficiais ligados às actividades agrícolas, silvícolas ou pecuárias.
 
 3. As portarias que instituírem comissões indicarão os termos em que podem participar nestas os assessores técnicos a que se refere o número anterior.
 
-###### Art. 4.º Os representantes das entidades patronais e dos trabalhadores serão eleitos, respectivamente, pelos grémios da lavoura e pelas Casas do Povo, nos termos a definir por portaria ou despacho do Ministro das Corporações e Previdência Social, sem prejuízo do disposto nos artigos seguintes.
+Art. 4.º Os representantes das entidades patronais e dos trabalhadores serão eleitos, respectivamente, pelos grémios da lavoura e pelas Casas do Povo, nos termos a definir por portaria ou despacho do Ministro das Corporações e Previdência Social, sem prejuízo do disposto nos artigos seguintes.
 
-###### Art. 5.º Os representantes dos trabalhadores serão sempre eleitos de entre os sócios efectivos das Casas do Povo que sejam trabalhadores rurais.
+Art. 5.º Os representantes dos trabalhadores serão sempre eleitos de entre os sócios efectivos das Casas do Povo que sejam trabalhadores rurais.
 
-###### Art. 6.º Quando o escasso número ou a irregular distribuição geográfica das Casas do Povo o justificar, o Ministro das Corporações e Previdência Social poderá determinar que a designação dos representantes dos trabalhadores seja feita, em parte do distrito ou em todo ele, por forma diferente da prevista no artigo 4.º
+Art. 6.º Quando o escasso número ou a irregular distribuição geográfica das Casas do Povo o justificar, o Ministro das Corporações e Previdência Social poderá determinar que a designação dos representantes dos trabalhadores seja feita, em parte do distrito ou em todo ele, por forma diferente da prevista no artigo 4.º
 
-###### Art. 7.º Os vogais das comissões corporativas do trabalho rural exercerão as suas funções por períodos renováveis de três anos.
+Art. 7.º Os vogais das comissões corporativas do trabalho rural exercerão as suas funções por períodos renováveis de três anos.
 
-###### Art. 8.º O exercício da função é gratuito, mas os vogais serão reembolsados das despesas que forem obrigados a fazer e terão direito a ser indemnizados pelas perdas de remuneração do trabalho, quando as houver.
+Art. 8.º O exercício da função é gratuito, mas os vogais serão reembolsados das despesas que forem obrigados a fazer e terão direito a ser indemnizados pelas perdas de remuneração do trabalho, quando as houver.
 
-###### Art. 9.º As entidades patronais que tenham ao seu serviço trabalhadores que exerçam funções de vogais ou assessores nas comissões corporativas do trabalho rural devem dispensá-los pelo tempo necessário ao desempenho das suas funções.
+Art. 9.º As entidades patronais que tenham ao seu serviço trabalhadores que exerçam funções de vogais ou assessores nas comissões corporativas do trabalho rural devem dispensá-los pelo tempo necessário ao desempenho das suas funções.
 
-###### Art. 10.º - 1. As comissões corporativas do trabalho rural funcionarão nas localidades onde os serviços do Instituto Nacional do Trabalho e Previdência tiverem a sua sede, mas poderão reunir, acidentalmente, em localidades diversas, quando a natureza do assunto em apreciação o justificar.
+Art. 10.º - 1. As comissões corporativas do trabalho rural funcionarão nas localidades onde os serviços do Instituto Nacional do Trabalho e Previdência tiverem a sua sede, mas poderão reunir, acidentalmente, em localidades diversas, quando a natureza do assunto em apreciação o justificar.
 
 2. As portarias que instituírem as comissões corporativas do trabalho rural previstas na parte final do artigo 2.º indicarão as localidades onde elas devem funcionar.
 
-###### Art. 11.º O expediente das comissões corporativas do trabalho rural será assegurado pela forma que for estabelecida pelo Instituto Nacional do Trabalho e Previdência, ouvidos os organismos e as entidades interessadas.
+Art. 11.º O expediente das comissões corporativas do trabalho rural será assegurado pela forma que for estabelecida pelo Instituto Nacional do Trabalho e Previdência, ouvidos os organismos e as entidades interessadas.
 
-###### Art. 12.º As despesas com a instalação e o funcionamento das comissões corporativas do trabalho rural, assim como as que resultem do cumprimento do artigo 8.º, constituem encargo das federações dos grémios da lavoura e das federações das Casas do Povo, nos termos que forem fixados por despacho do Ministro das Corporações e Previdência Social.
+Art. 12.º As despesas com a instalação e o funcionamento das comissões corporativas do trabalho rural, assim como as que resultem do cumprimento do artigo 8.º, constituem encargo das federações dos grémios da lavoura e das federações das Casas do Povo, nos termos que forem fixados por despacho do Ministro das Corporações e Previdência Social.
 
 #### SECÇÃO III — Das atribuições e competência
 
-###### Art. 13.º - 1. São atribuições das comissões corporativas do trabalho rural, além das indicadas nos n.os 1 a 4 e na primeira parte do n.º 5 do artigo 11.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, definir as modalidades locais de aplicação dos diplomas que regulam o trabalho rural, nos termos fixados por esses diplomas, e fomentar a celebração de convenções colectivas.
+Art. 13.º - 1. São atribuições das comissões corporativas do trabalho rural, além das indicadas nos n.os 1 a 4 e na primeira parte do n.º 5 do artigo 11.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, definir as modalidades locais de aplicação dos diplomas que regulam o trabalho rural, nos termos fixados por esses diplomas, e fomentar a celebração de convenções colectivas.
 
 2. São aplicáveis às comissões corporativas do trabalho rural as disposições dos artigos 12.º a 24.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, salvo as constantes dos n.os 3, in fine, 4 e 5 do artigo 19.º
 
-###### Art. 14.º - 1. As convenções colectivas do trabalho rural que vierem a ser celebradas poderão confiar, no todo ou em parte, às comissões corporativas instituídas pelo presente diploma as atribuições indicadas nos n.os 1 a 4 e primeira parte do n.º 5 do artigo 11.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, ou transferi-las para as comissões corporativas que venham a ser constituídas por aquelas convenções.
+Art. 14.º - 1. As convenções colectivas do trabalho rural que vierem a ser celebradas poderão confiar, no todo ou em parte, às comissões corporativas instituídas pelo presente diploma as atribuições indicadas nos n.os 1 a 4 e primeira parte do n.º 5 do artigo 11.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, ou transferi-las para as comissões corporativas que venham a ser constituídas por aquelas convenções.
 
 2. Sem prejuízo do disposto no número anterior, as comissões corporativas instituídas pelas convenções colectivas de trabalho rural ficam sujeitas ao regime estabelecido no [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960.
 
-###### Art. 15.º As resoluções das comissões corporativas do trabalho rural que definam as modalidades locais de aplicação dos diplomas referidos no artigo 13.º ficam sujeitas à homologação do Ministro das Corporações e Previdência Social e constituirão para todos os efeitos, após a sua publicação no Boletim do Instituto Nacional do Trabalho e Previdência ou no Diário do Governo, regulamentos do trabalho rural aplicáveis na área correspondente.
+Art. 15.º As resoluções das comissões corporativas do trabalho rural que definam as modalidades locais de aplicação dos diplomas referidos no artigo 13.º ficam sujeitas à homologação do Ministro das Corporações e Previdência Social e constituirão para todos os efeitos, após a sua publicação no Boletim do Instituto Nacional do Trabalho e Previdência ou no Diário do Governo, regulamentos do trabalho rural aplicáveis na área correspondente.
 
-###### Art. 16.º - 1. As comissões corporativas do trabalho rural deverão enviar à Direcção-Geral do Trabalho e Corporações:
+Art. 16.º - 1. As comissões corporativas do trabalho rural deverão enviar à Direcção-Geral do Trabalho e Corporações:
 
 a) No prazo de 15 dias, a contar da data da deliberação, as suas resoluções de carácter regulamentar, para os efeitos do artigo anterior;
 
@@ -146,24 +158,24 @@ b) Dentro dos 60 dias subsequentes ao termo de cada ano civil, um relatório sob
 
 2. As comissões poderão incluir nesse relatório os elementos a que se refere a alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960.
 
-###### Art. 17.º - 1. Não havendo acordo entre as partes e quando a urgência da decisão o justifique, o delegado do Instituto Nacional do Trabalho e Previdência deverá substituir-se à comissão na competência que lhe é conferida pelos artigos 13.º e 14.º
+Art. 17.º - 1. Não havendo acordo entre as partes e quando a urgência da decisão o justifique, o delegado do Instituto Nacional do Trabalho e Previdência deverá substituir-se à comissão na competência que lhe é conferida pelos artigos 13.º e 14.º
 
 2. A deliberação do delegado deverá ser homologada pelo Ministro das Corporações e Previdência Social, que ouvirá sobre o assunto a Secretaria de Estado da Agricultura.
 
 #### SECÇÃO IV — Disposições finais e transitórias
 
-###### Art. 18.º O Ministro das Corporações e Previdência Social, ouvida a Secretaria de Estado da Agricultura, poderá, sempre que o julgue conveniente, mediante despacho ou portaria, suspender a aplicação dos regulamentos distritais ou regionais do trabalho rural, bem como alargá-la a outros distritos ou regiões.
+Art. 18.º O Ministro das Corporações e Previdência Social, ouvida a Secretaria de Estado da Agricultura, poderá, sempre que o julgue conveniente, mediante despacho ou portaria, suspender a aplicação dos regulamentos distritais ou regionais do trabalho rural, bem como alargá-la a outros distritos ou regiões.
 
-###### Art. 19.º Quando os grémios da lavoura e as Casas do Povo não derem cumprimento ao disposto no artigo 4.º, os vogais das comissões corporativas do trabalho rural serão designados pelo Instituto Nacional do Trabalho e Previdência.
+Art. 19.º Quando os grémios da lavoura e as Casas do Povo não derem cumprimento ao disposto no artigo 4.º, os vogais das comissões corporativas do trabalho rural serão designados pelo Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 20.º As comissões corporativas do trabalho rural e o pessoal ao seu serviço ficam sujeitos à fiscalização da Inspecção-Geral dos Tribunais do Trabalho.
+Art. 20.º As comissões corporativas do trabalho rural e o pessoal ao seu serviço ficam sujeitos à fiscalização da Inspecção-Geral dos Tribunais do Trabalho.
 
-###### Art. 21.º - 1. O produto das multas aplicadas ao abrigo do artigo 17.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, constitui receita do fundo comum a que se refere o n.º 1 do artigo 33.º do mesmo diploma.
+Art. 21.º - 1. O produto das multas aplicadas ao abrigo do artigo 17.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, constitui receita do fundo comum a que se refere o n.º 1 do artigo 33.º do mesmo diploma.
 
 2. As comissões corporativas do trabalho rural consideram-se abrangidas pelo n.º 2 do artigo 33.º do referido [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838).
 
-###### Art. 22.º Pelo Ministério das Corporações e Previdência Social serão publicados os regulamentos necessários para a execução do presente diploma.
+Art. 22.º Pelo Ministério das Corporações e Previdência Social serão publicados os regulamentos necessários para a execução do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

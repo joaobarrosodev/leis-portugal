@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1979-366463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f873c44b8843a40910dbbc8e86b8bf0ca56d497b8672a144ee65c6aafa32d37d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3851edfbb3dbdb7b0a5696f2b9225e9ab593f279827e13e2b13dc8acb9ca8b56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Pessoal Dirigente
+- Reforma Aduaneira
+- Tribunal
+- Tribunal Fiscal Aduaneiro
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502184:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:23Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +105,16 @@ Como consequência das disposições legislativas que é necessário alterar dev
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 293.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na formulação dada pelo [Decreto-Lei n.º 302/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1976-502184), de 26 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 293.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na formulação dada pelo [Decreto-Lei n.º 302/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1976-502184), de 26 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 293.º O presidente do tribunal técnico de 2.ª instância será o director-geral das Alfândegas, sendo vogais os juízes aludidos no artigo 291.º, o director do Gabinete de Estudos, um técnico de reconhecida competência do Ministério da Indústria, um professor da Universidade Técnica de Lisboa e um representante das actividades económicas, sendo os três últimos propostos, respectivamente, pelos Ministros da Indústria, da Educação e do Comércio e Turismo e nomeados pelo Ministro das Finanças.
+Art. 293.º O presidente do tribunal técnico de 2.ª instância será o director-geral das Alfândegas, sendo vogais os juízes aludidos no artigo 291.º, o director do Gabinete de Estudos, um técnico de reconhecida competência do Ministério da Indústria, um professor da Universidade Técnica de Lisboa e um representante das actividades económicas, sendo os três últimos propostos, respectivamente, pelos Ministros da Indústria, da Educação e do Comércio e Turismo e nomeados pelo Ministro das Finanças.
 
 § único. É aplicável aos três últimos vogais referidos no corpo deste artigo o disposto nos §§ 1.º e 2.º do artigo antecedente.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Fernando Henrique Marques Videira - Acácio Manuel Pereira Magro - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 30 de Novembro de 1979.**
+Promulgado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

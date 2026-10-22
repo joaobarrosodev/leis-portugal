@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1975-335907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44a441c7aa565b32805fd535c73eddc1e37ca1ebe30c7d09da5598c41df0dd58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 366beb665031664ba93b636975bda694139232de111315a701e40ae4286aaf67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Estudos Sociais
+- Iscte
+- Orgânica
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Pessoal Técnico
+- Transferência de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:685446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:11Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +108,19 @@ Considerando que o [Decreto-Lei n.º 522/72](https://diariodarepublica.pt/dr/det
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 39.º, o artigo 40.º e o artigo 44.º do [Decreto-Lei n.º 522/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1972-685448), de 15 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 39.º, o artigo 40.º e o artigo 44.º do [Decreto-Lei n.º 522/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1972-685448), de 15 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 39.º - 1. O pessoal técnico, administrativo e auxiliar actualmente ao serviço do Instituto de Estudos Sociais poderá ser colocado nos lugares da mesma categoria do quadro do Instituto Superior de Ciências do Trabalho e da Empresa, mediante relação nominal aprovada pelo Ministro da Educação e Cultura e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, excepto a anotação pela Direcção-Geral do Tribunal de Contas, desde que possua as habilitações legais exigidas para o cargo.
+Art. 39.º - 1. O pessoal técnico, administrativo e auxiliar actualmente ao serviço do Instituto de Estudos Sociais poderá ser colocado nos lugares da mesma categoria do quadro do Instituto Superior de Ciências do Trabalho e da Empresa, mediante relação nominal aprovada pelo Ministro da Educação e Cultura e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, excepto a anotação pela Direcção-Geral do Tribunal de Contas, desde que possua as habilitações legais exigidas para o cargo.
 
-###### Art. 40.º - 1. Os actuais docentes do Instituto de Estudos Sociais podem manter-se ao serviço por um período de dois anos, na situação em que se encontram à data da promulgação do presente diploma, desde que neles se verifiquem as condições exigidas pela legislação universitária.
+Art. 40.º - 1. Os actuais docentes do Instituto de Estudos Sociais podem manter-se ao serviço por um período de dois anos, na situação em que se encontram à data da promulgação do presente diploma, desde que neles se verifiquem as condições exigidas pela legislação universitária.
 
 2. Sob proposta do Instituto, o período referido no número anterior poderá ser prolongado por períodos anuais automaticamente renováveis, até ao limite do prazo fixado no n.º 1 do artigo 43.º
 
 ...
 
-###### Art. 44.º Consideram-se, para todos os efeitos, como bacharéis os diplomados pelo Instituto de Estudos Sociais.
+Art. 44.º Consideram-se, para todos os efeitos, como bacharéis os diplomados pelo Instituto de Estudos Sociais.
 
-###### Art. 2.º - 1. Os diplomados pelo Instituto de Estudos Sociais na opção Administração Social de Empresas têm acesso à licenciatura em Organização e Gestão de Empresas professada no Instituto Superior de Ciências do Trabalho e da Empresa.
+Art. 2.º - 1. Os diplomados pelo Instituto de Estudos Sociais na opção Administração Social de Empresas têm acesso à licenciatura em Organização e Gestão de Empresas professada no Instituto Superior de Ciências do Trabalho e da Empresa.
 
 2. Os diplomados pelo Instituto de Estudos Sociais na opção Política Social têm acesso à licenciatura em Ciências do Trabalho professada no Instituto Superior de Ciências do Trabalho e da Empresa.
 
@@ -112,8 +128,8 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - José Emílio da Silva.
 
-**Promulgado em 30 de Maio de 1975.**
+Promulgado em 30 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

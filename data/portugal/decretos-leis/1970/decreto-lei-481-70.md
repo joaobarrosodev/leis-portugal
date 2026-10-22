@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/24000/14941494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1970-147454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cef82c08fd2906b401b9972b658be8681f389ca436bed09903ae523887091e5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 521fba0b784e5a3e6385a28f46162db5a6475f4de887436c0672d76a3244d604
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Embarcação
+- Marinha Mercante
+- Ministro da Marinha
+- Regulamento
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:335771:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:537223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147784:por
+  label: "Rectificado o art. 2º pela RECT.DD409.06.11.1970.PC, DG.IS [258] de 06.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-147784
+  date: '1970-11-06'
+- type: repealed_by
+  target: pt:dre:335771:por
+  label: "Revogado pelo DEC LEI.281/75.1975.06.06.MAP, DR.IS [130] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/281-1975-335771
+  date: '1975-06-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:34Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +121,11 @@ Não sendo prudente alterar aquela legislação antes de os referidos procedimen
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Ministro da Marinha pode, por portaria, fixar, a título experimental e por período de tempo limitado, normas sobre inscrição marítima, matrícula e lotação dos navios da marinha mercante diferentes das estabelecidas no [Decreto-Lei n.º 45968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45968-1964-537223), de 15 de Outubro de 1964, e no respectivo decreto regulamentar.
+Artigo 1.º O Ministro da Marinha pode, por portaria, fixar, a título experimental e por período de tempo limitado, normas sobre inscrição marítima, matrícula e lotação dos navios da marinha mercante diferentes das estabelecidas no [Decreto-Lei n.º 45968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45968-1964-537223), de 15 de Outubro de 1964, e no respectivo decreto regulamentar.
 
-###### Art. 2.º No que refere à marinha do comércio, o procedimento referido no artigo anterior carece de parecer favorável da Comissão Nacional de Estudo dos Problemas da Marinha do Comércio, baseado no voto unânime de todos os membros que constituem o plenário da mesma Comissão.
+Art. 2.º No que refere à marinha do comércio, o procedimento referido no artigo anterior carece de parecer favorável da Comissão Nacional de Estudo dos Problemas da Marinha do Comércio, baseado no voto unânime de todos os membros que constituem o plenário da mesma Comissão.
 
-###### Art. 3.º - 1. No que respeita à marinha de pesca, o procedimento citado no artigo 1.º carece mais de parecer favorável da Secção Central da Comissão Consultiva das Pescas, baseado no voto unânime de todos os seus membros.
+Art. 3.º - 1. No que respeita à marinha de pesca, o procedimento citado no artigo 1.º carece mais de parecer favorável da Secção Central da Comissão Consultiva das Pescas, baseado no voto unânime de todos os seus membros.
 
 2. Para efeitos do disposto neste diploma, na Secção Central a que se refere o número anterior devem ser incluídos os seguintes vogais das outras secções da mesma Comissão:
 
@@ -123,8 +147,8 @@ h) Representante da Junta Central das Casas dos Pescadores.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 30 de Setembro de 1970.**
+Promulgado em 30 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

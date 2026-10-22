@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24100/23352335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-1976-409541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce43477775eb277a83febd76d09be35c8cc241aa4c31998374de1f47d83dbf7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df9d653d3299c5ae2aca2ad8351e73cfd46fb39639b91f89b7564efeb7b4b23e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Importação
+- Mercadoria
+- Pauta Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:255450:por
+  label: "Alterado o artigo único do presente diploma, pelo DEC LEI.315/77.05.08.1977.MF, DR.IS [180] de 05.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1977-255450
+  date: '1977-08-05'
+- type: cites
+  target: pt:dre:408676:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:13Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +116,12 @@ Dado que se encontra ainda em estudo a conversão da pauta específica em ad val
 
 Usando da autorização legislativa concedida pela alínea c) do artigo 2.º da [Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/lei/4-1976-408676), de 10 de Setembro, o Governo decreta, nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. As taxas específicas constantes dos capítulos da Pauta dos Direitos de Importação 26.º 27.º 31.º 42.º 43.º 44.º 48.º 52.º 53.º 55.º 56.º 57.º 70.º 71.º 73.º (com excepção das posições 73.10, 73.11, 73.12, 73.13 e 73.15), 74.º 76.º 78.º 79.º 82.º 84.º [com excepção das subposições 84.06.03, 84.10.02, 84.15.01, 84.15.02,84.19.01,84.23.02, 84.23.04, 84.34.07, ex-84.44.02 «Partes e peças separadas, cilindros lisos, gravados, ou canelados; cilindros até 20000 kg e 84.51.02», ex-84.53 «Máquinas estatísticas e semelhantes que empreguem cartões perfurados (tais como perfuradoras, verificadoras, seleccionadoras, tabuladoras e multiplicadoras); excepto as perfuradoras, seleccionadoras e tabuladoras»], 85.º (com excepção das subposições ex-85.06.02 «Destruidoras de detritos alimentares» e ex-85.08.02 «Velas e bobinas de ignição»), 90.º (com excepção das subposições 90.19.02 e 90.26.04), 92.º, 97.º (com excepção da subposição 97.04.04) e 98.º são elevadas para o dobro, exceptuando as taxas decorrentes das notas aos artigos pautais.
+Artigo único. As taxas específicas constantes dos capítulos da Pauta dos Direitos de Importação 26.º 27.º 31.º 42.º 43.º 44.º 48.º 52.º 53.º 55.º 56.º 57.º 70.º 71.º 73.º (com excepção das posições 73.10, 73.11, 73.12, 73.13 e 73.15), 74.º 76.º 78.º 79.º 82.º 84.º [com excepção das subposições 84.06.03, 84.10.02, 84.15.01, 84.15.02,84.19.01,84.23.02, 84.23.04, 84.34.07, ex-84.44.02 «Partes e peças separadas, cilindros lisos, gravados, ou canelados; cilindros até 20000 kg e 84.51.02», ex-84.53 «Máquinas estatísticas e semelhantes que empreguem cartões perfurados (tais como perfuradoras, verificadoras, seleccionadoras, tabuladoras e multiplicadoras); excepto as perfuradoras, seleccionadoras e tabuladoras»], 85.º (com excepção das subposições ex-85.06.02 «Destruidoras de detritos alimentares» e ex-85.08.02 «Velas e bobinas de ignição»), 90.º (com excepção das subposições 90.19.02 e 90.26.04), 92.º, 97.º (com excepção da subposição 97.04.04) e 98.º são elevadas para o dobro, exceptuando as taxas decorrentes das notas aos artigos pautais.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 1 de Outubro de 1976.**
+Promulgado em 1 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

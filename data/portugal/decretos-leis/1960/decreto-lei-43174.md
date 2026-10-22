@@ -49,36 +49,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43174-1960-514870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3883565934053966cb43fb25edc327d00ed7ffc481c89da561638a5601e83e60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e028477c7509b1b4f8fb8fc71f872ef51463d716dfece75d6d6b108fbb3460c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Funcionário Ultramarino
+- Ministério do Ultramar
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538380:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:36Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +117,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Centro de Estudos Históricos Ultramarinos poderá contratar o pessoal especializado indispensável aos seus serviços, mediante autorizarão ministerial e desde que tenha disponibilidades orçamentais para o efeito.
+Artigo 1.º O Centro de Estudos Históricos Ultramarinos poderá contratar o pessoal especializado indispensável aos seus serviços, mediante autorizarão ministerial e desde que tenha disponibilidades orçamentais para o efeito.
 
-###### Art. 2.º O artigo 103.º e o § 1.º do artigo 138.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passam a ter a seguinte redacção:
+Art. 2.º O artigo 103.º e o § 1.º do artigo 138.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passam a ter a seguinte redacção:
 
-###### Art. 103.º Ao pessoal do Ministério do Ultramar são aplicáveis os artigos 12.º a 17.º, 20.º a 32.º, 40.º a 44.º, 47.º, 50.º, 55.º a 63.º, 65.º, 66.º, 81.º, corpo do artigo 83.º e seu § 2.º, na parte aplicável, 84.º, 88.º, 92.º a 97.º, 113.º a 116.º, 122.º a 124.º e 126.º a 130.º do Estatuto do Funcionalismo Ultramarino.
+Art. 103.º Ao pessoal do Ministério do Ultramar são aplicáveis os artigos 12.º a 17.º, 20.º a 32.º, 40.º a 44.º, 47.º, 50.º, 55.º a 63.º, 65.º, 66.º, 81.º, corpo do artigo 83.º e seu § 2.º, na parte aplicável, 84.º, 88.º, 92.º a 97.º, 113.º a 116.º, 122.º a 124.º e 126.º a 130.º do Estatuto do Funcionalismo Ultramarino.
 
 ...
 
-###### Art. 138.º ...
+Art. 138.º ...
 
 § 1.º A colocação no quadro administrativo das províncias poderá ser feita desde que o funcionário esteja habilitado com o curso de Administração Ultramarina ou, não o estando, possua categoria superior a segundo-oficial e tenha servido naquele quadro pelo menos durante três anos.
 
@@ -113,8 +133,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º Os funcionários abrangidos pelo disposto no artigo 97.º do Estatuto do Funcionalismo Ultramarino, enquanto aguardarem a abertura de vaga no seu quadro e categoria, serão abonados das respectivas remunerações pelas disponibilidades das dotações destinadas a pessoal, ou por verba especialmente inscrita para esse fim.
 
-###### Art. 3.º O artigo 154.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, é aplicável ao pessoal menor dos quadros privativos dos organismos dependentes do Ministério do Ultramar, com ressalva, porém, quanto ao Instituto Ultramarino, do disposto no artigo 30.º do [Decreto-Lei n.º 42871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42871-1960-281866), de 9 de Março do corrente ano.
+Art. 3.º O artigo 154.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, é aplicável ao pessoal menor dos quadros privativos dos organismos dependentes do Ministério do Ultramar, com ressalva, porém, quanto ao Instituto Ultramarino, do disposto no artigo 30.º do [Decreto-Lei n.º 42871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42871-1960-281866), de 9 de Março do corrente ano.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

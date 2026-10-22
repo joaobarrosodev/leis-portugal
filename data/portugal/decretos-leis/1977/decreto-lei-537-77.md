@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30100/31183121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1977-276633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16cdb5ec42e2fddbaaee4c820c7d58f89bb974c2be3295abafc4da6aeff205a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c277fa3942435d6fdecb9c98902f59ee2423ee04315b0be8e0d8178d30df353
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Escolar
+- Conselho Pedagógico
+- Definição de Competências
+- Ensino Preparatório
+- Ensino Primário
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Estudante
+- Extinção de Serviços
+- Manual Escolar
+- Ministério da Educação e Investigação Científica
+- Ministério do Comércio e Turismo
+- Pessoal Docente
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392663:por
+  label: "Alterado o n.º 3 do artigo 1.º, pelo DEC LEI.13/79.02.02.1979.PCM, DR.IS [28] de 02.02.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1979-392663
+  date: '1979-02-02'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:172137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685008:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:06Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +190,13 @@ Considerando, finalmente, que, em virtude de há muito ter sido ultrapassado o s
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O programa de cada uma das disciplinas e áreas disciplinares dos ensinos primário, preparatório e secundário e a definição dos correspondentes instrumentos individuais de trabalho escolar serão fixados por portarias do Ministro da Educação e Investigação Científica e vigorarão por um período de três anos.
+Artigo 1.º - 1 - O programa de cada uma das disciplinas e áreas disciplinares dos ensinos primário, preparatório e secundário e a definição dos correspondentes instrumentos individuais de trabalho escolar serão fixados por portarias do Ministro da Educação e Investigação Científica e vigorarão por um período de três anos.
 
 2 - O Ministro da Educação e Investigação Científica poderá, por despacho, introduzir nos programas alterações de pormenor, desde que os não afectem no seu conjunto.
 
 3 - A portaria a que se refere o n.º 1 deste artigo será publicada entre 1 e 15 de Janeiro, iniciando-se a contagem do triénio de validade do programa em 1 de Setembro de 1979.
 
-###### Art. 2.º - 1 - O Ministério da Educação e Investigação Científica apreciará previamente todos os instrumentos individuais de trabalho escolar que correspondam aos fixados na portaria referida no n.º 1 do artigo 1.º do presente diploma.
+Art. 2.º - 1 - O Ministério da Educação e Investigação Científica apreciará previamente todos os instrumentos individuais de trabalho escolar que correspondam aos fixados na portaria referida no n.º 1 do artigo 1.º do presente diploma.
 
 2 - O prazo para entrega dos instrumentos de trabalho escolar para apreciação terminará em 15 de Novembro do ano em que as portarias referidas no n.º 1 do artigo 1.º forem publicadas.
 
@@ -117,7 +206,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Quando não tiverem sido submetidos à apreciação ou tiverem sido reprovados todos os instrumentos individuais de trabalho escolar apreciados, o Ministério da Educação e Investigação Científica tomará as providências necessárias para suprir a sua falta.
 
-###### Art. 3.º - 1 - A adopção dos instrumentos de trabalho escolar é, no ensino primário, da competência dos conselhos escolares ou do respectivo professor, no caso de escolas de um só lugar, e vigorará por um triénio.
+Art. 3.º - 1 - A adopção dos instrumentos de trabalho escolar é, no ensino primário, da competência dos conselhos escolares ou do respectivo professor, no caso de escolas de um só lugar, e vigorará por um triénio.
 
 2 - A adopção dos instrumentos de trabalho escolar para os ensinos preparatório e secundário é da competência do conselho pedagógico de cada estabelecimento de ensino e vigorará por um triénio.
 
@@ -127,11 +216,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - As entidades referidas nos números anteriores afixarão nos locais de estilo, até 30 de Junho, a lista dos instrumentos de trabalho escolar adoptados, devendo, a requerimento das empresas produtoras, informá-las do número de alunos matriculados.
 
-###### Art. 4.º - 1 - Serão sempre submetidos à apreciação do Ministério da Educação e Investigação Científica os instrumentos individuais de trabalho escolar reeditados durante o período de vigência dos programas, desde que neles se tenham introduzido modificações ou seja pedido aumento de preço.
+Art. 4.º - 1 - Serão sempre submetidos à apreciação do Ministério da Educação e Investigação Científica os instrumentos individuais de trabalho escolar reeditados durante o período de vigência dos programas, desde que neles se tenham introduzido modificações ou seja pedido aumento de preço.
 
 2 - No caso de se tratar apenas de pedido de aumento de preço, a apreciação será feita sobre exposição justificativa desse pedido, nos termos do artigo 11.º
 
-###### Art. 5.º - 1 - Os instrumentos de trabalho escolar deverão ser entregues pelos autores, ou quem os represente, nas direcções-gerais respectivas do Ministério da Educação e Investigação Científica, num total de três exemplares.
+Art. 5.º - 1 - Os instrumentos de trabalho escolar deverão ser entregues pelos autores, ou quem os represente, nas direcções-gerais respectivas do Ministério da Educação e Investigação Científica, num total de três exemplares.
 
 2 - Os exemplares dos instrumentos individuais de trabalho escolar poderão ser apresentados, nos termos do número anterior, em projecto difinitivo, sendo no caso de material a ser impresso, acompanhado das respectivas gravuras e ilustrações, bem como de elementos referentes a tipos de letra, mancha, arranjo gráfico, papel e cores a utilizar.
 
@@ -143,7 +232,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - A Caixa Geral de Depósitos, Crédito e Previdência remeterá à respectiva direcção-geral um exemplar averbado de pagamento da guia referida no número anterior.
 
-###### Art. 6.º - 1 - Cada instrumento individual de trabalho escolar será apreciado por dois professores em exercício, com prática de ensino na matéria a que o instrumento se refere, designados pelo director-geral respectivo.
+Art. 6.º - 1 - Cada instrumento individual de trabalho escolar será apreciado por dois professores em exercício, com prática de ensino na matéria a que o instrumento se refere, designados pelo director-geral respectivo.
 
 2 - Quando as circunstâncias o aconselhem, os professores referidos no número anterior poderão, sob proposta do respectivo director-geral e mediante despacho ministerial, ser dispensados, total ou parcialmente, de serviço docente durante o período destinado a essa tarefa.
 
@@ -151,7 +240,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A apreciação feita pelos professores designados nos termos do n.º 1 do presente artigo incidirá no grau de adequação do instrumento individual de trabalho escolar aos objectivos globais do ensino e da disciplina ou matéria e do método a aplicar para a execução dos respectivos programas.
 
-###### Art. 7.º - 1 - As direcções-gerais definirão critérios de avaliação dos instrumentos de trabalho escolar, que poderão, nomeadamente, pelo que respeita a materiais impressos, assumir a forma de instrumento de avaliação, dos quais, mediante requerimento, será dado conhecimento prévio aos autores.
+Art. 7.º - 1 - As direcções-gerais definirão critérios de avaliação dos instrumentos de trabalho escolar, que poderão, nomeadamente, pelo que respeita a materiais impressos, assumir a forma de instrumento de avaliação, dos quais, mediante requerimento, será dado conhecimento prévio aos autores.
 
 2 - Os resultados de apreciação, reprovação ou não reprovação serão homologados pelos directores-gerais do respectivo ramo de ensino até quarenta e cinco dias depois da recepção dos exemplares nas respectivas direcções-gerais, ou até setenta e cinco dias, nos casos de ter havido prorrogação nos termos do n.º 3 do artigo 6.º
 
@@ -161,7 +250,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Nenhuma referência constante dos critérios de avaliação ou do relatório referidos no número anterior poderá ser utilizada em publicidade ou em qualquer forma de informação às escolas, sob pena de, mediante despacho ministerial, o instrumento individual de trabalho escolar em causa não poder ser adoptado.
 
-###### Art. 8.º - 1 - O autor, ou quem o represente, poderá, no caso de o instrumento individual de trabalho escolar ter sido reprovado, interpor recurso fundamentado para o Ministro da Educação e Investigação Científica.
+Art. 8.º - 1 - O autor, ou quem o represente, poderá, no caso de o instrumento individual de trabalho escolar ter sido reprovado, interpor recurso fundamentado para o Ministro da Educação e Investigação Científica.
 
 2 - A petição do recurso e a alegação respectiva deverão ser apresentadas na direcção-geral respectiva, no prazo de oito dias, contado a partir da data de recepção da notificação de reprovação.
 
@@ -175,31 +264,31 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 7 - As devoluções previstas no n.º 5 deste artigo serão efectuadas pela Caixa Geral de Depósitos, Crédito e Previdência, mediante ordem da respectiva direcção-geral.
 
-###### Art. 9.º Aos professores encarregados de elaborar programas será abonado um quantitativo global a fixar entre 10000$00 e 30000$00 por cada programa apresentado, podendo, quando assim for considerado necessário, sob proposta da respectiva direcção-geral e mediante despacho ministerial, ser, total ou parcialmente, dispensados de serviço docente.
+Art. 9.º Aos professores encarregados de elaborar programas será abonado um quantitativo global a fixar entre 10000$00 e 30000$00 por cada programa apresentado, podendo, quando assim for considerado necessário, sob proposta da respectiva direcção-geral e mediante despacho ministerial, ser, total ou parcialmente, dispensados de serviço docente.
 
-###### Art. 10.º - 1 - A cada um dos professores previstos no n.º 1 do artigo 6.º e no n.º 3 do artigo 8.º é devida uma importância, a fixar caso a caso, até um máximo de 8000$00, pela apreciação de cada instrumento ou conjunto de instrumentos individuais de trabalho escolar.
+Art. 10.º - 1 - A cada um dos professores previstos no n.º 1 do artigo 6.º e no n.º 3 do artigo 8.º é devida uma importância, a fixar caso a caso, até um máximo de 8000$00, pela apreciação de cada instrumento ou conjunto de instrumentos individuais de trabalho escolar.
 
 2 - O quantitativo referido no número anterior só poderá ser mandado processar após a homologação do relatório de apreciação.
 
-###### Art. 11.º Os preços dos instrumentos individuais de trabalho escolar não reprovados serão fixados pelo Ministério do Comércio e Turismo, de acordo com as normas a determinar por portaria conjunta dos Ministros do Comércio e Turismo e da Educação e Investigação Científica, devendo figurar na capa ou embalagem dos mesmo a menção de o instrumento de trabalho escolar ter sido submetido a apreciação nos termos do n.º 1 do artigo 2.º deste decreto-lei e ao facto de não ter sido reprovado.
+Art. 11.º Os preços dos instrumentos individuais de trabalho escolar não reprovados serão fixados pelo Ministério do Comércio e Turismo, de acordo com as normas a determinar por portaria conjunta dos Ministros do Comércio e Turismo e da Educação e Investigação Científica, devendo figurar na capa ou embalagem dos mesmo a menção de o instrumento de trabalho escolar ter sido submetido a apreciação nos termos do n.º 1 do artigo 2.º deste decreto-lei e ao facto de não ter sido reprovado.
 
-###### Art. 12.º Nos anos lectivos de 1977-1978 e 1978-1979, ou nos casos em que não forem publicadas as portarias referidas no n.º 1 do artigo 1.º, a adopção dos instrumentos individuais de trabalho escolar será anual e competirá aos conselhos escolares e aos professores de escolas de um só lugar no ensino primário e aos conselhos pedagógicos nos ensinos preparatório e secundário, sem prejuízo do que, em matéria de fixação de preços, seja determiando por portaria dos Ministros do Comércio e Turismo e da Educação e Investigação Científica.
+Art. 12.º Nos anos lectivos de 1977-1978 e 1978-1979, ou nos casos em que não forem publicadas as portarias referidas no n.º 1 do artigo 1.º, a adopção dos instrumentos individuais de trabalho escolar será anual e competirá aos conselhos escolares e aos professores de escolas de um só lugar no ensino primário e aos conselhos pedagógicos nos ensinos preparatório e secundário, sem prejuízo do que, em matéria de fixação de preços, seja determiando por portaria dos Ministros do Comércio e Turismo e da Educação e Investigação Científica.
 
-###### Art. 13.º São extintas a Comissão Administrativa do Livro Único do Ensino Liceal, criada pelo [Decreto-Lei n.º 37985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37985-1950-482123), de 27 de Setembro de 1950, com as alterações introduzidas pelo [Decreto-Lei n.º 38443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38443-1951-591690), de 29 de Setembro de 1951, e pelo Decreto n.º 40680, de 11 de Julho de 1956, e a Comissão Administrativa do Livro Único do Ensino Técnico Profissional, criada por força da remissão do artigo 1.º do [Decreto-Lei n.º 40234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40234-1955-238384), de 6 de Julho de 1955, para o [Decreto-Lei n.º 37985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37985-1950-482123).
+Art. 13.º São extintas a Comissão Administrativa do Livro Único do Ensino Liceal, criada pelo [Decreto-Lei n.º 37985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37985-1950-482123), de 27 de Setembro de 1950, com as alterações introduzidas pelo [Decreto-Lei n.º 38443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38443-1951-591690), de 29 de Setembro de 1951, e pelo Decreto n.º 40680, de 11 de Julho de 1956, e a Comissão Administrativa do Livro Único do Ensino Técnico Profissional, criada por força da remissão do artigo 1.º do [Decreto-Lei n.º 40234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40234-1955-238384), de 6 de Julho de 1955, para o [Decreto-Lei n.º 37985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37985-1950-482123).
 
-###### Art. 14.º É extinta a Comissão Administrativa do Livro Escolar, criada sob a denominação de Comissão Administrativa de Livro Único pelo artigo 8.º do Decreto n.º 30660, de 20 de Agosto de 1940, e regulada por diversa legislação complementar.
+Art. 14.º É extinta a Comissão Administrativa do Livro Escolar, criada sob a denominação de Comissão Administrativa de Livro Único pelo artigo 8.º do Decreto n.º 30660, de 20 de Agosto de 1940, e regulada por diversa legislação complementar.
 
-###### Art. 15.º - 1 - Os saldos apurados após a aprovação das respectivas contas de administração das comissões referidas nos artigos 13.º e 14.º são transferidos, independentemente de quaisquer formalidades, para o Instituto de Acção Social Escolar.
+Art. 15.º - 1 - Os saldos apurados após a aprovação das respectivas contas de administração das comissões referidas nos artigos 13.º e 14.º são transferidos, independentemente de quaisquer formalidades, para o Instituto de Acção Social Escolar.
 
 2 - A prestação de contas referida no número anterior só se verificará após o pagamento dos encargos já assumidos e ainda não liquidados.
 
 3 - Os saldos referidos no n.º 1 deste artigo destinar-se-ão exclusivamente ao plano de acção para aquecimento das escolas do ensino primário.
 
-###### Art. 16.º As despesas resultantes da aplicação do disposto nos artigos 9.º e 10.º do presente diploma serão suportadas por verbas adequadas inscritas no orçamento do Ministério da Educação e Investigação Científica (Direcção-Geral do Ensino Básico e Direcção-Geral do Ensino Secundário).
+Art. 16.º As despesas resultantes da aplicação do disposto nos artigos 9.º e 10.º do presente diploma serão suportadas por verbas adequadas inscritas no orçamento do Ministério da Educação e Investigação Científica (Direcção-Geral do Ensino Básico e Direcção-Geral do Ensino Secundário).
 
-###### Art. 17.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 17.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 18.º É revogado o [Decreto n.º 713/76](https://diariodarepublica.pt/dr/detalhe/decreto/713-1976-408956), de 7 de Outubro, e toda a legislação relativa às Comissões Administrativas dos Livros Únicos dos Ensinos Liceal e Técnico Profissional e à Comissão Administrativa do Livro Escolar, nomeadamente:
+Art. 18.º É revogado o [Decreto n.º 713/76](https://diariodarepublica.pt/dr/detalhe/decreto/713-1976-408956), de 7 de Outubro, e toda a legislação relativa às Comissões Administrativas dos Livros Únicos dos Ensinos Liceal e Técnico Profissional e à Comissão Administrativa do Livro Escolar, nomeadamente:
 
 a) O Decreto n.º 30660, de 20 de Agosto de 1940;
 
@@ -237,8 +326,8 @@ r) O artigo 27.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - Carlos Alberto da Mota Pinto - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 20 de Dezembro de 1977.**
+Promulgado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

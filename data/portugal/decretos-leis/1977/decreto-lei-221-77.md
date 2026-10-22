@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12400/12501263.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,183 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d12fbeaca2484c2716c7450e5e86e060628c00e654a9b267a57e50e90206547a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 698619f9c79f3efdefdd0731f029148fdaad379c2c539fb2c5966b78f4d17fd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Agricultura e Pescas
+- Conselho Técnico Regional
+- Criação de Serviços
+- Direcção Geral da Administração Geral das Pescas
+- Direcção Geral da Extensão Rural
+- Direcção Geral da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático
+- Direcção Geral das Indústrias Agrícolas Alimentares
+- Direcção Geral das Pescas
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Direcção Geral de Protecção da Produção Agrícola
+- Direcção Geral do Fomento Florestal
+- Direcção Geral do Ordenamento e Gestão Florestal
+- Direcção Geral do Planeamento e Fomento das Pescas
+- Direcção Geral dos Recursos Florestais
+- Direcção Geral dos Serviços Agrícolas
+- Direcção Geral dos Serviços Pecuários
+- Direcção Geral dos Serviços Veterinários
+- Fundo de Fomento Florestal
+- Gabinete de Coordenação das Pescas
+- Instituto de Gestão e Estruturação Fundiária
+- Instituto de Qualidade Alimentar
+- Instituto de Reorganização Agrária
+- Instituto Nacional de Investigação Agrária
+- Instituto Nacional de Investigação das Pescas
+- Instituto Português de Conservas de Peixe
+- Junta de Hidráulica Agrícola
+- Ministério da Agricultura e Pescas
+- Orgânica
+- Quadro de Pessoal
+- Região Agrária
+- Serviço Regional de Agricultura
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276599:por
+  label: "Alterado o art. 52º pelo DEC LEI.546/77.31.12.1977.MAP, DR.IS [302] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/546-1977-276599
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:327315:por
+  label: "Alterado o art. 52º pelo DEC LEI.320/78.04.11.1978.MAP, DR.IS [254] de 04.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1978-327315
+  date: '1978-11-04'
+- type: amended_by
+  target: pt:dre:383647:por
+  label: "Transferidas para a Direcção-Geral do Ordenamento e Gestão Florestal, cujas atribuições e competências constam do\
+    \ presente diploma, as atribuições e competências das comissões venatórias constantes do Dec 47847 de 14-Ago 1967, com\
+    \ excepção das competências definidas nas als. d) e m) do nº 1 do art. 260º e als. c) e e) do art. 262º do referido diploma,\
+    \ que serão mantidas até publicação da nova lei da caça, bem como das competências das comissões venatórias das regiões\
+    \ autónomas, que manterão a totalidade das atribuições e competências constantes do citado diploma, até publicação da\
+    \ referida lei da caça, pelo DEC LEI.149/79.26.05.1979.PCM, DR.IS [121] de 26.05.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-1979-383647
+  date: '1979-05-26'
+- type: amended_by
+  target: pt:dre:470626:por
+  label: "Alterados os quadros e as carreiras do pessoal a que se refere o artigo 48.º, pela PORT.515/80.13.08.1980.PCM, DR.IS\
+    \ [186] de 13.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1980-470626
+  date: '1980-08-13'
+- type: amended_by
+  target: pt:dre:461659:por
+  label: "Alterado o quadro de pessoal do mapa a que se refere o artigo 46.º, pela PORT.744/80.27.09.1980.PCM, DR.IS [224]\
+    \ de 27.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-1980-461659
+  date: '1980-09-27'
+- type: amended_by
+  target: pt:dre:570331:por
+  label: "Transferidos todos os bens, direitos e obrigações da Fábrica de Óleos e Rações de Évora - FORE cuja designação foi\
+    \ adoptada pelo DM DD201, de 03-Set para o Instituto de Gestão e Estruturação Fundiária criado pelo presente diploma,\
+    \ pela RES.3/81.07.01.1981.PCM, DR.IS [5] de 07.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/3-1981-570331
+  date: '1981-01-07'
+- type: amended_by
+  target: pt:dre:660510:por
+  label: "Alterados os lugares a que se refere o art 48º pela PORT.82/84.1984.02.04.PCM DR.IS [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-1984-660510
+  date: '1984-02-04'
+- type: amended_by
+  target: pt:dre:468672:por
+  label: "Alterados os quadros de pessoal do Gabinete de Planeamento, da Rede de Informação de Contabilidades Agrícolas, da\
+    \ Direcção-Geral dos Serviços Centrais, do Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários\
+    \ e Alimentares, do Instituto de Qualidade Alimentar, da Direcção-Geral de Agricultura, da Direcção-Geral da Pecuária,\
+    \ do Instituto Nacional de Investigação Agrária e de Extensão Rural, do Instituto de Gestão e Estruturação Fundiária,\
+    \ da Direcção-Geral das Pescas, do Instituto Nacional de Investigação das Pescas, do Instituto Português de Conservas\
+    \ de Peixe, do Gabinete de Estudos e Planeamento das Pescas e da Escola Profissional de Pescas de Lisboa, pela PORT.452-A/86.20.08.1986.MF,\
+    \ DR.IS [190]2ºSupl de 20.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-a-1986-468672
+  date: '1986-08-20'
+- type: amended_by
+  target: pt:dre:417183:por
+  label: "Extinto o Instituto de Gestão e Estruturação Fundiária, criado no presente diploma, pelo DEC LEI.299/87.01.08.1987.MAPA,\
+    \ DR.IS [175] de 01.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1987-417183
+  date: '1987-08-01'
+- type: amended_by
+  target: pt:dre:305260:por
+  label: Extinto o Instituto Nacional de Investigação das Pescas, criado no art. 42.º e previsto na al. e) do n.º 1 do art.
+    6.º do presente diploma, pelo DEC LEI.154/92.25.07.1992.MM, DR.IS-A [170]Supl de 25.07.1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
+- type: amended_by
+  target: pt:dre:545637:por
+  label: "Extinta, sendo objecto de fusão, a Auditoria Jurídica criada pelo presente diploma e cujas atribuições são integradas\
+    \ na Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas. E reestruturada a Secretaria-Geral\
+    \ (criada pelo presente), sendo algumas das suas atribuições integradas no Instituto de Financiamento da Agricultura e\
+    \ Pescas, I.P. e no Gabinete de Planeamento e Políticas (nos termos da al. b) do nº 4 do art.21º), pelo DEC LEI.209/2006.27.10.2006.MADRP,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2006-545637
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643293:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:256063:por
+  label: "Rectificado pela RECT.DD97.22.08.1977.PCM, DR.IS [193] de 22.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-256063
+  date: '1977-08-22'
+- type: corrected_by
+  target: pt:dre:621559:por
+  label: Rectificada a Rectificação DD97, de 22 de Agosto de 1977, que rectifica o presente diploma, pela DECL.DD7848.29.09.1977.PCM,
+    DR.IS [226]Supl de 29.09.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-621559
+  date: '1977-09-29'
+- type: repealed_by
+  target: pt:dre:365284:por
+  label: "Revogada a alínea b) do n.º 1 do artigo 6.º e artigo 24.º pelo DEC LEI.411/79.28.09.1979.MAP, DR.IS [225] de 28.09.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1979-365284
+  date: '1979-09-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:23Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +293,7 @@ LEI ORGÂNICA DO MINISTÉRIO DA AGRICULTURA E PESCAS
 
 ### CAPÍTULO I — Objectivos e estruturas do Ministério
 
-###### Artigo 1.º São objectivos do Ministério da Agricultura e Pescas:
+Artigo 1.º São objectivos do Ministério da Agricultura e Pescas:
 
 a) Estabelecer a política agrária e das pescas e coordenar as acções necessárias à sua execução;
 
@@ -160,7 +303,7 @@ c) Promover a execução da política estabelecida para os sectores;
 
 d) Contribuir para a definição e execução da política de abastecimento nacional em bens de consumo.
 
-###### Art. 2.º - 1. O Ministério da Agricultura e Pescas compreenderá as Secretarias de Estado que forem consideradas necessárias.
+Art. 2.º - 1. O Ministério da Agricultura e Pescas compreenderá as Secretarias de Estado que forem consideradas necessárias.
 
 2. Os Gabinetes do Ministro e dos Secretários de Estado asseguram o apoio à acção governativa.
 
@@ -172,11 +315,11 @@ d) Contribuir para a definição e execução da política de abastecimento naci
 
 6. Junto do Ministro funcionam o Conselho Geral e o Conselho Nacional da Agricultura e Pescas.
 
-###### Art. 3.º - 1. O Conselho Geral, a que presidirá o Ministro, é um órgão consultivo e de apoio à formulação das grandes linhas de acção do Ministério da Agricultura e Pescas, de que farão parte um representante dos Ministérios do Plano e Coordenação Económica, das Finanças, da Indústria e Tecnologia e do Comércio e Turismo e da Secretaria de Estado do Ambiente e individualidades de reconhecida competência de livre escolha do Ministro.
+Art. 3.º - 1. O Conselho Geral, a que presidirá o Ministro, é um órgão consultivo e de apoio à formulação das grandes linhas de acção do Ministério da Agricultura e Pescas, de que farão parte um representante dos Ministérios do Plano e Coordenação Económica, das Finanças, da Indústria e Tecnologia e do Comércio e Turismo e da Secretaria de Estado do Ambiente e individualidades de reconhecida competência de livre escolha do Ministro.
 
 2. O Ministro definirá, por portaria, a composição, as atribuições, as competências e as normas de funcionamento do Conselho Geral.
 
-###### Art. 4.º - 1. O Conselho Nacional de Agricultura e Pescas é um órgão consultivo, de concertação e de diálogo entre o sector público e os interesses económicos e sociais nos domínios da agricultura e pescas.
+Art. 4.º - 1. O Conselho Nacional de Agricultura e Pescas é um órgão consultivo, de concertação e de diálogo entre o sector público e os interesses económicos e sociais nos domínios da agricultura e pescas.
 
 2. Neste Conselho, presidido pelo Ministro, estão representadas as várias organizações de âmbito nacional congregando os interesses patronais e sindicais, assim como representantes dos sectores público, cooperativo e privado.
 
@@ -184,7 +327,7 @@ d) Contribuir para a definição e execução da política de abastecimento naci
 
 4. O Conselho reunirá, sob convocatória do Ministro, em plenário ou por secções de composição eventual.
 
-###### Art. 5.º Na dependência directa do Ministro funcionam os seguintes órgãos de concepção, coordenação e apoio da actividade de todo o Ministério da Agricultura e Pescas:
+Art. 5.º Na dependência directa do Ministro funcionam os seguintes órgãos de concepção, coordenação e apoio da actividade de todo o Ministério da Agricultura e Pescas:
 
 a) Secretaria-Geral;
 
@@ -196,7 +339,7 @@ d) Auditoria Jurídica;
 
 e) Gabinete de Informação e Cooperação Internacional.
 
-###### Art. 6.º - 1. No Ministério da Agricultura e Pescas funcionam os seguintes serviços centrais:
+Art. 6.º - 1. No Ministério da Agricultura e Pescas funcionam os seguintes serviços centrais:
 
 a) Instituto Nacional de Investigação Agrária;
 
@@ -232,13 +375,13 @@ b) O Gabinete de Apoio Técnico aos organismos citados na alínea a);
 
 c) Os serviços especializados de crédito e seguros à agricultura e pescas, quando for considerado oportuno, organizados de acordo com a reestruturação do sistema bancário.
 
-###### Art. 7.º - 1. São criados na dependência do Ministro os serviços regionais de agricultura.
+Art. 7.º - 1. São criados na dependência do Ministro os serviços regionais de agricultura.
 
 2. O Ministro e os Secretários de Estado poderão delegar, quando o entenderem conveniente, nos directores-gerais e equiparados a competência para despachar assuntos dos serviços regionais de agricultura.
 
-###### Art. 8.º O Ministério da Agricultura e Pescas poderá ter delegados regionais, na dependência da Direcção-Geral das Pescas, ao nível das regiões Plano, sempre que o condicionalismo regional o imponha.
+Art. 8.º O Ministério da Agricultura e Pescas poderá ter delegados regionais, na dependência da Direcção-Geral das Pescas, ao nível das regiões Plano, sempre que o condicionalismo regional o imponha.
 
-###### Art. 9.º - 1. Os serviços regionais de agricultura são dirigidos por um director regional em cada uma das regiões agrárias.
+Art. 9.º - 1. Os serviços regionais de agricultura são dirigidos por um director regional em cada uma das regiões agrárias.
 
 2. Junto do director regional funciona o Conselho Técnico Regional.
 
@@ -248,7 +391,7 @@ c) Os serviços especializados de crédito e seguros à agricultura e pescas, qu
 
 5. As regiões agrárias poderão também conter zonas agrárias não compreendidas em sub-regiões.
 
-###### Art. 10.º - 1. O Conselho Técnico Regional é um órgão de consulta e apoio ao director regional, ao qual incumbe colaborar, designadamente:
+Art. 10.º - 1. O Conselho Técnico Regional é um órgão de consulta e apoio ao director regional, ao qual incumbe colaborar, designadamente:
 
 a) Na definição das linhas gerais de acção regional do Ministério da Agricultura e Pescas;
 
@@ -260,7 +403,7 @@ c) Na coordenação dos diversos serviços para a execução dos programas e no 
 
 3. As normas de funcionamento do Conselho Técnico Regional serão definidas no diploma orgânico dos serviços regionais de agricultura.
 
-###### Art. 11.º - 1. Os serviços regionais de agricultura compreendem:
+Art. 11.º - 1. Os serviços regionais de agricultura compreendem:
 
 a) Órgãos de concepção e coordenação;
 
@@ -278,11 +421,11 @@ d) Serviços administrativos.
 
 5. Quando a actuação dos serviços regionais de agricultura se verificar ao nível de explorações com actividade exclusiva ou predominantemente florestal, os serviços do subsector florestal terão a individualização e dependência que for julgada conveniente.
 
-###### Art. 12.º As atribuições, a organização e as competências, bem como o regime de pessoal dos órgãos e serviços referidos nos artigos anteriores, serão objecto de decreto simples aprovado pelos Ministros da Agricultura e Pescas e das Finanças e Secretário de Estado da Administração Pública.
+Art. 12.º As atribuições, a organização e as competências, bem como o regime de pessoal dos órgãos e serviços referidos nos artigos anteriores, serão objecto de decreto simples aprovado pelos Ministros da Agricultura e Pescas e das Finanças e Secretário de Estado da Administração Pública.
 
 ### CAPÍTULO II — Competências do Ministro e dos Secretários do Estado
 
-###### Art. 13.º Compete ao Ministro, designadamente:
+Art. 13.º Compete ao Ministro, designadamente:
 
 a) Definir e fazer executar a política agrária e das pescas;
 
@@ -292,7 +435,7 @@ c) Superintender e coordenar toda a acção do Ministério;
 
 d) Orientar e coordenar a acção política dos Secretários de Estado.
 
-###### Art. 14.º Compete aos Secretários de Estado, designadamente:
+Art. 14.º Compete aos Secretários de Estado, designadamente:
 
 a) Coadjuvar o Ministro no estabelecimento da política agrária e das pescas e fazê-la executar, praticando todos os actos da sua competência própria ou delegada;
 
@@ -302,7 +445,7 @@ b) Orientar e coordenar os serviços que venham a funcionar nas suas Secretarias
 
 #### SECÇÃO I — Da Secretaria-Geral
 
-###### Art. 15.º - 1. A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, à qual incumbe:
+Art. 15.º - 1. A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, à qual incumbe:
 
 a) Estudar, promover e coordenar, de forma permanente e sistemática, no âmbito do Ministério da Agricultura e Pescas, as medidas tendentes ao aperfeiçoamento organizacional, ao desenvolvimento e gestão dos recursos humanos e ao funcionamento integrado dos serviços, tendo em vista a eficácia económica e social;
 
@@ -338,11 +481,11 @@ d) Administrativos;
 
 e) De documentação e de técnica geral.
 
-###### Art. 16.º Na dependência directa do secretário-geral funcionará a Obra Social do Ministério da Agricultura e Pescas, de acordo com as disposições legais em vigor.
+Art. 16.º Na dependência directa do secretário-geral funcionará a Obra Social do Ministério da Agricultura e Pescas, de acordo com as disposições legais em vigor.
 
 #### SECÇÃO II — Da Inspecção-Geral Técnica e Administrativa
 
-###### Art. 17.º À Inspecção-Geral Técnica e Administrativa incumbe:
+Art. 17.º À Inspecção-Geral Técnica e Administrativa incumbe:
 
 a) O apoio à política agrária e das pescas através do apuramento dos progressos conseguidos em resultado da actuação dos diversos órgãos e serviços no cumprimento das acções planeadas e programadas pelo Ministro;
 
@@ -360,7 +503,7 @@ g) Apoiar no âmbito técnico-administrativo, sob despacho do Ministro, os organ
 
 #### SECÇÃO III — Do Gabinete do Planeamento
 
-###### Art. 18.º Ao Gabinete de Planeamento incumbe:
+Art. 18.º Ao Gabinete de Planeamento incumbe:
 
 a) Apoiar a acção do Ministro e Secretário de Estado na formulação da política agrária e das pescas e no planeamento do sector;
 
@@ -376,13 +519,13 @@ f) Avaliar os resultados das medidas de política agrária e das pescas;
 
 g) Promover o aperfeiçoamento das técnicas de planeamento e de informação estatística relativas aos sectores da agricultura e das pescas.
 
-###### Art. 19.º Junto do Gabinete de Planeamento funciona, nos termos legais, a Comissão Consultiva de Estatística.
+Art. 19.º Junto do Gabinete de Planeamento funciona, nos termos legais, a Comissão Consultiva de Estatística.
 
 #### SECÇÃO IV — Da Auditoria Jurídica
 
-###### Art. 20.º A Auditoria Jurídica é um órgão dirigido por um auditor jurídico, de acordo com o legislado no Estatuto Judiciário.
+Art. 20.º A Auditoria Jurídica é um órgão dirigido por um auditor jurídico, de acordo com o legislado no Estatuto Judiciário.
 
-###### Art. 21.º À Auditoria Jurídica incumbe ocupar-se dos assuntos de natureza jurídica que lhe sejam submetidos pelo Ministro e Secretários de Estado, designadamente:
+Art. 21.º À Auditoria Jurídica incumbe ocupar-se dos assuntos de natureza jurídica que lhe sejam submetidos pelo Ministro e Secretários de Estado, designadamente:
 
 a) Elaborar pareceres, informações, projectos legislativos e estudos jurídicos;
 
@@ -400,7 +543,7 @@ g) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina 
 
 #### SECÇÃO V — Do Gabinete de Informação e Cooperação Internacional
 
-###### Art. 22.º Ao Gabinete de Informação e Cooperação Internacional, salvaguardada a competência técnica e científica dos serviços directamente intervenientes, incumbe:
+Art. 22.º Ao Gabinete de Informação e Cooperação Internacional, salvaguardada a competência técnica e científica dos serviços directamente intervenientes, incumbe:
 
 a) Coordenar e assegurar a colheita, selecção, análise, orientação e difusão das informações de interesse para o Ministério da Agricultura e Pescas;
 
@@ -416,7 +559,7 @@ e) Coordenar e assegurar em conjunto com os Ministérios do Plano e Coordenaçã
 
 #### SECÇÃO I — Do Instituto Nacional de Investigação Agrária
 
-###### Art. 23.º - 1. Ao Instituto Nacional de Investigação Agrária incumbe:
+Art. 23.º - 1. Ao Instituto Nacional de Investigação Agrária incumbe:
 
 a) Assegurar e coordenar, de acordo com os programas aprovados, a investigação científica no âmbito do sector;
 
@@ -432,7 +575,7 @@ e) Assegurar as ligações e o intercâmbio com as instituições de ensino rela
 
 #### SECÇÃO II — Da Direcção-Geral das Pescas
 
-###### Art. 24.º À Direcção-Geral das Pescas incumbe:
+Art. 24.º À Direcção-Geral das Pescas incumbe:
 
 a) Exercer a administração geral do sector, estabelecendo normas e regulamentos sobre a protecção, exploração e utilização dos recursos e dos meios marítimo e estuarino;
 
@@ -466,7 +609,7 @@ p) Assegurar no campo técnico e científico os programas de cooperação intern
 
 #### SECÇÃO III — Do Instituto Nacional de Investigação das Pescas
 
-###### Art. 25.º Ao Instituto Nacional de Investigação das Pescas incumbe:
+Art. 25.º Ao Instituto Nacional de Investigação das Pescas incumbe:
 
 a) Assegurar e coordenar, de acordo com os programas aprovados, a investigação científica e técnica do sector;
 
@@ -480,7 +623,7 @@ e) Promover a realização de cursos de formação e outras iniciativas adequada
 
 #### SECÇÃO IV — Do Instituto Português de Conservas de Peixe
 
-###### Art. 26.º Ao Instituto Português de Conservas de Peixe incumbe:
+Art. 26.º Ao Instituto Português de Conservas de Peixe incumbe:
 
 a) Promover os estudos, difundir os conhecimentos e apoiar as acções necessárias mais adequadas ao desenvolvimento da conservação, transformação e comércio dos produtos da pesca;
 
@@ -494,7 +637,7 @@ e) Receber, em regime de armazéns gerais industriais, os produtos das indústri
 
 #### SECÇÃO V — Da Direcção-Geral de Hidráulica e Engenharia Agrícola
 
-###### Art. 27.º À Direcção-Geral de Hidráulica e Engenharia Agrícola incumbe:
+Art. 27.º À Direcção-Geral de Hidráulica e Engenharia Agrícola incumbe:
 
 a) Estabelecer o plano nacional de aproveitamentos hidroagrícolas estudar e elaborar os respectivos projectos, tendo em atenção a sua integração no planeamento geral dos recursos e aproveitamentos hidráulicos, o apoiar as acções conducentes do aumento da área regada nacional;
 
@@ -512,7 +655,7 @@ g) Apoiar ou promover o estudo e a definição dos modelos mais adequados ao equ
 
 #### SECÇÃO VI — Do Instituto de Gestão e Estruturação Fundiária
 
-###### Art. 28.º Ao Instituto de Gestão e Estruturação Fundiária incumbe:
+Art. 28.º Ao Instituto de Gestão e Estruturação Fundiária incumbe:
 
 a) Coordenar e controlar a gestão do património fundiário nacional formado pelas terras expropriadas e nacionalizadas no âmbito da Reforma Agrária, bem como as terras e demais bens fundiários que sejam propriedade do Estado e que estejam na posse do Ministério da Agricultura e Pescas, excluindo os bens que venham a ficar adstritos às Secretarias de Estado, o ainda de todas as terras e demais bens fundiários adquiridos por qualquer título pelo próprio Instituto;
 
@@ -530,7 +673,7 @@ g) Colaborar na elaboração dos instrumentos legais e apoiar as acções indisp
 
 #### SECÇÃO VII — Da Direcção-Geral de Extensão Rural
 
-###### Art. 29.º À Direcção-Geral de Extensão Rural incumbe:
+Art. 29.º À Direcção-Geral de Extensão Rural incumbe:
 
 a) Apoiar e acompanhar os serviços de extensão rural na recolha das necessidades das populações rurais, na motivação dos agricultores e dos seus agregados familiares para a análise e discussão dos seus problemas e formulação das respectivas soluções, com vista à melhoria do seu bem-estar e ao desenvolvimento das suas actividades;
 
@@ -552,7 +695,7 @@ i) Colaborar na definição das normas de comercialização e de formação de p
 
 #### SECÇÃO VIII — Da Direcção-Geral de Protecção da Produção Agrícola
 
-###### Art. 30.º À Direcção-Geral de Protecção da Produção Agrícola incumbe:
+Art. 30.º À Direcção-Geral de Protecção da Produção Agrícola incumbe:
 
 a) Colaborar nos estudos necessários à regulamentação do ordenamento da produção agrícola nos domínios da fitossanidade e do material de propagação das plantas;
 
@@ -578,7 +721,7 @@ l) Estudar e propor superiormente as modificações a introduzir na legislação
 
 #### SECÇÃO IX — Da Direcção-Geral dos Serviços Veterinários
 
-###### Art. 31.º À Direcção-Geral dos Serviços Veterinários incumbe:
+Art. 31.º À Direcção-Geral dos Serviços Veterinários incumbe:
 
 a) Apoiar, coordenar e acompanhar a defesa sanitária dos animais, assegurando a sua execução em casos especiais;
 
@@ -596,7 +739,7 @@ g) Assegurar o cumprimento das obrigações internacionais em matéria de sanida
 
 #### SECÇÃO X — Da Direcção-Geral das Indústrias Agrícolas Alimentares
 
-###### Art. 32.º - 1. À Direcção-Geral das Indústrias Agrícolas Alimentares incumbe:
+Art. 32.º - 1. À Direcção-Geral das Indústrias Agrícolas Alimentares incumbe:
 
 a) Proceder ao estudo e regulamentação das medidas de promoção e ordenamento das indústrias agrícolas no âmbito da competência do Ministério da Agricultura e Pescas;
 
@@ -612,7 +755,7 @@ e) Assegurar o exercício das tarefas previstas no regime geral das empresas pú
 
 #### SECÇÃO XI — Do Instituto de Qualidade Alimentar
 
-###### Art. 33.º Ao Instituto de Qualidade Alimentar incumbe:
+Art. 33.º Ao Instituto de Qualidade Alimentar incumbe:
 
 a) Proceder, em colaboração com os serviços do Ministério dos Assuntos Sociais, aos estudos necessários à definição das características dos produtos alimentares;
 
@@ -622,7 +765,7 @@ c) Promover a aplicação das medidas de política de qualidade dos produtos ali
 
 #### SECÇÃO XII — Da Direcção-Geral de Fomento Florestal
 
-###### Art. 34.º À Direcção-Geral de Fomento Florestal incumbe:
+Art. 34.º À Direcção-Geral de Fomento Florestal incumbe:
 
 a) Apoiar ou promover a actividade de esclarecimento dos empresários florestais e dos compartes nos baldios sobre a política florestal e estimular a sua adesão às acções a empreender pelo Ministério da Agricultura e Pescas, apoiando os serviços regionais nas actividades de cooperação com a extensão rural;
 
@@ -642,7 +785,7 @@ h) Controlar a origem, produção e qualidade das sementes, propágulos e planta
 
 #### SECÇÃO XIII — Da Direcção-Geral do Ordenamento e Gestão Florestal
 
-###### Art. 35.º À Direcção-Geral do Ordenamento e Gestão Florestal incumbe:
+Art. 35.º À Direcção-Geral do Ordenamento e Gestão Florestal incumbe:
 
 a) Estabelecer os padrões culturais e de normalidade para as diferentes espécies florestais e controlar a sua aplicação;
 
@@ -668,7 +811,7 @@ l) Estabelecer ou promover o estabelecimento e gerir ou orientar a gestão dos p
 
 #### SECÇÃO XIV — Dos organismos especializados na regulamentação e regularização do mercado
 
-###### Art. 36.º Aos organismos especializados na regulamentação e regularização do mercado incumbe:
+Art. 36.º Aos organismos especializados na regulamentação e regularização do mercado incumbe:
 
 a) Contribuir para a regularização do mercado interno pela compra, venda e armazenagem da produção directamente ou por licenciamento a empresas privadas;
 
@@ -680,13 +823,13 @@ d) Dar parecer sobre o licenciamento de operações de comércio externo de prod
 
 #### SECÇÃO XV — Do Gabinete de Apoio Técnico
 
-###### Art. 37.º Ao Gabinete de Apoio Técnico incumbe, em ligação com o Gabinete de Planeamento, apoiar tecnicamente e coordenar as actividades dos organismos especializados na regulamentação e regularização do mercado e quaisquer outras fixadas pelo Ministro.
+Art. 37.º Ao Gabinete de Apoio Técnico incumbe, em ligação com o Gabinete de Planeamento, apoiar tecnicamente e coordenar as actividades dos organismos especializados na regulamentação e regularização do mercado e quaisquer outras fixadas pelo Ministro.
 
-###### Art. 38.º O Gabinete é constituído por pessoal em regime de requisição, destacamento, deslocado ou tarefa.
+Art. 38.º O Gabinete é constituído por pessoal em regime de requisição, destacamento, deslocado ou tarefa.
 
 ### CAPÍTULO V — Atribuições dos serviços regionais do Ministério
 
-###### Art. 39.º Aos serviços regionais de agricultura incumbe:
+Art. 39.º Aos serviços regionais de agricultura incumbe:
 
 a) Contribuir para a definição da política agrária e assegurar que ela é executada a nível regional e local;
 
@@ -706,7 +849,7 @@ h) Proporcionar aos agricultores os conhecimentos disponíveis e as inovações 
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 40.º Aos órgãos e serviços dependentes do Ministro e Secretários de Estado compete, em geral:
+Art. 40.º Aos órgãos e serviços dependentes do Ministro e Secretários de Estado compete, em geral:
 
 a) Habilitar o Ministro e os Secretários de Estado com os elementos necessários e as propostas fundamentadas para a definição da política agrária e das pescas nos domínios que a cada um couberem pelo presente diploma;
 
@@ -716,19 +859,19 @@ c) Assegurar as ligações com os organismos de outros Ministérios e com quaisq
 
 d) Assegurar contacto permanente com o Instituto António Sérgio do Sector Cooperativo.
 
-###### Art. 41.º - 1. Às direcções-gerais e organismos equiparados competem as directrizes gerais de actuação técnica dos serviços regionais e apoiar a sua actividade, designadamente colaborando na elaboração dos programas de actividades das regiões agrárias, do fornecimento dos conhecimento necessários e da metodologia apropriada para concretizar as acções programadas.
+Art. 41.º - 1. Às direcções-gerais e organismos equiparados competem as directrizes gerais de actuação técnica dos serviços regionais e apoiar a sua actividade, designadamente colaborando na elaboração dos programas de actividades das regiões agrárias, do fornecimento dos conhecimento necessários e da metodologia apropriada para concretizar as acções programadas.
 
 2. Mais compete às direcções-gerais e organismos equiparados assegurar o funcionamento dos serviços especializados de âmbito nacional.
 
-###### Art. 42.º Consideram-se criados todos os órgãos e serviços referidos nos artigos 2.º, 5.º, 6.º, 7.º, 9.º e 16.º deste diploma não existentes à data da sua publicação.
+Art. 42.º Consideram-se criados todos os órgãos e serviços referidos nos artigos 2.º, 5.º, 6.º, 7.º, 9.º e 16.º deste diploma não existentes à data da sua publicação.
 
-###### Art. 43.º Enquanto não forem publicados os diplomas orgânicos de cada órgão e serviço do Ministério da Agricultura e Pescas, fica o Ministro autorizado a definir, por simples despacho orientador publicado na Diário da República, a estrutura, as atribuições, as competências e o funcionamento das unidades orgânicas em que serão subdivididos os órgãos e serviços constantes dos artigos 5.º, 6.º, 7.º e 9.º
+Art. 43.º Enquanto não forem publicados os diplomas orgânicos de cada órgão e serviço do Ministério da Agricultura e Pescas, fica o Ministro autorizado a definir, por simples despacho orientador publicado na Diário da República, a estrutura, as atribuições, as competências e o funcionamento das unidades orgânicas em que serão subdivididos os órgãos e serviços constantes dos artigos 5.º, 6.º, 7.º e 9.º
 
-###### Art. 44.º A estrutura orgânica interna que, em cada momento, estiver definida para as actividades de carácter permanente dos órgãos e serviços do Ministério da Agricultura e Pescas não prejudica o funcionamento no seio de cada um, a tempo completo, de equipas internas de carácter interdepartamental destinadas à realização de estudos e projectos específicos.
+Art. 44.º A estrutura orgânica interna que, em cada momento, estiver definida para as actividades de carácter permanente dos órgãos e serviços do Ministério da Agricultura e Pescas não prejudica o funcionamento no seio de cada um, a tempo completo, de equipas internas de carácter interdepartamental destinadas à realização de estudos e projectos específicos.
 
-###### Art. 45.º As actividades dos órgãos e serviços do Ministério da Agricultura e Pescas decorrerão segundo um programa anual, a aprovar pelo Ministro ou respectivos Secretários de Estado, devendo as mesmas ser objecto de um relatório de execução a submeter às referidas entidades no ano seguinte.
+Art. 45.º As actividades dos órgãos e serviços do Ministério da Agricultura e Pescas decorrerão segundo um programa anual, a aprovar pelo Ministro ou respectivos Secretários de Estado, devendo as mesmas ser objecto de um relatório de execução a submeter às referidas entidades no ano seguinte.
 
-###### Art. 46.º - 1. São criados, por necessidade premente de montagem dos órgãos e serviços do Ministério da Agricultura e Pescas, os lugares constantes do mapa anexo a este decreto-lei com as letras nele indicadas.
+Art. 46.º - 1. São criados, por necessidade premente de montagem dos órgãos e serviços do Ministério da Agricultura e Pescas, os lugares constantes do mapa anexo a este decreto-lei com as letras nele indicadas.
 
 2. Os lugares de secretário-geral e adjunto do secretário-geral, inspector-geral técnico e administrativo, directores-gerais e subdirectores-gerais, director e subdirector do Gabinete de Planeamento, directores e subdirectores dos institutos, director do Gabinete de Informação e Cooperação Internacional, directores e subdirectores regionais serão providos, em comissão de serviço, por livre escolha do Ministro, entre cidadãos com reconhecida capacidade para o desempenho das respectivas funções.
 
@@ -744,9 +887,9 @@ d) Assegurar contacto permanente com o Instituto António Sérgio do Sector Coop
 
 8. O tempo de serviço prestado em comissão de serviço conta para todos os efeitos legais.
 
-###### Art. 47.º A constituição e alterações dos quadros únicos e dos contingentes do pessoal dirigente e contratado do Ministério da Agricultura e Pescas serão objecto de portaria conjunta dos Ministros da Agricultura e Pescas e das Finanças e do Secretário de Estado da Administração Pública.
+Art. 47.º A constituição e alterações dos quadros únicos e dos contingentes do pessoal dirigente e contratado do Ministério da Agricultura e Pescas serão objecto de portaria conjunta dos Ministros da Agricultura e Pescas e das Finanças e do Secretário de Estado da Administração Pública.
 
-###### Art. 48.º As condições de recrutamento e provimento do pessoal dos quadros únicos e do pessoal contratado e o conjunto das categorias, sucessivamente hierarquizadas, de cada quadro único que constitui uma carreira, bem como a definição dos diversos quadros únicos e o regime de intercomunicações dos mesmos, serão objecto de decreto simples aprovado pelos Ministros da Agricultura e Pescas e das Finanças e do Secretário de Estado da Administração Pública.
+Art. 48.º As condições de recrutamento e provimento do pessoal dos quadros únicos e do pessoal contratado e o conjunto das categorias, sucessivamente hierarquizadas, de cada quadro único que constitui uma carreira, bem como a definição dos diversos quadros únicos e o regime de intercomunicações dos mesmos, serão objecto de decreto simples aprovado pelos Ministros da Agricultura e Pescas e das Finanças e do Secretário de Estado da Administração Pública.
 
 2. Todas as verbas destinadas ao pessoal do Ministério da Agricultura e Pescas serão incluídas na tabela orçamental da Secretaria-Geral no ano seguinte ao da publicação das leis orgânicas de cada um dos órgãos e serviços.
 
@@ -754,7 +897,7 @@ d) Assegurar contacto permanente com o Instituto António Sérgio do Sector Coop
 
 4. A transferência do pessoal, nos termos do n.º 3, para fora do concelho onde está colocado só se processa após a audição do interessado, não podendo este ser seriamente prejudicado.
 
-###### Art. 49.º - 1. O provimento do pessoal dos quadros únicos será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 49.º - 1. O provimento do pessoal dos quadros únicos será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior e dos n.os 3, 4 e 5 do artigo 46.º terão carácter provisório durante dois anos, findos os quais serão providos definitivamente, se tiverem revelado aptidões para o lugar, ou exonerados, no caso contrário.
 
@@ -764,11 +907,11 @@ d) Assegurar contacto permanente com o Instituto António Sérgio do Sector Coop
 
 5. Os funcionários com provimento definitivo em lugares da Administração Pública exercerão as funções para que forem nomeados no Ministério da Agricultura e Pescas em comissão de serviço durante o período de nomeação provisória, sendo o tempo de serviço contado, para todos os efeitos legais, como tivesse sido efectuado no quadro de origem.
 
-###### Art. 50.º - 1. Os funcionários dos quadros únicos do Ministério da Agricultura e Pescas poderão desempenhar, em comissão de serviço por tempo indeterminado, funções no Ministério e outros departamentos ministeriais.
+Art. 50.º - 1. Os funcionários dos quadros únicos do Ministério da Agricultura e Pescas poderão desempenhar, em comissão de serviço por tempo indeterminado, funções no Ministério e outros departamentos ministeriais.
 
 2. O tempo de serviço prestado em comissão de serviço contará, para todos os efeitos legais, como tivesse sido efectuado no quadro de origem.
 
-###### Art. 51.º - 1. O Ministro poderá autorizar que seja contratado, além dos quadros únicos, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços, com respeito da regulamentação relativa a excedentes de pessoal da função pública.
+Art. 51.º - 1. O Ministro poderá autorizar que seja contratado, além dos quadros únicos, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços, com respeito da regulamentação relativa a excedentes de pessoal da função pública.
 
 2. O Ministro poderá autorizar, quando se mostrar indispensável, a requisição de pessoal de outros departamentos ministeriais para prestar serviço nos órgãos e serviços do Ministério da Agricultura e Pescas, com acordo prévio do funcionário requisitado, do membro do Governo que superintender no departamento a que pertença, fixando-lhe a respectiva remuneração, a pagar por dotação especial para este efeito, inscrita no orçamento da Secretaria-Geral.
 
@@ -780,7 +923,7 @@ d) Assegurar contacto permanente com o Instituto António Sérgio do Sector Coop
 
 6. As deslocações a que se refere o n.º 5 terão como fundamento a conveniência de serviço e serão precedidas de acordo prévio do funcionário e dos Secretários de Estado que superintenderem nos organismos a que o funcionário pertença e onde vai prestar serviço.
 
-###### Art. 52.º - 1. O primeiro provimento dos lugares dos quadros únicos será feito prioritariamente com pessoal vinculado à função pública a prestar serviço de apoio técnico ou administrativo nos Gabinetes dos Ministros e dos Secretários de Estado, e com outro pessoal que preste serviço a qualquer título em órgãos e serviços do Ministério da Agricultura e Pescas.
+Art. 52.º - 1. O primeiro provimento dos lugares dos quadros únicos será feito prioritariamente com pessoal vinculado à função pública a prestar serviço de apoio técnico ou administrativo nos Gabinetes dos Ministros e dos Secretários de Estado, e com outro pessoal que preste serviço a qualquer título em órgãos e serviços do Ministério da Agricultura e Pescas.
 
 2. O pessoal referido no número anterior ingressará nos quadros únicos mediante lista ou listas nominativas aprovadas pelo Ministro, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se investido definitivamente nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades, mas sem prejuízo das habilitações literárias exigidas por lei.
 
@@ -794,25 +937,25 @@ d) Assegurar contacto permanente com o Instituto António Sérgio do Sector Coop
 
 7. O primeiro provimento dos lugares a que se referem os n.os 3, 4 e 5 do artigo 46.º será feito mediante lista ou listas nominativas aprovadas pelo Ministro, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se o pessoal investido definitivamente nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades, mas sem prejuízo das habilitações literárias exigidas no artigo 46.º
 
-###### Art. 53.º O Ministro poderá autorizar a celebração de contratos ou termos de tarefa para a realização dos estudos, inquéritos, acções de formação e aperfeiçoamento ou outros trabalhos de carácter eventual com indivíduos ou organismos nacionais ou estrangeiros.
+Art. 53.º O Ministro poderá autorizar a celebração de contratos ou termos de tarefa para a realização dos estudos, inquéritos, acções de formação e aperfeiçoamento ou outros trabalhos de carácter eventual com indivíduos ou organismos nacionais ou estrangeiros.
 
-###### Art. 54.º Os funcionários que prestam serviço, a qualquer título, na Secretaria-Geral do ex-Ministério da Economia consideram-se, para efeito do artigo 52.º, como prestando serviço no Ministério da Agricultura e Pescas, desde que no prazo de quinze dias a contar da entrada em vigor deste diploma manifestem esse desejo.
+Art. 54.º Os funcionários que prestam serviço, a qualquer título, na Secretaria-Geral do ex-Ministério da Economia consideram-se, para efeito do artigo 52.º, como prestando serviço no Ministério da Agricultura e Pescas, desde que no prazo de quinze dias a contar da entrada em vigor deste diploma manifestem esse desejo.
 
-###### Art. 55.º São extintos os lugares de director-geral ou equiparado e outros em comissão de serviço dos organismos referidos no artigo 60.º a partir da data de entrada em vigor do decreto simples a que se refere o n.º 2 do citado artigo.
+Art. 55.º São extintos os lugares de director-geral ou equiparado e outros em comissão de serviço dos organismos referidos no artigo 60.º a partir da data de entrada em vigor do decreto simples a que se refere o n.º 2 do citado artigo.
 
-###### Art. 56.º O Ministério da Agricultura e Pescas desenvolverá as suas actividades segundo uma política participativa dos trabalhadores de harmonia com os critérios a definir em lei geral.
+Art. 56.º O Ministério da Agricultura e Pescas desenvolverá as suas actividades segundo uma política participativa dos trabalhadores de harmonia com os critérios a definir em lei geral.
 
-###### Art. 57.º - 1. A Obra Social do Ministério da Agricultura e Pescas pode constituir um departamento comum com os outros departamentos ministeriais, nas condições que forem fixadas por decreto regulamentar a elaborar em conjunto, após audiência da Comissão Interministerial da Acção Social Complementar.
+Art. 57.º - 1. A Obra Social do Ministério da Agricultura e Pescas pode constituir um departamento comum com os outros departamentos ministeriais, nas condições que forem fixadas por decreto regulamentar a elaborar em conjunto, após audiência da Comissão Interministerial da Acção Social Complementar.
 
 2. Os funcionários do Ministério da Agricultura e Pescas são beneficiários dos Serviços Sociais do Ministério das Finanças enquanto não for estruturada, organizada e posta em funcionamento a Obra Social criada pelos artigos 16.º e 42.º
 
-###### Art. 58.º O fundo gerido pelo Fundo de Renovação e Apetrechamento da Indústria da Pesca continuará a funcionar na dependência do Ministério da Agricultura e Pescas com as atribuições previstas no [Decreto-Lei n.º 268/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1971-643293), de 18 de Junho, até à aprovação e funcionamento da nova orgânica de crédito prevista neste diploma.
+Art. 58.º O fundo gerido pelo Fundo de Renovação e Apetrechamento da Indústria da Pesca continuará a funcionar na dependência do Ministério da Agricultura e Pescas com as atribuições previstas no [Decreto-Lei n.º 268/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1971-643293), de 18 de Junho, até à aprovação e funcionamento da nova orgânica de crédito prevista neste diploma.
 
-###### Art. 59.º - 1. Os fundos designadamente geridos pelo Fundo de Fomento Florestal, Fundo Especial da Caça e Pesca, Instituto de Reorganização Agrária e Junta de Hidráulica Agrícola, regulamentados, respectivamente, pelos Decretos n.º 45795, de 6 de Julho de 1964, n.º 47847, de 14 de Agosto de 1967, n.º 35993, de 23 de Novembro de 1946, n.º 48256, de 17 de Maio de 1951, n.º 43355, de 24 de Novembro de 1960, n.º 44720, de 23 de Novembro de 1962, n.º 49294, de 8 de Outubro de 1969, e n.º 42665, de 20 de Novembro de 1959, ficarão na dependência do Ministro, que, por portaria, poderá determinar quais as Secretarias de Estado que se encarregarão da respectiva gestão.
+Art. 59.º - 1. Os fundos designadamente geridos pelo Fundo de Fomento Florestal, Fundo Especial da Caça e Pesca, Instituto de Reorganização Agrária e Junta de Hidráulica Agrícola, regulamentados, respectivamente, pelos Decretos n.º 45795, de 6 de Julho de 1964, n.º 47847, de 14 de Agosto de 1967, n.º 35993, de 23 de Novembro de 1946, n.º 48256, de 17 de Maio de 1951, n.º 43355, de 24 de Novembro de 1960, n.º 44720, de 23 de Novembro de 1962, n.º 49294, de 8 de Outubro de 1969, e n.º 42665, de 20 de Novembro de 1959, ficarão na dependência do Ministro, que, por portaria, poderá determinar quais as Secretarias de Estado que se encarregarão da respectiva gestão.
 
 2. As Secretarias de Estado, sem prejuízo do indicado no n.º 1, determinarão por despacho os organismos gestores, até à aprovação da nova orgânica de crédito prevista neste diploma.
 
-###### Art. 60.º - 1. Transitam para os órgãos e serviços constantes deste diploma os organismos seguidamente referidos:
+Art. 60.º - 1. Transitam para os órgãos e serviços constantes deste diploma os organismos seguidamente referidos:
 
 a) O Instituto de Reorganização Agrária;
 
@@ -836,36 +979,36 @@ j) O Fundo de Fomento Florestal.
 
 2. Os termos de transição, designadamente no que se refere às competências, atribuições e respectivo pessoal para os novos organismos criados pelo presente decreto-lei, são objecto de decreto simples aprovado pelos Ministros da Agricultura e Pescas e das Finanças e Secretário de Estado da Administração Pública, pelo qual se procederá igualmente à extinção dos organismos referidos no n.º 1.
 
-###### Art. 61.º A tutela administrativa, económica e financeira da Junta Nacional dos Vinhos, da Junta Nacional das Frutas, do Instituto do Azeite e Produtos Oleaginosos e do Instituto dos Produtos Florestais será objecto de decreto regulamentar assinado pelos Ministros do Comércio e Turismo e da Agricultura e Pescas.
+Art. 61.º A tutela administrativa, económica e financeira da Junta Nacional dos Vinhos, da Junta Nacional das Frutas, do Instituto do Azeite e Produtos Oleaginosos e do Instituto dos Produtos Florestais será objecto de decreto regulamentar assinado pelos Ministros do Comércio e Turismo e da Agricultura e Pescas.
 
-###### Art. 62.º - 1. O Instituto dos Cereais e a Junta Nacional dos Produtos Pecuários, na dependência do Ministério da Agricultura e Pescas, nos termos do [Decreto-Lei n.º 719/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/719-1976-408949), e os organismos referidos no artigo anterior receberão orientação conjunta dos Ministros da Agricultura e Pescas e do Comércio e Turismo quanto a operações de comércio externo, particularmente no que respeita a compra e venda de produtos e à elaboração dos planos anuais de aquisição no exterior.
+Art. 62.º - 1. O Instituto dos Cereais e a Junta Nacional dos Produtos Pecuários, na dependência do Ministério da Agricultura e Pescas, nos termos do [Decreto-Lei n.º 719/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/719-1976-408949), e os organismos referidos no artigo anterior receberão orientação conjunta dos Ministros da Agricultura e Pescas e do Comércio e Turismo quanto a operações de comércio externo, particularmente no que respeita a compra e venda de produtos e à elaboração dos planos anuais de aquisição no exterior.
 
 2. Em matéria de abastecimento público e preços no consumidor de produtos alimentares, os organismos referidos no n.º 1 recebem orientação conjunta dos Ministérios do Comércio e Turismo e da Agricultura e Pescas.
 
-###### Art. 63.º O Instituto dos Produtos Florestais, enquanto não for reorganizado, recebe orientação do Ministério do Comércio e Turismo, nos termos do n.º 1 do artigo 62.º
+Art. 63.º O Instituto dos Produtos Florestais, enquanto não for reorganizado, recebe orientação do Ministério do Comércio e Turismo, nos termos do n.º 1 do artigo 62.º
 
-###### Art. 64.º Os activos e os passivos, bem como quaisquer valores e direitos, incluindo os emergentes de contratos de arrendamento afectos aos organismos que se extinguem, transitam para órgãos e serviços do Ministério da Agricultura e Pescas mediante despacho do Ministro.
+Art. 64.º Os activos e os passivos, bem como quaisquer valores e direitos, incluindo os emergentes de contratos de arrendamento afectos aos organismos que se extinguem, transitam para órgãos e serviços do Ministério da Agricultura e Pescas mediante despacho do Ministro.
 
-###### Art. 65.º Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 65.º Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 66.º Mediante despachos conjuntos dos Ministros das Finanças e da Agricultura e Pescas, nos termos neles definidos e até à efectivação da conveniente alteração orçamental, poderão ser utilizadas as verbas orçamentais dos organismos extintos ou a extinguir pelos que forem sendo postos em funcionamento, bem como para fazer face aos encargos de provimento do pessoal constante do quadro anexo.
+Art. 66.º Mediante despachos conjuntos dos Ministros das Finanças e da Agricultura e Pescas, nos termos neles definidos e até à efectivação da conveniente alteração orçamental, poderão ser utilizadas as verbas orçamentais dos organismos extintos ou a extinguir pelos que forem sendo postos em funcionamento, bem como para fazer face aos encargos de provimento do pessoal constante do quadro anexo.
 
-###### Art. 67.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 67.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 68.º Fica revogada toda a legislação em contrário.
+Art. 68.º Fica revogada toda a legislação em contrário.
 
-###### Art. 69.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 69.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - António Miguel Morais Barreto - Alfredo Jorge Nobre da Costa - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 19 de Maio de 1977.**
+Promulgado em 19 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o artigo 46.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/12400/12501263.pdf))](https://files.diariodarepublica.pt/1s/1977/05/12400/12501263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12400/12501263.pdf)
 
-**O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.**
+O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.

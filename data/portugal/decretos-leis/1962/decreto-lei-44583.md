@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44583-1962-159936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5d07f8622d3f9e074476bcc19922407fd96c04443f5b1e802c158f7e75d056a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff03d8c080d8af334cc07661a61af326e38671ef8f8bd44c6a04458cbfab8ce4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equiparação de Cargos
+- Estado Português da Índia
+- Funcionário Ultramarino
+- Integração de Trabalhadores
+- Médico
+- Ministério da Saúde e Assistência
+- Pessoal de Saúde
+- Qualificação Profissional
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:17Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +94,16 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os portugueses que em 18 de Dezembro de 1961 desempenhavam funções em estabelecimentos ou serviços oficiais de saúde e assistência no Estado da Índia poderão ser nomeados, com dispensa da carreira que normalmente seria necessária, para cargos do Ministério da Saúde e Assistência de categoria correspondente à do lugar que ocupavam naquele Estado, desde que para tanto obtenham a anuência do Ministro do Ultramar.
+Artigo 1.º Os portugueses que em 18 de Dezembro de 1961 desempenhavam funções em estabelecimentos ou serviços oficiais de saúde e assistência no Estado da Índia poderão ser nomeados, com dispensa da carreira que normalmente seria necessária, para cargos do Ministério da Saúde e Assistência de categoria correspondente à do lugar que ocupavam naquele Estado, desde que para tanto obtenham a anuência do Ministro do Ultramar.
 
 § único. A correspondência de categorias será fixada por despacho do Ministro da Saúde e Assistência, ouvido o do Ultramar.
 
-###### Art. 2.º Ressalvada a dispensa da carreira estabelecida no artigo anterior, o provimento far-se-á em obediência às restantes disposições que regulam o preenchimento normal dos referidos cargos.
+Art. 2.º Ressalvada a dispensa da carreira estabelecida no artigo anterior, o provimento far-se-á em obediência às restantes disposições que regulam o preenchimento normal dos referidos cargos.
 
-###### Art. 3.º Os candidatos a nomeações ao abrigo do artigo 1.º deverão apresentar, com o requerimento, documento comprovativo do lugar que ocupavam no Estado da Índia, passado ou autenticado pelo Ministério do Ultramar.
+Art. 3.º Os candidatos a nomeações ao abrigo do artigo 1.º deverão apresentar, com o requerimento, documento comprovativo do lugar que ocupavam no Estado da Índia, passado ou autenticado pelo Ministério do Ultramar.
 
 § único. Os diplomados pela Escola Médico-Cirúrgica de Goa deverão fazer prova de que se encontram habilitados a exercer a sua profissão na metrópole.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

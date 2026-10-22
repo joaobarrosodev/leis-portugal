@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 114/1977, 1º Suplemento, Série I de 1977-05-17
   number: '114'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1122-(1) a 1122-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11401/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-a-1977-593534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 626a058ba10bff00e77bd4cf72a3f3540a7793f2d1b5908d0b27fbe00c2e67d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f1a27abf76e4f7a5d0dc75107df3fe11ad0efb9836025f744a899f3ca46fb74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Depósito Bancário
+- Empresa Estrangeira
+- Instituição de Crédito
+- Mercado de Títulos
+- Moçambique
+- Títulos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:01Z'
   warnings: []
   errors: []
 ---
@@ -99,28 +111,28 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os títulos de acções ao portador emitidas por sociedades com sede em Moçambique, depositados nas instituições de crédito em território nacional, serão enviados, até 24 de Maio corrente, para depósito no Banco de Moçambique, salvo se, até 19 do corrente, os respectivos titulares declararem por escrito, à instituição depositária, pretender que esse envio não tenha lugar.
+Artigo 1.º - 1. Os títulos de acções ao portador emitidas por sociedades com sede em Moçambique, depositados nas instituições de crédito em território nacional, serão enviados, até 24 de Maio corrente, para depósito no Banco de Moçambique, salvo se, até 19 do corrente, os respectivos titulares declararem por escrito, à instituição depositária, pretender que esse envio não tenha lugar.
 
 2. Os titulares das acções ao portador não depositadas em instituições de crédito em território nacional deverão proceder ao seu depósito até 19 de Maio corrente, no caso de pretenderem a sua remessa para Moçambique.
 
 3. Por despacho do Secretário de Estado do Tesouro será determinada a forma de envio dos títulos para Moçambique, encarregando uma instituição de crédito nacional de coordenar os termos dessa remessa.
 
-###### Art. 2.º São obrigatórios o depósito e a remessa a que se refere o artigo anterior para todas as entidades do sector público e para os corretores, em relação aos títulos de acções em seu poder, incluindo as acções que tiverem sido objecto de penhora, congelamento, arrolamento judicial ou dadas em caução ou qualquer outra garantia.
+Art. 2.º São obrigatórios o depósito e a remessa a que se refere o artigo anterior para todas as entidades do sector público e para os corretores, em relação aos títulos de acções em seu poder, incluindo as acções que tiverem sido objecto de penhora, congelamento, arrolamento judicial ou dadas em caução ou qualquer outra garantia.
 
-###### Art. 3.º O depósito realizado nos termos do presente diploma não afecta a validade das garantias com base nos títulos de acções depositadas, acarretando apenas a substituição legal da entidade depositária.
+Art. 3.º O depósito realizado nos termos do presente diploma não afecta a validade das garantias com base nos títulos de acções depositadas, acarretando apenas a substituição legal da entidade depositária.
 
-###### Art. 4.º Fica dispensada do cumprimento de quaisquer formalidades a exportação para Moçambique dos títulos sujeitos ao regime do presente diploma, devendo apenas as instituições de crédito enviar ao Banco de Portugal um duplicado das listas dos títulos exportados.
+Art. 4.º Fica dispensada do cumprimento de quaisquer formalidades a exportação para Moçambique dos títulos sujeitos ao regime do presente diploma, devendo apenas as instituições de crédito enviar ao Banco de Portugal um duplicado das listas dos títulos exportados.
 
-###### Art. 5.º O regime do presente diploma será igualmente aplicável às acções nominativas com endossos não averbados nos livros das sociedades.
+Art. 5.º O regime do presente diploma será igualmente aplicável às acções nominativas com endossos não averbados nos livros das sociedades.
 
-###### Art. 6.º As dúvidas suscitadas pela execução deste diploma serão resolvidas por despacho do Secretário de Estado do Tesouro.
+Art. 6.º As dúvidas suscitadas pela execução deste diploma serão resolvidas por despacho do Secretário de Estado do Tesouro.
 
-###### Art. 7.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 16 de Maio de 1977.**
+Promulgado em 16 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

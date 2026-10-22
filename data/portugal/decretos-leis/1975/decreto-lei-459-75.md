@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/19400/12251226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79591513562b217c9f24eb6a20892b45fa71ce2b2792140a39bdd9276eb54648
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 883ca43dd1b6eab3cebe405a8f6fc672f45c27a1f436eda978e0d37f1ded62b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Ensino Preparatório
+- Ensino Primário
+- Estabelecimento de Ensino
+- Formas de Provimento
+- Pessoal não Docente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325920:por
+  label: "Alterado o nº 2 do art. 14º do Dec Lei 513/73 de 10-Out, com a redacção conferida no presente diploma, pelo DEC\
+    \ LEI.338/78.14.11.1978.MEC, DR.IS [262] de 14.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1978-325920
+  date: '1978-11-14'
+- type: amended_by
+  target: pt:dre:370610:por
+  label: "Considerada revogada, nos termos do art. 4.º, a cláusula inserta no n.º 2 do art. 39.º do Decreto-Lei n.º 513/73,\
+    \ de 10 de Outubro, pelo art. 1.º do presente diploma, pelo DEC LEI.371/79.06.09.1979.MEIC, DR.IS [206] de 06.09.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1979-370610
+  date: '1979-09-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:677442:por
+  label: "Revogado, no que respeita ao pessoal auxiliar, pelo DEC LEI.57/80.26.03.1980.MECI, DR.IS [72] de 26.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-1980-677442
+  date: '1980-03-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:04Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +148,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 14.º, 18.º, 34.º, 39.º, 47.º e 50.º do Decreto-Lei n.º 513/73, de 10 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 14.º, 18.º, 34.º, 39.º, 47.º e 50.º do Decreto-Lei n.º 513/73, de 10 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 14.º - 1. ...
+Art. 14.º - 1. ...
 
 2. As funções de tesoureiro - de aceitação obrigatória - serão exercidas pelo funcionário do quadro designado pelo conselho administrativo, sob proposta do respectivo chefe de secretaria, de entre, sempre que possível, os de categoria igual ou superior a terceiro-oficial, tendo em atenção o seguinte:
 
@@ -117,7 +164,7 @@ b) Pelo exercício das funções de tesoureiro não é exigido o depósito de qu
 
 ...
 
-###### Art. 18.º - 1. ...
+Art. 18.º - 1. ...
 
 2. ...
 
@@ -127,13 +174,13 @@ b) Pelo exercício das funções de tesoureiro não é exigido o depósito de qu
 
 ...
 
-###### Art. 34.º - 1. Nos estabelecimentos em que prestem serviço mais de quatro elementos do pessoal auxiliar do quadro eventual, poderá um deles ser designado pelo respectivo conselho directivo ou encarregado de direcção, ouvido o correspondente sector e mediante autorização superior, para chefe de pessoal auxiliar, cabendo-lhe, por isso, a gratificação mensal estabelecida para o efeito na lei geral.
+Art. 34.º - 1. Nos estabelecimentos em que prestem serviço mais de quatro elementos do pessoal auxiliar do quadro eventual, poderá um deles ser designado pelo respectivo conselho directivo ou encarregado de direcção, ouvido o correspondente sector e mediante autorização superior, para chefe de pessoal auxiliar, cabendo-lhe, por isso, a gratificação mensal estabelecida para o efeito na lei geral.
 
 2. ...
 
 ...
 
-###### Art. 39.º - 1. Quando o pessoal administrativo ou auxiliar dos estabelecimentos de ensino referidos neste diploma não for suficiente para assegurar o normal funcionamento dos mesmos, poderão ser admitidos escriturários-dactilógrafos de 2.ª classe eventuais e serventes eventuais, a remunerar pelas dotações próprias dos estabelecimentos ou pelas disponibilidades das outras dotações do orçamento do Ministério da Educação e Cultura destinadas a pessoal.
+Art. 39.º - 1. Quando o pessoal administrativo ou auxiliar dos estabelecimentos de ensino referidos neste diploma não for suficiente para assegurar o normal funcionamento dos mesmos, poderão ser admitidos escriturários-dactilógrafos de 2.ª classe eventuais e serventes eventuais, a remunerar pelas dotações próprias dos estabelecimentos ou pelas disponibilidades das outras dotações do orçamento do Ministério da Educação e Cultura destinadas a pessoal.
 
 2. As admissões de pessoal eventual referidas no número anterior obedecerão ao regime fixado nos artigos 4.º do [Decreto-Lei n.º 40826](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40826-1956-298041), de 25 de Outubro de 1956, 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Dezembro de 1958, e 7.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, só podendo recair em indivíduos possuidores da idade e das habilitações escolares exigidas para o provimento em lugares do quadro da correspondente categoria e devendo efectuar-se de harmonia com a seguinte ordem de preferência:
 
@@ -153,7 +200,7 @@ Os que reúnam melhores habilitações escolares e, em caso de igualdade, os mai
 
 ...
 
-###### Art. 47.º - 1. (O actual corpo do artigo.)
+Art. 47.º - 1. (O actual corpo do artigo.)
 
 2. Consideram-se válidos, para todos os efeitos, os concursos de habilitação para escriturário-dactilógrafo de 2.ª classe e para terceiro-oficial a que se referem, respectivamente, os avisos de 6 e 7 de Setembro de 1972, da antiga Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, ambos publicados no Diário do Governo, 2.ª série, n.º 219, de 19 de Setembro de 1972.
 
@@ -161,7 +208,7 @@ Os que reúnam melhores habilitações escolares e, em caso de igualdade, os mai
 
 ...
 
-###### Art. 50.º - 1 ...
+Art. 50.º - 1 ...
 
 2 ...
 
@@ -169,7 +216,7 @@ Os que reúnam melhores habilitações escolares e, em caso de igualdade, os mai
 
 4. Considera-se válido, para todos os efeitos, o concurso para lugares de contínuo de 1.ª classe, a que se refere o aviso publicado no Diário do Governo, 2.ª série, n.º 174, de 26 de Julho de 1973.
 
-###### Art. 2.º - 1. A partir da data da entrada em vigor do presente decreto-lei e durante dois anos, os terceiros-oficiais e segundos-oficiais que já estivessem ao serviço com tais categorias em 10 de Outubro de 1973 e que, ao abrigo da legislação anterior ao Decreto-Lei n.º 513/73, pudessem ascender às categorias imediatas, mediante concurso documental e com dispensa da prestação de provas públicas, continuarão a gozar de tal faculdade nos concursos de provimento, a efectuar nas condições seguintes:
+Art. 2.º - 1. A partir da data da entrada em vigor do presente decreto-lei e durante dois anos, os terceiros-oficiais e segundos-oficiais que já estivessem ao serviço com tais categorias em 10 de Outubro de 1973 e que, ao abrigo da legislação anterior ao Decreto-Lei n.º 513/73, pudessem ascender às categorias imediatas, mediante concurso documental e com dispensa da prestação de provas públicas, continuarão a gozar de tal faculdade nos concursos de provimento, a efectuar nas condições seguintes:
 
 a) Tratando-se de concurso relativo ao ramo e grau de ensino a que pertenciam em 10 de Outubro de 1973;
 
@@ -177,24 +224,24 @@ b) Desde que estejam a exercer as funções de terceiro-oficial ou de segundo-of
 
 2. Os funcionários que vierem a ser promovidos ao abrigo do número anterior beneficiarão, após a promoção e no prazo constante da primeira parte desse mesmo número, do disposto no artigo 45.º do Decreto-Lei n.º 513/73.
 
-###### Art. 3.º - 1. Podem ser providos em lugares de segundo-oficial e primeiro-oficial os candidatos aprovados, anteriormente à entrada em vigor deste decreto-lei, nos correspondentes concursos de habilitação, cujos prazos de validade ainda não tinham terminado em 10 de Outubro de 1973.
+Art. 3.º - 1. Podem ser providos em lugares de segundo-oficial e primeiro-oficial os candidatos aprovados, anteriormente à entrada em vigor deste decreto-lei, nos correspondentes concursos de habilitação, cujos prazos de validade ainda não tinham terminado em 10 de Outubro de 1973.
 
 2. Os funcionários aprovados nos concursos de habilitação mencionados no número anterior beneficiam, nos dois anos posteriores à entrada em vigor deste diploma, da faculdade estabelecida no artigo 45.º do Decreto-Lei n.º 513/73.
 
-###### Art. 4.º - 1. O preceituado no n.º 2 do artigo 49.º do Decreto-Lei n.º 513/73 é também aplicável aos escriturários-dactilógrafos de 2.ª classe eventuais que em 10 de Outubro de 1973 estavam a desempenhar interinamente outras funções ou que depois daquela data vieram também a ser nomeados interinamente para lugares dessa ou de outra categoria dos quadros privativos dos estabelecimentos de ensino que tenham boa informação de serviço.
+Art. 4.º - 1. O preceituado no n.º 2 do artigo 49.º do Decreto-Lei n.º 513/73 é também aplicável aos escriturários-dactilógrafos de 2.ª classe eventuais que em 10 de Outubro de 1973 estavam a desempenhar interinamente outras funções ou que depois daquela data vieram também a ser nomeados interinamente para lugares dessa ou de outra categoria dos quadros privativos dos estabelecimentos de ensino que tenham boa informação de serviço.
 
 2. O mesmo se verifica quanto aos funcionários que em 10 de Outubro de 1973 estavam a desempenhar funções interinamente e que, após tal interinidade, continuaram ao serviço como escriturários-dactilógrafos de 2.ª classe eventuais.
 
-###### Art. 5.º - As admissões do pessoal administrativo e auxiliar para os estabelecimentos de ensino previstas neste diploma são reguladas sem prejuízo do disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro.
+Art. 5.º - As admissões do pessoal administrativo e auxiliar para os estabelecimentos de ensino previstas neste diploma são reguladas sem prejuízo do disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro.
 
-###### Art. 6.º As dúvidas e casos omissos relativos à aplicação deste decreto-lei serão resolvidos por despacho do Ministro da Educação e Cultura.
+Art. 6.º As dúvidas e casos omissos relativos à aplicação deste decreto-lei serão resolvidos por despacho do Ministro da Educação e Cultura.
 
-###### Art. 7.º O presente diploma entra imediatamente em vigor.
+Art. 7.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - José Joaquim Fragoso - José Emílio da Silva.
 
-**Promulgado em 8 de Agosto de 1975.**
+Promulgado em 8 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

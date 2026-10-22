@@ -46,36 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47303-1966-478674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03c9872d07e8f80d640c97180fbd4669927abafb14783405d6474d7031ded489
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d42160b7b553ce28a58bd0076a0ae7c361509725dbe97e55ca4c039a2c547b39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Orgânica
+- Serviços Sociais
+- Universidade de Coimbra
+relationships:
+- type: cites
+  target: pt:dre:233339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:00Z'
   warnings: []
   errors: []
 ---
@@ -102,27 +133,27 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Instituição, fins e atribuições dos Serviços Sociais da Universidade de Coimbra
 
-###### Artigo 1.º - 1. São instituídos os Serviços Sociais da Universidade de Coimbra.
+Artigo 1.º - 1. São instituídos os Serviços Sociais da Universidade de Coimbra.
 
 2. Os Serviços Sociais constituem um organismo que fica na dependência da reitoria da Universidade e tem por fim colaborar na formação integral dos alunos, proporcionando-lhes boas condições para se consagrarem ao estudo e a outras actividades complementares, dentro de um espírito de perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.
 
 3. Os Serviços Sociais têm personalidade jurídica e governam-se autònomamente, nos termos do presente diploma.
 
-###### Art. 2.º - 1. As actividades dos Serviços Sociais destinam-se, de modo primacial, a assegurar o funcionamento regular e permanente dos serviços considerados essenciais para a realização dos fins previstos no artigo anterior.
+Art. 2.º - 1. As actividades dos Serviços Sociais destinam-se, de modo primacial, a assegurar o funcionamento regular e permanente dos serviços considerados essenciais para a realização dos fins previstos no artigo anterior.
 
 2. Esses serviços, que constituem objecto de secções, serão definidos em despacho do Ministro da Educação Nacional, mediante prévia audiência do reitor.
 
-###### Art. 3.º Os Serviços Sociais procurarão chamar os membros do corpo docente e os do corpo discente a colaborarem nas suas actividades, de modo a realizar-se o ideal assinalado no artigo 1.º e proporcionar-se aos segundos uma experiência directiva e de organização.
+Art. 3.º Os Serviços Sociais procurarão chamar os membros do corpo docente e os do corpo discente a colaborarem nas suas actividades, de modo a realizar-se o ideal assinalado no artigo 1.º e proporcionar-se aos segundos uma experiência directiva e de organização.
 
 #### SECÇÃO II — Órgãos dos Serviços Sociais
 
-###### Art. 4.º Os Serviços Sociais têm os seguintes órgãos:
+Art. 4.º Os Serviços Sociais têm os seguintes órgãos:
 
 a) Direcção;
 
 b) Conselho administrativo.
 
-###### Art. 5.º - 1. A direcção tem a seu cargo a orientação das actividades dos Serviços Sociais e compõe-se dos seguintes membros:
+Art. 5.º - 1. A direcção tem a seu cargo a orientação das actividades dos Serviços Sociais e compõe-se dos seguintes membros:
 
 a) Director dos Serviços Sociais, que presidirá;
 
@@ -134,7 +165,7 @@ c) Directores das secções.
 
 3. As funções de subdirector dos Serviços Sociais são exercidas, em princípio, pelo vice-reitor; mas, quando assim se mostre conveniente, poderá o Ministro da Educação Nacional autorizar que tais funções sejam confiadas a outra pessoa, em conformidade com o disposto no artigo 13.º, sem prejuízo da actuação do vice-reitor como colaborador ou delegado do reitor, nos termos gerais do [Decreto-Lei n.º 45749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45749-1964-577130), de 3 de Junho de 1964.
 
-###### Art. 6.º - 1. Compete em especial à direcção deliberar:
+Art. 6.º - 1. Compete em especial à direcção deliberar:
 
 a) Sobre os planos de acção, orçamento e relatório dos Serviços Sociais;
 
@@ -144,7 +175,7 @@ c) Sobre qualquer outro assunto que o director dos Serviços Sociais lhe apresen
 
 2. O regime estabelecido no artigo 5.º, e seu § único, do [Decreto-Lei n.º 38692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38692-1952-598710), de 21 de Março de 1952, é extensivo às deliberações da direcção dos Serviços Sociais.
 
-###### Art. 7.º Compete ao director dos Serviços Sociais:
+Art. 7.º Compete ao director dos Serviços Sociais:
 
 a) Convocar as reuniões da direcção e orientar os seus trabalhos;
 
@@ -152,19 +183,19 @@ b) Promover o cumprimento das deliberações da direcção;
 
 c) Superintender na administração de todas as secções dos Serviços Sociais.
 
-###### Art. 8.º Compete ao subdirector coadjuvar o director dos Serviços Sociais e substituí-lo nas suas faltas ou impedimentos.
+Art. 8.º Compete ao subdirector coadjuvar o director dos Serviços Sociais e substituí-lo nas suas faltas ou impedimentos.
 
-###### Art. 9.º - 1. Compete aos directores das secções administrar as mesmas.
+Art. 9.º - 1. Compete aos directores das secções administrar as mesmas.
 
 2. Os directores das secções podem ter adjuntos, que os coadjuvarão e substituirão nas suas faltas ou impedimentos, cabendo a substituição, quando na secção haja mais de um, àquele que o director dos Serviços Sociais designar para o efeito.
 
-###### Art. 10.º O conselho administrativo auxilia o director dos Serviços Sociais na superintendência da administração e compõe-se dos seguintes membros:
+Art. 10.º O conselho administrativo auxilia o director dos Serviços Sociais na superintendência da administração e compõe-se dos seguintes membros:
 
 a) Director dos Serviços Sociais, que presidirá;
 
 b) Duas pessoas com competência em assuntos administrativos e financeiros.
 
-###### Art. 11.º - 1. Compete em especial ao conselho administrativo:
+Art. 11.º - 1. Compete em especial ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento a submeter à direcção;
 
@@ -176,9 +207,9 @@ d) Elaborar as contas anuais dos Serviços Sociais.
 
 2. A aprovação das contas anuais dos Serviços Sociais é da competência do conselho administrativo da Universidade.
 
-###### Art. 12.º Tanto a direcção como o conselho administrativo dos Serviços Sociais reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados pelo seu presidente.
+Art. 12.º Tanto a direcção como o conselho administrativo dos Serviços Sociais reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados pelo seu presidente.
 
-###### Art. 13.º - 1. O subdirector dos Serviços Sociais, na hipótese prevista no artigo 5.º, n.º 3, 2.ª parte, os directores das secções e os vogais do conselho administrativo são nomeados pelo director daqueles Serviços.
+Art. 13.º - 1. O subdirector dos Serviços Sociais, na hipótese prevista no artigo 5.º, n.º 3, 2.ª parte, os directores das secções e os vogais do conselho administrativo são nomeados pelo director daqueles Serviços.
 
 2. Os adjuntos são nomeados também pelo director dos Serviços Sociais, ouvidos os directores das correspondentes secções.
 
@@ -190,15 +221,15 @@ d) Elaborar as contas anuais dos Serviços Sociais.
 
 6. As nomeações feitas no decurso do período de três anos ou de um, conforme os casos, entendem-se feitas até ao termo desse período.
 
-###### Art. 14.º - 1. As funções directivas dos Serviços Sociais são cumuláveis com outros cargos universitários, respeitada a correspondente hierarquia.
+Art. 14.º - 1. As funções directivas dos Serviços Sociais são cumuláveis com outros cargos universitários, respeitada a correspondente hierarquia.
 
 2. Pode a mesma pessoa, inclusive o director e o subdirector dos Serviços Sociais, dirigir mais de uma secção.
 
-###### Art. 15.º O director dos Serviços Sociais poderá delegar competências no subdirector e nos directores das secções, segundo o regime constante do [Decreto-Lei n.º 45749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45749-1964-577130), de 3 de Junho de 1964.
+Art. 15.º O director dos Serviços Sociais poderá delegar competências no subdirector e nos directores das secções, segundo o regime constante do [Decreto-Lei n.º 45749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45749-1964-577130), de 3 de Junho de 1964.
 
 #### SECÇÃO III — Receitas e despesas dos Serviços Sociais
 
-###### Art. 16.º - 1. Constituem receitas dos Serviços Sociais:
+Art. 16.º - 1. Constituem receitas dos Serviços Sociais:
 
 a) A dotação que, como subsídio, lhes for consignada no Orçamento Geral do Estado;
 
@@ -218,46 +249,46 @@ g) Outras receitas atribuídas por lei, por contrato ou por diverso título.
 
 #### SECÇÃO IV — Disposições diversas
 
-###### Art. 17.º - 1. O director dos Serviços Sociais poderá ajustar pessoal segundo o regime aplicável nas empresas privadas, ficando pois esse pessoal com estatuto idêntico ao do que trabalha nestas empresas, quanto a direitos e obrigações, e podendo designadamente ser despedido nos mesmos termos.
+Art. 17.º - 1. O director dos Serviços Sociais poderá ajustar pessoal segundo o regime aplicável nas empresas privadas, ficando pois esse pessoal com estatuto idêntico ao do que trabalha nestas empresas, quanto a direitos e obrigações, e podendo designadamente ser despedido nos mesmos termos.
 
 2. O disposto no número anterior deve entender-se sem prejuízo do preceituado no [Decreto-Lei n.º 47205](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47205-1966-480368), de 16 de Setembro de 1966.
 
-###### Art. 18.º O director dos Serviços Sociais pode autorizar a realização para estes, e por quaisquer pessoas, de trabalhos eventuais, em regime de prestação de serviço, mediante a remuneração que fixar caso a caso.
+Art. 18.º O director dos Serviços Sociais pode autorizar a realização para estes, e por quaisquer pessoas, de trabalhos eventuais, em regime de prestação de serviço, mediante a remuneração que fixar caso a caso.
 
-###### Art. 19.º Os membros da direcção e do conselho administrativo dos Serviços Sociais, bem como os adjuntos dos directores das secções, poderão perceber gratificações ou senhas de presença, cujo montante será fixado pelo Ministro da Educação Nacional.
+Art. 19.º Os membros da direcção e do conselho administrativo dos Serviços Sociais, bem como os adjuntos dos directores das secções, poderão perceber gratificações ou senhas de presença, cujo montante será fixado pelo Ministro da Educação Nacional.
 
-###### Art. 20.º - 1. O tempo de serviço prestado aos Serviços Sociais pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, uma vez que a dispensa deste seja prèviamente autorizada por despacho ministerial.
+Art. 20.º - 1. O tempo de serviço prestado aos Serviços Sociais pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, uma vez que a dispensa deste seja prèviamente autorizada por despacho ministerial.
 
 2. A referida dispensa poderá ser total ou parcial.
 
-###### Art. 21.º - 1. Podem inscrever-se como amigos dos Serviços Sociais da Universidade de Coimbra os membros do seu corpo docente e os seus antigos alunos.
+Art. 21.º - 1. Podem inscrever-se como amigos dos Serviços Sociais da Universidade de Coimbra os membros do seu corpo docente e os seus antigos alunos.
 
 2. Os Amigos dos Serviços Sociais pagarão as contribuições previstas no artigo 17.º e gozarão dos direitos estabelecidos no regulamento interno dos mesmos Serviços.
 
-###### Art. 22.º - 1. O centro de alojamento criado pelo [Decreto-Lei n.º 46834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339), de 11 de Janeiro de 1966, fica integrado nos Serviços Sociais, em conformidade com o disposto no artigo 9.º, n.º 2, 1.ª parte, e n.º 3, do mesmo decreto-lei.
+Art. 22.º - 1. O centro de alojamento criado pelo [Decreto-Lei n.º 46834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339), de 11 de Janeiro de 1966, fica integrado nos Serviços Sociais, em conformidade com o disposto no artigo 9.º, n.º 2, 1.ª parte, e n.º 3, do mesmo decreto-lei.
 
 2. O referido centro constitui uma secção dos Serviço Sociais, estando como tal sujeito às disposições do presente diploma, nomeadamente no tocante à nomeação do director e dos adjuntos do director e ao regime do pessoal.
 
-###### Art. 23.º - 1. Os Serviços Sociais podem assegurar o exercício das respectivas actividades ou directamente ou mediante concessão feita a outra entidade.
+Art. 23.º - 1. Os Serviços Sociais podem assegurar o exercício das respectivas actividades ou directamente ou mediante concessão feita a outra entidade.
 
 2. A concessão depende de prévia autorização e aprovação das suas condições pelo Ministro da Educação Nacional.
 
-###### Art. 24.º Os Serviços Sociais podem adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante prévia autorização do Ministro da Educação Nacional, concedida caso a caso.
+Art. 24.º Os Serviços Sociais podem adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante prévia autorização do Ministro da Educação Nacional, concedida caso a caso.
 
-###### Art. 25.º Os Serviços Sociais estão isentos de encargos fiscais e de licenças administrativas, nos mesmos termos do Estado.
+Art. 25.º Os Serviços Sociais estão isentos de encargos fiscais e de licenças administrativas, nos mesmos termos do Estado.
 
-###### Art. 26.º São alargadas aos Serviços Sociais as vantagens de que goza a Manutenção Militar em matéria de aquisição de géneros alimentícios e outros produtos.
+Art. 26.º São alargadas aos Serviços Sociais as vantagens de que goza a Manutenção Militar em matéria de aquisição de géneros alimentícios e outros produtos.
 
-###### Art. 27.º A aplicação das verbas dos Serviços Sociais depende de despacho do respectivo director, sem sujeição aos preceitos da contabilidade pública.
+Art. 27.º A aplicação das verbas dos Serviços Sociais depende de despacho do respectivo director, sem sujeição aos preceitos da contabilidade pública.
 
-###### Art. 28.º Às publicações, periódicas ou não, editadas pelos Serviços Sociais é aplicável o disposto no artigo 445.º, n.º 4, do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947.
+Art. 28.º Às publicações, periódicas ou não, editadas pelos Serviços Sociais é aplicável o disposto no artigo 445.º, n.º 4, do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947.
 
-###### Art. 29.º - 1. Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento dos Serviços Sociais às circunstâncias que forem ocorrendo.
+Art. 29.º - 1. Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento dos Serviços Sociais às circunstâncias que forem ocorrendo.
 
 2. As portarias deverão ser assinadas também pelo Ministro das Finanças se envolverem aumento de despesa.
 
-###### Art. 30.º Dentro de seis meses, a contar da entrada em vigor do presente diploma, a direcção dos Serviços Sociais submeterá à aprovação do Ministro da Educação Nacional um regulamento interno.
+Art. 30.º Dentro de seis meses, a contar da entrada em vigor do presente diploma, a direcção dos Serviços Sociais submeterá à aprovação do Ministro da Educação Nacional um regulamento interno.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomos da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

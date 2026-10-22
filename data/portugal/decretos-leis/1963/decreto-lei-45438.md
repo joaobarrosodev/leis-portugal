@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45438-1963-683603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef2bbd63cdebb73ece9f0fc6975a75bdf8d2a4b6db4f9146b2a80a225073701b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dfdd845d3e869656b4b0b19ed9d00d99eb6ea6fb455995ab43fcb1607ccfda4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CTT
+- Serviço Postal
+- Transporte de Correio
+relationships:
+- type: cites
+  target: pt:dre:208843:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:22Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +99,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É proibido utilizar o serviço dos correios para o transporte de remessas postais - encomendas, caixas com valor declarado, cartas, impressos, amostras ou quaisquer outros objectos de correspondência que contenham as matérias perigosas referidas na lista anexa ao presente decreto-lei e que dele faz parte integrante.
+Artigo 1.º É proibido utilizar o serviço dos correios para o transporte de remessas postais - encomendas, caixas com valor declarado, cartas, impressos, amostras ou quaisquer outros objectos de correspondência que contenham as matérias perigosas referidas na lista anexa ao presente decreto-lei e que dele faz parte integrante.
 
-###### Art. 2.º A entrega ao serviço dos correios das remessas postais cujo transporte é proibido, nos termos do artigo 1.º, constitui crime punível com a pena de prisão de três dias a dois anos e multa correspondente, se ao caso não couber pena mais grave, em conformidade com o disposto na lei penal.
+Art. 2.º A entrega ao serviço dos correios das remessas postais cujo transporte é proibido, nos termos do artigo 1.º, constitui crime punível com a pena de prisão de três dias a dois anos e multa correspondente, se ao caso não couber pena mais grave, em conformidade com o disposto na lei penal.
 
-###### Art. 3.º As remessas postais entregues ao serviço dos correios que se suspeite conterem quaisquer matérias referidas no artigo 1.º poderão ser mandadas verificar em qualquer momento. Esta verificação será efectuada na presença do respectivo remetente, quando possível, ou, não o sendo, perante duas testemunhas, lavrando-se do facto o competente auto de notícia.
+Art. 3.º As remessas postais entregues ao serviço dos correios que se suspeite conterem quaisquer matérias referidas no artigo 1.º poderão ser mandadas verificar em qualquer momento. Esta verificação será efectuada na presença do respectivo remetente, quando possível, ou, não o sendo, perante duas testemunhas, lavrando-se do facto o competente auto de notícia.
 
 § único. Confirmando-se a suspeita, as remessas postais e os respectivos autos de notícia serão imediatamente enviados ao tribunal competente para efeitos de procedimento criminal; mas se a natureza das remessas aconselhar a adopção de cautelas especiais, tais remessas não acompanharão o auto e serão mantidas em depósito adequado, à ordem do tribunal, facto que se consignará sempre no referido auto de notícia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-## Anexo ao Decreto-Lei n.º 45438
+Anexo ao Decreto-Lei n.º 45438
 
 Lista de matérias ou artigos perigosos - Descrição sumária e exemplos-tipo
 

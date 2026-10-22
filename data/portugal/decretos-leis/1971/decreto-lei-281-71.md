@@ -47,36 +47,272 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1971-643159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aaa6770db162d20d156a8d5c5bad61ca2b353db6a3565b68a611677790390c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df52c938295eccd48f42662723da2f9a824932538ad89c727e0d8ae012bdc62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abrantes
+- Açores
+- Albergaria-a-velha
+- Albufeira.concelho
+- Alcácer do SAL
+- Alcobaça
+- Alenquer
+- Alfândega da FÉ
+- Alijó
+- Almada
+- Almeida
+- Almodôvar
+- Alvaiázere
+- Amarante
+- Amares
+- Anadia
+- Angra do Heroísmo
+- Ansião
+- Arcos de Valdevez
+- Arganil
+- Armamar
+- Arouca
+- Arquipélago da Madeira
+- Arraiolos
+- Aveiro
+- Avis
+- Baião
+- Barcelos
+- Barreiro
+- Beja
+- Boticas
+- Braga
+- Bragança
+- Cabeceiras de Basto
+- Caminha
+- Cantanhede
+- Carrazeda de Ansiães
+- Cartaxo
+- Cascais
+- Castelo Branco
+- Castelo de Paiva
+- Castelo de VIDE
+- Castro Daire
+- Celorico da Beira
+- Celorico de Basto
+- Chaves
+- Cinfães
+- Coimbra
+- Condeixa-a-nova
+- Coruche
+- Covilhã
+- Cuba
+- Direcção Geral de Justiça
+- Elvas
+- Esposende
+- Estarreja
+- Estatuto Judiciário
+- Estremoz
+- Évora
+- FAFE
+- Felgueiras
+- Ferreira do Alentejo
+- Ferreira do Zêzere
+- Figueira da Foz
+- Figueira de Castelo Rodrigo
+- Figueiró dos Vinhos
+- Fornos de Algodres
+- Fronteira.povoação
+- Funchal
+- Fundão
+- Golegã
+- Gouveia
+- Grândola
+- Guarda
+- Guimarães
+- Horta
+- Idanha-a-nova
+- ILHA das Flores
+- ILHA de Santa Maria
+- Ilha de São Jorge
+- Ilha do Pico
+- Ilha Graciosa
+- Juiz
+- Lagos
+- Lamego
+- Leiria
+- Lisboa
+- Loulé
+- Loures
+- Lourinhã
+- Lousã
+- Lousada
+- Mação
+- Macedo de Cavaleiros
+- Madeira.região Autónoma
+- Mafra
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Mangualde
+- Marco de Canaveses
+- Meda
+- Melgaço
+- Mértola
+- Mesão FRIO
+- Ministério da Justiça
+- Miranda do Douro
+- Mirandela
+- Mogadouro
+- Moimenta da Beira
+- Monção
+- Monchique
+- Moncorvo
+- Mondim de Basto
+- Montalegre
+- Montemor-o-Novo
+- Montemor-o-Velho
+- Montijo
+- Moura
+- Murça
+- Nisa
+- Odemira
+- Oeiras
+- Oleiros
+- Olhão
+- Oliveira de Frades
+- Oliveira do Hospital
+- Organização Tutelar de Menores
+- Ourique
+- Ovar
+- Paços de Ferreira
+- Paredes
+- Paredes de Coura
+- Penacova
+- Penafiel
+- Penamacor
+- Penela
+- PESO da Régua
+- Pessoal de Justiça
+- Pinhel
+- Pombal
+- Ponta Delgada
+- Ponta do SOL
+- Ponte da Barca
+- Ponte de LIMA
+- Ponte de Sor
+- Portalegre
+- Portel
+- Portimão
+- Porto
+- Porto de MOS
+- Póvoa de Lanhoso
+- Póvoa de Varzim
+- Póvoação
+- Procurador Geral da República
+- Procuradoria Geral da República
+- Quadro de Pessoal
+- Redondo
+- Reguengos de Monsaraz
+- Resende
+- Ribeira Grande
+- RIO Maior
+- Sabrosa
+- Sabugal
+- Santa Comba DÃO
+- Santa CRUZ
+- Santarém
+- Santiago do Cacém
+- Santo Tirso
+- são JOÃO da Pesqueira
+- são Pedro do SUL
+- são Vicente
+- Satão
+- Secretaria Geral
+- Secretaria Judicial
+- Seia
+- Seixal
+- Serpa
+- Sertã
+- Setúbal
+- Silves
+- Sintra
+- Soure
+- Supremo Tribunal da Justiça
+- Tabua
+- Tabuaço
+- Tavira
+- Tomar
+- Tondela
+- Torres Novas
+- Torres Vedras
+- Trancoso
+- Tribunal
+- Tribunal da Relação
+- Tribunal de Comarca
+- Tribunal de Execução das Penas
+- Tribunal de Instrução Criminal
+- Tribunal de Menores
+- Vagos
+- Valença
+- Valpaços
+- Viana do Castelo
+- Vieira do Minho
+- Vila da Feira
+- VILA do Conde
+- VILA FLOR
+- Vila Franca de Xira
+- VILA Franca do Campo
+- VILA NOVA de Cerveira
+- VILA NOVA de Famalicão
+- VILA NOVA de FOZ COA
+- Vila Nova de Ourém
+- VILA Pouca de Aguiar
+- Vila Real
+- Vila Real de Santo António
+- VILA Verde
+- Vila Viçosa
+- Vimioso
+- Vinhais
+- Viseu
+- Vouzela
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:17Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +347,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 80.º, 81.º, 127.º, 128.º, 134.º, 141.º, 143.º, 144.º, 145.º, 146.º, 148.º, 151.º, 157.º, 166.º, 167.º, 180.º, 183.º, 197.º, 251.º, 269.º, 271.º, 279.º, 284.º, 290.º, 291.º, 292.º, 300.º, 304.º, 305.º, 317.º, 318.º, 320.º, 327.º, 330.º, 337.º, 338.º, 339.º, 341.º, 342.º, 343.º, 344.º, 347.º, 348.º, 350.º, 392.º, 393.º, 394.º, 395.º e 415.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 80.º, 81.º, 127.º, 128.º, 134.º, 141.º, 143.º, 144.º, 145.º, 146.º, 148.º, 151.º, 157.º, 166.º, 167.º, 180.º, 183.º, 197.º, 251.º, 269.º, 271.º, 279.º, 284.º, 290.º, 291.º, 292.º, 300.º, 304.º, 305.º, 317.º, 318.º, 320.º, 327.º, 330.º, 337.º, 338.º, 339.º, 341.º, 342.º, 343.º, 344.º, 347.º, 348.º, 350.º, 392.º, 393.º, 394.º, 395.º e 415.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 80.º Ao escriturário-dactilógrafo compete:
+Art. 80.º Ao escriturário-dactilógrafo compete:
 
 a) Dactilografar a correspondência da câmara;
 
@@ -131,15 +367,15 @@ d) O escriturário-dactilágrafo, nas mesmas condições em que o são os escrit
 
 ...
 
-###### Art. 127.º - 1. ...
+Art. 127.º - 1. ...
 
 2. Em casos justificados, pode o Ministro da Justiça autorizar que os magistrados judiciais tomem posse em local diferente daquele onde tenham sido colocados. Nessa hipótese, porém, até que assumam o exercício efectivo das novas funções, serão apenas abonados dos vencimentos correspondentes aos cargos que desempenhavam.
 
-###### Art. 128.º Os magistrados que sejam promovidos à classe ou instância superior durante o exercício de cargos ou comissões de serviço, nos quais continuem após a promoção ou nomeação, ingressam na nova classe ou categoria a partir da data da publicação dos respectivos despachos no Diário do Governo, independentemente de nova posse.
+Art. 128.º Os magistrados que sejam promovidos à classe ou instância superior durante o exercício de cargos ou comissões de serviço, nos quais continuem após a promoção ou nomeação, ingressam na nova classe ou categoria a partir da data da publicação dos respectivos despachos no Diário do Governo, independentemente de nova posse.
 
 ...
 
-###### Art. 134.º - 1. ...
+Art. 134.º - 1. ...
 
 2. ...
 
@@ -151,7 +387,7 @@ No Supremo e nas Relações o impedimento entre juízes é restrito a cada secç
 
 ...
 
-###### Art. 141.º - 1. ...
+Art. 141.º - 1. ...
 
 2. Quando colocados em outra localidade, não sendo a seu pedido ou por motivo disciplinar, têm os juízes direito ao subsídio fixo de 2000$00.
 
@@ -163,7 +399,7 @@ No Supremo e nas Relações o impedimento entre juízes é restrito a cada secç
 
 ...
 
-###### Art. 143.º - 1. Aos magistrados judiciais que sejam colocados nas comarcas das ilhas adjacentes abona o Estado, a título de despesas de deslocação, o subsídio a que se refere o n.º 2 do artigo 141.º e a importância do preço da passagem marítima em 1.ª classe, ou o seu equivalente se for preferida a via aérea, para eles e sua família, e do transporte de bagagens desde o porto de embarque até ao de desembarque.
+Art. 143.º - 1. Aos magistrados judiciais que sejam colocados nas comarcas das ilhas adjacentes abona o Estado, a título de despesas de deslocação, o subsídio a que se refere o n.º 2 do artigo 141.º e a importância do preço da passagem marítima em 1.ª classe, ou o seu equivalente se for preferida a via aérea, para eles e sua família, e do transporte de bagagens desde o porto de embarque até ao de desembarque.
 
 2. ...
 
@@ -171,17 +407,17 @@ No Supremo e nas Relações o impedimento entre juízes é restrito a cada secç
 
 4. ...
 
-###### Art. 144.º - 1. O disposto no artigo anterior é aplicável aos magistrados das comarcas das ilhas adjacentes que forem colocados em comarca do continente ou de outra ilha.
+Art. 144.º - 1. O disposto no artigo anterior é aplicável aos magistrados das comarcas das ilhas adjacentes que forem colocados em comarca do continente ou de outra ilha.
 
 2. ...
 
 3. Aos magistrados das comarcas das ilhas adjacentes são abonadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça as despesas de transporte para deslocação ao continente nas férias judiciais de Verão, desde que regressem à sua comarca.
 
-###### Art. 145.º - 1. Aos magistrados judiciais que recebam abonos para viagem nos termos dos artigos precedentes e que, antes de dois ou de um ano de serviço nas ilhas adjacentes, conforme nelas tenham ou não sido colocados a seu pedido, sejam passados à situação de licença ilimitada ou nomeados, a seu requerimento, para desempenhar qualquer cargo ou comissão de serviço estranho ao Ministério da Justiça, é aplicável o disposto no n.º 4 ao artigo 143.º
+Art. 145.º - 1. Aos magistrados judiciais que recebam abonos para viagem nos termos dos artigos precedentes e que, antes de dois ou de um ano de serviço nas ilhas adjacentes, conforme nelas tenham ou não sido colocados a seu pedido, sejam passados à situação de licença ilimitada ou nomeados, a seu requerimento, para desempenhar qualquer cargo ou comissão de serviço estranho ao Ministério da Justiça, é aplicável o disposto no n.º 4 ao artigo 143.º
 
 2. Não há lugar a reposição de abonos se as colocações a que se refere o número anterior houverem sido determinadas por conveniência de serviço.
 
-###### Art. 146.º - 1. A antiguidade dos magistrados judiciais conta-se, dentro de cada classe ou categoria, desde a data da publicação do despacho no Diário do Governo, quando a posse for tomada nos prazos fixados nos termos do n.º 2 do artigo 126.º, sem prejuízo do disposto no n.º 4.
+Art. 146.º - 1. A antiguidade dos magistrados judiciais conta-se, dentro de cada classe ou categoria, desde a data da publicação do despacho no Diário do Governo, quando a posse for tomada nos prazos fixados nos termos do n.º 2 do artigo 126.º, sem prejuízo do disposto no n.º 4.
 
 2. Quando um despacho for declarado sem efeito e o magistrado colocado, a seu pedido, noutra comarca ou noutra situação, o tempo de ausência de serviço conta para a determinação do limite de sessenta dias fixado no n.º 4.
 
@@ -191,7 +427,7 @@ No Supremo e nas Relações o impedimento entre juízes é restrito a cada secç
 
 ...
 
-###### Art. 148.º - 1. Não é deduzido na antiguidade:
+Art. 148.º - 1. Não é deduzido na antiguidade:
 
 a) O tempo de ausência do lugar por motivo de sindicância ou de suspensão em consequência de processo disciplinar ou de pronúncia criminal, e ainda o tempo de prisão preventiva sofrida, se não tiver havido condenação.
 
@@ -203,7 +439,7 @@ c) ...
 
 ...
 
-###### Art. 151.º - 1. ...
+Art. 151.º - 1. ...
 
 2. Os magistrados e funcionários são graduados em cada categoria ou classe de harmonia com o tempo de serviço que lhes for contado, mencionando-se ainda, a respeito de cada um, a data do nascimento, o cargo ou função que desempenham e a data da colocação nessa situação.
 
@@ -213,27 +449,15 @@ Relativamente aos magistrados judiciais e do Ministério Público, indicar-se-á
 
 ...
 
-###### Art. 157.º - 1. Os requerimentos de aposentação e a documentação que for necessária serão enviados à Direcção-Geral da Justiça, que os remeterá à Administração-Geral da Caixa Geral de Depósitos.
+Art. 157.º - 1. Os requerimentos de aposentação e a documentação que for necessária serão enviados à Direcção-Geral da Justiça, que os remeterá à Administração-Geral da Caixa Geral de Depósitos.
 
 2. Com a antecedência de trinta dias, pelo menos, em relação à data em que atingem o limite de idade, devem os interessados comunicar o facto ao respectivo superior hierárquico, que transmitirá a comunicação à Direcção-Geral da Justiça.
 
 ...
 
-###### Art. 166.º Os vencimentos dos juízes colocados na metrópole ficam a cargo do Ministério da Justiça a partir do dia em que lhes seja passada a guia no Ministério do Ultramar, desde que tenham sido observados todos os prazos estabelecidos no artigo anterior.
+Art. 166.º Os vencimentos dos juízes colocados na metrópole ficam a cargo do Ministério da Justiça a partir do dia em que lhes seja passada a guia no Ministério do Ultramar, desde que tenham sido observados todos os prazos estabelecidos no artigo anterior.
 
-###### Art. 167.º - 1. Enquanto o Ministério da Justiça, através da Repartição Administrativa dos Cofres, não construir casas de renda limitada ou em regime de propriedade resolúvel para residência dos magistrados, todos os municípios são obrigados a fornecer casas mobiladas para habitação dos magistrados judiciais da comarca ou sede do circulo e a prover à sua conservação, mediante o pagamento da respectiva renda, que não excederá um oitavo dos vencimentos orçamentais dos magistrados. Em Lisboa, Porto e Coimbra, o Ministro da Justiça fixará os termos em que, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, é efectuada a compensação aos magistrados que desempenham cargos dependentes do Ministério da Justiça, enquanto lhes não seja fornecida habitação de harmonia com o disposto neste artigo.
-
-2. ...
-
-3. ...
-
-4. ...
-
-5. ...
-
-...
-
-###### Art. 180.º - 1. O Ministério Público, nos tribunais municipais, é representado, independentemente de nomeação e posse, pelo notário da sede do respectivo concelho.
+Art. 167.º - 1. Enquanto o Ministério da Justiça, através da Repartição Administrativa dos Cofres, não construir casas de renda limitada ou em regime de propriedade resolúvel para residência dos magistrados, todos os municípios são obrigados a fornecer casas mobiladas para habitação dos magistrados judiciais da comarca ou sede do circulo e a prover à sua conservação, mediante o pagamento da respectiva renda, que não excederá um oitavo dos vencimentos orçamentais dos magistrados. Em Lisboa, Porto e Coimbra, o Ministro da Justiça fixará os termos em que, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, é efectuada a compensação aos magistrados que desempenham cargos dependentes do Ministério da Justiça, enquanto lhes não seja fornecida habitação de harmonia com o disposto neste artigo.
 
 2. ...
 
@@ -245,7 +469,19 @@ Relativamente aos magistrados judiciais e do Ministério Público, indicar-se-á
 
 ...
 
-###### Art. 183.º - 1. ...
+Art. 180.º - 1. O Ministério Público, nos tribunais municipais, é representado, independentemente de nomeação e posse, pelo notário da sede do respectivo concelho.
+
+2. ...
+
+3. ...
+
+4. ...
+
+5. ...
+
+...
+
+Art. 183.º - 1. ...
 
 2. Os delegados são substituídos, nas suas faltas e impedimentos, pelo subdelegado do procurador da República, se este for licenciado em Direito, e, não o sendo, pelo notário da sede da comarca.
 
@@ -263,7 +499,7 @@ Havendo mais de um notário, a substituição incumbe àquele que para o efeito 
 
 ...
 
-###### Art. 197.º - 1. O procurador-geral é coadjuvado no exercício das suas funções por dezasseis ajudantes, distribuídos pela forma seguinte:
+Art. 197.º - 1. O procurador-geral é coadjuvado no exercício das suas funções por dezasseis ajudantes, distribuídos pela forma seguinte:
 
 ...
 
@@ -273,7 +509,7 @@ e) Seis desempenham o serviço de consulta jurídica, como auditores junto dos v
 
 ...
 
-###### Art. 251.º - 1. ...
+Art. 251.º - 1. ...
 
 2. ...
 
@@ -283,7 +519,7 @@ Os ajudantes de escrivão e os escriturários-dactilógrafos habilitados com o c
 
 ...
 
-###### Art. 269.º - 1. ...
+Art. 269.º - 1. ...
 
 ...
 
@@ -293,11 +529,11 @@ v) Executar o expediente do Serviço Social do Ministério da Justiça, na quali
 
 ...
 
-###### Art. 271.º Ao contador compete dirigir a secção de expediente e contabilidade, cabendo-lhe especialmente as funções de recebimento e pagamento de fundos e sua escrituração.
+Art. 271.º Ao contador compete dirigir a secção de expediente e contabilidade, cabendo-lhe especialmente as funções de recebimento e pagamento de fundos e sua escrituração.
 
 ...
 
-###### Art. 279.º - 1. ...
+Art. 279.º - 1. ...
 
 2. ...
 
@@ -305,7 +541,7 @@ v) Executar o expediente do Serviço Social do Ministério da Justiça, na quali
 
 ...
 
-###### Art. 284.º ...
+Art. 284.º ...
 
 ...
 
@@ -313,19 +549,19 @@ d) Cumprir o que, quanto ao secretário do Supremo Tribunal de Justiça, se acha
 
 ...
 
-###### Art. 290.º Aos contadores competem as atribuições especificadas no artigo 282.º, em cujo desempenho serão auxiliados pelo restante pessoal da secção central, e cabe-lhes, designadamente:
+Art. 290.º Aos contadores competem as atribuições especificadas no artigo 282.º, em cujo desempenho serão auxiliados pelo restante pessoal da secção central, e cabe-lhes, designadamente:
 
 ...
 
-###### Art. 291.º - 1. Aos escrivães de direito incumbem as atribuições especificadas no artigo 283.º; no desempenho delas serão auxiliados pelos restantes funcionários da secção.
+Art. 291.º - 1. Aos escrivães de direito incumbem as atribuições especificadas no artigo 283.º; no desempenho delas serão auxiliados pelos restantes funcionários da secção.
 
 2. Um dos escrivães de direito da Relação de Lisboa fica afecto aos serviços da Procuradoria da República, competindo-lhe especialmente a movimentação dos respectivos processos.
 
-###### Art. 292.º Os ajudantes de escrivão e os escriturários-dactilógrafos não têm competência especificada, cumprindo-lhes executar o serviço que lhes seja determinado, em conformidade com as suas categorias, pelo contador e pelos respectivos escrivães de direito.
+Art. 292.º Os ajudantes de escrivão e os escriturários-dactilógrafos não têm competência especificada, cumprindo-lhes executar o serviço que lhes seja determinado, em conformidade com as suas categorias, pelo contador e pelos respectivos escrivães de direito.
 
 ...
 
-###### Art. 300.º - 1. É da competência dos chefes de secretaria, que são chefes privativos das secções centrais:
+Art. 300.º - 1. É da competência dos chefes de secretaria, que são chefes privativos das secções centrais:
 
 a) A distribuição e contagem dos processos e papéis avulsos;
 
@@ -373,17 +609,17 @@ v) A direcção de todos os serviços da secretaria e a execução de quaisquer 
 
 ...
 
-###### Art. 304.º - 1. ...
+Art. 304.º - 1. ...
 
 2. Os escrivães de direito têm ainda funções idênticas às que são atribuídas aos escrivães das Relações, com excepção das mencionadas na alínea j) do artigo 283.º, pertencendo-lhes outrossim a passagem dos boletins do registo criminal e a sua remessa ao arquivo geral e às comarcas que ainda tenham esse serviço a seu cargo.
 
-###### Art. 305.º É aplicável aos ajudantes de escrivão e escriturários-dactilógrafos o disposto para os funcionários das mesmas categorias nas Relações; aos escriturários-dactilógrafos cumpre ainda desempenhar as funções de oficiais de diligências quando, em razão das necessidades do serviço, o juiz o determine.
+Art. 305.º É aplicável aos ajudantes de escrivão e escriturários-dactilógrafos o disposto para os funcionários das mesmas categorias nas Relações; aos escriturários-dactilógrafos cumpre ainda desempenhar as funções de oficiais de diligências quando, em razão das necessidades do serviço, o juiz o determine.
 
 ...
 
-###### Art. 317.º Aos chefes de secretaria dos juízos dos tribunais criminais compete também a movimentação dos processos após o trânsito em julgado das decisões condenatórias.
+Art. 317.º Aos chefes de secretaria dos juízos dos tribunais criminais compete também a movimentação dos processos após o trânsito em julgado das decisões condenatórias.
 
-###### Art. 318.º - 1. Em cada edifício dos tribunais de Lisboa, Porto e Coimbra haverá oficiais-porteiros, encarregados da guarda, da conservação, da fiscalização do serviço de limpeza de todo o edifício e ainda da execução de outros trabalhos. A sua remuneração é suportada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, se não houver inscrição orçamental própria.
+Art. 318.º - 1. Em cada edifício dos tribunais de Lisboa, Porto e Coimbra haverá oficiais-porteiros, encarregados da guarda, da conservação, da fiscalização do serviço de limpeza de todo o edifício e ainda da execução de outros trabalhos. A sua remuneração é suportada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, se não houver inscrição orçamental própria.
 
 2. ...
 
@@ -391,13 +627,13 @@ v) A direcção de todos os serviços da secretaria e a execução de quaisquer 
 
 ...
 
-###### Art. 320.º - 1. ...
+Art. 320.º - 1. ...
 
 2. Os chefes de secretaria têm a seu cargo as funções que nas secretarias dos tribunais de comarca pertencem às secções centrais e de processos.
 
 ...
 
-###### Art. 327.º - 1. Só pode ser nomeado funcionário de justiça o indivíduo português, maior de 21 anos, que tenha as habilitações escolares e os estágios estabelecidos por lei e, quando esta o exija, também a aprovação no respectivo concurso de habilitação.
+Art. 327.º - 1. Só pode ser nomeado funcionário de justiça o indivíduo português, maior de 21 anos, que tenha as habilitações escolares e os estágios estabelecidos por lei e, quando esta o exija, também a aprovação no respectivo concurso de habilitação.
 
 2. ...
 
@@ -405,7 +641,7 @@ v) A direcção de todos os serviços da secretaria e a execução de quaisquer 
 
 ...
 
-###### Art. 330.º - 1. Os concorrentes que não sejam ainda funcionários de justiça instruirão os seus requerimentos com os documentos seguintes:
+Art. 330.º - 1. Os concorrentes que não sejam ainda funcionários de justiça instruirão os seus requerimentos com os documentos seguintes:
 
 a) Certidão comprovativa das habilitações literárias que possuam;
 
@@ -419,9 +655,9 @@ c) Declaração a que se refere o n.º 3 do artigo 342.º
 
 ...
 
-###### Art. 337.º Os lugares de contador e de escrivão do Supremo e das Relações são providos em chefes de secretaria ou escrivães de direito de 1.ª classe e em licenciados ou bacharéis em Direito, de reconhecida competência.
+Art. 337.º Os lugares de contador e de escrivão do Supremo e das Relações são providos em chefes de secretaria ou escrivães de direito de 1.ª classe e em licenciados ou bacharéis em Direito, de reconhecida competência.
 
-###### Art. 338.º - 1. Os lugares de chefe de secretaria são providos em chefes de secretaria ou escrivães de direito, por transferência, e em indivíduos habilitados com o concurso para escrivão de direito, todos com a classificação não inferior à de Bom, e em licenciados ou bacharéis em Direito.
+Art. 338.º - 1. Os lugares de chefe de secretaria são providos em chefes de secretaria ou escrivães de direito, por transferência, e em indivíduos habilitados com o concurso para escrivão de direito, todos com a classificação não inferior à de Bom, e em licenciados ou bacharéis em Direito.
 
 2. A nomeação para lugares de qualquer classe recairá de preferência num dos concorrentes de classe mais elevada e, entre estes, nos de melhor classificação de serviço na categoria. Para lugares de 3.ª classe, na falta de concorrentes de 1.ª ou 2.ª classes, têm preferência sobre os candidatos habilitados com o concurso os chefes de secretaria e os escrivães de 3.ª classe, desde que classificados de Muito bom nessa categoria. Fora deste caso, os candidatos habilitados com o concurso são equiparados aos concorrentes de 3.ª classe, equivalendo a classificação do concurso à classificação de serviço que estes tiverem.
 
@@ -429,17 +665,17 @@ c) Declaração a que se refere o n.º 3 do artigo 342.º
 
 4. ...
 
-###### Art. 339.º - 1. Os lugares de escrivão de direito dos tribunais de 1.ª instância são providos em chefes de secretaria ou escrivães de direito, por transferência, ou em indivíduos habilitados com o respectivo concurso, ou em licenciados ou bacharéis em Direito.
+Art. 339.º - 1. Os lugares de escrivão de direito dos tribunais de 1.ª instância são providos em chefes de secretaria ou escrivães de direito, por transferência, ou em indivíduos habilitados com o respectivo concurso, ou em licenciados ou bacharéis em Direito.
 
 2. ...
 
 ...
 
-###### Art. 341.º - 1. Os lugares de ajudante de escrivão são providos em escriturários-dactilógrafos de 1.ª classe com, pelo menos, dois anos de serviço na classe e classificação superior à de Bom.
+Art. 341.º - 1. Os lugares de ajudante de escrivão são providos em escriturários-dactilógrafos de 1.ª classe com, pelo menos, dois anos de serviço na classe e classificação superior à de Bom.
 
 2. Constitui motivo de preferência a melhor classificação de serviço e, em igualdade de classificação, o desempenho de funções na comarca em que a vaga ocorrer.
 
-###### Art. 342.º - 1. Os lugares de escriturário-dactilógrafo são providos em escriturários-dactilógrafos de 1.ª classe, por transferência, ou em indivíduos habilitados com o ciclo preparatório do ensino secundário, ou curso equivalente, que saibam escrever correctamente à máquina.
+Art. 342.º - 1. Os lugares de escriturário-dactilógrafo são providos em escriturários-dactilógrafos de 1.ª classe, por transferência, ou em indivíduos habilitados com o ciclo preparatório do ensino secundário, ou curso equivalente, que saibam escrever correctamente à máquina.
 
 2. Os escriturários-dactilógrafos de 1.ª classe com classificação não inferior à de Bom têm preferência sobre os simples candidatos, e, entre estes, constitui motivo de preferência a habilitação com alguma das secções do 2.º ciclo dos liceus ou sua equiparação e a prática dos serviços.
 
@@ -453,17 +689,17 @@ c) Declaração a que se refere o n.º 3 do artigo 342.º
 
 7. O Conselho Superior Judiciário comunicará à Direcção-Geral da Justiça a classificação atribuída aos escriturários-dactilógrafos de 2.ª classe.
 
-###### Art. 343.º Os lugares de oficial de diligências são providos em indivíduos do sexo masculino que satisfaçam às condições dos n.os 1 a 3 do artigo anterior, ou em funcionários do Ministério da Justiça com dez anos de serviço e que revelem aptidão para o exercício dessas funções.
+Art. 343.º Os lugares de oficial de diligências são providos em indivíduos do sexo masculino que satisfaçam às condições dos n.os 1 a 3 do artigo anterior, ou em funcionários do Ministério da Justiça com dez anos de serviço e que revelem aptidão para o exercício dessas funções.
 
-###### Art. 344.º - 1. A primeira nomeação e as transferências dos ajudantes de escrivão, escriturários-dactilógrafos e oficiais de diligências podem ser feitas para tribunais de qualquer categoria ou classe.
+Art. 344.º - 1. A primeira nomeação e as transferências dos ajudantes de escrivão, escriturários-dactilógrafos e oficiais de diligências podem ser feitas para tribunais de qualquer categoria ou classe.
 
 2. As transferências referidas no número anterior não estão sujeitas a quaisquer regras de preferência.
 
 ...
 
-###### Art. 347.º Por cada contrato será lavrado na Direcção-Geral da Justiça o respectivo diploma de provimento.
+Art. 347.º Por cada contrato será lavrado na Direcção-Geral da Justiça o respectivo diploma de provimento.
 
-###### Art. 348.º - 1. ...
+Art. 348.º - 1. ...
 
 2. O duplicado do termo da posse será enviado imediatamente à Direcção-Geral da Justiça.
 
@@ -471,7 +707,7 @@ c) Declaração a que se refere o n.º 3 do artigo 342.º
 
 ...
 
-###### Art. 350.º - 1. Os quadros dos funcionários de justiça, para efeitos de entrada na lista de antiguidades, são os seguintes: de secretários-gerais, de antigos chefes de secretaria, de escrivães de direito, de ajudantes de escrivão e de escriturários-dactilógrafos.
+Art. 350.º - 1. Os quadros dos funcionários de justiça, para efeitos de entrada na lista de antiguidades, são os seguintes: de secretários-gerais, de antigos chefes de secretaria, de escrivães de direito, de ajudantes de escrivão e de escriturários-dactilógrafos.
 
 2. ...
 
@@ -481,15 +717,15 @@ c) Declaração a que se refere o n.º 3 do artigo 342.º
 
 ### CAPÍTULO IV — Disposições especiais relativas aos concursos para escrivão de direito
 
-###### Art. 392.º São requisitos de admissão ao concurso para escrivão de direito, além dos enumerados no artigo 365.º, com excepção do que se refere ao sexo e à idade, o exercício dos cargos de ajudante de escrivão, durante dois anos, ou de escriturário-dactilógrafo das secretarias judiciais, do Conselho Superior Judiciário ou da Polícia Judiciária, ou de arquivista-caixa, durante seis anos, uns e outros com classificação de serviço, resultante de inspecção, não inferior à de Bom.
+Art. 392.º São requisitos de admissão ao concurso para escrivão de direito, além dos enumerados no artigo 365.º, com excepção do que se refere ao sexo e à idade, o exercício dos cargos de ajudante de escrivão, durante dois anos, ou de escriturário-dactilógrafo das secretarias judiciais, do Conselho Superior Judiciário ou da Polícia Judiciária, ou de arquivista-caixa, durante seis anos, uns e outros com classificação de serviço, resultante de inspecção, não inferior à de Bom.
 
-###### Art. 393.º - 1. No tempo de serviço a que se refere o artigo anterior é computado o exercício interino dos cargos de chefe de secretaria, escrivão de direito, ajudante de escrivão e escriturário-dactilógrafo.
+Art. 393.º - 1. No tempo de serviço a que se refere o artigo anterior é computado o exercício interino dos cargos de chefe de secretaria, escrivão de direito, ajudante de escrivão e escriturário-dactilógrafo.
 
 2. A Direcção-Geral da Justiça coligirá oficiosamente os elementos relativos ao tempo de serviço e à classificação.
 
-###### Art. 394.º O júri dos concursos para escrivão de direito é composto de um juiz de direito, que preside, e de um magistrado judicial ou do Ministério Público e de dois escrivães de direito, um dos quais desempenhe as funções de chefe de secretaria, como vogais.
+Art. 394.º O júri dos concursos para escrivão de direito é composto de um juiz de direito, que preside, e de um magistrado judicial ou do Ministério Público e de dois escrivães de direito, um dos quais desempenhe as funções de chefe de secretaria, como vogais.
 
-###### Art. 395.º - 1. As provas escritas, em que os concorrentes devem usar os termos e fórmulas legais, incluem a conta simples de um processo, acto ou papel judicial e a redacção de um acto judicial.
+Art. 395.º - 1. As provas escritas, em que os concorrentes devem usar os termos e fórmulas legais, incluem a conta simples de um processo, acto ou papel judicial e a redacção de um acto judicial.
 
 2. As provas orais consistem em três interrogatórios sobre:
 
@@ -501,45 +737,45 @@ c) Interpretação e aplicação do Código das Custas Judiciais e legislação 
 
 ...
 
-###### Art. 415.º ...
+Art. 415.º ...
 
 ...
 
 h) Servir de delegado da direcção do Serviço Social do Ministério da Justiça para os assuntos relativos aos magistrados e funcionários do Conselho.
 
-###### Art. 2.º - 1. Os chefes de secretaria que tenham obtido aprovação no concurso a que se refere o artigo 392.º do Estatuto Judiciário, na redacção do [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, são integrados no quadro dos escrivães de direito, indo ocupar o lugar que lhes pertenceria se tivessem permanecido nesse quadro.
+Art. 2.º - 1. Os chefes de secretaria que tenham obtido aprovação no concurso a que se refere o artigo 392.º do Estatuto Judiciário, na redacção do [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, são integrados no quadro dos escrivães de direito, indo ocupar o lugar que lhes pertenceria se tivessem permanecido nesse quadro.
 
 2. Os funcionários de justiça que constituem o quadro dos antigos chefes de secção transitam para o quadro dos escrivães de direito a que se refere o artigo 350.º, ocupando o lugar que lhes corresponde em função da classe e da antiguidade.
 
-###### Art. 3.º No primeiro provimento do lugar de escrivão de direito criado por este diploma no quadro da Repartição Judicial da Relação de Lisboa terão preferência os funcionários do quadro da repartição administrativa do mesmo tribunal, com boa informação ao serviço e que hajam sido aprovados, independentemente do tempo decorrido, nos concursos para oficial de justiça.
+Art. 3.º No primeiro provimento do lugar de escrivão de direito criado por este diploma no quadro da Repartição Judicial da Relação de Lisboa terão preferência os funcionários do quadro da repartição administrativa do mesmo tribunal, com boa informação ao serviço e que hajam sido aprovados, independentemente do tempo decorrido, nos concursos para oficial de justiça.
 
-###### Art. 4.º Os contínuos que à data da entrada em vigor do presente diploma prestam serviço, há mais de dez anos, como assalariados, a título eventual, nas secretarias referidas nos quadros anexos ao Estatuto Judiciário, consideram-se integrados, como tais, nos respectivos quadros, independentemente de posse ou qualquer outra formalidade.
+Art. 4.º Os contínuos que à data da entrada em vigor do presente diploma prestam serviço, há mais de dez anos, como assalariados, a título eventual, nas secretarias referidas nos quadros anexos ao Estatuto Judiciário, consideram-se integrados, como tais, nos respectivos quadros, independentemente de posse ou qualquer outra formalidade.
 
-###### Art. 5.º - 1. Nos tribunais municipais, bem como nos tribunais de comarca, cujo quadro não comporte o lugar de escrivão de direito e o de chefe de secretaria esteja vago, o escrivão de direito considera-se investido nas funções de chefe de secretaria, independentemente de posse ou qualquer outra formalidade, na data da entrada em vigor deste diploma.
+Art. 5.º - 1. Nos tribunais municipais, bem como nos tribunais de comarca, cujo quadro não comporte o lugar de escrivão de direito e o de chefe de secretaria esteja vago, o escrivão de direito considera-se investido nas funções de chefe de secretaria, independentemente de posse ou qualquer outra formalidade, na data da entrada em vigor deste diploma.
 
 2. O disposto no número anterior é igualmente aplicável quando, nos tribunais da comarca nele referidos, vier a vagar o lugar de secretaria.
 
 3. No tribunal da comarca de Coimbra o actual titular do extinto lugar de chefe de secretaria ajudante considera-se investido, nos termos do n.º 1, no lugar vago de chefe de secretaria.
 
-###### Art. 6.º - 1. Os actuais escriturários transitam para as novas categorias e quadros dos tribunais das respectivas comarcas, segundo listas a publicar no Diário do Governo, sem necessidade de qualquer outra formalidade.
+Art. 6.º - 1. Os actuais escriturários transitam para as novas categorias e quadros dos tribunais das respectivas comarcas, segundo listas a publicar no Diário do Governo, sem necessidade de qualquer outra formalidade.
 
 2. São extintos à medida que vagarem os lugares que não constem dos mapas anexos a este diploma.
 
-###### Art. 7.º - 1. Os chefes de secretaria dos tribunais municipais auferem vencimento fixo igual ao dos chefe de secretaria de 3.ª classe em comarcas da mesma classe.
+Art. 7.º - 1. Os chefes de secretaria dos tribunais municipais auferem vencimento fixo igual ao dos chefe de secretaria de 3.ª classe em comarcas da mesma classe.
 
 2. Aos ajudantes de escrivão corresponde o vencimento da letra Q do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 8.º - A média da parte emolumentar dos vencimentos dos funcionários de justiça a que se refere o artigo 40.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, é rectificada, tomando-se em consideração o novo divisor, quando, pela entrada em vigor de novos quadros aprovados por lei, total ou parcialmente, resultar diferente o número dos que têm direito à partilha da mesma receita.
+Art. 8.º - A média da parte emolumentar dos vencimentos dos funcionários de justiça a que se refere o artigo 40.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, é rectificada, tomando-se em consideração o novo divisor, quando, pela entrada em vigor de novos quadros aprovados por lei, total ou parcialmente, resultar diferente o número dos que têm direito à partilha da mesma receita.
 
-###### Art. 9.º - São alterados o mapa IX anexo ao Estatuto Judiciário e o mapa anexo ao [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44288-1962-322682), de 20 de Abril de 1962.
+Art. 9.º - São alterados o mapa IX anexo ao Estatuto Judiciário e o mapa anexo ao [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44288-1962-322682), de 20 de Abril de 1962.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 11 de Junho de 1971.**
+Promulgado em 11 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -547,9 +783,9 @@ Mapa anexo ao [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/d
 
 Quadro do pessoal das secretarias dos tribunais tutelares centrais de menores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/14700/09430951.pdf))](https://files.diariodarepublica.pt/1s/1971/06/14700/09430951.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/14700/09430951.pdf)
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.
 
 MAPA IX
 
@@ -721,4 +957,4 @@ Julgados municipais
 
 Albufeira, Alfândega da Fé, Almeida, Almodôvar, Alvaiázere, Armamar, Avis, Boticas, Carrazeda de Ansiães, Castelo de Paiva, Condeixa-a-Nova, Ferreira do Alentejo, Ferreira do Zêzere, Fornos de Algodres, Grândola, Mação, Mesão Frio, Monchique, Mondim de Basto, Murça, Oleiros, Pampilhosa da Serra, Penacova, Penamacor, Penela, Ponte da Barca, Portel, Sabrosa, Sátão, Tábua, Vila Nova de Cerveira, Vila Nova de Foz Côa e Vouzela: 1 chefe de secretaria, 1 oficial de diligências e 1 escriturário-dactilógrafo.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

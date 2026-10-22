@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/07/15400/08600869.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1972-674416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0501426684512b8afbd8ff10bcf2d140dcf1a04766d24fd32185b166f6be3e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8da9f585364fb59627e62105fbdbcd927e8503f00bc40c826fd24a42afec6112
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Conselho Fiscal
+- Contrastaria
+- Cunhagem de Moeda
+- Edição de Publicações
+- Empresa Pública
+- Estatuto
+- Imprensa Nacional-Casa da Moeda
+- Museu Numismático Português
+- Pessoa Colectiva de Direito Público
+- Valores Selados
 relationships:
 - type: amended_by
   target: pt:dre:567461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412444:por
+  label: "Dada nova redacção ao nº 4 do art. 30º pelo DEC LEI.97/74.14.03.1974.MI, DG.IS [62] de 14.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-1974-412444
+  date: '1974-03-14'
+- type: cites
+  target: pt:dre:213060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649973:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:432671:por
+  label: "Revogado o nº 3 do art. 38º, pelo DEC LEI.191-A/79.1979.06.25.PCM, DR.IS [144]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-a-1979-432671
+  date: '1979-06-25'
+- type: repealed_by
+  target: pt:dre:567461:por
+  label: "Revogado pelo DEC LEI.333/81.1981.12.07.MFP, DR.IS [281]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1981-567461
+  date: '1981-12-07'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:05Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +240,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. A empresa pública Imprensa Nacional e a Casa da Moeda passam a constituir uma só empresa pública, designada por Imprensa Nacional-Casa da Moeda e abreviadamente I. N. C. M.
+Artigo 1.º - 1. A empresa pública Imprensa Nacional e a Casa da Moeda passam a constituir uma só empresa pública, designada por Imprensa Nacional-Casa da Moeda e abreviadamente I. N. C. M.
 
 2. A I. N. C. M. é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com património próprio.
 
@@ -170,13 +248,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Nos casos omissos serão observadas, com as necessárias adaptações, as normas que regulam a actividade das empresas comerciais e a competência dos seus órgãos.
 
-###### Art. 2.º - 1. A I. N. C. M. terá sede em Lisboa e poderá ter filiais ou outra espécie de representação em qualquer ponto do território nacional onde exerça as suas funções, sempre que o movimento o justifique.
+Art. 2.º - 1. A I. N. C. M. terá sede em Lisboa e poderá ter filiais ou outra espécie de representação em qualquer ponto do território nacional onde exerça as suas funções, sempre que o movimento o justifique.
 
 2. Mediante autorização conjunta dos Ministros do Interior e das Finanças, a I. N. C. M. poderá, também, ter filiais ou outra qualquer espécie de representação em países estrangeiros.
 
 ### CAPÍTULO II — Atribuições e competência
 
-###### Art. 3.º - 1. Constituem atribuições da I. N. C. M.:
+Art. 3.º - 1. Constituem atribuições da I. N. C. M.:
 
 a) A produção de:
 
@@ -218,7 +296,7 @@ i) O desenvolvimento e elevação do nível das técnicas de cunhagem e artes gr
 
 2. É permitido à I. N. C. M. exercer ainda outras actividades correlacionadas com as atribuições referidas no número anterior quando o conselho de administração o repute conveniente.
 
-###### Art. 4.º - 1. Constituem exclusivo da I. N. C. M.:
+Art. 4.º - 1. Constituem exclusivo da I. N. C. M.:
 
 a) Em todo o território nacional, as produções constantes dos n.os 1, 2, 5, 6, 7 e 8 da alínea a) do artigo anterior e a selagem de valores a particulares;
 
@@ -226,7 +304,7 @@ b) No território do continente e ilhas adjacentes, as produções constantes do
 
 2. O Ministro das Finanças, ouvido o conselho de administração, poderá autorizar que algum dos trabalhos referidos no número anterior seja feito fora da I. N. C. M.
 
-###### Art. 5.º No uso das atribuições a que se refere a alínea e) do artigo 3.º, cabe à I. N. C. M.:
+Art. 5.º No uso das atribuições a que se refere a alínea e) do artigo 3.º, cabe à I. N. C. M.:
 
 a) Editar:
 
@@ -262,13 +340,13 @@ b) Imprimir, embora não lhe pertençam as respectivas edições:
 
 c) Fundir caracteres e outros materiais tipográficos necessários à sua laboração e à das tipografias particulares.
 
-###### Art. 6.º - 1. Para realização das atribuições a que se reporta a alínea g) do artigo 3.º, a I. N. C. M. poderá manter livrarias próprias, sob a designação genérica de «Livraria do Estado».
+Art. 6.º - 1. Para realização das atribuições a que se reporta a alínea g) do artigo 3.º, a I. N. C. M. poderá manter livrarias próprias, sob a designação genérica de «Livraria do Estado».
 
 2. A comercialização das publicações editadas por qualquer serviço do Estado far-se-á sempre com intervenção dos estabelecimentos a que alude o número anterior.
 
-###### Art. 7.º Para realização das atribuições a que se reporta a alínea h) do artigo 3.º, a I. N. C. M. manterá escolas onde será ministrado o ensino das técnicas de cunhagem e das várias especialidades das artes gráficas e adoptará ainda quaisquer outras medidas tendentes à boa preparação profissional dos seus servidores.
+Art. 7.º Para realização das atribuições a que se reporta a alínea h) do artigo 3.º, a I. N. C. M. manterá escolas onde será ministrado o ensino das técnicas de cunhagem e das várias especialidades das artes gráficas e adoptará ainda quaisquer outras medidas tendentes à boa preparação profissional dos seus servidores.
 
-###### Art. 8.º Para desempenho das atribuições a que alude a alínea i) do artigo 3.º, a I. N. C. M.:
+Art. 8.º Para desempenho das atribuições a que alude a alínea i) do artigo 3.º, a I. N. C. M.:
 
 a) Terá um centro de documentação e informação, no qual será reunida, ordenada e mantida actualizada a bibliografia sobre problemas das técnicas de cunhagem, do livro e da tecnologia das artes gráficas, constituída por tratados, compêndios, boletins, ensaios, revistas, artigos e quaisquer outras publicações;
 
@@ -276,33 +354,33 @@ b) Promoverá, por si só ou de colaboração com a Corporação da Imprensa e A
 
 c) Editará uma revista para divulgação das modernas técnicas e orientação adoptadas nas artes gráficas e utilizará ainda outros meios que possam servir o progresso das mesmas artes.
 
-###### Art. 9.º - 1. A I. N. C. M. poderá celebrar contratos com entidades congéneres e instituições científicas ou culturais estrangeiras para a venda recíproca das edições próprias e daquelas de que sejam depositárias.
+Art. 9.º - 1. A I. N. C. M. poderá celebrar contratos com entidades congéneres e instituições científicas ou culturais estrangeiras para a venda recíproca das edições próprias e daquelas de que sejam depositárias.
 
 2. A I. N. C. M. poderá ainda constituir depositários no estrangeiro para a venda das publicações que comercialize na «Livraria do Estado».
 
-###### Art. 10.º - 1. A I. N. C. M. terá biblioteca privativa, integrada no centro de documentação e informação a que se refere o artigo 8.º
+Art. 10.º - 1. A I. N. C. M. terá biblioteca privativa, integrada no centro de documentação e informação a que se refere o artigo 8.º
 
 2. Tanto a biblioteca como o centro poderão ser utilizados pelo público, para leitura e estudo das obras e documentos neles existentes, dentro das horas regulamentares.
 
-###### Art. 11.º - 1. O Museu Numismático Português, que tem funcionado anexo à Casa da Moeda, fica incorporado na I. N. C. M. nas condições do artigo 76.º, com todo o património nele existente.
+Art. 11.º - 1. O Museu Numismático Português, que tem funcionado anexo à Casa da Moeda, fica incorporado na I. N. C. M. nas condições do artigo 76.º, com todo o património nele existente.
 
 2. Compete à I. N. C. M. a manutenção do Museu a que alude o número anterior, bem como a aquisição de exemplares numismáticos que forem julgados convenientes.
 
 3. É obrigatório o envio ao Museu Numismático Português, pelos proprietários. administradores ou gerentes das oficinas produtoras de medalhas comemorativas, de dois exemplares de cada medalha que fabricarem.
 
-###### Art. 12.º - 1. Continuam em vigor os regulamentos por que actualmente se regem os Serviços de Contrastaria e o Museu Numismático Português, cuja alteração poderá efectuar-se por decreto do Ministro das Finanças.
+Art. 12.º - 1. Continuam em vigor os regulamentos por que actualmente se regem os Serviços de Contrastaria e o Museu Numismático Português, cuja alteração poderá efectuar-se por decreto do Ministro das Finanças.
 
 2. Todos os outros regulamentos necessários ao funcionamento da I. N. C. M. serão aprovados pelo conselho de administração, mediante parecer favorável do conselho fiscal.
 
 ### CAPÍTULO III — Administração e fiscalização
 
-###### Art. 13.º A I. N. C. M. é administrada e fiscalizada, respectivamente, pelos seguintes órgãos:
+Art. 13.º A I. N. C. M. é administrada e fiscalizada, respectivamente, pelos seguintes órgãos:
 
 a) Conselho de administração;
 
 b) Conselho fiscal.
 
-###### Art. 14.º - 1. O conselho de administração é constituído por cinco administradores, um dos quais servirá de presidente, com a designação de administrador-geral, todos livremente nomeados por despacho conjunto dos Ministros do Interior e das Finanças pelo período de três anos, renovável por iguais períodos, e isentos de caução.
+Art. 14.º - 1. O conselho de administração é constituído por cinco administradores, um dos quais servirá de presidente, com a designação de administrador-geral, todos livremente nomeados por despacho conjunto dos Ministros do Interior e das Finanças pelo período de três anos, renovável por iguais períodos, e isentos de caução.
 
 2. Os administradores, além das funções que lhes competirem por lei ou regulamento, poderão ter a seu cargo a orientação de um ou mais pelouros, atribuídos por deliberação do mesmo conselho.
 
@@ -314,7 +392,7 @@ b) Conselho fiscal.
 
 6. Nas suas faltais e impedimentos, o presidente é substituído por um dos administradores, designado por despacho conjunto dos Ministros do Interior e das Finanças.
 
-###### Art. 15.º - 1. Compete ao presidente ou a quem legalmente o substituir:
+Art. 15.º - 1. Compete ao presidente ou a quem legalmente o substituir:
 
 a) Representar a I. N. C. M. em quaisquer actos ou contratos, podendo delegar a representação em um dos administradores ou em funcionário especialmente designado para o efeito;
 
@@ -332,7 +410,7 @@ a) Submeter à apreciação do conselho de administração todos os assuntos que
 
 b) Desempenhar as funções que por lei, regulamento ou delegação do conselho de administração lhes forem cometidas.
 
-###### Art. 16.º - 1. O conselho de administração reúne, ordinàriamente, pelo menos uma vez por semana e, extraordinàriamente, sempre que for convocado pelo presidente.
+Art. 16.º - 1. O conselho de administração reúne, ordinàriamente, pelo menos uma vez por semana e, extraordinàriamente, sempre que for convocado pelo presidente.
 
 2. Para o conselho deliberar vàlidamente é indispensável a presença de maioria absoluta dos membros em exercício.
 
@@ -340,7 +418,7 @@ b) Desempenhar as funções que por lei, regulamento ou delegação do conselho 
 
 4. As actas das sessões do conselho podem se dactilografadas e serão arquivadas por ordem cronológica.
 
-###### Art. 17.º - 1. Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção superior do estabelecimento e, em especial:
+Art. 17.º - 1. Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção superior do estabelecimento e, em especial:
 
 a) Estabelecer a organização interna e aprovar os respectivos regulamentos;
 
@@ -366,25 +444,25 @@ j) Celebrar contratos com autores, editores ou titulares da propriedade de obras
 
 3. Pode o Ministro das Finanças, sempre que o entenda conveniente, fixar, em aplicação do número anterior, distintos preços para cada produto ou serviço, conforme as condições do respectivo fornecimento, ou autorizar o conselho de administração a fazê-lo nos casos que indique.
 
-###### Art. 18.º Cabem também ao conselho de administração todos os poderes necessários para assegurar a existência do estabelecimento, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento a gestão do património e ainda o regular funcionamento dos serviços a seu cargo.
+Art. 18.º Cabem também ao conselho de administração todos os poderes necessários para assegurar a existência do estabelecimento, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento a gestão do património e ainda o regular funcionamento dos serviços a seu cargo.
 
-###### Art. 19.º - 1. Os lugares de administrador são incompatíveis com o desempenho de quaisquer cargos ou funções em estabelecimentos comerciais ou empresas industriais de objectivos idênticos ou afins.
+Art. 19.º - 1. Os lugares de administrador são incompatíveis com o desempenho de quaisquer cargos ou funções em estabelecimentos comerciais ou empresas industriais de objectivos idênticos ou afins.
 
 2. A incompatibilidade referida no número anterior abrange a prestação de serviços, a qualquer título, como consultor em matérias compreendidas nas atribuições da I. N. C. M.
 
-###### Art. 20.º - 1. Os membros do conselho de administração recebem ordenado fixado por despacho conjunto dos Ministros do Interior e das Finanças.
+Art. 20.º - 1. Os membros do conselho de administração recebem ordenado fixado por despacho conjunto dos Ministros do Interior e das Finanças.
 
 2. O disposto nos artigos 30.º e 38.º do presente diploma é extensivo aos membros do conselho de administração, salvo no que respeita ao quantitativo das pensões de aposentação, que não poderá exceder o ordenado fixado nos termos deste artigo.
 
-###### Art. 21.º - 1. O conselho fiscal é constituído pelo presidente e por dois vogais, nomeados por despacho conjunto dos Ministros do Interior e das Finanças, por períodos renováveis de três anos.
+Art. 21.º - 1. O conselho fiscal é constituído pelo presidente e por dois vogais, nomeados por despacho conjunto dos Ministros do Interior e das Finanças, por períodos renováveis de três anos.
 
 2. O presidente e os vogais do conselho fiscal tomarão posse dos seus cargos mediante assinatura do respectivo termo.
 
-###### Art. 22.º O conselho fiscal reúne, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que for convocado pelo presidente, por sua iniciativa ou a pedido do conselho de administração.
+Art. 22.º O conselho fiscal reúne, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que for convocado pelo presidente, por sua iniciativa ou a pedido do conselho de administração.
 
-###### Art. 23.º Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá direito de voto nos casos expressamente previstos no presente diploma, e será designado por este último, nos termos do n.º 2 do artigo seguinte.
+Art. 23.º Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá direito de voto nos casos expressamente previstos no presente diploma, e será designado por este último, nos termos do n.º 2 do artigo seguinte.
 
-###### Art. 24.º - 1. Compete ao conselho fiscal:
+Art. 24.º - 1. Compete ao conselho fiscal:
 
 a) Examinar e verificar, em qualquer momento, a contabilidade e os valores existentes no estabelecimento;
 
@@ -396,21 +474,21 @@ d) Pronunciar-se sobre qualquer assunto de interesse para o estabelecimento que 
 
 2. Para além do caso especialmente previsto no artigo anterior, as demais funções do conselho fiscal que não careçam de ser exercidas em reunião deste órgão poderão ser asseguradas, em regime de delegação, por um ou dois dos seus membros, conforme a conveniência do serviço e segundo escala que, para esse efeito, for estabelecida pelo próprio conselho.
 
-###### Art. 25.º Por despacho conjunto dos Ministros do Interior e das Finanças será atribuída uma gratificação mensal aos membros do conselho fiscal.
+Art. 25.º Por despacho conjunto dos Ministros do Interior e das Finanças será atribuída uma gratificação mensal aos membros do conselho fiscal.
 
-###### Art. 26.º O conselho de administração porá à disposição do conselho fiscal os meios de acção indispensáveis ao exercício das suas funções.
+Art. 26.º O conselho de administração porá à disposição do conselho fiscal os meios de acção indispensáveis ao exercício das suas funções.
 
-###### Art. 27.º A administração da I. N. C. M. é autónoma, mas os Ministros do Interior e das Finanças poderão, em qualquer momento, mandar inspeccionar a contabilidade e o movimento de fundos do estabelecimento, tornando responsável a mesma administração pelos abusos ou faltas que tenha praticado.
+Art. 27.º A administração da I. N. C. M. é autónoma, mas os Ministros do Interior e das Finanças poderão, em qualquer momento, mandar inspeccionar a contabilidade e o movimento de fundos do estabelecimento, tornando responsável a mesma administração pelos abusos ou faltas que tenha praticado.
 
-###### Art. 28.º - 1. Como fiscais supremos da administração, cabe aos Ministros do Interior e das Finanças verificar se a I. N. C. M. cumpre as leis e regulamentos aplicáveis e satisfaz os objectivos que lhe respeitam.
+Art. 28.º - 1. Como fiscais supremos da administração, cabe aos Ministros do Interior e das Finanças verificar se a I. N. C. M. cumpre as leis e regulamentos aplicáveis e satisfaz os objectivos que lhe respeitam.
 
 2. A administração prestará aos mesmos Ministros todas as informações que estes lhe requisitem em matéria de serviço.
 
-###### Art. 29.º Das deliberações definitivas e executórias tomadas pelo conselho de administração cabe recurso contencioso, nos termos de direito, para o Supremo Tribunal Administrativo.
+Art. 29.º Das deliberações definitivas e executórias tomadas pelo conselho de administração cabe recurso contencioso, nos termos de direito, para o Supremo Tribunal Administrativo.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 30.º - 1. O pessoal dos quadros da I. N. C. M., incluindo o do Museu Numismático Português, está sujeito ao regime jurídico dos servidores do Estado, com as modificações exigidas pela natureza específica da actividade do estabelecimento, de harmonia com o disposto no presente diploma e nos demais preceitos aplicáveis, inclusive o constante da orgânica interna dos serviços.
+Art. 30.º - 1. O pessoal dos quadros da I. N. C. M., incluindo o do Museu Numismático Português, está sujeito ao regime jurídico dos servidores do Estado, com as modificações exigidas pela natureza específica da actividade do estabelecimento, de harmonia com o disposto no presente diploma e nos demais preceitos aplicáveis, inclusive o constante da orgânica interna dos serviços.
 
 2. No provimento dos lugares dos quadros poderão ser dispensadas, quando as circunstâncias o aconselharem, as habilitações exigidas pelo artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
@@ -420,29 +498,29 @@ d) Pronunciar-se sobre qualquer assunto de interesse para o estabelecimento que 
 
 5. Porém, os membros dos conselhos de administração e fiscal não beneficiam do regime tributário estabelecido no número anterior, ficando desde já sujeitos à tributação legal.
 
-###### Art. 31.º - 1. A deliberação do conselho de administração que fixe as categorias e remunerações do pessoal da I. N. C. M. carece de parecer favorável do conselho fiscal e homologação dos Ministros do Interior e das Finanças.
+Art. 31.º - 1. A deliberação do conselho de administração que fixe as categorias e remunerações do pessoal da I. N. C. M. carece de parecer favorável do conselho fiscal e homologação dos Ministros do Interior e das Finanças.
 
 2. A fixação das categorias e remunerações mencionadas no número anterior será feita tendo em conta as circunstâncias de se tratar, já de servidores do Estado, já de profissionais de estabelecimento industrial, independentemente dos limites impostos pela lei geral.
 
-###### Art. 32.º A integração do pessoal da empresa pública Imprensa Nacional e do da Casa da Moeda, actualmente ao serviço, em novas categorias adoptadas será feita pelo conselho de administração, após a homologação ministerial prevista na alínea f) do artigo 17.º, independentemente de quaisquer formalidades.
+Art. 32.º A integração do pessoal da empresa pública Imprensa Nacional e do da Casa da Moeda, actualmente ao serviço, em novas categorias adoptadas será feita pelo conselho de administração, após a homologação ministerial prevista na alínea f) do artigo 17.º, independentemente de quaisquer formalidades.
 
-###### Art. 33.º Os assalariados da I. N. C. M. perceberão salário em relação a todos os dias, inclusive domingos.
+Art. 33.º Os assalariados da I. N. C. M. perceberão salário em relação a todos os dias, inclusive domingos.
 
 Art.º 34.º Para estímulo e distinção dos melhores servidores do estabelecimento, o conselho de administração, com parecer favorável do conselho fiscal, poderá atribuir prémios de produção e de assiduidade.
 
-###### Art. 35.º - 1. Todo o pessoal será contratado ou assalariado pelo conselho de administração dentro das respectivas dotações orçamentais e na medida das necessidades do estabelecimento.
+Art. 35.º - 1. Todo o pessoal será contratado ou assalariado pelo conselho de administração dentro das respectivas dotações orçamentais e na medida das necessidades do estabelecimento.
 
 2. Os servidores com provimento vitalício actualmente ao serviço conservam esta situação, ainda que, por força da integração a que se refere o artigo 32.º, venham a ser colocados em lugares diferentes daqueles de que agora são titulares.
 
 3. O pessoal a que se refere o n.º 1 considerar-se-á em regime experimental pelo período de três meses, findo o qual poderá ser livremente dispensado por simples deliberação do conselho de administração, independentemente de outras formalidades e sem direito a qualquer indemnização.
 
-###### Art. 36.º - 1. O pessoal admitido na I. N. C. M., quer como contratado, quer como assalariado, poderá começar logo a prestar serviço no estabelecimento na base de simples ajuste verbal, enquanto não forem ultimadas as formalidades necessárias aos provimentos normais dos cargos que vai ocupar.
+Art. 36.º - 1. O pessoal admitido na I. N. C. M., quer como contratado, quer como assalariado, poderá começar logo a prestar serviço no estabelecimento na base de simples ajuste verbal, enquanto não forem ultimadas as formalidades necessárias aos provimentos normais dos cargos que vai ocupar.
 
 2. O tempo de serviço prestado na situação referida no número anterior não poderá exceder um mês e será contado, para todos os efeitos legais, inclusive o de aposentação.
 
-###### Art. 37.º Independentemente do disposto nos dois artigos anteriores, pode o conselho de administração, sem dependência de quaisquer formalidades, ajustar a prestação de serviços profissionais ou técnicos, por certo tempo ou para determinadas tarefas, nas condições a fixar em cada caso pelo mesmo conselho.
+Art. 37.º Independentemente do disposto nos dois artigos anteriores, pode o conselho de administração, sem dependência de quaisquer formalidades, ajustar a prestação de serviços profissionais ou técnicos, por certo tempo ou para determinadas tarefas, nas condições a fixar em cada caso pelo mesmo conselho.
 
-###### Art. 38.º - 1. O quantitativo das pensões de aposentação dos servidores da I. N. C. M. será calculado nos termos da lei geral.
+Art. 38.º - 1. O quantitativo das pensões de aposentação dos servidores da I. N. C. M. será calculado nos termos da lei geral.
 
 2. As remunerações que vierem a ser atribuídas às várias categorias de pessoal a partir da data da entrada em vigor deste diploma servirão de base para o cálculo da respectiva pensão nas aposentações requeridas ou impostas a partir daquela data.
 
@@ -452,43 +530,43 @@ Art.º 34.º Para estímulo e distinção dos melhores servidores do estabelecim
 
 5. O encargo respeitante ao tempo de serviço fora da I. N. C. M. será suportado, na devida proporção, pela Caixa Geral de Aposentações e outras entidades responsáveis pela aposentação dos respectivos serventuários.
 
-###### Art. 39.º - 1. A I. N. C. M. promoverá cursos de aperfeiçoamento profissional dos seus servidores, a cargo de funcionários designados pelo conselho de administração, ou de pessoal a ele estranho, contratado para o efeito.
+Art. 39.º - 1. A I. N. C. M. promoverá cursos de aperfeiçoamento profissional dos seus servidores, a cargo de funcionários designados pelo conselho de administração, ou de pessoal a ele estranho, contratado para o efeito.
 
 2. A administração, quando o julgue conveniente, pode ainda promover que os servidores da I. N. C. M. frequentem estágios ou cursos externos.
 
-###### Art. 40.º As alterações que o Governo eventualmente venha a introduzir nas remunerações do funcionalismo e demais servidores do Estado não serão extensivas ao pessoal da I. N. C. M.
+Art. 40.º As alterações que o Governo eventualmente venha a introduzir nas remunerações do funcionalismo e demais servidores do Estado não serão extensivas ao pessoal da I. N. C. M.
 
 ### CAPÍTULO V — Gestão financeira
 
-###### Art. 41.º - 1. A I. N. C. M. organizará para cada ano económico o seu orçamento, que compreenderá todos os rendimentos, encargos e resultado provável, e regulará durante o mesmo período a gestão financeira do estabelecimento.
+Art. 41.º - 1. A I. N. C. M. organizará para cada ano económico o seu orçamento, que compreenderá todos os rendimentos, encargos e resultado provável, e regulará durante o mesmo período a gestão financeira do estabelecimento.
 
 2. Na organização do seu orçamento a I. N. C. M. terá em conta os objectivos industriais e comerciais fixados em conformidade com o programa plurienal da actividade a prosseguir pelo estabelecimento e as necessidades da respectiva exploração, observando, no entanto, e sempre que possível, as normas que regulam o Orçamento Geral do Estado.
 
-###### Art. 42.º O orçamento da I. N. C. M. será publicado na parte complementar do Orçamento Geral do Estado.
+Art. 42.º O orçamento da I. N. C. M. será publicado na parte complementar do Orçamento Geral do Estado.
 
-###### Art. 43.º - 1. As transferências de verbas orçamentais dependem de deliberação do conselho de administração.
+Art. 43.º - 1. As transferências de verbas orçamentais dependem de deliberação do conselho de administração.
 
 2. A abertura de créditos especiais e o reforço de dotações orçamentais, com compensação em excesso de receitas a cobrar, serão autorizados por deliberação do conselho de administração, com parecer favorável do conselho fiscal.
 
-###### Art. 44.º A contabilidade da I. N. C. M. obedece às regras da gestão empresarial que lhe é própria, mantendo-se paralelamente a escrita orçamental.
+Art. 44.º A contabilidade da I. N. C. M. obedece às regras da gestão empresarial que lhe é própria, mantendo-se paralelamente a escrita orçamental.
 
-###### Art. 45.º - 1. Da escrita orçamental da I. N. C. M. deverão constar, quanto à receita, a verba orçamentada e a cobrança realizada; no tocante aos encargos, figurarão as dotações atribuídas, os pagamentos efectuados e os saldos de cada dotação, se os houver.
+Art. 45.º - 1. Da escrita orçamental da I. N. C. M. deverão constar, quanto à receita, a verba orçamentada e a cobrança realizada; no tocante aos encargos, figurarão as dotações atribuídas, os pagamentos efectuados e os saldos de cada dotação, se os houver.
 
 2. Na realização das despesas vigorarão os princípios de autorização e de cabimento orçamental.
 
-###### Art. 46.º - 1. A contabilidade da I. N. C. M. subordinar-se-á ao plano aprovado pelo conselho de administração e mostrará a posição das contas do activo, passivo e situação líquida, bem como da conta «Resultados».
+Art. 46.º - 1. A contabilidade da I. N. C. M. subordinar-se-á ao plano aprovado pelo conselho de administração e mostrará a posição das contas do activo, passivo e situação líquida, bem como da conta «Resultados».
 
 2. Os livros de escrita principais terão termos de abertura e encerramento, assinados pelo presidente do conselho de administração ou, em sua delegação, por um administrador ou pelo director dos respectivos serviços.
 
 3. Os demais livros de escrita e outros elementos de contabilidade não obedecem a formalismos especiais, salvo os determinados pelo conselho de administração.
 
-###### Art. 47.º A I. N. C. M. poderá, com autorização do conselho fiscal, constituir provisões para depreciação física e de valor das suas existências, assim como para créditos de cobrança duvidosa, ou para outros fins, pelos montantes que a prudência administrativa aconselhar.
+Art. 47.º A I. N. C. M. poderá, com autorização do conselho fiscal, constituir provisões para depreciação física e de valor das suas existências, assim como para créditos de cobrança duvidosa, ou para outros fins, pelos montantes que a prudência administrativa aconselhar.
 
-###### Art. 48.º - 1. A crédito da conta «Resultados» são levados todos os proveitos da exploração normal, incluindo a prestação de serviços, da venda de bens considerados dispensáveis, assim como os rendimentos da aplicação de fundos.
+Art. 48.º - 1. A crédito da conta «Resultados» são levados todos os proveitos da exploração normal, incluindo a prestação de serviços, da venda de bens considerados dispensáveis, assim como os rendimentos da aplicação de fundos.
 
 2. A débito da mesma conta são levados todos os custos de gestão do estabelecimento, incluindo as amortizações e provisões.
 
-###### Art. 49.º - 1. Quando a conta «Resultados» encerre com lucros, o saldo, depois de completamente amortizados eventuais prejuízos transitados de exercícios anteriores, terá, obrigatòriamente, a seguinte distribuição:
+Art. 49.º - 1. Quando a conta «Resultados» encerre com lucros, o saldo, depois de completamente amortizados eventuais prejuízos transitados de exercícios anteriores, terá, obrigatòriamente, a seguinte distribuição:
 
 a) 5 por cento para «Reserva geral»;
 
@@ -510,7 +588,7 @@ b) Reforço das reservas e fundo mencionados nas alíneas a), c) e d) do número
 
 5. No caso de os resultados serem negativos, poderá ser utilizada a «Reserva geral», passando, em conta, a diferença para o exercício seguinte.
 
-###### Art. 50.º - 1. Até 31 de Março o conselho de administração deverá submeter à apreciação do conselho fiscal o relatório e as contas anuais de gerência.
+Art. 50.º - 1. Até 31 de Março o conselho de administração deverá submeter à apreciação do conselho fiscal o relatório e as contas anuais de gerência.
 
 2. Dentro do prazo de trinta dias, o conselho fiscal deverá dar o seu parecer sobre as contas e relatório apresentados.
 
@@ -518,55 +596,55 @@ b) Reforço das reservas e fundo mencionados nas alíneas a), c) e d) do número
 
 4. A I. N. C. M. prestará contas, segundo as regras e prazos aplicáveis, ao Tribunal de Contas.
 
-###### Art. 51.º - 1. O relatório e contas do conselho de administração e o parecer do conselho fiscal serão publicados no Diário do Governo e num jornal diário da capital.
+Art. 51.º - 1. O relatório e contas do conselho de administração e o parecer do conselho fiscal serão publicados no Diário do Governo e num jornal diário da capital.
 
 2. A publicação em jornal diário poderá ser substituída pela reprodução em folheto, a distribuir gratuitamente, com a tiragem de, pelo menos, cinco mil exemplares.
 
-###### Art. 52.º - 1. A I. N. C. M. conservará em arquivo os elementos da sua escrita principal e a correspondência pelo prazo de dez anos; nos demais casos poderá a administração ordenar a inutilização dos documentos decorridos três anos.
+Art. 52.º - 1. A I. N. C. M. conservará em arquivo os elementos da sua escrita principal e a correspondência pelo prazo de dez anos; nos demais casos poderá a administração ordenar a inutilização dos documentos decorridos três anos.
 
 2. Os livros e documentos que devam conservar-se em arquivo poderão ser microfilmados; os microfilmes serão autenticados com a assinatura do responsável pelo serviço e os originais poderão ser inutilizados depois das microfilmagens.
 
 3. As fotocópias de documentos arquivados na I. N. C. M. têm a mesma força probatória dos originais, mesmo quando se trate de ampliações dos microfilmes que os reproduzem.
 
-###### Art. 53.º - 1. Com parecer favorável do conselho fiscal, o conselho de administração poderá aplicar as importâncias correspondentes às reservas da I. N. C. M. em depósitos a prazo, títulos de crédito ou quaisquer outros bens de rendimento.
+Art. 53.º - 1. Com parecer favorável do conselho fiscal, o conselho de administração poderá aplicar as importâncias correspondentes às reservas da I. N. C. M. em depósitos a prazo, títulos de crédito ou quaisquer outros bens de rendimento.
 
 2. O «Fundo cultural e de investigação tecnológica» poderá ser utilizado para cobrir, total ou parcialmente, os encargos com as actividades referidas na alínea b) do artigo 8.º e, além dessas, poderá suportar os encargos de edição de livros e obras raras, de interesse nacional, cuja comercialização se preveja deficitária, e as suas disponibilidades, sem aplicação imediata, serão obrigatòriamente aplicadas em depósitos à ordem ou a prazo ou bens de rendimento de fácil transacção.
 
 3. Sem prejuízo do disposto no n.º 2, as reservas e os restantes fundos constituídos poderão estar representados em valores do activo.
 
-###### Art. 54.º As disponibilidades do estabelecimento em numerário sem aplicação imediata serão depositadas na Caixa Geral de Depósitos, nos termos da lei.
+Art. 54.º As disponibilidades do estabelecimento em numerário sem aplicação imediata serão depositadas na Caixa Geral de Depósitos, nos termos da lei.
 
-###### Art. 55.º O produto da venda de impressos efectuada através das tesourarias da Fazenda Pública ou de quaisquer outros serviços oficiais será depositado na Caixa Geral de Depósitos ou suas dependências, à ordem da I. N. C. M., até ao dia 10 do mês seguinte àquele a que as mesmas vendas disserem respeito.
+Art. 55.º O produto da venda de impressos efectuada através das tesourarias da Fazenda Pública ou de quaisquer outros serviços oficiais será depositado na Caixa Geral de Depósitos ou suas dependências, à ordem da I. N. C. M., até ao dia 10 do mês seguinte àquele a que as mesmas vendas disserem respeito.
 
-###### Art. 56.º - 1. A aquisição e a alienação de bens imóveis que sejam propriedade da I. N. C. M. dependem de deliberação do conselho de administração, com parecer favorável do conselho fiscal, homologada por despacho conjunto dos Ministros do Interior e das Finanças.
+Art. 56.º - 1. A aquisição e a alienação de bens imóveis que sejam propriedade da I. N. C. M. dependem de deliberação do conselho de administração, com parecer favorável do conselho fiscal, homologada por despacho conjunto dos Ministros do Interior e das Finanças.
 
 2. A aquisição e a alienação de bens móveis são da competência do conselho de administração.
 
 3. O arrendamento de prédios ou de parte de prédios indispensáveis à instalação de serviços depende de deliberação do conselho de administração, com parecer favorável do conselho fiscal.
 
-###### Art. 57.º - 1. A I. N. C. M. pode contrair empréstimos a curto e a médio prazos em estabelecimentos bancários nacionais e ainda empréstimos a longo prazo nestes estabelecimentos ou através de emissão de obrigações.
+Art. 57.º - 1. A I. N. C. M. pode contrair empréstimos a curto e a médio prazos em estabelecimentos bancários nacionais e ainda empréstimos a longo prazo nestes estabelecimentos ou através de emissão de obrigações.
 
 2. Os empréstimos a médio e a longo prazos carecem de parecer favorável do conselho fiscal e, quanto aos últimos, também de autorização conjunta dos Ministros do Interior e das Finanças.
 
 3. Os empréstimos a longo prazo só podem ser contraídos para realização de empreendimentos reprodutivos, construção, aquisição e ampliação de imóveis e instalações destinados às actividades do estabelecimento e ainda para consolidação de créditos anteriormente obtidos.
 
-###### Art. 58.º - 1. A I. N. C. M. pagará ao Estado a renda de 1 por cento sobre a receita cobrada da sua exploração.
+Art. 58.º - 1. A I. N. C. M. pagará ao Estado a renda de 1 por cento sobre a receita cobrada da sua exploração.
 
 2. Esta renda constituirá encargo da conta correspondente e será liquidada e entregue mensalmente.
 
-###### Art. 59.º - 1. A receita cobrada nas contrastarias pertence ao Estado, competindo à I. N. C. M. proceder à sua arrecadação, e, depois de liquidadas todas as despesas pelos serviços por ela prestados, determinadas nos termos do n.º 2 do artigo 17.º, entregar o respectivo saldo na conta do Tesouro.
+Art. 59.º - 1. A receita cobrada nas contrastarias pertence ao Estado, competindo à I. N. C. M. proceder à sua arrecadação, e, depois de liquidadas todas as despesas pelos serviços por ela prestados, determinadas nos termos do n.º 2 do artigo 17.º, entregar o respectivo saldo na conta do Tesouro.
 
 2. O saldo referido no número anterior será apurado anualmente e entregue no Tesouro até 30 de Junho do ano seguinte àquele a que respeite.
 
-###### Art. 60.º No Orçamento Geral do Estado serão inscritas as verbas necessárias para ocorrer ao pagamento à I. N. C. M. dos trabalhos que lhe sejam requisitados pelos serviços públicos.
+Art. 60.º No Orçamento Geral do Estado serão inscritas as verbas necessárias para ocorrer ao pagamento à I. N. C. M. dos trabalhos que lhe sejam requisitados pelos serviços públicos.
 
 ### CAPÍTULO VI — Das publicações e impressos oficiais
 
-###### Art. 61.º - 1. A edição das publicações oficiais que cabem à I. N. C. M. será orientada de harmonia com as superiores determinações das entidades competentes.
+Art. 61.º - 1. A edição das publicações oficiais que cabem à I. N. C. M. será orientada de harmonia com as superiores determinações das entidades competentes.
 
 2. Compete ao secretário-geral da Presidência do Conselho a direcção da 1.ª série do Diário do Governo e a resolução das dúvidas que surjam acerca da inserção de actos ou documentos nas restantes séries.
 
-###### Art. 62.º - 1. Só podem ser insertos na 1.ª série do Diário do Governo os originais provenientes da Secretaria-Geral da Presidência do Conselho e aí registados e autenticados.
+Art. 62.º - 1. Só podem ser insertos na 1.ª série do Diário do Governo os originais provenientes da Secretaria-Geral da Presidência do Conselho e aí registados e autenticados.
 
 2. Exceptuam-se os actos do Chefe do Estado que, nos termos da Constituição, não careçam de ser referendados pelo Presidente do Conselho, os quais serão publicados por ordem da Secretaria-Geral da Presidência da República.
 
@@ -576,13 +654,13 @@ b) Reforço das reservas e fundo mencionados nas alíneas a), c) e d) do número
 
 5. Os interessados na inserção de escritos na 3.ª série, referidos no número anterior, farão prèviamente o pagamento do seu custo ou o depósito da quantia suficiente para o cobrir, sendo-lhes devolvidos os saldos que houver, desde que os reclamem no prazo de seis meses, a contar da última publicação. Não os reclamando, considerar-se-ão prescritos a favor da I. N. C. M.
 
-###### Art. 63.º - 1. As rectificações dos erros provenientes de divergência entre o texto do original e o texto impresso serão publicadas na série do Diário do Governo em que o tiver sido o texto rectificando, devendo obedecer aos requisitos exigidos para a publicação deste e provir da mesma origem.
+Art. 63.º - 1. As rectificações dos erros provenientes de divergência entre o texto do original e o texto impresso serão publicadas na série do Diário do Governo em que o tiver sido o texto rectificando, devendo obedecer aos requisitos exigidos para a publicação deste e provir da mesma origem.
 
 2. Se a divergência a que se refere o número anterior respeitar a texto inserto na 3.ª série do Diário do Governo e dimanado de entidades particulares ou empresas públicas, a rectificação poderá ser feita oficiosamente pela I. N. C. M.
 
 3. Só se fará segunda publicação de qualquer texto quando a primeira haja sido feita com transposições, saltos ou erros materiais que tornem difícil o correcto entendimento do conjunto e desde que não haja quaisquer modificações no conteúdo.
 
-###### Art. 64.º - 1. O serviço de assinaturas do Diário do Governo e do Diário das Sessões, da Assembleia Nacional, incluindo Actas da Câmara Corporativa, constitui exclusivo da I. N. C. M. e é por ela directamente assegurado.
+Art. 64.º - 1. O serviço de assinaturas do Diário do Governo e do Diário das Sessões, da Assembleia Nacional, incluindo Actas da Câmara Corporativa, constitui exclusivo da I. N. C. M. e é por ela directamente assegurado.
 
 2. As assinaturas do Diário do Governo e as dos seus apêndices serão abertas por períodos de seis ou de doze meses, com início no primeiro dia de Janeiro ou Julho de cada ano, e ao preço delas acrescerá o custo dos portes do correio, quando se tratar de expedições para fora do continente.
 
@@ -590,11 +668,11 @@ b) Reforço das reservas e fundo mencionados nas alíneas a), c) e d) do número
 
 4. As assinaturas do Diário das Sessões, da Assembleia Nacional, e Actas da Câmara Corporativa serão abertas apenas por períodos legislativos. Ao seu preço acrescerá o custo dos portes do correio quando a expedição se tiver de fazer para fora do continente.
 
-###### Art. 65.º - 1. O pagamento das assinaturas de qualquer das publicações da I. N. C. M. deve ser realizado no acto da subscrição e o dos exemplares avulso das mesmas publicações no momento da respectiva venda.
+Art. 65.º - 1. O pagamento das assinaturas de qualquer das publicações da I. N. C. M. deve ser realizado no acto da subscrição e o dos exemplares avulso das mesmas publicações no momento da respectiva venda.
 
 2. Exceptuam-se do regime estabelecido no número anterior as assinaturas feitas por serviços públicos do Estado ou das autarquias locais, assim como a aquisição, pelos referidos serviços, de exemplares avulso de tais publicações.
 
-###### Art. 66.º - 1. A fim de facilitar a aquisição pelos interessados de impressos, de outras publicações e de material tipográfico, a I. N. C. M. promoverá as respectivas vendas:
+Art. 66.º - 1. A fim de facilitar a aquisição pelos interessados de impressos, de outras publicações e de material tipográfico, a I. N. C. M. promoverá as respectivas vendas:
 
 a) Directamente ao público;
 
@@ -610,65 +688,65 @@ c) Por recurso a estabelecimentos que se dediquem ao comércio de livros, papela
 
 5. Em caso algum será confiada a entidade particular a venda de impressos e de outras publicações da I. N. C. M. em regime de exclusivo.
 
-###### Art. 67.º - 1. Os serviços públicos e estabelecimentos do Estado e das autarquias locais, assim como os organismos de coordenação económica e empresas concessionárias do Estado, são obrigados a adquirir directamente na I. N. C. M. os impressos oficiais cujo exclusivo lhe pertença.
+Art. 67.º - 1. Os serviços públicos e estabelecimentos do Estado e das autarquias locais, assim como os organismos de coordenação económica e empresas concessionárias do Estado, são obrigados a adquirir directamente na I. N. C. M. os impressos oficiais cujo exclusivo lhe pertença.
 
 2. As mesmas entidades são ainda obrigadas a obter parecer técnico da I. N. C. M. para execução de quaisquer trabalhos gráficos cujo preço seja superior a 10 contos.
 
-###### Art. 68.º Além dos que disposições legais posteriores lhe tenham concedido ou venham a conceder, constituem exclusivo da I. N. C. M. os impressos ainda em uso constantes da lista n.º 1 anexa do [Decreto-Lei n.º 24437](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24437-1934-445163), de 29 de Agosto de 1934.
+Art. 68.º Além dos que disposições legais posteriores lhe tenham concedido ou venham a conceder, constituem exclusivo da I. N. C. M. os impressos ainda em uso constantes da lista n.º 1 anexa do [Decreto-Lei n.º 24437](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24437-1934-445163), de 29 de Agosto de 1934.
 
-###### Art. 69.º Compete aos serviços públicos, logo que tenham conhecimento de que qualquer dos seus impressos será substituído ou eliminado, dar do facto conhecimento à I. N. C. M., a fim de se evitar nova tiragem.
+Art. 69.º Compete aos serviços públicos, logo que tenham conhecimento de que qualquer dos seus impressos será substituído ou eliminado, dar do facto conhecimento à I. N. C. M., a fim de se evitar nova tiragem.
 
 ### CAPÍTULO VII — Das publicações particulares
 
-###### Art. 70.º Quando for autorizada a impressão ou reimpressão de obras particulares, estas serão executadas segundo as cláusulas do contrato respectivo e quando se mostre ter sido feito o depósito da quantia correspondente ao custo do trabalho a executar ou se encontre garantido o seu pagamento.
+Art. 70.º Quando for autorizada a impressão ou reimpressão de obras particulares, estas serão executadas segundo as cláusulas do contrato respectivo e quando se mostre ter sido feito o depósito da quantia correspondente ao custo do trabalho a executar ou se encontre garantido o seu pagamento.
 
-###### Art. 71.º Se as obras a que se refere o artigo anterior ficarem, no todo ou em parte, depositadas para venda na I. N. C. M., assim constará do respectivo contrato, fixando-se nele as condições de depósito.
+Art. 71.º Se as obras a que se refere o artigo anterior ficarem, no todo ou em parte, depositadas para venda na I. N. C. M., assim constará do respectivo contrato, fixando-se nele as condições de depósito.
 
 ### CAPÍTULO VIII — Serviços Sociais
 
-###### Art. 72.º - 1. Os Serviços Sociais da I. N. C. M. exercerão a sua actividade nos domínios da formação cultural, previdência, assistência, habitação, recreio e actividades desportivas, com o fim de melhorar as condições económico-sociais dos seus servidores e dos respectivos familiares.
+Art. 72.º - 1. Os Serviços Sociais da I. N. C. M. exercerão a sua actividade nos domínios da formação cultural, previdência, assistência, habitação, recreio e actividades desportivas, com o fim de melhorar as condições económico-sociais dos seus servidores e dos respectivos familiares.
 
 2. Consideram-se integradas nos Serviços Sociais, com todos os seus bens, as organizações, da Imprensa Nacional, denominadas «Caixa de Socorros», «Previdência Mútua» e «Caixa de Auxílio a Viúvas e Órfãos» e, da Casa da Moeda, a organização denominada «Grupo Desportivo e Educativo da Casa da Moeda» e o «Serviço de Cantina e Refeitório».
 
 3. Poderão também ser integradas nos Serviços Sociais instituições, fundadas e subscritas pelo pessoal, que sirvam os objectivos do número anterior, desde que os interessados desejem e o conselho de administração o julgue conveniente.
 
-###### Art. 73.º Os Serviços Sociais estão isentos de custas e selos nos processos em que intervenham, bem como de emolumentos, taxas, contribuições ou impostos, e beneficiam ainda de todas as regalias conferidas por lei às instituições oficiais de assistência.
+Art. 73.º Os Serviços Sociais estão isentos de custas e selos nos processos em que intervenham, bem como de emolumentos, taxas, contribuições ou impostos, e beneficiam ainda de todas as regalias conferidas por lei às instituições oficiais de assistência.
 
-###### Art. 74.º - 1. O quantitativo da dotação anual para os Serviços Sociais será fixado pelo conselho de administração, com o voto favorável do conselho fiscal.
+Art. 74.º - 1. O quantitativo da dotação anual para os Serviços Sociais será fixado pelo conselho de administração, com o voto favorável do conselho fiscal.
 
 2. As contas anuais de gerência dos Serviços Sociais, acompanhadas de parecer do seu conselho fiscal, serão submetidas ao conselho de administração, cuja aprovação legaliza, para todos os efeitos, as respectivas receitas e despesas.
 
 3. O conselho de administração, com o voto favorável do conselho fiscal, poderá ceder aos Serviços Sociais bens ou valores que pertençam ao património do estabelecimento e sejam considerados necessários às finalidades prosseguidas por aqueles Serviços, fixando, em cada caso, as condições de cedência.
 
-###### Art. 75.º Compete ao conselho de administração aprovar o regulamento dos Serviços Sociais e quaisquer alterações que venham a ser-lhe introduzidas.
+Art. 75.º Compete ao conselho de administração aprovar o regulamento dos Serviços Sociais e quaisquer alterações que venham a ser-lhe introduzidas.
 
 ### CAPÍTULO IX — Disposições diversas e transitórias
 
-###### Art. 76.º - 1. A universalidade do estabelecimento até agora afecta à Imprensa Nacional e à Casa da Moeda, incluindo todos os bens, direitos e obrigações, transitará, nas mesmas condições em que se encontra e sem necessidade de qualquer formalidade, a partir da entrada em vigor do presente diploma, para a pessoa colectiva por ele criada.
+Art. 76.º - 1. A universalidade do estabelecimento até agora afecta à Imprensa Nacional e à Casa da Moeda, incluindo todos os bens, direitos e obrigações, transitará, nas mesmas condições em que se encontra e sem necessidade de qualquer formalidade, a partir da entrada em vigor do presente diploma, para a pessoa colectiva por ele criada.
 
 2. A I. N. C. M. não pode, a qualquer título, alienar os bens imóveis que lhe sejam ou tenham sido entregues pelo Estado. Tais bens serão devolvidos ao Estado quando a I. N. C. M. deles não necessitar para as suas actividades.
 
 3. O disposto no n.º 1 não abrange as matérias-primas e os produtos acabados existentes na Casa da Moeda à data da entrada em vigor do presente diploma.
 
-###### Art. 77.º A I. N. C. M. conserva os direitos e assume as responsabilidades atribuídas por lei ao Estado, designadamente quanto à cobrança coerciva de dívidas e à protecção das suas instalações e do pessoal.
+Art. 77.º A I. N. C. M. conserva os direitos e assume as responsabilidades atribuídas por lei ao Estado, designadamente quanto à cobrança coerciva de dívidas e à protecção das suas instalações e do pessoal.
 
-###### Art. 78.º - 1. A I. N. C. M. é representada em juízo pelos agentes do Ministério Público e está isenta de imposto de justiça, selos e outros encargos.
+Art. 78.º - 1. A I. N. C. M. é representada em juízo pelos agentes do Ministério Público e está isenta de imposto de justiça, selos e outros encargos.
 
 2. Sem prejuízo do disposto no número anterior, pode o conselho de administração, sempre que o entender conveniente, constituir advogado ou procurador que represente o estabelecimento em juízo nos processos em que for parte ou por qualquer forma interessado.
 
-###### Art. 79.º - 1. Os servidores da I. N. C. M. que forem investidos nos lugares do conselho de administração desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria mais elevada do pessoal, independentemente de vaga.
+Art. 79.º - 1. Os servidores da I. N. C. M. que forem investidos nos lugares do conselho de administração desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria mais elevada do pessoal, independentemente de vaga.
 
 2. O tempo de serviço prestado no conselho de administração pelos servidores a que alude o número anterior é contado para efeitos de aposentação, cuja pensão será afectada pelo coeficiente determinado nas disposições legais aplicáveis.
 
-###### Art. 80.º Sem prejuízo do estabelecido no artigo 30.º, o pessoal funcionário continua sujeito ao estatuto disciplinar aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943, e o assalariado ao regulamento aprovado pelo [Decreto n.º 40424](https://diariodarepublica.pt/dr/detalhe/decreto/40424-1955-246816), de 7 de Dezembro de 1955, incumbindo ao conselho de administração exercer quanto ao primeiro a competência atribuída aos Ministros e relativamente ao segundo a pertencente ao administrador.
+Art. 80.º Sem prejuízo do estabelecido no artigo 30.º, o pessoal funcionário continua sujeito ao estatuto disciplinar aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943, e o assalariado ao regulamento aprovado pelo [Decreto n.º 40424](https://diariodarepublica.pt/dr/detalhe/decreto/40424-1955-246816), de 7 de Dezembro de 1955, incumbindo ao conselho de administração exercer quanto ao primeiro a competência atribuída aos Ministros e relativamente ao segundo a pertencente ao administrador.
 
-###### Art. 81.º - 1. O presente diploma entra em vigor no dia 1 de Agosto de 1972.
+Art. 81.º - 1. O presente diploma entra em vigor no dia 1 de Agosto de 1972.
 
 2. Exceptuam-se: o disposto no n.º 1 do artigo 14.º, que será de aplicação imediata, e no antigo 59.º na parte que dispõe sobre o destino da receita cobrada nas contrastarias, a qual só passará a constituir receita do Estado quando for determinado por resolução do Conselho de Ministros, e o estabelecido na alínea a) do n.º 2 e no n.º 4 do artigo 49.º, que só terá aplicação no que respeita à quota-parte do exercício de 1972, decorrido após a data referida no n.º 1, relativamente ao pessoal que, neste ano, tiver prestado serviço à Casa da Moeda, sem prejuízo dos direitos do restante pessoal.
 
-###### Art. 82.º Os actuais administradores e membros do conselho fiscal da Imprensa Nacional transitam na mesma situação para a I. N. C. M., sem interrupção da contagem do tempo decorrido do actual mandato.
+Art. 82.º Os actuais administradores e membros do conselho fiscal da Imprensa Nacional transitam na mesma situação para a I. N. C. M., sem interrupção da contagem do tempo decorrido do actual mandato.
 
-###### Art. 83.º São revogados os seguintes diplomas legais:
+Art. 83.º São revogados os seguintes diplomas legais:
 
 Decreto com força de lei n.º 28902, de 8 de Agosto de 1938;
 
@@ -680,18 +758,18 @@ Decreto com força de lei n.º 28902, de 8 de Agosto de 1938;
 
 [Decreto-Lei n.º 38224](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38224-1951-331046), de 17 de Abril de 1951;
 
-###### Artigo 4.º do [Decreto-Lei n.º 40059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40059-1955-537814), de 10 de Fevereiro de 1955;
+Artigo 4.º do [Decreto-Lei n.º 40059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40059-1955-537814), de 10 de Fevereiro de 1955;
 
 [Decreto-Lei n.º 46662](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46662-1965-512193), de 23 de Novembro de 1965;
 
 [Decreto-Lei n.º 49476](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49476-1969-213060), de 30 de Dezembro de 1969.
 
-###### Art. 84.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho conjunto dos Ministros do Interior e das Finanças, excepto quando estejam em causa assuntos respeitantes às atribuições da actual Casa da Moeda, que serão resolvidas por despacho do Ministro das Finanças.
+Art. 84.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho conjunto dos Ministros do Interior e das Finanças, excepto quando estejam em causa assuntos respeitantes às atribuições da actual Casa da Moeda, que serão resolvidas por despacho do Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Junho de 1972.**
+Promulgado em 29 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

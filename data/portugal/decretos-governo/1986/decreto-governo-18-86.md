@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/18-1986-221506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2b351a6c8063a13655916d32681f4a3109c3a008ef81a8e7af3f724e806842a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96ee6188cb0a8d14b27bf777ef2b76233a3fa6f357d3b17baba36ee5a0402c49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Áustria
+- Convenção
+- Portugal
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Viena
 relationships:
 - type: amended_by
   target: pt:dre:667946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:667946:por
+  label: Rectificada a versão em língua portuguesa do n.º 1 do art. 12.º do Acordo entre o Governo da República Portuguesa
+    e o Governo da República Federal da Áustria Relativo ao Transporte Rodoviário Internacional de Passageiros e Mercadorias,
+    pelo(a) Decreto n.º 45/91 - Diário da República n.º 153/1991, Série I-A de 1991-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45-1991-667946
+  date: '1991-07-06'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:46Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +104,19 @@ de 4 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Áustria Relativo ao Transporte Rodoviário Internacional de Passageiros e Mercadorias assinado em Viena em 18 de Abril de 1985, cujo texto em inglês e a respectiva tradução em língua portuguesa acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Áustria Relativo ao Transporte Rodoviário Internacional de Passageiros e Mercadorias assinado em Viena em 18 de Abril de 1985, cujo texto em inglês e a respectiva tradução em língua portuguesa acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1986. - Aníbal António Cavaco Silva - Pedro José Rodrigues Pires de Miranda - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 7 de Novembro de 1986.**
+Assinado em 7 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1986.**
+Referendado em 12 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Agreement between the Government of the Republic of Portugal and the Government of the Republic of Austria Concerning the International Transport of Passengers and Goods by Road.
 
@@ -287,7 +300,7 @@ O Governo da República Portuguesa e o Governo da República da Áustria, a segu
 
 Âmbito
 
-###### Artigo 1 - 1 - As disposições deste Acordo habilitam os transportadores domiciliados em Portugal ou na Áustria a transportar passageiros ou mercadorias por estrada, em veículos a motor matriculados em qualquer dos dois Estados, entre os territórios das Partes Contratantes ou em trânsito através dos seus territórios.
+Artigo 1 - 1 - As disposições deste Acordo habilitam os transportadores domiciliados em Portugal ou na Áustria a transportar passageiros ou mercadorias por estrada, em veículos a motor matriculados em qualquer dos dois Estados, entre os territórios das Partes Contratantes ou em trânsito através dos seus territórios.
 
 2 - Um «transportador» é qualquer pessoa física ou jurídica ou qualquer empresa autorizada, quer na República Portuguesa, quer na República da Áustria, a efectuar o transporte de passageiros ou mercadorias por estrada, em regime de aluguer ou por conta própria.
 
@@ -303,7 +316,7 @@ assim como qualquer reboque ou semi-reboque que preencha os requisitos do artigo
 
 Transporte de passageiros
 
-###### Art. 2.º - 1 - Uma linha regular de transporte rodoviário é definida como sendo o transporte de passageiros em autocarro num itinerário determinado de acordo com o horário estabelecido e uma tabela de tarifas, com direito de tomar e largar passageiros nos pontos de início e termo da linha, assim como noutras paragens estabelecidas.
+Art. 2.º - 1 - Uma linha regular de transporte rodoviário é definida como sendo o transporte de passageiros em autocarro num itinerário determinado de acordo com o horário estabelecido e uma tabela de tarifas, com direito de tomar e largar passageiros nos pontos de início e termo da linha, assim como noutras paragens estabelecidas.
 
 2 - Poderá ser estabelecida uma linha regular de transporte, com autorização das autoridades competentes das Partes Contratantes, para a parte do percurso situado no seu território, de acordo com as suas leis e regulamentos internos, bem como com o consentimento dos países de trânsito. Tal autorização será concedida pelo período de um a cinco anos, numa base de reciprocidade.
 
@@ -325,13 +338,13 @@ d) Condições de exploração do serviço;
 
 e) Restrição, expansão ou cessação das linhas regulares de transporte rodoviário.
 
-###### Art. 3.º - 1 - Nos termos deste Acordo, são considerados transportes ocasionais os serviços de transporte que não sejam nem uma linha regular nem transporte de lançadeira. Nos transportes ocasionais não poderão ser tomados nem largados passageiros no percurso, salvo se as autoridades competentes da Parte Contratante em causa autorizarem excepções a esta regra.
+Art. 3.º - 1 - Nos termos deste Acordo, são considerados transportes ocasionais os serviços de transporte que não sejam nem uma linha regular nem transporte de lançadeira. Nos transportes ocasionais não poderão ser tomados nem largados passageiros no percurso, salvo se as autoridades competentes da Parte Contratante em causa autorizarem excepções a esta regra.
 
 Tais viagens poderão ser efectuadas com uma certa frequência sem que por isso percam o seu carácter de transporte ocasional.
 
 2 - Além das excepções mencionadas no artigo 4.º, o transporte ocasional de passageiros só poderá ser efectuado por transportadores de qualquer das Partes Contratantes com uma autorização prévia concedida pela autoridade competente da outra Parte Contratante.
 
-###### Art. 4.º - 1 - Um transportador de qualquer das Partes Contratantes está habilitado a utilizar um veículo no território da outra Parte Contratante, em conformidade com as leis e regulamentos dessa Parte, sem necessidade de autorização, para os seguintes serviços de transporte ocasional internacional:
+Art. 4.º - 1 - Um transportador de qualquer das Partes Contratantes está habilitado a utilizar um veículo no território da outra Parte Contratante, em conformidade com as leis e regulamentos dessa Parte, sem necessidade de autorização, para os seguintes serviços de transporte ocasional internacional:
 
 a) «Circuito em portas fechadas», isto é, viagens feitas no mesmo veículo que transporte o mesmo grupo de passageiros em todo o itinerário e os leve de regresso ao seu ponto de partida;
 
@@ -345,7 +358,7 @@ ii) Tenham sido convidados a deslocar-se ao território da outra Parte Contratan
 
 2 - Um transportador que efectue serviços de transporte ocasional, ao abrigo deste Acordo, deverá assegurar-se de que qualquer veículo seu utilizado para tais fins seja acompanhado por um documento de controle, emitido pelas competentes autoridades da Parte Contratante em que o veículo está matriculado.
 
-###### Art. 5.º - 1 - Para efeitos do presente Acordo, transporte de lançadeira é o serviço de transporte em que passageiros previamente agrupados são transportados de um mesmo lugar de partida a um mesmo lugar de destino e que compreende várias viagens de ida e volta.
+Art. 5.º - 1 - Para efeitos do presente Acordo, transporte de lançadeira é o serviço de transporte em que passageiros previamente agrupados são transportados de um mesmo lugar de partida a um mesmo lugar de destino e que compreende várias viagens de ida e volta.
 
 Cada grupo de passageiros que tenha efectuado a viagem de ida é reconduzido no seu todo ao ponto de partida numa viagem posterior.
 
@@ -367,11 +380,11 @@ Por derrogação ao disposto no n.º 3, a primeira viagem de ida e a última via
 
 Transporte de mercadorias
 
-###### Art. 6.º - 1 - Com excepção dos transportes referidos no artigo 8.º o transporte de mercadorias entre os territórios das Partes Contratantes, ou em trânsito através dos seus territórios, requer uma autorização da outra Parte Contratante essa autorização será válida para uso de um veículo ou de um conjunto de veículos. A autorização será concedida para um período específico de tempo e será em cada caso válida para uma viagem de ida e volta (incluindo trânsito).
+Art. 6.º - 1 - Com excepção dos transportes referidos no artigo 8.º o transporte de mercadorias entre os territórios das Partes Contratantes, ou em trânsito através dos seus territórios, requer uma autorização da outra Parte Contratante essa autorização será válida para uso de um veículo ou de um conjunto de veículos. A autorização será concedida para um período específico de tempo e será em cada caso válida para uma viagem de ida e volta (incluindo trânsito).
 
 2 - A autorização será concedida pela competente autoridade da Parte Contratante em cujo território o veículo esteja matriculado por conta da competente autoridade da outra Parte Contratante e no nome do transportador interessado; apenas poderá ser utilizada por esse transportador e não é transmissível.
 
-###### Art. 7.º - 1 - As autoridades competentes das duas Partes Contratantes, agindo numa base de reciprocidade, negociarão o tipo e o número de autorizações para o ano seguinte.
+Art. 7.º - 1 - As autoridades competentes das duas Partes Contratantes, agindo numa base de reciprocidade, negociarão o tipo e o número de autorizações para o ano seguinte.
 
 Ao serem fixadas as quotas serão tomados em consideração os interesses de qualquer das Partes Contratantes relativamente quer ao seu tráfego quer à sua situação económica global.
 
@@ -379,7 +392,7 @@ Ao serem fixadas as quotas serão tomados em consideração os interesses de qua
 
 3 - As autorizações e quaisquer outros documentos exigidos ao abrigo deste Acordo deverão acompanhar o veículo e ser apresentados, quando pedidos, às pessoas que estão autorizadas pelas Partes Contratantes a fiscalizá-los.
 
-###### Art. 8.º - 1 - Não carecem de autorização:
+Art. 8.º - 1 - Não carecem de autorização:
 
 a) Transporte ocasional de mercadorias para e de aeroportos em caso de desvios de serviços aéreos;
 
@@ -417,19 +430,19 @@ q) Transporte de mercadorias de dimensões ou peso excepcionais, desde que o tra
 
 2 - Os transportes de mudanças efectuados por transportadores utilizando pessoal e equipamento especializado necessitam de autorização, mas não estão sujeitos a contingente.
 
-###### Art. 9.º - 1 - Uma autorização nos termos do artigo 6.º, 1, não habilita os transportadores das Partes Contratantes a efectuarem transportes de mercadorias entre o território da outra Parte Contratante e o território de um terceiro Estado. Contudo, as autoridades competentes da outra Parte Contratante poderão autorizar esses transportes, desde que tenham em consideração, em especial, a densidade do tráfego.
+Art. 9.º - 1 - Uma autorização nos termos do artigo 6.º, 1, não habilita os transportadores das Partes Contratantes a efectuarem transportes de mercadorias entre o território da outra Parte Contratante e o território de um terceiro Estado. Contudo, as autoridades competentes da outra Parte Contratante poderão autorizar esses transportes, desde que tenham em consideração, em especial, a densidade do tráfego.
 
 2 - As autoridades competentes das duas Partes Contratantes, agindo numa base de reciprocidade, poderão negociar um contingente especial para esses transportes, tendo em consideração tanto o tráfego como a situação económica geral.
 
 Disposições comuns
 
-###### Art. 10.º A quaisquer casos não regulados pelas disposições deste Acordo ou pelas disposições de acordos internacionais de que as Partes Contratantes sejam signatárias ou aos quais tenham aderido serão aplicadas as leis e regulamentos nacionais das Partes Contratantes.
+Art. 10.º A quaisquer casos não regulados pelas disposições deste Acordo ou pelas disposições de acordos internacionais de que as Partes Contratantes sejam signatárias ou aos quais tenham aderido serão aplicadas as leis e regulamentos nacionais das Partes Contratantes.
 
-###### Art. 11.º - 1 - Se o peso, as dimensões ou o peso por eixo do veículo excederem os valores máximos permitidos no território de qualquer das Partes Contratantes, o veículo necessitará de uma autorização especial emitida pela autoridade competente da Parte Contratante em causa.
+Art. 11.º - 1 - Se o peso, as dimensões ou o peso por eixo do veículo excederem os valores máximos permitidos no território de qualquer das Partes Contratantes, o veículo necessitará de uma autorização especial emitida pela autoridade competente da Parte Contratante em causa.
 
 2 - Quando uma tal autorização estipular que o veículo deve utilizar um percurso específico, os transportes serão apenas permitidos nesse percurso.
 
-###### Art. 12.º - 1 - Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos das taxas e dos encargos que incidam sobre a exploração ou posse de veículos a motor no território da outra Parte Contratante.
+Art. 12.º - 1 - Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos das taxas e dos encargos que incidam sobre a exploração ou posse de veículos a motor no território da outra Parte Contratante.
 
 2 - A isenção referida no n.º 1 não abrangerá as taxas ou encargos sobre consumo de combustíveis nem as portagens (encargos especiais pela utilização de pontes, túneis, batelões ou troços de estrada específicos).
 
@@ -437,7 +450,7 @@ Disposições comuns
 
 4 - A isenção referida no n.º 1 será concedida no território de qualquer das Partes Contratantes desde que sejam observadas as disposições aduaneiras aplicáveis às importações temporárias no território em causa - sem pagamento de direitos e encargos de importação - dos veículos abrangidos pelas disposições deste número.
 
-###### Art. 13.º - 1 - Se um transportador ou o seu pessoal condutor infringirem as leis e regulamentos aplicáveis no território da outra Parte Contratante, as disposições deste Acordo ou as condições descritas na licença de transporte, a autoridade competente do país em que o veículo está matriculado deverá, a pedido da competente autoridade da outra Parte Contratante, adoptar as seguintes medidas:
+Art. 13.º - 1 - Se um transportador ou o seu pessoal condutor infringirem as leis e regulamentos aplicáveis no território da outra Parte Contratante, as disposições deste Acordo ou as condições descritas na licença de transporte, a autoridade competente do país em que o veículo está matriculado deverá, a pedido da competente autoridade da outra Parte Contratante, adoptar as seguintes medidas:
 
 a) Emitir um aviso ao transportador determinando-lhe a observância dos regulamentos existentes;
 
@@ -447,11 +460,11 @@ b) Suspender a emissão de licenças ao transportador para serviços de transpor
 
 3 - Este artigo deverá ser aplicado sem prejuízo de quaisquer medidas previstas na lei que poderão ser tomadas pelos tribunais ou pelas autoridades administrativas do Estado em cujo território foi cometida a infracção.
 
-###### Art. 14.º - 1 - A autoridade competente de qualquer das Partes Contratantes poderá solicitar a reunião de uma comissão mista constituída por representantes de ambas as Partes Contratantes para análise de quaisquer questões que possam surgir na interpretação e aplicação deste Acordo.
+Art. 14.º - 1 - A autoridade competente de qualquer das Partes Contratantes poderá solicitar a reunião de uma comissão mista constituída por representantes de ambas as Partes Contratantes para análise de quaisquer questões que possam surgir na interpretação e aplicação deste Acordo.
 
 2 - A comissão mista reunirá alternadamente no território de uma e outra das Partes Contratantes.
 
-###### Art. 15.º - 1 - Este Acordo entrará em vigor no primeiro dia do terceiro mês a seguir ao mês em que as Partes Contratantes se tenham mutuamente informado por escrito, através dos canais diplomáticos, de que foram cumpridos os requisitos internos para a entrada em vigor do Acordo.
+Art. 15.º - 1 - Este Acordo entrará em vigor no primeiro dia do terceiro mês a seguir ao mês em que as Partes Contratantes se tenham mutuamente informado por escrito, através dos canais diplomáticos, de que foram cumpridos os requisitos internos para a entrada em vigor do Acordo.
 
 2 - Este Acordo será válido pelo período de um ano após a sua entrada em vigor. A sua validade será prorrogada automaticamente de ano em ano, salvo se lhe for posto termo, por escrito, por qualquer das Partes Contratantes seis meses antes da sua expiração.
 

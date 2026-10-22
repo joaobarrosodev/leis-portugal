@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49322-1969-215515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9ef3d214a95daf43bf1c569555b9530131dfcada2b6c450024f9ad6e9ca7477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 404c236f725b660c97d73681c9d8598c43f9ec6fd3c0a4292e590be9f895657b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:214266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426479:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:48Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +102,24 @@ Tendo em vista a densidade populacional dos núcleos de Moscavide, Amadora, Quel
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os concelhos de Loures, Oeiras, Sintra, Gondomar e Moita e o concelho de Valongo passam a ser classificados, respectivamente, de urbanos de 1.ª e urbano de 2.ª ordem.
+Artigo 1.º Os concelhos de Loures, Oeiras, Sintra, Gondomar e Moita e o concelho de Valongo passam a ser classificados, respectivamente, de urbanos de 1.ª e urbano de 2.ª ordem.
 
-###### Art. 2.º - 1. Os chefes de secretaria das câmaras municipais dos concelhos que, em virtude deste diploma, passam a ser classificados de urbanos de 1.ª ordem serão promovidos à 3.ª classe da 1.ª categoria do quadro geral se tiverem ou quando vierem a ter cinco anos de bom e efectivo serviço em cargo de chefia, podendo permanecer no cargo enquanto não satisfizerem a este requisito, com direito aos vencimentos que lhes correspondem. Aqueles cujos serviços não for classificado de bom serão opositores obrigatórios em todos os concursos para provimento de lugares da sua categoria e classe, até obterem colocação.
+Art. 2.º - 1. Os chefes de secretaria das câmaras municipais dos concelhos que, em virtude deste diploma, passam a ser classificados de urbanos de 1.ª ordem serão promovidos à 3.ª classe da 1.ª categoria do quadro geral se tiverem ou quando vierem a ter cinco anos de bom e efectivo serviço em cargo de chefia, podendo permanecer no cargo enquanto não satisfizerem a este requisito, com direito aos vencimentos que lhes correspondem. Aqueles cujos serviços não for classificado de bom serão opositores obrigatórios em todos os concursos para provimento de lugares da sua categoria e classe, até obterem colocação.
 
 2. Quanto ao concelho da Moita, o disposto no número anterior só será de observar se o respectivo chefe de secretaria obtiver aprovação no primeiro concurso de promoção para a classe imediatamente superior àquela a que pertence, ao qual é obrigado a apresentar-se; se não se apresentar a prestar provas ou for reprovado, ser-lhe-á aplicável o disposto na parte final do número anterior.
 
 3. Os funcionários providos, nos termos dos n.os 1 e 2, nos cargos de chefe de secretaria dos mencionados concelhos só podem vir a ser admitidos a concursos de provimento para outros lugares de chefe de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, salvo se, sendo licenciados em Direito, ficarem aprovados no concurso de habilitação a que se refere o artigo 24.º do [Decreto n.º 27759](https://diariodarepublica.pt/dr/detalhe/decreto/27759-1937-426479), de 16 de Junho de 1937.
 
-###### Art. 3.º O funcionário provido no cargo de tesoureiro da Câmara Municipal da Moita é obrigado a apresentar-se ao primeiro concurso de promoção para a classe imediatamente superior; se for aprovado, considera-se desde logo promovido e pode manter-se no cargo que ocupa, mas, se não se apresentar a prestar provas ou for reprovado, será opositor obrigatório em todos os concursos para provimento de lugares da sua categoria e classe, até obter colocação.
+Art. 3.º O funcionário provido no cargo de tesoureiro da Câmara Municipal da Moita é obrigado a apresentar-se ao primeiro concurso de promoção para a classe imediatamente superior; se for aprovado, considera-se desde logo promovido e pode manter-se no cargo que ocupa, mas, se não se apresentar a prestar provas ou for reprovado, será opositor obrigatório em todos os concursos para provimento de lugares da sua categoria e classe, até obter colocação.
 
-###### Art. 4.º São criados bairros com sede nos núcleos populacionais de Moscavide (Loures), Amadora (Oeiras), Queluz (Sintra), Rio Tinto (Gondomar), Baixa da Banheira (Moita) e Ermesinde (Valongo), competindo às câmaras municipais dos respectivos concelhos fixar as áreas que os constituem.
+Art. 4.º São criados bairros com sede nos núcleos populacionais de Moscavide (Loures), Amadora (Oeiras), Queluz (Sintra), Rio Tinto (Gondomar), Baixa da Banheira (Moita) e Ermesinde (Valongo), competindo às câmaras municipais dos respectivos concelhos fixar as áreas que os constituem.
 
-###### Art. 5.º. Este diploma entra em vigor no dia 1 de Janeiro de 1970.
+Art. 5.º. Este diploma entra em vigor no dia 1 de Janeiro de 1970.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 17 de Outubro de 1969.**
+Promulgado em 17 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

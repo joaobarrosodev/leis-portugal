@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1975-161475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d5cb593f9802523591862002c8516adba830a1f58a35e005ded9444cc13d1ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a37dc2dad269f15cfa13f51f20c3b25e485186b9820729f981082392d6ae1a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Diretor
+- Extinção de Serviços
+- Subdiretor
 relationships:
 - type: amended_by
   target: pt:dre:295810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561458:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:23Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +118,9 @@ Considerando ainda a criação de um serviço que integre os meios necessários 
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Direcção do Serviço de Electricidade e Telecomunicações (DSET).
+Artigo 1.º É criada a Direcção do Serviço de Electricidade e Telecomunicações (DSET).
 
-###### Art. 2.º O Serviço de Electricidade e Telecomunicações tem por finalidade essencial o estabelecimento e o bom funcionamento dos sistemas de electricidade e de telecomunicações, a obtenção, a distribuição, a instalação, a exploração, a manutenção e o abate dos materiais dos referidos sistemas, competindo-lhe essencialmente:
+Art. 2.º O Serviço de Electricidade e Telecomunicações tem por finalidade essencial o estabelecimento e o bom funcionamento dos sistemas de electricidade e de telecomunicações, a obtenção, a distribuição, a instalação, a exploração, a manutenção e o abate dos materiais dos referidos sistemas, competindo-lhe essencialmente:
 
 a) Estudar as necessidades em materiais, equipamentos e sobresselentes e as relativas à sua instalação, exploração e manutenção;
 
@@ -119,7 +138,7 @@ g) Estudar critérios e preparar normas orientadoras da gestão de materiais e d
 
 h) Colaborar na definição dos planos, dos programas e da formação profissional do pessoal e sua colocação.
 
-###### Art. 3.º O Serviço de Electricidade e Telecomunicações compreende:
+Art. 3.º O Serviço de Electricidade e Telecomunicações compreende:
 
 a) Uma Direcção e Inspecção;
 
@@ -149,7 +168,7 @@ Uma Secretaria e Arquivo Geral.
 
 § 2.º Os órgãos de execução referidos no corpo deste artigo serão fixados por portarias do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 4.º O director do Serviço de Electricidade e Telecomunicações superintende:
+Art. 4.º O director do Serviço de Electricidade e Telecomunicações superintende:
 
 a) Nos elementos da própria Direcção, em todos os aspectos, com excepção nos incluídos no âmbito técnico dos outros serviços;
 
@@ -165,9 +184,9 @@ Pela elaboração e execução dos planos necessários ao funcionamento do Servi
 
 § 3.º O director é coadjuvado por um subdirector, que o substitui nos seus impedimentos e ausências.
 
-###### Art. 5.º O director do Serviço de Electricidade e Telecomunicações é o representante da Força Aérea noutros órgãos oficiais de electricidade e telecomunicações, e o subdirector, o seu suplente, podendo, porém, o primeiro delegar a representação quando esta se deva exercer sob a direcção ou presidência de um funcionário menos categorizado.
+Art. 5.º O director do Serviço de Electricidade e Telecomunicações é o representante da Força Aérea noutros órgãos oficiais de electricidade e telecomunicações, e o subdirector, o seu suplente, podendo, porém, o primeiro delegar a representação quando esta se deva exercer sob a direcção ou presidência de um funcionário menos categorizado.
 
-###### Art. 6.º O Gabinete de Planeamento, de Coordenação, de Estatística e de Inspecção é um órgão central da Direcção, de elaboração de planeamentos e estudos globais, de coordenação dos diversos departamentos da Direcção entre si e com organismos externos e é ainda um órgão de inspecção e compreende:
+Art. 6.º O Gabinete de Planeamento, de Coordenação, de Estatística e de Inspecção é um órgão central da Direcção, de elaboração de planeamentos e estudos globais, de coordenação dos diversos departamentos da Direcção entre si e com organismos externos e é ainda um órgão de inspecção e compreende:
 
 Um chefe, com a categoria equivalente a chefe de repartição;
 
@@ -177,7 +196,7 @@ Uma Secção de Inspecção;
 
 Uma Secção de Catalogação e Publicações.
 
-###### Art. 7.º A 1.ª Repartição, electrónica, é um órgão central da Direcção para estudar as necessidades, o planeamento, a obtenção de meios, a instalação, a manutenção e o abate de equipamentos e materiais de electrónica ao serviço da Força Aérea e compreende:
+Art. 7.º A 1.ª Repartição, electrónica, é um órgão central da Direcção para estudar as necessidades, o planeamento, a obtenção de meios, a instalação, a manutenção e o abate de equipamentos e materiais de electrónica ao serviço da Força Aérea e compreende:
 
 Um chefe;
 
@@ -199,7 +218,7 @@ Uma secção de electrónica de apoio composta de quatro subsecções:
 
 4.ª Subsecção - aparelhos de medida e ensaio.
 
-###### Art. 8.º A 2.ª Repartição, electricidade, é um órgão central da Direcção para estudar as necessidades, o planeamento, a obtenção de meios, a instalação, a manutenção e o abate de equipamentos e materiais eléctricos ao serviço da Força Aérea e compreende:
+Art. 8.º A 2.ª Repartição, electricidade, é um órgão central da Direcção para estudar as necessidades, o planeamento, a obtenção de meios, a instalação, a manutenção e o abate de equipamentos e materiais eléctricos ao serviço da Força Aérea e compreende:
 
 Um chefe;
 
@@ -217,7 +236,7 @@ Uma Secção de Electricidade de Apoio composta de três subsecções:
 
 3.ª Subsecção - calor, frio e equipamentos electro-domésticos.
 
-###### Art. 9.º A 3.ª Repartição, guerra electrónica, sistemas de contrôle de armas e sistemas de segurança, é um órgão central da Direcção para estudar especificamente os meios de guerra electrónica e determinar as necessidades, os planeamentos, a obtenção, a distribuição, a manutenção e o abate dos materiais relativos à segurança da Força Aérea e compreende:
+Art. 9.º A 3.ª Repartição, guerra electrónica, sistemas de contrôle de armas e sistemas de segurança, é um órgão central da Direcção para estudar especificamente os meios de guerra electrónica e determinar as necessidades, os planeamentos, a obtenção, a distribuição, a manutenção e o abate dos materiais relativos à segurança da Força Aérea e compreende:
 
 Um chefe;
 
@@ -227,7 +246,7 @@ Uma Secção de Equipamento de Segurança e Material Criptográfico;
 
 Uma Secção de Sistemas de Contrôle de Armas.
 
-###### Art. 10.º A 4.ª Repartição, de exploração das telecomunicações, é um órgão central da Direcção para estudo e execução da exploração das telecomunicações para toda a Força Aérea e compreende:
+Art. 10.º A 4.ª Repartição, de exploração das telecomunicações, é um órgão central da Direcção para estudo e execução da exploração das telecomunicações para toda a Força Aérea e compreende:
 
 Um chefe;
 
@@ -235,22 +254,22 @@ Um Secção de Criptografia;
 
 Uma Secção de Exploração de Comunicações.
 
-###### Art. 11.º O Conselho Administrativo exerce a sua acção em relação às verbas gerais da Força Aérea que lhe sejam especialmente consignadas.
+Art. 11.º O Conselho Administrativo exerce a sua acção em relação às verbas gerais da Força Aérea que lhe sejam especialmente consignadas.
 
-###### Art. 12.º A Secção Técnica tem por função apoiar todos os órgãos da Direcção na execução de todos os trabalhos de desenho e reprodução.
+Art. 12.º A Secção Técnica tem por função apoiar todos os órgãos da Direcção na execução de todos os trabalhos de desenho e reprodução.
 
-###### Art. 13.º A Secretaria e Arquivo Geral é o órgão de que o director do Serviço dispõe para o expediente, o registo, o arquivo e outras funções de administração que, pela sua natureza, não devem ser atribuídas a outros órgãos da Direcção.
+Art. 13.º A Secretaria e Arquivo Geral é o órgão de que o director do Serviço dispõe para o expediente, o registo, o arquivo e outras funções de administração que, pela sua natureza, não devem ser atribuídas a outros órgãos da Direcção.
 
-###### Art. 14.º - 1. O quadro orgânico da Direcção do Serviço de Electricidade e Telecomunicações será estabelecido por portaria do chefe do Estado-Maior da Força Aérea, não envolvendo aumento de encargos.
+Art. 14.º - 1. O quadro orgânico da Direcção do Serviço de Electricidade e Telecomunicações será estabelecido por portaria do chefe do Estado-Maior da Força Aérea, não envolvendo aumento de encargos.
 
 2. A título transitório, e até publicação da portaria atrás referida, a Direcção do Serviço de Electricidade e Telecomunicações funcionará com o quadro estabelecido para a Direcção do Serviço de Comunicações e Tráfego Aéreo, definido no mapa III anexo ao [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelas Portarias n.os 19777, de 26 de Março de 1963, e 20334, de 22 de Janeiro de 1964.
 
-###### Art. 15.º É extinta a Direcção do Serviço de Comunicações e Tráfego Aéreo, ficando revogados os artigos 24.º, 25.º, 26.º e 27.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956.
+Art. 15.º É extinta a Direcção do Serviço de Comunicações e Tráfego Aéreo, ficando revogados os artigos 24.º, 25.º, 26.º e 27.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 13 de Março de 1975.**
+Promulgado em 13 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

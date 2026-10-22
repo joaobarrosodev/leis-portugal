@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45582-1964-470009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0e419fda5f39631165edbdce53f53939982a5f6253bd9b007518d7f9f20f49e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50f1cd59d5c801fc4fb19f115f66b08d2be23c18d557ea38a02148297713a109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cofre Geral dos Tribunais
+- Emolumento
+- Médico
+- Processo Penal
+- Profissão Independente
+relationships:
+- type: cites
+  target: pt:dre:585840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:07Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +107,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo n.º 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os emolumentos correspondentes aos exames realizados em processo penal pelos peritos médicos passam a constituir receita do Cofre Geral dos Tribunais, sendo aplicável à sua liquidação e arrecadação o disposto no n.º 1 do artigo 198.º do Código das Custas Judiciais.
+Artigo 1.º Os emolumentos correspondentes aos exames realizados em processo penal pelos peritos médicos passam a constituir receita do Cofre Geral dos Tribunais, sendo aplicável à sua liquidação e arrecadação o disposto no n.º 1 do artigo 198.º do Código das Custas Judiciais.
 
-###### Art. 2.º No começo de cada mês far-se-á, em face do livro de registo diário dos exames, o apuramento dos emolumentos devidos a cada perito no mês anterior e proceder-se-á ao seu pagamento pelas receitas do Cofre, cobrando-se no próprio livro, por meio de estampilha, o imposto do selo devido.
+Art. 2.º No começo de cada mês far-se-á, em face do livro de registo diário dos exames, o apuramento dos emolumentos devidos a cada perito no mês anterior e proceder-se-á ao seu pagamento pelas receitas do Cofre, cobrando-se no próprio livro, por meio de estampilha, o imposto do selo devido.
 
-###### Art. 3.º - 1. As importâncias pagas ao perito são deduzidas às receitas do Cofre no mês seguinte e, sendo estas insuficientes, será o que faltar deduzido às receitas dos meses imediatos.
+Art. 3.º - 1. As importâncias pagas ao perito são deduzidas às receitas do Cofre no mês seguinte e, sendo estas insuficientes, será o que faltar deduzido às receitas dos meses imediatos.
 
 2. Até ao dia 5 do primeiro mês de cada trimestre, o tribunal requisitará à Repartição Administrativa dos Cofres a importância necessária para integrar o pagamento dos emolumentos correspondentes aos exames efectuados no trimestre anterior.
 
-###### Art. 4.º O total dos emolumentos pagos mensalmente aos peritos pelo Cofre é inscrito em coluna própria da relação a que se refere a alínea b) do n.º 1 do artigo 246.º do Código das Custas Judiciais.
+Art. 4.º O total dos emolumentos pagos mensalmente aos peritos pelo Cofre é inscrito em coluna própria da relação a que se refere a alínea b) do n.º 1 do artigo 246.º do Código das Custas Judiciais.
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Março de 1964.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Março de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01600/01200121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1978-447767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f306a719ef03ee5f4d044c82eefff5a953a5f269bbac81719986b7ce9636e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4c9c2a2540e6da64cef1e87444a50ec58ab07e54c0eb4088251f3d30fd744c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:522853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:522853:por
+  label: "Revogado pelo DEC LEI.27/94.1994.02.05.MDN DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1994-522853
+  date: '1994-02-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:40Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +103,12 @@ Tendo em vista a necessidade de preservar as tradições e o património histór
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. O Corpo de Tropas Pára-Quedistas constitui-se, para todos os efeitos, herdeiro das tradições e do património histórico dos extintos Regimento de Caçadores Pára-Quedistas e Batalhões de Caçadores Pára-Quedistas n.os 12, 21, 31 e 32.
+Artigo único. O Corpo de Tropas Pára-Quedistas constitui-se, para todos os efeitos, herdeiro das tradições e do património histórico dos extintos Regimento de Caçadores Pára-Quedistas e Batalhões de Caçadores Pára-Quedistas n.os 12, 21, 31 e 32.
 
 Visto e aprovado em Conselho da Revolução em 4 de Janeiro de 1978.
 
-**Promulgado em 6 de Janeiro de 1978.**
+Promulgado em 6 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

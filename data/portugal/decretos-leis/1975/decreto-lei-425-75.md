@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18500/11351139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1975-314466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cba6657d91a643691493325215e63cd3fe97b5d65b3a6832fb58a51756a97fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6ff3bdb12072d19bb29c8438bb41b86f14aa6f139c125057c22957c64795780
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Justiça Militar
+- Criação de Serviços
+- Crime Político
+- Instrução Criminal
+- Instrução Processual
+- Julgamento
+- Militar
+- Preso Político
+- Processo Penal
+- Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310851:por
+  label: "Extinto o Tribunal Militar Revolucionário criado pela Lei 9/75 de 07-Ago e regulamentado no presente diploma pela\
+    \ LEI.15/75.23.12.1975.CR, DG.IS [295] de 23.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-1975-310851
+  date: '1975-12-23'
+- type: cites
+  target: pt:dre:525025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:36Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +115,13 @@ de 12 de Agosto
 
 Usando da faculdade conferida pelo artigo 1.º da Lei Constitucional n.º 9/75, de 7 de Agosto, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado, pelo presente diploma, o Tribunal Militar Revolucionário, previsto no n.º 1 do artigo 1.º da Lei Constitucional n.º 9/75, de 7 de Agosto.
+Artigo 1.º - 1. É criado, pelo presente diploma, o Tribunal Militar Revolucionário, previsto no n.º 1 do artigo 1.º da Lei Constitucional n.º 9/75, de 7 de Agosto.
 
 2. As regras aplicáveis à composição e funcionamento do Tribunal e à instrução e julgamento dos processos são as constantes dos artigos seguintes.
 
 I) Da constituição do Tribunal
 
-###### Art. 2.º - 1. O Tribunal Militar Revolucionário será constituído por:
+Art. 2.º - 1. O Tribunal Militar Revolucionário será constituído por:
 
 a) Um presidente, que será um oficial general designado pelo Conselho da Revolução;
 
@@ -112,19 +137,19 @@ Não poderão fazer parte do Tribunal os membros do Conselho da Revolução, emb
 
 4. Se o impedimento ou incompatibilidade disser respeito aos membros do júri, será o substituto sorteado entre os suplentes.
 
-###### Art. 3.º Junto deste Tribunal funcionarão:
+Art. 3.º Junto deste Tribunal funcionarão:
 
 a) Uma Promotoria de Instrução, constituída por três oficiais, um por cada ramo das forças armadas, assistidos por um juiz auditor dos tribunais militares, à qual competirá a direcção da instrução preparatória dos processos;
 
 b) Uma Promotoria de Justiça, constituída por três oficiais licenciados em Direito, um por cada ramo das forças armadas, assistidos por um juiz auditor dos tribunais militares, à qual competirá o exercício das funções dos promotores de justiça existentes junto dos tribunais militares.
 
-###### Art. 4.º - 1. Serão da escolha do Conselho da Revolução os promotores de instrução e de justiça, bem como os juízes auditores que os assistirão.
+Art. 4.º - 1. Serão da escolha do Conselho da Revolução os promotores de instrução e de justiça, bem como os juízes auditores que os assistirão.
 
 2. A Promotoria de Instrução poderá propor ao Conselho da Revolução a nomeação dos oficiais instrutores que forem necessários a uma rápida instrução dos processos.
 
-###### Art. 5.º Junto do Tribunal haverá ainda uma escala de defensores escolhidos pelo presidente e a nomear apenas na falta de patrono constituído.
+Art. 5.º Junto do Tribunal haverá ainda uma escala de defensores escolhidos pelo presidente e a nomear apenas na falta de patrono constituído.
 
-###### Art. 6.º - 1. Junto do Tribunal haverá também uma secretaria integrada por:
+Art. 6.º - 1. Junto do Tribunal haverá também uma secretaria integrada por:
 
 a) Um secretário, oficial superior, que dirigirá a sua actividade;
 
@@ -140,37 +165,37 @@ d) Dois sargentos, um dos quais será o oficial de diligências.
 
 II) Da instrução
 
-###### Art. 7.º A instrução é secreta e deve estar concluída no prazo máximo de quarenta dias, a contar da entrada do processo de inquérito na secretaria do Tribunal, que o remeterá, dentro de vinte e quatro horas, à Promotoria de Instrução.
+Art. 7.º A instrução é secreta e deve estar concluída no prazo máximo de quarenta dias, a contar da entrada do processo de inquérito na secretaria do Tribunal, que o remeterá, dentro de vinte e quatro horas, à Promotoria de Instrução.
 
-###### Art. 8.º Na fase da instrução, o processo não pode ser consultado pelo arguido, ou pelo seu defensor, enquanto não for notificado do despacho para vista do processo.
+Art. 8.º Na fase da instrução, o processo não pode ser consultado pelo arguido, ou pelo seu defensor, enquanto não for notificado do despacho para vista do processo.
 
-###### Art. 9.º Para a indispensável celeridade dos processos da competência deste Tribunal não haverá instrução contraditória.
+Art. 9.º Para a indispensável celeridade dos processos da competência deste Tribunal não haverá instrução contraditória.
 
-###### Art. 10.º - 1. Os arguidos serão defendidos por patrono que escolherão livremente ou, não o fazendo, por defensores oficiosos a designar, no termo da instrução, pelo presidente do Tribunal, conforme a escala prevista no artigo 5.º
+Art. 10.º - 1. Os arguidos serão defendidos por patrono que escolherão livremente ou, não o fazendo, por defensores oficiosos a designar, no termo da instrução, pelo presidente do Tribunal, conforme a escala prevista no artigo 5.º
 
 2. As funções do defensor nomeado cessarão com a constituição de patrono por parte do acusado.
 
-###### Art. 11.º Dada por finda a instrução, será o processo submetido a despacho do presidente do Tribunal dentro de vinte e quatro horas.
+Art. 11.º Dada por finda a instrução, será o processo submetido a despacho do presidente do Tribunal dentro de vinte e quatro horas.
 
-###### Art. 12.º Assim que receber o processo, deverá o presidente proferir despacho para vista do mesmo, bem como proceder à nomeação a que se refere o n.º 1 do artigo 10.º, se for caso disso.
+Art. 12.º Assim que receber o processo, deverá o presidente proferir despacho para vista do mesmo, bem como proceder à nomeação a que se refere o n.º 1 do artigo 10.º, se for caso disso.
 
-###### Art. 13.º O despacho para vista do processo será notificado ao arguido e ao seu defensor, sendo o prazo de vista de cinco dias após a notificação.
+Art. 13.º O despacho para vista do processo será notificado ao arguido e ao seu defensor, sendo o prazo de vista de cinco dias após a notificação.
 
-###### Art. 14.º Dentro do mesmo prazo, poderá o arguido, ou o seu defensor, requerer ao Tribunal as diligências que visem esclarecer ou completar os factos constantes dos autos.
+Art. 14.º Dentro do mesmo prazo, poderá o arguido, ou o seu defensor, requerer ao Tribunal as diligências que visem esclarecer ou completar os factos constantes dos autos.
 
-###### Art. 15.º - 1. Terminado o prazo a que se refere o artigo 13.º, será o processo enviado à Promotoria de Justiça, a qual poderá solicitar à Promotoria de Instrução a realização das diligências que repute essenciais a uma correcta instrução dos processos, bem como as referidas no artigo anterior, desde que as considere necessárias para a descoberta da verdade.
+Art. 15.º - 1. Terminado o prazo a que se refere o artigo 13.º, será o processo enviado à Promotoria de Justiça, a qual poderá solicitar à Promotoria de Instrução a realização das diligências que repute essenciais a uma correcta instrução dos processos, bem como as referidas no artigo anterior, desde que as considere necessárias para a descoberta da verdade.
 
 2. As novas diligências solicitadas à Promotoria de Instrução têm precedência sobre a restante actividade desta Promotoria.
 
-###### Art. 16.º Quando a Promotoria de Justiça não repute necessárias as diligências requeridas pela defesa, submeterá o requerimento, com o processo, a decisão do presidente do Tribunal.
+Art. 16.º Quando a Promotoria de Justiça não repute necessárias as diligências requeridas pela defesa, submeterá o requerimento, com o processo, a decisão do presidente do Tribunal.
 
 III) Da acusação e defesa
 
-###### Art. 17.º Dada por finda a instrução, se dela resultarem indícios suficientes da existência do facto punível, da identidade dos seus agentes e da sua responsabilidade, a Promotoria de Justiça formulará a acusação, nos termos referidos no artigo 19.º
+Art. 17.º Dada por finda a instrução, se dela resultarem indícios suficientes da existência do facto punível, da identidade dos seus agentes e da sua responsabilidade, a Promotoria de Justiça formulará a acusação, nos termos referidos no artigo 19.º
 
-###### Art. 18.º Se não houver elementos de facto que indiciem a responsabilidade do arguido, a Promotoria de Justiça abster-se-á de deduzir acusação, declarando nos autos as razões de facto e de direito justificativas.
+Art. 18.º Se não houver elementos de facto que indiciem a responsabilidade do arguido, a Promotoria de Justiça abster-se-á de deduzir acusação, declarando nos autos as razões de facto e de direito justificativas.
 
-###### Art. 19.º - 1. Recebido o processo, os promotores de justiça deduzirão no prazo de dez dias a sua acusação articulada, especificando:
+Art. 19.º - 1. Recebido o processo, os promotores de justiça deduzirão no prazo de dez dias a sua acusação articulada, especificando:
 
 a) O nome, apelido e, quando militar, o posto e número do arguido, assim como todos os demais elementos que possam servir para determinar a sua identidade;
 
@@ -184,7 +209,7 @@ e) Rol das testemunhas com que se pretenda provar a acusação pela ordem que se
 
 2. Não poderão ser indicadas mais de vinte testemunhas por cada infracção de que o arguido é acusado.
 
-###### Art. 20.º O juiz asssessor, logo que receber o processo com a acusação, determinará, por despacho, que a cada um dos arguidos se entregue, sob pena de nulidade, a respectiva nota de culpa, a qual, além de cópia de acusação, deverá, necessariamente, conter as indicações seguintes:
+Art. 20.º O juiz asssessor, logo que receber o processo com a acusação, determinará, por despacho, que a cada um dos arguidos se entregue, sob pena de nulidade, a respectiva nota de culpa, a qual, além de cópia de acusação, deverá, necessariamente, conter as indicações seguintes:
 
 a) Que deverá apresentar na secretaria do Tribunal a sua contestação escrita dentro do prazo de dez dias, com a indicação do rol de testemunhas e demais provas que queira produzir em sua defesa;
 
@@ -192,43 +217,43 @@ b) Que poderá, se quiser, contestar na audiência de julgamento, devendo fazê-
 
 c) Que pode constituir seu defensor qualquer oficial, com excepção dos que componham o Tribunal Militar Revolucionário, ou advogado com procuração para o efeito.
 
-###### Art. 21.º Se entre as testemunhas indicadas, quer pela acusação, quer pela defesa, houver alguma que tenha de ser inquirida por carta, mencionar-se-ão logo os factos a que deve depor.
+Art. 21.º Se entre as testemunhas indicadas, quer pela acusação, quer pela defesa, houver alguma que tenha de ser inquirida por carta, mencionar-se-ão logo os factos a que deve depor.
 
-###### Art. 22.º - 1. O número de testemunhas de defesa não poderá exceder, para cada infracção, o que a acusação pode produzir.
+Art. 22.º - 1. O número de testemunhas de defesa não poderá exceder, para cada infracção, o que a acusação pode produzir.
 
 2. Depois de terminado o prazo a que se refere o n.º 1 do artigo anterior, e até três dias antes da audiência de julgamento, é permitido à defesa substituir testemunhas, desde que se comprometa a apresentá-las em audiência.
 
-###### Art. 23.º O defensor, desde que tenha sido entregue nota de culpa ao arguido, poderá tirar cópias de quaisquer peças do processo ou requerer certidões, cuja passagem fica sujeita à autorização do presidente do Tribunal.
+Art. 23.º O defensor, desde que tenha sido entregue nota de culpa ao arguido, poderá tirar cópias de quaisquer peças do processo ou requerer certidões, cuja passagem fica sujeita à autorização do presidente do Tribunal.
 
-###### Art. 24.º - 1. Terminado o prazo a que se refere a alínea a) do artigo 20.º, o secretário do Tribunal fará os autos conclusos ao presidente, que deferirá como for de justiça aos requerimentos dos promotores, do arguido ou do seu defensor, e mandará expedir as cartas precatórias para inquirição das testemunhas domiciliadas fora do concelho de Lisboa, mas nunca fora do continente.
+Art. 24.º - 1. Terminado o prazo a que se refere a alínea a) do artigo 20.º, o secretário do Tribunal fará os autos conclusos ao presidente, que deferirá como for de justiça aos requerimentos dos promotores, do arguido ou do seu defensor, e mandará expedir as cartas precatórias para inquirição das testemunhas domiciliadas fora do concelho de Lisboa, mas nunca fora do continente.
 
 2. Poderão igualmente ser inquiridos por carta precatória os militares que se encontrarem em comissão de serviço nas colónias e ilhas adjacentes.
 
-###### Art. 25.º A expedição das cartas precatórias será sempre notificada à Promotoria de Justiça e aos arguidos.
+Art. 25.º A expedição das cartas precatórias será sempre notificada à Promotoria de Justiça e aos arguidos.
 
-###### Art. 26.º Não serão concedidas cartas rogatórias para o estrangeiro.
+Art. 26.º Não serão concedidas cartas rogatórias para o estrangeiro.
 
 IV) Do julgamento
 
-###### Art. 27.º - 1. Devolvidas as deprecadas e concluídas as diligências requeridas, as quais nunca ultrapassarão o prazo de oito dias a contar da sua expedição ou data do despacho que as ordenou, respectivamente, o juiz assessor fará o processo concluso ao presidente do Tribunal para designar o dia do julgamento.
+Art. 27.º - 1. Devolvidas as deprecadas e concluídas as diligências requeridas, as quais nunca ultrapassarão o prazo de oito dias a contar da sua expedição ou data do despacho que as ordenou, respectivamente, o juiz assessor fará o processo concluso ao presidente do Tribunal para designar o dia do julgamento.
 
 2. A designação deste obedecerá, tanto quanto possível, à ordem por que os processos tiverem sido conclusos para o efeito.
 
-###### Art. 28.º O dia do julgamento será notificado com a antecedência mínima de quarenta e oito horas à Promotoria de Justiça, à defesa e ao réu.
+Art. 28.º O dia do julgamento será notificado com a antecedência mínima de quarenta e oito horas à Promotoria de Justiça, à defesa e ao réu.
 
-###### Art. 29.º A audiência de julgamento será pública, e efectuada em recinto para o efeito escolhido pelo Conselho da Revolução.
+Art. 29.º A audiência de julgamento será pública, e efectuada em recinto para o efeito escolhido pelo Conselho da Revolução.
 
-###### Art. 30.º Na audiência de julgamento observar-se-á, em tudo que não contrarie o presente diploma, a regulamentação prevista no artigo 21.º e seguintes do [Decreto n.º 19892](https://diariodarepublica.pt/dr/detalhe/decreto/19892-1931-525025), de 16 de Junho de 1931.
+Art. 30.º Na audiência de julgamento observar-se-á, em tudo que não contrarie o presente diploma, a regulamentação prevista no artigo 21.º e seguintes do [Decreto n.º 19892](https://diariodarepublica.pt/dr/detalhe/decreto/19892-1931-525025), de 16 de Junho de 1931.
 
-###### Art. 31.º Ao presidente do Tribunal compete a polícia da audiência, incumbindo-lhe manter a ordem, o sosssego e a dignidade das operações de justiça, podendo, para o efeito, tomar as medidas que reputar convenientes.
+Art. 31.º Ao presidente do Tribunal compete a polícia da audiência, incumbindo-lhe manter a ordem, o sosssego e a dignidade das operações de justiça, podendo, para o efeito, tomar as medidas que reputar convenientes.
 
-###### Art. 32.º Aberta a audiência, o secretário fará a chamada dos promotores de justiça, defensor, réu, testemunhas e demais pessoas convocadas, procedendo-se em seguida à dos jurados que constituem a pauta.
+Art. 32.º Aberta a audiência, o secretário fará a chamada dos promotores de justiça, defensor, réu, testemunhas e demais pessoas convocadas, procedendo-se em seguida à dos jurados que constituem a pauta.
 
-###### Art. 33.º - 1. O secretário do Tribunal anotará na pauta a presença dos jurados à medida que proceder à chamada.
+Art. 33.º - 1. O secretário do Tribunal anotará na pauta a presença dos jurados à medida que proceder à chamada.
 
 2. A falta injustificada de qualquer dos jurados implica imediata condenação nas penas previstas no Regulamento de Disciplina Militar logo que, por sorteio, seja chamado a intervir o respectivo suplente.
 
-###### Art. 34.º Organizado o júri, o presidente deferirá o compromisso de honra pela maneira seguinte:
+Art. 34.º Organizado o júri, o presidente deferirá o compromisso de honra pela maneira seguinte:
 
 Prometeis pela vossa honra examinar com a mais escrupulosa atenção a causa que se vos apresenta, proferir a vossa decisão com imparcialidade e firmeza de carácter, sem que vos deixeis mover por ódio ou afeição, não escutando senão os ditames da vossa consciência e íntima convicção.
 
@@ -236,39 +261,39 @@ Cada um dos jurados dirá pela sua ordem:
 
 Assim o prometo.
 
-###### Art. 35.º Constituído o júri e prestada por este a declaração de honra, o presidente mandará ler pelo secretário o teor da acusação e da defesa escrita do réu, assim como todas as demais peças do processo cuja leitura lhe pareça conveniente ou tenha sido requerida pelos promotores, defensor ou algum dos membros do Tribunal.
+Art. 35.º Constituído o júri e prestada por este a declaração de honra, o presidente mandará ler pelo secretário o teor da acusação e da defesa escrita do réu, assim como todas as demais peças do processo cuja leitura lhe pareça conveniente ou tenha sido requerida pelos promotores, defensor ou algum dos membros do Tribunal.
 
-###### Art. 36.º O presidente verificará em seguida a identidade do réu, perguntando-lhe pelo seu nome, estado, filiação, profissão, naturalidade, residência e, quanto aos militares, o posto, número e situação, com a advertência de que não é obrigado a responder a perguntas que lhe sejam feitas acerca dos factos de que é acusado.
+Art. 36.º O presidente verificará em seguida a identidade do réu, perguntando-lhe pelo seu nome, estado, filiação, profissão, naturalidade, residência e, quanto aos militares, o posto, número e situação, com a advertência de que não é obrigado a responder a perguntas que lhe sejam feitas acerca dos factos de que é acusado.
 
-###### Art. 37.º Concluídos os actos a que se referem os artigos anteriores, o presidente concederá a palavra ao juiz assessor para proceder ao interrogatório do réu.
+Art. 37.º Concluídos os actos a que se referem os artigos anteriores, o presidente concederá a palavra ao juiz assessor para proceder ao interrogatório do réu.
 
-###### Art. 38.º O presidente do Tribunal poderá também, em qualquer altura, oficiosamente, ou a requerimento da acusação e da defesa, ordenar que ao réu sejam feitas pelo juiz assessor quaisquer perguntas sobre factos ou circunstâncias pertinentes à descoberta da verdade, ou seja acareado com as testemunhas ou confrontado com os outros réus.
+Art. 38.º O presidente do Tribunal poderá também, em qualquer altura, oficiosamente, ou a requerimento da acusação e da defesa, ordenar que ao réu sejam feitas pelo juiz assessor quaisquer perguntas sobre factos ou circunstâncias pertinentes à descoberta da verdade, ou seja acareado com as testemunhas ou confrontado com os outros réus.
 
-###### Art. 39.º As testemunhas ou pessoas chamadas a prestar declarações devem depois de ouvidas permanecer na sala de audiências até terminar a produção da prova, salvo se o presidente autorizar que se retirem antes, para o que ouvirá os representantes da acusação e da defesa.
+Art. 39.º As testemunhas ou pessoas chamadas a prestar declarações devem depois de ouvidas permanecer na sala de audiências até terminar a produção da prova, salvo se o presidente autorizar que se retirem antes, para o que ouvirá os representantes da acusação e da defesa.
 
-###### Art. 40.º - 1. Quando se mostre que qualquer testemunha, ou outra pessoa obrigada a prestar declarações em audiência, as prestou falsamente sobre factos essenciais da causa, o Tribunal ordenará a prisão do culpado e a instauração do respectivo auto.
+Art. 40.º - 1. Quando se mostre que qualquer testemunha, ou outra pessoa obrigada a prestar declarações em audiência, as prestou falsamente sobre factos essenciais da causa, o Tribunal ordenará a prisão do culpado e a instauração do respectivo auto.
 
 2. Ao presidente compete, oficiosamente, decidir se haverá lugar ao procedimento previsto neste artigo.
 
 3. Ficará sem efeito o procedimento determinado neste artigo e será posto em liberdade o detido, quando se retratar antes de terminada a discussão da causa e se mostre que diz a verdade.
 
-###### Art. 41.º - 1. Os depoimentos serão meramente orais, sem registo na acta de audiência, salvo o disposto no número seguinte.
+Art. 41.º - 1. Os depoimentos serão meramente orais, sem registo na acta de audiência, salvo o disposto no número seguinte.
 
 2. Serão registados em fita magnética todos os depoimentos produzidos em audiência, cabendo ao presidente determinar as medidas necessárias à sua guarda e conservação.
 
-###### Art. 42.º - 1. Finda a produção da prova, será dada a palavra para alegações orais, sucessivamente aos representantes da acusação e da defesa, com a faculdade de uma única réplica, sendo, porém, o defensor do réu o último a falar.
+Art. 42.º - 1. Finda a produção da prova, será dada a palavra para alegações orais, sucessivamente aos representantes da acusação e da defesa, com a faculdade de uma única réplica, sendo, porém, o defensor do réu o último a falar.
 
 2. Cada um dos representantes da acusação e da defesa não poderá de cada vez alegar por mais de uma hora, mas o presidente do Tribunal poderá permitir que continue no uso da palavra por maior espaço de tempo, se assim o entender necessário.
 
-###### Art. 43.º Terminadas as alegações, o presidente perguntará ao réu se tem mais alguma coisa a alegar em sua defesa, ouvindo-o em tudo o que disser a bem dela.
+Art. 43.º Terminadas as alegações, o presidente perguntará ao réu se tem mais alguma coisa a alegar em sua defesa, ouvindo-o em tudo o que disser a bem dela.
 
-###### Art. 44.º Em seguida o presidente declarará encerrada a discussão da causa e o juiz assessor organizará os quesitos que por ele serão ditados e lidos em voz alta.
+Art. 44.º Em seguida o presidente declarará encerrada a discussão da causa e o juiz assessor organizará os quesitos que por ele serão ditados e lidos em voz alta.
 
-###### Art. 45.º - 1. Os quesitos serão redigidos com precisão e clareza, devendo recair unicamente sobre matéria de facto.
+Art. 45.º - 1. Os quesitos serão redigidos com precisão e clareza, devendo recair unicamente sobre matéria de facto.
 
 2. Os factos provados por documento autêntico não podem ser objecto de quesitos, salvo em caso de falsidade.
 
-###### Art. 46.º Os quesitos recairão em primeiro lugar sobre a infracção principal de que o réu é acusado, devendo especificar os seus elementos constitutivos, perguntando-se discriminadamente:
+Art. 46.º Os quesitos recairão em primeiro lugar sobre a infracção principal de que o réu é acusado, devendo especificar os seus elementos constitutivos, perguntando-se discriminadamente:
 
 1.º Se existem os factos materiais que constituem a infracção;
 
@@ -276,19 +301,19 @@ Assim o prometo.
 
 3.º Se o réu procedeu com intenção ou mera culpa.
 
-###### Art. 47.º Depois dos quesitos sobre os elementos da infracção principal, serão formulados os que digam respeito às circunstâncias dirimentes da responsabilidade, seguidamente os quesitos sobre agravantes e, por último, os relativos às atenuantes, sendo sempre um quesito para cada uma das circunstâncias.
+Art. 47.º Depois dos quesitos sobre os elementos da infracção principal, serão formulados os que digam respeito às circunstâncias dirimentes da responsabilidade, seguidamente os quesitos sobre agravantes e, por último, os relativos às atenuantes, sendo sempre um quesito para cada uma das circunstâncias.
 
-###### Art. 48.º Se o réu foi acusado de diferentes infracções, para cada uma se formularão quesitos em separado.
+Art. 48.º Se o réu foi acusado de diferentes infracções, para cada uma se formularão quesitos em separado.
 
-###### Art. 49.º O presidente do Tribunal pode, oficiosasamente ou a requerimento da acusação ou da defesa, ordenar a formulação de quesitos sobre factos que resultem da discussão da causa e que possam excluir a responsabilidade criminal do réu ou diminuir a gravidade da pena.
+Art. 49.º O presidente do Tribunal pode, oficiosasamente ou a requerimento da acusação ou da defesa, ordenar a formulação de quesitos sobre factos que resultem da discussão da causa e que possam excluir a responsabilidade criminal do réu ou diminuir a gravidade da pena.
 
-###### Art. 50.º Se houver diferentes réus na mesma audiência, para cada um se formularão em separado os quesitos respectivos.
+Art. 50.º Se houver diferentes réus na mesma audiência, para cada um se formularão em separado os quesitos respectivos.
 
-###### Art. 51.º - 1. Cumpridas as formalidades prescritas nos artigos que antecedem, o presidente suspenderá a audiência, mandando retirar o réu, e em seguida os jurados passarão a uma sala para, sob a presidência do juiz assessor, deliberarem sobre as questões formuladas nos quesitos.
+Art. 51.º - 1. Cumpridas as formalidades prescritas nos artigos que antecedem, o presidente suspenderá a audiência, mandando retirar o réu, e em seguida os jurados passarão a uma sala para, sob a presidência do juiz assessor, deliberarem sobre as questões formuladas nos quesitos.
 
 2. Serão tomadas precauções para que, durante a deliberação, não possa haver comunicação com pessoa alguma e para que ninguém estranho ao júri possa tomar conhecimento do que se passar nesse acto.
 
-###### Art. 52.º - 1. Depois de recolhido o júri, o juiz assessor fará a leitura dos quesitos aos jurados, explicando-os, sem fazer qualquer resumo dos debates ou apreciação sobre as provas.
+Art. 52.º - 1. Depois de recolhido o júri, o juiz assessor fará a leitura dos quesitos aos jurados, explicando-os, sem fazer qualquer resumo dos debates ou apreciação sobre as provas.
 
 2. Qualquer dos jurados poderá consultar o processo e pedir ao juiz assessor os esclarecimentos que entender necessários.
 
@@ -298,9 +323,9 @@ Assim o prometo.
 
 5. Se pela resposta dada a qualquer quesito ficarem prejudicados outros, o juiz assessor assim o declarará, não o pondo à votação.
 
-###### Art. 53.º O juiz assessor dirigirá a votação, mas não poderá tomar parte nela, sendo as deliberações tomadas por maioria absoluta.
+Art. 53.º O juiz assessor dirigirá a votação, mas não poderá tomar parte nela, sendo as deliberações tomadas por maioria absoluta.
 
-###### Art. 54.º - 1. Finda a votação de todos os quesitos, o jurado que servir de secretário escreverá as respostas no fim de cada um, lendo-as depois em voz alta.
+Art. 54.º - 1. Finda a votação de todos os quesitos, o jurado que servir de secretário escreverá as respostas no fim de cada um, lendo-as depois em voz alta.
 
 2. As respostas serão datadas e assinadas no fim por cada jurado e rubricadas em cada folha por eles e pelo juiz assessor.
 
@@ -308,42 +333,42 @@ Assim o prometo.
 
 4. Todos os elementos do júri, assim como o juiz assessor, ficam vinculados a rigoroso segredo quanto à deliberação e votação, sob pena de incorrerem nas sanções por violação de segredo de justiça.
 
-###### Art. 55.º Escritas, assinadas e rubricadas as respostas aos quesitos, os jurados e o juiz assessor voltarão à sala da audiência onde o jurado secretário lerá publicamente em voz alta a decisão do júri.
+Art. 55.º Escritas, assinadas e rubricadas as respostas aos quesitos, os jurados e o juiz assessor voltarão à sala da audiência onde o jurado secretário lerá publicamente em voz alta a decisão do júri.
 
-###### Art. 56.º - 1. Em seguida à leitura das respostas do júri os representantes da acusação e da defesa só poderão reclamar quando entendam que essas respostas são incompletas, contraditórias, equívocas ou obscuras.
+Art. 56.º - 1. Em seguida à leitura das respostas do júri os representantes da acusação e da defesa só poderão reclamar quando entendam que essas respostas são incompletas, contraditórias, equívocas ou obscuras.
 
 2. O presidente, se julgar a reclamação procedente, fará de novo recolher os jurados a fim de esclarecerem ou completarem as respostas ou votarem de novo sobre os quesitos que deram lugar a respostas contraditórias.
 
-###### Art. 57.º Se a decisão do júri importar condenação, o presidente concederá a palavra, por uma só vez, aos representantes da acusação e da defesa, não podendo cada um usar da palavra mais de quinze minutos.
+Art. 57.º Se a decisão do júri importar condenação, o presidente concederá a palavra, por uma só vez, aos representantes da acusação e da defesa, não podendo cada um usar da palavra mais de quinze minutos.
 
 V) Disposições gerais
 
-###### Art. 58.º Os processos da competência do Tribunal Militar Revolucionário obedecem, em tudo o que se não mostre especialmente regulado neste diploma, à regulamentação prevista no Código de Justiça Militar e legislação complementar.
+Art. 58.º Os processos da competência do Tribunal Militar Revolucionário obedecem, em tudo o que se não mostre especialmente regulado neste diploma, à regulamentação prevista no Código de Justiça Militar e legislação complementar.
 
-###### Art. 59.º A instrução será individual, a menos que a respectiva Promotoria entenda conveniente a inclusão, no mesmo processo, dos factos respeitantes a dois ou mais arguidos.
+Art. 59.º A instrução será individual, a menos que a respectiva Promotoria entenda conveniente a inclusão, no mesmo processo, dos factos respeitantes a dois ou mais arguidos.
 
-###### Art. 60.º Para efeitos de julgamento, o Tribunal poderá ordenar a junção de dois ou mais processos.
+Art. 60.º Para efeitos de julgamento, o Tribunal poderá ordenar a junção de dois ou mais processos.
 
-###### Art. 61.º Não serão admitidas excepções contra a competência do Tribunal.
+Art. 61.º Não serão admitidas excepções contra a competência do Tribunal.
 
-###### Art. 62.º Os membros do Tribunal não poderão ser substituídos, salvo nos casos expressamente previstos no presente diploma, bem como nos casos de impossibilidade devidamente comprovada.
+Art. 62.º Os membros do Tribunal não poderão ser substituídos, salvo nos casos expressamente previstos no presente diploma, bem como nos casos de impossibilidade devidamente comprovada.
 
-###### Art. 63.º Os réus ausentes serão julgados à revelia.
+Art. 63.º Os réus ausentes serão julgados à revelia.
 
-###### Art. 64.º - 1. Se no decurso de uma audiência de julgamento surgir qualquer elemento de prova referente a um réu julgado em audiência anterior, poderão ser formulados quesitos adicionais que a ele digam respeito.
+Art. 64.º - 1. Se no decurso de uma audiência de julgamento surgir qualquer elemento de prova referente a um réu julgado em audiência anterior, poderão ser formulados quesitos adicionais que a ele digam respeito.
 
 2. Em relação a esses quesitos não haverá respostas sem que o réu seja notificado para comparecer em nova audiência, na qual poderá produzir contraprova.
 
 3. As testemunhas, que não poderão exceder o número de três por cada quesito adicional, deverão ser apresentadas na audiência.
 
-###### Art. 65.º A sentença, que será única em relação a todos os réus, será proferida depois de fixada a matéria de facto em relação a todos eles.
+Art. 65.º A sentença, que será única em relação a todos os réus, será proferida depois de fixada a matéria de facto em relação a todos eles.
 
-###### Art. 66.º Da sentença, condenatória ou absolutória, bem como de qualquer decisão, despacho definitivo, ou que importe efeitos definitivos, não caberá recurso.
+Art. 66.º Da sentença, condenatória ou absolutória, bem como de qualquer decisão, despacho definitivo, ou que importe efeitos definitivos, não caberá recurso.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 7 de Agosto de 1975.**
+Promulgado em 7 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

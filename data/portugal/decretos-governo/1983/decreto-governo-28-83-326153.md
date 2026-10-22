@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 99/1983, 2º Suplemento, Série I de 1983-04-30
   number: '99'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1536-(9) a 1536-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09902/00090056.pdf
 entry_into_force_dates: []
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/28-1983-326153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f3880628fbc7ca2941d50af157b4dabc308a17ec17aec8053d5d04f1001a7bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94a51793c7342ba5d8c9fcec600b6e97b5180d836e4a189cabcdb3c010c99ea9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Bruxelas
+- Convenção
+- Eurocontrol
+- Navegação Aérea
+- Portugal
+- Segurança Aérea
 relationships: []
 article_structure:
-  article_count: 33
+  article_count: 75
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:38Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +94,19 @@ de 30 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Protocolo de Emenda à Convenção Internacional da Cooperação para a Segurança da Navegação Aérea (EUROCONTROL), cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Protocolo de Emenda à Convenção Internacional da Cooperação para a Segurança da Navegação Aérea (EUROCONTROL), cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 1983. - Francisco José Pereira Pinto Balsemão - Vasco Luís Caldeira Coelho Futscher Pereira - José Manuel Meneres Sampaio Pimentel.
 
-**Assinado em 25 de Março de 1983.**
+Assinado em 25 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Abril de 1983.**
+Referendado em 4 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 PROTOCOL
 
@@ -875,7 +882,7 @@ Flight Information Regions
 
 (Article 3 of the Convention)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09902/00090056.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09902/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09902/00090056.pdf)
 
 ANNEX 3
 
@@ -1039,11 +1046,11 @@ Desejosos de encorajar os Estados interessados em tornar-se membros do EUROCONTR
 
 Acordaram nas seguintes disposições:
 
-Artigo I
+###### Artigo I
 
 A Convenção internacional de cooperação para a segurança da navegação aérea «EUROCONTROL», de 13 de Dezembro de 1960, com as modificações nela introduzidas pelo Protocolo adicional assinado em Bruxelas em 6 de Julho de 1970 ele próprio modificado pelo Protocolo adicional assinado em Bruxelas a 21 de Novembro de 1978, adiante designada por «Convenção», é emendada de acordo com as disposições dos artigos seguintes:
 
-Artigo II
+###### Artigo II
 
 O artigo 1º da Convenção é substituido pelos seguintes disposições:
 
@@ -1069,7 +1076,7 @@ O artigo 1º da Convenção é substituido pelos seguintes disposições:
 
 3. A Organização tem a sua sede em Bruxelas.»
 
-Artigo III
+###### Artigo III
 
 O artigo 2º da Convenção é revogado. O artigo 6º da Convenção passa a artigo 2º com a seguinte redacção:
 
@@ -1121,9 +1128,7 @@ A execução destas tarefas será regulada em cada caso por acordos especiais ce
 
 A execução destas tarefas será regulada em cada caso, por acordos especiais celebrados entre a Organização e os Estados interessados.»
 
-Artigo IV
-
-Os artigos 3º e 37º da Convenção são reagrupados num novo artigo 3º com a seguinte redacção
+###### Artigo IV — Os artigos 3º e 37º da Convenção são reagrupados num novo artigo 3º com a seguinte redacção
 
 «Artigo 3º
 
@@ -1133,7 +1138,7 @@ Os artigos 3º e 37º da Convenção são reagrupados num novo artigo 3º com a 
 
 3. Tal como é utilizada na presente Convenção, a expressão «tráfego aéreo» abrange o tráfego das aeronaves civis, bem como das aeronaves militares, da Alfândega e da Polícia que seguem os procedimentos da Organização da Aviação Civil Internacional.»
 
-Artigo V
+###### Artigo V
 
 Os artigos 5º da Convenção é substituido pelas seguintes disposições:
 
@@ -1145,7 +1150,7 @@ Os artigos 5º da Convenção é substituido pelas seguintes disposições:
 
 3. Se noutros Acordos, nomeadamente para a gestão dos fluxos do tráfego aéreo, firmados pela Organização com Estados não membros nos termos do parágrafo 1 do artigo 2º, estiverem previstas disposições nesse sentido, a Comissão será alargada, e tomará as suas decisões nas condições previstas nesses Acordos.»
 
-Artigo VI
+###### Artigo VI
 
 O artigo 7º da Convenção passa a artigo 6º com a seguinte redacção:
 
@@ -1179,7 +1184,7 @@ Toma uma decisão:
 
 4. Os recursos ao Tribunal arbitral previstos no artigo 31º são apresentados pela Comissão, em nome da Organização.»
 
-Artigo VII
+###### Artigo VII
 
 O artigo 8º da Convenção passa a artigo 7º com a seguinte redacção:
 
@@ -1199,7 +1204,7 @@ O artigo 8º da Convenção passa a artigo 7º com a seguinte redacção:
 
 5. As recomendações são formuladas pela Comissão por maioria das Partes Contratantes.»
 
-Artigo VIII
+###### Artigo VIII
 
 O artigo 9º da Convenção passa a artigo 8º com a seguinte redacção:
 
@@ -1249,11 +1254,11 @@ De 27 a menos de 30% ... 15
 
 4. Proceder-se-à anualmente e nas condições atrás previstas, a uma nova fixação do número de votos.»
 
-Artigo IX
+###### Artigo IX
 
 Os artigos 10º e 11º da Convenção passam a artigos 9º e 10º.
 
-Artigo X
+###### Artigo X
 
 O artigo 12º da Convenção passa a artigo 11º com a seguinte redacção:
 
@@ -1265,7 +1270,7 @@ O artigo 12º da Convenção passa a artigo 11º com a seguinte redacção:
 
 3. A Comissão pode, mediante proposta da Agência delegar nesta última a decisão de abrir negociações e celebrar acordos necessários à execução das tarefas previstas no artigo 2º.»
 
-Artigo XI
+###### Artigo XI
 
 É inserido na Convenção um novo artigo 12º com a seguinte redacção:
 
@@ -1273,11 +1278,11 @@ Artigo XI
 
 Os acordos entre a Organização e uma ou mais Partes Contratantes ou um ou mais Estados não membros, ou uma organização internacional, relativos às tarefas previstas no artigo 2º, deverão estabelecer as tarefas, direitos e obrigações respectivos das Partes nos acordos, bem como as condições financeiras e determinar as medidas a tomar. Estes acordos podem ser negociados pela Agência, nas condições previstas no parágrafo 3 do artigo 6º e no parágrafo 3 do artigo 11º.»
 
-Artigo XII
+###### Artigo XII
 
 Os artigos 13º e 14º da Convenção são revogados. O Artigo 31º da Convenção passa a artigo 13º; o artigo 15º da Convenção passa a artigo 14º. O artigo 16º da Convenção é revogado.
 
-Artigo XIII
+###### Artigo XIII
 
 O artigo 17º da Convenção passa a artigo 15º com a seguinte redacção:
 
@@ -1285,7 +1290,7 @@ O artigo 17º da Convenção passa a artigo 15º com a seguinte redacção:
 
 No caso de a Organização desempenhar as tarefas previstas na alínea (b) do parágrafo 2 do artigo 2º a Agência aplicará os regulamentos em vigor nos territórios das Partes Contratantes e nos espaços aéreos para os quais lhe esteja confiada, a prestação dos serviços de tráfego aéreo, nos termos dos acordos internacionais de que sejam parte.»
 
-Artigo XIV
+###### Artigo XIV
 
 O artigo 18º da Convenção passa a artigo 16º com a seguinte redacção:
 
@@ -1293,7 +1298,7 @@ O artigo 18º da Convenção passa a artigo 16º com a seguinte redacção:
 
 No caso de a Organização desempenhar as tarefas previstas na alínea (b) do parágrafo 2 do artigo 2º, e dentro dos limites dos direitos conferidos aos serviços de tráfego aéreo, a Agência dá aos comandantes das aeronaves todas as instruções necessárias. Estes deverão dar-lhes cumprimento, salvo nos casos de força maior previstos nos regulamentos citados no artigo anterior.»
 
-Artigo XV
+###### Artigo XV
 
 O artigo 19º da Convenção passa a artigo 17º com a seguinte redacção:
 
@@ -1301,7 +1306,7 @@ O artigo 19º da Convenção passa a artigo 17º com a seguinte redacção:
 
 No caso de a Organização desempenhar as tarefas previstas na alínea (b) do parágrafo 2 do artigo 2º, as infracções aos regulamentos da navegação aérea cometidas no espaço onde a prestação dos serviços de tráfego aéreo esteja confiada à Agência serão reportadas em relatórios de agentes por ela devidamente nomeados para este efeito, sem prejuízo do direito reconhecido pelas legislações nacionais aos agentes das Partes Contratantes de verificar as infracções da mesma natureza. Os relatórios acima referidos têm junto dos tribunais nacionais o mesmo valor que os efectuados pelos agentes nacionais qualificados para registar as infrações da mesma natureza.»
 
-Artigo XVI
+###### Artigo XVI
 
 É inserido na Convenção um novo artigo 18º com a seguinte redacção:
 
@@ -1311,11 +1316,11 @@ Artigo XVI
 
 2. Para as suas comunicações oficiais e transferência de toda a sua documentação, a Organização beneficia de tratamento tão favorável como o concedido por cada Parte Contratante às outras organizações internacionais similares.»
 
-Artigo XVII
+###### Artigo XVII
 
 O artigo 20º da Convenção é revogado e os artigos 21º, 22º e 23º passam a artigos 19º, 20º e 21º. No parágrafo 4 do antigo artigo 22º, a referência ao artigo 36º dos Estatutos da Agência é substituida por uma referência ao artigo 25º dos Estatutos.
 
-Artigo XVIII
+###### Artigo XVIII
 
 O artigo 24º da Convenção passa a artigo 22º com a seguinte redacção:
 
@@ -1345,7 +1350,7 @@ O artigo 24º da Convenção passa a artigo 22º com a seguinte redacção:
 
 8. Os Governos interessados tomam todas as disposições úteis para assegurar a liberdade de transferência dos salários líquidos.»
 
-Artigo XIX
+###### Artigo XIX
 
 É inserido na Convenção um novo artigo 23º com a seguinte redacção:
 
@@ -1353,7 +1358,7 @@ Artigo XIX
 
 Os representantes das Partes Contratantes, no exercício das suas funções bem como durante as suas viagens para, ou, do local de reunião, gozam de inviolabilidade para todos os seus papeis e documentos oficiais.»
 
-Artigo XX
+###### Artigo XX
 
 É inserido na Convenção um novo artigo 24º com a seguinte redacção:
 
@@ -1361,7 +1366,7 @@ Artigo XX
 
 Como resultado do seu regime próprio de previdência social, a Organização, o Director Geral e os membros do pessoal da Organização estão isentos de quaisquer contribuições obrigatórias devidas a organismos nacionais de previdência social, sem prejuízo dos acordos existentes entre a Organização e uma Parte Contratante aquando da entrada em vigor do Protocolo aberto para assinatura em Bruxelas, em 1981.»
 
-Artigo XXI
+###### Artigo XXI
 
 O artigo 26º da Convenção passa a ter a seguinte redacção:
 
@@ -1375,11 +1380,11 @@ O artigo 26º da Convenção passa a ter a seguinte redacção:
 
 3. De qualquer modo, para efectuar inquéritos judiciais e assegurar a execução das decisões judiciais no respectivo território, as autoridades competentes do Estado da Sede e doutros paises onde estão situados estas instalações e arquivos, têm acesso, após disso ter avisado o Director Geral da Agência, às instalações e arquivos da Organização.»
 
-Artigo XXII
+###### Artigo XXII
 
 O artigo 28º da Convenção é revogado.
 
-Artigo XXIII
+###### Artigo XXIII
 
 O artigo 29º da Convenção passa a artigo 28º, com a seguinte redacção:
 
@@ -1387,7 +1392,7 @@ O artigo 29º da Convenção passa a artigo 28º, com a seguinte redacção:
 
 No caso de a Organização desempenhar as tarefas previstas na alínea (b) do parágrafo 2 do artigo 2º, os acordos internacionais e as regulamentações nacionais relativos ao acesso, sobrevôo e segurança do território das Partes Contratantes revestem carácter obrigatório para a Agência que deverá tomar todas as medidas necessárias à sua aplicação.»
 
-Artigo XXIV
+###### Artigo XXIV
 
 O artigo 30º da Convenção passa a artigo 29º com a seguinte redacção:
 
@@ -1395,21 +1400,21 @@ O artigo 30º da Convenção passa a artigo 29º com a seguinte redacção:
 
 No caso de a Organização desempenhar as tarefas previstas na alínea (b) do parágrafo 2 do artigo 2º, a Agência deve fornecer às Partes Contratantes que apresentem o respectivo pedido, todas as informações relativas às aeronaves de que tem conhecimento no exercício das suas funções, a fim de permitir àquelas Partes Contratantes o controle da aplicação dos acordos internacionais e dos regulamentos nacionais.»
 
-Artigo XXV
+###### Artigo XXV
 
 O artigo 32º da Convenção passa a artigo 30º.
 
-Artigo XXVI
+###### Artigo XXVI
 
 O artigo 33º da Convenção passa a artigo 31º.
 
-Artigo XXVII
+###### Artigo XXVII
 
 O artigo 34º da Convenção passa a artigo 32º; o respectivo parágrafo 3 passa a ter a seguinte redacção:
 
 «3. De qualquer modo, as disposições previstas nos artigos 1º, 11º, 19º e 20º dos Estatutos anexos não são susceptíveis de ser modificadas pela Comissão.»
 
-Artigo XXVIII
+###### Artigo XXVIII
 
 O artigo 35º da Convenção passa a artigo 33º com a seguinte redacção:
 
@@ -1417,15 +1422,15 @@ O artigo 35º da Convenção passa a artigo 33º com a seguinte redacção:
 
 Em caso de crise ou guerra, as disposições da presente Convenção não podem implicar limitações à liberdade de acção das Partes Contratantes envolvidas.»
 
-Artigo XXIX
+###### Artigo XXIX
 
 O artigo 36º da Convenção passa a artigo 34º.
 
-Artigo XXX
+###### Artigo XXX
 
 O artigo 38º da Convenção é revogado.
 
-Artigo XXXI
+###### Artigo XXXI
 
 O artigo 39º da Convenção passa a artigo 35º. Os seus parágrafos 1 e 2 são substituidos pelas seguintes disposições:
 
@@ -1433,11 +1438,11 @@ O artigo 39º da Convenção passa a artigo 35º. Os seus parágrafos 1 e 2 são
 
 2. Este período será automáticamente prorrogado por períodos de cinco anos, excepto se uma das Partes Contratantes tiver manifestado através de notificação escrita ao Governo do Reino da Bélgica, com a antecedência de pelo menos dois anos antes do fim do período em curso, a sua intenção de pôr termo à Convenção. O Governo do Reino da Bélgica dará conhecimento aos Governos dos outros Estados partes da Convenção da referida notificação.»
 
-Artigo XXXII
+###### Artigo XXXII
 
 O artigo 40º da Convenção é revogado.
 
-Artigo XXXIII
+###### Artigo XXXIII
 
 O artigo 41º da Convenção passa a artigo 36º. Os seus parágrafos 1 e 4 são substituídos pelas disposições seguintes:
 
@@ -1449,23 +1454,23 @@ O artigo 41º da Convenção passa a artigo 36º. Os seus parágrafos 1 e 4 são
 
 4. A adesão produzirá efeito no primeiro dia do segundo mês a seguir ao depósito do instrumento de adesão.»
 
-Artigo XXXIV
+###### Artigo XXXIV
 
 O artigo 42º da Convenção é revogado.
 
-Artigo XXXV
+###### Artigo XXXV
 
 O Anexo I à Convenção, relativo aos Estatutos da Agência, é substituido pelo Anexo 1 ao presente Protocolo.
 
-Artigo XXXVI
+###### Artigo XXXVI
 
 O Anexo II à Convenção é substituido pelo Anexo 2 intitulado «Regiões de Informação de Vôo (artigo 3º da Convenção)».
 
-Artigo XXXVII
+###### Artigo XXXVII
 
 O Protocolo de assinatura da Convenção é revogado.
 
-Artigo XXXVIII
+###### Artigo XXXVIII
 
 O Protocolo adicional à Convenção, assinado em Bruxelas a 6 de Julho de 1970, modificado pelo Protocolo assinado em Bruxelas em 21 de Novembro de 1978 é emendado como se segue:
 
@@ -1477,11 +1482,11 @@ O Protocolo adicional à Convenção, assinado em Bruxelas a 6 de Julho de 1970,
 
 4. A referência ao artigo 41º da Convenção que figura nos parágrafos 1 e 2 do artigo 8º do Protocolo de 1970 é substituída pela referência ao artigo 36º da Convenção emendada pelo Protocolo aberto à assinatura em Bruxelas em 1981.
 
-Artigo XXXIX
+###### Artigo XXXIX
 
 As disposições transitórias relativas à passagem do regime da Convenção ao regime da Convenção emendada pelo presente Protocolo estão contidas no Anexo 3 ao presente Protocolo.
 
-Artigo XL
+###### Artigo XL
 
 1. O presente Protocolo está aberto à assinatura de todos os Estados partes da Convenção até 28 de Fevereiro de 1981.
 
@@ -1497,15 +1502,15 @@ Está igualmente aberto antes da data da sua entrada em vigor, à assinatura de 
 
 6. O Governo do Reino da Bélgica notificará aos Governos dos outros Estados partes da Convenção e a qualquer Estado signatário do presente Protocolo, todas as assinaturas, depósitos de instrumentos de ratificação e todas as datas de entrada em vigor do presente Protocolo, nos termos dos parágrafos 3 e 4 acima.
 
-Artigo XLI
+###### Artigo XLI
 
 A ratificação do presente Protocolo vale ratificação do Acordo Multilateral relativo às taxas de rota aberto à assinatura em 1981.
 
-Artigo XLII
+###### Artigo XLII
 
 A Convenção e o presente Protocolo constituem um único e mesmo instrumento que será designado por «Convenção internacional de cooperação para a segurança da navegação aérea EUROCONTROL, emendada em Bruxelas em 1981».
 
-Artigo XLIII
+###### Artigo XLIII
 
 O Governo do Reino da Bélgica registará o Protocolo aberto à assinatura em Bruxelas em 1981, junto do Secretário Geral das Nações Unidas, de acordo com os termos do artigo 102º da Carta das Nações Unidas e junto do Conselho da Organização da Aviação Civil Internacional de acordo com os termos do artigo 83º da Convenção relativa à Aviação Civil Internacional assinada em Chicago em 7 de Dezembro de 1944.
 
@@ -1779,7 +1784,7 @@ O Comité submete à aprovação da Comissão todas as modificações aos Estatu
 
 (Artigo 3º da Convenção)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09902/00090056.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09902/00090056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09902/00090056.pdf)
 
 ## ANEXO 3
 

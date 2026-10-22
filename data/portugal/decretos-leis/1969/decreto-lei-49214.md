@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49214-1969-214887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77671e19b820231e1ba7e65f3d2874dc4f807dd1d298bbd0f4301ff7634b1b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 876174841907f2577edfde09c53303bf0d499c232e8c34e9045848203e1e9178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direitos de Importação
+- Importação
+- Indústria Metalúrgica
+- Indústria Química
+- Indústria Têxtil
+- Joalharia e Ourivesaria
+- Pauta dos Direitos de Importação
+- Produto Mineiro
+- Produto Químico
+- Transporte de Mercadorias
+relationships:
+- type: corrected_by
+  target: pt:dre:216107:por
+  label: "Rectificado o art. 2º (na parte em que alterou os caps. 32º, 44º, 84º e 85º da Pauta dos Direitos de Importação,\
+    \ aprovada pelo Dec Lei 42656 de 18-Nov de 1959) pela RECT.DD469.04.10.1969.PC, DG.IS [233] de 04.10.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-216107
+  date: '1969-10-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:36Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São alteradas, pela forma seguinte, as redacções dos artigos 4.º, 17.º, 19.º, 32.º, 71.º e 88.º das instruções preliminares da pauta de importação:
+Artigo 1.º São alteradas, pela forma seguinte, as redacções dos artigos 4.º, 17.º, 19.º, 32.º, 71.º e 88.º das instruções preliminares da pauta de importação:
 
 ###### ARTIGO 4.º
 
@@ -148,7 +164,7 @@ Quando se trate de produtos alimentares avariados, impróprios para consumo huma
 
 ...
 
-###### Art. 2.º São alteradas, pela forma seguinte, as redacções das secções, capítulos, notas, posições e subposições da pauta dos direitos de importação:
+Art. 2.º São alteradas, pela forma seguinte, as redacções das secções, capítulos, notas, posições e subposições da pauta dos direitos de importação:
 
 ### CAPÍTULO 28.º
 
@@ -408,9 +424,9 @@ c) Os fios, monofios, cordões e semelhantes, para pesca, incluídos no capítul
 
 5. - Salvo o que dispõe a nota 1, as partes, peças separadas e acessórios que possam ser reconhecidos como destinando-se exclusiva ou principalmente aos artefactos deste capítulo classificam-se pelos artigos que correspondam a esses artefactos.
 
-###### Art. 3.º Os actuais artigos da pauta dos direitos de importação n.os 84.21.01 a 84.21.05 passam a ter, respectivamente, os n.os 84.21.02 a 84.21.06.
+Art. 3.º Os actuais artigos da pauta dos direitos de importação n.os 84.21.01 a 84.21.05 passam a ter, respectivamente, os n.os 84.21.02 a 84.21.06.
 
-###### Art. 4.º É introduzido no texto da pauta dos direitos de importação o seguinte artigo:
+Art. 4.º É introduzido no texto da pauta dos direitos de importação o seguinte artigo:
 
 84.21.01 Aspersores para rega:
 
@@ -418,9 +434,9 @@ Pauta máxima - Quilograma, 1$04.
 
 Pauta mínima - Quilograma, 0$52.
 
-###### Art. 5.º É eliminada a (nota *) nota do capítulo 55.º da pauta dos direitos de importação.
+Art. 5.º É eliminada a (nota *) nota do capítulo 55.º da pauta dos direitos de importação.
 
-###### Art. 6.º São introduzidas no capítulo 55.º da pauta dos direitos de importação as seguintes notas:
+Art. 6.º São introduzidas no capítulo 55.º da pauta dos direitos de importação as seguintes notas:
 
 NOTAS:
 
@@ -430,8 +446,8 @@ NOTAS:
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 8 de Agosto de 1969.**
+Promulgado em 8 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

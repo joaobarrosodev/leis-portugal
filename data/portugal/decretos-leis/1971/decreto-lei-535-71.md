@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28300/18701870.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/535-1971-632035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91cfd1a703589d167422c22f3fe12a8348dfbd7a773fdcfbd0dbc88b85807c92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5d04d37e234b000a8f66e48b39c8b81e9550d673e28f16453987a8f67e15bbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Estabelecimento Hospitalar
+- Internato Complementar
+- Internato Geral
+- Médico
+- Mobilização Militar
 relationships:
 - type: amended_by
   target: pt:dre:468859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:184496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688256:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468859:por
+  label: "Revogado pelo DEC LEI.3/78.1978.01.10.MAS DR.IS [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1978-468859
+  date: '1978-01-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:06Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +112,16 @@ de 3 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Ao [Decreto-Lei n.º 44101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44101-1961-184496), de 19 de Dezembro de 1961, com as alterações introduzidas pelo [Decreto-Lei n.º 45357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45357-1963-688256), de 16 de Novembro de 1963, é acrescentado um artigo 4.º com a redacção seguinte:
+Artigo único. Ao [Decreto-Lei n.º 44101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44101-1961-184496), de 19 de Dezembro de 1961, com as alterações introduzidas pelo [Decreto-Lei n.º 45357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45357-1963-688256), de 16 de Novembro de 1963, é acrescentado um artigo 4.º com a redacção seguinte:
 
-###### Art. 4.º Os médicos que, por motivo de prestação de serviço militar obrigatório, hajam de adiar a sua apresentação a provas de exame ou concurso do internato médico ficam sujeitos, quando venham a apresentar-se a tais provas, se o fizerem na primeira oportunidade após ter cessado o impedimento, às mesmas condições que lhes seriam legalmente aplicáveis se tivessem podido apresentar-se no tempo normal.
+Art. 4.º Os médicos que, por motivo de prestação de serviço militar obrigatório, hajam de adiar a sua apresentação a provas de exame ou concurso do internato médico ficam sujeitos, quando venham a apresentar-se a tais provas, se o fizerem na primeira oportunidade após ter cessado o impedimento, às mesmas condições que lhes seriam legalmente aplicáveis se tivessem podido apresentar-se no tempo normal.
 
 Visto e aprovado em Conselho de Ministros. - Marcelo Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 24 de Novembro de 1971.**
+Promulgado em 24 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/815-1976-407141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20038b8b595af8a0a9cbfbde1fe6d9684640a49aaf55a11db36140ab8038b083
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbdc33537110e6502cfaad4a5cead17c58cf5f38e2536b4ef32dd69db4e89ec6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ministério das Obras Públicas
+- Orgânica
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico
+- Pessoal Técnico Auxiliar
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:472337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:255378:por
+  label: Alterado, no que se refere ao pessoal auxiliar, o quadro de pessoal da Secretaria-Geral do Ministério das Obras Públicas,
+    aprovado em anexo, pelo(a) Portaria n.º 515/77 - Diário da República n.º 186/1977, Série I de 1977-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1977-255378
+  date: '1977-08-12'
+- type: cites
+  target: pt:dre:158662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675981:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406724:por
+  label: Rectificado pela DECL.DD8094.23.11.1976.PCM, DR.IS [273] de 23.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-406724
+  date: '1976-11-23'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:26Z'
   warnings: []
   errors: []
 ---
@@ -356,14 +417,14 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - João Orlindo de Almeida Pina.
 
-**Promulgado em 28 de Outubro de 1976.**
+Promulgado em 28 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da Secretaria-Geral do Ministério das Obras públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/26300/25582563.pdf))](https://files.diariodarepublica.pt/1s/1976/11/26300/25582563.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/26300/25582563.pdf).
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

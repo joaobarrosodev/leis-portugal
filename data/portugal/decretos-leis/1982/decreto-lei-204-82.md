@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11600/13741374.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1982-392419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 883a1840666d41fc73c0b37cd6ccf11945fa4e704245415649401cf94645980c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: babf40aecef4f64735df1f61915522579e88ee3f082cf0930a468052e2c3ad85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Regulamento Geral das Edificações Urbanas
 relationships:
 - type: amended_by
   target: pt:dre:441309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUMERO 1 DO ARTIGO 3 DO DECRETO LEI 43/82, DE 8 DE FEVEREIRO, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA,
+    PELO DECRETO LEI 185/83, DE 9 DE MAIO, PUBLICADO NO DR.IS, 106.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-05-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO O PRAZO PREVISTO NO NUMERO 1 DO ARTIGO 3 DO DECRETO LEI 43/82, DE 8 DE FEVEREIRO, NA REDACÇÃO CONSTANTE\
+    \ DO PRESENTE DIPLOMA E DO DECRETO LEI 185/83, DE 9 DE MAIO, PELO DECRETO LEI 376/83, DE 10 DE OUTUBRO, PUBLICADO NO DR.IS,\
+    \ 233.\0, PUBLICADO NO DR.IS, 233."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-10-10'
+- type: cites
+  target: pt:dre:600506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:08Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +114,14 @@ Considerando que existem projectos em fase avançada de elaboração insusceptí
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 1 do artigo 3.º do [Decreto-Lei n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1982-600506), de 8 de Fevereiro, passa a ter a seguinte redacção:
+Artigo único. O n.º 1 do artigo 3.º do [Decreto-Lei n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1982-600506), de 8 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - As alterações introduzidas ao Regulamento Geral das Edificações Urbanas pelo presente diploma aplicam-se apenas aos projectos que dêem entrada nas instâncias competentes após o dia 31 de Março de 1983.
+Art. 3.º - 1 - As alterações introduzidas ao Regulamento Geral das Edificações Urbanas pelo presente diploma aplicam-se apenas aos projectos que dêem entrada nas instâncias competentes após o dia 31 de Março de 1983.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Abril de 1982.**
+Promulgado em 26 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

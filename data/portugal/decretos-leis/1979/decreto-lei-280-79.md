@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18400/18721874.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4855da89d2d4d21209295dbbb964ed56fad4a62a8403a1330fd2662edbc55896
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77f9a008f5782f6217b36e47475d3ce864c28adbeb9eff36486a2b3fcef7b9fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo
+- Biblioteca
+- Carreira Profissional
+- Documentação
+- Função Pública
+- Pessoal de BAD
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:584785:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365881:por
+  label: Substituídas as listas previstas no n.º 1 do art. 8.º do presente diploma, pelo(a) Decreto-Lei n.º 497/79 - Diário
+    da República n.º 293/1979, Série I de 1979-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1979-365881
+  date: '1979-12-21'
+- type: amended_by
+  target: pt:dre:678831:por
+  label: "Prorrogado, por 30 dias, o prazo a que se refere o nº 5 do artigo 8º do presente diploma, pelo Dec - Lei 19/80.29.02.1980.PCM,\
+    \ DR.IS [50] de 29.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1980-678831
+  date: '1980-02-29'
+- type: repealed_by
+  target: pt:dre:668103:por
+  label: "Revogado pelo DEC LEI.247/91.1991.07.10.MF, DR.IS-A [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1991-668103
+  date: '1991-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:06Z'
   warnings: []
   errors: []
 ---
@@ -197,14 +221,14 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 27 de Julho de 1979.**
+Promulgado em 27 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18400/18721874.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18400/18721874.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18400/18721874.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

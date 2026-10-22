@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/491-1972-685068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 721cd993c8b5d4a7d80befec9a7fe659cca85f58e9afe429487f5498bc5d3109
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d262fbdd83235c9f569a4e8c6790d54e3a3fa590c7fb14a76c205cc2b0ee800
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avião
+- Convenção
+- Embarcação
+- Meio Marinho
+- OSLO
+- Poluição Marinha
+- Poluição pelos Navios
+- Portugal
+- Proteção do Ambiente
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:674576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421034:por
+  label: "Alterados os arts. 19º e 22º e acrescentado o anexo IV da Convenção pelo Protocolo aprovado para ratificação pelo\
+    \ DEC.20/87.1987.05.13.MNE, DR.IS [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/20-1987-421034
+  date: '1987-05-13'
+- type: amended_by
+  target: pt:dre:333551:por
+  label: "Alterados os anexos I e II da Convenção pela Emenda aprovada pelo DEC.4/90.1990.01.16.MNE, DR.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-1990-333551
+  date: '1990-01-16'
+- type: amended_by
+  target: pt:dre:158614:por
+  label: "Alterados os arts. 2º, 15º, 19º e 22º da Convenção pelo Protocolo aprovado para ratificação pelo DEC.13/92.1992.02.20.MNE,\
+    \ DR.IS-A [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/13-1992-158614
+  date: '1992-02-20'
+- type: amended_by
+  target: pt:dre:674576:por
+  label: "A presente Convenção foi substituida pela Convenção para a Protecção do Meio Marinho do Atlantico Nordeste aprovada\
+    \ para ratificação pelo DEC.59/97.1997.10.31.MNE, DR.IS-A [253], a partir da sua entrada em vigor e nos termos do seu\
+    \ art. 31º-\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/59-1997-674576
+  date: '1997-10-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:57Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +125,15 @@ de 6 de Dezembro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. aprovada, para ratificação, a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, concluída em Oslo em 15 de Fevereiro de 1972, cujo original em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. aprovada, para ratificação, a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, concluída em Oslo em 15 de Fevereiro de 1972, cujo original em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 16 de Novembro de 1972.**
+Assinado em 16 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 CONVENTION POUR LA PRÉVENTION DE LA POLLUTION MARINE PAR LES OPÉRATIONS D'IMMERSION ÉFFECTUÉES PAR LES NAVIRES ET AÉRONEFS.
 
@@ -385,11 +419,11 @@ Considerando que os Estados marginais do Nordeste do Atlântico são particularm
 
 Acordaram nas seguintes disposições:
 
-###### ARTIGO 1
+ARTIGO 1
 
 As Partes Contratantes comprometem-se a tomar todas as medidas possíveis para lutar contra a poluição dos mares por substâncias susceptíveis de colocar em perigo a saúde do homem, de impedir os recursos biológicos, a fauna e a flora marítimas, de prejudicar as possibilidades de recreio ou dificultar quaisquer outras utilizações legítimas do mar.
 
-###### ARTIGO 2
+ARTIGO 2
 
 A zona de aplicação da presente Convenção compreende o alto mar e o mar territorial situados:
 
@@ -401,59 +435,59 @@ ii) O mar Mediterrâneo e os mares secundários até ao ponto de intersecção d
 
 b) Dentro dos limites da região do oceano Atlântico ao norte do 59º de latitude norte e entre 44º de longitude oeste e 42º de longitude oeste.
 
-###### ARTIGO 3
+ARTIGO 3
 
 As Partes Contratantes concordam em aplicar as medidas adoptadas para evitar o desvio das operações de imersão de substâncias nocivas para mares situados fora da zona coberta pela presente Convenção.
 
-###### ARTIGO 4
+ARTIGO 4
 
 As Partes Contratantes harmonizarão as suas políticas e adoptarão, individual ou colectivamente, medidas destinadas a impedir a poluição dos mares pela imersão de resíduos efectuada por navios ou aeronaves ou provenientes destes.
 
-###### ARTIGO 5
+ARTIGO 5
 
 Fica proibida a imersão das substâncias enumeradas no anexo I da presente Convenção.
 
-###### ARTIGO 6
+ARTIGO 6
 
 Fica proibida a imersão, sem autorização especifica emitida em cada caso pela autoridade ou autoridades nacionais competentes, dos resíduos contendo substâncias e matérias enumeradas no anexo II da presente Convenção, em quantidades que serão definidas como importantes pela Comissão criada nos termos das disposições do artigo 16 e a seguir denominada «a Comissão». Quando da concessão destas autorizações, serão aplicadas as disposições dos anexos II e III da presente Convenção.
 
-###### ARTIGO 7
+ARTIGO 7
 
 Não poderão ser imersas, sem a aprovação da autoridade ou autoridades nacionais competentes, quaisquer substâncias ou materiais. Quando tiver lugar esta aprovação, serão aplicadas as disposições dos anexos II e III da presente Convenção.
 
-###### ARTIGO 8
+ARTIGO 8
 
 1) Não se aplicam as disposições dos artigos 5, 6 e 7 em casos de força maior causados pelas intempéries ou por qualquer outra causa, sempre que a segurança da vida humana ou de um navio ou aeronave estejam ameaçadas. Nestes casos, os despejos serão imediatamente notificados à Comissão, com todos os detalhes respeitantes às circunstâncias, natureza e quantidades das substâncias e materiais imersos.
 
 2) Não se aplicam as disposições do artigo 5 quando as substâncias nele mencionadas se apresentem sob a forma de vestígios de poluentes em resíduos nos quais estas substâncias não foram adicionadas com vista à sua imersão. No entanto, a imersão fica submetida ao disposto nos artigos 6 e 7.
 
-###### ARTIGO 9
+ARTIGO 9
 
 Em caso de emergência, se uma Parte Contratante considerar que alguma das substâncias que figuram no anexo I da presente Convenção não pode ser eliminada em terra sem riscos ou prejuízos inaceitáveis, consultará imediatamente a Comissão. A Comissão recomendará os métodos de armazenagem ou os meios de destruição ou eliminação mais satisfatórios, consoante as circunstâncias.
 
 A Parte Contratante informará a Comissão das medidas adoptadas na aplicação das suas recomendações. As Partes Contratantes comprometem-se a assistir-se mùtuamente em semelhantes casos.
 
-###### ARTIGO 10
+ARTIGO 10
 
 Antes da concessão de qualquer autorização ou aprovação para a imersão de resíduos no mar, a autoridade ou autoridades nacionais competentes assegurar-se-ão da composição destes resíduos de acordo com as disposições do anexo III da presente Convenção.
 
-###### ARTIGO 11
+ARTIGO 11
 
 Cada Parte Contratante conservará e transmitirá à Comissão, de acordo com um processo tipo, listas com a natureza e quantidades de substâncias e materiais imersos em virtude de autorizações e aprovações por ela concedidas, e ainda com as datas, locais e métodos de imersão.
 
-###### ARTIGO 12
+ARTIGO 12
 
 As Partes Contratantes acordam em estabelecer programas complementares ou conjuntos de investigação científica e técnica, incluindo a investigação de outros métodos de eliminação de substâncias nocivas, e em comunicar mùtuamente as informações assim obtidas. Neste domínio, terão em consideração os trabalhos efectuados pelas organizações e instituições internacionais competentes.
 
-###### ARTIGO 13
+ARTIGO 13
 
 As Partes Contratantes acordam em elaborar, em cooperação com as organizações e instituições internacionais competentes, programas complementares ou conjuntos para o contrôle e a fiscalização permanente da evolução e efeitos dos poluentes na zona de aplicação da presente Convenção.
 
-###### ARTIGO 14
+ARTIGO 14
 
 As Partes Contratantes comprometem-se a promover, no quadro das instituições especializadas competentes e outros organismos internacionais, as medidas para a protecção do meio ambiente marítimo contra a poluição provocada pelo petróleo e resíduos do petróleo, por outras cargas nocivas ou perigosas e pelas matérias radioactivas.
 
-###### ARTIGO 15
+ARTIGO 15
 
 1) Cada Parte Contratante compromete-se a fazer respeitar as disposições da presente Convenção:
 
@@ -473,11 +507,11 @@ c) Pelos navios e aeronaves que pensem poderem vir a praticar a imersão nos lim
 
 6) Nada na presente Convenção atenta contra a imunidade de jurisdição de certos navios, segundo o direito internacional.
 
-###### ARTIGO 16
+ARTIGO 16
 
 Uma Comissão, composta por representantes de cada uma das Partes Contratantes, é criada pelas presentes Partes. A Comissão reunir-se-á a intervalos regulares e a qualquer momento, quando, por força de circunstâncias especiais, assim for decidido pelo regulamento interno.
 
-###### ARTIGO 17
+ARTIGO 17
 
 A Comissão terá por missão:
 
@@ -491,13 +525,13 @@ d) Actualizar o conteúdo dos anexos da presente Convenção e recomendar as mod
 
 e) Preencher quaisquer outras funções que se revelem necessárias nos termos da presente Convenção.
 
-###### ARTIGO 18
+ARTIGO 18
 
 1) A Comissão estabelecerá o seu regulamento interno, que será adoptado por unanimidade de votos. O Governo da Noruega convocará a primeira reunião da Comissão, logo que possível, depois da entrada em vigor da presente Convenção.
 
 2) As recomendações para a modificação dos anexos da presente Convenção, de acordo com o disposto na alínea d) do artigo 17, serão adoptadas por unanimidade de votos na Comissão e as modificações introduzidas entrarão em vigor pela aprovação unânime dos Governos das Partes Contratantes.
 
-###### ARTIGO 19
+ARTIGO 19
 
 Para os fins da presente Convenção:
 
@@ -509,33 +543,33 @@ b) O depósito de substâncias e materiais, com outros fins que não a sua simpl
 
 2) «Navios e aeronaves» significam embarcações marítimas e engenhos voadores de qualquer tipo que sejam. Esta expressão abrange igualmente os engenhos sobre almofadas de ar, os engenhos flutuantes - sejam ou não autopropulsados - e as plataformas fixas ou flutuantes.
 
-###### ARTIGO 20
+ARTIGO 20
 
 A presente Convenção estará aberta em Oslo, até ao dia 15 de Agosto de 1972, à assinatura dos Estados convidados a participarem no Conferência sobre a Poluição dos Mares, que se reuniu nesta cidade de 19 a 22 de Outubro de 1971.
 
-###### ARTIGO 21
+ARTIGO 21
 
 A presente Convenção está sujeita a ratificação. Os instrumentos de ratificação serão depositados junto do Governo da Noruega.
 
-###### ARTIGO 22
+ARTIGO 22
 
 A presente Convenção está aberta à adesão de todos os Estados designados no artigo 20. As Partes Contratantes poderão, por unanimidade, convidar outros Estados a aderir à Convenção. Os instrumentos de adesão serão depositados junto do Governo da Noruega.
 
-###### ARTIGO 23
+ARTIGO 23
 
 1) A presente Convenção entrará em vigor no trigésimo dia após o depósito do sétimo instrumento de ratificação ou adesão.
 
 2) Para cada Estado que ratifique ou adira à Convenção depois do depósito do sétimo instrumento de ratificação ou adesão a Convenção entrará em vigor no trigésimo dia após o depósito do instrumento de ratificação ou adesão pelo Estado interessado.
 
-###### ARTIGO 24
+ARTIGO 24
 
 Dois anos após a entrada em vigor da presente Convenção relativamente a uma Parte Contratante, poderá esta Parte, em qualquer momento, denunciar a Convenção por notificação escrita dirigida ao Governo depositário. Qualquer denúncia produzirá efeitos um ano após o dia em que for recebida.
 
-###### ARTIGO 25
+ARTIGO 25
 
 O Governo depositário poderá, a pedido da Comissão decidindo por maioria de dois terços, convocar uma Conferência para rever ou modificar a presente Convenção.
 
-###### ARTIGO 26
+ARTIGO 26
 
 O Governo depositário avisará as Partes Contratantes e os Estados previstos no artigo 20:
 
@@ -545,7 +579,7 @@ b) Da data em que a presente Convenção entrar em vigor, em aplicação do arti
 
 c) Das notificações de aprovação relativas às modificações dos anexos da presente Convenção e da entrada em vigor destas modificações, segundo o disposto no artigo 18.
 
-###### ARTIGO 27
+ARTIGO 27
 
 O original da presente Convenção cujos textos em inglês e em francês fazem igualmente fé, ficará depositado junto do Governo da Noruega, que enviará cópias autenticadas às Partes Contratantes e aos Estados previstos no artigo 20 e que enviará ainda uma cópia autenticada ao secretário-geral das Nações Unidas, para registo e publicação, segundo o disposto no artigo 102 da Carta das Nações Unidas.
 

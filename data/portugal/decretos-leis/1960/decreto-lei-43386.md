@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43386-1960-512781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f96ac6f87a119f46b748df10649798b459699473d3a5d721f8955efc8b9cd1f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f79789865aa42bd171993db9d8f5d428ea06821205385be421a9ba7dda8628c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Estabelecimento de Ensino
+- Ministro da Educação Nacional
+- Ministro das Obras Públicas
+- Obras Públicas
+- Parque Escolar
+relationships:
+- type: cites
+  target: pt:dre:305041:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:56Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +101,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Poderão ser autorizados por simples despacho dos Ministros das Obras Públicas e da Educação Nacional, sempre que o reconheçam conveniente, ajustamentos na composição do programa de novos liceus, constante do mapa anexo ao [Decreto-Lei n.º 41572](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41572-1958-305041), de 28 de Março de 1958, de que não resulte redução do número total de unidades a construir nem aumento do limite de despesa fixado no artigo 1.º do referido diploma.
+Artigo único. Poderão ser autorizados por simples despacho dos Ministros das Obras Públicas e da Educação Nacional, sempre que o reconheçam conveniente, ajustamentos na composição do programa de novos liceus, constante do mapa anexo ao [Decreto-Lei n.º 41572](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41572-1958-305041), de 28 de Março de 1958, de que não resulte redução do número total de unidades a construir nem aumento do limite de despesa fixado no artigo 1.º do referido diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

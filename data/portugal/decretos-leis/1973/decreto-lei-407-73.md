@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1973-419579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee49f783da0fe1c7c68f8b497029c7fab0c56dd90b9d38b3ade14e2b4a1ab726
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64b86c9164fa248d94e83716ed519d7bbcc5f0d4a9b9ffd0315fda09646ba683
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diuturnidades
+- Escola de Instrutores de Educação Física
+- Lisboa
+- Pessoal Docente
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:214066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684231:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:58Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +110,9 @@ Tornando-se necessário introduzir algumas alterações no [Decreto-Lei n.º 492
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 6.º e 9.º do [Decreto-Lei n.º 49233](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49233-1969-214066), de 11 de Setembro de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 6.º e 9.º do [Decreto-Lei n.º 49233](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49233-1969-214066), de 11 de Setembro de 1969, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. Os cargos de director e subdirector serão providos por escolha do Ministro da Educação Nacional de entre os professores ordinários ou auxiliares da respectiva escola, podendo ainda a nomeação do director recair em professores efectivos dos estabelecimentos públicos do ensino secundário ou do ciclo preparatório.
 
@@ -99,7 +120,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Aplicam-se aos directores e subdirectores das escolas de instrutores de educação física as disposições do artigo 2.º, n.º 1, artigo 3.º, artigo 6.º, n.os 1 e 2, e artigo 7.º do [Decreto-Lei n.º 102/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1973-684231), de 13 de Março.
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. Aos professores ordinários e auxiliares é reconhecido o direito às diuturnidades estabelecidas para os professores ordinários e auxiliares dos institutos industriais, sem prejuízo da obrigatoriedade do tempo de leccionação que constar do regulamento das escolas.
 
@@ -109,7 +130,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Na mesma portaria se fixarão as remunerações, salvo se decorrerem das categorias legais existentes, bem como as unidades do pessoal docente, técnico, administrativo e menor.
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. ...
 
@@ -123,18 +144,18 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 9.º - 1. Pode também ser admitido em regime de comissão de serviço o pessoal docente, por períodos de três anos prorrogáveis, e o pessoal técnico, administrativo e auxiliar, ao qual é aplicável o disposto no artigo 1.º do [Decreto-Lei n.º 47393](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47393-1966-478007), de 20 de Dezembro de 1966.
+Art. 9.º - 1. Pode também ser admitido em regime de comissão de serviço o pessoal docente, por períodos de três anos prorrogáveis, e o pessoal técnico, administrativo e auxiliar, ao qual é aplicável o disposto no artigo 1.º do [Decreto-Lei n.º 47393](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47393-1966-478007), de 20 de Dezembro de 1966.
 
 2. ...
 
 3. ...
 
-###### Art. 2.º Consideram-se regularizadas as remunerações dos professores extraordinários feitas até à data por conveniência urgente de serviço, bem como os respectivos abonos, ao abrigo do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, referentes a diplomas que não tenham sido visados pelo Tribunal de Contas.
+Art. 2.º Consideram-se regularizadas as remunerações dos professores extraordinários feitas até à data por conveniência urgente de serviço, bem como os respectivos abonos, ao abrigo do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, referentes a diplomas que não tenham sido visados pelo Tribunal de Contas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 8 de Agosto de 1973.**
+Promulgado em 8 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

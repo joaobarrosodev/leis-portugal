@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1977-250826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcda643b48ab0ccb9c884064ab4e6d8a8658ac201dce6aac01b7ec5741fbc7e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ff7dca366eb77d37e1e68dd1123050d9112561356974af913018bc529e8924b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- Caixa Nacional de Pensões
+- Câmara dos Despachantes Oficiais
+- Integração de Serviços
+relationships:
+- type: cites
+  target: pt:dre:140288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679858:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:34Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +115,17 @@ Nestes termos, ao abrigo do disposto no n.º 6 da base III e no n.º 1 da base X
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Caixa de Previdência da Câmara dos Despachantes Oficiais, criada pelo [Decreto-Lei n.º 39959](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39959-1954-679858), de 9 de Dezembro de 1954, é dissolvida por fusão com a Caixa Nacional de Pensões.
+Artigo 1.º A Caixa de Previdência da Câmara dos Despachantes Oficiais, criada pelo [Decreto-Lei n.º 39959](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39959-1954-679858), de 9 de Dezembro de 1954, é dissolvida por fusão com a Caixa Nacional de Pensões.
 
-###### Art. 2.º Os beneficiários daquela instituição ficam obrigatoriamente abrangidos pelo regime estabelecido na [Portaria n.º 115/77](https://diariodarepublica.pt/dr/detalhe/portaria/115-1977-140288), de 9 de Março, com efeitos a partir da data da entrada em vigor do presente decreto-lei, deixando de ser devidas contribuições à primeira Caixa a partir da mesma data.
+Art. 2.º Os beneficiários daquela instituição ficam obrigatoriamente abrangidos pelo regime estabelecido na [Portaria n.º 115/77](https://diariodarepublica.pt/dr/detalhe/portaria/115-1977-140288), de 9 de Março, com efeitos a partir da data da entrada em vigor do presente decreto-lei, deixando de ser devidas contribuições à primeira Caixa a partir da mesma data.
 
-###### Art. 3.º São transferidos para a Caixa Nacional de Pensões o activo e o passivo da Caixa de Previdência da Câmara dos Despachantes Oficiais.
+Art. 3.º São transferidos para a Caixa Nacional de Pensões o activo e o passivo da Caixa de Previdência da Câmara dos Despachantes Oficiais.
 
-###### Art. 4.º É criado na Caixa Nacional de Pensões um fundo especial, com o valor inicial igual ao activo líquido transferido, diminuído do saldo do fundo de conservação de propriedades e das importâncias correspondentes às quotas e taxas respeitantes aos beneficiários a que se refere o artigo 8.º
+Art. 4.º É criado na Caixa Nacional de Pensões um fundo especial, com o valor inicial igual ao activo líquido transferido, diminuído do saldo do fundo de conservação de propriedades e das importâncias correspondentes às quotas e taxas respeitantes aos beneficiários a que se refere o artigo 8.º
 
-###### Art. 5.º Aos pensionistas existentes, inclusive os do fundo de assistência, é mantido o direito ao recebimento das pensões que lhes estão sendo pagas, incluindo o 13.º mês.
+Art. 5.º Aos pensionistas existentes, inclusive os do fundo de assistência, é mantido o direito ao recebimento das pensões que lhes estão sendo pagas, incluindo o 13.º mês.
 
-###### Art. 6.º Aos beneficiários admitidos anteriormente a 1974 na Caixa de Previdência da Câmara dos Despachantes Oficiais é reconhecido o direito:
+Art. 6.º Aos beneficiários admitidos anteriormente a 1974 na Caixa de Previdência da Câmara dos Despachantes Oficiais é reconhecido o direito:
 
 a) A receberem, a partir da data em que completarem 70 anos de idade, uma pensão mensal, incluindo o 13.º mês, de quantitativo igual a 5000$00, 3500$00 ou 2500$00, conforme se encontrem inscritos, respectivamente, na classe A, B ou C, cumulável com qualquer pensão a que, porventura, tenham direito pela sua inscrição na Caixa Nacional de Pensões;
 
@@ -113,20 +133,20 @@ b) A legarem um complemento do subsídio por morte a que houver lugar pela inscr
 
 c) À restituição de todas as quotizações pagas facultativamente para efeitos de pensões e subsídios por morte complementares.
 
-###### Art. 7.º As despesas resultantes da aplicação do disposto nos artigos 5.º e 6.º constituem encargos do fundo especial a que se refere o artigo 4.º
+Art. 7.º As despesas resultantes da aplicação do disposto nos artigos 5.º e 6.º constituem encargos do fundo especial a que se refere o artigo 4.º
 
-###### Art. 8.º Aos beneficiários admitidos na Caixa de Previdência da Câmara dos Despachantes Oficiais posteriormente a 31 de Dezembro de 1973 é contado o tempo de contribuição para aquela Caixa como equivalente a tempo de contribuição para o regime geral da Caixa Nacional de Pensões, considerando-se as respectivas quotizações e importâncias das taxas provenientes de despachos como contribuições no regime de continuação voluntária do pagamento de contribuições nas modalidades de benefícios diferidos, fazendo corresponder-lhes salários à taxa de 9%.
+Art. 8.º Aos beneficiários admitidos na Caixa de Previdência da Câmara dos Despachantes Oficiais posteriormente a 31 de Dezembro de 1973 é contado o tempo de contribuição para aquela Caixa como equivalente a tempo de contribuição para o regime geral da Caixa Nacional de Pensões, considerando-se as respectivas quotizações e importâncias das taxas provenientes de despachos como contribuições no regime de continuação voluntária do pagamento de contribuições nas modalidades de benefícios diferidos, fazendo corresponder-lhes salários à taxa de 9%.
 
-###### Art. 9.º Para efeitos de contabilização das contribuições referidas no artigo anterior, considerar-se-á a distribuição da taxa estabelecida no n.º 1 da norma XXXVI da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, acrescida da parcela de 3% para pensões de sobrevivência.
+Art. 9.º Para efeitos de contabilização das contribuições referidas no artigo anterior, considerar-se-á a distribuição da taxa estabelecida no n.º 1 da norma XXXVI da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, acrescida da parcela de 3% para pensões de sobrevivência.
 
-###### Art. 10.º As dúvidas a que a execução deste diploma der lugar serão resolvidas por despacho do Secretário de Estado da Segurança Social.
+Art. 10.º As dúvidas a que a execução deste diploma der lugar serão resolvidas por despacho do Secretário de Estado da Segurança Social.
 
-###### Art. 11.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 6 de Julho de 1977.**
+Promulgado em 6 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

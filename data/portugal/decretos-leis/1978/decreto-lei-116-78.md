@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/12300/09450949.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1978-294532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aaeee946b6c2f8774886198e56db9bfd81ac3fef3bf6bf1e6a287bbd910521b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13641a44f1265d3825566187e9b66b248d248a046a1d5cc7b3ff8dae28c6f817
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Curso de Formação
+- GNR
+- Militar
+- Promoção Profissional
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:304773:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:630668:por
+  label: "Revogado pelo DEC LEI.465/83.31.12.1983.MAI, DR.IS [301]4ºSupl de 31.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/465-1983-630668
+  date: '1983-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:46Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +123,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Hierarquia e funções
 
-###### Artigo 1.º Todos os sargentos da Guarda Nacional Republicana (GNR) são dos quadros permanentes, porque, tendo escolhido voluntariamente a respectiva carreira e adquirido preparação especial para o seu exercício, servem no referido corpo especial de tropas com carácter de permanência.
+Artigo 1.º Todos os sargentos da Guarda Nacional Republicana (GNR) são dos quadros permanentes, porque, tendo escolhido voluntariamente a respectiva carreira e adquirido preparação especial para o seu exercício, servem no referido corpo especial de tropas com carácter de permanência.
 
-###### Art. 2.º - 1 - Na GNR, os sargentos distribuem-se hierarquicamente pelos seguintes postos:
+Art. 2.º - 1 - Na GNR, os sargentos distribuem-se hierarquicamente pelos seguintes postos:
 
 Sargento-mor;
 
@@ -116,7 +139,7 @@ Segundo-sargento.
 
 2 - É igualmente criado o posto de furriel, hierarquicamente situado abaixo do posto de segundo-sargento, categoria a que é equiparado exclusivamente para efeitos de continências e honras militares.
 
-###### Art. 3.º - 1 - Aos sargentos da GNR compete desempenhar funções de comando, de chefia, de instrução, de carácter administrativo-logístico e ainda as de natureza especializada, em conformidade com os respectivos postos, qualificações técnicas e capacidades pessoais.
+Art. 3.º - 1 - Aos sargentos da GNR compete desempenhar funções de comando, de chefia, de instrução, de carácter administrativo-logístico e ainda as de natureza especializada, em conformidade com os respectivos postos, qualificações técnicas e capacidades pessoais.
 
 2 - As funções dos sargentos da GNR são, fundamentalmente, as seguintes:
 
@@ -130,15 +153,15 @@ d) Primeiro-sargento e segundo-sargento. - Comando de postos rurais; comando de 
 
 e) Furriel. - Comandante de postos rurais; adjunto do comandante dos escalões desde posto rural até secção rural, e exercício de funções nos órgãos de serviços técnicos, administrativos e logísticos.
 
-###### Art. 4.º Aos sargentos da GNR deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à adequada preparação para o seu posto e para o posto imediato.
+Art. 4.º Aos sargentos da GNR deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à adequada preparação para o seu posto e para o posto imediato.
 
-###### Art. 5.º - 1 - Os sargentos da GNR não podem ser nomeados para desempenharem funções que correspondam a posto inferior àquele a que tenham ascendido.
+Art. 5.º - 1 - Os sargentos da GNR não podem ser nomeados para desempenharem funções que correspondam a posto inferior àquele a que tenham ascendido.
 
 2 - Os sargentos da GNR que desempenharem funções de posto superior ao seu, quando no exercício das mesmas são considerados com autoridade correspondente a esse posto.
 
 ### CAPÍTULO II — Quadros
 
-###### Art. 6.º - 1 - Os sargentos da GNR na situação de activo distribuem-se por quadro de armas e serviços, nos quais são inscritos por postos e por ordem de antiguidade.
+Art. 6.º - 1 - Os sargentos da GNR na situação de activo distribuem-se por quadro de armas e serviços, nos quais são inscritos por postos e por ordem de antiguidade.
 
 2 - Os quadros e respectivos efectivos são os constantes de diplomas legais próprios.
 
@@ -146,7 +169,7 @@ e) Furriel. - Comandante de postos rurais; adjunto do comandante dos escalões d
 
 4 - Sem prejuízo do enunciado no n.º 3, os quadros são constituídos de forma a assegurar o necessário equilíbrio no acesso aos mesmos postos das diferentes armas e serviços.
 
-###### Art. 7.º O ingresso nos quadros de sargentos na situação de activo faz-se pela forma seguinte:
+Art. 7.º O ingresso nos quadros de sargentos na situação de activo faz-se pela forma seguinte:
 
 a) Para os furriéis e praças com o curso de formação de sargentos: independentemente de vacatura, imediatamente após terem terminado, com aproveitamento, os respectivos cursos, cuja classificação determinará o seu ordenamento na escala de antiguidades;
 
@@ -154,15 +177,15 @@ b) Para os furriéis e praças promovidas por distinção: independentemente de 
 
 ### CAPÍTULO III — Promoções
 
-###### Art. 8.º - 1 - Os sargentos da GNR ascendem aos postos referidos no artigo 2.º por promoção.
+Art. 8.º - 1 - Os sargentos da GNR ascendem aos postos referidos no artigo 2.º por promoção.
 
 2 - Os mesmos sargentos podem ser graduados em postos superiores àqueles a que ascenderam por promoção, nos termos da legislação vigente.
 
-###### Art. 9.º - 1 - A promoção dos sargentos da GNR realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 2.º
+Art. 9.º - 1 - A promoção dos sargentos da GNR realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 2.º
 
 2 - A promoção por distinção pode, em casos muito excepcionais, realizar-se a posto superior ao posto imediato do sargento a promover.
 
-###### Art. 10.º - 1 - Para serem promovidos, os sargentos da GNR têm de satisfazer às condições de promoção, tendo apenas em conta as excepções previstas neste diploma.
+Art. 10.º - 1 - Para serem promovidos, os sargentos da GNR têm de satisfazer às condições de promoção, tendo apenas em conta as excepções previstas neste diploma.
 
 2 - As condições de promoção dividem-se em:
 
@@ -170,7 +193,7 @@ a) Condições gerais: comuns a todos os quadros e postos;
 
 b) Condições especiais: próprias de cada quadro e posto.
 
-###### Art. 11.º As condições gerais de promoção dos sargentos da GNR são as seguintes:
+Art. 11.º As condições gerais de promoção dos sargentos da GNR são as seguintes:
 
 1.º Bom comportamento militar e civil e espírito militar;
 
@@ -178,27 +201,27 @@ b) Condições especiais: próprias de cada quadro e posto.
 
 3.º Qualidades pessoais, intelectuais e profissionais necessárias para o desempenho das funções do posto imediato.
 
-###### Art. 12.º É condição especial de promoção ao posto de furriel a aprovação na primeira parte (parte geral) do curso de formação de sargentos.
+Art. 12.º É condição especial de promoção ao posto de furriel a aprovação na primeira parte (parte geral) do curso de formação de sargentos.
 
-###### Art. 13.º É condição especial de promoção ao posto de segundo-sargento a aprovação no curso de formação de sargentos.
+Art. 13.º É condição especial de promoção ao posto de segundo-sargento a aprovação no curso de formação de sargentos.
 
-###### Art. 14.º As condições especiais de promoção ao posto de primeiro-sargento são as seguintes:
+Art. 14.º As condições especiais de promoção ao posto de primeiro-sargento são as seguintes:
 
 a) Possuir o curso geral dos liceus ou curso legalmente equivalente;
 
 b) Ter três anos de serviço efectivo a partir da promoção a segundo-sargento.
 
-###### Art. 15.º As condições especiais de promoção ao posto de sargento-ajudante são as seguintes:
+Art. 15.º As condições especiais de promoção ao posto de sargento-ajudante são as seguintes:
 
 a) Aprovação no curso de promoção a sargento-ajudante;
 
 b) Ter, no mínimo, quatro anos de serviço efectivo a partir da promoção a primeiro-sargento.
 
-###### Art. 16.º É condição especial de promoção ao posto de sargento-chefe ter, no mínimo, dois anos de serviço efectivo a partir da promoção a sargento-ajudante.
+Art. 16.º É condição especial de promoção ao posto de sargento-chefe ter, no mínimo, dois anos de serviço efectivo a partir da promoção a sargento-ajudante.
 
-###### Art. 17.º É condição especial de promoção ao posto de sargento-mor ter, no mínimo, um ano de serviço efectivo a partir da promoção a sargento-chefe.
+Art. 17.º É condição especial de promoção ao posto de sargento-mor ter, no mínimo, um ano de serviço efectivo a partir da promoção a sargento-chefe.
 
-###### Art. 18.º Os sargentos da GNR podem ser promovidos:
+Art. 18.º Os sargentos da GNR podem ser promovidos:
 
 a) Por diuturnidade, que consiste no acesso automático ao posto imediato, decorrido o período de permanência fixado e satisfeitas as demais condições de promoção, mantendo-se no novo posto a antiguidade relativa ao posto anterior, salvo os casos de preterição;
 
@@ -210,21 +233,21 @@ d) Por distinção, que consiste na promoção, independentemente da posição q
 
 e) A título excepcional, em conformidade com a legislação em vigor.
 
-###### Art. 19.º A promoção dos segundos-sargentos ao posto de primeiro-sargento é por diuturnidade.
+Art. 19.º A promoção dos segundos-sargentos ao posto de primeiro-sargento é por diuturnidade.
 
-###### Art. 20.º A promoção dos primeiros-sargentos ao posto de sargento-ajudante é por antiguidade, depois de reformulada a respectiva escala segundo critério a definir por portaria.
+Art. 20.º A promoção dos primeiros-sargentos ao posto de sargento-ajudante é por antiguidade, depois de reformulada a respectiva escala segundo critério a definir por portaria.
 
-###### Art. 21.º A promoção dos sargentos-ajudantes ao posto de sargento-chefe é por escolha e antiguidade, segundo critério a definir por portaria.
+Art. 21.º A promoção dos sargentos-ajudantes ao posto de sargento-chefe é por escolha e antiguidade, segundo critério a definir por portaria.
 
-###### Art. 22.º A promoção dos sargentos-chefes ao posto de sargento-mor é por escolha.
+Art. 22.º A promoção dos sargentos-chefes ao posto de sargento-mor é por escolha.
 
-###### Art. 23.º - 1 - As promoções por diuturnidade, por distinção e a título excepcional não dependem de vacatura nos quadros.
+Art. 23.º - 1 - As promoções por diuturnidade, por distinção e a título excepcional não dependem de vacatura nos quadros.
 
 2 - As promoções por antiguidade e por escolha só podem ter lugar para preenchimento de vacatura nos quadros.
 
 3 - O disposto no n.º 2 não é aplicável aos sargentos que, por motivo de mudança de quadro ou antecipação da antiguidade legal, devam ocupar uma posição na escala de antiguidade que imponha a sua promoção.
 
-###### Art. 24.º Os sargentos da GNR ingressarão nos quadros de oficiais dos QP do Exército:
+Art. 24.º Os sargentos da GNR ingressarão nos quadros de oficiais dos QP do Exército:
 
 a) Após aprovação nos cursos ministrados na Academia Militar;
 
@@ -234,7 +257,7 @@ c) Por distinção.
 
 ### CAPÍTULO IV — Tirocínios, estágios e cursos
 
-###### Art. 25.º Para o ingresso e no decurso da sua carreira militar os sargentos da GNR deverão frequentar, nos adequados estabelecimentos de ensino, os seguintes estágios, tirocínios e cursos:
+Art. 25.º Para o ingresso e no decurso da sua carreira militar os sargentos da GNR deverão frequentar, nos adequados estabelecimentos de ensino, os seguintes estágios, tirocínios e cursos:
 
 a) Curso de formação de sargentos;
 
@@ -246,23 +269,23 @@ d) Tirocínios, estágios e cursos de especialização, actualização e valoriz
 
 e) Outros cursos de valorização.
 
-###### Art. 26.º O curso de formação de sargentos consta de duas partes:
+Art. 26.º O curso de formação de sargentos consta de duas partes:
 
 a) Primeira parte (parte geral);
 
 b) Segunda parte (parte especial).
 
-###### Art. 27.º O curso de promoção a sargento-ajudante consta de duas partes:
+Art. 27.º O curso de promoção a sargento-ajudante consta de duas partes:
 
 a) Primeira parte (parte geral);
 
 b) Segunda parte (parte especial).
 
-###### Art. 28.º - 1 - Enquanto a GNR não ministrar cursos para formação e promoção de sargentos, equiparados aos cursos correspondentes ministrados aos sargentos dos quadros permanentes do Exército, os sargentos do referido corpo de tropas frequentarão esses cursos nos respectivos estabelecimentos de ensino do Exército.
+Art. 28.º - 1 - Enquanto a GNR não ministrar cursos para formação e promoção de sargentos, equiparados aos cursos correspondentes ministrados aos sargentos dos quadros permanentes do Exército, os sargentos do referido corpo de tropas frequentarão esses cursos nos respectivos estabelecimentos de ensino do Exército.
 
 2 - Enquanto se mantiver a situação referida no número anterior, os militares da GNR, além da frequência dos cursos nos estabelecimentos de ensino militar do Exército, deverão frequentar cursos ou estágios complementares no Centro de Instrução do Corpo, para valorização profissional no âmbito da missão específica, tendo em atenção o desempenho das funções correspondentes aos diversos postos.
 
-###### Art. 29.º Podem ser admitidos ao curso de formação de sargentos, sendo-lhes facultada, de acordo com as vagas, a opção por qualquer arma ou serviço, independentemente da sua origem, os furriéis e as praças que o requeiram ao comandante-geral, e tal seja deferido, desde que satisfaçam às seguintes condições;
+Art. 29.º Podem ser admitidos ao curso de formação de sargentos, sendo-lhes facultada, de acordo com as vagas, a opção por qualquer arma ou serviço, independentemente da sua origem, os furriéis e as praças que o requeiram ao comandante-geral, e tal seja deferido, desde que satisfaçam às seguintes condições;
 
 a) Ter bom comportamento moral e civil;
 
@@ -276,7 +299,7 @@ e) Ter, no mínimo, o ciclo preparatório do ensino liceal ou equivalente ou o c
 
 f) Ter obtido aproveitamento nas provas de aptidão.
 
-###### Art. 30.º A admissão dos primeiros-sargentos ao curso de promoção a sargento-ajudante é por escolha e antiguidade, segundo critério a definir por portaria, desde que satisfaçam às seguintes condições:
+Art. 30.º A admissão dos primeiros-sargentos ao curso de promoção a sargento-ajudante é por escolha e antiguidade, segundo critério a definir por portaria, desde que satisfaçam às seguintes condições:
 
 a) Possuir boas qualidades militares, intelectuais e morais, informadas pelo comandante da unidade ou estabelecimento militar onde se encontre colocado;
 
@@ -284,19 +307,19 @@ b) Ter prestado, no mínimo, e como primeiro-sargento, um ano de serviço efecti
 
 c) Ter menos de 47 anos de idade referidos a 31 de Dezembro do ano de ingresso no curso.
 
-###### Art. 31.º Enquanto a GNR não estiver em condições de realizar cursos de formação de oficiais equiparados aos correspondentes cursos do Exército, podem ser admitidos ao curso ministrado no Instituto Superior Militar os primeiros-sargentos e os sargentos-ajudantes da GNR que se encontrarem nas condições definidas no artigo 32.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, e demais legislação inerente.
+Art. 31.º Enquanto a GNR não estiver em condições de realizar cursos de formação de oficiais equiparados aos correspondentes cursos do Exército, podem ser admitidos ao curso ministrado no Instituto Superior Militar os primeiros-sargentos e os sargentos-ajudantes da GNR que se encontrarem nas condições definidas no artigo 32.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, e demais legislação inerente.
 
-###### Art. 32.º Podem ser admitidos aos cursos ministrados na Academia Militar os sargentos da GNR que satisfaçam às condições de admissão estabelecidas no respectivo regulamento.
+Art. 32.º Podem ser admitidos aos cursos ministrados na Academia Militar os sargentos da GNR que satisfaçam às condições de admissão estabelecidas no respectivo regulamento.
 
-###### Art. 33.º O número de instruendos da GNR a admitir em cada ano aos cursos ministrados nos respectivos estabelecimentos de ensino do Exército será fixado, anualmente, por despacho do Chefe do Estado-Maior do Exército até seis meses antes do seu início, conforme o disposto nos artigos 31.º deste diploma e 35.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
+Art. 33.º O número de instruendos da GNR a admitir em cada ano aos cursos ministrados nos respectivos estabelecimentos de ensino do Exército será fixado, anualmente, por despacho do Chefe do Estado-Maior do Exército até seis meses antes do seu início, conforme o disposto nos artigos 31.º deste diploma e 35.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
 
-###### Art. 34.º Serão excluídos definitivamente do curso de formação de sargentos:
+Art. 34.º Serão excluídos definitivamente do curso de formação de sargentos:
 
 a) Os candidatos que reprovem duas vezes nas respectivas provas de aptidão;
 
 b) Os instruendos que percam dois anos por desistência e ou reprovação.
 
-###### Art. 35.º Serão excluídos definitivamente do curso de promoção a sargento-ajudante os primeiros-sargentos que:
+Art. 35.º Serão excluídos definitivamente do curso de promoção a sargento-ajudante os primeiros-sargentos que:
 
 a) Após nomeação, desistam duas vezes do ingresso no mesmo;
 
@@ -304,7 +327,7 @@ b) Após ingresso no mesmo, percam dois anos por desistência e ou reprovação.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 36.º - 1 - No ano lectivo de 1978-1979, a condição especial de promoção ao posto de sargento-ajudante prevista na alínea a) do artigo 15.º do presente diploma poderá ser substituída por aprovação em provas de aptidão a definir por despacho do Ministro da Administração Interna, sob proposta do comandante-geral, na qual serão ponderadas as normas pertinentes aprovadas para o Exército e as exigências específicas da missão da GNR.
+Art. 36.º - 1 - No ano lectivo de 1978-1979, a condição especial de promoção ao posto de sargento-ajudante prevista na alínea a) do artigo 15.º do presente diploma poderá ser substituída por aprovação em provas de aptidão a definir por despacho do Ministro da Administração Interna, sob proposta do comandante-geral, na qual serão ponderadas as normas pertinentes aprovadas para o Exército e as exigências específicas da missão da GNR.
 
 2 - A nomeação dos primeiros-sargentos para a prestação das provas de aptidão referidas no número anterior é por antiguidade, desde que os mesmos satisfaçam às condições indicadas nas alíneas a) e b) do artigo 30.º do presente diploma.
 
@@ -312,7 +335,7 @@ b) Após ingresso no mesmo, percam dois anos por desistência e ou reprovação.
 
 4 - Serão excluídos definitivamente das provas de aptidão referidas no n.º 1 do presente artigo os primeiros-sargentos que por duas vezes desistam das mesmas ou nelas sejam classificados de inaptos.
 
-###### Art. 37.º - 1 - As condições especiais de promoção ao posto de sargento-chefe, para os sargentos-ajudantes que não possuam o curso de promoção previsto no artigo 27.º do presente diploma, são as seguintes:
+Art. 37.º - 1 - As condições especiais de promoção ao posto de sargento-chefe, para os sargentos-ajudantes que não possuam o curso de promoção previsto no artigo 27.º do presente diploma, são as seguintes:
 
 a) Ter, no mínimo, um ano de serviço efectivo a partir da promoção a sargento-ajudante;
 
@@ -326,26 +349,26 @@ b) Aprovação no curso de promoção a sargento-chefe.
 
 5 - Os sargentos-ajudantes que após nomeação ou ingresso no curso de promoção a sargento-chefe reprovarem ou desistirem serão segunda vez nomeados para este curso, ficando excluídos definitivamente se declararem não o desejar frequentar ou se, após a nomeação, dele desistirem ou reprovarem.
 
-###### Art. 38.º Até ao ano lectivo de 1984-1985, inclusive, podem ser admitidos ao curso ministrado no Instituto Superior Militar primeiros-sargentos e sargentos-ajudantes com menos de 46 anos de idade referidos a 31 de Dezembro do ano de admissão ao curso e com dispensa da condição referida na alínea a) do n.º 2 do artigo 32.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
+Art. 38.º Até ao ano lectivo de 1984-1985, inclusive, podem ser admitidos ao curso ministrado no Instituto Superior Militar primeiros-sargentos e sargentos-ajudantes com menos de 46 anos de idade referidos a 31 de Dezembro do ano de admissão ao curso e com dispensa da condição referida na alínea a) do n.º 2 do artigo 32.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
 
-###### Art. 39.º Os actuais cabos da GNR aprovados no curso de promoção a sargento e não promovidos por falta de vaga, bem como os aprovados no concurso para segundo-sargento e não promovidos por caducidade do respectivo concurso, serão promovidos ao posto de segundo-sargento na data da publicação do presente diploma, independentemente da satisfação de quaisquer condições especiais de promoção.
+Art. 39.º Os actuais cabos da GNR aprovados no curso de promoção a sargento e não promovidos por falta de vaga, bem como os aprovados no concurso para segundo-sargento e não promovidos por caducidade do respectivo concurso, serão promovidos ao posto de segundo-sargento na data da publicação do presente diploma, independentemente da satisfação de quaisquer condições especiais de promoção.
 
-###### Art. 40.º Os actuais primeiros-sargentos promovidos a este posto por concurso serão promovidos ao posto de sargento-ajudante, na data da publicação do presente diploma, independentemente da satisfação de quaisquer condições especiais de promoção.
+Art. 40.º Os actuais primeiros-sargentos promovidos a este posto por concurso serão promovidos ao posto de sargento-ajudante, na data da publicação do presente diploma, independentemente da satisfação de quaisquer condições especiais de promoção.
 
-###### Art. 41.º Aos actuais segundos-sargentos não será exigida a condição especial de promoção ao posto de primeiro-sargento referida na alínea a) do artigo 14.º do presente diploma.
+Art. 41.º Aos actuais segundos-sargentos não será exigida a condição especial de promoção ao posto de primeiro-sargento referida na alínea a) do artigo 14.º do presente diploma.
 
-###### Art. 42.º Até ao ano lectivo de 1984-1985, inclusive, podem ser admitidos ao curso de formação de sargentos os furriéis e as praças que o requeiram nos termos do artigo 29.º do presente diploma, com dispensa das condições referidas nas alíneas c) e e) do mesmo artigo.
+Art. 42.º Até ao ano lectivo de 1984-1985, inclusive, podem ser admitidos ao curso de formação de sargentos os furriéis e as praças que o requeiram nos termos do artigo 29.º do presente diploma, com dispensa das condições referidas nas alíneas c) e e) do mesmo artigo.
 
-###### Art. 43.º Ficam revogados os artigos 12.º, 24.º, 26.º e 27.º do [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 20/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1973-683631), de 19 de Janeiro, bem como o artigo 2.º deste diploma legal e demais legislação e determinações que contrariam o presente decreto-lei.
+Art. 43.º Ficam revogados os artigos 12.º, 24.º, 26.º e 27.º do [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 20/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1973-683631), de 19 de Janeiro, bem como o artigo 2.º deste diploma legal e demais legislação e determinações que contrariam o presente decreto-lei.
 
-###### Art. 44.º Todas as questões respeitantes à carreira dos sargentos da GNR que não puderem ser resolvidas pelo texto ou pelo espírito deste decreto-lei, nem pelos casos análogos nele previstos, serão decididas pela legislação relativa à carreira dos sargentos do quadro permanente do Exército.
+Art. 44.º Todas as questões respeitantes à carreira dos sargentos da GNR que não puderem ser resolvidas pelo texto ou pelo espírito deste decreto-lei, nem pelos casos análogos nele previstos, serão decididas pela legislação relativa à carreira dos sargentos do quadro permanente do Exército.
 
-###### Art. 45.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho interpretativo do Ministro da Administração Interna.
+Art. 45.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho interpretativo do Ministro da Administração Interna.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Jaime José Matos da Gama.
 
-**Promulgado em 17 de Maio de 1978.**
+Promulgado em 17 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

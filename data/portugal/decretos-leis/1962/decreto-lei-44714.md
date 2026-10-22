@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44714-1962-155803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 488ae891049abec2f138dbf7030b3d4224dc555cfe1375fb8664c8ef66319b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14ec8faf8cd960fd9ae6d977be728be66ab133b03bc227ab5e71c9ccb74fb5e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arborização
+- Baldio
+- Exploração Florestal
+- Ilha do Corvo
+- Ordenamento do Território
+- Regime Florestal
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:365973:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:05Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +102,11 @@ Atendendo ao parecer favorável do Conselho Técnico dos Serviços Florestais;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São submetidos, por utilidade pública, ao regime florestal parcial obrigatório os baldios municipais situados nos limites da freguesia do Corvo, concelho do Corvo, do distrito da Horta.
+Artigo 1.º São submetidos, por utilidade pública, ao regime florestal parcial obrigatório os baldios municipais situados nos limites da freguesia do Corvo, concelho do Corvo, do distrito da Horta.
 
-###### Art. 2 º A arborização e exploração destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos, entre este e a Câmara Municipal, será feita proporcionalmente às despesas custeadas pelo Estado e ao valor médio atribuído ao terreno, de 4500$00 por hectare.
+Art. 2 º A arborização e exploração destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos, entre este e a Câmara Municipal, será feita proporcionalmente às despesas custeadas pelo Estado e ao valor médio atribuído ao terreno, de 4500$00 por hectare.
 
-###### Art. 3.º Aos povos limítrofes é reconhecido, dentro deste perímetro florestal, sem prejuízo dos trabalhos que se efectuarem e segundo as prescrições a estabelecer, o direito de:
+Art. 3.º Aos povos limítrofes é reconhecido, dentro deste perímetro florestal, sem prejuízo dos trabalhos que se efectuarem e segundo as prescrições a estabelecer, o direito de:
 
 a) Apascentação de gados;
 
@@ -109,16 +120,16 @@ e) Aproveitamento das águas para o respectivo abastecimento, sem prejuízo das 
 
 f) Utilização de serventias indispensáveis ao trânsito de pessoas, veículos e gados nos caminhos existentes, cujo traçado, no entanto, poderá ser alterado conforme se julgar conveniente.
 
-###### Art. 4.º Com vista a dar continuidade ao perímetro e à rectificação das suas estremas, deverão os serviços florestais promover a eliminação dos prédios particulares que existam encravados no perímetro, podendo para esse efeito:
+Art. 4.º Com vista a dar continuidade ao perímetro e à rectificação das suas estremas, deverão os serviços florestais promover a eliminação dos prédios particulares que existam encravados no perímetro, podendo para esse efeito:
 
 a) Propor ao respectivo corpo administrativo a sua troca, que se realizará com dispensa das formalidades prescritas no Código Administrativo, por terrenos baldios situados na periferia do perímetro;
 
 b) Adquiri-los por compra ou expropriação, só podendo esta efectuar-se quando se não chegue a acordo quanto à sua aquisição por compra ou troca.
 
-###### Art. 5.º Estes baldios ficam constituindo o perímetro florestal do Corvo.
+Art. 5.º Estes baldios ficam constituindo o perímetro florestal do Corvo.
 
-###### Art. 6.º Os trabalhos a executar neste perímetro serão efectuados de acordo com os projectos a submeter a apreciação superior e em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
+Art. 6.º Os trabalhos a executar neste perímetro serão efectuados de acordo com os projectos a submeter a apreciação superior e em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

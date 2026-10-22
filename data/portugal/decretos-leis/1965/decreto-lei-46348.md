@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46348-1965-294969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3648a7029010019a152eba9f4f4ceec89090e72846bc2131726efa89be3ac636
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d17ac024ef14a2d31ac66d2fda2969afcab1764aec9b63d469fa7f31872c7761
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arqueologia
+- Belas-artes
+- Biblioteca
+- Conselho Permanente da Acção Educativa
+- Definição de Competências
+- Ensino Liceal
+- Ensino Primário
+- Ensino Superior
+- Ensino Técnico Profissional
+- Junta Nacional de Educação
+- Ministério da Educação Nacional
+- Orgânica
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:141653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216350:por
+  label: "Dada nova redacção aos arts. 3.º e 4.º pelo DEC LEI.49458.24.12.1969.MEN, DG.IS [299] de 24.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49458-1969-216350
+  date: '1969-12-24'
+- type: amended_by
+  target: pt:dre:446892:por
+  label: "Alterado o § 6.º do art. 3º (na redacção do Dec Lei 49458, de 24-Dez de 1969) do presente diploma, pelo DEC LEI.47/71.20.02.1971.MEN,\
+    \ DG.IS [43] de 20.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1971-446892
+  date: '1971-02-20'
+- type: amended_by
+  target: pt:dre:141653:por
+  label: "Extinta a Junta Nacional da Educação, regulamentada pelo presente diploma, pelo DEC LEI.70/77.25.02.1977.PCM, DR.IS\
+    \ [47] de 25.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1977-141653
+  date: '1977-02-25'
+- type: cites
+  target: pt:dre:538229:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:508261:por
+  label: "Rectificado pela RECT.DD579.27.12.1965.PC, DG.IS [292] de 27.12.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-508261
+  date: '1965-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:23Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +138,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Junta Nacional da Educação é um órgão técnico e consultivo que funciona junto do Ministro da Educação Nacional e tem por fim estudar problemas relativos ao ensino e à educação e sobre eles emitir parecer.
+Artigo 1.º A Junta Nacional da Educação é um órgão técnico e consultivo que funciona junto do Ministro da Educação Nacional e tem por fim estudar problemas relativos ao ensino e à educação e sobre eles emitir parecer.
 
-###### Art. 2.º A Junta é constituída pelo Conselho Permanente da Acção Educativa e pelas seguintes secções:
+Art. 2.º A Junta é constituída pelo Conselho Permanente da Acção Educativa e pelas seguintes secções:
 
 1.ª Ensino superior;
 
@@ -139,7 +178,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.ª Ensino comercial.
 
-###### Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo regimento.
+Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo regimento.
 
 § 1.º O presidente é nomeado pelo Ministro de entre pessoas que tenham dado relevantes provas de interesse pelos problemas da educação nacional, podendo, quando professor, ser dispensado do exercício das funções docentes.
 
@@ -151,9 +190,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º As nomeações para vacaturas que ocorrerem no decurso do triénio entendem-se feitas até ao termo deste.
 
-###### Art. 4.º O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta, pelos presidentes das secções desta e pelo inspector superior do Ensino Particular.
+Art. 4.º O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta, pelos presidentes das secções desta e pelo inspector superior do Ensino Particular.
 
-###### Art. 5.º As secções são presididas:
+Art. 5.º As secções são presididas:
 
 a) A 1.ª, a 2.ª e a 3.º pelo director-geral do Ensino Superior e das Belas-Artes;
 
@@ -167,9 +206,9 @@ e) A 7.ª pelo director-geral da Educação Física, Desportos e Saúde Escolar;
 
 f) A 8.ª por pessoa nomeada pelo Ministro.
 
-###### Art. 6.º Com autorização do Ministro podem ser agregadas temporàriamente ao Conselho Permanente da Acção Educativa ou a qualquer das secções ou subsecções, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito de voto nesses assuntos.
+Art. 6.º Com autorização do Ministro podem ser agregadas temporàriamente ao Conselho Permanente da Acção Educativa ou a qualquer das secções ou subsecções, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito de voto nesses assuntos.
 
-###### Art. 7.º Compete à Junta Nacional da Educação pronunciar-se sobre os assuntos que lhe sejam apresentados por determinação ministerial ou em cumprimento de disposição de lei, dentro da finalidade geral expressa no artigo 1.º
+Art. 7.º Compete à Junta Nacional da Educação pronunciar-se sobre os assuntos que lhe sejam apresentados por determinação ministerial ou em cumprimento de disposição de lei, dentro da finalidade geral expressa no artigo 1.º
 
 § 1.º As consultas feitas à Junta podem dizer respeito tanto a decisões a tomar segundo a legislação vigente como à modificação desta.
 
@@ -177,30 +216,30 @@ f) A 8.ª por pessoa nomeada pelo Ministro.
 
 § 3.º A Junta pode por sua iniciativa, independentemente de determinação ministerial ou legal, formular propostas ou sugestões sobre quaisquer problemas relativos à educação nacional.
 
-###### Art. 8.º O Conselho Permanente da Acção Educativa é o órgão central da Junta e, dentro de uma função coordenadora e consultiva, compete-lhe especialmente assegurar, através da hierarquia, a unidade e continuidade de acção do Ministério e emitir parecer sobre determinados assuntos.
+Art. 8.º O Conselho Permanente da Acção Educativa é o órgão central da Junta e, dentro de uma função coordenadora e consultiva, compete-lhe especialmente assegurar, através da hierarquia, a unidade e continuidade de acção do Ministério e emitir parecer sobre determinados assuntos.
 
-###### Art. 9.º O Conselho, as secções e as subsecções têm as atribuições fixadas no regimento da Junta.
+Art. 9.º O Conselho, as secções e as subsecções têm as atribuições fixadas no regimento da Junta.
 
-###### Art. 10.º A Junta funciona em sessões plenárias, em sessões do Conselho e em sessões de secções ou subsecções.
+Art. 10.º A Junta funciona em sessões plenárias, em sessões do Conselho e em sessões de secções ou subsecções.
 
-###### Art. 11.º O Ministro pode, sempre que o julgue conveniente, comparecer às sessões plenárias, às do Conselho ou às das secções ou subsecções, e nesses caso assumirá a presidência.
+Art. 11.º O Ministro pode, sempre que o julgue conveniente, comparecer às sessões plenárias, às do Conselho ou às das secções ou subsecções, e nesses caso assumirá a presidência.
 
-###### Art. 12.º Os pareceres da Junta emitidos em sessão plenária ou do Conselho serão submetidos a despacho do Ministro pelo presidente ou vice-presidente da Junta e os restantes pelo presidente da respectiva secção.
+Art. 12.º Os pareceres da Junta emitidos em sessão plenária ou do Conselho serão submetidos a despacho do Ministro pelo presidente ou vice-presidente da Junta e os restantes pelo presidente da respectiva secção.
 
-###### Art. 13.º A 2.ª secção poderá ter delegados permanentes nos concelhos, escolhidos de entre pessoas de reconhecida competência que se prestem a auxiliá-la no desempenho das suas atribuições.
+Art. 13.º A 2.ª secção poderá ter delegados permanentes nos concelhos, escolhidos de entre pessoas de reconhecida competência que se prestem a auxiliá-la no desempenho das suas atribuições.
 
 § 1.º Os delegados concelhios serão nomeados pelo Ministro, ouvida a secção.
 
 § 2.º Os directores dos museus de arte, história ou arqueologia pertencentes ao Ministério da Educação Nacional são delegados natos da secção.
 
-###### Art. 14.º O serviço prestado pelos membros, pelos agregados e pelos delegados da Junta que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
+Art. 14.º O serviço prestado pelos membros, pelos agregados e pelos delegados da Junta que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
 
-###### Art. 15.º Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ausentarem do lugar da sua residência serão abonadas despesas de transporte, bem como ajudas de custo, cuja importância será fixada pelos Ministros das Finanças e da Educação Nacional.
+Art. 15.º Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ausentarem do lugar da sua residência serão abonadas despesas de transporte, bem como ajudas de custo, cuja importância será fixada pelos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 16.º Ficam revogadas as disposições do [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, relativas à Junta Nacional da Educação.
+Art. 16.º Ficam revogadas as disposições do [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, relativas à Junta Nacional da Educação.
 
-###### Art. 17.º Em harmonia com os preceitos deste diploma, o Ministro da Educação Nacional publicará o Regimento da Junta Nacional da Educação.
+Art. 17.º Em harmonia com os preceitos deste diploma, o Ministro da Educação Nacional publicará o Regimento da Junta Nacional da Educação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

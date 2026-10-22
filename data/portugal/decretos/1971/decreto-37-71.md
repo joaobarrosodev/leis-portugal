@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/02/04000/01980198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/37-1971-446764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36818b278cd96fe21971ce8d5bd68b4c00340795f5d60619ad9da46cc3fc0b78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f672754f606d5beba8b2fc665e2da7e129558848b9356874ffc9b4493e01062
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,29 @@ relationships:
   target: pt:dre:407087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:407087:por
+  label: "Revogado pelo DEC LEI.24/74.31.01.1974.MI, DG.IS [26] de 31.01.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-1974-407087
+  date: '1974-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:56Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +106,16 @@ Considerando que o artigo 4.º do [Decreto-Lei n.º 49478](https://diariodarepub
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As diuturnidades a vencer pelos oficiais da Guarda Nacional Republicana e da Guarda Fiscal, a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 49478](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49478-1969-213062), de 30 de Dezembro de 1969, são as constantes do quadro seguinte:
+Artigo 1.º As diuturnidades a vencer pelos oficiais da Guarda Nacional Republicana e da Guarda Fiscal, a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 49478](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49478-1969-213062), de 30 de Dezembro de 1969, são as constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/02/04000/01980198.pdf))](https://files.diariodarepublica.pt/1s/1971/02/04000/01980198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/02/04000/01980198.pdf)
 
-###### Art. 2.º As disposições do presente decreto têm efeito a partir de 1 de Janeiro de 1971, devendo os encargos resultantes da sua execução ser suportados pelas disponibilidades das rubricas orçamentais consignadas ao pessoal dos quadros aprovados por lei.
+Art. 2.º As disposições do presente decreto têm efeito a partir de 1 de Janeiro de 1971, devendo os encargos resultantes da sua execução ser suportados pelas disponibilidades das rubricas orçamentais consignadas ao pessoal dos quadros aprovados por lei.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 6 de Fevereiro de 1971.**
+Promulgado em 6 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43086-1960-501827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e03abf817c3d36503bc3140ea5bcdc809d00a0efc795623f174b0bce88643e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c66c4f9da65df826e2e0b9a86d4dc662bc5cf1ce43a019400b611b6cc581ab3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Comissariado do Desemprego
+- Dotação Orçamental
+- Gestão Financeira
+- Obras Públicas
+- Reembolso
+- Subsídio
+- Universidade de Coimbra
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:518222:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518222:por
+  label: "Alteradas as condições do reembolso dos subsídios concedidos pelo Comissariado do Desemprego às Comissões Administrativas\
+    \ das Novas Instalações Universitárias e do Plano de Obras da Cidade Universitária de Coimbra a que se refere o § único\
+    \ do art. 1º pelo DEC LEI.44230.12.03.1962.MOP, DG.IS [55] de 12.03.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44230-1962-518222
+  date: '1962-03-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:01Z'
   warnings: []
   errors: []
 ---
@@ -98,14 +114,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Comissariado do Desemprego a conceder às Comissões Administrativas das Novas Instalações Universitárias e do Plano de Obras da Cidade Universitária de Coimbra subsídios reembolsáveis até aos montantes de 20000000$00 e 10000000$00, respectivamente, para reforço das dotações concedidas pelo Tesouro em 1960 e 1961.
+Artigo 1.º É autorizado o Comissariado do Desemprego a conceder às Comissões Administrativas das Novas Instalações Universitárias e do Plano de Obras da Cidade Universitária de Coimbra subsídios reembolsáveis até aos montantes de 20000000$00 e 10000000$00, respectivamente, para reforço das dotações concedidas pelo Tesouro em 1960 e 1961.
 
 § único. O reembolso destes subsídios será efectuado por força das dotações constantes dos orçamentos dos referidos organismos, da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/17000/17881788.pdf))](https://files.diariodarepublica.pt/1s/1960/07/17000/17881788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/17000/17881788.pdf)
 
-###### Art. 2.º O Comissariado do Desemprego fará entrega das importâncias dos subsídios a que se refere o artigo anterior em face de requisições das respectivas Comissões Administrativas, visadas pelo Ministro das Obras Públicas, à medida do desenvolvimento dos planos de trabalho, sem dependência de outras formalidades.
+Art. 2.º O Comissariado do Desemprego fará entrega das importâncias dos subsídios a que se refere o artigo anterior em face de requisições das respectivas Comissões Administrativas, visadas pelo Ministro das Obras Públicas, à medida do desenvolvimento dos planos de trabalho, sem dependência de outras formalidades.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46156-1965-238985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2945b4b92c926877f2cd8d733b74df7e6ee7ab9b4d871d831ee89e7f879d5179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a840fabad884b6bde3dea93c715562e62ec47450e951c5e87246654b140c433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Biblioteca
+- Conselho Consultivo
+- Definição de Competências
+- Gratificação
+- Ministério da Educação Nacional
+- Presidente
+- Remuneração
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:686834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:686834:por
+  label: "Reorganizado o Gabinete de Estudos e Planeamento da Acção Educativa, e redenominado Gabinete de Estudos e Planeamento,\
+    \ pelo DEC LEI.485/72.02.12.1972.MEN, DG.IS [280] de 02.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1972-686834
+  date: '1972-12-02'
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:238867:por
+  label: "Rectificado o nº5 do art. 15º pela RECT.DD736.23.02.1965.PC, DG.IS [45] de 23.02.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-238867
+  date: '1965-02-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:58Z'
   warnings: []
   errors: []
 ---
@@ -123,21 +151,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado no Ministério da Educação Nacional, na dependência directa do Ministro, o Gabinete de Estudos e Planeamento da Acção Educativa, que tem por função estudar, de forma permanente, os problemas relacionados com a educação e propor as correspondentes soluções, de acordo com a evolução das necessidades do País.
+Artigo 1.º - 1. É criado no Ministério da Educação Nacional, na dependência directa do Ministro, o Gabinete de Estudos e Planeamento da Acção Educativa, que tem por função estudar, de forma permanente, os problemas relacionados com a educação e propor as correspondentes soluções, de acordo com a evolução das necessidades do País.
 
 2. O Gabinete goza de autonomia administrativa e financeira, sem prejuízo da faculdade que assiste ao Ministro de lhe transmitir instruções para a perfeita realização dos seus fins e bom funcionamento dos serviços.
 
-###### Art. 2.º - 1. O Gabinete elaborará os seus estudos de harmonia com os planos de trabalho fixados pelo Ministro e apresentará a este periòdicamente aqueles estudos, acompanhados de relatórios onde preste os necessários esclarecimentos.
+Art. 2.º - 1. O Gabinete elaborará os seus estudos de harmonia com os planos de trabalho fixados pelo Ministro e apresentará a este periòdicamente aqueles estudos, acompanhados de relatórios onde preste os necessários esclarecimentos.
 
 2. O Gabinete deve manter estreito contacto com os outros serviços do Ministério e demais entidades interessadas nos problemas educacionais, dentro de um princípio de coordenação.
 
-###### Art. 3.º - 1. As actividades do Gabinete são orientadas por uma direcção, constituída por um presidente e quatro vogais, todos escolhidos de entre pessoas de reconhecida competência.
+Art. 3.º - 1. As actividades do Gabinete são orientadas por uma direcção, constituída por um presidente e quatro vogais, todos escolhidos de entre pessoas de reconhecida competência.
 
 2. Um dos vogais deve ter especial competência em assuntos de planeamento e outro em assuntos administrativos.
 
-###### Art. 4.º Haverá um conselho consultivo constituído por especialistas em questões relacionadas com a educação.
+Art. 4.º Haverá um conselho consultivo constituído por especialistas em questões relacionadas com a educação.
 
-###### Art. 5.º - 1. Os membros da direcção e do conselho consultivo são nomeados pelo Ministro da Educação Nacional por um período de três anos.
+Art. 5.º - 1. Os membros da direcção e do conselho consultivo são nomeados pelo Ministro da Educação Nacional por um período de três anos.
 
 2. As nomeações são renováveis por iguais períodos; mas o Ministro pode, em qualquer momento, exonerar as pessoas nomeadas.
 
@@ -145,29 +173,29 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O presidente da direcção é substituído, nas suas faltas ou impedimentos, pelo vogal que o Ministro designar para o efeito.
 
-###### Art. 6.º - 1. Os membros da direcção e do conselho consultivo são chamados a exercer as suas funções em tempo pleno ou em tempo parcial, cabendo-lhes na primeira hipótese um vencimento, e podendo na segunda perceber uma gratificação.
+Art. 6.º - 1. Os membros da direcção e do conselho consultivo são chamados a exercer as suas funções em tempo pleno ou em tempo parcial, cabendo-lhes na primeira hipótese um vencimento, e podendo na segunda perceber uma gratificação.
 
 2. Tratando-se de funcionários, consideram-se em regime de comissão, no caso de tempo pleno, mas o vencimento, fixado nos termos do número seguinte, é-lhes pago pelo Gabinete; e em regime de acumulação, no caso de tempo parcial.
 
-###### Art. 7.º - 1. Os vencimentos ou gratificações dos membros da direcção e do conselho consultivo serão estabelecidos pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
+Art. 7.º - 1. Os vencimentos ou gratificações dos membros da direcção e do conselho consultivo serão estabelecidos pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
 
 2. As gratificações, em que se consideram incluídas as senhas de presença, são acumuláveis com as remunerações que os nomeados, sendo servidores do Estado, percebam, pelo exercício de outras funções, ficando, no entanto subordinadas ao limite estabelecido no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 8.º - 1. Os serviços do Gabinete podem dividir-se em grupos especializados.
+Art. 8.º - 1. Os serviços do Gabinete podem dividir-se em grupos especializados.
 
 2. O respectivo pessoal técnico, administrativo e menor será contratado ou assalariado, mediante despacho do Ministro da Educação Nacional; e as suas remunerações, na medida em que não decorram das categorias legais existentes, serão fixadas pelo referido Ministro, com o acordo do das Finanças.
 
-###### Art. 9.º - 1. O contrato e o assalariamento previstos no artigo anterior podem recair em funcionários de outros serviços do Ministério da Educação Nacional, ou mesmo em funcionários de outros departamentos, mediante autorização de quem legalmente deva dá-la.
+Art. 9.º - 1. O contrato e o assalariamento previstos no artigo anterior podem recair em funcionários de outros serviços do Ministério da Educação Nacional, ou mesmo em funcionários de outros departamentos, mediante autorização de quem legalmente deva dá-la.
 
 2. Os funcionários contratados ou assalariados nos termos do n.º 1 consideram-se em regime de comissão, sem prejuízo da contagem do respectivo tempo, para todos os efeitos legais, como de efectivo serviço nos lugares de que foram deslocados, embora liquidadas as suas remunerações pelo Gabinete; os lugares de que são titulares podem ser providos interinamente.
 
-###### Art. 10.º - 1. Serão abonadas ajudas de custo e despesas de transporte aos membros da direcção e do conselho consultivo, bem como ao pessoal dos serviços do Gabinete, quando hajam de deslocar-se no desempenho das suas funções.
+Art. 10.º - 1. Serão abonadas ajudas de custo e despesas de transporte aos membros da direcção e do conselho consultivo, bem como ao pessoal dos serviços do Gabinete, quando hajam de deslocar-se no desempenho das suas funções.
 
 2. Tratando-se de funcionários, as ajudas de custo são as correspondentes à sua categoria; de contrário, serão elas fixadas de harmonia com o disposto no artigo 11.º, § único, do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944.
 
-###### Art. 11.º Indivíduos ou entidades de reconhecida competência poderão ser incumbidos de elaborar ou realizar, para o Gabinete, estudos, pareceres, projectos ou outros trabalhos, em regime de prestação eventual de serviços.
+Art. 11.º Indivíduos ou entidades de reconhecida competência poderão ser incumbidos de elaborar ou realizar, para o Gabinete, estudos, pareceres, projectos ou outros trabalhos, em regime de prestação eventual de serviços.
 
-###### Art. 12.º - 1. O Gabinete possuirá um Centro de Documentação Pedagógica, com a função de coligir e manter actualizada a bibliografia, documentação e demais informações relativas a assuntos de natureza educacional.
+Art. 12.º - 1. O Gabinete possuirá um Centro de Documentação Pedagógica, com a função de coligir e manter actualizada a bibliografia, documentação e demais informações relativas a assuntos de natureza educacional.
 
 2. A actual biblioteca do Ministério da Educação Nacional será transferida para o Centro.
 
@@ -177,15 +205,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. O Centro prestará ao Ministro ou aos serviços do Ministério, sobre matéria da sua competência, as informações que o primeiro determine.
 
-###### Art. 13.º O Gabinete pode enviar missões ao estrangeiro, mediante autorização do Ministro da Educação Nacional, para estudo de assuntos relacionados com as suas atribuições.
+Art. 13.º O Gabinete pode enviar missões ao estrangeiro, mediante autorização do Ministro da Educação Nacional, para estudo de assuntos relacionados com as suas atribuições.
 
-###### Art. 14.º São receitas do Gabinete:
+Art. 14.º São receitas do Gabinete:
 
 a) As dotações do Orçamento Geral do Estado que lhe forem consignadas;
 
 b) As verbas que lhe forem atribuídas a título de subsídio, liberalidade ou outro, com autorização do Ministro da Educação Nacional.
 
-###### Art. 15.º - 1. A aplicação das receitas do Gabinete é feita, em cada ano, mediante orçamento aprovado pelo Ministro da Educação Nacional e visado pelo Ministro das Finanças.
+Art. 15.º - 1. A aplicação das receitas do Gabinete é feita, em cada ano, mediante orçamento aprovado pelo Ministro da Educação Nacional e visado pelo Ministro das Finanças.
 
 2. As referidas receitas são geridas pela direcção.
 
@@ -195,11 +223,11 @@ b) As verbas que lhe forem atribuídas a título de subsídio, liberalidade ou o
 
 5. O levantamento dos fundos da conta de depósito faz-se por meio de cheques assinados por dois membros do conselho directivo.
 
-###### Art. 16.º O Gabinete presta contas da sua gerência directamente ao Tribunal de Contas.
+Art. 16.º O Gabinete presta contas da sua gerência directamente ao Tribunal de Contas.
 
-###### Art. 17.º O Ministro da Educação Nacional aprovará por meio de portaria o regulamento ou regulamentos necessários à execução do presente decreto-lei.
+Art. 17.º O Ministro da Educação Nacional aprovará por meio de portaria o regulamento ou regulamentos necessários à execução do presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

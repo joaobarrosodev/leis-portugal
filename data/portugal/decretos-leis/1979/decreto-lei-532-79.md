@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1979, 5º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3478-(104) a 3478-(112)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30005/01040112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4a95ec726a2ac064cc13280a1e4e5ae5958413ad2fef2e996cb8f2c8dc682c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cbf7c5102cbe66e1dff4eb15cbaffa8e0e339ee17b8fd4e81575ccdf43a182f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Laboratório Nacional de Investigação Científica Tropical
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607130:por
+  label: "Alterados os arts. 3º, 6º, 7º, 8º, 10º, 11º, 16º e 17º do presente diploma, altera a designação do Laboratório Nacional\
+    \ de Investigação Científica Tropical, para Instituto de Investigação Científica Tropical, pelo DEC LEI.105/82.08.04.1982.MEU,\
+    \ DR.IS [82] de 08.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1982-607130
+  date: '1982-04-08'
+- type: amended_by
+  target: pt:dre:438042:por
+  label: "Mantida a estrutura orgânica até á entrada em vigor dos diplomas referidos nos arts. 24.º e 30.º do Dec Lei 297/2003,\
+    \ e revogadas as disposições que contrariem o referidoDec Lei, sem prejuízo do seu art. 33.º e as restantes disposições\
+    \ com a entrada em vigor do DR previsto no art. 24.º, pelo DEC LEI.297/2003.21.11.2003.MCES, DR.IS-A [270] de 21.11.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2003-438042
+  date: '2003-11-21'
+- type: amended_by
+  target: pt:dre:233953:por
+  label: "Determinada, nos termos do art. 33º do Dec Lei 297/2003 de 21-Nov(Lei Orgânica do IICT), a cessação de todas as\
+    \ comissões de serviço de pessoal dirigente nomeado e provido nos termos do presente diploma, pelo DN.32/2005.03.01.2005.MFAP,\
+    \ DR.IS-B [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/32-2005-233953
+  date: '2005-01-03'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
 article_structure:
   article_count: 53
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:56Z'
   warnings: []
   errors: []
 ---
@@ -648,8 +682,8 @@ O presente diploma entra imediatamente em vigor.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Adérito de Oliveira Sedas Nunes.
 
-**Promulgado em 23 de Dezembro de 1979.**
+Promulgado em 23 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

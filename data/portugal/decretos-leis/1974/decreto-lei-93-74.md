@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 58/1974, 1º Suplemento, Série I de 1974-03-09
   number: '58'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 328-(2) a 328-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05801/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1974-325547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a129676c3cc9238395568173716eb701ace78dd0b1160a44923f4d9018f4924c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a64e89c42ae846e862f17ff9cbc0dd62dd3a6c900b56f91c5762b17f92f374c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Prorrogação de Prazo
+- Publicitação
+- Regime Jurídico
+- Relatório e Contas
+- Sociedade Anónima
+- Sociedade de Investimento
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680199:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:06Z'
   warnings: []
   errors: []
 ---
@@ -105,24 +138,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É prorrogado até 31 de Dezembro de 1974 o prazo a que se refere o n.º 1 do artigo 14.º do [Decreto-Lei n.º 271/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1972-675603), de 2 de Agosto.
+Artigo 1.º É prorrogado até 31 de Dezembro de 1974 o prazo a que se refere o n.º 1 do artigo 14.º do [Decreto-Lei n.º 271/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1972-675603), de 2 de Agosto.
 
-###### Art. 2.º As publicações a que se referem a alínea b) do artigo 10.º do [Decreto-Lei n.º 271/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1972-675603) e o n.º 2 do artigo 1.º do [Decreto-Lei n.º 147/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1972-680199), de 5 de Maio, a fazer pelas sociedades a elas sujeitas, iniciar-se-ão com as referentes ao exercício de 1974.
+Art. 2.º As publicações a que se referem a alínea b) do artigo 10.º do [Decreto-Lei n.º 271/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1972-675603) e o n.º 2 do artigo 1.º do [Decreto-Lei n.º 147/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1972-680199), de 5 de Maio, a fazer pelas sociedades a elas sujeitas, iniciar-se-ão com as referentes ao exercício de 1974.
 
-###### Art. 3.º As entidades sujeitas à fiscalização da Inspecção-Geral de Crédito e Seguros são apenas obrigadas às publicações que se encontrem estabelecidas na legislação especial por que se rejam.
+Art. 3.º As entidades sujeitas à fiscalização da Inspecção-Geral de Crédito e Seguros são apenas obrigadas às publicações que se encontrem estabelecidas na legislação especial por que se rejam.
 
-###### Art. 4.º Todas as sociedades anónimas com sede no continente e ilhas adjacentes, que tenham capitais próprios de valor igual ou superior a 50000 contos e de cujo património façam parte integrante quotas, acções e obrigações próprias ou alheias ou quaisquer outras aplicações em valores mobiliários, são obrigadas a enviar à Inspecção-Geral de Crédito e Seguros, até 30 de Junho de cada ano, o relatório do conselho de administração e o balanço e contas respeitantes ao exercício precedente e um inventário discriminado de todos esses valores, referido a 31 de Dezembro e elaborado de acordo com modelo anexo ao [Decreto-Lei n.º 147/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1972-680199).
+Art. 4.º Todas as sociedades anónimas com sede no continente e ilhas adjacentes, que tenham capitais próprios de valor igual ou superior a 50000 contos e de cujo património façam parte integrante quotas, acções e obrigações próprias ou alheias ou quaisquer outras aplicações em valores mobiliários, são obrigadas a enviar à Inspecção-Geral de Crédito e Seguros, até 30 de Junho de cada ano, o relatório do conselho de administração e o balanço e contas respeitantes ao exercício precedente e um inventário discriminado de todos esses valores, referido a 31 de Dezembro e elaborado de acordo com modelo anexo ao [Decreto-Lei n.º 147/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1972-680199).
 
-###### Art. 5.º Sem prejuízo do disposto no artigo anterior, poderá o Ministro das Finanças, em qualquer momento, exigir das sociedades comerciais todos os elementos e informações que entenda necessários para conhecimento das participações que tenham no capital umas das outras e das restantes formas de interdependência, directa ou indirecta, que entre elas existam.
+Art. 5.º Sem prejuízo do disposto no artigo anterior, poderá o Ministro das Finanças, em qualquer momento, exigir das sociedades comerciais todos os elementos e informações que entenda necessários para conhecimento das participações que tenham no capital umas das outras e das restantes formas de interdependência, directa ou indirecta, que entre elas existam.
 
-###### Art. 6.º As transgressões ao disposto no presente diploma serão puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
+Art. 6.º As transgressões ao disposto no presente diploma serão puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 8 de Março de 1974.**
+Promulgado em 8 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

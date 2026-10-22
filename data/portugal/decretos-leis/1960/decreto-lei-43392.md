@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43392-1960-512807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e0c79e14d84c89fbfe84fe5ee4e2d83bca961dff4c5652a0f04d16e804481d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89efc396f11c3d166883d4e89e626a4f2c8037b93bfd959649cb2f805d7a9789
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:58Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ Considerando que se verificam todas as demais condições referidas no artigo 9.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Ponta Delgada a freguesia dos Remédios, com sede na povoação do mesmo nome.
+Artigo 1.º É criada no concelho de Ponta Delgada a freguesia dos Remédios, com sede na povoação do mesmo nome.
 
 § único. A freguesia dos Remédios é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia definem-se por uma linha que, partindo do extremo norte da grota das Lajes, junto ao mar, segue, para sudoeste, pelo eixo da mesma grota até ao caminho da Cumeeira, por cujo eixo continua até atingir, ao sul, a grota do Sombreiro. Daqui prossegue pelo eixo da grota do Sombreiro e, inflectindo para o norte, continua pelo eixo da grota da Divisão até à lagoa Azul, que contorna, alcançando a barreira divisória das propriedades de Luís Bettencourt Leite Ataíde e de José Jacinto de Andrade Albuquerque, por cujo eixo continua, tocando novamente o caminho da Cumeeira, e pelo eixo deste caminho prossegue, para norte, até à barreira divisória das propriedades de Manuel Pedro da Câmara e de José Maria Vasconcelos. Inflecte para nascente e prossegue pelo eixo da grota da Covilhã até à Chã dos Três Portais e pelo eixo da canada do Pico até ao cruzamento com a canada do Canta Galo, continua pelo eixo da barreira que separa as propriedades de Manuel Gonçalves e de José Inácio Pavão e prossegue pela grota da Chã da Grotinha até alcançar novamente a canada do Canta Galo, junto da barreira que separa as propriedades de Mariana Remígio e de Manuel Rodrigues Pavão, e, deste ponto, pelo eixo da grota de Canta Galo até ao mar, inflectindo para sudeste pelas barrocas do mar até ao ponto onde se iniciou a descrição.
+Art. 2.º Os limites da nova freguesia definem-se por uma linha que, partindo do extremo norte da grota das Lajes, junto ao mar, segue, para sudoeste, pelo eixo da mesma grota até ao caminho da Cumeeira, por cujo eixo continua até atingir, ao sul, a grota do Sombreiro. Daqui prossegue pelo eixo da grota do Sombreiro e, inflectindo para o norte, continua pelo eixo da grota da Divisão até à lagoa Azul, que contorna, alcançando a barreira divisória das propriedades de Luís Bettencourt Leite Ataíde e de José Jacinto de Andrade Albuquerque, por cujo eixo continua, tocando novamente o caminho da Cumeeira, e pelo eixo deste caminho prossegue, para norte, até à barreira divisória das propriedades de Manuel Pedro da Câmara e de José Maria Vasconcelos. Inflecte para nascente e prossegue pelo eixo da grota da Covilhã até à Chã dos Três Portais e pelo eixo da canada do Pico até ao cruzamento com a canada do Canta Galo, continua pelo eixo da barreira que separa as propriedades de Manuel Gonçalves e de José Inácio Pavão e prossegue pela grota da Chã da Grotinha até alcançar novamente a canada do Canta Galo, junto da barreira que separa as propriedades de Mariana Remígio e de Manuel Rodrigues Pavão, e, deste ponto, pelo eixo da grota de Canta Galo até ao mar, inflectindo para sudeste pelas barrocas do mar até ao ponto onde se iniciou a descrição.
 
 § único. A Câmara Municipal do concelho de Ponta Delgada procederá, no prazo de 90 dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde sejam necessários, por forma que fiquem bem patentes os limites fixados neste artigo.
 
-###### Art. 3.º A eleição da Junta de Freguesia dos Remédios realizar-se-á no dia que for designado pelo governador do distrito e serão eleitores os chefes de família da área respectiva inscritos no recenseamento da freguesia da Bretanha.
+Art. 3.º A eleição da Junta de Freguesia dos Remédios realizar-se-á no dia que for designado pelo governador do distrito e serão eleitores os chefes de família da área respectiva inscritos no recenseamento da freguesia da Bretanha.
 
-###### Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da Junta no que se refere à eleição e votação será exercida pelo presidente da Junta de Freguesia da Bretanha.
+Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da Junta no que se refere à eleição e votação será exercida pelo presidente da Junta de Freguesia da Bretanha.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Games da Silva Ribeiro - Henrique Veiga de Macedo.
 

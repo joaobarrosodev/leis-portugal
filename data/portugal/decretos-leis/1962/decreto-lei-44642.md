@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44642-1962-156594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65e2287c21c6c62bc91ced56de2893e1835039244eb96676f49daa1992bec5e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e96dba12867b0fe2ee5f30c9fc969208414cdd265759ce5b6db7be5adb577cb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos de Importação
+- Indústria de Curtumes
+- Indústria Metalúrgica
+- Indústria Química
+- Indústria Têxtil
+- Pauta dos Direitos de Importação
+relationships:
+- type: cites
+  target: pt:dre:251642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268585:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:43Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +101,13 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 63.º das instruções preliminares da pauta de importação passa a ter a seguinte redacção:
+Artigo 1.º O artigo 63.º das instruções preliminares da pauta de importação passa a ter a seguinte redacção:
 
-###### Art. 63.º As bobinas de fita para pontas de cigarros, as composições ou matérias simples destinadas a dar aos tabacos perfume ou paladar especiais e as varetas-filtros para cigarros, sem prejuízo da classificação que lhes competir de acordo com o texto da pauta, quando importadas pelas empresas legalmente autorizadas a exercer a indústria de tabacos, estão sujeitas, respectivamente, às taxas de 7$35, 2$45 e 12$35, por quilograma, nos termos do disposto no artigo 2.º e respectivo § 1.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957.
+Art. 63.º As bobinas de fita para pontas de cigarros, as composições ou matérias simples destinadas a dar aos tabacos perfume ou paladar especiais e as varetas-filtros para cigarros, sem prejuízo da classificação que lhes competir de acordo com o texto da pauta, quando importadas pelas empresas legalmente autorizadas a exercer a indústria de tabacos, estão sujeitas, respectivamente, às taxas de 7$35, 2$45 e 12$35, por quilograma, nos termos do disposto no artigo 2.º e respectivo § 1.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957.
 
-###### Art. 2.º Os actuais artigos da pauta de importação n.º 32.05.02, 48.01.13, 71.09.03, 84.34.05, 84.34.06 e 84.34.07 passam a ter, respectivamente, os n.os 32.05.03, 48.01.14, 71.09.04, 84.34.06, 84.34.07 e 84.34.08.
+Art. 2.º Os actuais artigos da pauta de importação n.º 32.05.02, 48.01.13, 71.09.03, 84.34.05, 84.34.06 e 84.34.07 passam a ter, respectivamente, os n.os 32.05.03, 48.01.14, 71.09.04, 84.34.06, 84.34.07 e 84.34.08.
 
-###### Art. 3.º São introduzidas no texto da pauta de importação as seguintes alterações:
+Art. 3.º São introduzidas no texto da pauta de importação as seguintes alterações:
 
 27.10 ...
 
@@ -290,12 +305,12 @@ Pauta máxima, quilograma 240$00.
 
 Pauta mínima, quilograma 120$00.
 
-###### Art. 4.º São suprimidas do dizer do artigo 59.17.04 as palavras «com a largura de 43 ou de 86 cm».
+Art. 4.º São suprimidas do dizer do artigo 59.17.04 as palavras «com a largura de 43 ou de 86 cm».
 
-###### Art. 5.º São eliminados da pauta de importação os artigos 32.07.02, 98.11.01 e 98.11.02.
+Art. 5.º São eliminados da pauta de importação os artigos 32.07.02, 98.11.01 e 98.11.02.
 
-###### Art. 6.º As mercadorias importadas cujos direitos se encontrem garantidos em virtude de reclamações apresentadas relativamente à pauta em vigor pagarão as taxas consignadas no presente diploma.
+Art. 6.º As mercadorias importadas cujos direitos se encontrem garantidos em virtude de reclamações apresentadas relativamente à pauta em vigor pagarão as taxas consignadas no presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

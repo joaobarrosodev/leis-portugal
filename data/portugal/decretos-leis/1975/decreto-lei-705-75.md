@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29200/20822084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/705-1975-310992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f934b2ffc9117b07f727437edad39ce363df74447b43c4881d2fe1ac0a75293
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a7b4161ac8b704482ad997c4ab0192a0e98a5f09514768e8db2de2eacd402ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comandante
+- Comando Chefe das Forças Armadas
+- Comando de Defesa Marítima
+- Comando Territorial
+- Corpo de Voluntários
+- Definição de Competências
+- Extinção de Serviços
+- Força Paramilitar
+- Forças de Segurança de Macau
+- Governador de Macau
+- Macau
+- Polícia Judiciária
+- Polícia Marítima
+- Polícia Municipal
+- PSP
+- Reestruturação de Serviços
+- Serviços de Centralização e Coordenação de Informações
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:26Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +122,11 @@ Com efeito, mostra a realidade que, em Macau, as forças militares constituídas
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução, decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As forças militares e militarizadas de Macau são colocadas sob um comando único e constituirão as Forças de Segurança de Macau (FSM).
+Artigo 1.º As forças militares e militarizadas de Macau são colocadas sob um comando único e constituirão as Forças de Segurança de Macau (FSM).
 
-###### Art. 2.º O Governador de Macau é o responsável pela segurança interna do território.
+Art. 2.º O Governador de Macau é o responsável pela segurança interna do território.
 
-###### Art. 3.º As FSM têm por missão fundamental:
+Art. 3.º As FSM têm por missão fundamental:
 
 a) Garantir a segurança interna;
 
@@ -112,7 +138,7 @@ d) Ministrar à população instrução e valorização adequadas;
 
 e) Colaborar em actividades relacionadas com o desenvolvimento e progresso do território.
 
-###### Art. 4.º As FSM compreendem:
+Art. 4.º As FSM compreendem:
 
 a) Comando;
 
@@ -122,11 +148,11 @@ c) Forças de segurança;
 
 d) Órgãos de apoio.
 
-###### Art. 5.º - 1. Ao comandante das FSM, na dependência directa do Governador, compete exercer o comando das FSM e outras forças ou serviços que venham a ser colocados à sua disposição, superintender no recrutamento, selecção, preparação, administração e manutenção das FSM, bem como no planeamento geral das operações de segurança e protecção civil.
+Art. 5.º - 1. Ao comandante das FSM, na dependência directa do Governador, compete exercer o comando das FSM e outras forças ou serviços que venham a ser colocados à sua disposição, superintender no recrutamento, selecção, preparação, administração e manutenção das FSM, bem como no planeamento geral das operações de segurança e protecção civil.
 
 2. O comandante das FSM será um oficial superior do Exército nomeado por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e do Ministro competente do Governo da República, sob proposta do Governador de Macau, e terá a categoria correspondente a secretário-adjunto.
 
-###### Art. 6.º - 1. O Conselho de Segurança tem funções consultivas, devendo ser ouvido obrigatoriamente sobre altas questões respeitantes à doutrina de emprego, organização e preparação das FSM e, em caso de emergência, à mobilização de pessoal ou de material e à utilização de outros elementos necessários àquelas Forças.
+Art. 6.º - 1. O Conselho de Segurança tem funções consultivas, devendo ser ouvido obrigatoriamente sobre altas questões respeitantes à doutrina de emprego, organização e preparação das FSM e, em caso de emergência, à mobilização de pessoal ou de material e à utilização de outros elementos necessários àquelas Forças.
 
 2. O Conselho de Segurança é constituído pelo comandante e 2.º comandante das FSM, pelo respectivo chefe de estado-maior, pelos comandantes da PSP e da PMF e pelo director da PJ.
 
@@ -138,7 +164,7 @@ d) Órgãos de apoio.
 
 6. Quando o Governador assista às reuniões do Conselho de Segurança, assumirá ele a sua presidência.
 
-###### Art. 7.º - 1. As Forças de Segurança abrangem as seguintes corporações:
+Art. 7.º - 1. As Forças de Segurança abrangem as seguintes corporações:
 
 a) Polícia de Segurança Pública (PSP);
 
@@ -152,7 +178,7 @@ d) Corpo de Bombeiros (CB).
 
 3. Em caso de emergência ou outra situação, definida nos termos legais, poderão ser integradas nas FSM ou subordinadas ao seu Comando quaisquer outras forças, militares ou não, corporações ou organismos.
 
-###### Art. 8.º A PSP constitui um corpo militarizado, com a missão geral de garantir a protecção civil e a segurança interna, para o que:
+Art. 8.º A PSP constitui um corpo militarizado, com a missão geral de garantir a protecção civil e a segurança interna, para o que:
 
 a) Assegura a ordem e a tranquilidade públicas;
 
@@ -164,7 +190,7 @@ d) Intervém na protecção civil;
 
 e) Assegura o serviço de migração.
 
-###### Art. 9.º A PMF é um corpo militarizado, com a missão de:
+Art. 9.º A PMF é um corpo militarizado, com a missão de:
 
 a) Fiscalizar o cumprimento das leis e regulamentos marítimos e fiscais;
 
@@ -176,7 +202,7 @@ d) Proteger e defender os bens públicos e privados;
 
 e) Intervir na protecção civil.
 
-###### Art. 10.º - 1. A PM constitui um corpo militarizado, constituído por pessoal da PSP destacado na Câmara Municipal, com as atribuições que competiam à Polícia Administrativa e ao Corpo de Zeladores, designadamente:
+Art. 10.º - 1. A PM constitui um corpo militarizado, constituído por pessoal da PSP destacado na Câmara Municipal, com as atribuições que competiam à Polícia Administrativa e ao Corpo de Zeladores, designadamente:
 
 a) Colaborar com a administração municipal na fiscalização do cumprimento das posturas, regulamentos e outras determinações de interesse municipal;
 
@@ -194,7 +220,7 @@ f) Vigiar o património municipal e colaborar na resolução dos problemas relac
 
 3. O comandante da PM será nomeado por despacho do comandante das FSM, ouvido o presidente da Câmara.
 
-###### Art. 11.º - 1. O CB é uma corporação com a missão de:
+Art. 11.º - 1. O CB é uma corporação com a missão de:
 
 a) Prestar socorro em caso de incêndio, inundações, desabamentos e, de uma maneira geral, em todos os acidentes que ponham em risco vidas e haveres dos habitantes;
 
@@ -208,7 +234,7 @@ e) Colaborar nos trabalhos de protecção civil.
 
 2. O CB exerce a sua acção na península de Macau e nas ilhas de Taipa e Coloane.
 
-###### Art. 12.º - 1. A PJ tem por fim efectuar a investigação dos crimes submetidos à jurisdição comum, proceder à instrução preparatória dos respectivos processos e organizar a prevenção da criminalidade.
+Art. 12.º - 1. A PJ tem por fim efectuar a investigação dos crimes submetidos à jurisdição comum, proceder à instrução preparatória dos respectivos processos e organizar a prevenção da criminalidade.
 
 2. A PJ constitui uma directoria na dependência do procurador da República.
 
@@ -216,40 +242,40 @@ e) Colaborar nos trabalhos de protecção civil.
 
 4. O Governador pode delegar no comandante das FSM, no todo ou em parte, as atribuições que por lei lhe são conferidas a respeito da PJ.
 
-###### Art. 13.º O Comando das FSM dispõe de um quartel-general, cuja organigação e funcionamento serão definidos por despacho do Governador.
+Art. 13.º O Comando das FSM dispõe de um quartel-general, cuja organigação e funcionamento serão definidos por despacho do Governador.
 
-###### Art. 14.º - 1. Os órgãos de apoio geral, de carácter militar, actualmente existentes no território de Macau, subordinados aos respectivos Comandos Territorial Independente e de Defesa Marítima, poderão, por despacho do Governador, ser extintos, reconvertidos ou transferidos para a dependência do comandante das FSM, com dispensa de quaisquer formalidades legais.
+Art. 14.º - 1. Os órgãos de apoio geral, de carácter militar, actualmente existentes no território de Macau, subordinados aos respectivos Comandos Territorial Independente e de Defesa Marítima, poderão, por despacho do Governador, ser extintos, reconvertidos ou transferidos para a dependência do comandante das FSM, com dispensa de quaisquer formalidades legais.
 
 2. Por idêntico despacho, poderão ser criados os órgãos de apoio ao Comando das FSM que forem julgados necessários.
 
-###### Art. 15.º O comandante das FSM exerce, em matéria militar e de justiça militar, as atribuições e a competência que por lei pertenciam ao comandante do Comando Territorial Independente de Macau, servindo-se, para o efeito, dos órgãos de comando daquelas forças.
+Art. 15.º O comandante das FSM exerce, em matéria militar e de justiça militar, as atribuições e a competência que por lei pertenciam ao comandante do Comando Territorial Independente de Macau, servindo-se, para o efeito, dos órgãos de comando daquelas forças.
 
-###### Art. 16.º - 1. O pessoal das FSM gozará de um estatuto disciplinar próprio, excepto os militares e os magistrados nelas em comissão de serviço, que conservarão os seus próprios regulamentos e estatutos.
+Art. 16.º - 1. O pessoal das FSM gozará de um estatuto disciplinar próprio, excepto os militares e os magistrados nelas em comissão de serviço, que conservarão os seus próprios regulamentos e estatutos.
 
 2. Enquanto não vigorar o estatuto previsto no número anterior, o pessoal das FSM continuará subordinado aos actuais regulamentos e estatutos.
 
 3. O pessoal das FSM, salvo no que diz respeito aos elementos abrangidos pelas excepções previstas no n.º 1 deste artigo, está sujeito ao foro militar pelos crimes cometidos no exercício das suas funções.
 
-###### Art. 17.º Os quadros de pessoal correspondentes à organização prevista no presente diploma serão preenchidos de preferência pelo pessoal existente actualmente no Comando Territorial Independente de Macau, Comando de Defesa Marítima, Polícia de Segurança Pública, Polícia Marítima e Fiscal, Polícia Judiciária e Bombeiros.
+Art. 17.º Os quadros de pessoal correspondentes à organização prevista no presente diploma serão preenchidos de preferência pelo pessoal existente actualmente no Comando Territorial Independente de Macau, Comando de Defesa Marítima, Polícia de Segurança Pública, Polícia Marítima e Fiscal, Polícia Judiciária e Bombeiros.
 
-###### Art. 18.º - 1. Os quadros de pessoal na organização prevista neste diploma deverão indicar expressamente quais os lugares a preencher por elementos de Exército, da Armada, da Polícia de Segurança Pública, da Polícia Marítima e Fiscal, Polícia Judiciária e civis.
+Art. 18.º - 1. Os quadros de pessoal na organização prevista neste diploma deverão indicar expressamente quais os lugares a preencher por elementos de Exército, da Armada, da Polícia de Segurança Pública, da Polícia Marítima e Fiscal, Polícia Judiciária e civis.
 
 2. O preenchimento dos lugares referidos no número anterior poderá ser feito mediante requisição aos respectivos departamentos, militares ou civis, do Governo da República.
 
 3. Os militares requisitados nos termos do número anterior para serviço nas Forças de Segurança de Macau consideram-se para todos os efeitos em comissão militar.
 
-###### Art. 19.º - 1. São extintos em Macau os Comandos Chefe das Forças Armadas, Territorial Independente e de Defesa Marítima, a Polícia Administrativa, o Corpo de Zeladores, o Serviço de Centralização e Coordenação das Informações e o Corpo de Voluntários da Província de Macau.
+Art. 19.º - 1. São extintos em Macau os Comandos Chefe das Forças Armadas, Territorial Independente e de Defesa Marítima, a Polícia Administrativa, o Corpo de Zeladores, o Serviço de Centralização e Coordenação das Informações e o Corpo de Voluntários da Província de Macau.
 
 2. A situação do pessoal do Corpo de Zeladores será objecto de diploma próprio.
 
-###### Art. 20.º O presente diploma entra em vigor em 1 de Janeiro de 1976.
+Art. 20.º O presente diploma entra em vigor em 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 9 de Dezembro de 1975.**
+Promulgado em 9 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial de Macau. - João Cristóvão Moreira.

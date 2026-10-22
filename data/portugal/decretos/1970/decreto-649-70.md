@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/649-1970-146024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f539d35fe8c89f9186d31169adfcf477dcad5c133a07064ce840998d54bd07ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e7ed2e93e5771a1d37bb638d05b16b15d43a75da9a0279ae541315ffaf9e271
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:03Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +105,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério do Interior:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério do Interior:
 
 No capítulo 7.º:
 
@@ -103,11 +119,11 @@ N.º 3), alínea 1 «Subsídio para fardamento às praças» ... +300000$00
 
 N.º 4) «Outras despesas que não constituem remuneração paga em dinheiro» ...+360000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério do Interior, créditos especiais no montante de 5440000$00, destinados a reforçar verbas insuficientemente dotadas do segundo dos mencionados Ministérios:
+Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério do Interior, créditos especiais no montante de 5440000$00, destinados a reforçar verbas insuficientemente dotadas do segundo dos mencionados Ministérios:
 
-### Capítulo 7.º «Guarda Nacional Republicana»:
+Capítulo 7.º «Guarda Nacional Republicana»:
 
-###### Artigo 99.º «Aquisições de utilização permanente»:
+Artigo 99.º «Aquisições de utilização permanente»:
 
 N.º 1), alínea 2 «Viaturas com motor» ... 800000$00
 
@@ -115,28 +131,28 @@ N.º 2) «Móveis» ... 300000$00
 
 N.º 3) «Material de defesa ...» ... 1000000$00
 
-###### Artigo 100.º, n.º 2) «De semoventes», alínea 1 «Animais»:
+Artigo 100.º, n.º 2) «De semoventes», alínea 1 «Animais»:
 
 «Forragens» ... 1500000$00
 
 «Ferragens» ... 40000$00
 
-###### Artigo 102.º, n.º 1) «Serviços clínicos ...» ... 1600000$00
+Artigo 102.º, n.º 1) «Serviços clínicos ...» ... 1600000$00
 
-###### Artigo 104.º, n.º 1) «Rendas de casa», alínea 1 «Prédios urbanos» ... 100000$00
+Artigo 104.º, n.º 1) «Rendas de casa», alínea 1 «Prédios urbanos» ... 100000$00
 
-###### Artigo 106.º, n.º 3) «Despesas imprevistas de ordem pública» ... 100000$00
+Artigo 106.º, n.º 3) «Despesas imprevistas de ordem pública» ... 100000$00
 
 ... 5440000$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo precedente, é anulada igual importância na verba descrita no capítulo 7.º, artigo 95.º, n.º 3), do actual orçamento do Ministério do Interior.
+Art. 3.º Para compensação dos créditos designados no artigo precedente, é anulada igual importância na verba descrita no capítulo 7.º, artigo 95.º, n.º 3), do actual orçamento do Ministério do Interior.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosa - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 17 de Dezembro de 1970.**
+Promulgado em 17 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

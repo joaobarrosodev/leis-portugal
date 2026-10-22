@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/345-1972-688589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82ec49d5730f24fc98789b28c59322a949fb18668742ca43df888e79e12e0a29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2003d0d520c0ca0af123be3b0a9d8ce370f17a7bce177f35f66b627b3544846d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Escola de Mestrança e Marinhagem
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ANEXO J PELA PORTARIA NUMERO 605/82, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SEIRE, NUMERO 138, DE 820618.\
+    \ REVOGADA A SECÇÃO II E SUBSECCÃO III DA SECÇÃO V DO CAPÍTULO IV E ANEXOS B, C, D, E, F, G, H, I E J PELA PORTARIA NUMERO\
+    \ 1016/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 228, DE 911003. 9\0, DE 911003. 9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:655516:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445476:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655516:por
+  label: "Revogado pelo DEC LEI.322/93.1993.09.21.MM, DR.IS-A [222], sem prejuízo do disposto no nº 2 do art. 3º do referido\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1993-655516
+  date: '1993-09-21'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:32Z'
   warnings: []
   errors: []
 ---
@@ -102,25 +129,25 @@ Nestes termos, e tendo em conta o disposto no n.º 3 do artigo 24.º do [Decreto
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado e posto em execução o Regulamento da Escola de Mestrança e Marinhagem, que faz parte integrante deste decreto.
+Artigo único. É aprovado e posto em execução o Regulamento da Escola de Mestrança e Marinhagem, que faz parte integrante deste decreto.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 7 de Agosto de 1972.**
+Promulgado em 7 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Regulamento da Escola de Mestrança e Marinhagem
 
 ### CAPÍTULO I — Missão
 
-###### Artigo 1.º - 1. A Escola de Mestrança e Marinhagem (E. M. M.) é um estabelecimento de ensino do Ministério da Marinha destinado a preparar pessoal para a marinha mercante, das classes de mestrança e de marinhagem.
+Artigo 1.º - 1. A Escola de Mestrança e Marinhagem (E. M. M.) é um estabelecimento de ensino do Ministério da Marinha destinado a preparar pessoal para a marinha mercante, das classes de mestrança e de marinhagem.
 
 2. A E. M. M. funciona na dependência do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 2.º Compete mais à Escola de Mestrança e Marinhagem:
+Art. 2.º Compete mais à Escola de Mestrança e Marinhagem:
 
 a) Estudar e propor os programas dos exames de acesso às diversas categorias das classes de mestrança e de marinhagem previstas no Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (R. I. M.) e que, segundo o mesmo Regulamento, são efectuados nas repartições marítimas;
 
@@ -130,7 +157,7 @@ b) Realizar os exames referidos na alínea anterior nos casos e condições que 
 
 #### SECÇÃO I — Organização geral
 
-###### Art. 3.º A Escola de Mestrança e Marinhagem compreende:
+Art. 3.º A Escola de Mestrança e Marinhagem compreende:
 
 a) Director;
 
@@ -150,9 +177,9 @@ h) Biblioteca.
 
 #### SECÇÃO II — Director
 
-###### Art. 4.º O director da Escola de Mestrança e Marinhagem é um oficial superior da Armada, dos quadros do activo ou da reserva, nomeado pelo Ministro da Marinha mediante proposta do director-geral dos Serviços de Fomento Marítimo.
+Art. 4.º O director da Escola de Mestrança e Marinhagem é um oficial superior da Armada, dos quadros do activo ou da reserva, nomeado pelo Ministro da Marinha mediante proposta do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 5.º - 1. O director, como primeiro responsável pela forma como a Escola desempenha a sua missão, dirige as suas actividades, competindo-lhe velar pela formação intelectual, técnica, moral e física dos alunos, pelo rendimento dos serviços, pela disciplina e pelo cumprimento das disposições legais e determinações superiores.
+Art. 5.º - 1. O director, como primeiro responsável pela forma como a Escola desempenha a sua missão, dirige as suas actividades, competindo-lhe velar pela formação intelectual, técnica, moral e física dos alunos, pelo rendimento dos serviços, pela disciplina e pelo cumprimento das disposições legais e determinações superiores.
 
 2. Ao director compete mais:
 
@@ -172,7 +199,7 @@ f) Assinar as cartas e certificados de curso.
 
 #### SECÇÃO III — Subdirector
 
-###### Art. 6.º - 1. O subdirector auxilia o director no desempenho das funções que este determinar, competindo-lhe, especialmente:
+Art. 6.º - 1. O subdirector auxilia o director no desempenho das funções que este determinar, competindo-lhe, especialmente:
 
 a) Promover o cumprimento das determinações do director;
 
@@ -194,15 +221,15 @@ f) Substituir o director nos seus impedimentos.
 
 #### SECÇÃO IV — Conselho escolar
 
-###### Art. 7.º O conselho escolar é um órgão de estudo e de consulta do director para assuntos de carácter pedagógico.
+Art. 7.º O conselho escolar é um órgão de estudo e de consulta do director para assuntos de carácter pedagógico.
 
-###### Art. 8.º - 1. O conselho escolar é presidido pelo director a constituído pelo subdirector, pelo director da instrução, pelos professores e pelo secretário da Escola, que servirá de secretário do conselho.
+Art. 8.º - 1. O conselho escolar é presidido pelo director a constituído pelo subdirector, pelo director da instrução, pelos professores e pelo secretário da Escola, que servirá de secretário do conselho.
 
 2. Sempre e que o director o entender, poderão fazer parte do conselho, como vogais, os instrutores.
 
 3. No impedimento do director assumirá a presidência o subdirector.
 
-###### Art. 9.º Ao conselho escolar compete:
+Art. 9.º Ao conselho escolar compete:
 
 a) Apreciar os projectos dos planos dos cursos, os programas das disciplinas e instruções e as suas alterações;
 
@@ -212,13 +239,13 @@ c) Dar parecer sobre a orientação pedagógica do ensino;
 
 d) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam apresentados pelo director.
 
-###### Art. 10.º - 1. A convocação do conselho escolar é da competência do director da Escola.
+Art. 10.º - 1. A convocação do conselho escolar é da competência do director da Escola.
 
 2. Na convocação do conselho escolar devem indicar-se os assuntos a tratar em cada sessão.
 
 3. Por cada sessão do conselho escolar será lavrada acta em livro próprio.
 
-###### Art. 11.º O director convocará obrigatòriamente o conselho escolar nas seguintes circunstâncias:
+Art. 11.º O director convocará obrigatòriamente o conselho escolar nas seguintes circunstâncias:
 
 a) Antes do início de cada ano lectivo, para apreciação da forma como decorreu o ensino no ano lectivo anterior e estudo das actividades escolares previstas para o novo ano;
 
@@ -226,7 +253,7 @@ b) Para apreciação de alterações nos planos dos cursos.
 
 #### SECÇÃO V — Director da instrução
 
-###### Art. 12.º O director da instrução é responsável perante o director da Escola pela orientação e coordenação do ensino, competindo-lhe especialmente:
+Art. 12.º O director da instrução é responsável perante o director da Escola pela orientação e coordenação do ensino, competindo-lhe especialmente:
 
 a) Propor medidas tendentes a melhorar o ensino;
 
@@ -242,7 +269,7 @@ f) Sancionar os planos de repetições e demais provas escritas e organizar o se
 
 g) Presidir ao júri das provas de aptidão cultural de admissão de alunos.
 
-###### Art. 13.º - 1. As funções de director da instrução são desempenhadas por um oficial da Armada.
+Art. 13.º - 1. As funções de director da instrução são desempenhadas por um oficial da Armada.
 
 2. O director da instrução é nomeado pelo Ministro da Marinha, mediante proposta do director da Escola.
 
@@ -252,7 +279,7 @@ g) Presidir ao júri das provas de aptidão cultural de admissão de alunos.
 
 ##### SUBSECÇÃO I — Professores, instrutores e auxiliares de instrução
 
-###### Art. 14.º - 1. O corpo docente da Escola de Mestrança e Marinhagem, da nomeação do Ministro da Marinha, mediante proposta do director da Escola, compõe-se de professores e instrutores.
+Art. 14.º - 1. O corpo docente da Escola de Mestrança e Marinhagem, da nomeação do Ministro da Marinha, mediante proposta do director da Escola, compõe-se de professores e instrutores.
 
 2. Para desempenhar as funções de professores e instrutores da E. M. M. podem ser escolhidos:
 
@@ -262,21 +289,21 @@ b) Oficiais da marinha mercante habilitados com o curso complementar dos cursos 
 
 c) Outros civis diplomados com o curso adequado.
 
-###### Art. 15.º - 1. No desempenho das suas funções os professores e instrutores são coadjuvados por auxiliares da instrução, que são sargentos ou praças da Armada.
+Art. 15.º - 1. No desempenho das suas funções os professores e instrutores são coadjuvados por auxiliares da instrução, que são sargentos ou praças da Armada.
 
 2. Por despacho do Ministro da Marinha, baseado em proposta do director da Escola, os auxiliares da instrução podem ser designados para ministrarem aulas de instruções, sob a orientação do respectivo instrutor.
 
 ##### SUBSECÇÃO II — Atribuições dos professores e instrutores
 
-###### Art. 16.º - 1. Compete de um modo geral aos professores e instrutores contribuir pelos meios ao seu alcance para a formação profissional dos alunos e para a sua valorização como cidadãos.
+Art. 16.º - 1. Compete de um modo geral aos professores e instrutores contribuir pelos meios ao seu alcance para a formação profissional dos alunos e para a sua valorização como cidadãos.
 
 2. Os professores e instrutores são responsáveis pela manutenção da disciplina e pelo exacto cumprimento das disposições regulamentares no âmbito das suas actividades.
 
-###### Art. 17.º - 1. Compete aos professores ministrar o ensino das matérias relativas às disciplinas que lhes estiverem confiadas, por meio de aulas teóricas, aulas práticas e, eventualmente, por visitas de estudo.
+Art. 17.º - 1. Compete aos professores ministrar o ensino das matérias relativas às disciplinas que lhes estiverem confiadas, por meio de aulas teóricas, aulas práticas e, eventualmente, por visitas de estudo.
 
 2. Compete especialmente aos instrutores o ensino da matérias relativas às respectivas instruções por meio de aulas práticas, visitas de estudo e, quando necessário, por meio de aulas teóricas.
 
-###### Art. 18.º A todos os professores e instrutores compete:
+Art. 18.º A todos os professores e instrutores compete:
 
 a) Elaborar os projectos dos programas das respectivas disciplinas ou instruções e propor a sua aprovação;
 
@@ -310,7 +337,7 @@ p) Desempenhar, em acumulação, os cargos de chefes ou de adjuntos dos chefes o
 
 q) Desempenhar as tarefas que lhes forem atribuídas para as finalidades de que trata o artigo 2.º
 
-###### Art. 19.º Aos auxiliares da instrução compete:
+Art. 19.º Aos auxiliares da instrução compete:
 
 a) Ministrar o ensino das matérias das respectivas disciplinas por meio de aulas práticas, sob a direcção e orientação do professor respectivo;
 
@@ -332,7 +359,7 @@ i) Desempenhar outras funções, em regime de acumulação, dentro da Escola, no
 
 #### SECÇÃO VII — Serviços
 
-###### Art. 20.º - 1. Os serviços compreendem:
+Art. 20.º - 1. Os serviços compreendem:
 
 a) Serviços gerais;
 
@@ -346,9 +373,9 @@ c) Serviço de publicações escolares.
 
 4. Sempre que se torne, necessário fixar atribuições especiais para os serviços da Escola, elas serão objecto de despacho do Ministro da Marinha.
 
-###### Art. 21.º Os serviços gerais e os serviços técnicos destinam-se ao desempenho das actividades que, na parte aplicável à Escola, são as que se acham consignadas na legislação do Ministério da Marinha.
+Art. 21.º Os serviços gerais e os serviços técnicos destinam-se ao desempenho das actividades que, na parte aplicável à Escola, são as que se acham consignadas na legislação do Ministério da Marinha.
 
-###### Art. 22.º - 1. O serviço de publicações escolares destina-se especialmente a:
+Art. 22.º - 1. O serviço de publicações escolares destina-se especialmente a:
 
 a) Editar ou promover a aquisição dos livros e outro material escolar destinado a ser utilizado pelos alunos nas condições que forem estabelecidas pela direcção da Escola;
 
@@ -368,7 +395,7 @@ g) Editar todas as publicações necessárias ao funcionamento dos cursos por co
 
 #### SECÇÃO VIII — Secretaria
 
-###### Art. 23.º - 1. A secretaria destina-se a assegurar a execução de todo o expediente referente às actividades da Escola, incumbindo-lhe, nomeadamente, a recepção, registo, encaminhamento, expedição e arquivo da correspondência e outra documentação relativa a essas actividades.
+Art. 23.º - 1. A secretaria destina-se a assegurar a execução de todo o expediente referente às actividades da Escola, incumbindo-lhe, nomeadamente, a recepção, registo, encaminhamento, expedição e arquivo da correspondência e outra documentação relativa a essas actividades.
 
 2. A secretaria compreende duas secções, cabendo à primeira o expediente da direcção e da administração-geral da Escola e à segunda o que respeita à actividade escolar.
 
@@ -392,11 +419,11 @@ h) Do cadastro, devidamente actualizado, de todo o pessoal da Escola, cuidando d
 
 i) De registo de classificações e faltas escolares.
 
-###### Art. 24.º - 1. A secretaria é chefiada por um oficial da Armada, designado por secretário da Escola.
+Art. 24.º - 1. A secretaria é chefiada por um oficial da Armada, designado por secretário da Escola.
 
 2. A secretaria funciona na dependência do director da instrução.
 
-###### Art. 25.º - 1. Compete especialmente ao secretário:
+Art. 25.º - 1. Compete especialmente ao secretário:
 
 a) Dirigir a secretaria da Escola;
 
@@ -408,13 +435,13 @@ c) Prestar a necessária colaboração ao director da instrução.
 
 #### SECÇÃO IX — Biblioteca
 
-###### Art. 26.º - 1. A biblioteca tem por fim facilita aos alunos, professores e instrutores os livros, publicações periódicas e outras espécies bibliográficas destinadas a ampliar a sua cultura geral e profissional.
+Art. 26.º - 1. A biblioteca tem por fim facilita aos alunos, professores e instrutores os livros, publicações periódicas e outras espécies bibliográficas destinadas a ampliar a sua cultura geral e profissional.
 
 2. A biblioteca funciona na dependência do director da instrução e é dirigida, em regime de acumulação, por um professor ou instrutor nomeado pelo director.
 
 ### CAPÍTULO III — Organização do ensino
 
-###### Art. 27.º - 1. Os cursos ministrados na Escola de Mestrança e Marinhagem são os seguintes:
+Art. 27.º - 1. Os cursos ministrados na Escola de Mestrança e Marinhagem são os seguintes:
 
 a) Cursos de formação;
 
@@ -432,7 +459,7 @@ a) Melhorar os conhecimentos dos marítimos em sectores restritos da técnica ou
 
 b) Preparar os marítimos de uma determinada categoria para desempenhar em funções respeitantes a categoria diferente (cursos de polivalência).
 
-###### Art. 28.º - 1. Existem os seguintes cursos de formação:
+Art. 28.º - 1. Existem os seguintes cursos de formação:
 
 a) De marinheiro, que habilita para marinheiro de 2.ª classe;
 
@@ -444,13 +471,13 @@ d) De copeiro, que habilita para ajudante de copa.
 
 2. Por portaria do Ministro da Marinha podem ser criados outros cursos de formação ou extintos os que são especificados no número anterior.
 
-###### Art. 29.º Os cursos de preparação são criados pelo director da Escola na medida em que os meios de que dispuser o permitam.
+Art. 29.º Os cursos de preparação são criados pelo director da Escola na medida em que os meios de que dispuser o permitam.
 
-###### Art. 30.º - 1. Os cursos de aperfeiçoamento são criados ou extintos por portaria do Ministro da Marinha.
+Art. 30.º - 1. Os cursos de aperfeiçoamento são criados ou extintos por portaria do Ministro da Marinha.
 
 2. Nos diplomas a que se refere o número anterior será definida a finalidade do curso e a respectiva duração.
 
-###### Art. 31.º - 1. As designações de ano lectivo e de ano escolar referem-se, respectivamente, aos períodos de 1 de Outubro a 31 de Julho a de 1 de Outubro a 30 de Setembro.
+Art. 31.º - 1. As designações de ano lectivo e de ano escolar referem-se, respectivamente, aos períodos de 1 de Outubro a 31 de Julho a de 1 de Outubro a 30 de Setembro.
 
 2. O ano lectivo compreende:
 
@@ -464,21 +491,21 @@ b) Três períodos, assim definidos:
 
 3.º período, desde segunda-feira de Pascoela até ao encerramento das aulas.
 
-###### Art. 32.º As actividades escolares processam-se de acordo com o programa anual das actividades escolares, que constitui o anexo B a este Regulamento.
+Art. 32.º As actividades escolares processam-se de acordo com o programa anual das actividades escolares, que constitui o anexo B a este Regulamento.
 
 ### CAPÍTULO IV — Cursos de formação
 
 #### SECÇÃO I — Disciplinas e instruções
 
-###### Art. 33.º As disciplinas e instruções ministradas na Escola de Mestrança e Marinhagem nos cursos de formação são as que constam de anexo D.
+Art. 33.º As disciplinas e instruções ministradas na Escola de Mestrança e Marinhagem nos cursos de formação são as que constam de anexo D.
 
-###### Art. 34.º - 1. Nas disciplinas o ensino é normalmente ministrado através de aulas teóricas, de aulas práticas ou de palestras.
+Art. 34.º - 1. Nas disciplinas o ensino é normalmente ministrado através de aulas teóricas, de aulas práticas ou de palestras.
 
 2. Nas instruções o ensino e normalmente ministrado por meio de aulas práticas.
 
 3. As instruções que versam, sob o aspecto prático, matéria que faz parte do programa de disciplinas são regidas sob a responsabilidade e orientação dos professores dessas disciplinas. O anexo E indica as disciplinas de que dependem as diversas instruções.
 
-###### Art. 35.º - 1. De cada disciplina ou instrução haverá um programa geral discriminando os objectivos, a matéria, a escolaridade, a orientação geral em que deve ser ministrada e as publicações que terão de servir de base ao ensino.
+Art. 35.º - 1. De cada disciplina ou instrução haverá um programa geral discriminando os objectivos, a matéria, a escolaridade, a orientação geral em que deve ser ministrada e as publicações que terão de servir de base ao ensino.
 
 2. No estudo e elaboração dos programas devem ser tidos em conta:
 
@@ -494,9 +521,9 @@ c) O progresso tecnológico.
 
 #### SECÇÃO II — Orientação pedagógica do ensino
 
-###### Art. 36.º Na orientação do ensino deverá constituir (preocupação dominante a participação activa dos alunos por meio de trabalhos de aplicação e aulas práticas, procurando desenvolver neles a gosto pelo estudo e criar-lhes hábitos de trabalho em grupo.
+Art. 36.º Na orientação do ensino deverá constituir (preocupação dominante a participação activa dos alunos por meio de trabalhos de aplicação e aulas práticas, procurando desenvolver neles a gosto pelo estudo e criar-lhes hábitos de trabalho em grupo.
 
-###### Art. 37.º - 1. O ensino ministrado sairá orientado no sentido de preparar os alunos para a melhor utilização de material náutico.
+Art. 37.º - 1. O ensino ministrado sairá orientado no sentido de preparar os alunos para a melhor utilização de material náutico.
 
 2. Para execução do disposto no número anterior deverá ser promovida:
 
@@ -504,27 +531,27 @@ a) A modernização do equipamento escolar e o criterioso aproveitamento dos cen
 
 b) A visita frequente a navios mercantes do armamento nacional, devidamente acompanhada por professores ou instrutores.
 
-###### Art. 38.º Todos os professores a instrutores da Escola, com o seu prestígio e experiência, devem constituir em todas as circunstâncias, perante os alunos, exemplos e guias permanentes de virtudes cívicas a profissionais.
+Art. 38.º Todos os professores a instrutores da Escola, com o seu prestígio e experiência, devem constituir em todas as circunstâncias, perante os alunos, exemplos e guias permanentes de virtudes cívicas a profissionais.
 
 #### SECÇÃO III — Avaliação do aproveitamento dos alunos
 
 ##### SUBSECÇÃO I — Provas de aproveitamento
 
-###### Art. 39.º - 1. O ensino será conduzido de forma a permitir aos professores a instrutores ajuizarem do aproveitamento dos alunos. Para esse fim haverá repetições orais, repetições escritas e exames de frequência, por forma a permitir que cada aluno tenha, pelo menos, duas notas por período escolar.
+Art. 39.º - 1. O ensino será conduzido de forma a permitir aos professores a instrutores ajuizarem do aproveitamento dos alunos. Para esse fim haverá repetições orais, repetições escritas e exames de frequência, por forma a permitir que cada aluno tenha, pelo menos, duas notas por período escolar.
 
 2. Nas instruções não há repetições nem exames de frequência, podendo, no entanto, os instrutores mandar realizar trabalhas, exercícios ou outras provas necessários para julgar do aproveitamento dos alunos.
 
-###### Art. 40.º - 1. Em princípio, as repetições orais e escritas não versarão sobre matéria já tratada em repetições anteriores, salvo nos casos em que essa matéria é considerada fundamental ou esteja intrìnsecamente relacionada com matéria das referidas repetições.
+Art. 40.º - 1. Em princípio, as repetições orais e escritas não versarão sobre matéria já tratada em repetições anteriores, salvo nos casos em que essa matéria é considerada fundamental ou esteja intrìnsecamente relacionada com matéria das referidas repetições.
 
 2. As repetições realizam-se dentro dos tempos normais de aulas teóricas ou práticas atribuídos às respectivas disciplinas.
 
-###### Art. 41.º - 1. Nos últimos quinze dias de cada período escolar realizar-se-á um exame de frequência em cada disciplina, abrangendo toda a matéria exposta nas lições e quaisquer outros trabalhos que fizerem parte do ensino. Estes exames serão feitas por escrito, podendo, se isso for julgado conveniente, ser acompanhados de parte oral.
+Art. 41.º - 1. Nos últimos quinze dias de cada período escolar realizar-se-á um exame de frequência em cada disciplina, abrangendo toda a matéria exposta nas lições e quaisquer outros trabalhos que fizerem parte do ensino. Estes exames serão feitas por escrito, podendo, se isso for julgado conveniente, ser acompanhados de parte oral.
 
 2. Nas instruções não há exames de frequência, mas os alunos são classificados, no termo de cada período lectivo, em todas as instruções que dele façam parte pelas respectivos instrutores, de acordo com a grau de aproveitamento e de interesse que tenham demonstrado nas provas, trabalhos ou exercícios realizados.
 
-###### Art. 42.º A classificação das provas escolares é feita por meia de valores de 0 a 20.
+Art. 42.º A classificação das provas escolares é feita por meia de valores de 0 a 20.
 
-###### Art. 43.º - 1. O aluno que faltar às provas ou durante elas der parte de doente poderá fazer nova prova, se a doença for justificada por médico da Armada chamado a observá-lo ou por atestado médico reconhecido por notário, apresentado no prazo de quarenta e oito horas.
+Art. 43.º - 1. O aluno que faltar às provas ou durante elas der parte de doente poderá fazer nova prova, se a doença for justificada por médico da Armada chamado a observá-lo ou por atestado médico reconhecido por notário, apresentado no prazo de quarenta e oito horas.
 
 2. A nova prova será marcada dentro do prazo máximo de quinze dias; no caso de faltar novamente, será eliminado da frequência da Escola.
 
@@ -532,17 +559,17 @@ b) A visita frequente a navios mercantes do armamento nacional, devidamente acom
 
 4. No caso previsto no n.º 2 do artigo 46.º, será marcada data própria para a realização de qualquer prova que o aluno não pôde prestar.
 
-###### Art. 44.º - 1. O aluno que, em qualquer repetição, exame de frequência, exame final ou outra prova, cometa ou tente cometer qualquer irregularidade será imediatamente expulso da prova, na qual terá a classificação de 0 valores, sem prejuízo do procedimento disciplinar correspondente.
+Art. 44.º - 1. O aluno que, em qualquer repetição, exame de frequência, exame final ou outra prova, cometa ou tente cometer qualquer irregularidade será imediatamente expulso da prova, na qual terá a classificação de 0 valores, sem prejuízo do procedimento disciplinar correspondente.
 
 2. Ao aluno que, pelo motivo expresso no número anterior, deixe de efectuar qualquer prova não é aplicável o disposto no antigo 43.º
 
 ##### SUBSECÇÃO II — Média de frequência
 
-###### Art. 45.º - 1. A média de frequência de cada aluno em cada disciplina é a média aritmética das notas das provas que nela tenha prestado durante o ano lectivo, atribuindo-se os seguintes coeficientes: 1 às repetições orais, 3 às repetições escritas e 5 aos exames de frequência.
+Art. 45.º - 1. A média de frequência de cada aluno em cada disciplina é a média aritmética das notas das provas que nela tenha prestado durante o ano lectivo, atribuindo-se os seguintes coeficientes: 1 às repetições orais, 3 às repetições escritas e 5 aos exames de frequência.
 
 2. No apuramento das médias serão desprezadas as fracções de valores inferiores a 0,5, arredondando-se para a unidade imediatamente superior as fracções iguais ou superiores a 0,5.
 
-###### Art. 46.º - 1. Perde o ano e é excluído da frequência da Escola o aluno que:
+Art. 46.º - 1. Perde o ano e é excluído da frequência da Escola o aluno que:
 
 a) Em qualquer disciplina não tiver a média de frequência suficiente para ser admitido a exame final;
 
@@ -556,21 +583,21 @@ b) Em qualquer disciplina ou instrução tiver dado durante o ano lectivo um nú
 
 ##### SUBSECÇÃO III — Exames finais
 
-###### Art. 47.º - 1. Em todas as disciplinas há exames finais a que são admitidos os alunos que, em cada uma delas, obtiverem a média de frequência de, pelo menos, 10 valores.
+Art. 47.º - 1. Em todas as disciplinas há exames finais a que são admitidos os alunos que, em cada uma delas, obtiverem a média de frequência de, pelo menos, 10 valores.
 
 2. Quando anexa a qualquer disciplina haja a instrução prática correspondente, considera-se o conjunto como uma disciplina única, podendo ser admitido a exame final o aluno que, tendo média de frequência de, pelo menos, 10 valores na disciplina, tenha na instrução, pelo menos, 8 valores.
 
-###### Art. 48.º Sem prejuízo do disposto no n.º 2 do antigo anterior, as instruções não têm exame final.
+Art. 48.º Sem prejuízo do disposto no n.º 2 do antigo anterior, as instruções não têm exame final.
 
-###### Art. 49.º - 1. São dispensados do exame final de qualquer disciplina os alunos que nessa disciplina hajam obtido média de frequência igual ou superior a 12 valores.
+Art. 49.º - 1. São dispensados do exame final de qualquer disciplina os alunos que nessa disciplina hajam obtido média de frequência igual ou superior a 12 valores.
 
 2. Os alunos dispensados de exame final de uma disciplina têm o direito de efectuar esse exame desde que assim o declarem por escrito, com vista a melhoria de classificação, mas ficam sujeitos à classificação que vierem a obter no referido exame.
 
-###### Art. 50.º Os exames finais realizam-se depois de terminadas as aulas da respectiva disciplina nas datas previstas no plano anual das actividades escolares.
+Art. 50.º Os exames finais realizam-se depois de terminadas as aulas da respectiva disciplina nas datas previstas no plano anual das actividades escolares.
 
-###### Art. 51.º As provas de exame final de qualquer disciplina são feitas perante um júri composto pelo professor da disciplina e por dois professores nomeados pelo director, ouvido o director da instrução.
+Art. 51.º As provas de exame final de qualquer disciplina são feitas perante um júri composto pelo professor da disciplina e por dois professores nomeados pelo director, ouvido o director da instrução.
 
-###### Art. 52.º - 1. Os exames versarão sobre a matéria do programa e poderão compor-se das seguintes provas:
+Art. 52.º - 1. Os exames versarão sobre a matéria do programa e poderão compor-se das seguintes provas:
 
 a) Prova prática;
 
@@ -580,33 +607,33 @@ c) Prova oral.
 
 2. O júri fixará o tempo máximo para a prestação das provas prática e escrita e determinará se estas devem ser realizadas em conjunto ou separadamente. O interrogatório da prova oral será feito pelo professor respectivo até meia hora, findo o qual poderá continuar por outros vogais do júri por mais meia hora no máximo.
 
-###### Art. 53.º Cada uma das provas será realizada segundo a escala de 0 a 20 estabelecida por este Regulamento podendo ser dispensado da prova oral o examinando que na média das outras provas obtiver média igual ou superior a 10 valores.
+Art. 53.º Cada uma das provas será realizada segundo a escala de 0 a 20 estabelecida por este Regulamento podendo ser dispensado da prova oral o examinando que na média das outras provas obtiver média igual ou superior a 10 valores.
 
-###### Art. 54.º Considera-se reprovado e excluído da frequência da Escola o examinando que:
+Art. 54.º Considera-se reprovado e excluído da frequência da Escola o examinando que:
 
 a) Obtiver média inferior a 8 valores nas provas escrita e prática;
 
 b) Obtiver média inferior a 10 valores nas três provais.
 
-###### Art. 55.º O resultado dos exames constará de termo lavrado em livro a esse fim destinado e assinado por todos os membros do júri.
+Art. 55.º O resultado dos exames constará de termo lavrado em livro a esse fim destinado e assinado por todos os membros do júri.
 
-###### Art. 56.º Os exames finais das disciplinas realizam-se de 1 a 22 de Julho.
+Art. 56.º Os exames finais das disciplinas realizam-se de 1 a 22 de Julho.
 
-###### Art. 57.º As provas prática e escrita de uma mesma disciplina poderão ser feitas em conjunto, ou no mesmo dia, embora separadas, devendo a prova oral fazer-se, pelo menos, vinte e quatro horas depois daquelas.
+Art. 57.º As provas prática e escrita de uma mesma disciplina poderão ser feitas em conjunto, ou no mesmo dia, embora separadas, devendo a prova oral fazer-se, pelo menos, vinte e quatro horas depois daquelas.
 
-###### Art. 58.º A classificação de exame final de qualquer disciplina é atribuída pelo júri mediante apreciação global das provas que o constituam.
+Art. 58.º A classificação de exame final de qualquer disciplina é atribuída pelo júri mediante apreciação global das provas que o constituam.
 
 ##### SUBSECÇÃO IV — Classificações finais
 
-###### Art. 59.º - 1. A classificação final de uma disciplina é a classificação do respectivo exame final, salvo se o aluno tiver sido dispensado deste, caso em que será igual à média de frequência.
+Art. 59.º - 1. A classificação final de uma disciplina é a classificação do respectivo exame final, salvo se o aluno tiver sido dispensado deste, caso em que será igual à média de frequência.
 
 2. A classificação final de cada instrução é a média aritmética das classificações a que se refere o n.º 2 do artigo 41.º, com excepção das instruções a que se refere o n.º 2 do artigo 47.º
 
-###### Art. 60.º A classificação final do curso é determinada pela média aritmética das classificações finais das disciplinas e instruções.
+Art. 60.º A classificação final do curso é determinada pela média aritmética das classificações finais das disciplinas e instruções.
 
 #### SECÇÃO IV — Cartas de curso
 
-###### Art. 61.º - 1. Aos alunos que concluírem os cursos de formação com aproveitamento é passada uma carta de curso, de modelo a fixar por portaria do Ministro da Marinha.
+Art. 61.º - 1. Aos alunos que concluírem os cursos de formação com aproveitamento é passada uma carta de curso, de modelo a fixar por portaria do Ministro da Marinha.
 
 2. Na carta de curso a que se refere o número anterior é registada a classificação final.
 
@@ -614,23 +641,23 @@ b) Obtiver média inferior a 10 valores nas três provais.
 
 ##### SUBSECÇÃO I — Admissão
 
-###### Art. 62.º - 1. A admissão aos cursos de formação realiza-se mediante concurso.
+Art. 62.º - 1. A admissão aos cursos de formação realiza-se mediante concurso.
 
 2. O número de alunos a admitir em cada concurso é fixado por despacho do Ministro dia Marinha, em face de proposta do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 63.º As normas e condições de admissão aos diversos cursos de formação professados na Escola de Mestrança e Marinhagem são as que constam do anexo J.
+Art. 63.º As normas e condições de admissão aos diversos cursos de formação professados na Escola de Mestrança e Marinhagem são as que constam do anexo J.
 
 ##### SUBSECÇÃO II — Regime escolar
 
-###### Art. 64.º - 1. Os alunos dos cursos de formação estão sujeitos a regime de internato.
+Art. 64.º - 1. Os alunos dos cursos de formação estão sujeitos a regime de internato.
 
 2. O regime de licenças é regulado pelo director da Escola, tendo em conta o aproveitamento dos alunos.
 
-###### Art. 65.º Quanto ao regime escolar, os alunos dos cursos de formação estão sujeitos aos regimes de frequência, de faltas e de prestação de provas estabelecidos neste Regulamento.
+Art. 65.º Quanto ao regime escolar, os alunos dos cursos de formação estão sujeitos aos regimes de frequência, de faltas e de prestação de provas estabelecidos neste Regulamento.
 
 ##### SUBSECÇÃO III — Regime disciplinar
 
-###### Art. 66.º As penas aplicáveis aos alunos dos cursos de formação por infracções disciplinares são as seguintes:
+Art. 66.º As penas aplicáveis aos alunos dos cursos de formação por infracções disciplinares são as seguintes:
 
 a) Ordem de saída da aula;
 
@@ -642,9 +669,9 @@ d) Detenção escolar até vinte dias;
 
 e) Expulsão.
 
-###### Art. 67.º A ordem de saída da aula tem por efeito a marcação de falta não justificada e é da competência do professor, instrutor ou auxiliar da instrução respectivo.
+Art. 67.º A ordem de saída da aula tem por efeito a marcação de falta não justificada e é da competência do professor, instrutor ou auxiliar da instrução respectivo.
 
-###### Art. 68.º - 1. A repreensão escolar simples e a repreensão escolar agravada consistem na repreensão do aluno pelas faltas cometidas.
+Art. 68.º - 1. A repreensão escolar simples e a repreensão escolar agravada consistem na repreensão do aluno pelas faltas cometidas.
 
 2. A repreensão simples é dada na presença dos alunos do mesmo curso de formação e a agravada em presença de todos os alunos dos cursos de formação.
 
@@ -652,19 +679,19 @@ e) Expulsão.
 
 4. Tanto a repreensão escolar simples como a agravada são registadas.
 
-###### Art. 69.º - 1. A detenção escolar consiste na permanência do aluno no recinto da Escola, do qual só pode sair por motivo de serviço.
+Art. 69.º - 1. A detenção escolar consiste na permanência do aluno no recinto da Escola, do qual só pode sair por motivo de serviço.
 
 2. A detenção escolar não impede a frequência das aulas e é da competência do director da Escola.
 
-###### Art. 70.º - 1. A pena de expulsão consiste na imediata exclusão do aluno da frequência da Escola.
+Art. 70.º - 1. A pena de expulsão consiste na imediata exclusão do aluno da frequência da Escola.
 
 2. A pena de expulsão será aplicada quando se verifique falta de idoneidade moral ou cometimento de grave infracção.
 
 3. A expulsão é da competência do director-geral dos Serviços de Fomento Marítimo, sob proposta do director, ouvido o conselho escolar.
 
-###### Art. 71.º Tanto as penas de detenção o escolar como a de expulsão são registadas.
+Art. 71.º Tanto as penas de detenção o escolar como a de expulsão são registadas.
 
-###### Art. 72.º O director da Escola pode delegar no subdirector a sua competência disciplinar, em relação aos alunos dos cursos de formação, da forma seguinte:
+Art. 72.º O director da Escola pode delegar no subdirector a sua competência disciplinar, em relação aos alunos dos cursos de formação, da forma seguinte:
 
 a) Repreensão escolar simples;
 
@@ -672,25 +699,25 @@ b) Repreensão escolar agravada;
 
 c) Detenção escolar até dez dias.
 
-###### Art. 73.º São excluídos os alunos que:
+Art. 73.º São excluídos os alunos que:
 
 a) Durante um período de seis meses sofram punições que excedam quarenta dias de detenção escolar;
 
 b) Desde a sua admissão na Escola tenham sofrido um número total de dias de detenção escolar que exceda sessenta dias.
 
-###### Art. 74.º Os alunos dos cursos de formação que, nos termos deste Regulamento, sejam excluídos da frequência da Escola por falta de aproveitamento ou por motivos disciplinares não podem concorrer novamente à Escola para frequentarem aqueles cursos.
+Art. 74.º Os alunos dos cursos de formação que, nos termos deste Regulamento, sejam excluídos da frequência da Escola por falta de aproveitamento ou por motivos disciplinares não podem concorrer novamente à Escola para frequentarem aqueles cursos.
 
 ### CAPÍTULO V — Cursos de preparação
 
-###### Art. 75.º Os cursos de preparação são ministrados por correspondência.
+Art. 75.º Os cursos de preparação são ministrados por correspondência.
 
-###### Art. 76.º - 1. Nos cursos de preparação pode inscrever-se qualquer marítimo desde que se encontre embarcado e deseje utilizar os mesmos cursos com o fim de se preparar para prestar provas para mudar de categoria.
+Art. 76.º - 1. Nos cursos de preparação pode inscrever-se qualquer marítimo desde que se encontre embarcado e deseje utilizar os mesmos cursos com o fim de se preparar para prestar provas para mudar de categoria.
 
 2. A inscrição apenas é permitida quando a mudança de categoria for viável, tendo em conta o que sobre tal matéria dispõe o R. I. M.
 
-###### Art. 77.º A direcção da Escola de Mestrança e Marinhagem poderá, por intermédio dos respectivos armadores, obter a colaboração dos oficiais dos navios em que os alunos estejam embarcados no ensino ministrado nos cursos de preparação.
+Art. 77.º A direcção da Escola de Mestrança e Marinhagem poderá, por intermédio dos respectivos armadores, obter a colaboração dos oficiais dos navios em que os alunos estejam embarcados no ensino ministrado nos cursos de preparação.
 
-###### Art. 78.º Os cursos de preparação compreenderão:
+Art. 78.º Os cursos de preparação compreenderão:
 
 a) Lições e pontos de provas, que serão enviados pelo correio aos alunos;
 
@@ -698,15 +725,15 @@ b) Emenda dos pontos de provas remetidos pelos alunos à Escola e a estes devolv
 
 c) Instruções enviadas aos oficiais de bordo designados para acompanhar o ensino, nos termos do disposto no artigo anterior.
 
-###### Art. 79.º - 1. Nos cursos de preparação os alunos não são classificados.
+Art. 79.º - 1. Nos cursos de preparação os alunos não são classificados.
 
 2. Da frequência dos cursos de preparação não é passada qualquer carta ou certificado do curso.
 
 ### CAPÍTULO VI — Cursos de aperfeiçoamento
 
-###### Art. 80.º Nos planos dos cursos de aperfeiçoamento serão definidas as categorias dos marítimos que os podem frequentar.
+Art. 80.º Nos planos dos cursos de aperfeiçoamento serão definidas as categorias dos marítimos que os podem frequentar.
 
-###### Art. 81.º A organização dos cursos de aperfeiçoamento pode ser proposta:
+Art. 81.º A organização dos cursos de aperfeiçoamento pode ser proposta:
 
 a) Pela direcção da Escola de Mestrança e Marinhagem;
 
@@ -716,37 +743,37 @@ c) Pelos armadores;
 
 d) Pelos sindicatos dos inscritos marítimos.
 
-###### Art. 82.º - 1. O regime escolar e a maneira de avaliar o aproveitamento dos alunos dos cursos de aperfeiçoamento serão definidos nos respectivos planos de cursos, tendo em conta a sua duração e finalidade.
+Art. 82.º - 1. O regime escolar e a maneira de avaliar o aproveitamento dos alunos dos cursos de aperfeiçoamento serão definidos nos respectivos planos de cursos, tendo em conta a sua duração e finalidade.
 
 2. Os cursos de aperfeiçoamento são frequentados em regime de externato.
 
-###### Art. 83.º O director da Escola pode excluir da frequência dos cursos de aperfeiçoamento os alunos que pelo seu comportamento ou falta de aproveitamento forem prejudiciais à disciplina ou ao ensino.
+Art. 83.º O director da Escola pode excluir da frequência dos cursos de aperfeiçoamento os alunos que pelo seu comportamento ou falta de aproveitamento forem prejudiciais à disciplina ou ao ensino.
 
-###### Art. 84.º Aos alunos que concluírem com aproveitamento os cursos de aperfeiçoamento será passado um certificado de curso de modelo a estabelecer por portaria do Ministro da Marinha.
+Art. 84.º Aos alunos que concluírem com aproveitamento os cursos de aperfeiçoamento será passado um certificado de curso de modelo a estabelecer por portaria do Ministro da Marinha.
 
 ### CAPÍTULO VII — Disposições diversas
 
-###### Art. 85.º - 1. Os alunos dos cursos de preparação e de aperfeiçoamento estão sujeitos ao pagamento de propinas.
+Art. 85.º - 1. Os alunos dos cursos de preparação e de aperfeiçoamento estão sujeitos ao pagamento de propinas.
 
 2. Enquanto a Escola de Mestrança e Marinhagem funcionar no regime referido no n.º 2 do artigo 2.º do [Decreto-Lei n.º 49078](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49078-1969-200261), de 25 de Junho de 1969, as propinas de que trata o número anterior serão estabelecidas por despacho do Ministro da Marinha e constituirão receita da Junta Nacional da Marinha Mercante.
 
-###### Art. 86.º As férias escolares serão estabelecidas por despacho do Ministro da Marinha, tendo em conta o que em tal matéria for adoptado nos outros estabelecimentos de ensino.
+Art. 86.º As férias escolares serão estabelecidas por despacho do Ministro da Marinha, tendo em conta o que em tal matéria for adoptado nos outros estabelecimentos de ensino.
 
-###### Art. 87.º As disposições de que tratam a secção III e a subsecção III da secção V do capítulo IV e os anexos a este Regulamento podem ser alteradas por portaria do Ministro da Marinha.
+Art. 87.º As disposições de que tratam a secção III e a subsecção III da secção V do capítulo IV e os anexos a este Regulamento podem ser alteradas por portaria do Ministro da Marinha.
 
-###### Art. 88.º As dúvidas que se verifiquem na execução deste Regulamento serão esclarecidas por despacho do Ministro da Marinha.
+Art. 88.º As dúvidas que se verifiquem na execução deste Regulamento serão esclarecidas por despacho do Ministro da Marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 ## ANEXO A — Organograma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO B — Programa anual das actividades escolares
 
 (Cursos de formação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO C — Calendário escolar
 
@@ -768,39 +795,39 @@ d) Pelos sindicatos dos inscritos marítimos.
 
 I - Disciplinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 II - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO E — Disciplinas de que dependem as diversas instruções dos cursos de formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO F — Plano do curso de formação de marinheiro
 
 Objectivo. - Formar os alunos como marinheiros e técnicos marítimos, a fim de os preparar para o desempenho das funções que competem aos marinheiros de 2.ª classe.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO G — Plano do curso de formação de fogueiro-motorista
 
 Objectivo. - Formar os alunos como marinheiros e técnicos marítimos, a fim de os preparar para o desempenho das funções que competem aos fogueiros e aos ajudantes de motorista.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO H — Plano do curso de formação de electricista
 
 Objectivo. - Formar os alunos como marinheiros e técnicos marítimos, a fim de os preparar para o desempenho das funções que competem aos ajudantes de electricista.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO I — Plano do curso de formação de copeiro
 
 Objectivo. - Formar os alunos como marinheiros e técnicos marítimos, a fim de os preparar para o desempenho das funções que competem aos ajudantes de copa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf))](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/20200/12221232.pdf)
 
 ## ANEXO J — I) Condições de admissão
 
@@ -862,7 +889,7 @@ V) Condições de preferência
 
 9. Desde que entre os concorrentes existam órfãos de militares mortos em campanha, o Ministro da Marinha poderá determinar a sua admissão, além das vacaturas para que foi aberto o concurso, desde que a capacidade da Escola o permita.
 
-## Apêndice ao anexo J
+Apêndice ao anexo J
 
 Minuta do requerimento
 
@@ -876,4 +903,4 @@ Data ...
 
 Assinatura ...
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

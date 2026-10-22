@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/29900/19121915.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb0b21c93ea4aec92a9fd3feec437f3d4e1e1d7ca2591e6db4b7c5996cff100
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb3fbb1c8044e12dc5ede4ecb74ea7d01fe354c1ac7d7718cd183c1cb55ac0f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Diretor Geral
+- Formas de Provimento
+- Orgânica
+- Quadro de Pessoal
+- Serviço Meteorologico Nacional
 relationships:
 - type: amended_by
   target: pt:dre:430865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400651:por
+  label: "Alterados o art. 14º e o § 3º do art. 18º e substituída, na parte relativa a pessoal técnico superior, a tabela\
+    \ a que se refere o art. 13º do Dec Lei 35836, de 2-Ago de 1946, na redacção do presente diploma, pelo DEC LEI.48116.14.12.1967.MCOMN,\
+    \ DG.IS [289] de 14.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48116-1967-400651
+  date: '1967-12-14'
+- type: cites
+  target: pt:dre:156982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480112:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430865:por
+  label: "Revogado pelo DEC LEI.633/76.28.07.1976.MTC, DR.IS [175] de 28.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/633-1976-430865
+  date: '1976-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:26Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +125,9 @@ Reconhecendo-se a conveniência de alterar algumas disposições do [Decreto-Lei
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º a 12.º, 14.º, 18.º, 22.º, 23.º, 25.º e 30.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, com os seus parágrafos, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º a 12.º, 14.º, 18.º, 22.º, 23.º, 25.º e 30.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, com os seus parágrafos, passam a ter a seguinte redacção:
 
-###### Art. 4.º O Serviço Meteorológico Nacional é dirigido por um director-geral, ao qual compete:
+Art. 4.º O Serviço Meteorológico Nacional é dirigido por um director-geral, ao qual compete:
 
 1.º Assegurar o funcionamento eficaz do Serviço, incluindo a cooperação com os serviços e organismos congéneres dos outros países, sob a orientação superior do Governo;
 
@@ -105,9 +139,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. O director-geral é coadjuvado por um subdirector que o substitui nas suas faltas e impedimentos.
 
-###### Art. 5.º Para exame dos assuntos relacionados com fornecimento de informações meteorológicas e geofísicas às várias actividades no território nacional e nas regiões oceânicas adjacentes poderá o director-geral promover a realização de reuniões em que participem representantes dos utilizadores e dos serviços de telecomunicações.
+Art. 5.º Para exame dos assuntos relacionados com fornecimento de informações meteorológicas e geofísicas às várias actividades no território nacional e nas regiões oceânicas adjacentes poderá o director-geral promover a realização de reuniões em que participem representantes dos utilizadores e dos serviços de telecomunicações.
 
-###### Art. 6.º O Serviço Meteorológico Nacional é constituído por:
+Art. 6.º O Serviço Meteorológico Nacional é constituído por:
 
 1.º A Direcção-Geral, em Lisboa;
 
@@ -115,7 +149,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Os Serviços Meteorológicos das províncias ultramarinas da Guiné, de S. Tomé e Príncipe, de Angola de Moçambique, do Estado da Índia, de Macau e de Timor, integrados no Serviço Meteorológico Nacional, como divisões externas, nos termos do artigo 3.º deste diploma e da [Lei n.º 2042](https://diariodarepublica.pt/dr/detalhe/lei/2042-1950-480112), de 17 de Junho de 1950.
 
-###### Art. 7.º Os serviços da Direcção-Geral são a I Divisão (rede meteorológica), a II Divisão (exploração meteorológica), a III Divisão (estudos meteorológicos), a IV Divisão (geofísica), a Repartição Técnica, a Repartição de Material e a secretaria.
+Art. 7.º Os serviços da Direcção-Geral são a I Divisão (rede meteorológica), a II Divisão (exploração meteorológica), a III Divisão (estudos meteorológicos), a IV Divisão (geofísica), a Repartição Técnica, a Repartição de Material e a secretaria.
 
 § 1.º Compete à I Divisão assegurar o funcionamento eficaz da rede de estações terrestres e oceânicas para observações meteorológicas de superfície e de altitude e o fornecimento, publicação e conservação dos resultados das observações executadas na rede e a bordo das aeronaves.
 
@@ -131,23 +165,23 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 7.º Compete à secretaria assegurar o expediente geral, o cadastro do pessoal, a contabilidade e a tesouraria.
 
-###### Art. 8.º Os estabelecimentos externos são as estações meteorológicas e geofísicas, incluindo observatório e postos de observação, os centros meteorológicos e os postos de previsão do tempo, permanentes ou temporários, em terra e a bordo dos navios mercantes nacionais.
+Art. 8.º Os estabelecimentos externos são as estações meteorológicas e geofísicas, incluindo observatório e postos de observação, os centros meteorológicos e os postos de previsão do tempo, permanentes ou temporários, em terra e a bordo dos navios mercantes nacionais.
 
-###### Art. 9.º Os estabelecimentos externos no continente são superintendidos pelas divisões centrais da Direcção-Geral.
+Art. 9.º Os estabelecimentos externos no continente são superintendidos pelas divisões centrais da Direcção-Geral.
 
-###### Art. 10.º Em cada um dos arquipélagos dos Açores, da Madeira e de Cabo Verde haverá uma divisão externa para superintender os estabelecimentos meteorológicos e geofísicos do arquipélago, assegurando o seu funcionamento eficaz sob a orientação da Direcção-Geral.
+Art. 10.º Em cada um dos arquipélagos dos Açores, da Madeira e de Cabo Verde haverá uma divisão externa para superintender os estabelecimentos meteorológicos e geofísicos do arquipélago, assegurando o seu funcionamento eficaz sob a orientação da Direcção-Geral.
 
 § 1.º Cada uma das divisões dos Açores, da Madeira e de Cabo Verde é chefiada pelo funcionário técnico mais graduado do Serviço que estiver colocado no arquipélago respectivo.
 
 § 2.º Os estabelecimentos de cada uma das ilhas são superintendidos pelo funcionário técnico mais graduado do Serviço que estiver colocado nessa ilha, sob a orientação do chefe da divisão respectiva.
 
-###### Art. 11.º No exercício da competência que lhe é atribuída pelo artigo 3.º da [Lei n.º 2042](https://diariodarepublica.pt/dr/detalhe/lei/2042-1950-480112) e pelo artigo 1.º deste diploma no que respeita aos Serviços meteorológicos das províncias ultramarinas, o director-geral do Serviço Meteorológico Nacional actuará como director-geral do Ministério do Ultramar, submetendo directamente a despacho do Ministro os respectivos assuntos e promovendo a execução das suas decisões.
+Art. 11.º No exercício da competência que lhe é atribuída pelo artigo 3.º da [Lei n.º 2042](https://diariodarepublica.pt/dr/detalhe/lei/2042-1950-480112) e pelo artigo 1.º deste diploma no que respeita aos Serviços meteorológicos das províncias ultramarinas, o director-geral do Serviço Meteorológico Nacional actuará como director-geral do Ministério do Ultramar, submetendo directamente a despacho do Ministro os respectivos assuntos e promovendo a execução das suas decisões.
 
-###### Art. 12.º O Serviço Meteorológico Nacional tem autonomia administrativa e os respectivos fundos são geridos por um conselho administrativo constituído pelo director-geral, que preside, e pelos chefes da Repartição de Material e da secretaria.
+Art. 12.º O Serviço Meteorológico Nacional tem autonomia administrativa e os respectivos fundos são geridos por um conselho administrativo constituído pelo director-geral, que preside, e pelos chefes da Repartição de Material e da secretaria.
 
 ...
 
-###### Art. 14.º O pessoal que consta da tabela anexa ao presente diploma destina-se à execução dos trabalhos que competem ao Serviço Meteorológico Nacional no continente, nos Açores, na Madeira e em Cabo Verde.
+Art. 14.º O pessoal que consta da tabela anexa ao presente diploma destina-se à execução dos trabalhos que competem ao Serviço Meteorológico Nacional no continente, nos Açores, na Madeira e em Cabo Verde.
 
 § 1.º As nomeações para os lugares dos quadros dos serviços meteorológicos das províncias ultramarinas serão feitas em comissão pelo prazo de quatro anos, contados da data de entrada no desempenho das respectivas funções, podendo o funcionário ser reconduzido por dois períodos sucessivos de dois anos cada um.
 
@@ -161,7 +195,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 18.º O recrutamento de estagiários para meteorologista far-se-á por concurso documental a que poderão apresentar-se os indivíduos diplomados com um curso universitário de ciências físicas que inclua as cadeiras de Meteorologia e de Geofísica ou seja completado com elas.
+Art. 18.º O recrutamento de estagiários para meteorologista far-se-á por concurso documental a que poderão apresentar-se os indivíduos diplomados com um curso universitário de ciências físicas que inclua as cadeiras de Meteorologia e de Geofísica ou seja completado com elas.
 
 § 1.º Os estágios realizar-se-ão normalmente em Lisboa, com a duração de um ano escolar.
 
@@ -173,11 +207,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 22.º Os ajudantes de meteorologista de 2.ª classe serão recrutados por concurso documental a que poderão apresentar-se os indivíduos que tenham concluído com aproveitamento o estágio para ajudante de meteorologista.
+Art. 22.º Os ajudantes de meteorologista de 2.ª classe serão recrutados por concurso documental a que poderão apresentar-se os indivíduos que tenham concluído com aproveitamento o estágio para ajudante de meteorologista.
 
 § único. Os indivíduos que tenham desempenhado durante seis meses as funções de observador ou ajudante de meteorologista, com a qualificação de Bom, em estabelecimentos do Serviço na metrópole ou no ultramar são considerados, para todos os efeitos, como tendo concluído com aproveitamento o estágio para ajudante de meteorologista.
 
-###### Art. 23.º O recrutamento de estagiários para ajudante de meteorologista far-se-á por concurso documental a que poderão apresentar-se os indivíduos com a habilitação mínima do 2.º ciclo liceal ou equivalente.
+Art. 23.º O recrutamento de estagiários para ajudante de meteorologista far-se-á por concurso documental a que poderão apresentar-se os indivíduos com a habilitação mínima do 2.º ciclo liceal ou equivalente.
 
 § 1.º Os estágios realizar-se-ão no estabelecimento e com a duração que forem fixados para cada caso.
 
@@ -187,7 +221,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 25.º O provimento dos lugares dos quadros do pessoal administrativo e auxiliar far-se-á por nomeação e o do pessoal menor por contrato.
+Art. 25.º O provimento dos lugares dos quadros do pessoal administrativo e auxiliar far-se-á por nomeação e o do pessoal menor por contrato.
 
 § 1.º O ingresso no quadro do pessoal administrativo far-se-á pelo lugar de aspirante ou de dactilógrafo. O ingresso nos quadros do pessoal auxiliar e menor far-se-á pelo lugar da classe mais baixa, se houver mais de uma na respectiva categoria.
 
@@ -197,7 +231,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 30.º Ao desempenho de determinadas funções correspondem gratificações especiais, cujo valor mensal é o seguinte:
+Art. 30.º Ao desempenho de determinadas funções correspondem gratificações especiais, cujo valor mensal é o seguinte:
 
 Subdirector e chefe do centro meteorológico principal de Lisboa - 1000$00;
 
@@ -207,21 +241,21 @@ Chefes dos centros meteorológicos auxiliares e chefes de turno dos centros mete
 
 § único. A qualificação dos centros meteorológicos secundários e auxiliares actualmente em funcionamento e daqueles que vierem a instalar-se será feita por portaria do Ministro das Comunicações.
 
-###### Art. 2.º A tabela a que se refere o artigo 13.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982) é substituída pela tabela anexa ao presente diploma.
+Art. 2.º A tabela a que se refere o artigo 13.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982) é substituída pela tabela anexa ao presente diploma.
 
 § único. No ano de 1964 só poderão ser providos doze lugares de meteorologista de 3.ª classe. Os restantes lugares serão gradualmente preenchidos à razão de três unidades em cada ano até ao limite fixado no presente diploma.
 
-###### Art. 3.º O lugar de engenheiro electrotécnico será inicialmente provido para a 3.ª classe por concurso documental a que poderão apresentar-se os indivíduos diplomados com o respectivo curso. A promoção às classes superiores far-se-á por arrastamento pelo meteorologista imediatamente mais antigo de igual classe, satisfeitas as condições de promoção.
+Art. 3.º O lugar de engenheiro electrotécnico será inicialmente provido para a 3.ª classe por concurso documental a que poderão apresentar-se os indivíduos diplomados com o respectivo curso. A promoção às classes superiores far-se-á por arrastamento pelo meteorologista imediatamente mais antigo de igual classe, satisfeitas as condições de promoção.
 
 § único (transitório). O engenheiro electrotécnico que desempenha actualmente estas funções por contrato, além do quadro, poderá ser nomeado engenheiro electrotécnico do quadro do pessoal técnico superior, na classe correspondente aos vencimentos fixados no respectivo contrato.
 
-###### Art. 4.º (transitório). Os actuais motociclistas considerar-se-ão providos em lugares de condutor de automóvel e os actuais encarregados de posto considerar-se-ão providos em lugares de auxiliar de observações, com dispensa de qualquer formalidade além do respectivo averbamento no diploma de funções públicas, e contarão no novo lugar a antiguidade que tinham no anterior.
+Art. 4.º (transitório). Os actuais motociclistas considerar-se-ão providos em lugares de condutor de automóvel e os actuais encarregados de posto considerar-se-ão providos em lugares de auxiliar de observações, com dispensa de qualquer formalidade além do respectivo averbamento no diploma de funções públicas, e contarão no novo lugar a antiguidade que tinham no anterior.
 
-###### Art. 5.º O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publicação, data a partir da qual ficarão revogados o artigo 5.º do [Decreto-Lei n.º 36715](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36715-1948-241867), de 8 de Janeiro de 1948, e o [Decreto-Lei n.º 37713](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37713-1949-268390), de 30 de Dezembro de 1949, considerando-se substituídas pelas designações fixadas no presente diploma as designações diferentes de cargos e serviços fixadas no [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982) e nos outros diplomas legais aplicáveis.
+Art. 5.º O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publicação, data a partir da qual ficarão revogados o artigo 5.º do [Decreto-Lei n.º 36715](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36715-1948-241867), de 8 de Janeiro de 1948, e o [Decreto-Lei n.º 37713](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37713-1949-268390), de 30 de Dezembro de 1949, considerando-se substituídas pelas designações fixadas no presente diploma as designações diferentes de cargos e serviços fixadas no [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982) e nos outros diplomas legais aplicáveis.
 
 § único. Os encargos resultantes das alterações introduzidas pelo presente diploma até final do corrente ano serão satisfeitos pelas disponibilidades das dotações inscritas no capítulo 5.º do Ministério das Comunicações para remunerações certas ao pessoal em exercício, convenientemente reforçadas se vierem a mostrar-se insuficientes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/1980, 2º Suplemento, Série I de 1980-06-09
   number: '132'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1364-(50) a 1364-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00500050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-c-1980-324948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4011d7630bd656064fa0a248c02f645eb1b10e8e44167c086b349c7e8a47c0a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b84da901f49f2efbf179d811730fb7a704532d0e81c9be8eb647cb6b4a7cf36a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Predial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:21Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +101,9 @@ de 9 de Junho
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pelo artigo 14.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, n.º 7.º e § 4.º, alínea c), e 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, n.º 7.º e § 4.º, alínea c), e 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
@@ -112,18 +123,18 @@ c) A prova das situações que dão direito à ampliação dos prazos de isenç�
 
 ...
 
-###### Art. 220.º A taxa da contribuição predial rústica é de 14% e a da contribuição predial urbana é de 18%.
+Art. 220.º A taxa da contribuição predial rústica é de 14% e a da contribuição predial urbana é de 18%.
 
-###### Art. 2.º É aditado ao artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola um novo n.º 8.º, com a seguinte redacção:
+Art. 2.º É aditado ao artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola um novo n.º 8.º, com a seguinte redacção:
 
 8.º Quando os beneficiários da isenção prevista no número anterior provarem a sua situação de deficientes de carácter permanente, os prazos aí referidos serão ampliados por períodos proporcionais ao grau de deficiência comprovada quando igual ou superior a 20%.
 
-###### Art. 3.º O disposto no artigo 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com a redacção do presente decreto-lei, aplica-se aos rendimentos dos anos de 1979 e seguintes.
+Art. 3.º O disposto no artigo 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com a redacção do presente decreto-lei, aplica-se aos rendimentos dos anos de 1979 e seguintes.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Junho de 1980.**
+Promulgado em 2 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

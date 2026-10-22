@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1970-139241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6aa7ac01d5162178d5b1f15442a462be9383b6f5aaccca83f293c5ef52317b4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4303f2c46d5ded68b44173b7915410c6cbbceb5bfc0d5684bcacba746dd3a870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Ananás
+- Estufa
+- Fruticultura
+- ILHA de são Miguel
+relationships:
+- type: cites
+  target: pt:dre:197714:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:38Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +97,12 @@ Considerando que, nestas condições, não é conveniente manter a proibição d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É revogado o [Decreto-Lei n.º 29584](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29584-1939-197714), de 10 de Maio de 1939.
+Artigo único. É revogado o [Decreto-Lei n.º 29584](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29584-1939-197714), de 10 de Maio de 1939.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 28 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 28 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Agosto de 1970. - MARCELLO CAETANO.

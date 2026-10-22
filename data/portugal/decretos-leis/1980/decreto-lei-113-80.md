@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10900/09380939.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1113d0a88114c7b654b0ab6e069bc5007259be0f9c4c80005e9a7e08ebda7d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df6a4ba223861b1c8bdd631623d5c20e69a5819aeebe027d2aad775391e5ffb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459605:por
+  label: "Substituído o quadro de pessoal aprovado pelo Dec Lei 383/77 de 10-Set, com as alterações do Dec Lei 500/77 de 28-Nov,\
+    \ DR.IS [275], da Port 424/78 de 28-Jul, DR.IS [172], da Port 387/79 de 2-Ago, DR.IS [177] e do presente diploma, pela\
+    \ Port 1081/80 1980.12.19, DR.IS [292] PORT.1081/80.1980.12.19.PCM\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-1980-459605
+  date: '1980-12-19'
+- type: cites
+  target: pt:dre:286114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:11Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +129,9 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 11.º e 23.º do [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 11.º e 23.º do [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos disporá dos seguintes serviços regionais:
 
@@ -126,7 +157,7 @@ Laboratório;
 
 Fiscalização (polícia das águas);
 
-#### Secção de serviços administrativos.
+Secção de serviços administrativos.
 
 4 - ...
 
@@ -138,7 +169,7 @@ Fiscalização (polícia das águas);
 
 ...
 
-###### Art. 11.º Às direcções de serviços regionais de hidráulica compete:
+Art. 11.º Às direcções de serviços regionais de hidráulica compete:
 
 1) ...
 
@@ -164,7 +195,7 @@ e) ...
 
 ...
 
-###### Art. 23.º - 1 - O recrutamento do pessoal dirigente, com excepção dos chefes de repartição, será efectuado nos termos estabelecidos no artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e quer o seu provimento, quer o regime jurídico de exercício das suas funções subordinar-se-ão às restantes disposições do referido diploma.
+Art. 23.º - 1 - O recrutamento do pessoal dirigente, com excepção dos chefes de repartição, será efectuado nos termos estabelecidos no artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e quer o seu provimento, quer o regime jurídico de exercício das suas funções subordinar-se-ão às restantes disposições do referido diploma.
 
 2 - O recrutamento dos chefes de repartição será precedido de avaliação curricular e far-se-á por escolha do Ministro da Habitação e Obras Públicas, sob proposta do director-geral, de entre:
 
@@ -174,24 +205,24 @@ b) Indivíduos habilitados com curso superior adequado, de reconhecida competên
 
 c) Chefes de secção dos quadros dos restantes serviços do Ministério que reúnam as condições enumeradas na alínea a), apenas nos casos de impossibilidade de recrutamento nos termos referidos nas alíneas a) e b).
 
-###### Art. 2.º Em consequência do disposto nos artigos anteriores e no n.º 1 do artigo 2.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, é alterado o quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, aprovado pelo [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, relativamente aos lugares de pessoal dirigente e de chefe de secção, de acordo com o mapa anexo ao presente diploma.
+Art. 2.º Em consequência do disposto nos artigos anteriores e no n.º 1 do artigo 2.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, é alterado o quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, aprovado pelo [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, relativamente aos lugares de pessoal dirigente e de chefe de secção, de acordo com o mapa anexo ao presente diploma.
 
-###### Art. 3.º Os encargos emergentes da publicação deste diploma serão satisfeitos no corrente ano pelas disponibilidades orçamentais das dotações destinadas ao pagamento das remunerações certas e permanentes da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
+Art. 3.º Os encargos emergentes da publicação deste diploma serão satisfeitos no corrente ano pelas disponibilidades orçamentais das dotações destinadas ao pagamento das remunerações certas e permanentes da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
 
-###### Art. 4.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Vice-Primeiro-Ministro e do Ministro da Habitação e Obras Públicas.
+Art. 4.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Vice-Primeiro-Ministro e do Ministro da Habitação e Obras Públicas.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Abril de 1980.**
+Promulgado em 30 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 2.º do [Decreto-Lei n.º 111/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1980-475281)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10900/09380939.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10900/09380939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10900/09380939.pdf)
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45865-1964-579933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d95cf5cb62d0e6eb70e803d3a5c52a479b551a9cc29da539c394862bce06513
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0549d59de9ec8f7c59b9b171e1abcf36a5f9c744ebcd6a9b30ea0f89384ee677
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério da Saúde e Assistência
+- Ministério das Finanças
+- Orçamento Geral do Estado
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:13Z'
   warnings: []
   errors: []
 ---
@@ -116,12 +121,12 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Saúde e Assistência, um crédito especial da quantia de 2000000$00, devendo a mesma importância ser adicionada à verba inscrita na alínea 1 do n.º 1) do artigo 75.º, do capítulo 5.º, consignada aos Hospitais Civis de Lisboa, do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Saúde e Assistência, um crédito especial da quantia de 2000000$00, devendo a mesma importância ser adicionada à verba inscrita na alínea 1 do n.º 1) do artigo 75.º, do capítulo 5.º, consignada aos Hospitais Civis de Lisboa, do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
 
-###### Art. 2.º É anulada igual importância de 2000000$00 na alínea 1 do n.º 3) do artigo 45.º, do capítulo 5.º, do orçamento do corrente ano económico do Ministério das Finanças.
+Art. 2.º É anulada igual importância de 2000000$00 na alínea 1 do n.º 3) do artigo 45.º, do capítulo 5.º, do orçamento do corrente ano económico do Ministério das Finanças.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

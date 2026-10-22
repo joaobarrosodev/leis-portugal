@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14000/08420844.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1975-337056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f4c1eb011234f8a691280c8e125cef58b7c7bc5aebcd9aa603452f6ed70b6ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d06c9e8ccdcb5b46a88980f61be208fa7b992677cab26559a16bdcd40614905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- Inspecção Geral de Crédito e Seguros
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443689:por
+  label: "Reposto em vigor o Dec Lei 47918 de 08-Set, com a redacção do presente diploma, DEC LEI.396/83.1983.10.29.MJ DR.IS\
+    \ [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1983-443689
+  date: '1983-10-29'
+- type: amended_by
+  target: pt:dre:515597:por
+  label: Alterada a al. a) do art. 2.º, relativamente à transferência de competências da Inspecção-Geral de Finanças para
+    o Conselho de Mercados de Obras Públicas e Particulares, pelo DEC LEI.99/92.28.05.1992.MOPTC, DR.IS-A [123] de 28.05.1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1992-515597
+  date: '1992-05-28'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:172905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435623:por
+  label: "Revogado o nº 2 do art. 6º pelo DEC LEI.349-B/83.1983.07.30.MFP DR.IS [174]5º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-b-1983-435623
+  date: '1983-07-30'
+- type: repealed_by
+  target: pt:dre:623856:por
+  label: "Revogada a alínea a) do artigo 2.º e o n.º 2 do artigo 3.º, pelo DEC LEI.285/92.19.12.1992.MOPTC, DR.IS-A [292]\
+    \ de 19.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1992-623856
+  date: '1992-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:39Z'
   warnings: []
   errors: []
 ---
@@ -98,29 +154,29 @@ Considerando ainda que será da maior vantagem concentrar no Banco de Portugal, 
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É extinta a Inspecção-Geral de Crédito e Seguros.
+Artigo 1.º - 1. É extinta a Inspecção-Geral de Crédito e Seguros.
 
 2. As atribuições que por lei cabiam à Inspecção de Crédito da referida Inspecção-Geral de Crédito e Seguros passam para a competência do Banco de Portugal, nos termos do disposto no presente diploma.
 
 3. Os serviços da Inspecção de Seguros continuam a fazer parte da orgânica do Ministério das Finanças.
 
-###### Art. 2.º São excluídas da competência do Banco de Portugal as seguintes atribuições anteriormente cometidas à Inspecção de Crédito:
+Art. 2.º São excluídas da competência do Banco de Portugal as seguintes atribuições anteriormente cometidas à Inspecção de Crédito:
 
 a) A instrução dos pedidos de autorização, bem como a fiscalização, dos mediadores na compra e venda de bens imobiliários, a que se refere o [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961;
 
 b) As atribuições que, em matéria tributária ou de carácter fiscal, lhe eram cometidas pela legislação respectiva.
 
-###### Art. 3.º - 1. As atribuições mencionadas na alínea b) do artigo anterior passam para a competência da Direcção-Geral das Contribuições e Impostos, salvo tratando-se de entidades sujeitas à fiscalização da Inspecção de Seguros.
+Art. 3.º - 1. As atribuições mencionadas na alínea b) do artigo anterior passam para a competência da Direcção-Geral das Contribuições e Impostos, salvo tratando-se de entidades sujeitas à fiscalização da Inspecção de Seguros.
 
 2. O exercício da actividade dos mediadores, a que alude a alínea a) do artigo precedente, passa a ficar sujeita à fiscalização e autorização especial e prévia da Inspecção-Geral de Finanças.
 
-###### Art. 4.º - 1. A competência que cabia à Inspecção de Crédito quanto à instauração e instrução de processos de transgressões passa igualmente para o Banco de Portugal.
+Art. 4.º - 1. A competência que cabia à Inspecção de Crédito quanto à instauração e instrução de processos de transgressões passa igualmente para o Banco de Portugal.
 
 2. A aplicação das sanções continua a ser da competência do Ministro das Finanças.
 
-###### Art. 5.º As instituições de crédito nacionalizadas ficam isentas do pagamento da quota de fiscalização a que se refere o artigo 8.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+Art. 5.º As instituições de crédito nacionalizadas ficam isentas do pagamento da quota de fiscalização a que se refere o artigo 8.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-###### Art. 6.º - 1. Para o exercício das funções que resultam da competência que lhe é atribuída nos termos do presente diploma, o Banco de Portugal criará, no seu quadro orgânico, os serviços adequados, podendo alguma ou algumas dessas funções ser imputadas a serviços já constituídos ou a constituir.
+Art. 6.º - 1. Para o exercício das funções que resultam da competência que lhe é atribuída nos termos do presente diploma, o Banco de Portugal criará, no seu quadro orgânico, os serviços adequados, podendo alguma ou algumas dessas funções ser imputadas a serviços já constituídos ou a constituir.
 
 2. O Ministro das Finanças estabelecerá em portaria quais os funcionários dos serviços mencionados no número precedente que terão a competência a que alude o n.º 2 do artigo 1.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966.
 
@@ -128,7 +184,7 @@ b) As atribuições que, em matéria tributária ou de carácter fiscal, lhe era
 
 4. A regulamentação e a estrutura dos serviços a que se refere o anterior n.º 1 serão estabelecidas pelo conselho de administração do Banco de Portugal.
 
-###### Art. 7.º - 1. O pessoal do quadro da Inspecção-Geral de Crédito e Seguros afecto à Inspecção de Crédito será incorporado nos quadros de pessoal do Banco de Portugal em classes e categorias equivalentes aos lugares que desempenhavam na referida Inspecção, de acordo com o que se estabelece na alínea a) do artigo 10.º deste diploma.
+Art. 7.º - 1. O pessoal do quadro da Inspecção-Geral de Crédito e Seguros afecto à Inspecção de Crédito será incorporado nos quadros de pessoal do Banco de Portugal em classes e categorias equivalentes aos lugares que desempenhavam na referida Inspecção, de acordo com o que se estabelece na alínea a) do artigo 10.º deste diploma.
 
 2. O disposto no número anterior poderá também ser aplicado ao pessoal eventual que à data da publicação do presente diploma se encontre a prestar serviço na Inspecção de Crédito.
 
@@ -142,34 +198,34 @@ b) As atribuições que, em matéria tributária ou de carácter fiscal, lhe era
 
 7. Ao pessoal do quadro referido no n.º 1 que se encontre a prestar serviço, em comissão, noutros departamentos do Estado serão igualmente aplicáveis as disposições do presente artigo, podendo, porém, permanecer no exercício das respectivas funções, mediante despacho do Ministro das Finanças.
 
-###### Art. 8.º - 1. O inspector-geral de Crédito e Seguros é colocado, sem prejuízo de quaisquer direitos ou regalias anteriormente adquiridos no exercício da função pública, na Secretaria-Geral do Ministério das Finanças, com a categoria de director-geral, supranumerário.
+Art. 8.º - 1. O inspector-geral de Crédito e Seguros é colocado, sem prejuízo de quaisquer direitos ou regalias anteriormente adquiridos no exercício da função pública, na Secretaria-Geral do Ministério das Finanças, com a categoria de director-geral, supranumerário.
 
 2. A mencionada Secretaria-Geral será anualmente dotada com a verba necessária à execução do disposto no número anterior.
 
 3. O funcionário a que alude o presente artigo poderá ser nomeado para o exercício de quaisquer funções, regressando à situação prevista no n.º 1 logo que cesse o respectivo exercício.
 
-###### Art. 9.º - 1. Os valores activos e passivos da extinta Inspecção de Crédito que não se tornem necessários à Inspecção de Seguros serão entregues ao Estado, através da Direcção-Geral da Fazenda Pública - Repartição do Património - e da Direcção-Geral da Contabilidade Pública.
+Art. 9.º - 1. Os valores activos e passivos da extinta Inspecção de Crédito que não se tornem necessários à Inspecção de Seguros serão entregues ao Estado, através da Direcção-Geral da Fazenda Pública - Repartição do Património - e da Direcção-Geral da Contabilidade Pública.
 
 2. Os processos individuais do pessoal transferido para o Banco de Portugal transitarão para a Secretaria-Geral do Ministério das Finanças, e o respectivo registo biográfico, para aquele Banco.
 
-###### Art. 10.º Será criada, transitoriamente, por despacho do Ministro das Finanças, uma comissão, da qual farão parte representantes do Banco de Portugal, da Inspecção de Crédito e dos sindicatos dos bancários, com as seguintes atribuições:
+Art. 10.º Será criada, transitoriamente, por despacho do Ministro das Finanças, uma comissão, da qual farão parte representantes do Banco de Portugal, da Inspecção de Crédito e dos sindicatos dos bancários, com as seguintes atribuições:
 
 a) Apreciar os processos de transferência e propor ao Ministro das Finanças o necessário à execução do disposto no artigo 7.º;
 
 b) Assegurar a transferência dos valores mencionados no artigo 9.º
 
-###### Art. 11.º A transferência, quer das funções, quer do pessoal a que se refere o presente diploma, processar-se-á, para todos os efeitos legais, trinta dias após a entrada em vigor do presente decreto-lei.
+Art. 11.º A transferência, quer das funções, quer do pessoal a que se refere o presente diploma, processar-se-á, para todos os efeitos legais, trinta dias após a entrada em vigor do presente decreto-lei.
 
-###### Art. 12.º Os casos omissos e duvidosos que se suscitarem na execução deste diploma serão resolvidos por despacho do Ministro das Finanças.
+Art. 12.º Os casos omissos e duvidosos que se suscitarem na execução deste diploma serão resolvidos por despacho do Ministro das Finanças.
 
-###### Art. 13.º Fica o Ministro das Finanças autorizado a tomar as providências indispensáveis à execução deste diploma.
+Art. 13.º Fica o Ministro das Finanças autorizado a tomar as providências indispensáveis à execução deste diploma.
 
-###### Art. 14.º Este decreto-lei entra imediatamente em vigor.
+Art. 14.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - António Carlos Magalhães Arnão Metelo - José Joaquim Fragoso.
 
-**Promulgado em 11 de Junho de 1975.**
+Promulgado em 11 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

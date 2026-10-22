@@ -48,36 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1970-139379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a43b45f8c69695c4ea1298a25ba500ada5a16b5b8aba4d431a8ba4056b07b2b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbc712053209e00a87ef61ba4fb90f168c65dc9469d60043177d9c0f7c539301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Actualização de Pensões
+- Bonificação de Pensões
+- Caixa Geral de Aposentações
+- Cálculo de Pensões
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Reforma
+- Pensionista
+- Pensões
+- Subsídio Eventual de Custo de VIDA
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:40Z'
   warnings: []
   errors: []
 ---
@@ -96,26 +118,26 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O subsídio eventual de custo de vida estabelecido no [Decreto-Lei n.º 48039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48039-1967-389233), de 17 de Novembro de 1967, é integrado nas pensões de aposentação, reforma e invalidez fixadas com base nas remunerações em vigor anteriormente a 1 de Janeiro de 1970.
+Artigo 1.º O subsídio eventual de custo de vida estabelecido no [Decreto-Lei n.º 48039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48039-1967-389233), de 17 de Novembro de 1967, é integrado nas pensões de aposentação, reforma e invalidez fixadas com base nas remunerações em vigor anteriormente a 1 de Janeiro de 1970.
 
-###### Art. 2.º As pensões determinadas de harmonia com o artigo 1.º são aumentadas de 20 por cento, com o necessário arredondamento para escudos por excesso.
+Art. 2.º As pensões determinadas de harmonia com o artigo 1.º são aumentadas de 20 por cento, com o necessário arredondamento para escudos por excesso.
 
-###### Art. 3.º Sempre que a pensão calculada com base na remuneração em vigor desde 1 de Janeiro de 1970 seja inferior à pensão que corresponderia à remuneração vigente antes dessa data, corrigida de harmonia com os artigos 1.º e 2.º, será aquela aumentada da diferença que se verificar.
+Art. 3.º Sempre que a pensão calculada com base na remuneração em vigor desde 1 de Janeiro de 1970 seja inferior à pensão que corresponderia à remuneração vigente antes dessa data, corrigida de harmonia com os artigos 1.º e 2.º, será aquela aumentada da diferença que se verificar.
 
-###### Art. 4.º Para todos os efeitos legais, o aumento concedido nos termos do artigo 2.º considera-se como fazendo parte integrante das pensões de aposentação, reforma e invalidez.
+Art. 4.º Para todos os efeitos legais, o aumento concedido nos termos do artigo 2.º considera-se como fazendo parte integrante das pensões de aposentação, reforma e invalidez.
 
-###### Art. 5.º São exceptuadas do disposto nos artigos 1.º e 2.º as pensões que constituem encargo, no todo ou em parte, dos corpos administrativos, as dos conservadores, notários e funcionários de justiça e as dos funcionários dos Correios e Telecomunicações de Portugal, em relação às quais o preceituado no presente diploma sòmente entrará em execução depois de publicada portaria de autorização, respectivamente, pelos Ministros do Interior, da Justiça e das Comunicações.
+Art. 5.º São exceptuadas do disposto nos artigos 1.º e 2.º as pensões que constituem encargo, no todo ou em parte, dos corpos administrativos, as dos conservadores, notários e funcionários de justiça e as dos funcionários dos Correios e Telecomunicações de Portugal, em relação às quais o preceituado no presente diploma sòmente entrará em execução depois de publicada portaria de autorização, respectivamente, pelos Ministros do Interior, da Justiça e das Comunicações.
 
-###### Art. 6.º As disposições do presente decreto-lei não são aplicáveis às pensões determinadas com base em remunerações estabelecidas ao abrigo do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969.
+Art. 6.º As disposições do presente decreto-lei não são aplicáveis às pensões determinadas com base em remunerações estabelecidas ao abrigo do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969.
 
-###### Art. 7.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças, ouvida a Caixa Geral de Aposentações.
+Art. 7.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças, ouvida a Caixa Geral de Aposentações.
 
-###### Art. 8.º O presente decreto-lei considera-se em vigor a partir de 1 de Agosto de 1970.
+Art. 8.º O presente decreto-lei considera-se em vigor a partir de 1 de Agosto de 1970.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 12 de Agosto de 1970.**
+Promulgado em 12 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

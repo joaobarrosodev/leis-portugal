@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/19900/12581258.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1975-314968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1954b5f57af59104f838b3b269ff26c6a2a5885c852b1164f4796641ecee6e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1152f5bab882467bc8585836a998f5a6b3ac71ad747e4698704e1d65c73c98c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Estágio de Formação
+- Formação Profissional
+- Inspecção Geral dos Tribunais do Trabalho
+- Ministério Público
+- Recrutamento de Pessoal
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:307274:por
+  label: Rectificado pela DECL.DD8572.17.09.1975.PCM, DG.IS [215] de 17.09.1975
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-307274
+  date: '1975-09-17'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:19Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +117,22 @@ Nestes termos:
 
 Usando a faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na nomeação dos agentes do Ministério Público junto dos tribunais do trabalho terão preferência os licenciados em Direito que já tenham exercido essas funções durante mais de um ano com bom e efectivo serviço e os que venham a obter aproveitamento classificado de Bom ou superior no estágio previsto neste diploma.
+Artigo 1.º Na nomeação dos agentes do Ministério Público junto dos tribunais do trabalho terão preferência os licenciados em Direito que já tenham exercido essas funções durante mais de um ano com bom e efectivo serviço e os que venham a obter aproveitamento classificado de Bom ou superior no estágio previsto neste diploma.
 
-###### Art. 2.º - 1. O estágio dos candidatos a agentes do Ministério Público terá a duração de três meses, e será prestado nos Tribunais do Trabalho de Lisboa, Porto e Coimbra (1.ª Vara).
+Art. 2.º - 1. O estágio dos candidatos a agentes do Ministério Público terá a duração de três meses, e será prestado nos Tribunais do Trabalho de Lisboa, Porto e Coimbra (1.ª Vara).
 
 2. A admissão ao estágio será requerida ao Ministro do Trabalho até ao número de varas existentes naqueles Tribunais, dependendo de simples despacho e visto do Tribunal de Contas.
 
 3. O estagiário terá direito a perceber um terço do vencimento auferido pelo agente do Ministério Público junto da vara onde prestar serviço, sem quaisquer outras regalias.
 
-###### Art. 3.º Compete à Inspecção-Geral dos Tribunais do Trabalho classificar o aproveitamento a que se refere o artigo 1.º deste diploma, podendo convocar pessoalmente o estagiário para recolha de elementos julgados necessários para esse efeito.
+Art. 3.º Compete à Inspecção-Geral dos Tribunais do Trabalho classificar o aproveitamento a que se refere o artigo 1.º deste diploma, podendo convocar pessoalmente o estagiário para recolha de elementos julgados necessários para esse efeito.
 
-###### Art. 4.º Os encargos a que der lugar a execução do presente diploma são reembolsados ao Estado trimestralmente, pela receita prevista no artigo 152.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, mediante competente guia passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e do Trabalho.
+Art. 4.º Os encargos a que der lugar a execução do presente diploma são reembolsados ao Estado trimestralmente, pela receita prevista no artigo 152.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, mediante competente guia passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - José Inácio da Costa Martins.
 
-**Promulgado em 20 de Agosto de 1975.**
+Promulgado em 20 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

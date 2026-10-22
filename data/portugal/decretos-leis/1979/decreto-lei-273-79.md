@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17800/18151817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1e07ac107d7c17785fc347d42b344e90eb04fe5b67baa029ef3ae183da311c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96a7b2615f2ad154786a9f81c65b22efab24b71be97c7a56a9b7c0e4b2786728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Pessoal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:382866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506809:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:01Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +119,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os quadros privativos do pessoal administrativo dos estabelecimentos e secções dos ensinos preparatório e secundário e das escolas do magistério primário constituem quadro único para efeitos de ingresso, transferencia e promoção.
+Artigo 1.º - 1 - Os quadros privativos do pessoal administrativo dos estabelecimentos e secções dos ensinos preparatório e secundário e das escolas do magistério primário constituem quadro único para efeitos de ingresso, transferencia e promoção.
 
 2 - Por despacho ministerial a publicar no Diário da República pode ser autorizada a criação, extinção ou remodelação dos quadros privativos referidos no número anterior desde que não seja aumentado nas diferentes categorias o número total de lugares do quadro único.
 
 3 - Os quadros privativos dos estabelecimentos e secções referidos no n.º 1 deste artigo constam de portaria conjunta dos Ministros das Finanças e do Plano e da Educação e Investigação Científica e do Secretário de Estado da Administração Pública a publicar até 31 de Dezembro de 1979.
 
-###### Art. 2.º - 1 - No quadro do pessoal administrativo referido no artigo anterior são criadas as seguintes categorias:
+Art. 2.º - 1 - No quadro do pessoal administrativo referido no artigo anterior são criadas as seguintes categorias:
 
 Chefe de serviços administrativos de 1.ª classe - letra H.
 
@@ -119,31 +135,31 @@ Chefe de serviços administrativos de 2.ª classe - letra I.
 
 3 - Nas secções, os respectivos serviços administrativos são chefiados pelo funcionário de maior categoria.
 
-###### Art. 3.º - 1 - Os lugares de chefe de serviços administrativos de 1.ª classe são providos de entre chefes de serviços administrativos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria mediante concurso de avaliação curricular.
+Art. 3.º - 1 - Os lugares de chefe de serviços administrativos de 1.ª classe são providos de entre chefes de serviços administrativos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria mediante concurso de avaliação curricular.
 
 2 - Os lugares de chefe de serviços administrativos de 2.ª classe são providos de entre primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria, mediante concurso documental de avaliação curricular, e que tenham frequentado, com aproveitamento, um curso de formação adequado.
 
 3 - Quando o número de candidatos ao curso de formação for inferior à respectiva dotação, pode ser autorizada por despacho ministerial, a respectiva frequência por indivíduos habilitados com curso superior adequado, mesmo não vinculados à função pública, que, se obtiverem aproveitamento, poderão apresentar-se ao concurso referido no n.º 1 deste artigo.
 
-###### Art. 4.º - 1 - Quando não estejam providos os lugares de chefe de serviços administrativos, serão as funções exercidas por funcionário do respectivo quadro, de categoria igual ou superior a terceiro-oficial, designado pelo órgão de gestão do respectivo estabelecimento de ensino e sujeito a homologação pelo director-geral de Pessoal.
+Art. 4.º - 1 - Quando não estejam providos os lugares de chefe de serviços administrativos, serão as funções exercidas por funcionário do respectivo quadro, de categoria igual ou superior a terceiro-oficial, designado pelo órgão de gestão do respectivo estabelecimento de ensino e sujeito a homologação pelo director-geral de Pessoal.
 
 2 - Não existindo pessoal do quadro com a categoria necessária, a função de chefia poderá ser desempenhada por funcionário do quadro supranumerário a que se refere a [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março.
 
 3 - Nos casos previstos neste artigo, o funcionário que chefiar os serviços administrativos terá direito, enquanto exercer tais funções, a receber a reversão do vencimento de exercício do lugar de chefe de serviços administrativos do respectivo estabelecimento de ensino.
 
-###### Art. 5.º Sem prejuízo do disposto neste decreto-lei, o provimento dos lugares do pessoal administrativo dos estabelecimentos de ensino a que se refere este diploma rege-se pelas normas gerais aplicáveis aos serviços públicos.
+Art. 5.º Sem prejuízo do disposto neste decreto-lei, o provimento dos lugares do pessoal administrativo dos estabelecimentos de ensino a que se refere este diploma rege-se pelas normas gerais aplicáveis aos serviços públicos.
 
-###### Art. 6.º Os concursos de habilitação serão abertos, perante a Direcção-Geral de Pessoal, pelo prazo mínimo de quinze dias, contados a partir do dia imediato ao da publicação do respectivo aviso no Diário da República.
+Art. 6.º Os concursos de habilitação serão abertos, perante a Direcção-Geral de Pessoal, pelo prazo mínimo de quinze dias, contados a partir do dia imediato ao da publicação do respectivo aviso no Diário da República.
 
-###### Art. 7.º - 1 - Só podem ser admitidos aos concursos de habilitação os candidatos de categoria imediatamente inferior com, pelo menos, dois anos de bom e efectivo serviço.
+Art. 7.º - 1 - Só podem ser admitidos aos concursos de habilitação os candidatos de categoria imediatamente inferior com, pelo menos, dois anos de bom e efectivo serviço.
 
 2 - Se o número de candidatos admitidos ao concurso, ou nele aprovados, for insuficiente para o preenchimento de todas as vagas existentes, abrir-se-á novo concurso, ao qual poderão concorrer funcionários de categoria imediatamente inferior com qualquer tempo de serviço.
 
-###### Art. 8.º Os concursos de habilitação são constituídos por provas teóricas e práticas, graduadas em correspondência com as categorias a que respeitarem, e são válidos por dois anos, a contar da data da publicação dos resultados no Diário da República.
+Art. 8.º Os concursos de habilitação são constituídos por provas teóricas e práticas, graduadas em correspondência com as categorias a que respeitarem, e são válidos por dois anos, a contar da data da publicação dos resultados no Diário da República.
 
-###### Art. 9.º Os concursos de provimento para lugares a preencher nos quadros de pessoal administrativo serão abertos, por avisos publicados no Diário da República, nos primeiros quinze dias dos meses de Janeiro, Maio e Setembro de cada ano, pelo prazo de quinze dias, contados a partir do dia imediato ao da publicação dos avisos no Diário da República, podendo verificar-se a faculdade prevista no n.º 2 do artigo 7.º
+Art. 9.º Os concursos de provimento para lugares a preencher nos quadros de pessoal administrativo serão abertos, por avisos publicados no Diário da República, nos primeiros quinze dias dos meses de Janeiro, Maio e Setembro de cada ano, pelo prazo de quinze dias, contados a partir do dia imediato ao da publicação dos avisos no Diário da República, podendo verificar-se a faculdade prevista no n.º 2 do artigo 7.º
 
-###### Art. 10.º - 1 - Nos concursos de provimento, de graduação dos candidatos será feita de acordo com as prioridades a seguir indicadas, funcionando por ordem sucessiva:
+Art. 10.º - 1 - Nos concursos de provimento, de graduação dos candidatos será feita de acordo com as prioridades a seguir indicadas, funcionando por ordem sucessiva:
 
 a) Funcionários da mesma categoria com, pelo menos, dois anos de efectivo e bom serviço no estabelecimento a cujo quadro pertençam;
 
@@ -165,13 +181,13 @@ b) O tempo de serviço prestado na categoria a que pertencem;
 
 c) A idade, preferindo os mais velhos.
 
-###### Art. 11.º Por conveniência de serviço, e mediante despacho ministerial, o pessoal administrativo pode ser transferido de um para outro estabelecimento de ensino desde que não esteja aberto concurso de provimento para a categoria a que o funcionário pertencer.
+Art. 11.º Por conveniência de serviço, e mediante despacho ministerial, o pessoal administrativo pode ser transferido de um para outro estabelecimento de ensino desde que não esteja aberto concurso de provimento para a categoria a que o funcionário pertencer.
 
-###### Art. 12.º - 1 - O funcionário que for encarregado de assegurar as funções de tesoureiro terá direito a abono para falhas.
+Art. 12.º - 1 - O funcionário que for encarregado de assegurar as funções de tesoureiro terá direito a abono para falhas.
 
 2 - O abono referido no número anterior será de montante igual ao atribuído ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de categorias, e nos restantes casos será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Investigação Científica.
 
-###### Art. 13.º - 1 - O serviço do pessoal administrativo será classificado, relativamente a cada ano civil, de Muito bom, Bom, Suficiente ou Deficiente pelo órgão de gestão do estabelecimento, sob proposta fundamentada do chefe de serviços administrativos.
+Art. 13.º - 1 - O serviço do pessoal administrativo será classificado, relativamente a cada ano civil, de Muito bom, Bom, Suficiente ou Deficiente pelo órgão de gestão do estabelecimento, sob proposta fundamentada do chefe de serviços administrativos.
 
 2 - O serviço do chefe de serviços administrativos será classificado pelo órgão de gestão do estabelecimento.
 
@@ -179,9 +195,9 @@ c) A idade, preferindo os mais velhos.
 
 4 - A classificação de Deficiente inibe o funcionário de ser admitido a qualquer concurso durante um ano, contado a partir da data da sua atribuição.
 
-###### Art. 14.º Mediante despacho ministerial, pode ser autorizada a permuta de cargos da mesma categoria a requerimento dos interessados, mediante concordância dos órgãos de gestão dos estabelecimentos de ensino.
+Art. 14.º Mediante despacho ministerial, pode ser autorizada a permuta de cargos da mesma categoria a requerimento dos interessados, mediante concordância dos órgãos de gestão dos estabelecimentos de ensino.
 
-###### Art. 15.º - 1 - Quando necessidades de serviço o justifiquem, e com o acordo do interessado, poderá o pessoal administrativo ser colocado numa das seguintes situações especiais no quadro referido neste diploma ou noutro do Ministério da Educação e Investigação Científica:
+Art. 15.º - 1 - Quando necessidades de serviço o justifiquem, e com o acordo do interessado, poderá o pessoal administrativo ser colocado numa das seguintes situações especiais no quadro referido neste diploma ou noutro do Ministério da Educação e Investigação Científica:
 
 a) Destacamento que não poderá prolongar-se para além de um ano, não ocupando o funcionário lugar no quadro, sendo pago pelo organismo de origem e não podendo o lugar de que é titular ser preenchido por qualquer forma;
 
@@ -191,7 +207,7 @@ c) Comissão de serviço por período até três anos, prorrogáveis por mais um
 
 2 - O tempo de serviço do funcionário colocado em qualquer das situações especiais referidas no número anterior é contado, para todos os efeitos, como prestado no serviço de origem.
 
-###### Art. 16.º - 1 - O pessoal administrativo que em 1 de Janeiro de 1979 se encontrava na situação de colocado no quadro, contratado além do quadro e supranumerário ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 130/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1976-506809), de 14 de Fevereiro, com, pelo menos, três anos de bom e efectivo serviço e com qualquer vínculo na respectiva categoria, transitará para a imediatamente superior desde que possua as habilitações literária para tal exigidas por lei.
+Art. 16.º - 1 - O pessoal administrativo que em 1 de Janeiro de 1979 se encontrava na situação de colocado no quadro, contratado além do quadro e supranumerário ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 130/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1976-506809), de 14 de Fevereiro, com, pelo menos, três anos de bom e efectivo serviço e com qualquer vínculo na respectiva categoria, transitará para a imediatamente superior desde que possua as habilitações literária para tal exigidas por lei.
 
 2 - O primeiro provimento dos lugares de chefe de serviços administrativos será feito de acordo com as seguintes regras:
 
@@ -203,30 +219,30 @@ b) Chefe de serviços administrativos de 2.ª classe - de entre os primeiros-ofi
 
 4 - Para execução do disposto no número anterior utilizar-se-á a portaria prevista no n.º 3 do artigo 1.º deste diploma.
 
-###### Art. 17.º Os cursos de formação e os concursos documentais, de habilitação e de provimento serão objecto de regulamentação a aprovar por portaria do Ministro da Educação e Investigação Científica, ouvida a Secretaria de Estado da Administração Pública.
+Art. 17.º Os cursos de formação e os concursos documentais, de habilitação e de provimento serão objecto de regulamentação a aprovar por portaria do Ministro da Educação e Investigação Científica, ouvida a Secretaria de Estado da Administração Pública.
 
-###### Art. 18.º Os movimentos de pessoal que, para execução deste diploma, venham a tornar-se necessários são realizados por lista nominativa sujeita a visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 18.º Os movimentos de pessoal que, para execução deste diploma, venham a tornar-se necessários são realizados por lista nominativa sujeita a visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 19.º O acréscimo de encargos resultante da execução do presente diploma será suportado pelas dotações respectivas, inscritas em «Remunerações certas e permanentes», no cap. 06 do orçamento do Ministério da Educação e Investigação Científica.
+Art. 19.º O acréscimo de encargos resultante da execução do presente diploma será suportado pelas dotações respectivas, inscritas em «Remunerações certas e permanentes», no cap. 06 do orçamento do Ministério da Educação e Investigação Científica.
 
-###### Art. 20.º - 1 - O pessoal administrativo que, em resultado do concurso de provimento, houver de se deslocar das Regiões Autónomas dos Açores e da Madeira para o continente, e vice-versa, ou entre aquelas Regiões, terá direito a passagem de 1.ª classe por via marítima ou em classe turística por via aérea e ainda a passagem de 1.ª classe por via marítima ou em classe turística por via aérea para a sua família.
+Art. 20.º - 1 - O pessoal administrativo que, em resultado do concurso de provimento, houver de se deslocar das Regiões Autónomas dos Açores e da Madeira para o continente, e vice-versa, ou entre aquelas Regiões, terá direito a passagem de 1.ª classe por via marítima ou em classe turística por via aérea e ainda a passagem de 1.ª classe por via marítima ou em classe turística por via aérea para a sua família.
 
 2 - Para efeitos do disposto no número anterior considera-se família o cônjuge, ascendentes e descendentes a seu cargo.
 
-###### Art. 21.º Em tudo quanto não estiver previsto neste diploma e nos Decretos-Leis n.os 49397 e 49410, de 24 de Novembro de 1969, as formas de recrutamento e os regimes de provimento do pessoal administrativo constarão de regulamento a aprovar por decreto do Ministro da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
+Art. 21.º Em tudo quanto não estiver previsto neste diploma e nos Decretos-Leis n.os 49397 e 49410, de 24 de Novembro de 1969, as formas de recrutamento e os regimes de provimento do pessoal administrativo constarão de regulamento a aprovar por decreto do Ministro da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
 
-###### Art. 22.º Todos os prazos fixados neste diploma serão acrescidos de 50% quando se tratar de candidatos residentes nas Regiões Autónomas dos Açores e da Madeira.
+Art. 22.º Todos os prazos fixados neste diploma serão acrescidos de 50% quando se tratar de candidatos residentes nas Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 23.º É revogado o Decreto-Lei n.º 513/73, de 10 de Outubro, em todas as disposições relativas a quadros e carreiras do pessoal administrativo, nomeadamente os artigos 17.º a 29.º, 41.º, 42.º e 44.º a 49.º
+Art. 23.º É revogado o Decreto-Lei n.º 513/73, de 10 de Outubro, em todas as disposições relativas a quadros e carreiras do pessoal administrativo, nomeadamente os artigos 17.º a 29.º, 41.º, 42.º e 44.º a 49.º
 
-###### Art. 24.º As dúvidas levantadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou conjuntamente com o Ministro das Finanças e do Plano e com o Secretário de Estado da Administração Pública, se tal se revelar necessário.
+Art. 24.º As dúvidas levantadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou conjuntamente com o Ministro das Finanças e do Plano e com o Secretário de Estado da Administração Pública, se tal se revelar necessário.
 
-###### Art. 25.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço.
+Art. 25.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço.
 
 Visto e aprovado em Conselho de Ministros de 31 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 24 de Julho de 1979.**
+Promulgado em 24 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

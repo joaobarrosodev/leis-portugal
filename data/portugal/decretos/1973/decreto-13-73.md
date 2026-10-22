@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1973-683666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed6f68e2e24c1fdea35e7499d5ee5f404fd0e2409e2a4e48a1ac50808ba835aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c2fc196183a95616ed69196e52de5fba2db210a569a5a3b15ca8e28f21b04e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147817:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:685009:por
+  label: "Rectificado o artigo 23.º e o n.º 2 do artigo 56.º pela RECT.DD309.12.02.1973.PC, DG.IS [36] de 12.02.1973\0\0"
+  source: null
+  date: '1973-02-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:37Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +101,17 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 ### CAPÍTULO I — Disposição preambular
 
-###### Artigo 1.º A eleição dos vogais das assembleias legislativas das províncias ultramarinas e dos que devem ser eleitos para as juntas consultivas provinciais rege-se pelo presente diploma em tudo quanto não estiver previsto nos respectivos estatutos político-administrativos.
+Artigo 1.º A eleição dos vogais das assembleias legislativas das províncias ultramarinas e dos que devem ser eleitos para as juntas consultivas provinciais rege-se pelo presente diploma em tudo quanto não estiver previsto nos respectivos estatutos político-administrativos.
 
 ### CAPÍTULO II — Eleitores
 
-###### Art. 2.º - 1. A eleição dos vogais, a realizar pelos corpos administrativos e pessoas colectivas de utilidade pública administrativa e pelos organismos representativos das empresas e associações económicas, dos trabalhadores e dos interesses morais e culturais, será regulada em portaria dos governos provinciais.
+Art. 2.º - 1. A eleição dos vogais, a realizar pelos corpos administrativos e pessoas colectivas de utilidade pública administrativa e pelos organismos representativos das empresas e associações económicas, dos trabalhadores e dos interesses morais e culturais, será regulada em portaria dos governos provinciais.
 
 2. Até sessenta dias antes do dia fixado para as eleições deverão os governos das províncias publicar nos respectivos Boletins Oficiais uma lista donde conste a indicação destes organismos com direito a voto.
 
 3. De qualquer omissão verificada nas listas haverá recurso para o Ministro do Ultramar, no prazo de quinze dias, a contar da data da sua publicação.
 
-###### Art. 3.º - 1. Na eleição a realizar pelas autoridades das regedorias observar-se-á, nas províncias de governo-geral, o seguinte:
+Art. 3.º - 1. Na eleição a realizar pelas autoridades das regedorias observar-se-á, nas províncias de governo-geral, o seguinte:
 
 1.º Com a antecedência necessária, os governadores de cada distrito organizarão uma lista dessas autoridades, que será afixada nas sedes das regedorias e nos lugares do costume e publicada no Boletim Oficial da província;
 
@@ -114,11 +123,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 3. Os representantes das autoridades das regedorias de todos os distritos procederão, no dia próprio, à eleição dos vogais que, nos termos da lei, lhes compete eleger.
 
-###### Art. 4.º Nas restantes províncias ultramarinas em que existam regedorias a lista das respectivas autoridades será organizada, em cada concelho ou circunscrição, pelo respectivo administrador e publicada no Boletim Oficial da província, seguindo-se em tudo o mais que for aplicável o disposto no artigo anterior, substituindo-se a consulta ao procurador da República, prevista no n.º 1, 3.º, pela consulta ao delegado do procurador da República mais antigo na categoria da comarca da capital de província.
+Art. 4.º Nas restantes províncias ultramarinas em que existam regedorias a lista das respectivas autoridades será organizada, em cada concelho ou circunscrição, pelo respectivo administrador e publicada no Boletim Oficial da província, seguindo-se em tudo o mais que for aplicável o disposto no artigo anterior, substituindo-se a consulta ao procurador da República, prevista no n.º 1, 3.º, pela consulta ao delegado do procurador da República mais antigo na categoria da comarca da capital de província.
 
-###### Art. 5.º São eleitores do sufrágio directo dos vogais das assembleias legislativas os cidadãos portugueses, maiores ou emancipados, que saibam ler e escrever português e não estejam abrangidos por qualquer das incapacidades previstas no artigo seguinte.
+Art. 5.º São eleitores do sufrágio directo dos vogais das assembleias legislativas os cidadãos portugueses, maiores ou emancipados, que saibam ler e escrever português e não estejam abrangidos por qualquer das incapacidades previstas no artigo seguinte.
 
-###### Art. 6.º Não podem ser eleitores:
+Art. 6.º Não podem ser eleitores:
 
 1.º Os que não estejam no gozo dos seus direitos civis e políticos;
 
@@ -140,13 +149,13 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 ### CAPÍTULO III — Recenseamento eleitoral
 
-###### Art. 7.º O recenseamento de eleitores das assembleias legislativas e juntas consultivas provinciais será elaborado em conformidade com o presente diploma e revisto anualmente.
+Art. 7.º O recenseamento de eleitores das assembleias legislativas e juntas consultivas provinciais será elaborado em conformidade com o presente diploma e revisto anualmente.
 
-###### Art. 8.º Na sede de cada freguesia ou posto administrativo funcionará uma comissão constituída pelo presidente da respectiva junta ou pelo administrador de posto e por dois delegados, eleitores domiciliados na localidade, nomeados pelo governador de distrito ou de província, conforme se trate de província de governo-geral ou de governo simples, para, com base no recenseamento do ano anterior, organizar a relação dos eleitores da freguesia ou do posto e verificar as condições para tanto exigidas por lei.
+Art. 8.º Na sede de cada freguesia ou posto administrativo funcionará uma comissão constituída pelo presidente da respectiva junta ou pelo administrador de posto e por dois delegados, eleitores domiciliados na localidade, nomeados pelo governador de distrito ou de província, conforme se trate de província de governo-geral ou de governo simples, para, com base no recenseamento do ano anterior, organizar a relação dos eleitores da freguesia ou do posto e verificar as condições para tanto exigidas por lei.
 
-###### Art. 9.º O recenseamento dos eleitores será organizado por concelhos ou circunscrições, em cada um dos quais competirá a uma comissão presidida pelo respectivo administrador e de que serão vogais o adjunto do administrador, como funcionário recenseador, ou, na sua falta, o funcionário que chefiar a secretaria da administração, e um delegado do governador de distrito ou de província, conforme os casos.
+Art. 9.º O recenseamento dos eleitores será organizado por concelhos ou circunscrições, em cada um dos quais competirá a uma comissão presidida pelo respectivo administrador e de que serão vogais o adjunto do administrador, como funcionário recenseador, ou, na sua falta, o funcionário que chefiar a secretaria da administração, e um delegado do governador de distrito ou de província, conforme os casos.
 
-###### Art. 10.º - 1. A resolução das reclamações sobre a inscrição, requerida ou oficiosa, ou sobre a falta dela compete aos governadores de distrito respectivos ou, nas províncias onde não os haja, ao chefe dos serviços de administração civil.
+Art. 10.º - 1. A resolução das reclamações sobre a inscrição, requerida ou oficiosa, ou sobre a falta dela compete aos governadores de distrito respectivos ou, nas províncias onde não os haja, ao chefe dos serviços de administração civil.
 
 2. Das decisões das autoridades referidas no número anterior cabe recurso, no prazo de cinco dias, para o Tribunal Administrativo.
 
@@ -154,11 +163,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. A petição de recurso será entregue directamente na secretaria do Tribunal Administrativo, acompanhada de duplicado e cópia, e submetida imediatamente a distribuição e despacho, o qual será proferido no mesmo dia da conclusão, fixando o prazo de cinco dias para audiência da autoridade recorrida.
 
-###### Art. 11.º Os livros de recenseamento serão numerados e rubricados pelos administradores das circunscrições, dos concelhos ou dos bairros, competindo a estas autoridades também assinar os respectivos termos de abertura e de encerramento.
+Art. 11.º Os livros de recenseamento serão numerados e rubricados pelos administradores das circunscrições, dos concelhos ou dos bairros, competindo a estas autoridades também assinar os respectivos termos de abertura e de encerramento.
 
-###### Art. 12.º A inscrição no recenseamento terá lugar oficiosamente ou por via de requerimento, nos termos a regular por portaria dos governos provinciais, que providenciarão igualmente sobre as diversas operações do mesmo recenseamento.
+Art. 12.º A inscrição no recenseamento terá lugar oficiosamente ou por via de requerimento, nos termos a regular por portaria dos governos provinciais, que providenciarão igualmente sobre as diversas operações do mesmo recenseamento.
 
-###### Art. 13.º - 1. Todo aquele que deixar de cumprir as obrigações prescritas neste diploma incorre nas penalidades correspondentes ao crime do artigo 304.º
+Art. 13.º - 1. Todo aquele que deixar de cumprir as obrigações prescritas neste diploma incorre nas penalidades correspondentes ao crime do artigo 304.º
 
 do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo funcionário, e nas penalidades correspondentes ao crime do artigo 188.º do Código Penal, se não for funcionário.
 
@@ -166,9 +175,9 @@ do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo fu
 
 ### CAPÍTULO IV — Círculos eleitorais e apresentação de candidaturas
 
-###### Art. 14.º A eleição por sufrágio directo dos vogais das assembleias legislativas é feita por círculos eleitorais, que nas províncias ultramarinas divididas em distritos serão constituídos por cada um dos respectivos distritos e nas restantes províncias serão designados na portaria a que se refere o artigo 2.º do presente diploma.
+Art. 14.º A eleição por sufrágio directo dos vogais das assembleias legislativas é feita por círculos eleitorais, que nas províncias ultramarinas divididas em distritos serão constituídos por cada um dos respectivos distritos e nas restantes províncias serão designados na portaria a que se refere o artigo 2.º do presente diploma.
 
-###### Art. 15.º - 1. A apresentação das candidaturas faz-se perante o governador do respectivo distrito ou, quando a província não esteja dividida em distritos, perante o chefe dos serviços de administração civil.
+Art. 15.º - 1. A apresentação das candidaturas faz-se perante o governador do respectivo distrito ou, quando a província não esteja dividida em distritos, perante o chefe dos serviços de administração civil.
 
 2. A apresentação consiste na entrega da lista contendo o número total dos vogais a eleger e deve ser acompanhada de declaração onde os candidatos afirmem, em conjunto ou separadamente, que aceitam a candidatura e acatam a Constituição.
 
@@ -186,81 +195,81 @@ do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo fu
 
 9. Sempre que a apresentação das candidaturas seja feita nos distritos, os respectivos governadores remeterão imediatamente ao director ou chefe dos serviços de administração civil, pela via mais rápida e pelo seguro do correio ou por próprio, que cobrará recibo de entrega, todos os documentos que constituem o processo de apresentação das candidaturas.
 
-###### Art. 16.º Findo o prazo para a apresentação das listas de candidatos, o director ou chefe dos serviços de administração civil, dentro dos dois dias seguintes, verificará a autenticidade de todos os documentos que devem acompanhá-las, classificará alfabeticamente cada uma das listas admitidas e promoverá a sua publicação por meio de edital, afixado à porta ou no átrio do edifício da direcção ou repartição dos serviços de administração civil.
+Art. 16.º Findo o prazo para a apresentação das listas de candidatos, o director ou chefe dos serviços de administração civil, dentro dos dois dias seguintes, verificará a autenticidade de todos os documentos que devem acompanhá-las, classificará alfabeticamente cada uma das listas admitidas e promoverá a sua publicação por meio de edital, afixado à porta ou no átrio do edifício da direcção ou repartição dos serviços de administração civil.
 
-###### Art. 17.º - 1. Das operações referidas nesta secção se lavrará uma acta onde sucintamente se enumerem as razões por que foram aceites ou recusadas as listas recebidas.
+Art. 17.º - 1. Das operações referidas nesta secção se lavrará uma acta onde sucintamente se enumerem as razões por que foram aceites ou recusadas as listas recebidas.
 
 2. Da acta assinada pelo director ou chefe dos serviços de administração civil será extraída cópia, que deve ser remetida ao governador da província.
 
-###### Art. 18.º Das decisões tomadas pelos directores ou chefes dos serviços provinciais de administração civil pode qualquer eleitor reclamar para o Tribunal Administrativo da província nos termos legais.
+Art. 18.º Das decisões tomadas pelos directores ou chefes dos serviços provinciais de administração civil pode qualquer eleitor reclamar para o Tribunal Administrativo da província nos termos legais.
 
-###### Art. 19.º - 1. Julgada procedente a reclamação fundada na inelegibilidade, serão eliminados das listas os candidatos reclamados e o respectivo mandatário será notificado nos cinco dias seguintes para indicar quem os substitua.
+Art. 19.º - 1. Julgada procedente a reclamação fundada na inelegibilidade, serão eliminados das listas os candidatos reclamados e o respectivo mandatário será notificado nos cinco dias seguintes para indicar quem os substitua.
 
 2. Esta substituição tem de ser feita no prazo de três dias, a contar da notificação referida.
 
-###### Art. 20.º - 1. Se até quinze dias antes do designado para a eleição falecer algum dos candidatos, o mandatário da respectiva lista poderá, no prazo de dois dias, indicar quem o substitua.
+Art. 20.º - 1. Se até quinze dias antes do designado para a eleição falecer algum dos candidatos, o mandatário da respectiva lista poderá, no prazo de dois dias, indicar quem o substitua.
 
 2. A falta de substituição permitida por este artigo não afecta a validade da lista, desde que subsista outro candidato.
 
-###### Art. 21.º - 1. Havendo substituição de candidatos, quer por efeito de reclamação, quer por motivo de falecimento, o director ou chefe dos serviços de administração civil fará publicar novamente todas as listas pela forma prevista no artigo 16.º
+Art. 21.º - 1. Havendo substituição de candidatos, quer por efeito de reclamação, quer por motivo de falecimento, o director ou chefe dos serviços de administração civil fará publicar novamente todas as listas pela forma prevista no artigo 16.º
 
 2. Proceder-se-á igualmente a nova publicação quando for anulada a decisão do director ou chefe dos serviços de administração civil que rejeite qualquer das listas.
 
-###### Art. 22.º Depois da publicação a que se refere o artigo anterior nenhuma lista poderá ser objecto de reclamação.
+Art. 22.º Depois da publicação a que se refere o artigo anterior nenhuma lista poderá ser objecto de reclamação.
 
-###### Art. 23.º O disposto nos artigos anteriores não prejudica a competência dos conselhos legislativos para verificar e reconhecer os poderes dos seus membros e julgar da elegibilidade dos candidatos que não possa ser objecto de reclamação, nos termos do artigo anterior.
+Art. 23.º O disposto nos artigos anteriores não prejudica a competência dos conselhos legislativos para verificar e reconhecer os poderes dos seus membros e julgar da elegibilidade dos candidatos que não possa ser objecto de reclamação, nos termos do artigo anterior.
 
 ### CAPÍTULO V — Apuramento de voto
 
-###### Art. 24.º - 1. O apuramento nas assembleias e secções de voto far-se-á pelo número de votos de cada lista e de cada candidato nela inscrito.
+Art. 24.º - 1. O apuramento nas assembleias e secções de voto far-se-á pelo número de votos de cada lista e de cada candidato nela inscrito.
 
 2. Para os efeitos do disposto neste artigo, os secretários escrevem adiante da designação correspondente a cada lista os votos que esta obtiver e enumeram adiante dos nomes dos candidatos que a compõem os votos negativos que lhes respeitem.
 
-###### Art. 25.º - 1. Do apuramento assim obtido far-se-á resumo donde conste o número de votos obtido por cada lista e por cada candidato.
+Art. 25.º - 1. Do apuramento assim obtido far-se-á resumo donde conste o número de votos obtido por cada lista e por cada candidato.
 
 2. Os votos de cada candidato serão os da lista a que pertence, deduzidos os votos negativos que sobre ele tenham recaído.
 
-###### Art. 26.º Até dois dias depois do da eleição, os presidentes das assembleias eleitorais e secções de voto remeterão ao presidente da assembleia de apuramento geral, pelo seguro do correio, havendo-o, ou por próprio, que cobrará recibo de entrega, as actas, cadernos, relações e mais papéis respeitantes à eleição, incluindo o resumo do apuramento a que se refere o artigo anterior.
+Art. 26.º Até dois dias depois do da eleição, os presidentes das assembleias eleitorais e secções de voto remeterão ao presidente da assembleia de apuramento geral, pelo seguro do correio, havendo-o, ou por próprio, que cobrará recibo de entrega, as actas, cadernos, relações e mais papéis respeitantes à eleição, incluindo o resumo do apuramento a que se refere o artigo anterior.
 
-###### Art. 27.º - 1. As assembleias de apuramento geral reúnem nas sedes dos círculos, tendo o presidente voto de qualidade.
+Art. 27.º - 1. As assembleias de apuramento geral reúnem nas sedes dos círculos, tendo o presidente voto de qualidade.
 
 2. A sua constituição, funcionamento e prazos a observar serão regulados em portaria dos governos das províncias ultramarinas.
 
 ### CAPÍTULO VI — Assembleias eleitorais e actos preparatórios da eleição
 
-###### Art. 28.º As assembleias e secções de voto serão estabelecidas na forma constante de portaria do governo de cada província ultramarina.
+Art. 28.º As assembleias e secções de voto serão estabelecidas na forma constante de portaria do governo de cada província ultramarina.
 
-###### Art. 29.º - 1. As assembleias e secções de voto serão presididas por quem for designado pelos governadores de distrito, nas províncias de governo-geral, ou de província, nas restantes, até oito dias antes do que for designado para a eleição.
+Art. 29.º - 1. As assembleias e secções de voto serão presididas por quem for designado pelos governadores de distrito, nas províncias de governo-geral, ou de província, nas restantes, até oito dias antes do que for designado para a eleição.
 
 2. Será também nomeado um substituto para presidir no impedimento do presidente efectivo.
 
-###### Art. 30.º - 1. As mesas de assembleias e secções de voto são constituídas pelo presidente, por dois secretários e ainda, tratando-se da eleição de vogais a designar por sufrágio directo, por dois escrutinadores e dois suplentes.
+Art. 30.º - 1. As mesas de assembleias e secções de voto são constituídas pelo presidente, por dois secretários e ainda, tratando-se da eleição de vogais a designar por sufrágio directo, por dois escrutinadores e dois suplentes.
 
 2. Os secretários e os escrutinadores e suplentes serão sempre escolhidos pelo presidente.
 
-###### Art. 31.º - 1. As mesas constituem-se pelas 9 horas do dia fixado para a eleição.
+Art. 31.º - 1. As mesas constituem-se pelas 9 horas do dia fixado para a eleição.
 
 2. A mesa constituída antes das 9 horas considera-se ilegítima, sendo nulos todos os actos eleitorais em que ela interferir.
 
-###### Art. 32.º - 1. Se até meia hora depois da fixada para a constituição da mesa não comparecer o presidente, ou se este se ausentar antes de terminado o acto eleitoral, será substituído pelo suplente nomeado e, na falta deste, sucessivamente pelo presidente ou por qualquer dos vogais das juntas de freguesia, preferindo o mais velho.
+Art. 32.º - 1. Se até meia hora depois da fixada para a constituição da mesa não comparecer o presidente, ou se este se ausentar antes de terminado o acto eleitoral, será substituído pelo suplente nomeado e, na falta deste, sucessivamente pelo presidente ou por qualquer dos vogais das juntas de freguesia, preferindo o mais velho.
 
 2. Sempre que não seja possível efectuar-se a substituição do presidente e suplente nos termos previstos, designadamente quando as freguesias tiverem sido desdobradas em várias secções de voto, o suplente será substituído pelo mais velho dos eleitores presentes.
 
 3. Se, depois de constituída a mesa sem o presidente nomeado, este comparecer, ocupará a presidência, podendo substituir os outros membros da mesa; da mesma forma se procederá, tratando-se do seu suplente.
 
-###### Art. 33.º Constituída a mesa nos termos dos artigos anteriores, serão válidos todos os actos eleitorais que legalmente forem praticados, estando presente a maioria dos vogais.
+Art. 33.º Constituída a mesa nos termos dos artigos anteriores, serão válidos todos os actos eleitorais que legalmente forem praticados, estando presente a maioria dos vogais.
 
-###### Art. 34.º - 1. Após a constituição da mesa será logo afixado na porta principal do edifício em que estiver reunida a assembleia ou secção de voto um edital, assinado pelo presidente, contendo os nomes dos cidadãos que a formam.
+Art. 34.º - 1. Após a constituição da mesa será logo afixado na porta principal do edifício em que estiver reunida a assembleia ou secção de voto um edital, assinado pelo presidente, contendo os nomes dos cidadãos que a formam.
 
 2. Verificando-se a hipótese prevista no n.º 3 do artigo 32.º, será feita menção na acta, afixando-se novo edital.
 
-###### Art. 35.º - 1. Quando não se realizar a eleição em qualquer assembleia ou secção de voto e a falta puder influir no resultado geral da votação, será a mesma efectuada no domingo seguinte.
+Art. 35.º - 1. Quando não se realizar a eleição em qualquer assembleia ou secção de voto e a falta puder influir no resultado geral da votação, será a mesma efectuada no domingo seguinte.
 
 2. Proceder-se-á de igual forma quando haja empate na votação.
 
 ### CAPÍTULO VII — Acto eleitoral
 
-###### Art. 36.º - 1. As mesas resolvem as dúvidas que se suscitarem acerca das operações eleitorais.
+Art. 36.º - 1. As mesas resolvem as dúvidas que se suscitarem acerca das operações eleitorais.
 
 2. Serão fundamentadas todas as deliberações das mesas sobre dúvidas ou reclamações escritas.
 
@@ -272,9 +281,9 @@ do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo fu
 
 6. Os protestos, contraprotestos e documentos que os acompanhem poderão ser, imediatamente em seguida à sua apresentação, assinados e rubricados por qualquer eleitor que o requeira.
 
-###### Art. 37.º Dentro das assembleias eleitorais e fora, até à distância de 100 m, é proibido distribuir listas ou quaisquer escritos que se refiram à eleição.
+Art. 37.º Dentro das assembleias eleitorais e fora, até à distância de 100 m, é proibido distribuir listas ou quaisquer escritos que se refiram à eleição.
 
-###### Art. 38.º - 1. A nenhuma força armada é permitido entrar no local onde se reunirem as assembleias ou secções de voto, salvo a requisição escrita do presidente da mesa.
+Art. 38.º - 1. A nenhuma força armada é permitido entrar no local onde se reunirem as assembleias ou secções de voto, salvo a requisição escrita do presidente da mesa.
 
 2. Só quando for necessário dissipar algum tumulto, obstar a agressão ou qualquer violência dentro do edifício ou na sua proximidade, ou em caso de desobediência às ordens do presidente, poderá este requisitar a força armada.
 
@@ -282,47 +291,47 @@ do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo fu
 
 4. A comparência da força armada sem requisição do presidente provocará a nulidade da votação.
 
-###### Art. 39.º Ninguém pode ser admitido a votar sem que seja reconhecida a sua identidade.
+Art. 39.º Ninguém pode ser admitido a votar sem que seja reconhecida a sua identidade.
 
-###### Art. 40.º - 1. Só são admitidos a votar os eleitores inscritos no recenseamento da área respectiva ou os que se apresentarem com certidão de eleitor.
+Art. 40.º - 1. Só são admitidos a votar os eleitores inscritos no recenseamento da área respectiva ou os que se apresentarem com certidão de eleitor.
 
 2. A certidão a que se refere este artigo será passada pelo adjunto do administrador do concelho ou circunscrição, ou, na sua falta, pelo funcionário que chefiar a secretaria da administração, que promoverá a eliminação do eleitor nos cadernos da assembleia ou secção por cuja área estiver inscrito.
 
-###### Art. 41.º A ninguém é permitido votar em mais de uma assembleia ou secção.
+Art. 41.º A ninguém é permitido votar em mais de uma assembleia ou secção.
 
-###### Art. 42.º - 1. A votação é por escrutínio secreto.
+Art. 42.º - 1. A votação é por escrutínio secreto.
 
 2. As listas serão entregues dobradas em quatro, não devendo receber-se ou considerar-se no apuramento as que tenham qualquer marca, sinal, designação ou numeração.
 
-###### Art. 43.º Votam em primeiro lugar os magistrados, autoridades, vogais dos corpos administrativos e os representantes das autoridades locais que estejam presentes.
+Art. 43.º Votam em primeiro lugar os magistrados, autoridades, vogais dos corpos administrativos e os representantes das autoridades locais que estejam presentes.
 
-###### Art. 44.º - 1. Depois de terem votado as entidades referidas no artigo anterior, realizar-se-á a chamada geral dos eleitores, por ordem da inscrição nos cadernos, preferindo, nos casos de anexação de assembleias, os das mais distantes, e, finda esta, repetir-se-á a chamada dos que não tiverem respondido à primeira.
+Art. 44.º - 1. Depois de terem votado as entidades referidas no artigo anterior, realizar-se-á a chamada geral dos eleitores, por ordem da inscrição nos cadernos, preferindo, nos casos de anexação de assembleias, os das mais distantes, e, finda esta, repetir-se-á a chamada dos que não tiverem respondido à primeira.
 
 2. Nas assembleias ou secções que abranjam mais de mil eleitores não haverá chamadas gerais, realizando-se a votação à medida que os eleitores se aproximem da mesa, dispostos em fila, segundo a ordem de chegada, e podendo o acesso à mesa ser regulado por agentes da autoridade local ou por eleitores designados pelo presidente da mesa.
 
-###### Art. 45.º Aquele que se apresentar com certidão de eleitor entregará esta com a lista, a fim de se juntar ao processo eleitoral, depois de adicionado o nome nos cadernos.
+Art. 45.º Aquele que se apresentar com certidão de eleitor entregará esta com a lista, a fim de se juntar ao processo eleitoral, depois de adicionado o nome nos cadernos.
 
-###### Art. 46.º Nenhum indivíduo inscrito no recenseamento pode ser impedido de votar, reconhecida que seja a sua identidade, excepto se a mesa possuir documento comprovativo de incapacidade posterior ao termo do período das operações do recenseamento.
+Art. 46.º Nenhum indivíduo inscrito no recenseamento pode ser impedido de votar, reconhecida que seja a sua identidade, excepto se a mesa possuir documento comprovativo de incapacidade posterior ao termo do período das operações do recenseamento.
 
-###### Art. 47.º À medida que cada um dos eleitores fizer entrega da lista ao presidente da mesa, os dois secretários, tratando-se da eleição de vogais a designar por sufrágio orgânico, ou os dois escrutinadores, tratando-se da eleição de vogais a designar por sufrágio directo, procederão à descarga do nome do votante nos cadernos, por meio da sua rubrica, após o que o presidente lançará a lista na urna.
+Art. 47.º À medida que cada um dos eleitores fizer entrega da lista ao presidente da mesa, os dois secretários, tratando-se da eleição de vogais a designar por sufrágio orgânico, ou os dois escrutinadores, tratando-se da eleição de vogais a designar por sufrágio directo, procederão à descarga do nome do votante nos cadernos, por meio da sua rubrica, após o que o presidente lançará a lista na urna.
 
-###### Art. 48.º - 1. Concluídas as duas chamadas a que se refere o artigo 44.º, a mesa aguardará os eleitores que se apresentem a votar nas duas horas posteriores, findas as quais, e depois de recebidas as listas daqueles que ainda se encontrem na sala, votarão os membros da mesa, declarando o presidente, em seguida, terminada a votação.
+Art. 48.º - 1. Concluídas as duas chamadas a que se refere o artigo 44.º, a mesa aguardará os eleitores que se apresentem a votar nas duas horas posteriores, findas as quais, e depois de recebidas as listas daqueles que ainda se encontrem na sala, votarão os membros da mesa, declarando o presidente, em seguida, terminada a votação.
 
 2. No caso a que se refere o n.º 2 do artigo 44.º, a admissão de eleitores é feita até às 17 horas, só podendo votar depois desta hora os que até ela tenham sido admitidos.
 
-###### Art. 49.º - 1. Terminada a votação, o presidente fará contar o número de votantes, o número de cada uma das listas submetidas ao sufrágio e dos votos de cada candidato, que tornará públicos por edital afixado na porta principal do edifício onde funcione a assembleia ou secção de voto.
+Art. 49.º - 1. Terminada a votação, o presidente fará contar o número de votantes, o número de cada uma das listas submetidas ao sufrágio e dos votos de cada candidato, que tornará públicos por edital afixado na porta principal do edifício onde funcione a assembleia ou secção de voto.
 
 2. Feita a contagem a que se refere este artigo, serão os cadernos das votações rubricados pelos membros da mesa e fechados e lacrados, cada um em seu maço.
 
 3. A mesa é obrigada a passar ao eleitor que o requeira por escrito certidão da contagem do número de votantes e de votos de cada uma das listas submetidas ao sufrágio.
 
-###### Art. 50.º As listas que as mesas declararem viciadas e nulas ou sobre as quais incida protesto ou reclamação de qualquer eleitor serão especialmente mencionadas nas actas, indicando-se o seu número, e, depois de rubricadas pelo presidente ou por qualquer eleitor que o requeira, remetidas, com os documentos que lhes respeitem, à assembleia de apuramento geral, que, em definitivo, resolverá se devem ou não contar-se, corrigindo, na primeira hipótese, o apuramento da assembleia eleitoral.
+Art. 50.º As listas que as mesas declararem viciadas e nulas ou sobre as quais incida protesto ou reclamação de qualquer eleitor serão especialmente mencionadas nas actas, indicando-se o seu número, e, depois de rubricadas pelo presidente ou por qualquer eleitor que o requeira, remetidas, com os documentos que lhes respeitem, à assembleia de apuramento geral, que, em definitivo, resolverá se devem ou não contar-se, corrigindo, na primeira hipótese, o apuramento da assembleia eleitoral.
 
-###### Art. 51.º Se houver dúvida sobre o número total dos votos, ou se esse número não coincidir com a soma dos atribuídos às várias listas, e a maioria dos eleitores presentes reclamar segunda verificação, proceder-se-á de novo à contagem das listas.
+Art. 51.º Se houver dúvida sobre o número total dos votos, ou se esse número não coincidir com a soma dos atribuídos às várias listas, e a maioria dos eleitores presentes reclamar segunda verificação, proceder-se-á de novo à contagem das listas.
 
-###### Art. 52.º Terminado o apuramento, proceder-se-á, na presença dos eleitores, à inutilização das listas que se considerarem válidas.
+Art. 52.º Terminado o apuramento, proceder-se-á, na presença dos eleitores, à inutilização das listas que se considerarem válidas.
 
-###### Art. 53.º Nas actas das operações de votação e apuramento far-se-ão constar:
+Art. 53.º Nas actas das operações de votação e apuramento far-se-ão constar:
 
 1.º Os nomes dos componentes da mesa;
 
@@ -336,27 +345,27 @@ do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo fu
 
 6.º Quaisquer ocorrências que a mesa julgar dignas de menção especial.
 
-###### Art. 54.º As actas serão assinadas pelo presidente e, pelo menos, por mais dois dos restantes membros, efectivos ou suplentes, da mesa eleitoral.
+Art. 54.º As actas serão assinadas pelo presidente e, pelo menos, por mais dois dos restantes membros, efectivos ou suplentes, da mesa eleitoral.
 
 ### CAPÍTULO VIII — Recursos e seus julgamentos
 
-###### Art. 55.º Qualquer eleitor que haja exercido o direito de voto pode recorrer contra a ilegalidade das operações eleitorais na assembleia ou secção respectiva.
+Art. 55.º Qualquer eleitor que haja exercido o direito de voto pode recorrer contra a ilegalidade das operações eleitorais na assembleia ou secção respectiva.
 
-###### Art. 56.º - 1. O recurso será interposto para o Tribunal Administrativo no prazo de dois dias, o qual, ouvido o Ministério Público, proferirá decisão dentro dos três dias imediatos.
+Art. 56.º - 1. O recurso será interposto para o Tribunal Administrativo no prazo de dois dias, o qual, ouvido o Ministério Público, proferirá decisão dentro dos três dias imediatos.
 
 2. Das decisões do Tribunal Administrativo não cabe recurso, devendo, para os devidos efeitos, tais decisões ser imediatamente comunicadas à comissão de verificação de poderes dos conselhos legislativos.
 
-###### Art. 57.º As actas eleitorais fazem prova plena, sendo apenas admissível prova documental em contrário ou além do seu conteúdo.
+Art. 57.º As actas eleitorais fazem prova plena, sendo apenas admissível prova documental em contrário ou além do seu conteúdo.
 
-###### Art. 58.º Só serão julgadas nulas as eleições desde que, verificadas ilegalidades, estas possam Influir no resultado geral da votação.
+Art. 58.º Só serão julgadas nulas as eleições desde que, verificadas ilegalidades, estas possam Influir no resultado geral da votação.
 
-###### Art. 59.º Anulada a eleição, repetir-se-á o acto eleitoral na assembleia ou secção de voto respectiva em dia a designar pelo governo da província, anunciado com a antecedência mínima de cinco dias, realizando-se em seguida, se for caso disso, nova assembleia de apuramento, com observância das disposições aplicáveis.
+Art. 59.º Anulada a eleição, repetir-se-á o acto eleitoral na assembleia ou secção de voto respectiva em dia a designar pelo governo da província, anunciado com a antecedência mínima de cinco dias, realizando-se em seguida, se for caso disso, nova assembleia de apuramento, com observância das disposições aplicáveis.
 
-###### Art. 60.º Em tudo quanto não fique expressamente previsto providenciarão os governos das províncias ultramarinas por meio de portaria a publicar com a antecedência necessária.
+Art. 60.º Em tudo quanto não fique expressamente previsto providenciarão os governos das províncias ultramarinas por meio de portaria a publicar com a antecedência necessária.
 
 ### CAPÍTULO IX — Disposições penais
 
-###### Art. 61.º Independentemente do disposto neste diploma sobre matéria penal, incorrem na pena de prisão até três meses e na suspensão temporária de direitos políticos até cinco anos:
+Art. 61.º Independentemente do disposto neste diploma sobre matéria penal, incorrem na pena de prisão até três meses e na suspensão temporária de direitos políticos até cinco anos:
 
 1.º Os que votarem em mais de uma assembleia ou secção de voto;
 
@@ -364,7 +373,7 @@ do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo fu
 
 3.º Os que, não pertencendo à força pública, entrarem armados em qualquer assembleia.
 
-###### Art. 62.º - 1. Incorrem na pena de prisão por um ano, acrescida de multa não inferior a 5000$00 e de suspensão de direitos políticos por cinco anos:
+Art. 62.º - 1. Incorrem na pena de prisão por um ano, acrescida de multa não inferior a 5000$00 e de suspensão de direitos políticos por cinco anos:
 
 1.º Os que, por meio de notícias falsas, boatos caluniosos, promessas, dádivas, ameaças, violências ou quaisquer outros artifícios, determinarem ou tentarem determinar algum eleitor a abster-se de votar ou de cumprir obrigação estabelecida neste decreto;
 
@@ -374,20 +383,20 @@ do Código Penal, além da responsabilidade disciplinar que lhe couber, sendo fu
 
 3. Nos casos a que se refere este artigo, o Ministério Público promoverá o procedimento criminal mediante participação do presidente da mesa eleitoral ou da autoridade administrativa.
 
-###### Art. 63.º Todas as infracções penais contra o estabelecido no presente diploma ou que prejudiquem o exercício do direito de voto para as quais se não previu uma sanção específica nos artigos anteriores serão punidas com prisão até trinta dias, acrescida de multa correspondente.
+Art. 63.º Todas as infracções penais contra o estabelecido no presente diploma ou que prejudiquem o exercício do direito de voto para as quais se não previu uma sanção específica nos artigos anteriores serão punidas com prisão até trinta dias, acrescida de multa correspondente.
 
 ### CAPÍTULO X — Disposições finais
 
-###### Art. 64.º O procedimento criminal pelas infracções a este diploma prescreve no prazo de um ano.
+Art. 64.º O procedimento criminal pelas infracções a este diploma prescreve no prazo de um ano.
 
-###### Art. 65.º O presente diploma entra imediatamente em vigor.
+Art. 65.º O presente diploma entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Janeiro de 1973.**
+Promulgado em 4 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

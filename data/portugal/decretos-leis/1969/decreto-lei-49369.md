@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49369-1969-215764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1438fc9853a22da2790b8ca39f6d84f0c7bca3b11c4b1417604edc1cc2498d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67baf3ad0a20f1ea07849578f8823fff1d2b90494444d577b1893ead6faa9f36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Ministros
+- Contrato de Concessão
+- Definição de Competências
+- Exploração Mineira
+- Garantia
+- Licenciamento
+- Plataforma Continental
+- Recursos Minerais
+- Regime Jurídico
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:36Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +111,19 @@ Ouvida a Câmara Corporativa;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As áreas das concessões para prospecção, pesquisa, avaliação e exploração de recursos minerais podem estender-se a toda a plataforma continental.
+Artigo 1.º - 1. As áreas das concessões para prospecção, pesquisa, avaliação e exploração de recursos minerais podem estender-se a toda a plataforma continental.
 
 2. Para efeitos deste diploma, considera-se plataforma continental o leito do mar e o subsolo das zonas submarinas adjacentes ao território nacional, continental ou insular, até onde a profundidade das águas superjacentes permita a prospecção, pesquisa, avaliação e eventual exploração dos recursos naturais.
 
 3. Na falta de acordo com o Estado cujas costas sejam limítrofes ou opostas às do Estado Português e a menos que circunstâncias especiais justifiquem diversa limitação, os limites da plataforma continental serão determinados pela linha mediana cujos pontos sejam equidistantes dos pontos mais próximos das linhas de base a partir das quais é medida a largura dos respectivos mares territoriais.
 
-###### Art. 2.º - 1. As concessões podem ter por objecto uma zona afecta a trabalhos imediatos e uma zona de reserva.
+Art. 2.º - 1. As concessões podem ter por objecto uma zona afecta a trabalhos imediatos e uma zona de reserva.
 
 2. A zona afecta a trabalhos imediatos de prospecção, pesquisa, avaliação e eventual exploração deve ser definida no contrato de concessão, ficando o concessionário sujeito, relativamente a essa área, ao pagamento de taxas e impostos mineiros e às demais obrigações contratuais.
 
 3. A zona de reserva estende-se para além do limite frontal da zona afecta a trabalhos imediatos até onde a profundidade das águas superjacentes permita a prospecção, pesquisa, avaliação e eventual exploração dos recursos minerais do leito do mar e do subsolo correspondente, se outro limite não resultar de acordos ou convenções internacionais de que o Estado Português seja parte ou do contrato de concessão.
 
-###### Art. 3.º - 1. A pedido fundamentado do concessionário, a área da zona de reserva pode ser declarada, no todo ou em parte, zona afecta a trabalhos imediatos, ficando sujeita ao regime previsto no n.º 2 do artigo anterior.
+Art. 3.º - 1. A pedido fundamentado do concessionário, a área da zona de reserva pode ser declarada, no todo ou em parte, zona afecta a trabalhos imediatos, ficando sujeita ao regime previsto no n.º 2 do artigo anterior.
 
 2. Se o interesse nacional aconselhar determinados trabalhos de prospecção, pesquisa ou avaliação nas zonas de reserva, o concessionário será notificado para proceder à sua execução dentro do prazo que lhe for determinado, sendo a área a sujeitar aos trabalhos declarada zona afecta a trabalhos imediatos.
 
@@ -117,9 +131,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Se os trabalhos não forem executados dentro do prazo determinado, a Administração pode rescindir, no todo ou em parte, a concessão da zona de reserva, não tendo o concessionário direito a qualquer indemnização.
 
-###### Art. 4.º A outorga de concessões nos termos deste diploma não impede que as áreas a que respeitam sejam objecto de outras concessões para prospecção, pesquisa, avaliação e exploração de outros recursos minerais, quando as respectivas actividades sejam compatíveis.
+Art. 4.º A outorga de concessões nos termos deste diploma não impede que as áreas a que respeitam sejam objecto de outras concessões para prospecção, pesquisa, avaliação e exploração de outros recursos minerais, quando as respectivas actividades sejam compatíveis.
 
-###### Art. 5.º - 1. Os concessionários devem exercer a sua actividade em conformidade com os acordos e convenções de que o Estado Português seja parte, de modo a não prejudicar injustificadamente a navegação, a pesca, a conservação dos recursos biológicos do mar, a colocação e manutenção de cabos ou tubos submarinos, bem como as investigações oceanográficas ou outras que se realizem por iniciativa ou com autorização do Estado Português.
+Art. 5.º - 1. Os concessionários devem exercer a sua actividade em conformidade com os acordos e convenções de que o Estado Português seja parte, de modo a não prejudicar injustificadamente a navegação, a pesca, a conservação dos recursos biológicos do mar, a colocação e manutenção de cabos ou tubos submarinos, bem como as investigações oceanográficas ou outras que se realizem por iniciativa ou com autorização do Estado Português.
 
 2. Os concessionários devem também tomar as medidas necessárias para evitar a poluição dos meios marinho, terrestre e aéreo e outros efeitos perigosos ou nocivos.
 
@@ -129,21 +143,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. As instalações ou dispositivos abandonados ou em desuso devem ser removidos pelos concessionários, salvo determinação em contrário.
 
-###### Art. 6.º - 1. Não é permitido a quaisquer entidades nacionais ou estrangeiras proceder a investigações da plataforma continental, oceanográficas ou de outra natureza, ou desenvolver nela qualquer outra actividade, salvo com autorização dos departamentos ministeriais competentes.
+Art. 6.º - 1. Não é permitido a quaisquer entidades nacionais ou estrangeiras proceder a investigações da plataforma continental, oceanográficas ou de outra natureza, ou desenvolver nela qualquer outra actividade, salvo com autorização dos departamentos ministeriais competentes.
 
 2. As autorizações ou concessões para prospecção, pesquisa, avaliação ou exploração dos recursos minerais da plataforma continental dependem do consentimento do Conselho de Ministros.
 
-###### Art. 7.º - 1. Os concessionários devem prestar caução para garantir a indemnização de quaisquer danos emergentes da sua actividade e o pagamento de multas que lhes sejam aplicáveis.
+Art. 7.º - 1. Os concessionários devem prestar caução para garantir a indemnização de quaisquer danos emergentes da sua actividade e o pagamento de multas que lhes sejam aplicáveis.
 
 2. O montante da caução será fixado no contrato de concessão.
 
-###### Art. 8.º A transmissão dos direitos concedidos depende da autorização do Conselho de Ministros.
+Art. 8.º A transmissão dos direitos concedidos depende da autorização do Conselho de Ministros.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - João Augusto Dias Rosas - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 31 de Outubro de 1969.**
+Promulgado em 31 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

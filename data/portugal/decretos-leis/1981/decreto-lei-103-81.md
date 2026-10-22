@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/10800/10851086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1981-573158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b161f30bfc58ecaa46c74f06c7b8031d54d245c64b6173c727807a4a7f55330a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b13db141583776b465265534bc6eee88535d5a3525cd7652959a6f40c8a9649
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Justiça Militar
+- Crime
+- Definição de Competências
+- Exército
+- Forças Armadas
+- Jurisdição
+- Justiça Militar
+- Militar
+- Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:446475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:446475:por
+  label: "Revogado a partir de 14 de Setembro de 2004 o Código de Justiça Militar, aprovado Dec Lei 141/77 de 09-Abr, com\
+    \ a redacção conferida pelo presente diploma, pela LEI.100/2003.15.11.2003.AR, DR.IS-A [265] de 15.11.2003, e remetidas\
+    \ para as disposições correspondentes do novo Código, aprovado por aquela lei, as remissões feitas ao Código anterior\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2003-446475
+  date: '2003-11-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:57Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +113,9 @@ Convindo que o suprimento desta lacuna não deve afastar-se do princípio geral 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 226.º e 313.º do Código de Justiça Militar passam a ter a seguinte redacção:
+Artigo único. Os artigos 226.º e 313.º do Código de Justiça Militar passam a ter a seguinte redacção:
 
-###### Art. 226.º - 1.º O comandante da região militar do Exército é o chefe da administração da justiça militar dentro da área da sua região e relativamente aos crimes essencialmente militares ou equiparados aí cometidos pelo pessoal militar ou civil pertencente ao Exército e às forças militarizadas, bem como por quaisquer outras pessoas integradas ou não nas forças armadas, com excepção do pessoal mencionado no número seguinte.
+Art. 226.º - 1.º O comandante da região militar do Exército é o chefe da administração da justiça militar dentro da área da sua região e relativamente aos crimes essencialmente militares ou equiparados aí cometidos pelo pessoal militar ou civil pertencente ao Exército e às forças militarizadas, bem como por quaisquer outras pessoas integradas ou não nas forças armadas, com excepção do pessoal mencionado no número seguinte.
 
 2.º ...
 
@@ -106,12 +123,12 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 4.º ...
 
-###### Art. 313.º Aos tribunais militares territoriais compete conhecer dos crimes essencialmente militares ou equiparados cometidos na área da respectiva jurisdição por pessoal militar ou civil pertencente ao Exército e às forças militarizadas, bem como por quaisquer outras pessoas integradas ou não nas forças armadas, com excepção do pessoal mencionado no artigo seguinte.
+Art. 313.º Aos tribunais militares territoriais compete conhecer dos crimes essencialmente militares ou equiparados cometidos na área da respectiva jurisdição por pessoal militar ou civil pertencente ao Exército e às forças militarizadas, bem como por quaisquer outras pessoas integradas ou não nas forças armadas, com excepção do pessoal mencionado no artigo seguinte.
 
 Visto e aprovado em Conselho da Revolução em 5 de Maio de 1981.
 
-**Promulgado em 5 de Maio de 1981.**
+Promulgado em 5 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

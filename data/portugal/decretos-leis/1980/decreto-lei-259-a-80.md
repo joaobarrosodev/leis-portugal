@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 180/1980, 1º Suplemento, Série I de 1980-08-06
   number: '180'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2068-(2) a 2068-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18001/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-a-1980-626576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34c22929a158980a6303d39764901ab7035510b8ccb7ea24ed52d6fb4e346979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beef52b41db566638526a41c7f70c6c88d4e50433770c11b4eec6cd35b2df78b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Delegação Regional
+- Delegado
+- Direcção Geral de Pessoal
+- Ministério da Educação e Ciência
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549390:por
+  label: "Revogado pelo DEC LEI.361/89.18.10.1989.ME, DR.IS [240] de 18.10.1989, em tudo o que for incompatível com o disposto\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1989-549390
+  date: '1989-10-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:01Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +147,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São criadas no continente dezoito delegações da Direcção-Geral de Pessoal.
+Artigo 1.º - 1 - São criadas no continente dezoito delegações da Direcção-Geral de Pessoal.
 
 2 - As zonas de actuação de cada uma das referidas delegações serão definidas por despacho ministerial.
 
@@ -118,7 +157,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O delegado será assistido por um ou dois adjuntos, conforme vier a ser fixado, equiparados, para todos os efeitos legais, a chefe de divisão.
 
-###### Art. 2.º - 1 - São atribuições de cada uma das delegações, na respectiva zona:
+Art. 2.º - 1 - São atribuições de cada uma das delegações, na respectiva zona:
 
 a) Colaborar com a Direcção-Geral de Pessoal na gestão de recursos humanos das escolas normais de educadores de infância, do magistério primário e dos estabelecimentos dos ensinos preparatório e secundário dependentes do Ministério da Educação e Ciência;
 
@@ -136,27 +175,27 @@ c) Apresentar propostas tendentes à racionalização dos serviços da respectiv
 
 d) Exercer funções de informação e relações públicas.
 
-###### Art. 3.º - 1 - Cada delegação terá um quadro, constituído por um delegado, adjuntos, pessoal técnico, administrativo e auxiliar, a estabelecer em portaria conjunta dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública, observado o disposto no artigo 5.º deste diploma.
+Art. 3.º - 1 - Cada delegação terá um quadro, constituído por um delegado, adjuntos, pessoal técnico, administrativo e auxiliar, a estabelecer em portaria conjunta dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública, observado o disposto no artigo 5.º deste diploma.
 
 2 - Os quadros referidos no número anterior poderão ser alterados por despacho do Ministro da Educação e Ciência, sempre que de tal alteração não resulte aumento do número global de lugares atribuídos a todas as delegações.
 
-###### Art. 4.º Por decreto referendado pelos Ministros das Finanças e do Plano e da Educação e Ciência e pelo membro do Governo que tiver a seu cargo a função pública:
+Art. 4.º Por decreto referendado pelos Ministros das Finanças e do Plano e da Educação e Ciência e pelo membro do Governo que tiver a seu cargo a função pública:
 
 a) Serão criados cursos de formação para delegados da Direcção-Geral de Pessoal e respectivos adjuntos;
 
 b) Serão definidas as condições de frequência dos cursos referidos na alínea anterior.
 
-###### Art. 5.º - 1 - São acrescentados ao mapa de pessoal dirigente e técnico anexo ao [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, dezoito lugares de delegado e vinte cinco de adjuntos de delegado da Direcção-Geral de Pessoal, que, para todos os efeitos, passam a constar do quadro único referido no artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Outubro.
+Art. 5.º - 1 - São acrescentados ao mapa de pessoal dirigente e técnico anexo ao [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, dezoito lugares de delegado e vinte cinco de adjuntos de delegado da Direcção-Geral de Pessoal, que, para todos os efeitos, passam a constar do quadro único referido no artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Outubro.
 
 2 - Os lugares referidos no número anterior serão integrados nos quadros referidos no n.º 1 do artigo 3.º, altura em que, para todos os efeitos, se consideram extintos no mapa anexo ao [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482).
 
-###### Art. 6.º - 1 - O delegado e repectivos adjuntos serão recrutados nos termos do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, ou ainda de entre professores efectivos dos ensinos preparatório ou secundário portadores de habilitação de grau superior.
+Art. 6.º - 1 - O delegado e repectivos adjuntos serão recrutados nos termos do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, ou ainda de entre professores efectivos dos ensinos preparatório ou secundário portadores de habilitação de grau superior.
 
 2 - As nomeações de docentes para os lugares de delegado e adjunto serão efectuadas em regime de comissão de serviço prevista no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, e as suas funções poderão cessar em qualquer tempo por despacho ministerial.
 
 3 - Se as nomeações recaírem em funcionários dos Serviços Centrais, as mesmas processar-se-ão em regime geral de comissão de serviço.
 
-###### Art. 7.º - 1 - Compete ao delegado:
+Art. 7.º - 1 - Compete ao delegado:
 
 a) Dirigir a delegação;
 
@@ -186,11 +225,11 @@ b) Exercer as actividades que lhes forem determinadas pelo delegado.
 
 3 - Para efeitos do disposto no número anterior, e sempre que exista mais de um adjunto, o delegado designará o seu substituto.
 
-###### Art. 8.º - 1 - O director-geral de Pessoal poderá delegar nos delegados competências originárias, bem como neles subdelegar competências que lhe tenham sido delegadas.
+Art. 8.º - 1 - O director-geral de Pessoal poderá delegar nos delegados competências originárias, bem como neles subdelegar competências que lhe tenham sido delegadas.
 
 2 - A delegação e a subdelegação de competências referidas no número anterior dependem de despacho a publicar no Diário da República e só produzirão efeitos a partir da data da sua publicação.
 
-###### Art. 9.º - 1 - O regulamento das delegações da Direcção-Geral de Pessoal será fixado por despacho ministerial.
+Art. 9.º - 1 - O regulamento das delegações da Direcção-Geral de Pessoal será fixado por despacho ministerial.
 
 2 - O regulamento referido no número anterior definirá, designadamente:
 
@@ -202,22 +241,22 @@ c) As relações funcionais das delegações com outros serviços centrais, regi
 
 d) As regras relativas à colaboração das delegações com serviços regionais ou locais e outros Ministérios.
 
-###### Art. 10.º Enquanto não forem providos todos os lugares criados pela portaria referida no artigo 3.º, poderá o director-geral de Pessoal destacar, em tempo parcial ou total e mediante proposta do respectivo delegado, o pessoal docente, técnico, administrativo e auxiliar das escolas normais de educadores de infância, do magistério primário e dos estabelecimentos dos ensinos preparatório e secundário necessário à prossecução imediata das funções cometidas às delegações.
+Art. 10.º Enquanto não forem providos todos os lugares criados pela portaria referida no artigo 3.º, poderá o director-geral de Pessoal destacar, em tempo parcial ou total e mediante proposta do respectivo delegado, o pessoal docente, técnico, administrativo e auxiliar das escolas normais de educadores de infância, do magistério primário e dos estabelecimentos dos ensinos preparatório e secundário necessário à prossecução imediata das funções cometidas às delegações.
 
-###### Art. 11.º As delegações da Direcção-Geral de Pessoal criadas pelo presente diploma funcionarão nos termos do presente diploma e de disposições regulamentares até à criação dos serviços regionais do Ministério da Educação e Ciência, nos quais obrigatoriamente se integrarão.
+Art. 11.º As delegações da Direcção-Geral de Pessoal criadas pelo presente diploma funcionarão nos termos do presente diploma e de disposições regulamentares até à criação dos serviços regionais do Ministério da Educação e Ciência, nos quais obrigatoriamente se integrarão.
 
-###### Art. 12.º As despesas resultantes da execução do presente diploma serão suportadas pelas verbas inscritas ou a inscrever no capítulo 02 do orçamento do Ministério da Educação e Ciência.
+Art. 12.º As despesas resultantes da execução do presente diploma serão suportadas pelas verbas inscritas ou a inscrever no capítulo 02 do orçamento do Ministério da Educação e Ciência.
 
-###### Art. 13.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública.
+Art. 13.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 14.º É revogado o [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril.
+Art. 14.º É revogado o [Decreto-Lei n.º 137/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445), de 6 de Abril.
 
-###### Art. 15.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 15.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
 
-**Promulgado em 21 de Julho de 1980.**
+Promulgado em 21 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -49,36 +49,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45463-1963-680624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29e079a24acd9fa4bb2847c6225cd3227b72a55b6ebe2597e50ff07efc700a09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4a4694a5625f2b4d3adfc3760df2f4047a3da8804025d61782c4d1f3a00ad96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral da Fazenda Pública
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Pessoal Auxiliar
+- Recrutamento de Pessoal
+- Remuneração
+- Tesouraria da Fazenda Pública
+relationships:
+- type: cites
+  target: pt:dre:260425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518995:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:30Z'
   warnings: []
   errors: []
 ---
@@ -93,35 +116,35 @@ Com fundamento no disposto nos artigos 5.º e 7.º do [Decreto-Lei n.º 31670](h
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As verbas anuais para o pessoal auxiliar das tesourarias da Fazenda Pública e as remunerações dos propostos dos tesoureiros de 3.ª classe no quinquénio de 1964 a 1968 serão as constantes da relação anexa ao presente diploma e que dele faz parte integrante, sem prejuízo, todavia, do disposto no artigo 5.º
+Artigo 1.º As verbas anuais para o pessoal auxiliar das tesourarias da Fazenda Pública e as remunerações dos propostos dos tesoureiros de 3.ª classe no quinquénio de 1964 a 1968 serão as constantes da relação anexa ao presente diploma e que dele faz parte integrante, sem prejuízo, todavia, do disposto no artigo 5.º
 
-###### Art. 2.º Para remuneração das unidades que excedam as possibilidades das novas dotações é atribuído a cada tesouraria um complemento das mesmas, que poderá ser utilizado até aos montantes correspondentes às unidades em serviço em 31 de Dezembro de 1963.
+Art. 2.º Para remuneração das unidades que excedam as possibilidades das novas dotações é atribuído a cada tesouraria um complemento das mesmas, que poderá ser utilizado até aos montantes correspondentes às unidades em serviço em 31 de Dezembro de 1963.
 
-###### Art. 3.º É mantida, no quinquénio de 1964 a 1968, a verba anual de 45195$00 referida no artigo único do [Decreto n.º 44191](https://diariodarepublica.pt/dr/detalhe/decreto/44191-1962-518995), de 17 de Fevereiro de 1962.
+Art. 3.º É mantida, no quinquénio de 1964 a 1968, a verba anual de 45195$00 referida no artigo único do [Decreto n.º 44191](https://diariodarepublica.pt/dr/detalhe/decreto/44191-1962-518995), de 17 de Fevereiro de 1962.
 
-###### Art. 4.º É adicionado um novo parágrafo ao artigo 2.º do [Decreto-Lei n.º 31670](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31670-1941-321323), de 22 de Novembro de 1941, passando a § 1.º o actual § único, nos termos e com a redacção seguinte:
+Art. 4.º É adicionado um novo parágrafo ao artigo 2.º do [Decreto-Lei n.º 31670](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31670-1941-321323), de 22 de Novembro de 1941, passando a § 1.º o actual § único, nos termos e com a redacção seguinte:
 
 § 1.º Só têm direito a pessoal auxiliar as tesourarias que movimentem mais de 23000 documentos de receita e despesa por ano.
 
 § 2.º A atribuição de pessoal auxiliar às tesourarias de 3.ª classe que se encontrem nas condições do parágrafo anterior só se verificará, porém, desde que, sob proposta do director-geral da Fazenda Pública, o reconheça necessário o Ministro das Finança.
 
-###### Art. 5.º O Ministro das Finanças determinará, em portaria publicada no Diário do Governo, as tesourarias que, posteriormente à publicação deste decreto-lei, venham ou deixem de vir a ter direito a pessoal auxiliar, bem como as dotações que lhes corresponderem segundo o sistema estabelecido para a determinação das dotações das tesourarias de 1.ª e 2.ª classes, considerando-se dessa forma aumentada ou diminuída a relação a que se refere o artigo 1.º
+Art. 5.º O Ministro das Finanças determinará, em portaria publicada no Diário do Governo, as tesourarias que, posteriormente à publicação deste decreto-lei, venham ou deixem de vir a ter direito a pessoal auxiliar, bem como as dotações que lhes corresponderem segundo o sistema estabelecido para a determinação das dotações das tesourarias de 1.ª e 2.ª classes, considerando-se dessa forma aumentada ou diminuída a relação a que se refere o artigo 1.º
 
-###### Art. 6.º A remuneração mínima anual dos propostos de 3.ª classe e auxiliares das tesourarias da Fazenda Pública é fixada em 7200$00.
+Art. 6.º A remuneração mínima anual dos propostos de 3.ª classe e auxiliares das tesourarias da Fazenda Pública é fixada em 7200$00.
 
-###### Art. 7.º É de 30 dias o limite máximo de licença graciosa a conceder pelos directores de finanças ao pessoal auxiliar das tesourarias da Fazenda Pública.
+Art. 7.º É de 30 dias o limite máximo de licença graciosa a conceder pelos directores de finanças ao pessoal auxiliar das tesourarias da Fazenda Pública.
 
-###### Art. 8.º A nomeação e exoneração dos propostos e auxiliares das tesourarias da Fazenda Pública, bem como a sua não recondução, nos casos de substituição ou mudança de tesoureiro, carecem de prévia confirmação da Direcção-Geral da Fazenda Pública.
+Art. 8.º A nomeação e exoneração dos propostos e auxiliares das tesourarias da Fazenda Pública, bem como a sua não recondução, nos casos de substituição ou mudança de tesoureiro, carecem de prévia confirmação da Direcção-Geral da Fazenda Pública.
 
 § único. Em caso de recondução, os propostos e auxiliares continuarão no exercício das suas funções, sem mais formalidades. Nesta hipótese o tesoureiro terá de confirmar imediatamente os respectivos alvarás, que em seguida serão enviados à Direcção-Geral da Fazenda Pública para averbar, sendo ainda o do proposto por esta depois remetido ao Tribunal de Contas para efeitos de anotação.
 
-###### Art. 9.º O artigo 1.º e seu § 1.º do [Decreto-Lei n.º 37492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37492-1949-260425), de 23 de Julho de 1949, passam a ter a seguinte redacção:
+Art. 9.º O artigo 1.º e seu § 1.º do [Decreto-Lei n.º 37492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37492-1949-260425), de 23 de Julho de 1949, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Nas tesourarias da Fazenda Pública não dotadas com pessoal auxiliar poderá o proposto, quando impedido, além de 30 dias, por motivo justificado, ser substituído por outro de nomeação interina.
+Artigo 1.º Nas tesourarias da Fazenda Pública não dotadas com pessoal auxiliar poderá o proposto, quando impedido, além de 30 dias, por motivo justificado, ser substituído por outro de nomeação interina.
 
 § 1.º Na hipótese verificada no corpo deste artigo, o vencimento do proposto impedido será satisfeito por verba especial a inscrever no orçamento do Ministério das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -129,6 +152,6 @@ Para ser presente à Assembleia Nacional
 
 Relação a que se refere o Decreto-Lei n.º 45463, desta data, das verbas anuais para pessoal auxiliar das tesourarias da Fazenda Pública e das remunerações dos propostos de 3.ª classe no quinquénio de 1964 a 1968:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/12/30200/21282132.pdf))](https://files.diariodarepublica.pt/1s/1963/12/30200/21282132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/12/30200/21282132.pdf)
 
 Ministério das Finanças, 26 de Dezembro de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.

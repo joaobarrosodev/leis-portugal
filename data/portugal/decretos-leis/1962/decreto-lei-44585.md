@@ -48,36 +48,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44585-1962-159931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b06847084c72aed496b72f111fda1bb943d5980f222dbf18fd42727eebbc5d79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef40e318f041e92e21b1d0990adf5cfbfe09332b487d84fc8d82bbfa7b47fe8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Conselho Superior de Fomento Ultramarino
+- Conselho Ultramarino
+- Criação de Lugares
+- Direcção Geral de Justiça
+- Direcção Geral de Saúde e Assistência
+- Extinção de Lugares
+- Farmacêutico
+- Médico
+- Ministério do Ultramar
+- Orgânica
+- Pessoal Administrativo
+- Pessoal de Saúde
+- Quadro de Pessoal
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:18Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +143,9 @@ Reconhecida a necessidade de modificar a redacção dos §§ 2.º e 3.º do arti
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 15.º e o § único do artigo 20.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 15.º e o § único do artigo 20.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, passam a ter a seguinte redacção:
 
-###### Art. 15.º Junto da secção do contencioso funcionarão três agentes do Ministério Público, sendo um para os processos do contencioso administrativo, que será o chefe da Repartição da Direcção-Geral de Justiça do Ministério do Ultramar, outro para os processos do contencioso aduaneiro, que será o chefe da Repartição das Alfândegas da Inspecção Superior das Alfândegas do mesmo Ministério, e o terceiro para os processos do contencioso fiscal, que será o adjunto do director-geral de Fazenda, também do mesmo Ministério.
+Art. 15.º Junto da secção do contencioso funcionarão três agentes do Ministério Público, sendo um para os processos do contencioso administrativo, que será o chefe da Repartição da Direcção-Geral de Justiça do Ministério do Ultramar, outro para os processos do contencioso aduaneiro, que será o chefe da Repartição das Alfândegas da Inspecção Superior das Alfândegas do mesmo Ministério, e o terceiro para os processos do contencioso fiscal, que será o adjunto do director-geral de Fazenda, também do mesmo Ministério.
 
 § único. Na falta ou impedimento dos agentes do Ministério Público serão eles substituídos pela seguinte forma:
 
@@ -110,47 +157,47 @@ c) O adjunto do director-geral de Fazenda pelo chefe de repartição da Direcç�
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § único. O agente do Ministério Público nos processos do contencioso administrativo perceberá gratificação mensal igual à abonada aos vogais das secções consultivas. Os dois restantes perceberão, cada um, metade dessa gratificação.
 
-###### Art. 2.º No corrente ano as gratificações ao adjunto do director-geral de Fazenda e ao chefe da Repartição das Alfândegas, respectivamente, como agentes do Ministério Público no contencioso fiscal e no contencioso aduaneiro, serão abonadas pelas competentes dotações dos orçamentos das províncias ultramarinas para 1962, descritas sob a rubrica:
+Art. 2.º No corrente ano as gratificações ao adjunto do director-geral de Fazenda e ao chefe da Repartição das Alfândegas, respectivamente, como agentes do Ministério Público no contencioso fiscal e no contencioso aduaneiro, serão abonadas pelas competentes dotações dos orçamentos das províncias ultramarinas para 1962, descritas sob a rubrica:
 
 Aos agentes do Ministério Público junto do contencioso.
 
 No contencioso fiscal e aduaneiro.
 
-###### Art. 3.º É revogado o artigo 13.º do [Decreto-Lei n.º 43203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43203-1960-513984), de 7 de Outubro de 1960, passando o artigo 59.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, a ter seguinte redacção:
+Art. 3.º É revogado o artigo 13.º do [Decreto-Lei n.º 43203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43203-1960-513984), de 7 de Outubro de 1960, passando o artigo 59.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, a ter seguinte redacção:
 
-###### Art. 59.º O expediente do Conselho, incluindo escrivania dos processos, corre pela Secretaria-Geral do Ministério.
+Art. 59.º O expediente do Conselho, incluindo escrivania dos processos, corre pela Secretaria-Geral do Ministério.
 
-###### Art. 4.º No mapa n.º 2 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, são incluídos um lugar de primeiro-oficial e um de dactilógrafo, lugares estes que se eliminam no mapa anexo ao [Decreto-Lei n.º 43203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43203-1960-513984), de 7 de Outubro de 1960.
+Art. 4.º No mapa n.º 2 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, são incluídos um lugar de primeiro-oficial e um de dactilógrafo, lugares estes que se eliminam no mapa anexo ao [Decreto-Lei n.º 43203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43203-1960-513984), de 7 de Outubro de 1960.
 
 § único. O primeiro-oficial em serviço na Direcção-Geral de Justiça que actualmente desempenha as funções de escrivão do Conselho Superior de Disciplina do Ultramar e uma das dactilógrafas colocadas na mesma Direcção-Geral transitarão para os novos lugares de primeiro-oficial e de dactilógrafo da Secretaria-Geral sem novas formalidades de nomeação, visto ou posse.
 
-###### Art. 5.º Os encargos resultantes da execução do artigo 4.º do presente diploma serão satisfeitos no corrente ano pelas disponibilidades existentes nas dotações destinadas a vencimentos do pessoal dos quadros aprovados por lei da Direcção-Geral de Justiça.
+Art. 5.º Os encargos resultantes da execução do artigo 4.º do presente diploma serão satisfeitos no corrente ano pelas disponibilidades existentes nas dotações destinadas a vencimentos do pessoal dos quadros aprovados por lei da Direcção-Geral de Justiça.
 
-###### Art. 6.º É substituída pela seguinte a redacção do § 3.º do artigo 15.º do [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959:
+Art. 6.º É substituída pela seguinte a redacção do § 3.º do artigo 15.º do [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959:
 
 § 3.º Os lugares de categoria igual ou inferior à de chefe de repartição são providos por nomeação ou em comissão ordinária de serviço, com excepção dos cargos considerados de carácter técnico, cujo provimento será feito por contrato ou comissão de serviço.
 
-###### Art. 7.º Aos médicos e farmacêuticos dos quadros comuns do ultramar referidos na alínea a) do artigo 1.º do [Decreto n.º 38052](https://diariodarepublica.pt/dr/detalhe/decreto/38052-1950-486137), de 13 de Novembro de 1950, em regime de horário completo no Hospital do Ultramar é reconhecido o direito a vencimentos iguais ao vencimento-base correspondente à sua categoria nos quadros comuns do ultramar.
+Art. 7.º Aos médicos e farmacêuticos dos quadros comuns do ultramar referidos na alínea a) do artigo 1.º do [Decreto n.º 38052](https://diariodarepublica.pt/dr/detalhe/decreto/38052-1950-486137), de 13 de Novembro de 1950, em regime de horário completo no Hospital do Ultramar é reconhecido o direito a vencimentos iguais ao vencimento-base correspondente à sua categoria nos quadros comuns do ultramar.
 
 § único. A diferença entre o vencimento inscrito na tabela de despesa do orçamento privativo do Hospital do Ultramar e o vencimento-base ser-lhes-á abonada como complemento de vencimento por dotação a inscrever na referida tabela de despesa do mesmo Hospital.
 
-###### Art. 8.º Os §§ 2.º e 3.º do artigo 146.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passam a ter a seguinte redacção:
+Art. 8.º Os §§ 2.º e 3.º do artigo 146.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passam a ter a seguinte redacção:
 
 § 2.º Os lugares de chefe de secção podem ser providos por escolha do Ministro entre os directores de Fazenda de 3.ª classe que tenham boas informações de serviço ou por meio de concurso de provas práticas a que serão admitidos diplomados com cursos superiores considerados adaptados ao cargo por despacho do Ministro do Ultramar e primeiros-oficiais do quadro próprio dos serviços de Fazenda do Ministério com o mínimo de três anos de serviço na classe.
 
 § 3.º O Ministro pode dispensar do concurso para terceiros-oficiais indivíduos habilitados com os cursos de Direito, de Ciências Económicas e Financeiras, Economia, Finanças ou de Administração do Instituto Superior de Estudos Ultramarinos.
 
-###### Art. 9.º O artigo 24.º do [Decreto-Lei n.º 43353](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43353-1960-512989), de 24 de Novembro de 1960, passa a ter a seguinte redacção:
+Art. 9.º O artigo 24.º do [Decreto-Lei n.º 43353](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43353-1960-512989), de 24 de Novembro de 1960, passa a ter a seguinte redacção:
 
-###### Art. 24.º O chefe da Repartição de Saúde e Higiene será nomeado em comissão ordinária de serviço e escolhido entre os médicos de 1.ª classe do quadro comum do ultramar ou do quadro complementar de cirurgiões e especialistas que possuam demonstrada competência.
+Art. 24.º O chefe da Repartição de Saúde e Higiene será nomeado em comissão ordinária de serviço e escolhido entre os médicos de 1.ª classe do quadro comum do ultramar ou do quadro complementar de cirurgiões e especialistas que possuam demonstrada competência.
 
-###### Art. 10.º O artigo 67.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passa a ter a seguinte redacção:
+Art. 10.º O artigo 67.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passa a ter a seguinte redacção:
 
-###### Art. 67.º O Conselho Superior de Fomento Ultramarino é composto por:
+Art. 67.º O Conselho Superior de Fomento Ultramarino é composto por:
 
 1.º Um presidente especialmente nomeado pelo Ministro do Ultramar;
 
@@ -194,7 +241,7 @@ No contencioso fiscal e aduaneiro.
 
 § 5.º O Conselho terá secretaria privativa, a cargo de um secretário nomeado pelo Ministro do Ultramar, o qual terá a categoria da letra F da tabela constante do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49255-1969-214489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ab58dd77bb6e5dea429695c5bbcf1ea83e860f3fe9a5addc88148b2bb56ad6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7f83d1adccab1bfdbc906be97246049f2d30f3b8c0cddea4ce5ea0f17bd53d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:18Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +89,12 @@ Tendo em vista os pareceres concordantes da Junta de Freguesia de Torre de Vale 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A povoação de Figueiras Podres, da freguesia de Torre de Vale de Todos, do concelho de Ansião, passa a denominar-se Figueiras de S. João.
+Artigo único. A povoação de Figueiras Podres, da freguesia de Torre de Vale de Todos, do concelho de Ansião, passa a denominar-se Figueiras de S. João.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 15 de Setembro de 1969.**
+Promulgado em 15 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

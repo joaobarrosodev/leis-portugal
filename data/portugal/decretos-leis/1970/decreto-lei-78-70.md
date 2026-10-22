@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1970-228439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c339c7d491c88315b813577cfa7c157fbfb0f997174df39566a4fdb26d03a50b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a2744e128ae26e37551113e43bd7c5d72f4087eaf8c50945603000a86cef12d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Embarcação
+- Imposto de Comércio Marítimo
+- Regime Fiscal
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:422069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635396:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:42Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +145,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As imposições marítimas gerais constituem encargo do navio e são as seguintes:
+Artigo 1.º As imposições marítimas gerais constituem encargo do navio e são as seguintes:
 
 a) Imposto de tonelagem, maior ou menor, conforme a tonelagem de arqueação bruta do navio;
 
 b) Imposto de comércio marítimo, dependente da carga descarregada e dos passageiros embarcados e desembarcados.
 
-###### Art. 2.º - 1. Os navios portugueses e estrangeiros terão em regra os mesmos encargos resultantes das imposições marítimas gerais.
+Art. 2.º - 1. Os navios portugueses e estrangeiros terão em regra os mesmos encargos resultantes das imposições marítimas gerais.
 
 2. No que se refere ao imposto de comércio marítimo, a igualdade de encargos só terá lugar para os navios estrangeiros que tenham direito a bonificação de 25 por cento em virtude de acordos comerciais.
 
@@ -110,17 +159,17 @@ b) Imposto de comércio marítimo, dependente da carga descarregada e dos passag
 
 4. Os navios estrangeiros autorizados a efectuar tráfego reservado à Bandeira Nacional ficarão sujeitos aos mesmos encargos que os navios portugueses que efectuem tal tráfego.
 
-###### Art. 3.º - 1. O imposto de tonelagem e o imposto de comércio marítimo continuarão a ser cobrados pelas alfândegas.
+Art. 3.º - 1. O imposto de tonelagem e o imposto de comércio marítimo continuarão a ser cobrados pelas alfândegas.
 
 2. As receitas provenientes da cobrança das imposições marítimas gerais devem constituir sub-rubrica da rubrica «Receitas da marinha mercante».
 
 3. A escrituração deve ser feita separadamente por imposto de tonelagem, imposto de comércio marítimo (carga) e imposto de comércio marítimo (passageiros).
 
-###### Art. 4.º Na falta de pagamento dos impostos a que se referem este diploma e seu regulamento aplicam-se as disposições gerais em vigor sobre cobrança coerciva dos rendimentos do Estado.
+Art. 4.º Na falta de pagamento dos impostos a que se referem este diploma e seu regulamento aplicam-se as disposições gerais em vigor sobre cobrança coerciva dos rendimentos do Estado.
 
-###### Art. 5.º Compete aos Ministros das Finanças e da Marinha publicar o regulamento deste decreto-lei e estabelecer as normas para a cobrança das imposições marítimas gerais.
+Art. 5.º Compete aos Ministros das Finanças e da Marinha publicar o regulamento deste decreto-lei e estabelecer as normas para a cobrança das imposições marítimas gerais.
 
-###### Art. 6.º São pelo presente decreto-lei revogados os diplomas seguintes:
+Art. 6.º São pelo presente decreto-lei revogados os diplomas seguintes:
 
 a) O [Decreto-Lei n.º 24458](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24458-1934-445296), de 3 de Setembro de 1934;
 
@@ -142,12 +191,12 @@ i) O [Decreto n.º 42233](https://diariodarepublica.pt/dr/detalhe/decreto/42233-
 
 j) O [Decreto n.º 46631](https://diariodarepublica.pt/dr/detalhe/decreto/46631-1965-511642), de 6 de Novembro de 1965.
 
-###### Art. 7.º A execução do presente decreto-lei inicia-se decorridos que sejam trinta dias sobre a data da publicação no Diário do Governo do respectivo regulamento.
+Art. 7.º A execução do presente decreto-lei inicia-se decorridos que sejam trinta dias sobre a data da publicação no Diário do Governo do respectivo regulamento.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 18 de Fevereiro de 1970.**
+Promulgado em 18 de Fevereiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

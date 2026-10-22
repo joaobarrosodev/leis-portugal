@@ -49,36 +49,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47386-1966-477985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bd8534ee0e799b2fff868c1a538fa758aff658a0b5007447991fd4f40e36f52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeaea0733b137d5c0b8f9664fdf3a44b65367ac5d3f788383401f851e5d94a0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Autorização de Despesas
+- AVAL do Estado
+- Definição de Competências
+- Empresa Privada
+- Exploração Mineira
+- Ministro das Finanças
+relationships:
+- type: cites
+  target: pt:dre:170533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294898:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:25Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +116,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Governo autorizado, pelo Ministro das Finanças, a dar o aval do Estado aos compromissos da Companhia Mineira do Lobito, S. A. R. L., e Sociedade Mineira do Lombige, S. A. R. L., emergentes dos contratos ou convenções de empreitada, de fornecimento ou de serviços e dos contratos de crédito com aqueles correlacionados que as mesmas venham a celebrar com prévia aprovação pelo Governo dos respectivos termos e condições para a execução do empreendimento mineiro de Cassinga.
+Artigo 1.º É o Governo autorizado, pelo Ministro das Finanças, a dar o aval do Estado aos compromissos da Companhia Mineira do Lobito, S. A. R. L., e Sociedade Mineira do Lombige, S. A. R. L., emergentes dos contratos ou convenções de empreitada, de fornecimento ou de serviços e dos contratos de crédito com aqueles correlacionados que as mesmas venham a celebrar com prévia aprovação pelo Governo dos respectivos termos e condições para a execução do empreendimento mineiro de Cassinga.
 
 § 1.º A responsabilidade decorrente para o Estado dos avales prestados não excederá a quantia que corresponder em moeda portuguesa a 2700000 contos, valor em que se inclui o limite autorizado pelo § 1.º do artigo 1.º do [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965, acrescida dos juros segundo os esquemas financeiros constantes dos contratos ou convenções de empreitada, de fornecimento ou de serviços ou dos contratos de crédito devidamente aprovados pelo Governo.
 
 § 2.º Os prazos de utilização dos créditos não excederão dois anos e os financiamentos deverão ficar totalmente reembolsados no prazo máximo de quinze anos, a partir da data de entrada em vigor do correspondente contrato ou convenção.
 
-###### Art. 2.º A garantia será prestada em cada caso por meio de declaração emitida pelo director-geral da Fazenda Pública, precedendo despacho de autorização do Ministro das Finanças.
+Art. 2.º A garantia será prestada em cada caso por meio de declaração emitida pelo director-geral da Fazenda Pública, precedendo despacho de autorização do Ministro das Finanças.
 
-###### Art. 3.º Observar-se-á o regime seguinte na execução do aval referido nos artigos anteriores:
+Art. 3.º Observar-se-á o regime seguinte na execução do aval referido nos artigos anteriores:
 
 1.º As empresas beneficiárias do aval, se não puderem efectuar na data do respectivo vencimento e no todo ou em parte qualquer dos pagamentos contratuais garantidos pelo Estado, comunicá-lo-ão ao Ministério das Finanças com a antecedência mínima de 60 dias;
 
@@ -123,11 +138,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A faculdade concedida no § 1.º deste artigo ao Ministro das Finanças pode ser exercida com referência aos créditos provenientes dos avales já prestados ao abrigo do [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965.
 
-###### Art. 4.º A todos os créditos do Estado, incluindo os transferidos para a província de Angola, resultantes dos avales por aquele prestados ou a prestar, nos termos do [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965, e do presente diploma, aplica-se o disposto no artigo 5.º do [Decreto-Lei n.º 43710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43710-1961-170533), de 24 de Maio de 1961.
+Art. 4.º A todos os créditos do Estado, incluindo os transferidos para a província de Angola, resultantes dos avales por aquele prestados ou a prestar, nos termos do [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965, e do presente diploma, aplica-se o disposto no artigo 5.º do [Decreto-Lei n.º 43710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43710-1961-170533), de 24 de Maio de 1961.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/05/12200/06290630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45041-1963-627642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c679dc93fda96a0913099821ba0cbe906bde711d4086283d5dceaf9779019f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e72d4bee4376c97b3651961bca4aaf36be73ab402f10dcf14e753ef9851cce35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvará
+- Construção Civil
+- Empreitada de Obras Públicas
+- Empreiteiro de Obras Públicas
+- Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:285742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146734:por
+  label: "Alterada a designação da Comissão criada pelo artigo 1.º do Decreto-Lei n.º 40623, de 30 de Maio de 1956, alterado\
+    \ pelo artigo 1.º do presente diploma, pelo DEC LEI.582/70.24.11.1970.MOP, DG.IS [273] de 24.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/582-1970-146734
+  date: '1970-11-24'
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285742:por
+  label: "Revogado a partir de 01.08.1988 pelo DEC LEI.100/88.23.03.1988.MOPTC, DR.IS [69] de 23.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1988-285742
+  date: '1988-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:03Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +119,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e seus parágrafos, 11.º e seus parágrafos e 12.º e seus parágrafos do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e seus parágrafos, 11.º e seus parágrafos e 12.º e seus parágrafos do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, passam a ter a seguinte redacção:
 
-###### Artigo 1.º É criada no Ministério das Obras Públicas uma comissão de inscrição e classificação dos empreiteiros de obras públicas, presidida pelo presidente do Conselho Superior de Obras Públicas, tendo como vice-presidente um engenheiro inspector superior de obras públicas e como vogais o presidente da Junta Autónoma de Estradas, os directores-gerais do Ministério das Obras Públicas, um ajudante do procurador-geral da República, um delegado de cada uma das seguintes origens:
+Artigo 1.º É criada no Ministério das Obras Públicas uma comissão de inscrição e classificação dos empreiteiros de obras públicas, presidida pelo presidente do Conselho Superior de Obras Públicas, tendo como vice-presidente um engenheiro inspector superior de obras públicas e como vogais o presidente da Junta Autónoma de Estradas, os directores-gerais do Ministério das Obras Públicas, um ajudante do procurador-geral da República, um delegado de cada uma das seguintes origens:
 
 Ordem dos Engenheiros;
 
@@ -125,26 +145,26 @@ e o vogal-secretário do Conselho Superior de Obras Públicas, que servirá de s
 
 ...
 
-###### Art. 11.º Serão cassados definitivamente os alvarás dos empreiteiros a quem venha a reconhecer-se falta de idoneidade moral ou profissional ou em relação aos quais deixe de verificar-se qualquer dos requisitos essenciais para a sua concessão, não incluídos no artigo anterior.
+Art. 11.º Serão cassados definitivamente os alvarás dos empreiteiros a quem venha a reconhecer-se falta de idoneidade moral ou profissional ou em relação aos quais deixe de verificar-se qualquer dos requisitos essenciais para a sua concessão, não incluídos no artigo anterior.
 
 § 1.º A cassação poderá, porém, ser declarada suspensa, por tempo não inferior a três nem superior a doze meses, quando os motivos que a determinaram não sejam devidos a falta de idoneidade moral, nem a sua gravidade justifique a eliminação da empresa como empreiteira de obras públicas.
 
 § 2.º Se durante o período de suspensão o empreiteiro não incorrer em qualquer outra falta prevista neste decreto-lei ou no seu regulamento, a cassação será anulada; caso contrário, tornar-se-á imediatamente definitiva.
 
-###### Art. 12.º A concessão dos alvarás, suas modificações, cassações definitivas e suspensões e a cessação destas serão publicadas no Diário do Governo.
+Art. 12.º A concessão dos alvarás, suas modificações, cassações definitivas e suspensões e a cessação destas serão publicadas no Diário do Governo.
 
 § 1.º Os alvarás suspensos, cancelados ou cassados definitivamente serão entregues à comissão nos prazos legais, sob pena de serem apreendidos pelas autoridades policiais.
 
 § 2.º A suspensão e a cassação definitiva do alvará são fundamento da rescisão dos contratos celebrados com os respectivos titulares e em curso de execução, sem direito a qualquer indemnização ou restituição.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, o seguinte artigo, passando a 23.º o actual artigo 22.º:
+Art. 2.º É aditado ao [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, o seguinte artigo, passando a 23.º o actual artigo 22.º:
 
-###### Art. 22.º A cobrança coerciva das taxas a que se refere o artigo 18.º é da competência dos tribunais privativos da 1.ª instância do contencioso das contribuições e impostos, em Lisboa e Porto, e dos tribunais das execuções fiscais nos restantes concelhos do País.
+Art. 22.º A cobrança coerciva das taxas a que se refere o artigo 18.º é da competência dos tribunais privativos da 1.ª instância do contencioso das contribuições e impostos, em Lisboa e Porto, e dos tribunais das execuções fiscais nos restantes concelhos do País.
 
 § 1.º As certidões passadas pela secretaria da comissão com os elementos extraídos dos respectivos processos servirão de base às execuções e serão para tal efeito enviadas pelo presidente ao agente do Ministério Público junto dos tribunais privativos, nos termos e para, os efeitos do § 1.º do artigo 3.º do Decreto-Lei n.º 43497, de 6 de Fevereiro de 1961, em Lisboa e Porto, e dos juízes das execuções fiscais, nos restantes concelhos, consoante as regras da competência.
 
 § 2.º No caso de o devedor residir no estrangeiro será competente o tribunal privativo de Lisboa.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/512-1972-685218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 987f2ee3d8d9e93dc988c0e45bb98ba01a18090c3b9616b45f54aba263b9e00b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 088bfaee0331acc4ea201540a4d7bdfd45ee8061684db15efb562380cf8d9703
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:07Z'
   warnings: []
   errors: []
 ---
@@ -88,38 +92,38 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 35024246$80, destinados a reforçar as seguintes verbas insuficientemente dotadas do vigente orçamento de Encargos Gerais da Nação:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 35024246$80, destinados a reforçar as seguintes verbas insuficientemente dotadas do vigente orçamento de Encargos Gerais da Nação:
 
 Despesa extraordinária
 
 Defesa nacional
 
-### Capítulo 16.º «Despesas comuns»:
+Capítulo 16.º «Despesas comuns»:
 
 Despesas militares em harmonia com compromissos tomados internacionalmente
 
-###### Artigo 528.º «Previdência social», n.º 2) «Abono de família» ... 50000$00
+Artigo 528.º «Previdência social», n.º 2) «Abono de família» ... 50000$00
 
-###### Artigo 529.º «Compensação de encargos» ... 600000$00
+Artigo 529.º «Compensação de encargos» ... 600000$00
 
-###### Artigo 530.º «Bens duradouros» ... 11850000$00
+Artigo 530.º «Bens duradouros» ... 11850000$00
 
-###### Artigo 531.º «Bens não duradouro» ... 10290000$00
+Artigo 531.º «Bens não duradouro» ... 10290000$00
 
-###### Artigo 532.º «Aquisição de serviços» ... 750000$00
+Artigo 532.º «Aquisição de serviços» ... 750000$00
 
-###### Artigo 533.º «Transferências - Sector público», n.º 2) «Outras transferências» . ... 4000000$00
+Artigo 533.º «Transferências - Sector público», n.º 2) «Outras transferências» . ... 4000000$00
 
-###### Artigo 536.º «Outras despesas correntes» ... 7484246$80
+Artigo 536.º «Outras despesas correntes» ... 7484246$80
 
 ... 35024246$80
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior é adicionada igual importância à verba inscrita no capítulo 13.º, artigo 368.º «Importância de parte dos saldos de contas de anos económicos findos», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação dos créditos designados no artigo anterior é adicionada igual importância à verba inscrita no capítulo 13.º, artigo 368.º «Importância de parte dos saldos de contas de anos económicos findos», do actual orçamento das receitas do Estado.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 27 de Novembro de 1972.**
+Promulgado em 27 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -49,40 +49,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48760-1968-261969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c141150f61e63862584491fd66f5fdd49fbfbeb7aac9dd6a7009bb9837668f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80b08cddee6f47282a4f406658427317cc00dd518d7470087b9ed01b3eb027fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Direitos de Importação
+- EFTA
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:527448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527448:por
+  label: "Ratificado pela RESAN.DD11.26.02.1969.PR, DG.IS [48] de 26.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-nacional/1969-527448
+  date: '1969-02-26'
+- type: cites
+  target: pt:dre:261966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391404:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:526017:por
+  label: Rectificado o nº 3º do art. 2º pela DECL.DD10709.29.03.1969.PC, DG.IS [75] de 29.03.1969
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1969-526017
+  date: '1969-03-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:47Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +116,9 @@ Tendo em vista as disposições da Convenção que instituiu a Associação Euro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As taxas pautais indicadas no [Decreto-Lei n.º 48757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48757-1968-261966), de hoje, devem ser consideradas como novos direitos de base, substituindo para os mesmos efeitos as correspondentes taxas anteriores.
+Artigo 1.º As taxas pautais indicadas no [Decreto-Lei n.º 48757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48757-1968-261966), de hoje, devem ser consideradas como novos direitos de base, substituindo para os mesmos efeitos as correspondentes taxas anteriores.
 
-###### Art. 2.º Na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, devem introduzir-se as seguintes alterações:
+Art. 2.º Na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, devem introduzir-se as seguintes alterações:
 
 1.º Eliminar os produtos respeitantes às posições e subposições n.os 73.09, 73.12.04, 73.15.01, 73.15.02, 73.15.10, 73.15.11, 73.15.12 e 73.18.05.
 
@@ -103,15 +126,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Incluir os produtos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/29200/18341835.pdf))](https://files.diariodarepublica.pt/1s/1968/12/29200/18341835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/29200/18341835.pdf)
 
-###### Art. 3.º A data de 1 de Janeiro de 1970 fixada no § 4.º do n.º 1 do Anexo G à Convenção de Estocolmo, de 4 de Janeiro de 1960, é transferida para 1 de Janeiro de 1973 em relação aos produtos abrangidos pelos artigos pautais 73.01, 73.09.01, 73.10.01, 73.10.03 a 73.10.07, 73.11.01 a 73.11.08, 73.12.01 a 73.12.03, 73.13.01 a 73.13.04, 73.14.01 a 73.14.03, 73.15.09, 73.15.12, 73.15.15, 73.15.17, 73.15.19, 73.15.21, 73.15.23, 73.15.27, 73.15.29, 73.15.31, 73.15.33, 73.15.35, 73.15.37, 73.15.38, 73.15.41, 73.15.43, 73.15.45, 73.15.47, 73.15.49, 73.15.51, 73.15.52, 73.15.55, 73.15.57, 73.15.59, 73.18.01, 73.18.02, 73.23.01, 73.23.02, 73.24.01, 78.25.02, 73.26, 73.27.01, 73.29.02, 73.31.03, 73.32.02, 73.32.03, 73.35.05, 73.39, e 83.15.
+Art. 3.º A data de 1 de Janeiro de 1970 fixada no § 4.º do n.º 1 do Anexo G à Convenção de Estocolmo, de 4 de Janeiro de 1960, é transferida para 1 de Janeiro de 1973 em relação aos produtos abrangidos pelos artigos pautais 73.01, 73.09.01, 73.10.01, 73.10.03 a 73.10.07, 73.11.01 a 73.11.08, 73.12.01 a 73.12.03, 73.13.01 a 73.13.04, 73.14.01 a 73.14.03, 73.15.09, 73.15.12, 73.15.15, 73.15.17, 73.15.19, 73.15.21, 73.15.23, 73.15.27, 73.15.29, 73.15.31, 73.15.33, 73.15.35, 73.15.37, 73.15.38, 73.15.41, 73.15.43, 73.15.45, 73.15.47, 73.15.49, 73.15.51, 73.15.52, 73.15.55, 73.15.57, 73.15.59, 73.18.01, 73.18.02, 73.23.01, 73.23.02, 73.24.01, 78.25.02, 73.26, 73.27.01, 73.29.02, 73.31.03, 73.32.02, 73.32.03, 73.35.05, 73.39, e 83.15.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 
-**Promulgado em 25 de Novembro de 1968.**
+Promulgado em 25 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

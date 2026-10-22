@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/03/07600/03750377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f061d0ec25f8e16cd08084b9ab044ac2e8fd010ed61f04b4f1e184aa2e3a44bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d35308ad84acb52e1f0e4a05e271ef6985ab5f156d6841563ce5e13582460a23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artes Marciais
+- Comissão Directiva das Artes Marciais
+- Definição de Competências
+- Ministério da Defesa Nacional
 relationships:
 - type: amended_by
   target: pt:dre:662764:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462808:por
+  label: "Alterados os artigos 2.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, o n.º 3 do artigo 15.º e 18.º, revogado o n.º 2 do\
+    \ artigo 16.º e os artigos 19.º e 20.º, e substituídas as referências que são feitas ao Ministro da Defesa Nacional por\
+    \ Ministro da Educação e Ciência, pelo DEC LEI.507/80.21.10.1980.MDN, DR.IS [244] de 21.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/507-1980-462808
+  date: '1980-10-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 10 (COM A REDAC&#199;&#195;O QUE LHE FOI DADA PELO DEC LEI 507/80 DE 21-OUT), PELO DEC LEI 23/82\
+    \ DE 30-JAN DR.IS [25] SUBSTITU&#205;DAS POR MINISTRO DA QUALIDADE DE VIDA TODAS AS REFER&#202;NCIAS QUE NO PRESENTE DIPLOMA\
+    \ (COM AS ALTERA&#199;&#213;ES POSTERIORMENTE INSTITUIDAS PELO DEC LEI 507/80) SAO FEITAS AOS MINISTROS DA DEFESA NACIONAL\
+    \ E DA EDUCA&#199;&#195;O E CIENCIA, PELO CITADO DEC LEI 23/82 DE 30-JAN \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-01-30'
+- type: cites
+  target: pt:dre:272864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662764:por
+  label: "Revogado pelo DEC LEI.69/87.09.02.1987.MEC, DR.IS [33] de 09.02.1987, e extinta a Comissão Directiva de Artes Marciais\
+    \ (CDAM), criada no presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1987-662764
+  date: '1987-02-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:11Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +124,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Dependem de prévia autorização, nos termos do presente diploma:
+Artigo 1.º - 1. Dependem de prévia autorização, nos termos do presente diploma:
 
 a) O ensino, a aprendizagem e a prática de artes marciais;
 
@@ -107,19 +136,19 @@ d) A filiação em organismos internacionais de centros ou outras organizações
 
 2. Para os efeitos deste diploma, consideram-se artes marciais as modalidades designadas por aikido, budo-judo, karate, kendo, kumi-tachi, naji-nata, bojitsu e outras que se devam considerar semelhantes, pelos processos nelas utilizados e pela sua perigosidade.
 
-###### Art. 2.º - 1. O ensino, a aprendizagem e a prática de artes marciais não serão autorizados aos indivíduos que não possuam a conveniente aptidão psicofisiológica e não ofereçam garantias de idoneidade moral e cívica, com acatamento da ordem social estabelecida.
+Art. 2.º - 1. O ensino, a aprendizagem e a prática de artes marciais não serão autorizados aos indivíduos que não possuam a conveniente aptidão psicofisiológica e não ofereçam garantias de idoneidade moral e cívica, com acatamento da ordem social estabelecida.
 
 2. As autorizações concedidas nos termos da alínea a) do n.º 1 do artigo 1.º serão canceladas sempre que os interessados deixem de possuir as condições exigidas para a respectiva concessão.
 
-###### Art. 3.º - 1. O ensino, a aprendizagem e a prática de artes marciais só podem ter lugar em centros destinados a essas actividades e autorizados nos termos do n.º 1 do artigo 1.º
+Art. 3.º - 1. O ensino, a aprendizagem e a prática de artes marciais só podem ter lugar em centros destinados a essas actividades e autorizados nos termos do n.º 1 do artigo 1.º
 
 2. Os centros que funcionem integrados em associações que se dediquem também a outras actividades devem constituir secções independentes, responsáveis pelo cumprimento do disposto neste diploma e nas respectivas normas regulamentares.
 
 3. Todos os centros devem ter, pelo menos, um responsável, acreditado e como tal aceite pela Comissão Directiva das Artes Marciais.
 
-###### Art. 4.º O disposto nos artigos anteriores não abrange o ensino, a aprendizagem e a prática de qualquer modalidade de artes marciais por pessoal das forças armadas ou militarizadas, de harmonia com as instruções superiormente aprovadas.
+Art. 4.º O disposto nos artigos anteriores não abrange o ensino, a aprendizagem e a prática de qualquer modalidade de artes marciais por pessoal das forças armadas ou militarizadas, de harmonia com as instruções superiormente aprovadas.
 
-###### Art. 5.º - 1. É criada no Departamento da Defesa Nacional a Comissão Directiva das Artes Marciais, à qual incumbe superintender nas actividades respeitantes ao exercício das mesmas artes.
+Art. 5.º - 1. É criada no Departamento da Defesa Nacional a Comissão Directiva das Artes Marciais, à qual incumbe superintender nas actividades respeitantes ao exercício das mesmas artes.
 
 2. A comissão é constituída por um presidente, cinco vogais e um inspector.
 
@@ -131,7 +160,7 @@ d) A filiação em organismos internacionais de centros ou outras organizações
 
 6. A Comissão será coadjuvada por um conselheiro técnico e um secretário.
 
-###### Art. 6.º Compete especialmente à Comissão Directiva das Artes Marciais:
+Art. 6.º Compete especialmente à Comissão Directiva das Artes Marciais:
 
 a) Conhecer dos pedidos de autorização exigidos pelo n.º 1 do artigo 1.º;
 
@@ -151,19 +180,19 @@ h) Julgar os processos disciplinares, salvo quando seja aplicável sanção da c
 
 i) Propor ao Ministro da Defesa Nacional as providências convenientes para a execução do presente diploma e das respectivas normas regulamentares, incluindo a criação de comissões provinciais ou distritais previstas no artigo 11.º
 
-###### Art. 7.º - 1. O inspector, o conselheiro técnico e o secretário são nomeados pelo Ministro da Defesa Nacional, sob proposta do presidente da Comissão, de entre indivíduos com os conhecimentos adequados ao exercício das funções, e livremente exonerados pelo mesmo Ministro, sempre que for conveniente.
+Art. 7.º - 1. O inspector, o conselheiro técnico e o secretário são nomeados pelo Ministro da Defesa Nacional, sob proposta do presidente da Comissão, de entre indivíduos com os conhecimentos adequados ao exercício das funções, e livremente exonerados pelo mesmo Ministro, sempre que for conveniente.
 
 2. Os mesmos cargos podem ser exercidos em acumulação com outras funções, mediante prévio acordo do Ministro que superintenda no respectivo departamento.
 
-###### Art. 8.º - 1. O presidente da Comissão, o inspector, o conselheiro técnico e o secretário são remunerados por gratificação mensal, a fixar em despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
+Art. 8.º - 1. O presidente da Comissão, o inspector, o conselheiro técnico e o secretário são remunerados por gratificação mensal, a fixar em despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
 
 2. Os vogais da Comissão são remunerados por senhas de presença.
 
-###### Art. 9.º - 1. As deliberações da Comissão estão sujeitas a homologação do Ministro da Defesa Nacional.
+Art. 9.º - 1. As deliberações da Comissão estão sujeitas a homologação do Ministro da Defesa Nacional.
 
 2. O presidente tem voto de qualidade, em caso de empate.
 
-###### Art. 10.º - 1. A Comissão Directiva das Artes Marciais tem autonomia financeira.
+Art. 10.º - 1. A Comissão Directiva das Artes Marciais tem autonomia financeira.
 
 2. Constituem receitas da Comissão:
 
@@ -177,21 +206,21 @@ c) O produto das multas previstas na alínea b) do n.º 1 do artigo 14.º
 
 4. Os fundos da Comissão são administrados pelo respectivo presidente, sendo o seu movimento processado pelo conselho administrativo do Secretariado-Geral da Defesa Nacional, em livros próprios.
 
-###### Art. 11.º - 1. Mediante portaria, poderão ser criadas comissões, de âmbito provincial ou distrital, para o exercício da competência que nelas for delegada pela Comissão Directiva das Artes Marciais.
+Art. 11.º - 1. Mediante portaria, poderão ser criadas comissões, de âmbito provincial ou distrital, para o exercício da competência que nelas for delegada pela Comissão Directiva das Artes Marciais.
 
 2. Poderá ser atribuída autonomia financeira às comissões provinciais e distritais.
 
-###### Art. 12.º - 1. Serão devidas taxas pelas autorizações exigidas nos termos do n.º 1 do artigo 1.º.
+Art. 12.º - 1. Serão devidas taxas pelas autorizações exigidas nos termos do n.º 1 do artigo 1.º.
 
 2. As taxas a que se refere o número anterior serão fixadas por despacho do Ministro da Defesa Nacional.
 
-###### Art. 13.º - 1. A infracção às disposições deste diploma e às respectivas normas regulamentares implica procedimento disciplinar contra os centros e os responsáveis pelo acto ou omissão, sem prejuízo do procedimento criminal que possa caber.
+Art. 13.º - 1. A infracção às disposições deste diploma e às respectivas normas regulamentares implica procedimento disciplinar contra os centros e os responsáveis pelo acto ou omissão, sem prejuízo do procedimento criminal que possa caber.
 
 2. Consideram-se infracções disciplinares dos centros as cometidas pelos respectivos dirigentes ou instrutores; mas a responsabilidade disciplinar dos centros não exclui a responsabilidade pessoal dos instrutores pelas infracções por eles cometidas.
 
 3. O procedimento e as sanções disciplinares prescrevem no prazo de dois anos.
 
-###### Art. 14.º - 1. Aos centros podem ser aplicadas as seguintes sanções disciplinares:
+Art. 14.º - 1. Aos centros podem ser aplicadas as seguintes sanções disciplinares:
 
 a) Advertência;
 
@@ -211,7 +240,7 @@ c) Cancelamento definitivo da autorização.
 
 3. A aplicação das sanções previstas na alínea d) do n.º 1 e na alínea c) do n.º 2 é da competência do Ministro da Defesa Nacional.
 
-###### Art. 15.º - 1. São punidos:
+Art. 15.º - 1. São punidos:
 
 a) Com prisão de três meses a um ano e multa correspondente, os que ensinem, aprendam ou pratiquem qualquer modalidade de artes marciais, sem a autorização legalmente exigida, ou fora das instalações dos centros devidamente autorizados para esses fins;
 
@@ -221,17 +250,17 @@ b) Com prisão de seis meses a dois anos e multa correspondente, os que explorem
 
 3. O conselheiro técnico da Comissão Directiva das Artes Marciais dará sempre parecer sobre as razões justificativas da qualificação, como prática de artes marciais, das actividades exercidas pelos arguidos.
 
-###### Art. 16.º - 1. Para o exercício da conveniente fiscalização, a Direcção-Geral da Educação Física e Desportos manterá a Comissão Directiva das Artes Marciais permanentemente informada dos centros e instalações de carácter desportivo onde se pratiquem modalidades desportivas afins das artes marciais.
+Art. 16.º - 1. Para o exercício da conveniente fiscalização, a Direcção-Geral da Educação Física e Desportos manterá a Comissão Directiva das Artes Marciais permanentemente informada dos centros e instalações de carácter desportivo onde se pratiquem modalidades desportivas afins das artes marciais.
 
 2. Serão encerrados pela Direcção-Geral da Educação Física e Desportos os centros e instalações desportivas, destinados a outros fins, onde se pratique qualquer das actividades previstas na alínea a) do n.º 1 do artigo 1.º
 
-###### Art. 17.º O Ministro da Defesa Nacional, por despacho, pode declarar arte marcial qualquer modalidade que justifique essa qualificação, quando acerca da mesma se tenham suscitado dúvidas.
+Art. 17.º O Ministro da Defesa Nacional, por despacho, pode declarar arte marcial qualquer modalidade que justifique essa qualificação, quando acerca da mesma se tenham suscitado dúvidas.
 
-###### Art. 18.º As normas regulamentares para a execução do presente diploma serão estabelecidas em portaria dos Ministros da Defesa Nacional, do Interior, do Ultramar e da Educação Nacional.
+Art. 18.º As normas regulamentares para a execução do presente diploma serão estabelecidas em portaria dos Ministros da Defesa Nacional, do Interior, do Ultramar e da Educação Nacional.
 
-###### Art. 19.º A Comissão Directiva das Artes Marciais considera-se em exercício de funções logo que estejam designados os vogais representantes dos Ministérios do Interior, da Educação Nacional e do Ultramar, o inspector e o conselheiro técnico.
+Art. 19.º A Comissão Directiva das Artes Marciais considera-se em exercício de funções logo que estejam designados os vogais representantes dos Ministérios do Interior, da Educação Nacional e do Ultramar, o inspector e o conselheiro técnico.
 
-###### Art. 20.º - 1. Os centros onde esteja a ser praticada qualquer das actividades previstas na alínea a) do n.º 1 do artigo 1.º devem comunicar o facto à Comissão Directiva das Artes Marciais, no prazo de trinta dias a contar da publicação do presente diploma, e mediante carta registada com aviso de recepção, indicando o local de funcionamento, a identificação completa dos seus dirigentes e a de todos os instrutores, instruendos e praticantes inscritos.
+Art. 20.º - 1. Os centros onde esteja a ser praticada qualquer das actividades previstas na alínea a) do n.º 1 do artigo 1.º devem comunicar o facto à Comissão Directiva das Artes Marciais, no prazo de trinta dias a contar da publicação do presente diploma, e mediante carta registada com aviso de recepção, indicando o local de funcionamento, a identificação completa dos seus dirigentes e a de todos os instrutores, instruendos e praticantes inscritos.
 
 2. Consideram-se transitòriamente autorizados:
 
@@ -243,11 +272,11 @@ b) As actividades dos instrutores, instruendos e praticantes identificados nas c
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 22 de Março de 1972.**
+Promulgado em 22 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 

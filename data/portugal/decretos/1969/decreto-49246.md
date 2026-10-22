@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49246-1969-214041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24a0f46d76ab49e4209eccdedfce5db1041dcb77ff16fbc7d430790e6759b631
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6372b1ce56ff1fe69aa43facd95fc7b4f6723b4aa73e4ab55df79dc3f4e11cc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:13Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -152,12 +160,12 @@ Ministério das Corporações e Previdência Social
 
 Encargos dos anos de 1967 e 1968 respeitantes a ajudas de custo, senhas de presença, conservação de veículos com motor, artigos de expediente, pagamento de serviços e encargos não especificados, pagamento de encargos com recepções e despesas de representação efectuadas no País, correios e telégrafos e transportes, contraídos por vários serviços dependentes do Ministério ... 119561$40
 
-###### Art. 2.º Fica igualmente autorizada a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo a satisfazer, em conta da verba de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 1200$00, respeitante à diferença da quota anual da International Cargo Handling Co-Ordenation Association - I. C. H. C. A., por ter passado de membro individual a membro colectivo.
+Art. 2.º Fica igualmente autorizada a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo a satisfazer, em conta da verba de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 1200$00, respeitante à diferença da quota anual da International Cargo Handling Co-Ordenation Association - I. C. H. C. A., por ter passado de membro individual a membro colectivo.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 5 de Setembro de 1969.**
+Promulgado em 5 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

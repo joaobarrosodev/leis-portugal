@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45648-1964-471922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea3a7af4962248e1054b754ce8746de4c16f73146a15030ebe65fd6fbe19a1d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fa400dccebe1e4eb9f6461fc8eb6d9c11bfe6e6fb8776903766b26ffa817a90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Benefícios Fiscais
+- Contribuições e Impostos
+- Convenção
+- Equipamento Militar
+- EUA
+- Isenção de Taxas e Emolumentos
+- Isenção Fiscal
+- Política Fiscal
+- Portugal
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:653092:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:31Z'
   warnings: []
   errors: []
 ---
@@ -88,8 +102,8 @@ Tendo surgido dúvidas sobre o alcance do disposto no § único do artigo 1.º d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer coma lei, o seguinte:
 
-###### Artigo único. Na isenção estabelecida no § único do artigo 1.º do [Decreto-Lei n.º 39398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39398-1953-653092), de 22 de Outubro de 1953, compreende-se a dos emolumentos pelo visto do Tribunal de Contas em contratos de fornecimentos ou empreitadas abrangidos pela referida disposição legal.
+Artigo único. Na isenção estabelecida no § único do artigo 1.º do [Decreto-Lei n.º 39398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39398-1953-653092), de 22 de Outubro de 1953, compreende-se a dos emolumentos pelo visto do Tribunal de Contas em contratos de fornecimentos ou empreitadas abrangidos pela referida disposição legal.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

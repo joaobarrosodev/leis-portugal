@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10800/09350935.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1980-475295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f5fb44e126f88d7692da13eb6c3bfe116cb78961ebbc13a62675fb26a3e6d01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2efa939102cad803085ce3ab4aecfdd16cba1846a3750a4213226978bb01b9dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- EUA
+- Reservas de OURO
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:281447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:04Z'
   warnings: []
   errors: []
 ---
@@ -99,26 +116,26 @@ Assim, e ouvido que foi o Banco de Portugal:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Banco de Portugal autorizado a contabilizar a sua reserva de ouro ao preço de 254,92 dólares dos Estados Unidos da América do Norte por onça troy de ouro fino.
+Artigo 1.º Fica o Banco de Portugal autorizado a contabilizar a sua reserva de ouro ao preço de 254,92 dólares dos Estados Unidos da América do Norte por onça troy de ouro fino.
 
-###### Art. 2.º O salvo activo resultante da revalorização da reserva de ouro do Banco de Portugal é destinado:
+Art. 2.º O salvo activo resultante da revalorização da reserva de ouro do Banco de Portugal é destinado:
 
 a) 74% ao reembolso antecipado, por parte da Fazenda Nacional, da totalidade do capital das promissórias de fomento nacional de que é portador o Banco de Portugal e a reembolso de dívida do Estado ao Banco, sendo os títulos objecto desse reembolso, neste último caso, determinados por despacho do Ministro das Finanças e do Plano, ouvido o Banco de Portugal;
 
 b) 26% à constituição de um fundo de reserva para flutuações cambiais ou variações do preço do ouro.
 
-###### Art. 3.º De harmonia com o previsto no artigo 21.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, serão anuladas as obrigações dos empréstimos a que se refere a alínea a) do artigo 2.º
+Art. 3.º De harmonia com o previsto no artigo 21.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, serão anuladas as obrigações dos empréstimos a que se refere a alínea a) do artigo 2.º
 
-###### Art. 4.º É revogado, na parte em que contraria o disposto no presente diploma, o artigo 10.º do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960.
+Art. 4.º É revogado, na parte em que contraria o disposto no presente diploma, o artigo 10.º do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960.
 
-###### Art. 5.º Os efeitos do presente diploma reportam-se a 1 de Janeiro de 1980.
+Art. 5.º Os efeitos do presente diploma reportam-se a 1 de Janeiro de 1980.
 
-###### Art. 6.º Qualquer dúvida na interpretação e aplicação deste diploma será resolvida por despacho do Ministro das Finanças e do Plano, ouvido o Banco de Portugal.
+Art. 6.º Qualquer dúvida na interpretação e aplicação deste diploma será resolvida por despacho do Ministro das Finanças e do Plano, ouvido o Banco de Portugal.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 5 de Maio de 1980.**
+Promulgado em 5 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

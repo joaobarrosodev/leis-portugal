@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44894-1963-193271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73fcdae6fe201ef321b80564600198847e286af6a48112bf3a9ed7d25a3d5840
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 887b564e4c4585081771095f489652dba80827e5f2ad26076b4546034054e9bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Militar
+- Ministro da Defesa Nacional
+- Ministro das Finanças
+- NATO
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:10Z'
   warnings: []
   errors: []
 ---
@@ -85,20 +90,20 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As despesas de 1.º estabelecimento, manutenção, funcionamento e fiscalização das infra-estruturas N. A. T. O. em território nacional serão satisfeitas por meio de adiantamentos de conta de verba especialmente inscrita para esse fim em despesa extraordinária.
+Artigo 1.º As despesas de 1.º estabelecimento, manutenção, funcionamento e fiscalização das infra-estruturas N. A. T. O. em território nacional serão satisfeitas por meio de adiantamentos de conta de verba especialmente inscrita para esse fim em despesa extraordinária.
 
 § único. As despesas referidas no corpo deste artigo constituem encargo dos países utentes, devendo os adiantamentos ser reembolsados por esses países, de conformidade com a fórmula de comparticipação que estiver estabelecida para cada uma das infra-estruturas.
 
-###### Art. 2.º As importâncias recebidas dos países utentes darão entrada nos cofres do Estado mediante guia de receita emitida pela competente repartição da Direcção-Geral da Contabilidade Pública.
+Art. 2.º As importâncias recebidas dos países utentes darão entrada nos cofres do Estado mediante guia de receita emitida pela competente repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 3.º As despesas realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas aos vistos dos Ministros da Defesa Nacional e das Finanças, que, a serem concedidos, as legitimam.
+Art. 3.º As despesas realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas aos vistos dos Ministros da Defesa Nacional e das Finanças, que, a serem concedidos, as legitimam.
 
-###### Art. 4.º Para pagamento daquelas despesas o conselho administrativo do Secretariado-Geral da Defesa Nacional requisitará à respectiva repartição da Direcção-Geral da Contabilidade Pública os fundos necessários, indicando concretamente nas respectivas requisições as despesas a que se destinam.
+Art. 4.º Para pagamento daquelas despesas o conselho administrativo do Secretariado-Geral da Defesa Nacional requisitará à respectiva repartição da Direcção-Geral da Contabilidade Pública os fundos necessários, indicando concretamente nas respectivas requisições as despesas a que se destinam.
 
 § 1.º No prazo improrrogável de 30 dias, a contar da data da respectiva autorização de pagamento, o referido conselho administrativo enviará à mencionada repartição, em duplicado, a documentação das despesas pagas, bem como um resumo solicitando guia de reposição pelo saldo, se o houver.
 
 § 2.º A repartição da Direcção-Geral da Contabilidade Pública, após a conferência dos documentos, submeterá o processo a visto dos Ministros da Defesa Nacional e das Finanças, devolvendo um exemplar do resumo e da documentação, com a nota de terem sido conferidos e a indicação da data da aprovação ministerial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Angusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1979-367829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4be53654e65660284a76740266e994153752636f42aa4c0600a9ebf6e90727b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71352ecfc3977fafc175586ea4c606407270bf3ac1e7db9e749ac32720df3cd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Força Aérea
+- Metrópole
+- Orçamento
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:237445:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:02Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +98,9 @@ Considerando que o artigo 1.º do [Decreto-Lei n.º 46291](https://diariodarepub
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 46291](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46291-1965-237445), de 24 de Abril de 1965, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 46291](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46291-1965-237445), de 24 de Abril de 1965, passa a ter a seguinte redacção:
 
-###### Artigo 1.º Junto das unidades e outros órgãos da Força Aérea podem, sempre que tal convenha à sua existência e vida, funcionar serviços, criar-se e funcionar explorações de carácter agrícola, industrial e comercial com a finalidade de, contra pagamento, efectuar fornecimentos e prestar serviços:
+Artigo 1.º Junto das unidades e outros órgãos da Força Aérea podem, sempre que tal convenha à sua existência e vida, funcionar serviços, criar-se e funcionar explorações de carácter agrícola, industrial e comercial com a finalidade de, contra pagamento, efectuar fornecimentos e prestar serviços:
 
 Por norma, às unidades e outros órgãos da Força Aérea, ao seu pessoal e respectivos agregados familiares;
 
@@ -100,8 +108,8 @@ Eventualmente, e mediante autorização prévia, ao pessoal pertencente às for�
 
 Visto e aprovado em Conselho da Revolução em 17 de Outubro de 1979.
 
-**Promulgado em 29 de Outubro de 1979.**
+Promulgado em 29 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

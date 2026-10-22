@@ -48,40 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1970-225859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71673fdc947c53bbb8b8678274939c0a8ccfd7a1667c8fe1e44e8a6f2cf971ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89272bfc58eba75f686710eab228d2c44925f5accdb5eb0f8daba1e2705261c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete de Estudos e Planeamento
+- Ministério da Economia
+- Ministério das Finanças
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:527206:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472883:por
+  label: "Alterada a designação para Gabinete de Estudo e Planeamento do Ministério das Finanças do Gabinete de Estudos e\
+    \ Planeamento dos Ministérios das Finanças e da Economia, criado pelo presente diploma, com a designação alterada pelo\
+    \ art. 5º do Dec Lei 108/74, de 15-Mar, pelo DEC LEI.525/74.08.10.1974.MF, DG.IS [234] de 08.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/525-1974-472883
+  date: '1974-10-08'
+- type: amended_by
+  target: pt:dre:527206:por
+  label: Extinto o Gabinete de Estudos e Planeamento do Ministério das Finanças pelo DEC LEI.97-A/86.16.05.1986.MF, DR.IS
+    [112-Supl] de 16.05.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-a-1986-527206
+  date: '1986-05-16'
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:13Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +131,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado, nos termos e para os efeitos previstos no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, o Gabinete de Estudos e Planeamento dos Ministérios das Finanças e da Economia, directamente dependente do Ministro das Finanças e da Economia, destinado a promover a elaboração de estudos sobre problemas económicos e financeiros de que o Ministro careça, a assegurar e coordenar a actuação dos Ministérios na preparação e execução dos planos de fomento e a estabelecer as convenientes ligações com os órgãos centrais e interministeriais de planeamento.
+Artigo 1.º É criado, nos termos e para os efeitos previstos no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, o Gabinete de Estudos e Planeamento dos Ministérios das Finanças e da Economia, directamente dependente do Ministro das Finanças e da Economia, destinado a promover a elaboração de estudos sobre problemas económicos e financeiros de que o Ministro careça, a assegurar e coordenar a actuação dos Ministérios na preparação e execução dos planos de fomento e a estabelecer as convenientes ligações com os órgãos centrais e interministeriais de planeamento.
 
-###### Art. 2.º - 1. Compete ao Gabinete:
+Art. 2.º - 1. Compete ao Gabinete:
 
 a) Fornecer apoio técnico ao Ministro das Finanças e da Economia em todas as questões de natureza económica e financeira que ele submeta ao Gabinete;
 
@@ -120,7 +147,7 @@ d) Apoiar o funcionamento da Comissão Consultiva de Estatística dos Ministéri
 
 3. Em vista do disposto na alínea d) do n.º 1 do presente artigo e no n.º 1 do artigo 7.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), o director do Gabinete será o representante dos Ministérios das Finanças e da Economia no Conselho Nacional de Estatística.
 
-###### Art. 3.º - 1. O Gabinete englobará um Serviço de Estudos e um Serviço de Planeamento, cada um deles sob a chefia de um director de serviços.
+Art. 3.º - 1. O Gabinete englobará um Serviço de Estudos e um Serviço de Planeamento, cada um deles sob a chefia de um director de serviços.
 
 2. Ao Serviço de Estudos compete, designadamente:
 
@@ -140,7 +167,7 @@ c) Elaborar ou promover a elaboração de estudos, projectos e programas relativ
 
 d) Apresentar relatórios relativos à execução das medidas de política económica e financeira a que se refere a alínea anterior.
 
-###### Art. 4.º - 1. Com vista a assegurar, nos termos a que se refere a alínea c) do n.º 1 do artigo 2.º, as funções de coordenação entre as actividades dos Gabinetes de Planeamento das Secretarias de Estado da Agricultura, do Comércio e da Indústria e do Serviço de Planeamento a que se refere o artigo 3.º, funcionará junto do Gabinete um grupo coordenador, ao qual competirá especialmente:
+Art. 4.º - 1. Com vista a assegurar, nos termos a que se refere a alínea c) do n.º 1 do artigo 2.º, as funções de coordenação entre as actividades dos Gabinetes de Planeamento das Secretarias de Estado da Agricultura, do Comércio e da Indústria e do Serviço de Planeamento a que se refere o artigo 3.º, funcionará junto do Gabinete um grupo coordenador, ao qual competirá especialmente:
 
 a) Dar parecer sobre os projectos dos programas anuais de trabalho a elaborar, nos termos do artigo 6.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) e do artigo 7.º do presente diploma, pelos Gabinetes de Planeamento das Secretarias de Estado da Agricultura, do Comércio e da Indústria e pelo Serviço de Planeamento;
 
@@ -156,7 +183,7 @@ c) Assegurar o cumprimento das orientações, normas e prazos para os trabalhos 
 
 5. Os membros do grupo coordenador poderão fazer-se acompanhar às reuniões por assessores.
 
-###### Art. 5.º - 1. O Gabinete será apoiado, no exercício das funções a que se refere a alínea b) do artigo 2.º, por um conselho consultivo, constituído nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
+Art. 5.º - 1. O Gabinete será apoiado, no exercício das funções a que se refere a alínea b) do artigo 2.º, por um conselho consultivo, constituído nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
 
 2. Compete ao conselho consultivo, em harmonia com o disposto no artigo 9.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), pronunciar-se sobre todas as questões que sejam submetidas à sua apreciação pelo director do Gabinete e emitir parecer sobre:
 
@@ -196,13 +223,13 @@ j) Corporação de Crédito e Seguros.
 
 8. Os membros do conselho e as entidades chamadas ou convidadas a participar nas reuniões terão direito, por cada reunião em que participem, a uma senha de presença.
 
-###### Art. 6.º O director do Gabinete poderá dirigir-se directamente aos serviços do Ministério das Finanças, aos Gabinetes de Planeamento das Secretarias de Estado da Agricultura, do Comércio e da Indústria e às entidades públicas e privadas que tenham a seu cargo a execução de tarefas de planeamento ou a aplicação de medidas de política económica e financeira de que o Gabinete tenha de se ocupar, para lhes solicitar todas as informações e elementos necessários ao desempenho das funções a que se refere o artigo 2.º do presente diploma.
+Art. 6.º O director do Gabinete poderá dirigir-se directamente aos serviços do Ministério das Finanças, aos Gabinetes de Planeamento das Secretarias de Estado da Agricultura, do Comércio e da Indústria e às entidades públicas e privadas que tenham a seu cargo a execução de tarefas de planeamento ou a aplicação de medidas de política económica e financeira de que o Gabinete tenha de se ocupar, para lhes solicitar todas as informações e elementos necessários ao desempenho das funções a que se refere o artigo 2.º do presente diploma.
 
-###### Art. 7.º - 1. Os programas de trabalho anuais do Gabinete de Estudos e Planeamento deverão incluir os estudos e outras iniciativas que o Gabinete se proponha levar a efeito para o desempenho das respectivas funções, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
+Art. 7.º - 1. Os programas de trabalho anuais do Gabinete de Estudos e Planeamento deverão incluir os estudos e outras iniciativas que o Gabinete se proponha levar a efeito para o desempenho das respectivas funções, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
 
 2. Em relação a todas as actividades relacionadas com os órgãos centrais e interministeriais de planeamento, o Secretariado Técnico da Presidência do Conselho deverá proporcionar as orientações necessárias quanto a normas de trabalho e prazos de realização.
 
-###### Art. 8.º - 1. O quadro do pessoal dirigente e técnico do Gabinete de Estudos e Planeamento é o constante do mapa anexo ao presente diploma e será preenchido de harmonia com o disposto nos artigos 3.º, 12.º e 13.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
+Art. 8.º - 1. O quadro do pessoal dirigente e técnico do Gabinete de Estudos e Planeamento é o constante do mapa anexo ao presente diploma e será preenchido de harmonia com o disposto nos artigos 3.º, 12.º e 13.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
 
 2. Além do pessoal a que se refere o número anterior, o Gabinete poderá, mediante autorização dada por despacho do Ministro das Finanças e da Economia:
 
@@ -216,19 +243,19 @@ c) Realizar contratos, nos termos do n.º 3 do artigo 5.º do [Decreto-Lei n.º 
 
 4. No recrutamento e formação do pessoal técnico deverá procurar assegurar-se a necessária especialização nas diferentes funções atribuídas ao Gabinete.
 
-###### Art. 9.º Os núcleos de planeamento previstos nos artigos 4.º, 10.º e 11.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) serão constituídos na medida das necessidades, mediante prévio despacho ministerial, em que se estabelecerão também as bases gerais dos respectivos programas de trabalho.
+Art. 9.º Os núcleos de planeamento previstos nos artigos 4.º, 10.º e 11.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) serão constituídos na medida das necessidades, mediante prévio despacho ministerial, em que se estabelecerão também as bases gerais dos respectivos programas de trabalho.
 
-###### Art. 10.º A fim de facilitar o desempenho das funções cometidas aos Serviços de Estudos e de Planeamento, ao grupo coordenador e ao Conselho Consultivo a que se refere o presente diploma podem ser constituídos no Gabinete, mediante despacho ministerial, grupos de trabalho ad hoc, constituídos por técnicos especialmente designados ou convidados para esse efeito.
+Art. 10.º A fim de facilitar o desempenho das funções cometidas aos Serviços de Estudos e de Planeamento, ao grupo coordenador e ao Conselho Consultivo a que se refere o presente diploma podem ser constituídos no Gabinete, mediante despacho ministerial, grupos de trabalho ad hoc, constituídos por técnicos especialmente designados ou convidados para esse efeito.
 
-###### Art. 11.º O director do Gabinete poderá, mediante despacho ministerial, ser autorizado a delegar no director do Serviço de Estudos ou no director do Serviço de Planeamento qualquer das funções que lhe são atribuídas pelo [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) e pelo presente diploma.
+Art. 11.º O director do Gabinete poderá, mediante despacho ministerial, ser autorizado a delegar no director do Serviço de Estudos ou no director do Serviço de Planeamento qualquer das funções que lhe são atribuídas pelo [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) e pelo presente diploma.
 
-###### Art. 12.º Os encargos com o funcionamento do Gabinete de Estudos e Planeamento serão satisfeitos através de dotação inscrita no orçamento do Ministério das Finanças.
+Art. 12.º Os encargos com o funcionamento do Gabinete de Estudos e Planeamento serão satisfeitos através de dotação inscrita no orçamento do Ministério das Finanças.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Abril de 1970.**
+Promulgado em 3 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -236,6 +263,6 @@ Para ser presente à Assembleia Nacional.
 
 Mapa anexo ao Decreto-Lei n.º 171/70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/09000/04870490.pdf))](https://files.diariodarepublica.pt/1s/1970/04/09000/04870490.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/09000/04870490.pdf)
 
 Ministérios das Finanças e da Economia, 3 de Abril de 1970. - O Ministro das Finanças e da Economia, João Augusto Dias Rosas.

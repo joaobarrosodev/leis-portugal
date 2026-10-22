@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1972-396301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ead23d1e5c5107ce8bfa765cd5887e8be70f688b74a344abd747bb1191d33a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f897ee6385d1aca9b987c70d7fd52b7de626f630eec0428029331328cb4851c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Instituto Português de Oncologia de Francisco Gentil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:392813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250630:por
+  label: Alterado o quadro do Instituto Português de Oncologia de Francisco Gentil, anexo ao presente diploma, pelo(a) Portaria
+    n.º 423/77 - Diário da República n.º 160/1977, Série I de 1977-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-1977-250630
+  date: '1977-07-13'
+- type: amended_by
+  target: pt:dre:250843:por
+  label: Alterado o quadro de pessoal fixado pelo presente diploma, pelo(a) Decreto n.º 99/77 - Diário da República n.º 165/1977,
+    Série I de 1977-07-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/99-1977-250843
+  date: '1977-07-19'
+- type: amended_by
+  target: pt:dre:286347:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pelo DEC.117/77.1977.09.08.PCM DR.IS [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/117-1977-286347
+  date: '1977-09-08'
+- type: amended_by
+  target: pt:dre:383580:por
+  label: "Alterado, no que se refere ao pessoal técnico, o quadro de pessoal fixado pelo presente diploma, na redacção do\
+    \ Decreto n.º 99/77, de 19 de Julho pela PORT.284/79.19.06.1979.PCM, DR.IS [139] de 19.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/284-1979-383580
+  date: '1979-06-19'
+- type: amended_by
+  target: pt:dre:378538:por
+  label: "Alterado, o quadro do pessoal do Instituto Português de Oncologia de Francisco Gentil anexo ao presente diploma,\
+    \ pela PORT.466/79.29.08.1979.PCM, DR.IS [199] de 29.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/466-1979-378538
+  date: '1979-08-29'
+- type: amended_by
+  target: pt:dre:567273:por
+  label: "Alterado o quadro de pessoal do Instituto Português de Oncologia de Francisco Gentil (Centro de Lisboa), aprovado\
+    \ pelo presente diploma, pela PORT.1064/81.16.12.1981.MFP, DR.IS [288] de 16.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1981-567273
+  date: '1981-12-16'
+- type: amended_by
+  target: pt:dre:392813:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.465/82.1982.05.05.MFP DR.IS [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/465-1982-392813
+  date: '1982-05-05'
+- type: cites
+  target: pt:dre:551430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:51Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +155,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O quadro do pessoal do Instituto Português de Oncologia de Francisco Gentil, cujas remunerações constituem encargo do Orçamento Geral do Estado, é o que consta do mapa anexo ao presente diploma.
+Artigo 1.º - 1. O quadro do pessoal do Instituto Português de Oncologia de Francisco Gentil, cujas remunerações constituem encargo do Orçamento Geral do Estado, é o que consta do mapa anexo ao presente diploma.
 
 2. Quando houver lugares de enfermeira do quadro cujo provimento se mostrar impossível por falta de candidatas nas condições legais, poderá o Ministro da Educação Nacional autorizar que, pelas disponibilidades das dotações consignadas àqueles lugares, seja contratado, a título eventual, pessoal de enfermagem de outra categoria.
 
@@ -114,15 +165,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. As remunerações de pessoal admitido nos termos do n.º 2 do presente artigo não poderão exceder as estabelecidas para o pessoal de igual categoria dos quadros do Instituto.
 
-###### Art. 2.º - 1. O pessoal que, além do indicado no mapa anexo a este diploma, se tornar indispensável para se assegurar o funcionamento dos serviços do Instituto será remunerado pelos rendimentos próprios deste e poderá ser admitido e dispensado mediante despacho do Ministro da Educação Nacional, independentemente de quaisquer formalidades.
+Art. 2.º - 1. O pessoal que, além do indicado no mapa anexo a este diploma, se tornar indispensável para se assegurar o funcionamento dos serviços do Instituto será remunerado pelos rendimentos próprios deste e poderá ser admitido e dispensado mediante despacho do Ministro da Educação Nacional, independentemente de quaisquer formalidades.
 
 2. O pessoal a admitir nos termos do número anterior será aprovado anualmente pelo Ministro da Educação Nacional.
 
-###### Art. 3.º - 1. Aos membros efectivos da comissão directora do Instituto serão abonadas senhas de presença correspondentes às sessões de que participarem e quando tiverem de se deslocar, em serviço do Instituto, da localidade da sua residência, despesas de transporte e ajudas de custo.
+Art. 3.º - 1. Aos membros efectivos da comissão directora do Instituto serão abonadas senhas de presença correspondentes às sessões de que participarem e quando tiverem de se deslocar, em serviço do Instituto, da localidade da sua residência, despesas de transporte e ajudas de custo.
 
 2. As funções de membro da comissão directora são acumuláveis com quaisquer outras.
 
-###### Art. 4.º - 1. Os actuais servidores do Instituto serão providos, independentemente de quaisquer formalidades, incluindo o visto do Tribunal de Contas, em lugares do quadro constante do mapa anexo a este diploma, de categoria tanto quanto possível correspondente às funções que estão a exercer.
+Art. 4.º - 1. Os actuais servidores do Instituto serão providos, independentemente de quaisquer formalidades, incluindo o visto do Tribunal de Contas, em lugares do quadro constante do mapa anexo a este diploma, de categoria tanto quanto possível correspondente às funções que estão a exercer.
 
 2. Dentro de trinta dias a contar da entrada em vigor deste decreto-lei, o pessoal referido no número anterior será distribuído pelo novo quadro por despacho do Ministro da Educação Nacional a publicar no Diário do Governo.
 
@@ -130,21 +181,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os novos abonos serão liquidados a partir do dia 1 do mês seguinte ao da entrada em vigor deste diploma.
 
-###### Art. 5.º Os encargos resultantes da promulgação do presente diploma serão, no corrente ano, satisfeitos pelas disponibilidades das dotações orçamentais para pessoal.
+Art. 5.º Os encargos resultantes da promulgação do presente diploma serão, no corrente ano, satisfeitos pelas disponibilidades das dotações orçamentais para pessoal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 20 de Março de 1972.**
+Promulgado em 20 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Quadro de pessoal a que se refere o artigo 1.º do Decreto-Lei n.º 99/72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/03/07200/03600362.pdf))](https://files.diariodarepublica.pt/1s/1972/03/07200/03600362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/03/07200/03600362.pdf)
 
 Notas
 
@@ -158,4 +209,4 @@ Notas
 
 5) Poderá ser fornecida alimentação ao pessoal não abrangido pelas condições referidas na alínea anterior, mediante encargo a fixar pelo Ministro da Educação Nacional.
 
-**O Ministro da Educação Nacional, José Veiga Simão. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Educação Nacional, José Veiga Simão. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48661-1968-263541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c47bc8aa71d85299a62df69b36bca44582a849d57e4c1e0b8fc33952a4e362d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24aff5892baab4aeafd6b96c76cedabbf0186f101c91d388895c0a6aaf1786b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Comissão
+- Convenção
+- Criação de Serviços
+- Definição de Competências
+- Espanha
+- Madrid
+- Portugal
+- RIO Chança
+- Rio Guadiana
+- RIO LIMA
+- RIO Minho
+- RIO TEJO
 relationships:
 - type: amended_by
   target: pt:dre:502041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502041:por
+  label: "Aprovado, para ratificação, o 2º Protocolo Adicional ao Convénio entre Portugal e Espanha, para Regular o Uso e\
+    \ o Aproveitamento Hidráulico dos Troços internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes,\
+    \ aprovado para ratificação pelo diploma, pelo DEC.292/76.23.04.1976.MNE, DR.IS [96] de 23.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/292-1976-502041
+  date: '1976-04-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:59Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +110,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ser ratificado, o Convénio entre Portugal e Espanha para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e Protocolo Adicional, assinados em Madrid em 29 de Maio de 1968.
+Artigo único. É aprovado, para ser ratificado, o Convénio entre Portugal e Espanha para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes e Protocolo Adicional, assinados em Madrid em 29 de Maio de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
@@ -100,11 +120,11 @@ Convénio entre Portugal e Espanha para Regular o Uso e o Aproveitamento Hidráu
 
 Os Governos de Portugal e de Espanha, inspirados pelo mais largo espírito de cooperação e desejando regular de comum acordo o uso e o aproveitamento hidráulico dos rios internacionais nas suas zonas fronteiriças, decidem concluir o seguinte Convénio:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O aproveitamento hidráulico dos troços internacionais dos rios Minho, Lima, Tejo, Guadiana, Chança e seus afluentes realizar-se-á em benefício das duas nações segundo as prescrições do presente Convénio, procurando harmonizar o referido aproveitamento com todos os outros aproveitamentos de que aqueles troços sejam susceptíveis. Todos os demais direitos de cada Estado limítrofe sobre os referidos troços internacionais definidos em convénios anteriores ficam subsistindo em tudo que não contrarie a aplicação das regras estabelecidas no presente Convénio.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Os 27 m superiores do desnível do troço internacional do rio Minho, com origem na confluência do rio Trancoso (Troncoso em espanhol), serão utilizados num só aproveitamento, cuja produção hidroeléctrica é atribuída na proporção de 20,5 por cento para Portugal e 79,5 por cento para Espanha.
 
@@ -116,7 +136,7 @@ A realização do aproveitamento poderá ser da iniciativa de qualquer dos Estad
 
 A esta comissão incumbirá definir as cláusulas da eventual concessão a uma empresa luso-espanhola, as condições da entrega de energia ao Estado não participante, no caso de o aproveitamento não ser realizado em comum, bem como o prazo e demais condições em que um dos Estados poderá usar o direito de comparticipar no custo das obras, na constituição da empresa concessionária e na exploração do aproveitamento, se este for promovido pelo outro Estado.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O aproveitamento hidráulico das seguintes zonas dos troços dos restantes rios mencionados no artigo 1.º será distribuído entre Portugal e Espanha pela forma seguinte:
 
@@ -132,15 +152,15 @@ e) Reserva-se para Portugal a utilização de todo o troço do rio Guadiana, ent
 
 f) Reserva-se para a Espanha a utilização do troço internacional do rio Chança compreendido entre as confluências da ribeira da Perna Seca ou Barranco de Raia e do rio Chança com o rio Guadiana, incluindo os correspondentes desníveis dos afluentes nesse troço.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Incumbe à comissão internacional prevista no artigo 17.º do presente Convénio apreciar a conveniência de uma regularização adicional para melhor conjugação da exploração do aproveitamento referido na alínea d) do artigo 3.º e do aproveitamento do troço português contíguo do rio Tejo e autorizar as sobreelevações que com tal fim resultem necessárias, tanto do lado português, acima do estrito desnível daquele troço, como do lado espanhol, acima do estrito desnível dos troços definidos nas alíneas c) e d) do artigo 3.º, fixando para isso as correspondentes condições.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Poderá ser atribuída a qualquer dos Estados a utilização daquelas partes dos troços dos rios referidos no artigo 1.º e que não se tenham distribuído no artigo 3.º, competindo à comissão internacional fixar as condições do respectivo aproveitamento e as compensações que devam ter lugar para efeito de uma repartição equitativa dos recursos hidráulicos dos rios fronteiriços.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Nos troços a que se referem o artigo 2.º e as alíneas a) a d) do artigo 3.º não poderão ser distraídas águas das utilizadas por virtude deste Convénio sem prévio acordo dos dois Governos. A comissão internacional fixará o volume máximo que em cada caso possa ser desviado e a importância das indemnizações que devam ter lugar.
 
@@ -150,25 +170,25 @@ O aproveitamento de todos os troços que são objecto deste Convénio deverá fa
 
 Nos troços de rios abrangidos pelo presente Convénio, que não sejam internacionais, a protecção, a conservação e o fomento da riqueza piscícola reger-se-ão pelas leis específicas de cada país. Quando se trate de troços internacionais, aplicar-se-ão os Convénios especiais subscritos para o efeito e, na sua falta, os usos e costumes estabelecidos.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As reservas, reconhecimentos e atribuições de direitos em favor de uma e outra das Altas Partes Contratantes, que se contêm no Convénio, são feitas exclusivamente para os únicos efeitos dos aproveitamentos a que as mesmas se referem, sem que em caso algum tais reservas, reconhecimentos e atribuições, nem as obras que ao seu abrigo se realizem, possam afectar problemas de fixação de fronteiras entre os dois países, nem as questões que são da competência da Comissão Internacional de Limites entre Portugal e Espanha, nem qualquer outro assunto distinto dos aproveitamentos objecto do presente Convénio.
 
 A jurisdição de cada Estado nos troços internacionais conservará os limites fixados no tratado de 29 de Setembro de 1864, correspondentes às condições naturais anteriores à realização das obras.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Cada Estado realizará, directamente ou mediante concessões outorgadas nos termos da sua respectiva legislação, o aproveitamento das zonas que se lhe reservam no presente Convénio.
 
 No caso de se efectuarem as obras por concessão, a empresa ou empresas concessionárias de cada zona deverão constituir-se nos termos das leis internas do Estado outorgante e só poderão transferir os seus direitos a outra empresa da mesma natureza.
 
-**O presidente e a maioria dos vogais do conselho de administração de cada empresa têm de ser forçosamente nacionais do Estado que tenha outorgado a concessão.**
+O presidente e a maioria dos vogais do conselho de administração de cada empresa têm de ser forçosamente nacionais do Estado que tenha outorgado a concessão.
 
 Estes conselhos terão a sede e celebrarão as reuniões em território do Estado a cuja jurisdição esteja submetida a respectiva empresa.
 
 Se o Governo de Portugal resolver outorgar a concessão do aproveitamento hidroeléctrico a que se refere a alínea b) do artigo 3.º ao actual concessionário do troço português do rio Lima, poderá exceptuá-lo, pela forma que entender conveniente, do cumprimento das regras estabelecidas neste artigo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 As tomadas de água, canais, edifícios e, em geral, todas as obras e instalações precisas para a utilização de cada troço serão situadas no território nacional do Estado a que pertence o aproveitamento, com excepção das barragens e das obras de descarga ou outras acessórias que tenham necessàriamente de ser construídas no leito ou na margem do rio pertencente ao outro Estado.
 
@@ -176,7 +196,7 @@ Excepcionalmente, e quando as circunstâncias o exijam, as tomadas de água, cen
 
 A localização da central e demais obras acessórias e necessárias ao aproveitamento do troço internacional do rio Minho será a que for técnica e econòmicamente mais conveniente.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Cada uma das Altas Partes Contratantes compromete-se a constituir, a título privado, sobre os seus terrenos de domínio público, em benefício dos aproveitamentos da outra Parte, as servidões de represamento, encontros de barragem, descarga ou de qualquer outra natureza que sejam indispensáveis para a construção e exploração dos referidos aproveitamentos.
 
@@ -184,11 +204,11 @@ Compromete-se também, recìprocamente e conforme cada caso o exija, a constitui
 
 Obriga-se pela mesma forma a decretar a expropriação de outros aproveitamentos actualmente em uso ou exploração que dificultem ou se oponham à total utilização dos aproveitamentos atribuídos a cada Estado no presente Convénio.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Para aplicação do artigo anterior ambos os Estados contratantes declaram de utilidade pública todas as obras que qualquer deles tenha de construir para o aproveitamento dos troços que são objecto deste Convénio e a urgência das expropriações necessárias.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 As servidões, expropriações e ocupações temporárias que hajam de ser constituídas ou decretadas no território de um Estado para a realização de obras relativas aos aproveitamentos do outro serão sujeitas nos seus trâmites às seguintes regras de processo:
 
@@ -210,11 +230,11 @@ Depois de decorridos quinze dias sobre o requerimento à autoridade competente s
 
 A execução dessas resoluções reserva-se em todo o caso para a autoridade territorial segundo a forma estabelecida na sua respectiva legislação.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Os Governos de Portugal e Espanha darão mùtuamente todas as facilidades necessárias à realização dos trabalhos de campo para a elaboração dos projectos definitivos das obras nas zonas que lhes estão atribuídas, comunicando para esse fim as instruções oportunas às autoridades civis e militares das zonas ribeirinhas dos troços internacionais.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Os trâmites e a aprovação dos projectos definitivos e das modificações que neles se introduzam durante o período da construção são da competência do Governo do Estado em cujas zonas de aproveitamento estejam situadas as obras.
 
@@ -222,19 +242,19 @@ Cada Governo comunicará ao outro esses projectos antes de os aprovar para o fim
 
 No caso de o aproveitamento referido no artigo 2.º ser realizado em comum, pertence aos dois Governos a competência definida neste artigo.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 A energia dos troços que são objecto deste Convénio será utilizada livremente pelo país que a produza, observando-se em relação ao rio Minho o que sobre o assunto dispõe o artigo 2.º
 
 Os Governos de Portugal e Espanha darão mùtuamente todas as facilidades necessárias à eventual exportação de energia de um para outro país ou para terceiros países.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Cada uma das Altas Partes Contratantes, em regime de reciprocidade, compromete-se a tomar as medidas necessárias, seguindo, quando for caso disso, os trâmites previstos no artigo 12.º, para o estabelecimento no seu território de zonas de servidão imediatamente adjacentes ao perímetro de implantação das barragens e obras anexas realizadas pelo outro Estado que forem necessárias à protecção e conservação dessas obras ou à exploração do respectivo aproveitamento. As áreas respectivas, cuja delimitação será estabelecida por acordo entre a comissão internacional, a que se refere o artigo 17.º, e a Comissão Internacional de Limites entre Portugal e Espanha, serão as mínimas necessárias, atendendo às condições técnicas de cada aproveitamento e às condições topográficas locais.
 
 Os postos de fiscalização fronteiriça serão estabelecidos em pontos das linhas de delimitação correspondentes às indicadas zonas de servidão.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Para a aplicação do presente Convénio é criada uma comissão internacional luso-espanhola, que se denominará «Comissão Luso-Espanhola para Regular o Uso e Aproveitamento dos Rios Internacionais nas Suas Zonas Fronteiriças», com as funções que nele se fixam.
 
@@ -246,11 +266,11 @@ Dividir-se-ão igualmente pelos dois Estados as despesas ocasionadas pelo funcio
 
 O funcionamento da Comissão reger-se-á por um estatuto aprovado pelos dois Governos, o qual poderá ser revisto e pedido de qualquer deles.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 A comissão internacional criada por este Convénio assumirá as atribuições conferidas pelo Convénio de 16 de Julho de 1964 à Comissão Internacional Luso-Espanhola para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 A comissão internacional deverá ser ouvida pelos Governos, antes de resolução, sobre as matérias seguintes:
 
@@ -266,7 +286,7 @@ e)Supressão da comissão ou modificações da sua composição, atribuições o
 
 Independentemente dos casos anteriormente previstos, a comissão deverá igualmente informar qualquer assunto da sua competência sobre que a consultem, juntos ou separadamente, os dois Governos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 A comissão terá competência para decidir nas seguintes questões:
 
@@ -288,7 +308,7 @@ g) Divergências entre os referidos concessionários que prejudiquem a solidarie
 
 h) Colocação dos marcos de origem e termo dos troços atribuídos a cada Estado.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 A comissão terá, além disso, faculdades para:
 
@@ -300,7 +320,7 @@ c) No período de exploração exercer acção análoga sobre as mesmas obras e 
 
 As restantes obras e instalações ficam sujeitas exclusivamente, em ambos os períodos, à inspecção e fiscalização estabelecidas pelas leis de cada Estado.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 As decisões da comissão internacional serão firmes quando se adoptem por unanimidade. Se forem adoptadas por maioria de votos, não entrarão em vigor sem a conformidade dos Governos, que se entenderá concedida depois que tenham decorrido trinta dias, a partir da data em que se fizer a comunicação à autoridade competente, sem que os Governos formulem a sua oposição, salvo no caso a que se refere o artigo 12.º
 
@@ -308,7 +328,7 @@ Para a execução das suas decisões a comissão internacional requererá a coop
 
 As informações e resoluções da comissão serão sempre comunicadas aos dois Governos.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Se a comissão internacional não chegar a acordo sobre um assunto submetido à sua consideração, será o mesmo submetido a nova votação na reunião seguinte e, se nela também não for obtido acordo, a comissão levará a divergência ao conhecimento dos dois Governos.
 
@@ -316,15 +336,15 @@ No caso de não se chegar a acordo por negociações directas entre os Governos,
 
 Se ambas as Partes não puderem, no prazo de três meses, chegar a acordo sobre o árbitro de desempate e entenderem que a discrepância é de carácter técnico, pedirão ao Instituto Politécnico de Zurique a designação de um engenheiro que actue como árbitro de desempate. Em qualquer outro caso, dirigir-se-ão ao presidente do Tribunal Internacional de Justiça para que efectue a nomeação do árbitro de desempate.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Qualquer divergência que se origine entre os dois Estados em relação à aplicação do presente Convénio ou à interpretação das suas cláusulas será submetida a um tribunal arbitral de três membros, dois deles nomeados por cada um dos Governos de Portugal e de Espanha e o terceiro, que será o presidente, designado por acordo dos dois Governos ou, se esse acordo não se obtém, pelo presidente do Tribunal Internacional de Justiça. O tribunal arbitral decidirá em definitivo por maioria de votos.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 A comissão internacional elaborará o seu estatuto de funcionamento e as normas complementares e os regulamentos necessários à execução deste Convénio.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 O presente Convénio entrará em vigor quando as Altas Partes Contratantes tenham comunicado pela via diplomática o cumprimento dos respectivos requisitos constitucionais.
 
@@ -340,7 +360,7 @@ F. Castiella.
 
 Protocolo Adicional ao Convénio entre Portugal e Espanha para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes.
 
-###### Artigo único. Os Governos de Portugal e de Espanha, para aplicação do disposto no artigo 2.º do Convénio, dão nesta data aprovação ao seguinte acordo:
+Artigo único. Os Governos de Portugal e de Espanha, para aplicação do disposto no artigo 2.º do Convénio, dão nesta data aprovação ao seguinte acordo:
 
 No caso de que pelo Governo Espanhol venha a ser aprovado e submetido à comissão internacional um novo esquema racional de utilização do troço internacional do rio Águeda, de acordo com o previsto no artigo 2.º do Convénio entre Portugal e Espanha para regular os Aproveitamentos Hidroeléctricos dos Troços Internacionais do Rio Douro e dos Seus Afluentes, de 16 de Julho de 1964, antes de por ambos os Governos haver sido aprovada a realização do aproveitamento do rio Minho a que se refere o artigo 2.º do presente Convénio, a compensação a Portugal, resultante da modificação dos caudais do troço internacional do rio Águeda que lhe foi atribuído no mencionado Convénio de 1964, terá lugar através da alteração das percentagens que no artigo 2.º do presente Convénio se estabelecem para a distribuição, entre Portugal e Espanha, da produção da energia eléctrica do troço internacional do rio Minho.
 
@@ -354,4 +374,4 @@ Pelo Governo Espanhol:
 
 F. Castiella.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/26000/16211629.pdf))](https://files.diariodarepublica.pt/1s/1968/11/26000/16211629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/26000/16211629.pdf)

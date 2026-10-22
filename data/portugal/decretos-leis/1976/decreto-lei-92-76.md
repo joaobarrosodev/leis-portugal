@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02400/02240224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1976-507025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce16362561351149ad8c8f8d4b72128087833d7718fed8c00fcdecc7f37bd677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df3359645aafe99d14611960e55a1a4ecd25bcd4e5458b425f78a0535d636295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Coordenação Económica
+- Extinção de Serviços
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Ministério do Comércio Interno
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:310273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486942:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:501435:por
+  label: Rectificados os n.ºs 1 e 3 do art. 3.º pelo(a) Declaração - Diário do Governo n.º 67/1976, Série I de 1976-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-501435
+  date: '1976-03-19'
+- type: corrected_by
+  target: pt:dre:383272:por
+  label: Rectificado pela DECL.DD8671.26.03.1976.PCM, DG.IS [73-3º Supl] de 26.03.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-383272
+  date: '1976-03-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:47Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +131,9 @@ A fim de dar execução ao disposto no artigo 8.º do [Decreto-Lei n.º 645/75](
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Comissão de Coordenação Económica, criada pelo [Decreto-Lei n.º 38008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38008-1950-486942), de 23 de Outubro de 1950, será extinta até 29 de Fevereiro de 1976, ficando, entretanto, as resoluções dos assuntos que lhe respeitam na dependência do Ministro do Comércio Interno.
+Artigo 1.º A Comissão de Coordenação Económica, criada pelo [Decreto-Lei n.º 38008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38008-1950-486942), de 23 de Outubro de 1950, será extinta até 29 de Fevereiro de 1976, ficando, entretanto, as resoluções dos assuntos que lhe respeitam na dependência do Ministro do Comércio Interno.
 
-###### Art. 2.º - 1. O pessoal da Comissão de Coordenação Económica que não estiver ainda colocado noutros serviços será distribuído pelos serviços do Ministério do Comércio Interno, por despacho do Ministro e de acordo com lista ou listas nominativas, considerando-se investido nos respectivos lugares independentemente de quaisquer formalidades, salvo o visto das novas situações pelo Tribunal de Contas e a sua publicação no Diário do Governo.
+Art. 2.º - 1. O pessoal da Comissão de Coordenação Económica que não estiver ainda colocado noutros serviços será distribuído pelos serviços do Ministério do Comércio Interno, por despacho do Ministro e de acordo com lista ou listas nominativas, considerando-se investido nos respectivos lugares independentemente de quaisquer formalidades, salvo o visto das novas situações pelo Tribunal de Contas e a sua publicação no Diário do Governo.
 
 2. No caso de não haver lugares nos quadros dos serviços, considerar-se-ão esses quadros acrescentados de tantos lugares nas categorias constantes das listas referidas no número anterior quanto o número de funcionários, podendo o Ministro do Comércio Interno extinguir esses lugares, quando vagarem, se entender ser dispensável o seu preenchimento.
 
@@ -104,7 +143,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. O disposto neste artigo é aplicável aos funcionários da Comissão que se encontrem requisitados à data da publicação deste diploma e cuja requisição venha a cessar por motivos estranhos à sua vontade, sem prejuízo do disposto no [Decreto-Lei n.º 560/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1975-312242), de 2 de Outubro.
 
-###### Art. 3.º - 1. O pessoal técnico dos serviços de inspecção que, à data da extinção da Comissão de Coordenação Económica, não houver sido colocado noutros serviços ficará a prestar serviço no Ministério do Comércio Interno, mantendo as funções que desempenhava na Comissão, relativamente aos organismos de coordenação económica, enquanto estes subsistirem com a sua orgânica actual.
+Art. 3.º - 1. O pessoal técnico dos serviços de inspecção que, à data da extinção da Comissão de Coordenação Económica, não houver sido colocado noutros serviços ficará a prestar serviço no Ministério do Comércio Interno, mantendo as funções que desempenhava na Comissão, relativamente aos organismos de coordenação económica, enquanto estes subsistirem com a sua orgânica actual.
 
 2. Os funcionários referidos no número anterior transitam para a Secretaria-Geral do Ministério na condição de supranumerários ao quadro, nas seguintes condições:
 
@@ -118,20 +157,20 @@ c) Os subinspectores como inspectores de 2.ª classe, com a categoria H.
 
 4. Os lugares supranumerários consideram-se extintos à medida que vagarem.
 
-###### Art. 4.º - 1. Os funcionários da Comissão de Coordenação Económica que se encontram na situação de licença ilimitada poderão requerer a passagem à actividade quando se verificar alguma vaga na respectiva categoria no quadro da Secretaria-Geral do Ministério do Comércio Interno.
+Art. 4.º - 1. Os funcionários da Comissão de Coordenação Económica que se encontram na situação de licença ilimitada poderão requerer a passagem à actividade quando se verificar alguma vaga na respectiva categoria no quadro da Secretaria-Geral do Ministério do Comércio Interno.
 
 2. Se não houver categoria correspondente no quadro, os funcionários referidos no número anterior passarão à condição de adidos, sendo-lhes aplicável o regime de remunerações e colocação previsto na legislação referente a excedentes de pessoal.
 
-###### Art. 5.º O património afecto à Comissão de Coordenação Económica e quaisquer direitos, incluindo os emergentes de contratos de arrendamento, transitarão para serviços dependentes do Ministério do Comércio Interno, mediante despacho do Ministro.
+Art. 5.º O património afecto à Comissão de Coordenação Económica e quaisquer direitos, incluindo os emergentes de contratos de arrendamento, transitarão para serviços dependentes do Ministério do Comércio Interno, mediante despacho do Ministro.
 
-###### Art. 6.º O Ministro das Finanças tomará as providências de ordem financeira necessárias à execução do presente diploma.
+Art. 6.º O Ministro das Finanças tomará as providências de ordem financeira necessárias à execução do presente diploma.
 
-###### Art. 7.º As dúvidas que se suscitarem na aplicação deste decreto-lei serão resolvidas por despacho dos Ministros do Comércio Interno e da Administração Interna, e do Ministro das Finanças quando envolverem matéria financeira.
+Art. 7.º As dúvidas que se suscitarem na aplicação deste decreto-lei serão resolvidas por despacho dos Ministros do Comércio Interno e da Administração Interna, e do Ministro das Finanças quando envolverem matéria financeira.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 19 de Janeiro de 1976.**
+Promulgado em 19 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

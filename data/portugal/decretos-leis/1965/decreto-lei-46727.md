@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46727-1965-508011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff2235282c6471c61768b07a9d8f44c981972f34e5097a8e6d2a8dc625f63621
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3669f3eec7c342b48d4bffc0676d1e8e569705864da1c16064634d047d64df5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Hospital do Ultramar
+- Instituto de Medicina Tropical
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:26Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +113,11 @@ Disposições especiais
 
 A) Hospital do Ultramar
 
-###### Artigo 1.º A designação de «massagista» constante do mapa IV anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, é substituída pela de «ajudante técnico de fisioterapia».
+Artigo 1.º A designação de «massagista» constante do mapa IV anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, é substituída pela de «ajudante técnico de fisioterapia».
 
 § único. O serventuário provido no cargo de massagista transita sem mais formalidades e sem carecer de nomeação, visto ou posse para o cargo de ajudante técnico de fisioterapia.
 
-###### Art. 2.º O mapa II (quadro complementar de cirurgiões, especialistas e internistas) anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, passa a ter a seguinte constituição:
+Art. 2.º O mapa II (quadro complementar de cirurgiões, especialistas e internistas) anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, passa a ter a seguinte constituição:
 
 1) Pessoal de nomeação:
 
@@ -111,7 +131,7 @@ A) Hospital do Ultramar
 
 § único. O actual médico especialista do grupo L, cujo lugar é extinto pelo corpo do artigo, transita sem mais formalidades e sem carecer de nomeação, visto ou posse para médico especialista do grupo J.
 
-###### Art. 3.º Nos quadros do pessoal são criados os seguintes lugares:
+Art. 3.º Nos quadros do pessoal são criados os seguintes lugares:
 
 Pessoal de nomeação:
 
@@ -141,7 +161,7 @@ Pessoal assalariado:
 
 B) Conselho Ultramarino
 
-###### Art. 4.º No quadro do pessoal da secretaria são introduzidas as seguintes alterações:
+Art. 4.º No quadro do pessoal da secretaria são introduzidas as seguintes alterações:
 
 1) Criação de lugares:
 
@@ -153,15 +173,15 @@ B) Conselho Ultramarino
 
 C) Instituto de Medicina Tropical
 
-###### Art. 5.º É substituída pela seguinte a redacção do artigo 3.º e seu § 2.º do [Decreto-Lei n.º 46067](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46067-1964-517411), de 7 de Dezembro de 1964:
+Art. 5.º É substituída pela seguinte a redacção do artigo 3.º e seu § 2.º do [Decreto-Lei n.º 46067](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46067-1964-517411), de 7 de Dezembro de 1964:
 
-###### Artigo 3.º É fixado em 25 o número total de primeiros e segundos-assistentes do quadro do pessoal do Instituto de Medicina Tropical.
+Artigo 3.º É fixado em 25 o número total de primeiros e segundos-assistentes do quadro do pessoal do Instituto de Medicina Tropical.
 
 § 1.º ...
 
 § 2.º Quando o número de segundos-assistentes for superior ao orçamentado, as unidades excedentes receberão os seus vencimentos pelas sobras das verbas destinadas a primeiros-assistentes.
 
-###### Art. 6.º O quadro do pessoal contratado é aumentado das seguintes unidades:
+Art. 6.º O quadro do pessoal contratado é aumentado das seguintes unidades:
 
 1 de tradutora.
 
@@ -171,15 +191,15 @@ C) Instituto de Medicina Tropical
 
 D) Jardim e Museu Agrícola do Ultramar
 
-###### Art. 7.º No quadro do pessoal contratado é criado um lugar de telefonista, incluído no grupo X a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Art. 7.º No quadro do pessoal contratado é criado um lugar de telefonista, incluído no grupo X a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
 II
 
 Disposições gerais
 
-###### Art. 8.º Exceptuada a disposição do artigo 5.º, que é desde já executória, o presente decreto-lei entrará em vigor em 1 de Janeiro de 1966.
+Art. 8.º Exceptuada a disposição do artigo 5.º, que é desde já executória, o presente decreto-lei entrará em vigor em 1 de Janeiro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

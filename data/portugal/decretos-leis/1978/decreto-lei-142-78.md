@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 133/1978, 2º Suplemento, Série I de 1978-06-12
   number: '133'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1054-(54) a 1054-(55)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13302/00540055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1978-426137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fef5dfb1d563e430bf92ff201a2ff22ee822f123a11ea5a58f4e8ff3294c500a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 393e917eeca6cda235f6f6ceaa9b7388b363f8aa763bf9a17933b4b629c7e967
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Contribuições e Impostos
+- Imposto de Transacções
+- Lista
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509017:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:12Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +126,9 @@ Nestes termos, e em execução do artigo 10.º, alínea e), da [Lei n.º 20/78](
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea g) do artigo 22.º do Código do Imposto de Transacções passa a ter a seguinte redacção:
+Artigo 1.º A alínea g) do artigo 22.º do Código do Imposto de Transacções passa a ter a seguinte redacção:
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 ...
 
@@ -114,7 +136,7 @@ g) Cerveja - taxa específica de 7$00 por litro;
 
 ...
 
-###### Art. 2.º Na lista I, anexa ao Código do Imposto de Transacções e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, são alteradas as verbas n.os 8 e 30 (pontos 30.5 e 30.6.2.2), nos seguintes termos:
+Art. 2.º Na lista I, anexa ao Código do Imposto de Transacções e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, são alteradas as verbas n.os 8 e 30 (pontos 30.5 e 30.6.2.2), nos seguintes termos:
 
 8 (a) - Aparelhos ortopédicos, cintas médico-cirúrgicas e meias medicinais; calçado ortopédico exclusivamente feito por medida e mediante receita médica.
 
@@ -130,7 +152,7 @@ g) Cerveja - taxa específica de 7$00 por litro;
 
 ...
 
-###### Art. 3.º Na lista II, anexa ao referido Código e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), é aditada a verba n.º 9 e são alteradas as verbas n.os 3 (ponto 3.1.3), segundo a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 427-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-a-1977-236682), de 14 de Outubro, e 8, nos seguintes termos:
+Art. 3.º Na lista II, anexa ao referido Código e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), é aditada a verba n.º 9 e são alteradas as verbas n.os 3 (ponto 3.1.3), segundo a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 427-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-a-1977-236682), de 14 de Outubro, e 8, nos seguintes termos:
 
 3 - Carteiras, bolsas, malas, pastas, sacos e outros artigos semelhantes, de uso pessoal ou de viagem, confeccionados em peles.
 
@@ -150,7 +172,7 @@ g) Cerveja - taxa específica de 7$00 por litro;
 
 9.3 - Generosos, de valor tributável até 150$00 por litro.
 
-###### Art. 4.º Na lista III, anexa ao referido Código e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), é aditada a verba n.º 1-B e são alteradas as verbas n.os 2 e 16, segundo a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 427-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-a-1977-236682), e, bem assim, as verbas n.os 3, 4, 5, 7, 9, 10, 17, 27 e 28, nos seguintes termos:
+Art. 4.º Na lista III, anexa ao referido Código e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), é aditada a verba n.º 1-B e são alteradas as verbas n.os 2 e 16, segundo a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 427-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-a-1977-236682), e, bem assim, as verbas n.os 3, 4, 5, 7, 9, 10, 17, 27 e 28, nos seguintes termos:
 
 1-B (a) - Aparelhos para registo e reprodução de som a seguir indicados:
 
@@ -260,7 +282,7 @@ g) Cerveja - taxa específica de 7$00 por litro;
 
 28.3 - De caixa alta, de valor tributável superior a 16000$00.
 
-###### Art. 5.º Na lista IV, anexa ao referido Código e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), é aditada a verba n.º 32-A e são alteradas as verbas n.os 5, 6, 13, 15 e 17 e, bem assim, as verbas n.os 19 (ponto 19.1) e 22 (ponto 22.1), segundo a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 427-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-a-1977-236682), nos seguintes termos:
+Art. 5.º Na lista IV, anexa ao referido Código e aprovada pelo artigo 1.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), é aditada a verba n.º 32-A e são alteradas as verbas n.os 5, 6, 13, 15 e 17 e, bem assim, as verbas n.os 19 (ponto 19.1) e 22 (ponto 22.1), segundo a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 427-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-a-1977-236682), nos seguintes termos:
 
 5 - Aparelhos para registo e reprodução de som, desde que não abrangidos pela lista III:
 
@@ -302,8 +324,8 @@ g) Cerveja - taxa específica de 7$00 por litro;
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 6 de Junho de 1978.**
+Promulgado em 6 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

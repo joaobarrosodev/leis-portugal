@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11400/09890995.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c67b4f0e31dacf7d3ace0f61c6f00c2a5062e4a9f38a93381f442832105670ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beb3ba134eb7f44bdcdfa7645b196ca3c4d12417ccde2e8dfd51664ace6c8c60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Ensino Superior
+- Ministério da Educação
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:498554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:678041:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655084:por
+  label: Revogada a al. d) do n.º 1 e o n.º2 do art. 10.º, a al. f) do n.º 1 do art. 39.º e o art. 42.º, e alterada a redacção
+    dos arts. 1.º, 4.º, 6.º, 8.º, 9.º, 10.º, 13.º, 15.º, 16.º, 18.º, 21.º, 24.º e 39.º do presente diploma legal, pelo(a)
+    Decreto-Lei n.º 125/84 - Diário da República n.º 97/1984, Série I de 1984-04-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1984-655084
+  date: '1984-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:27Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +119,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os serviços sociais do ensino superior, adiante designados por serviços sociais, são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, e funcionam junto de cada Universidade, Instituto Universitário ou outros estabelecimentos de ensino superior.
+Artigo 1.º - 1 - Os serviços sociais do ensino superior, adiante designados por serviços sociais, são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, e funcionam junto de cada Universidade, Instituto Universitário ou outros estabelecimentos de ensino superior.
 
 2 - São os seguintes os serviços sociais do ensino superior:
 
@@ -132,11 +147,11 @@ l) Serviços Sociais do Instituto Universitário de Trás-os-Montes e Alto Douro
 
 3 - Outros serviços sociais do ensino superior serão criados por decreto dos Ministros da Educação e Ciência e das Finanças e do Plano e do membro do Governo que superintender na função pública.
 
-###### Art. 2.º - 1 - Os serviços sociais têm por fim promover a execução da política de acção social escolar no âmbito do ensino superior.
+Art. 2.º - 1 - Os serviços sociais têm por fim promover a execução da política de acção social escolar no âmbito do ensino superior.
 
 2 - A acção social escolar tem por objecto a concessão de auxílios económicos aos estudantes carecidos de recursos, bem como a prestação de outros serviços aos estudantes em geral.
 
-###### Art. 3.º São atribuições dos serviços sociais:
+Art. 3.º São atribuições dos serviços sociais:
 
 1) No âmbito da concessão de auxílios económicos aos estudantes carecidos de recursos:
 
@@ -154,13 +169,13 @@ b) Desenvolver actividades de informação e procuradoria dirigidas aos estudant
 
 c) Desenvolver outras actividades que pela sua natureza se enquadrem nos fins gerais da acção social escolar.
 
-###### Art. 4.º Os diversos tipos de auxílios económicos ou de serviços a prestar pelos serviços sociais serão regulamentados por portaria do Ministro da Educação e Ciência.
+Art. 4.º Os diversos tipos de auxílios económicos ou de serviços a prestar pelos serviços sociais serão regulamentados por portaria do Ministro da Educação e Ciência.
 
-###### Art. 5.º - 1 - A acção social escolar a desenvolver pelos serviços sociais beneficiará os estudantes portugueses nela interessados, desde que matriculados em estabelecimentos de ensino superior.
+Art. 5.º - 1 - A acção social escolar a desenvolver pelos serviços sociais beneficiará os estudantes portugueses nela interessados, desde que matriculados em estabelecimentos de ensino superior.
 
 2 - Poderão ainda beneficiar da acção social escolar, em termos idênticos aos estabelecidos para os estudantes portugueses, os estudantes apátridas ou beneficiando do estatuto de refugiado político e os estudantes estrangeiros provenientes de países com os quais hajam sido celebrados acordos de cooperação prevendo a aplicação desses benefícios ou desde que as leis dos respectivos Estados, em igualdade de circunstâncias, concedam igual tratamento aos Portugueses.
 
-###### Art. 6.º - 1 - É criado o Conselho de Acção Social do Ensino Superior.
+Art. 6.º - 1 - É criado o Conselho de Acção Social do Ensino Superior.
 
 2 - O Conselho de Acção Social do Ensino Superior tem a seguinte constituição:
 
@@ -178,7 +193,7 @@ d) Um representante da Direcção-Geral do Ensino Superior.
 
 5 - Assegurará o secretariado do Conselho de Acção Social do Ensino Superior um elemento do Gabinete de Apoio à Acção Social do Ensino Superior.
 
-###### Art. 7.º Compete, designadamente, ao Conselho de Acção Social do Ensino Superior:
+Art. 7.º Compete, designadamente, ao Conselho de Acção Social do Ensino Superior:
 
 a) Propor ao Ministro da Educação e Ciência a política de acção social do ensino superior;
 
@@ -198,7 +213,7 @@ h) Apreciar as propostas orçamentais a submeter ao Ministro da Educação e Ci�
 
 i) Pronunciar-se sobre todos os assuntos no âmbito da sua competência que lhe sejam apresentados pelo Ministro da Educação e Ciência.
 
-###### Art. 8.º - 1 - O Conselho de Acção Social do Ensino Superior reunirá ordinariamente uma vez por semestre e extraordinariamente sempre que convocado pelo Ministro da Educação e Ciência ou pelo presidente, por sua iniciativa ou a pedido de, pelo menos, um quinto dos seus membros.
+Art. 8.º - 1 - O Conselho de Acção Social do Ensino Superior reunirá ordinariamente uma vez por semestre e extraordinariamente sempre que convocado pelo Ministro da Educação e Ciência ou pelo presidente, por sua iniciativa ou a pedido de, pelo menos, um quinto dos seus membros.
 
 2 - O presidente disporá de voto de qualidade.
 
@@ -208,9 +223,9 @@ i) Pronunciar-se sobre todos os assuntos no âmbito da sua competência que lhe 
 
 5 - O Conselho será apoiado pelo Gabinete de Apoio à Acção Social do Ensino Superior, do Instituto de Acção Social Escolar, e poderá utilizar instalações e equipamento deste Instituto para o seu funcionamento.
 
-###### Art. 9.º É extinta a Direcção dos Serviços de Acção Social Universitária, do Instituto de Acção Social Escolar, e criado, em sua substituição, o Gabinete de Apoio à Acção Social do Ensino Superior.
+Art. 9.º É extinta a Direcção dos Serviços de Acção Social Universitária, do Instituto de Acção Social Escolar, e criado, em sua substituição, o Gabinete de Apoio à Acção Social do Ensino Superior.
 
-###### Art. 10.º - 1 - Compete ao Gabinete de Apoio à Acção Social do Ensino Superior:
+Art. 10.º - 1 - Compete ao Gabinete de Apoio à Acção Social do Ensino Superior:
 
 a) Realizar, sob orientação do Conselho de Acção Social do Ensino Superior, os estudos necessários à definição da política global de acção social;
 
@@ -222,7 +237,7 @@ d) Prestar o apoio necessário ao funcionamento do Conselho de Acção Social do
 
 2 - O presidente do Instituto de Acção Social Escolar afectará ao Gabinete o pessoal que for considerado indispensável ao desempenho das funções legalmente atribuídas, por proposta do Conselho de Acção Social do Ensino Superior.
 
-###### Art. 11.º Os serviços sociais têm os seguintes órgãos:
+Art. 11.º Os serviços sociais têm os seguintes órgãos:
 
 a) O presidente;
 
@@ -230,9 +245,9 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 12.º O cargo de presidente dos serviços sociais de cada instituição de ensino superior é inerente ao cargo de reitor ou director.
+Art. 12.º O cargo de presidente dos serviços sociais de cada instituição de ensino superior é inerente ao cargo de reitor ou director.
 
-###### Art. 13.º - 1 - Compete ao presidente dirigir superiormente os serviços sociais, orientar e coordenar as suas actividades e, designadamente:
+Art. 13.º - 1 - Compete ao presidente dirigir superiormente os serviços sociais, orientar e coordenar as suas actividades e, designadamente:
 
 a) Assegurar a gestão corrente dos serviços;
 
@@ -250,11 +265,11 @@ f) Elaborar e apresentar ao conselho geral o relatório anual de actividades.
 
 3 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
-###### Art. 14.º - 1 - O vice-presidente dos serviços sociais é nomeado pelo Ministro da Educação e Ciência, sob proposta do presidente, de entre indivíduos com licenciatura e experiência adequadas ao cargo.
+Art. 14.º - 1 - O vice-presidente dos serviços sociais é nomeado pelo Ministro da Educação e Ciência, sob proposta do presidente, de entre indivíduos com licenciatura e experiência adequadas ao cargo.
 
 2 - Para efeitos de remuneração e demais regalias, o cargo de vice-presidente é equiparado ao de subdirector-geral.
 
-###### Art. 15.º - 1 - O conselho geral é um órgão consultivo com a seguinte composição:
+Art. 15.º - 1 - O conselho geral é um órgão consultivo com a seguinte composição:
 
 a) O presidente dos serviços sociais, que preside;
 
@@ -274,7 +289,7 @@ f) Um representante das associações de estudantes.
 
 4 - Os mandatos dos membros referidos na alínea d) e nas alíneas e) e f) do n.º 1 serão, respectivamente, bienais e anuais.
 
-###### Art. 16.º Compete ao conselho geral:
+Art. 16.º Compete ao conselho geral:
 
 a) Apreciar as propostas dos planos anuais e plurianuais de actividades a submeter à aprovação do Conselho de Acção Social do Ensino Superior;
 
@@ -286,7 +301,7 @@ d) Apreciar a concessão de empréstimos e a atribuição de bolsas de estudo, s
 
 e) Apreciar o relatório anual de actividades.
 
-###### Art. 17.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
+Art. 17.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
 
 2 - A convocatória será acompanhada da lista dos assuntos a tratar na reunião.
 
@@ -296,7 +311,7 @@ e) Apreciar o relatório anual de actividades.
 
 5 - O presidente tem voto de qualidade.
 
-###### Art. 18.º - 1 - O conselho administrativo é constituído por:
+Art. 18.º - 1 - O conselho administrativo é constituído por:
 
 a) O presidente dos serviços sociais, que preside;
 
@@ -310,7 +325,7 @@ d) O responsável pelos serviços de administração dos serviços sociais, que 
 
 3 - Nas faltas ou impedimentos dos membros do conselho administrativo mencionados nas alíneas a), b) e d) do n.º 1, será chamado a participar nas respectivas reuniões o seu substituto legal.
 
-###### Art. 19.º - 1 - Compete ao conselho administrativo:
+Art. 19.º - 1 - Compete ao conselho administrativo:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -334,7 +349,7 @@ j) Promover a organização e permanente actualização do inventário e cadastr
 
 2 - Em matéria de autorização de despesas e de celebração de contratos, o conselho administrativo terá a competência atribuída na lei geral aos responsáveis dos serviços com autonomia administrativa e financeira e a que lhe for atribuída por delegação do Ministro da Educação e Ciência.
 
-###### Art. 20.º - 1 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente a solicitação de qualquer dos seus membros.
+Art. 20.º - 1 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente a solicitação de qualquer dos seus membros.
 
 2 - O conselho só poderá deliberar quando se encontre presente a maioria dos seus membros, dispondo o presidente de voto de qualidade.
 
@@ -344,7 +359,7 @@ j) Promover a organização e permanente actualização do inventário e cadastr
 
 5 - As requisições de fundos, as ordens de pagamento e os recibos serão assinados, em nome do conselho administrativo, pelo presidente e por um vogal, devendo os recibos respeitantes a valores que tenham de entrar na tesouraria conter também a assinatura do tesoureiro.
 
-###### Art. 21.º - 1 - Para o desempenho das suas funções, os serviços sociais disporão de serviços operativos e de apoio.
+Art. 21.º - 1 - Para o desempenho das suas funções, os serviços sociais disporão de serviços operativos e de apoio.
 
 2 - São serviços operativos os seguintes:
 
@@ -362,7 +377,7 @@ b) Aprovisionamento.
 
 4 - A estrutura e a dimensão dos serviços constantes dos números anteriores serão fixadas no diploma referido no artigo 39.º do presente decreto-lei, tendo em consideração o volume de serviços a prestar.
 
-###### Art. 22.º - 1 - Aos serviços de alojamento compete, designadamente:
+Art. 22.º - 1 - Aos serviços de alojamento compete, designadamente:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -406,7 +421,7 @@ d) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxí
 
 e) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais dos serviços sociais.
 
-###### Art. 23.º - 1 - Aos serviços de administração compete, designadamente:
+Art. 23.º - 1 - Aos serviços de administração compete, designadamente:
 
 a) Proceder à elaboração dos projectos de orçamento e das contas de gerência;
 
@@ -444,29 +459,29 @@ d) Gerir os stocks de bens e materiais;
 
 e) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais dos serviços sociais.
 
-###### Art. 24.º - 1 - Os serviços sociais poderão ainda dispor de serviços de infantário, jardins-de-infância, secções de textos, livraria e material escolar.
+Art. 24.º - 1 - Os serviços sociais poderão ainda dispor de serviços de infantário, jardins-de-infância, secções de textos, livraria e material escolar.
 
 2 - Os serviços referidos no número anterior que existirem em cada Universidade, Instituto Universitário ou outra instituição de ensino superior à data da entrada em vigor deste diploma serão integrados nos respectivos serviços sociais.
 
-###### Art. 25.º Os serviços de alojamento, alimentação, aprovisionamento e outros que pela sua natureza o justifiquem ficarão sujeitos à fiscalização da Direcção-Geral de Saúde quanto à aplicação das normas de sanidade pública em vigor.
+Art. 25.º Os serviços de alojamento, alimentação, aprovisionamento e outros que pela sua natureza o justifiquem ficarão sujeitos à fiscalização da Direcção-Geral de Saúde quanto à aplicação das normas de sanidade pública em vigor.
 
-###### Art. 26.º Na gestão financeira e patrimonial, os serviços sociais terão em consideração os princípios da gestão por objectivos e aplicarão as normas legais em vigor, sem prejuízo do disposto neste diploma.
+Art. 26.º Na gestão financeira e patrimonial, os serviços sociais terão em consideração os princípios da gestão por objectivos e aplicarão as normas legais em vigor, sem prejuízo do disposto neste diploma.
 
-###### Art. 27.º Para a realização dos seus fins, os serviços sociais administrarão os bens do domínio público a seu cargo.
+Art. 27.º Para a realização dos seus fins, os serviços sociais administrarão os bens do domínio público a seu cargo.
 
-###### Art. 28.º A gestão económica e financeira dos serviços sociais será disciplinada pelos seguintes instrumentos de previsão:
+Art. 28.º A gestão económica e financeira dos serviços sociais será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Planos de actividades e financeiros, anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas utilizações.
 
-###### Art. 29.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
+Art. 29.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministro da Educação e Ciência, com os pareceres do conselho geral e do Conselho de Acção Social do Ensino Superior, e ao visto do Ministro das Finanças e do Plano, nos prazos legais.
 
 3 - Os serviços sociais poderão ainda submeter a aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo, quer a ocorrer a despesas nele não previstas, quer ainda para fins de alteração de rubrica.
 
-###### Art. 30.º - 1 - Os serviços sociais arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Art. 30.º - 1 - Os serviços sociais arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos serviços sociais:
 
@@ -486,19 +501,19 @@ g) Os saldos da conta de gerência do ano anterior;
 
 h) Quaisquer outras receitas que por lei, contrato ou a outro título lhes sejam atribuídas.
 
-###### Art. 31.º O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no OGE e constantes de contas de ordem.
+Art. 31.º O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no OGE e constantes de contas de ordem.
 
-###### Art. 32.º - 1 - As disponibilidades dos serviços sociais serão depositadas na Caixa Geral de Depósitos ou nas restantes instituições de crédito, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+Art. 32.º - 1 - As disponibilidades dos serviços sociais serão depositadas na Caixa Geral de Depósitos ou nas restantes instituições de crédito, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos devidamente legalizados.
 
-###### Art. 33.º - 1 - A contabilidade dos serviços sociais deverá responder às necessidades da sua gestão e permitir um contrôle orçamental permanente.
+Art. 33.º - 1 - A contabilidade dos serviços sociais deverá responder às necessidades da sua gestão e permitir um contrôle orçamental permanente.
 
 2 - A organização e execução da contabilidade dos orçamentos e suas actualizações serão definidas em regulamento a aprovar pelos Ministros da Educação e Ciência e das Finanças e do Plano.
 
 3 - Enquanto não for aprovado o regulamento referido no número anterior, a elaboração do orçamento e a organização e execução da contabilidade serão feitas de acordo com as normas legais da contabilidade pública em vigor.
 
-###### Art. 34.º - 1 - O pessoal de cada um dos serviços sociais integra-se em quadro próprio, que compreenderá os seguintes grupos profissionais:
+Art. 34.º - 1 - O pessoal de cada um dos serviços sociais integra-se em quadro próprio, que compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -512,11 +527,11 @@ e) Pessoal operário e/ou auxiliar.
 
 2 - O quadro do pessoal de cada um dos serviços sociais será fixado no decreto regulamentar a que se refere o artigo 39.º deste diploma, podendo ser revisto quando as circunstâncias o justifiquem, sob proposta do Conselho de Acção Social do Ensino Superior.
 
-###### Art. 35.º Para ocorrer a necessidades extraordinárias dos serviços, cuja satisfação não possa ser assegurada pelo desempenho das funções do pessoal dos quadros, poderá ser contratado pessoal além do quadro, nos termos da lei geral.
+Art. 35.º Para ocorrer a necessidades extraordinárias dos serviços, cuja satisfação não possa ser assegurada pelo desempenho das funções do pessoal dos quadros, poderá ser contratado pessoal além do quadro, nos termos da lei geral.
 
-###### Art. 36.º Para a prestação eventual de serviço ou execução de trabalhos específicos podem ser contratadas entidades, submetendo-se os respectivos contratos às condições estabelecidas no [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março.
+Art. 36.º Para a prestação eventual de serviço ou execução de trabalhos específicos podem ser contratadas entidades, submetendo-se os respectivos contratos às condições estabelecidas no [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março.
 
-###### Art. 37.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares dos quadros poderá ser requisitado pessoal a outros organismos e serviços, pelo prazo máximo de um ano, renovável por uma só vez e por igual período de tempo, com o acordo prévio do funcionário a requisitar e a anuência do membro do Governo de que dependa, obtido o parecer favorável dos dirigentes dos serviços ou organismos de origem.
+Art. 37.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares dos quadros poderá ser requisitado pessoal a outros organismos e serviços, pelo prazo máximo de um ano, renovável por uma só vez e por igual período de tempo, com o acordo prévio do funcionário a requisitar e a anuência do membro do Governo de que dependa, obtido o parecer favorável dos dirigentes dos serviços ou organismos de origem.
 
 2 - A requisição prevista no número anterior não dará lugar à abertura de vaga no quadro de origem, mas poderá o lugar ser provido internamente pelo tempo que durar a requisição.
 
@@ -526,9 +541,9 @@ e) Pessoal operário e/ou auxiliar.
 
 5 - A requisição não dependerá da existência de vaga.
 
-###### Art. 38.º Face à natureza específica de certas funções a desempenhar, o presidente dos serviços sociais poderá ainda ajustar pessoal nos termos previstos pelo regime jurídico aplicável às empresas privadas, ficando esse pessoal sujeito a estatuto idêntico ao dos trabalhadores destas empresas.
+Art. 38.º Face à natureza específica de certas funções a desempenhar, o presidente dos serviços sociais poderá ainda ajustar pessoal nos termos previstos pelo regime jurídico aplicável às empresas privadas, ficando esse pessoal sujeito a estatuto idêntico ao dos trabalhadores destas empresas.
 
-###### Art. 39.º - 1 - No prazo de cento e vinte dias, contados a partir da data da entrada em vigor do presente diploma, será publicado um decreto regulamentar por cada um dos serviços sociais referidos no n.º 2 do artigo 1.º, contendo, designadamente:
+Art. 39.º - 1 - No prazo de cento e vinte dias, contados a partir da data da entrada em vigor do presente diploma, será publicado um decreto regulamentar por cada um dos serviços sociais referidos no n.º 2 do artigo 1.º, contendo, designadamente:
 
 a) A estrutura dos serviços e a competência das diferentes unidades que os integram;
 
@@ -544,18 +559,18 @@ f) A forma de designação do representante dos estudantes beneficiários dos se
 
 2 - Para efeitos do disposto no número anterior, os serviços sociais deverão apresentar ao Conselho de Acção Social do Ensino Superior, no prazo de noventa dias, contados a partir da data de entrada em vigor do presente diploma, o respectivo o projecto de decreto regulamentar.
 
-###### Art. 40.º Ao pessoal que, a qualquer título, desempenhe funções nos serviços sociais à data da entrada em vigor do presente diploma será garantida a colocação nos novos serviços, nos termos a definir pelo decreto regulamentar a que se refere o artigo 39.º
+Art. 40.º Ao pessoal que, a qualquer título, desempenhe funções nos serviços sociais à data da entrada em vigor do presente diploma será garantida a colocação nos novos serviços, nos termos a definir pelo decreto regulamentar a que se refere o artigo 39.º
 
-###### Art. 41.º Os serviços sociais poderão, mediante prévia autorização do Ministro da Educação e Ciência, conceder a exploração de alguns serviços, no âmbito das suas atribuições, a outras entidades públicas ou privadas, através de contrato escrito.
+Art. 41.º Os serviços sociais poderão, mediante prévia autorização do Ministro da Educação e Ciência, conceder a exploração de alguns serviços, no âmbito das suas atribuições, a outras entidades públicas ou privadas, através de contrato escrito.
 
-###### Art. 42.º Os encargos resultantes da execução do presente diploma no decurso do actual ano económico serão suportados pelas dotações orçamentais atribuídas ao Instituto de Acção Social Escolar para subsidiar os serviços sociais e por outras disponibilidades das verbas consignadas aos respectivos estabelecimentos de ensino superior.
+Art. 42.º Os encargos resultantes da execução do presente diploma no decurso do actual ano económico serão suportados pelas dotações orçamentais atribuídas ao Instituto de Acção Social Escolar para subsidiar os serviços sociais e por outras disponibilidades das verbas consignadas aos respectivos estabelecimentos de ensino superior.
 
-###### Art. 43.º As dúvidas surgidas na aplicação e interpretação do disposto no presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto deste e do Ministro das Finanças e do Plano e do membro do Governo que superintender na função pública, sempre que a sua natureza o justifique.
+Art. 43.º As dúvidas surgidas na aplicação e interpretação do disposto no presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto deste e do Ministro das Finanças e do Plano e do membro do Governo que superintender na função pública, sempre que a sua natureza o justifique.
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 9 de Maio de 1980.**
+Promulgado em 9 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

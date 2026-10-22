@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/27900/31783179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1981-567884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e42962595bacba89b5fd1e4abf6f582834572a01b6227d3b027029d95d154e09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33186d954d05de4199ac13e2e93bab99e189bf3a1135b9a7389e93bd7747cfb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Código Civil
+- Cônjuge
+- Prazo
+- Renda Condicionada
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177451:por
+  label: "Alterados o nº 2 do art. 1051º e o art. 1111º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na\
+    \ redacção do presente diploma, pela LEI.46/85.20.09.1985.AR, DR.IS [217] de 20.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-1985-177451
+  date: '1985-09-20'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 1051º do Código Civil aprovado pelo Dec Lei 47344, de 25-Nov 1966, com a redacção introduzida pelo\
+    \ presente diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574334:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177451:por
+  label: "Revogado pela LEI.46/85.1985.09.20.AR DR.IS [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-1985-177451
+  date: '1985-09-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:44Z'
   warnings: []
   errors: []
 ---
@@ -181,8 +215,8 @@ As pessoas a que se refere o artigo 3.º têm, sucessivamente e pela ordem aí e
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 25 de Novembro de 1981.**
+Promulgado em 25 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

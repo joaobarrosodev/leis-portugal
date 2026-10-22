@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1977-139436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17aef4aaeb8da1f37c2d2c98d6d8968878fec19d565f6a7f90da2f17d3ab1d36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88715c732be9482e02ea23bfa88042984945c86932d6c551fc7c3c9de59febca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Geral da Polícia de Segurança Pública
+- Corpo de Intervenção
+- Criação de Lugares
+- Criação de Serviços
+- Ministério da Administração Interna
+- PSP
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:458234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:458234:por
+  label: "Alterados os arts. 4º e 5º pelo DEC LEI.550/80.18.11.1980.MAI, DR.IS [267] de 18.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-1980-458234
+  date: '1980-11-18'
+- type: cites
+  target: pt:dre:163048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:252044:por
+  label: "Rectificado pela RECT.DD136.19.05.1977.PCM, DR.IS [116] de 19.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-252044
+  date: '1977-05-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:47Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +127,7 @@ Atendendo ainda que essa reserva já existe, presentemente, mas formada à custa
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criada uma unidade do Comando-Geral, na dependência directa deste, designada por Corpo de Intervenção da PSP.
+Artigo 1.º - 1. É criada uma unidade do Comando-Geral, na dependência directa deste, designada por Corpo de Intervenção da PSP.
 
 2. A unidade tem a seguinte constituição:
 
@@ -110,7 +139,7 @@ Grupos de intervenção.
 
 3. O número de grupos de intervenção é de três.
 
-###### Art. 2.º O quadro actual da Polícia de Segurança Pública será aumentado do seguinte pessoal:
+Art. 2.º O quadro actual da Polícia de Segurança Pública será aumentado do seguinte pessoal:
 
 1 tenente-coronel ou major.
 
@@ -132,15 +161,15 @@ Grupos de intervenção.
 
 662
 
-###### Art. 3.º - 1. O Corpo de Intervenção da PSP terá um conselho administrativo, ao qual são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de Polícia, previstos no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, e demais legislação aplicável.
+Art. 3.º - 1. O Corpo de Intervenção da PSP terá um conselho administrativo, ao qual são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de Polícia, previstos no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, e demais legislação aplicável.
 
 2. O conselho administrativo é constituído pelo 2.º comandante, que preside, por um comissário, que o secretaria, e por um graduado, que exerce as funções de tesoureiro.
 
-###### Art. 4.º O comandante do Corpo de Intervenção tem competência disciplinar igual à de comandante distrital.
+Art. 4.º O comandante do Corpo de Intervenção tem competência disciplinar igual à de comandante distrital.
 
-###### Art. 5.º O 2.º comandante tem competência disciplinar igual à de comandante de divisão da PSP.
+Art. 5.º O 2.º comandante tem competência disciplinar igual à de comandante de divisão da PSP.
 
-###### Art. 6.º A actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:
+Art. 6.º A actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:
 
 1 tenente-coronel ou major.
 
@@ -162,7 +191,7 @@ Grupos de intervenção.
 
 491
 
-###### Art. 7.º Numa 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:
+Art. 7.º Numa 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:
 
 1 primeiro-comissário.
 
@@ -174,14 +203,14 @@ Grupos de intervenção.
 
 155
 
-###### Art. 8.º Os encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas sobras que se verificarem nas dotações orçamentais do Ministério da Administração Interna.
+Art. 8.º Os encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas sobras que se verificarem nas dotações orçamentais do Ministério da Administração Interna.
 
-###### Art. 9.º Fica revogado o disposto no [Decreto-Lei n.º 277/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1976-502578), de 14 de Abril.
+Art. 9.º Fica revogado o disposto no [Decreto-Lei n.º 277/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1976-502578), de 14 de Abril.
 
 Visto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

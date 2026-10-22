@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/03/05400/02650268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1970-228426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80f463a80532c8ebcd57cea62e6aa23c64ac0901592fe2dd60e78bbbffadf157
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51e67cc0d5dffe77e976441a1514ea226ca04a18ca5a92aae6f93988da2b1721
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Brasil
+- Convenção
+- Lisboa
+- Portugal
+- Previdência Social
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITU&#205;DO O ACORDO PELA RESOLU&#199;&#195;O 54/94, DA AR, DE 5 DE MAIO, PUBLICADA NO DR.IS-A, 198, DE 940827.\0\
+    7."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:43Z'
   warnings: []
   errors: []
 ---
@@ -85,29 +96,29 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Previdência Social entre os Governos de Portugal e da República Federativa do Brasil, assinado em Lisboa em 17 de Outubro de 1969, cujo texto vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo de Previdência Social entre os Governos de Portugal e da República Federativa do Brasil, assinado em Lisboa em 17 de Outubro de 1969, cujo texto vai anexo ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 18 de Fevereiro de 1970.**
+Promulgado em 18 de Fevereiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ACORDO DE PREVIDÊNCIA SOCIAL ENTRE OS GOVERNOS DE PORTUGAL E DA REPÚBLICA FEDERATIVA DO BRASIL
 
-**O Presidente da República Portuguesa e o Presidente da República Federativa do Brasil,**
+O Presidente da República Portuguesa e o Presidente da República Federativa do Brasil,
 
 Animados do desejo de regular as relações em matéria de previdência social entre os dois Estados,
 
 Resolvem concluir um Acordo de Previdência Social e nomeiam, para esse fim, os seguintes plenipotenciários:
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 S. Ex.ª o Sr. Prof. Marcelo José das Neves Alves Caetano, Ministro Interino dos Negócios Estrangeiros;
 
-**O Presidente da República Federativa do Brasil:**
+O Presidente da República Federativa do Brasil:
 
 S. Ex.ª o Sr. Coronel Jarbas Gonçalves Passarinho, Ministro do Trabalho e da Previdência Social;
 

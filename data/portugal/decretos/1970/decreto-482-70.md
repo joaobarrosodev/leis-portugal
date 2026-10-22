@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/482-1970-147472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b97014f95a57d55d96712081cfe77614a25a95948f3772355b88055f2748ff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f7e81e45f0eb903b874d374559e0af77094a3f06be527520021d115dc2b5ab1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:44Z'
   warnings: []
   errors: []
 ---
@@ -93,30 +93,30 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aprovadas, devendo constar de escritura pública, as alterações propostas pela Companhia do Caminho de Ferro de Benguela, de acordo com o decidido na assembleia geral extraordinária de 31 de Julho de 1970,
+Artigo 1.º São aprovadas, devendo constar de escritura pública, as alterações propostas pela Companhia do Caminho de Ferro de Benguela, de acordo com o decidido na assembleia geral extraordinária de 31 de Julho de 1970,
 
 aos artigos 26.º, 37.º e 38.º dos seus estatutos, nos seguintes termos:
 
-###### Art. 26.º O actual texto, no qual será aditado o seguinte § único:
+Art. 26.º O actual texto, no qual será aditado o seguinte § único:
 
 § único. Os administradores não nomeados pelo Governo cessarão as suas funções na data da primeira assembleia geral ordinária que se seguir ao dia em que tiverem completado a idade de 70 anos, não podendo ser reeleitos ou reconduzidos. Transitòriamente, porém, aqueles que, à data da entrada em vigor desta disposição, já tiverem ultrapassado a referida idade poderão continuar no exercício das suas funções até à primeira assembleia geral ordinária seguinte ao dia em que completarem a idade de 75 anos.
 
-###### Art. 37.º O seu § 2.º passa a ter a seguinte redacção:
+Art. 37.º O seu § 2.º passa a ter a seguinte redacção:
 
 § 2.º São aplicáveis ao conselho fiscal as disposições do artigo 23.º, do § único do artigo 24.º e do § único do artigo 26.º
 
-###### Art. 38.º Passa a ter a seguinte redacção:
+Art. 38.º Passa a ter a seguinte redacção:
 
 Os membros do conselho fiscal poderão ser reeleitos, salvo o disposto no § único do artigo 26.º
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Setembro de 1970.**
+Promulgado em 30 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

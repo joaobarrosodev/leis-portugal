@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20900/25962596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1980-464042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d0cea7bc806c000a50e062e03bac6fa188e6fc9a05954bcdc73bf31bff01cc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00e8a2d9afb9bfd68e90dfa4e31bb40b0b5e6a3667d7b406bdbc17154d9e900b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- PSP
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:508233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508233:por
+  label: "Alterado o art. 2º do Dec Lei 196/79, de 29-Jun, na redacção do presente diploma, pelo DEC LEI.54/91.26.01.1991.MAI,\
+    \ DR.IS-A [22] de 26.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-1991-508233
+  date: '1991-01-26'
+- type: cites
+  target: pt:dre:381168:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:39Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Atendendo às áreas urbanas mais sensíveis e à dificuldade que as actuais equ
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 2 do artigo 2.º do [Decreto-Lei n.º 196/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1979-381168), de 29 de Junho, passa a ter a seguinte redacção:
+Artigo único. O n.º 2 do artigo 2.º do [Decreto-Lei n.º 196/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1979-381168), de 29 de Junho, passa a ter a seguinte redacção:
 
 2 - A distribuição das equipas pelos vários comandos é a seguinte:
 
@@ -191,8 +203,8 @@ Restantes comandos:
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 14 de Agosto de 1980.**
+Promulgado em 14 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

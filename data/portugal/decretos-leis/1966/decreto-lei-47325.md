@@ -46,36 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47325-1966-477627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d13ccf2d62db4df5e14a242fd6c08fbcde494cff0b059af5b7d578bdedac864d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5b7a9949a2b80189146816befed780e559cb1ebdfffa139d2aca9d35e3a1a12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Molusco
+- Pesca
+- Recursos do Mar
+- Regulamento
+- Regulamento da Indústria Ostreícola
+relationships:
+- type: cites
+  target: pt:dre:210004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637248:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:07Z'
   warnings: []
   errors: []
 ---
@@ -86,8 +127,8 @@ Reconhecendo-se a necessidade de reunir num único instrumento legal, depois de 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:Artigo 1.º Com a entrada em vigor do [Decreto n.º 47326](https://diariodarepublica.pt/dr/detalhe/decreto/47326-1966-477628), desta data, que aprova o Regulamento da Indústria Ostreícola, ficam revogados os seguintes diplomas: [Decreto n.º 9124](https://diariodarepublica.pt/dr/detalhe/decreto/9124-1923-320744), de 18 de Setembro de 1923; [Decreto n.º 19242](https://diariodarepublica.pt/dr/detalhe/decreto/19242-1931-210004), de 5 de Janeiro de 1931; [Decreto n.º 21934](https://diariodarepublica.pt/dr/detalhe/decreto/21934-1932-597279), de 2 de Dezembro de 1932; portaria de 12 de Junho de 1939; [Decreto n.º 36651](https://diariodarepublica.pt/dr/detalhe/decreto/36651-1947-637248), de 5 de Dezembro de 1947; [Decreto-Lei n.º 39644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39644-1954-635192), de 11 de Maio de 1954; [Portaria n.º 20841](https://diariodarepublica.pt/dr/detalhe/portaria/20841-1964-536790), de 9 de Outubro de 1964, e, na parte que se refere a ostras, o [Decreto-Lei n.º 40785](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40785-1956-297216), de 25 de Setembro de 1956, e a [Portaria n.º 16121](https://diariodarepublica.pt/dr/detalhe/portaria/16121-1957-402083), de 2 de Janeiro de 1957.
 
-###### Art. 2.º O Regulamento da Indústria Ostreícola vigorará provisòriamente pelo período de três anos, findo o qual será publicado definitivamente depois de lhe terem sido introduzidas as alterações que a prática entretanto houver aconselhado.
+Art. 2.º O Regulamento da Indústria Ostreícola vigorará provisòriamente pelo período de três anos, findo o qual será publicado definitivamente depois de lhe terem sido introduzidas as alterações que a prática entretanto houver aconselhado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

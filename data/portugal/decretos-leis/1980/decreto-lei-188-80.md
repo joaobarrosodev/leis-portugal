@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13600/13811384.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1980-473076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ea050ff90fa55e78c7584a4d217cacc2bbd5bbcef41a84a741b5b641c42cc73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91aab62d1db57abd466b89dbb0c2eb1496cda18cf7f9f382d15bee1daa69593c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guarda Fiscal
+- Militar
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:632376:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:36Z'
   warnings: []
   errors: []
 ---
@@ -96,31 +109,31 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criadas as medalhas privativas da Guarda Fiscal.
+Artigo 1.º São criadas as medalhas privativas da Guarda Fiscal.
 
-###### Art. 2.º As medalhas são as de mérito fiscal e de assiduidade no serviço.
+Art. 2.º As medalhas são as de mérito fiscal e de assiduidade no serviço.
 
-###### Art. 3.º As medalhas de mérito fiscal e de assiduidade no serviço são destinadas a galardoar os militares da Guarda Fiscal que, na defesa da economia e dos superiores interesses da Fazenda Nacional e ainda no serviço de segurança que lhe é específico, estejam nas condições deste decreto-lei.
+Art. 3.º As medalhas de mérito fiscal e de assiduidade no serviço são destinadas a galardoar os militares da Guarda Fiscal que, na defesa da economia e dos superiores interesses da Fazenda Nacional e ainda no serviço de segurança que lhe é específico, estejam nas condições deste decreto-lei.
 
-###### Art. 4.º Considera-se serviço de defesa da economia e dos interesses da Fazenda Nacional o prevenir, evitar e reprimir as fraudes fiscais, a vigilância e fiscalização nas fronteiras terrestres e marítimas, nos portos, enseadas e ancoradouros e nos caminhos de ferro, nos aeroportos e no contrôle de entrada e saída de passageiros e ainda no interior do País.
+Art. 4.º Considera-se serviço de defesa da economia e dos interesses da Fazenda Nacional o prevenir, evitar e reprimir as fraudes fiscais, a vigilância e fiscalização nas fronteiras terrestres e marítimas, nos portos, enseadas e ancoradouros e nos caminhos de ferro, nos aeroportos e no contrôle de entrada e saída de passageiros e ainda no interior do País.
 
-###### Art. 5.º Considera-se serviço de segurança específica do corpo militar da Guarda Fiscal todo o que é desempenhado na defesa da vida, dos haveres e propriedades dos cidadãos, bem como na vigilância militar das fronteiras que contribua para a segurança do País.
+Art. 5.º Considera-se serviço de segurança específica do corpo militar da Guarda Fiscal todo o que é desempenhado na defesa da vida, dos haveres e propriedades dos cidadãos, bem como na vigilância militar das fronteiras que contribua para a segurança do País.
 
-###### Art. 6.º Os processos para a concessão das medalhas referidas serão apreciados pelo conselho superior da Guarda Fiscal, agregando-lhe o chefe do Serviço de Justiça e Disciplina do Comando-Geral, que servirá de secretário sem voto.
+Art. 6.º Os processos para a concessão das medalhas referidas serão apreciados pelo conselho superior da Guarda Fiscal, agregando-lhe o chefe do Serviço de Justiça e Disciplina do Comando-Geral, que servirá de secretário sem voto.
 
-###### Art. 7.º A concessão das medalhas privativas da Guarda Fiscal é da competência do Ministro das Finanças e do Plano, mediante proposta do comandante-geral, ouvido o conselho superior da Guarda Fiscal.
+Art. 7.º A concessão das medalhas privativas da Guarda Fiscal é da competência do Ministro das Finanças e do Plano, mediante proposta do comandante-geral, ouvido o conselho superior da Guarda Fiscal.
 
-###### Art. 8.º O Ministro das Finanças e do Plano poderá conceder qualquer das medalhas por sua iniciativa, sem necessidade de proposta e processo a apresentar pelo comandante-geral.
+Art. 8.º O Ministro das Finanças e do Plano poderá conceder qualquer das medalhas por sua iniciativa, sem necessidade de proposta e processo a apresentar pelo comandante-geral.
 
-###### Art. 9.º É aprovado o regulamento anexo para a concessão das medalhas de que trata o presente decreto-lei.
+Art. 9.º É aprovado o regulamento anexo para a concessão das medalhas de que trata o presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Abril de 1980.**
+Promulgado em 30 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Regulamento para a Concessão das Medalhas Privativas da Guarda Fiscal
 
@@ -128,7 +141,7 @@ I
 
 Medalha de mérito fiscal
 
-###### Artigo 1.º A medalha de mérito fiscal compreenderá:
+Artigo 1.º A medalha de mérito fiscal compreenderá:
 
 1.ª classe;
 
@@ -136,11 +149,11 @@ Medalha de mérito fiscal
 
 3.ª classe.
 
-###### Art. 2.º - 1 - A medalha de mérito fiscal é destinada a galardoar os militares por actos extraordinários de coragem, abnegação, dedicação e zelo notável pelo serviço específico da Guarda Fiscal.
+Art. 2.º - 1 - A medalha de mérito fiscal é destinada a galardoar os militares por actos extraordinários de coragem, abnegação, dedicação e zelo notável pelo serviço específico da Guarda Fiscal.
 
 2 - Esta medalha será concedida aos militares da Guarda Fiscal, ou nela prestando serviço, do activo ou da reserva, independentemente do posto do agraciado.
 
-###### Art. 3.º - 1 - A medalha de mérito fiscal de 1.ª classe será concedida ao militar que satisfaça qualquer das seguintes condições:
+Art. 3.º - 1 - A medalha de mérito fiscal de 1.ª classe será concedida ao militar que satisfaça qualquer das seguintes condições:
 
 a) Ser ferido com gravidade ou morto no desempenho das suas funções, comprovado em processo de averiguações ou constante de relatório de ocorrência onde se mostre a coragem, abnegação e zelo pelo serviço;
 
@@ -154,15 +167,15 @@ d) Ter sido louvado no Diário da República, no Boletim Oficial da Guarda Fisca
 
 3 - Quando o militar tiver falecido pelos motivos indicados na alínea a) do n.º 1, será a respectiva insígnia atribuída a título póstumo e entregue à família pela seguinte ordem: filho mais novo, viúva, filha mais velha, mãe ou outros ascendentes, irmão ou irmã mais velhos.
 
-###### Art. 4.º A medalha de mérito fiscal de 2.ª classe será concedida ao militar que satisfaça qualquer das seguintes condições:
+Art. 4.º A medalha de mérito fiscal de 2.ª classe será concedida ao militar que satisfaça qualquer das seguintes condições:
 
 a) Praticar actos de serviço de superior mérito no exercício das suas funções que resultem de excepcional capacidade moral e física;
 
 b) Ter sido louvado duas vezes em Ordem Geral do Comando-Geral ou três em Ordem de Serviço da unidade, em que sejam realçadas as suas excepcionais qualidades de agente fiscal, face ao número de apreensões efectuadas, seu valor e manifesto interesse na investigação para a descoberta de infracções fiscais ou redes de contrabando e ainda na captura de indivíduos considerados perigosos para a sociedade e em que tenha havido luta ou perspicácia para a sua captura.
 
-###### Art. 5.º A medalha de mérito fiscal de 3.ª classe será concedida ao militar que tenha sido louvado em Ordem Geral do Comando-Geral ou tenha dois louvores em Ordem de Serviço da unidade, em que sejam realçadas as suas excepcionais qualidades de agente fiscal, face ao número de apreensões efectuadas, seu valor e manifesto interesse na investigação e descoberta de infracções fiscais, conhecimento de redes de contrabando ou ainda na captura de indivíduos considerados perigosos para a sociedade.
+Art. 5.º A medalha de mérito fiscal de 3.ª classe será concedida ao militar que tenha sido louvado em Ordem Geral do Comando-Geral ou tenha dois louvores em Ordem de Serviço da unidade, em que sejam realçadas as suas excepcionais qualidades de agente fiscal, face ao número de apreensões efectuadas, seu valor e manifesto interesse na investigação e descoberta de infracções fiscais, conhecimento de redes de contrabando ou ainda na captura de indivíduos considerados perigosos para a sociedade.
 
-###### Art. 6.º - 1 - A medalha de mérito fiscal será do formato e modelo constantes do anexo a este Regulamento, com os braços iguais e a cruz central aberta, tendo no anverso, ao centro, a estrela da Guarda Fiscal, com dezasseis pontas, e, em baixo e em semicírculo, a legenda «Guarda Fiscal» e no reverso o escudo e a esfera armilar e, também em baixo e em semicírculo, a legenda «Mérito Fiscal».
+Art. 6.º - 1 - A medalha de mérito fiscal será do formato e modelo constantes do anexo a este Regulamento, com os braços iguais e a cruz central aberta, tendo no anverso, ao centro, a estrela da Guarda Fiscal, com dezasseis pontas, e, em baixo e em semicírculo, a legenda «Guarda Fiscal» e no reverso o escudo e a esfera armilar e, também em baixo e em semicírculo, a legenda «Mérito Fiscal».
 
 2 - Essa medalha será usada com a fivela do mesmo metal da medalha e suspensa de uma fita de seda com as cores vermelha e azul-maria-luísa, de larguras iguais, no sentido vertical, com a cor vermelha para o lado esquerdo.
 
@@ -170,9 +183,9 @@ b) Ter sido louvado duas vezes em Ordem Geral do Comando-Geral ou três em Ordem
 
 4 - Na colocação desta medalha observar-se-á a ordem de precedência estabelecida pelo [Decreto n.º 566/71](https://diariodarepublica.pt/dr/detalhe/decreto/566-1971-632376), de 20 de Dezembro, ficando colocada entre as medalhas de serviços distintos de segurança pública e militar de comportamento exemplar.
 
-###### Art. 7.º A concessão da medalha de mérito fiscal é da competência do Ministro das Finanças e do Plano, por sua iniciativa própria ou mediante proposta do comandante-geral da Guarda Fiscal, e a sua publicação será feita no Boletim Oficial da mesma Guarda.
+Art. 7.º A concessão da medalha de mérito fiscal é da competência do Ministro das Finanças e do Plano, por sua iniciativa própria ou mediante proposta do comandante-geral da Guarda Fiscal, e a sua publicação será feita no Boletim Oficial da mesma Guarda.
 
-###### Art. 8.º O processo para a concessão da medalha de mérito fiscal a apresentar ao conselho superior da Guarda Fiscal, compreenderá:
+Art. 8.º O processo para a concessão da medalha de mérito fiscal a apresentar ao conselho superior da Guarda Fiscal, compreenderá:
 
 a) Proposta fundamentada do comandante ou chefe, com categoria igual ou superior a comandante de unidade;
 
@@ -182,7 +195,7 @@ c) Parecer do conselho superior da Guarda Fiscal;
 
 d) Nota de assentos completa.
 
-###### Art. 9.º Perde-se o direito a usar a medalha de mérito fiscal nos seguintes casos:
+Art. 9.º Perde-se o direito a usar a medalha de mérito fiscal nos seguintes casos:
 
 a) Perda de nacionalidade portuguesa;
 
@@ -198,7 +211,7 @@ II
 
 Medalha de assiduidade no serviço
 
-###### Art. 10.º - 1 - A medalha de assiduidade no serviço será concedida exclusivamente aos graduados e soldados da Guarda Fiscal com 10, 20 e 30 anos de serviço efectivo no comando de secções, de postos fiscais ou destacamentos de fronteira ou, ainda, como graduados nesses postos e para os soldados no desempenho do serviço de patrulhas, aguardos, sentinelas, vigias, contrôle de passageiros, de emolumentos ou rondas em postos fiscais.
+Art. 10.º - 1 - A medalha de assiduidade no serviço será concedida exclusivamente aos graduados e soldados da Guarda Fiscal com 10, 20 e 30 anos de serviço efectivo no comando de secções, de postos fiscais ou destacamentos de fronteira ou, ainda, como graduados nesses postos e para os soldados no desempenho do serviço de patrulhas, aguardos, sentinelas, vigias, contrôle de passageiros, de emolumentos ou rondas em postos fiscais.
 
 2 - Esta medalha poderá ainda ser concedida, a título excepcional, aos graduados e soldados no desempenho de serviços especiais, tais como:
 
@@ -218,32 +231,32 @@ g) Telefonistas;
 
 h) Motoristas.
 
-###### Art. 11.º - 1 - A medalha de assiduidade no serviço só poderá ser concedida aos graduados e soldados que nos últimos 10 anos de serviço efectivo não tenham sido punidos com qualquer pena disciplinar ou ainda àqueles que, embora punidos com pena ou penas não superiores, no total, a dez dias de detenção, por motivos que não briguem com a sua dignidade profissional ou o prestígio da Guarda Fiscal, tenham um número de dias de detenção em que, divididos pelo número de anos de serviço, a média aritmética não seja superior a um dia de detenção por cada ano de serviço efectivo.
+Art. 11.º - 1 - A medalha de assiduidade no serviço só poderá ser concedida aos graduados e soldados que nos últimos 10 anos de serviço efectivo não tenham sido punidos com qualquer pena disciplinar ou ainda àqueles que, embora punidos com pena ou penas não superiores, no total, a dez dias de detenção, por motivos que não briguem com a sua dignidade profissional ou o prestígio da Guarda Fiscal, tenham um número de dias de detenção em que, divididos pelo número de anos de serviço, a média aritmética não seja superior a um dia de detenção por cada ano de serviço efectivo.
 
 2 - Esta medalha não poderá ser concedida aos graduados e soldados que tenham sido punidos por insubordinação, falta de respeito a superiores, embriaguez ou ainda por qualquer outro motivo considerado infamante.
 
-###### Art. 12.º - 1 - A medalha de assiduidade no serviço será de prata, do formato e modelo constantes do anexo ao presente Regulamento, tendo no anverso a estrela da Guarda Fiscal, com dezasseis pontas, e a legenda, em baixo e em semicírculo, «Guarda Fiscal», circundada por duas palmas de carvalho atadas em baixo e abertas em cima, e no reverso o escudo, a esfera armilar e a legenda, também em semicírculo, «Assiduidade no Serviço».
+Art. 12.º - 1 - A medalha de assiduidade no serviço será de prata, do formato e modelo constantes do anexo ao presente Regulamento, tendo no anverso a estrela da Guarda Fiscal, com dezasseis pontas, e a legenda, em baixo e em semicírculo, «Guarda Fiscal», circundada por duas palmas de carvalho atadas em baixo e abertas em cima, e no reverso o escudo, a esfera armilar e a legenda, também em semicírculo, «Assiduidade no Serviço».
 
 2 - Essa medalha será usada com fivela do mesmo metal da medalha e suspensa de uma fita de seda com cinco riscas verticais e alternadas, com as cores branca e azul-maria-luísa, de larguras iguais, ficando o azul-maria-luísa dos lados exteriores.
 
 3 - A medalha conferida aos 10 anos terá, na fivela e a meio, uma estrela de prata; a conferida aos 20 anos duas estrelas, e a conferida aos 30 anos três estrelas, todas de prata e do modelo da Guarda Fiscal.
 
-###### Art. 13.º A concessão desta medalha será feita pelo Ministro das Finanças e do Plano, mediante proposta do comandante-geral da Guarda Fiscal, e publicada na Ordem Geral do Comando-Geral da mesma Guarda.
+Art. 13.º A concessão desta medalha será feita pelo Ministro das Finanças e do Plano, mediante proposta do comandante-geral da Guarda Fiscal, e publicada na Ordem Geral do Comando-Geral da mesma Guarda.
 
-###### Art. 14.º O processo para a concessão da medalha de assiduidade no serviço, a apresentar ao conselho superior da Guarda Fiscal, compreenderá:
+Art. 14.º O processo para a concessão da medalha de assiduidade no serviço, a apresentar ao conselho superior da Guarda Fiscal, compreenderá:
 
 a) Proposta fundamentada do comandante ou chefe, com categoria igual ou superior a comandante de unidade;
 
 b) Nota de assentos completa.
 
-###### Art. 15.º Na colocação desta medalha observar-se-á a ordem de precedência estabelecida pelo [Decreto n.º 566/71](https://diariodarepublica.pt/dr/detalhe/decreto/566-1971-632376), de 20 de Dezembro, ficando colocada entre as medalhas de assiduidade de segurança pública e a de comportamento exemplar de segurança pública.
+Art. 15.º Na colocação desta medalha observar-se-á a ordem de precedência estabelecida pelo [Decreto n.º 566/71](https://diariodarepublica.pt/dr/detalhe/decreto/566-1971-632376), de 20 de Dezembro, ficando colocada entre as medalhas de assiduidade de segurança pública e a de comportamento exemplar de segurança pública.
 
-###### Art. 16.º Perde o direito de usar a medalha de assiduidade no serviço o condecorado que tenha sido condenado a pena maior ou em qualquer outra pena por crime ou punição por infracção disciplinar que brigue com a dignidade profissional ou o prestígio da Guarda Fiscal.
+Art. 16.º Perde o direito de usar a medalha de assiduidade no serviço o condecorado que tenha sido condenado a pena maior ou em qualquer outra pena por crime ou punição por infracção disciplinar que brigue com a dignidade profissional ou o prestígio da Guarda Fiscal.
 
-###### Art. 17.º - 1 - Compete ao conselho superior da Guarda Fiscal apreciar e ao comandante-geral decidir se a pena imposta ao condecorado deve ou não implicar o cancelamento da condecoração e anulação da mesma condecoração no respectivo registo.
+Art. 17.º - 1 - Compete ao conselho superior da Guarda Fiscal apreciar e ao comandante-geral decidir se a pena imposta ao condecorado deve ou não implicar o cancelamento da condecoração e anulação da mesma condecoração no respectivo registo.
 
 2 - O comando da unidade a que pertencer o militar condecorado enviará ao referido conselho superior a cópia da sentença condenatória ou a Ordem de Serviço que publicou a punição.
 
 3 - O cancelamento da condecoração será sempre publicado em Ordem Geral do Comando-Geral da Guarda Fiscal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13600/13811384.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13600/13811384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13600/13811384.pdf)

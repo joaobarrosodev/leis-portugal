@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/19300/09130917.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b9d169b2868d09f230f694f495f863a921007426bc083e76c839e0baeaaff2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 555a8629ee3404122634f383447277496d9cb35bb47aff63f3dfa2b558051d41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Reforma
+- Remuneração
+- Subsídio de Férias
+- Subsídio de Natal
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391209:por
+  label: "Mantido em vigor o disposto no art. 13º pelo DEC LEI.923/76.31.12.1976.MAI, DR.IS [303-3ºSupl] de 31.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/923-1976-391209
+  date: '1976-12-31'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinado nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:173159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628295:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:57Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +136,7 @@ de 20 de Agosto
 
 3. O aumento de vencimentos agora determinado, além de melhorar o poder de compra da grande maioria dos funcionários que se encontram nos escalões de vencimentos mais baixos, reduz as diferenças de remuneração dentro da função pública e determina uma mais justa participação do conjunto dos servidores do Estado na riqueza criada pela colectividade. É o que ressalta do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/19300/09130917.pdf))](https://files.diariodarepublica.pt/1s/1974/08/19300/09130917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/19300/09130917.pdf)
 
 A estas percentagens há que adicionar a que resulta da concessão do subsídio de férias (3,8%), para além da institucionalização do denominado 13.º mês, que corresponde a cerca de 8% da remuneração anual. O leque de remunerações do sector público, em resultado do presente aumento de vencimentos, sofre uma redução muito significativa: efectivamente, o quociente entre os vencimentos base das categorias A e Y passa de 7,7 para 5.
 
@@ -138,9 +180,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os servidores civis do Estado na efectividade de serviço, cujos ordenados mensais se integram numa das categorias indicadas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, passam a ser abonados, a partir de 1 de Julho de 1974, dos seguintes vencimentos:
+Artigo 1.º - 1. Os servidores civis do Estado na efectividade de serviço, cujos ordenados mensais se integram numa das categorias indicadas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, passam a ser abonados, a partir de 1 de Julho de 1974, dos seguintes vencimentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/19300/09130917.pdf))](https://files.diariodarepublica.pt/1s/1974/08/19300/09130917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/19300/09130917.pdf)
 
 2. As remunerações principais em vigor até 31 de Maio de 1974, não coincidentes com as das categorias descritas no número anterior, serão alteradas nos termos seguintes:
 
@@ -150,15 +192,15 @@ b) Os demais vencimentos terão um aumento igual ao que se verificar na letra da
 
 3. O disposto nos números anteriores é extensivo ao pessoal eventual e aos servidores do Estado que recebam remunerações principais, abonadas com carácter de permanência, sem que se achem vinculados por adequado título de provimento, mas não abrange quaisquer gratificações, nomeadamente as que constituam única forma de remuneração do exercício de determinados cargos ou funções.
 
-###### Art. 2.º - 1. Os salários mensais serão actualizados nos termos anteriormente definidos.
+Art. 2.º - 1. Os salários mensais serão actualizados nos termos anteriormente definidos.
 
 2. A partir de 1 de Janeiro de 1975, o pessoal assalariado, dos quadros ou eventual, prestando serviço permanente e admitido por adequado título de provimento, passa a ser remunerado com base num salário mensal, fixado em função de todos os dias do ano, sendo o salário diário 1/30 do valor daquela mensalidade.
 
 3. O pessoal assalariado dos quadros com designações contempladas nos mapas anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) passa a beneficiar de remunerações mensais iguais às fixadas para as mesmas categorias do pessoal nomeado e contratado.
 
-###### Art. 3.º O aumento da remuneração mensal dos servidores em tempo parcial será o que corresponder, nos termos do artigo 1.º, a um valor mensal calculado de acordo com a fórmula V x Q, em que V é a remuneração mensal no regime de tempo parcial percebida até 31 de Maio de 1974, Q uma fracção em que o denominador é o número de horas semanais prestadas em tempo parcial e o numerador o número de horas de duração de trabalho semanal de um funcionário em tempo completo com idênticas funções.
+Art. 3.º O aumento da remuneração mensal dos servidores em tempo parcial será o que corresponder, nos termos do artigo 1.º, a um valor mensal calculado de acordo com a fórmula V x Q, em que V é a remuneração mensal no regime de tempo parcial percebida até 31 de Maio de 1974, Q uma fracção em que o denominador é o número de horas semanais prestadas em tempo parcial e o numerador o número de horas de duração de trabalho semanal de um funcionário em tempo completo com idênticas funções.
 
-###### Art. 4.º O disposto nos artigos anteriores não é aplicável:
+Art. 4.º O disposto nos artigos anteriores não é aplicável:
 
 a) Ao pessoal dos três ramos das forças armadas e das corporações militarizadas;
 
@@ -168,9 +210,9 @@ c) Aos paquetes, aprendizes ou praticantes com menos de 20 anos, cujas remunera�
 
 d) Ao pessoal civil em serviço nos estabelecimentos fabris dependentes dos departamentos militares.
 
-###### Art. 5.º As importâncias mensais obtidas em resultado dos aumentos concedidos e da aplicação de factores de actualização para determinação dos novos vencimentos e salários são arredondadas para a centena de escudos, por excesso.
+Art. 5.º As importâncias mensais obtidas em resultado dos aumentos concedidos e da aplicação de factores de actualização para determinação dos novos vencimentos e salários são arredondadas para a centena de escudos, por excesso.
 
-###### Art. 6.º - 1. As pensões atribuídas aos funcionários do Estado e autarquias locais nas situações de reserva, aposentados e reformados, bem como as pensões de invalidez, beneficiarão, a partir de 1 de Julho de 1974, dos seguintes aumentos:
+Art. 6.º - 1. As pensões atribuídas aos funcionários do Estado e autarquias locais nas situações de reserva, aposentados e reformados, bem como as pensões de invalidez, beneficiarão, a partir de 1 de Julho de 1974, dos seguintes aumentos:
 
 a) Pensões inferiores a 900$00, são aumentadas para 1650$00;
 
@@ -186,15 +228,15 @@ f) Pensões iguais ou superiores a 10000$00, permanecem ao seu nível actual.
 
 2. Para aplicação dos aumentos definidos nas alíneas a) e b) do número anterior, os montantes das pensões a considerar são os que vigoravam até 31 de Maio de 1974.
 
-###### Art. 7.º - 1. Aos servidores do Estado na efectividade de serviço e nas situações de reserva, aposentados ou reformados, bem como aos pensionistas a cargo do Ministério das Finanças ou do Montepio dos Servidores do Estado, é abonado em cada ano um subsídio de Natal, a conceder em Dezembro, de valor igual à remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento, salário ou pensão.
+Art. 7.º - 1. Aos servidores do Estado na efectividade de serviço e nas situações de reserva, aposentados ou reformados, bem como aos pensionistas a cargo do Ministério das Finanças ou do Montepio dos Servidores do Estado, é abonado em cada ano um subsídio de Natal, a conceder em Dezembro, de valor igual à remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento, salário ou pensão.
 
 2. Os servidores do Estado, na efectividade, que em 1 de Dezembro não tiverem completado um ano de bom e efectivo serviço apenas terão direito a receber um subsídio de valor correspondente a tantos duodécimos quantos os meses de serviço prestado nessas condições.
 
-###### Art. 8.º - 1. Aos servidores do Estado na efectividade de serviço é abonado em cada ano um subsídio de férias, a conceder em Julho, igual a metade da remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento ou salário, desde que até essa data tenham completado pelo menos um ano de bom e efectivo serviço.
+Art. 8.º - 1. Aos servidores do Estado na efectividade de serviço é abonado em cada ano um subsídio de férias, a conceder em Julho, igual a metade da remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento ou salário, desde que até essa data tenham completado pelo menos um ano de bom e efectivo serviço.
 
 2. Aos servidores que completarem entre 1 de Julho e 31 de Dezembro o seu primeiro ano de bom e efectivo serviço ser-lhes-á abonado o subsídio de férias no mês seguinte àquele em que atingirem esse tempo de serviço.
 
-###### Art. 9.º - 1. Para cálculo dos subsídios de Natal e de férias referidos nos artigos anteriores não são consideradas quaisquer remunerações acessórias ou emolumentos que porventura os servidores normalmente recebam.
+Art. 9.º - 1. Para cálculo dos subsídios de Natal e de férias referidos nos artigos anteriores não são consideradas quaisquer remunerações acessórias ou emolumentos que porventura os servidores normalmente recebam.
 
 2. Na atribuição dos mesmos subsídios serão observadas as seguintes regras:
 
@@ -206,7 +248,7 @@ c) Não contam para os limites fixados no n.º 1 do artigo 8.º do [Decreto-Lei 
 
 d) São devidos em relação aos honorários de quantia superior à estabelecida para a categoria A.
 
-###### Art. 10.º - 1. A remuneração por trabalho extraordinário será, por cada hora:
+Art. 10.º - 1. A remuneração por trabalho extraordinário será, por cada hora:
 
 a) Para pessoal não assalariado, um sexto do ordenado diário, acrescido de 25% na primeira hora e 50% nas seguintes;
 
@@ -220,7 +262,7 @@ b) Para pessoal assalariado, um oitavo do salário diário, acrescido das percen
 
 5. Podem ser mantidos valores diferentes dos fixados nos números anteriores desde que tenham sido estabelecidos nos termos da legislação específica em vigor à data do presente decreto-lei.
 
-###### Art. 11.º - 1. Só é admitida a prestação de horas extraordinárias quando as necessidades de serviço imperiosamente o exigirem, em virtude da acumulação anormal de trabalho e da urgência na realização de trabalhos especiais.
+Art. 11.º - 1. Só é admitida a prestação de horas extraordinárias quando as necessidades de serviço imperiosamente o exigirem, em virtude da acumulação anormal de trabalho e da urgência na realização de trabalhos especiais.
 
 2. Fica desde já proibida qualquer prestação de trabalho a título extraordinário com carácter de permanência ou regularidade, salvo casos especiais regulados em lei, ou quando se trate de telefonistas e pessoal auxiliar ou assalariado que seja indispensável manter ao serviço para além do horário normal de trabalho.
 
@@ -230,7 +272,7 @@ b) Para pessoal assalariado, um oitavo do salário diário, acrescido das percen
 
 5. Mensalmente, os serviços enviarão à Direcção-Geral da Contabilidade Pública, em impresso de modelo a estabelecer para o efeito, que será assinado pelo respectivo dirigente, uma relação dos servidores a quem foram pagas remunerações sobre a forma de horas extraordinárias.
 
-###### Art. 12.º - 1. Será estabilizado ao nível médio do 1.º semestre de 1974 ou ao nível do mês de Julho do mesmo ano, conforme o que for mais elevado, o quantitativo de quaisquer proventos e abonos acessórios não acidentais recebidos para além da remuneração principal pelos servidores civis e pessoal das forças militares e militarizadas do Estado, de quaisquer serviços do sector público ou de organismos considerados pessoas colectivas de utilidade pública administrativa.
+Art. 12.º - 1. Será estabilizado ao nível médio do 1.º semestre de 1974 ou ao nível do mês de Julho do mesmo ano, conforme o que for mais elevado, o quantitativo de quaisquer proventos e abonos acessórios não acidentais recebidos para além da remuneração principal pelos servidores civis e pessoal das forças militares e militarizadas do Estado, de quaisquer serviços do sector público ou de organismos considerados pessoas colectivas de utilidade pública administrativa.
 
 2. Para efeito do disposto no presente artigo, excluem-se os proventos ou abonos acessórios que respeitem a abono de família, gratificações de direcção, inspecção ou chefia, indemnizações de tecnicidade, diuturnidades, horas extraordinárias, senhas de presença, participações em multas, prémios por denúncias ou por fiscalização, prémios por sugestões, ajudas de custo, subsídios de residência, guarnição, campo, deslocamento, transportes, viagens ou caminhos, abonos para falhas, abonos para representação e quaisquer outros abonos que constituam simples compensação de despesas feitas por motivo de serviço.
 
@@ -238,25 +280,25 @@ b) Para pessoal assalariado, um oitavo do salário diário, acrescido das percen
 
 4. Para efeito do disposto nos números precedentes, os servidores do Estado deverão declarar, em papel comum e sob compromisso de honra, a natureza e quantitativo de quaisquer remunerações ou proventos acessórios que porventura aufiram em serviços ou organismos a que se refere o n.º 1, que não aquele em que exercem a actividade que confere direito ao vencimento principal.
 
-###### Art. 13.º - 1. Quando num mesmo serviço, organismo, Secretaria de Estado ou Ministério, ao exercício de funções ou cargos de categorias equivalentes não sejam atribuídas remunerações acessórias uniformizadas, poder-se-á proceder à uniformização total ou parcial dessas remunerações, segundo normas a definir por despacho do respectivo Ministro ou Secretário de Estado, mediante redistribuição do montante global das referidas remunerações acessórias, por forma que o seu montante seja o mesmo em relação a cada cargo ou categoria.
+Art. 13.º - 1. Quando num mesmo serviço, organismo, Secretaria de Estado ou Ministério, ao exercício de funções ou cargos de categorias equivalentes não sejam atribuídas remunerações acessórias uniformizadas, poder-se-á proceder à uniformização total ou parcial dessas remunerações, segundo normas a definir por despacho do respectivo Ministro ou Secretário de Estado, mediante redistribuição do montante global das referidas remunerações acessórias, por forma que o seu montante seja o mesmo em relação a cada cargo ou categoria.
 
 2. O montante global das remunerações acessórias redistribuídas nos termos do número anterior não poderá em cada mês exceder a média mensal dos montantes globais das mesmas remunerações efectivamente pagas durante o 1.º semestre de 1974 ou o montante pago durante o mês de Julho do mesmo ano, conforme o que for mais elevado.
 
-###### Art. 14.º As acumulações de cargos ou funções autorizadas até à data da publicação do presente diploma devem ser objecto de normas específicas a aprovar em Conselho de Ministros, com o objectivo de se promover a supressão daquelas que não se mostrem de reconhecido interesse para a Administração.
+Art. 14.º As acumulações de cargos ou funções autorizadas até à data da publicação do presente diploma devem ser objecto de normas específicas a aprovar em Conselho de Ministros, com o objectivo de se promover a supressão daquelas que não se mostrem de reconhecido interesse para a Administração.
 
-###### Art. 15.º A atribuição de gratificações a cargos ou funções de direcção ou chefia será regulada por normas gerais a estabelecer por despacho do Conselho de Ministros, em ordem a acautelar a uniformidade dos critérios definidores dos respectivos quantitativos.
+Art. 15.º A atribuição de gratificações a cargos ou funções de direcção ou chefia será regulada por normas gerais a estabelecer por despacho do Conselho de Ministros, em ordem a acautelar a uniformidade dos critérios definidores dos respectivos quantitativos.
 
-###### Art. 16.º Com vista à criação de um esquema de diuturnidades a conceder durante o ano de 1975, o Secretariado da Administração Pública, com a colaboração da Direcção-Geral da Contabilidade Pública, promoverá os necessários estudos, organizando para o efeito um registo central de todo o funcionalismo público e administrativo.
+Art. 16.º Com vista à criação de um esquema de diuturnidades a conceder durante o ano de 1975, o Secretariado da Administração Pública, com a colaboração da Direcção-Geral da Contabilidade Pública, promoverá os necessários estudos, organizando para o efeito um registo central de todo o funcionalismo público e administrativo.
 
-###### Art. 17.º - 1. Nas providências tomadas pelo presente diploma abrange-se o pessoal dos fundos e serviços autónomos da Administração Central, cujas remunerações são satisfeitas por verbas descritas em orçamentos privativos organizados com receitas próprias e subsídios.
+Art. 17.º - 1. Nas providências tomadas pelo presente diploma abrange-se o pessoal dos fundos e serviços autónomos da Administração Central, cujas remunerações são satisfeitas por verbas descritas em orçamentos privativos organizados com receitas próprias e subsídios.
 
 2. O pagamento das melhorias referidas no número anterior compete às entidades responsáveis pela liquidação das respectivas remunerações dentro do regime estabelecido para o pagamento dos vencimentos actuais.
 
-###### Art. 18.º - 1. O Governo, pelo Ministro das Finanças e pelos Ministros das respectivas pastas, determinará o regime de concessão de melhorias previstas neste decreto-lei relativamente ao pessoal da metrópole em serviço nos organismos de coordenação económica, na administração local, nos Cofres Gerais dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça e nos organismos considerados pessoas colectivas de utilidade pública administrativa com fins de saúde e assistência.
+Art. 18.º - 1. O Governo, pelo Ministro das Finanças e pelos Ministros das respectivas pastas, determinará o regime de concessão de melhorias previstas neste decreto-lei relativamente ao pessoal da metrópole em serviço nos organismos de coordenação económica, na administração local, nos Cofres Gerais dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça e nos organismos considerados pessoas colectivas de utilidade pública administrativa com fins de saúde e assistência.
 
 2. Dependerá da publicação de diploma especial a atribuição de melhorias ao pessoal civil dos territórios ultramarinos.
 
-###### Art. 19.º - 1. Os encargos do Estado com os aumentos dos vencimentos e salários ao pessoal abrangido na despesa extraordinária serão satisfeitos pelas verbas por onde são liquidadas essas remunerações e os respeitantes a todo o outro pessoal, no corrente ano, por dotações do capítulo «Despesas comuns» do orçamento ordinário de cada Ministério.
+Art. 19.º - 1. Os encargos do Estado com os aumentos dos vencimentos e salários ao pessoal abrangido na despesa extraordinária serão satisfeitos pelas verbas por onde são liquidadas essas remunerações e os respeitantes a todo o outro pessoal, no corrente ano, por dotações do capítulo «Despesas comuns» do orçamento ordinário de cada Ministério.
 
 2. Os encargos do Estado com os subsídios de férias e de Natal serão suportados por dotações a inscrever nos diferentes orçamentos sob o referido capítulo «Despesas comuns», em despesas ordinária e extraordinária.
 
@@ -264,16 +306,16 @@ b) Para pessoal assalariado, um oitavo do salário diário, acrescido das percen
 
 4. De idêntica forma se procederá em relação aos serviços referidos no n.º 1 do artigo 17.º, que ficam autorizados a elaborar um orçamento suplementar, além dos que legalmente podem organizar.
 
-###### Art. 20.º Os aumentos estabelecidos no artigo 1.º do presente diploma para os actuais vencimentos iguais ou superiores a 7500$00 mensais ficam suspensos enquanto se mantiver a estabilização de remunerações a que se referem o n.º 1 do artigo 4.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, e artigo 1.º do [Decreto-Lei n.º 347/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1974-288203), de 30 de Julho.
+Art. 20.º Os aumentos estabelecidos no artigo 1.º do presente diploma para os actuais vencimentos iguais ou superiores a 7500$00 mensais ficam suspensos enquanto se mantiver a estabilização de remunerações a que se referem o n.º 1 do artigo 4.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, e artigo 1.º do [Decreto-Lei n.º 347/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1974-288203), de 30 de Julho.
 
-###### Art. 21.º No actual ano, o subsídio de férias poderá ser liquidado até ao fim do mês de Outubro.
+Art. 21.º No actual ano, o subsídio de férias poderá ser liquidado até ao fim do mês de Outubro.
 
-###### Art. 22.º As dúvidas e casos não previstos serão resolvidos por despacho ministerial, sob parecer da Direcção-Geral da Contabilidade Pública ou do Secretariado da Administração Pública, de harmonia com a respectiva competência.
+Art. 22.º As dúvidas e casos não previstos serão resolvidos por despacho ministerial, sob parecer da Direcção-Geral da Contabilidade Pública ou do Secretariado da Administração Pública, de harmonia com a respectiva competência.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 16 de Agosto de 1974.**
+Promulgado em 16 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

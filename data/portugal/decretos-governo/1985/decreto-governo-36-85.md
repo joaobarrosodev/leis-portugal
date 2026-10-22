@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/36-1985-177019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d086e7e706a7ba2cacb596f1dcb0d8e3d3bb75607e923478365525a5a107fdb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb9213ffeb99faa66f0320ba1524fac9b8e690557e972245ad94d0e46c65898b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicação por Satélite
+- Convenção
+- Eutelsat
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:365345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186305:por
+  label: "Eliminado o parag. c) do art. XIX da Convenção da Organização Europeia de Telecomunicações por Satélites (EUTELSAT)\
+    \ e o parag. e) do art. 22.º do respectivo Acordo de Exploração, ambos aprovados, para ratificação, pelo DEC.36/96.1996.12.04.MNE\
+    \ DR.IS-A [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/36-1996-186305
+  date: '1996-12-04'
+- type: amended_by
+  target: pt:dre:365345:por
+  label: "Aprovadas, para ratificação, alterações aos artigos II, X, XI, XVI e XVIII da Convenção e ao artigo 15º do Acordo\
+    \ de Exploração, ambos aprovados para ratificação pelo presente diploma, pelo Dec.29/97.1997.06.19.MNE, DR.IS [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/29-1997-365345
+  date: '1997-06-19'
 article_structure:
-  article_count: 25
+  article_count: 50
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:17Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +108,19 @@ de 25 de Setembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, a Convenção que estabeleceu a EUTELSAT (Organização Europeia de Telecomunicações por Satélite) bem como o respectivo Acordo de Exploração, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovados, para ratificação, a Convenção que estabeleceu a EUTELSAT (Organização Europeia de Telecomunicações por Satélite) bem como o respectivo Acordo de Exploração, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Assinado em 26 de Julho de 1985.**
+Assinado em 26 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Julho de 1985.**
+Referendado em 30 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Convention and Operating Agreement establishing the European Telecommunications Satellite Organization «EUTELSAT».
 
@@ -1275,9 +1292,7 @@ Decididos, para tal efeito, a fornecer, com recurso às mais apropriadas tecnolo
 
 convencionaram o que se segue:
 
-Artigo I
-
-(Definições)
+###### Artigo I — (Definições)
 
 Para os fins da presente Convenção:
 
@@ -1305,9 +1320,7 @@ k) «Serviços públicos de telecomunicações» designa os serviços de telecom
 
 l) «Serviços especializados de telecomunicações» designa os serviços de telecomunicações, além dos definidos no parágrafo k) deste artigo, que podem ser assegurados por satélite, incluindo, nomeadamente, os serviços de radionavegação, de radiodifusão por satélite, de pesquisa espacial, de meteorologia e de detecção remota de recursos terrestres.
 
-Artigo II
-
-(Criação da EUTELSAT)
+###### Artigo II — (Criação da EUTELSAT)
 
 a) Pela presente Convenção, as Partes criam a Organização Europeia de Telecomunicações por Satélite «EUTELSAT», adiante denominada «EUTELSAT».
 
@@ -1317,9 +1330,7 @@ c) As Administrações e entidades de telecomunicações poderão, sob reserva d
 
 d) As disposições pertinentes do anexo A da Convenção têm por fim assegurar a continuidade entre as actividades da INTERIM EUTELSAT e as da EUTELSAT.
 
-Artigo III
-
-(Âmbito das actividades da EUTELSAT)
+###### Artigo III — (Âmbito das actividades da EUTELSAT)
 
 a) A EUTELSAT terá como missão principal a concepção, desenvolvimento, construção, estabelecimento, exploração e manutenção do segmento espacial do sistema ou sistemas europeus de telecomunicações por satélite. Neste contexto, o objectivo principal da EUTELSAT será o de fornecer o segmento espacial necessário para serviços públicos de telecomunicações internacionais na Europa.
 
@@ -1347,9 +1358,7 @@ desde que a exploração eficaz e económica do segmento espacial EUTELSAT não 
 
 g) A EUTELSAT poderá levar a efeito qualquer investigação e experiência em domínios directamente relacionados com os seus objectivos.
 
-Artigo IV
-
-(Personalidade jurídica)
+###### Artigo IV — (Personalidade jurídica)
 
 a) A EUTELSAT gozará de personalidade jurídica.
 
@@ -1363,9 +1372,7 @@ iii) Ser parte em juízo;
 
 iv) Concluir acordos com Estados ou organizações internacionais.
 
-Artigo V
-
-(Princípios financeiros)
+###### Artigo V — (Princípios financeiros)
 
 a) A EUTELSAT será proprietária ou locatária do segmento espacial EUTELSAT e proprietária de quaisquer outros bens adquiridos pela EUTELSAT. Os signatários serão responsáveis pelo financiamento da EUTELSAT.
 
@@ -1383,9 +1390,7 @@ ii) Tratando-se de entidades de telecomunicações, públicas ou privadas, autor
 
 f) Os satélites e equipamento associado referidos no parágrafo f) do artigo III da Convenção poderão, por decisão unânime do Conselho dos Signatários, ser financiados pela EUTELSAT. De contrário, serão financiados por quem os pedir, nos termos e condições que forem estabelecidos pelo Conselho dos Signatários, com o objectivo de, pelo menos, cobrir todos os custos por tal motivo suportados pela EUTELSAT, custos esses que não serão considerados como fazendo parte das necessidades de capital da EUTELSAT, tal como são definidas no parágrafo b) do artigo 4 do Acordo de Exploração. Aqueles satélites e equipamento associado não fazem parte do segmento espacial EUTELSAT, tal como está definido no parágrafo h) do artigo I da Convenção.
 
-Artigo VI
-
-(Estrutura da EUTELSAT)
+###### Artigo VI — (Estrutura da EUTELSAT)
 
 a) A EUTELSAT terá os seguintes órgãos:
 
@@ -1397,9 +1402,7 @@ iii) Um órgão executivo dirigido por um director-geral.
 
 b) Cada órgão agirá dentro dos limites das atribuições que lhe são conferidas pela Convenção ou pelo Acordo de Exploração. Nenhum órgão agirá por forma a prejudicar o exercício por outro órgão das atribuições que lhe são conferidas pela Convenção ou pelo Acordo de Exploração.
 
-Artigo VII
-
-(Assembleia das Partes - Composição e reuniões)
+###### Artigo VII — (Assembleia das Partes - Composição e reuniões)
 
 a) A Assembleia das Partes será constituída por todas as Partes.
 
@@ -1411,9 +1414,7 @@ d) A Assembleia das Partes poderá também efectuar reuniões extraordinárias a
 
 e) Cada Parte suportará os seus próprios custos de representação nas reuniões da Assembleia das Partes. As despesas relativas às reuniões da Assembleia das Partes serão consideradas custos administrativos da EUTELSAT para efeitos de aplicação do artigo 9 do Acordo de Exploração.
 
-Artigo VIII
-
-(Assembleia das Partes - Funcionamento)
+###### Artigo VIII — (Assembleia das Partes - Funcionamento)
 
 a) Na Assembleia das Partes, cada Parte terá direito a um voto. As Partes que se abstenham numa votação serão consideradas como não tendo votado.
 
@@ -1433,9 +1434,7 @@ iii) À representação e à acreditação;
 
 iv) Ao processo de votação.
 
-Artigo IX
-
-(Assembleia das Partes - Funções)
+###### Artigo IX — (Assembleia das Partes - Funções)
 
 a) A assembleia das Partes, que poderá tratar de todas as questões relativas à EUTELSAT que afectem os interesses das Partes, terá as seguintes funções:
 
@@ -1469,17 +1468,13 @@ b) A Assembleia das Partes exercerá qualquer outra função necessária à pros
 
 c) No exercício das suas funções, a Assembleia das Partes deverá ter em consideração todas as recomendações pertinentes do Conselho dos Signatários.
 
-Artigo X
-
-(Conselho dos Signatários - Composição)
+###### Artigo X — (Conselho dos Signatários - Composição)
 
 a) O Conselho dos Signatários será constituído por conselheiros. Cada conselheiro representará um signatário.
 
 b) Um signatário poderá fazer-se representar numa reunião do Conselho dos Signatários por um outro signatário, mas nenhum conselheiro poderá aí representar mais do que dois outros signatários.
 
-Artigo XI
-
-(Conselho dos Signatários - Funcionamento)
+###### Artigo XI — (Conselho dos Signatários - Funcionamento)
 
 a) Cada Signatário terá um voto ponderado correspondente à sua quota-parte de investimento, sob reserva da aplicação das disposições constantes dos parágrafos b), c) e d) do presente artigo. Os signatários que se abstenham numa votação serão considerados como não tendo votado.
 
@@ -1525,9 +1520,7 @@ i) O Conselho dos Signatários poderá criar comissões consultivas para o assis
 
 j) A primeira reunião do Conselho dos Signatários será convocada nos termos do parágrafo 1 do anexo A do Acordo de Exploração. A partir de então o Conselho dos Signatários reunirá sempre que necessário, mas, pelo menos, três vezes por ano.
 
-Artigo XII
-
-(Conselho dos Signatários - Funções)
+###### Artigo XII — (Conselho dos Signatários - Funções)
 
 a) O Conselho dos Signatários será responsável pela concepção, desenvolvimento, construção, estabelecimento, aquisição, por compra ou locação, exploração e manutenção do segmento espacial EUTELSAT e por todas as outras actividades que a EUTELSAT seja autorizada a empreender.
 
@@ -1583,9 +1576,7 @@ xxiv) A análise dos pedidos de adesão e a formulação das correspondentes rec
 
 c) No exercício das suas funções, o Conselho dos Signatários tomará na devida conta as recomendações e opiniões que lhe forem transmitidas pela Assembleia das Partes, ao abrigo do artigo IX da Convenção.
 
-Artigo XIII
-
-(Órgão executivo)
+###### Artigo XIII — (Órgão executivo)
 
 a) O órgão executivo será dirigido por um director-geral nomeado pelo Conselho dos Signatários, sob reserva de confirmação pelas Partes. O depositário notificará imediatamente a nomeação às Partes. A nomeação considerar-se-á confirmada se, no prazo de 60 dias a contar da notificação, mais de um terço das Partes não informarem por escrito o depositário de que se lhe opõem. Após a nomeação, o director-geral poderá assumir as suas funções na data fixada pelo Conselho dos Signatários, aguardando entretanto que a sua nomeação seja confirmada.
 
@@ -1605,9 +1596,7 @@ h) A consideração dominante na nomeação do director-geral e na dos outros fu
 
 i) O director-geral e o pessoal do órgão executivo deverá abster-se de qualquer actuação incompatível com as suas responsabilidades para com a EUTELSAT.
 
-Artigo XIV
-
-(Aquisições)
+###### Artigo XIV — (Aquisições)
 
 a) A política da EUTELSAT em matéria de aquisições deverá ser de molde a encorajar, no interesse da Organização, das Partes e dos signatários, a mais vasta concorrência possível no fornecimento de bens e de serviços, e será aplicada tendo em conta as disposições dos artigos 17 e 18 do Acordo de Exploração.
 
@@ -1615,9 +1604,7 @@ b) Salvo nos casos previstos no artigo 17 do Acordo de Exploração, a aquisiç�
 
 c) As adjudicações far-se-ão de acordo com o melhor interesse da EUTELSAT aos concorrentes que ofereçam a melhor combinação de qualidade, preço e prazo de entrega e outros critérios importantes para a EUTELSAT, entendendo-se que, se houver propostas que ofereçam idênticas combinações dos critérios acima mencionados, as adjudicações serão feitas tendo em consideração os interesses gerais e industriais das Partes.
 
-Artigo XV
-
-(Direitos e obrigações)
+###### Artigo XV — (Direitos e obrigações)
 
 a) As Partes e os signatários exercerão os direitos e assumirão as obrigações em conformidade com a Convenção, de modo a respeitarem plenamente e a promoverem os princípios e as disposições da Convenção.
 
@@ -1627,9 +1614,7 @@ c) Antes de se efectuar qualquer conferência ou reunião fora do país onde est
 
 d) Todas as Partes tomarão, se necessário, as medidas ao seu alcance para impedir a utilização, com o segmento espacial EUTELSAT, de estações terrenas que não respeitem as disposições do artigo 15 do Acordo de Exploração.
 
-Artigo XVI
-
-(Outros segmentos espaciais)
+###### Artigo XVI — (Outros segmentos espaciais)
 
 a) Qualquer Parte ou signatário que se proponha, ou tome conhecimento de que alguém, sob a jurisdição dessa Parte, se propõe, individual ou conjuntamente, estabelecer, adquirir ou utilizar equipamentos de segmento espacial distintos do segmento espacial EUTELSAT para satisfação de necessidades em matéria de serviços públicos de telecomunicações internacionais, no interior da zona de serviço do segmento espacial EUTELSAT, para prestar serviços de acordo com o disposto nos parágrafos a) e b) do artigo III da Convenção, deverá, antes do estabelecimento, aquisição ou utilização de tais equipamentos, fornecer todas as informações relevantes à Assembleia das Partes por intermédio do Conselho dos Signatários, o qual avaliará se existe possibilidade de daí advir prejuízo económico considerável para a EUTELSAT. O Conselho dos Signatários submeterá o seu relatório e conclusões à Assembleia das Partes.
 
@@ -1643,9 +1628,7 @@ i) Que façam ou possam vir a fazer parte do segmento espacial INTELSAT ou do se
 
 ii) Que sejam estabelecidos unicamente para fins de segurança nacional.
 
-Artigo XVII
-
-(Sede da EUTELSAT, privilégios, isenções, imunidades)
+###### Artigo XVII — (Sede da EUTELSAT, privilégios, isenções, imunidades)
 
 a) A sede da EUTELSAT será em Paris.
 
@@ -1653,9 +1636,7 @@ b) No âmbito das actividades autorizadas pela Convenção, a EUTELSAT e os seus
 
 c) Cada Parte concederá, em conformidade com o Protocolo referido neste parágrafo, os privilégios, isenções e imunidades apropriados à EUTELSAT, aos seus funcionários superiores e às categorias do seu pessoal especificadas naquele Protocolo, às Partes e aos representantes das Partes, aos signatários e aos representantes dos signatários e às pessoas que participem nos processos de arbitragem. Em particular, cada Parte concederá às pessoas acima referidas, nos casos e com os limites previstos no Protocolo referido neste parágrafo, imunidade de jurisdição em relação aos actos que praticarem ou às opiniões que emitirem, oralmente ou por escrito, no exercício das suas funções e dentro das suas atribuições. A Parte em cujo território se situar a sede da EUTELSAT concluirá, logo que possível, um Acordo de Sede com a EUTELSAT relativo a esses privilégios, isenções e imunidades. O Acordo de Sede conterá uma disposição isentando todos os signatários, actuando nessa qualidade, excepto o signatário designado pela Parte em cujo território se situar a sede da EUTELSAT, de quaisquer impostos sobre as importâncias recebidas da EUTELSAT no território daquela Parte. As outras Partes deverão também, logo que possível, concluir um protocolo relativo aos privilégios, isenções e imunidades. O Acordo de Sede e o Protocolo serão independentes da presente Convenção e cada um deles deverá prever as condições em que cessa a sua vigência.
 
-Artigo XVIII
-
-(Retirada e suspensão)
+###### Artigo XVIII — (Retirada e suspensão)
 
 a):
 
@@ -1703,9 +1684,7 @@ f) Qualquer notificação de retirada e qualquer decisão que tenha por efeito a
 
 g) Nada no presente artigo poderá privar uma Parte ou um Signatário de qualquer direito, adquirido nessa qualidade, que, após a data em que a retirada produzir efeitos, se deva manter e pelo qual não tenha recebido qualquer compensação em conformidade com o presente artigo.
 
-Artigo XIX
-
-(Alterações)
+###### Artigo XIX — (Alterações)
 
 a) Qualquer Parte poderá propor alterações à Convenção. As propostas de alteração serão comunicadas ao director-geral que as fará circular prontamente por todas as Partes e Signatários. Só 3 meses após a apresentação de uma proposta de alteração esta poderá ser analisada pelo Conselho dos Signatários, que submeterá as suas opiniões e recomendações à Assembleia das Partes no prazo de 6 meses a contar da data da divulgação da proposta de alteração. A apreciação pela Assembleia das Partes da proposta de alteração só poderá ser feita 6 meses após a data da sua recepção, tendo em consideração as opiniões e recomendações do Conselho dos Signatários. Em casos especiais, este prazo poderá ser reduzido por decisão da Assembleia das Partes tomada em conformidade com o procedimento previsto para as questões de fundo.
 
@@ -1713,9 +1692,7 @@ b) Se for adoptada pela Assembleia das Partes, a alteração entrará em vigor 1
 
 c) Uma alteração não poderá entrar em vigor antes de 8 meses após a data em que tiver sido adoptada pela Assembleia das Partes. Uma alteração que não tenha entrado em vigor, em conformidade com o parágrafo b) do presente artigo, 18 meses após a data em que tiver sido aprovada pela Assembleia das Partes será considerada nula e de nenhum efeito.
 
-Artigo XX
-
-(Solução de diferendos)
+###### Artigo XX — (Solução de diferendos)
 
 a) Qualquer diferendo que surja entre as Partes ou entre a EUTELSAT e uma ou mais Partes, relativamente à interpretação ou aplicação da Convenção, do parágrafo c) do artigo 15 ou do parágrafo c) do artigo 16 do Acordo de Exploração, será submetido a arbitragem, em conformidade com as disposições do anexo B à Convenção, se não for solucionado de outro modo no prazo de 1 ano a contar da data em que uma das partes no diferendo tiver notificado a outra parte da sua intenção de solucionar esse diferendo amigavelmente. Qualquer diferendo semelhante relativo à interpretação ou aplicação da Convenção ou do Acordo de Exploração entre uma ou mais Partes, por um lado, e um ou mais Signatários, por outro, poderá ser submetido a arbitragem, nos termos do anexo B à Convenção, se a Parte ou Partes e o Signatário ou Signatários em litígio nisso estiverem de acordo.
 
@@ -1725,9 +1702,7 @@ c) A solução de qualquer diferendo relativo à interpretação ou aplicação 
 
 Na ausência de tais disposições, tais diferendos, se não tiverem sido solucionados de outro modo, poderão ser submetidos a arbitragem, em conformidade com as disposições do anexo B à Convenção, se as partes no diferendo nisso concordarem.
 
-Artigo XXI
-
-(Assinatura - Reservas)
+###### Artigo XXI — (Assinatura - Reservas)
 
 a) Qualquer Estado cuja administração de telecomunicações ou exploração privada reconhecida seja, ou tenha o direito de se tornar, Parte signatária do Acordo Provisório poderá tornar-se Parte na Convenção através de:
 
@@ -1743,9 +1718,7 @@ c) Nenhum Estado poderá tornar-se Parte na Convenção antes de o Acordo de Exp
 
 d) Nenhuma reserva poderá ser feita à Convenção ou ao Acordo de Exploração.
 
-Artigo XXII
-
-(Entrada em vigor)
+###### Artigo XXII — (Entrada em vigor)
 
 a) A Convenção entrará em vigor 60 dias após a data da assinatura, em conformidade com a alínea i) do parágrafo a) do artigo XXI da Convenção, ou da sua ratificação, aceitação ou aprovação por dois terços dos Estados que, na data em que tiver sido aberta para assinatura, tiverem jurisdição sobre as Partes signatárias do Acordo Provisório, desde que:
 
@@ -1771,9 +1744,7 @@ e) Não obstante as disposiçõões deste artigo, a Convenção não entrará em
 
 f) Quando da sua entrada em vigor, a Convenção substituirá e fará cessar a vigência do Acordo Provisório. Contudo, nenhuma disposição da Convenção ou do Acordo de Exploração afectará qualquer direito ou obrigação que uma Parte ou um signatário tenha adquirido anteriormente, na sua qualidade de Parte signatária do Acordo Provisório ou de signatário do Acordo ECS.
 
-Artigo XXIII
-
-(Adesão)
+###### Artigo XXIII — (Adesão)
 
 a) Qualquer Estado cuja administração de telecomunicações ou exploração privada reconhecida fosse, ou tivesse o direito de se tornar, Parte signatária do Acordo Provisório, na data em que a Convenção for aberta à assinatura, poderá aderir à Convenção a partir da data em que esta deixar de estar aberta à assinatura, até ao termo de um prazo de 2 anos após a sua entrada em vigor.
 
@@ -1793,15 +1764,11 @@ A decisão da Assembleia das Partes será tomada por voto secreto e em conformid
 
 f) O director-geral notificará o Estado candidato das condições de adesão estabelecidas pela Assembleia das Partes, as quais serão objecto de um protocolo a anexar ao instrumento de adesão que o referido Estado depositar junto do depositário.
 
-Artigo XXIV
-
-(Responsabilidade)
+###### Artigo XXIV — (Responsabilidade)
 
 Nenhuma Parte será individualmente responsável pelos actos e obrigações da EUTELSAT, excepto se tal responsabilidade decorrer de um tratado no qual essa Parte e o Estado que reclame o pagamento de uma compensação sejam partes. Neste caso, a EUTELSAT indemnizará a referida Parte desse pagamento, a menos que esta se tenha expressamente comprometido a assumir sozinha essa responsabilidade.
 
-Artigo XXV
-
-(Disposições diversas)
+###### Artigo XXV — (Disposições diversas)
 
 a) As línguas oficiais e de trabalho da EUTELSAT serão o inglês e o francês.
 
@@ -1809,9 +1776,7 @@ b) A EUTELSAT, tendo em consideração as orientações de carácter geral da As
 
 c) Em cumprimento das disposições da Resolução 1721 (XVI) da Assembleia Geral das Nações Unidas, a EUTELSAT enviará ao Secretário-Geral das Nações Unidas e às agências especializadas interessadas um relatório anual sobre as suas actividades, para informação.
 
-Artigo XXVI
-
-(Depositário)
+###### Artigo XXVI — (Depositário)
 
 a) O Governo da República Francesa será o depositário da Convenção, junto do qual serão depositados os instrumentos de ratificação, aceitação, aprovação ou adesão, os pedidos de aplicação a título provisório bem como as notificações de ratificação, aceitação ou aprovação de alterações, de decisões de retirada da EUTELSAT ou de decisões de pôr termo à aplicação provisória da Convenção.
 

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 50/1981, 1º Suplemento, Série I de 1981-02-28
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 568-(3) a 568-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/05001/00030003.pdf
 entry_into_force_dates: []
@@ -49,36 +49,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-1981-273071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79be10f491316c5a03aeed56f7871f32ce852c92adc88c4712466c8a2b9cf977
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f098848f3d6858480175702181ec82c3dd01f04a8c7eb07666f5971af2b6ee8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Contribuição Industrial
+- Contribuição Industrial
+relationships:
+- type: cites
+  target: pt:dre:226586:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:37Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +99,22 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A escrituração dos livros referidos nos artigos 133.º e 133.º-A do Código da Contribuição Industrial poderá iniciar-se, no corrente ano, até 1 de Abril.
+Artigo 1.º - 1 - A escrituração dos livros referidos nos artigos 133.º e 133.º-A do Código da Contribuição Industrial poderá iniciar-se, no corrente ano, até 1 de Abril.
 
 2 - Relativamente aos livros mencionados nas alíneas a) e b) do artigo 133.º, os contribuintes devem escriturar os livros que vinham sendo utilizados até à data em que iniciem a escrituração nos novos livros, nos termos do número anterior.
 
 3 - O primeiro lançamento a efectuar nos livros a que se refere o n.º 1 poderá englobar todo o movimento realizado desde 1 de Janeiro de 1981 até à data do início da escrituração nos mesmos, devendo o primeiro registo no livro a que alude a alínea d) do artigo 133.º do mencionado Código reportar-se às existências em 31 de Dezembro de 1980.
 
-###### Art. 2.º A declaração modelo n.º 5 a que se refere o artigo 60.º do Código da Contribuição Industrial poderá ser apresentada, no corrente ano, até 28 de Fevereiro.
+Art. 2.º A declaração modelo n.º 5 a que se refere o artigo 60.º do Código da Contribuição Industrial poderá ser apresentada, no corrente ano, até 28 de Fevereiro.
 
-###### Art. 3.º Por infracções ao disposto nos artigos 133.º e 133.º-A do Código da Contribuição Industrial, na redacção que lhes foi dada pelo [Decreto-Lei n.º 577/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1980-226586), de 31 de Dezembro, cometidas durante o ano de 1981, só poderão ser levantados autos de notícia com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgar ter havido culpa grave.
+Art. 3.º Por infracções ao disposto nos artigos 133.º e 133.º-A do Código da Contribuição Industrial, na redacção que lhes foi dada pelo [Decreto-Lei n.º 577/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1980-226586), de 31 de Dezembro, cometidas durante o ano de 1981, só poderão ser levantados autos de notícia com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgar ter havido culpa grave.
 
-###### Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Fevereiro de 1981.**
+Promulgado em 25 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47952-1967-391416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1c83d5b9af505ba21115ebd7400acffa93feba0ab82f17d70c98c157131ad17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff134b73655cd7258919a4dbee32f6f217651a9ef432a3f2fdd941cfda64a160
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Registo Automóvel
 relationships:
 - type: amended_by
   target: pt:dre:468073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistia as contravenções, não causais de acidentes, contidas no art. 11º do presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA,\
+    \ DG.IS [294] de 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:51Z'
   warnings: []
   errors: []
 ---
@@ -88,27 +99,27 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O registo de automóveis tem essencialmente por fim individualizar os respectivos proprietários e, em geral, dar publicidade aos direitos inerentes aos veículos automóveis.
+Artigo 1.º O registo de automóveis tem essencialmente por fim individualizar os respectivos proprietários e, em geral, dar publicidade aos direitos inerentes aos veículos automóveis.
 
-###### Art. 2.º - 1. Para efeito de registo, são considerados veículos automóveis apenas os veículos como tais definidos pelo Código da Estrada, que tenham matrícula atribuída pelas direcções de viação, exceptuados os ciclomotores.
+Art. 2.º - 1. Para efeito de registo, são considerados veículos automóveis apenas os veículos como tais definidos pelo Código da Estrada, que tenham matrícula atribuída pelas direcções de viação, exceptuados os ciclomotores.
 
 2. Os veículos com matrícula provisória só podem ser objecto de registo de propriedade.
 
 3. Os negócios jurídicos que tenham por objecto veículos automóveis abrangem, salva declaração em contrário, os aparelhos sobresselentes e as instalações ou objectos acessórios existentes no veículo, sejam ou não indispensáveis ao seu funcionamento.
 
-###### Art. 3.º - 1. As direcções de viação comunicarão à conservatória competente todos os cancelamentos de matrícula que efectuarem, bem como a sua reposição.
+Art. 3.º - 1. As direcções de viação comunicarão à conservatória competente todos os cancelamentos de matrícula que efectuarem, bem como a sua reposição.
 
 2. Os registos efectuados posteriormente ao cancelamento da matrícula do veículo são nulos.
 
 3. O cancelamento da matrícula feito pelas direcções de viação não prejudica os registos que estiverem em vigor sobre o veículo.
 
-###### Art. 4.º - 1. Os veículos automóveis podem constituir objecto de hipotecas legais, judiciais ou voluntárias.
+Art. 4.º - 1. Os veículos automóveis podem constituir objecto de hipotecas legais, judiciais ou voluntárias.
 
 2. Às hipotecas sobre veículos automóveis são aplicáveis as disposições relativas à hipoteca de imóveis, salvas as modificações do presente diploma.
 
 3. A constituição de hipoteca pode ser efectuada por meio de documento particular, com a intervenção de duas testemunhas e o reconhecimento presencial das assinaturas que nele forem apostas.
 
-###### Art. 5.º - 1. Estão sujeitos a registo:
+Art. 5.º - 1. Estão sujeitos a registo:
 
 a) O direito de propriedade e de usufruto;
 
@@ -132,7 +143,7 @@ i) Quaisquer outros factos jurídicos que o Código Civil especialmente declare 
 
 3. Na falta de registo, quando obrigatório, as autoridades a quem compete a fiscalização das leis do trânsito devem apreender o veículo, e os respectivos documentos que serão remetidos à conservatória, onde ficarão até que o registo seja requerido.
 
-###### Art. 6.º Estão igualmente sujeitas a registo:
+Art. 6.º Estão igualmente sujeitas a registo:
 
 a) As acções que tenham por fim principal ou acessório o reconhecimento, modificação ou extinção de algum dos direitos referidos no artigo anterior;
 
@@ -140,11 +151,11 @@ b) As acções que tenham por fim principal ou acessório a reforma, a declaraç
 
 c) As decisões finais das acções abrangidas nas alíneas anteriores, logo que transitem em julgado.
 
-###### Art. 7.º A propriedade e o usufruto dos veículos automóveis, as suas transmissões, bem como a reserva de propriedade não podem ser objecto de registo provisório.
+Art. 7.º A propriedade e o usufruto dos veículos automóveis, as suas transmissões, bem como a reserva de propriedade não podem ser objecto de registo provisório.
 
-###### Art. 8.º Os veículos automóveis não podem ser objecto de penhor.
+Art. 8.º Os veículos automóveis não podem ser objecto de penhor.
 
-###### Art. 9.º - 1. A cada veículo automóvel corresponde um título de registo de propriedade.
+Art. 9.º - 1. A cada veículo automóvel corresponde um título de registo de propriedade.
 
 2. No título serão anotados os registos de propriedade, de reserva de propriedade, de usufruto e de hipoteca, bem como a inscrição dos factos jurídicos a que se refere a alínea i) do n.º 1 do artigo 5.º
 
@@ -152,33 +163,33 @@ c) As decisões finais das acções abrangidas nas alíneas anteriores, logo que
 
 4. Quando tenha conhecimento de que as anotações do título estão desactualizadas, o conservador pode notificar o seu portador para o apresentar na conservatória, dentro do prazo que lhe for designado, sob pena de se sujeitar às sanções aplicáveis ao crime de desobediência.
 
-###### Art. 10.º As direcções de viação, sempre que procedam à substituição ou à passagem de duplicados de antigos livretes de circulação, enviarão o novo exemplas à conservatória competente, para fins de passagem do respectivo título de registo.
+Art. 10.º As direcções de viação, sempre que procedam à substituição ou à passagem de duplicados de antigos livretes de circulação, enviarão o novo exemplas à conservatória competente, para fins de passagem do respectivo título de registo.
 
-###### Art. 11.º O título de registo deve acompanhar sempre o veículo, sob pena de o transgressor incorrer nas sanções aplicáveis às faltas correspondentes, quanto ao livrete.
+Art. 11.º O título de registo deve acompanhar sempre o veículo, sob pena de o transgressor incorrer nas sanções aplicáveis às faltas correspondentes, quanto ao livrete.
 
-###### Art. 12.º Quem prestar declarações falsas ou inexactas para obter a emissão de duplicado do título de registo extraviado ou destruído responde pelos danos a que der causa, incorrendo, além disso, se agir com dolo, nas sanções aplicáveis ao crime de falsas declarações.
+Art. 12.º Quem prestar declarações falsas ou inexactas para obter a emissão de duplicado do título de registo extraviado ou destruído responde pelos danos a que der causa, incorrendo, além disso, se agir com dolo, nas sanções aplicáveis ao crime de falsas declarações.
 
-###### Art. 13.º - 1. Vencido e não pago o crédito hipotecário inscrito, o credor pode requerer em juízo a apreensão do veículo.
+Art. 13.º - 1. Vencido e não pago o crédito hipotecário inscrito, o credor pode requerer em juízo a apreensão do veículo.
 
 2. O requerente exporá na petição o fundamento do pedido e indicará a providência requerida, devendo a sua assinatura ser reconhecida por notário.
 
 3. A petição será instruída com certidão dos encargos registados sobre o veículo e do documento que serviu de base ao registo da hipoteca.
 
-###### Art. 14.º - 1. Provado o registo e o vencimento do crédito, o juiz ordenará a imediata apreensão do veículo e dos respectivos documentos.
+Art. 14.º - 1. Provado o registo e o vencimento do crédito, o juiz ordenará a imediata apreensão do veículo e dos respectivos documentos.
 
 2. Se não for possível encontrar os documentos no acto da apreensão do veículo, o requerido será notificado para os apresentar em juízo, no prazo que lhe for designado, sob a sanção cominada para os crimes de desobediência qualificada.
 
-###### Art. 15.º - 1. A apreensão do veículo pode ser realizada directamente pelo tribunal ou, a requisição deste, pelas autoridades administrativas ou policiais.
+Art. 15.º - 1. A apreensão do veículo pode ser realizada directamente pelo tribunal ou, a requisição deste, pelas autoridades administrativas ou policiais.
 
 2. A autoridade que efectuar a apreensão fará recolher a viatura a uma garagem ou a outro local apropriado, onde ficará depositada à ordem da tribunal, e nomeará fiel depositário, lavrando-se auto da ocorrência.
 
 3. Do auto de apreensão, logo após a sua junção ao processo e independentemente de despacho, deve o escrivão enviar certidão à conservatória, para fins de averbamento oficioso.
 
-###### Art. 16.º - 1. Dentro de quinze dias, a contar da data da apreensão, o credor deve promover a venda do veículo apreendido, pelo processo de execução ou de venda de penhor, regulado na lei de processo civil, conforme haja ou não lugar a concurso de credores.
+Art. 16.º - 1. Dentro de quinze dias, a contar da data da apreensão, o credor deve promover a venda do veículo apreendido, pelo processo de execução ou de venda de penhor, regulado na lei de processo civil, conforme haja ou não lugar a concurso de credores.
 
 2. O processo de apreensão deve ser apensado à acção, logo que esta seja intentada.
 
-###### Art. 17.º - 1. A apreensão fica sem efeito nos seguintes casos:
+Art. 17.º - 1. A apreensão fica sem efeito nos seguintes casos:
 
 a) Se o requerente não propuser a acção dentro do prazo legal, ou se, tendo-a proposto, o processo estiver parado durante mais de 30 dias, por negligência sua em promover os respectivos termos;
 
@@ -190,51 +201,51 @@ c) Se o requerido provar o pagamento da dívida.
 
 3. O levantamento da apreensão será comunicado à conservatória, para que oficiosamente efectue o averbamento devido.
 
-###### Art. 18.º O requerente da apreensão responde pelos danos a que der causa, se a apreensão vier a ser julgada insubsistente, por ter havido, da sua parte, intencional ocultação da verdade ou deturpação dos factos.
+Art. 18.º O requerente da apreensão responde pelos danos a que der causa, se a apreensão vier a ser julgada insubsistente, por ter havido, da sua parte, intencional ocultação da verdade ou deturpação dos factos.
 
-###### Art. 19.º O processo de apreensão e as acções relativas a veículos automóveis são da competência do tribunal da comarca em cuja área se situa a residência habitual ou sede do proprietário.
+Art. 19.º O processo de apreensão e as acções relativas a veículos automóveis são da competência do tribunal da comarca em cuja área se situa a residência habitual ou sede do proprietário.
 
-###### Art. 20.º - 1. A penhora ou arresto do veículo automóvel determina a apreensão dos respectivos documentos.
+Art. 20.º - 1. A penhora ou arresto do veículo automóvel determina a apreensão dos respectivos documentos.
 
 2. É aplicável à apreensão dos documentos o disposto no n.º 2 do artigo 14.º
 
-###### Art. 21.º - 1. A apreensão, a penhora e o arresto envolvem a proibição de o veículo circular.
+Art. 21.º - 1. A apreensão, a penhora e o arresto envolvem a proibição de o veículo circular.
 
 2. A circulação do veículo com infracção da proibição legal sujeita o depositário às sanções aplicáveis ao crime de desobediência qualificada.
 
-###### Art. 22.º Nenhum veículo automóvel pode atravessar a fronteira da metrópole, quer do continente, quer das ilhas adjacentes, com destino ao estrangeiro ou ao ultramar português, sem que seja exibido, às estâncias alfandegárias do respectivo posto, o título de registo.
+Art. 22.º Nenhum veículo automóvel pode atravessar a fronteira da metrópole, quer do continente, quer das ilhas adjacentes, com destino ao estrangeiro ou ao ultramar português, sem que seja exibido, às estâncias alfandegárias do respectivo posto, o título de registo.
 
-###### Art. 23.º - 1. Se o veículo estiver sujeito a algum encargo, não poderá transpor a fronteira sem que se mostre prestada caução que garanta o cumprimento dele, salvo se o titular do respectivo direito a dispensar.
+Art. 23.º - 1. Se o veículo estiver sujeito a algum encargo, não poderá transpor a fronteira sem que se mostre prestada caução que garanta o cumprimento dele, salvo se o titular do respectivo direito a dispensar.
 
 2. A caução será prestada nos termos previstos na lei de processo civil, devendo a sua dispensa constar de documento autêntico ou autenticado.
 
 3. A caução a que se refere o n.º 1 deste artigo presume-se prestada ou dispensada pelo credor, sempre que o condutor do veículo esteja munido de caderneta de passagem nas alfândegas, do modelo internacional em uso, emitida pelo Automóvel Clube de Portugal.
 
-###### Art. 24.º São reconhecidas para todos os efeitos as hipotecas legais por venda a prazo, registadas sobre veículos automóveis anteriormente a 1 de Junho de 1967.
+Art. 24.º São reconhecidas para todos os efeitos as hipotecas legais por venda a prazo, registadas sobre veículos automóveis anteriormente a 1 de Junho de 1967.
 
-###### Art. 25.º - 1. Por cada verbete destinado a actos de registo é devido o imposto do selo, a que se refere o artigo 109 da tabela geral do imposto do selo.
+Art. 25.º - 1. Por cada verbete destinado a actos de registo é devido o imposto do selo, a que se refere o artigo 109 da tabela geral do imposto do selo.
 
 2. O imposto do selo correspondente a cada verbete é pago por meio de guia passada em duplicado, em papel isento de selo, nos três primeiros dias úteis da semana seguinte àquela em que no verbete seja lavrada a primeira inscrição.
 
 3. Os verbetes serão individualizados, na guia de pagamento do respectivo selo, mediante a menção da matrícula dos veículos a que respeitem.
 
-###### Art. 26.º São aplicáveis ao registo de automóveis, com as necessárias adaptações, as disposições relativas ao registo predial, em tudo quanto for compatível com a especial natureza dos veículos automóveis, e ressalvadas as disposições deste diploma e do respectivo regulamento.
+Art. 26.º São aplicáveis ao registo de automóveis, com as necessárias adaptações, as disposições relativas ao registo predial, em tudo quanto for compatível com a especial natureza dos veículos automóveis, e ressalvadas as disposições deste diploma e do respectivo regulamento.
 
-###### Art. 27.º - 1. Pelos actos praticados nas conservatórias do registo de automóveis serão cobrados os emolumentos e as taxas constantes da tabela anexa, salvos os casos de gratuitidade ou de isenção previstos na lei.
+Art. 27.º - 1. Pelos actos praticados nas conservatórias do registo de automóveis serão cobrados os emolumentos e as taxas constantes da tabela anexa, salvos os casos de gratuitidade ou de isenção previstos na lei.
 
 2. Os emolumentos e as taxas constantes da tabela a que se refere o número anterior para a extracção de fotocópias serão também cobrados nas conservatórias do registo predial, por idêntico serviço.
 
-###### Art. 28.º O presente diploma entra em vigor quinze dias após a data da sua publicação.
+Art. 28.º O presente diploma entra em vigor quinze dias após a data da sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Tabela de emolumentos do registo de automóveis
 
-###### Artigo 1.º Por cada nota de apresentação no «Diário» ... 10$00
+Artigo 1.º Por cada nota de apresentação no «Diário» ... 10$00
 
-###### Art. 2.º - 1. Por cada inscrição de propriedade, usufruto ou de reserva de propriedade e suas transmissões:
+Art. 2.º - 1. Por cada inscrição de propriedade, usufruto ou de reserva de propriedade e suas transmissões:
 
 a) De automóveis pesados ... 300$00
 
@@ -244,31 +255,31 @@ c) De motocicletas ... 150$00
 
 2. O emolumento devido pelas inscrições a que se refere o número anterior será contado pelo dobro, quando o registo for requerido fora do prazo.
 
-###### Art. 3.º - 1. Por cada inscrição diversa das previstas no artigo anterior ... 50$00
+Art. 3.º - 1. Por cada inscrição diversa das previstas no artigo anterior ... 50$00
 
 2. Sendo a inscrição de valor determinado, acrescem, sobre o total do valor, por cada 1000$00 ou fracção ... 3$00
 
-###### Art. 4.º - 1. Por cada averbamento de cancelamento, pelos de penhor, penhora ou arresto de créditos inscritos, e pelos de cessão ou transmissão de direitos inscritos serão devidos os emolumentos do artigo 3.º reduzidos a metade.
+Art. 4.º - 1. Por cada averbamento de cancelamento, pelos de penhor, penhora ou arresto de créditos inscritos, e pelos de cessão ou transmissão de direitos inscritos serão devidos os emolumentos do artigo 3.º reduzidos a metade.
 
 2. Nos cancelamentos parciais, referentes a parte do valor da inscrição, o emolumento variável será calculado tomando-se por base o valor cancelado.
 
 3. Se o cancelamento parcial respeitar apenas a algum dos veículos sobre que incide a inscrição e não afectar o valor desta, não será devido emolumento variável, mas o emolumento fixo será cobrado por inteiro.
 
-###### Art. 5.º Por qualquer averbamento, excluídos os referidos no artigo anterior, e por cada anotação de alteração dos elementos de identificação do proprietário inscrito, ou de mudança de residência habitual ou sede ... 25$00
+Art. 5.º Por qualquer averbamento, excluídos os referidos no artigo anterior, e por cada anotação de alteração dos elementos de identificação do proprietário inscrito, ou de mudança de residência habitual ou sede ... 25$00
 
-###### Art. 6.º - 1. Por cada certificado, certidão ou fotocópia ... 30$00
+Art. 6.º - 1. Por cada certificado, certidão ou fotocópia ... 30$00
 
 2. Se o certificado, a certidão ou fotocópia ocupar mais de uma página, por cada página ou fracção a mais acrescem ... 5$00
 
-###### Art. 7.º - 1. Por cada nota de registo ... 10$00
+Art. 7.º - 1. Por cada nota de registo ... 10$00
 
 2. Ao emolumento correspondente à nota de registo passada em impresso fornecido pelo Cofre dos Conservadores, Notários e Funcionários de Justiça acresce o preço do impresso.
 
-###### Art. 8.º - 1. Pela emissão do título de registo de propriedade será apenas cobrado o custo do impresso.
+Art. 8.º - 1. Pela emissão do título de registo de propriedade será apenas cobrado o custo do impresso.
 
 2. Pela emissão de novo título em substituição de exemplar deteriorado, destruído ou extraviado, ao custo do impresso acresce o emolumento de 50$00
 
-###### Art. 9.º Por cada informação dada por escrito:
+Art. 9.º Por cada informação dada por escrito:
 
 a) Em relação a um só veículo ... 10$00
 
@@ -276,31 +287,31 @@ b) De cada veículo a mais ... 5$00
 
 c) Não sendo relativa a veículos ... 20$00
 
-###### Art. 10.º - 1. Para cálculo do emolumento a que se refere o n.º 2 do artigo 3.º, na determinação do valor de hipoteca relativa a crédito que vença juros, serão considerados os juros de três anos.
+Art. 10.º - 1. Para cálculo do emolumento a que se refere o n.º 2 do artigo 3.º, na determinação do valor de hipoteca relativa a crédito que vença juros, serão considerados os juros de três anos.
 
 2. As despesas de cobrança ou outros encargos acessórios, diversos do previsto no número anterior, não serão consideradas para fins de determinação de valor do direito inscrito.
 
-###### Art. 11.º - 1. Recaindo o registo sobre veículos que não pertençam à mesma conservatória, e não se designando a quota-parte do valor do acto correspondente a cada veículo, será o valor total dividido igualmente por todos eles, de modo que cada conservatória liquide o emolumento do n.º 2 do artigo 3.º na proporção do número dos veículos que lhe pertencer.
+Art. 11.º - 1. Recaindo o registo sobre veículos que não pertençam à mesma conservatória, e não se designando a quota-parte do valor do acto correspondente a cada veículo, será o valor total dividido igualmente por todos eles, de modo que cada conservatória liquide o emolumento do n.º 2 do artigo 3.º na proporção do número dos veículos que lhe pertencer.
 
 2. Se o registo for lavrado por averbamento, a divisão prevista no número anterior só terá lugar se for junto documento comprovativo de o facto que deu lugar à inscrição a que o averbamento se reporta ter sido registado sobre todos os veículos.
 
-###### Art. 12.º O emolumento devido pelo registo em que o valor seja representado em moeda estrangeira será calculado pelo câmbio da véspera do dia da apresentação.
+Art. 12.º O emolumento devido pelo registo em que o valor seja representado em moeda estrangeira será calculado pelo câmbio da véspera do dia da apresentação.
 
-###### Art. 13.º O imposto do selo devido por certificados, certidões, fotocópias ou notas de registo será pago, em separado, pelas partes.
+Art. 13.º O imposto do selo devido por certificados, certidões, fotocópias ou notas de registo será pago, em separado, pelas partes.
 
-###### Art. 14.º Para reembolso das despesas referidas no artigo 49.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, e do imposto do selo correspondente aos livros ou verbetes a ele sujeitos, serão cobradas as taxas seguintes:
+Art. 14.º Para reembolso das despesas referidas no artigo 49.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, e do imposto do selo correspondente aos livros ou verbetes a ele sujeitos, serão cobradas as taxas seguintes:
 
 a) Por cada registo ... 2$00
 
 b) Por cada fotocópia ... 5$00
 
-###### Art. 15.º - 1. Para reembolso das despesas de expediente relativas a serviços requisitados por correspondência, o conservador pode cobrar a taxa, não registável, de 3$00.
+Art. 15.º - 1. Para reembolso das despesas de expediente relativas a serviços requisitados por correspondência, o conservador pode cobrar a taxa, não registável, de 3$00.
 
 2. O disposto no número anterior é aplicável quer na conservatória intermediária, quer na conservatória competente para a realização do serviço requisitado.
 
-###### Art. 16.º O total da conta dos emolumentos será sempre, arredondado, por excesso, em escudos.
+Art. 16.º O total da conta dos emolumentos será sempre, arredondado, por excesso, em escudos.
 
-###### Art. 17.º - 1. A presente tabela não admite qualquer interpretação extensiva, ainda que haja identidade ou maioria de razão.
+Art. 17.º - 1. A presente tabela não admite qualquer interpretação extensiva, ainda que haja identidade ou maioria de razão.
 
 2. No caso de dúvida sobre se é devido um ou outro emolumento, cobrar-se-á sempre o menor.
 

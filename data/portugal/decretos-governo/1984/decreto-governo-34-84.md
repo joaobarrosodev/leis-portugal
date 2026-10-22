@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/34-1984-385590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c69de673054b3dd490de0c0f6f0b7f57b1c0f3b9f2b4916faab9ed862ff3eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a58fb31e801107a97c92c69ebf39dc2adb20d2ee91464ac1a7adec17454ce22b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Metrologia
+- Organização Internacional de Metrologia Legal
+- Paris
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:01Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 11 de Julho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção que instituiu a Organização Internacional de Metrologia Legal, assinada em Paris em 12 de Outubro de 1955, cujos textos em francês e português vão anexos ao presente decreto.
+Artigo único. É aprovada para adesão a Convenção que instituiu a Organização Internacional de Metrologia Legal, assinada em Paris em 12 de Outubro de 1955, cujos textos em francês e português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1984. - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Assinado em 27 de Junho de 1984.**
+Assinado em 27 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Junho de 1984.**
+Referendado em 27 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENTION INSTITUANT UNE ORGANISATION INTERNATIONALE DE MÉTROLOGIE LÉGALE
 
@@ -533,7 +538,7 @@ Os Estados partes na presente Convenção, desejando resolver no plano internaci
 
 ## TÍTULO I — Objectivo da Organização
 
-ARTIGO I
+###### ARTIGO I
 
 É instituída uma Organização Internacional de Metrologia Legal.
 
@@ -561,11 +566,11 @@ Por outro lado, sobre os referidos instrumentos de medição, considerados do po
 
 ## TÍTULO II — Constituição da Organização
 
-ARTIGO II
+###### ARTIGO II
 
 São membros da Organização os Estados partes na presente Convenção.
 
-ARTIGO III
+###### ARTIGO III
 
 A Organização compreende:
 
@@ -579,7 +584,7 @@ de que a seguir se trata.
 
 Conferência Internacional da Metrologia Legal
 
-ARTIGO IV
+###### ARTIGO IV
 
 A Conferência tem por objectivo:
 
@@ -591,7 +596,7 @@ A Conferência tem por objectivo:
 
 Todas as questões respeitantes à legislação e à administração próprias de um Estado particular são excluídas do âmbito da Conferência, salvo pedido expresso por parte desse Estado.
 
-ARTIGO V
+###### ARTIGO V
 
 Os Estados partes na presente Convenção fazem parte da Conferência a título de membros, nela são representados como previsto no artigo VII e estão submetidos às obrigações definidas pela Convenção.
 
@@ -605,11 +610,11 @@ Os correspondentes não são representados na Conferência mas podem enviar obse
 
 Não estão obrigados a pagar as quotizações dos Estados membros, mas devem suportar os custos dos serviços que podem solicitar e os custos de assinatura das publicações da Organização.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os Estados membros comprometem-se a fornecer à Conferência toda a documentação na sua posse que, em sua opinião, possa permitir à Organização o êxito das tarefas que lhe incumbem.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Os Estados membros delegam às reuniões da Conferência representantes oficiais, num máximo de 3. Sempre que possível, um deles deve ser, no seu país, funcionário ainda em actividade do Serviço de Pesos e Medidas ou de outro serviço que se ocupe de metrologia legal.
 
@@ -621,7 +626,7 @@ Cada Estado suporta os encargos relativos à sua representação no seio da Conf
 
 Os membros do Comité que não sejam delegados pelo seu Governo têm o direito de participar nas reuniões com voto consultivo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 A Conferência decide as recomendações a fazer para uma acção comum dos Estados membros nos domínios designados no artigo I.
 
@@ -635,17 +640,17 @@ Os Estados membros tomam o compromisso moral de aplicar estas decisões, em toda
 
 Todavia, para as votações referentes à organização, gestão, administração e regulamento interno da Conferência, do Comité e do Bureau, e a qualquer outra questão análoga, a maioria absoluta é suficiente para tornar imediatamente executória a decisão em causa, sendo o número mínimo de membros presentes e o dos votos expressos os mesmos que anteriormente foram mencionados. O voto do Estado membro cujo delegado ocupar a presidência é preponderante em caso de empate.
 
-ARTIGO IX
+###### ARTIGO IX
 
 A Conferência elege no seu seio, para cada uma das sessões, 1 presidente e 2 vice-presidentes, aos quais ficará adjunto, a título de secretário, o director do Bureau.
 
-ARTIGO X
+###### ARTIGO X
 
 A Conferência reúne, pelo menos, de 6 em 6 anos, por convocação do presidente do Comité ou, no seu impedimento, do director do Bureau se a este for presente um pedido emanado de, pelo menos, metade dos membros do Comité.
 
 No decorrer dos trabalhos, a Conferência marca a data e o local da reunião seguinte ou delega no Comité para este efeito.
 
-ARTIGO XI
+###### ARTIGO XI
 
 A língua oficial da Organização é a língua francesa.
 
@@ -653,11 +658,11 @@ A Conferência poderá, no entanto, prever a utilização de uma ou de várias o
 
 Comité Internacional de Metrologia Legal
 
-ARTIGO XII
+###### ARTIGO XII
 
 As tarefas previstas no artigo I são empreendidas e prosseguidas por um Comité Internacional de Metrologia Legal, órgão de trabalho da Conferência.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 O Comité compõe-se de 1 representante de cada um dos Estados membros da Organização.
 
@@ -671,13 +676,13 @@ Proporcionam ao Comité a sua experiência, conselhos e os seus trabalhos, mas n
 
 Os membros do Comité participam, de direito, nas reuniões da Conferência, com voto consultivo. Podem ser um dos delegados do seu Governo à Conferência.
 
-**O presidente pode convidar para as reuniões do Comité, com voto consultivo, qualquer pessoa cuja participação lhe seja útil.**
+O presidente pode convidar para as reuniões do Comité, com voto consultivo, qualquer pessoa cuja participação lhe seja útil.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 As pessoas físicas que tenham desempenhado um papel na ciência ou na indústria metrológicas ou os antigos membros do Comité podem, por decisão deste Comité, receber o título de membros honorários. Podem assistir às reuniões com voto consultivo.
 
-ARTIGO XV
+###### ARTIGO XV
 
 O Comité escolhe, no seu seio, um presidente, um 1.º vice-presidente e um 2.º vice-presidente, eleitos por um período de 6 anos e reelegíveis. Todavia, se o seu mandato caducar no intervalo entre 2 sessões do Comité, será automaticamente prorrogado até à segunda destas sessões.
 
@@ -685,13 +690,13 @@ O director do Bureau fica-lhes adjunto a título de secretário.
 
 O Comité pode delegar algumas funções no seu presidente.
 
-**O presidente desempenha as tarefas que lhe são delegadas pelo Comité e substitui-o em caso de decisões urgentes. Leva estas decisões ao conhecimento dos membros do Comité e presta-lhes contas no mais breve prazo.**
+O presidente desempenha as tarefas que lhe são delegadas pelo Comité e substitui-o em caso de decisões urgentes. Leva estas decisões ao conhecimento dos membros do Comité e presta-lhes contas no mais breve prazo.
 
 Quando possam levantar-se questões de interesse comum ao Comité e a organizações conexas, o presidente representa o Comité junto dessas organizações.
 
 Em caso de ausência, de impedimento, de cessação de mandato, de demissão ou de falecimento do presidente, o 1.º vice-presidente assume interinamente a presidência.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 O Comité reúne, pelo menos, de 2 em 2 anos, por convocação do seu presidente ou, no seu impedimento, do director do Bureau se a este for presente um pedido emanado de, pelo menos, metade dos membros do Comité.
 
@@ -699,7 +704,7 @@ Salvo motivo particular, as sessões normais têm lugar no país da sede do Bure
 
 Podem, no entanto, realizar-se reuniões de informação no território dos diversos Estados membros.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Os membros do Comité impedidos de assistir a uma reunião podem delegar o seu voto num dos seus colegas que passará a ser então o seu representante. Neste caso, um mesmo membro só pode acumular com o seu 2 outros votos.
 
@@ -713,7 +718,7 @@ As resoluções tomadas desta forma só são válidas se todos os membros do Com
 
 Não são considerados votos expressos as abstenções e os votos brancos ou nulos. A ausência de resposta nos prazos fixados pelo presidente é considerada equivalente a uma abstenção.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 O Comité confia os estudos especiais, as investigações experimentais e os trabalhos de laboratório aos serviços competentes dos Estados membros, depois de ter previamente obtido o seu acordo formal. Se esses trabalhos exigirem determinados gastos, o acordo específica em que proporção as despesas serão suportadas pela Organização.
 
@@ -725,7 +730,7 @@ O director do Bureau assume o secretariado dos referidos grupos de trabalho ou e
 
 Bureau Internacional de Metrologia legal
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 O funcionamento da Conferência e do Comité é assumido pelo Bureau Internacional de Metrologia Legal, colocado sob a direcção e o controle do Comité.
 
@@ -739,11 +744,11 @@ O Comité e o Bureau assumem a execução das decisões da Conferência.
 
 O Bureau não efectua investigações experimentais, nem trabalhos de laboratório. Pode, contudo, dispor de salas de demonstração convenientemente equipadas para o estudo do modo de construção e de funcionamento de certos aparelhos.
 
-ARTIGO XX
+###### ARTIGO XX
 
 O Bureau tem a sua sede administrativa em França.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 O pessoal do Bureau compreende 1 director e colaboradores nomeados pelo Comité, assim como empregados ou agentes a título permanente ou temporário recrutados pelo director.
 
@@ -753,7 +758,7 @@ Os estatutos do director, dos colaboradores e dos empregados ou agentes são det
 
 A nomeação, o licenciamento ou a exoneração dos agentes e dos empregados do Bureau são pronunciados pelo director, salvo no que respeita aos colaboradores designados pelo Comité, que só podem ser objecto das mesmas medidas por decisão do Comité.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 O director assume o funcionamento do Bureau sob o controle e as directivas do Comité, perante o qual é responsável e ao qual deve apresentar, em todas as sessões, ordinárias, um relatório de gestão.
 
@@ -761,13 +766,13 @@ O director recebe as receitas, prepara o orçamento, autoriza e liquida todas as
 
 O director é, de direito, secretário da Conferência e do Comité.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 Os Governos dos Estados membros declaram que o Bureau é reconhecido de utilidade pública, que é dotado de personalidade civil e que, de uma maneira geral, beneficia dos privilégios e facilidades comummente concedidos às instituições intergovernamentais pela legislação em vigor em cada um dos Estados membros.
 
 ## TÍTULO III — Disposições financeiras
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 A Conferência, para um período financeiro igual ao intervalo das suas sessões, decide:
 
@@ -785,7 +790,7 @@ Durante o período financeiro, o Comité fixa, de acordo com os limites dos cré
 
 Se, expirado o exercício orçamental, o Comité não reuniu ou se não pôde deliberar validamente, o presidente e o director do Bureau decidem da recondução, até à sessão válida seguinte, de todo ou parte do orçamento do exercício chegado ao termo.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 O director do Bureau está autorizado a efectuar e a liquidar por si só as desposas de funcionamento da Organização.
 
@@ -805,7 +810,7 @@ Expirado o período financeiro, o Comité submete ao controle da Conferência um
 
 A Conferência determina o destino a dar aos excedentes orçamentais. O montante desses excedentes poderá ser deduzido das contribuições dos Estados membros ou ser acrescentado aos créditos postos de reserva.
 
-ARTIGO XXVI
+###### ARTIGO XXVI
 
 As despesas da Organização são cobertas:
 
@@ -847,11 +852,11 @@ A contribuições anuais são estabelecidas em franco-ouro. São pagas em franco
 
 São pagas ao director do Bureau no início do ano.
 
-ARTIGO XXVII
+###### ARTIGO XXVII
 
 O Comité estabelecerá um regulamento financeiro baseado nas prescrições gerais dos artigos XXIV a XXVI.
 
-ARTIGO XXVIII
+###### ARTIGO XXVIII
 
 O Estado que se tornar membro da Organização durante um dos períodos previstos no artigo XXVI fica ligado à mesma até ao termo desse período e está submetido, a partir da sua adesão, às mesmas obrigações que os membros já existentes.
 
@@ -859,7 +864,7 @@ Um novo Estado membro torna-se co-proprietário dos bens da Organização e, por
 
 A sua quotização anual será calculada como se tivesse aderido no dia 1 de Janeiro do ano seguinte ao depósito dos instrumentos de adesão ou de ratificação. A sua prestação para o ano em curso será de tantos duodécimos da sua quotização quantos os meses a cobrir. Esta prestação não altera as quotizações dos outros membros previstas para o ano em curso.
 
-ARTIGO XXIX
+###### ARTIGO XXIX
 
 Qualquer Estado membro que não liquidar as quotas durante 3 anos consecutivos é automaticamente considerado demissionário e irradiado da lista dos Estados membros.
 
@@ -869,19 +874,19 @@ A insuficiência das receitas resultantes da irradiação de um Estado membro é
 
 Os Estados membros voluntariamente demissionários e os Estados membros demissionários nos termos do artigo XXIX perdem qualquer direito de co-propriedade sobre a totalidade dos bens da Organização.
 
-ARTIGO XXX
+###### ARTIGO XXX
 
 Um Estado membro voluntariamente demissionário pode ser reintegrado por simples pedido. Passa então a ser considerado um novo Estado membro, mas o direito de entrada só é exigível se a demissão datar de há mais de 5 anos.
 
 Um Estado membro demissionário nos termos do artigo XXIX pode ser reintegrado por simples pedido, sob reserva de liquidação das prestações em dívida no momento da sua irradiação. Essas quotas retroactivas são calculadas com base nas quotizações dos anos anteriores à sua reintegração. Seguidamente, passa a ser considerado um novo Estado membro, mas o direito de entrada é calculado tendo em conta, nas proporções fixadas pela Conferência, as suas quotizações anteriores.
 
-ARTIGO XXXI
+###### ARTIGO XXXI
 
 Em caso de dissolução da Organização, o activo será, sob reserva de qualquer acordo que possa vir a ser feito entre os Estados membros com as quotas em dia à data da dissolução e sob reserva dos direitos contratuais ou adquiridos do pessoal em actividade de serviço ou reformado, repartido entre os Estados, proporcionalmente ao total das suas quotizações anteriores.
 
 ## TÍTULO IV — Disposições gerais
 
-ARTIGO XXXII
+###### ARTIGO XXXII
 
 A presente Convenção está aberta para assinatura até 31 de Dezembro de 1955, no Ministério dos Negócios Estrangeiros da República Francesa.
 
@@ -889,13 +894,13 @@ Está sujeita a ratificação.
 
 Os instrumentos de ratificação serão depositados junto do Governo da República Francesa, que notificará a data desse depósito a cada um dos Estados signatários.
 
-ARTIGO XXXIII
+###### ARTIGO XXXIII
 
 Os Estados que não tiverem assinado a Convenção poderão aderir expirado o prazo previsto pelo artigo XXXII.
 
 Os instrumentos de adesão serão depositados junto do Governo da República Francesa, que notificará a data desse depósito a todos os Governos signatários e aderentes.
 
-ARTIGO XXXIV
+###### ARTIGO XXXIV
 
 A presente Convenção entrará em vigor 30 dias após o depósito do 16.º instrumento de ratificação ou adesão (ver nota *).
 
@@ -905,7 +910,7 @@ O Governo da República Francesa notificará cada uma das Partes contratantes da
 
 (nota *) Formalidade cumprida em 28 de Maio de 1958.
 
-ARTIGO XXXV
+###### ARTIGO XXXV
 
 Qualquer Estado pode, no momento da assinatura, da ratificação ou em qualquer outro momento, declarar, por notificação dirigida ao Governo da República Francesa, que a presente Convenção é aplicável a todo ou a parte dos territórios que representa no plano internacional.
 
@@ -913,7 +918,7 @@ A presente Convenção aplicar-se-á ao território ou aos territórios designad
 
 O Governo da República Francesa transmitirá esta notificação aos outros Governos.
 
-ARTIGO XXXVI
+###### ARTIGO XXXVI
 
 A presente Convenção é válida por um período de 12 anos a contar da data da sua primeira entrada em vigor.
 
@@ -921,15 +926,15 @@ Continuará, depois, em vigor, por períodos de 6 anos, entre as Partes contrata
 
 A denúncia será feita por meio de notificação escrita, dirigida ao Governo da República Francesa, que dela avisará as Partes contratantes.
 
-ARTIGO XXXVII
+###### ARTIGO XXXVII
 
 A Organização poderá ser dissolvida por decisão da Conferência, desde que, no momento do voto, os delegados estejam munidos de «plenos poderes» para o efeito.
 
-ARTIGO XXXVIII
+###### ARTIGO XXXVIII
 
 Se o número das Partes à presente Convenção se encontrar reduzido a menos de 16, a Conferência poderá consultar os Estados membros, a fim de saber se é caso de se considerar caduca a Convenção.
 
-ARTIGO XXXIX
+###### ARTIGO XXXIX
 
 A Conferência pode recomendar às Partes contratantes emendas à presente Convenção.
 
@@ -939,7 +944,7 @@ Uma emenda entrará em vigor 3 meses depois de as notificações de aceitação 
 
 Após a entrada em vigor de uma emenda, nenhum Governo poderá ratificar a presente Convenção ou a ela aderir sem aceitar igualmente essa emenda.
 
-ARTIGO XL
+###### ARTIGO XL
 
 A presente Convenção será redigida em língua francesa, num único original, que será depositado nos arquivos do Governo da República Francesa, o qual fornecerá cópias certificadas a todos os Governos signatários e aderentes.
 

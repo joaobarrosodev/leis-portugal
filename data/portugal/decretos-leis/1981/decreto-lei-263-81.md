@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1981-565194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86e7f38b4867cb9f42032bfae8e4a5549b8c273b755391883237e77742f5e484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44f93174972cfcb1faed48befae9ef81ec3439bc6599f3b40ee7906024de1a66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Espécie Protegida
+- Portugal
+- Regulamento
+- Zona Económica Exclusiva
+relationships:
+- type: cites
+  target: pt:dre:635264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:40Z'
   warnings: []
   errors: []
 ---
@@ -93,21 +101,21 @@ A raridade de algumas espécies de mamíferos marinhos nos mares de Portugal con
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Protecção dos Mamíferos Marinhos nas Águas Interiores, no Mar Territorial e na Zona Económica Exclusiva Continental Portuguesa, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Protecção dos Mamíferos Marinhos nas Águas Interiores, no Mar Territorial e na Zona Económica Exclusiva Continental Portuguesa, que faz parte integrante do presente diploma.
 
-###### Art. 2.º É revogado o [Decreto n.º 39657](https://diariodarepublica.pt/dr/detalhe/decreto/39657-1954-635264), de 19 de Maio de 1954, na parte respeitante aos mares de Portugal continental.
+Art. 2.º É revogado o [Decreto n.º 39657](https://diariodarepublica.pt/dr/detalhe/decreto/39657-1954-635264), de 19 de Maio de 1954, na parte respeitante aos mares de Portugal continental.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 24 de Agosto de 1981.**
+Promulgado em 24 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DE PROTECÇÃO DOS MAMÍFEROS MARINHOS NA ZONA COSTEIRA E ZONA ECONÓMICA EXCLUSIVA CONTINENTAL PORTUGUESA.
 
-###### Artigo 1.º O presente Regulamento aplica-se, nas águas interiores, no mar territorial na zona costeira e zona económica exclusiva (ZEE) continentais, ao grupo de mamíferos marinhos, denominados genericamente «Focas», «Golfinhos» ou «Toninhas», «Cachalotes», «Rorquais» e «Baleias», que abrange as ordens, subordens, famílias e espécies seguidamente indicadas:
+Artigo 1.º O presente Regulamento aplica-se, nas águas interiores, no mar territorial na zona costeira e zona económica exclusiva (ZEE) continentais, ao grupo de mamíferos marinhos, denominados genericamente «Focas», «Golfinhos» ou «Toninhas», «Cachalotes», «Rorquais» e «Baleias», que abrange as ordens, subordens, famílias e espécies seguidamente indicadas:
 
 Focas
 
@@ -185,14 +193,14 @@ Família «Balaenidae»
 
 Eubalaena glacialis (Müller) - Baleia-franca, baleia-basca.
 
-###### Art. 2.º - 1 - Nos estuários e na Zona Económica Exclusiva Continental é expressamente proibida, durante todo o ano, a pesca, captura ou abate das espécies de mamíferos marinhos referidas no artigo anterior, bem como de qualquer espécie de mamífero marinho que, embora nele não referenciada, possa vir a ocorrer naquelas zonas.
+Art. 2.º - 1 - Nos estuários e na Zona Económica Exclusiva Continental é expressamente proibida, durante todo o ano, a pesca, captura ou abate das espécies de mamíferos marinhos referidas no artigo anterior, bem como de qualquer espécie de mamífero marinho que, embora nele não referenciada, possa vir a ocorrer naquelas zonas.
 
 2 - Para fins exclusivamente científicos poderá ser permitida, a título excepcional, a pesca, captura ou abate de mamíferos marinhos em determinadas condições e número de exemplares, mediante autorização do membro do Governo responsável pelo ordenamento e ambiente.
 
-###### Art. 3.º É igualmente proibida, em lotas, mercados ou outro qualquer local, a comercialização de mamíferos marinhos, mesmo daqueles que forem encontrados mortos nas artes ou aparelhos de pesca ou cujos cadáveres dêem à costa.
+Art. 3.º É igualmente proibida, em lotas, mercados ou outro qualquer local, a comercialização de mamíferos marinhos, mesmo daqueles que forem encontrados mortos nas artes ou aparelhos de pesca ou cujos cadáveres dêem à costa.
 
-###### Art. 4.º Os mamíferos marinhos encontrados vivos junto à costa serão obrigatoriamente confiados às instituições científicas especializadas, que os transferirão para locais apropriados, lhes prestarão a assistência eventualmente necessária e os devolverão, logo que possível, ao seu ambiente natural.
+Art. 4.º Os mamíferos marinhos encontrados vivos junto à costa serão obrigatoriamente confiados às instituições científicas especializadas, que os transferirão para locais apropriados, lhes prestarão a assistência eventualmente necessária e os devolverão, logo que possível, ao seu ambiente natural.
 
-###### Art. 5.º As infracções ao disposto nos artigos 2.º e 3.º serão punidas com a apreensão e perda a favor do Estado e a multa de 100000$00 por exemplar, quando se tratar de focas, golfinhos ou toninhas, e de 900000$00 por exemplar, quando se tratar de cachalotes, rorquais ou baleias.
+Art. 5.º As infracções ao disposto nos artigos 2.º e 3.º serão punidas com a apreensão e perda a favor do Estado e a multa de 100000$00 por exemplar, quando se tratar de focas, golfinhos ou toninhas, e de 900000$00 por exemplar, quando se tratar de cachalotes, rorquais ou baleias.
 
-###### Art. 6.º A fiscalização do disposto neste diploma compete, em especial, às autoridades marítimas, à Guarda Fiscal, à Direcção-Geral de Fiscalização Económica, à Direcção-Geral da Administração das Pescas, ao Serviço de Lotas e Vendagens, ao Instituto Nacional de Investigação das Pescas e aos serviços da Secretaria de Estado do Ordenamento e Ambiente.
+Art. 6.º A fiscalização do disposto neste diploma compete, em especial, às autoridades marítimas, à Guarda Fiscal, à Direcção-Geral de Fiscalização Económica, à Direcção-Geral da Administração das Pescas, ao Serviço de Lotas e Vendagens, ao Instituto Nacional de Investigação das Pescas e aos serviços da Secretaria de Estado do Ordenamento e Ambiente.

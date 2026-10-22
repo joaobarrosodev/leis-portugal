@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/04400/04160419.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/3-1985-327136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02a5a16468631acadc57035beae27397edc136c9142af1f3cedc02294fc4d6c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 388826ffc7f520214028eec6d64f19dae86ca171ae5df1ebacf302298386b33c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Desenvolvimento Industrial
+- ONU
+- Onudi
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:615464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:615464:por
+  label: "Revogado pelo DEC.12/89.1989.04.13.MNE, DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/12-1989-615464
+  date: '1989-04-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:12Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +101,19 @@ de 22 de Fevereiro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo entre o Governo da República Portuguesa e a Organização das Nações Unidas para o Desenvolvimento Industrial (UNIDO/ONUDI), assinado em Viena em 17 de Dezembro de 1984, cujos textos em português, francês e inglês vão anexos ao presente decreto.
+Artigo único. É aprovado o Protocolo entre o Governo da República Portuguesa e a Organização das Nações Unidas para o Desenvolvimento Industrial (UNIDO/ONUDI), assinado em Viena em 17 de Dezembro de 1984, cujos textos em português, francês e inglês vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama.
 
-**Referendado em 8 de Fevereiro de 1985.**
+Referendado em 8 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Fevereiro de 1985.**
+Referendado em 8 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 PROTOCOLO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO INDUSTRIAL.
 

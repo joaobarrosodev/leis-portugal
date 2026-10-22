@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18100/19301935.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1977-255402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b05bd161f65044af4b5b69b12bf5cd73eb36e9081b44acbb353be9e6ade32f9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 597264284e45faf8935a4d90786e2e21979644881daae3a59b7e6b22769b2527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio Externo
+- Exportação
+- Instituto Português do Fomento da Exportação
+- Ministério do Comércio e Turismo
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:607335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678376:por
+  label: "Aditada a al. h) ao nº 1 do art. 6º pelo DEC LEI.47/80.20.03.1980.MCT, DR.IS [67] de 20.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1980-678376
+  date: '1980-03-20'
+- type: cites
+  target: pt:dre:199580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693642:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:280707:por
+  label: Rectificado pela DECL.DD7765.12.11.1977.PCM, DR.IS [262] de 12.11.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-280707
+  date: '1977-11-12'
+- type: repealed_by
+  target: pt:dre:607335:por
+  label: "Revogado pelo DEC LEI.115/82.1982.04.14.MFP, DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1982-607335
+  date: '1982-04-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:59Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +162,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1. É criado no Ministério do Comércio e Turismo o Instituto Português de Fomento da Exportação, adiante designado abreviadamente por IPFE, destinado a promover e a desenvolver a colocação nos mercados externos de bens e serviços nacionais.
+Artigo 1.º - 1. É criado no Ministério do Comércio e Turismo o Instituto Português de Fomento da Exportação, adiante designado abreviadamente por IPFE, destinado a promover e a desenvolver a colocação nos mercados externos de bens e serviços nacionais.
 
 2. O IPFE é dotado de personalidade jurídica e de autonomia administrativa.
 
-###### Art. 2.º A actividade do IPFE deverá ser orientada por forma a satisfazer os seguintes objectivos principais:
+Art. 2.º A actividade do IPFE deverá ser orientada por forma a satisfazer os seguintes objectivos principais:
 
 a) Participação na definição e execução da política de comércio externo;
 
@@ -124,7 +176,7 @@ c) Conhecimento da oferta e da procura de bens e serviços, detecção de oportu
 
 d) Promoção de bens e serviços nacionais, tendo em vista o aumento e valorização das exportações.
 
-###### Art. 3.º Para a prossecução dos objectivos referidos no artigo anterior, compete em especial ao IPFE:
+Art. 3.º Para a prossecução dos objectivos referidos no artigo anterior, compete em especial ao IPFE:
 
 a) Detectar e seleccionar oportunidades de exportação de bens e serviços, nomeadamente através das seguintes acções:
 
@@ -172,13 +224,13 @@ q) Participar, quando para tal for solicitado, em organizações de natureza pú
 
 r) Exercer as demais funções que se mostrem necessárias ao desempenho da sua acção.
 
-###### Art. 4.º - 1. Para o bom desempenho das atribuições que lhe são cometidas por este diploma, deverá o IPFE articular a sua acção com outros serviços ou entidades, públicas, privadas ou mistas, que de algum modo se ocupem ou possam contribuir para a promoção e o desenvolvimento das exportações de bens e serviços nacionais.
+Art. 4.º - 1. Para o bom desempenho das atribuições que lhe são cometidas por este diploma, deverá o IPFE articular a sua acção com outros serviços ou entidades, públicas, privadas ou mistas, que de algum modo se ocupem ou possam contribuir para a promoção e o desenvolvimento das exportações de bens e serviços nacionais.
 
 2. Pode o IPFE solicitar de quaisquer entidades públicas ou privadas os elementos de informação necessários ao desempenho das suas atribuições e para tal fim corresponder-se directamente com elas.
 
 ### CAPÍTULO II — Órgãos do Instituto
 
-###### Art. 5.º São órgãos do IPFE:
+Art. 5.º São órgãos do IPFE:
 
 a) O presidente;
 
@@ -186,7 +238,7 @@ b) O conselho consultivo;
 
 c) O conselho administrativo.
 
-###### Art. 6.º - 1. Constituem o conselho consultivo:
+Art. 6.º - 1. Constituem o conselho consultivo:
 
 a) O presidente e os vice-presidentes do Instituto Português de Fomento da Exportação;
 
@@ -204,7 +256,7 @@ g) Um representante das instituições bancárias do sector público.
 
 2. O presidente poderá convidar a participar nas reuniões do conselho consultivo, sem direito a voto, funcionários do organismo ou individualidades com especial competência nas matérias a tratar.
 
-###### Art. 7.º Ao conselho consultivo compete dar o seu parecer sobre os assuntos de especial relevância para o cumprimento dos objectivos do organismo, que lhe sejam submetidos pelo presidente, nomeadamente sobre os seguintes temas:
+Art. 7.º Ao conselho consultivo compete dar o seu parecer sobre os assuntos de especial relevância para o cumprimento dos objectivos do organismo, que lhe sejam submetidos pelo presidente, nomeadamente sobre os seguintes temas:
 
 a) Programas gerais de acção;
 
@@ -214,13 +266,13 @@ c) Apreciação de resultados globais e sectoriais;
 
 d) Propostas de recomendação aos diferentes órgãos governamentais e associações empresariais tendentes ao desenvolvimento da economia nacional e a uma melhor coordenação dos seus diferentes sectores.
 
-###### Art. 8.º - 1. O conselho consultivo reunirá, ordinariamente, uma vez por mês e extraordinariamente quando o presidente o convocar, podendo funcionar validamente desde que esteja presente a maioria simples dos seus membros.
+Art. 8.º - 1. O conselho consultivo reunirá, ordinariamente, uma vez por mês e extraordinariamente quando o presidente o convocar, podendo funcionar validamente desde que esteja presente a maioria simples dos seus membros.
 
 2. As deliberações do conselho serão tomadas por maioria de votos, tendo o presidente o voto de qualidade.
 
 3. De todas as reuniões serão lavradas actas.
 
-###### Art. 9.º - 1. O presidente dirigirá superiormente o IPFE e orientará e coordenará as suas actividades, competindo-lhe em especial:
+Art. 9.º - 1. O presidente dirigirá superiormente o IPFE e orientará e coordenará as suas actividades, competindo-lhe em especial:
 
 a) Convocar o conselho consultivo e o conselho administrativo e presidir às suas reuniões;
 
@@ -246,17 +298,17 @@ l) Exercer os demais actos da competência do IPFE que, nos termos deste diploma
 
 2. O presidente poderá receber do Ministro do Comércio e Turismo delegação de competência para despachar assuntos relativos a funções de administração geral, considerando-se como tais as que respeitam às actividades correntes do IPFE e à gestão do património e dos recursos orçamentais.
 
-###### Art. 10.º - 1. No exercício das suas funções, o presidente será coadjuvado por três vice-presidentes, os quais, para além das atribuições que lhes forem cometidas no decreto a que se refere o artigo 17.º, poderão receber do presidente delegação de algumas das suas competências, nas condições que este considerar convenientes, especificando em cada caso as matérias e os poderes abrangidos na delegação.
+Art. 10.º - 1. No exercício das suas funções, o presidente será coadjuvado por três vice-presidentes, os quais, para além das atribuições que lhes forem cometidas no decreto a que se refere o artigo 17.º, poderão receber do presidente delegação de algumas das suas competências, nas condições que este considerar convenientes, especificando em cada caso as matérias e os poderes abrangidos na delegação.
 
 2. A um dos vice-presidentes, designado pelo Ministro do Comércio e Turismo, compete ainda substituir o presidente nas suas ausências e impedimentos.
 
-###### Art. 11.º - O presidente do IPFE será nomeado em comissão de serviço por tempo indeterminado, pelo Ministro do Comércio e Turismo, de entre indivíduos com curso superior, de reconhecida competência para o exercício do cargo, com aplicação do disposto no [Decreto-Lei n.º 49130](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49130-1969-199580), de 17 de Julho de 1969.
+Art. 11.º - O presidente do IPFE será nomeado em comissão de serviço por tempo indeterminado, pelo Ministro do Comércio e Turismo, de entre indivíduos com curso superior, de reconhecida competência para o exercício do cargo, com aplicação do disposto no [Decreto-Lei n.º 49130](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49130-1969-199580), de 17 de Julho de 1969.
 
-###### Art. 12.º - 1. O conselho administrativo é constituído pelo presidente, pelos vice-presidentes e pelo director dos Serviços Administrativos e Financeiros.
+Art. 12.º - 1. O conselho administrativo é constituído pelo presidente, pelos vice-presidentes e pelo director dos Serviços Administrativos e Financeiros.
 
 2. Poderá participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário do IPFE que para tal seja convocado pelo presidente.
 
-###### Art. 13.º - 1. Compete ao conselho administrativo:
+Art. 13.º - 1. Compete ao conselho administrativo:
 
 a) Apreciar os projectos de orçamento do IPFE;
 
@@ -284,7 +336,7 @@ m) Pronunciar-se sobre quaisquer outros assuntos de natureza administrativa ou f
 
 2. O conselho administrativo poderá delegar em algum ou alguns dos seus membros as competências a que aludem a primeira parte da alínea f) e as alíneas i) e j) do número anterior, especificando em cada caso os limites dos poderes abrangidos na delegação.
 
-###### Art. 14.º - 1. O conselho administrativo reunirá, ordinariamente, pelo menos, uma vez por semana, e, extraordinariamente, quando o presidente o convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
+Art. 14.º - 1. O conselho administrativo reunirá, ordinariamente, pelo menos, uma vez por semana, e, extraordinariamente, quando o presidente o convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
 
 2. As deliberações do conselho serão tomadas por maioria dos votos, tendo o presidente voto de qualidade.
 
@@ -294,7 +346,7 @@ m) Pronunciar-se sobre quaisquer outros assuntos de natureza administrativa ou f
 
 ### CAPÍTULO III — Serviços e pessoal
 
-###### Art. 15.º - 1. Os serviços do IPFE compreendem:
+Art. 15.º - 1. Os serviços do IPFE compreendem:
 
 a) Os serviços centrais;
 
@@ -308,19 +360,19 @@ d) As delegações no estrangeiro.
 
 3. Quanto às mencionadas na alínea d) do n.º 1, essa competência é conjunta do Ministro do Comércio e Turismo e do Ministro dos Negócios Estrangeiros.
 
-###### Art. 16.º - 1. Os directores das delegações no estrangeiro são considerados adidos comerciais às respectivas embaixadas portuguesas, com as adaptações que a lei ou prática dos respectivos países imponham. A sua designação é da competência conjunta do Ministro do Comércio e Turismo e do Ministro dos Negócios Estrangeiros.
+Art. 16.º - 1. Os directores das delegações no estrangeiro são considerados adidos comerciais às respectivas embaixadas portuguesas, com as adaptações que a lei ou prática dos respectivos países imponham. A sua designação é da competência conjunta do Ministro do Comércio e Turismo e do Ministro dos Negócios Estrangeiros.
 
 2. Ao restante pessoal daqueles serviços poderá ser conferido um estatuto equivalente ao do pessoal das missões diplomáticas e consulares, nos termos do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
-###### Art. 17.º Sem prejuízo da sua dependência administrativa e das atribuições que lhe cabem no domínio da sua competência, os directores das delegações do estrangeiro, na sua qualidade de adidos comerciais para efeitos de coordenação e execução dos objectivos da actividade internacional do Estado, receberão as directivas e demais indicações dos embaixadores ou chefes das missões diplomáticas junto das quais estão acreditados.
+Art. 17.º Sem prejuízo da sua dependência administrativa e das atribuições que lhe cabem no domínio da sua competência, os directores das delegações do estrangeiro, na sua qualidade de adidos comerciais para efeitos de coordenação e execução dos objectivos da actividade internacional do Estado, receberão as directivas e demais indicações dos embaixadores ou chefes das missões diplomáticas junto das quais estão acreditados.
 
-###### Art. 18.º A organização e o funcionamento dos serviços do IPFE, bem como os respectivos quadro e regime de pessoal e formas de provimento, serão regulados por decreto dos Ministros das Finanças e do Comércio e Turismo e do Secretário de Estado da Administração Pública.
+Art. 18.º A organização e o funcionamento dos serviços do IPFE, bem como os respectivos quadro e regime de pessoal e formas de provimento, serão regulados por decreto dos Ministros das Finanças e do Comércio e Turismo e do Secretário de Estado da Administração Pública.
 
-###### Art. 19.º A realização de estudos, inquéritos e outros serviços de carácter técnico especializado poderá ser confiada, mediante contrato e nas condições que forem fixadas pelo Ministro do Comério e Turismo, a entidades estranhas ao IPFE, nacionais ou estrangeiras.
+Art. 19.º A realização de estudos, inquéritos e outros serviços de carácter técnico especializado poderá ser confiada, mediante contrato e nas condições que forem fixadas pelo Ministro do Comério e Turismo, a entidades estranhas ao IPFE, nacionais ou estrangeiras.
 
 ### CAPÍTULO IV — Regime financeiro e patrimonial
 
-###### Art. 20.º Constituem receitas do IPFE:
+Art. 20.º Constituem receitas do IPFE:
 
 a) As dotações inscritas a seu favor no Orçamento Geral do Estado;
 
@@ -340,72 +392,72 @@ h) Os saldos verificados em gerências anteriores;
 
 i) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
 
-###### Art. 21.º As receitas do IPFE, excluídas as mencionadas nas alíneas a) e h) do artigo anterior, serão entregues nos cofres do Tesouro e escrituradas em «Contas de ordem» do Orçamento Geral do Estado, mediante guias passadas pelo organismo.
+Art. 21.º As receitas do IPFE, excluídas as mencionadas nas alíneas a) e h) do artigo anterior, serão entregues nos cofres do Tesouro e escrituradas em «Contas de ordem» do Orçamento Geral do Estado, mediante guias passadas pelo organismo.
 
-###### Art. 22.º - 1. A utilização das receitas que lhe sejam atribuídas no Orçamento Geral do Estado será feita mediante requisição processada pelo IPFE, a enviar à delegação da Direcção-Geral da Contabilidade Pública junto do Ministério do Comércio e Turismo, para conferência e autorização do pagamento.
+Art. 22.º - 1. A utilização das receitas que lhe sejam atribuídas no Orçamento Geral do Estado será feita mediante requisição processada pelo IPFE, a enviar à delegação da Direcção-Geral da Contabilidade Pública junto do Ministério do Comércio e Turismo, para conferência e autorização do pagamento.
 
 2. As importâncias requisitadas serão depositadas à ordem do IPFE na Caixa Geral de Depósitos ou em qualquer outra instituição bancária nacionalizada, podendo os saldos apurados no final de cada gerência ser despendidos no ano ou anos económicos seguintes.
 
-###### Art. 23.º O IPFE pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, nos termos legais.
+Art. 23.º O IPFE pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, nos termos legais.
 
-###### Art. 24.º Constituem encargo do IPFE as despesas inerentes ao seu funcionamento e actividade promocional que resultem das atribuições e competências previstas neste diploma.
+Art. 24.º Constituem encargo do IPFE as despesas inerentes ao seu funcionamento e actividade promocional que resultem das atribuições e competências previstas neste diploma.
 
-###### Art. 25.º - 1. Por despacho do Ministro do Comércio e Turismo, poderá o IPFE ser autorizado a realizar despesas para além dos limites decorrentes do disposto no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, e no [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968, até aos montantes a fixar anualmente.
+Art. 25.º - 1. Por despacho do Ministro do Comércio e Turismo, poderá o IPFE ser autorizado a realizar despesas para além dos limites decorrentes do disposto no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, e no [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968, até aos montantes a fixar anualmente.
 
 2. Para ocorrer a encargos com despesas correntes inadiáveis, poderá ser constituído um fundo de maneio, nos termos a fixar por despacho do Ministro do Comércio e Turismo, sob proposta do presidente do IPFE.
 
-###### Art. 26.º - 1. A movimentação de fundos do IPFE é da competência do conselho administrativo, sendo para este efeito necessárias e suficientes as assinaturas de dois dos seus membros.
+Art. 26.º - 1. A movimentação de fundos do IPFE é da competência do conselho administrativo, sendo para este efeito necessárias e suficientes as assinaturas de dois dos seus membros.
 
 2. Os membros do conselho administrativo poderão conceder delegação de assinatura de cheques a funcionários do IPFE, nas condições que forem autorizadas pelo Ministro do Comércio e Turismo, mediante proposta do presidente.
 
-###### Art. 27.º - 1. A movimentação dos depósitos do IPFE está isenta de prémio de transferência.
+Art. 27.º - 1. A movimentação dos depósitos do IPFE está isenta de prémio de transferência.
 
 2. As instituições bancárias a que se refere o n.º 2 do artigo 21.º enviarão mensalmente ao IPFE extractos das respectivas contas correntes.
 
-###### Art. 28.º - 1. Até 30 de Junho de cada ano, o presidente enviará à delegação da Direcção-Geral da Contabilidade Pública junto do Ministério do Comércio e Turismo a proposta orçamental do IPFE, incluindo as dotações a inscrever no orçamento do ano seguinte como despesa «Contas de ordem».
+Art. 28.º - 1. Até 30 de Junho de cada ano, o presidente enviará à delegação da Direcção-Geral da Contabilidade Pública junto do Ministério do Comércio e Turismo a proposta orçamental do IPFE, incluindo as dotações a inscrever no orçamento do ano seguinte como despesa «Contas de ordem».
 
 2. Até 15 de Agosto de cada ano o presidente submeterá à aprovação do Ministro do Comércio e Turismo o projecto de orçamento do IPFE e o seu programa de acção para o ano seguinte.
 
-###### Art. 29.º - 1. As alterações do orçamento serão feitas por orçamentos suplementares.
+Art. 29.º - 1. As alterações do orçamento serão feitas por orçamentos suplementares.
 
 2. A realização dos reforços com contrapartida em excessos de receitas cobrados sobre as previsões orçamentais far-se-á também por orçamento suplementar, ao qual será aplicável o disposto no número anterior, e que não constará para os limites estabelecidos na lei.
 
-###### Art. 30.º - 1. Até 31 de Março do ano seguinte àquele a que disserem respeito, o presidente remeterá ao Ministro do Comércio e Turismo, para seu conhecimento, o relatório anual de actividades do IPFE, e submeterá as contas de gerência à sua aprovação, considerando-se as mesmas tacitamente aprovadas se não forem objecto de despacho até 30 de Abril do mesmo ano.
+Art. 30.º - 1. Até 31 de Março do ano seguinte àquele a que disserem respeito, o presidente remeterá ao Ministro do Comércio e Turismo, para seu conhecimento, o relatório anual de actividades do IPFE, e submeterá as contas de gerência à sua aprovação, considerando-se as mesmas tacitamente aprovadas se não forem objecto de despacho até 30 de Abril do mesmo ano.
 
 2. Uma vez aprovadas as contas, serão as mesmas submetidas a julgamento do Tribunal de Contas até 31 de Maio do ano seguinte àquele a que disserem respeito.
 
-###### Art. 31.º O presidente, no uso da faculdade que lhe é conferida pela alínea c) do n.º 1 do artigo 9.º, estabelecerá em regulamento interno os prazos a observar pelos serviços e órgãos do IPFE na elaboração e apreciação dos orçamentos, programas de acção, relatórios de actividades e contas anuais de gerência.
+Art. 31.º O presidente, no uso da faculdade que lhe é conferida pela alínea c) do n.º 1 do artigo 9.º, estabelecerá em regulamento interno os prazos a observar pelos serviços e órgãos do IPFE na elaboração e apreciação dos orçamentos, programas de acção, relatórios de actividades e contas anuais de gerência.
 
-###### Art. 32.º O IPFE está isento de todas as taxas, custos, emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
+Art. 32.º O IPFE está isento de todas as taxas, custos, emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 33.º O pessoal de nacionalidade portuguesa que à data da publicação deste diploma faça parte dos quadros do pessoal do Fundo de Fomento de Exportação ou a ele preste serviço nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 45151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45151-1963-693642), de 22 de Julho de 1963, será integrado no IPFE e distribuído pelos lugares do seu quadro, com todos os direitos e regalias conferidos pelas suas actuais categorias ou classificação equiparadas, mediante lista ou listas nominativas, aprovadas por despacho do Ministro do Comércio e Turismo, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
+Art. 33.º O pessoal de nacionalidade portuguesa que à data da publicação deste diploma faça parte dos quadros do pessoal do Fundo de Fomento de Exportação ou a ele preste serviço nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 45151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45151-1963-693642), de 22 de Julho de 1963, será integrado no IPFE e distribuído pelos lugares do seu quadro, com todos os direitos e regalias conferidos pelas suas actuais categorias ou classificação equiparadas, mediante lista ou listas nominativas, aprovadas por despacho do Ministro do Comércio e Turismo, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
 
-###### Art. 34.º - 1. Após se ter efectivado a integração a que se refere o artigo anterior, será extinto o Fundo de Fomento de Exportação.
+Art. 34.º - 1. Após se ter efectivado a integração a que se refere o artigo anterior, será extinto o Fundo de Fomento de Exportação.
 
 2. A data efectiva de extinção do Fundo será determinada por despacho do Ministro do Comércio e Turismo, a publicar no Diário da República, o qual regulará igualmente quaisquer outros aspectos relativos a essa extinção, para além do que se dispõe no presente diploma.
 
-###### Art. 35.º - 1. O activo e o passivo do Fundo de Fomento de Exportação, bem como quaisquer obrigações, valores e direitos, incluindo os emergentes de contratos de arrendamento, transitam para o IPFE na data da publicação do despacho a que se refere o n.º 2 do artigo anterior.
+Art. 35.º - 1. O activo e o passivo do Fundo de Fomento de Exportação, bem como quaisquer obrigações, valores e direitos, incluindo os emergentes de contratos de arrendamento, transitam para o IPFE na data da publicação do despacho a que se refere o n.º 2 do artigo anterior.
 
 2. O despacho referido no número antecedente constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo em caso de dúvida título bastante a simples declaração, feita pelo IPFE e confirmada pela Direcção-Geral da Fazenda Pública, de que os bens se incluem entre os referidos no n.º 1 do presente artigo.
 
 3. Será transferido para o IPFE o saldo da conta de gerência do Fundo de Fomento de Exportação, a qual será encerrada com referência ao último dia de existência deste organismo.
 
-###### Art. 36.º As actuais delegações regionais e as delegações e representações no estrangeiro do Fundo de Fomento de Exportação consideram-se, para todos os efeitos legais, delegações e representações do IPFE, a partir da data efectiva de extinção daquele.
+Art. 36.º As actuais delegações regionais e as delegações e representações no estrangeiro do Fundo de Fomento de Exportação consideram-se, para todos os efeitos legais, delegações e representações do IPFE, a partir da data efectiva de extinção daquele.
 
-###### Art. 37.º Ficam revogados, na data efectiva de extinção do Fundo de Fomento de Exportação, o [Decreto-Lei n.º 37538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37538-1949-265332), de 2 de Setembro de 1949, o [Decreto-Lei n.º 39280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39280-1953-642498), de 17 de Julho de 1953, os artigos 6.º, 7.º, 8.º e 12.º do Decreto-Lei 45151, de 22 de Julho de 1963, e o [Decreto-Lei n.º 47583](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47583-1967-503627), de 9 de Março de 1967.
+Art. 37.º Ficam revogados, na data efectiva de extinção do Fundo de Fomento de Exportação, o [Decreto-Lei n.º 37538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37538-1949-265332), de 2 de Setembro de 1949, o [Decreto-Lei n.º 39280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39280-1953-642498), de 17 de Julho de 1953, os artigos 6.º, 7.º, 8.º e 12.º do Decreto-Lei 45151, de 22 de Julho de 1963, e o [Decreto-Lei n.º 47583](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47583-1967-503627), de 9 de Março de 1967.
 
-###### Art. 38.º As despesas resultantes da execução deste diploma serão satisfeitas, no decurso do presente ano económico, por conta de verbas inscritas a favor do Fundo de Fomento de Exportação.
+Art. 38.º As despesas resultantes da execução deste diploma serão satisfeitas, no decurso do presente ano económico, por conta de verbas inscritas a favor do Fundo de Fomento de Exportação.
 
-###### Art. 39.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio e Turismo, com o acordo do Ministro das Finanças, quando estiver em causa matéria de carácter financeiro ou regras de contabilidade pública.
+Art. 39.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio e Turismo, com o acordo do Ministro das Finanças, quando estiver em causa matéria de carácter financeiro ou regras de contabilidade pública.
 
-###### Art. 40.º O Ministro do Comércio e Turismo poderá delegar, nos termos gerais, no Secretário de Estado do Comércio Externo as competências que lhe são atribuídas por este diploma.
+Art. 40.º O Ministro do Comércio e Turismo poderá delegar, nos termos gerais, no Secretário de Estado do Comércio Externo as competências que lhe são atribuídas por este diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

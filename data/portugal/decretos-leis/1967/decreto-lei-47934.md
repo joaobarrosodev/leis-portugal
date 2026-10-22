@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47934-1967-390987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39623f93ae73ce7fe80c0e62b2c88c9ad3d5228a2661707d0f9eaf6a71e24569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67866d71e0dac3ed9373410b6e4554ff9ca20e64f0123f4cf9ab3b7dcd7e8217
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autonomia Administrativa
+- Centro Nacional de Estudos Vitivinícolas
+- Conselho Administrativo
+- Direcção Geral dos Serviços Agrícolas
+- Estação de Ensaio de Sementes
+- Estação Nacional de Melhoramento de Plantas
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:478612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512990:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:41Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +115,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ao Centro Nacional de Estudos Vitivinícolas é aplicável o disposto nos artigos 2.º, 3.º e 5.º do [Decreto-Lei n.º 47283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47283-1966-478612).
+Artigo 1.º Ao Centro Nacional de Estudos Vitivinícolas é aplicável o disposto nos artigos 2.º, 3.º e 5.º do [Decreto-Lei n.º 47283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47283-1966-478612).
 
 § único. Será inscrita em divisão própria a verba global a que se refere o § 1.º do artigo 5.º do [Decreto-Lei n.º 43354](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43354-1960-512990), de 24 de Novembro de 1960.
 
-###### Art. 2.º O Posto Agrário de Dois Portos passa a constituir o núcleo experimental do Centro Nacional de Estudos Vitivinícolas, ficando nele integrado.
+Art. 2.º O Posto Agrário de Dois Portos passa a constituir o núcleo experimental do Centro Nacional de Estudos Vitivinícolas, ficando nele integrado.
 
-###### Art. 3.º A Estação Agrária de Braga passa a substituir o actual Posto Agrário de Braga.
+Art. 3.º A Estação Agrária de Braga passa a substituir o actual Posto Agrário de Braga.
 
 § único. As instalações do Posto Agrário e aquelas que venham a ser adquiridas pelo Estado ou cedidas por outras entidades para reforço da acção experimental e de assistência técnica ficarão a constituir o núcleo de estudos da Estação Agrária de Braga.
 
-###### Art. 4.º As disposições do [Decreto-Lei n.º 47283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47283-1966-478612), de 27 de Outubro de 1966, passam a ser extensivas aos seguintes organismos da Direcção-Geral dos Serviços Agrícolas: Estação de Melhoramento de Plantas e Estação de Ensaio de Sementes.
+Art. 4.º As disposições do [Decreto-Lei n.º 47283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47283-1966-478612), de 27 de Outubro de 1966, passam a ser extensivas aos seguintes organismos da Direcção-Geral dos Serviços Agrícolas: Estação de Melhoramento de Plantas e Estação de Ensaio de Sementes.
 
-###### Art. 5.º Os vogais do conselho administrativo dos organismos referidos no artigo anterior serão designados pela forma estabelecida na parte final do § único do artigo 2.º do [Decreto-Lei n.º 47283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47283-1966-478612).
+Art. 5.º Os vogais do conselho administrativo dos organismos referidos no artigo anterior serão designados pela forma estabelecida na parte final do § único do artigo 2.º do [Decreto-Lei n.º 47283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47283-1966-478612).
 
-###### Art. 6.º Aos organismos da Direcção-Geral dos Serviços Agrícolas dotados com autonomia administrativa continuam a aplicar-se os preceitos legais relativos à mesma Direcção-Geral que no regime anterior os abrangiam e que não sejam contrariados pelas novas disposições.
+Art. 6.º Aos organismos da Direcção-Geral dos Serviços Agrícolas dotados com autonomia administrativa continuam a aplicar-se os preceitos legais relativos à mesma Direcção-Geral que no regime anterior os abrangiam e que não sejam contrariados pelas novas disposições.
 
-###### Art. 7.º Este diploma entra em vigor em 1 de Janeiro de 1968, à excepção do que dispõem os artigos 2.º e 3.º e seu parágrafo, cuja execução é imediata.
+Art. 7.º Este diploma entra em vigor em 1 de Janeiro de 1968, à excepção do que dispõem os artigos 2.º e 3.º e seu parágrafo, cuja execução é imediata.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado.

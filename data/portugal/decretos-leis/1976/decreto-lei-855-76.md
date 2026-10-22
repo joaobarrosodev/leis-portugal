@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/855-1976-407731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 562c402ca9cde666b8f2975442c081ea60f450dbc21d2216b2d6c507039ffb4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a26d144008fb8cac4fcdf0d98e1ae78b479bde5126d5cff82d58fd92126a9d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- PSP
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:198710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:03Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +103,9 @@ Considerando também que com a publicação do [Decreto-Lei n.º 49190](https://
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É alterado o artigo 12.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, que passa a ter a seguinte redacção:
+Artigo único. É alterado o artigo 12.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, que passa a ter a seguinte redacção:
 
-###### Art. 12.º São beneficiários dos Serviços Sociais da Polícia de Segurança Pública, mediante desconto nos vencimentos ou pensões das quotizações que forem fixadas por despacho ministerial:
+Art. 12.º São beneficiários dos Serviços Sociais da Polícia de Segurança Pública, mediante desconto nos vencimentos ou pensões das quotizações que forem fixadas por despacho ministerial:
 
 a) Os comissários do quadro de comissários da Polícia de Segurança Pública;
 
@@ -109,8 +119,8 @@ d) As viúvas, enquanto nesta situação, e os órfãos, enquanto menores, do pe
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
 
-**Promulgado em 7 de Dezembro de 1976.**
+Promulgado em 7 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

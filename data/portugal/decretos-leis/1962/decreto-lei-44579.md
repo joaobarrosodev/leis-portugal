@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/09/21600/12451246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44579-1962-159932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 132714c455c0ae26d6454e63a7608cfbfb0c3c5334a58c2361394f0f6d8d9303
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa94d48d6dfcbc82f9b569f31e2ba60229adf0356be9566de70083d5dea4fd20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Prostituição
 relationships:
 - type: amended_by
   target: pt:dre:319744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:264899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577538:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319744:por
+  label: "Revogado o art. 1.º, pelo DEC LEI.400/82.23.09.1982.MJ, DR.IS [221]Supl de 23.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1982-319744
+  date: '1982-09-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:13Z'
   warnings: []
   errors: []
 ---
@@ -114,26 +132,26 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É proibido o exercício da prostituição a partir de 1 de Janeiro de 1963.
+Artigo 1.º - 1. É proibido o exercício da prostituição a partir de 1 de Janeiro de 1963.
 
 2. Para os efeitos do número anterior, consideram-se prostitutas as raparigas e mulheres que habitualmente se entreguem à prática de relações sexuais ilícitas com qualquer homem, delas obtendo remuneração ou qualquer outro proveito económico.
 
 3. As prostitutas são equiparadas aos vadios, para o efeito de aplicação de medidas de segurança. Às menores de 16 anos aplicar-se-ão as medidas de protecção, assistência ou educação previstas no [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44288-1962-322682), de 20 de Abril de 1962.
 
-###### Art. 2.º - 1. São punidos com a pena de prisão até um ano e multa correspondente todos os indivíduos que conscientemente fomentem, favoreçam ou de algum modo facilitem o exercício da prostituição ou nela intervenham com fins lucrativos.
+Art. 2.º - 1. São punidos com a pena de prisão até um ano e multa correspondente todos os indivíduos que conscientemente fomentem, favoreçam ou de algum modo facilitem o exercício da prostituição ou nela intervenham com fins lucrativos.
 
 2. São aplicáveis as medidas de segurança previstas no artigo 10.º do Código Penal aos indivíduos que habitualmente se entreguem às actividades referidas no número anterior, ainda que não tenham sido condenados por quaisquer factos dessa natureza, observando-se o regime da primeira parte do § 1.º do artigo 71.º daquele código.
 
-###### Art. 3.º - 1. Com ressalva do disposto no n.º 1 do artigo 4.º, serão encerradas pelas autoridades policiais todas as casas onde se exerça a prostituição ou qualquer das actividades referidas no artigo anterior, com despejo e apreensão de todos os bens aí encontrados.
+Art. 3.º - 1. Com ressalva do disposto no n.º 1 do artigo 4.º, serão encerradas pelas autoridades policiais todas as casas onde se exerça a prostituição ou qualquer das actividades referidas no artigo anterior, com despejo e apreensão de todos os bens aí encontrados.
 
 2. Os bens apreendidos serão entregues à Direcção-Geral da Assistência, que os venderá em hasta pública, revertendo o respectivo produto para o Fundo de Socorro Social, com destino a estabelecimentos de prevenção e regeneração de raparigas e mulheres.
 
-###### Art. 4.º - 1. As mulheres que à data da publicação deste diploma se encontrem matriculadas são autorizas a continuar nas casas onde se tem legalmente exercido a prostituição até 1 de Janeiro de 1963, caducando a partir desta data a validade das matrículas, com subsequente apreensão dos respectivos livretes.
+Art. 4.º - 1. As mulheres que à data da publicação deste diploma se encontrem matriculadas são autorizas a continuar nas casas onde se tem legalmente exercido a prostituição até 1 de Janeiro de 1963, caducando a partir desta data a validade das matrículas, com subsequente apreensão dos respectivos livretes.
 
 2. Os livros e quaisquer outros documentos respeitantes às matrículas de que trata o número anterior permanecerão em poder das autoridades competentes, pelo mesmo prazo, para o efeito de serem facultados elementos a quaisquer serviços do estado que os solicitem, com as restrições de na base V da [Lei n.º 1911](https://diariodarepublica.pt/dr/detalhe/lei/1911-1935-577538), 23 de Maio de 1935.
 
 3. Findo o prazo referido nos números precedentes, os livros, livretes e demais documentos referidos serão queimados, lavrando-se auto a remeter, no prazo de vinte dias, à Direcção-Geral de Administração Política e Civil do Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

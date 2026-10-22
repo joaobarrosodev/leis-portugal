@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49274-1969-214258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d80bdebd4fefd8ae28a661a7b2f4f8f6d4a1599019cbd635af484cd0c3c2d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 466b2081e7f2bdf4ea6ae4b6a0d4ee577f52a340bb9b12d1d9e55822c618cc4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Ensino Superior
+- Estudos Gerais Universitários
+- Moçambique.Colónia Portuguesa
+- Pessoal Docente
+- Pessoal não Docente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:676420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676420:por
+  label: "Mantido em vigor [com carácter interpretativo] o disposto no art. 11º do Dec Lei 45180 de 05-Ago de 1963, com a\
+    \ redacção neste diploma, pelo DEC LEI.306/72.16.08.1972.MU, DG.IS [190] de 16.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-1972-676420
+  date: '1972-08-16'
+- type: cites
+  target: pt:dre:693413:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:03Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +106,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 11.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963, passa a ter a seguinte redacção:
+Artigo único. O artigo 11.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963, passa a ter a seguinte redacção:
 
-###### Art. 11.º Os cargos docentes, técnicos e administrativos poderão ser desempenhados, em comissão, por pessoal dos serviços do Ministério da Educação Nacional, em qualquer situação.
+Art. 11.º Os cargos docentes, técnicos e administrativos poderão ser desempenhados, em comissão, por pessoal dos serviços do Ministério da Educação Nacional, em qualquer situação.
 
 § 1.º Os cargos docentes e técnicos poderão ainda ser desempenhados, em comissão, por pessoal dos serviços de outros Ministérios, em qualquer situação.
 
@@ -99,9 +116,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Hermano Saraiva.
 
-**Promulgado em 17 de Setembro de 1969.**
+Promulgado em 17 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43000-1960-504313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8547877b59463dddd4d4f877bf98d12a483041907394a02dc622a9925cfcffb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0414914fcbd0fefd5b2eecddf7e742d7482c22a73c4b32c999402f0198d018d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cargo Público
+- Equivalência de Habilitações Literárias
+- Funcionário Público
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:30Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +112,12 @@ Nestes termos:
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nas nomeações para os lugares acima do grupo T da escala geral do funcionalismo do Estado, dos corpos administrativos e dos organismos para-estatais será exigida, nos termos do artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, a habilitação de um curso especial sempre que a natureza das funções a desempenhar o justifique. Quando a lei o não indique, compete ao Conselho de Ministros determinar, em relação a cada cargo, mediante proposta do Ministro da Educação Nacional, ouvidos os serviços interessados e o Conselho Permanente da Acção Educativa, o curso ou cursos para tal efeito adequados, de entre os professados em escolas portuguesas.
+Artigo 1.º Nas nomeações para os lugares acima do grupo T da escala geral do funcionalismo do Estado, dos corpos administrativos e dos organismos para-estatais será exigida, nos termos do artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, a habilitação de um curso especial sempre que a natureza das funções a desempenhar o justifique. Quando a lei o não indique, compete ao Conselho de Ministros determinar, em relação a cada cargo, mediante proposta do Ministro da Educação Nacional, ouvidos os serviços interessados e o Conselho Permanente da Acção Educativa, o curso ou cursos para tal efeito adequados, de entre os professados em escolas portuguesas.
 
-###### Art. 2.º Com observância das formalidades previstas no artigo anterior, pode também o Conselho de Ministros declarar como habilitação suficiente para efeito de provimento em determinados cargos públicos, em paralelo com o curso geral dos liceus, o curso ou cursos do ensino técnico profissional que forneçam, para o efeito, preparação apropriada.
+Art. 2.º Com observância das formalidades previstas no artigo anterior, pode também o Conselho de Ministros declarar como habilitação suficiente para efeito de provimento em determinados cargos públicos, em paralelo com o curso geral dos liceus, o curso ou cursos do ensino técnico profissional que forneçam, para o efeito, preparação apropriada.
 
-###### Art. 3.º Para conhecimento dos interessados e aplicação obrigatória pelos serviços, os despachos do Conselho de Ministros serão publicados no Diário do Governo.
+Art. 3.º Para conhecimento dos interessados e aplicação obrigatória pelos serviços, os despachos do Conselho de Ministros serão publicados no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

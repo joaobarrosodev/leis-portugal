@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48866014667868cb71edbb6c0b2a8464802d14f63f9ea389708a5e81ab061ad9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3070f37e73a9bc1c807eef750a6e3565b0caa1ff11c318ee051bd8c2f59d2ddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Direcção Geral dos Hospitais
+- Estabelecimento Hospitalar
+- Fiscalização
+- Horário de Trabalho
+- Lisboa
+- Ministério da Saúde e Assistência
+- Pessoal de Enfermagem
+- Porto
+- Promoção Profissional
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:568308:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217350:por
+  label: "Dada nova redacção ao n.º 3 do art. 12º, e revogada a nota 1, referida no nº 1 daquele art. e constante do mapa\
+    \ anexo ao presente diploma, pelo DEC LEI.49434.09.12.1969.MSA, DG.IS [286] de 09.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49434-1969-217350
+  date: '1969-12-09'
+- type: amended_by
+  target: pt:dre:154456:por
+  label: "Alterado o mapa anexo no referente ao pessoal enfermagem da carreira hospitalar e de ensino pelo DEC LEI.676/70.31.12.1970.MSA,\
+    \ DG.IS [301] de 31.12.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/676-1970-154456
+  date: '1970-12-31'
+- type: amended_by
+  target: pt:dre:676628:por
+  label: "Alterada a al. o) do nº 1 do art. 97º do Dec Lei 413/71 de 27-Set, na revogação que efectuou ao presente diploma\
+    \ [exceptuando daquela revogação o art. 5º, o n.º 2 do art. 14.º e a al. a) do artigo 19º (sem prejuízo do disposto no\
+    \ Dec Lei 211/72 de 23-Jun)], pelo DEC LEI.331/72.22.08.1972.MSA, DG.IS [195] de 22.08.1972\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1972-676628
+  date: '1972-08-22'
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693016:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632738:por
+  label: "Revogado pelo DEC LEI.413/71.27.09.1971.MSA, DG.IS [228] de 27.09.1971 (ver Rectificação DD315, de 22 de Julho de\
+    \ 1972) \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1971-632738
+  date: '1971-09-27'
+- type: repealed_by
+  target: pt:dre:568308:por
+  label: "Revogado o artigo 5.º e o n.º 2 do artigo 14.º pelo DEC LEI.305/81.12.11.1981.MFP, DR.IS [261] de 12.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1981-568308
+  date: '1981-11-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:47Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +151,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Em cumprimento do disposto na base XXV da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, estabelecem-se para os profissionais de enfermagem dos estabelecimentos e serviços oficiais do Ministério da Saúde e Assistência as carreiras hospitalar, de saúde pública e de ensino.
+Artigo 1.º - 1. Em cumprimento do disposto na base XXV da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, estabelecem-se para os profissionais de enfermagem dos estabelecimentos e serviços oficiais do Ministério da Saúde e Assistência as carreiras hospitalar, de saúde pública e de ensino.
 
 2. Nestas carreiras poderão ser criadas especialidades que exijam habilitação em curso próprio.
 
-###### Art. 2.º Em cada uma das carreiras há as categorias seguintes:
+Art. 2.º Em cada uma das carreiras há as categorias seguintes:
 
 a) Carreira hospitalar:
 
@@ -119,7 +171,7 @@ Auxiliares de enfermagem: de 1.ª e de 2.ª
 
 c) Carreira de ensino: director de escola, monitor-chefe, enfermeiro-professor, monitor e auxiliar de monitor.
 
-###### Art. 3.º - 1. A admissão nos lugares de enfermeiro de 2.ª depende de concurso documental, organizado em cada estabelecimento ou serviço, a que podem apresentar-se os diplomados com o curso de enfermagem geral. Nos serviços de psiquiatria podem também concorrer os profissionais habilitados com o curso de enfermagem psiquiátrica.
+Art. 3.º - 1. A admissão nos lugares de enfermeiro de 2.ª depende de concurso documental, organizado em cada estabelecimento ou serviço, a que podem apresentar-se os diplomados com o curso de enfermagem geral. Nos serviços de psiquiatria podem também concorrer os profissionais habilitados com o curso de enfermagem psiquiátrica.
 
 2. O acesso aos lugares de enfermeiro de 1.ª é feito, por ordem de antiguidade, entre os enfermeiros da categoria anterior com, pelo menos, dois anos de exercício. Quando o cadastro dos candidatos contenha sanções disciplinares ou más informações de serviço, poderá haver, para este efeito, reduções na antiguidade, em termos a estabelecer por despacho.
 
@@ -131,13 +183,13 @@ c) Carreira de ensino: director de escola, monitor-chefe, enfermeiro-professor, 
 
 6. Os enfermeiros-superintendentes são escolhidos entre os enfermeiros-gerais ou enfermeiros-chefes, desde que uns e outros tenham dois anos de exercício nestas categorias, além da secção de administração do curso de enfermagem complementar.
 
-###### Art. 4.º - 1. Os lugares de enfermeiros de saúde pública são providos entre diplomados com o curso de enfermagem geral, ou de enfermagem de saúde pública, mediante concurso documental.
+Art. 4.º - 1. Os lugares de enfermeiros de saúde pública são providos entre diplomados com o curso de enfermagem geral, ou de enfermagem de saúde pública, mediante concurso documental.
 
 2. Os lugares de subchefe de serviço de enfermagem regional são providos, mediante concurso de provas, entre os enfermeiros de saúde pública com três anos, pelo menos, de exercício nesse grau.
 
 3. Os chefes de serviço de enfermagem regional são escolhidos entre os subchefes com dois anos, pelo menos, de exercício e a secção de administração do curso de enfermagem complementar.
 
-###### Art. 5.º - 1. Os auxiliares de monitor são escolhidos entre enfermeiros habilitados com o 3.º ciclo liceal e que tenham, pelo menos, um ano de exercício de enfermagem.
+Art. 5.º - 1. Os auxiliares de monitor são escolhidos entre enfermeiros habilitados com o 3.º ciclo liceal e que tenham, pelo menos, um ano de exercício de enfermagem.
 
 2. Os monitores são recrutados, por concursos de provas, entre os auxiliares de monitores com, pelo menos, dois anos de categoria e a habilitação do curso de enfermagem complementar, da secção de ensino. Podem também concorrer os enfermeiros habilitados com o mesmo curso de enfermagem complementar, se tiverem cinco anos de exercício.
 
@@ -145,7 +197,7 @@ c) Carreira de ensino: director de escola, monitor-chefe, enfermeiro-professor, 
 
 4. Os directores de escola são escolhidos entre enfermeiros-professores e monitores-chefes, desde que aprovados em concursos nacionais de habilitação.
 
-###### Art. 6.º A admissão e o acesso nos lugares de auxiliar de enfermagem das carreiras hospitalar e de saúde pública regem-se pelo disposto nos n.os 1 e 2 do artigo 3.º, sendo exigidos os diplomas seguintes:
+Art. 6.º A admissão e o acesso nos lugares de auxiliar de enfermagem das carreiras hospitalar e de saúde pública regem-se pelo disposto nos n.os 1 e 2 do artigo 3.º, sendo exigidos os diplomas seguintes:
 
 a) Para a carreira hospitalar, em geral, o de auxiliar de enfermagem;
 
@@ -153,31 +205,31 @@ b) Para serviços de psiquiatria, o referido na alínea anterior ou o de auxilia
 
 c) Para a carreira de saúde pública, o indicado na alínea a) ou o de auxiliar de enfermagem de saúde pública.
 
-###### Art. 7.º - 1. As nomeações são feitas a título provisório para os três primeiros anos, findos os quais podem converter-se em definitivas, se houver parecer favorável, devidamente fundamentado, da respectiva administração.
+Art. 7.º - 1. As nomeações são feitas a título provisório para os três primeiros anos, findos os quais podem converter-se em definitivas, se houver parecer favorável, devidamente fundamentado, da respectiva administração.
 
 2. O pessoal com provimento definitivo mantém essa situação quando for promovido.
 
 3. Os primeiros seis meses de exercício são considerados de estágio e o aproveitamento será classificado pelos responsáveis do serviço onde aquele haja sido feito.
 
-###### Art. 8.º - 1. Em serviço de saúde ou assistência cujos lugares de enfermagem não possam integrar-se numa destas carreiras, as condições de recrutamento serão fixadas, em cada caso, por despacho do Ministro.
+Art. 8.º - 1. Em serviço de saúde ou assistência cujos lugares de enfermagem não possam integrar-se numa destas carreiras, as condições de recrutamento serão fixadas, em cada caso, por despacho do Ministro.
 
 2. Podem ser destacados profissionais do quadro de um estabelecimento ou serviço para trabalhar, temporàriamente, noutro que lhes abonará a remuneração respectiva. Os profissionais destacados conservam, no quadro de origem, todos os direitos e regalias, incluindo os de antiguidade, acesso e aposentação e a qualidade de subscritores da Caixa Geral de Aposentações.
 
-###### Art. 9.º - 1. O Ministro da Saúde e Assistência pode autorizar concursos genéricos de provas públicas para habilitação em determinadas categorias das carreiras de enfermagem hospitalar, de saúde pública ou de ensino.
+Art. 9.º - 1. O Ministro da Saúde e Assistência pode autorizar concursos genéricos de provas públicas para habilitação em determinadas categorias das carreiras de enfermagem hospitalar, de saúde pública ou de ensino.
 
 2. Nestes casos, o provimento far-se-á, em cada estabelecimento ou serviço, por concurso documental, podendo concorrer apenas os aprovados no concurso genérico de habilitação.
 
 3. O provimento dos enfermeiros-superintendentes, enfermeiros-gerais, chefes e subchefes do serviço de enfermagem regional, director e monitor-chefe de escola pode recair em pessoal de qualquer estabelecimento ou serviço, mesmo que não seja aquele onde se haja verificado a vaga a prover.
 
-###### Art. 10.º Dentro de cada carreira, poderá haver transferência de pessoal de enfermagem entre os quadros dos diversos estabelecimentos e serviços nos termos que vigorarem para o restante pessoal.
+Art. 10.º Dentro de cada carreira, poderá haver transferência de pessoal de enfermagem entre os quadros dos diversos estabelecimentos e serviços nos termos que vigorarem para o restante pessoal.
 
-###### Art. 11.º - 1. A ocupação do pessoal de enfermagem pode ser em regime de tempo completo ou parcial, estabelecendo-se, para o efeito, quadros separados em cada estabelecimento ou serviço.
+Art. 11.º - 1. A ocupação do pessoal de enfermagem pode ser em regime de tempo completo ou parcial, estabelecendo-se, para o efeito, quadros separados em cada estabelecimento ou serviço.
 
 2. O regime de tempo parcial será retribuído proporcionalmente às horas de trabalho e à remuneração correspondente ao lugar ocupado.
 
 3. Em caso de impossibilidade de preenchimento dos lugares do quadro de tempo completo, pode o Ministro da Saúde e Assistência autorizar a admissão eventual de pessoal em regime de tempo parcial, em número suficiente para preencher o horário normal de tempo completo.
 
-###### Art. 12.º - 1. As remunerações dos profissionais de enfermagem das carreiras hospitalares, de saúde pública e de ensino são as que constam do mapa anexo a este diploma e serão pagas através das verbas de pessoal que, nos termos do artigo 17.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, lhes sejam atribuídas, ou por outras verbas do Ministério da Saúde e Assistência.
+Art. 12.º - 1. As remunerações dos profissionais de enfermagem das carreiras hospitalares, de saúde pública e de ensino são as que constam do mapa anexo a este diploma e serão pagas através das verbas de pessoal que, nos termos do artigo 17.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, lhes sejam atribuídas, ou por outras verbas do Ministério da Saúde e Assistência.
 
 2. Em relação aos mesmos profissionais dos Institutos de Assistência Psiquiátrica, de Assistência aos Leprosos e Nacional de Sangue, e na medida em que não for possível proceder nos termos estabelecidos no n.º 1 deste artigo, as remunerações serão suportadas pelos subsídios inscritos no orçamento ordinário do Ministério da Saúde e Assistência.
 
@@ -185,7 +237,7 @@ c) Para a carreira de saúde pública, o indicado na alínea a) ou o de auxiliar
 
 4. As remunerações previstas neste decreto-lei só serão consideradas para efeito de cálculo de pensão de aposentação decorridos três anos de entrada em vigor do mesmo diploma, excepto quanto ao pessoal que, entretanto, for obrigatòriamente aposentado.
 
-###### Art. 13.º O horário de trabalho do pessoal de enfermagem é, em princípio, o seguinte:
+Art. 13.º O horário de trabalho do pessoal de enfermagem é, em princípio, o seguinte:
 
 a) De 8 horas diárias ou 48 horas semanais, nos serviços hospitalares;
 
@@ -193,7 +245,7 @@ b) De 7 horas diárias ou 42 horas semanais, nos serviços de saúde pública;
 
 c) De 6 horas diárias ou 36 horas semanais, nos serviços de ensino.
 
-###### Art. 14.º - 1. Os profissionais de enfermagem ficam sujeitos ao regime vigente nos serviços em que trabalham pelo que respeita a faltas, licenças, disciplina, responsabilidade profissional, previdência e abono de família. Pode, no entanto, o Ministro da Saúde e Assistência estabelecer, em portaria, regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, de modo a adaptá-los às exigências particulares do exercício da enfermagem e à necessidade de garantir a continuidade do serviço.
+Art. 14.º - 1. Os profissionais de enfermagem ficam sujeitos ao regime vigente nos serviços em que trabalham pelo que respeita a faltas, licenças, disciplina, responsabilidade profissional, previdência e abono de família. Pode, no entanto, o Ministro da Saúde e Assistência estabelecer, em portaria, regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, de modo a adaptá-los às exigências particulares do exercício da enfermagem e à necessidade de garantir a continuidade do serviço.
 
 2. O Ministro da Saúde e Assistência regulamentará em portaria:
 
@@ -207,25 +259,25 @@ d) As autorizações de acumulação de funções em estabelecimentos ou serviç
 
 e) As compensações a atribuir ao pessoal para se fixar em localidades da periferia.
 
-###### Art. 15.º Os artigos 3.º a 6.º, inclusive, consideram-se de natureza regulamentar, podendo ser alterados em decreto referendado pelo Ministro da Saúde e Assistência.
+Art. 15.º Os artigos 3.º a 6.º, inclusive, consideram-se de natureza regulamentar, podendo ser alterados em decreto referendado pelo Ministro da Saúde e Assistência.
 
-###### Art. 16.º O disposto neste diploma aplica-se também ao pessoal de enfermagem das Santas Casas da Misericórdia de Lisboa e do Porto que não esteja abrangido por contrato de trabalho celebrado com outra instituição ou com ordens religiosas.
+Art. 16.º O disposto neste diploma aplica-se também ao pessoal de enfermagem das Santas Casas da Misericórdia de Lisboa e do Porto que não esteja abrangido por contrato de trabalho celebrado com outra instituição ou com ordens religiosas.
 
-###### Art. 17.º - 1. Serão revistos, em portaria conjunta dos Ministros das Finanças e da Saúde e Assistência, os quadros das escolas oficiais de enfermagem, para os adaptar às necessidades de preparação de pessoal e às disposições deste diploma.
+Art. 17.º - 1. Serão revistos, em portaria conjunta dos Ministros das Finanças e da Saúde e Assistência, os quadros das escolas oficiais de enfermagem, para os adaptar às necessidades de preparação de pessoal e às disposições deste diploma.
 
 2. O pessoal que estiver em serviço à data da revisão poderá ser colocado nos lugares dos novos quadros, desde que possua as correspondentes habilitações legais, por simples despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo, com dispensa de visto do Tribunal de Contas, diploma e posse.
 
 3. O tempo de serviço anteriormente prestado por este pessoal, qualquer que seja a forma de provimento, será contado para todos os efeitos, incluindo o de acesso e aposentação, mas, quanto a estes, só no caso de se efectuarem os devidos descontos.
 
-###### Art. 18.º É da competência da Direcção-Geral dos Hospitais a fiscalização do exercício da enfermagem e o registo de diplomas a que se referem os Decretos n.os 12477, de 12 de Outubro de 1926, e 13166, de 28 de Janeiro de 1927.
+Art. 18.º É da competência da Direcção-Geral dos Hospitais a fiscalização do exercício da enfermagem e o registo de diplomas a que se referem os Decretos n.os 12477, de 12 de Outubro de 1926, e 13166, de 28 de Janeiro de 1927.
 
-###### Art. 19.º Até final do ano de 1973, observar-se-ão as seguintes disposições transitórias:
+Art. 19.º Até final do ano de 1973, observar-se-ão as seguintes disposições transitórias:
 
 a) As habilitações literárias indispensáveis aos auxiliares de monitor serão apenas as do 2.º ciclo liceal;
 
 b) Poderá o Ministro da Saúde e Assistência, se as condições assim o exigirem, dispensar as condições de provimento estabelecidas para a carreira de saúde pública, exceptuados os cursos de base.
 
-###### Art. 20.º - 1. Este diploma entra em vigor no dia 1 de Janeiro de 1968, excepto no que respeita ao artigo 17.º e alínea a) do artigo 19.º, cujo vigência se efectuará nos termos normais.
+Art. 20.º - 1. Este diploma entra em vigor no dia 1 de Janeiro de 1968, excepto no que respeita ao artigo 17.º e alínea a) do artigo 19.º, cujo vigência se efectuará nos termos normais.
 
 2. A partir de 1 de Janeiro de 1968 consideram-se alteradas as designações e remunerações das categorias profissionais inscritas nos quadros dos estabelecimentos e serviços oficiais, de acordo com o estabelecido neste diploma e as regras seguintes:
 
@@ -235,7 +287,7 @@ b) Os lugares de auxiliar de enfermagem, depois de efectuada a adição referida
 
 3. Por despachos publicados no Diário do Governo, o Ministro da Saúde e Assistência fixará a divisão de lugares em cada quadro, nos termos do número anterior, e aprovará a distribuição do pessoal em serviço, à qual será aplicável o regime estabelecido nos n.os 2 e 3 do artigo 17.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -243,7 +295,7 @@ Para ser presente à Assembleia Nacional.
 
 Mapa a que se refere o artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29900/25142516.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29900/25142516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29900/25142516.pdf)
 
 Notas
 

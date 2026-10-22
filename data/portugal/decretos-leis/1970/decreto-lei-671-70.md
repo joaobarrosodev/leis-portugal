@@ -49,40 +49,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/671-1970-154450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2274be210ea70e9399942cce2400b2717278d486822a188f8355c4c78d975f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 740f722ba25827aa5ef01c5caebe9c7d9df1a9c2cba1d6493c04c6df5df966a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Ministério do Exército
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:644301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:24Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +118,11 @@ Aproveita-se a oportunidade para rever a organização geral dos dois serviços,
 
 Assim, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintas a Chefia do Serviço do Orçamento e Administração e a Chefia do Serviço de Verificação de Contas e de Inspecção Administrativa do Ministério do Exército.
+Artigo 1.º São extintas a Chefia do Serviço do Orçamento e Administração e a Chefia do Serviço de Verificação de Contas e de Inspecção Administrativa do Ministério do Exército.
 
-###### Art. 2.º É criada a Direcção do Serviço de Administração, que passa a ter as atribuições das duas chefias extintas e definidas nos artigos 137.º e 140.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, e no [Decreto-Lei n.º 47484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47484-1967-239446), de 4 de Janeiro de 1967, bem como a superintendência técnica e acção fiscalizadora sobre as chefias dos serviços de contabilidade e administração das regiões militares e comandos territoriais independentes das províncias ultramarinas.
+Art. 2.º É criada a Direcção do Serviço de Administração, que passa a ter as atribuições das duas chefias extintas e definidas nos artigos 137.º e 140.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, e no [Decreto-Lei n.º 47484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47484-1967-239446), de 4 de Janeiro de 1967, bem como a superintendência técnica e acção fiscalizadora sobre as chefias dos serviços de contabilidade e administração das regiões militares e comandos territoriais independentes das províncias ultramarinas.
 
-###### Art. 3.º A Direcção do Serviço de Administração, dependente do chefe do Estado-Maior do Exército por intermédio do Quartel-Mestre-General, compreende:
+Art. 3.º A Direcção do Serviço de Administração, dependente do chefe do Estado-Maior do Exército por intermédio do Quartel-Mestre-General, compreende:
 
 a) O director, brigadeiro do activo oriundo do serviço de administração militar;
 
@@ -127,18 +144,18 @@ i) A Secção de Planeamento e Coordenação;
 
 j) A Secretaria.
 
-###### Art. 4.º - 1. Por portarias do Ministro do Exército serão definidas as atribuições do director, do adjunto, dos inspectores administrativos e de cada uma das repartições e secções, com especial incidência na Repartição de Contabilidade e Pagadoria, que substituirá o actual Conselho Administrativo.
+Art. 4.º - 1. Por portarias do Ministro do Exército serão definidas as atribuições do director, do adjunto, dos inspectores administrativos e de cada uma das repartições e secções, com especial incidência na Repartição de Contabilidade e Pagadoria, que substituirá o actual Conselho Administrativo.
 
 2. O director será o brigadeiro do serviço de administração militar, professor do curso de altos comandos, tendo em conta o disposto no § único do artigo 1.º do [Decreto-Lei n.º 44552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44552-1962-159682), de 3 de Setembro de 1962.
 
-###### Art. 5.º O presente diploma entra em vigor, progressivamente, a partir de 1 de Janeiro de 1971, à medida que forem sendo publicadas as portarias regulamentares referidas no artigo 4.º
+Art. 5.º O presente diploma entra em vigor, progressivamente, a partir de 1 de Janeiro de 1971, à medida que forem sendo publicadas as portarias regulamentares referidas no artigo 4.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

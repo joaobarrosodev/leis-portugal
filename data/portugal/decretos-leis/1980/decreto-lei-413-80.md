@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1980-461673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54ec5ec45bef870308e664c7ca8539bb79b268d094bb1d1ba193d3f42a6313bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8d2ba3e98684c5b066a7e56299304a97f49f5a05320b3bf286872de0a6e0068
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Biblioteca Universitária
+- Ensino Superior
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:22Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +102,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As bibliotecas que, nas Universidades, Faculdades, escolas, departamentos e estabelecimentos anexos, disponham, a nível nacional, do mais rico património bibliográfico e documental numa área científica e ou tecnológica podarão ser reconhecidas como bibliotecas universitárias nacionais da respectiva área.
+Artigo 1.º - 1 - As bibliotecas que, nas Universidades, Faculdades, escolas, departamentos e estabelecimentos anexos, disponham, a nível nacional, do mais rico património bibliográfico e documental numa área científica e ou tecnológica podarão ser reconhecidas como bibliotecas universitárias nacionais da respectiva área.
 
 2 - O reconhecimento das bibliotecas universitárias nacionais será feito por decreto dos Ministros das Finanças e do Plano e da Educação e Ciência.
 
 3 - Os regulamentos das bibliotecas universitárias nacionais serão aprovados por portaria do Ministro da Educação e Ciência.
 
-###### Art. 2.º O reconhecimento das bibliotecas universitárias como bibliotecas nacionais numa área científica e ou tecnológica implica o reconhecimento da capacidade para a prossecução dos seguintes objectivos:
+Art. 2.º O reconhecimento das bibliotecas universitárias como bibliotecas nacionais numa área científica e ou tecnológica implica o reconhecimento da capacidade para a prossecução dos seguintes objectivos:
 
 a) Constituir para todo o País o repositório completo e actualizado dos trabalhos publicados na área respectiva, nacionais e estrangeiros;
 
 b) Garantir a utilização do seu património por quaisquer entidades interessadas.
 
-###### Art. 3.º Compete às bibliotecas universitárias nacionais, no âmbito da respectiva área científica:
+Art. 3.º Compete às bibliotecas universitárias nacionais, no âmbito da respectiva área científica:
 
 a) Adquirir e recolher os trabalhos publicados, desde que relativos à sua área;
 
@@ -128,11 +130,11 @@ f) Estabelecer actividades de intercâmbio com outras bibliotecas;
 
 g) Manter serviços de informação e reprodução bibliográfica.
 
-###### Art. 4.º - 1 - Aplicam-se a cada biblioteca universitária nacional as disposições legais em vigor quanto à distribuição das publicações da respectiva área científica sujeitas à obrigação do depósito legal.
+Art. 4.º - 1 - Aplicam-se a cada biblioteca universitária nacional as disposições legais em vigor quanto à distribuição das publicações da respectiva área científica sujeitas à obrigação do depósito legal.
 
 2 - Os departamentos ministeriais e demais entidades e organismos públicos nacionais enviarão a cada biblioteca universitária nacional dois exemplares de todos os trabalhos que lhes sejam entregues para quaisquer fins, desde que relativos à área científica da biblioteca.
 
-###### Art. 5.º - 1 - A direcção de cada biblioteca universitária nacional caberá a um director.
+Art. 5.º - 1 - A direcção de cada biblioteca universitária nacional caberá a um director.
 
 2 - O director será nomeado por despacho do Ministro da Educação e Ciência de entre professores da Universidade a que pertença a biblioteca e da mesma área científica, sob proposta do respectivo reitor.
 
@@ -140,7 +142,7 @@ g) Manter serviços de informação e reprodução bibliográfica.
 
 4 - O director exercerá mandatos trienais, renováveis, podendo a cessação das suas funções ocorrer a todo o tempo, observando-se então os trâmites fixados nos n.os 2 e 3 do presente artigo.
 
-###### Art. 6.º Incumbe ao director:
+Art. 6.º Incumbe ao director:
 
 a) Superintender em todos os serviços e actividades da biblioteca;
 
@@ -156,7 +158,7 @@ f) Corresponder-se com quaisquer entidades públicas ou privadas, nacionais ou e
 
 g) Propor superiormente as medidas julgadas adequadas à prossecução dos fins e ao bom funcionamento da biblioteca.
 
-###### Art. 7.º - 1 - O director de cada biblioteca universitária nacional será coadjuvado no exercício das suas funções por um subdirector, no qual poderá delegar parte das suas competências.
+Art. 7.º - 1 - O director de cada biblioteca universitária nacional será coadjuvado no exercício das suas funções por um subdirector, no qual poderá delegar parte das suas competências.
 
 2 - O subdirector será recrutado nos termos da legislação aplicável ao pessoal técnico superior de biblioteca, arquivo e documentação (BAD), com a categoria de assessor ou técnico superior principal.
 
@@ -170,15 +172,15 @@ c) Dirigir e zelar pelo bom funcionamento dos serviços, de acordo com as orient
 
 d) Substituir o director nas suas faltas e impedimentos.
 
-###### Art. 8.º - 1 - As bibliotecas universitárias nacionais elaborarão, em cada ano, o plano de aquisições para o ano seguinte.
+Art. 8.º - 1 - As bibliotecas universitárias nacionais elaborarão, em cada ano, o plano de aquisições para o ano seguinte.
 
 2 - Na elaboração do plano referido no número anterior, serão tidos em conta os pedidos e sugestões feitos à biblioteca por quaisquer entidades públicas ou privadas, singulares ou colectivas, as necessidades sentidas pelo departamento, escola ou estabelecimento de que depende, bem como as necessidades impostas pelo desenvolvimento científico e pelas inovações bibliográficas na respectiva área.
 
 3 - O plano anual de aquisições será aprovado até 30 de Novembro de cada ano pelo conselho do departamento, quando a biblioteca pertença a um departamento, ou pelo conjunto de professores e investigadores doutorados da Universidade a que pertença a biblioteca e da mesma área científica.
 
-###### Art. 9.º O relatório anual de actividades será submetido à apreciação das entidades referidas no n.º 3 do artigo anterior até 31 de Janeiro do ano seguinte àquele a que diga respeito.
+Art. 9.º O relatório anual de actividades será submetido à apreciação das entidades referidas no n.º 3 do artigo anterior até 31 de Janeiro do ano seguinte àquele a que diga respeito.
 
-###### Art. 10.º As bibliotecas universitárias nacionais disporão dos serviços seguintes:
+Art. 10.º As bibliotecas universitárias nacionais disporão dos serviços seguintes:
 
 a) Serviços de Aquisição e Permuta;
 
@@ -188,7 +190,7 @@ c) Serviços de Reprodução e Encadernação;
 
 d) Serviços de Expediente.
 
-###### Art. 11.º Aos Serviços de Aquisição e Permuta incumbe:
+Art. 11.º Aos Serviços de Aquisição e Permuta incumbe:
 
 a) Promover a aquisição das obras, revistas e documentos constantes do plano anual de aquisições e bem assim de todas as que sejam superiormente consideradas indispensáveis ou aconselháveis aos fins da biblioteca, de acordo com as disponibilidades orçamentais;
 
@@ -198,7 +200,7 @@ c) Receber e registar todos os pedidos dirigidos à biblioteca respeitantes a li
 
 d) Estabelecer os contactos necessários com quaisquer entidades, visando a recolha de informações relativas ao panorama nacional e internacional de publicações da área científica da biblioteca.
 
-###### Art. 12.º Aos Serviços de Inventariação e Catalogação incumbe:
+Art. 12.º Aos Serviços de Inventariação e Catalogação incumbe:
 
 a) Realizar e manter actualizado o inventário de todas as obras e documentos pertencentes à biblioteca;
 
@@ -208,7 +210,7 @@ c) Elaborar e manter actualizados os catálogos onomástico, didascálico, ideog
 
 d) Colaborar com o Instituto Nacional de Investigação Científica na elaboração e publicação dos catálogos nacionais nos domínios da ciência e tecnologia.
 
-###### Art. 13.º Aos Serviços de Reprodução e Encadernação incumbe:
+Art. 13.º Aos Serviços de Reprodução e Encadernação incumbe:
 
 a) Assegurar a reprodução de artigos e documentos que se mostrem necessários à prossecução dos objectivos da biblioteca;
 
@@ -216,7 +218,7 @@ b) Promover e realizar os trabalhos necessários à encadernação e manutençã
 
 c) Zelar pelo bom funcionamento e estado de conservação do equipamento que lhe for afecto.
 
-###### Art. 14.º Aos Serviços de Expediente incumbe:
+Art. 14.º Aos Serviços de Expediente incumbe:
 
 a) Assegurar a abertura, registo e distribuição da correspondência;
 
@@ -228,26 +230,26 @@ d) Prestar os esclarecimentos e informações relativos à biblioteca e seu func
 
 e) Assegurar o atendimento dos utentes da biblioteca.
 
-###### Art. 15.º - 1 - Para o integral cumprimento do objectivo fixado na alínea b) do artigo 2.º, as bibliotecas universitárias nacionais poderão satisfazer os pedidos relativos a obras e documentos através do seu envio, a título devolutivo, ou do envio de reproduções aos interessados, salvaguardados os direitos de autor consagrados na legislação vigente.
+Art. 15.º - 1 - Para o integral cumprimento do objectivo fixado na alínea b) do artigo 2.º, as bibliotecas universitárias nacionais poderão satisfazer os pedidos relativos a obras e documentos através do seu envio, a título devolutivo, ou do envio de reproduções aos interessados, salvaguardados os direitos de autor consagrados na legislação vigente.
 
 2 - As despesas com gastos de materiais, utilização de equipamentos e portes de correio provenientes das actividades referidas no número anterior serão suportadas pelos interessados.
 
-###### Art. 16.º - 1 - Os organismos de que dependam bibliotecas reconhecidas como bibliotecas universitárias nacionais inscreverão nos seus orçamentos anuais as dotações necessárias à satisfação dos respectivos planos de aquisições e de actividades e das necessidades de equipamento e despesas de funcionamento.
+Art. 16.º - 1 - Os organismos de que dependam bibliotecas reconhecidas como bibliotecas universitárias nacionais inscreverão nos seus orçamentos anuais as dotações necessárias à satisfação dos respectivos planos de aquisições e de actividades e das necessidades de equipamento e despesas de funcionamento.
 
 2 - A utilização das dotações atribuídas nos termos do número anterior para fins diversos dos aí mencionados só poderá efectivar-se mediante despacho do Ministro da Educação e Ciência.
 
 3 - As receitas provenientes dos serviços prestados pelas bibliotecas universitárias nacionais serão consideradas receitas próprias do organismo de que dependam e destinar-se-ão à satisfação das necessidades das bibliotecas que prestaram os correspondentes serviços.
 
-###### Art. 17.º Os processamentos contabilísticos e as operações de tesouraria provenientes do funcionamento das bibliotecas universitárias nacionais serão assegurados pelos serviços competentes dos organismos de que dependam.
+Art. 17.º Os processamentos contabilísticos e as operações de tesouraria provenientes do funcionamento das bibliotecas universitárias nacionais serão assegurados pelos serviços competentes dos organismos de que dependam.
 
-###### Art. 18.º Os quadros do pessoal dos organismos de que dependam bibliotecas reconhecidas como bibliotecas universitárias nacionais serão acrescidos dos lugares e categorias que se mostrem indispensáveis ao seu funcionamento.
+Art. 18.º Os quadros do pessoal dos organismos de que dependam bibliotecas reconhecidas como bibliotecas universitárias nacionais serão acrescidos dos lugares e categorias que se mostrem indispensáveis ao seu funcionamento.
 
-###### Art. 19.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despachos dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que superintender na função pública, de acordo com os respectivas competências.
+Art. 19.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despachos dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que superintender na função pública, de acordo com os respectivas competências.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
 
-**Promulgado em 19 de Setembro de 1980.**
+Promulgado em 19 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

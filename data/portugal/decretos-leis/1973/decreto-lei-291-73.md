@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1973-422802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc4d89b141af5fe7b265cf466ef9518fa6b26ac1c4c643298e442f296d60bfba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba3d38307bfbaa4a41077f077ae218670583cba381f99d1b014b12428a2e06f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Imóveis
+- Benefícios Fiscais
+- CÃO
+- Comparticipação do Estado
+- Contribuições e Impostos
+- Direcção Geral das Contribuições e Impostos
+- Imposto Complementar
+- Imposto Municipal sobre Veículos
+- Imposto sobre Sucessões e Doações
+- Incapacidade Física
+- Internamento Hospitalar
+- Invalidez
+- Isenção Fiscal
+- Licença de Pesca
+- Licença Municipal
+- Militar
+- Taxa
+- TAXA de Televisão
+- Transporte Ferroviário
+relationships:
+- type: cites
+  target: pt:dre:163785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:17Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +126,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer com lei, o seguinte:
 
-###### Artigo 1.º Aos militares abrangidos pelo [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), de 9 de Maio, cujo grau de invalidez seja igual ou superior a 60%, são concedidas as seguintes regalias:
+Artigo 1.º Aos militares abrangidos pelo [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), de 9 de Maio, cujo grau de invalidez seja igual ou superior a 60%, são concedidas as seguintes regalias:
 
 1. Redução até 50% do imposto complementar e do imposto sucessório, nas condições a estabelecer pelo Ministro das Finanças, depois de ouvida a Direcção-Geral das Contribuições e Impostos;
 
@@ -115,12 +146,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 9. Isenção de pagamento das taxas sobre veículos automóveis ligeiros previstas no artigo 19.º do [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), de 28 de Dezembro, bem como dos direitos e emolumentos de despacho que incidam sobre a importação dos mesmos veículos.
 
-###### Art. 2.º As isenções referidas nos n.os 2, 5 e 9 do artigo anterior não podem ser fruídas por cada beneficiário, por mais do que um veículo, aparelho de rádio ou de televisão de cada vez.
+Art. 2.º As isenções referidas nos n.os 2, 5 e 9 do artigo anterior não podem ser fruídas por cada beneficiário, por mais do que um veículo, aparelho de rádio ou de televisão de cada vez.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 30 de Maio de 1973.**
+Promulgado em 30 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

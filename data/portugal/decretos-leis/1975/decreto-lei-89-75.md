@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1975-160503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4addb34ad1405186efd49ab41b6df58bda0ccd6c87b71619507851a9233ee9eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 871abf5dcc320c72a0e5ecdf20ca345f730c37b8228c116050ff95c3bf357452
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Sanção Militar
+relationships:
+- type: cites
+  target: pt:dre:226219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:48Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +99,18 @@ Considerando, pois, ser de elementar justiça alargar aquela medida de clemênci
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São amnistiadas todas as infracções às normas disciplinares militares, praticadas até ao dia 9 de Outubro de 1974.
+Artigo 1.º São amnistiadas todas as infracções às normas disciplinares militares, praticadas até ao dia 9 de Outubro de 1974.
 
-###### Art. 2.º A amnistia não prejudica a responsabilidade civil emergente dos factos delituosos praticados, nem compreende a anulação dos efeitos das penas, se já verificados.
+Art. 2.º A amnistia não prejudica a responsabilidade civil emergente dos factos delituosos praticados, nem compreende a anulação dos efeitos das penas, se já verificados.
 
-###### Art. 3.º Se houver autos de reclamação ou de recurso pendentes à data da publicação deste diploma relativos a infracções cometidas até ao dia 9 de Outubro, a aplicação das medidas de clemência só poderá ocorrer depois de ter sido proferida decisão final.
+Art. 3.º Se houver autos de reclamação ou de recurso pendentes à data da publicação deste diploma relativos a infracções cometidas até ao dia 9 de Outubro, a aplicação das medidas de clemência só poderá ocorrer depois de ter sido proferida decisão final.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 14 de Fevereiro de 1975.**
+Promulgado em 14 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 12º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 12º Suplemento
+  supplement: null
   pages: 3446-(232) a 3446-(256)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29912/02320256.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-l2-1979-157029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c006e2d5bf5d25e0858d34e9e6b92ebf0e5121fc3bdf95bb1c276aafa3ea36d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b987524d072c4e78b5a3605424e629292148af221c941cd475943f645eabd583
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara dos Revisores Oficiais de Contas
+- Estatuto dos Revisores Oficiais de Contas
+- Regime Jurídico
+- Revisor Oficial de Contas
+- Sociedade de Revisores Oficiais de Contas
 relationships:
 - type: amended_by
   target: pt:dre:347907:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457612:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do artigo 139.º pela RES.377/80.07.11.1980.CR,\
+    \ DR.IS [258] de 07.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/377-1980-457612
+  date: '1980-11-07'
+- type: amended_by
+  target: pt:dre:394549:por
+  label: "Alterados os artigos 3.º, n.º 4, 10.º, n.º 2, 13.º, n.º 2, 15.º, n.º 2, 22.º, n.º 3, 44.º (epígrafe), 57.º, n.º\
+    \ 1, alínea b), 71.º (epígrafe), 76.º, alínea a), 77.º, n.º 1, 85.º, n.º 1, 98.º, n.º 1, alínea e), 139.º, 140.º, alínea\
+    \ a), 142.º, n.º 3, alíneas e) e d), e 153.º, n.º 1 pelo DEC LEI.80/81.21.04.1981.MJ, DR.IS [92] de 21.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1981-394549
+  date: '1981-04-21'
+- type: amended_by
+  target: pt:dre:379526:por
+  label: "Substituído o n.º 1 do artigo 9.º pela PORT.1169/82.20.12.1982.MFP, DR.IS [292] de 20.12.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1169-1982-379526
+  date: '1982-12-20'
+- type: amended_by
+  target: pt:dre:195068:por
+  label: "Alterados os nºs. 1 e 3 do art. 8º e aditado um nº 9 ao art. 9º pelo DEC LEI.73/86.23.04.1986.MF, DR.IS [94] de\
+    \ 23.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1986-195068
+  date: '1986-04-23'
+- type: amended_by
+  target: pt:dre:305051:por
+  label: "Alterado o quadro a que se refere o n.º 1 do artigo 9.º, alterado na Portaria 1169/82, de 20 de Dezembro, pela PORT.905/91.04.09.1991.MF,\
+    \ DR.IS-B [203] de 04.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-1991-305051
+  date: '1991-09-04'
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675841:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678779:por
+  label: Rectificado pela DECL.DD6755.21.02.1980.PCM, DR.IS [54] de 05.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678779
+  date: '1980-02-21'
+- type: repealed_by
+  target: pt:dre:601290:por
+  label: "Revogado o artigo 82.º pelo DEC LEI.8/82.18.01.1982.MAS, DR.IS [14] de 18.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1982-601290
+  date: '1982-01-18'
+- type: repealed_by
+  target: pt:dre:347907:por
+  label: "Revogado pelo DEC LEI.422-A/93.30.12.1993.MJ, DR.IS-A [303]2ºSupl de 30.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/422-a-1993-347907
+  date: '1993-12-30'
 article_structure:
   article_count: 153
   section_count: 48
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:20Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +310,7 @@ Os revisores de contas exercem a sua actividade em todo o território nacional.
 
 Quadros de pontuação para o estabelecimento de limites
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29912/02320256.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29912/02320256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29912/02320256.pdf)
 
 2 - Os limites para as sociedades de revisores são os que resultam do número de sócios multiplicado pelo coeficiente 1,2.
 
@@ -1754,8 +1828,8 @@ As situações existentes à data da entrada em vigor deste diploma que contrari
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/375-1970-139230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d464cec9357a89690da835137659073119e918822eaa5c4ee120464db5faef36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82f06bed64cffb90c4648fd6f76d9b552deb3681376913f4b76de513475359f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:42Z'
   warnings: []
   errors: []
 ---
@@ -87,59 +107,59 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Economia, créditos especiais no montante de 1287900$00, destinados a prover à realização de despesas não previstas no orçamento em vigor do segundo dos mencionados Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Economia, créditos especiais no montante de 1287900$00, destinados a prover à realização de despesas não previstas no orçamento em vigor do segundo dos mencionados Ministérios:
 
 Secretaria de Estado da Agricultura
 
-### Capitulo 3.º-A «Gabinete de Planeamento»:
+Capitulo 3.º-A «Gabinete de Planeamento»:
 
 Despesas com o pessoal:
 
-###### Artigo 34.º-A «Remunerações certas ao pessoal em exercício»:
+Artigo 34.º-A «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante seis meses)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf))](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf)
 
 Secretaria de Estado do Comércio
 
-### Capitulo 8.º-A «Gabinete de Planeamento»:
+Capitulo 8.º-A «Gabinete de Planeamento»:
 
 Despesas com o pessoal:
 
-###### Artigo 196.º-A «Remunerações certas ao pessoal em exercício»:
+Artigo 196.º-A «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante seis meses)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf))](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf)
 
 Secretaria de Estado da Indústria
 
-### Capítulo 13.º-A «Gabinete de Planeamento»:
+Capítulo 13.º-A «Gabinete de Planeamento»:
 
 Despesas com o pessoal
 
-###### Artigo 268.º-A «Remunerações certas ao pessoal em exercício»:
+Artigo 268.º-A «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante seis meses)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf))](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/18700/10481050.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério da Economia
 
-### Capítulo 3.º, artigo 33.º, n.º 1) ... 447200$00
+Capítulo 3.º, artigo 33.º, n.º 1) ... 447200$00
 
-### Capítulo 8.º, artigo 195.º, n.º 1) ... 506700$00
+Capítulo 8.º, artigo 195.º, n.º 1) ... 506700$00
 
-### Capítulo 13.º, artigo 259.º, n.º 1) ... 334000$00
+Capítulo 13.º, artigo 259.º, n.º 1) ... 334000$00
 
 ... 1287900$00
 
@@ -147,8 +167,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 27 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 27 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 13 de Agosto de de 1970. - MARCELLO CAETANO.

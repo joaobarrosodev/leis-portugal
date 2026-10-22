@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27800/14701473.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/671-1974-466212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a62859856f94b3f47c66cd29a76eacfb90a54d3dbc90c79be8f77027556b121c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2d584ac723e28dc6e00ff2c0ba95eb36517f2d961dd50763ba2c0c772ca616e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco de Portugal
+- Delegado
+- Inspecção de Crédito
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:416412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638885:por
+  label: "Alterado o nº2 do art. 5º pelo DEC LEI.163-B/75.27.03.1975.CR, DG.IS [73-2SUPL] de 27.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-b-1975-638885
+  date: '1975-03-27'
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:416412:por
+  label: "Revogado pelo DEC LEI.884/76.29.12.1976.MF, DR.IS [301] de 29.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/884-1976-416412
+  date: '1976-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:15Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +120,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Em ordem a assegurar por parte das instituições de crédito uma melhor observância das orientações e directrizes fixadas pelo Governo e pelo Banco de Portugal quanto à aplicação dos recursos financeiros e quanto à assunção de obrigações para com o estrangeiro, o Ministro das Finanças poderá determinar ao Banco de Portugal a designação de delegados deste junto daquelas instituições.
+Artigo 1.º - 1. Em ordem a assegurar por parte das instituições de crédito uma melhor observância das orientações e directrizes fixadas pelo Governo e pelo Banco de Portugal quanto à aplicação dos recursos financeiros e quanto à assunção de obrigações para com o estrangeiro, o Ministro das Finanças poderá determinar ao Banco de Portugal a designação de delegados deste junto daquelas instituições.
 
 2. A designação de delegados do Banco de Portugal abrangerá todas as instituições de crédito referidas no artigo 2.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, com a exclusão:
 
@@ -107,7 +130,7 @@ b) Das caixas económicas e cooperativas de crédito com valor total de activo q
 
 3. O Ministro das Finanças poderá determinar por despacho a nomeação de delegados do Banco de Portugal, nos termos estabelecidos no presente diploma, para instituições parabancárias, casas de câmbios ou corretores de fundos e câmbios que, para esse efeito, forem expressamente designados.
 
-###### Art. 2.º - 1. Aos delegados do Banco de Portugal junto das instituições de crédito compete recolher informações acerca das aplicações desses estabelecimentos e sobre os compromissos e as obrigações por eles assumidas no estrangeiro, a fim de que o Banco de Portugal possa, nomeadamente, conhecer e controlar:
+Art. 2.º - 1. Aos delegados do Banco de Portugal junto das instituições de crédito compete recolher informações acerca das aplicações desses estabelecimentos e sobre os compromissos e as obrigações por eles assumidas no estrangeiro, a fim de que o Banco de Portugal possa, nomeadamente, conhecer e controlar:
 
 a) A política de crédito de tais instituições, quer no plano da orientação geral, quer no plano da sua execução específica, através de operações de concessão de crédito e de prestação de avales e garantias;
 
@@ -131,7 +154,7 @@ d) Solicitar às administrações das instituições de crédito o fornecimento 
 
 4. Os delegados não poderão ter qualquer intervenção no tocante a assuntos da actividade das instituições de crédito que estejam fora dos domínios mencionados no n.º 1 deste artigo e transcendam a esfera de competência do Banco de Portugal.
 
-###### Art. 3.º - 1. Os delegados do Banco de Portugal comunicarão com urgência ao governador deste os desvios ou dificuldades que encontrarem no desempenho da sua função.
+Art. 3.º - 1. Os delegados do Banco de Portugal comunicarão com urgência ao governador deste os desvios ou dificuldades que encontrarem no desempenho da sua função.
 
 2. Em face das comunicações referidas no número anterior, o Banco de Portugal deverá tomar imediatamente as providências que considere necessárias e estejam dentro da sua competência ou solicitá-las, quando for caso disso, ao Ministério das Finanças.
 
@@ -139,7 +162,7 @@ d) Solicitar às administrações das instituições de crédito o fornecimento 
 
 4. O Banco de Portugal informará o Ministério das Finanças dos desvios ou dificuldades importantes apurados nos termos do n.º 1, enviará ao mesmo Ministério cópias dos relatórios apresentados pelos seus delegados e apresentará, pelo menos uma vez por mês, súmulas apreciativas dos resultados da actividade dos referidos delegados.
 
-###### Art. 4.º - 1. Os delegados do Banco de Portugal junto das instituições de crédito reunir-se-ão pelo menos uma vez por semana, sob a presidência do governador ou de um dos vice-governadores do Banco de Portugal, com o objectivo de:
+Art. 4.º - 1. Os delegados do Banco de Portugal junto das instituições de crédito reunir-se-ão pelo menos uma vez por semana, sob a presidência do governador ou de um dos vice-governadores do Banco de Portugal, com o objectivo de:
 
 a) Receberem instruções acerca da orientação a seguir na sua actividade;
 
@@ -155,7 +178,7 @@ b) Tomarem conhecimento das instruções e participarem na discussão das sugest
 
 3. O governador do Banco de Portugal poderá solicitar que os representantes designados nos termos do número anterior lhe apresentem relatórios mensais com informações sobre a política das respectivas instituições no domínio da distribuição do crédito, da negociação de outros activos e das responsabilidades para com o estrangeiro, de teor semelhante às informações colhidas através de relatórios dos delegados do Banco de Portugal referidos no n.º 3 do artigo 3.º
 
-###### Art. 5.º - 1. Para o exercício das funções criadas por este diploma, o Banco de Portugal organizará, nos trinta dias seguintes à sua entrada em vigor, um quadro de delegados, que deverá ser preenchido com a maior urgência.
+Art. 5.º - 1. Para o exercício das funções criadas por este diploma, o Banco de Portugal organizará, nos trinta dias seguintes à sua entrada em vigor, um quadro de delegados, que deverá ser preenchido com a maior urgência.
 
 2. Podem ser providos nos lugares do quadro de delegados do Banco de Portugal quaisquer pessoas que o conselho de administração do Banco, com despacho concordante do Ministro das Finanças, considere idóneas para o exercício dessas funções.
 
@@ -163,7 +186,7 @@ b) Tomarem conhecimento das instruções e participarem na discussão das sugest
 
 4. O exercício de funções no Estado ou em empresas públicas pelos delegados do Banco de Portugal dependerá de prévio despacho de autorização do Ministro das Finanças.
 
-###### Art. 6.º - 1. Os delegados do Banco de Portugal terão categoria equivalente à de director ou director-adjunto de serviços desse Banco, conforme a sua experiência, preparação profissional e responsabilidades que lhe sejam atribuídas e serão especialmente ajuramentados.
+Art. 6.º - 1. Os delegados do Banco de Portugal terão categoria equivalente à de director ou director-adjunto de serviços desse Banco, conforme a sua experiência, preparação profissional e responsabilidades que lhe sejam atribuídas e serão especialmente ajuramentados.
 
 2. A designação de quaisquer indivíduos para o quadro de delegados do Banco de Portugal, mesmo que respeite a empregados deste, depende sempre de prévia aprovação do Ministro das Finanças.
 
@@ -175,22 +198,22 @@ b) Tomarem conhecimento das instruções e participarem na discussão das sugest
 
 6. As pessoas que à data do contrato de admissão no quadro de delegados prestem serviço ao Estado, a empresas públicas ou a empresas privadas, terão direito a que pelo Banco de Portugal lhes sejam garantidos o subsídio de férias, o subsídio de Natal, a gratificação ou a participação de lucros, as diuturnidades, a pensão de reforma e a pensão de sobrevivência a que nos termos regulamentares ou contratuais teriam direito na entidade donde provêm, não podendo, porém, as remunerações e outras regalias assim garantidas exceder as estabelecidas para empregados do Banco de Portugal de categoria equivalente com mais de um ano de serviço.
 
-###### Art. 7.º - 1. Compete ao conselho de administração do Banco de Portugal colocar os delegados nas instituições referidas no artigo 1.º e, bem assim, transferi-los de umas para outras.
+Art. 7.º - 1. Compete ao conselho de administração do Banco de Portugal colocar os delegados nas instituições referidas no artigo 1.º e, bem assim, transferi-los de umas para outras.
 
 2. Quando circunstâncias de localização, dimensão ou outras o justifiquem, pode um delegado ser colocado junto de mais de uma instituição.
 
 3. Aplicam-se aos delegados do Banco de Portugal as inabilidades e incompatibilidades estabelecidas pelo [Decreto-Lei n.º 49381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49381-1969-215705), de 15 de Novembro de 1969, para os membros dos conselhos fiscais.
 
-###### Art. 8.º Compete ao Banco de Portugal assegurar um serviço de secretariado comum a todos os delegados do quadro.
+Art. 8.º Compete ao Banco de Portugal assegurar um serviço de secretariado comum a todos os delegados do quadro.
 
-###### Art. 9.º O disposto no presente diploma não restringe as funções atribuídas por lei à Inspecção-Geral de Crédito e Seguros.
+Art. 9.º O disposto no presente diploma não restringe as funções atribuídas por lei à Inspecção-Geral de Crédito e Seguros.
 
-###### Art. 10.º Este diploma entra imediatamente em vigor.
+Art. 10.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 26 de Novembro de 1974.**
+Promulgado em 26 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

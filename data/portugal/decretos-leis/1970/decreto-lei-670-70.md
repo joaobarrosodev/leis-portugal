@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/670-1970-154449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 582180d76fbbab6c6e4463b1ed44cce1cc144d96fbd84f1682935ef2447611a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06a2e56ffc33e8872a03206e3a7c5ef99741f5c37c14eb467a6345b88c34e023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- Isenção Fiscal
+- Pauta dos Direitos de Importação
+- Regime Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:163779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163779:por
+  label: "Alterada para 56.01.03 a numeração do art. 56.01.02 constante da lista B anexa do presente diploma pelo DEC LEI.600/72.30.12.1972.MF,\
+    \ DG.IS [302-2ºSupl] de 30.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/600-1972-163779
+  date: '1972-12-30'
+- type: cites
+  target: pt:dre:228398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391404:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447310:por
+  label: "Rectificados os anexo I e II pela RECT.DD408.10.02.1971.PC, DG.IS [34] de 10.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-447310
+  date: '1971-02-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:23Z'
   warnings: []
   errors: []
 ---
@@ -101,29 +126,29 @@ Considerando ainda as disposições da Convenção que instituiu a Associação 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A importação de matérias-primas compreendidas nos artigos pautais constantes do anexo A, realizada por industriais ou comerciantes, beneficiará de isenção de direitos aduaneiros.
+Artigo 1.º A importação de matérias-primas compreendidas nos artigos pautais constantes do anexo A, realizada por industriais ou comerciantes, beneficiará de isenção de direitos aduaneiros.
 
-###### Art. 2.º Os direitos aduaneiros respeitantes às matérias-primas classificadas pelos artigos pautais descritos no anexo B, importadas por industriais ou comerciantes, serão reduzidos a 50 por cento.
+Art. 2.º Os direitos aduaneiros respeitantes às matérias-primas classificadas pelos artigos pautais descritos no anexo B, importadas por industriais ou comerciantes, serão reduzidos a 50 por cento.
 
-###### Art. 3.º Os aludidos anexos A e B que seguem juntos ao presente diploma, substituem, respectivamente, os anexos I e II do despacho do Conselho de Ministros para os Assuntos Económicos de 31 de Janeiro de 1968.
+Art. 3.º Os aludidos anexos A e B que seguem juntos ao presente diploma, substituem, respectivamente, os anexos I e II do despacho do Conselho de Ministros para os Assuntos Económicos de 31 de Janeiro de 1968.
 
-###### Art. 4.º A isenção de direitos prevista no despacho do Conselho de Ministros para os Assuntos Económicos de 31 de Janeiro de 1968, para as mercadorias constantes do seu anexo VI, só se aplicará no caso em que os direitos que seriam devidos por cada bilhete de despacho, calculados pela pauta mínima, igualem ou excedam a importância de 5000$00.
+Art. 4.º A isenção de direitos prevista no despacho do Conselho de Ministros para os Assuntos Económicos de 31 de Janeiro de 1968, para as mercadorias constantes do seu anexo VI, só se aplicará no caso em que os direitos que seriam devidos por cada bilhete de despacho, calculados pela pauta mínima, igualem ou excedam a importância de 5000$00.
 
-###### Art. 5.º - 1. As mercadorias classificadas pelos artigos pautais constantes do anexo C, quando importadas por fabricantes nacionais de relógios que as utilizem exclusivamente na sua indústria, são isentas de direitos.
+Art. 5.º - 1. As mercadorias classificadas pelos artigos pautais constantes do anexo C, quando importadas por fabricantes nacionais de relógios que as utilizem exclusivamente na sua indústria, são isentas de direitos.
 
 2. Para beneficiarem desta regalia os fabricantes de relógios comprometem-se, mediante termo de responsabilidade, a utilizar as mercadorias importadas exclusivamente na sua indústria. As mercadorias que forem desviadas da aplicação referida no n.º 1 deste artigo consideram-se descaminhadas aos direitos do artigo pautal correspondente.3. Os fabricantes de relógios deverão registar em livro próprio as quantidades de mercadorias importadas e as respectivas saídas, facultando ao exame da fiscalização aduaneira todos os elementos que se tornem necessários à averiguação dessas aplicações e à conferência das existências.
 
-###### Art. 6.º Da lista anexa ao [Decreto-Lei n.º 86/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1970-228398), de 7 de Março de 1970, deverão ser retirados os relógios de pulso, constantes da posição 91.01, que passarão e seguir o regime do § 4 do Anexo G da Convenção de Estocolmo, e os artigos pautais 91.09.03 e 91.09.04.
+Art. 6.º Da lista anexa ao [Decreto-Lei n.º 86/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1970-228398), de 7 de Março de 1970, deverão ser retirados os relógios de pulso, constantes da posição 91.01, que passarão e seguir o regime do § 4 do Anexo G da Convenção de Estocolmo, e os artigos pautais 91.09.03 e 91.09.04.
 
-###### Art. 7.º São introduzidos na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, os produtos abrangidos pelos artigos pautais 91.09.03, 91.09.04 e 91.11.
+Art. 7.º São introduzidos na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, os produtos abrangidos pelos artigos pautais 91.09.03, 91.09.04 e 91.11.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 18 de Dezembro de 1970.**
+Promulgado em 18 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -1373,4 +1398,4 @@ Acabadas:
 
 91.11 Outras peças para relojoaria.
 
-**O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro das Finanças, João Augusto Dias Rosas.

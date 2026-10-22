@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27300/28122813.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1977-281378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2f41e1a9f2e93fe7b7f5fcc17170d32e44eae837399bd10c24dcda96865e7d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 220e3e4b6628b8497646b2af5728a795a673b76ff6a08d9c75f4885d64125049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança
+- Cobrança de Dívidas
+- Direção Geral da Saúde
+- Execução Fiscal
+- Serviços de Justiça Fiscal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:11Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +104,9 @@ Tornando-se necessário regular a forma de proceder à cobrança coerciva das ta
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A cobrança das taxas em dívida à Direcção-Geral de Saúde, qualquer que seja a sua proveniência e forma de liquidação e cobrança, quando não pagas no prazo de cobrança à boca do cofre ou no prazo fixado no aviso ou carta-postal registada, far-se-á pelo processo das execuções fiscais através dos Serviços de Justiça Fiscal.
+Artigo 1.º A cobrança das taxas em dívida à Direcção-Geral de Saúde, qualquer que seja a sua proveniência e forma de liquidação e cobrança, quando não pagas no prazo de cobrança à boca do cofre ou no prazo fixado no aviso ou carta-postal registada, far-se-á pelo processo das execuções fiscais através dos Serviços de Justiça Fiscal.
 
-###### Art. 2.º - 1 - O processo terá por base certidão passada pelos serviços ou entidades competentes, nos termos da legislação respectiva, e da qual constem os elementos seguintes:
+Art. 2.º - 1 - O processo terá por base certidão passada pelos serviços ou entidades competentes, nos termos da legislação respectiva, e da qual constem os elementos seguintes:
 
 a) Indicação do preceito ou preceitos legais que conferem competência à entidade participante para formular a participação;
 
@@ -111,12 +122,12 @@ f) Assinatura da entidade participante, devidamente autenticada com o selo branc
 
 2 - A mora do devedor, a que alude a alínea d) do número anterior, conta-se a partir da data em que aquele, avisado por escrito para efectuar o pagamento da taxa, não promova tal pagamento por causa que lhe seja imputável.
 
-###### Art. 3.º O disposto no presente diploma aplica-se, salva a hipótese de prescrição, a todas as taxas actualmente em dívida.
+Art. 3.º O disposto no presente diploma aplica-se, salva a hipótese de prescrição, a todas as taxas actualmente em dívida.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 15 de Novembro de 1977.**
+Promulgado em 15 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

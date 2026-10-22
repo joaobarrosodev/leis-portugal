@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1974-473765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9c3bc6821dd3d14bfb882130ace26435d91f20c87e65fea5e939937fde0d7ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85692603d78f9a31e8edc1fd5660ffd378d0a2bc8a7e090cd65352b306098e23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Nacional Ultramarino
+- Nacionalização
 relationships:
 - type: amended_by
   target: pt:dre:388387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235942:por
+  label: "Alterada para 31.03.1975, a data limite fixada no nº1 do art. 4º pelo DEC LEI.797/74.31.12.1974.MF, DG.IS [303-6ºSupl]\
+    \ de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/797-1974-235942
+  date: '1974-12-31'
+- type: amended_by
+  target: pt:dre:335932:por
+  label: "Alterada para 30.06.1975, a data limite fixada no nº1 do art. 4º do presente diploma, pelo DEC LEI.273/75.02.06.1975.MF,\
+    \ DG.IS [126] de 02.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1975-335932
+  date: '1975-06-02'
+- type: amended_by
+  target: pt:dre:307239:por
+  label: "Prorrogado o prazo fixado no art. 7º pelo DEC LEI.729-J/75.22.12.1975.MF, DG.IS [294-4ºSupl] de 22.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/729-j-1975-307239
+  date: '1975-12-22'
+- type: amended_by
+  target: pt:dre:416409:por
+  label: "Alterado o prazo estabelecido no art. 7º do presente diploma, prorrogado pelo Dec Lei 729-J/75, de 22-Dez, pelo\
+    \ DEC LEI.882/76.29.12.1976.MF, DR.IS [301] de 29.12.1976\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/882-1976-416409
+  date: '1976-12-29'
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:49Z'
   warnings: []
   errors: []
 ---
@@ -166,10 +195,10 @@ As dúvidas que se suscitarem na execução do presente diploma serão resolvida
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 10 de Setembro de 1974.**
+Promulgado em 10 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais do Estado de Moçambique e das províncias ultramarinas. - A. Almeida Santos.

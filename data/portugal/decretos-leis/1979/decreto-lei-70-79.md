@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/07600/05280529.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1979-382993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df4a9749e35f210664963bafcaf3270637541c878ec2e1d2a2476d5095bf0ac9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0aa609e17cbd8c8eaa3e36f89d9b14917db0678944ca4f2a5e70b3f21a71cf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:628362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576366:por
+  label: "Alterado o art. 2.º e a al. a) do nº 1 do art. 3.º pela LEI.18/81.1981.08.17.AR DR.IS [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-1981-576366
+  date: '1981-08-17'
+- type: amended_by
+  target: pt:dre:599529:por
+  label: "Alterada a redacção da al. a) do nº 1 do art. 3º, ratificado pela Lei 18/81 de 17-Ago, pela LEI.3/87.1987.01.09.AR,\
+    \ DR.IS [7]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1987-599529
+  date: '1987-01-09'
+- type: cites
+  target: pt:dre:271792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357279:por
+  label: "Revogado, em tudo o que respeita ao passaporte especial de serviço, pelo DEC LEI.438/88.29.11.1988.MAI, DR.IS [276]\
+    \ de 29.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1988-357279
+  date: '1988-11-29'
+- type: repealed_by
+  target: pt:dre:626808:por
+  label: "Revogada a al. a) do n.º 1 do art. 3.º, do presente diploma, alterado pela Lei 18/81 de 18-Ago e pela Lei 3/87 de\
+    \ 19-Jan, na parte respeitante aos Deputados, pela LEI.7/93.1993.03.01.AR DR.IS-A [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-1993-626808
+  date: '1993-03-01'
+- type: repealed_by
+  target: pt:dre:386237:por
+  label: "Revogada a al. a) do n.º 1 do art. 3.º, pela LEI.3/2001.2001.02.23.AR DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-2001-386237
+  date: '2001-02-23'
+- type: repealed_by
+  target: pt:dre:628362:por
+  label: "Revogado, a partir de 21.11.2007, pelo DEC LEI.383/2007.16.11.2007.MNE, DR.IS [221] de 16.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-2007-628362
+  date: '2007-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:21Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +137,9 @@ Considerando a oportunidade de ajustar a regulamentação dos passaportes emitid
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os passaportes diplomáticos e os passaportes especiais de serviço são emitidos pelo Serviço de Protocolo do Ministério dos Negócios Estrangeiros e pelas missões diplomáticas no estrangeiro, de acordo com as disposições contidas no presente diploma.
+Artigo 1.º Os passaportes diplomáticos e os passaportes especiais de serviço são emitidos pelo Serviço de Protocolo do Ministério dos Negócios Estrangeiros e pelas missões diplomáticas no estrangeiro, de acordo com as disposições contidas no presente diploma.
 
-###### Art. 2.º - 1 - São titulares de passaporte diplomático:
+Art. 2.º - 1 - São titulares de passaporte diplomático:
 
 a) Presidente da República;
 
@@ -120,7 +163,7 @@ i) Funcionários do quadro do pessoal especializado do Ministério dos Negócios
 
 3 - Poderá o secretário-geral do Ministério dos Negócios Estrangeiros, quando as circunstâncias o justifiquem, manter a atribuição do passaporte diplomático aos cônjuges sobrevivos dos funcionários referidos na alínea h) do n.º 1.
 
-###### Art. 3.º - 1 - Podem ser concedidos passaportes diplomáticos às entidades seguintes:
+Art. 3.º - 1 - Podem ser concedidos passaportes diplomáticos às entidades seguintes:
 
 a) Deputados da Assembleia da República, das Assembleias Regionais e membros dos Governos Regionais, quando em missão oficial;
 
@@ -140,7 +183,7 @@ h) Correios de gabinete.
 
 2 - Podem igualmente ser concedidos passaportes diplomáticos aos cônjuges das entidades referidas nas alíneas a), b), c), e), f) e g) do número anterior, quando com elas tenham de viajar.
 
-###### Art. 4.º - 1 - Podem ser concedidos passaportes especiais de serviço às seguintes entidades:
+Art. 4.º - 1 - Podem ser concedidos passaportes especiais de serviço às seguintes entidades:
 
 a) Entidades encarregadas pelo Ministério dos Negócios Estrangeiros de uma missão extraordinária de serviço público no estrangeiro não abrangidas pelos casos expressamente definidos nos artigos 2.º e 3.º do presente diploma;
 
@@ -152,9 +195,9 @@ d) Pessoal dos serviços auxiliares das missões diplomáticas e consulares de P
 
 2 - Podem, igualmente, ser expedidos passaportes especiais de serviço em favor dos familiares das pessoas referidas nas alíneas b), c) e d) do número anterior, nos termos do § 1.º do artigo 146.º do Regulamento do Ministério dos Negócios Estrangeiros, quando com elas vivam ou com elas tenham de viajar e não exerçam profissão.
 
-###### Art. 5.º Poderá excepcionalmente o Ministério dos Negócios Estrangeiros, quando as circunstâncias o justifiquem, autorizar, por despacho, a emissão de passaportes diplomáticos ou de serviço a outras entidades além das referidas nos artigos 2.º, 3.º e 4.º
+Art. 5.º Poderá excepcionalmente o Ministério dos Negócios Estrangeiros, quando as circunstâncias o justifiquem, autorizar, por despacho, a emissão de passaportes diplomáticos ou de serviço a outras entidades além das referidas nos artigos 2.º, 3.º e 4.º
 
-###### Art. 6.º - 1 - Os passaportes diplomáticos e de serviço obedecerão aos modelos anexos ao [Decreto-Lei n.º 612/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1974-271792), de 13 de Novembro.
+Art. 6.º - 1 - Os passaportes diplomáticos e de serviço obedecerão aos modelos anexos ao [Decreto-Lei n.º 612/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1974-271792), de 13 de Novembro.
 
 2 - Além de conterem coladas as fotografias das pessoas a que respeitam e autenticadas com o selo branco da entidade que os emitiu, os passaportes deverão mencionar:
 
@@ -172,13 +215,13 @@ f) O prazo de validade;
 
 g) O número de registo.
 
-###### Art. 7.º - 1 - Os passaportes diplomáticos referidos no artigo 2.º e os passaportes especiais de serviço referidos nas alíneas b), c) e d) do n.º 1 do artigo 4.º terão a validade de um ano, sucessivamente prorrogável por iguais períodos de tempo, sem prejuízo da sua caducidade por perda do cargo do respectivo titular.
+Art. 7.º - 1 - Os passaportes diplomáticos referidos no artigo 2.º e os passaportes especiais de serviço referidos nas alíneas b), c) e d) do n.º 1 do artigo 4.º terão a validade de um ano, sucessivamente prorrogável por iguais períodos de tempo, sem prejuízo da sua caducidade por perda do cargo do respectivo titular.
 
 2 - Os passaportes diplomáticos referidos no artigo 3.º e os passaportes especiais de serviço referidos na alínea a) do n.º 1 do artigo 4.º terão a validade correspondente à duração provável da missão para que foram nomeados os respectivos titulares.
 
 3 - A revalidação, por novo prazo, dos passaportes referidos nos números anteriores é feita com as formalidades estabelecidas para a sua emissão e tem os mesmos efeitos.
 
-###### Art. 8.º - 1 - A expedição de passaportes diplomáticos e de passaportes especiais de serviço depende de visto prévio ou de autorização da entidade competente, mediante requisição do interessado.
+Art. 8.º - 1 - A expedição de passaportes diplomáticos e de passaportes especiais de serviço depende de visto prévio ou de autorização da entidade competente, mediante requisição do interessado.
 
 2 - A expedição de passaportes diplomáticos a favor das entidades referidas no artigo 2.º será feita sob simples visto do Ministro ou do secretário-geral do Ministério dos Negócios Estrangeiros e, nas embaixadas, dos embaixadores respectivos, aposto em requisição assinada pelo interessado.
 
@@ -188,20 +231,20 @@ g) O número de registo.
 
 5 - Sempre que nas embaixadas forem expedidos passaportes nos termos deste diploma, será o facto comunicado imediatamente à Secretaria-Geral do Ministério; os serviços do protocolo dar-lhes-ão baixa nos livros a que se refere o artigo seguinte, depois de verificar a legalidade da emissão; não se tendo nesta observado os termos da lei, será o passaporte anulado e mandado apreender imediatamente.
 
-###### Art. 9.º A expedição de passaportes será lançada em livros próprios; os passaportes que o Ministério fornecer às embaixadas serão devidamente numerados e rubricados pelo chefe do protocolo do Estado, ficando o seu lugar em aberto nos livros acima referidos.
+Art. 9.º A expedição de passaportes será lançada em livros próprios; os passaportes que o Ministério fornecer às embaixadas serão devidamente numerados e rubricados pelo chefe do protocolo do Estado, ficando o seu lugar em aberto nos livros acima referidos.
 
-###### Art. 10.º - 1 - Os titulares dos passaportes cujo prazo de validade tenha expirado deverão sempre devolvê-los aos serviços emitentes.
+Art. 10.º - 1 - Os titulares dos passaportes cujo prazo de validade tenha expirado deverão sempre devolvê-los aos serviços emitentes.
 
 2 - As entidades referidas no artigo 3.º e na alínea a) do n.º 1 do artigo 4.º devolverão igualmente os passaportes de que tiverem feito uso findo a missão para que foram designadas.
 
-###### Art. 11.º Serão apreendidos pelas autoridades a que forem apresentados os passaportes que não satisfizerem o preceituado no presente diploma e aqueles cujo prazo de validade houver expirado; logo em seguida, serão enviados ao Ministério dos Negócios Estrangeiros.
+Art. 11.º Serão apreendidos pelas autoridades a que forem apresentados os passaportes que não satisfizerem o preceituado no presente diploma e aqueles cujo prazo de validade houver expirado; logo em seguida, serão enviados ao Ministério dos Negócios Estrangeiros.
 
-###### Art. 12.º Fica revogado o [Decreto-Lei n.º 612/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1974-271792), de 13 de Novembro, salvo no respeitante aos modelos anexos, que se consideram parte integrante do presente diploma.
+Art. 12.º Fica revogado o [Decreto-Lei n.º 612/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1974-271792), de 13 de Novembro, salvo no respeitante aos modelos anexos, que se consideram parte integrante do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 15 de Março de 1979.**
+Promulgado em 15 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

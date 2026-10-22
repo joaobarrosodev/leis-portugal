@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/56-1984-399674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abfa33934a54ecb77f812f038fb964675dd212a81ae53712f377d45e9eab212b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95ce01afb0a1a76ccedc236e47925632a0c0fb94f889bbc1799b8579e5ab6482
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armas e Munições
+- Convenção
+- Portugal
+- Uso e porte de arma
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:22Z'
   warnings: []
   errors: []
 ---
@@ -87,21 +91,21 @@ de 28 de Setembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção Europeia sobre o Controle da Aquisição e Detenção de Armas de Fogo por Particulares, aberta à assinatura em Estrasburgo em 28 de Junho de 1978, cujo texto original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo 1.º É aprovada, para ratificação, a Convenção Europeia sobre o Controle da Aquisição e Detenção de Armas de Fogo por Particulares, aberta à assinatura em Estrasburgo em 28 de Junho de 1978, cujo texto original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
 
-###### Art. 2.º Ao texto da Convenção é formulada a seguinte reserva: nos termos do artigo 15.º, conjugado com o disposto no anexo II, Portugal não aplicará os capítulos II e III da Convenção no que concerne aos objectos compreendidos nas alíneas j) a n) do § 1.º e nos §§ 2.º e 3.º do anexo I.
+Art. 2.º Ao texto da Convenção é formulada a seguinte reserva: nos termos do artigo 15.º, conjugado com o disposto no anexo II, Portugal não aplicará os capítulos II e III da Convenção no que concerne aos objectos compreendidos nas alíneas j) a n) do § 1.º e nos §§ 2.º e 3.º do anexo I.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Rui Manuel Parente Chancerelle de Machete.
 
-**Assinado em 14 de Setembro de 1984.**
+Assinado em 14 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Setembro de 1984.**
+Referendado em 17 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENTION EUROPÉENNE SUR LE CONTRÔLE DE L'ACQUISITION ET DE LA DÉTENTION D'ARMES À FEU PAR DES PARTICULIERS
 
@@ -383,7 +387,7 @@ acordam no seguinte:
 
 ### CAPÍTULO I — Definições e disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para os fins da presente Convenção:
 
@@ -395,35 +399,35 @@ c) O termo «armeiro» designa qualquer pessoa cuja actividade profissional cons
 
 d) O termo «residente» designa qualquer pessoa com residência habitual no território de uma Parte Contratante, em conformidade com a regra n.º 9 do anexo à resolução (72) 1 do Comité de Ministros do Conselho da Europa.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As Partes Contratantes comprometem-se a prestar assistência mútua, por intermédio das autoridades administrativas adequadas, para a repressão do tráfico ilícito de armas de fogo e para a procura e descoberta de armas de fogo transferidas do território de um Estado para o território de outro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Cada uma das Partes Contratantes é livre de estabelecer leis e regulamentos relativos às armas de fogo desde que essas leis e regulamentos não sejam incompatíveis com as disposições da presente Convenção.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 A presente Convenção não se aplica às transacções relativas a armas de fogo em que todas as partes sejam Estados ou actuem por conta de Estados.
 
 ### CAPÍTULO II — Notificação de transacções
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - Se uma arma de fogo que se encontre no território de uma Parte Contratante for vendida, transferida ou cedida, a qualquer título, a uma pessoa residente no território de outra Parte Contratante, a primeira Parte deverá notificar a segunda pelos modos previstos nos artigos 8.º e 9.º
 
 2 - Com vista à aplicação das disposições do n.º 1 do presente artigo, cada uma das Partes Contratantes tomará as medidas necessárias a fim de que qualquer pessoa que venda, transfira ou ceda, a qualquer título, uma arma de fogo que se encontre no seu território forneça informações sobre a transacção às autoridades competentes dessa Parte.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Se uma arma de fogo que se encontre no território de uma Parte Contratante for transferida, de modo permanente e sem alteração da posse, para o território de outra Parte Contratante, a primeira Parte notificará a segunda pelos modos previstos nos artigos 8.º e 9.º
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As notificações previstas nos artigos 5.º e 6.º serão igualmente feitas às Partes Contratantes por cujo território transite uma arma de fogo, sempre que o Estado de proveniência dessa arma entenda ser útil essa informação.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - As notificações previstas nos artigos 5.º, 6.º e 7.º serão feitas o mais rapidamente possível. As Partes Contratantes esforçar-se-ão por agir de forma que a notificação preceda a transacção ou a transferência a que se refere, na falta do que deverá ser feita o mais rapidamente possível após a transferência ou transacção.
 
@@ -433,7 +437,7 @@ a) A identidade, número de passaporte ou do bilhete de identidade e endereço d
 
 b) O tipo, marca e características da arma de fogo em causa, bem como o seu número ou qualquer outro sinal distintivo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - As notificações previstas nos artigos 5.º, 6.º e 7.º serão efectuadas entre as autoridades nacionais que as Partes Contratantes designarem.
 
@@ -443,7 +447,7 @@ b) O tipo, marca e características da arma de fogo em causa, bem como o seu nú
 
 ### CAPÍTULO III — Dupla autorização
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - Cada uma das Partes Contratantes tomará as medidas necessárias para assegurar que nenhuma arma de fogo que se encontre no seu território seja vendida, transferida ou cedida, a qualquer título, a uma pessoa aí não residente que não tenha obtido autorização prévia das autoridades competentes da referida Parte Contratante.
 
@@ -453,13 +457,13 @@ b) O tipo, marca e características da arma de fogo em causa, bem como o seu nú
 
 4 - As autorizações referidas nos n.os 1 e 2 do presente artigo poderão ser substituídas por uma licença internacional.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Qualquer Estado, no momento do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão, indicará qual das suas autoridades é competente para emitir as autorizações referidas no n.º 2 do artigo 10.º Notificará imediatamente o Secretário-Geral do Conselho da Europa de qualquer modificação ulterior da identidade dessas autoridades.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1 - A presente Convenção fica aberta à assinatura dos Estados membros do Conselho da Europa. Será submetida a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -467,13 +471,13 @@ Qualquer Estado, no momento do depósito do seu instrumento de ratificação, ac
 
 3 - No que se refere a qualquer Estado signatário que a ratifique, aceite ou aprove posteriormente, a presente Convenção entrará em vigor no primeiro dia do mês seguinte ao termo de um período de 3 meses a contar da data do depósito do seu instrumento de ratificação, aceitação ou aprovação.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1 - Após a entrada em vigor da presente convenção, o Comité de Ministros do Conselho da Europa poderá convidar qualquer Estado não membro do Conselho a aderir à presente Convenção. A decisão relativa a esse convite será tomada em conformidade com o artigo 20.º, alínea d), do Estatuto do Conselho da Europa e deverá ter o acordo unânime dos Estados membros do Conselho da Europa que sejam Partes Contratantes na Convenção.
 
 2 - A adesão efectuar-se-á mediante o depósito, junto do Secretário-Geral do Conselho da Europa, de um instrumento de adesão, que produzirá efeito 3 meses após a data do seu depósito.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1 - Qualquer Estado poderá, no momento da assinatura ou do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão, designar o território ou territórios a que se aplicará a presente Convenção.
 
@@ -481,7 +485,7 @@ Qualquer Estado, no momento do depósito do seu instrumento de ratificação, ac
 
 3 - Qualquer declaração feita ao abrigo do número anterior poderá ser retirada, no que respeita a qualquer território designado na declaração, mediante notificação dirigida ao Secretário-Geral. A retirada produzirá efeito 6 meses após a data de recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1 - Qualquer Estado poderá, no momento da assinatura ou do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão, declarar que fará uso de uma ou mais das reservas constantes do anexo II à presente Convenção.
 
@@ -489,7 +493,7 @@ Qualquer Estado, no momento do depósito do seu instrumento de ratificação, ac
 
 3 - A Parte Contratante que tenha formulado uma reserva ao abrigo do n.º 1 do presente artigo não poderá exigir a aplicação, por outra Parte, da disposição que tenha sido objecto da reserva; poderá, no entanto, caso a reserva seja parcial ou condicional, exigir a aplicação dessa disposição na justa medida em que ela própria a tenha aceite.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - As Partes Contratantes só poderão concluir entre si acordos bilaterais ou multilaterais relativos às questões regidas pela presente Convenção para completar as disposições desta ou para facilitar a aplicação dos princípios nela contidos.
 
@@ -497,21 +501,21 @@ Qualquer Estado, no momento do depósito do seu instrumento de ratificação, ac
 
 3 - As Partes Contratantes que venham a excluir das suas relações mútuas a aplicação da presente Convenção, em conformidade com o n.º 2 do presente artigo, deverão dirigir, para o efeito, uma notificação ao Secretário-Geral do Conselho da Europa.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1 - O Comité Europeu para os Problemas Criminais do Conselho da Europa acompanhará a execução da presente Convenção e facilitará, tanto quanto necessário, a resolução amigável de qualquer dificuldade emergente dessa execução.
 
 2 - O Comité Europeu para os Problemas Criminais poderá, em função da evolução técnica, social e económica, formular e submeter ao Comité de Ministros do Conselho da Europa propostas com vista a emendar ou completar as disposições da presente Convenção e, designadamente, modificar o conteúdo do anexo I.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1 - Em caso de guerra ou noutras circunstâncias excepcionais, qualquer Parte Contratante poderá fixar regras que derroguem temporariamente as disposições da presente Convenção e que tenham efeito imediato. Notificará, sem demora, o Secretário-Geral do Conselho da Europa dessa derrogação e do seu termo.
 
 2 - Qualquer Parte Contratante poderá denunciar a presente Convenção, mediante notificação dirigida ao Secretário-Geral do Conselho da Europa. A denúncia produzirá efeito 6 meses após a data da recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
-**O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho, assim como a qualquer Estado que tenha aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho, assim como a qualquer Estado que tenha aderido à presente Convenção:
 
 a) As assinaturas;
 

@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/51-1985-170946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47fb568d35cdc020abea805ac908c5d2a55867673fadd966e9ba9b3ffdbdbc50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc8af4fa1cccdd7d0ce647623934aba03271b7366465c744e67151b2ec785545
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Circulação de Mercadorias
+- Convenção
+- Direitos Aduaneiros
+- Pauta Aduaneira
+- Portugal
 relationships: []
 article_structure:
-  article_count: 29
+  article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:32Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +93,19 @@ de 10 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo sob forma de troca de cartas que modifica e codifica o texto do Protocolo n.º 3 do Acordo entre a Comunidade Económica Europeia e a República Portuguesa de 22 de Julho de 1972, assinado em Bruxelas em 23 de Maio de 1985, cujo texto na língua portuguesa acompanha o presente decreto.
+Artigo único. É aprovado o Acordo sob forma de troca de cartas que modifica e codifica o texto do Protocolo n.º 3 do Acordo entre a Comunidade Económica Europeia e a República Portuguesa de 22 de Julho de 1972, assinado em Bruxelas em 23 de Maio de 1985, cujo texto na língua portuguesa acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - O Primeiro-Ministro, Mário Soares. - O Vice-Primeiro-Ministro, Rui Manuel Parente Chancerelle de Machete. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 8 de Outubro de 1985.**
+Assinado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ACORDO SOB FORMA DE TROCA DE CARTAS QUE MODIFICA E CODIFICA O TEXTO DO PROTOCOLO n.º 3 DO ACORDO ENTRE A COMUNIDADE ECONÓMICA EUROPEIA E A REPÚBLICA PORTUGUESA.
 
@@ -319,9 +325,9 @@ A data de emissão do certificado EUR-1 deve ser indicada na parte desse certifi
 
 As autoridades aduaneiras só podem emitir a posteriori um certificado EUR-1 desde que tenham verificado que as indicações contidas no pedido do exportador estão conformes com as do processo correspondente.
 
-Os certificados EUR-1 emitidos a posteriori devem incluir uma das seguintes indicações: [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+Os certificados EUR-1 emitidos a posteriori devem incluir uma das seguintes indicações: [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
-6 - No caso de roubo, perda ou destruição de um certificado EUR-1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via que tenha por base os documentos de exportação que se encontram em poder dessas autoridades. A segunda via emitida nestes termos deve incluir uma das seguintes indicações: [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+6 - No caso de roubo, perda ou destruição de um certificado EUR-1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via que tenha por base os documentos de exportação que se encontram em poder dessas autoridades. A segunda via emitida nestes termos deve incluir uma das seguintes indicações: [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
 A segunda via, na qual se deve reproduzir a data do certificado EUR-1 original, produz efeito a partir dessa data.
 
@@ -405,7 +411,7 @@ b) Ou ser aposto pelo exportador qualificado o carimbo especial aprovado pelas a
 
 A casa 11 «Visto da alfândega» do certificado EUR-1 é, eventualmente, completada pelo exportador qualificado.
 
-5 - Nos casos referidos na alínea a) do parágrafo 4, na casa 7 «Observações» do certificado EUR-1, será inscrita uma das seguintes frases: [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf). O exportador qualificado indica, se for caso disso, na casa 13 «Pedido de verificação» do certificado EUR-1 o nome e o endereço da autoridade aduaneira competente para efectuar a verificação do certificado EUR-1.
+5 - Nos casos referidos na alínea a) do parágrafo 4, na casa 7 «Observações» do certificado EUR-1, será inscrita uma das seguintes frases: [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf). O exportador qualificado indica, se for caso disso, na casa 13 «Pedido de verificação» do certificado EUR-1 o nome e o endereço da autoridade aduaneira competente para efectuar a verificação do certificado EUR-1.
 
 6 - As autoridades aduaneiras devem indicar na autorização, especialmente:
 
@@ -591,25 +597,25 @@ Entendem-se por «produtos destinados a serem utilizados no fabrico» todos os p
 
 Lista das operações ou transformações que Implicam um mudança de posição pautal, mas que não conferem a qualidade de produtos originários aos produtos a elas submetidos ou que a conferem só em determinadas condições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
 ## ANEXO III — Lista B
 
 Lista das operações ou transformações que não implicam uma mudança de posição pautal, mas que, não obstante, conferem a qualidade de produtos originários aos produtos a elas submetidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
 ## ANEXO IV — Lista C
 
 Lista dos produtos excluídos da aplicação do presente Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
 ## ANEXO V — Certificado de circulação de mercadorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
 Instruções relativas ao preenchimento do formulário EUR-2
 
@@ -623,7 +629,7 @@ Instruções relativas ao preenchimento do formulário EUR-2
 
 ## ANEXO VII — Pedido de certificado de circulação de mercadorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
 
 Declaração do exportador
 
@@ -649,4 +655,4 @@ Solicito a emissão do certificado junto para estas mercadorias.
 
 (nota 1) Por exemplo, documentos de importação, certificados de circulação, facturas, declarações do fabricante, etc., referentes aos produtos utilizados no fabrico ou às mercadorias reexportadas no estado em que foram importadas.
 
-## ANEXO VIII — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)
+## ANEXO VIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28400/40724108.pdf)

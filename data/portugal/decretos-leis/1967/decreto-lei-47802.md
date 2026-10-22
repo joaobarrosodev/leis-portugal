@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/07/16700/13691372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47802-1967-314398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c46b8e8706b02ce8c2a886d0c6aff9ceada70844fe7bce12ff718b99cab8f163
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12506f06bde3cf9d8b2c7816203869914858bd8ecdc5474b4c63dce1c5ea3b16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão Permanente da Farmacopeia Portuguesa
+- Comissão Reguladora dos Produtos Químicos e Farmacêuticos
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral da Saúde
+- Direcção Geral dos Serviços Pecuários
+- Embalagem
+- Etiquetagem
+- Farmacopeia Portuguesa
+- Fiscalização
+- Laboratório de Fitofarmacologia
+- Multa
+- Pesticida
+- Produto Fitofarmacêutico
+- Produto Químico
+- Proteção do Consumidor
+- Proteção dos Animais
+- Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:69920329:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146698:por
+  label: "Alterados os artigos 9.º, 10.º e 13.º pelo DEC LEI.575/70.23.11.1970.MECO, DG.IS [272] de 23.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/575-1970-146698
+  date: '1970-11-23'
+- type: cites
+  target: pt:dre:163835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533822:por
+  label: "Revogados os arts. 1º, 5º a 10º, 12º a 14º e 16º a 31º, no referente a produtos fitofarmacêuticos, pelo DEC LEI.284/94.1994.11.11.MA,\
+    \ DR.IS-A [261]\01]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1994-533822
+  date: '1994-11-11'
+- type: repealed_by
+  target: pt:dre:69920329:por
+  label: Revogado pelo(a) Decreto-Lei n.º 145/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2015-69920329
+  date: '2015-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:46Z'
   warnings: []
   errors: []
 ---
@@ -111,39 +168,39 @@ No âmbito do artigo 1.º, § único, do [Decreto-Lei n.º 44480](https://diario
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para os efeitos deste diploma consideram-se produtos fitofarmacêuticos os produtos químicos e biológicos destinados à defesa da produção vegetal, com exclusão dos adubos químicos e dos correctivos agrícolas.
+Artigo 1.º Para os efeitos deste diploma consideram-se produtos fitofarmacêuticos os produtos químicos e biológicos destinados à defesa da produção vegetal, com exclusão dos adubos químicos e dos correctivos agrícolas.
 
-###### Art. 2.º Qualquer produto fitofarmacêutico só pode ser comercializado no mercado metropolitano quando a empresa titular da respectiva marca comercial possua a competente autorização de venda ou autorização provisória de venda desse produto.
+Art. 2.º Qualquer produto fitofarmacêutico só pode ser comercializado no mercado metropolitano quando a empresa titular da respectiva marca comercial possua a competente autorização de venda ou autorização provisória de venda desse produto.
 
-###### Art. 3.º A autorização de venda será concedida pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos desde que o produto tenha sido homologado pelo Laboratório de Fitofarmacologia.
+Art. 3.º A autorização de venda será concedida pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos desde que o produto tenha sido homologado pelo Laboratório de Fitofarmacologia.
 
 § único. As autorizações de venda dos produtos homologados são concedidas por um período de cinco anos, prorrogável por iguais períodos de tempo, se a empresa titular da marca comercial assim o solicitar. Esta prorrogação só será concedida pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos mediante parecer favorável do Laboratório de Fitofarmacologia.
 
-###### Art. 4.º Enquanto o Laboratório de Fitofarmacologia não dispuser de elementos que considere suficientes para conceder a homologação a um determinado produto fitofarmacêutico, mas não verifique inconvenientes na sua comercialização, embora sem aquela garantia, informará disso a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, para efeitos de concessão da autorização provisória de venda.
+Art. 4.º Enquanto o Laboratório de Fitofarmacologia não dispuser de elementos que considere suficientes para conceder a homologação a um determinado produto fitofarmacêutico, mas não verifique inconvenientes na sua comercialização, embora sem aquela garantia, informará disso a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, para efeitos de concessão da autorização provisória de venda.
 
 § único. As autorizações provisórias de venda serão válidas por um período de um ano, podendo ser revalidadas por iguais períodos de tempo, mediante parecer favorável do Laboratório de Fitofarmacologia e se a empresa titular da marca comercial assim o solicitar.
 
-###### Art. 5.º A venda de produtos fitofarmacêuticos só é permitida em embalagens fechadas e invioladas.
+Art. 5.º A venda de produtos fitofarmacêuticos só é permitida em embalagens fechadas e invioladas.
 
 § único. Exceptua-se do disposto neste artigo o sulfato de cobre e o enxofre em pó para polvilhação, enquanto por portaria não for determinado o contrário.
 
-###### Art. 6.º As embalagens e os rótulos dos diversos produtos fitofarmacêuticos ficam sujeitos à aprovação do Laboratório de Fitofarmacologia, que a comunicará à Comissão Reguladora dos Produtos Químicos e Farmacêuticos, também para efeitos de concessão da autorização de venda ou da autorização provisória de venda dos produtos.
+Art. 6.º As embalagens e os rótulos dos diversos produtos fitofarmacêuticos ficam sujeitos à aprovação do Laboratório de Fitofarmacologia, que a comunicará à Comissão Reguladora dos Produtos Químicos e Farmacêuticos, também para efeitos de concessão da autorização de venda ou da autorização provisória de venda dos produtos.
 
 § único. O Laboratório de Fitofarmacologia ouvirá a Comissão Reguladora dos Produtos Químicos e Farmacêuticos e a Direcção-Geral de Saúde ou a Direcção-Geral dos Serviços Pecuários, quando houver matéria que o justifique, sobre a natureza das embalagens ou a elaboração dos rótulos.
 
-###### Art. 7.º Os textos de propaganda e de literatura técnica sobre os produtos fitofarmacêuticos não podem ser divulgados pelas empresas desde que contenham informações sem fundamento técnico e em desacordo com as regras sobre a homologação dos produtos fitofarmacêuticos estabelecidas pelo Laboratório de Fitofarmacologia.
+Art. 7.º Os textos de propaganda e de literatura técnica sobre os produtos fitofarmacêuticos não podem ser divulgados pelas empresas desde que contenham informações sem fundamento técnico e em desacordo com as regras sobre a homologação dos produtos fitofarmacêuticos estabelecidas pelo Laboratório de Fitofarmacologia.
 
 § 1.º É obrigatório o envio ao Laboratório de Fitofarmacologia de todos os textos de propaganda (incluindo anúncios nos jornais, rádio, cinema, e televisão, etc.) e de literatura técnica, antes da sua divulgação. A literatura técnica deve também ser entregue na Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
 
 § 2.º O Laboratório de Fitofarmacologia ouvirá a Direcção-Geral de Saúde ou a Direcção-Geral dos Serviços Pecuários quando houver matéria que o justifique sobre o conteúdo dos textos de propaganda ou da literatura técnica.
 
-###### Art. 8.º A classificação toxicológica dos produtos fitofarmacêuticos nas classes referidas nos artigos 9.º e 10.º e as respectivas restrições de caracter toxicológico serão estabelecidas em portaria pelos Ministérios da Economia e da Saúde e Assistência.
+Art. 8.º A classificação toxicológica dos produtos fitofarmacêuticos nas classes referidas nos artigos 9.º e 10.º e as respectivas restrições de caracter toxicológico serão estabelecidas em portaria pelos Ministérios da Economia e da Saúde e Assistência.
 
 § 1.º O Laboratório de Fitofarmacologia só poderá tomar as decisões a que se alude nos artigos 3.º e 4.º, em relação aos produtos incluídos nas portarias a que se refere o corpo deste artigo. Para os restantes produtos fitofarmacêuticos deverão ser ouvidas a Direcção-Geral de Saúde e a Direcção-Geral dos Serviços Pecuários, consoante as circunstâncias, que informarão o Laboratório das possibilidades do seu emprego sem perigo para a saúde pública ou animal.
 
 § 2.º A Comissão Permanente da Farmacopeia Portuguesa deverá não só ser ouvida quanto à natureza dos contravenenos a aplicar em casos de intoxicação causada pelos diferentes produtos fitofarmacêuticos, como também sobre quaisquer outros aspectos da sua competência, devendo ser tornada obrigatória a existência desses contravenenos nas farmácias.
 
-###### Art. 9.º Na comercialização dos produtos fitofarmacêuticos das classes de toxicidade I e II deverão observar-se as seguintes regras:
+Art. 9.º Na comercialização dos produtos fitofarmacêuticos das classes de toxicidade I e II deverão observar-se as seguintes regras:
 
 a) Os locais de venda e depósito deverão ser instalados em compartimentos especialmente adaptados a esse fim e sujeitos a fiscalização, confiados exclusivamente a pessoa responsável;
 
@@ -153,19 +210,19 @@ c) Não pode ser efectuada nos estabelecimentos que comercializam produtos desti
 
 d) Haverá um registo obrigatório, em livro exclusivamente a isso destinado, do nome do comprador, do número de embalagens adquiridas, das quantidades vendidas e das datas das vendas.
 
-###### Art. 10.º Os produtos fitofarmacêuticos das classes de toxicidade III e IV, quando não exista na localidade estabelecimento especialmente destinado à venda de drogas, poderão ser vendidos por quaisquer entidades, desde que sejam armazenados em compartimentos sujeitos a fiscalização e não façam parte de estabelecimentos em que haja produtos destinados à alimentação humana e animal.
+Art. 10.º Os produtos fitofarmacêuticos das classes de toxicidade III e IV, quando não exista na localidade estabelecimento especialmente destinado à venda de drogas, poderão ser vendidos por quaisquer entidades, desde que sejam armazenados em compartimentos sujeitos a fiscalização e não façam parte de estabelecimentos em que haja produtos destinados à alimentação humana e animal.
 
-###### Art. 11.º A venda ao público de produtos fitofarmacêuticos só pode ser efectuada em estabelecimentos prèviamente licenciados nos termos da [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929, e demais legislação sobre estabelecimentos insalubres, incómodos, perigosos e tóxicos. O licenciamento deverá ser requerido dentro do prazo de 90 dias a contar da data da entrada em vigor do presente diploma.
+Art. 11.º A venda ao público de produtos fitofarmacêuticos só pode ser efectuada em estabelecimentos prèviamente licenciados nos termos da [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929, e demais legislação sobre estabelecimentos insalubres, incómodos, perigosos e tóxicos. O licenciamento deverá ser requerido dentro do prazo de 90 dias a contar da data da entrada em vigor do presente diploma.
 
 § 1.º São abrangidos pelas disposições de licenciamento nos termos deste diploma todos os estabelecimentos de venda de produtos fitofarmacêuticos, incluindo os situados fora de cidades, vilas, zonas urbanizadas e de turismo.
 
 § 2.º As farmácias poderão fornecer ao público produtos fitofarmacêuticos, quando apresentados em embalagens próprias.
 
-###### Art. 12.º Os produtos fitofarmacêuticos têm de apresentar valores que estejam de acordo com os limites que fundamentaram as respectivas autorizações de venda ou autorizações provisórias de venda, quer em relação à composição, ao teor em substância activa, às características físico-químicas, quer à actividade biológica.
+Art. 12.º Os produtos fitofarmacêuticos têm de apresentar valores que estejam de acordo com os limites que fundamentaram as respectivas autorizações de venda ou autorizações provisórias de venda, quer em relação à composição, ao teor em substância activa, às características físico-químicas, quer à actividade biológica.
 
-###### Art. 13.º As empresas detentoras das marcas comerciais terão ao seu serviço um técnico responsável, aceite pelo Laboratório de Fitofarmacologia e habilitado com um curso superior adequado, a fim de assegurar a realização da eficiente experimentação biológica de campo dos diferentes produtos e a concretização das determinações contidas no presente diploma e nas regras sobre homologação dos produtos fitofarmacêuticos estabelecidas pelo Laboratório de Fitofarmacologia.
+Art. 13.º As empresas detentoras das marcas comerciais terão ao seu serviço um técnico responsável, aceite pelo Laboratório de Fitofarmacologia e habilitado com um curso superior adequado, a fim de assegurar a realização da eficiente experimentação biológica de campo dos diferentes produtos e a concretização das determinações contidas no presente diploma e nas regras sobre homologação dos produtos fitofarmacêuticos estabelecidas pelo Laboratório de Fitofarmacologia.
 
-###### Art. 14.º As autoridades a que a lei e regulamentos conferem competência para esse efeito procederão à fiscalização das disposições contidas neste diploma e à colheita das amostras necessárias à verificação das propriedades dos produtos fitofarmacêuticos.
+Art. 14.º As autoridades a que a lei e regulamentos conferem competência para esse efeito procederão à fiscalização das disposições contidas neste diploma e à colheita das amostras necessárias à verificação das propriedades dos produtos fitofarmacêuticos.
 
 § 1.º As análises das amostras para fins de fiscalização serão requisitadas ao Laboratório de Fitofarmacologia, ao Laboratório da Comissão Reguladora dos Produtos Químicos e Farmacêuticos ou ao Laboratório Central de Normalização e Fiscalização de Produtos, ou, quando estiverem em causa características de toxicidade e de poluição ou contaminação dos alimentos, aos Laboratórios do Instituto Superior de Higiene do Dr. Ricardo Jorge, ou, nos casos que interessam a patologia animal, ao Laboratório Nacional de Investigação Veterinária.
 
@@ -173,21 +230,21 @@ d) Haverá um registo obrigatório, em livro exclusivamente a isso destinado, do
 
 § 3.º Na colheita de amostras e nos recursos deve observar-se, na parte aplicável, o que está estipulado nos artigos 19.º a 25.º do [Decreto n.º 20282](https://diariodarepublica.pt/dr/detalhe/decreto/20282-1931-502381), de 5 de Setembro de 1931.
 
-###### Art. 15.º O Laboratório de Fitofarmacologia cancelará a homologação e participará à Comissão Reguladora dos Produtos Químicos e Farmacêuticos a necessidade de ser retirada a autorização de venda ou a autorização provisória de venda de qualquer produto sempre que este denuncie no seu emprego graves deficiências de qualidade ou particulares perigos toxicológicos.
+Art. 15.º O Laboratório de Fitofarmacologia cancelará a homologação e participará à Comissão Reguladora dos Produtos Químicos e Farmacêuticos a necessidade de ser retirada a autorização de venda ou a autorização provisória de venda de qualquer produto sempre que este denuncie no seu emprego graves deficiências de qualidade ou particulares perigos toxicológicos.
 
 § único. Em casos em que a intervenção se torne necessária para defesa da saúde pública ou animal, a Direcção-Geral de Saúde ou a Direcção-Geral dos Serviços Pecuários, consoante as situações, poderão promover a suspensão provisória da venda de produtos fitofarmacêuticos, fazendo imediata comunicação ao Laboratório de Fitofarmacologia e à Comissão Reguladora dos Produtos Químicos e Farmacêuticos, mencionando a razão da intervenção.
 
-###### Art. 16. O Laboratório de Fitofarmacologia procederá à modificação das recomendações oficiais ou de outra matéria aprovada nos rótulos, que fundamentaram a autorização de venda ou a autorização provisória de venda, sempre que tal seja justificado pela ocorrência de fenómenos de resistência ou pela obtenção de novos dados experimentais.
+Art. 16. O Laboratório de Fitofarmacologia procederá à modificação das recomendações oficiais ou de outra matéria aprovada nos rótulos, que fundamentaram a autorização de venda ou a autorização provisória de venda, sempre que tal seja justificado pela ocorrência de fenómenos de resistência ou pela obtenção de novos dados experimentais.
 
-###### Art. 17.º Os critérios adoptados pelo Laboratório de Fitofarmacologia para cumprimento das atribuições definidas pelos artigos 3.º, 4.º, 6.º, 7.º e 12.º serão, sempre que possível, concretizados sob a forma de normas portuguesas.
+Art. 17.º Os critérios adoptados pelo Laboratório de Fitofarmacologia para cumprimento das atribuições definidas pelos artigos 3.º, 4.º, 6.º, 7.º e 12.º serão, sempre que possível, concretizados sob a forma de normas portuguesas.
 
-###### Art. 18.º A nomenclatura relativa aos nomes vulgares e químicos dos produtos fitofarmacêuticos adoptada nos textos de propaganda e de literatura técnica sobre os produtos fitofarmacêuticos deverá respeitar obrigatòriamente as normas portuguesas, para cuja elaboração será ouvida a Comissão Permanente da Farmacopeia Portuguesa.
+Art. 18.º A nomenclatura relativa aos nomes vulgares e químicos dos produtos fitofarmacêuticos adoptada nos textos de propaganda e de literatura técnica sobre os produtos fitofarmacêuticos deverá respeitar obrigatòriamente as normas portuguesas, para cuja elaboração será ouvida a Comissão Permanente da Farmacopeia Portuguesa.
 
-###### Art. 19.º Das decisões proferidas em execução do preceituado neste diploma podem as entidades interessadas interpor recurso para a competente Secretaria de Estado do Ministério da Economia, no prazo de 30 dias contados do conhecimento oficial do acto.
+Art. 19.º Das decisões proferidas em execução do preceituado neste diploma podem as entidades interessadas interpor recurso para a competente Secretaria de Estado do Ministério da Economia, no prazo de 30 dias contados do conhecimento oficial do acto.
 
 § único. Sempre que tenha havido intervenção sanitária ou haja matéria que respeite à saúde pública ou animal, será ouvida no recurso a Direcção-Geral de Saúde ou a Direcção-Geral dos Serviços Pecuários, respectivamente.
 
-###### Art. 20.º O Laboratório de Fitofarmacologia deverá proceder à aprovação dos rótulos e embalagens e ao fornecimento de elementos à Comissão Reguladora dos Produtos Químicos e Farmacêuticos para a concessão de autorizações temporárias de venda em relação aos produtos fitofarmacêuticos já existentes no mercado na data da entrada em vigor do presente diploma.
+Art. 20.º O Laboratório de Fitofarmacologia deverá proceder à aprovação dos rótulos e embalagens e ao fornecimento de elementos à Comissão Reguladora dos Produtos Químicos e Farmacêuticos para a concessão de autorizações temporárias de venda em relação aos produtos fitofarmacêuticos já existentes no mercado na data da entrada em vigor do presente diploma.
 
 § 1.º As empresas titulares das marcas comerciais devem requerer à Comissão Reguladora dos Produtos Químicos e Farmacêuticos as autorizações temporárias de venda referidas no corpo deste artigo, dentro do prazo de 60 dias a contar da data da entrada em vigor do presente diploma.
 
@@ -195,13 +252,13 @@ d) Haverá um registo obrigatório, em livro exclusivamente a isso destinado, do
 
 § 3.º Quando caducar a autorização temporária de venda, a Comissão Reguladora dos Produtos Químicos e Farmacêuticos comunicará aos respectivos titulares que, se quiserem manter a comercialização do produto, deverão providenciar no sentido de, dentro do prazo que lhes for fixado, obter a autorização de venda ou a autorização provisória de venda. Sempre que se verifiquem as circunstâncias previstas na parte final do artigo 15.º, a Comissão Reguladora comunicar-lhes-á que devem eliminar o produto do mercado dentro de um prazo que lhes fixará.
 
-###### Art. 21.º A tabela de preços a pagar pela homologação dos produtos fitofarmacêuticos será estabelecida em portaria da Secretaria de Estado da Agricultura.
+Art. 21.º A tabela de preços a pagar pela homologação dos produtos fitofarmacêuticos será estabelecida em portaria da Secretaria de Estado da Agricultura.
 
-###### Art. 22.º As importâncias arrecadadas nos termos do artigo anterior darão entrada nos cofres do Tesouro em «Consignação de receitas», a fim de servirem de contrapartida a despesas a realizar pelo Ministério da Economia em execução do presente diploma.
+Art. 22.º As importâncias arrecadadas nos termos do artigo anterior darão entrada nos cofres do Tesouro em «Consignação de receitas», a fim de servirem de contrapartida a despesas a realizar pelo Ministério da Economia em execução do presente diploma.
 
-###### Art. 23.º A preparação e julgamento dos processos por infracção às disposições deste decreto-lei são regulados pelo Código de Processo Penal e legislação complementar, com observância, na parte aplicável, do preceituado nos artigos 35.º a 45.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, considerando-se delegada na Inspecção-Geral dos Produtos Agrícolas e Industriais a competência para proceder à instrução preparatória, sem prejuízo da respectiva direcção pelo Ministério Público, e competindo o seu julgamento ao tribunal comum.
+Art. 23.º A preparação e julgamento dos processos por infracção às disposições deste decreto-lei são regulados pelo Código de Processo Penal e legislação complementar, com observância, na parte aplicável, do preceituado nos artigos 35.º a 45.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, considerando-se delegada na Inspecção-Geral dos Produtos Agrícolas e Industriais a competência para proceder à instrução preparatória, sem prejuízo da respectiva direcção pelo Ministério Público, e competindo o seu julgamento ao tribunal comum.
 
-###### Art. 24.º - 1. Constituem crime:
+Art. 24.º - 1. Constituem crime:
 
 a) As infracções ao disposto nos artigos 2.º e 20.º, §§ 1.º e 3.º, puníveis com prisão não inferior a três meses e multa correspondente;
 
@@ -211,22 +268,22 @@ b) As infracções ao disposto nos artigos 5.º, 9.º, 10.º e 13.º, puníveis 
 
 3. A negligência é punível, quanto aos crimes previstos no n.º 1, com metade da pena correspondente ao crime doloso.
 
-###### Art. 25.º Se as infracções referidas no artigo antecedente produzirem involuntàriamente a morte de qualquer pessoa, aplicar-se-á a pena do homicídio involuntário agravada.
+Art. 25.º Se as infracções referidas no artigo antecedente produzirem involuntàriamente a morte de qualquer pessoa, aplicar-se-á a pena do homicídio involuntário agravada.
 
-###### Art. 26.º Pode em qualquer caso ser decretada na sentença condenatória a cassação ou a suspensão das autorizações de venda concedidas, ainda que provisórias, bem como o encerramento do estabelecimento.
+Art. 26.º Pode em qualquer caso ser decretada na sentença condenatória a cassação ou a suspensão das autorizações de venda concedidas, ainda que provisórias, bem como o encerramento do estabelecimento.
 
-###### Art. 27.º Serão declarados perdidos a favor do Estado os produtos que constituem objecto das infracções referidas no artigo 24.º
+Art. 27.º Serão declarados perdidos a favor do Estado os produtos que constituem objecto das infracções referidas no artigo 24.º
 
-###### Art. 28.º Os regulamentos para pesticidas domésticos e para os destinados à defesa da saúde pública ou da saúde animal, e ainda dos preservadores da madeira, são da competência dos Ministérios da Saúde e Assistência, da Economia e das Obras Públicas.
+Art. 28.º Os regulamentos para pesticidas domésticos e para os destinados à defesa da saúde pública ou da saúde animal, e ainda dos preservadores da madeira, são da competência dos Ministérios da Saúde e Assistência, da Economia e das Obras Públicas.
 
-###### Art. 29.º Os produtos fitofarmacêuticos, quando sirvam simultâneamente como pesticidas para outros usos, nomeadamente para defesa da saúde pública ou da saúde animal, podem ser adquiridos livremente e sem quaisquer limitações pelos competentes serviços oficiais, quando destinados àquele fim.
+Art. 29.º Os produtos fitofarmacêuticos, quando sirvam simultâneamente como pesticidas para outros usos, nomeadamente para defesa da saúde pública ou da saúde animal, podem ser adquiridos livremente e sem quaisquer limitações pelos competentes serviços oficiais, quando destinados àquele fim.
 
-###### Art. 30.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura.
+Art. 30.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura.
 
 § único. Quando essas dúvidas digam respeito a matérias da competência cumulativa de outros Ministérios, tais despachos carecem de concordância do Ministro respectivo.
 
-###### Art. 31.º O presente diploma entrará em vigor três meses após a data da sua publicação no Diário do Governo.
+Art. 31.º O presente diploma entrará em vigor três meses após a data da sua publicação no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.

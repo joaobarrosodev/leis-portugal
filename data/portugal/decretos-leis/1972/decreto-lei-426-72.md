@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 254/1972, 1º Suplemento, Série I de 1972-10-31
   number: '254'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1576-(4) a 1576-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/10/25401/00040008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 612ee56d69298f63e1f2db56b19a220818851109e49aaa71f58e982ab54c82c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 427d843df63b9767eaee141236c1e569b7d53629c9da9eb293aff2255a1525ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Instituto do Azeite e Produtos Oleaginosos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:599522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337071:por
+  label: "Alterado o art. 5º pelo DEC LEI.315/75.27.06.1975.MPLCE, DG.IS [146] de 27.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1975-337071
+  date: '1975-06-27'
+- type: amended_by
+  target: pt:dre:221700:por
+  label: "Transferidas para o Instituto da Qualidade Alimentar as competências do Instituto do Azeite e Produtos Oleaginosos\
+    \ previstas na al. d) do art. 2º, nas als. e), d) e n) do nº 1 do art. 3º (no referente à certificação de qualidade) e\
+    \ no art. 16º do presente diploma, pelo DEC LEI.330/86.01.10.1986.MAPA, DR.IS [226] de 01.10.1986\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1986-221700
+  date: '1986-10-01'
+- type: cites
+  target: pt:dre:184933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:291609:por
+  label: "Rectificado pela RECT.DD312.31.10.1972.MECO, DG.IS [254]Supl de 31.10.1972, que procede à publicação do Preâmbulo\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/nao-especificado/1972-291609
+  date: '1972-10-31'
+- type: repealed_by
+  target: pt:dre:256646:por
+  label: "Revogado o nº 2 do art 29º pelo DEC LEI.374-J/79.1979.08.10.MCT, DR.IS [209]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-j-1979-256646
+  date: '1979-08-10'
+- type: repealed_by
+  target: pt:dre:599522:por
+  label: "Revogado pelo DEC LEI.15/87.1987.01.09.MAPA, DR.IS [7], e extinto o Instituto do Azeite e Produtos Oleaginosos\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1987-599522
+  date: '1987-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:27Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +178,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Constituição e fins
 
-###### Artigo 1.º - 1. O Instituto do Azeite e Produtos Oleaginosos, criado ao abrigo do artigo 5.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, é um organismo de coordenação económica, dotado de personalidade jurídica e autonomia financeira.
+Artigo 1.º - 1. O Instituto do Azeite e Produtos Oleaginosos, criado ao abrigo do artigo 5.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, é um organismo de coordenação económica, dotado de personalidade jurídica e autonomia financeira.
 
 2. A acção do Instituto exerce-se em toda a área do continente e ilhas adjacentes.
 
 3. O Instituto tem a sua sede em Lisboa, podendo estabelecer delegações onde for julgado necessário.
 
-###### Art. 2.º São atribuições do Instituto:
+Art. 2.º São atribuições do Instituto:
 
 a) Coordenar e disciplinar as actividades de produção, transformação e comercialização de azeite e óleos vegetais, de gorduras alimentares preparadas, oleaginosas, sabões e detergentes, seus subprodutos, e bem assim das gorduras animais, utilizáveis como matérias-primas dos produtos anteriores, ficando os respectivos organismos corporativos obrigados a cumprir e a fazer cumprir as instruções regulamentares emanadas do Instituto;
 
@@ -110,7 +194,7 @@ c) Realizar estudos técnicos e económicos relativos aos sectores coordenados, 
 
 d) Certificar a origem e a qualidade dos produtos.
 
-###### Art. 3.º - 1. Para o desempenho das suas atribuições, compete, em especial, ao Instituto:
+Art. 3.º - 1. Para o desempenho das suas atribuições, compete, em especial, ao Instituto:
 
 a) Propor as condições a que devem obedecer as actividades coordenadas e prestar-lhes assistência técnica, em ordem ao aperfeiçoamento da exploração e do fabrico, sua rendibilidade e melhoria da qualidade dos produtos;
 
@@ -148,15 +232,15 @@ q) Exercer as demais funções que lhe sejam cometidas por lei ou que se mostrem
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 4.º São órgãos do Instituto a direcção e o conselho geral.
+Art. 4.º São órgãos do Instituto a direcção e o conselho geral.
 
-###### Art. 5.º - 1. A direcção é constituída por um presidente e dois directores.
+Art. 5.º - 1. A direcção é constituída por um presidente e dois directores.
 
 2. O presidente da direcção e os directores são escolhidos por decisão conjunta do Ministro da Economia e do Secretário de Estado do Comércio.
 
 3. O presidente da direcção será substituído, nas suas faltas ou impedimentos, pelo director designado pelo Secretário de Estado do Comércio, mediante proposta do presidente da direcção.
 
-###### Art. 6.º - 1. À direcção compete:
+Art. 6.º - 1. À direcção compete:
 
 a) Pronunciar-se sobre os quadros do pessoal e a organização interna dos serviços necessários à realização dos fins do Instituto;
 
@@ -172,7 +256,7 @@ f) Apreciar e deliberar sobre os assuntos que o presidente entenda deverem ser r
 
 2. Para obrigar o Instituto, assinar cheques e outros documentos relativos ao levantamento e recebimento de fundos, é indispensável a intervenção do presidente da direcção e de um director ou, na falta ou impedimento do primeiro, de dois directores.
 
-###### Art. 7.º - 1. Compete especialmente ao presidente da direcção:
+Art. 7.º - 1. Compete especialmente ao presidente da direcção:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -198,7 +282,7 @@ j) Desempenhar, por delegação do Governo, os serviços ou funções que lhe fo
 
 3. O presidente tem voto de qualidade.
 
-###### Art. 8.º - 1. O conselho geral é constituído por um presidente e pelos seguintes vogais:
+Art. 8.º - 1. O conselho geral é constituído por um presidente e pelos seguintes vogais:
 
 a) Os membros da direcção;
 
@@ -238,7 +322,7 @@ r) Um representante do Ministério do Ultramar.
 
 3. Os representantes dos serviços serão designados pelos respectivos membros do Governo, os dos consumidores, nos termos que forem estabelecidos pelo Secretário de Estado do Comércio, e os das actividades, segundo o disposto na [Lei n.º 1/71](https://diariodarepublica.pt/dr/detalhe/lei/1-1971-445933), de 29 de Janeiro.
 
-###### Art. 9.º - 1. O presidente do conselho geral é eleito pelo conselho de entre os vogais que não sejam membros da direcção do Instituto.
+Art. 9.º - 1. O presidente do conselho geral é eleito pelo conselho de entre os vogais que não sejam membros da direcção do Instituto.
 
 2. O presidente fica impedido da representação que lhe cabia como vogal no conselho geral, sendo substituído pela forma prescrita para a respectiva representação.
 
@@ -248,7 +332,7 @@ r) Um representante do Ministério do Ultramar.
 
 5. O mandato do presidente do conselho geral tem a mesma duração e deve coincidir com o dos representantes das actividades.
 
-###### Art. 10.º - 1. O conselho geral compreende duas secções:
+Art. 10.º - 1. O conselho geral compreende duas secções:
 
 1.ª Óleos e produtos comestíveis;
 
@@ -260,7 +344,7 @@ r) Um representante do Ministério do Ultramar.
 
 4. Por portaria do Secretário de Estado do Comércio, podem ser criadas novas secções, modificadas as existentes ou alterada a sua composição.
 
-###### Art. 11.º Compete ao conselho geral:
+Art. 11.º Compete ao conselho geral:
 
 a) Eleger o presidente e o seu substituto;
 
@@ -274,23 +358,23 @@ e) Pronunciar-se sobre os regulamentos das actividades coordenadas pelo Institut
 
 f) Dar parecer sobre todos os assuntos que lhe forem submetidos pelo presidente e pelo presidente da direcção.
 
-###### Art. 12.º - 1. O conselho geral poderá reunir-se por secções ou com a totalidade dos seus membros, mediante convocação do presidente, por iniciativa própria ou por solicitação do presidente da direcção ou da maioria dos vogais.
+Art. 12.º - 1. O conselho geral poderá reunir-se por secções ou com a totalidade dos seus membros, mediante convocação do presidente, por iniciativa própria ou por solicitação do presidente da direcção ou da maioria dos vogais.
 
 2. As deliberações do conselho geral serão tomadas por maioria, tendo o presidente voto de qualidade.
 
 3. O presidente pode suspender qualquer deliberação do conselho geral que repute contrária à lei, aos interesses dos sectores coordenados ou da economia nacional, submetendo-a à decisão do Secretário de Estado do Comércio.
 
-###### Art. 13.º - 1. Os vogais do conselho geral, com excepção do seu presidente e dos membros da direcção, têm direito a uma senha de presença e ao pagamento de despesas de deslocação, se residirem fora de Lisboa, competindo ao Instituto o respectivo pagamento.
+Art. 13.º - 1. Os vogais do conselho geral, com excepção do seu presidente e dos membros da direcção, têm direito a uma senha de presença e ao pagamento de despesas de deslocação, se residirem fora de Lisboa, competindo ao Instituto o respectivo pagamento.
 
 2. A remuneração do presidente do conselho geral será fixada em despacho do Secretário de Estado do Comércio.
 
 ### CAPÍTULO III — Serviços e pessoal
 
-###### Art. 14.º O Instituto será dotado dos serviços necessários ao seu funcionamento, os quais serão aprovados em despacho do Secretário de Estado do Comércio.
+Art. 14.º O Instituto será dotado dos serviços necessários ao seu funcionamento, os quais serão aprovados em despacho do Secretário de Estado do Comércio.
 
-###### Art. 15.º O quadro do pessoal do Instituto e os respectivos vencimentos serão aprovados por despacho conjunto do Ministro da Economia e do Secretário de Estado do Comércio.
+Art. 15.º O quadro do pessoal do Instituto e os respectivos vencimentos serão aprovados por despacho conjunto do Ministro da Economia e do Secretário de Estado do Comércio.
 
-###### Art. 16.º - 1. Aos serviços laboratoriais do Instituto compete realizar estudos de carácter tecnológico dos produtos das actividades coordenadas e proceder às análises que forem necessárias para o exercício das suas funções ou que lhe forem requeridas pelas entidades públicas ou privadas relacionadas com os sectores coordenados.
+Art. 16.º - 1. Aos serviços laboratoriais do Instituto compete realizar estudos de carácter tecnológico dos produtos das actividades coordenadas e proceder às análises que forem necessárias para o exercício das suas funções ou que lhe forem requeridas pelas entidades públicas ou privadas relacionadas com os sectores coordenados.
 
 2. Os laboratórios do Instituto são, para todos os efeitos, considerados oficiais.
 
@@ -298,27 +382,27 @@ f) Dar parecer sobre todos os assuntos que lhe forem submetidos pelo presidente 
 
 ### CAPÍTULO IV — Disciplina e fiscalização
 
-###### Art. 17.º - 1. As entidades onde exerçam as actividades coordenadas pelo Instituto ficam sujeitas à acção disciplinar do organismo.
+Art. 17.º - 1. As entidades onde exerçam as actividades coordenadas pelo Instituto ficam sujeitas à acção disciplinar do organismo.
 
 2. Independentemente da sua competência própria em matéria de infracções disciplinares contra a economia nacional, o Instituto exercerá sempre, e directamente, a acção disciplinar da competência dos organismos corporativos quando as respectivas actividades não estejam organizadas corporativamente.
 
-###### Art. 18.º - 1. É obrigatória a inscrição no Instituto das entidades que exerçam qualquer das actividades industriais coordenadas pelo organismo, bem como dos armazenistas de azeite e dos importadores e exportadores dos produtos referidos na alínea a) do artigo 2.º
+Art. 18.º - 1. É obrigatória a inscrição no Instituto das entidades que exerçam qualquer das actividades industriais coordenadas pelo organismo, bem como dos armazenistas de azeite e dos importadores e exportadores dos produtos referidos na alínea a) do artigo 2.º
 
 2. Os requisitos exigíveis para a inscrição das entidades referidas no número anterior serão estabelecidos em portaria do Secretário de Estado do Comércio.
 
 3. Consideram-se inscritas no Instituto as entidades já inscritas na Comissão Reguladora das Oleaginosas e Óleos Vegetais e no Grémio dos Armazenistas e Exportadores de Azeite, sem prejuízo da observância dos requisites que vierem a ser fixados nos termos do número anterior.
 
-###### Art. 19.º O Secretário de Estado do Comércio poderá determinar, em portaria, a obrigatoriedade de inscrição de outras actividades sujeitas à disciplina do Instituto e não contempladas no artigo anterior, bem como fixar as condições necessárias à sua inscrição.
+Art. 19.º O Secretário de Estado do Comércio poderá determinar, em portaria, a obrigatoriedade de inscrição de outras actividades sujeitas à disciplina do Instituto e não contempladas no artigo anterior, bem como fixar as condições necessárias à sua inscrição.
 
-###### Art. 20.º Ao presidente da direcção, directores e funcionários da fiscalização é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
+Art. 20.º Ao presidente da direcção, directores e funcionários da fiscalização é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
 
-###### Art. 21.º - 1. Os funcionários da fiscalização são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Secretário de Estado do Comércio, têm o direito de uso e porte de arma de defesa, mediante requisição do Instituto, e podem requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
+Art. 21.º - 1. Os funcionários da fiscalização são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Secretário de Estado do Comércio, têm o direito de uso e porte de arma de defesa, mediante requisição do Instituto, e podem requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
 
 2. A fiscalização deverá efectuar-se em todos os locais onde se exerçam as actividades coordenadas ou os respectivos produtos e subprodutos se encontrem à venda, armazenados, em trânsito ou em laboração.
 
-###### Art. 22.º Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código do Processo Penal.
+Art. 22.º Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código do Processo Penal.
 
-###### Art. 23.º - 1. Sempre que verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete os funcionários devem levantar auto de notícia.
+Art. 23.º - 1. Sempre que verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete os funcionários devem levantar auto de notícia.
 
 2. O cumprimento do dever de levantar auto de notícia e de lhe dar seguimento não depende de ordem expressa, considerando-se os funcionários da fiscalização permanentemente em serviço para o efeito, os quais incorrem em responsabilidade disciplinar e criminal, nos termos do artigo 168.º do Código do Processo Penal, se não derem aos autos o destino legal.
 
@@ -326,19 +410,19 @@ f) Dar parecer sobre todos os assuntos que lhe forem submetidos pelo presidente 
 
 4. Do auto de notícia constará a apreensão dos géneros e artigos que forem objecto de infracções, sempre que a ela haja lugar.
 
-###### Art. 24.º Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja de sua competência devem ser imediatamente participados às autoridades competentes.
+Art. 24.º Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja de sua competência devem ser imediatamente participados às autoridades competentes.
 
-###### Art. 25.º Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, ou processos de exportação, de que tomem conhecimento no exercício das suas funções.
+Art. 25.º Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, ou processos de exportação, de que tomem conhecimento no exercício das suas funções.
 
-###### Art. 26.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que, depois de identificados os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
+Art. 26.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que, depois de identificados os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
 
-###### Art. 27.º Os que se recusarem a prestar aos funcionários dos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
+Art. 27.º Os que se recusarem a prestar aos funcionários dos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
 
-###### Art. 28.º Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
+Art. 28.º Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
 
 ### CAPÍTULO V — Regime financeiro
 
-###### Art. 29.º - 1. Constituem receitas do Instituto:
+Art. 29.º - 1. Constituem receitas do Instituto:
 
 a) As importâncias das taxas que incidem sobre as actividades coordenadas e os respectivos produtos;
 
@@ -356,31 +440,31 @@ g) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 2. Os quantitativos das taxas, a sua incidência e forma de cobrança serão estabelecidos em portaria conjunta do Ministro das Finanças e do Secretário de Estado do Comércio.
 
-###### Art. 30.º As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, nos termos do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, e movimentadas por meio de cheques, assinados nos termos do n.º 2 do artigo 6.º
+Art. 30.º As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, nos termos do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, e movimentadas por meio de cheques, assinados nos termos do n.º 2 do artigo 6.º
 
-###### Art. 31.º As despesas do Instituto são as que resultam da execução dos diplomas que o regem, em conformidade com os orçamentos superiormente aprovados.
+Art. 31.º As despesas do Instituto são as que resultam da execução dos diplomas que o regem, em conformidade com os orçamentos superiormente aprovados.
 
-###### Art. 32.º Mediante despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, o Instituto poderá contrair na Caixa Geral de Depósitos, Crédito e Previdência ou em outras instituições de crédito empréstimos a assumir as responsabilidades que forem indispensáveis à realização das suas atribuições, com consignação de receita própria ou outras garantias.
+Art. 32.º Mediante despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, o Instituto poderá contrair na Caixa Geral de Depósitos, Crédito e Previdência ou em outras instituições de crédito empréstimos a assumir as responsabilidades que forem indispensáveis à realização das suas atribuições, com consignação de receita própria ou outras garantias.
 
-###### Art. 33.º O Instituto poderá conceder ou obter, em benefício das actividades coordenadas, créditos directos de natureza geral, ou sobre mercadorias depositadas em regime de armazéns gerais, nas condições que vierem a ser estabelecidas e de harmonia com as disposições legais e regulamentares aplicáveis.
+Art. 33.º O Instituto poderá conceder ou obter, em benefício das actividades coordenadas, créditos directos de natureza geral, ou sobre mercadorias depositadas em regime de armazéns gerais, nas condições que vierem a ser estabelecidas e de harmonia com as disposições legais e regulamentares aplicáveis.
 
-###### Art. 34.º - 1. Os empréstimos concedidos pelo Instituto ou outras formas de crédito serão sempre assegurados por garantia idónea.
+Art. 34.º - 1. Os empréstimos concedidos pelo Instituto ou outras formas de crédito serão sempre assegurados por garantia idónea.
 
 2. Nos casos em que os produtos sobre que incida garantia real possam ser transformados ou vendidos, o Instituto conserva sobre o produto transformado, sobre a quantia paga a título de preço ou sobre o crédito resultante da venda as preferências que lhe competiam em relação aos produtos onerados.
 
-###### Art. 35.º - 1. Os empréstimos concedidos pelo Instituto, seja qual for o seu montante, serão válidos, mesmo quando celebrados por simples escrito particular, sujeito ùnicamente ao imposto do selo.
+Art. 35.º - 1. Os empréstimos concedidos pelo Instituto, seja qual for o seu montante, serão válidos, mesmo quando celebrados por simples escrito particular, sujeito ùnicamente ao imposto do selo.
 
 2. Os empréstimos aos produtores de azeite serão reduzidos a contrato particular, sujeitos ùnicamente ao selo de 2 por mil, pago por estampilha inutilizada por assinatura do mutuário.
 
-###### Art. 36.º As certidões passadas pelo Instituto de que constem as importâncias dos empréstimos em dívida, bem como os respectivos encargos, servem de título executivo e a cobrança coerciva terá lugar nos termos do artigo único do [Decreto-Lei n.º 48704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48704-1968-263180), de 25 de Novembro de 1968.
+Art. 36.º As certidões passadas pelo Instituto de que constem as importâncias dos empréstimos em dívida, bem como os respectivos encargos, servem de título executivo e a cobrança coerciva terá lugar nos termos do artigo único do [Decreto-Lei n.º 48704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48704-1968-263180), de 25 de Novembro de 1968.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 37.º O presidente da direcção do Instituto corresponder-se-á directamente com todas as entidades oficiais, de quem poderá solicitar, sempre que o julgue conveniente, os elementos e a colaboração de que necessite.
+Art. 37.º O presidente da direcção do Instituto corresponder-se-á directamente com todas as entidades oficiais, de quem poderá solicitar, sempre que o julgue conveniente, os elementos e a colaboração de que necessite.
 
-###### Art. 38.º O Instituto usará um selo branco, cuja aposição produzirá os mesmos efeitos que o de qualquer serviço do Estado.
+Art. 38.º O Instituto usará um selo branco, cuja aposição produzirá os mesmos efeitos que o de qualquer serviço do Estado.
 
-###### Art. 39.º - 1. A Junta Nacional do Azeite e a Comissão Reguladora das Oleaginosas e Óleos Vegetais são extintas a partir da entrada em vigor do presente diploma.
+Art. 39.º - 1. A Junta Nacional do Azeite e a Comissão Reguladora das Oleaginosas e Óleos Vegetais são extintas a partir da entrada em vigor do presente diploma.
 
 2. A competência atribuída aos organismos extintos nos diplomas que regulam as actividades coordenadas passa para o Instituto do Azeite e Produtos Oleaginosos.
 
@@ -388,7 +472,7 @@ g) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 4. É extinto o Fundo Corporativo da Olivicultura e o respectivo património é integrado no património geral do Instituto.
 
-###### Art. 40.º - 1. Enquanto não forem estabelecidas as taxas a que se refere a alínea a) do n.º 1 do artigo 29.º, continuarão a vigorar a favor do Instituto todas as taxas e outras receitas que vinham sendo cobradas pelos organismos extintos, para ocorrer às suas despesas.
+Art. 40.º - 1. Enquanto não forem estabelecidas as taxas a que se refere a alínea a) do n.º 1 do artigo 29.º, continuarão a vigorar a favor do Instituto todas as taxas e outras receitas que vinham sendo cobradas pelos organismos extintos, para ocorrer às suas despesas.
 
 2. Passam a constituir receita do Instituto as taxas cobradas pelo Grémio dos Armazenistas e Exportadores de Azeite, ao abrigo do disposto no n.º 2 do artigo 37.º do [Decreto n.º 32200](https://diariodarepublica.pt/dr/detalhe/decreto/32200-1942-315703), de 15 de Agosto de 1942.
 
@@ -396,20 +480,20 @@ g) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 4. O Secretário de Estado do Comércio determinará a parte dos saldos existentes no Grémio dos Armazenistas e Exportadores de Azeite que deverá ser transferida para o Instituto.
 
-###### Art. 41.º Para o Instituto transita todo o pessoal dos organismos extintos e o da fiscalização do Grémio dos Armazenistas e Exportadores de Azeite, bem como os serviços de laboratório deste Grémio e o pessoal que for considerado necessário, nos termos a estabelecer pelo Secretário de Estado do Comércio.
+Art. 41.º Para o Instituto transita todo o pessoal dos organismos extintos e o da fiscalização do Grémio dos Armazenistas e Exportadores de Azeite, bem como os serviços de laboratório deste Grémio e o pessoal que for considerado necessário, nos termos a estabelecer pelo Secretário de Estado do Comércio.
 
-###### Art. 42.º O Instituto submeterá à aprovação superior o orçamento para 1973, nas condições que lhe forem determinadas pelo Secretário de Estado do Comércio.
+Art. 42.º O Instituto submeterá à aprovação superior o orçamento para 1973, nas condições que lhe forem determinadas pelo Secretário de Estado do Comércio.
 
-###### Art. 43.º Enquanto não for publicada a portaria a que se refere o n.º 2 do artigo 18.º do presente diploma, continuam a ser aplicados os princípios que regulavam a inscrição na Comissão Reguladora das Oleaginosas e Óleos Vegetais e no Grémio dos Armazenistas e Exportadores de Azeite.
+Art. 43.º Enquanto não for publicada a portaria a que se refere o n.º 2 do artigo 18.º do presente diploma, continuam a ser aplicados os princípios que regulavam a inscrição na Comissão Reguladora das Oleaginosas e Óleos Vegetais e no Grémio dos Armazenistas e Exportadores de Azeite.
 
-###### Art. 44.º São revogados os seguintes diplomas: [Decreto-Lei n.º 28153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28153-1937-435008), de 12 de Novembro de 1937, [Decreto n.º 30021](https://diariodarepublica.pt/dr/detalhe/decreto/30021-1939-186361), de 3 de Novembro de 1939, [Decreto n.º 30596](https://diariodarepublica.pt/dr/detalhe/decreto/30596-1940-190869), de 17 de Julho de 1940, [Portaria n.º 10901](https://diariodarepublica.pt/dr/detalhe/portaria/10901-1945-613713), de 19 de Março de 1945, [Decreto n.º 34454](https://diariodarepublica.pt/dr/detalhe/decreto/34454-1945-613728), de 20 de Março de 1945, [Decreto n.º 34582](https://diariodarepublica.pt/dr/detalhe/decreto/34582-1945-528201), de 9 de Maio de 1945, [Decreto-Lei n.º 44085](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44085-1961-184933), de 14 de Dezembro de 1961, e [Decreto-Lei n.º 46174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46174-1965-239057), de 26 de Janeiro de 1965.
+Art. 44.º São revogados os seguintes diplomas: [Decreto-Lei n.º 28153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28153-1937-435008), de 12 de Novembro de 1937, [Decreto n.º 30021](https://diariodarepublica.pt/dr/detalhe/decreto/30021-1939-186361), de 3 de Novembro de 1939, [Decreto n.º 30596](https://diariodarepublica.pt/dr/detalhe/decreto/30596-1940-190869), de 17 de Julho de 1940, [Portaria n.º 10901](https://diariodarepublica.pt/dr/detalhe/portaria/10901-1945-613713), de 19 de Março de 1945, [Decreto n.º 34454](https://diariodarepublica.pt/dr/detalhe/decreto/34454-1945-613728), de 20 de Março de 1945, [Decreto n.º 34582](https://diariodarepublica.pt/dr/detalhe/decreto/34582-1945-528201), de 9 de Maio de 1945, [Decreto-Lei n.º 44085](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44085-1961-184933), de 14 de Dezembro de 1961, e [Decreto-Lei n.º 46174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46174-1965-239057), de 26 de Janeiro de 1965.
 
-###### Art. 45.º Este decreto-lei entra em vigor em 1 de Janeiro de 1973.
+Art. 45.º Este decreto-lei entra em vigor em 1 de Janeiro de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 31 de Outubro de 1972.**
+Promulgado em 31 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

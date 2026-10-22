@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1981, 1º Suplemento, Série I de 1981-12-31
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3414-(1) a 3414-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30001/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1981-144244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a7ccdae7079a01ff24cbcd3a74751a2a5109ad089e6d3b4469cbf081ffc4c98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f5712ea96c9b77a70a258fd3ea826ab8e4cee324fe9813a46020977afb6f948
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Habitação Periódica
+- Habitação
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:442766:por
+  label: "Alterado o nº 1 do artigo 1º, as alíneas a) e c) do nº 1 do artigo 3º e o artigo 4º e aditado um nº 5 ao artigo\
+    \ 14º pelo DEC LEI.368/83.04.10.1983.MCT, DR.IS [229] de 04.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1983-442766
+  date: '1983-10-04'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: repealed_by
+  target: pt:dre:615802:por
+  label: "Revogado, a partir de 18.05.1989, com excepção do seu art. 15º pelo DEC LEI.130/89.18.04.1989.MCT, DR.IS [90] de\
+    \ 18.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1989-615802
+  date: '1989-04-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:12Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +145,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Direito de habitação periódica)
 
@@ -140,7 +161,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - O pedido de classificação previsto no número anterior pode ser formulado conjuntamente com o pedido de autorização do loteamento do terreno em que o imóvel ou o conjunto imobiliário se integram, com o pedido de aprovação do projecto de construção correspondente a estes, ou, posteriormente, com base neste projecto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Pressupostos da constituição do direito de habitação periódica)
 
@@ -150,7 +171,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - De cada conjunto imobiliário será feita, no registo predial, uma só descrição, a menos que no respectivo projecto, e nas respectivas aprovações e licença de construção, tenha sido prevista a sua execução por fases, hipótese em que a descrição, para efeitos de registo, se pode referir a cada fase.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Conteúdo do direito de habitação periódica)
 
@@ -168,13 +189,13 @@ e) O regime aplicável em caso de perda ou destruição, parcial ou total, do im
 
 2 - A fixação das especificações previstas no número anterior ou de outras pode ser feita por aplicação supletiva do regime da propriedade horizontal ou do usufruto.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Duração do direito de habitação periódica)
 
 O direito de habitação periódica é de sua natureza perpétuo, mas poderá ser-lhe fixado no respectivo título constitutivo um limite de duração, caso a propriedade se ache constituída no regime de direito de superfície.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Certificado predial)
 
@@ -182,7 +203,7 @@ O direito de habitação periódica é de sua natureza perpétuo, mas poderá se
 
 2 - Do certificado predial referido no número anterior constará a menção dos elementos essenciais do respectivo direito, nomeadamente o seu objecto e conteúdo temporal, bem como os principais direitos e obrigações do respectivo titular e do proprietário do imóvel ou conjunto imobiliário.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Exercício do direito de habitação periódica)
 
@@ -190,7 +211,7 @@ O direito de habitação periódica é de sua natureza perpétuo, mas poderá se
 
 2 - O direito previsto no número anterior é extensivo aos elementos da família que coabitem com o respectivo titular.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Transmissibilidade do direito de habitação periódica)
 
@@ -206,13 +227,13 @@ O direito de habitação periódica é de sua natureza perpétuo, mas poderá se
 
 6 - A transmissão por acto entre vivos ou por morte do direito de habitação periódica implica automaticamente a transmissão da posição contratual do respectivo titular em face do proprietário do imóvel ou conjunto imobiliário respectivo, sem necessidade da concordância deste, considerando-se não escritas quaisquer cláusulas negociais em contrário.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Administração do imóvel ou do conjunto imobiliário)
 
 A administração do imóvel ou do conjunto imobiliário, incluindo as suas fracções autónomas objecto de direito de habitação periódica, bem como dos respectivos equipamentos e recheio, incumbem ao proprietário.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Conservação do imóvel ou do conjunto imobiliário)
 
@@ -220,7 +241,7 @@ A administração do imóvel ou do conjunto imobiliário, incluindo as suas frac
 
 2 - Sem prejuízo do normal exercício do seu direito de habitação periódica, o respectivo titular é obrigado a consentir em que o proprietário do imóvel ou conjunto imobiliário correspondente, ou propostos seus, tenham acesso à respectiva casa de morada para poder cumprir as obrigações constantes do número anterior.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Reparações do imóvel ou do conjunto imobiliário)
 
@@ -228,19 +249,19 @@ A administração do imóvel ou do conjunto imobiliário, incluindo as suas frac
 
 2 - As reparações previstas no número anterior que correspondam a deteriorações imputáveis ao titular de direito de habitação periódica, e que não devam ser consideradas consequências do uso normal da correspondente fracção, dos respectivos equipamento e mobiliário, ou das partes comuns do imóvel ou conjunto imobiliário, são igualmente efectuadas pelo proprietário, mas de conta do titular responsável.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Obras inovadoras no imóvel ou conjunto imobiliário)
 
 As obras no imóvel ou conjunto imobiliário, incluindo as suas fracções autónomas objecto do direito de habitação periódica, que constituam inovações, só podem ser efectuadas pelo proprietário, e de sua conta, com a aprovação da maioria dos titulares daquele direito, se se referirem às partes comuns do imóvel ou do conjunto imobiliário, ou com a aprovação do titular ou titulares de direitos sobre as fracções autónomas a que se refiram.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Impostos e outros encargos anuais)
 
 O pagamento das contribuições, taxas, impostos e outros encargos anuais que incidam sobre imóvel ou conjunto imobiliário objecto de direito de habitação periódica, ainda que determinados em função do respectivo rendimento, incumbe ao respectivo proprietário.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Exclusão de preferência)
 
@@ -248,7 +269,7 @@ O pagamento das contribuições, taxas, impostos e outros encargos anuais que in
 
 2 - O proprietário de imóvel ou conjunto imobiliário sobre cujas fracções autónomas incidam direitos de habitação periódica não goza do direito de preferência na alienação de qualquer destes direitos, salvo se do título constitutivo constar que o respectivo titular tem a faculdade de desencadear o direito de preferência do proprietário notificando-o por escrito simples para o efeito de preferir dentro de certo prazo e essa faculdade for efectivamente exercida.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Prestação periódica devida pelo titular do direito de habitação)
 
@@ -260,7 +281,7 @@ O pagamento das contribuições, taxas, impostos e outros encargos anuais que in
 
 4 - O direito de crédito por prestações ou indemnizações devidas por quem exerça o direito de habitação periódica e respectivos juros moratórios goza de privilégio creditório imobiliário sobre o mesmo direito, graduável após os mencionados nos artigos 746.º e 748.º do Código Civil.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Isenção de impostos)
 
@@ -268,8 +289,8 @@ A transmissão do direito de habitação periódica fica isenta de sisa.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 22 de Dezembro de 1981.**
+Promulgado em 22 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,40 +48,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39c056aff3dc3c6e6d3b841546ef1ec2511b92eadb4c7555050b225eb028d452
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97163feaaf8be5a153b4eae7bbf164076db22a491ddd572976a0c9646a3b69ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Gestão Escolar
+- Instituto Universitário de Évora
+- Orgânica
+- Universidade de Aveiro
+- Universidade do Minho
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:106499600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197080:por
+  label: "Mantido em vigor o regime de instalação dos estabelecimentos de ensino, pelo Dec Lei 498-D/79.1979.12.21.ME, DR.IS\
+    \ [293]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-d-1979-197080
+  date: '1979-12-21'
+- type: amended_by
+  target: pt:dre:472552:por
+  label: "Criado um lugar no quadro do pessoal da Universidade do Minho, aprovado nos termos do n.º 3 do artigo 40.º, pela\
+    \ PORT.422/80.23.07.1980.PCM, DR.IS [168] de 23.07.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/422-1980-472552
+  date: '1980-07-23'
+- type: amended_by
+  target: pt:dre:608274:por
+  label: "Alterado o quadro de pessoal pela PORT.352/82.1982.04.03.MFP, DR.IS [78] de 3/Abr/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-1982-608274
+  date: '1982-04-03'
+- type: amended_by
+  target: pt:dre:607752:por
+  label: "Transformada a Universidade de Aveiro em fundação pública, pelo DEC LEI.97/2009.27.04.2009.MCTES, DR.IS [81] de\
+    \ 27.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2009-607752
+  date: '2009-04-27'
+- type: amended_by
+  target: pt:dre:73115727:por
+  label: Transformada em fundação pública a Universidade do Minho criada pelo presente diploma, com Estatutos homologados
+    pelo DN 83/95 de 26-dez, e determinado que a mesma fundação sucede em todos os direitos e obrigações na titularidade da
+    Universidade do Minho à data da transformação, pelo(a) Decreto-Lei n.º 4/2016 - Diário da República n.º 8/2016, Série
+    I de 2016-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2016-73115727
+  date: '2016-01-13'
+- type: amended_by
+  target: pt:dre:106499600:por
+  label: Transformada em fundação pública de direito privado a Universidade Nova de Lisboa, criada pelo presente diploma,
+    com os estatutos homologados pelo DN 61/89 de 06-jul, na redação dada pelo DN 35/2001 de 28-ago, e determinada a sucessão
+    pela fundação ora criada em todos os direitos e obrigações na titularidade da Universidade Nova de Lisboa à data da presente
+    transformação, pelo(a) Decreto-Lei n.º 20/2017 - Diário da República n.º 37/2017, Série I de 2017-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2017-106499600
+  date: '2017-02-21'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:178986:por
+  label: Rectificado o n.º 2 do artigo 1.º pela DECL.DD9154.15.11.1973.PC, DG.IS [267]Supl de 15.11.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-178986
+  date: '1973-11-15'
+- type: repealed_by
+  target: pt:dre:430025:por
+  label: "Revogados os arts. 10º e 11º pelo DEC LEI.513-T/79.1979.12.26.ME, DG.IS [296]3ºSupl de 26.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-t-1979-430025
+  date: '1979-12-26'
+- type: repealed_by
+  target: pt:dre:324315:por
+  label: Revogado o n.º 2 do art. 20.º pelo DEC LEI.121/85.22.04.1985.ME, DR.IS [93] de 22.04.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1985-324315
+  date: '1985-04-22'
+- type: repealed_by
+  target: pt:dre:182637:por
+  label: "Revogado o n.º 1 do artigo 43.º pelo DEC LEI.244/85.11.07.1985.ME, DR.IS [157] de 11.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1985-182637
+  date: '1985-07-11'
+- type: repealed_by
+  target: pt:dre:208255:por
+  label: "Revogado os art 12º a 36º e 40º a 45º pelo Dec Lei 215/97.1997.08.18.PCM, DR.IS-A [189] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1997-208255
+  date: '1997-08-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:57Z'
   warnings: []
   errors: []
 ---
@@ -110,35 +189,35 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Dos estabelecimentos de ensino superior
 
-###### Artigo 1.º - 1. O ensino superior é assegurado, de acordo com a Lei de Reforma do Sistema Educativo, por Universidades, Institutos Politécnicos, Escolas Normais Superiores e outros estabelecimentos equiparados.
+Artigo 1.º - 1. O ensino superior é assegurado, de acordo com a Lei de Reforma do Sistema Educativo, por Universidades, Institutos Politécnicos, Escolas Normais Superiores e outros estabelecimentos equiparados.
 
 2. A equiparação definida no número anterior será definida, em cada caso, no diploma de criação ou de reestruturação do respectivo estabelecimento de ensino.
 
-###### Art. 2.º - 1. Os estabelecimentos de ensino superior têm como funções principais ministrar o ensino de nível mais elevado, promover a educação permanente e a extensão cultural, fomentar a investigação nos vários ramos do conhecimento e contribuir, no âmbito da missão de serviço à comunidade, para a resolução de problemas de carácter nacional e regional.
+Art. 2.º - 1. Os estabelecimentos de ensino superior têm como funções principais ministrar o ensino de nível mais elevado, promover a educação permanente e a extensão cultural, fomentar a investigação nos vários ramos do conhecimento e contribuir, no âmbito da missão de serviço à comunidade, para a resolução de problemas de carácter nacional e regional.
 
 2. Devem os estabelecimentos de ensino superior assegurar a inter-relação das suas actividades, no âmbito das funções indicadas no número anterior, de modo a contribuir para a formação da personalidade, para o desenvolvimento do espírito científico, crítico e criador e para a conveniente formação e actualização profissionais, bem como promover o fomento e difusão da cultura e propiciar o desenvolvimento da ciência.
 
-###### Art. 3.º - 1. As Universidades são instituições pluridisciplinares que procuram assegurar a convergência dos diversos ramos do saber e às quais compete especialmente ministrar o ensino superior de curta e longa duração e de pós-graduação, promover a investigação fundamental e aplicada nas diferentes disciplinas científicas e em áreas interdisciplinares e, no âmbito da sua missão de serviço à comunidade, considerar o estudo da cultura portuguesa.
+Art. 3.º - 1. As Universidades são instituições pluridisciplinares que procuram assegurar a convergência dos diversos ramos do saber e às quais compete especialmente ministrar o ensino superior de curta e longa duração e de pós-graduação, promover a investigação fundamental e aplicada nas diferentes disciplinas científicas e em áreas interdisciplinares e, no âmbito da sua missão de serviço à comunidade, considerar o estudo da cultura portuguesa.
 
 2. Quando o ensino universitário for ministrado em instituições com uma vocação dominante ou com um grau de pluridisciplinaridade limitado, estas serão designadas por Institutos Universitários.
 
 3. Os Institutos Universitários conferem os mesmos graus que as Universidades, sendo-lhes aplicável o diploma orientador do ensino superior na parte respeitante a estas instituições.
 
-###### Art. 4.º Os Institutos Politécnicos são centros de formação técnico-profissional, aos quais compete especialmente ministrar o ensino superior de curta duração, orientado de forma a dar predominância aos problemas concretos e de aplicação prática, e promover a investigação aplicada e o desenvolvimento experimental, tendo em conta as necessidades no domínio tecnológico e no sector dos serviços, particularmente as de carácter regional.
+Art. 4.º Os Institutos Politécnicos são centros de formação técnico-profissional, aos quais compete especialmente ministrar o ensino superior de curta duração, orientado de forma a dar predominância aos problemas concretos e de aplicação prática, e promover a investigação aplicada e o desenvolvimento experimental, tendo em conta as necessidades no domínio tecnológico e no sector dos serviços, particularmente as de carácter regional.
 
-###### Art. 5.º As Escolas Normais Superiores são centros de formação e aperfeiçoamento de professores para o ensino básico, em especial para o preparatório, que ministram cursos superiores de curta duração, abrangendo os domínios humanístico, científico, artístico, pedagógico e de administração escolar, e que desenvolvem investigação educacional e apoiam pedagogicamente os organismos de ensino e de educação permanente, constituindo focos de irradiação cultural nas regiões em que se inserem.
+Art. 5.º As Escolas Normais Superiores são centros de formação e aperfeiçoamento de professores para o ensino básico, em especial para o preparatório, que ministram cursos superiores de curta duração, abrangendo os domínios humanístico, científico, artístico, pedagógico e de administração escolar, e que desenvolvem investigação educacional e apoiam pedagogicamente os organismos de ensino e de educação permanente, constituindo focos de irradiação cultural nas regiões em que se inserem.
 
-###### Art. 6.º Nos Institutos Politécnicos e nas Escolas Normais Superiores poderão ainda ser ministradas disciplinas básicas integradas nas licenciaturas professadas nas Universidades.
+Art. 6.º Nos Institutos Politécnicos e nas Escolas Normais Superiores poderão ainda ser ministradas disciplinas básicas integradas nas licenciaturas professadas nas Universidades.
 
-###### Art. 7.º - 1. As Universidades, os Institutos Politécnicos e as Escolas Normais Superiores de determinada região poderão estabelecer entre si regimes de associação, segundo normas a aprovar pelo Ministro da Educação Nacional, com o objectivo de intensificar a cooperação mútua e a coordenação do ensino superior no âmbito regional e de alcançar uma mais eficiente utilização dos meios humanos e do equipamento educacional e de investigação.
+Art. 7.º - 1. As Universidades, os Institutos Politécnicos e as Escolas Normais Superiores de determinada região poderão estabelecer entre si regimes de associação, segundo normas a aprovar pelo Ministro da Educação Nacional, com o objectivo de intensificar a cooperação mútua e a coordenação do ensino superior no âmbito regional e de alcançar uma mais eficiente utilização dos meios humanos e do equipamento educacional e de investigação.
 
 2. O Ministro da Educação Nacional poderá autorizar o funcionamento de unidades de ensino e investigação em localidades diferentes das sedes dos estabelecimentos de ensino superior.
 
 ### CAPÍTULO II — Criação de novos estabelecimentos
 
-###### Art. 8.º São criadas as Universidades Nova de Lisboa, de Aveiro e do Minho e o Instituto Universitário de Évora.
+Art. 8.º São criadas as Universidades Nova de Lisboa, de Aveiro e do Minho e o Instituto Universitário de Évora.
 
-###### Art. 9.º - 1. São integrados nas Universidades referidas no artigo anterior os organismos a seguir indicados:
+Art. 9.º - 1. São integrados nas Universidades referidas no artigo anterior os organismos a seguir indicados:
 
 a) Na Universidade Nova de Lisboa:
 
@@ -156,7 +235,7 @@ A Biblioteca Pública e o Arquivo Distrital de Braga.
 
 5. Para execução do disposto nos n.os 2 a 4 será promulgada legislação especial.
 
-###### Art. 10.º - 1. São criados os Institutos Politécnicos da Covilhã, Faro, Leiria, Setúbal, Tomar e Vila Real.
+Art. 10.º - 1. São criados os Institutos Politécnicos da Covilhã, Faro, Leiria, Setúbal, Tomar e Vila Real.
 
 2. São criados os Institutos Politécnicos de Coimbra, Lisboa, Porto e Santarém, por reconversão e fusão dos institutos industriais e comerciais e escolas de regentes agrícolas existentes nessas cidades.
 
@@ -164,29 +243,29 @@ A Biblioteca Pública e o Arquivo Distrital de Braga.
 
 4. A reconversão, fusão e integração referidas nos dois números anteriores obedecerão às normas que vierem a ser fixadas por decreto.
 
-###### Art. 11.º São criadas as Escolas Normais Superiores de Beja, Bragança, Castelo Branco, Funchal, Guarda, Lisboa, Ponta Delgada, Portalegre e Viseu.
+Art. 11.º São criadas as Escolas Normais Superiores de Beja, Bragança, Castelo Branco, Funchal, Guarda, Lisboa, Ponta Delgada, Portalegre e Viseu.
 
 ### CAPÍTULO III — Do regime de instalação dos novos estabelecimentos do ensino superior
 
 I - Das Universidades
 
-###### Art. 12.º - 1. A estrutura das novas Universidades, a orgânica pedagógica e administrativa das unidades de ensino e de investigação, os regimes de estudo, de investigação e de serviço à comunidade, bem como os relativos ao pessoal e à sua disciplina, serão definidos no diploma orientador do ensino superior e nos estatutos respectivos.
+Art. 12.º - 1. A estrutura das novas Universidades, a orgânica pedagógica e administrativa das unidades de ensino e de investigação, os regimes de estudo, de investigação e de serviço à comunidade, bem como os relativos ao pessoal e à sua disciplina, serão definidos no diploma orientador do ensino superior e nos estatutos respectivos.
 
 2. Durante o período de instalação, e sem prejuízo do que vier a ser estabelecido no diploma orientador do ensino superior, as novas Universidades gozam de autonomia administrativa e financeira.
 
 3. Enquanto não forem aprovados os respectivos estatutos, as novas Universidades funcionarão de harmonia com regulamentos provisórios aprovados por decretos.
 
-###### Art. 13.º - 1. O período de instalação das Universidades criadas pelo presente diploma terá a duração de três anos, podendo ser renovado por igual período, mediante despacho do Ministro da Educação Nacional.
+Art. 13.º - 1. O período de instalação das Universidades criadas pelo presente diploma terá a duração de três anos, podendo ser renovado por igual período, mediante despacho do Ministro da Educação Nacional.
 
 2. O regime de instalação obedecerá às normas fixadas no presente decreto-lei.
 
-###### Art. 14.º São instituídas comissões instaladoras para as novas Universidades, que exercerão o seu mandato durante o período referido no artigo anterior.
+Art. 14.º São instituídas comissões instaladoras para as novas Universidades, que exercerão o seu mandato durante o período referido no artigo anterior.
 
-###### Art. 15.º - 1. Cada uma das comissões instaladoras será presidida pelo reitor e dela farão parte o administrador e cinco vogais nomeados por despacho do Ministro da Educação Nacional.
+Art. 15.º - 1. Cada uma das comissões instaladoras será presidida pelo reitor e dela farão parte o administrador e cinco vogais nomeados por despacho do Ministro da Educação Nacional.
 
 2. Será ainda agregado a cada comissão instaladora um representante do Ministério das Obras Públicas designado pelo respectivo Ministro.
 
-###### Art. 16.º Compete às comissões instaladoras:
+Art. 16.º Compete às comissões instaladoras:
 
 a) Elaborar e propor os programas globais, o plano geral e os correspondentes planos parciais relativos ao desenvolvimento da instituição;
 
@@ -204,13 +283,13 @@ g) Propor planos para a formação de pessoal técnico e administrativo;
 
 h) Realizar os estudos e tomar as medidas necessárias para a adopção de sistemas racionais de gestão.
 
-###### Art. 17.º - 1. As aquisições e edificações a levar a efeito, nos termos do artigo anterior, pelas comissões instaladoras serão autorizadas pelo Ministro da Educação Nacional até ao montante da verba que para o efeito for atribuída.
+Art. 17.º - 1. As aquisições e edificações a levar a efeito, nos termos do artigo anterior, pelas comissões instaladoras serão autorizadas pelo Ministro da Educação Nacional até ao montante da verba que para o efeito for atribuída.
 
 2. As obras respeitantes às edificações a que alude o número anterior serão autorizadas por despacho conjunto dos Ministros das Obras Públicas e da Educação Nacional e fiscalizadas pelos serviços competentes do Ministério das Obras Públicas.
 
-###### Art. 18.º As comissões instaladoras, no âmbito da sua competência, poderão firmar contratos com gabinetes técnicos para a execução de projectos, estudos e outros trabalhos.
+Art. 18.º As comissões instaladoras, no âmbito da sua competência, poderão firmar contratos com gabinetes técnicos para a execução de projectos, estudos e outros trabalhos.
 
-###### Art. 19.º Compete ao reitor dirigir, orientar e coordenar as actividades e serviços da Universidade, imprimindo-lhes unidade, continuidade e eficiência, nomeadamente:
+Art. 19.º Compete ao reitor dirigir, orientar e coordenar as actividades e serviços da Universidade, imprimindo-lhes unidade, continuidade e eficiência, nomeadamente:
 
 a) Representar a Universidade em juízo e fora dele;
 
@@ -220,19 +299,19 @@ c) Elaborar e propor, com a participação dos órgãos adequados que forem send
 
 d) Submeter ao Ministro da Educação Nacional todas as questões que careçam de resolução superior.
 
-###### Art. 20.º 1. A gestão administrativa, financeira e patrimonial da Universidade será assegurada, durante o período de instalação, por um conselho administrativo.
+Art. 20.º 1. A gestão administrativa, financeira e patrimonial da Universidade será assegurada, durante o período de instalação, por um conselho administrativo.
 
 2. O conselho administrativo é presidido pelo reitor e dele farão parte o administrador e dois vogais designados por despacho do Ministro da Educação Nacional de entre os membros da comissão instaladora.
 
-###### Art. 21.º Ao administrador da Universidade compete, de acordo com a orientação do reitor, assegurar o funcionamento dos serviços administrativos, dirigir o respectivo pessoal e dar execução às deliberações da comissão instaladora e do conselho administrativo.
+Art. 21.º Ao administrador da Universidade compete, de acordo com a orientação do reitor, assegurar o funcionamento dos serviços administrativos, dirigir o respectivo pessoal e dar execução às deliberações da comissão instaladora e do conselho administrativo.
 
-###### Art. 22.º As despesas com a instalação e o funcionamento das novas Universidades serão satisfeitas, durante o período de instalação, por conta das dotações globais ou dos subsídios que lhes forem atribuídos.
+Art. 22.º As despesas com a instalação e o funcionamento das novas Universidades serão satisfeitas, durante o período de instalação, por conta das dotações globais ou dos subsídios que lhes forem atribuídos.
 
-###### Art. 23.º - 1. Todas as receitas darão entrada na Caixa Geral de Depósitos, Crédito e Previdência em conta especial à ordem do conselho administrativo.
+Art. 23.º - 1. Todas as receitas darão entrada na Caixa Geral de Depósitos, Crédito e Previdência em conta especial à ordem do conselho administrativo.
 
 2. Será apresentado mensalmente ao visto do Ministro da Educação Nacional um balancete de que será enviada cópia à Direcção-Geral da Contabilidade Pública e do qual constarão o saldo da conta de depósito e as receitas arrecadadas e despesas pagas no mês anterior, bem como as despesas previstas para o mês seguinte.
 
-###### Art. 24.º - 1. O Ministro da Educação Nacional poderá autorizar livremente, durante o período de instalação, a admissão de pessoal docente, de investigação, técnico, administrativo e auxiliar indispensável ao funcionamento dos serviços, sem prejuízo do disposto no artigo seguinte e das exigências de habilitações e do limite de idade estabelecidos na lei geral para as diferentes categorias.
+Art. 24.º - 1. O Ministro da Educação Nacional poderá autorizar livremente, durante o período de instalação, a admissão de pessoal docente, de investigação, técnico, administrativo e auxiliar indispensável ao funcionamento dos serviços, sem prejuízo do disposto no artigo seguinte e das exigências de habilitações e do limite de idade estabelecidos na lei geral para as diferentes categorias.
 
 2. As admissões serão feitas em regime de contrato, nos termos do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, ou em regime de prestação eventual de serviço.
 
@@ -244,15 +323,15 @@ d) Submeter ao Ministro da Educação Nacional todas as questões que careçam d
 
 6. O pessoal admitido nos termos do presente artigo será inscrito na Caixa Geral de Aposentações e beneficiará do regime de Assistência na Doença aos Servidores Civis do Estado.
 
-###### Art. 25.º - 1. Durante o período de instalação, o Ministro da Educação Nacional poderá autorizar que sejam nomeadas ou contratadas, como professores ou como investigadores, individualidades nacionais ou estrangeiras que, pelo seu currículo científico ou profissional, demonstrem elevada competência.
+Art. 25.º - 1. Durante o período de instalação, o Ministro da Educação Nacional poderá autorizar que sejam nomeadas ou contratadas, como professores ou como investigadores, individualidades nacionais ou estrangeiras que, pelo seu currículo científico ou profissional, demonstrem elevada competência.
 
 2. A autorização referida no número anterior depende do parecer favorável de uma comissão de especialistas designados pelo Ministro da Educação Nacional de entre individualidades nacionais ou estrangeiras de reconhecido mérito científico ou pedagógico.
 
 3. Para a nomeação ou contrato de professores das novas Universidades será dispensado o parecer mencionado no número anterior sempre que se trate de individualidades que já ocupem ou tenham sido aprovadas em concurso para lugares da mesma categoria.
 
-###### Art. 26.º O serviço em comissão considerar-se-á, para todos os efeitos, como prestado nos quadros de origem.
+Art. 26.º O serviço em comissão considerar-se-á, para todos os efeitos, como prestado nos quadros de origem.
 
-###### Art. 27.º Durante o período de instalação a admissão do pessoal docente para as novas Universidades obedecerá não só às necessidades do ensino mas também aos planos aprovados pelo Ministro, tendo em vista os seguintes objectivos:
+Art. 27.º Durante o período de instalação a admissão do pessoal docente para as novas Universidades obedecerá não só às necessidades do ensino mas também aos planos aprovados pelo Ministro, tendo em vista os seguintes objectivos:
 
 a) Organização dos diversos departamentos universitários e, em particular, montagem de laboratórios, museus, oficinas, centros de documentação e bibliotecas;
 
@@ -262,33 +341,33 @@ c) Organização de cursos de pós-graduação;
 
 d) Formação e aperfeiçoamento de pessoal.
 
-###### Art. 28.º De acordo com programas aprovados pelo Ministro da Educação Nacional, as novas Universidades poderão enviar, em missão oficial de serviço, para centros nacionais ou estrangeiros, docentes, investigadores, pessoal técnico e administrativo a fim de realizarem estudos ou adquirirem técnicas a utilizar na estruturação dos departamentos e demais serviços universitários.
+Art. 28.º De acordo com programas aprovados pelo Ministro da Educação Nacional, as novas Universidades poderão enviar, em missão oficial de serviço, para centros nacionais ou estrangeiros, docentes, investigadores, pessoal técnico e administrativo a fim de realizarem estudos ou adquirirem técnicas a utilizar na estruturação dos departamentos e demais serviços universitários.
 
-###### Art. 29.º Ao Instituto Universitário de Évora são aplicáveis todas as disposições referidas para as novas Universidades.
+Art. 29.º Ao Instituto Universitário de Évora são aplicáveis todas as disposições referidas para as novas Universidades.
 
 II - Dos Institutos Politécnicos e das Escolas Normais Superiores
 
-###### Art. 30.º Durante o período de instalação, e sem prejuízo do que vier a ser estabelecido na Lei Orientadora do Ensino Superior, os Institutos Politécnicos e as Escolas Normais Superiores gozam de autonomia administrativa e financeira.
+Art. 30.º Durante o período de instalação, e sem prejuízo do que vier a ser estabelecido na Lei Orientadora do Ensino Superior, os Institutos Politécnicos e as Escolas Normais Superiores gozam de autonomia administrativa e financeira.
 
-###### Art. 31.º - 1. É aplicável aos Institutos Politécnicos e às Escolas Normais Superiores o regime de instalação previsto para as Universidades, sem prejuízo do disposto nos números seguintes.
+Art. 31.º - 1. É aplicável aos Institutos Politécnicos e às Escolas Normais Superiores o regime de instalação previsto para as Universidades, sem prejuízo do disposto nos números seguintes.
 
 2. As comissões instaladoras dos Institutos Politécnicos e das Escolas Normais Superiores serão presididas pelo respectivo director e delas farão parte o secretário e mais três membros designados pelo Ministro da Educação Nacional.
 
 3. Os conselhos administrativos dos Institutos Politécnicos e das Escolas Normais Superiores serão presididos pelo respectivo director e deles farão parte o secretário e um vogal da comissão instaladora designado pelo Ministro da Educação Nacional.
 
-###### Art. 32.º A competência dos directores e dos secretários dos Institutos Politécnicos e das Escolas Normais Superiores corresponde, dentro da respectiva esfera de acção, à estabelecida para os reitores e para os administradores das Universidades.
+Art. 32.º A competência dos directores e dos secretários dos Institutos Politécnicos e das Escolas Normais Superiores corresponde, dentro da respectiva esfera de acção, à estabelecida para os reitores e para os administradores das Universidades.
 
-###### Art. 33.º É aplicável ao pessoal dos Institutos Politécnicos e das Escolas Normais Superiores o disposto nos artigos 24.º a 28.º do presente diploma.
+Art. 33.º É aplicável ao pessoal dos Institutos Politécnicos e das Escolas Normais Superiores o disposto nos artigos 24.º a 28.º do presente diploma.
 
 III - Da coordenação das comissões Instaladoras
 
-###### Art. 34.º 1. É criada a Comissão Coordenadora da Instalação dos Novos Estabelecimentos de Ensino Superior, que funcionará sob a presidência do Ministro da Educação Nacional.
+Art. 34.º 1. É criada a Comissão Coordenadora da Instalação dos Novos Estabelecimentos de Ensino Superior, que funcionará sob a presidência do Ministro da Educação Nacional.
 
 2. Farão parte da Comissão referida no número anterior o director-geral do Ensino Superior, o director do Gabinete de Estudos e Planeamento e os reitores e directores dos novos estabelecimentos de ensino superior.
 
 3. O Ministro da Educação Nacional poderá convocar ou convidar outros funcionários ou entidades de reconhecida competência para participarem nos trabalhos da Comissão.
 
-###### Art. 35.º Compete à Comissão Coordenadora da Instalação dos Novos Estabelecimentos de Ensino Superior:
+Art. 35.º Compete à Comissão Coordenadora da Instalação dos Novos Estabelecimentos de Ensino Superior:
 
 a) Propor as linhas gerais da política orientadora da instalação e funcionamento dos novos estabelecimentos de ensino superior;
 
@@ -302,45 +381,45 @@ e) Propor critérios e esquemas de colaboração ou associação dos estabelecim
 
 f) Promover, quando superiormente for julgado conveniente, a organização de concursos para obras ou para fornecimento de equipamento, comuns aos diversos estabelecimentos.
 
-###### Art. 36.º O secretariado e o expediente da Comissão serão assegurados pela Direcção-Geral do Ensino Superior.
+Art. 36.º O secretariado e o expediente da Comissão serão assegurados pela Direcção-Geral do Ensino Superior.
 
 ### CAPÍTULO IV — Disposições comuns e transitórias
 
-###### Art. 37.º Sem prejuízo do disposto no presente diploma, incumbe à Direcção-Geral do Ensino Superior preparar e executar todas as decisões que ao Governo pertença tomar no que respeita à organização e funcionamento dos novos estabelecimentos de ensino superior em todo o território nacional.
+Art. 37.º Sem prejuízo do disposto no presente diploma, incumbe à Direcção-Geral do Ensino Superior preparar e executar todas as decisões que ao Governo pertença tomar no que respeita à organização e funcionamento dos novos estabelecimentos de ensino superior em todo o território nacional.
 
-###### Art. 38.º - 1. Os prazos para apresentação dos programas e dos planos de desenvolvimento dos novos estabelecimentos de ensino superior serão fixados, caso a caso, por despacho do Ministro da Educação Nacional.
+Art. 38.º - 1. Os prazos para apresentação dos programas e dos planos de desenvolvimento dos novos estabelecimentos de ensino superior serão fixados, caso a caso, por despacho do Ministro da Educação Nacional.
 
 2. As novas Universidades poderão desde já instituir ensino de pós-graduação destinado à formação de pessoal docente e de investigação para os seus quadros e para os dos restantes novos estabelecimentos de ensino superior, de acordo com normas a aprovar por portaria do Ministro da Educação Nacional.
 
 3. Para efeitos do disposto no número anterior, as Universidades poderão ser autorizadas a celebrar contratos ou acordos de colaboração com outros organismos públicos ou entidades particulares de idoneidade reconhecida pelo Ministro da Educação Nacional.
 
-###### Art. 39.º Os novos estabelecimentos de ensino superior que ministrem cursos no âmbito das ciências médicas poderão ser autorizados a celebrar acordos ou contratos com hospitais ou outros serviços de saúde, cuja idoneidade seja reconhecida pelos Ministros da Educação Nacional e da Saúde e Assistência, para efeito de utilização desses hospitais ou serviços como áreas de ensino, de prática e de estágios.
+Art. 39.º Os novos estabelecimentos de ensino superior que ministrem cursos no âmbito das ciências médicas poderão ser autorizados a celebrar acordos ou contratos com hospitais ou outros serviços de saúde, cuja idoneidade seja reconhecida pelos Ministros da Educação Nacional e da Saúde e Assistência, para efeito de utilização desses hospitais ou serviços como áreas de ensino, de prática e de estágios.
 
-###### Art. 40.º - 1. Os quadros de pessoal dos novos estabelecimentos de ensino superior serão aprovados, antes do termo fixado para a sua instalação, por decreto referendado pelos Ministros das Finanças e da Educação Nacional.
+Art. 40.º - 1. Os quadros de pessoal dos novos estabelecimentos de ensino superior serão aprovados, antes do termo fixado para a sua instalação, por decreto referendado pelos Ministros das Finanças e da Educação Nacional.
 
 2. O pessoal admitido durante o período de instalação e em exercício à data da publicação dos quadros poderá ingressar nestes e ser provido em lugares de categoria idêntica ou equivalente à que tinha, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
 
 3. Sem prejuízo do disposto no presente artigo, são atribuídos, desde já, a cada um dos novos estabelecimentos de ensino superior, os contingentes de pessoal constantes dos mapas anexos a este diploma.
 
-###### Art. 41.º Os reitores das novas Universidades e os directores dos Institutos Politécnicos e das Escolas Normais Superiores serão livremente nomeados pelo Ministro da Educação Nacional de entre professores do ensino superior ou de entre individualidades de reconhecido mérito científico ou profissional.
+Art. 41.º Os reitores das novas Universidades e os directores dos Institutos Politécnicos e das Escolas Normais Superiores serão livremente nomeados pelo Ministro da Educação Nacional de entre professores do ensino superior ou de entre individualidades de reconhecido mérito científico ou profissional.
 
-###### Art. 42.º Os cargos de administrador, de director de serviços académicos, de director de serviços técnicos, de director de serviços de documentação, de secretário e de bibliotecário serão providos por escolha do Ministro da Educação Nacional de entre diplomados com curso superior adequado, propostos pelos reitores ou directores, precedendo concurso documental, com vista a avaliar do currículo profissional de cada um dos candidatos
+Art. 42.º Os cargos de administrador, de director de serviços académicos, de director de serviços técnicos, de director de serviços de documentação, de secretário e de bibliotecário serão providos por escolha do Ministro da Educação Nacional de entre diplomados com curso superior adequado, propostos pelos reitores ou directores, precedendo concurso documental, com vista a avaliar do currículo profissional de cada um dos candidatos
 
-###### Art. 43.º - 1. Os membros das comissões instaladoras das Universidades e dos Institutos Politécnicos ou Escolas Normais Superiores terão direito a gratificações mensais a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional.
+Art. 43.º - 1. Os membros das comissões instaladoras das Universidades e dos Institutos Politécnicos ou Escolas Normais Superiores terão direito a gratificações mensais a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional.
 
 2. Os membros das comissões instaladoras terão ainda direito ao abono de ajudas de custo e transportes, quando se desloquem da sua residência.
 
-###### Art. 44.º Enquanto não forem edificadas instalações destinadas especialmente às reitorias e direcções dos novos estabelecimentos de ensino superior, poderão as comissões instaladoras ser autorizadas a utilizar, total ou parcialmente, dependências de edifícios afectos a outros serviços do Ministério da Educação Nacional.
+Art. 44.º Enquanto não forem edificadas instalações destinadas especialmente às reitorias e direcções dos novos estabelecimentos de ensino superior, poderão as comissões instaladoras ser autorizadas a utilizar, total ou parcialmente, dependências de edifícios afectos a outros serviços do Ministério da Educação Nacional.
 
-###### Art. 45.º Durante o período de instalação a importação de equipamento científico e outro material necessário aos estabelecimentos criados pelo presente diploma poderá ser isenta do pagamento de direitos aduaneiros, nos termos do artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
+Art. 45.º Durante o período de instalação a importação de equipamento científico e outro material necessário aos estabelecimentos criados pelo presente diploma poderá ser isenta do pagamento de direitos aduaneiros, nos termos do artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 30 de Julho de 1973.**
+Promulgado em 30 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA I
 
@@ -348,7 +427,7 @@ Pessoal a que se refere o n.º 3 do artigo 40.º do Decreto-Lei n.º 402/73, de 
 
 Universidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/18800/14011406.pdf))](https://files.diariodarepublica.pt/1s/1973/08/18800/14011406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/18800/14011406.pdf)
 
 Manuel Artur Cotta Agostinho Dias - José Veiga Simão
 
@@ -358,6 +437,6 @@ Pessoal a que se refere o n.º 3 do artigo 40.º do Decreto-Lei n.º 402/73, de 
 
 Institutos Politécnicos e Escolas Normais Superiores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/18800/14011406.pdf))](https://files.diariodarepublica.pt/1s/1973/08/18800/14011406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/18800/14011406.pdf)
 
 Manuel Artur Cotta Agostinho Dias - José Veiga Simão

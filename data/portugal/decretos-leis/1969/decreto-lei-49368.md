@@ -48,40 +48,158 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86f427554b9a60b7c7e19ecec04c2a94bfd9b488923787030db4d4b0f6e244f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed5a1475cfd89b5db8cda077a89973e7840c6c666e2806ea1284f2a49744d72c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CTT
+- Empresa Pública
+- Estatuto
+- TLP
 relationships:
 - type: amended_by
   target: pt:dre:209043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288622:por
+  label: "Alterados os artigos 6.º, 9.º, 10.º, 11.º, 17.º, 20.º, 23.º, 25.º, 39.º, 53.º e 59.º do anexo I, pelo DEC LEI.5/73.05.01.1973.MCOMN,\
+    \ DG.IS [4] de 05.01.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1973-288622
+  date: '1973-01-05'
+- type: amended_by
+  target: pt:dre:411624:por
+  label: "Alterado o nº 3 do art. 27º do anexo I, pelo DEC LEI.596/73.1973.11.07.MCOMN DG.IS [260]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/596-1973-411624
+  date: '1973-11-07'
+- type: amended_by
+  target: pt:dre:622863:por
+  label: "Extintos os conselhos de administração, fiscal e geral da empresa pública CTT previstos no art. 8º do Estatuto,\
+    \ aprovado e publicado em anexo ao presente diploma, pelo DEC LEI.244/74.07.06.1974.PCM, DG.IS [133] de 07.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1974-622863
+  date: '1974-06-07'
+- type: amended_by
+  target: pt:dre:466059:por
+  label: "Alterados os arts. 9º, 11º ( na redacção do Dec Lei 5/73, de 05-Jan), 12º, 13º e 14 e revogado o art. 10º do anexo\
+    \ I do presente diploma, pelo DEC LEI.642/74.20.11.1974.MESA, DG.IS [270] de 20.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/642-1974-466059
+  date: '1974-11-20'
+- type: amended_by
+  target: pt:dre:286492:por
+  label: "Alterado o art. 22º do Estatuto, aprovado pelo Dec Lei 48007, de 26-Out, 1967, na redacção do presente diploma,\
+    \ pelo DEC LEI.375/77.05.09.1977.MTC, DR.IS [205] de 05.09.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1977-286492
+  date: '1977-09-05'
+- type: amended_by
+  target: pt:dre:522189:por
+  label: Transformada em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se CTT - Correios e Telecomunicações
+    de Portugal, S. A., a empresa pública Correios e Telecomunicações de Portugal (CTT), criada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 87/92 - Diário da República n.º 111/1992, Série I-A de 1992-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-1992-522189
+  date: '1992-05-14'
+- type: amended_by
+  target: pt:dre:532052:por
+  label: "Determinada a criação da Telecom Portugal, S. A., , por cisão dos Correios e Telecomunicações de Portugal, empresa\
+    \ pública criada pelo presente diploma, transformada em sociedade anónima pelo Dec Lei 87/92, de 14-Mai, pelo DEC LEI.277/92.15.12.1992.MOPTC,\
+    \ DR.IS-A [288-Supl] de 15.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1992-532052
+  date: '1992-12-15'
+- type: cites
+  target: pt:dre:232938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674657:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:216527:por
+  label: "Rectificado o nº3 do preâmbulo e a al. c) do nº1 do art. 4º, a al. a) do nº1 do art. 16º, as als. a) e c) do nº1\
+    \ do art. 25º, o nº1 do art. 26º, o nº1 do art. 45º e a al. h) do nº2 do art. 53º do Estatuto, constante do anexo I do\
+    \ presente diploma, pela RECT.DD458.17.12.1969.PC, DG.IS [293] de 17.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-216527
+  date: '1969-12-17'
+- type: repealed_by
+  target: pt:dre:447294:por
+  label: "Revogado o art. 55º do Estatuto dos Correios e Telecomunicações de Portugal, constante do anexo I do presente diploma,\
+    \ pelo DEC LEI.26/71.05.02.1971.CPEC-MOPTC, DG.IS [26] de 05.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1971-447294
+  date: '1971-02-05'
+- type: repealed_by
+  target: pt:dre:496757:por
+  label: "Revogado o art. 25º, na parte em que se refere a tarifas, e o art,. 35º do anexo I, pelo DEC LEI.355/87.1987.11.14.MOPTC\
+    \ DR.IS [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-1987-496757
+  date: '1987-11-14'
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados, a partir de 1 de Janeiro de 1989, os benefícios fiscais constantes da al. c) do nº 2 do art. 53º do anexo\
+    \ I ao presente diploma, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:611704:por
+  label: Revogados os arts. 63º e 64º do anexo I pelo DEC LEI.147/89.1989.05.06.MOPTC DR.IS [104]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1989-611704
+  date: '1989-05-06'
+- type: repealed_by
+  target: pt:dre:264277:por
+  label: "Revogado, na parte aplicável à Telecom, pelo DEC LEI.122/94.1994.05.14.MOPTC DG.IS [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1994-264277
+  date: '1994-05-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:35Z'
   warnings: []
   errors: []
 ---
@@ -198,9 +316,9 @@ Todavia, fica desde já definida uma orientação de base na política da empres
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A partir de 1 de Janeiro de 1970, a Administração-Geral dos Correios, Telégrafos e Telefones passa a constituir uma empresa pública do Estado, denominada «Correios e Telecomunicações de Portugal», regida pelo Estatuto constante do anexo I ao presente decreto-lei, que dele se considera parte integrante e baixa assinado pelos Ministros das Finanças e das Comunicações.
+Artigo 1.º A partir de 1 de Janeiro de 1970, a Administração-Geral dos Correios, Telégrafos e Telefones passa a constituir uma empresa pública do Estado, denominada «Correios e Telecomunicações de Portugal», regida pelo Estatuto constante do anexo I ao presente decreto-lei, que dele se considera parte integrante e baixa assinado pelos Ministros das Finanças e das Comunicações.
 
-###### Art. 2.º - 1. O Estatuto dos Telefones de Lisboa e Porto, anexo ao [Decreto-Lei n.º 48007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48007-1967-388633), de 26 de Outubro de 1967, é alterado em conformidade com o disposto no anexo II ao presente diploma, que dele faz parte integrante, e baixa assinado pelos Ministros das Finanças e das Comunicações, nos termos seguintes:
+Art. 2.º - 1. O Estatuto dos Telefones de Lisboa e Porto, anexo ao [Decreto-Lei n.º 48007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48007-1967-388633), de 26 de Outubro de 1967, é alterado em conformidade com o disposto no anexo II ao presente diploma, que dele faz parte integrante, e baixa assinado pelos Ministros das Finanças e das Comunicações, nos termos seguintes:
 
 a) Os artigos 2.º a 6.º, 9.º, 11.º, 22.º e 25.º a 29.º passam a ter a redacção constante do aludido anexo;
 
@@ -212,13 +330,13 @@ c) É aditado ao artigo 17.º o n.º 4 e eliminado o n.º 5 do artigo 31.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Fernando Alberto de Oliveira.
 
-**Promulgado em 31 de Outubro de 1969.**
+Promulgado em 31 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
-## Anexo I ao Decreto-Lei n.º 49368
+Anexo I ao Decreto-Lei n.º 49368
 
 ESTATUTO DOS CORREIOS E TELECOMUNICAÇÕES DE PORTUGAL
 
@@ -226,11 +344,11 @@ ESTATUTO DOS CORREIOS E TELECOMUNICAÇÕES DE PORTUGAL
 
 #### SECÇÃO I — Natureza e objecto da empresa
 
-###### Artigo 1.º - 1. A Administração-Geral dos Correios, Telégrafos e Telefones passa a constituir uma empresa pública do Estado, denominada «Correios e Telecomunicações de Portugal», a qual mantém a abreviatura tradicional de CTT.
+Artigo 1.º - 1. A Administração-Geral dos Correios, Telégrafos e Telefones passa a constituir uma empresa pública do Estado, denominada «Correios e Telecomunicações de Portugal», a qual mantém a abreviatura tradicional de CTT.
 
 2. Os Correios e Telecomunicações de Portugal são dotados de personalidade jurídica de direito público, possuem autonomia administrativa e financeira e têm a sua sede em Lisboa.
 
-###### Art. 2.º - 1. O objecto da empresa é a exploração dos serviços públicos de correios e telecomunicações no território português do continente europeu e das ilhas adjacentes, com excepção da radiodifusão sonora, da televisão e da posta e telecomunicações militares.
+Art. 2.º - 1. O objecto da empresa é a exploração dos serviços públicos de correios e telecomunicações no território português do continente europeu e das ilhas adjacentes, com excepção da radiodifusão sonora, da televisão e da posta e telecomunicações militares.
 
 2. Além dos serviços referidos no número anterior poderão os CTT exercer quaisquer outras actividades complementares ou subsidiárias que a tradição e a índole da exploração imponham ou a experiência e o progresso técnico aconselhem.
 
@@ -242,13 +360,13 @@ ESTATUTO DOS CORREIOS E TELECOMUNICAÇÕES DE PORTUGAL
 
 6. Depende de licença dos CTT o estabelecimento e utilização de meios de comunicação radioeléctrica por entidades particulares ou públicas, salvo no que respeita a instalações sujeitas por lei a diferente competência.
 
-###### Art. 3.º - 1. A universalidade do estabelecimento da Administração-Geral dos Correios, Telégrafos e Telefones que se encontra afectada, a qualquer título, à mesma Administração-Geral, incluindo todos os bens, direitos e obrigações, transitará, nas mesmas condições, para a nova empresa, a partir de 1 de Janeiro de 1970.
+Art. 3.º - 1. A universalidade do estabelecimento da Administração-Geral dos Correios, Telégrafos e Telefones que se encontra afectada, a qualquer título, à mesma Administração-Geral, incluindo todos os bens, direitos e obrigações, transitará, nas mesmas condições, para a nova empresa, a partir de 1 de Janeiro de 1970.
 
 2. No exercício da sua actividade, a empresa administrará, conservará, aperfeiçoará e ampliará o estabelecimento a que se refere o número anterior, de harmonia com as necessidades do serviço.
 
 #### SECÇÃO II — Regime de exploração dos serviços
 
-###### Art. 4.º - 1. O serviço público a cargo dos CTT, explorado em regime de exclusivo, abrange:
+Art. 4.º - 1. O serviço público a cargo dos CTT, explorado em regime de exclusivo, abrange:
 
 a) O transporte e distribuição de missivas ou outras correspondências fechadas e de quaisquer missivas abertas, incluindo os bilhetes-postais;
 
@@ -270,7 +388,7 @@ e) Os sistemas de comunicações filares autorizados, privativos de serviços p�
 
 f) A realização, por entidades estranhas, de quaisquer serviços ou trabalhos compreendidos no exclusivo, quando autorizada ou determinada pelos próprios CTT.
 
-###### Art. 5.º - 1. As actividades que constituem o serviço público reservado, em exclusivo, aos CTT podem ser objecto de concessão, mediante lei especial.
+Art. 5.º - 1. As actividades que constituem o serviço público reservado, em exclusivo, aos CTT podem ser objecto de concessão, mediante lei especial.
 
 2. A concessão não poderá abranger todo o serviço confiado aos CTT, devendo restringir-se a certo tipo de operações postais ou de telecomunicações a explorar em todo o território metropolitano ou em determinada parte dele.
 
@@ -280,7 +398,7 @@ f) A realização, por entidades estranhas, de quaisquer serviços ou trabalhos 
 
 #### SECÇÃO III — Uso público dos serviços
 
-###### Art. 6.º - 1. A todos é lícito utilizar os serviços dos CTT, desde que sejam observadas as disposições legais e regulamentares aplicáveis.
+Art. 6.º - 1. A todos é lícito utilizar os serviços dos CTT, desde que sejam observadas as disposições legais e regulamentares aplicáveis.
 
 2. A lei poderá definir prioridades de uso dos serviços e estabelecer preferências em benefício de entidades que prossigam interesses públicos dignos de protecção especial.
 
@@ -288,7 +406,7 @@ f) A realização, por entidades estranhas, de quaisquer serviços ou trabalhos 
 
 4. As correspondências postais e telegráficas pertencem aos seus remetentes ou expedidores enquanto não entregues aos destinatários.
 
-###### Art. 7.º - 1. Os CTT não podem aceitar, transportar ou distribuir quaisquer correspondências ou outros objectos postais quando se verifique:
+Art. 7.º - 1. Os CTT não podem aceitar, transportar ou distribuir quaisquer correspondências ou outros objectos postais quando se verifique:
 
 a) Conterem termos, expressões ou desenhos obscenos ou cujo teor constitua injúria ou exprima ideias criminosas ou ofensivas das leis e dos bons costumes;
 
@@ -316,7 +434,7 @@ h) Por outro qualquer motivo não obedecerem aos preceitos legais e regulamentar
 
 #### SECÇÃO I — Disposição preliminar
 
-###### Art. 8.º - 1. Os corpos gerentes da empresa são o conselho de administração e o conselho fiscal.
+Art. 8.º - 1. Os corpos gerentes da empresa são o conselho de administração e o conselho fiscal.
 
 2. Ao conselho geral - no qual estarão representados os utentes, através das autarquias locais e das corporações, além de entidades tècnicamente qualificadas - pertencerá apreciar e orientar a gestão económica e financeira da empresa e pronunciar-se sobre a marcha do serviço público.
 
@@ -324,7 +442,7 @@ h) Por outro qualquer motivo não obedecerem aos preceitos legais e regulamentar
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 9.º - 1. O conselho de administração é composto por um presidente, com a designação de correio-mor, e por oito administradores, todos nomeados por cinco anos, renováveis e isentos de caução.
+Art. 9.º - 1. O conselho de administração é composto por um presidente, com a designação de correio-mor, e por oito administradores, todos nomeados por cinco anos, renováveis e isentos de caução.
 
 2. O correio-mor será nomeado por portaria subscrita pelo Ministro das Comunicações, precedendo resolução do Conselho de Ministros.
 
@@ -332,9 +450,9 @@ h) Por outro qualquer motivo não obedecerem aos preceitos legais e regulamentar
 
 4. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que o seu presidente o convocar.
 
-###### Art. 10.º No conselho de administração haverá uma comissão executiva composta pelo correio-mor, que a ela presidirá, e pelos três administradores-delegados.
+Art. 10.º No conselho de administração haverá uma comissão executiva composta pelo correio-mor, que a ela presidirá, e pelos três administradores-delegados.
 
-###### Art. 11.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar a existência da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste Estatuto ou por lei atribuídos a outras entidades ou a outros órgãos da empresa.
+Art. 11.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar a existência da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste Estatuto ou por lei atribuídos a outras entidades ou a outros órgãos da empresa.
 
 2. O conselho de administração poderá delegar, no todo ou em parte, em qualquer dos seus membros ou na comissão executiva os poderes que lhe são conferidos no número anterior.
 
@@ -342,11 +460,11 @@ h) Por outro qualquer motivo não obedecerem aos preceitos legais e regulamentar
 
 4. O exercício da competência do conselho de administração depende, nos casos previstos no presente Estatuto, da anuência do conselho fiscal ou da aprovação do Governo.
 
-###### Art. 12.º - 1. Compete à comissão executiva dar cumprimento às deliberações do conselho de administração e exercer os poderes que o mesmo conselho nela delegar.
+Art. 12.º - 1. Compete à comissão executiva dar cumprimento às deliberações do conselho de administração e exercer os poderes que o mesmo conselho nela delegar.
 
 2. As delegações do conselho de administração estabelecerão, quando necessário, os limites e termos do exercício dos poderes delegados e especificarão quais os actos que terão de ser deliberados em reunião da comissão executiva, sendo os restantes decididos por despacho dos membros dela.
 
-###### Art. 13.º - 1. Compete ao correio-mor:
+Art. 13.º - 1. Compete ao correio-mor:
 
 a) Coordenar a acção da comissão executiva, dos dirigentes e dos serviços da empresa;
 
@@ -366,13 +484,13 @@ f) Desempenhar as restantes atribuições que lhe são cometidas no presente Est
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 14.º - 1. O conselho fiscal será composto por um presidente e quatro vogais, que exercerão as suas funções por períodos de cinco anos, renováveis.
+Art. 14.º - 1. O conselho fiscal será composto por um presidente e quatro vogais, que exercerão as suas funções por períodos de cinco anos, renováveis.
 
 2. O presidente será um juiz do Tribunal de Contas, nomeado por portaria conjunta dos Ministros das Finanças e das Comunicações, precedendo resolução do Conselho de Ministros.
 
 3. Os vogais serão nomeados por portaria conjunta dos Ministros das Finanças e das Comunicações e escolhidos, de preferência, entre indivíduos com curso superior adequado.
 
-###### Art. 15.º - 1. O conselho fiscal terá uma reunião ordinária mensal e as reuniões extraordinárias que o presidente convocar.
+Art. 15.º - 1. O conselho fiscal terá uma reunião ordinária mensal e as reuniões extraordinárias que o presidente convocar.
 
 2. Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá voto nos casos expressamente previstos no presente Estatuto.
 
@@ -380,7 +498,7 @@ f) Desempenhar as restantes atribuições que lhe são cometidas no presente Est
 
 4. A empresa porá à disposição do conselho fiscal os meios de acção indispensáveis ao exercício da sua competência.
 
-###### Art. 16.º - 1. Compete ao conselho fiscal:
+Art. 16.º - 1. Compete ao conselho fiscal:
 
 a) Velar pelo cumprimento das leis aplicáveis ao funcionamento dos CTT e pela observância do presente estatuto;
 
@@ -412,7 +530,7 @@ i) Apreciar as contas de responsabilidade do tesoureiro e dos demais exactores d
 
 #### SECÇÃO IV — Conselho geral
 
-###### Art. 17.º - 1. O conselho geral é presidido por individualidade estranha aos CTT designada em portaria subscrita pelo Ministro das Comunicações, precedendo resolução do Conselho de Ministros.
+Art. 17.º - 1. O conselho geral é presidido por individualidade estranha aos CTT designada em portaria subscrita pelo Ministro das Comunicações, precedendo resolução do Conselho de Ministros.
 
 2. Por portaria do Ministro das Comunicações será designado um vice-presidente do conselho geral, escolhido de entre os vogais respectivos, que substituirá o presidente nas suas faltas e impedimentos.
 
@@ -432,9 +550,9 @@ f) Três vogais escolhidos entre professores do ensino superior que rejam matér
 
 4. Os membros dos conselhos de administração e fiscal deverão assistir às reuniões do conselho geral e poderão participar nos trabalhos, usando da palavra e apresentando propostas e sugestões, mas sem voto deliberativo.
 
-###### Art. 18.º As entidades que designarem representantes para o conselho geral deverão substituí-los quando as pessoas designadas cessem de exercer as funções em razão das quais hajam sido escolhidas, se achem legìtimamente impedidas ou obtenham escusa da representação, nos casos em que tal seja admissível.
+Art. 18.º As entidades que designarem representantes para o conselho geral deverão substituí-los quando as pessoas designadas cessem de exercer as funções em razão das quais hajam sido escolhidas, se achem legìtimamente impedidas ou obtenham escusa da representação, nos casos em que tal seja admissível.
 
-###### Art. 19.º - 1. Compete ao conselho geral:
+Art. 19.º - 1. Compete ao conselho geral:
 
 a) Apreciar o relatório e as contas de gerência anualmente apresentados pelo conselho de administração, bem como o correspondente parecer do conselho fiscal, e deliberar sobre as propostas formuladas nesses documentos;
 
@@ -454,7 +572,7 @@ c) Sugerir ao conselho de administração ou ao Governo as providências necess�
 
 #### SECÇÃO V — Disposições comuns
 
-###### Art. 20.º - 1. Os membros dos conselhos de administração e fiscal tomam posse dos seus cargos perante o presidente do conselho geral, que poderá delegar no vice-presidente.
+Art. 20.º - 1. Os membros dos conselhos de administração e fiscal tomam posse dos seus cargos perante o presidente do conselho geral, que poderá delegar no vice-presidente.
 
 2. O presidente e os vogais do conselho de administração perceberão as remunerações correspondentes aos cargos que desempenharem, podendo compreender, além do ordenado mensal, participação nos lucros. Estas remunerações ficam apenas sujeitas ao limite que, para o efeito, for estabelecido pelo Conselho de Ministros.
 
@@ -470,13 +588,13 @@ b) Às gratificações mensais a atribuir ao presidente e aos vogais do conselho
 
 6. Os membros dos corpos gerentes são equiparados aos servidores da empresa em matéria de responsabilidade, de prerrogativas e de obras de carácter social, cultural e de previdência, sendo-lhes aplicável o disposto nos artigos 28.º e 30.º
 
-###### Art. 21.º - 1. As funções de correio-mor e de administrador-delegado são incompatíveis com o exercício de qualquer outro lugar público remunerado ou de profissão liberal, bem como com o desempenho de funções na gerência de sociedades ou de empresas comerciais, salvo em representação do Estado.
+Art. 21.º - 1. As funções de correio-mor e de administrador-delegado são incompatíveis com o exercício de qualquer outro lugar público remunerado ou de profissão liberal, bem como com o desempenho de funções na gerência de sociedades ou de empresas comerciais, salvo em representação do Estado.
 
 2. A acumulação de funções públicas ou de actividades privadas com os cargos de administrador e de membro do conselho fiscal fica dependente de autorização do Ministro das Comunicações.
 
-###### Art. 22.º As reuniões conjuntas dos conselhos de administração e fiscal serão convocadas e presididas pelo correio-mor ou por quem o substituir.
+Art. 22.º As reuniões conjuntas dos conselhos de administração e fiscal serão convocadas e presididas pelo correio-mor ou por quem o substituir.
 
-###### Art. 23.º - 1. Os órgãos colegiais da empresa só podem tomar deliberações quando esteja presente a maioria dos membros de cada um desses órgãos.
+Art. 23.º - 1. Os órgãos colegiais da empresa só podem tomar deliberações quando esteja presente a maioria dos membros de cada um desses órgãos.
 
 2. As deliberações dos órgãos colegiais serão tomadas por maioria dos membros presentes, não sendo permitido o voto por correspondência ou por procuração. Em caso de empate, o presidente terá voto de qualidade.
 
@@ -484,13 +602,13 @@ b) Às gratificações mensais a atribuir ao presidente e aos vogais do conselho
 
 4. As actas serão lavradas pelo servidor dos CTT designado para esse efeito e assinadas por quem houver presidido às reuniões, podendo ser aprovadas no final destas, em minuta, ou na reunião que se seguir.
 
-###### Art. 24.º - 1. Dos actos praticados pela comissão executiva ou pelos seus membros, em execução de deliberações do conselho de administração, cabe recurso hierárquico para este, com fundamento de tais actos excederem ou contrariarem as deliberações em que se fundamentam.
+Art. 24.º - 1. Dos actos praticados pela comissão executiva ou pelos seus membros, em execução de deliberações do conselho de administração, cabe recurso hierárquico para este, com fundamento de tais actos excederem ou contrariarem as deliberações em que se fundamentam.
 
 2. Das deliberações definitivas e executórias do conselho de administração, bem como dos actos da mesma natureza praticados por delegação sua, cabe recurso contencioso, nos termos gerais do direito, para o Supremo Tribunal Administrativo.
 
 #### SECÇÃO VI — Intervenção do Governo
 
-###### Art. 25.º - 1. Compete ao Governo, pelo Ministro das Comunicações:
+Art. 25.º - 1. Compete ao Governo, pelo Ministro das Comunicações:
 
 a) Precedendo resolução do Conselho de Ministros, nomear o correio-mor e o presidente do conselho geral e exonerá-los a seu pedido por conveniência de serviço;
 
@@ -552,7 +670,7 @@ b) Nomear o presidente do conselho disciplinar.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 26.º - 1. O pessoal dos CTT considera-se abrangido pelas disposições do artigo 36.º do Estatuto do Trabalho Nacional ([Decreto-Lei n.º 23548](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23548-1934-674657), de 23 de Setembro de 1933) e o seu regime jurídico será definido em regulamentos especiais.
+Art. 26.º - 1. O pessoal dos CTT considera-se abrangido pelas disposições do artigo 36.º do Estatuto do Trabalho Nacional ([Decreto-Lei n.º 23548](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23548-1934-674657), de 23 de Setembro de 1933) e o seu regime jurídico será definido em regulamentos especiais.
 
 2. Os referidos regulamentos serão elaborados pelo conselho de administração e estabelecerão para o pessoal um regime jurídico que se adapte às actividades específicas dos CTT e tenha em conta a diversidade de tarefas a que tais actividades obrigam. A aprovação desses regulamentos será dada em portaria conjunta dos Ministros das Comunicações e das Corporações e Previdência Social.
 
@@ -572,7 +690,7 @@ Das decisões do conselho de administração proferidas no exercício desta comp
 
 6. Os conflitos surgidos entre os CTT e os seus servidores que não sejam de natureza disciplinar serão decididos por uma comissão arbitral presidida pelo magistrado a que se refere o n.º 4, tendo como vogais um representante de cada uma das partes. Destas decisões haverá recurso para a 3.ª secção do Supremo Tribunal Administrativo nos processos de valor superior a 30000$00.
 
-###### Art. 27.º - 1. A tabela das remunerações do pessoal será estabelecida pelo conselho de administração, tendo em conta:
+Art. 27.º - 1. A tabela das remunerações do pessoal será estabelecida pelo conselho de administração, tendo em conta:
 
 a) A política geral do Governo em matéria de remuneração do trabalho;
 
@@ -594,7 +712,7 @@ f) Os salários ou remunerações mínimas que forem estabelecidos, por despacho
 
 Tal regime assegurará a transferibilidade e manutenção dos direitos à aposentação adquiridos pelos servidores admitidos nos CTT a partir de 1 de Janeiro de 1970 para qualquer outro sistema nacional de aposentação, incluindo a Caixa Geral de Aposentações e vice-versa.
 
-###### Art. 28.º - 1. Os servidores dos CTT, salvo as excepções estabelecidas no regulamento do pessoal, têm as prerrogativas seguintes:
+Art. 28.º - 1. Os servidores dos CTT, salvo as excepções estabelecidas no regulamento do pessoal, têm as prerrogativas seguintes:
 
 a) Podem prender em flagrante delito tanto os indivíduos que os ultrajarem no exercício das suas funções como os delinquentes por crimes comuns, conduzindo-os imediatamente à presença das autoridades competentes;
 
@@ -608,7 +726,7 @@ e) Não podem ser chamados a juízo ou mandados comparecer perante qualquer auto
 
 2. Os servidores que desempenhem funções de chefia, de inspecção ou de fiscalização, quando se encontrem no exercício das suas funções, são equiparados, para efeitos penais, aos agentes da autoridade ou da força pública.
 
-###### Art. 29.º - 1. Constitui incompatibilidade absoluta para os servidores dos CTT a acumulação de funções públicas, salvo nos seguintes casos:
+Art. 29.º - 1. Constitui incompatibilidade absoluta para os servidores dos CTT a acumulação de funções públicas, salvo nos seguintes casos:
 
 a) Por inerência;
 
@@ -632,9 +750,9 @@ c) Tal actividade possa de qualquer forma prejudicar a que é exercida na empres
 
 4. As infracções ao preceituado neste artigo serão punidas disciplinarmente.
 
-###### Art. 30.º Os CTT poderão instituir obras de carácter social, cultural e de previdência em benefício dos seus servidores, tais como assistência médica, cantinas, creches, habitação, cofre de previdência e outras, bem como subsidiar, fundir e integrar nessas obras instituições já existentes que tenham aquele carácter, incluindo as que hajam sido fundadas e subscritas pelos servidores.
+Art. 30.º Os CTT poderão instituir obras de carácter social, cultural e de previdência em benefício dos seus servidores, tais como assistência médica, cantinas, creches, habitação, cofre de previdência e outras, bem como subsidiar, fundir e integrar nessas obras instituições já existentes que tenham aquele carácter, incluindo as que hajam sido fundadas e subscritas pelos servidores.
 
-###### Art. 31.º - 1. Os problemas de orientação geral em matéria de relações entre a empresa e o pessoal serão examinados por uma comissão presidida por uma individualidade designada pelo Ministro das Corporações e Previdência Social, denominada «comissão CTT para as relações humanas», e que será órgão consultivo do Governo e do conselho de administração.
+Art. 31.º - 1. Os problemas de orientação geral em matéria de relações entre a empresa e o pessoal serão examinados por uma comissão presidida por uma individualidade designada pelo Ministro das Corporações e Previdência Social, denominada «comissão CTT para as relações humanas», e que será órgão consultivo do Governo e do conselho de administração.
 
 2. As questões que lhe serão submetidas podem ser relativas ao funcionamento dos serviços ou de natureza moral ou social e as propostas decorrentes deverão ter em vista especialmente a harmonia nas relações entre a empresa e os seus servidores e, bem assim, a salvaguarda dos interesses mútuos.
 
@@ -642,15 +760,15 @@ c) Tal actividade possa de qualquer forma prejudicar a que é exercida na empres
 
 ### CAPÍTULO IV — Gestão financeira e patrimonial
 
-###### Art. 32.º - 1. Os CTT arrecadam as receitas provenientes da prestação dos serviços a seu cargo e dos rendimentos dos bens que administrarem ou possuírem.
+Art. 32.º - 1. Os CTT arrecadam as receitas provenientes da prestação dos serviços a seu cargo e dos rendimentos dos bens que administrarem ou possuírem.
 
 2. É da exclusiva competência da empresa e será por ela custeado tudo o que se refere à administração e exploração dos serviços a seu cargo, bem como à aquisição, construção, ampliação e conservação dos bens necessários à consecução dos seus fins.
 
-###### Art. 33.º - 1. Os CTT administram o domínio público do Estado afecto à exploração dos serviços a seu cargo, devendo manter em dia o respectivo cadastro, afectar-lhe os bens que nele convenha incorporar, desafectar os dispensáveis e assegurar a respectiva polícia.
+Art. 33.º - 1. Os CTT administram o domínio público do Estado afecto à exploração dos serviços a seu cargo, devendo manter em dia o respectivo cadastro, afectar-lhe os bens que nele convenha incorporar, desafectar os dispensáveis e assegurar a respectiva polícia.
 
 2. Os bens do domínio privado dos CTT afectos à exploração dos seus serviços e os demais bens que a empresa receba ou adquira para realização dos seus fins constituem o seu património privativo.
 
-###### Art. 34.º - 1. As tarifas serão fixadas de modo a assegurar o equilíbrio económico entre as receitas e os encargos da empresa, a fim de satisfazer, com regularidade e continuidade, as necessidades colectivas, acompanhando o desenvolvimento destas e o aperfeiçoamento dos meios técnicos utilizáveis.
+Art. 34.º - 1. As tarifas serão fixadas de modo a assegurar o equilíbrio económico entre as receitas e os encargos da empresa, a fim de satisfazer, com regularidade e continuidade, as necessidades colectivas, acompanhando o desenvolvimento destas e o aperfeiçoamento dos meios técnicos utilizáveis.
 
 2. No cálculo das taxas ter-se-á em conta, designadamente:
 
@@ -662,7 +780,7 @@ c) A satisfação dos encargos financeiros dos capitais investidos.
 
 3. Na fixação das taxas relativas aos serviços internacionais serão também tomadas em consideração as disposições aplicáveis dos tratados, convenções e acordos em vigor.
 
-###### Art. 35.º - 1. As taxas unitárias são fixadas em portaria firmada pelo Ministro das Comunicações, ouvido o Conselho de Ministros, correspondendo:
+Art. 35.º - 1. As taxas unitárias são fixadas em portaria firmada pelo Ministro das Comunicações, ouvido o Conselho de Ministros, correspondendo:
 
 a) Nos serviços postais, ao porte mínimo da carta ordinária;
 
@@ -690,7 +808,7 @@ e) Os demais preços necessários ao estabelecimento dos sistemas tarifários do
 
 6. Salvas as excepções a que alude o artigo seguinte, a execução pelos CTT dos serviços tabelados depende do pagamento das taxas correspondentes que estiverem em vigor. As alterações dessas taxas ou qualquer nova taxa, ainda que fixadas a título provisório, só vigoram a partir do dia seguinte ao da sua publicação no Diário do Governo, ou em data posterior, se assim for determinado.
 
-###### Art. 36.º - 1. São mantidas as isenções e reduções de taxas concedidas pelas leis em vigor. O Presidente da República, o Presidente do Conselho de Ministros, o Presidente da Assembleia Nacional, o Presidente da Câmara Corporativa, o Presidente do Supremo Tribunal de Justiça, os Ministros, os Secretários de Estado, os Subsecretários de Estado, o Procurador-Geral da República, o Presidente do Supremo Tribunal Administrativo, os membros dos conselhos de administração e fiscal dos CTT e o presidente e o vice-presidente do conselho geral podem utilizar gratuitamente os serviços nacionais de telecomunicações. As gratuitidades e isenções a estabelecer para o pessoal dos CTT serão fixadas em regulamento interno.
+Art. 36.º - 1. São mantidas as isenções e reduções de taxas concedidas pelas leis em vigor. O Presidente da República, o Presidente do Conselho de Ministros, o Presidente da Assembleia Nacional, o Presidente da Câmara Corporativa, o Presidente do Supremo Tribunal de Justiça, os Ministros, os Secretários de Estado, os Subsecretários de Estado, o Procurador-Geral da República, o Presidente do Supremo Tribunal Administrativo, os membros dos conselhos de administração e fiscal dos CTT e o presidente e o vice-presidente do conselho geral podem utilizar gratuitamente os serviços nacionais de telecomunicações. As gratuitidades e isenções a estabelecer para o pessoal dos CTT serão fixadas em regulamento interno.
 
 2. Os CTT pagarão ao Estado a renda de 1 por cento sobre a receita cobrada da sua exploração. Esta renda constituirá encargo da conta correspondente e será liquidada mensalmente.
 
@@ -698,7 +816,7 @@ e) Os demais preços necessários ao estabelecimento dos sistemas tarifários do
 
 4. As importâncias pelas quais os CTT sejam credores do Estado por virtude de serviços prestados ou de cedência de material e que não hajam sido liquidadas até trinta dias antes do encerramento da conta de gerência dos CTT serão deduzidas nas importâncias a pagar ao Estado a título de renda ou de participação nos lucros.
 
-###### Art. 37.º - 1. Os CTT podem contrair empréstimos em moeda nacional ou estrangeira, titulados por qualquer das formas de uso corrente e em conformidade com os preceitos da legislação vigente.
+Art. 37.º - 1. Os CTT podem contrair empréstimos em moeda nacional ou estrangeira, titulados por qualquer das formas de uso corrente e em conformidade com os preceitos da legislação vigente.
 
 2. Os empréstimos por prazo superior a cinco anos só podem ser contraídos para a realização de investimentos reprodutivos, para renovação ou ampliação de instalações e serviços ou para conversão de dívidas anteriores, a curto ou a médio prazo.
 
@@ -706,7 +824,7 @@ e) Os demais preços necessários ao estabelecimento dos sistemas tarifários do
 
 4. Os títulos de crédito e os rendimentos do património dos CTT poderão servir de caução aos empréstimos contraídos.
 
-###### Art. 38.º - 1. A gestão financeira e patrimonial dos CTT será disciplinada pelas seguintes previsões:
+Art. 38.º - 1. A gestão financeira e patrimonial dos CTT será disciplinada pelas seguintes previsões:
 
 a) Programa de desenvolvimento e financeiro plurianual;
 
@@ -720,11 +838,11 @@ c) Orçamento anual.
 
 4. O orçamento será ordinário e extraordinário, prevendo-se no primeiro a conta de lucros e perdas, que tomará em consideração as previsões da conta de exploração, e no segundo as contas de estabelecimento e renovação.
 
-###### Art. 39.º - 1. Salvo durante um período de adaptação, que não poderá exceder três anos, a contar de 1 de Janeiro de 1970, os programas, os orçamentos anuais e a contabilidade dos CTT serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
+Art. 39.º - 1. Salvo durante um período de adaptação, que não poderá exceder três anos, a contar de 1 de Janeiro de 1970, os programas, os orçamentos anuais e a contabilidade dos CTT serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
 
 2. Na execução do orçamento e na contabilidade assegurar-se-á a fiscalização da arrecadação das receitas e da regularidade das despesas.
 
-###### Art. 40.º - 1. O orçamento será executado de modo que na efectivação das despesas se respeite o princípio da autorização dependente de cabimento na dotação orçamental.
+Art. 40.º - 1. O orçamento será executado de modo que na efectivação das despesas se respeite o princípio da autorização dependente de cabimento na dotação orçamental.
 
 2. A comissão executiva pode autorizar as transferências de verbas orçamentais que não se destinem a fins acessórios da exploração.
 
@@ -732,11 +850,11 @@ c) Orçamento anual.
 
 4. Depende também de deliberação do conselho de administração, com voto concordante do conselho fiscal, a transferência de verbas que reforcem dotações orçamentais destinadas a fins acessórios da exploração, nomeadamente fins sociais, culturais, beneficentes ou de previdência e de publicidade.
 
-###### Art. 41.º - 1. O valor dos bens da empresa e do domínio público a cargo dela será amortizado de maneira contínua, nos termos que forem fixados pelo conselho de administração, com acordo do conselho fiscal, homologados por despacho conjunto dos Ministros das Finanças e das Comunicações.
+Art. 41.º - 1. O valor dos bens da empresa e do domínio público a cargo dela será amortizado de maneira contínua, nos termos que forem fixados pelo conselho de administração, com acordo do conselho fiscal, homologados por despacho conjunto dos Ministros das Finanças e das Comunicações.
 
 2. O montante anual das amortizações ou reintegrações constituirá encargo da conta de exploração e será escriturado numa conta de amortizações.
 
-###### Art. 42.º - 1. Os CTT manterão as seguintes contas de reserva:
+Art. 42.º - 1. Os CTT manterão as seguintes contas de reserva:
 
 a) Reserva para investimento;
 
@@ -750,15 +868,15 @@ b) As receitas de subvenções, comparticipações, doações, heranças e legad
 
 3. Constitui a reserva geral a percentagem dos lucros de cada exercício que lhe for destinada por deliberação do conselho geral.
 
-###### Art. 43.º As disponibilidades dos CTT que se não encontrem investidas em estabelecimento e não sejam necessárias ao maneio dos serviços de tesouraria e armazéns podem aplicar-se em títulos de crédito ou depósitos a prazo. A compra e venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com parecer favorável do conselho fiscal.
+Art. 43.º As disponibilidades dos CTT que se não encontrem investidas em estabelecimento e não sejam necessárias ao maneio dos serviços de tesouraria e armazéns podem aplicar-se em títulos de crédito ou depósitos a prazo. A compra e venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com parecer favorável do conselho fiscal.
 
-###### Art. 44.º - 1. Anualmente serão elaborados, com referencia ao dia 31 de Dezembro, o cadastro dos bens da empresa e do domínio público a cargo dela, o respectivo inventário, o balanço e a conta de ganhos e perdas do exercício.
+Art. 44.º - 1. Anualmente serão elaborados, com referencia ao dia 31 de Dezembro, o cadastro dos bens da empresa e do domínio público a cargo dela, o respectivo inventário, o balanço e a conta de ganhos e perdas do exercício.
 
 2. Até 15 de Maio de cada ano deverá ser remetido aos membros do conselho geral o relatório do conselho de administração referente ao exercício anterior, acompanhado do balanço, da conta de ganhos e perdas e do parecer do conselho fiscal.
 
 3. O inventário e a conta de exploração baseada na receita e na despesa liquidadas estarão patentes à consulta dos membros do conselho geral de 15 de Maio a 12 de Junho seguinte, podendo os referidos membros solicitar aos serviços todos os esclarecimentos que, acerca desses documentos, julguem necessários.
 
-###### Art. 45.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo 5 por cento, pelo menos, a reserva geral, 20 por cento ao Estado, a título de participação nos lucros da empresa, e dispondo do remanescente consoante o estabelecido nos números seguintes.
+Art. 45.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo 5 por cento, pelo menos, a reserva geral, 20 por cento ao Estado, a título de participação nos lucros da empresa, e dispondo do remanescente consoante o estabelecido nos números seguintes.
 
 2. Se a diminuta importância de lucro ou as previsões do próximo exercício o aconselharem, será levado o remanescente a conta nova.
 
@@ -774,35 +892,35 @@ c) As sobras eventuais destinar-se-ão a provisões especiais ou conta nova.
 
 5. No caso de a conta saldar com prejuízo que não possa ser suportado pela reserva geral, será esse prejuízo levado à conta do exercício seguinte.
 
-###### Art. 46.º Quando o conselho geral considere responsáveis membros dos conselhos de administração ou fiscal por actos por eles praticados ou por factos ocorridos durante a sua gerência, cabe aos visados recurso para o Tribunal de Contas, que o julgará contenciosamente.
+Art. 46.º Quando o conselho geral considere responsáveis membros dos conselhos de administração ou fiscal por actos por eles praticados ou por factos ocorridos durante a sua gerência, cabe aos visados recurso para o Tribunal de Contas, que o julgará contenciosamente.
 
-###### Art. 47.º - 1. O balanço e a conta de ganhos e perdas, depois de aprovados, serão publicados no Diário do Governo.
+Art. 47.º - 1. O balanço e a conta de ganhos e perdas, depois de aprovados, serão publicados no Diário do Governo.
 
 2. Será também feita a publicação dos referidos documentos em folheto avulso, com tiragem não inferior a cinco mil exemplares, para distribuição gratuita.
 
-###### Art. 48.º - 1. O movimento de fundos respeitantes a operações a cargo dos CTT será feito por intermédio dos cofres dependentes do Ministério das Finanças, salvo quanto a Lisboa e aos concelhos limítrofes em regime especial, nos quais esses fundos serão entregues na tesouraria dos CTT. Esta excepção poderá abranger outros concelhos, em condições a aprovar prèviamente pelo Ministro das Finanças e mediante notificação dos CTT à Direcção-Geral da Fazenda Pública, feita com a antecedência mínima de noventa dias.
+Art. 48.º - 1. O movimento de fundos respeitantes a operações a cargo dos CTT será feito por intermédio dos cofres dependentes do Ministério das Finanças, salvo quanto a Lisboa e aos concelhos limítrofes em regime especial, nos quais esses fundos serão entregues na tesouraria dos CTT. Esta excepção poderá abranger outros concelhos, em condições a aprovar prèviamente pelo Ministro das Finanças e mediante notificação dos CTT à Direcção-Geral da Fazenda Pública, feita com a antecedência mínima de noventa dias.
 
 2. As importâncias arrecadadas e as pagas nos cofres do Tesouro, respeitantes aos serviços dos CTT, serão escrituradas em conta especial de operações de tesouraria, ficando o Banco de Portugal, como caixa geral do Tesouro, e os cofres dependentes do Ministério das Finanças autorizados a pagar, sem dependência de ordem prévia da Direcção-Geral da Fazenda Pública, as despesas classificadas na referida conta.
 
 3. A Direcção-Geral da Contabilidade Pública e os CTT procederão mensalmente à conferência da conta corrente respectiva, devendo o saldo apurado no fim de cada mês ser entregue à entidade credora.
 
-###### Art. 49.º A cobrança, efectuada pelos CTT, dos direitos aduaneiros provenientes do despacho de correspondências, encomendas e outros objectos postais será entregue nas tesourarias das alfândegas das localidades que forem fixadas por acordo entre a respectiva Direcção-Geral e a empresa.
+Art. 49.º A cobrança, efectuada pelos CTT, dos direitos aduaneiros provenientes do despacho de correspondências, encomendas e outros objectos postais será entregue nas tesourarias das alfândegas das localidades que forem fixadas por acordo entre a respectiva Direcção-Geral e a empresa.
 
-###### Art. 50.º - 1. O produto da emissão de vales nas estações de Lisboa será entregue na sede do Banco de Portugal, como caixa geral do Tesouro, e o dos vales emitidos em outras localidades nos correspondentes cofres dependentes do Ministério das Finanças.
+Art. 50.º - 1. O produto da emissão de vales nas estações de Lisboa será entregue na sede do Banco de Portugal, como caixa geral do Tesouro, e o dos vales emitidos em outras localidades nos correspondentes cofres dependentes do Ministério das Finanças.
 
 2. O pagamento de vales far-se-á consoante preceituar o regulamento aprovado pelo Ministro das Finanças.
 
 3. As importâncias arrecadadas e pagas nos cofres do Tesouro serão escrituradas como operações de tesouraria nas contas de vales nacionais, ultramarinos e internacionais.
 
-###### Art. 51.º As disponibilidades dos CTT serão depositadas à ordem destes, em conta corrente ou a prazo, na Caixa Geral de Depósitos, Crédito e Previdência, aplicando-se-lhes o disposto no [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969.
+Art. 51.º As disponibilidades dos CTT serão depositadas à ordem destes, em conta corrente ou a prazo, na Caixa Geral de Depósitos, Crédito e Previdência, aplicando-se-lhes o disposto no [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969.
 
 ### CAPÍTULO V — Disposições diversas e transitórias
 
-###### Art. 52.º - 1. A gestão da empresa reger-se-á pelo presente Estatuto e pelas leis e regulamentos que o venham a completar, aplicando-se nos casos omissos, nomeadamente quanto a capacidade jurídica, competência da administração e regime dos actos desta e ao dos seus membros, o disposto na lei comum para as sociedades comerciais, com as necessárias adaptações aos casos.
+Art. 52.º - 1. A gestão da empresa reger-se-á pelo presente Estatuto e pelas leis e regulamentos que o venham a completar, aplicando-se nos casos omissos, nomeadamente quanto a capacidade jurídica, competência da administração e regime dos actos desta e ao dos seus membros, o disposto na lei comum para as sociedades comerciais, com as necessárias adaptações aos casos.
 
 2. As normas deste Estatuto que constituem direito excepcional só poderão ser revogadas ou alteradas mediante revogação ou alteração expressa, com menção precisa das disposições afectadas.
 
-###### Art. 53.º - 1. A exploração, o uso público e o funcionamento dos serviços a cargo dos CTT continuam a reger-se pelas leis e regulamentos correspondentes em tudo o que não estiver previsto no presente Estatuto.
+Art. 53.º - 1. A exploração, o uso público e o funcionamento dos serviços a cargo dos CTT continuam a reger-se pelas leis e regulamentos correspondentes em tudo o que não estiver previsto no presente Estatuto.
 
 2. Os CTT conservam os direitos e assumem as responsabilidades atribuídas ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:
 
@@ -832,9 +950,9 @@ j) À responsabilidade civil extracontratual.
 
 5. Fica excluída a responsabilidade dos CTT quando se prove a existência de culpa ou dolo dos utentes ou de caso fortuito ou de força maior e quando tenham expirado os prazos regulamentares de reclamação.
 
-###### Art. 54.º O serviço internacional de correios e telecomunicações rege-se pelos tratados, convenções e acordos celebrados pelo Estado Português, observados os preceitos legais aplicáveis.
+Art. 54.º O serviço internacional de correios e telecomunicações rege-se pelos tratados, convenções e acordos celebrados pelo Estado Português, observados os preceitos legais aplicáveis.
 
-###### Art. 55.º Continuam sujeitas ao condicionalismo legal e demais formalidades em que se fundamentaram, com referência a 1 de Janeiro de 1970:
+Art. 55.º Continuam sujeitas ao condicionalismo legal e demais formalidades em que se fundamentaram, com referência a 1 de Janeiro de 1970:
 
 a) As aquisições de material já autorizadas;
 
@@ -842,15 +960,15 @@ b) As pequenas obras, já adjudicadas, de conservação, reparação ou simples 
 
 c) As empreitadas e os projectos das obras a que se refere o [Decreto-Lei n.º 40747](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40747-1956-232938), de 31 de Agosto de 1956, que já tenham sido objecto de contrato.
 
-###### Art. 56.º - 1. A transferência para os Correios e Telecomunicações de Portugal dos imóveis, veículos, instalações e demais bens que integram a universalidade do estabelecimento a cargo da Administração-Geral dos Correios, Telégrafos e Telefones, qualquer que seja a modalidade de inscrição nos correspondentes registos, operar-se-á por força do artigo 3.º, n.º 1, do presente Estatuto, o qual constituirá título suficiente para todos os efeitos legais, inclusive os de registo.
+Art. 56.º - 1. A transferência para os Correios e Telecomunicações de Portugal dos imóveis, veículos, instalações e demais bens que integram a universalidade do estabelecimento a cargo da Administração-Geral dos Correios, Telégrafos e Telefones, qualquer que seja a modalidade de inscrição nos correspondentes registos, operar-se-á por força do artigo 3.º, n.º 1, do presente Estatuto, o qual constituirá título suficiente para todos os efeitos legais, inclusive os de registo.
 
 2. Em caso de dúvida, é título bastante para determinar a transferência prevista no número anterior a simples declaração feita pelos CTT e confirmada pela Direcção-Geral da Fazenda Pública de que os respectivos bens se incluem na mencionada universalidade.
 
-###### Art. 57.º Os contratos de arrendamento em que os CTT sejam parte consideram-se de natureza comercial ou industrial, mas poderão ser celebrados mediante simples escrito particular.
+Art. 57.º Os contratos de arrendamento em que os CTT sejam parte consideram-se de natureza comercial ou industrial, mas poderão ser celebrados mediante simples escrito particular.
 
-###### Art. 58.º Salvo quanto a patrocínio judiciário, a representação da empresa prevista no artigo 13.º, n.º 1, alínea c), poderá efectivar-se, no que respeita a actos e contratos, mediante simples credencial subscrita pelo correio-mor ou por um administrador-delegado e autenticada com o selo em relevo dos Correios e Telecomunicações de Portugal.
+Art. 58.º Salvo quanto a patrocínio judiciário, a representação da empresa prevista no artigo 13.º, n.º 1, alínea c), poderá efectivar-se, no que respeita a actos e contratos, mediante simples credencial subscrita pelo correio-mor ou por um administrador-delegado e autenticada com o selo em relevo dos Correios e Telecomunicações de Portugal.
 
-###### Art. 59.º - 1. Os servidores dos CTT que forem investidos nos lugares de presidente do conselho de administração e de administradores-delegados desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria mais elevada do escalão a que pertencerem, independentemente de vaga, caso não pertençam já a essa categoria.
+Art. 59.º - 1. Os servidores dos CTT que forem investidos nos lugares de presidente do conselho de administração e de administradores-delegados desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria mais elevada do escalão a que pertencerem, independentemente de vaga, caso não pertençam já a essa categoria.
 
 2. O tempo de serviço prestado na comissão executiva pelos servidores a que alude o número anterior é contado para efeitos de aposentação. As pensões de aposentação correspondentes serão afectadas pelo coeficiente que, para o efeito, for fixado no regulamento respectivo.
 
@@ -858,7 +976,7 @@ c) As empreitadas e os projectos das obras a que se refere o [Decreto-Lei n.º 4
 
 4. O primeiro mandato dos membros do conselho de administração poderá ser fixado para cada um deles, pelo Ministro das Comunicações, entre dois a cinco anos.
 
-###### Art. 60.º - 1. Até 31 de Dezembro de 1969 incumbe ao correio-mor exercer as atribuições do conselho de administração relativas à elaboração dos regulamentos do pessoal e de outros previstos neste Estatuto.
+Art. 60.º - 1. Até 31 de Dezembro de 1969 incumbe ao correio-mor exercer as atribuições do conselho de administração relativas à elaboração dos regulamentos do pessoal e de outros previstos neste Estatuto.
 
 2. O orçamento de 1970, elaborado nos moldes actuais, fica apenas dependente da aprovação do Ministro das Comunicações e será oportunamente adaptado à estrutura da empresa. O orçamento assim alterado será apresentado pelo correio-mor a visto do mesmo Ministro, passando a abranger, para todos os efeitos, o exercício do ano completo.
 
@@ -868,11 +986,11 @@ c) As empreitadas e os projectos das obras a que se refere o [Decreto-Lei n.º 4
 
 5. A apresentação das contas do exercício relativo ao ano civil anterior ao da entrada em vigor deste Estatuto fica ainda sujeita às normas actualmente em vigor.
 
-###### Art. 61.º Transitòriamente, o presidente do conselho geral, a pedido do presidente do conselho de administração e com o parecer favorável do conselho fiscal, pode adiar as primeiras reuniões ordinárias anuais do conselho geral até 15 de Outubro do ano correspondente. Neste caso, as datas fixadas para consulta e remessa aos membros do conselho geral da respectiva documentação serão alteradas em conformidade, sem prejuízo, porém, do condicionalismo estabelecido para a convocação do referido conselho geral.
+Art. 61.º Transitòriamente, o presidente do conselho geral, a pedido do presidente do conselho de administração e com o parecer favorável do conselho fiscal, pode adiar as primeiras reuniões ordinárias anuais do conselho geral até 15 de Outubro do ano correspondente. Neste caso, as datas fixadas para consulta e remessa aos membros do conselho geral da respectiva documentação serão alteradas em conformidade, sem prejuízo, porém, do condicionalismo estabelecido para a convocação do referido conselho geral.
 
-###### Art. 62.º Enquanto não forem estabelecidas, nos termos do presente Estatuto, as remunerações dos membros dos conselhos de administração e fiscal, os seus ordenados e gratificações mensais serão os que se encontram fixados para os Telefones de Lisboa e Porto.
+Art. 62.º Enquanto não forem estabelecidas, nos termos do presente Estatuto, as remunerações dos membros dos conselhos de administração e fiscal, os seus ordenados e gratificações mensais serão os que se encontram fixados para os Telefones de Lisboa e Porto.
 
-###### Art. 63.º - 1. A partir de 1 de Janeiro de 1970 o conselho de administração, a comissão executiva e o conselho fiscal dos CTT ficam investidos, respectivamente, em todos os poderes e deveres atribuídos por lei ao conselho de administração, à comissão executiva e ao conselho fiscal dos TLP, considerando-se estes órgãos dissolvidos na mesma data.
+Art. 63.º - 1. A partir de 1 de Janeiro de 1970 o conselho de administração, a comissão executiva e o conselho fiscal dos CTT ficam investidos, respectivamente, em todos os poderes e deveres atribuídos por lei ao conselho de administração, à comissão executiva e ao conselho fiscal dos TLP, considerando-se estes órgãos dissolvidos na mesma data.
 
 O exercício destas funções não dá direito a quaisquer remunerações suplementares.
 
@@ -882,13 +1000,13 @@ O exercício destas funções não dá direito a quaisquer remunerações suplem
 
 4. Constituirá receita dos CTT a participação nos lucros atribuída pelo conselho geral dos TLP aos membros do conselho de administração desta empresa.
 
-###### Art. 64.º - 1. A partir de 1 de Janeiro de 1970 o presidente e os vogais do conselho fiscal dos TLP passam, independentemente de quaisquer formalidades, respectivamente, a presidente e vogais do conselho fiscal dos CTT.
+Art. 64.º - 1. A partir de 1 de Janeiro de 1970 o presidente e os vogais do conselho fiscal dos TLP passam, independentemente de quaisquer formalidades, respectivamente, a presidente e vogais do conselho fiscal dos CTT.
 
 2. O primeiro mandato dos membros do conselho fiscal poderá ser fixado para cada um deles, pelos Ministros das Comunicações e das Finanças, conjuntamente, entre dois a cinco anos.
 
-###### Art. 65.º Até que seja considerada oportuna a sua integração nos CTT, a exploração dos serviços de comunicações telefónicas e telecomunicações complementares nas áreas de Lisboa e Porto e seus arredores será assegurada pela empresa Telefones de Lisboa e Porto, nos termos do seu Estatuto.
+Art. 65.º Até que seja considerada oportuna a sua integração nos CTT, a exploração dos serviços de comunicações telefónicas e telecomunicações complementares nas áreas de Lisboa e Porto e seus arredores será assegurada pela empresa Telefones de Lisboa e Porto, nos termos do seu Estatuto.
 
-###### Art. 66.º O conselho de administração apresentará ao Governo, por intermédio do Ministro das Comunicações, propostas fundamentadas de alterações ao presente Estatuto, decorridos no máximo três anos após a sua entrada em vigor, contemplando:
+Art. 66.º O conselho de administração apresentará ao Governo, por intermédio do Ministro das Comunicações, propostas fundamentadas de alterações ao presente Estatuto, decorridos no máximo três anos após a sua entrada em vigor, contemplando:
 
 a) A evolução do regime jurídico do pessoal do escalão II no sentido de o aproximar da regulamentação jurídica do contrato individual de trabalho sem prejuízo das características do serviço público de correios e telecomunicações;
 
@@ -904,13 +1022,13 @@ f) Se ainda não se tiver operado a integração da empresa pública TLP nos CTT
 
 Ministérios das Finanças e das Comunicações, 31 de Outubro de 1969. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro das Comunicações, Fernando Alberto de Oliveira.
 
-## Anexo II ao Decreto-Lei n.º 49368
+Anexo II ao Decreto-Lei n.º 49368
 
 ALTERAÇÕES AO ESTATUTO DOS TELEFONES DE LISBOA E PORTO
 
 ...
 
-###### Art. 2.º - 1. A gerência dos TLP competirá aos seguintes órgãos:
+Art. 2.º - 1. A gerência dos TLP competirá aos seguintes órgãos:
 
 a) Conselho de administração;
 
@@ -922,21 +1040,21 @@ c) Conselho geral.
 
 3. O Governo exercerá poderes de inspecção e as demais atribuições indicadas no presente Estatuto.
 
-###### Art. 3.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar a existência da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste Estatuto ou por lei atribuídos a outras entidades ou a outros órgãos da empresa.
+Art. 3.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar a existência da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste Estatuto ou por lei atribuídos a outras entidades ou a outros órgãos da empresa.
 
 2. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que o seu presidente o convoque.
 
-###### Art. 4.º - 1. Incumbe ao conselho de administração definir a competência da sua comissão executiva. Esta competência será a que se encontra actualmente estabelecida e manter-se-á enquanto o conselho de administração a não modificar.
+Art. 4.º - 1. Incumbe ao conselho de administração definir a competência da sua comissão executiva. Esta competência será a que se encontra actualmente estabelecida e manter-se-á enquanto o conselho de administração a não modificar.
 
 2. A resolução do expediente diário competirá ao membro da comissão executiva que para o efeito for designado pelo correio-mor. No exercício deste cargo poderá o referido membro ser coadjuvado por servidores dos CTT, no máximo de quatro, nas condições que forem fixadas pelo conselho de administração.
 
-###### Art. 5.º - 1. Competem ao conselho fiscal as atribuições legalmente conferidas aos conselhos fiscais das sociedades anónimas.
+Art. 5.º - 1. Competem ao conselho fiscal as atribuições legalmente conferidas aos conselhos fiscais das sociedades anónimas.
 
 2. O conselho fiscal terá uma reunião ordinária em cada mês e reunirá extraordinàriamente, por si ou em conjunto com o conselho de administração, sempre que for convocado pelo seu presidente.
 
 3. Às reuniões ordinárias do conselho de administração deverá assistir, sem voto, um dos vogais do conselho fiscal para esse efeito escalonado.
 
-###### Art. 6.º - 1. O conselho geral é presidido por individualidade estranha aos TLP, designada em portaria, subscrita pelo Ministro das Comunicações, precedendo resolução do Conselho de Ministros.
+Art. 6.º - 1. O conselho geral é presidido por individualidade estranha aos TLP, designada em portaria, subscrita pelo Ministro das Comunicações, precedendo resolução do Conselho de Ministros.
 
 2. Por portaria do Ministro das Comunicações será designado um vice-presidente do conselho geral, escolhido entre os vogais respectivos, que substituirá o presidente nas suas faltas e impedimentos.
 
@@ -962,13 +1080,13 @@ g) Dois vogais escolhidos entre professores do ensino superior que rejam matéri
 
 ...
 
-###### Art. 9.º - 1. Os encargos de gestão dos TLP serão suportados pela empresa e pagos aos CTT nas condições que forem estabelecidas pelo conselho de administração, com o parecer favorável do conselho fiscal.
+Art. 9.º - 1. Os encargos de gestão dos TLP serão suportados pela empresa e pagos aos CTT nas condições que forem estabelecidas pelo conselho de administração, com o parecer favorável do conselho fiscal.
 
 2. Os membros do conselho geral perceberão, por cada reunião a que assistam, uma senha de presença do quantitativo fixado pelo Ministro das Comunicações e terão direito ao abono das despesas de transporte e ajuda de custo quando, residindo fora de Lisboa, tenham de assistir a reuniões ou actos de serviço.
 
 ...
 
-###### Art. 11.º - 1. Compete ao Governo, pelo Ministro das Comunicações:
+Art. 11.º - 1. Compete ao Governo, pelo Ministro das Comunicações:
 
 a) Aprovar os regulamentos do serviço telefónico;
 
@@ -984,7 +1102,7 @@ d) Autorizar a alienação de bens imobiliários de valor superior ao limite que
 
 ...
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. ...
 
@@ -1004,7 +1122,7 @@ c) ...
 
 ...
 
-###### Art. 17.º - 1. Ao pessoal dos TLP aplica-se a regulamentação jurídica do contrato individual de trabalho, com as adaptações exigidas pela sua futura integração nos Correios e Telecomunicações de Portugal e pelas características do serviço público, decretadas pelos Ministros das Comunicações e das Corporações e Previdência Social.
+Art. 17.º - 1. Ao pessoal dos TLP aplica-se a regulamentação jurídica do contrato individual de trabalho, com as adaptações exigidas pela sua futura integração nos Correios e Telecomunicações de Portugal e pelas características do serviço público, decretadas pelos Ministros das Comunicações e das Corporações e Previdência Social.
 
 2. ...
 
@@ -1014,7 +1132,7 @@ c) ...
 
 ...
 
-###### Art. 22.º - 1. Os TLP arrecadam as receitas provenientes da prestação dos serviços a seu cargo e dos rendimentos dos bens que administrem ou possuam.
+Art. 22.º - 1. Os TLP arrecadam as receitas provenientes da prestação dos serviços a seu cargo e dos rendimentos dos bens que administrem ou possuam.
 
 2. Poderão contrair empréstimos a curto ou a médio prazo em estabelecimentos bancários nacionais ou estrangeiros para antecipação de receitas, aquisição de material ou de prédios e maneio de tesouraria.
 
@@ -1024,29 +1142,29 @@ c) ...
 
 ...
 
-###### Art. 25.º - 1. O valor dos bens da empresa e do domínio público a cargo dela será amortizado de maneira contínua, nos termos que forem fixados pelo conselho de administração, com acordo do conselho fiscal, homologado por despacho conjunto dos Ministros das Finanças e das Comunicações.
+Art. 25.º - 1. O valor dos bens da empresa e do domínio público a cargo dela será amortizado de maneira contínua, nos termos que forem fixados pelo conselho de administração, com acordo do conselho fiscal, homologado por despacho conjunto dos Ministros das Finanças e das Comunicações.
 
 2. O montante anual das amortizações ou reintegrações constituirá encargo da conta de exploração e será escriturado numa conta de amortizações.
 
-###### Art. 26.º Os TLP manterão as seguintes contas de reserva:
+Art. 26.º Os TLP manterão as seguintes contas de reserva:
 
 a) Reserva para investimento;
 
 b) Reserva geral.
 
-###### Art. 27.º Constituem a reserva para investimento:
+Art. 27.º Constituem a reserva para investimento:
 
 a) As importâncias dos lucros apurados em cada exercício que, pelo conselho geral, lhe forem anualmente destinadas;
 
 b) As receitas de subvenções, comparticipações, doações, heranças e legados de que a empresa seja beneficiária para a realização dos seus fins.
 
-###### Art. 28.º Constitui a reserva geral a percentagem dos lucros de cada exercício que lhe for destinada por deliberação do conselho geral.
+Art. 28.º Constitui a reserva geral a percentagem dos lucros de cada exercício que lhe for destinada por deliberação do conselho geral.
 
-###### Art. 29.º As disponibilidades dos TLP que se não encontrem investidas em estabelecimento e não sejam necessárias ao maneio dos serviços de tesouraria e armazéns podem aplicar-se em títulos de crédito ou depósitos a prazo. A compra e venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com parecer favorável do conselho fiscal.
+Art. 29.º As disponibilidades dos TLP que se não encontrem investidas em estabelecimento e não sejam necessárias ao maneio dos serviços de tesouraria e armazéns podem aplicar-se em títulos de crédito ou depósitos a prazo. A compra e venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com parecer favorável do conselho fiscal.
 
 ...
 
-###### Art. 31.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo 5 a 10 por cento à reserva geral, 20 por cento ao Estado, a título de participação nos lucros da empresa, e dispondo do remanescente consoante o estabelecido nos números seguintes.
+Art. 31.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo 5 a 10 por cento à reserva geral, 20 por cento ao Estado, a título de participação nos lucros da empresa, e dispondo do remanescente consoante o estabelecido nos números seguintes.
 
 2. ...
 

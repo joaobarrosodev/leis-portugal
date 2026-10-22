@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42992-1960-504299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40cbe5bca8c223c1cb35efcb21ecf2ab8a138cf5169a8153dc6da91b1923a11f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d33285dd05db0b83f8f4e7ed4822a87883f99ad92445928751f5c57379e7234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Marinha
+- Militar
+- Promoção Profissional
+- Quadro Permanente da Armada
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:418473:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:25Z'
   warnings: []
   errors: []
 ---
@@ -87,12 +96,12 @@ Convindo regular a situação de dezoito primeiros-grumetes artilheiros e três 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A promoção a marinheiro das praças que em 1 de Agosto de 1958 ainda eram primeiros-grumetes reconduzidos é contada a partir daquela data.
+Artigo 1.º A promoção a marinheiro das praças que em 1 de Agosto de 1958 ainda eram primeiros-grumetes reconduzidos é contada a partir daquela data.
 
-###### Art. 2.º Os marinheiros referidos no artigo anterior são considerados supranumerários aos respectivos quadros em 1 de Agosto de 1958 e o seu ingresso nos mesmos quadros é feito à razão de uma unidade por cada nove vacaturas.
+Art. 2.º Os marinheiros referidos no artigo anterior são considerados supranumerários aos respectivos quadros em 1 de Agosto de 1958 e o seu ingresso nos mesmos quadros é feito à razão de uma unidade por cada nove vacaturas.
 
-###### Art. 3.º Os marinheiros referidos no artigo 1.º recebem os vencimentos correspondentes a este posto sòmente a partir da data em que a sua promoção tenha sido publicada na Ordem do Dia ao Corpo de Marinheiros da Armada.
+Art. 3.º Os marinheiros referidos no artigo 1.º recebem os vencimentos correspondentes a este posto sòmente a partir da data em que a sua promoção tenha sido publicada na Ordem do Dia ao Corpo de Marinheiros da Armada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

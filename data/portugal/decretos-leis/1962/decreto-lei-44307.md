@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44307-1962-516070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f34814454943ac10d414744a161bb5949111b35e4045f3d23a0832bc9847e94c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df8abe0ed57c92d795219d4f7c8d7d0e0685b5b6c455f6041365def167b8b24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Assistência Medicamentosa
+- Barragem
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Contribuições da Segurança Social
+- Doença Profissional
+- Entidade Patronal
+- Exploração Mineira
+- Fundo Nacional de Abono de Família
+- Incapacidade Temporária
+- Indemnização Compensatória
+- Indústria da Cerâmica
+- Indústria Vidreira
+- Inspecção do Trabalho
+- Instituições de Previdência Social
+- Multa
+- Pensão de Sobrevivência
+- Pensão por Incapacidade Permanente para o Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:476916:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476916:por
+  label: "Extinta a presente Caixa e determinado que o Centro Nacional de Protecção Contra os Riscos Profissionais, lhe suceda\
+    \ em todas as competências, direitos e deveres, pelo DEC LEI.35/96.02.05.1996.MSSS, DR.IS-A [102] de 02.05.1996, nos termos\
+    \ dos arts. 22.º e 23.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1996-476916
+  date: '1996-05-02'
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659680:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:33Z'
   warnings: []
   errors: []
 ---
@@ -132,21 +169,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Caixa Nacional de Seguros de Doenças Profissionais, a qual fica incluída na 1.ª categoria das instituições de previdência social.
+Artigo 1.º É criada a Caixa Nacional de Seguros de Doenças Profissionais, a qual fica incluída na 1.ª categoria das instituições de previdência social.
 
-###### Art. 2.º À Caixa incumbe assegurar a reparação das doenças profissionais e a recuperação dos trabalhadores que delas sejam vítimas e colaborar com as entidades competentes dos Ministérios da Economia e da Saúde, e de outros departamentos do Estado, pelos meios ao seu alcance, para a prevenção de tais enfermidades.
+Art. 2.º À Caixa incumbe assegurar a reparação das doenças profissionais e a recuperação dos trabalhadores que delas sejam vítimas e colaborar com as entidades competentes dos Ministérios da Economia e da Saúde, e de outros departamentos do Estado, pelos meios ao seu alcance, para a prevenção de tais enfermidades.
 
-###### Art. 3.º A Caixa abrangerá, de início, a cobertura do risco da silicose e, se necessário, estender-se-á às demais pneumoconioses e a outras doenças profissionais que deram motivo às providências prescritas no presente diploma.
+Art. 3.º A Caixa abrangerá, de início, a cobertura do risco da silicose e, se necessário, estender-se-á às demais pneumoconioses e a outras doenças profissionais que deram motivo às providências prescritas no presente diploma.
 
-###### Art. 4.º A Caixa reger-se-á pelas disposições do presente diploma, pelas do seu regulamento e pela legislação sobre caixas sindicais de previdência.
+Art. 4.º A Caixa reger-se-á pelas disposições do presente diploma, pelas do seu regulamento e pela legislação sobre caixas sindicais de previdência.
 
-###### Art. 5.º A Caixa abrangerá de começo as actividades relacionadas com as explorações mineiras e de pedreiras, a construção de barragens e as indústrias cerâmica e vidreira.
+Art. 5.º A Caixa abrangerá de começo as actividades relacionadas com as explorações mineiras e de pedreiras, a construção de barragens e as indústrias cerâmica e vidreira.
 
-###### Art. 6.º Na administração da Caixa tomarão parte representantes das entidades patronais contribuintes e dos trabalhadores inscritos.
+Art. 6.º Na administração da Caixa tomarão parte representantes das entidades patronais contribuintes e dos trabalhadores inscritos.
 
 § único. Ao provimento dos cargos de presidente e vice-presidentes da direcção, bem como dos membros da comissão organizadora da Caixa, é extensivo o disposto no [Decreto-Lei n.º 37743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37743-1950-659680), de 23 de Janeiro de 1950.
 
-###### Art. 7.º Para o desempenho das suas funções competirá à Caixa:
+Art. 7.º Para o desempenho das suas funções competirá à Caixa:
 
 a) Assegurar a prestação da assistência médica e medicamentosa;
 
@@ -160,11 +197,11 @@ e) Diligenciar no sentido da colocação dos beneficiários reabilitados em ocup
 
 § único. A Caixa organizará e manterá os serviços indispensáveis ao cumprimento da sua missão.
 
-###### Art. 8.º A reparação das enfermidades cobertas será a definida na legislação em vigor sobre acidentes de trabalho e doenças profissionais.
+Art. 8.º A reparação das enfermidades cobertas será a definida na legislação em vigor sobre acidentes de trabalho e doenças profissionais.
 
-###### Art. 9.º Os trabalhadores que devam inscrever-se na Caixa serão submetidos a exame médico destinado a verificar se sofrem de doenças profissionais por ela cobertas.
+Art. 9.º Os trabalhadores que devam inscrever-se na Caixa serão submetidos a exame médico destinado a verificar se sofrem de doenças profissionais por ela cobertas.
 
-###### Art. 10.º As entidades patronais que, nos termos deste diploma ou do Regulamento da Caixa, nesta devam inscrever-se obrigatòriamente concorrerão com as contribuições estabelecidas naquele regulamento.
+Art. 10.º As entidades patronais que, nos termos deste diploma ou do Regulamento da Caixa, nesta devam inscrever-se obrigatòriamente concorrerão com as contribuições estabelecidas naquele regulamento.
 
 § 1.º As contribuições respeitarão aos trabalhadores declarados aptos nos exames previstos no artigo 9.º e serão obrigatórias após notificação dos resultados dos mesmos exames, exceptuados os casos em que à data vigore contrato de transferência da responsabilidade patronal para uma companhia seguradora. Nestes casos a obrigatoriedade das contribuições terá início após o termo daquele contrato.
 
@@ -172,24 +209,24 @@ e) Diligenciar no sentido da colocação dos beneficiários reabilitados em ocup
 
 § 3.º Sempre que possível, a arrecadação das contribuições será feita em conjunto com as devidas às caixas de previdência.
 
-###### Art. 11.º A transferência da responsabilidade patronal efectuada pela forma prevista nos artigos 11.º e 12.º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129) e 40.º do [Decreto n.º 27649](https://diariodarepublica.pt/dr/detalhe/decreto/27649-1937-419412) deixará de abranger os riscos provenientes das doenças profissionais que vierem a ser cobertas pela Caixa relativamente a cada actividade, profissão, empresa e trabalhador.
+Art. 11.º A transferência da responsabilidade patronal efectuada pela forma prevista nos artigos 11.º e 12.º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129) e 40.º do [Decreto n.º 27649](https://diariodarepublica.pt/dr/detalhe/decreto/27649-1937-419412) deixará de abranger os riscos provenientes das doenças profissionais que vierem a ser cobertas pela Caixa relativamente a cada actividade, profissão, empresa e trabalhador.
 
-###### Art. 12.º A Caixa apenas assumirá a responsabilidade por doenças que tenham sido verificadas após o início do pagamento das contribuições para a instituição.
+Art. 12.º A Caixa apenas assumirá a responsabilidade por doenças que tenham sido verificadas após o início do pagamento das contribuições para a instituição.
 
-###### Art. 13.º A Caixa terá, além dos fundos previstos no regulamento, um fundo de assistência para a concessão de socorros extraordinários, ao qual serão afectados o remanescente dos saldos técnicos da Caixa e os donativos de entidades privadas e subsídios do Estado, designadamente do Fundo de Desemprego.
+Art. 13.º A Caixa terá, além dos fundos previstos no regulamento, um fundo de assistência para a concessão de socorros extraordinários, ao qual serão afectados o remanescente dos saldos técnicos da Caixa e os donativos de entidades privadas e subsídios do Estado, designadamente do Fundo de Desemprego.
 
-###### Art. 14.º A Caixa estabelecerá com as restantes instituições de previdência os acordos necessários à prestação de serviços, designadamente os relativos à acção médico-social.
+Art. 14.º A Caixa estabelecerá com as restantes instituições de previdência os acordos necessários à prestação de serviços, designadamente os relativos à acção médico-social.
 
 § único. A Caixa poderá ainda celebrar acordos de cooperação com quaisquer entidades oficiais ou particulares, em ordem à realização dos seus objectivos.
 
-###### Art. 15.º As entidades patronais que exerçam as actividades abrangidas pela Caixa comunicarão obrigatòriamente à Inspecção do Trabalho a sua sede, a natureza e o local do seu estabelecimento, a relação do pessoal ao seu serviço, bem como quaisquer outros elementos que lhes sejam indicados e se tornem indispensáveis ou convenientes à execução deste diploma.
+Art. 15.º As entidades patronais que exerçam as actividades abrangidas pela Caixa comunicarão obrigatòriamente à Inspecção do Trabalho a sua sede, a natureza e o local do seu estabelecimento, a relação do pessoal ao seu serviço, bem como quaisquer outros elementos que lhes sejam indicados e se tornem indispensáveis ou convenientes à execução deste diploma.
 
-###### Art. 16.º O Fundo Nacional do Abono de Família pode ser autorizado a conceder à Caixa, desde que não haja prejuízo para as suas finalidades específicas, um empréstimo, reembolsável no prazo máximo de cinco anos, especialmente destinado à satisfação dos encargos com a instalação e organização dos serviços.
+Art. 16.º O Fundo Nacional do Abono de Família pode ser autorizado a conceder à Caixa, desde que não haja prejuízo para as suas finalidades específicas, um empréstimo, reembolsável no prazo máximo de cinco anos, especialmente destinado à satisfação dos encargos com a instalação e organização dos serviços.
 
-###### Art. 17.º As penalidades a aplicar pelas transgressões a este diploma ou ao regulamento da Caixa são as previstas pela legislação geral da previdência, sem prejuízo do pagamento de juros de mora, no caso de não serem entregues em tempo as contribuições devidas.
+Art. 17.º As penalidades a aplicar pelas transgressões a este diploma ou ao regulamento da Caixa são as previstas pela legislação geral da previdência, sem prejuízo do pagamento de juros de mora, no caso de não serem entregues em tempo as contribuições devidas.
 
 O produto das multas reverte a favor do fundo de assistência da instituição.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

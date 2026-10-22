@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49229-1969-214177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94640e13c3357b51ae04cae488dc1dc6e62d291e2e1b27a0a8e4060b18b770fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70c8c25b548fa1cc02280028b5635470e6d294736b3bb19f62d6728e852ebe31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia de VOTO
+- Campanha Eleitoral
+- Definição de Competências
+- Eleição
+- Governador Civil
+- Lei Eleitoral
+- Nomeação
+- Recurso
+- Sistema Eleitoral
+- Supremo Tribunal Administrativo
+relationships:
+- type: cites
+  target: pt:dre:265751:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:214493:por
+  label: "Rectificado o art. 1º do presente diploma (na parte em que deu nova redacção aos arts. 20º e 23º do Dec 37570 de\
+    \ 03-Out de 1949) pela RECT.DD483.24.09.1969.PC, DG.IS [224] de 24.09.1969\069\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-214493
+  date: '1969-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:42Z'
   warnings: []
   errors: []
 ---
@@ -84,7 +104,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O título da secção III do capítulo I e os artigos 13.º, 16.º, 18.º a 26.º e 32.º do [Decreto-Lei n.º 37570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37570-1949-265751), de 3 de Outubro de 1949, passam a ter a seguinte redacção:
+Artigo 1.º O título da secção III do capítulo I e os artigos 13.º, 16.º, 18.º a 26.º e 32.º do [Decreto-Lei n.º 37570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37570-1949-265751), de 3 de Outubro de 1949, passam a ter a seguinte redacção:
 
 ...
 
@@ -92,7 +112,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 13.º A apresentação consiste na entrega da lista contendo o número total dos candidatos a eleger por cada círculo e deve ser acompanhada de declarações onde os candidatos afirmem, em conjunto ou separadamente, que aceitam a candidatura, não a aceitarão por qualquer outro círculo e acatam a Constituição e os princípios fundamentais da ordem social estabelecida.
+Art. 13.º A apresentação consiste na entrega da lista contendo o número total dos candidatos a eleger por cada círculo e deve ser acompanhada de declarações onde os candidatos afirmem, em conjunto ou separadamente, que aceitam a candidatura, não a aceitarão por qualquer outro círculo e acatam a Constituição e os princípios fundamentais da ordem social estabelecida.
 
 § 1.º Cada lista será subscrita, pelo menos, por cinquenta eleitores residentes no círculo eleitoral e instruída com documentos que façam prova bastante de que os subscritores e candidatos se encontram recenseados, devendo ser reconhecidas por notário, uma a uma ou em conjunto, todas as assinaturas.
 
@@ -104,7 +124,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 16.º Findo o prazo para a apresentação das listas, o governador civil, dentro dos dois dias subsequentes, verificará a regularidade do respectivo processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos, e classificará alfabèticamente cada uma das listas admitidas, promovendo a sua publicação, por meio de edital afixado no átrio do governo civil.
+Art. 16.º Findo o prazo para a apresentação das listas, o governador civil, dentro dos dois dias subsequentes, verificará a regularidade do respectivo processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos, e classificará alfabèticamente cada uma das listas admitidas, promovendo a sua publicação, por meio de edital afixado no átrio do governo civil.
 
 § 1.º Se o governador civil julgar inelegível qualquer dos candidatos, deverá convidar os mandatários a proceder à sua substituição.
 
@@ -114,35 +134,35 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 18.º Qualquer eleitor poderá reclamar, dentro dos três dias seguintes ao da publicação das listas, das decisões do governador civil sobre a sua aprovação ou rejeição.
+Art. 18.º Qualquer eleitor poderá reclamar, dentro dos três dias seguintes ao da publicação das listas, das decisões do governador civil sobre a sua aprovação ou rejeição.
 
 § único. Em qualquer dos casos, a reclamação pode ser feita num só requerimento e deve ser instruída com documentos que provem a capacidade eleitoral dos reclamantes e a verdade dos factos alegados, não sendo de admitir qualquer outra espécie de prova.
 
-###### Art. 19.º A reclamação será interposta para o Supremo Tribunal Administrativo e dela se notificará, dentro de cinco dias, o governador civil e o mandatário da lista a que pertencer o reclamado, para, em igual prazo, a contestar.
+Art. 19.º A reclamação será interposta para o Supremo Tribunal Administrativo e dela se notificará, dentro de cinco dias, o governador civil e o mandatário da lista a que pertencer o reclamado, para, em igual prazo, a contestar.
 
 § único. A contestação será escrita e nenhuma outra prova, além da documental será admitida.
 
-###### Art. 20.º O julgamento das reclamações compete à 1.ª secção do Supremo Tribunal Administrativo e será feito no prazo de três dias, a contar daquele em que for apresentada a defesa.
+Art. 20.º O julgamento das reclamações compete à 1.ª secção do Supremo Tribunal Administrativo e será feito no prazo de três dias, a contar daquele em que for apresentada a defesa.
 
 § único. Os acórdãos são imediatamente comunicados ao governador civil e deles não há recurso.
 
-###### Art. 21.º Julgada procedente reclamação fundada na inelegibilidade, serão eliminados da lista os candidatos reclamados e o respectivo mandatário será notificado nos cinco dias seguintes para indicar quem os substitua.
+Art. 21.º Julgada procedente reclamação fundada na inelegibilidade, serão eliminados da lista os candidatos reclamados e o respectivo mandatário será notificado nos cinco dias seguintes para indicar quem os substitua.
 
 § único. Esta substituição tem de ser feita no prazo de três dias, a contar da notificação referida.
 
-###### Art. 22.º Se até quinze dias antes do designado para a eleição falecer algum dos candidatos, o mandatário da respectiva lista poderá, no prazo de dois dias, indicar quem o substitua.
+Art. 22.º Se até quinze dias antes do designado para a eleição falecer algum dos candidatos, o mandatário da respectiva lista poderá, no prazo de dois dias, indicar quem o substitua.
 
 § único. A falta de substituição permitida por este artigo não afecta a validade da lista.
 
-###### Art. 23.º Havendo substituição de candidatos, o governador civil fará publicar novamente todas as listas pela forma prevista no artigo 16.º
+Art. 23.º Havendo substituição de candidatos, o governador civil fará publicar novamente todas as listas pela forma prevista no artigo 16.º
 
 § 1.º Proceder-se-á igualmente a nova publicação quando for anulada a decisão do governador civil que rejeitou qualquer lista.
 
 § 2.º Depois da publicação a que se refere o artigo anterior, nenhuma lista poderá ser objecto de reclamação.
 
-###### Art. 24.º O disposto nos artigos anteriores não prejudica, a competência da Assembleia Nacional para verificar e reconhecer os poderes dos candidatos eleitos e julgar da respectiva elegibilidade.
+Art. 24.º O disposto nos artigos anteriores não prejudica, a competência da Assembleia Nacional para verificar e reconhecer os poderes dos candidatos eleitos e julgar da respectiva elegibilidade.
 
-###### Art. 25.º Sempre que, publicado o decreto que fixa a data da eleição, cinquenta eleitores, pelo menos, manifestem a intenção de propor uma lista de candidaturas, poderão constituir-se em comissão eleitoral no respectivo círculo. Essa comissão deverá prestar ao governador civil a colaboração que lhe for solicitada para assegurar a regularidade e a correcção de toda a actividade que respeita ao período eleitoral.
+Art. 25.º Sempre que, publicado o decreto que fixa a data da eleição, cinquenta eleitores, pelo menos, manifestem a intenção de propor uma lista de candidaturas, poderão constituir-se em comissão eleitoral no respectivo círculo. Essa comissão deverá prestar ao governador civil a colaboração que lhe for solicitada para assegurar a regularidade e a correcção de toda a actividade que respeita ao período eleitoral.
 
 § 1.º O funcionamento das comissões depende de simples participação escrita ao governador civil, na qual devem ser identificados todos os seus membros pelo nome, idade, profissão e morada e designados três responsáveis pela sua orientação e disciplina.
 
@@ -152,13 +172,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º A campanha eleitoral terá início logo que estejam aceites as candidaturas e será conduzida pelos candidatos dentro do respectivo círculo, com o apoio das comissões eleitorais, quando existam.
 
-###### Art. 26.º Os candidatos que obtiverem, pelo menos, 20 por cento dos sufrágios expressos terão direito, após o apuramento geral, a obter do Estado o reembolso das despesas feitas com a impressão das listas em quantidade não superior ao número dos eleitores recenseados no círculo.
+Art. 26.º Os candidatos que obtiverem, pelo menos, 20 por cento dos sufrágios expressos terão direito, após o apuramento geral, a obter do Estado o reembolso das despesas feitas com a impressão das listas em quantidade não superior ao número dos eleitores recenseados no círculo.
 
 § único. O requerimento para o reembolso será apresentado pelo mandatário no respectivo governo civil, até sessenta dias após a data do apuramento, e deverá ser instruído com a documentação necessária para fazer prova da importância das despesas e dos sufrágios expressos.
 
 ...
 
-###### Art. 32.º As operações do apuramento geral poderão ser fiscalizadas pelos candidatos do círculo e as das assembleias e secções de voto pelos candidatos ou por um delegado de cada lista, apensando-se às actas os respectivos protestos ou reclamações escritas.
+Art. 32.º As operações do apuramento geral poderão ser fiscalizadas pelos candidatos do círculo e as das assembleias e secções de voto pelos candidatos ou por um delegado de cada lista, apensando-se às actas os respectivos protestos ou reclamações escritas.
 
 § 1.º Os delegados e respectivos suplentes são nomeados, por alvará do presidente da câmara ou do administrador do bairro, de entre os eleitores da assembleia ou secção de voto a que se destinam, mediante requerimento dos mandatários das listas, apresentado na câmara municipal ou na administração de bairro até três dias antes do designado para a eleição.
 
@@ -166,9 +186,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 5 de Setembro de 1969.**
+Promulgado em 5 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

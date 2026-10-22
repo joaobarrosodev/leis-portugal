@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02300/02100212.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1976-506869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56329a42b8355ce8c73cdf1fb3624bb73908b58a84ff40d42593cd4fcbc1c994
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 061c544e9a673b0a8605d38fe13b087cb7dd7149c1c746658174fd13e9d81314
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais do Trabalho
+- Cofre dos Tribunais do Trabalho
+- Contabilidade Pública
+- Custas Judiciais
+- Gestão Financeira
+- Pagamento
+- Processo Civil
+- Processo Laboral
+- Receita Própria
+- Receita Pública
+- Transferência de Verbas
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328034:por
+  label: "Integrado no Cofre Geral dos Tribunais o Cofre dos Tribunais do Trabalho criado pelo art. 150º do Código das Custas\
+    \ Judiciais do Trabalho aprovado pelo Dec Lei 45698 de 30-Abr de 1964, com a redacção conferida pelo presente diploma,\
+    \ pelo DEC LEI.308/78.19.10.1978.MJ, DR.IS [241] de 19.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1978-328034
+  date: '1978-10-19'
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632249:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:59Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +134,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, alínea 3), do artigo 3.º da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 37.º, 39.º, 43.º, 46.º, 50.º, 56.º, 57.º, 84.º, 105.º, 112.º, 118.º, 122.º, 123.º, 128.º, 133.º, 134.º, 135.º, 138.º, 150.º e 153.º do Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, e alterado pelos Decretos-Leis n.os 47850, de 19 de Agosto de 1967, e 562/71, de 17 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 37.º, 39.º, 43.º, 46.º, 50.º, 56.º, 57.º, 84.º, 105.º, 112.º, 118.º, 122.º, 123.º, 128.º, 133.º, 134.º, 135.º, 138.º, 150.º e 153.º do Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, e alterado pelos Decretos-Leis n.os 47850, de 19 de Agosto de 1967, e 562/71, de 17 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 37.º - 1. Os encargos compreendidos nas custas são:
+Art. 37.º - 1. Os encargos compreendidos nas custas são:
 
 a) Os reembolsos por gastos de papel, franquias postais e expediente;
 
@@ -132,21 +164,21 @@ l) A percentagem para o Cofre dos Tribunais do Trabalho.
 
 ...
 
-###### Art. 39.º os encargos referidos nas alíneas a) e j) do artigo 37.º revertem, respectivamente, a favor do Cofre dos Tribunais do Trabalho e do Estado.
+Art. 39.º os encargos referidos nas alíneas a) e j) do artigo 37.º revertem, respectivamente, a favor do Cofre dos Tribunais do Trabalho e do Estado.
 
 ...
 
-###### Art. 43.º - 1. A percentagem para o Cofre dos Tribunais do Trabalho é de 10%, incidindo sobre o total liquidado em cada conta ou liquidação, e tem arredondamento para a unidade de escudos imediatamente superior.
+Art. 43.º - 1. A percentagem para o Cofre dos Tribunais do Trabalho é de 10%, incidindo sobre o total liquidado em cada conta ou liquidação, e tem arredondamento para a unidade de escudos imediatamente superior.
 
 2. A percentagem prevista no número anterior poderá ser diminuída ou aumentada por meio de portaria do Ministro do Trabalho, na medida em que o equilíbrio financeiro do Cofre o for permitindo ou exigindo, entre os limites de 5% a 12,5%, sob proposta fundamentada do conselho administrativo do mesmo Cofre.
 
 ...
 
-###### Art. 46.º O perito do tribunal, o médico especializado que o substituir e os peritos nomeados pelo Ministério Público, pelo juiz e pelo sinistrado ou doente para intervir nos segundos exames têm, cada um, como remuneração, a quantia de 100$00 por cada exame em que intervenham.
+Art. 46.º O perito do tribunal, o médico especializado que o substituir e os peritos nomeados pelo Ministério Público, pelo juiz e pelo sinistrado ou doente para intervir nos segundos exames têm, cada um, como remuneração, a quantia de 100$00 por cada exame em que intervenham.
 
 ...
 
-###### Art. 50.º - 1. ...
+Art. 50.º - 1. ...
 
 2. ...
 
@@ -154,9 +186,9 @@ l) A percentagem para o Cofre dos Tribunais do Trabalho.
 
 ...
 
-###### Art. 56.º Os peritos, louvados e técnicos que não sejam de fora da comarca sede do tribunal ou vara, os juízes de paz e respectivos funcionários, os agentes administrativos ou policiais terão direito a receber, além da respectiva remuneração, a importância de 2$40 por cada quilómetro percorrido desde o local da sua residência até àquele em que se realize a diligência, e vice-versa.
+Art. 56.º Os peritos, louvados e técnicos que não sejam de fora da comarca sede do tribunal ou vara, os juízes de paz e respectivos funcionários, os agentes administrativos ou policiais terão direito a receber, além da respectiva remuneração, a importância de 2$40 por cada quilómetro percorrido desde o local da sua residência até àquele em que se realize a diligência, e vice-versa.
 
-###### Art. 57.º - 1. ...
+Art. 57.º - 1. ...
 
 2. Nos actos não presididos pelo juiz ou pelo Ministério Público, só são pagas aos funcionários as despesas correspondentes ao meio de transporte que o chefe de secretaria haja determinado, tendo em atenção as necessidades do serviço, a comodidade dos funcionários e a maior economia. Em caso algum as respectivas despesas podem ser superiores a 2$40 por quilómetro percorrido.
 
@@ -170,7 +202,7 @@ l) A percentagem para o Cofre dos Tribunais do Trabalho.
 
 ...
 
-###### Art. 84.º - 1. ...
+Art. 84.º - 1. ...
 
 a) ...
 
@@ -188,7 +220,7 @@ e) ...
 
 ...
 
-###### Art. 105.º - 1. ...
+Art. 105.º - 1. ...
 
 a) Os reembolsos por gastos de papel, franquias postais e expediente;
 
@@ -222,7 +254,7 @@ m) ...
 
 ...
 
-###### Art. 112.º - 1. As multas impostas aos litigantes de má fé em processos emergentes de acidentes de trabalho ou de doenças profissionais e as aplicadas nos termos do n.º 1 do artigo 134.º do Código de Processo do Trabalho, desde que a sua cobrança, através do processo de execução, não seja possível por não terem sido encontrados bens ao responsável, são convertidas em prisão, à razão de 50$00 por dia. O tempo de prisão, porém, não pode exceder sessenta dias.
+Art. 112.º - 1. As multas impostas aos litigantes de má fé em processos emergentes de acidentes de trabalho ou de doenças profissionais e as aplicadas nos termos do n.º 1 do artigo 134.º do Código de Processo do Trabalho, desde que a sua cobrança, através do processo de execução, não seja possível por não terem sido encontrados bens ao responsável, são convertidas em prisão, à razão de 50$00 por dia. O tempo de prisão, porém, não pode exceder sessenta dias.
 
 2. ...
 
@@ -230,15 +262,15 @@ m) ...
 
 ...
 
-###### Art. 118.º Não podem ser entregues guias para fins dos artigos 114.º e 115.º sem se mostrar efectuado o depósito, na secretaria ou secção, das restantes importâncias em dívida.
+Art. 118.º Não podem ser entregues guias para fins dos artigos 114.º e 115.º sem se mostrar efectuado o depósito, na secretaria ou secção, das restantes importâncias em dívida.
 
 ...
 
-###### Art. 122.º - 1. As importâncias recebidas pela secretaria ou secção, salvo nos casos previstos nos artigos 126.º e 127.º, são entregues aos interessados, dentro de dez dias após o pagamento efectuado nos termos dos artigos 114.º e 115.º ou, se a ele não houver lugar, a partir do seu recebimento em juízo ou do rateio, conforme os casos.
+Art. 122.º - 1. As importâncias recebidas pela secretaria ou secção, salvo nos casos previstos nos artigos 126.º e 127.º, são entregues aos interessados, dentro de dez dias após o pagamento efectuado nos termos dos artigos 114.º e 115.º ou, se a ele não houver lugar, a partir do seu recebimento em juízo ou do rateio, conforme os casos.
 
 2. Tratando-se de importâncias referentes a salários ou quaisquer indemnizações devidas a trabalhadores ou a contribuições em atraso às instituições de previdência, podem as mesmas, logo que se mostrem depositadas, ser entregues mediante requerimento e prova de desemprego ou de dificuldades financeiras, devida e respectivamente comprovadas por documento passado pelo sindicato ou informadas por ofício dos serviços que superintendem naquelas instituições.
 
-###### Art. 123.º - 1. Se não for possível efectuar a entrega nos termos e prazos previstos no artigo anterior, a secretaria ou secção avisará o interessado, por postal registado, para vir receber nos prazos indicados nas alíneas a), b) e c) do artigo 138.º, sob pena de a respectiva importância ter o destino ali previsto, observando-se no mais, com as necessárias adaptações, o determinado naquela disposição legal.
+Art. 123.º - 1. Se não for possível efectuar a entrega nos termos e prazos previstos no artigo anterior, a secretaria ou secção avisará o interessado, por postal registado, para vir receber nos prazos indicados nas alíneas a), b) e c) do artigo 138.º, sob pena de a respectiva importância ter o destino ali previsto, observando-se no mais, com as necessárias adaptações, o determinado naquela disposição legal.
 
 2. Porém, se se tratar de importâncias devidas a trabalhadores, serão pelo mesmo aviso informados de que podem requerer que as importâncias a que têm direito lhes sejam remetidas por vale do correio.
 
@@ -248,7 +280,7 @@ m) ...
 
 ...
 
-###### Art. 128.º - 1. ...
+Art. 128.º - 1. ...
 
 2. ...
 
@@ -258,19 +290,19 @@ m) ...
 
 ...
 
-###### Art. 133.º - 1. No decurso dos prazos para depósito de preparos para diligências ou custas, pagamento destas ou de multas, seja qual for a sua espécie, ou ainda de imposto de justiça criminal, a secção de processos, a pedido do interessado, entregará na tesouraria, por termo, as guias indispensáveis para esse depósito ou pagamento.
+Art. 133.º - 1. No decurso dos prazos para depósito de preparos para diligências ou custas, pagamento destas ou de multas, seja qual for a sua espécie, ou ainda de imposto de justiça criminal, a secção de processos, a pedido do interessado, entregará na tesouraria, por termo, as guias indispensáveis para esse depósito ou pagamento.
 
 2. ...
 
 3. ...
 
-###### Art. 134.º - 1. As guias para quaisquer depósitos e pagamentos na secretaria, funcionando como tesouraria, são passadas em triplicado pelas secções de processos, ficando, depois de efectuado o depósito ou o pagamento, um dos exemplares em mão do tesoureiro, outro em poder do depositante, como recibo, e sendo o terceiro devolvido à secção, a fim de ser junto ao processo.
+Art. 134.º - 1. As guias para quaisquer depósitos e pagamentos na secretaria, funcionando como tesouraria, são passadas em triplicado pelas secções de processos, ficando, depois de efectuado o depósito ou o pagamento, um dos exemplares em mão do tesoureiro, outro em poder do depositante, como recibo, e sendo o terceiro devolvido à secção, a fim de ser junto ao processo.
 
 2. ...
 
 3. O tesoureiro lançará, imediatamente, na relação a que se refere o artigo 232.º do Código das Custas Judiciais, seguindo a ordem de entrada, as importâncias recebidas constantes das guias, apondo nestas um carimbo do qual constarão as indicações de «Pago», a data do pagamento, o número de ordem a seguir anualmente, o tribunal e vara respectiva, carimbo que será assinado pelo tesoureiro.
 
-###### Art. 135.º - 1. ...
+Art. 135.º - 1. ...
 
 2. Em caso de urgência, o interessado pode fazer juntar ao processo, logo após o pagamento, a guia-recibo.
 
@@ -278,7 +310,7 @@ m) ...
 
 ...
 
-###### Art. 138.º - 1. As secções de processos avisarão, por postal registado, os titulares dos cheques de valor superior a 20$00 que, até ao dia 15 do mês em que foram emitidos, se não tenham apresentado a recebê-los, de que devem fazê-lo nos seguintes prazos, contados da data do aviso, sob pena de a respectiva importância prescrever a favor do Cofre dos Tribunais do Trabalho.
+Art. 138.º - 1. As secções de processos avisarão, por postal registado, os titulares dos cheques de valor superior a 20$00 que, até ao dia 15 do mês em que foram emitidos, se não tenham apresentado a recebê-los, de que devem fazê-lo nos seguintes prazos, contados da data do aviso, sob pena de a respectiva importância prescrever a favor do Cofre dos Tribunais do Trabalho.
 
 a) ...
 
@@ -290,13 +322,13 @@ c) ...
 
 ...
 
-###### Art. 150.º - 1. É criado o Cofre dos Tribunais do Trabalho, gerido por um conselho administrativo constituído pelo inspector-geral, que presidirá, por um dos inspectores e por um dos adjuntos da Inspecção-Geral dos Tribunais do Trabalho, designados estes dois, por triénios renováveis, por despacho do Ministro do Trabalho.
+Art. 150.º - 1. É criado o Cofre dos Tribunais do Trabalho, gerido por um conselho administrativo constituído pelo inspector-geral, que presidirá, por um dos inspectores e por um dos adjuntos da Inspecção-Geral dos Tribunais do Trabalho, designados estes dois, por triénios renováveis, por despacho do Ministro do Trabalho.
 
 2. O exercício das funções de membro do conselho é gratuito e a sua responsabilidade é solidária pelo destino dado às receitas do Cofre.
 
 ...
 
-###### Art. 153.º - 1. São encargos do Cofre dos Tribunais do Trabalho:
+Art. 153.º - 1. São encargos do Cofre dos Tribunais do Trabalho:
 
 a) ...
 
@@ -320,14 +352,14 @@ i) As demais despesas que por disposição especial lhe sejam atribuídas.
 
 3. Das despesas previstas neste artigo será lavrada cota no respectivo processo, a fim de, ao elaborar-se a conta, serem nesta incluídas a favor do Cofre, nos termos prescritos neste diploma, a menos que, por lei, aos beneficiados com a despesa não seja reconhecido o direito à mesma.
 
-###### Art. 2.º É revogado o artigo 2.º do [Decreto-Lei n.º 562/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/562-1971-632249), de 17 de Dezembro.
+Art. 2.º É revogado o artigo 2.º do [Decreto-Lei n.º 562/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/562-1971-632249), de 17 de Dezembro.
 
-###### Art. 3.º A expressão Fundo de Garantia de Despesas de Emergência usada no Código das Custas Judiciais do Trabalho é substituída por Cofre dos Tribunais do Trabalho.
+Art. 3.º A expressão Fundo de Garantia de Despesas de Emergência usada no Código das Custas Judiciais do Trabalho é substituída por Cofre dos Tribunais do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João Pedro Tomás Rosa.
 
-**Promulgado em 19 de Janeiro de 1976.**
+Promulgado em 19 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

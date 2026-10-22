@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1975-314463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee56506e5c265db0c0ff1bddf6fade8462e81c33b07cec2ef2b69ce5636e0b8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29d3e24457a784dbee21a2a365b1b47dbd6735e2fcbd93b954946c5abf9f1772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Instaladora
+- Criação de Serviços
+- Definição de Competências
+- Ensino Médico
+- Ensino Superior
+- Instituto de Ciências Biomédicas de Abel Salazar
+- Rectificação de Entidade Emitente
+- Regime de Instalação
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:325276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325276:por
+  label: "Prorrogado o prazo do regime de instalação referido no nº 1 do art. 4º pelo DEC LEI.410/78.19.12.1978.MEC, DR.IS\
+    \ [290] de 19.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/410-1978-325276
+  date: '1978-12-19'
+- type: cites
+  target: pt:dre:336333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:307580:por
+  label: "Rectificado no que se refere é entidade emitente (passa a ser Ministério da Educação e Investigação Científica)\
+    \ pela RECT.DD165.09.09.1975.PCM, DG.IS [208] de 09.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-307580
+  date: '1975-09-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:40Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +125,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, alínea 3), da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado na Universidade do Porto o Instituto de Ciências Biomédicas Abel Salazar, destinado a assegurar o ensino e a investigação no domínio das disciplinas básicas da formação médica e paramédica.
+Artigo 1.º É criado na Universidade do Porto o Instituto de Ciências Biomédicas Abel Salazar, destinado a assegurar o ensino e a investigação no domínio das disciplinas básicas da formação médica e paramédica.
 
-###### Art. 2.º O Instituto de Ciências Biomédicas Abel Salazar é uma pessoa colectiva de direito público, gozando de autonomia administrativa, pedagógica e científica, sem prejuízo das orientações gerais do Ministério ou dos organismos centrais ou regionais encarregados da planificação universitária.
+Art. 2.º O Instituto de Ciências Biomédicas Abel Salazar é uma pessoa colectiva de direito público, gozando de autonomia administrativa, pedagógica e científica, sem prejuízo das orientações gerais do Ministério ou dos organismos centrais ou regionais encarregados da planificação universitária.
 
-###### Art. 3.º São atribuições do Instituto:
+Art. 3.º São atribuições do Instituto:
 
 a) Dispensar a preparação básica aos estudantes que se destinem aos cursos médicos ou paramédicos do referido Instituto;
 
@@ -112,22 +141,22 @@ d) Organizar cursos de pós-graduação, de reciclagem e de extensão universit�
 
 e) Colaborar com serviços e entidades que necessitem de apoio científico ou tecnológico neste domínio, interessando-se na resolução dos problemas que se põem à sociedade portuguesa.
 
-###### Art. 4.º - 1. O Instituto fica sujeito a um período de instalação com a duração de três anos.
+Art. 4.º - 1. O Instituto fica sujeito a um período de instalação com a duração de três anos.
 
 2. Durante este período, o Instituto será gerido por uma Comissão Instaladora, nomeada por despacho do Ministro da Educação e Cultura, sob proposta do reitor da Universidade do Porto.
 
-###### Art. 5.º Logo que se der início às actividades lectivas, e se as circunstâncias o aconselharem, poderá o Ministro da Educação e Cultura, por simples despacho, determinar que ao Instituto se aplique o regime legalmente estipulado em matéria de gestão de estabelecimentos de ensino superior, sem prejuízo das tarefas de competência específica da Comissão Instaladora.
+Art. 5.º Logo que se der início às actividades lectivas, e se as circunstâncias o aconselharem, poderá o Ministro da Educação e Cultura, por simples despacho, determinar que ao Instituto se aplique o regime legalmente estipulado em matéria de gestão de estabelecimentos de ensino superior, sem prejuízo das tarefas de competência específica da Comissão Instaladora.
 
-###### Art. 6.º Os planos de estudo do Instituto de Ciências Biomédicas deverão ser presentes, para homologação, ao Ministro da Educação e Cultura.
+Art. 6.º Os planos de estudo do Instituto de Ciências Biomédicas deverão ser presentes, para homologação, ao Ministro da Educação e Cultura.
 
-###### Art. 7.º Durante o ano financeiro de 1975 as despesas do Instituto serão suportadas por verbas inscritas no orçamento da Reitoria da Universidade do Porto.
+Art. 7.º Durante o ano financeiro de 1975 as despesas do Instituto serão suportadas por verbas inscritas no orçamento da Reitoria da Universidade do Porto.
 
-###### Art. 8.º Em tudo quanto não contrariar o disposto neste diploma, será aplicado ao Instituto de Ciências Biomédicas Abel Salazar o regime de instalação previsto no [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, para os novos estabelecimentos de ensino superior, nomeadamente no que concerne ao regime de admissão de pessoal, previsto nos artigos 24.º, 25.º e 26.º daquele diploma.
+Art. 8.º Em tudo quanto não contrariar o disposto neste diploma, será aplicado ao Instituto de Ciências Biomédicas Abel Salazar o regime de instalação previsto no [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, para os novos estabelecimentos de ensino superior, nomeadamente no que concerne ao regime de admissão de pessoal, previsto nos artigos 24.º, 25.º e 26.º daquele diploma.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - José Joaquim Fragoso - José Emílio da Silva - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 29 de Julho de 1975.**
+Promulgado em 29 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

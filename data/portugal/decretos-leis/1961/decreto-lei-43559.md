@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43559-1961-559391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f83e9372ca653d6526ef5475aa98c507832b764abd047db2a8c01901f866cbe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72a196dc286d747d85e865a5b020242dcc92f3d36367d210d0f260de77b1ae31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Indústria
+- Conselho Técnico da Indústria
+- Corporação da Indústria
+- Criação de Lugares
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral dos Serviços Industriais
+- Extinção de Serviços
+- Orgânica
+- Pessoal Técnico
+- Quadro de Pessoal
+- Secretaria de Estado da Indústria
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:314056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669126:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:06Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +151,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinto o Conselho Superior da Indústria, passando para a Corporação da Indústria e para o Conselho Técnico da Indústria, nos termos dos artigos seguintes, a competência que àquele cabia.
+Artigo 1.º É extinto o Conselho Superior da Indústria, passando para a Corporação da Indústria e para o Conselho Técnico da Indústria, nos termos dos artigos seguintes, a competência que àquele cabia.
 
-###### Art. 2.º Compete à Corporação da Indústria, como órgão de consulta no domínio da indústria transformadora:
+Art. 2.º Compete à Corporação da Indústria, como órgão de consulta no domínio da indústria transformadora:
 
 a) Pronunciar-se por iniciativa própria ou por iniciativa do Secretário de Estado da Indústria, acerca da linhas gerais de orientação da indústria e sua coordenação com as restantes actividades nacionais;
 
@@ -121,9 +167,9 @@ e) Pronunciar-se acerca dos assuntos que respeitem à política industrial e lhe
 
 f) Solicitar do Secretário de Estado da Indústria os estudos ou elementos necessários à boa instrução dos assuntos submetidos ao parecer da Corporação.
 
-###### Art. 3.º É criado junto da Direcção-Geral dos Serviços Industriais, da Secretaria de Estado da Indústria, o Conselho Técnico da Indústria, como órgão consultivo de carácter técnico e económico do Secretário de Estado da Indústria.
+Art. 3.º É criado junto da Direcção-Geral dos Serviços Industriais, da Secretaria de Estado da Indústria, o Conselho Técnico da Indústria, como órgão consultivo de carácter técnico e económico do Secretário de Estado da Indústria.
 
-###### Art. 4.º Compete ao Conselho Técnico da Indústria dar parecer sobre os assuntos relativos a casos individualizados da actividade industrial incluídos no âmbito das atribuições da Direcção-Geral dos Serviços Industriais e que lhe sejam submetidos pelo Secretário de Estado da Indústria ou pelo director-geral dos Serviços Industriais
+Art. 4.º Compete ao Conselho Técnico da Indústria dar parecer sobre os assuntos relativos a casos individualizados da actividade industrial incluídos no âmbito das atribuições da Direcção-Geral dos Serviços Industriais e que lhe sejam submetidos pelo Secretário de Estado da Indústria ou pelo director-geral dos Serviços Industriais
 
 § único. Compete-lhe especialmente:
 
@@ -133,7 +179,7 @@ b) Pronunciar-se acerca da reorganização das indústrias, nos casos e nos term
 
 c) Pronunciar-se sobre a capacidade econòmicamente útil das instalações tributárias da agricultura, nos casos e nos termos previstos no § 1.º do artigo 23.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, e no artigo 5.º do Decreto-Lei n.º 39651, de 14 de Maio de 1954.
 
-###### Art. 5.º O Conselho Técnico da Indústria desdobra-se em oito secções constituídas do modo seguinte:
+Art. 5.º O Conselho Técnico da Indústria desdobra-se em oito secções constituídas do modo seguinte:
 
 1.ª secção. - Indústrias metalúrgicas e metalomecânicas:
 
@@ -257,7 +303,7 @@ f) Um representante da Direcção-Geral dos Serviços Industriais.
 
 § 3.º As secções do Conselho Técnico da Indústria são presididas pelos engenheiros inspectores superiores da Direcção-Geral dos Serviços Industriais ou pelo respectivo director-geral. As reuniões conjuntas das secções serão presididas pelo director-geral dos Serviços Industriais.
 
-###### Art. 6.º O Conselho Técnico da Indústria reunirá por secções, mediante convocação do respectivo presidente, com a presença da maioria dos seus membros e as deliberações serão tomadas por maioria dos votos presentes.
+Art. 6.º O Conselho Técnico da Indústria reunirá por secções, mediante convocação do respectivo presidente, com a presença da maioria dos seus membros e as deliberações serão tomadas por maioria dos votos presentes.
 
 § 1.º O Secretário de Estado da Indústria ou o director-geral dos Serviços Industriais poderão convocar reunião conjunta de todas ou parte das secções.
 
@@ -265,7 +311,7 @@ f) Um representante da Direcção-Geral dos Serviços Industriais.
 
 § 3.º Além dos assuntos mencionados na convocação, poderão ser tratadas outras questões que o presidente reconheça serem urgentes.
 
-###### Art. 7.º Os serviços de secretaria do Conselho Técnico da Indústria serão assegurados pela Direcção-Geral dos Serviços Industriais, nos termos determinados pelo respectivo director-geral.
+Art. 7.º Os serviços de secretaria do Conselho Técnico da Indústria serão assegurados pela Direcção-Geral dos Serviços Industriais, nos termos determinados pelo respectivo director-geral.
 
 § 1.º O Conselho terá um secretário, sem voto, escolhido entre os chefes de repartição ou engenheiros de 1.ª classe do quadro da Direcção-Geral dos Serviços Industriais, que acumulará aquelas funções.
 
@@ -275,19 +321,19 @@ f) Um representante da Direcção-Geral dos Serviços Industriais.
 
 § 4.º De todas as sessões se lavrarão actas, submetidas à aprovação na reunião seguinte, e que serão assinadas pelos respectivos presidente e secretário.
 
-###### Art. 8.º Os membros do Conselho Técnico da Indústria com direito a voto serão abonados de senhas de presença, fixadas pelo Secretário de Estado da Indústria com o acordo do Ministro das Finanças, e quando se desloquem para assistir às reuniões terão também direito, nos termos legais vigentes, ao pagamento das despesas de transporte e às ajudas de custo correspondentes às categorias C a F do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), se outras mais elevadas não lhes competirem como funcionários.
+Art. 8.º Os membros do Conselho Técnico da Indústria com direito a voto serão abonados de senhas de presença, fixadas pelo Secretário de Estado da Indústria com o acordo do Ministro das Finanças, e quando se desloquem para assistir às reuniões terão também direito, nos termos legais vigentes, ao pagamento das despesas de transporte e às ajudas de custo correspondentes às categorias C a F do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), se outras mais elevadas não lhes competirem como funcionários.
 
 § único. Os encargos provenientes do disposto neste artigo serão satisfeitos pelas verbas adequadas atribuídas à Direcção-Geral dos Serviços Industriais.
 
-###### Art. 9.º Sempre que se torne necessária a deslocação de qualquer dos membros do Conselho referidos no artigo anterior, para visitarem instalações industriais com o fim de esclarecer assuntos submetidos à apreciação do Conselho, terá direito a ajudas de custo e transporte, nos termos do mesmo artigo.
+Art. 9.º Sempre que se torne necessária a deslocação de qualquer dos membros do Conselho referidos no artigo anterior, para visitarem instalações industriais com o fim de esclarecer assuntos submetidos à apreciação do Conselho, terá direito a ajudas de custo e transporte, nos termos do mesmo artigo.
 
-###### Art. 10.º O património pertencente ao Conselho Superior da Indústria transita para a Secretaria-Geral do Ministério da Economia e para a Direcção-Geral dos Serviços Industriais, conforme for determinado por despacho do Ministro da Economia.
+Art. 10.º O património pertencente ao Conselho Superior da Indústria transita para a Secretaria-Geral do Ministério da Economia e para a Direcção-Geral dos Serviços Industriais, conforme for determinado por despacho do Ministro da Economia.
 
-###### Art. 11.º É criada na 2.ª Repartição da Direcção-Geral dos Serviços Industriais uma secção de economia que passará a constituir a 4.ª secção.
+Art. 11.º É criada na 2.ª Repartição da Direcção-Geral dos Serviços Industriais uma secção de economia que passará a constituir a 4.ª secção.
 
-###### Art. 12.º São criados e adicionados ao quadro do mapa anexo ao [Decreto-Lei n.º 36933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36933-1948-387085), de 24 de Junho de 1948, os seguintes lugares:
+Art. 12.º São criados e adicionados ao quadro do mapa anexo ao [Decreto-Lei n.º 36933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36933-1948-387085), de 24 de Junho de 1948, os seguintes lugares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/07000/03230326.pdf))](https://files.diariodarepublica.pt/1s/1961/03/07000/03230326.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/07000/03230326.pdf)
 
 § 1.º Para efeito do disposto no artigo 25.º do [Decreto-Lei n.º 36933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36933-1948-387085), considera-se de admissão o lugar de técnico de 3.ª classe.
 
@@ -297,8 +343,8 @@ f) Um representante da Direcção-Geral dos Serviços Industriais.
 
 § 4.º O primeiro provimento de uma das vagas de técnico de qualquer classe poderá ser feito por escolha do Secretário de Estado da Indústria, sob proposta da Direcção-Geral dos Serviços Industriais.
 
-###### Art. 13.º É revogado o [Decreto-Lei n.º 38838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38838-1952-669126), de 21 Julho de 1952.
+Art. 13.º É revogado o [Decreto-Lei n.º 38838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38838-1952-669126), de 21 Julho de 1952.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

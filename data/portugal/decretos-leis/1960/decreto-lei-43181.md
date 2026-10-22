@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22200/19921994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 464aadca7cf3529a99fecd64dbb0795f64842a4b38d3602f9ee4feaab81b116a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 198cd268187fcc47595aca62b71e405575445ef70b158ef673d63a3e6f435ac1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actividade Artística
+- Espetáculos e Divertimentos Públicos
+- Profissão Artística
 relationships:
 - type: amended_by
   target: pt:dre:248247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção ao artigo 11.º do presente diploma, pela LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: cites
+  target: pt:dre:352909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663325:por
+  label: "Revogado o art. 3º pelo DEC LEI.38/87.26.01.1987.MTSS, DR.IS [21] de 26.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1987-663325
+  date: '1987-01-26'
+- type: repealed_by
+  target: pt:dre:248247:por
+  label: "Revogado , a partir de 12.02.2008, pela LEI.4/2008.07.02.2008.AR, DR.IS [27] de 07.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2008-248247
+  date: '2008-02-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:44Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +155,7 @@ Neste termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As condições gerais do exercício da actividade dos profissionais de espectáculos serão regulamentadas por decreto a publicar pelo Ministério das Corporações e Previdência Social.
+Artigo 1.º As condições gerais do exercício da actividade dos profissionais de espectáculos serão regulamentadas por decreto a publicar pelo Ministério das Corporações e Previdência Social.
 
 § 1.º Apenas será permitido o exercício da actividade aos profissionais que se encontrem na posse de carteira profissional válida, quando se trate de profissões abrangidas por sindicatos nacionais.
 
@@ -124,31 +163,31 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º As exigências a que se referem os parágrafos antecedentes poderão ser limitadas a determinadas categorias dos profissionais de espectáculos.
 
-###### Art. 2.º O diploma previsto no artigo 1.º estabelecerá os requisitos a que devem obedecer os contratos a celebrar entre as entidades responsáveis pela realização dos espectáculos e divertimentos públicos, ou empresas produtoras de filmes, e os profissionais de espectáculos e estagiários.
+Art. 2.º O diploma previsto no artigo 1.º estabelecerá os requisitos a que devem obedecer os contratos a celebrar entre as entidades responsáveis pela realização dos espectáculos e divertimentos públicos, ou empresas produtoras de filmes, e os profissionais de espectáculos e estagiários.
 
-###### Art. 3.º Para garantia das obrigações contratuais e do pagamento das importâncias devidas à Caixa de Previdência dos Profissionais de Espectáculos poderá ser exigida às empresas a prestação de caução.
+Art. 3.º Para garantia das obrigações contratuais e do pagamento das importâncias devidas à Caixa de Previdência dos Profissionais de Espectáculos poderá ser exigida às empresas a prestação de caução.
 
-###### Art. 4.º As empresas poderão exigir dos seus contratados prestação de fiança idónea como garantia de execução dos contratos celebrados para a realização de excursões artísticas às ilhas adjacentes, províncias ultramarinas ou países estrangeiros.
+Art. 4.º As empresas poderão exigir dos seus contratados prestação de fiança idónea como garantia de execução dos contratos celebrados para a realização de excursões artísticas às ilhas adjacentes, províncias ultramarinas ou países estrangeiros.
 
-###### Art. 5.º As condições especiais do exercício da actividade relativamente a cada profissão são regulamentadas por despacho ou portaria do Ministro das Corporações e Previdência Social, nos termos dos Decretos-Leis n.os 29931 e 32749, respectivamente de 15 de Setembro de 1939 e 15 de Abril de 1943, e tendo em atenção as disposições deste diploma.
+Art. 5.º As condições especiais do exercício da actividade relativamente a cada profissão são regulamentadas por despacho ou portaria do Ministro das Corporações e Previdência Social, nos termos dos Decretos-Leis n.os 29931 e 32749, respectivamente de 15 de Setembro de 1939 e 15 de Abril de 1943, e tendo em atenção as disposições deste diploma.
 
-###### Art. 6.º A actuação de profissionais estrangeiros continua sujeita ao regime jurídico dos Decretos-Leis n.os 22827 e 29762, respectivamente de 14 de Julho de 1933 e 19 de Julho de 1939.
+Art. 6.º A actuação de profissionais estrangeiros continua sujeita ao regime jurídico dos Decretos-Leis n.os 22827 e 29762, respectivamente de 14 de Julho de 1933 e 19 de Julho de 1939.
 
 § único. Considera-se concedida a autorização a que estes diplomas se referem sempre que a exibição de companhias estrangeiras tenha sido autorizada por despacho da Presidência do Conselho, ouvido o Instituto Nacional do Trabalho e Previdência, nos termos do artigo 52.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959.
 
-###### Art. 7.º Será condicionada a actuação de amadores em espectáculos organizados por empresas exploradoras de espectáculos e divertimentos públicos devidamente registadas.
+Art. 7.º Será condicionada a actuação de amadores em espectáculos organizados por empresas exploradoras de espectáculos e divertimentos públicos devidamente registadas.
 
 § único. Quando essa actuação dependa de autorização, será a mesma da competência do Ministério das Corporações e Previdência Social.
 
-###### Art. 8.º Quando a actuação dos profissionais de espectáculos, estagiários ou amadores dependa de homologação dos contratos ou de autorização do Instituto Nacional do Trabalho e Previdência, o visto da Inspecção dos Espectáculos ou suas delegações para realização do espectáculo ou divertimento em que aqueles profissionais actuem só poderá ser concedido depois de feita prova de terem sido cumpridas aquelas formalidades.
+Art. 8.º Quando a actuação dos profissionais de espectáculos, estagiários ou amadores dependa de homologação dos contratos ou de autorização do Instituto Nacional do Trabalho e Previdência, o visto da Inspecção dos Espectáculos ou suas delegações para realização do espectáculo ou divertimento em que aqueles profissionais actuem só poderá ser concedido depois de feita prova de terem sido cumpridas aquelas formalidades.
 
 § único. Os pedidos de autorização ou homologação poderão ser apresentados ao Instituto Nacional do Trabalho e Previdência por intermédio das delegações da Inspecção dos Espectáculos, sempre que daí resulte comodidade para os interessados.
 
-###### Art. 9.º Depende de licença, a conceder pelo Instituto Nacional do Trabalho e Previdência, o exercício da actividade de agente artístico, a qual será regulamentada nos termos fixados no artigo 1.º
+Art. 9.º Depende de licença, a conceder pelo Instituto Nacional do Trabalho e Previdência, o exercício da actividade de agente artístico, a qual será regulamentada nos termos fixados no artigo 1.º
 
 § único. Por agente artístico entende-se a pessoa ou empresa que, mediante remuneração, sirva de intermediário entre os profissionais e as entidades que explorem espectáculos ou divertimentos públicos, para efeitos de colocação, incluindo os apoderados tauromáquicos.
 
-###### Art. 10.º É criada na 2.ª Repartição da Direcção-Geral do Trabalho e Corporações a Secção dos Profissionais de Espectáculos, à qual compete estudar e apresentar a despacho os assuntos respeitantes aos mesmos profissionais, nomeadamente:
+Art. 10.º É criada na 2.ª Repartição da Direcção-Geral do Trabalho e Corporações a Secção dos Profissionais de Espectáculos, à qual compete estudar e apresentar a despacho os assuntos respeitantes aos mesmos profissionais, nomeadamente:
 
 1) Carteiras profissionais;
 
@@ -168,7 +207,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. O quadro da Direcção-Geral do Trabalho e Corporações será aumentado, nos termos a fixar por despacho do Ministro das Corporações e Previdência Social, com a concordância do Ministro das Finanças.
 
-###### Art. 11.º As infracções aos regimes estabelecido ao abrigo dos artigos 1.º a 5.º, 7.º e 9.º serão punidas:
+Art. 11.º As infracções aos regimes estabelecido ao abrigo dos artigos 1.º a 5.º, 7.º e 9.º serão punidas:
 
 1) Com multa até 10000$00;
 
@@ -178,37 +217,37 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. As falsas declarações serão punidas nos termos do artigo 242.º do Código Penal.
 
-###### Art. 12.º Compete ao Instituto Nacional do Trabalho e Previdência a aplicação das multas, bem como a interdição do exercício da actividade dos agentes artísticos, revertendo o produto das multas para o fundo de assistência da Caixa de Previdência dos Profissionais de Espectáculos.
+Art. 12.º Compete ao Instituto Nacional do Trabalho e Previdência a aplicação das multas, bem como a interdição do exercício da actividade dos agentes artísticos, revertendo o produto das multas para o fundo de assistência da Caixa de Previdência dos Profissionais de Espectáculos.
 
 § único. Na falta de pagamento voluntário das multas, os processos serão remetidos aos tribunais do trabalho para julgamento.
 
-###### Art. 13.º A aplicação das sanções a que se refere o n.º 2 do artigo 11.º é da competência das comissões corporativas ou, na sua falta, de um conselho constituído por um funcionário do Ministério das Corporações e Previdência Social, que presidirá, e por dois vogais, designados pelas direcções do sindicato a que pertencer o profissional e da União dos Grémios dos Espectáculos.
+Art. 13.º A aplicação das sanções a que se refere o n.º 2 do artigo 11.º é da competência das comissões corporativas ou, na sua falta, de um conselho constituído por um funcionário do Ministério das Corporações e Previdência Social, que presidirá, e por dois vogais, designados pelas direcções do sindicato a que pertencer o profissional e da União dos Grémios dos Espectáculos.
 
 § único. Das decisões das comissões corporativas ou do conselho a que se refere o artigo anterior cabe recurso para a junta disciplinar da Corporação dos Espectáculos.
 
-###### Art. 14.º A fiscalização do cumprimento das normas publicadas ao abrigo deste diploma compete ao Instituto Nacional do Trabalho e Previdência, pela Inspecção do Trabalho, com a colaboração da Inspecção dos Espectáculos.
+Art. 14.º A fiscalização do cumprimento das normas publicadas ao abrigo deste diploma compete ao Instituto Nacional do Trabalho e Previdência, pela Inspecção do Trabalho, com a colaboração da Inspecção dos Espectáculos.
 
 § 1.º Para efeito do disposto neste artigo, a Inspecção dos Espectáculos remeterá à Inspecção do Trabalho, no prazo de 48 horas, auto de notícia das infracções verificadas pelos seus funcionários.
 
 § 2.º Aos autos de notícia levantados pela Inspecção dos Espectáculos é aplicável o disposto no artigo 24.º do [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948.
 
-###### Art. 15.º O imposto do selo a que ficam sujeitos os actos previstos neste diploma é o constante da tabela anexa ao presente decreto-lei e que dele faz parte integrante.
+Art. 15.º O imposto do selo a que ficam sujeitos os actos previstos neste diploma é o constante da tabela anexa ao presente decreto-lei e que dele faz parte integrante.
 
 § 1.º Ficam isentos do imposto respectivo os agentes artísticos inscritos na Inspecção dos Espectáculos à data da entrada em vigor deste diploma, desde que requeiram a licença no prazo que para esse fim foi fixado no regulamento e esta lhes seja concedida.
 
 § 2.º O imposto será pago por meio de estampilha fiscal.
 
-###### Art. 16.º Ficam revogados:
+Art. 16.º Ficam revogados:
 
 1) O artigo 147 da tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932;
 
 2) O [Decreto-Lei n.º 28990](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28990-1938-352909), de 10 de Setembro de 1938.
 
-###### Art. 17.º Este diploma só entra em vigor depois de organizada a secção a que se refere o artigo 10.º, sem prejuízo de ser publicada entretanto a legislação prevista.
+Art. 17.º Este diploma só entra em vigor depois de organizada a secção a que se refere o artigo 10.º, sem prejuízo de ser publicada entretanto a legislação prevista.
 
 § único. A comunicação da entrada em vigor será feita por meio de aviso a publicar no Diário do Governo, 1ª série.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1979-383206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3ca8f488fc94804befeb369e14bf268a1b009cb65b9ad0f1c90e3fc846c0779
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cec1c03a34064044b9c96424c3ac050da816819987ef6ca1f9ccf088c81cf00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Função Pública
+- Integração de Trabalhadores
+- Médico
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Reclassificação de Pessoal
+- Regime de Pessoal
+- Remuneração
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380552:por
+  label: "Dada nova redacção ao n.º 2 do artigo 41.º do presente diploma, pelo DEC LEI.210/79.12.07.1979.PCM, DR.IS [159]\
+    \ de 12.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1979-380552
+  date: '1979-07-12'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 11.º, 15.º a 19.º, 22.º a 26.º e 28.º a 33.º do presente diploma, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133]\
+    \ de 11.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 42
+  article_count: 43
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:34Z'
   warnings: []
   errors: []
 ---
@@ -404,7 +456,9 @@ O pessoal transferido para os SMS, nos termos do [Decreto Regulamentar n.º 12/7
 
 O pessoal transferido para os SMS, nos termos do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro, que, à data da entrada em vigor do presente diploma, conte mais de 69 anos de idade poderá ser autorizado a manter-se ao serviço para além do limite de idade fixado para a função pública pelo período de um ano, prorrogável por igual período, não podendo, porém, em qualquer caso, ser ultrapassado o limite de idade de 75 anos.
 
-#### SECÇÃO V — Artigo 41.º
+#### SECÇÃO V
+
+###### Artigo 41.º
 
 (Direito de opção)
 
@@ -426,14 +480,14 @@ Este diploma produz efeitos a partir do dia 1 de Janeiro de 1979 no que diz resp
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 23 de Abril de 1979.**
+Promulgado em 23 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Mapa de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10700/08610868.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10700/08610868.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10700/08610868.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Assuntos Sociais, Acácio Manuel Pereira Magro.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Assuntos Sociais, Acácio Manuel Pereira Magro.

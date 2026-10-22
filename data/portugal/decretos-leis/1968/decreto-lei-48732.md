@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/28500/17611762.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48732-1968-262810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d83bec2ecdc2f02b5094c70976023c8f76dede94632c5f1ae60be641b5b50441
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f6ebdc36aec0e531c21ff6d7ce6fc0f80348c4c3c023e8b449fd01ec11f5728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Autorização de Despesas
+- Despesas Públicas
+- Gestão Orçamental
+- Governo
+- Junta Geral
+- Madeira.ilha Adjacente
+- Subsídio
+- Subsídio Eventual de Custo de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:442364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:429433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442364:por
+  label: "Revogado, a partir de 01.01.1972, pelo DEC LEI.583/71.23.12.1971.MI, DG.IS [299-Supl] de 23.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/583-1971-442364
+  date: '1971-12-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:35Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +120,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizado o Governo a aumentar os subsídios anuais de cada uma das juntas gerais dos distritos autónomos das ilhas adjacentes, para cobertura dos encargos do subsídio eventual de custo de vida, a que se refere o [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966, e que digam respeito aos vencimentos liquidados aos servidores do Estado, a cargo das mesmas juntas gerais.
+Artigo único. É autorizado o Governo a aumentar os subsídios anuais de cada uma das juntas gerais dos distritos autónomos das ilhas adjacentes, para cobertura dos encargos do subsídio eventual de custo de vida, a que se refere o [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966, e que digam respeito aos vencimentos liquidados aos servidores do Estado, a cargo das mesmas juntas gerais.
 
 § único. As importâncias correspondentes ao aumento autorizado por este artigo, bem como a data em que começam a vigorar, serão fixadas em despacho do Ministro das Finanças.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 22 de Novembro de 1968.**
+Promulgado em 22 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -48,36 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1981-394753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21a879513bf9d4ae898fa6b882502692876f8fd97e41a37bee266f0b973b5aa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12d566b47981cf71942a52014d4fb7f881b162b583cfa86b9eb275b86aef8c4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Comunicações
+- Conselho Nacional de Telecomunicações
+- CTT
+- Governo Regional
+- Madeira.região Autónoma
+- Representante Regional
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:378750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622863:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:06Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +120,15 @@ Cometem-se assim, e desde já, aos Governos Regionais determinadas atribuições
 
 Assim, ouvidos os Governos Regionais dos Açores e da Madeira e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditada uma nova alínea - alínea j) - ao artigo 2.º do [Decreto-Lei n.º 317/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1979-378750), de 23 de Agosto, com a redacção seguinte:
+Artigo 1.º É aditada uma nova alínea - alínea j) - ao artigo 2.º do [Decreto-Lei n.º 317/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1979-378750), de 23 de Agosto, com a redacção seguinte:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
 j) Um representante de cada uma das Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 2.º - 1 - Em matéria de exploração do serviço público de correios e telecomunicações, a cargo dos CTT, nas Regiões Autónomas dos Açores e da Madeira, poderão os respectivos Governos Regionais:
+Art. 2.º - 1 - Em matéria de exploração do serviço público de correios e telecomunicações, a cargo dos CTT, nas Regiões Autónomas dos Açores e da Madeira, poderão os respectivos Governos Regionais:
 
 a) Propor aos CTT a adopção de medidas que visem genericamente o aperfeiçoamento do serviço, em ordem à prossecução dos interesses regionais, e, designadamente, a instalação de uma rede de telecomunicações de recurso, o reforço da segurança das instalações e o incremento das comunicações nacionais e internacionais;
 
@@ -116,12 +140,12 @@ d) Propor ao Ministro dos Transportes e Comunicações, quando as circunstância
 
 2 - A competência referida no número anterior é exercida sem prejuízo dos poderes tutelares previstos nos Estatutos dos CTT e legislação complementar.
 
-###### Art. 3.º As dúvidas que se suscitem na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para os Açores e Madeira, consoante a região autónoma concretamente considerada, e do Ministro dos Transportes e Comunicações.
+Art. 3.º As dúvidas que se suscitem na interpretação e aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para os Açores e Madeira, consoante a região autónoma concretamente considerada, e do Ministro dos Transportes e Comunicações.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 7 de Abril de 1981.**
+Promulgado em 7 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

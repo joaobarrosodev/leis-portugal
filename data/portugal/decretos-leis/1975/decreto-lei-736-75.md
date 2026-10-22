@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/736-1975-310852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74d08cef3ff7cb08e5c673a15a404ad0f5526c67bc86e7a0462a3d8a6e35c218
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60eec505c8bc558820181f39619d8590bfa17fd3478c12878adbcacfe86ad228
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código de Processo do Trabalho
+- Comissão de Conciliação e Julgamento
+- Contrato Individual de Trabalho
+- Direito do Trabalho
+- Processo Laboral
+- Relações de Trabalho
+relationships:
+- type: cites
+  target: pt:dre:314886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407490:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:57Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +110,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O disposto na alínea b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, apenas se aplica às questões emergentes das relações individuais de trabalho cujos pedidos de intervenção das CCJ dêem entrada após a publicação da portaria a que se refere o n.º 4 do artigo 5.º do mesmo diploma.
+Artigo 1.º O disposto na alínea b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, apenas se aplica às questões emergentes das relações individuais de trabalho cujos pedidos de intervenção das CCJ dêem entrada após a publicação da portaria a que se refere o n.º 4 do artigo 5.º do mesmo diploma.
 
-###### Art. 2.º A alínea b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º A alínea b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, passa a ter a seguinte redacção:
 
 Julgar as questões emergentes das relações individuais de trabalho cujo valor não exceda o da alçada dos tribunais do trabalho de 1.ª instância, bem como aquelas que, independentemente do valor, lhes sejam submetidas por acordo das partes.
 
-###### Art. 3.º Enquanto não entrar em vigor a portaria referida na parte final do artigo 1.º, as tentativas de conciliação nas questões emergentes das relações individuais de trabalho continuarão a regular-se pelo artigo 50.º do Código de Processo do Trabalho e pelo [Decreto-Lei n.º 54/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1974-407490), de 5 de Fevereiro.
+Art. 3.º Enquanto não entrar em vigor a portaria referida na parte final do artigo 1.º, as tentativas de conciliação nas questões emergentes das relações individuais de trabalho continuarão a regular-se pelo artigo 50.º do Código de Processo do Trabalho e pelo [Decreto-Lei n.º 54/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1974-407490), de 5 de Fevereiro.
 
-###### Art. 4.º Desde a data da entrada em vigor do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, até à data da entrada em vigor do presente diploma consideram-se suspensos os prazos de prescrição do direito e da caducidade de acção.
+Art. 4.º Desde a data da entrada em vigor do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, até à data da entrada em vigor do presente diploma consideram-se suspensos os prazos de prescrição do direito e da caducidade de acção.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - João Pedro Tomás Rosa.
 
-**Promulgado em 12 de Dezembro de 1975.**
+Promulgado em 12 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

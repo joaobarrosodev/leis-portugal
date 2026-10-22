@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48726-1968-262804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cb4751a48b86252642d402f247b174ad527748ac893729bfe19629f49dd9ffb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20ce2469a3bec3fb93b524c7f19c1e1e3d4ca1e50ec94f5890a3a6cc928630ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Militar
+- Serviço Militar
+- Subsídio Eventual de Custo de VIDA
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:292082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:30Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +102,19 @@ Considerando que os encargos de manutenção com esses familiares estão sujeito
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extensivo aos militares do Exército, da Marinha e da Força Aérea, em serviço nas províncias ultramarinas, o subsídio eventual de custo de vida nas condições fixadas no [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
+Artigo 1.º É extensivo aos militares do Exército, da Marinha e da Força Aérea, em serviço nas províncias ultramarinas, o subsídio eventual de custo de vida nas condições fixadas no [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
 
 § único. Este subsídio é abonado exclusivamente sobre o vencimento metropolitano e sobre ele não incide a percentagem da subvenção de campanha a que se refere o [Decreto-Lei n.º 46451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46451-1965-292082), de 26 de Julho de 1965.
 
-###### Art. 2.º Nas províncias ultramarinas onde seja possível inscrever no seu orçamento ordinário a dotação necessária para suportar os encargos resultantes da concessão do subsídio eventual de custo de vida será considerada uma dotação global para o efeito a ser sacada pelos comandos militares em regime duodecimal e de acordo com as suas necessidades.
+Art. 2.º Nas províncias ultramarinas onde seja possível inscrever no seu orçamento ordinário a dotação necessária para suportar os encargos resultantes da concessão do subsídio eventual de custo de vida será considerada uma dotação global para o efeito a ser sacada pelos comandos militares em regime duodecimal e de acordo com as suas necessidades.
 
-###### Art. 3.º O subsídio eventual de custo de vida é devido a partir de 1 de Janeiro de 1969.
+Art. 3.º O subsídio eventual de custo de vida é devido a partir de 1 de Janeiro de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha - Fernando Alberto de Oliveira.
 
-**Promulgado em 25 de Novembro de 1968.**
+Promulgado em 25 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

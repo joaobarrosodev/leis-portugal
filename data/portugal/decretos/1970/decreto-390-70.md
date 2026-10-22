@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/390-1970-139400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02da7acf61a34311aa870b5ca0aa7bf0dbde88ea56d93f5e40cc10c81120283c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b15d87950067eb6159dec6fa903197222cdcff4ee271187781d261d3a00f536a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:52Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Ministério da Justiça
 
@@ -103,12 +107,12 @@ Ministério da Educação Nacional
 
 Despesas do ano de 1969, referentes a ajudas de custo, luz, aquecimento, água, lavagem e limpeza, telefones e transportes, contraídas pela Direcção-Geral de Ensino Superior e das Belas-Artes, Faculdade de Farmácia da Universidade do Porto e Escolas Industrial e Comercial de Évora e do Magistério Primário de Porto ... 16282$60
 
-###### Art. 2.º Fica igualmente autorizada a 8.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita em «Acidentes em serviço» do actual orçamento da Direcção-Geral dos Serviços de Urbanização a quantia de 3904$50, respeitante à assistência médica e hospitalar prestada a dois sinistrados vítimas de acidentes em serviço ocorridos em 1969.
+Art. 2.º Fica igualmente autorizada a 8.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita em «Acidentes em serviço» do actual orçamento da Direcção-Geral dos Serviços de Urbanização a quantia de 3904$50, respeitante à assistência médica e hospitalar prestada a dois sinistrados vítimas de acidentes em serviço ocorridos em 1969.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 7 de Agosto de 1970.**
+Promulgado em 7 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -48,36 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45993-1964-536212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60fc008cd97d5367ac039026dcb3eb4e153db2626e1dc009bbbd6d78b166ffbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52feb9cb58b83cdd2d3773ea17abfa0084edd42bc5878aa97ac139b292942787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Imposto Compensatório
+- Imposto de Camionagem
+- Isenção Fiscal
+- Licença de Aluguer
+- Licenciamento
+- Transporte de Carga
+- Transporte de Mercadorias
+- Transporte Ferroviário
+- Transporte Público
+- Transporte Rodoviário
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:342462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:57Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +148,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 6.º, 8.º, 9.º, 10.º, 12.º, 17.º, 18.º, 22.º, 23.º, 31.º e 36.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 6.º, 8.º, 9.º, 10.º, 12.º, 17.º, 18.º, 22.º, 23.º, 31.º e 36.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de de 1963, passam a ter a seguinte redacção:
 
-###### Art. 3.º As licenças previstas no artigo 1.º poderão ser concedidas:
+Art. 3.º As licenças previstas no artigo 1.º poderão ser concedidas:
 
 1) Para o trânsito de veículos no interior de áreas compreendidas em círculos de raio de 30 km, 50 km ou 100 km, com centro na localidade ou numa das localidades onde o proprietário do veículo exercer a sua actividade;
 
@@ -134,7 +162,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 6.º Os veículos licenciados nos termos do artigo 1.º ficarão sujeitos ao imposto de circulação, o qual, por veículo e para cada raio de acção, se deduz do valor do imposto de camionagem exigível em iguais áreas circulares pela aplicação das seguintes percentagens:
+Art. 6.º Os veículos licenciados nos termos do artigo 1.º ficarão sujeitos ao imposto de circulação, o qual, por veículo e para cada raio de acção, se deduz do valor do imposto de camionagem exigível em iguais áreas circulares pela aplicação das seguintes percentagens:
 
 R = 30 km ... 50
 
@@ -154,7 +182,7 @@ em que R representa o raio de círculo a que se refere o artigo 3.º
 
 ...
 
-###### Art. 8.º Ficam isentos do imposto de circulação:
+Art. 8.º Ficam isentos do imposto de circulação:
 
 1) Os veículos pertencentes ao Estado e a qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;
 
@@ -176,9 +204,9 @@ em que R representa o raio de círculo a que se refere o artigo 3.º
 
 § 3.º Os veículos abrangidos pelo n.º 7) do corpo deste artigo só poderão efectuar transportes de mercadorias, para efeitos da isenção tributária de que beneficiam, até ao limite máximo de 1/3 do respectivo peso bruto, sem prejuízo, porém, de inferiores limites resultantes das condições de matrícula e licenciamento.
 
-###### Art. 9.º O Governo, por intermédio dos Ministros das Finanças, da Economia e das Comunicações, poderá autorizar a redução do imposto de circulação até ao limite máximo de 70 por cento, sem prejuízo do mínimo de cobrança estabelecido no § 1.º do artigo 6.º, quando se trate de transportes particulares que assegurem um especial benefício económico para a colectividade, desde que não prejudiquem o desenvolvimento harmonioso ou a eficácia desejada da política de coordenação de transportes terrestres.
+Art. 9.º O Governo, por intermédio dos Ministros das Finanças, da Economia e das Comunicações, poderá autorizar a redução do imposto de circulação até ao limite máximo de 70 por cento, sem prejuízo do mínimo de cobrança estabelecido no § 1.º do artigo 6.º, quando se trate de transportes particulares que assegurem um especial benefício económico para a colectividade, desde que não prejudiquem o desenvolvimento harmonioso ou a eficácia desejada da política de coordenação de transportes terrestres.
 
-###### Art. 14.º O imposto de circulação devido pelos veículos de carga a que se refere o § 2.º do artigo 3.º, quando licenciados para as áreas circulares aí mencionadas, será igual ao que for exigível a veículos de idêntico peso bruto inscritos para áreas de 30 km de raio, sem prejuízo, porém, do mínimo de cobrança estabelecido no § 1.º do artigo 6.º
+Art. 14.º O imposto de circulação devido pelos veículos de carga a que se refere o § 2.º do artigo 3.º, quando licenciados para as áreas circulares aí mencionadas, será igual ao que for exigível a veículos de idêntico peso bruto inscritos para áreas de 30 km de raio, sem prejuízo, porém, do mínimo de cobrança estabelecido no § 1.º do artigo 6.º
 
 § único. Em casos excepcionais, a apreciar pela Direcção-Geral de Transportes Terrestres, poder-se-á exceder a área circular de 50 km, referida no citado § 2.º do artigo 3.º, sem que por tal motivo os respectivos proprietários fiquem sujeitos ao pagamento do imposto correspondente ao excesso do percurso efectuado, desde que na realização de tais transportes se obedeça ao seguinte condicionalismo:
 
@@ -192,7 +220,7 @@ d) Não se julgar racionalmente aceitável, por razões de economia ou de efici�
 
 ...
 
-###### Art. 12.º Pelos transportes de produtos agrícolas ou directamente ligados à agricultura efectuados, em veículos a eles exclusivamente afectos, dentro de uma área circular de 50 km de raio com centro na localidade em que o veículo estiver inscrito, incidirá um imposto de circulação correspondente ao cobrado a veículos do mesmo peso bruto inscritos para transitarem em áreas circulares de 30 km de raio, reduzindo-se para 20 por cento a percentagem de 50 por cento a que se refere o artigo 6.º, sem prejuízo do mínimo de cobrança nele estabelecido.
+Art. 12.º Pelos transportes de produtos agrícolas ou directamente ligados à agricultura efectuados, em veículos a eles exclusivamente afectos, dentro de uma área circular de 50 km de raio com centro na localidade em que o veículo estiver inscrito, incidirá um imposto de circulação correspondente ao cobrado a veículos do mesmo peso bruto inscritos para transitarem em áreas circulares de 30 km de raio, reduzindo-se para 20 por cento a percentagem de 50 por cento a que se refere o artigo 6.º, sem prejuízo do mínimo de cobrança nele estabelecido.
 
 § único. Os proprietários de veículos utilizados exclusivamente nos transportes abrangidos no corpo deste artigo poderão ser autorizados a exceder o limite de 50 km, desde que realizem tais transportes por itinerários prèviamente fixados, sem que por tal motivo fiquem sujeitos ao pagamento do imposto correspondente ao excesso do percurso efectuado, tão-só nas seguintes hipóteses:
 
@@ -202,7 +230,7 @@ b) Quando o proprietário do veículo seja possuidor e simultâneamente explore 
 
 ...
 
-###### Art. 17.º O imposto de camionagem a pagar pelos proprietários de automóveis pesados utilizados em transporte de passageiros em regime de aluguer terá um valor anual calculado, para cada veículo, pela formula:
+Art. 17.º O imposto de camionagem a pagar pelos proprietários de automóveis pesados utilizados em transporte de passageiros em regime de aluguer terá um valor anual calculado, para cada veículo, pela formula:
 
 I = 320 x Tm x L
 
@@ -214,7 +242,7 @@ L = lotação do veículo.
 
 § único. Os veículos automóveis pesados de aluguer de passageiros cuja documentação tenha sido apreendida ou entregue voluntàriamente pelos respectivos proprietários na Direcção de Viação competente, para efeitos de ser depositada no serviço central de liquidação criado pelo artigo 25.º, serão transitòriamente isentos do imposto de camionagem, desde que a respectiva apreensão ou depósito se estenda por períodos não inferiores ao período de cobrança.
 
-###### Art. 18.º O imposta de camionagem a pagar pelos proprietários de automóveis de aluguer destinados ao transporte de mercadorias ou mistos terá um valor anual calculado, para cada veículo, pelas fórmulas seguintes:
+Art. 18.º O imposta de camionagem a pagar pelos proprietários de automóveis de aluguer destinados ao transporte de mercadorias ou mistos terá um valor anual calculado, para cada veículo, pelas fórmulas seguintes:
 
 1.ª Para veículos ligeiros:
 
@@ -240,7 +268,7 @@ Nestas fórmulas, K é um coeficiente variável com a área dentro da qual o ve�
 
 ...
 
-###### Art. 22.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação de harmonia com as taxas anuais constantes da tabela seguinte:
+Art. 22.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação de harmonia com as taxas anuais constantes da tabela seguinte:
 
 a) Automóveis de passageiros:
 
@@ -280,7 +308,7 @@ c) Tractores agrícolas com caixa de carga comportando carga útil superior a 15
 
 § único. No caso de tractores ou de veículos de carga autorizados a transitarem com reboques, o peso bruto a considerar para cálculo do imposto de compensação compreenderá, além do peso bruto do veículo tractor, o peso bruto que este estiver autorizado a rebocar.
 
-###### Art. 23.º Ficam isentos do imposto de compensação:
+Art. 23.º Ficam isentos do imposto de compensação:
 
 1) Os veículos pertencentes ao Estado e a qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;
 
@@ -302,18 +330,18 @@ c) Tractores agrícolas com caixa de carga comportando carga útil superior a 15
 
 ...
 
-###### Art. 31.º As licenças para transportes particulares ou públicos só são válidas quando se mostre ter sido efectuado o pagamento dos impostos de circulação, camionagem e compensação relativos ao último período de cobrança voluntária de que haja terminado o respectivo prazo de pagamento.
+Art. 31.º As licenças para transportes particulares ou públicos só são válidas quando se mostre ter sido efectuado o pagamento dos impostos de circulação, camionagem e compensação relativos ao último período de cobrança voluntária de que haja terminado o respectivo prazo de pagamento.
 
 ...
 
-###### Art. 36.º Ficam revogados os Decretos-Leis n.os 25754, de 16 de Agosto de 1935, 29168, de 23 de Novembro de 1938, 37191, de 24 de Novembro de 1948, 38070, de 24 de Novembro de 1950, e 43708, de 22 de Maio de 1961, o Decreto com força de lei n.º 17813, de 30 de Dezembro de 1929, e os Decretos n.os 18319, de 14 de Maio de 1930, 20678, de 23 de Dezembro de 1931, e 26178, de 2 de Janeiro de 1936, a partir do momento em que entrarem em vigor as correspondentes disposições do presente decreto-lei.
+Art. 36.º Ficam revogados os Decretos-Leis n.os 25754, de 16 de Agosto de 1935, 29168, de 23 de Novembro de 1938, 37191, de 24 de Novembro de 1948, 38070, de 24 de Novembro de 1950, e 43708, de 22 de Maio de 1961, o Decreto com força de lei n.º 17813, de 30 de Dezembro de 1929, e os Decretos n.os 18319, de 14 de Maio de 1930, 20678, de 23 de Dezembro de 1931, e 26178, de 2 de Janeiro de 1936, a partir do momento em que entrarem em vigor as correspondentes disposições do presente decreto-lei.
 
-###### Art. 2.º (transitório). Os veículos automóveis mistos de peso bruto inferior a 2500 kg, matriculados, até à data de entrada em vigor da obrigatoriedade de licenciamento e dos regimes fiscais instituídos no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), para o serviço particular de transporte de passageiros e mercadorias, ficarão transitòriamente isentos do imposto de circulação durante um ano, a contar da mesma data.
+Art. 2.º (transitório). Os veículos automóveis mistos de peso bruto inferior a 2500 kg, matriculados, até à data de entrada em vigor da obrigatoriedade de licenciamento e dos regimes fiscais instituídos no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), para o serviço particular de transporte de passageiros e mercadorias, ficarão transitòriamente isentos do imposto de circulação durante um ano, a contar da mesma data.
 
 § 1.º Deverá ser requerida pelos proprietários dos mesmos veículos, no prazo de três meses, a contar daquele começo de vigência, a inscrição no livrete para transporte simultâneo de passageiros e mercadorias, caso pretendam beneficiar, dentro dos limites fixados pelo n.º 7 do artigo 8.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), da correspondente isenção tributária.
 
 § 2.º O prazo da transitória isenção tributária prevista no corpo do artigo poderá ser alargado, se circunstâncias especiais o justificarem, por portaria conjunta dos Ministros das Finanças e das Comunicações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -49,40 +49,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43514-1961-555013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d87c36d42ed270cfd6896fdc42a0807c028221d09b0499657e1eb8ab82145d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dbc974c8ee9a561a61afdc5d96b214f5f5caa78025150dc733249959c0f05bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Almada
+- Contrato
+- Definição de Competências
+- Expropriação
+- Gabinete da Ponte sobre o TEJO
+- Lisboa
+- Ministro das Finanças
+- Ministro das Obras Públicas
+- Obras Públicas
+- Ponte Salazar
+- Rede de Estradas
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:472538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472538:por
+  label: "Tornadas extensivas às expropriações necessárias às obras de saneamento social e de arranjo urbanístico do vale\
+    \ de Alcântara, na cidade de Lisboa, as disposições dos arts 4º, 5º e 6º pelo DEC LEI.47049.18.06.1966.MOP, DG.IS [140]\
+    \ de 18.06.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47049-1966-472538
+  date: '1966-06-18'
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659487:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:45Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +124,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministro das Obras Públicas a outorgar em nome do Estado no contrato a celebrar com a firma adjudicatária United States Steel Export Company para a construção da ponte sobre o Tejo entre Lisboa e Almada, em conformidade com a minuta anexa, que fica a fazer parte integrante deste diploma, considerando-se dispensadas outras formalidades, incluindo o visto do Tribunal de Contas.
+Artigo 1.º Fica autorizado o Ministro das Obras Públicas a outorgar em nome do Estado no contrato a celebrar com a firma adjudicatária United States Steel Export Company para a construção da ponte sobre o Tejo entre Lisboa e Almada, em conformidade com a minuta anexa, que fica a fazer parte integrante deste diploma, considerando-se dispensadas outras formalidades, incluindo o visto do Tribunal de Contas.
 
-###### Art. 2.º Fica igualmente autorizado o Ministro das Finanças, ouvido o Secretário de Estado do Comércio, a celebrar oportunamente os acordos financeiros com o Export-Import Bank, de Washington, e com o Banco Seligman & Cie, de Paris, necessários para a execução da obra nos termos do contrato a que se refere o artigo 1.º, de harmonia com as minutas a aprovar em Conselho de Ministros.
+Art. 2.º Fica igualmente autorizado o Ministro das Finanças, ouvido o Secretário de Estado do Comércio, a celebrar oportunamente os acordos financeiros com o Export-Import Bank, de Washington, e com o Banco Seligman & Cie, de Paris, necessários para a execução da obra nos termos do contrato a que se refere o artigo 1.º, de harmonia com as minutas a aprovar em Conselho de Ministros.
 
-###### Art. 3.º Os encargos imputáveis ao Estado nos termos do contrato a que se refere o artigo 1.º, no caso de não se efectivar a adjudicação definitiva da obra, serão assumidos por conta de créditos especiais que o Ministério das Finanças fica autorizado a abrir oportunamente até ao montante global estabelecido no referido contrato.
+Art. 3.º Os encargos imputáveis ao Estado nos termos do contrato a que se refere o artigo 1.º, no caso de não se efectivar a adjudicação definitiva da obra, serão assumidos por conta de créditos especiais que o Ministério das Finanças fica autorizado a abrir oportunamente até ao montante global estabelecido no referido contrato.
 
-###### Art. 4.º São declaradas de utilidade pública urgente as expropriações necessárias para a construção da ponte, viadutos e vias de acessos em ambas as margens, e, bem assim, para a urbanização das zonas das testas da ponte, em conformidade com os planos gerais e as plantas parcelares aprovadas pelo Ministro das Obras Públicas.
+Art. 4.º São declaradas de utilidade pública urgente as expropriações necessárias para a construção da ponte, viadutos e vias de acessos em ambas as margens, e, bem assim, para a urbanização das zonas das testas da ponte, em conformidade com os planos gerais e as plantas parcelares aprovadas pelo Ministro das Obras Públicas.
 
-###### Art. 5.º As expropriações referidas no artigo anterior seguirão os termos próprios das expropriações urgentes, com as seguintes modificações:
+Art. 5.º As expropriações referidas no artigo anterior seguirão os termos próprios das expropriações urgentes, com as seguintes modificações:
 
 a) O Gabinete da Ponte sobre o Tejo poderá, independentemente da investidura judicial, tomar posse imediata dos bens a expropriar sempre que, mediante despacho do Ministro das Obras Públicas, tal for considerado indispensável para o prosseguimento ininterrupto dos trabalhos ou para o cumprimento dos programas a que devam subordinar-se, com vista à sua conclusão no mais curto prazo;
 
@@ -115,9 +142,9 @@ c) O conhecimento do depósito e o auto da vistoria a que alude a alínea anteri
 
 d) Não se conformando os interessados com o valor fixado pelo perito, poderão recorrer para o juiz de direito da comarca, de acordo com as regras gerais do processo de expropriação urgente por utilidade pública, as quais serão também aplicáveis ao processamento do recurso.
 
-###### Art. 6.º No caso de expropriação parcial ou de desistência do pedido por parte do expropriante, logo que a indemnização fixada como valor real do prédio seja 36 vezes superior ou 12 vezes inferior ao rendimento colectável inscrito na matriz predial, o Gabinete da Ponte sobre o Tejo comunicará o facto à secção de finanças da área do prédio, a fim de se proceder à revisão do valor matricial.
+Art. 6.º No caso de expropriação parcial ou de desistência do pedido por parte do expropriante, logo que a indemnização fixada como valor real do prédio seja 36 vezes superior ou 12 vezes inferior ao rendimento colectável inscrito na matriz predial, o Gabinete da Ponte sobre o Tejo comunicará o facto à secção de finanças da área do prédio, a fim de se proceder à revisão do valor matricial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -149,9 +176,7 @@ As duas partes contratantes afirmam, solenemente, ter acordado nas condições c
 
 Condições gerais
 
-ARTIGO PRIMEIRO
-
-Projecto definitivo
+###### ARTIGO PRIMEIRO — Projecto definitivo
 
 UM. A firma adjudicatária, United States Steel Export Company, que passará a ser designada, abreviadamente, por «Adjudicatária», elaborará e submeterá à aprovação do Governo, dentro de duzentos e cinquenta (250) dias a partir da data da assinatura deste contrato, o projecto definitivo da ponte rodoviária adaptável a ponte mista, como está definido no artigo oitavo das condições especiais deste contrato.
 
@@ -167,9 +192,7 @@ Dado que a Adjudicatária é responsável pelo projecto e pela construção e se
 
 TRÊS. Para todos os efeitos o projecto definitivo, tal como for aprovado pelo Governo, fará parte integrante deste contrato.
 
-ARTIGO SEGUNDO
-
-Aprovação do projecto definitivo
+###### ARTIGO SEGUNDO — Aprovação do projecto definitivo
 
 O Governo poderá enviar engenheiros seus em visitas periódicas ou contínuas aos gabinetes de estudo e estaleiros da Adjudicatária ou das suas associadas, durante o período de elaboração do projecto definitivo, com o fim de obter informações sobre o andamento dos respectivos estudos e para se assegurar de que o projecto definitivo está sendo elaborado de forma adequada, bem como para facilitar as verificações necessárias à aprovação final do Governo.
 
@@ -179,15 +202,11 @@ Estas alterações, contudo, não compreenderão modificações dos critérios a
 
 Entende-se que nesta fase de estudo do projecto poderão ter lugar ajustamentos das repercussões no custo da obra que tenham resultado das sugestões do Governo para se melhorar técnica e econòmicamente a obra.
 
-ARTIGO TERCEIRO
-
-Encargos da Adjudicatária
+###### ARTIGO TERCEIRO — Encargos da Adjudicatária
 
 A Adjudicatária fornecerá e pagará toda a mão-de-obra, materiais, serviços, ferramentas, equipamento, energia, combustíveis, água, etc., transportes, estaleiros e tudo à excepção daquilo que o Governo fornecer e que expressamente conste deste contrato, e executará completamente tudo o que for necessário para o projecto e completa execução da ponte sobre o Tejo, de uma forma diligente, de harmonia com a melhor técnica e as regras da arte e de acordo com o preceituado no presente contrato.
 
-ARTIGO QUARTO
-
-Custo e pagamentos da obra
+###### ARTIGO QUARTO — Custo e pagamentos da obra
 
 UM. A obra, incluindo a elaboração do projecto definitivo, será executada em regime de forfait e o seu preço será de um milhão setecentos e sessenta e quatro mil cento e noventa (1764190) contos [quatrocentos e trinta mil (430000) contos, mais quarenta e seis milhões seiscentos e cinquenta mil (46650000) dólares, com as correcções previstas no artigo vigésimo terceiro deste contrato], acrescido ou reduzido em consequência das sugestões ou recomendações que forem feitas pelo Governo, e que tenham sido acordadas entre as duas partes, quanto ao reforço da ponte para permitir a sua adaptação à circulação ferroviária ou introdução de melhorias técnicas e económicas no anteprojecto, ou das alterações ou extras que seja necessário considerar durante a elaboração do projecto definitivo ou execução da obra, de acordo com a proposta da Adjudicatária e nos termos deste contrato.
 
@@ -195,9 +214,7 @@ DOIS. O dito preço será pago em escudos e dólares e os respectivos montantes 
 
 O Governo pagará à Adjudicatária o dito preço pela forma e nos prazos definidos no artigo quinto das referidas condições especiais.
 
-ARTIGO QUINTO
-
-Encargos do Governo no caso de a obra não prosseguir
+###### ARTIGO QUINTO — Encargos do Governo no caso de a obra não prosseguir
 
 No caso de o Governo, antes de a Adjudicatária lhe apresentar o projecto definitivo, decidir não prosseguir com este contrato, ou no caso de o Governo não aprovar o projecto definitivo depois de introduzidas as correcções que se referem no artigo segundo destas condições gerais, ou, aprovado este projecto, a Adjudicatária não puder começar a execução da obra por motivo de quaisquer actos do Governo de Portugal, ou quaisquer actos do Governo dos Estados Unidos especificados na alínea g) do artigo vigésimo deste contrato, ou ainda por motivo de guerra generalizada ou nos territórios destes dois países, e de tal situação der conhecimento ao Governo Português, por escrito, dentro dos sessenta (60) dias seguintes, o Governo devolverá à Adjudicatária a sua garantia bancária, o mais cedo possível, e reembolsá-la-á por todas as despesas que efectuou, acrescidas de seis (6) por cento para despesas gerais da Adjudicatária, sem qualquer lucro para a Adjudicatária, resultantes da execução do trabalho de elaboração do projecto definitivo e estudos previstos no artigo primeiro das condições gerais, incluindo os estudos, trabalhos de campo e prospecção do subsolo, os quais podem ter começado anteriormente à assinatura do contrato. Tal reembolso será feito nos prazos e pela forma prevista no número décimo do artigo quinto das condições especiais deste contrato.
 
@@ -211,23 +228,17 @@ No entanto, no caso de o Governo desejar, mais tarde, retomar o problema na base
 
 Em qualquer dos casos previstos neste artigo, fica entendido que o Governo terá sempre o direito de recorrer à arbitragem nos termos do artigo trigésimo quarto, se não se conformar com as razões alegadas pela Adjudicatária para não iniciar ou não prosseguir com a obra.
 
-ARTIGO SEXTO
-
-Início dos trabalhos
+###### ARTIGO SEXTO — Início dos trabalhos
 
 Uma vez aprovado pelo Governo o projecto definitivo apresentado pela Adjudicatária, e desde que o Governo tenha providenciado sobre o necessário para efectuar os pagamentos da obra tal como se prevê no artigo quinto das condições especiais deste contrato, a Adjudicatária iniciará a execução dos trabalhos de acordo com o especificado nas referidas condições especiais deste contrato.
 
-ARTIGO SÉTIMO
-
-Adjudicação definitiva
+###### ARTIGO SÉTIMO — Adjudicação definitiva
 
 Com a aprovação pelo Governo do projecto definitivo a adjudicação provisória considerar-se-á, automàticamente, definitiva.
 
 Condições especiais
 
-ARTIGO PRIMEIRO
-
-Definições
+###### ARTIGO PRIMEIRO — Definições
 
 Quando usadas neste contrato, as seguintes palavras terão o significado que a seguir se lhes atribui:
 
@@ -253,15 +264,11 @@ j) «Escudos» significa escudos portugueses;
 
 k) «Dólares» significa dólares dos Estados Unidos da América.
 
-ARTIGO SEGUNDO
-
-Objecto do contrato
+###### ARTIGO SEGUNDO — Objecto do contrato
 
 O presente contrato compreende a elaboração do projecto definitivo e a construção da ponte sobre o Tejo, entre Lisboa e Almada, incluindo viadutos e acessos rodoviários, de acordo com o projecto definitivo que vier a ser aprovado pelo Governo.
 
-ARTIGO TERCEIRO
-
-Projecto e especificações
+###### ARTIGO TERCEIRO — Projecto e especificações
 
 De acordo com a proposta, a Adjudicatária, logo que tenha concluído os trabalhos de campo e estudos do subsolo complementares, elaborará o projecto definitivo, incluindo desenhos, cálculos e especificações, a fim de ser submetido à aprovação do Governo.
 
@@ -269,9 +276,7 @@ A Adjudicatária fornecerá ao Governo uma (1) cópia transparente dos desenhos 
 
 Todos os desenhos de construção que forem preparados pela Adjudicatária ou suas associadas estarão de acordo com o projecto e as especificações aprovadas, e será fornecido ao serviço de fiscalização, durante a execução dos trabalhos, o número de cópias que lhe for necessário. À data da conclusão da obra e para efeitos de arquivo, será fornecida ao Governo uma colecção completa destes desenhos, em cópia transparente, em inglês ou em português, conforme tiverem sido preparados pela Adjudicatária.
 
-ARTIGO QUARTO
-
-Preço da obra
+###### ARTIGO QUARTO — Preço da obra
 
 O Governo pagará à Adjudicatária o preço da obra pela forma e nos prazos previstos no artigo quinto destas condições especiais.
 
@@ -279,9 +284,7 @@ O valor do contrato, igual ao preço da obra, será o montante dos escudos mais 
 
 Os montantes de escudos e dólares referidos neste artigo poderão ser ajustados por mútuo acordo, dentro do valor total do contrato.
 
-ARTIGO QUINTO
-
-Pagamentos
+###### ARTIGO QUINTO — Pagamentos
 
 PRIMEIRO. O Governo pagará à Adjudicatária os escudos e dólares que lhe forem devidos, nos termos deste contrato, pela forma a seguir especificada.
 
@@ -339,9 +342,7 @@ DÉCIMO. Os pagamentos à Adjudicatária, referidos no artigo quinto das condiç
 
 O montante do encargo a que se refere este número no caso de a execução da obra não ter começado nunca excederá o total equivalente a dois milhões duzentos e cinquenta mil (2250000) dólares, a pagar em duas parcelas, uma em escudos e outra em dólares.
 
-ARTIGO SEXTO
-
-Isenção de direitos de importação
+###### ARTIGO SEXTO — Isenção de direitos de importação
 
 PRIMEIRO. O Estado concederá à Adjudicatária e suas associadas tal como estão definidas no artigo primeiro destas condições especiais, isenção de direitos de importação para todos os materiais a incorporar na obra.
 
@@ -353,9 +354,7 @@ Os equipamentos, veículos, ferramentas e utensílios que tenham sido consumidos
 
 QUARTO. O Estado poderá declarar zona franca e delimitar a área da obra ocupada pela ponte e estaleiros de margem, para facilitar a aplicação da isenção de direitos alfandegários referida neste artigo, ao equipamento, veículos, ferramentas, utensílios e materiais que não tenham de sair dessa área.
 
-ARTIGO SÉTIMO
-
-Isenção de taxas e impostos
+###### ARTIGO SÉTIMO — Isenção de taxas e impostos
 
 PRIMEIRO. O Estado concederá à Adjudicatária e suas associadas isenção do pagamento de quaisquer tributações, presentes e futuras, como taxas, licenças, contribuições, impostos e outros encargos fiscais da mesma índole. Esta isenção não se aplica às taxas que correspondam a pagamentos da prestação directa de serviços. O Estado concederá isenção do pagamento de todos os encargos sociais, resultantes da legislação portuguesa sobre o trabalho, do pessoal estrangeiro empregado na obra, sendo a Adjudicatária responsável pelo pagamento de todos os encargos sociais, nos termos da legislação em vigor, relativos ao pessoal português empregado na obra e ao pessoal francês, nos termos da Convenção Geral, celebrada entre Portugal e a França, aprovada para ratificação pelo Decreto-Lei número quarenta e um mil seiscentos e setenta e sete (41677), de catorze de Junho de mil novecentos e cinquenta e oito, e dos acordos administrativos celebrados em seu complemento.
 
@@ -363,9 +362,7 @@ SEGUNDO. O Governo, pelas autoridades competentes, concederá os vistos de entra
 
 TERCEIRO. O Estado concederá isenção do pagamento de taxas ou impostos de rendimento ao pessoal estrangeiro que for empregado na obra, nos termos da autorização anterior, sem prejuízo do preceituado no artigo quadragésimo terceiro.
 
-ARTIGO OITAVO
-
-Projecto definitivo
+###### ARTIGO OITAVO — Projecto definitivo
 
 No prazo de duzentos e cinquenta (250) dias, a contar da data da assinatura do presente contrato, a Adjudicatária submeterá à aprovação do Governo o projecto definitivo, em triplicado, com os ajustamentos que possam resultar do que dispõe o artigo primeiro das condições gerais, e que conterá as seguintes peças:
 
@@ -417,23 +414,17 @@ No prazo de duzentos e cinquenta (250) dias, a contar da data da assinatura do p
 
 24) Indicação das fórmulas para determinação dos encargos com despesas gerais a ser usadas nas contabilidades das firmas associadas que são referidas neste contrato.
 
-ARTIGO NONO
-
-Aprovação do projecto definitivo
+###### ARTIGO NONO — Aprovação do projecto definitivo
 
 Dentro de noventa (90) dias, a partir da data da sua apresentação, o Governo comunicará à Adjudicatária a decisão sobre o projecto definitivo, nos termos do artigo segundo das condições gerais deste contrato.
 
-ARTIGO DÉCIMO
-
-Prazo de construção da obra
+###### ARTIGO DÉCIMO — Prazo de construção da obra
 
 PRIMEIRO. No prazo máximo de cento e oitenta (180) dias, a contar da data da aprovação do projecto definitivo, o Governo porá à disposição da Adjudicatária, livres de quaisquer estorvos ou encargos, as áreas necessárias para o início dos trabalhos, de acordo com o respectivo plano de utilização, que constará do projecto definitivo, e a Adjudicatária começará a execução dos trabalhos, comunicando, por escrito, a data do seu início.
 
 SEGUNDO. A obra estará concluída, para permitir o tráfego rodoviário e a recepção provisória prescrita no artigo trigésimo terceiro, no prazo de quatro (4) anos e três (3) meses, a contar da referida data do começo dos trabalhos. Este prazo de construção da obra poderá ser aumentado nas condições expressamente prescritas no presente contrato.
 
-ARTIGO DÉCIMO PRIMEIRO
-
-Alterações e extras
+###### ARTIGO DÉCIMO PRIMEIRO — Alterações e extras
 
 O Governo pode, em qualquer momento, solicitar, por escrito, à Adjudicatária alterações nos desenhos dos projectos ou nas especificações, simultânea ou separadamente, constantes do projecto definitivo, ou determinar a execução de trabalho extra, sob a condição de tais alterações e extras estarem dentro do seu esquema geral e não constituírem alterações importantes, desde que a Adjudicatária com elas concorde do ponto de vista técnico.
 
@@ -443,9 +434,7 @@ Antes da execução de qualquer alteração ou trabalho extra a Adjudicatária d
 
 Se as alterações ou trabalhos extra a que se refere este artigo causarem atrasos à Adjudicatária para a conclusão da obra, será concedido à Adjudicatária um aumento do prazo de execução, de acordo com o que está especificado na parte final do artigo décimo segundo, tendo-se em consideração o número de dias de atraso causado por cada alteração ou trabalho extra.
 
-ARTIGO DÉCIMO SEGUNDO
-
-Prorrogação de prazo
+###### ARTIGO DÉCIMO SEGUNDO — Prorrogação de prazo
 
 Em face de qualquer atraso na conclusão do projecto definitivo ou dos trabalhos, devido a casos de força maior como se encontram definidos no artigo vigésimo, o prazo de execução do projecto definitivo e da obra será aumentado correspondentemente, sem que haja lugar à aplicação de qualquer das penalidades previstas no artigo décimo terceiro.
 
@@ -453,9 +442,7 @@ Se se verificar qualquer atraso na execução ou conclusão da obra devido a cau
 
 As prorrogações de prazo a que se refere o presente artigo serão estabelecidas de comum acordo entre o Governo e a Adjudicatária, tendo em conta as consequências desses atrasos no desenvolvimento dos trabalhos, e serão, pelo menos, iguais ao número de dias dos atrasos.
 
-ARTIGO DÉCIMO TERCEIRO
-
-Penalidades e prémios
+###### ARTIGO DÉCIMO TERCEIRO — Penalidades e prémios
 
 Se a Adjudicatária não concluir a obra por forma a permitir o tráfego no prazo estipulado no artigo décimo, acrescido das prorrogações previstas neste contrato, a Adjudicatária incorrerá nas seguintes multas progressivas: no primeiro período de trinta (30) dias de atraso na data da conclusão, quarenta e dois mil e quinhentos (42500) escudos por dia; no segundo período de trinta (30) dias, oitenta mil (80000) escudos por dia; nos períodos seguintes, cento e cinquenta mil (150000) escudos por dia.
 
@@ -469,9 +456,7 @@ Se a Adjudicatária concluir os trabalhos por forma a permitir o tráfego antes 
 
 Para a determinação da multa ou do prémio, a data da conclusão da obra será a da recepção provisória referida no artigo trigésimo terceiro das condições especiais deste contrato.
 
-ARTIGO DÉCIMO QUARTO
-
-Rescisão do contrato
+###### ARTIGO DÉCIMO QUARTO — Rescisão do contrato
 
 No caso de qualquer falta importante cometida pela Adjudicatária na execução da obra a que se refere este contrato, o serviço de fiscalização notificará o representante da Adjudicatária, especificando a falta verificada, e ambas as partes procurarão um acordo mútuo quanto ao prazo e ao processo de executar a correcção da falta. Se, após estas conversações, se verificar a impossibilidade de acordo, o serviço de fiscalização comunicará à Adjudicatária, por escrito, o prazo e o processo de executar a correcção da falta. Neste caso a Adjudicatária poderá, por escrito e apresentando justificação pormenorizada, pedir alterações do prazo ou do processo de executar estabelecidos pelo serviço de fiscalização, dentro de dez (10) dias após a recepção daquela comunicação escrita.
 
@@ -483,15 +468,13 @@ Após a conclusão da obra o Governo devolverá à Adjudicatária todas as ferra
 
 Se o Governo decidir administrar directamente a obra nas condições aqui descritas, cessarão as responsabilidades da Adjudicatária a que se refere este contrato.
 
-ARTIGO DÉCIMO QUINTO
-
-Implantação da obra
+###### ARTIGO DÉCIMO QUINTO — Implantação da obra
 
 O Governo fará a piquetagem no terreno da linha central da ponte, viadutos e acessos rodoviários, incluindo a localização das obras de arte, por meio de marcos de alvenaria ou betão de cimento. O intervalo entre estes marcos será, em média, de cem (100) metros. Os limites dos terrenos expropriados e das serventias necessárias serão claramente demarcados no terreno pelo Governo. Todos os marcos a que se refere este artigo comandarão a execução dos trabalhos, ficando a sua conservação, durante o período de execução da obra, a cargo da Adjudicatária.
 
 Sempre que o andamento dos trabalhos obrigar ao levantamento de qualquer destes marcos ou ao estabelecimento de referências adequadas dos mesmos, a Adjudicatária solicitará prévia autorização do serviço de fiscalização.
 
-ARTIGO DÉCIMO SEXTO
+###### ARTIGO DÉCIMO SEXTO
 
 Local da obra, área de estaleiro, etc.
 
@@ -505,31 +488,23 @@ Se não houver acordo sobre o montante dessa indemnização, recorrer-se-á à a
 
 No prazo máximo de seis (6) meses, a contar da data da recepção definitiva da obra, a Adjudicatária retirará dos terrenos atrás referidos todo o equipamento de estaleiro, materiais sobrantes, entulhos, detritos e construções temporárias de qualquer espécie, deixando os ditos terrenos completamente limpos, de acordo com as instruções do serviço de fiscalização.
 
-ARTIGO DÉCIMO SÉTIMO
-
-Ocupação de terrenos suplementares
+###### ARTIGO DÉCIMO SÉTIMO — Ocupação de terrenos suplementares
 
 A Adjudicatária tem a liberdade de fazer os seus próprios acordos, à sua custa, para a ocupação e uso temporário de outros terrenos além dos que lhe tenham sido facultados pelo Governo nos termos do artigo décimo sexto.
 
-ARTIGO DÉCIMO OITAVO
-
-Patentes
+###### ARTIGO DÉCIMO OITAVO — Patentes
 
 A Adjudicatária indemnizará e ilibará o Governo de quaisquer responsabilidades pela infracção de quaisquer direitos de patente, de projecto, de marcas, de nomes ou de outros direitos registados que cubram materiais fornecidos ou trabalho realizado na obra em conformidade com os projectos ou especificações fornecidos pela Adjudicatária.
 
 O Governo indemnizará e ilibará a Adjudicatária de quaisquer responsabilidades pela infracção de direitos de patente, de projecto, de marcas, de nomes ou de outros direitos registados resultantes da aplicação pela Adjudicatária de projectos ou especificações que o Governo lhe tenha fornecido.
 
-ARTIGO DÉCIMO NONO
-
-Responsabilidade da Adjudicatária
+###### ARTIGO DÉCIMO NONO — Responsabilidade da Adjudicatária
 
 A Adjudicatária é inteiramente responsável por quaisquer prejuízos de qualquer natureza causados a terceiros que resultem de negligência ou má actuação sua, das suas associadas ou do seu pessoal.
 
 Igualmente é responsável pelas indemnizações ou reclamações que porventura possam ser feitas ao Governo resultantes das referidas negligência ou má actuação. Se o Governo for demandado judicialmente por terceiros em relação a prejuízos causados por actos da Adjudicatária, esta fica com o direito de se constituir parte assistente no processo respectivo para defender os seus direitos e o Governo tem o direito de chamar à autoria a Adjudicatária.
 
-ARTIGO VIGÉSIMO
-
-Casos de força maior
+###### ARTIGO VIGÉSIMO — Casos de força maior
 
 As expressões força maior ou casos de força maior usadas neste contrato significarão casos previsíveis ou não que comprovadamente afectem a execução deste contrato e que não possam ser evitados por qualquer das partes, tais como:
 
@@ -595,9 +570,7 @@ f) Cinco (5) por cento para aluguer e conservação de equipamento;
 
 g) Vinte e sete (27) por cento para outros produtos, materiais e serviços.
 
-ARTIGO VIGÉSIMO QUARTO
-
-Utilização da marinha mercante portuguesa
+###### ARTIGO VIGÉSIMO QUARTO — Utilização da marinha mercante portuguesa
 
 Na medida do possível, a Adjudicatária considerará a utilização de navios da marinha mercante portuguesa para o transporte de materiais, equipamento e utensílios dos Estados Unidos da América para Portugal, desde que essa utilização seja permitida pelas leis dos Estados Unidos da América, designadamente a «Public Resolution Seventeen-Seventy Third Congress», tal como é aplicada pela Maritime Administration of the United States Department of Commerce, nomeadamente através do Statement of Policy on Public Resolution Seventeen-Seventy Third Congress», de vinte e quatro de Julho de mil novecentos e cinquenta e nove.
 
@@ -613,9 +586,7 @@ Fica entendido que o preço dos fretes a pagar à marinha mercante portuguesa se
 
 Qualquer redução na percentagem dos cinquenta (50) por cento acima referidos resultante de qualquer das razões mencionadas nas alíneas anteriores terá de ser objecto de justificação a apresentar ao serviço de fiscalização, para apreciação.
 
-ARTIGO VIGÉSIMO QUINTO
-
-Pessoal da Adjudicatária
+###### ARTIGO VIGÉSIMO QUINTO — Pessoal da Adjudicatária
 
 A Adjudicatária respeitará toda a legislação e regulamentos portugueses sobre o trabalho, sem prejuízo do disposto no artigo quadragésimo terceiro. O Governo, pelo seu serviço de fiscalização, providenciará no sentido de facilitar todas as autorizações e licenças necessárias a conceder pelas autoridades competentes. Na execução de trabalhos em Portugal a Adjudicatária poderá empregar:
 
@@ -631,15 +602,11 @@ Durante a construção da obra o serviço de fiscalização poderá determinar �
 
 O disposto neste artigo aplica-se igualmente às associadas ou firmas associadas e seus empregados.
 
-ARTIGO VIGÉSIMO SEXTO
-
-Instalações para pessoal
+###### ARTIGO VIGÉSIMO SEXTO — Instalações para pessoal
 
 As instalações que a Adjudicatária tenha de utilizar para o pessoal deverão ter o mínimo de condições higiénicas e de salubridade, por forma a permitirem segurança e conforto adequados e não poderão ser utilizados sem prévia aprovação, cabendo ao serviço de fiscalização fornecer à Adjudicatária todas as indicações que lhe forem necessárias nesta matéria.
 
-ARTIGO VIGÉSIMO SÉTIMO
-
-Prazo de garantia
+###### ARTIGO VIGÉSIMO SÉTIMO — Prazo de garantia
 
 O prazo de garantia da obra relativo aos acessos rodoviários e aos pavimentos da faixa de rodagem sobre o viaduto e a ponte será de doze (12) meses.
 
@@ -649,9 +616,7 @@ A Adjudicatária não é responsável durante o prazo de garantia por quaisquer 
 
 A garantia a que se refere este artigo não inclui trabalho de limpeza, encargos com a iluminação ou substituição de material gasto por uso normal, nem cobre prejuízos causados à obra por terceiros.
 
-ARTIGO VIGÉSIMO OITAVO
-
-Depósito de garantia
+###### ARTIGO VIGÉSIMO OITAVO — Depósito de garantia
 
 No prazo de trinta (30) dias, a contar da notificação da aprovação do projecto definitivo, a Adjudicatária reforçará a garantia bancária que prestou nas condições do concurso para o valor de três (3) por cento do preço da obra, tal como for fixado nos termos do artigo quarto destas condições especiais.
 
@@ -669,17 +634,13 @@ A garantia bancária a que se refere este artigo poderá ser reduzida para dois 
 
 A garantia bancária em vigor à data da aprovação do auto de recepção definitiva da ponte e viaduto será imediatamente restituída à Adjudicatária.
 
-ARTIGO VIGÉSIMO NONO
-
-Depósito de materiais escavados
+###### ARTIGO VIGÉSIMO NONO — Depósito de materiais escavados
 
 O material retirado da escavação das fundações dos pilares, encontros e amarrações será removido pela Adjudicatária para um local onde não dê lugar a assoreamentos prejudiciais à navegação e de acordo com indicações dos serviços de fiscalização. Este material poderá ser lançado no corredor do Tejo, desde que o seja para oeste da directriz da ponte e nunca a menos de trezentos (300) metros da margem sul do rio.
 
 A Adjudicatária indicará no projecto definitivo os locais de depósito dos materiais de escavação que não sejam utilizados na obra.
 
-ARTIGO TRIGÉSIMO
-
-Fiscalização e ensaios dos materiais
+###### ARTIGO TRIGÉSIMO — Fiscalização e ensaios dos materiais
 
 Sempre que o serviço de fiscalização o considere necessário, todos os materiais a empregar ou empregados na obra e todos os trabalhos executados serão submetidos aos ensaios especificados no projecto definitivo, e o encargo com esses ensaios correrá por conta da Adjudicatária.
 
@@ -793,7 +754,7 @@ No julgamento, os árbitros não ficarão sujeitos aos estritos limites impostos
 
 No caso de a parte notificada do pedido de arbitragem não nomear o terceiro e quarto árbitros no prazo estipulado neste artigo, o terceiro e quarto árbitros serão nomeados pelo presidente do Supremo Tribunal Administrativo de Portugal a pedido da parte que recorreu à arbitragem, que desse pedido notificará a outra parte. No caso de os quatro (4) árbitros não chegarem a acordo quanto à nomeação do quinto árbitro, no prazo de trinta (30) dias, a contar da data da nomeação do terceiro e quarto árbitros, o quinto árbitro será nomeado pelo presidente do Supremo Tribunal Administrativo de Portugal de acordo com os seguintes trâmites: a pedido da parte que requereu a arbitragem, o presidente do Supremo Tribunal Administrativo de Portugal entrará em comunicação, no prazo de dez (10) dias, com o presidente do Tribunal Federal Suíço, solicitando-lhe a designação, por escrito, de três (3) pessoas: a) que sejam especialistas na matéria em discussão; b) que não tenham a nacionalidade portuguesa ou americana; e c) que não estejam de maneira alguma relacionadas com a Adjudicatária ou as suas associadas, ou com o Estado ou o Governo de Portugal.
 
-**O presidente do Supremo Tribunal Administrativo de Portugal nomeará uma dessas três (3) pessoas para quinto árbitro.**
+O presidente do Supremo Tribunal Administrativo de Portugal nomeará uma dessas três (3) pessoas para quinto árbitro.
 
 A parte que recorrer à arbitragem adiantará os fundos necessários para o pagamento das despesas com o funcionamento da comissão de arbitragem, conforme pedido pela própria comissão. O total dessas despesas, que incluirá o pagamento dos honorários dos árbitros, será suportado pelas partes de harmonia com o que vier a ser estabelecido na decisão final dos árbitros.
 
@@ -827,9 +788,7 @@ Todas as regras de segurança e suas alterações serão submetidas, por escrito
 
 A Adjudicatária respeitará todas as prescrições das leis e regulamentos portugueses do trabalho que forem aplicáveis.
 
-ARTIGO TRIGÉSIMO SEXTO
-
-Responsabilidade pela obra
+###### ARTIGO TRIGÉSIMO SEXTO — Responsabilidade pela obra
 
 A obra será, desde o princípio da construção, integrada no domínio público para todos os efeitos legais, nos termos da legislação portuguesa e das diferentes condições do contrato.
 
@@ -865,15 +824,11 @@ O Governo poderá transferir os seus direitos e interesses neste contrato para q
 
 3) O Governo dê garantia à Adjudicatária de que continuará totalmente responsável pelo cumprimento das obrigações deste contrato, no caso de a entidade referida não satisfazer essas obrigações.
 
-ARTIGO TRIGÉSIMO NONO
-
-Alterações das leis
+###### ARTIGO TRIGÉSIMO NONO — Alterações das leis
 
 Este contrato é baseado nas leis, decretos, regulamentos e ordens portuguesas em vigor em vinte e sete de Fevereiro de mil novecentos e sessenta. No caso de qualquer alteração das ditas leis, decretos, regulamentos ou ordens, ou se alguma nova lei, decreto, regulamento ou ordem afectar o custo da execução das obras para a Adjudicatária, e se qualquer dessas mudanças ou nova lei, decreto, regulamento ou ordem afectar a execução dos trabalhos pela Adjudicatária, então o Governo, mediante pedido escrito da Adjudicatária, negociará prontamente um justo acerto no preço da obra ou no seu prazo de execução, ou em ambos.
 
-ARTIGO QUADRAGÉSIMO
-
-Utilização dos escudos
+###### ARTIGO QUADRAGÉSIMO — Utilização dos escudos
 
 À Adjudicatária será permitida a livre utilização de todos os escudos que lhe forem pagos nos termos deste contrato durante a execução do trabalho para compra de material e equipamento de origem portuguesa ou para a utilização das indústrias, mão-de-obra e serviços portugueses, bem como a sua utilização e convertibilidade para compras limitadas em outros países europeus, mediante prévia autorização do Governo.
 
@@ -929,6 +884,6 @@ Este contrato está escrito em ... meias folhas de papel, que pelos mencionados 
 
 Foram de tudo testemunhas presentes ..., que com as partes outorgantes vão assinar, depois de este contrato a todos ter sido lido em voz alta, por mim, ..., nomeado para servir de oficial público por despacho de S. Ex.ª o Ministro das Obras Públicas de ... de ... de mil novecentos e sessenta e um, que o fiz escrever e também assino.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/02/04400/01670198.pdf))](https://files.diariodarepublica.pt/1s/1961/02/04400/01670198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/02/04400/01670198.pdf)
 
 Ministério das Obras Públicas, 23 de Fevereiro de 1961. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

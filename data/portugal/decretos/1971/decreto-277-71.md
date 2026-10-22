@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/277-1971-643319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a35b1aa248cce5ef906ace3c58f51d03d8d1e48d51b8406d547d67c7402d8772
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c062ece45b5e6485efd1fd01a561526d8235b67975f92e97110f1e2ef9503895
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:486330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486331:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:00Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +94,11 @@ de 23 de Junho
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, e 15.º do [Decreto n.º 46926](https://diariodarepublica.pt/dr/detalhe/decreto/46926-1966-486331), de 29 de Março de 1966, passam a constituir, respectivamente, os artigos 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, e 16.º do mesmo diploma.
+Artigo 1.º Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, e 15.º do [Decreto n.º 46926](https://diariodarepublica.pt/dr/detalhe/decreto/46926-1966-486331), de 29 de Março de 1966, passam a constituir, respectivamente, os artigos 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, e 16.º do mesmo diploma.
 
-###### Art. 2.º Os artigos 7.º, 8.º, 17.º e 18.º, o n.º 1 do artigo 20.º, os n.os 1 e 2 do artigo 21.º, os artigos 22.º, 29.º, 30.º, 31.º, 32.º, 35.º, e 40.º e as alíneas a) e c) do n.º 1 do artigo 43.º do decreto a que se refere o artigo anterior passam a ter a seguinte redacção:
+Art. 2.º Os artigos 7.º, 8.º, 17.º e 18.º, o n.º 1 do artigo 20.º, os n.os 1 e 2 do artigo 21.º, os artigos 22.º, 29.º, 30.º, 31.º, 32.º, 35.º, e 40.º e as alíneas a) e c) do n.º 1 do artigo 43.º do decreto a que se refere o artigo anterior passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1. A Direcção dos Serviços de Informática compreende:
+Art. 7.º - 1. A Direcção dos Serviços de Informática compreende:
 
 Serviço de coordenação e verificação;
 
@@ -136,7 +144,7 @@ c) Testar, segundo as directivas correspondentes, os programas recebidos do serv
 
 d) Reparar, afinar e conservar o seu equipamento e as máquinas de escritório do Instituto.
 
-###### Art. 8.º - 1. A secretaria é dirigidas por um chefe de repartição e compreende:
+Art. 8.º - 1. A secretaria é dirigidas por um chefe de repartição e compreende:
 
 1.ª Secção - Contabilidade e transgressões;
 
@@ -172,17 +180,17 @@ d) A superintendência na conservação e limpeza das instalações e do mobili�
 
 ...
 
-###### Art. 17.º Além das funções que lhes cabem nos termos dos artigos anteriores, os diversos serviços do Instituto executarão ainda aquelas de que forem superiormente incumbidos.
+Art. 17.º Além das funções que lhes cabem nos termos dos artigos anteriores, os diversos serviços do Instituto executarão ainda aquelas de que forem superiormente incumbidos.
 
-###### Art. 18.º O pessoal permanente e o contratado nos termos do artigo 31.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330) poderão ser utilizados na realização de recenseamentos, inquéritos e outros trabalhos estatísticos, fixando-se por despacho ministerial, sob proposta do director, o pessoal a utilizar e os respectivos horários de trabalho.
-
-...
-
-###### Art. 20.º - 1. O pessoal permanente, com excepção dos escriturários-dactilógrafos, telefonistas e pessoal auxiliar, pode ser transferido dos serviços centrais para as delegações ou inversamente, ou de uma para outra delegação, a seu pedido ou por conveniência de serviço.
+Art. 18.º O pessoal permanente e o contratado nos termos do artigo 31.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330) poderão ser utilizados na realização de recenseamentos, inquéritos e outros trabalhos estatísticos, fixando-se por despacho ministerial, sob proposta do director, o pessoal a utilizar e os respectivos horários de trabalho.
 
 ...
 
-###### Art. 21.º - 1. Serão providos por escolha:
+Art. 20.º - 1. O pessoal permanente, com excepção dos escriturários-dactilógrafos, telefonistas e pessoal auxiliar, pode ser transferido dos serviços centrais para as delegações ou inversamente, ou de uma para outra delegação, a seu pedido ou por conveniência de serviço.
+
+...
+
+Art. 21.º - 1. Serão providos por escolha:
 
 a) O lugar de director, de entre o subdirector, os directores de serviços, os directores de serviços-adjuntos, o analista-chefe, os técnicos estatísticos-chefes e os chefes de repartição, ou em indivíduo habilitado com curso superior e de reconhecida competência;
 
@@ -200,11 +208,11 @@ f) Os lugares de técnico estatístico de 1.ª e de 2.ª classes, de entre, resp
 
 ...
 
-###### Art. 22.º Os lugares de técnico estatístico de 3.ª classe serão providos por concurso documental, a que poderão concorrer indivíduos habilitados com os cursos superiores adequados aos serviços, a indicar nos avisos de abertura.
+Art. 22.º Os lugares de técnico estatístico de 3.ª classe serão providos por concurso documental, a que poderão concorrer indivíduos habilitados com os cursos superiores adequados aos serviços, a indicar nos avisos de abertura.
 
 ...
 
-###### Art. 29.º Serão providos por escolha:
+Art. 29.º Serão providos por escolha:
 
 a) O lugar de analista-chefe, de entre o programador principal e os analistas de multiprogramação;
 
@@ -222,25 +230,25 @@ g) Os lugares de operador-chefe e primeiro-operador e segundo-operador, respecti
 
 h) Os lugares de primeiro-mecanógrafo, primeiro-mecanógrafo-adjunto, segundo-mecanógrafo, segundo-mecanógrafo-adjunto, terceiro-mecanógrafo e terceiro-mecanógrafo-adjunto, respectivamente, de entre os primeiros-mecanógrafos-adjuntos, os segundo-mecanógrafos, os segundos-mecanógrafos-adjuntos, os terceiros-mecanógrafos. os terceiros-mecanógrafos-adjuntos e os terceiros-mecanógrafos auxiliares, habilitados com os cursos a que se refere a alínea c) do n.º 1 do artigo 43.º
 
-###### Art. 30.º Se os lugares a que se refere o artigo anterior não puderem ser providos nos termos nele previstos, por não existirem funcionários nas condições exigidas, poderão ser providos em indivíduos estranhos ao quadro, de reconhecida competência e que satisfaçam as condições da lei geral para provimento nas respectivas categorias.
+Art. 30.º Se os lugares a que se refere o artigo anterior não puderem ser providos nos termos nele previstos, por não existirem funcionários nas condições exigidas, poderão ser providos em indivíduos estranhos ao quadro, de reconhecida competência e que satisfaçam as condições da lei geral para provimento nas respectivas categorias.
 
-###### Art. 31.º - 1. Os lugares de terceiro-mecanógrafo auxiliar e de terceiro-operador serão providos, por escolha, em indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus, o curso industrial, o curso comercial ou outras habilitações equivalentes.
+Art. 31.º - 1. Os lugares de terceiro-mecanógrafo auxiliar e de terceiro-operador serão providos, por escolha, em indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus, o curso industrial, o curso comercial ou outras habilitações equivalentes.
 
 2. Os provimentos a que se refere o número anterior serão feitos, sempre que possível, em indivíduos que possuam também a preparação correspondente às funções a desempenhar, comprovada por documento emitido por entidade considerada idónea.
 
-###### Art. 32.º Os lugares de mecânico principal e mecânico são providos, respectivamente, por promoção do mecânico ou de entre indivíduos estranhos ao quadro e de aptidão reconhecida para o desempenho das suas funções ou por escolha entre os ajudantes de mecânico.
+Art. 32.º Os lugares de mecânico principal e mecânico são providos, respectivamente, por promoção do mecânico ou de entre indivíduos estranhos ao quadro e de aptidão reconhecida para o desempenho das suas funções ou por escolha entre os ajudantes de mecânico.
 
 ...
 
-###### Art. 35.º O pessoal a contratar nos termos do artigo 31.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), de 29 de Março de 1966, será recrutado por escolha, de entre os indivíduos de idade não inferior a 18 anos e com as habilitações exigidas pela lei geral.
+Art. 35.º O pessoal a contratar nos termos do artigo 31.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), de 29 de Março de 1966, será recrutado por escolha, de entre os indivíduos de idade não inferior a 18 anos e com as habilitações exigidas pela lei geral.
 
 ...
 
-###### Art. 40.º Aos directores de serviço e chefes de repartição, dos serviços centrais ou das delegações, que colaborem no Boletim Mensal do Instituto ou da delegação será atribuída, por essa colaboração, a gratificação mensal de 1000$00.
+Art. 40.º Aos directores de serviço e chefes de repartição, dos serviços centrais ou das delegações, que colaborem no Boletim Mensal do Instituto ou da delegação será atribuída, por essa colaboração, a gratificação mensal de 1000$00.
 
 ...
 
-###### Art. 43.º - 1. ...
+Art. 43.º - 1. ...
 
 ...
 
@@ -254,8 +262,8 @@ c) Cursos de divulgação e preparação informática destinados a ministrar ao 
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Junho de 1971.**
+Promulgado em 16 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fff528005b0a7ce89eebacb481c741063dbaf9e9e25762baba23131eb87c02e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 737830ff3cb345da873d3dae701aea3691fb4cf713892b113afc5bf7cb6d7c61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arborização
+- Comissão Consultiva
+- Conselho Administrativo
+- Definição de Competências
+- Exploração Florestal
+- Ministro da Economia
+- Ministro das Finanças
+- Presidente
+- Proteção da Floresta
+- Recursos Hídricos
+- Secretário de Estado da Agricultura
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:421624:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421624:por
+  label: "Reduzidos para dois anos, o prazo a que se refere o art. 11º do presente diploma, pelo DEC LEI.367/73.20.07.1973.MECO,\
+    \ DG.IS [169] de 20.07.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1973-421624
+  date: '1973-07-20'
+- type: cites
+  target: pt:dre:218084:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:24Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +155,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É considerada de utilidade pública urgente a arborização com fins produtivos dos terrenos cuja capacidade de uso seja predominantemente florestal, particularmente nos casos onde importe assegurar a fixação e conservação dos solos.
+Artigo 1.º É considerada de utilidade pública urgente a arborização com fins produtivos dos terrenos cuja capacidade de uso seja predominantemente florestal, particularmente nos casos onde importe assegurar a fixação e conservação dos solos.
 
-###### Art. 2.º A arborização de tais terrenos poderá ser auxiliada ou executada pelo Fundo de Fomento Florestal e Aquícola nos termos do presente diploma.
+Art. 2.º A arborização de tais terrenos poderá ser auxiliada ou executada pelo Fundo de Fomento Florestal e Aquícola nos termos do presente diploma.
 
-###### Art. 3.º Para auxiliar a execução dos objectivos deste diploma compete ao Fundo de Fomento Florestal e Aquícola:
+Art. 3.º Para auxiliar a execução dos objectivos deste diploma compete ao Fundo de Fomento Florestal e Aquícola:
 
 a) Promover, apoiar e executar todas as operações necessárias à arborização dos terrenos referidos no artigo 1.º sempre que se venha a exercer a acção do Estado;
 
@@ -145,13 +167,13 @@ b) Conceder subsídios - em espécies, serviços e dinheiro - e empréstimos aos
 
 § único. Este auxílio poderá ser também concedido às sociedades de fomento florestal legalmente constituídas e em que os proprietários participem ou a quem arrendem os seus terrenos.
 
-###### Art. 4.º O Fundo de Fomento Florestal e Aquícola goza de todos os direitos necessários à realização dos seus fins, podendo, nomeadamente e nos termos da legislação aplicável:
+Art. 4.º O Fundo de Fomento Florestal e Aquícola goza de todos os direitos necessários à realização dos seus fins, podendo, nomeadamente e nos termos da legislação aplicável:
 
 a) Adquirir, a título gratuito ou oneroso, tomar e dar de arrendamento, administrar e alienar terrenos, edifícios, bens móveis e produtos de donativos ou subsídios;
 
 b) Praticar todos os actos de gestão e administração do seu património nos termos do presente diploma e seus regulamentos.
 
-###### Art. 5.º São órgãos do Fundo de Fomento Florestal e Aquícola o conselho administrativo e a comissão consultiva.
+Art. 5.º São órgãos do Fundo de Fomento Florestal e Aquícola o conselho administrativo e a comissão consultiva.
 
 § 1.º O conselho administrativo será constituído por um presidente e três vogais, representantes, respectivamente, do Ministério das Finanças, da Direcção-Geral dos Serviços Florestais e Aquícolas e do Fundo de Melhoramentos Agrícolas.
 
@@ -173,7 +195,7 @@ e) Um representante da Corporação da Indústria.
 
 § 4.º A orgânica e o funcionamento do Fundo e dos seus órgãos serão regulados em diploma referendado pelo Ministro das Finanças.
 
-###### Art. 6.º Constituem recursos financeiros do Fundo:
+Art. 6.º Constituem recursos financeiros do Fundo:
 
 a) As receitas previstas em diplomas anteriores;
 
@@ -181,31 +203,31 @@ b) As dotações ou subsídios que lhe sejam atribuídos quer no orçamento gera
 
 c) Quaisquer outros recursos financeiros que por lei, contrato ou outro título legítimo lhe sejam facultados ou atribuídos.
 
-###### Art. 7.º As arborizações fomentadas pelo Fundo serão normalmente realizadas de acordo com projectos enquadrados em planos de arborização, elaborados pelos respectivos serviços ou por outras entidades técnicas para o efeito contratadas.
+Art. 7.º As arborizações fomentadas pelo Fundo serão normalmente realizadas de acordo com projectos enquadrados em planos de arborização, elaborados pelos respectivos serviços ou por outras entidades técnicas para o efeito contratadas.
 
 § único. O Fundo poderá auxiliar a arborização de terrenos de capacidade de uso florestal não incluídos em zonas servidas por planos de arborização, após a aprovação pelo Fundo dos correspondentes projectos, elaborados por engenheiros silvicultores para o efeito nele inscritos.
 
-###### Art. 8.º Os planos de arborização por zonas serão elaborados em íntima colaboração com os órgãos de planeamento nacional e regional, existentes ou a criar, com os órgãos consultivos da agricultura regional e segundo as normas gerais da política florestal.
+Art. 8.º Os planos de arborização por zonas serão elaborados em íntima colaboração com os órgãos de planeamento nacional e regional, existentes ou a criar, com os órgãos consultivos da agricultura regional e segundo as normas gerais da política florestal.
 
-###### Art. 9.º Os proprietários dos terrenos arborizados ao abrigo do presente decreto-lei poderão requerer a isenção de contribuição predial rústica por um prazo de vinte anos, nos termos dos artigos 12.º, n.º 4.º, e 16.º do Código da Contribuição Predial.
+Art. 9.º Os proprietários dos terrenos arborizados ao abrigo do presente decreto-lei poderão requerer a isenção de contribuição predial rústica por um prazo de vinte anos, nos termos dos artigos 12.º, n.º 4.º, e 16.º do Código da Contribuição Predial.
 
-###### Art. 10.º Os terrenos arborizados ao abrigo do presente decreto-lei que se encontrem em zonas servidas por planos de arborização serão submetidos ao regime florestal parcial obrigatório, por toda a vigência do contrato de empréstimo firmado entre o proprietário, ou o possuidor ou representante a qualquer título, e o Fundo de Fomento Florestal e Aquícola, durante a qual este Fundo mantém direitos de orientação técnica e de fiscalização das diferentes operações de cultura e de exploração.
+Art. 10.º Os terrenos arborizados ao abrigo do presente decreto-lei que se encontrem em zonas servidas por planos de arborização serão submetidos ao regime florestal parcial obrigatório, por toda a vigência do contrato de empréstimo firmado entre o proprietário, ou o possuidor ou representante a qualquer título, e o Fundo de Fomento Florestal e Aquícola, durante a qual este Fundo mantém direitos de orientação técnica e de fiscalização das diferentes operações de cultura e de exploração.
 
 § único. Os terrenos arborizados ao abrigo do disposto no § único do artigo 3.º poderão beneficiar desde logo da concessão do regime florestal parcial facultativo.
 
-###### Art. 11.º Os proprietários ou possuidores a qualquer título de terrenos de capacidade de uso florestal abrangidos por um plano de arborização poderão, durante os primeiros quatro anos após a aprovação deste, proceder directamente aos trabalhos de arborização, beneficiando das subvenções e empréstimos concedidos pelo Fundo.
+Art. 11.º Os proprietários ou possuidores a qualquer título de terrenos de capacidade de uso florestal abrangidos por um plano de arborização poderão, durante os primeiros quatro anos após a aprovação deste, proceder directamente aos trabalhos de arborização, beneficiando das subvenções e empréstimos concedidos pelo Fundo.
 
-###### Art. 12.º Os empréstimos concedidos pelo Fundo de Fomento Florestal e Aquícola ou as despesas por este realizadas nos trabalhos executados directamente são reembolsáveis num período máximo de 30 anos, mediante amortizações vencidas aquando da realização das produções. A quota de amortização será de 50 por cento dos rendimentos brutos auferidos nas matas constituídas ao abrigo deste diploma, até completo reembolso.
+Art. 12.º Os empréstimos concedidos pelo Fundo de Fomento Florestal e Aquícola ou as despesas por este realizadas nos trabalhos executados directamente são reembolsáveis num período máximo de 30 anos, mediante amortizações vencidas aquando da realização das produções. A quota de amortização será de 50 por cento dos rendimentos brutos auferidos nas matas constituídas ao abrigo deste diploma, até completo reembolso.
 
-###### Art. 13.º A arborização dos terrenos carecidos de beneficiação pela cultura florestal por motivos de fixação e conservação do solo poderá ser realizada, estimulada, orientada ou fiscalizada pelo Fundo de Fomento Florestal e Aquícola na medida em que os proprietários ou possuidores a qualquer título o requeiram ou o Secretário de Estado da Agricultura assim o determine.
+Art. 13.º A arborização dos terrenos carecidos de beneficiação pela cultura florestal por motivos de fixação e conservação do solo poderá ser realizada, estimulada, orientada ou fiscalizada pelo Fundo de Fomento Florestal e Aquícola na medida em que os proprietários ou possuidores a qualquer título o requeiram ou o Secretário de Estado da Agricultura assim o determine.
 
-###### Art. 14.º Para efeitos do pronto cumprimento do que se contém neste diploma, no regulamento do Fundo será prevista a coordenação dos meios humanos e materiais dependentes dos diferentes serviços e organismos do Ministério da Economia, em particular quanto a técnicos, pessoal auxiliar, viveiros e estudos.
+Art. 14.º Para efeitos do pronto cumprimento do que se contém neste diploma, no regulamento do Fundo será prevista a coordenação dos meios humanos e materiais dependentes dos diferentes serviços e organismos do Ministério da Economia, em particular quanto a técnicos, pessoal auxiliar, viveiros e estudos.
 
-###### Art. 15.º Poderão ser abrangidos no âmbito da acção do Fundo de Fomento Florestal e Aquícola os trabalhos decorrentes do ordenamento silvo-pastoril do património particular.
+Art. 15.º Poderão ser abrangidos no âmbito da acção do Fundo de Fomento Florestal e Aquícola os trabalhos decorrentes do ordenamento silvo-pastoril do património particular.
 
-###### Art. 16.º O Fundo de Fomento Florestal e Aquícola poderá contratar ou assalariar pessoal mediante despacho do Secretário de Estado da Agricultura e o acordo, no primeiro caso, do Ministro das Finanças.
+Art. 16.º O Fundo de Fomento Florestal e Aquícola poderá contratar ou assalariar pessoal mediante despacho do Secretário de Estado da Agricultura e o acordo, no primeiro caso, do Ministro das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
 

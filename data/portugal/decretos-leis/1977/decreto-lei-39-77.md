@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1977-138516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1270e72290f5d112cb00d09579a11ea5d5d5b8fe3624ada2c31d42b847fa78fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfc672df1e002a965b06b975ae49d294f9fa0536929fec80384f28bc50846f0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Empresa Privada
+- Empresa Pública
+- Funcionário Público
+- Gestor Público
+- Proteção Social
 relationships:
 - type: amended_by
   target: pt:dre:298017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298017:por
+  label: "Alterado o art. 1º pelo DEC LEI.162/78.06.07.1978.MFP, DR.IS [153] de 06.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-1978-298017
+  date: '1978-07-06'
+- type: cites
+  target: pt:dre:216145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:24Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +128,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os funcionários públicos e administrativos que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm os direitos adquiridos como beneficiários da Assistência na Doença aos Servidores Civis do Estado, sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.
+Artigo 1.º Os funcionários públicos e administrativos que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm os direitos adquiridos como beneficiários da Assistência na Doença aos Servidores Civis do Estado, sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.
 
-###### Art. 2.º Os encargos resultantes da opção a que se refere o artigo 1.º são liquidados e pagos nas mesmas condições e através das mesmas entidades que procediam a essa liquidação e pagamento na situação anterior à designação dos funcionários para o desempenho dos cargos referidos no mesmo artigo.
+Art. 2.º Os encargos resultantes da opção a que se refere o artigo 1.º são liquidados e pagos nas mesmas condições e através das mesmas entidades que procediam a essa liquidação e pagamento na situação anterior à designação dos funcionários para o desempenho dos cargos referidos no mesmo artigo.
 
-###### Art. 3.º A qualidade de beneficiário da ADSE não se manterá, porém, quando o funcionário, em comissão de serviço, celebrar contrato com o IPE, como gestor público profissional, nos termos do artigo 14.º do [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro.
+Art. 3.º A qualidade de beneficiário da ADSE não se manterá, porém, quando o funcionário, em comissão de serviço, celebrar contrato com o IPE, como gestor público profissional, nos termos do artigo 14.º do [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 19 de Janeiro de 1977.**
+Promulgado em 19 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

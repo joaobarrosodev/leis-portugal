@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09400/07950795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1980-681418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f898c556bd8dec62fa73f2822ca7cea39cc6ffb45c170798fdc4dd58e427b40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bad47f2f20b6fd5f5541d2d52198123e7e689f595078ab17dbb0daeff5665f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Económica
+- Definição de Competências
+- Forças Armadas
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:282136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513660:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:47Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +121,13 @@ Considerando ainda que, por força do n.º 4 do artigo 30.º do [Decreto-Lei n.�
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, passa a ter a seguinte redacção:
 
-###### Art. 10.º A Caixa Económica das Forças Armadas tem por objectivo efectuar, com baixos juros, operações de constituição de depósitos, de concessão de empréstimos e de financiamento de instalações de carácter eminentemente social e ainda operações de recepção e administração de legados e doações destinados especificamente ao financiamento de complexos sociais, incluindo as importâncias destinadas a servir de contrapartida ao uso vitalício de alojamentos de natureza social, nos termos do respectivo Regulamento.
+Art. 10.º A Caixa Económica das Forças Armadas tem por objectivo efectuar, com baixos juros, operações de constituição de depósitos, de concessão de empréstimos e de financiamento de instalações de carácter eminentemente social e ainda operações de recepção e administração de legados e doações destinados especificamente ao financiamento de complexos sociais, incluindo as importâncias destinadas a servir de contrapartida ao uso vitalício de alojamentos de natureza social, nos termos do respectivo Regulamento.
 
-###### Art. 2.º O artigo 4.º do Regulamento da Caixa Económica das Forças Armadas, aprovado pela [Portaria n.º 17609](https://diariodarepublica.pt/dr/detalhe/portaria/17609-1960-282136), de 26 de Fevereiro de 1960, e alterado pela [Portaria n.º 18003](https://diariodarepublica.pt/dr/detalhe/portaria/18003-1960-513660), de 15 de Outubro de 1960, passa a ter a seguinte redacção:
+Art. 2.º O artigo 4.º do Regulamento da Caixa Económica das Forças Armadas, aprovado pela [Portaria n.º 17609](https://diariodarepublica.pt/dr/detalhe/portaria/17609-1960-282136), de 26 de Fevereiro de 1960, e alterado pela [Portaria n.º 18003](https://diariodarepublica.pt/dr/detalhe/portaria/18003-1960-513660), de 15 de Outubro de 1960, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - À Caixa Económica das Forças Armadas competem as seguintes funções, no âmbito das forças armadas:
+Art. 4.º - 1 - À Caixa Económica das Forças Armadas competem as seguintes funções, no âmbito das forças armadas:
 
 a) Promoção com baixos juros de:
 
@@ -120,8 +145,8 @@ b) Recepção e administração de legados ou doações, quer dos beneficiários
 
 Visto e aprovado em Conselho da Revolução em 1 de Abril de 1980.
 
-**Promulgado em 10 de Abril de 1980.**
+Promulgado em 10 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

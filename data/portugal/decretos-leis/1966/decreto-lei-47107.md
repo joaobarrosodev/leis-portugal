@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/16600/12801282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47107-1966-475323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 331117f12d344be5dcec177a51900492c3d5ba37e1601e215f172259610c2131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0230295810d672d26fc2d9d78804be59f27e1417d4c5e42598ed92e9f6d2d868
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Autónoma das Estradas
+- Multa
+- Ponte Salazar
+- Portagem
 relationships:
 - type: amended_by
   target: pt:dre:599909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções, não causais de acidentes, contidas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA,\
+    \ DG.IS [294] de 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: amended_by
+  target: pt:dre:139921:por
+  label: "Alterado o art. 4º pelo DEC LEI.145/77.09.04.1977.MOP, DR.IS [83] de 09.04.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1977-139921
+  date: '1977-04-09'
+- type: amended_by
+  target: pt:dre:457975:por
+  label: "Dada nova redacção ao art. 4º do prsente diploma, com a redacção constante do Dec Lei 145/77 de 09-Abr, pelo DEC\
+    \ LEI.540/80.08.11.1980.MHOP, DR.IS [259] de 08.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/540-1980-457975
+  date: '1980-11-08'
+- type: amended_by
+  target: pt:dre:573900:por
+  label: "Alterado o artigo 3º pelo DEC LEI.117/81.15.05.1981.MHOP, DR.IS [111] de 15.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1981-573900
+  date: '1981-05-15'
+- type: amended_by
+  target: pt:dre:442945:por
+  label: "Alteradas as classes de veículos a que se refere o art. 2º, pelo DEC LEI.365/83.28.09.1983.MFP, DR.IS [224] de 28.09.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1983-442945
+  date: '1983-09-28'
+- type: cites
+  target: pt:dre:475933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599909:por
+  label: "Revogado pelo DEC LEI.265-A/92.26.11.1992.MOPTC, DR.IS-A [[274]SUPL] de 26.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-a-1992-599909
+  date: '1992-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:40Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +147,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É estabelecido o regime do pagamento de portagem pela utilização da ponte sobre o Tejo a partir das 0 horas do dia 8 de Agosto próximo, de harmonia com as disposições do presente diploma.
+Artigo 1.º É estabelecido o regime do pagamento de portagem pela utilização da ponte sobre o Tejo a partir das 0 horas do dia 8 de Agosto próximo, de harmonia com as disposições do presente diploma.
 
 § único. As receitas da exploração da ponte destinam-se a fazer face às despesas da sua conservação e exploração, à conservação da parte dos acessos que ficar a cargo do Estado e aos encargos de ordem financeira assumidos com a construção da obra.
 
-###### Art. 2.º Para efeito da aplicação das portagens considerar-se-ão as seguintes classes de veículos:
+Art. 2.º Para efeito da aplicação das portagens considerar-se-ão as seguintes classes de veículos:
 
 Classe 1: veículos automóveis de passageiros com o comprimento inferior a 3,30 m; motociclos simples, motociclos com carro lateral e atrelados para bagagens.
 
@@ -130,7 +175,7 @@ Classe 10: veículos isentos.
 
 § único. Em face do que a experiência revelar durante a exploração da ponte, podem ser introduzidas alterações a esta classificação, nos termos e pela via definida no § 3.º do artigo 3.º
 
-###### Art. 3.º Serão as seguintes as portagens a cobrar por cada travessia da ponte:
+Art. 3.º Serão as seguintes as portagens a cobrar por cada travessia da ponte:
 
 Classe do veículo:
 
@@ -162,13 +207,13 @@ Classe 9 ... 100$00
 
 § 4.º A falta de pagamento da importância das portagens devidas de acordo com a tabela aprovada nos termos do presente decreto-lei será punida com multa igual a vinte vezes o valor da respectiva portagem e na sua cobrança aplicar-se-á o disposto nos n.os 1 e 2 do artigo 70.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, não cabendo aos autuantes qualquer participação nas multas cobradas.
 
-###### Art. 4.º O pagamento das portagens devidas pela passagem da ponte dá direito aos usuários a assistência dada pelo pessoal da exploração da ponte em situações de emergência decorrentes de avaria ou acidente, incluindo o reboque gratuito dos veículos para os extremos da ponte.
+Art. 4.º O pagamento das portagens devidas pela passagem da ponte dá direito aos usuários a assistência dada pelo pessoal da exploração da ponte em situações de emergência decorrentes de avaria ou acidente, incluindo o reboque gratuito dos veículos para os extremos da ponte.
 
 § 1.º Sòmente não será gratuita a assistência necessária no caso de a paragem na ponte, viaduto norte e praça de portagem ser devida a falta de carburante; neste caso os usuários pagarão a importância de 200$00, ficando com direito ao fornecimento de 10 l de carburante, pagamento de que será passado o respectivo recibo.
 
 § 2.º O não pagamento da prestação deste serviço no momento da sua utilização não implicará qualquer procedimento, se ele for efectuado dentro de três dias na sede do Serviço de Exploração. Findo este prazo, será promovida a execução fiscal do usuário que utilizou o serviço, com o agravamento de 50 por cento.
 
-###### Art. 5.º São isentos de pagamento de portagem os veículos automóveis pertencentes às seguintes entidades:
+Art. 5.º São isentos de pagamento de portagem os veículos automóveis pertencentes às seguintes entidades:
 
 Presidência da República;
 
@@ -204,28 +249,28 @@ Veículos utilizados pela organização encarregada da exploração da ponte e r
 
 § único. A entidade que tenha a seu cargo a exploração da ponte organizará o sistema de contrôle das isenções, que terá de ser aprovado por despacho do Ministro das Obras Públicas.
 
-###### Art. 6.º Por decreto dos Ministérios das Obras Públicas e das Comunicações serão fixadas as regras de trânsito a observar na utilização da ponte e suas auto-estradas de acesso.
+Art. 6.º Por decreto dos Ministérios das Obras Públicas e das Comunicações serão fixadas as regras de trânsito a observar na utilização da ponte e suas auto-estradas de acesso.
 
-###### Art. 7.º O Ministro das Obras Públicas promoverá a publicação do regulamento necessário à boa execução deste decreto-lei na parte respeitante à exploração da ponte.
+Art. 7.º O Ministro das Obras Públicas promoverá a publicação do regulamento necessário à boa execução deste decreto-lei na parte respeitante à exploração da ponte.
 
-###### Art. 8.º Enquanto não estiver definitivamente fixado o regime de exploração da Ponte, fica o Gabinete da Ponte sobre o Tejo com o encargo de assegurar a sua exploração, cobrando as portagens, as taxas por prestação de serviço e as multas previstas no regulamento do trânsito na ponte a que se refere o artigo anterior.
+Art. 8.º Enquanto não estiver definitivamente fixado o regime de exploração da Ponte, fica o Gabinete da Ponte sobre o Tejo com o encargo de assegurar a sua exploração, cobrando as portagens, as taxas por prestação de serviço e as multas previstas no regulamento do trânsito na ponte a que se refere o artigo anterior.
 
-###### Art. 9.º As receitas das portagens cobradas serão integralmente depositadas nos cofres do Tesouro, dentro dos prazos legais, depois de ter sido dado cumprimento ao disposto no § único do artigo 2.º do [Decreto-Lei n.º 46994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46994-1966-475933), de 5 de Maio de 1966.
+Art. 9.º As receitas das portagens cobradas serão integralmente depositadas nos cofres do Tesouro, dentro dos prazos legais, depois de ter sido dado cumprimento ao disposto no § único do artigo 2.º do [Decreto-Lei n.º 46994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46994-1966-475933), de 5 de Maio de 1966.
 
 § 1.º As receitas devidas à prestação de serviços a que se refere o § 1.º do artigo 4.º, bem como as provenientes de serviços que o Gabinete seja autorizado a prestar, de acordo com a tabela a aprovar pelo Ministro das Obras Públicas, e ainda as receitas cobradas nos termos do § 4.º do artigo 3.º e do § 2.º do artigo 4.º, reverterão a favor do Gabinete da Ponte sobre o Tejo para fazer face aos encargos respectivos e serão depositadas na Caixa Geral do Depósitos, Crédito e Previdência.
 
 § 2.º A importância das multas cobradas por transgressão às regras de trânsito constituirá receita geral do Estado e terá o destino previsto no n.º 3.º do artigo 70.º do Código da Estrada.
 
-###### Art. 10.º O Gabinete da Ponte sobre o Tejo contabilizará as receitas cobradas e remeterá mensalmente à Repartição do Tesouro da Direcção-Geral da Fazenda Pública os mapas das receitas das portagens acompanhados dos duplicados das guias de depósito.
+Art. 10.º O Gabinete da Ponte sobre o Tejo contabilizará as receitas cobradas e remeterá mensalmente à Repartição do Tesouro da Direcção-Geral da Fazenda Pública os mapas das receitas das portagens acompanhados dos duplicados das guias de depósito.
 
-###### Art. 11.º O pessoal técnico do Gabinete da Ponte sobre o Tejo empregado nos serviços de exploração no exercício das suas funções será, para todos os efeitos legais, agente da autoridade e terá, portanto, competência para o levantamento de autos de notícia sobre as transgressões à referida cobrança e demais normas aplicadas ao trânsito da ponte e seus acessos, fazendo aqueles autos fé em juízo até prova em contrário. Nesses autos será dispensada a indicação de testemunhas sempre que as circunstâncias da verificação da infracção não permitam indicá-las.
+Art. 11.º O pessoal técnico do Gabinete da Ponte sobre o Tejo empregado nos serviços de exploração no exercício das suas funções será, para todos os efeitos legais, agente da autoridade e terá, portanto, competência para o levantamento de autos de notícia sobre as transgressões à referida cobrança e demais normas aplicadas ao trânsito da ponte e seus acessos, fazendo aqueles autos fé em juízo até prova em contrário. Nesses autos será dispensada a indicação de testemunhas sempre que as circunstâncias da verificação da infracção não permitam indicá-las.
 
 § único. O pessoal de serviço do Gabinete da Ponte sobre o Tejo tem direito ao fornecimento de fardamentos de acordo com os modelos e regras a aprovar pelo Ministro das Obras Públicas.
 
-###### Art. 12.º Para fazer face aos encargos do Gabinete da Ponte sobre o Tejo com a montagem dos serviços de exploração da ponte será inscrita no Orçamento Geral do Estado a seu favor, no próximo ano de 1967, a verba de 8000000$00. Para fazer face aos encargos com a conservação, exploração e manutenção e assistência aos usuários da ponte será inscrita anualmente, a partir de 1967, inclusive, a dotação indispensável.
+Art. 12.º Para fazer face aos encargos do Gabinete da Ponte sobre o Tejo com a montagem dos serviços de exploração da ponte será inscrita no Orçamento Geral do Estado a seu favor, no próximo ano de 1967, a verba de 8000000$00. Para fazer face aos encargos com a conservação, exploração e manutenção e assistência aos usuários da ponte será inscrita anualmente, a partir de 1967, inclusive, a dotação indispensável.
 
-###### Art. 13.º O Gabinete da Ponte sobre o Tejo organizará no fim do ano económico o relatório da exploração da ponte e preparará o orçamento para o funcionamento dos respectivos serviços.
+Art. 13.º O Gabinete da Ponte sobre o Tejo organizará no fim do ano económico o relatório da exploração da ponte e preparará o orçamento para o funcionamento dos respectivos serviços.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

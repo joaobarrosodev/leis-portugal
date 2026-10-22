@@ -49,36 +49,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46966-1966-487563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3785fcf92e7b641ba91072c4f31f60fbf5f3ae4925b9805d9809b734ea782dbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8909d3ce1e929a0fcc5019c344a346d8160d5352318e26ef2446607cf7807197
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- EFTA
+- Importação
+- Lista
+- Mercadoria
+- Pauta dos Direitos de Importação
+relationships:
+- type: cites
+  target: pt:dre:172907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514597:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:50Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +107,9 @@ Tendo em vista as disposições da Convenção que instituiu a Associação Euro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As taxas pautais indicadas no [Decreto-Lei n.º 46965](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46965-1966-487562), de hoje, devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as correspondentes taxas resultantes da aplicação do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
+Artigo 1.º As taxas pautais indicadas no [Decreto-Lei n.º 46965](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46965-1966-487562), de hoje, devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as correspondentes taxas resultantes da aplicação do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
 
-###### Art. 2.º Em relação com os novos artigos pautais 29.44.01 a 29.44.04 e 30.03.02 da pauta de importação, e de acordo com o disposto na alínea c) do parágrafo 6.º do anexo G à Convenção de Estocolmo, de 4 de Janeiro de 1960, o programa das reduções a efectuar até 30 de Junho de 1972 será o seguinte:
+Art. 2.º Em relação com os novos artigos pautais 29.44.01 a 29.44.04 e 30.03.02 da pauta de importação, e de acordo com o disposto na alínea c) do parágrafo 6.º do anexo G à Convenção de Estocolmo, de 4 de Janeiro de 1960, o programa das reduções a efectuar até 30 de Junho de 1972 será o seguinte:
 
 Em 30 de Junho de 1966 - redução de 20 por cento;
 
@@ -103,7 +121,7 @@ Em 30 de Junho de 1972 - redução de 10 por cento.
 
 § único. A partir de 1 de Junho de 1973, os 50 por cento restantes serão eliminados por reduções sucessivas e de forma tal que fiquem extintos antes de 1 de Janeiro de 1980.
 
-###### Art. 3.º Na lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, são de introduzir as seguintes alterações:
+Art. 3.º Na lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, são de introduzir as seguintes alterações:
 
 a) Os artigos 28.40.02 a 28.40.07, 29.14.22 e 29.14.23 passam, respectivamente, a artigos 28.40.03 a 28.40.08, 29.14.23 e 29.14.24, com a mesma redacção;
 
@@ -113,8 +131,8 @@ b) São introduzidos os produtos abrangidos pelos seguintes artigos pautais:
 
 29.14.22 - fenilacetato de potássio.
 
-###### Art. 4.º Continuará a aplicar-se o calendário a que se refere a alínea a) do § 4.º do anexo G à Convenção de Estocolmo às taxas dos novos artigos pautais 29.44.05, 30.03.01, 30.03.03 e 30.03.04.
+Art. 4.º Continuará a aplicar-se o calendário a que se refere a alínea a) do § 4.º do anexo G à Convenção de Estocolmo às taxas dos novos artigos pautais 29.44.05, 30.03.01, 30.03.03 e 30.03.04.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

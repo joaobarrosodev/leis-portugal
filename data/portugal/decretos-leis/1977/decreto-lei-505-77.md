@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/505-1977-279456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee8b995bf67b4d28dc8ae3d9777a4b8332b65dcb1f50422138b1c5a1d9a8d97e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42ef545c1150b3bdbd831f4977f7c0ee4326fc0b858425f81781f00fc2341e82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Marinha
+- Militar
+- Quadro Permanente da Armada
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:182013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182013:por
+  label: "Dada nova redacção ao art. 1.º e substituídos os mapas 1 e 3 anexos ao presente diploma, pelo DEC LEI.203/85.26.06.1985.MDN,\
+    \ DR.IS [144] de 26.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1985-182013
+  date: '1985-06-26'
+- type: cites
+  target: pt:dre:408974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466215:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:448946:por
+  label: Retificado o mapa n.º 3 anexo ao presente diploma pelo(a) Declaração - Diário da República n.º 20/1978, Série I de
+    1978-01-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-448946
+  date: '1978-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:30Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +130,9 @@ Nestes termos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os quadros permanentes de sargentos e praças da Armada do activo das classes de artilheiros, electrotécnicos, maquinistas navais, condutores de máquinas, comunicações, radaristas, electricistas, torpedeiros-detectores, manobra, enfermeiros, músicos, abastecimento, mergulhadores, condutores mecânicos de automóveis e taifa são os constantes do mapa n.º 1 anexo ao presente diploma.
+Artigo 1.º Os quadros permanentes de sargentos e praças da Armada do activo das classes de artilheiros, electrotécnicos, maquinistas navais, condutores de máquinas, comunicações, radaristas, electricistas, torpedeiros-detectores, manobra, enfermeiros, músicos, abastecimento, mergulhadores, condutores mecânicos de automóveis e taifa são os constantes do mapa n.º 1 anexo ao presente diploma.
 
-###### Art. 2.º - 1 - Às antigas classes de técnicos de electricidade, técnicos radioelectricistas, radiotelegrafistas, sinaleiros, mestres-clarins e carpinteiros correspondem os efectivos indicados no mapa n.º 2 anexo ao presente diploma para os postos naquele indicados.
+Art. 2.º - 1 - Às antigas classes de técnicos de electricidade, técnicos radioelectricistas, radiotelegrafistas, sinaleiros, mestres-clarins e carpinteiros correspondem os efectivos indicados no mapa n.º 2 anexo ao presente diploma para os postos naquele indicados.
 
 2 - Os efectivos referidos no número anterior são, salvo no caso da classe de carpinteiros, deduzidos, em cada classe e posto, respectivamente, dos fixados no mapa n.º 1 para as classes de electrotécnicos, comunicações e músicos, revertendo para estas à medida que não for possível o preenchimento dos respectivos lugares por pessoal das classes a extinguir.
 
@@ -115,45 +140,45 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 4 - Enquanto permanecer nos quadros do activo pessoal da antiga classe de mestres-clarins, a promoção a sargento-mor da classe dos músicos terá lugar pelo sistema de escolha.
 
-###### Art. 3.º Os efectivos de pessoal em prestação de serviço militar obrigatório das classes referidas no artigo 1.º não figuram no mapa a que aí se alude, mas o seu número não deverá exceder o que constar anualmente do orçamento de despesa da Marinha, sem deixar de ser, todavia, o indispensável para apropriada alimentação dos quadros e satisfação das necessidades do seu completamento.
+Art. 3.º Os efectivos de pessoal em prestação de serviço militar obrigatório das classes referidas no artigo 1.º não figuram no mapa a que aí se alude, mas o seu número não deverá exceder o que constar anualmente do orçamento de despesa da Marinha, sem deixar de ser, todavia, o indispensável para apropriada alimentação dos quadros e satisfação das necessidades do seu completamento.
 
-###### Art. 4.º - 1 - O preenchimento dos novos quadros que constam do mapa n.º 1, na parte que corresponde a aumento dos quadros em vigor à data da aplicação deste diploma, será realizado gradualmente, obedecendo ao escalonamento indicado no mapa n.º 3 e sem prejuízo do que estabelece o número seguinte.
+Art. 4.º - 1 - O preenchimento dos novos quadros que constam do mapa n.º 1, na parte que corresponde a aumento dos quadros em vigor à data da aplicação deste diploma, será realizado gradualmente, obedecendo ao escalonamento indicado no mapa n.º 3 e sem prejuízo do que estabelece o número seguinte.
 
 2 - Por portaria do Chefe do Estado-Maior da Armada, poderão ser reduzidos, em qualquer ano, os quantitativos indicados no mapa a que se refere o número anterior, em qualquer posto e classe, sempre que as admissões nos quadros permanentes se revelarem insuficientes, com compensação no ano ou anos seguintes.
 
 3 - O primeiro movimento dos aumentos constantes no mapa n.º 3 terá lugar em 1 de Julho de 1977, sendo referidos a 1 de Julho de cada ano os aumentos anuais subsequentes.
 
-###### Art. 5.º - 1 - As classes podem ser subdivididas em subclasses, a cada uma das quais corresponderá quadro próprio, por portaria do Chefe do Estado-Maior da Armada, sem prejuízo dos efectivos totais fixados para a classe.
+Art. 5.º - 1 - As classes podem ser subdivididas em subclasses, a cada uma das quais corresponderá quadro próprio, por portaria do Chefe do Estado-Maior da Armada, sem prejuízo dos efectivos totais fixados para a classe.
 
 2 - Tanto as classes como as subclasses poderão, por portaria do Chefe do Estado-Maior da Armada, ser subdivididas em ramos, aos quais não corresponde quadro próprio.
 
-###### Art. 6.º Sem modificação dos números totais fixados para cada posto e do escalonamento previsto no artigo 4.º, poderá o Chefe do Estado-Maior da Armada, por portaria, alterar os efectivos dos quadros de qualquer classe com compensação numa ou mais das restantes.
+Art. 6.º Sem modificação dos números totais fixados para cada posto e do escalonamento previsto no artigo 4.º, poderá o Chefe do Estado-Maior da Armada, por portaria, alterar os efectivos dos quadros de qualquer classe com compensação numa ou mais das restantes.
 
 Visto e aprovado em Conselho da Revolução em 26 de Outubro de 1977.
 
-**Promulgado em 23 de Novembro de 1977.**
+Promulgado em 23 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.
 
 MAPA N.º 1
 
 (A que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf)
 
 MAPA N.º 2
 
 (A que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf)
 
 MAPA N.º 3
 
 (A que se refere o artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf)
 
 NOTAS
 
@@ -165,4 +190,4 @@ NOTAS
 
 4 - A classe dos músicos engloba o pessoal da classe de mestres-clarins, a extinguir nos termos do [Decreto-Lei n.º 698/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/698-1976-408974), de 27 de Setembro, sendo dos seus efectivos deduzidas, em cada posto, as existências nesta última classe até que ela se extinga.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

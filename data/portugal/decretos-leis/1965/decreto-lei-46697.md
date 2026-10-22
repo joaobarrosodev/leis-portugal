@@ -48,36 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46697-1965-507871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d306406500a3921f093f83f55d25367e96ca6411f8640c7f938520c38d7865d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b734a4291032ac89a876836ea1b9ec7d39d6a9213171c10fe606034578f29714
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Serviços Agrícolas
+relationships:
+- type: cites
+  target: pt:dre:251002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:24Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +109,17 @@ Convindo tomar medidas que permitam tornar mais eficientes os serviços a cargo 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O regime previsto no artigo 76.º do [Decreto-Lei n.º 41453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41453-1957-251002), de 23 de Dezembro de 1957, é aplicável, com o acordo prévio dos serviços competentes do Ministério da Educação Nacional, aos regentes agrícolas a que se refere o artigo 14.º do [Decreto-Lei n.º 41381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41381-1957-251611), de 21 de Novembro de 1957.
+Artigo 1.º O regime previsto no artigo 76.º do [Decreto-Lei n.º 41453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41453-1957-251002), de 23 de Dezembro de 1957, é aplicável, com o acordo prévio dos serviços competentes do Ministério da Educação Nacional, aos regentes agrícolas a que se refere o artigo 14.º do [Decreto-Lei n.º 41381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41381-1957-251611), de 21 de Novembro de 1957.
 
-###### Art. 2.º A Direcção-Geral dos Serviços Agrícolas pode, segundo condições a aprovar pelo Secretário de Estado da Agricultura, fornecer transporte colectivo ao pessoal dos organismos que se encontrem distantes das linhas normais de viação.
+Art. 2.º A Direcção-Geral dos Serviços Agrícolas pode, segundo condições a aprovar pelo Secretário de Estado da Agricultura, fornecer transporte colectivo ao pessoal dos organismos que se encontrem distantes das linhas normais de viação.
 
-###### Art. 3.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 45457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45457-1963-680412), de 23 de Dezembro de 1963, passando a aplicar-se o disposto no artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951.
+Art. 3.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 45457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45457-1963-680412), de 23 de Dezembro de 1963, passando a aplicar-se o disposto no artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951.
 
-###### Art. 4.º É revogado o artigo 9.º do [Decreto-Lei n.º 35422](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35422-1945-462613), de 29 de Dezembro de 1945.
+Art. 4.º É revogado o artigo 9.º do [Decreto-Lei n.º 35422](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35422-1945-462613), de 29 de Dezembro de 1945.
 
-###### Art. 5.º Este diploma entra em vigor em 1 de Janeiro de 1966.
+Art. 5.º Este diploma entra em vigor em 1 de Janeiro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

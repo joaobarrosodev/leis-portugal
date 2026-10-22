@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 240/1975, 2º Suplemento, Série I de 1975-10-16
   number: '240'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1628-(4) a 1628-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/24002/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/584-b-1975-514580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d226d392d62d149eac04b16b227c531ef52c3a53445b476705bb7bc888b4bf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fd4cc08dbc5928a4458a256390c3f420bff25647092aee8eb81761175b3fe6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Desalojado
+- Descolonização
+- Governo Provisório VI
+- Instituto de Apoio ao Retorno de Nacionais
+- Integração de Serviços
+- Ministério dos Assuntos Sociais
+- Ministro dos Assuntos Sociais
+- Orgânica
+- Primeiro-ministro
+- Secretaria de Estado dos Retornados
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:161489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307583:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:53Z'
   warnings: []
   errors: []
 ---
@@ -104,22 +130,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no Ministério dos Assuntos Sociais a Secretaria de Estado dos Retornados.
+Artigo 1.º É criada no Ministério dos Assuntos Sociais a Secretaria de Estado dos Retornados.
 
-###### Art. 2.º - 1. É desde já integrado na Secretaria de Estado dos Retornados o actual Instituto de Apoio ao Retorno de Nacionais (IARN), criado pelo [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489), de 31 de Março, com a revisão operada pelo [Decreto-Lei n.º 494/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1975-307583), de 10 de Setembro.
+Art. 2.º - 1. É desde já integrado na Secretaria de Estado dos Retornados o actual Instituto de Apoio ao Retorno de Nacionais (IARN), criado pelo [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489), de 31 de Março, com a revisão operada pelo [Decreto-Lei n.º 494/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1975-307583), de 10 de Setembro.
 
 2. O Instituto referido no número anterior continua a reger-se pela legislação que lhe é actualmente aplicável, até à entrada em vigor do decreto a que se refere o artigo 3.º, passando a competência ali atribuída ao Primeiro-Ministro a ser exercida pelo Ministro dos Assuntos Sociais.
 
 3. Será, no entanto, da competência do Ministro da Cooperação o que diga respeito ao processo de descolonização em curso, incluindo o alojamento e transporte dos retornados até território nacional, aos assuntos ligados com o eventual retorno de emigrantes e o referido na alínea i) do artigo 3.º do citado [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489).
 
-###### Art. 3.º A orgânica da Secretaria de Estado dos Retornados será regulada por decreto dos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais.
+Art. 3.º A orgânica da Secretaria de Estado dos Retornados será regulada por decreto dos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 16 de Outubro de 1975.**
+Promulgado em 16 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

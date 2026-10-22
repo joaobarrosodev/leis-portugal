@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1972-675867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c199bfb293cf9e671473e8f5e376fc928575dac3b2a7c3694aec46b3d57c3451
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8d96f60bf740cf0bcc9e5c14d1fb3fee9a2a8d3b90f875562c6beac6b8e8cd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Curso de Engenharia Civil
+- Curso de Engenharia de Minas
+- Curso de Engenharia Electrotécnica
+- Curso de Engenharia Mecânica
+- Curso de Engenharia Química
+- Faculdade de Ciências
+- Faculdade de Ciências e Tecnologia
+- Quadro de Pessoal
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:222428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222428:por
+  label: "Aumentados lugares no quadro de professores criado pelo Dec Lei 46580, de 07-Out ,alterado pelo Dec Lei 407/70,\
+    \ de 24-Ago e pelo presente diploma, pelo, PORT.592/86.10.11.1986.MF, DR.IS [235] de 10.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-1986-222428
+  date: '1986-11-10'
+- type: cites
+  target: pt:dre:138828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633480:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:676069:por
+  label: Rectificado pela DECL.DD9635.14.08.1972.PC, DG.IS [189] de 14.08.1972
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1972-676069
+  date: '1972-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:22Z'
   warnings: []
   errors: []
 ---
@@ -103,52 +136,52 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Faculdade de Ciências da Universidade de Coimbra passa a denominar-se Faculdade de Ciências e Tecnologia.
+Artigo 1.º A Faculdade de Ciências da Universidade de Coimbra passa a denominar-se Faculdade de Ciências e Tecnologia.
 
-###### Art. 2.º Na Faculdade de Ciências e Tecnologia serão professados, além dos actuais cursos das Faculdades de Ciências, também os cursos de Engenharia Civil, Engenharia Mecânica Engenharia de Mina, Engenharia Electrotécnica e Engenharia Química, conforme os planos de estudo a fixar por decreto.
+Art. 2.º Na Faculdade de Ciências e Tecnologia serão professados, além dos actuais cursos das Faculdades de Ciências, também os cursos de Engenharia Civil, Engenharia Mecânica Engenharia de Mina, Engenharia Electrotécnica e Engenharia Química, conforme os planos de estudo a fixar por decreto.
 
-###### Art. 3.º - 1. A Faculdade compreende, quer no ramo das ciências, quer no ramo da tecnologia, departamentos e serviços científicos cujo número e funções serão especificados no seu regulamento.
+Art. 3.º - 1. A Faculdade compreende, quer no ramo das ciências, quer no ramo da tecnologia, departamentos e serviços científicos cujo número e funções serão especificados no seu regulamento.
 
 2. Departamento é a unidade da Faculdade onde se processa o ensino e investigação científica de um dado ramo de conhecimento com dimensão própria.
 
 3. Cada departamento terá um conselho científico e um conselho pedagógico.
 
-###### Art. 4.º O conselho escolar, de que farão parte o director da Faculdade e os directores de departamentos e serviços científicos, terá a composição e funções que vierem a ser fixadas no regulamento da Faculdade.
+Art. 4.º O conselho escolar, de que farão parte o director da Faculdade e os directores de departamentos e serviços científicos, terá a composição e funções que vierem a ser fixadas no regulamento da Faculdade.
 
-###### Art. 5.º - 1. Os quadros de pessoal da Faculdade são os que constam da actual Faculdade de Ciências e estabelecimentos dela dependentes, acrescidos do quadro anexo a este diploma, cujos lugares serão afectados aos departamentos de engenharia.
+Art. 5.º - 1. Os quadros de pessoal da Faculdade são os que constam da actual Faculdade de Ciências e estabelecimentos dela dependentes, acrescidos do quadro anexo a este diploma, cujos lugares serão afectados aos departamentos de engenharia.
 
 2. O quadro do pessoal da reitoria é acrescido do pessoal administrativo constante do quadro acima referido, a destacar para os departamentos de engenharia.
 
-###### Art. 6.º - 1. A afectação dos lugares de professor catedrático e extraordinário far-se-á nos termos do artigo 2.º do [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 12 de Agosto.
+Art. 6.º - 1. A afectação dos lugares de professor catedrático e extraordinário far-se-á nos termos do artigo 2.º do [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 12 de Agosto.
 
 2. Poderá excepcionalmente, durante três anos, o Ministro da Educação Nacional, ouvido o conselho escolar, nomear para os departamentos de engenharia professores catedráticos e extraordinários da Faculdade de Ciências e Tecnologia da Universidade de Coimbra individualidades especialmente qualificadas.
 
-###### Art. 7.º Poderá o Ministro da Educação Nacional preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo e técnico criados por este diploma com funcionários de categoria imediatamente inferior dos respectivos quadros, que neles tenham três anos de serviço, pelo menos, desde que possuam boa informação e as habilitações literárias exigidas por aquele provimento.
+Art. 7.º Poderá o Ministro da Educação Nacional preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo e técnico criados por este diploma com funcionários de categoria imediatamente inferior dos respectivos quadros, que neles tenham três anos de serviço, pelo menos, desde que possuam boa informação e as habilitações literárias exigidas por aquele provimento.
 
-###### Art. 8.º - 1. Poderá o reitor admitir, sob proposta do conselho escolar, em regime de prestação de serviço, sem outras formalidades, os monitores necessários para coadjuvarem o ensino.
+Art. 8.º - 1. Poderá o reitor admitir, sob proposta do conselho escolar, em regime de prestação de serviço, sem outras formalidades, os monitores necessários para coadjuvarem o ensino.
 
 2. Os monitores recrutados nos termos do número anterior serão remunerados desde a data da entrada no exercício efectivo das suas funções.
 
-###### Art. 9.º Aos alunos da Faculdade de Ciências e Tecnologia aplicar-se-á o regime de frequência e de exames definido no [Decreto n.º 433/71](https://diariodarepublica.pt/dr/detalhe/decreto/433-1971-633480), de 23 de Outubro.
+Art. 9.º Aos alunos da Faculdade de Ciências e Tecnologia aplicar-se-á o regime de frequência e de exames definido no [Decreto n.º 433/71](https://diariodarepublica.pt/dr/detalhe/decreto/433-1971-633480), de 23 de Outubro.
 
-###### Art. 10.º Os directores de departamento ou serviço científico têm direito à mesma gratificação que estiver fixada para os professores que exercem as funções referidas na alínea c) do n.º 1 do artigo 56.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+Art. 10.º Os directores de departamento ou serviço científico têm direito à mesma gratificação que estiver fixada para os professores que exercem as funções referidas na alínea c) do n.º 1 do artigo 56.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
-###### Art. 11.º À Faculdade de Ciências e Tecnologia é aplicável toda a legislação em vigor para as Faculdades de Ciências e de Engenharia, com as necessárias adaptações.
+Art. 11.º À Faculdade de Ciências e Tecnologia é aplicável toda a legislação em vigor para as Faculdades de Ciências e de Engenharia, com as necessárias adaptações.
 
-###### Art. 12.º O Ministro da Educação Nacional, após o primeiro ano de funcionamento da Faculdade de Ciências e Tecnologia, fará publicar por decreto o seu regulamento.
+Art. 12.º O Ministro da Educação Nacional, após o primeiro ano de funcionamento da Faculdade de Ciências e Tecnologia, fará publicar por decreto o seu regulamento.
 
-###### Art. 13.º Os encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1972 pelas disponibilidades das verbas especialmente inscritas nos orçamentos da reitoria e da Faculdade de Ciências da Universidade de Coimbra e, se necessário, pelo seu reforço a efectuar com contrapartida em anulação de dotações do orçamento do Ministério da Educação Nacional.
+Art. 13.º Os encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1972 pelas disponibilidades das verbas especialmente inscritas nos orçamentos da reitoria e da Faculdade de Ciências da Universidade de Coimbra e, se necessário, pelo seu reforço a efectuar com contrapartida em anulação de dotações do orçamento do Ministério da Educação Nacional.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 20 de Julho de 1972.**
+Promulgado em 20 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/07/17500/09730974.pdf))](https://files.diariodarepublica.pt/1s/1972/07/17500/09730974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/07/17500/09730974.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

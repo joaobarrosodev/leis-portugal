@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1976-502812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78dc52f62472f54d09849b30c4ee94c037739bc010f3f21d7614a93f44cfc627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6700964f612697bcc15bec4e4c7662debbe14791e23e0cd79766b34cf8d023a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Companhia de Seguros
+- Empresa Estrangeira
+- Empresa Nacionalizada
+- Investimento Estrangeiro
+- Nacionalização
+relationships:
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:502219:por
+  label: Rectificado pela DECL.DD8792.21.04.1976.PCM, DR.IS [94] de 21.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502219
+  date: '1976-04-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:29Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +110,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Companhia de Seguros Garantia deve ser incluída na alínea a) do artigo 1.º do [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081).
+Artigo 1.º A Companhia de Seguros Garantia deve ser incluída na alínea a) do artigo 1.º do [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081).
 
-###### Art. 2.º É reconhecida à Compagnie Suisse de Reassurances a faculdade de nomear a sua representação nos órgãos sociais da Companhia de Seguros Garantia na proporção do valor da respectiva participação no capital desta última.
+Art. 2.º É reconhecida à Compagnie Suisse de Reassurances a faculdade de nomear a sua representação nos órgãos sociais da Companhia de Seguros Garantia na proporção do valor da respectiva participação no capital desta última.
 
-###### Art. 3.º O disposto no artigo anterior determinará a adequada revisão e adaptação dos Estatutos da Companhia de Seguros Garantia.
+Art. 3.º O disposto no artigo anterior determinará a adequada revisão e adaptação dos Estatutos da Companhia de Seguros Garantia.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16400/10021004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1975-336541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82512457c484cbf3f6a823b7ed06298c1376ce6f6fdede7ef0d5152329b6be19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95a2910e9c6bea23443639738f260c1a5d35825bf08f3029e94d1879d4d9f5a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperação Económica
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Secretariado para a Cooperação Económica e Técnica Externa
 relationships:
 - type: amended_by
   target: pt:dre:600510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600510:por
+  label: "Extinto pelo DEC LEI.41/82.1982.02.08.MIEE, DR.IS [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1982-600510
+  date: '1982-02-08'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:54Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +103,11 @@ de 18 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado, no âmbito do Ministério dos Negócios Estrangeiros, o Secretariado para a Cooperação Económica e Técnica Externa, com funções de apoio ao Conselho Económico, no domínio da cooperação económica e técnica externa.
+Artigo 1.º É criado, no âmbito do Ministério dos Negócios Estrangeiros, o Secretariado para a Cooperação Económica e Técnica Externa, com funções de apoio ao Conselho Económico, no domínio da cooperação económica e técnica externa.
 
-###### Art. 2.º O Secretariado tem como atribuições assegurar a ligação permanente entre o Conselho Económico e os diversos Ministérios e Secretarias de Estado, em acções sectoriais de cooperação económica e técnica externa, bem como acompanhar e coordenar as acções interministeriais naquele domínio.
+Art. 2.º O Secretariado tem como atribuições assegurar a ligação permanente entre o Conselho Económico e os diversos Ministérios e Secretarias de Estado, em acções sectoriais de cooperação económica e técnica externa, bem como acompanhar e coordenar as acções interministeriais naquele domínio.
 
-###### Art. 3.º Para o exercício das suas funções, compete ao Secretariado, no domínio da cooperação económica e técnica externa:
+Art. 3.º Para o exercício das suas funções, compete ao Secretariado, no domínio da cooperação económica e técnica externa:
 
 a) Dar parecer e propor ao Conselho Económico acções concretas de cooperação externa;
 
@@ -116,9 +129,9 @@ i) Criar e manter actualizado um inventário sumário das potencialidades e nece
 
 j) Recolher e divulgar informação de interesse para a cooperação económica e técnica externa através de um boletim periódico.
 
-###### Art. 4.º Sem prejuízo do disposto no artigo anterior, os Ministérios dos Negócios Estrangeiros, para o Planeamento e Coordenação Económica e do Comércio Externo poderão, no âmbito das respectivas competências, proceder à preparação a nível técnico de acções no domínio da cooperação externa, a submeter oportunamente à apreciação do Conselho Económico, por intermédio do Secretariado, promovendo para o efeito a elaboração de estudos, a realização de reuniões intersectoriais e a criação de grupos de trabalho ou comissões especializadas.
+Art. 4.º Sem prejuízo do disposto no artigo anterior, os Ministérios dos Negócios Estrangeiros, para o Planeamento e Coordenação Económica e do Comércio Externo poderão, no âmbito das respectivas competências, proceder à preparação a nível técnico de acções no domínio da cooperação externa, a submeter oportunamente à apreciação do Conselho Económico, por intermédio do Secretariado, promovendo para o efeito a elaboração de estudos, a realização de reuniões intersectoriais e a criação de grupos de trabalho ou comissões especializadas.
 
-###### Art. 5.º São órgãos do Secretariado:
+Art. 5.º São órgãos do Secretariado:
 
 a) A Comissão Executiva;
 
@@ -126,7 +139,7 @@ b) A Comissão Consultiva;
 
 c) O Gabinete Técnico-Administrativo.
 
-###### Art. 6.º - 1. A Comissão Executiva é constituída por um presidente e dois vice-presidentes, que serão, respectivamente, o representante do Ministério dos Negócios Estrangeiros e os representantes do Ministério para o Planeamento e Coordenação Económica e do Ministério do Comércio Externo.
+Art. 6.º - 1. A Comissão Executiva é constituída por um presidente e dois vice-presidentes, que serão, respectivamente, o representante do Ministério dos Negócios Estrangeiros e os representantes do Ministério para o Planeamento e Coordenação Económica e do Ministério do Comércio Externo.
 
 2. O presidente da Comissão Executiva é de livre nomeação do Ministro dos Negócios Estrangeiros, em comissão de serviço.
 
@@ -140,7 +153,7 @@ c) O Gabinete Técnico-Administrativo.
 
 7. Cabe ao presidente da Comissão Executiva superintender na direcção do Gabinete Técnico-Administrativo, por intermédio do respectivo director, despachando com o Ministro dos Negócios Estrangeiros os assuntos pendentes e transmitindo aos serviços as instruções necessárias à sua actuação.
 
-###### Art. 7.º - 1. A Comissão Consultiva é constituída pelo presidente e vice-presidentes da Comissão Executiva e por vogais representantes dos Ministérios e Secretarias de Estado que tenham atribuições no domínio da cooperação técnico-económica externa.
+Art. 7.º - 1. A Comissão Consultiva é constituída pelo presidente e vice-presidentes da Comissão Executiva e por vogais representantes dos Ministérios e Secretarias de Estado que tenham atribuições no domínio da cooperação técnico-económica externa.
 
 2. Poderão tomar parte nas reuniões da Comissão Consultiva representantes de outras entidades públicas ou privadas, para o efeito convocadas.
 
@@ -150,7 +163,7 @@ c) O Gabinete Técnico-Administrativo.
 
 5. Os vogais da Comissão Consultiva têm direito a senhas de presença e ao pagamento de despesas de deslocação, nos termos legais.
 
-###### Art. 8.º - 1. O Gabinete Técnico-Administrativo será o órgão de apoio técnico e administrativo do Secretariado e compreenderá serviços para a execução de funções nas seguintes áreas: técnico-económica; de informação e documentação; administrativa.
+Art. 8.º - 1. O Gabinete Técnico-Administrativo será o órgão de apoio técnico e administrativo do Secretariado e compreenderá serviços para a execução de funções nas seguintes áreas: técnico-económica; de informação e documentação; administrativa.
 
 2. A orgânica e funcionamento do Gabinete Técnico-Administrativo serão fixados por despacho do Ministro dos Negócios Estrangeiros.
 
@@ -158,27 +171,27 @@ c) O Gabinete Técnico-Administrativo.
 
 4. Por proposta do presidente da Comissão Executiva, poderão os Ministros dos Negócios Estrangeiros, para o Planeamento e Coordenação Económica e do Comércio Externo destacar pessoal técnico dos respectivos serviços, até ao máximo de dois elementos por Ministério, para coadjuvar o director do Gabinete Técnico-Administrativo no exercício das suas funções.
 
-###### Art. 9.º - 1. O Gabinete Técnico-Administrativo disporá do pessoal constante do quadro que for aprovado por portaria conjunta dos Ministros da Administração Interna, das Finanças e dos Negócios Estrangeiros.
+Art. 9.º - 1. O Gabinete Técnico-Administrativo disporá do pessoal constante do quadro que for aprovado por portaria conjunta dos Ministros da Administração Interna, das Finanças e dos Negócios Estrangeiros.
 
 2. O pessoal do Gabinete será distribuído pelos respectivos serviços, mediante decisão do presidente da Comissão Executiva.
 
 3. O Ministro dos Negócios Estrangeiros, com o acordo do Ministro das Finanças, poderá autorizar que seja contratado fora do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, de harmonia com o condicionalismo legal vigente nesta matéria.
 
-###### Art. 10.º - 1. Quando se mostre indispensável, sob proposta do presidente da Comissão Executiva, o Ministro dos Negócios Estrangeiros poderá requisitar pessoal de outros serviços ou institutos públicos, a pagar por dotação especial para esse efeito inscrita no orçamento do Secretariado e cujo regime será o de comissão de serviço.
+Art. 10.º - 1. Quando se mostre indispensável, sob proposta do presidente da Comissão Executiva, o Ministro dos Negócios Estrangeiros poderá requisitar pessoal de outros serviços ou institutos públicos, a pagar por dotação especial para esse efeito inscrita no orçamento do Secretariado e cujo regime será o de comissão de serviço.
 
 2. O tempo de serviço prestado no Secretariado pelos funcionários a que se refere este artigo contará, para todos os efeitos, como se tivesse sido prestado nos quadros a que pertencem, mantendo os mesmos, durante esse tempo, os respectivos direitos, incluindo os relativos à promoção.
 
-###### Art. 11.º - 1. Os funcionários do Secretariado poderão ser mandados desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços do Estado, no País ou no estrangeiro, bem como em organizações internacionais.
+Art. 11.º - 1. Os funcionários do Secretariado poderão ser mandados desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços do Estado, no País ou no estrangeiro, bem como em organizações internacionais.
 
 2. O tempo de serviço prestado pelos funcionários nas condições referidas no número anterior contará, para todos os efeitos, como se tivesse sido prestado no Secretariado.
 
-###### Art. 12.º - 1. É extinta a Comissão Interministerial de Cooperação Económica Externa.
+Art. 12.º - 1. É extinta a Comissão Interministerial de Cooperação Económica Externa.
 
 2. O pessoal da CICEE é integrado no Gabinete Técnico-Administrativo do Secretariado, mediante lista ou listas nominativas aprovadas pelo Ministro dos Negócios Estrangeiros, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
 
 3. Enquanto não forem publicadas as listas a que se refere o número anterior, o pessoal que actualmente presta serviço a qualquer título na CICEE fica dependente do Gabinete Técnico-Administrativo do Secretariado na situação em que se encontra.
 
-###### Art. 13.º - 1. A representação de Portugal junto da Organização de Cooperação e Desenvolvimento Económico (OCDE), da Associação Europeia de Comércio Livre (EFTA), do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT), das Comunidades Europeias (CE) e da Administração de Cooperação Internacional (ICA) é assegurada por delegações permanentes que ficam dependentes do Secretariado para a Cooperação Económica e Técnica Externa.
+Art. 13.º - 1. A representação de Portugal junto da Organização de Cooperação e Desenvolvimento Económico (OCDE), da Associação Europeia de Comércio Livre (EFTA), do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT), das Comunidades Europeias (CE) e da Administração de Cooperação Internacional (ICA) é assegurada por delegações permanentes que ficam dependentes do Secretariado para a Cooperação Económica e Técnica Externa.
 
 2. As delegações referidas no número anterior serão chefiadas pelo representante de Portugal no respectivo organismo internacional e nelas prestará serviço pessoal do Ministério dos Negócios Estrangeiros, requisitado a serviços do Estado ou contratado pelo Secretariado, nos termos de despacho do Ministro dos Negócios Estrangeiros, que será conjunto com o Ministro do Comércio Externo no que respeita às delegações junto da EFTA, do GATT e das Comunidades Europeias.
 
@@ -186,24 +199,24 @@ c) O Gabinete Técnico-Administrativo.
 
 4. O Secretariado e os serviços do Ministério dos Negócios Estrangeiros e do Ministério do Comércio Externo darão reciprocamente conhecimento das instruções e orientações que, em matéria de relações económicas externas, enviarem às delegações junto da EFTA, do GATT e das Comunidades Europeias.
 
-###### Art. 14.º Todos os serviços do Estado, organismos de coordenação económica, empresas públicas, nacionalizadas ou sujeitas à intervenção do Estado, deverão prestar ao Secretariado toda a colaboração que por este lhes for pedida, realizando os estudos e fornecendo as informações ou esclarecimentos solicitados pelo presidente da Comissão Executiva dentro dos prazos que se mostrem necessários. O presidente da Comissão Executiva poderá corresponder-se directamente ou comunicar verbalmente com as referidas entidades.
+Art. 14.º Todos os serviços do Estado, organismos de coordenação económica, empresas públicas, nacionalizadas ou sujeitas à intervenção do Estado, deverão prestar ao Secretariado toda a colaboração que por este lhes for pedida, realizando os estudos e fornecendo as informações ou esclarecimentos solicitados pelo presidente da Comissão Executiva dentro dos prazos que se mostrem necessários. O presidente da Comissão Executiva poderá corresponder-se directamente ou comunicar verbalmente com as referidas entidades.
 
-###### Art. 15.º Mediante prévia autorização do Ministro dos Negócios Estrangeiros, o Secretariado poderá contratar com entidades individuais ou colectivas nacionais ou estrangeiras a realização de estudos e outros trabalhos.
+Art. 15.º Mediante prévia autorização do Ministro dos Negócios Estrangeiros, o Secretariado poderá contratar com entidades individuais ou colectivas nacionais ou estrangeiras a realização de estudos e outros trabalhos.
 
-###### Art. 16.º O Ministro dos Negócios Estrangeiros poderá delegar no Secretário de Estado da Cooperação Externa os poderes que lhe são conferidos por este diploma.
+Art. 16.º O Ministro dos Negócios Estrangeiros poderá delegar no Secretário de Estado da Cooperação Externa os poderes que lhe são conferidos por este diploma.
 
-###### Art. 17.º - 1. Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado em vigor as alterações necessárias à execução do presente diploma.
+Art. 17.º - 1. Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado em vigor as alterações necessárias à execução do presente diploma.
 
 2. Enquanto não forem introduzidas no Orçamento Geral do Estado as alterações previstas no número anterior, os encargos do Secretariado serão satisfeitos de conta das dotações inscritas no actual orçamento do Ministério da Economia relativas à Comissão Interministerial de Cooperação Económica Externa e segundo as normas que a esta vinham sendo aplicadas.
 
-###### Art. 18.º As dúvidas que se suscitem na execução deste diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros, ouvido o Ministro interessado.
+Art. 18.º As dúvidas que se suscitem na execução deste diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros, ouvido o Ministro interessado.
 
-###### Art. 19.º Este diploma entra imediatamente em vigor.
+Art. 19.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - António Carlos Magalhães Arnão Metelo - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Mário Luís da Silva Murteira - José Joaquim Fragoso - José da Silva Lopes - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 14 de Julho de 1975.**
+Promulgado em 14 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

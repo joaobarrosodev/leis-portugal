@@ -49,36 +49,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44490-1962-164001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d5b15babafe4a8b4c4263aea1b4e149878df36fd466abadff3ccb63db92435
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28b26f8f51cc48d600e7a1d6316a2c44ccb2be55bd61d22e97862429f2c4996f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Direito Internacional
+- Direito Marítimo
+- Genebra
+- Gestão dos Recursos
+- Jurisdição
+- Mar Alto
+- Mar Territorial
+- Pesca
+- Plataforma Continental
+- Proteção do Ambiente
+- Recursos do Mar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:43Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +99,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, a Convenção sobre o mar territorial e a zona contígua, a Convenção sobre o alto mar, a Convenção sobre a pesca e a conservação dos recursos biológicos do alto mar, a Convenção sobre a plataforma continental e o Protocolo de assinatura facultativa relativo à regularização obrigatória das divergências, aprovados na 1.ª Conferência de Direito do Mar, realizada em Genebra em 1958, e assinados em 28 de Outubro do mesmo ano, cujos textos, em francês e na tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. São aprovados, para ratificação, a Convenção sobre o mar territorial e a zona contígua, a Convenção sobre o alto mar, a Convenção sobre a pesca e a conservação dos recursos biológicos do alto mar, a Convenção sobre a plataforma continental e o Protocolo de assinatura facultativa relativo à regularização obrigatória das divergências, aprovados na 1.ª Conferência de Direito do Mar, realizada em Genebra em 1958, e assinados em 28 de Outubro do mesmo ano, cujos textos, em francês e na tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -369,23 +381,23 @@ Mar territorial
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. A soberania do Estado estende-se, para além do seu território e das suas águas interiores, a uma zona de mar adjacente às suas costas, designada sob o nome de mar territorial.
 
 2. Esta soberania exerce-se nas condições fixadas nas disposições dos presentes artigos e por outras regras de direito internacional.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A soberania do Estado ribeirinho estende-se ao espaço aéreo superior ao mar territorial, e bem assim ao leito e ao subsolo deste mar.
 
 #### SECÇÃO II — Limites do mar territorial
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Salvo disposição em contrário contida nos presentes artigos, a linha de base normal para medir a largura do mar territorial é a linha da maré baixa, ao longo da costa, conforme marcada nas cartas marítimas, em escala grande, oficialmente reconhecidas pelo Estado ribeirinho.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. Nas zonas em que a linha de costa apresenta recortes profundos e reentrâncias ou se existe um grupo de ilhas ao longo da costa na proximidade imediata desta, poderá adoptar-se o método das linhas de base rectas ligando os pontos apropriados para o traçado da linha de base, a partir da qual é medida a largura do mar territorial.
 
@@ -399,17 +411,17 @@ Salvo disposição em contrário contida nos presentes artigos, a linha de base 
 
 6. O Estado ribeirinho deve indicar claramente as linhas de base rectas sobre as cartas marítimas, a que deve dar publicidade suficiente.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. As águas situadas do lado da linha de base do mar territorial que faz face à terra fazem parte das águas interiores do Estado.
 
 2. Quando a definição de uma linha de base recta, de acordo com o disposto no artigo 4.º, tiver como consequência a inclusão nas águas interiores de áreas anteriormente consideradas como fazendo parte do mar territorial ou do alto mar, vigorará nestas áreas o direito de passagem inofensiva, prescrito nos artigos 14.º e 23.º
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O limite exterior do mar territorial é constituído por uma linha em que cada ponto se encontra a uma distância do ponto mais próximo da linha base igual à largura do mar territorial.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. O presente artigo refere-se às baías cujas costas pertencem apenas a um Estado.
 
@@ -423,33 +435,33 @@ O limite exterior do mar territorial é constituído por uma linha em que cada p
 
 6. As disposições precedentes não se aplicarão às chamadas baías «históricas», nem aos casos em que deva ser aplicado o sistema das linhas de base rectas previsto pelo artigo 4.º
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Para o efeito de delimitação do mar territorial, as instalações permanentes fazendo parte integrante do sistema portuário mais avançadas para o largo serão consideradas como fazendo parte da costa.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 As enseadas normalmente usadas para a carga, descarga e ancoradouro de navios e que, se não fosse por essa razão, estariam situadas, no todo ou em parte, fora do traçado geral do limite exterior do mar territorial serão consideradas como fazendo parte deste mar. O Estado ribeirinho deve delimitar com clareza estas enseadas e indicá-las, com os seus limites, em cartas marítimas a que deve ser dada publicidade suficiente.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1. Uma ilha é uma extensão natural de terra cercada de água que se conserva a descoberto na maré alta.
 
 2. O mar territorial de uma ilha será medido de acordo com as disposições dos presentes artigos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1. Por fundos altos descobertos devem entender-se as elevações naturais de terreno rodeadas por mar e descobertas na maré baixa, mas submersas na maré alta. Nos casos em que os fundos altos descobertos se encontram, total ou parcialmente, a uma distância do continente ou de uma ilha não ultrapassando a largura do mar territorial, a linha de baixa-mar sobre estes fundos poderá ser tomada como linha de base para medição da largura do mar territorial.
 
 2. No caso em que os fundos altos descobertos se encontram em toda a sua extensão a uma distância do continente ou de uma ilha superior à largura do mar territorial, não têm mar territorial próprio.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. Quando as costas dos Estados são opostas ou limítrofes, nenhum dos dois Estados tem o direito de estender o seu mar territorial para além da linha mediana em que todos os pontos são equidistantes dos pontos mais próximos das linhas de base a partir das quais é medida a largura do mar territorial de cada um dos dois Estados. As disposições do presente parágrafo não se aplicarão, contudo, onde for necessário, em razão de títulos históricos ou por outras circunstâncias especiais, delimitar os mares territoriais dos dois Estados de outra forma que não a prevista nestas disposições.
 
 2. A linha de delimitação entre os mares territoriais dos dois Estados cujas costas são opostas ou limítrofes será marcada em cartas marítimas de escala grande, oficialmente reconhecidas pelos Estados ribeirinhos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Se um rio desagua directamente no mar sem formar estuário, a linha de base será uma linha recta traçada através da foz do rio entre os pontos limites da maré baixa sobre as margens.
 
@@ -457,7 +469,7 @@ Se um rio desagua directamente no mar sem formar estuário, a linha de base ser�
 
 ##### SUBSECÇÃO A — Regras aplicáveis a todos os navios
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1. Sob reserva das disposições dos presentes artigos, os navios de todos os Estados, ribeirinhos ou não, gozam de direito de passagem inofensiva pelo mar territorial.
 
@@ -471,13 +483,13 @@ Se um rio desagua directamente no mar sem formar estuário, a linha de base ser�
 
 Os submarinos são obrigados a navegar à superfície e a arvorar o respectivo pavilhão.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1. O Estado ribeirinho não deve impedir a passagem inofensiva através do mar territorial.
 
 2. O Estado ribeirinho é obrigado a dar conveniente publicidade a quaisquer perigos para a navegação de que tenha conhecimento, dentro do seu mar territorial.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1. O Estado ribeirinho pode tomar as necessárias medidas no seu mar territorial para prevenir passagem que não seja inofensiva.
 
@@ -487,19 +499,19 @@ Os submarinos são obrigados a navegar à superfície e a arvorar o respectivo p
 
 4. Não poderá ser suspensa a passagem inofensiva dos navios estrangeiros nos estreitos usados pela navegação internacional que estabeleçam comunicação entre duas zonas do alto mar ou com mar territorial de um Estado estrangeiro.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Os navios estrangeiros que exercem o direito de passagem inofensiva devem conformar-se com as leis e regulamentos promulgados pelo Estado ribeirinho de harmonia com os presentes artigos e as outras regras do direito internacional e, em particular, com as leis e regulamentos relativos aos transportes e navegação.
 
 ##### SUBSECÇÃO B — Regras aplicáveis aos navios de comércio
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1. Não poderão ser cobradas taxas dos navios estrangeiros com fundamento na sua simples passagem pelo mar territorial.
 
 2. Não poderão ser cobradas taxas de um navio estrangeiro passando pelo mar territorial, a não ser para remuneração de serviços prestados a este navio. Estas taxas serão cobradas sem discriminação.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 1. A jurisdição penal do Estado ribeirinho não deverá ser exercida a bordo de navios estrangeiros durante a passagem no mar territorial, para detenção de pessoas ou execução de actos de instrução em razão de infracção penal cometida a bordo durante a passagem, excepto em algum ou alguns dos seguintes casos:
 
@@ -521,7 +533,7 @@ Em caso de necessidade urgente, esta notificação pode ser efectuada durante a 
 
 5. O Estado ribeirinho não pode tomar qualquer medida a bordo de um navio estrangeiro que passa no mar territorial com vista à efectivação de uma detenção ou à prática de actos de instrução em razão de uma infracção penal cometida antes da entrada do navio no mar territorial, se o navio, proveniente de um porto estrangeiro, apenas passa no mar territorial sem entrar nas águas interiores.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1. O Estado ribeirinho não deverá obrigar o barco estrangeiro passando pelo seu mar territorial a parar ou mudar de rumo para o exercício da jurisdição civil em relação a uma pessoa que se encontre a bordo.
 
@@ -531,11 +543,11 @@ Em caso de necessidade urgente, esta notificação pode ser efectuada durante a 
 
 ##### SUBSECÇÃO C — Regras aplicáveis aos navios de Estado que não sejam navios de guerra
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 As regras previstas nas subsecções A e B aplicam-se igualmente aos navios de Estado afectados a fins comerciais.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1. As regras previstas na subsecção A e no artigo 18.º aplicam-se aos navios de Estado afectados a fins não comerciais.
 
@@ -543,7 +555,7 @@ As regras previstas nas subsecções A e B aplicam-se igualmente aos navios de E
 
 ##### SUBSECÇÃO D — Regra aplicável aos navios de guerra
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Em caso de inobservância por um navio de guerra das regras do Estado ribeirinho acerca da passagem no mar territorial, aquele Estado pode exigir a saída no navio para fora deste mar, desde que ele não atenda ao convite de se conformar com as mesmas regras.
 
@@ -551,7 +563,7 @@ SEGUNDA PARTE
 
 Zona contígua
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 1. O Estado ribeirinho pode exercer a fiscalização necessária sobre uma zona do alto mar contígua ao seu mar territorial, para os seguintes fins:
 
@@ -567,37 +579,37 @@ TERCEIRA PARTE
 
 Artigos finais
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 As disposições da presente Convenção não afectarão as convenções ou outros acordos internacionais em vigor nas relações entre os Estados partes nessas convenções ou acordos.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 A presente Convenção estará aberta à assinatura de todos os Estados Membros da Organização das Nações Unidas ou de qualquer instituição especializada, assim como de qualquer Estado convidado pela Assembleia Geral das Nações Unidas a ser parte na Convenção, até 31 de Outubro de 1958.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 A presente Convenção será ratificada. Os instrumentos de ratificação serão depositados no Secretariado-Geral da Organização das Nações Unidas.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 A presente Convenção estará aberta à adesão de qualquer Estado pertencente a uma das categorias mencionadas no artigo 26.º Os instrumentos de adesão serão depositados no Secretariado-Geral da Organização das Nações Unidas.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 1. A presente Convenção entrará em vigor no trigésimo dia seguinte à data do depósito no Secretariado-Geral da Organização das Nações Unidas do vigésimo segundo instrumento de ratificação ou adesão.
 
 2. Em relação a cada um dos Estados que ratifiquem a Convenção ou a ela adiram após o depósito do vigésimo segundo instrumento de ratificação ou adesão, a Convenção entrará em vigor no trigésimo dia após o depósito por este Estado do seu instrumento de ratificação ou de adesão.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 1. Após expiração de um período de cinco anos, a contar da data em que a presente Convenção tiver entrado em vigor, poderá ser apresentado pedido da revisão da presente Convenção em qualquer altura por qualquer parte contratante mediante notificação escrita dirigida ao Secretariado-Geral da Organização das Nações Unidas.
 
 2. A assembleia geral das Nações Unidas decidirá sobre quais as medidas eventualmente a tomar a propósito de tal pedido.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
-**O secretário-geral da Organização das Nações Unidas notificará a todos os Estados Membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 26.º:**
+O secretário-geral da Organização das Nações Unidas notificará a todos os Estados Membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 26.º:
 
 a) As assinaturas apostas na presente Convenção e o depósito dos instrumentos de ratificação ou de adesão, de harmonia com os artigos 26.º, 27.º e 28.º;
 
@@ -605,7 +617,7 @@ b) A data em que a presente Convenção entrará em vigor, de harmonia com o art
 
 c) Os pedidos de revisão apresentados de harmonia com o artigo 30.º
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 O original da presente Convenção, cujos textos em chinês, espanhol, francês, inglês e russo farão igualmente fé, será depositado no Secretariado-Geral da Organização das Nações Unidas, que dele enviará cópia autêntica a todos os Estados abrangidos pelo artigo 26.º
 
@@ -879,11 +891,11 @@ Reconhecendo que as disposições seguintes, adoptadas pela Conferência das Na�
 
 Acordaram nas disposições seguintes:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Entende-se por «alto mar» todas as partes do mar que não pertençam ao mar territorial ou às águas interiores de um Estado.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Estando o alto mar aberto a todas as nações, nenhum Estado pode legìtimamente pretender submeter qualquer parte dele à sua soberania.
 
@@ -899,7 +911,7 @@ A liberdade do alto mar exerce-se nas condições determinadas nos presentes art
 
 Estas liberdades, assim como as outras liberdades reconhecidas pelos princípios gerais do direito internacional, são exercidas por todos os Estados, tendo em atenção razoável o interesse que a liberdade do alto mar representa para os outros Estados.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1. A fim de usufruir das liberdades do mar, em igualdade de condições com os Estados ribeirinhos, os Estados sem litoral têm o livre direito de acesso ao mar. Para esse efeito, os Estados situados entre o mar e um Estado sem litoral concederão, de comum acordo e em conformidade com as convenções internacionais em vigor:
 
@@ -909,11 +921,11 @@ b) Aos navios arvorando o pavilhão deste Estado, um tratamento igual ao dos seu
 
 2. Os Estados situados entre o mar e um Estado desprovido de litoral regularão, de comum acordo com este, tendo em consideração os direitos do Estado ribeirinho ou de trânsito e as particularidades do Estado sem litoral, todas as questões relativas à liberdade de trânsito e à igualdade de tratamento nos portos, no caso em que estes Estados não sejam já partes às convenções internacionais em vigor.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Todos os Estados, ribeirinhos ou não, têm o direito de fazer navegar no alto mar navios arvorando o seu pavilhão.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Cada Estado fixa as condições pelas quais concede a sua nacionalidade aos navios, e bem assim as condições de registo e o direito de arvorar o seu pavilhão. Os navios possuem a nacionalidade do Estado cujo pavilhão estão autorizados a usar.
 
@@ -921,27 +933,27 @@ Deve existir uma ligação substancial entre o Estado e o navio; o Estado deve, 
 
 2. Cada Estado entrega aos navios a quem concede o direito de usar o seu pavilhão os documentos para esse efeito necessários.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. Os navios navegam sob o pavilhão de um só Estado e encontram-se submetidos, salvo nos casos excepcionais expressamente previstos pelos tratados internacionais ou pelos presentes artigos, à sua jurisdição exclusiva no alto mar. Nenhuma mudança de pavilhão se pode realizar no curso de uma viagem ou de uma escala, salvo em caso de transferência real de propriedade ou de mudança de registo.
 
 2. Um navio navegando sob os pavilhões de dois ou mais Estados, os quais utiliza conforme a sua conveniência, não pode prevalecer-se, perante qualquer terceiro Estado, de alguma destas nacionalidades e pode ser equiparado a um navio sem nacionalidade.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As disposições dos artigos anteriores não prejudicam de qualquer modo a questão dos navios afectos ao serviço oficial de uma organização intergovernamental usando o pavilhão dessa organização.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. Os navios de guerra gozam no alto mar de imunidade completa de jurisdição por parte de outros Estados que não sejam o Estado do pavilhão.
 
 2. Para os fins dos presentes artigos, a expressão «navio de guerra» designa um navio pertencendo à marinha de guerra de um Estado e exibindo os sinais exteriores distintivos dos navios de guerra da sua nacionalidade. O comandante deve estar ao serviço do Estado, o seu nome deve figurar na lista dos oficiais da marinha de guerra e a tripulação deve estar submetida às regras da disciplina militar.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Os navios pertencendo a um Estado ou explorados por ele e afectados sòmente a um serviço governamental não comercial gozam, no alto mar, de uma imunidade completa de jurisdição por parte dos Estados que não sejam o Estado do pavilhão.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1. Todo o Estado deve tomar, em relação aos navios arvorando o seu pavilhão, as medidas necessárias para garantir a segurança no mar, nomeadamente no que respeita:
 
@@ -953,7 +965,7 @@ c) À construção e armamento do navio e às suas qualidades de mar.
 
 2. Ao prescrever estas medidas cada Estado deve conformar-se com as normas internacionais geralmente aceites e tomar todas as disposições necessárias para assegurar a sua execução.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1. Em caso de abordagem ou qualquer outro incidente de navegação relativo a um navio no alto mar, de modo a envolver responsabilidade penal ou disciplinar do capitão ou de qualquer outra pessoa ao serviço do navio, nenhum procedimento penal ou disciplinar pode ser intentado contra estas pessoas, a não ser perante as autoridades judiciais ou administrativas, quer do Estado do pavilhão, quer do Estado de que estas pessoas têm a nacionalidade.
 
@@ -961,7 +973,7 @@ c) À construção e armamento do navio e às suas qualidades de mar.
 
 3. Nenhuma apreensão ou retenção do navio pode ser ordenada, mesmo como medida de instrução, por autoridades diferentes das do Estado do pavilhão.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. Todo o Estado deve obrigar o capitão de um navio navegando sob o seu pavilhão, desde que o capitão o possa fazer sem perigo sério para o navio, tripulação ou passageiros:
 
@@ -973,15 +985,15 @@ c) Após uma colisão, a prestar assistência ao outro navio, à sua tripulaçã
 
 2. Todos os Estados ribeirinhos favorecerão a criação e a manutenção de um serviço adequado e eficiente de procura e salvamento para garantia da segurança no mar e sobre o mar e concluirão, para este efeito, se assim for necessário, acordos regionais de cooperação mútua com os Estados vizinhos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Todo o Estado deve tomar as necessárias medidas destinadas a impedir e punir o transporte de escravos nos navios autorizados a arvorar o seu pavilhão e a impedir a usurpação do seu pavilhão para este fim. Todo o escravo que se refugiar num navio, qualquer que seja o seu pavilhão, ipso facto é livre.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Todos os Estados devem cooperar, na medida do possível, na repressão da pirataria no alto mar ou em qualquer outro lugar fora da jurisdição de qualquer Estado.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Constituem pirataria os actos a seguir enumerados:
 
@@ -995,33 +1007,33 @@ b) Contra um navio ou aeronave, pessoas ou bens, em local fora da jurisdição d
 
 3) Toda a acção tendo por fim incitar a cometer os actos definidos nas alíneas 1) e 2) do presente artigo ou empreendida com a intenção de os facilitar.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Os actos de pirataria, tais como são definidos no artigo 15.º, perpetrados por um navio de guerra ou um navio de Estado ou uma aeronave de Estado cuja tripulação amotinada deles se apoderou, são equiparados aos actos cometidos por um navio privado.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 São considerados como navios ou aeronaves piratas os navios ou aeronaves destinados a cometer um dos actos referidos no artigo 15.º pelas pessoas sob cuja fiscalização eles se encontram efectivamente. O mesmo se aplica aos navios ou aeronaves que tiverem servido para cometer tais actos, enquanto continuarem sob o contrôle das pessoas culpadas destes actos.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Um navio ou aeronave pode conservar a sua nacionalidade apesar da sua transformação em navio ou aeronave pirata. A conservação ou a perda da nacionalidade são determinados de acordo com a lei do Estado que lhes conferiu essa nacionalidade.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Todo o Estado pode apreender ou capturar um navio ou aeronave pirata ou um navio capturado em seguida a actos de pirataria e que esteja em poder de piratas e prender as pessoas e apossar-se dos bens que se encontrem a bordo do dito navio ou aeronave, no alto mar ou em qualquer outro lugar fora da jurisdição de qualquer Estado.
 
 Os tribunais do Estado que efectuou a apreensão podem pronunciar-se sobre as penas a infligir, e bem assim sobre as medidas a tomar no que respeita aos navios, às aeronaves ou aos bens, reservados os direitos de terceiras pessoas de boa fé.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Quando a apreensão de um navio ou aeronave suspeitos de pirataria tiver sido efectuada sem motivo justificado, o Estado que apreendeu o navio ou a aeronave é responsável para com o Estado a cuja nacionalidade pertence o navio ou aeronave por todos os prejuízos e danos causados pela captura.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Qualquer apreensão com fundamento em pirataria pode ser executada apenas por navios de guerra ou aeronaves militares, ou por outros navios ou aeronaves afectados a um serviço público e para esse efeito autorizados.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1. Salvo os casos em que os actos de ingerência são baseados em poderes concedidos por tratado, um navio de guerra que encontre no alto mar um navio de comércio estrangeiro não pode passar-lhe busca a menos que haja um motivo sério para julgar:
 
@@ -1037,7 +1049,7 @@ Para este efeito, pode enviar uma embarcação, sob o comando de um oficial, ao 
 
 2. Se as suspeitas não forem justificadas e o navio parado não tiver cometido qualquer acto que as justifique, deve ser indemnizado por todas as perdas ou danos.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 1. A perseguição de um navio estrangeiro pode ser empreendida se as autoridades competentes do Estado ribeirinho tiverem boas razões para pensar que este navio infringiu as leis e regulamentos deste Estado. Esta perseguição deve começar logo que o navio estrangeiro ou uma das suas embarcações se encontre nas águas interiores, no mar territorial ou na zona contígua do Estado perseguidor e não pode ser continuada para lá dos limites do mar territorial ou da zona contígua, a não ser com a condição de não ter sido interrompida.
 
@@ -1065,17 +1077,17 @@ Para justificar a visita de um navio no alto mar não é suficiente que este ten
 
 7. Se um navio foi parado ou apreendido no alto mar em circunstâncias que não justificam o exercício do direito de perseguição, deve ser indemnizado de qualquer perda ou dano.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Todo o Estado é obrigado a promulgar regras visando evitar a poluição dos mares por hidrocarburetos largados pelos navios ou oleodutos, ou resultando da exploração do solo e do subsolo submarinos, tendo em consideração as disposições convencionais existentes na matéria.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 1. Todo o Estado deve tomar medidas para evitar a poluição dos mares devido à imersão de desperdícios radioactivos, tendo em consideração todas as normas e todas as regulamentações que tiverem podido ser elaboradas pelos organismos internacionais competentes.
 
 2. Todos os Estados devem cooperar com os organismos internacionais competentes na adopção de medidas tendentes a evitar a poluição dos mares ou do espaço aéreo superior, resultantes de todas as actividades que impliquem o emprego de materiais radioactivos ou de outros agentes nocivos.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 1. Todo o Estado tem o direito de colocar cabos e oleodutos submarinos sobre o leito do alto mar.
 
@@ -1085,49 +1097,49 @@ Todo o Estado é obrigado a promulgar regras visando evitar a poluição dos mar
 
 Em particular não deve impedir as possibilidades de reparação dos cabos ou oleodutos já existentes.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Todo o Estado é obrigado a tomar as medidas legislativas necessárias a fim de que a ruptura ou deterioração, por um navio que arvore o seu pavilhão ou por uma pessoa submetida à sua jurisdição, de um cabo submarino no alto mar, feita voluntàriamente ou por negligência que envolva culpa e que possa ter por resultado interromper ou impedir as comunicações telegráficas ou telefónicas, assim como a ruptura ou a deterioração nas mesmas condições de um cabo de alta tensão ou de um oleoduto submarino, constituam infracções passíveis de sanção. Esta disposição não se aplica às rupturas ou deteriorações cujos autores apenas tenham o fim legítimo de proteger a sua vida ou a segurança do seu navio, depois de terem tomado todas as precauções necessárias para evitar estas rupturas ou deteriorações.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Todo o Estado deve tomar as medidas legislativas necessárias a fim de que as pessoas submetidas à sua jurisdição, que sejam proprietárias de um cabo ou de um oleoduto no alto mar e que, pela colocação ou reparação deste cabo ou deste oleoduto, causem a ruptura ou a deterioração de um outro cabo ou de um oleoduto, suportem as respectivas despesas de reparação.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Todo o Estado deve tomar as medidas legislativas necessárias para que os proprietários dos navios que podem provar que sacrificaram uma âncora, uma rede ou outro engenho de pesca para não causar prejuízos a um cabo ou a um oleoduto submarino sejam indemnizados pelo proprietário do cabo ou oleoduto, contanto que tenham tomado prèviamente todas as medidas de precaução razoáveis.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 As disposições da presente Convenção não afectam outras convenções ou acordos internacionais em vigor, nas relações entre os Estados partes a estas convenções ou acordos.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 A presente Convenção estará aberta à assinatura de todos os Estados Membros da Organização das Nações Unidas ou de uma instituição especializada, e bem assim de qualquer outro Estado convidado a ser parte na Convenção pela Assembleia Geral das Nações Unidas, até 31 de Outubro de 1958.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 A presente Convenção será ratificada.
 
 Os instrumentos de ratificação serão depositados junto do secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 A presente Convenção ficará aberta à adesão de qualquer Estado pertencente a uma das categorias mencionadas no artigo 31.º Os instrumentos de adesão serão depositados junto do secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 1. A presente Convenção entrará em vigor no trigésimo dia seguinte à data do depósito junto do secretário-geral da Organização das Nações Unidas do vigésimo segundo instrumento de ratificação ou de adesão.
 
 2. Em relação a cada um dos Estados que ratificarem ou a ela aderirem depois do depósito do vigésimo segundo instrumento de ratificação ou de adesão, a Convenção entrará em vigor no trigésimo dia seguinte ao depósito por este Estado do seu instrumento de ratificação ou de adesão.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 Após decorrido um período de cinco anos, a contar da data na qual esta Convenção tiver entrado em vigor, pode ser formulado a todo o tempo um pedido de revisão da presente Convenção por qualquer parte contratante, mediante notificação escrita, dirigida ao secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
-**O secretário-geral da Organização das Nações Unidas comunicará a todos os Estados Membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 31.º:**
+O secretário-geral da Organização das Nações Unidas comunicará a todos os Estados Membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 31.º:
 
 a) As assinaturas apostas na presente Convenção e o depósito dos instrumentos de ratificação ou de adesão, de harmonia com os artigos 31.º, 32.º e 33.º;
 
@@ -1135,7 +1147,7 @@ b) A data na qual a presente Convenção entrará em vigor, de harmonia com o ar
 
 c) Os pedidos de revisão apresentados de harmonia com o artigo 35.º
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 O original da presente Convenção, cujos textos em inglês, chinês, espanhol, francês e russo fazem igualmente fé, será depositado junto do secretário-geral da Organização das Nações Unidas, que dele enviará cópia autenticada conforme a todos os Estados referidos no artigo 31.º
 
@@ -1327,35 +1339,35 @@ Considerando também que da natureza dos problemas que põe na hora actual a con
 
 Acordaram nas disposições seguintes:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. Todos os Estados têm direito a que os seus nacionais exerçam a pesca no alto mar, sob reserva: a) das suas obrigações convencionais, b) dos interesses e direitos dos Estados ribeirinhos tais como estão previstos na Convenção, c) das disposições relativas à conservação dos recursos biológicos do alto mar contidas nos artigos seguintes.
 
 2. Todos os Estados são obrigados a adoptar ou a cooperar com outros Estados na adopção das medidas aplicáveis aos seus respectivos nacionais que se tornem necessárias para a conservação dos recursos biológicos do alto mar.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Para os efeitos da presente Convenção, a expressão «conservação dos recursos biológicos do alto mar» abrange o conjunto das medidas que tornem possível o rendimento óptimo e constante destes recursos, de maneira a elevar ao máximo as disponibilidades em produtos marinhos, alimentares e outros.
 
 Os programas de conservação devem ser estabelecidos com vista a assegurar, em primeiro lugar, o aprovisionamento em géneros alimentícios destinados ao consumo humano.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Um Estado cujos nacionais se dedicam à pesca de uma ou várias espécies de peixe ou outros recursos biológicos do mar numa zona do alto mar em que os nacionais de outros Estados não a exerçam deve, em caso de necessidade, adoptar em relação aos seus próprios nacionais medidas com vista à conservação dos recursos biológicos afectados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. Se os nacionais de dois ou mais Estados se dedicam à pesca da mesma espécie ou das mesmas espécies de peixe ou de outros recursos biológicos marinhos numa ou várias zonas do alto mar, estes Estados entrarão, por solicitação de um deles, em negociações com vista a impor, de comum acordo, aos seus nacionais, as medidas necessárias à conservação dos recursos biológicos afectados.
 
 2. Se os Estados interessados não puderem chegar a acordo no prazo de doze meses, cada uma das partes pode iniciar o processo previsto no artigo 9.º
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Se, após a adopção das medidas referidas nos artigos 3.º e 4.º, os nacionais de outros Estados se dedicarem à pesca da mesma espécie ou das mesmas espécies de peixe ou de outros recursos biológicos marinhos numa ou mais zonas do alto mar, os outros Estados aplicarão aos seus nacionais as medidas em causa, que não deverão estabelecer qualquer discriminação de direito ou de facto, dentro de sete meses após a data em que tais medidas tiverem sido notificadas ao director-geral da Organização das Nações Unidas para a Alimentação e a Agricultura. O director-geral notificará estas medidas aos Estados que o solicitem e, em qualquer caso, ao Estado designado pelo Estado que tenha adoptado a medida em causa.
 
 2. Se os outros Estados não aceitarem estas medidas e se não puder chegar-se a acordo no prazo de doze meses, cada parte interessada pode iniciar o processo previsto no artigo 9.º Sob reserva das disposições do parágrafo 2 do artigo 10.º, as medidas tomadas permanecem obrigatórias aguardando a decisão da comissão especial.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. Todo o Estado ribeirinho tem um especial interesse na manutenção da produtividade dos recursos biológicos em toda a extensão do alto mar adjacente ao seu mar territorial.
 
@@ -1367,7 +1379,7 @@ Um Estado cujos nacionais se dedicam à pesca de uma ou várias espécies de pei
 
 5. Se os Estados interessados não puderem chegar, num prazo de doze meses, a acordo quanto às medidas de conservação, cada uma das partes contratantes poderá iniciar o processo previsto no artigo 9.º
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. Tendo em consideração as disposições do parágrafo 1 do artigo 6.º, todo o Estado ribeirinho pode, com vista à manutenção da produtividade dos recursos biológicos do mar, adoptar unilateralmente as medidas de conservação apropriadas para toda a espécie de peixe ou outros recursos marinhos em toda a extensão do alto mar adjacente ao seu mar territorial, se as negociações para este efeito realizadas com outros Estados não tiverem chegado a acordo num prazo de seis meses.
 
@@ -1385,13 +1397,13 @@ c) Não tenham, quanto à forma ou quanto ao fundo, efeito discriminatório em r
 
 5. Os princípios de delimitação geográfica enunciados no artigo 12.º da Convenção sobre o mar territorial e a zona contígua são aplicáveis todas as vezes que se trate de costas de Estados diferentes.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. Um Estado que, mesmo que os seus nacionais se não dediquem à pesca numa zona do alto mar não adjacente às suas costas, tenha, no entanto, um interesse especial na conservação dos recursos biológicos do alto mar nessa zona, pode solicitar do Estado ou Estados cujos nacionais aí exerçam a pesca que tomem as medidas necessárias à conservação, nos termos dos artigos 3.º e 4.º, respectivamente, indicando, ao mesmo tempo, as razões científicas que, em sua opinião, tornam tais medidas necessárias e o interesse especial que atribui a esta questão.
 
 2. Se, dentro do prazo de doze meses, não obtiver satisfação, tal Estado pode iniciar o processo previsto no artigo 9.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. Qualquer divergência que possa surgir entre Estados nos casos referidos nos artigos 4.º, 5.º, 6.º, 7.º e 8.º será, por solicitação de uma das partes, submetida a uma comissão especial composta de cinco membros, para regularização, a menos que as partes concordem em procurar a solução por outro modo de regularização pacífica, em conformidade com o artigo 33 da Carta das Nações Unidas.
 
@@ -1407,7 +1419,7 @@ c) Não tenham, quanto à forma ou quanto ao fundo, efeito discriminatório em r
 
 7. As decisões da comissão são tomadas por maioria.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1. Nas divergências resultantes da aplicação do artigo 7.º a comissão especial aplicará os critérios enunciados no parágrafo 2 do referido artigo. Nos conflitos relacionados com a aplicação dos artigos 4.º, 5.º, 6.º e 8.º, a comissão aplicará os critérios seguintes, conforme as questões que constituam o objecto da divergência:
 
@@ -1423,59 +1435,59 @@ b) Em todos os conflitos relacionados com a aplicação do artigo 8.º a comiss�
 
 2. A comissão especial pode decidir que as medidas que constituem objecto da divergência não sejam aplicadas enquanto não tiver tomado a sua decisão, sob reserva, quando se trate de divergências relativas ao artigo 7.º, de que a aplicação das medidas não será suspensa, a não ser que pareça à comissão, com base em presunções apoiadas em provas, que esta aplicação não se impõe com urgência.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 As decisões da comissão especial são obrigatórias para os Estados em causa e as disposições do parágrafo 2 do artigo 94 da Carta das Nações Unidas são aplicáveis a estas decisões. No caso de lhes serem igualmente juntas recomendações, estas devem merecer a maior atenção.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. Se os dados de facto sobre que é fundada a decisão da comissão especial se encontrarem modificados em consequência de modificações importantes ocorridas no estado da espécie ou das espécies de peixe ou outros recursos biológicos marinhos, ou em consequência de modificações nos métodos de pesca, cada um dos Estados interessados pode pedir aos outros Estados interessados o início de negociações com o fim de serem introduzidas, de comum acordo, as modificações necessárias às medidas de conservação.
 
 2. Se não puder chegar-se a acordo dentro de um prazo razoável, cada um dos Estados interessados pode recorrer de novo ao processo previsto no artigo 9.º, com a condição de terem decorrido pelo menos dois anos após a primeira decisão.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1. A regulamentação de pescarias exploradas por meio de aparelhos plantados no solo das zonas do alto mar adjacentes ao mar territorial de um Estado pode ser estabelecida por este Estado quando os seus nacionais tiverem mantido e explorado estas pescarias desde longa data, com a condição de aqueles que não são seus nacionais serem autorizados a participar nestas actividades nas mesmas condições que os seus nacionais, com excepção dos das zonas em que tais pescarias tiverem sido exploradas, em virtude de um longo uso, exclusivamente por estes nacionais. Esta regulamentação não atinge o regime geral destas zonas quando consideradas como fazendo parte do alto mar.
 
 2. Para os efeitos do presente artigo, entende-se por «pescarias exploradas por meio de aparelhos plantados no solo» as pescarias que utilizem aparelhos munidos de suportes plantados no solo em posto fixo e que aí são deixados para efeito de utilização permanente, ou que, no caso de serem retirados, são plantados de novo em cada época na mesma localização.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 A expressão «nacionais» contida nos artigos 1.º, 3.º, 4.º, 5.º, 6.º e 8.º designa os barcos ou embarcações de pesca de qualquer tonelagem que tenham a nacionalidade do Estado em causa, de harmonia com a legislação do referido Estado, qualquer que seja a nacionalidade dos membros das suas equipagens.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 A presente Convenção estará aberta à assinatura de todos os Estados Membros da Organização das Nações Unidas ou de uma instituição especializada, bem como de qualquer outro Estado convidado pela Assembleia Geral das Nações Unidas a ser parte na Convenção, até 31 de Outubro de 1958.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 A presente Convenção será ratificada. Os instrumentos de ratificação serão depositados junto do secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 A presente Convenção estará aberta à adesão de qualquer Estado pertencente a uma das categorias mencionadas no artigo 15.º Os instrumentos de adesão serão depositados junto do secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1. A presente Convenção entrará em vigor no trigésimo dia seguinte à data do depósito junto do secretário-geral da Organização das Nações Unidas do vigésimo segundo instrumento de ratificação ou de adesão.
 
 2. A Convenção entrará em vigor, em relação a cada um dos Estados que ratificarem a Convenção ou a ela aderirem após o depósito do vigésimo segundo instrumento de ratificação ou adesão, no trigésimo dia seguinte ao depósito por este Estado do seu instrumento de ratificação ou de adesão.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 1. Qualquer Estado poderá formular, no momento da assinatura, da ratificação ou da adesão, reservas aos artigos da Convenção que não incidam sobre os artigos 6.º, 7.º, 9.º, 10.º, 11.º e 12.º
 
 2. Qualquer Estado contratante que tiver formulado reservas de harmonia com o parágrafo precedente poderá em qualquer momento retirá-las, mediante comunicação nesse sentido dirigida ao secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1. Após a expiração de um período de cinco anos, a contar da data em que a presente Convenção tiver entrado em vigor, poderá ser apresentado um pedido de revisão da presente Convenção em qualquer altura, por qualquer parte contratante, mediante notificação escrita dirigida ao secretário-geral da Organização das Nações Unidas.
 
 2. A Assembleia Geral das Nações Unidas decidirá sobre quais as medidas a tomar a propósito de tal pedido.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
-**O secretário-geral da Organização das Nações Unidas notificará a todos os Estados Membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 15.º:**
+O secretário-geral da Organização das Nações Unidas notificará a todos os Estados Membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 15.º:
 
 a) As assinaturas apostas na presente Convenção e o depósito dos instrumentos de ratificação ou de adesão, de harmonia com os artigos 15.º, 16.º e 17.º;
 
@@ -1485,7 +1497,7 @@ c) Os pedidos de revisão apresentados de harmonia com o artigo 20.º;
 
 d) As reservas à presente Convenção apresentadas de harmonia com o artigo 19.º
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 O original da presente Convenção, cujos textos em inglês, chinês, espanhol, francês e russo fazem igualmente fé, será depositado junto do secretário-geral da Organização das Nações Unidas, que dele fará enviar cópia autenticada conforme a todos os Estados referidos no artigo 15.º
 
@@ -1603,7 +1615,7 @@ CONVENÇÃO SOBRE A PLATAFORMA CONTINENTAL
 
 Os Estados partes à presente Convenção acordaram nas seguintes disposições:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para os fins dos presentes artigos a expressão «plataforma continental» é utilizada para designar:
 
@@ -1611,7 +1623,7 @@ a) O leito do mar e o subsolo das regiões submarinas adjacentes às costas mas 
 
 b) O leito do mar e o subsolo das regiões submarinas análogas que são adjacentes às costas das ilhas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. O Estado ribeirinho exerce direitos soberanos sobre a plataforma continental com o fim da sua exploração e da extracção dos seus recursos naturais.
 
@@ -1621,15 +1633,15 @@ b) O leito do mar e o subsolo das regiões submarinas análogas que são adjacen
 
 4. Os recursos naturais referidos nos presentes artigos compreendem os recursos minerais e outros recursos não vivos no leito do mar e do subsolo, bem como os organismos vivos que pertencem às espécies sedentárias, quer dizer, de organismos que no estado em que podem ser pescados são incapazes de se deslocar a não ser permanecendo constantemente em contacto físico com o leito do mar ou o subsolo.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Os direitos do Estado ribeirinho sobre a plataforma continental não afectam o regime das águas superjacentes enquanto consideradas como alto mar, nem o do espaço aéreo situado sobre essas águas.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O Estado ribeirinho não pode impedir a colocação ou a manutenção dos cabos ou dos oleodutos submarinos sobre a plataforma continental, salvo a reserva do seu direito de tomar as medidas razoáveis para a exploração da plataforma continental e extracção dos seus recursos naturais.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. A exploração da plataforma continental e a extracção dos seus recursos naturais não devem ter por efeito prejudicar de uma forma injustificável a navegação, a pesca ou a conservação dos recursos biológicos do mar, nem prejudicar as investigações oceanográficas fundamentais ou as outras pesquisas científicas efectuadas com intenção de lhes publicar os resultados.
 
@@ -1647,7 +1659,7 @@ O Estado ribeirinho não pode impedir a colocação ou a manutenção dos cabos 
 
 8. Deve ser obtido o consentimento do Estado ribeirinho para todas as pesquisas relacionadas com a plataforma continental a empreender localmente. Contudo, o Estado ribeirinho não recusará, em regra, o seu consentimento quando o pedido for apresentado por uma instituição qualificada com vista a pesquisas de natureza puramente científica relativas às características físicas ou biológicas da plataforma continental, sob condição de que o Estado ribeirinho possa, se assim o desejar, participar nestas pesquisas ou de nelas se fazer representar e que, em todo o caso, os resultados sejam publicados.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. No caso de uma mesma plataforma continental ser adjacente aos territórios de dois ou vários Estados cujas costas são opostas, o limite da plataforma continental entre estes Estados será determinado por acordo entre eles. Na falta de acordo e a menos que circunstâncias especiais justifiquem outra delimitação, esta será constituída pela linha mediana em que todos os pontos são equidistantes dos pontos mais aproximados das linhas de base a partir das quais é medida a largura do mar territorial de cada um dos Estados.
 
@@ -1657,45 +1669,45 @@ Na falta de acordo e a menos que circunstâncias especiais justifiquem outra del
 
 3. Ao delimitar a plataforma continental, toda a linha de demarcação estabelecida de acordo com os princípios mencionados nos parágrafos 1 e 2 do presente artigo deveria ser definida por referência às cartas e às características geográficas existentes numa dada data e deveria ser feita menção de pontos de referência permanentes e fixos à terra.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As disposições dos presentes artigos em nada afectam o direito do Estado ribeirinho de explorar o subsolo pelo recurso à escavação de túneis, qualquer que seja a altura das águas acima do subsolo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A presente Convenção estará aberta à assinatura de todos os Estados Membros da Organização das Nações Unidas ou de uma instituição especializada, assim como de qualquer outro Estado convidado pela Assembleia Geral das Nações Unidas a ser parte à Convenção, até 31 de Outubro de 1958.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 A presente Convenção será ratificada.
 
 Os instrumentos de ratificação serão depositados junto do secretário-geral das Nações Unidas.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 A presente Convenção estará aberta à adesão de qualquer Estado pertencente a uma das categorias mencionadas no artigo 8.º Os instrumentos de adesão serão depositados junto do secretário-geral das Nações Unidas.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1. A presente Convenção entrará em vigor no trigésimo dia seguinte à data do depósito junto do secretário-geral da Organização das Nações Unidas do vigésimo segundo instrumento de ratificação ou de adesão.
 
 2. Em relação a cada um dos Estados que ratificarem a Convenção ou a ela aderirem após o depósito do vigésimo segundo instrumento de ratificação ou de adesão a Convenção entrará em vigor no trigésimo dia após o depósito por este Estado do seu instrumento de ratificação ou de adesão.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. Por ocasião da assinatura, da ratificação ou da adesão qualquer Estado poderá formular reservas aos artigos da Convenção que não sejam os artigos 1.º a 3.º, inclusive.
 
 2. Todo o Estado contratante que tiver formulado reservas de acordo com o parágrafo anterior poderá, em qualquer altura, retirá-las mediante comunicação para este efeito dirigida ao secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1. Após expiração de um período de cinco anos, a contar da data em que a presente Convenção tiver entrado em vigor, pode, em qualquer altura, ser formulado pedido de revisão da presente Convenção por qualquer parte contratante, mediante notificação escrita dirigida ao secretário-geral das Nações Unidas.
 
 2. A Assembleia Geral das Nações Unidas decidirá sobre as medidas a tomar, em cada caso, a respeito desse pedido.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
-**O secretário-geral da Organização das Nações Unidas notificará a todos os Estados membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 8.º:**
+O secretário-geral da Organização das Nações Unidas notificará a todos os Estados membros da Organização das Nações Unidas e aos outros Estados referidos no artigo 8.º:
 
 a) As assinaturas apostas na presente Convenção e o depósito dos instrumentos de ratificação ou de adesão, de harmonia com os artigos 8.º, 9.º e 10.º;
 
@@ -1705,7 +1717,7 @@ c) Os pedidos de revisão apresentados de harmonia com o artigo 13.º;
 
 d) As reservas a esta Convenção apresentadas de harmonia com o artigo 12.º
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 O original da presente Convenção, cujos textos em inglês, chinês, espanhol, francês e russo fazem igualmente fé, será depositado junto do secretário-geral das Nações Unidas, que dele enviará cópia autenticada conforme a todos os Estados referidos no artigo 8.º
 
@@ -1763,33 +1775,33 @@ Exprimindo o seu desejo de recorrer, no que se lhes refere, à jurisdição obri
 
 Acordaram nas disposições seguintes:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As divergências relativas à interpretação ou à aplicação de todas as Convenções sobre o direito do mar são da competência obrigatória do Tribunal Internacional de Justiça, que para esse efeito poderá ser solicitado por qualquer Estado parte, interessado na disputa, que seja igualmente parte ao presente Protocolo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O presente compromisso visa o conjunto de todas as Convenções sobre o direito do mar, com excepção dos artigos 4.º, 5.º, 6.º, 7.º e 8.º da Convenção sobre a pesca e a conservação dos recursos biológicos do alto mar, aos quais os artigos 9.º, 10.º, 11.º e 12.º desta Convenção continuam a ser aplicáveis.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 As partes podem convir, dentro de um prazo de dois meses após notificação feita por uma parte à outra de que, em sua opinião, existe um litígio, na adopção, de comum acordo, em vez do recurso ao Tribunal International de Justiça, de um processo perante um tribunal de arbitragem. Passado este prazo, cada parte ao presente Protocolo pode, por via de requerimento, apresentar a divergência ao Tribunal.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. As partes ao presente Protocolo podem igualmente acordar, de comum acordo, no mesmo prazo de dois meses, no recurso a um processo de conciliação antes de apelar para o Tribunal Internacional de Justiça.
 
 2. A comissão de conciliação deverá formular as suas recomendações nos cinco meses seguintes à sua constituição. Se estas não forem aceites pelas partes em litígio no espaço de dois meses depois do seu oferecimento, cada parte será livre de recorrer ao Tribunal mediante requerimento.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O presente Protocolo estará aberto à assinatura de todos os Estados que se tornem partes a qualquer das Convenções sobre o direito do mar aprovadas pela Conferência das Nações Unidas sobre o direito do mar e será, nesse caso, submetido à ratificação, de harmonia com as disposições constitucionais dos Estados signatários.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
-**O secretário-geral da Organização das Nações Unidas informará todos os Estados que venham a ser partes em qualquer das Convenções sobre o direito do mar das assinaturas apostas no presente Protocolo e do depósito dos instrumentos de ratificação, de harmonia com o artigo 5.º**
+O secretário-geral da Organização das Nações Unidas informará todos os Estados que venham a ser partes em qualquer das Convenções sobre o direito do mar das assinaturas apostas no presente Protocolo e do depósito dos instrumentos de ratificação, de harmonia com o artigo 5.º
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 O original do presente Protocolo, cujos textos em chinês, inglês, francês, russo e espanhol fazem igualmente fé, será depositado junto do secretário-geral da Organização das Nações Unidas, que dele enviará cópias autenticadas conformes a todos os Estados referidos no artigo 5.º
 

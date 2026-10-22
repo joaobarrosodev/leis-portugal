@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1982-395890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 816fe43bdb5df9d1cae582cfd69c6aae976cafcf66ef6e7a8a866dee548f63c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eba5b7a29ef99b34eec16daff4370e84b44afdbb13148f7b7fd76bc9b5246ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento do Notariado
+- Notário
+- Reestruturação de Serviços
+- Registos e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:488855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECT DR.IS [161] DE 15/JUL/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECT DR.IS [218] DE 20/SET/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-09-20'
+- type: amended_by
+  target: pt:dre:443686:por
+  label: "Substituída a tabela de emolumentos do notariado, pelo DEC LEI.397/83.02.11.1983.MJ, DR.IS [252] de 02.11.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-1983-443686
+  date: '1983-11-02'
+- type: amended_by
+  target: pt:dre:621541:por
+  label: "Alterados os art.s 4º e 5º, pelo DEC LEI.272/94.1994.10.28.MJ, DR.IS-A [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1994-621541
+  date: '1994-10-28'
+- type: amended_by
+  target: pt:dre:217323:por
+  label: "Alterados os arts. 4.º e 5.º do presente diploma, na redacção do Dec Lei 272/94, de 28-Out, pelo DEC LEI.380/98.27.11.1998.MJ,\
+    \ DR.IS-A [275] de 27.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/380-1998-217323
+  date: '1998-11-27'
+- type: amended_by
+  target: pt:dre:488855:por
+  label: "Alterado o art 4º, com a redacção dada pelos Dec Lei 272/94 de 28-Out e 380/98 de 27-Nov, pelo DEC LEI.5/99.1999.01.07.MJ\
+    \ DR.IS-A [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1999-488855
+  date: '1999-01-07'
+- type: cites
+  target: pt:dre:448532:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394281:por
+  label: Rectificado pela DECL.DD6120.02.07.1982.PCM, DR.IS [161] de 15.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394281
+  date: '1982-07-02'
+- type: corrected_by
+  target: pt:dre:375849:por
+  label: Rectificado pela DECL.DD6055.03.09.1982.PCM, DR.IS [218] de 20.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375849
+  date: '1982-09-03'
 article_structure:
-  article_count: 33
+  article_count: 32
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:37Z'
   warnings: []
   errors: []
 ---
@@ -104,41 +155,41 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nos cartórios notariais de 1.ª e 2.ª classes que não funcionem em regime de secretaria pode ser criado, por despacho do Ministro da Justiça, o lugar de notário-adjunto.
+Artigo 1.º Nos cartórios notariais de 1.ª e 2.ª classes que não funcionem em regime de secretaria pode ser criado, por despacho do Ministro da Justiça, o lugar de notário-adjunto.
 
-###### Art. 2.º - 1 - Os notários-adjuntos são nomeados e exonerados livremente sob proposta do notário titular do cartório, considerando-se em comissão de serviço quando já pertencentes aos quadros.
+Art. 2.º - 1 - Os notários-adjuntos são nomeados e exonerados livremente sob proposta do notário titular do cartório, considerando-se em comissão de serviço quando já pertencentes aos quadros.
 
 2 - A nomeação só pode recair em notários colocados em lugar de 3.ª classe ou em quem reúna as condições legais de ingresso na carreira.
 
 3 - Os notários-adjuntos não pertencentes ao quadro, quando exonerados, ficam na situação de adidos e são concorrentes obrigatórios nos concursos para provimento de lugares de notário de 3.ª classe; uma vez nomeados, é-lhes contado, para efeitos de graduação na classe, todo o tempo de serviço prestado naquela qualidade.
 
-###### Art. 3.º - 1 - Os notários-adjuntos têm competência funcional plena, executam as tarefas que lhes forem distribuídas pelo notário titular, actuam sob a direcção e vigilância deste e são os seus primeiros substitutos.
+Art. 3.º - 1 - Os notários-adjuntos têm competência funcional plena, executam as tarefas que lhes forem distribuídas pelo notário titular, actuam sob a direcção e vigilância deste e são os seus primeiros substitutos.
 
 2 - Para efeitos de vencimento de categoria, os lugares de notário-adjunto em cartórios de 1.ª e 2.ª classes consideram-se lugares de 2.ª e 3.ª classes, respectivamente, acrescendo, em ambos os casos e a título de vencimento de exercício, 75% da participação emolumentar apurada para o notário titular do cartório.
 
-###### Art. 4.º - 1 - Quando durante as horas normais de serviço for solicitada a presença dos notários de Lisboa e do Porto para a realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, aqueles far-se-ão substituir, nesses actos, pelos notários-adjuntos ou pelos ajudantes.
+Art. 4.º - 1 - Quando durante as horas normais de serviço for solicitada a presença dos notários de Lisboa e do Porto para a realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, aqueles far-se-ão substituir, nesses actos, pelos notários-adjuntos ou pelos ajudantes.
 
 2 - O regime previsto no número anterior aplicar-se-á a outras localidades, quando o número de actos o justifique, por despacho do director-geral dos Registos e do Notariado, ouvido o conselho técnico.
 
 3 - No caso de substituição pelos ajudantes, a realização dos actos referidos no n.º 1 só pode ter lugar após a apreciação, pelo notário, dos respectivos instrumentos e desde que destes conste o seu visto.
 
-###### Art. 5.º Exceptuados os testamentos e os actos realizados na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, só podem ser realizados fora do cartório, em cada mês, 5% do total dos actos realizados no mês anterior.
+Art. 5.º Exceptuados os testamentos e os actos realizados na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, só podem ser realizados fora do cartório, em cada mês, 5% do total dos actos realizados no mês anterior.
 
-###### Art. 6.º - 1 - A exibição do bilhete de identidade do signatário de qualquer documento tem o mesmo valor legal do reconhecimento por semelhança da respectiva assinatura.
+Art. 6.º - 1 - A exibição do bilhete de identidade do signatário de qualquer documento tem o mesmo valor legal do reconhecimento por semelhança da respectiva assinatura.
 
 2 - Nenhuma autoridade ou repartição pública pode exigir a legalização de documentos por via de reconhecimento por semelhança se o bilhete de identidade do signatário lhe for exibido.
 
-###### Art. 7.º A Tabela de Emolumentos do Notariado, anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, é substituída pela tabela anexa ao presente diploma.
+Art. 7.º A Tabela de Emolumentos do Notariado, anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, é substituída pela tabela anexa ao presente diploma.
 
-###### Art. 8.º Os emolumentos especiais cobrados pela realização de actos de registo civil fora das repartições têm a natureza de emolumentos pessoais e revertem a favor dos funcionários da repartição em termos idênticos aos fixados no artigo 30.º da Tabela de Emolumentos do Notariado anexa ao presente diploma.
+Art. 8.º Os emolumentos especiais cobrados pela realização de actos de registo civil fora das repartições têm a natureza de emolumentos pessoais e revertem a favor dos funcionários da repartição em termos idênticos aos fixados no artigo 30.º da Tabela de Emolumentos do Notariado anexa ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1982. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 17 de Maio de 1982.**
+Promulgado em 17 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 TABELA DE EMOLUMENTOS DO NOTARIADO
 

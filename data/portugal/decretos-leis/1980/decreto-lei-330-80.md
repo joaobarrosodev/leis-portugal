@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19700/23852385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1980-469782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfeb1d278956d3e3815195c8723f8d359c63f941d5551ca4bda1d98ae7506744
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d282fed938e30ddfc910a9dc24bceb8957ad90ce02402f117f1e77f0330ac43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Empregos
+- Ensino Particular
+- Ensino Preparatório
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:411815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411815:por
+  label: "Revogado pelo DEC LEI.139-A/90.28.04.1990.ME, DR.IS [98-Supl] de 28.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-a-1990-411815
+  date: '1990-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:04Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +119,20 @@ Considerando, por fim, a necessidade de reformular todo o artigo 9.º do [Decret
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 9.º do [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 9.º do [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 9.º - 1 - Pelo exercício de funções docentes no ensino oficial, preparatório ou secundário realizado em regime de acumulação com outro cargo público, o docente será remunerado pelo serviço lectivo efectivamente prestado.
+Art. 9.º - 1 - Pelo exercício de funções docentes no ensino oficial, preparatório ou secundário realizado em regime de acumulação com outro cargo público, o docente será remunerado pelo serviço lectivo efectivamente prestado.
 
 2 - Salvo o disposto no n.º 3 do artigo 7.º, as remunerações pelo exercício de funções docentes em regime de acumulação com outro cargo público não poderão exceder, mensalmente, metade do vencimento correspondente à letra atribuída ao professor provisório com habilitação própria de grau superior ou equivalente.
 
 3 - Pelo serviço prestado em regime de acumulação com outro cargo público, os docentes não terão direito a abono de subsídio de férias e 13.º mês.
 
-###### Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde a data de entrada em vigor do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro.
+Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde a data de entrada em vigor do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral - Vítor Pereira Crespo.
 
-**Promulgado em 13 de Agosto de 1980.**
+Promulgado em 13 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

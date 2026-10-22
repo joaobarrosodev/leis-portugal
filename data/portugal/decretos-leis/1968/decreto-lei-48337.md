@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48337-1968-234529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d45563ee695ac8d0698c2093649daf48a74d6b5f38e7e84caf4b3d43a1965a20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52cad4654d607d03c40580fc5dca9905a8c076b7c5c33eb05bfff34138df0cca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipação do Estado
+- Concurso Público
+- Direcção Geral dos Serviços Eléctricos
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:183021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335734:por
+  label: "Alterados os arts. 17º e 18º pelo DEC LEI.297/75.19.06.1975.MIT, DG.IS [139] de 19.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-1975-335734
+  date: '1975-06-19'
+- type: cites
+  target: pt:dre:192199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598347:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:183021:por
+  label: "Revogadas as disposições do presente diploma que contrariem o DEC LEI.233/85.04.07.1985.MA, DR.IS [151] de 04.07.1985,\
+    \ pelo mesmo diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-1985-183021
+  date: '1985-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:03Z'
   warnings: []
   errors: []
 ---
@@ -119,13 +160,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Com vista a impulsionar a pequena distribuição de energia eléctrica, tal como a define a [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, compreendendo novas instalações e acessòriamente a remodelação e ampliação das existentes e a acelerar a electrificação rural e agrícola, o Governo concederá as seguintes modalidades de auxílio:
+Artigo 1.º Com vista a impulsionar a pequena distribuição de energia eléctrica, tal como a define a [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, compreendendo novas instalações e acessòriamente a remodelação e ampliação das existentes e a acelerar a electrificação rural e agrícola, o Governo concederá as seguintes modalidades de auxílio:
 
 1) Comparticipação no custo das obras;
 
 2) Comparticipação no subsídio a entregar ao concessionário da grande distribuição nos termos da alínea II-a) e complemento, até ao limite do prazo de seis anos, de garantia prevista na alínea II-b), do artigo 118.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
 
-###### Art. 2.º As modalidades de auxílio previstas no artigo anterior poderão ser atribuídas:
+Art. 2.º As modalidades de auxílio previstas no artigo anterior poderão ser atribuídas:
 
 a) Às câmaras municipais ou às federações de municípios organizadas nos termos da base XX da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), quer a distribuição de energia seja feita directamente, quer em regime de concessão;
 
@@ -135,47 +176,47 @@ c) Às entidades oficiais ou privadas que explorem propriedades agrícolas elect
 
 d) A outras entidades, nos casos em que a legislação especial o permita.
 
-###### Art. 3.º Em relação às linhas de alta tensão necessárias para alimentação das instalações das entidades referidas no artigo anterior, a forma de auxílio, a definir pelo Secretário de Estado da Indústria, poderá revestir qualquer das modalidades previstas no artigo 1.º
+Art. 3.º Em relação às linhas de alta tensão necessárias para alimentação das instalações das entidades referidas no artigo anterior, a forma de auxílio, a definir pelo Secretário de Estado da Indústria, poderá revestir qualquer das modalidades previstas no artigo 1.º
 
-###### Art. 4.º No caso de a distribuição de energia ser feita em regime de concessão, só poderão ser atribuídas comparticipações desde que as condições contratuais de avaliação das instalações comparticipadas, para efeitos de resgate ou de entrega no fim da concessão, ressalvado o disposto no parágrafo seguinte, tenham em conta os subsídios recebidos pelo concessionário; estas comparticipações não poderão ultrapassar 90 por cento das percentagens a cargo da entidade concedente, previstas nos respectivos cadernos de encargos, sem prejuízo dos limites que vierem a ser fixados nos termos do § único do artigo 13.º
+Art. 4.º No caso de a distribuição de energia ser feita em regime de concessão, só poderão ser atribuídas comparticipações desde que as condições contratuais de avaliação das instalações comparticipadas, para efeitos de resgate ou de entrega no fim da concessão, ressalvado o disposto no parágrafo seguinte, tenham em conta os subsídios recebidos pelo concessionário; estas comparticipações não poderão ultrapassar 90 por cento das percentagens a cargo da entidade concedente, previstas nos respectivos cadernos de encargos, sem prejuízo dos limites que vierem a ser fixados nos termos do § único do artigo 13.º
 
 § único. Quanto às linhas de alta tensão destinadas à alimentação das instalações referidas no corpo do artigo, será aplicável o disposto no artigo 3.º, se aquelas linhas não ficarem integradas na concessão.
 
-###### Art. 5.º As comparticipações a conceder às entidades oficiais ou privadas que explorem propriedades agrícolas electrificadas serão precedidas do parecer dos serviços competentes da Secretaria de Estado da Agricultura e abrangem apenas as obras a efectuar na rede pública destinadas ao fornecimento de energia a essas propriedades.
+Art. 5.º As comparticipações a conceder às entidades oficiais ou privadas que explorem propriedades agrícolas electrificadas serão precedidas do parecer dos serviços competentes da Secretaria de Estado da Agricultura e abrangem apenas as obras a efectuar na rede pública destinadas ao fornecimento de energia a essas propriedades.
 
 § único. As obras previstas no corpo do artigo serão estabelecidas, nos termos legais, pela entidade distribuidora de energia que efectuar o fornecimento e ficarão integradas na sua rede.
 
-###### Art. 6.º Os auxílios previstos no artigo 1.º deste diploma serão suportados pelas dotações que forem inscritas no orçamento de despesa extraordinária do Ministério da Economia e no orçamento do Fundo de Desemprego, para investimentos em electrificação rural, em execução dos escalonamentos previstos nos planos de fomento.
+Art. 6.º Os auxílios previstos no artigo 1.º deste diploma serão suportados pelas dotações que forem inscritas no orçamento de despesa extraordinária do Ministério da Economia e no orçamento do Fundo de Desemprego, para investimentos em electrificação rural, em execução dos escalonamentos previstos nos planos de fomento.
 
 § único. A contribuição do Fundo de Desemprego poderá efectivar-se quer pelo pagamento directo dos auxílios concedidos, quer indirectamente, através de depósitos nos Cofres do Tesouro, em operações de tesouraria, a efectuar, a pedido da Direcção-Geral dos Serviços Eléctricos, à medida que forem sendo necessários para reembolso das despesas a satisfazer de conta do orçamento do Ministério da Economia e até ao limite dos duodécimos vencidos.
 
-###### Art. 7.º As dotações atribuídas em cada ano nos termos do artigo 6.º poderão ser acrescidas dos saldos das correspondentes dotações do ano anterior.
+Art. 7.º As dotações atribuídas em cada ano nos termos do artigo 6.º poderão ser acrescidas dos saldos das correspondentes dotações do ano anterior.
 
-###### Art. 8.º Os pedidos de auxílio do Estado deverão ser feitos em requerimento dirigido ao Secretário de Estado da Indústria, instruído com dois exemplares dos orçamentos, além dos documentos necessários ao licenciamento das instalações, e serão entregues até 30 de Setembro de cada ano.
+Art. 8.º Os pedidos de auxílio do Estado deverão ser feitos em requerimento dirigido ao Secretário de Estado da Indústria, instruído com dois exemplares dos orçamentos, além dos documentos necessários ao licenciamento das instalações, e serão entregues até 30 de Setembro de cada ano.
 
-###### Art. 9.º Nos casos abrangidos pela alínea 2) do artigo 1.º, do requerimento deverá constar o pedido de comparticipação no subsídio a conceder para o estabelecimento da linha de alta tensão, cujo valor será incluído no orçamento da obra a comparticipar, e, ainda, o pedido relativo ao complemento de garantia de potência e de consumo.
+Art. 9.º Nos casos abrangidos pela alínea 2) do artigo 1.º, do requerimento deverá constar o pedido de comparticipação no subsídio a conceder para o estabelecimento da linha de alta tensão, cujo valor será incluído no orçamento da obra a comparticipar, e, ainda, o pedido relativo ao complemento de garantia de potência e de consumo.
 
-###### Art. 10.º A Direcção-Geral dos Serviços Eléctricos, com base nos pedidos recebidos e nos elementos que possuir, deverá submeter à apreciação do Secretário de Estado da Indústria, até 15 de Dezembro de cada ano, o plano geral dos auxílios a conceder no ano seguinte. Deste plano deverão constar as estimativas dos custos das obras a realizar e das importâncias a conceder por comparticipação, e bem assim uma verba global destinada ao pagamento dos complementos das garantias de potência e de consumo.
+Art. 10.º A Direcção-Geral dos Serviços Eléctricos, com base nos pedidos recebidos e nos elementos que possuir, deverá submeter à apreciação do Secretário de Estado da Indústria, até 15 de Dezembro de cada ano, o plano geral dos auxílios a conceder no ano seguinte. Deste plano deverão constar as estimativas dos custos das obras a realizar e das importâncias a conceder por comparticipação, e bem assim uma verba global destinada ao pagamento dos complementos das garantias de potência e de consumo.
 
 § único. Os encargos correspondentes à elaboração dos projectos e à administração das obras poderão ser incluídos nos orçamentos das instalações, não devendo o seu valor, a ponderar em cada caso, consoante a natureza dos trabalhos, exceder 17 por cento dos valores daqueles orçamentos.
 
-###### Art. 11.º Não serão, em regra, de considerar no plano do ano seguinte os requerimentos entregues fora do prazo referido no artigo 8.º, salvos casos especiais, aceites pelo Secretário de Estado da Indústria, mediante parecer da Direcção-Geral dos Serviços Eléctricos.
+Art. 11.º Não serão, em regra, de considerar no plano do ano seguinte os requerimentos entregues fora do prazo referido no artigo 8.º, salvos casos especiais, aceites pelo Secretário de Estado da Indústria, mediante parecer da Direcção-Geral dos Serviços Eléctricos.
 
-###### Art. 12.º Os planos anuais a que se refere o artigo 10.º serão elaborados de modo a contemplar equitativamente todas as regiões do País, dando-se preferência, na medida do possível, à construção de novas redes em localidades ainda não servidas, às regiões com menor índice de electrificação, aos pedidos formulados pelas federações ou câmaras municipais dos concelhos rurais, e, de entre estas, pelas de menores recursos financeiros.
+Art. 12.º Os planos anuais a que se refere o artigo 10.º serão elaborados de modo a contemplar equitativamente todas as regiões do País, dando-se preferência, na medida do possível, à construção de novas redes em localidades ainda não servidas, às regiões com menor índice de electrificação, aos pedidos formulados pelas federações ou câmaras municipais dos concelhos rurais, e, de entre estas, pelas de menores recursos financeiros.
 
-###### Art. 13.º Poderão estabelecer-se várias categorias de obras, com diferentes percentagens de comparticipação, até ao máximo de 85 por cento, correspondendo as mais elevadas à construção de novas redes em zonas rurais de limitados recursos e à electrificação agrícola e as mais baixas a obras de remodelação, ampliação ou melhoramentos de instalações existentes nos aglomerados populacionais mais importantes.
+Art. 13.º Poderão estabelecer-se várias categorias de obras, com diferentes percentagens de comparticipação, até ao máximo de 85 por cento, correspondendo as mais elevadas à construção de novas redes em zonas rurais de limitados recursos e à electrificação agrícola e as mais baixas a obras de remodelação, ampliação ou melhoramentos de instalações existentes nos aglomerados populacionais mais importantes.
 
 § único. Para efeitos do disposto no corpo do artigo, o Secretário de Estado da Indústria fixará as percentagens das comparticipações a conceder, diferenciadas de acordo com a categoria das obras e com as características das localidades a servir.
 
-###### Art. 14.º As federações de municípios organizadas nos termos da base XX da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) poderão beneficiar, quando constituídas por cinco ou mais concelhos rurais, do maior valor da percentagem que corresponder à categoria das obras que se proponham executar, independentemente da classificação dos aglomerados populacionais a que as obras se destinem.
+Art. 14.º As federações de municípios organizadas nos termos da base XX da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) poderão beneficiar, quando constituídas por cinco ou mais concelhos rurais, do maior valor da percentagem que corresponder à categoria das obras que se proponham executar, independentemente da classificação dos aglomerados populacionais a que as obras se destinem.
 
-###### Art. 15.º Estudado em cada caso o orçamento da obra e cumpridas as formalidades legais do seu licenciamento, serão fixadas por portaria as condições do auxílio a conceder.
+Art. 15.º Estudado em cada caso o orçamento da obra e cumpridas as formalidades legais do seu licenciamento, serão fixadas por portaria as condições do auxílio a conceder.
 
 § 1.º Quando se tratar de auxílios a satisfazer directamente pelo orçamento do Fundo de Desemprego, competirá ao Ministério das Obras Públicas, por intermédio do Comissariado do Desemprego, a publicação das respectivas portarias.
 
 § 2.º Depois de publicada a portaria a que se refere o corpo do artigo, a Direcção-Geral dos Serviços Eléctricos dará conhecimento da mesma ao beneficiário.
 
-###### Art. 16.º Das portarias referidas no artigo anterior deverá constar:
+Art. 16.º Das portarias referidas no artigo anterior deverá constar:
 
 a) Entidade que beneficia da comparticipação;
 
@@ -189,27 +230,27 @@ e) O prazo para execução dos trabalhos;
 
 f) O deferimento do pedido de complemento da garantia, se para tal houver lugar.
 
-###### Art. 17.º As comparticipações concedidas ao abrigo deste diploma poderão ser pagas no decurso das obras a que se referem, na proporção dos trabalhos realizados.
+Art. 17.º As comparticipações concedidas ao abrigo deste diploma poderão ser pagas no decurso das obras a que se referem, na proporção dos trabalhos realizados.
 
 § único. Em casos especiais, poderá o Secretário de Estado da Indústria autorizar o pagamento de uma fracção da comparticipação, proporcional ao valor dos materiais ao pé da obra.
 
-###### Art. 18.º Para efeitos do artigo anterior deverá a Direcção-Geral dos Serviços Eléctricos, quando o desenvolvimento dos trabalhos o justifique, promover a elaboração de autos de medição dos trabalhos realizados, donde conste o valor da fracção da comparticipação que pode ser paga. Estes autos, depois de visados e autenticados com o selo branco, serão enviados, acompanhados da respectiva folha de pagamento, devidamente processada:
+Art. 18.º Para efeitos do artigo anterior deverá a Direcção-Geral dos Serviços Eléctricos, quando o desenvolvimento dos trabalhos o justifique, promover a elaboração de autos de medição dos trabalhos realizados, donde conste o valor da fracção da comparticipação que pode ser paga. Estes autos, depois de visados e autenticados com o selo branco, serão enviados, acompanhados da respectiva folha de pagamento, devidamente processada:
 
 a) À 11.ª Repartição da Direcção-Geral da Contabilidade Pública, no caso de auxílios satisfeitos por verba do orçamento do Ministério da Economia;
 
 b) Ao Comissariado do Desemprego, no caso previsto no § 1.º do artigo 15.º
 
-###### Art. 19.º Quando a portaria que conceder o auxílio do Estado incluir o complemento de garantia previsto na alínea 2) do artigo 1.º, o pagamento da importância correspondente será processado mediante a apresentação de um documento, em quadruplicado, passado pelo distribuidor regional da grande distribuição, do qual conste, em relação ao ano anterior, a diferença entre a importância anual das facturas correspondentes às condições resultantes da garantia e a que seria de cobrar se aquela garantia não existisse.
+Art. 19.º Quando a portaria que conceder o auxílio do Estado incluir o complemento de garantia previsto na alínea 2) do artigo 1.º, o pagamento da importância correspondente será processado mediante a apresentação de um documento, em quadruplicado, passado pelo distribuidor regional da grande distribuição, do qual conste, em relação ao ano anterior, a diferença entre a importância anual das facturas correspondentes às condições resultantes da garantia e a que seria de cobrar se aquela garantia não existisse.
 
-###### Art. 20.º Quando as obras comparticipadas não forem concluídas dentro do prazo fixado na respectiva portaria, será este automàticamente prorrogado por dois períodos consecutivos iguais a metade do prazo inicial, sofrendo, porém, a comparticipação correspondente aos trabalhos não realizados um desconto de 5 ou 10 por cento, conforme estes sejam concluídos, respectivamente, no primeiro ou no segundo desses períodos.
+Art. 20.º Quando as obras comparticipadas não forem concluídas dentro do prazo fixado na respectiva portaria, será este automàticamente prorrogado por dois períodos consecutivos iguais a metade do prazo inicial, sofrendo, porém, a comparticipação correspondente aos trabalhos não realizados um desconto de 5 ou 10 por cento, conforme estes sejam concluídos, respectivamente, no primeiro ou no segundo desses períodos.
 
 § único. Em casos especiais devidamente fundamentados, mediante requerimento do beneficiário, apresentado antes do termo do prazo fixado na portaria que concedeu a comparticipação, poderá este prazo ser ampliado, por despacho do Secretário de Estado da Indústria, mantendo-se, ainda, os períodos das prorrogações automáticas com a duração de metade do prazo inicialmente fixado.
 
-###### Art. 21.º Se as obras comparticipadas não forem concluídas dentro do segundo período de prorrogação automática, os saldos das comparticipações serão anulados, não devendo, em princípio, ser concedidas novas comparticipações às entidades interessadas enquanto não tiverem realizado as obras a que diziam respeito aqueles saldos.
+Art. 21.º Se as obras comparticipadas não forem concluídas dentro do segundo período de prorrogação automática, os saldos das comparticipações serão anulados, não devendo, em princípio, ser concedidas novas comparticipações às entidades interessadas enquanto não tiverem realizado as obras a que diziam respeito aqueles saldos.
 
 § único. O disposto no corpo do artigo não tem aplicação nos casos em que a anulação, total ou parcial, da comparticipação concedida tenha sido autorizada, mediante justificação fundamentada.
 
-###### Art. 22.º As obras comparticipadas serão normalmente executadas por empreitada e mediante concurso público.
+Art. 22.º As obras comparticipadas serão normalmente executadas por empreitada e mediante concurso público.
 
 § único. Sem prejuízo das disposições legais aplicáveis, exceptuam-se do disposto no corpo do artigo:
 
@@ -217,20 +258,20 @@ a) As obras que devam ser executadas pelos serviços municipalizados, pelas fede
 
 b) Os demais casos em que, a requerimento dos interessados, devidamente fundamentado, o Secretário de Estado da Indústria autorize a execução das obras por outro qualquer meio.
 
-###### Art. 23.º Não poderão ser concedidos auxílios:
+Art. 23.º Não poderão ser concedidos auxílios:
 
 a) Para obras de cuja realização resulte, a curto prazo, sensível melhoria das condições económicas da exploração do conjunto das instalações pertencentes à entidade que requereu a comparticipação;
 
 b) Para obras já executadas ou em execução.
 
-###### Art. 24.º Os auxílios do Estado serão concedidos de modo a não ter de satisfazer-se em cada ano económico quantia superior à respectiva dotação corrigida; podem, todavia, ser repartidos por vários anos económicos, desde que se comportem nas verbas asseguradas no ano económico em curso e nos dois seguintes em face do escalonamento referido na parte final do artigo 6.º
+Art. 24.º Os auxílios do Estado serão concedidos de modo a não ter de satisfazer-se em cada ano económico quantia superior à respectiva dotação corrigida; podem, todavia, ser repartidos por vários anos económicos, desde que se comportem nas verbas asseguradas no ano económico em curso e nos dois seguintes em face do escalonamento referido na parte final do artigo 6.º
 
 Art 25.º A concessão de auxílios poderá obrigar à adopção de tarifas degressivas para venda de energia eléctrica, sem, contudo, afectar o equilíbrio económico do conjunto da exploração das redes do peticionário ou seu concessionário.
 
-###### Art. 26.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Indústria, com o acordo do Ministro das Finanças quando se trate de matéria que diga respeito àquele Ministério.
+Art. 26.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Indústria, com o acordo do Ministro das Finanças quando se trate de matéria que diga respeito àquele Ministério.
 
-###### Art. 27.º Fica revogado o disposto nas bases III e IV da [Lei n.º 2075](https://diariodarepublica.pt/dr/detalhe/lei/2075-1955-235740), de 21 de Maio de 1955, sobre prazos e limites de comparticipações, a base VIII da mesma lei e o [Decreto n.º 40212](https://diariodarepublica.pt/dr/detalhe/decreto/40212-1955-238474), de 30 de Junho de 1955.
+Art. 27.º Fica revogado o disposto nas bases III e IV da [Lei n.º 2075](https://diariodarepublica.pt/dr/detalhe/lei/2075-1955-235740), de 21 de Maio de 1955, sobre prazos e limites de comparticipações, a base VIII da mesma lei e o [Decreto n.º 40212](https://diariodarepublica.pt/dr/detalhe/decreto/40212-1955-238474), de 30 de Junho de 1955.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.

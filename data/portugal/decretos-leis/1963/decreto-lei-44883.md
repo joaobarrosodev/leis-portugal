@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/02/04100/01460148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44883-1963-193428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c771e83fc3daded222a61ba39a6d0124ec14bd76b484a0670e491b3202e5a2a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c8f0eeb218484ec130d2ed435c06eb22e44b4bbcbd9609c9cd471d12f49e84f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Marinha
+- Sargento
+- Serviço Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632055:por
+  label: "Alterados o art. 1º, o § único do art. 2º, os arts. 3º a 9º e o § 2º do art. 10º pelo DEC LEI.532/71.02.12.1971.MMAR,\
+    \ DG.IS [282] de 02.12.1971\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/532-1971-632055
+  date: '1971-12-02'
+- type: amended_by
+  target: pt:dre:461253:por
+  label: "Alterada a al. a) do art. 3º pelo DEC LEI.766/74.31.12.1974.CCEMFA, DG.IS [31.12.1974] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/766-1974-461253
+  date: '1974-12-31'
+- type: amended_by
+  target: pt:dre:277090:por
+  label: Alterada a al. b) do art. 80.º do Estatuto pelo(a) Portaria n.º 650/77 - Diário da República n.º 241/1977, Série
+    I de 1977-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/650-1977-277090
+  date: '1977-10-18'
+- type: cites
+  target: pt:dre:172893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189366:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:07Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +133,17 @@ Atendendo à conveniência de reunir todas as disposições que interessam à vi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A admissão nos quadros do activo das praças da Armada efectua-se por dois sistemas:
+Artigo 1.º A admissão nos quadros do activo das praças da Armada efectua-se por dois sistemas:
 
 a) Recrutamento, nos termos da Lei do Recrutamento e Serviço Militar;
 
 b) Voluntariado, de harmonia com as exigências do serviço naval.
 
-###### Art. 2.º A admissão nos quadros do activo dos sargentos da Armada é feita pela promoção das praças ao posto de segundo-sargento.
+Art. 2.º A admissão nos quadros do activo dos sargentos da Armada é feita pela promoção das praças ao posto de segundo-sargento.
 
 § único. Não é abrangida pelo disposto no corpo deste artigo a classe dos músicos, na qual o ingresso pode ter lugar, por concurso, no posto de sargento.
 
-###### Art. 3.º O tempo de serviço militar obrigatório dos sargentos e praças que tenham sido alistados nos quadros do activo é o seguinte:
+Art. 3.º O tempo de serviço militar obrigatório dos sargentos e praças que tenham sido alistados nos quadros do activo é o seguinte:
 
 1. No activo:
 
@@ -128,9 +167,9 @@ b) Não tendo direito à pensão de reserva, sem limite de tempo.
 
 § 3.º Em caso de guerra ou de perigo iminente dela pode ser suspensa a libertação das obrigações militares a que se refere o parágrafo anterior.
 
-###### Art. 4.º A admissão dos sargentos e praças da Armada nos quadros das reservas marítima e legionária e o tempo de serviço militar obrigatório são estabelecidos nos diplomas que regulam a prestação de serviço militar dos reservistas daquelas reservas.
+Art. 4.º A admissão dos sargentos e praças da Armada nos quadros das reservas marítima e legionária e o tempo de serviço militar obrigatório são estabelecidos nos diplomas que regulam a prestação de serviço militar dos reservistas daquelas reservas.
 
-###### Art. 5.º Na corporação dos sargentos da Armada existem os seguintes postos:
+Art. 5.º Na corporação dos sargentos da Armada existem os seguintes postos:
 
 a) Sargento-ajudante;
 
@@ -138,7 +177,7 @@ b) Primeiro-sargento;
 
 c) Segundo-sargento.
 
-###### Art. 6.º A corporação das praças da Armada abrange as praças da marinhagem e as praças da taifa, com os postos seguintes:
+Art. 6.º A corporação das praças da Armada abrange as praças da marinhagem e as praças da taifa, com os postos seguintes:
 
 1. Praças da marinhagem:
 
@@ -164,32 +203,32 @@ d) Segundo-cozinheiro, primeiro-criado, segundo-criado e padeiro.
 
 § 2.º Os alunos dos cursos de alistamento sem graduação militar são equiparados a segundos-grumetes.
 
-###### Art. 7.º O escalonamento hierárquico dos postos dos sargentos e das praças, em ordem decrescente, e a equivalência dos postos das praças da marinhagem e da taifa, são os seguintes:
+Art. 7.º O escalonamento hierárquico dos postos dos sargentos e das praças, em ordem decrescente, e a equivalência dos postos das praças da marinhagem e da taifa, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01460148.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01460148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01460148.pdf)
 
-###### Art. 8.º A equivalência dos postos dos sargentos e praças da Armada aos do Exército e da Força Aérea é a seguinte:
+Art. 8.º A equivalência dos postos dos sargentos e praças da Armada aos do Exército e da Força Aérea é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01460148.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01460148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01460148.pdf)
 
-###### Art. 9.º Os sargentos e praças da Armada, do ponto de vista profissional e técnico, agrupam-se em classes, as quais podem ser subdivididas em ramos.
+Art. 9.º Os sargentos e praças da Armada, do ponto de vista profissional e técnico, agrupam-se em classes, as quais podem ser subdivididas em ramos.
 
-###### Art. 10.º Os postos fixados para cada classe e os efectivos fixados para cada posto constituem o quadro da classe; os efectivos fixados para cada posto em cada classe constituem o quadro desse posto.
+Art. 10.º Os postos fixados para cada classe e os efectivos fixados para cada posto constituem o quadro da classe; os efectivos fixados para cada posto em cada classe constituem o quadro desse posto.
 
 § 1.º Os quadros dos sargentos e praças da Armada, do activo, são estabelecidos por decreto-lei.
 
 § 2.º Os segundos-grumetes e os alunos dos cursos de alistamento sem graduação militar não são incluídos nos quadros a que se refere o corpo deste artigo.
 
-###### Art. 11.º O Ministro da Marinha publicará o Estatuto dos Sargentos e Praças da Armada, no qual serão incluídas as disposições fundamentais relativas ao ordenamento, agrupamento em classes, admissão, preparação, prestação de serviço, promoção e situação dos sargentos e praças da Armada dos quadros do activo, bem como quaisquer outras disposições que interessem à sua vida militar e que pela sua natureza não devam figurar noutros diplomas ou regulamentos.
+Art. 11.º O Ministro da Marinha publicará o Estatuto dos Sargentos e Praças da Armada, no qual serão incluídas as disposições fundamentais relativas ao ordenamento, agrupamento em classes, admissão, preparação, prestação de serviço, promoção e situação dos sargentos e praças da Armada dos quadros do activo, bem como quaisquer outras disposições que interessem à sua vida militar e que pela sua natureza não devam figurar noutros diplomas ou regulamentos.
 
 § único. As disposições do Estatuto dos Sargentos e Praças da Armada são aplicáveis aos sargentos e praças das reservas e da reforma quando essa aplicação for expressamente estabelecida naquele diploma ou quando for devidamente regulamentada, sem prejuízo da legislação relativa a estes militares da Armada.
 
-###### Art. 12.º Por despacho do Ministro da Marinha será aprovado e posto em execução o novo Regulamento do Corpo de Marinheiros da Armada, no qual apenas serão incluídas as disposições relativas à sua organização e funcionamento como unidade da Armada.
+Art. 12.º Por despacho do Ministro da Marinha será aprovado e posto em execução o novo Regulamento do Corpo de Marinheiros da Armada, no qual apenas serão incluídas as disposições relativas à sua organização e funcionamento como unidade da Armada.
 
-###### Art. 13.º Continua em vigor o preceituado no [Decreto-Lei n.º 43773](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893), de 1 de Julho de 1961, para o pessoal a que o mesmo diploma se refere.
+Art. 13.º Continua em vigor o preceituado no [Decreto-Lei n.º 43773](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893), de 1 de Julho de 1961, para o pessoal a que o mesmo diploma se refere.
 
-###### Art. 14.º Ficam revogados o [Decreto-Lei n.º 30260](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30260-1940-189365), de 9 de Janeiro de 1940, o [Decreto n.º 30261](https://diariodarepublica.pt/dr/detalhe/decreto/30261-1940-189366), da mesma data, e as subsequentes alterações de um e de outro, sem prejuízo de permanecerem revogados os diplomas que o foram por aquele decreto-lei.
+Art. 14.º Ficam revogados o [Decreto-Lei n.º 30260](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30260-1940-189365), de 9 de Janeiro de 1940, o [Decreto n.º 30261](https://diariodarepublica.pt/dr/detalhe/decreto/30261-1940-189366), da mesma data, e as subsequentes alterações de um e de outro, sem prejuízo de permanecerem revogados os diplomas que o foram por aquele decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

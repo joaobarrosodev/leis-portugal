@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22600/13741378.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/407-1971-632468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3563cdf6fcc4a439f7c57558c0262ed6e12e2139463a2efe07e119e6be90b518
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 002974f8f338ba56e8c51d5a20a3d909ae9e0a186c85add128ab8b5f580884ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Fiscalização
+- Higiene do Trabalho
+- Pessoal Navegante
+- Regulamento sobre Tempos de VOO e Repouso do Pessoal Navegante dos Transportes Aéreos Comerciais
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:356570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356570:por
+  label: "Reposto pelo DEC LEI.457/88.13.12.1988.MOPTC, DR.IS [286] de 13.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1988-356570
+  date: '1988-12-13'
+- type: repealed_by
+  target: pt:dre:419220:por
+  label: "Revogado e substituído pelo DEC.31/74.01.02.1974.MCOMN, DG.IS [27]Supl de 01.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-1974-419220
+  date: '1974-02-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:20Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +116,19 @@ REGULAMENTO SOBRE TEMPOS DE VOO E REPOUSO DO PESSOAL NAVEGANTE DOS TRANSPORTES A
 
 Âmbito do Regulamento
 
-###### Artigo 1.º As disposições do presente Regulamento são aplicáveis a todos os membros da tripulação de aviões na execução de todas as operações relativas aos transportes aéreos comerciais, qualquer que seja a sua modalidade.
+Artigo 1.º As disposições do presente Regulamento são aplicáveis a todos os membros da tripulação de aviões na execução de todas as operações relativas aos transportes aéreos comerciais, qualquer que seja a sua modalidade.
 
 Vigência
 
-###### Art. 2.º Este Regulamento entrará em vigor no dia 1 de Outubro de 1971.
+Art. 2.º Este Regulamento entrará em vigor no dia 1 de Outubro de 1971.
 
 Revisões
 
-###### Art. 3.º Sem prejuízo das alterações consideradas urgentes, o presente Regulamento fica sujeito a revisões ordinárias de dois em dois anos, devendo as entidades interessadas que pretendam fazer propostas para esse efeito apresentá-las à Direcção-Geral da Aeronáutica Civil com seis meses de antecedência.
+Art. 3.º Sem prejuízo das alterações consideradas urgentes, o presente Regulamento fica sujeito a revisões ordinárias de dois em dois anos, devendo as entidades interessadas que pretendam fazer propostas para esse efeito apresentá-las à Direcção-Geral da Aeronáutica Civil com seis meses de antecedência.
 
 Definições
 
-###### Art. 4.º Na aplicação das disposições do presente Regulamento ter-se-ão em conta as seguintes definições:
+Art. 4.º Na aplicação das disposições do presente Regulamento ter-se-ão em conta as seguintes definições:
 
 Ano - período de doze meses consecutivos;
 
@@ -158,107 +174,107 @@ Máximos diários do tempo de voo e de trabalho
 
 A) Aviões de hélice
 
-###### Art. 5.º - 1. O piloto de um avião cuja tripulação de condução seja constituída apenas por um piloto não poderá exceder, no decurso de um período de serviço de voo, o máximo de seis horas de tempo de voo, de dez horas de período de trabalho ou de seis aterragens.
+Art. 5.º - 1. O piloto de um avião cuja tripulação de condução seja constituída apenas por um piloto não poderá exceder, no decurso de um período de serviço de voo, o máximo de seis horas de tempo de voo, de dez horas de período de trabalho ou de seis aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que as fixadas no n.º 1 deste artigo, não poderá ser excedido o máximo de cinco horas de tempos de voo ou de nove horas de período de trabalho.
 
 3. Na operação de táxis aéreos, a Direcção-Geral da Aeronáutica Civil estabelecerá o limite do número de aterragens, sem prejuízo dos limites de tempo de voo e período de trabalho fixados no n.º 1 deste artigo.
 
-###### Art. 6.º - 1. O piloto de um avião cuja tripulação de condução seja constituída por um piloto e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de sete horas de tempo de voo, de onze horas de período de trabalho ou de seis aterragens.
+Art. 6.º - 1. O piloto de um avião cuja tripulação de condução seja constituída por um piloto e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de sete horas de tempo de voo, de onze horas de período de trabalho ou de seis aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que as fixadas no n.º 1 deste artigo, não poderá ser excedido o máximo de seis horas de tempos de voo ou de dez horas de período de trabalho.
 
-###### Art. 7.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída apenas por dois pilotos não poderá exceder, no decurso de um período de serviço de voo, o máximo de oito horas de tempo de voo, de doze horas de período de trabalho ou de seis aterragens.
+Art. 7.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída apenas por dois pilotos não poderá exceder, no decurso de um período de serviço de voo, o máximo de oito horas de tempo de voo, de doze horas de período de trabalho ou de seis aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que as fixadas no n.º 1 deste artigo, não poderá ser excedido o máximo de sete horas de tempo de voo ou de onze horas de período de trabalho.
 
-###### Art. 8.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por dois pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de doze horas de tempo de voo, de dezasseis horas de período de trabalho ou de seis aterragens.
+Art. 8.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por dois pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de doze horas de tempo de voo, de dezasseis horas de período de trabalho ou de seis aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado um número maior de aterragens que o fixado no n.º 1 deste artigo, não poderá ser excedido o máximo de nove horas de tempos de voo ou de treze horas de período de trabalho.
 
-###### Art. 9.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por três pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo, de vinte horas de período de trabalho ou de seis aterragens.
+Art. 9.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por três pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo, de vinte horas de período de trabalho ou de seis aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que o fixado no n.º 1 deste artigo, não poderá ser excedido o máximo de treze horas de tempo de voo ou de dezoito horas de período de trabalho.
 
-###### Art. 10.º Quando numa tripulação de condução haja um único piloto, o maior tempo de voo não poderá exceder quatro horas.
+Art. 10.º Quando numa tripulação de condução haja um único piloto, o maior tempo de voo não poderá exceder quatro horas.
 
 B) Aviões de reacção (subsónicos)
 
-###### Art. 11.º - 1. O piloto de um avião cuja tripulação de condução seja constituída apenas por um piloto não poderá exceder, no decurso de um período de serviço de voo, o máximo de cinco horas de tempo de voo, de nove horas de período de trabalho ou de quatro aterragens.
+Art. 11.º - 1. O piloto de um avião cuja tripulação de condução seja constituída apenas por um piloto não poderá exceder, no decurso de um período de serviço de voo, o máximo de cinco horas de tempo de voo, de nove horas de período de trabalho ou de quatro aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que as fixadas no n.º 1 deste artigo, não poderá ser excedido o máximo de quatro horas de tempo de voo ou de oito horas de período de trabalho.
 
-###### Art. 12.º - 1. O piloto de um avião cuja tripulação de condução seja constituída por um piloto e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de seis horas de tempo de voo, de dez horas de período de trabalho ou de quatro aterragens.
+Art. 12.º - 1. O piloto de um avião cuja tripulação de condução seja constituída por um piloto e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de seis horas de tempo de voo, de dez horas de período de trabalho ou de quatro aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que as fixadas no n.º 1 deste artigo, não poderá ser excedido o máximo de cinco horas de tempo de voo ou de nove horas de período de trabalho.
 
-###### Art. 13.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída apenas por dois pilotos não poderá exceder, no decurso de um período de serviço de voo, o máximo de sete horas de tempo de voo, de onze horas de período de trabalho ou de quatro aterragens.
+Art. 13.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída apenas por dois pilotos não poderá exceder, no decurso de um período de serviço de voo, o máximo de sete horas de tempo de voo, de onze horas de período de trabalho ou de quatro aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que as fixadas no n.º 1 deste artigo, não poderá ser excedido o máximo de seis horas de tempo de voo ou de dez horas de período de trabalho.
 
-###### Art. 14.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por dois pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo, de quinze horas de período de trabalho ou de quatro aterragens.
+Art. 14.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por dois pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo, de quinze horas de período de trabalho ou de quatro aterragens.
 
 2. Se no decurso de um período de serviço de voo for executado maior número de aterragens que as fixadas no n.º 1 deste artigo, não poderá ser excedido o máximo de oito horas de tempo de voo ou de doze horas de período de trabalho.
 
-###### Art. 15.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por três pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo, de vinte horas de período de trabalho ou de quatro aterragens.
+Art. 15.º - 1. Um piloto de um avião cuja tripulação de condução seja constituída por três pilotos e outros membros de tripulação devidamente qualificados não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo, de vinte horas de período de trabalho ou de quatro aterragens.
 
 2. Se no decurso de um período de voo for executado um número maior de aterragens que o fixado no n.º 1 deste artigo, não poderá ser excedido o máximo de doze horas de tempo de voo ou de dezassete horas de período de trabalho.
 
-###### Art. 16.º Quando numa tripulação de condução haja um único piloto, o maior tempo de voo não poderá exceder quatro horas.
+Art. 16.º Quando numa tripulação de condução haja um único piloto, o maior tempo de voo não poderá exceder quatro horas.
 
 #### SECÇÃO II — Navegadores
 
-###### Art. 17.º O navegador de um avião cuja tripulação de condução inclua um único navegador não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
+Art. 17.º O navegador de um avião cuja tripulação de condução inclua um único navegador não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
 
-###### Art. 18.º O navegador de um avião cuja tripulação de condução inclua dois navegadores não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
+Art. 18.º O navegador de um avião cuja tripulação de condução inclua dois navegadores não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
 
 #### SECÇÃO III — Mecânicos de voo
 
 A) Aviões de hélice
 
-###### Art. 19.º O mecânico de voo de um avião cuja tripulação de condução inclua um único mecânico de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de doze horas de tempo de voo ou de dezasseis horas de período de trabalho.
+Art. 19.º O mecânico de voo de um avião cuja tripulação de condução inclua um único mecânico de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de doze horas de tempo de voo ou de dezasseis horas de período de trabalho.
 
-###### Art. 20.º O mecânico de voo de um avião cuja tripulação de condução inclua dois mecânicos de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
+Art. 20.º O mecânico de voo de um avião cuja tripulação de condução inclua dois mecânicos de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
 
-###### Art. 21.º Quando numa tripulação de condução haja um único mecânico de voo, o maior tempo de voo não poderá exceder quatro horas.
+Art. 21.º Quando numa tripulação de condução haja um único mecânico de voo, o maior tempo de voo não poderá exceder quatro horas.
 
 B) Aviões de reacção (subsónicos)
 
-###### Art. 22.º O mecânico de voo de um avião cuja tripulação inclua um único mecânico de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
+Art. 22.º O mecânico de voo de um avião cuja tripulação inclua um único mecânico de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
 
-###### Art. 23.º O mecânico de voo de um avião cuja tripulação de condução inclua dois mecânicos de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
+Art. 23.º O mecânico de voo de um avião cuja tripulação de condução inclua dois mecânicos de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
 
 #### SECÇÃO IV — Radioperador de voo
 
-###### Art. 24.º O radioperador de voo de um avião cuja tripulação de condução inclua um único radioperador de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
+Art. 24.º O radioperador de voo de um avião cuja tripulação de condução inclua um único radioperador de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
 
-###### Art. 25.º O radioperador de voo de um avião cuja tripulação de condução inclua dois radioperadores de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou vinte horas de período de trabalho.
+Art. 25.º O radioperador de voo de um avião cuja tripulação de condução inclua dois radioperadores de voo não poderá exceder, no decurso de um período de serviço de voo, o máximo de quinze horas de tempo de voo ou vinte horas de período de trabalho.
 
 #### SECÇÃO V — Pessoal de cabina
 
-###### Art. 26.º Os membros da tripulação que não sejam membros da tripulação de condução não poderão exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
+Art. 26.º Os membros da tripulação que não sejam membros da tripulação de condução não poderão exceder, no decurso de um período de serviço de voo, o máximo de dez horas de tempo de voo ou de quinze horas de período de trabalho.
 
-###### Art. 27.º - 1. Os membros da tripulação que não sejam membros da tripulação de condução quando não excederem em 50 por cento o número normal estabelecido pela Direcção-Geral da Aeronáutica Civil poderão efectuar um máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
+Art. 27.º - 1. Os membros da tripulação que não sejam membros da tripulação de condução quando não excederem em 50 por cento o número normal estabelecido pela Direcção-Geral da Aeronáutica Civil poderão efectuar um máximo de quinze horas de tempo de voo ou de vinte horas de período de trabalho.
 
 2. Considera-se «tripulação normal» a proporcionalidade de um tripulante que não seja de condução para 1/30(mais ou menos)5 lugares da lotação total do avião.
 
-###### Art. 28.º Um membro da tripulação que não seja membro da tripulação de condução, se for o único no desempenho das suas funções de bordo, não poderá exceder, no decurso de um período de serviço de voo, o máximo de oito horas de tempo de voo ou de doze horas de período de trabalho.
+Art. 28.º Um membro da tripulação que não seja membro da tripulação de condução, se for o único no desempenho das suas funções de bordo, não poderá exceder, no decurso de um período de serviço de voo, o máximo de oito horas de tempo de voo ou de doze horas de período de trabalho.
 
 #### SECÇÃO VI — Verificadores
 
-###### Art. 29.º - 1. Qualquer membro da tripulação que no decurso de uma viagem desempenhe as funções de verificador em voo contará, para efeitos do cálculo do período de serviço de voo, apenas 50 por cento do tempo de voo efectuado, desde que não inclua tempo efectivo de voo.
+Art. 29.º - 1. Qualquer membro da tripulação que no decurso de uma viagem desempenhe as funções de verificador em voo contará, para efeitos do cálculo do período de serviço de voo, apenas 50 por cento do tempo de voo efectuado, desde que não inclua tempo efectivo de voo.
 
 2. No caso de o verificador incluir tempo efectivo de voo, os seus máximos só poderão ser excedidos até à primeira aterragem.
 
 #### SECÇÃO VII — Instrutores
 
-###### Art. 30.º Qualquer membro da tripulação de condução que desempenhe as funções de instrutor de voo não poderá exceder, no decurso de um período de serviço de voo de instrução, o máximo de cinco horas de tempo de voo.
+Art. 30.º Qualquer membro da tripulação de condução que desempenhe as funções de instrutor de voo não poderá exceder, no decurso de um período de serviço de voo de instrução, o máximo de cinco horas de tempo de voo.
 
 Limitações semanais, mensais, trimestrais e anuais do tempo de voo e trabalho
 
 A) Aviões de hélice
 
-###### Art. 31.º Um membro da tripulação de condução não poderá exceder os limites de tempo de voo e períodos de trabalho seguintes:
+Art. 31.º Um membro da tripulação de condução não poderá exceder os limites de tempo de voo e períodos de trabalho seguintes:
 
 Em cada semana - trinta e cinco horas de tempo de voo e quarenta e oito horas de período de trabalho.
 
@@ -268,13 +284,13 @@ Em cada trimestre - duzentas e setenta e cinco horas de tempo de voo, podendo el
 
 Em cada ano - mil horas de tempo de voo.
 
-###### Art. 32.º Os limites normais de tempo de voo referentes ao mês (noventa e cinco horas) e ao trimestre (duzentas e setenta e cinco horas) constantes do artigo 31.º poderão ser excedidos de 10 por cento quando aplicados a membros da tripulação que não sejam membros da tripulação de condução.
+Art. 32.º Os limites normais de tempo de voo referentes ao mês (noventa e cinco horas) e ao trimestre (duzentas e setenta e cinco horas) constantes do artigo 31.º poderão ser excedidos de 10 por cento quando aplicados a membros da tripulação que não sejam membros da tripulação de condução.
 
-###### Art. 33.º O limite semanal do período de trabalho é de quarenta e oito horas para todos os membros da tripulação.
+Art. 33.º O limite semanal do período de trabalho é de quarenta e oito horas para todos os membros da tripulação.
 
 B) Aviões de reacção (subsónicos)
 
-###### Art. 34.º Um membro da tripulação de condução não poderá exceder os limites de tempo de voo e períodos de trabalho seguintes:
+Art. 34.º Um membro da tripulação de condução não poderá exceder os limites de tempo de voo e períodos de trabalho seguintes:
 
 Em cada semana - trinta horas de tempo de voo e quarenta e oito horas de período de trabalho.
 
@@ -284,41 +300,41 @@ Em cada trimestre - duzentas e trinta horas de tempo de voo, podendo elevar-se, 
 
 Em cada ano - oitocentos e cinquenta horas de tempo de voo.
 
-###### Art. 35.º Os limites de tempo de voo referentes ao mês (oitenta e cinco horas) e ao trimestre (duzentas e trinta horas) constantes do artigo 34.º poderão ser excedidos de 10 por cento quando aplicados a membros da tripulação que não sejam membros da tripulação de condução.
+Art. 35.º Os limites de tempo de voo referentes ao mês (oitenta e cinco horas) e ao trimestre (duzentas e trinta horas) constantes do artigo 34.º poderão ser excedidos de 10 por cento quando aplicados a membros da tripulação que não sejam membros da tripulação de condução.
 
-###### Art. 36.º O limite semanal de período de trabalho é de quarenta e oito horas para todos os membros da tripulação.
+Art. 36.º O limite semanal de período de trabalho é de quarenta e oito horas para todos os membros da tripulação.
 
 Disposições gerais
 
-###### Art. 37.º Quando um membro da tripulação, após a realização de um período de serviço de voo e de trabalho, não atingir os máximos fixados e for integrado noutra tripulação com máximos mais elevados, serão contados a dobrar os já realizados, para o efeito da determinação daqueles períodos.
+Art. 37.º Quando um membro da tripulação, após a realização de um período de serviço de voo e de trabalho, não atingir os máximos fixados e for integrado noutra tripulação com máximos mais elevados, serão contados a dobrar os já realizados, para o efeito da determinação daqueles períodos.
 
-###### Art. 38.º - 1. O serviço de assistência prestado por um membro da tripulação será considerado como período de trabalho enquanto não tiver iniciado o serviço de voo.
+Art. 38.º - 1. O serviço de assistência prestado por um membro da tripulação será considerado como período de trabalho enquanto não tiver iniciado o serviço de voo.
 
 2. O período de trabalho referido no n.º 1 deste artigo terá o valor de 100 por cento se a assistência se fizer no local de trabalho ou nas instalações da entidade patronal e de 33 por cento se for efectuada no local de repouso ou fora daquelas instalações.
 
 3. Na segunda hipótese prevista no n.º 2 deste artigo o período de trabalho só será considerado para os efeitos dos limites semanais e mensais estabelecidos nos artigos 31.º e 34.º
 
-###### Art. 39.º - 1. O serviço de reserva prestado pelo membro da tripulação será considerado como período de trabalho enquanto não tiver iniciado o serviço de voo.
+Art. 39.º - 1. O serviço de reserva prestado pelo membro da tripulação será considerado como período de trabalho enquanto não tiver iniciado o serviço de voo.
 
 2. O período de trabalho considerado no n.º 1 deste artigo terá o valor de 100 por cento se a reserva se fizer no local de trabalho ou nas instalações da entidade patronal e de 33 por cento se for efectuada no local de repouso ou fora daquelas instalações.
 
 3. Na segunda hipótese prevista no n.º 2 deste artigo o período de trabalho só será considerado para os efeitos dos limites semanais e mensais estabelecidos nos artigos 31.º e 34.º
 
-###### Art. 40.º Entre um período de serviço no solo e um período de serviço de voo terá de haver um período de repouso de duração, pelo menos, igual a vez e meia o período de serviço no solo.
+Art. 40.º Entre um período de serviço no solo e um período de serviço de voo terá de haver um período de repouso de duração, pelo menos, igual a vez e meia o período de serviço no solo.
 
-###### Art. 41.º Serão considerados como um único os períodos de serviço de voo entre os quais não haja, pelo menos, um intervalo correspondente aos períodos de repouso mínimo fixados no presente Regulamento.
+Art. 41.º Serão considerados como um único os períodos de serviço de voo entre os quais não haja, pelo menos, um intervalo correspondente aos períodos de repouso mínimo fixados no presente Regulamento.
 
-###### Art. 42.º - 1. Se todo ou parte do período de serviço de voo estiver compreendido entre as 23 e as 6 horas e 30 minutos (hora local do aeródromo de partida inicial), o membro da tripulação deverá ter beneficiado do período de repouso nocturno imediatamente anterior.
+Art. 42.º - 1. Se todo ou parte do período de serviço de voo estiver compreendido entre as 23 e as 6 horas e 30 minutos (hora local do aeródromo de partida inicial), o membro da tripulação deverá ter beneficiado do período de repouso nocturno imediatamente anterior.
 
 2. As horas de início ou de fim do período especificado no n.º 1 deste artigo podem ser, respectivamente, avançadas ou atrasadas de duas horas.
 
 3. O regime de tolerância previsto no n.º 2 deste artigo só pode ser utilizado uma vez no dia anterior ou posterior àquele em que tiver sido prestado serviço de voo nas condições previstas no n.º 1 deste artigo.
 
-###### Art. 43.º Quando um membro da tripulação se deslocar como passageiro ou extratripulação (extracrew) sem funções antes ou depois do serviço de voo, mas por motivo de serviço, 100 por cento do tempo gasto na viagem e 50 por cento do tempo de voo, se a viagem se fizer numa aeronave, serão contados, respectivamente, como período de trabalho e período de serviço de voo exclusivamente para efeitos da determinação destes períodos e dos períodos de repouso subsequentes.
+Art. 43.º Quando um membro da tripulação se deslocar como passageiro ou extratripulação (extracrew) sem funções antes ou depois do serviço de voo, mas por motivo de serviço, 100 por cento do tempo gasto na viagem e 50 por cento do tempo de voo, se a viagem se fizer numa aeronave, serão contados, respectivamente, como período de trabalho e período de serviço de voo exclusivamente para efeitos da determinação destes períodos e dos períodos de repouso subsequentes.
 
-###### Art. 44.º Quando, após ter completado um serviço de voo, um membro da tripulação regresse à base do local da sua residência como passageiro ou extratripulação (extracrew) sem funções, beneficiará obrigatòriamente, no período imediato de repouso, de, pelo menos, um repouso adicional calculado segundo o estabelecido na alínea a) do artigo 46.º
+Art. 44.º Quando, após ter completado um serviço de voo, um membro da tripulação regresse à base do local da sua residência como passageiro ou extratripulação (extracrew) sem funções, beneficiará obrigatòriamente, no período imediato de repouso, de, pelo menos, um repouso adicional calculado segundo o estabelecido na alínea a) do artigo 46.º
 
-###### Art. 45.º - 1. O período mínimo de repouso de um tripulante será o maior dos dois valores seguintes, em qualquer caso nunca inferior a oito horas:
+Art. 45.º - 1. O período mínimo de repouso de um tripulante será o maior dos dois valores seguintes, em qualquer caso nunca inferior a oito horas:
 
 Ou o dobro do tempo de voo;
 
@@ -330,7 +346,7 @@ Ou 1,5 do período de trabalho antecedente.
 
 4. Quando as condições especiais da operação assim o justificarem, poderá ser ampliado pela autoridade aeronáutica civil competente o número de vezes fixado no n.º 3 deste artigo.
 
-###### Art. 46.º - 1. Desde que os membros de uma tripulação iniciem um período de serviço de voo, consoante o disposto nos artigos 5.º a 28.º, inclusive, e que, por circunstâncias imprevistas de carácter operacional, ponderados os factores pertinentes em cada caso, for necessário ultrapassar os máximos fixados nos citados artigos, os referidos máximos poderão ser excedidos, por decisão do comandante:
+Art. 46.º - 1. Desde que os membros de uma tripulação iniciem um período de serviço de voo, consoante o disposto nos artigos 5.º a 28.º, inclusive, e que, por circunstâncias imprevistas de carácter operacional, ponderados os factores pertinentes em cada caso, for necessário ultrapassar os máximos fixados nos citados artigos, os referidos máximos poderão ser excedidos, por decisão do comandante:
 
 a) Até uma hora, quando na tripulação de condução houver um só piloto, um piloto e um mecânico, ou mais do que um piloto e um só mecânico;
 
@@ -340,42 +356,42 @@ b) Até duas horas, quando a tripulação de condução tenha constituição dif
 
 3. No caso da alínea b) do n.º 1, os membros da tripulação de condução deverão, terminado o serviço de voo, beneficiar de, pelo menos, vinte e quatro horas consecutivas, se o período de repouso mínimo a que tiverem direito for inferior a este valor, acrescido de mais uma hora por cada quarto de hora ou fracção de quarto de hora do tempo de voo que exceder o máximo respectivo.
 
-###### Art. 47.º - 1. Os membros da tripulação que não estejam a desempenhar funções efectivas a bordo deverão dispor de meios de descanso em número pelo menos igual ao dos tripulantes naquelas condições.
+Art. 47.º - 1. Os membros da tripulação que não estejam a desempenhar funções efectivas a bordo deverão dispor de meios de descanso em número pelo menos igual ao dos tripulantes naquelas condições.
 
 2. Consideram-se meios adequados para descanso beliches, cadeiras do tipo sleeperette ou ainda assentos reclináveis com descanso para os pés, de conforto não inferior ao proporcionado aos passageiros.
 
-###### Art. 48.º A contagem dos tempos de voo e períodos de trabalho dos tripulantes escalados em operações conjuntas de aviões de hélice e de jacto, para efeitos da aplicação dos limites estabelecidos no artigo 31.º, faz-se aplicando a seguinte fórmula:
+Art. 48.º A contagem dos tempos de voo e períodos de trabalho dos tripulantes escalados em operações conjuntas de aviões de hélice e de jacto, para efeitos da aplicação dos limites estabelecidos no artigo 31.º, faz-se aplicando a seguinte fórmula:
 
 (HRS HÉLICE/LIM HÉLICE) + (HRS JACTO/LIM JACTO) =< 1
 
 em que HRS HÉLICE significa o número de horas de voo já efectuado em aviões de hélice e LIM HÉLICE significa o máximo de horas autorizado para o mesmo tipo de avião.
 
-###### Art. 49.º Em caso de reconhecida impossibilidade de cumprimento integral durante um período limitado de tempo do preceituado no presente Regulamento, poderá a Direcção-Geral da Aeronáutica Civil, ouvida a empresa interessada e os representantes do pessoal navegante, autorizar normas de operação provisórias para esse período de tempo.
+Art. 49.º Em caso de reconhecida impossibilidade de cumprimento integral durante um período limitado de tempo do preceituado no presente Regulamento, poderá a Direcção-Geral da Aeronáutica Civil, ouvida a empresa interessada e os representantes do pessoal navegante, autorizar normas de operação provisórias para esse período de tempo.
 
 Fiscalização e penalidades
 
-###### Art. 50.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização da observância do disposto no presente Regulamento.
+Art. 50.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização da observância do disposto no presente Regulamento.
 
-###### Art. 51.º As empresas de transporte aéreo ficam obrigadas a facultar à Direcção-Geral da Aeronáutica Civil todos os elementos necessários ao exercício da fiscalização referida no artigo anterior.
+Art. 51.º As empresas de transporte aéreo ficam obrigadas a facultar à Direcção-Geral da Aeronáutica Civil todos os elementos necessários ao exercício da fiscalização referida no artigo anterior.
 
-###### Art. 52.º Será punida com multa de 1000$00 a 5000$00 a entidade patronal que não observar os tempos de voo e repouso estabelecidos neste Regulamento ou, salvo o caso especial do artigo 49.º, considerar no seu planeamento operações de que resultem necessàriamente violação daqueles limites.
+Art. 52.º Será punida com multa de 1000$00 a 5000$00 a entidade patronal que não observar os tempos de voo e repouso estabelecidos neste Regulamento ou, salvo o caso especial do artigo 49.º, considerar no seu planeamento operações de que resultem necessàriamente violação daqueles limites.
 
-###### Art. 53.º Os limites máximo e mínimo fixados no artigo anterior serão elevados para o dobro nos casos de reincidência.
+Art. 53.º Os limites máximo e mínimo fixados no artigo anterior serão elevados para o dobro nos casos de reincidência.
 
-###### Art. 54.º As multas de que tratam os artigos precedentes serão graduadas pela Direcção-Geral da Aeronáutica Civil em função da gravidade da infracção e da culpabilidade do infractor.
+Art. 54.º As multas de que tratam os artigos precedentes serão graduadas pela Direcção-Geral da Aeronáutica Civil em função da gravidade da infracção e da culpabilidade do infractor.
 
-###### Art. 55.º - 1. Os quantitativos das multas constituem receita do Estado e deverão ser pagos pelos infractores nas tesourarias da Fazenda Pública, no prazo de oito dias a contar da notificação, por meio de guias que lhes serão entregues nesse acto.
+Art. 55.º - 1. Os quantitativos das multas constituem receita do Estado e deverão ser pagos pelos infractores nas tesourarias da Fazenda Pública, no prazo de oito dias a contar da notificação, por meio de guias que lhes serão entregues nesse acto.
 
 2. O duplicado da guia comprovativa de pagamento deverá ser apresentado ou enviado pelos interessados aos serviços nele indicados no prazo de oito dias.
 
 3. O disposto neste artigo não prejudica a aplicação do § 3.º do artigo 63.º do Código Penal nos pagamentos feitos em juízo.
 
-###### Art. 56.º Se a multa não for paga voluntàriamente, o respectivo auto será remetido ao tribunal comum competente para decidir da aplicação dessa sanção.
+Art. 56.º Se a multa não for paga voluntàriamente, o respectivo auto será remetido ao tribunal comum competente para decidir da aplicação dessa sanção.
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 16 de Setembro de 1971.**
+Promulgado em 16 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

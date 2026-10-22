@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 165/1976, 1º Suplemento, Série I de 1976-07-16
   number: '165'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1568-(3) a 1568-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16501/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-c-1976-320165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4590ebb4608e1838440d1b2708dedd6a0da4b5af731ff4ee951afbdbdd6e4f82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e02d9ffe314a5914b017b1116f1035d989d2f1bb136de81d3f5910fbfe1e365
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Definição de Competências
+- Direcção Geral de Minas e Serviços Geológicos
+- Instituto Público
+- Licenciamento
+- Ministro da Indústria e Tecnologia
+- Recursos Geotérmicos
+- Recursos Naturais
+- Região Autónoma
+- Regime Jurídico
+- Secretaria de Estado da Energia e Minas
+- Secretário de Estado da Energia e Minas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:310625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333160:por
+  label: Revogado pelo DEC LEI.90/90.16.03.1990.MIE, DR.IS [63] de 16.03.1990, com a entrada em vigor daquele diploma e legislação
+    referida no art. 51º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1990-333160
+  date: '1990-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:03Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +138,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os recursos geotérmicos pertencem ao domínio público do Estado.
+Artigo 1.º - 1. Os recursos geotérmicos pertencem ao domínio público do Estado.
 
 2. Para os efeitos deste diploma, são recursos geotérmicos os resultantes de fontes de calor interno da Terra utilizados para produção de energia, nomeadamente:
 
@@ -116,54 +152,54 @@ d) Quaisquer substâncias em combinação, suspensão ou mistura com os recursos
 
 3. Não se entendem abrangidos no número anterior os hidrocarbonetos, líquidos ou gasosos.
 
-###### Art. 2.º Compete ao Ministro da Indústria e Tecnologia promover a abertura de concurso público ou a realização de negociações particulares com vista à celebração de contratos relativos à pesquisa de recursos geotérmicos, devendo o respectivo processo correr os seus termos na Secretaria de Estado da Energia e Minas.
+Art. 2.º Compete ao Ministro da Indústria e Tecnologia promover a abertura de concurso público ou a realização de negociações particulares com vista à celebração de contratos relativos à pesquisa de recursos geotérmicos, devendo o respectivo processo correr os seus termos na Secretaria de Estado da Energia e Minas.
 
-###### Art. 3.º - 1. Em quaisquer terrenos pode o Estado realizar trabalhos de prospecção e pesquisa, desde que, nos termos dos artigos seguintes, a Direcção-Geral de Minas e Serviços Geológicos obtenha as devidas licenças e promova a remuneração pela ocupação da superfície.
+Art. 3.º - 1. Em quaisquer terrenos pode o Estado realizar trabalhos de prospecção e pesquisa, desde que, nos termos dos artigos seguintes, a Direcção-Geral de Minas e Serviços Geológicos obtenha as devidas licenças e promova a remuneração pela ocupação da superfície.
 
 2. A ocupação da superfície apenas é remunerável nos casos em que ela origine lucros cessantes e em função do valor destes.
 
 3. Se a ocupação de superfície for remunerada através da renda, esta não poderá exceder o valor de rendimento da cultura mais remuneradora da região, em igualdade de área.
 
-###### Art. 4.º - 1. Carece de licença do proprietário a realização de trabalhos de prospecção e pesquisa em terrenos que sejam objecto de propriedade particular.
+Art. 4.º - 1. Carece de licença do proprietário a realização de trabalhos de prospecção e pesquisa em terrenos que sejam objecto de propriedade particular.
 
 2. Se o proprietário não conceder a licença, a Direcção-Geral de Minas e Serviços Geológicos pode suprir a falta dela, desde que tenha requerido ao tribunal competente a fixação dos montantes da remuneração e a avaliação dos prejuízos que possam decorrer da ocupação dos terrenos referidos no n.º 1.
 
 3. O suprimento previsto no n.º 2 será feito mediante notificação pela Direcção-Geral de Minas e Serviços Geológicos, dirigidas ao proprietário do terreno, por carta registada com aviso de recepção, e produzirá efeitos cinco dias depois de esta se verificar.
 
-###### Art. 5.º - 1. Compete às autarquias locais e aos institutos públicos, respectivamente, dar licença para que em terrenos dos domínios público ou privado das primeiras e em terrenos da propriedade dos segundos se efectuem trabalhos de prospecção e pesquisa.
+Art. 5.º - 1. Compete às autarquias locais e aos institutos públicos, respectivamente, dar licença para que em terrenos dos domínios público ou privado das primeiras e em terrenos da propriedade dos segundos se efectuem trabalhos de prospecção e pesquisa.
 
 2. A recusa de licença será suprida de harmonia com as regras do artigo anterior por despacho do Ministro que exercer a tutela administrativa sobre a autarquia local ou instituto público que estiver em causa.
 
-###### Art. 6.º A licença para a realização de trabalhos de prospecção e pesquisa em terrenos dos domínios público e privado do Estado é concedida por despacho do Ministro que superintender na administração dos terrenos onde hajam de ser realizados aqueles trabalhos.
+Art. 6.º A licença para a realização de trabalhos de prospecção e pesquisa em terrenos dos domínios público e privado do Estado é concedida por despacho do Ministro que superintender na administração dos terrenos onde hajam de ser realizados aqueles trabalhos.
 
-###### Art. 7.º - 1. Se a realização dos trabalhos de prospecção e pesquisa colidir com o exercício de direitos de exploração de recursos naturais ou minerais, qualquer que seja a espécie ou natureza, o Governo, sob proposta do Ministro da Indústria e Tecnologia, resolverá de harmonia com os interesses da economia nacional.
+Art. 7.º - 1. Se a realização dos trabalhos de prospecção e pesquisa colidir com o exercício de direitos de exploração de recursos naturais ou minerais, qualquer que seja a espécie ou natureza, o Governo, sob proposta do Ministro da Indústria e Tecnologia, resolverá de harmonia com os interesses da economia nacional.
 
 2. Se a resolução tomada ao abrigo do número anterior implicar o sacrifício total ou parcial dos direitos concedidos, o Estado indemnizará o titular dos direitos afectados pela resolução.
 
 3. Na falta de acordo, a indemnização será fixada judicialmente.
 
-###### Art. 8.º - 1. Os trabalhos de prospecção e pesquisa não podem ser realizados a distância inferior a 30 m de qualquer edifício, monumento nacional, ponte, linha férrea, estrada, canal, conduta, fonte ou nascente e linhas de média ou alta tensão.
+Art. 8.º - 1. Os trabalhos de prospecção e pesquisa não podem ser realizados a distância inferior a 30 m de qualquer edifício, monumento nacional, ponte, linha férrea, estrada, canal, conduta, fonte ou nascente e linhas de média ou alta tensão.
 
 2. Em casos especiais que o justifiquem, esta distância poderá ser aumentada ou diminuída pelo Secretário de Estado da Energia e Minas, mediante despacho publicado no Diário da República.
 
 3. Os particulares também podem, relativamente às suas propriedades, consentir na diminuição daquela distância, desde que o respectivo consentimento conste de documento escrito.
 
-###### Art. 9.º Nenhuns trabalhos de prospecção e pesquisa poderão ser efectuados dentro da zona de defesa de fortificações militares a menos de 600 m de distância de raiz da esplanada da obra mais avançada sem prévia autorização do Ministro da Defesa Nacional.
+Art. 9.º Nenhuns trabalhos de prospecção e pesquisa poderão ser efectuados dentro da zona de defesa de fortificações militares a menos de 600 m de distância de raiz da esplanada da obra mais avançada sem prévia autorização do Ministro da Defesa Nacional.
 
-###### Art. 10.º Podem ser expropriados, de harmonia com a legislação em vigor, os terrenos necessários à montagem de instalações requeridas pela exploração de recursos geotérmicos.
+Art. 10.º Podem ser expropriados, de harmonia com a legislação em vigor, os terrenos necessários à montagem de instalações requeridas pela exploração de recursos geotérmicos.
 
-###### Art. 11.º Quando o entender conveniente, pode o Ministro da Indústria e Tecnologia transferir as atribuições e competência que por este diploma são conferidas à Direcção-Geral de Minas e Serviços Geológicos para outro serviço permanente ou comissão, desde que integrados ou dependente do Ministério da Indústria e Tecnologia.
+Art. 11.º Quando o entender conveniente, pode o Ministro da Indústria e Tecnologia transferir as atribuições e competência que por este diploma são conferidas à Direcção-Geral de Minas e Serviços Geológicos para outro serviço permanente ou comissão, desde que integrados ou dependente do Ministério da Indústria e Tecnologia.
 
-###### Art. 12.º - 1. Enquanto não forem definidos, nos termos da parte final do artigo 60.º do [Decreto-Lei n.º 318-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-b-1976-345524), de 30 de Abril, com a alteração introduzida pelo Decreto-Lei n. 427-D/76, de 1 de Junho, e artigo 60.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, com a alteração introduzida pelo [Decreto-Lei n.º 427-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-f-1976-310625), de 1 de Junho, os bens que integram o património das regiões autónomas, pode o Ministro da Indústria e Tecnologia, quando a prospecção e pesquisa de recursos geotérmicos haja de efectuar-se nas ilhas adjacentes, por força das disposições dos contratos a que se refere o artigo 2.º deste diploma, e como convier a uma melhor aplicação daquelas disposições, determinar a transferência de direitos e deveres de origem exclusivamente contratual para a região autónoma do arquipélago onde se deva desenvolver aquela prospecção e pesquisa.
+Art. 12.º - 1. Enquanto não forem definidos, nos termos da parte final do artigo 60.º do [Decreto-Lei n.º 318-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-b-1976-345524), de 30 de Abril, com a alteração introduzida pelo Decreto-Lei n. 427-D/76, de 1 de Junho, e artigo 60.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, com a alteração introduzida pelo [Decreto-Lei n.º 427-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-f-1976-310625), de 1 de Junho, os bens que integram o património das regiões autónomas, pode o Ministro da Indústria e Tecnologia, quando a prospecção e pesquisa de recursos geotérmicos haja de efectuar-se nas ilhas adjacentes, por força das disposições dos contratos a que se refere o artigo 2.º deste diploma, e como convier a uma melhor aplicação daquelas disposições, determinar a transferência de direitos e deveres de origem exclusivamente contratual para a região autónoma do arquipélago onde se deva desenvolver aquela prospecção e pesquisa.
 
 2. A transferência prevista no número anterior não se efectuará sem que se encontrem garantidos os meios necessários ao exercício dos direitos e cumprimento dos deveres objecto daquela transferência e pode cessar, por decisão do mesmo Ministro, quando se mostrar deficiente a execução de disposições contratuais.
 
-###### Art. 13.º Este diploma entra imediatamente em vigor.
+Art. 13.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

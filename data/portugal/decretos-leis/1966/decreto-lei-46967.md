@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46967-1966-487351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be1525148b96e7a6e0bdf04513dd9960be42ce80635e793566512045236b8dcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ddd6636954b3b4032f625fca80a6b2f663a1f4d5596d5d80d0214c7e489c4aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Serviços Agrícolas
+- Extinção de Serviços
+- Vinha
+relationships:
+- type: cites
+  target: pt:dre:195602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:51Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +104,16 @@ Nestas condições;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os serviços reguladores do condicionamento do plantio da vinha passam a ser atribuição dos organismos técnicos regionais da Direcção-Geral dos Serviços Agrícolas, estações agrárias, brigadas técnicas e postos agrários, dentro da área de influência de cada um.
+Artigo 1.º Os serviços reguladores do condicionamento do plantio da vinha passam a ser atribuição dos organismos técnicos regionais da Direcção-Geral dos Serviços Agrícolas, estações agrárias, brigadas técnicas e postos agrários, dentro da área de influência de cada um.
 
 § único. Exceptua-se a região demarcada do Douro, em que os serviços serão executados pela respectiva estação vitivinícola.
 
-###### Art. 2.º O pessoal destacado nas designadas brigadas móveis do plantio da vinha será distribuído pelos diferentes organismos a que ficam atribuídos os serviços até hoje a seu cargo.
+Art. 2.º O pessoal destacado nas designadas brigadas móveis do plantio da vinha será distribuído pelos diferentes organismos a que ficam atribuídos os serviços até hoje a seu cargo.
 
-###### Art. 3.º É extinta a Secção de Condicionamento, da Repartição de Serviços de Culturas Arbustivas e Arbóreas, passando os serviços que lhe estão adstritos para a secção de viticultura e arboricultura da mesma Repartição.
+Art. 3.º É extinta a Secção de Condicionamento, da Repartição de Serviços de Culturas Arbustivas e Arbóreas, passando os serviços que lhe estão adstritos para a secção de viticultura e arboricultura da mesma Repartição.
 
-###### Art. 4.º O Secretário de Estado da Agricultura estabelecerá, por despacho, sob proposta da Direcção-Geral dos Serviços Agrícolas, as disposições regulamentares que se tornem indispensáveis para perfeita execução deste decreto-lei.
+Art. 4.º O Secretário de Estado da Agricultura estabelecerá, por despacho, sob proposta da Direcção-Geral dos Serviços Agrícolas, as disposições regulamentares que se tornem indispensáveis para perfeita execução deste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.

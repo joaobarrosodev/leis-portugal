@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/222-1972-673862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9da70a886fde1b41a52e2f04bd1d159bffca22b8e56f4ecc5c30dcaca9dccb5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9493e9af6825593ea202d25356c398d9ecb24e2fac175eba587cebd0be0e543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639887:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:25Z'
   warnings: []
   errors: []
 ---
@@ -93,30 +105,30 @@ Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É integrada no Corpo de Polícia de Segurança Pública de Timor a secção da Guarda Fiscal, que passará a funcionar em secção própria daquela corporação com a designação de Secção de Polícia Fiscal.
+Artigo 1.º É integrada no Corpo de Polícia de Segurança Pública de Timor a secção da Guarda Fiscal, que passará a funcionar em secção própria daquela corporação com a designação de Secção de Polícia Fiscal.
 
-###### Art. 2.º Os assuntos de carácter aduaneiro ou fiscal serão apresentados pelo Comando do Corpo de Polícia ao chefe provincial dos Serviços das Alfândegas, que decidirá sobre aqueles que estiverem dentro da sua competência e submeterá ao Governador, para resolução, os que a excedam, cumprindo-lhe, em tais casos, dar conhecimento àquele Comando das decisões que tiverem sido tomadas.
+Art. 2.º Os assuntos de carácter aduaneiro ou fiscal serão apresentados pelo Comando do Corpo de Polícia ao chefe provincial dos Serviços das Alfândegas, que decidirá sobre aqueles que estiverem dentro da sua competência e submeterá ao Governador, para resolução, os que a excedam, cumprindo-lhe, em tais casos, dar conhecimento àquele Comando das decisões que tiverem sido tomadas.
 
-###### Art. 3.º Os serviços de fiscalização aduaneira a que se refere. o Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, nomeadamente nos artigos 208.º, 211.º e 702.º, serão assegurados pelo pessoal da Secção de Polícia Fiscal, sob a orientação da Repartição Provincial dos Serviços das Alfândegas.
+Art. 3.º Os serviços de fiscalização aduaneira a que se refere. o Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, nomeadamente nos artigos 208.º, 211.º e 702.º, serão assegurados pelo pessoal da Secção de Polícia Fiscal, sob a orientação da Repartição Provincial dos Serviços das Alfândegas.
 
-###### Art. 4.º A competência atribuída pelos artigos 63.º a 66.º e 95.º do Contencioso Aduaneiro do Ultramar, aprovado pelo [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, é extensiva aos elementos da Secção de Polícia Fiscal, desde que essa competência seja averbada no respectivo bilhete de identidade profissional pela Repartição Provincial dos Serviços das Alfândegas, a solicitação do Comando da Polícia de Segurança Pública.
+Art. 4.º A competência atribuída pelos artigos 63.º a 66.º e 95.º do Contencioso Aduaneiro do Ultramar, aprovado pelo [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, é extensiva aos elementos da Secção de Polícia Fiscal, desde que essa competência seja averbada no respectivo bilhete de identidade profissional pela Repartição Provincial dos Serviços das Alfândegas, a solicitação do Comando da Polícia de Segurança Pública.
 
-###### Art. 5.º - 1. O pessoal da Secção de Polícia Fiscal é incluído no artigo 56.º do Contencioso Aduaneiro do Ultramar para efeitos de competência processual fiscal.
+Art. 5.º - 1. O pessoal da Secção de Polícia Fiscal é incluído no artigo 56.º do Contencioso Aduaneiro do Ultramar para efeitos de competência processual fiscal.
 
 2. O exercício da competência referida no corpo do artigo será definido em portaria do Governador, de acordo com o § 1.º do artigo 56.º do [Decreto n.º 39341](https://diariodarepublica.pt/dr/detalhe/decreto/39341-1953-639887), de 31 de Agosto de 1953, ouvida a Repartição Provincial dos Serviços das Alfândegas.
 
-###### Art. 6.º Os serviços especiais de fiscalização aduaneira para guarda, vigilância, acompanhamento de mercadorias, conferência de volumes e outros serviços prestados a requerimento de partes serão por elas remunerados por meio de emolumentos pessoais, os quais constarão de tabelas aprovadas por portaria do Governo, assim como de subsídios de deslocação, alimentação e ajudas de custo.
+Art. 6.º Os serviços especiais de fiscalização aduaneira para guarda, vigilância, acompanhamento de mercadorias, conferência de volumes e outros serviços prestados a requerimento de partes serão por elas remunerados por meio de emolumentos pessoais, os quais constarão de tabelas aprovadas por portaria do Governo, assim como de subsídios de deslocação, alimentação e ajudas de custo.
 
-###### Art. 7.º Compete ao chefe da Secção de Polícia Fiscal, sob orientação superior, comandar o pessoal que ali presta serviço, dirigir os serviços de fiscalização aduaneira e ministrar a instrução respectiva.
+Art. 7.º Compete ao chefe da Secção de Polícia Fiscal, sob orientação superior, comandar o pessoal que ali presta serviço, dirigir os serviços de fiscalização aduaneira e ministrar a instrução respectiva.
 
-###### Art. 8.º O Governador regulamentará, por portaria, ouvidos os órgãos legislativos da província, as disposições deste decreto e estruturará os serviços da Secção de Polícia Fiscal, atendendo às necessidades da organização e às condições de natureza fiscal do território.
+Art. 8.º O Governador regulamentará, por portaria, ouvidos os órgãos legislativos da província, as disposições deste decreto e estruturará os serviços da Secção de Polícia Fiscal, atendendo às necessidades da organização e às condições de natureza fiscal do território.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Junho de 1972.**
+Promulgado em 12 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Timor. - J. da Silva Cunha.

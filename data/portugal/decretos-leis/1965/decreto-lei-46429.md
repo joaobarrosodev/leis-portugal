@@ -51,36 +51,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46429-1965-292135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9c203464a4e0b593fa9ed37ad23064fe72f62ce02566f609311798620a9607f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac285fded3be8bc8a6f665e74d78e3e6b3ee749284690b506f4bc20359709b20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Benavente
+- Direcção Geral dos Serviços Hidráulicos
+- Domínio Público do Estado
+- Santarém
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:55Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +104,12 @@ Assim, obtido o parecer favorável das entidades com interferência ou jurisdiç
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a promover o arrendamento, pelo prazo de 25 anos, de duas parcelas de terreno (sapal) do domínio público designadas por «Sapal ou Corredoura de Vaza-Sacos» e «Sapal ou Corredoura de Dois Portos», com a área global de 367000 m2, situadas na margem esquerda do rio Sorraia, junto à confluência com o rio Tejo, na freguesia de Samora Correia, concelho de Benavente, distrito de Santarém, destinadas à instalação de uma indústria de produção de potássio, magnésio, bromo, cloro, soda cáustica e hidrogénio.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a promover o arrendamento, pelo prazo de 25 anos, de duas parcelas de terreno (sapal) do domínio público designadas por «Sapal ou Corredoura de Vaza-Sacos» e «Sapal ou Corredoura de Dois Portos», com a área global de 367000 m2, situadas na margem esquerda do rio Sorraia, junto à confluência com o rio Tejo, na freguesia de Samora Correia, concelho de Benavente, distrito de Santarém, destinadas à instalação de uma indústria de produção de potássio, magnésio, bromo, cloro, soda cáustica e hidrogénio.
 
-###### Art. 2.º Para o mesmo fim é autorizada a Administração-Geral do Porto de Lisboa a outorgar, pelo prazo de 25 anos, a concessão de uma parcela de terreno (sapal) situada na margem esquerda do rio Tejo, junto à confluência do rio Sorraia, na freguesia de Samora Correia, concelho de Benavente, distrito de Santarém, com a área de 1874000 m2 e confrontando: a norte, com a foz do rio Sorraia; sul e oeste, com o rio Tejo, e a este, com a marinha de Vasa-Sacos e sapal da Marinha.
+Art. 2.º Para o mesmo fim é autorizada a Administração-Geral do Porto de Lisboa a outorgar, pelo prazo de 25 anos, a concessão de uma parcela de terreno (sapal) situada na margem esquerda do rio Tejo, junto à confluência do rio Sorraia, na freguesia de Samora Correia, concelho de Benavente, distrito de Santarém, com a área de 1874000 m2 e confrontando: a norte, com a foz do rio Sorraia; sul e oeste, com o rio Tejo, e a este, com a marinha de Vasa-Sacos e sapal da Marinha.
 
 § único. A concessão será outorgada por alvará da Administração-Geral do Porto de Lisboa, aprovado pelo Ministro das Comunicações e sem dependência de qualquer outra formalidade.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

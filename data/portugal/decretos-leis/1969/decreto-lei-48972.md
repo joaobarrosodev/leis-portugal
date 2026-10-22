@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48972-1969-525987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a653c71ec577ec97ab18a92cdde4bb10aba2e93afb217d299d879e66b6d4c063
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05f5c66fc10e9814f8c69b118b5524fe176df61bd44b80bcbedc4cbeb3c14670
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Arsenal do Alfeite
+- Forças Armadas
+- Marinha
+- Militar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:07Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +92,16 @@ Considerando a necessidade de regular o abono de ajudas de custo do pessoal que 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O pessoal da Armada e do Arsenal do Alfeite nomeado para fiscalizar os trabalhos de construção das corvetas adjudicadas a estaleiros da Espanha e da República Federal Alemã terá direito, além dos vencimentos normais, a ajudas de custo, nos quantitativos a fixar por despacho do Ministro da Marinha, com a concordância do Ministro das Finanças.
+Artigo 1.º - 1. O pessoal da Armada e do Arsenal do Alfeite nomeado para fiscalizar os trabalhos de construção das corvetas adjudicadas a estaleiros da Espanha e da República Federal Alemã terá direito, além dos vencimentos normais, a ajudas de custo, nos quantitativos a fixar por despacho do Ministro da Marinha, com a concordância do Ministro das Finanças.
 
 2. Os quantitativos das mesmas ajudas de custo serão abonados a partir de 1 de Janeiro do corrente ano.
 
-###### Art. 2.º Os encargos do abono das ajudas de custo a que se refere o artigo anterior serão suportados pela verba inscrita no Orçamento Geral do Estado para custear as despesas com a construção das corvetas.
+Art. 2.º Os encargos do abono das ajudas de custo a que se refere o artigo anterior serão suportados pela verba inscrita no Orçamento Geral do Estado para custear as despesas com a construção das corvetas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 9 de Abril de 1969.**
+Promulgado em 9 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

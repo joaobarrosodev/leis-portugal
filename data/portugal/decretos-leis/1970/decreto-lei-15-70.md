@@ -48,40 +48,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 911376c41d370d115a872bca89c922c9c87b2c724d64556f5a2ee5a17cb8a2fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a7d5554c34a7b5e9096143b66e202880ee5ed5cf7e022fc3d0bd91b23d73375
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Gratificação
+- Lisboa
+- Oficial de Justiça
+- Orgânica
+- Porto
+- Remuneração
+- Serviços de Registo e Notariado
+- Supremo Tribunal de Justiça
+- Tribunal da Relação
+- Tribunal de Comarca
 relationships:
 - type: amended_by
   target: pt:dre:335735:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335735:por
+  label: "Alterado o art. 3º pelo DEC LEI.295/75.19.06.1975.MJ, DG.IS [139] de 19.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-1975-335735
+  date: '1975-06-19'
+- type: cites
+  target: pt:dre:149409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:00Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +136,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 11.º, 15.º, 19.º, 20.º, 21.º, 23.º, 25.º, 26.º, 27.º, 30.º, 31.º, 32.º, 33.º, 37.º, 38.º,39.º, 42.º, 44.º, 47.º, 48.º, 49.º, 52.º e 64.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, passam ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 11.º, 15.º, 19.º, 20.º, 21.º, 23.º, 25.º, 26.º, 27.º, 30.º, 31.º, 32.º, 33.º, 37.º, 38.º,39.º, 42.º, 44.º, 47.º, 48.º, 49.º, 52.º e 64.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, passam ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Junto da Direcção-Geral dos Registos e do Notariado funciona a Conservatória dos Registos Centrais, à qual compete em especial:
+Artigo 1.º - 1. Junto da Direcção-Geral dos Registos e do Notariado funciona a Conservatória dos Registos Centrais, à qual compete em especial:
 
 a) O registo central da nacionalidade;
 
@@ -112,11 +148,11 @@ c) O registo central das escrituras e testamentos.
 
 2. À Conservatória dos Registos Centrais compete ainda a organização da estatística anual dos actos de registo e notariais, bem como a parte do serviço de consultas, a cargo do Gabinete Técnico da Direcção-Geral, que lhe for distribuída por despacho do director-geral.
 
-###### Art. 2.º - 1. Nas sedes dos concelhos de Lisboa e do Porto pode haver um arquivo central, para onde serão transferidos anualmente os livros findos dos actos de registo civil e notariais pertencentes às conservatórias e cartórios do respectivo concelho.
+Art. 2.º - 1. Nas sedes dos concelhos de Lisboa e do Porto pode haver um arquivo central, para onde serão transferidos anualmente os livros findos dos actos de registo civil e notariais pertencentes às conservatórias e cartórios do respectivo concelho.
 
 2. Aos arquivos centrais competirá lavrar, nos livros neles arquivados, os averbamentos devidos e o serviço de passagem de certidões ou fotocópias que desses livros hajam de ser extraídas.
 
-###### Art. 3.º - 1. ...
+Art. 3.º - 1. ...
 
 2. ...
 
@@ -128,7 +164,7 @@ c) O registo central das escrituras e testamentos.
 
 ...
 
-###### Art. 11.º - 1. ...
+Art. 11.º - 1. ...
 
 2. ...
 
@@ -136,7 +172,7 @@ c) O registo central das escrituras e testamentos.
 
 ...
 
-###### Art. 15.º - 1. Constitui encargo obrigatório das câmaras municipais o fornecimento de casa, água e luz para a conveniente instalação e funcionamento das conservatórias dos registos civil e predial, bem como das respectivas delegações.
+Art. 15.º - 1. Constitui encargo obrigatório das câmaras municipais o fornecimento de casa, água e luz para a conveniente instalação e funcionamento das conservatórias dos registos civil e predial, bem como das respectivas delegações.
 
 2. ...
 
@@ -144,7 +180,7 @@ c) O registo central das escrituras e testamentos.
 
 ...
 
-###### Art. 19.º - 1. ...
+Art. 19.º - 1. ...
 
 2. ...
 
@@ -156,7 +192,7 @@ c) O registo central das escrituras e testamentos.
 
 6. As delegações dos serviços de registo são chefiadas por ajudantes dos quadros auxiliares das conservatórias a que pertençam.
 
-###### Art. 20.º - 1. ...
+Art. 20.º - 1. ...
 
 2. ...
 
@@ -168,7 +204,7 @@ c) ...
 
 3. ...
 
-###### Art. 21.º - 1. ...
+Art. 21.º - 1. ...
 
 2. ...
 
@@ -176,7 +212,7 @@ c) ...
 
 ...
 
-###### Art. 23.º - 1. ...
+Art. 23.º - 1. ...
 
 2. ...
 
@@ -188,7 +224,7 @@ c) ...
 
 ...
 
-###### Art. 25.º - 1. ...
+Art. 25.º - 1. ...
 
 2. O director do Gabinete Técnico, os técnicos de 1.ª classe e os inspectores da Direcção-Geral dos Registos e do Notariado podem concorrer às vagas de 2.ª classe, quando tenham, pelo menos, oito anos de bom e efectivo serviço, e às de 1.ª classe quando tiverem dezasseis anos de serviço nas mesmas condições.
 
@@ -196,17 +232,17 @@ c) ...
 
 4. ...
 
-###### Art. 26.º - 1. Os funcionários que sejam nomeados conservadores ou notários, nos termos do n.º 2 do artigo anterior, ocupam nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores, independentemente da classe do lugar em que forem providos.
+Art. 26.º - 1. Os funcionários que sejam nomeados conservadores ou notários, nos termos do n.º 2 do artigo anterior, ocupam nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores, independentemente da classe do lugar em que forem providos.
 
 2. Os conservadores e notários que transitem de um para outro quadro ocupam no quadro de 3.ª classe do serviço em que venham a ser colocados o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores.
 
-###### Art. 27.º - 1. Os lugares de conservador dos Registos Centrais, do seu adjunto e de conservadores dos arquivos centrais são providos, por livre escolha do Ministro da Justiça, entre o director de serviços, chefes de repartição e inspectores da Direcção-Geral dos Registos e do Notariado ou conservadores e notários com mais de cinco anos de bom e efectivo serviço.
+Art. 27.º - 1. Os lugares de conservador dos Registos Centrais, do seu adjunto e de conservadores dos arquivos centrais são providos, por livre escolha do Ministro da Justiça, entre o director de serviços, chefes de repartição e inspectores da Direcção-Geral dos Registos e do Notariado ou conservadores e notários com mais de cinco anos de bom e efectivo serviço.
 
 2. ...
 
 ...
 
-###### Art. 30.º - 1. O pessoal auxiliar dos serviços de registo e do notariado compreende as seguintes categorias de funcionários:
+Art. 30.º - 1. O pessoal auxiliar dos serviços de registo e do notariado compreende as seguintes categorias de funcionários:
 
 a) Primeiros, segundos e terceiros-ajudantes;
 
@@ -216,21 +252,21 @@ c) Contínuos de 1.ª e 2.ª classes.
 
 2. O pessoal auxiliar da Conservatória dos Registos Centrais, além das categorias previstas no número anterior, compreende a categoria de chefe de secção.
 
-###### Art. 31.º - 1. Cada conservatória, cartório ou secretaria notarial e arquivo central tem um quadro de pessoal auxiliar privativo com a composição determinada pelo Regulamento do presente diploma
+Art. 31.º - 1. Cada conservatória, cartório ou secretaria notarial e arquivo central tem um quadro de pessoal auxiliar privativo com a composição determinada pelo Regulamento do presente diploma
 
 2. ...
 
 3. ...
 
-###### Art. 32.º O provimento em lugares dos quadros auxiliares rege-se pelas normas consignadas no regulamento do presente diploma.
+Art. 32.º O provimento em lugares dos quadros auxiliares rege-se pelas normas consignadas no regulamento do presente diploma.
 
-###### Art. 33.º - 1. ...
+Art. 33.º - 1. ...
 
 2. ...
 
 ...
 
-###### Art. 37.º - 1. Os ordenados dos conservadores e notários, quando sirvam em lugares de classe igual à sua classe pessoal, são os correspondentes às letras do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, a seguir indicadas:
+Art. 37.º - 1. Os ordenados dos conservadores e notários, quando sirvam em lugares de classe igual à sua classe pessoal, são os correspondentes às letras do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, a seguir indicadas:
 
 a) Na 1.ª classe ... G
 
@@ -244,7 +280,7 @@ c) Na 3.ª classe ... L
 
 4. ...
 
-###### Art. 38.º - 1. ...
+Art. 38.º - 1. ...
 
 a) ...
 
@@ -260,7 +296,7 @@ c) ...
 
 5. (O actual n.º 4.)
 
-###### Art. 39.º - 1. ...
+Art. 39.º - 1. ...
 
 2. ...
 
@@ -268,11 +304,11 @@ c) ...
 
 ...
 
-###### Art. 42.º Aos conservadores, notários e funcionários dos quadros auxiliares que sejam desligados do serviço a aguardar a aposentação é abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a pensão provisória que lhes for fixada pela Caixa Geral de Aposentações.
+Art. 42.º Aos conservadores, notários e funcionários dos quadros auxiliares que sejam desligados do serviço a aguardar a aposentação é abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a pensão provisória que lhes for fixada pela Caixa Geral de Aposentações.
 
 ...
 
-###### Art. 44.º - 1. Os vencimentos das diferentes categorias de pessoal do quadro auxiliar dos serviços de registo e do notariado são os correspondentes às letras do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, a seguir indicadas:
+Art. 44.º - 1. Os vencimentos das diferentes categorias de pessoal do quadro auxiliar dos serviços de registo e do notariado são os correspondentes às letras do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, a seguir indicadas:
 
 a) Chefes de secção ... J
 
@@ -306,13 +342,13 @@ De 2.ª classe ... X
 
 ...
 
-###### Art. 47.º - 1. Constitui receita liquida de cada conservatória, secretaria ou cartório notarial e arquivo central o total dos emolumentos cobrados em cada mês, incluindo, pelo que respeita às conservatórias e cartórios, a parte que lhes couber na receita do respectivo arquivo central, depois de deduzidas as verbas que, nos termos da lei, devam reverter para os funcionários, para a Conservatória dos Registos Centrais ou para outras entidades, bem como a importância necessária para pagar os vencimentos e outros abonos a que tenha direito o pessoal do respectivo quadro auxiliar, quando não constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 47.º - 1. Constitui receita liquida de cada conservatória, secretaria ou cartório notarial e arquivo central o total dos emolumentos cobrados em cada mês, incluindo, pelo que respeita às conservatórias e cartórios, a parte que lhes couber na receita do respectivo arquivo central, depois de deduzidas as verbas que, nos termos da lei, devam reverter para os funcionários, para a Conservatória dos Registos Centrais ou para outras entidades, bem como a importância necessária para pagar os vencimentos e outros abonos a que tenha direito o pessoal do respectivo quadro auxiliar, quando não constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2. ...
 
 3. ...
 
-###### Art. 48.º - 1. Ficam a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça as seguintes despesas:
+Art. 48.º - 1. Ficam a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça as seguintes despesas:
 
 a) ...
 
@@ -352,7 +388,7 @@ o) ...
 
 5. ...
 
-###### Art. 49.º - 1. ...
+Art. 49.º - 1. ...
 
 a) ...
 
@@ -370,27 +406,27 @@ e) ...
 
 ...
 
-###### Art. 52.º São extintos os postos rurais do registo civil das freguesias que venham a ser sede de delegações dos serviços de registo.
+Art. 52.º São extintos os postos rurais do registo civil das freguesias que venham a ser sede de delegações dos serviços de registo.
 
 ...
 
-###### Art. 64.º - 1. ...
+Art. 64.º - 1. ...
 
 2. ...
 
 3. O saldo líquido do produto da venda dos livros e impressos, bem como das taxas de reembolso de fotocópias a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça, constitui receita do Serviço Social, criado pelo [Decreto-Lei n.º 47210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47210-1966-480172), de 22 de Setembro de 1966.
 
-###### Art. 2.º A tabela a que se refere o § 1.º do artigo 1.º do [Decreto-Lei n.º 35977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35977-1946-149409), de 23 de Novembro de 1946, passa a ser a que vai anexa ao presente diploma e é aplicável a todos os funcionários de justiça.
+Art. 2.º A tabela a que se refere o § 1.º do artigo 1.º do [Decreto-Lei n.º 35977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35977-1946-149409), de 23 de Novembro de 1946, passa a ser a que vai anexa ao presente diploma e é aplicável a todos os funcionários de justiça.
 
-###### Art. 3.º A participação emolumentar dos funcionários de justiça dos tribunais criminais, de execução das penas, tutelares centrais de menores e dos que prestam serviço nas secretarias-gerais é fixada em metade da atribuída aos funcionários das categorias correspondentes dos tribunais cíveis das respectivas comarcas.
+Art. 3.º A participação emolumentar dos funcionários de justiça dos tribunais criminais, de execução das penas, tutelares centrais de menores e dos que prestam serviço nas secretarias-gerais é fixada em metade da atribuída aos funcionários das categorias correspondentes dos tribunais cíveis das respectivas comarcas.
 
-###### Art. 4.º O presente diploma é aplicável às remunerações vencidas desde o dia 1 de Janeiro de 1970.
+Art. 4.º O presente diploma é aplicável às remunerações vencidas desde o dia 1 de Janeiro de 1970.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 12 de Janeiro de 1970.**
+Promulgado em 12 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

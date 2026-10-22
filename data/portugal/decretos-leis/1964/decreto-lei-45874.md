@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45874-1964-534829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8cc093375cf16fd634e13812ab4475c553ecafb66fabaa591ab963836fb9d1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61ff881296f59df9405d359cb5602df45fe79eeb3e367cde421e1acd927a65ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colégio Militar
+- Contratação de Docentes
+- Língua Estrangeira
+- Pessoal Docente
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591545:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:17Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +105,12 @@ Tornando-se necessário legalizar a situação de um professor de Francês que v
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Colégio Militar autorizado a contratar para professores de prática de conversação de línguas estrangeiras professores dos liceus das respectivas nacionalidades habilitados com qualificações correspondentes ao Exame de Estado, devendo ser-lhes atribuída a remuneração mensal de 4500$00, correspondente ao grupo J do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Artigo 1.º É o Colégio Militar autorizado a contratar para professores de prática de conversação de línguas estrangeiras professores dos liceus das respectivas nacionalidades habilitados com qualificações correspondentes ao Exame de Estado, devendo ser-lhes atribuída a remuneração mensal de 4500$00, correspondente ao grupo J do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 2.º Estes professores serão abonados no corrente ano em conta das disponibilidades existentes nas verbas do pessoal dos quadros aprovados por lei, consignadas no orçamento do Ministério do Exército ao Colégio Militar, considerando-se legalizados, para todos os efeitos, os abonos já efectuados ao professor de prática de língua francesa, contratado em 9 de Outubro de 1962, desde essa data.
+Art. 2.º Estes professores serão abonados no corrente ano em conta das disponibilidades existentes nas verbas do pessoal dos quadros aprovados por lei, consignadas no orçamento do Ministério do Exército ao Colégio Militar, considerando-se legalizados, para todos os efeitos, os abonos já efectuados ao professor de prática de língua francesa, contratado em 9 de Outubro de 1962, desde essa data.
 
-###### Art. 3.º Fica revogado, na parte respeitante a professores de conversação de línguas estrangeiras habilitados com qualificações correspondentes ao Exame de Estado o que se dispõe no anexo II ao [Decreto-Lei n.º 42136](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42136-1959-591545), de 3 de Fevereiro de 1959.
+Art. 3.º Fica revogado, na parte respeitante a professores de conversação de línguas estrangeiras habilitados com qualificações correspondentes ao Exame de Estado o que se dispõe no anexo II ao [Decreto-Lei n.º 42136](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42136-1959-591545), de 3 de Fevereiro de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

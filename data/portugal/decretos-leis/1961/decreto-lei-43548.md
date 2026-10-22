@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43548-1961-560016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d11cbda30ea2c516c420497253d0f4eac9b36a28857b890824a6845dd37e9f82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5777192999cea56947ca38137d5eb6889c0f2ad7a09c8c7b4058a9370979c418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia Nacional
+- Câmara Corporativa
+- Conselho de Governo
+- Conselho Legislativo
+- Eleição Presidencial
+- Presidente da República
+relationships:
+- type: cites
+  target: pt:dre:158237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431975:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:01Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +111,17 @@ Da eleição do Chefe do Estado
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O Presidente da República é eleito pela Nação, por intermédio de um colégio eleitoral constituído pelos membros da Assembleia Nacional e da Câmara Corporativa em efectividade de funções e pelos representantes municipais de cada distrito ou de cada província ultramarina não dividida em distritos e ainda pelos representantes dos conselhos legislativos e dos conselhos de governo das províncias de governo-geral e de governo simples, respectivamente.
+Artigo 1.º O Presidente da República é eleito pela Nação, por intermédio de um colégio eleitoral constituído pelos membros da Assembleia Nacional e da Câmara Corporativa em efectividade de funções e pelos representantes municipais de cada distrito ou de cada província ultramarina não dividida em distritos e ainda pelos representantes dos conselhos legislativos e dos conselhos de governo das províncias de governo-geral e de governo simples, respectivamente.
 
-###### Art. 2.º Os representantes municipais dos distritos e das províncias serão designados pelas vereações eleitas.
+Art. 2.º Os representantes municipais dos distritos e das províncias serão designados pelas vereações eleitas.
 
-###### Art. 3.º - 1. Cada distrito e cada província enviará ao colégio eleitoral um número de representantes municipais igual a metade do número das respectivas câmaras.
+Art. 3.º - 1. Cada distrito e cada província enviará ao colégio eleitoral um número de representantes municipais igual a metade do número das respectivas câmaras.
 
 2. Se for ímpar o número das câmaras do distrito ou da província, arredondar-se-á para mais o cálculo da metade a que se refere o número anterior.
 
-###### Art. 4.º Os representantes dos conselhos legislativos e dos conselhos de governo das províncias ultramarinas que intervêm no colégio eleitoral serão designados por estes órgãos.
+Art. 4.º Os representantes dos conselhos legislativos e dos conselhos de governo das províncias ultramarinas que intervêm no colégio eleitoral serão designados por estes órgãos.
 
-###### Art. 5.º Cada conselho legislativo e cada conselho de governo enviará ao colégio eleitoral o número de representantes fixado no mapa anexo ao presente diploma.
+Art. 5.º Cada conselho legislativo e cada conselho de governo enviará ao colégio eleitoral o número de representantes fixado no mapa anexo ao presente diploma.
 
 ### CAPÍTULO II — Da eleição dos representantes municipais
 
@@ -111,13 +129,13 @@ Da eleição do Chefe do Estado
 
 ##### SUBSECÇÃO I — Da data, local e hora da eleição
 
-###### Art. 6.º - 1. A eleição dos representantes municipais realizar-se-á no 60.º dia anterior ao termo de cada período presidencial, no edifício da sede do governo local competente, segundo a regra do artigo 8.º A data, o local e a hora da eleição serão anunciados pela Presidência do Conselho no Diário do Governo e no Boletim Oficial de cada uma das províncias ultramarinas, com a antecedência mínima de 40 dias.
+Art. 6.º - 1. A eleição dos representantes municipais realizar-se-á no 60.º dia anterior ao termo de cada período presidencial, no edifício da sede do governo local competente, segundo a regra do artigo 8.º A data, o local e a hora da eleição serão anunciados pela Presidência do Conselho no Diário do Governo e no Boletim Oficial de cada uma das províncias ultramarinas, com a antecedência mínima de 40 dias.
 
 2. No caso de vagatura da Presidência da República por qualquer das circunstâncias previstas no artigo 80.º da Constituição, a eleição dos representantes municipais terá lugar no 21.º dia seguinte àquele em que a vagatura ocorrer, sendo essa data, o local e a hora da eleição anunciados no Diário do Governo e no Boletim Oficial de cada uma das províncias ultramarinas até ao 4.º dia posterior àquela ocorrência.
 
 ##### SUBSECÇÃO II — Da apresentação de listas
 
-###### Art. 7.º - 1. Só podem ser votadas as listas apresentadas até 30 dias antes da data fixada na lei para a eleição dos representantes municipais.
+Art. 7.º - 1. Só podem ser votadas as listas apresentadas até 30 dias antes da data fixada na lei para a eleição dos representantes municipais.
 
 2. Nos casos especiais de vagatura, a que se refere o artigo 80.º da Constituição, a apresentação das listas far-se-á até quinze dias antes da data fixada na lei para a eleição dos representantes municipais.
 
@@ -125,15 +143,15 @@ Da eleição do Chefe do Estado
 
 4. Nas listas em que o número de candidatos for superior ao legal excluir-se-ão os últimos nomes excedentes; se for inferior ao fixado na lei, será a lista considerada como não apresentada se o primeiro proponente, no prazo de 24 horas, a não preencher em forma legal.
 
-###### Art. 8.º - 1. A apresentação de listas será feita, conforme os casos, aos governadores civis, aos governadores dos distritos autónomos, aos governadores de distrito e aos governadores das províncias de governo simples por um mínimo de cinco eleitores, dos quais o primeiro será considerado como mandatário dos restantes para o efeito de os representar em todas as operações subsequentes à apresentação das listas em que tenham de intervir.
+Art. 8.º - 1. A apresentação de listas será feita, conforme os casos, aos governadores civis, aos governadores dos distritos autónomos, aos governadores de distrito e aos governadores das províncias de governo simples por um mínimo de cinco eleitores, dos quais o primeiro será considerado como mandatário dos restantes para o efeito de os representar em todas as operações subsequentes à apresentação das listas em que tenham de intervir.
 
 2. A apresentação poderá ser feita por um só eleitor quando no distrito ou na província não haja mais de uma câmara.
 
-###### Art. 9.º - 1. Podem ser propostos como candidatos tanto vereadores como pessoas estranhas às vereações eleitas.
+Art. 9.º - 1. Podem ser propostos como candidatos tanto vereadores como pessoas estranhas às vereações eleitas.
 
 2. Os candidatos propostos devem estar inscritos no recenseamento dos eleitores da Assembleia Nacional, mas não poderão ser membros da Assembleia Nacional ou da Câmara Corporativa que hão-de fazer parte do colégio eleitoral, nem candidatos a Deputados propostos ou eleitos para nova legislatura, no período da qual venha a reunir o dito colégio.
 
-###### Art. 10.º - 1. A apresentação das listas será acompanhada:
+Art. 10.º - 1. A apresentação das listas será acompanhada:
 
 a) De declaração de apresentação, assinada pelos proponentes, sendo as assinaturas reconhecidas por notário;
 
@@ -143,11 +161,11 @@ c) De certidões, passadas pelo chefe da secretaria da respectiva câmara munici
 
 2. As certidões necessárias à instrução do processo de apresentação de listas serão obrigatória e gratuitamente passadas em papel isento de selo, a requerimento verbal ou escrito de qualquer interessado, no prazo de três dias, sob pena de o chefe de secretaria incorrer nas sanções correspondentes ao crime de desobediência qualificada.
 
-###### Art. 11.º - 1. Se até dez dias antes do designado para a eleição dos representantes municipais falecer algum dos candidatos, o mandatário da respectiva lista poderá, no prazo de dois dias, indicar quem o haja de substituir.
+Art. 11.º - 1. Se até dez dias antes do designado para a eleição dos representantes municipais falecer algum dos candidatos, o mandatário da respectiva lista poderá, no prazo de dois dias, indicar quem o haja de substituir.
 
 2. A falta de substituição permitida por este artigo não afecta a validade da lista.
 
-###### Art. 12.º - 1. Findo o prazo para a apresentação das listas dos candidatos, a autoridade competente para as receber verificará, nos dois dias subsequentes, a regularidade dos respectivos processos, a autenticidade dos documentos que os integram, a elegibilidade dos candidatos e classificará alfabèticamente cada uma das listas admitidas, promovendo a sua publicação por meio de edital.
+Art. 12.º - 1. Findo o prazo para a apresentação das listas dos candidatos, a autoridade competente para as receber verificará, nos dois dias subsequentes, a regularidade dos respectivos processos, a autenticidade dos documentos que os integram, a elegibilidade dos candidatos e classificará alfabèticamente cada uma das listas admitidas, promovendo a sua publicação por meio de edital.
 
 2. Das operações referidas neste e nos artigos anteriores será lavrada acta, onde sucintamente se enumerem as razões por que foram aceites ou recusadas as listas apresentadas.
 
@@ -157,7 +175,7 @@ c) De certidões, passadas pelo chefe da secretaria da respectiva câmara munici
 
 5. Havendo substituição de candidatos, a autoridade competente promoverá nova publicação das listas admitidas.
 
-###### Art. 13.º - 1. Das decisões das autoridades referidas no artigo 8.º, sobre a aprovação ou rejeição de listas, poderá qualquer vereador recorrer, nos três dias imediatos à publicação do edital e da acta a que se alude no artigo anterior, para a auditoria administrativa ou para o tribunal administrativo da província ultramarina, conforme os casos.
+Art. 13.º - 1. Das decisões das autoridades referidas no artigo 8.º, sobre a aprovação ou rejeição de listas, poderá qualquer vereador recorrer, nos três dias imediatos à publicação do edital e da acta a que se alude no artigo anterior, para a auditoria administrativa ou para o tribunal administrativo da província ultramarina, conforme os casos.
 
 2. A petição de recurso será instruída com os documentos que provem a capacidade eleitoral activa do recorrente e a verdade dos factos alegados, não sendo de admitir qualquer outra espécie de prova.
 
@@ -177,19 +195,19 @@ c) De certidões, passadas pelo chefe da secretaria da respectiva câmara munici
 
 10. Havendo substituição de candidatos por motivo de recurso, a autoridade competente fará publicar novamente a lista ou listas em que se operarem as substituições.
 
-###### Art. 14.º Depois das publicações a que se referem o n.º 5 do artigo 12.º e o n.º 10 do artigo 13.º, nenhuma dessas listas poderá ser objecto de recurso.
+Art. 14.º Depois das publicações a que se referem o n.º 5 do artigo 12.º e o n.º 10 do artigo 13.º, nenhuma dessas listas poderá ser objecto de recurso.
 
-###### Art. 15.º Os prazos a que se referem os artigos 12.º e 13.º são reduzidos, respectivamente, a 24 horas e a 2 dias, quando a eleição do Presidente da República se fundar em qualquer das circunstâncias a que alude o artigo 80.º da Constituição.
+Art. 15.º Os prazos a que se referem os artigos 12.º e 13.º são reduzidos, respectivamente, a 24 horas e a 2 dias, quando a eleição do Presidente da República se fundar em qualquer das circunstâncias a que alude o artigo 80.º da Constituição.
 
 #### SECÇÃO II — Da eleição
 
-###### Art. 16.º A eleição dos representantes municipais será feita por escrutínio secreto.
+Art. 16.º A eleição dos representantes municipais será feita por escrutínio secreto.
 
-###### Art. 17.º A mesa da assembleia eleitoral de cada distrito ou província será presidida pela autoridade a que se refere o artigo 8.º ou por quem ela nomear para o efeito, por alvará, e será constituída,, além do presidente, por dois secretários, dois escrutinadores e dois suplentes, todos escolhidos pelo presidente.
+Art. 17.º A mesa da assembleia eleitoral de cada distrito ou província será presidida pela autoridade a que se refere o artigo 8.º ou por quem ela nomear para o efeito, por alvará, e será constituída,, além do presidente, por dois secretários, dois escrutinadores e dois suplentes, todos escolhidos pelo presidente.
 
-###### Art. 18.º As listas para a eleição terão forma rectangular, com as dimensões, na metrópole, de 0,30 m x 0,40 m e, no ultramar, de 0,18 m x 0,20 m, e poderão ser dactilografadas, litografadas ou impressas em papel branco, liso, não transparente, sem qualquer marca ou sinal externo. Conterão ainda a designação alfabética que lhes tiver sido atribuída.
+Art. 18.º As listas para a eleição terão forma rectangular, com as dimensões, na metrópole, de 0,30 m x 0,40 m e, no ultramar, de 0,18 m x 0,20 m, e poderão ser dactilografadas, litografadas ou impressas em papel branco, liso, não transparente, sem qualquer marca ou sinal externo. Conterão ainda a designação alfabética que lhes tiver sido atribuída.
 
-###### Art. 19.º - 1. Far-se-ão duas chamadas dos eleitores inscritos na relação mandada organizar em tempo oportuno pela entidade competente, referida no artigo 8.º, com base nos elementos enviados pelos chefes de secretaria das câmaras municipais, no prazo que por tal entidade lhes tiver sido assinado.
+Art. 19.º - 1. Far-se-ão duas chamadas dos eleitores inscritos na relação mandada organizar em tempo oportuno pela entidade competente, referida no artigo 8.º, com base nos elementos enviados pelos chefes de secretaria das câmaras municipais, no prazo que por tal entidade lhes tiver sido assinado.
 
 2. É lícito ao eleitor eliminar qualquer dos nomes constantes da lista em que vote.
 
@@ -217,19 +235,19 @@ e) Quaisquer ocorrências dignas de mencionar-se.
 
 9. O resultado do apuramento será publicado por edital, afixado na porta principal do edifício da Assembleia.
 
-###### Art. 20.º - 1. Qualquer dos eleitores que tiver apresentado protesto, reclamação ou contraprotesto que tenha sido indeferido pela mesa da assembleia eleitoral pode recorrer da sua deliberação.
+Art. 20.º - 1. Qualquer dos eleitores que tiver apresentado protesto, reclamação ou contraprotesto que tenha sido indeferido pela mesa da assembleia eleitoral pode recorrer da sua deliberação.
 
 2. O recurso será interposto no prazo de dois dias perante o auditor administrativo, que, ouvido o Ministério Público, proferirá decisão nas 48 horas seguintes. Desta decisão, que será notificada nas 24 horas subsequentes, não haverá recurso.
 
 3. Nas províncias ultramarinas o recurso será interposto no respectivo tribunal administrativo.
 
-###### Art. 21.º Anulada a deliberação da mesa da assembleia eleitoral, repetir-se-á, sendo caso disso, a eleição num dos quatro dias subsequentes, segundo convocação a fazer pela entidade competente, dirigida às câmaras municipais em carta registada.
+Art. 21.º Anulada a deliberação da mesa da assembleia eleitoral, repetir-se-á, sendo caso disso, a eleição num dos quatro dias subsequentes, segundo convocação a fazer pela entidade competente, dirigida às câmaras municipais em carta registada.
 
-###### Art. 22.º Quando a eleição do Chefe do Estado se funde em alguma das circunstâncias previstas no artigo 80.º da Constituição, os prazos fixados nos artigos anteriores são reduzidos a metade.
+Art. 22.º Quando a eleição do Chefe do Estado se funde em alguma das circunstâncias previstas no artigo 80.º da Constituição, os prazos fixados nos artigos anteriores são reduzidos a metade.
 
 #### SECÇÃO III — Da verificação de poderes
 
-###### Art. 23.º - 1. Compete à Comissão de Verificação de Poderes da Câmara Corporativa verificar e reconhecer os poderes dos representantes municipais eleitos até 8 dias antes da reunião do colégio eleitoral ou até 48 horas antes no caso a que se refere o artigo anterior.
+Art. 23.º - 1. Compete à Comissão de Verificação de Poderes da Câmara Corporativa verificar e reconhecer os poderes dos representantes municipais eleitos até 8 dias antes da reunião do colégio eleitoral ou até 48 horas antes no caso a que se refere o artigo anterior.
 
 2. O acórdão será imediatamente comunicado ao presidente da Assembleia Nacional, que o fará publicar no Diário das Sessões.
 
@@ -239,7 +257,7 @@ e) Quaisquer ocorrências dignas de mencionar-se.
 
 ##### SUBSECÇÃO I — Da data, local e hora da eleição
 
-###### Art. 24.º - 1. Os conselhos legislativos e os conselhos de governo das províncias de governo-geral e de governo simples serão extraordinàriamente convocados, nos termos definidos no respectivo estatuto, para a eleição dos seus representantes a enviar ao colégio eleitoral.
+Art. 24.º - 1. Os conselhos legislativos e os conselhos de governo das províncias de governo-geral e de governo simples serão extraordinàriamente convocados, nos termos definidos no respectivo estatuto, para a eleição dos seus representantes a enviar ao colégio eleitoral.
 
 2. A sessão para a eleição dos representantes realizar-se-á no 60.º dia anterior ao termo do mandato presidencial, indicando-se no respectivo aviso de convocação o dia, o local e a hora em que deverá realizar-se.
 
@@ -247,13 +265,13 @@ e) Quaisquer ocorrências dignas de mencionar-se.
 
 ##### SUBSECÇÃO II — Da apresentação de listas
 
-###### Art. 25.º É aplicável à apresentação de listas de candidatura à eleição de representantes dos conselhos legislativos ou de governo o disposto nos artigos 7.º a 15.º do presente diploma, com as necessárias adaptações.
+Art. 25.º É aplicável à apresentação de listas de candidatura à eleição de representantes dos conselhos legislativos ou de governo o disposto nos artigos 7.º a 15.º do presente diploma, com as necessárias adaptações.
 
 #### SECÇÃO II — Da eleição
 
-###### Art. 26.º A eleição será feita por escrutínio secreto, sem debate prévio.
+Art. 26.º A eleição será feita por escrutínio secreto, sem debate prévio.
 
-###### Art. 27.º - 1. No apuramento da votação observar-se-á o disposto no n.º 3 do artigo 19.º
+Art. 27.º - 1. No apuramento da votação observar-se-á o disposto no n.º 3 do artigo 19.º
 
 2. Das operações de votação lavrar-se-á acta, nos termos gerais válidos para as deliberações dos conselhos legislativos ou de governo.
 
@@ -265,17 +283,17 @@ e) Quaisquer ocorrências dignas de mencionar-se.
 
 6. Anulada a decisão do presidente, repetir-se-á, sendo caso disso, a eleição num dos quatro dias subsequentes, sendo feitos avisos directos aos vogais com a maior antecedência possível.
 
-###### Art. 28.º É aplicável aos recursos admitidos no artigo anterior o disposto no artigo 22.º quando a vagatura da Presidência da República se funde em alguma das circunstâncias previstas no artigo 80.º da Constituição.
+Art. 28.º É aplicável aos recursos admitidos no artigo anterior o disposto no artigo 22.º quando a vagatura da Presidência da República se funde em alguma das circunstâncias previstas no artigo 80.º da Constituição.
 
 #### SECÇÃO III — Da verificação de poderes
 
-###### Art. 29.º A verificação de poderes dos representantes eleitos dos conselhos legislativos ou de governo rege-se pelo disposto no artigo 23.º para os representantes municipais.
+Art. 29.º A verificação de poderes dos representantes eleitos dos conselhos legislativos ou de governo rege-se pelo disposto no artigo 23.º para os representantes municipais.
 
 ### CAPÍTULO IV — Da eleição do Presidente da República
 
 #### SECÇÃO I — Da apresentação de candidaturas
 
-###### Art. 30.º - 1. As candidaturas à Presidência da República serão apresentadas perante o presidente do Supremo Tribunal de Justiça até cinco dias antes da data fixada para a eleição.
+Art. 30.º - 1. As candidaturas à Presidência da República serão apresentadas perante o presidente do Supremo Tribunal de Justiça até cinco dias antes da data fixada para a eleição.
 
 2. As candidaturas serão apresentadas por um mínimo de 20 eleitores e um máximo de 50.
 
@@ -289,25 +307,25 @@ c) Certidão do registo criminal e de tutela.
 
 4. De todos os documentos recebidos será passado recibo ao primeiro dos apresentantes, se o requerer.
 
-###### Art. 31.º - 1. Nas 48 horas subsequentes ao termo do prazo a que se refere o artigo 30.º, o Supremo Tribunal de Justiça reunirá em sessão plenária para julgar da elegibilidade dos candidatos.
+Art. 31.º - 1. Nas 48 horas subsequentes ao termo do prazo a que se refere o artigo 30.º, o Supremo Tribunal de Justiça reunirá em sessão plenária para julgar da elegibilidade dos candidatos.
 
 2. Da acta da reunião será imediatamente remetida cópia ao Presidente da Assembleia Nacional, que promoverá a publicação no Diário das Sessões da lista dos candidatos declarados elegíveis pelo Supremo Tribunal de Justiça.
 
 #### SECÇÃO II — Da reunião do colégio eleitoral
 
-###### Art. 32.º - 1. Para efeito da eleição do Presidente da República, o colégio eleitoral reúne-se por direito próprio na data fixada pela Constituição.
+Art. 32.º - 1. Para efeito da eleição do Presidente da República, o colégio eleitoral reúne-se por direito próprio na data fixada pela Constituição.
 
 2. O dia, a hora e o local da reunião serão anunciados com antecedência de cinco dias pelo presidente da Assembleia Nacional, mediante aviso publicado no Diário das Sessões.
 
-###### Art. 33.º As listas para a eleição do Presidente da República serão feitas de papel branco, liso, não transparente, sem qualquer marca ou sinal externo, terão a forma rectangular, com as dimensões de 0,15 m x 0,10 m, e deverão conter, impresso ou litografado, o nome completo do candidato, bem como a sua profissão ou patente.
+Art. 33.º As listas para a eleição do Presidente da República serão feitas de papel branco, liso, não transparente, sem qualquer marca ou sinal externo, terão a forma rectangular, com as dimensões de 0,15 m x 0,10 m, e deverão conter, impresso ou litografado, o nome completo do candidato, bem como a sua profissão ou patente.
 
-###### Art. 34.º - 1. A mesa do colégio eleitoral será constituída pelo Presidente da Assembleia Nacional, que presidirá, pelos dois secretários da sua mesa e pelos dois secretários da mesa da Câmara Corporativa, servindo os últimos de escrutinadores.
+Art. 34.º - 1. A mesa do colégio eleitoral será constituída pelo Presidente da Assembleia Nacional, que presidirá, pelos dois secretários da sua mesa e pelos dois secretários da mesa da Câmara Corporativa, servindo os últimos de escrutinadores.
 
 2. Faltando qualquer dos secretários, serão estes substituídos por quem o Presidente da Assembleia Nacional designar.
 
-###### Art. 35.º A eleição far-se-á, sem prévio debate, por escrutínio secreto.
+Art. 35.º A eleição far-se-á, sem prévio debate, por escrutínio secreto.
 
-###### Art. 36.º - 1. Os eleitores serão chamados a votar pela ordem seguinte: representantes dos conselhos legislativos e de governo, representantes municipais, Procuradores à Câmara Corporativa e Deputados.
+Art. 36.º - 1. Os eleitores serão chamados a votar pela ordem seguinte: representantes dos conselhos legislativos e de governo, representantes municipais, Procuradores à Câmara Corporativa e Deputados.
 
 2. Terminada a chamada geral dos eleitores, proceder-se-á a uma segunda chamada dos que não houverem respondido à primeira. Concluídas as duas chamadas, votarão, durante uma hora, todos os eleitores que se apresentarem. Tendo votado todos os que se encontrem na sala, será declarada encerrada a eleição.
 
@@ -319,7 +337,7 @@ c) Certidão do registo criminal e de tutela.
 
 6. A mesa não é obrigada a admitir a votar pessoas cuja identidade lhe não seja devidamente comprovada, em caso de dúvida.
 
-###### Art. 37.º - 1. À medida que cada um dos eleitores fizer entrega da lista ao presidente da mesa, os dois escrutinadores procederão à descarga do nome do votante na respectiva relação, por meio da sua rubrica, após o que o presidente lançará a lista na urna.
+Art. 37.º - 1. À medida que cada um dos eleitores fizer entrega da lista ao presidente da mesa, os dois escrutinadores procederão à descarga do nome do votante na respectiva relação, por meio da sua rubrica, após o que o presidente lançará a lista na urna.
 
 2. Terminada a votação, o presidente fará contar o número de votantes, o número de cada uma das listas submetidas a sufrágio e o dos votos de cada candidato.
 
@@ -335,33 +353,33 @@ c) Certidão do registo criminal e de tutela.
 
 8. Terminado o apuramento, proceder-se-á, na presença dos eleitores, à inutilização das listas que se considerarem válidas, sem reclamação de qualquer eleitor.
 
-###### Art. 38.º - 1. Se nenhum candidato obtiver dois terços dos votos do número legal dos membros do colégio eleitoral, proceder-se-á a segundo escrutínio. Se neste nenhum candidato obtiver maioria absoluta dos votos do número legal dos membros do colégio eleitoral, proceder-se-á a terceiro escrutínio, segundo o § 6.º do artigo 72.º da Constituição.
+Art. 38.º - 1. Se nenhum candidato obtiver dois terços dos votos do número legal dos membros do colégio eleitoral, proceder-se-á a segundo escrutínio. Se neste nenhum candidato obtiver maioria absoluta dos votos do número legal dos membros do colégio eleitoral, proceder-se-á a terceiro escrutínio, segundo o § 6.º do artigo 72.º da Constituição.
 
 2. Se no terceiro escrutínio houver empate entre dois ou mais candidatos, repetir-se-ão as votações até que o empate não subsista.
 
 3. Em qualquer destes escrutínios observar-se-ão as normas estabelecidas no artigo anterior.
 
-###### Art. 39.º Será, pelo presidente, proclamado eleito Presidente da República o candidato que obtiver a maioria de votos que se refere o artigo anterior.
+Art. 39.º Será, pelo presidente, proclamado eleito Presidente da República o candidato que obtiver a maioria de votos que se refere o artigo anterior.
 
-###### Art. 40.º Não haverá recurso das decisões da mesa quanto à regularidade das operações da votação, sendo inapelável a proclamação do candidato eleito feita pelo Presidente da Assembleia Nacional.
+Art. 40.º Não haverá recurso das decisões da mesa quanto à regularidade das operações da votação, sendo inapelável a proclamação do candidato eleito feita pelo Presidente da Assembleia Nacional.
 
-###### Art. 41.º - 1. Das operações da eleição mandará o presidente lavrar acta, da qual deverão constar os nomes dos componentes da mesa, a indicação dos candidatos, o número de votos obtidos por cada um deles em cada escrutínio, o número de listas consideradas nulas, bem como o das consideradas válidas contra a reclamação de algum eleitor, a indicação dos protestos e contraprotestos recebidos, com simples referência ao seu número e primeiros signatários e ao sentido da deliberação sobre eles tomada, e quaisquer outras ocorrências que a mesa julgue dignas de menção especial.
+Art. 41.º - 1. Das operações da eleição mandará o presidente lavrar acta, da qual deverão constar os nomes dos componentes da mesa, a indicação dos candidatos, o número de votos obtidos por cada um deles em cada escrutínio, o número de listas consideradas nulas, bem como o das consideradas válidas contra a reclamação de algum eleitor, a indicação dos protestos e contraprotestos recebidos, com simples referência ao seu número e primeiros signatários e ao sentido da deliberação sobre eles tomada, e quaisquer outras ocorrências que a mesa julgue dignas de menção especial.
 
 2. A acta será assinada pelo presidente e, pelo menos, por mais dois dos restantes membros da mesa.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 42.º Nas ilhas adjacentes e nas províncias ultramarinas as comunicações necessárias à preparação ou à realização dos actos eleitorais de que tratam os capítulos II e III podem efectuar-se por via telegráfica.
+Art. 42.º Nas ilhas adjacentes e nas províncias ultramarinas as comunicações necessárias à preparação ou à realização dos actos eleitorais de que tratam os capítulos II e III podem efectuar-se por via telegráfica.
 
-###### Art. 43.º - 1. Os distritos metropolitanos terão o encargo das despesas com a deslocação dos representantes municipais da metrópole. As províncias ultramarinas suportarão as despesas com a deslocação dos seus representantes municipais e dos representantes dos seus conselhos legislativos ou de governo.
+Art. 43.º - 1. Os distritos metropolitanos terão o encargo das despesas com a deslocação dos representantes municipais da metrópole. As províncias ultramarinas suportarão as despesas com a deslocação dos seus representantes municipais e dos representantes dos seus conselhos legislativos ou de governo.
 
 2. As despesas de deslocação compreendem o transporte, por qualquer via, em 1.ª classe e ajuda de custo, igual à percebida pelos funcionários públicos das categorias mais elevadas.
 
-###### Art. 44.º Nas matérias em que o presente diploma seja omisso aplicar-se-á, com as necessárias adaptações, o disposto no [Decreto-Lei n.º 37570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37570-1949-265751), de 3 de Outubro de 1949.
+Art. 44.º Nas matérias em que o presente diploma seja omisso aplicar-se-á, com as necessárias adaptações, o disposto no [Decreto-Lei n.º 37570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37570-1949-265751), de 3 de Outubro de 1949.
 
-###### Art. 45.º São revogados os artigos 26.º a 33.º da [Lei n.º 2015](https://diariodarepublica.pt/dr/detalhe/lei/2015-1946-158237), de 28 de Maio de 1946.
+Art. 45.º São revogados os artigos 26.º a 33.º da [Lei n.º 2015](https://diariodarepublica.pt/dr/detalhe/lei/2015-1946-158237), de 28 de Maio de 1946.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

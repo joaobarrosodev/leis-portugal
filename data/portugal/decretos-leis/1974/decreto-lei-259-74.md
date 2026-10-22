@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 138/1974, 1º Suplemento, Série I de 1974-06-15
   number: '138'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 716-(2) a 716-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/13801/00020002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1974-662343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2899f5b9ba05465b283a13c9f035f7c2dec36522b3246b7c797e886b3eeb94d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30a2f5a0d77393cc568f89dc72fdcd72f3b5d365784a7f249971d47003d146bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amnistia
+- Código Penal
+- Crime
+- Perdão da Pena
 relationships:
 - type: amended_by
   target: pt:dre:220362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220362:por
+  label: "Alargado o âmbito do presente diploma pelo DEC LEI.271/74.21.06.1974.MJ, DG.IS [143-Supl] de 21.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-1974-220362
+  date: '1974-06-21'
+- type: cites
+  target: pt:dre:147436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676583:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:50Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +129,7 @@ Tomaram-se evidentemente as cautelas impostas pela segurança social, que não p
 
 Em face do exposto, o Governo decreta e eu promulgo para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São perdoados:
+Artigo 1.º - 1. São perdoados:
 
 a) A prisão resultante ou que vier a resultar da conversão de multas já aplicadas;
 
@@ -112,7 +137,7 @@ b) Metade de todas as penas de prisão e de prisão maior já aplicadas por deci
 
 2. Todos os perdões acima referidos são concedidos sob a condição resolutiva de o beneficiário não reincidir nos três anos subsequentes à data deste diploma ou à data em que vier a terminar o cumprimento da pena ou durante o cumprimento desta; à pena correspondente ao delito superveniente acrescerá a parte da pena perdoada.
 
-###### Art. 2.º - 1. São amnistiadas as seguintes infracções:
+Art. 2.º - 1. São amnistiadas as seguintes infracções:
 
 a) Os crimes contra a propriedade meramente culposos;
 
@@ -136,18 +161,18 @@ i) As infracções disciplinares dos estudantes.
 
 3. Nos processos em que vier a ser aplicada esta amnistia serão restituídas as quantias de imposto de justiça pagas pela constituição de assistentes.
 
-###### Art. 3.º - 1. Os benefícios constantes deste diploma não se aplicam aos delinquentes de difícil correcção, aos portadores de anomalias mentais judicialmente declaradas e aos alcoólicos.
+Art. 3.º - 1. Os benefícios constantes deste diploma não se aplicam aos delinquentes de difícil correcção, aos portadores de anomalias mentais judicialmente declaradas e aos alcoólicos.
 
 2. Os vadios e equiparados beneficiarão dos perdões e amnistias constantes deste diploma, com excepção apenas da medida de segurança respectiva, a qual só poderá cessar antes do seu termo por decisão do Tribunal de Execução das Penas.
 
-###### Art. 4.º Os benefícios concedidos por este diploma não abrangem o foro militar.
+Art. 4.º Os benefícios concedidos por este diploma não abrangem o foro militar.
 
-###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+Art. 5.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Salgado Zenha.
 
-**Promulgado em 5 de Junho de 1974.**
+Promulgado em 5 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

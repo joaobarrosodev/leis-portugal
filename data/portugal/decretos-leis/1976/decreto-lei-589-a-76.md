@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 170/1976, 1º Suplemento, Série I de 1976-07-22
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1652-(1) a 1652-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17001/00010008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/589-a-1976-355701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 152b0b5846271385ebdfa681402a0713185092915fabd00aab43075da7842bf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2287e34ef68ed19935fd18fca78f3147bc02901ee1f270b3aad35cc8d2a06ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Ministério da Agricultura e Pescas
+- Ministério da Comunicação Social
+- Ministério da Defesa Nacional
+- Ministério da Educação e Investigação Científica
+- Ministério das Finanças
+- Ministério do Comércio Externo
+- Ministério do Equipamento Social
+- Ministério dos Assuntos Sociais
+- Ministério dos Transportes e Comunicações
+- Reforço de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:196258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672146:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:430405:por
+  label: Rectificado pela DECL.DD8261.20.08.1976.PCM, DR.IS [195] de 20.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430405
+  date: '1976-08-20'
+- type: corrected_by
+  target: pt:dre:409075:por
+  label: Rectificado pela DECL.DD8215.27.09.1976.PCM, DR.IS [227] de 27.09.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-409075
+  date: '1976-09-27'
 article_structure:
-  article_count: 46
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:26Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +165,13 @@ Assim:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2616448849$40, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2616448849$40, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
-### Capítulo 5.º «Despesas gerais da Força Aérea»:
+Capítulo 5.º «Despesas gerais da Força Aérea»:
 
-###### Artigo 84.º «Vencimentos e salários»:
+Artigo 84.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -122,7 +181,7 @@ Aumento de vencimentos nos termos do artigo 1.º dos Decretos-Leis n.os [69/76](
 
 Alínea 2 «Pessoal além dos quadros» ... 40000000$00
 
-###### Artigo 87.º «Vencimentos e salários»:
+Artigo 87.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -130,9 +189,9 @@ Alínea 1 «Pessoal além dos quadros»:
 
 1. «Em serviço militar obrigatório» ... 60000000$00
 
-### Capítulo 5.º «Despesas gerais da Força Aérea»:
+Capítulo 5.º «Despesas gerais da Força Aérea»:
 
-###### Artigo 91. Vencimentos e salários):
+Artigo 91. Vencimentos e salários):
 
 N.º 1 «Vencimentos»:
 
@@ -142,11 +201,11 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 (Durante doze meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17001/00010008.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17001/00010008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17001/00010008.pdf)
 
-### Capítulo 6.º «Corpo de Tropas Pára-Quedistas»:
+Capítulo 6.º «Corpo de Tropas Pára-Quedistas»:
 
-###### Artigo 116.º «Vencimentos e salários»:
+Artigo 116.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -156,57 +215,57 @@ Aumento de vencimentos, nos termos do artigo 1.º dos Decretos-Leis n.os [69/76]
 
 Despesa extraordinária:
 
-### Capítulo 12.º «Despesas comuns»:
+Capítulo 12.º «Despesas comuns»:
 
 Reequipamento extraordinário do Exército e da Aeronáutica
 
-###### Artigo 184.º «Remunerações em numerário» ... 650000$00
+Artigo 184.º «Remunerações em numerário» ... 650000$00
 
-###### Artigo 185.º «Remunerações em espécie» ... 4000000$00
+Artigo 185.º «Remunerações em espécie» ... 4000000$00
 
-###### Artigo 186.º «Previdência social»:
+Artigo 186.º «Previdência social»:
 
 N.º 1 «Abono de família» ... 140000$00
 
 N.º 2 «Outras despesas» ... 5200000$00
 
-###### Artigo 187.º «Compensação de encargos» ... 2600000$00
+Artigo 187.º «Compensação de encargos» ... 2600000$00
 
-###### Artigo 188.º «Bens duradouro.» ... 5310000$00
+Artigo 188.º «Bens duradouro.» ... 5310000$00
 
-###### Artigo 189.º «Bens não duradouro.» ... 22100000$00
+Artigo 189.º «Bens não duradouro.» ... 22100000$00
 
-###### Artigo 190.º «Aquisição de serviços» ... 10000000$00
+Artigo 190.º «Aquisição de serviços» ... 10000000$00
 
 ... 354505600$00
 
 Defesa Nacional - Departamento do Exército
 
-### Capítulo 1.º «Gabinete do Chefe do Estado-Maior do Exército»:
+Capítulo 1.º «Gabinete do Chefe do Estado-Maior do Exército»:
 
 Chefe do Estado-Maior do Exército e Repartição do Gabinete
 
-###### Artigo 1.º «Vencimentos e salários»:
+Artigo 1.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
 Alínea 1 «Pessoal dos quadros aprovados por lei» ... 16560$00
 
-### Capítulo 2.º «Estado-Maior do Exército»:
+Capítulo 2.º «Estado-Maior do Exército»:
 
 Chefia do Serviço Cartográfico do Exército
 
-###### Artigo 18.º «Vencimentos e salários»:
+Artigo 18.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
 Alínea 1 «Pessoal dos quadros aprovados por lei» ... 87120$00
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Instituto de Altos Estudos Militares
 
-###### Artigo 55.º «Vencimentos e salários»:
+Artigo 55.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -214,7 +273,7 @@ Alínea 1 «Pessoal dos quadros aprovados por lei» ... 209580$00
 
 Academia Militar
 
-###### Artigo 68.º «Vencimentos e salários»:
+Artigo 68.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -228,7 +287,7 @@ Alínea 3 «Pessoal além dos quadros»:
 
 Escola Central de Sargentos
 
-###### Artigo 81.º «Vencimentos e salários»:
+Artigo 81.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -236,7 +295,7 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»... 185640$00
 
 Escola Militar de Electromecânica
 
-###### Artigo 102.º «Vencimentos e salários»:
+Artigo 102.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -244,7 +303,7 @@ Alínea 2 «Pessoal destacado de outros serviços do Estado» ... 411840$00
 
 Colégio Militar
 
-###### Artigo 168.º «Vencimentos e salários»:
+Artigo 168.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -252,7 +311,7 @@ Alínea 1 «Pessoal dos quadros aprovados por lei» ... 737880$00
 
 Instituto Técnico Militar dos Pupilos do Exército
 
-###### Artigo 179.º «Vencimentos e salários»:
+Artigo 179.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -260,7 +319,7 @@ Alínea 2 «Pessoal dos quadros aprovados por lei» ... 773200$00
 
 Cursos de oficiais milicianos
 
-###### Artigo 202.º «Vencimentos e salários»:
+Artigo 202.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -268,7 +327,7 @@ Alínea 1 «Vencimentos dos soldados cadetes» ... 220500$00
 
 Cursos de sargentos milicianos
 
-###### Artigo 207.º «Vencimentos e salário»
+Artigo 207.º «Vencimentos e salário»
 
 N.º 1 «Vencimentos»:
 
@@ -278,27 +337,27 @@ Alínea 2 «Prés dos segundos-furriéis» ... 39000000$00
 
 Escolas de recrutas
 
-###### Artigo 210.º «Vencimentos e salários»:
+Artigo 210.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
 Alínea 1 «Prés a recrutas»; ... 17000000$00
 
-### Capítulo 4.º «Serviços do ajudante-general»:
+Capítulo 4.º «Serviços do ajudante-general»:
 
 Escriturários-dactilógrafos e pessoal militarizado
 
-###### Artigo 220. «Vencimentos e salários»:
+Artigo 220. «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
 Alínea 1 «Pessoal dos quadros aprovados por lei» ... 8932000$00
 
-### Capítulo 8.º «Encargos gerais»:
+Capítulo 8.º «Encargos gerais»:
 
 Oficiais
 
-###### Artigo 383.º «Vencimentos e salários»:
+Artigo 383.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -310,7 +369,7 @@ Alínea 3 «Oficiais considerados supranumerários por promoção, transferênci
 
 Sargentos e praças de pré
 
-###### Artigo 390.º «Vencimentos e salários»:
+Artigo 390.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -330,9 +389,9 @@ Alínea 2 «Pessoal de nomeação vitalícia além dos quadros»:
 
 Despesas comuns
 
-###### Artigo 424.º «Subsídio de férias» ... 31400000$00
+Artigo 424.º «Subsídio de férias» ... 31400000$00
 
-###### Artigo 425.º «Subsídio de Natal» ... 31400000$00
+Artigo 425.º «Subsídio de Natal» ... 31400000$00
 
 ... 450000000$00
 
@@ -340,17 +399,17 @@ Ministério das Finanças
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 4.º «Pensões e reformas»:
+Capítulo 4.º «Pensões e reformas»:
 
-###### Artigo 49.º «Subsídios»:
+Artigo 49.º «Subsídios»:
 
 N.º 3 «À Caixa Geral de Aposentações»:
 
 Alínea 2 «Pensões de invalidez ...» ... 240000000$00
 
-### Capítulo 9.º «Guarda Fiscal»:
+Capítulo 9.º «Guarda Fiscal»:
 
-###### Artigo 108.º «Vencimentos e salários»:
+Artigo 108.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -366,19 +425,19 @@ Alínea 3 «Pessoal contratado não pertencente aos quadros» ... 142800$00
 
 Alínea 5 «Pessoal destacado de outros serviços do Estado» ... 45600$00
 
-###### Artigo 111.º «Subsídio de residência» ... 327600$00
+Artigo 111.º «Subsídio de residência» ... 327600$00
 
-###### Artigo 117.º «Remunerações por serviços auxiliares) ... 381444$00
+Artigo 117.º «Remunerações por serviços auxiliares) ... 381444$00
 
 Outras despesas extraordinárias
 
-### Capítulo 35.º «Direcção-Geral da Fazenda Pública»:
+Capítulo 35.º «Direcção-Geral da Fazenda Pública»:
 
 Aquisição de títulos e operações financeiras
 
 Despesas de capital:
 
-###### Artigo 439.º «Activos financeiros»:
+Artigo 439.º «Activos financeiros»:
 
 N.º 1 «Outros activos financeiros»:
 
@@ -394,7 +453,7 @@ Investimentos do Plano
 
 Secretaria de Estado das Pescas
 
-### Capítulo 21.º «Direcção-Geral do Planeamento e Fomento das Pescas»:
+Capítulo 21.º «Direcção-Geral do Planeamento e Fomento das Pescas»:
 
 Pescas
 
@@ -404,7 +463,7 @@ Compensação de encargos numa viagem exploratória de dois navios de redes de e
 
 Despesas correntes:
 
-###### Artigo 340.º-A «Outras despesas correntes» ... 1800000$00
+Artigo 340.º-A «Outras despesas correntes» ... 1800000$00
 
 Construções, aquisições, transformações e beneficiação de navios
 
@@ -412,33 +471,33 @@ Pesca de arrasto
 
 Despesas de capital:
 
-###### Artigo 341.º «Outras despesas de capital» ... 29000000$00
+Artigo 341.º «Outras despesas de capital» ... 29000000$00
 
 Pesca de bacalhau
 
 Despesas de capital:
 
-###### Artigo 342.º «Outras despesas de capital» ... 21000000$00
+Artigo 342.º «Outras despesas de capital» ... 21000000$00
 
 Pesca de atum
 
 Despesas de capital:
 
-###### Artigo 342.º-A «Outras despesas de capital» ... 2700000$00
+Artigo 342.º-A «Outras despesas de capital» ... 2700000$00
 
 Pesca artesanal
 
 Despesas de capital:
 
-###### Artigo 343.º «Outras despesas de capital» ... 7500000$00
+Artigo 343.º «Outras despesas de capital» ... 7500000$00
 
 ... 62000000$00
 
 Ministério do Comércio Externo
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 13.º «Investimentos»:
+Artigo 13.º «Investimentos»:
 
 N.º 3 «Edifícios» ... 40000000$00
 
@@ -448,13 +507,13 @@ Despesa extraordinária
 
 Investimentos do Plano
 
-### Capítulo 19.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 19.º «Direcção-Geral dos Serviços Hidráulicos»:
 
 Habitação urbanismo
 
 Saneamento básico
 
-###### Artigo 345.º «Outras despesas de capital» ... 23943300$00
+Artigo 345.º «Outras despesas de capital» ... 23943300$00
 
 Ministério dos Transportes e Comunicações
 
@@ -464,19 +523,19 @@ Investimentos do Plano
 
 Secretaria de Estado dos Transportes e Comunicação
 
-### Capítulo 18.º «Direcção-Geral da Aeronáutica Civil»:
+Capítulo 18.º «Direcção-Geral da Aeronáutica Civil»:
 
 Aeroportos e equipamento de apoio à navegação aérea
 
 Despesas de capital:
 
-###### Artigo 366.º «Outras despesas de capital» ... 170400000$00
+Artigo 366.º «Outras despesas de capital» ... 170400000$00
 
 Outras despesas extraordinárias
 
-### Capítulo 23.º «Secretaria-Geral»:
+Capítulo 23.º «Secretaria-Geral»:
 
-###### Artigo 382.º «Transferências - Empresas»:
+Artigo 382.º «Transferências - Empresas»:
 
 N.º 1 «Subsídio extraordinário para pagamento à Caixa Nacional de Pensões de encargos da Companhia dos Caminhos de Ferro Portugueses, ...» ... 200000000$00
 
@@ -484,9 +543,9 @@ N.º 1 «Subsídio extraordinário para pagamento à Caixa Nacional de Pensões 
 
 Ministério da Educação e Investigação Científica
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 61.º «Investimentos»:
+Artigo 61.º «Investimentos»:
 
 N.º 3 «Edifícios» ... 40000000$00
 
@@ -494,11 +553,11 @@ Despesa extraordinária
 
 Investimentos do Plano
 
-### Capítulo 21.º «Direcção-Geral do Equipamento Escolar»:
+Capítulo 21.º «Direcção-Geral do Equipamento Escolar»:
 
 Despesas de capital:
 
-###### Artigo 1112.º «Transferências - Sector público»:
+Artigo 1112.º «Transferências - Sector público»:
 
 N.º 1 «Comissão de Equipamento Escolar» ... 250000000$00
 
@@ -508,9 +567,9 @@ Ministério dos Assuntos Sociais
 
 Secretaria de Estado da Saúde
 
-### Capítulo 7.º «Direcção-Geral dos Hospitais»:
+Capítulo 7.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 133.º «Transferências - Sector público»:
+Artigo 133.º «Transferências - Sector público»:
 
 N.º 1 «Estabelecimentos hospitalares»:
 
@@ -530,58 +589,58 @@ Alínea 1 «Comparticipação nos encargos desta natureza dos estabelecimentos o
 
 Ministério da Comunicação Social
 
-### Capítulo 5.º «Serviços do Ministério»:
+Capítulo 5.º «Serviços do Ministério»:
 
-###### Artigo 100.º-A «Transferências - Empresas»:
+Artigo 100.º-A «Transferências - Empresas»:
 
 N.º 2 «Apoio a órgãos de informação» ... 62000000$00
 
 ... 2616448849$40
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado representativas de aumento de previsão de receitas e anulações em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado representativas de aumento de previsão de receitas e anulações em verbas de despesa:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 382000000$00
+Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 382000000$00
 
-### Capítulo 2.º, grupo 1, artigo 15.º «Sobretaxa de importação» ... 121945044$00
+Capítulo 2.º, grupo 1, artigo 15.º «Sobretaxa de importação» ... 121945044$00
 
-### Capítulo 2.º, grupo 3, artigo 18.º «Estampilhas fiscais» ... 564000000$00
+Capítulo 2.º, grupo 3, artigo 18.º «Estampilhas fiscais» ... 564000000$00
 
-### Capítulo 8.º, grupo 10, artigo 124.º-B «Rendimentos provenientes da aplicação do produto de promissórias e de operações realizadas ao abrigo do [Decreto-Lei n.º 49240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49240-1969-214030)» ... 653000000$00
+Capítulo 8.º, grupo 10, artigo 124.º-B «Rendimentos provenientes da aplicação do produto de promissórias e de operações realizadas ao abrigo do [Decreto-Lei n.º 49240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49240-1969-214030)» ... 653000000$00
 
 Receita extraordinária:
 
-### Capítulo 12.º, artigo 191.º «Crédito interno» ... 543998205$40
+Capítulo 12.º, artigo 191.º «Crédito interno» ... 543998205$40
 
 ... 3249$40
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
-### Capítulo 5.º, artigo 91.º, n.º 1, alínea 2 ... 47105600$00
+Capítulo 5.º, artigo 91.º, n.º 1, alínea 2 ... 47105600$00
 
-### Capítulo 5.º, artigo 91.º, n.º 2 ... 54400000$00
+Capítulo 5.º, artigo 91.º, n.º 2 ... 54400000$00
 
 101505600$00
 
 Ministério do Equipamento Social
 
-### Capítulo 24.º, artigo 394.º ... 150000000$00
+Capítulo 24.º, artigo 394.º ... 150000000$00
 
 Ministério da Educação e Investigação Científica
 
-### Capítulo 19.º, artigo 1108.º, n.º ... 1100000000$00
+Capítulo 19.º, artigo 1108.º, n.º ... 1100000000$00
 
 ... 2616448849$40
 
-###### Art. 3.º Será inscrita no orçamento do Ministério da Educação e Investigação Científica para o ano de 1977 a importância de 50000000$00 para ocorrer à satisfação de encargos com a realização de obras no edifício da Avenida de 24 de Julho destinado ao MEIC.
+Art. 3.º Será inscrita no orçamento do Ministério da Educação e Investigação Científica para o ano de 1977 a importância de 50000000$00 para ocorrer à satisfação de encargos com a realização de obras no edifício da Avenida de 24 de Julho destinado ao MEIC.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Joaquim Jorge de Pinho Campinos - Álvaro Augusto Veiga de Oliveira - Eduardo Ribeiro Pereira - José Augusto Fernandes - Vítor Manuel Rodrigues Alves - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

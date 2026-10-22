@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/02/03100/01520153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1972-398082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd1cd3175acbc7da72f1aa9cf06a5a503652f975c6af2364abb1181ae965507d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61ace8b3e57af9ce22714277bc5f12f849d975aef79d589f69771f464dfca1f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Territorial
+- Marinha
+- Tribunal Militar
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:336102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:336102:por
+  label: "Revogado pelo DEC LEI.226/75.13.05.1975.CR, DG.IS [110] de 13.05.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1975-336102
+  date: '1975-05-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:41Z'
   warnings: []
   errors: []
 ---
@@ -99,27 +108,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na sede dos comandos de região naval e de defesa marítima territorial, no ultramar, será organizado um tribunal militar sempre que houver que julgar algum indivíduo sujeito à jurisdição desses comandos.
+Artigo 1.º Na sede dos comandos de região naval e de defesa marítima territorial, no ultramar, será organizado um tribunal militar sempre que houver que julgar algum indivíduo sujeito à jurisdição desses comandos.
 
-###### Art. 2.º O tribunal de que trata o artigo antecedente será constituído e funcionará como está determinado no Código de Justiça Militar para os tribunais militares das forças navais fora dos portos do continente e ilhas adjacentes, com as adaptações que constam dos artigos seguintes.
+Art. 2.º O tribunal de que trata o artigo antecedente será constituído e funcionará como está determinado no Código de Justiça Militar para os tribunais militares das forças navais fora dos portos do continente e ilhas adjacentes, com as adaptações que constam dos artigos seguintes.
 
-###### Art. 3.º O presidente será o oficial que se segue em antiguidade ao comandante de região naval ou de defesa marítima territorial, devendo a nomeação do outro juiz militar recair em oficial das classes de marinha, de engenheiros maquinistas navais ou de administração naval de posto não inferior a capitão-tenente.
+Art. 3.º O presidente será o oficial que se segue em antiguidade ao comandante de região naval ou de defesa marítima territorial, devendo a nomeação do outro juiz militar recair em oficial das classes de marinha, de engenheiros maquinistas navais ou de administração naval de posto não inferior a capitão-tenente.
 
-###### Art. 4.º As funções do juiz auditor estabelecidas no Código de Justiça Militar serão inerentes às de juiz de direito ou de juiz do 1.º juízo criminal da comarca em que tiverem sede.
+Art. 4.º As funções do juiz auditor estabelecidas no Código de Justiça Militar serão inerentes às de juiz de direito ou de juiz do 1.º juízo criminal da comarca em que tiverem sede.
 
-###### Art. 5.º As funções de promotor de justiça e de defensor oficioso recairão em oficiais de qualquer classe e posto, de preferência habilitados com a licenciatura em direito ou com prática dos serviços de justiça militar.
+Art. 5.º As funções de promotor de justiça e de defensor oficioso recairão em oficiais de qualquer classe e posto, de preferência habilitados com a licenciatura em direito ou com prática dos serviços de justiça militar.
 
-###### Art. 6.º As funções de secretário serão desempenhadas por um segundo-tenente ou subtenente, de qualquer classe.
+Art. 6.º As funções de secretário serão desempenhadas por um segundo-tenente ou subtenente, de qualquer classe.
 
-###### Art. 7.º As nomeações para as funções referidas nos artigos 3.º, 5.º e 6.º serão feitas pelo comandante da região naval ou da defesa marítima territorial entre os oficiais que estiverem sob as suas ordens.
+Art. 7.º As nomeações para as funções referidas nos artigos 3.º, 5.º e 6.º serão feitas pelo comandante da região naval ou da defesa marítima territorial entre os oficiais que estiverem sob as suas ordens.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Janeiro de 1972.**
+Promulgado em 26 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 

@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0546bedf84fbc2a5d44547309cff2c7dc8e31b8c06f47ec5cd6b8c27e2f708b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29e41b8a9b6373ec3b81d783fcddf3a6453d75c1ccba3b12afea3418d1508184
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete da Área de Sines
+- Orgânica
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 25 PELO DECRETO LEI NUMERO 234/78, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 188, DE 17/8/78.\
+    \ REVOGADO O REGIME TRANSITÓRIO DO ARTIGO 40 PELO DECRETO-LEI NUMERO 155/87, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 74, DE 30/3/87, NA PARTE EM QUE OS SEUS EFEITOS NAO HAVIAM CESSADO JÁ POR FORÇA DO DISPOSTO NO ARTIGO 1 DO DECRETO-LEI\
+    \ NUMERO 93/75, DE 28/2/75.\0/75, DE 28/2/75.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:313830:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619948:por
+  label: "Extinto o Gabinete da Área de Sines, pelo DEC LEI.228/89.17.07.1989.MPLAT, DR.IS [162] de 17.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1989-619948
+  date: '1989-07-17'
+- type: amended_by
+  target: pt:dre:313830:por
+  label: Determinada a transmissão e a integração, no domínio privado do estado, da propriedade dos imóveis pertencentes ao
+    Gabinete da Área de Sines, criado pelo presente diploma, pelo(a) Decreto-Lei n.º 6/90 - Diário da República n.º 2/1990,
+    Série I de 1990-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1990-313830
+  date: '1990-01-03'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201462:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147406:por
+  label: "Revogadas todas as disposições, pelo DEC LEI.513-D1/79.1979.12.27.PCM, DR.IS [297]3ºSupl de 27.12.1979, que contradigam\
+    \ o citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-d1-1979-147406
+  date: '1978-12-27'
+- type: repealed_by
+  target: pt:dre:382669:por
+  label: "Revogado naquilo que contrariar o presente diploma, pelo DEC LEI.93/79.20.04.1979.MFP, DR.IS [92] de 20.04.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1979-382669
+  date: '1979-04-20'
+- type: repealed_by
+  target: pt:dre:666528:por
+  label: "Revogado, na parte em que os seus efeitos não haviam cessado já por força do disposto no art. 1º do Dec Lei 93/75,\
+    \ de 28-fev, o regime transitório do art. 40º do presente diploma, pelo DEC LEI.155/87.30.03.1987.MIC, DR.IS [74] de 30.03.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1987-666528
+  date: '1987-03-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:09Z'
   warnings: []
   errors: []
 ---
@@ -167,11 +215,11 @@ GABINETE DO PLANO DE DESENVOLVIMENTO DA ÁREA DE SINES
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º - 1. É criado o Gabinete do Plano de Desenvolvimento da Área de Sines, abreviadamente designado por Gabinete da Área de Sines, destinado a promover o desenvolvimento urbano-industrial da respectiva zona.
+Artigo 1.º - 1. É criado o Gabinete do Plano de Desenvolvimento da Área de Sines, abreviadamente designado por Gabinete da Área de Sines, destinado a promover o desenvolvimento urbano-industrial da respectiva zona.
 
 2. O Gabinete é dotado de personalidade jurídica e autonomia administrativa e financeira e depende directamente do Presidente do Conselho.
 
-###### Art. 2.º - 1. O Gabinete da Área de Sines tem por atribuições:
+Art. 2.º - 1. O Gabinete da Área de Sines tem por atribuições:
 
 a) Promover, na zona delimitada no n.º 2, a criação de uma área de implantação concentrada de indústrias de base e de um terminal oceânico, dotados das adequadas infra-estruturas e dos necessários serviços de apoio;
 
@@ -191,7 +239,7 @@ b) O melhor ordenamento de todo o território das regiões de planeamento de Lis
 
 c) O mais conveniente e útil aproveitamento, em unidades industriais da área, de matérias-primas ou outros recursos existentes em qualquer parte do território nacional, de forma a contribuir para o mais fecundo e rápido desenvolvimento global.
 
-###### Art. 3.º - 1. Para o exercício das suas atribuições, compete especialmente ao Gabinete da Área de Sines:
+Art. 3.º - 1. Para o exercício das suas atribuições, compete especialmente ao Gabinete da Área de Sines:
 
 a) Elaborar o plano geral e os correspondentes planos parciais relativos à criação e ao desenvolvimento da área urbano-industrial da zona;
 
@@ -225,11 +273,11 @@ o) Propor ao Governo as providências que considere convenientes para assegurar 
 
 3. Havendo discordância, nos casos previstos na alínea i) do n.º 1, entre o Gabinete da Área de Sines e a entidade competente para conhecer do pedido, a questão será objecto de deliberação do Conselho de Ministros para os Assuntos Económicos.
 
-###### Art. 4.º - 1. Serão implantados na zona de actuação directa do Gabinete da Área de Sines a refinaria do Sul, o complexo petroquímico de olefinas e as instalações portuárias anexas que o Governo autorizar ao abrigo do despacho do Ministro da Economia de 16 de Outubro de 1970, publicado no Diário do Governo, 3.ª série, de 4 de Novembro do mesmo ano.
+Art. 4.º - 1. Serão implantados na zona de actuação directa do Gabinete da Área de Sines a refinaria do Sul, o complexo petroquímico de olefinas e as instalações portuárias anexas que o Governo autorizar ao abrigo do despacho do Ministro da Economia de 16 de Outubro de 1970, publicado no Diário do Governo, 3.ª série, de 4 de Novembro do mesmo ano.
 
 2. Por força do disposto no número anterior, passará o Gabinete da Área de Sines a coordenar a realização de todos os referidos empreendimentos e a superintender, nos termos deste diploma, no estudo e execução das infra-estruturas e serviços de apoio para eles necessários, devendo incluí-los na elaboração do plano geral e dos posteriores planos parciais previstos na alínea a) do n.º 1 do artigo 3.º
 
-###### Art. 5.º - 1. Considera-se especialmente cometida ao Gabinete da Área de Sines, nos termos da alínea h) do n.º 1 do artigo 3.º, a realização imediata dos estudos sobre a viabilidade económica do aproveitamento dos recursos mineiros do Sul do País, em especial das pirites alentejanas.
+Art. 5.º - 1. Considera-se especialmente cometida ao Gabinete da Área de Sines, nos termos da alínea h) do n.º 1 do artigo 3.º, a realização imediata dos estudos sobre a viabilidade económica do aproveitamento dos recursos mineiros do Sul do País, em especial das pirites alentejanas.
 
 2. Tais estudos devem incluir as formas mais adequadas para a efectivação e exploração dos empreendimentos necessários para a melhor prossecução do referido objectivo em todas as suas fases, desde a exploração mineira até à exportação dos produtos transformados, e atender ao possível aproveitamento conjunto de outras matérias-primas nacionais.
 
@@ -237,7 +285,7 @@ o) Propor ao Governo as providências que considere convenientes para assegurar 
 
 ### CAPÍTULO II — Dos órgãos do Gabinete
 
-###### Art. 6.º São órgãos do Gabinete da Área de Sines:
+Art. 6.º São órgãos do Gabinete da Área de Sines:
 
 a) O conselho coordenador;
 
@@ -245,7 +293,7 @@ b) O director do Gabinete;
 
 c) A comissão administrativa.
 
-###### Art. 7.º - 1. O conselho coordenador constitui um órgão consultivo incumbido de estabelecer as convenientes ligações entre o Gabinete e os departamentos governamentais, serviços autónomos e autarquias locais especialmente interessados no planeamento e execução dos empreendimentos e actividades a exercer na área e de assegurar a conveniente harmonização das respectivas actuações.
+Art. 7.º - 1. O conselho coordenador constitui um órgão consultivo incumbido de estabelecer as convenientes ligações entre o Gabinete e os departamentos governamentais, serviços autónomos e autarquias locais especialmente interessados no planeamento e execução dos empreendimentos e actividades a exercer na área e de assegurar a conveniente harmonização das respectivas actuações.
 
 2. Compete especialmente ao conselho coordenador emitir parecer:
 
@@ -257,7 +305,7 @@ c) Sobre os relatórios anuais das actividades exercidas;
 
 d) Sobre do assuntos que o director do Gabinete considere conveniente.
 
-###### Art. 8.º - 1. O conselho coordenador é presidido pelo director do Gabinete e tem como vogais permanentes:
+Art. 8.º - 1. O conselho coordenador é presidido pelo director do Gabinete e tem como vogais permanentes:
 
 a) Um representante de cada um dos seguintes serviços ou organismos:
 
@@ -317,9 +365,9 @@ d) O subdirector e os directores de serviços do Gabinete.
 
 5. Nas sessões restritas os membros do conselho podem fazer-se acompanhar por assessores especializados, quando a natureza das questões o justifique.
 
-###### Art. 9.º Incumbe ao director do Gabinete superintender nos serviços, coadjuvado por um subdirector, que o substituirá nas suas faltas e impedimentos, incluindo na presidência do conselho coordenador e da comissão administrativa.
+Art. 9.º Incumbe ao director do Gabinete superintender nos serviços, coadjuvado por um subdirector, que o substituirá nas suas faltas e impedimentos, incluindo na presidência do conselho coordenador e da comissão administrativa.
 
-###### Art. 10.º - 1. À comissão administrativa incumbe elaborar os projectos dos orçamentos do Gabinete e superintender na respectiva execução.
+Art. 10.º - 1. À comissão administrativa incumbe elaborar os projectos dos orçamentos do Gabinete e superintender na respectiva execução.
 
 2. A comissão administrativa é presidida pelo director do Gabinete, ou, por delegação deste, pelo subdirector, e tem como vogais o director dos serviços financeiros e o chefe dos serviços administrativos.
 
@@ -327,7 +375,7 @@ d) O subdirector e os directores de serviços do Gabinete.
 
 4. No caso de parecer desfavorável do delegado do Tribunal de Contas sobre a legalidade de qualquer despesa, será o processo submetido a decisão do Ministro das Finanças.
 
-###### Art. 11.º - 1. Os vogais do conselho coordenador que não pertençam ao pessoal do Gabinete terão direito a senhas de presença, bem como ao abono, nos termos da lei, de transportes e de ajudas de custo.
+Art. 11.º - 1. Os vogais do conselho coordenador que não pertençam ao pessoal do Gabinete terão direito a senhas de presença, bem como ao abono, nos termos da lei, de transportes e de ajudas de custo.
 
 2. O disposto no número anterior é aplicável às pessoas que forem eventualmente convocadas para as reuniões, ao abrigo do n.º 3 do artigo 8.º, atendendo-se, quando não sejam funcionários, à categoria a que forem equiparadas.
 
@@ -335,7 +383,7 @@ d) O subdirector e os directores de serviços do Gabinete.
 
 ### CAPÍTULO III — Dos meios financeiros e da sua gestão
 
-###### Art. 12.º Constituem receitas do Gabinete da Área de Sines:
+Art. 12.º Constituem receitas do Gabinete da Área de Sines:
 
 a) As dotações do Estado;
 
@@ -355,9 +403,9 @@ h) O saldo da gerência de cada ano;
 
 i) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
 
-###### Art. 13.º Constituem encargos do Gabinete da Área de Sines as despesas a realizar com a instalação e o funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições.
+Art. 13.º Constituem encargos do Gabinete da Área de Sines as despesas a realizar com a instalação e o funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições.
 
-###### Art. 14.º - 1. A gestão financeira e patrimonial do Gabinete da Área de Sines será disciplinada pelas previsões constantes:
+Art. 14.º - 1. A gestão financeira e patrimonial do Gabinete da Área de Sines será disciplinada pelas previsões constantes:
 
 a) Dos orçamentos anuais;
 
@@ -377,49 +425,49 @@ b) Os programas de acção e os programas anuais de trabalhos.
 
 4. Os programas anuais de investimentos deverão prever os encargos com o estudo, construção ou renovação dos empreendimentos a executar pelo Gabinete, directamente ou por empreitada, com base nos orçamentos globais das obras e nos respectivos programas de trabalhos, procedendo-se semestralmente aos necessários ajustamentos.
 
-###### Art. 15.º Os empreendimentos a cargo do Gabinete serão incluídos nos planos de fomento.
+Art. 15.º Os empreendimentos a cargo do Gabinete serão incluídos nos planos de fomento.
 
-###### Art. 16.º - 1. As contas de depósitos do Gabinete serão movimentadas por cheques assinados pelo director e pelo director dos serviços financeiros.
+Art. 16.º - 1. As contas de depósitos do Gabinete serão movimentadas por cheques assinados pelo director e pelo director dos serviços financeiros.
 
 2. Serão objecto de regulamento a delegação de assinatura de cheques, bem como a movimentação das contas dos serviços distanciados da sede do Gabinete e das suas delegações.
 
-###### Art. 17.º Para ocorrer a encargos com despesas correntes inadiáveis haverá, nos serviços da sede e nos outros serviços ou delegações, fundos permanentes, a constituir segundo regulamento, e a administrar pelo presidente da comissão administrativa, na sede, e pelo funcionário mais categorizado, nos restantes serviços.
+Art. 17.º Para ocorrer a encargos com despesas correntes inadiáveis haverá, nos serviços da sede e nos outros serviços ou delegações, fundos permanentes, a constituir segundo regulamento, e a administrar pelo presidente da comissão administrativa, na sede, e pelo funcionário mais categorizado, nos restantes serviços.
 
-###### Art. 18.º Os contratos a celebrar pelo Gabinete da Área de Sines são dispensados do visto do Tribunal de Contas, desde que sobre eles haja sido prestado parecer favorável pelo delegado daquele Tribunal junto da comissão administrativa.
+Art. 18.º Os contratos a celebrar pelo Gabinete da Área de Sines são dispensados do visto do Tribunal de Contas, desde que sobre eles haja sido prestado parecer favorável pelo delegado daquele Tribunal junto da comissão administrativa.
 
-###### Art. 19.º - 1. O Gabinete da Área de Sines apresentará ao Presidente do Conselho, até 31 de Março de cada ano, o relatório de actividades e as contas de gerência relativas ao ano anterior.
+Art. 19.º - 1. O Gabinete da Área de Sines apresentará ao Presidente do Conselho, até 31 de Março de cada ano, o relatório de actividades e as contas de gerência relativas ao ano anterior.
 
 2. As contas de gerência serão posteriormente submetidas ao julgamento do Tribunal de Contas, nos termos da lei geral.
 
 ### CAPÍTULO IV — Dos serviços
 
-###### Art. 20.º A organização e competência dos serviços do Gabinete da Área de Sines serão estabelecidas em regulamento.
+Art. 20.º A organização e competência dos serviços do Gabinete da Área de Sines serão estabelecidas em regulamento.
 
-###### Art. 21.º - 1. O Gabinete terá sede em Sines.
+Art. 21.º - 1. O Gabinete terá sede em Sines.
 
 2. Alguns dos seus serviços, porém, poderão instalar-se em Lisboa, por conveniência de funcionamento, devendo os mesmos ser oportunamente transferidos para a área de Sines, total ou parcialmente, logo que tal transferência possa contribuir para melhor rendimento da sua actividade e mais perfeito desempenho das atribuições do Gabinete.
 
-###### Art. 22.º O Gabinete poderá criar delegações, em território nacional ou no estrangeiro, nos locais onde a actividade por ele exercida o justifique.
+Art. 22.º O Gabinete poderá criar delegações, em território nacional ou no estrangeiro, nos locais onde a actividade por ele exercida o justifique.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 23.º O Gabinete da Área de Sines disporá do pessoal dirigente, técnico, administrativo e auxiliar que for previsto em quadros a aprovar por decreto do Presidente do Conselho e do Ministro das Finanças.
+Art. 23.º O Gabinete da Área de Sines disporá do pessoal dirigente, técnico, administrativo e auxiliar que for previsto em quadros a aprovar por decreto do Presidente do Conselho e do Ministro das Finanças.
 
-###### Art. 24.º - 1. Consideram-se desde já criados os lugares de director e subdirector, quatro lugares de director de serviço e o lugar de chefe dos serviços administrativos, com as categorias correspondentes, respectivamente, às letras B, C, D e F do quadro do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 24.º - 1. Consideram-se desde já criados os lugares de director e subdirector, quatro lugares de director de serviço e o lugar de chefe dos serviços administrativos, com as categorias correspondentes, respectivamente, às letras B, C, D e F do quadro do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. Os lugares previstos no número anterior serão providos, por escolha do Presidente do Conselho, entre indivíduos habilitados com curso superior adequado e de reconhecida competência.
 
 3. Os mesmos lugares serão providos mediante contrato, ou, tratando-se de funcionários, em comissão de serviço, nos termos do artigo 27.º
 
-###### Art. 25.º Além do pessoal previsto nos quadros, poderá ser contratado ou assalariado, nos termos legais e dentro das disponibilidades orçamentais respectivas, o pessoal que as necessidades de serviço exigirem.
+Art. 25.º Além do pessoal previsto nos quadros, poderá ser contratado ou assalariado, nos termos legais e dentro das disponibilidades orçamentais respectivas, o pessoal que as necessidades de serviço exigirem.
 
-###### Art. 26.º - 1. Os lugares dos quadros serão providos por contrato ou assalariamento, consoante for estabelecido em regulamento.
+Art. 26.º - 1. Os lugares dos quadros serão providos por contrato ou assalariamento, consoante for estabelecido em regulamento.
 
 2. Os processos de recrutamento e os requisitos exigidos para o provimento nas diversas categorias serão livremente definidos em regulamento.
 
 3. Os tesoureiros e pagadores são obrigados a prestar caução perante a Direcção-Geral da Fazenda Pública nos quantitativos e pela forma que vierem a ser definidos em regulamento.
 
-###### Art. 27.º - 1. Os lugares dos quadros, salvo os que devam ser providos por assalariamento, poderão ser exercidos, em comissão de serviço, pelo prazo de três anos, renovável, por funcionários dos serviços do Estado e seus institutos públicos ou das autarquias locais.
+Art. 27.º - 1. Os lugares dos quadros, salvo os que devam ser providos por assalariamento, poderão ser exercidos, em comissão de serviço, pelo prazo de três anos, renovável, por funcionários dos serviços do Estado e seus institutos públicos ou das autarquias locais.
 
 2. As nomeações em comissão de serviço abrem vaga nos quadros de origem, mas os funcionários podem regressar aos mesmos, a seu pedido, desde que neles tenham vaga.
 
@@ -429,49 +477,49 @@ b) Os programas de acção e os programas anuais de trabalhos.
 
 5. O tempo de serviço desempenhado em comissão no Gabinete, bem como o tempo que durar a situação prevista nos n.os 3 e 4, considera-se, para todos os efeitos, como prestado nos quadros de origem dos funcionários, mantendo os mesmos, durante esse tempo, os respectivos direitos, incluindo os relativos a promoção.
 
-###### Art. 28.º Para funções técnicas deverá o regulamento prever, em alternativa, os regimes de exercício em tempo completo e em tempo parcial, com aplicação no disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 28.º Para funções técnicas deverá o regulamento prever, em alternativa, os regimes de exercício em tempo completo e em tempo parcial, com aplicação no disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 29.º - 1. O Gabinete disporá de um consultor jurídico, que assistirá, sempre que para isso seja convocado, às reuniões dos seus órgãos colectivos.
+Art. 29.º - 1. O Gabinete disporá de um consultor jurídico, que assistirá, sempre que para isso seja convocado, às reuniões dos seus órgãos colectivos.
 
 2. O referido cargo poderá ser exercido cumulativamente com o desempenho de outras funções, sendo remunerado, nesse caso, mediante gratificação a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 30.º - 1. Por despacho do Presidente do Conselho, ouvido o Ministro das Finanças, poderão ser atribuídas gratificações mensais a pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
+Art. 30.º - 1. Por despacho do Presidente do Conselho, ouvido o Ministro das Finanças, poderão ser atribuídas gratificações mensais a pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
 
 2. Poderá ser autorizado o pagamento de despesas de representação a pessoal de direcção, quando se verifiquem circunstâncias que o justifiquem, nas condições a definir pelo Presidente do Conselho.
 
-###### Art. 31.º - 1. Os tesoureiros e pagadores ou funcionários equiparados terão direito a abonos para falhas.
+Art. 31.º - 1. Os tesoureiros e pagadores ou funcionários equiparados terão direito a abonos para falhas.
 
 2. Os quantitativos dos abonos serão os atribuídos ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de vencimentos.
 
 3. Nos restantes casos, os quantitativos dos abonos serão fixados pelo Presidente do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 32.º - 1. O pessoal do Gabinete tem direito ao abono, nos termos da lei, de transportes e de ajudas de custo.
+Art. 32.º - 1. O pessoal do Gabinete tem direito ao abono, nos termos da lei, de transportes e de ajudas de custo.
 
 2. Por deliberação da comissão administrativa, poderá ser atribuído idêntico abono a pessoas estranhas ao pessoal do Gabinete que se desloquem para a realização de estudos ou prestação de outros serviços ao Gabinete.
 
 3. No caso previsto no número anterior, quando as pessoas não forem funcionários públicos, atender-se-á à categoria a que forem equiparadas.
 
-###### Art. 33.º - 1. Pode o pessoal do Gabinete tomar posse e entrar no exercício de funções e iniciar-se o processamento das respectivas remunerações antes do visto do Tribunal de contas e da publicação dos diplomas de provimento, desde que destes conste o reconhecimento da urgente conveniência do serviço.
+Art. 33.º - 1. Pode o pessoal do Gabinete tomar posse e entrar no exercício de funções e iniciar-se o processamento das respectivas remunerações antes do visto do Tribunal de contas e da publicação dos diplomas de provimento, desde que destes conste o reconhecimento da urgente conveniência do serviço.
 
 2. Nos casos previstos no número anterior, se o Tribunal de Contas vier a recusar o visto, o agente cessará imediatamente o exercício de funções, mas não haverá lugar a reposição de vencimentos.
 
-###### Art. 34.º O Gabinete da Área de Sines poderá, sempre que isso for conveniente, recorrer à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos ou para a execução de outras funções especializadas, em regime de prestação de serviços, nas condições a aprovar pelo director.
+Art. 34.º O Gabinete da Área de Sines poderá, sempre que isso for conveniente, recorrer à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos ou para a execução de outras funções especializadas, em regime de prestação de serviços, nas condições a aprovar pelo director.
 
-###### Art. 35.º O Gabinete poderá enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas atribuições.
+Art. 35.º O Gabinete poderá enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração de projectos ou pareceres ou exercerem outras funções com interesse para o bom desempenho das suas atribuições.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 36.º - 1. São declaradas de utilidade pública urgente as expropriações necessárias para a execução dos planos geral e parciais que forem aprovados para a área de actuação directa do de da Área de Sines.
+Art. 36.º - 1. São declaradas de utilidade pública urgente as expropriações necessárias para a execução dos planos geral e parciais que forem aprovados para a área de actuação directa do de da Área de Sines.
 
 2. Enquanto não existirem planos aprovados, considera-se desde já declarada a utilidade pública urgente das expropriações necessárias à execução dos esquemas de trabalhos que forem sendo aprovados pelo Presidente do Conselho, sob proposta do director do Gabinete.
 
 3. É aplicável a todas as expropriações a que se referem os números anteriores o processo das expropriações urgentes, com as modificações estabelecidas pela [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969.
 
-###### Art. 37.º - 1. Os litígios entre o Gabinete e os adjudicatários de obras ou serviços contratados, bem como as entidades ou pessoas colectivas beneficiárias dos seus serviços, poderão ser decididos por arbitragem, se tal estiver clausulado nos respectivos contratos.
+Art. 37.º - 1. Os litígios entre o Gabinete e os adjudicatários de obras ou serviços contratados, bem como as entidades ou pessoas colectivas beneficiárias dos seus serviços, poderão ser decididos por arbitragem, se tal estiver clausulado nos respectivos contratos.
 
 2. Sempre que o entenda conveniente, o Gabinete pode constituir advogados para o representarem nos processos em que for parte ou por qualquer forma interessado.
 
-###### Art. 38.º - 1. O Gabinete beneficia de isenção de direitos de importação e demais encargos, incluindo os emolumentos gerais aduaneiros, em toda a maquinaria, material flutuante, lanchas ou quaisquer embarcações, utensílios, aparelhagem e materiais importados para estudo, construção ou conservação dos seus empreendimentos ou serviços, desde que não possam ser adquiridos de origem nacional em condições razoàvelmente competitivas de qualidade e preço.
+Art. 38.º - 1. O Gabinete beneficia de isenção de direitos de importação e demais encargos, incluindo os emolumentos gerais aduaneiros, em toda a maquinaria, material flutuante, lanchas ou quaisquer embarcações, utensílios, aparelhagem e materiais importados para estudo, construção ou conservação dos seus empreendimentos ou serviços, desde que não possam ser adquiridos de origem nacional em condições razoàvelmente competitivas de qualidade e preço.
 
 2. É autorizada a importação temporária do equipamento, ferramentas, veículos e utensílios necessários às obras executadas pelo Gabinete, directamente ou por empreitada, devendo a sua reexportação ser feita até seis meses depois da data da conclusão ou recepção definitiva das obras.
 
@@ -479,7 +527,7 @@ b) Os programas de acção e os programas anuais de trabalhos.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 39.º - 1. Durante o prazo de dois anos fica dependente de autorização do Gabinete da Área de Sines, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática, na sua zona de actuação directiva, definida no n.º 2 do artigo 2.º, dos actos ou actividades seguintes:
+Art. 39.º - 1. Durante o prazo de dois anos fica dependente de autorização do Gabinete da Área de Sines, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática, na sua zona de actuação directiva, definida no n.º 2 do artigo 2.º, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -497,7 +545,7 @@ e) Derrube de árvores em maciço.
 
 4. Enquanto o Gabinete da Área de Sines não tiver aí instalado os serviços adequados, os pedidos de autorização de obras ou actividades abrangidas pelo n.º 1 serão apresentados nas câmaras municipais das áreas a que respeitem, as quais os remeterão ao Gabinete.
 
-###### Art. 40.º - 1. Considera-se transitòriamente delegada no Gabinete da Área de Sines a competência das câmaras municipais dos concelhos abrangidos pela sua zona de actuação directa, no que se refere à mesma zona, em matérias de urbanização e de licenciamento de obras e aprovação dos respectivos projectos.
+Art. 40.º - 1. Considera-se transitòriamente delegada no Gabinete da Área de Sines a competência das câmaras municipais dos concelhos abrangidos pela sua zona de actuação directa, no que se refere à mesma zona, em matérias de urbanização e de licenciamento de obras e aprovação dos respectivos projectos.
 
 2. Para esse fim, os serviços adequados do Gabinete funcionarão como serviços técnicos daquelas câmaras municipais, no que respeita às matérias e à zona a que se refere o número anterior.
 
@@ -505,21 +553,21 @@ e) Derrube de árvores em maciço.
 
 4. O regime transitório estabelecido nos números antecedentes será revogado logo que tal se mostre possível, pelo estado de adiantamento da execução dos planos e pela adaptação dos serviços das câmaras municipais às necessidades resultantes do desenvolvimento das respectivas áreas.
 
-###### Art. 41.º Enquanto vigorar o regime estabelecido no artigo anterior, o produto das taxas devidas pelos actos praticados no exercício da delegação a que se refere o seu n.º 1 será dividido pelo Gabinete e pelas câmaras municipais da respectiva área, nas proporções a fixar por despacho conjunto do Presidente do Conselho e do Ministro do Interior.
+Art. 41.º Enquanto vigorar o regime estabelecido no artigo anterior, o produto das taxas devidas pelos actos praticados no exercício da delegação a que se refere o seu n.º 1 será dividido pelo Gabinete e pelas câmaras municipais da respectiva área, nas proporções a fixar por despacho conjunto do Presidente do Conselho e do Ministro do Interior.
 
-###### Art. 42.º A Comissão do Planeamento da Região de Lisboa prestará ao Gabinete da Área de Sines o apoio de que o mesmo necessite até à constituição e instalação dos respectivos serviços.
+Art. 42.º A Comissão do Planeamento da Região de Lisboa prestará ao Gabinete da Área de Sines o apoio de que o mesmo necessite até à constituição e instalação dos respectivos serviços.
 
-###### Art. 43.º Até à constituição da comissão administrativa compete ao director do Gabinete exercer a respectiva competência.
+Art. 43.º Até à constituição da comissão administrativa compete ao director do Gabinete exercer a respectiva competência.
 
-###### Art. 44.º Os meios financeiros necessários para a instalação e as actividades do Gabinete da Área de Sines durante o ano em curso serão incluídos no Orçamento Geral do Estado por decreto referendado pelo Ministro das Finanças.
+Art. 44.º Os meios financeiros necessários para a instalação e as actividades do Gabinete da Área de Sines durante o ano em curso serão incluídos no Orçamento Geral do Estado por decreto referendado pelo Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Junho de 1971.**
+Promulgado em 11 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -527,6 +575,6 @@ Planta a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 270/71, de 19
 
 (Zona de actuação directa do Gabinete da Área de Sines)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/14300/09120918.pdf))](https://files.diariodarepublica.pt/1s/1971/06/14300/09120918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/14300/09120918.pdf)
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Finanças, João Augusto Dias Rosas.

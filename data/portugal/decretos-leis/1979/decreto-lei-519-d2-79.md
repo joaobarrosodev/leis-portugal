@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 8º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 3446-(150) a 3446-(152)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29908/01500152.pdf
 entry_into_force_dates: []
@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d2-1979-157045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 894d90cf932bc4bff9589fb6c5f120a76b1a1cce2865e7044fabfd93ae0d4097
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 291cc95aad2d265ca0b1d787b9fc058dd4fad60bda74e5a2cbf2cef5062bc423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Biblioteca
+- Direcção Geral do Ensino Básico
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Pessoal Dirigente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:255980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685008:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:03Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +123,9 @@ Considerando finalmente a necessidade de transformar a incipiente organização 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A instituição criada por deliberação da CML em 25 de Janeiro de 1873 e hoje regulada pelos artigos 118.º, n.º 2, 119.º, alínea k), 122.º e 130.º do [Decreto n.º 22369](https://diariodarepublica.pt/dr/detalhe/decreto/22369-1933-255980), de 30 de Março de 1933, passa a denominar-se Biblioteca-Museu do Ensino Básico, constituindo um organismo na dependência directa da Direcção-Geral do Ensino Básico.
+Artigo 1.º A instituição criada por deliberação da CML em 25 de Janeiro de 1873 e hoje regulada pelos artigos 118.º, n.º 2, 119.º, alínea k), 122.º e 130.º do [Decreto n.º 22369](https://diariodarepublica.pt/dr/detalhe/decreto/22369-1933-255980), de 30 de Março de 1933, passa a denominar-se Biblioteca-Museu do Ensino Básico, constituindo um organismo na dependência directa da Direcção-Geral do Ensino Básico.
 
-###### Art. 2.º A Biblioteca-Museu do Ensino Básico tem por atribuições:
+Art. 2.º A Biblioteca-Museu do Ensino Básico tem por atribuições:
 
 a) Recolher e dar o adequado tratamento a documentação, nacional e estrangeira, sobre assuntos de educação no sector do ensino básico, com especial relevo para a documentação referente à história do ensino em Portugal, formando assim um centro especializado ao serviço do pessoal de educação e dos investigadores;
 
@@ -116,13 +143,13 @@ g) Publicar, com regularidade, instrumentos de trabalho relativos às espécies 
 
 h) Publicar, com a periodicidade que for superiormente determinada, um boletim informativo, de divulgação das actividades da sua competência e de apoio às bibliotecas a que se refere a alínea e) do artigo 2.º
 
-###### Art. 3.º - 1 - Além do que presentemente constitui já o seu recheio, a Biblioteca-Museu adquirirá, por força da sua dotação orçamental, a documentação que dela deva fazer parte e poderá, através do seu director, aceitar ofertas e proceder a trocas de espécies que devam contribuir para o cabal preenchimento dos seus fins.
+Art. 3.º - 1 - Além do que presentemente constitui já o seu recheio, a Biblioteca-Museu adquirirá, por força da sua dotação orçamental, a documentação que dela deva fazer parte e poderá, através do seu director, aceitar ofertas e proceder a trocas de espécies que devam contribuir para o cabal preenchimento dos seus fins.
 
 2 - As bibliotecas das escolas do magistério primário e de quaisquer outros estabelecimentos de ensino enviarão anualmente à Biblioteca-Museu do Ensino Básico, por iniciativa dos órgãos de gestão competentes ou por determinação das direcções-gerais que nelas superintendam, as espécies que deixem de interessar aos seus fins específicos ou passem a merecer a sua inclusão na Biblioteca-Museu.
 
 3 - Por intermédio da Direcção-Geral do Ensino Básico, a Biblioteca-Museu poderá propor às direcções-gerais ou a qualquer outra entidade o envio da documentação de cuja existência em estabelecimentos delas dependentes tenha conhecimento e lhe interesse incluir no seu acervo.
 
-###### Art. 4.º - 1 - A documentação existente na Biblioteca-Museu pode ser consultada nas respectivas instalações, não devendo em caso algum ser autorizada a sua saída, salvo quando se trate de colecções destinadas a exposições itinerantes.
+Art. 4.º - 1 - A documentação existente na Biblioteca-Museu pode ser consultada nas respectivas instalações, não devendo em caso algum ser autorizada a sua saída, salvo quando se trate de colecções destinadas a exposições itinerantes.
 
 2 - A Biblioteca-Museu poderá:
 
@@ -130,13 +157,13 @@ a) Fornecer reproduções da documentação nela existente a qualquer interessad
 
 b) Passar, a requerimento dos interessados, certidões a extrair da mesma documentação, com observância das formalidades legais.
 
-###### Art. 5.º - 1 - A Biblioteca-Museu será dirigida por um bibliotecário-arquivista, habilitado com o respectivo curso de pós-graduação universitária, lugar que acresce ao quadro constante do mapa I anexo ao [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, integrando-se no quadro único a que se refere o artigo 1.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, e que será provido nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 5.º - 1 - A Biblioteca-Museu será dirigida por um bibliotecário-arquivista, habilitado com o respectivo curso de pós-graduação universitária, lugar que acresce ao quadro constante do mapa I anexo ao [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, integrando-se no quadro único a que se refere o artigo 1.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, e que será provido nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 2 - A nomeação do director a que se refere o número anterior será feita por despacho do Ministro da Educação, mediante proposta do director-geral do Ensino Básico, por um período provisório de dois anos, findo o qual poderá, mediante proposta do mesmo director-geral e despacho daquele membro do Governo, converter-se em nomeação definitiva.
 
 3 - Quando o lugar se encontre vago e a Direcção-Geral do Ensino Básico o entenda conveniente, poderá esta propor o provimento respectivo por um professor profissionalizado do ensino básico, com as habilitações previstas no n.º 1, o qual será colocado em regime especial de destacamento, nos termos da alínea a) do n.º 1 do artigo 1.º, da alínea a) do n.º 1 do artigo 2.º e dos artigos 3.º e 5.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 6.º Compete ao director da Biblioteca-Museu:
+Art. 6.º Compete ao director da Biblioteca-Museu:
 
 a) Dirigir a Biblioteca-Museu, organizando os respectivos serviços de acordo com as regras uniformizadas que o Ministério da Educação adoptar;
 
@@ -166,21 +193,21 @@ n) Velar pelo cumprimento das demais disposições legais a que a Biblioteca-Mus
 
 o) Elaborar anualmente relatório das actividades da Biblioteca-Museu, enviando-o à Direcção-Geral do Ensino Básico até 31 de Março do ano seguinte àquele a que se reportar.
 
-###### Art. 7.º - 1 - O director da Biblioteca-Museu será coadjuvado por um conselho pedagógico, a que preside, e que será constituído por um professor das escolas do magistério primário, um professor do ensino primário, um professor do ensino preparatório e um representante da Direcção-Geral do Ensino Básico.
+Art. 7.º - 1 - O director da Biblioteca-Museu será coadjuvado por um conselho pedagógico, a que preside, e que será constituído por um professor das escolas do magistério primário, um professor do ensino primário, um professor do ensino preparatório e um representante da Direcção-Geral do Ensino Básico.
 
 2 - Nos impedimentos do director da Biblioteca-Museu, será a direcção assumida pelo elemento do conselho pedagógico que a Direcção-Geral do Ensino Básico designar.
 
-###### Art. 8.º - 1 - Todos os elementos do conselho pedagógico, à excepção do presidente, quando nomeado nos termos do n.º 2 do artigo 5.º, serão designados pela Direcção-Geral do Ensino Básico.
+Art. 8.º - 1 - Todos os elementos do conselho pedagógico, à excepção do presidente, quando nomeado nos termos do n.º 2 do artigo 5.º, serão designados pela Direcção-Geral do Ensino Básico.
 
 2 - O conselho pedagógico reunirá ordinariamente uma vez em cada trimestre e terá as reuniões extraordinárias para que for convocado pelo director-geral do Ensino Básico ou pelo director da Biblioteca-Museu.
 
 3 - Das reuniões do conselho pedagógico será lavrada acta em livro próprio.
 
-###### Art. 9.º - 1 - Compete ao conselho pedagógico aconselhar o director sobre as matérias das alíneas c), d) e j) do artigo 6.º e emitir parecer sobre o relatório a que se refere a alínea o) do mesmo artigo.
+Art. 9.º - 1 - Compete ao conselho pedagógico aconselhar o director sobre as matérias das alíneas c), d) e j) do artigo 6.º e emitir parecer sobre o relatório a que se refere a alínea o) do mesmo artigo.
 
 2 - O conselho pedagógico prestará ainda ao director a colaboração que por este lhe for solicitada ou lhe for determinada pelo director-geral do Ensino Básico.
 
-###### Art. 10.º - 1 - Além do director, a Biblioteca-Museu disporá do pessoal administrativo e auxiliar constante do mapa anexo a este diploma, cujas unidades acrescem ao mapa II anexo ao [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, e se integram no quadro único a que se refere o artigo 2.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
+Art. 10.º - 1 - Além do director, a Biblioteca-Museu disporá do pessoal administrativo e auxiliar constante do mapa anexo a este diploma, cujas unidades acrescem ao mapa II anexo ao [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, e se integram no quadro único a que se refere o artigo 2.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
 
 2 - Este quadro poderá ser alterado por portaria dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
@@ -194,22 +221,22 @@ c) Em categoria de ingresso em outra carreira para a qual detenha as habilitaç�
 
 4 - A integração determinada no número anterior não depende de qualquer formalidade, salvo o visto do Tribunal de Contas.
 
-###### Art. 11.º O funcionamento da Biblioteca-Museu do Ensino Básico será regulamentado por portaria do Ministro da Educação e do Secretário de Estado da Administração Pública, ouvida a Direcção-Geral do Ensino Básico.
+Art. 11.º O funcionamento da Biblioteca-Museu do Ensino Básico será regulamentado por portaria do Ministro da Educação e do Secretário de Estado da Administração Pública, ouvida a Direcção-Geral do Ensino Básico.
 
-###### Art. 12.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros da Educação e das Finanças e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 12.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros da Educação e das Finanças e do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 13.º São revogados o n.º 2 do artigo 118.º, a alínea k) do artigo 119.º e os artigos 122.º e 130.º do [Decreto n.º 22369](https://diariodarepublica.pt/dr/detalhe/decreto/22369-1933-255980), de 30 de Março de 1933.
+Art. 13.º São revogados o n.º 2 do artigo 118.º, a alínea k) do artigo 119.º e os artigos 122.º e 130.º do [Decreto n.º 22369](https://diariodarepublica.pt/dr/detalhe/decreto/22369-1933-255980), de 30 de Março de 1933.
 
-###### Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 1 do artigo 10.º do Decreto-Lei n.º 519-D2/79, de 29 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29908/01500152.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29908/01500152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29908/01500152.pdf)

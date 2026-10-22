@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/11/25700/19251926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48021-1967-388820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dcaab1a8b8f0a615e0928388a905397b2f581657ee00a7a4cdc05c45da19588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fefa420314c3f1756c9596e2a69fc6229b0573200637067294b7f8120d64509
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Função Pública
+- Funcionário Público
+- Militar
+- Pessoal Civil
 relationships:
 - type: amended_by
   target: pt:dre:252069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678605:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252069:por
+  label: "Revogado a partir de 22.05.1977 pelo DEC LEI.197/77.17.05.1977.MAI, DR.IS [114] de 17.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1977-252069
+  date: '1977-05-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:04Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +127,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As disposições abaixo indicadas do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passam a ter a seguinte redacção:
+Artigo 1.º As disposições abaixo indicadas do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 ...
 
@@ -115,7 +141,7 @@ Sempre que seja reputado conveniente, aquela Repartição examinará em qualquer
 
 ...
 
-###### Art. 8.º Até 31 de Dezembro de cada ano, os beneficiários do abono de família atribuído por descendentes sujeitos à escolaridade obrigatória constituída pelos ciclos elementar e complementar do ensino primário, referidos no [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964, ou frequentando o ciclo preparatório do ensino secundário, criado pelo [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, devem entregar nos serviços processadores os documentos comprovativos da matrícula ou os da sua dispensa.
+Art. 8.º Até 31 de Dezembro de cada ano, os beneficiários do abono de família atribuído por descendentes sujeitos à escolaridade obrigatória constituída pelos ciclos elementar e complementar do ensino primário, referidos no [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964, ou frequentando o ciclo preparatório do ensino secundário, criado pelo [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, devem entregar nos serviços processadores os documentos comprovativos da matrícula ou os da sua dispensa.
 
 § único. Os documentos a que alude o corpo deste artigo deverão arquivar-se nos serviços processadores, com excepção dos que se refiram à matrícula do ano escolar em que os alunos completem 14 anos de idade, pois estes serão enviados à Repartição do Abono de Família e das Pensões da Direcção-Geral da Contabilidade Pública até ao fim do mês seguinte ao da sua apresentação.
 
@@ -123,8 +149,8 @@ A todos os documentos referidos neste artigo é aplicável a parte final do § 6
 
 ...
 
-###### Art. 2.º As disposições deste decreto-lei entram em vigor no ano escolar de 1967-1968.
+Art. 2.º As disposições deste decreto-lei entram em vigor no ano escolar de 1967-1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/13-1985-182192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c641b5c12cefbacb7ad21becc161531d1a5ecb0a8faca26f74b21e78d3c7716
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41ae6c6c8b553f9984da3f36f373be079017ddfe003f04696509949eb9f13fd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bruxelas
+- Convenção
+- Fundo Internacional de Compensação por Poluição por Hidrocarbonetos
+- Poluição
+- Poluição por Hidrocarbonetos
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:168220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609993:por
+  label: "Aprovadas as alterações introduzidas pelo Protocolo de 1992 (alteração dos arts. 1º, 2º, 3º, dos títulos dos arts.\
+    \ 4º a 9º, art. 4º, supressão do art. 5º, alteração dos arts. 6º a 10º, supressão do art. 11º, alteração dos arts. 12º\
+    \ e 13º, aditamento de um nº 4 ao art. 15º, substituição do texto do art. 16º, alteração dos arts. 18º e 19º, supressão\
+    \ dos arts. 21º a 27º, incluindo os títulos, alteração dos arts. 29º, 31º, 32º, 33º, substituição do texto do art. 35º,\
+    \ aditamento dos arts. 36º-bis, 36º-ter, 36º-quarto e 36º-quinto), todos da Convenção internacional para a Constituição\
+    \ de Um Fundo Internacional para Compensação pelos Prejuízos Devidos à Poluição por hidrocarbonetos, de 1971, e o Protocolo\
+    \ de 1976 a ela relativo, aprovados respectivamente para ratificação e para adesão pelo presente diploma, pelo DEC.38/2001.25.09.2001.MNE,\
+    \ DR.IS-A [223] de 25.09.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/38-2001-609993
+  date: '2001-09-25'
+- type: amended_by
+  target: pt:dre:620902:por
+  label: "Aprovado o Protocolo de 2003 à Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação\
+    \ pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1992, aprovada para ratificação pelo presente diploma, com\
+    \ as alterações que lhe foram introduzidas pelo Protocolo de 1992, aprovadas pelo Dec 38/2001 de 25-Set, pelo DEC.1/2005.28.01.2005.MNE,\
+    \ DR.IS-A [20] de 28.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/1-2005-620902
+  date: '2005-01-28'
+- type: amended_by
+  target: pt:dre:168220:por
+  label: "Aprovadas as emendas aos limites de compensação previstos no Protocolo de 1992 (alteração do seu art. 6º), aprovado\
+    \ pelo Dec 38/2001 de 25-Set, à Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação\
+    \ pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, aprovada para ratificação pelo presente diploma, pelo DEC.5/2006.06.01.2006.MOPTC,\
+    \ DR.IS-B [5] de 06.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2006-168220
+  date: '2006-01-06'
+- type: corrected_by
+  target: pt:dre:168621:por
+  label: Rectificado pela DECL.DD5090.24.09.1985.PCM, DR.IS [225-3.º Supl] de 30.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-168621
+  date: '1985-09-24'
+- type: corrected_by
+  target: pt:dre:138125:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 276/1985, 1º Suplemento, Série I de 1985-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138125
+  date: '1985-11-30'
+- type: corrected_by
+  target: pt:dre:403147:por
+  label: Rectificada a Decl DD5090 de 30-Set 1985 do MNE, na rectificação que efectuou ao presente diploma, pela DECL.DD4810.28.04.1986.PCM,
+    DR.IS [99-6ºSUPL] de 30.04.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-403147
+  date: '1986-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:56Z'
   warnings: []
   errors: []
 ---
@@ -91,21 +141,21 @@ de 21 de Junho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1971, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo 1.º É aprovada, para ratificação, a Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1971, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
 
-###### Art. 2.º É aprovado, para adesão, o Protocolo de 1976 à Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1971, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
+Art. 2.º É aprovado, para adesão, o Protocolo de 1976 à Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1971, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - José Veiga Simão - José de Almeida Serra.
 
-**Assinado em 4 de Junho de 1985.**
+Assinado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 PROTOCOL TO THE INTERNATIONAL CONVENTION ON THE ESTABLISHMENT OF AN INTERNATIONAL FUND FOR COMPENSATION FOR OIL POLLUTION DAMAGE, 1971.
 
@@ -571,7 +621,7 @@ a) Secure an equitable geographical distribution of the seats on the committee o
 
 b) Elect one half of the members of the committee, or in case the total number of members to be elected is uneven, such number of the members as is equivalent to one half of the total number less one, among those Contracting States in the territory of which the largest quantities of oil to be taken into account under article 10 were received during the preceding calendar year, provided that the number of States eligible under this sub-paragraph shall be limited as shown in the table below:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14000/16311656.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14000/16311656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14000/16311656.pdf)
 
 3 - A member of the assembly which was eligible but was not elected under sub-paragraph b) shall not be eligible to be elected for any remaining seat on the executive committee.
 
@@ -827,7 +877,7 @@ Tendo considerado a Convenção Internacional para a Constituição de um Fundo 
 
 acordaram o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para os fins do presente Protocolo:
 
@@ -839,13 +889,13 @@ Para os fins do presente Protocolo:
 
 4) «Secretário-Geral» significa o Secretário-Geral da Organização.
 
-ARTIGO II
+###### ARTIGO II
 
 O parágrafo 4 do artigo 1.º da Convenção é substituído pelo seguinte texto:
 
 «Unidade de conta» ou «unidade monetária» significa a unidade de conta ou unidade monetária, conforme o caso, referida no artigo V da Convenção sobre a Responsabilidade, alterada pelo protocolo aprovado em 19 de Novembro de 1976.
 
-ARTIGO III
+###### ARTIGO III
 
 Os montantes referidos na Convenção deverão ser, quando mencionados, alterados como segue:
 
@@ -869,7 +919,7 @@ c) No artigo 11.º substituir 75 milhões de francos por 5 milhões de unidades 
 
 d) No artigo 12.º substituir 15 milhões de francos por 1 milhão de unidades de conta ou 15 milhões de unidades monetárias.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - O presente Protocolo ficará aberto para assinatura pelos Estados que tenham assinado ou que tenham aderido à Convenção e pelos Estados convidados a assistir à Conferência para a Revisão do Disposto acerca da Unidade de Conta na Convenção Internacional para a Constituição de um Fundo Internacional para a Compensação pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, 1971, feita em Londres, de 17 a 19 de Novembro de 1976. O Protocolo deverá ficar aberto para assinatura na sede da Organização de 1 de Fevereiro a 31 de Dezembro de 1977.
 
@@ -879,13 +929,13 @@ ARTIGO IV
 
 4 - O presente Protocolo pode ser ratificado, aceite, aprovado ou objecto de adesão pelos Estados Partes da Convenção.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - A ratificação, aceitação, aprovação ou adesão deverá ser efectuada mediante depósito de um instrumento formal para o efeito junto do Secretário-Geral.
 
 2 - Todo o instrumento de ratificação, aceitação, aprovação ou adesão depositado após a entrada em vigor de uma alteração ao presente Protocolo aplicável a todas as Partes ou após o cumprimento de todas as formalidades requeridas para a entrada em vigor da alterações para todas as Partes será considerado como aplicando-se ao Protocolo modificado pela alteração.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O presente Protocolo entrará em vigor para os Estados que o tenham ratificado, aceite ou aprovado ou que a ele tenham aderido 90 dias após a data em que estejam cumpridas as seguintes condições:
 
@@ -897,7 +947,7 @@ b) O Secretário-Geral tenha sido informado, de acordo com o artigo 39.º da Con
 
 3 - Para cada Estado que posteriormente ratifique, aceite, aprove ou a ele adira, este Protocolo entrará em vigor 90 dias após o depósito do instrumento apropriado por esse Estado.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - O presente Protocolo poderá ser denunciado por qualquer das Partes, em qualquer momento, após a data em que o Protocolo entrar em vigor para essa Parte.
 
@@ -905,13 +955,13 @@ ARTIGO VII
 
 3 - A denúncia terá efeito 1 ano após o seu depósito junto do Secretário-Geral ou após um período maior, se tal for especificado no respectivo instrumento de denúncia.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - A Organização poderá convocar uma conferência com a finalidade de rever ou alterar este Protocolo.
 
 2 - A Organização convocará uma conferência das Partes do presente Protocolo com a finalidade de o rever ou alterar, a pedido de, pelo menos, um terço das Partes.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - O presente Protocolo será depositado junto do Secretário-Geral.
 
@@ -929,11 +979,11 @@ iv) Quaisquer alterações ao presente Protocolo;
 
 b) Distribuir cópias autenticadas do presente Protocolo a todos os Estados que o assinaram ou a ele aderiram.
 
-ARTIGO X
+###### ARTIGO X
 
-**O Secretário-Geral, logo que o presente Protocolo entrar em vigor, deverá enviar uma cópia autenticada do Protocolo ao Secretariado das Nações Unidas, para registo e publicação, de acordo com o artigo 102 da Carta das Nações Unidas.**
+O Secretário-Geral, logo que o presente Protocolo entrar em vigor, deverá enviar uma cópia autenticada do Protocolo ao Secretariado das Nações Unidas, para registo e publicação, de acordo com o artigo 102 da Carta das Nações Unidas.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Protocolo é redigido em exemplar único, nos idiomas inglês e francês, tendo cada texto igual autenticidade.
 
@@ -1275,7 +1325,7 @@ a) Assegurar uma distribuição geográfica equilibrada dos membros do comité, 
 
 b) Eleger metade dos membros do comité ou, no caso do número total dos membros a eleger ser ímpar, um número equivalente à metade da totalidade dos membros menos um, de entre os Estados Contratantes no território dos quais foram recebidos no decurso do ano civil precedente as maiores quantidades de hidrocarbonetos, que devem ser considerados nos termos do artigo 10.º Todavia, o número de Estados elegíveis nos termos deste subparágrafo será limitado pela forma indicada no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14000/16311656.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14000/16311656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14000/16311656.pdf)
 
 3 - Um membro da assembleia que era elegível mas que não foi eleito em virtude das disposições do subparágrafo b) não poderá ser elegível para os restantes lugares do comité executivo.
 
@@ -1417,7 +1467,7 @@ Disposições transitórias
 
 ###### ARTIGO 36.º
 
-**O Secretário-Geral da Organização deverá convocar a primeira sessão da Assembleia. Esta sessão deverá realizar-se tão cedo quanto possível após a entrada em vigor da presente Convenção e, em qualquer caso, nunca depois de 30 dias após a sua entrada em vigor.**
+O Secretário-Geral da Organização deverá convocar a primeira sessão da Assembleia. Esta sessão deverá realizar-se tão cedo quanto possível após a entrada em vigor da presente Convenção e, em qualquer caso, nunca depois de 30 dias após a sua entrada em vigor.
 
 Cláusulas finais
 

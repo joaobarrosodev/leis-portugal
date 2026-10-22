@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04900/03160318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1828bea35bed6ffd0c3b76439e2a2595e39ace3d40e8d801145a328600507b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a7e66c7c1e78580bb91611c1289b1318eddbfdfb0c0c8138f9b81ad00f3f819
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento Industrial
+- Equipamento Térmico
+- Exportação
+- Importação
+- Normas de Construção
+- Normas de Segurança
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:288221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:288221:por
+  label: "Revogado, sem prejuízo de os aparelhos e equipamentos fabricados de harmonia com as respectivas disposições poderem\
+    \ ser colocados no mercado ou em serviço até 31 de Dezembro de 1995, pelo DEC LEI.130/92.06.07.1992.MIE, DR.IS-A [153]\
+    \ de 06.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1992-288221
+  date: '1992-07-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:47Z'
   warnings: []
   errors: []
 ---
@@ -101,59 +115,59 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O fabrico, importação, venda, instalação, utilização e exportação de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios só poderão realizar-se com a observância do disposto no presente decreto-lei e seus regulamentos, sem prejuízo da restante legislação aplicável.
+Artigo 1.º O fabrico, importação, venda, instalação, utilização e exportação de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios só poderão realizar-se com a observância do disposto no presente decreto-lei e seus regulamentos, sem prejuízo da restante legislação aplicável.
 
-###### Art. 2.º O presente decreto-lei aplica-se a todos os aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios, nomeadamente àqueles que venham a ser enumerados em regulamento.
+Art. 2.º O presente decreto-lei aplica-se a todos os aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios, nomeadamente àqueles que venham a ser enumerados em regulamento.
 
-###### Art. 3.º - 1. A aplicação do presente decreto-lei e seus regulamentos compete ao MIT, através do departamento que para tal venha a ser indicado em despacho ministerial, sem prejuízo da competência atribuída por lei a outras entidades.
+Art. 3.º - 1. A aplicação do presente decreto-lei e seus regulamentos compete ao MIT, através do departamento que para tal venha a ser indicado em despacho ministerial, sem prejuízo da competência atribuída por lei a outras entidades.
 
 2. O departamento que vier a ser indicado para a aplicação do presente decreto-lei e seus regulamentos poderá delegar a sua competência no domínio da aprovação de protótipos, incluindo a comprovação de características, em organismos de contrôle reconhecidos como idóneos, em termos a regulamentar.
 
 3. Os actos praticados pelos organismos de contrôle reconhecidos no exercício da competência que lhes for atribuída ao abrigo do número anterior poderão ser revogados pelo departamento delegante, por iniciativa própria ou mediante recurso interposto pelo interessado.
 
-###### Art. 4.º - 1. O fabrico, importação, venda e exportação de aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios só poderão realizar-se depois da aprovação dos respectivos protótipos, mediante os necessários ensaios, para a queima de determinado tipo de gás combustível.
+Art. 4.º - 1. O fabrico, importação, venda e exportação de aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios só poderão realizar-se depois da aprovação dos respectivos protótipos, mediante os necessários ensaios, para a queima de determinado tipo de gás combustível.
 
 2. O disposto no número anterior aplica-se, quer aos modelos novos, quer aos modelos que resultem da introdução de quaisquer alterações em modelos já aprovados.
 
 3. Exceptua-se o fabrico e a importação de protótipos.
 
-###### Art. 5.º - 1. Os aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios destinados ao mercado interno devem obedecer às normas portuguesas, ou, não as havendo, às normas ou recomendações internacionais, ou ainda, na falta destas, às normas e especificações que forem aceites pelo organismo competente em matéria de normalização.
+Art. 5.º - 1. Os aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios destinados ao mercado interno devem obedecer às normas portuguesas, ou, não as havendo, às normas ou recomendações internacionais, ou ainda, na falta destas, às normas e especificações que forem aceites pelo organismo competente em matéria de normalização.
 
 2. Os aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios destinados à exportação devem ser claramente rotulados «Para exportação» e obedecer às normas ou especificações dos países importadores. Na falta destas, devem obedecer às condições mínimas de segurança previstas nas normas portuguesas.
 
-###### Art. 6.º Os fabricantes e os importadores ficam obrigados a usar nos aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios uma marca, respectivamente de fabrico ou de comércio, e a requerer o seu registo na Repartição da Propriedade Industrial.
+Art. 6.º Os fabricantes e os importadores ficam obrigados a usar nos aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios uma marca, respectivamente de fabrico ou de comércio, e a requerer o seu registo na Repartição da Propriedade Industrial.
 
-###### Art. 7.º - 1. A aprovação de protótipos será comprovada mediante certificados passados pelo organismo de contrôle reconhecido que a concedeu.
+Art. 7.º - 1. A aprovação de protótipos será comprovada mediante certificados passados pelo organismo de contrôle reconhecido que a concedeu.
 
 2. A mesma entidade fornecerá estampilhas, carimbos ou punções para aposição exclusiva nos aparelhos, dispositivos ou acessórios iguais aos protótipos aprovados.
 
-###### Art. 8.º A aprovação será retirada logo que deixem de se verificar as condições necessárias à sua concessão, designadamente quando o aparelho, dispositivo ou acessório em causa origine acidentes graves.
+Art. 8.º A aprovação será retirada logo que deixem de se verificar as condições necessárias à sua concessão, designadamente quando o aparelho, dispositivo ou acessório em causa origine acidentes graves.
 
-###### Art. 9.º - 1. Não poderão ser vendidos nem postos à venda quaisquer aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios sem que lhes tenham sido apostos a estampilha, carimbo ou punção confirmativos da aprovação dos respectivos protótipos.
+Art. 9.º - 1. Não poderão ser vendidos nem postos à venda quaisquer aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios sem que lhes tenham sido apostos a estampilha, carimbo ou punção confirmativos da aprovação dos respectivos protótipos.
 
 2. Não é permitida a aposição de estampilhas, carimbos ou punções em aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios cujos protótipos não tenham sido aprovados.
 
-###### Art. 10.º - 1. Os processos relativos à importação de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios devem ser instruídos com parecer do departamento competente do MIT, sem prejuízo de quaisquer outras exigências legais.
+Art. 10.º - 1. Os processos relativos à importação de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios devem ser instruídos com parecer do departamento competente do MIT, sem prejuízo de quaisquer outras exigências legais.
 
 2. O parecer referido no número anterior deve ser acompanhado do certificado de aprovação do protótipo correspondente, emitido por um organismo português.
 
-###### Art. 11.º Sem prejuízo do disposto no n.º 2 do artigo 5.º, os processos relativos à exportação de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios, incluindo protótipos, devem ser instruídos com certificado da respectiva aprovação.
+Art. 11.º Sem prejuízo do disposto no n.º 2 do artigo 5.º, os processos relativos à exportação de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios, incluindo protótipos, devem ser instruídos com certificado da respectiva aprovação.
 
-###### Art. 12.º - 1. Pela execução de ensaios, fornecimento de estampilhas e aposição de carimbos ou punções relativos à aprovação de protótipos serão devidas as importâncias estabelecidas em tabela a publicar por portaria do MIT, da qual constará a forma da sua distribuição.
+Art. 12.º - 1. Pela execução de ensaios, fornecimento de estampilhas e aposição de carimbos ou punções relativos à aprovação de protótipos serão devidas as importâncias estabelecidas em tabela a publicar por portaria do MIT, da qual constará a forma da sua distribuição.
 
 2. As importâncias previstas no número anterior serão cobradas pelos organismos de contrôle reconhecidos.
 
 3. A parte das importâncias previstas no n.º 1 que caiba a organismos de contrôle reconhecidos destina-se exclusivamente a cobrir as despesas resultantes do exercício da competência atribuída ao abrigo do disposto no n.º 2 do artigo 3.º
 
-###### Art. 13.º Os fabricantes, importadores, vendedores e revendedores ficam obrigados a facilitar aos funcionários do departamento competente do MIT, devidamente identificados, a inspecção relativa ao fabrico, montagem e contrôle de qualidade dos aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios. Sempre que necessário, esses funcionários podem ser acompanhados por peritos.
+Art. 13.º Os fabricantes, importadores, vendedores e revendedores ficam obrigados a facilitar aos funcionários do departamento competente do MIT, devidamente identificados, a inspecção relativa ao fabrico, montagem e contrôle de qualidade dos aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios. Sempre que necessário, esses funcionários podem ser acompanhados por peritos.
 
-###### Art. 14.º Os fabricantes, importadores, vendedores e revendedores de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios são puníveis, pela inobservância do disposto do artigo 4.º, com pena de multa no valor de três vezes o custo dos ensaios de aprovação do protótipo em causa, de acordo com a tabela prevista no artigo 12.º
+Art. 14.º Os fabricantes, importadores, vendedores e revendedores de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios são puníveis, pela inobservância do disposto do artigo 4.º, com pena de multa no valor de três vezes o custo dos ensaios de aprovação do protótipo em causa, de acordo com a tabela prevista no artigo 12.º
 
-###### Art. 15.º - 1. Os fabricantes ou importadores de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios são puníveis, pela inobservância do disposto no n.º 1 do artigo 9.º, com a pena de multa no valor de dez vezes o custo da estampilha ou da aplicação do carimbo ou punção correspondente ao modelo em causa, por cada aparelho, dispositivo ou acessório, quer o respectivo protótipo esteja ou não aprovado.
+Art. 15.º - 1. Os fabricantes ou importadores de aparelhos termodomésticos ou termoindustriais a gás e seus dispositivos ou acessórios são puníveis, pela inobservância do disposto no n.º 1 do artigo 9.º, com a pena de multa no valor de dez vezes o custo da estampilha ou da aplicação do carimbo ou punção correspondente ao modelo em causa, por cada aparelho, dispositivo ou acessório, quer o respectivo protótipo esteja ou não aprovado.
 
 2. Os fabricantes ou importadores de aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios são puníveis, pela inobservância do disposto no n.º 2 do artigo 9.º, com a pena de multa no valor de vinte vezes o custo da estampilha ou da aplicação do carimbo ou punção correspondente ao modelo em causa, por cada aparelho, dispositivo ou acessório.
 
-###### Art. 16.º - 1. Sem prejuízo do disposto no artigo 14.º, os aparelhos, dispositivos ou acessórios encontrados em contravenção do disposto no artigo 4.º podem ser apreendidos onde quer que se encontrem.
+Art. 16.º - 1. Sem prejuízo do disposto no artigo 14.º, os aparelhos, dispositivos ou acessórios encontrados em contravenção do disposto no artigo 4.º podem ser apreendidos onde quer que se encontrem.
 
 2. Ao fabricante ou importador incumbe a armazenagem dos aparelhos, dispositivos ou acessórios apreendidos e as demais diligências e despesas que decorram da apreensão.
 
@@ -161,18 +175,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. À execução dos ensaios, fornecimento de estampilhas e aposição de carimbos ou punções previstos no número anterior, aplica-se o disposto no artigo 12.º
 
-###### Art. 17.º Enquanto não existirem organismos de contrôle reconhecidos, o departamento competente do MIT tomará as disposições que entender convenientes para proceder à aprovação dos protótipos.
+Art. 17.º Enquanto não existirem organismos de contrôle reconhecidos, o departamento competente do MIT tomará as disposições que entender convenientes para proceder à aprovação dos protótipos.
 
-###### Art. 18.º Enquanto não se concretizar a reorganização do MIT, compete à Direcção-Geral dos Combustíveis a fiscalização do cumprimento do presente diploma e seus regulamentos, e bem assim a instrução preparatória dos processos relativos às contravenções previstas nos artigos 14.º e 15.º
+Art. 18.º Enquanto não se concretizar a reorganização do MIT, compete à Direcção-Geral dos Combustíveis a fiscalização do cumprimento do presente diploma e seus regulamentos, e bem assim a instrução preparatória dos processos relativos às contravenções previstas nos artigos 14.º e 15.º
 
-###### Art. 19.º - 1. O presente decreto-lei entra em vigor noventa dias após a data da sua publicação.
+Art. 19.º - 1. O presente decreto-lei entra em vigor noventa dias após a data da sua publicação.
 
 2. É concedido um prazo máximo de duzentos e setenta dias, contados a partir da entrada em vigor do presente diploma, para que os fabircantes, importadores, vendedores e revendedores possam escoar os stocks existentes ou promover a sua aprovação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 14 de Fevereiro de 1977.**
+Promulgado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

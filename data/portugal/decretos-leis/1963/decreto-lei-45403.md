@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45403-1963-683809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7623bc38dc925923479e1117d9e1e84411f11fe852fc12a43cf54364d934c8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f2bd1353bd64c49b3202903deb244a36bf0ed922b9fb27badfe99e200cefbad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Fundo Especial de Transportes Terrestres
+- Gabinete da Ponte sobre o TEJO
+- Ministro das Comunicações
+- Obras Públicas
+- Rede de Estradas
+- Rede Ferroviária
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:555013:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:10Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Para este efeito se estabelecem neste diploma as bases que permitem a sua realiz
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Ministro das Comunicações fica autorizado a atribuir, pelo Fundo Especial dos Transportes Terrestres, as verbas necessárias para a execução das indispensáveis obras complementares da construção da ponte sobre o Tejo que permitam assegurar de futuro a ligação ferroviária através da mesma ponte.
+Artigo 1.º O Ministro das Comunicações fica autorizado a atribuir, pelo Fundo Especial dos Transportes Terrestres, as verbas necessárias para a execução das indispensáveis obras complementares da construção da ponte sobre o Tejo que permitam assegurar de futuro a ligação ferroviária através da mesma ponte.
 
 § único. Fica autorizado o Ministro das Comunicações a atribuir desde já, pelo Fundo Especial dos Transportes Terrestres, a verba de 15500 contos para a construção do primeiro troço do túnel ferroviário no acesso sul da ponte sobre o Tejo.
 
@@ -106,17 +118,17 @@ A atribuição desta verba será escalonada por três anos sucessivos, sendo de 
 
 Os montantes dos restantes escalões serão fixados por despacho do Ministro das Comunicações, conforme o disposto na segunda parte do artigo 2.º deste decreto-lei.
 
-###### Art. 2.º A realização das obras a que se refere o artigo 1.º caberá ao Gabinete da Ponte sobre o Tejo, à ordem do qual serão colocadas as verbas que forem atribuídas para este efeito.
+Art. 2.º A realização das obras a que se refere o artigo 1.º caberá ao Gabinete da Ponte sobre o Tejo, à ordem do qual serão colocadas as verbas que forem atribuídas para este efeito.
 
 As características técnicas e os montantes dos encargos a suportar com estas obras serão estabelecidos por despacho do Ministro das Comunicações, sobre proposta do Gabinete de Estudos e Planeamento de Transportes Terrestres, a elaborar em estreita colaboração com o Gabinete da Ponte sobre o Tejo.
 
-###### Art. 3.º As adjudicações das obras referidas neste decreto-lei serão feitas por intermédio do Gabinete da Ponte sobre o Tejo, por despacho do Ministro das Obras Públicas.
+Art. 3.º As adjudicações das obras referidas neste decreto-lei serão feitas por intermédio do Gabinete da Ponte sobre o Tejo, por despacho do Ministro das Obras Públicas.
 
-###### Art. 4.º Os saldos anuais das importâncias entregues pelo Fundo Especial dos Transportes Terrestres ao Gabinete da Ponte sobre o Tejo transitam para o ano imediato, pelo que este Gabinete poderá celebrar contratos de execução de obras até ao montante previsto de 15500 contos, desde que os pagamentos a efectuar em cada ano não excedam o correspondente montante do escalão aprovado, acrescido do saldo do ano anterior.
+Art. 4.º Os saldos anuais das importâncias entregues pelo Fundo Especial dos Transportes Terrestres ao Gabinete da Ponte sobre o Tejo transitam para o ano imediato, pelo que este Gabinete poderá celebrar contratos de execução de obras até ao montante previsto de 15500 contos, desde que os pagamentos a efectuar em cada ano não excedam o correspondente montante do escalão aprovado, acrescido do saldo do ano anterior.
 
-###### Art. 5.º Aos adjudicatários das obras a que se refere o presente decreto-lei serão aplicáveis as disposições constantes dos artigos 6.º e 7.º das condições especiais do contrato para a construção da ponte sobre o Tejo, cuja minuta faz parte integrante do [Decreto-Lei n.º 43514](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43514-1961-555013), de 23 de Fevereiro de 1961.
+Art. 5.º Aos adjudicatários das obras a que se refere o presente decreto-lei serão aplicáveis as disposições constantes dos artigos 6.º e 7.º das condições especiais do contrato para a construção da ponte sobre o Tejo, cuja minuta faz parte integrante do [Decreto-Lei n.º 43514](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43514-1961-555013), de 23 de Fevereiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

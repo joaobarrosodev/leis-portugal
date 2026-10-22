@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/73-1983-442327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e80b1ad8152e989da20b0e672d39166912755423da127981aa7edb8c9e6b427
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe9537e68bf97ad655303b2f9b971f1cdc08ba9f1ca8ba1e6bb905e9a693fce1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Argel
+- Argélia
+- Convenção
+- Cooperação Cultural
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:168228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168228:por
+  label: "Cessada a vigência do Acordo Cultural entre Portugal e a Argélia aprovado para ratificação pelo presente diploma,\
+    \ pelo DEC.3/2006.06.01.2006.MNE, DR.IS-A [5] de 06.01.2006, a partir da entrada em vigor do Acordo ora aprovado\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-2006-168228
+  date: '2006-01-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:26Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +102,19 @@ de 15 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Cultural entre a República Portuguesa e a República Democrática e Popular da Argélia, assinado em Argel em 8 de Dezembro de 1982, cujo texto em português e francês vai anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Cultural entre a República Portuguesa e a República Democrática e Popular da Argélia, assinado em Argel em 8 de Dezembro de 1982, cujo texto em português e francês vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José de Matos Gama.
 
-**Assinado em 31 de Agosto de 1983.**
+Assinado em 31 de Agosto de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Setembro de 1983.**
+Referendado em 1 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Acordo Cultural entre a República Portuguesa e a República Democrática e Popular da Argélia
 

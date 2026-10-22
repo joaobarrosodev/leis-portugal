@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(11) a 1456-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00110011.pdf
 entry_into_force_dates: []
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-i-1980-226045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c854b9ce8b85e3bb839389c33f910860e2db1f411ae3aaa308e1ab3175e0a88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fa37d44094b2b8863ea59e39a164451d3b6a7a326bafd4865abba65f465c1bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Ensino Básico
+- Ensino Básico
+- Equivalência de Habilitações Literárias
+- Isenção de Taxas e Emolumentos
+relationships:
+- type: cites
+  target: pt:dre:146059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426139:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:01Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ Considerando que os fundamentos que justificaram tal isenção são igualmente p
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Ficam isentos de emolumentos:
+Artigo único. Ficam isentos de emolumentos:
 
 a) As certidões comprovativas da equivalência de habilitações adquiridas no estrangeiro que visem exclusivamente o prosseguimento de estudos;
 
@@ -104,8 +116,8 @@ c) A autenticação dos documentos comprovativos das habilitações a equiparar 
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 24 de Junho de 1980.**
+Promulgado em 24 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

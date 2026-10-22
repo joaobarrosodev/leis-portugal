@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3334-(84) a 3334-(85)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00840085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 762bc7c5088aa9302fbdb9d60ed93875d89c0e711404ee9838797972e77b1393
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f80e190c35b529ff00908d185ff886ca660dc4c3576bf9a6ac15311b4432748
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deslocação ao Estrangeiro
+- Divisa
+- Orçamento Cambial do Sector Público
+- Setor Público
 relationships:
 - type: amended_by
   target: pt:dre:662173:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:464029:por
+  label: "Transferida para os Governos das Regiões Autónomas dos Açores e da Madeira as competências atribuídas ao Ministério\
+    \ das Finanças e do Plano pelo DEC LEI.358/80.09.09.1980.MFP, DR.IS [208] de 09.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1980-464029
+  date: '1980-09-09'
+- type: cites
+  target: pt:dre:280242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662173:por
+  label: "Revogado pelo DEC LEI.136/87.1987.03.19.MF, DR.IS [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1987-662173
+  date: '1987-03-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:28Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +125,9 @@ Sem prejuízo dessa revisão global, que obriga a cuidadosa e demorada ponderaç
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O regime constante do presente diploma aplica-se a todo o sector público, nomeadamente às entidades integradas do Estado ou com autonomia administrativa ou financeira, fundos autónomos, autarquias locais, institutos públicos e empresas públicas.
+Artigo 1.º O regime constante do presente diploma aplica-se a todo o sector público, nomeadamente às entidades integradas do Estado ou com autonomia administrativa ou financeira, fundos autónomos, autarquias locais, institutos públicos e empresas públicas.
 
-###### Art. 2.º - 1 - As deslocações promovidas por entidades do sector público sem estatuto de empresa pública ou equiparado carecem de autorização prévia do Ministro da pasta respectiva ou dos órgãos autárquicos competentes.
+Art. 2.º - 1 - As deslocações promovidas por entidades do sector público sem estatuto de empresa pública ou equiparado carecem de autorização prévia do Ministro da pasta respectiva ou dos órgãos autárquicos competentes.
 
 2 - As deslocações ao estrangeiro promovidas por empresas públicas ou entidades com estatuto equiparado carecem de autorização prévia do conselho de gestão ou órgão equivalente.
 
@@ -104,29 +135,29 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 4 - As deslocações ao estrangeiro promovidas por entidades das regiões autónomas são autorizadas nos termos da legislação regional própria.
 
-###### Art. 3.º Para as entidades referidas no artigo 1.º, e de harmonia com o orçamento cambial do sector público, compete ao Ministro das Finanças fixar o montante das autorizações especiais para a venda de meios de pagamento sobre o exterior, previstas no n.º 5 da [Portaria n.º 650/78](https://diariodarepublica.pt/dr/detalhe/portaria/650-1978-327304), de 9 de Novembro, para períodos de cento e oitenta dias.
+Art. 3.º Para as entidades referidas no artigo 1.º, e de harmonia com o orçamento cambial do sector público, compete ao Ministro das Finanças fixar o montante das autorizações especiais para a venda de meios de pagamento sobre o exterior, previstas no n.º 5 da [Portaria n.º 650/78](https://diariodarepublica.pt/dr/detalhe/portaria/650-1978-327304), de 9 de Novembro, para períodos de cento e oitenta dias.
 
-###### Art. 4.º Para a realização das deslocações autorizadas nos termos do artigo 2.º, as instituições de crédito procederão, sem quaisquer outras formalidades, à venda dos meios de pagamento sobre o exterior quando o seu montante:
+Art. 4.º Para a realização das deslocações autorizadas nos termos do artigo 2.º, as instituições de crédito procederão, sem quaisquer outras formalidades, à venda dos meios de pagamento sobre o exterior quando o seu montante:
 
 a) Tenha cabimento na autorização especial concedida de harmonia com o artigo 3.º;
 
 b) Tenha sido objecto de autorização específica do Ministro das Finanças, em virtude de não se enquadrar em autorização especial prevista no artigo 3.º
 
-###### Art. 5.º A venda de meios de pagamento sobre o exterior, por cada deslocação, não pode exceder o montante dos abonos a que os participantes tenham direito nos termos da legislação em vigor.
+Art. 5.º A venda de meios de pagamento sobre o exterior, por cada deslocação, não pode exceder o montante dos abonos a que os participantes tenham direito nos termos da legislação em vigor.
 
-###### Art. 6.º - 1 - Quinze dias após o termo de cada trimestre as entidades que tenham disposto de autorizações concedidas nos termos do artigo 3.º remeterão à Direcção-Geral do Tesouro nota discriminada dos dispêndios cambiais efectivamente realizados ao abrigo daquelas autorizações.
+Art. 6.º - 1 - Quinze dias após o termo de cada trimestre as entidades que tenham disposto de autorizações concedidas nos termos do artigo 3.º remeterão à Direcção-Geral do Tesouro nota discriminada dos dispêndios cambiais efectivamente realizados ao abrigo daquelas autorizações.
 
 2 - O Banco de Portugal, em idêntico prazo, enviará à Direcção-Geral do Tesouro informações sobre as utilizações das autorizações previstas no artigo 3.º
 
 3 - O não cumprimento da obrigação referida no n.º 1 implica automaticamente o cancelamento da autorização concedida, de harmonia com o artigo 3.º, e que se encontre à data em vigor.
 
-###### Art. 7.º O regime definido pelo presente diploma não se aplica a deslocações em serviço de civis ou militares, ao estrangeiro ou no estrangeiro, no exercício de funções de carácter permanente no estrangeiro.
+Art. 7.º O regime definido pelo presente diploma não se aplica a deslocações em serviço de civis ou militares, ao estrangeiro ou no estrangeiro, no exercício de funções de carácter permanente no estrangeiro.
 
-###### Art. 8.º - 1 - Os adiantamentos pelos cofres consulares para cobertura de despesas decorrentes de deslocações abrangidas pelo presente diploma só poderão efectuar-se em situações de carácter excepcional e desde que preencham os requisitos estabelecidos nas alíneas a) e b) do artigo 4.º
+Art. 8.º - 1 - Os adiantamentos pelos cofres consulares para cobertura de despesas decorrentes de deslocações abrangidas pelo presente diploma só poderão efectuar-se em situações de carácter excepcional e desde que preencham os requisitos estabelecidos nas alíneas a) e b) do artigo 4.º
 
 2 - A regularização destes adiantamentos processa-se através da Direcção-Geral do Tesouro no prazo máximo de trinta dias.
 
-###### Art. 9.º - 1 - As entidades referidas no artigo 1.º enviarão à Direcção-Geral do Tesouro, no prazo de quinze dias, a contar da data da publicação do presente diploma, uma previsão para o ano de 1980 dos dispêndios cambiais com deslocações ao estrangeiro abrangidas pelo regime ora definido.
+Art. 9.º - 1 - As entidades referidas no artigo 1.º enviarão à Direcção-Geral do Tesouro, no prazo de quinze dias, a contar da data da publicação do presente diploma, uma previsão para o ano de 1980 dos dispêndios cambiais com deslocações ao estrangeiro abrangidas pelo regime ora definido.
 
 2 - O Banco de Portugal e o Instituto Nacional de Seguros remeterão à Direcção-Geral do Tesouro, no prazo estabelecido no n.º 1, as previsões das instituições de crédito e das companhias de seguros, respectivamente, acompanhadas de parecer.
 
@@ -134,22 +165,22 @@ b) Tenha sido objecto de autorização específica do Ministro das Finanças, em
 
 4 - Com base nas previsões apresentadas, o Ministro das Finanças aprovará, até 31 de Dezembro de 1979, as autorizações especiais referidas no artigo 3.º, sem prejuízo da sua integração no orçamento cambial do sector público para 1980.
 
-###### Art. 10.º O regime de autorização de deslocações ao estrangeiro e consequente dispêndio de divisas, constante deste diploma, aplica-se transitoriamente às regiões autónomas.
+Art. 10.º O regime de autorização de deslocações ao estrangeiro e consequente dispêndio de divisas, constante deste diploma, aplica-se transitoriamente às regiões autónomas.
 
-###### Art. 11.º - 1 - A Direcção-Geral do Tesouro emitirá instruções para a execução deste diploma.
+Art. 11.º - 1 - A Direcção-Geral do Tesouro emitirá instruções para a execução deste diploma.
 
 2 - O Banco de Portugal emitirá instruções para assegurar a aplicação do regime definido no tocante às instituições de crédito.
 
-###### Art. 12.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças.
+Art. 12.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças.
 
-###### Art. 13.º São revogados o artigo 6.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381) e o [Despacho Normativo n.º 241/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/241-1977-280242), de 25 de Outubro e 21 de Dezembro, respectivamente.
+Art. 13.º São revogados o artigo 6.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381) e o [Despacho Normativo n.º 241/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/241-1977-280242), de 25 de Outubro e 21 de Dezembro, respectivamente.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

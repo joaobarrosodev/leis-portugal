@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07400/04760482.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1975-161494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 651f3e94cfc3bcf5e3e1c422dcbb0f9773e808f061081b828a2a122dd8968284
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d04bd0334301ee90ca891997d7c9cf1ecc42fc1d540ac2b5ab7a88a12be23ead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Responsabilidade Civil Automóvel
+- Seguro de Responsabilidade Civil Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:365506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234086:por
+  label: "Prorrogada para 01.10.1975, a entrada em vigor do presente diploma, pelo DEC LEI.329-I/75.30.06.1975.MJ, DG.IS [148-4SUPL]\
+    \ de 30.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-i-1975-234086
+  date: '1975-06-30'
+- type: amended_by
+  target: pt:dre:428225:por
+  label: "Adiada até data a determinar posteriormente a execução do presente diploma pelo DEC LEI.373/76.19.05.1976.MF, DR.IS\
+    \ [117] de 19.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1976-428225
+  date: '1976-05-19'
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365506:por
+  label: Revogado pelo(a) Decreto-Lei n.º 408/79 - Diário da República n.º 222/1979, Série I de 1979-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1979-365506
+  date: '1979-09-25'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:17Z'
   warnings: []
   errors: []
 ---
@@ -416,11 +440,11 @@ O presente diploma entrará em vigor em 1 de Julho de 1975.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes - Armando Bacelar.
 
-**Promulgado em 18 de Março de 1975.**
+Promulgado em 18 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tabela a que se refere o artigo 9.º
 
@@ -504,4 +528,4 @@ Provas de motociclos - 600 contos, seja qual for o número de lesados.
 
 Provas automobilísticas - 1200 contos, seja qual for o número de lesados.
 
-**O Primeiro-Ministro, Vasco dos Santos Gonçalves.**
+O Primeiro-Ministro, Vasco dos Santos Gonçalves.

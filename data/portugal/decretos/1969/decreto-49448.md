@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49448-1969-216482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dac74cf455a258df4bb6e1ff176405b8dbf0d6d4502057104632f83a94af1354
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a68b0fc6eadf99edb5528f432fa2025873080ebe148858e72e9ab6bb4727ca1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:56Z'
   warnings: []
   errors: []
 ---
@@ -91,39 +91,39 @@ Ouvidos o Governo-Geral de Angola e o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada a Biblioteca Nacional de Angola, com sede em Luanda, dependente dos Serviços de Educação da província.
+Artigo 1.º É criada a Biblioteca Nacional de Angola, com sede em Luanda, dependente dos Serviços de Educação da província.
 
-###### Art. 2.º Transitam para a Biblioteca Nacional as espécies existentes na biblioteca do Museu de Angola que não interessem às actividades do Museu e do Instituto de Investigação Científica de Angola.
+Art. 2.º Transitam para a Biblioteca Nacional as espécies existentes na biblioteca do Museu de Angola que não interessem às actividades do Museu e do Instituto de Investigação Científica de Angola.
 
-###### Art. 3.º É extinta a Biblioteca Central de Educação, transitando todo o seu património para a Biblioteca Nacional.
+Art. 3.º É extinta a Biblioteca Central de Educação, transitando todo o seu património para a Biblioteca Nacional.
 
-###### Art. 4.º Do fundo inicial da Biblioteca Nacional poderão também fazer parte as seguintes espécies:
+Art. 4.º Do fundo inicial da Biblioteca Nacional poderão também fazer parte as seguintes espécies:
 
 a) As que lhe forem destinadas pela Câmara Municipal de Luanda;
 
 b) As que forem oferecidas por outras entidades públicas ou privadas para o mesmo fim.
 
-###### Art. 5.º A Biblioteca Nacional, além de proporcionar leitura pública para estudo, consulta e investigação, deve ser centro de irradiação de cultura, especialmente de sentido nacional, promovendo para esse efeito conferências, leituras explicadas, exposições ou outras realizações adequadas.
+Art. 5.º A Biblioteca Nacional, além de proporcionar leitura pública para estudo, consulta e investigação, deve ser centro de irradiação de cultura, especialmente de sentido nacional, promovendo para esse efeito conferências, leituras explicadas, exposições ou outras realizações adequadas.
 
-###### Art. 6.º Na Biblioteca Nacional funcionará uma comissão assistente junto do director, presidida pelo chefe do departamento dos cultos e instituições culturais da Direcção Provincial dos Serviços de Educação, com quatro vogais escolhidos pelo governador-geral entre pessoas interessadas na cultura, com obrigação de reunir pelo menos uma vez por mês e dar parecer sobre a aquisição de livros ou outras espécies e ainda sobre a actividade cultural, apreciando as propostas do director e podendo também alvitrar segundo as suas próprias iniciativas.
+Art. 6.º Na Biblioteca Nacional funcionará uma comissão assistente junto do director, presidida pelo chefe do departamento dos cultos e instituições culturais da Direcção Provincial dos Serviços de Educação, com quatro vogais escolhidos pelo governador-geral entre pessoas interessadas na cultura, com obrigação de reunir pelo menos uma vez por mês e dar parecer sobre a aquisição de livros ou outras espécies e ainda sobre a actividade cultural, apreciando as propostas do director e podendo também alvitrar segundo as suas próprias iniciativas.
 
-###### Art. 7.º É desde já criado o lugar de director, com a categoria F, a prover, por escolha do Ministro do Ultramar, de entre indivíduos de reconhecida competência diplomados com o curso de bibliotecário-arquivista.
+Art. 7.º É desde já criado o lugar de director, com a categoria F, a prover, por escolha do Ministro do Ultramar, de entre indivíduos de reconhecida competência diplomados com o curso de bibliotecário-arquivista.
 
-###### Art. 8.º - 1. O quadro do restante pessoal da Biblioteca Nacional será aprovado por disposição legal provincial, que fixará também a forma e condições do respectivo provimento.
+Art. 8.º - 1. O quadro do restante pessoal da Biblioteca Nacional será aprovado por disposição legal provincial, que fixará também a forma e condições do respectivo provimento.
 
 2. No recrutamento deste pessoal será dada preferência a quem exiba documento comprovativo de ter frequentado com aproveitamento qualquer curso idóneo de documentalista.
 
-###### Art. 9.º No prazo de seis meses o Governo-Geral de Angola, mediante parecer favorável dos Serviços de Educação, aprovará o regulamento privativo da Biblioteca Nacional de Angola.
+Art. 9.º No prazo de seis meses o Governo-Geral de Angola, mediante parecer favorável dos Serviços de Educação, aprovará o regulamento privativo da Biblioteca Nacional de Angola.
 
-###### Art. 10.º Por despacho do Ministro do Ultramar poderá ser determinado que a Biblioteca Nacional funcione temporàriamente sob a orientação do Instituto de Investigação Científica de Angola.
+Art. 10.º Por despacho do Ministro do Ultramar poderá ser determinado que a Biblioteca Nacional funcione temporàriamente sob a orientação do Instituto de Investigação Científica de Angola.
 
-###### Art. 11.º Fica o Governo da província autorizado a tomar as providências de ordem financeira destinadas à execução do presente diploma.
+Art. 11.º Fica o Governo da província autorizado a tomar as providências de ordem financeira destinadas à execução do presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 5 de Dezembro de 1969.**
+Promulgado em 5 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

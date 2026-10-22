@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/18100/09510952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49167-1969-198741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a35594351a94456cd37de8d736f9383c2641b8c9f1873f0003aee3b8dc92431b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fa3f235a9167070839d019bb92d25d5dde01fcb86b6e2dd935944a842cabbbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cunhagem de Moeda
+- Moeda
 relationships:
 - type: amended_by
   target: pt:dre:563019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147786:por
+  label: "Alterados os arts. 1º e 3º do presente diploma, pelo DEC LEI.525/70.06.11.1970.MF, DG.IS [258] de 06.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/525-1970-147786
+  date: '1970-11-06'
+- type: amended_by
+  target: pt:dre:422175:por
+  label: "Elevado o limite de emissão da moeda de 10$00 fixado pelo presente diploma, pelo DEC LEI.224/73.12.05.1973.MF, DG.IS\
+    \ [112] de 12.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1973-422175
+  date: '1973-05-12'
+- type: amended_by
+  target: pt:dre:412669:por
+  label: "Elevado o limite de emissão da moeda de 1$00 fixado pelo presente diploma, pelo DEC LEI.76/74.01.03.1974.MF, DG.IS\
+    \ [51] de 01.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1974-412669
+  date: '1974-03-01'
+- type: amended_by
+  target: pt:dre:337074:por
+  label: "Elevado o limite de emissão da moeda de $50 fixado pelo presente diploma, pelo DEC LEI.321/75.27.06.1975.MF, DG.IS\
+    \ [146] de 27.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1975-337074
+  date: '1975-06-27'
+- type: amended_by
+  target: pt:dre:563019:por
+  label: "Retiradas de circulação as moedas metálicas de $10, de alumínio, de $20, de bronze, e de 10$00, de cuproníquel,\
+    \ criadas pelo presente diploma, pelo DEC LEI.267/81.15.09.1981.MFP, DR.IS [212] de 15.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1981-563019
+  date: '1981-09-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:15Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +145,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado novo tipo de moeda metálica de $10 de liga de alumínio com 1 por cento de magnésia, com o diâmetro de 16 mm e o peso de 0,6 g. Estas moedas terão a tolerância, em título e em peso, de mais ou menos 2 por cento.
+Artigo 1.º É criado novo tipo de moeda metálica de $10 de liga de alumínio com 1 por cento de magnésia, com o diâmetro de 16 mm e o peso de 0,6 g. Estas moedas terão a tolerância, em título e em peso, de mais ou menos 2 por cento.
 
-###### Art. 2.º - 1. São criados novos tipos de moedas metálicas de $20, $50 e 1$00, fabricadas em liga de bronze, na proporção de 95 por cento de cobre, 3 por cento de zinco e 2 por cento de estanho, com a tolerância, em título e em peso, de mais ou menos 2 por cento.
+Art. 2.º - 1. São criados novos tipos de moedas metálicas de $20, $50 e 1$00, fabricadas em liga de bronze, na proporção de 95 por cento de cobre, 3 por cento de zinco e 2 por cento de estanho, com a tolerância, em título e em peso, de mais ou menos 2 por cento.
 
 2. As moedas de $20 terão o diâmetro de 16 mm e o peso de 1,8 g.
 
@@ -124,36 +155,36 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. As moedas de 1$00 terão o diâmetro de 26 mm e o peso de 8 g.
 
-###### Art. 3.º É criado novo tipo de moeda metálica de 10$00 fabricada com discos de níquel puro, capeados em ambas as faces com cuproníquel de 75 por cento de cobre e 25 por cento de níquel. Estas moedas terão o diâmetro de 28 mm e o peso de 10 g e a tolerância de mais ou menos 2 g em peso.
+Art. 3.º É criado novo tipo de moeda metálica de 10$00 fabricada com discos de níquel puro, capeados em ambas as faces com cuproníquel de 75 por cento de cobre e 25 por cento de níquel. Estas moedas terão o diâmetro de 28 mm e o peso de 10 g e a tolerância de mais ou menos 2 g em peso.
 
-###### Art. 4.º - 1. As moedas de $10 e $20 terão ambas o mesmo desenho, apenas com a alteração do valor.
+Art. 4.º - 1. As moedas de $10 e $20 terão ambas o mesmo desenho, apenas com a alteração do valor.
 
 2. O anverso é constituído pelas cinco quinas, circundadas pela legenda «República Portuguesa» e a era da cunhagem.
 
 3. O reverso é constituído por um ornato de ramos de oliveira e o dístico: «10 centavos» ou «20 centavos».
 
-###### Art. 5.º - 1. As moedas de $50 e 1$00 terão ambas o mesmo desenho, apenas com o alteração do valor.
+Art. 5.º - 1. As moedas de $50 e 1$00 terão ambas o mesmo desenho, apenas com o alteração do valor.
 
 2. O anverso é constituído pelas cinco quinas, circundadas pela legenda «República Portuguesa» e a era da cunhagem.
 
 3. O reverso é constituído por um ornato de espigas de trigo e o dístico: «50 centavos» ou «1 escudo».
 
-###### Art. 6.º - 1. O desenho do anverso das moedas de 10$00 é constituído pela caravela dos Descobrimentos, circundada pela legenda «República Portuguesa» e a era da cunhagem.
+Art. 6.º - 1. O desenho do anverso das moedas de 10$00 é constituído pela caravela dos Descobrimentos, circundada pela legenda «República Portuguesa» e a era da cunhagem.
 
 2. O desenho do reverso é constituído pelo escudo nacional, ornamentado com duas estrelas em cada lado, com o valor da moeda em algarismos na parte inferior.
 
-###### Art. 7.º Continuam com curso legal as moedas de bronze de $10 e $20 e as moedas de alpaca de $50 e 1$00, actualmente em circulação, até que a respectiva recolha seja determinada por diploma oficial a publicar oportunamente.
+Art. 7.º Continuam com curso legal as moedas de bronze de $10 e $20 e as moedas de alpaca de $50 e 1$00, actualmente em circulação, até que a respectiva recolha seja determinada por diploma oficial a publicar oportunamente.
 
-###### Art. 8.º O limite da emissão para as moedas criadas por este diploma é fixado em 25000 contos para a moeda de $10, em 35000 contos para a moeda de $20, em 70000 contos para a moeda de $50, em 50000 contos para a moeda de 1$00 e em 100000 contos para a moeda de 10$00.
+Art. 8.º O limite da emissão para as moedas criadas por este diploma é fixado em 25000 contos para a moeda de $10, em 35000 contos para a moeda de $20, em 70000 contos para a moeda de $50, em 50000 contos para a moeda de 1$00 e em 100000 contos para a moeda de 10$00.
 
-###### Art. 9.º Todas estas moedas serão postas a circular à medida que forem fabricadas e conforme as necessidades de circulação o aconselharem.
+Art. 9.º Todas estas moedas serão postas a circular à medida que forem fabricadas e conforme as necessidades de circulação o aconselharem.
 
-###### Art. 10.º Ninguém pode ser obrigado a receber, em qualquer pagamento, moedas circulantes que ultrapassem os seguintes quantitativos: 5$00 em moedas de $10 ou de $20, 20$00 em moedas de $50 ou 1$00 e 200$00 em moedas de 2$50, 5$00 e 10$00.
+Art. 10.º Ninguém pode ser obrigado a receber, em qualquer pagamento, moedas circulantes que ultrapassem os seguintes quantitativos: 5$00 em moedas de $10 ou de $20, 20$00 em moedas de $50 ou 1$00 e 200$00 em moedas de 2$50, 5$00 e 10$00.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 24 de Julho de 1969.**
+Promulgado em 24 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

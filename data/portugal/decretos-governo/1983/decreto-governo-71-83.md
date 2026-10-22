@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/71-1983-455928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b537de24a91f59afadf88a85fc31b6d40ebbcf9a28a6389b490a7385536ee407
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dfa515f99d1ff7b398ee5329c27410b4a3d30ed362f093260acece9845c4692
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Serviço Postal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:21Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +90,19 @@ de 30 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Postal Universal e o respectivo Protocolo Final, assinados no XVIII Congresso da referida União, celebrado no Rio de Janeiro em 1979, cujos textos em francês e a respectiva tradução em português vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Postal Universal e o respectivo Protocolo Final, assinados no XVIII Congresso da referida União, celebrado no Rio de Janeiro em 1979, cujos textos em francês e a respectiva tradução em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1983. - Mário Soares - Jaime José Matos da Gama.
 
-**Assinado em 12 de Agosto de 1983.**
+Assinado em 12 de Agosto de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Agosto de 1983**
+Referendado em 16 de Agosto de 1983
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Convention postale universelle
 
@@ -303,7 +306,7 @@ Taxes d'affranchissement et limites de poids et de dimensions. Conditions géné
 
 1 - Les taxes d'affranchissement pour le transport des envois de la poste aux lettres dans tout l'étendue de l'Union ainsi que les limites de poids et de dimensions sont fixées conformément aux indications des colonnes 1, 2, 3, 6 et 7 du tableau ci-après. Les taxes de base (col. 3) peuvent être majorées de 100% (col. 4) ou réduites de 70% (col. 5) au maximum. Elles comprennent, sauf l'exception prévue à l'article 25, paragraphe 6, la remise des envois au domicile des destinataires pour autant que ce service de distribution soit organisé dans les pays de destination pour les envois dont il s'agit.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
 
 2 - A titre exceptionnel, les Pays-membres peuvent modifier la structure d'échelons de poids indiqués au paragraphe 1, sous réserve des conditions suivantes:
 
@@ -337,7 +340,7 @@ ARTICLE 20
 
 Envois normalisés
 
-1 - Dans le cadre des dispositions de l'article 19, paragraphe 1, sont considérés comme normalisés les envois de forme rectangulaire dont la longueur n'est pas inférieure à la largeur multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valeur approchée: 1,4) et qui répondent, selon leur présentation, aux conditions suivantes:
+1 - Dans le cadre des dispositions de l'article 19, paragraphe 1, sont considérés comme normalisés les envois de forme rectangulaire dont la longueur n'est pas inférieure à la largeur multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valeur approchée: 1,4) et qui répondent, selon leur présentation, aux conditions suivantes:
 
 a) Envois sous enveloppe:
 
@@ -451,7 +454,7 @@ Taxes spéciales
 
 1 - Les taxes prévues dans la Convention et qui sont perçues en plus des taxes d'affranchissement mentionées à l'article 19 sont dénommées «taxes spéciales». Leur montant est fixé conformément aux indications du tableau ci-dessous:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
 
 2 - Les Pays-membres qui appliquent dans leur service intérieur des taxes supérieures à celles qui sont indiquées au paragraphe 1 sont autorisés à appliquer ces mêmes taxes dans le service international.
 
@@ -1027,7 +1030,7 @@ Frais de transit
 
 1 - Sous réserve de l'article 63, les dépêches closes échangées entre 2 administrations ou entre 2 bureaux du même pays au moyen des services d'une ou de plusieurs autres administrations (services tiers) sont soumises, au profit de chacun des pays traversés ou dont les services participent au transport, aux frais de transit indiqués dans le tableau ci-après. Ces frais sont à la charge de l'administration du pays d'origine de la dépêche.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
 
 2 - Lorsqu'un pays admet que son territoire soit traversé par un service de transport étranger sans participation de ses services selon l'article 3, le courrier ainsi acheminé n'est pas soumis aux frais de transit.
 
@@ -1125,7 +1128,7 @@ a) Dimensions minimales: identiques à celles prescrites pour les lettres;
 
 b) Dimensions maximales: 110 mm x 220 mm;
 
-et telles que la longueur soit égale ou supérieure à la largeur multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valeur approchée: 1,4).
+et telles que la longueur soit égale ou supérieure à la largeur multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valeur approchée: 1,4).
 
 3 - Le recto de l'aérogramme est réservé à l'adresse, à l'affranchissement et aux mentions ou étiquettes de service. Il porte obligatoirement la mention imprimée «Aérogramme» et, facultativement, une mention équivalente dans la langue du pays d'origine. L'aérogramme ne doit contenir aucun objet. Il peut être expédié sous recommandation si la réglementation du pays d'origine le permet.
 
@@ -1573,9 +1576,7 @@ Regras comuns aplicáveis ao serviço postal internacional
 
 ### CAPÍTULO I — Disposições gerais
 
-ARTIGO I
-
-Liberdade de trânsito
+###### ARTIGO I — Liberdade de trânsito
 
 1 - A liberdade de trânsito, cujo princípio é enunciado no artigo 1.º da Constituição, envolve a obrigação, para cada administração postal, de encaminhar sempre pelas vias mais rápidas que ela utiliza para as suas próprias malas as malas fechadas e as correspondências postais a descoberto que lhe forem entregues por outra administração. Essa obrigação aplica-se igualmente às correspondências-avião, quer as administrações postais intermediárias tomem ou não parte no seu encaminhamento.
 
@@ -1727,7 +1728,7 @@ Os objectos de correspondência postal abrangem as cartas, os bilhetes postais, 
 
 1 - As taxas de franquia para o transporte dos objectos de correspondência postal em toda a área da União e os limites de peso e de dimensões são fixados em conformidade com as indicações das colunas 1, 2, 3, 6 e 7 do quadro seguinte. As taxas de base (col. 3) podem ser aumentadas até 100% (col. 4) ou reduzidas até 70% (col. 5), no máximo. Salvo a excepção prevista no artigo 25, parágrafo 6, estas taxas incluem a entrega dos objectos no domicílio dos destinatários, desde que o país de destino tenha montado este serviço de distribuição para os objectos em causa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
 
 2 - A título excepcional, os Países membros podem modificar a estrutura dos escalões de peso indicados no parágrafo 1, sob reserva das seguintes condições:
 
@@ -1759,7 +1760,7 @@ c) Para cada categoria, as taxas correspondentes aos escalões de peso adoptados
 
 ###### ARTIGO 20 — Objectos normalizados
 
-1 - No quadro das disposições do artigo 19, parágrafo 1, são considerados como normalizados os objectos de forma rectangular cujo comprimento não seja inferior à largura multiplicada por [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valor aproximado: 1,4) e que, segundo a sua apresentação, satisfaçam as condições seguintes:
+1 - No quadro das disposições do artigo 19, parágrafo 1, são considerados como normalizados os objectos de forma rectangular cujo comprimento não seja inferior à largura multiplicada por [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valor aproximado: 1,4) e que, segundo a sua apresentação, satisfaçam as condições seguintes:
 
 a) Objectos com sobrescrito:
 
@@ -1865,7 +1866,7 @@ As cartas dobradas expedidas a descoberto (sem sobrescrito) que não apresentem 
 
 1 - As taxas previstas na Convenção e que são cobradas além das taxas de franquia mencionadas no artigo 19 denominam-se «taxas especiais». O seu quantitativo é fixado de acordo com as indicações do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
 
 2 - Os Países membros que aplicam no seu serviço interno taxas superiores às indicadas no parágrafo 1 ficam autorizados a aplicar estas mesmas taxas no serviço internacional.
 
@@ -2363,7 +2364,7 @@ Salvo os casos previstos pela Convenção e acordos, as administrações postais
 
 1 - Sem prejuízo do artigo 63, as malas fechadas permutadas entre 2 administrações ou entre 2 estações de um mesmo país por intermédio dos serviços de uma ou de várias outras administrações (serviços de terceiros) ficam sujeitas aos direitos de trânsito indicados no quadro abaixo, a favor de cada um dos países atravessados ou cujos serviços tomam parte no transporte. Estes direitos ficam a cargo da administração do país de origem da mala.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf)
 
 2 - Quando um país permite que o seu território seja atravessado por um serviço de transporte estrangeiro sem participação dos seus serviços nos termos do artigo 3, o correio encaminhado por esta forma não fica sujeito aos direitos de trânsito.
 
@@ -2447,7 +2448,7 @@ a) Dimensões mínimas: idênticas às das cartas;
 
 b) Dimensões máximas: 110 mm x 220 mm;
 
-e tais que o comprimento seja igual ou superior à largura multiplicada por [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valor aproximado: 1,4).
+e tais que o comprimento seja igual ou superior à largura multiplicada por [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19900/30253078.pdf) (valor aproximado: 1,4).
 
 3 - A parte da frente do aerograma é reservada para o endereço, para as franquias e para as menções ou etiquetas de serviço. Deve apresentar, obrigatoriamente, a menção impressa «Aérogramme» e, facultativamente, uma menção análoga na língua do país de origem. O aerograma não deve conter objecto algum. Pode ser expedido sob registo, se os regulamentos do país de origem o permitirem.
 
@@ -2665,29 +2666,23 @@ Protocolo Final da Convenção Postal Universal
 
 No momento de se proceder à assinatura da Convenção Postal Universal, celebrada na data de hoje, os plenipotenciários abaixo assinados acordaram no seguinte:
 
-ARTIGO I
-
-Disposição dos objectos postais
+###### ARTIGO I — Disposição dos objectos postais
 
 1 - O artigo 5 não se aplica à Austrália, Estado do Bahrain, Barbados, República do Botswana, Canadá, República Árabe do Egipto, Fidji, República de Gâmbia, Ghana, Reino Unido da Grã-Bretanha e da Irlanda do Norte, territórios do ultramar cujas relações internacionais são asseguradas pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte, Grenade, Guiana, Irlanda, Jamaica, República do Quénia, Kuwait, Reino do Lesotho, Malásia, Malawi, Malta, Maurícia, República de Nauru, República Federal da Nigéria, Nova Zelândia, Uganda, Papuásia-Nova Guiné, Estado de Qatar, República das Seychelles, República da Serra Leoa, Singapura, Reino da Suazilândia, República Unida da Tanzânia, República de Trindade e Tabago, República Árabe do Iémene e República da Zâmbia.
 
 2 - Este artigo não se aplica igualmente ao Reino da Dinamarca, cuja legislação não permite a restituição ou modificação de endereço de correspondências postais a pedido do remetente, desde o momento em que o destinatário foi informado da chegada de um objecto que lhe é endereçado.
 
-ARTIGO II
-
-Excepção à isenção de franquia dos cecogramas
+###### ARTIGO II — Excepção à isenção de franquia dos cecogramas
 
 1 - Derrogando o artigo 17, as administrações postais do território do ultramar de São Vicente, cujas relações internacionais são asseguradas pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte, das Filipinas, de Portugal e da Turquia, que não concedem, no seu serviço interno, isenção de franquia aos cecogramas, têm a faculdade de cobrar as taxas de franquia e as taxas especiais previstas no artigo 17, que, todavia, não podem ser superiores às do seu serviço interno.
 
 2 - Derrogando o artigo 17, as administrações da República Federal da Alemanha, dos Estados Unidos da América, do Canadá, do Reino Unido da Grã-Bretanha e da Irlanda do Norte e do Japão têm a faculdade de cobrar as taxas especiais enumeradas no artigo 24, parágrafo 1, e a taxa de reembolso que são aplicadas aos cecogramas no seu serviço interno.
 
-ARTIGO III
-
-Equivalentes. Limites máximos
+###### ARTIGO III — Equivalentes. Limites máximos
 
 A título excepcional, os Países membros ficam autorizados a exceder os limites máximos indicados no artigo 19, parágrafo 1, se tal for necessário para que as suas taxas correspondam aos custos de exploração dos seus serviços. Os Países membros interessados em beneficiar desta disposição devem comunicá-lo à Secretaria Internacional logo que possível.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Onça e libra «avoirdupois»
 
@@ -2707,45 +2702,31 @@ Até 1000 g - 2 lb;
 
 Por 1000 g em excesso - 2 lb.
 
-ARTIGO V
-
-Derrogação às dimensões dos objectos com sobrescrito
+###### ARTIGO V — Derrogação às dimensões dos objectos com sobrescrito
 
 As administrações do Canadá, dos Estados Unidos da América, do Quénia, do Uganda e da Tanzânia não ficam obrigadas a desaconselhar o emprego de sobrescritos cujo formato exceda as dimensões recomendadas, quando esses sobrescritos sejam largamente utilizados nos seus países.
 
-ARTIGO VI
-
-Pacotes postais
+###### ARTIGO VI — Pacotes postais
 
 A obrigação de participar na permuta de pacotes postais que excedam o peso de 500 g não se aplica às administrações da Austrália, do Butão, da Birmânia, Papuásia - Nova Guiné, que estão impossibilitadas de da Bolívia, do Canadá, da Colômbia, de Cuba e da executar essa permuta.
 
-ARTIGO VII
-
-Depósito de correspondência no estrangeiro
+###### ARTIGO VII — Depósito de correspondência no estrangeiro
 
 A administração postal da Grã-Bretanha reserva-se o direito de cobrar uma taxa, proporcional ao trabalho causado, de qualquer administração que, em virtude do artigo 23, parágrafo 4, lhe devolver objectos que, à partida, não tenham sido expedidos pela administração postal da Grã-Bretanha como correspondências postais.
 
-ARTIGO VIII
-
-Cupões-resposta internacionais emitidos antes de 1 de Janeiro de 1975
+###### ARTIGO VIII — Cupões-resposta internacionais emitidos antes de 1 de Janeiro de 1975
 
 A partir de 1 de Janeiro de 1979, os cupões-resposta internacionais emitidos antes de 1 de Janeiro de 1975 não motivam pagamentos entre administrações, salvo acordo especial.
 
-ARTIGO IX
-
-Restituição. Modificação ou correcção de endereço
+###### ARTIGO IX — Restituição. Modificação ou correcção de endereço
 
 O artigo 33 não se aplica à Austrália, Commonwealth das Baamas, Estado do Bahrain, Barbados, República Socialista da União da Birmânia, República do Botswana, Canadá, Fidji, República de Gâmbia, Reino Unido da Grã-Bretanha e da Irlanda do Norte, territórios do ultramar cujas relações internacionais são asseguradas pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte, Grenade, Guiana, Irlanda, Jamaica, República do Quénia, Kuwait, Reino do Lesotho, Malásia, Malawi, Malta, República de Nauru, República Federal da Nigéria, Nova Zelândia, Uganda, Papuásia-Nova Guiné, Estado de Qatar, República das Seychelles, República da Serra Leoa, Singapura, Reino da Suazilândia, República Unida da Tanzânia, República de Trindade e Tabago e República da Zâmbia, cuja legislação não permite a restituição ou a modificação de endereço da correspondência postal a pedido do remetente.
 
-ARTIGO X
-
-Taxas especiais
+###### ARTIGO X — Taxas especiais
 
 Em vez da taxa de registo prevista no artigo 47, parágrafo 1, alínea b), os Países membros têm a faculdade de aplicar nas cartas com valor declarado a taxa correspondente do seu serviço interno ou, excepcionalmente, uma taxa de 10 francos, no máximo.
 
-ARTIGO XI
-
-Objectos sujeitos a direitos aduaneiros
+###### ARTIGO XI — Objectos sujeitos a direitos aduaneiros
 
 1 - Em referência ao artigo 36, as administrações postais dos países seguintes não aceitam cartas com valor declarado que contenham objectos sujeitos a direitos aduaneiros: República Popular do Bangladesh, República Popular da China e República de El Salvador
 
@@ -2755,91 +2736,63 @@ Objectos sujeitos a direitos aduaneiros
 
 4 - Não obstante os parágrafos 1 a 3, as remessas de soro e de vacinas, bem como as remessas de medicamentos de necessidade urgente, difíceis de obter, são admitidas em todos os casos.
 
-ARTIGO XII
-
-Âmbito da responsabilidade das administrações postais
+###### ARTIGO XII — Âmbito da responsabilidade das administrações postais
 
 1 - As administrações postais do Bangladesh, da Bélgica, de Benim, da República da Costa do Marfim, do Alto Volta, da Índia, de Madagáscar, do Mali, da Mauritânia, do México, do Níger, do Senegal, do Togo e da Turquia ficam autorizadas a não aplicar as disposições do artigo 50, parágrafo 2.
 
 2 - A administração postal do Brasil fica autorizada a não aplicar as disposições do artigo 50 no que diz respeito à responsabilidade no caso de avaria.
 
-ARTIGO XIII
-
-Pagamento das indemnizações
+###### ARTIGO XIII — Pagamento das indemnizações
 
 As administrações postais do Bangladesh e do México não ficam obrigadas ao cumprimento das disposições do artigo 57, parágrafo 4, da Convenção no que diz respeito a dar uma solução definitiva no prazo de 5 meses ou a comunicar à administração de origem ou de destino, segundo o caso, que uma correspondência postal foi retida, confiscada ou destruída pela autoridade competente por motivo do seu conteúdo ou apreendida em virtude da sua legislação interna.
 
-ARTIGO XIV
-
-Direitos especiais de trânsito pelo Transiberiano e no lago Nasser
+###### ARTIGO XIV — Direitos especiais de trânsito pelo Transiberiano e no lago Nasser
 
 1 - A administração postal da União das Repúblicas Socialistas Soviéticas fica autorizada a cobrar um suplemento de 50 cêntimos além dos direitos de trânsito mencionados no artigo 61, parágrafo 1, 1.º «Percursos terrestres», por cada quilograma de correspondência postal transportado em trânsito pelo Transiberiano.
 
 2 - As administrações postais da República Árabe do Egipto e da República Democrática do Sudão ficam autorizadas a cobrar um suplemento de 50 cêntimos além dos direitos de trânsito mencionados no artigo 61, parágrafo 1, por cada saco de correspondência em trânsito pelo lago Nasser entre Shallal (Egipto) e Wadi Halfa (Sudão).
 
-ARTIGO XV
-
-Condições especiais de trânsito para o Panamá (Rep.)
+###### ARTIGO XV — Condições especiais de trânsito para o Panamá (Rep.)
 
 A administração postal da República do Panamá fica autorizada a cobrar um suplemento de 2 francos sobre os direitos de trânsito mencionados no artigo 61, parágrafo 1, por cada mala de correspondência em trânsito pelo istmo do Panamá entre os portos de Balboa, no oceano Pacífico, e de Cristobal, no oceano Atlântico.
 
-ARTIGO XVI
-
-Condições especiais de trânsito para o Afeganistão
+###### ARTIGO XVI — Condições especiais de trânsito para o Afeganistão
 
 Derrogando o artigo 61, parágrafo 1, a administração postal do Afeganistão fica autorizada provisoriamente, por motivo de dificuldades especiais que se lhe deparam em matéria de meios de transporte e de comunicação, a efectuar o trânsito de malas fechadas e de correspondência a descoberto através do seu país, em condições especialmente combinadas entre ela e as administrações postais interessadas.
 
-ARTIGO XVII
-
-Direitos especiais de entreposto no Panamá
+###### ARTIGO XVII — Direitos especiais de entreposto no Panamá
 
 Excepcionalmente, a administração postal da República do Panamá fica autorizada a cobrar uma taxa de 1 franco por saco para todas as expedições arrecadadas nos entrepostos ou transbordadas no porto de Balboa ou no de Cristobal, desde que esta administração não receba nenhuma remuneração relativa a direitos de trânsito terrestre ou marítimo por estas malas.
 
-ARTIGO XVIII
-
-Sobretaxa aérea excepcional
+###### ARTIGO XVIII — Sobretaxa aérea excepcional
 
 Devido à situação geográfica especial da União das Repúblicas Socialistas Soviéticas, a administração postal deste país reserva-se o direito de aplicar uma sobretaxa uniforme em todo o seu território para todos os países do mundo. Esta sobretaxa não excederá os encargos reais derivados do transporte da correspondência postal por via aérea.
 
-ARTIGO XIX
-
-Serviços extraordinários
+###### ARTIGO XIX — Serviços extraordinários
 
 Apenas são considerados como serviços extraordinários, dando lugar à cobrança de direitos de trânsito especiais, os serviços automóveis Síria-Iraque.
 
-ARTIGO XX
-
-Encaminhamento obrigatório indicado pelo país de origem
+###### ARTIGO XX — Encaminhamento obrigatório indicado pelo país de origem
 
 As administrações postais da República Socialista Soviética da Bielo Rússia, da República Socialista da Roménia, da República Socialista Soviética da Ucrânia e da União das Repúblicas Socialistas Soviéticas só aceitarão os encargos do transporte efectuado de acordo com a disposição respeitante à linha indicada nos rótulos dos sacos (AV 8) da expedição-avião e nas guias de entrega AV7.
 
-ARTIGO XXI
-
-Encaminhamento das malas-avião fechadas
+###### ARTIGO XXI — Encaminhamento das malas-avião fechadas
 
 No que respeita ao artigo XX, as administrações postais da Grécia, da Itália e do Senegal não asseguram o encaminhamento das malas-avião fechadas senão nas condições previstas no artigo 74, parágrafo 3.
 
-ARTIGO XXII
-
-Data de aplicação da nova unidade monetária para as contas gerais
+###### ARTIGO XXII — Data de aplicação da nova unidade monetária para as contas gerais
 
 Derrogando o artigo 86, a unidade monetária estabelecida no artigo 8, ou seja o DTS, será utilizada a partir de 1 de Janeiro de 1981 na organização da conta geral anual dos direitos de trânsito e dos encargos terminais (artigo 181 do regulamento de execução da Convenção), bem como na conta bienal dos cupões-resposta internacionais (artigo 191 do regulamento de execução da Convenção).
 
-ARTIGO XXIII
-
-Aplicação das taxas de direitos de trânsito e de encargos terminais
+###### ARTIGO XXIII — Aplicação das taxas de direitos de trânsito e de encargos terminais
 
 Derrogando o artigo 86 da Convenção, as taxas relativas aos direitos de trânsito e aos encargos terminais entram em vigor a partir de 1 de Janeiro de 1981.
 
-ARTIGO XXIV
-
-Aplicação das taxas de franquia
+###### ARTIGO XXIV — Aplicação das taxas de franquia
 
 Derrogando o artigo 86, no caso de os direitos de trânsito e os encargos terminais referidos nos artigos 61 e 62 entrarem em vigor em data anterior à da fixada no artigo 86 para a entrada em execução da Convenção, as administrações dos Estados Unidos da América, da França, da Grã-Bretanha e da Jugoslávia reservam-se o direito de aplicar na mesma data o artigo 19, relativo às taxas de franquia.
 
-ARTIGO XXV
-
-Aplicação dos direitos de transporte aéreo do correio
+###### ARTIGO XXV — Aplicação dos direitos de transporte aéreo do correio
 
 Derrogando o artigo 86, no caso de os direitos de trânsito e encargos terminais referidos nos artigos 61 e 62 serem aplicados em data anterior à da entrada em vigor da Convenção, fixada no artigo 86, a administração dos Estados Unidos da América reserva-se o direito, a partir da mesma data, de aplicar o artigo 79, relativo à taxa de transporte aéreo do correio.
 

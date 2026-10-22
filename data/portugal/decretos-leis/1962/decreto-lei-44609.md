@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44609-1962-160339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbfdb098057b33cc8e191ef20ba59dabfaba8aa89867b6457fd0b0703963a90b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad723283e15d729583fc1a14c52c8328f2200fa7b6db84c30f8887150d9df09e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Baldio
+- ILHA das Flores
+- Lajes das Flores
+- Ordenamento do Território
+- Política de Solos
+- Regime Florestal
+- Santa CRUZ das Flores
+relationships:
+- type: cites
+  target: pt:dre:365973:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:613180:por
+  label: "Rectificado o art. 1º pela RECT.DD696.15.10.1962.PC, DG.IS [237-Supl] de 15.10.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1962-613180
+  date: '1962-10-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:33Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +108,11 @@ Atendendo ao parecer favorável do conselho técnico dos serviços florestais;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São submetidos, por utilidade pública, ao regime florestal parcial obrigatório os baldios municipais do concelho de Lajes das Flores, situados nos limites das freguesias de Fajã Grande, Fajãzinha, Mosteiro, Lajedo, Lajes, Fazenda e Lomba, os baldios municipais do concelho de Santa Cruz, Cedros e Ponta Delgada, e os baldios paroquiais de Caveira, situados nos limites daquela freguesia, também deste concelho, e todos situados na ilha das Flores, do distrito da Horta.
+Artigo 1.º São submetidos, por utilidade pública, ao regime florestal parcial obrigatório os baldios municipais do concelho de Lajes das Flores, situados nos limites das freguesias de Fajã Grande, Fajãzinha, Mosteiro, Lajedo, Lajes, Fazenda e Lomba, os baldios municipais do concelho de Santa Cruz, Cedros e Ponta Delgada, e os baldios paroquiais de Caveira, situados nos limites daquela freguesia, também deste concelho, e todos situados na ilha das Flores, do distrito da Horta.
 
-###### Art. 2.º A arborização e exploração destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos, entre este e os corpos administrativos, será feita proporcionalmente às despesas custeadas pelo Estado e ao valor médio atribuído ao terreno, de 4500$00 por hectare.
+Art. 2.º A arborização e exploração destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos, entre este e os corpos administrativos, será feita proporcionalmente às despesas custeadas pelo Estado e ao valor médio atribuído ao terreno, de 4500$00 por hectare.
 
-###### Art. 3.º Aos povos limítrofes é reconhecido, dentro deste perímetro florestal, sem prejuízo dos trabalhos de arborização e segundo as prescrições a estabelecer, o direito de:
+Art. 3.º Aos povos limítrofes é reconhecido, dentro deste perímetro florestal, sem prejuízo dos trabalhos de arborização e segundo as prescrições a estabelecer, o direito de:
 
 a) Apascentação de gados;
 
@@ -109,16 +126,16 @@ e) Aproveitamento das águas para o respectivo abastecimento, sem prejuízo das 
 
 f) Utilização das serventias indispensáveis ao trânsito de pessoas, veículos e gados nos caminhos existentes, cujo traçado, no entanto, poderá ser alterado conforme se julgar conveniente.
 
-###### Art. 4.º Com vista a dar continuidade ao perímetro e à rectificação das suas estremas, deverão os serviços florestais promover a eliminação dos prédios particulares que existam encravados no perímetro, podendo, para esse efeito:
+Art. 4.º Com vista a dar continuidade ao perímetro e à rectificação das suas estremas, deverão os serviços florestais promover a eliminação dos prédios particulares que existam encravados no perímetro, podendo, para esse efeito:
 
 a) Propor ao corpo administrativo respectivo a sua troca, que se realizará com dispensa das formalidades prescritas no Código Administrativo, por terrenos baldios, situados na periferia do perímetro, com área e valor idênticos;
 
 b) Adquiri-los por compra ou expropriação, só podendo esta efectuar-se quando se não chegue a acordo quanto à sua aquisição por compra ou troca.
 
-###### Art. 5.º Estes baldios ficam constituindo o perímetro florestal das Flores.
+Art. 5.º Estes baldios ficam constituindo o perímetro florestal das Flores.
 
-###### Art. 6.º Os trabalhos projectados e superiormente aprovados serão levados a efeito em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
+Art. 6.º Os trabalhos projectados e superiormente aprovados serão levados a efeito em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

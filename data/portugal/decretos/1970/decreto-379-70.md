@@ -52,18 +52,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/379-1970-139258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7c443b99ddc625a478cc58c8960c318973db1eb6ada08b0de0fccead260fdd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0636e9b9ea5465977a26e9c8a8cad035909a88d52aec730218fecbf069d2b169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:44Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -130,14 +134,14 @@ Ministério das Corporações e Previdência Social
 
 Telefones do ano de 1969 pertencentes ao Conselho Superior da Previdência e Habitações Económicas ... 176$50
 
-###### Art. 2.º É autorizada a 9.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita em «Despesas com a recepção, manutenção e colocação dos indivíduos nacionais que residiam na índia Portuguesa - Despesa extraordinária» do actual orçamento do Ministério do Ultramar, o encargo de 1582147$30, do ano de 1969.
+Art. 2.º É autorizada a 9.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita em «Despesas com a recepção, manutenção e colocação dos indivíduos nacionais que residiam na índia Portuguesa - Despesa extraordinária» do actual orçamento do Ministério do Ultramar, o encargo de 1582147$30, do ano de 1969.
 
-###### Art. 3.º Fica igualmente autorizada a Junta Autónoma dos Portos do Distrito de Ponta Delgada a satisfazer, em conta da verba de «Despesas de anos económicos findos» inscrita no seu actual orçamento privativo, a quantia de 606$00, respeitante ao subsídio de residência de um motorista marítimo de 1.ª classe.
+Art. 3.º Fica igualmente autorizada a Junta Autónoma dos Portos do Distrito de Ponta Delgada a satisfazer, em conta da verba de «Despesas de anos económicos findos» inscrita no seu actual orçamento privativo, a quantia de 606$00, respeitante ao subsídio de residência de um motorista marítimo de 1.ª classe.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 31 de Julho de 1970.**
+Promulgado em 31 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/288-1971-643703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 987a92189d58d3e3194e8abdce4200fcf070d23086d86118a497f8f51ff35604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9104834a8824df550553d980ba05e8339329af1fbd33293aa3be29d3269ef08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:05Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +93,16 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A taxa da posição 63.01 da pauta mínima de importação da província de Angola passa a ser 40 por cento ad valorem.
+Artigo 1.º A taxa da posição 63.01 da pauta mínima de importação da província de Angola passa a ser 40 por cento ad valorem.
 
-###### Art. 2.º É eliminada a nota à posição referida no artigo 1.º
+Art. 2.º É eliminada a nota à posição referida no artigo 1.º
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Junho de 1971.**
+Promulgado em 23 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

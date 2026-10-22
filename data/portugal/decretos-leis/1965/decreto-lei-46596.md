@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46596-1965-510664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bf9571857036088d55c02c6ee40fd29f11d2e1808ca1f0be445445cc238b9d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f50e8d348da1063275d7b142b97ff650b27a044c52a437f56a78203f750fc67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Corporativa
+- Definição de Competências
+- Orgânica
+- Organismo Corporativo
 relationships:
 - type: amended_by
   target: pt:dre:216969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:514837:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:58Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +101,12 @@ Atendendo à necessidade de assegurar a todo o momento a melhor e mais ajustada 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 5.º do [Decreto-Lei n.º 43178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43178-1960-514837), de 23 de Setembro de 1960, passa a ter a seguinte redacção:
+Artigo único. O artigo 5.º do [Decreto-Lei n.º 43178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43178-1960-514837), de 23 de Setembro de 1960, passa a ter a seguinte redacção:
 
-###### Art. 5.º O Conselho Corporativo poderá alterar o número, a composição e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, independentemente da forma como os mesmos se encontram estruturados nas corporações, nomeadamente para permitir a melhor representatividade de tais agrupamentos na Câmara Corporativa ou para adaptar a organização desta às corporações que forem instituídas.
+Art. 5.º O Conselho Corporativo poderá alterar o número, a composição e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, independentemente da forma como os mesmos se encontram estruturados nas corporações, nomeadamente para permitir a melhor representatividade de tais agrupamentos na Câmara Corporativa ou para adaptar a organização desta às corporações que forem instituídas.
 
 § único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses, nos termos a fixar pelo Conselho Corporativo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

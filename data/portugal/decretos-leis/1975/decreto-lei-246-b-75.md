@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 117/1975, 2º Suplemento, Série I de 1975-05-21
   number: '117'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 706-(3) a 706-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/11702/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd1f79a33d08034da047edfa5cd228ff9b91337790bdf392994f6703c872c676
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 848862a2d1988403f2a6050146ecb69c03c5cbeffc127257e2d6d054ad2d0d63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Quadro de Pessoal
+- Serviços de Apoio ao Conselho da Revolução
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507432:por
+  label: "Alterado o quadro de pessoal pelo DEC LEI.179/76.09.03.1976.CR, DG.IS [58] de 09.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1976-507432
+  date: '1976-03-09'
+- type: amended_by
+  target: pt:dre:251587:por
+  label: "Alterado o quadro de pessoal anexo pelo DEC LEI.184/77.06.05.1977.CR, DR.IS [105] de 06.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1977-251587
+  date: '1977-05-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:335972:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:37Z'
   warnings: []
   errors: []
 ---
@@ -92,47 +115,47 @@ As atribuições conferidas ao Conselho da Revolução pela Lei Constitucional n
 
 Assim, nos termos do disposto no artigo 2.º da Lei Constitucional n.º 3/75, de 14 de Fevereiro, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os Serviços de Apoio do Conselho da Revolução, adiante designados apenas por SACR, são um órgão de apoio administrativo e técnico do Conselho da Revolução e à sua Comissão Consultiva, criada pelo [Decreto-Lei n.º 147-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-b-1975-335972).
+Artigo 1.º Os Serviços de Apoio do Conselho da Revolução, adiante designados apenas por SACR, são um órgão de apoio administrativo e técnico do Conselho da Revolução e à sua Comissão Consultiva, criada pelo [Decreto-Lei n.º 147-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-b-1975-335972).
 
-###### Art. 2.º Os SACR serão presididos por um dos membros do Conselho da Revolução que este designará especialmente para o efeito.
+Art. 2.º Os SACR serão presididos por um dos membros do Conselho da Revolução que este designará especialmente para o efeito.
 
-###### Art. 3.º Ao presidente compete dirigir superiormente os SACR e orientar e coordenar as suas actividades, tendo, para todos os efeitos, competência igual à de Ministro.
+Art. 3.º Ao presidente compete dirigir superiormente os SACR e orientar e coordenar as suas actividades, tendo, para todos os efeitos, competência igual à de Ministro.
 
-###### Art. 4.º Os SACR gozam de autonomia administrativa.
+Art. 4.º Os SACR gozam de autonomia administrativa.
 
-###### Art. 5.º Constituem encargos dos SACR os que resultarem da execução das suas actividades de acordo com o presente diploma e ainda os que resultarem de determinações do Conselho da Revolução.
+Art. 5.º Constituem encargos dos SACR os que resultarem da execução das suas actividades de acordo com o presente diploma e ainda os que resultarem de determinações do Conselho da Revolução.
 
-###### Art. 6.º - 1. Os SACR terão um conselho administrativo, que será constituído por um presidente, um chefe de contabilidade e um tesoureiro.
+Art. 6.º - 1. Os SACR terão um conselho administrativo, que será constituído por um presidente, um chefe de contabilidade e um tesoureiro.
 
 2. Os lugares previstos no número anterior serão preenchidos por oficiais das forças armadas, devendo o presidente ser um oficial superior.
 
-###### Art. 7.º - 1. Os SACR disporão de um Secretariado Coordenador.
+Art. 7.º - 1. Os SACR disporão de um Secretariado Coordenador.
 
 2. São atribuições do Secretariado Coordenador assegurar o apoio técnico e administrativo ao Conselho da Revolução e suas comissões e grupos de trabalho e à Comissão Consultiva criada pelo [Decreto-Lei n.º 147-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-b-1975-335972), bem como os assuntos relativos à gestão de pessoal dos SACR.
 
-###### Art. 8.º O Secretariado Coordenador será constituído por uma Repartição de Expediente e por um Gabinete Técnico.
+Art. 8.º O Secretariado Coordenador será constituído por uma Repartição de Expediente e por um Gabinete Técnico.
 
-###### Art. 9.º À Repartição de Expediente compete assegurar o expediente do Conselho da Revolução e suas comissões e grupos de trabalho e da Comissão Consultiva criada pelo [Decreto-Lei n.º 147-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-b-1975-335972), bem como prestar-lhes o apoio administrativo de que careçam e prover à gestão de pessoal dos SACR.
+Art. 9.º À Repartição de Expediente compete assegurar o expediente do Conselho da Revolução e suas comissões e grupos de trabalho e da Comissão Consultiva criada pelo [Decreto-Lei n.º 147-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-b-1975-335972), bem como prestar-lhes o apoio administrativo de que careçam e prover à gestão de pessoal dos SACR.
 
-###### Art. 10.º - 1. Ao Gabinete Técnico compete prestar apoio ao Conselho da Revolução e suas comissões e grupos de trabalho e à Comissão Consultiva, no que diz respeito à realização de todos os estudos de carácter técnico que sejam necessários à prossecução dos fins daqueles órgãos.
+Art. 10.º - 1. Ao Gabinete Técnico compete prestar apoio ao Conselho da Revolução e suas comissões e grupos de trabalho e à Comissão Consultiva, no que diz respeito à realização de todos os estudos de carácter técnico que sejam necessários à prossecução dos fins daqueles órgãos.
 
 2. A coordenação do Gabinete Técnico será exercida directamente pelo secretário permanente.
 
-###### Art. 11.º Poderão ser constituídas dentro dos SACR as comissões eventuais que se mostrem convenientes para o exercício de funções de estudo ou executivas de carácter transitório, cujo desempenho não possa ser assegurado por outra forma.
+Art. 11.º Poderão ser constituídas dentro dos SACR as comissões eventuais que se mostrem convenientes para o exercício de funções de estudo ou executivas de carácter transitório, cujo desempenho não possa ser assegurado por outra forma.
 
-###### Art. 12.º - 1. O Secretariado Coordenador será dirigido pelo secretário permanente do Conselho da Revolução.
+Art. 12.º - 1. O Secretariado Coordenador será dirigido pelo secretário permanente do Conselho da Revolução.
 
 2. Compete ao secretário permanente, para além das suas funções específicas junto do Conselho da Revolução, superintender no Secretariado Coordenador, submetendo a despacho do presidente dos SACR os assuntos que careçam de resolução superior.
 
 3. O secretário permanente poderá receber do presidente dos SACR delegação de competência para despachar assuntos relativos ao funcionamento do Secretariado.
 
-###### Art. 13.º - 1. O secretário permanente será coadjuvado por dois secretários permanentes-adjuntos, que exercerão as funções que por aquele lhes forem confiadas.
+Art. 13.º - 1. O secretário permanente será coadjuvado por dois secretários permanentes-adjuntos, que exercerão as funções que por aquele lhes forem confiadas.
 
 2. Nas faltas e impedimentos do secretário permanente, um dos adjuntos substituí-lo-á nas funções de secretário do Conselho da Revolução e outro na direcção do Secretariado Coordenador.
 
-###### Art. 14.º O secretário permanente e os dois secretários permanentes-adjuntos do Conselho da Revolução serão oficiais superiores das forças armadas nomeados por despacho do presidente dos SACR e por ele escolhidos, ouvido o Conselho da Revolução, com dispensa do visto do Tribunal de Contas.
+Art. 14.º O secretário permanente e os dois secretários permanentes-adjuntos do Conselho da Revolução serão oficiais superiores das forças armadas nomeados por despacho do presidente dos SACR e por ele escolhidos, ouvido o Conselho da Revolução, com dispensa do visto do Tribunal de Contas.
 
-###### Art. 15.º - 1. O pessoal dirigente, técnico, administrativo e auxiliar dos SACR constitui um quadro único, com a composição que consta do mapa anexo ao presente diploma.
+Art. 15.º - 1. O pessoal dirigente, técnico, administrativo e auxiliar dos SACR constitui um quadro único, com a composição que consta do mapa anexo ao presente diploma.
 
 2. O pessoal técnico será colocado no Gabinete Técnico.
 
@@ -140,19 +163,19 @@ Assim, nos termos do disposto no artigo 2.º da Lei Constitucional n.º 3/75, de
 
 4. O pessoal referido nos n.os 2 e 3 poderá ser destacado para apoiar directamente as comissões e grupos de trabalho do Conselho da Revolução, Comissão Consultiva e conselho administrativo, mediante despacho do secretário permanente.
 
-###### Art. 16.º Os lugares de especialistas e de técnicos de 1.ª e 2.ª incluídos no quadro anexo ao presente diploma serão preenchidos por licenciados com curso superior ou por oficiais superiores ou subalternos das forças armadas.
+Art. 16.º Os lugares de especialistas e de técnicos de 1.ª e 2.ª incluídos no quadro anexo ao presente diploma serão preenchidos por licenciados com curso superior ou por oficiais superiores ou subalternos das forças armadas.
 
-###### Art. 17.º Com excepção dos cargos referidos no artigo 14.º deste diploma, todo o pessoal contratado ou nomeado ao abrigo do presente decreto-lei sê-lo-á por despacho do presidente dos SACR, mediante proposta do secretário permanente, com dispensa do visto do Tribunal de Contas e independentemente de outros requisitos legais.
+Art. 17.º Com excepção dos cargos referidos no artigo 14.º deste diploma, todo o pessoal contratado ou nomeado ao abrigo do presente decreto-lei sê-lo-á por despacho do presidente dos SACR, mediante proposta do secretário permanente, com dispensa do visto do Tribunal de Contas e independentemente de outros requisitos legais.
 
-###### Art. 18.º O presidente dos SACR poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado além dos quadros pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 18.º O presidente dos SACR poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado além dos quadros pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
-###### Art. 19.º - 1. O secretário permanente poderá propor superiormente a admissão de pessoal em regime de prestação de serviços ou para prestação de trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Secretariado Coordenador.
+Art. 19.º - 1. O secretário permanente poderá propor superiormente a admissão de pessoal em regime de prestação de serviços ou para prestação de trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Secretariado Coordenador.
 
 2. A duração, termos e remunerações dos contratos de prestação de serviços, bem como dos trabalhos de carácter eventual previstos no n.º 1, serão estabelecidos por despacho do presidente dos SACR.
 
 3. As remunerações fixadas nos termos dos números anteriores serão pagas por força de dotações próprias a inscrever para tal fim no orçamento dos SACR.
 
-###### Art. 20.º - 1. Podem os SACR, ouvido o Ministro competente, requisitar funcionários dos quadros do Estado, incluindo os seus serviços personalizados, para prestarem serviço junto dos SACR.
+Art. 20.º - 1. Podem os SACR, ouvido o Ministro competente, requisitar funcionários dos quadros do Estado, incluindo os seus serviços personalizados, para prestarem serviço junto dos SACR.
 
 2. A requisição será feita por despacho do presidente dos SACR e poderá cessar a todo o tempo por decisão da mesma entidade.
 
@@ -160,32 +183,32 @@ Assim, nos termos do disposto no artigo 2.º da Lei Constitucional n.º 3/75, de
 
 4. A requisição feita nos termos deste artigo é dispensada de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
 
-###### Art. 21.º - 1. Os militares ou servidores civis do Estado que venham a ser nomeados para ocupar quaisquer cargos nos SACR desempenhá-los-ão em comissão de serviço, podendo optar pelos abonos, vencimentos e gratificações a que tiverem direito nos cargos de origem à data da nomeação, os quais serão atribuídos de conta da dotação a inscrever no orçamento dos SACR sempre que tal se mostre conveniente.
+Art. 21.º - 1. Os militares ou servidores civis do Estado que venham a ser nomeados para ocupar quaisquer cargos nos SACR desempenhá-los-ão em comissão de serviço, podendo optar pelos abonos, vencimentos e gratificações a que tiverem direito nos cargos de origem à data da nomeação, os quais serão atribuídos de conta da dotação a inscrever no orçamento dos SACR sempre que tal se mostre conveniente.
 
 2. Os militares em serviço nos SACR são considerados, para todos os efeitos militares, em comissão normal de serviço.
 
-###### Art. 22.º - 1. Os SACR porão à disposição de cada membro do Conselho da Revolução um secretário particular com o vencimento correspondente à letra J.
+Art. 22.º - 1. Os SACR porão à disposição de cada membro do Conselho da Revolução um secretário particular com o vencimento correspondente à letra J.
 
 2. Os secretários referidos no número anterior serão admitidos nos termos do artigo 19.º ou, se já forem servidores civis do Estado, do artigo 21.º do presente diploma.
 
-###### Art. 23.º - 1. Aos funcionários dos SACR, nomeados ou contratados, cujo horário normal de trabalho seja superior ao habitual ou que realizem especiais tarefas que o justifiquem, poderá ser atribuído um complemento de ordenado com carácter permanente ou temporário, conforme as razões que fundamentem a sua atribuição.
+Art. 23.º - 1. Aos funcionários dos SACR, nomeados ou contratados, cujo horário normal de trabalho seja superior ao habitual ou que realizem especiais tarefas que o justifiquem, poderá ser atribuído um complemento de ordenado com carácter permanente ou temporário, conforme as razões que fundamentem a sua atribuição.
 
 2. O complemento do ordenado a que se refere o número anterior será estabelecido por despacho do presidente dos SACR.
 
-###### Art. 24.º Quando for extinto o Conselho da Revolução, o Governo providenciará no sentido de o pessoal dos quadros dos SACR ser distribuído por outros serviços públicos, mantendo-se as categorias e todas as regalias a que tenham direito à data da extinção.
+Art. 24.º Quando for extinto o Conselho da Revolução, o Governo providenciará no sentido de o pessoal dos quadros dos SACR ser distribuído por outros serviços públicos, mantendo-se as categorias e todas as regalias a que tenham direito à data da extinção.
 
-###### Art. 25.º Para satisfação de todos os encargos resultantes deste diploma serão inscritas dotações globais sob o capítulo 1.º-A «Conselho da Revolução», do vigente orçamento dos Encargos Gerais da Nação.
+Art. 25.º Para satisfação de todos os encargos resultantes deste diploma serão inscritas dotações globais sob o capítulo 1.º-A «Conselho da Revolução», do vigente orçamento dos Encargos Gerais da Nação.
 
-###### Art. 26.º O presente diploma tem efeitos a partir de 1 de Abril de 1975.
+Art. 26.º O presente diploma tem efeitos a partir de 1 de Abril de 1975.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 21 de Maio de 1975.**
+Promulgado em 21 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro a que se refere o artigo 15.º do Decreto-Lei n.º 246-B/75
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/05/11702/00030005.pdf))](https://files.diariodarepublica.pt/1s/1975/05/11702/00030005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/11702/00030005.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/492-1971-631442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5ff71ad6a751316fc9591da578ec94c2a894a51db9c30e3c3ec8667fd3097ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ac8a91bcdd96dca0e507a1cf0c140f2afa62fa38996b6dd9e1f14ceccc3a330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:57Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +91,20 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola a contrair no Instituto de Crédito de Angola um empréstimo, em conta corrente, até ao montante de 33000000$00, passível de juro, à taxa anual de 6 por cento.
+Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola a contrair no Instituto de Crédito de Angola um empréstimo, em conta corrente, até ao montante de 33000000$00, passível de juro, à taxa anual de 6 por cento.
 
-###### Art. 2.º A amortização do empréstimo e respectivos juros será efectuada em seis anos, com início em 1972.
+Art. 2.º A amortização do empréstimo e respectivos juros será efectuada em seis anos, com início em 1972.
 
-###### Art. 3.º As condições do contrato de empréstimo celebrado ao abrigo do presente decreto ficam sujeitas à aprovação do governador-geral de Angola.
+Art. 3.º As condições do contrato de empréstimo celebrado ao abrigo do presente decreto ficam sujeitas à aprovação do governador-geral de Angola.
 
-###### Art. 4.º Todos os encargos resultantes do empréstimo autorizado pelo presente decreto constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos.
+Art. 4.º Todos os encargos resultantes do empréstimo autorizado pelo presente decreto constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Outubro de 1971.**
+Promulgado em 28 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

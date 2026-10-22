@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47023-1966-473488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 791233ec0ffc32cbf3fa5c9f92050ab2b7d4bde14f0d2ea9710a61e004d4e1dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a22abeb767c351c0d1308091eafab39f4507fb2a17b6a240a6092d4ea32a24d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Ministério das Finanças
+- Orgânica
+- Pessoal Administrativo
+- Quadro de Pessoal
+- Remuneração
+- Serviços Mecanográficos do Ministério das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:311224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:199821:por
+  label: "Alterado o quadro de pessoal anexo pelo DEC LEI.49096.03.07.1969.MF, DG.IS [154] de 03.07.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49096-1969-199821
+  date: '1969-07-03'
+- type: amended_by
+  target: pt:dre:311224:por
+  label: "Alterado o quadro de pessoal dos Serviços Mecanográficos do Ministério das Finanças aprovado em anexo ao presente\
+    \ diploma pelo DEC LEI.695/75.12.12.1975.MF, DG.IS [286] de 12.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/695-1975-311224
+  date: '1975-12-12'
+- type: cites
+  target: pt:dre:156639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215560:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:11Z'
   warnings: []
   errors: []
 ---
@@ -97,36 +123,36 @@ Nestas condições;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os Serviços Mecanográficos do Ministério das Finanças são o organismo incumbido de elaborar por processo mecânico os trabalhos relativos às Direcções-Gerais da Contabilidade Pública e das Contribuições e Impostos a que se entenda vantajoso aplicar tal sistema de trabalho.
+Artigo 1.º Os Serviços Mecanográficos do Ministério das Finanças são o organismo incumbido de elaborar por processo mecânico os trabalhos relativos às Direcções-Gerais da Contabilidade Pública e das Contribuições e Impostos a que se entenda vantajoso aplicar tal sistema de trabalho.
 
 § único. O Ministro das Finanças poderá, a solicitação das entidades interessadas e mediante parecer favorável dos Serviços Mecanográficos, autorizar que por estes sejam executados trabalhos respeitantes a outros departamentos do Ministério das Finanças.
 
-###### Art. 2.º O pessoal dos Serviços Mecanográficos é de nomeação vitalícia, com excepção dos dactilógrafos e do pessoal menor, cujos lugares são providos por contrato. O quadro e os vencimentos são os que constam do mapa anexo ao presente decreto-lei.
+Art. 2.º O pessoal dos Serviços Mecanográficos é de nomeação vitalícia, com excepção dos dactilógrafos e do pessoal menor, cujos lugares são providos por contrato. O quadro e os vencimentos são os que constam do mapa anexo ao presente decreto-lei.
 
 § único. O recrutamento de pessoal para enchimento do quadro será efectuado gradualmente e à medida que os trabalhos de mecanização se forem ampliando, o que deverá ser reconhecido por despacho do Ministro das Finanças.
 
-###### Art. 3.º Os funcionários dos Serviços Mecanográficos do Ministério das Finanças podem ser nomeados para exercer, em comissão, quaisquer cargos ou funções públicas.
+Art. 3.º Os funcionários dos Serviços Mecanográficos do Ministério das Finanças podem ser nomeados para exercer, em comissão, quaisquer cargos ou funções públicas.
 
 § único. A situação de comissão não abre vaga, mas o lugar pode ser ocupado interinamente por outro funcionário do quadro enquanto durar a comissão.
 
-###### Art. 4.º Os Serviços Mecanográficos só são responsáveis pela exactidão e oportuna execução mecanográfica dos trabalhos em face dos elementos-base autenticados pelas entidades competentes e apresentados dentro dos prazos estabelecidos.
+Art. 4.º Os Serviços Mecanográficos só são responsáveis pela exactidão e oportuna execução mecanográfica dos trabalhos em face dos elementos-base autenticados pelas entidades competentes e apresentados dentro dos prazos estabelecidos.
 
-###### Art. 5.º Em decreto referendado pelo Ministro das Finanças será aprovado o regulamento necessário à execução deste diploma.
+Art. 5.º Em decreto referendado pelo Ministro das Finanças será aprovado o regulamento necessário à execução deste diploma.
 
-###### Art. 6.º Este decreto-lei revoga os seguintes diplomas:
+Art. 6.º Este decreto-lei revoga os seguintes diplomas:
 
 [Decreto-Lei n.º 39530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39530-1954-215560), de 6 de Fevereiro de 1954;
 
 [Decreto-Lei n.º 44626](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44626-1962-156639), de 15 de Outubro de 1962.
 
-###### Art. 7.º Os encargos resultantes da execução do presente diploma, no decurso do actual ano económico, serão satisfeitos pelas disponibilidades da verba inscrita sob o capítulo 5.º, artigo 49.º, n.º 1), do orçamento do Ministério das Finanças em vigor.
+Art. 7.º Os encargos resultantes da execução do presente diploma, no decurso do actual ano económico, serão satisfeitos pelas disponibilidades da verba inscrita sob o capítulo 5.º, artigo 49.º, n.º 1), do orçamento do Ministério das Finanças em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Mapa a que se refere o artigo 2.º do Decreto-Lei n.º 47023
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12300/07970798.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12300/07970798.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12300/07970798.pdf)
 
 Ministério das Finanças, 25 de Maio de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.

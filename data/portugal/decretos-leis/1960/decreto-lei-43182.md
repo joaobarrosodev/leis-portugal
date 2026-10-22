@@ -48,40 +48,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43182-1960-514841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3a942ff322e527c95de4c51dce052e343362879c2304e4d9c10e56e20ac026e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2c506de4bdd80b8f75f9cf316259e48ab87851e1fd4f46e176ac902bd99aca5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Trabalho
+- Entidade Patronal
+- Horário de Trabalho
+- Inspector Geral do Trabalho
+- Remuneração
+- Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:559609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:41Z'
   warnings: []
   errors: []
 ---
@@ -114,27 +168,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A partir de 1 de Janeiro de 1961, as acções destinadas a exigir o pagamento de serviços prestados em horas suplementares de trabalho ou em dias de descanso semanal só podem ser instauradas no prazo de um ano, a contar do dia seguinte àquele em que o trabalhador tiver recebido da entidade patronal o ordenado ou salário correspondente ao período de tempo em que aqueles serviços tenham sido prestados.
+Artigo 1.º A partir de 1 de Janeiro de 1961, as acções destinadas a exigir o pagamento de serviços prestados em horas suplementares de trabalho ou em dias de descanso semanal só podem ser instauradas no prazo de um ano, a contar do dia seguinte àquele em que o trabalhador tiver recebido da entidade patronal o ordenado ou salário correspondente ao período de tempo em que aqueles serviços tenham sido prestados.
 
 § único. Ao despedimento dos trabalhadores que hajam proposto acções nos termos deste artigo é aplicável o disposto no artigo 4.º do [Decreto-Lei n.º 31280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31280-1941-328793), de 22 de Maio de 1940.
 
-###### Art. 2.º Quando houver necessidade de aproveitar os conhecimentos técnicos de pessoas que estejam directamente ligadas às actividades a inspeccionar, podem os funcionários da Inspecção do Trabalho, durante as suas visitas, fazer-se acompanhar dos dirigentes dos organismos ou dos seus representantes especializados, nos casos e nas condições em que para tanto se encontrem superiormente autorizados.
+Art. 2.º Quando houver necessidade de aproveitar os conhecimentos técnicos de pessoas que estejam directamente ligadas às actividades a inspeccionar, podem os funcionários da Inspecção do Trabalho, durante as suas visitas, fazer-se acompanhar dos dirigentes dos organismos ou dos seus representantes especializados, nos casos e nas condições em que para tanto se encontrem superiormente autorizados.
 
 § único. O Fundo Nacional de Abono de Família poderá, mediante despacho ministerial, destacar pessoal seu para junto da Inspecção do Trabalho, ao qual incumbirá especialmente a fiscalização das matérias relativas ao Fundo ou às instituições de previdência ou de abono de família que abrange.
 
 O pessoal destacado ao abrigo deste preceito perceberá vencimento correspondente ao dos funcionários da Inspecção do Trabalho e terá, para todos os efeitos, a competência que a estes cabe.
 
-###### Art. 3.º As empresas sujeitas ao horário de trabalho são obrigadas, a partir de 1 de Janeiro de 1961, a entregar aos seus trabalhadores, no acto de pagamento do ordenado ou salário, talão no qual figurem o nome completo do empregado ou assalariado, número de inscrição na caixa de previdência respectiva, dias de trabalho a que corresponde a remuneração, diversificação das importâncias relativas a trabalho normal e a horas suplementares ou a trabalho nos dias de descanso semanal ou de feriado, os descontos e montante líquido a receber.
+Art. 3.º As empresas sujeitas ao horário de trabalho são obrigadas, a partir de 1 de Janeiro de 1961, a entregar aos seus trabalhadores, no acto de pagamento do ordenado ou salário, talão no qual figurem o nome completo do empregado ou assalariado, número de inscrição na caixa de previdência respectiva, dias de trabalho a que corresponde a remuneração, diversificação das importâncias relativas a trabalho normal e a horas suplementares ou a trabalho nos dias de descanso semanal ou de feriado, os descontos e montante líquido a receber.
 
 § 1.º O Instituto Nacional do Trabalho e Previdência poderá, por despacho, impor modelo de talão para efeitos deste artigo.
 
 § 2.º As infracções ao disposto no corpo deste artigo e § 1.º serão punidas com multa de 100$00 a 300$00 em relação a dada falta e a cada trabalhador.
 
-###### Art. 4.º Os regulamentos previstos na segunda parte do corpo do artigo 2.º da [Lei n.º 1952](https://diariodarepublica.pt/dr/detalhe/lei/1952-1937-418059), de 10 de Março de 1937, e bem assim os que se destinem à organização e disciplina do trabalho nos estabelecimentos de entidades sujeitas a horário de trabalho só terão validade e poderão ser invocados em juízo desde que tenham sido aprovados pelo Instituto Nacional do Trabalho e Previdência, o qual poderá ouvir as comissões corporativas, quando as houver.
+Art. 4.º Os regulamentos previstos na segunda parte do corpo do artigo 2.º da [Lei n.º 1952](https://diariodarepublica.pt/dr/detalhe/lei/1952-1937-418059), de 10 de Março de 1937, e bem assim os que se destinem à organização e disciplina do trabalho nos estabelecimentos de entidades sujeitas a horário de trabalho só terão validade e poderão ser invocados em juízo desde que tenham sido aprovados pelo Instituto Nacional do Trabalho e Previdência, o qual poderá ouvir as comissões corporativas, quando as houver.
 
 § único. Os regulamentos existentes à data da publicação do presente diploma poderão ser submetidos a aprovação no prazo de um ano.
 
-###### Art. 5.º Sem prejuízo da aplicação das sanções mais elevadas previstas em diplomas especiais ou das indemnizações a que possa haver lugar, as transgressões das disposições do Decreto com força de lei n.º 4351, de 29 de Maio de 1918, e do [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, serão punidas com multa de 500$00 a 2000$00, por cada infracção verificada.
+Art. 5.º Sem prejuízo da aplicação das sanções mais elevadas previstas em diplomas especiais ou das indemnizações a que possa haver lugar, as transgressões das disposições do Decreto com força de lei n.º 4351, de 29 de Maio de 1918, e do [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, serão punidas com multa de 500$00 a 2000$00, por cada infracção verificada.
 
 § 1.º Verificada uma infracção, será levantado o respectivo auto e, independentemente do normal prosseguimento deste, serão fixados prazos, à empresa, para início e conclusão das obras ou modificações necessárias.
 
@@ -146,39 +200,39 @@ O pessoal destacado ao abrigo deste preceito perceberá vencimento correspondent
 
 § 5.º Compete aos tribunais do trabalho o julgamento das transgressões a que este artigo se refere, bem como o de quaisquer outras relativas à higiene e segurança dos locais de trabalho.
 
-###### Art. 6.º O julgamento das transgressões aos preceitos que determinam o encerramento semanal, ou nos dias por lei equiparados ao domingo, mesmo em relação às entidades que não tenham pessoal ao seu serviço, é da competência dos tribunais do trabalho.
+Art. 6.º O julgamento das transgressões aos preceitos que determinam o encerramento semanal, ou nos dias por lei equiparados ao domingo, mesmo em relação às entidades que não tenham pessoal ao seu serviço, é da competência dos tribunais do trabalho.
 
-###### Art. 7.º As entidades sujeitas a horário de trabalho deverão manter permanentemente actualizado o registo do pessoal dos seus estabelecimentos donde constem os respectivos nomes e categorias, data de admissão, promoções e remunerações, dias de início e termo dos períodos de férias, faltas que impliquem perda de salário ou ordenado ou do direito a férias remuneradas, bem como os dias e horas de compensação de feriados obrigatórios.
+Art. 7.º As entidades sujeitas a horário de trabalho deverão manter permanentemente actualizado o registo do pessoal dos seus estabelecimentos donde constem os respectivos nomes e categorias, data de admissão, promoções e remunerações, dias de início e termo dos períodos de férias, faltas que impliquem perda de salário ou ordenado ou do direito a férias remuneradas, bem como os dias e horas de compensação de feriados obrigatórios.
 
 § único. Não poderão constar das folhas de férias a enviar às instituições de previdência e de abono de família faltas diversas das mencionadas no registo do pessoal.
 
-###### Art. 8.º As empresas que utilizem trabalho por turnos deverão ter registo separado do pessoal sujeito a cada turno, de acordo com a escala aprovada.
+Art. 8.º As empresas que utilizem trabalho por turnos deverão ter registo separado do pessoal sujeito a cada turno, de acordo com a escala aprovada.
 
-###### Art. 9.º As formalidades dos registos a que se referem os artigos anteriores e de quaisquer outros exigidos por lei serão determinadas por despacho do Ministro das Corporações e Previdência Social, que, por igual meio, poderá dispensar de todas ou de algumas dessas obrigações as entidades de qualquer ramo de actividade, de um ou vários concelhos, que não tenham mais de dez trabalhadores ao seu serviço.
+Art. 9.º As formalidades dos registos a que se referem os artigos anteriores e de quaisquer outros exigidos por lei serão determinadas por despacho do Ministro das Corporações e Previdência Social, que, por igual meio, poderá dispensar de todas ou de algumas dessas obrigações as entidades de qualquer ramo de actividade, de um ou vários concelhos, que não tenham mais de dez trabalhadores ao seu serviço.
 
-###### Art. 10.º A falta dos registos exigidos por lei e a não observância das normas estabelecidas ao abrigo do artigo anterior serão punidas nos termos do artigo 28.º do [Decreto-Lei n.º 24402](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24402-1934-457994).
+Art. 10.º A falta dos registos exigidos por lei e a não observância das normas estabelecidas ao abrigo do artigo anterior serão punidas nos termos do artigo 28.º do [Decreto-Lei n.º 24402](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24402-1934-457994).
 
 § único. As falsas declarações nos registos serão punidas nos termos do artigo 242.º do Código Penal.
 
-###### Art. 11.º O Ministro das Corporações e Previdência. Social poderá, por portaria, tornar extensivas as disposições sobre horário de trabalho a entidades não abrangidas pelo [Decreto-Lei n.º 24402](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24402-1934-457994).
+Art. 11.º O Ministro das Corporações e Previdência. Social poderá, por portaria, tornar extensivas as disposições sobre horário de trabalho a entidades não abrangidas pelo [Decreto-Lei n.º 24402](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24402-1934-457994).
 
-###### Art. 12.º As multas por falta de pagamento nos prazos estabelecidos, de contribuições ou do envio de folhas de ordenados ou salários às instituições de previdência e de abono de família, ou por prestação de declarações falsas ou incompletas às mesmas instituições, são devidas em relação a cada mês em que a transgressão se verifique.
+Art. 12.º As multas por falta de pagamento nos prazos estabelecidos, de contribuições ou do envio de folhas de ordenados ou salários às instituições de previdência e de abono de família, ou por prestação de declarações falsas ou incompletas às mesmas instituições, são devidas em relação a cada mês em que a transgressão se verifique.
 
-###### Art. 13.º O n.º 4.º do artigo 26.º do [Decreto-Lei n.º 33512](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33512-1944-272204), de 29 de Janeiro de 1944, e o n.º 1.º do artigo 2.º do Decreto-Lei n.º 37739, de 20 de Janeiro de 1950, passam a ter a seguinte redacção:
+Art. 13.º O n.º 4.º do artigo 26.º do [Decreto-Lei n.º 33512](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33512-1944-272204), de 29 de Janeiro de 1944, e o n.º 1.º do artigo 2.º do Decreto-Lei n.º 37739, de 20 de Janeiro de 1950, passam a ter a seguinte redacção:
 
 Metade do aumento sobre a remuneração normal do trabalho que seja devido pela prestação de horas suplementares ou por trabalho nocturno e pelo executado em dia destinado para descanso semanal ou dia feriado de observância obrigatória.
 
-###### Art. 14.º São alterados, pela forma abaixo indicada, os seguintes artigos dos Decretos-Leis n.os 24402, 29931, 32749, 36173, 37245 e 38596, respectivamente de 24 de Agosto de 1934, 15 de Setembro de 1939, 15 de Abril de 1943, 6 de Março de 1947, 27 de Dezembro de 1948 e 4 de Janeiro de 1952:
+Art. 14.º São alterados, pela forma abaixo indicada, os seguintes artigos dos Decretos-Leis n.os 24402, 29931, 32749, 36173, 37245 e 38596, respectivamente de 24 de Agosto de 1934, 15 de Setembro de 1939, 15 de Abril de 1943, 6 de Março de 1947, 27 de Dezembro de 1948 e 4 de Janeiro de 1952:
 
 [Decreto-Lei n.º 24402](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24402-1934-457994):
 
-###### Art. 5.º Em casos de força maior, derivados de acidentes graves, ou ainda naqueles em que a iminência de prejuízos importantes e excepcionais imponha o aumento de horas de trabalho, podem as entidades patronais prolongá-lo além da hora habitual de encerramento, mas deverão fazer antecipadamente a respectiva anotação no registo de horas de trabalho extraordinário, indicando o motivo da realização do trabalho suplementar, sob pena de o não poderem invocar mais tarde.
+Art. 5.º Em casos de força maior, derivados de acidentes graves, ou ainda naqueles em que a iminência de prejuízos importantes e excepcionais imponha o aumento de horas de trabalho, podem as entidades patronais prolongá-lo além da hora habitual de encerramento, mas deverão fazer antecipadamente a respectiva anotação no registo de horas de trabalho extraordinário, indicando o motivo da realização do trabalho suplementar, sob pena de o não poderem invocar mais tarde.
 
 § único. A falta de cumprimento do disposto no corpo deste artigo ou a utilização abusiva da faculdade nele prevista serão punidas nos termos do artigo 28.º
 
 ...
 
-###### Art. 20.º Em todos os estabelecimentos sujeitos ao disposto no presente diploma deve ser afixado em lugar bem visível o mapa do horário de trabalho do pessoal, elaborado de harmonia com as disposições legais e regulamentares em vigor e com as convenções colectivas aplicáveis e devidamente aprovado pelo Instituto Nacional do Trabalho e Previdência.
+Art. 20.º Em todos os estabelecimentos sujeitos ao disposto no presente diploma deve ser afixado em lugar bem visível o mapa do horário de trabalho do pessoal, elaborado de harmonia com as disposições legais e regulamentares em vigor e com as convenções colectivas aplicáveis e devidamente aprovado pelo Instituto Nacional do Trabalho e Previdência.
 
 § 1.º Nos estabelecimentos que não tenham empregados nem assalariados ao seu serviço será afixado apenas mapa indicativo das horas de abertura e encerramento e do dia de encerramento semanal, o qual não carecerá de aprovação.
 
@@ -186,11 +240,11 @@ Metade do aumento sobre a remuneração normal do trabalho que seja devido pela 
 
 § 3.º As condições e formalidades a observar na elaboração e aprovação dos mapas de horário de trabalho e nas suas eventuais alterações serão estabelecidas por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 21.º Os estabelecimentos cujas horas de abertura e encerramento coincidam com as de entrada e saída de todo o pessoal poderão ser dispensados da aprovação do mapa do horário de trabalho, mediante despacho do Instituto Nacional do Trabalho e Previdência aplicável às empresas que, num ou vários concelhos, exerçam actividade idêntica e em relação às quais se verifique aquela condição.
+Art. 21.º Os estabelecimentos cujas horas de abertura e encerramento coincidam com as de entrada e saída de todo o pessoal poderão ser dispensados da aprovação do mapa do horário de trabalho, mediante despacho do Instituto Nacional do Trabalho e Previdência aplicável às empresas que, num ou vários concelhos, exerçam actividade idêntica e em relação às quais se verifique aquela condição.
 
 § único. Quando os respectivos organismos corporativos o solicitem, poderá ser imposta, por despacho do Instituto Nacional do Trabalho e Previdência, a uniformidade das horas de abertura e encerramento para os estabelecimentos de um ou vários concelhos que exerçam actividade idêntica.
 
-###### Art. 22.º As condições e formalidades a observar na apresentação e despacho dos requerimentos relativos à organização de turnos de pessoal diferente e à realização de trabalho em horas suplementares além do horário normal serão regulamentadas nos termos do § 3.º do artigo 20.º
+Art. 22.º As condições e formalidades a observar na apresentação e despacho dos requerimentos relativos à organização de turnos de pessoal diferente e à realização de trabalho em horas suplementares além do horário normal serão regulamentadas nos termos do § 3.º do artigo 20.º
 
 § 1.º O trabalho de menores de 18 anos e de mulheres em horas suplementares só poderá ser autorizado em casos devidamente justificados.
 
@@ -198,9 +252,9 @@ Metade do aumento sobre a remuneração normal do trabalho que seja devido pela 
 
 ...
 
-###### Art. 27.º A falta de afixação dos mapas de horário de trabalho e a da sua sujeição à aprovação do Instituto Nacional do Trabalho e Previdência serão punidas nos termos do artigo 28.º
+Art. 27.º A falta de afixação dos mapas de horário de trabalho e a da sua sujeição à aprovação do Instituto Nacional do Trabalho e Previdência serão punidas nos termos do artigo 28.º
 
-###### Art. 28.º A falta de cumprimento do horário de trabalho ou das disposições legais aplicáveis às horas de abertura e encerramento dos estabelecimentos e de entrada e saída do pessoal e aos tempos diários de descanso será punida com multa nos termos seguintes:
+Art. 28.º A falta de cumprimento do horário de trabalho ou das disposições legais aplicáveis às horas de abertura e encerramento dos estabelecimentos e de entrada e saída do pessoal e aos tempos diários de descanso será punida com multa nos termos seguintes:
 
 a) 200$00, se o estabelecimento não tiver pessoal ao seu serviço;
 
@@ -220,9 +274,9 @@ f) 5000$00 a 10000$0, se forem mais de 50.
 
 § 3.º Para o efeito da graduação da multa, atender-se-á à natureza e gravidade da infracção e situação económica do infractor.
 
-###### Art. 30.º O não cumprimento do disposto neste decreto-lei quanto ao trabalho de mulheres e menores implica para os infractores a multa de 200$00 por menor ou mulher ilegalmente empregado.
+Art. 30.º O não cumprimento do disposto neste decreto-lei quanto ao trabalho de mulheres e menores implica para os infractores a multa de 200$00 por menor ou mulher ilegalmente empregado.
 
-###### Art. 31.º A contagem do pessoal para efeito da aplicação das multas previstas no presente diploma deverá ser feita pela totalidade dos trabalhadores normalmente ao serviço da empresa, mesmo quando se ocupem em estabelecimentos, secções, agências ou filiais separadas.
+Art. 31.º A contagem do pessoal para efeito da aplicação das multas previstas no presente diploma deverá ser feita pela totalidade dos trabalhadores normalmente ao serviço da empresa, mesmo quando se ocupem em estabelecimentos, secções, agências ou filiais separadas.
 
 § 1.º O infractor deve, logo que solicitado, dar à Inspecção do Trabalho a indicação do número em referência, sob pena de lhe ser aplicado o máximo da multa.
 
@@ -230,25 +284,25 @@ f) 5000$00 a 10000$0, se forem mais de 50.
 
 [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697):
 
-###### Art. 5.º O não cumprimento, por parte das entidades patronais, dos despachos exarados nos termos do disposto no § único do artigo 2.º e no artigo 3.º será punido, respectivamente, com multa de 100$00 a 300$00 por cada trabalhador e mês em relação aos quais se verifique a infracção e de 200$00 a 500$00 por cada trabalhador nos casos de falta ou invalidade da carteira profissional.
+Art. 5.º O não cumprimento, por parte das entidades patronais, dos despachos exarados nos termos do disposto no § único do artigo 2.º e no artigo 3.º será punido, respectivamente, com multa de 100$00 a 300$00 por cada trabalhador e mês em relação aos quais se verifique a infracção e de 200$00 a 500$00 por cada trabalhador nos casos de falta ou invalidade da carteira profissional.
 
 § único. As reincidências relativamente à falta ou invalidade da carteira profissional, quando se verifiquem no prazo de 90 dias em relação ao mesmo trabalhador, serão punidas com multa de 1000$00.
 
 [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513):
 
-###### Art. 11.º As infracções por parte das empresas ao disposto nos despachos e portarias publicados em execução deste diploma serão punidas com multa de 200$00 a 500$00 por cada trabalhador em relação ao qual se verificar a infracção ou, tratando-se de ordenados ou salários, com multa compreendida entre o montante das importâncias em dívida e o dobro destas, quer respeitem à totalidade dos ordenados ou salários estabelecidos, quer apenas a uma parte destes, não podendo, em qualquer dos casos, a multa ser inferior a 300$00.
+Art. 11.º As infracções por parte das empresas ao disposto nos despachos e portarias publicados em execução deste diploma serão punidas com multa de 200$00 a 500$00 por cada trabalhador em relação ao qual se verificar a infracção ou, tratando-se de ordenados ou salários, com multa compreendida entre o montante das importâncias em dívida e o dobro destas, quer respeitem à totalidade dos ordenados ou salários estabelecidos, quer apenas a uma parte destes, não podendo, em qualquer dos casos, a multa ser inferior a 300$00.
 
 § único. ...
 
 [Decreto-Lei n.º 36173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36173-1947-414413):
 
-###### Art. 19.º Quando não forem previstas sanções especiais nas convenções colectivas, as infracções por parte das empresas às respectivas cláusulas serão punidas com multa de 200$00 a 500$00 por cada trabalhador em relação ao qual se verificar a infracção ou, tratando-se de ordenados ou salários, com multa compreendida entre o montante das importâncias em dívida e o dobro destas, quer respeitem à totalidade dos ordenados ou salários estabelecidos, quer apenas a uma parte destes, não podendo, em qualquer dos casos, a multa ser inferior a 300$00.
+Art. 19.º Quando não forem previstas sanções especiais nas convenções colectivas, as infracções por parte das empresas às respectivas cláusulas serão punidas com multa de 200$00 a 500$00 por cada trabalhador em relação ao qual se verificar a infracção ou, tratando-se de ordenados ou salários, com multa compreendida entre o montante das importâncias em dívida e o dobro destas, quer respeitem à totalidade dos ordenados ou salários estabelecidos, quer apenas a uma parte destes, não podendo, em qualquer dos casos, a multa ser inferior a 300$00.
 
 § único. ...
 
 [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222):
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 1.º Sempre que as medidas tomadas com base neste artigo ou no anterior resultem de facto imputável à empresa e delas derive ou possa derivar para os trabalhadores perda ou redução do salário ou ordenado, pode o Ministro das Corporações e Previdência Social determinar, por despacho, que a empresa garanta ao pessoal uma parte ou a totalidade da respectiva remuneração, pelo período julgado conveniente.
 
@@ -258,7 +312,7 @@ f) 5000$00 a 10000$0, se forem mais de 50.
 
 ...
 
-###### Art. 23.º As entidades patronais sujeitas à Inspecção são obrigadas a comunicar a esta, em duplicado:
+Art. 23.º As entidades patronais sujeitas à Inspecção são obrigadas a comunicar a esta, em duplicado:
 
 1.º A denominação social, ramo de actividade, sede e local ou locais de trabalho, antes de os estabelecimentos começarem a funcionar.
 
@@ -268,7 +322,7 @@ f) 5000$00 a 10000$0, se forem mais de 50.
 
 ...
 
-###### Art. 25.º Se os autos de notícia disserem respeito a transgressão de preceitos a que corresponda pena de multa, devem os mesmos, bem como as guias para pagamento, ser remetidos no prazo de dez dias à câmara municipal do domicílio do transgressor, que notificará este para, em igual prazo, efectuar o pagamento da multa e dos adicionais, quando os haja. Em Lisboa e Porto os autos serão remetidos ao respectivo comando da Polícia de Segurança Pública para os efeitos referidos.
+Art. 25.º Se os autos de notícia disserem respeito a transgressão de preceitos a que corresponda pena de multa, devem os mesmos, bem como as guias para pagamento, ser remetidos no prazo de dez dias à câmara municipal do domicílio do transgressor, que notificará este para, em igual prazo, efectuar o pagamento da multa e dos adicionais, quando os haja. Em Lisboa e Porto os autos serão remetidos ao respectivo comando da Polícia de Segurança Pública para os efeitos referidos.
 
 § 1.º O pagamento deverá efectuar-se, conforme os casos, nas tesourarias da Fazenda Pública, na Caixa Geral de Depósitos, Crédito e Previdência ou no Banco de Portugal.
 
@@ -284,11 +338,11 @@ f) 5000$00 a 10000$0, se forem mais de 50.
 
 ...
 
-###### Art. 33.º Aos autos de notícia levantados pelas autoridades administrativas ou policiais ou pelos organismos ou serviços aos quais a lei confira poderes de fiscalização em matéria da competência normal da Inspecção do Trabalho é aplicável o disposto no § 2.º do artigo 24.º do presente diploma e nos regulamentos pertinentes.
+Art. 33.º Aos autos de notícia levantados pelas autoridades administrativas ou policiais ou pelos organismos ou serviços aos quais a lei confira poderes de fiscalização em matéria da competência normal da Inspecção do Trabalho é aplicável o disposto no § 2.º do artigo 24.º do presente diploma e nos regulamentos pertinentes.
 
 Decreto-Lei n.º 38596:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º ...
 
@@ -302,7 +356,7 @@ Decreto-Lei n.º 38596:
 
 § 6.º As infracções ao disposto nos §§ 2.º e 3.º serão punidas com multa de 50$00 a 500$00 por cada trabalhador em relação ao qual se verifique a infracção, não podendo o montante ser inferior a 200$00.
 
-###### Art. 15.º Ficam revogados:
+Art. 15.º Ficam revogados:
 
 1) Os artigos 10.º e 12.º do [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943;
 
@@ -310,6 +364,6 @@ Decreto-Lei n.º 38596:
 
 3) O [Decreto-Lei n.º 39993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39993-1954-675853), de 27 de Dezembro de 1954.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/850-1976-407681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0b2a417b5e7389e29e7c48865594922bac7e147162fd2d8d3d3df3384bf060e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71028d013249721d0db8ec3417e343fca6d4197a70db3fe1af8d082e0c9cf838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Empresas
+- Empresa Pública
+- Estaleiros Navais de Viana do Castelo
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:508234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508234:por
+  label: "Transformada em sociedade anónima de capitais maioritariamente públicos a empresa pública Estaleiros Navais de Viana\
+    \ do Castelo, declarada nacionalizada pelo Dec Lei 478/75, de 01-Set, e transformada em empresa pública pelo presente\
+    \ diploma, pelo DEC LEI.55/91.26.01.1991.MIE, DR.IS-A [22] de 26.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1991-508234
+  date: '1991-01-26'
+- type: cites
+  target: pt:dre:307630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 56
+  article_count: 55
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:59Z'
   warnings: []
   errors: []
 ---
@@ -93,35 +112,35 @@ Tornando-se necessário instituir como empresa pública os Estaleiros Navais de 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criada a empresa pública Estaleiros Navais de Viana do Castelo, E. P., abreviadamente designada por ENVC, a qual se regerá pelo estatuto publicado em anexo a este decreto-lei e que dele faz parte integrante.
+Artigo 1.º - 1. É criada a empresa pública Estaleiros Navais de Viana do Castelo, E. P., abreviadamente designada por ENVC, a qual se regerá pelo estatuto publicado em anexo a este decreto-lei e que dele faz parte integrante.
 
 2. A ENVC é uma pessoa colectiva de autonomia administrativa, financeira e patrimonial, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e subsidiariamente pelas normas de direito privado.
 
-###### Art. 2.º - 1. É transferida para a ENVC a universalidade dos bens, direitos e obrigações da empresa que, nos termos do [Decreto-Lei n.º 478/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1975-307630), de 1 de Setembro, assumiu a posição jurídica da sociedade Estaleiros Navais de Viana do Castelo, S. A. R. L., nacionalizada pelo mesmo diploma.
+Art. 2.º - 1. É transferida para a ENVC a universalidade dos bens, direitos e obrigações da empresa que, nos termos do [Decreto-Lei n.º 478/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1975-307630), de 1 de Setembro, assumiu a posição jurídica da sociedade Estaleiros Navais de Viana do Castelo, S. A. R. L., nacionalizada pelo mesmo diploma.
 
 2. As transmissões previstas no número anterior operam-se por virtude do presente diploma, que servirá de título suficiente para todos os efeitos legais, inclusive o do registo.
 
 3. As mesmas transmissões serão registadas mediante averbamento e ficam isentas de todos os impostos, taxas e emolumentos.
 
-###### Art. 3.º - 1. Transitam para a ENVC, independentemente de quaisquer formalidades, os trabalhadores que, de harmonia com o [Decreto-Lei n.º 478/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1975-307630), de 1 de Setembro, hajam transitado para a empresa nacionalizada ou tenham sido admitidos por ela posteriormente a esta data e estejam efectivamente ao serviço da empresa à data da publicação do presente decreto-lei.
+Art. 3.º - 1. Transitam para a ENVC, independentemente de quaisquer formalidades, os trabalhadores que, de harmonia com o [Decreto-Lei n.º 478/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1975-307630), de 1 de Setembro, hajam transitado para a empresa nacionalizada ou tenham sido admitidos por ela posteriormente a esta data e estejam efectivamente ao serviço da empresa à data da publicação do presente decreto-lei.
 
 2. Os trabalhadores de que trata este artigo transitam para a ENVC integrados nos quadros de origem e com os direitos e obrigações emergentes da respectiva situação nesses quadros.
 
 3. Os direitos mencionados no número anterior não prejudicam a faculdade de o conselho de gerência proceder à conversão dos quadros que se vier a considerar conveniente.
 
-###### Art. 4.º Os poderes de tutela do Governo sobre a ENVC são exercidos pelo Ministério da Indústria e Tecnologia.
+Art. 4.º Os poderes de tutela do Governo sobre a ENVC são exercidos pelo Ministério da Indústria e Tecnologia.
 
-###### Art. 5.º As dúvidas que suscitarem a interpretação à aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeitar a mais de um Ministério.
+Art. 5.º As dúvidas que suscitarem a interpretação à aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeitar a mais de um Ministério.
 
-###### Art. 6.º O presente decreto-lei entra em vigor e tem plena eficácia na data da sua publicação.
+Art. 6.º O presente decreto-lei entra em vigor e tem plena eficácia na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 30 de Novembro de 1976.**
+Promulgado em 30 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA EMPRESA PÚBLICA ESTALEIROS NAVAIS DE VIANA DO CASTELO
 
@@ -701,4 +720,4 @@ Os rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação 
 
 A empresa fica sujeita à tributação directa e indirecta, nos termos gerais do direito fiscal.
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

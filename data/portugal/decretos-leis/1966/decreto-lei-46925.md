@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/03/07400/04490455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,150 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1707a6392ca0cf62b44b7b4a6dbb3ff4e6169bfe29b893081744fb4a0319c26e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 334b420c7e6aed3baf8a55d5eb4b76a8dc92a010b1c285acd1fa9483fe491ee3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Comissão Consultiva de Estatística
+- Conselho Nacional de Estatística
+- Contravenção
+- Delegação Regional
+- Diretor
+- Estatística
+- Instituto Nacional de Estatística
+- Orgânica
+- Presidência do Conselho
+- Quadro de Pessoal
+- Remuneração
+- Sistema Estatístico Nacional
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:419802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488150:por
+  label: "Alterados os artigos 9.º e 10.º, a alínea a) do n.º 1 do artigo 11.º, o n.º 1 do artigo 22.º e o n.º 2 do artigo\
+    \ 37.º, pelo DEC LEI.47434.30.12.1966.PC, DG.IS [302] de 30.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47434-1966-488150
+  date: '1966-12-30'
+- type: amended_by
+  target: pt:dre:509204:por
+  label: "Aditado ao mapa do pessoal do INE, anexo ao presente diploma, como pertencente aos serviços centrais, o lugar de\
+    \ secretário dos centros de estudo, criado pelo art. 7.º do Dec 33274, de 24-Nov 1943, com a categoria e vencimento atribuídos\
+    \ nesse preceito, pelo DEC LEI.47616.30.03.1967.PC, DG.IS [76] de 30.03.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47616-1967-509204
+  date: '1967-03-30'
+- type: amended_by
+  target: pt:dre:643327:por
+  label: "Alterados os arts. 27º, 31º, 34º e 37º e substituído o mapa anexo ao presente diploma, pelo DEC LEI.276/71.23.06.1971.PC,\
+    \ DG.IS [146] de 23.06.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1971-643327
+  date: '1971-06-23'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639098:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419802:por
+  label: "Revogado pelo DEC LEI.427/73.25.08.1973.PC, DG.IS [199] de 25.08.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1973-419802
+  date: '1973-08-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:33Z'
   warnings: []
   errors: []
 ---
@@ -130,9 +240,9 @@ Sistema estatístico nacional
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Incumbe ao Estado assegurar, por intermédio do sistema estatístico nacional, a notação, apuramento, coordenação e publicação dos dados estatísticos que interessam ao País.
+Artigo 1.º Incumbe ao Estado assegurar, por intermédio do sistema estatístico nacional, a notação, apuramento, coordenação e publicação dos dados estatísticos que interessam ao País.
 
-###### Art. 2.º - 1. São órgãos do sistema estatístico nacional:
+Art. 2.º - 1. São órgãos do sistema estatístico nacional:
 
 a) O Conselho Nacional de Estatística;
 
@@ -146,7 +256,7 @@ d) Os órgãos delegados do Instituto.
 
 ### CAPÍTULO II — Do Conselho Nacional de Estatística
 
-###### Art. 3.º O Conselho Nacional de Estatística é o órgão superior de orientação e coordenação do sistema estatístico nacional e tem por atribuições:
+Art. 3.º O Conselho Nacional de Estatística é o órgão superior de orientação e coordenação do sistema estatístico nacional e tem por atribuições:
 
 a) Definir as linhas gerais da actividade estatística e elaborar planos estatísticos para todo o País ou determinada parcela do seu território;
 
@@ -174,7 +284,7 @@ i) Coordenar a utilização do equipamento mecânico do Instituto em comum com o
 
 j) Desempenhar as mais atribuições que lhe forem cometidas por lei ou regulamento.
 
-###### Art. 4.º - 1. O Conselho Nacional de Estatística é presidido pelo Presidente do Conselho de Ministros ou pelo Ministro de Estado adjunto do Presidente do Conselho e dele fazem parte os seguintes vogais:
+Art. 4.º - 1. O Conselho Nacional de Estatística é presidido pelo Presidente do Conselho de Ministros ou pelo Ministro de Estado adjunto do Presidente do Conselho e dele fazem parte os seguintes vogais:
 
 a) O director do Instituto Nacional de Estatística que servirá de vice-presidente;
 
@@ -192,19 +302,19 @@ f) Representantes de outros organismos ou entidades privadas cuja colaboração 
 
 3. A constituição do Conselho poderá ser alterada pelo Presidente do Conselho, mediante portaria.
 
-###### Art. 5.º O Conselho poderá confiar o estudo de determinados problemas a especialistas de reconhecida competência, mediante remuneração, e a comissões ou grupos de trabalho constituídos por alguns dos seus membros.
+Art. 5.º O Conselho poderá confiar o estudo de determinados problemas a especialistas de reconhecida competência, mediante remuneração, e a comissões ou grupos de trabalho constituídos por alguns dos seus membros.
 
-###### Art. 6.º Os vogais do Conselho têm direito a senhas de presença, de montante a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças, e ainda ao abono das despesas de transporte e ajudas de custo, quando tenham de deslocar-se no exercício das suas funções, sendo as respectivas despesas satisfeitas por conta da verba especialmente inscrita no orçamento do Instituto Nacional de Estatística.
+Art. 6.º Os vogais do Conselho têm direito a senhas de presença, de montante a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças, e ainda ao abono das despesas de transporte e ajudas de custo, quando tenham de deslocar-se no exercício das suas funções, sendo as respectivas despesas satisfeitas por conta da verba especialmente inscrita no orçamento do Instituto Nacional de Estatística.
 
 ### CAPÍTULO III — Das comissões consultivas de estatística
 
-###### Art. 7.º - 1. Funcionará em cada Ministério uma comissão consultiva de estatística, constituída pelo respectivo representante no Conselho Nacional de Estatística, que presidirá, e por representantes dos serviços.
+Art. 7.º - 1. Funcionará em cada Ministério uma comissão consultiva de estatística, constituída pelo respectivo representante no Conselho Nacional de Estatística, que presidirá, e por representantes dos serviços.
 
 2. A composição de cada comissão será determinada por despacho do respectivo Ministro.
 
 3. A comissão consultiva do Ministério da Economia terá uma secção para cada Secretaria de Estado, as quais poderão reunir conjunta ou separadamente, consoante as matérias a tratar.
 
-###### Art. 8.º Compete às comissões consultivas de estatística:
+Art. 8.º Compete às comissões consultivas de estatística:
 
 a) Preparar, no âmbito do respectivo Ministério, os estudos e mais elementos destinados ao Conselho Nacional de Estatística para o desempenho das funções a que se referem as alíneas a) e b) do artigo 3.º;
 
@@ -214,17 +324,17 @@ c) Elaborar os pareceres solicitados pelo Conselho sobre problemas estatísticos
 
 d) Propor ao Conselho as medidas convenientes para os fins indicados na alínea f) do artigo 3.º e, de maneira geral, todas as providências adequadas à melhoria das estatísticas respeitantes aos serviços dos seus departamentos, ou às actividades que se situem no seu âmbito, incluindo a coordenação das respectivas estatísticas.
 
-###### Art. 9.º É aplicável aos membros das comissões consultivas de estatística o disposto no artigo 6.º
+Art. 9.º É aplicável aos membros das comissões consultivas de estatística o disposto no artigo 6.º
 
 ### CAPÍTULO IV — Do Instituto Nacional de Estatística e dos órgãos seus delegados
 
 #### SECÇÃO I — Atribuições e competência
 
-###### Art. 10.º - 1. O exercício das funções de notação, apuramento, coordenação e publicação de dados estatísticos, a que se refere o artigo 1.º, pertence exclusivamente ao Instituto Nacional de Estatística e às entidades que, por diploma legal, sejam consideradas como órgãos seus delegados para desempenhar alguma ou algumas dessas atribuições, ou para o auxiliar nas funções de notação.
+Art. 10.º - 1. O exercício das funções de notação, apuramento, coordenação e publicação de dados estatísticos, a que se refere o artigo 1.º, pertence exclusivamente ao Instituto Nacional de Estatística e às entidades que, por diploma legal, sejam consideradas como órgãos seus delegados para desempenhar alguma ou algumas dessas atribuições, ou para o auxiliar nas funções de notação.
 
 2. No desempenho das referidas atribuições, o Instituto goza de completa autonomia técnica.
 
-###### Art. 11.º - 1. Não podem ser órgãos estatísticos delegados:
+Art. 11.º - 1. Não podem ser órgãos estatísticos delegados:
 
 a) As entidades públicas que, pela natureza das suas atribuições, possam utilizar os dados recolhidos para fins diferentes dos estatísticos, ou que, para o exercício das funções a delegar, tenham necessidade de realizar inquéritos junto dos particulares;
 
@@ -232,7 +342,7 @@ b) As entidades privadas, salvo, em casos especiais, as empresas concessionária
 
 2.º O preceituado neste artigo considera-se aplicável mesmo nos casos em que a qualidade de órgão estatístico delegado tenha sido conferida por disposição de natureza especial.
 
-###### Art. 12.º Para o desempenho das atribuições referidas no artigo 10.º, compete especialmente ao Instituto Nacional de Estatística, por si ou pelos órgãos seus delegados:
+Art. 12.º Para o desempenho das atribuições referidas no artigo 10.º, compete especialmente ao Instituto Nacional de Estatística, por si ou pelos órgãos seus delegados:
 
 a) Efectuar os inquéritos e indagações necessários, podendo exigir as informações convenientes de todos os funcionários, autoridades, repartições ou organismos, e de todas as pessoas singulares ou colectivas que se encontrem em território nacional ou nele exerçam qualquer actividade;
 
@@ -270,7 +380,7 @@ r) Encarregar técnicos nacionais ou estrangeiros, mediante autorização superi
 
 s) Desempenhar quaisquer outras funções que lhe sejam cometidas pelo Presidente do Conselho ou pelo Ministro do Ultramar e estejam dentro das atribuições referidas no artigo 10.º
 
-###### Art. 13.º - 1. Todos os dados estatísticos de ordem individual recolhidos pelo Instituto ou pelos órgãos seus delegados são de natureza estritamente confidencial, pelo que:
+Art. 13.º - 1. Todos os dados estatísticos de ordem individual recolhidos pelo Instituto ou pelos órgãos seus delegados são de natureza estritamente confidencial, pelo que:
 
 a) Não podem ser discriminadamente insertos em quaisquer publicações ou fornecidos a quaisquer pessoas ou entidades, nem deles pode ser passada certidão;
 
@@ -286,13 +396,13 @@ b) A própria pessoa ou entidade a que respeitem os dados estatísticos, por dec
 
 c) Tenha sido instaurado processo por transgressão estatística; neste caso a excepção abrange todos os intervenientes no processo.
 
-###### Art. 14.º - 1. A realização de quaisquer inquéritos estatísticos que interessem a serviços do Estado ou das autarquias locais, a organismos corporativos ou a outras entidades públicas ou com funções de interesse público, ainda que sejam órgãos estatísticos delegados, será sempre solicitada ao Instituto, e este, quando os julgue oportunos, mandará efectuá-los pelos seus próprios serviços ou pelas entidades que, conforme os casos, sejam consideradas mais idóneas.
+Art. 14.º - 1. A realização de quaisquer inquéritos estatísticos que interessem a serviços do Estado ou das autarquias locais, a organismos corporativos ou a outras entidades públicas ou com funções de interesse público, ainda que sejam órgãos estatísticos delegados, será sempre solicitada ao Instituto, e este, quando os julgue oportunos, mandará efectuá-los pelos seus próprios serviços ou pelas entidades que, conforme os casos, sejam consideradas mais idóneas.
 
 2. Da decisão do director do Instituto cabe recurso para o Conselho Nacional de Estatística, e da resolução deste para o Conselho de Ministros.
 
-###### Art. 15.º Sempre que a mais de um serviço, organismo ou entidade sejam necessárias informações estatísticas iguais ou semelhantes relativas ao mesmo sector de actividade, o Instituto poderá propor as providências convenientes para que a respectiva recolha seja confiada a um dos serviços ou entidades interessadas, definindo-se as condições de utilização comum das mesmas informações.
+Art. 15.º Sempre que a mais de um serviço, organismo ou entidade sejam necessárias informações estatísticas iguais ou semelhantes relativas ao mesmo sector de actividade, o Instituto poderá propor as providências convenientes para que a respectiva recolha seja confiada a um dos serviços ou entidades interessadas, definindo-se as condições de utilização comum das mesmas informações.
 
-###### Art. 16.º - 1. Nenhum serviço do Estado ou das autarquias locais, organismo corporativo ou outra entidade pública ou com funções de interesse público poderá emitir quaisquer manifestos, mapas, verbetes, boletins, declarações, questionários ou outros instrumentos de notação de dados numéricos, ou de cujas respostas estes possam resultar, e cujo preenchimento seja pedido a funcionários, autoridades, repartições, organismos ou pessoas, singulares ou colectivas, que se encontrem em território português ou nele exerçam actividade sem a prévia autorização, pelo Instituto, dos instrumentos de notação, mediante o respectivo registo.
+Art. 16.º - 1. Nenhum serviço do Estado ou das autarquias locais, organismo corporativo ou outra entidade pública ou com funções de interesse público poderá emitir quaisquer manifestos, mapas, verbetes, boletins, declarações, questionários ou outros instrumentos de notação de dados numéricos, ou de cujas respostas estes possam resultar, e cujo preenchimento seja pedido a funcionários, autoridades, repartições, organismos ou pessoas, singulares ou colectivas, que se encontrem em território português ou nele exerçam actividade sem a prévia autorização, pelo Instituto, dos instrumentos de notação, mediante o respectivo registo.
 
 2. Quando os instrumentos submetidos a registo não se harmonizem com os requisitos técnicos adequados ou com as exigências de fácil preenchimento, o Instituto fará depender o registo da introdução das alterações convenientes.
 
@@ -306,21 +416,21 @@ c) Tenha sido instaurado processo por transgressão estatística; neste caso a e
 
 7. Das decisões do director do Instituto em matéria de registos cabe recurso nos termos do n.º 2 do artigo 14.º
 
-###### Art. 17.º Nenhuma das entidades a que se refere o n.º 1 do artigo anterior poderá publicar quaisquer dados estatísticos sem os sujeitar à prévia aprovação do Instituto, salvo se se tratar de órgãos que, para aquele efeito, tenham recebido delegação.
+Art. 17.º Nenhuma das entidades a que se refere o n.º 1 do artigo anterior poderá publicar quaisquer dados estatísticos sem os sujeitar à prévia aprovação do Instituto, salvo se se tratar de órgãos que, para aquele efeito, tenham recebido delegação.
 
-###### Art. 18.º - 1. Todas as informações estatísticas a prestar a organismos estrangeiros ou internacionais deverão ser remetidas pelo Instituto.
+Art. 18.º - 1. Todas as informações estatísticas a prestar a organismos estrangeiros ou internacionais deverão ser remetidas pelo Instituto.
 
 2. Sempre que assim for superiormente determinado, poderão tais informações ser prèviamente examinadas pelo departamento do Estado a que respeitem, o qual decidirá da conveniência do seu envio.
 
-###### Art. 19.º O Instituto poderá proceder a recolha directa dos dados estatísticos:
+Art. 19.º O Instituto poderá proceder a recolha directa dos dados estatísticos:
 
 a) Quando as informações pedidas não forem prestadas nos prazos fixados;
 
 b) Quando for julgado necessário verificar a exactidão das informações fornecidas.
 
-###### Art. 20.º Os funcionários encarregados da recolha directa serão considerados agentes de autoridade enquanto se encontrarem no exercício das respectivas funções, podendo solicitar das autoridades administrativas e policiais todo o auxílio de que necessitem.
+Art. 20.º Os funcionários encarregados da recolha directa serão considerados agentes de autoridade enquanto se encontrarem no exercício das respectivas funções, podendo solicitar das autoridades administrativas e policiais todo o auxílio de que necessitem.
 
-###### Art. 21.º - 1. É obrigatória a prestação das informações pedidas pelos funcionários do Instituto encarregados da recolha directa de dados estatísticos, bem como a exibição dos livros e documentos por eles solicitados para esse fim.
+Art. 21.º - 1. É obrigatória a prestação das informações pedidas pelos funcionários do Instituto encarregados da recolha directa de dados estatísticos, bem como a exibição dos livros e documentos por eles solicitados para esse fim.
 
 2. Se for recusada a exibição de qualquer livro ou documento que deva legalmente existir, o funcionário encarregado da diligência procederá nos termos do n.º 2 do artigo 840.º do Código de PProcesso Civil.
 
@@ -330,7 +440,7 @@ b) Quando for julgado necessário verificar a exactidão das informações forne
 
 5. Os autos de notícias levantados pelos funcionários encarregados da recolha directa dos dados fazem fé em juízo, até prova em contrário, quanto aos factos por eles verificados.
 
-###### Art. 22.º - 1. As pessoas a quem incumbe fornecer os dados estatísticos são responsáveis pelas despesas a que der lugar a sua recolha directa, salvo se esta se tiver destinado a verificar as informações fornecidas e não se tiver apurado a sua inexactidão.
+Art. 22.º - 1. As pessoas a quem incumbe fornecer os dados estatísticos são responsáveis pelas despesas a que der lugar a sua recolha directa, salvo se esta se tiver destinado a verificar as informações fornecidas e não se tiver apurado a sua inexactidão.
 
 2. A importância a cobrar nunca será inferior a 500$00 e compreenderá:
 
@@ -346,25 +456,25 @@ c) Quaisquer outras despesas provocadas pelas diligências.
 
 5. As importâncias devidas que não forem voluntàriamente pagas pelos responsáveis serão cobradas coercivamente em processo de execução, através dos tribunais do contencioso das contribuições e impostos, constituindo título executivo a certidão de que constem, além do despacho do director do Instituto mandando cobrar as quantias em dívida, as indicações exigidas pelo Código do Processo das Contribuições e Impostos.
 
-###### Art. 23.º As despesas efectuadas pelo Instituto na realização dos inquéritos ou trabalhos previstos na primeira parte da alínea d) do artigo 12.º serão pagas pelas entidades a que os mesmos se destinarem.
+Art. 23.º As despesas efectuadas pelo Instituto na realização dos inquéritos ou trabalhos previstos na primeira parte da alínea d) do artigo 12.º serão pagas pelas entidades a que os mesmos se destinarem.
 
 #### SECÇÃO II — Organização
 
-###### Art. 24.º O Instituto Nacional de Estatística está directamente subordinado à Presidência do Conselho, sem prejuízo da autonomia técnica a que se refere o n.º 2 do artigo 10.º
+Art. 24.º O Instituto Nacional de Estatística está directamente subordinado à Presidência do Conselho, sem prejuízo da autonomia técnica a que se refere o n.º 2 do artigo 10.º
 
-###### Art. 25.º - 1. O Instituto é dirigido por um director, com a categoria de director-geral.
+Art. 25.º - 1. O Instituto é dirigido por um director, com a categoria de director-geral.
 
 2. No exercício da competência do Instituto respeitante às províncias ultramarinas, o director actua como director-geral do Ministério do Ultramar, submetendo a despacho do respectivo Ministro os assuntos correspondentes e promovendo a execução das suas decisões.
 
 3. O director é coadjuvado no exercício das suas funções por um subdirector, que exercerá, por inerência, a chefia da Repartição de Estudos.
 
-###### Art. 26.º O Instituto Nacional de Estatística compreende:
+Art. 26.º O Instituto Nacional de Estatística compreende:
 
 a) Os serviços centrais, com sede em Lisboa;
 
 b) As delegações, com competência limitada a determinadas áreas do território nacional.
 
-###### Art. 27.º - 1. Os serviços centrais são constituídos por uma secretaria, dirigida por um chefe de repartição, e pelas seguintes repartições:
+Art. 27.º - 1. Os serviços centrais são constituídos por uma secretaria, dirigida por um chefe de repartição, e pelas seguintes repartições:
 
 1.ª Repartição - Estatísticas demográficas e sociais,
 
@@ -386,9 +496,9 @@ b) As delegações, com competência limitada a determinadas áreas do territór
 
 2. A organização e competência especificada da secretaria e de cada uma das repartições constarão de regulamento.
 
-###### Art. 28.º À medida que as circunstâncias de cada província ultramarina o permitam, os respectivos serviços de estatística serão integrados no Instituto como suas delegações. Compete ao Ministro do Ultramar, sob proposta do director do Instituto, ouvidos os governadores interessados e a comissão consultiva de estatística do Ministério do Ultramar, determinar, por despacho, a integração no Instituto de cada um dos serviços acima referidos e das missões de inquéritos agrícolas existentes.
+Art. 28.º À medida que as circunstâncias de cada província ultramarina o permitam, os respectivos serviços de estatística serão integrados no Instituto como suas delegações. Compete ao Ministro do Ultramar, sob proposta do director do Instituto, ouvidos os governadores interessados e a comissão consultiva de estatística do Ministério do Ultramar, determinar, por despacho, a integração no Instituto de cada um dos serviços acima referidos e das missões de inquéritos agrícolas existentes.
 
-###### Art. 29.º - 1. As delegações constituem direcções de serviço nas províncias ultramarinas de governo-geral, repartições ou serviços nas de governo simples e secções nas ilhas adjacentes.
+Art. 29.º - 1. As delegações constituem direcções de serviço nas províncias ultramarinas de governo-geral, repartições ou serviços nas de governo simples e secções nas ilhas adjacentes.
 
 2. As despesas com as delegações ultramarinas serão suportadas integralmente pelos orçamentos das respectivas províncias. A instalação e manutenção das delegações das ilhas adjacentes constituem encargo das juntas gerais dos distritos autónomos.
 
@@ -398,21 +508,21 @@ b) As delegações, com competência limitada a determinadas áreas do territór
 
 ##### SUBSECÇÃO 1.ª — Classes e formas de provimento
 
-###### Art. 30.º - 1. Os serviços centrais e as delegações insulares do Instituto terão o pessoal permanente que consta do mapa anexo a este diploma e dele faz parte integrante.
+Art. 30.º - 1. Os serviços centrais e as delegações insulares do Instituto terão o pessoal permanente que consta do mapa anexo a este diploma e dele faz parte integrante.
 
 2. Relativamente às delegações das províncias ultramarinas, o respectivo pessoal constará do diploma previsto no n.º 3 do artigo 29.º, e será incluído no quadro geral do Instituto à medida que forem nele integradas aquelas delegações.
 
 3. Concluída esta integração, será publicado no Diário do Governo, mediante portaria assinada pelo Presidente do Conselho e pelo Ministro do Ultramar, o quadro geral do pessoal do Instituto.
 
-###### Art. 31.º Para coadjuvar o pessoal permanente nos trabalhos de apuramentos estatísticos poderá, mediante despacho ministerial, ser contratado pessoal auxiliar, além do quadro, desde que as respectivas remunerações possam ser satisfeitas por conta da verba anualmente inscrita no orçamento do Instituto para esse efeito ou das disponibilidades existentes nas verbas destinadas ao pessoal do quadro.
+Art. 31.º Para coadjuvar o pessoal permanente nos trabalhos de apuramentos estatísticos poderá, mediante despacho ministerial, ser contratado pessoal auxiliar, além do quadro, desde que as respectivas remunerações possam ser satisfeitas por conta da verba anualmente inscrita no orçamento do Instituto para esse efeito ou das disponibilidades existentes nas verbas destinadas ao pessoal do quadro.
 
-###### Art. 32.º - 1. Mediante autorização ministerial, poderá ainda o Instituto admitir, a título eventual, os indivíduos necessários para a execução dos recenseamentos, inquéritos e outros trabalhos estatísticos, ou para a substituição dos funcionários deslocados na realização dos mesmos.
+Art. 32.º - 1. Mediante autorização ministerial, poderá ainda o Instituto admitir, a título eventual, os indivíduos necessários para a execução dos recenseamentos, inquéritos e outros trabalhos estatísticos, ou para a substituição dos funcionários deslocados na realização dos mesmos.
 
 2. A admissão e o despedimento destes indivíduos serão efectuados com dispensa de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas.
 
 3. Os indivíduos que desempenhem as funções de agentes externos encarregados da distribuição, recolha e centralização dos instrumentos de notação serão admitidos e dispensados, nos serviços centrais, por despacho do director do Instituto, e, nas delegações das ilhas adjacentes, por despacho dos respectivos chefes.
 
-###### Art. 33.º - 1. O provimento dos lugares do Instituto, salvo os mencionados no artigo seguinte, é feito por nomeação.
+Art. 33.º - 1. O provimento dos lugares do Instituto, salvo os mencionados no artigo seguinte, é feito por nomeação.
 
 2. Terão carácter provisório:
 
@@ -424,27 +534,27 @@ b) Pelo prazo de um ano, as primeiras nomeações para lugares de direcção de 
 
 4. O tempo de prestação de serviço como interino, quando seguido de nomeação provisória, conta-se para o prazo a que se refere o n.º 2, se o nomeado interinamente já possuía todos os requisitos legalmente exigidos para o cargo, podendo, também sob a mesma condição, substituir integralmente o tempo de nomeação provisória ali exigido.
 
-###### Art. 34.º - 1. Serão providos por contrato os lugares do pessoal dos serviços mecanográficos, do pessoal menor e do pessoal auxiliar.
+Art. 34.º - 1. Serão providos por contrato os lugares do pessoal dos serviços mecanográficos, do pessoal menor e do pessoal auxiliar.
 
 2. O pessoal dos serviços mecanográficos e o pessoal auxiliar poderão, em caso de urgente conveniência de serviço, tomar posse e entrar em exercício das suas funções nos termos previstos no artigo 24.º, § 1.º, alínea a), do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933.
 
-###### Art. 35.º As restantes disposições sobre provimento do pessoal do Instituto serão estabelecidas em regulamento referendado pelo Presidente do Conselho e pelos Ministros das Finanças e do Ultramar.
+Art. 35.º As restantes disposições sobre provimento do pessoal do Instituto serão estabelecidas em regulamento referendado pelo Presidente do Conselho e pelos Ministros das Finanças e do Ultramar.
 
-###### Art. 36.º As normas respeitantes aos concursos de ingresso no quadro e de promoção serão objecto de regulamento próprio.
+Art. 36.º As normas respeitantes aos concursos de ingresso no quadro e de promoção serão objecto de regulamento próprio.
 
 ##### SUBSECÇÃO 2.ª — Remunerações
 
-###### Art. 37.º - 1. Ao pessoal permanente e auxiliar serão atribuídos os vencimentos constantes do mapa anexo a este diploma.
+Art. 37.º - 1. Ao pessoal permanente e auxiliar serão atribuídos os vencimentos constantes do mapa anexo a este diploma.
 
 2. Os técnicos estatísticos são admitidos com o vencimento correspondente à letra J do quadro do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, mas os vencimentos dos que o mereçam, pelas qualidades reveladas na execução dos trabalhos de que forem incumbidos, poderão ser elevados até ao limite correspondente à letra G do mesmo quadro, sob proposta fundamentada do director do Instituto e mediante portaria assinada pelo Presidente do Conselho e pelo Ministro das Finanças.
 
 3. Os vencimentos dos auxiliares de apuramentos estatísticos serão os correspondentes às letras S ou T do quadro referido no número anterior, consoante possuam habilitações equivalentes ao 2.º ciclo dos liceus ou a uma só das suas secções.
 
-###### Art. 38.º As restantes normas sobre remunerações e abonos a que tem direito o pessoal do Instituto constarão do regulamento previsto no artigo 35.º
+Art. 38.º As restantes normas sobre remunerações e abonos a que tem direito o pessoal do Instituto constarão do regulamento previsto no artigo 35.º
 
 ##### SUBSECÇÃO 3.ª — Preparação e aperfeiçoamento profissionais
 
-###### Art. 39.º - 1. O Instituto organizará cursos de preparação e aperfeiçoamento para o seu pessoal, os quais poderão também ser frequentados por funcionários de outros serviços ou entidades.
+Art. 39.º - 1. O Instituto organizará cursos de preparação e aperfeiçoamento para o seu pessoal, os quais poderão também ser frequentados por funcionários de outros serviços ou entidades.
 
 2. As normas de organização e funcionamento dos cursos, bem como a remuneração dos corpos docentes, serão definidas em regulamento.
 
@@ -452,9 +562,9 @@ b) Pelo prazo de um ano, as primeiras nomeações para lugares de direcção de 
 
 ### CAPÍTULO V — Das transgressões estatísticas
 
-###### Art. 40.º Constitui transgressão estatística a inobservância das leis e regulamentos em vigor sobre estatística e ainda das resoluções, instruções e normas dimanadas do Conselho Nacional de Estatística e do Instituto, desde que aprovadas por despacho ministerial e publicadas no Diário do Governo.
+Art. 40.º Constitui transgressão estatística a inobservância das leis e regulamentos em vigor sobre estatística e ainda das resoluções, instruções e normas dimanadas do Conselho Nacional de Estatística e do Instituto, desde que aprovadas por despacho ministerial e publicadas no Diário do Governo.
 
-###### Art. 41.º - 1. As transgressões estatísticas são punidas com multa de 50$00 a 10000$00, graduada segundo a gravidade da falta.
+Art. 41.º - 1. As transgressões estatísticas são punidas com multa de 50$00 a 10000$00, graduada segundo a gravidade da falta.
 
 2. No caso de reincidência, o quantitativo da multa será o dobro da anteriormente aplicada, ainda que exceda o limite máximo fixado no número anterior.
 
@@ -462,13 +572,13 @@ b) Pelo prazo de um ano, as primeiras nomeações para lugares de direcção de 
 
 4. O pagamento da multa não dispensa o transgressor de cumprir a obrigação infringida.
 
-###### Art. 42.º - 1. Se a obrigação de prestar informações incumbir simultâneamente a duas ou mais pessoas, serão todas solidàriamente responsáveis pela multa aplicada.
+Art. 42.º - 1. Se a obrigação de prestar informações incumbir simultâneamente a duas ou mais pessoas, serão todas solidàriamente responsáveis pela multa aplicada.
 
 2. Quando a mesma obrigação respeitar a pessoas colectivas, a responsabilidade recai solidàriamente sobre os indivíduos que façam parte dos seus corpos gerentes em exercício ao tempo da prática da infracção.
 
 3. Pelas infracções cometidas em serviços públicos ou entidades com funções de interesse público serão pessoal e solidàriamente responsáveis os seus dirigentes.
 
-###### Art. 43.º - 1. As multas são aplicadas por decisão do chefe da repartição competente, depois de notificado o arguido para apresentar a sua defesa e de praticadas as diligências convenientes ao esclarecimento da verdade.
+Art. 43.º - 1. As multas são aplicadas por decisão do chefe da repartição competente, depois de notificado o arguido para apresentar a sua defesa e de praticadas as diligências convenientes ao esclarecimento da verdade.
 
 2. Das decisões condenatórias cabe recurso hierárquico para o director do Instituto, que decidirá definitivamente.
 
@@ -480,7 +590,7 @@ b) Pelo prazo de um ano, as primeiras nomeações para lugares de direcção de 
 
 ### CAPÍTULO VI — Disposições transitórias e finais
 
-###### Art. 44.º - 1. O pessoal actualmente ao serviço do Instituto Nacional de Estatística será distribuído pelos novos lugares, independentemente das suas habilitações literárias, mediante lista aprovada por despacho do Presidente do Conselho e publicada no Diário do Governo.
+Art. 44.º - 1. O pessoal actualmente ao serviço do Instituto Nacional de Estatística será distribuído pelos novos lugares, independentemente das suas habilitações literárias, mediante lista aprovada por despacho do Presidente do Conselho e publicada no Diário do Governo.
 
 2. A colocação do pessoal nos novos cargos e o abono dos respectivos vencimentos não depende de qualquer outra formalidade, incluindo o visto do Tribunal de Contas.
 
@@ -490,9 +600,9 @@ b) Pelo prazo de um ano, as primeiras nomeações para lugares de direcção de 
 
 5. A forma de integração no Instituto do pessoal das delegações ultramarinas será regulada no diploma a que se refere o n.º 3 do artigo 29.º
 
-###### Art. 45.º O presente diploma entrará em vigor, com o respectivo regulamento, em 1 de Abril de 1966.
+Art. 45.º O presente diploma entrará em vigor, com o respectivo regulamento, em 1 de Abril de 1966.
 
-###### Art. 46.º Ficam revogados:
+Art. 46.º Ficam revogados:
 
 A Carta de Lei de 25 de Agosto de 1887, publicada no Diário do Governo de 19 de Outubro do mesmo ano;
 
@@ -524,7 +634,7 @@ O [Decreto-Lei n.º 40893](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4
 
 O [Decreto-Lei n.º 45525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45525-1964-222045), de 7 de Janeiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -532,6 +642,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 Mapa a que se refere o artigo 30.º do Decreto-Lei n.º 46925
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/07400/04490455.pdf))](https://files.diariodarepublica.pt/1s/1966/03/07400/04490455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/07400/04490455.pdf)
 
 Presidência do Conselho, 29 de Março de 1966. - O Presidente do Conselho, António de Oliveira Salazar.

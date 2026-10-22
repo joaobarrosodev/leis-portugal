@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45069-1963-627586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ec2a86ff3d4c7228056bb3518a25cc8ed89aa9a7b1944ed2f3edb44dc6b42d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fbc622aefd9e8b75ab90724a0799ab8946846c250081b6eaa2c41c75b787564
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- HAIA
+- Portugal
+- Transporte Aéreo
+- Transporte Internacional
+relationships:
+- type: corrected_by
+  target: pt:dre:693015:por
+  label: Rectificado o texto do Protocolo, pela DECL.DD861.12.07.1963.PC, DG.IS [169] de 19.07.1963
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1963-693015
+  date: '1963-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:19Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +95,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo assinado na Haia em 28 de Setembro de 1955, modificando a Convenção sobre a unificação de certas normas relativas ao transporte aéreo internacional, assinada em Varsóvia em 12 de Outubro de 1929, cujos textos, em francês e respectiva tradução portuguesa, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Protocolo assinado na Haia em 28 de Setembro de 1955, modificando a Convenção sobre a unificação de certas normas relativas ao transporte aéreo internacional, assinada em Varsóvia em 12 de Outubro de 1929, cujos textos, em francês e respectiva tradução portuguesa, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -359,7 +369,7 @@ Considerando que seria conveniente modificar a Convenção sobre a unificação 
 
 ### CAPÍTULO I — Modificações introduzidas na Convenção
 
-ARTIGO I
+###### ARTIGO I
 
 No artigo 1 da Convenção:
 
@@ -371,13 +381,13 @@ b) A alínea 3 é suprimida e substituída pela seguinte disposição:
 
 3. O transporte que tenha que ser executado por vários transportes aéreos sucessivos constituirá, para a aplicação da presente Convenção, um transporte único quando tenha sido considerado pelas Partes como uma única operação, quer tenha sido objecto de um único contrato, quer de uma série de contratos, e não perde o seu carácter internacional pelo facto de que um único contrato ou uma série de contratos devam executar-se integralmente no território do mesmo Estado.
 
-ARTIGO II
+###### ARTIGO II
 
 No artigo 2 da Convenção a alínea 2 é suprimida e substituída pela seguinte disposição:
 
 2. A presente Convenção não se aplica ao transporte de correio e de encomendas postais.
 
-ARTIGO III
+###### ARTIGO III
 
 No artigo 3 da Convenção:
 
@@ -395,7 +405,7 @@ b) A alínea 2 é suprimida e substituída pela seguinte disposição:
 
 2. O bilhete de passagem faz fé, salvo prova em contrário, da conclusão e das condições do contrato do transporte. A falta, a irregularidade ou a perca do bilhete não afectam nem a existência nem a validade do contrato de transporte, que continuará sujeito às normas da presente Convenção. Contudo, se, com o consentimento da entidade transportadora, o passageiro embarca sem que lhe tenha sido entregue um bilhete de passagem ou se este bilhete não inclui o aviso exigido na alínea 1 c) do presente artigo, a entidade transportadora não terá o direito de fazer valer as disposições do artigo 22.
 
-ARTIGO IV
+###### ARTIGO IV
 
 No artigo 4 da Convenção:
 
@@ -413,13 +423,13 @@ b) A alínea 4 é suprimida e substituída pela seguinte disposição:
 
 2. O boletim de bagagem faz fé, até prova em contrário, do registo das bagagens e das condições do contrato de transporte. A falta, a irregularidade ou a perca do boletim não afecta nem a existência, nem a validade do contrato de transporte, que continuará sujeito às normas da presente Convenção. Contudo, se a entidade transportadora aceita guardar as bagagens sem que tenha sido entregue um boletim de bagagem, ou se este, no caso de não ser emitido em conjunto com um bilhete de passagem que satisfaça os requisitos do artigo 3, alínea 1 c), ou não esteja incorporado nesse bilhete, não comporta o aviso exigido na alínea 1, a referida entidade transportadora não terá o direito de fazer valer as disposições do artigo 22, parágrafo 2.
 
-ARTIGO V
+###### ARTIGO V
 
 No artigo 6 da Convenção a alínea 3 é suprimida e substituída pela seguinte disposição:
 
 3. A entidade transportadora assinará antes do embarque da mercadoria a bordo da aeronave.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O artigo 8 da Convenção é suprimido e substituído pela seguinte disposição:
 
@@ -431,29 +441,29 @@ b) Se os pontos de partida e de destino estão situados no território de uma ú
 
 c) Um aviso indicando aos expedidores que, se o transporte cujo ponto final de destino, ou uma escala, está situado num país que não seja o da partida, poderá ser regulado pela Convenção de Varsóvia, que, na maioria dos casos, limita a responsabilidade da entidade transportadora em caso de perca ou de deterioração da mercadoria.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O artigo 9 da Convenção é suprimido e substituído pela disposição seguinte:
 
 Se, com o consentimento da entidade transportadora, as mercadorias são embarcadas a bordo da aeronave sem que se tenha emitido uma guia de transporte aéreo ou se esta não contém o aviso prescrito no artigo 8, alínea c), a entidade transportadora não tem o direito de fazer valer as disposições do artigo 22, alínea 2.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 No artigo 10 da Convenção a alínea 2 é suprimida e substituída pela seguinte disposição:
 
 2. Será responsável por todo o dano sofrido pela entidade transportadora ou por qualquer outra pessoa perante o qual a responsabilidade da entidade transportadora esteja em causa devido a indicações e declarações suas irregulares, inexactas ou incompletas.
 
-ARTIGO IX
+###### ARTIGO IX
 
 No artigo 15 da Convenção insere-se a alínea seguinte:
 
 3. Nada na presente Convenção impede o estabelecimento de uma guia de transporte aéreo negociável.
 
-ARTIGO X
+###### ARTIGO X
 
 A alínea 2 do artigo 20 da Convenção é suprimida.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O artigo 22 da Convenção é suprimido e substituído pelas seguintes disposições:
 
@@ -471,19 +481,19 @@ b) Em caso de perca, avaria ou detenção de uma parte das bagagens registadas o
 
 5. As quantias indicadas em francos no presente artigo são consideradas como referentes a uma unidade monetária constituída por sessenta e cinco miligramas e meio de ouro de lei de novecentas milésimas. Estas quantias podem ser convertidas em qualquer moeda nacional, em números redondos. A conversão destas quantias noutras moedas nacionais que não sejam moeda-ouro efectuar-se-á, em caso de processo judicial, de acordo com o valor-ouro destas moedas na data do julgamento.
 
-ARTIGO XII
+###### ARTIGO XII
 
 No artigo 23 da Convenção a disposição actual torna-se alínea 1 e acrescenta-se a seguinte alínea 2:
 
 2. A alínea 1 do presente artigo não se aplica às cláusulas referentes à perca ou dano resultante da natureza ou de defeito próprio das mercadorias transportadas.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 No artigo 25 da Convenção as alíneas 1 e 2 são suprimidas e substituídas pela seguinte disposição:
 
 Os limites de responsabilidade previstos no artigo 22 não se aplicam se se provar que o dano é resultante de uma acção ou de uma omissão da entidade transportadora ou dos seus agentes feita ou com intenção de provocar um dano ou temeràriamente e com consciência de que desse fecto resultará provàvelmente um dano, no entanto, no caso de uma acção ou omissão dos seus agentes, deverá provar-se também que estes agiam no exercício das suas funções.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Em seguida ao artigo 25 da Convenção insere-se o artigo seguinte:
 
@@ -495,19 +505,19 @@ Em seguida ao artigo 25 da Convenção insere-se o artigo seguinte:
 
 3. As disposições das alíneas 1 e 2 do presente artigo não se aplicam se se provar que o dano resulta de uma acção ou de uma omissão do agente feita quer com intenção de provocar um dano, quer temeràriamente e com a consciência de que desse facto resultaria provàvelmente um dano.
 
-ARTIGO XV
+###### ARTIGO XV
 
 No artigo 26 da Convenção a alínea 2 é suprimida e substituída pela seguinte disposição:
 
 2. Em caso de deterioração, o destinatário deve apresentar à entidade transportadora uma reclamação, imediatamente após a descoberta da mencionada deterioração ou, o mais tardar, num prazo de sete dias para as bagagens e de catorze dias para as mercadorias, a contar da data da sua entrega. Em caso de atraso, a reclamação deverá ser feita o mais tardar, vinte e um dias depois do dia em que a bagagem ou a mercadoria terão sido entregues ao destinatário.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 O artigo 34 da Convenção é suprimido e substituído pela seguinte disposição:
 
 As disposições dos artigos 3 a 9, inclusive, relativas a títulos de transporte, não são aplicáveis ao transporte efectuado em circunstâncias extraordinárias, fora das operações normais da exploração aérea.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Em seguida ao artigo 40 da Convenção insere-se o artigo seguinte:
 
@@ -519,21 +529,21 @@ Em seguida ao artigo 40 da Convenção insere-se o artigo seguinte:
 
 ### CAPÍTULO II — Âmbito da aplicação da Convenção modificada
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 A Convenção modificada pelo presente Protocolo aplica-se ao transporte internacional definido no artigo 1 da Convenção quando os pontos de partida e de destino estão situados quer no território de dois Estados partes no presente Protocolo, quer no território de apenas um Estado parte no presente Protocolo, se está prevista uma escala em território de qualquer outro Estado.
 
 ### CAPÍTULO III — Cláusulas finais
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 Para as Partes deste Protocolo a Convenção e o Protocolo são considerados e interpretados como um único e mesmo instrumento e serão denominados como Convenção de Varsóvia modificada em Haia, em 1955.
 
-ARTIGO XX
+###### ARTIGO XX
 
 Até à data da sua entrada em vigor, conforme as disposições do artigo XXII, alínea 1, o presente Protocolo permanecera aberto à assinatura de todos os Estados que tenham ratificado a Convenção ou que a ela tenham aderido, bem assim como todo o Estado que tenha participado na Conferência em que se adoptou o presente Protocolo.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1. O presente Protocolo será submetido à ratificação dos Estados signatários.
 
@@ -541,13 +551,13 @@ ARTIGO XXI
 
 3. Os instrumentos de ratificação serão depositados junto do Governo da República Popular da Polónia.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 1. Logo que trinta Estados signatários tenham depositado os seus instrumentos de ratificação do presente Protocolo, este entrará em vigor entre estes Estados noventa dias após a aposição do trigésimo instrumento de ratificação. Para cada um dos Estados que o ratifiquem depois desta data entrará em vigor noventa dias após ter sido entregue o instrumento de ratificação.
 
 2. Imediatamente a seguir à sua entrada em vigor, o presente Protocolo será registado na Organização das Nações Unidas pelo Governo da República Popular da Polónia.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 1. Após a sua entrada em vigor, o presente Protocolo estará aberto à adesão de qualquer Estado não signatário.
 
@@ -555,7 +565,7 @@ ARTIGO XXIII
 
 3. A adesão será efectuada mediante o depósito de um instrumento de adesão junto do Governo da República Popular da Polónia e produzirá os seus efeitos noventa dias após a entrega desse depósito.
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 1. Todas as Partes no presente Protocolo podem denunciá-lo por meio de uma notificação apresentada ao Governo da República Popular da Polónia.
 
@@ -563,7 +573,7 @@ ARTIGO XXIV
 
 3. Entre as partes do presente Protocolo, a denúncia da Convenção por qualquer delas, em virtude do artigo 39, não deve ser interpretada como uma denúncia da Convenção modificada pelo presente Protocolo.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 1. O presente Protocolo aplicar-se-á a todos os territórios por cujas relações exteriores seja responsável um Estado parte no presente Protocolo, à excepção dos territórios a respeito dos quais tenha sido formulada uma declaração conforme à alínea 2 do presente artigo.
 
@@ -573,11 +583,11 @@ ARTIGO XXV
 
 4. Qualquer Estado parte no presente Protocolo poderá denunciá-lo de acordo com as disposições do artigo XXIV, alínea 1, separadamente para todos ou apenas algum dos territórios por cujas relações exteriores esse Estado seja responsável.
 
-ARTIGO XXVI
+###### ARTIGO XXVI
 
 Não serão admitidas nenhumas reservas ao presente Protocolo. No entanto, qualquer Estado poderá, a todo o momento, declarar, por meio de notificação apresentada ao Governo da República Popular da Polónia, que a Convenção modificada pelo presente Protocolo não se aplicará ao transporte de pessoas, de mercadorias e de bagagens efectuado pelas suas autoridades militares a bordo das aeronaves matriculadas no mencionado Estado e cuja total capacidade tenha sido reservada por essas autoridades ou por conta das mesmas.
 
-ARTIGO XXVII
+###### ARTIGO XXVII
 
 O Governo da República Popular da Polónia notificará imediatamente aos Governos de todos os Estados signatários da Convenção ou do presente Protocolo, de todos os Estados partes na Convenção ou no presente Protocolo e de todos os Estados membros da Organização da Aviação Civil Internacional ou da Organização das Nações Unidas, bem assim como à Organização da Aviação Civil Internacional:
 

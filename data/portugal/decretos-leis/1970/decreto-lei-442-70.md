@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 221/1970, 1º Suplemento, Série I de 1970-09-23
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1356-(1) a 1356-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/22101/00010002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1970-666344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b55ebee860fdef6f801434722a00e9bf70e117267b10118880b9b7c4409bdcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bbeb870e019313df279c53627b0849d0e65875f32ae38b431636f6f435b1856
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Criação de Serviços
+- Direção
+- Estatuto
+- Grémio
+- Grupo de Trabalho
+- Indústria
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:166063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:17Z'
   warnings: []
   errors: []
 ---
@@ -109,21 +145,21 @@ Nestes termos, ouvidas as corporações interessadas:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Sempre que as diligências preliminares destinadas à constituição de novos grémios, nos termos do [Decreto-Lei n.º 24715](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24715-1934-447571), de 3 de Dezembro de 1934, e do [Decreto-Lei n.º 31970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31970-1942-166063), de 13 de Abril de 1942, se processem sob o patrocínio de uma corporação e se prove não haver oposição à iniciativa por parte das demais corporações, bem como de quaisquer outros organismos ou entidades interessados, poderá o Ministro das Corporações e Previdência Social dispensar a publicação dos anúncios a que se referem o § 2.º do artigo 9.º do [Decreto-Lei n.º 29232](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29232-1938-349970), de 8 de Dezembro de 1938, e o artigo único do [Decreto-Lei n.º 39682](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39682-1954-635442), de 26 de Maio de 1954.
+Artigo 1.º - 1. Sempre que as diligências preliminares destinadas à constituição de novos grémios, nos termos do [Decreto-Lei n.º 24715](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24715-1934-447571), de 3 de Dezembro de 1934, e do [Decreto-Lei n.º 31970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31970-1942-166063), de 13 de Abril de 1942, se processem sob o patrocínio de uma corporação e se prove não haver oposição à iniciativa por parte das demais corporações, bem como de quaisquer outros organismos ou entidades interessados, poderá o Ministro das Corporações e Previdência Social dispensar a publicação dos anúncios a que se referem o § 2.º do artigo 9.º do [Decreto-Lei n.º 29232](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29232-1938-349970), de 8 de Dezembro de 1938, e o artigo único do [Decreto-Lei n.º 39682](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39682-1954-635442), de 26 de Maio de 1954.
 
 2. Quando a iniciativa da constituição de novos grémios se processe sem o patrocínio de qualquer corporação, os serviços do Ministério, uma vez recebido o respectivo pedido de aprovação dos estatutos, deverão ouvir, num prazo de trinta dias, todas as corporações económico-sociais e, depois de definido o âmbito e a área do organismo, publicar os anúncios referidos no número anterior.
 
 3. Para efeito do disposto no n.º 1, os pedidos de aprovação dos estatutos de novos organismos deverão ser instruídos com os necessários meios de prova, a fornecer pela corporação patrocinante.
 
-###### Art. 2.º - 1. Quando se suscitem dúvidas sobre o âmbito, a área ou qualquer outra matéria reputada de importância fundamental para a vida dos grémios a constituir, o respectivo pedido de aprovação dos estatutos deverá ser submetido a despacho instruído com o parecer de um grupo de trabalho formado por um representante dos serviços do Ministério, um representante de cada uma das corporações interessadas, e um representante da comissão organizadora do grémio em causa.
+Art. 2.º - 1. Quando se suscitem dúvidas sobre o âmbito, a área ou qualquer outra matéria reputada de importância fundamental para a vida dos grémios a constituir, o respectivo pedido de aprovação dos estatutos deverá ser submetido a despacho instruído com o parecer de um grupo de trabalho formado por um representante dos serviços do Ministério, um representante de cada uma das corporações interessadas, e um representante da comissão organizadora do grémio em causa.
 
 2. O parecer referido no número anterior deverá também ser obtido quando haja de submeter-se a despacho superior a resolução de quaisquer problemas respeitantes ao enquadramento corporativo dos grémios já constituídos.
 
 3. O grupo de trabalho referido no n.º 1 deste artigo será presidido pelo director-geral do Trabalho e Corporações ou por quem for expressamente designado para o substituir.
 
-###### Art. 3.º O artigo 17.º do [Decreto-Lei n.º 24715](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24715-1934-447571), de 3 de Dezembro de 1934, passa a ter a seguinte redacção:
+Art. 3.º O artigo 17.º do [Decreto-Lei n.º 24715](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24715-1934-447571), de 3 de Dezembro de 1934, passa a ter a seguinte redacção:
 
-###### Art. 17.º Cada grémio terá uma direcção composta por um presidente, um secretário, um tesoureiro e um número par de vogais até ao máximo de seis, designados nos termos dos respectivos estatutos.
+Art. 17.º Cada grémio terá uma direcção composta por um presidente, um secretário, um tesoureiro e um número par de vogais até ao máximo de seis, designados nos termos dos respectivos estatutos.
 
 § 1.º A designação recairá sobre as empresas que se encontrem no pleno gozo dos seus direitos gremiais, cabendo o exercício efectivo das respectivas funções a representantes seus que possuam poderes gerais de administração e não estejam abrangidos por alguma das incapacidades que privam da qualidade de cidadão eleitor, sem prejuízo do disposto no parágrafo seguinte.
 
@@ -135,8 +171,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Setembro de 1970.**
+Promulgado em 16 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

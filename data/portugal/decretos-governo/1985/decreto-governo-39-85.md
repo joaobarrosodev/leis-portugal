@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/39-1985-178315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf8437cca8b89de27b74dbc0ab707648d6416efecafc6faca35a0ac667251350
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ff707ac09dd5bae64da0c56c1c3e41165ddd55bf9451a2113ece87e40b47988
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Londres
+- Poluição por Hidrocarbonetos
+- Portugal
+- Responsabilidade Civil
 relationships:
 - type: amended_by
   target: pt:dre:1135578392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614358:por
+  label: "Aprovadas as emendas introduzidas pelo Protocolo de 1992 (alteração dos arts. I, II, III, IV, V, VII, IX, aditamento\
+    \ dos arts. XII-bis, XII-ter e substituição do modelo de certificado anexo) à Convenção Internacional sobre a Responsabilidade\
+    \ Civil pelos Prejuízos Devidos à Poluição para Hidrocarbonetos aprovada para ratificação pelo Dec 694/76 de 21-Set, com\
+    \ as emendas introduzidas pelo Protocolo de 1976, aprovadas para adesão pelo presente diploma, pelo DEC.40/2001.28.09.2001.MNE,\
+    \ DR.IS-A [226] de 28.09.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/40-2001-614358
+  date: '2001-09-28'
+- type: amended_by
+  target: pt:dre:168223:por
+  label: "Aprovadas as emendas aos limites de responsabilidade introduzidas pelo Protocolo de 1992 (alteração do art. 6º do\
+    \ Protocolo - Dec 40/2001 de 28-Set) à Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos\
+    \ à Poluição para Hidrocarbonetos aprovada para ratificação pelo Dec 694/76 de 21-Set, com as emendas introduzidas pelo\
+    \ Protocolo de 1976, aprovadas para adesão pelo presente diploma, pelo DEC.4/2006.06.01.2006.MOPTC, DR.IS-B [5] de 06.01.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-2006-168223
+  date: '2006-01-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:20Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +114,19 @@ de 14 de Outubro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo de 1976 à Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos de 1969, assinado em Londres em 19 de Novembro de 1976, que segue no seu texto original em inglês, acompanhado da respectiva tradução em português.
+Artigo único. É aprovado, para adesão, o Protocolo de 1976 à Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos de 1969, assinado em Londres em 19 de Novembro de 1976, que segue no seu texto original em inglês, acompanhado da respectiva tradução em português.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gania - José de Almeida Serra.
 
-**Assinado em 3 de Outubro de 1985.**
+Assinado em 3 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Outubro de 1985.**
+Referendado em 7 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Protocolo à Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, 1969.
 
@@ -111,7 +134,7 @@ As Partes do presente Protocolo:
 
 Sendo Partes da Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, feita em Bruxelas em 29 de Novembro de 1969, acordaram o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para os fins do presente Protocolo:
 
@@ -121,7 +144,7 @@ Para os fins do presente Protocolo:
 
 3) «Secretário-geral» significa o secretário-geral da Organização.
 
-ARTIGO II
+###### ARTIGO II
 
 O artigo V da Convenção é alterado como se segue:
 
@@ -137,7 +160,7 @@ O artigo V da Convenção é alterado como se segue:
 
 9 - c) O cálculo mencionado na última frase do parágrafo 9-a) e a conversão mencionada no parágrafo 9 - b) deverão ser feitos de tal forma que expressem, na moeda nacional corrente do Estado contratante, tanto quanto possível o mesmo valor real para os montantes do parágrafo 1, tal como está aí expresso em unidades de conta. Os Estados contratantes deverão comunicar ao depositário a forma de cálculo, nos termos do parágrafo 9 - a), ou o resultado da conversão, nos termos do parágrafo 9 - b), conforme o caso, ao depositarem um dos instrumentos referidos no artigo IV e sempre que houver uma alteração em qualquer deles.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - O presente Protocolo ficará aberto para assinatura pelos Estados que assinaram a Convenção ou a ela aderiram e pelos Estados convidados a assistir à Conferência para Rever as Disposições sobre a Unidade de Conta da Convenção sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, 1969, realizada em Londres de 17 a 19 de Novembro de 1976. O Protocolo ficará aberto para assinatura de 1 de Fevereiro de 1977 a 31 de Dezembro de 1977 na sede da Organização.
 
@@ -147,19 +170,19 @@ ARTIGO III
 
 4 - O presente Protocolo pode ser ratificado, aceite, aprovado ou objecto de adesão pelos Estados Partes da Convenção.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - A ratificação, a aceitação, a aprovação ou a adesão efectuar-se-ão por meio de depósito de um instrumento formal junto do secretário-geral.
 
 2 - Qualquer instrumento de ratificação, de aceitação, de aprovação ou de adesão depositado após a entrada em vigor de uma alteração ao presente Protocolo aplicável a todas as Partes ou após o cumprimento de todas as formalidades requeridas para a entrada em vigor da alteração para todas as Partes será considerado como aplicando-se ao Protocolo modificado pela alteração.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - O presente Protocolo entrará em vigor para os Estados que o tenham ratificado, aceite, aprovado ou que a ele tenham aderido após decorridos os 90 dias seguintes à data em que 8 Estados, dos quais 5 representando Estados que tenham, cada um, pelo menos 1000000 de toneladas brutas de tonelagem de navios petroleiros, tenham depositado instrumentos de ratificação, aceitação, aprovação ou adesão junto do secretário-geral.
 
 2 - Para cada Estado que posteriormente ratifique, aceite, aprove ou a ele adira, este Protocolo entrará em vigor 90 dias após o depósito do instrumento apropriado por esse Estado.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O presente Protocolo poderá ser denunciado por qualquer das Partes em qualquer momento após a data em que o Protocolo entrar em vigor para essa Parte.
 
@@ -167,13 +190,13 @@ ARTIGO VI
 
 3 - A denúncia produzirá efeitos 1 ano após o depósito do instrumento de denúncia junto do secretário-geral ou após um período maior se tal for especificado no respectivo instrumento de denúncia.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - A Organização poderá convocar uma conferência com a finalidade de rever ou alterar este Protocolo.
 
 2 - A Organização convocará uma conferência das Partes do presente Protocolo com a finalidade de o rever ou alterar a pedido de, pelo menos, um terço das Partes.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - O presente Protocolo será depositado junto do secretário-geral.
 
@@ -191,11 +214,11 @@ iv) Quaisquer alterações ao presente Protocolo;
 
 b) Distribuir cópias autenticadas do presente Protocolo a todos os Estados que o assinaram ou a ele aderiram.
 
-ARTIGO IX
+###### ARTIGO IX
 
-**O secretário-geral, logo que o presente Protocolo entrar em vigor, deverá enviar uma cópia autenticada do Protocolo ao Secretariado das Nações Unidas, para registo e publicação, em conformidade com o artigo 102 da Carta das Nações Unidas.**
+O secretário-geral, logo que o presente Protocolo entrar em vigor, deverá enviar uma cópia autenticada do Protocolo ao Secretariado das Nações Unidas, para registo e publicação, em conformidade com o artigo 102 da Carta das Nações Unidas.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Protocolo é redigido num exemplar único nas línguas inglesa e francesa, fazendo igualmente fé ambos os textos. Redigiram-se traduções oficiais nas línguas russa e espanhola, que serão depositadas com o original assinado.
 

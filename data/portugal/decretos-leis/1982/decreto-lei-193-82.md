@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11400/13191334.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,220 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1982-392395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2631b4d3d828991c32074971f6cd146c71a252724e7e04e28f9730290c21292
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd2dd5c4f96c2b67311d9fb4dfc036f789c58adab6f264af39b292280b1eac3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto do Emprego e Formação Profissional
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380915:por
+  label: "Alterado o quadro de pessoal do Instituto do Emprego e Formação Profissional anexo ao presente diploma, pela Port.1176/82.22.12.1982.MFP,\
+    \ DR.IS [294] de 22.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1176-1982-380915
+  date: '1982-12-22'
+- type: amended_by
+  target: pt:dre:312850:por
+  label: "Alterado o quadro de pessoal pela PORT.436/83.1983.04.16.MFP, DR.IS [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1983-312850
+  date: '1983-04-16'
+- type: amended_by
+  target: pt:dre:654558:por
+  label: "Alterado o quadro de pessoal, pela PORT.211/84.1984.04.07.PCM, DR.IS [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-1984-654558
+  date: '1984-04-07'
+- type: amended_by
+  target: pt:dre:380943:por
+  label: "Alargado o quadro de pessoal do Instituto do Emprego e Formação Profissional, aprovado pelo presente diploma, alterado\
+    \ pela Port 436/83, de 16-Abr, pela Port.645/84.27.08.1984.PCM, DR.IS [198] de 27.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/645-1984-380943
+  date: '1984-08-27'
+- type: amended_by
+  target: pt:dre:328246:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma pela PORT.66/85.1985.02.01.PCM, DR.IS [27] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-1985-328246
+  date: '1985-02-01'
+- type: amended_by
+  target: pt:dre:152702:por
+  label: "Alterado o quadro de pessoal do Instituto do Emprego e Formação Profissional anexo ao presente diploma, pela PORT.275/85.11.05.1985.PCM,\
+    \ DR.IS [108] de 11.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/275-1985-152702
+  date: '1985-05-11'
+- type: amended_by
+  target: pt:dre:218546:por
+  label: "Alterado o quadro de pessoal, no respeitante ao pessoal de enfermagem, aprovado pelo presente diploma, pela PORT.423/86.02.08.1986.MF,\
+    \ DR.IS [176] de 02.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-1986-218546
+  date: '1986-08-02'
+- type: amended_by
+  target: pt:dre:220128:por
+  label: "Criado um lugar de assessor no quadro de pessoal pela PORT.499/86.08.09.1986.MF, DR.IS [206] de 08.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/499-1986-220128
+  date: '1986-09-08'
+- type: amended_by
+  target: pt:dre:222429:por
+  label: "Aumentado o número de lugares de assessor do quadro de pessoal do Instituto do Emprego e Formação Profissional pelo\
+    \ presente diploma, pela PORT.593/86.11.10.1986.MF, DR.IS [235] de 11.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/593-1986-222429
+  date: '1986-10-11'
+- type: amended_by
+  target: pt:dre:666543:por
+  label: "Alterado o quadro de pessoal, anexo ao presente diploma, pela PORT.246/87.31.03.1987.MF, DR.IS [75] de 31.03.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-1987-666543
+  date: '1987-03-31'
+- type: amended_by
+  target: pt:dre:418221:por
+  label: "Alterado o quadro de pessoal do Instituto do Emprego e Formação Profissional, anexo ao presente diploma, alterado\
+    \ sucessivamente pelas Ports. 643/82, de 28-Jun, 1176/82, de 22-Dez, 436/83, de 16-Abr, 211/84, de 07-Abr, 645/84, de\
+    \ 27-Ago, 66/85, de 01-Fev, 275/85, de 11-Mai, 423/86, de 02-Ago, 499/86, de 08-Set, 593/86, de 11-Out e 246/87, de 31-Mai,\
+    \ pela PORT.729/87.24.08.1987.MF, DR.IS [193] de 24.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/729-1987-418221
+  date: '1987-08-24'
+- type: amended_by
+  target: pt:dre:495076:por
+  label: "Alterado o quadro de pessoal pela PORT.770/87.1987.09.05.MF DR.IS [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/770-1987-495076
+  date: '1987-09-05'
+- type: amended_by
+  target: pt:dre:286718:por
+  label: "Alterado o quadro de pessoal, na parte respeitante ao pessoal de enfermagem, pela PORT.134/88.29.02.1988.MF, DR.IS\
+    \ [49] de 29.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-1988-286718
+  date: '1988-02-29'
+- type: amended_by
+  target: pt:dre:286323:por
+  label: "Alterado o quadro de pessoal pela PORT.210/88.04.04.1988.MF, DR.IS [78] de 04.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-1988-286323
+  date: '1988-04-04'
+- type: amended_by
+  target: pt:dre:374665:por
+  label: "Alterado o quadro de pessoal, pela PORT.321/88.19.05.1988.MF, DR.IS [116] de 19.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-1988-374665
+  date: '1988-05-19'
+- type: amended_by
+  target: pt:dre:371414:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.395/88.1988.06.20.MF DR.IS [140]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1988-371414
+  date: '1988-06-20'
+- type: amended_by
+  target: pt:dre:373386:por
+  label: "Alterado o quadro de pessoal pela PORT.431/88.1988.07.06.MF,DR.IS [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/431-1988-373386
+  date: '1988-07-06'
+- type: amended_by
+  target: pt:dre:379755:por
+  label: "Alterado o quadro de pessoal do IEFP, com a redacção da Port 770/87 de 05-Set, pela PORT.595/88.27.08.1988.MF, DR.IS\
+    \ [198] de 27.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-1988-379755
+  date: '1988-08-27'
+- type: amended_by
+  target: pt:dre:354774:por
+  label: "Alterado o quadro de pessoal pela PORT.666/88.1988.10.04.MF, DR.IS [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-1988-354774
+  date: '1988-10-04'
+- type: amended_by
+  target: pt:dre:354875:por
+  label: "Alterado o quadro de pessoal pela PORT.667/88.04.10.1988.MF, DR.IS [230] de 04.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-1988-354875
+  date: '1988-10-04'
+- type: amended_by
+  target: pt:dre:611496:por
+  label: "Alterado o quadro de pessoal, anexo ao presente diploma, pela PORT.103/89.14.02.1989.MF, DR.IS [37] de 14.02.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-1989-611496
+  date: '1989-02-14'
+- type: amended_by
+  target: pt:dre:332057:por
+  label: "Alterado o quadro de pessoal anexo pela PORT.260/90.07.04.1990.MF, DR.IS [82] de 07.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-1990-332057
+  date: '1990-04-07'
+- type: amended_by
+  target: pt:dre:575327:por
+  label: "Alterado o quadro do pessoal anexo pelo DN.42/90.29.06.1990.MF, DR.IS [148] de 29.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/42-1990-575327
+  date: '1990-06-29'
+- type: amended_by
+  target: pt:dre:575332:por
+  label: "Alterado o quadro de pessoal do Instituto do Emprego e Formação Profissional pela PORT.487/90.29.06.1990.MF, DR.IS\
+    \ [148] de 29.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/487-1990-575332
+  date: '1990-06-29'
+- type: amended_by
+  target: pt:dre:554474:por
+  label: "Alterado o quadro de pessoal, anexo ao presente diploma, pela PORT.926/90.02.10.1990.MF, DR.IS [228] de 02.10.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/926-1990-554474
+  date: '1990-10-02'
+- type: amended_by
+  target: pt:dre:509397:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pelo DN.39/91.02.02.1991.MF, DR.IS-B [28] de 02.02.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/39-1991-509397
+  date: '1991-02-02'
+- type: cites
+  target: pt:dre:157042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394282:por
+  label: Rectificado pela DECL.DD6121.01.07.1982.PCM, DR.IS [161] de 15.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394282
+  date: '1982-07-01'
+- type: repealed_by
+  target: pt:dre:182655:por
+  label: "Revogado pelo DEC LEI.247/85.12.07.1985.MTSS, DR.IS [158] de 12.07.1985, mantendo-se porém em vigor, o quadro de\
+    \ pessoal, ficando o preenchimento dos lugares vagos reservado aos funcionários do IEFP\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1985-182655
+  date: '1985-07-12'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:58Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +298,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Da natureza, finalidades e atribuições
 
-###### Artigo 1.º O Instituto do Emprego e Formação Profissional, criado pelo [Decreto-Lei n.º 519-A2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a2-1979-157042), de 29 de Dezembro, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e revestindo a forma de serviço personalizado do Estado.
+Artigo 1.º O Instituto do Emprego e Formação Profissional, criado pelo [Decreto-Lei n.º 519-A2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a2-1979-157042), de 29 de Dezembro, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e revestindo a forma de serviço personalizado do Estado.
 
-###### Art. 2.º Nos domínios da sua orgânica, o Instituto rege-se pelas disposições do presente diploma, seus regulamentos e restante legislação aplicável.
+Art. 2.º Nos domínios da sua orgânica, o Instituto rege-se pelas disposições do presente diploma, seus regulamentos e restante legislação aplicável.
 
-###### Art. 3.º Dentro da competência que lhe foi definida por lei, prossegue o Instituto as seguintes finalidades:
+Art. 3.º Dentro da competência que lhe foi definida por lei, prossegue o Instituto as seguintes finalidades:
 
 a) Assegurar a informação pública sobre a situação e perspectivas do emprego e formação profissional e desenvolver para o efeito os estudos necessários;
 
@@ -132,7 +312,7 @@ c) Contribuir para a harmonização da gestão do pessoal nas unidades produtiva
 
 d) Contribuir para que as diferentes entidades sectoriais e regionais favoreçam a obtenção de níveis de emprego elevados e estáveis, bem como desencadear iniciativas compensadoras de eventuais efeitos negativos da evolução económica e tecnológica no emprego.
 
-###### Art. 4.º São atribuições do Instituto:
+Art. 4.º São atribuições do Instituto:
 
 a) Assegurar a prestação de serviço gratuito de colocação, informação profissional e sobre o mercado de emprego, orientação, formação e reabilitação profissionais;
 
@@ -162,13 +342,13 @@ n) Proceder aos estudos preparatórios da ratificação de convenções sobre ma
 
 o) Participar na coordenação das actividades de cooperação técnica desenvolvidas com organizações internacionais e países estrangeiros nos domínios do emprego, formação e reabilitação profissionais.
 
-###### Art. 5.º No cumprimento das suas atribuições deverá o Instituto colaborar com outros serviços ou entidades que se ocupem dos problemas do emprego, formação e reabilitação profissinais ou que possam contribuir para a sua solução.
+Art. 5.º No cumprimento das suas atribuições deverá o Instituto colaborar com outros serviços ou entidades que se ocupem dos problemas do emprego, formação e reabilitação profissinais ou que possam contribuir para a sua solução.
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos em geral
 
-###### Art. 6.º São órgãos do Instituto:
+Art. 6.º São órgãos do Instituto:
 
 a) O conselho directivo;
 
@@ -186,13 +366,13 @@ g) Os órgãos executivos locais.
 
 #### SECÇÃO II — Do conselho directivo
 
-###### Art. 7.º - 1 - O conselho directivo gere superiormente o Instituto e é constituído por 1 presidente, 1 vice-presidente e 3 vogais.
+Art. 7.º - 1 - O conselho directivo gere superiormente o Instituto e é constituído por 1 presidente, 1 vice-presidente e 3 vogais.
 
 2 - Os membros do conselho directivo são nomeados por despacho conjunto do Primeiro-Ministro e do Ministro do Trabalho.
 
 3 - A cada vogal caberá a direcção de um dos departamentos a que se refere o artigo 28.º, a determinar pelo conselho directivo.
 
-###### Art. 8.º - 1 - Ao conselho directivo compete, designadamente:
+Art. 8.º - 1 - Ao conselho directivo compete, designadamente:
 
 a) Aprovar regulamentos internos e instruções e emitir directivas adequadas à prossecução das finalidades do Instituto e ao bom funcionamento dos serviços;
 
@@ -210,17 +390,17 @@ g) Conceder subsídios, empréstimos, bolsas ou quaisquer outras formas de apoio
 
 2 - O conselho directivo poderá delegar no presidente, no vice-presidente, nos vogais e nos directores dos centros cordenadores as competências que entender por convenientes e autorizá-los a subdelegar, dentro dos limites legais.
 
-###### Art. 9.º O conselho directivo estabelecerá os limites das competências administrativa e financeira dos funcionários que exerçam cargos directivos a nível central, regional e local, sem prejuízo dos limites legalmente previstos.
+Art. 9.º O conselho directivo estabelecerá os limites das competências administrativa e financeira dos funcionários que exerçam cargos directivos a nível central, regional e local, sem prejuízo dos limites legalmente previstos.
 
-###### Art. 10.º - 1 - O conselho directivo reúne uma vez por semana e sempre que o presidente o entender, só podendo deliberar quando presente a maioria dos seus membros.
+Art. 10.º - 1 - O conselho directivo reúne uma vez por semana e sempre que o presidente o entender, só podendo deliberar quando presente a maioria dos seus membros.
 
 2 - As deliberações serão tomadas por maioria dos membros presentes, tendo o presidente voto de qualidade.
 
 3 - O conselho directivo, independentemente de reuniões conjuntas a efectuar trimestralmente com os directores dos centros coordenadores, pode determinar que participem nas suas reuniões, sempre que o entenda conveniente, mas sem direito a voto, quaisquer funcionários do Instituto.
 
-###### Art. 11.º Os membros do conselho directivo são solidariamente responsáveis pelas deliberações tomadas, salvo se não estiverem presentes ou se houverem feito exarar em acta a sua discordância.
+Art. 11.º Os membros do conselho directivo são solidariamente responsáveis pelas deliberações tomadas, salvo se não estiverem presentes ou se houverem feito exarar em acta a sua discordância.
 
-###### Art. 12.º Ao presidente compete, designadamente:
+Art. 12.º Ao presidente compete, designadamente:
 
 a) Dirigir o Instituto, garantindo a dinâmica indispensável à consecução dos objectivos programados;
 
@@ -234,17 +414,17 @@ e) Autorizar despesas dentro dos limites estabelecidos;
 
 f) Exercer, quanto ao pessoal do Instituto, as competências legalmente estabelecidas para os directores-gerais.
 
-###### Art. 13.º - 1 - O presidente poderá, dentro dos limites da lei, delegar ou subdelegar a sua competência no vice-presidente e, bem assim, em outros funcionários, estabelecendo em cada caso as condições do exercício dessas delegações.
+Art. 13.º - 1 - O presidente poderá, dentro dos limites da lei, delegar ou subdelegar a sua competência no vice-presidente e, bem assim, em outros funcionários, estabelecendo em cada caso as condições do exercício dessas delegações.
 
 2 - Cabe ao vice-presidente substituir o presidente nas suas ausências e impedimentos, bem como coadjuvá-lo no exercício das suas funções, designadamente no que respeita às competências definidas no artigo 12.º e nas de supervisão dos serviços referidos no artigo 15.º
 
-###### Art. 14.º - 1 - O conselho directivo tem competência para tomar decisões que envolvam despesas até ao montante de 2000 contos.
+Art. 14.º - 1 - O conselho directivo tem competência para tomar decisões que envolvam despesas até ao montante de 2000 contos.
 
 2 - O conselho directivo poderá delegar no presidente e nos restantes membros do conselho directivo a competência referida no número anterior.
 
 3 - O presidente, o vice-presidente, os vogais do conselho directivo e os directores dos centros coordenadores poderão ser autorizados, de acordo com o disposto no artigo 8.º, n.º 2, a subdelegar em outros funcionários que exerçam cargos directivos a competência que lhes tenha sido deferida, dentro dos limites estabelecidos nos termos do artigo 9.º
 
-###### Art. 15.º Junto do conselho directivo funcionam os seguintes serviços de apoio:
+Art. 15.º Junto do conselho directivo funcionam os seguintes serviços de apoio:
 
 a) Serviço de Inspecção;
 
@@ -256,7 +436,7 @@ d) Gabinete de Relações Públicas e Cooperação Externa;
 
 e) Gabinete de Informação Científica e Técnica.
 
-###### Art. 16.º Ao Serviço de Inspecção, dirigido por um director, compete:
+Art. 16.º Ao Serviço de Inspecção, dirigido por um director, compete:
 
 a) Apreciar o funcionamento dos órgãos e serviços de âmbito central, regional e local, tendo em vista a sua boa articulação, aperfeiçoamento e dinamização;
 
@@ -268,7 +448,7 @@ d) Elaborar estudos, relatórios, informações e pareceres técnicos sobre assu
 
 e) Proceder à instrução dos processos disciplinares, de inquérito e de sindicância de que for incumbido.
 
-###### Art. 17.º Compete ao Gabinete Jurídico:
+Art. 17.º Compete ao Gabinete Jurídico:
 
 a) Emitir os pareceres e elaborar os estudos jurídicos que lhe sejam determinados;
 
@@ -280,7 +460,7 @@ d) Proceder a estudos de direito comparado nas áreas do emprego, formação e r
 
 e) Informar e apoiar tecnicamente os processos judiciais e de contencioso administrativo em que o Instituto seja interessado.
 
-###### Art. 18.º Compete ao Gabinete de Organização, Programação e Controle:
+Art. 18.º Compete ao Gabinete de Organização, Programação e Controle:
 
 a) Desenvolver, no âmbito do Instituto e em articulação com o Serviço de Organização e Gestão do Pessoal do Ministério, as actuações tendentes a uma constante modernização dos serviços em matéria de organização administrativa;
 
@@ -288,7 +468,7 @@ b) Preparar os programas das acções a desenvolver no âmbito do Instituto ou c
 
 c) Implementar sistemas de tratamento informático e apoiar os serviços do Instituto neste domínio.
 
-###### Art. 19.º Compete ao Gabinete de Relações Públicas e Cooperação Externa:
+Art. 19.º Compete ao Gabinete de Relações Públicas e Cooperação Externa:
 
 a) Promover a informação de interesse comum, quer no âmbito dos órgãos e serviços do Instituto, quer para o público em geral;
 
@@ -300,7 +480,7 @@ d) Apoiar com os meios técnicos adequados as realizações do Instituto, nomead
 
 e) Coordenar e apoiar as actividades de relações internacionais desenvolvidas no âmbito do Instituto.
 
-###### Art. 20.º Compete ao Gabinete de Informação Científica e Técnica:
+Art. 20.º Compete ao Gabinete de Informação Científica e Técnica:
 
 a) Assegurar a informação técnica e documental e respectivo tratamento necessário à actividade do Instituto, em articulação com as estruturas nacionais de informação científica e técnica e nomeadamente com o Serviço de Informação Científica e Técnica do Ministério;
 
@@ -310,11 +490,11 @@ c) Planificar e editar as publicações do Instituto, no âmbito do sistema edit
 
 #### SECÇÃO III — Da comissão de fiscalização
 
-###### Art. 21.º - 1 - A comissão de fiscalização é composta por 1 presidente, designado pelo Ministro do Trabalho, e por 3 vogais, representando respectivamente o Tribunal de Contas, o Ministério das Finanças e do Plano e o Gabinete de Gestão do Fundo de Desemprego.
+Art. 21.º - 1 - A comissão de fiscalização é composta por 1 presidente, designado pelo Ministro do Trabalho, e por 3 vogais, representando respectivamente o Tribunal de Contas, o Ministério das Finanças e do Plano e o Gabinete de Gestão do Fundo de Desemprego.
 
 2 - A forma de remuneração dos membros da comissão será definida por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros do Trabalho e da Reforma Administrativa.
 
-###### Art. 22.º Compete à comissão de fiscalização:
+Art. 22.º Compete à comissão de fiscalização:
 
 a) Fiscalizar a execução do orçamento;
 
@@ -324,11 +504,11 @@ c) Proceder à verificação dos fundos em caixa e em depósito e analisar as co
 
 d) Manter informado o conselho directivo do resultado das verificações e exames a que proceder.
 
-###### Art. 23.º A comissão de fiscalização reúne uma vez por mês e sempre que o seu presidente a convoque.
+Art. 23.º A comissão de fiscalização reúne uma vez por mês e sempre que o seu presidente a convoque.
 
 #### SECÇÃO IV — Do conselho consultivo central
 
-###### Art. 24.º - 1 - O conselho consultivo central é de composição tripartida, integrando representantes:
+Art. 24.º - 1 - O conselho consultivo central é de composição tripartida, integrando representantes:
 
 a) Da Administração Pública;
 
@@ -338,7 +518,7 @@ c) Das organizações de trabalhadores de âmbito nacional.
 
 2 - O número e a forma de designação dos membros do conselho consultivo central serão determinados por despacho do Ministro do Trabalho e a forma da sua remuneração por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros do Trabalho e da Reforma Administrativa.
 
-###### Art. 25.º Compete ao conselho consultivo central acompanhar a actividade do Instituto, designadamente:
+Art. 25.º Compete ao conselho consultivo central acompanhar a actividade do Instituto, designadamente:
 
 a) Dar parecer sobre o plano e relatório anuais das actividades na primeira reunião posterior à sua apresentação;
 
@@ -346,11 +526,11 @@ b) Pronunciar-se em geral sobre todos os assuntos que lhe sejam submetidos pelo 
 
 c) Propor iniciativas que considere vantajosas para a prossecução das finalidades do Instituto.
 
-###### Art. 26.º - 1 - O conselho consultivo central reúne normalmente 4 vezes por ano e sempre que o presidente o entenda necessário.
+Art. 26.º - 1 - O conselho consultivo central reúne normalmente 4 vezes por ano e sempre que o presidente o entenda necessário.
 
 2 - O conselho consultivo central poderá, para além das suas sessões plenárias, reunir por secções especializadas.
 
-###### Art. 27.º - 1 - No âmbito do conselho consultivo central funcionará uma comissão permanente destinada a assegurar a preparação das sessões plenárias, bem como a coordenação dos trabalhos das secções especializadas.
+Art. 27.º - 1 - No âmbito do conselho consultivo central funcionará uma comissão permanente destinada a assegurar a preparação das sessões plenárias, bem como a coordenação dos trabalhos das secções especializadas.
 
 2 - Os membros da comissão permanente serão eleitos anualmente, de entre os componentes do conselho consultivo central, por cada um dos grupos mencionados no n.º 1 do artigo 24.º
 
@@ -358,7 +538,7 @@ c) Propor iniciativas que considere vantajosas para a prossecução das finalida
 
 ##### SUBSECÇÃO I — Da estrutura e competência
 
-###### Art. 28.º - 1 - Os órgãos técnicos de administração central integram-se nos departamentos seguintes:
+Art. 28.º - 1 - Os órgãos técnicos de administração central integram-se nos departamentos seguintes:
 
 a) Departamento de Gestão Financeira e Administração;
 
@@ -368,7 +548,7 @@ c) Centro de investigação e Desenvolvimento das Políticas e Técnicas do Empr
 
 2 - Constituem ainda órgãos técnicos de administração central o Serviço de Reabilitação e Emprego de Deficientes e o Serviço de Gestão de Recursos Humanos, que funcionarão na dependência directa do presidente.
 
-###### Art. 29.º - 1 - Aos órgãos técnicos de administração central incumbe, em geral, apoiar a direcção do Instituto no desempenho das respectivas funções.
+Art. 29.º - 1 - Aos órgãos técnicos de administração central incumbe, em geral, apoiar a direcção do Instituto no desempenho das respectivas funções.
 
 2 - Compete-lhes, designadamente:
 
@@ -390,9 +570,9 @@ h) Colaborar na elaboração dos planos, programas e relatórios de actividade d
 
 ##### SUBSECÇÃO II — Do Departamento de Gestão Financeira e Administração
 
-###### Art. 30.º O Departamento de Gestão Financeira e Administração é dirigido, nos termos do n.º 3 do artigo 7.º por um dos vogais.
+Art. 30.º O Departamento de Gestão Financeira e Administração é dirigido, nos termos do n.º 3 do artigo 7.º por um dos vogais.
 
-###### Art. 31.º Ao Departamento de Gestão Financeira e Administração compete:
+Art. 31.º Ao Departamento de Gestão Financeira e Administração compete:
 
 a) Proceder à elaboração do orçamento e das contas de gerência do Instituto;
 
@@ -428,7 +608,7 @@ q) Instruir todos os processos referentes às prestações sociais de que sejam 
 
 r) Elaborar e manter actualizado o cadastro de todo o pessoal do Instituto.
 
-###### Art. 32. O Departamento de Gestão Financeira e Administração compreende:
+Art. 32. O Departamento de Gestão Financeira e Administração compreende:
 
 1) A Direcção de Serviços de Administração Financeira e de Pessoal, que integra:
 
@@ -448,7 +628,7 @@ c) Divisão de Instalações.
 
 3) O Gabinete de Controle de Gestão.
 
-###### Art. 33.º No exercício das competências atribuídas ao Departamento de Gestão Financeira e Administração no artigo 31.º, incumbe, predominantemente:
+Art. 33.º No exercício das competências atribuídas ao Departamento de Gestão Financeira e Administração no artigo 31.º, incumbe, predominantemente:
 
 1) À Direcção de Serviços de Administração Financeira e de Pessoal, as referidas nas alíneas a), c), e), h), q) e r);
 
@@ -456,7 +636,7 @@ c) Divisão de Instalações.
 
 3) Ao Gabinete de Controle de Gestão, as referidas nas alíneas b), d) e n).
 
-###### Art. 34.º No exercício das atribuições cometidas no artigo anterior às direcções de serviços nele referidas, cabem, designadamente:
+Art. 34.º No exercício das atribuições cometidas no artigo anterior às direcções de serviços nele referidas, cabem, designadamente:
 
 1) À Repartição de Administração de Pessoal, as constantes das alíneas h), q) e r);
 
@@ -472,9 +652,9 @@ c) Divisão de Instalações.
 
 ##### SUBSECÇÃO III — Do Departamento Técnico
 
-###### Art. 35.º O Departamento Técnico é dirigido, nos termos do n.º 3 do artigo 7.º, por um dos vogais do conselho directivo.
+Art. 35.º O Departamento Técnico é dirigido, nos termos do n.º 3 do artigo 7.º, por um dos vogais do conselho directivo.
 
-###### Art. 36.º - 1 - Ao Departamento Técnico compete:
+Art. 36.º - 1 - Ao Departamento Técnico compete:
 
 a) Conceber e preparar as técnicas e métodos de colocação a utilizar pelos serviços;
 
@@ -526,7 +706,7 @@ z) Preparar esquemas de avaliação de conhecimentos adequados à definição do
 
 2 - Pela celebração dos acordos previstos na alínea t) poderão ser criados, mediante despacho homologatório do Ministro do Trabalho, centros protocolares com autonomia e personalidade jurídicas, cujos órgãos de administração e fiscalização serão presididos por representantes do IEFP, sempre que se verifiquem intervenções financeiras deste organismo superiores a 50% dos respectivos encargos globais.
 
-###### Art. 37.º O Departamento Técnico compreende:
+Art. 37.º O Departamento Técnico compreende:
 
 1) A Direcção de Serviços de Colocação, que integra:
 
@@ -560,7 +740,7 @@ a) Núcleo de Medicina do Trabalho;
 
 b) Núcleo de Serviço Social.
 
-###### Art. 38.º No exercício das competências atribuídas ao Departamento Técnico no artigo 36.º, incumbem predominantemente:
+Art. 38.º No exercício das competências atribuídas ao Departamento Técnico no artigo 36.º, incumbem predominantemente:
 
 1) À Direcção de Serviços de Colocação, as referidas nas alíneas a), b), c), d), e) e f);
 
@@ -574,7 +754,7 @@ b) Núcleo de Serviço Social.
 
 6) Ao Núcleo do Serviço Social, a referida na alínea j).
 
-###### Art. 39.º No exercício das competências atribuídas no artigo anterior às Direcções de Serviços de Colocação e de Promoção do Emprego, cabem, designadamente:
+Art. 39.º No exercício das competências atribuídas no artigo anterior às Direcções de Serviços de Colocação e de Promoção do Emprego, cabem, designadamente:
 
 1) À Divisão de Colocação, as constantes das alíneas a), b) e e);
 
@@ -588,9 +768,9 @@ b) Núcleo de Serviço Social.
 
 ##### SUBSECÇÃO IV — Do Centro de Investigação e Desenvolvimento das Políticas e Técnicas do Emprego
 
-###### Art. 40.º O Centro de Investigação e Desenvolvimento das Políticas e Técnicas do Emprego, adiante referido como Centro de Investigação e Desenvolvimento, é dirigido, nos termos do n.º 3 do artigo 7.º, por um dos vogais do conselho directivo.
+Art. 40.º O Centro de Investigação e Desenvolvimento das Políticas e Técnicas do Emprego, adiante referido como Centro de Investigação e Desenvolvimento, é dirigido, nos termos do n.º 3 do artigo 7.º, por um dos vogais do conselho directivo.
 
-###### Art. 41.º Ao Centro de Investigação e Desenvolvimento compete:
+Art. 41.º Ao Centro de Investigação e Desenvolvimento compete:
 
 a) Preparar e promover a aplicação de técnicas e métodos de análise do mercado de emprego;
 
@@ -620,7 +800,7 @@ n) Participar na elaboração de estudos relacionados com a preparação e avali
 
 o) Estudar a incidência da satisfação das necessidades sociais na solução dos problemas de emprego.
 
-###### Art. 42.º O Centro de Investigação e Desenvolvimento compreende:
+Art. 42.º O Centro de Investigação e Desenvolvimento compreende:
 
 1) A Direcção de Serviços de Estudos, que integra:
 
@@ -636,13 +816,13 @@ c) A Divisão de Estudos Profissionais;
 
 4) O Centro de Produção de Meios Áudio-Visuais.
 
-###### Art. 43.º - 1 - O Centro de Investigação e Desenvolvimento processará igualmente a sua actividade por grupos de projectos, coordenados por técnicos superiores do Instituto.
+Art. 43.º - 1 - O Centro de Investigação e Desenvolvimento processará igualmente a sua actividade por grupos de projectos, coordenados por técnicos superiores do Instituto.
 
 2 - Os grupos de projectos inserem-se, nomeadamente, nas áreas funcionais para que apontam as competências definidas nas alíneas d), g), i), m), n) e o) do artigo 41.º
 
 3 - A actividade de investigação do Centro, integrada na prossecução dos objectivos do Instituto, será desenvolvida em cooperação com organismos de investigação afins, designadamente universidades, recorrendo ao respectivo apoio científico.
 
-###### Art. 44.º No exercício das competências atribuídas ao Centro de Investigação e Desenvolvimento no artigo 41.º, incumbem, predominantemente:
+Art. 44.º No exercício das competências atribuídas ao Centro de Investigação e Desenvolvimento no artigo 41.º, incumbem, predominantemente:
 
 1) À Direcção de Serviços de Estudos, as indicadas nas alíneas a), b), c), f), h) e l);
 
@@ -652,7 +832,7 @@ c) A Divisão de Estudos Profissionais;
 
 4) Ao Centro de Produção de Meios Áudio-Visuais, a indicada na alínea i), na parte respeitante.
 
-###### Art. 45.º No exercício das competências atribuídas no artigo anterior à Direcção de Serviços de Estudos, cabem, designadamente:
+Art. 45.º No exercício das competências atribuídas no artigo anterior à Direcção de Serviços de Estudos, cabem, designadamente:
 
 1) À Divisão de Programas de Formação Profissional, a constante da alínea l);
 
@@ -662,7 +842,7 @@ c) A Divisão de Estudos Profissionais;
 
 ##### SUBSECÇÃO V — Do Serviço de Reabilitação e Emprego de Deficientes
 
-###### Art. 46.º Ao Serviço de Reabilitação e Emprego de Deficientes, dirigido por um director, compete;
+Art. 46.º Ao Serviço de Reabilitação e Emprego de Deficientes, dirigido por um director, compete;
 
 a) Apoiar e acompanhar a actividade desenvolvida pelos serviços regionais e locais nos domínios da avaliação e adaptação ou readaptação ao trabalho, informação, orientação e formação profissionais e emprego de deficientes, elaborando para o efeito os necessários instrumentos técnicos;
 
@@ -680,13 +860,13 @@ g) Promover, através dos competentes serviços do Instituto, a formação do pe
 
 h) Promover, no âmbito da competência própria do Instituto, a implementação do registo dos deficientes e assegurar a sua permanente actualização.
 
-###### Art. 47.º O Serviço de Reabilitação e Emprego de Deficientes compreende:
+Art. 47.º O Serviço de Reabilitação e Emprego de Deficientes compreende:
 
 a) Divisão de Reabilitação Profissional;
 
 b) Divisão de Emprego de Deficientes.
 
-###### Art. 48.º No exercício das competências atribuídas ao Serviço de Reabilitação e Emprego de Deficientes no artigo 46.º, incumbem, predominantemente:
+Art. 48.º No exercício das competências atribuídas ao Serviço de Reabilitação e Emprego de Deficientes no artigo 46.º, incumbem, predominantemente:
 
 1) À Divisão de Reabilitação Profissional, as referidas nas alíneas a), b) e f);
 
@@ -694,7 +874,7 @@ b) Divisão de Emprego de Deficientes.
 
 ##### SUBSECÇÃO VI — Do Serviço de Gestão de Recursos Humanos
 
-###### Art. 49.º Ao Serviço de Gestão de Recursos Humanos, dirigido por um director, compete:
+Art. 49.º Ao Serviço de Gestão de Recursos Humanos, dirigido por um director, compete:
 
 a) Manter adequado à evolução dos serviços o regulamento do pessoal do Instituto;
 
@@ -714,9 +894,9 @@ g) Coordenar a participação dos funcionários do Instituto em cursos ou estág
 
 ##### SUBSECÇÃO I — Da estrutura e competência
 
-###### Art. 50.º Os centros coordenadores são os órgãos que prosseguem a nível regional as finalidades do Instituto, através da realização dos seus objectivos.
+Art. 50.º Os centros coordenadores são os órgãos que prosseguem a nível regional as finalidades do Instituto, através da realização dos seus objectivos.
 
-###### Art. 51.º - 1 - Os centros coordenadores são em número de 5, correspondendo às áreas geográficas seguintes:
+Art. 51.º - 1 - Os centros coordenadores são em número de 5, correspondendo às áreas geográficas seguintes:
 
 a) Centro Coordenador do Norte, com sede no Porto: área dos distritos de Viana do Castelo, Braga, Porto, Vila Real e Bragança;
 
@@ -730,7 +910,7 @@ e) Centro Coordenador do Algarve, com sede em Faro: área do distrito de Faro.
 
 2 - A área geográfica dos centros coordenadores será ajustada às das regiões administrativas, logo que as mesmas sejam criadas, e o seu âmbito definido em diploma legal.
 
-###### Art. 52.º Aos centros coordenadores incumbe, nomeadamente:
+Art. 52.º Aos centros coordenadores incumbe, nomeadamente:
 
 a) Recolher e tratar as informações sobre a situação e perspectivas do mercado de emprego, proceder à sua análise e encaminhamento para os serviços centrais do Instituto e para os órgãos de planeamento regional, com vista à sua participação na resolução dos problemas de emprego, formação e reabilitação profissionais, no quadro do desenvolvimento regional;
 
@@ -746,7 +926,7 @@ f) Propor superiormente ou facultar apoio técnico, pedagógico financeiro ou ou
 
 g) Participar na organização dos ficheiros de projectos, iniciativas e oportunidades de investimento, bem como de ofertas e meios de formação e reabilitação profissionais, e incentivar o lançamento de unidades produtivas adequadas às características dos candidatos a emprego e a implementação de unidades de emprego protegido, proporcionando-lhes o apoio técnico ou financeiro necessário.
 
-###### Art. 53.º - 1 - Os centros coordenadores são dirigidos por directores, na dependência directa do presidente do conselho directivo.
+Art. 53.º - 1 - Os centros coordenadores são dirigidos por directores, na dependência directa do presidente do conselho directivo.
 
 2 - Ao director do centro coordenador compete, na sua área geográfica:
 
@@ -762,7 +942,7 @@ e) Elaborar e submeter à apreciação superior os relatórios de actividades;
 
 f) Convocar o conselho consultivo do centro coordenador e presidir às suas reuniões.
 
-###### Art. 54.º - 1 - O director do centro coordenador pode ser coadjuvado por um ou mais subdirectores do centro coordenador.
+Art. 54.º - 1 - O director do centro coordenador pode ser coadjuvado por um ou mais subdirectores do centro coordenador.
 
 2 - Os subdirectores do centro coordenador distribuem-se pelas diferentes áreas geográficas, como segue:
 
@@ -778,9 +958,9 @@ e) Na área do Centro Coordenador do Algarve, 1 subdirector do centro coordenado
 
 3 - Os subdirectores dos centros coordenadores terão a competência regional ou funcional que lhes for delegada pelo director do centro coordenador.
 
-###### Art. 55.º O director do centro coordenador será substituído, nas suas ausências e impedimentos, por um subdirector do centro coordenador ou, em caso de impossibilidade, pelo funcionário que designar.
+Art. 55.º O director do centro coordenador será substituído, nas suas ausências e impedimentos, por um subdirector do centro coordenador ou, em caso de impossibilidade, pelo funcionário que designar.
 
-###### Art. 56.º - 1 - Cada direcção do centro coordenador compreende:
+Art. 56.º - 1 - Cada direcção do centro coordenador compreende:
 
 a) Uma divisão técnica;
 
@@ -790,13 +970,13 @@ c) Uma repartição administrativa.
 
 2 - Junto de cada centro coordenador funciona um conselho consultivo.
 
-###### Art. 57.º - 1 - Aos serviços previstos no n.º 1 do artigo anterior incumbe, em geral, apoiar o director do centro coordenador no desempenho das respectivas funções, nomeadamente no que respeita à promoção técnica e à coordenação das actividades prosseguidas pelos órgãos executivos locais.
+Art. 57.º - 1 - Aos serviços previstos no n.º 1 do artigo anterior incumbe, em geral, apoiar o director do centro coordenador no desempenho das respectivas funções, nomeadamente no que respeita à promoção técnica e à coordenação das actividades prosseguidas pelos órgãos executivos locais.
 
 2 - Aos referidos serviços cabem, na área geográfica do centro coordenador e no respeito da delimitação estabelecida no artigo 52.º, as competências dos correspondentes órgãos técnicos da administração central.
 
 ##### SUBSECÇÃO II — Dos conselhos consultivos dos centros coordenadores
 
-###### Art. 58.º - 1 - Os conselhos consultivos dos centros coordenadores são de composição tripartida, integrando representantes:
+Art. 58.º - 1 - Os conselhos consultivos dos centros coordenadores são de composição tripartida, integrando representantes:
 
 a) Da Administração Pública e autarquias locais;
 
@@ -806,11 +986,11 @@ c) De organizações de trabalhadores dos sectores mais representativos da área
 
 2 - O número e a forma de designação dos membros dos conselhos consultivos dos centros coordenadores serão determinados por despacho do Ministro do Trabalho, e a forma da sua remuneração por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros do Trabalho e da Reforma Administrativa.
 
-###### Art. 59.º - 1 - Os conselhos consultivos dos centros coordenadores reúnem normalmente 4 vezes por ano e sempre que o seu presidente o entenda necessário.
+Art. 59.º - 1 - Os conselhos consultivos dos centros coordenadores reúnem normalmente 4 vezes por ano e sempre que o seu presidente o entenda necessário.
 
 2 - Os conselhos consultivos dos centros coordenadores poderão, para além das sessões plenárias, reunir por secções especializadas.
 
-###### Art. 60.º Compete aos conselhos consultivos dos centros coordenadores acompanhar a actividade dos serviços implantados na respectiva área e, designadamente:
+Art. 60.º Compete aos conselhos consultivos dos centros coordenadores acompanhar a actividade dos serviços implantados na respectiva área e, designadamente:
 
 a) Dar parecer sobre o plano e relatório anuais do centro coordenador;
 
@@ -822,7 +1002,7 @@ c) Propor iniciativas que considerem vantajosas para a prossecução das finalid
 
 ##### SUBSECÇÃO I — Dos órgãos executivos locais em geral
 
-###### Art. 61.º - 1 - São órgãos executivos locais do Instituto:
+Art. 61.º - 1 - São órgãos executivos locais do Instituto:
 
 a) Os centros de emprego;
 
@@ -838,19 +1018,19 @@ e) Os centros de emprego protegido.
 
 3 - Para as acções de formação e reabilitação profissionais previstas neste diploma poderão ser criados nos centros respectivos refeitórios, dormitórios e lares como forma de apoio social aos trabalhadores estagiários ou aos deficientes enquanto estejam a seguir cursos de formação profissional ou se mantenham em unidades de emprego protegido.
 
-###### Art. 62.º - 1 - Os centros distribuem-se por 3 categorias, sendo a respectiva classificação e as correspondentes dotações em pessoal fixadas pelo Ministro do Trabalho, sob proposta do conselho directivo.
+Art. 62.º - 1 - Os centros distribuem-se por 3 categorias, sendo a respectiva classificação e as correspondentes dotações em pessoal fixadas pelo Ministro do Trabalho, sob proposta do conselho directivo.
 
 2 - A classificação dos centros atenderá, nomeadamente, à população activa abrangida, à extensão territorial coberta, ao grande desenvolvimento da respectiva área e ao seu nível de especialização.
 
 3 - Os centros, na fase actual, são em número de 120, distribuindo-se 15 pela categoria, 45 pela 2.ª categoria e 60 pela 3.ª categoria.
 
-###### Art. 63.º - 1 - A direcção dos centros será assegurada por directores do centro providos em comissão de serviço.
+Art. 63.º - 1 - A direcção dos centros será assegurada por directores do centro providos em comissão de serviço.
 
 2 - Os directores de centros de 1.ª categoria poderão ser coadjuvados no exercício das suas funções por subdirectores de centro.
 
 ##### SUBSECÇÃO II — Dos centros de emprego
 
-###### Art. 64.º - 1 - Aos centros de emprego compete realizar acções tendentes à organização do mercado de emprego na respectiva área.
+Art. 64.º - 1 - Aos centros de emprego compete realizar acções tendentes à organização do mercado de emprego na respectiva área.
 
 2 - Cabe-lhes, designadamente:
 
@@ -874,7 +1054,7 @@ i) Colaborar na elaboração dos planos, programas e relatórios de actividade d
 
 ##### SUBSECÇÃO III — Dos centros de formação profissional
 
-###### Art. 65.º - 1 - Aos centros de formação profissional compete preparar, executar ou apoiar acções de formação profissional e eventualmente de reabilitação profissional na respectiva área.
+Art. 65.º - 1 - Aos centros de formação profissional compete preparar, executar ou apoiar acções de formação profissional e eventualmente de reabilitação profissional na respectiva área.
 
 2 - Cabe-lhes, designadamente:
 
@@ -894,11 +1074,11 @@ g) Apoiar iniciativas locais de formação e reabilitação profissionais, nomea
 
 ##### SUBSECÇÃO IV — Dos centros mistos de emprego e formação profissional
 
-###### Art. 66.º Aos centros mistos de emprego e formação profissional cabem, cumulativamente, na área, as competências definidas nos artigos 64.º e 65.º
+Art. 66.º Aos centros mistos de emprego e formação profissional cabem, cumulativamente, na área, as competências definidas nos artigos 64.º e 65.º
 
 ##### SUBSECÇÃO V — Dos centros de reabilitação profissional
 
-###### Art. 67.º - 1 - Aos centros de reabilitação profissional compete, na respectiva área, proporcionar, aos deficientes, serviços adequados de avaliação, adaptação e readaptação, bem como de formação profissional.
+Art. 67.º - 1 - Aos centros de reabilitação profissional compete, na respectiva área, proporcionar, aos deficientes, serviços adequados de avaliação, adaptação e readaptação, bem como de formação profissional.
 
 2 - Incumbem-lhes, em especial, além das atribuições correspondentes aos centros de formação profissional referidas no n.º 2 do artigo 65.º, as seguintes:
 
@@ -912,13 +1092,13 @@ d) Colaborar e apoiar iniciativas de outras entidades que se ocupem da reabilita
 
 ##### SUBSECÇÃO VI — Dos centros de emprego protegido
 
-###### Art. 68.º - 1 - Aos centros de emprego protegido compete facultar postos de trabalho aos deficientes cujas características e rendimento de trabalho não justifiquem desde logo a sua integração no mercado de emprego normal.
+Art. 68.º - 1 - Aos centros de emprego protegido compete facultar postos de trabalho aos deficientes cujas características e rendimento de trabalho não justifiquem desde logo a sua integração no mercado de emprego normal.
 
 2 - Os centros de emprego protegido serão objecto de regulamento próprio, sem prejuízo de lhes serem, desde já, cometidas as atribuições correspondentes às enunciadas nas alíneas a), c), d) e f) do n.º 2 do artigo 65.º
 
 ### CAPÍTULO III — Da gestão financeira e patrimonial
 
-###### Art. 69.º - 1 - A gestão financeira do Instituto será disciplinada pelos seguintes instrumentos de gestão previsional:
+Art. 69.º - 1 - A gestão financeira do Instituto será disciplinada pelos seguintes instrumentos de gestão previsional:
 
 a) Programa anual de actividades;
 
@@ -926,7 +1106,7 @@ b) Orçamento privativo anual.
 
 2 - Independentemente do disposto no número anterior, poderão, sempre que necessário, ser elaborados planos plurianuais de actividades e financeiros.
 
-###### Art. 70.º Constituem receitas do Instituto:
+Art. 70.º Constituem receitas do Instituto:
 
 a) As verbas para o efeito inscritas nos orçamentos anuais do Gabinete de Gestão do Fundo de Desemprego, nos termos definidos pelo Ministro do Trabalho, sob proposta do conselho directivo, e tendo em conta a aplicação de recursos prevista no artigo 7.º, n.º 2, do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro;
 
@@ -948,33 +1128,33 @@ i) As doações, heranças ou legados aceites a benefício de inventário;
 
 j) Os saldos das gerências anteriores.
 
-###### Art. 71.º Constituem encargos do Instituto as despesas inerentes ao seu funcionamento e às actividades resultantes das competências e atribuições previstas neste diploma.
+Art. 71.º Constituem encargos do Instituto as despesas inerentes ao seu funcionamento e às actividades resultantes das competências e atribuições previstas neste diploma.
 
-###### Art. 72.º As disponibilidades do Instituto serão obrigatoriamente depositadas à sua ordem em qualquer instituição de crédito nos termos legais e sem prejuízo de poder ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que deva ser feito em dinheiro.
+Art. 72.º As disponibilidades do Instituto serão obrigatoriamente depositadas à sua ordem em qualquer instituição de crédito nos termos legais e sem prejuízo de poder ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que deva ser feito em dinheiro.
 
-###### Art. 73.º - 1 - A movimentação de valores depositados só poderá processar-se mediante 2 assinaturas, uma das quais deverá ser de 1 membro do conselho directivo, podendo a outra ser de funcionário do Departamento de Gestão Financeira e Administração que, para o efeito, for designado por aquele conselho.
+Art. 73.º - 1 - A movimentação de valores depositados só poderá processar-se mediante 2 assinaturas, uma das quais deverá ser de 1 membro do conselho directivo, podendo a outra ser de funcionário do Departamento de Gestão Financeira e Administração que, para o efeito, for designado por aquele conselho.
 
 2 - Em caso de descentralização de meios financeiros, designadamente o previsto na alínea e) do n.º 1 do atrigo 8.º, a movimentação dos valores depositados processar-se-á mediante 2 assinaturas, nos termos a estabelecer casuisticamente pelo conselho directivo.
 
 3 - A movimentação de depósitos do Instituto ou a seu favor é isenta de prémio de transferência.
 
-###### Art. 74.º Na elaboração do orçamento privativo deverá atender-se aos eventuais desdobramentos internos necessários à conveniente descentralização de responsabilidades e ao adequado controle de gestão.
+Art. 74.º Na elaboração do orçamento privativo deverá atender-se aos eventuais desdobramentos internos necessários à conveniente descentralização de responsabilidades e ao adequado controle de gestão.
 
-###### Art. 75.º Quando as circunstâncias o imponham ou o eficiente funcionamento do Instituto o aconselhe, poderá o Ministro do Trabalho, sob proposta do conselho directivo, autorizar a elaboração de orçamentos suplementares, nos termos da legislação em vigor.
+Art. 75.º Quando as circunstâncias o imponham ou o eficiente funcionamento do Instituto o aconselhe, poderá o Ministro do Trabalho, sob proposta do conselho directivo, autorizar a elaboração de orçamentos suplementares, nos termos da legislação em vigor.
 
-###### Art. 76.º A elaboração e a aprovação do orçamento previsto, bem como dos orçamentos suplementares, obedecerão ao legalmente fixado para os organismos dotados de autonomia administrativa e financeira, revestindo a forma de serviços personalizados do Estado.
+Art. 76.º A elaboração e a aprovação do orçamento previsto, bem como dos orçamentos suplementares, obedecerão ao legalmente fixado para os organismos dotados de autonomia administrativa e financeira, revestindo a forma de serviços personalizados do Estado.
 
-###### Art. 77.º As contas de gerência do Instituto, acompanhadas do competente parecer da comissão de fiscalização, serão submetidas à homologação do Ministro do Trabalho, ficando sujeitas ao previsto e disposto na legislação em vigor.
+Art. 77.º As contas de gerência do Instituto, acompanhadas do competente parecer da comissão de fiscalização, serão submetidas à homologação do Ministro do Trabalho, ficando sujeitas ao previsto e disposto na legislação em vigor.
 
-###### Art. 78.º O Instituto disporá de sistemas de contabilidade adequados à determinação rigorosa dos custos da sua actividade.
+Art. 78.º O Instituto disporá de sistemas de contabilidade adequados à determinação rigorosa dos custos da sua actividade.
 
-###### Art. 79.º As normas referentes à concessão dos subsídios ou empréstimos previstos no artigo 4.º são objecto de regulamentação própria.
+Art. 79.º As normas referentes à concessão dos subsídios ou empréstimos previstos no artigo 4.º são objecto de regulamentação própria.
 
-###### Art. 80.º O Instituto beneficiará do regime de isenções fiscais previstas na lei, sem prejuízo do disposto no artigo 79.º
+Art. 80.º O Instituto beneficiará do regime de isenções fiscais previstas na lei, sem prejuízo do disposto no artigo 79.º
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 81.º - 1 - O quadro de pessoal do Instituto é - transitoriamente e sem prejuízo de adequada revisão - o constante do mapa anexo ao presente diploma.
+Art. 81.º - 1 - O quadro de pessoal do Instituto é - transitoriamente e sem prejuízo de adequada revisão - o constante do mapa anexo ao presente diploma.
 
 2 - Transita para o quadro de pessoal do Instituto, mantendo a sua situação actual, todo o pessoal dos quadros do Fundo de Desenvolvimento da Mão-de-Obra e da Direcção-Geral do Emprego constantes do mapa anexo ao [Decreto n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto/146-1978-324735), de 13 de Dezembro, incluindo o pessoal requisitado e, com excepção do pessoal dirigente, em regime de comissão de serviço.
 
@@ -988,7 +1168,7 @@ j) Os saldos das gerências anteriores.
 
 7 - Os tesoureiros dos quadros do IEFP têm direito a abono para falhas, nos termos da lei geral.
 
-###### Art. 82.º - 1 - Para os devidos efeitos legais, são equiparados:
+Art. 82.º - 1 - Para os devidos efeitos legais, são equiparados:
 
 a) A director-geral, o presidente;
 
@@ -1002,7 +1182,7 @@ d) A chefe de divisão, os directores da Central de Dados, do Centro Pedagógico
 
 3 - Aos cargos de director de centro de 3.ª categoria e subdirector de centro corresponde a letra E.
 
-###### Art. 83.º - 1 - O recrutamento do pessoal dirigente será feito nos termos previstos na lei geral.
+Art. 83.º - 1 - O recrutamento do pessoal dirigente será feito nos termos previstos na lei geral.
 
 2 - Os chefes de repartição serão providos por despacho do Ministro do Trabalho, sob proposta do conselho directivo, indistintamente de entre:
 
@@ -1014,42 +1194,42 @@ c) Adjuntos técnicos principais com experiência comprovada de, pelo menos, 3 a
 
 3 - Os cargos de director de centro de 2.ª categoria e de 3.ª categoria, bem como o de subdirector de centro, serão providos, em regime de comissão de serviço, por funcionários do Instituto pertencentes às carreiras de técnico superior, técnicos de emprego, de formação profissional e de orientação profissional, promotores e ainda por funcionários pertencentes a outras carreiras que já exerçam funções de responsável de centro à data da entrada em vigor deste diploma e se encontrem nesse exercício à data do provimento, não podendo no entanto em qualquer dos casos possuir categorias remuneradas por letra inferior à letra H.
 
-###### Art. 84.º - 1 - A coordenação dos gabinetes previstos no presente diploma, bem como da Central de Compensação e do Centro de Produção de Meios Áudio-Visuais, caberá a funcionários do Instituto de categoria não inferior à de técnico superior principal.
+Art. 84.º - 1 - A coordenação dos gabinetes previstos no presente diploma, bem como da Central de Compensação e do Centro de Produção de Meios Áudio-Visuais, caberá a funcionários do Instituto de categoria não inferior à de técnico superior principal.
 
 2 - A coordenação dos núcleos previstos no presente diploma caberá a funcionários dos quadros do Instituto de categoria não inferior à de técnico principal.
 
-###### Art. 85.º Para o lançamento de acções incluídas em programas de emprego e formação profissional poderá o IEFP, quando necessário, promover a aquisição de serviços, por períodos não superiores a 12 meses, de pessoas cuja qualificação e experiência não correspondam às do pessoal do seu quadro, nos termos da legislação em vigor.
+Art. 85.º Para o lançamento de acções incluídas em programas de emprego e formação profissional poderá o IEFP, quando necessário, promover a aquisição de serviços, por períodos não superiores a 12 meses, de pessoas cuja qualificação e experiência não correspondam às do pessoal do seu quadro, nos termos da legislação em vigor.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 86.º Far-se-á sem qualquer formalidade a transferência para o IEFP dos meios técnicos, financeiros e patrimoniais dos serviços extintos nos precisos termos do disposto no artigo 7.º do [Decreto-Lei n.º 519-A2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a2-1979-157042), de 29 de Dezembro.
+Art. 86.º Far-se-á sem qualquer formalidade a transferência para o IEFP dos meios técnicos, financeiros e patrimoniais dos serviços extintos nos precisos termos do disposto no artigo 7.º do [Decreto-Lei n.º 519-A2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a2-1979-157042), de 29 de Dezembro.
 
-###### Art. 87.º Consideram-se reportadas ao IEFP as referências feitas em disposições legais ao FDMO e que digam respeito, designadamente, a isenções fiscais e aos direitos e obrigações e a quaisquer receitas que, por lei, contrato ou a outro título, lhe estejam cometidas.
+Art. 87.º Consideram-se reportadas ao IEFP as referências feitas em disposições legais ao FDMO e que digam respeito, designadamente, a isenções fiscais e aos direitos e obrigações e a quaisquer receitas que, por lei, contrato ou a outro título, lhe estejam cometidas.
 
-###### Art. 88.º - 1 - Até à aprovação do seu primeiro orçamento, a realização das despesas relativas ao IEFP será efectuada através do orçamento do FDMO.
+Art. 88.º - 1 - Até à aprovação do seu primeiro orçamento, a realização das despesas relativas ao IEFP será efectuada através do orçamento do FDMO.
 
 2 - Durante o período referido no número anterior serão exercidas pelo conselho directivo as competências do conselho administrativo do FDMO.
 
 3 - No período que decorrer entre a entrada em vigor do presente diploma e a nomeação do conselho directivo, a gestão do IEFP será assegurada pelos actuais membros do conselho administrativo do FDMO.
 
-###### Art. 89.º Até à nomeação do conselho directivo, e com vista quer ao assegurar da gestão do Instituto nos termos do disposto no n.º 3 do artigo 88.º, quer ao promover dos trabalhos iniciais da transferência a que se refere o artigo 86.º, manterá transitoriamente a situação anterior o pessoal dirigente constante dos quadros aprovados pelo [Decreto n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto/146-1978-324735), de 13 de Dezembro, e actualmente em regime de comissão de serviço.
+Art. 89.º Até à nomeação do conselho directivo, e com vista quer ao assegurar da gestão do Instituto nos termos do disposto no n.º 3 do artigo 88.º, quer ao promover dos trabalhos iniciais da transferência a que se refere o artigo 86.º, manterá transitoriamente a situação anterior o pessoal dirigente constante dos quadros aprovados pelo [Decreto n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto/146-1978-324735), de 13 de Dezembro, e actualmente em regime de comissão de serviço.
 
-###### Art. 90.º Aos membros de grupos de trabalho ou comissões de natureza temporária cuja necessidade de criação seja reconhecida por despacho do Ministro do Trabalho para melhor implementação das acções específicas nos domínios do emprego, da formação ou reabilitação profissional, em cooperação com entidades públicas ou privadas e no âmbito deste decreto-lei, poderão ser atribuídas senhas de presença nos termos legais.
+Art. 90.º Aos membros de grupos de trabalho ou comissões de natureza temporária cuja necessidade de criação seja reconhecida por despacho do Ministro do Trabalho para melhor implementação das acções específicas nos domínios do emprego, da formação ou reabilitação profissional, em cooperação com entidades públicas ou privadas e no âmbito deste decreto-lei, poderão ser atribuídas senhas de presença nos termos legais.
 
-###### Art. 91.º É revogada toda a legislação referente às atribuições, orgânica e funcionamento, bem como ao regime de pessoal e constituição dos respectivos quadros, dos serviços extintos nos termos do artigo 7.º do [Decreto-Lei n.º 519-A2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a2-1979-157042), de 29 de Dezembro, designadamente os Decretos-Leis n.os 44506, de 10 de Agosto de 1962, [759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 29 de Dezembro, no que respeita ao FDMO, e 726/74, de 30 de Dezembro, no que toca à DGE e à DGPE, e o [Decreto n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto/146-1978-324735), de 13 de Dezembro, salvo no que se refere ao regime de pessoal.
+Art. 91.º É revogada toda a legislação referente às atribuições, orgânica e funcionamento, bem como ao regime de pessoal e constituição dos respectivos quadros, dos serviços extintos nos termos do artigo 7.º do [Decreto-Lei n.º 519-A2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a2-1979-157042), de 29 de Dezembro, designadamente os Decretos-Leis n.os 44506, de 10 de Agosto de 1962, [759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 29 de Dezembro, no que respeita ao FDMO, e 726/74, de 30 de Dezembro, no que toca à DGE e à DGPE, e o [Decreto n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto/146-1978-324735), de 13 de Dezembro, salvo no que se refere ao regime de pessoal.
 
-###### Art. 92.º As dúvidas que na aplicação deste diploma se suscitem serão resolvidas por despacho do Ministro do Trabalho ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros do Trabalho e da Reforma Administrativa, consoante as matérias a que disserem respeito.
+Art. 92.º As dúvidas que na aplicação deste diploma se suscitem serão resolvidas por despacho do Ministro do Trabalho ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros do Trabalho e da Reforma Administrativa, consoante as matérias a que disserem respeito.
 
-###### Art. 93.º O presente diploma entra em vigor em 1 de Junho de 1982.
+Art. 93.º O presente diploma entra em vigor em 1 de Junho de 1982.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 26 de Abril de 1982.**
+Promulgado em 26 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal do IEFP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/11400/13191334.pdf))](https://files.diariodarepublica.pt/1s/1982/05/11400/13191334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11400/13191334.pdf)

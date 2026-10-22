@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 300/1968, 1º Suplemento, Série I de 1968-12-21
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1883 - 1884
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30001/18831884.pdf
 entry_into_force_dates: []
@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48783-1968-306645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43a2531ee6265b47d506fc433df0ebb057dc46dd00686820579cd5ef5cb7eba2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bcf4b8f6412db6347982e51a36396a67a7b14150fd4de984a6b75e5d270fecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Crime
+- Emigração
+relationships:
+- type: cites
+  target: pt:dre:486290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638114:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:54Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +110,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. - 1. É amnistiado o crime de emigração clandestina previsto no n.º 4.º do artigo 85.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a redacção dada pelo [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961, e no artigo 3.º do [Decreto-Lei n.º 46939](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46939-1966-486290), de 5 de Abril de 1966.
+Artigo único. - 1. É amnistiado o crime de emigração clandestina previsto no n.º 4.º do artigo 85.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a redacção dada pelo [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961, e no artigo 3.º do [Decreto-Lei n.º 46939](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46939-1966-486290), de 5 de Abril de 1966.
 
 2. Este benefício não aproveita aos reincidentes, delinquentes de difícil correcção, vadios e equiparados.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 20 de Dezembro de 1968.**
+Promulgado em 20 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

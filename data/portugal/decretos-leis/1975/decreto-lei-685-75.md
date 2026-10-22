@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28400/19881988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/685-1975-311261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b05212e90c2c94f9b8d4e5fffb57eb9ee2fbab383407337d0cd6497ca9d44f08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3d3aa944bca4010931385f09033b8764ec7fa1c22de414c3b055605d092343a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cinema
+- Comissão Administrativa
+- Indústria Cinematográfica
+- Instituto Português de Cinema
+- Produção Cinematográfica
 relationships:
 - type: amended_by
   target: pt:dre:375838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:375838:por
+  label: "Revogado pelo DEC LEI.391/82.17.09.1982.MCCC, DR.IS [216] de 17.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1982-375838
+  date: '1982-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:10Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +106,20 @@ Tornando-se indispensável salvaguardar a função social que o cinema visa cump
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Instituto Português de Cinema será transitoriamente gerido, até à entrada em funções dos órgãos consequentes da sua reestruturação, por uma comissão administrativa, com a competência e as atribuições até agora cometidas ao conselho administrativo daquele organismo.
+Artigo 1.º - 1. O Instituto Português de Cinema será transitoriamente gerido, até à entrada em funções dos órgãos consequentes da sua reestruturação, por uma comissão administrativa, com a competência e as atribuições até agora cometidas ao conselho administrativo daquele organismo.
 
 2. A comissão administrativa será designada por despacho do competente membro do Governo, considerando-se em exercício de funções desde a data indicada pelo mesmo.
 
 3. Os elementos da comissão terão direito à remuneração que lhes for fixada por despacho, ouvido o Ministro das Finanças.
 
-###### Art. 2.º Os encargos resultantes da execução deste diploma serão suportados pelas verbas próprias do Instituto Português de Cinema, o qual fica desde já autorizado a apresentar um novo orçamento suplementar, se necessário, para o efeito.
+Art. 2.º Os encargos resultantes da execução deste diploma serão suportados pelas verbas próprias do Instituto Português de Cinema, o qual fica desde já autorizado a apresentar um novo orçamento suplementar, se necessário, para o efeito.
 
-###### Art. 3.º Este decreto-lei entra em vigor na data da sua publicação e produz efeitos a partir da data do início de exercício de funções da primeira comissão administrativa nomeada.
+Art. 3.º Este decreto-lei entra em vigor na data da sua publicação e produz efeitos a partir da data do início de exercício de funções da primeira comissão administrativa nomeada.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António de Almeida Santos.
 
-**Promulgado em 25 de Novembro de 1975.**
+Promulgado em 25 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

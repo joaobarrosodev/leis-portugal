@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1980-461669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b69a847d437d83cce0e80023fce22104783b58483f1b8de6c990eb739ffa51c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 939b825173a1b3123534d51a2fe16f137c98f32d4bcb9b587775ce46910fe14c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Braga
+- Criação de Serviços
+- Museu de Diogo de Sousa
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626993:por
+  label: Substituído o quadro de pessoal do Museu Regional de Arqueologia D.Diogo de Sousa pelo(a) Port 824/93 - Diário da
+    República n.º 211/1993, Série I-B de 1993-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/824-1993-626993
+  date: '1993-09-08'
+- type: cites
+  target: pt:dre:170876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 15.º a 19.º, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:17Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +159,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Museu de D. Diogo de Sousa, de Braga, organismo dependente do Instituto Português do Património Cultural, é definido como um museu regional de arqueologia.
+Artigo 1.º O Museu de D. Diogo de Sousa, de Braga, organismo dependente do Instituto Português do Património Cultural, é definido como um museu regional de arqueologia.
 
-###### Art. 2.º - 1 - O Museu de D. Diogo de Sousa é um organismo científico-cultural no âmbito disciplinar da arqueologia, exercendo as suas actividades básicas nos domínios do apoio à investigação, da museologia e da extensão cultural e do apoio ao ensino e à defesa do património arqueológico regional.
+Art. 2.º - 1 - O Museu de D. Diogo de Sousa é um organismo científico-cultural no âmbito disciplinar da arqueologia, exercendo as suas actividades básicas nos domínios do apoio à investigação, da museologia e da extensão cultural e do apoio ao ensino e à defesa do património arqueológico regional.
 
 2 - No âmbito desse domínio, o Museu de D. Diogo de Sousa cooperará prioritariamente com o serviço regional de arqueologia e com a unidade de arqueologia da Universidade do Minho, particularmente nas acções relativas à recuperação da zona arqueológica de Braga (Centro Arqueológico de Braga).
 
@@ -116,7 +169,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º O Museu de D. Diogo de Sousa compreende as seguintes áreas de actuação:
+Art. 3.º O Museu de D. Diogo de Sousa compreende as seguintes áreas de actuação:
 
 a) Museográfica e de extensão cultural;
 
@@ -128,9 +181,9 @@ d) Administrativa;
 
 e) Apoio geral.
 
-###### Art. 4.º Na área museográfica e de extensão cultural, além das atribuições constantes da lei geral, compete, particularmente, promover e colaborar na realização de visitas guiadas a sítios arqueológicos da região e particularmente à zona arqueológica de Braga.
+Art. 4.º Na área museográfica e de extensão cultural, além das atribuições constantes da lei geral, compete, particularmente, promover e colaborar na realização de visitas guiadas a sítios arqueológicos da região e particularmente à zona arqueológica de Braga.
 
-###### Art. 5.º - 1 - A área técnico-laboratorial compreende o tratamento geral, registo e catalogação das espécies; o restauro de cerâmicas e outros materiais não especificados; o tratamento de metais, o desenho e a fotografia.
+Art. 5.º - 1 - A área técnico-laboratorial compreende o tratamento geral, registo e catalogação das espécies; o restauro de cerâmicas e outros materiais não especificados; o tratamento de metais, o desenho e a fotografia.
 
 2 - Nesta área compete, nomeadamente:
 
@@ -142,7 +195,7 @@ c) A conservação e o restauro das espécies, de modo a manter o seu estado e a
 
 d) O apoio ao estudo e à divulgação dos objectos e das colecções do Museu.
 
-###### Art. 6.º Na área da documentação compete:
+Art. 6.º Na área da documentação compete:
 
 a) A organização e a gestão da biblioteca e do fundo documental do Museu;
 
@@ -156,17 +209,17 @@ e) O estabelecimento de relações com centros de documentação nacionais e est
 
 f) A organização e a colaboração em publicações científicas relativas à arqueologia.
 
-###### Art. 7.º Na área administrativa compete assegurar a execução das tarefas administrativas correntes.
+Art. 7.º Na área administrativa compete assegurar a execução das tarefas administrativas correntes.
 
-###### Art. 8.º Na área de apoio geral compete:
+Art. 8.º Na área de apoio geral compete:
 
 a) Assegurar a execução das tarefas de vigilância, limpeza e conservação do Museu;
 
 b) Assegurar a execução dos serviços específicos de preparação de elementos expositivos e trabalhos oficinais no Museu, de transporte de espécies da zona arqueológica de Braga para o Museu e de trabalhos de consolidação, limpeza e montagem oficial nesta zona arqueológica.
 
-###### Art. 9.º É constituído um conselho científico, visando especialmente a coordenação e o planeamento das actividades científicas e culturais do Museu.
+Art. 9.º É constituído um conselho científico, visando especialmente a coordenação e o planeamento das actividades científicas e culturais do Museu.
 
-###### Art. 10.º O conselho científico será constituído pelos seguintes membros:
+Art. 10.º O conselho científico será constituído pelos seguintes membros:
 
 a) O director do Museu;
 
@@ -178,7 +231,7 @@ d) Um representante do pessoal técnico superior de cada uma das instituições 
 
 e) Os técnicos superiores do Museu.
 
-###### Art. 11.º - 1 - O conselho científico é presidido pelo director do Museu e reunirá ordinariamente cada dois meses e extraordinariamente sempre que for convocado a pedido de qualquer dos elementos que o constituem.
+Art. 11.º - 1 - O conselho científico é presidido pelo director do Museu e reunirá ordinariamente cada dois meses e extraordinariamente sempre que for convocado a pedido de qualquer dos elementos que o constituem.
 
 2 - O conselho só pode reunir com a presença da maioria dos seus membros.
 
@@ -188,46 +241,46 @@ e) Os técnicos superiores do Museu.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 12.º O quadro de pessoal do Museu de D. Diogo de Sousa é o constante do mapa anexo a este diploma.
+Art. 12.º O quadro de pessoal do Museu de D. Diogo de Sousa é o constante do mapa anexo a este diploma.
 
-###### Art. 13.º Os lugares de director, conservador e técnico superior serão providos de entre especialistas de reconhecida competência no domínio da investigação arqueológica, comprovada curricularmente.
+Art. 13.º Os lugares de director, conservador e técnico superior serão providos de entre especialistas de reconhecida competência no domínio da investigação arqueológica, comprovada curricularmente.
 
-###### Art. 14.º O cargo de director do Museu será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, efectuando-se a sua equiparação nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 14.º O cargo de director do Museu será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, efectuando-se a sua equiparação nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 15.º Os lugares de conservador, monitor, assistente de conservador, técnico auxiliar de museografia, auxiliar de museografia, desenhador, almoxarife, guarda de museu e servente serão providos nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 15.º Os lugares de conservador, monitor, assistente de conservador, técnico auxiliar de museografia, auxiliar de museografia, desenhador, almoxarife, guarda de museu e servente serão providos nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 16.º Os lugares de técnico auxiliar de BAD serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 16.º Os lugares de técnico auxiliar de BAD serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### Art. 17.º O lugar de fotógrafo será provido nos termos do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
+Art. 17.º O lugar de fotógrafo será provido nos termos do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
 
-###### Art. 18.º Os lugares de técnico de conservação e restauro e de auxiliar técnico de conservação e restauro de objectos arqueológicos serão providos de acordo com o estabelecido no [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho.
+Art. 18.º Os lugares de técnico de conservação e restauro e de auxiliar técnico de conservação e restauro de objectos arqueológicos serão providos de acordo com o estabelecido no [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho.
 
-###### Art. 19.º Os restantes lugares do quadro serão providos nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 19.º Os restantes lugares do quadro serão providos nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 20.º - 1 - O pessoal prestando actualmente serviço, a qualquer título, no campo arqueológico de Braga é integrado em lugares do quadro, mediante diploma de provimento aprovado pelo membro do Governo que tutelar a área da cultura, publicado no Diário da República, independentemente de qualquer formalidade, salvo o visto do Tribunal de Contas.
+Art. 20.º - 1 - O pessoal prestando actualmente serviço, a qualquer título, no campo arqueológico de Braga é integrado em lugares do quadro, mediante diploma de provimento aprovado pelo membro do Governo que tutelar a área da cultura, publicado no Diário da República, independentemente de qualquer formalidade, salvo o visto do Tribunal de Contas.
 
 2 - No provimento previsto no número anterior será sempre observado o requisito das habilitações legalmente necessárias para o exercício dos cargos.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 21.º Os serviços técnicos do Museu de D. Diogo de Sousa serão instalados, a título precário e até se encontrar a sua instalação definitiva, em edifício próprio, conjuntamente com os serviços da unidade de arqueologia da Universidade do Minho, precedendo protocolo a estabelecer entre as duas entidades.
+Art. 21.º Os serviços técnicos do Museu de D. Diogo de Sousa serão instalados, a título precário e até se encontrar a sua instalação definitiva, em edifício próprio, conjuntamente com os serviços da unidade de arqueologia da Universidade do Minho, precedendo protocolo a estabelecer entre as duas entidades.
 
-###### Art. 22.º - 1 - A direcção do Museu de D. Diogo de Sousa será transitoriamente assegurada pela Comissão Instaladora nomeada pelo despacho de 6 de Dezembro de 1979 do Secretário de Estado da Cultura, durante o período julgado necessário, nomeadamente enquanto o Museu não dispuser de instalações definitivas.
+Art. 22.º - 1 - A direcção do Museu de D. Diogo de Sousa será transitoriamente assegurada pela Comissão Instaladora nomeada pelo despacho de 6 de Dezembro de 1979 do Secretário de Estado da Cultura, durante o período julgado necessário, nomeadamente enquanto o Museu não dispuser de instalações definitivas.
 
 2 - Durante o período de vigência da comissão instaladora do Museu de D. Diogo de Sousa, o cargo de director do Museu será assegurado, para todos os efeitos legais, pelo presidente da referida comissão ou, por sua delegação expressa, por qualquer dos restantes membros.
 
-###### Art. 23.º Os encargos resultantes da publicação deste diploma serão suportados, no corrente ano económico, por conta das disponibilidades das dotações orçamentais atribuídas à Secretaria de Estado da Cultura.
+Art. 23.º Os encargos resultantes da publicação deste diploma serão suportados, no corrente ano económico, por conta das disponibilidades das dotações orçamentais atribuídas à Secretaria de Estado da Cultura.
 
-###### Art. 24.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e dos membros do Governo que tutelam as áreas da reforma administrativa e da cultura, consoante a natureza das matérias.
+Art. 24.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e dos membros do Governo que tutelam as áreas da reforma administrativa e da cultura, consoante a natureza das matérias.
 
-###### Art. 25.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 25.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 19 de Setembro de 1980.**
+Promulgado em 19 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22400/29542956.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22400/29542956.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22400/29542956.pdf)

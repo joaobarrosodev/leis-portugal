@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/04/09900/05750578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45683-1964-472294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09307fda8d152838ef8805175c994aa0efff082d854c524dde0c19aa356229b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0df69313cb049a91f77a52f00fc3ca5e4bcf9a316ca63079a41938821b285bc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colheita de Órgãos Humanos
+- Doação de Órgãos
+- Órgãos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:319744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:430427:por
+  label: Revogado pelo(a) Decreto-Lei n.º 553/76 - Diário da República n.º 162/1976, Série I de 1976-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1976-430427
+  date: '1976-07-13'
+- type: repealed_by
+  target: pt:dre:319744:por
+  label: "Revogados os arts. 19.º e 20.º, pelo DEC LEI.400/82.23.09.1982.MJ, DR.IS [221]Supl de 23.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1982-319744
+  date: '1982-09-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:51Z'
   warnings: []
   errors: []
 ---
@@ -125,17 +138,17 @@ Ouvida a Câmara Corporativa;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É permitida nos termos do presente decreto-lei a colheita no corpo de pessoa falecida de tecidos ou órgãos de qualquer natureza, nomeadamente ossos, cartilagens, vasos, pele, globos oculares e sangue, quando eles forem necessários para fins terapêuticos ou científicos e essa intervenção, para ser útil, não possa aguardar o decurso do prazo legal de prevenção contra a morte aparente.
+Artigo 1.º É permitida nos termos do presente decreto-lei a colheita no corpo de pessoa falecida de tecidos ou órgãos de qualquer natureza, nomeadamente ossos, cartilagens, vasos, pele, globos oculares e sangue, quando eles forem necessários para fins terapêuticos ou científicos e essa intervenção, para ser útil, não possa aguardar o decurso do prazo legal de prevenção contra a morte aparente.
 
 § 1.º Ainda que autorizadas pelo falecido, as colheitas não podem efectuar-se ao abrigo deste artigo quando forem contrárias à moral ou aos bons costumes ou quando se verifique o caso de morte sem assistência médica, de morte violenta ou qualquer outro em que por lei deva proceder-se a autópsia forense.
 
 § 2.º Se a morte violenta tiver sido causada por acidente, a colheita poderá realizar-se quando não seja de prever que possa vir a prejudicar os resultados da autópsia.
 
-###### Art. 2.º Os tecidos ou órgãos destinam-se a ser utilizados em estabelecimentos oficiais, nos dependentes de instituições particulares de assistência ou na clínica privada e podem ser recolhidos ou para aprovisionamento de bancos onde sejam conservados para esses efeitos, ou, directamente, para aplicação em casos determinados.
+Art. 2.º Os tecidos ou órgãos destinam-se a ser utilizados em estabelecimentos oficiais, nos dependentes de instituições particulares de assistência ou na clínica privada e podem ser recolhidos ou para aprovisionamento de bancos onde sejam conservados para esses efeitos, ou, directamente, para aplicação em casos determinados.
 
 § único. Compete ao Ministro da Saúde e Assistência determinar, por portaria, a criação de bancos gerais ou especializados em olhos ou outros órgãos ou tecidos e, bem assim, autorizar a instalação deles por entidades particulares, mandando-lhes passar para esse efeito alvará donde constem as condições da autorização, sempre sem carácter de monopólio.
 
-###### Art. 3.º A colheita de tecidos ou órgãos é da exclusiva competência dos bancos previstos no artigo precedente e ainda das clínicas e institutos universitários e dos hospitais públicos ou privados e casas de saúde que, sob parecer favorável da Direcção-Geral dos Hospitais, a tal forem autorizados por portaria do Ministro da Saúde e Assistência.
+Art. 3.º A colheita de tecidos ou órgãos é da exclusiva competência dos bancos previstos no artigo precedente e ainda das clínicas e institutos universitários e dos hospitais públicos ou privados e casas de saúde que, sob parecer favorável da Direcção-Geral dos Hospitais, a tal forem autorizados por portaria do Ministro da Saúde e Assistência.
 
 § 1.º Cada banco ou estabelecimento autorizado constituirá um centro de colheita e, quando não pertencer a entidade de direito privado, a sua acção poderá estender-se a outras clínicas ou institutos universitários ou aos estabelecimentos de saúde ou assistência do Estado, das autarquias locais ou de pessoas colectivas de utilidade pública administrativa que para esse efeito lhe forem anexadas por portaria nos termos do corpo deste artigo.
 
@@ -143,7 +156,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A recolha será executada por médicos constantes de uma relação aprovada pelo director do centro.
 
-###### Art. 4.º Qualquer pessoa, maior ou emancipada, pode proibir ou autorizar que depois de morta sejam extraídos órgãos ou tecidos do seu corpo para os fins do artigo 1.º desde que o faça por alguma das seguintes formas:
+Art. 4.º Qualquer pessoa, maior ou emancipada, pode proibir ou autorizar que depois de morta sejam extraídos órgãos ou tecidos do seu corpo para os fins do artigo 1.º desde que o faça por alguma das seguintes formas:
 
 1.º Por declaração verbal, reduzida a auto;
 
@@ -167,9 +180,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Todo o pessoal dos serviços a que se refere este artigo é obrigado a proporcionar as condições necessárias para serem feitas as declarações de autorização ou proibição e a facilitar o oportuno acesso às entidades referidas no parágrafo precedente das pessoas que, acompanhadas de duas testemunhas, pretendam fazer a comunicação aí prevista.
 
-###### Art. 5.º Não é permitido efectuar-se a colheita de tecidos ou órgãos no corpo de pessoa que a tenha proibido nos termos do artigo anterior, salvo se ela for ordenada por lei ou autorizada por despacho do Ministro da Saúde e Assistência por grave motivo de interesse público.
+Art. 5.º Não é permitido efectuar-se a colheita de tecidos ou órgãos no corpo de pessoa que a tenha proibido nos termos do artigo anterior, salvo se ela for ordenada por lei ou autorizada por despacho do Ministro da Saúde e Assistência por grave motivo de interesse público.
 
-###### Art. 6.º No caso de autorização, a recolha será requisitada a qualquer dos centros de colheita pela família, pelos herdeiros ou pelos testamenteiros do falecido e poderá ser oficiosamente determinada pelo director de algum desses centros ou a ele requisitada pelo director de algum dos estabelecimentos anexos quando a autorização tiver sido prestada perante essas entidades ou lhes tiver sido comunicada ou quando o óbito tiver ocorrido nos respectivos serviços.
+Art. 6.º No caso de autorização, a recolha será requisitada a qualquer dos centros de colheita pela família, pelos herdeiros ou pelos testamenteiros do falecido e poderá ser oficiosamente determinada pelo director de algum desses centros ou a ele requisitada pelo director de algum dos estabelecimentos anexos quando a autorização tiver sido prestada perante essas entidades ou lhes tiver sido comunicada ou quando o óbito tiver ocorrido nos respectivos serviços.
 
 § 1.º Não obstante a autorização do falecido, a colheita não se efectuará se o director do centro a não julgar útil para os efeitos do artigo 2.º ou se não se verificarem todas as condições legais e técnicas para tal necessárias.
 
@@ -177,7 +190,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Se se proceder à colheita autorizada pelo falecido, todos os encargos respectivos, incluindo os da deslocação de pessoal ou material e os de transporte do cadáver, serão suportados pelo centro que a houver determinado, salvo se o dador expressamente os tiver imposto aos seus herdeiros ou legatários.
 
-###### Art. 7.º Se não tiver havido proibição nem autorização relevante, em conformidade com o artigo 4.º, e a família do falecido não se opuser, a colheita de tecidos ou órgãos pode efectuar-se desde que o óbito tenha tido lugar em instalações de algum centro autorizado de colheita ou dos estabelecimentos a ele anexados, nos termos do § 1.º do artigo 3.º
+Art. 7.º Se não tiver havido proibição nem autorização relevante, em conformidade com o artigo 4.º, e a família do falecido não se opuser, a colheita de tecidos ou órgãos pode efectuar-se desde que o óbito tenha tido lugar em instalações de algum centro autorizado de colheita ou dos estabelecimentos a ele anexados, nos termos do § 1.º do artigo 3.º
 
 § 1.º A oposição familiar pode ser feita pelo cônjuge sobrevivo, não separado judicialmente de pessoas e bens, ou por qualquer dos ascendentes ou descendentes do falecido, mas essa oposição não é permitida aos parentes se o cônjuge consentir na colheita, tal como não é facultada aos descendentes no caso de assentimento dos ascendentes, ou, em cada uma destas categorias, aos parentes mais remotos se houver consentimento de algum parente em grau mais próximo.
 
@@ -189,49 +202,49 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º Os prazos a que se referem os §§ 2.º e 4.º podem ser alterados por portaria fundamentada do Ministro da Saúde e Assistência.
 
-###### Art. 8.º É ilícito e nulo o acto pelo qual alguém receba ou pretenda adquirir para si ou para outrem direito a receber qualquer remuneração pelo facto de autorizar ou de não se opor a que se façam colheitas de órgãos ou tecidos no cadáver próprio ou no de outra pessoa.
+Art. 8.º É ilícito e nulo o acto pelo qual alguém receba ou pretenda adquirir para si ou para outrem direito a receber qualquer remuneração pelo facto de autorizar ou de não se opor a que se façam colheitas de órgãos ou tecidos no cadáver próprio ou no de outra pessoa.
 
 § único. É válida, porém, a disposição pela qual o falecido tenha imposto ao serviço que, por ele autorizado, determine a colheita de tecidos ou órgãos do seu corpo, o encargo de custear o seu funeral, até ao limite que for fixado em despacho ministerial.
 
-###### Art. 9.º As colheitas, qualquer que seja o lugar do óbito, só podem efectuar-se em instalações apropriadas dos serviços mencionados no corpo do artigo 3.º deste diploma.
+Art. 9.º As colheitas, qualquer que seja o lugar do óbito, só podem efectuar-se em instalações apropriadas dos serviços mencionados no corpo do artigo 3.º deste diploma.
 
 § único. Os directores dos centros de colheita podem, todavia, em harmonia com as instruções aprovadas por portaria do Ministro da Saúde e Assistência, permitir, a título genérico ou em casos singulares, que as colheitas efectuadas pelos respectivos serviços se façam em lugar diverso do prescrito neste artigo, desde que se certifiquem de que pelos meios disponíveis e pela natureza dessas intervenções estas se podem executar aí com as condições técnicas convenientes e sem quebra do decoro e do respeito devidos ao cadáver e às pessoas que o tenham a seu cargo.
 
-###### Art. 10.º Nenhuma colheita de tecidos ou órgãos se pode efectuar nos termos deste decreto-lei sem que o óbito seja verificado pelo menos por dois médicos, segundo as regras de semiologia médico-legal que, ouvidos os departamentos oficiais competentes e a Ordem dos Médicos, forem definidas por portaria conjunta dos Ministros da Justiça e da Saúde e Assistência.
+Art. 10.º Nenhuma colheita de tecidos ou órgãos se pode efectuar nos termos deste decreto-lei sem que o óbito seja verificado pelo menos por dois médicos, segundo as regras de semiologia médico-legal que, ouvidos os departamentos oficiais competentes e a Ordem dos Médicos, forem definidas por portaria conjunta dos Ministros da Justiça e da Saúde e Assistência.
 
 § 1.º Os médicos verificadores passarão em duplicado um atestado de óbito especialmente destinado a este efeito, no qual se mencione a identidade do falecido, a data, hora e local da morte e a causa que a tiver determinado, se relatem as observações feitas e os resultados obtidos e se declare que o cadáver se encontra em condições de nele se fazerem as colheitas previstas neste diploma.
 
 § 2.º Um dos exemplares do atestado de óbito destina-se ao processo de recolha e o outro será entregue ao médico que proceder à colheita.
 
-###### Art. 11.º O médico que proceder à colheita só pode iniciá-la tendo em seu poder o atestado de óbito a que se refere o § 1.º do artigo anterior e uma declaração do serviço administrativo responsável da qual conste que naquele serviço não existe arquivado nenhum documento válido de oposição à colheita. Os dois documentos serão rubricados pelo médico.
+Art. 11.º O médico que proceder à colheita só pode iniciá-la tendo em seu poder o atestado de óbito a que se refere o § 1.º do artigo anterior e uma declaração do serviço administrativo responsável da qual conste que naquele serviço não existe arquivado nenhum documento válido de oposição à colheita. Os dois documentos serão rubricados pelo médico.
 
 § 1.º O director do centro em que se efectuar a colheita ou quem o substitua visará nas 24 horas seguintes os dois exemplares do atestado de óbito e a declaração referida no corpo deste artigo.
 
 § 2.º Em caso de dúvida quanto à legalidade da colheita efectuada, o director do centro comunicará o facto à Direcção-Geral dos Hospitais para o procedimento adequado.
 
-###### Art. 12.º As colheitas previstas neste diploma só podem efectuar-se dentro das dezoito horas seguintes ao óbito.
+Art. 12.º As colheitas previstas neste diploma só podem efectuar-se dentro das dezoito horas seguintes ao óbito.
 
-###### Art. 13.º Na execução das colheitas deve observar-se rigoroso respeito pelo decoro do cadáver e evitar-se mutilações ou dissecções não necessárias para a recolha dos tecidos ou órgãos e para as verificações indispensáveis à utilização destes e por forma a, quanto possível, não prejudicar a realização da autópsia, se vier a mostrar-se necessária.
+Art. 13.º Na execução das colheitas deve observar-se rigoroso respeito pelo decoro do cadáver e evitar-se mutilações ou dissecções não necessárias para a recolha dos tecidos ou órgãos e para as verificações indispensáveis à utilização destes e por forma a, quanto possível, não prejudicar a realização da autópsia, se vier a mostrar-se necessária.
 
 § único. Depois da operação deverá ser restabelecida a morfologia do corpo, podendo usar-se para esse efeito elementos de prótese.
 
-###### Art. 14.º Para cada colheita será lavrado, em duplicado, um auto, no qual se registarão a identidade do falecido, a data e hora da verificação do óbito, o nome dos médicos verificadores, o visto a que se refere o § 1.º do artigo 11.º, a hora e circunstâncias da operação e o destino dado aos órgãos ou tecidos recolhidos, nos termos do artigo 2.º
+Art. 14.º Para cada colheita será lavrado, em duplicado, um auto, no qual se registarão a identidade do falecido, a data e hora da verificação do óbito, o nome dos médicos verificadores, o visto a que se refere o § 1.º do artigo 11.º, a hora e circunstâncias da operação e o destino dado aos órgãos ou tecidos recolhidos, nos termos do artigo 2.º
 
 § único. Os dois exemplares do auto serão assinados pelo médico que efectuar a operação e pelo director do respectivo centro ou quem o substitua, ficando um exemplar arquivado neste e sendo o outro remetido, no prazo de 24 horas e sob registo do correio, à Direcção-Geral dos Hospitais.
 
-###### Art. 15.º Os órgãos ou tecidos conservados em bancos podem ser requisitados pelos directores dos serviços ou pelos médicos especialistas que pretendam utilizá-los para os fins do artigo 1.º
+Art. 15.º Os órgãos ou tecidos conservados em bancos podem ser requisitados pelos directores dos serviços ou pelos médicos especialistas que pretendam utilizá-los para os fins do artigo 1.º
 
 § 1.º Compete ao director dos bancos satisfazer as requisições pela ordem e na quantidade que lhe parecer equitativa em função dos fins a que se destinem os órgãos ou tecidos solicitados.
 
 § 2.º As entidades que requisitarem órgãos ou tecidos pagarão, a título de compensação pelos encargos de colheita, conservação e distribuição, as taxas fixadas por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 16.º A responsabilidade técnica pela conservação e utilização dos órgãos ou tecidos requisitados nos termos do artigo anterior passa para a entidade requisitante logo que eles sejam entregues, tal como cabe inteiramente ao médico que efectuar a colheita no caso de esta se destinar directamente a aplicação em casos determinados.
+Art. 16.º A responsabilidade técnica pela conservação e utilização dos órgãos ou tecidos requisitados nos termos do artigo anterior passa para a entidade requisitante logo que eles sejam entregues, tal como cabe inteiramente ao médico que efectuar a colheita no caso de esta se destinar directamente a aplicação em casos determinados.
 
-###### Art. 17.º Não é lícito, salvo em cumprimento de mandado judicial, revelar à família ou herdeiros do falecido a aplicação concreta dada aos tecidos ou órgãos recolhidos nem ao beneficiário a origem dos que forem utilizados para fins terapêuticos.
+Art. 17.º Não é lícito, salvo em cumprimento de mandado judicial, revelar à família ou herdeiros do falecido a aplicação concreta dada aos tecidos ou órgãos recolhidos nem ao beneficiário a origem dos que forem utilizados para fins terapêuticos.
 
-###### Art. 18.º Os médicos que para fins terapêuticos usarem tecidos ou órgãos cadavéricos na clínica particular terão direito a ser reembolsados pelo beneficiário das taxas pagas nos termos do artigo 15.º e de outras despesas de colheita e conservação, sempre de acordo com as tabelas aprovadas por portaria do Ministro da Saúde e Assistência e mediante nota especificada, visada pelo director do centro em que o médico interessado esteja inscrito ou, não o estando em nenhum, pelo delegado ou subdelegado de saúde competente.
+Art. 18.º Os médicos que para fins terapêuticos usarem tecidos ou órgãos cadavéricos na clínica particular terão direito a ser reembolsados pelo beneficiário das taxas pagas nos termos do artigo 15.º e de outras despesas de colheita e conservação, sempre de acordo com as tabelas aprovadas por portaria do Ministro da Saúde e Assistência e mediante nota especificada, visada pelo director do centro em que o médico interessado esteja inscrito ou, não o estando em nenhum, pelo delegado ou subdelegado de saúde competente.
 
-###### Art. 19.º Além da responsabilidade criminal, civil e disciplinar em que, nos termos gerais de direito, incorram os infractores deste diploma, são puníveis:
+Art. 19.º Além da responsabilidade criminal, civil e disciplinar em que, nos termos gerais de direito, incorram os infractores deste diploma, são puníveis:
 
 1) Com a pena de prisão até dois anos:
 
@@ -259,12 +272,12 @@ b) Aquele que receber alguma remuneração para autorizar que depois de morto se
 
 § 2.º Não tem lugar a punição prevista neste artigo, relativamente ao médico que procedeu a colheita ilícita ou àquele que deu alguma remuneração proibida por este diploma, quando o hajam feito na convicção de que esses factos constituíam meio único e indispensável de evitar a morte iminente de uma pessoa, em termos de não ser moralmente exigível que procedessem por outra forma.
 
-###### Art. 20.º Será agravada, segundo as regras gerais, a pena dos crimes de homicídio voluntário ou involuntário quando a infracção for cometida, por meio de algum dos seguintes factos:
+Art. 20.º Será agravada, segundo as regras gerais, a pena dos crimes de homicídio voluntário ou involuntário quando a infracção for cometida, por meio de algum dos seguintes factos:
 
 1) Certificar-se um óbito para os efeitos do artigo 10.º deste diploma, quando com isso se dê ocasião a que se proceda a uma colheita no corpo de pessoa viva;
 
 2) Proceder-se a colheita sem se encontrar verificado o óbito nos termos do artigo 10.º ou, tendo-se suscitado dúvidas sobre ele, se a intervenção recaiu efectivamente no corpo de pessoa viva.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

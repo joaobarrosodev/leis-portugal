@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 736e01161106ea3832b2753dd033fc1444ee9acdeb6a5dd93e1a07bd68b256ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1561fee1e7bde91cd492003fa5b419de3a374d66e2e2c7f074464f6a0d255846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Meteorologia e Geofísica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:469069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607534:por
+  label: "Alterado o quadro de pessoal pela PORT.389/82.1982.04.17.MFP, DR.IS [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-1982-607534
+  date: '1982-04-17'
+- type: amended_by
+  target: pt:dre:401506:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Meteorologia e Geofísica aprovado pelo presente diploma, com\
+    \ a redacção conferida pela Port 389/82, de 17-Abr, pela PORT.897/84.07.12.1984.PCM, DR.IS [283] de 07.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/897-1984-401506
+  date: '1984-12-07'
+- type: amended_by
+  target: pt:dre:324292:por
+  label: "Aumentados dois lugares ao quadro de pessoal pela PORT.240/85.29.04.1985.PCM, DR.IS [98] de 29.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/240-1985-324292
+  date: '1985-04-29'
+- type: amended_by
+  target: pt:dre:495732:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Meteorologia e Geofísica, constante do presente diploma, pelo\
+    \ PORT.802/87.21.09.1987.MF, DR.IS [216] de 21.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/802-1987-495732
+  date: '1987-09-21'
+- type: amended_by
+  target: pt:dre:618910:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Meteorologia e Geofísica, aprovado no presente diploma, pela\
+    \ PORT.582/89.28.07.1989.MF, DR.IS [172] de 28.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/582-1989-618910
+  date: '1989-07-28'
+- type: amended_by
+  target: pt:dre:500054:por
+  label: "Mantido em vigor o art. 89º do Dec Lei 633/76 de 28-Jul, com a redacção do presente e a clarificação constante do\
+    \ art. 28º do DEC LEI.220/2003.2003.09.20.MCES DR.IS-A [218]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2003-500054
+  date: '2003-09-20'
+- type: cites
+  target: pt:dre:241867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283524:por
+  label: "Revogado o Decreto-Lei n.° 633/76, de 28 de Julho, com excepção dos capítulos III, IV, V e VI, na redacção do presente\
+    \ diploma, pelo DEC LEI.192/93.24.05.1993.MARN, DR.IS-A [120] de 24.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1993-283524
+  date: '1993-05-24'
+- type: repealed_by
+  target: pt:dre:655942:por
+  label: "Revogadas as als b) e c) dos nºs 1 e 2 do art. 77º, os arts. 79º e 80º, as als b) e c) dos nºs 1 e 2 do art. 81º,\
+    \ os arts. 83º, 84º, 85º e 86º, e a al c) do art. 94º do Dec Lei 633/76 de 28-Jul, na redacção do presente diploma pelo\
+    \ DEC LEI.553/99.1999.12.15.MAM,DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1999-655942
+  date: '1999-12-15'
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogados os arts. 90º e 101º do Dec Lei 633/76 de 28-Jul, na redacção e renumeração dada pelo presente diploma,\
+    \ pelo DEC LEI.229/2005.29.12.2005.MFAP, DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
 article_structure:
-  article_count: 36
+  article_count: 35
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:51Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +201,7 @@ Nestes termos, sem prejuízo de uma oportuna e mais profunda revisão global da 
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, passa a ter as seguintes alterações:
+Artigo 1.º O [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, passa a ter as seguintes alterações:
 
 1 - As designações constantes dos capítulos I e II de «departamento», «coordenador de departamento», «departamento de telecomunicações meteorológicas» e «coordenação de departamento» são substituídas, respectivamente, por «divisão», «chefe de divisão», «divisão de telecomunicações meteorológicas e geofísicas» e «chefia de divisão».
 
@@ -450,7 +537,7 @@ O recrutamento do pessoal operário far-se-á nos termos da lei geral.
 
 O disposto no artigo 90.º deste diploma, incluindo o tempo de serviço prestado nas circunstâncias naquele enumeradas nos serviços meteorológicos das ex-colónias, poderá ter efeitos retroactivos, relativamente ao tempo de serviço já prestado, até à data da publicação deste decreto, pelo pessoal nele referido, nos termos definidos por portaria conjunta dos Ministros de Estado e das Finanças e do Plano e da Habitação, Obras Públicas e Transportes.
 
-###### Art. 2.º - 1 - Os funcionários e agente do INMG serão integrados nas diferentes categorias do quadro I, observado o requisito das habilitações legais de acordo com as seguintes regras gerais:
+Art. 2.º - 1 - Os funcionários e agente do INMG serão integrados nas diferentes categorias do quadro I, observado o requisito das habilitações legais de acordo com as seguintes regras gerais:
 
 a) Para categoria igual à que o funcionário ou agente já possui;
 
@@ -486,26 +573,26 @@ c) Curso de radiotelegrafista dos serviços de meteorologia das ex-colónias.
 
 9 - Para efeitos de promoção o tempo de serviço prestado na categoria de radiotelegrafista de 1.ª classe conta-se como prestado na categoria de operador de telecomunicações de 1.ª classe e o tempo de serviço prestado na categoria de radiotelegrafista de 2.ª classe como prestado na categoria de operador de telecomunicações de 2.ª classe.
 
-###### Art. 3.º Para efeitos de abonos de vencimentos o disposto no n.º 2 do artigo 2.º produz efeitos a partir de 1 de Julho de 1979.
+Art. 3.º Para efeitos de abonos de vencimentos o disposto no n.º 2 do artigo 2.º produz efeitos a partir de 1 de Julho de 1979.
 
-###### Art. 4.º As dúvidas que se suscitarem serão resolvidas por despacho conjunto dos Ministros da Habitação, Obras Públicas e Transportes, da Reforma Administrativa e, quando se tratar de matéria da sua competência, do Ministro de Estado e das Finanças e do Plano.
+Art. 4.º As dúvidas que se suscitarem serão resolvidas por despacho conjunto dos Ministros da Habitação, Obras Públicas e Transportes, da Reforma Administrativa e, quando se tratar de matéria da sua competência, do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 5.º Ficam expressamente revogadas as disposições do [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, em conformidade com as alterações introduzidas pelo presente diploma.
+Art. 5.º Ficam expressamente revogadas as disposições do [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, em conformidade com as alterações introduzidas pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Novembro de 1981.**
+Promulgado em 21 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28200/32093220.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28200/32093220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28200/32093220.pdf)
 
 QUADRO III
 
 Transição do pessoal das carreiras específicas de meteorologia, geofísica e telecomunicações meteorológicas e geofísicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28200/32093220.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28200/32093220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28200/32093220.pdf)

@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1973-422186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03dc7bc6f6d70d326f401c6e29c882a44e75689a6a8f640c7aba4bfbf278e216
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcf61cb73d4e4cfc3ffa30469357a315e3818f5d4cd69227eed4f1088a315b11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato
+- Definição de Competências
+- Hidroeléctrica de Cabora Bassa
+- Ministro do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:380347:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:54Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +99,17 @@ Havendo interesse, por parte do adjudicatário, em que sejam modificadas as refe
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministro do Ultramar a outorgar, em nome do Estado, uma alteração no contrato celebrado com a firma Zamco - Zambeze Consórcio Hidroeléctrico, Lda., ao abrigo do [Decreto-Lei n.º 49225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49225-1969-380347), de 4 de Setembro de 1969, em conformidade com a minuta anexa, que se considera parte integrante deste diploma e baixa assinada pelo Ministro do Ultramar, ficando dispensadas quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
+Artigo 1.º Fica autorizado o Ministro do Ultramar a outorgar, em nome do Estado, uma alteração no contrato celebrado com a firma Zamco - Zambeze Consórcio Hidroeléctrico, Lda., ao abrigo do [Decreto-Lei n.º 49225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49225-1969-380347), de 4 de Setembro de 1969, em conformidade com a minuta anexa, que se considera parte integrante deste diploma e baixa assinada pelo Ministro do Ultramar, ficando dispensadas quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Maio de 1973.**
+Promulgado em 3 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.
 
@@ -165,4 +173,4 @@ Either to the effect of advance payments, or to the effect of deduction, the rat
 
 The State and Zamco may agree that the currency for reimbursement of part of the advances granted in French francs be made in Deutsch Marks. In this case, the Contractor from now on engages himself before the State not to demand any cash payments for work payable in French francs until all the promissory notes expressed in D. M. are not delivered, since, if the said alteration had not been made, such payments would have had to be made by the deliverance of promissory notes.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

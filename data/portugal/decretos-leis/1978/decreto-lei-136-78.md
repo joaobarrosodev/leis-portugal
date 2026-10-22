@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 133/1978, 2º Suplemento, Série I de 1978-06-12
   number: '133'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1054-(19) a 1054-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13302/00190039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,144 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1978-426139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31176f1defe5d6ceb4b005edbaeee63d81efcc84cbac3c86f900df42932c4183
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed4583b4ce9f352420057a5590ee6c6a60093981777e9ceb47d7dfb9a49d3d74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Fiscal
+- Contribuições e Impostos
+- Direcção Geral das Contribuições e Impostos
+- Imposto do SELO
+- Isenção Fiscal
+- Letras e Livranças
+- Papel Selado
+- Regulamento do Imposto do SELO
+- Tabela Geral do Imposto do SELO
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274192:por
+  label: "Prorrogado, até 31 de Dezembro de 1979, o prazo de validade das estampilhas fiscais e letras seladas, a que se refere\
+    \ o artigo 14.º, pela PORT.775/78.30.12.1978.MFP, DR.IS [299]2ºSupl de 30.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/775-1978-274192
+  date: '1978-12-30'
+- type: amended_by
+  target: pt:dre:381282:por
+  label: "Eliminado o n.º 2 do artigo 10.º e renumerados os restantes números do mesmo artigo, pelo DEC LEI.238/79.25.07.1979.MFP,\
+    \ DR.IS [170] de 25.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1979-381282
+  date: '1979-07-25'
+- type: amended_by
+  target: pt:dre:625669:por
+  label: "Alterados os arts. 164º e 165º do Regulamento do Imposto do Selo, aprovado pelo Dec 12700 de 20-Nov de 1926, com\
+    \ a redacção constante do presente diploma, pelo DEC LEI.133/89.27.04.1989.MF, DR.IS [97] de 27.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1989-625669
+  date: '1989-04-27'
+- type: amended_by
+  target: pt:dre:575296:por
+  label: "Dada nova redacção ao art. 61-A da Tabela Geral do Imposto de Selo, aprovado pelo Dec 21916 de 28-Nov 1932, alterado\
+    \ pelo presente diploma, pelo DEC LEI.205/90.25.06.1990.MF, DR.IS [144] de 25.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1990-575296
+  date: '1990-06-25'
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 23º e 254º do Regulamento do Imposto do Selo, aprovado pelo Dec Lei 12700, de 20-Nov de 1926,\
+    \ na redacção do presente diploma, pelo DEC LEI.7/96.07.02.1996.MF, DR.IS-A [32] de 07.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: cites
+  target: pt:dre:140075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:533673:por
+  label: Rectificado pela DECL.DD7600.07.07.1978.PCM, DR.IS [154]Supl de 07.07.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-533673
+  date: '1978-07-07'
+- type: corrected_by
+  target: pt:dre:299834:por
+  label: Rectificado pela DECL.DD7559.16.08.1978.PCM, DR.IS [187] de 16.08.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-299834
+  date: '1978-08-16'
+- type: repealed_by
+  target: pt:dre:574333:por
+  label: "Revogado o n.º 1 do art. 10.º, pelo DEC LEI.147/81.1981.06.04.MFP DR.IS [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1981-574333
+  date: '1981-06-04'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 131
+  article_count: 42
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:07Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +241,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É fixada em 25$00 a taxa do papel selado a que se refere o artigo 6.º do Regulamento do Imposto do Selo, aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da Tabela Geral do Imposto do Selo cujo pagamento deva ser feito por aquela forma.
+Artigo 1.º - 1 - É fixada em 25$00 a taxa do papel selado a que se refere o artigo 6.º do Regulamento do Imposto do Selo, aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da Tabela Geral do Imposto do Selo cujo pagamento deva ser feito por aquela forma.
 
 2 - Continua em vigor, até à sua extinção, o papel já selado com taxas inferiores, devendo a diferença entre estas e a nova taxa ser completada por meio de estampilhas fiscais, coladas na parte superior do papel e inutilizadas nos termos legais.
 
 3 - A actualização prevista no número anterior será observada sempre que o imposto correspondente do papel selado deva ou possa ser pago por meio de estampilha ou selo de verba.
 
-###### Art. 2.º Os artigos 10, 12, 13, 16, 17, 30, 32, 41, 44, 48, 49-A, 50, 61-A, 81, 82, 89, 93, 93-A, 94-A, 99-A, 101, 102, 105, 114, 115, 116, 132, 135, 137, 141, 144, 154, 157 e 161 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
+Art. 2.º Os artigos 10, 12, 13, 16, 17, 30, 32, 41, 44, 48, 49-A, 50, 61-A, 81, 82, 89, 93, 93-A, 94-A, 99-A, 101, 102, 105, 114, 115, 116, 132, 135, 137, 141, 144, 154, 157 e 161 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Artigo 10 - Alvarás extraídos de processos judiciais, por cada folha - 25$00 (papel selado).
+Artigo 10 - Alvarás extraídos de processos judiciais, por cada folha - 25$00 (papel selado).
 
 Acresce:
 
@@ -165,7 +269,7 @@ f) E se for de valor desconhecido - 1200$00 (estampilha).
 
 2 - Sendo de consentimento para casamento - 400$00 (estampilha).
 
-###### Artigo 12 - Anúncios, reclamos ou qualquer outra forma de publicidade de produtos, serviços, indústrias, comércios, profissões, espectáculos ou divertimentos:
+Artigo 12 - Anúncios, reclamos ou qualquer outra forma de publicidade de produtos, serviços, indústrias, comércios, profissões, espectáculos ou divertimentos:
 
 1 - Publicidade feita directamente pelo anunciante:
 
@@ -265,7 +369,7 @@ g) O pagamento do imposto a que se refere este artigo compete ao locador.
 
 4 - Ficam isentos do imposto os contratos de arrendamento rural, como tal definidos na lei, e, bem assim, os restantes arrendamentos de prédios rústicos cuja renda correspondente a um ano não exceda 10000$00.
 
-###### Artigo 17 - Atestados e suas confirmações ou corroborações:
+Artigo 17 - Atestados e suas confirmações ou corroborações:
 
 1 - Atestados:
 
@@ -329,7 +433,7 @@ b) Não se compreendem neste artigo os requerimentos de admissão a Exame de Est
 
 2 - Ficam isentos do imposto os boletins de matrícula de alunos pobres de escolas pertencentes a pessoas colectivas de utilidade pública administrativa.
 
-###### Artigo 32 - Calendários anunciadores, por cada exemplar e por cada ano - 3$00 (selo especial).
+Artigo 32 - Calendários anunciadores, por cada exemplar e por cada ano - 3$00 (selo especial).
 
 1 - Os calendários perpétuos pagarão o imposto correspondente a cinco anos.
 
@@ -347,7 +451,7 @@ Na execução do preceituado neste artigo deverão ser observadas as seguintes r
 
 ...
 
-###### Artigo 44 - Certidões e certificados e suas confirmações ou corroborações:
+Artigo 44 - Certidões e certificados e suas confirmações ou corroborações:
 
 1 - Certidões e certificados:
 
@@ -397,7 +501,7 @@ j) As certidões de alvarás e respectivos averbamentos relativos a estabelecime
 
 l) As certidões comprovativas do aproveitamento escolar dos alunos impossibilitados de frequentar o ensino obrigatório até final, por incapacidade comprovada e reconhecida por despacho do Ministro da Educação e Cultura.
 
-###### Artigo 48 - Cheques e livranças, de qualquer natureza, passados em praças estrangeiras para serem pagos no continente ou nas Regiões Autónomas dos Açores e da Madeira:
+Artigo 48 - Cheques e livranças, de qualquer natureza, passados em praças estrangeiras para serem pagos no continente ou nas Regiões Autónomas dos Açores e da Madeira:
 
 a) De valor até 1000$00 - 3$00 (estampilha);
 
@@ -413,11 +517,11 @@ a) Os cheques e livranças emitidos pela Agência Financial de Portugal no Rio d
 
 b) Os cheques emitidos em praças estrangeiras quando o seu produto se destine a crédito de contas de emigrantes ou equiparados, constituídos, nos termos legais, no continente ou nas Regiões Autónomas dos Açores e da Madeira.
 
-###### Artigo 49-A - Compra de móveis em leilões, realizados em casas particulares, em imóvel a vender ou a arrendar, loja ou armazém, casa de liquidações ou em qualquer outro lugar fora das praças de comércio, sobre a importância da compra - 10% (selo especial).
+Artigo 49-A - Compra de móveis em leilões, realizados em casas particulares, em imóvel a vender ou a arrendar, loja ou armazém, casa de liquidações ou em qualquer outro lugar fora das praças de comércio, sobre a importância da compra - 10% (selo especial).
 
 Exceptuam-se deste imposto as compras de objectos empenhados e as efectuadas em leilões promovidos por serviços do Estado, seus estabelecimentos e organismos e, bem assim, a alienação de bens sujeita ao imposto de transacções.
 
-###### Artigo 50 - Compra e venda ou cessão onerosa de bens móveis ou imóveis, por auto ou termo judicial, por escrito particular ou por escritura ou instrumento notarial - 4(por mil) (selo de verba ou estampilha).
+Artigo 50 - Compra e venda ou cessão onerosa de bens móveis ou imóveis, por auto ou termo judicial, por escrito particular ou por escritura ou instrumento notarial - 4(por mil) (selo de verba ou estampilha).
 
 1 - A taxa incidirá:
 
@@ -435,7 +539,7 @@ b) A um quinto - nas escrituras de aquisição de prédios com destino à constr
 
 3 - Acrescem ao selo deste artigo as taxas dos artigos 24, 92, 93 ou 100, segundo a natureza do título.
 
-###### Artigo 61-A - Contratos, precedidos ou não de concurso público, celebrados com o Estado, autarquias locais e suas federações e uniões ou pessoas colectivas de utilidade pública administrativa, relativos a empreitadas e fornecimentos e a concessão de obras e serviços públicos, cada folha - 25$00 (papel selado ou estampilha).
+Artigo 61-A - Contratos, precedidos ou não de concurso público, celebrados com o Estado, autarquias locais e suas federações e uniões ou pessoas colectivas de utilidade pública administrativa, relativos a empreitadas e fornecimentos e a concessão de obras e serviços públicos, cada folha - 25$00 (papel selado ou estampilha).
 
 1 - Acresce, por cada um e sobre o valor do contrato:
 
@@ -463,7 +567,7 @@ a) Diploma profissional ou equivalente para professor dos ensinos preparatório 
 
 b) Diploma profissional ou equivalente para educadores de infância e professores do ensino primário - 1000$00 (estampilha).
 
-###### Artigo 82 - Diplomas ou cartas de habilitações literárias ou científicas:
+Artigo 82 - Diplomas ou cartas de habilitações literárias ou científicas:
 
 1 - Diplomas ou cartas de aprovação em curso do ensino superior:
 
@@ -511,7 +615,7 @@ b) De outros ramos de ensino - 1500$00 (estampilha).
 
 14 - Registos de diplomas ou cartas, por cada registo - 100$00 (estampilha).
 
-###### Artigo 89 - Documentos que tenham de juntar-se a processos forenses, fiscais ou administrativos ou a requerimentos, petições ou exposições, dirigidos a quaisquer entidades oficiais ou apresentados em serviços, estabelecimentos ou organismos do Estado e das autarquias locais:
+Artigo 89 - Documentos que tenham de juntar-se a processos forenses, fiscais ou administrativos ou a requerimentos, petições ou exposições, dirigidos a quaisquer entidades oficiais ou apresentados em serviços, estabelecimentos ou organismos do Estado e das autarquias locais:
 
 1 - Não sendo escritos, impressos, litografados ou estampados em papel selado, cada folha - 25$00 (estampilha).
 
@@ -527,7 +631,7 @@ c) Os documentos que, não tendo de ficar arquivados nos serviços referidos nes
 
 d) Os documentos comprovativos do pagamento de contribuições, impostos ou taxas, juntos a títulos de anulação ou quando devam instruir pedidos de restituição de receitas indevidamente cobradas pelo Estado ou pelas autarquias locais.
 
-###### Artigo 93 - Escrituras, testamentos e demais instrumentos exarados nos livros de notas dos notários e das câmaras municipais:
+Artigo 93 - Escrituras, testamentos e demais instrumentos exarados nos livros de notas dos notários e das câmaras municipais:
 
 1 - Por cada instrumento:
 
@@ -543,13 +647,13 @@ b) As taxas do selo deste artigo são reduzidas a metade nas escrituras de venda
 
 c) Quando o instrumento contenha qualquer acto ou contrato especialmente designado nesta Tabela, acresce o selo que estiver estabelecido nos respectivos artigos.
 
-###### Artigo 93-A - Facturas (extractos de):
+Artigo 93-A - Facturas (extractos de):
 
 a) De valor até 500$00 - 1$00 (selo a tinta de óleo);
 
 b) De valor superior a 500$00 - 3(por mil) (estampilha).
 
-###### Artigo 94-A - Fotocópias que substituam certidões ou públicas-formas:
+Artigo 94-A - Fotocópias que substituam certidões ou públicas-formas:
 
 a) Fotocópias constituídas por uma única folha - 25$00 (estampilha);
 
@@ -571,7 +675,7 @@ c) Acresce, em qualquer dos casos, por cada documento fotocopiado - 40$00 (estam
 
 3 - Ficam isentas do imposto as fotocópias extraídas oficiosamente para substituir as cópias literais das letras mencionadas nos instrumentos de protesto.
 
-###### Artigo 99-A - Horários de trabalho:
+Artigo 99-A - Horários de trabalho:
 
 1 - Aprovação - 30$00 (estampilha ou selo especial).
 
@@ -583,7 +687,7 @@ a) Estão sujeitos à segunda taxa todos os exemplares dos mapas a submeter à a
 
 b) O imposto, quando pago por meio de selo especial, será entregue, por guia, na tesouraria da Fazenda Pública da respectiva área, até ao último dia do mês imediato ao da aprovação dos mapas.
 
-###### Artigo 101 - Letras, livranças e outros títulos de crédito a seguir especificados, sobre o seu valor:
+Artigo 101 - Letras, livranças e outros títulos de crédito a seguir especificados, sobre o seu valor:
 
 1 - Letras:
 
@@ -601,13 +705,13 @@ b) Nos demais casos - 3(por mil) (papel selado ou selo a tinta de óleo).
 
 3 - Ordens e escritos de qualquer natureza, nos quais se determine pagamento ou entrega de dinheiro com cláusula à ordem ou à disposição, ainda que sob a forma de correspondência, não sendo cheques sacados no continente ou nas Regiões Autónomas dos Açores e da Madeira - 3(por mil) (papel selado, selo a tinta de óleo ou estampilha).
 
-###### Artigo 102 - Letras sacadas no estrangeiro, sobre o seu valor:
+Artigo 102 - Letras sacadas no estrangeiro, sobre o seu valor:
 
 a) Quando aceites ou pagas no continente ou nas Regiões Autónomas dos Açores e da Madeira - 3(por mil) (estampilha);
 
 b) Quando se destinem a ser pagas no estrangeiro, mas sejam negociadas no continente ou nas Regiões Autónomas dos Açores e da Madeira - 1(por mil) (estampilha).
 
-###### Artigo 105 - Licenças para os actos e actividades a seguir indicados;
+Artigo 105 - Licenças para os actos e actividades a seguir indicados;
 
 I) Licenças para exposições ou exibições, com fins lucrativos:
 
@@ -645,7 +749,7 @@ Nas demais terras - 200$00 (estampilha ou selo de verba).
 
 ...
 
-###### Artigo 114 - Livros dos comerciantes em nome individual e das sociedades comerciais, por cada folha:
+Artigo 114 - Livros dos comerciantes em nome individual e das sociedades comerciais, por cada folha:
 
 a) Livros de inventário e balanços, Diário, Razão, de actas, de registo de acções e obrigações, de balancetes do Razão, de balancetes de contas correntes e de registo das folhas diárias dos apuros das vendas a dinheiro:
 
@@ -671,9 +775,9 @@ a) De registo de obrigações ao portador, a que se refere o artigo 113.º do C�
 
 b) De registo das acções não depositadas em instituições de crédito, a que se refere o artigo 9.º do [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril.
 
-###### Artigo 115 - Marcas e patentes, sobre as taxas pagas por todos os registos e diplomas - 15% (estampilha).
+Artigo 115 - Marcas e patentes, sobre as taxas pagas por todos os registos e diplomas - 15% (estampilha).
 
-###### Artigo 116 - Minas e serviços geológicos (actos e documentos respeitantes a):
+Artigo 116 - Minas e serviços geológicos (actos e documentos respeitantes a):
 
 1 - Livro de registo dos manifestos de jazigos ou depósitos minerais, cada folha:
 
@@ -699,7 +803,7 @@ b) Se excederem esses limites - 30$00 (selo de verba).
 
 10 - Registo de endosso de minas, cada um - 40$00 (estampilha).
 
-###### Artigo 132 - Posses de cargos públicos, incluindo os dos governos civis e das autarquias locais, consoante a categoria constante da respectiva tabela de vencimentos:
+Artigo 132 - Posses de cargos públicos, incluindo os dos governos civis e das autarquias locais, consoante a categoria constante da respectiva tabela de vencimentos:
 
 1 - Por cada termo:
 
@@ -749,7 +853,7 @@ e) Os processos de transgressão à legislação sobre pesca;
 
 f) Os processos de concessão de pensões e subsídios.
 
-###### Artigo 137 - Protestos de letras, livranças, cheques, extractos de factura ou de outros títulos:
+Artigo 137 - Protestos de letras, livranças, cheques, extractos de factura ou de outros títulos:
 
 a) Por cada folha - 25$00 (papel selado, estampilha ou selo de verba);
 
@@ -773,7 +877,7 @@ c) Acresce, por cada protesto, a taxa estabelecida na alínea b) do corpo deste 
 
 2 - Para efeitos da aplicação das taxas estabelecidas nas alíneas a) e b) do n.º 1, não se consideram as folhas ou laudas utilizadas apenas para certificar ou atestar a conformidade com os documentos fotocopiados.
 
-###### Artigo 141 - Recibos, quitações ou quaisquer outros documentos comprovativos do pagamento de transacções ou serviços prestados e, bem assim, os que de algum modo envolvam desobrigação de dinheiro, valores ou objectos, sobre o respectivo valor - 2(por mil) (estampilha).
+Artigo 141 - Recibos, quitações ou quaisquer outros documentos comprovativos do pagamento de transacções ou serviços prestados e, bem assim, os que de algum modo envolvam desobrigação de dinheiro, valores ou objectos, sobre o respectivo valor - 2(por mil) (estampilha).
 
 1 - Serão, nomeadamente, havidos como recibos:
 
@@ -851,13 +955,13 @@ t) Os recibos passados por quaisquer outras pessoas ou entidades isentas por lei
 
 7 - Nos recibos isentos do imposto por lei especial mencionar-se-á sempre a disposição legal que confere a isenção, sob pena de esta não poder ser considerada.
 
-###### Artigo 144 - Referendas ou vistos em passaportes estrangeiros, para fora do continente e das Regiões Autónomas dos Açores e da Madeira, por cada pessoa:
+Artigo 144 - Referendas ou vistos em passaportes estrangeiros, para fora do continente e das Regiões Autónomas dos Açores e da Madeira, por cada pessoa:
 
 a) Por via aérea ou marítima - 400$00 (estampilha);
 
 b) Por qualquer outra via - 200$00 (estampilha).
 
-###### Artigo 154 - Requerimentos, petições, articulados e exposições e seus duplicados dirigidos a quaisquer entidades oficiais ou apresentados em serviços, estabelecimentos ou organismos do Estado e das autarquias locais, por cada folha - 25$00 (papel selado).
+Artigo 154 - Requerimentos, petições, articulados e exposições e seus duplicados dirigidos a quaisquer entidades oficiais ou apresentados em serviços, estabelecimentos ou organismos do Estado e das autarquias locais, por cada folha - 25$00 (papel selado).
 
 1 - Acresce, quanto a requerimentos:
 
@@ -887,9 +991,9 @@ b) Sendo feitos na mesma folha da procuração ou de outro substabelecimento, po
 
 c) Acresce, em qualquer dos casos, por cada substabelecimento - 50$00 (estampilha ou selo de verba).
 
-###### Artigo 161 - Termos de matrícula em estágios de professores dos ensinos preparatório e secundário - 100$00 (estampilha).
+Artigo 161 - Termos de matrícula em estágios de professores dos ensinos preparatório e secundário - 100$00 (estampilha).
 
-###### Artigo 3.º O capítulo «Outras isenções» anexo à Tabela Geral do Imposto do Selo passa a ter a seguinte redacção:
+Artigo 3.º O capítulo «Outras isenções» anexo à Tabela Geral do Imposto do Selo passa a ter a seguinte redacção:
 
 Outras isenções
 
@@ -911,9 +1015,9 @@ XXXV) Os livros de escrituração e demais documentos e papéis de cooperativas 
 
 ...
 
-###### Art. 4.º São aditados à Tabela Geral do Imposto do Selo os artigos 9-A e 170, com a seguinte redacção:
+Art. 4.º São aditados à Tabela Geral do Imposto do Selo os artigos 9-A e 170, com a seguinte redacção:
 
-###### Artigo 9-A - Alvarás ou autorizações de abertura de estabelecimentos de ensino particular:
+Artigo 9-A - Alvarás ou autorizações de abertura de estabelecimentos de ensino particular:
 
 1 - Alvarás ou autorizações, por cada um:
 
@@ -943,7 +1047,7 @@ b) De outros ramos de ensino, embora incluindo o infantil, pré-escolar e primá
 
 4 - Ficam isentos do imposto os alvarás e respectivos averbamentos relativos a estabelecimentos de ensino pertencentes ou a cargo de autarquias locais e de pessoas colectivas de utilidade pública administrativa.
 
-###### Artigo 170 - Vistorias em prédios destinados a estabelecimentos de ensino particular:
+Artigo 170 - Vistorias em prédios destinados a estabelecimentos de ensino particular:
 
 1 - Por cada vistoria:
 
@@ -961,11 +1065,11 @@ a) Quando num mesmo prédio se fizer mais de uma vistoria, serão reduzidas a me
 
 b) As taxas estabelecidas neste artigo são devidas no momento em que for autorizada a vistoria, devendo as correspondentes estampilhas ser coladas nos respectivos requerimentos e inutilizadas por quem ordenar a diligência.
 
-###### Art. 5.º São alteradas as taxas da Tabela Geral do Imposto do Selo não abrangidas pelo artigo 1.º do presente decreto-lei, que passam a ser as seguintes:
+Art. 5.º São alteradas as taxas da Tabela Geral do Imposto do Selo não abrangidas pelo artigo 1.º do presente decreto-lei, que passam a ser as seguintes:
 
 ###### Artigo 1 - 2(por mil);
 
-###### Artigo 4:
+Artigo 4:
 
 Verba I - 1$00 e 3(por mil) (respectivamente a primeira e a segunda taxas);
 
@@ -1069,45 +1173,45 @@ Verba XLII - 40$00;
 
 ###### Artigo 6 - 10000$00;
 
-###### Artigo 7 - 2400$00 e 1200$00 (respectivamente a primeira e a segunda taxas);
+Artigo 7 - 2400$00 e 1200$00 (respectivamente a primeira e a segunda taxas);
 
-###### Artigo 8 - 1200$00, 400$00, 600$00 e 200$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+Artigo 8 - 1200$00, 400$00, 600$00 e 200$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
 
 ###### Artigo 9 - 2000$00;
 
-###### Artigo 11-A - $008;
+Artigo 11-A - $008;
 
 ###### Artigo 14 - 800$00;
 
-###### Artigo 15 - 4(por mil) e 3% (respectivamente a segunda é a terceira taxas);
+Artigo 15 - 4(por mil) e 3% (respectivamente a segunda é a terceira taxas);
 
 ###### Artigo 17-A - $008;
 
-###### Artigo 18 - 300$00;
+Artigo 18 - 300$00;
 
-###### Artigo 19 - 25$00 (segunda taxa);
+Artigo 19 - 25$00 (segunda taxa);
 
 ###### Artigo 20 - 750$00;
 
-###### Artigo 22 - 100$00 (segunda taxa);
+Artigo 22 - 100$00 (segunda taxa);
 
-###### Artigo 23 - 4(por mil) e 6% (respectivamente a segunda e a terceira taxas); elevada para 200$00 a importância mínima do imposto resultante das taxas variáveis;
+Artigo 23 - 4(por mil) e 6% (respectivamente a segunda e a terceira taxas); elevada para 200$00 a importância mínima do imposto resultante das taxas variáveis;
 
-###### Artigo 24 - 200$00 (segunda taxa);
+Artigo 24 - 200$00 (segunda taxa);
 
 ###### Artigo 25 - 2(por mil);
 
-###### Artigo 26 - 25$00;
+Artigo 26 - 25$00;
 
-###### Artigo 27 - 3% e 2$00 (respectivamente a primeira e a segunda taxas);
+Artigo 27 - 3% e 2$00 (respectivamente a primeira e a segunda taxas);
 
-###### Artigo 27-A - Elevadas para o dobro todas as taxas compreendidas neste artigo;
+Artigo 27-A - Elevadas para o dobro todas as taxas compreendidas neste artigo;
 
-###### Artigo 31 - 30$00 e 50$00 (respectivamente a primeira e a segunda taxas);
+Artigo 31 - 30$00 e 50$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 37 - 400$00;
 
-###### Artigo 38 - 25$00;
+Artigo 38 - 25$00;
 
 ###### Artigo 41:
 
@@ -1121,67 +1225,67 @@ N.º 4 - 60$00, 40$00 e 25$00 (respectivamente a primeira, a segunda e a terceir
 
 ###### Artigo 46 - $40 (selo de verba);
 
-###### Artigo 47 - $40 (selo de verba);
+Artigo 47 - $40 (selo de verba);
 
 ###### Artigo 54 - 2(por mil);
 
-###### Artigo 56 - 25$00;
+Artigo 56 - 25$00;
 
 ###### Artigo 57 - 25$00;
 
-###### Artigo 58 - 25$00;
+Artigo 58 - 25$00;
 
-###### Artigo 61 - 200$00 e 40$00 (respectivamente a segunda e a terceira taxas);
+Artigo 61 - 200$00 e 40$00 (respectivamente a segunda e a terceira taxas);
 
 ###### Artigo 62 - 25$00;
 
-###### Artigo 64 - 1000$00, 100$00 e 1000$00 (respectivamente a primeira, a terceira e a quarta taxas);
+Artigo 64 - 1000$00, 100$00 e 1000$00 (respectivamente a primeira, a terceira e a quarta taxas);
 
 ###### Artigo 68 - 400$00;
 
-###### Artigo 69 - 200$00;
+Artigo 69 - 200$00;
 
 ###### Artigo 72 - 2(por mil);
 
-###### Artigo 73 - 5000$00;
+Artigo 73 - 5000$00;
 
-###### Artigo 74 - 1800$00, 900$00, 500$00, 900$00, 450$00 e 300$00 (respectivamente a primeira, a segunda, a terceira, a quarta, a quinta e a sexta taxas);
+Artigo 74 - 1800$00, 900$00, 500$00, 900$00, 450$00 e 300$00 (respectivamente a primeira, a segunda, a terceira, a quarta, a quinta e a sexta taxas);
 
-###### Artigo 75 - 1500$00, 750$00 e 400$00 (respectivamente a primeira, a segunda e a terceira taxas);
+Artigo 75 - 1500$00, 750$00 e 400$00 (respectivamente a primeira, a segunda e a terceira taxas);
 
 ###### Artigo 76 - 300$00;
 
-###### Artigo 78 - 360$00;
+Artigo 78 - 360$00;
 
-###### Artigo 79 - 8000$00, 3000$00, 1400$00 e 700$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+Artigo 79 - 8000$00, 3000$00, 1400$00 e 700$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
 
-###### Artigo 80 - 20$00 (primeira taxa);
+Artigo 80 - 20$00 (primeira taxa);
 
 ###### Artigo 84 - 1500$00;
 
-###### Artigo 85 - 6(por mil);
+Artigo 85 - 6(por mil);
 
 ###### Artigo 86 - 25$00;
 
-###### Artigo 87 - 25$00;
+Artigo 87 - 25$00;
 
 ###### Artigo 88 - 25$00;
 
-###### Artigo 90 - 20$00 (segunda taxa);
+Artigo 90 - 20$00 (segunda taxa);
 
-###### Artigo 91 - 1000$00 (última taxa);
+Artigo 91 - 1000$00 (última taxa);
 
-###### Artigo 92 - 100$00 (segunda e terceira taxas);
+Artigo 92 - 100$00 (segunda e terceira taxas);
 
-###### Artigo 94 - 2(por mil) (segunda taxa);
+Artigo 94 - 2(por mil) (segunda taxa);
 
-###### Artigo 95 - 100$00 e 300$00 (respectivamente a primeira e a segunda taxas);
+Artigo 95 - 100$00 e 300$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 97 - 15$00;
 
-###### Artigo 99 - 2(por mil);
+Artigo 99 - 2(por mil);
 
-###### Artigo 100 - 25$00 e 150$00 (respectivamente a primeira e a segunda taxas);
+Artigo 100 - 25$00 e 150$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 105:
 
@@ -1203,91 +1307,91 @@ Verba XI - 200$00, 1000$00 e 4000$00 (respectivamente a primeira, a segunda e a 
 
 ###### Artigo 107 - 40$00;
 
-###### Artigo 108 - 50$00 e 100$00 (respectivamente a primeira e a segunda taxas);
+Artigo 108 - 50$00 e 100$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 109 - 25$00;
 
-###### Artigo 110 - 20$00;
+Artigo 110 - 20$00;
 
 ###### Artigo 111 - 20$00;
 
-###### Artigo 112 - 15$00;
+Artigo 112 - 15$00;
 
 ###### Artigo 113 - 5$00;
 
-###### Artigo 118 - 2000$00, 600$00 e 200$00 (respectivamente a primeira, a segunda e a terceira taxas);
+Artigo 118 - 2000$00, 600$00 e 200$00 (respectivamente a primeira, a segunda e a terceira taxas);
 
-###### Artigo 119 - 20$00 (todas as taxas);
+Artigo 119 - 20$00 (todas as taxas);
 
-###### Artigo 120-A - 2(por mil) (primeira taxa);
+Artigo 120-A - 2(por mil) (primeira taxa);
 
 ###### Artigo 123 - 4(por mil);
 
-###### Artigo 125 - 75$00, 150$00, 75$00, 50$00 e 25$00 (respectivamente a primeira, a segunda, a terceira, a quarta e a quinta taxas);
+Artigo 125 - 75$00, 150$00, 75$00, 50$00 e 25$00 (respectivamente a primeira, a segunda, a terceira, a quarta e a quinta taxas);
 
 ###### Artigo 126 - 50$00;
 
-###### Artigo 127 - 50$00;
+Artigo 127 - 50$00;
 
 ###### Artigo 128 - 50$00;
 
-###### Artigo 130 - 1000$00;
+Artigo 130 - 1000$00;
 
-###### Artigo 131 - 20$00 (ambas as taxas);
+Artigo 131 - 20$00 (ambas as taxas);
 
-###### Artigo 134 - 15% (a primeira e a terceira taxas) e 25% (a quarta taxa);
+Artigo 134 - 15% (a primeira e a terceira taxas) e 25% (a quarta taxa);
 
-###### Artigo 136 - 25$00 (primeira taxa) - (papel selado, estampilha ou selo de verba); e 150$00, 750$00, 1500$00; 90$00, 50$00 e 60$00 (respectivamente a segunda, a terceira, a quarta, a quinta, a sexta e a sétima taxas) - (estampilha ou selo de verba);
+Artigo 136 - 25$00 (primeira taxa) - (papel selado, estampilha ou selo de verba); e 150$00, 750$00, 1500$00; 90$00, 50$00 e 60$00 (respectivamente a segunda, a terceira, a quarta, a quinta, a sexta e a sétima taxas) - (estampilha ou selo de verba);
 
 ###### Artigo 138 - 30$00;
 
-###### Artigo 139 - 40$00 (segunda taxa);
+Artigo 139 - 40$00 (segunda taxa);
 
-###### Artigo 140 - 1000$00 e 200$00 (respectivamente a primeira e a segunda taxas);
+Artigo 140 - 1000$00 e 200$00 (respectivamente a primeira e a segunda taxas);
 
 ###### Artigo 142 - 5$00;
 
-###### Artigo 147 - 1000$00 e 500$00 (respectivamente a primeira e a segunda taxas);
+Artigo 147 - 1000$00 e 500$00 (respectivamente a primeira e a segunda taxas);
 
-###### Artigo 148 - 10$00, 4$00, 300$00 e 80$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+Artigo 148 - 10$00, 4$00, 300$00 e 80$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
 
 ###### Artigo 149 - 25$00;
 
-###### Artigo 150 - 40$00;
+Artigo 150 - 40$00;
 
 ###### Artigo 151 - 25$00;
 
-###### Artigo 152 - 40$00;
+Artigo 152 - 40$00;
 
 ###### Artigo 153 - 25$00;
 
-###### Artigo 158 - 20$00;
+Artigo 158 - 20$00;
 
-###### Artigo 159 - 100$00 (segunda taxa);
+Artigo 159 - 100$00 (segunda taxa);
 
 ###### Artigo 160 - 20$00;
 
-###### Artigo 162 - 300$00;
+Artigo 162 - 300$00;
 
 ###### Artigo 167 - 4(por mil);
 
-###### Artigo 169 - 100$00.
+Artigo 169 - 100$00.
 
-###### Art. 6.º São eliminados os artigos 45, 65, 96, 103, 104, 116-A, 117, 143 e 146 da Tabela Geral do Imposto do Selo, bem como as isenções XIII, XV, XIX, XXVIII, XXX e XXXI do capítulo «Outras isenções» anexo àquela Tabela.
+Art. 6.º São eliminados os artigos 45, 65, 96, 103, 104, 116-A, 117, 143 e 146 da Tabela Geral do Imposto do Selo, bem como as isenções XIII, XV, XIX, XXVIII, XXX e XXXI do capítulo «Outras isenções» anexo àquela Tabela.
 
-###### Art. 7.º Os artigos 7.º, 12.º, 18.º, 19.º, 23.º, 31.º, 32.º, 44.º, 47.º, 52.º, 69.º, 88.º, 114.º, 118.º, 119.º, 123.º, 128.º, 162.º a 171.º, 190.º, 219.º, 226.º, 230.º a 245.º, 247.º a 250.º, 254.º e 272.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
+Art. 7.º Os artigos 7.º, 12.º, 18.º, 19.º, 23.º, 31.º, 32.º, 44.º, 47.º, 52.º, 69.º, 88.º, 114.º, 118.º, 119.º, 123.º, 128.º, 162.º a 171.º, 190.º, 219.º, 226.º, 230.º a 245.º, 247.º a 250.º, 254.º e 272.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § único. As taxas do papel para letras são de 1$00, 5$00, 10$00, 20$00, 30$00, 40$00, 50$00, 60$00, 70$00, 80$00, 90$00, 100$00, 200$00, 300$00, 400$00, 500$00, 1000$00, 5000$00, 10000$00 e 20000$00.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § 1.º As estampilhas fiscais são das taxas de 1$00, 2$00, 3$00, 4$00, 5$00, 6$00, 7$00, 8$00, 9$00, 10$00, 15$00, 20$00, 25$00, 30$00, 40$00, 50$00, 60$00, 70$00, 80$00, 90$00, 100$00, 200$00, 300$00, 400$00, 500$00, 1000$00, 5000$00 e 10000$00.
 
 § 2.º O tipo e o formato das estampilhas, suas taxas e o período de validade poderão ser alterados por portaria do Ministro das Finanças e do Plano, que definirá os termos da recolha e troca das estampilhas cuja validade cessar.
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 ...
 
@@ -1301,17 +1405,17 @@ f) Nos bilhetes de entrada em exposições, pelos respectivos promotores;
 
 g) Nos demais casos, pelo signatário do documento ou, havendo mais do que um, pelo primeiro signatário, salvo disposição especial em contrário.
 
-###### Art. 19.º À falta de inutilização das estampilhas, nos termos dos artigos anteriores, é aplicável o disposto na alínea g) do artigo 237.º
+Art. 19.º À falta de inutilização das estampilhas, nos termos dos artigos anteriores, é aplicável o disposto na alínea g) do artigo 237.º
 
-###### Art. 23.º Nos casos de pagamento do imposto por meio de guia, a entrega nos cofres do Estado será feita durante o mês seguinte ao da sua liquidação ou cobrança, através de guias em duplicado, destinando-se ao apresentante um dos exemplares, averbado do pagamento, e o outro à respectiva tesouraria, para documentar a contabilidade mensal.
+Art. 23.º Nos casos de pagamento do imposto por meio de guia, a entrega nos cofres do Estado será feita durante o mês seguinte ao da sua liquidação ou cobrança, através de guias em duplicado, destinando-se ao apresentante um dos exemplares, averbado do pagamento, e o outro à respectiva tesouraria, para documentar a contabilidade mensal.
 
 § 1.º ...
 
 § 2.º Exceptuam-se do disposto neste artigo os casos em que, por disposição legal expressa, se estabeleçam regras diferentes quer quanto ao prazo de pagamento, quer quanto ao número de exemplares das guias.
 
-###### Art. 31.º Pode ser pago por meio de avença, por período não superior a um ano, o imposto do selo devido por anúncios, cartazes, calendários, bilhetes de passagem, lotarias e rifas e bilhetes de entrada em exposições.
+Art. 31.º Pode ser pago por meio de avença, por período não superior a um ano, o imposto do selo devido por anúncios, cartazes, calendários, bilhetes de passagem, lotarias e rifas e bilhetes de entrada em exposições.
 
-###### Art. 32.º Os pedidos de avença do imposto, a que se refere o artigo anterior, serão apresentados na repartição de finanças da área da residência ou sede do interessado, os quais, depois de devidamente informados pela fiscalização, serão submetidos a aprovação nos termos seguintes:
+Art. 32.º Os pedidos de avença do imposto, a que se refere o artigo anterior, serão apresentados na repartição de finanças da área da residência ou sede do interessado, os quais, depois de devidamente informados pela fiscalização, serão submetidos a aprovação nos termos seguintes:
 
 a) Pelo chefe da repartição de finanças, se o quantitativo da avença a fixar não exceder 10000$00;
 
@@ -1327,45 +1431,45 @@ c) Pela Direcção-Geral das Contribuições e Impostos, quando a avença a fixa
 
 § 4.º Nas avenças relativas a exposições fixar-se-á sempre o número destas; se excederem o número fixado, deverão os interessados pagar, por meio de guia, a diferença do imposto devido, no prazo previsto no § 4.º do artigo 105.º
 
-###### Art. 44.º O selo dos anúncios de que trata o n.º 2 do artigo 12 da Tabela é cobrado dos anunciantes pelas empresas publicitárias, únicas responsáveis para com a Fazenda Nacional pela entrega do imposto nos cofres do Estado.
+Art. 44.º O selo dos anúncios de que trata o n.º 2 do artigo 12 da Tabela é cobrado dos anunciantes pelas empresas publicitárias, únicas responsáveis para com a Fazenda Nacional pela entrega do imposto nos cofres do Estado.
 
-###### Art. 47.º Os editores da publicidade referida na alínea a) do n.º 2 do artigo 12 da Tabela, exceptuada a que for inserta em publicações periódicas, devem apresentar, antes de iniciada a publicidade, na repartição de finanças da área da sua residência ou sede, a declaração modelo n.º 2 e exibir, sempre que possível, um exemplar do respectivo anúncio.
+Art. 47.º Os editores da publicidade referida na alínea a) do n.º 2 do artigo 12 da Tabela, exceptuada a que for inserta em publicações periódicas, devem apresentar, antes de iniciada a publicidade, na repartição de finanças da área da sua residência ou sede, a declaração modelo n.º 2 e exibir, sempre que possível, um exemplar do respectivo anúncio.
 
 ...
 
 § 3.º Em face da declaração modelo n.º 2 e dos demais elementos apresentados, serão passadas as competentes guias para pagamento do imposto antes de iniciada a publicidade.
 
-###### Art. 52.º O pagamento do imposto no que se referem o n.º 1 do artigo 12 e os artigos 32 e 41 da Tabela será efectuado antes de iniciada a publicidade.
+Art. 52.º O pagamento do imposto no que se referem o n.º 1 do artigo 12 e os artigos 32 e 41 da Tabela será efectuado antes de iniciada a publicidade.
 
 § 1.º Os interessados devem apresentar, na repartição de finanças da respectiva área, declaração contendo os elementos indispensáveis à liquidação do imposto, devendo no mesmo acto exibir, sempre que possível, um exemplar do respectivo anúncio.
 
 § 2.º No caso de impressos ou objectos tributados nos termos das alíneas a) e b) do n.º 1 do artigo 12 da Tabela não abrangidos pela obrigação imposta no artigo 11.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, ou de publicidade que, pelas suas características, não possa conter a indicação prevista naquele preceito legal, deverá a mesma ser suprida por declaração do proprietário da respectiva tipografia, litografia ou oficina; tratando-se, porém, de impressos ou objectos adquiridos no estrangeiro, a declaração será feita pela entidade responsável pela distribuição.
 
-###### Art. 69.º Para efeitos do pagamento do selo de que trata o artigo 16 da Tabela e relativamente aos arrendamentos sem título, os locadores apresentarão, na repartição de finanças da área da situação do prédio, participação, em duplicado, do respectivo contrato, devendo, no exemplar destinado à repartição de finanças, ser coladas e devidamente inutilizadas as estampilhas das taxas devidas.
+Art. 69.º Para efeitos do pagamento do selo de que trata o artigo 16 da Tabela e relativamente aos arrendamentos sem título, os locadores apresentarão, na repartição de finanças da área da situação do prédio, participação, em duplicado, do respectivo contrato, devendo, no exemplar destinado à repartição de finanças, ser coladas e devidamente inutilizadas as estampilhas das taxas devidas.
 
 § único. A participação deverá ser apresentada até ao fim do mês seguinte ao do início do arrendamento.
 
-###### Art. 88.º As certidões, certificados, atestados e autorizações que, tendo de ser escritos em papel selado, forem passados ou começados no papel de qualquer outro acto ou documento ficam sujeitos ao selo da taxa correspondente à do papel selado, a pagar por estampilha, colada e inutilizada nos termos dos artigos 15.º e 18.º
+Art. 88.º As certidões, certificados, atestados e autorizações que, tendo de ser escritos em papel selado, forem passados ou começados no papel de qualquer outro acto ou documento ficam sujeitos ao selo da taxa correspondente à do papel selado, a pagar por estampilha, colada e inutilizada nos termos dos artigos 15.º e 18.º
 
-###### Art. 114.º Quando na localidade não haja letras das taxas devidas nos termos do artigo 101 da Tabela, serão utilizadas letras das taxas mais aproximadas que estiverem à venda, completando-se as taxas por meio de estampilhas coladas nas letras e inutilizadas pelo tesoureiro da Fazenda Pública da respectiva área e pela forma indicada no § único do artigo 113.º
+Art. 114.º Quando na localidade não haja letras das taxas devidas nos termos do artigo 101 da Tabela, serão utilizadas letras das taxas mais aproximadas que estiverem à venda, completando-se as taxas por meio de estampilhas coladas nas letras e inutilizadas pelo tesoureiro da Fazenda Pública da respectiva área e pela forma indicada no § único do artigo 113.º
 
-###### Art. 118.º As livranças serão passadas no papel das letras, sendo-lhes aplicáveis as regras estabelecidas para estas e, sendo passadas no estrangeiro, o disposto no § 2.º do artigo 99.º; os demais escritos ou ordens de pagamento, a que se refere o n.º 3 do artigo 101 da Tabela, serão selados por estampilha segundo as regras gerais.
+Art. 118.º As livranças serão passadas no papel das letras, sendo-lhes aplicáveis as regras estabelecidas para estas e, sendo passadas no estrangeiro, o disposto no § 2.º do artigo 99.º; os demais escritos ou ordens de pagamento, a que se refere o n.º 3 do artigo 101 da Tabela, serão selados por estampilha segundo as regras gerais.
 
-###### Art. 119.º O imposto do selo de letras e livranças nunca será inferior a 1$00.
+Art. 119.º O imposto do selo de letras e livranças nunca será inferior a 1$00.
 
-###### Art. 123.º A licença a que se refere a verba V do artigo 105 da Tabela será válida apenas para os leilões que se realizarem no local designado na mesma licença e por conta da pessoa a quem tenha sido concedida; as taxas das licenças para laboração de alambiques, a que se referem as verbas X e XI do citado artigo 105, são devidas por anos civis; porém, as taxas das licenças para casas de jogos legais e para ter a porta aberta, referidas nas verbas II e III do mesmo artigo, embora respeitem a anos civis, serão fraccionadas proporcionalmente ao período de validade das licenças concedidas.
+Art. 123.º A licença a que se refere a verba V do artigo 105 da Tabela será válida apenas para os leilões que se realizarem no local designado na mesma licença e por conta da pessoa a quem tenha sido concedida; as taxas das licenças para laboração de alambiques, a que se referem as verbas X e XI do citado artigo 105, são devidas por anos civis; porém, as taxas das licenças para casas de jogos legais e para ter a porta aberta, referidas nas verbas II e III do mesmo artigo, embora respeitem a anos civis, serão fraccionadas proporcionalmente ao período de validade das licenças concedidas.
 
-###### Art. 128.º ...
+Art. 128.º ...
 
 § 1.º Quando forem utilizadas folhas avulsas escrituradas por sistema mecanográfico ou semelhante, para encadernação ulterior sob a forma de livro, o pagamento do selo devido será efectuado até 31 de Março do ano seguinte ao do respectivo exercício; se, porém, o livro respeitar apenas a parte de um exercício, o pagamento deverá efectuar-se no prazo de noventa dias a contar da data do último lançamento.
 
 § 2.º Para os efeitos do disposto no corpo deste artigo, não se consideram princípio de escrita ou de lançamento os simples dizeres gerais escritos ou impressos nos livros e protocolos.
 
-###### Art. 162.º Sem prejuízo do disposto nos artigos 165.º, 166.º e 167.º, é obrigatória a passagem de recibo e do correspondente duplicado ou talão no momento do pagamento do preço de qualquer transacção ou serviço prestado, independentemente do meio de pagamento utilizado, quando a respectiva importância for superior ao limite da isenção estabelecida na alínea a) do n.º 6 do artigo 141 da Tabela.
+Art. 162.º Sem prejuízo do disposto nos artigos 165.º, 166.º e 167.º, é obrigatória a passagem de recibo e do correspondente duplicado ou talão no momento do pagamento do preço de qualquer transacção ou serviço prestado, independentemente do meio de pagamento utilizado, quando a respectiva importância for superior ao limite da isenção estabelecida na alínea a) do n.º 6 do artigo 141 da Tabela.
 
 § único. Não é permitido o desdobramento de recibos respeitantes à mesma transacção ou serviço prestado, com o fim de evitar o pagamento do imposto.
 
-###### Art. 163.º Além da forma de arrecadação do selo de recibo estabelecida no artigo 141 da Tabela, são adoptadas as seguintes:
+Art. 163.º Além da forma de arrecadação do selo de recibo estabelecida no artigo 141 da Tabela, são adoptadas as seguintes:
 
 a) Por meio de guia;
 
@@ -1373,7 +1477,7 @@ b) Por selo a tinta de óleo;
 
 c) Mediante a utilização de máquinas de selar.
 
-###### Art. 164.º O pagamento do selo de recibo por meio de guia será obrigatório:
+Art. 164.º O pagamento do selo de recibo por meio de guia será obrigatório:
 
 a) Para os contribuintes do grupo A da contribuição industrial;
 
@@ -1387,7 +1491,7 @@ b) Para os contribuintes do grupo B da mesma contribuição que, no ano anterior
 
 § 4.º A obrigatoriedade estabelecida no corpo deste artigo poderá ser dispensada, por despacho do director-geral das Contribuições e Impostos, a requerimento dos contribuintes, quando a natureza da actividade, a dimensão da empresa ou outras circunstâncias o justifiquem.
 
-###### Art. 165.º As pessoas que exerçam actividades cujo movimento normal exija diariamente o processamento de recibos em elevado número poderão requerer ao director-geral das Contribuições e Impostos a dispensa do cumprimento dessa obrigação e autorização para efectuar o pagamento do imposto por meio de guia, nas seguintes condições:
+Art. 165.º As pessoas que exerçam actividades cujo movimento normal exija diariamente o processamento de recibos em elevado número poderão requerer ao director-geral das Contribuições e Impostos a dispensa do cumprimento dessa obrigação e autorização para efectuar o pagamento do imposto por meio de guia, nas seguintes condições:
 
 a) A taxa do imposto incidirá sobre a importância global das transacções ou serviços prestados em cada mês, ainda que compreendam operações cujo preço unitário não exceda o limite da isenção;
 
@@ -1395,19 +1499,19 @@ b) Dispor o contribuinte de contabilidade regularmente organizada ou, na sua fal
 
 c) Outras condições necessárias a uma fiscalização eficiente e cómoda, a definir por despacho do director-geral das Contribuições e Impostos.
 
-###### Art. 166.º As pessoas não abrangidas no artigo anterior a quem competir o pagamento de vencimentos, ordenados, salários, gratificações ou outras remunerações do trabalho poderão ser autorizadas a entregar nos cofres do Estado, por meio de guia, o imposto do selo de recibo devido pelas respectivas importâncias, desde que o requeiram nos termos e com observância do disposto na segunda parte do § 1.º e no § 3.º do artigo 164.º
+Art. 166.º As pessoas não abrangidas no artigo anterior a quem competir o pagamento de vencimentos, ordenados, salários, gratificações ou outras remunerações do trabalho poderão ser autorizadas a entregar nos cofres do Estado, por meio de guia, o imposto do selo de recibo devido pelas respectivas importâncias, desde que o requeiram nos termos e com observância do disposto na segunda parte do § 1.º e no § 3.º do artigo 164.º
 
 § único. Sem prejuízo da faculdade prevista no corpo deste artigo, e quando as remunerações nele referidas forem abonadas através de relações ou mapas de pagamento, podem as pessoas a quem este competir inutilizar as estampilhas correspondentes ao total das importâncias do selo devido por cada abono e apurado em coluna para esse efeito aberta nos mencionados documentos.
 
-###### Art. 167.º Nos abonos de vencimentos, ordenados, soldos, emolumentos, gratificações ou outros proventos a que tenham direito os servidores do Estado ou de qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência, das autarquias locais e suas federações e uniões ou das pessoas colectivas de utilidade pública administrativa, efectuados por folha ou pagamento por distribuição mensal, bem como nos de pensões, o imposto será liquidado por desconto e pago por meio de guia, em seguida à autorização de pagamento ou ao levantamento para distribuição dos proventos sujeitos ao desconto.
+Art. 167.º Nos abonos de vencimentos, ordenados, soldos, emolumentos, gratificações ou outros proventos a que tenham direito os servidores do Estado ou de qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência, das autarquias locais e suas federações e uniões ou das pessoas colectivas de utilidade pública administrativa, efectuados por folha ou pagamento por distribuição mensal, bem como nos de pensões, o imposto será liquidado por desconto e pago por meio de guia, em seguida à autorização de pagamento ou ao levantamento para distribuição dos proventos sujeitos ao desconto.
 
 § único. A importância total dos descontos efectuados pelas autarquias locais ou pelas pessoas colectivas de utilidade pública administrativa dará entrada na tesouraria da Fazenda Pública da respectiva área até ao dia 10 do mês seguinte ao da aprovação para pagamento da respectiva folha.
 
-###### Art. 168.º Nos casos de pagamento do selo de recibo pela forma prevista nos artigos 164.º, 165.º e 166.º, o imposto será entregue durante os meses de Janeiro, Abril, Julho e Outubro, com referência às importâncias recebidas no trimestre imediatamente anterior, por meio de guia, em triplicado, na tesouraria da Fazenda Pública da área das instalações onde se encontrem organizados os registos ou os elementos de contabilidade nos termos dos artigos 164.º, § 3.º, 165.º e 166.º
+Art. 168.º Nos casos de pagamento do selo de recibo pela forma prevista nos artigos 164.º, 165.º e 166.º, o imposto será entregue durante os meses de Janeiro, Abril, Julho e Outubro, com referência às importâncias recebidas no trimestre imediatamente anterior, por meio de guia, em triplicado, na tesouraria da Fazenda Pública da área das instalações onde se encontrem organizados os registos ou os elementos de contabilidade nos termos dos artigos 164.º, § 3.º, 165.º e 166.º
 
-###### Art. 169.º Os contribuintes que utilizem a forma de pagamento do selo de recibo por meio de guia ficam obrigados a referenciá-la nos respectivos recibos e seus duplicados ou talões, bem como, nos casos do § 1.º do artigo 164.º, a indicar a data do despacho que conceder a autorização.
+Art. 169.º Os contribuintes que utilizem a forma de pagamento do selo de recibo por meio de guia ficam obrigados a referenciá-la nos respectivos recibos e seus duplicados ou talões, bem como, nos casos do § 1.º do artigo 164.º, a indicar a data do despacho que conceder a autorização.
 
-###### Art. 170.º O pagamento do selo de recibo a tinta de óleo em facturas ou recibos, nos termos dos artigos 24.º e 163.º, alínea b), obedecerá às seguintes condições:
+Art. 170.º O pagamento do selo de recibo a tinta de óleo em facturas ou recibos, nos termos dos artigos 24.º e 163.º, alínea b), obedecerá às seguintes condições:
 
 a) Os impressos serão em folhas soltas, não dobradas nem picotadas, e conterão o nome e a residência ou sede da entidade emitente das facturas ou recibos;
 
@@ -1417,9 +1521,9 @@ c) Será reservado no canto superior esquerdo do original e duplicado ou talão 
 
 d) O número de facturas ou recibos a selar não poderá ser inferior a mil de cada vez e por cada interessado.
 
-###### Art. 171.º O pagamento do selo de recibo mediante a utilização de máquinas de selar poderá ser feito com autorização do director-geral das Contribuições e Impostos, nas condições a estabelecer em portaria do Secretário de Estado do Orçamento.
+Art. 171.º O pagamento do selo de recibo mediante a utilização de máquinas de selar poderá ser feito com autorização do director-geral das Contribuições e Impostos, nas condições a estabelecer em portaria do Secretário de Estado do Orçamento.
 
-###### Art. 190.º O imposto a que se refere o artigo 49-A da Tabela é devido pelo adquirente dos móveis leiloados e será cobrado, juntamente com o respectivo preço ou sinal de pagamento, pela pessoa ou entidade responsável pelo leilão.
+Art. 190.º O imposto a que se refere o artigo 49-A da Tabela é devido pelo adquirente dos móveis leiloados e será cobrado, juntamente com o respectivo preço ou sinal de pagamento, pela pessoa ou entidade responsável pelo leilão.
 
 § 1.º A importância do imposto será obrigatoriamente indicada na factura, recibo ou outro documento comprovativo da transacção, que deve ser entregue ao comprador no acto do pagamento.
 
@@ -1435,15 +1539,15 @@ c) Arquivar durante cinco anos o registo a que se refere a alínea a) e os dupli
 
 § 4.º A entrega do imposto será feita na tesouraria da Fazenda Pública da área do local do leilão, no primeiro dia útil imediato ao da sua realização, em face de guia, em triplicado, processada pelas pessoas ou entidades responsáveis pelo pagamento, em presença do competente registo, que será apresentado para conferência conjuntamente com os duplicados dos documentos referidos no § 1.º
 
-###### Art. 219.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste Regulamento, dentro de cinco anos contados da data em que a infracção for cometida ou em que transitar em julgado a sentença que anular o acto simulado.
+Art. 219.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste Regulamento, dentro de cinco anos contados da data em que a infracção for cometida ou em que transitar em julgado a sentença que anular o acto simulado.
 
 § 1.º Exceptuam-se do disposto no corpo deste artigo os processos para imposição das multas correspondentes à falta do imposto do selo devido por licenças temporárias, os quais só poderão ser instaurados até 31 de Dezembro do ano em que a infracção for cometida.
 
 § 2.º Ainda que extinto o procedimento para aplicação da multa, levantar-se-á auto para exigência do imposto devido, com observância do disposto no artigo 264.º-A.
 
-###### Art. 226.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 17.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968.
+Art. 226.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 17.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968.
 
-###### Art. 230.º Além dos casos previstos neste Regulamento, na Tabela e em legislação especial, são solidariamente responsáveis com os originários transgressores, pelo pagamento das multas por falta de selo:
+Art. 230.º Além dos casos previstos neste Regulamento, na Tabela e em legislação especial, são solidariamente responsáveis com os originários transgressores, pelo pagamento das multas por falta de selo:
 
 ...
 
@@ -1451,25 +1555,25 @@ i) Os compradores de móveis em leilões abrangidos pelo artigo 49-A da Tabela, 
 
 § único. Os responsáveis pelas multas, nos termos deste artigo, respondem também pelo imposto do selo que tiver deixado de ser pago.
 
-###### Art. 231.º Além dos casos previstos neste Regulamento, na Tabela e em legislação especial, são exclusivamente responsáveis pelo pagamento das multas por falta de selo:
+Art. 231.º Além dos casos previstos neste Regulamento, na Tabela e em legislação especial, são exclusivamente responsáveis pelo pagamento das multas por falta de selo:
 
 ...
 
 § único. Os responsáveis pelas multas, nos termos deste artigo, respondem também pelo imposto do selo que tiver deixado de ser pago.
 
-###### Art. 232.º A responsabilidade estabelecida nos artigos 230.º e 231.º abrange apenas o imposto do selo quando se trate de faltas por que sejam responsáveis magistrados, autoridades e demais funcionários públicos, a que se referem aqueles artigos, sem prejuízo do procedimento previsto no artigo 250.º
+Art. 232.º A responsabilidade estabelecida nos artigos 230.º e 231.º abrange apenas o imposto do selo quando se trate de faltas por que sejam responsáveis magistrados, autoridades e demais funcionários públicos, a que se referem aqueles artigos, sem prejuízo do procedimento previsto no artigo 250.º
 
-###### Art. 233.º Os responsáveis que pagarem o imposto do selo e as multas, nos casos previstos nos artigos 230.º a 232.º, terão direito de regresso contra os originários devedores do imposto ou transgressores, consoante os casos.
+Art. 233.º Os responsáveis que pagarem o imposto do selo e as multas, nos casos previstos nos artigos 230.º a 232.º, terão direito de regresso contra os originários devedores do imposto ou transgressores, consoante os casos.
 
-###### Art. 234.º A importância do imposto do selo em falta será cobrada juntamente com a respectiva multa, quando devida.
+Art. 234.º A importância do imposto do selo em falta será cobrada juntamente com a respectiva multa, quando devida.
 
-###### Art. 235.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 235.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 236.º A falta de liquidação, do pagamento ou da entrega nos cofres do Estado, de todo ou parte do imposto, será punida com multa variável entre o dobro e o décuplo do quantitativo do imposto em falta, no mínimo de 200$00.
+Art. 236.º A falta de liquidação, do pagamento ou da entrega nos cofres do Estado, de todo ou parte do imposto, será punida com multa variável entre o dobro e o décuplo do quantitativo do imposto em falta, no mínimo de 200$00.
 
 § único. Quando o imposto, nos casos de arrecadação por meio de guia ou selo de verba, for pago ou entregue nos cofres do Estado fora do prazo legal, será aplicada multa igual ao quantitativo do imposto devido, no mínimo de 100$00.
 
-###### Art. 237.º Incorrem na multa designada no artigo antecedente:
+Art. 237.º Incorrem na multa designada no artigo antecedente:
 
 a) As pessoas que passarem, receberem ou fizerem uso de documento ou papel sem selo ou insuficientemente selado e as que lhe derem cumprimento;
 
@@ -1489,23 +1593,23 @@ h) As empresas ou editores que não pagarem o selo devido pelos anúncios referi
 
 ...
 
-###### Art. 238.º A falta de apresentação, ou a apresentação fora dos prazos fixados nos artigos 45.º e 47.º dos elementos dos mesmos referidos e, bem assim, a falta de cumprimento das obrigações impostas nos §§ 1.º a 5.º do artigo 46.º são punidas com a multa de 200$00 a 20000$00, independentemente da aplicação das penalidades estabelecidas no artigo 236.º nos casos nele previstos.
+Art. 238.º A falta de apresentação, ou a apresentação fora dos prazos fixados nos artigos 45.º e 47.º dos elementos dos mesmos referidos e, bem assim, a falta de cumprimento das obrigações impostas nos §§ 1.º a 5.º do artigo 46.º são punidas com a multa de 200$00 a 20000$00, independentemente da aplicação das penalidades estabelecidas no artigo 236.º nos casos nele previstos.
 
 § único. Igual penalidade será aplicada aos editores ou proprietários de publicações periódicas que por qualquer forma dificultarem ou impedirem a fiscalização.
 
-###### Art. 239.º A falta de apresentação, ou a apresentação fora do prazo legal, da participação a que se refere o artigo 69.º é punida com multa de 200$00 a 10000$00, independentemente da aplicação das penalidades estabelecidas no artigo 236.º nos casos nele previstos.
+Art. 239.º A falta de apresentação, ou a apresentação fora do prazo legal, da participação a que se refere o artigo 69.º é punida com multa de 200$00 a 10000$00, independentemente da aplicação das penalidades estabelecidas no artigo 236.º nos casos nele previstos.
 
-###### Art. 240.º A falta de cumprimento do disposto no artigo 162.º e a inobservância do seu § único são punidas nos termos do artigo 236.º e com base no imposto que deixou de ser pago.
+Art. 240.º A falta de cumprimento do disposto no artigo 162.º e a inobservância do seu § único são punidas nos termos do artigo 236.º e com base no imposto que deixou de ser pago.
 
-###### Art. 241.º A falta de cumprimento do disposto no corpo do artigo 164.º ou no seu § 3.º é punida com multa de 2000$00 a 50000$00.
+Art. 241.º A falta de cumprimento do disposto no corpo do artigo 164.º ou no seu § 3.º é punida com multa de 2000$00 a 50000$00.
 
-###### Art. 242.º A falta de cumprimento do disposto no artigo 169.º será punida com a multa de 200$00 a 10000$00 por cada infractor, em relação às faltas verificadas no mesmo acto.
+Art. 242.º A falta de cumprimento do disposto no artigo 169.º será punida com a multa de 200$00 a 10000$00 por cada infractor, em relação às faltas verificadas no mesmo acto.
 
-###### Art. 243.º A inobservância do disposto no artigo 171.º-A e seu § 1.º é punida com multa de 200$00 a 20000$00, independentemente da aplicação das penalidades estabelecidas no artigo 236.º nos casos nele previstos.
+Art. 243.º A inobservância do disposto no artigo 171.º-A e seu § 1.º é punida com multa de 200$00 a 20000$00, independentemente da aplicação das penalidades estabelecidas no artigo 236.º nos casos nele previstos.
 
-###### Art. 244.º O pagamento do imposto do selo por forma diversa da estabelecida neste Regulamento e na Tabela é punido com multa de 50$00 a 20000$00, independentemente de outras penalidades previstas neste diploma ou em legislação especial.
+Art. 244.º O pagamento do imposto do selo por forma diversa da estabelecida neste Regulamento e na Tabela é punido com multa de 50$00 a 20000$00, independentemente de outras penalidades previstas neste diploma ou em legislação especial.
 
-###### Art. 245.º ...
+Art. 245.º ...
 
 ...
 
@@ -1513,7 +1617,7 @@ h) As empresas ou editores que não pagarem o selo devido pelos anúncios referi
 
 ...
 
-###### Art. 247.º Sem prejuízo das penalidades estabelecidas no artigo 236.º, e relativamente às obrigações impostas no artigo 190.º, são punidas com multa de 200$00 a 200000$00:
+Art. 247.º Sem prejuízo das penalidades estabelecidas no artigo 236.º, e relativamente às obrigações impostas no artigo 190.º, são punidas com multa de 200$00 a 200000$00:
 
 a) A falta do registo a que se refere a alínea a) do § 2.º do citado artigo 190.º, bem como as omissões ou inexactidões nele praticadas e de que resulte prejuízo na arrecadação do imposto;
 
@@ -1525,31 +1629,31 @@ d) A falta de apresentação, ou a apresentação fora do prazo legal, da partic
 
 § único. Independentemente da responsabilidade prevista no artigo 230.º, os compradores de imóveis em leilões são solidariamente responsáveis com os respectivos promotores pelo pagamento da multa estabelecida na alínea c) do presente artigo.
 
-###### Art. 248.º Por qualquer infracção não especialmente prevenida neste Regulamento será aplicada a multa de 100$00 a 5000$00.
+Art. 248.º Por qualquer infracção não especialmente prevenida neste Regulamento será aplicada a multa de 100$00 a 5000$00.
 
-###### Art. 249.º Sobre as multas fixadas neste Regulamento não incidirá nenhum adicional.
+Art. 249.º Sobre as multas fixadas neste Regulamento não incidirá nenhum adicional.
 
-###### Art. 250.º Os funcionários públicos que, no exercício das suas funções, deixarem de cumprir alguma das obrigações impostas neste Regulamento ou na Tabela incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+Art. 250.º Os funcionários públicos que, no exercício das suas funções, deixarem de cumprir alguma das obrigações impostas neste Regulamento ou na Tabela incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
-###### Art. 254.º Poderá ser restituído o imposto do selo que a mais se mostre pago, salvo se o pagamento tiver sido efectuado por meio de papel selado, de papel para letras ou de estampilha.
+Art. 254.º Poderá ser restituído o imposto do selo que a mais se mostre pago, salvo se o pagamento tiver sido efectuado por meio de papel selado, de papel para letras ou de estampilha.
 
 § 1.º Os funcionários ficam obrigados a restituir aos interessados, quando por estes reclamadas, as importâncias que, por estampilha, a mais fizerem desembolsar.
 
 § 2.º Não se procederá a restituição quando a quantia a mais arrecadada for inferior a 100$00.
 
-###### Art. 272.º O imposto do selo, seja qual for a forma da sua arrecadação, será arredondado para escudos por cada liquidação, fazendo-se o arredondamento para a unidade imediatamente superior, se a fracção for igual ou superior a $50, e para a imediatamente inferior, no caso contrário.
+Art. 272.º O imposto do selo, seja qual for a forma da sua arrecadação, será arredondado para escudos por cada liquidação, fazendo-se o arredondamento para a unidade imediatamente superior, se a fracção for igual ou superior a $50, e para a imediatamente inferior, no caso contrário.
 
 § único. Não se procederá a qualquer liquidação quando o quantitativo do imposto for inferior a $50, salvo o disposto no artigo 119.º e os casos em que na Tabela estejam estabelecidas taxas específicas de quantitativos inferiores a $50.
 
-###### Art. 8.º São aditados ao Regulamento do Imposto do Selo os artigos 171.º-A, 248.º-A, 250.º-A, 257.º-A e 264.º-A, com a seguinte redacção:
+Art. 8.º São aditados ao Regulamento do Imposto do Selo os artigos 171.º-A, 248.º-A, 250.º-A, 257.º-A e 264.º-A, com a seguinte redacção:
 
-###### Art. 171.º-A As pessoas obrigadas a passar recibos em cumprimento do disposto no artigo 162.º devem arquivar, em boa ordem, os correspondentes duplicados ou talões, até ao termo dos cinco anos civis subsequentes.
+Art. 171.º-A As pessoas obrigadas a passar recibos em cumprimento do disposto no artigo 162.º devem arquivar, em boa ordem, os correspondentes duplicados ou talões, até ao termo dos cinco anos civis subsequentes.
 
 § 1.º A obrigação prevista neste artigo incumbe igualmente às pessoas que efectuem pagamentos, quanto aos recibos que devam documentar as operações contabilizadas na sua escrita.
 
 § 2.º Consideram-se como não selados os recibos de que não sejam apresentados os correspondentes duplicados ou talões, nos casos previstos no corpo deste artigo, ou os recibos a que se refere o § 1.º, quando, exigidos pela fiscalização, não lhe sejam exibidos.
 
-###### Art. 248.º-A - 1 - As penalidades previstas neste Regulamento serão reduzidas às multas a seguir indicadas sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos quinze dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
+Art. 248.º-A - 1 - As penalidades previstas neste Regulamento serão reduzidas às multas a seguir indicadas sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos quinze dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
 
 a) Multa de 5% do quantitativo em falta, quando a obrigação consistir no pagamento ou entrega nos cofres do Estado do imposto;
 
@@ -1557,19 +1661,19 @@ b) Multa variável entre 50$00 e 20000$00, quando estiverem em causa outras obri
 
 2 - O produto das multas cobradas nos termos do número anterior reverterá integralmente para o Estado.
 
-###### Art. 250.º-A Nos casos de pagamento espontâneo, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será a multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 250.º-A Nos casos de pagamento espontâneo, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será a multa reduzida a metade, revertendo integralmente para o Estado.
 
 § único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização ou exame à escrita do infractor.
 
-###### Art. 257.º-A O direito à restituição do imposto do selo, nos termos dos artigos anteriores, só pode ser exercido no prazo de cinco anos contados da data do respectivo pagamento.
+Art. 257.º-A O direito à restituição do imposto do selo, nos termos dos artigos anteriores, só pode ser exercido no prazo de cinco anos contados da data do respectivo pagamento.
 
-###### Art. 264.º-A Só poderá ser liquidado imposto do selo até ao final dos cinco anos seguintes àquele em que houverem sido praticados os actos, ocorrido os factos ou emitidos os documentos sujeitos ao imposto.
+Art. 264.º-A Só poderá ser liquidado imposto do selo até ao final dos cinco anos seguintes àquele em que houverem sido praticados os actos, ocorrido os factos ou emitidos os documentos sujeitos ao imposto.
 
-###### Art. 9.º - 1 - São revogados os artigos 41.º, 66.º, 67.º, 70.º a 87.º, 107.º, 110.º, 133.º, 142.º, 145.º, 176.º, 181.º, 189.º, 203.º, 215.º, 220.º a 223.º, 227.º, 229.º, 258.º a 261.º e 267.º do Regulamento do Imposto do Selo e eliminadas as designações dos capítulos «Acendedores e isqueiros», «Cartas de jogar» e «Prescrição», que antecedem, respectivamente, os citados artigos 41.º, 70.º e 258.º
+Art. 9.º - 1 - São revogados os artigos 41.º, 66.º, 67.º, 70.º a 87.º, 107.º, 110.º, 133.º, 142.º, 145.º, 176.º, 181.º, 189.º, 203.º, 215.º, 220.º a 223.º, 227.º, 229.º, 258.º a 261.º e 267.º do Regulamento do Imposto do Selo e eliminadas as designações dos capítulos «Acendedores e isqueiros», «Cartas de jogar» e «Prescrição», que antecedem, respectivamente, os citados artigos 41.º, 70.º e 258.º
 
 2 - A designação do capítulo «Disposições penais», que antecede o artigo 236.º do Regulamento do Imposto do Selo, passa a anteceder o artigo 235.º do mesmo Regulamento.
 
-###### Art. 10.º - 1 - É elevada para 5% a taxa do imposto do selo sobre especialidades farmacêuticas, a que se refere o artigo 1.º do [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947.
+Art. 10.º - 1 - É elevada para 5% a taxa do imposto do selo sobre especialidades farmacêuticas, a que se refere o artigo 1.º do [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947.
 
 2 - A importância correspondente a este imposto não poderá, em caso algum, onerar o preço de venda ao público dos respectivos produtos.
 
@@ -1577,19 +1681,19 @@ b) Multa variável entre 50$00 e 20000$00, quando estiverem em causa outras obri
 
 4 - Consideram-se devidamente seladas as especialidades cujo imposto tenha sido pago antes da entrada em vigor do presente decreto-lei e pela taxa de 0,5%.
 
-###### Art. 11.º O selo dos processos de avaliação de bens, organizados nos serviços dependentes da Direcção-Geral das Contribuições e Impostos, será contado, quando devido, nos termos da Tabela I anexa ao Regulamento das Custas dos Processos das Contribuições e Impostos.
+Art. 11.º O selo dos processos de avaliação de bens, organizados nos serviços dependentes da Direcção-Geral das Contribuições e Impostos, será contado, quando devido, nos termos da Tabela I anexa ao Regulamento das Custas dos Processos das Contribuições e Impostos.
 
-###### Art. 12.º Sem prejuízo do disposto nos artigos 163.º e seguintes do Regulamento do Imposto do Selo, segundo a redacção dada pelo artigo 7.º do presente diploma, são válidas as autorizações para pagamento do selo de recibo por meio de guia concedidas, e em vigor, até à data da publicação deste decreto-lei.
+Art. 12.º Sem prejuízo do disposto nos artigos 163.º e seguintes do Regulamento do Imposto do Selo, segundo a redacção dada pelo artigo 7.º do presente diploma, são válidas as autorizações para pagamento do selo de recibo por meio de guia concedidas, e em vigor, até à data da publicação deste decreto-lei.
 
-###### Art. 13.º Continuarão em vigor, até à sua extinção e sem necessidade de pagamento de novo selo, os cheques já selados nos termos da legislação anterior.
+Art. 13.º Continuarão em vigor, até à sua extinção e sem necessidade de pagamento de novo selo, os cheques já selados nos termos da legislação anterior.
 
-###### Art. 14.º Mantêm validade até 31 de Dezembro de 1978 as estampilhas fiscais e letras de taxas inferiores a 1$00, devendo a sua devolução à Imprensa Nacional-Casa da Moeda processar-se até 31 de Março de 1979.
+Art. 14.º Mantêm validade até 31 de Dezembro de 1978 as estampilhas fiscais e letras de taxas inferiores a 1$00, devendo a sua devolução à Imprensa Nacional-Casa da Moeda processar-se até 31 de Março de 1979.
 
-###### Art. 15.º - 1 - Por infracções ao Regulamento do Imposto do Selo, resultantes das alterações introduzidas pelo presente decreto-lei e cometidas até 31 de Dezembro de 1978, só poderá ser instaurado processo de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
+Art. 15.º - 1 - Por infracções ao Regulamento do Imposto do Selo, resultantes das alterações introduzidas pelo presente decreto-lei e cometidas até 31 de Dezembro de 1978, só poderá ser instaurado processo de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
 
 2 - Igual procedimento será adoptado relativamente às faltas de pagamento do imposto do selo sobre especialidades farmacêuticas, por virtude da alteração constante do artigo 10.º
 
-###### Art. 16.º São também expressamente revogados:
+Art. 16.º São também expressamente revogados:
 
 a) Os artigos 5.º a 21.º do Decreto-Lei n.º 44083, de 12 de Dezembro de 1961;
 
@@ -1597,8 +1701,8 @@ b) As disposições legais nos termos das quais esteja estabelecida tributação
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 6 de Junho de 1978.**
+Promulgado em 6 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

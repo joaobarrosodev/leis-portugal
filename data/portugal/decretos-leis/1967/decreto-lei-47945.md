@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/09/21700/16611663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47945-1967-391026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61756b6bb77d63f6c30c91bdd215477c97ea74855f2246a976fd745173553dea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 381d571172b76cb947f7dfc8c0c916e9a67eda4e389605aa16623c793b3d98fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação de Obras Públicas
+- Empreitada de Obras Públicas
+- Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:169780051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:204838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652511:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:236080:por
+  label: "Revogado pelo DEC LEI.781/74.31.12.1974.MESA, DG.IS [303-2ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/781-1974-236080
+  date: '1974-12-31'
+- type: repealed_by
+  target: pt:dre:626600:por
+  label: "Revogado (novamente) pelo DEC LEI.273-B/75.03.06.1975.MESA, DG.IS [127-Supl] de 03.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-b-1975-626600
+  date: '1975-06-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:48Z'
   warnings: []
   errors: []
 ---
@@ -122,23 +147,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os preços das empreitadas e fornecimentos de obras públicas adjudicados mediante concursos abertos posteriormente à data do presente diploma e cuja execução, de acordo com os termos do contrato, ultrapasse em mais de 180 dias a data da abertura das respectivas propostas ficam sujeitos a revisão, em função das variações, para mais ou para menos, dos salários e dos custos dos materiais, relativamente aos correspondentes valores no mês em que tenha ocorrido a abertura das propostas.
+Artigo 1.º - 1. Os preços das empreitadas e fornecimentos de obras públicas adjudicados mediante concursos abertos posteriormente à data do presente diploma e cuja execução, de acordo com os termos do contrato, ultrapasse em mais de 180 dias a data da abertura das respectivas propostas ficam sujeitos a revisão, em função das variações, para mais ou para menos, dos salários e dos custos dos materiais, relativamente aos correspondentes valores no mês em que tenha ocorrido a abertura das propostas.
 
 2. A revisão será efectuada nos termos que forem prescritos nas cláusulas insertas nos contratos, com observância do disposto no presente diploma.
 
 3. A revisão abrangerá os trabalhos não previstos no projecto, desde que a sua realização tenha resultado de contrato adicional ou de alterações impostas ou aprovadas pela entidade competente.
 
-###### Art. 2.º Para efeitos de revisão no respeitante à mão-de-obra, nunca poderão ser consideradas as variações dos salários do pessoal dirigente, do pessoal técnico e de escritório e, ainda, dos chefes de oficina, fiéis de armazém e equiparados.
+Art. 2.º Para efeitos de revisão no respeitante à mão-de-obra, nunca poderão ser consideradas as variações dos salários do pessoal dirigente, do pessoal técnico e de escritório e, ainda, dos chefes de oficina, fiéis de armazém e equiparados.
 
-###### Art. 3.º Não poderão ser considerados para efeitos de revisão, qualquer que tenha sido a variação dos salários e dos custos dos materiais durante a respectiva execução, os trabalhos iniciais das empreitadas correspondentes à fracção do montante global da adjudicação determinada pela expressão (180-n)/p, na qual:
+Art. 3.º Não poderão ser considerados para efeitos de revisão, qualquer que tenha sido a variação dos salários e dos custos dos materiais durante a respectiva execução, os trabalhos iniciais das empreitadas correspondentes à fracção do montante global da adjudicação determinada pela expressão (180-n)/p, na qual:
 
 n é o número de dias decorridos entre a data da abertura das propostas e a do auto de consignação da empreitada, com o valor máximo de 180;
 
 p é o prazo, expresso em dias, fixado para a execução da empreitada.
 
-###### Art. 4.º A revisão poderá ser feita por iniciativa da entidade adjudicante ou a requerimento do adjudicatário, mas em qualquer dos casos, sòmente depois de estarem realizados trabalhos correspondentes à parcela, do montante global da adjudicação, determinada nos termos do artigo anterior.
+Art. 4.º A revisão poderá ser feita por iniciativa da entidade adjudicante ou a requerimento do adjudicatário, mas em qualquer dos casos, sòmente depois de estarem realizados trabalhos correspondentes à parcela, do montante global da adjudicação, determinada nos termos do artigo anterior.
 
-###### Art. 5.º - 1. As cláusulas de revisão de preços poderão estabelecer que esta se efectue mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos da fórmula geral
+Art. 5.º - 1. As cláusulas de revisão de preços poderão estabelecer que esta se efectue mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos da fórmula geral
 
 C(índice t) = a(S(índice t)/S(índice o)) + b(M(índice t)/M(índice o)) + b'(M'(índice t)/M'(índice o)) + b''(M''(índice t)/M''(índice o)) + ... + c,
 
@@ -162,31 +187,31 @@ c é uma parcela que representa a percentagem na empreitada das importâncias n�
 
 3. Quando se verifique, por facto imputável ao adjudicatário, atraso no cumprimento, do programa de trabalhos aprovado, os índices dos salários e dos custos dos materiais a considerar na revisão serão os correspondentes ao período em que os trabalhos por ela abrangidos deveriam ser executados, segundo o referido programa, atendendo-se sempre, no entanto, às baixas de salários ou de custos de materiais de que o empreiteiro tenha beneficiado posteriormente.
 
-###### Art. 6.º - 1. No caso em que a entidade adjudicante o julgue justificado, poderão as cláusulas contratuais limitar a revisão à garantia de custos de determinados tipos de mão-de-obra e de materiais mais significativos, especificando-os e estabelecendo os limites de oscilação dos respectivos custos dentro dos quais não haverá direito a revisão.
+Art. 6.º - 1. No caso em que a entidade adjudicante o julgue justificado, poderão as cláusulas contratuais limitar a revisão à garantia de custos de determinados tipos de mão-de-obra e de materiais mais significativos, especificando-os e estabelecendo os limites de oscilação dos respectivos custos dentro dos quais não haverá direito a revisão.
 
 2. Nos casos sujeitos a este regime, a revisão corresponderá à diferença de preços resultante da variação dos custos, fora dos limites estabelecidos, e é afectada do coeficiente 0,9.
 
-###### Art. 7.º - 1. Os processos dos concursos deverão especificar as cláusulas de revisão a inserir nos contratos, mas os concorrentes, sem prejuízo da apresentação de proposta correspondente a essas cláusulas, poderão propor outras cláusulas de revisão, em alternativa devidamente justificada.
+Art. 7.º - 1. Os processos dos concursos deverão especificar as cláusulas de revisão a inserir nos contratos, mas os concorrentes, sem prejuízo da apresentação de proposta correspondente a essas cláusulas, poderão propor outras cláusulas de revisão, em alternativa devidamente justificada.
 
 2. No caso de propostas com variantes do projecto oficial, poderão as concorrentes apresentar cláusulas de revisão diferentes das especificadas no processo de concurso, desde que estas sejam inadequadas para aquelas propostas.
 
-###### Art. 8.º - 1. Os índices ponderados de salários no território metropolitano e de custos de materiais de origem nacional a considerar para aplicação do presente diploma serão fixados pelo Ministro das Obras Públicas, com base em elementos a publicar para cada mês pelo Instituto Nacional de Estatística, devendo atender-se, para a sua fixação, a todos os encargos directos emergentes da legislação em vigor no período a que respeita a revisão.
+Art. 8.º - 1. Os índices ponderados de salários no território metropolitano e de custos de materiais de origem nacional a considerar para aplicação do presente diploma serão fixados pelo Ministro das Obras Públicas, com base em elementos a publicar para cada mês pelo Instituto Nacional de Estatística, devendo atender-se, para a sua fixação, a todos os encargos directos emergentes da legislação em vigor no período a que respeita a revisão.
 
 2. Da fixação dos índices a que se refere este artigo não cabe recurso.
 
-###### Art. 9.º - 1. As revisões produzirão efeitos normalmente nas liquidações ou pagamentos parciais a efectuar no decurso das empreitadas e fornecimentos, mas poderão relegar-se para a conta final os ajustamentos ou correcções que vierem a mostrar-se devidos.
+Art. 9.º - 1. As revisões produzirão efeitos normalmente nas liquidações ou pagamentos parciais a efectuar no decurso das empreitadas e fornecimentos, mas poderão relegar-se para a conta final os ajustamentos ou correcções que vierem a mostrar-se devidos.
 
 2. Nos contratos em que se proceda a liquidações mensais, atender-se-á, para a revisão, aos índices dos salários e dos custos dos materiais relativos ao mês a que ela se reporta.
 
 3. Nos contratos em que não se proceda a liquidações mensais, atender-se-á, para a revisão, ás médias aritméticas dos índices mensais do período a que ela se reporta, se se puder considerar a execução da empreitada ou fornecimento uniformemente distribuída pelos diferentes meses desse período e se neste se não tiverem verificado variações anormais dos salários ou dos custos dos materiais; no caso contrário, far-se-á a decomposição do mesmo período em parcelas a que sejam aplicáveis aquelas condições, procedendo-se, em relação a cada parcela, nos termos prescritos na regra anterior e somando-se algèbricamente os resultados parciais obtidos.
 
-###### Art. 10.º Os adiantamentos concedidos aos adjudicatários são equiparados, para efeitos de revisão, a pagamentos parciais de trabalhos nas datas da respectiva concessão, devendo as revisões a que se proceda posteriormente incidir sobre as importâncias correspondentes aos trabalhos por elas abrangidos, abatidas, porém, dos quantitativos dos adiantamentos efectuados.
+Art. 10.º Os adiantamentos concedidos aos adjudicatários são equiparados, para efeitos de revisão, a pagamentos parciais de trabalhos nas datas da respectiva concessão, devendo as revisões a que se proceda posteriormente incidir sobre as importâncias correspondentes aos trabalhos por elas abrangidos, abatidas, porém, dos quantitativos dos adiantamentos efectuados.
 
-###### Art. 11.º - 1. Em casos especiais, quando tal se justifique pela natureza da obra ou do fornecimento, poderão incluir-se no caderno de encargos e no contrato quaisquer cláusulas que se afastem ou que divirjam das regras constantes dos artigos antecedentes, as quais, todavia, deverão orientar-se, na medida do possível, pelos princípios fundamentais estabelecidos no presente diploma.
+Art. 11.º - 1. Em casos especiais, quando tal se justifique pela natureza da obra ou do fornecimento, poderão incluir-se no caderno de encargos e no contrato quaisquer cláusulas que se afastem ou que divirjam das regras constantes dos artigos antecedentes, as quais, todavia, deverão orientar-se, na medida do possível, pelos princípios fundamentais estabelecidos no presente diploma.
 
 2. As cláusulas previstas no número anterior que carecem de aprovação expressa deverão ser especificadamente escritas no caderno de encargos e no contrato.
 
-###### Art. 12.º Aos empreiteiros de obras públicas, cujas empreitadas se encontrem em execução na data da publicação do presente diploma e dentro dos respectivos prazos contratuais, incluindo as suas prorrogações, e que não tenham já sido recebidas provisòriamente, poderá ser concedida uma indemnização pelos prejuízos resultantes do agravamento de preços de mão-de-obra e de materiais durante o prazo de realização das mesmas empreitadas, quando se verifique, cumulativamente, as condições seguintes:
+Art. 12.º Aos empreiteiros de obras públicas, cujas empreitadas se encontrem em execução na data da publicação do presente diploma e dentro dos respectivos prazos contratuais, incluindo as suas prorrogações, e que não tenham já sido recebidas provisòriamente, poderá ser concedida uma indemnização pelos prejuízos resultantes do agravamento de preços de mão-de-obra e de materiais durante o prazo de realização das mesmas empreitadas, quando se verifique, cumulativamente, as condições seguintes:
 
 a) Haver contrato escrito de empreitada assinado antes de 1 de Janeiro de 1965;
 
@@ -196,14 +221,14 @@ c) Reconhecer-se que o empreiteiro revelou espírito de bem cumprir as condiçõ
 
 d) Não constarem do contrato cláusulas relativas a garantia da preços de mão-de-obra e de alguns dos materiais com influência significativa no custo da empreitada.
 
-###### Art. 13.º - 1. Os valores das indemnizações a que alude o artigo anterior serão determinados por comissão especial, nomeada pelo Ministro das Obras Públicas, a qual apreciará os requerimentos que para o efeito forem apresentados, depois de devidamente informados pelos serviços competentes do Ministério interessado.
+Art. 13.º - 1. Os valores das indemnizações a que alude o artigo anterior serão determinados por comissão especial, nomeada pelo Ministro das Obras Públicas, a qual apreciará os requerimentos que para o efeito forem apresentados, depois de devidamente informados pelos serviços competentes do Ministério interessado.
 
 2. Sobre os pareceres da comissão o Ministro respectivo ou o corpo administrativo interessado resolverão definitivamente.
 
-###### Art. 14.º O Ministro das Obras Públicas fará publicar as instruções e promoverá as demais medidas necessárias para a boa execução do presente diploma, designadamente para assegurar a uniformidade dos critérios de fixação dos índices ponderados de salários e de materiais, nos termos do artigo 8.º, e para o estabelecimento das indemnizações a que se refere o artigo 12.º
+Art. 14.º O Ministro das Obras Públicas fará publicar as instruções e promoverá as demais medidas necessárias para a boa execução do presente diploma, designadamente para assegurar a uniformidade dos critérios de fixação dos índices ponderados de salários e de materiais, nos termos do artigo 8.º, e para o estabelecimento das indemnizações a que se refere o artigo 12.º
 
-###### Art. 15.º Fica revogada a [Lei n.º 1578](https://diariodarepublica.pt/dr/detalhe/lei/1578-1924-652511), de 10 de Abril de 1924.
+Art. 15.º Fica revogada a [Lei n.º 1578](https://diariodarepublica.pt/dr/detalhe/lei/1578-1924-652511), de 10 de Abril de 1924.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

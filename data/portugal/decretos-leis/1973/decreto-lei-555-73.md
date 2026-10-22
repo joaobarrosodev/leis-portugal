@@ -48,40 +48,140 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db2bf7b2a4b1b13080ac254d4c52da1d454f2c0a4f0b15c87c0babed619e76d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c385134aa039385e560eaf68fc8739dc59f7830a1f5a0b99234b70be7de970e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Conselho Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Ficheiro Central de Pessoas Colectivas e Entidades Equiparadas
+- Gabinete de Registo Nacional
+- Ministério da Justiça
+- Número Nacional de Identificação
+- Pessoa Coletiva
+- Quadro de Pessoal
+- Registo Nacional de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:345151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:327299:por
+  label: "Alterados os arts. 4º, 5º, 8º, 10º, 19º, 20º, 30º e 85º, pelo DEC LEI.326/78.1978.11.09.MFP, DR.IS [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-1978-327299
+  date: '1978-11-09'
+- type: amended_by
+  target: pt:dre:325764:por
+  label: "Alterado o artigo 64.º pelo DEC LEI.346/78.17.11.1978.MJ, DR.IS [265] de 17.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/346-1978-325764
+  date: '1978-11-17'
+- type: amended_by
+  target: pt:dre:378949:por
+  label: "Alterada al. d) do art. 46º e as als. n) e o) do nº 1 do art. 47º, pelo DEC LEI.311/79.1979.08.20.MJ, DR.IS [191]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1979-378949
+  date: '1979-08-20'
+- type: amended_by
+  target: pt:dre:231157:por
+  label: "Aumentados lugares ao quadro de pessoal do Gabinete do Registo Nacional, aprovado pelo presente diploma, pela Port.726/79.31.12.1979.PCM,\
+    \ DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/726-1979-231157
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:459894:por
+  label: "Aumentado um lugar ao quadro de pessoal do Centro de Informática, aprovado pelo presente diploma, pela Port.1064/80.15.12.1980.PCM,\
+    \ DR.IS [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1980-459894
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:570342:por
+  label: "Alterado o quadro de pessoal do Centro de Informática publicado em anexo ao presente diploma, pela PORT.17/81.09.01.1981.PCM,\
+    \ DR.IS [7] de 09.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-1981-570342
+  date: '1981-01-09'
+- type: amended_by
+  target: pt:dre:599772:por
+  label: "Alterado pela PORT.252/82.1982.03.06.MFP, DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/252-1982-599772
+  date: '1982-03-06'
+- type: cites
+  target: pt:dre:225829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506818:por
+  label: "Revogado o artigo 40.º, a alínea a) do n.º 3 do artigo 50.º e o n.º 1 do artigo 84.º, pelo DEC LEI.64/76.24.01.1976.MJ,\
+    \ DR.IS [20] de 24.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1976-506818
+  date: '1976-01-24'
+- type: repealed_by
+  target: pt:dre:312427:por
+  label: "Revogados os arts. 4º, 5º, 8º, 10º, 15º, 19º, 20º e 25º, pelo DEC LEI.144/83.1983.03.31.MJ, DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1983-312427
+  date: '1983-03-31'
+- type: repealed_by
+  target: pt:dre:245342:por
+  label: "Revogados os arts. 4º, 5º, 8º, 10º, 15º, 19º, 20º, 25º e 63º, pelo DEC LEI.235-A/83.1983.06.01.PCM, DR.IS [126]2ºSupl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-a-1983-245342
+  date: '1983-06-01'
+- type: repealed_by
+  target: pt:dre:345151:por
+  label: "Revogado o art. 85º pelo DEC LEI.103/2001.2001.03.29.MJ DR.IS-A [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2001-345151
+  date: '2001-03-29'
 article_structure:
   article_count: 0
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:51Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +238,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Objecto e âmbito do Registo Nacional
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objecto do Registo Nacional de Identificação)
 
 O Registo Nacional de Identificação, abreviadamente designado por Registo Nacional, tem por objecto a atribuição do número nacional individual, mediante a constituição e gestão de um ficheiro central de população e de um ficheiro central de pessoas colectivas e entidades equiparadas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Âmbito obrigatório do ficheiro central de população)
 
@@ -156,7 +256,7 @@ b) Equiparados a nacionais portugueses;
 
 c) Estrangeiros residentes em Portugal.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Âmbito facultativo do ficheiro central de população)
 
@@ -172,13 +272,13 @@ d) Ascendentes ou descendentes de portugueses.
 
 2. O Ministro da Justiça pode autorizar por despacho a inclusão no ficheiro de outros indivíduos cujas redações de conexão com a ordem jurídica portuguesa o justifiquem.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Âmbito obrigatório do ficheiro central de pessoas colectivas e entidades equiparadas)
 
 O ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações ou sociedades que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Âmbito facultativo do ficheiro central de pessoas colectivas e entidades equiparadas)
 
@@ -190,7 +290,7 @@ O ficheiro central de pessoas colectivas e entidades equiparadas abrange as asso
 
 #### SECÇÃO I — Elementos constitutivos do registo individual
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Conteúdo obrigatório do registo individual de cidadão)
 
@@ -220,7 +320,7 @@ h) Profissão;
 
 i) Residência.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Conteúdo facultativo do registo individual de cidadão)
 
@@ -252,7 +352,7 @@ m) Referência ao assento de nascimento e a quaisquer outros documentos ou fonte
 
 2. Pode ainda ser autorizada, em portaria do Ministro da Justiça, a inclusão no registo individual de outros dados de carácter público ou cuja prova seja, por lei, atribuída a serviços públicos.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Conteúdo do registo individual de pessoas colectivas e entidades equiparadas)
 
@@ -274,7 +374,7 @@ f) A data da constituição ou alteração de natureza ou tipo.
 
 #### SECÇÃO II — Composição dos códigos de identificação pessoal
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Número nacional de cidadão)
 
@@ -288,7 +388,7 @@ c) Dígito ou dígitos de contrôle.
 
 2. O primeiro dígito do número sequencial poderá indicar a área de naturalidade ou a nacionalidade, e o último o sexo.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Número nacional de pessoa colectiva ou entidade equiparada)
 
@@ -306,7 +406,7 @@ d) Dígito ou dígitos de contrôle.
 
 #### SECÇÃO III — Órgãos do Registo Nacional
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Órgãos do Registo Nacional)
 
@@ -318,19 +418,19 @@ b) O Conselho Coordenador;
 
 c) O Centro de Informática do Ministério da Justiça.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Responsabilidade fundamental do Gabinete do Registo Nacional)
 
 Cabe ao Gabinete do Registo Nacional a responsabilidade pela definição do sistema de tratamento da informação e das especificações dos ficheiros e dos registos neles contidos, bem como pela elaboração dos códigos e tabelas que se mostrarem necessários.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Responsabilidade do Conselho Coordenador)
 
 Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao Gabinete e ao Centro de Informática a colaboração necessária para que na concepção e exploração do sistema sejam tomadas em conta as necessidades de cada sector da Administração.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Responsabilidade do Centro de Informática do Ministério da Justiça)
 
@@ -338,7 +438,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 2. A análise e a programação necessárias ao funcionamento do sistema de tratamento da informação serão efectuadas pelos serviços do Centro de Informática, sob especificações fornecidas pelo Gabinete do Registo Nacional.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Exclusividade da atribuição e da designação do número nacional)
 
@@ -348,7 +448,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 #### SECÇÃO IV — Comunicação do elementos ao Registo Nacional
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Comunicação de registo de nascimento)
 
@@ -358,7 +458,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 3. Antes de fazer entrega da cédula, a conservatória fará averbar o número nacional no respectivo assento de nascimento.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Comunicação de actos ou factos sujeitos a registo)
 
@@ -366,7 +466,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 2. O Gabinete do Registo Nacional deverá elaborar, de acordo com o Instituto Nacional de Estatística, impressos próprios para as comunicações necessárias a ambos os organismos, de forma que uma única comunicação seja exigida às conservatórias.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Comunicação de residências e admissões de pessoal)
 
@@ -376,7 +476,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 3. As comunicações referidas nos números anteriores serão efectuadas em impressos próprios, devidamente preenchidos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Comunicação de constituição, alteração ou extinção de associações, fundações e sociedades)
 
@@ -388,7 +488,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 4. As comunicações a que se referem os números precedentes devem ser efectuadas nos termos prescritos no n.º 3 do artigo 18.º, no prazo de trinta dias a contar do acto ou facto sujeito a registo.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Comunicação por serviços públicos de constituições, alterações ou extinções sujeitas a registo)
 
@@ -402,7 +502,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 ##### SUBSECÇÃO I — Condições jurídicas
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Acesso à informação total)
 
@@ -412,19 +512,19 @@ a) Os magistrados judiciais e do Ministério Público e as entidades com compet�
 
 b) Os serviços públicos, na medida do necessário para a prossecução das atribuições que lhes forem conferidas por diploma legal, desde que haja acordo ou interesse das pessoas a que respeitam os registos ou estas legalmente lhas devessem fornecer e se mostre não ter sido possível obter o cumprimento de tal obrigação.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Acesso à informação não individualizada)
 
 Têm acesso à informação contida no Registo Nacional, referente tanto a cidadãos como a pessoas colectivas, em termos de não serem identificados os registos individuais, os organismos e serviços públicos a que por lei sejam conferidas atribuições de planeamento económico ou social.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Acesso à informação global ou parcelar)
 
 Pode ser concedido o acesso à informação global ou parcelar contida no Registo Nacional, ou cedida cópia parcelar de ficheiros a organismos e serviços públicos, na medida do necessário para a prossecução das atribuições que lhes forem conferidas por diploma legal.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Acesso a registos individuais de cidadãos)
 
@@ -436,7 +536,7 @@ b) Os ascendentes, os descendentes, o cônjuge ou ex-cônjuge e o tutor ou curad
 
 c) Qualquer pessoa que prove efectuar o pedido em nome ou no interesse do titular do registo ou, estando este ausente ou tendo falecido, as pessoas referidas na alínea anterior ou os presumíveis herdeiros.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Acesso a registos individuais de pessoas colectivas e de entidades equiparadas)
 
@@ -446,7 +546,7 @@ a) Os respectivos corpos gerentes ou os responsáveis pela sua direcção ou ges
 
 b) Qualquer pessoa que prove efectuar o pedido em nome ou no interesse do titular do registo.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Informações e elementos auxiliares de estudo ou de planeamento)
 
@@ -454,7 +554,7 @@ b) Qualquer pessoa que prove efectuar o pedido em nome ou no interesse do titula
 
 2. Em caso de dúvida, compete ao director do Gabinete decidir da verificação das condições estabelecidas nos artigos precedentes para o fornecimento de informações.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Formulação e autenticação das informações)
 
@@ -468,7 +568,7 @@ SUBSECÇÂO II
 
 Condições financeiras
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Fornecimento gratuito)
 
@@ -478,7 +578,7 @@ a) Às entidades referidas na alínea a) do artigo 21.º;
 
 b) Aos serviços do Estado não autónomos, salvo se o fornecimento das informações se destinar a substituir uma actividade das pessoas a que respeitam.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Substituição de certidões ou documento equivalente)
 
@@ -486,7 +586,7 @@ b) Aos serviços do Estado não autónomos, salvo se o fornecimento das informa�
 
 2. As taxas referidas no número precedente, quando correspondentes a informações que substituam certidões emanadas de repartições do registo civil, e uma vez deduzida a importância correspondente às despesas pelo seu fornecimento, terão o destino que for determinado em portaria do Ministro da Justiça.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Condições gerais de fornecimento de informações)
 
@@ -494,7 +594,7 @@ O fornecimento de informações, fora dos casos previstos nos artigos anteriores
 
 #### SECÇÃO II — Valor jurídico da informação
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Valor jurídico)
 
@@ -502,7 +602,7 @@ O fornecimento de informações, fora dos casos previstos nos artigos anteriores
 
 2. As informações do Registo Nacional substituem para todos os efeitos as certidões dos actos ou factos que refiram, não podendo ser recusadas em substituição destas.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Valor da indicação do número nacional)
 
@@ -512,7 +612,7 @@ O fornecimento de informações, fora dos casos previstos nos artigos anteriores
 
 3. Nos avisos de concurso de admissão ou promoção de pessoal, publicados no Diário do Governo, devem ser expressamente indicados os documentos que podem ser substituídos pela indicação do número nacional.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Substituição da referência ou de pública-forma do bilhete de identidade)
 
@@ -520,13 +620,13 @@ O fornecimento de informações, fora dos casos previstos nos artigos anteriores
 
 2. É vedada para qualquer efeito a exigência de apresentação de pública-forma do bilhete de identidade, que deverá ser substituída, quando necessário, por informação de identificação civil emanada do Registo Nacional.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Substituição dos elementos de prova de identificação civil)
 
 A apresentação de certidões do registo de nascimento ou outros documentos de prova de elementos de identificação civil, ou sua pública-forma, só pode ser exigida a indivíduos que indiquem o seu número nacional, depois de obtida autorização do Gabinete do Registo Nacional.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Retenção de bilhete de identidade)
 
@@ -538,17 +638,17 @@ A apresentação de certidões do registo de nascimento ou outros documentos de 
 
 #### SECÇÃO III — Salvaguarda da exactidão da informação
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Responsabilidade pela exactidão da informação)
 
-**O Ministro da Justiça designará em despacho, sob proposta do Gabinete do Registo Nacional:**
+O Ministro da Justiça designará em despacho, sob proposta do Gabinete do Registo Nacional:
 
 a) Os funcionários responsáveis pela conformidade entre as informações constantes do Registo Nacional e os documentos que lhes serviram de base;
 
 b) Os funcionários autorizados a assinar ou rubricar as informações prestadas pelo Registo Nacional.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Conhecimento e correcção do conteúdo do registo)
 
@@ -556,7 +656,7 @@ b) Os funcionários autorizados a assinar ou rubricar as informações prestadas
 
 2. A todo o cidadão assiste o direito de fazer corrigir graciosamente qualquer inexactidão que conste do Registo Nacional em elementos de identificação que lhe respeitem.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Correcção de inexactidões)
 
@@ -568,7 +668,7 @@ b) Os funcionários autorizados a assinar ou rubricar as informações prestadas
 
 #### SECÇÃO IV — Salvaguarda da confidencialidade
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Sigilo profissional)
 
@@ -578,7 +678,7 @@ b) Os funcionários autorizados a assinar ou rubricar as informações prestadas
 
 3. O disposto nos números precedentes é aplicável a consultores ou funcionários de empresas fornecedoras de equipamento ou de serviços.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Regime de prestação de informações)
 
@@ -586,7 +686,7 @@ A prestação de informações de identificação civil por parte dos organismos
 
 #### SECÇÃO V — Sanções
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Sanções pela quebra de confidencialidade)
 
@@ -602,13 +702,13 @@ c) Se se verificar a hipótese prevista na base II da [Lei n.º 3/73](https://di
 
 3. O procedimento criminal depende de participação do Gabinete do Registo Nacional, do ofendido ou, no caso de morte, do cônjuge sobrevivo ou de qualquer descendente, ascendente, irmão, sobrinho ou herdeiro do falecido.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Sanções pela falta de comunicação de serviços públicos)
 
 Incorre na pena de desobediência o funcionário responsável pela falta de remessa ao Centro de Informática, no prazo legal, das cédulas pessoais ou pela falta de comunicação, no mesmo prazo, dos actos referidos nos artigos 17.º e 20.º
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Falsificação de impressos)
 
@@ -616,7 +716,7 @@ Incorre na pena de desobediência o funcionário responsável pela falta de reme
 
 2. A falsificação e venda ou uso ilegítimo dos outros impressos exclusivos do Centro de Informática do Ministério da Justiça é punida com a pena do artigo 230.º do Código Penal.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Infracções relativas à venda de impressos)
 
@@ -630,7 +730,7 @@ c) Não prestar contas dos impressos que lhe tenham sido confiados, nos prazos f
 
 2. A participação do director do Centro de Informática da dívida de impressos constitui título bastante para a sua execução.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Punição geral)
 
@@ -642,7 +742,7 @@ c) Não prestar contas dos impressos que lhe tenham sido confiados, nos prazos f
 
 #### SECÇÃO I — Natureza, atribuições e competência
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Natureza e atribuições)
 
@@ -656,7 +756,7 @@ c) Assegurar a guarda e segurança da confidencialidade dos elementos constantes
 
 d) Promover a coordenação entre ficheiros ou bancos de dados referentes a pessoas singulares ou colectivas a cargo dos vários Ministérios e organismos do sector público.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Competência)
 
@@ -702,7 +802,7 @@ s) Propor as providências que considere convenientes para assegurar o melhor re
 
 #### SECÇÃO II — Direcção
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Direcção do Gabinete)
 
@@ -716,7 +816,7 @@ s) Propor as providências que considere convenientes para assegurar o melhor re
 
 5. O director será substituído pelo adjunto, nas suas faltas e impedimentos, incluindo na presidência do conselho coordenador.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Competência do director)
 
@@ -728,7 +828,7 @@ s) Propor as providências que considere convenientes para assegurar o melhor re
 
 #### SECÇÃO III — Serviços
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Enumeração de serviços)
 
@@ -738,17 +838,17 @@ s) Propor as providências que considere convenientes para assegurar o melhor re
 
 a) A Direcção dos Serviços de Coordenação e Planeamento, com três divisões:
 
-##### Divisão de Programação e Organização;
+Divisão de Programação e Organização;
 
-##### Divisão de Coordenação e Contrôle;
+Divisão de Coordenação e Contrôle;
 
 ##### Divisão de Estudos;
 
 b) A Direcção dos Serviços de Gestão, com três divisões:
 
-##### Divisão de Preparação e Recepção de Dados;
+Divisão de Preparação e Recepção de Dados;
 
-##### Divisão de Comunicação de Informações;
+Divisão de Comunicação de Informações;
 
 ##### Divisão de Contrôle Técnico;
 
@@ -766,7 +866,7 @@ b) As delegações e subdelegações.
 
 4. A organização, competência e funcionamento dos serviços serão definidos em diploma regulamentar.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Delegações)
 
@@ -776,7 +876,7 @@ b) As delegações e subdelegações.
 
 3. As delegações em país estrangeiro serão criadas por decreto referendado pelos Ministros das Finanças e dos Negócios Estrangeiros, no qual se fixarão o quadro do pessoal e as respectivas remunerações, e serão dirigidas por um chefe de delegação directamente dependente do director do Registo Nacional.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Delegações nacionais)
 
@@ -786,7 +886,7 @@ b) As delegações e subdelegações.
 
 3. No caso referido no número anterior, será fixada, por despacho do Ministro da Justiça, ouvido o Ministro das Finanças, uma gratificação mensal a atribuir pelo exercício do cargo.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Subdelegações)
 
@@ -800,7 +900,7 @@ b) As delegações e subdelegações.
 
 #### SECÇÃO IV — Pessoal
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Quadro e distribuição do pessoal)
 
@@ -810,19 +910,19 @@ b) As delegações e subdelegações.
 
 3. A distribuição, incluindo a transferência, do pessoal do Gabinete pelos diversos serviços e delegações é feita por despacho do director.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Requisitos de provimento e processos de recrutamento)
 
 Os requisitos do provimento e os processos de recrutamento do pessoal do quadro são os fixados no [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, com as modificações constantes dos artigos seguintes.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Exame psicotécnico)
 
 As primeiras nomeações para os quadros do pessoal técnico e administrativo estão sujeitas a exame psicotécnico realizado pelo Gabinete do Registo Nacional ou por entidade por ele considerada idónea.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Natureza do provimento)
 
@@ -830,7 +930,7 @@ As primeiras nomeações para os quadros do pessoal técnico e administrativo es
 
 2. A comissão de serviço pode cessar a todo o tempo por despacho do Ministro da Justiça, sob proposta do director do Gabinete.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Requisitos de provimento do pessoal do quadro técnico)
 
@@ -842,37 +942,37 @@ b) Lugares de categoria igual ou superior a adjunto técnico de 2.ª classe: cur
 
 c) Outros lugares: curso geral das escolas secundárias.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Requisitos de provimento do pessoal do quadro administrativo)
 
 Para as primeiras nomeações do pessoal do quadro administrativo são exigíveis a realização, com bom aproveitamento, de um estágio de formação e as habilitações estabelecidas na lei geral.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Provimento dos lugares de chefe de repartição)
 
 Os lugares de chefe de repartição serão providos, por escolha, em diplomados com curso superior ou entre chefes de secção com qualidades de chefia, cinco anos de serviço na categoria e informação de serviço não inferior a Bom.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Provimento dos lugares de chefe de secção)
 
 Os lugares de chefe de secção serão providos, por escolha, em diplomados com curso superior ou entre primeiros-oficiais com qualidades de chefia, três anos de serviço na categoria e informação de serviço não inferior a Bom.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Promoções)
 
 As promoções são feitas, por escolha, entre titulares da categoria anterior, de harmonia com o mérito e a dedicação ao serviço revelados, e não dependem do tempo de serviço prestado.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Pessoal de direcção e chefia ou com funções especializadas)
 
 Por despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atribuídas gratificações mensais a pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Provimento interino de lugares)
 
@@ -884,7 +984,7 @@ Por despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atr
 
 4. Os encargos com o pessoal admitido ao abrigo do n.º 1 serão satisfeitos por força das verbas inscritas para remunerações dos respectivos lugares do quadro.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Pessoal e trabalhos de carácter eventual)
 
@@ -898,7 +998,7 @@ Por despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atr
 
 5. O Ministro da Justiça pode autorizar que as despesas com a admissão de pessoal ou com a realização dos trabalhos referidos nos números anteriores sejam suportadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça e pelo Cofre Geral dos Tribunais.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Pagamento de pessoal eventual)
 
@@ -906,7 +1006,7 @@ Por despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atr
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Comissões e grupos de trabalho)
 
@@ -914,13 +1014,13 @@ Por despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atr
 
 2. As remunerações fixadas nos termos do número anterior serão pagas ou por força de dotações próprias, a inscrever para tal fim no orçamento do Gabinete, ou nos termos do n.º 5 do artigo 65.º
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Missões no estrangeiro)
 
 O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos ou participarem em colóquios, seminários e outras reuniões internacionais.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Pessoal destacado para o Gabinete)
 
@@ -928,19 +1028,19 @@ O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro p
 
 2. O pessoal destacado nos termos do número anterior poderá ser dispensado, total ou parcialmente, do desempenho de funções nos serviços onde se encontre colocado, consoante as actividades a exercer no Gabinete.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Apoio do Gabinete a outros serviços do Ministério)
 
 Podem ser destacados temporariamente para outros serviços do Ministério da Justiça, a fim de promoverem o estudo ou execução da sua mecanização, bem como da sua readaptação ao serviço mecanizado, funcionários do Gabinete, com atribuições que lhes forem conferidas por despacho ministerial, sob proposta do director.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Horário e funções do pessoal)
 
 O horário e as funções do pessoal serão fixados por despacho do Ministro da Justiça, sob proposta do director.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Cartões de identidade)
 
@@ -956,7 +1056,7 @@ b) Livre acesso a todos os locais em que tenham de exercer a sua competência.
 
 4. Cometem o crime previsto e punido pelo artigo 186.º do Código Penal os que se oponham à entrada ou ao livre exercício das atribuições dos funcionários indicados nos números anteriores, depois de devidamente identificados.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Fardamento)
 
@@ -964,7 +1064,7 @@ O pessoal técnico que trabalhe directamente com máquinas e o pessoal auxiliar 
 
 ### CAPÍTULO V — Conselho Coordenador do Registo Nacional
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Natureza, atribuições e competência)
 
@@ -980,7 +1080,7 @@ c) Os relatórios das actividades exercidas;
 
 d) Quaisquer assuntos sobre os quais o director do Registo Nacional considere conveniente ouvi-lo.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Composição e funcionamento)
 
@@ -1014,7 +1114,7 @@ d) O adjunto do director e os directores de serviços do Gabinete.
 
 6. Exercerá as funções de secretário do Conselho, sem voto, um dos funcionários do Gabinete designado pelo director.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Grupos de trabalho)
 
@@ -1024,7 +1124,7 @@ A fim de facilitar o desempenho das funções cometidas ao conselho coordenador,
 
 #### SECÇÃO I — Atribuições e competência
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Atribuições)
 
@@ -1040,7 +1140,7 @@ d) Velar pela oportuna comunicação das informações nos termos prescritos na 
 
 e) Colaborar com o Gabinete do Registo Nacional, de modo a assegurar a guarda e confidencialidade dos elementos constantes do Registo Nacional e o cumprimento das funções que legalmente lhe são atribuídas.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Competência)
 
@@ -1078,7 +1178,7 @@ p) Promover, por si ou em colaboração com o Gabinete do Registo Nacional, a re
 
 #### SECÇÃO II — Serviços
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Enumeração)
 
@@ -1088,17 +1188,17 @@ a) Direcção dos Serviços de Análise e Programação, com quatro divisões:
 
 ##### Divisão de Análise;
 
-##### Divisão de Programação de Sistema:
+Divisão de Programação de Sistema:
 
-##### Divisão de Programação de Aplicação;
+Divisão de Programação de Aplicação;
 
-##### Divisão de Programação de Manutenção;
+Divisão de Programação de Manutenção;
 
 b) Direcção dos Serviços de Exploração, com três divisões:
 
 ##### Divisão de Operação de Sistema;
 
-##### Divisão de Operação de Terminal;
+Divisão de Operação de Terminal;
 
 ##### Divisão de Recepção e Contrôle;
 
@@ -1114,7 +1214,7 @@ f) Repartição Administrativa.
 
 #### SECÇÃO III — Pessoal
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Quadro do pessoal)
 
@@ -1122,13 +1222,13 @@ f) Repartição Administrativa.
 
 2. O quadro do pessoal poderá ser alterado por decreto referendado pelo Ministro das Finanças.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Requisitos de provimento e processos de recrutamento)
 
 Os requisitos do provimento e os processos de recrutamento do pessoal do quadro são os fixados nos artigos 55.º a 61.º do presente diploma, tomando-se como referida ao Centro a competência atribuída ao Gabinete do Registo Nacional, sem prejuízo do disposto nos artigos 4.º, 6.º e 8.º do [Decreto-Lei n.º 154/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1970-225829), de 11 de Abril.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Disposições sobre pessoal)
 
@@ -1136,7 +1236,7 @@ Os requisitos do provimento e os processos de recrutamento do pessoal do quadro 
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Aluguer de equipamento mecanográfico)
 
@@ -1144,7 +1244,7 @@ Os requisitos do provimento e os processos de recrutamento do pessoal do quadro 
 
 2. No ano em curso e no ano de 1974, o aluguer referido no número anterior não poderá exceder as importâncias, respectivamente, de 445000$00 e de 19470000$00.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Serviços de identificação)
 
@@ -1152,7 +1252,7 @@ Os requisitos do provimento e os processos de recrutamento do pessoal do quadro 
 
 2. O número nacional de identificação será aposto nos bilhetes de identidade em substituição do actual número sequencial a partir da data que for determinada em portaria do Ministro da Justiça.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Impressos exclusivos)
 
@@ -1162,19 +1262,19 @@ Os requisitos do provimento e os processos de recrutamento do pessoal do quadro 
 
 3. Cabe ao Centro promover o estudo, execução, distribuição e venda dos impressos por força das receitas obtidas e escriturar as receitas, bem como as despesas que efectuar por conta destas de harmonia com as normas aprovadas por despacho do Ministro da Justiça.
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Pagamento de encargos de pessoal)
 
 O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, e no artigo único do [Decreto-Lei n.º 41602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41602-1958-302701), de 30 de Abril de 1958, é aplicável às tarefas a cargo do Gabinete do Registo Nacional e do Centro de Informática.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Pagamento de encargos de instalação e equipamento)
 
-**O Ministro da Justiça pode determinar que as despesas de instalação e equipamento do Gabinete do Registo Nacional e do Centro de Informática sejam suportadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.**
+O Ministro da Justiça pode determinar que as despesas de instalação e equipamento do Gabinete do Registo Nacional e do Centro de Informática sejam suportadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Transferência e promoção de pessoal)
 
@@ -1182,7 +1282,7 @@ O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica
 
 2. Para efeitos de promoção, os quadros de pessoal de ambos os serviços são tidos como quadro único.
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Primeiro provimento; alterações)
 
@@ -1190,7 +1290,7 @@ O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica
 
 2. Os requisitos de provimento e promoção do pessoal, bem como os processos de recrutamento, podem ser alterados por decreto regulamentar.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Colocação dos actuais funcionários)
 
@@ -1200,7 +1300,7 @@ O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica
 
 3. O pessoal actualmente provido em comissão, nos termos do artigo 4.º do [Decreto-Lei n.º 34/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1972-244879), de 31 de Janeiro, será colocado em comissão por tempo indeterminado enquanto não for contratado.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Encargos de execução do presente diploma)
 
@@ -1208,11 +1308,11 @@ Os encargos a que der lugar para o Orçamento Geral do Estado a execução do pr
 
 Visto e aprovado em Conselho de Ministros - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 10 de Outubro de 1973.**
+Promulgado em 10 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA I
 
@@ -1220,12 +1320,12 @@ Quadro do pessoal do Gabinete do Registo Nacional
 
 Serviços Centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf))](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf)
 
 MAPA II
 
 Quadro do pessoal do Centro de Informática do Ministério da Justiça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf))](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf)
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

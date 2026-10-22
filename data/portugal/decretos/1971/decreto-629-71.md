@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 304/1971, 1º Suplemento, Série I de 1971-12-31
   number: '304'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2074-(6) a 2074-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30401/00060006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/629-1971-368217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c37c8af5b8da9e2f657cf3d07053596beafa5c23ab568ad7ee9ef91ac3c0fc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f86c46778b86451a23e639582fd98d0c94d56485ef6d4915efac96bc93704d20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:05Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +93,11 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral das Construções Hospitalares a celebrar contrato para a execução da empreitada do Hospital de Sobral Cid, em Coimbra (ampliação da cozinha e lavadaria), pela importância de 1988040$00, repartido pelas seguintes entidades:
+Artigo 1.º É autorizada a Direcção-Geral das Construções Hospitalares a celebrar contrato para a execução da empreitada do Hospital de Sobral Cid, em Coimbra (ampliação da cozinha e lavadaria), pela importância de 1988040$00, repartido pelas seguintes entidades:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30401/00060006.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30401/00060006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30401/00060006.pdf)
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá em cada ano exceder a seguintes quantias:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá em cada ano exceder a seguintes quantias:
 
 1. Em 1971 ... 1162902$00
 
@@ -103,8 +107,8 @@ A importância fixada para o último ano será acrescida do saldo apurado no ano
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - Rui Alves da Silva Sanches - Augusto Victor Coelho.
 
-**Promulgado em 31 de Dezembro de 1971.**
+Promulgado em 31 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

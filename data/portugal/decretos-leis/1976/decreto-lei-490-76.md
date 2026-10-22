@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/14500/13961397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4945c01fa1e43a37844cfe548ab7c2b16cc8180b14e1e596f83bb53f18257781
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fc820a9b85ee702728ca0c1ff8ba0fe5b8e31c30ca30288daf0bc197a16d27c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Empresa Pública
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240846:por
+  label: "Alterados os art.s 1º e 3º, pelo DEC LEI.353-A/77.29.08.1977.MPLCE, DR.IS [199-2ºSupl] de 29.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-a-1977-240846
+  date: '1977-08-29'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:51Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Esta impossibilidade de determinar, na data da constituição da empresa públic
 
 Nestes termos, usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os conselhos de gerência das empresas públicas, nos noventa dias seguintes à sua constituição, deverão apresentar ao respectivo Ministério da Tutela e ao Ministério das Finanças, acompanhada de parecer da comissão de fiscalização, uma proposta técnica fundamentada do montante do respectivo capital estatutário, sempre que o mesmo não tenha sido fixado no estatuto, ou, tendo-o sido, não corresponda às necessidades permanentes da empresa.
+Artigo 1.º Os conselhos de gerência das empresas públicas, nos noventa dias seguintes à sua constituição, deverão apresentar ao respectivo Ministério da Tutela e ao Ministério das Finanças, acompanhada de parecer da comissão de fiscalização, uma proposta técnica fundamentada do montante do respectivo capital estatutário, sempre que o mesmo não tenha sido fixado no estatuto, ou, tendo-o sido, não corresponda às necessidades permanentes da empresa.
 
-###### Art. 2.º- 1. A proposta técnica referida no número anterior deverá conter obrigatoriamente as seguintes informações:
+Art. 2.º- 1. A proposta técnica referida no número anterior deverá conter obrigatoriamente as seguintes informações:
 
 a) Activo imobilizado (por grandes grupos);
 
@@ -118,14 +134,14 @@ h) Estrutura previsional de origem e aplicação de fundos e volume de autofinan
 
 2. A proposta deverá ser acompanhada, sempre que possível, por uma programação financeira para um período de três a cinco anos.
 
-###### Art. 3.º Sobre a proposta referida no artigo 1.º, o Ministro da Tutela e o Ministro das Finanças fixarão, por despacho conjunto, o capital estatutário da empresa.
+Art. 3.º Sobre a proposta referida no artigo 1.º, o Ministro da Tutela e o Ministro das Finanças fixarão, por despacho conjunto, o capital estatutário da empresa.
 
-###### Art. 4.º As comissões de reestruturação das empresas nacionalizadas e as comissões instaladoras de novas empresas públicas deverão incluir nos seus relatórios proposta técnica idêntica à prevista neste diploma, para a fixação do capital estatutário da nova empresa.
+Art. 4.º As comissões de reestruturação das empresas nacionalizadas e as comissões instaladoras de novas empresas públicas deverão incluir nos seus relatórios proposta técnica idêntica à prevista neste diploma, para a fixação do capital estatutário da nova empresa.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 12 de Junho de 1976.**
+Promulgado em 12 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

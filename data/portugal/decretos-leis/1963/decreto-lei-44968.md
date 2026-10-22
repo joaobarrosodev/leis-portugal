@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44968-1963-194842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b0301f06b7ed2b94e1187f4ad47591f34fcf44a644bd354aaf4de41a6382eaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94e78380098ead5c54c57ef2fe4b8c78acb1d805891a11db04133888490114f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+relationships:
+- type: cites
+  target: pt:dre:193647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:39Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +108,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. As alíneas b) e c) do n.º 1 do artigo 46.º, o n.º 5 do artigo 47.º e o n.º 3 do artigo 48.º do Código da Estrada, aprovado e posto em execução pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, e alterado pelo Decreto-Lei n.º 40725, de 8 de Agosto de 1955, passam a ter as redacções seguintes:
+Artigo único. As alíneas b) e c) do n.º 1 do artigo 46.º, o n.º 5 do artigo 47.º e o n.º 3 do artigo 48.º do Código da Estrada, aprovado e posto em execução pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, e alterado pelo Decreto-Lei n.º 40725, de 8 de Agosto de 1955, passam a ter as redacções seguintes:
 
 ###### ARTIGO 46.º — Habilitação legal para conduzir
 
@@ -121,7 +138,7 @@ Tratando-se de menores, é-lhes aplicável o disposto na alínea a) e parte fina
 
 3. Os candidatos membros do corpo diplomático acreditados junto do Governo Português que, por intermédio do Ministério dos Negócios Estrangeiros, requeiram a admissão a exame serão dispensados da apresentação dos documentos referidos no n.º 1 deste artigo, com excepção do exigido na alínea b), bem como do pagamento da respectiva taxa.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Francisco António das Chagas.
 

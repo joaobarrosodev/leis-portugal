@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 161/1976, 1º Suplemento, Série I de 1976-07-12
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(8) a 1540-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16101/00080008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-f-1976-181631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 964025520da32a4c5eaed3b5296af1d6e8fff74a647f68b34997891c67e8ead8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 407f24a2c5d0c79316f659c7fe8db71bf0e7fee835d7381cec59e27e5686e1ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Direcção do Serviço de Infra-estruturas da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:52Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +113,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos para a execução de obras ou a executar obras por administração directa no continente até à importância de 25500000$00.
+Artigo 1.º É autorizada a Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos para a execução de obras ou a executar obras por administração directa no continente até à importância de 25500000$00.
 
-###### Art. 2.º - 1. Os encargos resultantes dos contratos e das obras de administração directa não poderão, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1. Os encargos resultantes dos contratos e das obras de administração directa não poderão, em cada ano, exceder as seguintes importâncias:
 
 Em 1976 - 20500000$00.
 
@@ -109,16 +123,16 @@ Em 1977 - 5000000$00.
 
 2. A importância fixada para 1977 será acrescida do saldo que se apurar no ano anterior.
 
-###### Art. 3.º - 1. Os encargos resultantes da execução deste diploma serão satisfeitos em conta das verbas consignadas no orçamento da Defesa Nacional Estado-Maior-General das Forças Armadas e Departamento da Força Aérea.
+Art. 3.º - 1. Os encargos resultantes da execução deste diploma serão satisfeitos em conta das verbas consignadas no orçamento da Defesa Nacional Estado-Maior-General das Forças Armadas e Departamento da Força Aérea.
 
 2. Os contratos serão celebrados e as obras por administração directa planeadas de forma que, em cada ano, não haja obrigação de pagar em cada mês mais de um décimo do encargo anual indicado.
 
-###### Art. 4.º Quando os pagamentos em 1977 originarem ónus especial sobre os preços fixados em 1976, a respectiva disposição contratual está sujeita a acordo prévio do Ministro das Finanças.
+Art. 4.º Quando os pagamentos em 1977 originarem ónus especial sobre os preços fixados em 1976, a respectiva disposição contratual está sujeita a acordo prévio do Ministro das Finanças.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Julho de 1976.**
+Promulgado em 12 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

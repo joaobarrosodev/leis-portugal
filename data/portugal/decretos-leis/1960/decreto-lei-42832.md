@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42832-1960-278712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b47a20415f11bbf4f8fdf6b189fc74a5fce9d4a1710dce625b937ca29b4d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4831c75b6e557b7cb26a44180bf2e5cfd256ae0aa0ebe787e83363e879aa490f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:53Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +99,14 @@ Considerando que desta modificação não resulta encargo algum para o Estado e 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os cargos dos oficiais da companhia auto transportes da Guarda Nacional Republicana, constantes do quadro anexo ao [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, passam a ser desempenhados por:
+Artigo 1.º Os cargos dos oficiais da companhia auto transportes da Guarda Nacional Republicana, constantes do quadro anexo ao [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, passam a ser desempenhados por:
 
 1 capitão do quadro do serviço de material (serviços técnicos de manutenção de material) como comandante;
 
 2 capitães ou tenentes da mesma especialidade.
 
-###### Art. 2.º O cargo de chefe do serviço de material de guerra e aquartelamento da Guarda Nacional Republicana, anexo ao [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, passa a ser desempenhado por um capitão do quadro do serviço de material (serviços técnicos de manutenção de material, de preferência do ramo armamento).
+Art. 2.º O cargo de chefe do serviço de material de guerra e aquartelamento da Guarda Nacional Republicana, anexo ao [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944, passa a ser desempenhado por um capitão do quadro do serviço de material (serviços técnicos de manutenção de material, de preferência do ramo armamento).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44197-1962-519027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fd82c91ee79fab9372cf97c994091d36fc52728287c116854bb4afe2a472f6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04f15784b8590ca656eeb0903f903ffc8baa0b10322b47ac27a88f138aab4c89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cantina Escolar
+- Definição de Competências
+- Doação
+- Estabelecimento de Ensino
+- Ministro da Educação Nacional
+- Obras de Conservação e Restauro
+- VILA Pouca de Aguiar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:50Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +99,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nos termos do n.º 1.º do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do Sr. Dr. Nuno Simões, como representante de todos os subscritores e na qualidade de principal doador contribuinte, a importância de 250000$00 para fundo de manutenção da Cantina Escolar Nicolau Mesquita, anexa às escolas do núcleo de Pedras Salgadas, freguesia de Bornes de Aguiar, concelho de Vila Pouca de Aguiar.
+Artigo 1.º Nos termos do n.º 1.º do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do Sr. Dr. Nuno Simões, como representante de todos os subscritores e na qualidade de principal doador contribuinte, a importância de 250000$00 para fundo de manutenção da Cantina Escolar Nicolau Mesquita, anexa às escolas do núcleo de Pedras Salgadas, freguesia de Bornes de Aguiar, concelho de Vila Pouca de Aguiar.
 
-###### Art. 2.º A administração da Cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o Sr. Dr. Nuno Simões ou quem o representar.
+Art. 2.º A administração da Cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o Sr. Dr. Nuno Simões ou quem o representar.
 
-###### Art. 3.º Ao Sr. Dr. Nuno Simões é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela Cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
+Art. 3.º Ao Sr. Dr. Nuno Simões é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela Cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues das Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

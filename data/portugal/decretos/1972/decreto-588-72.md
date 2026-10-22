@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/588-1972-665128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bee7f288aa790e8c844bf3430a7e61542ccfc9da8fa80df0f8bb297208ef2418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6115b63c1421123fba93f0181b2070cbe3143c24ac37d8c543dcdda934290f1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:48Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +93,9 @@ Por motivo de urgência, tendo em vista o disposto no § 3.º do artigo 136.º d
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro do Ultramar a celebrar contratos para a execução das empreitadas relativas à construção do bairro de casas económicas, em regime de propriedade resolúvel, em Paço de Arcos, para beneficiários da Obra Social do Ministério do Ultramar, incluindo o fornecimento e montagem dos respectivos elevadores, pela importância total de 212853846$40.
+Artigo 1.º É autorizado o Ministro do Ultramar a celebrar contratos para a execução das empreitadas relativas à construção do bairro de casas económicas, em regime de propriedade resolúvel, em Paço de Arcos, para beneficiários da Obra Social do Ministério do Ultramar, incluindo o fornecimento e montagem dos respectivos elevadores, pela importância total de 212853846$40.
 
-###### Art. 2.º - 1. Os encargos resultantes da execução dos contratos referidos no artigo anterior não poderão, em cada ano, exceder as seguintes quantias:
+Art. 2.º - 1. Os encargos resultantes da execução dos contratos referidos no artigo anterior não poderão, em cada ano, exceder as seguintes quantias:
 
 1973 ... 125000000$00
 
@@ -109,10 +109,10 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Dezembro de 1972.**
+Promulgado em 30 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

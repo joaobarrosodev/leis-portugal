@@ -48,40 +48,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49107-1969-199627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b4c98400d301abeb59e3f8928fbb88c2c0ba8ec66414b405a55261dd66aaf7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b9de391d4c1c8fca33ae4f7bc326d3314bf56b4a32dfaf33f863d4a4521ceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Comandante
+- Comando Aéreo
+- Comando Chefe das Forças Armadas
+- Comando Militar
+- Comando Naval
+- Definição de Competências
+- Forças Armadas
+- Formas de Provimento
+- Militar
+- Orgânica
+- Proteção Social
 relationships:
 - type: amended_by
   target: pt:dre:310992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225828:por
+  label: "Aditados os nºs. 3 e 4 ao art. 6º do presente diploma, pelo DEC LEI.153/70.11.04.1970.PC, DG.IS [85] de 11.04.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-1970-225828
+  date: '1970-04-11'
+- type: amended_by
+  target: pt:dre:684856:por
+  label: "Aditado um nº 5 ao art. 6º (com a redacção conferida no Dec Lei 153/70 de 11-Abr) pelo DEC LEI.38/73.08.02.1973.PC,\
+    \ DG.IS [33] de 08.02.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1973-684856
+  date: '1973-02-08'
+- type: amended_by
+  target: pt:dre:159086:por
+  label: "Alterados os arts. 1º, 4º, 5º, 7º e 8º e aditado o art. 24º ao presente diploma, pelo DEC LEI.18/75.20.01.1975.CCEMFA,\
+    \ DG.IS [16] de 20.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1975-159086
+  date: '1975-01-20'
+- type: amended_by
+  target: pt:dre:310992:por
+  label: "Extinto o Comando Chefe das Forças Armadas de Macau previsto no presente diploma pelo DEC LEI.705/75.19.12.1975.CR,\
+    \ DG.IS [292] de 19.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/705-1975-310992
+  date: '1975-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:56Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +150,7 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nas províncias ultramarinas onde as circunstâncias obriguem a realização de operações militares, com vista a garantir a soberania nacional sobre o território e a manter a ordem e a tranquilidade pública gravemente ameaçadas, a estruturação das forças armadas compreenderá:
+Artigo 1.º Nas províncias ultramarinas onde as circunstâncias obriguem a realização de operações militares, com vista a garantir a soberania nacional sobre o território e a manter a ordem e a tranquilidade pública gravemente ameaçadas, a estruturação das forças armadas compreenderá:
 
 a) Comando-chefe;
 
@@ -142,15 +178,15 @@ Elementos de reforço dos órgãos de comando e dos serviços das forças de gua
 
 A) Comando-chefe
 
-###### Art. 2.º O comandante-chefe exerce o comando operacional sobre os comandantes militar, naval e aéreo, os quais, por sua vez, exercem a sua acção de comando sobre os comandos, unidades, órgãos e estabelecimentos na sua dependência e dirigem o apoio administrativo-logístico daqueles que não estejam na sua directa dependência.
+Art. 2.º O comandante-chefe exerce o comando operacional sobre os comandantes militar, naval e aéreo, os quais, por sua vez, exercem a sua acção de comando sobre os comandos, unidades, órgãos e estabelecimentos na sua dependência e dirigem o apoio administrativo-logístico daqueles que não estejam na sua directa dependência.
 
-###### Art. 3.º - 1. O comandante-chefe exerce ainda o comando operacional sobre as zonas de intervenção e os sectores operacionais, e as reservas, que tiver constituído.
+Art. 3.º - 1. O comandante-chefe exerce ainda o comando operacional sobre as zonas de intervenção e os sectores operacionais, e as reservas, que tiver constituído.
 
 2. A zona de intervenção, principal comando operacional subordinado na luta contra-subversiva, o qual pode ser conjunto, planeia e conduz as operações sob as directivas do comando-chefe, comandando e impulsionando a actividade dos sectores operacionais na sua dependência.
 
 3. O sector operacional é um escalão de comando terrestre essencialmente executivo e disporá de meios para conduzir a contra guerrilha, controlar e proteger as populações, ocupar e defender pontos sensíveis e obter informações.
 
-###### Art. 4.º O comando-chefe será constituído por:
+Art. 4.º O comando-chefe será constituído por:
 
 Comandante-chefe;
 
@@ -158,33 +194,33 @@ Três comandantes adjuntos do comandante-chefe;
 
 Quartel-general.
 
-###### Art. 5.º O comandante-chefe, oficial general do Exército, da Armada ou da Força Aérea, será nomeado pelo Ministro da Defesa Nacional, com a concordância do Ministro do Ultramar, ouvido o titular do departamento a que pertence, desempenha as funções fixadas na lei e exerce as constantes dos artigos 2.º e 3.º deste diploma. Depende para fins operacionais do chefe do Estado-Maior General das Forças Armadas.
+Art. 5.º O comandante-chefe, oficial general do Exército, da Armada ou da Força Aérea, será nomeado pelo Ministro da Defesa Nacional, com a concordância do Ministro do Ultramar, ouvido o titular do departamento a que pertence, desempenha as funções fixadas na lei e exerce as constantes dos artigos 2.º e 3.º deste diploma. Depende para fins operacionais do chefe do Estado-Maior General das Forças Armadas.
 
-###### Art. 6.º - 1. Os comandantes militar, naval e aéreo serão os comandantes adjuntos do comandante-chefe para a conduta das operações, competindo-lhes em tal qualidade ser os conselheiros do comandante-chefe para o emprego operacional das forças dos respectivos ramos.
+Art. 6.º - 1. Os comandantes militar, naval e aéreo serão os comandantes adjuntos do comandante-chefe para a conduta das operações, competindo-lhes em tal qualidade ser os conselheiros do comandante-chefe para o emprego operacional das forças dos respectivos ramos.
 
 2. Os comandantes-adjuntos exercem as suas funções em acumulação com os cargos de que são titulares.
 
-###### Art. 7.º - 1. O quartel-general terá a organização fixada em regulamento aprovado por portaria do Ministro da Defesa Nacional, devendo compreender o estado-maior e um centro de comunicações, além de outros órgãos que sejam considerados necessários.
+Art. 7.º - 1. O quartel-general terá a organização fixada em regulamento aprovado por portaria do Ministro da Defesa Nacional, devendo compreender o estado-maior e um centro de comunicações, além de outros órgãos que sejam considerados necessários.
 
 2. O estado-maior será constituído, além do chefe e do subchefe, pelo pessoal necessário, que se distribuirá por quatro repartições.
 
-###### Art. 8.º - 1. O quadro orgânico do comando-chefe de cada província será fixado em portaria do Ministro da Defesa Nacional, que promoverá o seu preenchimento, podendo inicialmente os comandantes-chefes utilizar o actual pessoal dos seus gabinetes militares que ficam extintos.
+Art. 8.º - 1. O quadro orgânico do comando-chefe de cada província será fixado em portaria do Ministro da Defesa Nacional, que promoverá o seu preenchimento, podendo inicialmente os comandantes-chefes utilizar o actual pessoal dos seus gabinetes militares que ficam extintos.
 
 2. O pessoal em serviço no quartel-general do comando-chefe terá regalias idênticas às do pessoal correspondente dos quartéis-generais dos três ramos das forças armadas na província.
 
 B) Comandos militar, naval e aéreo
 
-###### Art. 9.º - 1. O comandante da região militar, o comandante territorial independente, o comandante da região naval, o comandante da defesa marítima territorial e o comandante de região ou de zona aérea, além das funções indicadas no artigo 6.º, mantêm as funções territoriais que lhes competem nas respectivas províncias ultramarinas e as responsabilidades de apoio administrativo e logístico de todas as forças do seu ramo estacionadas no teatro de operações, exercem o comando pleno das mesmas forças, com excepção das que tenham sido integradas em outros comandos operacionais organizados, e podem receber o comando operacional dentro dos limites de área ou de funções que lhe sejam atribuídos pelo comandante-chefe.
+Art. 9.º - 1. O comandante da região militar, o comandante territorial independente, o comandante da região naval, o comandante da defesa marítima territorial e o comandante de região ou de zona aérea, além das funções indicadas no artigo 6.º, mantêm as funções territoriais que lhes competem nas respectivas províncias ultramarinas e as responsabilidades de apoio administrativo e logístico de todas as forças do seu ramo estacionadas no teatro de operações, exercem o comando pleno das mesmas forças, com excepção das que tenham sido integradas em outros comandos operacionais organizados, e podem receber o comando operacional dentro dos limites de área ou de funções que lhe sejam atribuídos pelo comandante-chefe.
 
 2. Para todos os efeitos não operacionais os comandantes referidos no número anterior dependem dos titulares dos respectivos departamentos, nas condições estabelecidas nas suas leis orgânicas.
 
-###### Art. 10.º Os comandantes referidos no artigo anterior exercem a sua acção por intermédio dos respectivos quartéis-generais, cuja organização será adaptada às missões que lhes são atribuídas por este diploma.
+Art. 10.º Os comandantes referidos no artigo anterior exercem a sua acção por intermédio dos respectivos quartéis-generais, cuja organização será adaptada às missões que lhes são atribuídas por este diploma.
 
-###### Art. 11.º Os quadros orgânicos dos comandos referidos no artigo 10.º serão fixados em portarias conjuntas do Ministro da Defesa Nacional e dos Ministros do Exército, da Marinha ou do Secretário de Estado da Aeronáutica, conforme o ramo das forças armadas.
+Art. 11.º Os quadros orgânicos dos comandos referidos no artigo 10.º serão fixados em portarias conjuntas do Ministro da Defesa Nacional e dos Ministros do Exército, da Marinha ou do Secretário de Estado da Aeronáutica, conforme o ramo das forças armadas.
 
 C) Forças da guarnição normal
 
-###### Art. 12.º Às unidades que constituem as forças de guarnição normal compete:
+Art. 12.º Às unidades que constituem as forças de guarnição normal compete:
 
 a) Contribuir para a protecção geral da província:
 
@@ -206,23 +242,23 @@ e) Mobilizar outras unidades ou formações;
 
 f) Servir, quando necessário, de centros de instrução.
 
-###### Art. 13.º Os comandos territoriais e as circunscrições territoriais militares poderão, no todo ou em parte, ser transformados em zonas de intervenção e em sectores operacionais, coincidindo ou não os limites destas zonas e sectores com os referidos comandos e circunscrições.
+Art. 13.º Os comandos territoriais e as circunscrições territoriais militares poderão, no todo ou em parte, ser transformados em zonas de intervenção e em sectores operacionais, coincidindo ou não os limites destas zonas e sectores com os referidos comandos e circunscrições.
 
-###### Art. 14.º - 1. As forças de guarnição normal, organizadas permanentemente desde tempo de paz, são privativas de cada província.
+Art. 14.º - 1. As forças de guarnição normal, organizadas permanentemente desde tempo de paz, são privativas de cada província.
 
 2. O pessoal destas forças é integrado num quadro comum administrado pelo comandante militar, pelo comandante naval ou pelo comandante aéreo, conforme os ramos das forças armadas, de acordo com as instruções de cada departamento.
 
 3. As forças de guarnição normal serão tanto quanto possível, e conforme as necessidades e características de cada ramo das forças armadas, recrutadas na província, com excepção dos quadros, especialistas e demais pessoal que faltarem para o completamento dos comandos, unidades e estabelecimentos.
 
-###### Art. 15.º - 1. Tem preferência na nomeação para as unidades da guarnição normal o pessoal oferecido.
+Art. 15.º - 1. Tem preferência na nomeação para as unidades da guarnição normal o pessoal oferecido.
 
 2. Na falta de concorrentes voluntários em número suficiente, o completamento dos efectivos obedecerá às normas gerais estabelecidas para cada departamento das forças armadas.
 
-###### Art. 16.º As forças de guarnição normal serão fixadas em despacho conjunto dos Ministros da Defesa e do Ultramar, ouvidos os titulares dos três departamentos das forças armadas.
+Art. 16.º As forças de guarnição normal serão fixadas em despacho conjunto dos Ministros da Defesa e do Ultramar, ouvidos os titulares dos três departamentos das forças armadas.
 
 D) Forças de reforço
 
-###### Art. 17.º As forças de reforço destinam-se a fornecer aos comandos-chefes os meios necessários à manutenção da segurança na sua área de responsabilidade quando as forças de guarnição normal se mostrem insuficientes para o conseguir. Tais forças poderão compreender:
+Art. 17.º As forças de reforço destinam-se a fornecer aos comandos-chefes os meios necessários à manutenção da segurança na sua área de responsabilidade quando as forças de guarnição normal se mostrem insuficientes para o conseguir. Tais forças poderão compreender:
 
 a) Comandos operacionais;
 
@@ -234,17 +270,17 @@ d) Reservas;
 
 e) Elementos para reforço aos comandos da guarnição normal.
 
-###### Art. 18.º - 1. Os comandos operacionais têm competência para atribuir missões aos comandos colocados sob a sua autoridade, e bem assim para neles delegar a superintendência operacional; normalmente não têm responsabilidades logísticas ou administrativas e dispõem de órgãos de comando adequados ao seu escalão de planeamento e conduta das operações.
+Art. 18.º - 1. Os comandos operacionais têm competência para atribuir missões aos comandos colocados sob a sua autoridade, e bem assim para neles delegar a superintendência operacional; normalmente não têm responsabilidades logísticas ou administrativas e dispõem de órgãos de comando adequados ao seu escalão de planeamento e conduta das operações.
 
 2. Os comandos operacionais podem exercer a sua acção sobre determinadas zonas de intervenção ou sectores operacionais, de acordo com as disposições do artigo 3.º, ou em missões específicas.
 
-###### Art. 19.º - 1. O pessoal destinado às forças de reforço poderá constituir unidades completas ou ser nomeado individualmente, segundo as normas estabelecidas para cada departamento das forças armadas.
+Art. 19.º - 1. O pessoal destinado às forças de reforço poderá constituir unidades completas ou ser nomeado individualmente, segundo as normas estabelecidas para cada departamento das forças armadas.
 
 2. Para as unidades constituídas a instrução geral e especial decorre nos territórios onde o pessoal foi incorporado, e a instrução operacional na província de destino, quando possível.
 
 E) Disposições gerais
 
-###### Art. 20.º - 1. O pessoal para serviço nas províncias ultramarinas pode ser nomeado por:
+Art. 20.º - 1. O pessoal para serviço nas províncias ultramarinas pode ser nomeado por:
 
 a) Escolha;
 
@@ -260,7 +296,7 @@ c) Imposição de serviço.
 
 5. As condições em que se processam as nomeações por oferecimento ou por imposição de serviço são estabelecidas pelo titular do respectivo departamento.
 
-###### Art. 21.º - 1. O pessoal que seja nomeado por oferecimento ou por escolha, além dos direitos presentemente em vigor, têm mais os seguintes:
+Art. 21.º - 1. O pessoal que seja nomeado por oferecimento ou por escolha, além dos direitos presentemente em vigor, têm mais os seguintes:
 
 a) Transporte para as famílias por conta do Estado para a província ultramarina e de volta para a nova colocação do militar;
 
@@ -286,7 +322,7 @@ d) Outras pessoas que, estando a seu cargo, confiram direito a abono de família
 
 5. O direito do transporte da família por conta do Estado pode ser substituído, se o militar o desejar, pelo uso de licença disciplinar anual na metrópole com passagens por conta do Estado, desde que nela residam os familiares referidos no número anterior, sendo o mesmo direito concedido se a família residir noutra província.
 
-###### Art. 22.º Os encargos resultantes da execução do presente diploma são suportados em cada província ultramarina pela forma seguinte:
+Art. 22.º Os encargos resultantes da execução do presente diploma são suportados em cada província ultramarina pela forma seguinte:
 
 1.º No que se refere às forças armadas da guarnição normal, pelas dotações inscritas no capítulo 8.º «Defesa nacional - Forças armadas» da despesa do orçamento da respectiva província ultramarina, constituídas em orçamento privativo das suas forças armadas, nos termos da legislação em vigor;
 
@@ -294,13 +330,13 @@ d) Outras pessoas que, estando a seu cargo, confiram direito a abono de família
 
 3.º No que se refere às forças armadas de reforço às de guarnição normal, pela dotação para «Forças militares extraordinárias no ultramar», inscrita no capítulo «Defesa nacional» da despesa extraordinária para encargos gerais da Nação do Orçamento Geral do Estado.
 
-###### Art. 23.º A execução do presente diploma deverá processar-se por forma a estar regularizada até 31 de Dezembro do corrente ano, e na medida das disponibilidades financeiras existentes para cobrir os respectivos encargos.
+Art. 23.º A execução do presente diploma deverá processar-se por forma a estar regularizada até 31 de Dezembro do corrente ano, e na medida das disponibilidades financeiras existentes para cobrir os respectivos encargos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 25 de Junho de 1969.**
+Promulgado em 25 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

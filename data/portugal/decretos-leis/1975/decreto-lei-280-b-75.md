@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 129/1975, 2º Suplemento, Série I de 1975-06-05
   number: '129'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 782-(4) a 782-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/12902/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-b-1975-559061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f467f9247e2e754ae53c75a0f483b2777f239a7f617cdaa546caf8ff16631377
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c28a6155d272d9484a1a8aa687d9ec9026479cd6a8d4f70d971f4d5856f4a33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Nacionalização
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:12Z'
   warnings: []
   errors: []
 ---
@@ -102,32 +110,32 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Empresa Geral de Transportes, S. A. R. L., é declarada nacionalizada, com eficácia a contar de 5 de Junho de 1975.
+Artigo 1.º - 1. A Empresa Geral de Transportes, S. A. R. L., é declarada nacionalizada, com eficácia a contar de 5 de Junho de 1975.
 
 2. A nacionalização prevista no n.º 1 é feita sem prejuízo do direito dos actuais titulares de acções representativas de capital privado a serem indemnizados.
 
-###### Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital da Empresa Geral de Transportes, S. A. R. L., contra a entrega dos respectivos títulos, uma indemnização a definir, quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital da Empresa Geral de Transportes, S. A. R. L., contra a entrega dos respectivos títulos, uma indemnização a definir, quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
 
-###### Art. 3.º - 1. A empresa nacionalizada será reestruturada e regida basicamente por estatuto a definir por diploma dentro de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+Art. 3.º - 1. A empresa nacionalizada será reestruturada e regida basicamente por estatuto a definir por diploma dentro de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
 
 2. Até à promulgação do estatuto a que se refere o número anterior, a empresa será regida por uma comissão administrativa nomeada por resolução do Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações.
 
-###### Art. 4.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Empresa Geral de Transportes, S. A. R. L., ou que se encontrem afectos à respectiva exploração, são transferidos para o Estado, integrados no património autónomo da empresa resultante da nacionalização, ou a ele igualmente afectos.
+Art. 4.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Empresa Geral de Transportes, S. A. R. L., ou que se encontrem afectos à respectiva exploração, são transferidos para o Estado, integrados no património autónomo da empresa resultante da nacionalização, ou a ele igualmente afectos.
 
 2. O disposto no número anterior constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pela empresa e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
 
-###### Art. 5.º - 1. A empresa nacionalizada assumirá em relação a todos os actos praticados e contratos celebrados pela Empresa Geral de Transportes, S. A. R. L., a posição jurídica que esta detiver à data do início da eficácia da nacionalização.
+Art. 5.º - 1. A empresa nacionalizada assumirá em relação a todos os actos praticados e contratos celebrados pela Empresa Geral de Transportes, S. A. R. L., a posição jurídica que esta detiver à data do início da eficácia da nacionalização.
 
 2. A empresa nacionalizada assumirá igualmente a posição social que a Empresa Geral de Transportes detiver em sociedades em que seja sócia à data do início da eficácia da nacionalização.
 
-###### Art. 6.º O pessoal que, à data do início da eficácia da nacionalização, estiver ao serviço da Empresa Geral de Transportes, S. A. R. L., transitará automaticamente para a empresa nacionalizada.
+Art. 6.º O pessoal que, à data do início da eficácia da nacionalização, estiver ao serviço da Empresa Geral de Transportes, S. A. R. L., transitará automaticamente para a empresa nacionalizada.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor.
+Art. 7.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 5 de Junho de 1975.**
+Promulgado em 5 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

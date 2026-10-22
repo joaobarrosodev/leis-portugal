@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1971-643895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 646a2527d5c54be6d7c5338e913130ce2a27e4402314cbdd7982a6be9aad21a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89672c4c4f57643293623fb46610e355cbcb006516b11982136b24b48be85025
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Farmacêutico
+- Forças Armadas
+- Formas de Provimento
+- Médico
+- Ministério da Marinha
+- Ministro do Exército
+- Remuneração
+- Remuneração Acessória
+- Secretaria de Estado da Aeronáutica
+- Veterinário
+relationships:
+- type: cites
+  target: pt:dre:155471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:44Z'
   warnings: []
   errors: []
 ---
@@ -89,24 +103,24 @@ Tendo-se verificado a necessidade de modificar as disposições do [Decreto-Lei 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os médicos civis ao serviço das unidades e estabelecimentos militares dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica, como contratados, nos termos das disposições reguladoras de tal situação, terão direito à gratificação mensal que lhes for fixada em despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
+Artigo 1.º Os médicos civis ao serviço das unidades e estabelecimentos militares dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica, como contratados, nos termos das disposições reguladoras de tal situação, terão direito à gratificação mensal que lhes for fixada em despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
 
-###### Art. 2.º Para as unidades, estabelecimentos e guarnições militares cujo efectivo o justifica, poderão ser contratados médicos especialistas, mediante prévia proposta a apresentar pela entidade interessada e só depois de a mesma devidamente informada, ter sido aprovada pelos Ministros do Exército ou da Marinha ou pelo Secretário de Estado da Aeronáutica.
+Art. 2.º Para as unidades, estabelecimentos e guarnições militares cujo efectivo o justifica, poderão ser contratados médicos especialistas, mediante prévia proposta a apresentar pela entidade interessada e só depois de a mesma devidamente informada, ter sido aprovada pelos Ministros do Exército ou da Marinha ou pelo Secretário de Estado da Aeronáutica.
 
-###### Art. 3.º Na ausência justificada do médico militar ou civil contratado poderá recorrer-se a um médico civil da localidade, competindo-lhe por cada chamada a gratificação que for fixada anualmente em despacho do titular do departamento, tendo em atenção os honorários estabelecidos na localidade respectiva.
+Art. 3.º Na ausência justificada do médico militar ou civil contratado poderá recorrer-se a um médico civil da localidade, competindo-lhe por cada chamada a gratificação que for fixada anualmente em despacho do titular do departamento, tendo em atenção os honorários estabelecidos na localidade respectiva.
 
-###### Art. 4.º - 1. Os farmacêuticos e veterinários civis ao serviço das unidades ou estabelecimentos das forças armadas, como contratados nos termos das disposições reguladoras de tal situação, terão direito à gratificação mensal que for fixada em despacho conjunto dos Ministros da Defesa Nacional e das Finanças, qualquer que seja o número de unidades ou estabelecimentos da mesma localidade onde tiverem de prestar serviço e independentemente dos efectivos que lhes correspondam.
+Art. 4.º - 1. Os farmacêuticos e veterinários civis ao serviço das unidades ou estabelecimentos das forças armadas, como contratados nos termos das disposições reguladoras de tal situação, terão direito à gratificação mensal que for fixada em despacho conjunto dos Ministros da Defesa Nacional e das Finanças, qualquer que seja o número de unidades ou estabelecimentos da mesma localidade onde tiverem de prestar serviço e independentemente dos efectivos que lhes correspondam.
 
 2. Na ausência justificada do veterinário militar ou civil contratado poderá recorrer-se a um veterinário civil da localidade, competindo-lhe por cada chamada a gratificação que for fixada anualmente em despacho do titular do departamento, tendo em atenção os honorários estabelecidos na localidade respectiva.
 
-###### Art. 5.º As dúvidas e casos omissos que se apresentem na execução do presente diploma, bem como as modificações nos abonos referidos nos seus artigos 1.º e 4.º, serão resolvidos pelo Ministro da Defesa Nacional, com o acordo do Ministro das Finanças, ouvidos os titularas dos respectivos departamentos militares.
+Art. 5.º As dúvidas e casos omissos que se apresentem na execução do presente diploma, bem como as modificações nos abonos referidos nos seus artigos 1.º e 4.º, serão resolvidos pelo Ministro da Defesa Nacional, com o acordo do Ministro das Finanças, ouvidos os titularas dos respectivos departamentos militares.
 
-###### Art. 6.º (transitório). São mantidos, até rescisão dos respectivos contratos, os abonos desta natureza que estão sendo efectuados, desde que os seus quantitativos sejam superiores aos fixados nos despachos referidos nos artigos 1.º e 4.º deste diploma.
+Art. 6.º (transitório). São mantidos, até rescisão dos respectivos contratos, os abonos desta natureza que estão sendo efectuados, desde que os seus quantitativos sejam superiores aos fixados nos despachos referidos nos artigos 1.º e 4.º deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 19 de Maio de 1971.**
+Promulgado em 19 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

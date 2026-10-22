@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/10/25100/17541755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47284-1966-478642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ad52879be3bb5a5fff63ea4c7284d14eef9b8b2c375ff49e2d8cc39c610b3f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8cd79571fa656baec77a67b06da26f1599b0b355730c3c97ae203552d0673d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Incapacidade Física
+- Junta de Saúde do Ultramar
+- Junta Médica
+- Jurisdição
+- Justiça Militar
+- Ministro do Interior
+- PIDE
+- Quadro de Pessoal
+- Regime de Pessoal
+- Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:691070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:256474:por
+  label: "Aditados os §§ 1º a 9º ao art. 4º e substituído o quadro de pessoal constante do mapa anexo pelo DEC LEI.48794.26.12.1968.MI,\
+    \ DG.IS [303] de 26.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48794-1968-256474
+  date: '1968-12-26'
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:691070:por
+  label: "Revogado, a partir de 01.10.1972, pelo DEC LEI.368/72.30.09.1972.MI, DG.IS [229] de 30.09.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1972-691070
+  date: '1972-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:52Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +140,11 @@ Tornando-se também necessário ocupar algumas dependências da referida Políci
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal que à Polícia Internacional e de Defesa do Estado, nas províncias de Angola e Moçambique, é atribuído pelo mapa n.º 1 anexo ao [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, passa a ser o indicado no quadro anexo ao presente decreto-lei.
+Artigo 1.º O quadro do pessoal que à Polícia Internacional e de Defesa do Estado, nas províncias de Angola e Moçambique, é atribuído pelo mapa n.º 1 anexo ao [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, passa a ser o indicado no quadro anexo ao presente decreto-lei.
 
-###### Art. 2.º O disposto no artigo 52.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, é aplicável a todos os funcionários do quadro geral da Polícia Internacional e de Defesa do Estado.
+Art. 2.º O disposto no artigo 52.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, é aplicável a todos os funcionários do quadro geral da Polícia Internacional e de Defesa do Estado.
 
-###### Art. 3.º São tornados extensivos ao pessoal incluído na alínea a) do quadro único da Polícia Internacional e de Defesa do Estado, a que se refere o artigo 5.º do [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, o regime do [Decreto-Lei n.º 46103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46103-1964-553912), de 24 de Dezembro de 1964, e, quando em comissão de serviço obrigatório no ultramar, o disposto nas alíneas a) e b) do § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, ao pessoal do quadro único.
+Art. 3.º São tornados extensivos ao pessoal incluído na alínea a) do quadro único da Polícia Internacional e de Defesa do Estado, a que se refere o artigo 5.º do [Decreto-Lei n.º 45280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45280-1963-687196), de 30 de Setembro de 1963, o regime do [Decreto-Lei n.º 46103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46103-1964-553912), de 24 de Dezembro de 1964, e, quando em comissão de serviço obrigatório no ultramar, o disposto nas alíneas a) e b) do § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, ao pessoal do quadro único.
 
 § 1.º A apreciação da capacidade física do pessoal mutilado ou incapacitado, para os efeitos previstos no § 2.º do artigo 1.º do [Decreto-Lei n.º 46103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46103-1964-553912), de 24 de Dezembro de 1964, compete à junta nomeada pelo Ministro do Interior ou à Junta de Saúde do Ultramar, consoante os casos.
 
@@ -108,19 +154,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Gozam das regalias referidas na última parte deste artigo, a partir de 1 de Janeiro de 1961, todos os elementos do quadro do pessoal a que o mesmo se refere que prestaram serviço no ultramar, desde aquela data, em comissão obrigatória.
 
-###### Art. 4.º O pessoal referido no artigo 3.º deste diploma está sujeito à jurisdição dos tribunais militares, nos termos da alínea e) do artigo 365.º do Código de Justiça Militar, goza de garantia administrativa, nos termos previstos no artigo 412.º do Código Administrativo, e considera-se abrangido pelo disposto no n.º 1.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
+Art. 4.º O pessoal referido no artigo 3.º deste diploma está sujeito à jurisdição dos tribunais militares, nos termos da alínea e) do artigo 365.º do Código de Justiça Militar, goza de garantia administrativa, nos termos previstos no artigo 412.º do Código Administrativo, e considera-se abrangido pelo disposto no n.º 1.º do artigo 1.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
 
-###### Art. 5.º O artigo 3.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, passa a ter a seguinte redacção:
+Art. 5.º O artigo 3.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, passa a ter a seguinte redacção:
 
-###### Art. 3.º Em tudo o que não for expressamente regulado no presente decreto-lei ou em legislação especial, são extensivas à Polícia Internacional e de Defesa do Estado e ao respectivo pessoal, na parte aplicável, as disposições que regulam a organização e funcionamento da Polícia Judiciária, assim como as relativas ao regime de serviço, direitos e deveres dos respectivos funcionários.
+Art. 3.º Em tudo o que não for expressamente regulado no presente decreto-lei ou em legislação especial, são extensivas à Polícia Internacional e de Defesa do Estado e ao respectivo pessoal, na parte aplicável, as disposições que regulam a organização e funcionamento da Polícia Judiciária, assim como as relativas ao regime de serviço, direitos e deveres dos respectivos funcionários.
 
-###### Art. 6.º O preenchimento do aumento dos efectivos previstos neste decreto-lei efectuar-se-á gradualmente, consoante as disponibilidades orçamentais das províncias ultramarinas, condicionalismo aplicável também na metrópole, às unidades previstas, no que respeita ao subsídio de compensação fixado no n.º 3.º do artigo 76.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961.
+Art. 6.º O preenchimento do aumento dos efectivos previstos neste decreto-lei efectuar-se-á gradualmente, consoante as disponibilidades orçamentais das províncias ultramarinas, condicionalismo aplicável também na metrópole, às unidades previstas, no que respeita ao subsídio de compensação fixado no n.º 3.º do artigo 76.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961.
 
-###### Art. 7.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por portaria do Ministro do Interior ou dos Ministros do Interior e do Ultramar, conforme os casos.
+Art. 7.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por portaria do Ministro do Interior ou dos Ministros do Interior e do Ultramar, conforme os casos.
 
-###### Art. 8.º O presente decreto-lei entra imediatamente em vigor.
+Art. 8.º O presente decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -132,6 +178,6 @@ Categorias e vencimentos do pessoal da Polícia Internacional e de Defesa do Est
 
 Quadro único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/25100/17541755.pdf))](https://files.diariodarepublica.pt/1s/1966/10/25100/17541755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/25100/17541755.pdf)
 
 Ministérios do Interior e do Ultramar, 28 de Outubro de 1966. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

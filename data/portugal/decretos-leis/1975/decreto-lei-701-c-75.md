@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 290/1975, 3º Suplemento, Série I de 1975-12-17
   number: '290'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2064-(6) a 2064-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29003/00060007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-c-1975-166582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4422984da5aa107c719dc68e2341cb0668e883ac742971541b77e3bc39c4dd1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9e684dfa798f11a3379a4af2feb40a178c3c012f2c56d3ae3f04260f03a2020
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Criação de Serviços
+- Definição de Competências
+- Empresa Nacionalizada
+- Empresa Privada
+- Nacionalização
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407326:por
+  label: "Incorporada na Companhia Portuguesa de Transportes Marítimos - nacionalizada pelo Dec Lei 205-C/75 de 16-Abr DG.IS\
+    \ [89]Supl - a Sofamar, nacionalizada pelo presente diploma, e transferidos para aquela a universalidade dos respectivos\
+    \ bens, direitos e obrigações, assim o activo e o passivo, e respectivos trabalhadores, pelo DEC.809/76.08.11.1976.MTC,\
+    \ DR.IS [261] de 08.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/809-1976-407326
+  date: '1976-11-08'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:22Z'
   warnings: []
   errors: []
 ---
@@ -106,42 +126,42 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L, é pelo presente diploma declarada nacionalizada.
+Artigo 1.º - 1. A Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L, é pelo presente diploma declarada nacionalizada.
 
 2. Também pelo presente diploma é criada uma empresa pública do Estado denominada Sofamar, a qual, durante o período transitório a que se refere o artigo 3.º, visa realizar os fins consignados no pacto social da empresa, em vigor antes da nacionalização.
 
-###### Art. 2.º - 1. A Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., agora nacionalizada, considera-se dissolvida e liquidada, sem necessidade de qualquer outra formalidade.
+Art. 2.º - 1. A Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., agora nacionalizada, considera-se dissolvida e liquidada, sem necessidade de qualquer outra formalidade.
 
 2. O Estado pagará uma indemnização às entidades privadas titulares das acções da Sofamar, contra a entrega dos respectivos títulos.
 
 3. Em diploma legal, a publicar no prazo de cento e oitenta dias, será definido o montante, prazo e forma de pagamento da indemnização a que se refere o número anterior.
 
-###### Art. 3.º - 1. A empresa pública reger-se-á por um estatuto, que será publicado no prazo de cento e oitenta dias.
+Art. 3.º - 1. A empresa pública reger-se-á por um estatuto, que será publicado no prazo de cento e oitenta dias.
 
 2. Enquanto não for publicado o estatuto, a empresa será gerida por uma comissão administrativa a nomear por despacho do Primeiro-Ministro, sob proposta do Ministro dos Transportes e Comunicações.
 
 3. A comissão administrativa fica dotada de poderes idênticos aos que por lei são atribuídos aos administradores das sociedades anónimas, salvo quanto a actos de disposição, que, acima do limite a fixar por despacho, carecem de prévia aprovação do Ministro dos Transportes e Comunicações.
 
-###### Art. 4.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., ou que se encontram afectos à respectiva exploração, são transferidos para o Estado e integrados no património autónomo da empresa pública ou a ele igualmente afectos.
+Art. 4.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., ou que se encontram afectos à respectiva exploração, são transferidos para o Estado e integrados no património autónomo da empresa pública ou a ele igualmente afectos.
 
 2. O disposto no número anterior constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pela empresa e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
 
-###### Art. 5.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos praticados e contratos celebrados pela Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
+Art. 5.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos praticados e contratos celebrados pela Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
 
 2. A empresa pública assumirá igualmente a posição social que a Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., detiver em sociedades de que seja sócia à data do início da eficácia da nacionalização.
 
-###### Art. 6.º O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., transitará automaticamente para a empresa pública.
+Art. 6.º O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., transitará automaticamente para a empresa pública.
 
-###### Art. 7.º - 1. Enquanto não entrarem em vigor novos regulamentos e taxas, mantém-se o disposto nos diplomas legais e regulamentos internos vigentes, bem como as taxas actuais.
+Art. 7.º - 1. Enquanto não entrarem em vigor novos regulamentos e taxas, mantém-se o disposto nos diplomas legais e regulamentos internos vigentes, bem como as taxas actuais.
 
 2. Até entrar em vigor o regime a definir no estatuto a que se refere o n.º 1 do artigo 3.º do presente decreto-lei, mantém-se a vigência da legislação aplicável ao trabalho prestado na Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L, bem como as convenções de trabalho celebradas às quais têm estado vinculadas a sociedade e o seu pessoal, assumindo a empresa nacionalizada as posições que cabiam à Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L.
 
-###### Art. 8.º Este diploma entra em vigor na data da publicação.
+Art. 8.º Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 9 de Dezembro de 1975.**
+Promulgado em 9 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/198-1971-644527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d247be71277ae9ca18a554ca9f0cd038f1e5ab8ce59e0aedadb7662eae2d5968
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6810ea8816ffb932994a0fb529e7904aea76e205d401a4cede4b611af2c6e01c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:26Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +117,11 @@ Tendo-se chegado a acordo com ambas as empresas quanto às condições contratua
 
 Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição e usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Governo e em representação especial da província de Angola, com uma sociedade a constituir pela Companhia de Diamantes de Angola a pela De Beers Consolidated Mines, Ltd., sociedade constituída segundo as leis de República da África do Sul, com sede em Kimberley e escritório em Londres, no Holborn Viaduct n.º 40, que se denominará Consórcio Mineiro de Diamantes (Condiama), um contrato de concessão em conformidade com as bases contratuais anexas a este decreto, que dele fazem parte integrante e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Governo e em representação especial da província de Angola, com uma sociedade a constituir pela Companhia de Diamantes de Angola a pela De Beers Consolidated Mines, Ltd., sociedade constituída segundo as leis de República da África do Sul, com sede em Kimberley e escritório em Londres, no Holborn Viaduct n.º 40, que se denominará Consórcio Mineiro de Diamantes (Condiama), um contrato de concessão em conformidade com as bases contratuais anexas a este decreto, que dele fazem parte integrante e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º O contrato de concessão terá de ser assinado dentro de quarenta e cinco dias, contados a partir da data da constituição da sociedade.
+Art. 2.º O contrato de concessão terá de ser assinado dentro de quarenta e cinco dias, contados a partir da data da constituição da sociedade.
 
-###### Art. 3.º - 1. Posteriormente a 14 de Maio de 1971, enquanto não for assinado o contrato de concessão, poderão a Companhia de Diamantes de Angola e a De Beers Consolidated Mines, Ltd., continuar as pesquisas em regime de exclusivo, ao abrigo da convenção entre ambas assinada em 28 de Fevereiro de 1970, na área a que tal convenção respeita.
+Art. 3.º - 1. Posteriormente a 14 de Maio de 1971, enquanto não for assinado o contrato de concessão, poderão a Companhia de Diamantes de Angola e a De Beers Consolidated Mines, Ltd., continuar as pesquisas em regime de exclusivo, ao abrigo da convenção entre ambas assinada em 28 de Fevereiro de 1970, na área a que tal convenção respeita.
 
 2. Se o contrato não vier a ser assinado no prazo previsto no artigo 2.º, tais pesquisas não conferirão quaisquer direitos mineiros à sociedade ou às entidades referidas no número anterior, nem tão-pouco quaisquer direitos de prioridade ou de indemnização.
 
@@ -109,15 +129,15 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 4. As áreas que vierem a ser libertadas pela sociedade, nos termos da base XII anexa a este decreto, ou que, por qualquer outra forma, deixem de estar sujeitas aos termos contratuais, considerar-se-ão igualmente vedadas a pesquisas de diamantes, não podendo também qualquer pesquisador obter, nas mesmas, direitos mineiros relativos a diamantes, ao abrigo do artigo 62.º do Decreto de 20 de Setembro de 1906.
 
-###### Art. 4.º Este decreto entra imediatamente em vigor.
+Art. 4.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Abril de 1971.**
+Promulgado em 29 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
@@ -555,7 +575,7 @@ d) O custo dos trabalhos geológicos, de pesquisa e mineiros, necessários ao de
 
 e) A depreciação anual dos bens do activo imobilizado far-se-á nas seguintes percentagens máximas dos respectivos valores de aquisição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/11100/06820695.pdf))](https://files.diariodarepublica.pt/1s/1971/05/11100/06820695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/11100/06820695.pdf)
 
 f) A amortização do custo de concessão e pesquisa definido no n.º 1 desta base referente a áreas já demarcadas definitivamente ou a áreas abandonadas até essa data, à taxa de 15 por cento;
 
@@ -875,4 +895,4 @@ Caução
 
 4. No caso de a sociedade ter apresentado garantia bancária, será esta correspondentemente reduzida nas condições acima indicadas.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

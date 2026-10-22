@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1971-446902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9240c2f1c922cf795dd7410bb6469820e0dcc8138638e6cda832cf7de69cf046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a150df8bc2e1083028ff87437df31139e09afcd92baf324e5f782723df35f35b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contratação de Pessoal
+- Educação Física
+- Gestão de Recursos Humanos
+- Marinha
+- Ministério da Marinha
+- Pessoal Docente
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:627982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687620:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:59Z'
   warnings: []
   errors: []
 ---
@@ -89,30 +104,30 @@ Tornando-se necessário uniformizar o regime remunerativo e de serviço dos prof
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Quando não seja possível dispor de oficiais especializados para assegurar a conveniente preparação física do pessoal da Armada, pode o Ministério da Marinha contratar professores e treinadores civis.
+Artigo 1.º - 1. Quando não seja possível dispor de oficiais especializados para assegurar a conveniente preparação física do pessoal da Armada, pode o Ministério da Marinha contratar professores e treinadores civis.
 
 2. Os professores deverão ser diplomados com o respectivo curso do Instituto Nacional de Educação Física e os treinadores, nacionais ou estrangeiros, deverão ser, na sua especialidade, de reconhecida competência.
 
 3. Os contratos, a celebrar dentro das disponibilidades das verbas inscritas para o efeito, serão válidos até ao fim do ano económico em que forem celebrados, considerando-se tàcitamente prorrogados por anos económicos sucessivos.
 
-###### Art. 2.º - 1. Para efeito de vencimentos e de número de horas de instrução semanais a que são obrigados, os professores de Educação Física que não acumulem as suas funções com outras funções públicas estranhas à Armada são equiparados aos professores de Educação Física sem diuturnidade do Instituto Nacional de Educação Física.
+Art. 2.º - 1. Para efeito de vencimentos e de número de horas de instrução semanais a que são obrigados, os professores de Educação Física que não acumulem as suas funções com outras funções públicas estranhas à Armada são equiparados aos professores de Educação Física sem diuturnidade do Instituto Nacional de Educação Física.
 
 2. A remuneração dos treinadores é fixada por despacho do Ministro da Marinha, com o acordo do Ministro das Finanças, consoante a especialidade e o número de horas semanais de serviço.
 
 3. Aos professores de Educação Física que, cumulativamente, desempenhem outras funções públicas estranhas ao serviço da Armada é atribuída uma gratificação, de quantitativo a fixar em condições idênticas às referidas no número anterior.
 
-###### Art. 3.º O desempenho de horas extraordinárias de instrução pelos professores de que trata o n.º 1 do artigo anterior poderá ser retribuído, nos meses em que elas sejam necessárias, com uma gratificação mensal do quantitativo máximo de 1000$00, a fixar pelo Ministro da Marinha.
+Art. 3.º O desempenho de horas extraordinárias de instrução pelos professores de que trata o n.º 1 do artigo anterior poderá ser retribuído, nos meses em que elas sejam necessárias, com uma gratificação mensal do quantitativo máximo de 1000$00, a fixar pelo Ministro da Marinha.
 
-###### Art. 4.º Aos professores e treinadores de que trata este diploma é aplicável o disposto no artigo 8.º do [Decreto-Lei n.º 45304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45304-1963-687620), de 14 de Outubro de 1963.
+Art. 4.º Aos professores e treinadores de que trata este diploma é aplicável o disposto no artigo 8.º do [Decreto-Lei n.º 45304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45304-1963-687620), de 14 de Outubro de 1963.
 
-###### Art. 5.º É revogado o [Decreto-Lei n.º 45017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45017-1963-627982), de 9 de Maio de 1963.
+Art. 5.º É revogado o [Decreto-Lei n.º 45017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45017-1963-627982), de 9 de Maio de 1963.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 10 de Fevereiro de 1971.**
+Promulgado em 10 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 301/1970, 1º Suplemento, Série I de 1970-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2024-(3) a 2024-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30101/00030003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/677-1970-414432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a188ccf130345a8882e5504b6100300be094ed450b84a46441bb48bb509f147d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b747a723ecfa088be1a3eb0b45a34276a731fc69ffb8d1388f1cd876b9902a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arbitragem
+- Autarquia Local
+- Conselho de Ministros
+- Expropriação
+- Habitação
+- Indemnização
+- Pessoa Colectiva de Direito Público
+- Prédio Rústico
+- Prédio Urbano
+- Publicitação
+- Recurso
+- Regulamento
+- Transmissão da Propriedade
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:15Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +104,9 @@ de 31 de Dezembro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 2.º e 36.º do Regulamento das Expropriações, aprovado pelo [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º e 36.º do Regulamento das Expropriações, aprovado pelo [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. ...
 
@@ -98,7 +116,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 36.º - 1. ...
+Art. 36.º - 1. ...
 
 2. Haverá uma lista de peritos para cada distrito, a organizar trienalmente pelo Ministério da Justiça, através da Direcção-Geral da Justiça, dependendo a inclusão naquela de:
 
@@ -116,8 +134,8 @@ c) Aprovação por júri constituído mediante despacho conjunto dos Ministros d
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 21 de Dezembro de 1970.**
+Promulgado em 21 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

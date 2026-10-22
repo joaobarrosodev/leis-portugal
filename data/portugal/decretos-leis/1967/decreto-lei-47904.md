@@ -48,40 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47904-1967-390438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35791e64e94d737789cb94e84685ae5eae1e2bebc3306eeb2b1da580a5a45dcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 214a7e005afa4d62453f2c8b8dedc2954e98d4e48cb39185443d16fb695825eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Companhia de Diamantes de Angola
+- Contrato
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:233510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233510:por
+  label: "Alterada a base III anexa ao presente diploma, pelo DEC LEI.48219.24.01.1968.MU, DG.IS [20] de 24.01.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48219-1968-233510
+  date: '1968-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:19Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +99,13 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato de empréstimos na conformidade das bases anexas a este decreto-lei, que dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o referido contrato.
+Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato de empréstimos na conformidade das bases anexas a este decreto-lei, que dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o referido contrato.
 
-###### Art. 2.º Ficam isentos de quaisquer impostos e contribuições o contrato e os rendimentos relativos ao empréstimo a que respeita o artigo 1.º
+Art. 2.º Ficam isentos de quaisquer impostos e contribuições o contrato e os rendimentos relativos ao empréstimo a que respeita o artigo 1.º
 
-###### Art. 3.º Este decreto entra imediatamente em vigor.
+Art. 3.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

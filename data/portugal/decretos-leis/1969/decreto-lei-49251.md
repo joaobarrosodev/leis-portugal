@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49251-1969-214525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d2f8b35b02ccc691dfbd35f22ebcb253d502af4fe1d220fc33e5a81459cce24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b966ae81cd4c6585ee1a8f5aabbc0b0bfe5a12fb0fc01ae3177b5759c541aa7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- CTT
+- Formas de Provimento
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:239273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414196:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:50Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +105,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 17.º e 18.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947, alterados pelo [Decreto-Lei n.º 47488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47488-1967-239273), de 9 de Janeiro de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 17.º e 18.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947, alterados pelo [Decreto-Lei n.º 47488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47488-1967-239273), de 9 de Janeiro de 1967, passam a ter a seguinte redacção:
 
-###### Art. 9.º A admissão de funcionários para os quadro do pessoal dos CTT far-se-á sempre a título provisório. Salvo os casos especiais previstos neste decreto-lei, a entrada para os grupos dos quadros far-se-á mediante concurso pela última classe ou categoria dos mesmos grupos ou pela categoria de reserva, para os grupos que a possuem.
+Art. 9.º A admissão de funcionários para os quadro do pessoal dos CTT far-se-á sempre a título provisório. Salvo os casos especiais previstos neste decreto-lei, a entrada para os grupos dos quadros far-se-á mediante concurso pela última classe ou categoria dos mesmos grupos ou pela categoria de reserva, para os grupos que a possuem.
 
 § único. Salvo para as categorias de monitor, não é exigível concurso na admissão ou promoção nos grupos 27, 27-A e 28 a 35 e para a reserva dos grupos 27 e 29.
 
 ...
 
-###### Art. 17.º Os funcionários do quadro do pessoal de reserva que possuam, pelo menos, um ano de bom e efectivo serviço serão integrados, nos termos dos parágrafos do presente artigo, nas categorias ou classes de entrada dos grupos correlativos, para preencherem as vagas que forem ocorrendo nas respectivas dotações.
+Art. 17.º Os funcionários do quadro do pessoal de reserva que possuam, pelo menos, um ano de bom e efectivo serviço serão integrados, nos termos dos parágrafos do presente artigo, nas categorias ou classes de entrada dos grupos correlativos, para preencherem as vagas que forem ocorrendo nas respectivas dotações.
 
 § 1.º A integração dos funcionários que tenham sido admitidos por concurso no quadro do pessoal de reserva será feita, sem dependência de novo concurso, alternadamente por ordem de antiguidade (fixada pela última lista geral homologada) e por ordem de classificação final obtida no concurso de admissão ao referido quadro.
 
@@ -111,7 +125,7 @@ Todavia, a integração por classificação suspender-se-á sempre que haja rese
 
 A admissão para a reserva deste grupo será efectuada pela ordem de valorização obtida pelos indivíduos aprovados no citado exame e, em igualdade de condições, por ordem de preferência estabelecida no Regulamento de Admissão e Promoção do Pessoal dos CTT.
 
-###### Art. 18.º São providos por escolha os seguintes lugares:
+Art. 18.º São providos por escolha os seguintes lugares:
 
 a) Correio-mor (administrador-geral) - em indivíduo de reconhecida competência, diplomado com curso superior;
 
@@ -165,7 +179,7 @@ y) Fiscais de transportes mecânicos de 2.ª classe em motoristas de 1.ª classe
 
 z) Guarda-fios principais - em guarda-fios de 1.ª classe do grupo 30.
 
-###### Art. 2.º - 1. Enquanto não caducar o prazo de validade de concursos já efectuados para os grupos referidos no artigo anterior, continuam as admissões e promoções a processar-se de acordo com as correspondentes listas de classificações.
+Art. 2.º - 1. Enquanto não caducar o prazo de validade de concursos já efectuados para os grupos referidos no artigo anterior, continuam as admissões e promoções a processar-se de acordo com as correspondentes listas de classificações.
 
 2. Havendo listas de classificações que já tenham caducado, mas cujos concorrentes poderiam vir a beneficiar do disposto na alínea i) do artigo 16.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947, alterado pelo [Decreto-Lei n.º 47488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47488-1967-239273), de 9 de Janeiro de 1967, serão os mesmos promovidos nos termos daquela alínea à razão de um para cada dois promovidos por antiguidade, durante o prazo de três anos, contados da data da publicação deste decreto-lei.
 
@@ -173,8 +187,8 @@ z) Guarda-fios principais - em guarda-fios de 1.ª classe do grupo 30.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 5 de Setembro de 1969.**
+Promulgado em 5 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

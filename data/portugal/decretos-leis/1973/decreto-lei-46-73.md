@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4834bf538a6c94fccc355d7f27f940792b0ae1699e684dc9de2d22c7ae50312f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fca8a6d6d4e536b4fd5822ae809e8a0342bc688076a1cc5343dc1dd0004e55bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Equipamento Escolar
+- Comissão de Reapetrechamento em Material das Escolas Superiores e Secundárias
+- Definição de Competências
+- Direção Geral da Administração Escolar
+- Direcção Geral do Ensino Liceal
+- Direcção Geral do Ensino Primário
+- Extinção de Serviços
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:328663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:404482:por
+  label: "Revogado pelo DEC LEI.552/77.31.12.1977.MEIC, DR.IS [302]2ºSupl de 31.12.1977, excepto no que se refere a funções,\
+    \ que, por força do Decreto-Lei n.º 489/75, de 5 de Setembro, passaram a ser desempenhadas pela Direcção-Geral do Equipamento\
+    \ Escolar\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/552-1977-404482
+  date: '1977-12-31'
+- type: repealed_by
+  target: pt:dre:328663:por
+  label: "Revogado, na parte ainda não revogada pelo Decreto-Lei n.º 552/77, de 31 de Dezembro, pelo DEC LEI.303/78.12.10.1978.MEC,\
+    \ DR.IS [235] de 12.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1978-328663
+  date: '1978-10-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:16Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +159,9 @@ I
 
 Das atribuições e competência
 
-###### Artigo 1.º A Direcção-Geral da Administração Escolar, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é um dos serviços executivos no sector do ensino, ao qual incumbe efectuar a gestão do pessoal e das instalações e equipamento afectos aos diversos estabelecimentos públicos de ensino, bem como exercer a superintendência administrativa e financeira sobre os mesmos estabelecimentos, sem prejuízo da autonomia concedida às Universidades.
+Artigo 1.º A Direcção-Geral da Administração Escolar, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é um dos serviços executivos no sector do ensino, ao qual incumbe efectuar a gestão do pessoal e das instalações e equipamento afectos aos diversos estabelecimentos públicos de ensino, bem como exercer a superintendência administrativa e financeira sobre os mesmos estabelecimentos, sem prejuízo da autonomia concedida às Universidades.
 
-###### Art. 2.º - 1. No desempenho da sua missão e no âmbito do sector das actividades em que superintende, é da competência da Direcção-Geral:
+Art. 2.º - 1. No desempenho da sua missão e no âmbito do sector das actividades em que superintende, é da competência da Direcção-Geral:
 
 a) Em matéria de pessoal, organizar e manter actualizado o cadastro de todo o pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino público, dependentes do Ministério da Educação Nacional, e bem assim proceder à preparação e execução das operações administrativas respeitantes ao recrutamento, provimento, colocação e outros aspectos relativos à situação, actualização e remuneração do mesmo pessoal, sem prejuízo da competência própria das direcções-gerais e serviços dependentes;
 
@@ -122,7 +173,7 @@ c) Em matéria administrativa e financeira, superintender na preparação e exec
 
 3. A competência referida na alínea a) não abrange os estabelecimentos de ensino superior não universitário e a referida nas alíneas b) e c), relativamente aos mesmos estabelecimentos, será exercida em coordenação com a Direcção-Geral do Ensino Superior.
 
-###### Art. 3.º - 1. Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral da Administração Escolar:
+Art. 3.º - 1. Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral da Administração Escolar:
 
 a) Empreender, em colaboração com os serviços centrais do Ministério e outros organismos, públicos ou privados, estudos que interessem ao desempenho das suas atribuições;
 
@@ -132,15 +183,15 @@ c) Articular, com a Inspecção-Geral do Ensino Particular, as formas de coorden
 
 2. A Direcção-Geral da Administração Escolar exercerá as suas funções em íntima colaboração com as direcções-gerais de ensino.
 
-###### Art. 4.º A Direcção-Geral da Administração Escolar deverá, por si, ou em colaboração com outros órgãos e serviços do Ministério da Educação Nacional, ou outras entidades públicas ou privadas, recorrer às modernas técnicas de gestão, nomeadamente nos domínios do pessoal, das instalações, do apetrechamento e da administração financeira.
+Art. 4.º A Direcção-Geral da Administração Escolar deverá, por si, ou em colaboração com outros órgãos e serviços do Ministério da Educação Nacional, ou outras entidades públicas ou privadas, recorrer às modernas técnicas de gestão, nomeadamente nos domínios do pessoal, das instalações, do apetrechamento e da administração financeira.
 
-###### Art. 5.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
+Art. 5.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
 
 2. O director-geral poderá receber do Ministro da Educação Nacional delegação de competência para despachar assuntos relativos às funções de administração geral que pertençam à Direcção-Geral da Administração Escolar.
 
 3. Para efeitos do disposto no número anterior, consideram-se funções de administração geral as que respeitam à gestão do pessoal, dos meios materiais, dos recursos orçamentais e outras, relativas aos estabelecimentos de ensino e que constituam simples meio de permitir o exercício das suas atribuições específicas.
 
-###### Art. 6.º O director-geral é coadjuvado pelos directores de serviços, competindo-lhe designar aquele que o deverá substituir nas suas faltas e impedimentos.
+Art. 6.º O director-geral é coadjuvado pelos directores de serviços, competindo-lhe designar aquele que o deverá substituir nas suas faltas e impedimentos.
 
 II
 
@@ -148,7 +199,7 @@ Dos órgãos e serviços
 
 #### SECÇÃO I — Dos serviços em geral
 
-###### Art. 7.º - 1. A Direcção-Geral da Administração Escolar compreende os seguintes serviços:
+Art. 7.º - 1. A Direcção-Geral da Administração Escolar compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Programação e Instalações;
 
@@ -164,7 +215,7 @@ d) Repartição Administrativa.
 
 #### SECÇÃO II — Da Direcção de Serviços de Programação e Instalações
 
-###### Art. 8.º - 1. Compete à Direcção de Serviços de Programação e Instalações proceder ao estudo, programação, preparação e execução das operações atinentes à satisfação das necessidades em instalações e apetrechamento dos estabelecimentos públicos de ensino, dependentes do Ministério da Educação Nacional, sem prejuízo da competência da Comissão de Equipamento Escolar e da Comissão da Rede Escolar.
+Art. 8.º - 1. Compete à Direcção de Serviços de Programação e Instalações proceder ao estudo, programação, preparação e execução das operações atinentes à satisfação das necessidades em instalações e apetrechamento dos estabelecimentos públicos de ensino, dependentes do Ministério da Educação Nacional, sem prejuízo da competência da Comissão de Equipamento Escolar e da Comissão da Rede Escolar.
 
 2. A Direcção de Serviços de Programação e Instalações compreende:
 
@@ -174,7 +225,7 @@ b) A Divisão de Programação;
 
 c) O Gabinete Técnico.
 
-###### Art. 9.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Estudos:
+Art. 9.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Estudos:
 
 a) Estudar e propor soluções para os problemas das instalações escolares nos aspectos pedagógico, económico, administrativo e técnico, tendo em vista a rendibilidade do ensino e o melhor aproveitamento dos recursos;
 
@@ -196,7 +247,7 @@ i) Estudar critérios e soluções visando a adaptação de instalações para o
 
 j) Participar em experiências pedagógicas no que se refere à concepção e utilização dos espaços, do mobiliário e do material didáctico.
 
-###### Art. 10.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Programação:
+Art. 10.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Programação:
 
 a) Promover, em colaboração com a Secretaria-Geral, a obtenção de elementos estatísticos referentes a alunos, equipamento e instalações;
 
@@ -214,7 +265,7 @@ g) Garantir a coordenação da intervenção dos diferentes departamentos e serv
 
 h) Coordenar a intervenção do Ministério da Educação Nacional na apreciação de estudos e projectos urbanísticos, nomeadamente os submetidos ao Ministério da Obras Públicas.
 
-###### Art. 11.º - 1. Cabe à Direcção de Programação e Instalações, pelo Gabinete Técnico:
+Art. 11.º - 1. Cabe à Direcção de Programação e Instalações, pelo Gabinete Técnico:
 
 a) Promover e realizar, nos domínios da arquitectura e engenharia, estudos técnicos e económicos necessários à preparação e realização dos programas relativos à rede escolar;
 
@@ -232,13 +283,13 @@ d) Prestar o apoio técnico, em matéria de construções e equipamento, aos ser
 
 #### SECÇÃO III — Da Direcção de Serviços de Pessoal
 
-###### Art. 12.º - 1. Compete à Direcção de Serviços de Pessoal assegurar e coordenar as funções que, em matéria de política, gestão e administração de pessoal, competem à Direcção-Geral, nos termos dos artigos 1.º e 2.º do presente diploma.
+Art. 12.º - 1. Compete à Direcção de Serviços de Pessoal assegurar e coordenar as funções que, em matéria de política, gestão e administração de pessoal, competem à Direcção-Geral, nos termos dos artigos 1.º e 2.º do presente diploma.
 
 2. Compete à Direcção-Geral da Administração Escolar, através desta Direcção de Serviços, o exercício da acção disciplinar sobre o pessoal técnico, administrativo e auxiliar dos estabelecimentos públicos de ensino.
 
 3. A Direcção de Serviços de Pessoal compreende uma divisão e três repartições.
 
-###### Art. 13.º Compete a esta Direcção de Serviços, pela Divisão de Pessoal:
+Art. 13.º Compete a esta Direcção de Serviços, pela Divisão de Pessoal:
 
 a) Realizar, em colaboração com os serviços das direcções-gerais de ensino e outros departamentos do Ministério da Educação Nacional, os estudos relativos aos regimes de pessoal em vigor e das alterações que for conveniente introduzir-lhes;
 
@@ -246,7 +297,7 @@ b) Promover acções de formação e aperfeiçoamento em técnicas de administra
 
 c) Colaborar no estudo e resolução dos problemas de relações humanas que se suscitem nos estabelecimentos de ensino.
 
-###### Art. 14.º - 1. Às repartições da Direcção de Serviços de Pessoal incumbe ocuparem-se do cadastro, recrutamento, provimento, colocação, transferência, exoneração e quaisquer outros assuntos relativos à administração do pessoal dos estabelecimentos públicos de ensino.
+Art. 14.º - 1. Às repartições da Direcção de Serviços de Pessoal incumbe ocuparem-se do cadastro, recrutamento, provimento, colocação, transferência, exoneração e quaisquer outros assuntos relativos à administração do pessoal dos estabelecimentos públicos de ensino.
 
 2. À 1.ª Repartição cabem as tarefas relativas ao pessoal docente do ensino primário e da educação pré-escolar.
 
@@ -256,9 +307,9 @@ c) Colaborar no estudo e resolução dos problemas de relações humanas que se 
 
 #### SECÇÃO IV — Da Divisão de Administração e Finanças
 
-###### Art. 15.º Compete à Divisão de Administração e Finanças superintender na preparação e execução das actividades de natureza administrativa e financeira respeitantes aos diversos estabelecimentos de ensino dependentes do Ministério da Educação Nacional, prestando-lhes o necessário apoio técnico e sem prejuízo do disposto nos n.os 2 e 3 do artigo 2.º
+Art. 15.º Compete à Divisão de Administração e Finanças superintender na preparação e execução das actividades de natureza administrativa e financeira respeitantes aos diversos estabelecimentos de ensino dependentes do Ministério da Educação Nacional, prestando-lhes o necessário apoio técnico e sem prejuízo do disposto nos n.os 2 e 3 do artigo 2.º
 
-###### Art. 16.º - 1. Compete especialmente a esta Divisão:
+Art. 16.º - 1. Compete especialmente a esta Divisão:
 
 a) Colaborar na avaliação sistemática dos recursos financeiros necessários à execução das medidas determinadas pelo Ministro da Educação Nacional;
 
@@ -270,7 +321,7 @@ c) Orientar e coordenar os processos de administração dos estabelecimentos pú
 
 #### SECÇÃO V — Da Repartição Administrativa
 
-###### Art. 17.º À Repartição Administrativa compete:
+Art. 17.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral, contabilidade, economato e de administração do pessoal da Direcção-Geral, sem prejuízo da competência da Secretaria-Geral;
 
@@ -280,11 +331,11 @@ III
 
 Da Comissão de Equipamento Escolar
 
-###### Art. 18.º - 1. À Comissão de Equipamento Escolar incumbe tratar dos assuntos relacionados com o apetrechamento inicial e reapetrechamento dos estabelecimentos públicos de ensino dependentes do Ministério da Educação Nacional, excepto os do ensino universitário.
+Art. 18.º - 1. À Comissão de Equipamento Escolar incumbe tratar dos assuntos relacionados com o apetrechamento inicial e reapetrechamento dos estabelecimentos públicos de ensino dependentes do Ministério da Educação Nacional, excepto os do ensino universitário.
 
 2. A Comissão de Equipamento Escolar goza de autonomia administrativa e financeira.
 
-###### Art. 19.º Na prossecução das finalidades definidas no artigo anterior, compete especialmente à Comissão de Equipamento Escolar:
+Art. 19.º Na prossecução das finalidades definidas no artigo anterior, compete especialmente à Comissão de Equipamento Escolar:
 
 a) Promover a aquisição, recepção, distribuição e transferência do apetrechamento destinado aos estabelecimentos de ensino, de harmonia com os programas plurianuais ou anuais superiormente aprovados;
 
@@ -298,7 +349,7 @@ e) Definir as normas de manutenção e conservação do apetrechamento dos estab
 
 f) Colaborar com a Direcção de Serviços de Programação e Instalações na organização e actualização do cadastro do apetrechamento dos estabelecimentos públicos de ensino.
 
-###### Art. 20.º Constituem receitas próprias da Comissão de Equipamento Escolar:
+Art. 20.º Constituem receitas próprias da Comissão de Equipamento Escolar:
 
 a) As dotações inscritas no Orçamento Geral do Estado;
 
@@ -312,23 +363,23 @@ e) As provenientes da venda de material considerado incapaz ou dispensável;
 
 f) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
 
-###### Art. 21.º Constituem encargos da Comissão de Equipamento Escolar:
+Art. 21.º Constituem encargos da Comissão de Equipamento Escolar:
 
 a) As despesas respeitantes à aquisição, instalação e transferência do apetrechamento destinado aos estabelecimentos públicos de ensino dependentes do Ministério;
 
 b) As despesas relativas ao seu funcionamento.
 
-###### Art. 22.º A Comissão de Equipamento Escolar tem os seguintes órgãos:
+Art. 22.º A Comissão de Equipamento Escolar tem os seguintes órgãos:
 
 a) Conselho Administrativo;
 
 b) Conselho Técnico.
 
-###### Art. 23.º - 1. O Conselho Administrativo é constituído pelo director-geral da Administração Escolar, que preside, e por cinco vogais designados pelo Ministro da Educação Nacional, um dos quais será um representante da Direcção-Geral da Contabilidade Pública.
+Art. 23.º - 1. O Conselho Administrativo é constituído pelo director-geral da Administração Escolar, que preside, e por cinco vogais designados pelo Ministro da Educação Nacional, um dos quais será um representante da Direcção-Geral da Contabilidade Pública.
 
 2. Os vogais do Conselho Administrativo exercerão as suas funções por períodos de três anos, renováveis, sem prejuízo de, a todo o tempo, poderem ser substituídos.
 
-###### Art. 24.º Compete em especial ao Conselho Administrativo:
+Art. 24.º Compete em especial ao Conselho Administrativo:
 
 a) Elaborar o programa de trabalhos para o ano seguinte, de harmonia com o plano plurianual em vigor, e executá-lo depois de superiormente aprovado;
 
@@ -346,7 +397,7 @@ g) Deliberar, ouvida a Direcção-Geral da Fazenda Pública, sobre a alienação
 
 h) Aprovar as contas de gerência para julgamento do Tribunal de Contas.
 
-###### Art. 25.º - 1. O Conselho Técnico é constituído por um presidente e sete vogais.
+Art. 25.º - 1. O Conselho Técnico é constituído por um presidente e sete vogais.
 
 2. O presidente será um dos directores-gerais dos serviços centrais do Ministério da Educação Nacional, designado pelo Ministro, e desempenhará estas funções por períodos de três anos renováveis.
 
@@ -354,13 +405,13 @@ h) Aprovar as contas de gerência para julgamento do Tribunal de Contas.
 
 4. O director-geral da Administração Escolar fará obrigatòriamente parte do Conselho Técnico.
 
-###### Art. 26.º Compete ao Conselho Técnico formular propostas ou pronunciar-se e emitir parecer sobre todas as questões que sejam submetidas à sua apreciação, e designadamente:
+Art. 26.º Compete ao Conselho Técnico formular propostas ou pronunciar-se e emitir parecer sobre todas as questões que sejam submetidas à sua apreciação, e designadamente:
 
 a) Os estudos relacionados com a preparação e execução dos planos e programas de equipamento dos estabelecimentos de ensino nos domínios da competência da Comissão de Equipamento Escolar;
 
 b) Outros estudos e projectos desenvolvidos pela Direcção-Geral da Administração Escolar.
 
-###### Art. 27.º - 1. O Conselho Administrativo e o Conselho Técnico deliberam por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
+Art. 27.º - 1. O Conselho Administrativo e o Conselho Técnico deliberam por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
 2. Para que o Conselho Administrativo possa deliberar, é necessária a presença da maioria dos seus membros.
 
@@ -368,25 +419,25 @@ b) Outros estudos e projectos desenvolvidos pela Direcção-Geral da Administra�
 
 4. O secretariado das reuniões do Conselho Administrativo e do Conselho Técnico será confiado a funcionários a designar pelo presidente do Conselho Administrativo de entre o pessoal que preste serviço na Comissão.
 
-###### Art. 28.º - 1. Todos os fundos postos à disposição da Comissão de Equipamento Escolar, qualquer que seja a sua proveniência, serão depositados na Caixa Geral de Depósitos, Crédito de Previdência.
+Art. 28.º - 1. Todos os fundos postos à disposição da Comissão de Equipamento Escolar, qualquer que seja a sua proveniência, serão depositados na Caixa Geral de Depósitos, Crédito de Previdência.
 
 2. Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão obrigatòriamente assinados pelo presidente do Conselho Administrativo, ou por quem suas vezes fizer, e por um vogal do mesmo Conselho.
 
-###### Art. 29.º Poderão ser constituídos fundos permanentes, em termos a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, sobre proposta do Conselho Administrativo.
+Art. 29.º Poderão ser constituídos fundos permanentes, em termos a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, sobre proposta do Conselho Administrativo.
 
-###### Art. 30.º A movimentação dos depósitos da Comissão de Equipamento Escolar está isenta de imposto do selo e de prémio de transferência.
+Art. 30.º A movimentação dos depósitos da Comissão de Equipamento Escolar está isenta de imposto do selo e de prémio de transferência.
 
-###### Art. 31.º Aos membros do Conselho Administrativo e do Conselho Técnico serão abonadas gratificações mensais, a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, mantendo-se, entretanto, as remunerações em vigor para os membros da Comissão de Reapetrechamento em Material das Escolas Superiores e Secundárias e do respectivo Conselho Administrativo.
+Art. 31.º Aos membros do Conselho Administrativo e do Conselho Técnico serão abonadas gratificações mensais, a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, mantendo-se, entretanto, as remunerações em vigor para os membros da Comissão de Reapetrechamento em Material das Escolas Superiores e Secundárias e do respectivo Conselho Administrativo.
 
-###### Art. 32.º O serviço normal da Comissão é assegurado por pessoal dos quadros únicos do Ministério da Educação Nacional, designado pelo Ministro.
+Art. 32.º O serviço normal da Comissão é assegurado por pessoal dos quadros únicos do Ministério da Educação Nacional, designado pelo Ministro.
 
-###### Art. 33.º - 1. As necessidades de serviço de natureza técnica ou administrativa que não possam ser asseguradas pelo pessoal referido no número anterior serão satisfeitas por pessoal a contratar ou a assalariar, além do quadro, mediante autorização do Ministro da Educação Nacional.
+Art. 33.º - 1. As necessidades de serviço de natureza técnica ou administrativa que não possam ser asseguradas pelo pessoal referido no número anterior serão satisfeitas por pessoal a contratar ou a assalariar, além do quadro, mediante autorização do Ministro da Educação Nacional.
 
 2. O pessoal referido no número anterior pode ser autorizado a exercer funções em regime de tempo parcial, percebendo gratificações a fixar nos termos do disposto no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 34.º Aos membros do Conselho Administrativo e do Conselho Técnico, bem como ao restante pessoal da Comissão e a todos os que nela forem chamados a colaborar, serão abonadas ajudas de custo e despesas de transporte quando tiverem de deslocar-se no desempenho das suas funções.
+Art. 34.º Aos membros do Conselho Administrativo e do Conselho Técnico, bem como ao restante pessoal da Comissão e a todos os que nela forem chamados a colaborar, serão abonadas ajudas de custo e despesas de transporte quando tiverem de deslocar-se no desempenho das suas funções.
 
-###### Art. 35.º - 1. O tesoureiro terá direito a abono para falhas.
+Art. 35.º - 1. O tesoureiro terá direito a abono para falhas.
 
 2. O abono referido no número anterior será de montante igual ao atribuído ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de vencimentos, e, nos restantes casos, será fixado por despacho conjunto dos Ministros das Finanças e da Educação Nacional.
 
@@ -394,7 +445,7 @@ IV
 
 Do pessoal
 
-###### Art. 36.º - 1. A Direcção-Geral tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 36.º - 1. A Direcção-Geral tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2. Disporá ainda do pessoal administrativo, técnico auxiliar e auxiliar constante do mapa II anexo ao presente decreto-lei, o qual será acrescentado ao quadro único do Ministério da Educação Nacional a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
@@ -402,7 +453,7 @@ Do pessoal
 
 4. O pessoal da Direcção-Geral será distribuído pelos respectivos serviços mediante despacho do director-geral.
 
-###### Art. 37.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral serão estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 37.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral serão estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior adequado e de reconhecida competência, ou de entre inspectores-gerais da Junta Nacional da Educação;
 
@@ -420,66 +471,66 @@ g) Os lugares de fiscal de obras e de fiel de armazém serão providos por concu
 
 2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.
 
-###### Art. 38.º - 1. O pessoal dirigente, técnico, técnico auxiliar e administrativo poderá ser autorizado, mediante despacho do Ministro da Educação Nacional, a proceder a inspecções e inquéritos nos estabelecimentos públicos de ensino dependentes da Direcção-Geral da Administração Escolar, nos domínios relativos às instalações, ao equipamento e à administração daqueles estabelecimentos.
+Art. 38.º - 1. O pessoal dirigente, técnico, técnico auxiliar e administrativo poderá ser autorizado, mediante despacho do Ministro da Educação Nacional, a proceder a inspecções e inquéritos nos estabelecimentos públicos de ensino dependentes da Direcção-Geral da Administração Escolar, nos domínios relativos às instalações, ao equipamento e à administração daqueles estabelecimentos.
 
 2. O pessoal referido no número anterior terá direito a transportes e ajudas de custo, nos termos da legislação em vigor.
 
-###### Art. 39.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico, técnico auxiliar, administrativo ou auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 39.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico, técnico auxiliar, administrativo ou auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 40.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos estabelecidos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 40.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos estabelecidos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 V
 
 Disposições finais e transitórias
 
-###### Art. 41.º No prazo de cento e oitenta dias será aprovado, por decreto, o regulamento da Direcção-Geral da Administração Escolar.
+Art. 41.º No prazo de cento e oitenta dias será aprovado, por decreto, o regulamento da Direcção-Geral da Administração Escolar.
 
-###### Art. 42.º O Ministro da Educação Nacional pode atribuir dotações ou subsídios a entidades públicas ou privadas destinados à aquisição, construção, arrendamento, remodelação, beneficiação ou apetrechamento de instalações destinadas a fins educacionais.
+Art. 42.º O Ministro da Educação Nacional pode atribuir dotações ou subsídios a entidades públicas ou privadas destinados à aquisição, construção, arrendamento, remodelação, beneficiação ou apetrechamento de instalações destinadas a fins educacionais.
 
-###### Art. 43.º É extinta a Comissão de Reapetrechamento - em Material das Escolas Superiores e Secundárias, criada pelo [Decreto-Lei n.º 41114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41114-1957-282571), de 16 de Maio de 1957, e reorganizada pelo [Decreto-Lei n.º 49043](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49043-1969-200385), de 6 de Junho de 1969, bem como o respectivo conselho administrativo, transitando todos os seus direitos e obrigações para a Comissão de Equipamento Escolar.
+Art. 43.º É extinta a Comissão de Reapetrechamento - em Material das Escolas Superiores e Secundárias, criada pelo [Decreto-Lei n.º 41114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41114-1957-282571), de 16 de Maio de 1957, e reorganizada pelo [Decreto-Lei n.º 49043](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49043-1969-200385), de 6 de Junho de 1969, bem como o respectivo conselho administrativo, transitando todos os seus direitos e obrigações para a Comissão de Equipamento Escolar.
 
-###### Art. 44.º - 1. É transferida para a Direcção-Geral da Administração Escolar a competência que, nos domínios mencionados no presente diploma, estava atribuída às Direcções-Gerais do Ensino Primário, Liceal e Técnico Profissional e à Direcção de Serviços do Ciclo Preparatório do Ensino Secundário.
+Art. 44.º - 1. É transferida para a Direcção-Geral da Administração Escolar a competência que, nos domínios mencionados no presente diploma, estava atribuída às Direcções-Gerais do Ensino Primário, Liceal e Técnico Profissional e à Direcção de Serviços do Ciclo Preparatório do Ensino Secundário.
 
 2. O Ministro da Educação Nacional determinará, por despacho, as fases, regras e princípios a que deve obedecer a transferência a que alude o número anterior.
 
-###### Art. 45.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral da Administração Escolar será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, nos termos estabelecidos no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se, no provimento do lugar de director-geral, o disposto no n.º 2 do artigo 37.º
+Art. 45.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral da Administração Escolar será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, nos termos estabelecidos no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se, no provimento do lugar de director-geral, o disposto no n.º 2 do artigo 37.º
 
 2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
 
 3. O pessoal que actualmente presta serviço nas condições referidas no número anterior, que não for possível prover nos termos previstos no mesmo, transita para a Direcção-Geral da Administração Escolar na situação em que se encontrar à data da publicação deste decreto-lei.
 
-###### Art. 46.º - 1. Enquanto não for atribuída autonomia financeira às Universidades, os processos de aquisição de apetrechamento para os estabelecimentos de ensino universitários serão organizados na Comissão de Equipamento Escolar.
+Art. 46.º - 1. Enquanto não for atribuída autonomia financeira às Universidades, os processos de aquisição de apetrechamento para os estabelecimentos de ensino universitários serão organizados na Comissão de Equipamento Escolar.
 
 2. Os processos de aquisição referidos no número anterior serão organizados de acordo com os programas aprovados pela Direcção-Geral do Ensino Superior.
 
 3. Os estabelecimentos de ensino universitário poderão fazer-se representar, da forma julgada mais conveniente, na abertura das propostas e no estudo dos processos referidos neste artigo.
 
-###### Art. 47.º Este diploma entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 45.º
+Art. 47.º Este diploma entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 45.º
 
-###### Art. 48.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional para o ano de 1973.
+Art. 48.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional para o ano de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 3 de Fevereiro de 1973.**
+Promulgado em 3 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA I
 
 Pessoal integrado no quadro único a que se refere o n.º 1 do artigo 36.º do Decreto-Lei n.º 46/73, de 12 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf))](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)
 
 MAPA II
 
 Pessoal a que se refere o n.º 2 do artigo 36.º do Decreto-Lei n.º 46/73, de 12 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf))](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

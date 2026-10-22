@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1980-474688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 259c2cde3afa90c59c961e38f7a92b85b9a1ec9d922baee7822e949f3e6a5fff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f68d4b342c0095a1be2716ecc57113536fcba8cce5cf54e1384f8768061e5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Mútua de Seguro de Gado
+- Seguro Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:58509399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472507:por
+  label: Acrescentada a al. g) ao n.º 1 do art 2.º do Dec. Lei 82/77 de 05-mar, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 251/80 - Diário da República n.º 169/1980, Série I de 1980-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1980-472507
+  date: '1980-07-24'
+- type: amended_by
+  target: pt:dre:376392:por
+  label: Acrescentada a al. h) ao n.º 1 do art. 2.º do Dec. Lei 82/77 de 05-mar, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 430/82 - Diário da República n.º 246/1982, Série I de 1982-10-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1982-376392
+  date: '1982-10-23'
+- type: amended_by
+  target: pt:dre:58509399:por
+  label: Alterado o art. 2.º do Dec Lei 82/77 de 05-mar, na redação do presente diploma, pelo(a) Decreto-Lei n.º 156/2014
+    - Diário da República n.º 203/2014, Série I de 2014-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2014-58509399
+  date: '2014-10-21'
+- type: cites
+  target: pt:dre:140346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:11Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +122,14 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Ao n.º 1 do artigo 2.º do [Decreto-Lei n.º 82/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1977-140346), de 5 de Março, é acrescentada uma alínea f), com a seguinte redacção:
+Artigo único. Ao n.º 1 do artigo 2.º do [Decreto-Lei n.º 82/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1977-140346), de 5 de Março, é acrescentada uma alínea f), com a seguinte redacção:
 
 f) A mútuas de gados, quer para casos de epizootias e em relação a necessidades não previstas, quer para recurso a serviços técnicos que ultrapassem as suas possibilidades imediatas, ponderadas as circunstâncias de cada caso e sob proposta dos serviços competentes do Ministério da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,40 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45033-1963-627856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a210e533ec64b3495259b5134ac325d2642000c3250456720e02f289b21b6c4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66ff3e60c853ab04d1f2b46c27eb9146bad366f9a3cce3d467e3e1640295bf13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bagagem
+- Berna
+- Convenção
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:632912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445927:por
+  label: "Alterados os §§ 1, 3, 6 e 7 do art. 6º e os nºs. 2 e 4 da al. a) do § 2 do art. 17º da Convenção Internacional Relativa\
+    \ ao Transporte de Mercadorias por Caminho de Ferro (CIM), aprovada pelo presente diploma, pelo DEC LEI.20/71.28.01.1971.MNE,\
+    \ DG.IS [23] de 28.01.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1971-445927
+  date: '1971-01-28'
+- type: amended_by
+  target: pt:dre:445698:por
+  label: "Alterados os arts. 5º, 10º, 12º e 13º do Regulamento Internacional Relativo ao Transporte de Vagões Particulares\
+    \ (R. I. P.), aprovado pelo presente diploma, pelo DEC LEI.124/71.05.04.1971.MNE, DG.IS [80] de 05.04.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1971-445698
+  date: '1971-04-05'
+- type: amended_by
+  target: pt:dre:405766:por
+  label: "Revistas e substituídas a Convenção internacional relativa ao transporte de mercadorias por caminho de ferro (CIM),\
+    \ a Convenção internacional relativa ao transporte de passageiros e bagagens por caminho de ferro (CIV), o Protocolo adicional\
+    \ às citadas Convenções e a respectiva Acta Final, aprovados para ratificação pelo presente diploma, pelo DEC LEI.366/71.25.08.1971.MNE,\
+    \ DG.IS [200-Supl] de 25.08.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1971-405766
+  date: '1971-08-25'
+- type: amended_by
+  target: pt:dre:632912:por
+  label: "Aprovada para ratificação a Convenção Adicional, bem como os seus Protocolos A e B e a Acta Final da Conferência\
+    \ Extraordinária, à Convenção aprovada pelo presente diploma, pelo DEC LEI.427/71.07.10.1971.MNE, DG.IS [236] de 07.10.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1971-632912
+  date: '1971-10-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:59Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +124,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, a Convenção internacional relativa ao transporte de mercadorias por caminho de ferro (CIM), a Convenção internacional relativa ao transporte de passageiros e bagagens por caminho de ferro (CIV), o Protocolo adicional às citadas Convenções e a respectiva Acta Final, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. São aprovados, para ratificação, a Convenção internacional relativa ao transporte de mercadorias por caminho de ferro (CIM), a Convenção internacional relativa ao transporte de passageiros e bagagens por caminho de ferro (CIV), o Protocolo adicional às citadas Convenções e a respectiva Acta Final, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -1856,7 +1890,7 @@ ANNEXE IVa
 
 MODIFICATIONS DU CONTRAT DE TRANSPORT ORDONNÉES PAR L'EXPÉDITEUR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
 
 ANNEXE IVb
 
@@ -1864,7 +1898,7 @@ ANNEXE IVb
 
 MODIFICATIONS DU CONTRAT DE TRANSPORT ORDONNÉES PAR LE DESTINATAIRE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
 
 ANNEXE V
 
@@ -2216,7 +2250,7 @@ ARTICLE 5
 
 Billets
 
-§ 1. Les billets délivrés pour un transport international régi par la présente Convention doivent porter le signe [([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf).
+§ 1. Les billets délivrés pour un transport international régi par la présente Convention doivent porter le signe [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf).
 
 § 2. Les mentions suivantes sont obligatoires sur les billets, sauf, exceptions prévues dans les tarifs:
 
@@ -3222,7 +3256,7 @@ FORMULAIRE DU BULLETIN DE BAGAGES
 
 Le formulaire comprend trois feuilles du modèle ci-après. Les administrations de chemins de fer déterminent celles de ces feuilles qui sont remplies par décalque.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
 
 ANNEXE II
 
@@ -5766,13 +5800,13 @@ Em ... de ... 19...
 
 ALTERAÇÕES AO CONTRATO DE TRANSPORTE ORDENADAS PELO EXPEDIDOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
 
 ## ANEXO IVb — (ARTIGO 22)
 
 ALTERAÇÕES AO CONTRATO DE TRANSPORTE ORDENADAS PELO DESTINATÁRIO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
 
 ## ANEXO V — (ARTIGO 58)
 
@@ -6088,7 +6122,7 @@ Desde o início da sua viagem, salvo excepções previstas nas tarifas, o passag
 
 ###### ARTIGO 5 — Bilhetes
 
-§ 1. Os bilhetes emitidos para um transporte internacional regulado pela presente Convenção devem levar o sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf).
+§ 1. Os bilhetes emitidos para um transporte internacional regulado pela presente Convenção devem levar o sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf).
 
 § 2. Os bilhetes devem obrigatòriamente conter as indicações seguintes, salvo excepções previstas nas tarifas:
 
@@ -6950,7 +6984,7 @@ FORMULÁRIO DA SENHA DE BAGAGEM
 
 O formulário é constituído por três folhas do modelo a seguir indicado. As empresas de caminhos de ferro determinam quais dessas folhas são preenchidas por decalque.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf))](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/05/11500/05090611.pdf)
 
 ## ANEXO II — (ARTIGO 58)
 

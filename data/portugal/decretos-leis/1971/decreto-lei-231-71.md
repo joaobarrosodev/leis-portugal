@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1971-643949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f646257b9e07b4cdae4eb62a408adb4a75c697e9d0d8b6482bc98345f6d5c96d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acfe68a66f424a935790cdeda8b5ccb49b9c153e0bc5dd7ca52d1323d8835eb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Regulamento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:53Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +100,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 116.º, 118.º e 142.º do Decreto n.º 47847, de 14 de Agosto de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 116.º, 118.º e 142.º do Decreto n.º 47847, de 14 de Agosto de 1967, passam a ter a seguinte redacção:
 
-###### Art. 116.º - 1. Poderão requerer a concessão de contadas:
+Art. 116.º - 1. Poderão requerer a concessão de contadas:
 
 a) ...
 
@@ -120,7 +122,7 @@ f) As associações de proprietários e rendeiros destinadas à prática da agri
 
 ...
 
-###### Art. 118.º - 1. Nas concessões de coutadas observar-se-á a seguinte ordem de preferências:
+Art. 118.º - 1. Nas concessões de coutadas observar-se-á a seguinte ordem de preferências:
 
 a) Pedidos apresentados pelas entidades referidas nas alíneas e) e f) do n.º 1 do artigo 116.º;
 
@@ -144,7 +146,7 @@ g) Pedidos apresentados conjuntamente pelos proprietários ou possuidores dos te
 
 ...
 
-###### Art. 142.º - 1. Ficam isentas de taxa prevista no artigo 140.º:
+Art. 142.º - 1. Ficam isentas de taxa prevista no artigo 140.º:
 
 a) Permanentemente, as coutadas exploradas pelas comissões venatórias ou pelas entidades a que se refere a alínea d) do n.º 1 do artigo 116.º;
 
@@ -152,12 +154,12 @@ b) Durante os primeiros cinco anos, as coutadas constituídas por associação d
 
 2. ...
 
-###### Art. 2.º Poderão as juntas de freguesia vizinhas associar-se para efeitos de constituição de coutadas mais amplas.
+Art. 2.º Poderão as juntas de freguesia vizinhas associar-se para efeitos de constituição de coutadas mais amplas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 19 de Maio de 1971.**
+Promulgado em 19 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16800/16041606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1979-382013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f5176b22d3dee95c3f305886626097c21c3a2a2dd78a2e5ee4600ce27762937
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e8bbf7853c653b5aacd7cab5ed8173f15f540d560c555967976e184de37bec5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Catástrofe
+- Contrato Individual de Trabalho
+- Crédito Bancário
+- Despedimento
+- Empresa
+- Financiamento
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401693:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443683:por
+  label: "Revogadas as als. a) do n.º 1 do art. 2.º e do n.º 2 do art. 3.º pelo DEC LEI.398/83.02.11.1983.MTSS, DR.IS [252]\
+    \ de 02.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1983-443683
+  date: '1983-11-02'
+- type: repealed_by
+  target: pt:dre:632448:por
+  label: "Revogado, a partir de 01.01.2013, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:20Z'
   warnings: []
   errors: []
 ---
@@ -247,7 +272,7 @@ As dúvidas resultantes da aplicação deste diploma serão resolvidas por despa
 
 ###### ARTIGO 16.º — (Delegação de competência)
 
-**O Ministro do Trabalho poderá delegar no Secretário de Estado da População e Emprego a competência que lhe é conferida no presente diploma.**
+O Ministro do Trabalho poderá delegar no Secretário de Estado da População e Emprego a competência que lhe é conferida no presente diploma.
 
 ###### ARTIGO 17.º — (Disposição transitória)
 
@@ -261,8 +286,8 @@ O presente diploma aplicar-se-á apenas às empresas atingidas por ocorrências 
 
 O presente decreto-lei entra em vigor trinta dias após a sua publicação. Visto e aprovado em Conselho de Ministros de 16 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Eusébio Marques de Carvalho.
 
-**Promulgado em 3 de Julho de 1979.**
+Promulgado em 3 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

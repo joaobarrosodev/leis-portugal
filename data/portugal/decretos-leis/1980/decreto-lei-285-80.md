@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18700/21992199.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1980-470808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01c6d2ec822fe16771de9d990071c823e8fb32fa49b67486bf54dea341d7ff0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e1af0c78715be9321e60215eef46082c720710bdd620b5ad782effab6054192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Portos
+- Secretaria Regional do Equipamento Social
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:379076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510010:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:23Z'
   warnings: []
   errors: []
 ---
@@ -101,28 +135,28 @@ Nestes termos, ouvido o Governo Regional:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Departamento de Pilotagem do Funchal (DPF) transita para a Secretaria Regional do Equipamento Social do Governo Regional da Madeira, sendo nela integrado.
+Artigo 1.º O Departamento de Pilotagem do Funchal (DPF) transita para a Secretaria Regional do Equipamento Social do Governo Regional da Madeira, sendo nela integrado.
 
-###### Art. 2.º São tornadas extensivas à Região Autónoma da Madeira e transferidas para a Secretaria Regional do Equipamento Social as atribuições e competências conferidas ao INPP relativamente ao DPF pelos Decretos-Leis n.os [360/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1978-429269) e [361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), de 27 de Novembro, pelas Portarias n.os [234/79](https://diariodarepublica.pt/dr/detalhe/portaria/234-1979-382474), de 17 de Maio, e [273/79](https://diariodarepublica.pt/dr/detalhe/portaria/273-1979-383219), de 9 de Junho, e demais legislação complementar.
+Art. 2.º São tornadas extensivas à Região Autónoma da Madeira e transferidas para a Secretaria Regional do Equipamento Social as atribuições e competências conferidas ao INPP relativamente ao DPF pelos Decretos-Leis n.os [360/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1978-429269) e [361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), de 27 de Novembro, pelas Portarias n.os [234/79](https://diariodarepublica.pt/dr/detalhe/portaria/234-1979-382474), de 17 de Maio, e [273/79](https://diariodarepublica.pt/dr/detalhe/portaria/273-1979-383219), de 9 de Junho, e demais legislação complementar.
 
-###### Art. 3.º Enquanto não for publicada legislação adequada à reestruturação dos Serviços de Pilotagem da Madeira, estes continuarão a reger-se pelo preceituado nos diplomas legais referidos no artigo 2.º, na parte que lhes for aplicável e sem prejuízo do disposto no presente decreto-lei.
+Art. 3.º Enquanto não for publicada legislação adequada à reestruturação dos Serviços de Pilotagem da Madeira, estes continuarão a reger-se pelo preceituado nos diplomas legais referidos no artigo 2.º, na parte que lhes for aplicável e sem prejuízo do disposto no presente decreto-lei.
 
-###### Art. 4.º - 1 - O pessoal a prestar serviço no Departamento de Pilotagem do Funchal na data da entrada em vigor deste decreto-lei transitará, se assim o desejar, para o serviço ou organismo regional que lhe vier a suceder, mantendo todos os direitos e regalias adquiridos à data da transferência, incluindo os da antiguidade.
+Art. 4.º - 1 - O pessoal a prestar serviço no Departamento de Pilotagem do Funchal na data da entrada em vigor deste decreto-lei transitará, se assim o desejar, para o serviço ou organismo regional que lhe vier a suceder, mantendo todos os direitos e regalias adquiridos à data da transferência, incluindo os da antiguidade.
 
 2 - A transição do pessoal a que se refere o número anterior será feita mediante critérios a definir no diploma que criar a estrutura regional no sector da actividade.
 
-###### Art. 5.º - 1 - São transferidos para a Região Autónoma da Madeira todos os bens, direitos e obrigações integrados no património do Departamento de Pilotagem do Funchal.
+Art. 5.º - 1 - São transferidos para a Região Autónoma da Madeira todos os bens, direitos e obrigações integrados no património do Departamento de Pilotagem do Funchal.
 
 2 - A transferência para a Região Autónoma da Madeira dos imóveis e móveis, incluindo embarcações e veículos automóveis e demais bens e direitos que integram a universalidade do estabelecimento a cargo do DPF, qualquer que seja a modalidade de inscrição nos correspondentes registos, operar-se-á por força deste diploma, que constituirá título suficiente para todos os efeitos, nomeadamente os de registo.
 
-###### Art. 6.º O Governo da República assegurará, dentro do possível, o apoio técnico que lhe for solicitado pelo Governo Regional em tudo o que se relacione com a respectiva actividade específica.
+Art. 6.º O Governo da República assegurará, dentro do possível, o apoio técnico que lhe for solicitado pelo Governo Regional em tudo o que se relacione com a respectiva actividade específica.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro dos Transportes e Comunicações, ouvido o Governo Regional.
+Art. 7.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro dos Transportes e Comunicações, ouvido o Governo Regional.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 4 de Agosto de 1980.**
+Promulgado em 4 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

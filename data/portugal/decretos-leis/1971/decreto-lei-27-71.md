@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/02/03000/01280128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1971-447290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf5a9ff6319850dcbd0d81b8652d8b928bc4ea8ffbc145b53f30d279396757c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71bfa8c8dbd86e103b93c5667913119b43acdbbf322775f902216d4c5feb10d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estabelecimento de Ensino
+- Estudante
+- Interpretação do Direito
+- Processo Disciplinar
+- Sanção Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:1149265695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:224630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414201:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640339:por
+  label: "Revogado a partir de 10.10.2007 pela LEI.62/2007.10.09.2007.AR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/62-2007-640339
+  date: '2007-09-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:08Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +116,18 @@ Verificando-se a necessidade de fixar a interpretação do § único do artigo 6
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A faculdade de suspender preventivamente os arguidos da prática de infracções disciplinares, conferida pelo artigo 2.º do [Decreto-Lei n.º 44357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44357-1962-414201), de 21 de Maio de 1962, às entidades competentes para instaurar o respectivo processo académico, pode ser exercida livremente por estas entidades no próprio acto de instauração do processo, só dependendo de proposta do instrutor quando haja de ser exercida em momento ulterior.
+Artigo 1.º A faculdade de suspender preventivamente os arguidos da prática de infracções disciplinares, conferida pelo artigo 2.º do [Decreto-Lei n.º 44357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44357-1962-414201), de 21 de Maio de 1962, às entidades competentes para instaurar o respectivo processo académico, pode ser exercida livremente por estas entidades no próprio acto de instauração do processo, só dependendo de proposta do instrutor quando haja de ser exercida em momento ulterior.
 
-###### Art. 2.º As entidades a que se refere o artigo anterior poderão nomear livremente os instrutores ou inquiridores dos processos académicos.
+Art. 2.º As entidades a que se refere o artigo anterior poderão nomear livremente os instrutores ou inquiridores dos processos académicos.
 
-###### Art. 3.º O disposto no § único do artigo 64.º do Estatuto da Instrução Universitária, aprovado pelo [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 27 de Julho de 1930, é aplicável aos casos em que, pelo segundo dos motivos aí indicados, os estabelecimentos escolares sejam encerrados e enquanto durar o encerramento.
+Art. 3.º O disposto no § único do artigo 64.º do Estatuto da Instrução Universitária, aprovado pelo [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 27 de Julho de 1930, é aplicável aos casos em que, pelo segundo dos motivos aí indicados, os estabelecimentos escolares sejam encerrados e enquanto durar o encerramento.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 27 de Janeiro de 1971.**
+Promulgado em 27 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

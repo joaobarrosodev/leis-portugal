@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22300/29322936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1980-461785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abef4e2813e49c0da15d5f7c01686d00f151817bb923c88a43f9e369f5f2dd2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ee9c0871366136fdb1c76f8e28a9f69d68286bcfc7642e741c7988e2aa1ad19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento
+- Ministério da Habitação e Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600158:por
+  label: "Alterado o Quadro de Pessoal pela PORT.224/82.1982.02.19.MJ, DR.IS [42] de 19/FEV/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-1982-600158
+  date: '1982-02-19'
+- type: amended_by
+  target: pt:dre:600168:por
+  label: "Alterado o quadro de pessoal pela PORT.222/82.1982.02.19.MFP, DR.IS- [42] de 19/FEV/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-1982-600168
+  date: '1982-02-19'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459613:por
+  label: Rectificado pela DECL.DD6601.25.11.1980.PCM, DR.IS [291] de 18.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459613
+  date: '1980-11-25'
+- type: corrected_by
+  target: pt:dre:388031:por
+  label: Retificada a Declaração de 18-dez 1980, na retificação que efetuou ao mapa II do presente diploma. pelo(a) Declaração
+    - Diário da República n.º 61/1981, Série I de 1981-03-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-388031
+  date: '1981-03-14'
 article_structure:
   article_count: 28
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:14Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +179,7 @@ d) Estudar a aplicação da informática à programação e contrôle dos progra
 
 ### CAPÍTULO II — Órgãos e serviços
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -140,7 +205,7 @@ a) Comissão de Planeamento do MHOP;
 
 b) Comissão Consultiva de Estatística do MHOP, a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Director
 
@@ -150,7 +215,7 @@ Director
 
 2 - O director será coadjuvado por um subdirector, equiparado para todos os efeitos a subdirector-geral, que o substituirá nas suas faltas e impedimentos.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Serviços
 
@@ -258,7 +323,7 @@ a) Secção de Pessoal e Serviços Gerais;
 
 b) Secção de Contabilidade.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Comissões
 
@@ -340,16 +405,16 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 9 de Setembro de 1980.**
+Promulgado em 9 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o artigo 20.º do Decreto-Lei n.º 406/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22300/29322936.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22300/29322936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22300/29322936.pdf)
 
 Mapa II a que se refere o artigo 20.º do Decreto-Lei n.º 406/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22300/29322936.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22300/29322936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22300/29322936.pdf)

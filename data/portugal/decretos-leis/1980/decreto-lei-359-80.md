@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20800/25812581.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1980-464028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97256aa174fc3f803e642be69904df82c0b8fc57eef40c9ab41811a2f28b4a95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be53f1957ce1eacf780f3eae071b912ff5306b9957f55b7fab01f1a93a6128e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Viticultura da Região dos Vinhos Verdes
+- Crédito Bonificado
+- Federação dos Vinicultores do DÃO
+- Junta Nacional dos Vinhos
+- JURO Bonificado
+- Linha de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:366418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692867:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:31Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +133,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para fazer face ao aumento de encargos a suportar pelo Estado, resultante da elevação dos montantes das linhas de crédito bonificadas, aprovada pela [Resolução n.º 241/80](https://diariodarepublica.pt/dr/detalhe/resolucao/241-1980-471901), de 10 de Julho, fica a Direcção-Geral do Tesouro autorizada a inscrever nos Orçamentos Gerais do Estado de 1981 e 1982 as verbas necessárias, até ao limite máximo de 229500 contos.
+Artigo 1.º Para fazer face ao aumento de encargos a suportar pelo Estado, resultante da elevação dos montantes das linhas de crédito bonificadas, aprovada pela [Resolução n.º 241/80](https://diariodarepublica.pt/dr/detalhe/resolucao/241-1980-471901), de 10 de Julho, fica a Direcção-Geral do Tesouro autorizada a inscrever nos Orçamentos Gerais do Estado de 1981 e 1982 as verbas necessárias, até ao limite máximo de 229500 contos.
 
-###### Art. 2.º Para o Orçamento Geral do Estado de 1981 fixa-se desde já um aumento de 153000 contos relativamente às verbas estabelecidas pelos Decretos-Leis n.os 519-P1/79, de 29 de Dezembro, e [25/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1980-678833) e [26/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1980-678827), de 29 de Fevereiro.
+Art. 2.º Para o Orçamento Geral do Estado de 1981 fixa-se desde já um aumento de 153000 contos relativamente às verbas estabelecidas pelos Decretos-Leis n.os 519-P1/79, de 29 de Dezembro, e [25/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1980-678833) e [26/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1980-678827), de 29 de Fevereiro.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 25 de Agosto de 1980.**
+Promulgado em 25 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

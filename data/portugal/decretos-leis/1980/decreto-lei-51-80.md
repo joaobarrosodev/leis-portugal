@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1980-677432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67661267468bcb12364cd11b5531d7ee58a057ff6792fc498b8da875ba6aa271
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb5a84c4994656616eadae5861afc04c9927f26195cb0438ba9a04b796ae5541
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Aviação Civil
+- Faro
+- Servidão Aeronáutica
 relationships:
 - type: amended_by
   target: pt:dre:457468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457468:por
+  label: "Dada nova redacção às alíneas a) e b) do art. 187º (alterado pelo presente diploma) do Regulamento de Administração\
+    \ da Fazenda Naval, aprovado pelo Decreto n.º 31859, de 17 de Janeiro de 1942, DG.IS [14], pela PORT.934/80.05.11.1980.CR,\
+    \ DR.IS [256] de 05.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/934-1980-457468
+  date: '1980-11-05'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:56Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +121,27 @@ Opta-se pela adopção da forma de decreto-lei em virtude de a inserção do § 
 
 Assim sendo, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão aeronáutica a área confinante com o Aeroporto de Faro abrangida na planta anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º Fica sujeita a servidão aeronáutica a área confinante com o Aeroporto de Faro abrangida na planta anexa ao presente diploma e que dele faz parte integrante.
 
 Art 2.º A área sujeita a servidão compreende as seguintes zonas:
 
 a) Zona 1 (zona de ocupação e de 1.ª protecção) - área de terreno ou de água limitada pela linha poligonal com vértices nos pontos com as seguintes coordenadas rectangulares [estas coordenadas, assim como todas as restantes incluídas neste diploma, são do sistema Hayford-Gauss com datum no ponto central (Melriça)]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
 
 b) Zona 2 (2.ª zona de protecção) - compreendendo os sectores 2-A e 8-B(índice 2).
 
 O sector 2-A é a área de terreno ou de água confinante com a zona 1 e interior à linha poligonal com vértices nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
 
 O sector 8-B(índice 2) é a superfície de terreno exterior aos sectores 4-A e 8-B(índice 4) (adiante definidos) e com estes confinando e interior à linha poligonal com vértices nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
 
 c) Zona 3 (canais operacionais) - compreendendo os sectores 3-A(índice 1), 3-A(índice 2), 3-A(índice 3), 8-B(índice 3) e 8-B(índice 3.1). Os sectores 3-A(índice 1), 3-A(índice 2) e 3-A(índice 3) são superfícies de terreno ou de água limitadas por linhas poligonais com vértices nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
 
 O sector 8-B(índice 3) é a superfície de terreno ou de água exterior à zona 6 (adiante definida) e com esta confinando e limitado: a norte pelo alinhamento recto que contém os dois pontos de coordenadas M = -2792, P = -287514, e M = +6935, P = -290764; a sul pelo alinhamento recto que contém os dois pontos de coordenadas M = -3021, P = -288825, e M = +7173, P = -292231, e a poente pelo alinhamento recto que contém os dois pontos de coordenadas M = -3021, P = -288825, e M = 2792, P = -287515.
 
@@ -136,7 +163,7 @@ e) Zona 5 (superfície horizontal interior) - superfície de terreno ou de água
 
 Os centros destes arcos de circunferência têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
 
 f) Zona 6 (superfície cónica) - compreendendo os sectores 6-A e 8-B(índice 6).
 
@@ -156,7 +183,7 @@ O sector 8-B(índice 6), constituído pelas áreas 8-B(índice 6.1) e 8-B(índic
 
 Os centros destes arcos têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
 
 8-B(índice 6.1) - área do sector 8-B(índice 6) confinante com os sectores 3-A(índice 2) e 6-A(índice 2);
 
@@ -164,7 +191,7 @@ Os centros destes arcos têm as seguintes coordenadas:
 
 g) Zona 7 (superfície horizontal exterior) - superfície de terreno ou de água confinante com a zona 6 e sectores 3-A(índice 2), 3-A(índice 3), 8-B(índice 3), 8-B(índice 3.1), 8-B(índice 6.1) e 8-B(índice 6.2), limitada exteriormente por uma circunferência horizontal de 15000 m de raio, com centro no ponto de coordenadas M = +13655 e P = -293596.
 
-###### Art. 3.º Ficam sujeitos a servidão geral, nos termos do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), sem prejuízo da demais legislação existente, os terrenos compreendidos nas zonas 1 e 2, excluídos os do sector 8-B(índice 2).
+Art. 3.º Ficam sujeitos a servidão geral, nos termos do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), sem prejuízo da demais legislação existente, os terrenos compreendidos nas zonas 1 e 2, excluídos os do sector 8-B(índice 2).
 
 § único. Nos locais da zona 2 situados a mais de 1900 m de distância do limite da zona 1 ficam, porém, dispensados da licença prevista naquele decreto-lei:
 
@@ -172,7 +199,7 @@ a) A construção ou instalação de vedações não metálicas quando não ultr
 
 b) O desenvolvimento de vegetação até à altura de 15 m acima do solo.
 
-###### Art. 4.º Ficam sujeitas a servidão particular, de harmonia com o disposto no artigo 5.º do [Decreto-Lei n.º 46987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46987-1966-475891), sem prejuízo do disposto noutra legislação existente, as áreas de terreno ou de água compreendidas nas zonas a seguir indicadas, carecendo de licença prévia da Direcção-Geral da Aviação Civil as construções ou criações de quaisquer outros obstáculos, mesmo de carácter temporário, que ultrapassem as seguintes cotas absolutas estabelecidas para as zonas ou sectores (estas cotas, quando variáveis, aumentam uniformemente com a distância do aeroporto entre os limites a seguir indicados):
+Art. 4.º Ficam sujeitas a servidão particular, de harmonia com o disposto no artigo 5.º do [Decreto-Lei n.º 46987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46987-1966-475891), sem prejuízo do disposto noutra legislação existente, as áreas de terreno ou de água compreendidas nas zonas a seguir indicadas, carecendo de licença prévia da Direcção-Geral da Aviação Civil as construções ou criações de quaisquer outros obstáculos, mesmo de carácter temporário, que ultrapassem as seguintes cotas absolutas estabelecidas para as zonas ou sectores (estas cotas, quando variáveis, aumentam uniformemente com a distância do aeroporto entre os limites a seguir indicados):
 
 1.º Na zona 3:
 
@@ -220,36 +247,36 @@ Em 4-C - 1 m quando situados a menos de 200 m de distância do ponto de coordena
 
 § único. Aos locais abrangidos simultaneamente pelas zonas 3 e 4 é aplicável o conjunto dos respectivos condicionamentos ou aqueles que conduzam a uma cota mais baixa.
 
-###### Art. 5.º Carece de licença prévia da Direcção-Geral da Aviação Civil a instalação de linhas áreas de transporte de energia eléctrica numa área circular de 9 km de raio, com centro no ponto de coordenadas M = +13655 e P = -293596.
+Art. 5.º Carece de licença prévia da Direcção-Geral da Aviação Civil a instalação de linhas áreas de transporte de energia eléctrica numa área circular de 9 km de raio, com centro no ponto de coordenadas M = +13655 e P = -293596.
 
-###### Art. 6.º Nas zonas 1, 2, 3, 4 e 5, com exclusão dos sectores 8-B(índice 2), 8-B(índice 3), 8-B(índice 3.1), 8-B(índice 4), 8-B(índice 6.1) e 8-B(índice 8.2), fica proibido, sem licença prévia da Direcção-Geral da Aviação Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos de artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterarem as condições de visibilidade.
+Art. 6.º Nas zonas 1, 2, 3, 4 e 5, com exclusão dos sectores 8-B(índice 2), 8-B(índice 3), 8-B(índice 3.1), 8-B(índice 4), 8-B(índice 6.1) e 8-B(índice 8.2), fica proibido, sem licença prévia da Direcção-Geral da Aviação Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos de artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterarem as condições de visibilidade.
 
-###### Art. 7.º Nas zonas 1 e 2, com exclusão do sector 8-B(índice 2), carecem, também, de licença prévia da Direcção-Geral da Aviação Civil a construção de escolas, estabelecimentos de carácter hospitalar e recintos desportivos ou outros susceptíveis de conduzirem à aglomeração de grande número de pessoas e a afectação aos fins indicados de edifícios ou recintos existentes.
+Art. 7.º Nas zonas 1 e 2, com exclusão do sector 8-B(índice 2), carecem, também, de licença prévia da Direcção-Geral da Aviação Civil a construção de escolas, estabelecimentos de carácter hospitalar e recintos desportivos ou outros susceptíveis de conduzirem à aglomeração de grande número de pessoas e a afectação aos fins indicados de edifícios ou recintos existentes.
 
-###### Art. 8.º Ficam sujeitas às medidas preventivas constantes do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, até à aprovação do plano director do Aeroporto de Faro, as áreas correspondentes aos sectores 8-B(índice 2), 8-B(índice 3), 8-B(índice 3.1), 8-B(índice 4), 8-B(índice 6.1) e 8-B(índice 6.2), atrás definidos, carecendo de autorização da Direcção-Geral do Planeamento Urbanístico ou da entidade legalmente competente, conforme a área de jurisdição, mediante parecer da Direcção-Geral da Aviação Civil, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a execução dos actos ou actividades enunciados nos termos do disposto nas alíneas a) e seguintes até d), inclusive, do artigo 8.º, n.º 1, daquele diploma.
+Art. 8.º Ficam sujeitas às medidas preventivas constantes do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, até à aprovação do plano director do Aeroporto de Faro, as áreas correspondentes aos sectores 8-B(índice 2), 8-B(índice 3), 8-B(índice 3.1), 8-B(índice 4), 8-B(índice 6.1) e 8-B(índice 6.2), atrás definidos, carecendo de autorização da Direcção-Geral do Planeamento Urbanístico ou da entidade legalmente competente, conforme a área de jurisdição, mediante parecer da Direcção-Geral da Aviação Civil, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a execução dos actos ou actividades enunciados nos termos do disposto nas alíneas a) e seguintes até d), inclusive, do artigo 8.º, n.º 1, daquele diploma.
 
 § único. Nos casos previstos no artigo anterior, o licenciamento necessário fica dependente da exibição pelos interessados, perante os serviços competentes, do documento que prove a autorização exigida no artigo precedente.
 
-###### Art. 9.º O prazo a que se refere o n.º 1 do artigo 9.º do diploma citado no artigo anterior é fixado em dois anos, contado da data do presente decreto-lei.
+Art. 9.º O prazo a que se refere o n.º 1 do artigo 9.º do diploma citado no artigo anterior é fixado em dois anos, contado da data do presente decreto-lei.
 
-###### Art. 10.º Compete à Direcção-Geral da Aviação Civil a fiscalização e licenciamento de trabalhos nas zonas sujeitas a servidão aeronáutica, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
+Art. 10.º Compete à Direcção-Geral da Aviação Civil a fiscalização e licenciamento de trabalhos nas zonas sujeitas a servidão aeronáutica, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
 
 § único. Nas áreas definidas nos termos do artigo 8.º a Direcção-Geral da Aviação Civil, a Direcção-Geral do Planeamento Urbanístico, o Serviço Nacional de Parques, Reservas e Património Paisagístico ou a Direcção-Geral dos Serviços de Fomento Marítimo, dentro das zonas da sua jurisdição, e as câmaras municipais são competentes para promover o embargo e a demolição das obras executadas com violação do preceituado no referido artigo.
 
-###### Art. 11.º - 1 - As licenças previstas no presente diploma, excluindo as que dizem respeito às áreas definidas nos termos do artigo 8.º deste articulado, serão requeridas ao director-geral da Aviação Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+Art. 11.º - 1 - As licenças previstas no presente diploma, excluindo as que dizem respeito às áreas definidas nos termos do artigo 8.º deste articulado, serão requeridas ao director-geral da Aviação Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
 2 - As autorizações previstas nos termos do artigo 8.º do presente diploma serão requeridas ao director-geral dos Serviços de Urbanização, ao presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico ou ao director-geral dos Serviços de Fomento Marítimo, conforme preceituado nesta disposição, por intermédio da câmara municipal e mediante parecer da Direcção-Geral da Aviação Civil.
 
 3 - A planta de localização referida na alínea a) do § 1.º do artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043) deverá ser à escala de 1:5000, devidamente referenciada por coordenadas.
 
-###### Art. 12.º Das decisões tomadas pela Direcção-Geral da Aviação Civil, quer relativamente à concessão de licenças para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Ministro dos Transportes e Comunicações.
+Art. 12.º Das decisões tomadas pela Direcção-Geral da Aviação Civil, quer relativamente à concessão de licenças para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Ministro dos Transportes e Comunicações.
 
 Visto e aprovado em Conselho de Ministros de 21 Fevereiro de 1980. - Francisco Sá Carneiro - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 5 de Março de 1980.**
+Promulgado em 5 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07100/05490552.pdf)

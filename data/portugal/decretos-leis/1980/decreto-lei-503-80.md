@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24300/34983499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1980-462419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eddb0687e6c1a5180148c3b086f0c08c8cd5bddf10a8e36f595b3548147dc537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ccdfac414e174240e90f918e80db1245e5662392e88f8eb35df9b1573f1af07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Família
+- Maternidade
+- Proteção Social
+- Protecção à Família
 relationships:
 - type: amended_by
   target: pt:dre:152335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:152335:por
+  label: "Revogado pelo DEC LEI.136/85.03.05.1985.MTSS, DR.IS [101] de 03.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1985-152335
+  date: '1985-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:51Z'
   warnings: []
   errors: []
 ---
@@ -116,36 +125,36 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º À família, como instituição social fundamental, serão assegurados pelo Estado a protecção e os meios indispensáveis ao pleno desempenho das suas atribuições específicas.
+Artigo 1.º À família, como instituição social fundamental, serão assegurados pelo Estado a protecção e os meios indispensáveis ao pleno desempenho das suas atribuições específicas.
 
-###### Art. 2.º A maternidade e a paternidade constituem valores sociais eminentes, que ao Estado cabe respeitar e salvaguardar, protegendo os pais nas exigências específicas da sua insubstituível acção na educação dos filhos.
+Art. 2.º A maternidade e a paternidade constituem valores sociais eminentes, que ao Estado cabe respeitar e salvaguardar, protegendo os pais nas exigências específicas da sua insubstituível acção na educação dos filhos.
 
-###### Art. 3.º Aos pais será proporcionado pelo Estado um sistema de protecção social adequado à especificidade da sua condição e serão criadas condições que lhes permitam optar, alternadamente mas livremente, entre o exercício de uma actividade profissional e a dedicação à missão educadora.
+Art. 3.º Aos pais será proporcionado pelo Estado um sistema de protecção social adequado à especificidade da sua condição e serão criadas condições que lhes permitam optar, alternadamente mas livremente, entre o exercício de uma actividade profissional e a dedicação à missão educadora.
 
-###### Art. 4.º O Estado promoverá e desenvolverá uma política de educação familiar, nomeadamente no âmbito do planeamento familiar, com respeito das consciências, convicções e sentimentos religiosos de cada um.
+Art. 4.º O Estado promoverá e desenvolverá uma política de educação familiar, nomeadamente no âmbito do planeamento familiar, com respeito das consciências, convicções e sentimentos religiosos de cada um.
 
-###### Art. 5.º Ao Estado compete organizar e desenvolver uma rede nacional de protecção materno-infantil, com especial relevância para as medidas profilácticas e os cuidados especiais com a gravidez e o parto.
+Art. 5.º Ao Estado compete organizar e desenvolver uma rede nacional de protecção materno-infantil, com especial relevância para as medidas profilácticas e os cuidados especiais com a gravidez e o parto.
 
-###### Art. 6.º Constitui ainda objectivo da política social familiar fomentar e desenvolver a criação de estruturas adequadas, nomeadamente creches e jardins-de-infância, que assegurem a ocupação dos tempos livres das crianças e dos jovens e a guarda das crianças durante os períodos de trabalho de seus pais.
+Art. 6.º Constitui ainda objectivo da política social familiar fomentar e desenvolver a criação de estruturas adequadas, nomeadamente creches e jardins-de-infância, que assegurem a ocupação dos tempos livres das crianças e dos jovens e a guarda das crianças durante os períodos de trabalho de seus pais.
 
-###### Art. 7.º O Estado reconhece o valor social e fomentará a intervenção da iniciativa particular, designadamente das instituições privadas de solidariedade social, na prossecução dos objectivos decorrentes dos artigos anteriores.
+Art. 7.º O Estado reconhece o valor social e fomentará a intervenção da iniciativa particular, designadamente das instituições privadas de solidariedade social, na prossecução dos objectivos decorrentes dos artigos anteriores.
 
-###### Art. 8.º Em execução do estabelecido no presente diploma, e para além do preceituado nos artigos seguintes, promover-se-á a gradual concretização e adequação dos direitos sociais já reconhecidos aos princípios gerais nele referidos.
+Art. 8.º Em execução do estabelecido no presente diploma, e para além do preceituado nos artigos seguintes, promover-se-á a gradual concretização e adequação dos direitos sociais já reconhecidos aos princípios gerais nele referidos.
 
-###### Art. 9.º Será instituída, em condições a regulamentar, uma licença que permita à mãe ou ao pai, por livre escolha suspender temporariamente a prestação da respectiva actividade profissional, com garantia de reingresso e sem quebra de quaisquer regalias, sempre que tal suspensão se mostre ou presuma indispensável no exercício dos seus deveres para com os filhos.
+Art. 9.º Será instituída, em condições a regulamentar, uma licença que permita à mãe ou ao pai, por livre escolha suspender temporariamente a prestação da respectiva actividade profissional, com garantia de reingresso e sem quebra de quaisquer regalias, sempre que tal suspensão se mostre ou presuma indispensável no exercício dos seus deveres para com os filhos.
 
-###### Art. 10.º Os regimes de trabalho em tempo parcial e de horários flexíveis serão sucessivamente generalizados, por forma a permitirem a conciliação da actividade profissional com as funções familiares.
+Art. 10.º Os regimes de trabalho em tempo parcial e de horários flexíveis serão sucessivamente generalizados, por forma a permitirem a conciliação da actividade profissional com as funções familiares.
 
-###### Art. 11.º - 1 - Será gradualmente instituído um subsídio em benefício das mães ou dos pais mais necessitados que, em consequência dos seus deveres para com os filhos, não possam exercer temporariamente a sua actividade profissional.
+Art. 11.º - 1 - Será gradualmente instituído um subsídio em benefício das mães ou dos pais mais necessitados que, em consequência dos seus deveres para com os filhos, não possam exercer temporariamente a sua actividade profissional.
 
 2 - Este benefício será concedido por via de complementarização nas prestações do abono de família, ou directamente, e será prioritariamente atribuído a quem tenha filhos até três anos ou deficientes, seja qual for a idade.
 
-###### Art. 12.º A regulamentação do presente diploma será efectuada no prazo de cento e oitenta dias por decreto dos Ministros das Finanças e do Plano, do Trabalho, da Educação e Ciência e dos Assuntos Sociais.
+Art. 12.º A regulamentação do presente diploma será efectuada no prazo de cento e oitenta dias por decreto dos Ministros das Finanças e do Plano, do Trabalho, da Educação e Ciência e dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 10 de Outubro de 1980.**
+Promulgado em 10 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

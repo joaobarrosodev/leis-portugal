@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17400/17091711.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1976-430793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9a42491748739f7e2f89af7a16238904ef9ab639eea1556d694835a928ae489
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0567fe3cafb108254a67bfe7a05257fc9388ae107365fce475456d2100a3b2f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo Penal
+- Juiz
+- Tribunal de Comarca
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:287658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286542:por
+  label: "Revogados os nºs. 2, 3, 4 e 5 do art. 1º e o art. 2º pelo DEC LEI.354/77.30.08.1977.MJ, DR.IS [200] de 30.08.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1977-286542
+  date: '1977-08-30'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:46Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +125,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Compete aos juízos de instrução criminal, além das funções que actualmente lhes são atribuídas, a direcção da instrução preparatória.
+Artigo 1.º - 1. Compete aos juízos de instrução criminal, além das funções que actualmente lhes são atribuídas, a direcção da instrução preparatória.
 
 2. Nas comarcas onde não houver juízos de instrução criminal, e enquanto estes não forem criados, competem aos juízes indicados no mapa anexo as funções previstas no n.º 1 deste artigo, ficando sempre impedidos de intervir em julgamentos de processos em que tenham dirigido a instrução preparatória.
 
@@ -109,7 +135,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. O disposto nos números anteriores não prejudica o estatuído nos artigos 1.º a 6.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro.
 
-###### Art. 2.º Na direcção da instrução preparatória compete nomeadamente ao juiz:
+Art. 2.º Na direcção da instrução preparatória compete nomeadamente ao juiz:
 
 a) Presidir aos actos de instrução em que o arguido deva estar presente e aos restantes sempre que o julgue conveniente;
 
@@ -117,27 +143,27 @@ b) Autorizar a realização de quaisquer diligências a efectuar pela entidade q
 
 c) Determinar a realização de quaisquer diligências ou proceder directamente a sua realização.
 
-###### Art. 3.º Os artigos 388.º e 389.º do Código de Processo Penal passam a ter a seguinte redacção:
+Art. 3.º Os artigos 388.º e 389.º do Código de Processo Penal passam a ter a seguinte redacção:
 
-###### Art. 388.º - 1. Sempre que a acusação seja deduzida apenas pelo assistente, será o arguido notificado da acusação, podendo, no prazo de cinco dias, requerer a abertura da instrução contraditória ou o arquivamento do processo.
+Art. 388.º - 1. Sempre que a acusação seja deduzida apenas pelo assistente, será o arguido notificado da acusação, podendo, no prazo de cinco dias, requerer a abertura da instrução contraditória ou o arquivamento do processo.
 
 2. No caso de o arguido requerer nos termos do número anterior a instrução contraditória, esta terá sempre lugar, sem prejuízo do n.º 2 do artigo 389.º, aplicando-se os correspondentes preceitos do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, e deste Código.
 
-###### Art. 389.º - 1. Salvo se o arguido requerer a abertura da instrução contraditória nos termos do artigo anterior, a acusação só não será recebida quando o facto não for punível, se achar extinta a acção penal ou o arguido for inimputável. 2. Em qualquer caso o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa e que desde logo possa apreciar.
+Art. 389.º - 1. Salvo se o arguido requerer a abertura da instrução contraditória nos termos do artigo anterior, a acusação só não será recebida quando o facto não for punível, se achar extinta a acção penal ou o arguido for inimputável. 2. Em qualquer caso o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa e que desde logo possa apreciar.
 
 3. O despacho proferido pelo juiz ao abrigo dos números anteriores não é susceptível de recurso quando o processo prosseguir, podendo, porém, ser impugnado no recurso que venha a ser interposto da decisão final.
 
-###### Art. 4.º Ficam revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 321/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1976-287658), de 4 de Maio.
+Art. 4.º Ficam revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 321/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1976-287658), de 4 de Maio.
 
-###### Art. 5.º Este diploma entra em vigor na data da sua publicação.
+Art. 5.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha.
 
-**Promulgado em 9 de Julho de 1976.**
+Promulgado em 9 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa anexo ao Decreto-Lei n.º 618/76
 

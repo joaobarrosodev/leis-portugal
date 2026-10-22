@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/20100/09560958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1974-474321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7590880c7f341f4656ceb1b92e50bac7b5932c353d789f7ae9dd7b5e5c469321
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d26b22f48e7d5d1fbe2b7f63deb1fc6ac9720c0116f6c999d91d45c91b0c2c10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior General das Forças Armadas
+- Definição de Competências
+- Estado Maior General das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:379327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408925:por
+  label: "Alterado o art. 15º pelo DEC LEI.709/76.04.10.1976.CR, DR.IS [233] de 04.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/709-1976-408925
+  date: '1976-10-04'
+- type: amended_by
+  target: pt:dre:252255:por
+  label: "Alterados os arts. 2º e 3º pelo DEC LEI.192/77.13.05.1977.CR, DR.IS [111] de 13.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1977-252255
+  date: '1977-05-13'
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483612:por
+  label: "Revogado o n.º 6 do artigo 1.º, os artigos 4.º e seguintes, com excepção do n.º 2 do artigo 7.º e do artigo 17.º,\
+    \ pelo DEC LEI.20/82.28.01.1982.CR, DR.IS [23]Supl de 28.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1982-483612
+  date: '1982-01-28'
+- type: repealed_by
+  target: pt:dre:379327:por
+  label: "Revogado pela LEI.29/82.1982.12.11.AR DR.IS [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-1982-379327
+  date: '1982-12-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:13Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +119,7 @@ de 29 de Agosto
 
 Usando da faculdade conferida pela [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA), na dependência única do Presidente da República, é o responsável pela direcção efectiva do emprego das Forças Armadas, tanto em tempo de paz como em tempo de guerra.
+Artigo 1.º - 1. O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA), na dependência única do Presidente da República, é o responsável pela direcção efectiva do emprego das Forças Armadas, tanto em tempo de paz como em tempo de guerra.
 
 2. O CEMGFA é um oficial general do Exército, da Armada ou da Força Aérea, hierarquicamente superior a todos os oficiais generais das Forças Armadas, com direito ao uso dos emblemas e distintivos estabelecidos na lei.
 
@@ -103,29 +131,29 @@ Usando da faculdade conferida pela [Lei n.º 4/74](https://diariodarepublica.pt/
 
 6. O CEMGFA será substituído, nos seus impedimentos e ausências, pelo mais antigo dos Chefes dos Estados-Maiores dos três ramos das Forças Armadas.
 
-###### Art. 2.º - 1. Na dependência directa do CEMGFA, o Chefe do Estado-Maior do Exército (CEME), o Chefe do Estado-Maior da Armada (CEMA) e o Chefe do Estado-Maior da Força Aérea (CEMFA) desempenham, nos respectivos ramos das forças armadas, as funções que anteriormente cabiam, em assuntos de natureza militar, aos titulares dos correspondentes departamentos.
+Art. 2.º - 1. Na dependência directa do CEMGFA, o Chefe do Estado-Maior do Exército (CEME), o Chefe do Estado-Maior da Armada (CEMA) e o Chefe do Estado-Maior da Força Aérea (CEMFA) desempenham, nos respectivos ramos das forças armadas, as funções que anteriormente cabiam, em assuntos de natureza militar, aos titulares dos correspondentes departamentos.
 
 2. Os Chefes dos Estados-Maiores dos três ramos das Forças Armadas têm as honras, regalias e vencimentos correspondentes ao cargo de Ministro.
 
-###### Art. 3.º - 1. O CEMGFA é assistido nas suas funções por dois vice-chefes do Estado-Maior-General das Forças Armadas, que dele receberão as competências cumulativas que lhes forem delegadas.
+Art. 3.º - 1. O CEMGFA é assistido nas suas funções por dois vice-chefes do Estado-Maior-General das Forças Armadas, que dele receberão as competências cumulativas que lhes forem delegadas.
 
 2. O CEMGFA e os dois vice-chefes devem normalmente pertencer a ramos diferentes das Forças Armadas.
 
 3. Os vice-chefes do Estado-Maior-General das Forças Armadas são oficiais generais de quatro estrelas com as honras e vencimentos correspondentes ao seu posto.
 
-###### Art. 4.º - 1. Haverá adjuntos ao CEMGFA que, além dos cargos que neste diploma lhes são cometidos, exercem a competência cumulativa que lhes for delegada.
+Art. 4.º - 1. Haverá adjuntos ao CEMGFA que, além dos cargos que neste diploma lhes são cometidos, exercem a competência cumulativa que lhes for delegada.
 
 2. Os adjuntos do CEMGFA são oficiais generais de qualquer dos ramos das forças armadas, com o posto de general ou contra-almirante, devendo, normalmente, pertencer a ramos diferentes.
 
-###### Art. 5.º - 1. O Chefe do Estado-Maior-General das Forças Armadas e os Chefes dos Estados-Maiores dos três ramos das forças armadas constituem o Conselho dos Chefes dos Estados-Maiores das Forças Armadas (CCEM), na dependência única do Presidente da República.
+Art. 5.º - 1. O Chefe do Estado-Maior-General das Forças Armadas e os Chefes dos Estados-Maiores dos três ramos das forças armadas constituem o Conselho dos Chefes dos Estados-Maiores das Forças Armadas (CCEM), na dependência única do Presidente da República.
 
 2. O CCEM exerce a competência legislativa própria e orienta e coordena a defesa nacional, tanto em tempo de paz como em tempo de guerra.
 
-###### Art. 6.º - 1. É criado o Estado-Maior-General das Forças Armadas (EMGFA), na dependência do CEMGFA.
+Art. 6.º - 1. É criado o Estado-Maior-General das Forças Armadas (EMGFA), na dependência do CEMGFA.
 
 2. O EMGFA é um órgão de apoio do CEMGFA e do CCEM, com funções de estudo, planeamento e execução.
 
-###### Art. 7.º - 1. Compete ao CEMGFA:
+Art. 7.º - 1. Compete ao CEMGFA:
 
 a) Comandar as forças em operações ou a estas destinadas, exercendo a sua acção através dos Chefes dos Estados-Maiores dos três ramos das forças armadas, dos comandantes-chefes e do Comando Operacional do Continente;
 
@@ -153,13 +181,13 @@ j) Superintender no conjunto da administração no âmbito militar e praticar to
 
 4. O CEMGFA pode, quando o considerar necessário, delegar em subordinados imediatos competência em matéria de natureza administrativa.
 
-###### Art. 8.º Compete aos vice-chefes do EMGFA:
+Art. 8.º Compete aos vice-chefes do EMGFA:
 
 a) Exercer, por delegação do CEMGFA, as funções que por este lhe forem atribuídas no âmbito do EMGFA;
 
 b) Efectuar, por determinação do CEMGFA, inspecções no âmbito das actividades dos comandos-chefes.
 
-###### Art. 9.º - 1. Compete ao CCEM:
+Art. 9.º - 1. Compete ao CCEM:
 
 a) Fazer decretos-leis e elaborar decretos, regulamentos e instruções para a boa execução das leis, no uso da competência legislativa atribuída pela [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho;
 
@@ -183,7 +211,7 @@ j) Proceder às promoções aos postos de oficial general.
 
 2. O CCEM reúne por convocação do CEMGFA.
 
-###### Art. 10.º - 1. Compete ao EMGFA estudar, coordenar, obter e emitir decisões em matéria de:
+Art. 10.º - 1. Compete ao EMGFA estudar, coordenar, obter e emitir decisões em matéria de:
 
 a) Justiça e disciplina nas forças armadas;
 
@@ -201,7 +229,7 @@ g) Política fabril militar, no sector público e privado.
 
 2. Para a realização das suas atribuições, o EMGFA pode pedir pareceres aos estados-maiores, assim como propor a constituição de grupos de trabalho formados por elementos dos três ramos das forças armadas.
 
-###### Art. 11.º - 1. O EMGFA compreende:
+Art. 11.º - 1. O EMGFA compreende:
 
 a) O Estado-Maior Coordenador;
 
@@ -213,32 +241,32 @@ c) Órgãos de apoio geral.
 
 3. Outros serviços que se mostrem necessários podem ser criados por portaria do CEMGFA, que terá a intervenção dos Ministros da Defesa Nacional e das Finanças, quando envolva aumento das verbas atribuídas.
 
-###### Art. 12.º - 1. O Estado-Maior Coordenador é chefiado por um vice-chefe ou um adjunto do CEMGFA e organiza-se em divisões.
+Art. 12.º - 1. O Estado-Maior Coordenador é chefiado por um vice-chefe ou um adjunto do CEMGFA e organiza-se em divisões.
 
 2. Os cargos de chefes de divisão são desempenhados por brigadeiros ou coronéis ou por oficiais da Armada de postos correspondentes.
 
-###### Art. 13.º - 1. A Direcção-Geral do Planeamento e Administração é chefiada por um vice-chefe ou um adjunto do CEMGFA e organiza-se em direcções de serviços que, por sua vez, se estruturam em repartições.
+Art. 13.º - 1. A Direcção-Geral do Planeamento e Administração é chefiada por um vice-chefe ou um adjunto do CEMGFA e organiza-se em direcções de serviços que, por sua vez, se estruturam em repartições.
 
 2. Os cargos de directores de serviços são normalmente desempenhados por brigadeiros ou comodoros.
 
 3. As repartições são dirigidas por coronéis ou tenentes-coronéis ou oficiais da Armada de postos correspondentes.
 
-###### Art. 14.º A orgânica e atribuições dos vários órgãos do EMGFA serão fixados por portaria do CEMGFA.
+Art. 14.º A orgânica e atribuições dos vários órgãos do EMGFA serão fixados por portaria do CEMGFA.
 
-###### Art. 15.º Os quadros de pessoal serão fixados por portaria do CEMGFA, que terá a intervenção dos Ministros da Defesa Nacional e das Finanças quando implique encargos que excedam as verbas disponíveis.
+Art. 15.º Os quadros de pessoal serão fixados por portaria do CEMGFA, que terá a intervenção dos Ministros da Defesa Nacional e das Finanças quando implique encargos que excedam as verbas disponíveis.
 
-###### Art. 16.º Para serviço no EMGFA pode ser requisitado ao Exército, à Armada e à Força Aérea pessoal militar ou civil.
+Art. 16.º Para serviço no EMGFA pode ser requisitado ao Exército, à Armada e à Força Aérea pessoal militar ou civil.
 
-###### Art. 17.º Sem prejuízo do disposto na parte final do n.º 2 do artigo 11.º, ficam na dependência do CEMGFA os organismos que dependiam directamente do titular do departamento da Defesa Nacional, com excepção da Cruz Vermelha Portuguesa e da Liga dos Combatentes.
+Art. 17.º Sem prejuízo do disposto na parte final do n.º 2 do artigo 11.º, ficam na dependência do CEMGFA os organismos que dependiam directamente do titular do departamento da Defesa Nacional, com excepção da Cruz Vermelha Portuguesa e da Liga dos Combatentes.
 
-###### Art. 18.º O excesso de encargos decorrentes deste diploma será suportado, no presente ano económico, pelo Orçamento Geral do Estado - Encargos Gerais da Nação, devendo os serviços competentes promover as alterações e os reforços de verba julgados necessários à sua satisfação.
+Art. 18.º O excesso de encargos decorrentes deste diploma será suportado, no presente ano económico, pelo Orçamento Geral do Estado - Encargos Gerais da Nação, devendo os serviços competentes promover as alterações e os reforços de verba julgados necessários à sua satisfação.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Jaime Silvério Marques - Manuel Diogo Neto - Mário Firmino Miguel - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 22 de Agosto de 1974.**
+Promulgado em 22 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais dos Estados e províncias ultramarinas. - A. Almeida Santos.

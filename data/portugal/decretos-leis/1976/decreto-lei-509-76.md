@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15300/14601460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1976-431393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a32f879a8efae2c6c0ec65b7519999dd7dfdabef079cbb9401f657a67f632181
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b64a9f27bb3c3b93a37e00835e0bc037d315439dd9c8a4ed3bae6e26507c5c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Despachante Oficial
+- Quadro de Pessoal
+- Reforma Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:147408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147408:por
+  label: "Revogado pelo DEC LEI.513-F1/79.1979.12.27.MF DR.IS [297]3ºSupl de 27.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-f1-1979-147408
+  date: '1979-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:14Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +109,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Quando se der uma vaga de despachante oficial nos quadros das sedes e delegações das Alfândegas de Lisboa, Porto, Funchal e Ponta Delgada, poderá o director-geral das Alfândegas, sob proposta do director da respectiva Alfândega, nomear para seu preenchimento o ajudante que o solicitar, em requerimento dirigido ao respectivo director, com o apoio da maioria absoluta de todos os trabalhadores ao serviço do despachante que deixou a vaga (ajudantes, praticantes e demais empregados, sem distinção), com dispensa do concurso a que se referem os artigos 440.º e 441.º da Reforma Aduaneira e após cumprimento das restantes formalidades previstas no mesmo diploma.
+Artigo 1.º - 1. Quando se der uma vaga de despachante oficial nos quadros das sedes e delegações das Alfândegas de Lisboa, Porto, Funchal e Ponta Delgada, poderá o director-geral das Alfândegas, sob proposta do director da respectiva Alfândega, nomear para seu preenchimento o ajudante que o solicitar, em requerimento dirigido ao respectivo director, com o apoio da maioria absoluta de todos os trabalhadores ao serviço do despachante que deixou a vaga (ajudantes, praticantes e demais empregados, sem distinção), com dispensa do concurso a que se referem os artigos 440.º e 441.º da Reforma Aduaneira e após cumprimento das restantes formalidades previstas no mesmo diploma.
 
 2. No caso de não ter sido obtido o apoio da maioria absoluta, será escolhido, entre todos os trabalhadores, da mesma forma, o ajudante que venha a reunir maior número de votos por maioria simples.
 
@@ -110,18 +123,18 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 7. Se o requerimento não for apresentado dentro do prazo determinado, serão aplicáveis ao preenchimento da vaga em aberto as disposições da Reforma Aduaneira.
 
-###### Art. 2.º - 1. Se o requerente desistir da sua pretensão ou deixar de apresentar a documentação citada no n.º 3 do artigo anterior dentro do prazo fixado, aplicam-se à vaga em aberto as disposições da Reforma Aduaneira.
+Art. 2.º - 1. Se o requerente desistir da sua pretensão ou deixar de apresentar a documentação citada no n.º 3 do artigo anterior dentro do prazo fixado, aplicam-se à vaga em aberto as disposições da Reforma Aduaneira.
 
 2. O facto de o requerente não tomar posse do lugar por desistência, por não apresentação dos documentos no prazo que lhe foi fixado ou por qualquer outro motivo não o iliba das responsabilidades assumidas nos termos do n.º 2 do artigo 1.º até à data em que a desistência se tornar efectiva.
 
-###### Art. 3.º Ao serviço iniciado em nome do despachante oficial que deixa a vaga será dada continuidade por assinatura do ajudante que habitualmente o substituía nos seus impedimentos, até ser concretizada a nomeação referida no n.º 1 do artigo 1.º
+Art. 3.º Ao serviço iniciado em nome do despachante oficial que deixa a vaga será dada continuidade por assinatura do ajudante que habitualmente o substituía nos seus impedimentos, até ser concretizada a nomeação referida no n.º 1 do artigo 1.º
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação e aplica-se aos casos pendentes ocorridos após a entrada em vigor da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação e aplica-se aos casos pendentes ocorridos após a entrada em vigor da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 23 de Junho de 1976.**
+Promulgado em 23 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13000/16231630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,210 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1982-395722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9b28173655dff3406dd546705ffb5229fd101986eafdf30a6870f2aed0ed24f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7026ac7ce6757ddfe62443633a449ebba0132af46b0c906e5bcd19a150c0205
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Código do Processo Civil
+- Custas Judiciais
+- Processo Civil
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394284:por
+  label: Alterado o art. 6.º pelo(a) Decreto-Lei n.º 288/82 - Diário da República n.º 169/1982, Série I de 1982-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1982-394284
+  date: '1982-07-24'
+- type: amended_by
+  target: pt:dre:376865:por
+  label: "Alterado o artigo 6.º [entrada em vigor] na redacção dada pelo Decreto-Lei n.º 288/82, de 24 de Julho, pelo DEC\
+    \ LEI.454/82.19.11.1982.MJ, DR.IS [268] de 19.11.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/454-1982-376865
+  date: '1982-11-19'
+- type: amended_by
+  target: pt:dre:665685:por
+  label: "Suspenso, até à entrada em vigor do diploma de ratificação que aprovar as respectivas alterações, pela RES.1/83.1983.01.19.AR\
+    \ DR.IS [16]Supl de 20/Jan/1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/1-1983-665685
+  date: '1983-01-19'
+- type: amended_by
+  target: pt:dre:311375:por
+  label: "Alterado o art. 1º (que deu nova redacção a vários artigos do código de processo civil) do presente diploma, alterando\
+    \ de entre esses, os seguintes artigos do citado código aprovado pelo Dec Lei 44129 de 28-Dez 1961 : arts. 26º, 138º,\
+    \ 143º, 144º (este último na redacção dos Dec Lei 47690 de 11-Mai 1967, 323/70 de 11-Jul e 457/80 de 10-Out), 145º (este\
+    \ último na redacção dos Dec Lei 47690 de 11-Mai 1967 e 323/70 de 11-Jul), 152º, 153º, 157º, 159º, 164º, 167º, 274º (este\
+    \ último na redacção do Dec Lei 47690 de 11-Mai 1967) 467º, 484º, 490º (este último na redacção do Dec Lei 47690 de 11-Mai\
+    \ 1967), 510º, 511º, 512º (este último na redacção do Dec Lei 457/80 de 10-Out), 513º, 619º, 652º (na redacção do Dec\
+    \ Lei 47690 de 11-Mai 1967), 653º-A, 678º, 690º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 699º, 702º,\
+    \ 705º, 707º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 712º, 714º, 717º, 728º (este último na redacção\
+    \ do Dec Lei 47690 de 11-Mai 1967), 734º, 735º, 736º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 742º,\
+    \ 743º, 746º, 748º, 752º, 753º, 760º, 762º (este último na redacção do Dec Lei 47690 de 11-Mai 1967), 783º, 786º (este\
+    \ último na redacção do Dec Lei 47690 de 11-Mai 1967), 787º, 793º, 794º (os 2 últimos na redacção do Dec Lei 457/80 de\
+    \ 10-Out), e 972º, uniformiza ainda os prazos previstos no mesmo Código, pela LEI.3/83.26.02.1983.AR, DR.IS [47] de 26.02.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1983-311375
+  date: '1983-02-26'
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterados os artigos 138.º, 144.º, 145º, 151.º, 152º, 157.º, 467.º, 484.º, 490.º, 510.º, 511.º, 512.º, 652º, 678.º,\
+    \ 712.º, 728.º ,734º, 735.º, 736.º, 756.º, 762.º e 792.º, todos do Código de Processo Civil, aprovado pelo Dec Lei 44129\
+    \ de 28-Dez 1961, na redacção do presente diploma pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\01985\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:476742:por
+  label: "Alterado o artigo 144.º do Dec Lei 44129, de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.381-A/85.28.09.1985.MJ,\
+    \ DR.IS [224-Supl] de 28.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-a-1985-476742
+  date: '1985-09-28'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterado o art. 145º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, com a redacção do
+    presente diploma, pelo DEC LEI.92/88.17.03.1988.MJ, DR.IS [64-Supl] de 17.03.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: amended_by
+  target: pt:dre:202420:por
+  label: "Alterados os arts. 705º, 712º e 743º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez 1961, na\
+    \ redacção do presente diploma, pelo DEC LEI.39/95.15.02.1995.MJ, DR.IS-A [39] de 15.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1995-202420
+  date: '1995-02-15'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 26.º, 138.º, 143.º, 144.º, 151.º, 153.º, 159.º, 167.º, 274.º, 484.º, 490.º, 510.º, 511.º, 512.º,\
+    \ 664.º, 678.º, 690.º, 699.º, 702.º, 705.º, 707.º, 712.º, 734.º, 735.º, 742.º, 743.º, 748.º, 752.º, 753.º, 756.º, 760.º,\
+    \ 762.º, 783.º, 786.º, 787.º, 792.º, 793.º e 794.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:214238:por
+  label: "Alterados os arts. 26.º, 138.º, 150.º, 167.º, 274.º, 510.º, 511.º, 512.º, 678.º, 699.º, 712.º, 748.º, 787.º e 792.º,\
+    \ todos do Código de Processo Civil, aprovado pelo Dec 44129 de 28-Dez 1961, na redacção do presente diploma, revisto\
+    \ e republicado pelo Dec Lei 329-A/95 de 12-Dez, pelo DEC LEI.180/96.25.09.1996.MJ, DR.IS-A [223] de 25.09.1996\096\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1996-214238
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:196220:por
+  label: "Alterado o art. 792º do Código do Processo Civil aprovado pelo Dec lei 44129, de 28-Dez 1961, na redacção do presente\
+    \ diploma, pela LEI.3/99.13.01.1999.AR, DR.IS-A [10] de 13.01.1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1999-196220
+  date: '1999-01-13'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterados os arts. 512.º, 712.º e 787.º do Código do Processo Civil aprovado pelo Dec Lei 44129, de 28-Dez 1961,\
+    \ na redacção do presente diploma, pelo DEC LEI.375-A/99.20.09.1999.MJ, DR.IS-A [220-Supl] de 20.09.1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 143.º e 467.º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de 1961, na redacção\
+    \ do presente diploma, pelo DEC LEI.183/2000.10.08.2000.MJ, DR.IS-A [184] de 10.08.2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:315337:por
+  label: "Alterado o art. 150.º do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pela LEI.30-D/2000.20.12.2000.AR, DR.IS-A [292-3.ºSupl]\
+    \ de 20.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-d-2000-315337
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados os arts. 467.º, 512.º e 678.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961,\
+    \ na redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:511825:por
+  label: "Alterado o art. 138.º do Código do Processo Civil (aprovado pelo Dec Lei 44129, de 28-Dez 1961), na redacção do\
+    \ presente diploma, pelo DEC LEI.199/2003.10.09.2003.MJ, DR.IS-A [209] de 10.09.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2003-511825
+  date: '2003-09-10'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 678º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, com a redacção do\
+    \ presente diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados a partir de 01 de Janeiro de 2008, sem prejuízo do diposto nos artigo 11.º, e 12.º, os artigos 143.º,\
+    \ 164.º, 167.º, 467.º, 678.º, 702.º, 707.º, e 712.º, do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de\
+    \ 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art.467º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez\
+    \ de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterados, a partir de 02.01.2009, os artigos 143.º e 467.º do Código de Processo Civil, aprovado pelo Decreto-Lei\
+    \ n.º 44129, de 28 de Dezembro de 1961, na redacção do presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de\
+    \ 28.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterado, a partir 31.03.2009, o art. 467º do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez,\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:613677:por
+  label: "Alterados, a partir de 20.04.2010, os arts. 143º e 144º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º\
+    \ 44129, de 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.35/2010.15.04.2010.MJ, DR.IS [73] de\
+    \ 15.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2010-613677
+  date: '2010-04-15'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394139:por
+  label: Rectificado pela DECL.DD6130.12.07.1982.PCM, DR.IS [166] de 21.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394139
+  date: '1982-07-12'
 article_structure:
-  article_count: 54
+  article_count: 53
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:29Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +274,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código de Processo Civil:
+Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código de Processo Civil:
 
 ###### Artigo 26.º — (...)
 
@@ -544,7 +714,7 @@ d) [Actual alínea e).]
 
 e) [Actual alínea f).]
 
-###### Art. 2.º São alterados pela forma abaixo indicada os seguintes artigos do Código das Custas Judiciais:
+Art. 2.º São alterados pela forma abaixo indicada os seguintes artigos do Código das Custas Judiciais:
 
 ###### Artigo 8.º — (...)
 
@@ -616,7 +786,7 @@ Para os recursos, da notificação da distribuição no tribunal superior.
 
 2 - Nos recursos, o preparo para julgamento pode ser feito juntamente com o preparo inicial, se a parte o desejar efectuar no tribunal de que se recorreu, mas, se não utilizar esta faculdade, nos recursos de apelação, revista e agravo os dois preparos serão satisfeitos simultaneamente no prazo fixado para o preparo inicial.
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto em norma especial expressa do presente diploma, os prazos previstos no Código de Processo Civil e no Código das Custas Judiciais são uniformizados da seguinte forma:
+Art. 3.º - 1 - Sem prejuízo do disposto em norma especial expressa do presente diploma, os prazos previstos no Código de Processo Civil e no Código das Custas Judiciais são uniformizados da seguinte forma:
 
 a) Os prazos de 24 e de 48 horas passam a ser, respectivamente, de 1 e de 2 dias;
 
@@ -636,22 +806,22 @@ f) Os prazos de 22 a 29 dias passam a ser de 30 dias.
 
 4 - Considera-se modificada a redacção dos preceitos que aludem a prazos que são alterados em virtude da uniformização imposta por este artigo.
 
-###### Art. 4.º - 1 - Destinados ao ensaio de novos regimes sobre as leis de processo e de custas e sobre novas técnicas de organização e funcionamento das secretarias judiciais, na 1.ª instância podem ser criados tribunais experimentais ou postos a funcionar em regime de experiência tribunais já constituídos, em condições a estabelecer em portaria do Ministro da Justiça.
+Art. 4.º - 1 - Destinados ao ensaio de novos regimes sobre as leis de processo e de custas e sobre novas técnicas de organização e funcionamento das secretarias judiciais, na 1.ª instância podem ser criados tribunais experimentais ou postos a funcionar em regime de experiência tribunais já constituídos, em condições a estabelecer em portaria do Ministro da Justiça.
 
 2 - Desde que não afectem os direitos das partes nem contrariem as disposições relativas à organização e competência dos tribunais e do Ministério Público e ao estatuto dos respectivos magistrados, no seu funcionamento os tribunais experimentais podem deixar de observar disposições legais que versem sobre as matérias referidas no número anterior.
 
-###### Art. 5.º - 1 - As dúvidas surgidas na aplicação do presente diploma e dos que vierem a ser publicados no âmbito da reforma do Código de Processo Civil, e bem assim os inconvenientes de ordem prática que da sua execução resultem, deverão ser imediatamente comunicadas ao Ministério da Justiça.
+Art. 5.º - 1 - As dúvidas surgidas na aplicação do presente diploma e dos que vierem a ser publicados no âmbito da reforma do Código de Processo Civil, e bem assim os inconvenientes de ordem prática que da sua execução resultem, deverão ser imediatamente comunicadas ao Ministério da Justiça.
 
 2 - Os presidentes dos tribunais superiores devem igualmente comunicar ao Ministério da Justiça as dúvidas de interpretação suscitadas em juízo a propósito de quaisquer leis, quando a sua resolução por via legislativa se revele particularmente necessária.
 
 3 - Até 31 de Dezembro de 1985, sempre que se determine a repetição de um julgamento da matéria de facto nos termos do n.º 1 do artigo 653.º-A do Código de Processo Civil, o juiz que presidir à realização do novo julgamento ordenará logo, nos próprios autos, o envio ao Ministério da Justiça de uma informação sobre se foi necessário ou não usar da faculdade prevista no n.º 2 do mesmo artigo 653.º-A, devendo, em caso afirmativo, a informação ser acompanhada de cópias do acórdão que tenha anulado o julgamento e da nova decisão da 1.ª instância.
 
-###### Art. 6.º O presente diploma entra em vigor no dia 1 do mês imediatamente seguinte ao decurso de 1 mês sobre a data da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia 1 do mês imediatamente seguinte ao decurso de 1 mês sobre a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 17 de Maio de 1982.**
+Promulgado em 17 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

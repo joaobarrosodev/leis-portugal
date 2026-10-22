@@ -48,36 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/19-1983-311456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9de8bc1818fbcc48f42d9c80f585ddd4c1fb5aaa467f0d4bbaef63ee0df6b1b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 795a81fd8bc4576464a9d3e8d01a497d7f7895a9c2ab51ffb2a9ee89f05c8162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Convenção
+- Direitos Aduaneiros
+- Grécia
+- Pauta Aduaneira
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DO PROTOCOLO COMPLEMENTAR AO ACORDO ENTRE A REPUBLICA PORTUGUESA E A COMUNIDADE ECONOMICA EUROPEIA, APROVADO PELO\
+    \ DECRETO 142-A/79, PUBLICADO NO DR.IS, 297, 2SUPL, DE 791227: SUBSTITUIDO O TEXTO DO PARAGRAFO 1 DO ARTIGO 4 DO PROTOCOLO\
+    \ ADICIONAL AO ACORDO ENTRE A REPUBLICA PORTUGUESA E A COMUNIDADE ECONOMICA EUROPEIA, APROVADO PARA RATIFICACAO PELO DECRETO\
+    \ 137/77, DE 760920, PUBLICADO NO DR.IS, 244, DE 771021, NA REDACCAO CONSTANTE DO PRESENTE PROTOCOLO, PELO PROTOCOLO ANEXO\
+    \ AO ACORDO ENTRE A REPUBLICA PORTUGUESA E A COMUNIDADE ECONOMICA EUROPEIA, APROVADO PELO DECRETO 19/83, PUBLICADO NO\
+    \ DR.IS, 49, DE 830301. AUMENTADOS OS VOLUMES DOS CONTINGENTES PAUTAIS, RELATIVAMENTE A CERTOS PRODUTOS, PREVISTOS NO\
+    \ ARTIGO 9, PELO PROTOCOLO ANEXO AO ACORDO ENTRE A REPUBLICA PORTUGUESA E A COMUNIDADE ECONOMICA EUROPEIA, APROVADO PELO\
+    \ DECRETO 19/83, PUBLICADO NO DR.IS, 49, DE 830301. DO PROTOCOLO ADICIONAL AO ACORDO ENTRE A REPUBLICA PORTUGUESA E A\
+    \ COMUNIDADE ECONOMICA EUROPEIA, APROVADO PARA RATIFICACAO PELO DECRETO 137/77, DE 760920, PUBLICADO NO DR.IS, 244, DE\
+    \ 771021. TORNADA A REPUBLICA HELENICA PARTE CONTRATANTE DO PRESENTE PROTOCOLO, ATRAVES DO PROTOCOLO ANEXO AO ACORDO ENTRE\
+    \ A REPUBLICA PORTUGUESA E A COMUNIDADE ECONOMICA EUROPEIA, APROVADO PELO DECRETO 19/83, PUBLICADO NO DR.IS, 49, DE 830301.\
+    \ SUBSTITUIDO O TEXTO DO PARAGRAFO 1 DO ARTIGO 4, PELO PROTOCOLO ANEXO AO ACORDO ENTRE A REPUBLICA PORTUGUESA E A COMUNIDADE\
+    \ ECONOMICA EUROPEIA, APROVADO PELO DECRETO 19/83, PUBLICADO NO DR.IS, 49, DE 830301.R\0 DR.IS, 49, DE 830301.R\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:30Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +111,19 @@ de 1 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo anexo ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia no seguimento da adesão da República Helénica à Comunidade, assinado em Bruxelas em 16 de Março de 1982, cujo texto em português acompanha o presente decreto.
+Artigo único. É aprovado o Protocolo anexo ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia no seguimento da adesão da República Helénica à Comunidade, assinado em Bruxelas em 16 de Março de 1982, cujo texto em português acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - Vasco Luís Caldeira Coelho Futscher Pereira.
 
-**Assinado em 6 de Janeiro de 1983.**
+Assinado em 6 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocolo anexo ao Acordo entra a República Portuguesa e a Comunidade Económica Europeia no seguimento da adesão de República Helénica à Comunidade.
 
-**O Presidente da República Portuguesa, por um lado, e S. M. o Rei dos Belgas, S. M. a Rainha da Dinamarca, o Presidente da República Federal da Alemanha, o Presidente da República Helénica, o Presidente da República Francesa, o Presidente da Irlanda, o Presidente da República Italiana, S. A. R. o Grão-Duque do Luxemburgo, S. M. a Rainha dos Países Baixos, S. M. a Rainha do Reino Unido da Grã-Bretanha e da Irlanda do Norte, cujos Estados são Partes Contratantes do tratado que instituiu a Comunidade Económica Europeia, e o Conselho das Comunidades Europeias, por outro lado:**
+O Presidente da República Portuguesa, por um lado, e S. M. o Rei dos Belgas, S. M. a Rainha da Dinamarca, o Presidente da República Federal da Alemanha, o Presidente da República Helénica, o Presidente da República Francesa, o Presidente da Irlanda, o Presidente da República Italiana, S. A. R. o Grão-Duque do Luxemburgo, S. M. a Rainha dos Países Baixos, S. M. a Rainha do Reino Unido da Grã-Bretanha e da Irlanda do Norte, cujos Estados são Partes Contratantes do tratado que instituiu a Comunidade Económica Europeia, e o Conselho das Comunidades Europeias, por outro lado:
 
 Visto a adesão da República Helénica às Comunidades Europeias em 1 de Janeiro de 1981;
 
@@ -110,7 +133,7 @@ Decidiram de comum acordo fixar as adaptações e as medidas transitórias a int
 
 Designaram para este efeito como plenipotenciários:
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Ernâni Rodrigues Lopes, embaixador extraordinário e plenipotenciário e chefe da Missão de Portugal junto das Comunidades Europeias;
 
@@ -122,23 +145,23 @@ S. M. a Rainha da Dinamarca:
 
 Gunnar Riberholdt, embaixador extraordinário e plenipotenciário e representante permanente junto das Comunidades Europeias;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Gisbert Poensgen, embaixador extraordinário e plenipotenciário e representante permanente junto das Comunidades Europeias;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Marcos Economides, embaixador extraordinário e plenipotenciário e representante permanente junto das Comunidades Europeias;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Jacques Leprette, embaixador e representante permanente junto das Comunidades Europeias;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Andrew O'Rourke, embaixador extraordinário e plenipotenciário e representante permanente junto das Comunidades Europeias;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Renato Ruggiero, embaixador e representante permanente junto das Comunidades Europeias;
 
@@ -184,7 +207,7 @@ O texto do Acordo, compreendendo os anexos e protocolos que do mesmo fazem parte
 
 1 - No período compreendido entre 1 de Janeiro de 1980 e 31 de Dezembro de 1983 os produtos a seguir indicados, originários de Portugal, são sujeitos, aquando da importação na Comunidade na sua composição originária, na Grécia e na Irlanda, a plafonds anuais com isenção de direitos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf))](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
 
 Quando o plafond fixado para a importação de um produto for atingido, a Comunidade pode restabelecer a cobrança dos direitos residuais para o produto em causa até ao fim do ano civil em curso.
 
@@ -198,7 +221,7 @@ Quando o plafond fixado para a importação de um produto for atingido, a Comuni
 
 1 - Os volumes dos contingentes pautais comunitários previstos no artigo 9 do Protocolo Complementar ao Acordo são aumentados relativamente aos produtos abaixo indicados para:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf))](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
 
 2 - No âmbito destes contingentes pautais comunitários, a Grécia aplica os direitos calculados em conformidade com o artigo 13 do presente Protocolo.
 
@@ -354,16 +377,16 @@ O presente Protocolo é redigido, em exemplar duplo, nas línguas portuguesa, al
 
 Em fé do que os plenipotenciários abaixo mencionados assinaram o presente Protocolo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf))](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
 
 ## ANEXO I — Lista prevista no artigo 6 do Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf))](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
 
 ## ANEXO II — Lista prevista no artigo 9 do Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf))](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
 
 ## ANEXO III — Lista prevista no artigo 14 do Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf))](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/04900/07220737.pdf)

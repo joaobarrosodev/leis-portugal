@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46365-1965-294358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77065644ebb8e2ac03c2407d002f852bab8d419c8116fd68eb080a05b4666ad2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2365d28afebb0e094b0abdd11931363b07d193627203915eeabed2f074696e4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Ministério das Finanças
+- Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:220912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:630412:por
+  label: "Repristinado o art. 13º pelo DEC LEI.467/83.31.12.1983.PCM, DR.IS [301-9ºSupl] de 31.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/467-1983-630412
+  date: '1983-12-31'
+- type: cites
+  target: pt:dre:164461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367263:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 446/80, PUBLICADO NO DR.IS, 231, DE 801006. REVOGADO O ARTIGO 13 PELO DECRETO LEI 219/83,\
+    \ PUBLICADO NO DR.IS, 121, DE 830526.\0 830526.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:462205:por
+  label: "Revogado pelo DEC LEI.446/80.1980.10.06.PCM, DR.IS [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/446-1980-462205
+  date: '1980-10-06'
+- type: repealed_by
+  target: pt:dre:451826:por
+  label: "Revogado o art. 13º, pelo DEC LEI.219/83.1983.05.26.MFP, DR.IS [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1983-451826
+  date: '1983-05-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:32Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +133,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Secretaria-Geral do Ministério das Finanças, constituída conforme o quadro anexo a este decreto-lei.
+Artigo 1.º É criada a Secretaria-Geral do Ministério das Finanças, constituída conforme o quadro anexo a este decreto-lei.
 
-###### Art. 2.º Sem prejuízo de outras atribuições que lhe forem conferidas por lei ou determinação superior, incumbe à Secretaria-Geral do Ministério das Finanças:
+Art. 2.º Sem prejuízo de outras atribuições que lhe forem conferidas por lei ou determinação superior, incumbe à Secretaria-Geral do Ministério das Finanças:
 
 1) Assegurar, quando superiormente determinado, o expediente dos Gabinetes do Ministro e dos Subsecretários de Estado;
 
@@ -128,11 +165,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 14) Cuidar do expediente relativo às requisições dos telefones do Ministério.
 
-###### Art. 3.º O cargo de secretário-geral será exercido por um dos directores-gerais do Ministério, designado por despacho do Ministro das Finanças.
+Art. 3.º O cargo de secretário-geral será exercido por um dos directores-gerais do Ministério, designado por despacho do Ministro das Finanças.
 
 § único. Na falta ou impedimento do secretário-geral, a sua substituição recairá no director-geral designado pelo Ministro.
 
-###### Art. 4.º Além das atribuições que lhe forem cometidas por lei ou determinação superior, compete ao secretário-geral:
+Art. 4.º Além das atribuições que lhe forem cometidas por lei ou determinação superior, compete ao secretário-geral:
 
 1) Representar o Ministério das Finanças em todos os actos e contratos em que essa representação seja necessária, se o Ministro não determinar o contrário;
 
@@ -148,23 +185,23 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 7) Corresponder-se directamente com as direcções-gerais e organismos equiparados de todos os Ministérios, com quaisquer repartições ou serviços autónomos, com todas as autoridades civis, judiciais e militares, com os corpos administrativos e pessoas colectivas de utilidade pública administrativa e, fora do território nacional, com todas as autoridades e entidades oficiais e particulares, em todos os assuntos da sua competência.
 
-###### Art. 5.º O pessoal do quadro da Secretaria-Geral que não deva ser contratado será nomeado por livre escolha do Ministro das Finanças entre funcionários dos serviços do Ministério.
+Art. 5.º O pessoal do quadro da Secretaria-Geral que não deva ser contratado será nomeado por livre escolha do Ministro das Finanças entre funcionários dos serviços do Ministério.
 
 § único. Os funcionários nomeados poderão exercer as suas funções em regime de requisição, abrindo vaga nos quadros a que pertençam, sem prejuízo dos seus direitos quanto aos concursos que se abram no mesmo quadro.
 
-###### Art. 6.º Os servidores que se encontrem colocados no quadro do pessoal da Secretaria-Geral, mesmo em regime de requisição, poderão ser opositores aos concursos de provimento e promoção que se abram nos serviços dependentes do Ministério das Finanças, desde que contem, pelo menos, três anos de bom e efectivo serviço na categoria que possuam.
+Art. 6.º Os servidores que se encontrem colocados no quadro do pessoal da Secretaria-Geral, mesmo em regime de requisição, poderão ser opositores aos concursos de provimento e promoção que se abram nos serviços dependentes do Ministério das Finanças, desde que contem, pelo menos, três anos de bom e efectivo serviço na categoria que possuam.
 
-###### Art. 7.º Será contratado o pessoal do serviço telefónico e o pessoal menor.
+Art. 7.º Será contratado o pessoal do serviço telefónico e o pessoal menor.
 
-###### Art. 8.º Será assalariado e pago por dotação global o pessoal necessário à conservação dos jardins, ao serviço das caldeiras de aquecimento do edifício, à guarda e condução dos elevadores e a outros trabalhos de idêntica natureza.
+Art. 8.º Será assalariado e pago por dotação global o pessoal necessário à conservação dos jardins, ao serviço das caldeiras de aquecimento do edifício, à guarda e condução dos elevadores e a outros trabalhos de idêntica natureza.
 
-###### Art. 9.º A Secretaria-Geral será subdividida em duas secções:
+Art. 9.º A Secretaria-Geral será subdividida em duas secções:
 
 A 1.ª Secção (do expediente geral) compreenderá o registo da correspondência, o processamento das despesas, as garantias bancárias, as relações com a junta médica e com a auditoria jurídica e a execução de outros serviços determinados pelo secretário-geral;
 
 A 2.ª Secção (dos serviços especializados) compreenderá os concursos, os contratos, os empréstimos, a administração do edifício, o serviço telefónico e a execução de outros serviços determinados pelo secretário-geral.
 
-###### Art. 10.º Compete aos chefes de secção:
+Art. 10.º Compete aos chefes de secção:
 
 1) Coadjuvar o secretário-geral, conforme as indicações que dele receberem;
 
@@ -182,9 +219,9 @@ A 2.ª Secção (dos serviços especializados) compreenderá os concursos, os co
 
 8) Velar pela disciplina do pessoal, prestando periòdicamente ao secretário-geral informação escrita acerca do seu comportamento geral.
 
-###### Art. 11.º Aos primeiros, segundos e terceiros-oficiais e ao pessoal auxiliar cumpre executar os serviços de harmonia com a orientação definida pelos seus superiores.
+Art. 11.º Aos primeiros, segundos e terceiros-oficiais e ao pessoal auxiliar cumpre executar os serviços de harmonia com a orientação definida pelos seus superiores.
 
-###### Art. 12.º Compete ao fiel do Ministério:
+Art. 12.º Compete ao fiel do Ministério:
 
 1) Velar pela conservação e segurança do edifício sede do Ministério das Finanças e do mobiliário e qualquer outro material afecto à Secretaria-Geral, organizando e mantendo actualizado o seu cadastro;
 
@@ -198,15 +235,15 @@ A 2.ª Secção (dos serviços especializados) compreenderá os concursos, os co
 
 6) Ter à sua guarda o livro de ponto do pessoal referido no número anterior, entregando mensalmente a nota de assiduidade aos chefes das secções.
 
-###### Art. 13.º Os médicos a que se refere o artigo 18.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931, não são considerados funcionários públicos, são nomeados livremente pelo Ministro das Finanças e exercem as suas funções, de acordo com o estabelecido nos artigos 19.º a 23.º do indicado diploma, em comissão de serviço removível, competindo-lhes as remunerações que forem fixadas anualmente por despacho do Ministro das Finanças, apenas sujeitos ao pagamento do imposto do selo.
+Art. 13.º Os médicos a que se refere o artigo 18.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931, não são considerados funcionários públicos, são nomeados livremente pelo Ministro das Finanças e exercem as suas funções, de acordo com o estabelecido nos artigos 19.º a 23.º do indicado diploma, em comissão de serviço removível, competindo-lhes as remunerações que forem fixadas anualmente por despacho do Ministro das Finanças, apenas sujeitos ao pagamento do imposto do selo.
 
-###### Art. 14.º O pessoal do serviço telefónico deverá ter as habilitações necessárias para o bom desempenho das suas funções.
+Art. 14.º O pessoal do serviço telefónico deverá ter as habilitações necessárias para o bom desempenho das suas funções.
 
-###### Art. 15.º O serviço telefónico é considerado permanente, pelo que, fora das horas regulamentares, será feito por turnos e remunerado extraordinàriamente.
+Art. 15.º O serviço telefónico é considerado permanente, pelo que, fora das horas regulamentares, será feito por turnos e remunerado extraordinàriamente.
 
-###### Art. 16.º Cumpre ao pessoal menor desempenhar-se das tarefas de que for incumbido pelo pessoal superior.
+Art. 16.º Cumpre ao pessoal menor desempenhar-se das tarefas de que for incumbido pelo pessoal superior.
 
-###### Art. 17.º Sem dependência de quaisquer formalidades, incluindo o visto do Tribunal de Contas e o auto de posse, transitam para o quadro da Secretaria-Geral o pessoal do serviço telefónico e os actuais titulares dos seguintes lugares a eliminar do quadro da Direcção-Geral da Fazenda Pública:
+Art. 17.º Sem dependência de quaisquer formalidades, incluindo o visto do Tribunal de Contas e o auto de posse, transitam para o quadro da Secretaria-Geral o pessoal do serviço telefónico e os actuais titulares dos seguintes lugares a eliminar do quadro da Direcção-Geral da Fazenda Pública:
 
 1 fiel.
 
@@ -218,13 +255,13 @@ A 2.ª Secção (dos serviços especializados) compreenderá os concursos, os co
 
 § único. O fiel e os guarda-portões irão ocupar, respectivamente, os novos lugares de fiel do Ministério e de porteiros de 1.ª classe.
 
-###### Art. 18.º O primeiro provimento para preenchimento dos lugares do quadro da Secretaria-Geral, que faz parte integrante deste decreto-lei, exceptuados os referidos no artigo anterior, será feito, sob proposta do secretário-geral, mediante simples despacho do Ministro das Finanças e não carece de visto, mas será inserta no Diário do Governo uma relação dos seus nomes e categorias para a devida anotação no Tribunal de Contas.
+Art. 18.º O primeiro provimento para preenchimento dos lugares do quadro da Secretaria-Geral, que faz parte integrante deste decreto-lei, exceptuados os referidos no artigo anterior, será feito, sob proposta do secretário-geral, mediante simples despacho do Ministro das Finanças e não carece de visto, mas será inserta no Diário do Governo uma relação dos seus nomes e categorias para a devida anotação no Tribunal de Contas.
 
 § único. O provimento dos lugares a que se refere este artigo poderá ser feito sob o regime de requisição a qualquer serviço do Estado, nos termos do § único do antigo 5.º
 
-###### Art. 19.º À medida que ocorra a sua vacatura no quadro da Secretaria-Geral, serão eliminados os lugares de auxiliar de limpeza.
+Art. 19.º À medida que ocorra a sua vacatura no quadro da Secretaria-Geral, serão eliminados os lugares de auxiliar de limpeza.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

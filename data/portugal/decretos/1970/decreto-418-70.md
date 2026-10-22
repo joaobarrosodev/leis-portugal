@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/418-1970-148818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 700c91bf12b7a6877582ebac8a94e22a61ad515f19214bec99cbf464a7ecba4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea1a0d4c5e6b1c34239e1cdbc5065762dfbdc4624b4d5011038b1f82b4136087
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:59Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +104,13 @@ Por motivo de urgência:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Salvo o caso previsto no artigo único do [Decreto n.º 47950](https://diariodarepublica.pt/dr/detalhe/decreto/47950-1967-391185), de 19 de Setembro de 1967, as disposições do artigo 2.º do [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942, e do artigo 1.º do [Decreto n.º 47766](https://diariodarepublica.pt/dr/detalhe/decreto/47766-1967-312014), de 24 de Junho de 1967, deverão entender-se no sentido de ser sempre devida a cobrança da taxa dos emolumentos gerais aduaneiros, excepto quando a sua isenção conste de expressa disposição de lei.
+Artigo único. Salvo o caso previsto no artigo único do [Decreto n.º 47950](https://diariodarepublica.pt/dr/detalhe/decreto/47950-1967-391185), de 19 de Setembro de 1967, as disposições do artigo 2.º do [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942, e do artigo 1.º do [Decreto n.º 47766](https://diariodarepublica.pt/dr/detalhe/decreto/47766-1967-312014), de 24 de Junho de 1967, deverão entender-se no sentido de ser sempre devida a cobrança da taxa dos emolumentos gerais aduaneiros, excepto quando a sua isenção conste de expressa disposição de lei.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Agosto de 1970.**
+Promulgado em 14 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 1 de Setembro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

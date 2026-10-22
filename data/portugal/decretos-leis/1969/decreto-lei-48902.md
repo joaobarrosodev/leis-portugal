@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48902-1969-525213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 557649185d437d032aa25ccf24066d4b789fddf19885b2e76c85b6f0f5740509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df6b24c523c93b7cd6d760549f5a365ed52dfdd346ee3494259e59cca9bcfe1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Lisboa
+- Ministro das Comunicações
+- Orgânica
+- Regime de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:139694:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139694:por
+  label: Determinada a extinção, na data de entrada em funcionamento da Direcção-Geral da Aviação Civil (DGAC) e da empresa
+    pública Aeroportos e Navegação Aérea (ANA), do Gabinete do Novo Aeroporto de Lisboa (GNAL), criado pelo presente diploma,
+    pelo DEC LEI.122/77.31.03.1977.MTC, DR.IS [76] de 31.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1977-139694
+  date: '1977-03-31'
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:42Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +135,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado no Ministério das Comunicações, com carácter eventual, o Gabinete do Novo Aeroporto de Lisboa, com personalidade jurídica e autonomia administrativa.
+Artigo 1.º É criado no Ministério das Comunicações, com carácter eventual, o Gabinete do Novo Aeroporto de Lisboa, com personalidade jurídica e autonomia administrativa.
 
-###### Art. 2.º O Gabinete do Novo Aeroporto de Lisboa tem por fim empreender, promover e coordenar toda a actividade relacionada com a construção do novo Aeroporto de Lisboa.
+Art. 2.º O Gabinete do Novo Aeroporto de Lisboa tem por fim empreender, promover e coordenar toda a actividade relacionada com a construção do novo Aeroporto de Lisboa.
 
-###### Art. 3.º Para consecução do disposto no artigo anterior compete, em especial, ao Gabinete:
+Art. 3.º Para consecução do disposto no artigo anterior compete, em especial, ao Gabinete:
 
 a) Promover a elaboração de todos os estudos necessários à realização da obra ou com ela relacionados e que sejam da competência do Governo;
 
@@ -131,17 +157,17 @@ g) Promover o pagamento das despesas;
 
 h) Promover o estudo do regime de exploração do conjunto do empreendimento, uma vez concluído, devendo apresentar o respectivo relatório, pelo menos, seis meses antes de aquele estar em condições de entrar em serviço.
 
-###### Art. 4.º - 1. O Gabinete do Novo Aeroporto de Lisboa, que ficará na dependência directa do Ministro das Comunicações, será constituído por um director, um subdirector e um secretário e disporá do pessoal técnico e administrativo necessário ao desempenho das atribuições que lhe competem.
+Art. 4.º - 1. O Gabinete do Novo Aeroporto de Lisboa, que ficará na dependência directa do Ministro das Comunicações, será constituído por um director, um subdirector e um secretário e disporá do pessoal técnico e administrativo necessário ao desempenho das atribuições que lhe competem.
 
 2. O director, o subdirector e o secretário constituirão o conselho administrativo do Gabinete.
 
-###### Art. 5.º - 1. O director e o subdirector serão engenheiros civis nomeados, por livre escolha do Ministro das Comunicações, de entre especialistas de reconhecida competência pertencentes ou não aos quadros do Ministério e poderão exercer as suas funções em regime de comissão de serviço. O director poderá exercer essa função em acumulação com outro cargo ou cargos que esteja desempenhando, se for julgado conveniente.
+Art. 5.º - 1. O director e o subdirector serão engenheiros civis nomeados, por livre escolha do Ministro das Comunicações, de entre especialistas de reconhecida competência pertencentes ou não aos quadros do Ministério e poderão exercer as suas funções em regime de comissão de serviço. O director poderá exercer essa função em acumulação com outro cargo ou cargos que esteja desempenhando, se for julgado conveniente.
 
 2. O subdirector substituirá o director do Gabinete nas suas faltas e impedimentos.
 
 3. O secretário, nomeado pelo Ministro das Comunicações, com prévio acordo do Ministro das Finanças, poderá ser destacado, em comissão de serviço, de qualquer departamento dos quadros do Estado, competindo-lhe superintender nos serviços administrativos e de expediente do Gabinete e coordenar os estudos dos problemas de carácter financeiro.
 
-###### Art. 6.º - 1. O Gabinete será assistido por um conselho técnico consultivo com a seguinte composição:
+Art. 6.º - 1. O Gabinete será assistido por um conselho técnico consultivo com a seguinte composição:
 
 a) O director-geral da Aeronáutica Civil;
 
@@ -153,23 +179,23 @@ c) Representantes das entidades interessadas e especialistas de reconhecida comp
 
 3. Os membros do conselho técnico consultivo referidos nas alíneas b) e c) do n.º 1 e no n.º 2 serão nomeados pelo Ministro das Comunicações, com prévia autorização do Ministério de que dependam.
 
-###### Art. 7.º - 1. O conselho técnico consultivo reunirá em sessões plenárias por determinação do Ministro ou a solicitação do director do Gabinete do Novo Aeroporto de Lisboa, sempre que este o julgue necessário.
+Art. 7.º - 1. O conselho técnico consultivo reunirá em sessões plenárias por determinação do Ministro ou a solicitação do director do Gabinete do Novo Aeroporto de Lisboa, sempre que este o julgue necessário.
 
 2. O director-geral da Aeronáutica Civil presidirá às sessões plenárias do conselho técnico consultivo.
 
 3. Os membros do conselho técnico consultivo prestarão, individualmente, a assistência técnica que lhes for pedida pelo director do Gabinete, dentro das respectivas especialidades.
 
-###### Art. 8.º O pessoal técnico, administrativo, especializado e menor necessário ao funcionamento do Gabinete poderá ser nomeado em comissão de serviço, contratado ou assalariado.
+Art. 8.º O pessoal técnico, administrativo, especializado e menor necessário ao funcionamento do Gabinete poderá ser nomeado em comissão de serviço, contratado ou assalariado.
 
-###### Art. 9.º O pessoal dos quadros do Estado que for colocado no Gabinete do Novo Aeroporto de Lisboa será considerado em comissão de serviço pelo tempo fixado pelo Ministro das Comunicações, podendo as respectivas vagas ser preenchidas, interinamente, nas categorias e classes respectivas. A nomeação deverá ser prèviamente autorizada pelo Ministério de que dependam os funcionários, os quais regressarão aos seus lugares logo que seja dada por finda a comissão.
+Art. 9.º O pessoal dos quadros do Estado que for colocado no Gabinete do Novo Aeroporto de Lisboa será considerado em comissão de serviço pelo tempo fixado pelo Ministro das Comunicações, podendo as respectivas vagas ser preenchidas, interinamente, nas categorias e classes respectivas. A nomeação deverá ser prèviamente autorizada pelo Ministério de que dependam os funcionários, os quais regressarão aos seus lugares logo que seja dada por finda a comissão.
 
-###### Art. 10.º - 1. Os vencimentos ou gratificações dos membros do Gabinete e do conselho técnico consultivo e do pessoal em comissão de serviço serão fixados por despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças.
+Art. 10.º - 1. Os vencimentos ou gratificações dos membros do Gabinete e do conselho técnico consultivo e do pessoal em comissão de serviço serão fixados por despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
 2. As gratificações são acumuláveis com as remunerações que os nomeados recebam pelo exercício de outras funções e não serão consideradas para efeitos do limite legal da remuneração de funções públicas.
 
 3. Ao director do Gabinete do Novo Aeroporto de Lisboa poderão ser concedidos abonos para despesas de representação, nos termos e nos quantitativos definidos em despacho conjunto dos Ministros das Finanças e das Comunicações.
 
-###### Art. 11.º - 1. O pessoal contratado ou assalariado ao abrigo do artigo 8.º sê-lo-á nos termos e com as remunerações aprovados pelo Ministro das Comunicações.
+Art. 11.º - 1. O pessoal contratado ou assalariado ao abrigo do artigo 8.º sê-lo-á nos termos e com as remunerações aprovados pelo Ministro das Comunicações.
 
 2. Sempre que as remunerações, por circunstâncias especiais, se tenham de afastar das estabelecidas na lei geral, será necessário o acordo do Ministro das Finanças.
 
@@ -179,23 +205,23 @@ c) Representantes das entidades interessadas e especialistas de reconhecida comp
 
 5. No caso dos n.os 3 e 4, o tempo de serviço prestado sem interrupção até ao ingresso no quadro da Direcção-Geral da Aeronáutica Civil contar-se-á, para todos os efeitos legais, como serviço prestado no lugar em que for feito o provimento.
 
-###### Art. 12.º Ao pessoal abrangido pelos n.os 3 e 4 do artigo 11.º é facultada a inscrição na Caixa Geral de Aposentações a partir do ingresso no Gabinete do Novo Aeroporto de Lisboa e ser-lhe-á levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto nos §§ 1.º e 2.º do artigo 12.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no § único do artigo 11.º do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+Art. 12.º Ao pessoal abrangido pelos n.os 3 e 4 do artigo 11.º é facultada a inscrição na Caixa Geral de Aposentações a partir do ingresso no Gabinete do Novo Aeroporto de Lisboa e ser-lhe-á levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto nos §§ 1.º e 2.º do artigo 12.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no § único do artigo 11.º do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
 
-###### Art. 13.º Quando o julgue conveniente, poderá o Ministro das Comunicações autorizar a elaboração de estudos ou projectos em regime de prestação de serviço, sendo as respectivas remunerações fixadas por despacho ministerial.
+Art. 13.º Quando o julgue conveniente, poderá o Ministro das Comunicações autorizar a elaboração de estudos ou projectos em regime de prestação de serviço, sendo as respectivas remunerações fixadas por despacho ministerial.
 
-###### Art. 14.º - 1. O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração dos projectos ou exercerem funções de fiscalização durante as fases de estudo e execução do empreendimento.
+Art. 14.º - 1. O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração dos projectos ou exercerem funções de fiscalização durante as fases de estudo e execução do empreendimento.
 
 2. As remunerações ou ajudas de custo a atribuir aos membros das missões a que se refere o n.º 1 serão fixadas por despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
-###### Art. 15.º - 1. Quando qualquer membro do Gabinete houver de ausentar-se em serviço do Gabinete do Novo Aeroporto de Lisboa, considerar-se-á em missão de serviço público para todos os efeitos legais, designadamente quanto à justificação das faltas.
+Art. 15.º - 1. Quando qualquer membro do Gabinete houver de ausentar-se em serviço do Gabinete do Novo Aeroporto de Lisboa, considerar-se-á em missão de serviço público para todos os efeitos legais, designadamente quanto à justificação das faltas.
 
 2. A deslocação deverá, no entanto, ser prèviamente autorizada pelo Ministro das Comunicações, ouvido o Ministério de que dependa o funcionário.
 
-###### Art. 16.º - 1. As despesas a efectuar pelo Gabinete do Novo Aeroporto de Lisboa classificam-se em dois grupos: despesas sujeitas ao cumprimento das formalidades prescritas na lei geral; despesas que serão dispensadas de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
+Art. 16.º - 1. As despesas a efectuar pelo Gabinete do Novo Aeroporto de Lisboa classificam-se em dois grupos: despesas sujeitas ao cumprimento das formalidades prescritas na lei geral; despesas que serão dispensadas de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
 
 2. A classificação anual das despesas constantes do orçamento privativo nos grupos mencionados no n.º 1 deste artigo é da competência do Ministro das Comunicações, com o acordo do Ministro das Finanças, sob proposta do director do Gabinete.
 
-###### Art. 17.º - 1. As despesas de funcionamento do Gabinete, seja qual for a sua natureza, serão suportadas por verbas especialmente inscritas no orçamento da despesa extraordinária do Ministério das Comunicações e pelas comparticipações de outras origens que forem atribuídas para aquele fim, designadamente as verbas dos orçamentos da Direcção-Geral da Aeronáutica Civil e do Aeroporto de Lisboa consignadas para estudos.
+Art. 17.º - 1. As despesas de funcionamento do Gabinete, seja qual for a sua natureza, serão suportadas por verbas especialmente inscritas no orçamento da despesa extraordinária do Ministério das Comunicações e pelas comparticipações de outras origens que forem atribuídas para aquele fim, designadamente as verbas dos orçamentos da Direcção-Geral da Aeronáutica Civil e do Aeroporto de Lisboa consignadas para estudos.
 
 2. Mediante processo de alteração do orçamento vigente, transitarão para o Gabinete no presente ano económico a verba de 1500000$00 inscrita para estudos no orçamento da despesa extraordinária da Direcção-Geral da Aeronáutica Civil e igual importância do orçamento privativo do Aeroporto de Lisboa consignada a idêntico fim.
 
@@ -205,19 +231,19 @@ c) Representantes das entidades interessadas e especialistas de reconhecida comp
 
 5. As importâncias referidas no número anterior serão depositadas à ordem do Gabinete na Caixa Geral de Depósitos, Crédito e Previdência, devendo a respectiva conta ser movimentada por meio de cheques, que terão, obrigatòriamente, as assinaturas do director e do secretário ou, em caso de impedimento, dos seus substitutos.
 
-###### Art. 18.º O Gabinete prestará anualmente contas da sua gerência ao Tribunal de Contas.
+Art. 18.º O Gabinete prestará anualmente contas da sua gerência ao Tribunal de Contas.
 
-###### Art. 19.º São declaradas de utilidade pública urgente as expropriações necessárias para a construção do Aeroporto e das instalações a ele adstritas, bem como para a urbanização das suas áreas envolventes, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Comunicações.
+Art. 19.º São declaradas de utilidade pública urgente as expropriações necessárias para a construção do Aeroporto e das instalações a ele adstritas, bem como para a urbanização das suas áreas envolventes, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Comunicações.
 
-###### Art. 20.º Mediante despacho do Ministro das Comunicações, sob proposta fundamentada do Gabinete, poderão a este ser atribuídas as viaturas automóveis ligeiras indispensáveis ao exercício das atribuições de estudo e fiscalização da obra pelo pessoal técnico.
+Art. 20.º Mediante despacho do Ministro das Comunicações, sob proposta fundamentada do Gabinete, poderão a este ser atribuídas as viaturas automóveis ligeiras indispensáveis ao exercício das atribuições de estudo e fiscalização da obra pelo pessoal técnico.
 
-###### Art. 21.º O Ministro das Comunicações aprovará, por portaria, o regulamento do Gabinete.
+Art. 21.º O Ministro das Comunicações aprovará, por portaria, o regulamento do Gabinete.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Estêvão Abranches Couceiro do Canto Moniz.
 
-**Promulgado em 26 de Fevereiro de 1969.**
+Promulgado em 26 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

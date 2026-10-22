@@ -47,40 +47,131 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1970-148422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4e00d6a3d50e495d101002f954c42b1c28f603ad85a934b70b71085c29e5edf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc8a7cf1f1531599ca55388c424ccb094388221c1e6b2395020b309bf8e69c3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Circulação de Mercadorias
+- Contencioso Aduaneiro
+- Definição de Competências
+- Direcção Geral de Segurança
+- Exportação
+- Fiscalização
+- Orgânica
+- Pauta Aduaneira
+- Polícia Judiciária
+- Posto Fiscal
+- Reforma Aduaneira
+- Regulamento das Alfândegas
 relationships:
 - type: amended_by
   target: pt:dre:498333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:685185:por
+  label: "Alterados os arts. 2º, 11º e 12º da tabela II anexa à Reforma Aduaneira, aprovada pelo Dec Lei 46311 de 27-Abr de\
+    \ 1965, com a redacção constante do presente diploma, pelo DEC LEI.500/72.09.12.1972.MF, DG.IS [285] de 09.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/500-1972-685185
+  date: '1972-12-09'
+- type: amended_by
+  target: pt:dre:475687:por
+  label: "Dada nova redacção ao § 4º do art. 213º e eliminado o § 2º do mesmo art. da refoma aduaneira, aprovada pelo Dec\
+    \ Lei 46311 de 27-Abr de 1965, com a redacção conferida neste diploma, pelo DEC LEI.373/74.20.08.1974.MF, DG.IS [193]\
+    \ de 20.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1974-475687
+  date: '1974-08-20'
+- type: amended_by
+  target: pt:dre:161094:por
+  label: "Alterados os §§ 2º e 3º e eliminados os §§ 1º e 4º do art. 195º da Reforma Aduaneira, aprovada pelo Dec Lei 46311,\
+    \ de 27-Abr 1965, na redacção do presente diploma, pelo DEC LEI.133/75.15.03.1975.MF, DG.IS [63] de 15.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1975-161094
+  date: '1975-03-15'
+- type: amended_by
+  target: pt:dre:426897:por
+  label: "Alterado o art. 95º da Reforma Aduaneira aprovada pelo Dec Lei 46311 de 27-Abr de 1965, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.411/76.27.05.1976.MF, DR.IS [124] de 27.05.1976\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1976-426897
+  date: '1976-05-27'
+- type: amended_by
+  target: pt:dre:253383:por
+  label: "Eliminado o § único do art. 17º e alterado o art. 119º da Reforma Aduaneira aprovada pelo Dec Lei 46311 de 27-Abr\
+    \ de 1965, com a redacção conferida no presente diploma, pelo DEC LEI.251/77.15.06.1977.MF, DR.IS [136] de 15.06.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1977-253383
+  date: '1977-06-15'
+- type: amended_by
+  target: pt:dre:250622:por
+  label: "Dada nova redacção ao art. 216º da Reforma Aduaneira, aprovada pelo dec Lei 46311 de 27-Abr de 1965, com a redacção\
+    \ conferida no presente diploma, pelo DEC LEI.287/77.13.07.1977.MF, DR.IS [160] de 13.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1977-250622
+  date: '1977-07-13'
+- type: amended_by
+  target: pt:dre:382833:por
+  label: "Alterado o n.º 1º do artigo 217.º do Decreto-Lei 46311, de 27 de Abril de 1965, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/79.04.05.1979.MFP, DR.IS [102] de 04.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1979-382833
+  date: '1979-05-04'
+- type: amended_by
+  target: pt:dre:498333:por
+  label: "Alterado o art. 691º do Dec 31730, de 15-Dez 1941, na redacção do presente diploma, pelo DEC LEI.35/91.18.01.1991.MF,\
+    \ DR.IS-A [15] de 18.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1991-498333
+  date: '1991-01-18'
+- type: cites
+  target: pt:dre:142369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:25Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +200,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 48.º, 49.º, 52.º, 54.º, 61.º, 73.º, 94.º, 95.º, 96.º, 115.º, 117.º, 119.º, 194.º, 195.º, 196.º, 197.º, 203.º, 206.º, 210.º, 212.º, 213.º, 216.º, 217.º, 220.º, 222.º, 243.º, 280.º, 281.º, 282.º, 283.º, 284.º, 285.º, 320.º, 353.º, 355.º, 390.º, 392.º, 393.º, 400.º e 526.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 48.º, 49.º, 52.º, 54.º, 61.º, 73.º, 94.º, 95.º, 96.º, 115.º, 117.º, 119.º, 194.º, 195.º, 196.º, 197.º, 203.º, 206.º, 210.º, 212.º, 213.º, 216.º, 217.º, 220.º, 222.º, 243.º, 280.º, 281.º, 282.º, 283.º, 284.º, 285.º, 320.º, 353.º, 355.º, 390.º, 392.º, 393.º, 400.º e 526.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 ...
 
@@ -125,7 +216,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. O Ministro das Finanças exercerá as atribuições que lhe são conferidas por este artigo, mediante simples decreto, portaria, regulamento, despacho, instrução ou acto do Governo, devendo todavia, ser exercidas: pelo diploma fixado na lei geral, as do n.º 2.º; por decreto, as dos n.os 6.º, quando for ouvido o Conselho Superior Aduaneiro, 7.º, 8.º, com excepção da concessão de draubaque, 10.º e 11.º; por portaria, as dos n.os 3.º, 5.º e 6.º, quando for ouvida a Comissão Revisora das Pautas, 8.º, no que se refere à concessão de draubaques, 12.º, 13.º, 15.º e 16.º; e por despacho, as dos n.os 1.º, 4.º, 9.º e 14.º
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 ...
 
@@ -133,7 +224,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 49.º Haverá quatro alfândegas, com sede em Lisboa, Porto, Funchal e Ponta Delgada, designadas pelo nome da localidade das respectivas sedes.
+Art. 49.º Haverá quatro alfândegas, com sede em Lisboa, Porto, Funchal e Ponta Delgada, designadas pelo nome da localidade das respectivas sedes.
 
 § único. ...
 
@@ -141,7 +232,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Para as Alfândegas do Funchal e Ponta Delgada, pelos arquipélagos da Madeira e dos Açores, respectivamente.
 
-###### Art. 52.º ...
+Art. 52.º ...
 
 ...
 
@@ -149,13 +240,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 54.º Às sedes das Alfândegas do Funchal e Ponta Delgada incumbem todas as atribuições designadas nos vários números do artigo antecedente, com excepção do despacho de trânsito e das restrições constantes dos §§ 1.º e 2.º
+Art. 54.º Às sedes das Alfândegas do Funchal e Ponta Delgada incumbem todas as atribuições designadas nos vários números do artigo antecedente, com excepção do despacho de trânsito e das restrições constantes dos §§ 1.º e 2.º
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 § único. Sem embargo do disposto no corpo deste artigo, nas localidades onde não haja estância aduaneira poderão os respectivos postos fiscais, quando as necessidades o justifiquem, ser legalmente habilitados a despachar.
 
-###### Art. 73.º ...
+Art. 73.º ...
 
 § 1.º ...
 
@@ -163,13 +254,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 94.º O pagamento dos direitos e mais imposições efectuar-se-á em moeda corrente ou por cheques emitidos pelo Banco de Portugal, pela Caixa Geral de Depósitos, Crédito e Previdência ou por qualquer estabelecimento bancário, ou emitidos por terceiros e visados por qualquer dos referidos estabelecimentos bancários.
+Art. 94.º O pagamento dos direitos e mais imposições efectuar-se-á em moeda corrente ou por cheques emitidos pelo Banco de Portugal, pela Caixa Geral de Depósitos, Crédito e Previdência ou por qualquer estabelecimento bancário, ou emitidos por terceiros e visados por qualquer dos referidos estabelecimentos bancários.
 
 § 1.º Os cheques a que se refere este artigo serão emitidos ou endossados à ordem do tesoureiro da estância aduaneira onde se tiverem de efectuar os pagamentos e deverão conter a sobrecarga a vermelho «Para pagamento de imposições aduaneiras».
 
 § 2.º Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte final do corpo deste artigo, ficam responsáveis pelo valor dos mesmos, devendo, para isso, cativar logo nos depósitos sacados as respectivas importâncias.
 
-###### Art. 95.º ...
+Art. 95.º ...
 
 ...
 
@@ -177,7 +268,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A garantia por meio de fiança, cujo valor não será inferior a 10000$00, poderá ser prestada em relação aos despachos a processar em determinado período de tempo, não superior a um ano.
 
-###### Art. 96.º ...
+Art. 96.º ...
 
 ...
 
@@ -185,19 +276,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 115.º Os depósitos de regime livre serão constituídos pelos depósitos francos, depósitos gerais francos e zonas francas.
+Art. 115.º Os depósitos de regime livre serão constituídos pelos depósitos francos, depósitos gerais francos e zonas francas.
 
 ...
 
-###### Art. 117.º ...
+Art. 117.º ...
 
 § único. Não obstante as exclusões deste artigo, têm direito a depósito real o algodão em rama e a lã em igual estado, bem como quaisquer mercadorias originárias das províncias ultramarinas que não estejam incluídas nos n.os 1.º, 4.º e 5.º
 
-###### Art. 119.º ...
+Art. 119.º ...
 
 § único. O prazo máximo de armazenagem nas delegações aéreas é de um mês.
 
-###### Art. 194.º O ingresso na categoria de segundos-verificadores será precedido de um estágio que tem essencialmente por fim conhecer do grau de adaptação dos estagiários ao serviço aduaneiro.
+Art. 194.º O ingresso na categoria de segundos-verificadores será precedido de um estágio que tem essencialmente por fim conhecer do grau de adaptação dos estagiários ao serviço aduaneiro.
 
 § 1.º A admissão ao estágio far-se-á por concurso documental entre indivíduos do sexo masculino, licenciados em Economia, Finanças ou Direito, que sejam maiores de 21 e menores de 35 anos de idade.
 
@@ -205,7 +296,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Os candidatos admitidos terão a designação de verificadores estagiários.
 
-###### Art. 195.º O estágio terá a duração de seis meses e será prestado em qualquer das alfândegas continentais, nas condições que forem estabelecidas pelo Ministro das Finanças.
+Art. 195.º O estágio terá a duração de seis meses e será prestado em qualquer das alfândegas continentais, nas condições que forem estabelecidas pelo Ministro das Finanças.
 
 § 1.º Os verificadores estagiários que tiverem terminado o estágio serão submetidos a exame de aptidão, que deverá realizar-se no prazo de trinta dias a contar da data do termo do estágio e que será regulado, na parte aplicável, pelas disposições que se referem aos concursos.
 
@@ -215,13 +306,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Serão rescindidos os contratos dos verificadores estagiários que, à data da conclusão do estágio, não tenham obtido informações de serviço satisfatórias ou fiquem reprovados no exame de aptidão.
 
-###### Art. 196.º A promoção a primeiro-verificador será feita por concurso entre segundos-verificadores, que, além de contarem, pelo menos, três anos de bom e efectivo serviço na sua classe, nela tenham exercido as funções de verificador durante, pelo menos, seis meses, de forma regular e permanente e com zelo e competência.
+Art. 196.º A promoção a primeiro-verificador será feita por concurso entre segundos-verificadores, que, além de contarem, pelo menos, três anos de bom e efectivo serviço na sua classe, nela tenham exercido as funções de verificador durante, pelo menos, seis meses, de forma regular e permanente e com zelo e competência.
 
 ...
 
-###### Art. 197.º A promoção a reverificador será feita por concurso entre primeiros-verificadores que, além de contarem, pelo menos, cinco anos de bom e efectivo serviço nessa classe, nela tenham exercido as funções de chefe de delegação durante, pelo menos, seis meses, de forma regular e permanente e com zelo e competência.
+Art. 197.º A promoção a reverificador será feita por concurso entre primeiros-verificadores que, além de contarem, pelo menos, cinco anos de bom e efectivo serviço nessa classe, nela tenham exercido as funções de chefe de delegação durante, pelo menos, seis meses, de forma regular e permanente e com zelo e competência.
 
-###### Art. 203.º ...
+Art. 203.º ...
 
 1.º Documento comprovativo das habilitações literárias exigidas por este diploma e da respectiva média final;
 
@@ -241,17 +332,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 206.º ...
+Art. 206.º ...
 
 § único. Se perante o júri for suficientemente justificada, no prazo máximo de oito dias, a absoluta impossibilidade de comparência, o candidato excluído poderá ser admitido a prestar provas em dia a designar pelo júri.
 
-###### Art. 210.º ...
+Art. 210.º ...
 
 ...
 
 3.º Os concorrentes procederão à classificação imediatamente a seguir à entrega das seis amostras que lhes couberem em sorte.
 
-###### Art. 212.º ...
+Art. 212.º ...
 
 § 1.º Nos concursos de admissão preferem, por sua ordem, os que tiverem:
 
@@ -259,7 +350,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 213.º ...
+Art. 213.º ...
 
 ...
 
@@ -269,11 +360,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º A admissão de verificadores estagiários far-se-á com aprovação do Ministro das Finanças e mediante contrato escrito, que não carece de visto do Tribunal de Contas e que termina com a nomeação dos verificadores estagiários em segundo-verificador.
 
-###### Art. 216.º Os directores de serviços e os reverificadores-chefes são nomeados pelo Ministro das Finanças, respectivamente, de entre reverificadores-chefes e reverificadores.
+Art. 216.º Os directores de serviços e os reverificadores-chefes são nomeados pelo Ministro das Finanças, respectivamente, de entre reverificadores-chefes e reverificadores.
 
 ...
 
-###### Art. 217.º São nomeados pelo Ministro das Finanças, sob proposta do director-geral:
+Art. 217.º São nomeados pelo Ministro das Finanças, sob proposta do director-geral:
 
 1.º O director-geral-adjunto, os juízes dos tribunais técnicos, o director do Gabinete de Estudos e o director dos Serviços de Fiscalização e de Superintendência nos Regimes Gerais e Especiais, de entre directores de serviços;
 
@@ -281,7 +372,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. Os lugares referidos neste artigo serão exercidos em comissão.
 
-###### Art. 220.º ...
+Art. 220.º ...
 
 1.º Os directores das Alfândegas de Lisboa e Porto, de entre directores de serviços;
 
@@ -293,7 +384,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 222.º ...
+Art. 222.º ...
 
 § 1.º ...
 
@@ -305,25 +396,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 243.º Os tesoureiros das alfândegas insulares poderão ser substituídos, nos seus impedimentos e sob sua responsabilidade, quando tais impedimentos não sejam superiores a trinta dias e assim o aprove o director da respectiva alfândega, por um funcionário do quadro administrativo em serviço na mesma alfândega, ao qual se devolverá o direito à percepção das competentes quantias para falhas.
+Art. 243.º Os tesoureiros das alfândegas insulares poderão ser substituídos, nos seus impedimentos e sob sua responsabilidade, quando tais impedimentos não sejam superiores a trinta dias e assim o aprove o director da respectiva alfândega, por um funcionário do quadro administrativo em serviço na mesma alfândega, ao qual se devolverá o direito à percepção das competentes quantias para falhas.
 
 ...
 
-###### Art. 280.º Os auditores fiscais serão nomeados por livre escolha do Ministro das Finanças entre juízes de direito com mais de três anos de serviço e classificação não inferior à de Bom.
+Art. 280.º Os auditores fiscais serão nomeados por livre escolha do Ministro das Finanças entre juízes de direito com mais de três anos de serviço e classificação não inferior à de Bom.
 
 § único. Os lugares de auditor fiscal poderão ser providos também por transferência se algum auditor fiscal a tiver requerido no prazo de oito dias a contar da abertura da vaga a preencher.
 
-###### Art. 281.º A nomeação é feita em comissão de serviço por períodos de seis anos e os magistrados, enquanto não findo o sexénio, não poderão ser retirados sob qualquer pretexto do exercício da comissão, a não ser a pedido seu ou por motivo disciplinar.
+Art. 281.º A nomeação é feita em comissão de serviço por períodos de seis anos e os magistrados, enquanto não findo o sexénio, não poderão ser retirados sob qualquer pretexto do exercício da comissão, a não ser a pedido seu ou por motivo disciplinar.
 
-###### Art. 282.º Terminado o sexénio, se não for dada por finda a comissão, entender-se-á que foram reconduzidos por igual período. Findo o segundo sexénio, se a comissão não for dada por terminada, passará a mesma a ser de carácter permanente.
+Art. 282.º Terminado o sexénio, se não for dada por finda a comissão, entender-se-á que foram reconduzidos por igual período. Findo o segundo sexénio, se a comissão não for dada por terminada, passará a mesma a ser de carácter permanente.
 
-###### Art. 283.º As nomeações e transferências consideram-se comunicadas pela publicação do respectivo despacho no Diário do Governo, sendo-lhes aplicável o disposto no artigo 125.º do Estatuto Judiciário.
+Art. 283.º As nomeações e transferências consideram-se comunicadas pela publicação do respectivo despacho no Diário do Governo, sendo-lhes aplicável o disposto no artigo 125.º do Estatuto Judiciário.
 
-###### Art. 284.º A forma de provimento regular-se-á de harmonia com o preceituado para o quadro técnico-aduaneiro, na parte aplicável.
+Art. 284.º A forma de provimento regular-se-á de harmonia com o preceituado para o quadro técnico-aduaneiro, na parte aplicável.
 
-###### Art. 285.º Os auditores fiscais prestam compromisso de honra perante o director-geral das Alfândegas.
+Art. 285.º Os auditores fiscais prestam compromisso de honra perante o director-geral das Alfândegas.
 
-###### Art. 320.º ...
+Art. 320.º ...
 
 § 1.º ...
 
@@ -333,7 +424,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º O excesso das receitas dos cofres de emolumentos, depois de satisfeitos os respectivos encargos, constitui receita do Estado.
 
-###### Art. 353.º ...
+Art. 353.º ...
 
 ...
 
@@ -349,7 +440,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 8.º Presidir à conferência de reverificadores.
 
-###### Art. 355.º ...
+Art. 355.º ...
 
 ...
 
@@ -375,13 +466,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. A direcção efectiva do expediente dos diferentes despachos, nos termos prescritos nos respectivos números deste artigo, entender-se-á, em regra, apenas para as sedes das alfândegas e suas estâncias urbanas, sem embargo, porém, de poder ser delegada, em relação a actos de menor importância, nos chefes das delegações e presidentes das casas de despacho.
 
-###### Art. 390.º Os directores das alfândegas continentais serão substituídos nas suas faltas ou impedimentos pelo respectivo subdirector ou pelo chefe dos serviços de despacho, quando também o subdirector esteja ausente ou impedido.
+Art. 390.º Os directores das alfândegas continentais serão substituídos nas suas faltas ou impedimentos pelo respectivo subdirector ou pelo chefe dos serviços de despacho, quando também o subdirector esteja ausente ou impedido.
 
-###### Art. 392.º Os subdirectores das alfândegas continentais serão substituídos nas suas faltas ou impedimentos pelos chefes dos serviços de despacho.
+Art. 392.º Os subdirectores das alfândegas continentais serão substituídos nas suas faltas ou impedimentos pelos chefes dos serviços de despacho.
 
-###### Art. 393.º Os chefes dos serviços das alfândegas continentais serão substituídos nas suas faltas ou impedimentos pelo funcionário mais graduado do quadro técnico-aduaneiro, colocado no respectivo serviço, salvo quando o director da alfândega julgue conveniente providenciar de outro modo.
+Art. 393.º Os chefes dos serviços das alfândegas continentais serão substituídos nas suas faltas ou impedimentos pelo funcionário mais graduado do quadro técnico-aduaneiro, colocado no respectivo serviço, salvo quando o director da alfândega julgue conveniente providenciar de outro modo.
 
-###### Art. 400.º ...
+Art. 400.º ...
 
 ...
 
@@ -389,9 +480,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 526.º Os funcionários dos quadros aduaneiros actualmente ao serviço que excedam, na sua categoria, os números nos mesmos fixados poderão ser abonados pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal dos quadros aduaneiros e, na sua falta, pela que for inscrita para o efeito.
+Art. 526.º Os funcionários dos quadros aduaneiros actualmente ao serviço que excedam, na sua categoria, os números nos mesmos fixados poderão ser abonados pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal dos quadros aduaneiros e, na sua falta, pela que for inscrita para o efeito.
 
-###### Art. 2.º São eliminadas as seguintes disposições da citada Reforma Aduaneira:
+Art. 2.º São eliminadas as seguintes disposições da citada Reforma Aduaneira:
 
 Alínea d) do n.º 1.º do § 1.º do artigo 7.º;
 
@@ -411,15 +502,15 @@ N.º 9.º do artigo 365.º;
 
 N.º 3.º do artigo 400.º;
 
-###### Art. 503.º
+Art. 503.º
 
-###### Art. 3.º São considerados investidos:
+Art. 3.º São considerados investidos:
 
 1.º Na categoria de directores de serviços, os reverificadores-chefes que desempenham actualmente as funções indicadas no n.º 1.º do artigo 217.º e n.º 1.º do artigo 220.º;
 
 2.º Na categoria de reverificadores-chefes, os reverificadores que desempenham actualmente as funções indicadas no n.º 2.º do artigo 217.º, o director da Alfândega de Ponta Delgada e os chefes dos serviços de fiscalização e de contabilidade e pessoal referidos no n.º 4.º do artigo 220.º
 
-###### Art. 4.º - 1. É incluído no quadro do pessoal assalariado do tráfego o pessoal assalariado aduaneiro referido nas alíneas g) e h) do n.º 1.º do artigo 193.º da aludida Reforma Aduaneira.
+Art. 4.º - 1. É incluído no quadro do pessoal assalariado do tráfego o pessoal assalariado aduaneiro referido nas alíneas g) e h) do n.º 1.º do artigo 193.º da aludida Reforma Aduaneira.
 
 2. O pessoal assalariado a que se refere o número anterior manterá o direito aos salários que presentemente aufere enquanto continuar no desempenho das funções especializadas em que está investido.
 
@@ -427,71 +518,71 @@ N.º 3.º do artigo 400.º;
 
 4. O pessoal do quadro do tráfego assegurará as necessidades de pessoal do serviço fluvial e marítimo e dos serviços acessórios.
 
-###### Art. 5.º O pessoal contratado dos quadros do serviço fluvial e marítimo dos serviços acessórios, sempre que a conveniência do serviço o aconselhe, poderá ser chamado a desempenhar funções que incumbem ao pessoal de serventia vitalícia dos quadros do tráfego.
+Art. 5.º O pessoal contratado dos quadros do serviço fluvial e marítimo dos serviços acessórios, sempre que a conveniência do serviço o aconselhe, poderá ser chamado a desempenhar funções que incumbem ao pessoal de serventia vitalícia dos quadros do tráfego.
 
-###### Art. 6.º - 1. O serviço fluvial e marítimo das alfândegas tem por missão essencial assegurar a realização das visitas aduaneiras às embarcações de comércio e de recreio, à chegada aos portos, para cumprimento das formalidades prescritas nas leis e regulamentos.
+Art. 6.º - 1. O serviço fluvial e marítimo das alfândegas tem por missão essencial assegurar a realização das visitas aduaneiras às embarcações de comércio e de recreio, à chegada aos portos, para cumprimento das formalidades prescritas nas leis e regulamentos.
 
 2. As alfândegas, sempre que a defesa dos interesses do Estado o aconselhe, procederão a todas as diligências que considerem necessárias e sejam da sua competência, designadamente as que lhe atribui o artigo 52.º da referida Reforma Aduaneira.
 
-###### Art. 7.º - 1. A fiscalização a que se referem os artigos 160.º da Reforma Aduaneira e 229.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, será exercida pela Guarda Fiscal, sem prejuízo do disposto na alínea b) do artigo 219.º do mencionado Regulamento.
+Art. 7.º - 1. A fiscalização a que se referem os artigos 160.º da Reforma Aduaneira e 229.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, será exercida pela Guarda Fiscal, sem prejuízo do disposto na alínea b) do artigo 219.º do mencionado Regulamento.
 
 2. Na execução destes serviços de fiscalização observar-se-á o disposto nos artigos 216.º e seguintes do mesmo Regulamento, na parte aplicável.
 
-###### Art. 8.º Os mapas I, II, III, IV, V, VII, VIII, IX e X, anexos à Reforma Aduaneira, são substituídos pelos mapas anexos ao presente diploma, e o mapa XI é alterado de harmonia com o disposto no n.º 3.º do artigo 4.º
+Art. 8.º Os mapas I, II, III, IV, V, VII, VIII, IX e X, anexos à Reforma Aduaneira, são substituídos pelos mapas anexos ao presente diploma, e o mapa XI é alterado de harmonia com o disposto no n.º 3.º do artigo 4.º
 
-###### Art. 9.º Os actuais tesoureiros das Alfândegas de Angra do Heroísmo e da Horta continuarão a desempenhar funções inerentes ao cargo nas respectivas delegações, considerando-se estes lugares extintos logo que vagarem.
+Art. 9.º Os actuais tesoureiros das Alfândegas de Angra do Heroísmo e da Horta continuarão a desempenhar funções inerentes ao cargo nas respectivas delegações, considerando-se estes lugares extintos logo que vagarem.
 
-###### Art. 10.º Os despachantes oficiais das alfândegas insulares podem ser providos nas vagas existentes nas estâncias aduaneiras continentais, desde que o requeiram à Direcção-Geral das Alfândegas no prazo de sessenta dias, a contar da data da publicação deste diploma.
+Art. 10.º Os despachantes oficiais das alfândegas insulares podem ser providos nas vagas existentes nas estâncias aduaneiras continentais, desde que o requeiram à Direcção-Geral das Alfândegas no prazo de sessenta dias, a contar da data da publicação deste diploma.
 
-###### Art. 11.º É extensiva à Direcção-Geral de Segurança, à Polícia Judiciária e ao pessoal auxiliar técnico-aduaneiro a competência a que se referem os artigos 93.º e 96.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941.
+Art. 11.º É extensiva à Direcção-Geral de Segurança, à Polícia Judiciária e ao pessoal auxiliar técnico-aduaneiro a competência a que se referem os artigos 93.º e 96.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941.
 
-###### Art. 12.º Os artigos 42.º, 43.º, 55.º, 59.º, 60.º e 113.º do Contencioso Aduaneiro, referido no artigo anterior, passam a ter a seguinte redacção:
+Art. 12.º Os artigos 42.º, 43.º, 55.º, 59.º, 60.º e 113.º do Contencioso Aduaneiro, referido no artigo anterior, passam a ter a seguinte redacção:
 
-###### Art. 42.º ...
+Art. 42.º ...
 
 1.º A entrada ou saída das mercadorias referidas nos n.os 1.º e 3.º do artigo 36.º, quando efectuadas em condições idênticas às previstas no corpo do artigo anterior;
 
 ...
 
-###### Art. 43.º ...
+Art. 43.º ...
 
 ...
 
 § 5.º Se a mercadoria for isenta de pagamento de direitos, a infracção será punida com a multa de 100$00 a 40000$00.
 
-###### Art. 55.º ...
+Art. 55.º ...
 
 ...
 
 7.º Os comandantes distritais e de secção da Polícia de Segurança Pública e os comandantes de secção da Guarda Nacional Republicana;
 
-###### Art. 59.º ...
+Art. 59.º ...
 
 1.º Instruir todos os processos na zona da sua jurisdição, para este efeito limitada à do concelho sede da respectiva estância aduaneira;
 
 2.º Julgar os aludidos processos, nos casos em que tal lhes seja expressamente cometido neste Contencioso.
 
-###### Art. 60.º Compete aos comandantes de secção da Guarda Fiscal, aos comandantes distritais e de secção da Polícia de Segurança Pública e aos comandantes de secção da Guarda Nacional Republicana:
+Art. 60.º Compete aos comandantes de secção da Guarda Fiscal, aos comandantes distritais e de secção da Polícia de Segurança Pública e aos comandantes de secção da Guarda Nacional Republicana:
 
 1.º Instruir todos os processos nos casos não abrangidos pelos artigos antecedentes, preferindo, destas autoridades, a que ficar mais próxima, e, em igualdade de condições pela ordem enumerada;
 
 ...
 
-###### Art. 113.º ...
+Art. 113.º ...
 
 § 1.º A notificação do despacho de indicação aos arguidos a quem for arbitrada caução para aguardarem em liberdade o julgamento definitivo será feita depois de os arguidos serem presos ou haverem prestado a caução.
 
 § 2.º Se o arguido não for preso, nem se caucionar no prazo de um ano a contar da data do despacho de indicação, será notificado editalmente na forma indicada no § 3.º do artigo 69.º
 
-###### Art. 13.º É adicionado ao aludido Contencioso Aduaneiro o artigo seguinte:
+Art. 13.º É adicionado ao aludido Contencioso Aduaneiro o artigo seguinte:
 
-###### Art. 109.º-A. Em casos excepcionais, poderão as autoridades instrutoras solicitar das entidades mencionadas no artigo 93.º a realização das diligências de instrução que forem julgadas necessárias, bem como aceitar as já realizadas.
+Art. 109.º-A. Em casos excepcionais, poderão as autoridades instrutoras solicitar das entidades mencionadas no artigo 93.º a realização das diligências de instrução que forem julgadas necessárias, bem como aceitar as já realizadas.
 
-###### Art. 14.º São suprimidos os n.os 2.º e 4.º do artigo 36.º e o artigo 246.º do Contencioso Aduaneiro, já referido.
+Art. 14.º São suprimidos os n.os 2.º e 4.º do artigo 36.º e o artigo 246.º do Contencioso Aduaneiro, já referido.
 
-###### Art. 15.º O n.º 3.º do artigo 117.º das Instruções Preliminares das Pautas passa a ter a seguinte redacção:
+Art. 15.º O n.º 3.º do artigo 117.º das Instruções Preliminares das Pautas passa a ter a seguinte redacção:
 
-###### Art. 117.º ...
+Art. 117.º ...
 
 ...
 
@@ -499,17 +590,17 @@ N.º 3.º do artigo 400.º;
 
 a) As mercadorias reimportadas ficam sujeitas à taxa de 10 por cento ad valorem que incide sobre a mais-valia adquirida em virtude da operação sofrida no estrangeiro, mais-valia essa representada pela diferença entre o valor das mercadorias reimportadas e o das exportadas temporàriamente.
 
-###### Art. 16.º - 1. O director-geral das Alfândegas poderá criar grupos de trabalho, sob a sua directa dependência, para estudo dos problemas aduaneiros, ou com as alfândegas relacionados, que funcionarão junto do Gabinete de Estudos ou nas Alfândegas de Lisboa e Porto.
+Art. 16.º - 1. O director-geral das Alfândegas poderá criar grupos de trabalho, sob a sua directa dependência, para estudo dos problemas aduaneiros, ou com as alfândegas relacionados, que funcionarão junto do Gabinete de Estudos ou nas Alfândegas de Lisboa e Porto.
 
 2. As despesas resultantes da constituição e funcionamento dos grupos de trabalho serão fixadas por despacho do Ministro das Finanças e constituem encargo dos cofres a que se refere o artigo 319.º da Reforma Aduaneira.
 
-###### Art. 17.º Os artigos 1.º, 3.º, 9.º, 10.º, 18.º, 19.º, 56.º, 59.º, 88.º, 91.º, 122.º, 165.º, 171.º, 174.º, 175.º, 177.º, 181.º, 182.º, 224.º, 225.º, 238.º, 246.º, 260.º, 295.º, 310.º, 319.º, 337.º, 346.º, 348.º, 381.º, 382.º, 384.º, 386.º, 391.º, 398.º, 410.º, 421.º, 610.º, 628.º, 638.º, 639.º, 672.º, 687.º 688.º, 690.º e 691.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Art. 17.º Os artigos 1.º, 3.º, 9.º, 10.º, 18.º, 19.º, 56.º, 59.º, 88.º, 91.º, 122.º, 165.º, 171.º, 174.º, 175.º, 177.º, 181.º, 182.º, 224.º, 225.º, 238.º, 246.º, 260.º, 295.º, 310.º, 319.º, 337.º, 346.º, 348.º, 381.º, 382.º, 384.º, 386.º, 391.º, 398.º, 410.º, 421.º, 610.º, 628.º, 638.º, 639.º, 672.º, 687.º 688.º, 690.º e 691.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Nos termos da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, as alfândegas são departamentos do Estado aos quais competem, como instrumento de política económica, de segurança e de defesa do património nacional, as atribuições gerais constantes do artigo 52.º da aludida Reforma e, especìficamente, a arrecadação dos direitos e outras imposições de efeito equivalente devidas pelas mercadorias que entram no País ou dele saem, fiscalizar a entrada, trânsito e saída das aludidas mercadorias e a cobrança de quaisquer outros impostos ou taxas que estejam a seu cargo.
+Artigo 1.º Nos termos da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, as alfândegas são departamentos do Estado aos quais competem, como instrumento de política económica, de segurança e de defesa do património nacional, as atribuições gerais constantes do artigo 52.º da aludida Reforma e, especìficamente, a arrecadação dos direitos e outras imposições de efeito equivalente devidas pelas mercadorias que entram no País ou dele saem, fiscalizar a entrada, trânsito e saída das aludidas mercadorias e a cobrança de quaisquer outros impostos ou taxas que estejam a seu cargo.
 
-###### Art. 3.º De harmonia com a mesma Reforma, o expediente das alfândegas, salvo o pertencente às comissões administrativas e tesourarias, distribui-se pelos serviços de fiscalização, de despacho e de contabilidade e pessoal, nas sedes das Alfândegas de Lisboa e Porto, devendo nas sedes da alfândegas insulares arrumar-se de conformidade com os agrupamentos a cargo dos mencionados serviços, sem embargo de qualquer modificação determinada pelos respectivos directores, segundo as necessidades especiais destas alfândegas e a categoria e número do seu pessoal.
+Art. 3.º De harmonia com a mesma Reforma, o expediente das alfândegas, salvo o pertencente às comissões administrativas e tesourarias, distribui-se pelos serviços de fiscalização, de despacho e de contabilidade e pessoal, nas sedes das Alfândegas de Lisboa e Porto, devendo nas sedes da alfândegas insulares arrumar-se de conformidade com os agrupamentos a cargo dos mencionados serviços, sem embargo de qualquer modificação determinada pelos respectivos directores, segundo as necessidades especiais destas alfândegas e a categoria e número do seu pessoal.
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 ...
 
@@ -521,51 +612,51 @@ a) As mercadorias reimportadas ficam sujeitas à taxa de 10 por cento ad valorem
 
 ...
 
-###### Art. 10.º Juntamente com a documentação referida no artigo antecedente, os capitães ou mestres das embarcações apresentarão, em relação às mercadorias procedentes do continente, das ilhas adjacentes ou das províncias ultramarinas, as guias de embarque ou documentos que legalmente as substituam, devendo também apresentar o alvará de saída do último porto, quando procederem de portos metropolitanos.
+Art. 10.º Juntamente com a documentação referida no artigo antecedente, os capitães ou mestres das embarcações apresentarão, em relação às mercadorias procedentes do continente, das ilhas adjacentes ou das províncias ultramarinas, as guias de embarque ou documentos que legalmente as substituam, devendo também apresentar o alvará de saída do último porto, quando procederem de portos metropolitanos.
 
 ...
 
-###### Art. 18.º É vedada autorização para descarregar, em qualquer porto de escala, carga estrangeira ou nacionalizada nas províncias ultramarinas manifestada para portos do continente e ilhas adjacentes, e bem assim para não descarregar carga manifestada para o respectivo porto.
+Art. 18.º É vedada autorização para descarregar, em qualquer porto de escala, carga estrangeira ou nacionalizada nas províncias ultramarinas manifestada para portos do continente e ilhas adjacentes, e bem assim para não descarregar carga manifestada para o respectivo porto.
 
 ...
 
-###### Art. 19.º Às embarcações que circulem entre os portos metropolitanos ou que transportem carga de origem nacional dos portos das províncias ultramarinas para os portos do continente e das ilhas adjacentes é expressamente proibido deixar de descarregar, nos portos a que se destinem, as mercadorias descritas nos respectivos documentos, salvo caso de força maior ou motivo devidamente justificado antes de o navio sair do porto a que as mercadorias se destinam, sendo a inobservância do que neste artigo se estabelece punida como transgressão.
+Art. 19.º Às embarcações que circulem entre os portos metropolitanos ou que transportem carga de origem nacional dos portos das províncias ultramarinas para os portos do continente e das ilhas adjacentes é expressamente proibido deixar de descarregar, nos portos a que se destinem, as mercadorias descritas nos respectivos documentos, salvo caso de força maior ou motivo devidamente justificado antes de o navio sair do porto a que as mercadorias se destinam, sendo a inobservância do que neste artigo se estabelece punida como transgressão.
 
 ...
 
-###### Art. 56.º As embarcações nacionais que tenham a bordo mercadorias em regime de cabotagem não podem seguir viagem para portos estrangeiros com essas mercadorias a bordo, salva autorização do director da alfândega ou do chefe da estância aduaneira em casos devidamente justificados.
+Art. 56.º As embarcações nacionais que tenham a bordo mercadorias em regime de cabotagem não podem seguir viagem para portos estrangeiros com essas mercadorias a bordo, salva autorização do director da alfândega ou do chefe da estância aduaneira em casos devidamente justificados.
 
 § único. A inobservância do disposto no corpo deste artigo será punida como descaminho, não podendo a correspondente multa ser inferior ao valor das mercadorias objecto da infracção.
 
-###### Art. 59.º Quatro dias após a concessão do alvará de saída, deverão os armadores, seus agentes ou representantes, apresentar cópia dos manifestos da carga carregada, em língua portuguesa, com a designação das carregadores e consignatários, e bem assim a lista dos passageiros embarcados, visada pela Direcção-Geral de Segurança.
+Art. 59.º Quatro dias após a concessão do alvará de saída, deverão os armadores, seus agentes ou representantes, apresentar cópia dos manifestos da carga carregada, em língua portuguesa, com a designação das carregadores e consignatários, e bem assim a lista dos passageiros embarcados, visada pela Direcção-Geral de Segurança.
 
 § único. As estâncias aduaneiras verificarão se as indicações exaradas nas cópias dos manifestos conferem com as que figuram nas guias dos despachos, sendo consideradas como transgressões fiscais as divergências que se verificarem, salvo quando relevadas pelos chefes das estâncias aduaneiras respectivas.
 
-###### Art. 88.º ...
+Art. 88.º ...
 
 ...
 
 § 3.º As diferenças encontradas na liquidação dos direitos de porto que excedam os limites fixados no artigo 96.º da Reforma Aduaneira aplicar-se-á o disposto nos §§ 1.º e 2.º do referido artigo.
 
-###### Art. 91.º Salvo caso de força maior devidamente comprovado e aceite pelas alfândegas, bem como das disposições de carácter convencional em vigor, as embarcações mercantes e de recreio estrangeiras que demorem no País mais de um ano ficarão, findo este prazo, sujeitas ao regime geral de importação temporária.
+Art. 91.º Salvo caso de força maior devidamente comprovado e aceite pelas alfândegas, bem como das disposições de carácter convencional em vigor, as embarcações mercantes e de recreio estrangeiras que demorem no País mais de um ano ficarão, findo este prazo, sujeitas ao regime geral de importação temporária.
 
 § 1.º Durante a permanência das embarcações nos portos é proibida a venda a bordo dos artigos de comércio a que se refere o n.º 9.º do artigo 9.º
 
 § 2.º Sempre que o julguem conveniente, os directores das alfândegas ou os chefes das estâncias aduaneiras mandarão selar os estabelecimentos de bordo destinados à venda dos artigos de comércio.
 
-###### Art. 122.º Salvo o caso de força maior devidamente comprovado e aceite pelas alfândegas, bem como das disposições de carácter convencional em vigor, as aeronaves mercantes estrangeiras que demorem no País por prazo superior a noventa dias passarão a ficar, findo este prazo, sujeitas ao regime geral de importação temporária.
+Art. 122.º Salvo o caso de força maior devidamente comprovado e aceite pelas alfândegas, bem como das disposições de carácter convencional em vigor, as aeronaves mercantes estrangeiras que demorem no País por prazo superior a noventa dias passarão a ficar, findo este prazo, sujeitas ao regime geral de importação temporária.
 
 § único. É aplicável à navegação aérea o disposto nos artigos 92.º, 94.º e 95.º
 
-###### Art. 165.º ...
+Art. 165.º ...
 
 § 1.º O disposto no corpo deste artigo poderá ser aplicável aos vagões de propriedade particular, desde que as empresas ferroviárias nacionais assumam a responsabilidade pela sua utilização, reexportação e reimportação nas condições e prazos regulamentares.
 
 § 2.º O seguimento dos vagões nos termos do corpo deste artigo importa comunicação prévia, às entidades aduaneiras da fronteira, do despacho do director-geral das Alfândegas que tenha autorizado a respectiva empresa ferroviária a dar entrada ou saída a vagões a ela pertencentes, conforme seja estrangeira ou nacional.
 
-###### Art. 171.º Salvo em pequenos percursos que estabeleçam ligação com aeródromos e em casos especiais autorizados pelos chefes das estâncias aduaneiras respectivas ou previstos em disposições de carácter convencional ou legal em vigor, as mercadorias em trânsito internacional não poderão utilizar os meios de transporte abrangidos pelo presente capítulo.
+Art. 171.º Salvo em pequenos percursos que estabeleçam ligação com aeródromos e em casos especiais autorizados pelos chefes das estâncias aduaneiras respectivas ou previstos em disposições de carácter convencional ou legal em vigor, as mercadorias em trânsito internacional não poderão utilizar os meios de transporte abrangidos pelo presente capítulo.
 
-###### Art. 174.º O título de propriedade das mercadorias só terá validade para despacho depois de devidamente legalizado:
+Art. 174.º O título de propriedade das mercadorias só terá validade para despacho depois de devidamente legalizado:
 
 a) Pelas administrações portuárias, nos termos dos artigos 175.º e seguintes, quando as mercadorias venham pela via marítima e sejam recebidas pelas citadas administrações para entrarem nos respectivos depósitos gerais francos;
 
@@ -573,45 +664,45 @@ b) Pelas alfândegas, nos restantes casos.
 
 ...
 
-###### Art. 175.º A legalização dos títulos de propriedade referentes a carga manifestada, para portos onde haja depósitos gerais francos e que não se destine a neles dar entrada, só poderá fazer-se depois de a administração portuária respectiva lhes dar validade para esse efeito.
+Art. 175.º A legalização dos títulos de propriedade referentes a carga manifestada, para portos onde haja depósitos gerais francos e que não se destine a neles dar entrada, só poderá fazer-se depois de a administração portuária respectiva lhes dar validade para esse efeito.
 
-###### Art. 177.º Os pertences extraídos dos títulos de propriedade só poderão ser passados depois de estes haverem sido legalizados e em impressos emitidos pela alfândega ou administração portuária que tenha promovido essa legalização.
-
-...
-
-###### Art. 181.º O funcionário encarregado da legalização, depois de verificar que o título de propriedade se encontra em termos de ser aceite, conferi-lo-á pelos documentos em poder da alfândega ou da administração portuária, conforme os casos, e que legalmente acompanharam a mercadoria, tais como cópias dos conhecimentos, manifestos, guias processadas por outras estâncias aduaneiras, cartas de porte aéreo, declarações para as alfândegas e duplicados das facturas, conforme os casos.
-
-###### Art. 182.º O funcionário a que o artigo anterior se refere, depois de anotar, nos documentos juntos ao manifesto, o nome do apresentante, indicará nos títulos de propriedade, depois de verificar sempre que estão conforme com os respectivos documentos, a contramarca fiscal e data de entrada do meio de transporte, e ainda, se deles não constar já, a nacionalidade do aludido meio de transporte, a quantidade, qualidade, peso bruto e peso líquido dos volumes, o valor e procedência das mercadorias.
+Art. 177.º Os pertences extraídos dos títulos de propriedade só poderão ser passados depois de estes haverem sido legalizados e em impressos emitidos pela alfândega ou administração portuária que tenha promovido essa legalização.
 
 ...
 
-###### Art. 224.º Todas as embarcações aludidas no artigo anterior poderão ter a bordo, para uso das suas tripulações, em defesa dos interesses do Estado, as armas e munições que forem necessárias para tal efeito, bem como os artigos de vestuário e calçado impermeáveis, em quantidade, qualidade e tipo aprovados pelo Ministro das Finanças.
+Art. 181.º O funcionário encarregado da legalização, depois de verificar que o título de propriedade se encontra em termos de ser aceite, conferi-lo-á pelos documentos em poder da alfândega ou da administração portuária, conforme os casos, e que legalmente acompanharam a mercadoria, tais como cópias dos conhecimentos, manifestos, guias processadas por outras estâncias aduaneiras, cartas de porte aéreo, declarações para as alfândegas e duplicados das facturas, conforme os casos.
+
+Art. 182.º O funcionário a que o artigo anterior se refere, depois de anotar, nos documentos juntos ao manifesto, o nome do apresentante, indicará nos títulos de propriedade, depois de verificar sempre que estão conforme com os respectivos documentos, a contramarca fiscal e data de entrada do meio de transporte, e ainda, se deles não constar já, a nacionalidade do aludido meio de transporte, a quantidade, qualidade, peso bruto e peso líquido dos volumes, o valor e procedência das mercadorias.
+
+...
+
+Art. 224.º Todas as embarcações aludidas no artigo anterior poderão ter a bordo, para uso das suas tripulações, em defesa dos interesses do Estado, as armas e munições que forem necessárias para tal efeito, bem como os artigos de vestuário e calçado impermeáveis, em quantidade, qualidade e tipo aprovados pelo Ministro das Finanças.
 
 § único. As armas e munições referidas neste artigo ficarão a cargo da respectiva alfândega, e os artigos impermeáveis, que constituem propriedade do Estado, fazem parte do apetrechamento das embarcações e só podem ser usados em serviço.
 
-###### Art. 225.º Poderão igualmente ser fornecidas as armas e munições necessárias, nos termos do artigo antecedente, a todo o pessoal investido em funções de direcção, chefia ou inspecção ou que tiver de desempenhar serviços de rondas, vigilância de mercadorias, entrega ou recolha de fundos e outros de idêntica natureza.
+Art. 225.º Poderão igualmente ser fornecidas as armas e munições necessárias, nos termos do artigo antecedente, a todo o pessoal investido em funções de direcção, chefia ou inspecção ou que tiver de desempenhar serviços de rondas, vigilância de mercadorias, entrega ou recolha de fundos e outros de idêntica natureza.
 
-###### Art. 238.º Têm despacho de importação definitiva, também designado simplesmente «despacho de importação», as mercadorias estrangeiras ou nacionalizadas nas províncias ultramarinas que entrem no continente ou ilhas adjacentes para consumo.
+Art. 238.º Têm despacho de importação definitiva, também designado simplesmente «despacho de importação», as mercadorias estrangeiras ou nacionalizadas nas províncias ultramarinas que entrem no continente ou ilhas adjacentes para consumo.
 
 § único. Têm igualmente despacho de importação as mercadorias de origem nacional ou nacionalizadas que, em virtude de regimes especiais, estejam sujeitas ao pagamento de direitos de importação ao entrarem no consumo do continente ou de alguma das ilhas adjacentes.
 
-###### Art. 246.º ...
+Art. 246.º ...
 
 ...
 
 § 2.º Se os volumes contiverem mercadorias heterogéneas, a especificação far-se-á por volume, em folha suplementar de modelo próprio, indicando-se na declaração os totais de unidades naquela obtidos. Se, porém, for igual o conteúdo de todos os volumes, proceder-se-á como nas hipóteses do corpo deste artigo e seu § 1.º, conforme os casos.
 
-###### Art. 260.º ...
+Art. 260.º ...
 
 § único. Quando as mercadorias sejam tributadas pelo peso, só é de aplicar o disposto no n.º 2.º se a taxa pautal que lhes corresponda não exceder $20 por quilograma.
 
-###### Art. 295.º Quando as mercadorias hajam de ser despachadas com restrições quanto à sua aplicação ou destino, constantes das notas aos respectivos artigos pautais, deverá o importador apresentar declaração, que será junta ao respectivo bilhete de despacho, pela qual se obrigue a não dar àquelas mercadorias aplicação ou destino diferente do indicado nas referidas notas.
+Art. 295.º Quando as mercadorias hajam de ser despachadas com restrições quanto à sua aplicação ou destino, constantes das notas aos respectivos artigos pautais, deverá o importador apresentar declaração, que será junta ao respectivo bilhete de despacho, pela qual se obrigue a não dar àquelas mercadorias aplicação ou destino diferente do indicado nas referidas notas.
 
-###### Art. 310.º A importação temporária de vagões pertencentes a empresas ferroviárias estrangeiras, ou a outras empresas estrangeiras, mas naquelas matriculados, quando exclusivamente destinados a serviço internacional, poderá fazer-se mediante autorização geral do director-geral das Alfândegas, em despacho que fixará também o modo de prestação da sua garantia, substituindo-se neste caso o processamento do despacho pelas formalidades prescritas no artigo 165.º
+Art. 310.º A importação temporária de vagões pertencentes a empresas ferroviárias estrangeiras, ou a outras empresas estrangeiras, mas naquelas matriculados, quando exclusivamente destinados a serviço internacional, poderá fazer-se mediante autorização geral do director-geral das Alfândegas, em despacho que fixará também o modo de prestação da sua garantia, substituindo-se neste caso o processamento do despacho pelas formalidades prescritas no artigo 165.º
 
 ...
 
-###### Art. 319.º Têm despacho de exportação definitiva, também designado simplesmente «despacho de exportação», as mercadorias nacionais ou nacionalizadas quando forem expedidas por qualquer via para o estrangeiro, bem como idênticas mercadorias destinadas a consumo de bordo fora do país fiscal.
+Art. 319.º Têm despacho de exportação definitiva, também designado simplesmente «despacho de exportação», as mercadorias nacionais ou nacionalizadas quando forem expedidas por qualquer via para o estrangeiro, bem como idênticas mercadorias destinadas a consumo de bordo fora do país fiscal.
 
 ...
 
@@ -623,17 +714,17 @@ b) Nacionais ou nacionalizadas quando forem expedidas pelas vias marítima ou a�
 
 ...
 
-###### Art. 337.º ...
+Art. 337.º ...
 
 § 1.º É fixada em 10 por cento a tolerância para mais do peso marcado, nos casos excepcionais em que seja difícil a determinação do peso exacto.
 
 ...
 
-###### Art. 346.º A exportação temporária de vagões nacionais pertencentes a empresas ferroviárias portuguesas, ou a particulares, mas naquelas matriculados, quando destinados exclusivamente a serviço internacional, poderá fazer-se mediante autorização geral do director-geral das Alfândegas, em despacho que fixará também o modo de prestação da sua garantia, substituindo-se, neste caso, o processamento do despacho pelas formalidades prescritas no artigo 165.º
+Art. 346.º A exportação temporária de vagões nacionais pertencentes a empresas ferroviárias portuguesas, ou a particulares, mas naquelas matriculados, quando destinados exclusivamente a serviço internacional, poderá fazer-se mediante autorização geral do director-geral das Alfândegas, em despacho que fixará também o modo de prestação da sua garantia, substituindo-se, neste caso, o processamento do despacho pelas formalidades prescritas no artigo 165.º
 
 ...
 
-###### Art. 348.º ...
+Art. 348.º ...
 
 ...
 
@@ -643,17 +734,17 @@ b) Que a respectiva expedição se faça no prazo de dois meses, que só poderá
 
 § 2.º A via nas condições dos artigos 166.º e seguintes só poderá ser utilizada nos precisos termos do artigo 171.º
 
-###### Art. 381.º Têm despacho de cabotagem por saída e por entrada as mercadorias de comprovada origem nacional expedidas de portos ou aeroportos metropolitanos para os das províncias ultramarinas ou destas procedentes.
+Art. 381.º Têm despacho de cabotagem por saída e por entrada as mercadorias de comprovada origem nacional expedidas de portos ou aeroportos metropolitanos para os das províncias ultramarinas ou destas procedentes.
 
 ...
 
-###### Art. 382.º Nos despachos de cabotagem por saída, quanto à sua constituição, formalidades e cumprimento destas, observar-se-á, na parte aplicável, o disposto no corpo do artigo 320.º e nos artigos 321.º a 323.º e 325.º a 340.º
+Art. 382.º Nos despachos de cabotagem por saída, quanto à sua constituição, formalidades e cumprimento destas, observar-se-á, na parte aplicável, o disposto no corpo do artigo 320.º e nos artigos 321.º a 323.º e 325.º a 340.º
 
-###### Art. 384.º Nos despachos de cabotagem por saída a seguir ao número de receita realizar-se-á a nomeação do verificador, e, quando for caso disso, a do reverificador.
+Art. 384.º Nos despachos de cabotagem por saída a seguir ao número de receita realizar-se-á a nomeação do verificador, e, quando for caso disso, a do reverificador.
 
-###### Art. 386.º Nos despachos de cabotagem por entrada, quanto à sua constituição, formalidades e cumprimento destas, observar-se-á, na parte aplicável, o disposto nos artigos 239.º a 269.º
+Art. 386.º Nos despachos de cabotagem por entrada, quanto à sua constituição, formalidades e cumprimento destas, observar-se-á, na parte aplicável, o disposto nos artigos 239.º a 269.º
 
-###### Art. 391.º As mercadorias nacionais ou nacionalizadas que circulem entre portos e aeroportos do continente e ilhas adjacentes, transportadas em embarcações ou aeronaves que efectuem carreiras regulares exclusivamente entre os referidos portos ou aeroportos, serão acompanhadas de guias de circulação.
+Art. 391.º As mercadorias nacionais ou nacionalizadas que circulem entre portos e aeroportos do continente e ilhas adjacentes, transportadas em embarcações ou aeronaves que efectuem carreiras regulares exclusivamente entre os referidos portos ou aeroportos, serão acompanhadas de guias de circulação.
 
 § 1.º É dispensado o processamento das guias a que se refere o corpo deste artigo para as mercadorias que circulem entre portos ou aeroportos do mesmo arquipélago.
 
@@ -689,9 +780,9 @@ b) Sendo nacionalizado, circule entre os portos do continente.
 
 § 8.º A inobservância do disposto nos §§ 4.º, 5.º, 6.º e 7.º será punida como descaminho.
 
-###### Art. 398.º A revisão dos volumes de bagagem vindos por caminho de ferro ou por avião pode ser realizada, nas estações de caminho de ferro ou aeroporto de entrada no País, sem a presença dos passageiros, desde que os agentes aduaneiros das respectivas empresas cumpram o disposto no artigo 395.º, devendo, porém, a declaração ser escrita, para clara fixação da responsabilidade fiscal em que venham a incorrer os respectivos passageiros.
+Art. 398.º A revisão dos volumes de bagagem vindos por caminho de ferro ou por avião pode ser realizada, nas estações de caminho de ferro ou aeroporto de entrada no País, sem a presença dos passageiros, desde que os agentes aduaneiros das respectivas empresas cumpram o disposto no artigo 395.º, devendo, porém, a declaração ser escrita, para clara fixação da responsabilidade fiscal em que venham a incorrer os respectivos passageiros.
 
-###### Art. 410.º ...
+Art. 410.º ...
 
 ...
 
@@ -699,37 +790,37 @@ b) Ao presidente do Conselho de Ministros, aos Ministros e aos Secretários e Su
 
 ...
 
-###### Art. 421.º Quando haja bem fundadas suspeitas, por parte dos agentes da fiscalização, de que os passageiros conduzem nas suas bagagens mercadorias descaminhadas aos direitos, devem as mesmas bagagens, tal como forem encontradas pela fiscalização, regressar à estância aduaneira onde se realizou a revisão, para ali se proceder a nova revisão.
+Art. 421.º Quando haja bem fundadas suspeitas, por parte dos agentes da fiscalização, de que os passageiros conduzem nas suas bagagens mercadorias descaminhadas aos direitos, devem as mesmas bagagens, tal como forem encontradas pela fiscalização, regressar à estância aduaneira onde se realizou a revisão, para ali se proceder a nova revisão.
 
 ...
 
-###### Art. 610.º ...
+Art. 610.º ...
 
 § único. Nos requerimentos, que juntamente com todos os elementos referidos neste artigo serão arquivados metòdicamente e por ordem cronológica, anotar-se-á se as certidões foram passadas por fotocópia ou se foram manuscritas ou dactilografadas, devendo, neste último caso, juntar-se as respectivas cópias das certidões aos requerimentos.
 
-###### Art. 628.º A selagem de volumes ou mercadorias, quando a efectuar nas alfândegas, nos termos da respectiva legislação especial, será realizada por pessoal do tráfego, sob a direcção do funcionário técnico-aduaneiro que efectuar o serviço que motivar a referida selagem ou sob a direcção do mandador da competente estância aduaneira, quando aquele funcionário o requisitar.
+Art. 628.º A selagem de volumes ou mercadorias, quando a efectuar nas alfândegas, nos termos da respectiva legislação especial, será realizada por pessoal do tráfego, sob a direcção do funcionário técnico-aduaneiro que efectuar o serviço que motivar a referida selagem ou sob a direcção do mandador da competente estância aduaneira, quando aquele funcionário o requisitar.
 
 ...
 
-###### Art. 638.º ...
+Art. 638.º ...
 
 § 1.º Devem também ser vendidas em hasta pública as mercadorias existen'es nas estâncias aduaneiras ou em depósito real, quando da sua demora nas referidas estâncias ou depósito resulte a sua deterioração ou qualquer outro dano grave. Do mesmo modo serão vendidas as mercadorias armazenadas nos depósitos gerais francos, em idênticas circunstâncias, se não forem despachadas no prazo de oito dias a contar da notificação feita directamente ou por edital, findo o qual se consideram abandonadas.
 
 ...
 
-###### Art. 639.º ...
+Art. 639.º ...
 
 ...
 
 § 2.º As mercadorias despachadas ao abrigo do disposto neste artigo, além da armazenagem e tráfego devidos anteriormente à sua entrada no armazém de leilões, estão sujeitas ao pagamento do tráfego e armazenagem, desde a referida entrada, ao dos anúncios que já tiverem sido publicados e ao da percentagem de 5 por cento sobre o seu valor.
 
-###### Art. 672.º As mercadorias demoradas e abandonadas a que se referem os n.os 1.º e 2.º do artigo 638.º, quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando-se como tal, para este efeito, o preço do artigo depois de despachado, se tivesse sido importado normalmente, irão a 2.ª praça, e, se nesta não obtiverem lanço que cubra os direitos e outras imposições a que estiverem sujeitas na importação, serão retiradas do leilão.
+Art. 672.º As mercadorias demoradas e abandonadas a que se referem os n.os 1.º e 2.º do artigo 638.º, quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando-se como tal, para este efeito, o preço do artigo depois de despachado, se tivesse sido importado normalmente, irão a 2.ª praça, e, se nesta não obtiverem lanço que cubra os direitos e outras imposições a que estiverem sujeitas na importação, serão retiradas do leilão.
 
 § 1.º Os donos das mercadorias demoradas, mas não arrematadas em 1.ª praça, serão notificados, directamente ou por edital, conforme forem ou não conhecidos, a submetê-las, no prazo de oito dias, a despacho de importação definitiva ou de reexportação, considerando-se como abandono expresso a favor do Estado a falta de despacho dentro do aludido prazo.
 
 ...
 
-###### Art. 687.º ...
+Art. 687.º ...
 
 ...
 
@@ -749,15 +840,15 @@ b) A percentagem a atribuir ao concessionário será fixada pelas mesmas capitan
 
 § 10.º Exceptuam-se também do preceituado nos parágrafos antecedentes os peixes achados mortos no mar ou por ele arrojados, que se consideram pertencentes ao achador.
 
-###### Art. 688.º Não se consideram achados ou arrojos, para efeitos aduaneiros, as embarcações nacionais e seus pertences, com dono conhecido, que se encontrem boiando nas águas ou venham dar à costa, e bem assim os ferros, âncoras, amarras, bóias, poitas, gatas e fateixas e todo o material que seja considerado, pela autoridade marítima competente, de natureza militar.
+Art. 688.º Não se consideram achados ou arrojos, para efeitos aduaneiros, as embarcações nacionais e seus pertences, com dono conhecido, que se encontrem boiando nas águas ou venham dar à costa, e bem assim os ferros, âncoras, amarras, bóias, poitas, gatas e fateixas e todo o material que seja considerado, pela autoridade marítima competente, de natureza militar.
 
 ...
 
-###### Art. 690.º O disposto nos artigos antecedentes é extensivo aos sinistros de aeronaves ou de mercadorias que se encontrem no País em regime de importação temporária ou de trânsito, bem como aos respectivos salvados ou achados.
+Art. 690.º O disposto nos artigos antecedentes é extensivo aos sinistros de aeronaves ou de mercadorias que se encontrem no País em regime de importação temporária ou de trânsito, bem como aos respectivos salvados ou achados.
 
 ...
 
-###### Art. 691.º ...
+Art. 691.º ...
 
 ...
 
@@ -771,72 +862,72 @@ b) A percentagem a atribuir ao concessionário será fixada pelas mesmas capitan
 
 § 6.º A borracha crepe só pode circular se as respectivas folhas tiverem aposto o carimbo do Grémio Nacional dos Industriais de Borracha, cujos modelos e forma de aposição serão aprovados por despacho do Ministro das Finanças, ouvido o da Economia.
 
-###### Art. 18.º São eliminados os artigos 75.º, 186.º, 187.º, 188.º, 387.º, 388.º, 389.º, 459.º a 480.º e o § único do artigo 383.º, bem como o § 1.º do artigo 691.º do Regulamento das Alfândegas.
+Art. 18.º São eliminados os artigos 75.º, 186.º, 187.º, 188.º, 387.º, 388.º, 389.º, 459.º a 480.º e o § único do artigo 383.º, bem como o § 1.º do artigo 691.º do Regulamento das Alfândegas.
 
-###### Art. 19.º O Ministro das Finanças, ouvido o da Economia, aprovará, por portaria, as instruções necessárias à definição e prova de origem das mercadorias submetidas a despacho aduaneiro.
+Art. 19.º O Ministro das Finanças, ouvido o da Economia, aprovará, por portaria, as instruções necessárias à definição e prova de origem das mercadorias submetidas a despacho aduaneiro.
 
-###### Art. 20.º Este decreto-lei entra imediatamente em vigor.
+Art. 20.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Setembro de 1970.**
+Promulgado em 16 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ
 
 MAPA I
 
 Alfândegas, delegações e subdelegações, postos de despacho e postos fiscais habilitados a despachar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA II
 
 Postos fiscais e sua distribuição pelas alfândegas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA III
 
 Quadro do pessoal técnico-aduaneiro e sua distribuição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA IV
 
 Remunerações do pessoal técnico-aduaneiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA V
 
 Quadro e vencimentos do pessoal auxiliar técnico-aduaneiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA VII
 
 Quadro e remunerações do pessoal de tesouraria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA VIII
 
 Quadro e vencimentos do pessoal administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA IX
 
 Quadros e vencimentos do pessoal do serviço de tráfego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA X
 
 Quadro e remunerações do pessoal do serviço fluvial e marítimo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 Ministério das Finanças, 16 de Setembro de 1970. - O Ministro das Finanças, João Augusto Dias Rosas.

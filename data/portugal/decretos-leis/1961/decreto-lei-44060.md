@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/11/27400/14771488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44060-1961-185310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae799d4313f885284b97d66560a6ffc2ef5968e92cfa41303f4eaf80cd9a136c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51d49526e7abedf8b8a99dd9755d30b31378b2c2a1c779960ab5a41540376141
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Protecção contra as Radiações Ionizantes
+- Criação de Serviços
+- Definição de Competências
+- Proteção do Ambiente
+- Radioprotecção
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:548836:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693042:por
+  label: "Alterada a composição e o funcionamento da Comissão de Protecção contra as Radiações Ionizantes pelo DEC LEI.45132.1963.07.13.PC\
+    \ DG.IS [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45132-1963-693042
+  date: '1963-07-13'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:625412:por
+  label: Revogado o art. 9.º, no respeitante aos transportes rodoviários, pelo(a) Decreto-Lei n.º 210-C/84 - Diário da República
+    n.º 149/1984, 3º Suplemento, Série I de 1984-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-c-1984-625412
+  date: '1984-06-29'
+- type: repealed_by
+  target: pt:dre:548836:por
+  label: "Revogado pelo DEC LEI.348/89.1989.10.12.MS, DR.IS [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/348-1989-548836
+  date: '1989-10-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:08Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +145,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A protecção das pessoas contra as radiações ionizantes obedecerá às normas gerais contidas no presente diploma.
+Artigo 1.º A protecção das pessoas contra as radiações ionizantes obedecerá às normas gerais contidas no presente diploma.
 
-###### Art. 2.º As doses máximas admissíveis de exposição às radiações ionizantes e as concentrações máximas admissíveis dos nuclidos radioactivos na água de beber e no ar inalado constam dos anexos I e II do presente diploma.
+Art. 2.º As doses máximas admissíveis de exposição às radiações ionizantes e as concentrações máximas admissíveis dos nuclidos radioactivos na água de beber e no ar inalado constam dos anexos I e II do presente diploma.
 
 § único. Os valores fixados nos anexos I e II podem ser alterados por despacho do Presidente do Conselho, sobre proposta da Comissão de Protecção contra as Radiações Ionizantes, a criar na Junta de Energia Nuclear, nos termos do artigo 6.º
 
-###### Art. 3.º As doses de exposição às radiações ionizantes e a contaminação radioactiva da água de beber e do ar inalado devem ser medidas por forma a verificar-se a observância dos limites estabelecidos no artigo anterior.
+Art. 3.º As doses de exposição às radiações ionizantes e a contaminação radioactiva da água de beber e do ar inalado devem ser medidas por forma a verificar-se a observância dos limites estabelecidos no artigo anterior.
 
-###### Art. 4.º Os materiais e equipamentos produtores de radiações ionizantes deverão ser protegidos e a sua utilização regulamentada por forma a reduzir as doses recebidas pelas pessoas expostas a essas fontes ao menor valor pràticamente possível.
+Art. 4.º Os materiais e equipamentos produtores de radiações ionizantes deverão ser protegidos e a sua utilização regulamentada por forma a reduzir as doses recebidas pelas pessoas expostas a essas fontes ao menor valor pràticamente possível.
 
-###### Art. 5.º Nos locais com as características definidas na base A) do anexo I deverá ainda observar-se o seguinte:
+Art. 5.º Nos locais com as características definidas na base A) do anexo I deverá ainda observar-se o seguinte:
 
 a) Os seus acessos serão devidamente sinalizados, com letreiros, sinais acústicos e luminosos e outros dispositivos de tipo, quanto possível, uniforme;
 
@@ -128,7 +167,7 @@ d) Será assegurada fiscalização por métodos físicos das doses de radiação
 
 e) Quando se verifique que uma pessoa profissionalmente exposta às radiações ionizantes recebeu dose superior aos limites estabelecidos no anexo I, ou quando razões de ordem médica o aconselharem, deverá ela ser suspensa de tal actividade pelo tempo julgado necessário.
 
-###### Art. 6.º Para assegurar a aplicação dos preceitos contidos no presente diploma, é criada a Comissão de Protecção contra as Radiações Ionizantes (C. P. C. R. I.), que funcionará na Junta de Energia Nuclear e terá a seguinte composição:
+Art. 6.º Para assegurar a aplicação dos preceitos contidos no presente diploma, é criada a Comissão de Protecção contra as Radiações Ionizantes (C. P. C. R. I.), que funcionará na Junta de Energia Nuclear e terá a seguinte composição:
 
 a) O director-geral de Saúde, que presidirá;
 
@@ -154,15 +193,15 @@ j) O técnico responsável pela protecção contra as radiações ionizantes no 
 
 § 2.º A C. P. C. R. I. será secretariada pelo director dos Serviços Centrais da Junta de Energia Nuclear, que assegurará a execução das resoluções tomadas e o respectivo expediente através dos serviços deste organismo.
 
-###### Art. 7.º O presidente da C. P. C. R. I. poderá constituir entre os vogais e os técnicos referidos no § 1.º do artigo anterior grupos de trabalho para se ocuparem de assuntos determinados.
+Art. 7.º O presidente da C. P. C. R. I. poderá constituir entre os vogais e os técnicos referidos no § 1.º do artigo anterior grupos de trabalho para se ocuparem de assuntos determinados.
 
-###### Art. 8.º O presidente da Junta de Energia Nuclear poderá assistir às reuniões da C. P. C. R. I., assumindo então a sua presidência.
+Art. 8.º O presidente da Junta de Energia Nuclear poderá assistir às reuniões da C. P. C. R. I., assumindo então a sua presidência.
 
-###### Art. 9.º Carecem de prévia autorização da C. P. C. R. I. a importação, produção, utilização, armazenagem, transporte e eliminação de materiais radioactivos, bem como a importação, produção, instalação e utilização de aparelhagem produtora de radiações ionizantes para fins científicos, médicos ou industriais.
+Art. 9.º Carecem de prévia autorização da C. P. C. R. I. a importação, produção, utilização, armazenagem, transporte e eliminação de materiais radioactivos, bem como a importação, produção, instalação e utilização de aparelhagem produtora de radiações ionizantes para fins científicos, médicos ou industriais.
 
 § único. A C. P. C. R. I. poderá impor as medidas de protecção julgadas necessárias às pessoas e entidades que à data da publicação do presente diploma se dediquem às práticas referidas no corpo deste artigo.
 
-###### Art. 10.º Além da competência expressa no artigo anterior, cabe ainda à C. P. C. R. I.:
+Art. 10.º Além da competência expressa no artigo anterior, cabe ainda à C. P. C. R. I.:
 
 a) Promover a realização de inquéritos, inspecções e fiscalizações com o fim de assegurar o cumprimento do disposto neste diploma e nos seus anexos;
 
@@ -170,19 +209,19 @@ b) Propor ao Governo as disposições regulamentares a adoptar nos diversos caso
 
 c) Divulgar as medidas destinadas a assegurar a protecção das pessoas em geral contra os perigos das radiações ionizantes.
 
-###### Art. 11.º Sempre que se verifique terem sido acentuadamente excedidos os valores máximos admissíveis fixados nos anexos deste diploma ou que tenha ocorrido qualquer acidente do qual possa resultar a sujeição de terceiros aos perigos das radiações ionizantes, deverá o facto ser comunicado o mais ràpidamente possível à Junta de Energia Nuclear, a fim de serem tomada imediatas providências.
+Art. 11.º Sempre que se verifique terem sido acentuadamente excedidos os valores máximos admissíveis fixados nos anexos deste diploma ou que tenha ocorrido qualquer acidente do qual possa resultar a sujeição de terceiros aos perigos das radiações ionizantes, deverá o facto ser comunicado o mais ràpidamente possível à Junta de Energia Nuclear, a fim de serem tomada imediatas providências.
 
-###### Art. 12.º Para os efeitos do disposto nos artigos 9.º, 10.º e 11.º, prestarão os serviços especializados da Junta de Energia Nuclear e da Direcção-Geral de Saúde a colaboração técnica que lhes for solicitada pela C. P. C. R. I.
+Art. 12.º Para os efeitos do disposto nos artigos 9.º, 10.º e 11.º, prestarão os serviços especializados da Junta de Energia Nuclear e da Direcção-Geral de Saúde a colaboração técnica que lhes for solicitada pela C. P. C. R. I.
 
-###### Art. 13.º Passam a ser extensivas aos servidores do Estado subscritores da Caixa Geral de Aposentações vítimas de acidente ou doença resultante de exposição profissional às radiações ionizantes as disposições legais em vigor sobre responsabilidade do Estado por acidentes dos seus servidores directamente relacionados com o serviço.
+Art. 13.º Passam a ser extensivas aos servidores do Estado subscritores da Caixa Geral de Aposentações vítimas de acidente ou doença resultante de exposição profissional às radiações ionizantes as disposições legais em vigor sobre responsabilidade do Estado por acidentes dos seus servidores directamente relacionados com o serviço.
 
-###### Art. 14.º Nos exames médicos, para efeitos legais, de casos de acidente ou doença profissional resultantes da acção das radiações ionizantes poderá sempre ser agregado à entidade responsável por esses exames um médico da especialidade, designado pela C. P. C. R. I.
+Art. 14.º Nos exames médicos, para efeitos legais, de casos de acidente ou doença profissional resultantes da acção das radiações ionizantes poderá sempre ser agregado à entidade responsável por esses exames um médico da especialidade, designado pela C. P. C. R. I.
 
-###### Art. 15.º O presidente da C. P. C. R. I., os vogais designados nas alíneas b) a g) do artigo 6.º e, bem assim, os técnicos referidos no § 1.º do mesmo artigo terão direito a uma senha de presença de 150$00 por cada reunião a que assistirem, quer da própria Comissão, quer dos grupos de trabalho, e também aos transportes e ajudas de custo correspondentes à sua categoria como funcionários públicos. Os correspondentes encargos serão suportados pelo orçamento da Junta de Energia Nuclear.
+Art. 15.º O presidente da C. P. C. R. I., os vogais designados nas alíneas b) a g) do artigo 6.º e, bem assim, os técnicos referidos no § 1.º do mesmo artigo terão direito a uma senha de presença de 150$00 por cada reunião a que assistirem, quer da própria Comissão, quer dos grupos de trabalho, e também aos transportes e ajudas de custo correspondentes à sua categoria como funcionários públicos. Os correspondentes encargos serão suportados pelo orçamento da Junta de Energia Nuclear.
 
-###### Art. 16.º A C. P. C. R. I. poderá ordenar a suspensão do funcionamento dos equipamentos, ou proceder à apreensão dos materiais produtores de radiações ionizantes , quando, por inobservância de disposições regulamentares ou de medidas de protecção impostas pelo estado dos equipamentos ou materiais ou por qualquer outra razão, deles resulte perigo.
+Art. 16.º A C. P. C. R. I. poderá ordenar a suspensão do funcionamento dos equipamentos, ou proceder à apreensão dos materiais produtores de radiações ionizantes , quando, por inobservância de disposições regulamentares ou de medidas de protecção impostas pelo estado dos equipamentos ou materiais ou por qualquer outra razão, deles resulte perigo.
 
-###### Art. 17.º Serão punidos:
+Art. 17.º Serão punidos:
 
 1.º Com multa de 1000$00 a 5000$00:
 
@@ -206,7 +245,7 @@ c) A falta de urgente comunicação à Junta de Energia Nuclear dos factos previ
 
 § 2.º Em caso de reincidência na infracção prevista no n.º 3.º do corpo deste artigo, os equipamentos serão declarados perdidos a favor do Estado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -272,7 +311,7 @@ b) Para os nuclidos radioactivos cuja solubilidade ou insolubilidade não possa 
 
 c) No caso de uma mistura de nuclidos radioactivos deve ser considerada como uma irradiarada a acção cumulativa das irradiações que eles provocam e assegurado que os valores das concentrações máximas admissíveis não foram excedidos pelo emprego da fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27400/14771488.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27400/14771488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27400/14771488.pdf)
 
 d) No caso de uma mistura de nuclidos radioactivos cuja natureza é total ou parcialmente desconhecida, os valores das concentrações máximas admissíveis a utilizar são os constantes dos quadros II e III;
 
@@ -286,6 +325,6 @@ g) No caso de haver, simultâneamente, uma irradiação externa e interna, as co
 
 Do QUADRO I ao QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27400/14771488.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27400/14771488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27400/14771488.pdf)
 
 Presidência do Conselho, 25 de Novembro de 1961. - O Presidente do Conselho, António de Oliveira Salazar.

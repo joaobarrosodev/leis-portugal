@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1980-677459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ca0b9d2e4ec5f7b186cad03ddd675439b37e096275e0b5bb9eeb17a9921acf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 037d86d5a90e173f057947c3dc0bffa964ae257fd258d2b26e6ea923f63248fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Direito de Autor
+- Propriedade do Estado
+- Secretaria de Estado da Cultura
+relationships:
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 393/80, DE 25 DE SETEMBRO, PUBLICADO NO DR.IS, 222, DE 800925.\0925."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-09-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:25Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +112,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º - 1 - Compete à Secretaria de Estado da Cultura a defesa da integridade e genuinidade das obras intelectuais caídas no domínio público e das obras folclóricas e populares relativamente às quais não existam direitos exclusivos assegurados na lei aos seus autores ou sucessores.
+Artigo 1.º - 1 - Compete à Secretaria de Estado da Cultura a defesa da integridade e genuinidade das obras intelectuais caídas no domínio público e das obras folclóricas e populares relativamente às quais não existam direitos exclusivos assegurados na lei aos seus autores ou sucessores.
 
 2 - O uso das obras referidas no número anterior depende de prévia autorização do Secretário de Estado da Cultura.
 
@@ -111,17 +120,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A receita proveniente da cobrança da taxa aludida no número anterior destina-se ao Fundo de Fomento Cultural e ao Fundo de Auxílio aos Autores, em proporção a fixar anualmente pelo Secretário de Estado da Cultura.
 
-###### Art. 2.º O pagamento das taxas cobradas nos termos do n.º 3 do artigo 1.º é feito na Caixa Geral de Depósitos, por meio de guia passada pela Secretaria de Estado da Cultura.
+Art. 2.º O pagamento das taxas cobradas nos termos do n.º 3 do artigo 1.º é feito na Caixa Geral de Depósitos, por meio de guia passada pela Secretaria de Estado da Cultura.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 28 de Março de 1980.**
+Promulgado em 28 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabelas anexas ao Decreto-Lei n.º 54/80
 
@@ -131,7 +140,7 @@ Direitos de representação pública
 
 Espectáculos com entradas pagas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
 
 N. B. - Os preços previstos na presente tabela referem-se a peças teatrais que constituem espectáculo inteiro. No caso de as peças teatrais não constituírem espectáculo inteiro, os preços previstos sofrem uma redução de 50%.
 
@@ -219,11 +228,11 @@ Adaptador ... 2500$00
 
 Textos de programa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
 
 Tabela de descontos de série (precária)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
 
 Direitos de televisão - Obras não abrangidas pela avença
 
@@ -337,7 +346,7 @@ Televisão:
 
 Direitos de execução pública - Bailes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
 
 N. B. - Os preços previstos na presente tabela referem-se a bailes realizados em noites normais. Para os bailes realizados em tardes normais, os preços sofrem uma redução de 50%. Para os bailes que se realizarem na noite de 31 de Dezembro, os preços sofrem um aumento de 100%. Para os bailes que se realizarem no período de Carnaval, os preços sofrem um aumento de 200%.
 

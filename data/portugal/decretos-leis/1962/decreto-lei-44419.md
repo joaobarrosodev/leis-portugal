@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44419-1962-164576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b68042f7384b94de7dc15aa4682ab5928b46c7aeefceab9c0c63c206daba478
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82fecb2021b230f27c29042523e254e771ec673029dab5183ad6436a7b5eef57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Administrativo
+- Conselho Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Secretaria de Estado da Agricultura
+- Serviço de Campanha de Fomento Pecuário
 relationships:
 - type: amended_by
   target: pt:dre:348295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348295:por
+  label: "Extinto a partir do final do ano económico de 1975 o Serviço de Campanha de Fomento Pecuário pelo DEC LEI.737-A/75.23.12.1975.MF,\
+    \ DG.IS [295-2ºSupl] de 23.12.1975, e transferido o seu património para a Direcção-Geral dos Serviços Pecuários, no âmbito\
+    \ da Secretaria de Estado da Agricultura do Ministério da Economia, prevista na al. d) do art. 7º do Dec Lei 539/74 de\
+    \ 12-Out DG.IS [238]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/737-a-1975-348295
+  date: '1975-12-23'
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:17Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +122,15 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado na Secretaria de Estado da Agricultura, com carácter temporário, o Serviço de Campanha de Fomento Pecuário, que se destina a promover o aumento das diversas produções pecuárias e a melhoria das respectivas qualidades.
+Artigo 1.º É criado na Secretaria de Estado da Agricultura, com carácter temporário, o Serviço de Campanha de Fomento Pecuário, que se destina a promover o aumento das diversas produções pecuárias e a melhoria das respectivas qualidades.
 
 § único. O Serviço terá autonomia administrativa e financeira e personalidade jurídica.
 
-###### Art. 2.º A acção do Serviço desenvolver-se-á pela concessão de empréstimos e subsídios à lavoura e através de trabalhos a custear pelas dotações do seu orçamento privativo e a executar pelos departamentos competentes da Secretaria de Estado.
+Art. 2.º A acção do Serviço desenvolver-se-á pela concessão de empréstimos e subsídios à lavoura e através de trabalhos a custear pelas dotações do seu orçamento privativo e a executar pelos departamentos competentes da Secretaria de Estado.
 
 § único. Por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, serão fixadas as normas a observar na concessão de empréstimos e subsídios.
 
-###### Art. 3.º A actividade do Serviço será orientada por um conselho de coordenação, presidido pelo Secretário de Estado da Agricultura, de que fazem parte, como vogais, os directores-gerais dos Serviços Agrícolas, dos Serviços Pecuários e dos Serviços Florestais e Aquícolas e os presidentes da Junta de Colonização Interna e da Junta Nacional dos Produtos Pecuários.
+Art. 3.º A actividade do Serviço será orientada por um conselho de coordenação, presidido pelo Secretário de Estado da Agricultura, de que fazem parte, como vogais, os directores-gerais dos Serviços Agrícolas, dos Serviços Pecuários e dos Serviços Florestais e Aquícolas e os presidentes da Junta de Colonização Interna e da Junta Nacional dos Produtos Pecuários.
 
 § 1.º Cada vogal proporá ao Secretário de Estado da Agricultura a designação de um assessor, escolhido entre os técnicos do quadro do respectivo departamento, que o representará nos seus impedimentos legais.
 
@@ -118,7 +140,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Servirá de secretário do conselho o responsável pelos serviços administrativos.
 
-###### Art. 4.º Compete ao conselho de coordenação:
+Art. 4.º Compete ao conselho de coordenação:
 
 a) Estabelecer as bases em que se processará a acção a desenvolver;
 
@@ -136,7 +158,7 @@ f) Apreciar as contas de gerência a submeter a julgamento do Tribunal de Contas
 
 § 2.º O conselho pode determinar, sempre que o julgue conveniente, a verificação do êxito dos trabalhos por intermédio de inspecções requisitadas aos departamentos da Secretaria de Estado.
 
-###### Art. 5.º Constituem receitas do Serviço:
+Art. 5.º Constituem receitas do Serviço:
 
 a) As dotações que lhe forem atribuídas em despesa extraordinária do orçamento do Ministério da Economia, integrada no Plano de Fomento;
 
@@ -152,9 +174,9 @@ f) Outras receitas eventuais.
 
 § único. As receitas previstas nas alíneas b) a f) deste artigo serão entregues nos cofres do Estado e escrituradas em operações de tesouraria, transitando oportunamente para receita efectiva do Estado destinada à cobertura dos levantamentos a efectuar pelo serviço de conta de dotação adequada do orçamento do Ministério da Economia.
 
-###### Art. 6.º É fixado em 120000000$00 o limite da comparticipação do Tesouro prevista na alínea a) do artigo anterior, durante a vigência do II Plano de Fomento.
+Art. 6.º É fixado em 120000000$00 o limite da comparticipação do Tesouro prevista na alínea a) do artigo anterior, durante a vigência do II Plano de Fomento.
 
-###### Art. 7.º O Serviço de Campanha de Fomento Pecuário será gerido por um conselho administrativo, constituído por um dos vogais do conselho de coordenação, que servirá de presidente, por um dos assessores técnicos e por um chefe de repartição administrativa dos quadros da Secretaria de Estado, licenciado em Ciências Económicas e Financeiras, que será o secretário.
+Art. 7.º O Serviço de Campanha de Fomento Pecuário será gerido por um conselho administrativo, constituído por um dos vogais do conselho de coordenação, que servirá de presidente, por um dos assessores técnicos e por um chefe de repartição administrativa dos quadros da Secretaria de Estado, licenciado em Ciências Económicas e Financeiras, que será o secretário.
 
 § 1.º Os membros do conselho administrativo serão designadas por despacho do Secretário de Estado. A designação do presidente e do vogal assessor técnico será anual.
 
@@ -162,7 +184,7 @@ f) Outras receitas eventuais.
 
 § 3.º O conselho administrativo será assistido por um representante da Direcção-Geral da Contabilidade Pública, a designar por despacho do Ministro das Finanças sob proposta da mesma Direcção-Geral.
 
-###### Art. 8.º Ao conselho administrativo incumbe:
+Art. 8.º Ao conselho administrativo incumbe:
 
 a) Elaborar os projectos do orçamento ordinário e suplementares em conformidade com as deliberações do conselho de coordenação;
 
@@ -174,16 +196,16 @@ d) Autorizar as despesas com observância das disposições do [Decreto-Lei n.º
 
 e) Organizar a conta de gerência, submetê-la à aprovação do conselho de coordenação e remetê-la ao Tribunal de Contas para julgamento.
 
-###### Art. 9.º O conselho administrativo apresentará ao conselho de coordenação, até ao fim de cada mês, um balancete das cartas referentes ao mês anterior, bem como nota especificada da situação financeira.
+Art. 9.º O conselho administrativo apresentará ao conselho de coordenação, até ao fim de cada mês, um balancete das cartas referentes ao mês anterior, bem como nota especificada da situação financeira.
 
-###### Art. 10.º Para obrigar o conselho administrativo são necessárias as assinaturas de dois dos seus membros, e o pagamento das despesas será normalmente feito por meio de cheques, assinados também por dois membros deste conselho, passados à ordem dos interessados.
+Art. 10.º Para obrigar o conselho administrativo são necessárias as assinaturas de dois dos seus membros, e o pagamento das despesas será normalmente feito por meio de cheques, assinados também por dois membros deste conselho, passados à ordem dos interessados.
 
-###### Art. 11.º A fim de assegurar o financiamento das tarefas atribuídas aos serviços da Secretaria de Estado, nos termos da alínea d) do artigo, 4.º, poderão ser constituídos a favor daqueles serviços, fundos permanentes, cujo montante será fixado pelo conselho de coordenação, a justificar e documentar devidamente até ao dia 10 do mês seguinte ao do pagamento das despesas.
+Art. 11.º A fim de assegurar o financiamento das tarefas atribuídas aos serviços da Secretaria de Estado, nos termos da alínea d) do artigo, 4.º, poderão ser constituídos a favor daqueles serviços, fundos permanentes, cujo montante será fixado pelo conselho de coordenação, a justificar e documentar devidamente até ao dia 10 do mês seguinte ao do pagamento das despesas.
 
-###### Art. 12.º O pessoal administrativo e menor estritamente necessário para o funcionamento do Serviço criado pelo presente diploma será designado, por despacho do Secretário de Estado da Agricultura, entre as unidades dos quadros dos departamentos da Secretaria de Estado, por onde continuarão a ser abonados.
+Art. 12.º O pessoal administrativo e menor estritamente necessário para o funcionamento do Serviço criado pelo presente diploma será designado, por despacho do Secretário de Estado da Agricultura, entre as unidades dos quadros dos departamentos da Secretaria de Estado, por onde continuarão a ser abonados.
 
-###### Art. 13.º O Secretário de Estado da Agricultura poderá autorizar o recrutamento de pessoal em regime de pagamento de serviços para execução de tarefas definidas, de carácter eventual, a custear pelo Serviço.
+Art. 13.º O Secretário de Estado da Agricultura poderá autorizar o recrutamento de pessoal em regime de pagamento de serviços para execução de tarefas definidas, de carácter eventual, a custear pelo Serviço.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

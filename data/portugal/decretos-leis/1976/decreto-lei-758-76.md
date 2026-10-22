@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24800/23982399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/758-1976-409528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aca64885b0b5e4f690a983e937a1e44fde216c56c26467b0d54cbb08b4300cc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08f7671324fd1dcb8178da513931ad35a7d31f730678be2d5c7ca97ced7ae3dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amnistia
+- CAÇA
+- Código da Estrada
+- Contravenção
+- Crime
+- Crime Político
+- Infracção Disciplinar
+- Perdão da Pena
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407137:por
+  label: "Rectificado pela DECL.DD8080.10.11.1976.PCM, DR.IS [263] de 10.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-407137
+  date: '1976-11-10'
+- type: amended_by
+  target: pt:dre:471348:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante da alínea c) do artigo 2.º pela\
+    \ RES.255/80.15.07.1980.CR, DR.IS [161] de 15.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/255-1980-471348
+  date: '1980-07-15'
+- type: amended_by
+  target: pt:dre:576957:por
+  label: "Julgada inconstitucional a norma da al. d) do art. 2.º pela RES.168/81.22.07.1981.CR, DR.IS [175] de 01.08.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/168-1981-576957
+  date: '1981-07-22'
+- type: cites
+  target: pt:dre:438927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:33Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +160,7 @@ Assim, em consagração da hora jubilosa que passa, sublinhando a esperança que
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São amnistiados os crimes políticos e as infracções disciplinares da mesma natureza cometidos desde 25 de Abril de 1974.
+Artigo 1.º - 1. São amnistiados os crimes políticos e as infracções disciplinares da mesma natureza cometidos desde 25 de Abril de 1974.
 
 2. Para os efeitos do disposto neste diploma consideram-se crimes políticos os definidos no artigo 39.º, § único, do Código Penal, com inclusão dos cometidos contra a segurança exterior e interior do Estado.
 
@@ -138,7 +176,7 @@ d) A que corresponda pena superior à do n.º 4 do artigo 55.º do Código Penal
 
 4. A amnistia não abrange os crimes contra a liberdade das pessoas, nomeadamente sevícias sobre detidos, de furto, de dano e de abuso de autoridade, mesmo que não consumados, e ainda que a sua prática tenha obedecido a um fim exclusivamente político.
 
-###### Art. 2.º São também amnistiados os crimes:
+Art. 2.º São também amnistiados os crimes:
 
 a) A que corresponda pena de prisão, quando cometidos por menores de 18 anos;
 
@@ -148,11 +186,11 @@ c) A que corresponda ou tenha sido aplicada pena de prisão não superior a trê
 
 d) De simples detenção de armas de defesa, desde que o detentor legalize a sua posse no prazo de sessenta dias.
 
-###### Art. 3.º - 1. A amnistia não extingue a responsabilidade civil emergente dos factos praticados. Se os ofendidos houverem já deduzido pedido de fixação de indemnização civil no processo crime, podem, para o efeito de fixação da mesma, requerer, no prazo de trinta dias, o prosseguimento do processo.
+Art. 3.º - 1. A amnistia não extingue a responsabilidade civil emergente dos factos praticados. Se os ofendidos houverem já deduzido pedido de fixação de indemnização civil no processo crime, podem, para o efeito de fixação da mesma, requerer, no prazo de trinta dias, o prosseguimento do processo.
 
 2. É restituível o imposto de justiça pago pela constituição de assistente nos casos em que, pela aplicação da amnistia, cesse o procedimento criminal pelas infracções que motivaram a intervenção do assistente.
 
-###### Art. 4.º São ainda amnistiadas as contravenções previstas nos seguintes diplomas:
+Art. 4.º São ainda amnistiadas as contravenções previstas nos seguintes diplomas:
 
 a) As transgressões ao Código da Estrada e seu regulamento, quando puníveis apenas com multa;
 
@@ -164,7 +202,7 @@ d) A transgressão prevista no artigo 36.º do Decreto-Lei n.º 42661, de 20 de 
 
 e) As transgressões previstas em regulamentos, posturas e editais camarários.
 
-###### Art. 5.º - 1. São perdoados, relativamente às penas privativas de liberdade já aplicada, ainda que por decisão não transitada:
+Art. 5.º - 1. São perdoados, relativamente às penas privativas de liberdade já aplicada, ainda que por decisão não transitada:
 
 a) Dois meses, nas penas de prisão até seis meses;
 
@@ -178,14 +216,14 @@ d) Um sexto das penas de prisão maior fixas.
 
 3. Não beneficiam do perdão das penas os delinquentes de difícil correcção e os que, tendo beneficiado do perdão concedido pelo [Decreto-Lei n.º 259/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1974-662343), de 15 de Junho, perderam tal benefício nos termos do n.º 2 do artigo 1.º desse diploma.
 
-###### Art. 6.º Os benefícios concedidos pelo presente diploma apenas se aplicam às infracções e processos sujeitos à jurisdição do tribunal comum.
+Art. 6.º Os benefícios concedidos pelo presente diploma apenas se aplicam às infracções e processos sujeitos à jurisdição do tribunal comum.
 
-###### Art. 7.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 14 de Outubro de 1976.**
+Promulgado em 14 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

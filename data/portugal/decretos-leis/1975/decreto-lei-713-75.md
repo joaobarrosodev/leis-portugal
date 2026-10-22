@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 292/1975, 1º Suplemento, Série I de 1975-12-19
   number: '292'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2096-(1) a 2096-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29201/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/713-1975-301638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 765e76c2d9d2112109293a9cad58fdb32e75083cd4de3323f3a377fce6613946
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a190e1ff428cc6cd9ebb462fc9403b554894b0bcbd8c38e3ba8270568d8b17fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto Especial sobre o Consumo de Tabaco
+- Preço de Venda
+- Tabaco
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:552571:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:33Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +108,9 @@ Tal revisão implica novo preçário que garanta o conveniente funcionamento do 
 
 Nestes termos, usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 424/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1974-552571), de 9 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 424/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1974-552571), de 9 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. ...
 
@@ -130,7 +144,7 @@ Taxa de 20$00 sobre cada charuto cujo preço unitário de venda ao público seja
 
 Taxa de 30$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 40$00.
 
-###### Art. 2.º A lista a que sé refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 424/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1974-552571), de 9 de Setembro, passa a ser a seguinte:
+Art. 2.º A lista a que sé refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 424/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1974-552571), de 9 de Setembro, passa a ser a seguinte:
 
 Picados:
 
@@ -218,18 +232,18 @@ Nobel ... 11$00
 
 Plaza ... 11$00
 
-###### Art. 3.º - 1. Sempre que o lucro líquido das empresas tabaqueiras nacionalizadas exceda as necessidades próprias do sector, o Governo poderá determinar, por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, a transferência da totalidade ou de parte desses lucros para os cofres do Estado.
+Art. 3.º - 1. Sempre que o lucro líquido das empresas tabaqueiras nacionalizadas exceda as necessidades próprias do sector, o Governo poderá determinar, por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, a transferência da totalidade ou de parte desses lucros para os cofres do Estado.
 
 2. O despacho referido no número anterior fixará, além das importâncias relativas a cada empresa, as condições em que deverá processar-se a transferência das verbas para o Estado.
 
 3. A determinação do lucro líquido obedecerá, a partir do exercício de 1976, às regras contabilísticas a estabelecer em despacho do Ministro das Finanças.
 
-###### Art. 4.º Este decreto-lei entra em vigor na data da publicação.
+Art. 4.º Este decreto-lei entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo.
 
-**Promulgado em 5 de Dezembro de 1975.**
+Promulgado em 5 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

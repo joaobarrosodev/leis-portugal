@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44156-1962-520185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c12a6e732afcfa00b6bd692b6de89f95053f00b72979dba15bbb69d18563c10e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a6632b496541954add2cf721f613e6fe5a7074b6d187fb4953b02d96535ab4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuição Industrial
+- Contribuições e Impostos
+- Estabelecimento Industrial
+- Indústria Automóvel
+- Infraestrutura Turística
+- Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:224820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533988:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:36Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +111,7 @@ Considerando, assim, a necessidade de introduzir novamente algumas alterações 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreto e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As rubricas «Automóveis (Alugador de)», «Camionetas de carga», «Camionetas de passageiros», «Camiões de passageiros» e «Camiões de carga», constantes da tabela da contribuição industrial, grupo A, aprovada pelo [Decreto n.º 18270](https://diariodarepublica.pt/dr/detalhe/decreto/18270-1930-224820), de 1 de Maio de 1930, são reunidas e classificadas do seguinte modo:
+Artigo 1.º As rubricas «Automóveis (Alugador de)», «Camionetas de carga», «Camionetas de passageiros», «Camiões de passageiros» e «Camiões de carga», constantes da tabela da contribuição industrial, grupo A, aprovada pelo [Decreto n.º 18270](https://diariodarepublica.pt/dr/detalhe/decreto/18270-1930-224820), de 1 de Maio de 1930, são reunidas e classificadas do seguinte modo:
 
 Automóveis (Alugador de) (exceptuados os de instrução):
 
@@ -143,7 +165,7 @@ Nas outras cidades ... 1000$00
 
 Nas demais terras ... 1000$00
 
-###### Art. 2.º As rubricas «Banhos no mar ou nos rios (Empresário ou dono de barraca para)», constante da referida tabela, e «Toldos nas praias (Alugador de) quando não forem empresários ou donos de barracas para banhos no mar ou nos rios», adicionada à mesma tabela pelo artigo 3.º do [Decreto-Lei n.º 28220](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28220-1937-435218), de 24 de Novembro de 1937, são também reunidas e assim designadas:
+Art. 2.º As rubricas «Banhos no mar ou nos rios (Empresário ou dono de barraca para)», constante da referida tabela, e «Toldos nas praias (Alugador de) quando não forem empresários ou donos de barracas para banhos no mar ou nos rios», adicionada à mesma tabela pelo artigo 3.º do [Decreto-Lei n.º 28220](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28220-1937-435218), de 24 de Novembro de 1937, são também reunidas e assim designadas:
 
 Banhos no mar ou nos rios:
 
@@ -151,7 +173,7 @@ Barracas de sombra (Alugador de), por cada barraca ... 20$00
 
 Toldos de sombra (Alugador de), por cada toldo ... 10$00
 
-###### Art. 3.º São eliminadas da referida tabela as seguintes actividades:
+Art. 3.º São eliminadas da referida tabela as seguintes actividades:
 
 Cabeleireiro de senhoras;
 
@@ -159,7 +181,7 @@ Cabeleireiro de senhoras sem estabelecimento;
 
 Modista (que não vende preparos, fazendas e análogos).
 
-###### Art. 4.º Na Relação geral das indústrias e dos comércios, aprovada pelo [Decreto n.º 18222](https://diariodarepublica.pt/dr/detalhe/decreto/18222-1930-533988), de 19 de Abril de 1930, é aditada a verba n.º 9 e alterada a redacção da verba n.º 289 pela forma que segue:
+Art. 4.º Na Relação geral das indústrias e dos comércios, aprovada pelo [Decreto n.º 18222](https://diariodarepublica.pt/dr/detalhe/decreto/18222-1930-533988), de 19 de Abril de 1930, é aditada a verba n.º 9 e alterada a redacção da verba n.º 289 pela forma que segue:
 
 9 - Agentes:
 
@@ -169,17 +191,17 @@ De tráfego de mercadorias nos portos.
 
 289 - Modistas (casacos, vestidos ou roupas interiores).
 
-###### Art. 5.º São incluídas na relação a que se refere o artigo anterior as seguintes actividades:
+Art. 5.º São incluídas na relação a que se refere o artigo anterior as seguintes actividades:
 
 66-A - Cabeleireiro de senhoras, com ou sem estabelecimento.
 
 168-A - Empreiteiro, comissário ou corretor de cargas e descargas nos portos.
 
-###### Art. 6.º É revogado o artigo 3.º do [Decreto-Lei n.º 28220](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28220-1937-435218), de 24 de Novembro de 1937.
+Art. 6.º É revogado o artigo 3.º do [Decreto-Lei n.º 28220](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28220-1937-435218), de 24 de Novembro de 1937.
 
-###### Art. 7.º (transitório). As disposições deste decreto-lei serão já consideradas no lançamento da contribuição industrial para o ano de 1962, devendo ser apresentadas no prazo de quinze dias, a contar da respectiva publicação, e de harmonia com as alterações agora introduzidas, as declarações a que se refere o artigo 1.º do [Decreto-Lei n.º 24916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24916-1935-467661), de 10 de Janeiro de 1935, e artigo 1.º do [Decreto-Lei n.º 28220](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28220-1937-435218), de 24 de Novembro de 1937.
+Art. 7.º (transitório). As disposições deste decreto-lei serão já consideradas no lançamento da contribuição industrial para o ano de 1962, devendo ser apresentadas no prazo de quinze dias, a contar da respectiva publicação, e de harmonia com as alterações agora introduzidas, as declarações a que se refere o artigo 1.º do [Decreto-Lei n.º 24916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24916-1935-467661), de 10 de Janeiro de 1935, e artigo 1.º do [Decreto-Lei n.º 28220](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28220-1937-435218), de 24 de Novembro de 1937.
 
-**Publique-se e cumpra-se como nele contém.**
+Publique-se e cumpra-se como nele contém.
 
 Paços do Governo da República, 17 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel - Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

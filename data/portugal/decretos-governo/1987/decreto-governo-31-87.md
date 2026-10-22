@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1987-495687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a69e3bf57ab6ec5e0721e98032a852ac024acbcb092847e410a6d9c892e30fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db5351b5a912003e3bcee42cf1fa7c34e6fe6605ddcc7771df4b48f50bee5865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Câmara Municipal
+- Dissolução do Parlamento
+- Fundão
+relationships:
+- type: cites
+  target: pt:dre:277277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:18Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +100,18 @@ Tornando-se necessário reformar o [Decreto do Governo n.º 26/87](https://diari
 
 O Governo decreta, ao abrigo do n.º 3 do artigo 93.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, e nos termos da alínea d) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto do Governo n.º 26/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/26-1987-420442), de 15 de Julho, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto do Governo n.º 26/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/26-1987-420442), de 15 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 3.º As eleições para a Câmara Municipal do Fundão realizar-se-ão no dia 18 de Outubro de 1987.
+Art. 3.º As eleições para a Câmara Municipal do Fundão realizar-se-ão no dia 18 de Outubro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1987. - Aníbal António Cavaco Silva - José Manuel Nunes Liberato.
 
-**Assinado em 27 de Agosto de 1987.**
+Assinado em 27 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1987.**
+Referendado em 7 de Setembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

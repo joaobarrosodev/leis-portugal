@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/61-1972-399042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04a742dd7e959689572f4e5a0c511f3ff0a60f4f3ef3d960c3ffa033c8817817
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68b88ac5dd40bf456945ff61cb4a7b2fe2116398ce98bbd9f14d4e7a3f53d168
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:03Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +93,14 @@ Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Ficam autorizados os governos das províncias ultramarinas a tornar livres de direitos de exportação, mediante portaria, as mercadorias manufacturadas pelas indústrias nelas estabelecidas.
+Artigo único. Ficam autorizados os governos das províncias ultramarinas a tornar livres de direitos de exportação, mediante portaria, as mercadorias manufacturadas pelas indústrias nelas estabelecidas.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Fevereiro de 1972.**
+Promulgado em 12 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

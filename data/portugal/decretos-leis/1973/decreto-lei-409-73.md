@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1973-419600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee9195cd088ae2057049058eda4d9742b4bc9e4635052462cc5af1a48cf27eda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1439e9b1b1d6efdc686eb0b9b294d9f481756d6d2edcecc3eb788ca8ae89657
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Ensino Superior Militar
+- Forças Armadas
+- Militar
+- Oficial do Quadro Permanente
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:143548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687231:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:00Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +114,9 @@ de 20 de Agosto
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passam a ter a seguinte redacção os artigos 3.º e 6.º do [Decreto-Lei n.º 353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho:
+Artigo 1.º Passam a ter a seguinte redacção os artigos 3.º e 6.º do [Decreto-Lei n.º 353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho:
 
-###### Art. 3.º - 1. Os oficiais a que se refere o artigo 1.º, findo o curso, ingressam no quadro permanente da respectiva arma, mantendo ou obtendo a antiguidade de tenente referida a 1 de Dezembro do ano em que foram ou seriam promovidos a este posto como oficiais do quadro de complemento.
+Art. 3.º - 1. Os oficiais a que se refere o artigo 1.º, findo o curso, ingressam no quadro permanente da respectiva arma, mantendo ou obtendo a antiguidade de tenente referida a 1 de Dezembro do ano em que foram ou seriam promovidos a este posto como oficiais do quadro de complemento.
 
 2. A antiguidade atribuída nos termos do número anterior não poderá, porém, exceder a do capitão que, à data dessa atribuição, for o mais antigo do quadro da respectiva arma.
 
@@ -98,7 +124,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Na antiguidade estabelecida de acordo com o disposto nos números anteriores é deduzido todo o tempo em que, a partir da promoção a alferes do quadro de complemento, os oficiais se mantiverem fora da efectividade do serviço.
 
-###### Art. 6.º - 1. O disposto no artigo 3.º tem aplicação aos oficiais que terminaram ou venham a terminar, com aproveitamento, os cursos da Academia Militar ao abrigo das disposições do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, do [Decreto-Lei n.º 44184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44184-1962-518821), de 10 de Fevereiro de 1962, do [Decreto-Lei n.º 45302](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45302-1963-687231), de 11 de Outubro de 1963, e do [Decreto-Lei n.º 48254](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48254-1968-143548), de 21 de Fevereiro de 1968, sendo revogadas as determinações em contrário constantes dos citados diplomas.
+Art. 6.º - 1. O disposto no artigo 3.º tem aplicação aos oficiais que terminaram ou venham a terminar, com aproveitamento, os cursos da Academia Militar ao abrigo das disposições do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, do [Decreto-Lei n.º 44184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44184-1962-518821), de 10 de Fevereiro de 1962, do [Decreto-Lei n.º 45302](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45302-1963-687231), de 11 de Outubro de 1963, e do [Decreto-Lei n.º 48254](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48254-1968-143548), de 21 de Fevereiro de 1968, sendo revogadas as determinações em contrário constantes dos citados diplomas.
 
 2. Relativamente aos oficiais abrangidos pelo disposto no número anterior observar-se-á o seguinte:
 
@@ -108,12 +134,12 @@ b) Os tenentes, quando lhes competir, por aplicação do preceituado no n.º 1 d
 
 c) Os alferes, quando lhes competir, por aplicação do preceituado no artigo 3.º, a promoção a tenente, são colocados na respectiva escala à esquerda do tenente mais moderno, procedendo-se daí por diante nos termos estabelecidos na alínea anterior.
 
-###### Art. 2.º A redacção indicada no artigo anterior considera-se, para todos os efeitos legais, integrada no [Decreto-Lei n.º 353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho, substituindo as disposições dos artigos 3.º e 6.º do mesmo diploma.
+Art. 2.º A redacção indicada no artigo anterior considera-se, para todos os efeitos legais, integrada no [Decreto-Lei n.º 353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho, substituindo as disposições dos artigos 3.º e 6.º do mesmo diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 8 de Agosto de 1973.**
+Promulgado em 8 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 112/1967, 1º Suplemento, Série I de 1967-05-11
   number: '112'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1024 - 1030
   pdf_url: https://files.diariodarepublica.pt/1s/1967/05/11201/10241030.pdf
 entry_into_force_dates: []
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47692-1967-348328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d42bbdf881facbc968362fe67776b29a91bc7be84a904e855c17b5cf7b63652e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 033843cbfcec796fd8d6d231888f0e3cbb93a3c265cb62e46506c26c027642fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
+- Imposto de Justiça
+- Imposto do SELO
+- Isenção de Taxas e Emolumentos
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:667744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:675608:por
+  label: "Dada nova redacção ao art. 195º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329 de 08-Mai de 1962, com\
+    \ a redacção constante do presente diploma, pelo DEC LEI.270/72.02.08.1972.MJ, DG.IS [179] de 02.08.1972 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1972-675608
+  date: '1972-08-02'
+- type: amended_by
+  target: pt:dre:421655:por
+  label: "Alterado, a partir de 27.06.1987, o artigo 87.º do Código das Custas Judiciais, constante do Decreto-Lei n.º 44329,\
+    \ de 8 de Maio de 1962, na redacção do presente diploma, pelo DEC LEI.214/87.28.05.1987.MJ, DR.IS [122] de 28.05.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1987-421655
+  date: '1987-05-28'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterados os arts. 8º, 43.º e 46.º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329, de 08-Mai 1962, com
+    a redação do presente diploma, pelo(a) Decreto-Lei n.º 92/88 - Diário da República n.º 64/1988, 1º Suplemento, Série I
+    de 1988-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: cites
+  target: pt:dre:545666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 43
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:08Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +118,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º, 6.º, 8.º, 24.º, 25.º, 26.º, 32.º, 33.º, 42.º, 43.º, 44.º, 46.º, 56.º, 65.º, 84.º, 85.º, 87.º, 89.º, 97.º, 98.º, 101.º, 112.º, 124.º, 131.º, 142.º, 150.º, 160.º, 161.º, 162.º, 171.º, 174.º, 183.º, 184.º, 188.º, 190.º, 195.º, 200.º, 202.º, 236.º, 239.º, 258.º e 267.º do Código das Custas Judiciais, aprovado pelo [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de Maio de 1962, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º, 6.º, 8.º, 24.º, 25.º, 26.º, 32.º, 33.º, 42.º, 43.º, 44.º, 46.º, 56.º, 65.º, 84.º, 85.º, 87.º, 89.º, 97.º, 98.º, 101.º, 112.º, 124.º, 131.º, 142.º, 150.º, 160.º, 161.º, 162.º, 171.º, 174.º, 183.º, 184.º, 188.º, 190.º, 195.º, 200.º, 202.º, 236.º, 239.º, 258.º e 267.º do Código das Custas Judiciais, aprovado pelo [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de Maio de 1962, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — (Isenções de natureza pessoal)
 
@@ -454,7 +484,7 @@ Efectuada a penhora sobre bens comuns, em execução por custas movida contra um
 
 II
 
-# Parte criminal
+## Parte criminal
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -616,8 +646,8 @@ e) Os subsídios ao Cofre Geral dos Tribunais que, sob proposta do conselho admi
 
 Os chefe das repartições de finanças são obrigados a enviar, até ao dia 15 de cada mês, ao agente do Ministério Público da respectiva comarca ou julgado, ou do 1.º juízo cível, quando haja mais de um, a relação dos processos de liquidação do imposto sobre as sucessões e doações instaurados no mês anterior, com a indicação do nome do autor da herança, data e local do óbito, idades e moradas das pessoas que lhe sucederem.
 
-###### Art. 2.º As alterações introduzidas por este diploma entram em vigor no dia 1 de Junho de 1967.
+Art. 2.º As alterações introduzidas por este diploma entram em vigor no dia 1 de Junho de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49471-1969-212979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d26ce472b0232c5dd80ef2ff46a5a27dff62675477c910cdeb6a7e5192e3888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2471d14a346b5e14a6c6b7c5a5e50cc57652f02abb57a1f007c6464edb1df16f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Direitos de Importação
+- Importação
+- Instruções Preliminares das Pautas
+- Pauta dos Direitos de Importação
+- Regulamento das Alfândegas
+- Serviço Postal
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:390029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684779:por
+  label: "Alterado o art. 2º do Dec Lei 43400 de 15-Dez de 1960, com a redacção constante do presente diploma, pelo DEC LEI.58/73.24.02.1973.MF,\
+    \ DG.IS [MF] de 24.02.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1973-684779
+  date: '1973-02-24'
+- type: cites
+  target: pt:dre:352742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512836:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:390029:por
+  label: "Revogados os artigos 1.º, 2.º e 3.º pelo DEC LEI.6/81.24.01.1981.MFP, DR.IS [20] de 24.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1981-390029
+  date: '1981-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:16Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +135,7 @@ Ouvida a Câmara Corporativa;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os objectos separados de bagagem não destinados a comércio, de valor até 1000$00 e peso não superior a 10 kg, trazidos por passageiros, pagam direitos pela taxa especial de 30 por cento ad valorem.
+Artigo 1.º Os objectos separados de bagagem não destinados a comércio, de valor até 1000$00 e peso não superior a 10 kg, trazidos por passageiros, pagam direitos pela taxa especial de 30 por cento ad valorem.
 
 § único. Não obstante o disposto neste artigo, aplicar-se-á o regime geral de importação:
 
@@ -114,13 +145,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Aos objectos transportados pelos tripulantes ou condutores dos meios de transporte internacionais ou por outros indivíduos que transitem com frequência pela fronteira.
 
-###### Art. 2.º É elevado para 1000$00 o limite de 500$00 fixado no artigo 2.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960.
+Art. 2.º É elevado para 1000$00 o limite de 500$00 fixado no artigo 2.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960.
 
-###### Art. 3.º É extensivo à carga transportada por via aérea o disposto no n.º 9.º do artigo 72.º das Instruções Preliminares da Pauta de Importação e nos artigos 2.º e 4.º do diploma referido no artigo anterior.
+Art. 3.º É extensivo à carga transportada por via aérea o disposto no n.º 9.º do artigo 72.º das Instruções Preliminares da Pauta de Importação e nos artigos 2.º e 4.º do diploma referido no artigo anterior.
 
-###### Art. 4.º O artigo 288.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passa a ter a seguinte redacção:
+Art. 4.º O artigo 288.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passa a ter a seguinte redacção:
 
-###### Art. 288.º ...
+Art. 288.º ...
 
 ...
 
@@ -128,9 +159,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 17 de Dezembro de 1969.**
+Promulgado em 17 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

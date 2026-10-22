@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1981-580350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 354fae96c2c3bfc2004486b0a59b43dc59e1bb71f145802c97f1e05a12fbcce6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42e8672bd821c5e4d63dfdef873e58204f39bbd32fd02e1d158feb799adcab76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Assistência Medicamentosa
+- Hospital Militar
+- Pensão de Invalidez
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:22Z'
   warnings: []
   errors: []
 ---
@@ -90,22 +94,22 @@ Considerando ser de inteira justiça alargar as modalidades de assistência méd
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os civis pensionistas de invalidez a que se refere o Decreto-Lei n.º 350/71, de 12 de Agosto, têm direito a assistência médica, hospitalar e medicamentosa gratuita, a prestar nos hospitais militares e postos de socorros das unidades, para tratamento de moléstia, ferimento ou mutilação determinantes da incapacidade.
+Artigo 1.º Os civis pensionistas de invalidez a que se refere o Decreto-Lei n.º 350/71, de 12 de Agosto, têm direito a assistência médica, hospitalar e medicamentosa gratuita, a prestar nos hospitais militares e postos de socorros das unidades, para tratamento de moléstia, ferimento ou mutilação determinantes da incapacidade.
 
 § único. O carácter gratuito da assistência mantém-se, quer as consultas, internamentos ou tratamentos sejam periódicos ou acidentais e ainda que os medicamentos necessários não se destinem a ser utilizados pelos assistidos no acto da consulta.
 
-###### Art. 2.º Os civis nas condições previstas no artigo anterior têm direito a transportes por conta do Estado na ida e regresso das consultas a que tenham de ser submetidos, quando:
+Art. 2.º Os civis nas condições previstas no artigo anterior têm direito a transportes por conta do Estado na ida e regresso das consultas a que tenham de ser submetidos, quando:
 
 a) A assistência seja prestada na localidade onde residem e não possam utilizar os meios normais de transporte;
 
 b) A assistência seja prestada em localidade diferente daquela em que residem.
 
-###### Art. 3.º Os encargos serão suportados pelos respectivos departamentos.
+Art. 3.º Os encargos serão suportados pelos respectivos departamentos.
 
 Visto e aprovado em Conselho da Revolução em 12 de Junho de 1981.
 
-**Promulgado em 29 de Junho de 1981.**
+Promulgado em 29 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

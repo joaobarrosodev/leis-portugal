@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27500/16561664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d76650e00ede4abf45fbc9c896a78acab879385a801abf46a539e83c0384d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a985cc33ea5fad0a0d610db6812ed23bb4697ec7aaaaae6966f0b4e8fb4f1912
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:221697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221697:por
+  label: "Revogado pelo DEC LEI.328/86.30.09.1986.PCM, DR.IS [225] de 30.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1986-221697
+  date: '1986-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:47Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +195,7 @@ Usando da faculdade conferida pela 1.ª, parte do n.º 2.º do artigo 109.º da 
 
 ### CAPÍTULO I — Das atribuições e competência
 
-###### Artigo 1.º - 1. É das atribuições da Secretaria de Estado da Informação e Turismo:
+Artigo 1.º - 1. É das atribuições da Secretaria de Estado da Informação e Turismo:
 
 a) Declarar de interesse para o turismo ou sem interesse para o turismo os estabelecimentos hoteleiras e similares;
 
@@ -181,7 +205,7 @@ c) Orientar, através de instruções a transmitir aos presidentes das câmaras 
 
 2. Para o exercício das atribuições que lhe são cometidas, e sempre que haja lugar à intervenção de outras entidades, compete ainda à Secretaria de Estado promover reuniões com vista à apreciação conjunta dos assuntos pendentes, dar o seu parecer ou informar-se do andamento dos processos.
 
-###### Art. 2.º - 1. Para o desempenho das atribuições a que se refere o artigo 1.º, n.º 1, alínea b), cabe designadamente à Secretaria de Estado, pela Direcção-Geral do Turismo:
+Art. 2.º - 1. Para o desempenho das atribuições a que se refere o artigo 1.º, n.º 1, alínea b), cabe designadamente à Secretaria de Estado, pela Direcção-Geral do Turismo:
 
 a) Aprovar, sem prejuízo da competência atribuída a outras entidades nos termos definidos neste decreto-lei, a localização e os projectos dos estabelecimentos hoteleiros e similares;
 
@@ -205,7 +229,7 @@ j) Aplicar sanções por infracções ao disposto no presente diploma e suas dis
 
 2. Para a fiscalização prevista na alínea g) do n.º 1, quanto aos preços é também competente a Inspecção-Geral das Actividades Económicas, nos termos da legislação especial aplicável.
 
-###### Art. 3.º - 1. A competência atribuída no artigo anterior à Secretaria de Estado será exercida, relativamente aos estabelecimentos hoteleiros e similares sem interesse para o turismo, pelas câmaras municipais quanto ao disposto na alínea a) e pelos seus presidentes quanto às restantes alíneas, tendo em atenção as directrizes estabelecidas pela Secretaria de Estado.
+Art. 3.º - 1. A competência atribuída no artigo anterior à Secretaria de Estado será exercida, relativamente aos estabelecimentos hoteleiros e similares sem interesse para o turismo, pelas câmaras municipais quanto ao disposto na alínea a) e pelos seus presidentes quanto às restantes alíneas, tendo em atenção as directrizes estabelecidas pela Secretaria de Estado.
 
 2. Para o exercício desta competência, as câmaras municipais e os seus presidentes ouvirão as comissões municipais, as juntas ou as comissões regionais de turismo, conforme for o caso.
 
@@ -215,9 +239,9 @@ j) Aplicar sanções por infracções ao disposto no presente diploma e suas dis
 
 5. É aplicável aos estabelecimentos sem interesse para o turismo o disposto no n.º 2 do artigo 2.º
 
-###### Art. 4.º A Secretaria de Estado da Informação e Turismo será ouvida, antes da homologação das convenções colectivas de trabalho e respectivas alterações, quando naquelas intervierem organismos corporativos da indústria hoteleira ou similiar, para se pronunciar sobre a sua incidência no turismo nacional.
+Art. 4.º A Secretaria de Estado da Informação e Turismo será ouvida, antes da homologação das convenções colectivas de trabalho e respectivas alterações, quando naquelas intervierem organismos corporativos da indústria hoteleira ou similiar, para se pronunciar sobre a sua incidência no turismo nacional.
 
-###### Art. 5.º - 1. Compete à Direcção-Geral do Turismo a organização de um registo de todos os estabelecimentos hoteleiros e similares, do qual constarão a denominação aprovada, a empresa proprietária e a exploradora e os demais elementos necessários à sua caracterização económico-jurídica.
+Art. 5.º - 1. Compete à Direcção-Geral do Turismo a organização de um registo de todos os estabelecimentos hoteleiros e similares, do qual constarão a denominação aprovada, a empresa proprietária e a exploradora e os demais elementos necessários à sua caracterização económico-jurídica.
 
 2. Desse registo constarão também as reclamações recebidas e as sanções aplicadas.
 
@@ -225,17 +249,17 @@ j) Aplicar sanções por infracções ao disposto no presente diploma e suas dis
 
 ### CAPÍTULO II — Disposições gerais
 
-###### Art. 6.º - 1. Serão declarados de interesse para o turismo os estabelecimentos hoteleiros e similares que satisfaçam aos requisitos mínimos estabelecidos neste diploma e suas disposições regulamentares.
+Art. 6.º - 1. Serão declarados de interesse para o turismo os estabelecimentos hoteleiros e similares que satisfaçam aos requisitos mínimos estabelecidos neste diploma e suas disposições regulamentares.
 
 2. Poderão ainda ser declarados de interesse para o turismo, independentemente de obedecerem às condições previstas no número anterior, os estabelecimentos que, em consequência da valorização da sua localização e das suas características ou serviço verificado no decorrer do funcionamento, venham a constituir uma atracção turística ou um importante elemento de apoio às infra-estruturas turísticas de uma zona ou região.
 
-###### Art. 7.º - 1. A declaração prevista na alínea a) do n.º 1 do artigo 1.º será feita pela Direcção-Geral do Turismo.
+Art. 7.º - 1. A declaração prevista na alínea a) do n.º 1 do artigo 1.º será feita pela Direcção-Geral do Turismo.
 
 2. Essa declaração poderá ser feita pelas delegações da Secretaria de Estado previstas no artigo 43.º do [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944, ou pelos órgãos locais de turismo, nos termos a estabelecer em despacho do Secretário de Estado da Informação e Turismo, no qual se fixará ainda a competência territorial dessas delegações e desses órgãos para o efeito.
 
 3. Para o mesmo fim, poderão também ser nomeados delegados locais da Direcção-Geral do Turismo, sempre que as circunstâncias o justificarem.
 
-###### Art. 8.º - 1. A Direcção-Geral do Turismo poderá, a qualquer tempo, oficiosamente ou a requerimento do interessado, rever a declaração de ou sem interesse para o turismo atribuída aos estabelecimentos.
+Art. 8.º - 1. A Direcção-Geral do Turismo poderá, a qualquer tempo, oficiosamente ou a requerimento do interessado, rever a declaração de ou sem interesse para o turismo atribuída aos estabelecimentos.
 
 2. Declarado um estabelecimento sem interesse para o turismo, a revisão oficiosa dessa declaração verificar-se-á sempre que o estabelecimento venha a satisfazer às condições previstas no n.º 1 do artigo 6.º
 
@@ -243,21 +267,21 @@ j) Aplicar sanções por infracções ao disposto no presente diploma e suas dis
 
 4. Quando a revogação prevista no número anterior tiver como causa o deficiente estado de conservação das instalações, só poderá ser executada se, depois de notificado o interessado das obras a efectuar e do prazo para a sua realização, este não der cumprimento ao determinado.
 
-###### Art. 9.º - 1. A classificação atribuída aos estabelecimentos de interesse para o turismo, nos termos dos artigos 15.º e 18.º, poderá, a qualquer tempo, ser revista pela Direcção-Geral do Turismo, oficiosamente ou a requerimento do interessado, verificada a alteração dos pressupostos que a determinaram.
+Art. 9.º - 1. A classificação atribuída aos estabelecimentos de interesse para o turismo, nos termos dos artigos 15.º e 18.º, poderá, a qualquer tempo, ser revista pela Direcção-Geral do Turismo, oficiosamente ou a requerimento do interessado, verificada a alteração dos pressupostos que a determinaram.
 
 2. A desclassificação oficiosa terá lugar, independentemente da aplicação de qualquer sanção, quando, pelo deficiente estado de conservação ou reiteradas deficiências de serviço, o estabelecimento não corresponder ao grupo ou categoria em que estiver incluído.
 
 3. Aplicar-se-á neste caso, com as necessárias adaptações, o disposto no n.º 4 do artigo anterior.
 
-###### Art. 10.º - 1. Quando as necessidades do turismo o aconselharem, além das classificações previstas nos artigos 15.º e 18.º, poderão ser estabelecidas outras, a definir e caracterizar em regulamento publicado pela Secretaria de Estado da Informação e Turismo.
+Art. 10.º - 1. Quando as necessidades do turismo o aconselharem, além das classificações previstas nos artigos 15.º e 18.º, poderão ser estabelecidas outras, a definir e caracterizar em regulamento publicado pela Secretaria de Estado da Informação e Turismo.
 
 2. Serão observadas nessa regulamentação, com as necessárias adaptações, as disposições genéricas contidas neste decreto-lei e nos que regularem as actividades turísticas ao ar livre, consoante as características e a natureza dos empreendimentos.
 
-###### Art. 11.º - 1. Os estabelecimentos hoteleiros e similares serão considerados como públicos, sendo livre o seu acesso sem outra restrição que não seja a de a clientela se sujeitar às disposições regulamentares deste diploma.
+Art. 11.º - 1. Os estabelecimentos hoteleiros e similares serão considerados como públicos, sendo livre o seu acesso sem outra restrição que não seja a de a clientela se sujeitar às disposições regulamentares deste diploma.
 
 2. Exceptuam-se do disposto no número anterior, mediante autorização da Direcção-Geral do Turismo, os estabelecimentos destinados apenas aos associados ou beneficiários das empresas proprietárias ou exploradoras.
 
-###### Art. 12.º - 1. Nas denominações dos estabelecimentos hoteleiros ou similiares deverá ser utilizada a língua portuguesa, só podendo ser autorizado o emprego de palavras estrangeiras quando os usos internacionais ou razões de ordem turística o justificarem.
+Art. 12.º - 1. Nas denominações dos estabelecimentos hoteleiros ou similiares deverá ser utilizada a língua portuguesa, só podendo ser autorizado o emprego de palavras estrangeiras quando os usos internacionais ou razões de ordem turística o justificarem.
 
 2. As expressões «turístico» ou «turismo» não podem ser empregadas na denominação ou outra designação dos estabelecimentos.
 
@@ -265,13 +289,13 @@ j) Aplicar sanções por infracções ao disposto no presente diploma e suas dis
 
 4. O disposto neste artigo não se aplica às denominações já autorizadas.
 
-###### Art. 13.º De entre os estabelecimentos hoteleiros e similares apenas os de interesse para o turismo poderão constar das publicações e da promoção turística organizadas ou patrocinadas pela Direcção-Geral do Turismo e beneficiar da declaração de utilidade turística e da assistência financeira do Fundo de Turismo.
+Art. 13.º De entre os estabelecimentos hoteleiros e similares apenas os de interesse para o turismo poderão constar das publicações e da promoção turística organizadas ou patrocinadas pela Direcção-Geral do Turismo e beneficiar da declaração de utilidade turística e da assistência financeira do Fundo de Turismo.
 
 ### CAPÍTULO III — Da classificação dos estabelecimentos de interesse para o turismo
 
 #### SECÇÃO I — Dos estabelecimentos hoteleiros
 
-###### Art. 14.º - 1. São estabelecimentos hoteleiros os destinados a proporcionar alojamento, mediante remuneração, com ou sem fornecimento de refeições e outros serviços acessórios.
+Art. 14.º - 1. São estabelecimentos hoteleiros os destinados a proporcionar alojamento, mediante remuneração, com ou sem fornecimento de refeições e outros serviços acessórios.
 
 2. Não se consideram estabelecimentos hoteleiros, para efeitos do disposto no presente diploma, as instalações que, embora com o mesmo fim, tais como albergues de juventude e semelhantes, sejam exploradas sem intuito lucrativo e cuja frequência seja restrita a grupos limitados.
 
@@ -279,7 +303,7 @@ j) Aplicar sanções por infracções ao disposto no presente diploma e suas dis
 
 4. É vedado aos estabelecimentos hoteleiros alojar os seus clientes em casas particulares.
 
-###### Art. 15.º - 1. Os estabelecimentos hoteleiros de interesse para o turismo classificar-se-ão, nos termos regulamentares, nos seguintes grupos e categorias:
+Art. 15.º - 1. Os estabelecimentos hoteleiros de interesse para o turismo classificar-se-ão, nos termos regulamentares, nos seguintes grupos e categorias:
 
 Grupo 1 - Hotéis: de cinco, quatro, três, duas e uma estrelas;
 
@@ -297,13 +321,13 @@ Grupo 6 - Hotéis-apartamentos: de quatro, três e duas estrelas.
 
 3. Só os estabelecimentos a que se refere o artigo 1.º e § único do [Decreto-Lei n.º 31259](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31259-1941-328197), de 9 de Maio de 1941, serão classificados como pousadas, continuando a regular-se por aquele diploma e disposições complementares.
 
-###### Art. 16.º - 1. Os estabelecimentos hoteleiros de interesse para o turismo usarão obrigatòriamente na sua denominação, de acordo com a classificação que lhes tenha sido atribuída, a nomenclatura constante do n.º 1 do artigo anterior, e só eles a poderão usar.
+Art. 16.º - 1. Os estabelecimentos hoteleiros de interesse para o turismo usarão obrigatòriamente na sua denominação, de acordo com a classificação que lhes tenha sido atribuída, a nomenclatura constante do n.º 1 do artigo anterior, e só eles a poderão usar.
 
 2. Nos termos previstos em regulamento, as pensões de quatro estrelas poderão usar na sua denominação o termo «albergaria», em vez do de pensão.
 
 #### SECÇÃO II — Dos estabelecimentos similares dos hoteleiros
 
-###### Art. 17.º - 1. Consideram-se estabelecimentos similares dos hoteleiros, qualquer que seja a sua denominação, os destinados a proporcionar ao público, mediante remuneração, alimentos ou bebidas para serem consumidos no próprio estabelecimento.
+Art. 17.º - 1. Consideram-se estabelecimentos similares dos hoteleiros, qualquer que seja a sua denominação, os destinados a proporcionar ao público, mediante remuneração, alimentos ou bebidas para serem consumidos no próprio estabelecimento.
 
 2. Os estabelecimentos não compreendidos no número anterior, em que seja exercida, ainda que acessòriamente, alguma das actividades a que se refere o mesmo número, ficam, na parte respectiva, sujeitos às disposições deste diploma para os estabelecimentos similiares, com as necessárias adaptações.
 
@@ -315,7 +339,7 @@ b) As cantinas de organismos estaduais ou corporativos ou de empresas que forne�
 
 c) Em geral, quaisquer estabelecimentos de fim não lucrativo cuja possibilidade de frequência seja restrita a um grupo delimitado, com exclusão do público em geral.
 
-###### Art. 18.º - 1. Os estabelecimentos definidos no artigo anterior e declarados de interesse para o turismo classificar-se-ão nos seguintes grupos, com as categorias estabelecidas em regulamento:
+Art. 18.º - 1. Os estabelecimentos definidos no artigo anterior e declarados de interesse para o turismo classificar-se-ão nos seguintes grupos, com as categorias estabelecidas em regulamento:
 
 Grupo 1 - Restaurante;
 
@@ -329,31 +353,31 @@ Grupo 3 - Salas de dança.
 
 4. No grupo 3 incluem-se os estabelecimentos cuja actividade fundamental consiste em proporcionar locais para dançar, com ou sem espectáculos de variedades e com serviço de bebidas ou pequenas refeições, nomeadamente os denominados na prática internacional como boîtes, night-clubs, cabarets e dancings.
 
-###### Art. 19.º Quando no mesmo estabelecimento forem exercidas actividades correspondentes a mais de um grupo, aquele deverá cumulativamente satisfazer aos requisitos exigidos para cada grupo, com as necessárias adaptações, devendo a classificação atribuída ser unitária e corresponder à determinada pela actividade principal.
+Art. 19.º Quando no mesmo estabelecimento forem exercidas actividades correspondentes a mais de um grupo, aquele deverá cumulativamente satisfazer aos requisitos exigidos para cada grupo, com as necessárias adaptações, devendo a classificação atribuída ser unitária e corresponder à determinada pela actividade principal.
 
-###### Art. 20.º - 1. Só os estabelecimentos incluídos nos grupos 1 e 3 a que se refere o n.º 1 do artigo 18.º poderão usar, na sua denominação, respectivamente, a expressão «restaurante» e qualquer das referidas no n.º 4 do mesmo artigo.
+Art. 20.º - 1. Só os estabelecimentos incluídos nos grupos 1 e 3 a que se refere o n.º 1 do artigo 18.º poderão usar, na sua denominação, respectivamente, a expressão «restaurante» e qualquer das referidas no n.º 4 do mesmo artigo.
 
 2. Nenhum estabelecimento poderá incluir na sua denominação, ou utilizar por qualquer forma como designação, expressões que não correspondam aos serviços nele prestados.
 
 ### CAPÍTULO IV — Da instalação dos estabelecimentos de interesse para o turismo
 
-###### Art. 21.º Para poder instalar-se qualquer estabelecimento hoteleiro ou similar deverá, em primeiro lugar, ser requerido à Direcção-Geral do Turismo que o empreendimento seja declarado de interesse para o turismo ou sem interesse para o turismo, no prazo e sob a cominação que forem fixados em regulamento.
+Art. 21.º Para poder instalar-se qualquer estabelecimento hoteleiro ou similar deverá, em primeiro lugar, ser requerido à Direcção-Geral do Turismo que o empreendimento seja declarado de interesse para o turismo ou sem interesse para o turismo, no prazo e sob a cominação que forem fixados em regulamento.
 
-###### Art. 22.º - 1. Serão organizados pela Direcção-Geral do Turismo os processos respeitantes à aprovação da localização e à aprovação do anteprojecto e projecto dos estabelecimentos hoteleiros e similares de interesse para o turismo, ainda que haja lugar à intervenção de outras entidades ou serviços.
+Art. 22.º - 1. Serão organizados pela Direcção-Geral do Turismo os processos respeitantes à aprovação da localização e à aprovação do anteprojecto e projecto dos estabelecimentos hoteleiros e similares de interesse para o turismo, ainda que haja lugar à intervenção de outras entidades ou serviços.
 
 2. Neste último caso, deverá a Direcção-Geral do Turismo promover as diligências necessárias para obter dessas entidades ou serviços as respectivas autorizações, aprovações ou pareceres.
 
-###### Art. 23.º - 1. O disposto no artigo anterior aplicar-se-á igualmente aos conjuntos turísticos.
+Art. 23.º - 1. O disposto no artigo anterior aplicar-se-á igualmente aos conjuntos turísticos.
 
 2. Para este efeito serão qualificados de conjuntos turísticos os núcleos de instalações interdependentes que se destinem a proporcionar aos turistas qualquer forma de alojamento, embora não hoteleiro, e os destinados à prática de desportos que, por si, constituam motivo de atracção turística, exceptuados os pertencentes a entidades oficiais ou a associações desportivas federadas.
 
 3. Competirá à Direcção-Geral do Turismo, oficiosamente ou a requerimento dos interessados, a qualificação como conjuntos turísticos das instalações a que se referem os números anteriores.
 
-###### Art. 24.º - 1. Para efeito do disposto nos artigos antecedentes, os interessados apresentarão na Direcção-Geral do Turismo os respectivos requerimentos, acompanhados dos elementos exigidos no presente diploma e suas disposições regulamentares e demais legislação aplicável.
+Art. 24.º - 1. Para efeito do disposto nos artigos antecedentes, os interessados apresentarão na Direcção-Geral do Turismo os respectivos requerimentos, acompanhados dos elementos exigidos no presente diploma e suas disposições regulamentares e demais legislação aplicável.
 
 2. Toda a documentação referida no número anterior poderá também ser entregue nas delegações da Secretaria de Estado da Informação e Turismo, as quais os remeterão à Direcção-Geral do Turismo.
 
-###### Art. 25.º - 1. Sempre que haja lugar à intervenção de outras entidades ou serviços, a Direcção-Geral do Turismo remeter-lhes-á, por ofício registado com aviso de recepção ou protocolo, os elementos apresentados para obtenção das respectivas autorizações, aprovações ou pareceres, nos termos do número seguinte.
+Art. 25.º - 1. Sempre que haja lugar à intervenção de outras entidades ou serviços, a Direcção-Geral do Turismo remeter-lhes-á, por ofício registado com aviso de recepção ou protocolo, os elementos apresentados para obtenção das respectivas autorizações, aprovações ou pareceres, nos termos do número seguinte.
 
 2. Para este efeito, a Direcção-Geral do Turismo poderá:
 
@@ -361,39 +385,39 @@ a) Solicitar a cada entidade ou serviço que se pronuncie por escrito;
 
 b) Convocar reuniões com representantes das entidades ou serviços interessados, a fim de, simultâneamente, se pronunciarem sobre o requerido.
 
-###### Art. 26.º - 1. No caso da alínea a) do n.º 2 do artigo anterior, as entidades ou serviços consultados deverão pronunciar-se no prazo de sessenta dias a contar da data do recebimento dos elementos.
+Art. 26.º - 1. No caso da alínea a) do n.º 2 do artigo anterior, as entidades ou serviços consultados deverão pronunciar-se no prazo de sessenta dias a contar da data do recebimento dos elementos.
 
 2. Quando o não fizerem, entender-se-á nada terem a opor ao requerido.
 
-###### Art. 27.º - 1. No caso da alínea b) do n.º 2 do artigo 25.º, as reuniões terão lugar no prazo máximo de sessenta dias, a contar da data do recebimento dos elementos pelas entidades ou serviços consultados.
+Art. 27.º - 1. No caso da alínea b) do n.º 2 do artigo 25.º, as reuniões terão lugar no prazo máximo de sessenta dias, a contar da data do recebimento dos elementos pelas entidades ou serviços consultados.
 
 2. Nestas reuniões, as decisões de cada entidade ou serviço serão comunicadas pelo seu representante, continuando a aplicar-se a essas decisões as correspondentes normas legais em tudo o que não forem contrárias ao disposto neste diploma.
 
-###### Art. 28.º - 1. Das reuniões será elaborada uma acta, da qual constarão as entidades ou serviços convocados e as respectivas autorizações, aprovações e pareceres.
+Art. 28.º - 1. Das reuniões será elaborada uma acta, da qual constarão as entidades ou serviços convocados e as respectivas autorizações, aprovações e pareceres.
 
 2. A acta será aprovada e assinada pelos intervenientes no fim das reuniões e enviada para conhecimento a todas as entidades ou serviços interessados.
 
-###### Art. 29.º - 1. Com excepção do disposto nos números seguintes, a intervenção de outras entidades ou serviços nos processos referidos nos artigos 22.º e 23.º verificar-se-á apenas quanto à localização dos empreendimentos.
+Art. 29.º - 1. Com excepção do disposto nos números seguintes, a intervenção de outras entidades ou serviços nos processos referidos nos artigos 22.º e 23.º verificar-se-á apenas quanto à localização dos empreendimentos.
 
 2. Aprovada a localização, caberá à Direcção-Geral do Turismo e às câmaras municipais pronunciarem-se sobre os respectivos anteprojectos ou projectos.
 
 3. Para aprovação destes, a Direcção-Geral do Turismo deverá ainda solicitar o parecer de quaisquer entidades ou serviços que se mostre conveniente ouvir e o da Direcção-Geral dos Serviços de Urbanização quando não houver planos directores, anteplanos ou planos de urbanização aprovados ou quando os projectos não se conformem com os existentes.
 
-###### Art. 30.º A Direcção-Geral do Turismo deverá comunicar ao interessado o que for decidido quanto à localização, anteprojecto ou projecto, devendo fazê-lo dentro do prazo de quinze dias, contados da última decisão tomada.
+Art. 30.º A Direcção-Geral do Turismo deverá comunicar ao interessado o que for decidido quanto à localização, anteprojecto ou projecto, devendo fazê-lo dentro do prazo de quinze dias, contados da última decisão tomada.
 
-###### Art. 31.º Quando os interessados entregarem simultâneamente todos os elementos necessários para apreciação da localização e do anteprojecto ou projecto e sempre que a simplicidade de que for requerido o permitir, a Direcção-Geral do Turismo providenciará para que essa apreciação e a comunicação a que se refere o artigo anterior sejam feitas, se possível, em mais curtos prazos, promovendo o processamento conjunto das várias fases previstas.
+Art. 31.º Quando os interessados entregarem simultâneamente todos os elementos necessários para apreciação da localização e do anteprojecto ou projecto e sempre que a simplicidade de que for requerido o permitir, a Direcção-Geral do Turismo providenciará para que essa apreciação e a comunicação a que se refere o artigo anterior sejam feitas, se possível, em mais curtos prazos, promovendo o processamento conjunto das várias fases previstas.
 
-###### Art. 32.º Sempre que as delegações da Secretaria de Estado da Informação e Turismo estejam dotadas do pessoal técnico necessário à apreciação dos elementos exigidos e não haja lugar à intervenção dos serviços centrais de outros Ministérios nos termos deste diploma, essa apreciação poderá ser confiada àquelas delegações, aplicando-se nesse caso o disposto nos artigos anteriores para a remessa da respectiva documentação às câmaras municipais e para as reuniões conjuntas com estas.
+Art. 32.º Sempre que as delegações da Secretaria de Estado da Informação e Turismo estejam dotadas do pessoal técnico necessário à apreciação dos elementos exigidos e não haja lugar à intervenção dos serviços centrais de outros Ministérios nos termos deste diploma, essa apreciação poderá ser confiada àquelas delegações, aplicando-se nesse caso o disposto nos artigos anteriores para a remessa da respectiva documentação às câmaras municipais e para as reuniões conjuntas com estas.
 
-###### Art. 33.º - 1. Nos casos em que não haja lugar à intervenção dos serviços centrais de outros Ministérios, o Secretário de Estado da Informação e Turismo poderá dispensar a apresentação na Direcção-Geral do Turismo ou nas delegações dos elementos respeitantes a pensões de uma e duas estrelas e a estabelecimentos similares de 3.ª e 4.ª categorias, delegando a competência da Secretaria de Estado, para a aprovação da respectiva localização, anteprojecto ou projecto, nas câmaras municipais.
+Art. 33.º - 1. Nos casos em que não haja lugar à intervenção dos serviços centrais de outros Ministérios, o Secretário de Estado da Informação e Turismo poderá dispensar a apresentação na Direcção-Geral do Turismo ou nas delegações dos elementos respeitantes a pensões de uma e duas estrelas e a estabelecimentos similares de 3.ª e 4.ª categorias, delegando a competência da Secretaria de Estado, para a aprovação da respectiva localização, anteprojecto ou projecto, nas câmaras municipais.
 
 2. Nestes casos aplicar-se-á o disposto no n.º 2 do artigo 3.º deste diploma e a decisão da câmara poderá ser revogada pelo Secretário de Estado, mediante reclamação do interessado nos termos gerais de direito.
 
-###### Art. 34.º - 1. A execução de quaisquer obras, que não sejam de simples conservação, nos estabelecimentos hoteleiros e similares, está sujeita, com as necessárias adaptações, ao disposto neste capítulo e respectivas disposições regulamentares.
+Art. 34.º - 1. A execução de quaisquer obras, que não sejam de simples conservação, nos estabelecimentos hoteleiros e similares, está sujeita, com as necessárias adaptações, ao disposto neste capítulo e respectivas disposições regulamentares.
 
 2. No caso de as obras serem destinadas a obter a reclassificação do estabelecimento, o interessado deverá referi-lo expressamente quando da apresentação do anteprojecto ou projecto.
 
-###### Art. 35.º - 1. Nenhuma entidade ou serviço poderá:
+Art. 35.º - 1. Nenhuma entidade ou serviço poderá:
 
 a) Passar as licenças ou conceder as autorizações ou alvarás da sua competência para a construção, instalação ou funcionamento de estabelecimentos hoteleiros e similares ou de conjuntos turísticos, sem que o interessado tenha obtido da Direcção-Geral do Turismo a aprovação do respectivo projecto, a autorização de abertura ou a declaração de que o estabelecimento não tem interesse para o turismo, conforme for o caso;
 
@@ -401,9 +425,9 @@ b) Recusar a passagem das licenças da sua competência, desde que o interessado
 
 2. O disposto na alínea b) do número anterior não prejudica, na execução das obras licenciadas, a aplicação da legislação especial respeitante à protecção de imóveis classificados como monumentos nacionais ou de interesse público.
 
-###### Art. 36.º A Direcção-Geral do Turismo fixará, aquando da aprovação dos projectos de novos empreendimentos, o prazo em que deve ser iniciada a respectiva construção, caducando essa aprovação se o prazo não for respeitado.
+Art. 36.º A Direcção-Geral do Turismo fixará, aquando da aprovação dos projectos de novos empreendimentos, o prazo em que deve ser iniciada a respectiva construção, caducando essa aprovação se o prazo não for respeitado.
 
-###### Art. 37.º - 1. Nos prédios ou parte de prédios arrendados para o exercício da indústria hoteleira ou similar podem ser feitas, independentemente de autorização do locador, as obras que interessem directamente à exploração da indústria, desde que sejam aprovadas nos termos deste diploma e não ponham em risco a segurança do edifício, ou quando consistam em meras benfeitorias.
+Art. 37.º - 1. Nos prédios ou parte de prédios arrendados para o exercício da indústria hoteleira ou similar podem ser feitas, independentemente de autorização do locador, as obras que interessem directamente à exploração da indústria, desde que sejam aprovadas nos termos deste diploma e não ponham em risco a segurança do edifício, ou quando consistam em meras benfeitorias.
 
 2. Salvo no caso de benfeitorias, o locatário notificará o locador, por carta registada com aviso de recepção, das obras que se propõe realizar, podendo este, nos quinze dias imediatos, exigir daquele que, por qualquer dos modos previstos na lei, lhe preste caução de montante não inferior a metade do valor daquelas, destinada a assegurar o cumprimento da obrigação de restituir o prédio ao estado em que o recebeu.
 
@@ -415,15 +439,15 @@ b) Recusar a passagem das licenças da sua competência, desde que o interessado
 
 ### CAPÍTULO V — Das vistorias e da inspecção dos estabelecimentos de interesse para o turismo
 
-###### Art. 38.º A Direcção-Geral do Turismo poderá, a qualquer tempo, realizar as vistorias e inspecções que tiver por convenientes aos estabelecimentos hoteleiros e similares.
+Art. 38.º A Direcção-Geral do Turismo poderá, a qualquer tempo, realizar as vistorias e inspecções que tiver por convenientes aos estabelecimentos hoteleiros e similares.
 
-###### Art. 39.º - 1. Nenhum estabelecimento hoteleiro ou similar de interesse para o turismo poderá iniciar a sua exploração sem prévia autorização da Direcção-Geral do Turismo ou das delegações da Secretaria de Estado, precedida de vistoria.
+Art. 39.º - 1. Nenhum estabelecimento hoteleiro ou similar de interesse para o turismo poderá iniciar a sua exploração sem prévia autorização da Direcção-Geral do Turismo ou das delegações da Secretaria de Estado, precedida de vistoria.
 
 2. A vistoria terá por fim verificar a conformidade do estabelecimento com o projecto aprovado e atribuir-lhe uma classificação provisória pelo prazo de um ano, no termo do qual será atribuída a classificação definitiva.
 
 3. A vistoria deve ser efectuada e o seu resultado comunicado ao interessado nos prazos e sob a cominação a fixar em regulamento.
 
-###### Art. 40.º - 1. Por despacho do Secretário de Estado da Informação e Turismo poderá ser ordenada a demolição ou o embargo administrativo, nos termos do artigo 165.º do Regulamento Geral das Edificações Urbanas, de quaisquer construções ou outras obras realizadas em contravenção do disposto neste diploma ou em desconformidade com os projectos aprovados.
+Art. 40.º - 1. Por despacho do Secretário de Estado da Informação e Turismo poderá ser ordenada a demolição ou o embargo administrativo, nos termos do artigo 165.º do Regulamento Geral das Edificações Urbanas, de quaisquer construções ou outras obras realizadas em contravenção do disposto neste diploma ou em desconformidade com os projectos aprovados.
 
 2. Independentemente de qualquer outra sanção a que haja lugar, a Direcção-Geral do Turismo mandará encerrar imediatamente qualquer estabelecimento que inicie a sua exploração em contravenção do disposto no artigo 39.º
 
@@ -431,39 +455,39 @@ b) Recusar a passagem das licenças da sua competência, desde que o interessado
 
 ### CAPÍTULO VI — Dos preços nos estabelecimentos hoteleiros e similares
 
-###### Art. 41.º - 1. Os preços a praticar nos estabelecimentos hoteleiros e similares de interesse para o turismo, pelos aposentos, refeições e demais serviços próprios da respectiva indústria, constarão de tabelas aprovadas, nos termos regulamentares, pela Direcção-Geral do Turismo, sob proposta das empresas.
+Art. 41.º - 1. Os preços a praticar nos estabelecimentos hoteleiros e similares de interesse para o turismo, pelos aposentos, refeições e demais serviços próprios da respectiva indústria, constarão de tabelas aprovadas, nos termos regulamentares, pela Direcção-Geral do Turismo, sob proposta das empresas.
 
 2. O Governo poderá, no entanto, fixar os preços dos bens e serviços que houver por convenientes, devendo estes constar também das tabelas referidas no número anterior.
 
-###### Art. 42.º Na elaboração das tabelas de preços a propor, as empresas terão em conta o grupo e a categoria do estabelecimento, a sua localização, as suas características e equipamento, a qualidade do serviço, os usos e margens comerciais habituais na respectiva actividade, as demais disposições legais aplicáveis na matéria e as regras constantes dos artigos seguintes.
+Art. 42.º Na elaboração das tabelas de preços a propor, as empresas terão em conta o grupo e a categoria do estabelecimento, a sua localização, as suas características e equipamento, a qualidade do serviço, os usos e margens comerciais habituais na respectiva actividade, as demais disposições legais aplicáveis na matéria e as regras constantes dos artigos seguintes.
 
-###### Art. 43.º - 1. Nos estabelecimentos hoteleiros o preço de serviços complexos, incluindo o de pensão completa, não poderá exceder a soma dos vários serviços singulares neles incluídos.
+Art. 43.º - 1. Nos estabelecimentos hoteleiros o preço de serviços complexos, incluindo o de pensão completa, não poderá exceder a soma dos vários serviços singulares neles incluídos.
 
 2. O preço da pensão completa será obtido pela soma dos preços do aposento e da pensão alimentar, calculada esta com base no valor total das refeições, deduzido da percentagem fixada por despacho do Secretário de Estado da Informação e Turismo.
 
-###### Art. 44.º - 1. A fixação dos preços dos aposentos nos estabelecimentos hoteleiros de interesse para o turismo deverá fazer-se, em relação a cada estabelecimento, entre os limites máximos e mínimos estabelecidos para cada categoria dentro de cada grupo por despacho do Secretário de Estado da Informação e Turismo.
+Art. 44.º - 1. A fixação dos preços dos aposentos nos estabelecimentos hoteleiros de interesse para o turismo deverá fazer-se, em relação a cada estabelecimento, entre os limites máximos e mínimos estabelecidos para cada categoria dentro de cada grupo por despacho do Secretário de Estado da Informação e Turismo.
 
 2. O despacho previsto no número anterior poderá ainda estabelecer reduções nos limites fixados, tendo em consideração as diferentes regiões do País, as épocas do ano e as formas de exploração dos estabelecimentos.
 
 3. O regime previsto no n.º 1 poderá aplicar-se igualmente aos restantes preços a praticar nos estabelecimentos hoteleiros e aos preços dos estabelecimentos similares.
 
-###### Art. 45.º Nos restaurantes e demais estabelecimentos similares com serviço de restaurante é obrigatória a prática de um serviço de refeições, denominado «ementa turística» nos termos regulamentados, cujo preço será fixado por despacho do Secretário de Estado da Informação e Turismo para cada categoria e incluirá todos os impostos e taxas devidos.
+Art. 45.º Nos restaurantes e demais estabelecimentos similares com serviço de restaurante é obrigatória a prática de um serviço de refeições, denominado «ementa turística» nos termos regulamentados, cujo preço será fixado por despacho do Secretário de Estado da Informação e Turismo para cada categoria e incluirá todos os impostos e taxas devidos.
 
-###### Art. 46.º - 1. A Direcção-Geral do Turismo não aprovará as tabelas propostas se os preços delas constantes não tiverem em consideração as regras estabelecidas nos artigos anteriores.
+Art. 46.º - 1. A Direcção-Geral do Turismo não aprovará as tabelas propostas se os preços delas constantes não tiverem em consideração as regras estabelecidas nos artigos anteriores.
 
 2. Os preços cuja proposta não tenha sido aprovada poderão ser oficiosamente fixados pela Direcção-Geral do Turismo.
 
 3. Nos casos de aprovação tácita, se os preços propostos excederem os limites máximos fixados, quando os houver, considerar-se-ão reduzidos àqueles máximos.
 
-###### Art. 47.º - 1. As empresas que pretendam alterar as tabelas aprovadas deverão fazer a respectiva proposta, para produzir efeitos no ano imediato, nos termos fixados em regulamento.
+Art. 47.º - 1. As empresas que pretendam alterar as tabelas aprovadas deverão fazer a respectiva proposta, para produzir efeitos no ano imediato, nos termos fixados em regulamento.
 
 2. Os preços aprovados não poderão ser alterados no decorrer de cada ano, salvo alteração de classificação do estabelecimento.
 
-###### Art. 48.º - 1. Os preços consideram-se legalmente estabelecidos, para todos os efeitos, sem necessidade de publicação no Diário do Governo, desde o dia seguinte àquele em que for recebida no estabelecimento a respectiva tabela ou em que terminem os prazos estabelecidos em regulamento para aprovação tácita.
+Art. 48.º - 1. Os preços consideram-se legalmente estabelecidos, para todos os efeitos, sem necessidade de publicação no Diário do Governo, desde o dia seguinte àquele em que for recebida no estabelecimento a respectiva tabela ou em que terminem os prazos estabelecidos em regulamento para aprovação tácita.
 
 2. As empresas deverão dar a máxima publicidade aos preços aprovados, afixando-os, desde o dia imediato ao da aprovação, no exterior ou no interior dos estabelecimentos, nos termos que forem fixados em regulamento.
 
-###### Art. 49.º - 1. Os preços dos aposentos a praticar nos estabelecimentos hoteleiros sem interesse para o turismo não poderão exceder os limites máximos fixados para as pensões de uma estrela, diminuídos de 15 por cento.
+Art. 49.º - 1. Os preços dos aposentos a praticar nos estabelecimentos hoteleiros sem interesse para o turismo não poderão exceder os limites máximos fixados para as pensões de uma estrela, diminuídos de 15 por cento.
 
 2. Salvo o disposto no número seguinte, os restantes preços a praticar naqueles estabelecimentos hoteleiros e nos estabelecimentos similares sem interesse para o turismo não poderão exceder os preços médios aprovados na mesma região para os estabelecimentos da categoria mais baixa do grupo equivalente de interesse para o turismo, diminuídos de 10 por cento.
 
@@ -471,7 +495,7 @@ b) Recusar a passagem das licenças da sua competência, desde que o interessado
 
 ### CAPÍTULO VII — Das infracções e sua sanção
 
-###### Art. 50.º - 1. As empresas que nos estabelecimentos de interesse para o turismo infringirem o disposto no presente diploma e seus regulamentos serão punidas administrativamente com as seguintes sanções, nos termos nesses regulamentos fixados:
+Art. 50.º - 1. As empresas que nos estabelecimentos de interesse para o turismo infringirem o disposto no presente diploma e seus regulamentos serão punidas administrativamente com as seguintes sanções, nos termos nesses regulamentos fixados:
 
 a) Advertência;
 
@@ -489,43 +513,43 @@ d) Encerramento definitivo do estabelecimento.
 
 5. Na falta de pagamento voluntário de uma multa, será o processo enviado aos tribunais fiscais para execução, nos termos do Código de Processo das Contribuições e Impostos.
 
-###### Art. 51. - 1. A aplicação da sanção da alínea a), da alínea b) até 50000$00 e da alínea c) do n.º 1 do artigo 50.º é da competência do director-geral do Turismo, só havendo lugar a recurso hierárquico no caso de aplicação de multa de montante superior a 20000$00 e no caso da alínea c) a interpor no prazo de oito dias, a contar da data da notificação.
+Art. 51. - 1. A aplicação da sanção da alínea a), da alínea b) até 50000$00 e da alínea c) do n.º 1 do artigo 50.º é da competência do director-geral do Turismo, só havendo lugar a recurso hierárquico no caso de aplicação de multa de montante superior a 20000$00 e no caso da alínea c) a interpor no prazo de oito dias, a contar da data da notificação.
 
 2. A aplicação de multa de montante superior a 50000$00 e da sanção da alínea d) do mesmo artigo é da competência do Secretário de Estado da Informação e Turismo.
 
 3. O recurso contencioso interposto, nos termos da lei geral, da decisão que aplique qualquer das sanções previstas não terá efeito suspensivo, salvo no caso de multa, cuja execução será suspensa na fase de penhora.
 
-###### Art. 52.º - 1. As sanções serão fixadas dentro dos limites estabelecidos, tendo em atenção a natureza e circunstância da infracção, o prejuízo ou risco de prejuízo para o turismo nacional, os antecedentes do infractor e ainda, quando se tratar de multa, a sua capacidade económica.
+Art. 52.º - 1. As sanções serão fixadas dentro dos limites estabelecidos, tendo em atenção a natureza e circunstância da infracção, o prejuízo ou risco de prejuízo para o turismo nacional, os antecedentes do infractor e ainda, quando se tratar de multa, a sua capacidade económica.
 
 2. Quando a gravidade ou as circunstâncias da infracção, no caso concreto, assim o aconselharem, poderá ser decidido que seja dada publicidade, através dos órgãos de informação, à sanção aplicada.
 
-###### Art. 53.º - 1. Quando, em relação a um estabelecimento hoteleiro, for aplicada algumas das sanções das alíneas c) e d) do n.º 1 do artigo 50.º, o estabelecimento só encerrará depois de terminarem a sua estada todos os hóspedes que à data da notificação da sanção nele se encontrarem.
+Art. 53.º - 1. Quando, em relação a um estabelecimento hoteleiro, for aplicada algumas das sanções das alíneas c) e d) do n.º 1 do artigo 50.º, o estabelecimento só encerrará depois de terminarem a sua estada todos os hóspedes que à data da notificação da sanção nele se encontrarem.
 
 2. Ficará, porém, interdita a admissão de novos hóspedes, ainda que as respectivas reservas sejam anteriores à notificação da sanção.
 
 3. A infracção ao disposto nos números anteriores ou qualquer conduta fraudulenta destinada a evitar a sua aplicação serão punidas nos termos do artigo 188.º do Código Penal.
 
-###### Art. 54.º - 1. Os processos relativos às infracções ao disposto no presente diploma e disposições regulamentares que devam ser punidas nos termos dos artigos 50.º a 52.º serão instruídos pela Direcção-Geral do Turismo.
+Art. 54.º - 1. Os processos relativos às infracções ao disposto no presente diploma e disposições regulamentares que devam ser punidas nos termos dos artigos 50.º a 52.º serão instruídos pela Direcção-Geral do Turismo.
 
 2. Na instrução dos processos deverão sempre ser ouvidos em auto os interessados e as testemunhas indicadas.
 
 3. Para efeitos do disposto no n.º 1, todas as autoridades e seus agentes que tomarem conhecimento de quaisquer infracções deverão participá-las à Direcção-Geral do Turismo.
 
-###### Art. 55.º - 1. Independentemente da aplicação de qualquer das sanções previstas neste diploma, a Direcção-Geral do Turismo cobrará dos estabelecimentos as importâncias recebidas para além dos preços legalmente fixados e providenciará no sentido da sua restituição aos interessados.
+Art. 55.º - 1. Independentemente da aplicação de qualquer das sanções previstas neste diploma, a Direcção-Geral do Turismo cobrará dos estabelecimentos as importâncias recebidas para além dos preços legalmente fixados e providenciará no sentido da sua restituição aos interessados.
 
 2. Quando a restituição for inviável por facto imputável ao interessado, a importância reverterá para o Fundo de Turismo.
 
 3. A Direcção-Geral do Turismo notificará a empresa para o efeito previsto no n.º 1, fixando prazo para a entrega, findo o qual será extraída certidão do processo, que constitui título executivo bastante e que será enviada aos tribunais fiscais para cobrança coerciva.
 
-###### Art. 56.º - 1. São aplicáveis aos estabelecimentos sem interesse para o turismo, nos termos fixados em regulamento, os n.os 1, 2 e 3 do artigo 50.º, reduzida a multa a 10000$00.
+Art. 56.º - 1. São aplicáveis aos estabelecimentos sem interesse para o turismo, nos termos fixados em regulamento, os n.os 1, 2 e 3 do artigo 50.º, reduzida a multa a 10000$00.
 
 2. Das decisões dos presidentes das câmaras que apliquem quaisquer das sanções cabe recurso, de acordo com o disposto do Código Administrativo.
 
-###### Art. 57.º A aplicação das sanções estabelecidas no artigo 50.º terá lugar, independentemente do procedimento criminal a que as faltas cometidas derem causa, nos termos da legislação respectiva.
+Art. 57.º A aplicação das sanções estabelecidas no artigo 50.º terá lugar, independentemente do procedimento criminal a que as faltas cometidas derem causa, nos termos da legislação respectiva.
 
 ### CAPÍTULO VIII — Disposições transitórias e finais
 
-###### Art. 58.º - 1. O disposto no presente diploma e suas disposições regulamentares aplicar-se-á aos estabelecimentos existentes à data da sua entrada em vigor, com ressalva do que se dispõe nos números seguintes quanto às classificações.
+Art. 58.º - 1. O disposto no presente diploma e suas disposições regulamentares aplicar-se-á aos estabelecimentos existentes à data da sua entrada em vigor, com ressalva do que se dispõe nos números seguintes quanto às classificações.
 
 2. Até 31 de Dezembro de 1970, a Direcção-Geral do Turismo reclassificará os estabelecimentos hoteleiros existentes e, até 31 de Dezembro de 1971, os estabelecimentos similares, de acordo com os requisitos mínimos estabelecidos.
 
@@ -533,22 +557,22 @@ d) Encerramento definitivo do estabelecimento.
 
 4. O prazo previsto no número anterior será fixado pela Direcção-Geral do Turismo, atendendo à importância das obras e à classificação actual do estabelecimento, não podendo, em qualquer caso, exceder dois anos, a contar da data da notificação.
 
-###### Art. 59.º Até ser efectuada a reclassificação prevista no artigo anterior, os estabelecimentos usarão aquela que lhes couber, nos termos da tabela anexa ao regulamento.
+Art. 59.º Até ser efectuada a reclassificação prevista no artigo anterior, os estabelecimentos usarão aquela que lhes couber, nos termos da tabela anexa ao regulamento.
 
-###### Art. 60.º Enquanto não for publicado o diploma regulador do sistema «tudo incluído», as empresas poderão propor a aprovação de tabelas cujos preços incluam todas as taxas e impostos a cobrar, desde que nelas se discriminem o preço a praticar e a percentagem a retirar para essas taxas e impostos.
+Art. 60.º Enquanto não for publicado o diploma regulador do sistema «tudo incluído», as empresas poderão propor a aprovação de tabelas cujos preços incluam todas as taxas e impostos a cobrar, desde que nelas se discriminem o preço a praticar e a percentagem a retirar para essas taxas e impostos.
 
-###### Art. 61.º O Secretário de Estado da Informação e Turismo resolverá por despacho, publicado no Diário do Governo, as dúvidas levantadas pela aplicação deste decreto-lei e disposições regulamentares.
+Art. 61.º O Secretário de Estado da Informação e Turismo resolverá por despacho, publicado no Diário do Governo, as dúvidas levantadas pela aplicação deste decreto-lei e disposições regulamentares.
 
-###### Art. 62.º O regulamento relativo à instalação dos estabelecimentos hoteleiros e similares será publicado no prazo de noventa dias.
+Art. 62.º O regulamento relativo à instalação dos estabelecimentos hoteleiros e similares será publicado no prazo de noventa dias.
 
-###### Art. 63.º Ficam revogados os artigos 1.º a 10.º, 19.º, 20.º e 22.º da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954.
+Art. 63.º Ficam revogados os artigos 1.º a 10.º, 19.º, 20.º e 22.º da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954.
 
-###### Art. 64. O presente diploma entrará em vigor com o decreto previsto no artigo 62.º
+Art. 64. O presente diploma entrará em vigor com o decreto previsto no artigo 62.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 21, de Novembro de 1969.**
+Promulgado em 21, de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45255-1963-686787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cdcec43c29a0423f79918cc60e786d3b4c0407a154466340728a0cd2b660644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de516defd1df9d47d4288d5bc67b313a20361404fe53085004bac4e19d6f7c59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arsenal do Alfeite
+- Criação de Lugares
+- Extinção de Lugares
+- Formas de Provimento
+- Marinha
+- Militar
+- Ministério da Marinha
+- Pessoal Civil
+- Pessoal Técnico
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:488570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488570:por
+  label: "Alterados os vencimentos do pessoal da mestrança do Arsenal do Alfeite e do quadro do pessoal civil do Ministério\
+    \ da Marinha, constantes do mapa anexo ao presente diploma, pelo DEC LEI.46862.08.02.1966.MMAR, DG.IS [32] de 08.02.1966\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46862-1966-488570
+  date: '1966-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:21Z'
   warnings: []
   errors: []
 ---
@@ -90,45 +109,45 @@ Sendo conveniente equiparar as categorias, respectivas classes e vencimentos do 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º São criados no Arsenal do Alfeite e integrados no quadro do pessoal técnico os lugares de agentes de preparação de trabalho.
+Artigo 1.º São criados no Arsenal do Alfeite e integrados no quadro do pessoal técnico os lugares de agentes de preparação de trabalho.
 
-###### Art. 2.º São extintos os lugares de mestres gerais e de arvorados existentes no actual quadro do pessoal fabril do Arsenal do Alfeite e do quadro do pessoal civil do Ministério da Marinha e desdobradas em classes as categorias de mestres e de contramestres previstas nos mesmos quadros.
+Art. 2.º São extintos os lugares de mestres gerais e de arvorados existentes no actual quadro do pessoal fabril do Arsenal do Alfeite e do quadro do pessoal civil do Ministério da Marinha e desdobradas em classes as categorias de mestres e de contramestres previstas nos mesmos quadros.
 
-###### Art. 3.º A classificação, lotações e vencimentos dos mestres e dos contramestres, bem como dos serventuários referidos no artigo 1.º, são os constantes do mapa anexo a este decreto-lei e que dele faz parte integrante.
+Art. 3.º A classificação, lotações e vencimentos dos mestres e dos contramestres, bem como dos serventuários referidos no artigo 1.º, são os constantes do mapa anexo a este decreto-lei e que dele faz parte integrante.
 
-###### Art. 4.º O pessoal incluído no mapa a que se refere o artigo anterior será provido por contrato, podendo todo aquele que tiver mais de vinte anos de serviço na respectiva categoria ou na mestrança independentemente da classe e muito boas informações quanto a aptidão profissional, formação moral e comportamento disciplinar, transitar para a categoria de pessoal de nomeação vitalícia, com os direitos e regalias inerentes.
+Art. 4.º O pessoal incluído no mapa a que se refere o artigo anterior será provido por contrato, podendo todo aquele que tiver mais de vinte anos de serviço na respectiva categoria ou na mestrança independentemente da classe e muito boas informações quanto a aptidão profissional, formação moral e comportamento disciplinar, transitar para a categoria de pessoal de nomeação vitalícia, com os direitos e regalias inerentes.
 
 § único. Os contratos podem ser rescindidos quando a conveniência de serviço ou a disciplina o exigirem.
 
-###### Art. 5.º O provimento dos lugares de agentes de preparação de trabalho far-se-á, por escolha, de entre os mestres, contramestres e operários especiais e de 1.ª classe com mais de cinco anos de bom e efectivo serviço, habilitados com o curso das escolas industriais e que tenham revelado possuir aptidão, conhecimentos e qualidades de trabalho para o exercício daquelas funções ou de entre os serventuários do quadro do pessoal técnico do Arsenal do Alfeite com categoria não inferior à de desenhador de 1.ª classe que, além daqueles requisitos, demonstrem ter adquirido amplos conhecimentos de prática oficinal.
+Art. 5.º O provimento dos lugares de agentes de preparação de trabalho far-se-á, por escolha, de entre os mestres, contramestres e operários especiais e de 1.ª classe com mais de cinco anos de bom e efectivo serviço, habilitados com o curso das escolas industriais e que tenham revelado possuir aptidão, conhecimentos e qualidades de trabalho para o exercício daquelas funções ou de entre os serventuários do quadro do pessoal técnico do Arsenal do Alfeite com categoria não inferior à de desenhador de 1.ª classe que, além daqueles requisitos, demonstrem ter adquirido amplos conhecimentos de prática oficinal.
 
-###### Art. 6.º Os lugares de mestres são providos por escolha entre os mestres de quaisquer das classes inferiores ou por concurso de provas práticas entre os contramestres e operários especiais e de 1.ª classe com mais de cinco anos de bom e efectivo serviço e habilitados com o curso das escolas industriais.
+Art. 6.º Os lugares de mestres são providos por escolha entre os mestres de quaisquer das classes inferiores ou por concurso de provas práticas entre os contramestres e operários especiais e de 1.ª classe com mais de cinco anos de bom e efectivo serviço e habilitados com o curso das escolas industriais.
 
-###### Art. 7.º Os lugares de contramestre são providos por escolha entre os contramestres de quaisquer das classes inferiores ou entre os operários com mais de cinco anos de bom e efectivo serviço habilitados com o curso das escolas industriais.
+Art. 7.º Os lugares de contramestre são providos por escolha entre os contramestres de quaisquer das classes inferiores ou entre os operários com mais de cinco anos de bom e efectivo serviço habilitados com o curso das escolas industriais.
 
-###### Art. 8.º Na escolha dos profissionais referidos nos artigos anteriores e na classificação de apuramento, quando haja lugar a concurso, deverão ter-se em conta, como principal factor, as qualidades e aptidões anteriormente reveladas pelos serventuários.
+Art. 8.º Na escolha dos profissionais referidos nos artigos anteriores e na classificação de apuramento, quando haja lugar a concurso, deverão ter-se em conta, como principal factor, as qualidades e aptidões anteriormente reveladas pelos serventuários.
 
-###### Art. 9.º Quando não existirem profissionais com as habilitações literárias exigidas nos artigos 6.º e 7.º, ou, existindo, não se lhes reconheçam as qualidades necessárias para o exercício das funções de mestre ou de contramestre, o provimento será obrigatòriamente feito, mediante concurso de provas práticas, respectivamente entre os serventuários indicados no primeiro e no segundo daqueles artigos, igualmente com mais de cinco anos de bom e efectivo serviço.
+Art. 9.º Quando não existirem profissionais com as habilitações literárias exigidas nos artigos 6.º e 7.º, ou, existindo, não se lhes reconheçam as qualidades necessárias para o exercício das funções de mestre ou de contramestre, o provimento será obrigatòriamente feito, mediante concurso de provas práticas, respectivamente entre os serventuários indicados no primeiro e no segundo daqueles artigos, igualmente com mais de cinco anos de bom e efectivo serviço.
 
-###### Art. 10.º Todo o pessoal referido neste diploma seguirá o horário fabril.
+Art. 10.º Todo o pessoal referido neste diploma seguirá o horário fabril.
 
-###### Art. 11.º O provimento nos lugares constantes do mapa anexo a este diploma será feito independentemente das condições de idade.
+Art. 11.º O provimento nos lugares constantes do mapa anexo a este diploma será feito independentemente das condições de idade.
 
-###### Art. 12.º (transitório). O primeiro provimento nos lugares referidos no artigo anterior poderá ser feito indistintamente de entre os mestres gerais, mestres, contramestres e arvorados existentes à data da publicação deste diploma, com dispensa de todas as exigências legais, excepto o visto do Tribunal de Contas, publicação no Diário do Governo e posse.
+Art. 12.º (transitório). O primeiro provimento nos lugares referidos no artigo anterior poderá ser feito indistintamente de entre os mestres gerais, mestres, contramestres e arvorados existentes à data da publicação deste diploma, com dispensa de todas as exigências legais, excepto o visto do Tribunal de Contas, publicação no Diário do Governo e posse.
 
-###### Art. 13.º (transitório). No ano em curso, os encargos resultantes da execução deste diploma serão suportados mediante ajustamento do orçamento privativo do Arsenal do Alfeite e pelas disponibilidades da dotação inscrita no capítulo 5.º, artigo 181.º, n.º 1), da tabela orçamental do Ministério da Marinha em vigor.
+Art. 13.º (transitório). No ano em curso, os encargos resultantes da execução deste diploma serão suportados mediante ajustamento do orçamento privativo do Arsenal do Alfeite e pelas disponibilidades da dotação inscrita no capítulo 5.º, artigo 181.º, n.º 1), da tabela orçamental do Ministério da Marinha em vigor.
 
-###### Art. 14.º (transitório). Aos serventuários que, por efeito da aplicação do presente diploma passem a perceber remuneração inferior à que auferiam anteriormente, será abonada, o título de compensação, a diferença entre o quantitativo que recebiam e o que lhes é fixado por este decreto-lei.
+Art. 14.º (transitório). Aos serventuários que, por efeito da aplicação do presente diploma passem a perceber remuneração inferior à que auferiam anteriormente, será abonada, o título de compensação, a diferença entre o quantitativo que recebiam e o que lhes é fixado por este decreto-lei.
 
-###### Art. 15.º (transitório). Os mestres gerais, mestres, contramestres e arvorados existentes à data da publicação deste diploma manterão as mesmas situações e categorias que possuíam até serem providos nos novos lugares agora criados.
+Art. 15.º (transitório). Os mestres gerais, mestres, contramestres e arvorados existentes à data da publicação deste diploma manterão as mesmas situações e categorias que possuíam até serem providos nos novos lugares agora criados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
 Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/09/22300/14941495.pdf))](https://files.diariodarepublica.pt/1s/1963/09/22300/14941495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/09/22300/14941495.pdf)
 
 Nota. - O número de serventuários de cada classe será fixado pelo Ministro da Marinha consoante as necessidades e mediante proposta fundamentada dos serviços.
 

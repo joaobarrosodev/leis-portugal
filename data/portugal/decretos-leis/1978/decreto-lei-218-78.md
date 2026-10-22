@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/17700/15871588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1978-296846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 881aa785a4738328ed183557d15f6a9b04a810be5740acaa6a3810478e886290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1145d9b1bcba92f900d383eaa187740508b0cb2bf3fa1ee730ba0481c50849db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco Comercial
+- Crédito Bancário
 relationships:
 - type: amended_by
   target: pt:dre:464022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502830:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:464022:por
+  label: "Revogado pelo DEC LEI.362/80.1980.09.09.MFP DR.IS [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1980-464022
+  date: '1980-09-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:33Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +121,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O § 3.º do artigo 65.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, na redacção que lhe foi dada pelo [Decreto-Lei n.º 204/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1976-501403), de 20 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O § 3.º do artigo 65.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, na redacção que lhe foi dada pelo [Decreto-Lei n.º 204/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1976-501403), de 20 de Março, passa a ter a seguinte redacção:
 
-###### Art. 65.º - 1 - ...
+Art. 65.º - 1 - ...
 
 § 1.º ...
 
@@ -111,12 +131,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 3.º O Ministro das Finanças e do Plano pode, por portaria, proceder à alteração dos limites referidos no corpo e parágrafos anteriores do presente artigo, quer fixando-os, quer atribuindo essa função ao Banco de Portugal, que a efectivará por meio de aviso a publicar no Diário da República.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 21 de Julho de 1978.**
+Promulgado em 21 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

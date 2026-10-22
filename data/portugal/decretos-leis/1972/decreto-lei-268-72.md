@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1972-675839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecd60e77789865816f559585086077b55358373044b847a91122fcc51effbcaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfc33741668e2160f745a6388ee1d7bc06cb29d13ffc67f376dbcab7ddae6013
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exame
+- Propinas
+- Qualificação Profissional
+- Revisor Oficial de Contas
+relationships:
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:26Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os candidatos ao exame de aptidão para revisor oficial de contas ficam sujeitos ao pagamento de uma propina de admissão, cujo quantitativo será fixado pelos Ministros da Justiça e das Finanças no regulamento previsto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
+Artigo 1.º - 1. Os candidatos ao exame de aptidão para revisor oficial de contas ficam sujeitos ao pagamento de uma propina de admissão, cujo quantitativo será fixado pelos Ministros da Justiça e das Finanças no regulamento previsto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
 
 2. A propina prevista no número anterior constitui receita da Câmara dos Revisores Oficiais de Contas.
 
-###### Art. 2.º - 1. Enquanto não estiver constituída a Câmara dos Revisores, as quantias das propinas serão destinadas ao pagamento dos encargos a que se referem o n.º 2 do artigo 10.º e o n.º 4 do artigo 12.º do diploma mencionado no n.º 1 do artigo anterior.
+Art. 2.º - 1. Enquanto não estiver constituída a Câmara dos Revisores, as quantias das propinas serão destinadas ao pagamento dos encargos a que se referem o n.º 2 do artigo 10.º e o n.º 4 do artigo 12.º do diploma mencionado no n.º 1 do artigo anterior.
 
 2. No orçamento do Ministério da Justiça serão inscritas as verbas necessárias à satisfação dos encargos referidos no número anterior, sujeitas a reembolso até ao valor total das propinas depositadas.
 
@@ -105,8 +113,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 20 de Julho de 1972.**
+Promulgado em 20 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

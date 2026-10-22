@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 175/1981, 1º Suplemento, Série I de 1981-08-01
   number: '175'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1982-(1) a 1982-(116)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf
 entry_into_force_dates: []
@@ -46,36 +46,126 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-a-1981-330197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14300b5a5573a6d259f8aaf93fc462ef38afe800847713c666aad11e3f6f78ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b903e29a0359acd3f58a15559551989ae0b695d65cdc84417ad63d0359191f3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Planeamento Económico
+- Plano Económico
+relationships:
+- type: cites
+  target: pt:dre:157042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:06Z'
   warnings: []
   errors: []
 ---
@@ -86,23 +176,23 @@ de 1 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado o Plano para 1981, elaborado de harmonia com as grandes opções constantes da [Lei n.º 4-A/81](https://diariodarepublica.pt/dr/detalhe/lei/4-a-1981-423045), de 6 de Maio.
+Artigo 1.º - 1 - É aprovado o Plano para 1981, elaborado de harmonia com as grandes opções constantes da [Lei n.º 4-A/81](https://diariodarepublica.pt/dr/detalhe/lei/4-a-1981-423045), de 6 de Maio.
 
 2 - O texto designado «Plano para 1981» faz parte integrante do presente diploma.
 
-###### Art. 2.º Os serviços da Administração Pública, as empresas públicas e demais institutos públicos ficam obrigados a dar execução ao Plano.
+Art. 2.º Os serviços da Administração Pública, as empresas públicas e demais institutos públicos ficam obrigados a dar execução ao Plano.
 
-###### Art. 3.º Serão elaborados pelos serviços competentes relatórios de execução do Plano relativamente ao ano de 1981.
+Art. 3.º Serão elaborados pelos serviços competentes relatórios de execução do Plano relativamente ao ano de 1981.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a partir da data de entrada em vigor da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768) de 24 de Abril.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a partir da data de entrada em vigor da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768) de 24 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Julho de 1981.**
+Promulgado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Plano para 1981
 
@@ -166,7 +256,7 @@ IV - Programa de Investimentos e Despesas de Desenvolvimento da Administração 
 
 V - Investimentos intermunicipais.
 
-## Apêndice: A evolução económica internacional no ano de 1980 e perspectivas para 1981.
+Apêndice: A evolução económica internacional no ano de 1980 e perspectivas para 1981.
 
 Plano para 1981
 
@@ -350,7 +440,7 @@ QUADRO N.º 1
 
 Crescimento em percentagem do volume do PNB/PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 QUADRO N.º 2
 
@@ -358,7 +448,7 @@ Evolução das componentes da despesa (ver nota 1)
 
 Taxas de variação anuais em volume face ao ano anterior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 (nota 1) No quadro onde se apresentam as componentes da despesa, os valores que se encontram entre parênteses dizem respeito às previsões mais recentes efectuadas pelos países. No que concerne à formação bruta de capital fixo, é possível verificar que as divergências das previsões países-Secretariado da OCDE são muito grandes, particularmente no que respeita aos EUA.
 
@@ -366,31 +456,31 @@ QUADRO N.º 3
 
 Despesa interna
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 QUADRO N.º 4
 
 Produto interno bruto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 QUADRO N.º 5
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 QUADRO N.º 6
 
 Poupança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 QUADRO N.º 7
 
 Equilíbrio financeiro da economia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 II - Medidas de política
 
@@ -2226,13 +2316,13 @@ O crescimento real de 7,5% da FBCF do sector empresarial é explicado por um cre
 
 A estrutura sectorial é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 A cobertura financeira do programa de investimentos será assegurada por autofinanciamento (16%), dotações de capital estatutário (6%), recurso ao crédito bancário interno (43%) e externo (28%) e através da emissão de obrigações (6%). Na análise da cobertura financeira atrás referida tomou-se em consideração os subsídios de exploração atribuídos aos diversos sectores.
 
 A verba de 18 milhões de contos para dotações de capital inscrita no OGE destinada ao financiamento dos programas de investimento, saneamento financeiro e cobertura de obrigações do Estado (créditos intercalares) relativas a 1981 reparte-se do modo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 A estrutura da FBCF por empresas permite evidenciar o peso da Cimpor (9,4%), CNP (9,8%), Petrogal (14%), Quimigal (28%) e Siderurgia Nacional (22,4%). Nos dois primeiros casos, o grosso do investimento concentra-se em projectos que se concluirão em 1981 e que possivelmente terão repercussões na produção ainda este ano; é o caso da 3.ª linha de Souselas, que acrescerá a capacidade de produção de cimento de 1 milhão de toneladas, e do steam craker, que, a plena capacidade, permitirá a produção de 300000 t/ano de etileno destinadas à EPSI - Empresa de Polímeros de Sines e à exportação. Realce-se ainda o investimento de reconversão dos fornos IV e V de Alhandra, que irá permitir importantes economias de combustível.
 
@@ -2264,7 +2354,7 @@ O programa de investimentos do sector das comunicações destina-se a eliminar p
 
 No sector do comércio e turismo destaca-se o projecto de construção do silo da Trafaria, que visa permitir a movimentação rápida e eficiente de cereais a granel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 IV - Programa de Investimentos e Despesas de Desenvolvimento da Administração Central (PIDDAC)
 
@@ -2282,13 +2372,13 @@ Destinam-se a investimentos intermunicipais 2000 milhares de contos, integralmen
 
 A distribuição das despesas do PIDDAC por sectores e por Ministérios consta dos quadros I e II, aos quais se seguem quadros sectoriais, com indicação dos programas e principais projectos em que se desdobra o PIDDAC para 1981.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 V - Investimentos intermunicipais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
-## Apêndice
+Apêndice
 
 A evolução económica internacional no ano de 1980 e perspectivas para 1981
 
@@ -2316,7 +2406,7 @@ Produção industrial
 
 Variação, em percentagem, relativamente ao trimestre anterior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 Analisando a evolução em termos infra-anuais, verifica-se que a recessão apresentou também forte intensidade na Alemanha e na Itália, sendo ainda bem marcada em França, na Bélgica e na Holanda, embora em termos anuais a produção nestes países tenha evoluído de forma positiva face a 1979.
 
@@ -2334,7 +2424,7 @@ Taxas de juro de curto prazo (ver nota 1)
 
 Valores em fim de período
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 (nota 1) Taxa interbancária a três meses, excepto para a Dinamarca, Itália e Bélgica.
 
@@ -2354,7 +2444,7 @@ Contribuições para a variação do PNB/PIB em volume
 
 (Expressas em percentagem do PNB/PIB do período precedente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 O consumo público manteve, para alguns dos principais países, um acréscimo real idêntico ao de 1979, tendo, no entanto, a sua evolução apresentado uma desaceleração progressiva, por vezes acentuada, ao longo do ano.
 
@@ -2370,7 +2460,7 @@ Taxa de desemprego
 
 Em percentagem da população activa civil (valores corrigidos da sazonalidade)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 No respeitante à produtividade, a situação deteriorou-se relativamente a 1979. Assim, verificou-se, de uma maneira geral, uma desaceleração no seu crescimento, tendo-se registado mesmo diminuições nalguns países.
 
@@ -2380,7 +2470,7 @@ No respeitante à produtividade, a situação deteriorou-se relativamente a 1979
 
 Variação, em percentagem, relativamente ao período anterior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 Embora a subida dos preços de importação se tenha acentuado em meados de 1980, o que, conjugado com as medidas restritivas entretanto tomadas, originou um abrandamento da inflação no decurso do 3.º trimestre, as pressões inflacionistas mantêm ainda grande intensidade. De facto, a subida dos preços no consumidor situava-se no início de 1981 em cerca de 12% ao ano para os países da OCDE, tendo-se verificado, para além da continuação da pressão dos preços de importação, incrementos dos custos do trabalho, relacionados quer com a diminuição da produtividade em vários países, quer com a adequação dos salários à forte inflação anterior.
 
@@ -2398,7 +2488,7 @@ Por seu turno, os lucros evoluíram de forma relativamente satisfatória e mais 
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 A recessão por que passam as economias mais desenvolvidas não tem parado a deterioração dos termos de troca (que a OCDE estima tenha atingido os 23% em 1980, para o conjunto da zona face ao resto do mundo), ao contrário do verificado após o primeiro choque petrolífero.
 
@@ -2422,7 +2512,7 @@ A forte competitividade americana e japonesa manteve-se durante a maior parte de
 
 Taxa de câmbio em relação ao dólar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 A degradação sensível das balanças de pagamentos correntes dos países europeus terá, assim, sido fundamentalmente devida à forte deterioração dos termos de troca, resultante quer do aumento do preço do petróleo quer da apreciação do dólar, e à perda de partes de mercado, especialmente notória para a França e a Itália: a Comunidade Europeia passou de um défice de 14,5 biliões de dólares em 1979 para 41 biliões em 1980.
 
@@ -2438,7 +2528,7 @@ Previsões do perfil trimestral da actividade económica
 
 (Avaliação qualitativa e previsões quantitativas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 A observação do quadro permite verificar que, se exceptuarmos a Espanha, cujos condicionalismos são específicos, apenas a partir do 3.º trimestre existem perspectivas positivas, devendo, até lá, a actividade económica manter uma situação de recessão ou estagnação, conforme os casos.
 
@@ -2478,7 +2568,7 @@ A forma e rapidez com que a economia americana reagirá às medidas propostas co
 
 Previsões alternativas para os EUA para o ano de 1981
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 Apesar de todas as reservas atrás apresentadas, a retoma nos EUA parece de qualquer forma assegurada, esperando-se um crescimento na procura interna total de 2,7%. Este crescimento aparece fundamentalmente justificado pela elevação intensa prevista no consumo privado (+3,6%), uma vez que o investimento deverá diminuir 0,5% e as despesas do Estado, apesar do aumento registado no orçamento da Defesa, se prevê que permaneçam praticamente estáveis face ao ano anterior (+0,1%). No que respeita às exportações, as previsões são mais pessimistas (-1,3%), uma vez que deverão ser afectadas por um lado pela recessão mundial e por outro pela perda de competitividade devida à reavaliação do dólar.
 
@@ -2488,7 +2578,7 @@ No que concerne aos efeitos exercidos pela evolução do câmbio do dólar, a OC
 
 Simulação dos efeitos das alterações das taxas de câmbio nas variáveis (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 (nota 1) Baseados nas mudanças de cotação de Outubro de 1980 a Março de 1981. Os cálculos foram feitos através do modelo interlink.
 
@@ -2498,7 +2588,7 @@ Para além da retoma nos EUA, um outro factor agirá positivamente no relançame
 
 Evolução em volume dos «stocks»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 Acompanhando este movimento de destocagem, poderá, eventualmente, ter-se verificado um crescimento das importações como movimento de antecipação a uma reavaliação do dólar, motivando que fosse fundamentalmente a componente oriunda de compras nacionais que sofresse quebra no conjunto dos stocks. Assim, a paragem do movimento de destocagem poderá vir a ter consequências positivas, fundamentalmente a nível da procura interna, que terá de ser satisfeita pela produção e não pelos stocks, dado o baixo nível por estes atingido.
 
@@ -2510,7 +2600,7 @@ Prevê-se que o rendimento real disponível das famílias cresça, para o conjun
 
 Evolução da procura interna total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 No que concerne às taxas de poupança, prevê-se que se mantenham praticamente estacionárias em 1981, excepto em Itália (onde se espera uma recuperação, após forte quebra verificada em 1980) e nos EUA, onde as reduções de impostos poderão ter efeitos positivos neste domínio.
 
@@ -2526,7 +2616,7 @@ A fraca reanimação prevista para o conjunto da actividade económica, conjugad
 
 Emprego, produtividade e taxa de desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 Para todo o conjunto da zona da OCDE prevê-se que, no princípio de 1982, a taxa de crescimento do emprego possa atingir 1% reflectindo a retoma da actividade, esperada para a parte final de 1981. A conjugação da taxa de crescimento lenta do emprego, cem a progressão sensível que é esperada para a população activa, conduz a que a previsão seja no sentido do agravamento da taxa de desemprego, que atingirá o nível de 7% em 1981 e de 7,4% em 1982, para o conjunto da zona da OCDE. A situação a nível da OCDE - Europa é ainda mais desfavorável, com taxas de respectivamente 8,5% e 9,2%.
 
@@ -2534,13 +2624,13 @@ Para todo o conjunto da zona da OCDE prevê-se que, no princípio de 1982, a tax
 
 Ganhos reais, custo da mão-de-obra e produtividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 De uma maneira geral, nos sete maiores países da OCDE verificar-se-ão em 1981 taxas de crescimento nos custos reais de mão-de-obra superiores às da produtividade; igualmente os ganhos reais (salários e ordenados por trabalhador, corrigidos pelo índice de preços implícito no consumo privado) registarão um crescimento mais rápido que o previsto para a produtividade.
 
 Índice de preços implícito no PNB na zona da OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 No que concerne aos preços, espera-se em 1981 uma situação semelhante à registada no ano anterior - a taxa de crescimento dos preços implícitos no PNB será de 10% para o conjunto da OCDE, correspondendo, no entanto, a situações bastante díspares de país para país. Por seu turno, o índice de preços implícito no consumo privado verificará desaceleração, passando de uma taxa de 11,3% em 1980 para 10,1% em 1981, reflectindo de alguma forma o movimento semelhante que se espera nos preços de importação (em 1980 a taxa de crescimento foi de 23%, esperando-se a sua redução para 11,7, ambas calculadas sobre valores em moeda nacional).
 
@@ -2548,7 +2638,7 @@ No que concerne aos preços, espera-se em 1981 uma situação semelhante à regi
 
 Volume e preços do comércio externo da zona da OCDE e balanças de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 Esta evolução é fundamentalmente justificada pelo crescimento da procura externa dos países da OPEP (que registará uma intensificação progressiva ao longo do ano), permitindo que as exportações da OCDE para aquela zona cresçam a uma taxa anual de cerca de 14%.
 
@@ -2582,7 +2672,7 @@ Espera-se também uma descida do preço dos produtos alimentares exportados pelo
 
 (Taxas de variação - Anuais e trimestrais)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17501/00010116.pdf)
 
 (nota 1) Previsões de Março de 1981. Preços em dólares a taxas de câmbio de Fevereiro.
 

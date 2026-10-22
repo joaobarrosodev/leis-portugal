@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/17800/09830987.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/267-1972-675843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f15cb730e4f4912835dce2641c4bf3cb141591247488627794f4793767b21d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad86d30c0b06993b0cf8f06a3cefde4d0c0b88dd5d623a792012d8837566b928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:105711787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:105711787:por
+  label: Revogado, a partir de 01.02.2017, pelo(a) Decreto-Lei n.º 2/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2017-105711787
+  date: '2017-01-06'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:45Z'
   warnings: []
   errors: []
 ---
@@ -95,25 +100,25 @@ Considerando que, por um processo selectivo que acompanhou o desenvolvimento da 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aprovados o Regulamento da Entrada de Navios de Guerra Estrangeiros em Território Nacional e o Regulamento da Entrada de Aeronaves Militares Estrangeiras em Território Nacional, que fazem parte do presente decreto e são assinados pelos titulares dos respectivos departamentos.
+Artigo 1.º São aprovados o Regulamento da Entrada de Navios de Guerra Estrangeiros em Território Nacional e o Regulamento da Entrada de Aeronaves Militares Estrangeiras em Território Nacional, que fazem parte do presente decreto e são assinados pelos titulares dos respectivos departamentos.
 
-###### Art. 2.º - 1. Estes Regulamentos só são aplicáveis quando Portugal e o Estado a que pertencem os navios de guerra ou aeronaves militares que entrem em território nacional se encontrem, um e outro, em paz.
+Art. 2.º - 1. Estes Regulamentos só são aplicáveis quando Portugal e o Estado a que pertencem os navios de guerra ou aeronaves militares que entrem em território nacional se encontrem, um e outro, em paz.
 
 2. Existindo acordo especial sobre a matéria, aplicam-se apenas as disposições que não sejam contrárias às desse acordo.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1972.**
+Promulgado em 29 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Regulamento da Entrada de Navios de Guerra Estrangeiros em Território Nacional
 
-###### Artigo 1.º - 1. Para efeitos deste Regulamento, são considerados navios de guerra ou a eles equiparados os navios incluídos numa das seguintes categorias:
+Artigo 1.º - 1. Para efeitos deste Regulamento, são considerados navios de guerra ou a eles equiparados os navios incluídos numa das seguintes categorias:
 
 a) Navios pertencentes à marinha militar de um Estado e comandados por um oficial cujo nome figura na lista dos oficiais da marinha militar;
 
@@ -125,11 +130,11 @@ d) Navios em que viajem oficialmente Chefes de Estado e seu séquito, quando nã
 
 2. Os navios abrangidos pelo número anterior são nucleares quando forem providos de fontes de energia nuclear para a sua propulsão ou para qualquer outro fim.
 
-###### Art. 2.º - 1. Para efeitos da aplicação deste Regulamento, entende-se por território nacional o conjunto de todos os espaços terrestres e de todas as águas portuguesas, bem como os espaços aéreos que lhes são superjacentes.
+Art. 2.º - 1. Para efeitos da aplicação deste Regulamento, entende-se por território nacional o conjunto de todos os espaços terrestres e de todas as águas portuguesas, bem como os espaços aéreos que lhes são superjacentes.
 
 2. As águas dos rios e lagos limítrofes, ainda que abertos ao comércio internacional, e as do mar territorial, tal como é definido no direito interno e reconhecido no direito internacional, fazem parte do território nacional.
 
-###### Art. 3.º - 1. A entrada de navios de guerra estrangeiros em território nacional, a não ser que se efectue a convite do Governo Português ou esteja regulada por acordo especial, requer autorização solicitada por via diplomática, através do Ministério dos Negócios Estrangeiros, em regra com antecedência não inferior a:
+Art. 3.º - 1. A entrada de navios de guerra estrangeiros em território nacional, a não ser que se efectue a convite do Governo Português ou esteja regulada por acordo especial, requer autorização solicitada por via diplomática, através do Ministério dos Negócios Estrangeiros, em regra com antecedência não inferior a:
 
 Visitas oficiais - seis semanas.
 
@@ -147,7 +152,7 @@ c) Navios arvorando bandeira de um estado limítrofe nas vias navegáveis de ace
 
 d) Navios em passagem pelo mar territorial.
 
-###### Art. 4.º - 1. O pedido de autorização a que se refere o artigo anterior deverá, normalmente, ser acompanhado das seguintes informações:
+Art. 4.º - 1. O pedido de autorização a que se refere o artigo anterior deverá, normalmente, ser acompanhado das seguintes informações:
 
 a) Nome, tipo e classe de cada navio;
 
@@ -185,7 +190,7 @@ e) Que o mesmo Governo assume inteira responsabilidade:
 
 2.º Pela imunização e remoção do navio, se este ficar imobilizado em águas territoriais ou portos portugueses.
 
-###### Art. 5.º No intuito de abreviar a concessão das facilidades que os navios eventualmente pretendam, poderá o pedido de autorização ser ainda acompanhado das seguintes informações:
+Art. 5.º No intuito de abreviar a concessão das facilidades que os navios eventualmente pretendam, poderá o pedido de autorização ser ainda acompanhado das seguintes informações:
 
 a) Dimensões principais dos navios;
 
@@ -201,15 +206,15 @@ f) Intenção de desembarcar veículos automóveis para serviço dos navios, sua
 
 g) Intenção de utilizar radiotransmissores, radares ou sonares, durante a permanência em território nacional, e respectivas frequências.
 
-###### Art. 6.º - 1. Competirá ao Ministro da Marinha, tendo em atenção o disposto no n.º 2 do artigo 4.º, decidir sobre a conveniência ou inconveniência, do ponto de vista de segurança nuclear, de ser concedida autorização para a admissão e movimento de navios de guerra nucleares estrangeiros em portos e águas territoriais do continente e ilhas adjacentes.
+Art. 6.º - 1. Competirá ao Ministro da Marinha, tendo em atenção o disposto no n.º 2 do artigo 4.º, decidir sobre a conveniência ou inconveniência, do ponto de vista de segurança nuclear, de ser concedida autorização para a admissão e movimento de navios de guerra nucleares estrangeiros em portos e águas territoriais do continente e ilhas adjacentes.
 
 2. Quando o julgar conveniente, poderá o Ministro da Marinha ouvir a Comissão Nacional para os Navios Nucleares, à qual, para o efeito, serão agregados dois representantes do Estado-Maior da Armada.
 
 3. Sempre que sejam autorizados a admissão e o movimento de navios de guerra nucleares estrangeiros em portos ou águas territoriais do continente e ilhas adjacentes, deverá o Estado-Maior da Armada comunicar o facto à Comissão Nacional para os Navios Nucleares, a fim de que os organismos nela representados tomem, na parte aplicável, as medidas de segurança previstas na legislação que regula a admissão e movimento destes navios.
 
-###### Art. 7.º Nas águas territoriais e portos do ultramar português pertence ao Ministro do Ultramar a competência atribuída ao Ministro da Marinha pelos n.os 1 e 2 do artigo anterior, devendo a comunicação mencionada no n.º 3 do mesmo artigo ser feita pelo respectivo Ministério.
+Art. 7.º Nas águas territoriais e portos do ultramar português pertence ao Ministro do Ultramar a competência atribuída ao Ministro da Marinha pelos n.os 1 e 2 do artigo anterior, devendo a comunicação mencionada no n.º 3 do mesmo artigo ser feita pelo respectivo Ministério.
 
-###### Art. 8.º - 1. Salvo nos casos previstos nas alíneas c) e d) do n.º 2 do artigo 3.º, a entrada de navios de guerra estrangeiros em território nacional é sempre considerada como «visita».
+Art. 8.º - 1. Salvo nos casos previstos nas alíneas c) e d) do n.º 2 do artigo 3.º, a entrada de navios de guerra estrangeiros em território nacional é sempre considerada como «visita».
 
 2. As visitas de navios de guerra estrangeiros a portos nacionais classificam-se em:
 
@@ -221,7 +226,7 @@ c) Visitas de rotina.
 
 3. A classificação de uma visita é feita, em regra, por acordo entre o Governo Português e o Governo do Estado do navio visitante, por iniciativa de um ou de outro.
 
-###### Art. 9.º - 1. Serão geralmente consideradas como oficiais:
+Art. 9.º - 1. Serão geralmente consideradas como oficiais:
 
 a) As visitas de navios em que venham embarcadas altas personalidades;
 
@@ -231,27 +236,27 @@ c) As visitas em que se verifiquem outras circunstâncias que levem a considerá
 
 2. As visitas oficiais são reguladas por um programa estabelecido pelo Ministério dos Negócios Estrangeiros, em colaboração com o Ministério da Marinha.
 
-###### Art. 10.º - 1. As visitas serão consideradas não oficiais quando não se deseje dar-lhes particular realce, ainda que essas visitas representem uma prova de boas relações; dentro desta categoria estão incluídas, em especial, as visitas motivadas pelo intercâmbio natural entre as marinhas e, eventualmente, as destinadas à satisfação de necessidades logísticas.
+Art. 10.º - 1. As visitas serão consideradas não oficiais quando não se deseje dar-lhes particular realce, ainda que essas visitas representem uma prova de boas relações; dentro desta categoria estão incluídas, em especial, as visitas motivadas pelo intercâmbio natural entre as marinhas e, eventualmente, as destinadas à satisfação de necessidades logísticas.
 
 2. As visitas não oficiais são reguladas por um programa estabelecido pelo Ministério da Marinha.
 
-###### Art. 11.º - 1. As visitas serão consideradas de rotina quando tiverem objectivos exclusivamente logísticos ou operacionais ou com eles relacionados.
+Art. 11.º - 1. As visitas serão consideradas de rotina quando tiverem objectivos exclusivamente logísticos ou operacionais ou com eles relacionados.
 
 2. As visitas de rotina são reguladas por um programa estabelecido pelo Ministério da Marinha.
 
 3. Nestas visitas as formalidades do cerimonial marítimo são reduzidas ao mínimo.
 
-###### Art. 12.º - 1. Os navios de guerra estrangeiros que por motivo de arribada forçada se decidam a entrar ou tenham entrado em território nacional sem autorização prévia deverão dar conhecimento do facto ao Ministério dos Negócios Estrangeiros, através da respectiva representação diplomática ou consular, logo que for decidida a sua entrada ou imediatamente a seguir à sua entrada, e avisar com a possível antecedência, as autoridades navais do porto de arribada.
+Art. 12.º - 1. Os navios de guerra estrangeiros que por motivo de arribada forçada se decidam a entrar ou tenham entrado em território nacional sem autorização prévia deverão dar conhecimento do facto ao Ministério dos Negócios Estrangeiros, através da respectiva representação diplomática ou consular, logo que for decidida a sua entrada ou imediatamente a seguir à sua entrada, e avisar com a possível antecedência, as autoridades navais do porto de arribada.
 
 2. Para feitos de cerimonial, a entrada nas circunstâncias previstas neste artigo é equiparada à visita de rotina.
 
-###### Art. 13.º Sempre que possível, o Comando de Região Naval ou de Defesa Marítima nomeará um oficial de ligação com o navio visitante, em conformidade com as normas em vigor.
+Art. 13.º Sempre que possível, o Comando de Região Naval ou de Defesa Marítima nomeará um oficial de ligação com o navio visitante, em conformidade com as normas em vigor.
 
-###### Art. 14.º - 1. Os navios de guerra estrangeiros gozam de isenção de jurisdição local e das imunidades que são reconhecidas pelo direito internacional aos navios de guerra e às suas guarnições, mas devem cumprir os regulamentos de navegação de acesso, para o que lhes serão facultadas as indicações necessárias.
+Art. 14.º - 1. Os navios de guerra estrangeiros gozam de isenção de jurisdição local e das imunidades que são reconhecidas pelo direito internacional aos navios de guerra e às suas guarnições, mas devem cumprir os regulamentos de navegação de acesso, para o que lhes serão facultadas as indicações necessárias.
 
 2. Os navios de guerra estrangeiros devem também respeitar as disposições aduaneiras, sanitárias e de imigração em vigor no nosso País, bem como as relativas à ordem pública e à segurança nacional.
 
-###### Art. 15.º Quando houver reciprocidade para os navios de guerra portugueses nos portos do País do navio visitante, serão concedidos aos navios de guerra estrangeiros os seguintes privilégios:
+Art. 15.º Quando houver reciprocidade para os navios de guerra portugueses nos portos do País do navio visitante, serão concedidos aos navios de guerra estrangeiros os seguintes privilégios:
 
 a) Isenção de taxas portuárias;
 
@@ -261,15 +266,15 @@ c) Prestação gratuita de serviços de reboque de navios e de transporte de pes
 
 d) Fornecimento gratuito de água e luz quando através de instalações pertencentes à Armada.
 
-###### Art. 16.º Os navios de guerra estrangeiros, salvo se tiverem obtido autorização por via diplomática, não poderão efectuar em território nacional:
+Art. 16.º Os navios de guerra estrangeiros, salvo se tiverem obtido autorização por via diplomática, não poderão efectuar em território nacional:
 
 a) Exercícios de tiro, de lançamento de quaisquer armas, de projectores, de desembarque e quaisquer outros de carácter militar;
 
 b) Levantamentos hidrográficos e sondagens, excepto quando forem indispensáveis à segurança imediata dos navios.
 
-###### Art. 17.º O voo de aeronaves embarcadas fica sujeito ao disposto no Regulamento da Entrada de Aeronaves Militares Estrangeiras em Território Nacional.
+Art. 17.º O voo de aeronaves embarcadas fica sujeito ao disposto no Regulamento da Entrada de Aeronaves Militares Estrangeiras em Território Nacional.
 
-###### Art. 18.º - 1. Os navios de guerra estrangeiros só depois de obtida anuência das autoridades locais poderão realizar os actos a seguir indicados:
+Art. 18.º - 1. Os navios de guerra estrangeiros só depois de obtida anuência das autoridades locais poderão realizar os actos a seguir indicados:
 
 a) Desembarque de licenças;
 
@@ -285,39 +290,39 @@ f) Trabalhos submarinos.
 
 2. Aos oficiais dos navios de guerra estrangeiros é permitido desembarcar com as suas espadas.
 
-###### Art. 19.º - 1. O número de licenças, bem como os pormenores relativos ao seu embarque, desembarque e permanência em terra, serão estabelecidos com o acordo das autoridades civis, obtido por intermédio das autoridades navais ou marítimas da localidade.
+Art. 19.º - 1. O número de licenças, bem como os pormenores relativos ao seu embarque, desembarque e permanência em terra, serão estabelecidos com o acordo das autoridades civis, obtido por intermédio das autoridades navais ou marítimas da localidade.
 
 2. Será adoptado idêntico procedimento no desembarque de qualquer contingente desarmado.
 
 3. Os oficiais dos navios de guerra de países com quem Portugal mantém relações diplomáticas podem desembarcar livremente nos portos portugueses no gozo de licença, mesmo em traje civil.
 
-###### Art. 20.º - 1. Quando um navio de guerra estrangeiro pretender desembarcar forças armadas, deve, em regra, formular o pedido por via diplomática.
+Art. 20.º - 1. Quando um navio de guerra estrangeiro pretender desembarcar forças armadas, deve, em regra, formular o pedido por via diplomática.
 
 2. Quando se trate, porém, do desembarque de destacamentos para prestar honras fúnebres a um elemento da guarnição, a licença pode ser pedida às autoridades navais do porto onde se encontra e, na sua falta, às autoridades militares ou civis da localidade.
 
-###### Art. 21.º - 1. Os navios de guerra estrangeiros que pretendam servir-se dos seus emissores de radiocomunicações em portos portugueses deverão indicar no pedido de autorização às autoridades navais as frequências, as potências e as características de emissão a utilizar e o horário que se propõem cumprir.
+Art. 21.º - 1. Os navios de guerra estrangeiros que pretendam servir-se dos seus emissores de radiocomunicações em portos portugueses deverão indicar no pedido de autorização às autoridades navais as frequências, as potências e as características de emissão a utilizar e o horário que se propõem cumprir.
 
 2. A autorização só poderá ser dada sem prejuízo do serviço nacional e das obrigações contraídas por convenção internacional de que Portugal seja parte.
 
 3. O uso contínuo de outras emissões electromagnéticas ou ultra-sonoras carece de notificação às autoridades navais, para efeitos de coordenação, se necessária.
 
-###### Art. 22.º As embarcações miúdas dos navios de guerra estrangeiros só desarmadas podem permanecer ou navegar em território nacional.
+Art. 22.º As embarcações miúdas dos navios de guerra estrangeiros só desarmadas podem permanecer ou navegar em território nacional.
 
-###### Art. 23.º Não é permitido aos navios de guerra estrangeiros pairar ou fundear em território nacional sem autorização, salvo se esta medida constituir incidente normal da navegação ou se for necessária à segurança do navio ou da sua guarnição.
+Art. 23.º Não é permitido aos navios de guerra estrangeiros pairar ou fundear em território nacional sem autorização, salvo se esta medida constituir incidente normal da navegação ou se for necessária à segurança do navio ou da sua guarnição.
 
-###### Art. 24.º Não é permitido aos submarinos estrangeiros entrar submersos ou imergir em território nacional.
+Art. 24.º Não é permitido aos submarinos estrangeiros entrar submersos ou imergir em território nacional.
 
-###### Art. 25.º Não é permitido executar a pena de morte em navios estrangeiros quando se encontrem em território nacional.
+Art. 25.º Não é permitido executar a pena de morte em navios estrangeiros quando se encontrem em território nacional.
 
-###### Art. 26.º - 1. Em caso de infracção às disposições deste Regulamento ou às normas do direito internacional, será notificado o comandante responsável.
+Art. 26.º - 1. Em caso de infracção às disposições deste Regulamento ou às normas do direito internacional, será notificado o comandante responsável.
 
 2. Se depois da notificação se verificar nova infracção ou se for praticado qualquer acto atentatório da boa ordem, da paz ou da segurança do Estado Português, a autoridade naval ou quem a substituir apresentará um protesto formal ao comandante e comunicará o facto ocorrido, imediatamente e pela via mais rápida, à autoridade superior de que depende.
 
 Regulamento da Entrada de Aeronaves Militares Estrangeiras em Território Nacional.
 
-###### Artigo 1.º Só o Governo Português pode conceder facilidades de sobrevoo do território nacional ou aterragem ou amaragem no mesmo para aeronaves militares de países estrangeiros, sendo necessária, para tais efeitos, prévia autorização, conforme o preceituado no presente Regulamento.
+Artigo 1.º Só o Governo Português pode conceder facilidades de sobrevoo do território nacional ou aterragem ou amaragem no mesmo para aeronaves militares de países estrangeiros, sendo necessária, para tais efeitos, prévia autorização, conforme o preceituado no presente Regulamento.
 
-###### Art. 2.º Para efeitos deste Regulamento, são consideradas aeronaves militares as aeronaves incluídas numa das seguintes categorias:
+Art. 2.º Para efeitos deste Regulamento, são consideradas aeronaves militares as aeronaves incluídas numa das seguintes categorias:
 
 a) As aeronaves pertencentes à Força Aérea de um Estado;
 
@@ -329,7 +334,7 @@ d) As aeronaves utilizadas em serviços de polícia;
 
 e) As aeronaves em que viajem oficialmente Chefes de Estado e seus séquitos, quando não transportem outros passageiros.
 
-###### Art. 3.º - 1. A entrada de aeronaves militares estrangeiras em território nacional, para sobrevoo, aterragem ou amaragem, só pode efectuar-se depois de obtida a autorização solicitada por via diplomática, através do Ministério dos Negócios Estrangeiros, em regra com cinco dias úteis de antecedência.
+Art. 3.º - 1. A entrada de aeronaves militares estrangeiras em território nacional, para sobrevoo, aterragem ou amaragem, só pode efectuar-se depois de obtida a autorização solicitada por via diplomática, através do Ministério dos Negócios Estrangeiros, em regra com cinco dias úteis de antecedência.
 
 2. Os pedidos de autorização para casos de natureza especial, tais como transporte de armamento, munições, explosivos, cargas perigosas e tropas armadas, reabastecimento em voo, missões fotográficas, voos a baixa altitude e de prospecção do subsolo, devem ser apresentados com, pelo menos, dez dias úteis de antecedência.
 
@@ -337,9 +342,9 @@ e) As aeronaves em que viajem oficialmente Chefes de Estado e seus séquitos, qu
 
 4. O disposto nos números anteriores não é aplicável às aeronaves que se encontrem em situação de emergência.
 
-###### Art. 4.º As aeronaves militares embarcadas ficam subordinadas ao estabelecido no artigo 3.º deste Regulamento sempre que pretendam efectuar qualquer voo em território nacional.
+Art. 4.º As aeronaves militares embarcadas ficam subordinadas ao estabelecido no artigo 3.º deste Regulamento sempre que pretendam efectuar qualquer voo em território nacional.
 
-###### Art. 5.º Os pedidos de autorização a que se refere este Regulamento deverão ser acompanhados das seguintes informações:
+Art. 5.º Os pedidos de autorização a que se refere este Regulamento deverão ser acompanhados das seguintes informações:
 
 a) Tipo e número de aeronaves;
 
@@ -361,24 +366,24 @@ i) Indicações julgadas úteis para facilitar a assistência pretendida;
 
 j) Outras indicações pertinentes.
 
-###### Art. 6.º Quando uma aeronave militar em emergência aterrar ou amarar em território nacional sem autorização prévia, a aeronave, a tripulação e o pessoal transportado serão colocados sob vigilância das autoridades nacionais até que sejam determinadas as medidas que se entendam necessárias.
+Art. 6.º Quando uma aeronave militar em emergência aterrar ou amarar em território nacional sem autorização prévia, a aeronave, a tripulação e o pessoal transportado serão colocados sob vigilância das autoridades nacionais até que sejam determinadas as medidas que se entendam necessárias.
 
-###### Art. 7.º As aeronaves militares em território nacional ficam sujeitas às regras aéreas nacionais e internacionais.
+Art. 7.º As aeronaves militares em território nacional ficam sujeitas às regras aéreas nacionais e internacionais.
 
-###### Art. 8.º Será concedida às aeronaves militares estrangeiras, em regime de reciprocidade, a prestação gratuita de assistência e o transporte das respectivas tripulações, quando efectuados directamente pela Força Aérea Portuguesa.
+Art. 8.º Será concedida às aeronaves militares estrangeiras, em regime de reciprocidade, a prestação gratuita de assistência e o transporte das respectivas tripulações, quando efectuados directamente pela Força Aérea Portuguesa.
 
-###### Art. 9.º - 1. Quando houver reciprocidade, estabelecida por acordo internacional, será concedida isenção das taxas em vigor nos aeroportos nacionais às aeronaves militares estrangeiras.
+Art. 9.º - 1. Quando houver reciprocidade, estabelecida por acordo internacional, será concedida isenção das taxas em vigor nos aeroportos nacionais às aeronaves militares estrangeiras.
 
 2. Os casos de isenção não abrangem os serviços particulares de assistência que forem prestados.
 
-###### Art. 10.º Os ocupantes das aeronaves militares estrangeiras que pretendam desembarcar cumprirão as disposições aduaneiras, sanitárias e de imigração em vigor.
+Art. 10.º Os ocupantes das aeronaves militares estrangeiras que pretendam desembarcar cumprirão as disposições aduaneiras, sanitárias e de imigração em vigor.
 
-###### Art. 11.º As infracções às disposições deste Regulamento ou às normas de direito internacional serão notificadas directa e imediatamente ao comandante responsável e, quando julgado conveniente, serão comunicadas às autoridades portuguesas.
+Art. 11.º As infracções às disposições deste Regulamento ou às normas de direito internacional serão notificadas directa e imediatamente ao comandante responsável e, quando julgado conveniente, serão comunicadas às autoridades portuguesas.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-## Anexo a que se refere a alínea g) do artigo 5.º
+Anexo a que se refere a alínea g) do artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/17800/09830987.pdf))](https://files.diariodarepublica.pt/1s/1972/08/17800/09830987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/17800/09830987.pdf)
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.

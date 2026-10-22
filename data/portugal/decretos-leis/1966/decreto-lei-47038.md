@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47038-1966-473478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68a8a8a326642f1d6d876f6063269e7c248bc2c47e59aa7da4ba596bc02058ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ef948c1f9944b840fa2746258f76ed48815b782e524ff3c6a4e4d2464a76725
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Contrato de Concessão
+- Radio Marconi
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:475282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:20Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +118,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Governo, pelos Ministros do Ultramar e das Comunicações, autorizado a alterar os artigos 2.º, 3.º, 9.º, 15.º, 16.º, 17.º, 18.º e 21.º e a aditar um novo artigo 40.º ao contrato de concessão celebrado com a Companhia Portuguesa Rádio Marconi em 8 de Novembro de 1922 e alterado por subsequentes contratos de 23 de Abril de 1930 e de 20 de Novembro de 1956, nos termos constantes do anexo a este diploma, que dele faz parte integrante, e baixa assinado pelos Ministros do Ultramar e das Comunicações.
+Artigo 1.º É o Governo, pelos Ministros do Ultramar e das Comunicações, autorizado a alterar os artigos 2.º, 3.º, 9.º, 15.º, 16.º, 17.º, 18.º e 21.º e a aditar um novo artigo 40.º ao contrato de concessão celebrado com a Companhia Portuguesa Rádio Marconi em 8 de Novembro de 1922 e alterado por subsequentes contratos de 23 de Abril de 1930 e de 20 de Novembro de 1956, nos termos constantes do anexo a este diploma, que dele faz parte integrante, e baixa assinado pelos Ministros do Ultramar e das Comunicações.
 
-###### Art. 2.º As modificações referidas no artigo anterior entrarão em vigor no dia 1 do mês seguinte àquele em que o respectivo contrato for visado pelo Tribunal de Contas, nos termos do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933.
+Art. 2.º As modificações referidas no artigo anterior entrarão em vigor no dia 1 do mês seguinte àquele em que o respectivo contrato for visado pelo Tribunal de Contas, nos termos do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -118,7 +130,7 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 Alterações a introduzir no contrato de concessão da Companhia Portuguesa Rádio Marconi
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º A Companhia entregará gratuitamente ao Estado 236621 acções representativas do seu capital e compromete-se a ceder a entidades portuguesas, pelo preço já fixado por acordo entre as partes, o número de acções necessário para que a participação portuguesa no capital actual seja de 51 por cento. Este compromisso será mantido durante um ano a contar da data da publicação das presentes alterações no Diário do Governo.
 
@@ -128,23 +140,23 @@ Alterações a introduzir no contrato de concessão da Companhia Portuguesa Rád
 
 § 4.º Para efeitos do disposto nos parágrafos anteriores, só serão havidas como nacionais as sociedades constituídas de harmonia com as leis portuguesas, com sede em território nacional e cuja maioria absoluta, quanto a capital e administração, esteja nas condições previstas nos n.os 2 e 4 da base II da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943.
 
-###### Art. 3.º O conselho de administração da Companhia será composto por sete membros, todos de nacionalidade portuguesa, dos quais dois serão nomeados pelo Governo e outro poderá ser designado por accionista ou accionistas estrangeiros possuidores de, pelo menos, 25 por cento do capital social.
+Art. 3.º O conselho de administração da Companhia será composto por sete membros, todos de nacionalidade portuguesa, dos quais dois serão nomeados pelo Governo e outro poderá ser designado por accionista ou accionistas estrangeiros possuidores de, pelo menos, 25 por cento do capital social.
 
 ...
 
-###### Art. 9.º Além dos postos indicados nos artigos anteriores, a Companhia terá o direito de instalar e explorar quaisquer outros, dentro da área e nos devidos termos da sua concessão e presente contrato, utilizando ligações radioeléctricas de qualquer tipo (incluindo as estabelecidas directa ou indirectamente por intermédio de satélites espaciais) ou cabos submarinos (amarrados ou não em território português) ou a combinação destes dois sistemas.
+Art. 9.º Além dos postos indicados nos artigos anteriores, a Companhia terá o direito de instalar e explorar quaisquer outros, dentro da área e nos devidos termos da sua concessão e presente contrato, utilizando ligações radioeléctricas de qualquer tipo (incluindo as estabelecidas directa ou indirectamente por intermédio de satélites espaciais) ou cabos submarinos (amarrados ou não em território português) ou a combinação destes dois sistemas.
 
 No exercício da sua concessão a Companhia poderá explorar quaisquer modalidades de telegrafia ou de telefonia, incluindo a fototelegrafia, serviço telex, aluguer de circuitos, transmissão de dados, transmissão de programas e outras que resultem da evolução das telecomunicações.
 
 ...
 
-###### Art. 15.º A Companhia gozará de isenção de taxas respeitantes à licença de amarração de cabos submarinos e continua isenta de direitos aduaneiros relativos à importação de todo o material necessário à instalação, renovação e exploração das estações que não possa ser fabricado no País em boas condições.
+Art. 15.º A Companhia gozará de isenção de taxas respeitantes à licença de amarração de cabos submarinos e continua isenta de direitos aduaneiros relativos à importação de todo o material necessário à instalação, renovação e exploração das estações que não possa ser fabricado no País em boas condições.
 
 O Governo, a pedido da Companhia, poderá ainda conceder a isenção total ou parcial de contribuições e impostos, se tal se vier a justificar em face dos resultados da exploração, por virtude das repercussões do novo condicionalismo da concessão na situação económico-financeira da empresa.
 
 § único. (Suprimido).
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 § 1.º ...
 
@@ -156,7 +168,7 @@ Em casos excepcionais e quando circunstâncias especiais o aconselharem, a Compa
 
 § 4.º Com o fim de assegurar um maior rendimento e eficiência das telecomunicações nacionais e tendo em conta, por um lado, o disposto no artigo 25.º e, por outro, a posição accionista do Estado e a sua comparticipação nos lucros da Companhia, deverão celebrar-se entre o Estado e a concessionária acordos especiais de coordenação de serviços, nomeadamente no caso de comunicações concorrentes.
 
-###### Art. 17.º Deduzindo da receita bruta as despesas de exploração em cada ano, tirar-se-á do saldo:
+Art. 17.º Deduzindo da receita bruta as despesas de exploração em cada ano, tirar-se-á do saldo:
 
 a) Uma percentagem de 5 por cento para fundo de reserva legal;
 
@@ -172,7 +184,7 @@ e) O restante, para ser aplicado em complemento do dividendo ou noutros destinos
 
 § 2.º ...
 
-###### Art. 18.º A concessão outorgada á Companhia, com todos os seus direitos e encargos, termina em 31 de Dezembro de 1991, mas poderá ser sucessivamente prorrogada, por períodos de dez anos, se nisso convierem ambas as partes, mediante acordo a celebrar com a antecedência mínima de dois anos em relação ao termo da concessão.
+Art. 18.º A concessão outorgada á Companhia, com todos os seus direitos e encargos, termina em 31 de Dezembro de 1991, mas poderá ser sucessivamente prorrogada, por períodos de dez anos, se nisso convierem ambas as partes, mediante acordo a celebrar com a antecedência mínima de dois anos em relação ao termo da concessão.
 
 Finda esta, a Companhia entregará ao Governo, sem qualquer encargo para o Estado, a universalidade do estabelecimento afecto, de modo permanente e necessário, à exploração, compreendendo edifícios e terrenos de propriedade da Companhia, instalações, maquinismos, ferramentas, móveis e utensílios e peças de reserva, exceptuado, porém, o edifício da sede, como logo ficou estabelecido aquando da sua aquisição.
 
@@ -180,11 +192,11 @@ A Companhia obriga-se a vender ao Estado, se este assim o desejar, o mencionado 
 
 ...
 
-###### Art. 21.º O Governo poderá exercer o direito de resgate a partir de 31 de Dezembro de 1981. Para o efeito, avisará a Companhia da sua resolução, com um ano de antecedência, e pagará à mesma uma indemnização igual ao valor da universalidade do estabelecimento, nos termos previstos no artigo 18.º deste contrato, deduzido das amortizações que, tècnicamente, deveriam ter sido feitas para os tipos de equipamento de que se trate, mas acrescido da importância dos lucros cessantes, que serão calculados multiplicando o número de anos que faltarem para terminar a concessão pela média do total dos lucros líquidos verificados [acima da percentagem de 7 por cento a que se refere a alínea c) do artigo 17.º] nos últimos sete anos de exploração, depois de abatida a participação do Estado e excluídos os anos de maior e de menor rendimento.
+Art. 21.º O Governo poderá exercer o direito de resgate a partir de 31 de Dezembro de 1981. Para o efeito, avisará a Companhia da sua resolução, com um ano de antecedência, e pagará à mesma uma indemnização igual ao valor da universalidade do estabelecimento, nos termos previstos no artigo 18.º deste contrato, deduzido das amortizações que, tècnicamente, deveriam ter sido feitas para os tipos de equipamento de que se trate, mas acrescido da importância dos lucros cessantes, que serão calculados multiplicando o número de anos que faltarem para terminar a concessão pela média do total dos lucros líquidos verificados [acima da percentagem de 7 por cento a que se refere a alínea c) do artigo 17.º] nos últimos sete anos de exploração, depois de abatida a participação do Estado e excluídos os anos de maior e de menor rendimento.
 
 ...
 
-###### Art. 40.º Todas as questões suscitadas entre o Estado e a Companhia sobre a interpretação e execução do contrato de concessão e dos convénios de execução de serviços serão resolvidos por um tribunal arbitral, composto por cinco membros, dos quais dois serão nomeados pelo Governo, dois pela administração da Companhia e o outro, com voto de desempate, por acordo entre o Governo e a referida administração ou, na falta de acordo, pelo presidente do Supremo Tribunal de Justiça.
+Art. 40.º Todas as questões suscitadas entre o Estado e a Companhia sobre a interpretação e execução do contrato de concessão e dos convénios de execução de serviços serão resolvidos por um tribunal arbitral, composto por cinco membros, dos quais dois serão nomeados pelo Governo, dois pela administração da Companhia e o outro, com voto de desempate, por acordo entre o Governo e a referida administração ou, na falta de acordo, pelo presidente do Supremo Tribunal de Justiça.
 
 O tribunal julgará ex aequo et bono e das suas decisões não haverá recurso.
 

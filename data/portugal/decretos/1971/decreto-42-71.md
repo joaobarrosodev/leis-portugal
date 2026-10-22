@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1971-446880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 416e05bc772c970fcabed8a8ac560d2a4c6eeed783107c27b81379201562583b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 520707aeaf1ea5f47b221f27a5cca3d4456fda72933af4bc26b460be93fd0c2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142572:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:25Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +93,17 @@ Mostrando-se necessário regulamentar a [Lei n.º 6/70](https://diariodarepublic
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Podem celebrar-se acordos colectivos de comercialização de produtos agrícolas, florestais e pecuários entre as organizações corporativas ou económicas mais representativas de produtores agrícolas interessados e as organizações corporativas representativas de comerciantes ou industriais e, na sua falta, empresas individualmente ou agrupadas com esse objectivo.
+Artigo 1.º - 1. Podem celebrar-se acordos colectivos de comercialização de produtos agrícolas, florestais e pecuários entre as organizações corporativas ou económicas mais representativas de produtores agrícolas interessados e as organizações corporativas representativas de comerciantes ou industriais e, na sua falta, empresas individualmente ou agrupadas com esse objectivo.
 
 2. Para os efeitos do disposto no número precedente, entende-se por organizações corporativas os organismos corporativos, primários, intermédios ou corporações, e por organizações económicas as cooperativas agrícolas e as suas uniões e outras associações de produtores agrícolas.
 
-###### Art. 2.º - 1. Pode ser objecto de acordos a comercialização dos produtos agrícolas, florestais e pecuários, em natureza, em via de transformação ou transformados, não subtraídos por lei à liberdade de comercialização, e relativamente aos quais, no âmbito nacional ou regional, seja julgada conveniente a sua comercialização por meio de tais acordos.
+Art. 2.º - 1. Pode ser objecto de acordos a comercialização dos produtos agrícolas, florestais e pecuários, em natureza, em via de transformação ou transformados, não subtraídos por lei à liberdade de comercialização, e relativamente aos quais, no âmbito nacional ou regional, seja julgada conveniente a sua comercialização por meio de tais acordos.
 
 2. A conveniência da comercialização por meio de acordos colectivos será reconhecida em despacho do Ministro da Economia, por sua iniciativa ou a solicitação dos interessados, o qual indicará, se for caso disso, o âmbito regional do acordo.
 
 3. Os requerimentos dos interessados solicitando o reconhecimento a que se refere o número anterior serão entregues na Comissão de Acordos Colectivos de Comercialização, que, depois de os informar, os submeterá a despacho do Ministro da Economia para os efeitos previstos no número anterior.
 
-###### Art. 3.º - 1. É criada na Secretaria de Estado da Agricultura a Comissão de Acordos Colectivos de Comercialização.
+Art. 3.º - 1. É criada na Secretaria de Estado da Agricultura a Comissão de Acordos Colectivos de Comercialização.
 
 2. A Comissão é presidida por um inspector-geral de Economia, nomeado pelo Ministro da Economia, e constituída por um representante de cada um dos serviços seguintes:
 
@@ -117,7 +121,7 @@ c) Inspecção-Geral dos Produtos Agrícolas e Industriais, designado pelo Secre
 
 6. A Comissão reunirá sempre que o presidente a convoque e os seus membros terão direito a receber, por cada reunião e nos termos legais, senhas de presença.
 
-###### Art. 4.º São funções da Comissão de Acordos Colectivos de Comercialização:
+Art. 4.º São funções da Comissão de Acordos Colectivos de Comercialização:
 
 a) Dar apoio aos interessados na celebração, prorrogação ou revisão de acordos colectivos de comercialização, relativamente à elaboração de propostas ou contrapropostas, e às respectivas negociações, que acompanhará;
 
@@ -127,7 +131,7 @@ c) Habilitar o Ministro da Economia a exercer a competência prevista no n.º 2 
 
 d) As demais previstas no presente diploma ou que lhe sejam atribuídas pelo Ministro da Economia para execução da [Lei n.º 6/70](https://diariodarepublica.pt/dr/detalhe/lei/6-1970-142572).
 
-###### Art. 5.º - 1. A entidade que desejar a celebração de um acordo colectivo de comercialização apresentará, por escrito, a sua proposta à entidade com que pretende negociar, a qual, no prazo de trinta dias, deverá responder àquela, também por escrito, podendo apresentar contraproposta.
+Art. 5.º - 1. A entidade que desejar a celebração de um acordo colectivo de comercialização apresentará, por escrito, a sua proposta à entidade com que pretende negociar, a qual, no prazo de trinta dias, deverá responder àquela, também por escrito, podendo apresentar contraproposta.
 
 2. O prazo para a resposta pode ser prorrogado por trinta dias, por acordo com a entidade proponente ou por decisão da Comissão de Acordos Colectivos de Comercialização.
 
@@ -139,30 +143,30 @@ d) As demais previstas no presente diploma ou que lhe sejam atribuídas pelo Min
 
 6. As propostas e contrapropostas serão devidamente fundamentadas e delas será enviada cópia à Comissão de Acordos Colectivos de Comercialização.
 
-###### Art. 6.º - 1. Nos casos de falta de resposta satisfatória à proposta ou de impossibilidade de acordo dentro dos prazos fixados, qualquer das partes poderá requerer à Comissão de Acordos Colectivos de Comercialização que proceda à arbitragem.
+Art. 6.º - 1. Nos casos de falta de resposta satisfatória à proposta ou de impossibilidade de acordo dentro dos prazos fixados, qualquer das partes poderá requerer à Comissão de Acordos Colectivos de Comercialização que proceda à arbitragem.
 
 2. Os requerimentos solicitando a arbitragem serão instruídos com os textos da proposta e da resposta ou da contraproposta, se existirem, bem como de quaisquer outros elementos de interesse para a resolução do caso.
 
 3. A decisão carece de homologação do Ministro da Economia.
 
-###### Art. 7.º - 1. A eficácia dos acordos colectivos de comercialização depende de despacho homologatório do Ministro da Economia, que, por esta via, os tornará obrigatórios para todas as entidades interessadas e seus agentes, comissários ou representantes.
+Art. 7.º - 1. A eficácia dos acordos colectivos de comercialização depende de despacho homologatório do Ministro da Economia, que, por esta via, os tornará obrigatórios para todas as entidades interessadas e seus agentes, comissários ou representantes.
 
 2. Os requerimentos dos interessados solicitando a homologação dos acordos serão sempre instruídos com o respectivo texto e, no caso de ter havido arbitragem, da decisão da Comissão de Acordos Colectivos de Comercialização e do despacho que sobre ela tiver recaído.
 
 3. Os acordos não poderão ser homologados quando as suas disposições contrariem as normas preceptivas ou proibitivas reguladoras da vida económica ou as obrigações internacionais.
 
-###### Art. 8.º Os acordos colectivos de comercialização e a declaração referida no n.º 2 do artigo 2.º serão publicados no Diário do Governo.
+Art. 8.º Os acordos colectivos de comercialização e a declaração referida no n.º 2 do artigo 2.º serão publicados no Diário do Governo.
 
-###### Art. 9.º O disposto nos artigos anteriores aplicar-se-á, com as necessárias adaptações, aos processos de adesão, prorrogação e revisão dos acordos.
+Art. 9.º O disposto nos artigos anteriores aplicar-se-á, com as necessárias adaptações, aos processos de adesão, prorrogação e revisão dos acordos.
 
-###### Art. 10.º O Ministro da Economia poderá delegar, total ou parcialmente, nos Secretários de Estado da Agricultura, do Comércio ou da Indústria, individual ou conjuntamente, a competência que lhe é atribuída neste diploma.
+Art. 10.º O Ministro da Economia poderá delegar, total ou parcialmente, nos Secretários de Estado da Agricultura, do Comércio ou da Indústria, individual ou conjuntamente, a competência que lhe é atribuída neste diploma.
 
-###### Art. 11.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho do Ministro da Economia.
+Art. 11.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho do Ministro da Economia.
 
 Marcello Caetano - João Augusto Dias Rosas - Vasco Rodrigues de Pinho Leónidas - Valentim Xavier Pintado - Rogério da Conceição Serafim Martins.
 
-**Promulgado em 1 de Fevereiro de 1971.**
+Promulgado em 1 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

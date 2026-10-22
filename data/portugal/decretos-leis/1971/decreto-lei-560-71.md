@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/29400/19211923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dabca17fcd3e5a9a267868540facdc993f71ce7b18b709900b24fe191ac5519
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9ffb534fa288908cbcb47e180058392215462bca0792c4735bbb4f3706120fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Câmara Municipal
+- Desenvolvimento Regional
+- Plano de Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:332412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550995:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332412:por
+  label: "Revogado, bem como os respectivos diplomas complementares, pelo DEC LEI.69/90.1990.03.02.MPLAT, DR.IS [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1990-332412
+  date: '1990-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:18Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +132,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As câmaras municipais de continente e ilhas adjacentes são obrigadas a promover a elaboração de planos gerais de urbanização das sedes dos seus municípios, em ordem a obter a sua transformação e desenvolvimento segundo as exigências da vida económica e social, da estética, da higiene e da viação, com o máximo proveito e comodidade para os seus habitantes.
+Artigo 1.º As câmaras municipais de continente e ilhas adjacentes são obrigadas a promover a elaboração de planos gerais de urbanização das sedes dos seus municípios, em ordem a obter a sua transformação e desenvolvimento segundo as exigências da vida económica e social, da estética, da higiene e da viação, com o máximo proveito e comodidade para os seus habitantes.
 
-###### Art. 2.º Serão igualmente elaborados planos gerais de urbanização:
+Art. 2.º Serão igualmente elaborados planos gerais de urbanização:
 
 a) Das localidades com mais de 2500 habitantes que entre dois recenseamentos oficiais consecutivos acusem um aumento populacional apreciável;
 
@@ -117,7 +142,7 @@ b) Das localidades e das zonas de interesse turístico, recreativo, climático, 
 
 c) Das áreas territoriais em que a estrutura urbana justifique planos de conjunto abrangendo vários centros urbanos e zonas rurais intermédias ou envolventes.
 
-###### Art. 3.º - 1. As câmaras municipais devem apresentar à aprovação, por intermédio da Direcção-Geral dos Serviços de Urbanização, os planos gerais de urbanização a que se referem os artigos 1.º e 2.º
+Art. 3.º - 1. As câmaras municipais devem apresentar à aprovação, por intermédio da Direcção-Geral dos Serviços de Urbanização, os planos gerais de urbanização a que se referem os artigos 1.º e 2.º
 
 2. Os planos devem ser acompanhados dos pareceres da câmara municipal e do conselho municipal e dos resultados do inquérito público aberto durante trinta dias por editais afixados nos lugares e na forma do costume e pela publicação de correspondente aviso num dos jornais publicados no concelho ou, na sua falta, num dos mais lidos na área.
 
@@ -129,15 +154,15 @@ c) Das áreas territoriais em que a estrutura urbana justifique planos de conjun
 
 6. Os planos gerais devem ser revistos, pelo menos, uma vez todos os cinco anos. Todavia, o Ministro das Obras Públicas pode determinar que a sua revisão se faça em menor prazo.
 
-###### Art. 4.º - 1. Compete às câmaras municipais promover a execução dos planos gerais de urbanização aprovados, salvo nos casos em que exista organismo especial que por lei tenha essa competência.
+Art. 4.º - 1. Compete às câmaras municipais promover a execução dos planos gerais de urbanização aprovados, salvo nos casos em que exista organismo especial que por lei tenha essa competência.
 
 2. Em relação aos planos respeitantes a localidades diferentes das sedes de concelho, as câmaras poderão delegar a sua competência, com a aprovação do Ministro do Interior, ouvido o das Obras Públicas, em organismos existentes ou a criar especialmente para tal fim.
 
 3. As câmaras municipais ou os organismos a que se referem os números antecedentes darão execução aos planos de urbanização pela ordem do maior interesse público e segundo as suas possibilidades financeiras e não poderão empreender a realização de qualquer das suas partes ou de obras que os prejudiquem antes da aprovação dos planos pelo Ministro das Obras Públicas.
 
-###### Art. 5.º As câmaras municipais de dois ou mais concelhos vizinhos poderão associar-se para o efeito de procederem, em comum, à elaboração de planos de urbanização de zonas que compreendam terrenos pertencentes a todos eles.
+Art. 5.º As câmaras municipais de dois ou mais concelhos vizinhos poderão associar-se para o efeito de procederem, em comum, à elaboração de planos de urbanização de zonas que compreendam terrenos pertencentes a todos eles.
 
-###### Art. 6.º - 1. Compete à Direcção-Geral dos Serviços de Urbanização:
+Art. 6.º - 1. Compete à Direcção-Geral dos Serviços de Urbanização:
 
 a) O levantamento das plantas topográficas e a elaboração dos planos a que se refere a alínea c) do artigo 2.º;
 
@@ -145,17 +170,17 @@ b) Acompanhar a elaboração dos planos referidos no artigo 1.º e nas alíneas 
 
 2. O Ministro das Obras Públicas poderá autorizar, mediante solicitação ou com o acordo dos organismos locais interessados, que a Direcção-Geral dos Serviços de Urbanização promova a elaboração dos planos a que se alude na alínea b) do número antecedente e, bem assim, preste outras modalidades de assistência técnica aos mesmos trabalhos.
 
-###### Art. 7.º - 1. As câmaras municipais podem aprovar planos de pormenor relativos a sectores urbanos de áreas já abrangidas por planos gerais ou parciais de urbanização aprovados.
+Art. 7.º - 1. As câmaras municipais podem aprovar planos de pormenor relativos a sectores urbanos de áreas já abrangidas por planos gerais ou parciais de urbanização aprovados.
 
 2. Compete ao Ministro das Obras Públicas a aprovação de planos de pormenor quando a área por eles abrangida ainda não esteja sujeita a plano aprovado, geral ou parcial, ou quando impliquem alteração aos planos em vigor.
 
 3. A desconformidade com os planos de pormenor aprovados constitui fundamento do indeferimento previsto no n.º 1 do artigo 15.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril.
 
-###### Art. 8.º - 1. Os planos de urbanização deverão integrar-se nas directrizes de planeamento regional estabelecidas pelo Governo.
+Art. 8.º - 1. Os planos de urbanização deverão integrar-se nas directrizes de planeamento regional estabelecidas pelo Governo.
 
 2. Em decreto referendado pelo Ministro das Obras Públicas serão fixados os requisitos de ordem técnica a que devem obedecer os planos gerais e parciais de urbanização e os planos de pormenor.
 
-###### Art. 9.º - 1. Para a execução dos trabalhos referidos no artigo 1.º e nas alíneas a) e b) do artigo 2.º, as câmaras municipais ou as federações de municípios poderão beneficiar da comparticipação do Estado nas percentagens máximas seguintes:
+Art. 9.º - 1. Para a execução dos trabalhos referidos no artigo 1.º e nas alíneas a) e b) do artigo 2.º, as câmaras municipais ou as federações de municípios poderão beneficiar da comparticipação do Estado nas percentagens máximas seguintes:
 
 a) 75 por cento para o levantamento de plantas topográficas e a elaboração dos planos gerais ou parciais de urbanização ou suas revisões periódicas, nos termos do artigo 3.º;
 
@@ -165,40 +190,40 @@ b) 50 por cento para os planos de pormenor.
 
 3. Em portarias a publicar pelo Ministério das Obras Públicas serão estabelecidos os montantes e o escalonamento anual das comparticipações, bem como os prazos fixados para a realização dos trabalhos.
 
-###### Art. 10.º - 1. As comparticipações concedidas ao abrigo deste diploma serão pagas no decurso dos trabalhos a que se referem, na proporção dos realizados, mas o Ministro das Obras Públicas poderá autorizar o pagamento de uma fracção da comparticipação, até 50 por cento, como adiantamento, desde que haja sido prestada garantia bancária idónea perante a entidade comparticipada.
+Art. 10.º - 1. As comparticipações concedidas ao abrigo deste diploma serão pagas no decurso dos trabalhos a que se referem, na proporção dos realizados, mas o Ministro das Obras Públicas poderá autorizar o pagamento de uma fracção da comparticipação, até 50 por cento, como adiantamento, desde que haja sido prestada garantia bancária idónea perante a entidade comparticipada.
 
 2. Para efeitos da comparticipação do Estado, a aprovação das plantas topográficas pela Direcção-Geral dos Serviços de Urbanização dependerá da apresentação de declaração de engenheiro geógrafo inscrito na Ordem dos Engenheiros ou de topógrafo inscrito no Sindicato Nacional dos Técnicos de Topografia, consoante for regulamentado, de que se observaram todas as cláusulas do caderno de encargos aprovado e as normas técnicas gerais e específicas desses trabalhos.
 
-###### Art. 11.º - 1. Decorrido o prazo de três anos após a entrada em vigor do presente diploma, nenhuma expropriação por utilidade pública para a abertura de novas ruas ou para a execução de outros trabalhos de urbanização será autorizada pelo Governo sem que se demonstre que o trabalho projectado faz parte de um plano geral ou parcial de urbanização ou de um plano de pormenor, elaborado e aprovado nos termos deste decreto-lei.
+Art. 11.º - 1. Decorrido o prazo de três anos após a entrada em vigor do presente diploma, nenhuma expropriação por utilidade pública para a abertura de novas ruas ou para a execução de outros trabalhos de urbanização será autorizada pelo Governo sem que se demonstre que o trabalho projectado faz parte de um plano geral ou parcial de urbanização ou de um plano de pormenor, elaborado e aprovado nos termos deste decreto-lei.
 
 2. A aquisição de terrenos pelas câmaras municipais, ao abrigo do disposto nos artigos 24.º a 42.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, e a concessão dos subsídios, empréstimos e garantias a que se refere o artigo 52.º do mesmo diploma, depende, quanto às áreas sujeitas a plano de urbanização nos termos do presente decreto-lei, da aprovação pelo Ministro das Obras Públicas dos respectivos planos gerais, parciais ou de pormenor.
 
-###### Art. 12.º - 1. As entidades que pela Direcção-Geral dos Serviços de Urbanização sejam solicitadas a pronunciar-se para conveniente instrução dos processos de apreciação dos planos de urbanização deverão apresentar os seus pareceres no prazo de sessenta dias.
+Art. 12.º - 1. As entidades que pela Direcção-Geral dos Serviços de Urbanização sejam solicitadas a pronunciar-se para conveniente instrução dos processos de apreciação dos planos de urbanização deverão apresentar os seus pareceres no prazo de sessenta dias.
 
 2. O prazo conta-se a partir da data da recepção do pedido de parecer.
 
 3. A falta de parecer dentro do prazo previsto no n.º 1 interpreta-se, para todos os efeitos, como consentimento.
 
-###### Art. 13.º - 1. Os proprietários, os arrendatários e, em geral, todos os que, por qualquer título, ocupem prédios rústicos ou urbanos nas sedes dos concelhos e nas áreas a que se refere o artigo 2.º, não poderão opor-se à colocação, nos mesmos prédios, de marcas de sinalização e referência necessárias ao levantamento de plantas topográficas destinadas à elaboração dos planos de urbanização, quer elas tenham carácter permanente, quer transitório, conforme for julgado necessário pela câmara municipal respectiva.
+Art. 13.º - 1. Os proprietários, os arrendatários e, em geral, todos os que, por qualquer título, ocupem prédios rústicos ou urbanos nas sedes dos concelhos e nas áreas a que se refere o artigo 2.º, não poderão opor-se à colocação, nos mesmos prédios, de marcas de sinalização e referência necessárias ao levantamento de plantas topográficas destinadas à elaboração dos planos de urbanização, quer elas tenham carácter permanente, quer transitório, conforme for julgado necessário pela câmara municipal respectiva.
 
 2. Aqueles que se opuserem à colocação ou ao restabelecimento das marcas de sinalização e referência ou, de qualquer modo, as suprimirem ou alterarem, incorrerão em multas de 200$00 a 1000$00, sendo, em caso de reincidência, condenados nas penas do artigo 446.º de Código Penal.
 
-###### Art. 14.º - 1. Compete ao Ministro das Obras Públicas aprovar, por portaria, os regulamentos dos planos gerais ou parciais de urbanização e resolver, por despacho, as dúvidas que se suscitarem da execução do presente diploma.
+Art. 14.º - 1. Compete ao Ministro das Obras Públicas aprovar, por portaria, os regulamentos dos planos gerais ou parciais de urbanização e resolver, por despacho, as dúvidas que se suscitarem da execução do presente diploma.
 
 2. Com a portaria a que se refere o número antecedente, serão publicados no Diário do Governo uma planta de síntese das disposições do plano e o respectivo regulamento.
 
-###### Art. 15.º - 1. Para abreviar a revisão dos planos vigentes e a elaboração de novos planos gerais, poderá a Direcção-Geral dos Serviços de Urbanização, com o acordo dos organismos locais interessados, promover que a organização das plantas topográficas a levantar seja feita por um concurso geral ou por concursos parciais, públicos ou limitados.
+Art. 15.º - 1. Para abreviar a revisão dos planos vigentes e a elaboração de novos planos gerais, poderá a Direcção-Geral dos Serviços de Urbanização, com o acordo dos organismos locais interessados, promover que a organização das plantas topográficas a levantar seja feita por um concurso geral ou por concursos parciais, públicos ou limitados.
 
 2. No caso antecedente, as câmaras municipais ou as federações de municípios poderão beneficiar da comparticipação do Estado na percentagem máxima de 90 por cento.
 
-###### Art. 16.º - 1. São revogados o [Decreto-Lei n.º 33921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33921-1944-550995), de 5 de Setembro de 1944, e o [Decreto-Lei n.º 35931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35931-1946-149625), de 4 de Novembro de 1946.
+Art. 16.º - 1. São revogados o [Decreto-Lei n.º 33921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33921-1944-550995), de 5 de Setembro de 1944, e o [Decreto-Lei n.º 35931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35931-1946-149625), de 4 de Novembro de 1946.
 
 2. Os anteplanos, gerais ou parciais, de urbanização aprovados ao abrigo do [Decreto-Lei n.º 35931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35931-1946-149625) passam a ser designados por planos, gerais ou parciais, de urbanização, conforme for o caso, com todas as consequências legais.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 10 de Dezembro de 1971.**
+Promulgado em 10 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1976-430670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 337c33577164ea27fd475d0f80904e5686116a4f4ce179f050274853cae86616
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d153ade26d0c6ed318e02817faa79b2ffc425cecdc917b8011f5c5fd2a9f8a39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AVAL do Estado
+- Direcção Geral da Fazenda Pública
+- IAPMEI
+- Instituição de Crédito
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:38Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +101,12 @@ Depois de consultados o Banco de Portugal e as principais instituições de cré
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Para os efeitos do artigo 644.º do Código Civil, pode o Estado ser representado na defesa dos seus interesses, a pedido da Direcção-Geral da Fazenda Pública, pelas instituições de crédito que tenham concedido créditos a empresas, com aval prestado por intermédio do IAPMEI.
+Artigo único. Para os efeitos do artigo 644.º do Código Civil, pode o Estado ser representado na defesa dos seus interesses, a pedido da Direcção-Geral da Fazenda Pública, pelas instituições de crédito que tenham concedido créditos a empresas, com aval prestado por intermédio do IAPMEI.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 9 de Julho de 1976.**
+Promulgado em 9 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

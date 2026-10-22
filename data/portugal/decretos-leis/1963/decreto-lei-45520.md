@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45520-1963-681175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b340ce06139d53283dae68a12c2193acd5c38e63cc1439b4790f136e8bab6c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23efc0e03e33a714b6ef91d968492325dff5cd0be4e3194497a42e2b38da1a58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Comissão Administrativa
+- Construção Civil
+- Contrato
+- Empreitada de Obras Públicas
+- Lisboa
+- Obras Públicas
+- Pagamento
+- Santa Casa da Misericórdia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:44Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +101,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Fica autorizada a Comissão Administrativa de Obras da Santa Casa da Misericórdia de Lisboa a fazer pagamentos até ao montante de 2300000$00 no corrente ano e de 2939000$00, ou a quantia que se apurar como saldo, no ano de 1964, por conta das obras de construção do prédio da Rua de Alexandre Herculano, 16, e Rua do Duque de Palmela, 2 e 4, nos termos do contrato celebrado com a firma denominada Soconscível - Sociedade de Construção Civil, Lda.
+Artigo único. Fica autorizada a Comissão Administrativa de Obras da Santa Casa da Misericórdia de Lisboa a fazer pagamentos até ao montante de 2300000$00 no corrente ano e de 2939000$00, ou a quantia que se apurar como saldo, no ano de 1964, por conta das obras de construção do prédio da Rua de Alexandre Herculano, 16, e Rua do Duque de Palmela, 2 e 4, nos termos do contrato celebrado com a firma denominada Soconscível - Sociedade de Construção Civil, Lda.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

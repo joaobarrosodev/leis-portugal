@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 94/1975, 2º Suplemento, Série I de 1975-04-22
   number: '94'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 612-(3) a 612-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/09402/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-b-1975-649915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c9143ac2485ef8be00f671cee007899f93f1898206a36367d82f90d3a082990
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e0f3a642027bf86529958263091e6fdaf13232a618930b19dec850dbe701015
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colégio Militar
+- Estabelecimento de Ensino
+- Estudante
+- Exército
+- Instituto de Odivelas
+- Instituto Técnico Militar dos Pupilos do Exército
+- Política de Educação
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:07Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +112,9 @@ Julgando-se conveniente eliminar a exigência legal de legitimidade de filiaçã
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 3.º, 14.º, 28.º e 31.º do [Decreto-Lei n.º 371/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1970-139242), de 11 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º, 14.º, 28.º e 31.º do [Decreto-Lei n.º 371/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1970-139242), de 11 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 a) Ser português e filho de pais portugueses;
 
@@ -102,13 +122,13 @@ b) ...
 
 c) ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 a) Os órfãos de pai, filhos de militares dos quadros permanentes das forças armadas, ainda que a mãe tenha posteriormente casado com indivíduo civil;
 
 b) Os órfãos de pai, filhos de civil, cuja mãe tenha posteriormente casado com militar dos quadros permanentes das forças armadas.
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 1) ...
 
@@ -118,14 +138,14 @@ b) Os órfãos de pai, filhos de civil, cuja mãe tenha posteriormente casado co
 
 4) ...
 
-###### Art. 31.º - 1. Para efeitos de classificação nos grupos de mensalidades, são equiparados a filhos de oficiais dos quadros permanentes, de acordo com os proventos do agregado familiar, os filhos de professores civis efectivos dos três estabelecimentos de ensino.
+Art. 31.º - 1. Para efeitos de classificação nos grupos de mensalidades, são equiparados a filhos de oficiais dos quadros permanentes, de acordo com os proventos do agregado familiar, os filhos de professores civis efectivos dos três estabelecimentos de ensino.
 
 2. ...
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 22 de Abril de 1975.**
+Promulgado em 22 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

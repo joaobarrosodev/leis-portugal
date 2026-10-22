@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/561-1971-632252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f24a892deade5dc517d2960d5ddc7f65788c8b0f3aed8d926dc3f363af67ef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c171b0a95c3fd59df82f4d87c471add2f7642c4c7285875206eff2cb36fe85c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:451440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:30Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ De acordo com o disposto no artigo 8.º do [Decreto-Lei n.º 560/71](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os planos gerais ou parciais de urbanização devem indicar, para a área do território por eles abrangida:
+Artigo 1.º - 1. Os planos gerais ou parciais de urbanização devem indicar, para a área do território por eles abrangida:
 
 a) A situação existente;
 
@@ -121,7 +125,7 @@ c) Planta à escala de 1:5000, ou à escala de 1:10000, quando a dimensão do ag
 
 d) Regulamento definindo as características de ocupação de cada zona, as zonas prioritárias de urbanização, os coeficientes de ocupação do solo, proporção das áreas a reservar para equipamento urbano em função da população e ainda as prescrições relativas a áreas de estacionamento e espaços verdes.
 
-###### Art. 2.º - 1. Os planos de pormenor conterão, pelo menos, os seguintes elementos:
+Art. 2.º - 1. Os planos de pormenor conterão, pelo menos, os seguintes elementos:
 
 a) Memória descritiva e justificativa, referindo, especialmente, o enquadramento no plano geral ou parcial e o programa e descrevendo e justificando a solução proposta nos aspectos técnico-económicos;
 
@@ -137,8 +141,8 @@ e) Regulamento, com prescrições relativas à implantação dos edifícios, à 
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 10 de Dezembro de 1971.**
+Promulgado em 10 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

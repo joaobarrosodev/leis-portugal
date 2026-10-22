@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06800/05700570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1976-501408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d90a647dabeb6ceafa34515af0d2901a2809a42cc80ce233ba2e8ec25deeaa4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8e17296007cb7ce35f8d3adebe2047ef4255993fa0c8dbd426dbafe10d921a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estágio de Formação
+- Interpretação do Direito
+- Magistrado Judicial
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:310785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:42Z'
   warnings: []
   errors: []
 ---
@@ -105,14 +123,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Serão chamados ao estágio para ingresso na magistratura judicial, nos termos do artigo 10.º do [Decreto-Lei n.º 714/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/714-1975-310785), os delegados do procurador da República que estejam incluídos na metade superior da primeira classe, segundo lista a fornecer pela Direcção-Geral dos Serviços Judiciários, independentemente de serem oriundos da magistratura metropolitana ou da magistratura das ex-colónias.
+Artigo 1.º Serão chamados ao estágio para ingresso na magistratura judicial, nos termos do artigo 10.º do [Decreto-Lei n.º 714/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/714-1975-310785), os delegados do procurador da República que estejam incluídos na metade superior da primeira classe, segundo lista a fornecer pela Direcção-Geral dos Serviços Judiciários, independentemente de serem oriundos da magistratura metropolitana ou da magistratura das ex-colónias.
 
-###### Art. 2.º Os delegados referidos no artigo 1.º hão-de ter classificação de serviço actualizada, de há menos de três anos, não inferior a Bom, não bastando a informação do superior hierárquico.
+Art. 2.º Os delegados referidos no artigo 1.º hão-de ter classificação de serviço actualizada, de há menos de três anos, não inferior a Bom, não bastando a informação do superior hierárquico.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.
 
-**Promulgado em 17 de Março de 1976.**
+Promulgado em 17 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1970-142316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 560832aca9bda03b432633375e106da5c07d12ac22607d9f36957dcfcdf5c40a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a420cd753c7ab973b24b5843fd2524903612809ff927ba019472cf6c22500ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Fisioterapia
+- Medicina
+- Medicina Física e de Reabilitação
+- Médico
+- Ordem dos Médicos
+relationships:
+- type: cites
+  target: pt:dre:231687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264490:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:35Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +108,14 @@ Nestes termos, ao abrigo do § único do artigo 1.º do [Decreto-Lei n.º 40651]
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. - 1. A especialidade «fisioterapia», reconhecida pelo artigo 25.º do Estatuto da Ordem dos Médicos, aprovado pelo [Decreto-Lei n.º 40651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40651-1956-231687), de 21 de Junho de 1956, na redacção que lhe foi dada pelo [Decreto-Lei n.º 48587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48587-1968-264490), de 23 de Setembro de 1968, passa a denominar-se «medicina física e de reabilitação».
+Artigo único. - 1. A especialidade «fisioterapia», reconhecida pelo artigo 25.º do Estatuto da Ordem dos Médicos, aprovado pelo [Decreto-Lei n.º 40651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40651-1956-231687), de 21 de Junho de 1956, na redacção que lhe foi dada pelo [Decreto-Lei n.º 48587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48587-1968-264490), de 23 de Setembro de 1968, passa a denominar-se «medicina física e de reabilitação».
 
 2. É suprimida a expressão «agentes físicos» no § 1.º do artigo 27.º do Estatuto da Ordem dos Médicos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 6 de Maio de 1970.**
+Promulgado em 6 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46898-1966-490383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d437ca5f4adfa394b5792825393c54f0aae1538f2ac8c859400ce766fc34147
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c33686863704e657364bbd8746de23a64490b07b88b9afabfcae6db9120748ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Licenciamento
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do artº 7º pelo DEC LEI.485/88.1988.12.30.MF,DR.IS [301]2º supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:21Z'
   warnings: []
   errors: []
 ---
@@ -108,19 +124,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A exploração da indústria de transportes aéreos carece de licença do Ministro das Comunicações.
+Artigo 1.º - 1. A exploração da indústria de transportes aéreos carece de licença do Ministro das Comunicações.
 
 2. Depende igualmente de licença do Ministro das Comunicações o transporte de pessoal ou de mercadorias de empresas privadas em aviões da propriedade dessas empresas.
 
 3. Exceptuam-se do disposto neste artigo as empresas nacionais concessionárias de serviço público de transportes aéreos e as empresas estrangeiras autorizadas a explorar serviços aéreos internacionais, regulares ou não regulares, nos termos de convenções ou acordos internacionais que obriguem ou venham a obrigar o Estado Português.
 
-###### Art. 2.º - 1. As licenças referidas no n.º 1 do artigo anterior só poderão ser concedidas a pessoas singulares ou colectivas de nacionalidade portuguesa.
+Art. 2.º - 1. As licenças referidas no n.º 1 do artigo anterior só poderão ser concedidas a pessoas singulares ou colectivas de nacionalidade portuguesa.
 
 2. Para os efeitos do número antecedente, consideram-se pessoas colectivas de nacionalidade portuguesa aquelas que forem classificadas como tais nos termos da base II da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943.
 
-###### Art. 3.º Os Pedidos de licença serão instruídos com um inquérito à idoneidade financeira e técnica do requerente e submetidos a despacho ministerial, com o parecer do director-geral da Aeronáutica Civil.
+Art. 3.º Os Pedidos de licença serão instruídos com um inquérito à idoneidade financeira e técnica do requerente e submetidos a despacho ministerial, com o parecer do director-geral da Aeronáutica Civil.
 
-###### Art. 4.º - 1. As licenças poderão ser dadas sob as condições, nomeadamente de ordem técnica e financeira, que forem julgadas convenientes.
+Art. 4.º - 1. As licenças poderão ser dadas sob as condições, nomeadamente de ordem técnica e financeira, que forem julgadas convenientes.
 
 2. As licenças referentes a serviços regulares deverão especificar os pontos entre os quais os serviços ficam autorizados.
 
@@ -128,17 +144,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os despachos que concedam as licenças serão publicados no Diário do Governo.
 
-###### Art. 5.º - 1. As licenças serão concedidas pelo prazo máximo de cinco anos, podendo ser sucessivamente prorrogadas.
+Art. 5.º - 1. As licenças serão concedidas pelo prazo máximo de cinco anos, podendo ser sucessivamente prorrogadas.
 
 2. As prorrogações deverão ser requeridas com antecipação de seis meses sobre o termo do prazo por que a licença foi concedida ou da prorrogação em curso, segunda o caso.
 
-###### Art. 6.º - 1. No caso de infracção das condições referidas no artigo 4.º, ou ocorrendo motivo de interesse público que assim o imponha, as licenças poderão ser revogadas com efeito imediato ou suspensas, total ou parcialmente.
+Art. 6.º - 1. No caso de infracção das condições referidas no artigo 4.º, ou ocorrendo motivo de interesse público que assim o imponha, as licenças poderão ser revogadas com efeito imediato ou suspensas, total ou parcialmente.
 
 2. Nos demais casos, a revogação da licença será precedida de notificação ao respectivo titular com a antecedência mínima de um ano.
 
 3. A empresa que, sem estar devidamente licenciada ou autorizada, exercer uma actividade de transporte aéreo será notificada pelo Ministro das Comunicações para, no prazo de 48 horas, cessar tal actividade, sob pena de apreensão das aeronaves e do restante equipamento utilizados.
 
-###### Art. 7.º - 1. As empresas autorizadas, nos termos deste diploma, a explorar serviços aéreos regulares ou não regulares poderão, quando os superiores interesses da economia nacional o justifiquem, beneficiar de:
+Art. 7.º - 1. As empresas autorizadas, nos termos deste diploma, a explorar serviços aéreos regulares ou não regulares poderão, quando os superiores interesses da economia nacional o justifiquem, beneficiar de:
 
 a) Isenção, por período limitado prorrogável, da contribuição industrial, imposto complementar e impostos dos corpos administrativos, relativamente não só aos rendimentos da exploração objecto da licença, como aos de actividades que por sua natureza se considerem acessórias da licenciada, tais como a representação ou agência de outras companhias, a venda das respectivas passagens e a prestação a essas companhias de serviços comerciais e técnicos;
 
@@ -154,21 +170,21 @@ c) Isenção de direitos de importação e da taxa de salvação nacional para o
 
 5. As empresas que efectuem transportes entre as ilhas dos arquipélagos da Madeira ou dos Açores poderão ser dispensadas do cumprimento de formalidades aduaneiras nos transportes de bagagens e carga nacional ou nacionalizada.
 
-###### Art. 8.º - 1. O tipo do material de voo a utilizar nos transportes regulares pela presente diploma carece de aprovação da Direcção-Geral da Aeronáutica Civil.
+Art. 8.º - 1. O tipo do material de voo a utilizar nos transportes regulares pela presente diploma carece de aprovação da Direcção-Geral da Aeronáutica Civil.
 
 2. O material e os serviços de manutenção e de operações de voo das entidades licenciadas nos termos deste diploma serão submetidos às vistorias técnicas regulamentares e às inspecções que a Direcção-Geral da Aeronáutica Civil realizar por intermédio dos seus serviços sempre que o entenda necessário.
 
-###### Art. 9.º - 1. Os preços e demais condições do transporte deverão ser submetidos à aprovação do Ministro das Comunicações, com o parecer do director-geral da Aeronáutica Civil.
+Art. 9.º - 1. Os preços e demais condições do transporte deverão ser submetidos à aprovação do Ministro das Comunicações, com o parecer do director-geral da Aeronáutica Civil.
 
 2. As tarifas aprovadas serão publicadas pelas empresas e postas à disposição dos usuários.
 
-###### Art. 10.º O transporte de correio, pelas empresas licenciadas nos termos deste diploma far-se-á de harmonia com as convenções internacionais que o Estado Português tenha celebrado ou venha a celebrar, das leis e regulamentos aplicáveis ou dos acordos concluídos para tal fim com os organismos competentes.
+Art. 10.º O transporte de correio, pelas empresas licenciadas nos termos deste diploma far-se-á de harmonia com as convenções internacionais que o Estado Português tenha celebrado ou venha a celebrar, das leis e regulamentos aplicáveis ou dos acordos concluídos para tal fim com os organismos competentes.
 
-###### Art. 11.º As rotas, frequências, horários e a capacidade do transporte dos serviços aéreos regulares explorados na conformidade deste diploma serão submetidos à aprovação do director-geral da Aeronáutica Civil.
+Art. 11.º As rotas, frequências, horários e a capacidade do transporte dos serviços aéreos regulares explorados na conformidade deste diploma serão submetidos à aprovação do director-geral da Aeronáutica Civil.
 
-###### Art. 12.º As empresas deverão fornecer, à Direcção-Geral da Aeronáutica Civil, nas condições que vierem a ser estabelecidas por esta Direcção-geral, dados estatísticos sobre o tráfego de passageiros, carga e correio que transportarem.
+Art. 12.º As empresas deverão fornecer, à Direcção-Geral da Aeronáutica Civil, nas condições que vierem a ser estabelecidas por esta Direcção-geral, dados estatísticos sobre o tráfego de passageiros, carga e correio que transportarem.
 
-###### Art. 13.º - 1. Pela concessão das licenças previstas neste diploma será devido o pagamento das taxas anuais que forem, fixadas em portaria do Ministro das Comunicações.
+Art. 13.º - 1. Pela concessão das licenças previstas neste diploma será devido o pagamento das taxas anuais que forem, fixadas em portaria do Ministro das Comunicações.
 
 2. A importância das taxas a cobrar nos termos do número anterior constituirá receita do Estado e será escriturada no capítulo «Taxas - Rendimento de diversos serviços - Serviços administrativos» do orçamento das receitas gerais do Estado.
 
@@ -176,11 +192,11 @@ c) Isenção de direitos de importação e da taxa de salvação nacional para o
 
 4. Inscrever-se-ão anualmente no orçamento da despesa ordinária da Direcção-Geral da Aeronáutica Civil, além das suas dotações normais, a verba necessária para fazer face aos encargos resultantes do estabelecido no n.º 3 anterior, na conformidade de uma estimativa anual a aprovar pelos Ministros das Finanças e das Comunicações.
 
-###### Art. 14.º Compete à Direcção-Geral da Aeronáutica Civil velar pelo exacto cumprimento deste decreto-lei e das condições que forem estabelecidas nos termos do artigo 4.º e nomeadamente por que não sejam afectados os direitos emergentes de concessões de serviço, público.
+Art. 14.º Compete à Direcção-Geral da Aeronáutica Civil velar pelo exacto cumprimento deste decreto-lei e das condições que forem estabelecidas nos termos do artigo 4.º e nomeadamente por que não sejam afectados os direitos emergentes de concessões de serviço, público.
 
-###### Art. 15.º O Ministro das Comunicações expedirá os regulamentos e tomará as providências necessárias à boa execução deste decreto-lei.
+Art. 15.º O Ministro das Comunicações expedirá os regulamentos e tomará as providências necessárias à boa execução deste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

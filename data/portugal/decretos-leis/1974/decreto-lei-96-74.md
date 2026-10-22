@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/06100/03340336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1974-412440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a366e1bf8e932d1c994e8ab57c77ed8f5bcde0737581e39d4c4f45f7e58141f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a72554c0f11a27448e3810f7d766c3ce0762f112794fc0359b19f16a1e6e47a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Geral de Minas e Serviços Geológicos
+- Metrópole
+- Petróleo
+- Plataforma Continental
+- Prospecção de Petróleo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470447:por
+  label: "Alterados os n.ºs 2 e 3 (aditado) do art. 3.º e os n.ºs 2 e 3 (aditado) do art. 5.º, pelo DEC LEI.266/80.1980.08.07.MIE\
+    \ DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-1980-470447
+  date: '1980-08-07'
+- type: amended_by
+  target: pt:dre:151535:por
+  label: "Alterada a al. b) do n.º 1 do art. 2.º e a al. b) do n.º 1 do art. 4.º e revogada a al. c) do n.º 1 e a al. b) do\
+    \ n.º 2 do art. 4.º e o art. 6.º, pelo DEC LEI.174/85.1985.05.21.MIE DR.IS [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-1985-151535
+  date: '1985-05-21'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Alterado pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: cites
+  target: pt:dre:215764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445757:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.1990.05.02.MIE DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:07Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +156,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A concessão dos direitos de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental metropolitana é feita por três anos, contados da data da assinatura do respectivo contrato.
+Artigo 1.º A concessão dos direitos de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental metropolitana é feita por três anos, contados da data da assinatura do respectivo contrato.
 
-###### Art. 2.º - 1. O prazo inicial dos contratos de concessão de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental até ao limite de 200 m de profundidade das águas é prorrogável por mais de uma vez, se o concessionário:
+Art. 2.º - 1. O prazo inicial dos contratos de concessão de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental até ao limite de 200 m de profundidade das águas é prorrogável por mais de uma vez, se o concessionário:
 
 a) Cumprir integralmente os programas de trabalhos aprovados e observar todas as disposições legais e contratuais a que estiver sujeito;
 
@@ -120,11 +166,11 @@ b) Se comprometer, na primeira prorrogação, a realizar, nas áreas que não es
 
 2. O montante do investimento exigido para os efeitos da alínea b) do número anterior é calculado com dedução da importância que, no prazo inicial da concessão, haja sido investida em trabalhos de prospecção e pesquisa diversos daqueles a que respeita o investimento mínimo obrigatório naquele prazo inicial.
 
-###### Art. 3.º - 1. Nos contratos a que respeita o artigo precedente, o concessionário, satisfazendo as condições estabelecidas no n.º 1 desse artigo, tem direito a duas prorrogações sucessivas do prazo inicial da concessão.
+Art. 3.º - 1. Nos contratos a que respeita o artigo precedente, o concessionário, satisfazendo as condições estabelecidas no n.º 1 desse artigo, tem direito a duas prorrogações sucessivas do prazo inicial da concessão.
 
 2. A primeira prorrogação é dada por três anos e apenas com respeito a um máximo de 75% do número de blocos inicialmente abrangidos por cada uma das áreas concedidas; a segunda prorrogação é feita por vinte anos e, relativamente a cada área concedida, só quanto aos blocos demarcados definitivamente para exploração ou provisoriamente para desenvolvimento, até ao máximo de 50% do seu número inicial.
 
-###### Art. 4.º - 1. O prazo inicial dos contratos de concessão de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental para além do limite da batimétrica dos 200 m é prorrogável por mais de uma vez, se o concessionário:
+Art. 4.º - 1. O prazo inicial dos contratos de concessão de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental para além do limite da batimétrica dos 200 m é prorrogável por mais de uma vez, se o concessionário:
 
 a) Cumprir integralmente os programas de trabalhos aprovados e observar todas as disposições legais e contratuais a que estiver submetido;
 
@@ -138,25 +184,25 @@ a) No caso da alínea b) desse número, da importância que, no prazo inicial da
 
 b) No caso da alínea c) do mesmo número, da importância que, durante a primeira prorrogação, for investida em trabalhos de prospecção e pesquisa para além dos que, nesse período e nesses trabalhos, deva ser investido por força do presente artigo.
 
-###### Art. 5.º - 1. Nos contratos a que se refere o artigo anterior, o concessionário, se cumprir as condições estabelecidas no n.º 1 desse artigo, tem direito a um máximo de três prorrogações sucessivas do prazo inicial da concessão.
+Art. 5.º - 1. Nos contratos a que se refere o artigo anterior, o concessionário, se cumprir as condições estabelecidas no n.º 1 desse artigo, tem direito a um máximo de três prorrogações sucessivas do prazo inicial da concessão.
 
 2. A primeira prorrogação é dada por três anos e só com respeito a um máximo de 75% do número de blocos inicialmente abrangidos por cada uma das áreas concedidas; a segunda prorrogação é também feita por três anos, mas apenas em relação a um máximo de 50% do mesmo número original de blocos; a terceira prorrogação é dada por vinte anos ou, se for requerida em substituição da segunda, por vinte e três anos e, em qualquer caso, só quanto aos blocos demarcados definitivamente para exploração ou provisoriamente para desenvolvimento, até ao máximo de 50% do seu número inicial.
 
-###### Art. 6.º - 1. As prorrogações de que tratam os artigos anteriores são requeridas pelo concessionário ao Secretário de Estado da Indústria, com a indicação dos blocos que pretende conservar, até três meses antes de expirar o prazo inicial ou o prazo de cada uma das prorrogações da concessão, sob pena de esta caducar.
+Art. 6.º - 1. As prorrogações de que tratam os artigos anteriores são requeridas pelo concessionário ao Secretário de Estado da Indústria, com a indicação dos blocos que pretende conservar, até três meses antes de expirar o prazo inicial ou o prazo de cada uma das prorrogações da concessão, sob pena de esta caducar.
 
 2. Os requerimentos de prorrogação devem ser instruídos com um relatório pormenorizado sobre toda a actividade desenvolvida, os seus resultados e as previsões estabelecidas.
 
 3. A prorrogação referente a blocos demarcados provisoriamente caduca quando, executado o plano aprovado para o correspondente desenvolvimento, não houver lugar a demarcação definitiva.
 
-###### Art. 7.º - 1. Os trabalhos de prospecção e pesquisa são, em cada ano civil, objecto de um plano pormenorizado que, em triplicado e acompanhado de uma programação no tempo e de uma previsão orçamental de despesas, deverá ser entregue na Direcção-Geral de Minas e Serviços Geológicos até ao fim do mês de Outubro do ano antecedente.
+Art. 7.º - 1. Os trabalhos de prospecção e pesquisa são, em cada ano civil, objecto de um plano pormenorizado que, em triplicado e acompanhado de uma programação no tempo e de uma previsão orçamental de despesas, deverá ser entregue na Direcção-Geral de Minas e Serviços Geológicos até ao fim do mês de Outubro do ano antecedente.
 
 2. O primeiro destes planos é entregue até trinta dias após a assinatura do contrato e pode abranger, se este o consentir, além dos trabalhos a executar durante o ano civil em curso à data dessa assinatura, os trabalhos do ano civil imediato.
 
-###### Art. 8.º - 1. Sempre que se reconheça a comercialidade de um poço, deve o concessionário submeter à aprovação da Direcção-Geral de Minas e Serviços Geológicos um plano de desenvolvimento (delineation), no prazo de noventa dias contados da data em que se verifique o reconhecimento dessa comercialidade.
+Art. 8.º - 1. Sempre que se reconheça a comercialidade de um poço, deve o concessionário submeter à aprovação da Direcção-Geral de Minas e Serviços Geológicos um plano de desenvolvimento (delineation), no prazo de noventa dias contados da data em que se verifique o reconhecimento dessa comercialidade.
 
 2. O plano de trabalhos de desenvolvimento deve constar de uma memória descritiva e justificativa e de uma previsão orçamental, acompanhadas, além das peças desenhadas necessárias à perfeita compreensão dos trabalhos projectados, de uma planta em escala não inferior a 1:50000, onde, nos limites de um número inteiro de blocos, se encontre lançada a demarcação provisória do campo de petróleo.
 
-###### Art. 9.º - 1. O concessionário deve submeter à aprovação da Direcção-Geral de Minas e Serviços Geológicos:
+Art. 9.º - 1. O concessionário deve submeter à aprovação da Direcção-Geral de Minas e Serviços Geológicos:
 
 a) Nos cento e vinte dias seguintes ao do reconhecimento da comercialidade de um campo de petróleo, o plano geral da respectiva exploração, acompanhado de uma previsão orçamental e do requerimento de demarcação definitiva;
 
@@ -168,7 +214,7 @@ b) Anualmente e até 30 de Outubro, um plano de trabalhos de exploração para c
 
 4. Consideram-se, para todos os efeitos, parte integrante dos planos anuais de trabalhos de exploração aprovados as modificações que neles forem introduzidas nos termos deste artigo.
 
-###### Art. 10.º - 1. O concessionário, por si e pelas entidades que com ele cooperem, e as autoridades portuguesas obrigam-se a manter estritamente confidenciais, por um prazo de cinco anos, a contar da data da obtenção, quaisquer elementos de natureza técnica ou económica obtidos no exercício dos direitos concedidos e os poderes de contrôle do Estado, salva autorização expressa, respectivamente do Secretário de Estado da Indústria ou do concessionário.
+Art. 10.º - 1. O concessionário, por si e pelas entidades que com ele cooperem, e as autoridades portuguesas obrigam-se a manter estritamente confidenciais, por um prazo de cinco anos, a contar da data da obtenção, quaisquer elementos de natureza técnica ou económica obtidos no exercício dos direitos concedidos e os poderes de contrôle do Estado, salva autorização expressa, respectivamente do Secretário de Estado da Indústria ou do concessionário.
 
 2. Em casos especiais, e a pedido do concessionário, o Secretário de Estado da Indústria pode prorrogar o prazo da confidencialidade.
 
@@ -176,7 +222,7 @@ b) Anualmente e até 30 de Outubro, um plano de trabalhos de exploração para c
 
 4. As informações de carácter geral, tais como a cartografia geológica, e estratigrafia revelada por sondagens, velocidades de propagação das ondas sísmicas, os elementos brutos de gravimetria e magnetometria, podem ser livremente utilizadas pela Direcção-Geral de Minas e Serviços Geológicos.
 
-###### Art. 11.º - 1. Deve o concessionário preencher os seus quadros de pessoal, em todas as categorias, com portugueses, só contratando pessoal estrangeiro enquanto, dentro dos limites do que for razoavelmente necessário para o desempenho dos lugares desses quadros, não houver nacionais com as qualificações e experiência exigidas.
+Art. 11.º - 1. Deve o concessionário preencher os seus quadros de pessoal, em todas as categorias, com portugueses, só contratando pessoal estrangeiro enquanto, dentro dos limites do que for razoavelmente necessário para o desempenho dos lugares desses quadros, não houver nacionais com as qualificações e experiência exigidas.
 
 2. O preenchimento dos quadros de pessoal obedece às seguintes regras:
 
@@ -190,38 +236,38 @@ b) O total dos cargos da empresa é ocupado por nacionais, em 80% e em 98%, no f
 
 5. Os portugueses e estrangeiros empregados pelo concessionário em categorias idênticas beneficiam, em circunstâncias semelhantes, de idênticos benefícios de natureza económica e sócio-profissional.
 
-###### Art. 12.º - 1. O concessionário, por si e pelas empresas que lhe executem empreitadas ou prestem serviços, obriga-se a preferir os bens e serviços de origem nacional, incluindo a utilização da capacidade disponível dos meios nacionais de transporte, contanto que tais bens e serviços, comparados com similares de origem estrangeira, possam ser adquiridos ou fornecidos em condições igualmente vantajosas, tendo em atenção a sua qualidade, preço e disponibilidade dentro do prazo que for requerido.
+Art. 12.º - 1. O concessionário, por si e pelas empresas que lhe executem empreitadas ou prestem serviços, obriga-se a preferir os bens e serviços de origem nacional, incluindo a utilização da capacidade disponível dos meios nacionais de transporte, contanto que tais bens e serviços, comparados com similares de origem estrangeira, possam ser adquiridos ou fornecidos em condições igualmente vantajosas, tendo em atenção a sua qualidade, preço e disponibilidade dentro do prazo que for requerido.
 
 2. Na comparação dos preços dos artigos importados com os dos fabricados ou produzidos em território nacional atender-se-á ao frete e aos direitos alfandegários que seriam pagos pelos artigos importados se a importação destes não fosse isenta.
 
-###### Art. 13.º Em igualdade de condições para o concessionário, deve este dar sempre preferência à satisfação das necessidades das refinarias e de outras instalações fabris nacionais.
+Art. 13.º Em igualdade de condições para o concessionário, deve este dar sempre preferência à satisfação das necessidades das refinarias e de outras instalações fabris nacionais.
 
-###### Art. 14.º - 1. Em caso de guerra ou de emergência que, no tocante ao abastecimento energético, afecte a economia nacional, toda a produção da concessionária, líquida de consumos próprios, fica à disposição do Estado.
+Art. 14.º - 1. Em caso de guerra ou de emergência que, no tocante ao abastecimento energético, afecte a economia nacional, toda a produção da concessionária, líquida de consumos próprios, fica à disposição do Estado.
 
 2. O valor da compensação devida à concessionária pelas entregas da produção efectuadas nos termos deste artigo é, em princípio, igual, para cada semestre, à média ponderada das vendas que, no mercado internacional, se fizerem para abastecimento de países europeus, no semestre anterior.
 
 3. Em caso nenhum a compensação prevista neste artigo será superior ao mais alto preço que, no semestre a que se refere o seu cálculo, algum Estado europeu, para abastecimento do correspondente mercado, ou empresa, com o mesmo fim, haja pago pelo petróleo produzido no respectivo domínio público.
 
-###### Art. 15.º O concessionário responde pelo risco próprio da sua actividade quanto aos prejuízos causados a terceiros e relativamente aos danos produzidos em recursos naturais de qualquer espécie.
+Art. 15.º O concessionário responde pelo risco próprio da sua actividade quanto aos prejuízos causados a terceiros e relativamente aos danos produzidos em recursos naturais de qualquer espécie.
 
-###### Art. 16.º As disposições do [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661), de 30 de Setembro de 1967, com as alterações estabelecidas pelo presente diploma, são extensivas às concessões de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental metropolitana para além do limite de 200 m de profundidade das águas.
+Art. 16.º As disposições do [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661), de 30 de Setembro de 1967, com as alterações estabelecidas pelo presente diploma, são extensivas às concessões de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental metropolitana para além do limite de 200 m de profundidade das águas.
 
-###### Art. 17.º - 1. A plataforma continental para além da batimétrica dos 200 m e até ao ponto onde a profundidade das águas permita a prospecção, pesquisa, desenvolvimento e eventual exploração de petróleo divide-se em blocos, conforme mapa arquivado na Direcção-Geral de Minas e Serviços Geológicos e estabelecido por ela, ouvidos os competentes serviços do Ministério da Marinha.
+Art. 17.º - 1. A plataforma continental para além da batimétrica dos 200 m e até ao ponto onde a profundidade das águas permita a prospecção, pesquisa, desenvolvimento e eventual exploração de petróleo divide-se em blocos, conforme mapa arquivado na Direcção-Geral de Minas e Serviços Geológicos e estabelecido por ela, ouvidos os competentes serviços do Ministério da Marinha.
 
 2. Os blocos têm a extensão de 6' de longitude por 5' de latitude, salvo quando atingidos pela batimétrica dos 200 m definida nos termos do artigo 2.º do [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661), de 30 de Setembro de 1967, e pela delimitação a que se refere o artigo 1.º do [Decreto-Lei n.º 49369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49369-1969-215764), de 11 de Novembro de 1969.
 
 3. As concessões de prospecção, pesquisa, desenvolvimento e exploração de petróleo terão por objecto áreas constituídas, cada uma, por um máximo de doze blocos contíguos.
 
-###### Art. 18.º - 1. São revogados os artigos 7.º, 12.º, 38.º, 39.º, 47.º e 49.º do [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661), de 30 de Setembro de 1967.
+Art. 18.º - 1. São revogados os artigos 7.º, 12.º, 38.º, 39.º, 47.º e 49.º do [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661), de 30 de Setembro de 1967.
 
 2. As disposições que no diploma mencionado no número anterior aludem ao prazo inicial e às prorrogações dos contratos de concessão devem entender-se com referência ao que, nessa matéria, estatui o presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 4 de Março de 1974.**
+Promulgado em 4 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

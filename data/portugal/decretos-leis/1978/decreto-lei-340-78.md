@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26300/23862387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1978-325965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5bdac8cef536024330e7fb416eba6621d28e7bb73b8eb18fbef362c34d3c337
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a4a294de4b434d81b098dd8be23b3c64c4dfa8c6f71c96af8936af0a0dbbf0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Boletim de Registo Prévio de Comércio Externo
+- Circulação de Mercadorias
+- Comércio Internacional
+- Definição de Competências
+- Direcção Geral das Alfândegas
+- Direcção Geral do Comércio Externo
+- Exportação
+- Importação
+- Instituto Nacional de Estatística
+- Operação Cambial
 relationships:
 - type: amended_by
   target: pt:dre:546459:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:240851:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546459:por
+  label: "Revogado pelo DEC LEI.524/85.31.12.1985.MIC, DR.IS [301-7º Supl] de 31.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/524-1985-546459
+  date: '1985-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:29Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 6.º, 7.º, 8.º e 21.º do [Decreto-Lei n.º 353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 6.º, 7.º, 8.º e 21.º do [Decreto-Lei n.º 353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
@@ -118,13 +137,13 @@ e) Os despachos relativos a operações de exportação de mercadorias dirigidas
 
 6 - O Ministro do Comércio e Turismo, sob proposta da Direcção-Geral do Comércio Externo, ouvidos a Direcção-Geral das Alfândegas e o Banco de Portugal, este no aspecto monetário-cambial, poderá determinar que outras situações não previstas nas alíneas do anterior n.º 4 sejam excluídas do disposto no n.º 3 deste artigo.
 
-###### Art. 5.º - 1 - Em casos especiais, a definir pela entidade com competência para o registo prévio, podem ser emitidos boletins de registo especiais, designados por boletins globais, compostos de três exemplares marcados de A a C, com vista à importação ou exportação de mercadorias até ao prazo de doze meses. Tendo em conta a natureza da operação e a ocorrência de razões ponderosas, poderão ser emitidos boletins globais com prazo de validade superior a doze meses, mediante parecer favorável do Banco de Portugal.
+Art. 5.º - 1 - Em casos especiais, a definir pela entidade com competência para o registo prévio, podem ser emitidos boletins de registo especiais, designados por boletins globais, compostos de três exemplares marcados de A a C, com vista à importação ou exportação de mercadorias até ao prazo de doze meses. Tendo em conta a natureza da operação e a ocorrência de razões ponderosas, poderão ser emitidos boletins globais com prazo de validade superior a doze meses, mediante parecer favorável do Banco de Portugal.
 
 2 - ...
 
 3 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
@@ -142,7 +161,7 @@ b) Apresentado pelo interessado numa instituição de crédito para efeito da re
 
 7 - No caso de não concretização de operações cobertas por boletins globais de importação ou de exportação ou, em relação a estes últimos, quando não forem totalmente utilizados, deverá o interessado ou o seu representante devolver à entidade emissora o respectivo exemplar B, no prazo previsto no número anterior.
 
-###### Art. 7.º - 1 - A cada despacho aduaneiro corresponderá um bilhete estatístico aduaneiro e uma declaração de movimento de mercadorias, com excepção dos despachos de caderneta, quando não dêem lugar a apresentação do boletim de registo prévio.
+Art. 7.º - 1 - A cada despacho aduaneiro corresponderá um bilhete estatístico aduaneiro e uma declaração de movimento de mercadorias, com excepção dos despachos de caderneta, quando não dêem lugar a apresentação do boletim de registo prévio.
 
 2 - Nos casos previstos nas alíneas do n.º 4 do artigo 4.º, deverão ser preenchidos um bilhete estatístico aduaneiro e uma declaração de movimento de mercadorias por cada boletim de registo utilizado no respectivo despacho.
 
@@ -152,7 +171,7 @@ b) Apresentado pelo interessado numa instituição de crédito para efeito da re
 
 5 - O Instituto Nacional de Estatística fornecerá à Direcção-Geral do Comércio Externo e às entidades com competência delegada para o registo prévio as informações estatísticas necessárias à prossecução das suas atribuições legais, com uma periodicidade semanal, nos termos da legislação em vigor sobre o sistema estatístico nacional. Aquela informação será assegurada pelo Banco de Portugal enquanto o Instituto Nacional de Estatística não dispuser de meios para o efeito.
 
-###### Art. 8.º - 1 - O prazo de validade dos boletins de registo prévio, para efeito de desalfandegamento, é de três meses, improrrogáveis, a contar da data da sua emissão.
+Art. 8.º - 1 - O prazo de validade dos boletins de registo prévio, para efeito de desalfandegamento, é de três meses, improrrogáveis, a contar da data da sua emissão.
 
 2 - O prazo de validade dos boletins de registo prévio de exportação, para efeito de pagamento, é de quatro meses contados a partir da data de desalfandegamento da mercadoria.
 
@@ -166,7 +185,7 @@ b) Ser emitidos boletins de registo de exportação com prazo de validade, para 
 
 5 - ...
 
-###### Art. 21.º - 1 - São expressamente revogados:
+Art. 21.º - 1 - São expressamente revogados:
 
 a) ...
 
@@ -180,12 +199,12 @@ e) As seguintes disposições do Decreto-Lei n.º 16369, de 15 de Janeiro de 192
 
 2 - ...
 
-###### Art. 2.º Aos despachos efectuados ao abrigo de boletins de registo emitidos anteriormente à entrada em vigor do presente decreto-lei não é aplicável o disposto na nova redacção estabelecida para o n.º 3 do artigo 4.º do [Decreto-Lei n.º 353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto.
+Art. 2.º Aos despachos efectuados ao abrigo de boletins de registo emitidos anteriormente à entrada em vigor do presente decreto-lei não é aplicável o disposto na nova redacção estabelecida para o n.º 3 do artigo 4.º do [Decreto-Lei n.º 353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 31 de Outubro de 1978.**
+Promulgado em 31 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

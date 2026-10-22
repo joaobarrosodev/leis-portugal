@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1972-686047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c11a6aed8bc5676757957324c4e506915d86e4a03c74e43cd86e89dff95a30b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 512808a07c9c245832e459481484706be4bc7e7359641487e19ad65e1c4d8cb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Cobrança de Impostos
+- Despesas Públicas
+- Fundo de Defesa Militar do Ultramar
+- Gestão Orçamental
+- Orçamento
+- Política de Defesa
+- Receita Própria
 relationships:
 - type: amended_by
   target: pt:dre:312458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312458:por
+  label: Portaria n.º 639/75 - Diário do Governo n.º 257/1975, Série I de 1975-11-06 (Art. 7.º)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/639-1975-312458
+  date: '1975-11-06'
+- type: cites
+  target: pt:dre:642729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674002:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:685072:por
+  label: Rectificado [no referente ao nº 2 do art. 15º] pela DECL.DD9340.07.12.1972.PC, DG.IS [284] de 07.12.1972
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1972-685072
+  date: '1972-12-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:34Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +122,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I - Dos orçamentos
 
-###### Artigo 1.º - 1. A contribuição das províncias ultramarinas para a defesa nacional, a que se refere a alínea a) do n.º 3 da base LIX da [Lei n.º 5/72](https://diariodarepublica.pt/dr/detalhe/lei/5-1972-674002), de 23 de Junho, é constituída por uma percentagem da soma das receitas ordinárias, com exclusão das consignadas, previstas nos orçamentos gerais das mesmas províncias, para o respectivo ano económico, acrescida, ma íntegra, das comparticipações especiais que estejam ou forem legalmente estabelecidas, destinadas à mesma finalidade.
+Artigo 1.º - 1. A contribuição das províncias ultramarinas para a defesa nacional, a que se refere a alínea a) do n.º 3 da base LIX da [Lei n.º 5/72](https://diariodarepublica.pt/dr/detalhe/lei/5-1972-674002), de 23 de Junho, é constituída por uma percentagem da soma das receitas ordinárias, com exclusão das consignadas, previstas nos orçamentos gerais das mesmas províncias, para o respectivo ano económico, acrescida, ma íntegra, das comparticipações especiais que estejam ou forem legalmente estabelecidas, destinadas à mesma finalidade.
 
 2. A percentagem referida no número anterior é fixada anualmente por despacho do Ministro do Ultramar, depois de acordada com o Ministro da Defesa Nacional.
 
@@ -104,7 +130,7 @@ I - Dos orçamentos
 
 4. A contribuição de que trata este artigo é independente da respeitante ao Fundo de Defesa Militar do Ultramar.
 
-###### Art. 2.º - 1. A inscrição nos orçamentos gerais das províncias ultramarinas da quota-parte da contribuição referida no n.º 3 do artigo 1.º deste diploma e da respeitante ao Fundo de Defesa Militar do Ultramar é feita na tabela de despesa ordinária, sob o título «Defesa nacional Forças armadas», com as seguintes divisões:
+Art. 2.º - 1. A inscrição nos orçamentos gerais das províncias ultramarinas da quota-parte da contribuição referida no n.º 3 do artigo 1.º deste diploma e da respeitante ao Fundo de Defesa Militar do Ultramar é feita na tabela de despesa ordinária, sob o título «Defesa nacional Forças armadas», com as seguintes divisões:
 
 1.ª Forças navais,
 
@@ -120,15 +146,15 @@ I - Dos orçamentos
 
 4. A dotação para o Fundo de Defesa Militar do Ultramar é liquidada em relação ao quantitativo das receitas efectivamente cobradas, considerando-se tàcitamente reforçada com o valor integral do excesso de cobrança sobre a previsão quando tal excesso for verificado.
 
-###### Art. 3.º - 1. Os serviços provinciais de finanças ficam autorizados a liquidar e mandar pagar, mensalmente e mediante as competentes requisições, aos órgãos dos respectivos comandos das forças navais, terrestres e aéreas, com autonomia administrativa, os duodécimos das verbas globais inscritas nas divisões 1.ª, 2.ª e 3.ª estabelecidas no n.º 1 do artigo anterior, e bem assim o produto das receitas consignadas ao Fundo de Defesa Militar do Ultramar, em conta da verba inscrita na divisão 4.ª
+Art. 3.º - 1. Os serviços provinciais de finanças ficam autorizados a liquidar e mandar pagar, mensalmente e mediante as competentes requisições, aos órgãos dos respectivos comandos das forças navais, terrestres e aéreas, com autonomia administrativa, os duodécimos das verbas globais inscritas nas divisões 1.ª, 2.ª e 3.ª estabelecidas no n.º 1 do artigo anterior, e bem assim o produto das receitas consignadas ao Fundo de Defesa Militar do Ultramar, em conta da verba inscrita na divisão 4.ª
 
 2. Pode efectuar-se, nos termos regulamentares a antecipação de duodécimos de qualquer das verbas das três primeiras divisões.
 
 3. O produto das receitas consignadas ao Fundo de Defesa Militar do Ultramar é entregue ao comando das forças terrestres de cada província ultramarina, ao qual incumbe a subsequente transferência para o referido Fundo, pela forma que for regulada nas instruções de que trata o artigo 17.º deste diploma.
 
-###### Art. 4.º Para efeito de inscrição nos orçamentos gerais, é da competência do Ministro da Defesa Nacional fixar anualmente, por despacho, dentro do limite de que trata o n.º 1 do artigo 1.º do presente diploma, as parcelas da contribuição global destinadas a cada uma das divisões 1.ª, 2.ª e 3.ª estabelecidas no n.º 1 do artigo 2.º deste diploma.
+Art. 4.º Para efeito de inscrição nos orçamentos gerais, é da competência do Ministro da Defesa Nacional fixar anualmente, por despacho, dentro do limite de que trata o n.º 1 do artigo 1.º do presente diploma, as parcelas da contribuição global destinadas a cada uma das divisões 1.ª, 2.ª e 3.ª estabelecidas no n.º 1 do artigo 2.º deste diploma.
 
-###### Art. 5.º - 1. O complemento da metrópole de que trata a primeira parte da alínea b) do n.º 1 da base LXII [Lei n.º 5/72](https://diariodarepublica.pt/dr/detalhe/lei/5-1972-674002), de 23 de Junho, será satisfeito pela dotação inscrita na despesa extraordinária do Orçamento Geral do Estado para a defesa nacional, consignada a forças militares extraordinárias no ultramar.
+Art. 5.º - 1. O complemento da metrópole de que trata a primeira parte da alínea b) do n.º 1 da base LXII [Lei n.º 5/72](https://diariodarepublica.pt/dr/detalhe/lei/5-1972-674002), de 23 de Junho, será satisfeito pela dotação inscrita na despesa extraordinária do Orçamento Geral do Estado para a defesa nacional, consignada a forças militares extraordinárias no ultramar.
 
 2. É da competência do Ministro da Defesa Nacional a fixação anual, por despacho, do montante global do complemento da metrópole, bem como a sua distribuição pelos comandos das forças navais, terrestres e aéreas das diferentes províncias ultramarinas.
 
@@ -136,7 +162,7 @@ I - Dos orçamentos
 
 4. Pode efectuar-se, nos termos regulamentares, a antecipação de duodécimos do montante fixado para complemento da metrópole.
 
-###### Art. 6.º As verbas globais referidas nos artigos anteriores e outras que lhes sejam complementares e o desenvolvimento das despesas a que se destinam são objecto de orçamentos privativos onde se inscrevem:
+Art. 6.º As verbas globais referidas nos artigos anteriores e outras que lhes sejam complementares e o desenvolvimento das despesas a que se destinam são objecto de orçamentos privativos onde se inscrevem:
 
 a) Como receitas correntes:
 
@@ -168,25 +194,25 @@ e) Como contas de ordem:
 
 A consignação de receitas ao Fundo de Defesa Militar do Ultramar, apenas no orçamento privativo das forças terrestres de cada província ultramarina.
 
-###### Art. 7.º Os orçamentos privativos referidos no artigo anterior serão aprovados par portaria do Ministro da Defesa Nacional, a quem fica também competindo determinar, por igual forma, os reforços de verbas necessários à gestão desses orçamentos, quer por transferência, quer por abertura de créditos especiais.
+Art. 7.º Os orçamentos privativos referidos no artigo anterior serão aprovados par portaria do Ministro da Defesa Nacional, a quem fica também competindo determinar, por igual forma, os reforços de verbas necessários à gestão desses orçamentos, quer por transferência, quer por abertura de créditos especiais.
 
-###### Art. 8.º - 1. A gestão financeira dos orçamentos privativos referidos no artigo 6.º é exercida pelo Departamento da Defesa Nacional, ao qual os comandos das forças navais, terrestres e aéreas das diferentes províncias ultramarinas devem submeter os pedidos de autorização de despesas cujo montante exceda o limite de competência que, para o efeito, lhes esteja fixado.
+Art. 8.º - 1. A gestão financeira dos orçamentos privativos referidos no artigo 6.º é exercida pelo Departamento da Defesa Nacional, ao qual os comandos das forças navais, terrestres e aéreas das diferentes províncias ultramarinas devem submeter os pedidos de autorização de despesas cujo montante exceda o limite de competência que, para o efeito, lhes esteja fixado.
 
 2. Os encargos respeitantes a anos anteriores que não tenham podido ser liquidados, por razões devidamente fundamentadas, no decurso do respectivo exercício, são suportados pelas correspondentes verbas dos aludidos orçamentos privativos, no ano que estiver correndo, consoante a natureza desses encargos, depois de autorizados por despacho do Ministro da Defesa Nacional.
 
-###### Art. 9.º As sobras das verbas inscritas naqueles orçamentos privativos serão levantadas no final do respectivo exercício e o seu produto constituirá receita do Fundo de Defesa Militar do Ultramar, para onde será directamente transferido.
+Art. 9.º As sobras das verbas inscritas naqueles orçamentos privativos serão levantadas no final do respectivo exercício e o seu produto constituirá receita do Fundo de Defesa Militar do Ultramar, para onde será directamente transferido.
 
-###### Art. 10.º - 1. Os órgãos das forças navais, terrestres e aéreas das diferentes províncias ultramarinas que recebam dotações em conta dos orçamentos privativos de que trata o artigo 6.º ficam sujeitos à correspondente prestação de contas, de harmonia com as atinentes disposições legais em vigor.
+Art. 10.º - 1. Os órgãos das forças navais, terrestres e aéreas das diferentes províncias ultramarinas que recebam dotações em conta dos orçamentos privativos de que trata o artigo 6.º ficam sujeitos à correspondente prestação de contas, de harmonia com as atinentes disposições legais em vigor.
 
 2. Independentemente do estabelecido no número anterior, os comandos das forças navais, terrestres e aéreas das diferentes províncias ultramarinas passam a remeter ao serviço competente do Departamento da Defesa Nacional, até 31 de Maio de cada ano, um relatório circunstanciado da gerência do ano económico anterior, de harmonia com as instruções de que trata o artigo 17.º deste diploma.
 
 II - Do Fundo de Defesa Militar do Ultramar
 
-###### Art. 11.º - 1. O Fundo de Defesa Militar do Ultramar, instituído pelos Decretos n.os 28263 e 30117, de 8 de Dezembro de 1937 e 8 de Dezembro de 1939, respectivamente, é destinado a satisfazer, no todo ou em parte, encargos com obras e com a aquisição de equipamento de qualquer natureza para as forças que actuam no ultramar, bem como quaisquer outras despesas com elas relacionadas ou de manifesta utilidade para a sua actuação.
+Art. 11.º - 1. O Fundo de Defesa Militar do Ultramar, instituído pelos Decretos n.os 28263 e 30117, de 8 de Dezembro de 1937 e 8 de Dezembro de 1939, respectivamente, é destinado a satisfazer, no todo ou em parte, encargos com obras e com a aquisição de equipamento de qualquer natureza para as forças que actuam no ultramar, bem como quaisquer outras despesas com elas relacionadas ou de manifesta utilidade para a sua actuação.
 
 2. As despesas a efectuar pelo Fundo de Defesa Militar do Ultramar são isentas do visto do Tribunal de Contas.
 
-###### Art. 12.º - 1. Constituem receitas do Fundo de Defesa Militar do Ultramar:
+Art. 12.º - 1. Constituem receitas do Fundo de Defesa Militar do Ultramar:
 
 a) O produto da cobrança da taxa militar nas províncias ultramarinas;
 
@@ -208,38 +234,38 @@ i) O produto de quaisquer receitas avulsas ou eventuais realizadas pelas forças
 
 2. O saldo do Fundo de Defesa Militar do Ultramar apurado em cada ano transita automàticamente para o mesmo Fundo no ano seguinte.
 
-###### Art. 13.º - 1. Até quarenta e cinco dias após o final de cada trimestre, os serviços provinciais de finanças devem enviar ao Departamento da Defesa Nacional, por intermédio do Ministério do Ultramar, uma conta corrente das receitas arrecadadas com destino ao Fundo de Defesa Militar do Ultramar e das quantias restituídas ou entregues ao respectivo comando das forças terrestres durante o trimestre antecedente, nela indicando os respectivos saldos de abertura e encerramento.
+Art. 13.º - 1. Até quarenta e cinco dias após o final de cada trimestre, os serviços provinciais de finanças devem enviar ao Departamento da Defesa Nacional, por intermédio do Ministério do Ultramar, uma conta corrente das receitas arrecadadas com destino ao Fundo de Defesa Militar do Ultramar e das quantias restituídas ou entregues ao respectivo comando das forças terrestres durante o trimestre antecedente, nela indicando os respectivos saldos de abertura e encerramento.
 
 2. Até trinta dias após o final de cada mês, os comandos das forças terrestres das diferentes províncias ultramarinas devem enviar ao Departamento da Defesa Nacional uma conta corrente das quantias que lhes forem entregues com destino ao Fundo de Defesa Militar do Ultramar e dos pagamentos que lhes forem ordenados por conta do mesmo Fundo no decurso do mês anterior, nela indicando os respectivos saldos de abertura e encerramento.
 
-###### Art. 14.º - 1. Os encargos a satisfazer por conta do Fundo de Defesa Militar do Ultramar são descritos em planos organizados, em cada ano, pelo Ministro da Defesa Nacional e aprovadas pelo Presidente do Conselho de Ministros, depois de visados pelo Ministro do Ultramar, os quais servem de base à elaboração dos correspondentes orçamentos.
+Art. 14.º - 1. Os encargos a satisfazer por conta do Fundo de Defesa Militar do Ultramar são descritos em planos organizados, em cada ano, pelo Ministro da Defesa Nacional e aprovadas pelo Presidente do Conselho de Ministros, depois de visados pelo Ministro do Ultramar, os quais servem de base à elaboração dos correspondentes orçamentos.
 
 2. Os orçamentas do Fundo de Defesa Militar do Ultramar são aprovados por despacho do Ministro da Defesa Nacional.
 
-###### Art. 15.º - 1. A aprovação de contratos e a autorização de despesas a liquidar por canta dos créditos atribuídos pelo Fundo de Defesa Militar do Ultramar, independentemente do seu montante, são da competência do Ministro da Defesa Nacional.
+Art. 15.º - 1. A aprovação de contratos e a autorização de despesas a liquidar por canta dos créditos atribuídos pelo Fundo de Defesa Militar do Ultramar, independentemente do seu montante, são da competência do Ministro da Defesa Nacional.
 
 2. Igualmente compete no Ministro da Defesa Nacional a homologação, por despacho, das contas que forem prestadas da aplicação dada aos créditos atribuídos pelo Fundo de Defesa Militar do Ultramar, a organizar de harmonia com as instruções a que se refere o artigo 7.º deste diploma.
 
-###### Art. 16.º - 1. Quando as conveniências da defesa do ultramar assim o impuserem ou aconselharem, pode o Ministro da Defesa Nacional, com a concordância do Ministro do Ultramar, contratar os empréstimos necessários para ocorrer às despesas a realizar, dando como garantia de amortização e juros, se os houver, a receita do Fundo de Defesa Militar do Ultramar.
+Art. 16.º - 1. Quando as conveniências da defesa do ultramar assim o impuserem ou aconselharem, pode o Ministro da Defesa Nacional, com a concordância do Ministro do Ultramar, contratar os empréstimos necessários para ocorrer às despesas a realizar, dando como garantia de amortização e juros, se os houver, a receita do Fundo de Defesa Militar do Ultramar.
 
 2. Estes empréstimos podem revestir-se da forma de adiantamentos pelo Tesouro, desde que, para tal, tenha sido obtida a anuência do Ministro das Finanças.
 
 III - Outras disposições
 
-###### Art. 17.º Em portaria conjunta dos Ministros da Defesa Nacional e do Ultramar serão aprovadas as instruções que se tornem necessárias à execução do presente diploma, ouvidos os titulares dos departamentos militares.
+Art. 17.º Em portaria conjunta dos Ministros da Defesa Nacional e do Ultramar serão aprovadas as instruções que se tornem necessárias à execução do presente diploma, ouvidos os titulares dos departamentos militares.
 
-###### Art. 18.º Quaisquer dúvidas que se suscitem na interpretação ou na execução das disposições do presente diploma serão esclarecidas por despacho do Ministro da Defesa Nacional.
+Art. 18.º Quaisquer dúvidas que se suscitem na interpretação ou na execução das disposições do presente diploma serão esclarecidas por despacho do Ministro da Defesa Nacional.
 
-###### Art. 19.º O regime estabelecido neste diploma e nas instruções que o regulamentam será executado de modo que todas as disposições sejam aplicadas a partir dos orçamentos para 1973.
+Art. 19.º O regime estabelecido neste diploma e nas instruções que o regulamentam será executado de modo que todas as disposições sejam aplicadas a partir dos orçamentos para 1973.
 
-###### Art. 20.º Ficam revogados os Decretos-Leis n.os 42192, de 25 de Março de 1959, 42559, de 3 de Outubro de 1959, 43653, de 4 de Maio de 1961, 44473, de 24 de Julho de 1962, e 44593, de 24 de Setembro de 1962.
+Art. 20.º Ficam revogados os Decretos-Leis n.os 42192, de 25 de Março de 1959, 42559, de 3 de Outubro de 1959, 43653, de 4 de Maio de 1961, 44473, de 24 de Julho de 1962, e 44593, de 24 de Setembro de 1962.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Novembro de 1972.**
+Promulgado em 3 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

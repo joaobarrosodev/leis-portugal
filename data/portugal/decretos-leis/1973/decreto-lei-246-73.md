@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/11600/08430843.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1973-422209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19b7ddc03dedc1970075b83a83ecac5f793debb35eefc9cd66adf65c8c565160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c277e087e7e4c6eca878e2d9e248ec9f946f021acb4697ef829dbfda436b0d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Obras Públicas e Transportes
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:638540:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638540:por
+  label: "Revogado, a partir de 01.06.2007, pelo DR.62/2007.29.05.2007.MOPTC, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/62-2007-638540
+  date: '2007-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:00Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +102,16 @@ de 17 de Maio
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A alínea o) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º A alínea o) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, passa a ter a seguinte redacção:
 
 o) Dois engenheiros ou economistas especializados em transportes terrestres e dois engenheiros especializados em aeronáutica, da livre escolha do Ministro das Comunicações, de entre técnicos de reconhecida competência e com larga prática de trabalhos da sua especialidade;
 
-###### Art. 2.º O Regulamento do Conselho Superior de Obras Públicas e Transportes será aprovado por decreto do Ministro das Obras Públicas.
+Art. 2.º O Regulamento do Conselho Superior de Obras Públicas e Transportes será aprovado por decreto do Ministro das Obras Públicas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 3 de Maio de 1973.**
+Promulgado em 3 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

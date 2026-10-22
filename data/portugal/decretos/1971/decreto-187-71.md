@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56b38b5aab452b426729694f1fa22be0a81d08d296a14064651bad8ee85f8191
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a7ebe3dc1569841e97c7310d332b4269544ee44d56002583c1884e00fccb647
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Parque Nacional da Peneda-Gerês
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:190579:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:190579:por
+  label: "Excluida uma parcela de terreno baldio pertencente ao perímetro florestal das Serras do Soajo e Peneda, do concelho\
+    \ de Melgaço, do Regime florestal a que foi submetida pelo Dec DD752, de 14-Out 1944 e integrada no Parque Nacional da\
+    \ Peneda-Gerês pelo presente diploma, pelo DEC.31/2012.10.12.2012.MAMAOT, DR.IS [238] de 10.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-2012-190579
+  date: '2012-12-10'
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178314:por
+  label: "Revogado o artigo 4.º pelo DEC LEI.403/85.14.10.1985.MA, DR.IS [236] de 14.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1985-178314
+  date: '1985-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:20Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +125,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos do n.º 4 da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, é criado o Parque Nacional da Peneda-Gerês, que abrange o território delimitado do mapa e na descrição complementar anexos ao presente diploma.
+Artigo 1.º Nos termos do n.º 4 da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, é criado o Parque Nacional da Peneda-Gerês, que abrange o território delimitado do mapa e na descrição complementar anexos ao presente diploma.
 
-###### Art. 2.º A especificação e a delimitação das zonas de reserva do Parque e as servidões e restrições administrativas a que ficarão sujeitos os terrenos e bens nele compreendidos serão definidas em decreto, depois de aprovado o plano director do Parque.
+Art. 2.º A especificação e a delimitação das zonas de reserva do Parque e as servidões e restrições administrativas a que ficarão sujeitos os terrenos e bens nele compreendidos serão definidas em decreto, depois de aprovado o plano director do Parque.
 
-###### Art. 3.º Os terrenos compreendidos no perímetro do Parque ficam submetidos ao regime florestal total ou ao regime florestal parcial obrigatório, consoante pretençam ao Estado ou a outras pessoas.
+Art. 3.º Os terrenos compreendidos no perímetro do Parque ficam submetidos ao regime florestal total ou ao regime florestal parcial obrigatório, consoante pretençam ao Estado ou a outras pessoas.
 
-###### Art. 4.º O Parque tem autonomia administrativa e financeira e capacidade jurídica e é administrado por uma comissão administrativa, assistida por uma comissão técnico-consultiva e uma comissão científica.
+Art. 4.º O Parque tem autonomia administrativa e financeira e capacidade jurídica e é administrado por uma comissão administrativa, assistida por uma comissão técnico-consultiva e uma comissão científica.
 
-###### Art. 5.º - 1. Compete à comissão administrativa deliberar sobre a administração do Parque e, em especial:
+Art. 5.º - 1. Compete à comissão administrativa deliberar sobre a administração do Parque e, em especial:
 
 a) Organizar os respectivos orçamentos;
 
@@ -124,15 +151,15 @@ g) Pronunciar-se sobre todos os assuntos que respeitem ao Parque e sejam submeti
 
 2. A comissão administrativa pode delegar no director do Parque a competência para a prática dos actos a que se referem as alíneas b) a f) do número anterior.
 
-###### Art. 6.º Compete à comissão técnico-consultiva dar parecer sobre questões de natureza técnica, social, turística ou de propaganda com interesse para o Parque.
+Art. 6.º Compete à comissão técnico-consultiva dar parecer sobre questões de natureza técnica, social, turística ou de propaganda com interesse para o Parque.
 
-###### Art. 7.º Compete à comissão científica dar parecer sobre questões respeitantes à prossecução dos objectivos científicos do Parque, designadamente no que se refere a reservas integrais.
+Art. 7.º Compete à comissão científica dar parecer sobre questões respeitantes à prossecução dos objectivos científicos do Parque, designadamente no que se refere a reservas integrais.
 
-###### Art. 8.º - 1. A comissão administrativa é constituída pelo director do Parque, que exerce as funções de presidente, e por dois vogais, representantes do Fundo Especial da Caça e Pesca e da Junta de Colonização Interna.
+Art. 8.º - 1. A comissão administrativa é constituída pelo director do Parque, que exerce as funções de presidente, e por dois vogais, representantes do Fundo Especial da Caça e Pesca e da Junta de Colonização Interna.
 
 2. O chefe dos serviços administrativos do Parque exerce as funções de secretário da comissão administrativa, sem direito de voto.
 
-###### Art. 9.º - 1. A comissão técnico-consultiva é presidida pelo director do Parque e tem como vogais:
+Art. 9.º - 1. A comissão técnico-consultiva é presidida pelo director do Parque e tem como vogais:
 
 a) Os presidentes das Câmaras Municipais de Melgaço, Arcos de Valdevez, Ponte da Barca, Terras de Bouro e Montalegre;
 
@@ -144,7 +171,7 @@ d) Um representante das associações e fundações constituídas para a promoç
 
 2. A comissão técnico-consultiva pode reunir em sessões plenas ou restritas, consoante a natureza das questões a tratar.
 
-###### Art. 10.º - 1. A comissão científica é presidida pelo director do Parque e tem como vogais:
+Art. 10.º - 1. A comissão científica é presidida pelo director do Parque e tem como vogais:
 
 a) Um representante de cada um dos seguintes estabelecimentos ou organismos: Instituto Superior de Agronomia, Escola Superior de Medicina Veterinária, Faculdades de Ciências e de Letras das Universidades do continente, Escolas Superiores de Belas-Artes, Estação Agronómica Nacional, Direcção-Geral dos Edifícios e Monumentos Nacionais e Direcção-Geral dos Serviços Hidráulicos;
 
@@ -154,15 +181,15 @@ c) Um representante das associações e fundações constituídas para a promoç
 
 2. É aplicável à comissão científica o disposto no n.º 2 do artigo anterior.
 
-###### Art. 11.º Os membros dos órgãos a que se referem os artigos 8.º a 10.º tomam posse perante o Secretário de Estado da Agricultura.
+Art. 11.º Os membros dos órgãos a que se referem os artigos 8.º a 10.º tomam posse perante o Secretário de Estado da Agricultura.
 
-###### Art. 12.º Os membros da comissão administrativa têm direito à gratificação mensal de 1500$00, acumulável, até ao limite legal de vencimentos, com as remunerações atribuídas pelo exercício de quaisquer outras funções públicas.
+Art. 12.º Os membros da comissão administrativa têm direito à gratificação mensal de 1500$00, acumulável, até ao limite legal de vencimentos, com as remunerações atribuídas pelo exercício de quaisquer outras funções públicas.
 
-###### Art. 13.º Os vogais das comissões técnico-consultiva e científica têm direito a senhas de presença por cada sessão a que compareçam, às quais é aplicável o disposto na última parte do artigo anterior.
+Art. 13.º Os vogais das comissões técnico-consultiva e científica têm direito a senhas de presença por cada sessão a que compareçam, às quais é aplicável o disposto na última parte do artigo anterior.
 
-###### Art. 14.º Os membros dos órgão a que se referem os dois artigos anteriores têm direito ao abono, nos termos da lei, de transportes e de ajudas de custo, quando, para o exercício das suas funções, tenham de deslocar-se das respectivas residências.
+Art. 14.º Os membros dos órgão a que se referem os dois artigos anteriores têm direito ao abono, nos termos da lei, de transportes e de ajudas de custo, quando, para o exercício das suas funções, tenham de deslocar-se das respectivas residências.
 
-###### Art. 15.º Constituem receitas do Parque:
+Art. 15.º Constituem receitas do Parque:
 
 a) A dotação expressamente inscrita no Orçamento Geral do Estado;
 
@@ -184,9 +211,9 @@ i) O saldo dos orçamentos anteriores;
 
 j) O produto de qualquer outra importância de que possa legalmente dispor.
 
-###### Art. 16.º As receitas do Parque serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e movimentadas por cheques nominativos, assinados pelo presidente da comissão administrativa e pelo chefe dos serviços administrativos, mas a sua aplicação não poderá ser feita sem a prévia inscrição no orçamento privativo e de harmonia com as normas da contabilidade pública.
+Art. 16.º As receitas do Parque serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e movimentadas por cheques nominativos, assinados pelo presidente da comissão administrativa e pelo chefe dos serviços administrativos, mas a sua aplicação não poderá ser feita sem a prévia inscrição no orçamento privativo e de harmonia com as normas da contabilidade pública.
 
-###### Art. 17.º - 1. Serão devidas taxas pelo acesso ao Parque e pela concessão de licenças para o exercício de caça ou de pesca dentro do seu perímetro.
+Art. 17.º - 1. Serão devidas taxas pelo acesso ao Parque e pela concessão de licenças para o exercício de caça ou de pesca dentro do seu perímetro.
 
 2. Serão fixados em portaria do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças:
 
@@ -194,11 +221,11 @@ a) Os quantitativos das taxas a que se refere o número anterior;
 
 b) As isenções da taxa de acesso ao Parque, que abrangerão sempre as pessoas nele residentes.
 
-###### Art. 18.º 25 por cento do produto das taxas a que se refere o n.º 1 do artigo anterior constituirão um fundo que será distribuído anualmente, por intermédio das juntas de freguesia, pelas pessoas residentes no Parque.
+Art. 18.º 25 por cento do produto das taxas a que se refere o n.º 1 do artigo anterior constituirão um fundo que será distribuído anualmente, por intermédio das juntas de freguesia, pelas pessoas residentes no Parque.
 
-###### Art. 19.º O Parque disporá de pessoal permanente constante do quadro anexo ao presente diploma.
+Art. 19.º O Parque disporá de pessoal permanente constante do quadro anexo ao presente diploma.
 
-###### Art. 20.º - 1. Compete ao director:
+Art. 20.º - 1. Compete ao director:
 
 a) Superintender em todos os serviços do Parque;
 
@@ -210,27 +237,27 @@ c) Exercer, relativamente aos terrenos compreendidos no Parque, as funções e c
 
 3. O director é substituído nas suas faltas ou impedimentos pelo chefe de divisão, ou, na falta ou impedimento deste, pelo silvicultor de 1.ª classe que for designado por despacho do director-geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 21.º O lugar de director do Parque é provido por escolha de entre os silvicultores do quadro da Direcção-Geral dos Serviços Florestais e Aquícolas, considerando-se o funcionário nele provido na situação de destacado, com aplicação do regime estabelecido nos §§ 1.º e 2.º do artigo 57.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, salvo o disposto no último período do § 2.º
+Art. 21.º O lugar de director do Parque é provido por escolha de entre os silvicultores do quadro da Direcção-Geral dos Serviços Florestais e Aquícolas, considerando-se o funcionário nele provido na situação de destacado, com aplicação do regime estabelecido nos §§ 1.º e 2.º do artigo 57.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, salvo o disposto no último período do § 2.º
 
-###### Art. 22.º - 1. O restante pessoal do quadro será contratado ou destacado dos quadros da Direcção-Geral dos Serviços Florestais e Aquícolas, para qualquer das categorias, por despacho do Secretário de Estado da Agricultura.
+Art. 22.º - 1. O restante pessoal do quadro será contratado ou destacado dos quadros da Direcção-Geral dos Serviços Florestais e Aquícolas, para qualquer das categorias, por despacho do Secretário de Estado da Agricultura.
 
 2. Observar-se-á, relativamente ao pessoal destacado, o disposto nos §§ 1.º e 2.º do artigo 57.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956.
 
 3. O pessoal a contratar deverá possuir as habilitações literárias exigidas no mapa n.º 2 anexo ao diploma citado no número anterior e no artigo 25.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, mas, para os lugares de categorias não compreendidas no referido mapa, poderá o Secretário de Estado da Agricultura fixar, por despacho, as habilitações a exigir, sem prejuízo do disposto no último daqueles preceitos.
 
-###### Art. 23.º Quando as necessidades de serviço o justifiquem, poderá ser contratado ou assalariado pessoal eventual além do quadro, mediante despacho do Secretário de Estado da Agricultura e com o acordo, no primeiro caso, do Ministro das Finanças.
+Art. 23.º Quando as necessidades de serviço o justifiquem, poderá ser contratado ou assalariado pessoal eventual além do quadro, mediante despacho do Secretário de Estado da Agricultura e com o acordo, no primeiro caso, do Ministro das Finanças.
 
-###### Art. 24.º - 1. O director poderá propor superiormente a realização, em regime de prestação de serviços, de estudos e outros trabalhos de carácter eventual que se mostrem necessárias para o bom funcionamento do Parque ou para o objectivo geral de protecção da Natureza e dos seus recursos.
+Art. 24.º - 1. O director poderá propor superiormente a realização, em regime de prestação de serviços, de estudos e outros trabalhos de carácter eventual que se mostrem necessárias para o bom funcionamento do Parque ou para o objectivo geral de protecção da Natureza e dos seus recursos.
 
 2. A duração, termos e remuneração da prestação dos serviços previstos no número anterior serão fixados por despacho do Secretário de Estado da Agricultura.
 
-###### Art. 25.º - 1. As funções de polícia e fiscalização do Parque competem, em especial, ao pessoal dirigente e técnico e aos guardas incluídos no quadro anexo ao presente diploma.
+Art. 25.º - 1. As funções de polícia e fiscalização do Parque competem, em especial, ao pessoal dirigente e técnico e aos guardas incluídos no quadro anexo ao presente diploma.
 
 2. Para o exercício dessas funções, são atribuídos ao pessoal a que se refere o número anterior os poderes, deveres e garantias do pessoal da polícia florestal.
 
 3. Os guardas usarão uniforme especial, a aprovar em portaria do Secretário de Estado da Agricultura.
 
-###### Art. 26.º Constitui contravenção:
+Art. 26.º Constitui contravenção:
 
 a) A realização de quaisquer trabalhos, obras ou actividades, em terrenos abrangidos no Parque, sem autorização da comissão administrativa, quando regulamentarmente exigida, ou com inobservância das condições impostas ou dos projectos aprovados;
 
@@ -254,7 +281,7 @@ j) O exercício de caça ou de pesca nos terrenos do Parque sem a licença exigi
 
 l) A entrada no Parque sem o pagamento da taxa devida.
 
-###### Art. 27.º - 1. As contravenções previstas no artigo anterior são punidas com multa:
+Art. 27.º - 1. As contravenções previstas no artigo anterior são punidas com multa:
 
 a) De 500$00 a 10000$00, as das alíneas a), b) e d) e a instalação de locais de campismo prevista na alínea c);
 
@@ -270,13 +297,13 @@ f) De 100$00, a da alínea l).
 
 2. A aplicação de multa pela contravenção prevista na alínea a) do artigo anterior não prejudica a obrigação de o infractor demolir as obras ou trabalhos efectuados, quando não possam ser autorizados.
 
-###### Art. 28.º Os autos de notícia por infracções ao disposto no presente diploma serão levantados e processados nos termos estabelecidos no Regulamento do Serviço da Polícia Florestal, com observância, porém, do disposto na alínea c) do n.º 1 do artigo 20.º
+Art. 28.º Os autos de notícia por infracções ao disposto no presente diploma serão levantados e processados nos termos estabelecidos no Regulamento do Serviço da Polícia Florestal, com observância, porém, do disposto na alínea c) do n.º 1 do artigo 20.º
 
-###### Art. 29.º O Parque é obrigado a indemnizar os danos causados pelos animais bravios nele existentes, quer nos terrenos compreendidos no seu perímetro e pertencentes a outrem, quer nos terrenos vizinhos.
+Art. 29.º O Parque é obrigado a indemnizar os danos causados pelos animais bravios nele existentes, quer nos terrenos compreendidos no seu perímetro e pertencentes a outrem, quer nos terrenos vizinhos.
 
-###### Art. 30.º A comissão administrativa elaborará no prazo de doze meses o plano director do Parque, do qual deverão constar, além do mais, os trabalhos de estrutura e valorização a realizar.
+Art. 30.º A comissão administrativa elaborará no prazo de doze meses o plano director do Parque, do qual deverão constar, além do mais, os trabalhos de estrutura e valorização a realizar.
 
-###### Art. 31.º Até à entrada em vigor do decreto que defina as zonas de reserva do Parque e estabeleça as adequadas servidões e restrições administrativas, fica dependente de autorização da comissão administrativa a realização nos terrenos compreendidos no Parque dos seguintes trabalhos ou actividades:
+Art. 31.º Até à entrada em vigor do decreto que defina as zonas de reserva do Parque e estabeleça as adequadas servidões e restrições administrativas, fica dependente de autorização da comissão administrativa a realização nos terrenos compreendidos no Parque dos seguintes trabalhos ou actividades:
 
 a) A instalação e o exercício de novas actividades comerciais ou industriais, bem como a ampliação dos locais das já instaladas;
 
@@ -286,29 +313,29 @@ c) A construção ou demolição de edifícios e a alteração do seu exterior;
 
 d) A captação e o desvio de águas.
 
-###### Art. 32.º As despesas emergentes da execução do presente diploma que não sejam cobertas pelas receitas próprias do Parque serão suportadas pelo Fundo Especial da Caça e Pesca.
+Art. 32.º As despesas emergentes da execução do presente diploma que não sejam cobertas pelas receitas próprias do Parque serão suportadas pelo Fundo Especial da Caça e Pesca.
 
-###### Art. 33.º Serão aprovados em portaria do Secretário de Estado da Agricultura os sinais indicativos de proibições, permissões ou condicionamentos previstos neste decreto, para os quais não existem já modelos legalmente estabelecidos.
+Art. 33.º Serão aprovados em portaria do Secretário de Estado da Agricultura os sinais indicativos de proibições, permissões ou condicionamentos previstos neste decreto, para os quais não existem já modelos legalmente estabelecidos.
 
-###### Art. 34.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, quando se trate de questões de natureza financeira.
+Art. 34.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, quando se trate de questões de natureza financeira.
 
 Marcello Caetano - João Augusto Dias Rosas - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 26 de Abril de 1971.**
+Promulgado em 26 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro anexo ao Decreto n.º 187/71
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10800/06570661.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10800/06570661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10800/06570661.pdf)
 
 ## Anexo ao Decreto n.º 187/71 — Limite exterior do Parque Nacional da Peneda-Gerês
 
 O limite exterior começa no marco de fronteira n.º 2, segue para a curva da estrada nacional n.º 202-3, no sítio denominado Solar dos Mouros; estrada nacional n.º 202-3 até ao Porto Ribeiro; estradão do Batateiro; caminho florestal do Batateiro às Lamas do Vez; caminho florestal das Lamas do Vez ao Mezio, por Alto da Peneda, Lordelo, Vilela Seca e Lombadinha; estrada nacional n.º 202 até Soajo; caminho municipal do Soajo até à estrada de Cidadelhe; estrada desde o cruzamento anterior até à ponte sobre o rio Tamente; rio Tamente, rio da Fervença, rio da Fraga, Corga do Murzeiro e rio de Bergaço até à divisão dos concelhos de Ponte da Barca e de Terras de Bouro, perto de Bergaço; divisão dos concelhos até ao marco geodésico da Louriça; rio de Furnas até à barragem de Vilarinho das Furnas; barragem de Vilarinho das Furnas; caminho florestal da Bouça da Mó ao Cruzeiro do Campo do Gerês; estrada da Companhia Portuguesa de Electricidade até à estrada nacional n.º 304, perto de Covide; estrada nacional n.º 304, ponte do Gerês sobre a barragem de Caniçada, barragens e rio Cávado até ao encontro com o ribeiro da Lama Chã a oeste de Sezelhe; ribeiro da Lama Chã até ao marco de fronteira n.º 121 e limite do País desde o marco de fronteira n.º 121 até ao marco de fronteira n.º 2, onde se começou a delimitação.
 
-**O Ministro da Economia, João Augusto Dias Rosas. - O Subsecretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Ministro da Economia, João Augusto Dias Rosas. - O Subsecretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.
 
 SECRETARIA DE ESTADO DA AGRICULTURA
 
@@ -316,6 +343,6 @@ DIRECÇÃO-GERAL DOS SERVIÇOS FLORESTAIS E AQUICOLAS
 
 PARQUE NACIONAL DA PENEDA-GERES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10800/06570661.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10800/06570661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10800/06570661.pdf)
 
-**O Ministro da Economia, João Augusto Dias Rosas. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Ministro da Economia, João Augusto Dias Rosas. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

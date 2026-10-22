@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1972-291666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e68e9b8d3d2ba35703eff038962ed54112c501a25e7462b9019e64b4b79bc7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4735dd0b89ce8053448243b8039fc9cc53f2c243684daf8d82f7396fb64f390
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:59Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +88,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Serviços
 
-###### Artigo 1.º O Secretariado Nacional da Emigração compreende os seguintes serviços:
+Artigo 1.º O Secretariado Nacional da Emigração compreende os seguintes serviços:
 
 a) Gabinete de Estudos e Relações Públicas;
 
@@ -102,19 +102,19 @@ Serviços de inspecção;
 
 c) Direcção dos Serviços de Migração, com duas divisões:
 
-##### Divisão das Migrações Interterritoriais;
+Divisão das Migrações Interterritoriais;
 
 ##### Divisão da Emigração;
 
 d) Direcção dos Serviços de Assistência e Acção Cultural, com duas divisões:
 
-##### Divisão de Acção Interna;
+Divisão de Acção Interna;
 
-##### Divisão de Acção Externa;
+Divisão de Acção Externa;
 
 e) Serviços externos.
 
-###### Art. 2.º - 1. O Gabinete de Estudos e Relações Públicas é orientado por um director e tem por função realizar os estudos necessários à boa execução dos serviços do Secretariado e apoiar estes nos domínios da consulta jurídica, económica e sociológica, assim como estabelecer e assegurar os necessários contactos para a eficiente realização das suas relações públicas.
+Art. 2.º - 1. O Gabinete de Estudos e Relações Públicas é orientado por um director e tem por função realizar os estudos necessários à boa execução dos serviços do Secretariado e apoiar estes nos domínios da consulta jurídica, económica e sociológica, assim como estabelecer e assegurar os necessários contactos para a eficiente realização das suas relações públicas.
 
 2. Compete-lhe, assim, especialmente:
 
@@ -148,7 +148,7 @@ o) Elaborar programas destinados a esclarecer o País quanto aos problemas levan
 
 p) Manter um serviço permanente de informações ao público.
 
-###### Art. 3.º - 1. A Divisão dos Serviços Centrais é orientada por um chefe de divisão, o qual chefiará directamente a secretaria.
+Art. 3.º - 1. A Divisão dos Serviços Centrais é orientada por um chefe de divisão, o qual chefiará directamente a secretaria.
 
 2. Compete, em geral, à Divisão dos Serviços Centrais:
 
@@ -170,7 +170,7 @@ h) Apoiar os demais serviços do Secretariado, especialmente na realização de 
 
 i) Assegurar o expediente da Comissão Interministerial para os Assuntos da Emigração.
 
-###### Art. 4.º - 1. A secretaria compreende três secções:
+Art. 4.º - 1. A secretaria compreende três secções:
 
 a) Pessoal;
 
@@ -204,7 +204,7 @@ e) Elaborar as contas anuais;
 
 f) Proceder, em geral, a todas as operações de tesouraria não especificadas.
 
-###### Art. 5.º - 1. Os serviços médicos são dirigidos por um médico com a categoria de inspector-chefe.
+Art. 5.º - 1. Os serviços médicos são dirigidos por um médico com a categoria de inspector-chefe.
 
 2. Compete-lhes especialmente:
 
@@ -220,7 +220,7 @@ e) Colaborar com a Divisão de Acção Interna nos cursos de preparação ambien
 
 f) Colaborar com a Divisão de Acção Externa, através de inspecções periódicas aos núcleos de portugueses radicados no estrangeiro, a fim de sugerir quanto houverem por conveniente para a melhoria das condições de habitação, saúde e higiene verificadas.
 
-###### Art. 6.º - 1. Os serviços de inspecção são dirigidos por um inspector-chefe.
+Art. 6.º - 1. Os serviços de inspecção são dirigidos por um inspector-chefe.
 
 2. Compete-lhes especialmente:
 
@@ -238,7 +238,7 @@ f) Colaborar com a Direcção dos Serviços de Assistência e Acção Cultural n
 
 3. A fiscalização do cumprimento das leis, regulamentos e normas contratuais relativos à emigração exercer-se-á em todo o território nacional e, de modo especial, nos portos, aeroportos e postos de fronteira terrestre, durante o transporte dos emigrantes, e nos pontos de escala, lugares e países de destino.
 
-###### Art. 7.º - 1. A Direcção dos Serviços de Migração é orientada por um director de serviços, o qual chefiará directamente uma das respectivas divisões.
+Art. 7.º - 1. A Direcção dos Serviços de Migração é orientada por um director de serviços, o qual chefiará directamente uma das respectivas divisões.
 
 2. Competir-lhe-á em geral:
 
@@ -266,7 +266,7 @@ l) Superintender em tudo quanto se relacione com o transporte dos trabalhadores 
 
 m) Informar quanto à necessidade de criação de delegações em território nacional e propor a criação de subdelegações.
 
-###### Art. 8.º À Divisão das Migrações Interterritoriais compete em especial:
+Art. 8.º À Divisão das Migrações Interterritoriais compete em especial:
 
 a) Informar e orientar os interessados em ir trabalhar nas províncias ultramarinas, organizar os respectivos processos individuais e intervir na obtenção de toda a documentação necessária;
 
@@ -278,7 +278,7 @@ d) Incentivar, designadamente através de eventual ajuda financeira e de acção
 
 e) Estabelecer, manter e desenvolver os necessários contactos com os organismos competentes em matéria de colocação e emprego nas províncias ultramarinas e com as entidades patronais respectivas, no sentido de incentivar o envio de pessoal especializado para o preenchimento dos lugares técnicos e administrativos das empresas com sede nas referidas províncias ultramarinas.
 
-###### Art. 9.º - 1. A Divisão da Emigração compreende três secções:
+Art. 9.º - 1. A Divisão da Emigração compreende três secções:
 
 a) Recrutamento;
 
@@ -316,7 +316,7 @@ f) Colaborar nas repatriações e processar o expediente relativo ao pagamento d
 
 g) Tratar dos assuntos respeitantes aos passaportes dos emigrantes.
 
-###### Art. 10.º - 1. A Direcção dos Serviços de Assistência e Acção Cultural é orientada por um director de serviços, que dirigirá directamente uma das respectivas divisões.
+Art. 10.º - 1. A Direcção dos Serviços de Assistência e Acção Cultural é orientada por um director de serviços, que dirigirá directamente uma das respectivas divisões.
 
 2. À Direcção de Serviços compete em geral:
 
@@ -342,7 +342,7 @@ j) Informar sobre a criação de delegações em país estrangeiro.
 
 3. Para o desempenho das funções relacionadas com a segurança social dos emigrantes poderá ser solicitada a colaboração da Caixa Central de Segurança Social dos Trabalhadores Migrantes.
 
-###### Art. 11.º - 1. A Divisão de Acção Interna compreende duas secções: assistência e serviço social e assistência económica.
+Art. 11.º - 1. A Divisão de Acção Interna compreende duas secções: assistência e serviço social e assistência económica.
 
 2. À secção de assistência e serviço social compete em especial:
 
@@ -372,7 +372,7 @@ c) Informar e orientar os emigrantes e seus familiares no que respeita à aplica
 
 d) Elaborar todo o expediente relativo à concessão do crédito aos emigrantes e seus familiares mais carecidos de recursos, nos casos e nos termos determinados na lei.
 
-###### Art. 12.º - 1. A Divisão de Acção Externa compreende duas secções: assistência e serviço social e acção cultural.
+Art. 12.º - 1. A Divisão de Acção Externa compreende duas secções: assistência e serviço social e acção cultural.
 
 2. À secção de assistência e serviço social compete especialmente:
 
@@ -398,7 +398,7 @@ e) Manter o contacto com os emigrantes e fomentar, em colaboração com quaisque
 
 f) Propor as providências necessárias para fortalecer a ligação dos emigrantes e seus familiares com a sua pátria e a sua cultura.
 
-###### Art. 13.º - 1. As delegações em território nacional exercerão na área da sua competência territorial as funções que lhe forem atribuídas por lei ou por determinação do secretário nacional.
+Art. 13.º - 1. As delegações em território nacional exercerão na área da sua competência territorial as funções que lhe forem atribuídas por lei ou por determinação do secretário nacional.
 
 2. Competir-lhes-á em especial:
 
@@ -414,9 +414,9 @@ e) Informar o secretário nacional sobre os problemas que surjam no seu âmbito 
 
 f) Desempenhar quaisquer outras funções que lhe sejam solicitadas pelos serviços do Secretariado.
 
-###### Art. 14.º As delegações, em território nacional ou no estrangeiro, dependerão do secretário nacional, mas nos assuntos de carácter administrativo e técnico corresponder-se-ão directamente com os respectivos serviços.
+Art. 14.º As delegações, em território nacional ou no estrangeiro, dependerão do secretário nacional, mas nos assuntos de carácter administrativo e técnico corresponder-se-ão directamente com os respectivos serviços.
 
-###### Art. 15.º - 1. As delegações em país estrangeiro exercerão as funções que lhe forem atribuídas por lei ou por determinação do secretário nacional, sem prejuízo da orientação das autoridades diplomáticas ou consulares portuguesas.
+Art. 15.º - 1. As delegações em país estrangeiro exercerão as funções que lhe forem atribuídas por lei ou por determinação do secretário nacional, sem prejuízo da orientação das autoridades diplomáticas ou consulares portuguesas.
 
 2. Competir-lhes-á especialmente:
 
@@ -432,15 +432,15 @@ e) Propor medidas tendentes à sua promoção cultural e profissional no país d
 
 f) Diligenciar junto das instituições competentes com vista a incentivar e facilitar as transferências das economias dos emigrantes para Portugal.
 
-###### Art. 16.º As funções não atribuídas no presente diploma a qualquer dos serviços do Secretariado serão distribuídas por despacho do secretário nacional ao serviço com o qual tiverem maior afinidade.
+Art. 16.º As funções não atribuídas no presente diploma a qualquer dos serviços do Secretariado serão distribuídas por despacho do secretário nacional ao serviço com o qual tiverem maior afinidade.
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 17.º - 1. O provimento dos lugares de nomeação será feito pelo Presidente do Conselho, sob proposta do secretário nacional.
+Art. 17.º - 1. O provimento dos lugares de nomeação será feito pelo Presidente do Conselho, sob proposta do secretário nacional.
 
 2. O provimento dos lugares a efectuar por contrato ou assalariamento será feito pelo secretário nacional.
 
-###### Art. 18.º - 1. O provimento dos lugares do quadro de pessoal das delegações do Secretariado em país estrangeiro poderá ser feito:
+Art. 18.º - 1. O provimento dos lugares do quadro de pessoal das delegações do Secretariado em país estrangeiro poderá ser feito:
 
 a) Em funcionários, do Secretariado, pelo período de um ano renovável;
 
@@ -450,57 +450,57 @@ c) Por contrato.
 
 2. Quando o provimento for feito nos termos da alínea a) do número anterior, o lugar que o funcionário desempenhar no quadro poderá ser provido interinamente.
 
-###### Art. 19.º Os lugares de adjunto do secretário nacional, director de serviços, chefe de divisão, director e técnico de 2.ª classe do Gabinete de Estudos e Relações Públicas e inspector-chefe serão providos, por escolha, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 19.º Os lugares de adjunto do secretário nacional, director de serviços, chefe de divisão, director e técnico de 2.ª classe do Gabinete de Estudos e Relações Públicas e inspector-chefe serão providos, por escolha, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 20.º - 1. Os lugares de técnico especialista e técnico de 1.ª classe do Gabinete de Estudos e Relações Públicas serão providos, por escolha, entre técnicos de 1.ª classe e técnicos de 2.ª classe do mesmo Gabinete, respectivamente com um mínimo de três anos na correspondente categoria e classificação de serviço não inferior a Bom.
-
-2. No caso de classificação de Muito bom durante dois anos consecutivos, o prazo mínimo referido no número anterior é reduzido a dois anos.
-
-###### Art. 21.º Os lugares de médico serão providos, por concurso documental, em diplomados inscritos na Ordem dos Médicos.
-
-###### Art. 22.º - 1. Os lugares de inspector de 1.ª classe serão providos, por escolha, entre os inspectores de 2.ª classe que tenham classificação de serviço não inferior a Bom e um mínimo de três anos na respectiva categoria.
+Art. 20.º - 1. Os lugares de técnico especialista e técnico de 1.ª classe do Gabinete de Estudos e Relações Públicas serão providos, por escolha, entre técnicos de 1.ª classe e técnicos de 2.ª classe do mesmo Gabinete, respectivamente com um mínimo de três anos na correspondente categoria e classificação de serviço não inferior a Bom.
 
 2. No caso de classificação de Muito bom durante dois anos consecutivos, o prazo mínimo referido no número anterior é reduzido a dois anos.
 
-###### Art. 23.º - 1. Os lugares de inspector de 2.ª classe serão providos, por concurso de prestação de provas, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 21.º Os lugares de médico serão providos, por concurso documental, em diplomados inscritos na Ordem dos Médicos.
+
+Art. 22.º - 1. Os lugares de inspector de 1.ª classe serão providos, por escolha, entre os inspectores de 2.ª classe que tenham classificação de serviço não inferior a Bom e um mínimo de três anos na respectiva categoria.
+
+2. No caso de classificação de Muito bom durante dois anos consecutivos, o prazo mínimo referido no número anterior é reduzido a dois anos.
+
+Art. 23.º - 1. Os lugares de inspector de 2.ª classe serão providos, por concurso de prestação de provas, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
 
 2. Nos programas dos concursos deverão ser incluídas provas teóricas e práticas demonstrativas de conhecimentos adequados de francês e inglês.
 
-###### Art. 24.º - 1. Os lugares de técnico de serviço social de 1.ª classe serão providos, por escolha, entre técnicos de serviço social de 2.ª classe que tenham classificação de serviço não inferior a Bom e um mínimo de três anos na categoria.
+Art. 24.º - 1. Os lugares de técnico de serviço social de 1.ª classe serão providos, por escolha, entre técnicos de serviço social de 2.ª classe que tenham classificação de serviço não inferior a Bom e um mínimo de três anos na categoria.
 
 2. No caso de classificação de Muito bom durante dois anos consecutivos, o prazo mínimo referido no número anterior é reduzido a dois anos.
 
-###### Art. 25.º Os lugares de técnico de serviço social de 2.ª classe serão providos, por concurso documental, em indivíduos com o curso de assistente social e conhecimentos adequados de francês e inglês ou alemão, a comprovar mediante a prestação de provas práticas.
+Art. 25.º Os lugares de técnico de serviço social de 2.ª classe serão providos, por concurso documental, em indivíduos com o curso de assistente social e conhecimentos adequados de francês e inglês ou alemão, a comprovar mediante a prestação de provas práticas.
 
-###### Art. 26.º O lugar de tradutor-correspondente-intérprete será provido, por concurso de prestação de provas, em indivíduo que possua pelo menos a habilitação do 2.º ciclo do ensino liceal ou equiparado e fale e escreva correctamente duas ou mais línguas estrangeiras.
+Art. 26.º O lugar de tradutor-correspondente-intérprete será provido, por concurso de prestação de provas, em indivíduo que possua pelo menos a habilitação do 2.º ciclo do ensino liceal ou equiparado e fale e escreva correctamente duas ou mais línguas estrangeiras.
 
-###### Art. 27.º - 1. Os lugares de chefe de secção serão providos, por escolha, em diplomados com curso superior adequado ou entre primeiros-oficiais do quadro do Secretariado com qualidades de chefia, o mínimo de três anos na categoria e informação de serviço não inferior a Bom.
+Art. 27.º - 1. Os lugares de chefe de secção serão providos, por escolha, em diplomados com curso superior adequado ou entre primeiros-oficiais do quadro do Secretariado com qualidades de chefia, o mínimo de três anos na categoria e informação de serviço não inferior a Bom.
 
 2. No caso de classificação de Muito bom durante dois anos consecutivos, o prazo mínimo referido no número anterior é reduzido a dois anos.
 
 3. Serão obrigatòriamente desempenhados por diplomados com curso superior adequado os lugares de chefe das secções de assistência económica e acção cultural e por diplomados com o curso de assistente social os chefes de secção de assistência social.
 
-###### Art. 28.º - 1. As promoções aos lugares de primeiro-oficial e segundo-oficial e escriturário-dactilógrafo de 1.ª classe serão efectuadas por concurso de prestação de provas, ao qual serão admitidos os funcionários do Secretariado da categoria imediatamente inferior.
+Art. 28.º - 1. As promoções aos lugares de primeiro-oficial e segundo-oficial e escriturário-dactilógrafo de 1.ª classe serão efectuadas por concurso de prestação de provas, ao qual serão admitidos os funcionários do Secretariado da categoria imediatamente inferior.
 
 2. Nos concursos atender-se-á não só ao resultado das provas prestadas, mas também à classificação de serviço e à antiguidade, conforme critérios a estabelecer em regulamento a aprovar por despacho do Presidente do Conselho, sob proposta do secretário nacional.
 
-###### Art. 29.º Os lugares de motorista de 2.ª classe serão providos por escolha nos termos da lei geral.
+Art. 29.º Os lugares de motorista de 2.ª classe serão providos por escolha nos termos da lei geral.
 
-###### Art. 30.º - 1. Funcionará no Secretariado um conselho de classificação constituído pelo adjunto do secretário nacional, que presidirá, pelo director do Gabinete de Estudos e Relações Públicas, pelos directores de serviços e pelos chefes de divisão.
+Art. 30.º - 1. Funcionará no Secretariado um conselho de classificação constituído pelo adjunto do secretário nacional, que presidirá, pelo director do Gabinete de Estudos e Relações Públicas, pelos directores de serviços e pelos chefes de divisão.
 
 2. Às reuniões do conselho de classificação, que serão secretariadas pelo chefe de Divisão dos Serviços Centrais, poderão assistir, a título meramente consultivo, outros funcionários que exerçam funções de chefia ou técnicas.
 
-###### Art. 31.º Ao conselho de classificação compete proceder, anualmente, à classificação de serviço de todo o pessoal do Secretariado.
+Art. 31.º Ao conselho de classificação compete proceder, anualmente, à classificação de serviço de todo o pessoal do Secretariado.
 
-###### Art. 32.º - 1. A classificação a que se refere o artigo anterior dependerá da aprovação, pelo secretário nacional, da proposta apresentada pelo conselho de classificação.
+Art. 32.º - 1. A classificação a que se refere o artigo anterior dependerá da aprovação, pelo secretário nacional, da proposta apresentada pelo conselho de classificação.
 
 2. Esta classificação terá por base as informações a prestar pelos superiores directos de cada funcionário e os pareceres sobre eles emitidos pelos respectivos chefes, em termos e segundo critérios a propor pelo secretário nacional e a homologar por despacho do Presidente do Conselho.
 
-###### Art. 33.º Da classificação de cada categoria será dado conhecimento a todos os funcionários dessa categoria.
+Art. 33.º Da classificação de cada categoria será dado conhecimento a todos os funcionários dessa categoria.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 34.º - 1. No prazo de seis meses a contar da data do presente diploma será aberto concurso extraordinário para o preenchimento dos lugares de inspector de 1.ª classe, ao qual sòmente serão admitidos os inspectores do quadro e os contratados à data da sua publicação.
+Art. 34.º - 1. No prazo de seis meses a contar da data do presente diploma será aberto concurso extraordinário para o preenchimento dos lugares de inspector de 1.ª classe, ao qual sòmente serão admitidos os inspectores do quadro e os contratados à data da sua publicação.
 
 2. Os termos deste concurso serão estabelecidos por despacho do Presidente do Conselho, sob proposta do secretário nacional.
 
@@ -510,20 +510,20 @@ c) Por contrato.
 
 5. Os inspectores contratados que não tenham concorrido ou não tenham obtido aprovação no concurso e não tenham as habilitações literárias exigidas pelo n.º 1 do artigo 23.º poderão ser admitidos aos concursos para inspectores de 2.ª classe efectuados durante três anos a partir da data do presente diploma.
 
-###### Art. 35.º Ao primeiro concurso para o preenchimento dos lugares vagos de médico do quadro do Secretariado apenas podem ser admitidos os médicos que actualmente exerçam as funções de inspectores do quadro do Secretariado e os médicos contratados à data da publicação do presente diploma.
+Art. 35.º Ao primeiro concurso para o preenchimento dos lugares vagos de médico do quadro do Secretariado apenas podem ser admitidos os médicos que actualmente exerçam as funções de inspectores do quadro do Secretariado e os médicos contratados à data da publicação do presente diploma.
 
-###### Art. 36.º No primeiro provimento dos lugares de pessoal administrativo do quadro do Secretariado que for entendido conveniente preencher desde já, e quando se não tornar possível observar o disposto nos artigos 27.º e 28.º, poderão adoptar-se as normas constantes dos artigos 37.º a 39.º
+Art. 36.º No primeiro provimento dos lugares de pessoal administrativo do quadro do Secretariado que for entendido conveniente preencher desde já, e quando se não tornar possível observar o disposto nos artigos 27.º e 28.º, poderão adoptar-se as normas constantes dos artigos 37.º a 39.º
 
-###### Art. 37.º Enquanto não tiver lugar o primeiro concurso de prestação de provas, os lugares de primeiro-oficial, segundo-oficial e terceiro-oficial e escriturário-dactilógrafo de 1.ª classe poderão ser providos, sob proposta fundamentada do secretário nacional, nos funcionários do Secretariado da categoria imediatamente inferior que tenham as habilitações legais para os respectivos cargos, um mínimo de três anos de serviço no Secretariado como pessoal eventual ou do quadro e hajam dado provas relevantes de competência e dedicação pelo serviço.
+Art. 37.º Enquanto não tiver lugar o primeiro concurso de prestação de provas, os lugares de primeiro-oficial, segundo-oficial e terceiro-oficial e escriturário-dactilógrafo de 1.ª classe poderão ser providos, sob proposta fundamentada do secretário nacional, nos funcionários do Secretariado da categoria imediatamente inferior que tenham as habilitações legais para os respectivos cargos, um mínimo de três anos de serviço no Secretariado como pessoal eventual ou do quadro e hajam dado provas relevantes de competência e dedicação pelo serviço.
 
-###### Art. 38.º Na falta de primeiros-oficiais qualificados para serem nomeados chefes de secção, estes poderão, ouvido o conselho de classificação, ser escolhidos entre os actuais segundos-oficiais que hajam dado provas relevantes de competência e dedicação ao serviço e qualidades de chefia e tenham mais de oito anos de serviço nos quadros do Secretariado.
+Art. 38.º Na falta de primeiros-oficiais qualificados para serem nomeados chefes de secção, estes poderão, ouvido o conselho de classificação, ser escolhidos entre os actuais segundos-oficiais que hajam dado provas relevantes de competência e dedicação ao serviço e qualidades de chefia e tenham mais de oito anos de serviço nos quadros do Secretariado.
 
-###### Art. 39.º Na falta de segundos-oficiais devidamente qualificados para serem promovidos a primeiros-oficiais, os lugares vagos nesta última categoria poderão ser providos, ouvido o conselho de classificação, entre os actuais terceiros-oficiais que hajam dado provas relevantes de competência e dedicação ao serviço e tenham mais de oito anos de serviço nos quadros do Secretariado.
+Art. 39.º Na falta de segundos-oficiais devidamente qualificados para serem promovidos a primeiros-oficiais, os lugares vagos nesta última categoria poderão ser providos, ouvido o conselho de classificação, entre os actuais terceiros-oficiais que hajam dado provas relevantes de competência e dedicação ao serviço e tenham mais de oito anos de serviço nos quadros do Secretariado.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Janeiro de 1972.**
+Promulgado em 12 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

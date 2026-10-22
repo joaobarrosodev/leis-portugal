@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/26700/22062210.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10c84777570b803bdb4b7e88d4271ded24e371e40b54b26d21126c85a5df995e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b23d579c430000ecc67f8a73da7bc4369269e21788b591bf61844786293f8aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de ALTA Cultura
+- Ministério da Educação Nacional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:300396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409371:por
+  label: "Alterada a al. a) do nº1 do art. 19º pelo DEC LEI.753/76.19.10.1976.MEIC, DR.IS [245] de 19.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/753-1976-409371
+  date: '1976-10-19'
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300396:por
+  label: "Revogado, a partir de 20.07.1992, pelo DEC LEI.135/92.15.07.1992.ME, DR.IS-A [161] de 15.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1992-300396
+  date: '1992-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:17Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +132,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I - Das atribuições e competência
 
-###### Artigo 1.º - 1. O Instituto de Alta Cultura é uma pessoa colectiva de direito público que faz parte do Ministério da Educação Nacional e à qual incumbe:
+Artigo 1.º - 1. O Instituto de Alta Cultura é uma pessoa colectiva de direito público que faz parte do Ministério da Educação Nacional e à qual incumbe:
 
 a) Contribuir, no âmbito do Ministério, para a formulação da política científica e promover, fomentar e coordenar as actividades de investigação nos várias domínios da ciência, designadamente através da promoção de intercâmbio científico, da criação, manutenção e auxílio a institutos e outras unidades de investigação e, ainda, da concessão de bolsas e subsídios de estudo destinados ao fomento da investigação e à formação de investigadores e docentes do ensino superior;
 
@@ -114,7 +140,7 @@ b) Promover e fomentar o ensino e a difusão da língua e cultura portuguesas na
 
 2. Em ordem a colaborar na formulação e execução da política científica nacional compete ao Instituto de Alta Cultura promover a necessária articulação com a Junta Nacional de Investigação Científica e Tecnológica.
 
-###### Art. 2.º Na prossecução das finalidades enunciadas no artigo anterior, compete especialmente ao Instituto de Alta Cultura:
+Art. 2.º Na prossecução das finalidades enunciadas no artigo anterior, compete especialmente ao Instituto de Alta Cultura:
 
 1. No campo da investigação científica:
 
@@ -152,11 +178,11 @@ d) Patrocinar e subsidiar reuniões e missões, no País ou no estrangeiro, rela
 
 e) Promover ou estimular a tradução e a publicação de obras e trabalhos que sejam expressão da cultura portuguesa.
 
-###### Art. 3.º O Instituto de Alta Cultura goza de autonomia administrativa e financeira.
+Art. 3.º O Instituto de Alta Cultura goza de autonomia administrativa e financeira.
 
 II - Dos Órgãos e serviços
 
-###### Art. 4.º - 1. O Instituto de Alta Cintura compreende os seguintes órgãos e serviços:
+Art. 4.º - 1. O Instituto de Alta Cintura compreende os seguintes órgãos e serviços:
 
 I - órgãos:
 
@@ -184,7 +210,7 @@ f) Repartição Administrativa.
 
 2. A coordenação dos serviços do Instituto e a sua articulação com os conselhos geral e consultivo serão asseguradas por um secretário, de acordo com a orientação do presidente.
 
-###### Art. 5.º - 1. Ao presidente compete dirigir superiormente o Instituto, orientar e coordenar as suas actividades, imprimindo-lhes unidade, continuidade e eficiência, e ainda:
+Art. 5.º - 1. Ao presidente compete dirigir superiormente o Instituto, orientar e coordenar as suas actividades, imprimindo-lhes unidade, continuidade e eficiência, e ainda:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -202,7 +228,7 @@ e) Submeter a despacho ministerial os assuntos que careçam de resolução super
 
 4. O presidente será coadjuvado por dois vice-presidentes, nos quais poderá delegar algumas das suas atribuições, designando aquele que o deverá substituir nas suas faltas e impedimentos.
 
-###### Art. 6.º - 1. Ao conselho geral compete:
+Art. 6.º - 1. Ao conselho geral compete:
 
 a) Propor a definição dos domínios prioritários das actividades de investigação científica fundamental, aplicada e de desenvolvimento experimental no ensino superior, no quadro da política científica nacional;
 
@@ -224,7 +250,7 @@ i) Propor outras iniciativas que considere necessárias à prossecução dos fin
 
 2. O conselho geral reunirá obrigatoriamente quatro vezes por ano e, extraordinariamente, sempre que convocado pelo presidente.
 
-###### Art. 7.º - 1. O conselho geral é constituído pelo presidente, pelos dois vice-presidentes e pelos presidentes dos conselhos consultivos.
+Art. 7.º - 1. O conselho geral é constituído pelo presidente, pelos dois vice-presidentes e pelos presidentes dos conselhos consultivos.
 
 2. Do conselho geral farão ainda parte um representante da Junta de Investigações do Ultramar e de cada uma das Direcções-Gerais do Ensino Superior e dos Assuntos Culturais.
 
@@ -234,7 +260,7 @@ i) Propor outras iniciativas que considere necessárias à prossecução dos fin
 
 5. O secretário do Instituto assiste às reuniões do conselho geral, mas sem direito de voto.
 
-###### Art. 8.º - 1. Os conselhos consultivos são órgãos de apoio, aos quais compete pronunciar-se sobre o mérito científico dos projectos ou dos programas de investigação que forem submetidos à sua apreciação pelo presidente ou pelo conselho geral do Instituto.
+Art. 8.º - 1. Os conselhos consultivos são órgãos de apoio, aos quais compete pronunciar-se sobre o mérito científico dos projectos ou dos programas de investigação que forem submetidos à sua apreciação pelo presidente ou pelo conselho geral do Instituto.
 
 2. Serão criados conselhos consultivos, no âmbito da investigação científica, abrangendo as ciências humanas e sociais, as ciências exactas e tecnológicas, as ciências biológicas e médicas e ainda outras ciências naturais e agrárias e, no âmbito da difusão da língua e cultura portuguesas, abrangendo as actividades dos leitores e o intercâmbio e difusão culturais.
 
@@ -246,7 +272,7 @@ i) Propor outras iniciativas que considere necessárias à prossecução dos fin
 
 6. Sem prejuízo das atribuições cometidas aos conselhos consultivos, pode o presidente do Instituto solicitar parecer especializado a individualidades nacionais ou estrangeiras qualificadas para o efeito.
 
-###### Art. 9.º - 1. Compete ao conselho administrativo:
+Art. 9.º - 1. Compete ao conselho administrativo:
 
 a) Elaborar os projectos de orçamento;
 
@@ -260,15 +286,15 @@ d) Apresentar os relatórios e contas de gerência.
 
 3. Mediante autorização do Ministro, o presidente poderá delegar num vice-presidente a presidência do conselho administrativo.
 
-###### Art. 10.º À Divisão de Investigação Científica compete a organização dos processos relativos ao apoio e financiamento das actividades de investigação, à recolha e tratamento de dados estatísticos nacionais e internacionais, bem como apoiar o conselho geral e os conselhos consultivos, dando execução às decisões tomadas no âmbito da investigação científica.
+Art. 10.º À Divisão de Investigação Científica compete a organização dos processos relativos ao apoio e financiamento das actividades de investigação, à recolha e tratamento de dados estatísticos nacionais e internacionais, bem como apoiar o conselho geral e os conselhos consultivos, dando execução às decisões tomadas no âmbito da investigação científica.
 
-###### Art. 11.º À Divisão de Bolsas de Estudo compete organizar os processos relativos a bolsas e outros subsídios de estudo e prestar o necessário apoio aos bolseiros no estrangeiro e em particular nos domínios financeiros, de viagens e segurança social.
+Art. 11.º À Divisão de Bolsas de Estudo compete organizar os processos relativos a bolsas e outros subsídios de estudo e prestar o necessário apoio aos bolseiros no estrangeiro e em particular nos domínios financeiros, de viagens e segurança social.
 
-###### Art. 12.º À Divisão da Difusão da Língua e Cultura Portuguesas compete organizar os processos relativos aos centros ou institutos de cultura portuguesa, ocupar-se das problemas relativos a nomeação e à actividade dos leitores e dar apoio, nestes domínios, ao conselho geral e aos conselhos consultivos.
+Art. 12.º À Divisão da Difusão da Língua e Cultura Portuguesas compete organizar os processos relativos aos centros ou institutos de cultura portuguesa, ocupar-se das problemas relativos a nomeação e à actividade dos leitores e dar apoio, nestes domínios, ao conselho geral e aos conselhos consultivos.
 
-###### Art. 13.º À Divisão de Publicações compete assegurar a edição ou subsidiar a publicação de trabalhos científicos, bem como de obras da cultura portuguesa, particularmente para difusão no estrangeiro, e, ainda, a manutenção de uma biblioteca.
+Art. 13.º À Divisão de Publicações compete assegurar a edição ou subsidiar a publicação de trabalhos científicos, bem como de obras da cultura portuguesa, particularmente para difusão no estrangeiro, e, ainda, a manutenção de uma biblioteca.
 
-###### Art. 14.º À Divisão do Património e Finanças compete:
+Art. 14.º À Divisão do Património e Finanças compete:
 
 a) Organizar o inventário dos bens que façam parte do património do Instituto, assegurando a sua conservação e aproveitamento;
 
@@ -276,7 +302,7 @@ b) Apreciar os orçamentos dos organismos e projectos de investigação financia
 
 c) Elaborar o relatório anual da distribuição das verbas atribuídas à investigação científica, à difusão da língua e cultura portuguesas e a quaisquer outras actividades desenvolvidas pelo Instituto de Alta Cultura.
 
-###### Art. 15.º À Repartição Administrativa compete:
+Art. 15.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral, contabilidade e economato e de administração de pessoal do Instituto, sem prejuízo da competência da Secretaria-Geral;
 
@@ -284,7 +310,7 @@ b) Prestar apoio administrativo aos restantes serviços do Instituto.
 
 III - Das receitas e despesas
 
-###### Art. 16.º - 1. Constituem receitas do Instituto de Alta Cultura:
+Art. 16.º - 1. Constituem receitas do Instituto de Alta Cultura:
 
 a) As dotações que lhe forem consignadas no Orçamento Geral do Estado ou atribuídas pelos corpos administrativos;
 
@@ -300,19 +326,19 @@ e) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou 
 
 3. Os depósitos a que se refere o número anterior serão sempre feitos em nome do Instituto de Alta Cultura e a sua movimentação continuará isenta de imposto do selo e de prémio de transferência.
 
-###### Art. 17 - 1. Constituem despesas do Instituto as que resultarem, da execução das suas actividades, de acordo com o presente diploma.
+Art. 17 - 1. Constituem despesas do Instituto as que resultarem, da execução das suas actividades, de acordo com o presente diploma.
 
 2. A aquisição de bens pelo Instituto de Alta Cultura continuará isenta de toda e qualquer tributação.
 
 IV - Do pessoal
 
-###### Art. 18.º - 1. O Instituto de Alta Cultura dispõe de pessoal dirigente, técnico, administrativo e auxiliar constante do mapa anexo ao presente diploma, o qual faz parte dos quadros únicos do Ministério da Educação Nacional.
+Art. 18.º - 1. O Instituto de Alta Cultura dispõe de pessoal dirigente, técnico, administrativo e auxiliar constante do mapa anexo ao presente diploma, o qual faz parte dos quadros únicos do Ministério da Educação Nacional.
 
 2. O quadro referido no número anterior poderá ser alterado por decreto referendado pelos Ministros das Finanças e da Educação Nacional.
 
 3. O pessoal do Instituto será distribuído pelos respectivos serviços mediante despacho do presidente.
 
-###### Art. 19.º - 1. As formas de recrutamento e os regimes de provimento do pessoal do quadro do Instituto de Alta Cultura são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 19.º - 1. As formas de recrutamento e os regimes de provimento do pessoal do quadro do Instituto de Alta Cultura são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a} O lugar de presidente será provido, por escolha do Presidente do Conselho e do Ministro da Educação Nacional, de entre professores universitários;
 
@@ -326,54 +352,54 @@ c) O lugar de secretário será provido, por escolha do Ministro da Educação N
 
 4. O serviço prestado nos termos do número anterior será considerado, para todos os efeitos, como equiparado ao exercício da função própria.
 
-###### Art. 20.º O presidente, os vice-presidentes e os membros dos conselhos consultivos são nomeados por períodos de três anos, renováveis, podendo ser substituídos em qualquer momento.
+Art. 20.º O presidente, os vice-presidentes e os membros dos conselhos consultivos são nomeados por períodos de três anos, renováveis, podendo ser substituídos em qualquer momento.
 
-###### Art. 21.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além do quadro, pessoal técnico ou administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
+Art. 21.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além do quadro, pessoal técnico ou administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização, das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de autorização do Ministro das Finanças.
 
-###### Art. 22.º O presidente poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Instituto, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+Art. 22.º O presidente poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Instituto, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 23.º Ao presidente, aos vice-presidentes e aos membros do conselho geral e dos conselhos consultivos serão abonadas gratificações a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional e terão direito a ajudas de custo e transportes nas termos da legislação em vigor.
+Art. 23.º Ao presidente, aos vice-presidentes e aos membros do conselho geral e dos conselhos consultivos serão abonadas gratificações a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional e terão direito a ajudas de custo e transportes nas termos da legislação em vigor.
 
 V - Disposições finais e transitórias
 
-###### Art. 24.º O regime de equiparação a bolseiro, instituído no âmbito do Ministério da Educação Nacional, determina que os docentes, investigadores ou comissionados que sejam servidores do Estado conservem todas as regalias inerentes aos seus cargos, incluindo a contagem de tempo, para todos os efeitos legais.
+Art. 24.º O regime de equiparação a bolseiro, instituído no âmbito do Ministério da Educação Nacional, determina que os docentes, investigadores ou comissionados que sejam servidores do Estado conservem todas as regalias inerentes aos seus cargos, incluindo a contagem de tempo, para todos os efeitos legais.
 
-###### Art. 25.º - 1. Enquanto não for criado um centro de documentação no Ministério da Educação Nacional que integre todos os serviços congéneres dos serviços centrais, mantém-se, no Instituto de Alta Cultura, o actual Centro de Documentação Científica.
+Art. 25.º - 1. Enquanto não for criado um centro de documentação no Ministério da Educação Nacional que integre todos os serviços congéneres dos serviços centrais, mantém-se, no Instituto de Alta Cultura, o actual Centro de Documentação Científica.
 
 2. O Centro de Documentação Científica destina-se a apoiar as actividades de ensino, de investigação científica e de serviço à comunidade das estabelecimentos de ensino e de outros organismos dependentes do Ministério da Educação Nacional, bem como de entidades públicas ou privadas.
 
 3. Durante o período de transição, a estrutura, organização e funcionamento serão estabelecidos por portaria do Ministro da Educação Nacional.
 
-###### Art. 26.º - 1. É extinta a Comissão de Estudos de Energia Nuclear, transitando o seu património para o Instituto de Alta Cultura ou para institutos ou centros de investigação dele dependentes.
+Art. 26.º - 1. É extinta a Comissão de Estudos de Energia Nuclear, transitando o seu património para o Instituto de Alta Cultura ou para institutos ou centros de investigação dele dependentes.
 
 2. O pessoal da Comissão de Estudos de Energia Nuclear manter-se-á na situação em que se encontrar à data da publicação do presente diploma até poder ser integrado nos quadros de institutos ou centros de investigação científica do Ministério da Educação Nacional.
 
 3. Até à criação dos organismos referidos no número anterior, o Ministro da Educação Nacional poderá autorizar que seja contratado pessoal investigador, técnico, administrativo e auxiliar por força de verbas inscritas para esse fim nos orçamentos do Instituto de Alta Cultura.
 
-###### Art. 27.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço no Instituto de Alta Cultura será provido em lugares idênticos ou de categoria equivalente do quadro anexo a este diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 27.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço no Instituto de Alta Cultura será provido em lugares idênticos ou de categoria equivalente do quadro anexo a este diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados além do quadro, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, para o Instituto de Alta Cultura, desde que os mesmos satisfaçam os requisitos exigidos no presente diploma relativos a habilitações e sem prejuízo quanto aos especialistas-documentalistas da aprovação no concurso exigido pela lei geral.
 
 3. O pessoal que actualmente presta serviço no Instituto de Alta Cultura e que não for possível prover nos termos previstos no número anterior deste artigo mantém-se na situação em que se encontrar à data da publicação deste decreto-lei.
 
-###### Art. 28.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas dotações inscritas no orçamento privativo do Instituto de Alta Cultura para o ano de 1973.
+Art. 28.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas dotações inscritas no orçamento privativo do Instituto de Alta Cultura para o ano de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 7 de Novembro de 1973.**
+Promulgado em 7 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Quadro a que se refere o n.º 1 do artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26700/22062210.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26700/22062210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26700/22062210.pdf)
 
 Nota. - O funcionário encarregado de secretariar o presidente do Instituto, nomeado por despacho ministerial, terá direito à gratificação mensal de 1000$00.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

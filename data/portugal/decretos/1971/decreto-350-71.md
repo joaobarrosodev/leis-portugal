@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/350-1971-635611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 565e9e4a7142f527b844409e6ca406b1a1738b4574c141dc2f1a9e4afa8baa70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5caa9f04823e234e80bc2a68d32d592ae9a482505841cdf264bd5db596ed6c32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514848:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:42Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +111,7 @@ Atendendo à conveniência de, nestes termos, regulamentar o disposto no artigo 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O disposto no artigo 3.º do [Decreto n.º 45543](https://diariodarepublica.pt/dr/detalhe/decreto/45543-1964-469461), de 24 de Janeiro de 1964, na redacção que lhe foi dada pelo artigo 5.º do [Decreto n.º 47133](https://diariodarepublica.pt/dr/detalhe/decreto/47133-1966-474294), de 3 de Agosto de 1966, é aplicável a pessoal assalariado pelas forças militares em operações no ultramar, ou incorporado nas mesmas forças por ordem de autoridade militar competente, que venha a falecer ou a incapacitar-se em virtude de acidente ou doença em serviço, ferimento ou mutilação em campanha ou na manutenção da ordem pública.
+Artigo 1.º - 1. O disposto no artigo 3.º do [Decreto n.º 45543](https://diariodarepublica.pt/dr/detalhe/decreto/45543-1964-469461), de 24 de Janeiro de 1964, na redacção que lhe foi dada pelo artigo 5.º do [Decreto n.º 47133](https://diariodarepublica.pt/dr/detalhe/decreto/47133-1966-474294), de 3 de Agosto de 1966, é aplicável a pessoal assalariado pelas forças militares em operações no ultramar, ou incorporado nas mesmas forças por ordem de autoridade militar competente, que venha a falecer ou a incapacitar-se em virtude de acidente ou doença em serviço, ferimento ou mutilação em campanha ou na manutenção da ordem pública.
 
 2. Das mesmas regalias gozam os indivíduos que não sendo assalariados nem incorporados, mas colaborando, a título eventual, se incapacitem ou venham a falecer em circunstâncias idênticas.
 
@@ -115,7 +135,7 @@ f) Todas as intoxicações agudas ou crónicas que se prove serem consequência 
 
 g) As alterações de acuidade dos órgãos da visão ou da audição seguramente resultantes das actividades em serviço.
 
-###### Art. 2.º - 1. Sempre que ocorrer qualquer das circunstâncias enumeradas no n.º 1 do artigo anterior - acidente ou doença em serviço, ferimento ou mutilação em campanha ou na manutenção da ordem pública - deverá ser dado imediato conhecimento do facto à autoridade militar de que o sinistrado ou doente depender, salvo se esse conhecimento resultar das próprias circunstâncias em que o facto se verificou.
+Art. 2.º - 1. Sempre que ocorrer qualquer das circunstâncias enumeradas no n.º 1 do artigo anterior - acidente ou doença em serviço, ferimento ou mutilação em campanha ou na manutenção da ordem pública - deverá ser dado imediato conhecimento do facto à autoridade militar de que o sinistrado ou doente depender, salvo se esse conhecimento resultar das próprias circunstâncias em que o facto se verificou.
 
 2. A autoridade militar promoverá a organização do competente processo, que será elaborado de acordo com as leis, instruções e determinações em vigor no departamento militar respectivo e seguirá os trâmites estabelecidos para os processos que, pelos mesmos motivos, são organizados relativamente a militares.
 
@@ -123,7 +143,7 @@ g) As alterações de acuidade dos órgãos da visão ou da audição segurament
 
 4. O despacho lançado sobre o processo deverá obrigatòriamente referir-se à matéria contida no número anterior.
 
-###### Art. 3.º - 1. O pessoal civil assalariado pelas forças militares em operações no ultramar deverá ser equiparado a um dos seguintes postos da hierarquia militar:
+Art. 3.º - 1. O pessoal civil assalariado pelas forças militares em operações no ultramar deverá ser equiparado a um dos seguintes postos da hierarquia militar:
 
 Capitão (comandante de companhia) ou primeiro-tenente;
 
@@ -137,7 +157,7 @@ Soldado (praça sem graduação) ou grumete.
 
 2. A equiparação far-se-á, se anteriormente não estiver já estabelecida, ao posto cujo vencimento mais se aproximar do montante mensal dos salários.
 
-###### Art. 4.º - 1. No caso de incapacidade total ou parcial de indivíduos que satisfaçam às condições expressas nos artigos anteriores, haverá lugar ao pagamento de uma pensão de invalidez calculada segundo as leis militares, sendo o vencimento anual substituído pelo vencimento do posto a que o incapacitado se encontrar ou dever ser equiparado, líquido dos valores correspondentes à quota para compensação de aposentação, nos casos em que a mesma for devida, atendendo-se, quanto ao pessoal com remuneração permanente inferior à de marinheiro, que é esta que se considerará para cálculo da pensão.
+Art. 4.º - 1. No caso de incapacidade total ou parcial de indivíduos que satisfaçam às condições expressas nos artigos anteriores, haverá lugar ao pagamento de uma pensão de invalidez calculada segundo as leis militares, sendo o vencimento anual substituído pelo vencimento do posto a que o incapacitado se encontrar ou dever ser equiparado, líquido dos valores correspondentes à quota para compensação de aposentação, nos casos em que a mesma for devida, atendendo-se, quanto ao pessoal com remuneração permanente inferior à de marinheiro, que é esta que se considerará para cálculo da pensão.
 
 2. A pensão só é, no entanto, devida desde que à impotência funcional corresponder incapacidade profissional igual ou superior a 15 por cento, segundo a tabela nacional de incapacidade, aprovada pelo [Decreto n.º 43189](https://diariodarepublica.pt/dr/detalhe/decreto/43189-1960-514848), de 23 de Setembro de 1960.
 
@@ -147,25 +167,25 @@ Soldado (praça sem graduação) ou grumete.
 
 5. O tempo de serviço prestado será comprovado por certidão passada pelo quartel-general, comando naval ou comando da região ou zona aérea da província respectiva.
 
-###### Art. 5.º No caso de morte haverá lugar ao pagamento de uma pensão de preço de sangue, a qual será suportada pelo orçamento da província ultramarina respectiva, tomando para base do cálculo da mesma o disposto no [Decreto-Lei n.º 47084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47084-1966-474935), de 9 de Julho de 1966.
+Art. 5.º No caso de morte haverá lugar ao pagamento de uma pensão de preço de sangue, a qual será suportada pelo orçamento da província ultramarina respectiva, tomando para base do cálculo da mesma o disposto no [Decreto-Lei n.º 47084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47084-1966-474935), de 9 de Julho de 1966.
 
-###### Art. 6.º As despesas de tratamento e hospitalização de indivíduos abrangidos pelas disposições do presente diploma correm por conta do departamento militar respectivo, o mesmo se verificando relativamente a despesas de funeral, em caso de morte.
+Art. 6.º As despesas de tratamento e hospitalização de indivíduos abrangidos pelas disposições do presente diploma correm por conta do departamento militar respectivo, o mesmo se verificando relativamente a despesas de funeral, em caso de morte.
 
-###### Art. 7.º A pensão de invalidez como a pensão de preço de sangue serão calculadas pelos órgãos locais de administração dos comandos das forças terrestres, navais e aéreas das províncias ultramarinas, que as comunicarão aos serviços de Fazenda e contabilidade, para efeitos de publicação no Boletim Oficial da província.
+Art. 7.º A pensão de invalidez como a pensão de preço de sangue serão calculadas pelos órgãos locais de administração dos comandos das forças terrestres, navais e aéreas das províncias ultramarinas, que as comunicarão aos serviços de Fazenda e contabilidade, para efeitos de publicação no Boletim Oficial da província.
 
-###### Art. 8.º Os serviços de Fazenda e contabilidade da província respectiva iniciarão o pagamento da pensão definitiva de invalidez a partir do dia 1 do mês seguinte àquele em que se completarem quatro meses sobre a data da entrada naqueles serviços da comunicação a que se refere o artigo anterior.
+Art. 8.º Os serviços de Fazenda e contabilidade da província respectiva iniciarão o pagamento da pensão definitiva de invalidez a partir do dia 1 do mês seguinte àquele em que se completarem quatro meses sobre a data da entrada naqueles serviços da comunicação a que se refere o artigo anterior.
 
-###### Art. 9.º A pensão de invalidez poderá ser revista nos casos de recaída ou agravamento das lesões que lhe deram origem, mediante requerimento do interessado, ou de quem legalmente o represente, dirigido ao governador da província, através dos serviços de Fazenda e contabilidade, no qual os interessados solicitarão novas inspecções médicas.
+Art. 9.º A pensão de invalidez poderá ser revista nos casos de recaída ou agravamento das lesões que lhe deram origem, mediante requerimento do interessado, ou de quem legalmente o represente, dirigido ao governador da província, através dos serviços de Fazenda e contabilidade, no qual os interessados solicitarão novas inspecções médicas.
 
-###### Art. 10.º - 1. Quando o direito à pensão resultar de falecimento em campanha, as pessoas hábeis para receber a pensão de preço de sangue têm direito, enquanto não houver resolução sobre a respectiva pretensão, a um subsídio provisório, concedido pelo governador da província, a requerimento dos interessados.
+Art. 10.º - 1. Quando o direito à pensão resultar de falecimento em campanha, as pessoas hábeis para receber a pensão de preço de sangue têm direito, enquanto não houver resolução sobre a respectiva pretensão, a um subsídio provisório, concedido pelo governador da província, a requerimento dos interessados.
 
 2. É aplicável ao subsídio provisório a que se refere o número anterior o disposto nos artigos 21.º a 25.º do [Decreto-Lei n.º 47084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47084-1966-474935), de 9 de Julho de 1966.
 
-###### Art. 11.º - 1. O requerimento a que alude o n.º 1 do artigo anterior será enviado, conforme o caso, ao quartel-general, ao comando naval ou ao comando da região ou zona aérea da província respectiva, que promoverá a sua informação e envio aos serviços de Fazenda e contabilidade, que submeterão o assunto a despacho do governador da província.
+Art. 11.º - 1. O requerimento a que alude o n.º 1 do artigo anterior será enviado, conforme o caso, ao quartel-general, ao comando naval ou ao comando da região ou zona aérea da província respectiva, que promoverá a sua informação e envio aos serviços de Fazenda e contabilidade, que submeterão o assunto a despacho do governador da província.
 
 2. Obtida a autorização para o abono do subsídio, promoverão aqueles serviços o respectivo pagamento.
 
-###### Art. 12.º A pensão de invalidez ou de preço de sangue não será abonada se a incapacidade ou a morte for resultante de:
+Art. 12.º A pensão de invalidez ou de preço de sangue não será abonada se a incapacidade ou a morte for resultante de:
 
 a) Acto intencional e provocado;
 
@@ -175,7 +195,7 @@ c) Privação do uso da razão, permanente ou acidental, que não tenha relaçã
 
 d) Qualquer acto que não constitua um risco natural do serviço ou da execução de ordens que haja obrigação de cumprir.
 
-###### Art. 13.º O sinistrado perde o direito à pensão de invalidez que lhe esteja a ser abonada:
+Art. 13.º O sinistrado perde o direito à pensão de invalidez que lhe esteja a ser abonada:
 
 a) Se voluntàriamente agravar as suas lesões ou, pelo seu manifesto desleixo, contribuir para o seu agravamento;
 
@@ -185,20 +205,20 @@ c) Se não se apresentar ao médico assistente sempre que lhe for determinado, d
 
 d) Se se ausentar do hospital ou enfermaria onde se encontrar internado para tratamento e recuperação, sem estar devidamente autorizado.
 
-###### Art. 14.º As disposições constantes do presente diploma aplicam-se às situações ocorridas desde 1 de Janeiro de 1961.
+Art. 14.º As disposições constantes do presente diploma aplicam-se às situações ocorridas desde 1 de Janeiro de 1961.
 
-###### Art. 15.º Cada província promoverá a elaboração de instruções para execução do presente diploma, a aprovar mediante portaria.
+Art. 15.º Cada província promoverá a elaboração de instruções para execução do presente diploma, a aprovar mediante portaria.
 
-###### Art. 16.º O presente diploma não prejudica o normal andamento dos processos pendentes à data da sua publicação.
+Art. 16.º O presente diploma não prejudica o normal andamento dos processos pendentes à data da sua publicação.
 
-###### Art. 17.º Os indivíduos pertencentes aos quadros privativos do funcionalismo das províncias ultramarinas que, por satisfazerem às condições expressas no presente diploma, tenham direito a pensão de preço de sangue ou a pensão de invalidez poderão optar pela pensão atribuída pela legislação aplicável aos serviços de que fazem parte, se for de montante superior.
+Art. 17.º Os indivíduos pertencentes aos quadros privativos do funcionalismo das províncias ultramarinas que, por satisfazerem às condições expressas no presente diploma, tenham direito a pensão de preço de sangue ou a pensão de invalidez poderão optar pela pensão atribuída pela legislação aplicável aos serviços de que fazem parte, se for de montante superior.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Julho de 1971.**
+Promulgado em 26 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

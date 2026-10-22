@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1974-465396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c6ad96efd61dbc4ae35a39c2b1fa659f3ce3720c19d28f28b8986351376327f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bd6067585312cc6ee2f22d296a0bb79f3eee91bdcd74c5dacdcb58167d24347
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+- Crime
+- Registo Criminal
+relationships:
+- type: cites
+  target: pt:dre:476345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662343:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:31Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +105,18 @@ Considerando que é inaceitável a verificação de entraves ao legítimo exerc�
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A proibição constante do n.º 1.º da alínea c) do n.º 2 do artigo 46.º do Código da Estrada não se aplica aos crimes a que se refere a alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 259/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1974-662343), de 15 de Junho, e aos crimes contra a segurança interior do Estado, ocorridos até 25 de Abril de 1974, inclusive.
+Artigo 1.º A proibição constante do n.º 1.º da alínea c) do n.º 2 do artigo 46.º do Código da Estrada não se aplica aos crimes a que se refere a alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 259/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1974-662343), de 15 de Junho, e aos crimes contra a segurança interior do Estado, ocorridos até 25 de Abril de 1974, inclusive.
 
-###### Art. 2.º - 1. É proibido transcrever nos certificados do registo criminal ou policial quaisquer condenações ou detenções originadas pela prática de crimes de objecto comum de fim político imputados a membros de organizações antifascistas, ou de crimes contra a segurança interior do Estado, ocorridos até 25 de Abril de 1974, inclusive.
+Art. 2.º - 1. É proibido transcrever nos certificados do registo criminal ou policial quaisquer condenações ou detenções originadas pela prática de crimes de objecto comum de fim político imputados a membros de organizações antifascistas, ou de crimes contra a segurança interior do Estado, ocorridos até 25 de Abril de 1974, inclusive.
 
 2. Cessa a proibição quando o interessado especificamente o requerer ou quando o certificado do registo criminal haja sido requisitado pela Comissão a que se reporta o artigo 1.º do [Decreto n.º 304/74](https://diariodarepublica.pt/dr/detalhe/decreto/304-1974-476345), de 6 de Julho.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha.
 
-**Promulgado em 21 de Outubro de 1974.**
+Promulgado em 21 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

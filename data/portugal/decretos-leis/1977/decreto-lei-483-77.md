@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1977-280719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60736a6a41563db0cc64d64e470e14a1bc82640e10181033c54ac9c489b7bbf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34290edb36bc079124b57ae0ef07eb85a0c8c8e1f58bbc01e3c561814cfa3627
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Braga
+- Escola de Enfermagem
+- Escola de Enfermagem de Calouste Gulbenkian
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECONVERTIDA EM ESCOLA SUPERIOR DE ENFERMAGEM PELA PORT 821/89 DE 15-SET DR.IS [213]\0[213]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-15'
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:00Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +105,17 @@ Assim sendo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Escola de Enfermagem de Calouste Gulbenkian, em Braga, adiante designada por Escola, passa a constituir um estabelecimento oficial dependente do Ministério dos Assuntos Sociais, dotado de autonomia técnica e administrativa.
+Artigo 1.º - 1 - A Escola de Enfermagem de Calouste Gulbenkian, em Braga, adiante designada por Escola, passa a constituir um estabelecimento oficial dependente do Ministério dos Assuntos Sociais, dotado de autonomia técnica e administrativa.
 
 2 - A Escola passa a reger-se pela legislação aplicável aos serviços oficiais do Ministério dos Assuntos Sociais e, em especial, pela legislação que regula o ensino e o funcionamento das escolas de enfermagem.
 
-###### Art. 2.º - 1 - O pessoal que até 29 de Novembro de 1976 prestava serviço na Escola, mantendo-se ao seu serviço à data da entrada em vigor deste diploma, transitará para lugares idênticos do respectivo mapa, mediante lista nominativa a aprovar por despacho ministerial e a publicar no Diário da República, sem outras formalidades além do visto do Tribunal de Contas.
+Art. 2.º - 1 - O pessoal que até 29 de Novembro de 1976 prestava serviço na Escola, mantendo-se ao seu serviço à data da entrada em vigor deste diploma, transitará para lugares idênticos do respectivo mapa, mediante lista nominativa a aprovar por despacho ministerial e a publicar no Diário da República, sem outras formalidades além do visto do Tribunal de Contas.
 
 2 - O tempo de serviço prestado é contado para todos os efeitos, incluindo antiguidade e acesso.
 
 3 - O mesmo pessoal manter-se-á inscrito na Caixa de Previdência dos Empregados da Assistência, salvo se, preenchendo os requisitos de inscrição na Caixa Geral de Aposentações, optar por esta no prazo de noventa dias, a contar da publicação da lista nominativa no Diário da República.
 
-###### Art. 3.º - 1 - O pessoal a que se refere o artigo anterior será integrado, findo o regime de instalação, mediante listas nominativas e independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República:
+Art. 3.º - 1 - O pessoal a que se refere o artigo anterior será integrado, findo o regime de instalação, mediante listas nominativas e independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República:
 
 a) Em lugares dos quadros que vierem a ser aprovados e para os quais possua as necessárias habilitações legais;
 
@@ -111,12 +123,12 @@ b) Nos lugares que ocupar durante o regime de instalação, quando não se verif
 
 2 - Os lugares a que se refere a alínea b) do número anterior considerar-se-ão extintos à medida que vagarem.
 
-###### Art. 4.º A Escola fica sujeita ao regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as adaptações constantes do presente diploma, contando-se o respectivo período a partir da data da tomada de posse da comissão instaladora.
+Art. 4.º A Escola fica sujeita ao regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as adaptações constantes do presente diploma, contando-se o respectivo período a partir da data da tomada de posse da comissão instaladora.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 2 de Novembro de 1977.**
+Promulgado em 2 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

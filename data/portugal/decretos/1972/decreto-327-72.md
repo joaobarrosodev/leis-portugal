@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/327-1972-676631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd76c29df1be8ef118e8eec989e03d1b4237728b261e64b907eec1bda82b076f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1023295acf2020ca88c48eedba7aebdadf7b1f1f3845eab643992c46dad29d1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Conselho Internacional do Trigo
+- Convenção
+- Portugal
+- Trigo
+- Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:20Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +92,15 @@ de 21 de Agosto
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Relativa ao Comércio do Trigo, aberta à assinatura em Washington de 29 de Março a 3 de Maio de 1971, cujo texto em inglês e o do preâmbulo do Acordo Internacional do Trigo de 1971, de que a Convenção faz parte, bem como as respectivas traduções para português, vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Relativa ao Comércio do Trigo, aberta à assinatura em Washington de 29 de Março a 3 de Maio de 1971, cujo texto em inglês e o do preâmbulo do Acordo Internacional do Trigo de 1971, de que a Convenção faz parte, bem como as respectivas traduções para português, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 10 de Agosto de 1972.**
+Assinado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 INTERNATIONAL WHEAT AGREEMENT, 1971
 
@@ -724,7 +730,7 @@ CONVENÇÃO RELATIVA AO COMÉRCIO DO TRIGO DE 1971
 
 Generalidades
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Objectivos
 
@@ -738,7 +744,7 @@ c) Contribuir, tanto quanto possível para a estabilidade do mercado internacion
 
 d) Fornecer um quadro, em conformidade com o artigo 21.º da presente Convenção, para a negociação de disposições relativas aos preços do trigo e aos direitos e obrigações dos membros no que se refere ao comércio internacional do trigo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Definições
 
@@ -778,7 +784,7 @@ n) Qualquer referência, na presente Convenção, a um «Governo representado na
 
 2) O cálculo do equivalente, em trigo, das compras de farinha de trigo será efectuado com base na taxa de extracção indicada no contrato entre o comprador e o vendedor. Se não houver indicação da taxa de extracção, 72 unidades de peso de farinha serão consideradas equivalentes, para efeitos daquele cálculo, a 100 unidades de peso de trigo em grão, salvo decisão em contrário do Conselho.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Compras comerciais e transacções especiais
 
@@ -806,7 +812,7 @@ g) Quaisquer outras categorias de transacções que o Conselho possa determinar 
 
 3) Qualquer dúvida levantada pelo Secretário Executivo ou por um membro exportador ou importador sobre a determinação da natureza de uma dada transacção como compra comercial, no sentido do n.º 1), ou como transacção especial, no sentido do n.º 2) do presente artigo, será decidida pelo Conselho.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Registo e notificação
 
@@ -844,7 +850,7 @@ c) O Conselho receberá regularmente informações sobre os custos de transporte
 
 7) O Conselho elaborará um regulamento de notificação e registo considerados neste artigo. Este regulamento fixará a frequência e as modalidades segundo as quais as notificações devem ser feitas e definirá as obrigações dos membros a este respeito. O Conselho prescreverá também o processo de modificação dos registos e mapas a seu cargo, bem como os modos de solução dos diferendos que possam surgir a este respeito. Se um membro faltar repetidamente e sem justificação aos compromissos de notificação assumidos nos termos do presente artigo, a Comissão Executiva iniciará consultas com o membro em causa, a fim de remediar a situação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Avaliação dos requisitos e disponibilidade de trigo
 
@@ -854,7 +860,7 @@ Avaliação dos requisitos e disponibilidade de trigo
 
 3) Todas as estimativas notificadas ao Conselho destinam-se à administração da presente Convenção e só podem ser facultadas aos membros exportadores e importadores nas condições fixadas pelo Conselho. As estimativas apresentadas em cumprimento do presente artigo não têm, de forma nenhuma, a natureza de compromissos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Consultas sobre as condições do mercado
 
@@ -862,7 +868,7 @@ Consultas sobre as condições do mercado
 
 2) A Comissão Executiva informará, se o considerar apropriado, o presidente do Conselho, que poderá convocar uma sessão do Conselho para analisar a situação.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Diferendos e reclamações
 
@@ -870,7 +876,7 @@ Diferendos e reclamações
 
 2) Qualquer membro poderá recorrer ao Conselho quando considere que os seus interesses como parte na presente Convenção foram sèriamente lesados por acções de um ou mais membros que afectem o funcionamento da presente Convenção. Neste caso, o Conselho consultará imediatamente os membros interessados com vista a resolver a questão. Se a questão não for resolvida através dessas consultas, o Conselho examinará a questão de novo e poderá fazer recomendações aos membros interessados.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Exame anual da situação mundial de trigo
 
@@ -890,7 +896,7 @@ b) Aos meios que permitam estimular o consumo, particularmente nos países onde 
 
 4) O presente artigo não prejudicará, por qualquer modo, a completa liberdade de acção de que todo o membro goza na elaboração e aplicação da sua política interna em matéria de agricultura e de preços.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Directrizes relativas às transacções em condições de favor
 
@@ -906,7 +912,7 @@ Directrizes relativas às transacções em condições de favor
 
 Disposições administrativas
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Composição do Conselho
 
@@ -918,7 +924,7 @@ Composição do Conselho
 
 4) O Conselho elegerá um presidente e um vice-presidente, que permanecerão em exercício durante um ano agrícola. O presidente não tem direito a voto e, do mesmo modo, o vice-presidente quando funcione como presidente.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Poderes e funções do Conselho
 
@@ -936,7 +942,7 @@ O Conselho poderá revogar, a todo o momento, esta delegação de poderes, media
 
 6) Com vista a estar habilitado a desempenhar as funções previstas na presente Convenção, o Conselho pode pedir aos membros, os quais se comprometem a pô-las à sua disposição, as estatísticas e informações de que necessite.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Votos
 
@@ -956,7 +962,7 @@ Prova bastante desta autorização será apresentada ao Conselho.
 
 7) Todo o membro exportador ou importador disporá, pelo menos, de um voto e não haverá fracções de votos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Sede, sessões e quórum
 
@@ -974,7 +980,7 @@ c) Pela Comissão Executiva.
 
 4) Em cada reunião do Conselho será requisito para constituição do quórum a presença de delegados que detenham, anteriormente a qualquer ajustamento do número de votos feito ao abrigo do artigo 12.º, maioria dos votos pertencentes a membros exportadores e a maioria dos votos pertencentes a membros importadores.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Decisões
 
@@ -982,7 +988,7 @@ Decisões
 
 2) Cada membro compromete-se a considerar obrigatórias todas as decisões tomadas pelo Conselho ao abrigo do disposto na presente Convenção.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Comissão Executiva
 
@@ -998,7 +1004,7 @@ Esta será composta por um máximo de quatro membros exportadores, eleitos todos
 
 5) Todo o membro exportador ou importador que não seja membro da Comissão Executiva poderá participar, sem direito a voto, na discussão de qualquer matéria apresentada à Comissão Executiva, sempre que esta repute em causa os interesses desse membro.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Subcomissão Consultiva sobre as Condições do Mercado
 
@@ -1012,7 +1018,7 @@ A Subcomissão Consultiva levará em conta, no exercício das suas funções, qu
 
 4) A Subcomissão Consultiva dará pareceres de harmonia com os artigos pertinentes da presente Convenção, assim como sobre outras questões que possam ser-lhe submetidas pelo Conselho ou pela Comissão Executiva, incluindo as questões que o Conselho lhe submeta ao abrigo do artigo 21.º da presente Convenção.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Secretariado
 
@@ -1024,7 +1030,7 @@ Secretariado
 
 4) É requisito de admissão para o secretário executivo e pessoal não possuírem interesses, ou renunciarem a todos os interesses financeiros no comércio do trigo, e não solicitarem, nem receberem, de um Governo ou autoridade exterior ao Conselho instruções relativas às funções que exerçam no âmbito da presente Convenção.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Privilégios e Imunidades
 
@@ -1042,7 +1048,7 @@ c) No caso de o Conselho ser dissolvido.
 
 4) No caso de a sede do Conselho deixar de estar situada no território do Reino Unido, o Governo do país membro em cujo território a sede do Conselho foi instalada concluirá um acordo internacional com o Conselho relativo ao estatuto, privilégios e imunidades do Conselho, do seu secretário executivo, do seu pessoal e dos representantes dos membros às reuniões convocadas pelo Conselho.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Disposições de natureza financeira
 
@@ -1060,7 +1066,7 @@ Disposições de natureza financeira
 
 7) O Conselho tomará, anteriormente à sua dissolução, todas as disposições com vista à liquidação do seu passivo, bem assim quanto à consignação do seu activo e arquivos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Colaboração com outras organizações intergovernamentais
 
@@ -1070,31 +1076,31 @@ Colaboração com outras organizações intergovernamentais
 
 3) Se o Conselho verificar que qualquer disposição da presente Convenção revela incompatibilidade de fundo com obrigações emergentes das Nações Unidas, seus órgãos competentes e agências especializadas, em matéria de acordos intergovernamentais sobre produtos de base, será a referida incompatibilidade reputada prejudicial ao funcionamento da presente Convenção e aplicar-se-á o procedimento prescrito nos n.os 2), 3) e 4) do artigo 27.º
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Preços e direitos e obrigações a eles relacionados
 
 Com vista a assegurar fornecimentos de trigo e de farinha de trigo aos membros importadores e mercados de trigo e de farinha de trigo aos membros exportadores, o Conselho examinará, em tempo oportuno, as questões de preços e de direitos e obrigações com eles relacionados. Quando for julgado que estas matérias são susceptíveis de serem negociadas com bom êxito, o Conselho pedirá ao secretário-geral da U. N. C. T. A. D. a convocação de uma conferência, a fim de abrir negociações durante a vigência da presente Convenção sobre as matérias acima referidas.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Assinatura
 
 A presente Convenção fica aberta à assinatura, em Washington, de 29 de Março de 1971 a 3 de Maio de 1971, inclusive, dos Governos dos países partes na Convenção Relativa ao Comércio do Trigo de l967 e dos Governos representados na Conferência das Nações Unidas sobre o Trigo de 1971.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Ratificação, aceitação, aprovação
 
 A presente Convenção fica sujeita à ratificação, aceitação ou aprovação de cada Governo signatário, em conformidade com os respectivos procedimentos constitucionais. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Governo dos Estados Unidos da América o mais tardar no dia 17 de Junho de 1971, excepto quando o Conselho conceda uma ou mais prorrogações de prazo a todo o Governo signatário que não haja depositado o seu instrumento de ratificação, aceitação ou aprovação em tal data.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Aplicação provisória
 
 Todo o Governo signatário poderá depositar, junto do Governo dos Estados Unidos da América, uma declaração de aplicação provisória da presente Convenção. Qualquer outro Governo que preencha as condições necessárias para assinar a presente Convenção ou cujo pedido de adesão tenha sido aprovado pelo Conselho pode igualmente depositar, junto do Governo dos Estados Unidos da América, uma declaração de aplicação provisória. Todo o Governo que deposite tal declaração aplicará provisòriamente a presente Convenção e será considerado, provisòriamente, parte na dita Convenção.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Adesão
 
@@ -1106,7 +1112,7 @@ Adesão
 
 4) Quando se faz menção, para efeitos de aplicação da presente Convenção, de membros referidos nos Anexos A ou B, todo o membro cujo Governo aderiu à presente Convenção, nas condições prescritas pelo Conselho e em conformidade com o presente artigo, será tido como fazendo parte do Anexo adequado.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Entrada em vigor
 
@@ -1120,7 +1126,7 @@ b) A 1 de Julho de 1971, para os artigos 3.º a 9.º, inclusive, e o artigo 21.�
 
 3) Se, em conformidade com o disposto no n. 1) deste artigo, a presente Convenção não entrar em vigor, os Governos que tiverem depositado instrumentos de ratificação, aceitação, aprovação ou adesão ou declarações de aplicação provisória poderão decidir, por comum acordo, a sua entrada em vigor entre os Governos que depositaram os instrumentos de ratificação, aceitação, aprovação ou adesão.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Duração, emendas e denúncia
 
@@ -1136,7 +1142,7 @@ Duração, emendas e denúncia
 
 6) Todo o membro que se tornar Estado membro da C. E. E. durante a vigência da presente Convenção notificará o Conselho, que, dentro do prazo de trinta dias, examinará a questão com vista a negociar com aquele membro a a C. E. E. um ajustamento apropriado dos respectivos direitos e obrigações, ao abrigo da presente Convenção. O Conselho terá, em tais circunstâncias, poderes para recomendar uma emenda, nos termos do n. 2) do presente artigo.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Aplicação territorial
 
@@ -1152,19 +1158,19 @@ Aplicação territorial
 
 6) Para efeitos de redistribuição dos votos ao abrigo do artigo 12.º, toda a modificação introduzida na aplicação da presente Convenção, em virtude deste artigo, será considerada como alteração operada na participação na presente Convenção, tanto quanto as circunstâncias o requeiram.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Notificação pelo Governo depositário
 
 O Governo dos Estados Unidos da América, na sua qualidade de Governo depositário, notificará todos os Governos signatários e aderentes das assinaturas, ratificações, aceitações, aprovações e aplicações provisórias da presente Convenção, assim como das adesões à mesma e de todas as notificações e pré-avisos recebidos em conformidade com o disposto nos artigos 27.º a 28.º
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Cópia certificada da Convenção
 
 Logo que possível após a entrada definitiva em vigor da presente Convenção, o Governo depositário enviará ao secretário-geral da Organização das Nações Unidas uma cópia certificada da presente Convenção, em línguas inglesa, francesa, russa e espanhola, para efeitos de registo em conformidade com o artigo 102.º da Carta das Nações Unidas. Todas as emendas serão comunicadas do mesmo modo.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Relação entre o Preâmbulo e a Convenção
 

@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49233-1969-214066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd21067f300e47285c1980f4fad50d793e0bdb2b52cec5d8179579140bb8eb94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6219fe39598fa88d1ebe4221292fd40fea3922a81948ab41ce09971a1009262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Direcção Geral da Educação Física Desportos e Saúde Escolar
+- Educação Física
+- Escola de Instrutores de Educação Física
+- Lisboa
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:309534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419579:por
+  label: "Alterados os artigos 4.º, 5.º, 6.º e 9.º pelo DEC LEI.407/73.18.08.1973.MEN, DG.IS [193] de 18.08.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/407-1973-419579
+  date: '1973-08-18'
+- type: amended_by
+  target: pt:dre:309534:por
+  label: "Extintas as Escolas de Instrutores de Educação Física de Lisboa e do Porto, pelo DEC LEI.675/75.03.12.1975.MEIC,\
+    \ DR.IS [279] de 03.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/675-1975-309534
+  date: '1975-12-03'
+- type: cites
+  target: pt:dre:478007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486877:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:42Z'
   warnings: []
   errors: []
 ---
@@ -91,23 +116,23 @@ Considerando a necessidade de criar a Escola de Instrutores de Educação Físic
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São criadas a Escola de Instrutores de Educação Física de Lisboa e a Escola de Instrutores de Educação Física do Porto, estabelecimentos de ensino público, de grau médio, que ficam na dependência da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
+Artigo 1.º São criadas a Escola de Instrutores de Educação Física de Lisboa e a Escola de Instrutores de Educação Física do Porto, estabelecimentos de ensino público, de grau médio, que ficam na dependência da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
 
-###### Art. 2.º Os indivíduos diplomados por qualquer das referidas Escolas têm direito ao título de instrutores de educação física e ficam habilitados a ministrar educação física, sob a orientação de diplomados com o curso de professores do Instituto Nacional de Educação Física, em estabelecimentos de ensino público ou particular ou em organismos onde se pratiquem actividades gimnodesportivas, de harmonia com o disposto no [Decreto n.º 46912](https://diariodarepublica.pt/dr/detalhe/decreto/46912-1966-486877), de 19 de Março de 1966.
+Art. 2.º Os indivíduos diplomados por qualquer das referidas Escolas têm direito ao título de instrutores de educação física e ficam habilitados a ministrar educação física, sob a orientação de diplomados com o curso de professores do Instituto Nacional de Educação Física, em estabelecimentos de ensino público ou particular ou em organismos onde se pratiquem actividades gimnodesportivas, de harmonia com o disposto no [Decreto n.º 46912](https://diariodarepublica.pt/dr/detalhe/decreto/46912-1966-486877), de 19 de Março de 1966.
 
-###### Art. 3.º - 1. O curso de instrutores de educação física tem a duração de dois anos.
+Art. 3.º - 1. O curso de instrutores de educação física tem a duração de dois anos.
 
 2. São admitidos a frequentar o curso os indivíduos de qualquer dos sexos habilitados com o 2.º ciclo dos liceus ou habilitações equivalentes para este fim especial e aprovados em exame de aptidão.
 
 3. Por despacho do Ministro da Educação Nacional podem ser admitidos a frequentar o curso, com dispensa de provas práticas, os indivíduos que à data da publicação do presente diploma tenham exercido o lugar de professor de serviço eventual de Educação Física em estabelecimentos de ensino secundário oficial durante, pelo menos, cinco anos com informação de bom e efectivo serviço.
 
-###### Art. 4.º - 1. A orientação pedagógica e administrativa de cada uma das Escolas cabe ao respectivo director, que será assistido por um subdirector e pelos conselhos escolar e administrativo.
+Art. 4.º - 1. A orientação pedagógica e administrativa de cada uma das Escolas cabe ao respectivo director, que será assistido por um subdirector e pelos conselhos escolar e administrativo.
 
 2. Os directores e subdirectores, que perceberão gratificações pelo exercício dos seus cargos, serão nomeados pelo Ministro da Educação Nacional, devendo os subdirectores ser nomeados, ouvido o conselho escolar, por proposta dos respectivos directores.
 
 3. As gratificações percebidas serão equiparadas, para todos os efeitos, às dos directores e subdirectores dos institutos industriais.
 
-###### Art. 5.º - 1. Há três categorias de professores: ordinários, auxiliares e extraordinários.
+Art. 5.º - 1. Há três categorias de professores: ordinários, auxiliares e extraordinários.
 
 2. Aos professores ordinários é reconhecido o direito às diuturnidades estabelecidas para os professores ordinários dos institutos industriais, sem prejuízo da obrigatoriedade do tempo de leccionação que constar do regulamento da Escola.
 
@@ -115,7 +140,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Na mesma portaria se fixarão as remunerações, salvo se decorrerem das categorias legais existentes, bem como as unidades do pessoal docente, técnico, administrativo e menor.
 
-###### Art. 6.º - 1. O provimento dos lugares de professor é sempre feito por contrato.
+Art. 6.º - 1. O provimento dos lugares de professor é sempre feito por contrato.
 
 2. Os lugares de professor ordinário são providos mediante a realização de concurso de provas públicas, sendo a forma de prestação de provas definida em portaria.
 
@@ -123,26 +148,26 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os lugares de professor extraordinário são providos por escolha do Ministro da Educação Nacional de entre indivíduos de reconhecida competência, sobre parecer do respectivo conselho escolar.
 
-###### Art. 7.º - 1. Os professores contratados que ocupem lugares de professor ordinário há, pelo menos, cinco anos de bom e efectivo serviço poderão ser providos definitivamente no lugar sem prejuízo da obrigatoriedade do tempo de leccionação que constar do regulamento da Escola.
+Art. 7.º - 1. Os professores contratados que ocupem lugares de professor ordinário há, pelo menos, cinco anos de bom e efectivo serviço poderão ser providos definitivamente no lugar sem prejuízo da obrigatoriedade do tempo de leccionação que constar do regulamento da Escola.
 
 2. Os professores que à data da publicação do presente diploma desempenhem funções docentes nas escolas há, pelo menos, cinco anos poderão ser providos nas categorias estabelecidas por despacho do Ministro da Educação Nacional, fundamentado em proposta do director-geral da Educação Física, Desportos e Saúde Escolar, contando-se esse tempo para efeitos de provimento definitivo, quando for caso disso.
 
-###### Art. 8.º O pessoal técnico, administrativo e menor é livremente contratado ou assalariado, mediante proposta do director da Escola.
+Art. 8.º O pessoal técnico, administrativo e menor é livremente contratado ou assalariado, mediante proposta do director da Escola.
 
-###### Art. 9.º - 1. O pessoal docente, técnico, administrativo e menor das Escolas pode também ser admitido em regime de comissão de serviço, sendo-lhe aplicável o disposto no artigo 1.º do [Decreto-Lei n.º 47393](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47393-1966-478007), de 20 de Dezembro de 1966.
+Art. 9.º - 1. O pessoal docente, técnico, administrativo e menor das Escolas pode também ser admitido em regime de comissão de serviço, sendo-lhe aplicável o disposto no artigo 1.º do [Decreto-Lei n.º 47393](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47393-1966-478007), de 20 de Dezembro de 1966.
 
 2. O tempo de serviço prestado na qualidade de contratado conta para todos os efeitos legais, nomeadamente para efeitos de diuturnidade, de promoção e de aposentação.
 
 3. Ao pessoal docente contratado serão abonadas as remunerações correspondentes ao exercício das suas funções ainda antes de visados pelo Tribunal de Contas os respectivos diplomas; em caso de recusa de visto, o facto será imediatamente comunicado ao interessado e o abono cessará a partir desse momento.
 
-###### Art. 10.º Dentro do prazo de sessenta dias, a contar da entrada em vigor do presente diploma, a Direcção-Geral da Educação Física, Desportos e Saúde Escolar sujeitará a aprovação do Ministro da Educação Nacional os regulamentos das Escolas de Instrutores de Educação Física.
+Art. 10.º Dentro do prazo de sessenta dias, a contar da entrada em vigor do presente diploma, a Direcção-Geral da Educação Física, Desportos e Saúde Escolar sujeitará a aprovação do Ministro da Educação Nacional os regulamentos das Escolas de Instrutores de Educação Física.
 
-###### Art. 11.º Os encargos resultantes da execução do presente diploma serão custeados por dotação global a inscrever no capítulo do orçamento de despesas do Ministério da Educação Nacional referente à Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
+Art. 11.º Os encargos resultantes da execução do presente diploma serão custeados por dotação global a inscrever no capítulo do orçamento de despesas do Ministério da Educação Nacional referente à Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 5 de Setembro de 1969.**
+Promulgado em 5 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

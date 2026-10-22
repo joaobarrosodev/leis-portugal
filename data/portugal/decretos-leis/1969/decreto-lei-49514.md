@@ -49,36 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49514-1969-213229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a057c4d1251cdd9e38e65f401e2e1cc67c366d96c13829ac460c0474ea39c80d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56f46a6cf1ef02a989dd4560d20e128bf3b0f2a5605c6ec41cd588b4a9ff94ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Reforma
+- Cálculo de Pensões
+- Caminhos de Ferro Portugueses
+- Interpretação do Direito
+- Pensão de Reforma
+- Pensões
+- Previdência Social
+- Regulamento
+- Trabalhador Ferroviário
+relationships:
+- type: cites
+  target: pt:dre:525263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601517:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:29Z'
   warnings: []
   errors: []
 ---
@@ -109,19 +126,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A primeira parte do artigo 28.º do Regulamento da Caixa de Pensões de Reforma da Companhia dos Caminhos de Ferro Portugueses, de 1 de Janeiro de 1927, aprovado por portaria de 21 de Janeiro de 1931, deverá ser entendida do seguinte modo:
+Artigo 1.º A primeira parte do artigo 28.º do Regulamento da Caixa de Pensões de Reforma da Companhia dos Caminhos de Ferro Portugueses, de 1 de Janeiro de 1927, aprovado por portaria de 21 de Janeiro de 1931, deverá ser entendida do seguinte modo:
 
 A proporção em que o aumento geral de vencimentos se repercute nas pensões de reforma e de sobrevivência corresponde à percentagem média desse aumento originado pelo custo de vida nos termos fixados no instrumento de regulamentação de trabalho que determinar aquele aumento.
 
-###### Art. 2.º O entendimento fixado no presente diploma é extensivo à disposição correspondente ao Regulamento da Caixa de Reformas e Pensões dos Caminhos de Ferro do Estado, aprovado pelo [Decreto n.º 16242](https://diariodarepublica.pt/dr/detalhe/decreto/16242-1928-601517), de 17 de Dezembro de 1928.
+Art. 2.º O entendimento fixado no presente diploma é extensivo à disposição correspondente ao Regulamento da Caixa de Reformas e Pensões dos Caminhos de Ferro do Estado, aprovado pelo [Decreto n.º 16242](https://diariodarepublica.pt/dr/detalhe/decreto/16242-1928-601517), de 17 de Dezembro de 1928.
 
-###### Art. 3.º A alteração dos regulamentos das caixas em vigor à data da constituição da Caixa de Previdência dos Ferroviários, bem como as dúvidas e casos omissos suscitados pelos mesmos, serão resolvidos por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
+Art. 3.º A alteração dos regulamentos das caixas em vigor à data da constituição da Caixa de Previdência dos Ferroviários, bem como as dúvidas e casos omissos suscitados pelos mesmos, serão resolvidos por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 17 de Dezembro de 1969.**
+Promulgado em 17 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

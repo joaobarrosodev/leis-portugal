@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43708-1961-170931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c521ab2d9849c11f68a98bad5d0aba3fe80233fd9c3b340783b6e021231cc26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d923da918e1ca08b4875b7a6f719fbbf3ad15537bce38ad9ebe16332ab8544f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Fundo Especial de Transportes Terrestres
+- Imposto de Camionagem
+- Imposto de Compensação
+- Isenção Fiscal
+- Preço
+- Receita
+- Receita Própria
+- Taxa
+- Trabalhador Ferroviário
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:687852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:687852:por
+  label: "Revogado pelo DEC LEI.45331.1963.10.28.MCOMN DG.IS [253], a partir do momento em que entram em vigor as disposições\
+    \ do presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45331-1963-687852
+  date: '1963-10-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:04Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +146,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 11.º, 17.º e 18.º do [Decreto-Lei n.º 37191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37191-1948-369410), de 24 de Novembro de 1948, passam a ter, respectivamente, a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 11.º, 17.º e 18.º do [Decreto-Lei n.º 37191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37191-1948-369410), de 24 de Novembro de 1948, passam a ter, respectivamente, a seguinte redacção:
 
-###### Art. 5.º Nas carreiras regulares e provisórias o imposto de camionagem a cobrar mensalmente será calculado pelas fórmulas seguintes:
+Art. 5.º Nas carreiras regulares e provisórias o imposto de camionagem a cobrar mensalmente será calculado pelas fórmulas seguintes:
 
 1.º Para as carreiras de passageiros:
 
@@ -154,7 +194,7 @@ O imposto de camionagem será calculado separadamente em relação ao transporte
 
 ...
 
-###### Art. 11.º O imposto de camionagem a pagar mensalmente pelos proprietários de automóveis destinados ao transporte de mercadorias em regime de aluguer será calculado, para cada veículo, pelas fórmulas:
+Art. 11.º O imposto de camionagem a pagar mensalmente pelos proprietários de automóveis destinados ao transporte de mercadorias em regime de aluguer será calculado, para cada veículo, pelas fórmulas:
 
 I = (960/12) x Tm x K x C
 
@@ -174,7 +214,7 @@ Para automóveis inscritos para transitar numa área circular de raio superior a
 
 ...
 
-###### Art. 17.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição, definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina pagarão um imposto de compensação, de harmonia com as taxas fixas anuais constantes da tabela seguinte:
+Art. 17.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição, definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina pagarão um imposto de compensação, de harmonia com as taxas fixas anuais constantes da tabela seguinte:
 
 Automóveis de lotação inferior ou igual a nove lugares ou de carga útil inferior ou igual a 640 kg:
 
@@ -196,13 +236,13 @@ Aluguer de carga e adstritos a carreiras de mercadorias ... 6750$00
 
 Sobre as taxas a que se refere esta tabela não podem incidir quaisquer adicionais.
 
-###### Art. 18.º São isentos do imposto de compensação os automóveis pertencentes ao Estado, os que, sendo propriedade dos corpos administrativos, não sejam utilizados em quaisquer explorações remuneradas, os pertencentes à Cruz Vermelha Portuguesa, às associações de bombeiros e a quaisquer outras associações ou fundações humanitárias concorrentes para a defesa civil do território, quando utilizados exclusivamente para os fins humanitários que lhes são próprios.
+Art. 18.º São isentos do imposto de compensação os automóveis pertencentes ao Estado, os que, sendo propriedade dos corpos administrativos, não sejam utilizados em quaisquer explorações remuneradas, os pertencentes à Cruz Vermelha Portuguesa, às associações de bombeiros e a quaisquer outras associações ou fundações humanitárias concorrentes para a defesa civil do território, quando utilizados exclusivamente para os fins humanitários que lhes são próprios.
 
 § 1.º Não se consideram como pertencentes ao Estado, para efeitos da isenção do imposto de compensação, os veículos afectos aos organismos de coordenação económica.
 
 § 2.º A classificação das associações humanitárias não referidas expressamente neste artigo como de interesse para a defesa civil do território será feita por portaria assinada pelos Ministros da Defesa Nacional, do Interior, das Finanças, das Comunicações e da Saúde e Assistência.
 
-###### Art. 2.º Com excepção das disposições relativas aos transportes de mercadorias, as quais entrarão imediatamente em vigor, a aplicação do disposto no presente diploma processar-se-á pela forma seguinte:
+Art. 2.º Com excepção das disposições relativas aos transportes de mercadorias, as quais entrarão imediatamente em vigor, a aplicação do disposto no presente diploma processar-se-á pela forma seguinte:
 
 1.º Liquidação, pelas novas fórmulas, do imposto de camionagem respeitante às carreiras de passageiros:
 
@@ -212,8 +252,8 @@ b) Para as carreiras não concorrentes, em data a fixar por despacho do Ministro
 
 2.º Pagamento do imposto de compensação pelas novas taxas, em 1 de Julho de 1961.
 
-###### Art. 3.º Este decreto-lei revoga o artigo 6.º do [Decreto-Lei n.º 37191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37191-1948-369410), de 24 de Novembro de 1943, os Decretos-Leis n.os 38248, 40179 e 40261, respectivamente de 9 de Maio de 1951 e 31 de Maio e 29 de Julho de 1955, e as disposições em contrário do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
+Art. 3.º Este decreto-lei revoga o artigo 6.º do [Decreto-Lei n.º 37191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37191-1948-369410), de 24 de Novembro de 1943, os Decretos-Leis n.os 38248, 40179 e 40261, respectivamente de 9 de Maio de 1951 e 31 de Maio e 29 de Julho de 1955, e as disposições em contrário do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/72-1983-439442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba289c38ff438c7cb9189e2d585c4bf7f8e069e6e80102d97f8d63a424ca95d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3dca66ec6a1d994476efa5ae2e5d390935668b4a3f213acffb54b6166a0edca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Exposição
+- Manifestação Comercial
+- Manifestação Cultural
+- Paris
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:684403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684403:por
+  label: "Estendida ao Território de Macau a aplicação da Convenção na versão do Protocolo que a modifica aprovado pelo presente\
+    \ diploma, pelo DEC.222/99.1999.11.16.PR, DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/222-1999-684403
+  date: '1999-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:21Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +103,19 @@ de 6 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo que modifica a Convenção Relativa às Exposições Internacionais, assinada em Paris em 22 de Novembro de 1928, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo que modifica a Convenção Relativa às Exposições Internacionais, assinada em Paris em 22 de Novembro de 1928, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Julho de 1983. - Mário Soares - Jaime José Matos da Gama.
 
-**Assinado em 12 de Agosto de 1983.**
+Assinado em 12 de Agosto de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Agosto de 1983.**
+Referendado em 16 de Agosto de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 PROTOCOLE PORTANT MODIFICATION DE LA CONVENTION CONCERNANT DES EXPOSITIONS INTERNATIONALES SIGNÉE À PARIS LE 22 NOVEMBRE 1928.
 
@@ -645,7 +657,7 @@ Desejosos de adaptar às condições da actividade moderna as ditas regras e pro
 
 Acordaram no que se segue:
 
-ARTIGO I
+###### ARTIGO I
 
 O presente Protocolo tem por objectivo:
 
@@ -655,11 +667,11 @@ b) Modificar as disposições relativas às actividades do Gabinete Internaciona
 
 Modificação
 
-ARTIGO II
+###### ARTIGO II
 
 A Convenção de 1928 é novamente modificada pelo presente Protocolo de acordo com os objectivos expressos no artigo 1.º O texto da Convenção assim modificada figura no Apêndice ao presente Protocolo, de que faz parte integrante.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - O presente Protocolo está aberto à assinatura das Partes da Convenção de 1928, em Paris, de 30 de Novembro de 1972 a 29 de Novembro de 1973, e manter-se-á aberto após esta última data para a adesão destas mesmas Partes.
 
@@ -673,15 +685,15 @@ c) Adesão.
 
 3 - Os instrumentos de ratificação, aceitação, aprovação ou adesão são depositados junto do Governo da República Francesa.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O presente Protocolo entrará em vigor na data em que 29 Estados dele se tiverem tornado Partes nas condições previstas no artigo III.
 
-ARTIGO V
+###### ARTIGO V
 
 As disposições do presente Protocolo não se aplicam ao registo de uma exposição para a qual uma data tenha sido retida pelo Gabinete Internacional de Exposições até à sessão do conselho de administração, inclusive, que tiver imediatamente precedido a entrada em vigor do presente Protocolo, de acordo com o anterior artigo IV.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O Governo da República Francesa notificará aos governos das Partes Contratantes, assim como ao Gabinete Internacional de Exposições:
 
@@ -689,7 +701,7 @@ a) As assinaturas, ratificações, aprovações, aceitações e adesões, de aco
 
 b) A data em que o presente Protocolo entrará em vigor, de acordo com o artigo IV.
 
-ARTIGO VII
+###### ARTIGO VII
 
 A partir da entrada em vigor do presente Protocolo o Governo da República Francesa fá-lo-á registar junto do Secretariado das Nações Unidas, de acordo com o artigo 102.º da Carta das Nações Unidas.
 
@@ -1027,7 +1039,7 @@ Sob reserva de qualquer acordo que venha a ser estabelecido entre as Partes cont
 
 O activo será repartido entre as Partes contratantes proporcionalmente às suas quotizações pagas desde o momento em que entraram como Partes na presente Convenção. Se existir um passivo, será igualmente dividido por essas mesmas Partes, proporcionalmente às quotizações fixadas para o exercício financeiro em curso.
 
-## ANEXO À CONVENÇÃO RELATIVA ÀS EXPOSIÇÕES INTERNACIONAIS, ASSINADA EM PARIS EM 22 DE NOVEMBRO DE 1928, MODIFICADA E COMPLETADA PELOS PROTOCOLOS DE 10 DE MAIO DE 1948, DE 16 DE NOVEMBRO DE 1966 E DE 30 DE NOVEMBRO DE 1972.
+ANEXO À CONVENÇÃO RELATIVA ÀS EXPOSIÇÕES INTERNACIONAIS, ASSINADA EM PARIS EM 22 DE NOVEMBRO DE 1928, MODIFICADA E COMPLETADA PELOS PROTOCOLOS DE 10 DE MAIO DE 1948, DE 16 DE NOVEMBRO DE 1966 E DE 30 DE NOVEMBRO DE 1972.
 
 REGIME ADUANEIRO PARA A IMPORTAÇÃO DE ARTIGOS FEITA PELOS PARTICIPANTES EM EXPOSIÇÕES INTERNACIONAIS.
 

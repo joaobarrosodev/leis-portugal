@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49080-1969-200263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6839c35167cef89a69da92198dd9883a798320c3e8fc9dfcf40360eea273bc49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 437ea201815da883f1a3c8d9e9c51803ce77fcf55a89b8f4ecf4668e3719977e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Junta Nacional de Fomento das Pescas
+- Ministério da Marinha
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:47Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +106,9 @@ I
 
 Da instituição e fins
 
-###### Artigo 1.º É criada no Ministério da Marinha a Junta Nacional de Fomento das Pescas (J. N. F. P.), de funcionamento e de administração autónomos, dotada de personalidade jurídica, exercendo funções oficiais.
+Artigo 1.º É criada no Ministério da Marinha a Junta Nacional de Fomento das Pescas (J. N. F. P.), de funcionamento e de administração autónomos, dotada de personalidade jurídica, exercendo funções oficiais.
 
-###### Art. 2.º A acção da Junta Nacional de Fomento das Pescas tem por objectivos essenciais:
+Art. 2.º A acção da Junta Nacional de Fomento das Pescas tem por objectivos essenciais:
 
 a) De acordo com as directrizes fixadas pelo Ministro da Marinha:
 
@@ -116,7 +128,7 @@ II
 
 Da organização e funcionamento
 
-###### Art. 3.º - 1. A Junta Nacional de Fomento das Pescas será constituída por:
+Art. 3.º - 1. A Junta Nacional de Fomento das Pescas será constituída por:
 
 Um presidente;
 
@@ -126,19 +138,19 @@ Um representante do Ministério do Ultramar;
 
 Um representante do Secretariado Técnico da Presidência do Conselho;
 
-**O presidente da Comissão Reguladora do Comércio do Bacalhau;**
+O presidente da Comissão Reguladora do Comércio do Bacalhau;
 
 O director do Instituto Português de Conservas de Peixe;
 
-**O presidente da Junta Central das Casas dos Pescadores ou um dos seus membros por aquele designado;**
+O presidente da Junta Central das Casas dos Pescadores ou um dos seus membros por aquele designado;
 
 Três representantes dos grémios dos armadores dos navios de pesca, por estes designados.
 
 2. O presidente e o vice-presidente são de livre nomeação, respectivamente, do Presidente do Conselho de Ministros e do Ministro da Marinha, devendo recair em indivíduos independentes de quaisquer interesses nas indústrias da pesca.
 
-###### Art. 4.º A remuneração fixa mensal do presidente e do vice-presidente da Junta Nacional de Fomento das Pescas será determinada por despacho conjunto dos Ministros das Finanças e da Marinha, sendo paga por força das receitas próprias do organismo, e os vogais terão direito, por cada reunião a que assistam, a uma senha de presença e às despesas de deslocação, quando não residam em Lisboa, nas condições a fixar por despacho do Ministro da Marinha, com a concordância do Ministro das Finanças.
+Art. 4.º A remuneração fixa mensal do presidente e do vice-presidente da Junta Nacional de Fomento das Pescas será determinada por despacho conjunto dos Ministros das Finanças e da Marinha, sendo paga por força das receitas próprias do organismo, e os vogais terão direito, por cada reunião a que assistam, a uma senha de presença e às despesas de deslocação, quando não residam em Lisboa, nas condições a fixar por despacho do Ministro da Marinha, com a concordância do Ministro das Finanças.
 
-###### Art. 5.º - 1. O presidente dirige os serviços da Junta Nacional de Fomento das Pescas e é o seu representante responsável e o coordenador de toda a sua actividade, competindo-lhe, designadamente:
+Art. 5.º - 1. O presidente dirige os serviços da Junta Nacional de Fomento das Pescas e é o seu representante responsável e o coordenador de toda a sua actividade, competindo-lhe, designadamente:
 
 a) Velar pelo cumprimento das disposições legais e regulamentares que compete à Junta executar, e desempenhar, por delegação do Governo, os demais serviços e funções que lhe sejam atribuídos;
 
@@ -166,7 +178,7 @@ i) Contratar o pessoal necessário para assegurar o funcionamento da Junta.
 
 5. O presidente tem categoria equivalente à dos directores-gerais dos Ministérios.
 
-###### Art. 6.º - 1. O presidente da Junta Nacional de Fomento das Pescas actua de acordo com a política das pescas definida pelo Conselho de Ministros para os Assuntos Económicos e na execução dessa política despacha:
+Art. 6.º - 1. O presidente da Junta Nacional de Fomento das Pescas actua de acordo com a política das pescas definida pelo Conselho de Ministros para os Assuntos Económicos e na execução dessa política despacha:
 
 a) Com o Ministro da Marinha, no que respeita a assuntos da Marinha, de pesca e sua actividade, das instalações de pesca fixas, dos estabelecimentos de cultura de peixes, crustáceos e moluscos e da colheita de plantas marinhas;
 
@@ -174,23 +186,23 @@ b) Com os titulares dos outros departamentos, os assuntos das respectivas compet
 
 2. A acção da Junta Nacional de Fomento das Pescas em relação às províncias ultramarinas é sempre exercida de acordo com a orientação fixada pelo Ministro do Ultramar, ouvidos os governadores das mesmas províncias e nas condições que aquele Ministro estabelecer.
 
-###### Art. 7.º Ao vice-presidente da Junta Nacional de Fomento das Pescas compete auxiliar o presidente no exercício das suas funções.
+Art. 7.º Ao vice-presidente da Junta Nacional de Fomento das Pescas compete auxiliar o presidente no exercício das suas funções.
 
-###### Art. 8.º - 1. A Junta Nacional de Fomento das Pescas reunirá ordinàriamente duas vezes por mês e extraordinàriamente quando convocada pelo presidente, por sua iniciativa ou a pedido da maioria dos seus membros, e as suas deliberações serão tomadas por maioria de votos, prevalecendo, em caso de empate, o voto do presidente.
+Art. 8.º - 1. A Junta Nacional de Fomento das Pescas reunirá ordinàriamente duas vezes por mês e extraordinàriamente quando convocada pelo presidente, por sua iniciativa ou a pedido da maioria dos seus membros, e as suas deliberações serão tomadas por maioria de votos, prevalecendo, em caso de empate, o voto do presidente.
 
 2. Podem ser convidadas para tomar parte nas reuniões da Junta, sem direito a voto, quaisquer entidades interessadas na matéria em discussão.
 
-###### Art. 9.º Nas deliberações da Junta Nacional de Fomento das Pescas o voto contrário do presidente tem efeito suspensivo até resolução dos Ministros da Marinha ou da Economia.
+Art. 9.º Nas deliberações da Junta Nacional de Fomento das Pescas o voto contrário do presidente tem efeito suspensivo até resolução dos Ministros da Marinha ou da Economia.
 
-###### Art. 10.º - 1. Das decisões da Junta Nacional de Fomento das Pescas cabe recurso hierárquico para os Ministros da Marinha ou da Economia, conforme os casos, com efeito simplesmente devolutivo, interposto no prazo de cinco dias.
+Art. 10.º - 1. Das decisões da Junta Nacional de Fomento das Pescas cabe recurso hierárquico para os Ministros da Marinha ou da Economia, conforme os casos, com efeito simplesmente devolutivo, interposto no prazo de cinco dias.
 
 2. Das decisões definitivas e executórias do Ministro cabe recurso contencioso nos termos gerais do direito.
 
-###### Art. 11.º - 1. O conselho administrativo da Junta Nacional de Fomento das Pescas é constituído pelo presidente, vice-presidente e pelo vogal que for designado por despacho do Ministro da Marinha.
+Art. 11.º - 1. O conselho administrativo da Junta Nacional de Fomento das Pescas é constituído pelo presidente, vice-presidente e pelo vogal que for designado por despacho do Ministro da Marinha.
 
 2. O vogal perceberá uma gratificação mensal, fixada pelo Ministro da Marinha, com a concordância do Ministro das Finanças, paga pelas receitas próprias do organismo.
 
-###### Art. 12.º - 1. Ficam integrados na Junta Nacional de Fomento das Pescas os seguintes organismos:
+Art. 12.º - 1. Ficam integrados na Junta Nacional de Fomento das Pescas os seguintes organismos:
 
 a) Comissão Nacional de Coordenação e Planeamento das Pescas, criada pela portaria conjunta dos Ministros da Marinha e Ultramar de 16 de Janeiro de 1959;
 
@@ -202,13 +214,13 @@ c) Gabinete de Estudos das Pescas.
 
 3. Os organismos referidos nas alíneas b) e c) do n.º 1 serão reestruturados pelo regulamento a elaborar conforme o previsto no artigo 21.º
 
-###### Art. 13.º Por despacho do Ministro da Marinha serão fixadas as condições em que o Instituto Hidrográfico e o Instituto de Biologia Marítima poderão apoiar ou realizar os trabalhos de investigação científica de que a Junta Nacional de Fomento das Pescas necessitar.
+Art. 13.º Por despacho do Ministro da Marinha serão fixadas as condições em que o Instituto Hidrográfico e o Instituto de Biologia Marítima poderão apoiar ou realizar os trabalhos de investigação científica de que a Junta Nacional de Fomento das Pescas necessitar.
 
 III
 
 Da competência
 
-###### Art. 14.º Compete à Junta Nacional de Fomento das Pescas:
+Art. 14.º Compete à Junta Nacional de Fomento das Pescas:
 
 a) Estudar e estabelecer o planeamento económico das indústrias da pesca;
 
@@ -252,7 +264,7 @@ IV
 
 Das receitas e despesas
 
-###### Art. 15.º A Junta Nacional de Fomento das Pescas terá as seguintes receitas:
+Art. 15.º A Junta Nacional de Fomento das Pescas terá as seguintes receitas:
 
 a) A percentagem cobrada nos termos do artigo 16.º;
 
@@ -262,41 +274,41 @@ c) O juro dos fundos capitalizados e os rendimentos dos bens móveis e imóveis;
 
 d) Quaisquer outros rendimentos ou subsídios.
 
-###### Art. 16.º A Junta Nacional de Fomento das Pescas terá direito ao recebimento de uma percentagem, a fixar pelo Conselho de Ministros para os Assuntos Económicos, sobre as taxas cobradas pelos organismos da pesca representados na Junta.
+Art. 16.º A Junta Nacional de Fomento das Pescas terá direito ao recebimento de uma percentagem, a fixar pelo Conselho de Ministros para os Assuntos Económicos, sobre as taxas cobradas pelos organismos da pesca representados na Junta.
 
-###### Art. 17.º Todas as receitas da Junta Nacional de Fomento das Pescas serão depositadas em conta corrente à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 17.º Todas as receitas da Junta Nacional de Fomento das Pescas serão depositadas em conta corrente à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 18.º As despesas da Junta Nacional de Fomento das Pescas serão as que provierem da aplicação deste diploma e dos seus regulamentos e que se encontrem orçamentadas.
+Art. 18.º As despesas da Junta Nacional de Fomento das Pescas serão as que provierem da aplicação deste diploma e dos seus regulamentos e que se encontrem orçamentadas.
 
-###### Art. 19.º À Junta Nacional de Fomento das Pescas é aplicável o regime administrativo e financeiro estabelecido por lei para os organismos de coordenação económica.
+Art. 19.º À Junta Nacional de Fomento das Pescas é aplicável o regime administrativo e financeiro estabelecido por lei para os organismos de coordenação económica.
 
-###### Art. 20.º Será constituído um fundo de investigação científica, que terá a aplicação que for estabelecida no regulamento a publicar, conforme se prevê no artigo 21.º
+Art. 20.º Será constituído um fundo de investigação científica, que terá a aplicação que for estabelecida no regulamento a publicar, conforme se prevê no artigo 21.º
 
 V
 
 Das disposições gerais e transitórias
 
-###### Art. 21.º Dentro de noventa dias a contar da data da entrada em vigor do presente diploma, será publicado o regulamento da Junta Nacional de Fomento das Pescas por decreto referendado pelos Ministros da Marinha e da Economia.
+Art. 21.º Dentro de noventa dias a contar da data da entrada em vigor do presente diploma, será publicado o regulamento da Junta Nacional de Fomento das Pescas por decreto referendado pelos Ministros da Marinha e da Economia.
 
-###### Art. 22.º A Junta corresponder-se-á directamente com todas as entidades oficiais e delas poderá solicitar os elementos e a colaboração de que necessitar.
+Art. 22.º A Junta corresponder-se-á directamente com todas as entidades oficiais e delas poderá solicitar os elementos e a colaboração de que necessitar.
 
-###### Art. 23.º A Junta usará selo branco, que produzirá os mesmos efeitos que os dos serviços do Estado.
+Art. 23.º A Junta usará selo branco, que produzirá os mesmos efeitos que os dos serviços do Estado.
 
-###### Art. 24.º Nos termos do artigo 14.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936, poderão ser requisitados para prestar serviço na Junta Nacional de Fomento das Pescas, com a aprovação do Ministro da Marinha, quaisquer funcionários ou servidores do Estado ou dos seus organismos.
+Art. 24.º Nos termos do artigo 14.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936, poderão ser requisitados para prestar serviço na Junta Nacional de Fomento das Pescas, com a aprovação do Ministro da Marinha, quaisquer funcionários ou servidores do Estado ou dos seus organismos.
 
-###### Art. 25.º Aos funcionários credenciados pela Junta Nacional de Fomento das Pescas é concedido o direito de livre entrada em todos os locais onde se pratiquem actos sujeitos à jurisdição da mesma Junta.
+Art. 25.º Aos funcionários credenciados pela Junta Nacional de Fomento das Pescas é concedido o direito de livre entrada em todos os locais onde se pratiquem actos sujeitos à jurisdição da mesma Junta.
 
-###### Art. 26.º Até ao fim do corrente ano, as despesas a efectuar com a Junta Nacional de Fomento das Pescas constarão de orçamento especial.
+Art. 26.º Até ao fim do corrente ano, as despesas a efectuar com a Junta Nacional de Fomento das Pescas constarão de orçamento especial.
 
-###### Art. 27.º No caso de ser extinta a Junta Nacional de Fomento das Pescas, os seus móveis e as importâncias em cofre reverterão para o Estado.
+Art. 27.º No caso de ser extinta a Junta Nacional de Fomento das Pescas, os seus móveis e as importâncias em cofre reverterão para o Estado.
 
-###### Art. 28.º Neste diploma entende-se por «indústrias da pesca» não só a indústria da pesca pròpriamente dita, como todas as actividades e indústrias extractivas, de conservação e de transformação, de todos os produtos marinhos e indústrias conexas.
+Art. 28.º Neste diploma entende-se por «indústrias da pesca» não só a indústria da pesca pròpriamente dita, como todas as actividades e indústrias extractivas, de conservação e de transformação, de todos os produtos marinhos e indústrias conexas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Junho de 1969.**
+Promulgado em 11 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 81/1976, 1º Suplemento, Série I de 1976-04-05
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 678-(1) a 678-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08101/00010006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-a-1976-536868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 582fe0372db6df45f73f122e7ab0202dbe0d5727fed1a5cb257e289f0c23a3b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7316a8f5aedc1ba4714a6b384c529ab16068b438ff1465f318d5ed4e5181de28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa Agrícola
+- Direito de Reserva
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:278704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:162082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346076:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º, pela LEI.77/77.1977.09.29.PCM DR.IS [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:22Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +121,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º e 7.º, n.os 1 e 4, do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º e 7.º, n.os 1 e 4, do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Ficam sujeitos a expropriação, nos termos previstos no presente diploma, os prédios rústicos localizados na área de intervenção a definir por decreto-lei que se encontrem nalguma das seguintes situações:
+Artigo 1.º - 1. Ficam sujeitos a expropriação, nos termos previstos no presente diploma, os prédios rústicos localizados na área de intervenção a definir por decreto-lei que se encontrem nalguma das seguintes situações:
 
 a) Pertençam a pessoas singulares, sociedades ou pessoas colectivas de direito privado, ainda que de utilidade pública, que sejam proprietárias de prédios rústicos que, no seu conjunto, abranjam uma área superior a 30 ha e, mediante aplicação da tabela anexa a este diploma, se verifique corresponderem a mais de 50000 pontos ou, independentemente desse requisito, ultrapassem a área de 700 ha;
 
@@ -113,7 +135,7 @@ b) Estejam, sem motivo justificado, incultos ou não alcancem os níveis mínimo
 
 4. Considera-se produtor autónomo, para efeitos do número anterior, aquele que na exploração de um ou mais prédios utilize exclusivamente o trabalho próprio ou o de pessoas do seu agregado familiar.
 
-###### Art. 2.º - 1. Aos proprietários atingidos pela expropriação, que não se encontrem abrangidos pela alínea b) do n.º 1 do artigo anterior, é garantido o direito de reservar a propriedade de uma área de terra, a demarcar em função do ordenamento global das explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, mas nunca inferior a 30 ha, independentemente da pontuação.
+Art. 2.º - 1. Aos proprietários atingidos pela expropriação, que não se encontrem abrangidos pela alínea b) do n.º 1 do artigo anterior, é garantido o direito de reservar a propriedade de uma área de terra, a demarcar em função do ordenamento global das explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, mas nunca inferior a 30 ha, independentemente da pontuação.
 
 2. Quando os proprietários a que se refere o número anterior não explorem directamente a área que lhes venha a ser atribuída pelo exercício do direito de reserva, as cooperativas agrícolas de produção ou associações afins gozarão do direito de preferência no arrendamento dessa área.
 
@@ -125,7 +147,7 @@ b) Estejam, sem motivo justificado, incultos ou não alcancem os níveis mínimo
 
 6. É, contudo, proibida, sob pena de nulidade, a divisão do prédio rústico reservado.
 
-###### Art. 3.º - 1. Os centros regionais de reforma agrária devem notificar, por carta registada com aviso de recepção, quando for publicada a portaria de expropriação, os proprietários expropriados ou quem os represente de que podem exercer o direito de reserva previsto no artigo anterior.
+Art. 3.º - 1. Os centros regionais de reforma agrária devem notificar, por carta registada com aviso de recepção, quando for publicada a portaria de expropriação, os proprietários expropriados ou quem os represente de que podem exercer o direito de reserva previsto no artigo anterior.
 
 2. Não obstante o estabelecido no número anterior, mas para os mesmos efeitos, e obedecendo ao mesmo condicionalismo, devem os centros regionais de reforma agrária fazer afixar editais nas juntas de freguesia e câmaras municipais em cuja área se situem os prédios expropriados.
 
@@ -135,25 +157,25 @@ b) Estejam, sem motivo justificado, incultos ou não alcancem os níveis mínimo
 
 ...
 
-###### Art. 7.º - 1. Ninguém, seja pessoa singular, pessoa colectiva, sociedade ou agrupamento de facto, poderá ser proprietário ou explorar, directa ou indirectamente, a qualquer título, uma área de terra que exceda a pontuação referida na alínea a) do artigo 1.º, salvo a exclusão aí prevista e o disposto nos n.os 2 e 3 do mesmo artigo.
+Art. 7.º - 1. Ninguém, seja pessoa singular, pessoa colectiva, sociedade ou agrupamento de facto, poderá ser proprietário ou explorar, directa ou indirectamente, a qualquer título, uma área de terra que exceda a pontuação referida na alínea a) do artigo 1.º, salvo a exclusão aí prevista e o disposto nos n.os 2 e 3 do mesmo artigo.
 
 ...
 
 4. São excluídos da proibição constante do n.º 1 o Estado, as pessoas colectivas de direito público, as empresas públicas, as cooperativas agrícolas que venham a ser reguladas por legislação especial e associações afins.
 
-###### Art. 2.º - 1. Os centros regionais de reforma agrária deverão, no prazo de trinta dias, a contar da data de publicação do presente decreto-lei, dar execução ao estabelecido nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, na sua nova redacção, quanto a expropriações já realizadas, independentemente de ter ocorrido anterior notificação ou afixação de editais.
+Art. 2.º - 1. Os centros regionais de reforma agrária deverão, no prazo de trinta dias, a contar da data de publicação do presente decreto-lei, dar execução ao estabelecido nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, na sua nova redacção, quanto a expropriações já realizadas, independentemente de ter ocorrido anterior notificação ou afixação de editais.
 
 2. Se os proprietários cujos prédios hajam sido expropriados tiverem tido conhecimento de tal facto, por qualquer modo, poderão exercer o direito de reserva, independentemente do disposto no número anterior, desde que o façam nos termos legais e dentro do prazo aí referido.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 27 de Março de 1976.**
+Promulgado em 27 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Princípios fundamentais a respeitar no prosseguimento da Reforma Agrária na zona de intervenção.
 
@@ -343,4 +365,4 @@ Reconhecida a existência de duas zonas social e economicamente bem diferenciada
 
 Considera-se, por isso, que deve ser delimitada a zona de intervenção da Reforma Agrária nos termos dos princípios gerais orientadores agora definidos, tornando-se igualmente explícito que a mesma não se aplicará nas restantes zonas do País. A delimitação da zona de intervenção deve ser feita no mais curto prazo, assentando-se desde já que, correspondendo essa zona às regiões de predomínio das grandes propriedades, deverá englobar, grosso modo, os distritos de Setúbal, Évora, Portalegre e Beja e parte dos distritos de Lisboa, Santarém, Castelo Branco e Faro.
 
-**O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.**
+O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.

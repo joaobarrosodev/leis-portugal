@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 112/1974, 1º Suplemento, Série I de 1974-05-14
   number: '112'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 622-(2) a 622-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/11201/00020003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1974-408540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf6f74c3591ccb0b801914e86e7d8f9152c1e0a67a2549e67c751027498ee779
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67534fdba83d9973abc59b3b894ba2d64f688cd66696a2b9a1e5a3ff691db346
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Perdão da Pena
+- Regulamento de Disciplina Militar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:13Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +102,9 @@ Considerando que, assim, se interpreta o sentimento da Nação:
 
 A Junta de Salvação Nacional, usando dos poderes legislativos que assumiu, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º Serão anuladas as penas disciplinares previstas nos n.os 1.º a 3.º do artigo 7.º, nos n.os 1.º a 4.º do artigo 15.º, nos n.os 1.º a 6.º do artigo 21.º, nos n.os 1.º a 9.º do artigo 22.º e nos n.os 1.º a 3.º dos artigos 35.º e 36.º, todos do Regulamento de Disciplina Militar, e cancelados os respectivos registos, quando essas penas tenham sido impostas antes da publicação deste decreto-lei, por infracções cometidas até ao dia 25 de Abril de 1974, inclusive.
+Artigo 1.º Serão anuladas as penas disciplinares previstas nos n.os 1.º a 3.º do artigo 7.º, nos n.os 1.º a 4.º do artigo 15.º, nos n.os 1.º a 6.º do artigo 21.º, nos n.os 1.º a 9.º do artigo 22.º e nos n.os 1.º a 3.º dos artigos 35.º e 36.º, todos do Regulamento de Disciplina Militar, e cancelados os respectivos registos, quando essas penas tenham sido impostas antes da publicação deste decreto-lei, por infracções cometidas até ao dia 25 de Abril de 1974, inclusive.
 
-###### Art. 2.º Serão anuladas as penas de prisão disciplinar e de prisão disciplinar agravada aplicadas antes da publicação deste decreto-lei por infracções cometidas até ao dia 25 de Abril de 1974, inclusive, e cancelados os respectivos registos, observando-se, porém, o seguinte:
+Art. 2.º Serão anuladas as penas de prisão disciplinar e de prisão disciplinar agravada aplicadas antes da publicação deste decreto-lei por infracções cometidas até ao dia 25 de Abril de 1974, inclusive, e cancelados os respectivos registos, observando-se, porém, o seguinte:
 
 a) Se o infractor não tiver averbada mais do que uma pena de prisão, ou se havendo mais do que uma pena de prisão, a sua totalidade, feitas as equivalências regulamentares, não exceder trinta dias de prisão disciplinar, a anulação e o cancelamento são feitos imediatamente;
 
@@ -107,24 +112,24 @@ b) Se, havendo mais do que uma pena de prisão, a sua totalidade, feitas as equi
 
 § único. No caso da alínea b), a anulação das penas e o cancelamento dos respectivos registos só poderão dar-se quando os infractores não tenham cometido qualquer infracção penal ou disciplinar dentro do prazo estabelecido.
 
-###### Art. 3.º São arquivados todos os processos em curso, por infracções disciplinares cometidas até ao dia 25 de Abril de 1974, inclusive.
+Art. 3.º São arquivados todos os processos em curso, por infracções disciplinares cometidas até ao dia 25 de Abril de 1974, inclusive.
 
-###### Art. 4.º Se houver autos de reclamação ou de recurso pendentes à data da publicação deste decreto-lei, relativos a infracções cometidas até ao dia 25 de Abril de 1974, inclusive, a aplicação das medidas de clemência só poderá ocorrer depois de ter sido proferida decisão final.
+Art. 4.º Se houver autos de reclamação ou de recurso pendentes à data da publicação deste decreto-lei, relativos a infracções cometidas até ao dia 25 de Abril de 1974, inclusive, a aplicação das medidas de clemência só poderá ocorrer depois de ter sido proferida decisão final.
 
-###### Art. 5.º Os militares já transferidos para o Depósito Disciplinar ou presos numa fortaleza, nos termos dos artigos 201.º e 202.º do Regulamento de Disciplina Militar, regressarão às suas anteriores situações e não será aplicável o disposto nos mencionados preceitos aos que estejam na condições neles previstas à data da publicação deste diploma.
+Art. 5.º Os militares já transferidos para o Depósito Disciplinar ou presos numa fortaleza, nos termos dos artigos 201.º e 202.º do Regulamento de Disciplina Militar, regressarão às suas anteriores situações e não será aplicável o disposto nos mencionados preceitos aos que estejam na condições neles previstas à data da publicação deste diploma.
 
-###### Art. 6.º As presentes disposições apenas se aplicam as infracções disciplinares cometidas durante o período em que os seus agentes pertenciam a qualquer dos departamentos do Estado das forças armadas, das forças militarizadas ou se encontravam em qualquer das situações previstas nos artigos 35.º e 36.º do Regulamento de Disciplina Militar.
+Art. 6.º As presentes disposições apenas se aplicam as infracções disciplinares cometidas durante o período em que os seus agentes pertenciam a qualquer dos departamentos do Estado das forças armadas, das forças militarizadas ou se encontravam em qualquer das situações previstas nos artigos 35.º e 36.º do Regulamento de Disciplina Militar.
 
 § 1.º Os benefícios previstos no presente decreto-lei não compreendem a anulação dos efeitos de transferência, mudança de quadro, baixa de posto, eliminação, baixa de serviço, passagem à reforma, descida na escala de antiguidade e preterição, já verificada, na promoção.
 
 § 2.º As penas disciplinares anuladas nos termos deste decreto-lei serão tomadas em consideração para o efeito do disposto no artigo 187.º do Regulamento de Disciplina Militar.
 
-###### Art. 7.º O presente decreto-lei entra imediatamente em vigor.
+Art. 7.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 14 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado em todos os Boletins Oficiais dos Estados e províncias ultramarinos.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/207-1970-142287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec729737ca4c1167933fa74462f08ee48cabbee3077215c8cdb16159bfa0497f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba804931df6cf072cfa4c5e7244b88d7d9af8f3d36658bf7594c75d94377bfc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:422651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:263202:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:14Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O pessoal dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e do Instituto do Café de Angola distribui-se pelos seguintes quadros:
+Artigo 1.º - 1. O pessoal dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e do Instituto do Café de Angola distribui-se pelos seguintes quadros:
 
 Quadro comum;
 
@@ -110,23 +114,23 @@ Quadro complementar.
 
 3. No quadro complementar incluem-se todos os contratados para lugares que não constem dos quadros permanentes superiormente aprovados.
 
-###### Art. 2.º - 1. O recrutamento do pessoal para os quadros far-se-á por escolha e por concurso documental ou de provas práticas.
+Art. 2.º - 1. O recrutamento do pessoal para os quadros far-se-á por escolha e por concurso documental ou de provas práticas.
 
 2. Os concursos serão abertos com observância dos preceitos a eles relativos constantes do Estatuto do Funcionalismo Ultramarino.
 
 3. Para os lugares do quadro comum a prover por contrato pode o Ministro do Ultramar dispensar a realização de concurso, se nisso houver conveniência.
 
-###### Art. 3.º No caso de não haver candidatos aos concursos de ingresso ou quando o número de candidatos seja insuficiente, poderão ser admitidos, por escolha, indivíduos que reúnam as condições legais para o provimento normal dos cargos.
+Art. 3.º No caso de não haver candidatos aos concursos de ingresso ou quando o número de candidatos seja insuficiente, poderão ser admitidos, por escolha, indivíduos que reúnam as condições legais para o provimento normal dos cargos.
 
-###### Art. 4.º Enquanto se mantiverem as actuais dificuldades de recrutamento de pessoal diplomado com curso médio ou superior adequado e na falta de indivíduos nas condições do artigo anterior, poderão ser admitidos por contrato, em lugares de ingresso nos quadros, indivíduos que não satisfaçam às condições de limite de idade estabelecidas na lei geral.
+Art. 4.º Enquanto se mantiverem as actuais dificuldades de recrutamento de pessoal diplomado com curso médio ou superior adequado e na falta de indivíduos nas condições do artigo anterior, poderão ser admitidos por contrato, em lugares de ingresso nos quadros, indivíduos que não satisfaçam às condições de limite de idade estabelecidas na lei geral.
 
-###### Art. 5.º - 1. O pessoal que à data da publicação do presente diploma já se encontre ao serviço há mais de três anos consecutivos e com boas informações poderá ser nomeado ou contratado, por escolha, independentemente da idade, para os lugares dos quadros referidos no corpo do artigo 1.º de categoria tanto quanto possível correspondente.
+Art. 5.º - 1. O pessoal que à data da publicação do presente diploma já se encontre ao serviço há mais de três anos consecutivos e com boas informações poderá ser nomeado ou contratado, por escolha, independentemente da idade, para os lugares dos quadros referidos no corpo do artigo 1.º de categoria tanto quanto possível correspondente.
 
 2. Todo o tempo de serviço prestado anteriormente à entrada em vigor deste diploma pelo pessoal a que se refere o número anterior, qualquer que tenha sido a forma dessa prestação de serviço, será contado para todos os efeitos legais, incluindo o da aposentação, desde que, neste último caso, desconte as quotas respectivas, se não o tiver já feito.
 
-###### Art. 6.º Os cargos de director e director-adjunto serão providos em comissão ordinária de serviço, por escolha do Ministro do Ultramar, ouvido o governador-geral, entre diplomados com curso superior adequado às actividades dos Institutos, cujo curriculum demonstre possuírem as qualidades e aptidões necessárias para o exercício do cargo.
+Art. 6.º Os cargos de director e director-adjunto serão providos em comissão ordinária de serviço, por escolha do Ministro do Ultramar, ouvido o governador-geral, entre diplomados com curso superior adequado às actividades dos Institutos, cujo curriculum demonstre possuírem as qualidades e aptidões necessárias para o exercício do cargo.
 
-###### Art. 7.º - 1. O ingresso e a promoção no quadro comum obedecerão às seguintes regras:
+Art. 7.º - 1. O ingresso e a promoção no quadro comum obedecerão às seguintes regras:
 
 a) Chefe de serviços - por promoção de funcionários de categoria não inferior à letra F, com mais de três anos de serviço na categoria, boas informações e um curso superior adequado, ou, na falta deles, por nomeação ou contrato de licenciados com um curso superior adequado, cujo curriculum e aptidões reveladas no serviço público ou na actividade particular o justifiquem;
 
@@ -152,25 +156,25 @@ k) Tesoureiro - por escolha entre os primeiros-oficiais do respectivo quadro.
 
 2. Para efeitos de promoção à categoria superior deverá atender-se às informações de serviço, habilitações literárias e antiguidade.
 
-###### Art. 8.º O lugar de secretário será provido por escolha, em comissão de serviço, de um funcionário de categoria não inferior à da letra J, ao qual será atribuída uma gratificação mensal a fixar pelo governador-geral.
+Art. 8.º O lugar de secretário será provido por escolha, em comissão de serviço, de um funcionário de categoria não inferior à da letra J, ao qual será atribuída uma gratificação mensal a fixar pelo governador-geral.
 
-###### Art. 9.º O ingresso e a promoção dentro dos quadros privativos serão objecto de regulamentação pelos órgãos legislativos das províncias.
+Art. 9.º O ingresso e a promoção dentro dos quadros privativos serão objecto de regulamentação pelos órgãos legislativos das províncias.
 
-###### Art. 10.º - 1. É criado nos quadros do pessoal dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e no Instituto do Café de Angola o lugar de inspector provincial, com a categoria da letra D, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 10.º - 1. É criado nos quadros do pessoal dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e no Instituto do Café de Angola o lugar de inspector provincial, com a categoria da letra D, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. A nomeação para o cargo de inspector provincial será feita, por escolha do Ministro, entre indivíduos diplomados com um curso superior adequado às actividades dos Institutos, cujo curriculum demonstre possuírem as qualidades e aptidões necessárias para o exercício do cargo.
 
-###### Art. 11.º - 1. Em cada um dos quadros do pessoal técnico e de investigação dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e do Instituto do Café de Angola é criado o lugar de técnico-director, com a categoria da letra D, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 11.º - 1. Em cada um dos quadros do pessoal técnico e de investigação dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e do Instituto do Café de Angola é criado o lugar de técnico-director, com a categoria da letra D, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. O provimento dos lugares referidos no corpo do artigo será feito, por escolha do Ministro, sob proposta do governador-geral, entre os engenheiros agrónomos-chefes ou silvicultores-chefes e os técnicos-chefes dos respectivos quadros ou, na sua falta, entre técnicos de formação superior adequada de reconhecida competência e com um mínimo de cinco anos consecutivos de serviço prestado nas províncias ultramarinas ou no Ministério do Ultramar.
 
-###### Art. 12.º O lugar de director adjunto do Instituto dos Cereais de Moçambique passa a incluir-se na categoria da letra D, referida no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 12.º O lugar de director adjunto do Instituto dos Cereais de Moçambique passa a incluir-se na categoria da letra D, referida no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 13.º - 1. É criado no Instituto do Café de Angola o lugar de fotógrafo, incluído na categoria da letra L, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 13.º - 1. É criado no Instituto do Café de Angola o lugar de fotógrafo, incluído na categoria da letra L, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. O lugar de fotógrafo será provido por escolha de entre indivíduos com adequada preparação profissional.
 
-###### Art. 14.º - 1. Aos funcionários dos quadros destes Institutos poderão ser atribuídos cumulativamente gratificação e subsídio diário, sem prejuízo da percepção de subsídios de isolamento, de renda de casa, ajudas de custo ou outros que vigorem nas respectivas províncias.
+Art. 14.º - 1. Aos funcionários dos quadros destes Institutos poderão ser atribuídos cumulativamente gratificação e subsídio diário, sem prejuízo da percepção de subsídios de isolamento, de renda de casa, ajudas de custo ou outros que vigorem nas respectivas províncias.
 
 2. Os quantitativos e as normas de atribuição da gratificação e do subsídio diário serão fixados por despacho do governador-geral.
 
@@ -178,21 +182,21 @@ k) Tesoureiro - por escolha entre os primeiros-oficiais do respectivo quadro.
 
 4. A gratificação e os subsídios previstos no corpo do artigo não são devidos, quando o funcionário, nos termos do número anterior, exercer qualquer outra actividade oficial ou particular remunerada.
 
-###### Art. 15.º Aos funcionários dos Institutos do Algodão e dos Cereais de Moçambique será abonado subsídio para renda de casa, nos termos que forem fixados para a província.
+Art. 15.º Aos funcionários dos Institutos do Algodão e dos Cereais de Moçambique será abonado subsídio para renda de casa, nos termos que forem fixados para a província.
 
-###### Art. 16.º É extinto no Instituto do Algodão de Moçambique o lugar de inspector.
+Art. 16.º É extinto no Instituto do Algodão de Moçambique o lugar de inspector.
 
-###### Art. 17.º - 1. O pessoal dos quadros a que se referem o artigo 1.º e seus números consta dos mapas anexos.
+Art. 17.º - 1. O pessoal dos quadros a que se referem o artigo 1.º e seus números consta dos mapas anexos.
 
 2. O provimento dos novos lugares criados pelo presente decreto só se efectuará à medida que as disponibilidades financeiras das províncias o permitirem.
 
-###### Art. 18.º Este decreto entra imediatamente em vigor e revoga o [Decreto n.º 48692](https://diariodarepublica.pt/dr/detalhe/decreto/48692-1968-263202), de 19 de Novembro de 1968, e ainda os diplomas legislativos e os regulamentos internos dos Institutos que, pelos Governos-Gerais de Angola e de Moçambique, tiverem sido publicados sobre a matéria versada no presente decreto e que o contrariem.
+Art. 18.º Este decreto entra imediatamente em vigor e revoga o [Decreto n.º 48692](https://diariodarepublica.pt/dr/detalhe/decreto/48692-1968-263202), de 19 de Novembro de 1968, e ainda os diplomas legislativos e os regulamentos internos dos Institutos que, pelos Governos-Gerais de Angola e de Moçambique, tiverem sido publicados sobre a matéria versada no presente decreto e que o contrariem.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Abril de 1970.**
+Promulgado em 29 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -200,6 +204,6 @@ Para ser publicado nos Boletins Oficiais de Angola e de Moçambique. - J. da Sil
 
 Do MAPA I ao MAPA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/11100/06060610.pdf))](https://files.diariodarepublica.pt/1s/1970/05/11100/06060610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/11100/06060610.pdf)
 
 Ministério do Ultramar, 29 de Abril de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

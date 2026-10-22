@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/78-1983-441485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbbb2cfe0e095ec29735741bb0bf6c70f17a479f0fc22b5dd92fe33900c8bc48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2610bc9e75c77e544c377beee92c2fbb7101ddab46682853ca252d1114765897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Higiene do Trabalho
+- Navegação Marítima
+- Pessoal do MAR
+- Portugal
+- Salvaguarda da VIDA Humana no MAR
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:426760:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426760:por
+  label: "Estendida ao Território de Macau a aplicação da Convenção aprovada para Adesão pelo presente diploma, pelo DEC.174/99.1999.08.05.PR\
+    \ DR.IS-A [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/174-1999-426760
+  date: '1999-08-05'
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:27Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +104,19 @@ de 14 de Outubro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para adesão o Protocolo de 1978 relativo à Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para adesão o Protocolo de 1978 relativo à Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama.
 
-**Assinado em 4 de Outubro de 1983.**
+Assinado em 4 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Outubro de 1983.**
+Referendado em 6 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Protocol of 1978 Relating to the International Convention for the Safety of Life at Sea, 1974
 
@@ -639,7 +652,7 @@ Issued under the provisions of the
 
 Protocol of 1978 Relating to the International Convention for the Safety of Life at Sea, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
 
 Type of ship:
 
@@ -743,7 +756,7 @@ Issued under the provisions of the
 
 Protocol of 1978 Relating to the International Convention for the Safety of Life at Sea, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
 
 Type of ship:
 
@@ -837,15 +850,11 @@ Considerando que este objectivo pode ser melhor alcançado com a conclusão de u
 
 acordaram no seguinte:
 
-ARTIGO I
-
-Obrigações gerais
+###### ARTIGO I — Obrigações gerais
 
 As Partes do presente Protocolo comprometem-se a dar cumprimento às prescrições do presente Protocolo e seu anexo, o qual constitui uma parte integrante do presente Protocolo. Qualquer referência ao presente Protocolo constitui ao mesmo tempo uma referência ao seu anexo.
 
-ARTIGO II
-
-Aplicação
+###### ARTIGO II — Aplicação
 
 1 - As prescrições dos artigos II, III [excepto parágrafo a)], IV, VI, b), c) e d), VII e VIII da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974 (daqui em diante referida como «a Convenção») estão incluídas no presente Protocolo, desde que as referências naqueles artigos à Convenção e aos Governos contratantes sejam tomadas como referências ao presente Protocolo e às Partes do presente Protocolo, respectivamente.
 
@@ -853,15 +862,11 @@ Aplicação
 
 3 - Relativamente aos navios das Partes não contratantes da Convenção e do presente Protocolo, as Partes do presente Protocolo devem aplicar os requisitos da Convenção e do presente Protocolo, na medida do necessário, para assegurar que tais navios não beneficiem de tratamento mais favorável.
 
-ARTIGO III
-
-Comunicação de informações
+###### ARTIGO III — Comunicação de informações
 
 As Partes do presente Protocolo comprometem-se a comunicar e a depositar junto do secretário-geral da Organização Marítima Consultiva Intergovernamental, (daqui em diante referida como «a Organização») uma lista dos peritos designados ou organizações reconhecidas, que estão autorizadas a actuar em seu nome na aplicação das medidas para a salvaguarda da vida humana no mar, para circulação pelas Partes e conhecimento dos seus funcionários. A Administração, portanto, deve notificar a Organização das responsabilidades específicas e condições da autoridade delegada nos peritos designados ou organizações reconhecidas.
 
-ARTIGO IV
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### ARTIGO IV — Assinatura, ratificação, aceitação, aprovação e adesão
 
 1 - O presente Protocolo está aberto para assinatura na sede da Organização de 1 de Junho de 1978 até 1 de Março de 1979, e em seguida manter-se-á aberto à adesão. Sujeitos às prescrições do parágrafo 3 deste artigo, os Estados podem tornar-se Partes do presente Protocolo por:
 
@@ -875,9 +880,7 @@ c) Adesão.
 
 3 - A assinatura sem reserva, ratificação, aceitação, aprovação ou adesão do presente Protocolo só pode ser efectuada pelos Estados que tenham assinado sem reserva, ratificado, aceite, aprovado ou aderido à Convenção.
 
-ARTIGO V
-
-Entrada em vigor
+###### ARTIGO V — Entrada em vigor
 
 1 - O presente Protocolo entra em vigor 6 meses após a data na qual não menos de 15 Estados, cujas frotas mercantes somadas constituam pelo menos 50% da tonelagem bruta da frota mercante mundial, se tenham tornado Partes dele de acordo com o artigo IV do presente Protocolo, estipulando-se, contudo, que o presente Protocolo não entrará em vigor antes da Convenção.
 
@@ -885,9 +888,7 @@ Entrada em vigor
 
 3. Qualquer instrumento de ratificação, aceitação, aprovação ou adesão depositado depois da data em que uma alteração ao presente Protocolo é considerada ter sido aceite, de acordo com o artigo VIII da Convenção, aplica-se ao Protocolo na sua forma modificada.
 
-ARTIGO VI
-
-Denúncia
+###### ARTIGO VI — Denúncia
 
 1 - O presente Protocolo pode ser denunciado por qualquer Parte em qualquer momento após expirados 5 anos depois da data em que o presente Protocolo entrou em vigor para essa Parte.
 
@@ -897,9 +898,7 @@ Denúncia
 
 4 - A denúncia da Convenção por uma Parte é considerada como uma denúncia do presente Protocolo por essa Parte.
 
-ARTIGO VII
-
-Depositário
+###### ARTIGO VII — Depositário
 
 1 - O presente Protocolo deve ser depositado junto do Secretário-Geral da Organização (daqui em diante referido como «o Depositário»).
 
@@ -917,9 +916,7 @@ b) Transmitirá cópias autenticadas e certificadas do presente Protocolo a todo
 
 3 - Logo que o presente Protocolo entre em vigor, uma cópia autenticada e certificada do mesmo é transmitida pelo Depositário ao Secretariado das Nações Unidas para registo e publicação, de acordo com o artigo 102.º da Carta das Nações Unidas.
 
-ARTIGO VIII
-
-Línguas
+###### ARTIGO VIII — Línguas
 
 O presente Protocolo está redigido num original único em chinês, espanhol, francês, inglês e russo, sendo cada texto igualmente autêntico. Serão preparadas traduções oficiais em alemão, árabe e italiano, as quais serão depositadas juntamente com o original assinado.
 
@@ -931,7 +928,7 @@ Feito em Londres no dia 17 de Fevereiro de 1978.
 
 ### CAPÍTULO I — Disposições gerais
 
-# PARTE A
+## PARTE A
 
 Aplicação, definições, etc.
 
@@ -943,7 +940,7 @@ O parágrafo seguinte é acrescentado ao texto exis tente:
 
 n) «Idade de um navio» significa o período de tempo decorrido desde o ano de construção que consta nos documentos de registo.
 
-# PARTE B — Vistorias e certificados
+## PARTE B — Vistorias e certificados
 
 Regra 6
 
@@ -1063,7 +1060,7 @@ f) No exercício da fiscalização no âmbito desta regra devem ser feitos todos
 
 ### CAPÍTULO II-1 — Construção - Subdivisão e estabilidade, máquinas e instalações eléctricas
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 Regra 1
 
@@ -1113,7 +1110,7 @@ iii) No caso de outro aparelho de governo hidráulico, um motor de accionamento 
 
 n) O aparelho de governo auxiliar é o equipamento, instalado para efectuar o movimento do leme, a fim de governar o navio em caso de avaria do aparelho de governo principal.
 
-# PARTE C — Máquinas e instalações eléctricas
+## PARTE C — Máquinas e instalações eléctricas
 
 Regra 29
 
@@ -1153,7 +1150,7 @@ H) A todos os navios-tanques novos de 10000 tAB ou superior, além dos requisito
 
 ### CAPÍTULO II-2 — Construção - Prevenção, detecção e extinção de incêndios
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 Regra 1
 
@@ -1199,7 +1196,7 @@ i) Petróleo bruto do qual possam ter sido extraídas algumas fracções de dest
 
 ii) Petróleo bruto ao qual possam ter sido adicionadas algumas fracções de destilação.
 
-# PARTE E — Medidas de segurança contra incêndios em navios-tanques
+## PARTE E — Medidas de segurança contra incêndios em navios-tanques
 
 Regra 55
 
@@ -1325,7 +1322,7 @@ e) A Administração pode dispensar a execução das verificações e provas pre
 
 f) A data na qual as verificações e provas prescritas nos parágrafos a) e b) desta regra são efectuadas e a data e detalhes dos exercícios de governo do navio em situações de emergência efectuados como prescrito no parágrafo d) desta regra devem ser registados no diário de navegação prescrito pela Administração.
 
-## APÊNDICE
+APÊNDICE
 
 Modelo do certificado de segurança de construção para navios de carga
 
@@ -1341,7 +1338,7 @@ Passado segundo as prescrições do
 
 Protocolo de 1978 Relativo à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
 
 Tipo de navio:
 
@@ -1447,7 +1444,7 @@ Passado segundo as prescrições do
 
 Protocolo de 1978 Relativo à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23700/35743596.pdf)
 
 Tipo de navio:
 

@@ -50,40 +50,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46917-1966-486922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7db9c6e77e5c99629fa7b6115e7851df477fdf3029dd10552b8921a19fc86686
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bb31edb01e13d80fc41db015801ae2f72d732a0d1516538c025adb946fc4e0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:313646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:487564:por
+  label: Rectificado o § 2.º do art. 4º do presente diploma, pela DECL.DD11684.19.04.1966.PC, DG.IS [92] de 19.04.1966
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1966-487564
+  date: '1966-04-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:30Z'
   warnings: []
   errors: []
 ---
@@ -126,33 +145,33 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A partir de 1 de Janeiro de 1966 são aplicáveis a todas as empresas da rede eléctrica primária o disposto no artigo 1.º do [Decreto-Lei n.º 46031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46031-1964-536467), de 14 de Novembro de 1964, e a doutrina do artigo 124.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
+Artigo 1.º A partir de 1 de Janeiro de 1966 são aplicáveis a todas as empresas da rede eléctrica primária o disposto no artigo 1.º do [Decreto-Lei n.º 46031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46031-1964-536467), de 14 de Novembro de 1964, e a doutrina do artigo 124.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
 
-###### Art. 2.º As tarifas de venda de energia pela empresa concessionária do transporte às empresas e serviços distribuidores, bem como aos restantes consumidores abastecidos directamente, nos termos da base XIII da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, e do artigo 84.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, deverão ser baseadas nas previsões de consumo e nas hipóteses de exploração que se afigurarem mais prováveis, de de modo que, para essas previsões e hipóteses, compensem aproximadamente os encargos da produção e do transporte mencionados no artigo 1.º do [Decreto-Lei n.º 46031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46031-1964-536467), de 14 de Novembro de 1964, com a extensão que lhe deu o artigo anterior, e ainda as dotações a consignar ao Fundo de Apoio Térmico. As referidas tarifas continuarão a ser fixadas pelo Secretário de Estado da Indústria de harmonia com os princípios estabelecidos nas disposições legais em vigor e designadamente no artigo 125.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, não podendo ser invocadas, contra a sua aplicação, quaisquer situações jurídicas decorrentes de actos ou contratos anteriores.
+Art. 2.º As tarifas de venda de energia pela empresa concessionária do transporte às empresas e serviços distribuidores, bem como aos restantes consumidores abastecidos directamente, nos termos da base XIII da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, e do artigo 84.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, deverão ser baseadas nas previsões de consumo e nas hipóteses de exploração que se afigurarem mais prováveis, de de modo que, para essas previsões e hipóteses, compensem aproximadamente os encargos da produção e do transporte mencionados no artigo 1.º do [Decreto-Lei n.º 46031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46031-1964-536467), de 14 de Novembro de 1964, com a extensão que lhe deu o artigo anterior, e ainda as dotações a consignar ao Fundo de Apoio Térmico. As referidas tarifas continuarão a ser fixadas pelo Secretário de Estado da Indústria de harmonia com os princípios estabelecidos nas disposições legais em vigor e designadamente no artigo 125.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, não podendo ser invocadas, contra a sua aplicação, quaisquer situações jurídicas decorrentes de actos ou contratos anteriores.
 
-###### Art. 3.º As receitas provenientes da venda de energia de que trata o artigo 2.º pertencerão, em conjunto, ao grupo das empresas produtoras e transportadora da rede eléctrica primária e serão repartidas pelas referidas empresas e pelo Fundo de Apoio Térmico, segundo as percentagens que forem estabelecidas pelo Secretário de Estado da Indústria nos termos do artigo seguinte.
+Art. 3.º As receitas provenientes da venda de energia de que trata o artigo 2.º pertencerão, em conjunto, ao grupo das empresas produtoras e transportadora da rede eléctrica primária e serão repartidas pelas referidas empresas e pelo Fundo de Apoio Térmico, segundo as percentagens que forem estabelecidas pelo Secretário de Estado da Indústria nos termos do artigo seguinte.
 
 § 1.º Quando seja de prever o início de execução de novos empreendimentos ainda não atribuídos legalmente a qualquer das empresas, poderá ser também estabelecida uma percentagem para cobertura dos respectivos encargos. A receita correspondente a essa percentagem será transitòriamente incorporada no Fundo de Apoio Térmico, donde poderá ser levantada, com autorização do Secretário de Estado da Indústria, logo que se verifique a existência dos encargos a cuja cobertura se destinava.
 
 § 2.º O disposto no corpo do artigo deve entender-se sem prejuízo do artigo 8.º do [Decreto-Lei n.º 46031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46031-1964-536467), de 14 de Novembro de 1964.
 
-###### Art. 4.º Para cada ano e com base nos respectivos encargos e nos investimentos previstos em novos empreendimentos, deverão as empresas interessadas apresentar de comum acordo e por intermédio da Companhia Nacional de Electricidade, até 31 de Outubro do ano anterior, uma proposta de repartição das receitas a que se refere o artigo 3.º
+Art. 4.º Para cada ano e com base nos respectivos encargos e nos investimentos previstos em novos empreendimentos, deverão as empresas interessadas apresentar de comum acordo e por intermédio da Companhia Nacional de Electricidade, até 31 de Outubro do ano anterior, uma proposta de repartição das receitas a que se refere o artigo 3.º
 
 § 1.º O Secretário de Estado da Indústria poderá alterar as percentagens destinadas ao Fundo de Apoio Térmico e aos encargos de novos empreendimentos a que se refere o § 1.º do artigo 3.º, sendo nesse caso corrigidas proporcionalmente as percentagens destinadas a cada uma das empresas.
 
 § 2.º Na falta de proposta satisfazendo às condições do corpo do artigo, serão todas as percentagens fixadas livremente pelo Secretário de Estado da Indústria, com base nos encargos que serviram o estabelecimento da tarifa, de igual modo se procedendo quanto à repartição das receitas do ano de 1966, sem prejuízo de qualquer acordo em contrário entre as empresas, na parte que directamente lhes disser respeito.
 
-###### Art. 5.º Os pormenores de aplicação das tarifas de venda de energia a que se refere o artigo 2.º e os respectivos ajustamentos e adaptações às circunstâncias emergentes da exploração, que se mostrem necessários ou convenientes, são da competência da Companhia Nacional de Electricidade.
+Art. 5.º Os pormenores de aplicação das tarifas de venda de energia a que se refere o artigo 2.º e os respectivos ajustamentos e adaptações às circunstâncias emergentes da exploração, que se mostrem necessários ou convenientes, são da competência da Companhia Nacional de Electricidade.
 
 § único. No caso de qualquer das empresas produtoras do grupo julgar que determinada decisão tomada pela Companhia Nacional de Electricidade, no exercício da competência que lhe é atribuída pelo corpo do artigo, violou a lei ou os princípios tarifários aprovados pelo Governo, poderá submeter a decisão em causa à apreciação e resolução final do Secretário de Estado da Indústria, indicando os fundamentos legais ou as razões de ordem técnica que justificam a sua oposição.
 
-###### Art. 6.º O § único do artigo 67.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, passa a ter a seguinte redacção:
+Art. 6.º O § único do artigo 67.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, passa a ter a seguinte redacção:
 
 § único. Não se consideram abrangidas pela excepção referida no corpo do artigo as centrais incluídas na rede eléctrica primária.
 
-###### Art. 7.º As dúvidas que se suscitarem na execução do presente decreto-lei serão resolvidas por despacho do Secretário de Estado da Indústria.
+Art. 7.º As dúvidas que se suscitarem na execução do presente decreto-lei serão resolvidas por despacho do Secretário de Estado da Indústria.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.
 

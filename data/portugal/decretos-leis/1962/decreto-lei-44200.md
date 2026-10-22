@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/02/03900/01550156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44200-1962-518788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca5c0365d14231d46bf85f73a934eb67e1b12c7339e426e03e40a24752522e0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6698bf1c5a3bf4812d4004e1b3a0bae73e0f52b4183e5f1295606e38696d02ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Chefe de Secretaria
+- Concelho
+- Concurso
+- Concurso de Habilitação
 relationships:
 - type: amended_by
   target: pt:dre:227236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561459:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227236:por
+  label: "Revogado pelo DEC LEI.30/70.1970.01.16.MI,DG.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1970-227236
+  date: '1970-01-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:52Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +126,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os cargos de chefe de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, na falta de candidatos da própria classe ou aprovados no respectivo concurso de habilitação e quando não se julgue possível ou conveniente o seu provimento nos termos do artigo 1.º do [Decreto-Lei n.º 38764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38764-1952-561459), de 27 de Maio de 1952, poderão ser preenchidos, por livre escolha do Ministro do Interior, entre funcionários da 1.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Política e Civil, com mais de cinco anos de bom e efectivo serviço em cargo de chefia.
+Artigo único. Os cargos de chefe de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, na falta de candidatos da própria classe ou aprovados no respectivo concurso de habilitação e quando não se julgue possível ou conveniente o seu provimento nos termos do artigo 1.º do [Decreto-Lei n.º 38764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38764-1952-561459), de 27 de Maio de 1952, poderão ser preenchidos, por livre escolha do Ministro do Interior, entre funcionários da 1.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Política e Civil, com mais de cinco anos de bom e efectivo serviço em cargo de chefia.
 
 § 1.º O provimento nos termos deste artigo terá carácter provisório durante um ano, mantendo-se, entretanto, os funcionários na classe a que pertenciam, mas com direito aos vencimentos correspondentes ao cargo que ocupam.
 
@@ -112,7 +134,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Os funcionários providos definitivamente nos termos do parágrafo anterior consideram-se promovidos à 3.ª classe da 1.ª categoria do quadro geral, só podendo, porém, vir a ser admitidos a concursos de provimento para outros lugares de chefe de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, salvo se, sendo licenciados em Direito, obtiverem aprovação no concurso de habilitação a que se refere o artigo 24.º do [Decreto n.º 27759](https://diariodarepublica.pt/dr/detalhe/decreto/27759-1937-426479), de 16 de Junho de 1937.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

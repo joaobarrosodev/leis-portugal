@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1977-286356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f6dce4ff90267ef0d9d611e333e4f4160f1724ea11cec248ae214b09ba7f69f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f366566532604babf544ca3881eae2a0a5b019a6ba383de893a17884e75de241
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Portugal
+- Extinção de Serviços
+- Mercado de Capitais
+- Mercado de Valores
+- Transferência de Pessoal
+- Valores Mobiliários
+relationships:
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317347:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:10Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +109,17 @@ Reconhecendo-se que se torna imprescindível conseguir o melhor aproveitamento d
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São extintas as câmaras de compensação existentes, passando as atribuições que por lei lhes cabiam para a competência do Banco de Portugal.
+Artigo 1.º - 1. São extintas as câmaras de compensação existentes, passando as atribuições que por lei lhes cabiam para a competência do Banco de Portugal.
 
 2. O pessoal adstrito ao funcionamento das câmaras agora extintas será incorporado nos quadros de pessoal do Banco de Portugal de acordo com as classes em que actualmente se integra.
 
-###### Art. 2.º - 1. Os valores activos e passivos das extintas câmaras de compensação serão transferidos para o património do Banco de Portugal.
+Art. 2.º - 1. Os valores activos e passivos das extintas câmaras de compensação serão transferidos para o património do Banco de Portugal.
 
 2. Transmitir-se-á também para o Banco de Portugal a titularidade dos contratos de arrendamento referentes aos locais onde se encontram instaladas as referidas câmaras de compensação.
 
-###### Art. 3.º Competirá a uma comissão a designar pelo Ministro das Finanças, composta por um representante do Ministério das Finanças, que presidirá, e por representantes do Banco de Portugal e dos trabalhadores a integrar, a elaboração quer do processo de transferência respeitante ao pessoal referido no artigo 1.º quer do inventário dos valores activos e passivos a que se refere o artigo anterior.
+Art. 3.º Competirá a uma comissão a designar pelo Ministro das Finanças, composta por um representante do Ministério das Finanças, que presidirá, e por representantes do Banco de Portugal e dos trabalhadores a integrar, a elaboração quer do processo de transferência respeitante ao pessoal referido no artigo 1.º quer do inventário dos valores activos e passivos a que se refere o artigo anterior.
 
-###### Art. 4.º Os serviços de compensação, cuja organização e funcionamento o Banco de Portugal assegurará, terão por fim exclusivo realizar obrigatoriamente, por encontro ou compensação, a liquidação diária:
+Art. 4.º Os serviços de compensação, cuja organização e funcionamento o Banco de Portugal assegurará, terão por fim exclusivo realizar obrigatoriamente, por encontro ou compensação, a liquidação diária:
 
 a) Dos cheques apresentados pelas instituições de crédito neles participantes;
 
@@ -115,30 +129,30 @@ c) Dos pagamentos que, por conta própria ou alheia, uma instituição de crédi
 
 d) De outros valores susceptíveis de encontro ou compensação, que venham a ser definidos através de deliberação do conselho de administração do Banco de Portugal.
 
-###### Art. 5.º Farão parte dos serviços de compensação todas as instituições de crédito autorizadas a desenvolver a sua actividade em território nacional.
+Art. 5.º Farão parte dos serviços de compensação todas as instituições de crédito autorizadas a desenvolver a sua actividade em território nacional.
 
-###### Art. 6.º - 1. Competirá ao Banco de Portugal definir quais as localidades em que funcionarão serviços de compensação.
+Art. 6.º - 1. Competirá ao Banco de Portugal definir quais as localidades em que funcionarão serviços de compensação.
 
 2. O Banco de Portugal poderá criar sob a sua égide serviços de compensação em localidades onde não existam agências ou filiais suas, indicando para tanto as instituições de crédito em que devem funcionar.
 
-###### Art. 7.º No prazo de trinta dias, a contar da publicação do presente diploma, o conselho de administração do Banco de Portugal elaborará o regulamento interno dos serviços de compensação, do qual deverão constar disposições relativas, designadamente, às matérias seguintes:
+Art. 7.º No prazo de trinta dias, a contar da publicação do presente diploma, o conselho de administração do Banco de Portugal elaborará o regulamento interno dos serviços de compensação, do qual deverão constar disposições relativas, designadamente, às matérias seguintes:
 
 a) Periodicidade e horário das sessões de compensação;
 
 b) Requisitos de ordem técnica a que a compensação deverá obedecer.
 
-###### Art. 8.º Enquanto não entrar em vigor o regulamento a que se refere o artigo anterior, os serviços de compensação de Lisboa e do Porto continuarão a reger-se pelos preceitos que estabelecem o seu regime orgânico, na parte em que não forem incompatíveis com o presente diploma.
+Art. 8.º Enquanto não entrar em vigor o regulamento a que se refere o artigo anterior, os serviços de compensação de Lisboa e do Porto continuarão a reger-se pelos preceitos que estabelecem o seu regime orgânico, na parte em que não forem incompatíveis com o presente diploma.
 
-###### Art. 9.º A transferência, quer das funções, quer do pessoal a que se refere o presente diploma, processar-se-á, para todos os efeitos legais, trinta dias após a entrada em vigor do presente decreto-lei.
+Art. 9.º A transferência, quer das funções, quer do pessoal a que se refere o presente diploma, processar-se-á, para todos os efeitos legais, trinta dias após a entrada em vigor do presente decreto-lei.
 
-###### Art. 10.º Os casos omissos ou duvidosos que se suscitarem na execução deste diploma serão resolvidos por despacho do Ministro das Finanças.
+Art. 10.º Os casos omissos ou duvidosos que se suscitarem na execução deste diploma serão resolvidos por despacho do Ministro das Finanças.
 
-###### Art. 11.º Ficam revogados os Decretos-Leis n.º 442/74, de 12 de Setembro, e n.º 12/75, de 15 de Janeiro.
+Art. 11.º Ficam revogados os Decretos-Leis n.º 442/74, de 12 de Setembro, e n.º 12/75, de 15 de Janeiro.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Henrique Medina Carreira.
 
-**Promulgado em 27 de Agosto de 1977.**
+Promulgado em 27 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86e4c734c2e007385387c582bad4b825d79e7a2925074bfa1c915a8a146da1ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8829b507936b354f2947ed265a403c18f4d23e27f60fdf01700163bf414500fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Gestão Financeira da Segurança Social
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:139726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:45Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +114,9 @@ Por outro lado, a exequibilidade do [Decreto-Lei n.º 3/79](https://diariodarepu
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 20.º e 21.º do [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, passam a ter as seguintes redacções:
+Artigo 1.º Os artigos 20.º e 21.º do [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, passam a ter as seguintes redacções:
 
-###### Art. 20.º - 1 - ...
+Art. 20.º - 1 - ...
 
 2 - ...
 
@@ -104,16 +124,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Para efeitos do n.º 1 deste artigo, considera-se afecto ao Instituto o pessoal a que se refere o n.º 1 do artigo 16.º e ainda todo aquele que, a qualquer título, se encontra adstrito aos serviços do Instituto.
 
-###### Art. 21.º - 1 - O pessoal provido nos termos do artigo 20.º tem direito ao vencimento pelos novos lugares com efeitos reportados a 1 de Março de 1979.
+Art. 21.º - 1 - O pessoal provido nos termos do artigo 20.º tem direito ao vencimento pelos novos lugares com efeitos reportados a 1 de Março de 1979.
 
 2 - Quando as remunerações líquidas das categorias atribuídas ao pessoal referido no artigo 20.º forem inferiores às remunerações líquidas que o mesmo pessoal vem auferindo, estas manter-se-ão até que, por promoção ou revisão salarial, sejam alcançadas.
 
-###### Art. 2.º Os cargos de director e subdirector do Instituto são equiparados, para todos os efeitos legais, a director-geral e subdirector-geral.
+Art. 2.º Os cargos de director e subdirector do Instituto são equiparados, para todos os efeitos legais, a director-geral e subdirector-geral.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 3 de Maio de 1979.**
+Promulgado em 3 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

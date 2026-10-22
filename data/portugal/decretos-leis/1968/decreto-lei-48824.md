@@ -47,36 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48824-1968-256667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a380919e285a3288140e1c86522f402604be19e33762943f6fd8b12dd1275f04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d3a7486911e8606c1bd6cd17f07a58b770f7104ca0e16ab6453e2e1ce09673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Trabalho e Corporações
+- Formas de Provimento
+- Fundo de Desenvolvimento da Mão-de-obra
+- Gestão Orçamental
+- Grupo de Trabalho
+- Orgânica
+- Quadro de Pessoal
+- Receita Própria
+- Reestruturação de Serviços
+- Remuneração
+- Transferência de Competências
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610718:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:09Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +151,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É reorganizado, nos termos das disposições seguintes, o Conselho Superior da Previdência e da Habitação Económica, integrado no Ministério das Corporações e Previdência Social pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951.
+Artigo 1.º É reorganizado, nos termos das disposições seguintes, o Conselho Superior da Previdência e da Habitação Económica, integrado no Ministério das Corporações e Previdência Social pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951.
 
-###### Art. 2.º O Conselho Superior da Previdência e da Habitação Económica é um órgão técnico de carácter consultivo destinado a coadjuvar o Governo no estudo e resolução dos problemas da previdência social e da habitação económica, competindo-lhe em especial:
+Art. 2.º O Conselho Superior da Previdência e da Habitação Económica é um órgão técnico de carácter consultivo destinado a coadjuvar o Governo no estudo e resolução dos problemas da previdência social e da habitação económica, competindo-lhe em especial:
 
 a) Emitir pareceres fundamentados sobre todas as consultas que por determinação legal ou em cumprimento de despacho do Ministro das Corporações e Previdência Social lhe sejam apresentadas;
 
 b) Promover por iniciativa própria o exame das questões que interessam ao aperfeiçoamento da organização da previdência social em todos os seus aspectos, incluindo a acção a desenvolver no domínio da habitação económica e propondo as medidas que julgar convenientes.
 
-###### Art. 3.º Para observância do disposto na base XXXI da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e desde que possa ser superior a cinquenta o número de trabalhadores a empregar, as autorizações para estabelecimento de indústrias sujeitas ao condicionamento industrial deverão conter cláusula que obrigue a empresa interessada à construção de casas de renda económica destinadas ao respectivo pessoal, nas condições que vierem a ser fixadas por despacho dos Ministros das Obras Públicas, da Economia e das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica.
+Art. 3.º Para observância do disposto na base XXXI da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e desde que possa ser superior a cinquenta o número de trabalhadores a empregar, as autorizações para estabelecimento de indústrias sujeitas ao condicionamento industrial deverão conter cláusula que obrigue a empresa interessada à construção de casas de renda económica destinadas ao respectivo pessoal, nas condições que vierem a ser fixadas por despacho dos Ministros das Obras Públicas, da Economia e das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica.
 
 § único. Em execução do preceituado neste artigo, a Direcção-Geral dos Serviços Industriais comunicará ao vice-presidente daquele Conselho as autorizações concedidas com aquela cláusula.
 
-###### Art. 4.º O Conselho elaborará periòdicamente o plano dos seus trabalhos e submetê-lo-á à apreciação do Ministro das Corporações e Previdência Social.
+Art. 4.º O Conselho elaborará periòdicamente o plano dos seus trabalhos e submetê-lo-á à apreciação do Ministro das Corporações e Previdência Social.
 
 § único. Poderá o Conselho requisitar dos serviços públicos, dos organismos corporativos e das instituições de previdência social as informações e elementos de estudo de que necessitar para a prossecução dos seus objectivos.
 
-###### Art. 5.º O Conselho será constituído por três secções, competindo à 1.ª a apreciação dos assuntos respeitantes aos regimes das caixas sindicais de previdência e das caixas de reforma ou de previdência, à 2.ª a dos demais regimes de previdência social e à 3.ª o estudo das matérias relativas ao problema da habitação económica.
+Art. 5.º O Conselho será constituído por três secções, competindo à 1.ª a apreciação dos assuntos respeitantes aos regimes das caixas sindicais de previdência e das caixas de reforma ou de previdência, à 2.ª a dos demais regimes de previdência social e à 3.ª o estudo das matérias relativas ao problema da habitação económica.
 
 § único. São formadas as seguintes subsecções:
 
@@ -147,7 +199,7 @@ c) Na 3.ª secção (Habitação económica):
 
 11.ª Habitação no meio rural.
 
-###### Art. 6.º O Conselho é presidido pelo Ministro das Corporações e Previdência Social e compõe-se de um vice-presidente, três vogais adjuntos, um secretário, sem voto, e os seguintes vogais:
+Art. 6.º O Conselho é presidido pelo Ministro das Corporações e Previdência Social e compõe-se de um vice-presidente, três vogais adjuntos, um secretário, sem voto, e os seguintes vogais:
 
 1) Na 1.ª secção:
 
@@ -197,7 +249,7 @@ f) O director-geral da Previdência e Habitações Económicas, os directores do
 
 g) Duas individualidades de reconhecida competência em matéria relativa a habitação.
 
-###### Art. 7.º Os lugares de vice-presidente e vogal adjunto são providos pelo Ministro das Corporações e Previdência Social em diplomados com um curso superior de reconhecido mérito e capacidade para o exercício das suas funções.
+Art. 7.º Os lugares de vice-presidente e vogal adjunto são providos pelo Ministro das Corporações e Previdência Social em diplomados com um curso superior de reconhecido mérito e capacidade para o exercício das suas funções.
 
 § 1.º O secretário será escolhido pelo Ministro das Corporações e Previdência Social de entre os funcionários da Direcção-Geral da Previdência e Habitações Económicas de categoria não inferior a chefe de secção, ouvido o respectivo director-geral.
 
@@ -205,15 +257,15 @@ g) Duas individualidades de reconhecida competência em matéria relativa a habi
 
 § 3.º Serão designados pelo Ministro das Corporações e Previdência Social os vogais referidos nas alíneas g) dos n.os 1), 2) e 3) deste artigo.
 
-###### Art. 8.º Compete ao vice-presidente a convocação dos delegados das caixas de pensões, das caixas de reforma ou de previdência, das associações de socorros mútuos e das instituições de previdência dos servidores do Estado, bem como das cooperativas de habitação, para eleição dos seus representantes no Conselho, os quais recebem mandato por três anos, renovável por iguais períodos.
+Art. 8.º Compete ao vice-presidente a convocação dos delegados das caixas de pensões, das caixas de reforma ou de previdência, das associações de socorros mútuos e das instituições de previdência dos servidores do Estado, bem como das cooperativas de habitação, para eleição dos seus representantes no Conselho, os quais recebem mandato por três anos, renovável por iguais períodos.
 
-###### Art. 9.º A distribuição dos vogais pelas diferentes subsecções é da competência do presidente.
+Art. 9.º A distribuição dos vogais pelas diferentes subsecções é da competência do presidente.
 
 § 1.º Os directores-gerais do Ministério das Corporações e Previdência Social e o inspector-geral dos Tribunais do Trabalho poderão fazer-se substituir ou acompanhar nas sessões de trabalho do Conselho pelos respectivos chefes de serviços.
 
 § 2.º Com autorização do Ministro das Corporações e Previdência Social podem ser agregados temporàriamente a qualquer das secções ou subsecções, como vogais extraordinários, funcionários ou outras pessoas com especial competência nos assuntos a tratar, os quais terão direito de voto nesses assuntos.
 
-###### Art. 10.º O Conselho funciona em sessões plenárias e em reuniões de secção, de subsecção ou conjuntas de duas ou mais subsecções. Será afecto a sessão plenária o tratamento dos assuntos que interessem a todas as secções do Conselho e, designadamente, a proposta do plano de actividade previsto no artigo 4.º
+Art. 10.º O Conselho funciona em sessões plenárias e em reuniões de secção, de subsecção ou conjuntas de duas ou mais subsecções. Será afecto a sessão plenária o tratamento dos assuntos que interessem a todas as secções do Conselho e, designadamente, a proposta do plano de actividade previsto no artigo 4.º
 
 § único. O estudo de determinadas matérias da competência do Conselho poderá, contudo, ser afecto a grupos de trabalho especializados, de que farão parte os vogais das respectivas secções designados pelo presidente.
 
@@ -227,7 +279,7 @@ g) Duas individualidades de reconhecida competência em matéria relativa a habi
 
 § 4.º No seu impedimento o secretário será substituído pelo primeiro-oficial.
 
-###### Art. 12.º O vice-presidente e os vogais adjuntos terão o vencimento previsto no quadro anexo ao presente diploma.
+Art. 12.º O vice-presidente e os vogais adjuntos terão o vencimento previsto no quadro anexo ao presente diploma.
 
 § 1.º O secretário exercerá o cargo em regime de acumulação de serviço com a gratificação mensal prevista no quadro anexo.
 
@@ -235,9 +287,9 @@ g) Duas individualidades de reconhecida competência em matéria relativa a habi
 
 § 3.º Aos vogais designados para constituírem grupos de trabalho, nos termos do § único do artigo 10.º, poderão ser atribuídas gratificações especiais por despacho do Ministro das Corporações e Previdência Social, ouvido o Ministro das Finanças, deixando nesse caso de lhes ser aplicável o disposto no § 2.º do presente artigo.
 
-###### Art. 13.º Aos vogais que forem encarregados de proceder a inquéritos ou estudos fora das sessões do Conselho poderá ser atribuída uma remuneração especial na importância que for arbitrada pelo Ministro das Corporações e Previdência Social.
+Art. 13.º Aos vogais que forem encarregados de proceder a inquéritos ou estudos fora das sessões do Conselho poderá ser atribuída uma remuneração especial na importância que for arbitrada pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 14.º Será instituído na 2.ª secção do Conselho um grupo de trabalho especializado, de que farão parte, além dos vogais adjuntos, o director-geral do Trabalho e Corporações ou seu substituto e quatro vogais do Conselho designados pelo Ministro das Corporações e Previdência Social, a fim de assegurar a prossecução dos trabalhos afectos à Comissão de Política Social Rural, nos termos do [Decreto n.º 45734](https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705), de 27 de Maio de 1964, pelo que respeita às seguintes matérias:
+Art. 14.º Será instituído na 2.ª secção do Conselho um grupo de trabalho especializado, de que farão parte, além dos vogais adjuntos, o director-geral do Trabalho e Corporações ou seu substituto e quatro vogais do Conselho designados pelo Ministro das Corporações e Previdência Social, a fim de assegurar a prossecução dos trabalhos afectos à Comissão de Política Social Rural, nos termos do [Decreto n.º 45734](https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705), de 27 de Maio de 1964, pelo que respeita às seguintes matérias:
 
 a) Integração dos trabalhadores das vária actividades rurais na organização das caixas sindicais de previdência;
 
@@ -247,21 +299,21 @@ c) Aperfeiçoamento e generalização das Casas do Povo, atendendo, sobretudo, �
 
 d) Colaboração dos serviços do Estado, das autarquias locais e demais entidades legalmente reconhecidas às quais incumbem actividades de promoção de bem-estar das populações rurais, no sentido de conseguir a maior eficiência da acção comum e o mais económico aproveitamento dos recursos próprios de cada uma dessas entidades.
 
-###### Art. 15.º A competência atribuída à Comissão de Política Social Rural no artigo 2.º e nas alíneas a) a j) do n.º 1 do artigo 3.º do [Decreto n.º 45734](https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705), de 27 de Maio de 1964, é transferida para a Direcção-Geral do Trabalho e Corporações através do Fundo de Desenvolvimento da Mão-de-Obra, no qual será criado, por despacho do Ministro das Corporações e Previdência Social, com essa finalidade, um grupo de trabalho especializado.
+Art. 15.º A competência atribuída à Comissão de Política Social Rural no artigo 2.º e nas alíneas a) a j) do n.º 1 do artigo 3.º do [Decreto n.º 45734](https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705), de 27 de Maio de 1964, é transferida para a Direcção-Geral do Trabalho e Corporações através do Fundo de Desenvolvimento da Mão-de-Obra, no qual será criado, por despacho do Ministro das Corporações e Previdência Social, com essa finalidade, um grupo de trabalho especializado.
 
-###### Art. 16.º Para acompanhar a execução do disposto no artigo 3.º do presente diploma, funcionará na 3.ª secção um grupo de trabalho especializado composto pelos vogais representantes dos Ministérios das Obras Públicas e da Economia, da Caixa Nacional de Pensões e da Habitações Económicas - Federação de Caixas de Previdência e pelo chefe do Serviço de Inquéritos Habitacionais.
+Art. 16.º Para acompanhar a execução do disposto no artigo 3.º do presente diploma, funcionará na 3.ª secção um grupo de trabalho especializado composto pelos vogais representantes dos Ministérios das Obras Públicas e da Economia, da Caixa Nacional de Pensões e da Habitações Económicas - Federação de Caixas de Previdência e pelo chefe do Serviço de Inquéritos Habitacionais.
 
-###### Art. 17.º Por despacho do Ministro das Corporações e Previdência Social poderá ser modificada a composição ou ordenada a dissolução dos grupos de trabalho previstos nos artigos 14.º e 16.º
+Art. 17.º Por despacho do Ministro das Corporações e Previdência Social poderá ser modificada a composição ou ordenada a dissolução dos grupos de trabalho previstos nos artigos 14.º e 16.º
 
-###### Art. 18.º O serviço de expediente e arquivo do Conselho será executado, sob a direcção do secretário, por uma secretaria, à qual fica afecto o pessoal do quadro anexo, enquanto não for publicada a reorganização dos serviços do Ministério das Corporações e Previdência Social.
+Art. 18.º O serviço de expediente e arquivo do Conselho será executado, sob a direcção do secretário, por uma secretaria, à qual fica afecto o pessoal do quadro anexo, enquanto não for publicada a reorganização dos serviços do Ministério das Corporações e Previdência Social.
 
 § único. O pessoal da secretaria será nomeado pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 19.º No provimento de todos os cargos previstos no quadro anexo observar-se-ão as disposições aplicáveis, do Regulamento do Instituto Nacional do Trabalho e Previdência.
+Art. 19.º No provimento de todos os cargos previstos no quadro anexo observar-se-ão as disposições aplicáveis, do Regulamento do Instituto Nacional do Trabalho e Previdência.
 
 § único. Os actuais funcionários efectivos do Conselho e o pessoal cuja remuneração está actualmente a ser satisfeita pelo orçamento da Comissão de Política Social Rural serão colocados no quadro aprovado pelo presente diploma, sem dependência de outras formalidades que não sejam a anotação pelo Tribunal de Contas da relação dos funcionários que transitam para o Conselho e o averbamento da nova, situação de cada um nos respectivos diplomas de funções públicas.
 
-###### Art. 20.º O Ministro das Corporações e Previdência Social determinará em cada ano a importância com que hão-de entrar em receita do Estado para custeio dos novos encargos emergentes da execução do presente diploma:
+Art. 20.º O Ministro das Corporações e Previdência Social determinará em cada ano a importância com que hão-de entrar em receita do Estado para custeio dos novos encargos emergentes da execução do presente diploma:
 
 a) O Fundo das Casas Económicas, previsto no artigo 6.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933;
 
@@ -273,19 +325,19 @@ d) O Fundo de Desenvolvimento da Mão-de-Obra, previsto no artigo 9.º do [Decre
 
 § único. A importância total fixada nos termos deste artigo será rateada pelos Fundos a que se refere por despacho do Ministro das Corporações e Previdência Social, que fará remeter nota discriminativa à Direcção-Geral da Contabilidade Pública.
 
-###### Art. 21.º O Ministro das Finanças inscreverá no Orçamento Geral do Estado para o corrente ano a verba necessária ao custeio das despesas de funcionamento do Conselho resultantes do disposto no presente diploma.
+Art. 21.º O Ministro das Finanças inscreverá no Orçamento Geral do Estado para o corrente ano a verba necessária ao custeio das despesas de funcionamento do Conselho resultantes do disposto no presente diploma.
 
-###### Art. 22.º São transferidos para o Conselho Superior da Previdência e da Habitação Económica os bens pertencentes à Comissão de Política Social Rural.
+Art. 22.º São transferidos para o Conselho Superior da Previdência e da Habitação Económica os bens pertencentes à Comissão de Política Social Rural.
 
-###### Art. 23.º Os encargos com os abonos do pessoal actualmente ao serviço da Comissão de Política Social Rural continuarão a ser suportados pelos mesmos fundos que têm financiado o orçamento privativo da referida Comissão.
+Art. 23.º Os encargos com os abonos do pessoal actualmente ao serviço da Comissão de Política Social Rural continuarão a ser suportados pelos mesmos fundos que têm financiado o orçamento privativo da referida Comissão.
 
-###### Art. 24.º São revogados o [Decreto-Lei n.º 43183](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43183-1960-514842), de 23 de Setembro de 1960, e o [Decreto n.º 45734](https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705), de 27 de Maio de 1964.
+Art. 24.º São revogados o [Decreto-Lei n.º 43183](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43183-1960-514842), de 23 de Setembro de 1960, e o [Decreto n.º 45734](https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705), de 27 de Maio de 1964.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José João Gonçalves de Proença.
 
-**Promulgado em 18 de Dezembro de 1968.**
+Promulgado em 18 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -293,6 +345,6 @@ Para ser presente à Assembleia Nacional.
 
 Pessoal e vencimentos do conselho Superior da Previdência e da Habitação Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/30700/20502053.pdf))](https://files.diariodarepublica.pt/1s/1968/12/30700/20502053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30700/20502053.pdf)
 
 Ministério das Corporações e Previdência Social, 18 de Dezembro de 1968. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

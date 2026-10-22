@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,40 +50,142 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21a6b6816903a70ffb35d0aa5f2608555801f49ab954f6a8be9ae211be7e0da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b16d28066d64a740c1cbad614a3643f5ba894121e997a097be1f8b374dd9a025
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dívida Pública
+- Emissão de Títulos
+- Junta de Crédito Público
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:241227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:471720:por
+  label: "Considerado prorrogado o prazo fixado no artigo 44.º do presente acto, pelo DEC LEI.45643.07.04.1964.DGJCP-MF, DG.IS\
+    \ [83] de 07.04.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45643-1964-471720
+  date: '1964-04-07'
+- type: amended_by
+  target: pt:dre:506035:por
+  label: "Alterados os artigos 1.º, 12.º, 13.º e revogado o artigo 29.º pelo DEC LEI.38/76.19.01.1976.MF, DG.IS [15] de 19.01.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1976-506035
+  date: '1976-01-19'
+- type: amended_by
+  target: pt:dre:471319:por
+  label: "Alterada a tabela de emolumentos e taxas anexa ao presente diploma, pelo DEC LEI.229/80.16.07.1980.MFP, DR.IS [162]\
+    \ de 16.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1980-471319
+  date: '1980-07-16'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Extinta a Junta de Crédito Público, criada pelo presente diploma, pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:238222:por
+  label: "Revogadas as regras 2.ª e 3.ª do art. 22º e § único do art. 23º e aumentado o quadro de pessoal da Junta de Crédito\
+    \ Público, pelo DEC LEI.834/74.31.12.1974.MF, DG.IS [303-12ºSupl] de 31.12.1974\074\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/834-1974-238222
+  date: '1974-12-31'
+- type: repealed_by
+  target: pt:dre:502794:por
+  label: "Revogado o art. 30.º, pelo DEC LEI.245/76.1976.04.07.MF DG.IS [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-1976-502794
+  date: '1976-04-07'
+- type: repealed_by
+  target: pt:dre:509019:por
+  label: "Revogado o art. 30.º pelo DEC LEI.75-I/77.1977.02.28.MF DG.IS [49]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-i-1977-509019
+  date: '1977-02-28'
+- type: repealed_by
+  target: pt:dre:278925:por
+  label: "Revogados os arts. 2º, 5º, os §§ 1º , 2º, 3º e 4º do art. 7º, o art. 11º, o nº 9 do art. 12º, e os arts. 17º, 18º,\
+    \ 27º e 28º do presente diploma, com a redacção dada no Dec Lei 38/76 de 19-Jan, pelo DEC LEI.424/77.11.10.1977.MF, DR.IS\
+    \ [235] de 11.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/424-1977-278925
+  date: '1977-10-11'
+- type: repealed_by
+  target: pt:dre:311035:por
+  label: "Revogados os artigos 1.º, 3.º, 4.º, 6.º a 10.º, 12.º a 16.º e 19.º a 26.º pelo DEC LEI.76/83.08.02.1983.MFP, DR.IS\
+    \ [32] de 08.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1983-311035
+  date: '1983-02-08'
+- type: repealed_by
+  target: pt:dre:332051:por
+  label: "Revogado o art. 39º pela LEI.12/90.1990.04.07.AR, DR.IS [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1990-332051
+  date: '1990-04-07'
+- type: repeals
+  target: pt:dre:685257:por
+  label: "Revoga os arts. 2º, 3º, 7º, 16º, 48º e 59º, bem como os § 1º e 2º do art. 2º, os nºs 1, 2 e 3 do art. 14º, o § 1\
+    \ do art. 55º, o § único do art. 59º e os § 2º e 3º do art. 60º da Lei 1933 de 13-Fev 1936 DG.IS [36]\0\0"
+  source: null
+  date: '1936-02-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:43Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +226,9 @@ Será uma possibilidade a aproveitar pelo Governo, na oportunidade que entender,
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Junta do Crédito Público é a instituição destinada a exercer, com independência de qualquer repartição ou autoridade, a administração geral da dívida pública fundada, interna ou externa, e a superintender em todos os serviços à mesma inerentes.
+Artigo 1.º A Junta do Crédito Público é a instituição destinada a exercer, com independência de qualquer repartição ou autoridade, a administração geral da dívida pública fundada, interna ou externa, e a superintender em todos os serviços à mesma inerentes.
 
-###### Art. 2.º A direcção superior da Junta compete a:
+Art. 2.º A direcção superior da Junta compete a:
 
 Um presidente.
 
@@ -144,19 +246,19 @@ Três vogais substitutos.
 
 § 5.º O vogal representante dos juristas será possuidor de certificados de dívida inscrita no valor, pelo menos, de 20.000$00, ou de £ 200, e eleito nas condições previstas na [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, pelos portadores de certificados de dívida inscrita nominativos no valor, pelo menos, de 10.000$00, ou £ 100, só podendo ser seus representantes e eleitores os juristas cujos capitais não estejam obrigatòriamente invertidos em qualquer espécie da dívida pública.
 
-###### Art. 3.º O cargo de presidente da Junta do Crédito Público é vitalício e tem a categoria, tratamento, honras, vencimentos, isenções, prerrogativas e demais regalias do presidente do Tribunal de Contas.
+Art. 3.º O cargo de presidente da Junta do Crédito Público é vitalício e tem a categoria, tratamento, honras, vencimentos, isenções, prerrogativas e demais regalias do presidente do Tribunal de Contas.
 
 Os vogais efectivos têm a categoria, isenções e prerrogativas dos juízes do mesmo Tribunal.
 
-###### Art. 4.º Os vogais servem em comissão renovável, de cinco em cinco anos, e remunerada por meio de gratificação. Os vogais substitutos são escolhidos ou eleitos pela mesma forma e nas mesmas condições dos efectivos.
+Art. 4.º Os vogais servem em comissão renovável, de cinco em cinco anos, e remunerada por meio de gratificação. Os vogais substitutos são escolhidos ou eleitos pela mesma forma e nas mesmas condições dos efectivos.
 
-###### Art. 5.º Nas faltas ou impedimentos temporários do presidente da Junta será este substituído pelo vogal vice-presidente. Se o impedimento for permanente ou ocorrer vaga da presidência da Junta do Crédito Público, poderá o Ministro das Finanças designar um dos vogais da mesma Junta ou pessoa a ela estranha para exercer, provisòriamente, essas funções até ao provimento definitivo do cargo, sendo o despacho ministerial que fizer a designação fundamento suficiente para o exercício das mesmas funções com todos os direitos inerentes.
+Art. 5.º Nas faltas ou impedimentos temporários do presidente da Junta será este substituído pelo vogal vice-presidente. Se o impedimento for permanente ou ocorrer vaga da presidência da Junta do Crédito Público, poderá o Ministro das Finanças designar um dos vogais da mesma Junta ou pessoa a ela estranha para exercer, provisòriamente, essas funções até ao provimento definitivo do cargo, sendo o despacho ministerial que fizer a designação fundamento suficiente para o exercício das mesmas funções com todos os direitos inerentes.
 
-###### Art. 6.º Ocorrendo a vaga de qualquer dos vogais efectivos, passarão as suas funções a ser desempenhadas pelo respectivo substituto, procedendo-se, imediatamente, à eleição ou designação de novo vogal substituto.
+Art. 6.º Ocorrendo a vaga de qualquer dos vogais efectivos, passarão as suas funções a ser desempenhadas pelo respectivo substituto, procedendo-se, imediatamente, à eleição ou designação de novo vogal substituto.
 
 § único. Os vogais substitutos eleitos ou designados nos termos deste artigo exercem as suas funções durante o tempo que faltar para complemento do respectivo quinquénio.
 
-###### Art. 7.º A Junta funciona com a maioria dos seus membros e terá uma sessão ordinária em cada semana, além das extraordinárias que as necessidades do serviço exigirem.
+Art. 7.º A Junta funciona com a maioria dos seus membros e terá uma sessão ordinária em cada semana, além das extraordinárias que as necessidades do serviço exigirem.
 
 As resoluções tomadas em sessão serão por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
@@ -168,17 +270,17 @@ As resoluções tomadas em sessão serão por maioria de votos, tendo o presiden
 
 § 4.º O director-geral assiste a todas as sessões da Junta.
 
-###### Art. 8.º Os vogais substitutos chamados a desempenhar as funções de vogais efectivos perceberão as gratificações que a estes competirem.
+Art. 8.º Os vogais substitutos chamados a desempenhar as funções de vogais efectivos perceberão as gratificações que a estes competirem.
 
 § único. Pela assistência às sessões ordinárias e extraordinárias da Junta os vogais substitutos têm direito a uma senha de presença.
 
-###### Art. 9.º Os vogais substitutos assistem às sessões extraordinárias para as quais a Junta entenda dever convocá-los, e, obrigatòriamente, as sessões ordinárias e extraordinárias em que se apreciem o projecto e orçamento, as contas de gerência, relatório anual, obrigações gerais para efeitos de voto de conformidade e quaisquer diplomas que visem operações de conversão, remição ou resgate da dívida pública.
+Art. 9.º Os vogais substitutos assistem às sessões extraordinárias para as quais a Junta entenda dever convocá-los, e, obrigatòriamente, as sessões ordinárias e extraordinárias em que se apreciem o projecto e orçamento, as contas de gerência, relatório anual, obrigações gerais para efeitos de voto de conformidade e quaisquer diplomas que visem operações de conversão, remição ou resgate da dívida pública.
 
-###### Art. 10.º Os vogais efectivos que faltarem ao serviço por mais de 30 dias consecutivos ou 90 dias alternados e os vogais substitutos que faltarem três vezes seguidas às sessões da Junta para que forem convocados ou a que obrigatòriamente tenham de assistir perdem o seu mandato ou consideram-se, automàticamente, exonerados.
+Art. 10.º Os vogais efectivos que faltarem ao serviço por mais de 30 dias consecutivos ou 90 dias alternados e os vogais substitutos que faltarem três vezes seguidas às sessões da Junta para que forem convocados ou a que obrigatòriamente tenham de assistir perdem o seu mandato ou consideram-se, automàticamente, exonerados.
 
 § único. Não se aplica o disposto neste artigo às faltas motivadas por impedimento legal ou constitucional e às que forem dadas por motivo de licença ou de doença devidamente comprovada, até 180 dias no período do quinquénio.
 
-###### Art. 11.º O presidente da Junta exerce funções permanentes e será assistido por um dos vogais efectivos durante as horas de expediente.
+Art. 11.º O presidente da Junta exerce funções permanentes e será assistido por um dos vogais efectivos durante as horas de expediente.
 
 Os vogais efectivos assistem o presidente segundo o horário elaborado nos termos do § 2.º do artigo 7.º
 
@@ -186,7 +288,7 @@ Os vogais efectivos assistem o presidente segundo o horário elaborado nos termo
 
 § 2.º Os vogais efectivos e os substitutos têm diploma de funções públicas.
 
-###### Art. 12.º Compete, especialmente, ao presidente da Junta do Crédito Público:
+Art. 12.º Compete, especialmente, ao presidente da Junta do Crédito Público:
 
 1.º Dirigir superiormente, coordenar e fiscalizar os trabalhos da Junta e todos os serviços da instituição;
 
@@ -212,7 +314,7 @@ Os vogais efectivos assistem o presidente segundo o horário elaborado nos termo
 
 12.º Conferir posse aos vogais efectivos e substitutos da Junta, ao director-geral, ao ouvidor, ao consultor técnico-financeiro e aos chefes de repartição.
 
-###### Art. 13.º São funções e atribuições da Junta do Crédito Público:
+Art. 13.º São funções e atribuições da Junta do Crédito Público:
 
 1.º Elaborar as normas regulamentares necessárias à execução dos serviços;
 
@@ -262,25 +364,25 @@ d) Conta do Fundo de amortização;
 
 e) Conta com a Fazenda Pública, na qualidade de cobradora de impostos e taxas.
 
-###### Art. 14.º O ouvidor é nomeado pelo Ministro das Finanças, sob proposta do presidente da Junta, de entre indivíduos que, além de outras condições de idoneidade, possuam a formatura em Direito.
+Art. 14.º O ouvidor é nomeado pelo Ministro das Finanças, sob proposta do presidente da Junta, de entre indivíduos que, além de outras condições de idoneidade, possuam a formatura em Direito.
 
-###### Art. 15.º É criado o lugar de consultor técnico-financeiro da Junta do Crédito Público, de nomeação do Ministro das Finanças, sob proposta do presidente da Junta, de entre os diplomados com o curso superior de Finanças do Instituto Superior de Ciências Económicas e Financeiras.
+Art. 15.º É criado o lugar de consultor técnico-financeiro da Junta do Crédito Público, de nomeação do Ministro das Finanças, sob proposta do presidente da Junta, de entre os diplomados com o curso superior de Finanças do Instituto Superior de Ciências Económicas e Financeiras.
 
 § único. Este cargo é remunerado por gratificação idêntica à dos vogais efectivos da Junta.
 
-###### Art. 16.º As gratificações dos vogais efectivos e do consultor técnico-financeiro, bem como as senhas de presença dos vogais substitutos, são acumuláveis, sem qualquer redução, com outra remuneração de função pública ou particular, sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 16.º As gratificações dos vogais efectivos e do consultor técnico-financeiro, bem como as senhas de presença dos vogais substitutos, são acumuláveis, sem qualquer redução, com outra remuneração de função pública ou particular, sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 17.º Na Junta do Crédito Público funciona um conselho técnico, constituído pelo director-geral, o ouvidor, o consultor técnico-financeiro e os chefes de repartição.
+Art. 17.º Na Junta do Crédito Público funciona um conselho técnico, constituído pelo director-geral, o ouvidor, o consultor técnico-financeiro e os chefes de repartição.
 
-###### Art. 18.º O conselho técnico reunirá, ordinàriamente, uma vez por semana e, extraordinàriamente, sempre que o presidente da Junta ou o director-geral o determinarem.
+Art. 18.º O conselho técnico reunirá, ordinàriamente, uma vez por semana e, extraordinàriamente, sempre que o presidente da Junta ou o director-geral o determinarem.
 
 § único. Secretaria o conselho técnico o chefe de repartição mais moderno, que lavrará as actas das sessões.
 
-###### Art. 19.º Preside ao conselho técnico o director-geral e, na sua falta ou impedimento, o ouvidor.
+Art. 19.º Preside ao conselho técnico o director-geral e, na sua falta ou impedimento, o ouvidor.
 
 § único. Se qualquer dos membros da Junta assistir às reuniões do conselho técnico, assumirá a presidência da sessão.
 
-###### Art. 20.º Ao conselho técnico compete:
+Art. 20.º Ao conselho técnico compete:
 
 1.º Responder às consultas formuladas pela Junta;
 
@@ -296,11 +398,11 @@ e) Conta com a Fazenda Pública, na qualidade de cobradora de impostos e taxas.
 
 7.º Pronunciar-se em todos os casos que o presidente da Junta ou o director-geral entendam dever submeter à sua apreciação e estudo.
 
-###### Art. 21.º O pessoal encarregado dos serviços de secretaria e administração da dívida pública constitui um quadro único, subordinado a um director-geral e constante do mapa anexo a este diploma.
+Art. 21.º O pessoal encarregado dos serviços de secretaria e administração da dívida pública constitui um quadro único, subordinado a um director-geral e constante do mapa anexo a este diploma.
 
 § único. As direcções e secções de finanças, no desempenho de serviços de dívida pública, receberão ordens emanadas da Junta e a esta remeterão directamente toda a documentação e valores referentes a pagamentos e outros serviços efectuados.
 
-###### Art. 22.º A admissão e promoção do pessoal obedecerá às regras seguintes:
+Art. 22.º A admissão e promoção do pessoal obedecerá às regras seguintes:
 
 1.ª O ingresso nos serviços da Junta, a cargo do pessoal maior, efectua-se pelo lugar de terceiro-oficial, mediante concurso, a que podem candidatar-se todos os indivíduos nas condições estabelecidas por lei;
 
@@ -314,17 +416,17 @@ e) Conta com a Fazenda Pública, na qualidade de cobradora de impostos e taxas.
 
 § único. Os funcionários excluídos ou que não tenham comparecido a dois concursos seguidos para a mesma categoria ficam inibidos de voltar a novo concurso. A não comparência corresponde à exclusão.
 
-###### Art. 23.º São de provimento definitivo os cargos do pessoal do quadro da Direcção-Geral dos Serviços da Junta do Crédito Público de categoria igual ou superior à de terceiro-oficial.
+Art. 23.º São de provimento definitivo os cargos do pessoal do quadro da Direcção-Geral dos Serviços da Junta do Crédito Público de categoria igual ou superior à de terceiro-oficial.
 
 § único. Aos cargos de chefia, porém, são aplicáveis as regras 4.ª e 5.ª do artigo 14.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e os artigos 30.º e 31.º do regulamento aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940.
 
-###### Art. 24.º São contratados, nas condições deste diploma e nos termos gerais, todos os outros se serventuários: aspirantes-estagiários, dactilógrafos, electricistas, impressores, compositores e contínuos.
+Art. 24.º São contratados, nas condições deste diploma e nos termos gerais, todos os outros se serventuários: aspirantes-estagiários, dactilógrafos, electricistas, impressores, compositores e contínuos.
 
-###### Art. 25.º São extintos no quadro do pessoal da Direcção-Geral dos Serviços da Junta os 23 lugares existentes de aspirante e 1 lugar de contínuo de 1.ª classe. Criam-se 1 lugar de primeiro-oficial, 9 lugares de segundo-oficial, 10 lugares de terceiro-oficial, 4 lugares de dactilógrafo e 1 lugar de impressor.
+Art. 25.º São extintos no quadro do pessoal da Direcção-Geral dos Serviços da Junta os 23 lugares existentes de aspirante e 1 lugar de contínuo de 1.ª classe. Criam-se 1 lugar de primeiro-oficial, 9 lugares de segundo-oficial, 10 lugares de terceiro-oficial, 4 lugares de dactilógrafo e 1 lugar de impressor.
 
-###### Art. 26.º Para efeitos orçamentais e reajustamento do pessoal serão considerados no quadro, transitòriamente, mais três lugares de contínuo de 1.ª classe, para anulação quando ocorrerem as respectivas vagas, e menos três lugares de contínuo de 2.ª classe, que serão restabelecidos na medida em que se extinga igual número dos de 1.ª classe.
+Art. 26.º Para efeitos orçamentais e reajustamento do pessoal serão considerados no quadro, transitòriamente, mais três lugares de contínuo de 1.ª classe, para anulação quando ocorrerem as respectivas vagas, e menos três lugares de contínuo de 2.ª classe, que serão restabelecidos na medida em que se extinga igual número dos de 1.ª classe.
 
-###### Art. 27.º Os serviços de secretaria e administração da dívida pública estarão, em Lisboa, a cargo de quatro repartições; no Porto, de uma delegação privativa; nos concelhos sedes de distrito, das direcções de finanças; e nos demais concelhos do continente e ilhas, das respectivas secções de finanças.
+Art. 27.º Os serviços de secretaria e administração da dívida pública estarão, em Lisboa, a cargo de quatro repartições; no Porto, de uma delegação privativa; nos concelhos sedes de distrito, das direcções de finanças; e nos demais concelhos do continente e ilhas, das respectivas secções de finanças.
 
 § 1.º Nas províncias ultramarinas, o pagamento dos encargos e outras operações da dívida pública, devidamente autorizadas, poderão ser efectuados por intermédio de entidades bancárias e mediante acordo a estabelecer com as mesmas.
 
@@ -332,39 +434,39 @@ e) Conta com a Fazenda Pública, na qualidade de cobradora de impostos e taxas.
 
 § 3.º As entidades a que aludem os parágrafos anteriores funcionarão como delegações, nas províncias ultramarinas, e como agências, no estrangeiro.
 
-###### Art. 28.º As quatro repartições referidas no artigo anterior designam-se: «Central», «Assentamento», «Contabilidade» e «Liquidação e Ordenamento», e subdividem-se em dez secções por elas distribuídas consoante as necessidades dos serviços.
+Art. 28.º As quatro repartições referidas no artigo anterior designam-se: «Central», «Assentamento», «Contabilidade» e «Liquidação e Ordenamento», e subdividem-se em dez secções por elas distribuídas consoante as necessidades dos serviços.
 
 § único. A delegação aos serviços da Junta no Porto constitui a 11.ª secção e tem a seu cargo o desempenho dos serviços que competem às quatro repartições da sede, na parte que superiormente lhe for confiada.
 
-###### Art. 29.º O chefe da Repartição Central desempenhará, simultâneamente, as funções de secretária da Junta, sem direito a voto.
+Art. 29.º O chefe da Repartição Central desempenhará, simultâneamente, as funções de secretária da Junta, sem direito a voto.
 
 § único. Cabe-lhe, por virtude destas funções a gratificação constante do quadro do pessoal e vencimentos que faz parte integrante deste decreto-lei.
 
-###### Art. 30.º Fica autorizado o Ministro das Finanças a criar, por simples decreto, novas modalidades de renda vitalícia, desde que por elas se atinja, simultâneamente, a finalidade de complemento da previdência de amortização da dívida pública, e a tomar as medidas julgadas oportunas para permitir ao fundo de amortização voltar a assumir todos os encargos com a constituição das rendas vitalícias.
+Art. 30.º Fica autorizado o Ministro das Finanças a criar, por simples decreto, novas modalidades de renda vitalícia, desde que por elas se atinja, simultâneamente, a finalidade de complemento da previdência de amortização da dívida pública, e a tomar as medidas julgadas oportunas para permitir ao fundo de amortização voltar a assumir todos os encargos com a constituição das rendas vitalícias.
 
-###### Art. 31.º O cálculo das rendas vitalícias será feito com base na tabela que vigorar e os títulos a converter serão recebidos pela média das cotações dos 90 dias anteriores ao da apresentação quando não exceda a cotação oficial da véspera ou a última efectuada, vigorando uma ou outra destas sempre que a referida média seja superior.
+Art. 31.º O cálculo das rendas vitalícias será feito com base na tabela que vigorar e os títulos a converter serão recebidos pela média das cotações dos 90 dias anteriores ao da apresentação quando não exceda a cotação oficial da véspera ou a última efectuada, vigorando uma ou outra destas sempre que a referida média seja superior.
 
 § único. Pode a Junta, porém, com a concordância do Ministro das Finanças, fixar periòdicamente essa cotação.
 
-###### Art. 32.º É elevado a 90.000$00 o limite máximo das rendas vitalícias anuais, em uma ou duas vidas, fixado pelo [Decreto-Lei n.º 34723](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34723-1945-529778), de 4 de Julho de 1945.
+Art. 32.º É elevado a 90.000$00 o limite máximo das rendas vitalícias anuais, em uma ou duas vidas, fixado pelo [Decreto-Lei n.º 34723](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34723-1945-529778), de 4 de Julho de 1945.
 
-###### Art. 33.º São aplicáveis à transmissão de títulos e certificados da dívida pública as disposições contidas no Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958.
+Art. 33.º São aplicáveis à transmissão de títulos e certificados da dívida pública as disposições contidas no Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958.
 
-###### Art. 34.º É permitida a substituição de títulos da dívida pública de cupão, deteriorados ou parcialmente destruídos, sempre que se possam identificar os respectivos números e características e desde que não lhes falte a folha de cupões.
+Art. 34.º É permitida a substituição de títulos da dívida pública de cupão, deteriorados ou parcialmente destruídos, sempre que se possam identificar os respectivos números e características e desde que não lhes falte a folha de cupões.
 
 § único. Tratando-se, porém, da entrega de nova folha ou de conversão ou remição total, poderá a Junta atender os direitos de portadores de títulos a que faltar a folha de cupões ou inteiramente destruídos, se os resultados da operação confirmarem a veracidade do alegado.
 
-###### Art. 35.º A diminuição do encargo orçamental da remição diferida prevista no artigo 98.º do Regulamento da Junta do Crédito Público, aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, com a redacção que lhe foi dada pelo artigo 2.º do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952, terá lugar nas épocas e na proporção permitidas pela situação do fundo de amortização da dívida pública, para o qual o Ministro das Finanças poderá mandar reverter os juros a que se refere o § 2.º do artigo 197.º do mesmo regulamento, introduzido pelo artigo 1.º do citado [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203).
+Art. 35.º A diminuição do encargo orçamental da remição diferida prevista no artigo 98.º do Regulamento da Junta do Crédito Público, aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, com a redacção que lhe foi dada pelo artigo 2.º do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952, terá lugar nas épocas e na proporção permitidas pela situação do fundo de amortização da dívida pública, para o qual o Ministro das Finanças poderá mandar reverter os juros a que se refere o § 2.º do artigo 197.º do mesmo regulamento, introduzido pelo artigo 1.º do citado [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203).
 
-###### Art. 36.º À circulação dos valores realizáveis da dívida pública é aplicável a excepção consignada na parte final do artigo 3.º do [Decreto n.º 31472](https://diariodarepublica.pt/dr/detalhe/decreto/31472-1941-356942), de 21 de Agosto de 1941.
+Art. 36.º À circulação dos valores realizáveis da dívida pública é aplicável a excepção consignada na parte final do artigo 3.º do [Decreto n.º 31472](https://diariodarepublica.pt/dr/detalhe/decreto/31472-1941-356942), de 21 de Agosto de 1941.
 
-###### Art. 37.º Quando o reembolso de títulos de cupão amortizados não tiver sido reclamado antes do primeiro vencimento posterior à amortização por sorteio, os juros correspondentes a esse vencimento e seguintes, cujo pagamento é de presumir esteja a ser efectuado por os títulos continuarem em circulação, serão, sucessivamente, debitados à conta de depósito do fundo de amortização, como representante dos portadores remissos, e considerar-se-ão liquidações parcelares do respectivo reembolso, a regularizar, por dedução, quando este se verificar.
+Art. 37.º Quando o reembolso de títulos de cupão amortizados não tiver sido reclamado antes do primeiro vencimento posterior à amortização por sorteio, os juros correspondentes a esse vencimento e seguintes, cujo pagamento é de presumir esteja a ser efectuado por os títulos continuarem em circulação, serão, sucessivamente, debitados à conta de depósito do fundo de amortização, como representante dos portadores remissos, e considerar-se-ão liquidações parcelares do respectivo reembolso, a regularizar, por dedução, quando este se verificar.
 
 § 1.º Se na liquidação do reembolso se verificar estarem apensos aos títulos alguns ou todos os cupões que se admitir terem sido pagos, proceder-se-á à anulação dos respectivos débitos.
 
 § 2.º Verificando-se para determinado empréstimo amortizável qualquer incidente ou operação, impeditivos do pagamento de mais juros - extinção da folha de cupões, resgate antecipado ou conversão -, os débitos efectuados nos termos deste artigo referentes aos juros de títulos desse empréstimo serão transferidos para o fundo de amortização da dívida pública, quando se tenha verificado a prescrição do respectivo reembolso.
 
-###### Art. 38.º O Ministro das Finanças poderá autorizar que para a colocação de valores das instituições de previdência, que os prefiram aos títulos do Estado em circulação, sejam emitidos pela Junta do Crédito Público certificados especiais da dívida pública, não negociáveis nem convertíveis e reembolsáveis a pedido dos possuidores, pelo valor nominal.
+Art. 38.º O Ministro das Finanças poderá autorizar que para a colocação de valores das instituições de previdência, que os prefiram aos títulos do Estado em circulação, sejam emitidos pela Junta do Crédito Público certificados especiais da dívida pública, não negociáveis nem convertíveis e reembolsáveis a pedido dos possuidores, pelo valor nominal.
 
 § 1.º A autorização a que se refere o corpo deste artigo será tornada pública por portaria do Ministro das Finanças, que conterá, além da citação expressa às disposições em que aquela se baseia:
 
@@ -382,31 +484,31 @@ f) A indicação de que os certificados gozam de todas as isenções e regalias 
 
 § 2.º As portarias que autorizem a emissão dos certificados da dívida pública são, para todos os efeitos, equiparadas a obrigações gerais e, como tal, sujeitas ao voto de conformidade da Junta do Crédito Público e ao visto do Tribunal de Contas.
 
-###### Art. 39.º A emissão de um empréstimo carece de lei que o autorize, da qual constará: a espécie da dívida e o montante; o valor de cada obrigação; o encargo máximo do empréstimo; a forma e o prazo de amortização; a faculdade de conversão ou remição; as garantias de pagamento dos respectivos encargos e quaisquer outras especialmente atribuídas às obrigações do empréstimo e o modo de realização deste.
+Art. 39.º A emissão de um empréstimo carece de lei que o autorize, da qual constará: a espécie da dívida e o montante; o valor de cada obrigação; o encargo máximo do empréstimo; a forma e o prazo de amortização; a faculdade de conversão ou remição; as garantias de pagamento dos respectivos encargos e quaisquer outras especialmente atribuídas às obrigações do empréstimo e o modo de realização deste.
 
 § único. Se a emissão do empréstimo é feita com aval do Estado, da lei que o autorize constará também, expressamente: a obrigação da Nação como principal pagadora, a entidade devedora e quem a representa e a forma por que se realiza a compensação dos encargos assumidos pelo Estado.
 
-###### Art. 40.º Os juros das obrigações de empréstimos cujos encargos a inscrever no Orçamento Geral do Estado são compensados por consignações de rendimentos das entidades devedoras e ainda os dos certificados especiais da dívida pública são devidos apenas a partir da data em que aquelas entidades devedoras ou o Estado entrem na posse das respectivas importâncias.
+Art. 40.º Os juros das obrigações de empréstimos cujos encargos a inscrever no Orçamento Geral do Estado são compensados por consignações de rendimentos das entidades devedoras e ainda os dos certificados especiais da dívida pública são devidos apenas a partir da data em que aquelas entidades devedoras ou o Estado entrem na posse das respectivas importâncias.
 
-###### Art. 41.º Os processos, operações e actos requeridos perante a Junta ficam sujeitos ao pagamento do selo do papel e das despesas de publicidade a que derem lugar, bem como aos emolumentos e taxas que constam da tabela anexa a este decreto-lei.
+Art. 41.º Os processos, operações e actos requeridos perante a Junta ficam sujeitos ao pagamento do selo do papel e das despesas de publicidade a que derem lugar, bem como aos emolumentos e taxas que constam da tabela anexa a este decreto-lei.
 
 § 1.º A importância liquidada em qualquer processo, incluindo emolumentos e mais despesas, não poderá exceder 2.000$00.
 
 § 2.º Estão isentos de emolumentos, taxas e selos os processos respeitantes à primeira inversão em dívida inscrita, não havendo transmissão de propriedade, e os processos e operações requeridas por alguma das entidades que beneficiem, da isenção do imposto por avença, nos termos do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958.
 
-###### Art. 42.º Ao arquivo-museu da dívida pública portuguesa, criado pelo artigo 18.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, será dada a designação de «Arquivo-Museu Dinis da Fonseca» e a sua direcção competirá, por inerência, a um dos chefes de repartição da Direcção-Geral dos Serviços da Junta do Crédito Público, designado pela Junta.
+Art. 42.º Ao arquivo-museu da dívida pública portuguesa, criado pelo artigo 18.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, será dada a designação de «Arquivo-Museu Dinis da Fonseca» e a sua direcção competirá, por inerência, a um dos chefes de repartição da Direcção-Geral dos Serviços da Junta do Crédito Público, designado pela Junta.
 
 § único. Pode também o mesmo cargo ser exercido honorìficamente por funcionário superior da Junta, na situação de aposentado, que, durante a efectividade do serviço, tenha demonstrado especial interesse e competência nos assuntos relativos ao arquivo-museu.
 
-###### Art. 43.º Sempre que o julgar conveniente pode o Governo, pelo Ministro das Finanças, atribuir à Junta do Crédito Público a administração ou fiscalização de instituições ou serviços públicos ou particulares especialmente dotados através de investimentos totalmente integrados ou comparticipados pelo Estado.
+Art. 43.º Sempre que o julgar conveniente pode o Governo, pelo Ministro das Finanças, atribuir à Junta do Crédito Público a administração ou fiscalização de instituições ou serviços públicos ou particulares especialmente dotados através de investimentos totalmente integrados ou comparticipados pelo Estado.
 
-###### Art. 44.º A Junta procederá à imediata reorganização dos seus serviços e elaborará, no prazo de um ano, o projecto do novo regulamento adaptado às disposições deste diploma, podendo entretanto reger-se por ordens de serviço e instruções regulamentares adequadas.
+Art. 44.º A Junta procederá à imediata reorganização dos seus serviços e elaborará, no prazo de um ano, o projecto do novo regulamento adaptado às disposições deste diploma, podendo entretanto reger-se por ordens de serviço e instruções regulamentares adequadas.
 
-###### Art. 45.º São aprovadas as tabelas anexas ao presente decreto-lei para o cálculo das rendas vitalícias a passar aos portadores de títulos ou certificados da dívida pública a que se referem o artigo 29.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e o artigo 1.º do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
+Art. 45.º São aprovadas as tabelas anexas ao presente decreto-lei para o cálculo das rendas vitalícias a passar aos portadores de títulos ou certificados da dívida pública a que se referem o artigo 29.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e o artigo 1.º do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
 
-###### Art. 46.º Este decreto-lei entra imediatamente em vigor e revoga os artigos 2.º, 3.º, 7.º, 16.º, 48.º e 59.º, bem como os §§ 1.º e 2.º do artigo 2.º, os n.os 1.º, 2.º e 3.º do artigo 14.º, o § 1.º do artigo 55.º, o § único do artigo 59.º e os §§ 2.º e 3.º do artigo 60.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936.
+Art. 46.º Este decreto-lei entra imediatamente em vigor e revoga os artigos 2.º, 3.º, 7.º, 16.º, 48.º e 59.º, bem como os §§ 1.º e 2.º do artigo 2.º, os n.os 1.º, 2.º e 3.º do artigo 14.º, o § 1.º do artigo 55.º, o § único do artigo 59.º e os §§ 2.º e 3.º do artigo 60.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -438,7 +540,7 @@ Ministério das Finanças, 5 de Abril de 1960. - O Ministro das Finanças, Antó
 
 Quadros e vencimentos da Junta do Crédito Público e da sua Direcção-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf))](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf)
 
 Remuneração acidental para senhas de presença aos três vogais substitutos a que se refere o § único do artigo 8.º do presente Decreto-Lei (a 200$00 cada, até ao limite máximo de 20) - 12.000$00.
 
@@ -448,10 +550,10 @@ RENDAS VITALÍCIAS
 
 Custo de uma renda igual a 1$00, sobre uma vida, paga em fracções trimestrais de $25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf))](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf)
 
 RENDAS VITALÍCIAS
 
 Custo de uma renda igual a 1$00, sobre duas vidas, paga em fracções trimestrais de $25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf))](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/07900/08490862.pdf)

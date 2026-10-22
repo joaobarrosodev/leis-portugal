@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/02/04000/01600162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48868-1969-527839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaf7ea3cb901f515725e3b9930a1cd07f4edf80abf81a2972144d4fa930b1634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af34c958550eea542567a09f16cc3dbf5bf50e7b6604b4a09001485fb6a29ea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral da Educação
+- Direcção Geral do Ensino Liceal
+- Ensino Liceal
+- Ensino Técnico Profissional
+- Estágio de Formação
+- Ministro da Educação Nacional
+- Ministro do Ultramar
+- Pessoal Docente
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:471884:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256621:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471884:por
+  label: "Revogado pelo DEC LEI.217/80.09.07.1980.MECI, DR.IS [156] de 09.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1980-471884
+  date: '1980-07-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:30Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +120,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A formação pedagógica dos professores dos grupos 1.º a 9.º do ensino liceal e 1.º a 11.º do ensino técnico profissional, pelo que respeita a estágios, passa a regular-se pelas disposições do presente diploma e pela demais legislação em vigor que por ele não seja contrariada.
+Artigo 1.º A formação pedagógica dos professores dos grupos 1.º a 9.º do ensino liceal e 1.º a 11.º do ensino técnico profissional, pelo que respeita a estágios, passa a regular-se pelas disposições do presente diploma e pela demais legislação em vigor que por ele não seja contrariada.
 
-###### Art. 2.º Os estágios terão finalidade essencialmente formativa e orientação predominantemente prática, compreendendo:
+Art. 2.º Os estágios terão finalidade essencialmente formativa e orientação predominantemente prática, compreendendo:
 
 a) Estudo e aplicação de métodos, processos e técnicas do ensino e aprendizagem das disciplinas do respectivo grupo;
 
@@ -107,7 +130,7 @@ b) Conhecimento genérico da respectiva legislação e noções práticas de adm
 
 c) Actividades culturais complementares e de ar livre.
 
-###### Art. 3.º - 1. Os estágios efectuar-se-ão nos liceus normais e nas escolas técnicas para esse efeito designados por despacho ministerial.
+Art. 3.º - 1. Os estágios efectuar-se-ão nos liceus normais e nas escolas técnicas para esse efeito designados por despacho ministerial.
 
 2. Mediante proposta fundamentada da Direcção-Geral do Ensino Liceal, pode o Ministro autorizar o funcionamento noutros liceus dos estágios relativos ao correspondente magistério.
 
@@ -119,7 +142,7 @@ c) Actividades culturais complementares e de ar livre.
 
 6. Os estágios a que se referem os n.os 4 e 5 serão dirigidos por professores metodólogos designados por despacho ministerial e nomeados nas condições previstas no artigo 4.º do presente diploma para os metodólogos responsáveis pela direcção dos estágios normais.
 
-###### Art. 4.º - 1. O Ministro da Educação Nacional nomeará, em comissão, os professores metodólogos necessários para a eficiente direcção do estágio em cada liceu ou escola da metrópole, os quais, se não pertencerem ao quadro do estabelecimento de ensino onde se realiza o estágio, manterão direito aos vencimentos do lugar do quadro que ocuparem.
+Art. 4.º - 1. O Ministro da Educação Nacional nomeará, em comissão, os professores metodólogos necessários para a eficiente direcção do estágio em cada liceu ou escola da metrópole, os quais, se não pertencerem ao quadro do estabelecimento de ensino onde se realiza o estágio, manterão direito aos vencimentos do lugar do quadro que ocuparem.
 
 2. As nomeações previstas no número anterior competirão, sob proposta da Direcção-Geral de Educação, ao Ministro do Ultramar, quando referidas a liceus ou escolas técnicas das províncias ultramarinas.
 
@@ -129,9 +152,9 @@ c) Actividades culturais complementares e de ar livre.
 
 5. Nos liceus normais só poderão prestar serviço professores efectivos estranhos ao próprio quadro, quando nomeados reitores, vice-reitores, metodólogos ou directores de ciclo.
 
-###### Art. 5.º Os estágios terão a duração de um ano escolar, compreendendo, obrigatòriamente, a participação no serviço de exames.
+Art. 5.º Os estágios terão a duração de um ano escolar, compreendendo, obrigatòriamente, a participação no serviço de exames.
 
-###### Art. 6.º - 1. O Ministro da Educação Nacional poderá, sob parecer da Junta Nacional da Educação, autorizar que, mediante prestação de provas, os estágios sejam frequentados por candidatos titulares de habilitações académicas, que, embora diversas das exigidas pela legislação geral respectiva, possuam nível apropriado e sejam, para o efeito, declaradas suficientes:
+Art. 6.º - 1. O Ministro da Educação Nacional poderá, sob parecer da Junta Nacional da Educação, autorizar que, mediante prestação de provas, os estágios sejam frequentados por candidatos titulares de habilitações académicas, que, embora diversas das exigidas pela legislação geral respectiva, possuam nível apropriado e sejam, para o efeito, declaradas suficientes:
 
 2. As provas a que se refere o número anterior serão indicadas no parecer e incidirão sobre as disciplinas do grupo em causa não compreendidas ou insuficientemente contempladas no curso ou habilitação académica que o interessado possuir.
 
@@ -141,13 +164,13 @@ c) Actividades culturais complementares e de ar livre.
 
 5. Os resultados das provas serão publicados no Diário do Governo ou nos Boletins Oficiais das províncias ultramarinas, conforme se trate de provas realizadas na metrópole ou no ultramar.
 
-###### Art. 7.º - 1. Poderão ingressar no estágio os oficiais das forças armadas com incapacidades físicas contraídas em serviço militar que os não impossibilitem para o magistério, desde que possuam habilitações reconhecidas para o efeito como suficientes.
+Art. 7.º - 1. Poderão ingressar no estágio os oficiais das forças armadas com incapacidades físicas contraídas em serviço militar que os não impossibilitem para o magistério, desde que possuam habilitações reconhecidas para o efeito como suficientes.
 
 2. A admissão destes candidatos fica sujeita ao regime estabelecido no artigo 6.º, podendo, porém, quando tal se justifique, ser dispensada a prestação de provas.
 
-###### Art. 8.º Em cada ano o número de estagiários de cada sexo a admitir será fixado por despacho ministerial, sob proposta do director-geral.
+Art. 8.º Em cada ano o número de estagiários de cada sexo a admitir será fixado por despacho ministerial, sob proposta do director-geral.
 
-###### Art. 9.º - 1. Os estagiários serão admitidos por concurso documental, devendo a graduação dos candidatos de cada grupo ser feita em conjunto.
+Art. 9.º - 1. Os estagiários serão admitidos por concurso documental, devendo a graduação dos candidatos de cada grupo ser feita em conjunto.
 
 2. Na graduação dos candidatos considerar-se-ão, sucessivamente, como razões de preferência:
 
@@ -161,13 +184,13 @@ c) Aptidão documentada no processo curricular, quando este exista.
 
 4. No ultramar será ainda dada preferência aos estagiários que já pertençam aos quadros comuns do ensino liceal ou do ensino técnico profissional.
 
-###### Art. 10.º - 1. Os requerimentos dos candidatos a estagiários serão apresentados até 31 de Julho na direcção-geral respectiva ou nas direcções dos serviços provinciais de educação.
+Art. 10.º - 1. Os requerimentos dos candidatos a estagiários serão apresentados até 31 de Julho na direcção-geral respectiva ou nas direcções dos serviços provinciais de educação.
 
 2. Os candidatos indicarão nos requerimentos, por ordem de preferência, os liceus ou escolas onde pretendam frequentar o estágio.
 
 3. Os requerimentos serão acompanhados pelos documentos exigidos pela legislação vigente e ainda pelo certificado de aprovação nas disciplinas da secção de Ciências Pedagógicas, com indicação da respectiva classificação, e pelo processo curricular, quando exista.
 
-###### Art. 11.º - 1. As inspecções médicas dos candidatos, a efectuar na metrópole, realizar-se-ão nas localidades e datas a determinar pelo director-geral respectivo, ouvido o director-geral da Educação Física, Desportos e Saúde Escolar.
+Art. 11.º - 1. As inspecções médicas dos candidatos, a efectuar na metrópole, realizar-se-ão nas localidades e datas a determinar pelo director-geral respectivo, ouvido o director-geral da Educação Física, Desportos e Saúde Escolar.
 
 2. Cada junta de inspecção será constituída por três médicos escolares a designar pelo director-geral da Educação Física, Desportos e Saúde Escolar.
 
@@ -177,13 +200,13 @@ c) Aptidão documentada no processo curricular, quando este exista.
 
 5. Os candidatos que recorram para o Ministro da Educação Nacional poderão ser mandados examinar por nova junta, composta por cinco membros.
 
-###### Art. 12.º - 1. Até ao dia 15 de Setembro a direcção-geral respectiva fará publicar no Diário do Governo ou nos Boletins Oficiais, de acordo com o despacho proferido ao abrigo do artigo 8.º deste diploma, com a respectiva classificação, a lista dos candidatos admitidos em cada grupo e em cada liceu ou escola.
+Art. 12.º - 1. Até ao dia 15 de Setembro a direcção-geral respectiva fará publicar no Diário do Governo ou nos Boletins Oficiais, de acordo com o despacho proferido ao abrigo do artigo 8.º deste diploma, com a respectiva classificação, a lista dos candidatos admitidos em cada grupo e em cada liceu ou escola.
 
 2. A matrícula dos estagiários efectuar-se-á dentro dos oito dias posteriores à publicação da lista referida no número anterior.
 
 3. Quando algum ou alguns dos candidatos com direito à matrícula a não efectuarem no prazo legal, podem ser convocados em sua substituição candidatos do respectivo grupo ainda não admitidos, pela ordem da graduação a que se refere o artigo 9.º deste diploma.
 
-###### Art. 13.º - 1. Os estagiários gozarão do estatuto de professores de serviço eventual.
+Art. 13.º - 1. Os estagiários gozarão do estatuto de professores de serviço eventual.
 
 2. No ultramar aplicar-se-á aos estagiários o estatuto de professores contratados ou eventuais.
 
@@ -193,11 +216,11 @@ c) Aptidão documentada no processo curricular, quando este exista.
 
 5. A remuneração atribuída aos estagiários corresponderá ao exercício do ensino com horário completo e referir-se-á, bem como a contagem do tempo de serviço, a períodos de doze meses.
 
-###### Art. 14.º - 1. Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competentes ser autorizado o respectivo alojamento em residências universitárias.
+Art. 14.º - 1. Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competentes ser autorizado o respectivo alojamento em residências universitárias.
 
 2. Na metrópole os estagiários ficarão, relativamente ao alojamento em residências universitárias, sujeitos ao regime geral aplicável aos estudantes, com excepção das condições incluídas nas alíneas c) e d) do n.º 1 do artigo 33.º do [Decreto-Lei n.º 46834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339), de 11 de Janeiro de 1966, e dos demais preceitos incompatíveis com a natureza da sua situação.
 
-###### Art. 15.º - 1. Podem requerer Exame de Estado com dispensa da frequência do estágio:
+Art. 15.º - 1. Podem requerer Exame de Estado com dispensa da frequência do estágio:
 
 a) Os candidatos que após a conclusão do curso tenham leccionado nos liceus ou escolas técnicas matérias do respectivo grupo durante, pelo menos, cinco anos com serviço qualificado de Bom pela respectiva inspecção;
 
@@ -223,9 +246,9 @@ b) Duas lições a alunos sobre matérias do grupo.
 
 4. Quando o grupo compreenda mais de duas disciplinas, o júri escolherá as duas disciplinas fundamentais em que as lições hão-de ser dadas.
 
-###### Art. 16.º Os Exames de Estado serão requeridos de 1 a 15 de Setembro e as provas realizar-se-ão no decurso dos meses de Novembro e Dezembro.
+Art. 16.º Os Exames de Estado serão requeridos de 1 a 15 de Setembro e as provas realizar-se-ão no decurso dos meses de Novembro e Dezembro.
 
-###### Art. 17.º - 1. Findos os Exames de Estado, cada júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média, aproximada às décimas, das classificações seguintes:
+Art. 17.º - 1. Findos os Exames de Estado, cada júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média, aproximada às décimas, das classificações seguintes:
 
 a) Classificação a que se refere o n.º 1 do artigo 12.º (coeficiente 2);
 
@@ -237,19 +260,19 @@ d) Classificação do Exame de Estado (coeficiente 2).
 
 2. Para os candidatos abrangidos pelo artigo 15.º a classificação do estágio referida na alínea c) do número anterior será substituída pela classificação da dissertação exigida no n.º 3 daquele artigo.
 
-###### Art. 18.º Os estagiários que no ano lectivo de 1968-1969 frequentarem o 1.º ano de estágio com aproveitamento poderão requerer o Exame de Estado na época própria fixada no presente diploma, desde que comprovem aprovação na secção de Ciências Pedagógicas.
+Art. 18.º Os estagiários que no ano lectivo de 1968-1969 frequentarem o 1.º ano de estágio com aproveitamento poderão requerer o Exame de Estado na época própria fixada no presente diploma, desde que comprovem aprovação na secção de Ciências Pedagógicas.
 
-###### Art. 19.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional ou do Ultramar, conforme o estágio se realize na metrópole ou no ultramar.
+Art. 19.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional ou do Ultramar, conforme o estágio se realize na metrópole ou no ultramar.
 
-###### Art. 20.º - 1. Os encargos relativos à execução de presente diploma na metrópole serão satisfeitos pelas disponibilidades das dotações do orçamento do Ministério da Educação Nacional destinadas a remunerações certas ao pessoal em exercício no ensino liceal e no ensino técnico profissional.
+Art. 20.º - 1. Os encargos relativos à execução de presente diploma na metrópole serão satisfeitos pelas disponibilidades das dotações do orçamento do Ministério da Educação Nacional destinadas a remunerações certas ao pessoal em exercício no ensino liceal e no ensino técnico profissional.
 
 2. Ficam os governadores-gerais das províncias de Angola e Moçambique autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto-lei, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Carreia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 10 de Fevereiro de 1969.**
+Promulgado em 10 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

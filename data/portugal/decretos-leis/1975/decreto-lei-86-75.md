@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/04900/03080309.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1975-160095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c026e9b1ada797a4d3064449a561cbf65021dec52d08b32cfd20c31f262e36fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8654f16e513ba0c0fc5f54bae5c973ccf1b6b380463d4150b08c1b57c977baf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Caderno de Recenseamento
+- Campanha Eleitoral
+- Comissão Recenseadora
+- Direito de Antena
+- Eleição
+- Lei Eleitoral
+- Metodo de Hondt
+- Recenseamento Eleitoral
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584001:por
+  label: "Alterados os arts. 48º e 49º do Dec Lei 621-C/74, de 15-Nov, na redacção do presente diploma, pelo DEC LEI.101-A/75.03.03.1975.PCM,\
+    \ DG.IS [52-3SUPL] de 03.03.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-a-1975-584001
+  date: '1975-03-03'
+- type: amended_by
+  target: pt:dre:479670:por
+  label: "Alterado o art. 49º do Dec Lei 621-C/74, de 15-Nov, na redacção do presente diploma, pelo DEC LEI.141-C/75.19.03.1975.CR,\
+    \ DG.IS [66-SUPL] de 19.03.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-c-1975-479670
+  date: '1975-03-19'
+- type: cites
+  target: pt:dre:309893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356759:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:46Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +134,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É alterado o n.º 2 do artigo 39.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro, com a modificação de data constante do [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), de 7 de Janeiro, e é aditado um número ao artigo 41.º, que passam a ter a seguinte redacção:
+Artigo 1.º É alterado o n.º 2 do artigo 39.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro, com a modificação de data constante do [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), de 7 de Janeiro, e é aditado um número ao artigo 41.º, que passam a ter a seguinte redacção:
 
 ###### ARTIGO 39.º — (Correcção dos cadernos definitivos)
 
@@ -109,7 +148,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 2 - Quando a junta de freguesia não oferecer condições materiais para a guarda da documentação a que se refere o número anterior, a entrega será feita pelas comissões de recenseamento à autoridade militar ou militarizada mais próxima que possa garantir aquela guarda.
 
-###### Art. 2.º São alterados vários números dos artigos 6.º, 10.º, 48.º, 49.º, 53.º, 64.º, 67.º e 92.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, que passam a ter a seguinte redacção:
+Art. 2.º São alterados vários números dos artigos 6.º, 10.º, 48.º, 49.º, 53.º, 64.º, 67.º e 92.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, que passam a ter a seguinte redacção:
 
 ###### ARTIGO 6.º — (Organização das listas)
 
@@ -185,14 +224,14 @@ d) As estações privadas (ondas média e de frequência modulada), ligadas a to
 
 2 - O presidente declarará encerrada a votação logo que tiverem votado todos os eleitores inscritos ou, depois das 19 horas, logo que tiverem votado todos os eleitores presentes na assembleia de voto.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás.
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 19 de Fevereiro de 1975.**
+Promulgado em 19 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/807-1976-407315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec5115850d0da82a01cf463de6f15cbc45b76dd1be9daccd90ba83513255b08e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b04b9333a13e615c6d26d47e535ac92ca3804f559500ca24e7c7acd3957e516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Geral
+- Associação de Socorros Mútuos
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:567059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523236:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567059:por
+  label: "Revogado pelo DEC LEI.347/81.22.12.1981.PCM, DR.IS [293] de 22.12.1981, sem prejuízo do disposto nos seus artigos\
+    \ 6.º e 18.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1981-567059
+  date: '1981-12-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:21Z'
   warnings: []
   errors: []
 ---
@@ -95,28 +112,28 @@ Considerando que importa ainda introduzir algumas rectificações ao mesmo diplo
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 12.º e os artigos 26.º, n.º 1, e 28.º do [Decreto-Lei n.º 636/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1976-430855), de 28 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 12.º e os artigos 26.º, n.º 1, e 28.º do [Decreto-Lei n.º 636/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1976-430855), de 28 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 12.º - 1. ...
+Art. 12.º - 1. ...
 
 2. A convocatória é feita por meio de aviso postal expedido para cada associado, pessoalmente ou através de anúncio publicado nos dois jornais diários de maior circulação na área onde se situa a sede da associação, e deverá ser afixada na mesma sede, dela constando, obrigatoriamente o dia, hora, local e ordem de trabalhos.
 
 ...
 
-###### Art. 26.º - 1. Por despacho do Ministro dos Assuntos Sociais, sob proposta da Inspecção da Previdência Social, podem ser suspensos do exercício das suas funções os corpos gerentes cuja actividade afecte o normal funcionamento das instituições.
+Art. 26.º - 1. Por despacho do Ministro dos Assuntos Sociais, sob proposta da Inspecção da Previdência Social, podem ser suspensos do exercício das suas funções os corpos gerentes cuja actividade afecte o normal funcionamento das instituições.
 
 2. ...
 
 ...
 
-###### Art. 28.º Ficam revogadas todas as disposições legais e estatutárias que contrariem as normas agora aprovadas, nomeadamente os capítulos V e VI do [Decreto n.º 20944](https://diariodarepublica.pt/dr/detalhe/decreto/20944-1932-523236), de 27 de Fevereiro de 1932, que aprova o Regulamento das Associações Mutualistas.
+Art. 28.º Ficam revogadas todas as disposições legais e estatutárias que contrariem as normas agora aprovadas, nomeadamente os capítulos V e VI do [Decreto n.º 20944](https://diariodarepublica.pt/dr/detalhe/decreto/20944-1932-523236), de 27 de Fevereiro de 1932, que aprova o Regulamento das Associações Mutualistas.
 
-###### Art. 2.º O disposto no n.º 2 do artigo 12.º do [Decreto-Lei n.º 636/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1976-430855), de 28 de Julho, é aplicável às convocações das assembleias gerais do Montepio Geral.
+Art. 2.º O disposto no n.º 2 do artigo 12.º do [Decreto-Lei n.º 636/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1976-430855), de 28 de Julho, é aplicável às convocações das assembleias gerais do Montepio Geral.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 25 de Outubro de 1976.**
+Promulgado em 25 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

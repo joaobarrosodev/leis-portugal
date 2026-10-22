@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44946-1963-195409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c274415a4fb2b470979177fdd168daa2846b65db6f0d93882b28716b1197a742
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe11a883908d30da452e6040a3f96ac49baeab68e2674809c630239961494304
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento Geral do Estado
+- Presidência do Conselho
+- Secretariado Técnico da Presidência do Conselho
+relationships:
+- type: cites
+  target: pt:dre:195407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:28Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +100,7 @@ Sendo indispensável dotar o Secretariado Técnico da Presidência do Conselho c
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 3766000$00 a descrever no orçamento de encargos gerais da Nação, pela seguinte forma:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 3766000$00 a descrever no orçamento de encargos gerais da Nação, pela seguinte forma:
 
 ### CAPÍTULO 2.º-A — Secretariado Técnico da Presidência do Conselho
 
@@ -95,11 +108,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Despesas com o pessoal:
 
-###### Artigo 68.º-A «Remunerações certas ao pessoal em exercício»:
+Artigo 68.º-A «Remunerações certas ao pessoal em exercício»:
 
 1) «Pessoal dos quadros aprovados por lei»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/03/07500/03100311.pdf))](https://files.diariodarepublica.pt/1s/1963/03/07500/03100311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/03/07500/03100311.pdf)
 
 2) «Pessoal destacado de outros serviços do Estado»:
 
@@ -107,11 +120,11 @@ a) «Vencimentos e gratificações nos termos do artigo 8.º do [Decreto n.º 44
 
 ... 2081000$00
 
-###### Artigo 68.º-B «Remunerações acidentais»:
+Artigo 68.º-B «Remunerações acidentais»:
 
 1) «Remunerações ao pessoal menor por horas extraordinárias» ... 15000$00
 
-###### Artigo 68.º-C «Outras despesas com o pessoal»:
+Artigo 68.º-C «Outras despesas com o pessoal»:
 
 1) «Ajudas de custo» ... 150000$00
 
@@ -125,11 +138,11 @@ a) «Fardamentos ao pessoal menor» ... 15000$00
 
 Despesas com o material:
 
-###### Artigo 68.º-D «Aquisições de utilização permanente»:
+Artigo 68.º-D «Aquisições de utilização permanente»:
 
 1) «De móveis» ... 500000$00
 
-###### Artigo 68.º-E «Despesas de conservação e aproveitamento do material»:
+Artigo 68.º-E «Despesas de conservação e aproveitamento do material»:
 
 1) «De imóveis» ... 5000$00
 
@@ -137,7 +150,7 @@ Despesas com o material:
 
 ... 15000$00
 
-###### Artigo 68.º-F «Material de consumo corrente»:
+Artigo 68.º-F «Material de consumo corrente»:
 
 1) «Impressos» ... 20000$00
 
@@ -149,11 +162,11 @@ Despesas com o material:
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 68.º-G «Despesas de higiene, saúde e conforto»:
+Artigo 68.º-G «Despesas de higiene, saúde e conforto»:
 
 1) «Luz, aquecimento, água, lavagem e limpeza» ... 40000$00
 
-###### Artigo 68.º-H «Despesas de comunicações»:
+Artigo 68.º-H «Despesas de comunicações»:
 
 1) «Correios e telégrafos» ... 20000$00
 
@@ -163,7 +176,7 @@ Pagamento de serviços e diversos encargos:
 
 ... 150000$00
 
-###### Artigo 68.º-I «Encargos administrativos»:
+Artigo 68.º-I «Encargos administrativos»:
 
 1) «Publicidade e propaganda» ... 60000$00
 
@@ -179,9 +192,9 @@ Pagamento de serviços e diversos encargos:
 
 ... 3766000$00
 
-###### Art. 2.º Para compensação do crédito aludido no artigo precedente é anulada igual quantia na verba inscrita no capítulo 1.º, artigo 12.º, do orçamento do Ministério das Finanças para o corrente ano.
+Art. 2.º Para compensação do crédito aludido no artigo precedente é anulada igual quantia na verba inscrita no capítulo 1.º, artigo 12.º, do orçamento do Ministério das Finanças para o corrente ano.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

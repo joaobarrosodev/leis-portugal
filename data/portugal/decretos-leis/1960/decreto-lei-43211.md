@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43211-1960-514056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0efa8f17b4aa668f4b9b64eae32fd967fabfdffd74b7f802e04782cbb5eb33d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f074b0a8f3f5bdfb5f580a26220ae88e2edd07746ae6f3577b77926b18a9c744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arraiolos
+- Câmara Municipal
+- Criação de Serviços
+- Director Delegado
+- Distribuição de Energia Elétrica
+- Electrificação Rural
+- Equipamento Eléctrico
+- Évora
+- Federação de Municípios
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Redondo
+- Serviços Municipalizados
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:291794:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213063:por
+  label: "Dada nova redacção aos arts. 2º, 6º, 7º, 8º e 11º pelo DEC LEI.49479.30.12.1969.MI, DG.IS [303] de 30.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49479-1969-213063
+  date: '1969-12-30'
+- type: amended_by
+  target: pt:dre:291794:por
+  label: "Tornado extensivo à Federação de Municípios criada neste diploma o disposto no nº 2 do art. 2º do DEC LEI.5/72.05.01.1972.MI,\
+    \ DG.IS [3] de 05.01.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1972-291794
+  date: '1972-01-05'
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674849:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:59Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +131,13 @@ Nestes termos, e considerando o pedido de autorização das Câmaras Municipais 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Federação das Municípios de Évora, Arraiolos e Redondo, sendo-lhe cometida a execução e a exploração das obras destinadas à pequena distribuição de energia eléctrica nas áreas dos respectivos concelhos, de harmonia com o disposto nas bases XIX e XXI da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944.
+Artigo 1.º É criada a Federação das Municípios de Évora, Arraiolos e Redondo, sendo-lhe cometida a execução e a exploração das obras destinadas à pequena distribuição de energia eléctrica nas áreas dos respectivos concelhos, de harmonia com o disposto nas bases XIX e XXI da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944.
 
 § único. A comissão administrativa da Federação deverá submeter à aprovação dos Ministros do Interior e da Economia o respectivo regulamento interno, no prazo de sessenta dias.
 
-###### Art. 2.º Ouvida a comissão administrativa da Federação, poderão integrar-se nela outros concelhos limítrofes, por portaria dos Ministros do Interior e da Economia, mediante proposta da Direcção-Geral dos Serviços Eléctricos, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.
+Art. 2.º Ouvida a comissão administrativa da Federação, poderão integrar-se nela outros concelhos limítrofes, por portaria dos Ministros do Interior e da Economia, mediante proposta da Direcção-Geral dos Serviços Eléctricos, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.
 
-###### Art. 3.º As instalações de distribuição de energia eléctrica pertencentes aos municípios federados, excluídas as centrais térmicas, são transferidas, em posse e administração, para a Federação, que contabilizará e liquidará os encargos de empréstimos eventualmente contraídos para o estabelecimento daquelas instalações e que onerem a sua exploração.
+Art. 3.º As instalações de distribuição de energia eléctrica pertencentes aos municípios federados, excluídas as centrais térmicas, são transferidas, em posse e administração, para a Federação, que contabilizará e liquidará os encargos de empréstimos eventualmente contraídos para o estabelecimento daquelas instalações e que onerem a sua exploração.
 
 § 1.º Os montantes dos empréstimos a considerar para os efeitos do disposto no corpo do artigo serão limitados ao valor real das instalações transferidas, que será determinado por acordo, ou, na falta deste, por uma comissão de peritos constituída pelo director-delegado da Federação, por um representante de cada uma das câmaras dos municípios federados e por um representante da Direcção-Geral dos Serviços Eléctricos, que presidirá e terá voto de qualidade.
 
@@ -111,26 +145,26 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Considerar-se-á como activo de cada município, dentro da Federação, a diferença entre o montante dos empréstimos que onerarem as instalações transferidas e os respectivos valores reais, acrescida da contribuição desse município, por si ou freguesia a ele pertencente, para a execução de novas instalações, e ainda do valor da parte com que porventura cada uma das câmaras tenha entrado para as despesas da Federação.
 
-###### Art. 4.º É reconhecida, para todos os efeitos, a utilidade pública às instalações de distribuição de energia eléctrica a cargo da Federação.
+Art. 4.º É reconhecida, para todos os efeitos, a utilidade pública às instalações de distribuição de energia eléctrica a cargo da Federação.
 
-###### Art. 5.º As funções de director-delegado dos serviços da Federação serão exercidas por um engenheiro electrotécnico, ou por um agente técnico de engenharia electromecânica, a nomear pelo conselho de administração, com prévio acordo da Direcção-Geral dos Serviços Eléctricos. Se o proposto para director-delegado pertencer aos quadros do Estado, poderá ser considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.
+Art. 5.º As funções de director-delegado dos serviços da Federação serão exercidas por um engenheiro electrotécnico, ou por um agente técnico de engenharia electromecânica, a nomear pelo conselho de administração, com prévio acordo da Direcção-Geral dos Serviços Eléctricos. Se o proposto para director-delegado pertencer aos quadros do Estado, poderá ser considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.
 
 § único. Com o parecer favorável da Direcção-Geral dos Serviços Eléctricos, o director-delegado dos serviços municipalizados de Évora poderá acumular as suas funções com as de director-delegado dos serviços da Federação e beneficiar de uma gratificação, mensal a fixar nos termos do artigo 8.º do [Decreto-Lei n.º 40014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40014-1954-674849), de 31 de Dezembro de 1954.
 
-###### Art. 6.º O director-delegado fica responsável, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que a situação requerer.
+Art. 6.º O director-delegado fica responsável, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que a situação requerer.
 
-###### Art. 7.º A aprovação do quadro do pessoal técnico e administrativo da Federação é da competência do Ministro do Interior, ouvido o Ministro da Economia, e deverá ser pedida pela Federação no prazo de seis meses, a contar da data da publicação do presente diploma.
+Art. 7.º A aprovação do quadro do pessoal técnico e administrativo da Federação é da competência do Ministro do Interior, ouvido o Ministro da Economia, e deverá ser pedida pela Federação no prazo de seis meses, a contar da data da publicação do presente diploma.
 
 § único. O pessoal dos serviços municipalizados de Évora e o das outras câmaras municipais federadas, que preste serviço, exclusivamente, na distribuição de electricidade nos respectivos concelhos, transitará para a Federação, independentemente de quaisquer formalidades, na situação actual ou naquela que vier a ser-lhe atribuída no quadro aprovado nos termos do corpo deste artigo, sendo-lhe reconhecido o direito de regresso ao quadro a que pertence, no caso de dissolução da Federação.
 
-###### Art. 8.º Até 30 de Junho de cada ano, a Federação deverá submeter à aprovação da Direcção-Geral dos Serviços Eléctricos o plano de obras a realizar no ano seguinte.
+Art. 8.º Até 30 de Junho de cada ano, a Federação deverá submeter à aprovação da Direcção-Geral dos Serviços Eléctricos o plano de obras a realizar no ano seguinte.
 
-###### Art. 9.º As obras feitas pela Federação, para o estabelecimento de novas instalações, serão custeadas pelo município e freguesias interessadas e pela Federação, em partes iguais, e poderão beneficiar da comparticipação do Estado que competiria ao respectivo concelho, nos termos legais.
+Art. 9.º As obras feitas pela Federação, para o estabelecimento de novas instalações, serão custeadas pelo município e freguesias interessadas e pela Federação, em partes iguais, e poderão beneficiar da comparticipação do Estado que competiria ao respectivo concelho, nos termos legais.
 
-###### Art. 10.º Das receitas líquidas da exploração, consignar-se-á ao fundo de obras a importância necessária à execução do plano a que se refere o artigo 8.º O saldo será distribuído pelas câmaras federadas, numa proporção a determinar no regulamento interno e que deverá ter em conta, em relação a cada concelho, o volume de energia distribuída e o activo da respectiva câmara, tal como foi definido no § 3.º do artigo 3.º
+Art. 10.º Das receitas líquidas da exploração, consignar-se-á ao fundo de obras a importância necessária à execução do plano a que se refere o artigo 8.º O saldo será distribuído pelas câmaras federadas, numa proporção a determinar no regulamento interno e que deverá ter em conta, em relação a cada concelho, o volume de energia distribuída e o activo da respectiva câmara, tal como foi definido no § 3.º do artigo 3.º
 
-###### Art. 11.º Nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), a Federação poderá contrair empréstimos na Caixa Geral de Depósitos, Crédito e Previdência para novas instalações, consignando ao serviço desses empréstimos as receitas do fundo de obras.
+Art. 11.º Nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), a Federação poderá contrair empréstimos na Caixa Geral de Depósitos, Crédito e Previdência para novas instalações, consignando ao serviço desses empréstimos as receitas do fundo de obras.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Calos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

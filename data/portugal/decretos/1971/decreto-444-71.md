@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/444-1971-633898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3321359af7caf8634ae02ecce9b1dfccee629c43d204a99f8697d499f0e68d1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 033a0af76381b7e623071a81dea4d3a671d8f526d9000fa7c7c758c1d4c0cd8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:40Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +98,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos do n.º 4 da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, passa a constituir uma reserva botânica a Mata Nacional dos Medos, cuja delimitação consta do mapa complementar anexo ao presente diploma.
+Artigo 1.º Nos termos do n.º 4 da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, passa a constituir uma reserva botânica a Mata Nacional dos Medos, cuja delimitação consta do mapa complementar anexo ao presente diploma.
 
-###### Art. 2.º A reserva botânica da Mata Nacional dos Medos é administrada pela Direcção-Geral dos Serviços Florestais e Aquícolas, através do seu Serviço de Inspecção de Caça e Pesca.
+Art. 2.º A reserva botânica da Mata Nacional dos Medos é administrada pela Direcção-Geral dos Serviços Florestais e Aquícolas, através do seu Serviço de Inspecção de Caça e Pesca.
 
-###### Art. 3.º As funções de polícia e fiscalização da reserva competem ao pessoal da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 3.º As funções de polícia e fiscalização da reserva competem ao pessoal da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 4.º Constitui contravenção:
+Art. 4.º Constitui contravenção:
 
 a) A realização de quaisquer trabalhos, obras ou actividades, em terrenos abrangidos na reserva, sem autorização da Direcção-Geral dos Serviços Florestais e Aquícolas;
 
@@ -110,28 +114,28 @@ c) O abandono de detritos fora dos locais especialmente destinados a esse fim;
 
 d) A introdução na reserva de animais não domésticos e a colheita e introdução de plantas.
 
-###### Art. 5.º As contravenções previstas no artigo anterior são punidas com multa de 500$00 a 10000$00.
+Art. 5.º As contravenções previstas no artigo anterior são punidas com multa de 500$00 a 10000$00.
 
-###### Art. 6.º Os autos de notícia por infracções ao disposto no presente diploma serão levantados e processados nos termos estabelecidos no Regulamento do Serviço da Polícia Florestal.
+Art. 6.º Os autos de notícia por infracções ao disposto no presente diploma serão levantados e processados nos termos estabelecidos no Regulamento do Serviço da Polícia Florestal.
 
-###### Art. 7.º Serão aprovados, em portaria do Secretário de Estado da Agricultura, os sinais indicativos de proibições, permissões e condicionamentos previstos neste decreto, para os quais não existam já modelos legalmente estabelecidos.
+Art. 7.º Serão aprovados, em portaria do Secretário de Estado da Agricultura, os sinais indicativos de proibições, permissões e condicionamentos previstos neste decreto, para os quais não existam já modelos legalmente estabelecidos.
 
-###### Art. 8.º - 1. O director-geral dos Serviços Florestais e Aquícolas poderá propor superiormente a realização, em regime de prestação de serviço, de estudos e outros trabalhos de carácter eventual que se mostrem necessários para os objectivos da reserva.
+Art. 8.º - 1. O director-geral dos Serviços Florestais e Aquícolas poderá propor superiormente a realização, em regime de prestação de serviço, de estudos e outros trabalhos de carácter eventual que se mostrem necessários para os objectivos da reserva.
 
 2. A duração, termos e remuneração dos trabalhos previstos no número anterior serão fixados por despacho do Secretário de Estado da Agricultura.
 
-###### Art. 9.º As despesas emergentes da execução do presente diploma serão suportadas em conta de verbas do plano de fomento inscritas no Orçamento Geral do Estado para outras reservas.
+Art. 9.º As despesas emergentes da execução do presente diploma serão suportadas em conta de verbas do plano de fomento inscritas no Orçamento Geral do Estado para outras reservas.
 
-###### Art. 10.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, quando se trate de questões de natureza financeira.
+Art. 10.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, quando se trate de questões de natureza financeira.
 
 Marcello Caetano - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 13 de Outubro de 1971.**
+Promulgado em 13 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/25000/15981598.pdf))](https://files.diariodarepublica.pt/1s/1971/10/25000/15981598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/25000/15981598.pdf)
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43518-1961-554815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cff1d4cc824b40e64d27ac6f4cabbf00629c144b23334c8814179403e6c503a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04ac01ce2f314290f783bd6683ac7bbc56c9d6810c5730a154512d7ccc4aece4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- AVAL do Estado
+- Emissão de Títulos
+- Isenção Fiscal
+- Metropolitano de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:639158:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:50Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +101,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica a empresa Metropolitano de Lisboa, S. A. R. L., autorizada a emitir em 1961, por uma só vez e até ao montante de 60000000$00, obrigações com as isenções fiscais estabelecidas no § 2.º do artigo 1.º do [Decreto-Lei n.º 39795](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39795-1954-639158), de 28 de Agosto de 1954, e a proceder à emissão, nos termos do artigo 4.º do mesmo diploma.
+Artigo 1.º Fica a empresa Metropolitano de Lisboa, S. A. R. L., autorizada a emitir em 1961, por uma só vez e até ao montante de 60000000$00, obrigações com as isenções fiscais estabelecidas no § 2.º do artigo 1.º do [Decreto-Lei n.º 39795](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39795-1954-639158), de 28 de Agosto de 1954, e a proceder à emissão, nos termos do artigo 4.º do mesmo diploma.
 
 § único. As obrigações têm o valor nominal de 1000$00, vencem o juro anual de 4 por cento e são amortizáveis em vinte semestralidades, a partir do décimo primeiro ano a contar da emissão.
 
-###### Art. 2.º O Estado dá o seu aval às obrigações a emitir, nos termos e condições fixados nos artigos 2.º e 3.º do referido [Decreto-Lei n.º 39795](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39795-1954-639158).
+Art. 2.º O Estado dá o seu aval às obrigações a emitir, nos termos e condições fixados nos artigos 2.º e 3.º do referido [Decreto-Lei n.º 39795](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39795-1954-639158).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

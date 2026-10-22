@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1980-682057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afda7551f563ca1991812b39a82de74f68896eb85678c3f3b3a4ff583eceee46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 401e7c0c37c43fef136bd8902b33034c6480be0827c8d5ea1b6bc94fccf9f4c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Desemprego
+- Gabinete de Gestão do Fundo de Desemprego
+- Quotização
 relationships:
 - type: amended_by
   target: pt:dre:385977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:25Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +124,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 7.º, 8.º e 10.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 7.º, 8.º e 10.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § único. As entidades responsáveis pela liquidação e cobrança das quotizações que não tenham efectuado o pagamento para o Fundo de Desemprego das importâncias das quotizações obrigatoriamente impostas nos termos do presente decreto-lei ou que tenham pago importância inferior à efectivamente devida incorrerão numa multa igual a duas vezes o valor das quotizações em dívida, mas nunca inferior a 400$00, multa que será elevada ao dobro em caso de reincidência.
 
-###### Art. 7.º A liquidação e cobrança das quotizações para o Fundo de Desemprego devem ser efectuadas mensalmente e o seu pagamento será, também, feito mensalmente em dinheiro, mediante guia do modelo único, exclusivo da Imprensa Nacional-Casa da Moeda, aprovada em anexo ao [Decreto-Lei n.º 612/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1976-430776).
+Art. 7.º A liquidação e cobrança das quotizações para o Fundo de Desemprego devem ser efectuadas mensalmente e o seu pagamento será, também, feito mensalmente em dinheiro, mediante guia do modelo único, exclusivo da Imprensa Nacional-Casa da Moeda, aprovada em anexo ao [Decreto-Lei n.º 612/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1976-430776).
 
 § 1.º As guias de pagamento serão processadas em triplicado pelas respectivas entidades responsáveis, ficando um dos exemplares na tesouraria da Fazenda Pública do concelho ou bairro onde se efectuar o pagamento e outro na competente repartição de finanças, sendo o terceiro devolvido aos interessados.
 
@@ -117,30 +140,30 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 4.º O pagamento das quotizações para o Fundo de Desemprego por forma diferente do que fica estabelecido faz incorrer os responsáveis na multa de 400$00 a 2000$00, segundo a importância das respectivas quotizações, elevado ao dobro no caso de reincidência.
 
-###### Art. 8.º - 1 - As direcções de finanças providenciarão para que as receitas administradas pelo Gabinete de Gestão do Fundo de Desemprego dêem entrada nos cofres do Estado em «Contas de ordem», a favor daquele Gabinete, processadas nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
+Art. 8.º - 1 - As direcções de finanças providenciarão para que as receitas administradas pelo Gabinete de Gestão do Fundo de Desemprego dêem entrada nos cofres do Estado em «Contas de ordem», a favor daquele Gabinete, processadas nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
 2 - Mensalmente, as direcções de finanças comunicarão ao Gabinete de Gestão do Fundo de Desemprego e à 13.ª Delegação da Direcção-Geral da Contabilidade Pública o total cobrado em cada mês no respectivo distrito.
 
 3 - O regime estabelecido neste artigo entra em vigor no dia 1 do mês seguinte àquele em que o presente diploma for publicado.
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 1.º ...
 
 § 2.º Todos aqueles que se recusem ou por qualquer forma se eximam ao cumprimento da obrigação imposta no corpo deste artigo incorrem na multa de 1000$00 a 10000$00, a fixar pelo director do Gabinete de Gestão do Fundo de Desemprego. No caso de reincidência, os infractores incorrerão, além da multa em dobro, na pena de crime de desobediência do artigo 188.º do Código Penal. A falsidade de declarações será punida nos termos da lei penal.
 
-###### Art. 2.º É revogado o artigo 9.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963.
+Art. 2.º É revogado o artigo 9.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963.
 
-###### Art. 3.º As quotizações para o Fundo de Desemprego serão arredondadas para escudos por cada liquidação, fazendo-se o arredondamento para a unidade imediatamente superior, se a fracção for igual ou superior a $50, e para a imediatamente inferior, no caso contrário.
+Art. 3.º As quotizações para o Fundo de Desemprego serão arredondadas para escudos por cada liquidação, fazendo-se o arredondamento para a unidade imediatamente superior, se a fracção for igual ou superior a $50, e para a imediatamente inferior, no caso contrário.
 
-###### Art. 4.º Até 31 de Julho de 1980 poderão ainda ser utilizadas as guias modelos A e B, aprovadas em anexo ao [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), bem como as estampilhas fiscais com a sobrecarga «Desemprego».
+Art. 4.º Até 31 de Julho de 1980 poderão ainda ser utilizadas as guias modelos A e B, aprovadas em anexo ao [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), bem como as estampilhas fiscais com a sobrecarga «Desemprego».
 
-###### Art. 5.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Ministro do Trabalho.
+Art. 5.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Ministro do Trabalho.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1980. - Francisco Sá Carneiro - Eusébio Marques de Carvalho.
 
-**Promulgado em 25 de Março de 1980.**
+Promulgado em 25 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

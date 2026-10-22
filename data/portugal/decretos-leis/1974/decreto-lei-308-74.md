@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 156/1974, 1º Suplemento, Série I de 1974-07-06
   number: '156'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 788-(3) a 788-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15601/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 070b4b0946a803f8657308343f1a8cd9daa50a8f75626b4710350155489e5510
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a10ebc99cfa1a769b6c7bf2c65af0a87d4806fc57c4dd32193939cbedaf14dec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472162:por
+  label: "Suspenso por 6 meses o disposto nos arts. 2º e 3º pelo DEC LEI.550/74.1974.10.23.MNE, DR.IS [247], DR.IS [247]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-1974-472162
+  date: '1974-10-23'
+- type: amended_by
+  target: pt:dre:310258:por
+  label: "Alterados os artigos 2.º e 3.º pelo DEC LEI.649/75.18.11.1975.MNE, DG.IS [267] de 18.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/649-1975-310258
+  date: '1975-11-18'
+- type: amended_by
+  target: pt:dre:253198:por
+  label: "Substituído o quadro do pessoal administrativo (alterado pelos Dec Lei 483/74 de 25-set e 97/75 de 01-mar), constante\
+    \ do mapa anexo ao presente diploma pelo DR.42/77.17.06.1977.MNE, DR.IS [138] de 17.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/42-1977-253198
+  date: '1977-06-17'
+- type: amended_by
+  target: pt:dre:382815:por
+  label: "Dada nova redacção ao art. 21.º, alterado pelo presente diploma, pelo DR.11/79.02.04.1979.MNE, DR.IS [77] de 02.04.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-1979-382815
+  date: '1979-04-02'
+- type: amended_by
+  target: pt:dre:366438:por
+  label: "Alterados os artigos 27.º a 31.º do Decreto-Lei 47331, de 23 de Novembro, na redacção do presente diploma, pelo\
+    \ DEC LEI.469/79.13.12.1979.MNE, DR.IS [286] de 13.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/469-1979-366438
+  date: '1979-12-13'
+- type: amended_by
+  target: pt:dre:457074:por
+  label: "Substituídos os quadros de pessoal da Secretaria de Estado dos Negócios Estrangeiros, aprovados pelo Dec Lei 47331,\
+    \ de 23-Nov 1966 com as alterações que lhe foram introduzidas pelo presente diploma e pelos Dec Leis 48518, de 06-Ago\
+    \ 1968, 672/70 de 31-Dez, 226/73 de 12-Mai, 410/73 de 20-Ago, 706/73 de 28-Dez, 59/74 de 16-Fev, 483/4 de 25-Set, 640/74\
+    \ de 20-Nov e 97/75 de 01-Mar, pelo DR 42/77 de 17-Jun e pelos Dec Leis 264/77 de 01-Jul e 202/78 de 22-Jul, pela PORT.1096/80.1980.12.27.PCM,\
+    \ DR.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1096-1980-457074
+  date: '1980-12-27'
+- type: amended_by
+  target: pt:dre:394170:por
+  label: "Extinto um dos cargos a que se refere o § 2º do art. 7º do Dec Lei 47331, de 23-Nov 1966, com a redacção dada pelo\
+    \ art. 1º do presente diploma, pelo DEC LEI.276/82.1982.07.15.MNE, DR.IS [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1982-394170
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada a não vigência do presente diploma pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS [115] de 16.06.2011, nos\
+    \ termos do seu art. 1.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650356:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:366438:por
+  label: "Revogados os artigos 2.º e 3.º pelo DEC LEI.469/79.13.12.1979.MNE, DR.IS [286] de 13.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/469-1979-366438
+  date: '1979-12-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:24Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +164,9 @@ de 6 de Julho
 
 Usando da faculdade conferida pela primeira parte do n.º 3.º do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os §§ 1.º e 3.º do artigo 6.º, o § 2.º do artigo 7.º, os artigos 15.º, 18.º e 21.º, o § 1.º do artigo 22.º, o artigo 25.º, o § 1.º do artigo 26.º, o § 2.º do artigo 37.º e o artigo 38.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passam a ter a redacção seguinte:
+Artigo 1.º Os §§ 1.º e 3.º do artigo 6.º, o § 2.º do artigo 7.º, os artigos 15.º, 18.º e 21.º, o § 1.º do artigo 22.º, o artigo 25.º, o § 1.º do artigo 26.º, o § 2.º do artigo 37.º e o artigo 38.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passam a ter a redacção seguinte:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º Os Serviços Jurídicos e de Tratados são chefiados por um ministro plenipotenciário de 1.ª classe; os Serviços de Informação e de Imprensa, os Serviços do Protocolo e a Inspecção Diplomática e Consular são chefiados por ministros plenipotenciários de 1.ª ou de 2.ª classe, consoante as conveniências de serviço, entendendo-se que os provimentos dos cargos numa das categorias implica o abatimento de outras tantas unidades na outra categoria.
 
@@ -103,7 +176,7 @@ Usando da faculdade conferida pela primeira parte do n.º 3.º do artigo 16.º d
 
 § 4.º ...
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 1.º ...
 
@@ -111,7 +184,7 @@ Usando da faculdade conferida pela primeira parte do n.º 3.º do artigo 16.º d
 
 ...
 
-###### Art. 15.º As missões diplomáticas são chefiadas por embaixadores, ministros plenipotenciários de 1.ª ou de 2.ª classe ou por conselheiros de embaixada, que, independentemente do seu grau hierárquico, terão a designação e as honras inerentes à titularidade da missão que chefiam. Além do seu chefe, as missões compreenderão os funcionários do serviço diplomático, os conselheiros ou adidos técnicos e o pessoal burocrático ou administrativo, permanente ou eventual, que a conveniência de serviço impuser.
+Art. 15.º As missões diplomáticas são chefiadas por embaixadores, ministros plenipotenciários de 1.ª ou de 2.ª classe ou por conselheiros de embaixada, que, independentemente do seu grau hierárquico, terão a designação e as honras inerentes à titularidade da missão que chefiam. Além do seu chefe, as missões compreenderão os funcionários do serviço diplomático, os conselheiros ou adidos técnicos e o pessoal burocrático ou administrativo, permanente ou eventual, que a conveniência de serviço impuser.
 
 § 1.º Quando o pessoal de uma missão diplomática não compreender funcionários do serviço diplomático de categoria igual ou superior à de conselheiros de embaixada ou quando conveniências políticas o aconselharem, pode ao funcionário diplomático mais categorizado ser confiada a chefia dessa missão e ser-lhe atribuído o título de encarregado de negócios.
 
@@ -119,17 +192,17 @@ Usando da faculdade conferida pela primeira parte do n.º 3.º do artigo 16.º d
 
 ...
 
-###### Art. 18.º A criação, modificação de categoria ou supressão de missões diplomáticas dos consulados e das secções consulares serão feitas por decreto.
+Art. 18.º A criação, modificação de categoria ou supressão de missões diplomáticas dos consulados e das secções consulares serão feitas por decreto.
 
 ...
 
-###### Art. 21.º A execução dos serviços internos e externos do Ministério dos Negócios Estrangeiros compete aos funcionários do serviço diplomático, ao pessoal do quadro administrativo e aos funcionários contratados ou eventuais que desempenhem funções na Secretaria de Estado ou no estrangeiro.
+Art. 21.º A execução dos serviços internos e externos do Ministério dos Negócios Estrangeiros compete aos funcionários do serviço diplomático, ao pessoal do quadro administrativo e aos funcionários contratados ou eventuais que desempenhem funções na Secretaria de Estado ou no estrangeiro.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 § 1.º Os funcionários do serviço diplomático, qualquer que seja a sua categoria, quando nomeados para gerir consulados-gerais, serão designados cônsules-gerais, designação que também será atribuída aos conselheiros de embaixada quando colocados em consulados de classe diferente daquela.
 
@@ -137,53 +210,53 @@ Usando da faculdade conferida pela primeira parte do n.º 3.º do artigo 16.º d
 
 ...
 
-###### Art. 25.º A admissão no serviço diplomático depende de aprovação em concurso de provas públicas, a que só poderão ser candidatos os cidadãos portugueses originários, diplomados com qualquer curso superior professado em Universidade ou estabelecimento de ensino superior português ou com um curso superior estrangeiro que o Ministério da Educação e Cultura considere equivalente a um curso superior português para efeito de provimento em cargos públicos.
+Art. 25.º A admissão no serviço diplomático depende de aprovação em concurso de provas públicas, a que só poderão ser candidatos os cidadãos portugueses originários, diplomados com qualquer curso superior professado em Universidade ou estabelecimento de ensino superior português ou com um curso superior estrangeiro que o Ministério da Educação e Cultura considere equivalente a um curso superior português para efeito de provimento em cargos públicos.
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 § 1.º Os nomeados sê-lo-ão com carácter provisório, por dois anos, com o título de adido de embaixada, e prestarão serviço na Secretaria de Estado, nas missões diplomáticas, nos consulados ou nas missões ou delegações permanentes dependentes do Ministério.
 
 ...
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 § 1.º ...
 
 § 2.º Os funcionários na disponibilidade podem, por motivo de interesse público e até ao número de dez, ser chamados ao serviço na Secretaria de Estado ou no estrangeiro ou, se houverem passado seis meses depois da passagem à disponibilidade, ser colocados em vagas da sua categoria. Quando chamados ao serviço, têm direito ao vencimento por inteiro.
 
-###### Art. 38.º É aplicável aos funcionários do Ministério dos Negócios Estrangeiros para serviço na Secretaria de Estado o limite de idade estabelecido na lei geral. Para o serviço no estrangeiro, em todos os serviços dependentes do Ministério dos Negócios Estrangeiros, esse limite será de 65 anos, limite que é também aplicável a entidades estranhas ao serviço diplomático, bem como aos funcionários diplomáticos colocados em missões ou delegações permanentes dependentes de outros Ministérios.
+Art. 38.º É aplicável aos funcionários do Ministério dos Negócios Estrangeiros para serviço na Secretaria de Estado o limite de idade estabelecido na lei geral. Para o serviço no estrangeiro, em todos os serviços dependentes do Ministério dos Negócios Estrangeiros, esse limite será de 65 anos, limite que é também aplicável a entidades estranhas ao serviço diplomático, bem como aos funcionários diplomáticos colocados em missões ou delegações permanentes dependentes de outros Ministérios.
 
 § 1.º Os funcionários que atingirem o limite de idade para o serviço no estrangeiro serão aposentados se tiverem 40 anos de serviço. Não se verificando essa hipótese, poderão ser colocados na Secretaria de Estado, em lugar correspondente à sua categoria, se existir vaga, ou ser colocados na disponibilidade.
 
-###### Art. 2.º A partir do ingresso no serviço diplomático, as promoções até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, fazem-se por livre escolha do Ministro de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
+Art. 2.º A partir do ingresso no serviço diplomático, as promoções até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, fazem-se por livre escolha do Ministro de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
 § 1.º Quando o número de funcionários não for suficiente para preencher as vagas existentes, poderá o Ministro nomear para essas vagas funcionários da mesma categoria que não tenham ainda o tempo de serviço fixado na lei geral para a promoção e ainda, na falta destes, funcionários da categoria imediatamente inferior que possuam, pelo menos, três anos de bom e efectivo serviço nessa categoria.
 
-###### Art. 3.º As promoções referidas no artigo anterior são propostas pelo Conselho do Ministério, em lista tríplice, sempre que o número de candidatos o permita, sobre a base do melhor direito e da maior aptidão dos funcionários para o exercício do posto ou cargo superior, revelada pelas suas qualidades pessoais e pelos serviços por eles prestados.
+Art. 3.º As promoções referidas no artigo anterior são propostas pelo Conselho do Ministério, em lista tríplice, sempre que o número de candidatos o permita, sobre a base do melhor direito e da maior aptidão dos funcionários para o exercício do posto ou cargo superior, revelada pelas suas qualidades pessoais e pelos serviços por eles prestados.
 
 § 1.º Nenhum funcionário poderá ter mais de uma promoção no mesmo posto.
 
 § 2.º O Ministro justificará e fundamentará as decisões que se não conformem com as propostas do Conselho do Ministério.
 
-###### Art. 4.º O n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1970-275266), de 2 de Janeiro, passa a ter a redacção seguinte:
+Art. 4.º O n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1970-275266), de 2 de Janeiro, passa a ter a redacção seguinte:
 
 1. As direcções-gerais do Ministério dos Negócios Estrangeiros podem ser chefiadas por embaixadores.
 
-###### Art. 5.º O vencimento mensal dos ministros plenipotenciários de 2.ª classe passa a ser o correspondente à letra C das categorias previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 5.º O vencimento mensal dos ministros plenipotenciários de 2.ª classe passa a ser o correspondente à letra C das categorias previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 6.º A composição dos quadros do serviço diplomático, do pessoal adjunto e do pessoal administrativo será a constante do mapa anexo ao presente decreto-lei.
+Art. 6.º A composição dos quadros do serviço diplomático, do pessoal adjunto e do pessoal administrativo será a constante do mapa anexo ao presente decreto-lei.
 
-###### Art. 7.º São revogados os artigos 27.º a 31.º e o artigo 39.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e o artigo 2.º do [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
+Art. 7.º São revogados os artigos 27.º a 31.º e o artigo 39.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e o artigo 2.º do [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
 
-###### Art. 8.º No orçamento do Ministério dos Negócios Estrangeiros serão inscritas as dotações necessárias para satisfação dos encargos decorrentes do presente decreto-lei.
+Art. 8.º No orçamento do Ministério dos Negócios Estrangeiros serão inscritas as dotações necessárias para satisfação dos encargos decorrentes do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida - Mário Soares.
 
-**Promulgado em 9 de Julho de 1974.**
+Promulgado em 9 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Mapa a que se refere o artigo 6.º do Decreto-Lei n.º 308/74, de 6 de Julho
 
@@ -191,7 +264,7 @@ I
 
 Serviço diplomático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/07/15601/00030004.pdf))](https://files.diariodarepublica.pt/1s/1974/07/15601/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/07/15601/00030004.pdf)
 
 II
 
@@ -243,4 +316,4 @@ Contínuos de 2.ª classe ... 16
 
 ... 42
 
-**O Ministro dos Negócios Estrangeiros, Mário Soares.**
+O Ministro dos Negócios Estrangeiros, Mário Soares.

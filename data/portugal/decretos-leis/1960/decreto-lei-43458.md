@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/12/30300/29262926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43458-1960-479897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b27911e4b31dc1be549ff49a6ff16a3b98945143db8ee874a66557cebb9c408b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b705bdc98669caea524c8d9c5d01f41fc6e62767aca3ce084b75e129c9d34ae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior da Armada
+- Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
+- Comandante
+- Despesas de Representação
+- Forças Armadas
+- Pessoal Dirigente
+- Região Militar
+- Serviços do Pessoal da Armada
+- Superintendente
+- Vice-chefe do Estado Maior da Armada
+- Vice-chefe do Estado Maior da Força Aérea
+- Vice-chefe do Estado Maior do Exército
 relationships:
 - type: amended_by
   target: pt:dre:453232:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264550:por
+  label: "Substituída pelas designações \"superintendente dos Serviços do Pessoal da Armada\" e \"superintendente dos Serviços\
+    \ do Material da Armada\" a designação de \"superintendente dos serviços da Armada\" constante do nº 3 do art. 2º pelo\
+    \ DEC LEI.48591.26.09.1968.MMAR, DG.IS [228] de 26.09.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48591-1968-264550
+  date: '1968-09-26'
+- type: amended_by
+  target: pt:dre:390842:por
+  label: "Aditados cargos militares aos enunciados no n.º 3 do art. 2.º, pelo DEC LEI.944/76.31.12.1976.CR, DR.IS [303-4ºSupl]\
+    \ de 31.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/944-1976-390842
+  date: '1976-12-31'
+- type: amended_by
+  target: pt:dre:492719:por
+  label: "Aditado o cargo de comandante ao n.º 4 do artigo 2.º pelo DEC LEI.6/77.06.01.1977.CR, DR.IS [4] de 06.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-1977-492719
+  date: '1977-01-06'
+- type: amended_by
+  target: pt:dre:459067:por
+  label: "Aditados cargos militares aos enunciados no nº 3 do art. 2º pelo DEC LEI.558/80.03.12.1980.CR, DR.IS [279] de 03.12.1980\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/558-1980-459067
+  date: '1980-12-03'
+- type: cites
+  target: pt:dre:268381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651555:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453232:por
+  label: "Revogado, a partir de 17.07.1983, pelo DEC LEI.330/83.12.07.1983.MDN, DR.IS [158] de 12.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1983-453232
+  date: '1983-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:20Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +153,9 @@ Considerando que as funções de secretários adjuntos da Defesa Nacional implic
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo o decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A atribuição de uma compensação das despesas de representação dos diferentes cargos enumerados no artigo 2.º do presente decreto-lei é feita de harmonia com os quantitativos que lhes vão fixados.
+Artigo 1.º A atribuição de uma compensação das despesas de representação dos diferentes cargos enumerados no artigo 2.º do presente decreto-lei é feita de harmonia com os quantitativos que lhes vão fixados.
 
-###### Art. 2.º Têm direito à atribuição de uma compensação mensal para despesas de representação os seguintes cargos militares:
+Art. 2.º Têm direito à atribuição de uma compensação mensal para despesas de representação os seguintes cargos militares:
 
 1. Chefe do Estado-Maior General das Forças Armadas - 1500$00.
 
@@ -107,9 +165,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Adjuntos do subchefe do Estado-Maior da Armada, comandantes das zonas aéreas, governador militar da praça de Elvas e comandante naval dos Açores - 600$00.
 
-###### Art. 3.º Ficam revogados o artigo 1.º do [Decreto-Lei n.º 37704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37704-1949-268381), de 30 de Dezembro de 1949, o artigo 7.º do [Decreto-Lei n.º 41059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41059-1957-651555), de 9 de Abril de 1957, o [Decreto-Lei n.º 42199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42199-1959-586251), de 1 de Abril de 1959, e o artigo 4.º do [Decreto-Lei n.º 42806](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42806-1960-277337), de 14 de Janeiro de 1960.
+Art. 3.º Ficam revogados o artigo 1.º do [Decreto-Lei n.º 37704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37704-1949-268381), de 30 de Dezembro de 1949, o artigo 7.º do [Decreto-Lei n.º 41059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41059-1957-651555), de 9 de Abril de 1957, o [Decreto-Lei n.º 42199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42199-1959-586251), de 1 de Abril de 1959, e o artigo 4.º do [Decreto-Lei n.º 42806](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42806-1960-277337), de 14 de Janeiro de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

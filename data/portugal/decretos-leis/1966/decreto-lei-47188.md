@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf71b9e58b3d95ca321fc8e64d9821e45740617a492c7e19d8a686ca5912a337
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7d6857a1fdd69e2c65a4ee5ca77022d2d08c696b64ab1cad28c912087bd6a6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Religiosa
+- Capelão
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:515444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446891:por
+  label: "Alterado pelo DEC LEI.44/71.1971.02.20.PC,DG.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1971-446891
+  date: '1971-02-20'
+- type: amended_by
+  target: pt:dre:605805:por
+  label: "Aumentado o quadro de pessoal aprovado pelo presente diploma, alterada pelo Dec Lei 44/71, de 20-Fev, pelo DEC LEI.296/72.14.08.1972.PCM,\
+    \ DG.IS [189-Supl] de 14.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1972-605805
+  date: '1972-08-14'
+- type: amended_by
+  target: pt:dre:337179:por
+  label: "Alterados os arts. 1º, 2º, 12º, 13º, nº 1 do art. 14º e art. 16º, pelo DEC LEI.310/75.1975.06.26.CR DR.IS [145]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-1975-337179
+  date: '1975-06-26'
+- type: amended_by
+  target: pt:dre:392629:por
+  label: "Alterado o nº 1 do art. 13º, pelo DEC LEI.11/79.1979.01.24.CR DR.IS [20]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1979-392629
+  date: '1979-01-24'
+- type: amended_by
+  target: pt:dre:400782:por
+  label: "Alterado o n.º 1 do art. 13.º, na redacção que lhe foi dada pelo Dec Lei 11/79 de 24-Jan, pelo DEC LEI.359/84.1984.11.16.MDN\
+    \ DR.IS [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/359-1984-400782
+  date: '1984-11-16'
+- type: amended_by
+  target: pt:dre:609988:por
+  label: "Alterado o art. 12º pelo DEC LEI.169/89.1989.05.26.MDN,DR.IS [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1989-609988
+  date: '1989-05-26'
+- type: cites
+  target: pt:dre:434592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582656:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484415:por
+  label: Revogado pelo DEC LEI.93/91.1991.02.26.MDN,DR.IS-A [47]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1991-484415
+  date: '1991-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:16Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +173,7 @@ Mas, em contrapartida, julga-se justo e devido incluir os capelães como possív
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A assistência religiosa nas forças armadas tem como objectivos:
+Artigo 1.º A assistência religiosa nas forças armadas tem como objectivos:
 
 a) Prestar assistência religiosa ao pessoal, dentro do espírito de liberdade garantido pela Constituição Política do País e pela doutrina da Igreja, e bem assim às suas famílias e demais pessoas quando sujeitas à jurisdição canónica do Ordinário Castrense;
 
@@ -132,7 +181,7 @@ b) Procurar a valorização do pessoal, quer orientando a sua conduta de harmoni
 
 c) Colaborar com a acção formativa dos comandos, especialmente no tocante ao bem-estar do pessoal e à sua educação e, no ultramar, à promoção humana e social das populações civis.
 
-###### Art. 2.º - 1. A assistência religiosa nas forças armadas é exercida, sob a autoridade canónica do Ordinário Castrense:
+Art. 2.º - 1. A assistência religiosa nas forças armadas é exercida, sob a autoridade canónica do Ordinário Castrense:
 
 a) Por capelães militares;
 
@@ -146,7 +195,7 @@ b) Os capelães militares eventuais - os que prestam serviço militar obrigatór
 
 3. Quando as circunstâncias o aconselhem, e relativamente a determinados núcleos militares que não justifiquem a existência do capelão militar próprio nem possam ser convenientemente assistidos por outro capelão militar em regime de acumulação, poderá recorrer-se ao serviço de sacerdotes nomeados mediante contrato e designados por capelães civis.
 
-###### Art. 3.º - 1. A direcção da assistência religiosa nas forças armadas é assegurada:
+Art. 3.º - 1. A direcção da assistência religiosa nas forças armadas é assegurada:
 
 a) Pela Capelania-Mor das Forças Armadas;
 
@@ -154,7 +203,7 @@ b) Pelas Chefias dos Serviços de Assistência Religiosa do Exército, da Armada
 
 2. Em cada ramo das forças armadas, sempre que for conveniente, também poderão ser criados órgãos regionais do serviço de assistência religiosa, na dependência das respectivas chefias.
 
-###### Art. 4.º - 1. A Capelania-Mor depende, no aspecto militar, do Ministro da Defesa Nacional, por intermédio do chefe do Estado-Maior General das Forças Armadas, e, no aspecto canónico, directamente do Ordinário Castrense, do qual é a respectiva cúria.
+Art. 4.º - 1. A Capelania-Mor depende, no aspecto militar, do Ministro da Defesa Nacional, por intermédio do chefe do Estado-Maior General das Forças Armadas, e, no aspecto canónico, directamente do Ordinário Castrense, do qual é a respectiva cúria.
 
 2. É constituída:
 
@@ -166,7 +215,7 @@ b) Pelo pessoal indispensável ao seu funcionamento, fornecido pelo Secretariado
 
 4. O capelão-mor é assistido pelos chefes dos serviços, que reunirão periòdicamente sob a sua presidência, com vista à coordenação dos serviços e à elaboração de regras comuns nos aspectos canónico e pastoral.
 
-###### Art. 5.º - 1. A Capelania-Mor é órgão de consulta em matéria de assistência religiosa do chefe do Estado-Maior General das Forças Armadas, competindo-lhe superintender em todos os assuntos relativos à assistência religiosa nas forças armadas, em especial quanto ao seguinte:
+Art. 5.º - 1. A Capelania-Mor é órgão de consulta em matéria de assistência religiosa do chefe do Estado-Maior General das Forças Armadas, competindo-lhe superintender em todos os assuntos relativos à assistência religiosa nas forças armadas, em especial quanto ao seguinte:
 
 a) Estimar as necessidades totais dos capelães, de acordo com as propostas dos três ramos das forças armadas;
 
@@ -188,7 +237,7 @@ i) Elaborar relatórios periódicos sobre a assistência religiosa nas forças a
 
 2. Nos aspectos não estritamente eclesiásticos, as relações da Capelania-Mor com as chefias dos serviços processam-se pelas vias normais das relações entre o departamento da defesa nacional e os três ramos das forças armadas.
 
-###### Art. 6.º - 1. As chefias dos serviços de assistência religiosa dependem do respectivo Ministro ou Secretário de Estado, pelas vias definidas na organização de cada um dos três ramos das forças armadas, e, no aspecto canónico, do Ordinário Castrense, por intermédio da Capelania-Mor.
+Art. 6.º - 1. As chefias dos serviços de assistência religiosa dependem do respectivo Ministro ou Secretário de Estado, pelas vias definidas na organização de cada um dos três ramos das forças armadas, e, no aspecto canónico, do Ordinário Castrense, por intermédio da Capelania-Mor.
 
 2. São constituídas:
 
@@ -198,7 +247,7 @@ b) Pelo pessoal indispensável ao seu funcionamento, fornecido pelos organismos 
 
 3. O chefe do serviço é o capelão militar titular que for nomeado pelo respectivo Ministro ou Secretário de Estado de acordo com o Ordinário Castrense.
 
-###### Art. 7.º - 1. As chefias dos serviços, dentro do ramo das forças armadas a que respeitam, são órgãos de consulta das entidades militares competentes, cabendo-lhes superintender em todos os assuntos relativos à assistência religiosa e, em especial:
+Art. 7.º - 1. As chefias dos serviços, dentro do ramo das forças armadas a que respeitam, são órgãos de consulta das entidades militares competentes, cabendo-lhes superintender em todos os assuntos relativos à assistência religiosa e, em especial:
 
 a) Elaborar normas relativas ao serviço;
 
@@ -220,7 +269,7 @@ i) Elaborar relatórios do serviço.
 
 2. Os órgãos regionais do serviço, onde os houver, terão a competência que lhes for oportunamente atribuída.
 
-###### Art. 8.º - 1. No cumprimento da obrigação do serviço militar que lhes incumbe, conforme as disposições legais vigentes, os sacerdotes são chamados ao serviço efectivo, em número suficiente para ocorrer às necessidades de cada um dos ramos das forças armadas.
+Art. 8.º - 1. No cumprimento da obrigação do serviço militar que lhes incumbe, conforme as disposições legais vigentes, os sacerdotes são chamados ao serviço efectivo, em número suficiente para ocorrer às necessidades de cada um dos ramos das forças armadas.
 
 2. Tendo em atenção o menor prejuízo possível para a cura de almas, conforme o preceituado no artigo XIV da Concordata, bem como, por outro lado, o grau de saúde e as qualidades que revelarem para o género de actividades a que se destinam, a escolha dos sacerdotes a chamar ao serviço efectivo será feita pelo Ordinário Castrense, por entendimento com os respectivos superiores eclesiásticos:
 
@@ -228,9 +277,9 @@ a) Como regra, entre os sacerdotes, com mais de 28 anos de idade e menos de 35, 
 
 b) Não havendo voluntários em número suficiente, entre os sacerdotes que perfizerem 30 anos de idade no ano civil em curso, principiando pelos mais novos e de acordo com as quotas periòdicamente fixadas para cada diocese, ordem ou congregação religiosa, na proporção do seu clero.
 
-###### Art. 9.º Os sacerdotes escolhidos para serviço efectivo são distribuídos por cada um dos ramos das forças armadas segundo planos a estabelecer pela Capelania-Mor e incorporados nos respectivos ramos com a graduação de aspirante a oficial.
+Art. 9.º Os sacerdotes escolhidos para serviço efectivo são distribuídos por cada um dos ramos das forças armadas segundo planos a estabelecer pela Capelania-Mor e incorporados nos respectivos ramos com a graduação de aspirante a oficial.
 
-###### Art. 10.º - 1. Após a incorporação, os sacerdotes frequentam um curso destinado a ministrar-lhes os necessários conhecimentos de natureza militar e pastoral. Este curso será regulamentado por portaria conjunta do Ministro da Defesa Nacional e dos Ministros e Secretário de Estado de cada um dos departamentos das forças armadas.
+Art. 10.º - 1. Após a incorporação, os sacerdotes frequentam um curso destinado a ministrar-lhes os necessários conhecimentos de natureza militar e pastoral. Este curso será regulamentado por portaria conjunta do Ministro da Defesa Nacional e dos Ministros e Secretário de Estado de cada um dos departamentos das forças armadas.
 
 2. Os sacerdotes que terminarem o curso com aproveitamento são considerados capelães militares e vão prestar serviço como eventuais no ramo das forças armadas a que pertencem.
 
@@ -240,7 +289,7 @@ b) Não havendo voluntários em número suficiente, entre os sacerdotes que perf
 
 5. As despesas de funcionamento do curso correrão por conta dos três ramos das forças armadas na proporção dos instruendos que lhes pertençam.
 
-###### Art. 11.º O ingresso dos capelães militares na categoria de titulares é feito no posto de tenente ou segundo-tenente por escolha e mediante vacatura, e reservado ùnicamente aos capelães militares eventuais que satisfaçam às seguintes condições:
+Art. 11.º O ingresso dos capelães militares na categoria de titulares é feito no posto de tenente ou segundo-tenente por escolha e mediante vacatura, e reservado ùnicamente aos capelães militares eventuais que satisfaçam às seguintes condições:
 
 a) Terem prestado serviço militar efectivo durante dois anos;
 
@@ -250,7 +299,7 @@ c) Terem revelado aptidões que os recomendem para o desempenho das funções de
 
 d) Possuírem capacidade física, devidamente comprovada.
 
-###### Art. 12.º - 1. Os capelães militares eventuais são graduados:
+Art. 12.º - 1. Os capelães militares eventuais são graduados:
 
 a) Em alferes ou subtenente terminado com aproveitamento o curso que se refere o artigo 10.º;
 
@@ -270,7 +319,7 @@ c) Em tenente-coronel ou capitão-de-fragata independentemente do tempo de servi
 
 5. A escolha para a graduação em major ou capitão-tenente e em capitão ou primeiro-tenente efectiva-se segundo normas a estabelecer em cada ramo das forças armadas.
 
-###### Art. 13.º - 1. Os limites máximos de tempo de serviço para os capelães militares titulares são os seguintes:
+Art. 13.º - 1. Os limites máximos de tempo de serviço para os capelães militares titulares são os seguintes:
 
 a) Tenente ou segundo-tenente - oito anos de serviço efectivo como oficial;
 
@@ -284,7 +333,7 @@ d) Tenente-coronel ou capitão-de-fragata - vinte anos de serviço efectivo como
 
 3. Os capelães militares eventuais podem, a título excepcional, ser autorizados a manter-se ao serviço para além do período de serviço militar obrigatório se obtiverem informação favorável dos respectivos superiores militares e eclesiásticos. O serviço prestado nestas condições será por períodos de um ano, renováveis até ao limite máximo do tempo de serviço estabelecido para os tenentes ou segundos-tenentes titulares.
 
-###### Art. 14.º - 1. Independentemente dos limites do tempo de serviço fixados no artigo 13.º, os capelães militares deixam de prestar serviço efectivo:
+Art. 14.º - 1. Independentemente dos limites do tempo de serviço fixados no artigo 13.º, os capelães militares deixam de prestar serviço efectivo:
 
 a) Por motivo de saúde comprovado por junta médica;
 
@@ -292,15 +341,15 @@ b) Por conveniência de serviço, quer militar, quer eclesiástica, sendo esta �
 
 2. A título excepcional, podem os capelães militares titulares, a seu pedido ou a pedido dos respectivos superiores eclesiásticos, devidamente informados pelo Ordinário Castrense, deixar de prestar serviço efectivo desde que tenham completado quatro anos de serviço.
 
-###### Art. 15.º - 1. As funções específicas dos capelães militares serão estabelecidas em regulamento próprio de cada serviço, respeitados os objectivos enunciados no artigo 1.º
+Art. 15.º - 1. As funções específicas dos capelães militares serão estabelecidas em regulamento próprio de cada serviço, respeitados os objectivos enunciados no artigo 1.º
 
 2. Os capelães militares só poderão aceitar encargos estranhos às suas actividades militares desde que aqueles estejam directamente relacionados com o serviço da Igreja, depois de autorizados pelo Ordinário Castrense, com o parecer favorável da autoridade militar competente.
 
-###### Art. 16.º Quando as circunstâncias o recomendem, a juízo da Capelania-Mor e mediante acordo entre os departamentos interessados, os capelães militares de determinado ramo das forças armadas prestarão assistência a núcleos militares que pertençam a outros ramos e que não disponham de capelão militar próprio.
+Art. 16.º Quando as circunstâncias o recomendem, a juízo da Capelania-Mor e mediante acordo entre os departamentos interessados, os capelães militares de determinado ramo das forças armadas prestarão assistência a núcleos militares que pertençam a outros ramos e que não disponham de capelão militar próprio.
 
-###### Art. 17.º As graduações, colocações e transferências dos capelães militares executam-se de acordo com as normas e regras em vigor em cada ramo das forças armadas para a administração do pessoal militar, ouvido o respectivo chefe do serviço, o qual, com vista a definir-se convenientemente a situação canónica dos mesmos capelães, se entenderá em devido tempo com a Capelania-Mor.
+Art. 17.º As graduações, colocações e transferências dos capelães militares executam-se de acordo com as normas e regras em vigor em cada ramo das forças armadas para a administração do pessoal militar, ouvido o respectivo chefe do serviço, o qual, com vista a definir-se convenientemente a situação canónica dos mesmos capelães, se entenderá em devido tempo com a Capelania-Mor.
 
-###### Art. 18.º - 1. Os vencimentos dos capelães militares nos três ramos das forças armadas são iguais aos dos oficiais do Exército da mesma patente ou equivalente da arma de infantaria.
+Art. 18.º - 1. Os vencimentos dos capelães militares nos três ramos das forças armadas são iguais aos dos oficiais do Exército da mesma patente ou equivalente da arma de infantaria.
 
 2. Os capelães militares, quando em serviço efectivo, têm direito às remunerações, gratificações e subsídios correspondentes à sua situação, patente e funções.
 
@@ -308,11 +357,11 @@ b) Por conveniência de serviço, quer militar, quer eclesiástica, sendo esta �
 
 4. Os capelães militares descontarão nos termos da lei geral para a aposentação, sendo no entanto restituídas à caixa de aposentação do clero as importâncias descontadas a seu pedido ou a pedido do respectivo serviço.
 
-###### Art. 19.º - 1. Ficam os Ministros do Exército, da Marinha e Secretário de Estado da Aeronáutica autorizados a contratar sacerdotes como capelães civis, quando se verifiquem as circunstâncias referidas no n.º 3 do artigo 2.º e dentro dos limites das verbas inscritas para esse fim.
+Art. 19.º - 1. Ficam os Ministros do Exército, da Marinha e Secretário de Estado da Aeronáutica autorizados a contratar sacerdotes como capelães civis, quando se verifiquem as circunstâncias referidas no n.º 3 do artigo 2.º e dentro dos limites das verbas inscritas para esse fim.
 
 2. Estes sacerdotes são nomeados com a prévia concordância do Ordinário Castrense ou sob sua proposta e recebem remunerações correspondentes aos serviços estabelecidos no respectivo contrato, as quais são fixadas por despacho conjunto do Ministro ou Secretário de Estado do departamento interessado e do Ministro das Finanças.
 
-###### Art. 20.º - 1. Em matéria disciplinar, os capelães militares dependem do comando, direcção ou chefia ao qual se encontram directamente subordinados.
+Art. 20.º - 1. Em matéria disciplinar, os capelães militares dependem do comando, direcção ou chefia ao qual se encontram directamente subordinados.
 
 2. Se, por inobservância dos seus deveres militares, os capelães militares deverem ser sujeitos a procedimento disciplinar, a forma do cumprimento das sanções que lhes forem aplicadas obedece a condições que tenham sido estabelecidas por entendimento entre a autoridade militar e o Ordinário Castrense.
 
@@ -320,7 +369,7 @@ b) Por conveniência de serviço, quer militar, quer eclesiástica, sendo esta �
 
 Disposições diversas e transitórias
 
-###### Art. 21.º - 1. Os capelães subalternos, exceptuando os primeiros-tenentes que, à data da publicação do presente diploma, não tenham ainda completado dois anos de serviço efectivo, são automàticamente considerados capelães militares eventuais qualquer que tenha sido o seu título de nomeação.
+Art. 21.º - 1. Os capelães subalternos, exceptuando os primeiros-tenentes que, à data da publicação do presente diploma, não tenham ainda completado dois anos de serviço efectivo, são automàticamente considerados capelães militares eventuais qualquer que tenha sido o seu título de nomeação.
 
 2. Os capelães subalternos, exceptuando os primeiros-tenentes que, à data da publicação do presente diploma, tenham dois ou mais anos de serviço efectivo, podem:
 
@@ -340,13 +389,13 @@ b) No posto de major ou capitão-tenente nos termos do n.º 2 do artigo 12.º e 
 
 5. Deixam de prestar serviço os capelães que não ingressarem na categoria dos titulares nas condições expressas nas alíneas a) e b) do n.º 2 e n.os 3 e 4 deste artigo, e bem assim os que não forem abrangidos pelo disposto na alínea c) do mesmo n.º 2.
 
-###### Art. 22.º Passarão à categoria de capelães civis os capelães do Exército nomeados por contrato que, após a publicação deste diploma, continuarem a desempenhar as funções de assistência religiosa expressas no n.º 3 do artigo 2.º
+Art. 22.º Passarão à categoria de capelães civis os capelães do Exército nomeados por contrato que, após a publicação deste diploma, continuarem a desempenhar as funções de assistência religiosa expressas no n.º 3 do artigo 2.º
 
-###### Art. 23.º - 1. Os encargos respeitantes aos capelães militares titulares mencionados nos quadros A-1, B-1, C-1 e D-1 anexos que resultem da aplicação do presente diploma são, no ano corrente, suportados em conta das disponibilidades existentes nas verbas destinadas ao pessoal dos quadros aprovados por lei para o departamento da defesa nacional e para cada um dos ramos das forças armadas.
+Art. 23.º - 1. Os encargos respeitantes aos capelães militares titulares mencionados nos quadros A-1, B-1, C-1 e D-1 anexos que resultem da aplicação do presente diploma são, no ano corrente, suportados em conta das disponibilidades existentes nas verbas destinadas ao pessoal dos quadros aprovados por lei para o departamento da defesa nacional e para cada um dos ramos das forças armadas.
 
 2. Os encargos respeitantes aos capelães militares titulares mencionados nos quadros B-2, C-2 e D-2 anexos que resultem da aplicação do presente diploma são suportados em conta dos orçamentos privativos das respectivas províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
 
@@ -354,18 +403,18 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 CAPELÃES TITULARES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf))](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
 
 EXÉRCITO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf))](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
 
 ARMADA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf))](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
 
 FORÇA AÉREA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf))](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/09/20900/14631468.pdf)
 
 Gabinete do Ministro da Defesa Nacional, 8 de Setembro de 1966. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.

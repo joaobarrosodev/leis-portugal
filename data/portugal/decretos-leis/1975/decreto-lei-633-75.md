@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26400/18061807.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1975-310387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeb57ca5e5b432ac5a300facd98da009a7cc2bba3774dacf743e4017f4699877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b8a026133d57f7c982009326cd4075290f39fbc8d584eb9a66e268aaafac814
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto Judiciário
+- Formas de Provimento
+- Magistrado Judicial
+- Procurador Geral Adjunto
+- Remuneração
+- Sistema Judicial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:476172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:30Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +113,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 130.º e 226.º do Estatuto Judiciário passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 130.º e 226.º do Estatuto Judiciário passam a ter a seguinte redacção:
 
-###### Art. 130.º - 1. Os cargos de corregedor, inspector judicial, sindicante ou inquiridor, membro dos júris de admissão para cargos judiciais e quaisquer outros em que igualmente devam ser providos magistrados judiciais não podem ser recusados pelos nomeados.
+Art. 130.º - 1. Os cargos de corregedor, inspector judicial, sindicante ou inquiridor, membro dos júris de admissão para cargos judiciais e quaisquer outros em que igualmente devam ser providos magistrados judiciais não podem ser recusados pelos nomeados.
 
 O disposto neste número não se aplica aos presidentes do Supremo Tribunal de Justiça e das Relações e ao vice-presidente do Conselho Superior Judiciário.
 
@@ -114,7 +129,7 @@ O cargo de corregedor só pode ser provido entre os juízes propostos pelo Conse
 
 ...
 
-###### Art. 226.º ...
+Art. 226.º ...
 
 1. ...
 
@@ -124,12 +139,12 @@ O cargo de corregedor só pode ser provido entre os juízes propostos pelo Conse
 
 4. Para efeitos de vencimentos os adjuntos do procurador da República são equiparados a juízes de direito de 2.ª classe, salvo quando sejam já juízes de direito de 1.ª classe.
 
-###### Art. 2.º O presente diploma entra em vigor na data da publicação.
+Art. 2.º O presente diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 4 de Novembro de 1975.**
+Promulgado em 4 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

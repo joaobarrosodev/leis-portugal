@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1976-506026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: daeed583cc7ddd822395e3ab6d829b49704fd316f865e5661b6bb5fa1f682b4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac9d4b94ea5781bf87883af2948949bf8dc587bcdcba70e2968f2e134b242109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crime Militar
+- Exoneração
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Sanção Militar
 relationships:
 - type: amended_by
   target: pt:dre:197148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197148:por
+  label: "Declarada a inconstitucionalidade das normas constantes dos arts. 1º e 2º pela RES.24/78.27.02.1978.CR, DR.IS [48-SUPL]\
+    \ de 27.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/24-1978-197148
+  date: '1978-02-27'
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:44Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Considerando que o plano sedicioso pôs gravemente em causa a paz e o bem-estar 
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São expulsos das fileiras das forças armadas os implicados no golpe contra-revolucionário de 25 de Novembro que se furtaram ou venham a furtar às suas responsabilidades por se terem ausentado dos seus locais de serviço ou que deixem de se apresentar quando para tal sejam convocados.
+Artigo 1.º São expulsos das fileiras das forças armadas os implicados no golpe contra-revolucionário de 25 de Novembro que se furtaram ou venham a furtar às suas responsabilidades por se terem ausentado dos seus locais de serviço ou que deixem de se apresentar quando para tal sejam convocados.
 
-###### Art. 2.º A expulsão a que se refere o artigo anterior tem como consequências:
+Art. 2.º A expulsão a que se refere o artigo anterior tem como consequências:
 
 a) A suspensão do exercício dos direitos políticos pelo tempo de vinte anos;
 
@@ -106,14 +122,14 @@ b) A perda de direito de usar medalhas militares, condecorações e de haver rec
 
 c) A inabilidade para o serviço militar.
 
-###### Art. 3.º Compete ao Conselho da Revolução decidir da aplicação do disposto neste diploma.
+Art. 3.º Compete ao Conselho da Revolução decidir da aplicação do disposto neste diploma.
 
-###### Art. 4.º O disposto no presente diploma entra imediatamente em vigor e não prejudica o ulterior apuramento da responsabilidade civil e criminal.
+Art. 4.º O disposto no presente diploma entra imediatamente em vigor e não prejudica o ulterior apuramento da responsabilidade civil e criminal.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Janeiro de 1976.**
+Promulgado em 12 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

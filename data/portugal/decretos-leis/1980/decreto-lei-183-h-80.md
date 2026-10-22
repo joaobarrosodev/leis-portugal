@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/1980, 2º Suplemento, Série I de 1980-06-09
   number: '132'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1364-(61) a 1364-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00610061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-h-1980-324953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0f468cc9f7ae8eaa60f5d4523dee429622bca8675d0349e0e5684e40d651ada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 919dd8e28d503cf672be81e6ba16c65fa587e3ccf06c1ab07d8dc694441f9bc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterados o n.º 22.º do art. 11.º, o art. 16.º e o art. 33.º do Código da Sisa e do Imposto sobre as Sucessões e
+    Doações, aprovado pelo Dec Lei 41969 de 24-Nov de1958 , com a redacção da pelo presente diploma, pelo(a) Decreto-Lei n.º
+    91/89 - Diário da República n.º 71/1989, Série I de 1989-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: cites
+  target: pt:dre:172901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472371:por
+  label: Rectificado pela DECL.DD6977.17.07.1980.PCM, DR.IS [163] de 17.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472371
+  date: '1980-07-17'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:25Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +120,9 @@ de 9 de Junho
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pelo artigo 20.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o seguinte:
 
-###### Artigo 1.º O n.º 21.º do artigo 11.º e os artigos 15.º-B, 16.º, 16.º-A, 33.º e 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+Artigo 1.º O n.º 21.º do artigo 11.º e os artigos 15.º-B, 16.º, 16.º-A, 33.º e 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
@@ -100,30 +130,30 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 15.º-B. A isenção ou a redução da sisa previstas, respectivamente, no artigo 11.º, n.º 21.º, e no artigo 39.º-A só se efectivarão se as aquisições forem previamente participadas à repartição de finanças do concelho em que estiver situada a habitação a adquirir, mediante declaração em que conste ter o declarante aproveitado ou não anteriormente de idênticos benefícios, juntando-se-lhe, no caso afirmativo, documento comprovativo do pagamento da sisa que for devida por força do disposto no artigo 16.º-A.
+Art. 15.º-B. A isenção ou a redução da sisa previstas, respectivamente, no artigo 11.º, n.º 21.º, e no artigo 39.º-A só se efectivarão se as aquisições forem previamente participadas à repartição de finanças do concelho em que estiver situada a habitação a adquirir, mediante declaração em que conste ter o declarante aproveitado ou não anteriormente de idênticos benefícios, juntando-se-lhe, no caso afirmativo, documento comprovativo do pagamento da sisa que for devida por força do disposto no artigo 16.º-A.
 
 § único. ...
 
-###### Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º, 9.º, 12.º, alínea a), 21.º, 25.º, 26.º e 30.º do artigo 11.º e 7.º do artigo 12.º deixarão de beneficiar da isenção logo que se verifique, respectivamente:
+Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º, 9.º, 12.º, alínea a), 21.º, 25.º, 26.º e 30.º do artigo 11.º e 7.º do artigo 12.º deixarão de beneficiar da isenção logo que se verifique, respectivamente:
 
 ...
 
-###### Art. 16.º-A. As transmissões de que trata o artigo 11.º, n.º 21, e o artigo 39.º-A deixarão de beneficiar da isenção ou redução da sisa logo que se verifique qualquer dos seguintes factos:
+Art. 16.º-A. As transmissões de que trata o artigo 11.º, n.º 21, e o artigo 39.º-A deixarão de beneficiar da isenção ou redução da sisa logo que se verifique qualquer dos seguintes factos:
 
 ...
 
-###### Art. 33.º Sem prejuízo do disposto nos artigos 34.º e 39.º-A, a taxa da sisa é de 10% nas transmissões de prédios urbanos ou terrenos para construção e de 8% nos restantes casos.
+Art. 33.º Sem prejuízo do disposto nos artigos 34.º e 39.º-A, a taxa da sisa é de 10% nas transmissões de prédios urbanos ou terrenos para construção e de 8% nos restantes casos.
 
-###### Art. 39.º-A. Será aplicada a taxa de 4% na aquisição de habitação para residência permanente do adquirente, desde que o valor sobre que incide a sisa exceda 2000000$00, mas não ultrapasse 2600000$00.
+Art. 39.º-A. Será aplicada a taxa de 4% na aquisição de habitação para residência permanente do adquirente, desde que o valor sobre que incide a sisa exceda 2000000$00, mas não ultrapasse 2600000$00.
 
-###### Art. 2.º São revogados a alínea c) do n.º 12 do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, o [Decreto-Lei n.º 643/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/643-1976-430983), de 30 de Julho, e os artigos 2.º e 3.º do [Decreto-Lei n.º 43763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43763-1961-172901), de 30 de Junho de 1961.
+Art. 2.º São revogados a alínea c) do n.º 12 do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, o [Decreto-Lei n.º 643/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/643-1976-430983), de 30 de Julho, e os artigos 2.º e 3.º do [Decreto-Lei n.º 43763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43763-1961-172901), de 30 de Junho de 1961.
 
-###### Art. 3.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Junho de 1980.**
+Promulgado em 2 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

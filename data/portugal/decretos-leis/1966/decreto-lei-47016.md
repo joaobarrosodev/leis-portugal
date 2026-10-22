@@ -49,36 +49,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47016-1966-473517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff17334d219e83b85f88c871c5dd6e5c4548d96ff078ec967c0a7e6c5ee16ffe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b51ac666267cdf288bc9f37875286468ace216d9a862616cd6901b21bcd54d96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orgânica
+- Reforma Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469635:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472302:por
+  label: "Rectificado o art. 4º pela RECT.DD715.22.06.1966.PC, DG.IS [143] de 22.06.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1966-472302
+  date: '1966-06-22'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:06Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +118,9 @@ Tendo em vista o artigo 3.º do [Decreto-Lei n.º 46311](https://diariodarepubli
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 30.º, 52.º, 92.º, 96.º, 116.º, 140.º, 142.º, 180.º, 184.º, 235.º, 269.º, 293.º, 408.º, 410.º e 457.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 30.º, 52.º, 92.º, 96.º, 116.º, 140.º, 142.º, 180.º, 184.º, 235.º, 269.º, 293.º, 408.º, 410.º e 457.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 ...
 
@@ -117,7 +136,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 52.º ...
+Art. 52.º ...
 
 ...
 
@@ -125,7 +144,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 92.º ...
+Art. 92.º ...
 
 ...
 
@@ -133,7 +152,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 96.º Todos os despachos, incluindo os despachos por declaração processados nas casas de despacho junto das encomendas postais, de cujas inexactas declarações, erros ou omissões possa resultar para o Estado ou para quaisquer organismos um prejuízo não superior a 20$00 seguirão sem qualquer procedimento, não se fazendo nas fórmulas quaisquer correcções.
+Art. 96.º Todos os despachos, incluindo os despachos por declaração processados nas casas de despacho junto das encomendas postais, de cujas inexactas declarações, erros ou omissões possa resultar para o Estado ou para quaisquer organismos um prejuízo não superior a 20$00 seguirão sem qualquer procedimento, não se fazendo nas fórmulas quaisquer correcções.
 
 § 1.º Se o prejuízo encontrado for de mais de 20$00 e até 200$00 ou, sendo superior a esta quantia, não exceder 10 por cento da totalidade das imposições constantes da declaração, quando este limite não ultrapassar 1000$00, os despachos seguirão também sem qualquer procedimento, fazendo-se, porém, nas fórmulas as necessárias correcções.
 
@@ -141,13 +160,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 116.º ...
+Art. 116.º ...
 
 § único. Os depósitos de mercadorias pertencentes às administrações portuárias, com excepção dos depósitos gerais francos, ficam sujeitos a fiscalização idêntica à dos depósitos reais.
 
 ...
 
-###### Art. 140.º ...
+Art. 140.º ...
 
 ...
 
@@ -155,19 +174,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 142.º ...
+Art. 142.º ...
 
 § único. Os depósitos mencionados nos n.os 3.º e 4.º do § 1.º do aludido artigo regular-se-ão nos termos da respectiva legislação especial.
 
 ...
 
-###### Art. 180.º ...
+Art. 180.º ...
 
 § único. Sem embargo do disposto no corpo deste artigo, por cada volume de encomenda postal não isenta de direitos ou de outros impostos cuja liquidação ou cobrança seja da competência das alfândegas, cobrar-se-á o emolumento extraordinário de 2$00, do qual 50 por cento constitui receita do Estado.
 
 ...
 
-###### Art. 184.º Em cada auditoria fiscal existirá uma secretaria incumbida:
+Art. 184.º Em cada auditoria fiscal existirá uma secretaria incumbida:
 
 1.º De dar expediente a todos os processos e assuntos que forem afectos à respectiva auditoria;
 
@@ -177,13 +196,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 235.º ...
+Art. 235.º ...
 
 § 1.º Os, júris dos concursos a que se referem os artigos 232.º e 233.º serão constituídos pelo director-geral das Alfândegas, que servirá de presidente, pelo director do laboratório e pelo director de outro laboratório oficial, indicado em cada caso pelo Ministro das Finanças.
 
 ...
 
-###### Art. 269.º ...
+Art. 269.º ...
 
 ...
 
@@ -191,11 +210,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 293.º O presidente do Tribunal Técnico de 2.ª Instância será o director-geral das Alfândegas, sendo vogais os juízes aludidos no artigo 291.º, o director do Gabinete de Estudos, o inspector-geral dos Produtos Agrícolas e Industriais, um professor da Universidade Técnica de Lisboa, indicado pelo Ministro da Educação Nacional e nomeado pelo Ministro das Finanças, e um representante das actividades económicas, diverso do referido no artigo anterior e designado nos termos prescritos no mesmo artigo.
+Art. 293.º O presidente do Tribunal Técnico de 2.ª Instância será o director-geral das Alfândegas, sendo vogais os juízes aludidos no artigo 291.º, o director do Gabinete de Estudos, o inspector-geral dos Produtos Agrícolas e Industriais, um professor da Universidade Técnica de Lisboa, indicado pelo Ministro da Educação Nacional e nomeado pelo Ministro das Finanças, e um representante das actividades económicas, diverso do referido no artigo anterior e designado nos termos prescritos no mesmo artigo.
 
 ...
 
-###### Art. 408.º ...
+Art. 408.º ...
 
 ...
 
@@ -205,7 +224,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 410.º ...
+Art. 410.º ...
 
 ...
 
@@ -213,11 +232,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 457.º ...
+Art. 457.º ...
 
 § único. Os livros a que este artigo se refere, bem como a documentação que com eles se relacione, designadamente as cópias das contas, serão presentes aos directores das alfândegas e a quaisquer funcionários em serviço de inspecção, sempre que eles o exijam.
 
-###### Art. 2.º Os artigos 4.º da tabela I e 19.º da tabela II anexas à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 4.º da tabela I e 19.º da tabela II anexas à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º
 
@@ -235,12 +254,12 @@ I) Pelos bilhetes de despacho a que se referem os artigos 10.º e 11.º da prese
 
 ...
 
-###### Art. 3.º Aos juízes de direito que se encontrem desempenhando, em comissão, o lugar de auditor fiscal, em Lisboa e Porto, é aplicável o disposto no artigo 32.º do [Decreto-Lei n.º 37047](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37047-1948-373809), de 7 de Setembro de 1948.
+Art. 3.º Aos juízes de direito que se encontrem desempenhando, em comissão, o lugar de auditor fiscal, em Lisboa e Porto, é aplicável o disposto no artigo 32.º do [Decreto-Lei n.º 37047](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37047-1948-373809), de 7 de Setembro de 1948.
 
-###### Art. 4.º As alterações constantes do artigo anterior e do artigo 30.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, com a redacção que lhe é dada pelo artigo 1.º deste diploma, são introduzidas no mapa XII anexo à aludida Reforma Aduaneira.
+Art. 4.º As alterações constantes do artigo anterior e do artigo 30.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, com a redacção que lhe é dada pelo artigo 1.º deste diploma, são introduzidas no mapa XII anexo à aludida Reforma Aduaneira.
 
-###### Art. 5.º É fixado em 45,5 por cento o abatimento estabelecido no § 1.º do artigo 1.º do [Decreto-Lei n.º 45555](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45555-1964-469635), de 8 de Fevereiro de 1964.
+Art. 5.º É fixado em 45,5 por cento o abatimento estabelecido no § 1.º do artigo 1.º do [Decreto-Lei n.º 45555](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45555-1964-469635), de 8 de Fevereiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

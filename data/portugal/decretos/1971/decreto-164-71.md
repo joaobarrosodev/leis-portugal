@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/04/09700/05670572.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/164-1971-444732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c5bc38a1a4c54c710621dd90b27946e207bf6f6bf7a238b3459d7282706a447
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b36ab2b6724bbae7facb6778ab32c7215fa5c0ff319a0dcc65d711d426f0dc2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Circulação de Mercadorias
+- Contrato de Financiamento
+- Crédito à Exportação
+- Empresa
+- Exportação
+- Financiamento
+- Instituição de Crédito
+- Ministro das Finanças
+- Ministro do Ultramar
+- Pessoa Coletiva
+- Pessoa Singular
+- Seguro de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:502205:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502205:por
+  label: "Revogado pelo DEC LEI.289/76.22.04.1976.MF, DR.IS [95] de 22.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1976-502205
+  date: '1976-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:04Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +167,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. As operações de crédito às transacções entre as diversas parcelas do território nacional têm por objecto facultar às empresas agrícolas, industriais ou comerciais os recursos necessários a financiar as trocas interterritoriais de bens ou serviços.
+Artigo 1.º - 1. As operações de crédito às transacções entre as diversas parcelas do território nacional têm por objecto facultar às empresas agrícolas, industriais ou comerciais os recursos necessários a financiar as trocas interterritoriais de bens ou serviços.
 
 2. Apenas as pessoas, singulares ou colectivas, que tenham, respectivamente, o seu domicílio profissional ou a sua sede em território nacional, poderão nas transacções de bens ou serviços entre as diversas parcelas do território nacional, prevalecer-se dos benefícios estabelecidos no presente diploma para as referidas operações de crédito bancário.
 
@@ -109,7 +175,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Os Ministros das Finanças e do Ultramar, nas transacções entre o continente ou ilhas adjacentes e as províncias ultramarinas, ou só o Ministro do Ultramar, nas transacções entre as províncias ultramarinas, poderão autorizar, de modo geral mediante portaria, ou caso a caso, através de despacho, a concessão, nos termos do presente diploma, de crédito às transacções de bens que não estejam nas condições estabelecidas no número anterior.
 
-###### Art. 2.º - 1. Os créditos às transacções interterritoriais poderão ser outorgados a curto, médio ou longo prazos.
+Art. 2.º - 1. Os créditos às transacções interterritoriais poderão ser outorgados a curto, médio ou longo prazos.
 
 2. O prazo das operações conta-se a partir da data em que os recursos são, no todo ou em parte, colocados à disposição do beneficiário do crédito.
 
@@ -117,23 +183,23 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Depende de prévia autorização do Ministro das Finanças, no continente e ilhas adjacentes, e do Ministro do Ultramar nas províncias ultramarinas a realização de quaisquer operações de crédito por prazo superior a dez anos, bem como a prorrogação para além desse limite, do prazo de operações já contratadas.
 
-###### Art. 3.º - 1. Não poderão ser objecto de crédito às transacções interterritoriais a médio ou longo prazo os bens cuja exclusão conste de lista aprovada pelo Conselho de Ministros para os Assuntos Económicos e publicada no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas.
+Art. 3.º - 1. Não poderão ser objecto de crédito às transacções interterritoriais a médio ou longo prazo os bens cuja exclusão conste de lista aprovada pelo Conselho de Ministros para os Assuntos Económicos e publicada no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas.
 
 2. Sendo de reconhecido interesse nacional a realização de quaisquer transacções de bens abrangidos na lista referida no número anterior poderá, para cada uma dessas operações, ser autorizada a concessão de créditos às transacções interterritoriais, por despacho conjunto dos Ministros das Finanças, da Economia e do Ultramar, para as transacções entre o continente ou ilhas adjacentes e as províncias ultramarinas, ou só do Ministro do Ultramar, para as transacções entre as províncias ultramarinas.
 
-###### Art. 4.º - 1. Para a concessão de créditos às transacções interterritoriais deve o beneficiário apresentar prova de que os bens ou serviços em causa podem ser objecto dos referidos créditos, nos termos da legislação aplicável.
+Art. 4.º - 1. Para a concessão de créditos às transacções interterritoriais deve o beneficiário apresentar prova de que os bens ou serviços em causa podem ser objecto dos referidos créditos, nos termos da legislação aplicável.
 
 2. Não sendo possível obter o certificado de origem nacional quando da realização da operação de crédito ou da solicitação do aval a conceder pelas entidades competentes, nos termos do artigo 8.º, o beneficiário deverá apresentar justificação dessa impossibilidade e uma declaração de compromisso sobre a origem nacional dos produtos a transaccionar, do qual deverão constar todos os elementos já disponíveis, tendo em atenção a oportuna emissão do certificado de origem.
 
 #### SECÇÃO II — Dos créditos de pré-financiamento
 
-###### Art. 5.º - 1. Os créditos de pré-financiamento corrente têm por objecto facultar às empresas produtoras ou exportadoras de bens ou serviços destinados às transacções interterritoriais recurso que lhes permitam cobrir as suas necessidades de capital circulante, correspondentes aos custos directos de produção ou aos valores de aquisição dos bens ou serviços a transaccionar.
+Art. 5.º - 1. Os créditos de pré-financiamento corrente têm por objecto facultar às empresas produtoras ou exportadoras de bens ou serviços destinados às transacções interterritoriais recurso que lhes permitam cobrir as suas necessidades de capital circulante, correspondentes aos custos directos de produção ou aos valores de aquisição dos bens ou serviços a transaccionar.
 
 2. Os créditos de pré-financiamento corrente não poderão, em caso algum, abranger as necessidades de capital circulante da empresa que resultem do diferimento da liquidação dos bens ou serviços transaccionados.
 
 3. Os créditos de pré-financiamento corrente não poderão efectuar-se por prazo superior a um ano.
 
-###### Art. 6.º - 1. Os créditos de pré-financiamento especial têm por objecto facultar às empresas referidas no n.º 1 do artigo anterior recursos necessários à execução de encomendas firmes de bens ou serviços destinados às transacções interterritoriais, e correspondentes aos custos directos de produção ou aos valores de aquisição desses bens ou serviços.
+Art. 6.º - 1. Os créditos de pré-financiamento especial têm por objecto facultar às empresas referidas no n.º 1 do artigo anterior recursos necessários à execução de encomendas firmes de bens ou serviços destinados às transacções interterritoriais, e correspondentes aos custos directos de produção ou aos valores de aquisição desses bens ou serviços.
 
 2. O montante dos créditos de pré-financiamento especial não poderá exceder os custos directos correspondentes à execução da encomenda, nem 90 por cento do valor desta última.
 
@@ -143,7 +209,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 5. Concedidos os créditos de pré-financiamento especial, não poderão os seus beneficiários, sem prévio consentimento da instituição que outorgou esses créditos, introduzir quaisquer alterações nos contratos firmados, nomeadamente no que respeita às garantias e às formas e datas de pagamento do valor das transacções, mas sempre sem prejuízo do estatuído no artigo 2.º
 
-###### Art. 7.º - 1. Os créditos de pré-financiamento a curto prazo realizar-se-ão:
+Art. 7.º - 1. Os créditos de pré-financiamento a curto prazo realizar-se-ão:
 
 a) Por desconto de títulos de crédito renováveis durante todo o período da operação, de acordo com as necessidades da empresa beneficiária, mas sem prejuízo dos prazos referidos nos n.os 3 dos artigos 5.º e 6.º;
 
@@ -151,13 +217,13 @@ b) Por empréstimo, designadamente sob a forma de abertura de crédito em conta 
 
 2. Os créditos de pré-financiamento a médio prazo realizar-se-ão pelas formas indicadas na alínea b) do número anterior.
 
-###### Art. 8.º - 1. Para o efeito de facilitar a concessão, pelas instituições de crédito, de operações de pré-financiamento, o Fundo de Fomento de Exportação, na metrópole, e os Fundos de Comercialização, nas províncias ultramarinas, poderão outorgar o seu aval a estas operações, solicitando, para tanto, se o entenderem conveniente, o parecer prévio de quaisquer serviços ou entidades.
+Art. 8.º - 1. Para o efeito de facilitar a concessão, pelas instituições de crédito, de operações de pré-financiamento, o Fundo de Fomento de Exportação, na metrópole, e os Fundos de Comercialização, nas províncias ultramarinas, poderão outorgar o seu aval a estas operações, solicitando, para tanto, se o entenderem conveniente, o parecer prévio de quaisquer serviços ou entidades.
 
 2. Os termos e condições em que os órgãos referidos no n.º 1 poderão conceder os seus avales a operações de crédito de pré-financiamento e, bem assim, os limites das responsabilidades de tais órgãos por esses avales e o valor das comissões a pagar pelos beneficiários, serão fixados em despacho conjunto dos Ministros das Finanças, da Economia e do Ultramar, para as transacções entre a metrópole e as províncias ultramarinas, e em despacho do Ministro do Ultramar para as transacções entre as diversas províncias ultramarinas.
 
 #### SECÇÃO III — Dos créditos de financiamento
 
-###### Art. 9.º - 1. Os créditos de financiamento às transacções interterritoriais têm por objecto facultar aos seus beneficiários recursos correspondentes aos seus créditos sobre os importadores, resultantes do diferimento do pagamento dos bens ou serviços transaccionados.
+Art. 9.º - 1. Os créditos de financiamento às transacções interterritoriais têm por objecto facultar aos seus beneficiários recursos correspondentes aos seus créditos sobre os importadores, resultantes do diferimento do pagamento dos bens ou serviços transaccionados.
 
 2. O montante dos créditos de financiamento não poderá exceder:
 
@@ -171,7 +237,7 @@ b) Se o crédito for a médio ou longo prazos, 85 por cento do débito do import
 
 5. Concedidos os créditos de financiamento, não poderão os seus beneficiários, sem prévio consentimento da instituição que outorgou esses créditos, introduzir quaisquer alterações nos contratos firmados, nomeadamente no que respeita às garantias e às formas e datas de pagamento do valor das transacções, mas sempre sem prejuízo do estatuído no artigo 2.º
 
-###### Art. 10.º - 1. Para efeitos da realização de operações de crédito de financiamento às transacções interterritoriais serão emitidos, pelo Banco de Portugal e pelas inspecções provinciais de crédito e seguros ou do comércio bancário, a pedido dos beneficiários daquelas operações, e dentro dos prazos de validade dos correspondentes boletins de registo prévio, títulos denominados «certificados para créditos às transacções interterritoriais».
+Art. 10.º - 1. Para efeitos da realização de operações de crédito de financiamento às transacções interterritoriais serão emitidos, pelo Banco de Portugal e pelas inspecções provinciais de crédito e seguros ou do comércio bancário, a pedido dos beneficiários daquelas operações, e dentro dos prazos de validade dos correspondentes boletins de registo prévio, títulos denominados «certificados para créditos às transacções interterritoriais».
 
 2. A emissão destes certificados não dispensará a dos boletins de autorização de operações de capitais privados, quando estes forem exigíveis por virtude do determinado no [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988).
 
@@ -179,7 +245,7 @@ b) Se o crédito for a médio ou longo prazos, 85 por cento do débito do import
 
 4. A pedido dos interessados e tendo em vista, nomeadamente a solicitação às instituições de crédito de garantias antecipadas de concessão de créditos às transacções interterritoriais, podem as autoridades competentes tomar o compromisso de virem a emitir, em determinadas condições, quaisquer dos documentos referidos nos números anteriores.
 
-###### Art. 11.º - 1. Os «certificados para créditos às transacções interterritoriais» serão preenchidos sempre em original e duas cópias, destinando-se o original e a primeira cópia ao requerente e a segunda cópia ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário.
+Art. 11.º - 1. Os «certificados para créditos às transacções interterritoriais» serão preenchidos sempre em original e duas cópias, destinando-se o original e a primeira cópia ao requerente e a segunda cópia ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário.
 
 2. Os modelos dos certificados para créditos às transacções interterritoriais serão estabelecidos pelo Banco de Portugal, no continente e ilhas adjacentes, e pelas inspecções provinciais de crédito e seguros ou do comércio bancário, nas províncias ultramarinas.
 
@@ -187,7 +253,7 @@ b) Se o crédito for a médio ou longo prazos, 85 por cento do débito do import
 
 4. Pela emissão dos certificados não serão devidos quaisquer impostos, taxas ou emolumentos.
 
-###### Art. 12.º - 1. No caso de, após a emissão de certificados para créditos às transacções interterritoriais e até ao momento de se realizarem, com base nesses certificados, as operações de crédito bancário previstas no presente diploma, os correspondentes importadores procederem a quaisquer pagamentos, as instituições de crédito que efectuarem a respectiva liquidação deverão apor as pertinentes indicações no original e primeira cópia dos certificados que, para o efeito, lhes serão presentes pelos interessados, comunicando o facto ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário das respectivas províncias ultramarinas, o mais tardar no primeiro dia útil seguinte ao da aludida liquidação, independentemente do processo que haverá a seguir, nos termos da legislação vigente, quanto às operações de capitais correspondentes a essas amortizações efectuadas pelos importadores.
+Art. 12.º - 1. No caso de, após a emissão de certificados para créditos às transacções interterritoriais e até ao momento de se realizarem, com base nesses certificados, as operações de crédito bancário previstas no presente diploma, os correspondentes importadores procederem a quaisquer pagamentos, as instituições de crédito que efectuarem a respectiva liquidação deverão apor as pertinentes indicações no original e primeira cópia dos certificados que, para o efeito, lhes serão presentes pelos interessados, comunicando o facto ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário das respectivas províncias ultramarinas, o mais tardar no primeiro dia útil seguinte ao da aludida liquidação, independentemente do processo que haverá a seguir, nos termos da legislação vigente, quanto às operações de capitais correspondentes a essas amortizações efectuadas pelos importadores.
 
 2. Quando, por virtude dos pagamentos a que se refere o número anterior, se observe a regularização integral dos montantes inscritos nos certificados, as instituições de crédito deverão devolver ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário, no prazo e com as indicações referidas também nesse número, os exemplares dos certificados recebidos dos interessados.
 
@@ -195,7 +261,7 @@ b) Se o crédito for a médio ou longo prazos, 85 por cento do débito do import
 
 4. Quando, por qualquer circunstância, e no período a que alude o n.º 1 do presente artigo, se modificarem as condições que informaram a venda a prazo dos bens ou serviços constantes dos respectivo certificados, seguir-se-á procedimento análogo ao indicado no número precedente.
 
-###### Art. 13.º - 1. Os interessados entregarão às instituições de crédito a que solicitarem créditos às transacções interterritoriais, na modalidade de financiamento, os exemplares dos certificados em seu poder, bem como as letras, livranças ou títulos equivalentes eventualmente aceites ou emitidos, entretanto, pelos importadores.
+Art. 13.º - 1. Os interessados entregarão às instituições de crédito a que solicitarem créditos às transacções interterritoriais, na modalidade de financiamento, os exemplares dos certificados em seu poder, bem como as letras, livranças ou títulos equivalentes eventualmente aceites ou emitidos, entretanto, pelos importadores.
 
 2. Outorgados os créditos, as respectivas instituições remeterão ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário, até ao primeiro dia útil seguinte ao da realização das operações, os exemplares dos certificados recebidos, inscrevendo neles as datas de concessão e as importâncias dos ditos créditos.
 
@@ -203,7 +269,7 @@ b) Se o crédito for a médio ou longo prazos, 85 por cento do débito do import
 
 4. Quando, depois da concessão de créditos às transacções interterritoriais, se verifiquem as circunstâncias mencionadas nos n.os 3 e 4 do artigo anterior, os beneficiários são obrigados a comunicar esses factos nos oito dias úteis seguintes ao do seu conhecimento, directamente às instituições de crédito a que houverem recorrido, as quais, por seu turno, seguirão procedimento semelhante ao indicado nesses números para os interessados.
 
-###### Art. 14.º - 1. Os créditos às transacções interterritoriais riais sob a forma de financiamento poderão assumir qualquer das modalidades seguintes:
+Art. 14.º - 1. Os créditos às transacções interterritoriais riais sob a forma de financiamento poderão assumir qualquer das modalidades seguintes:
 
 a) Descontos de letras, livranças ou títulos de crédito semelhantes, aceites ou emitidos pelos importadores;
 
@@ -215,9 +281,9 @@ b) Empréstimos, designadamente por aberturas de crédito em conta corrente, cau
 
 4. Quando a operação se realizar por desconto, este não poderá exceder, para cada um dos títulos descontados, o limite estabelecido na alínea a) do n.º 2 do artigo 9.º
 
-###### Art. 15.º Quando, nos contratos relativos a operações de crédito às transacções interterritoriais, se tenha previsto a faculdade de os beneficiários procederem à amortização ou reembolso desses créditos, independentemente das amortizações ou reembolsos dos respectivos créditos pelos importadores das mercadorias, e os beneficiários utilizem essa faculdade ou as instituições de crédito venham a acordar com eles na realização de tais amortizações ou reembolsos, as referidas instituições comunicarão ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário as importâncias assim recebidas e os números dos certificados a que respeitem, o mais tardar no primeiro dia útil seguinte ao das liquidações em causa.
+Art. 15.º Quando, nos contratos relativos a operações de crédito às transacções interterritoriais, se tenha previsto a faculdade de os beneficiários procederem à amortização ou reembolso desses créditos, independentemente das amortizações ou reembolsos dos respectivos créditos pelos importadores das mercadorias, e os beneficiários utilizem essa faculdade ou as instituições de crédito venham a acordar com eles na realização de tais amortizações ou reembolsos, as referidas instituições comunicarão ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário as importâncias assim recebidas e os números dos certificados a que respeitem, o mais tardar no primeiro dia útil seguinte ao das liquidações em causa.
 
-###### Art. 16.º - 1. Para a liquidação das amortizações ou reembolsos, ordenados pelos importadores, das operações de crédito decorrentes da transacção a prazo das mercadorias de origem nacional entre territórios nacionais e quando as mesmas operações tenham originado a efectiva outorga de créditos às transacções interterritoriais, proceder-se-á como segue:
+Art. 16.º - 1. Para a liquidação das amortizações ou reembolsos, ordenados pelos importadores, das operações de crédito decorrentes da transacção a prazo das mercadorias de origem nacional entre territórios nacionais e quando as mesmas operações tenham originado a efectiva outorga de créditos às transacções interterritoriais, proceder-se-á como segue:
 
 a) Os beneficiários deverão obter oportunamente boletins de autorização de importação de capitais privados entre territórios nacionais, nos termos do [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988);
 
@@ -229,15 +295,15 @@ d) Por seu turno, as instituições de crédito mencionadas na alínea b), ao re
 
 2. Se, por qualquer circunstância, os interessados não houverem beneficiado de créditos às transacções interterritoriais, e quando houver lugar às amortizações ou reembolsos referidos no presente artigo, será aplicável o disposto no n.º 1 ou no n.º 2 do artigo 12.º
 
-###### Art. 17.º O Banco de Portugal e as inspecções provinciais de crédito e seguros ou do comércio bancário poderão solicitar dos bancos comerciais ou dos exportadores, relativamente às operações de crédito não efectuadas ao abrigo do regime estabelecido no presente diploma, e às respectivas amortizações ou reembolsos, elementos de informação complementares dos constantes dos boletins de autorização de importação de capitais privados emitidos com referência às operações de crédito interterritorial, correlativas daquelas operações de crédito bancário.
+Art. 17.º O Banco de Portugal e as inspecções provinciais de crédito e seguros ou do comércio bancário poderão solicitar dos bancos comerciais ou dos exportadores, relativamente às operações de crédito não efectuadas ao abrigo do regime estabelecido no presente diploma, e às respectivas amortizações ou reembolsos, elementos de informação complementares dos constantes dos boletins de autorização de importação de capitais privados emitidos com referência às operações de crédito interterritorial, correlativas daquelas operações de crédito bancário.
 
 ### CAPÍTULO II — Das instituições de crédito
 
-###### Art. 18.º - 1. As operações de crédito às transacções interterritoriais a curto prazo e nos termos previstos no presente diploma serão exclusivamente realizadas pelas instituições de crédito referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Art. 18.º - 1. As operações de crédito às transacções interterritoriais a curto prazo e nos termos previstos no presente diploma serão exclusivamente realizadas pelas instituições de crédito referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 2. Os bancos comerciais poderão incluir os valores resultantes das operações de crédito a curto prazo que efectuarem, ao abrigo do estabelecido no presente diploma, nas garantias das suas responsabilidades à vista em moeda nacional, em conformidade com as disposições legais aplicáveis.
 
-###### Art. 19.º - 1. A concessão de créditos às transacções interterritoriais a médio e longo prazos será realizada pelos institutos de crédito do Estado, pelos bancos de investimento e pelos bancos comerciais.
+Art. 19.º - 1. A concessão de créditos às transacções interterritoriais a médio e longo prazos será realizada pelos institutos de crédito do Estado, pelos bancos de investimento e pelos bancos comerciais.
 
 2. Nas províncias ultramarinas, as operações de crédito às transacções interterritoriais a médio e longo prazos poderão também ser outorgadas pelos departamentos financeiros, constituídos pelos bancos comerciais nos termos do artigo 66.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
@@ -247,17 +313,17 @@ a) As operações de crédito a longo prazo, pela aplicação da parte disponív
 
 b) As operações de crédito a médio prazo, pela aplicação da parte disponível dos seus capitais, pela dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos superiores a noventa dias, e de acordo com as regras legais sobre cobertura desses depósitos, e ainda pelo produto da emissão de títulos de obrigação que lhes for autorizada.
 
-###### Art. 20.º - 1. Os Ministros das Finanças ou do Ultramar, ouvidos, consoante o caso, o Banco de Portugal ou os governos provinciais, poderão fixar taxas de juro diferenciadas a aplicar pelas instituições de crédito em operações de crédito às transacções interterritoriais.
+Art. 20.º - 1. Os Ministros das Finanças ou do Ultramar, ouvidos, consoante o caso, o Banco de Portugal ou os governos provinciais, poderão fixar taxas de juro diferenciadas a aplicar pelas instituições de crédito em operações de crédito às transacções interterritoriais.
 
 2. Quando o custo ou a natureza dos recursos de que as ditas instituições de crédito disponham para créditos às transacções interterritoriais, sob qualquer das suas modalidades, não forem compatíveis com os limites das taxas de juro fixadas nos termos legais, poderão os Ministros das Finanças e do Ultramar, mediante despacho conjunto para as transacções entre o continente e ilhas adjacentes e as províncias ultramarinas, ou só o Ministro do Ultramar em despacho para as transacções entre as províncias ultramarinas facultar-lhes outros recursos ou proporcionar aos interessados as condições necessárias para possibilitar a realização das operações.
 
-###### Art. 21.º - 1. O Ministro das Finanças, no continente e ilhas adjacentes e o do Ultramar, nas províncias ultramarinas, poderão autorizar os bancos comerciais a emitir obrigações, ficando o produto das emissões consignado à realização de operações de crédito às transacções interterritoriais a médio prazo.
+Art. 21.º - 1. O Ministro das Finanças, no continente e ilhas adjacentes e o do Ultramar, nas províncias ultramarinas, poderão autorizar os bancos comerciais a emitir obrigações, ficando o produto das emissões consignado à realização de operações de crédito às transacções interterritoriais a médio prazo.
 
 2. A emissão destas obrigações, cujo prazo não excederá sete anos, fica subordinada à legislação vigente.
 
 3. Os Ministros das Finanças e do Ultramar, consoante o caso, poderão conceder isenções tributárias aos juros das referidas obrigações.
 
-###### Art. 22.º - 1. Os bancos emissores, dentro da orientação geral do crédito, darão prioridade às operações de redesconto de títulos cujo desconto proporcionou a concessão de créditos às transacções interterritoriais e, bem assim, às de empréstimo caucionado com o penhor desses títulos.
+Art. 22.º - 1. Os bancos emissores, dentro da orientação geral do crédito, darão prioridade às operações de redesconto de títulos cujo desconto proporcionou a concessão de créditos às transacções interterritoriais e, bem assim, às de empréstimo caucionado com o penhor desses títulos.
 
 2. Para o efeito de beneficiarem desta prioridade de redesconto, dever-se-á, no acto do endosso, para desconto de letras, livranças ou títulos de crédito semelhantes, nos termos do disposto nas alíneas a) dos n.os 1 dos artigos 7.º e 14.º do presente diploma, fazer menção de o desconto respeitar a créditos às transacções interterritoriais, de pré-financiamento, corrente ou especial, ou de financiamento.
 
@@ -267,42 +333,42 @@ b) As operações de crédito a médio prazo, pela aplicação da parte disponí
 
 5. Os bancos emissores poderão estabelecer taxas especiais de juro para as operações de redesconto de títulos e de empréstimo referidas no presente artigo.
 
-###### Art. 23.º - 1. As instituições de crédito poderão ainda obter, junto dos bancos emissores, por meio de empréstimo, representado por livrança ou outro título, refinanciamento de créditos às transacções interterritoriais, concedidas nos termos da alínea b) do n.º 1 e do n.º 2 do artigo 7.º e da alínea b) do n.º 1 e do n.º 3 do artigo 14.º do presente diploma.
+Art. 23.º - 1. As instituições de crédito poderão ainda obter, junto dos bancos emissores, por meio de empréstimo, representado por livrança ou outro título, refinanciamento de créditos às transacções interterritoriais, concedidas nos termos da alínea b) do n.º 1 e do n.º 2 do artigo 7.º e da alínea b) do n.º 1 e do n.º 3 do artigo 14.º do presente diploma.
 
 2. Os bancos emissores acordarão com as instituições de crédito as condições gerais a que se subordinarão estes empréstimos, não podendo, porém, ter condições de pagamento, designadamente quanto a prazos, mais favoráveis que as dos créditos às transacções interterritoriais a cujo refinanciamento se destinam.
 
 3. Aos empréstimos concedidos pelos bancos emissores nos termos deste artigo aplicar-se-á o regime previsto, no artigo anterior.
 
-###### Art. 24.º - 1. Para apreciação de propostas de operações de crédito às transacções interterritoriais, com vista a, nomeadamente, se comprovar a sua legitimidade, poderão as instituições de crédito solicitar às empresas interessadas todos os necessários elementos informativos.
+Art. 24.º - 1. Para apreciação de propostas de operações de crédito às transacções interterritoriais, com vista a, nomeadamente, se comprovar a sua legitimidade, poderão as instituições de crédito solicitar às empresas interessadas todos os necessários elementos informativos.
 
 2. As instituições de crédito, para acautelarem a eficácia da sua assistência às empresas beneficiárias de créditos às transacções interterritoriais, poderão assegurar nos respectivos contratos o direito de fiscalizar, pela forma apropriada, a actividade dessas empresas, mas apenas na parte directamente relacionada com os créditos a médio ou longo prazos, concedidos nos termos do presente diploma.
 
-###### Art. 25.º - 1. Na aplicação dos seus recursos a Caixa Geral de Depósitos, Crédito e Previdência terá em conta a prioridade a atribuir aos empréstimos que lhe sejam solicitados pelos bancos de investimento para a realização de operações de crédito às transacções interterritoriais a médio e longo prazos, previstas no artigo 19.º
+Art. 25.º - 1. Na aplicação dos seus recursos a Caixa Geral de Depósitos, Crédito e Previdência terá em conta a prioridade a atribuir aos empréstimos que lhe sejam solicitados pelos bancos de investimento para a realização de operações de crédito às transacções interterritoriais a médio e longo prazos, previstas no artigo 19.º
 
 2. Os empréstimos a que alude o número precedente serão concedidos por prazo e em condições compatíveis com as operações de crédito às transacções interterritoriais a que se destinam.
 
 3. As taxas de juro dos empréstimos previstos no n.º 1 do presente diploma serão fixadas por despacho dos Ministros das Finanças e do Ultramar sobre proposta da Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 26.º - 1. Os Ministros das Finanças e do Ultramar poderão facultar aos bancos de investimento, mediante empréstimos, recursos destinados à realização de operações de crédito às transacções interterritoriais a médio e longo prazos, nos termos do presente diploma.
+Art. 26.º - 1. Os Ministros das Finanças e do Ultramar poderão facultar aos bancos de investimento, mediante empréstimos, recursos destinados à realização de operações de crédito às transacções interterritoriais a médio e longo prazos, nos termos do presente diploma.
 
 2. O prazo, juro e demais condições dos empréstimos a que se refere o número anterior serão fixados pelos Ministros das Finanças e do Ultramar, de acordo com as condições das operações de crédito às transacções interterritoriais a que os recursos se destinam.
 
-###### Art. 27.º Para a realização das operações de crédito às transacções interterritoriais que o presente diploma lhes comete, poderão os bancos de investimento recorrer, mediante prévio acordo com as instituições de crédito respectivas, à colaboração das agências, filiais e outras sucursais da Caixa Geral de Depósitos, Crédito e Previdência e dos bancos comerciais, no território do continente e ilhas adjacentes, e aos das agências, filiais e outras sucursais, dos Bancos de Angola e Nacional Ultramarino e dos bancos comerciais, nas províncias ultramarinas.
+Art. 27.º Para a realização das operações de crédito às transacções interterritoriais que o presente diploma lhes comete, poderão os bancos de investimento recorrer, mediante prévio acordo com as instituições de crédito respectivas, à colaboração das agências, filiais e outras sucursais da Caixa Geral de Depósitos, Crédito e Previdência e dos bancos comerciais, no território do continente e ilhas adjacentes, e aos das agências, filiais e outras sucursais, dos Bancos de Angola e Nacional Ultramarino e dos bancos comerciais, nas províncias ultramarinas.
 
 ### CAPÍTULO III — Disposições especiais e transitórias
 
-###### Art. 28.º - 1. O Ministro do Ultramar, ouvidos os gover os das províncias ultramarinas, promoverá as necessárias adaptações na orgânica e no modo de funcionamento dos Fundos de Comercialização, de forma a habilitá-los a concederem os avales a que se refere o artigo 8.º do presente diploma.
+Art. 28.º - 1. O Ministro do Ultramar, ouvidos os gover os das províncias ultramarinas, promoverá as necessárias adaptações na orgânica e no modo de funcionamento dos Fundos de Comercialização, de forma a habilitá-los a concederem os avales a que se refere o artigo 8.º do presente diploma.
 
 2. As instituições de crédito que pretendam realizar operações de crédito às transacções interterritoriais, nos termos do presente diploma, harmonizarão as suas condições de funcionamento com o que nele se estabelece, introduzindo nos seus estatutos as modificações que para o efeito se tornem necessárias.
 
-###### Art. 29.º As infracções ao estabelecido no presente diploma, e ao que vier a ser determinado em diplomas regulamentares, bem como nas portarias e despachos necessários à sua execução, serão punidas nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, do artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, e do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 29.º As infracções ao estabelecido no presente diploma, e ao que vier a ser determinado em diplomas regulamentares, bem como nas portarias e despachos necessários à sua execução, serão punidas nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, do artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, e do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
 Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Abril de 1971.**
+Promulgado em 12 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

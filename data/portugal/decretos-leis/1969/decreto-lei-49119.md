@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/07/16300/08320835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49119-1969-199428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e8161ff60505e6c730498af759a37d8ea9f16ee0126e24bed349787b82c766e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76e2271e475ba56e46665c5adcb0210a6b1b49300864127cf47da95be9da4fa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Ciclo Preparatório
+- Estágio de Formação
+- Formação Profissional
+- Metrópole
+- Moçambique
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:471884:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527839:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:198773:por
+  label: "Rectificado o nº4 do art. 14º pela RECT.DD485.08.08.1969.PC, DG.IS [185] de 08.08.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-198773
+  date: '1969-08-08'
+- type: repealed_by
+  target: pt:dre:471884:por
+  label: "Revogado pelo DEC LEI.217/80.09.07.1980.MECI, DR.IS [156] de 09.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1980-471884
+  date: '1980-07-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:01Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +140,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A formação profissional dos professores do ciclo preparatório passa a regular-se pelas disposições do presente diploma e pela demais legislação em vigor que por ele não seja contrariada.
+Artigo 1.º A formação profissional dos professores do ciclo preparatório passa a regular-se pelas disposições do presente diploma e pela demais legislação em vigor que por ele não seja contrariada.
 
-###### Art. 2.º - 1. Os estágios efectuar-se-ão nas escolas preparatórias indicadas no n.º 10.º da [Portaria n.º 23600](https://diariodarepublica.pt/dr/detalhe/portaria/23600-1968-508642), de 9 de Setembro de 1968, e noutras para esse efeito designadas por despacho ministerial.
+Art. 2.º - 1. Os estágios efectuar-se-ão nas escolas preparatórias indicadas no n.º 10.º da [Portaria n.º 23600](https://diariodarepublica.pt/dr/detalhe/portaria/23600-1968-508642), de 9 de Setembro de 1968, e noutras para esse efeito designadas por despacho ministerial.
 
 2. Nas províncias ultramarinas funcionarão estágios nas escolas preparatórias que forem designadas por despacho do Ministro do Ultramar, sob proposta da Direcção-Geral de Educação.
 
@@ -111,15 +156,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 7. Nos primeiros quinze dias de Julho a Direcção de Serviços do Ciclo Preparatório e as Direcções Provinciais dos Serviços de Educação farão publicar no Diário do Governo ou no Boletim Oficial aviso das localidades e grupos ou disciplinas a que se refere o número anterior.
 
-###### Art. 3.º - 1. O Ministro da Educação Nacional nomeará os professores metodólogos necessários para a eficiente direcção do estágio em cada escola da metrópole, os quais, se não pertencerem ao quadro do estabelecimento de ensino onde se realiza o estágio, manterão direito aos vencimentos do lugar do quadro que ocuparem.
+Art. 3.º - 1. O Ministro da Educação Nacional nomeará os professores metodólogos necessários para a eficiente direcção do estágio em cada escola da metrópole, os quais, se não pertencerem ao quadro do estabelecimento de ensino onde se realiza o estágio, manterão direito aos vencimentos do lugar do quadro que ocuparem.
 
 2. As nomeações previstas no número anterior competirão, sob proposta da Direcção-Geral de Educação, ao Ministro do Ultramar, quando referidas a escolas preparatórias das províncias ultramarinas.
 
-###### Art. 4.º - 1. Os estágios terão a duração de um ano escolar, compreendendo, obrigatòriamente, a participação no serviço de exames.
+Art. 4.º - 1. Os estágios terão a duração de um ano escolar, compreendendo, obrigatòriamente, a participação no serviço de exames.
 
 2. No que se refere aos professores de Educação Física, se possuírem como habilitação o curso de professores do Instituto Nacional de Educação Física, a formação profissional considera-se completada com o estágio do referido curso; porém, se possuírem como habilitação o curso de instrutores de Educação Física, poderá o Ministro autorizar que frequentem o estágio, sob parecer favorável dos competentes serviços de educação física da Mocidade Portuguesa e da Mocidade Portuguesa Feminina e após dois anos de serviço qualificado de Bom ou Muito bom prestado em escolas preparatórias para o efeito designadas.
 
-###### Art. 5.º - 1. O Ministro da Educação Nacional poderá, sob parecer da Junta Nacional da Educação, autorizar que, mediante prestação de provas, os estágios sejam frequentados por candidatos titulares de habilitações académicas, que, embora diversas das exigidas pela legislação geral respectiva, possuam nível apropriado e sejam, para o efeito, declaradas suficientes.
+Art. 5.º - 1. O Ministro da Educação Nacional poderá, sob parecer da Junta Nacional da Educação, autorizar que, mediante prestação de provas, os estágios sejam frequentados por candidatos titulares de habilitações académicas, que, embora diversas das exigidas pela legislação geral respectiva, possuam nível apropriado e sejam, para o efeito, declaradas suficientes.
 
 2. As provas a que se refere o número anterior serão indicadas no parecer e incidirão sobre as disciplinas do grupo em causa não compreendidas ou insuficientemente contempladas no curso ou habilitação académica que o interessado possuir.
 
@@ -129,13 +174,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Os resultados das provas serão publicados no Diário do Governo ou nos Boletins Oficiais das províncias ultramarinas, conforme se trate de provas realizadas na metrópole ou no ultramar.
 
-###### Art. 6.º - 1. Poderão ingressar no estágio os oficiais das forças armadas com incapacidades físicas contraídas em serviço militar que os não impossibilitem para o magistério, desde que possuam habilitações reconhecidas para o efeito como suficientes.
+Art. 6.º - 1. Poderão ingressar no estágio os oficiais das forças armadas com incapacidades físicas contraídas em serviço militar que os não impossibilitem para o magistério, desde que possuam habilitações reconhecidas para o efeito como suficientes.
 
 2. A admissão destes candidatos fica sujeita ao regime estabelecido no artigo 5.º, podendo, quando tal se justifique, ser dispensada a prestação de provas.
 
-###### Art. 7.º Em cada ano o número de estagiários de cada sexo a admitir será fixado por despacho ministerial, sob proposta do director de Serviços.
+Art. 7.º Em cada ano o número de estagiários de cada sexo a admitir será fixado por despacho ministerial, sob proposta do director de Serviços.
 
-###### Art. 8.º - 1. Os estagiários serão admitidos por concurso documental, devendo a graduação dos candidatos de cada grupo e especialidade ser feita em conjunto.
+Art. 8.º - 1. Os estagiários serão admitidos por concurso documental, devendo a graduação dos candidatos de cada grupo e especialidade ser feita em conjunto.
 
 2. Na graduação dos candidatos considerar-se-ão, sucessivamente, como razões de preferência:
 
@@ -149,13 +194,13 @@ c) Aptidão documentada no processo curricular, quando este exista.
 
 4. No ultramar será ainda dada preferência aos estagiários que já pertençam ao quadro comum do ciclo preparatório.
 
-###### Art. 9.º - 1. A abertura do estágio será comunicada por aviso da Direcção de Serviços do Ciclo Preparatório ou das Direcções Provinciais dos Serviços de Educação, conforme o estágio se realize na metrópole ou no ultramar, publicado no Diário do Governo ou nos Boletins Oficiais das províncias ultramarinas até ao dia 31 de Julho.
+Art. 9.º - 1. A abertura do estágio será comunicada por aviso da Direcção de Serviços do Ciclo Preparatório ou das Direcções Provinciais dos Serviços de Educação, conforme o estágio se realize na metrópole ou no ultramar, publicado no Diário do Governo ou nos Boletins Oficiais das províncias ultramarinas até ao dia 31 de Julho.
 
 2. Os requerimentos dos candidatos a estagiários, acompanhados dos documentos a que se refere o artigo 260.º do Estatuto, aprovado pelo [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1968, serão apresentados até 20 de Agosto na Direcção de Serviços do Ciclo Preparatório ou nas Direcções Provinciais dos Serviços de Educação.
 
 3. Os candidatos indicarão nos requerimentos, por ordem de preferência, as escolas onde pretendam frequentar o estágio.
 
-###### Art. 10.º - 1. As inspecções médicas dos candidatos, a efectuar na metrópole, realizar-se-ão nas localidades e datas a designar pelo director de Serviços, ouvido o director-geral da Educação Física, Desportos e Saúde Escolar.
+Art. 10.º - 1. As inspecções médicas dos candidatos, a efectuar na metrópole, realizar-se-ão nas localidades e datas a designar pelo director de Serviços, ouvido o director-geral da Educação Física, Desportos e Saúde Escolar.
 
 2. Cada junta de inspecção será constituída por três médicos escolares a designar pelo director-geral da Educação Física, Desportos e Saúde Escolar.
 
@@ -165,11 +210,11 @@ c) Aptidão documentada no processo curricular, quando este exista.
 
 5. Os candidatos que recorram para o Ministro da Educação Nacional poderão ser mandados examinar por nova junta, composta por cinco membros.
 
-###### Art. 11.º - 1. Até ao dia 15 de Setembro a Direcção de Serviços do Ciclo Preparatório ou a Direcção-Geral de Educação fará publicar no Diário do Governo ou nos Boletins Oficiais a lista dos candidatos admitidos em cada grupo ou especialidade e em cada escola.
+Art. 11.º - 1. Até ao dia 15 de Setembro a Direcção de Serviços do Ciclo Preparatório ou a Direcção-Geral de Educação fará publicar no Diário do Governo ou nos Boletins Oficiais a lista dos candidatos admitidos em cada grupo ou especialidade e em cada escola.
 
 2. A matrícula dos estagiários efectuar-se-á dentro dos oito dias posteriores à publicação da lista referida no número anterior.
 
-###### Art. 12.º - 1. Os estagiários gozarão do estatuto de professores provisórios.
+Art. 12.º - 1. Os estagiários gozarão do estatuto de professores provisórios.
 
 2. No ultramar os estagiários deverão ser contratados como professores ou, na falta de vagas, prestar serviço como eventuais.
 
@@ -179,9 +224,9 @@ c) Aptidão documentada no processo curricular, quando este exista.
 
 5. A remuneração atribuída aos estagiários corresponderá ao exercício do ensino com horário completo e referir-se-á, bem como a contagem do tempo de serviço, a períodos de doze meses.
 
-###### Art. 13.º Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competentes ser autorizado o respectivo alojamento em residências universitárias, sujeito ao regime geral aplicável aos estudantes, com excepção das condições incluídas nas alíneas c) e d) do n.º 1 do artigo 33.º do [Decreto-Lei n.º 46834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339), de 11 de Janeiro de 1966, e dos demais preceitos incompatíveis com a natureza da sua situação.
+Art. 13.º Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competentes ser autorizado o respectivo alojamento em residências universitárias, sujeito ao regime geral aplicável aos estudantes, com excepção das condições incluídas nas alíneas c) e d) do n.º 1 do artigo 33.º do [Decreto-Lei n.º 46834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339), de 11 de Janeiro de 1966, e dos demais preceitos incompatíveis com a natureza da sua situação.
 
-###### Art. 14.º - 1. Até à revisão do Estatuto podem requerer Exame de Estado com dispensa da frequência do estágio:
+Art. 14.º - 1. Até à revisão do Estatuto podem requerer Exame de Estado com dispensa da frequência do estágio:
 
 a) Os doutorados ou aprovados em mérito absoluto em concurso para escolas superiores;
 
@@ -217,7 +262,7 @@ c) Lição a uma turma sobre uma das disciplinas do grupo ou especialidade, segu
 
 6. Qualquer das provas é eliminatória.
 
-###### Art. 15.º - 1. No corrente ano lectivo o Exame de Estado dos candidatos a que se refere o artigo anterior será requerido à Direcção de Serviços do Ciclo Preparatório nos trinta dias imediatos à publicação deste diploma.
+Art. 15.º - 1. No corrente ano lectivo o Exame de Estado dos candidatos a que se refere o artigo anterior será requerido à Direcção de Serviços do Ciclo Preparatório nos trinta dias imediatos à publicação deste diploma.
 
 2. Os candidatos deverão entregar na Direcção de Serviços os documentos comprovativos de que se encontram nas condições do n.º 1 do artigo 14.º e os mencionados nas alíneas c) e g) do n.º 1 do artigo 260.º do Estatuto.
 
@@ -229,15 +274,15 @@ c) Lição a uma turma sobre uma das disciplinas do grupo ou especialidade, segu
 
 6. Se o número de candidatos o justificar, poderá o Ministro limitar a admissão ao Exame de Estado, de acordo com as necessidades em cada um dos grupos ou especialidades, sendo neste caso os candidatos graduados de acordo com a classificação da habilitação académica.
 
-###### Art. 16.º - 1. O júri para as provas de Exame de Estado a que se refere o artigo 14.º será designado pelo Ministro, mediante proposta do director de Serviços.
+Art. 16.º - 1. O júri para as provas de Exame de Estado a que se refere o artigo 14.º será designado pelo Ministro, mediante proposta do director de Serviços.
 
 2. No que respeita às provas a realizar no ultramar, compete ao Ministro do Ultramar a designação referida no número anterior, mediante proposta do director-geral de Educação.
 
-###### Art. 17.º - 1. Cada um dos membros dos júris de Exame de Estado tem direito à gratificação prevista na tabela n.º 3 anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo.
+Art. 17.º - 1. Cada um dos membros dos júris de Exame de Estado tem direito à gratificação prevista na tabela n.º 3 anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo.
 
 2. As gratificações a que se refere o n.º 1 a atribuir nas províncias ultramarinas serão fixadas pelos respectivos órgãos legislativos.
 
-###### Art. 18.º - 1. Terminadas as provas, o júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média aproximada às décimas das classificações seguintes:
+Art. 18.º - 1. Terminadas as provas, o júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média aproximada às décimas das classificações seguintes:
 
 a) Classificação da habilitação académica (coeficiente 2);
 
@@ -247,7 +292,7 @@ c) Classificação do Exame de Estado (coeficiente 3).
 
 2. No que se refere aos candidatos de Trabalhos Manuais e de Educação Musical, não será tomada em conta a alínea b) do número anterior para o cálculo da classificação profissional dos candidatos aprovados.
 
-###### Art. 19.º - 1. Aos candidatos aprovados no Exame de Estado será passado, pela Direcção de Serviços, o respectivo diploma, assinado pelo chefe de repartição e pelo director de Serviços.
+Art. 19.º - 1. Aos candidatos aprovados no Exame de Estado será passado, pela Direcção de Serviços, o respectivo diploma, assinado pelo chefe de repartição e pelo director de Serviços.
 
 2. Em cada diploma será colocada e inutilizada uma estampilha fiscal de 750$00.
 
@@ -255,17 +300,17 @@ c) Classificação do Exame de Estado (coeficiente 3).
 
 4. No ultramar o diploma a que se refere o n.º 1 será assinado pelo director provincial dos Serviços de Educação e pelo respectivo chefe de repartição.
 
-###### Art. 20.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional ou do Ultramar, conforme o estágio se realize na metrópole ou no ultramar.
+Art. 20.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional ou do Ultramar, conforme o estágio se realize na metrópole ou no ultramar.
 
-###### Art. 21.º - 1. Os encargos relativos à execução do presente diploma na metrópole serão satisfeitos pelas disponibilidades das dotações do orçamento do Ministério da Educação Nacional destinadas a remunerações certas ao pessoal em exercício no ciclo preparatório.
+Art. 21.º - 1. Os encargos relativos à execução do presente diploma na metrópole serão satisfeitos pelas disponibilidades das dotações do orçamento do Ministério da Educação Nacional destinadas a remunerações certas ao pessoal em exercício no ciclo preparatório.
 
 2. Ficam os governadores-gerais das províncias de Angola e Moçambique autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto-lei, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 4 de Julho de 1969.**
+Promulgado em 4 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

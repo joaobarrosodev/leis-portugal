@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 136/1972, 1º Suplemento, Série I de 1972-06-12
   number: '136'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 776-(1) a 776-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/06/13601/00010005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1972-249521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 191f6cf71fc937b8723d518fdf08af0c04e05d5c8731d7a37943261658a6a912
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 260676e6bfad5972200de062c9a30ccc04f60bcdcfdaa931b3db07635f60891f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Imposto de Mais-Valias
+- Mais-Valias
+- Política de Preços
+- Preço Máximo
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:614590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407906:por
+  label: "Alterado o n.º 3.º do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo Decreto-Lei\
+    \ n.º 41969, de 24 de Novembro de 1958, na redacção do presente diploma, pelo DEC LEI.718/73.31.12.1973.MF, DG.IS [302]\
+    \ de 31.12.1973, nos termos do seu artigo 11.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/718-1973-407906
+  date: '1973-12-31'
+- type: amended_by
+  target: pt:dre:401755:por
+  label: "Determinada a abolição do adicional ao imposto complementar criado pelo art. 13º deste diploma pelo DEC LEI.375/74.20.08.1974.MF,\
+    \ DG.IS [193-Supl] de 20.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1974-401755
+  date: '1974-08-20'
+- type: amended_by
+  target: pt:dre:355306:por
+  label: "Alterado o art. 16º do Código da Sisa e do Imposto sobre as Sucessões e Doações aprovado pelo Dec Lei 41969 de 24-Nov\
+    \ de 1958, com a redacção conferida no presente diploma, pelo DEC LEI.757/75.31.12.1975.MF, DG.IS [300-3ºSupl] de 31.12.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/757-1975-355306
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:332190:por
+  label: Determinada a abolição da taxa sobre os estabelecimentos de luxo, criada pelo art. 18.º do presente diploma pelo(a)
+    Decreto-Lei n.º 75-A/78 - Diário da República n.º 96/1978, 1º Suplemento, Série I de 1978-04-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-a-1978-332190
+  date: '1978-04-26'
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterado o nº 22º do art. 11º, o art. 15º e o nº 1 do art. 16º do Código da Sisa e do Imposto sobre Sucessões e Doações,
+    aprovado pelo Dec Lei 41969 de 24-Nov de 1958, com a redacção do presente diploma, pelo DEC LEI.91/89.27.03.1989.MF, DR.IS
+    [71] de 27.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681838:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355334:por
+  label: "Revogado o art. 12º pelo DEC LEI.771/75.31.12.1975.MF, DG.IS [300-6ºSupl] de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/771-1975-355334
+  date: '1975-12-31'
+- type: repealed_by
+  target: pt:dre:356557:por
+  label: "Revogado, a partir de 19.03.1976, o art. 14.º do presente diploma, pelo DEC LEI.164-A/76.28.02.1976.MT, DG.IS [50-Supl]\
+    \ de 28.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-a-1976-356557
+  date: '1976-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:47Z'
   warnings: []
   errors: []
 ---
@@ -144,9 +210,9 @@ I
 
 Tabelamento e homologação de preços
 
-###### Artigo 1.º O Secretário de Estado do Comércio pode, por portaria, submeter produtos, mercadorias ou serviços ao regime de tabelamento e fixar os respectivos preços máximos.
+Artigo 1.º O Secretário de Estado do Comércio pode, por portaria, submeter produtos, mercadorias ou serviços ao regime de tabelamento e fixar os respectivos preços máximos.
 
-###### Art. 2.º - 1. Poderá também a fixação dos preços máximos de produtos, mercadorias ou serviços não sujeitos a tabelamento e que forem indicados em portaria ficar dependente de homologação do Secretário de Estado do Comércio, cabendo aos organismos de coordenação económica e corporativos ou à Inspecção-Geral das Actividades Económicas submeter os preços à homologação.
+Art. 2.º - 1. Poderá também a fixação dos preços máximos de produtos, mercadorias ou serviços não sujeitos a tabelamento e que forem indicados em portaria ficar dependente de homologação do Secretário de Estado do Comércio, cabendo aos organismos de coordenação económica e corporativos ou à Inspecção-Geral das Actividades Económicas submeter os preços à homologação.
 
 2. A competência para homologação pode ser delegada no inspector-geral das Actividades Económicas.
 
@@ -162,15 +228,15 @@ b) À corporação respectiva, nos restantes casos.
 
 6. A comunicação da homologação referida no n.º 4 é considerada, para todos os efeitos legais, designadamente do disposto no artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, como equivalente à publicação no Diário do Governo.
 
-###### Art. 3.º - 1. Os preços praticados à data da publicação da portaria referida no n.º 1 do artigo precedente só podem ser elevados desde que seja obtida a homologação do Secretário de Estado do Comércio.
+Art. 3.º - 1. Os preços praticados à data da publicação da portaria referida no n.º 1 do artigo precedente só podem ser elevados desde que seja obtida a homologação do Secretário de Estado do Comércio.
 
 2. Em caso de dúvida quanto ao preço praticado pelo industrial, comerciante ou prestador de serviços na data referida no número anterior, caberá a estes o respectivo ónus da prova.
 
-###### Art. 4.º - 1. O Secretário de Estado do Comércio poderá, por portaria, suspender a aplicação das disposições contidas em portarias, despachos, posturas municipais e outros regulamentos administrativos ou corporativos que impeçam, estabeleçam restrições ou de qualquer forma limitem a livre circulação e a venda de géneros ou produtos alimentícios e outros produtos ou mercadorias necessários ao abastecimento público.
+Art. 4.º - 1. O Secretário de Estado do Comércio poderá, por portaria, suspender a aplicação das disposições contidas em portarias, despachos, posturas municipais e outros regulamentos administrativos ou corporativos que impeçam, estabeleçam restrições ou de qualquer forma limitem a livre circulação e a venda de géneros ou produtos alimentícios e outros produtos ou mercadorias necessários ao abastecimento público.
 
 2. O Governo procederá à revisão das leis, decretos-leis e decretos que incidam sobre a matéria mencionada no n.º 1.
 
-###### Art. 5.º Constitui crime de especulação, punido nos termos do artigo 25.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668):
+Art. 5.º Constitui crime de especulação, punido nos termos do artigo 25.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668):
 
 a) A prestação de serviços por preço superior ao tabelado;
 
@@ -178,19 +244,19 @@ b) A venda de produtos ou mercadorias, bem como a prestação de serviços, por 
 
 c) A venda de produtos ou mercadorias ou a prestação de serviços por preços superiores aos praticados à data referida no n.º 1 do artigo 3.º, enquanto esses preços não puderem ser elevados.
 
-###### Art. 6.º Os produtores, fabricantes, importadores, distribuidores, embaladores ou armazenistas que por qualquer forma estabeleçam, recomendem, marquem ou aconselhem a marcação de preços nos produtos ou mercadorias objecto do seu comércio ou indústria superiores aos homologados nos termos do artigo 2.º ou com violação do disposto no n.º 1 do artigo 3.º do presente diploma e nos n.os 1 e 3 do artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão considerados autores do crime de especulação, nas suas formas consumada ou tentada.
+Art. 6.º Os produtores, fabricantes, importadores, distribuidores, embaladores ou armazenistas que por qualquer forma estabeleçam, recomendem, marquem ou aconselhem a marcação de preços nos produtos ou mercadorias objecto do seu comércio ou indústria superiores aos homologados nos termos do artigo 2.º ou com violação do disposto no n.º 1 do artigo 3.º do presente diploma e nos n.os 1 e 3 do artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão considerados autores do crime de especulação, nas suas formas consumada ou tentada.
 
-###### Art. 7.º Constituí tentativa de especulação:
+Art. 7.º Constituí tentativa de especulação:
 
 1.º A afixação de etiquetas, letreiros, listas ou tabelas com indicação de preços superiores aos que se praticavam na data da portaria que sujeita a fixação dos preços máximos à homologação ministerial;
 
 2.º A afixação de etiquetas, letreiros, listas ou tabelas com indicação de preços superiores aos homologados ou que violem o disposto nos n.os 1 e 3 do artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 8.º A infracção do disposto no n.º 5 do artigo 2.º é punida com a pena de multa de 1000$00 a 10000$00.
+Art. 8.º A infracção do disposto no n.º 5 do artigo 2.º é punida com a pena de multa de 1000$00 a 10000$00.
 
-###### Art. 9.º O disposto no artigo 11.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) é igualmente aplicável às infracções previstas nos artigos 5.º, 6.º e 7.º deste diploma e nos artigos 20.º e 24.º do referido [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 9.º O disposto no artigo 11.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) é igualmente aplicável às infracções previstas nos artigos 5.º, 6.º e 7.º deste diploma e nos artigos 20.º e 24.º do referido [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 10.º - 1. No caso de reincidência nas infracções previstas nos artigos 5.º, 6.º e 7.º do presente diploma e na alínea a) do n.º 1 do artigo 17.º, na alínea a) do n.º 1 do artigo 18.º, no artigo 20.º e no artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), será decretada a medida de segurança prevista no n.º 5 e a que se refere o § 5.º, ambos no artigo 70.º do Código Penal, e cumulativamente o encerramento do estabelecimento comercial ou industrial até seis meses.
+Art. 10.º - 1. No caso de reincidência nas infracções previstas nos artigos 5.º, 6.º e 7.º do presente diploma e na alínea a) do n.º 1 do artigo 17.º, na alínea a) do n.º 1 do artigo 18.º, no artigo 20.º e no artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), será decretada a medida de segurança prevista no n.º 5 e a que se refere o § 5.º, ambos no artigo 70.º do Código Penal, e cumulativamente o encerramento do estabelecimento comercial ou industrial até seis meses.
 
 2. Será igualmente decretado o encerramento até seis meses do estabelecimento comercial ou industrial de sociedades civis ou comerciais quando nas condições requeridas para a reincidência forem cometidas as infracções previstas no número anterior por seus representantes ou empregados, ainda que diferentes.
 
@@ -198,11 +264,11 @@ II
 
 Limitação e estabilização de lucros, dividendos e remunerações
 
-###### Art. 11.º A taxa fixada no artigo 80.º do Código da Contribuição Industrial será de 18 por cento sobre a parte da matéria colectável que exceda a do ano anterior em mais de 5 por cento, desde que aquela matéria seja superior a 100000$00.
+Art. 11.º A taxa fixada no artigo 80.º do Código da Contribuição Industrial será de 18 por cento sobre a parte da matéria colectável que exceda a do ano anterior em mais de 5 por cento, desde que aquela matéria seja superior a 100000$00.
 
-###### Art. 12.º A taxa fixada no § 1.º do artigo 21.º do Código do Imposto de Capitais é, quando se trate de lucros ou dividendos atribuídos a sócios de sociedades comerciais, ou civis sob a forma comercial, ou de importâncias atribuídas aos sócios das sociedades cooperativas, a título de remuneração do capital, elevada para 8 por cento relativamente à parte dos lucros ou importâncias que, no montante anual atribuído, exceda 10 por cento do capital social.
+Art. 12.º A taxa fixada no § 1.º do artigo 21.º do Código do Imposto de Capitais é, quando se trate de lucros ou dividendos atribuídos a sócios de sociedades comerciais, ou civis sob a forma comercial, ou de importâncias atribuídas aos sócios das sociedades cooperativas, a título de remuneração do capital, elevada para 8 por cento relativamente à parte dos lucros ou importâncias que, no montante anual atribuído, exceda 10 por cento do capital social.
 
-###### Art. 13.º - 1. Sobre as colectas do imposto complementar, de importância superior a 60000$00, a liquidar segundo as taxas do artigo 33.º do respectivo Código, incidirá um adicional com as seguintes taxas:
+Art. 13.º - 1. Sobre as colectas do imposto complementar, de importância superior a 60000$00, a liquidar segundo as taxas do artigo 33.º do respectivo Código, incidirá um adicional com as seguintes taxas:
 
 a) 10 por cento sobre a parte do imposto excedente a 60000$00, mas não ultrapassando 380000$00;
 
@@ -212,7 +278,7 @@ b) 15 por cento sobre o excedente a 380000$00.
 
 3. O disposto neste artigo aplicar-se-á às liquidações que, nos termos do Código, devam ser efectuadas a partir do corrente ano, inclusive.
 
-###### Art. 14.º - 1. As cláusulas ou disposições das convenções colectivas de trabalho, das decisões arbitrais a elas referentes e das portarias de regulamentação de trabalho, relativas a retribuições mínimas de trabalho poderão ser revistas de dois em dois anos, a contar do início da sua vigência ou da última revisão; as restantes cláusulas ou disposições só poderão ser alteradas de quatro em quatro anos, contados nos mesmos termos.
+Art. 14.º - 1. As cláusulas ou disposições das convenções colectivas de trabalho, das decisões arbitrais a elas referentes e das portarias de regulamentação de trabalho, relativas a retribuições mínimas de trabalho poderão ser revistas de dois em dois anos, a contar do início da sua vigência ou da última revisão; as restantes cláusulas ou disposições só poderão ser alteradas de quatro em quatro anos, contados nos mesmos termos.
 
 2. Não é permitida a estipulação ou fixação de cláusulas de actualização periódica automática de remunerações.
 
@@ -222,11 +288,11 @@ III
 
 Apoio às cooperativas de consumo e de construção
 
-###### Art. 15.º O Governo adoptará as providências convenientes para fomentar o desenvolvimento das sociedades cooperativas de consumo, nos termos que vierem a ser fixados.
+Art. 15.º O Governo adoptará as providências convenientes para fomentar o desenvolvimento das sociedades cooperativas de consumo, nos termos que vierem a ser fixados.
 
-###### Art. 16.º Os artigos 11.º, 15.º, 16.º e 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passam a ter a seguinte redacção:
+Art. 16.º Os artigos 11.º, 15.º, 16.º e 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passam a ter a seguinte redacção:
 
-###### Art. 11.º Ficam isentas de sisa:
+Art. 11.º Ficam isentas de sisa:
 
 ...
 
@@ -250,23 +316,23 @@ c) Cooperativas constituídas nos termos e condições referidas nos n.os 1 a 3 
 
 d) Cooperativas de construção a que se refere o n.º 11.º-A deste artigo.
 
-###### Art. 15.º As isenções a que se referem os n.os 16.º do artigo 11.º, 11.º do artigo 12.º e 3.º e 11.º do artigo 13.º só se efectivarão mediante despacho do director-geral das Contribuições e Impostos e do Ministro das Finanças, no último caso, sobre requerimento das entidades interessadas.
+Art. 15.º As isenções a que se referem os n.os 16.º do artigo 11.º, 11.º do artigo 12.º e 3.º e 11.º do artigo 13.º só se efectivarão mediante despacho do director-geral das Contribuições e Impostos e do Ministro das Finanças, no último caso, sobre requerimento das entidades interessadas.
 
 ...
 
-###### Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º e 9.º, 12.º, alínea a), 12.º, alínea c), e 21.º, 25.º e 26.º do artigo 11.º e 7.º do artigo 12.º deixarão de beneficiar da isenção logo que se verifique, respectivamente:
+Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º e 9.º, 12.º, alínea a), 12.º, alínea c), e 21.º, 25.º e 26.º do artigo 11.º e 7.º do artigo 12.º deixarão de beneficiar da isenção logo que se verifique, respectivamente:
 
 ...
 
-###### Art. 39.º-A É ainda de 4 por cento a taxa da sisa pela aquisição de habitações nos termos e condições referidas na alínea c) do n.º 12.º e no n.º 21.º do artigo 11.º, quando o valor sobre que incide a sisa exceda 500000$00, mas não ultrapasse 1000000$00, e, no caso do empréstimo a que se refere o mencionado n.º 21.º, desde que aquele seja superior a um terço do preço da aquisição.
+Art. 39.º-A É ainda de 4 por cento a taxa da sisa pela aquisição de habitações nos termos e condições referidas na alínea c) do n.º 12.º e no n.º 21.º do artigo 11.º, quando o valor sobre que incide a sisa exceda 500000$00, mas não ultrapasse 1000000$00, e, no caso do empréstimo a que se refere o mencionado n.º 21.º, desde que aquele seja superior a um terço do preço da aquisição.
 
-###### Art. 17.º São isentos de imposto de mais-valias os ganhos resultantes das fusões ou incorporações referidas no n.º 29.º do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, segundo a redacção dada no presente diploma.
+Art. 17.º São isentos de imposto de mais-valias os ganhos resultantes das fusões ou incorporações referidas no n.º 29.º do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, segundo a redacção dada no presente diploma.
 
 IV
 
 Estabelecimentos de luxo
 
-###### Art. 18.º - 1. Os estabelecimentos de luxo ficam sujeitos a uma «taxa de luxo» correspondente a 10 por cento dos preços de venda ao público de todos os produtos ou mercadorias transaccionadas e que não pode ser indicada separadamente em relação ao preço.
+Art. 18.º - 1. Os estabelecimentos de luxo ficam sujeitos a uma «taxa de luxo» correspondente a 10 por cento dos preços de venda ao público de todos os produtos ou mercadorias transaccionadas e que não pode ser indicada separadamente em relação ao preço.
 
 2. Serão considerados de luxo os estabelecimentos de venda directa ao público que, mediante requerimento dos interessados, venham a obter aquela classificação por despacho do Secretário de Estado do Comércio.
 
@@ -280,16 +346,16 @@ V
 
 Disposições transitórias
 
-###### Art. 19.º A alteração ao artigo 80.º do Código da Contribuição Industrial é aplicável na liquidação da contribuição respeitante aos lucros do exercício de 1972 e seguintes, salvo tratando-se de contribuintes que cessaram a sua actividade, nos termos do Código, em data anterior à da publicação deste diploma, os quais serão tributados relativamente aos lucros daquele exercício em conformidade com a lei em vigor naquela data.
+Art. 19.º A alteração ao artigo 80.º do Código da Contribuição Industrial é aplicável na liquidação da contribuição respeitante aos lucros do exercício de 1972 e seguintes, salvo tratando-se de contribuintes que cessaram a sua actividade, nos termos do Código, em data anterior à da publicação deste diploma, os quais serão tributados relativamente aos lucros daquele exercício em conformidade com a lei em vigor naquela data.
 
-###### Art. 20.º A alteração do artigo 21.º do Código do Imposto de Capitais é aplicável aos rendimentos relativamente aos quais o acto que determina a obrigação de entrega do imposto ao Estado ocorra posteriormente a 31 de Dezembro de 1972.
+Art. 20.º A alteração do artigo 21.º do Código do Imposto de Capitais é aplicável aos rendimentos relativamente aos quais o acto que determina a obrigação de entrega do imposto ao Estado ocorra posteriormente a 31 de Dezembro de 1972.
 
-###### Art. 21.º Este decreto-lei entra imediatamente em vigor.
+Art. 21.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 8 de Junho de 1972.**
+Promulgado em 8 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/15100/14471448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1976-431267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ea7bcbb6930a55b80f2d556b1bc4cde093478b6211a3af737f5f009e723a1a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b23f2a8c02351909fae1a925e479cf6347b6b117d252aa12f0fb26ff0c5f18e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Pensões
+- Instituições de Segurança Social
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308107:por
+  label: "Alterados os arts. 1º, 4º e 6º pelo DEC LEI.5/83.1983.01.14.MAS DR.IS [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1983-308107
+  date: '1983-01-14'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514845:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:04Z'
   warnings: []
   errors: []
 ---
@@ -107,23 +145,23 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Para prova de transmissão de bens, móveis e imóveis, e de transferência de créditos e suas garantias e direitos acessórios em que sejam intervenientes instituições de previdência das referidas nos n.os 2 e 3 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, ou elas como transmissionárias e o Estado ou outra pessoa colectiva de direito público ou empresa pública ou concessionária do Estado como transmitentes, constituirão título bastante, e para todos os efeitos, o auto de entrega ou a declaração de que esta foi feita, assinados pelos legais representantes das instituições intervenientes ou por funcionários a quem as respectivas direcções tenham atribuído poderes para o efeito, donde constem, relacionados devidamente, os bens transmitidos.
+Artigo 1.º - 1. Para prova de transmissão de bens, móveis e imóveis, e de transferência de créditos e suas garantias e direitos acessórios em que sejam intervenientes instituições de previdência das referidas nos n.os 2 e 3 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, ou elas como transmissionárias e o Estado ou outra pessoa colectiva de direito público ou empresa pública ou concessionária do Estado como transmitentes, constituirão título bastante, e para todos os efeitos, o auto de entrega ou a declaração de que esta foi feita, assinados pelos legais representantes das instituições intervenientes ou por funcionários a quem as respectivas direcções tenham atribuído poderes para o efeito, donde constem, relacionados devidamente, os bens transmitidos.
 
 2. A fotocópia dos documentos referidos no número anterior terá a mesma força probatória dos originais, desde que nela conste a declaração da sua conformidade com o original, aposta pelo legal representante da instituição apresentante e autenticada com o selo branco desta.
 
-###### Art. 2.º - 1. Quando não seja possível a elaboração dos documentos a que se refere o artigo anterior, por, entretanto, se ter dado a extinção da instituição ou entidade transmitente, terá força probatória idêntica a declaração dessa impossibilidade pelo representante legal da instituição transmissária aposta na relação de bens transmitidos, a qual será confirmada pelos serviços competentes da Secretaria de Estado da Segurança Social, através de ofício autenticado com o selo branco respectivo.
+Art. 2.º - 1. Quando não seja possível a elaboração dos documentos a que se refere o artigo anterior, por, entretanto, se ter dado a extinção da instituição ou entidade transmitente, terá força probatória idêntica a declaração dessa impossibilidade pelo representante legal da instituição transmissária aposta na relação de bens transmitidos, a qual será confirmada pelos serviços competentes da Secretaria de Estado da Segurança Social, através de ofício autenticado com o selo branco respectivo.
 
 2. O disposto no número precedente tem aplicação no caso das instituições de previdência do pessoal ferroviário, a que se refere o artigo 1.º do [Decreto-Lei n.º 39557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39557-1954-217558), de 9 de Março de 1954, e o artigo 4.º do [Decreto-Lei n.º 103/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1970-228656), de 14 de Março, que foram fundidas com a Caixa Nacional de Pensões, devendo, porém, ser sujeita à confirmação ali referida também a relação dos bens e direitos transmitidos.
 
-###### Art. 3.º A descrição ou averbamento no registo predial, automóvel ou comercial dos bens ou direitos transmitidos poderão ser feitos a requerimento das instituições de previdência ou oficiosamente pelas respectivas conservatórias competentes e com a dispensa da observância do n.º 1 do artigo 13.º do Código do Registo Predial.
+Art. 3.º A descrição ou averbamento no registo predial, automóvel ou comercial dos bens ou direitos transmitidos poderão ser feitos a requerimento das instituições de previdência ou oficiosamente pelas respectivas conservatórias competentes e com a dispensa da observância do n.º 1 do artigo 13.º do Código do Registo Predial.
 
-###### Art. 4.º As instituições de previdência referidas no artigo 1.º gozam de total isenção de imposto do selo, emolumentos, taxas e quaisquer outros encargos pelos actos de registo e inscrição matricial relativos a todos os bens ou direitos que lhes sejam transmitidos, independentemente do título a que o forem e da pessoa do transmitente.
+Art. 4.º As instituições de previdência referidas no artigo 1.º gozam de total isenção de imposto do selo, emolumentos, taxas e quaisquer outros encargos pelos actos de registo e inscrição matricial relativos a todos os bens ou direitos que lhes sejam transmitidos, independentemente do título a que o forem e da pessoa do transmitente.
 
-###### Art. 5.º O disposto no presente diploma aplica-se também a todos os actos de registo ou de inscrição matricial relativos a transferências ou aquisições anteriores à sua entrada em vigor.
+Art. 5.º O disposto no presente diploma aplica-se também a todos os actos de registo ou de inscrição matricial relativos a transferências ou aquisições anteriores à sua entrada em vigor.
 
-###### Art. 6.º São inaplicáveis às instituições de previdência as disposições legais que estabelecem a responsabilidade contravencional por não observância dos prazos para registo ou inscrição na matriz.
+Art. 6.º São inaplicáveis às instituições de previdência as disposições legais que estabelecem a responsabilidade contravencional por não observância dos prazos para registo ou inscrição na matriz.
 
-###### Art. 7.º A alínea e) do n.º 1 da base XI da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, passa a ter a seguinte redacção:
+Art. 7.º A alínea e) do n.º 1 da base XI da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, passa a ter a seguinte redacção:
 
 BASE XI
 
@@ -145,12 +183,12 @@ f) ...
 
 3 - ...
 
-###### Art. 8.º O presente diploma entra em vigor na data da sua publicação.
+Art. 8.º O presente diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 19 de Junho de 1976.**
+Promulgado em 19 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/10/23700/16121613.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45299-1963-687267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7c69e6aa3faee9cd09a305be40ed68fa0acd2a4db53885e6666bbd768d565f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19a423397e9ea380aa895a4ad977969b54dbe3d088adaffe0db9a532688eea15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contravenção
+- Multa
+- Responsabilidade Criminal
+- Segurança Rodoviária
+- Sinalização
+- Trânsito
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:223835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções, não causais de acidentes, contidas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA,\
+    \ DG.IS [294] de 18.12.1974\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: amended_by
+  target: pt:dre:392444:por
+  label: "Alterado o montante das multas previsto nas al. a), b) e c) do art. 6º, pelo DEC LEI.186/82.1982.05.15.MHOPT DR.IS\
+    \ [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1982-392444
+  date: '1982-05-15'
+- type: repealed_by
+  target: pt:dre:223835:por
+  label: "Revogado, mantendo em vigor a regulamentação aprovada para sua execução, pelo DEC LEI.2/98.1998.01.03.MAI DR.IS-A\
+    \ [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1998-223835
+  date: '1998-01-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:44Z'
   warnings: []
   errors: []
 ---
@@ -101,21 +126,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o sinal ou dispositivo de pré-sinalização de perigo, constituído por um triângulo equilátero com faixas reflectoras de cor vermelha e cujas dimensões e características serão fixadas em portaria do Ministro das Comunicações.
+Artigo 1.º É criado o sinal ou dispositivo de pré-sinalização de perigo, constituído por um triângulo equilátero com faixas reflectoras de cor vermelha e cujas dimensões e características serão fixadas em portaria do Ministro das Comunicações.
 
-###### Art. 2.º Todos os automóveis em circulação devem estar munidos obrigatòriamente do sinal de pré-sinalização.
+Art. 2.º Todos os automóveis em circulação devem estar munidos obrigatòriamente do sinal de pré-sinalização.
 
-###### Art. 3.º O uso deste sinal é obrigatório:
+Art. 3.º O uso deste sinal é obrigatório:
 
 a) De dia, quando os veículos estacionados, parcial ou totalmente, na faixa de rodagem, ou a carga que tenha caído sobre o pavimento, não forem visíveis a uma distância de, pelo menos, 100 m;
 
 b) Do anoitecer ao amanhecer, em quaisquer circunstâncias de paragem ou carga caída na via pública, exceptuados os locais onde as condições de iluminação permitam um fácil reconhecimento à distância de 100 m, sem prejuízo do disposto no artigo 20.º do Código da Estrada quanto à iluminação dos veículos, nem das disposições proibitivas de estacionamento constantes do mesmo Código.
 
-###### Art. 4.º O sinal será colocado verticalmente em relação ao pavimento e ao eixo da faixa de rodagem e a uma distância nunca inferior a 30 m, à retaguarda do veículo ou da carga a sinalizar, e por forma a ficar bem visível à distância de, pelo menos, 100 m.
+Art. 4.º O sinal será colocado verticalmente em relação ao pavimento e ao eixo da faixa de rodagem e a uma distância nunca inferior a 30 m, à retaguarda do veículo ou da carga a sinalizar, e por forma a ficar bem visível à distância de, pelo menos, 100 m.
 
-###### Art. 5.º Todos os dispositivos de pré-sinalização devem ser conformes aos modelos aprovados pela Direcção-Geral de Transportes Terrestres, tanto quanto ao material de fabrico, forma e dimensões, como em relação às restantes características.
+Art. 5.º Todos os dispositivos de pré-sinalização devem ser conformes aos modelos aprovados pela Direcção-Geral de Transportes Terrestres, tanto quanto ao material de fabrico, forma e dimensões, como em relação às restantes características.
 
-###### Art. 6.º As infracções ao disposto no presente diploma legal serão punidas com a multa:
+Art. 6.º As infracções ao disposto no presente diploma legal serão punidas com a multa:
 
 a) De 500$00, quando resultem da violação ao estatuído no artigo 2.º, ou quando se utilizarem sinais de pré-sinalização dos quais não conste a indicação do fabricante e de que foram aprovados pela Direcção-Geral de Transportes Terrestres, ou que, possuindo-a, se verifique não corresponderem ao modelo aprovado;
 
@@ -125,8 +150,8 @@ c) De 5000$00, a incidir sobre os fabricantes ou vendedores que não respeitarem
 
 § único. Sobre as multas aplicadas nos termos do corpo do artigo não incidem quaisquer adicionais e a sua cobrança far-se-á nos termos do artigo 70.º do Código da Estrada.
 
-###### Art. 7.º Este decreto-lei entra em vigor no dia 1 de Abril de 1964 para os automóveis pesados e no dia 1 de Outubro de 1964 para os automóveis ligeiros.
+Art. 7.º Este decreto-lei entra em vigor no dia 1 de Abril de 1964 para os automóveis pesados e no dia 1 de Outubro de 1964 para os automóveis ligeiros.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

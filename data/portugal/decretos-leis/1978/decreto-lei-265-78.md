@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1978-299226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d90488a4941570cbed32ee142bb7d91768ef7f88b14b1d4ce0dd8cd6e09a7840
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 860fa459d59ada7d701271b615fe7063b1db07ff26b1714675bb87209008b445
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade Pública
+- Despesas Públicas
+- Gestão Orçamental
+- Orçamento
+- Política Orçamental
 relationships:
 - type: amended_by
   target: pt:dre:144217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:634688:por
+  label: "Mantido transitoriamente em vigor, pelo DEC LEI.83/93.18.03.1993.MF, DR.IS-A [65] de 18.03.1993, nos termos do seu\
+    \ n.º 4 do artigo 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1993-634688
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantido transitóriamente em vigor pelo DEC LEI.77/94.1994.03.09.MF, DR.IS-A [57], nos termos do seu nº 4 do art.\
+    \ 2º7\0 2º7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "Mantido transitoriamente em vigor, nos termos do n.º 4 do art. 2.º do DEC LEI.45/95.1995.03.02.MF DR.IS-A [52]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
+  date: '1995-03-02'
+- type: amended_by
+  target: pt:dre:468775:por
+  label: "Mantido transitoriamente em vigor, pelo DEC LEI.50/96.16.05.1996.MF, DR.IS-A [114] de 16.05.1996, nos termos do\
+    \ seu n.º 5 do artigo 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1996-468775
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Mantido em vigor, para os serviços e organismos da Administração Pública que não tenham tido uma adesão plena aos
+    princípios definidos no Dec Lei 155/92 de 28-Jul, pelo(a) Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011,
+    1º Suplemento, Série I de 2011-03-01, sem prejuízo do disposto no n.º 2 do art. 2º deste último diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: cites
+  target: pt:dre:281448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:328033:por
+  label: Rectificado pela DECL.DD7462.19.10.1978.PCM, DR.IS [241] de 19.10.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-328033
+  date: '1978-10-19'
+- type: repealed_by
+  target: pt:dre:275619:por
+  label: "Revogado pelo DEC LEI.155/92.28.07.1992.MF, DR.IS-A [172] de 28.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1992-275619
+  date: '1992-07-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:23Z'
   warnings: []
   errors: []
 ---
@@ -181,8 +251,8 @@ O presente diploma entra em vigor no início do ano económico de 1979, devendo 
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

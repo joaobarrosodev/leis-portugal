@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49285-1969-216114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 825b5e5dee6874d97512cb1b40dda534a8a0861a2d5c47bd92242cd8f179ad64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27f7d9727910301f9c9218acf723934b3757fcf8c7f0118ee5b113978e67769d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:30Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +96,15 @@ Nos termos do disposto na alínea g) do n.º 1.º da base X da Lei Orgânica do 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São extensivas às Juntas Autónomas de Estradas de Angola e de Moçambique e aos correspondentes serviços das restantes províncias ultramarinas as isenções prescritas nas alíneas b) e e) do artigo 1.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Artigo único. São extensivas às Juntas Autónomas de Estradas de Angola e de Moçambique e aos correspondentes serviços das restantes províncias ultramarinas as isenções prescritas nas alíneas b) e e) do artigo 1.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
 § único. Esta disposição aplica-se aos bilhetes de despacho que se encontrem pendentes de liquidação e pagamento.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 25 de Setembro de 1969.**
+Promulgado em 25 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

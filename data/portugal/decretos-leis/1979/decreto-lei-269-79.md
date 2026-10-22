@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1979-381481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f1e8c133ef5e27785d5a282b26a2dcff6d2c94d1cec99ae7ae63d5e37fedbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70bcee8c518ca8b26748b845bf6fb8f9d47eee500e0eb2f278ff9bc44589e274
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exército
+- Orgânica
+- Serviço Cartográfico do Exército
+relationships:
+- type: cites
+  target: pt:dre:390833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628320:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:56Z'
   warnings: []
   errors: []
 ---
@@ -94,38 +113,38 @@ Atento o disposto no artigo 29.º do [Decreto-Lei n.º 949/76](https://diariodar
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.os 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o quadro orgânico da Chefia do Serviço Cartográfico do Exército (CSCE) anexo a este decreto-lei.
+Artigo 1.º É aprovado o quadro orgânico da Chefia do Serviço Cartográfico do Exército (CSCE) anexo a este decreto-lei.
 
-###### Art. 2.º As alterações ao presente quadro orgânico serão fixadas por portaria do CEME.
+Art. 2.º As alterações ao presente quadro orgânico serão fixadas por portaria do CEME.
 
-###### Art. 3.º São revogados a [Portaria n.º 19840](https://diariodarepublica.pt/dr/detalhe/portaria/19840-1963-628320), de 2 de Maio de 1963, o [Decreto-Lei n.º 45777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45777-1964-578104), de 29 de Junho de 1964, e a [Portaria n.º 21845](https://diariodarepublica.pt/dr/detalhe/portaria/21845-1966-489516), de 29 de Janeiro de 1966.
+Art. 3.º São revogados a [Portaria n.º 19840](https://diariodarepublica.pt/dr/detalhe/portaria/19840-1963-628320), de 2 de Maio de 1963, o [Decreto-Lei n.º 45777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45777-1964-578104), de 29 de Junho de 1964, e a [Portaria n.º 21845](https://diariodarepublica.pt/dr/detalhe/portaria/21845-1966-489516), de 29 de Janeiro de 1966.
 
 Visto e aprovado em Conselho da Revolução em 30 de Maio de 1979.
 
-**Promulgado em 6 de Junho de 1979.**
+Promulgado em 6 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
 
 Chefia do Serviço Cartográfico do Exército
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
 
 Resumo do pessoal (oficiais)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
 
 Resumo do pessoal (sargentos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
 
 Resumo do pessoal (praças)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
 
 Resumo do pessoal (civis)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17800/17801787.pdf)

@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1976-430471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a1087b93dff60dd36f0277cfc2f2fa75841c21012cb53c0976ce9fd3cd202fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2150482b7215538ba9de1c70e27bf513b10db5fb5748043db1560551047efd17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Achado no MAR
+- Mar Territorial
+- Património Cultural
+- Propriedade do Estado
 relationships:
 - type: amended_by
   target: pt:dre:442767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148814:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:16Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +104,13 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º, n.º 1, da Lei Constitucional n.º 5/75, de 14 de Março, e pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Conselho da Revolução e o Governo decretam e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 11.º do [Decreto-Lei n.º 416/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1970-148814), de 1 de Setembro, passam a ter, respectivamente, a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 11.º do [Decreto-Lei n.º 416/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1970-148814), de 1 de Setembro, passam a ter, respectivamente, a seguinte redacção:
 
-###### Artigo 1.º - 1. Os objectos sem dono conhecido achados no mar, no fundo do mar ou por este arrojados, incluindo despojos de naufrágios de navios, de aeronaves ou de qualquer material flutuante e fragmentos de quaisquer deles ou de suas cargas e equipamentos, que do ponto de vista científico (designadamente arqueológico), artístico ou outro tenham interesse para o Estado, constituem sua propriedade.
+Artigo 1.º - 1. Os objectos sem dono conhecido achados no mar, no fundo do mar ou por este arrojados, incluindo despojos de naufrágios de navios, de aeronaves ou de qualquer material flutuante e fragmentos de quaisquer deles ou de suas cargas e equipamentos, que do ponto de vista científico (designadamente arqueológico), artístico ou outro tenham interesse para o Estado, constituem sua propriedade.
 
 2. Equiparam-se aos objectos sem dono conhecido os que não forem recuperados pelo dono dentro do prazo de cinco anos a contar da data em que os perdeu, abandonou ou deles se separou por qualquer modo.
 
-###### Art. 11.º - 1. Aquele que não participe à autoridade marítima ter encontrado qualquer objecto que constitua um perigo iminente para a navegação será punido com multa até 10000$00, sem prejuízo de outras sanções não penais previstas na lei.
+Art. 11.º - 1. Aquele que não participe à autoridade marítima ter encontrado qualquer objecto que constitua um perigo iminente para a navegação será punido com multa até 10000$00, sem prejuízo de outras sanções não penais previstas na lei.
 
 2. Aquele que culposamente guardar ou ocultar ou não declarar às autoridades competentes, para além de oito dias, contados nos termos do artigo 2.º, objecto achado ou recuperado que lhe não pertença, ou, da mesma forma, dele dispuser ou o destruir, mutilar ou deteriorar no todo ou em parte, será punido com o cancelamento da Licença de recuperação de achados, se a tiver, e, quando o facto não integrar infracção penal mais grave, com multa até o máximo de metade do valor do objecto, mas nunca inferior a 500$00, e sem prejuízo de outras sanções não normais cominadas na lei.
 
@@ -110,12 +118,12 @@ Usando dos poderes conferidos pelo artigo 6.º, n.º 1, da Lei Constitucional n.
 
 4. As sanções previstas no presente artigo serão aplicadas, quando penais, pelo tribunal criminal, e, quando não penais, pela autoridade marítima competente.
 
-###### Art. 2.º Este diploma entra em vigor no dia da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Vítor Manuel Ribeiro Constâncio - Vítor Manuel Rodrigues Alves - António de Almeida Santos.
 
-**Promulgado em 8 de Julho de 1976.**
+Promulgado em 8 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

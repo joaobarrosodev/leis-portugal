@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ba875b03abdc294ffba6afb6cffb327e4d7ccf0ed15c95d70ff731db288b310
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c26b1f3d583e5b12e13078e76e955ce768ece6fc991b23eada10a4dd8215b58f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Geral da Polícia de Segurança Pública
+- Escola Prática de Polícia
+- Orgânica
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:663327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308691:por
+  label: "Alterada a designação da Escola Prática de Polícia, criada pelo presente diploma, pela PORT.24233.13.08.1969.MI,\
+    \ DG.IS [189] de 13.08.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24233-1969-308691
+  date: '1969-08-13'
+- type: amended_by
+  target: pt:dre:459620:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 39497, de 31-Dez 1953 DG.IS [290], com a redacção constante do\
+    \ presente diploma, pela PORT.1075/80.1980.12.18.PCM DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1075-1980-459620
+  date: '1980-12-18'
+- type: cites
+  target: pt:dre:171348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663327:por
+  label: "Revogado o art. 13º, pelo DEC LEI.37/87.1987.01.26.MAI, DR.IS [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1987-663327
+  date: '1987-01-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:28Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +142,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Comando-Geral da Polícia de Segurança Pública é constituído por um comandante-geral, coadjuvado por um chefe do estado-maior, que exerce a sua acção através de quatro repartições e dispõe ainda de chefias de serviços, conselho administrativo, formação de comando, companhias móveis de polícia e uma escola prática de polícia, conforme o organograma anexo, que baixa assinado pelo Ministro do Interior.
+Artigo 1.º O Comando-Geral da Polícia de Segurança Pública é constituído por um comandante-geral, coadjuvado por um chefe do estado-maior, que exerce a sua acção através de quatro repartições e dispõe ainda de chefias de serviços, conselho administrativo, formação de comando, companhias móveis de polícia e uma escola prática de polícia, conforme o organograma anexo, que baixa assinado pelo Ministro do Interior.
 
-###### Art. 2.º Junto do chefe do estado-maior, e na sua dependência directa, haverá uma inspecção administrativa, técnica e de instrução e um gabinete de estudos, o qual inclui a biblioteca e a propaganda, publicidade e Revista da Polícia.
+Art. 2.º Junto do chefe do estado-maior, e na sua dependência directa, haverá uma inspecção administrativa, técnica e de instrução e um gabinete de estudos, o qual inclui a biblioteca e a propaganda, publicidade e Revista da Polícia.
 
 § 1.º A inspecção administrativa assegura a inspecção dos serviços administrativos do Comando-Geral e dos diferentes comandos da Polícia de Segurança Pública e das companhias móveis de polícia.
 
@@ -117,31 +154,31 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 No gabinete de estudos prestará serviço o pessoal contratado, nos termos do artigo 77.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e o consultor jurídico do Comando-Geral.
 
-###### Art. 3.º A 1.ª Repartição, sob a chefia de funcionário civil de carreira, terá a seu cargo a administração, pessoal e contabilidade, sendo constituída pelas seguintes secções:
+Art. 3.º A 1.ª Repartição, sob a chefia de funcionário civil de carreira, terá a seu cargo a administração, pessoal e contabilidade, sendo constituída pelas seguintes secções:
 
 1.ª Secção: compete-lhe os assuntos relativos a pessoal, secretaria-geral e arquivo, bem como todos os outros não especificados nas demais secções;
 
 2.ª Secção: compete-lhe os serviços de contabilidade e fiscalização e, em especial, a requisição de todos os fundos para a Polícia de Segurança Pública, conferência de contas e organização dos respectivos processos para apreciação superior.
 
-###### Art. 4.º A 2.ª Repartição, sob a chefia de um tenente-coronel ou major de qualquer arma, terá a seu cargo os assuntos relativos a informações, justiça e contencioso, sendo constituída pelas seguintes secções:
+Art. 4.º A 2.ª Repartição, sob a chefia de um tenente-coronel ou major de qualquer arma, terá a seu cargo os assuntos relativos a informações, justiça e contencioso, sendo constituída pelas seguintes secções:
 
 1.ª Secção: compete-lhe os assuntos relativos à orientação e coordenação de pesquisas de informações, estudo e interpretação de notícias e sua difusão conveniente; e ainda a contra-informação e registos respectivos;
 
 2.ª Secção: compete-lhe os assuntos relativos à disciplina, contencioso e pareceres.
 
-###### Art. 5.ª A 3.ª Repartição, sob a chefia de um tenente-coronel ou major de qualquer arma, terá a seu cargo os assuntos relativos a operações policiais, instrução e trânsito, sendo constituída pelas seguintes secções:
+Art. 5.ª A 3.ª Repartição, sob a chefia de um tenente-coronel ou major de qualquer arma, terá a seu cargo os assuntos relativos a operações policiais, instrução e trânsito, sendo constituída pelas seguintes secções:
 
 1.ª Secção: compete-lhe os assuntos relativos à coordenação e planeamento do emprego das forças da Polícia de Segurança Pública nas operações de manutenção ou restabelecimento da ordem pública e o estudo de directivas e programas de instrução ou concursos de alistamento ou promoção;
 
 2.ª Secção: compete-lhe os assuntos relacionados com a regulação e ordenação do trânsito, incluindo a fixação de normas de procedimento, estudos e orientação da instrução dos especialistas.
 
-###### Art. 6.º A 4.ª Repartição, sob a chefia de funcionário civil de carreira, terá a seu cargo o expediente relativo à importação, exportação, comércio, detenção, manifesto, uso e porte de armas, e bem assim das substâncias explosivas, e a fiscalização das armas e explosivos, sendo constituída pelas seguintes secções:
+Art. 6.º A 4.ª Repartição, sob a chefia de funcionário civil de carreira, terá a seu cargo o expediente relativo à importação, exportação, comércio, detenção, manifesto, uso e porte de armas, e bem assim das substâncias explosivas, e a fiscalização das armas e explosivos, sendo constituída pelas seguintes secções:
 
 1.ª Secção: compete-lhe os assuntos relativos ao cadastro, manifesto e averbamento de armas e suas transferências;
 
 2.ª Secção: compete-lhe os assuntos relativos ao licenciamento de armas, munições e explosivos, sua fiscalização e consequentes serviços de transgressões e exames periciais.
 
-###### Art. 7.º As chefias de serviços compreendem:
+Art. 7.º As chefias de serviços compreendem:
 
 A. Serviços de material: compete-lhe a superintendência e responsabilidade de toda a distribuição, manutenção e movimento de carga do material de guerra e aquartelamento e das viaturas da polícia. Têm ainda a seu cargo, como actividades complementares, especìficamente, os transportes, oficinas e obras, à excepção das oficinas de manutenção do material de transmissões e electrónico;
 
@@ -151,13 +188,13 @@ C. Serviço de saúde: compete-lhe a manutenção do estado sanitário do pessoa
 
 D. Serviços sociais: compete-lhe a manutenção de um adequado nível social e de independência da corporação.
 
-###### Art. 8.º Ao conselho administrativo compete, de um modo geral, a gestão administrativa de todos os assuntos respeitantes ao Comando-Geral.
+Art. 8.º Ao conselho administrativo compete, de um modo geral, a gestão administrativa de todos os assuntos respeitantes ao Comando-Geral.
 
-###### Art. 9.º O conselho administrativo do Comando-Geral é composto por um presidente (oficial superior do Exército, da reserva), um tesoureiro (o tesoureiro do Comando-Geral) e um secretário (um dos primeiros-oficiais).
+Art. 9.º O conselho administrativo do Comando-Geral é composto por um presidente (oficial superior do Exército, da reserva), um tesoureiro (o tesoureiro do Comando-Geral) e um secretário (um dos primeiros-oficiais).
 
 § único. Na falta ou impedimento de qualquer membro do conselho administrativo a substituição incumbirá a quem o comandante-geral designar, de entre o pessoal do Comando-Geral.
 
-###### Art. 10.º Os membros do conselho administrativo, quando não façam declaração de voto em contrário da resolução tomada, são solidàriamente responsáveis:
+Art. 10.º Os membros do conselho administrativo, quando não façam declaração de voto em contrário da resolução tomada, são solidàriamente responsáveis:
 
 a) Pelas resoluções que contrariem as leis, regulamentos e disposições vigentes;
 
@@ -167,25 +204,25 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 § único. Os membros do conselho administrativo que deixarem de exercer as funções respectivas responderão pelas faltas e contravenções que porventura tenha havido durante a sua gerência, nos termos do corpo deste artigo.
 
-###### Art. 11.º A formação destina-se a enquadrar administrativamente, e para efeitos de disciplina, instrução e ordem pública, todos os agentes policiais em serviço no Comando-Geral.
+Art. 11.º A formação destina-se a enquadrar administrativamente, e para efeitos de disciplina, instrução e ordem pública, todos os agentes policiais em serviço no Comando-Geral.
 
 § único. A formação será comandada por um dos comissários-chefes, em acumulação, com a mesma competência disciplinar de comissários e chefes isolados fixada no regulamento aprovado pelo [Decreto n.º 40118](https://diariodarepublica.pt/dr/detalhe/decreto/40118-1955-540274), de 6 de Abril de 1955.
 
-###### Art. 12.º As companhias móveis de polícia são unidades de polícia especialmente instruídas para a manutenção da ordem pública e destinadas a acorrer ràpidamente a qualquer local onde for julgada necessária a sua presença.
+Art. 12.º As companhias móveis de polícia são unidades de polícia especialmente instruídas para a manutenção da ordem pública e destinadas a acorrer ràpidamente a qualquer local onde for julgada necessária a sua presença.
 
-###### Art. 13.º A escola prática de polícia destina-se a instruir os novos agentes alistados e organizar cursos e exames para promoção ou especialização dos agentes policiais.
+Art. 13.º A escola prática de polícia destina-se a instruir os novos agentes alistados e organizar cursos e exames para promoção ou especialização dos agentes policiais.
 
 Deverá ainda servir de centro experimental e orientador da instrução da corporação.
 
-###### Art. 14.º Os cargos de chefes das 2.ª e 3.ª Repartições serão providos nos termos do artigo 57.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, na redacção dada pelo [Decreto-Lei n.º 43757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43757-1961-171348), de 29 de Junho de 1961, competindo-lhes o vencimento da letra F.
+Art. 14.º Os cargos de chefes das 2.ª e 3.ª Repartições serão providos nos termos do artigo 57.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, na redacção dada pelo [Decreto-Lei n.º 43757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43757-1961-171348), de 29 de Junho de 1961, competindo-lhes o vencimento da letra F.
 
-###### Art. 15.º Os cargos de chefes das 1.ª e 4.ª Repartições serão providos por escolha de entre os chefes de secção do Comando-Geral, mediante proposta do comandante-geral, aprovada pelo Ministro do Interior.
+Art. 15.º Os cargos de chefes das 1.ª e 4.ª Repartições serão providos por escolha de entre os chefes de secção do Comando-Geral, mediante proposta do comandante-geral, aprovada pelo Ministro do Interior.
 
-###### Art. 16.º As chefias das secções das 2.ª e 3.ª Repartições serão confiadas a comissários-chefes, mediante proposta do chefe do estado-maior, aprovada pelo comandante-geral.
+Art. 16.º As chefias das secções das 2.ª e 3.ª Repartições serão confiadas a comissários-chefes, mediante proposta do chefe do estado-maior, aprovada pelo comandante-geral.
 
-###### Art. 17.º As chefias das secções das 1.ª e 4.ª Repartições serão exercidas por chefes de secção, funcionários civis de carreira do quadro geral da Polícia de Segurança Pública.
+Art. 17.º As chefias das secções das 1.ª e 4.ª Repartições serão exercidas por chefes de secção, funcionários civis de carreira do quadro geral da Polícia de Segurança Pública.
 
-###### Art. 18.º Em execução do presente decreto-lei o quadro geral da Polícia de Segurança Pública considera-se aumentado do seguinte pessoal:
+Art. 18.º Em execução do presente decreto-lei o quadro geral da Polícia de Segurança Pública considera-se aumentado do seguinte pessoal:
 
 4 chefes de repartição.
 
@@ -201,25 +238,25 @@ Deverá ainda servir de centro experimental e orientador da instrução da corpo
 
 12 guardas de 1.ª classe.
 
-###### Art. 19.º Para satisfação de necessidades prementes de serviço, o quadro geral da Polícia de Segurança Pública é também aumentado de um lugar de adjunto, com a patente de tenente, o qual se destina ao comando distrital de Santarém.
+Art. 19.º Para satisfação de necessidades prementes de serviço, o quadro geral da Polícia de Segurança Pública é também aumentado de um lugar de adjunto, com a patente de tenente, o qual se destina ao comando distrital de Santarém.
 
-###### Art. 20.º Os lugares de chefes de secção, primeiros, segundos e terceiros-oficiais e escriturários de 1.ª classe são providos, mediante concurso de provas públicas, de entre, respectivamente, os primeiros, segundos e terceiros-oficiais, escriturários de 1.ª classe e escriturários de 2.ª classe do quadro geral da Polícia de Segurança Pública, que tenham boas informações profissionais e morais e, pelo menos, três anos de serviço efectivo na classe concorrente.
+Art. 20.º Os lugares de chefes de secção, primeiros, segundos e terceiros-oficiais e escriturários de 1.ª classe são providos, mediante concurso de provas públicas, de entre, respectivamente, os primeiros, segundos e terceiros-oficiais, escriturários de 1.ª classe e escriturários de 2.ª classe do quadro geral da Polícia de Segurança Pública, que tenham boas informações profissionais e morais e, pelo menos, três anos de serviço efectivo na classe concorrente.
 
 § único. Quando o número de candidatos aprovados em concurso seja insuficiente para o preenchimento das vagas existentes ou previstas durante o prazo da sua validade, poderá ser aberto novo concurso e autorizada a admissão dos funcionários da respectiva classe concorrente que nesta tenham já um ano de serviço efectivo.
 
-###### Art. 21.º O ingresso nos lugares de escriturário de 2.ª classe far-se-á por concurso de provas públicas entre indivíduos do sexo masculino que possuam, pelo menos, a habilitação do 2.º ciclo dos liceus ou curso equivalente.
+Art. 21.º O ingresso nos lugares de escriturário de 2.ª classe far-se-á por concurso de provas públicas entre indivíduos do sexo masculino que possuam, pelo menos, a habilitação do 2.º ciclo dos liceus ou curso equivalente.
 
-###### Art. 22.º (transitório). São excepcionalmente admitidos ao concurso de promoção para a respectiva classe, pela última vez, os funcionários do quadro geral da Polícia de Segurança Pública que se encontravam impossibilitados de concorrer.
+Art. 22.º (transitório). São excepcionalmente admitidos ao concurso de promoção para a respectiva classe, pela última vez, os funcionários do quadro geral da Polícia de Segurança Pública que se encontravam impossibilitados de concorrer.
 
-###### Art. 23.º (transitório). Os escriturários de 2.ª classe de nomeação anterior à publicação do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, podem ser admitidos uma única vez ao concurso de promoção para escriturários de 1.ª classe, sem dependência de habilitações legais.
+Art. 23.º (transitório). Os escriturários de 2.ª classe de nomeação anterior à publicação do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, podem ser admitidos uma única vez ao concurso de promoção para escriturários de 1.ª classe, sem dependência de habilitações legais.
 
 § único. Os funcionários que, nos termos deste artigo, venham a ocupar lugares de escriturário de 1.ª classe não poderão ser admitidos aos concursos de promoção para terceiro-oficial sem que possuam, pelo menos, a habilitação do 2.º ciclo dos liceus ou curso equivalente.
 
-###### Art. 24.º Os encargos resultantes da execução deste decreto-lei serão satisfeitos no corrente ano económico pelas sobras verificadas nas respectivas dotações orçamentais.
+Art. 24.º Os encargos resultantes da execução deste decreto-lei serão satisfeitos no corrente ano económico pelas sobras verificadas nas respectivas dotações orçamentais.
 
-###### Art. 25.º São revogados os artigos 6.º, 9.º até ao 11.º e seu § único, 12.º, 14.º até ao 17.º, 19.º até ao 22.º, 24.º e seu § único, 25.º, 52.º, 71.º e 72.º e seus §§ únicos do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e bem assim as disposições análogas do regulamento aprovado pela [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954.
+Art. 25.º São revogados os artigos 6.º, 9.º até ao 11.º e seu § único, 12.º, 14.º até ao 17.º, 19.º até ao 22.º, 24.º e seu § único, 25.º, 52.º, 71.º e 72.º e seus §§ únicos do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e bem assim as disposições análogas do regulamento aprovado pela [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -227,6 +264,6 @@ Comando-Geral da Polícia de Segurança Pública
 
 Organograma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/07/15100/09250928.pdf))](https://files.diariodarepublica.pt/1s/1962/07/15100/09250928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/07/15100/09250928.pdf)
 
 Ministério do Interior, 4 de Julho de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

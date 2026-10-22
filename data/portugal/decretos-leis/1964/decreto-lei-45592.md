@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45592-1964-469997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45cacfdea91c99ca3a7af39ba62f1ce753895fa7cc5002bc5267c1fcb9342c2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf8f563e46d19f0ce58b64e97e2280c3dae28a40a8247445b8291940db8751e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Direitos Aduaneiros
+- Importação
+- Pauta dos Direitos de Importação
+- Tabaco
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251579:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:11Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +105,7 @@ Considerando o que estabelece o artigo 27.º desse diploma quanto à não discri
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Serão cobradas, como imposto de consumo e por quilograma, as seguintes taxas:
+Artigo 1.º Serão cobradas, como imposto de consumo e por quilograma, as seguintes taxas:
 
 1.º No continente, sobre os tabacos em folha de origem nacional:
 
@@ -106,9 +119,9 @@ Claros ou similares - 43$648.
 
 § 2.º A determinação do peso líquido tributável será feita de harmonia com o disposto no § 3.º do artigo 2.º do [Decreto n.º 41397](https://diariodarepublica.pt/dr/detalhe/decreto/41397-1957-251579), de 26 de Novembro de 1957, podendo o pagamento das respectivas taxas ser efectuado nos termos prescritos no § 4.º do mesmo artigo.
 
-###### Art. 2.º Os artigos 3.º e § único, 6.º, 8.º e § único, 9.º e 13.º do [Decreto n.º 41397](https://diariodarepublica.pt/dr/detalhe/decreto/41397-1957-251579) passam a ter a seguinte redacção:
+Art. 2.º Os artigos 3.º e § único, 6.º, 8.º e § único, 9.º e 13.º do [Decreto n.º 41397](https://diariodarepublica.pt/dr/detalhe/decreto/41397-1957-251579) passam a ter a seguinte redacção:
 
-###### Art. 3.º Os direitos aduaneiros sobre os tabacos em folha importados e as taxas que incidem sobre os de origem nacional poderão ser aumentados sempre que o preço médio, reduzido a ouro, de venda do tabaco nacional exceda em mais de 10 por cento o preço médio, também reduzido a ouro, de venda do tabaco saído das fábricas para consumo no continente no 2.º semestre do ano de 1957.
+Art. 3.º Os direitos aduaneiros sobre os tabacos em folha importados e as taxas que incidem sobre os de origem nacional poderão ser aumentados sempre que o preço médio, reduzido a ouro, de venda do tabaco nacional exceda em mais de 10 por cento o preço médio, também reduzido a ouro, de venda do tabaco saído das fábricas para consumo no continente no 2.º semestre do ano de 1957.
 
 Esse aumento será numa percentagem igual ao excesso sobre os primeiros 10 por cento da elevação que tenha havido no preço médio, reduzido a ouro, de venda do tabaco nacional.
 
@@ -116,7 +129,7 @@ Esse aumento será numa percentagem igual ao excesso sobre os primeiros 10 por c
 
 ...
 
-###### Art. 6.º Aos representantes de casas fornecedoras de tabaco em folha acreditados por essas casas é permitida a importação de amostras de tabaco em folha, mediante o pagamento dos respectivos direitos aduaneiros ou das respectivas taxas.
+Art. 6.º Aos representantes de casas fornecedoras de tabaco em folha acreditados por essas casas é permitida a importação de amostras de tabaco em folha, mediante o pagamento dos respectivos direitos aduaneiros ou das respectivas taxas.
 
 § 1.º ...
 
@@ -130,11 +143,11 @@ Esse aumento será numa percentagem igual ao excesso sobre os primeiros 10 por c
 
 ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § único. A identificação dos tabacos claros e semiclaros é da competência da Inspecção-Geral de Finanças, que deverá enviar à Alfândega de Lisboa um boletim contendo os elementos necessários ao reconhecimento dos volumes.
 
-###### Art. 9.º O pagamento dos direitos de importação ou das taxas devidas pelo tabaco em folha pode ser feito por meio de letras a três meses de prazo, sem juro, a favor da Fazenda Nacional, sacadas pelo tesoureiro da alfândega e aceites pela empresa importadora do tabaco, quando esta empresa tenha prestado um termo de fiança permanente que cubra o valor das letras emitidas, abonado por um banco, como fiador, aceite pela alfândega respectiva.
+Art. 9.º O pagamento dos direitos de importação ou das taxas devidas pelo tabaco em folha pode ser feito por meio de letras a três meses de prazo, sem juro, a favor da Fazenda Nacional, sacadas pelo tesoureiro da alfândega e aceites pela empresa importadora do tabaco, quando esta empresa tenha prestado um termo de fiança permanente que cubra o valor das letras emitidas, abonado por um banco, como fiador, aceite pela alfândega respectiva.
 
 § 1.º ...
 
@@ -144,13 +157,13 @@ Esse aumento será numa percentagem igual ao excesso sobre os primeiros 10 por c
 
 ...
 
-###### Art. 13.º A fim de manter a protecção aduaneira resultante deste regulamento, sempre que os direitos e as taxas sobre o tabaco em folha sejam aumentados, sê-lo-ão também, na mesma medida, os direitos sobre o tabaco manufacturado.
+Art. 13.º A fim de manter a protecção aduaneira resultante deste regulamento, sempre que os direitos e as taxas sobre o tabaco em folha sejam aumentados, sê-lo-ão também, na mesma medida, os direitos sobre o tabaco manufacturado.
 
 ...
 
-###### Art. 3.º Este decreto-lei começa a vigorar em 1 de Janeiro de 1964.
+Art. 3.º Este decreto-lei começa a vigorar em 1 de Janeiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

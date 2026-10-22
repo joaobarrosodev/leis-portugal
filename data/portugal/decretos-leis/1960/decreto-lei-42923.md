@@ -50,40 +50,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42923-1960-281634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7fce4730b98442d84a11f4ec6027ffaae3f80d7fda2e2d658905f45eb24e8d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b57a28549dccc44cc877c82815aca7cc1b36d530ec6e7afe2a7c44880701e75f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento das Alfândegas
 relationships:
 - type: amended_by
   target: pt:dre:498333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498333:por
+  label: "Alterado o art. 691º do Dec 31730, de 15-Dez 1941, na redacção do presente diploma, pelo DEC LEI.35/91.18.01.1991.MF,\
+    \ DR.IS-A [15] de 18.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1991-498333
+  date: '1991-01-18'
+- type: cites
+  target: pt:dre:321312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:55Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +125,21 @@ Tendo em vista os artigos 7.º do [Decreto-Lei n.º 31664](https://diariodarepub
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 15.º, 16.º, 17.º, 36.º, 37.º, 43.º, 51.º, 62.º, 93.º, 96., 98.º, 111.º, 113.º, 130.º, 135.º, 146.º, 147.º, 151.º, 154.º, 167.º e 178.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 15.º, 16.º, 17.º, 36.º, 37.º, 43.º, 51.º, 62.º, 93.º, 96., 98.º, 111.º, 113.º, 130.º, 135.º, 146.º, 147.º, 151.º, 154.º, 167.º e 178.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 4.º Ser a infracção cometida por bagageiros que prestam serviço nas gares marítimas, ferroviárias e aéreas ou nas empresas rodoviárias;
 
 ...
 
-###### Art. 16.º Verificando-se qualquer circunstância agravante, a multa será elevada para o dobro.
+Art. 16.º Verificando-se qualquer circunstância agravante, a multa será elevada para o dobro.
 
-###### Art. 17.º Quando no delito fiscal se verifique qualquer das agravantes dos n.os 1.º, 2.º e 3.º do artigo 15.º, à pena de multa acresce a de prisão até dois anos, inconvertível em multa.
+Art. 17.º Quando no delito fiscal se verifique qualquer das agravantes dos n.os 1.º, 2.º e 3.º do artigo 15.º, à pena de multa acresce a de prisão até dois anos, inconvertível em multa.
 
 ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 5.º A circulação de mercadorias que, não sendo livre, se efectue sem o processamento das competentes guias ou outros documentos requeridos, ou sem a aplicação de selos, marcas ou outros sinais legalmente prescritos. As mercadorias consideram-se em circulação desde a entrada no País ou saída do local da produção até passarem ao poder do consumidor;
 
@@ -134,7 +153,7 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 8.º Os casos como tais expressamente considerados em disposições especiais.
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 § 2.º Se não for possível determinar o quantitativo dos direitos ou impostos devidos pela mercadoria objecto de contrabando ou o seu valor, conforme os casos, impor-se-á multa de 500$00 a 100000$00.
 
@@ -144,17 +163,17 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 43.º ...
+Art. 43.º ...
 
 § 3.º Se não for possível determinar o quantitativo dos direitos ou impostos devidos pela mercadoria objecto do descaminho ou o seu valor, conforme os casos, impor-se-á multa de 200$00 a 80000$00.
 
 ...
 
-###### Art. 51.º Salvo se outra pena estiver estabelecida em lei especial, as transgressões serão punidas com multa de 100$00 a 10000$00.
+Art. 51.º Salvo se outra pena estiver estabelecida em lei especial, as transgressões serão punidas com multa de 100$00 a 10000$00.
 
 ...
 
-###### Art. 62.º ...
+Art. 62.º ...
 
 § 2.º Salvo nos casos de comprovada urgência ou em flagrante delito, é necessária prévia autorização do superior hierárquico de quem pretende fazer a diligência e a assistência de duas testemunhas.
 
@@ -164,31 +183,31 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 93.º Os funcionários técnico-aduaneiros e os agentes da fiscalização externa, bem como os elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública e da Polícia Marítima, em efectividade de serviço, quando encontrar em alguma pessoa em flagrante delito de qualquer infracção fiscal, procederão à sua imediata detenção e apreenderão todas as armas ou instrumentos que tenham servido à prática da infracção e todas as mercadorias, e respectivos meios de transporte, podendo também deter as pessoas que encontrem dentro das zonas fiscais e se lhes tornem suspeitas de qualquer infracção fiscal e deverão apreender as mercadorias que encontrem em quaisquer buscas, varejos ou inspecções, ou dentro das zonas fiscais, e presumam em contrabando, descaminho ou transgressão fiscal. De tudo lavrarão o competente auto de notícia. Igual procedimento adoptarão, na área de jurisdição das alfândegas a que se referem os n.os 1.º e 2.º do artigo 46.º da Reforma Aduaneira, os componentes da tripulação dos navios da marinha de guerra em serviço de fiscalização aduaneira na costa.
+Art. 93.º Os funcionários técnico-aduaneiros e os agentes da fiscalização externa, bem como os elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública e da Polícia Marítima, em efectividade de serviço, quando encontrar em alguma pessoa em flagrante delito de qualquer infracção fiscal, procederão à sua imediata detenção e apreenderão todas as armas ou instrumentos que tenham servido à prática da infracção e todas as mercadorias, e respectivos meios de transporte, podendo também deter as pessoas que encontrem dentro das zonas fiscais e se lhes tornem suspeitas de qualquer infracção fiscal e deverão apreender as mercadorias que encontrem em quaisquer buscas, varejos ou inspecções, ou dentro das zonas fiscais, e presumam em contrabando, descaminho ou transgressão fiscal. De tudo lavrarão o competente auto de notícia. Igual procedimento adoptarão, na área de jurisdição das alfândegas a que se referem os n.os 1.º e 2.º do artigo 46.º da Reforma Aduaneira, os componentes da tripulação dos navios da marinha de guerra em serviço de fiscalização aduaneira na costa.
 
 ...
 
-###### Art. 96.º Os funcionários técnico-aduaneiros e os agentes da fiscalização externa, bem como os elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública e da Polícia Marítima, que tenham conhecimento de quaisquer factos que em seu entender possam constituir infracção fiscal devem participá-los por escrito à autoridade fiscal competente.
+Art. 96.º Os funcionários técnico-aduaneiros e os agentes da fiscalização externa, bem como os elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública e da Polícia Marítima, que tenham conhecimento de quaisquer factos que em seu entender possam constituir infracção fiscal devem participá-los por escrito à autoridade fiscal competente.
 
 ...
 
-###### Art. 98.º ...
+Art. 98.º ...
 
 § 2.º A pessoa que, nos termos deste artigo, der à autoridade fiscal conhecimento da infracção será, para efeitos da distribuição da multa que vier a ser aplicada, considerada denunciante, tendo direito a ser contemplada nessa distribuição, independentemente de requerimento.
 
 ...
 
-###### Art. 111.º A ordem de prisão dos indiciados, se ainda não estiverem presos, quando aos delitos respectivos seja aplicável pena de prisão ou multa superior a 5000$00.
+Art. 111.º A ordem de prisão dos indiciados, se ainda não estiverem presos, quando aos delitos respectivos seja aplicável pena de prisão ou multa superior a 5000$00.
 
 ...
 
-###### Art. 113.º...
+Art. 113.º...
 
 § único. A notificação do despacho de indiciação aos arguidos a quem for arbitrada caução para aguardarem em liberdade o julgamento definitivo será feita depois de os arguidos serem presos ou haverem prestado a caução.
 
 ...
 
-###### Art. 130.º Serão capturados e mantidos sob prisão até final do julgamento, quando sejam maiores de 16 anos:
+Art. 130.º Serão capturados e mantidos sob prisão até final do julgamento, quando sejam maiores de 16 anos:
 
 ...
 
@@ -196,19 +215,19 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 135.º A caução, que só poderá ser prestada por meio de depósito, penhor, hipoteca ou fiança bancária, assegura a comparência dos arguidos perante a autoridade instrutora, sempre que para tal sejam notificados, e constitui garantia ao pagamento do imposto de justiça e selos, direitos ou impostos em dívida, multa e mais imposições em que os arguidos venham a ser condenados, subsistindo, portanto, até que esse pagamento se efectue.
+Art. 135.º A caução, que só poderá ser prestada por meio de depósito, penhor, hipoteca ou fiança bancária, assegura a comparência dos arguidos perante a autoridade instrutora, sempre que para tal sejam notificados, e constitui garantia ao pagamento do imposto de justiça e selos, direitos ou impostos em dívida, multa e mais imposições em que os arguidos venham a ser condenados, subsistindo, portanto, até que esse pagamento se efectue.
 
 ...
 
-###### Art. 146.º ...
+Art. 146.º ...
 
 § 6.º A caução, que abrangerá todas as importâncias devidas pelo requerente no processo, será prestada, nos autos, por fiança bancária, penhor, hipoteca ou depósito, no prazo de dez dias, a contar da notificação do despacho que a autorizar.
 
-###### Art. 147.º Quando os arguidos ou os seus fiadores e testemunhas abonatórias não satisfizerem a multa e mais imposições dentro dos prazos fixados no artigo 146.º, proceder-se-á à competente liquidação pela forma e ordem em seguida enumeradas:
+Art. 147.º Quando os arguidos ou os seus fiadores e testemunhas abonatórias não satisfizerem a multa e mais imposições dentro dos prazos fixados no artigo 146.º, proceder-se-á à competente liquidação pela forma e ordem em seguida enumeradas:
 
 ...
 
-###### Art. 151.º Se nem ao arguido nem ao seu fiador ou testemunhas abonatórias forem encontrados bens que possam ser penhorados, o juiz da execução assim o comunicará à autoridade instrutora, a fim de esta ordenar que o arguido seja preso pelo tempo correspondente à importância da multa em que foi condenado, à razão de 20$00 por dia, não podendo, porém, em caso algum, a prisão exceder um ano, tratando-se de transgressão fiscal, e três anos nos demais casos.
+Art. 151.º Se nem ao arguido nem ao seu fiador ou testemunhas abonatórias forem encontrados bens que possam ser penhorados, o juiz da execução assim o comunicará à autoridade instrutora, a fim de esta ordenar que o arguido seja preso pelo tempo correspondente à importância da multa em que foi condenado, à razão de 20$00 por dia, não podendo, porém, em caso algum, a prisão exceder um ano, tratando-se de transgressão fiscal, e três anos nos demais casos.
 
 § 1.º Sempre que existam bens, e realizada que seja a execução, o tempo de prisão será limitado ao número de dias que faltarem para completar a multa à razão de 20$00 por dia, levada em conta a importância dos bens executados, não podendo nunca a prisão exceder os limites marcados no corpo deste artigo.
 
@@ -218,17 +237,17 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 154.º ...
+Art. 154.º ...
 
 § 1.º Fora das áreas aludidas no corpo deste artigo, quando o valor das mercadorias ou meios de transporte não exceder 1000$00, no caso de mercadorias referidas nos §§ 3.º e 4.º do artigo 691.º do Regulamento das Alfândegas que estejam expostas à venda ou circulando no País, e 10000$00 nos demais casos, a arrematação será feita perante a autoridade que houver instruído o competente processo.
 
 ...
 
-###### Art. 167.º Não havendo lugar às penas de prisão, suspensão ou demissão, nem a multa superior a 3000$00, se, antes de o auto de notícia ou a participação serem presentes, à autoridade instrutora ou de lhe serem apresentados os arguidos, estes pagarem, além dos direitos ou impostos em dívida, uma importância igual à terça parte do máximo da multa aplicável à infracção, quando a multa for estabelecida em função dos direitos ou impostos, e à décima parte desse máximo nos outros casos, extingue-se a obrigação de cumprir a pena pecuniária. Quando, porém, a multa for superior a 3000$00 e não haja lugar às penas de prisão, suspensão ou demissão, o pagamento voluntário só poderá ser feito perante a autoridade instrutora nos oito dias seguintes ao da apresentação do auto de notícia ou participação.
+Art. 167.º Não havendo lugar às penas de prisão, suspensão ou demissão, nem a multa superior a 3000$00, se, antes de o auto de notícia ou a participação serem presentes, à autoridade instrutora ou de lhe serem apresentados os arguidos, estes pagarem, além dos direitos ou impostos em dívida, uma importância igual à terça parte do máximo da multa aplicável à infracção, quando a multa for estabelecida em função dos direitos ou impostos, e à décima parte desse máximo nos outros casos, extingue-se a obrigação de cumprir a pena pecuniária. Quando, porém, a multa for superior a 3000$00 e não haja lugar às penas de prisão, suspensão ou demissão, o pagamento voluntário só poderá ser feito perante a autoridade instrutora nos oito dias seguintes ao da apresentação do auto de notícia ou participação.
 
 ...
 
-###### Art. 178.º ...
+Art. 178.º ...
 
 § 1.º Os indiciados a quem tiver sido arbitrada caução só podem recorrer depois de presos ou de prestada a caução.
 
@@ -236,17 +255,17 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 § 3.º Do despacho que ordenar a distribuição da multa ou do produto da arrematação podem também recorrer os denunciantes, guias ou descobridores e auxiliares.
 
-###### Art. 2.º No diploma a que se refere o artigo antecedente são inseridos os seguintes artigos 45.º-A e 146.º-A.
+Art. 2.º No diploma a que se refere o artigo antecedente são inseridos os seguintes artigos 45.º-A e 146.º-A.
 
 ##### SUBSECÇÃO II-A — Da associação formada para a prática de delitos fiscais
 
-###### Art. 45.º-A Aqueles que fizerem parte de associação formada para cometer qualquer delito fiscal serão condenados em pena de prisão de três meses a três anos, inconvertível em multa.
+Art. 45.º-A Aqueles que fizerem parte de associação formada para cometer qualquer delito fiscal serão condenados em pena de prisão de três meses a três anos, inconvertível em multa.
 
 § único. Serão punidos como cúmplices os que a estas associações prestarem qualquer auxílio tendente a facilitar a execução da sua finalidade criminosa.
 
 ...
 
-###### Art. 146.º-A Poderá o Ministro das Finanças autorizar o pagamento da multa e do imposto de justiça em prestações mensais, mediante requerimento, desde que o arguido assegure prèviamente o seu pagamento por meio de depósito, penhor, hipoteca ou fiança bancária.
+Art. 146.º-A Poderá o Ministro das Finanças autorizar o pagamento da multa e do imposto de justiça em prestações mensais, mediante requerimento, desde que o arguido assegure prèviamente o seu pagamento por meio de depósito, penhor, hipoteca ou fiança bancária.
 
 § 1.º As prestações serão mensais e nunca em número superior a 36.
 
@@ -256,15 +275,15 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 § 4.º Com a primeira prestação serão pagos os encargos e os selos do processo.
 
-###### Art. 3.º É revogado o § único do artigo 155.º do Contencioso Aduaneiro.
+Art. 3.º É revogado o § único do artigo 155.º do Contencioso Aduaneiro.
 
-###### Art. 4.º Os artigos 3.º, 4.º, 50.º, 94.º e 96.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 31665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31665-1941-321313), de 22 de Novembro de 1941, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 3.º, 4.º, 50.º, 94.º e 96.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 31665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31665-1941-321313), de 22 de Novembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § único. O Ministro das Finanças exercerá as atribuições que lhe são conferidas pelo artigo seguinte, mediante simples decreto, portaria, regulamento, despacho, instrução ou acto do Governo, devendo, todavia, ser exercidas: pelo diploma fixado na lei geral as do n.º 2.º; por decreto as dos n.os 6.º a 8.º, 10.º a 13.º, 15.º e 16.º; por portaria as do n.º 3.º e por despacho as dos n.os 1.º, 4.º, 5.º, 9.º e 14.º
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 14.º Mandar suspender, durante períodos determinados e quando as circunstâncias o aconselharem, as vendas em hasta pública de mercadorias apreendidas por contrabando ou descaminho e julgados perdidas a favor da Fazenda Nacional.
 
@@ -278,7 +297,7 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 50.º ...
+Art. 50.º ...
 
 § 1.º As visitas a que se referem os n.os 1.º, 2.º e 8.º podem ser efectuadas em todas as partes das embarcações ou aeronaves.
 
@@ -286,7 +305,7 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 94.º Todos os despachos de cujas inexactas declarações ou omissões possa resultar para o Estado ou para quaisquer organismos um prejuízo não superior a 20$00 seguirão sem qualquer procedimento, não se fazendo nas fórmulas quaisquer correcções.
+Art. 94.º Todos os despachos de cujas inexactas declarações ou omissões possa resultar para o Estado ou para quaisquer organismos um prejuízo não superior a 20$00 seguirão sem qualquer procedimento, não se fazendo nas fórmulas quaisquer correcções.
 
 § 1.º Se o prejuízo encontrado for de mais de 20$00 até 200$00 ou, sendo superior a esta quantia, não exceder 10 por cento da totalidade das imposições, quando este limite não ultrapassar 1000$00, os despachos seguirão também sem qualquer procedimento, fazendo-se, porém, nas fórmulas as necessárias correcções.
 
@@ -294,23 +313,23 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 96.º As diferenças nos rendimentos cobrados pelas alfândegas, contra ou a favor do Estado ou de quaisquer organismos, não excedentes a 20$00 não serão indemnizadas.
+Art. 96.º As diferenças nos rendimentos cobrados pelas alfândegas, contra ou a favor do Estado ou de quaisquer organismos, não excedentes a 20$00 não serão indemnizadas.
 
-###### Art. 5.º Os artigos 9.º, 48.º, 245.º, 276.º, 288.º, 383.º, 653.º, 656.º, 661.º, 662.º, 663.º, 664.º, 672.º, 691.º, 706.º e 707.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Art. 5.º Os artigos 9.º, 48.º, 245.º, 276.º, 288.º, 383.º, 653.º, 656.º, 661.º, 662.º, 663.º, 664.º, 672.º, 691.º, 706.º e 707.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 11.º Declaração dos objectos a eles pertencentes que, não se destinando a comércio, estejam, contudo, sujeitos a direitos, bem como as declarações dos objectos nas mesmas condições pertencentes aos tripulantes, os quais são obrigados a entregá-las aos capitães ou mestres.
 
 ...
 
-###### Art. 48.º As mercadorias de circulação condicionada, com excepção do pescado, despachadas para trânsito, baldeação ou reexportação só podem ser carregadas em embarcações de arqueação superior a 200 t.
+Art. 48.º As mercadorias de circulação condicionada, com excepção do pescado, despachadas para trânsito, baldeação ou reexportação só podem ser carregadas em embarcações de arqueação superior a 200 t.
 
 § único. Do disposto no corpo deste artigo exceptuam-se as mercadorias despachadas em regime de reexportação para consumo, no alto mar, das tripulações dos navios de guerra e das embarcações empregadas na pesca do bacalhau.
 
 ...
 
-###### Art. 245.º ...
+Art. 245.º ...
 
 § 1.º No caso de mercadorias tributadas ad valorem deverá declarar-se, também por extenso e em algarismos, o valor fiscal das mercadorias, nos termos prescritos nas instruções preliminares das pautas, mencionando-se as quantidades e espécies das mercadorias incluídas em cada volume e o valor correspondente a cada uma dessas mercadorias.
 
@@ -318,11 +337,11 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 276.º O verificador examinará em seguida o bilhete e o duplicado, e, na presença do interessado ou do seu representante, procederá à verificação de todos os volumes, examinando o seu conteúdo, para efeito da especificação das mercadorias, nas condições prescritas na primeira parte do artigo 245.º, e, se for caso disso, nas fixadas no § 2.º do mesmo artigo.
+Art. 276.º O verificador examinará em seguida o bilhete e o duplicado, e, na presença do interessado ou do seu representante, procederá à verificação de todos os volumes, examinando o seu conteúdo, para efeito da especificação das mercadorias, nas condições prescritas na primeira parte do artigo 245.º, e, se for caso disso, nas fixadas no § 2.º do mesmo artigo.
 
 ...
 
-###### Art. 288.º ...
+Art. 288.º ...
 
 § 1.º No caso de importação de encomendas postais contendo mercadorias, designadas no § 2.º do artigo 245.º, o importador terá de apresentar no acto do despacho, em duplicado, a declaração aludida no mesmo parágrafo, ficando o original junto ao triplicado do bilhete e restituindo-se o duplicado daquela declaração ao interessado em seguida à entrega das mercadorias, depois de o verificador lhe ter aposto o número de ordem do bilhete, a data, a sua assinatura e o carimbo da casa de despacho.
 
@@ -330,7 +349,7 @@ b) De mercadorias que constituam toda a carga ou a parte principal da carga e n�
 
 ...
 
-###### Art. 383.º ...
+Art. 383.º ...
 
 § único ...
 
@@ -338,27 +357,27 @@ a) As mercadorias a que se referem os §§ 3.º e 4.º do artigo 691.º, que cir
 
 ...
 
-###### Art. 653.º A verificação, que será exarada no próprio processo, far-se-á nos termos prescritos no livro III, devendo também ser indicadas a designação comercial ou mais corrente por que são conhecidas as mercadorias, as suas qualidades e quantidades, marcas, números, cores ou outros sinais que as possam diferençar de quaisquer outras, o regime especial a que porventura estejam sujeitas, se são de importação proibida e qual a natureza da proibição, se a importação depende de autorização especial, apresentação de licenças, boletins ou outros documentos e quais, e se sobre elas incidem quaisquer taxas para os organismos económicos ou outros, cuja cobrança pertença às alfândegas.
+Art. 653.º A verificação, que será exarada no próprio processo, far-se-á nos termos prescritos no livro III, devendo também ser indicadas a designação comercial ou mais corrente por que são conhecidas as mercadorias, as suas qualidades e quantidades, marcas, números, cores ou outros sinais que as possam diferençar de quaisquer outras, o regime especial a que porventura estejam sujeitas, se são de importação proibida e qual a natureza da proibição, se a importação depende de autorização especial, apresentação de licenças, boletins ou outros documentos e quais, e se sobre elas incidem quaisquer taxas para os organismos económicos ou outros, cuja cobrança pertença às alfândegas.
 
 ...
 
-###### Art. 656.º O encarregado do armazém procederá, depois da reverificação, à formação de lotes, de harmonia com as designações comerciais, os valores dados às mercadorias e as instruções que o director da alfândega tiver por conveniente determinar, designadamente para os efeitos do disposto no § 2.º do artigo 661.º
+Art. 656.º O encarregado do armazém procederá, depois da reverificação, à formação de lotes, de harmonia com as designações comerciais, os valores dados às mercadorias e as instruções que o director da alfândega tiver por conveniente determinar, designadamente para os efeitos do disposto no § 2.º do artigo 661.º
 
 ...
 
-###### Art. 661.º ...
+Art. 661.º ...
 
 § 1.º É proibida a presença no local do leilão aos indivíduos condenados ou indiciados por delito fiscal.
 
 § 2.º O director-geral das Alfândegas determinará, de entre as mercadorias destinadas a comércio, quais as que só poderão ser arrematadas por comerciantes do ramo respectivo.
 
-###### Art. 662.º ...
+Art. 662.º ...
 
 § 3.º Salvo o caso de serem conhecidos do presidente, os arrematantes serão identificados pelo respectivo bilhete de identidade.
 
-###### Art. 663.º Enquanto são anotados os resultados a que o artigo anterior se refere, o escrivão lavrará auto de arrematação ou de não arrematação, que subscreverá depois de o submeter, no primeiro caso, à assinatura do presidente e do arrematante e, no segundo caso, à assinatura do presidente. No caso de arrematação, o auto identificará as mercadorias com a indicação da sua designação comercial ou mais corrente, as suas qualidades e respectivas quantidades, marcas, números, cores ou outros sinais que possam servir para a sua identificação.
+Art. 663.º Enquanto são anotados os resultados a que o artigo anterior se refere, o escrivão lavrará auto de arrematação ou de não arrematação, que subscreverá depois de o submeter, no primeiro caso, à assinatura do presidente e do arrematante e, no segundo caso, à assinatura do presidente. No caso de arrematação, o auto identificará as mercadorias com a indicação da sua designação comercial ou mais corrente, as suas qualidades e respectivas quantidades, marcas, números, cores ou outros sinais que possam servir para a sua identificação.
 
-###### Art. 664.º ...
+Art. 664.º ...
 
 § 1.º Na hipótese de o arrematante não efectuar, no prazo de oito dias, o pagamento, será o processo concluso ao director da alfândega para resolver.
 
@@ -370,11 +389,11 @@ a) As mercadorias a que se referem os §§ 3.º e 4.º do artigo 691.º, que cir
 
 ...
 
-###### Art. 672.º As mercadorias demoradas e abandonadas, a que aludem os n.os 1.º e 2.º do artigo 638.º, quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando como tal, para este efeito, o preço do artigo depois de despachado, se, tivesse sido importado normalmente, irão a 2.ª praça e, se nesta não obtiverem o referido lanço, serão retiradas do leilão.
+Art. 672.º As mercadorias demoradas e abandonadas, a que aludem os n.os 1.º e 2.º do artigo 638.º, quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando como tal, para este efeito, o preço do artigo depois de despachado, se, tivesse sido importado normalmente, irão a 2.ª praça e, se nesta não obtiverem o referido lanço, serão retiradas do leilão.
 
 ...
 
-###### Art. 691.º Em matéria aduaneira é livre no interior do País e isenta de formalidades a circulação de mercadorias nacionais e nacionalizadas, salvo o disposto nos parágrafos seguintes ou em qualquer lei especial. As mercadorias consideram-se em circulação desde a entrada no País, ou a saída do local da produção até passarem ao poder do consumidor.
+Art. 691.º Em matéria aduaneira é livre no interior do País e isenta de formalidades a circulação de mercadorias nacionais e nacionalizadas, salvo o disposto nos parágrafos seguintes ou em qualquer lei especial. As mercadorias consideram-se em circulação desde a entrada no País, ou a saída do local da produção até passarem ao poder do consumidor.
 
 ...
 
@@ -386,25 +405,25 @@ b) Se as referidas mercadorias não tiverem a procedência aludida na alínea an
 
 ...
 
-###### Art. 706.º ...
+Art. 706.º ...
 
 § único. Não será, todavia, exigida qualquer prova nos despachos dos separados de bagagem, nos de exportação, solicitados nos termos do n.º 2.º do artigo 421.º da reforma aludida no artigo 1.º, nos processados na fronteira (quando respeitantes a mercadorias vindas pelos caminhos ordinários), nos solicitados pelos chefes de missão, acreditados junto do Governo Português, nos de cobrança do imposto do pescado e nos processados na secção das encomendas postais quando respeitem a mercadorias que se não destinem a comércio.
 
-###### Art. 707.º A prova do pagamento da contribuição industrial devida pelos interessados em concurso para fornecimentos, assinatura e abonação de fiadores, arrematação de mercadorias submetidas a leilão, que se destinem a comércio, licença para o comércio de vendilhões, a bordo de embarcações ou em estabelecimentos nos portos e outros actos ou documentos idênticos, far-se-á sempre mediante a apresentação do competente recibo, anotando-se este facto no respectivo documento.
+Art. 707.º A prova do pagamento da contribuição industrial devida pelos interessados em concurso para fornecimentos, assinatura e abonação de fiadores, arrematação de mercadorias submetidas a leilão, que se destinem a comércio, licença para o comércio de vendilhões, a bordo de embarcações ou em estabelecimentos nos portos e outros actos ou documentos idênticos, far-se-á sempre mediante a apresentação do competente recibo, anotando-se este facto no respectivo documento.
 
 § 1.º Não será, todavia, exigida qualquer prova na concessão de licença para veículos que habitualmente passam a fronteira (quando pertençam a pessoas que não exerçam a indústria de transportes), na licitação ou arrematação de mercadorias submetidas a leilão que não se destinem a comércio, na concessão de licença para construções (quando se trate de pessoas que não exerçam indústria ou comércio) e na concessão de licença de circulação de mercadorias (incluindo gado) que transitem na zona da fronteira (quando se trate de agricultores).
 
 ...
 
-###### Art. 6.º No diploma a que se refere o artigo antecedente é inserido o artigo 11.º-A, com a seguinte redacção:
+Art. 6.º No diploma a que se refere o artigo antecedente é inserido o artigo 11.º-A, com a seguinte redacção:
 
-###### Art. 11.º-A. Os manifestos, declarações e demais documentos a que se referem os três artigos antecedentes deverão estar elaborados antes de efectuada a visita aduaneira de entrada às embarcações ou de lhes ser comunicada a livre prática.
+Art. 11.º-A. Os manifestos, declarações e demais documentos a que se referem os três artigos antecedentes deverão estar elaborados antes de efectuada a visita aduaneira de entrada às embarcações ou de lhes ser comunicada a livre prática.
 
-###### Art. 7.º São proibidas a importação e a exportação de mercadorias de circulação condicionada, com excepção do pescado, em embarcações de arqueação não superior a 200 t.
+Art. 7.º São proibidas a importação e a exportação de mercadorias de circulação condicionada, com excepção do pescado, em embarcações de arqueação não superior a 200 t.
 
-###### Art. 8.º A validade das guias de pagamento a que se refere o artigo 664.º do Regulamento das Alfândegas passadas anteriormente à vigência do presente decreto-lei também caducará no prazo de um ano, fixado no § 3.º do mesmo artigo, mas, se tiver decorrido já este prazo, ou faltar menos de seis meses para o seu termo, podem essas guias ser revalidadas por seis meses, contados da data do presente diploma e nas condições fixadas no mesmo parágrafo.
+Art. 8.º A validade das guias de pagamento a que se refere o artigo 664.º do Regulamento das Alfândegas passadas anteriormente à vigência do presente decreto-lei também caducará no prazo de um ano, fixado no § 3.º do mesmo artigo, mas, se tiver decorrido já este prazo, ou faltar menos de seis meses para o seu termo, podem essas guias ser revalidadas por seis meses, contados da data do presente diploma e nas condições fixadas no mesmo parágrafo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

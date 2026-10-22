@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1970-142103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0576e36e5fb5f73416223e1f9e7f754882de4c268c87ac4ef84d6a51697ed87e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33440f9565ceb6201cd8646ff84a3caa39650cd825475cc96e12f22466d6bc51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adega Cooperativa
+- Aguardente
+- Armazenagem
+- Casa do Douro
+- Comércio
+- Comissão de Viticultura da Região dos Vinhos Verdes
+- Definição de Competências
+- Exportação
+- Federação dos Vinicultores da Região do Douro
+- Federação dos Vinicultores do DÃO
+- Fiscalização
+- Junta Nacional dos Vinhos
+- Produto Vitivinícola
+- Títulos de Crédito
+- Vinho
+- Vitivinicultor
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:22Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +109,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Dos beneficiários e dos produtos beneficiados
 
-###### Artigo 1.º - 1. É instituído o sistema de depósito em regime de armazéns gerais para vinhos comuns, vinhos especiais e aguardentes vínicas, sujeitos a estágio para envelhecimento.
+Artigo 1.º - 1. É instituído o sistema de depósito em regime de armazéns gerais para vinhos comuns, vinhos especiais e aguardentes vínicas, sujeitos a estágio para envelhecimento.
 
 2. O sistema referido é estabelecido a favor de vinicultores, incluídas as adegas cooperativas, e de comerciantes armazenistas e exportadores, desde que lhes sejam reconhecidas condições que assegurem viabilidade à sua produção, comércio e exportação.
 
-###### Art. 2.º - 1. Só poderão beneficiar do regime previsto neste diploma e, em consequência, ser admitidos a depósito produtos com as características legais, sem qualquer tolerância, de boa prova e isentos de defeito, que ofereçam garantia de especial qualidade e possuam ou sejam susceptíveis de virem a possuir marca registada, nos termos da legislação em vigor.
+Art. 2.º - 1. Só poderão beneficiar do regime previsto neste diploma e, em consequência, ser admitidos a depósito produtos com as características legais, sem qualquer tolerância, de boa prova e isentos de defeito, que ofereçam garantia de especial qualidade e possuam ou sejam susceptíveis de virem a possuir marca registada, nos termos da legislação em vigor.
 
 2. O regime estabelecido no número anterior só poderá ser aplicado em relação a quantidades mínimas de 10000 l e 20000 l, respectivamente, para vinicultores individuais e para adegas cooperativas, armazenistas ou exportadores, quanto aos vinhos comuns, e de 5000 l para os interessados de qualquer natureza, relativamente a vinhos especiais e aguardentes.
 
@@ -105,9 +121,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO II — Dos títulos
 
-###### Art. 3.º Os títulos de crédito, constituídos pelos conhecimentos de depósito e respectivas cautelas de penhor (warrants), para os produtos depositados nos termos dos artigos anteriores serão emitidos pela Junta Nacional do Vinho, Comissão de Viticultura da Região dos Vinhos Verdes, Federação dos Vinicultores da Região do Douro (Casa do Douro) ou Federação dos Vinicultores do Dão.
+Art. 3.º Os títulos de crédito, constituídos pelos conhecimentos de depósito e respectivas cautelas de penhor (warrants), para os produtos depositados nos termos dos artigos anteriores serão emitidos pela Junta Nacional do Vinho, Comissão de Viticultura da Região dos Vinhos Verdes, Federação dos Vinicultores da Região do Douro (Casa do Douro) ou Federação dos Vinicultores do Dão.
 
-###### Art. 4.º - 1. Os títulos de crédito referidos no artigo anterior serão de modelo diferente, consoante a categoria de produtos a seguir enumerados:
+Art. 4.º - 1. Os títulos de crédito referidos no artigo anterior serão de modelo diferente, consoante a categoria de produtos a seguir enumerados:
 
 1.ª Vinhos comuns;
 
@@ -117,15 +133,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 2. Os modelos a emitir para cada uma das categorias serão uniformizados e aprovados por despacho do Secretário de Estado do Comércio, sob proposta conjunta dos organismos mencionados no artigo 3.º, devendo conter o valor para desconto.
 
-###### Art. 5.º Os conhecimentos de depósito e respectivas cautelas de penhor (warrants) emitidos pelos organismos a que se refere o artigo 3.º ficam sujeitos ao regime jurídico dos artigos 408.º e seguintes do Código Comercial e demais legislação geral aplicável na parte não directamente regulada por este decreto-lei.
+Art. 5.º Os conhecimentos de depósito e respectivas cautelas de penhor (warrants) emitidos pelos organismos a que se refere o artigo 3.º ficam sujeitos ao regime jurídico dos artigos 408.º e seguintes do Código Comercial e demais legislação geral aplicável na parte não directamente regulada por este decreto-lei.
 
-###### Art. 6.º Os conhecimentos de depósito e cautelas de penhor (warrants) são transmissíveis por endosso, conjunta ou separadamente, podendo as cautelas de penhor ser descontadas pelo organismo emitente ou por qualquer outra entidade pública ou particular.
+Art. 6.º Os conhecimentos de depósito e cautelas de penhor (warrants) são transmissíveis por endosso, conjunta ou separadamente, podendo as cautelas de penhor ser descontadas pelo organismo emitente ou por qualquer outra entidade pública ou particular.
 
-###### Art. 7.º - 1. O limite máximo do desconto dos títulos emitidos é de 75 por cento do valor atribuído pelo organismo emitente dos títulos aos produtos depositados.
+Art. 7.º - 1. O limite máximo do desconto dos títulos emitidos é de 75 por cento do valor atribuído pelo organismo emitente dos títulos aos produtos depositados.
 
 2. A determinação do valor dos produtos será feita pelo organismo emitente com base nos preços correntes no mercado para o produto em causa no estado em que é apresentado a depósito.
 
-###### Art. 8.º - 1. Os créditos representados pelos títulos de que trata o artigo 3.º, assim como todos os encargos inerentes à operação de financiamento previstos neste diploma, são garantidos pelo penhor dos produtos em regime de depósito.
+Art. 8.º - 1. Os créditos representados pelos títulos de que trata o artigo 3.º, assim como todos os encargos inerentes à operação de financiamento previstos neste diploma, são garantidos pelo penhor dos produtos em regime de depósito.
 
 2. Além da garantia consignada no n.º 1 deste artigo, poderá o organismo emitente exigir fiança idónea.
 
@@ -133,15 +149,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. É válida a cláusula aposta na cautela pela qual o depositante ou endossante renunciam ao privilégio da prévia excussão do penhor.
 
-###### Art. 9.º - 1. Os direitos que resultam da transmissão dos conhecimentos de depósito e das cautelas de penhor (warrants) não podem ser prejudicados por quaisquer actos ou contratos do depositante ou endossante relativos aos produtos depositados.
+Art. 9.º - 1. Os direitos que resultam da transmissão dos conhecimentos de depósito e das cautelas de penhor (warrants) não podem ser prejudicados por quaisquer actos ou contratos do depositante ou endossante relativos aos produtos depositados.
 
 2. A omissão ou inexactidão das declarações prestadas perante o organismo emitente sujeita o declarante às penas do crime de falsas declarações, sem prejuízo da responsabilidade civil que lhe couber nos termos do presente diploma e demais legislação aplicável.
 
-###### Art. 10.º A taxa de juro nas operações a que se refere este diploma não poderá exceder a máxima fixada para as instituições de crédito.
+Art. 10.º A taxa de juro nas operações a que se refere este diploma não poderá exceder a máxima fixada para as instituições de crédito.
 
-###### Art. 11.º Pela emissão e transmissão dos títulos não é devido imposto do selo ou qualquer outro.
+Art. 11.º Pela emissão e transmissão dos títulos não é devido imposto do selo ou qualquer outro.
 
-###### Art. 12.º - 1. O prazo de vencimento dos títulos é de doze meses.
+Art. 12.º - 1. O prazo de vencimento dos títulos é de doze meses.
 
 2. A renovação dos títulos poderá ser feita por novos períodos de doze meses, desde que aprovada pelo organismo emitente.
 
@@ -149,19 +165,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. A renovação não poderá ser autorizada sem que o devedor satisfaça a importância dos juros e demais encargos.
 
-###### Art. 13.º - 1. O pagamento das importâncias mutuadas pode ser antecipado, total ou parcialmente, tendo o devedor direito a haver os juros correspondentes às quantias antecipadamente pagas.
+Art. 13.º - 1. O pagamento das importâncias mutuadas pode ser antecipado, total ou parcialmente, tendo o devedor direito a haver os juros correspondentes às quantias antecipadamente pagas.
 
 2. A taxa de emissão é sempre devida, não havendo lugar à sua restituição em caso de antecipação de pagamento por parte do devedor.
 
-###### Art. 14.º Quando por qualquer motivo o valor do produto depositado sofra redução superior a 20 por cento, considerar-se-á a dívida vencida e o pagamento desde logo exigível se aquele valor não for reforçado dentro dos oito dias seguintes aos da notificação nesse sentido feita ao depositante, a fim de que se mantenha a margem de garantia existente no início da operação.
+Art. 14.º Quando por qualquer motivo o valor do produto depositado sofra redução superior a 20 por cento, considerar-se-á a dívida vencida e o pagamento desde logo exigível se aquele valor não for reforçado dentro dos oito dias seguintes aos da notificação nesse sentido feita ao depositante, a fim de que se mantenha a margem de garantia existente no início da operação.
 
-###### Art. 15.º É obrigatória a liquidação integral, no prazo estipulado, das operações de crédito a que os títulos hajam servido de base, devendo os mesmos ser entregues na sede do organismo emitente dentro do prazo de cinco dias, contados da data do vencimento.
+Art. 15.º É obrigatória a liquidação integral, no prazo estipulado, das operações de crédito a que os títulos hajam servido de base, devendo os mesmos ser entregues na sede do organismo emitente dentro do prazo de cinco dias, contados da data do vencimento.
 
-###### Art. 16.º - 1. A falta de pagamento da cautela de penhor (warrant) no dia do vencimento confere ao organismo emitente o direito de vender o produto a que respeita, independentemente de leilão ou de qualquer outra formalidade.
+Art. 16.º - 1. A falta de pagamento da cautela de penhor (warrant) no dia do vencimento confere ao organismo emitente o direito de vender o produto a que respeita, independentemente de leilão ou de qualquer outra formalidade.
 
 2. O organismo emitente retirará do valor da venda do produto a importância do crédito e dos encargos inerentes e restituirá a diferença, se a houver, ao portador do conhecimento de depósito.
 
-###### Art. 17.º - 1. Se o desconto da cautela de penhor (warrant) não for feito pelo organismo emitente, pode o mesmo título ser apresentado a protesto, por falta de pagamento, nos dois dias úteis imediatos ao do vencimento, ficando o portador e o notário obrigados a comunicar imediatamente o facto ao referido organismo.
+Art. 17.º - 1. Se o desconto da cautela de penhor (warrant) não for feito pelo organismo emitente, pode o mesmo título ser apresentado a protesto, por falta de pagamento, nos dois dias úteis imediatos ao do vencimento, ficando o portador e o notário obrigados a comunicar imediatamente o facto ao referido organismo.
 
 2. Se o protesto se fizer em tempo competente, o organismo emitente pagará a importância do crédito e procederá em seguida nos termos do artigo anterior.
 
@@ -169,17 +185,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO III — Do depósito de produtos
 
-###### Art. 18.º - 1. O depósito de vinhos ou aguardentes vínicas em adega ou armazém do organismo emitente, do depositante ou de terceiro considera-se feito em regime de armazéns gerais.
+Art. 18.º - 1. O depósito de vinhos ou aguardentes vínicas em adega ou armazém do organismo emitente, do depositante ou de terceiro considera-se feito em regime de armazéns gerais.
 
 2. As adegas ou os armazéns destinados à recolha dos produtos, segundo o regime instituído pelo presente diploma, deverão obedecer às condições de segurança e apetrechamento que forem definidas por despacho do Secretário de Estado do Comércio, tendo em vista a necessidade de garantir os produtos depositados contra extravio e deterioração.
 
-###### Art. 19.º Quando se trate de produto recolhido em adega ou armazém do depositante ou de terceiro, fica qualquer destes havido como fiel depositário, para todos os efeitos legais, subsistindo a sua responsabilidade, ainda que o organismo emitente venda ou adquira o vinho ou a aguardente vínica, até ao momento da sua efectiva entrega ao comprador ou ao organismo.
+Art. 19.º Quando se trate de produto recolhido em adega ou armazém do depositante ou de terceiro, fica qualquer destes havido como fiel depositário, para todos os efeitos legais, subsistindo a sua responsabilidade, ainda que o organismo emitente venda ou adquira o vinho ou a aguardente vínica, até ao momento da sua efectiva entrega ao comprador ou ao organismo.
 
-###### Art. 20.º - 1. O vinicultor, a adega cooperativa ou o comerciante que pretenda depositar produtos, para efeito de lhe ser concedido o correspondente crédito, enviará ao organismo emitente proposta devidamente preenchida, de modelo a fornecer pelo organismo, na qual indicará o volume, em litros, do produto, bem como o lugar onde o mesmo se encontra, e fará a declaração, sob compromisso de honra, de que o referido produto se não acha por forma alguma alienado, nem é objecto de qualquer garantia real.
+Art. 20.º - 1. O vinicultor, a adega cooperativa ou o comerciante que pretenda depositar produtos, para efeito de lhe ser concedido o correspondente crédito, enviará ao organismo emitente proposta devidamente preenchida, de modelo a fornecer pelo organismo, na qual indicará o volume, em litros, do produto, bem como o lugar onde o mesmo se encontra, e fará a declaração, sob compromisso de honra, de que o referido produto se não acha por forma alguma alienado, nem é objecto de qualquer garantia real.
 
 2. Os vinicultores enviarão a sua proposta por intermédio do grémio da lavoura ou, no caso da Região do Douro, do Grémio de Vinicultores, a que pertencem; as adegas cooperativas, bem como os comerciantes, entregarão as respectivas propostas directamente no organismo emitente.
 
-###### Art. 21.º - 1. Recebida a proposta, o organismo respectivo mandará imediatamente proceder, na presença do interessado, à colheita de amostras, em triplicado, das quais ficará uma em poder do proponente, outra no arquivo do organismo e a terceira será entregue aos seus serviços técnicos, que procederão à análise laboratorial necessária e emissão do competente boletim com as indicações das características do produto, nomeadamente a prova e o valor qualitativo.
+Art. 21.º - 1. Recebida a proposta, o organismo respectivo mandará imediatamente proceder, na presença do interessado, à colheita de amostras, em triplicado, das quais ficará uma em poder do proponente, outra no arquivo do organismo e a terceira será entregue aos seus serviços técnicos, que procederão à análise laboratorial necessária e emissão do competente boletim com as indicações das características do produto, nomeadamente a prova e o valor qualitativo.
 
 2. Feita a colheita de amostras, proceder-se-á à imposição de selos nos depósitos, tonéis ou quaisquer outras vasilhas donde foram colhidas, lavrando-se o respectivo auto.
 
@@ -189,15 +205,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Da recusa de aceitação do depósito, que será fundamentada, haverá recurso para o Secretário de Estado do Comércio.
 
-###### Art. 22.º - 1. Tendo o organismo deliberado aceitar o depósito, proceder-se-á a confronto do produto com as amostras, as quais, se a aceitação se tornar definitiva, receberão o número do respectivo depósito.
+Art. 22.º - 1. Tendo o organismo deliberado aceitar o depósito, proceder-se-á a confronto do produto com as amostras, as quais, se a aceitação se tornar definitiva, receberão o número do respectivo depósito.
 
 2. Se pelo confronto se verificar alteração qualitativa, será o pedido de depósito indeferido, ficando o proponente, em caso de dolo ou má fé, inibido, por prazo a fixar pelo organismo, de usufruir de qualquer forma de financiamento ou crédito da parte do mesmo organismo.
 
 3. Da deliberação do organismo que indeferir o pedido de depósito cabe recurso para o Secretário de Estado do Comércio.
 
-###### Art. 23.º Os depósitos definitivamente aceites serão considerados pela ordem das propostas.
+Art. 23.º Os depósitos definitivamente aceites serão considerados pela ordem das propostas.
 
-###### Art. 24.º - 1. O organismo emitente estabelecerá um sistema de contas correntes do vinho ou aguardente vínica a depositar em nome do proponente.
+Art. 24.º - 1. O organismo emitente estabelecerá um sistema de contas correntes do vinho ou aguardente vínica a depositar em nome do proponente.
 
 2. A simples existência em conta corrente de determinada litragem constitui presunção legal de que o produto se encontra livre de qualquer ónus.
 
@@ -207,11 +223,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. O organismo procederá à transferência solicitada no prazo máximo de quarenta e oito horas, mas poderá sobrestar na mesma até que o vendedor, por si ou por outrem em seu nome, dê inteiro cumprimento a todas as obrigações resultantes do depósito e da operação ou operações de crédito realizadas, procedendo de igual modo quando haja rotura e derrame de vasilhas.
 
-###### Art. 25.º - 1. Para cada depósito aceite em armazém do organismo emitente, do depositante ou de terceiro será preenchido, em duplicado, um boletim de entrada, assinado e autenticado pelo representante legal do organismo, ficando o original em poder do mesmo organismo e sendo o outro exemplar entregue ao depositante.
+Art. 25.º - 1. Para cada depósito aceite em armazém do organismo emitente, do depositante ou de terceiro será preenchido, em duplicado, um boletim de entrada, assinado e autenticado pelo representante legal do organismo, ficando o original em poder do mesmo organismo e sendo o outro exemplar entregue ao depositante.
 
 2. O conhecimento de depósito e respectiva cautela de penhor (warrant) serão entregues ao depositante em troca do exemplar do boletim de entrada.
 
-###### Art. 26.º - 1. O depósito dos produtos em armazém ou armazéns do interessado ou de terceiros não terá começo de execução sem que o depositante efectue prèviamente o seguro do imóvel ou imóveis e dos produtos neles depositados contra incêndio ou quaisquer outros riscos, pelo prazo de vencimento dos respectivos título ou títulos ou pelo da sua renovação, devendo a apólice ser entregue ao organismo emitente, para efeitos de registo.
+Art. 26.º - 1. O depósito dos produtos em armazém ou armazéns do interessado ou de terceiros não terá começo de execução sem que o depositante efectue prèviamente o seguro do imóvel ou imóveis e dos produtos neles depositados contra incêndio ou quaisquer outros riscos, pelo prazo de vencimento dos respectivos título ou títulos ou pelo da sua renovação, devendo a apólice ser entregue ao organismo emitente, para efeitos de registo.
 
 2. O organismo emitente procederá, por conta do interessado, ao seguro contra os riscos e pelo prazo referido no n.º 1 deste artigo dos produtos depositados nos seus armazéns.
 
@@ -219,25 +235,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. No caso de o depositante possuir já um seguro conjunto dos produtos a beneficiar do financiamento e de outros, deverá ser lavrada acta adicional em que se faça a discriminação dos produtos, especificando aqueles que se encontram depositados em regime de armazéns gerais.
 
-###### Art. 27.º - 1. O portador do conhecimento de depósito e respectiva cautela de penhor (warrant) que pretenda dispor do produto solicitará ao organismo mutuante a passagem de guia para receber o que for devido pelo depósito e entregará o documento comprovativo da importância recebida, bem como o conhecimento de depósito e a cautela de penhor (warrant).
+Art. 27.º - 1. O portador do conhecimento de depósito e respectiva cautela de penhor (warrant) que pretenda dispor do produto solicitará ao organismo mutuante a passagem de guia para receber o que for devido pelo depósito e entregará o documento comprovativo da importância recebida, bem como o conhecimento de depósito e a cautela de penhor (warrant).
 
 2. Se o portador do conhecimento de depósito e respectiva cautela de penhor (warrant) pretender dispor só de parte do produto, far-se-á naqueles títulos o lançamento dessa quantidade, autenticando-o com a assinatura do representante legal do organismo.
 
-###### Art. 28.º - 1. Se o portador de conhecimento de depósito pretender dispor do produto sem apresentação da cautela de penhor (warrant), será exigido documento comprovativo de ter sido depositada a importância do crédito garantido pelo penhor do produto.
+Art. 28.º - 1. Se o portador de conhecimento de depósito pretender dispor do produto sem apresentação da cautela de penhor (warrant), será exigido documento comprovativo de ter sido depositada a importância do crédito garantido pelo penhor do produto.
 
 2. Se no caso deste artigo o portador do conhecimento de depósito pretender dispor só de parte do produto, poderá fazê-lo se o organismo respectivo a isso o autorizar, devendo então proceder-se no conhecimento de depósito ao lançamento dessa parte do produto e da importância depositada, que será competentemente assinado pelo representante legal do organismo.
 
-###### Art. 29.º - 1. Se a cautela de penhor tiver sido endossada para garantia de um crédito que admita antecipação total ou parcial de pagamento, as quantias recebidas nos termos do artigo anterior poderão ser pagas pelo organismo respectivo no lugar designado para esse pagamento, devendo ser exigido do depositante o prémio de transferência, se o houver.
+Art. 29.º - 1. Se a cautela de penhor tiver sido endossada para garantia de um crédito que admita antecipação total ou parcial de pagamento, as quantias recebidas nos termos do artigo anterior poderão ser pagas pelo organismo respectivo no lugar designado para esse pagamento, devendo ser exigido do depositante o prémio de transferência, se o houver.
 
 2. O pagamento será averbado e rubricado na cautela de penhor por quem o fizer.
 
-###### Art. 30.º - 1. A entidade a favor de quem haja sido emitido o título será responsável por qualquer diferença que venha a verificar-se entre o produto da venda realizada pelo organismo emitente e o valor representado pelo título, acrescido dos juros de mora, despesas de protesto e quaisquer outras resultantes do não cumprimento da obrigação, e os saldos de vinhos ou aguardentes vínicas fora do regime de depósito constituirão legalmente perante o organismo respectivo garantia subsidiária da responsabilidade contraída pelo depositante, com a natureza de privilégio mobiliário especial.
+Art. 30.º - 1. A entidade a favor de quem haja sido emitido o título será responsável por qualquer diferença que venha a verificar-se entre o produto da venda realizada pelo organismo emitente e o valor representado pelo título, acrescido dos juros de mora, despesas de protesto e quaisquer outras resultantes do não cumprimento da obrigação, e os saldos de vinhos ou aguardentes vínicas fora do regime de depósito constituirão legalmente perante o organismo respectivo garantia subsidiária da responsabilidade contraída pelo depositante, com a natureza de privilégio mobiliário especial.
 
 2. O disposto neste artigo sobre a constituição de garantia subsidiária é aplicável mesmo em caso de rotura e derrame da vasilha em que se contenham o vinho ou aguardente vínica empenhados.
 
-###### Art. 31.º O organismo emitente poderá autorizar o manejo de produtos depositados, quando requerido pelo portador do conhecimento de depósito, nas condições que entender convenientes e sob fiscalização de um representante seu.
+Art. 31.º O organismo emitente poderá autorizar o manejo de produtos depositados, quando requerido pelo portador do conhecimento de depósito, nas condições que entender convenientes e sob fiscalização de um representante seu.
 
-###### Art. 32.º - 1. Sem prejuízo da responsabilidade pela conservação da qualidade do produto que em qualquer circunstância cabe ao portador do conhecimento de depósito, poderá o organismo emitente notificá-lo, sempre que o julgue necessário, para, no prazo que lhe for fixado, proceder aos necessários tratamentos do produto ou produtos depositados, a fim de ser mantida a qualidade inicialmente certificada nos títulos.
+Art. 32.º - 1. Sem prejuízo da responsabilidade pela conservação da qualidade do produto que em qualquer circunstância cabe ao portador do conhecimento de depósito, poderá o organismo emitente notificá-lo, sempre que o julgue necessário, para, no prazo que lhe for fixado, proceder aos necessários tratamentos do produto ou produtos depositados, a fim de ser mantida a qualidade inicialmente certificada nos títulos.
 
 2. Na falta de cumprimento por parte do notificado, ter-se-á por nulo o depósito, e, se houver dívida contraída, considerar-se-á esta desde logo exigível, sem desconto nos juros, nem nas outras despesas da operação.
 
@@ -245,8 +261,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 20 de Abril de 1970**
+Promulgado em 20 de Abril de 1970
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

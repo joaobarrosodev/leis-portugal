@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10600/10151016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1977-251469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b74e152f4408c34770c883f72c62616bf57e9300189a3307880c5c86a17fadc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32e3a0732a08681c4797c46162efd0e7fb1695262f3e2fb5092e672e55987315
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Estabelecimentos Fabris do Exército
+- Informática
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:327660:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234077:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:253410:por
+  label: Rectificado pela DECL.DD8346.11.06.1977.CR, DR.IS [134] de 11.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-253410
+  date: '1977-06-11'
+- type: repealed_by
+  target: pt:dre:327660:por
+  label: Revogado pelo(a) Decreto-Lei n.º 38/85 - Diário da República n.º 35/1985, Série I de 1985-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1985-327660
+  date: '1985-02-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:43Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +114,11 @@ Considerando que é possível assegurar a coordenação das actividades de infor
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O Serviço de Informática do Exército, criado pelo [Decreto-Lei n.º 329-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1975-234077), de 30 de Junho, será constituído com base nos recursos em pessoal, equipamento e instalações do Serviço Mecanográfico do Exército (SME).
+Artigo 1.º - 1. O Serviço de Informática do Exército, criado pelo [Decreto-Lei n.º 329-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1975-234077), de 30 de Junho, será constituído com base nos recursos em pessoal, equipamento e instalações do Serviço Mecanográfico do Exército (SME).
 
 2. Por proposta do director do SIE será extinto o SME logo que concluídos os estudos para activação daquele serviço.
 
-###### Art. 2.º O Gabinete de Administração Conjunto dos Estabelecimentos Fabris do Exército (GACEFE) passa a designar-se Centro de Informática dos Estabelecimentos Fabris do Exército (CIEFE), competindo-lhe:
+Art. 2.º O Gabinete de Administração Conjunto dos Estabelecimentos Fabris do Exército (GACEFE) passa a designar-se Centro de Informática dos Estabelecimentos Fabris do Exército (CIEFE), competindo-lhe:
 
 a) Apoiar, incentivar e promover a definição de uma política de informática para os Estabelecimentos Fabris do Exército (EFE);
 
@@ -114,11 +132,11 @@ e) Executar todas as operações decorrentes da aplicação da política de info
 
 f) Representar os EFE junto do SIE, nas actividades relativas à informática.
 
-###### Art. 3.º - 1. O CIEFE será integralmente custeado pelos próprios EFE, incluindo os encargos com o pessoal militar que nele presta serviço.
+Art. 3.º - 1. O CIEFE será integralmente custeado pelos próprios EFE, incluindo os encargos com o pessoal militar que nele presta serviço.
 
 2. O CIEFE terá um quadro orgânico e regulamento a fixar por diploma especial, dispondo de autonomia administrativa e dependendo hierarquicamente do Quartel-Mestre-General e tecnicamente do SIE.
 
-###### Art. 4.º A dependência técnica do CIEFE tem por objectivo garantir que no campo da informática, no Exército, não sejam tomadas opções técnicas diferenciadas que comprometam:
+Art. 4.º A dependência técnica do CIEFE tem por objectivo garantir que no campo da informática, no Exército, não sejam tomadas opções técnicas diferenciadas que comprometam:
 
 a) A compatibilidade dos computadores de que o Exército disponha;
 
@@ -130,14 +148,14 @@ d) A intermutabilidade de tarefas que são comuns a todo o Exército;
 
 e) A flexibilidade necessária para a adopção futura de outra solução para a informática no Exército, que venha a ser imposta por circunstâncias imprevisíveis presentemente.
 
-###### Art. 5.º O general Chefe do Estado-Maior do Exército pode determinar a troca de equipamento, tarefas informáticas e a permuta temporária de técnicos entre o SIE e o CIEFE, depois de devidamente salvaguardados os interesses económicos, financeiros e outros que ambos representam.
+Art. 5.º O general Chefe do Estado-Maior do Exército pode determinar a troca de equipamento, tarefas informáticas e a permuta temporária de técnicos entre o SIE e o CIEFE, depois de devidamente salvaguardados os interesses económicos, financeiros e outros que ambos representam.
 
-###### Art. 6.º Ficam revogados os n.os 2 e 3 do artigo 12.º do [Decreto-Lei n.º 329-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1975-234077), de 30 de Junho.
+Art. 6.º Ficam revogados os n.os 2 e 3 do artigo 12.º do [Decreto-Lei n.º 329-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1975-234077), de 30 de Junho.
 
 Visto e aprovado em Conselho da Revolução em 15 de Abril de 1977.
 
-**Promulgado em 9 de Abril de 1977.**
+Promulgado em 9 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

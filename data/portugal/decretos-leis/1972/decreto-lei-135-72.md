@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1972-679984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0741011900fcc9436956ffe1e7187a790569c60b83f6d2d00f45cdcf5e081f0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0413b22b83c03aea10bd5dcc09ec8654466a86d155b8da2c96fecf17fa7987d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa
+- Marinha Mercante
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:221306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221306:por
+  label: "Revogado, com excepção o Capítulo V, pelo DEC LEI.414/86.15.12.1986.MOPTC, DR.IS [287] de 15.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1986-221306
+  date: '1986-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:18Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +134,11 @@ I
 
 Empresas nacionais de navegação marítima
 
-###### Artigo 1.º - 1. São consideradas nacionais as empresas de navegação constituídas em território português, com sede e administração principal no mesmo território, com 60 por cento da maioria portuguesa no capital, maioria portuguesa na administração, direcção ou gerência e que satisfaçam os demais requisitos previstos no artigo 22.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
+Artigo 1.º - 1. São consideradas nacionais as empresas de navegação constituídas em território português, com sede e administração principal no mesmo território, com 60 por cento da maioria portuguesa no capital, maioria portuguesa na administração, direcção ou gerência e que satisfaçam os demais requisitos previstos no artigo 22.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
 2. Para se garantir a maioria portuguesa no capital, prevista no n.º 1 deste artigo, aplicar-se-ão as disposições das bases III e IV da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943.
 
-###### Art. 2.º - 1. As assembleias gerais das sociedades anónimas ou em comandita por acções, sujeitas às condições do artigo anterior, serão constituídas por accionistas que hajam depositado as suas acções e satisfaçam às demais condições prescritas na lei e nos estatutos.
+Art. 2.º - 1. As assembleias gerais das sociedades anónimas ou em comandita por acções, sujeitas às condições do artigo anterior, serão constituídas por accionistas que hajam depositado as suas acções e satisfaçam às demais condições prescritas na lei e nos estatutos.
 
 2. O depósito das acções será feito na sede das referidas sociedades até trinta dias antes do dia marcado para a assembleia geral, não podendo ser admitidas ou contadas acções com endosso em branco.
 
@@ -122,15 +146,15 @@ II
 
 Empresas que podem recorrer ao Fundo de Renovação da Marinha Mercante
 
-###### Art. 3.º Só as empresas de navegação que satisfaçam aos requisitos do artigo 1.º do presente decreto-lei poderão recorrer ao Fundo de Renovação da Marinha Mercante.
+Art. 3.º Só as empresas de navegação que satisfaçam aos requisitos do artigo 1.º do presente decreto-lei poderão recorrer ao Fundo de Renovação da Marinha Mercante.
 
-###### Art. 4.º As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante são obrigadas a submeter-se a normas uniformes de contabilização, a estabelecer em portaria pelos Ministros das Finanças e da Marinha.
+Art. 4.º As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante são obrigadas a submeter-se a normas uniformes de contabilização, a estabelecer em portaria pelos Ministros das Finanças e da Marinha.
 
-###### Art. 5.º As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante não podem conceder remuneração ao capital sem que tenham satisfeito os seus encargos com o referido Fundo e sem que tenham constituído o fundo de renovação da frota, de que trata o artigo 11.º, e, na medida em que a isso tenham sido obrigadas, o fundo de expansão da frota, previsto no artigo 17.º
+Art. 5.º As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante não podem conceder remuneração ao capital sem que tenham satisfeito os seus encargos com o referido Fundo e sem que tenham constituído o fundo de renovação da frota, de que trata o artigo 11.º, e, na medida em que a isso tenham sido obrigadas, o fundo de expansão da frota, previsto no artigo 17.º
 
-###### Art. 6.º Nas empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante o número de administradores, directores ou gerentes não pode exceder cinco na sua totalidade.
+Art. 6.º Nas empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante o número de administradores, directores ou gerentes não pode exceder cinco na sua totalidade.
 
-###### Art. 7.º - 1. As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante estão sujeitas à fiscalização do Estado, por intermédio de delegados do Governo.
+Art. 7.º - 1. As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante estão sujeitas à fiscalização do Estado, por intermédio de delegados do Governo.
 
 2. Aplicam-se aos delegados do Governo junto das empresas de navegação referidas no número anterior, mesmo que não sejam de interesse nacional, as disposições estabelecidas para os delegados do Governo junto de empresas de navegação de interesse nacional.
 
@@ -138,27 +162,27 @@ III
 
 Empresas de navegação de interesse nacional
 
-###### Art. 8.º - 1. O Ministro da Marinha poderá declarar, por despacho, de interesse nacional as empresas nacionais de navegação que assegurem a satisfação dos interesses fundamentais da Nação.
+Art. 8.º - 1. O Ministro da Marinha poderá declarar, por despacho, de interesse nacional as empresas nacionais de navegação que assegurem a satisfação dos interesses fundamentais da Nação.
 
 2. Também por despacho, pode o Ministro da Marinha declarar como tendo deixado de ser de interesse nacional as empresas de navegação que tenham cessado de assegurar a satisfação dos interesses fundamentais da Nação.
 
-###### Art. 9.º Às deliberações das empresas de navegação de interesse nacional é aplicável o disposto no artigo 1.º e seu § 2.º e no artigo 2.º do [Decreto-Lei n.º 32012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32012-1942-313587), de 12 de Maio de 1942.
+Art. 9.º Às deliberações das empresas de navegação de interesse nacional é aplicável o disposto no artigo 1.º e seu § 2.º e no artigo 2.º do [Decreto-Lei n.º 32012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32012-1942-313587), de 12 de Maio de 1942.
 
-###### Art. 10.º Os aumentos de capital social das empresas de navegação de interesse nacional que recorram ao Fundo de Renovação da Marinha Mercante, quando resultantes de reavaliação do activo, dependem de verificação de que os fundos de renovação da frota e de expansão da frota garantem satisfatòriamente a regular substituição dos navios dentro dos períodos de amortização estabelecidos no Fundo de Renovação da Marinha Mercante.
+Art. 10.º Os aumentos de capital social das empresas de navegação de interesse nacional que recorram ao Fundo de Renovação da Marinha Mercante, quando resultantes de reavaliação do activo, dependem de verificação de que os fundos de renovação da frota e de expansão da frota garantem satisfatòriamente a regular substituição dos navios dentro dos períodos de amortização estabelecidos no Fundo de Renovação da Marinha Mercante.
 
 IV
 
 Fundos de renovação e de expansão da frota
 
-###### Art. 11.º As empresas de navegação de interesse nacional são obrigadas a constituir um fundo de renovação da frota, destinado a assegurar a liquidez necessária à oportuna construção, reconversão ou aquisição de navios, novos ou usados, dentro do estabelecido nos planos de reapetrechamento das frotas ou por força de despacho do Ministro da Marinha.
+Art. 11.º As empresas de navegação de interesse nacional são obrigadas a constituir um fundo de renovação da frota, destinado a assegurar a liquidez necessária à oportuna construção, reconversão ou aquisição de navios, novos ou usados, dentro do estabelecido nos planos de reapetrechamento das frotas ou por força de despacho do Ministro da Marinha.
 
-###### Art. 12.º - 1. O fundo de renovação da frota é inscrito no activo do balanço numa conta com essa designação e será constituído por títulos de dívida pública ou outros com garantia do Estado ou privados de reconhecido interesse, estáveis e de fácil realização, ou depósitos em numerário.
+Art. 12.º - 1. O fundo de renovação da frota é inscrito no activo do balanço numa conta com essa designação e será constituído por títulos de dívida pública ou outros com garantia do Estado ou privados de reconhecido interesse, estáveis e de fácil realização, ou depósitos em numerário.
 
 2. Em circunstâncias excepcionais, devidamente justificadas, pode o Ministro da Marinha, ouvido o Ministro das Finanças, autorizar que na constituição do fundo de renovação da frota sejam incluídos valores activos de natureza diferente da indicada no n.º 1 deste artigo.
 
 3. As empresas de navegação sujeitas à obrigatoriedade da constituição do fundo de renovação da frota darão conhecimento à Junta Nacional da Marinha Mercante, até 31 de Março de cada ano, da natureza dos valores activos que integram o referido fundo.
 
-###### Art. 13.º - 1. São levadas a débito do fundo de renovação da frota as importâncias correspondentes:
+Art. 13.º - 1. São levadas a débito do fundo de renovação da frota as importâncias correspondentes:
 
 a) Às amortizações anualmente feitas em relação a cada um dos navios da frota;
 
@@ -172,7 +196,7 @@ a) Aos pagamentos efectuados pela construção, reconversão ou aquisição de n
 
 b) Às amortizações das contas dos credores por financiamentos utilizados na construção, reconversão ou aquisição de navios.
 
-###### Art. 14.º Para efeitos do disposto neste diploma, considera-se, em relação a cada navio, como:
+Art. 14.º Para efeitos do disposto neste diploma, considera-se, em relação a cada navio, como:
 
 a) Custo de aquisição, o preço contratual acrescido do valor dos extras incorporados no navio de forma a torná-lo apto a navegar em condições de segurança, bem como das despesas de nacionalização, de registo e outras necessárias à sua entrada em exploração;
 
@@ -180,27 +204,27 @@ b) Custo de construção, o preço contratual acrescido do valor dos extras inco
 
 c) Custo de reconversão, os encargos inerentes a um acréscimo significativo da capacidade económica do navio.
 
-###### Art. 15.º As taxas anuais mínimas de amortização a praticar pelas empresas de navegação em relação a cada um dos navios das suas frotas serão fixadas por portaria do Ministro da Marinha, sem prejuízo das previstas na lei para efeitos de liquidação da contribuição industrial.
+Art. 15.º As taxas anuais mínimas de amortização a praticar pelas empresas de navegação em relação a cada um dos navios das suas frotas serão fixadas por portaria do Ministro da Marinha, sem prejuízo das previstas na lei para efeitos de liquidação da contribuição industrial.
 
-###### Art. 16.º - 1. As empresas de navegação de interesse nacional deverão reter, em cada exercício, uma parcela dos seus lucros, quer provenientes da exploração, quer derivados de mais-valias, constituindo uma conta de «Reserva para expansão da frota».
+Art. 16.º - 1. As empresas de navegação de interesse nacional deverão reter, em cada exercício, uma parcela dos seus lucros, quer provenientes da exploração, quer derivados de mais-valias, constituindo uma conta de «Reserva para expansão da frota».
 
 2. Para cumprimento do disposto no n.º 1 deste artigo, poderá o Ministro da Marinha, ouvida a Junta Nacional da Marinha Mercante, fixar até 31 de Outubro de cada ano a percentagem mínima a aplicar sobre os lucros líquidos a apurar nesse exercício.
 
 3. Aos lucros retidos nas condições estabelecidas neste artigo que sejam reinvestidos em navios, novos ou usados, na execução de planos de reapetrechamento aprovados pelo Ministro da Marinha e observado o disposto no artigo 18.º, é aplicável o disposto no artigo 44.º do Código da Contribuição Industrial.
 
-###### Art. 17.º Quando, por iniciativa das empresas ou determinação do Ministro da Marinha, seja criada a conta «Reserva para expansão da frota», de que trata o artigo anterior, será simultâneamente criado um fundo de expansão da frota, a inscrever no activo do balanço numa conta com essa designação e constituído por valores activos da natureza dos referidos no artigo 12.º Esse fundo será debitado em quantitativos correspondentes a pelo menos metade ou à totalidade dos créditos efectuados na referida conta de reserva, consoante esses créditos resultem de lucros decorrentes da exploração normal ou da realização de mais-valias.
+Art. 17.º Quando, por iniciativa das empresas ou determinação do Ministro da Marinha, seja criada a conta «Reserva para expansão da frota», de que trata o artigo anterior, será simultâneamente criado um fundo de expansão da frota, a inscrever no activo do balanço numa conta com essa designação e constituído por valores activos da natureza dos referidos no artigo 12.º Esse fundo será debitado em quantitativos correspondentes a pelo menos metade ou à totalidade dos créditos efectuados na referida conta de reserva, consoante esses créditos resultem de lucros decorrentes da exploração normal ou da realização de mais-valias.
 
-###### Art. 18.º - 1. O fundo de renovação da frota e o fundo de expansão da frota só poderão ser aplicados na construção, aquisição ou reconversão de navios que satisfaçam às características comerciais e técnicas aprovadas pelo Ministro da Marinha, ouvidas a Direcção-Geral dos Serviços de Fomento Marítimo e a Junta Nacional da Marinha Mercante, e às características militares também aprovadas pelo Ministro da Marinha, ouvido o Estado-Maior da Armada.
+Art. 18.º - 1. O fundo de renovação da frota e o fundo de expansão da frota só poderão ser aplicados na construção, aquisição ou reconversão de navios que satisfaçam às características comerciais e técnicas aprovadas pelo Ministro da Marinha, ouvidas a Direcção-Geral dos Serviços de Fomento Marítimo e a Junta Nacional da Marinha Mercante, e às características militares também aprovadas pelo Ministro da Marinha, ouvido o Estado-Maior da Armada.
 
 2. A mobilização de qualquer destes fundos carece de prévia autorização do Ministro da Marinha.
 
-###### Art. 19.º O Ministro da Marinha, ouvidas a Direcção-Geral dos Serviços de Fomento Marítimo e a Junta Nacional da Marinha Mercante, pode determinar que qualquer empresa de navegação nacional constitua o fundo de renovação da frota, o qual fica sujeito a normas iguais às estabelecidas no presente diploma para o fundo de igual designação das empresas de navegação de interesse nacional.
+Art. 19.º O Ministro da Marinha, ouvidas a Direcção-Geral dos Serviços de Fomento Marítimo e a Junta Nacional da Marinha Mercante, pode determinar que qualquer empresa de navegação nacional constitua o fundo de renovação da frota, o qual fica sujeito a normas iguais às estabelecidas no presente diploma para o fundo de igual designação das empresas de navegação de interesse nacional.
 
 V
 
 Fusão, incorporação, concentração ou aquisição de empresas de navegação
 
-###### Art. 20.º - 1. Às empresas de navegação que resultem da fusão ou da concentração parcial de outras que exerçam essa actividade, as incorporem, ou adquiram, a outras empresas que exerçam a mesma actividade, a totalidade dos interesses marítimos, será concedida isenção ou redução de sisa para as transmissões resultantes dos actos de fusão, incorporação, concentração ou aquisição.
+Art. 20.º - 1. Às empresas de navegação que resultem da fusão ou da concentração parcial de outras que exerçam essa actividade, as incorporem, ou adquiram, a outras empresas que exerçam a mesma actividade, a totalidade dos interesses marítimos, será concedida isenção ou redução de sisa para as transmissões resultantes dos actos de fusão, incorporação, concentração ou aquisição.
 
 2. Consideram-se interesses marítimos, para os efeitos do número anterior, os imóveis afectos à exploração dos transportes marítimos, os navios ou outras embarcações registadas em nome da cedente e os direitos e obrigações respeitantes à construção ou aquisição de navios ou ao exercício do transporte marítimo de longo curso celebrados anteriormente à cessão.
 
@@ -208,27 +232,27 @@ Fusão, incorporação, concentração ou aquisição de empresas de navegação
 
 4. As empresas que, nos termos do n.º 1 deste artigo, cedam os seus interesses marítimos de que resulte a aplicação do benefício aí estabelecido não poderão exercer análoga actividade antes de decorridos vinte anos.
 
-###### Art. 21.º Os ganhos resultantes das operações referidas no artigo 20.º e que satisfaçam os requisitos aí exigidos serão isentos do imposto de mais-valias.
+Art. 21.º Os ganhos resultantes das operações referidas no artigo 20.º e que satisfaçam os requisitos aí exigidos serão isentos do imposto de mais-valias.
 
-###### Art. 22.º Os benefícios previstos nos artigos 20.º e 21.º serão concedidos, a requerimento das empresas interessadas, por despacho do Ministro das Finanças, sobre informação da Direcção-Geral das Contribuições e Impostos, ouvido o Ministério da Marinha.
+Art. 22.º Os benefícios previstos nos artigos 20.º e 21.º serão concedidos, a requerimento das empresas interessadas, por despacho do Ministro das Finanças, sobre informação da Direcção-Geral das Contribuições e Impostos, ouvido o Ministério da Marinha.
 
 VI
 
 Disposições transitórias e diversas
 
-###### Art. 23.º Os saldos dos actuais fundos de renovação das frotas e dos fundos de actualização das frotas, constituídos em obediência aos preceitos do [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, serão reinscritos, respectivamente, nos fundos de renovação das frotas e nos fundos de expansão das frotas de que trata este diploma.
+Art. 23.º Os saldos dos actuais fundos de renovação das frotas e dos fundos de actualização das frotas, constituídos em obediência aos preceitos do [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, serão reinscritos, respectivamente, nos fundos de renovação das frotas e nos fundos de expansão das frotas de que trata este diploma.
 
-###### Art. 24.º O disposto no n.º 3 do artigo 16.º é aplicável aos lucros levados a reservas nos três exercícios anteriores à entrada em vigor do presente decreto-lei que tenham sido reinvestidos ou que o venham a ser, nos termos do artigo 44.º do Código da Contribuição Industrial.
+Art. 24.º O disposto no n.º 3 do artigo 16.º é aplicável aos lucros levados a reservas nos três exercícios anteriores à entrada em vigor do presente decreto-lei que tenham sido reinvestidos ou que o venham a ser, nos termos do artigo 44.º do Código da Contribuição Industrial.
 
-###### Art. 25.º O disposto nos artigos 20.º a 22.º é aplicável às operações que hajam sido realizadas nos seis meses anteriores à entrada em vigor do presente diploma.
+Art. 25.º O disposto nos artigos 20.º a 22.º é aplicável às operações que hajam sido realizadas nos seis meses anteriores à entrada em vigor do presente diploma.
 
-###### Art. 26.º Fica revogado o [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, com excepção do seu artigo 3.º
+Art. 26.º Fica revogado o [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, com excepção do seu artigo 3.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1972-675608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08ebdea14dc758b9edfda8bd8bd93de50d6f5a4466ffaf267d2ad0bdd7ae1913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bf05e79d20f2645031c0c036ce4726ae881ca00846071d1aa8b46465907bca3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
+- Definição de Competências
+- Emolumento
+- Exame Médico
+- Pessoal de Chefia
+- Procuradoria Geral da República
+- Secretário
+- Sistema Retributivo
+- Supremo Tribunal de Justiça
+- Tribunal da Relação
+relationships:
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:27Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +110,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As quantias certas indicadas nos artigos 69.º, 72.º, 75.º, 88.º e 266.º do Código das Custas Judiciais são elevadas para o dobro.
+Artigo 1.º As quantias certas indicadas nos artigos 69.º, 72.º, 75.º, 88.º e 266.º do Código das Custas Judiciais são elevadas para o dobro.
 
-###### Art. 2.º Os artigos 90.º, 195.º e 255.º do Código das Custas Judiciais passam a ter a seguinte redacção:
+Art. 2.º Os artigos 90.º, 195.º e 255.º do Código das Custas Judiciais passam a ter a seguinte redacção:
 
 ###### ARTIGO 90.º — (...)
 
@@ -159,9 +174,9 @@ f) ...
 
 g) ...
 
-###### Art. 3.º O artigo 43.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passa a ter a seguinte redacção:
+Art. 3.º O artigo 43.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passa a ter a seguinte redacção:
 
-###### Art. 43.º - 1. O chefe da secretaria de cada tribunal remeterá à Repartição Administrativa dos Cofres os seguintes elementos de informação:
+Art. 43.º - 1. O chefe da secretaria de cada tribunal remeterá à Repartição Administrativa dos Cofres os seguintes elementos de informação:
 
 a) No último dia de cada mês, relação dos funcionários do tribunal em que faça constar os que nesse mês cessaram funções ou ingressaram no respectivo quadro, com indicações sobre data em que se verificou a cessação ou o ingresso e sobre a respectiva categoria e lugar ocupado, e ainda a promoção, faltas injustificadas, licenças sem vencimento ou outras circunstâncias que envolvam a alteração de vencimentos de qualquer deles;
 
@@ -169,16 +184,16 @@ b) Até ao dia 5 de cada mês, relação da quantia proveniente de imposto de ju
 
 2. ...
 
-###### Art. 4.º Os secretários do Supremo Tribunal de Justiça, da Procuradoria-Geral da República e das Relações têm direito a participação emolumentar igual à percebida pelos secretários-gerais dos tribunais de 1.ª instância, em Lisboa e Porto, mas a sua remuneração global, líquida de contribuição industrial, não excederá o vencimento de um juiz de 1.ª classe.
+Art. 4.º Os secretários do Supremo Tribunal de Justiça, da Procuradoria-Geral da República e das Relações têm direito a participação emolumentar igual à percebida pelos secretários-gerais dos tribunais de 1.ª instância, em Lisboa e Porto, mas a sua remuneração global, líquida de contribuição industrial, não excederá o vencimento de um juiz de 1.ª classe.
 
-###### Art. 5.º A remuneração global, líquida de contribuição industrial, dos escrivães de direito de Supremo Tribunal de Justiça e das Relações não pode exceder 90 por cento do vencimento de um juiz de 1.ª classe, e a que nos mesmos termos compete aos oficiais de diligências dos referidos tribunais ter-se-á por correspondente a metade da que for percebida por aqueles funcionários, para os efeitos do disposto no artigo 40.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
+Art. 5.º A remuneração global, líquida de contribuição industrial, dos escrivães de direito de Supremo Tribunal de Justiça e das Relações não pode exceder 90 por cento do vencimento de um juiz de 1.ª classe, e a que nos mesmos termos compete aos oficiais de diligências dos referidos tribunais ter-se-á por correspondente a metade da que for percebida por aqueles funcionários, para os efeitos do disposto no artigo 40.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
 
-###### Art. 6.º Os exames de ginecologia serão feitos, quando nesse sentido for proposto pelo perito nomeado e se mostre justificado pela respectiva dificuldade, por dois médicos, ou só pelo nomeado mas com a colaboração de auxiliar, enfermeiro ou auxiliar de enfermagem.
+Art. 6.º Os exames de ginecologia serão feitos, quando nesse sentido for proposto pelo perito nomeado e se mostre justificado pela respectiva dificuldade, por dois médicos, ou só pelo nomeado mas com a colaboração de auxiliar, enfermeiro ou auxiliar de enfermagem.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 20 de Julho de 1972.**
+Promulgado em 20 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

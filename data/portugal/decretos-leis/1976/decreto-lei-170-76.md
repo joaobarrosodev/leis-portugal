@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/05200/04530454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1976-507378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cbaeb69b794dbe4b7b5019969d32ab3020d3338826f49f452680b793f96d925
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 869da69c49d24709f2726380e0b022beaf836c2b3970378fed8360e3b9cfefc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Criação de Serviços
+- Definição de Competências
+- Exploração Florestal
+- Fundo de Fomento Florestal
+- Gestão dos Recursos
+- Gestão Financeira
+- Incêndio
+- Ministério da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502186:por
+  label: "Dada nova redacção ao art. 12º pelo DEC LEI.304/76.26.04.1976.MAP, DR.IS [98] de 26.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1976-502186
+  date: '1976-04-26'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: corrected_by
+  target: pt:dre:502673:por
+  label: Rectificado pela DECL.DD8708.09.04.1976.PCM, DG.IS [85] de 09.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502673
+  date: '1976-04-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:08Z'
   warnings: []
   errors: []
 ---
@@ -114,56 +139,56 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada uma comissão com o objectivo de coordenar e promover as medidas necessárias para retirar dos pinhais o arvoredo afectado pelos incêndios ocorridos até 30 de Setembro de 1975.
+Artigo 1.º É criada uma comissão com o objectivo de coordenar e promover as medidas necessárias para retirar dos pinhais o arvoredo afectado pelos incêndios ocorridos até 30 de Setembro de 1975.
 
-###### Art. 2.º A comissão é composta por seis membros, representando paritariamente a Direcção-Geral dos Recursos Florestais, o Instituto dos Produtos Florestais e o Fundo de Fomento Florestal, para o efeito nomeados por despacho do Ministro da Agricultura e Pescas, sob proposta dos respectivos organismos.
+Art. 2.º A comissão é composta por seis membros, representando paritariamente a Direcção-Geral dos Recursos Florestais, o Instituto dos Produtos Florestais e o Fundo de Fomento Florestal, para o efeito nomeados por despacho do Ministro da Agricultura e Pescas, sob proposta dos respectivos organismos.
 
-###### Art. 3.º Compete, nomeadamente, à comissão:
+Art. 3.º Compete, nomeadamente, à comissão:
 
 a) Fomentar e controlar o sistema através do qual se efectue a extracção e pagamento de todo o material lenhoso afectado;
 
 b) Providenciar o escoamento desse material lenhoso extraído para os canais de consumo (intermédio ou final) mais convenientes.
 
-###### Art. 4.º - 1. Para a stockagem do material lenhoso extraído, a comissão poderá utilizar os estaleiros ou entrepostos já existentes nas zonas afectadas pelos incêndios ou, eventualmente, fora delas, se tal vier a justificar-se.
+Art. 4.º - 1. Para a stockagem do material lenhoso extraído, a comissão poderá utilizar os estaleiros ou entrepostos já existentes nas zonas afectadas pelos incêndios ou, eventualmente, fora delas, se tal vier a justificar-se.
 
 2. A comissão, em qualquer tempo, pode criar outros locais de stockagem de modo a garantir a capacidade de armazenamento suficiente a todo o material extraído.
 
-###### Art. 5.º As entidades proprietárias dos locais de stockagem funcionarão como fiéis depositárias do material lenhoso recepcionado até ao momento da sua venda, altura em que se transfere para o comprador essa responsabilidade.
+Art. 5.º As entidades proprietárias dos locais de stockagem funcionarão como fiéis depositárias do material lenhoso recepcionado até ao momento da sua venda, altura em que se transfere para o comprador essa responsabilidade.
 
-###### Art. 6.º Os encargos de manutenção e funcionamento dos locais de stockagem serão objecto de acordo a estabelecer directamente entre os respectivos proprietários e a comissão, competindo a esta responsabilidade do seguro contra incêndio, bem como a execução de eventuais tratamentos sanitários.
+Art. 6.º Os encargos de manutenção e funcionamento dos locais de stockagem serão objecto de acordo a estabelecer directamente entre os respectivos proprietários e a comissão, competindo a esta responsabilidade do seguro contra incêndio, bem como a execução de eventuais tratamentos sanitários.
 
-###### Art. 7.º Todos os locais de stockagem abrangidos pelo sistema obrigam-se a receber, até ao limite da capacidade para o efeito convencionado com a comissão, a rolaria e toragem de pinho sem casca provenientes de cortes exclusivamente realizados em pinhais afectados pelos incêndios, à excepção do material muito danificado pelo fogo ou pelas pragas florestais, o qual será recepcionado em locais especiais a indicar pela comissão.
+Art. 7.º Todos os locais de stockagem abrangidos pelo sistema obrigam-se a receber, até ao limite da capacidade para o efeito convencionado com a comissão, a rolaria e toragem de pinho sem casca provenientes de cortes exclusivamente realizados em pinhais afectados pelos incêndios, à excepção do material muito danificado pelo fogo ou pelas pragas florestais, o qual será recepcionado em locais especiais a indicar pela comissão.
 
-###### Art. 8.º A compra à produção e a entrega no local de stockagem de qualquer lote da rolaria ou toragem referidas no artigo anterior têm de ser obrigatoriamente formalizadas em impresso próprio (manifesto de compra), donde constem as assinaturas de todos os intervenientes, designadamente produtor e empresário de corte, bem como os preços praticados.
+Art. 8.º A compra à produção e a entrega no local de stockagem de qualquer lote da rolaria ou toragem referidas no artigo anterior têm de ser obrigatoriamente formalizadas em impresso próprio (manifesto de compra), donde constem as assinaturas de todos os intervenientes, designadamente produtor e empresário de corte, bem como os preços praticados.
 
-###### Art. 9.º - 1. É concedido um financiamento até ao valor máximo de 450000000$00 a contrair pelo Fundo de Fomento Florestal no sistema bancário sob orientação do Banco de Portugal, para a cobertura dos encargos resultantes do pagamento da rolaria e toragem de pinho, entregues descascadas e empilhadas nos locais de stockagem, e de outras despesas a realizar para a consecução dos objectivos propostos.
+Art. 9.º - 1. É concedido um financiamento até ao valor máximo de 450000000$00 a contrair pelo Fundo de Fomento Florestal no sistema bancário sob orientação do Banco de Portugal, para a cobertura dos encargos resultantes do pagamento da rolaria e toragem de pinho, entregues descascadas e empilhadas nos locais de stockagem, e de outras despesas a realizar para a consecução dos objectivos propostos.
 
 2. Da verba acima indicada é concedido o quantitativo de 150000000$00 a fundo perdido para a cobertura dos encargos referentes à deterioração do material, juros, seguros e de outras despesas administrativas.
 
 3. Serão reforçadas em 150000000$00 por ano as verbas do orçamento do Fundo de Fomento Florestal nos anos de 1976, 1977 e 1978, com vista à efectivação da amortização dos encargos assumidos junto do sistema bancário, verbas estas que terão contrapartida, no todo ou em parte, nas receitas provenientes das vendas do material lenhoso realizadas em cada um daqueles anos pelos fiéis depositários e depositadas no sistema bancário à ordem do Fundo de Fomento Florestal.
 
-###### Art. 10.º A rolaria e toragem de pinho recepcionadas são pagas ao preço único de 320$00 por cada estere descascado, empilhado pelo fornecedor e medido no próprio local de stockagem, independentemente da sua especificação e grau de qualidade, tendo, porém, de constituir, obrigatoriamente, lotes homogéneos em qualidade e bitola.
+Art. 10.º A rolaria e toragem de pinho recepcionadas são pagas ao preço único de 320$00 por cada estere descascado, empilhado pelo fornecedor e medido no próprio local de stockagem, independentemente da sua especificação e grau de qualidade, tendo, porém, de constituir, obrigatoriamente, lotes homogéneos em qualidade e bitola.
 
-###### Art. 11.º - 1. O fiel depositário, após recepção e medição da rolaria e toragem, verificação do «manifesto de compra», entregará à entidade fornecedora recibo comprovativo do material recebido.
+Art. 11.º - 1. O fiel depositário, após recepção e medição da rolaria e toragem, verificação do «manifesto de compra», entregará à entidade fornecedora recibo comprovativo do material recebido.
 
 2. O recibo referido no n.º 1 será pagável na entidade bancária suporte do financiamento, após confirmação do fiel depositário.
 
-###### Art. 12.º A recepção do material lenhoso abrangido pelo presente diploma terminará no dia 31 de Março de 1976.
+Art. 12.º A recepção do material lenhoso abrangido pelo presente diploma terminará no dia 31 de Março de 1976.
 
-###### Art. 13.º Os empresários de corte de árvores (ou entidade equivalente) ficam obrigados a liquidar ao produtor o material lenhoso adquirido, no prazo máximo de uma semana após terem recebido da entidade bancária a importância relativa à rolaria ou toragem adquiridas a esse produtor e entregues no local de stockagem.
+Art. 13.º Os empresários de corte de árvores (ou entidade equivalente) ficam obrigados a liquidar ao produtor o material lenhoso adquirido, no prazo máximo de uma semana após terem recebido da entidade bancária a importância relativa à rolaria ou toragem adquiridas a esse produtor e entregues no local de stockagem.
 
-###### Art. 14.º O não cumprimento, por parte dos empresários de corte de árvores (ou entidades equivalentes), dos deveres e obrigações emergentes do artigo anterior levará ao imediato cancelamento da sua actividade, quando exercida no âmbito deste decreto-lei.
+Art. 14.º O não cumprimento, por parte dos empresários de corte de árvores (ou entidades equivalentes), dos deveres e obrigações emergentes do artigo anterior levará ao imediato cancelamento da sua actividade, quando exercida no âmbito deste decreto-lei.
 
-###### Art. 15.º Para a execução do presente diploma a comissão poderá mobilizar os meios que entender necessários, utilizando o financiamento para o efeito, por cheques assinados por dois elementos da comissão, através da entidade bancária suporte do financiamento.
+Art. 15.º Para a execução do presente diploma a comissão poderá mobilizar os meios que entender necessários, utilizando o financiamento para o efeito, por cheques assinados por dois elementos da comissão, através da entidade bancária suporte do financiamento.
 
-###### Art. 16.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro da Agricultura e Pescas.
+Art. 16.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 17.º Este diploma entra em vigor na data da sua publicação.
+Art. 17.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António Poppe Lopes Cardoso.
 
-**Promulgado em 20 de Fevereiro de 1976.**
+Promulgado em 20 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/36-1984-386002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 570c3daea27b50ea64b2186c89cadeb2c080457885cdbc2aff37b52716b4f4ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad47a3d7b2b0cf6749eca4876c1c1eee972246c4be2e2e8311249e8ce30f2a24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- EDP
+- Espanha
+- Portugal
+- RIO Minho
+relationships:
+- type: cites
+  target: pt:dre:280246:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:03Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +102,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É prorrogado por 5 anos o prazo de execução das obras do aproveitamento hidroeléctrico internacional do rio Minho (escalão de Sela) estabelecido no artigo 6.º do caderno de encargos da respectiva concessão, que faz parte integrante do [Decreto n.º 172/77](https://diariodarepublica.pt/dr/detalhe/decreto/172-1977-280246), de 20 de Dezembro, devendo, assim, os trabalhos de construção estar concluídos até 22 de Dezembro de 1989, salvo motivo de força maior ou outro justificado e aceite pela Comissão Luso-Espanhola para Regular o Uso e Aproveitamento dos Rios Internacionais nas suas Zonas Fronteiriças.
+Artigo único. É prorrogado por 5 anos o prazo de execução das obras do aproveitamento hidroeléctrico internacional do rio Minho (escalão de Sela) estabelecido no artigo 6.º do caderno de encargos da respectiva concessão, que faz parte integrante do [Decreto n.º 172/77](https://diariodarepublica.pt/dr/detalhe/decreto/172-1977-280246), de 20 de Dezembro, devendo, assim, os trabalhos de construção estar concluídos até 22 de Dezembro de 1989, salvo motivo de força maior ou outro justificado e aceite pela Comissão Luso-Espanhola para Regular o Uso e Aproveitamento dos Rios Internacionais nas suas Zonas Fronteiriças.
 
 Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - José Veiga Simão - João Rosado Correia.
 
-**Assinado em 27 de Junho de 1984.**
+Assinado em 27 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Junho de 1984.**
+Referendado em 27 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

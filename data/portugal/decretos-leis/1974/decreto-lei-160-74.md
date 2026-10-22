@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1974-411326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90ba42181355c9e11d1c830c487246722154cdf61a7c1c20a6ffecbfa9870c1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c25a2dd5ada84e11ee62edf2355dfff6edd725d02ddde43f45bbd3e71381fb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Gabinete do Plano e Desenvolvimento da Região do Zambeze
+- Ministro das Finanças
+- Moçambique.Colónia Portuguesa
+- Plano de Fomento
+- Secretaria de Estado do Tesouro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:41Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +95,19 @@ de 20 de Abril
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Durante o período da vigência do IV Plano de Fomento, fica o Ministro das Finanças e da Coordenação Económica autorizado a conceder, através da Secretaria de Estado do Tesouro, adiantamentos reembolsáveis ao Gabinete do Plano do Zambeze, destinados a custear despesas a seu cargo decorrentes da execução do aproveitamento da região do Zambeze, em Moçambique.
+Artigo 1.º Durante o período da vigência do IV Plano de Fomento, fica o Ministro das Finanças e da Coordenação Económica autorizado a conceder, através da Secretaria de Estado do Tesouro, adiantamentos reembolsáveis ao Gabinete do Plano do Zambeze, destinados a custear despesas a seu cargo decorrentes da execução do aproveitamento da região do Zambeze, em Moçambique.
 
-###### Art. 2.º Os adiantamentos que vierem a ser concedidos serão reembolsados através das receitas de exploração do empreendimento de Cabora Bassa ou de quaisquer outras que venham a ser atribuídas ao Gabinete do Plano do Zambeze, em condições a fixar por despacho conjunto dos Ministros das Finanças e da Coordenação Económica e do Ultramar.
+Art. 2.º Os adiantamentos que vierem a ser concedidos serão reembolsados através das receitas de exploração do empreendimento de Cabora Bassa ou de quaisquer outras que venham a ser atribuídas ao Gabinete do Plano do Zambeze, em condições a fixar por despacho conjunto dos Ministros das Finanças e da Coordenação Económica e do Ultramar.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Abril de 1974.**
+Promulgado em 11 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - B. Rebelo de Sousa.
 

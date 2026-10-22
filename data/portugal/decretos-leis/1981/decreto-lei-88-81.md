@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1981-394918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d8aeb731d8f209588b4d3e6bd20c6d20fd2f56bd31d69aef835567b91d6631f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd5d5fd4f05118767ea23e186d957ab9870da2021be5f51a1c5915f4267bbd80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banda de Música
+- Comando Geral da Polícia de Segurança Pública
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:09Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +99,7 @@ Considerando-se, porém, que a especificidade das funções a desempenhar pelo p
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a banda de música da Polícia de Segurança Pública, na dependência do Comando-Geral da PSP, com os seguintes efectivos:
+Artigo 1.º É criada a banda de música da Polícia de Segurança Pública, na dependência do Comando-Geral da PSP, com os seguintes efectivos:
 
 Um major, capitão, capitão-tenente ou primeiro-tenente;
 
@@ -108,13 +115,13 @@ Setenta subchefes;
 
 Trinta Guardas.
 
-###### Art. 2.º Para execução do disposto no artigo anterior, é criada na PSP a especialidade de músico.
+Art. 2.º Para execução do disposto no artigo anterior, é criada na PSP a especialidade de músico.
 
-###### Art. 3.º As condições de recrutamento, ingresso e carreira do pessoal músico da PSP serão objecto de regulamentação própria a estabelecer por portaria do Ministro da Administração Interna, sob proposta do comandante-geral da PSP.
+Art. 3.º As condições de recrutamento, ingresso e carreira do pessoal músico da PSP serão objecto de regulamentação própria a estabelecer por portaria do Ministro da Administração Interna, sob proposta do comandante-geral da PSP.
 
-###### Art. 4.º O quadro geral da PSP, a que se refere o [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e legislação complementar, é aumentado do pessoal constante do artigo 1.º deste diploma.
+Art. 4.º O quadro geral da PSP, a que se refere o [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e legislação complementar, é aumentado do pessoal constante do artigo 1.º deste diploma.
 
-###### Art. 5.º O aumento do quadro geral da PSP a que se refere o artigo anterior terá lugar em duas fases, pela forma seguinte:
+Art. 5.º O aumento do quadro geral da PSP a que se refere o artigo anterior terá lugar em duas fases, pela forma seguinte:
 
 1) Na primeira fase, a vigorar a partir de 1 de Janeiro de 1981:
 
@@ -140,12 +147,12 @@ Trinta e cinco subchefes;
 
 Quinze guardas.
 
-###### Art. 6.º A execução do presente diploma fica condicionada em 1981 à existência de disponibilidades financeiras que possam servir de adequada contrapartida ao reforço de verbas para o efeito insuficientemente dotadas.
+Art. 6.º A execução do presente diploma fica condicionada em 1981 à existência de disponibilidades financeiras que possam servir de adequada contrapartida ao reforço de verbas para o efeito insuficientemente dotadas.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 15 de Abril de 1981.**
+Promulgado em 15 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

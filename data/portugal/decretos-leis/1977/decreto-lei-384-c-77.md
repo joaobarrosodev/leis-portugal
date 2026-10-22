@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 211/1977, 1º Suplemento, Série I de 1977-09-12
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2232-(2) a 2232-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21101/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-c-1977-203432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c71f883246d973de991bf089b5176ff68e64616e5c6cf841e692f72e99a70cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 599794d100b7b0b52d96acfb32b55c0bc0988ee9b3164b304253507f4b647575
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Armas e Serviços do Exército
+- Definição de Competências
+- Exército
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:257600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:426891:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278957:por
+  label: Rectificado o sumário pela DECL.DD7797.08.10.1977.CR, DR.IS [233] de 08.10.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-278957
+  date: '1977-10-08'
+- type: repealed_by
+  target: pt:dre:257600:por
+  label: "Revogado pelo DEC LEI.200/93.03.06.1993.MDN, DR.IS-A [[129]] de 03.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1993-257600
+  date: '1993-06-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:15Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +118,7 @@ Assim:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os conselhos das armas e serviços são órgãos consultivos do director ou chefe da respectiva arma ou serviço, sendo das suas atribuições:
+Artigo 1.º Os conselhos das armas e serviços são órgãos consultivos do director ou chefe da respectiva arma ou serviço, sendo das suas atribuições:
 
 a) Dar parecer sobre matérias específicas da arma ou serviço, quando solicitado pelo respectivo director ou chefe;
 
@@ -110,24 +128,24 @@ c) Dar parecer acerca do aproveitamento de pessoal da arma ou serviço, quando s
 
 d) Dar parecer nos termos dos artigos 55.º e 56.º do RDM.
 
-###### Art. 2.º - 1 - Os conselhos das armas e serviços integram oficiais e sargentos da respectiva arma ou serviço nomeados pelo CEME.
+Art. 2.º - 1 - Os conselhos das armas e serviços integram oficiais e sargentos da respectiva arma ou serviço nomeados pelo CEME.
 
 2 - Os conselhos das armas e serviços articulam-se em comissão de apreciação de oficiais e comissão de apreciação de sargentos, para efeitos das alíneas b) e c) do artigo 1.º
 
-###### Art. 3.º A constituição e funcionamento dos conselhos das armas e serviços são regulados mediante portaria do CEME.
+Art. 3.º A constituição e funcionamento dos conselhos das armas e serviços são regulados mediante portaria do CEME.
 
-###### Art. 4.º É revogado o [Decreto-Lei n.º 402/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1976-426891), de 27 de Maio, sendo aplicadas as seguintes disposições de transição:
+Art. 4.º É revogado o [Decreto-Lei n.º 402/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1976-426891), de 27 de Maio, sendo aplicadas as seguintes disposições de transição:
 
 a) A nomeação dos conselhos das armas e serviços que funcionarão a partir de 1 de Janeiro de 1978 será feita de harmonia com as disposições do presente decreto-lei e da respectiva portaria regulamentadora;
 
 b) Os actuais conselhos das armas e serviços continuam em funcionamento até 31 de Dezembro de 1977, devendo qualquer substituição, eleição ou alteração a que haja entretanto de se proceder ser feita de harmonia com as disposições do presente decreto-lei e da respectiva portaria regulamentadora.
 
-###### Art. 5.º Este diploma entra em vigor na data da sua publicação.
+Art. 5.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 31 de Agosto de 1977.
 
-**Promulgado em 5 de Setembro de 1977.**
+Promulgado em 5 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

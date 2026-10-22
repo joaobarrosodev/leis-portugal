@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1978-299817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e48bec7dc3021f548dc35a213e91cd904ffa3ae00de67020fd9cba5512c5d98d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 605a4a15d5798cc6d87148fd9b00ab2fb83cbf10a1afda86cbd2ba2a9c49be15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Criação de Lugares
+- Criação de Serviços
+- Esquadra Policial
+- PSP
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:139973:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:53Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +106,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o posto da Polícia de Segurança Pública de Capelas, no município de Ponta Delgada, com o efectivo constante do mapa anexo I.
+Artigo 1.º É criado o posto da Polícia de Segurança Pública de Capelas, no município de Ponta Delgada, com o efectivo constante do mapa anexo I.
 
-###### Art. 2.º Em execução do presente diploma, o quadro actual da Polícia de Segurança Pública é aumentado do pessoal constante do mapa anexo II.
+Art. 2.º Em execução do presente diploma, o quadro actual da Polícia de Segurança Pública é aumentado do pessoal constante do mapa anexo II.
 
-###### Art. 3.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas sobras que se verifiquem nas respectivas dotações orçamentais.
+Art. 3.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas sobras que se verifiquem nas respectivas dotações orçamentais.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Jaime José Matos da Gama.
 
-**Promulgado em 2 de Agosto de 1978.**
+Promulgado em 2 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo I
 
@@ -126,4 +136,4 @@ Mapa anexo II
 
 15 guardas.
 
-**O Ministro da Administração Interna, Jaime José Matos da Gama.**
+O Ministro da Administração Interna, Jaime José Matos da Gama.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10900/08940894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1979-383195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 821e5214f519c1a219c92ee345cc3952504508b1ea0d8debb4e82260ce5793bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb27ba5d265647cb316f9205d065ba51ee23d31dd2363a31d77bbe6732373a88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS Imóveis do Estado
+- Instituições de Previdência Social
+- Propriedade do Estado
+- Serviços Médico-sociais
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:221738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:39Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +118,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Património mobiliário)
 
@@ -107,7 +126,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Consideram-se nas condições descritas na parte final do número anterior os veículos automóveis constantes de lista a aprovar por despacho conjunto dos Secretários de Estado da Saúde e da Segurança Social.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Património imobiliário)
 
@@ -119,7 +138,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Para o efeito do disposto nos números anteriores, é tomada em consideração a data referida no n.º 1 do artigo 1.º do presente diploma.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Encargos)
 
@@ -127,13 +146,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Os encargos inerentes à utilização dos imóveis indicados no n.º 2 do artigo 2.º são suportados pelos Serviços Médico-Sociais e pelas instituições de previdência em termos a fixar por despacho ministerial.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Registo)
 
 O presente decreto-lei é título bastante para a transferência de propriedade prevista no artigo 1.º
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Dúvidas e casos omissos)
 
@@ -141,8 +160,8 @@ As dúvidas e casos omissos serão resolvidos por despacho do Ministro dos Assun
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.
 
-**Promulgado em 25 de Abril de 1979.**
+Promulgado em 25 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

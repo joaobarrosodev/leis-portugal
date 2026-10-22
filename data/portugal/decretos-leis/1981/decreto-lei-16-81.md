@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1981-389874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fcfa1e2c23edc9d8ed7e0ac341b1901c26bc462ecf95f1285decda99a9923fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87cc9ffcf856faa7b9c644ad28f5772c9792e4ddfbf4a46aaf0873bd7b6f83ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:660883:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397913:por
+  label: Alterada a al. a) do n.º 2 do art.1.º e aditado o art. 5.º pelo(a) Decreto-Lei n.º 324/82 - Diário da República n.º
+    186/1982, Série I de 1982-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1982-397913
+  date: '1982-08-13'
+- type: cites
+  target: pt:dre:390029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667512:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:49Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Usando da autorização conferida pelo artigo 3.º da [Lei n.º 47/80](https://d
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.
+Artigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.
 
 2 - Para efeitos do n.º 1, entende-se por:
 
@@ -112,7 +128,7 @@ Sejam enviadas pelo expedidor ao destinatário sem que este tenha que efectuar q
 
 b) «Direitos de importação», tanto os direitos aduaneiros como as taxas de efeito equivalente.
 
-###### Art. 2.º A franquia visada no artigo 1.º apenas se aplica às mercadorias abaixo mencionadas dentro dos limites quantitativos fixados para cada uma delas:
+Art. 2.º A franquia visada no artigo 1.º apenas se aplica às mercadorias abaixo mencionadas dentro dos limites quantitativos fixados para cada uma delas:
 
 a) «Tabaco»: 50 cigarros, ou 25 cigarrilhas (charutos com um peso máximo de 3 g por unidade), ou 10 charutos, ou 50 g de tabaco picado;
 
@@ -126,14 +142,14 @@ Vinhos comuns: 2 l;
 
 c) «Perfumes» (50 g) ou «águas de toucador» (0,25 l).
 
-###### Art. 3.º As mercadorias mencionadas no artigo 2.º contidas numa pequena remessa sem carácter comercial em quantidades que excedam as fixadas no referido artigo serão excluídas, na totalidade, do benefício da franquia, sem prejuízo da aplicação dos artigos 1.º a 4.º do [Decreto-Lei n.º 6/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1981-390029), de 24 de Janeiro.
+Art. 3.º As mercadorias mencionadas no artigo 2.º contidas numa pequena remessa sem carácter comercial em quantidades que excedam as fixadas no referido artigo serão excluídas, na totalidade, do benefício da franquia, sem prejuízo da aplicação dos artigos 1.º a 4.º do [Decreto-Lei n.º 6/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1981-390029), de 24 de Janeiro.
 
-###### Art. 4.º É dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º
+Art. 4.º É dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 15 de Janeiro de 1981.**
+Promulgado em 15 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45456-1963-683621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f6493b66174194f7b6675def07f6b02e7eedaddff4c293927439698b8b3be1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68e11beb82c60579e396b5262ea109f91c71e3e7c5cc308eb9a279ce7078e548
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Convenção
+- Exportação
+- Genebra
+- Importação
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:215889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388029:por
+  label: "Aprovado, para ratificação, o Protocolo de prorrogação (até ao fim da campanha oleícola de 1968-1969) do Acordo\
+    \ Internacional do Azeite de 1963, aprovado para ratificação pelo presente diploma, pelo DEC LEI.47989.10.10.1967.MNE,\
+    \ DG.IS [236] de 10.10.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47989-1967-388029
+  date: '1967-10-10'
+- type: amended_by
+  target: pt:dre:215889:por
+  label: "Aprovado, para ratificação, o Protocolo relativo à prorrogação (até 31.12.1973) do Acordo Internacional do Azeite\
+    \ de 1963, ao qual são introduzidas as seguintes alterações: alterados o § 3 do cap. I, o art. 3 do cap. III, os arts.\
+    \ 13 e 16 do cap VI, o art. 33 do cap. X e o art. 39 do cap. XIV, pelo DEC LEI.49358.06.11.1969.MNE, DG.IS [260] de 06.11.1969\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49358-1969-215889
+  date: '1969-11-06'
+- type: corrected_by
+  target: pt:dre:469393:por
+  label: "Rectificado o anexo A do Acordo Internacional do Azeite, aprovado para ratificação pelo presente diploma, pela RECT.DD751.04.02.1964.PC,\
+    \ DG.IS [29] de 04.02.1964\0964\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1964-469393
+  date: '1964-02-04'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:25Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +115,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Internacional do Azeite, 1963, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado para ratificação o Acordo Internacional do Azeite, 1963, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -1346,6 +1373,6 @@ b) Quando um Governo se retira do Acordo;
 
 c) Nas circunstâncias previstas no parágrafo 2 do artigo 24 e no artigo 41.
 
-###### Artigo 33 (parágrafo 1):
+Artigo 33 (parágrafo 1):
 
 1. As despesas das delegações no Conselho e dos membros da Comissão Executiva ficarão a cargo dos seus governos respectivos. As outras despesas necessárias para a administração do presente Acordo, incluindo as Remunerações pagas pelo Conselho, serão cobertas por meio de quotizações anuais dos Governos participantes. A quotização de cada Governo de país participante principalmente produtor, em cada campanha oleícola, é proporcional ao número de votos de que dispuser quando for aprovado o orçamento para essa campanha; a quotização dos países principalmente importadores estabelecer-se-á por acordo especial entre cada um deles e o Conselho, tendo em conta a sua importância na economia oleícola.

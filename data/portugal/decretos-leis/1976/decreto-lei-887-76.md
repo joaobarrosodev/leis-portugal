@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/887-1976-416415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d95804c830645f814652be762021e043483917de187ac68384d811323a52f969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dd2f16d99c457834774610739e7628d46ef22efd26039b306452dd2418ee791
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Coletivo de Trabalho
+- Contrato de Trabalho
+- Ministério do Trabalho
+- Salário Mínimo
 relationships:
 - type: amended_by
   target: pt:dre:157052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240852:por
+  label: "Alterados os arts. 1º, 6º 16º, 19º e 22º do Dec Lei 164-A/76, de 28-Fev, na redacção do presente diploma, pelo DEC\
+    \ LEI.353-G/77.29.08.1977.MPCE, DR.IS [199-2ºSupl] de 29.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-g-1977-240852
+  date: '1977-08-29'
+- type: cites
+  target: pt:dre:356557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157052:por
+  label: Revogado o Dec Lei 164-A/76 de 28-fev, com as alterações introduzidas pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 519-C1/79 - Diário da República n.º 299/1979, 3º Suplemento, Série I de 1979-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-c1-1979-157052
+  date: '1979-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:22Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +124,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 13.º, 16.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º e 25.º do [Decreto-Lei n.º 164-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-1976-356557), de 28 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 13.º, 16.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º e 25.º do [Decreto-Lei n.º 164-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-1976-356557), de 28 de Fevereiro, passam a ter a seguinte redacção:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação)
 
@@ -114,7 +138,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. O regime jurídico da regulamentação colectiva de trabalho para os trabalhadores das instituições de previdência será objecto de diploma específico dos Ministérios da Administração Interna, das Finanças, do Trabalho e dos Assuntos Sociais.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Modos de regulamentação)
 
@@ -122,7 +146,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2. A regulamentação colectiva das relações de trabalho pode também ser feita por via administrativa, nos termos dos artigos 20.º e 21.º
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Limites)
 
@@ -148,7 +172,7 @@ f) Conferir a qualquer das suas cláusulas eficácia retroactiva para além da d
 
 5. A redução prevista no número anterior prejudica os direitos adquiridos por força do instrumento de regulamentação colectiva substituído, com ressalva do disposto no n.º 3.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Efeitos jurídicos)
 
@@ -166,7 +190,7 @@ f) Conferir a qualquer das suas cláusulas eficácia retroactiva para além da d
 
 7. Independentemente do disposto nos números anteriores, a entrada em vigor de um instrumento de regulamentação colectiva das relações de trabalho num ramo de actividade faz cessar automaticamente a vigência das convenções cujo âmbito se defina por profissão ou profissões, relativamente àquele ramo de actividade e aos trabalhadores também abrangidos pelo primeiro.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Sujeitos)
 
@@ -184,7 +208,7 @@ c) As empresas públicas ou nacionalizadas.
 
 4. Se existirem várias empresas públicas ou nacionalizadas num mesmo ramo de actividade, a forma de representação conjunta delas nos processos de negociação será previamente definida por despacho do Ministro da Tutela, a solicitação de qualquer dos respectivos conselhos de gerência ou órgãos equiparados, ou das associações sindicais interessadas.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Forma e capacidade)
 
@@ -206,7 +230,7 @@ d) No caso das empresas públicas e nacionalizadas, os membros dos conselhos de 
 
 5. Com vista às negociações, os representantes legítimos das associações sindicais e patronais deverão oportunamente fazer as necessárias consultas aos trabalhadores e às entidades patronais interessadas, não podendo, no entanto, invocar tal necessidade para obterem a suspensão ou interrupção do curso do processo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Conteúdo obrigatório)
 
@@ -220,7 +244,7 @@ c) ...
 
 2. O disposto no número anterior aplica-se, com as necessárias adaptações, às revisões parciais de convenções colectivas, às decisões arbitrais e às portarias de regulamentação e extensão.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Obrigações das partes)
 
@@ -228,7 +252,7 @@ c) ...
 
 2. Os sindicatos e associações patronais devem fazer executar e observar, por parte dos seus associados, as convenções colectivas que tenham celebrado ou que tenham sido celebradas pelas federações, reuniões e confederações em que se integram e são responsáveis pelas violações que tenham promovido.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Processo)
 
@@ -250,7 +274,7 @@ c) ...
 
 9. O despacho previsto no número anterior será proferido nos quinze dias posteriores à recepção da proposta a que se refere o n.º 1 deste artigo e fixará os termos em que deverá efectivar-se a negociação e as consequências da sua inobservância.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Conciliação)
 
@@ -264,7 +288,7 @@ c) ...
 
 5. Os conflitos colectivos de trabalho que resultem da celebração ou revisão de uma convenção colectiva podem ser obrigatoriamente submetidos a conciliação por despacho conjunto dos Ministros interessados.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Arbitragem obrigatória)
 
@@ -272,7 +296,7 @@ c) ...
 
 2. No caso previsto no número anterior, o eventual desacordo entre as partes quanto à nomeação do terceiro árbitro poderá ser suprido por despacho do Ministro do Trabalho.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Comissões paritárias)
 
@@ -288,7 +312,7 @@ c) ...
 
 6. ...
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Depósito)
 
@@ -296,7 +320,7 @@ c) ...
 
 2. O depósito será recusado se os referidos instrumentos de regulamentação não obedecerem ao disposto no artigo 8.º deste diploma ou se não forem acompanhados dos títulos de representação exigidos pelo artigo 7.º
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Portarias de extensão)
 
@@ -310,7 +334,7 @@ c) ...
 
 5. Nos quinze dias seguintes ao da publicação do aviso, podem os interessados no processo de extensão deduzir oposição fundamentada.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Portarias de regulamentação)
 
@@ -334,7 +358,7 @@ c) Prática de actos ou manobras manifestamente dilatórias ou que, de qualquer 
 
 7. Da portaria cabe recurso para o Conselho de Ministros para os Assuntos Económicos.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Publicação e entrada em vigor)
 
@@ -342,7 +366,7 @@ c) Prática de actos ou manobras manifestamente dilatórias ou que, de qualquer 
 
 2. ...
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Prazo de vigência)
 
@@ -354,13 +378,13 @@ c) Prática de actos ou manobras manifestamente dilatórias ou que, de qualquer 
 
 4. As convenções colectivas e as decisões arbitrais não podem ser denunciadas antes de decorrido um ano sobre a data da sua publicação.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Anulação de cláusulas ilegais)
 
 As associações sindicais e patronais, bem como os trabalhadores e entidades patronais interessados, podem propor acção de anulação, perante os tribunais do trabalho, das cláusulas dos instrumentos de regulamentação colectiva de trabalho que tenham por contrárias à lei.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Sanções)
 
@@ -380,7 +404,7 @@ As associações sindicais e patronais, bem como os trabalhadores e entidades pa
 
 8. O produto das multas reverterá para o Fundo de Desemprego.
 
-###### Art. 2.º - 1. A recusa injustificada de negociações ou de participação em qualquer acto ou fase daquelas por porte de uma associação sindical, de uma associação patronal ou de uma empresa que para o efeito tenha sido notificada, através de carta registada com aviso de recepção, pelo Ministro do Trabalho faz incorrer aquelas entidades em multa de 20000$00 a 100000$00.
+Art. 2.º - 1. A recusa injustificada de negociações ou de participação em qualquer acto ou fase daquelas por porte de uma associação sindical, de uma associação patronal ou de uma empresa que para o efeito tenha sido notificada, através de carta registada com aviso de recepção, pelo Ministro do Trabalho faz incorrer aquelas entidades em multa de 20000$00 a 100000$00.
 
 2. A reincidência determina o agravamento dos limites da multa para o dobro e, no caso de se tratar de uma empresa, poderá constituir índice justificativo da intervenção do Estado no sector ou empresa em causa, nos termos do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio.
 
@@ -396,8 +420,8 @@ As associações sindicais e patronais, bem como os trabalhadores e entidades pa
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 9 de Dezembro de 1976.**
+Promulgado em 9 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

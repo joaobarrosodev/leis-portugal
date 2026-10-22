@@ -46,40 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46965-1966-487562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d98ef6e6d14be0af89de58bac3b6eefe175f5cb506e08919b8f066b323aa39e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fc8f49e9c23257737eca631225437fc922623fd33d339c4a7334e262d5fd4df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- Exportação
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:503642:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:50Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +94,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os actuais artigos da pauta de importação n.os 28.40.02 a 28.40.07, 29.14.22 e 29.14.23 passam a ter, respectivamente, os n.os 28.40.03 a 28.40.08, 29.14.23 e 29.14.24.
+Artigo 1.º Os actuais artigos da pauta de importação n.os 28.40.02 a 28.40.07, 29.14.22 e 29.14.23 passam a ter, respectivamente, os n.os 28.40.03 a 28.40.08, 29.14.23 e 29.14.24.
 
-###### Art. 2.º São introduzidas no texto da pauta de importação as seguintes alterações:
+Art. 2.º São introduzidas no texto da pauta de importação as seguintes alterações:
 
 28.40 ...
 
@@ -170,12 +176,12 @@ Pauta mínima - Ad valorem, 15 por cento.
 
 Nota. - Os medicamentos compreendidos neste artigo e compostos de uma só substância activa, especificada na pauta, não pagarão direitos inferiores aos dessa substância.
 
-###### Art. 3.º É alterada, pela forma seguinte, a redacção da nota ao artigo 29.25.01 da pauta de importação:
+Art. 3.º É alterada, pela forma seguinte, a redacção da nota ao artigo 29.25.01 da pauta de importação:
 
 29.25.01 ...
 
 Nota. - É livre de direitos quando importada pelas indústrias químicas básicas, com excepção da de adubos, e seja utilizada exclusivamente na respectiva indústria e enquanto a Inspecção-Geral dos Produtos Agrícolas e Industriais não informar que o produto é fabricado econòmicamente no País. Os importadores deverão registar em livro próprio as quantidades importadas, facilitando ao exame da fiscalização aduaneira todos os elementos que se tornem necessários à averiguação da sua aplicação e conferência dos existências, considerando-se descaminhado aos direitos deste artigo o produto que for desviado da aplicação acima referida.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

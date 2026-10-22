@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/356-1971-635578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296a6ab510676fedda962b54cb1f52d4ab9031c664c4a1cca71b7d9efe52e1c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6dd77915c269b8c1e8e3dd0e6700c20944206300a275312d5c03b278780c40f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Direcção Geral da Educação Física Desportos e Saúde Escolar
+- Equipamento Desportivo
+- Futebol
+- Orgânica
+- Organização Desportiva
 relationships:
 - type: amended_by
   target: pt:dre:654931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654931:por
+  label: "Alterados os arts 45º, 46º e 47º do Dec 32946, de 03-Ago na redacção do presente diploma, pelo DEC.18/84.1984.04.18.MQV\
+    \ DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/18-1984-654931
+  date: '1984-04-18'
+- type: cites
+  target: pt:dre:398802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:45Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +109,9 @@ A evolução que naturalmente se processa no sector da actividade desportiva aco
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 21.º, 24.º, 26.º, 35.º, 45.º, 49.º, 66.º e 76.º do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 21.º, 24.º, 26.º, 35.º, 45.º, 49.º, 66.º e 76.º do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943, passam a ter a seguinte redacção:
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 ...
 
@@ -103,7 +119,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 ...
 
@@ -117,7 +133,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 26.º Só podem ser eleitos para os corpos gerentes dos organismos desportivos indivíduos de nacionalidade portuguesa, maiores de 21 anos, no gozo pleno dos seus direitos civis e políticos.
+Art. 26.º Só podem ser eleitos para os corpos gerentes dos organismos desportivos indivíduos de nacionalidade portuguesa, maiores de 21 anos, no gozo pleno dos seus direitos civis e políticos.
 
 § 1.º Em casos excepcionais, porém, quando tal se justifique, poderá o Ministro da Educação Nacional autorizar o exercício de funções, por estrangeiros, nos corpos gerentes de organismos desportivos.
 
@@ -125,13 +141,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 35.º Os organismos que tenham como algum dos seus fins promover a prática de desportos são obrigados a instituir, salvo impossibilidade absoluta, devidamente comprovada, aulas de ginástica dirigidas por agentes de ensino devidamente habilitados, sob pena de lhes ser vedado o exercício da sua actividade.
+Art. 35.º Os organismos que tenham como algum dos seus fins promover a prática de desportos são obrigados a instituir, salvo impossibilidade absoluta, devidamente comprovada, aulas de ginástica dirigidas por agentes de ensino devidamente habilitados, sob pena de lhes ser vedado o exercício da sua actividade.
 
 § único. Só poderão assumir a direcção e responsabilidade das aulas a que se refere este artigo os titulares de diplomas reconhecidos pelo Ministério da Educação Nacional.
 
 ...
 
-###### Art. 45.º Os campos de futebol pertencentes aos clubes da 1.ª divisão são arrelvados.
+Art. 45.º Os campos de futebol pertencentes aos clubes da 1.ª divisão são arrelvados.
 
 § 1.º A obrigação imposta no corpo deste artigo deverá ser cumprida, pelos clubes que venham a ter acesso à 1.ª divisão, no prazo de dois anos, a contar da sua nova classificação.
 
@@ -139,19 +155,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 49.º As competições desportivas, qualquer que seja a sua categoria, só poderão ter lugar dentro das épocas próprias, fixadas pela Direcção-Geral.
+Art. 49.º As competições desportivas, qualquer que seja a sua categoria, só poderão ter lugar dentro das épocas próprias, fixadas pela Direcção-Geral.
 
 § único. Excepcionalmente, porém, quando tal se justifique, poderá a Direcção-Geral autorizar a realização de jogos ou competições fora da época estabelecida.
 
 ...
 
-###### Art. 66.º ...
+Art. 66.º ...
 
 § único. Sempre que tal se justifique, poderão as corporações ser integradas nas federações ou associações, constituindo sector destas.
 
 ...
 
-###### Art. 76.º As penas aplicáveis por infracções disciplinares são:
+Art. 76.º As penas aplicáveis por infracções disciplinares são:
 
 1.º Advertência;
 
@@ -165,12 +181,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 6.º Irradiação ou dissolução.
 
-###### Art. 2.º Pelo presente decreto fica revogado o artigo 36.º do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943.
+Art. 2.º Pelo presente decreto fica revogado o artigo 36.º do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 6 de Agosto de 1971.**
+Promulgado em 6 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

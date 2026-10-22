@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/07900/08530855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1981-389442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 886259d51788ce4a3d96ee3dfa48548e908dab1a71abb7a2b2e1c9d3c6976b49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40da8990c0572022fb57f9a3ea82940bf4200e26cf9f9a3f2e72f58d93edfdeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Medicina Aeronáutica
+- Força Aérea
+- Hospital da Força Aérea
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:49Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +148,22 @@ Considerando, ainda, que ao CMA irão ser atribuídos instalações e equipament
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O quadro I anexo ao [Decreto-Lei n.º 54/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1976-506003), de 22 de Janeiro, alterado pelos Decretos-Leis n.os [868/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/868-1976-416436), de 28 de Dezembro, [235/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1977-252632), de 3 de Julho, [524-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-b-1977-331850), de 28 de Dezembro, [101/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1978-296376), de 23 de Maio, e [331/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1978-325946), de 13 de Novembro, e pela [Portaria n.º 583/79](https://diariodarepublica.pt/dr/detalhe/portaria/583-1979-363894), de 6 de Novembro, em cumprimento do n.º 1 do artigo 6.º do [Decreto-Lei n.º 254/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1979-381511), de 28 de Julho, é aumentado dos seguintes lugares:
+Artigo 1.º - 1 - O quadro I anexo ao [Decreto-Lei n.º 54/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1976-506003), de 22 de Janeiro, alterado pelos Decretos-Leis n.os [868/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/868-1976-416436), de 28 de Dezembro, [235/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1977-252632), de 3 de Julho, [524-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-b-1977-331850), de 28 de Dezembro, [101/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1978-296376), de 23 de Maio, e [331/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1978-325946), de 13 de Novembro, e pela [Portaria n.º 583/79](https://diariodarepublica.pt/dr/detalhe/portaria/583-1979-363894), de 6 de Novembro, em cumprimento do n.º 1 do artigo 6.º do [Decreto-Lei n.º 254/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1979-381511), de 28 de Julho, é aumentado dos seguintes lugares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08530855.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08530855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08530855.pdf)
 
 2 - A este quadro são deduzidos os seguintes lugares, que se consideram extintos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08530855.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08530855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08530855.pdf)
 
-###### Art. 2.º - 1 - Para os lugares agora criados poderá ser contratado pessoal já aprovado nos respectivos concursos de admissão, em regime de prestação eventual de serviço, devendo simultaneamente iniciar-se o processo de provimento normal.
+Art. 2.º - 1 - Para os lugares agora criados poderá ser contratado pessoal já aprovado nos respectivos concursos de admissão, em regime de prestação eventual de serviço, devendo simultaneamente iniciar-se o processo de provimento normal.
 
 2 - Os contratos de prestação eventual de serviço celebrados nos termos do número anterior revestem o carácter de urgência e ficam sujeitos ao disposto nos artigos 3.º, n.º 2, e 15.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
 Visto e aprovado em Conselho da Revolução em 16 de Fevereiro de 1981.
 
-**Promulgado em 25 de Fevereiro de 1981.**
+Promulgado em 25 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

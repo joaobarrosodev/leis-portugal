@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 179/1975, 2º Suplemento, Série I de 1975-08-05
   number: '179'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1086-(5) a 1086-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/17902/00050008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-a-1975-321292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6022f24dc1884100392d0e9f9688d6f8ecdac613e0f6f73e8c2dd0e4ac8fd275
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f97c76efd865fc0e07407da4addcef0556a944d0bbaf2fab93aace447f3e411f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Informação
+- Chefe de Repartição
+- Cobrança de Impostos
+- Código da Contribuição Industrial
+- Comissão
+- Contribuição Industrial
+- Declaração de Rendimentos
+- Definição de Competências
+- Direção de Finanças
+- JURO de MORA
+- Pagamento
+- Processo Tributário
+- Reclamação
+- Serviço de Finanças
+- Serviços de Fiscalização
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161519:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:20Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +128,9 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 64.º, 66.º a 79.º, 85.º, 93.º, 95.º, 100.º, 101.º, 139.º e 140.º do Código da Contribuição Industrial passam a ter a redacção seguinte:
+Artigo 1.º Os artigos 64.º, 66.º a 79.º, 85.º, 93.º, 95.º, 100.º, 101.º, 139.º e 140.º do Código da Contribuição Industrial passam a ter a redacção seguinte:
 
-###### Art. 64.º Os serviços de fiscalização prestarão informação sobre a exactidão dos elementos constantes das declarações, indicando, com a devida fundamentação, o lucro tributável que entendam dever ser fixado, ou justificando por que concluem pela sua inexistência.
+Art. 64.º Os serviços de fiscalização prestarão informação sobre a exactidão dos elementos constantes das declarações, indicando, com a devida fundamentação, o lucro tributável que entendam dever ser fixado, ou justificando por que concluem pela sua inexistência.
 
 § 1.º ...
 
@@ -112,7 +140,7 @@ Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, 
 
 ...
 
-###### Art. 66.º Em face das declarações dos contribuintes, da informação devidamente fundamentada dos serviços de fiscalização e de quaisquer outros elementos de que disponha, competirá ao chefe da repartição de finanças:
+Art. 66.º Em face das declarações dos contribuintes, da informação devidamente fundamentada dos serviços de fiscalização e de quaisquer outros elementos de que disponha, competirá ao chefe da repartição de finanças:
 
 a) ...
 
@@ -122,15 +150,15 @@ b) ...
 
 § 2.º Para efeitos da fixação dos lucros tributáveis dos contribuintes do grupo B sem contabilidade regularmente organizada e dos contribuintes do grupo C, será de tomar em conta como remuneração normal do trabalho do contribuinte e dos seus familiares não empregados ou assalariados importância não superior a 30000$00 anuais por cada um.
 
-###### Art. 67.º O lucro tributável dos contribuintes do grupo C só deverá ser alterado quando o chefe da repartição de finanças tenha fundadas razões para admitir que ele podia ter variado em mais de 25% ou em mais de 25000$00.
+Art. 67.º O lucro tributável dos contribuintes do grupo C só deverá ser alterado quando o chefe da repartição de finanças tenha fundadas razões para admitir que ele podia ter variado em mais de 25% ou em mais de 25000$00.
 
-###### Art. 68.º O director de finanças, nos concelhos ou bairros onde o elevado número de contribuintes o justifique, poderá designar outros funcionários, além do chefe da repartição, para procederem ao cálculo dos proveitos e custos e à fixação do lucro tributável, nos termos do artigo 66.º
+Art. 68.º O director de finanças, nos concelhos ou bairros onde o elevado número de contribuintes o justifique, poderá designar outros funcionários, além do chefe da repartição, para procederem ao cálculo dos proveitos e custos e à fixação do lucro tributável, nos termos do artigo 66.º
 
-###### Art. 69.º A fixação dos lucros tributáveis deverá ficar concluída até 30 de Junho e 28 de Fevereiro de cada ano, respectivamente para os contribuintes dos grupos B e C.
+Art. 69.º A fixação dos lucros tributáveis deverá ficar concluída até 30 de Junho e 28 de Fevereiro de cada ano, respectivamente para os contribuintes dos grupos B e C.
 
 § único. No caso de cessação do exercício da actividade, o chefe da repartição de finanças deverá proceder à fixação dos lucros tributáveis no prazo de noventa dias, contados da data da apresentação das declarações, notificando-se seguidamente os contribuintes das respectivas decisões.
 
-###### Art. 70.º Da fixação dos lucros tributáveis poderão os contribuintes reclamar para o chefe da repartição de finanças.
+Art. 70.º Da fixação dos lucros tributáveis poderão os contribuintes reclamar para o chefe da repartição de finanças.
 
 § 1.º A reclamação prevista neste artigo será feita por meio de requerimento, dirigido ao chefe da repartição de finanças, em que, sob pena de ser liminarmente rejeitada, se aleguem os respectivos fundamentos e se indiquem os proveitos, os custos e o lucro tributável que devam ser considerados, tratando-se de contribuintes do grupo B, ou o lucro tributável, se o contribuinte for do grupo C.
 
@@ -144,7 +172,7 @@ b) Se entender que a mesma não é procedente, remeter a reclamação à comiss�
 
 § 4.º Se o contribuinte não aceitar a decisão, deverá comunicá-lo por escrito ao chefe da repartição de finanças, nos oito dias imediatos ao da notificação, o qual, no prazo de cinco dias, a contar da recepção da comunicação, enviará a reclamação, acompanhada do processo individual do contribuinte, à comissão referida na alínea b) do § 2.º, para decisão.
 
-###### Art. 71.º As reclamações deverão ser apresentadas nos prazos seguintes:
+Art. 71.º As reclamações deverão ser apresentadas nos prazos seguintes:
 
 a) De 1 a 15 de Julho, tratando-se de contribuintes do grupo B;
 
@@ -156,7 +184,7 @@ c) Nos quinze dias imediatos à notificação dos contribuintes, no caso referid
 
 § 2.º Qualquer contribuinte poderá, durante esses prazos, tomar conhecimento dos lucros tributáveis respeitantes aos que exerçam actividade da mesma ou análoga natureza.
 
-###### Art. 72.º Em cada direcção de finanças existirá uma comissão de revisão dos lucros tributáveis, à qual competirá fixar a matéria colectável, no caso previsto na alínea b) do § 2.º e no § 4.º do artigo 70.º e que será constituída pela forma seguinte:
+Art. 72.º Em cada direcção de finanças existirá uma comissão de revisão dos lucros tributáveis, à qual competirá fixar a matéria colectável, no caso previsto na alínea b) do § 2.º e no § 4.º do artigo 70.º e que será constituída pela forma seguinte:
 
 Presidente - o director de finanças do distrito.
 
@@ -166,15 +194,15 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 2.º Na falta de organismo que represente os contribuintes ou quando pelo mesmo não seja feita a comunicação referida no parágrafo anterior, será notificada a junta distrital para, no prazo de oito dias, designar os respectivos delegados, de entre os contribuintes do mesmo ramo.
 
-###### Art. 73.º A nomeação dos delegados da Fazenda Nacional deverá recair preferentementte em técnicos indicados pelos organismos ou serviços públicos que superintendam nas respectivas actividades.
+Art. 73.º A nomeação dos delegados da Fazenda Nacional deverá recair preferentementte em técnicos indicados pelos organismos ou serviços públicos que superintendam nas respectivas actividades.
 
-###### Art. 74.º O director-geral das Contribuições e Impostos poderá autorizar o funcionamento de mais de uma comissão distrital de revisão, quando o elevado número de reclamantes o justifique, devendo, neste caso, designar o presidente e o delegado da Fazenda Nacional para cada comissão e providenciar no sentido de que a distribuição do serviço se faça preferentemente com base em ramos de actividade.
+Art. 74.º O director-geral das Contribuições e Impostos poderá autorizar o funcionamento de mais de uma comissão distrital de revisão, quando o elevado número de reclamantes o justifique, devendo, neste caso, designar o presidente e o delegado da Fazenda Nacional para cada comissão e providenciar no sentido de que a distribuição do serviço se faça preferentemente com base em ramos de actividade.
 
-###### Art. 75.º O director de finanças deverá tomar as providências necessárias para que a apreciação das reclamações e a sua devolução às repartições de finanças respectivas se faça no mais curto prazo, e, salvo nos casos de que tratam os artigos 58.º e 62.º, nunca além de 31 de Agosto ou de 10 de Maio do ano em que sejam apresentadas, consoante respeitem a contribuintes dos grupos B ou C.
+Art. 75.º O director de finanças deverá tomar as providências necessárias para que a apreciação das reclamações e a sua devolução às repartições de finanças respectivas se faça no mais curto prazo, e, salvo nos casos de que tratam os artigos 58.º e 62.º, nunca além de 31 de Agosto ou de 10 de Maio do ano em que sejam apresentadas, consoante respeitem a contribuintes dos grupos B ou C.
 
 § único. Quando a reclamação for totalmente desatendida, a comissão fixará, a título de custas, um agravamento à verba principal da colecta, graduado conforme as circunstâncias, mas nunca superior a 5%.
 
-###### Art. 76.º As deliberações das comissões serão tomadas por maioria, tendo o respectivo presidente voto de qualidade no caso de empate.
+Art. 76.º As deliberações das comissões serão tomadas por maioria, tendo o respectivo presidente voto de qualidade no caso de empate.
 
 § 1.º Os delegados dos contribuintes intervirão apenas nas deliberações relativas às actividades que representam. Tratando-se de estabelecimentos mistos, intervirá o delegado que representar o ramo exercido em mais larga escala.
 
@@ -182,15 +210,15 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 3.º Das reuniões lavrar-se-ão actas avulsas, que conterão as deliberações tomadas e os respectivos fundamentos.
 
-###### Art. 77.º O chefe da repartição de finanças e o director de finanças, na qualidade de presidente da comissão referida no artigo 72.º, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que careçam para a fixação dos lucros tributáveis ou apreciação das reclamações.
+Art. 77.º O chefe da repartição de finanças e o director de finanças, na qualidade de presidente da comissão referida no artigo 72.º, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que careçam para a fixação dos lucros tributáveis ou apreciação das reclamações.
 
 § único. ...
 
-###### Art. 78.º O lucro tributável fixado pelo chefe da repartição de finanças ou pela comissão distrital de revisão não é susceptível de reclamação nem de impugnação, nos termos do Código de Processo das Contribuições e Impostos, salvo se tiver havido preterição de formalidades legais, caso em que os contribuintes poderão recorrer para o tribunal de 1.ª instância das contribuições e impostos.
+Art. 78.º O lucro tributável fixado pelo chefe da repartição de finanças ou pela comissão distrital de revisão não é susceptível de reclamação nem de impugnação, nos termos do Código de Processo das Contribuições e Impostos, salvo se tiver havido preterição de formalidades legais, caso em que os contribuintes poderão recorrer para o tribunal de 1.ª instância das contribuições e impostos.
 
 § único. O recurso não tem efeito suspensivo e deverá ser interposto dentro do prazo de um ano a contar da data da decisão.
 
-###### Art. 79.º Tendo ocorrido, na determinação do lucro tributável, injustiça grave ou notória, poderão os contribuintes requerer ao director-geral das Contribuições e Impostos a revisão do lucro tributável pela entidade que proferiu a decisão.
+Art. 79.º Tendo ocorrido, na determinação do lucro tributável, injustiça grave ou notória, poderão os contribuintes requerer ao director-geral das Contribuições e Impostos a revisão do lucro tributável pela entidade que proferiu a decisão.
 
 § 1.º O pedido de revisão previsto neste artigo, devidamente fundamentado, deverá ser apresentado no prazo de um ano a contar da data da decisão e não tem efeito suspensivo.
 
@@ -202,7 +230,7 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 ...
 
-###### Art. 85.º ...
+Art. 85.º ...
 
 a) A liquidação da contribuição industrial, grupo A, será efectuada até 20 de Junho do ano seguinte àquele a que respeita, tratando-se de contribuintes nas condições da alínea a) do artigo 45.º, e até 20 de Agosto, nos restantes casos, de acordo com os elementos constantes da respectiva declaração modelo n.º 2. Na falta de declaração ou tratando-se de agências de sociedades de seguros com sede fora do território do continente e ilhas adjacentes, tributadas pelo processo especial previsto no § 1.º do artigo 27.º, a liquidação terá por base, respectivamente, a totalidade ou 50% da matéria colectável do ano mais próximo que se encontre determinado;
 
@@ -212,23 +240,23 @@ b) ...
 
 ...
 
-###### Art. 93.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 93.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. ...
 
 ...
 
-###### Art. 95.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.
+Art. 95.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.
 
 ...
 
-###### Art. 100.º ...
+Art. 100.º ...
 
 ...
 
 d) Até 20 de Junho os relativos à contribuição industrial, grupo C.
 
-###### Art. 101.º A contribuição industrial será paga:
+Art. 101.º A contribuição industrial será paga:
 
 a) Em duas prestações, no caso da liquidação provisória a que se refere o artigo 85.º, e, sendo de montante superior a 1000$00, com vencimento em Julho e Outubro ou em Setembro e Outubro, conforme se trate de contribuição do grupo A de contribuintes nas condições da alínea a) ou da alínea b) do artigo 45.º, ou em Janeiro e Julho, tratando-se de contribuição do grupo B;
 
@@ -242,19 +270,19 @@ c) No caso de contribuição do grupo C quando superior a 1000$00, em duas prest
 
 ...
 
-###### Art. 139.º ...
+Art. 139.º ...
 
 § 1.º O mesmo se observará quando, em exame à escrita dos contribuintes do grupo A ou em face da determinação da matéria colectável pelo sistema do grupo B nos termos do § 2.º do artigo 114.º ou ainda de revisão do lucro tributável nos termos do artigo 79.º, se verifique que a contribuição devida é inferior à que foi liquidada.
 
 § 2.º Não se procederá a anulação quando o seu quantitativo seja inferior a 100$00.
 
-###### Art. 140.º ...
+Art. 140.º ...
 
 § 1.º Contar-se-ão juros de 12% ao ano a favor do contribuinte sempre que, estando paga a contribuição, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
 § 2.º ...
 
-###### Art. 2.º Os prazos a observar no ano de 1975 nas operações de lançamento e cobrança da contribuição industrial, grupos A e B, são os seguintes:
+Art. 2.º Os prazos a observar no ano de 1975 nas operações de lançamento e cobrança da contribuição industrial, grupos A e B, são os seguintes:
 
 Grupo A
 
@@ -310,16 +338,16 @@ Grupo B
 
 7) Cobrança, em Novembro.
 
-###### Art. 3.º No presente ano competem à comissão distrital constituída nos termos do actual artigo 71.º as atribuições referidas no artigo 72.º, com a redacção dada por este diploma.
+Art. 3.º No presente ano competem à comissão distrital constituída nos termos do actual artigo 71.º as atribuições referidas no artigo 72.º, com a redacção dada por este diploma.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor, aplicando-se as suas disposições à determinação da matéria colectável, ainda não fixada, da contribuição industrial respeitante ao ano de 1974.
+Art. 4.º Este diploma entra imediatamente em vigor, aplicando-se as suas disposições à determinação da matéria colectável, ainda não fixada, da contribuição industrial respeitante ao ano de 1974.
 
-###### Art. 5.º A alteração ao artigo 101.º do Código só será de aplicar à contribuição do ano de 1975 e seguintes.
+Art. 5.º A alteração ao artigo 101.º do Código só será de aplicar à contribuição do ano de 1975 e seguintes.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 5 de Agosto de 1975.**
+Promulgado em 5 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

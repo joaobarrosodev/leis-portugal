@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1978-425556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07654c0996e6df8e49585daafdf61d208d1da3c247957f7b636294c9f74656ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c7e0620aeee2e4a6dd76f2a80a5103cadf36acc76f982d617a2a025f2790521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Denominação de Instituição
+- Ensino Secundário
+- Escola Secundária
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:382059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:382059:por
+  label: "Revogados os arts. 2.º e 3.º pelo DEC LEI.219/79.1979.07.17.MEIC DR.IS [163]N\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1979-382059
+  date: '1979-07-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:54Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +103,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Todos os estabelecimentos do ensino secundário passam a ter a designação genérica de escolas secundárias.
+Artigo 1.º Todos os estabelecimentos do ensino secundário passam a ter a designação genérica de escolas secundárias.
 
-###### Art. 2.º As escolas secundárias mantêm as designações dos antigos liceus e das antigas escolas técnicas industriais, comerciais e industriais e comerciais.
+Art. 2.º As escolas secundárias mantêm as designações dos antigos liceus e das antigas escolas técnicas industriais, comerciais e industriais e comerciais.
 
-###### Art. 3.º O Ministro da Educação e Cultura procederá, mediante portaria, às alterações de designação das escolas secundárias tornadas necessárias por força do disposto no presente decreto-lei.
+Art. 3.º O Ministro da Educação e Cultura procederá, mediante portaria, às alterações de designação das escolas secundárias tornadas necessárias por força do disposto no presente decreto-lei.
 
 Mário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 14 de Abril de 1978.**
+Promulgado em 14 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

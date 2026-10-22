@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15900/14961502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1979-380550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95f99d0207ec975601f04c87a2018cb6a295eea150fc8b2529324d463111d2c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07d6a220bf24bba8de93ba4565dd56dcdfd18cf87bc03d0703fdfce9abde0ff9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Farmacêutico
+- Ordem dos Farmacêuticos
 relationships:
 - type: amended_by
   target: pt:dre:607724:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:676612:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:607724:por
+  label: "Revogado pelo DEC LEI.288/2001.2001.11.10.MS, DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-2001-607724
+  date: '2001-11-10'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:01Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +102,25 @@ de 12 de Julho
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Estatuto da Ordem dos Farmacêuticos, anexo ao presente decreto-lei.
+Artigo único. É aprovado o Estatuto da Ordem dos Farmacêuticos, anexo ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1979. - Carlos Alberto da Mota Pinto - Acácio Manuel Pereira Magro.
 
-**Promulgado em 3 de Julho de 1979.**
+Promulgado em 3 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA ORDEM DOS FARMACÊUTICOS
 
 ### CAPÍTULO I — Denominação, sede, fins e atribuições
 
-###### Artigo 1.º - 1 - A Ordem dos Farmacêuticos abrange e representa os diplomados em Farmácia que exercem a profissão farmacêutica ou praticam actos próprios desta profissão em território português.
+Artigo 1.º - 1 - A Ordem dos Farmacêuticos abrange e representa os diplomados em Farmácia que exercem a profissão farmacêutica ou praticam actos próprios desta profissão em território português.
 
 2 - A Ordem mantém a designação tradicional de Sociedade Farmacêutica Lusitana, de que é legítima continuadora.
 
-###### Art. 2.º - 1 - A Ordem dos Farmacêuticos é de âmbito nacional, tem a sua sede em Lisboa e é constituída pelas Secções Regionais de Lisboa, Coimbra e Porto, cada uma com sede nas respectivas localidades.
+Art. 2.º - 1 - A Ordem dos Farmacêuticos é de âmbito nacional, tem a sua sede em Lisboa e é constituída pelas Secções Regionais de Lisboa, Coimbra e Porto, cada uma com sede nas respectivas localidades.
 
 2 - As secções regionais terão as áreas geográficas correspondentes aos distritos que a seguir se indicam:
 
@@ -122,7 +134,7 @@ c) Porto - distritos do Porto, Viana do Castelo, Braga, Vila Real e Bragança.
 
 4 - A Ordem poderá ainda criar, sempre que o entenda necessário, secções, delegações ou outras formas de representação noutros locais do território nacional.
 
-###### Art. 3.º - São fins da Ordem dos Farmacêuticos:
+Art. 3.º - São fins da Ordem dos Farmacêuticos:
 
 a) O prosseguimento de uma correcta política nacional de saúde e a sua adequada execução;
 
@@ -130,7 +142,7 @@ b) A defesa da dignidade da profissão farmacêutica;
 
 c) O fomento e a defesa dos interesses da profissão farmacêutica, nomeadamente no que respeita à promoção sócio-profissional e à segurança social.
 
-###### Art. 4.º Para a prossecução dos fins indicados no artigo anterior a Ordem dos Farmacêuticos exercerá a sua acção nos domínios social, científico, cultural, deontológico, profissional e económico da actividade da profissão farmacêutica, competindo-lhe:
+Art. 4.º Para a prossecução dos fins indicados no artigo anterior a Ordem dos Farmacêuticos exercerá a sua acção nos domínios social, científico, cultural, deontológico, profissional e económico da actividade da profissão farmacêutica, competindo-lhe:
 
 I - No campo social:
 
@@ -174,27 +186,27 @@ e) Colaborar com os sindicatos que representam farmacêuticos e, nomeadamente, o
 
 ### CAPÍTULO II — Da inscrição, direitos e deveres dos sócios
 
-###### Art. 5.º O exercício da profissão de farmacêutico ou a prática de actos próprios desta profissão depende de inscrição na Ordem dos Farmacêuticos.
+Art. 5.º O exercício da profissão de farmacêutico ou a prática de actos próprios desta profissão depende de inscrição na Ordem dos Farmacêuticos.
 
-###### Art. 6.º Podem inscrever-se na Ordem os portugueses e estrangeiros diplomados em Farmácia por escola superior portuguesa ou estrangeira, desde que, neste último caso, hajam obtido equivalência aos cursos professados em Portugal.
+Art. 6.º Podem inscrever-se na Ordem os portugueses e estrangeiros diplomados em Farmácia por escola superior portuguesa ou estrangeira, desde que, neste último caso, hajam obtido equivalência aos cursos professados em Portugal.
 
-###### Art. 7.º Será suspensa ou cancelada a inscrição na Ordem dos Farmacêuticos, consoante os casos:
+Art. 7.º Será suspensa ou cancelada a inscrição na Ordem dos Farmacêuticos, consoante os casos:
 
 a) Aos que hajam sido punidos com pena de suspensão;
 
 b) Aos que a solicitem, por terem deixado de exercer a actividade profissional.
 
-###### Art. 8.º - 1 - Cabe à direcção regional aceitar ou recusar a inscrição na Ordem, podendo, neste último caso, o candidato recorrer para a direcção nacional.
+Art. 8.º - 1 - Cabe à direcção regional aceitar ou recusar a inscrição na Ordem, podendo, neste último caso, o candidato recorrer para a direcção nacional.
 
 2 - Aceite a inscrição, será emitida a cédula profissional, assinada pelo bastonário.
 
-###### Art. 9.º - 1 - Podem ser inscritos como membros honorários, mediante proposta da direcção nacional aprovada pela assembleia geral, os indivíduos, farmacêuticos ou não, que hajam prestado serviços relevantes à Ordem ou à profissão farmacêutica.
+Art. 9.º - 1 - Podem ser inscritos como membros honorários, mediante proposta da direcção nacional aprovada pela assembleia geral, os indivíduos, farmacêuticos ou não, que hajam prestado serviços relevantes à Ordem ou à profissão farmacêutica.
 
 2 - Os membros honorários que não sejam também membros efectivos não gozam dos direitos que a estes últimos se conferem no presente Estatuto.
 
-###### Art. 10.º Só podem usar o título de farmacêutico especialista os sócios inscritos no quadro dos especialistas organizado pela Ordem.
+Art. 10.º Só podem usar o título de farmacêutico especialista os sócios inscritos no quadro dos especialistas organizado pela Ordem.
 
-###### Art. 11.º São direitos do farmacêutico, entre outros:
+Art. 11.º São direitos do farmacêutico, entre outros:
 
 a) Exercer a profissão farmacêutica no território nacional;
 
@@ -208,7 +220,7 @@ e) Reclamar perante a direcção nacional dos actos que considere lesivos dos se
 
 f) Criticar nas assembleias os actos das direcções regionais ou da direcção nacional e submeter à votação moções de censura aos referidos órgãos.
 
-###### Art. 12.º São deveres do farmacêutico, designadamente:
+Art. 12.º São deveres do farmacêutico, designadamente:
 
 a) Cumprir as regras deontológicas que regulam o exercício da profissão farmacêutica;
 
@@ -224,9 +236,9 @@ e) Pagar as quotas e os demais encargos regulamentares.
 
 #### SECÇÃO I — Da enumeração e eleição
 
-###### Art. 13.º A Ordem dos Farmacêuticos exerce a sua acção a nível nacional e regional através, respectivamente, de órgãos de âmbito nacional e regional.
+Art. 13.º A Ordem dos Farmacêuticos exerce a sua acção a nível nacional e regional através, respectivamente, de órgãos de âmbito nacional e regional.
 
-###### Art. 14.º São órgãos de âmbito nacional:
+Art. 14.º São órgãos de âmbito nacional:
 
 a) A assembleia geral;
 
@@ -242,7 +254,7 @@ f) Os conselhos consultivos;
 
 g) Os colégios de especialidades.
 
-###### Art. 15.º São órgãos de âmbito regional:
+Art. 15.º São órgãos de âmbito regional:
 
 a) A assembleia regional;
 
@@ -254,11 +266,11 @@ d) O conselho fiscal regional;
 
 e) As delegações regionais.
 
-###### Art. 16.º - 1 - O mandato dos órgãos é de três anos, não podendo os associados ser reeleitos mais que uma vez para o exercício do mesmo cargo.
+Art. 16.º - 1 - O mandato dos órgãos é de três anos, não podendo os associados ser reeleitos mais que uma vez para o exercício do mesmo cargo.
 
 2 - Exceptuam-se do disposto no número anterior os membros dos conselhos consultivos e dos colégios de especialidades.
 
-###### Art. 17.º - 1 - A eleição ocorrerá no mesmo dia e hora em todo o território nacional, havendo obrigatoriamente mesas de voto nas sedes das secções regionais e delegações regionais para todos os órgãos a eleger.
+Art. 17.º - 1 - A eleição ocorrerá no mesmo dia e hora em todo o território nacional, havendo obrigatoriamente mesas de voto nas sedes das secções regionais e delegações regionais para todos os órgãos a eleger.
 
 2 - O direito de voto pode ser exercido por correspondência, desde que seja salvaguardado o sigilo inerente àquele acto.
 
@@ -270,7 +282,7 @@ e) As delegações regionais.
 
 ## TÍTULO I — Da assembleia geral
 
-###### Art. 18.º - 1 - A assembleia geral é constituída por trinta delegados, cabendo quinze à Secção Regional de Lisboa, dez à do Porto e cinco à de Coimbra.
+Art. 18.º - 1 - A assembleia geral é constituída por trinta delegados, cabendo quinze à Secção Regional de Lisboa, dez à do Porto e cinco à de Coimbra.
 
 2 - Às Regiões Autónomas dos Açores e da Madeira caberá um delegado a cada uma, os quais, uma vez eleitos, serão integrados na delegação de Lisboa.
 
@@ -286,29 +298,29 @@ e) As delegações regionais.
 
 8 - O mandato dos delegados não é imperativo.
 
-###### Art. 19.º - 1 - A mesa da assembleia geral é constituída por um presidente e dois secretários, eleitos pelos farmacêuticos inscritos na Ordem, e por três membros, sendo estes designados um por cada mesa das assembleias regionais.
+Art. 19.º - 1 - A mesa da assembleia geral é constituída por um presidente e dois secretários, eleitos pelos farmacêuticos inscritos na Ordem, e por três membros, sendo estes designados um por cada mesa das assembleias regionais.
 
 2 - Só pode ser eleito presidente da mesa um farmacêutico diplomado há mais de dez anos e de idade não inferior a 35 anos.
 
 3 - A mesa escolherá, de entre si, um vice-presidente, com a aprovação do respectivo presidente.
 
-###### Art. 20.º Compete à assembleia geral:
+Art. 20.º Compete à assembleia geral:
 
 a) Apreciar e votar o relatório, contas e orçamento da direcção;
 
 b) Deliberar sobre todos os assuntos respeitantes à actividade da Ordem ou que se situem no campo das suas finalidades estatutárias.
 
-###### Art. 21.º As reuniões da assembleia geral são convocadas, com a antecedência mínima de trinta dias, pelo presidente da respectiva mesa, por iniciativa deste ou a pedido da direcção, de qualquer das direcções regionais ou de um mínimo de sessenta membros da Ordem, dos quais o número de inscritos na Secção Regional de Lisboa não poderá ser superior a dois terços do número total de signatários do pedido da convocatória.
+Art. 21.º As reuniões da assembleia geral são convocadas, com a antecedência mínima de trinta dias, pelo presidente da respectiva mesa, por iniciativa deste ou a pedido da direcção, de qualquer das direcções regionais ou de um mínimo de sessenta membros da Ordem, dos quais o número de inscritos na Secção Regional de Lisboa não poderá ser superior a dois terços do número total de signatários do pedido da convocatória.
 
 ## TÍTULO II — Da direcção nacional
 
-###### Art. 22.º - 1 - A direcção nacional é constituída pelo presidente, que será o bastonário, e por seis vogais, sendo três deles os presidentes das direcções regionais, e os restantes três eleitos por sufrágio universal e directo.
+Art. 22.º - 1 - A direcção nacional é constituída pelo presidente, que será o bastonário, e por seis vogais, sendo três deles os presidentes das direcções regionais, e os restantes três eleitos por sufrágio universal e directo.
 
 2 - Os membros da direcção nacional escolherão entre si um vice-presidente, um secretário e um tesoureiro.
 
 3 - De entre os seus membros, a direcção nacional, com a aprovação do bastonário, escolherá um conselho executivo composto por três elementos, que assistirá o presidente em casos de reconhecida urgência e gravidade.
 
-###### Art. 23.º Compete à direcção nacional:
+Art. 23.º Compete à direcção nacional:
 
 a) Dirigir a actividade da Ordem a nível nacional;
 
@@ -328,13 +340,13 @@ h) Elaborar e apresentar à assembleia geral o relatório, contas e orçamento a
 
 i) De uma maneira geral, exercer as actividades e praticar os actos necessários à consecução das finalidades da Ordem, de harmonia com as deliberações da assembleia geral.
 
-###### Art. 24.º A direcção nacional reunirá, em princípio, uma vez por mês ou quando for convocada pelo seu presidente.
+Art. 24.º A direcção nacional reunirá, em princípio, uma vez por mês ou quando for convocada pelo seu presidente.
 
 ## TÍTULO III — Do bastonário
 
-###### Art. 25.º O bastonário é eleito por sufrágio universal e directo de entre os farmacêuticos diplomados há mais de dez anos e de idade não inferior a 35 anos.
+Art. 25.º O bastonário é eleito por sufrágio universal e directo de entre os farmacêuticos diplomados há mais de dez anos e de idade não inferior a 35 anos.
 
-###### Art. 26.º Compete ao bastonário:
+Art. 26.º Compete ao bastonário:
 
 a) Representar a Ordem em juízo e fora dele;
 
@@ -346,11 +358,11 @@ d) Velar pelo normal funcionamento dos serviços da Ordem e pelo exacto cumprime
 
 ## TÍTULO IV — Do conselho jurisdicional nacional
 
-###### Art. 27.º - 1 - O conselho jurisdicional nacional é constituído por três membros, sendo eleito um por cada assembleia regional.
+Art. 27.º - 1 - O conselho jurisdicional nacional é constituído por três membros, sendo eleito um por cada assembleia regional.
 
 2 - O presidente será designado pelos membros eleitos.
 
-###### Art. 28.º - 1 - Compete ao conselho jurisdicional nacional velar pelo cumprimento da lei, deste Estatuto e dos regulamentos, por parte dos órgãos da Ordem.
+Art. 28.º - 1 - Compete ao conselho jurisdicional nacional velar pelo cumprimento da lei, deste Estatuto e dos regulamentos, por parte dos órgãos da Ordem.
 
 2 - Compete exclusivamente ao conselho instruir e julgar os processos disciplinares em que sejam arguidos os membros que exercem ou exerceram cargos nos seguintes órgãos da Ordem: direcções nacional e regionais, mesas da assembleia geral e regionais e conselhos jurisdicionais e fiscais nacionais ou regionais.
 
@@ -362,21 +374,21 @@ d) Velar pelo normal funcionamento dos serviços da Ordem e pelo exacto cumprime
 
 ## TÍTULO V — Do conselho fiscal nacional
 
-###### Art. 29.º - 1 - O conselho fiscal nacional é constituído por três membros, sendo eleito um por cada assembleia regional.
+Art. 29.º - 1 - O conselho fiscal nacional é constituído por três membros, sendo eleito um por cada assembleia regional.
 
 2 - O presidente será designado pelos membros eleitos.
 
-###### Art. 30.º Compete ao conselho examinar e emitir parecer sobre as contas anuais a apresentar pela direcção nacional à assembleia geral, apresentar à mesma direcção sugestões que entender de interesse e ainda fiscalizar as actas lavradas nas reuniões da direcção nacional.
+Art. 30.º Compete ao conselho examinar e emitir parecer sobre as contas anuais a apresentar pela direcção nacional à assembleia geral, apresentar à mesma direcção sugestões que entender de interesse e ainda fiscalizar as actas lavradas nas reuniões da direcção nacional.
 
 ## TÍTULO VI — Dos conselhos consultivos
 
-###### Art. 31.º Junto da direcção nacional e da assembleia geral funcionarão órgãos consultivos, que são os conselhos nacionais consultivos, com a finalidade de darem pareceres e informações sobre os assuntos que recaiam no âmbito da sua competência.
+Art. 31.º Junto da direcção nacional e da assembleia geral funcionarão órgãos consultivos, que são os conselhos nacionais consultivos, com a finalidade de darem pareceres e informações sobre os assuntos que recaiam no âmbito da sua competência.
 
-###### Art. 32.º - 1 - Cada conselho nacional consultivo é constituído por três membros, designados pela direcção nacional, um dos quais será o coordenador.
+Art. 32.º - 1 - Cada conselho nacional consultivo é constituído por três membros, designados pela direcção nacional, um dos quais será o coordenador.
 
 2 - Para membros dos conselhos nacionais consultivos deverão ser escolhidos farmacêuticos inscritos na Ordem que se tenham distinguido pelos seus méritos profissionais, intelectuais ou científicos.
 
-###### Art. 33.º - 1 - Haverá, para além de outros que as circunstâncias venham a mostrar necessários, os seguintes conselhos nacionais consultivos:
+Art. 33.º - 1 - Haverá, para além de outros que as circunstâncias venham a mostrar necessários, os seguintes conselhos nacionais consultivos:
 
 a) Conselho nacional de deontologia farmacêutica;
 
@@ -448,7 +460,7 @@ c) Ter participação efectiva nos organismos responsáveis pela orientação, p
 
 ## TÍTULO VII — Dos colégios de especialidades
 
-###### Art. 34.º - 1 - Os colégios de especialidades são os órgãos profissionais da Ordem dos Farmacêuticos que congregam os farmacêuticos qualificados nas diferentes especialidades.
+Art. 34.º - 1 - Os colégios de especialidades são os órgãos profissionais da Ordem dos Farmacêuticos que congregam os farmacêuticos qualificados nas diferentes especialidades.
 
 2 - Há tantos colégios quantas as especialidades ou grupos de especialistas afins.
 
@@ -488,11 +500,11 @@ f) Dar pareceres à direcção nacional e ser ouvidos, quando seja caso disso, p
 
 ## TÍTULO I — Da assembleia regional
 
-###### Art. 35.º A assembleia regional é constituída por todos os membros inscritos na respectiva secção regional.
+Art. 35.º A assembleia regional é constituída por todos os membros inscritos na respectiva secção regional.
 
-###### Art. 36.º A mesa da assembleia regional é constituída por um presidente e dois secretários, eleitos pelos farmacêuticos inscritos na respectiva secção.
+Art. 36.º A mesa da assembleia regional é constituída por um presidente e dois secretários, eleitos pelos farmacêuticos inscritos na respectiva secção.
 
-###### Art. 37.º Compete à assembleia regional:
+Art. 37.º Compete à assembleia regional:
 
 a) Apreciar e votar o relatório, contas e orçamento da direcção regional;
 
@@ -502,7 +514,7 @@ c) Discutir e votar moções sobre quaisquer assuntos respeitantes ao exercício
 
 d) Proceder à eleição dos membros dos órgãos da Ordem, a nível nacional e regional, bem como da sua própria mesa.
 
-###### Art. 38.º - 1 - As reuniões da assembleia regional são convocadas, com a antecedência mínima de dez dias, pelo presidente da respectiva mesa, por iniciativa deste ou a pedido da respectiva direcção regional ou de um mínimo de 5% dos membros inscritos na respectiva secção regional.
+Art. 38.º - 1 - As reuniões da assembleia regional são convocadas, com a antecedência mínima de dez dias, pelo presidente da respectiva mesa, por iniciativa deste ou a pedido da respectiva direcção regional ou de um mínimo de 5% dos membros inscritos na respectiva secção regional.
 
 2 - As reuniões requeridas não se realizarão sem a presença de, pelo menos, dois terços dos requerentes.
 
@@ -510,11 +522,11 @@ d) Proceder à eleição dos membros dos órgãos da Ordem, a nível nacional e 
 
 ## TÍTULO II — Da direcção regional
 
-###### Art. 39.º - 1 - A direcção regional é constituída pelo presidente e por um mínimo de dois e um máximo de quatro vogais eleitos pela assembleia regional de cada secção, sendo o presidente escolhido por e de entre eles.
+Art. 39.º - 1 - A direcção regional é constituída pelo presidente e por um mínimo de dois e um máximo de quatro vogais eleitos pela assembleia regional de cada secção, sendo o presidente escolhido por e de entre eles.
 
 2 - Haverá uma direcção regional em cada secção regional.
 
-###### Art. 40.º Compete à direcção regional:
+Art. 40.º Compete à direcção regional:
 
 a) Dirigir a actividade da Ordem a nível regional;
 
@@ -536,29 +548,29 @@ i) De uma maneira geral, exercer as actividades e praticar os actos necessários
 
 ## TÍTULO III — Do conselho jurisdicional regional
 
-###### Art. 41.º O conselho jurisdicional regional é o órgão disciplinar constituído por três membros eleitos pela assembleia regional de cada secção, sendo o presidente escolhido por e de entre eles.
+Art. 41.º O conselho jurisdicional regional é o órgão disciplinar constituído por três membros eleitos pela assembleia regional de cada secção, sendo o presidente escolhido por e de entre eles.
 
-###### Art. 42.º Compete ao conselho jurisdicional regional instruir e julgar, em 1.ª instância, os processos disciplinares respeitantes a farmacêuticos inscritos na respectiva secção regional, com excepção dos que são da exclusiva competência do conselho jurisdicional nacional.
+Art. 42.º Compete ao conselho jurisdicional regional instruir e julgar, em 1.ª instância, os processos disciplinares respeitantes a farmacêuticos inscritos na respectiva secção regional, com excepção dos que são da exclusiva competência do conselho jurisdicional nacional.
 
 ## TÍTULO IV — Do conselho fiscal regional
 
-###### Art. 43.º o conselho fiscal regional é o órgão fiscal constituído por três membros eleitos pela assembleia regional da respectiva secção, sendo o presidente escolhido por e de entre eles.
+Art. 43.º o conselho fiscal regional é o órgão fiscal constituído por três membros eleitos pela assembleia regional da respectiva secção, sendo o presidente escolhido por e de entre eles.
 
-###### Art. 44.º Compete ao conselho examinar e dar parecer sobre as contas anuais a apresentar pela direcção regional à assembleia regional, apresentar à mesma direcção sugestões que entender de interesse e ainda fiscalizar as actas lavradas nas reuniões da direcção regional.
+Art. 44.º Compete ao conselho examinar e dar parecer sobre as contas anuais a apresentar pela direcção regional à assembleia regional, apresentar à mesma direcção sugestões que entender de interesse e ainda fiscalizar as actas lavradas nas reuniões da direcção regional.
 
 ## TÍTULO V — Das delegações regionais
 
-###### Art. 45.º nas Regiões Autónomas dos Açores e da Madeira funcionará uma delegação regional em cada uma, competindo-lhe, de uma forma geral, praticar todos os actos da competência das direcções regionais, excepto os mencionados na alínea c) do artigo 40.º
+Art. 45.º nas Regiões Autónomas dos Açores e da Madeira funcionará uma delegação regional em cada uma, competindo-lhe, de uma forma geral, praticar todos os actos da competência das direcções regionais, excepto os mencionados na alínea c) do artigo 40.º
 
-###### Art. 46.º A delegação regional será dirigida pelo respectivo delegado à assembleia geral.
+Art. 46.º A delegação regional será dirigida pelo respectivo delegado à assembleia geral.
 
-###### Art. 47.º Nas delegações regionais a competência a que se refere o artigo 37.º, na medida aplicável, é exercida pelo plenário regional.
+Art. 47.º Nas delegações regionais a competência a que se refere o artigo 37.º, na medida aplicável, é exercida pelo plenário regional.
 
 ### CAPÍTULO IV — Da acção disciplinar
 
-###### Art. 48.º Será considerada infracção disciplinar o facto praticado pelo membro inscrito que viole os deveres da deontologia e ética profissional ou que de algum modo se relacionem com o exercício da profissão previstos em lei própria, neste Estatuto e nos regulamentos da Ordem.
+Art. 48.º Será considerada infracção disciplinar o facto praticado pelo membro inscrito que viole os deveres da deontologia e ética profissional ou que de algum modo se relacionem com o exercício da profissão previstos em lei própria, neste Estatuto e nos regulamentos da Ordem.
 
-###### Art. 49.º As sanções disciplinares são:
+Art. 49.º As sanções disciplinares são:
 
 a) Advertência;
 
@@ -566,21 +578,21 @@ b) Multa até 50000$00;
 
 c) Suspensão até dez anos.
 
-###### Art. 50.º As sanções aplicadas serão registadas na ficha individual do membro inscrito, não podendo em caso algum ser-lhes dada publicidade.
+Art. 50.º As sanções aplicadas serão registadas na ficha individual do membro inscrito, não podendo em caso algum ser-lhes dada publicidade.
 
 ### CAPÍTULO V — Das receitas e despesas
 
-###### Art. 51.º - 1 - O sócio, após a inscrição, é obrigado a contribuir para a Ordem com a jóia e quota mensal que forem fixadas pela direcção nacional.
+Art. 51.º - 1 - O sócio, após a inscrição, é obrigado a contribuir para a Ordem com a jóia e quota mensal que forem fixadas pela direcção nacional.
 
 2 - A direcção nacional, mediante proposta fundamentada da direcção regional, poderá isentar temporariamente do pagamento de quotas os membros da Ordem que se encontrem em situação de justificar tal isenção.
 
-###### Art. 52.º - 1 - Da receita proveniente das jóias e quotas destinar-se-á à direcção nacional uma percentagem entre 20% e 30%, a fixar anualmente pela assembleia geral, revertendo o restante para a direcção regional.
+Art. 52.º - 1 - Da receita proveniente das jóias e quotas destinar-se-á à direcção nacional uma percentagem entre 20% e 30%, a fixar anualmente pela assembleia geral, revertendo o restante para a direcção regional.
 
 2 - Onde houver delegações, pertencerão a estas 60% das jóias e quotas, sendo os restantes 40% atribuídos na proporção de metade à direcção regional e de outra metade à direcção nacional.
 
 3 - Atenta a manifesta insuficiência das receitas das delegações regionais, poderão estas fixar em plenário regional uma quota suplementar destinada exclusivamente às despesas da delegação.
 
-###### Art. 53.º - Constituem receitas da Ordem:
+Art. 53.º - Constituem receitas da Ordem:
 
 a) Jóias e quotas pagas pelos associados;
 
@@ -590,26 +602,26 @@ c) Doações, heranças ou legados que venham a ser instituídos em seu benefíc
 
 d) Outras receitas e serviços de bens próprios.
 
-###### Art. 54.º - 1 - Cada secção regional suportará as despesas de deslocação e estadia dos delegados à assembleia geral.
+Art. 54.º - 1 - Cada secção regional suportará as despesas de deslocação e estadia dos delegados à assembleia geral.
 
 2 - Exceptuam-se do disposto no número anterior as despesas efectuadas pelos delegados das Regiões Autónomas dos Açores e da Madeira, as quais serão comparticipadas pela Ordem na proporção de 50%.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 55.º Serão elaborados os regulamentos internos necessários ao normal funcionamento da Ordem, nomeadamente os respeitantes à acção disciplinar e ao acto eleitoral.
+Art. 55.º Serão elaborados os regulamentos internos necessários ao normal funcionamento da Ordem, nomeadamente os respeitantes à acção disciplinar e ao acto eleitoral.
 
-###### Art. 56.º - 1 - Estão isentos do imposto do selo as certidões expedidas pela Ordem, os requerimentos e petições a ela dirigidos e os processos que nela corram.
+Art. 56.º - 1 - Estão isentos do imposto do selo as certidões expedidas pela Ordem, os requerimentos e petições a ela dirigidos e os processos que nela corram.
 
 2 - A Ordem pode requerer e alegar em papel não selado e é isenta de custas, preparos e imposto de justiça em qualquer processo em que intervenha.
 
-###### Art. 57.º Os membros directivos dos órgãos da Ordem e os delegados à assembleia geral, quando trabalhadores por conta de outrem, gozam das mesmas regalias que os dirigentes sindicais quanto às facilidades concedidas pelas respectivas entidades patronais.
+Art. 57.º Os membros directivos dos órgãos da Ordem e os delegados à assembleia geral, quando trabalhadores por conta de outrem, gozam das mesmas regalias que os dirigentes sindicais quanto às facilidades concedidas pelas respectivas entidades patronais.
 
-###### Art. 58.º As dúvidas que se suscitem na interpretação do presente Estatuto serão resolvidas por decisão da direcção nacional, sob parecer do conselho jurisdicional nacional.
+Art. 58.º As dúvidas que se suscitem na interpretação do presente Estatuto serão resolvidas por decisão da direcção nacional, sob parecer do conselho jurisdicional nacional.
 
-###### Art. 59.º É revogado o [Decreto-Lei n.º 334/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1972-676612), de 23 de Agosto.
+Art. 59.º É revogado o [Decreto-Lei n.º 334/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1972-676612), de 23 de Agosto.
 
-###### Art. 60.º - 1 - Até noventa dias após a entrada em vigor deste Estatuto serão realizadas as eleições dos diversos órgãos nacionais e regionais.
+Art. 60.º - 1 - Até noventa dias após a entrada em vigor deste Estatuto serão realizadas as eleições dos diversos órgãos nacionais e regionais.
 
 2 - A organização do recenseamento e acto eleitoral, do escrutínio e, de um modo geral, das respectivas fases processuais caberá a uma comissão eleitoral constituída por seis membros, sendo designados dois por cada direcção regional actual.
 
-**O Ministro dos Assuntos Sociais, Acácio Manuel Pereira Magro.**
+O Ministro dos Assuntos Sociais, Acácio Manuel Pereira Magro.

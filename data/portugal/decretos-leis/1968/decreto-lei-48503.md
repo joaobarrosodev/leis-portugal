@@ -47,36 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48503-1968-273632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3034e15f689fbe2467c53ec55a01019cbef550967ea5b3b67308fb20a90d81f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affbbec5e1544e18134cde761d771b46537123482a5341fd0e092a4aaac8afb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Aquisição de Imóveis
+- CASA do Estado
+- Cofre dos Conservadores Notários e Funcionários da Justiça
+- Conselho Administrativo
+- Conselho Técnico
+- Conservador
+- Conservatória dos Registos Centrais
+- Criação de Serviços
+- Definição de Competências
+- Despesas de Deslocação
+- Direcção Geral dos Registos e do Notariado
+- Formas de Provimento
+- Gabinete Técnico
+- Gratificação
+- Ministro da Justiça
+- Mobilidade de Pessoal
+- Notário
+- Pessoal Auxiliar
+- Quadro de Pessoal
+- Remuneração
+- Senha de Presença
+relationships:
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521831:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:10Z'
   warnings: []
   errors: []
 ---
@@ -121,67 +167,67 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado na Direcção-Geral dos Registos e do Notariado um gabinete técnico, ao qual compete o serviço de consultas e a elaboração de pareceres sobre matérias de registo, notariais e de identificação, bem como a preparação de projectos de diplomas legislativos respeitantes ao funcionamento, organização e divisão territorial dos serviços externos dependentes da Direcção-Geral.
+Artigo 1.º - 1. É criado na Direcção-Geral dos Registos e do Notariado um gabinete técnico, ao qual compete o serviço de consultas e a elaboração de pareceres sobre matérias de registo, notariais e de identificação, bem como a preparação de projectos de diplomas legislativos respeitantes ao funcionamento, organização e divisão territorial dos serviços externos dependentes da Direcção-Geral.
 
 2. À 2.ª Repartição da Direcção-Geral pertence o serviço de expediente do gabinete técnico, a organização de ficheiros doutrinários e a elaboração da estatística dos serviços externos.
 
-###### Art. 2.º - 1. O gabinete técnico funciona sob a orientação imediata de um director de serviços, sendo constituído por técnicos de 1.ª e 2.ª classes especializados em matérias de registo e notariais.
+Art. 2.º - 1. O gabinete técnico funciona sob a orientação imediata de um director de serviços, sendo constituído por técnicos de 1.ª e 2.ª classes especializados em matérias de registo e notariais.
 
 2. O director dos serviços técnicos exerce, por inerência, as funções de chefe da 2.ª Repartição.
 
-###### Art. 3.º - 1. O lugar de director dos serviços técnicos é provido, por livre escolha do Ministro, em licenciados em Direito de comprovado mérito, revelado no exercício das funções de técnico de 1.ª classe do respectivo quadro ou de chefia de serviços dependentes da Direcção-Geral.
+Art. 3.º - 1. O lugar de director dos serviços técnicos é provido, por livre escolha do Ministro, em licenciados em Direito de comprovado mérito, revelado no exercício das funções de técnico de 1.ª classe do respectivo quadro ou de chefia de serviços dependentes da Direcção-Geral.
 
 2. Os lugares de técnicos de 1.ª classe são providos mediante promoção de funcionários da classe imediatamente inferior, com mais de três anos de bom e efectivo serviço, ou, na sua falta, por livre escolha do Ministro, em conservadores, notários e antigos assessores, com mais de três anos de efectivo serviço e classificação não inferior à de Bom.
 
 3. Os lugares de técnico de 2.ª classe são preenchidos, mediante livre escolha do Ministro, por conservadores, notários e licenciados em Direito aprovados no concurso de habilitação para os cargos de conservadores e notários ou no curso complementar de Ciências Jurídicas, a que se refere o [Decreto-Lei n.º 34850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34850-1945-521831), de 21 de Agosto de 1945.
 
-###### Art. 4.º - 1. Os lugares de director dos serviços técnicos, inspector-chefe, inspectores, chefe de repartição e técnicos podem ser desempenhados por magistrados judiciais de 1.ª instância, magistrados do Ministério Público, conservadores e notários, em comissão de serviço, por períodos trienais renováveis.
+Art. 4.º - 1. Os lugares de director dos serviços técnicos, inspector-chefe, inspectores, chefe de repartição e técnicos podem ser desempenhados por magistrados judiciais de 1.ª instância, magistrados do Ministério Público, conservadores e notários, em comissão de serviço, por períodos trienais renováveis.
 
 2. Aos magistrados e funcionários comissionados é reconhecida a faculdade de optarem pelo vencimento fixo correspondente à classe pessoal do quadro a que pertençam ou do lugar de que sejam titulares.
 
 3. Em caso de opção, o pagamento da diferença de vencimentos constitui encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 5.º O disposto no n.º 2 do artigo 59.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, considera-se referido às categorias de técnico de 1.ª ou 2.ª classe.
+Art. 5.º O disposto no n.º 2 do artigo 59.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, considera-se referido às categorias de técnico de 1.ª ou 2.ª classe.
 
-###### Art. 6.º O quadro de funcionários da Direcção-Geral dos Registos e do Notariado e respectivos vencimentos é o que consta do mapa anexo a este diploma.
+Art. 6.º O quadro de funcionários da Direcção-Geral dos Registos e do Notariado e respectivos vencimentos é o que consta do mapa anexo a este diploma.
 
-###### Art. 7.º Ao inspector-chefe e aos inspectores dos Registos e do Notariado são apenas abonadas, pela execução de serviços externos, ajudas de custo e despesas de transporte.
+Art. 7.º Ao inspector-chefe e aos inspectores dos Registos e do Notariado são apenas abonadas, pela execução de serviços externos, ajudas de custo e despesas de transporte.
 
-###### Art. 8.º - 1. Os funcionários cujos lugares se extinguem serão colocados, mediante portaria do Ministro da Justiça, em lugares criados pelo presente diploma, tendo em atenção as suas actuais categorias, antiguidade e classificação de serviço.
+Art. 8.º - 1. Os funcionários cujos lugares se extinguem serão colocados, mediante portaria do Ministro da Justiça, em lugares criados pelo presente diploma, tendo em atenção as suas actuais categorias, antiguidade e classificação de serviço.
 
 2. Até à sua colocação, nos termos do número anterior, os titulares dos lugares suprimidos continuam a ser abonados dos vencimentos que actualmente percebem.
 
 3. Os funcionários a que se refere este artigo entram no exercício das novas funções independentemente de diploma, posse e visto do Tribunal de Contas.
 
-###### Art. 9.º - 1. Aos membros do conselho da Direcção-Geral e do conselho técnico, a que se referem os artigos 3.º e 8.º do [Decreto n.º 40740](https://diariodarepublica.pt/dr/detalhe/decreto/40740-1956-232336), de 24 de Agosto de 1956, são abonadas, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, senhas de presença pela comparência a cada sessão, de montante a fixar pelo Ministro da Justiça com o acordo do Ministro das Finanças.
+Art. 9.º - 1. Aos membros do conselho da Direcção-Geral e do conselho técnico, a que se referem os artigos 3.º e 8.º do [Decreto n.º 40740](https://diariodarepublica.pt/dr/detalhe/decreto/40740-1956-232336), de 24 de Agosto de 1956, são abonadas, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, senhas de presença pela comparência a cada sessão, de montante a fixar pelo Ministro da Justiça com o acordo do Ministro das Finanças.
 
 2. Aos vogais que exerçam funções em lugares com sede fora de Lisboa são também abonadas ajudas de custo e despesas de transporte.
 
-###### Art. 10.º - 1. Os conservadores e notários colocados em repartições de 3.ª classe das ilhas adjacentes auferem a mais, a título de gratificação, um terço do vencimento correspondente à classe do lugar, a contar do dia de posse e entrada em exercício, até àquele em que chegue à comarca o Diário do Governo que publicar o despacho da sua transferência para repartição de classe superior ou do continente; se o funcionário transferido se encontrar no continente em gozo de licença, o direito à gratificação cessa no dia da publicação do despacho de transferência.
+Art. 10.º - 1. Os conservadores e notários colocados em repartições de 3.ª classe das ilhas adjacentes auferem a mais, a título de gratificação, um terço do vencimento correspondente à classe do lugar, a contar do dia de posse e entrada em exercício, até àquele em que chegue à comarca o Diário do Governo que publicar o despacho da sua transferência para repartição de classe superior ou do continente; se o funcionário transferido se encontrar no continente em gozo de licença, o direito à gratificação cessa no dia da publicação do despacho de transferência.
 
 2. A gratificação não é devida pelo tempo de licença excedente a 30 dias em cada ano.
 
-###### Art. 11.º - 1. Aos conservadores e notários colocados em primeira nomeação nas repartições das ilhas adjacentes são abonadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, nas condições que vierem a ser regulamentadas, as importâncias do preço da passagem marítima em 1.ª classe para ele e sua família, ou o seu equivalente se for preferida a via aérea, e do transporte de bagagem desde o porto de embarque até ao de desembarque.
+Art. 11.º - 1. Aos conservadores e notários colocados em primeira nomeação nas repartições das ilhas adjacentes são abonadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, nas condições que vierem a ser regulamentadas, as importâncias do preço da passagem marítima em 1.ª classe para ele e sua família, ou o seu equivalente se for preferida a via aérea, e do transporte de bagagem desde o porto de embarque até ao de desembarque.
 
 2. Consideram-se pessoas de família, para efeitos do disposto no número anterior, o cônjuge e os descendentes ou ascendentes, os adoptados, os descendentes destes e os adoptantes que estejam a cargo do funcionário.
 
-###### Art. 12.º - 1. Sempre que algum concurso para preenchimento de lugares de conservador ou notário fique deserto, o Ministro da Justiça pode determinar que as respectivas funções sejam desempenhadas em regime de acumulação e nas condições em cada caso propostas pela Direcção-Geral por outro conservador ou notário da mesma localidade ou, na sua falta, de uma das localidades mais próximas, até ao provimento do lugar vago.
+Art. 12.º - 1. Sempre que algum concurso para preenchimento de lugares de conservador ou notário fique deserto, o Ministro da Justiça pode determinar que as respectivas funções sejam desempenhadas em regime de acumulação e nas condições em cada caso propostas pela Direcção-Geral por outro conservador ou notário da mesma localidade ou, na sua falta, de uma das localidades mais próximas, até ao provimento do lugar vago.
 
 2. Se o desempenho cumulativo de funções determinar a deslocação do funcionário designado para fora da sede do lugar de que é titular, ser-lhe-ão abonadas, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, as ajudas de custo e despesas de transporte a que haja lugar.
 
 3. O disposto nos números anteriores é igualmente aplicável à substituição de conservadores e notários afastados do serviço por motivo de doença ou outro impedimento de longa duração.
 
-###### Art. 13.º O quadro do pessoal auxiliar da Conservatória dos Registos Centrais, além das categorias previstas no artigo 30.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, compreende a categoria de chefe de secção, com o vencimento correspondente à letra J do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Art. 13.º O quadro do pessoal auxiliar da Conservatória dos Registos Centrais, além das categorias previstas no artigo 30.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, compreende a categoria de chefe de secção, com o vencimento correspondente à letra J do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 14.º - 1. O Ministro da Justiça, sempre que as circunstâncias o tornem indispensável, pode autorizar a aquisição de casas destinadas a habitação dos conservadores e notários, na sede dos respectivos lugares, a expensas do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 14.º - 1. O Ministro da Justiça, sempre que as circunstâncias o tornem indispensável, pode autorizar a aquisição de casas destinadas a habitação dos conservadores e notários, na sede dos respectivos lugares, a expensas do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2. Ao conselho administrativo do Cofre compete fixar, em cada caso, a renda a pagar pelo funcionário, de harmonia com o custo da casa.
 
 3. Às casas a que se refere este artigo e ao pagamento da renda é aplicável, com as necessárias adaptações, o disposto no n.º 4 do artigo 167.º e nos artigos 168.º e 169.º do Estatuto Judiciário.
 
-###### Art. 15.º Os encargos a que der lugar, no Orçamento Geral do Estado, a execução do presente diploma, que excedam as dotações para o efeito fixadas, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto dos Ministros da Justiça e das Finanças.
+Art. 15.º Os encargos a que der lugar, no Orçamento Geral do Estado, a execução do presente diploma, que excedam as dotações para o efeito fixadas, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto dos Ministros da Justiça e das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -189,6 +235,6 @@ Mapa a que se refere o artigo 6.º
 
 Quadro do pessoal da Direcção-Geral dos Registos e do Notariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/17800/10911094.pdf))](https://files.diariodarepublica.pt/1s/1968/07/17800/10911094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/17800/10911094.pdf)
 
 Ministério da Justiça, 29 de Julho de 1968. - O Ministro da Justiça, Mário Júlio de Almeida Costa.

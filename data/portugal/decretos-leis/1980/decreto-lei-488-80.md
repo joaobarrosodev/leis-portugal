@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1980-462588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b3bf10e6d1ba4b075314249f74179ffec907db2eaa2c47a6079de3d2a257086
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c7f678dd3d24a25e5724ea254caaf75aa3ed7063a802f78d8561b12c508b2b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Comissão Regional de Turismo
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:579352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579352:por
+  label: "Alterado o art. 1.º, o n.º 2 do art. 8.º, o n.º 2 do art. 9.º, os n.ºs. 4 e 5 do art. 12.º, a al. d) do art. 13.º,\
+    \ o n.º 2 do art. 15.º, o n.º 1 do art. 17.º e aditada a al. u) ao n.º 1 do art. 7.º e a al. g) do n.º 1 do art. 8.º,\
+    \ pela LEI.13/81.1981.07.29.AR DR.IS [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-1981-579352
+  date: '1981-07-29'
+- type: cites
+  target: pt:dre:228801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:35Z'
   warnings: []
   errors: []
 ---
@@ -388,8 +418,8 @@ b) O [Decreto-Lei n.º 114/70](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 2 de Outubro de 1980.**
+Promulgado em 2 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/26600/38903890.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1980-458218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66521536f2dd06830ab8593bdfebe070d070a8924d84a6544fbea8e198875431
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49886a95347bda0fed474cea0268b118a4955fad448f974caee41fb304b3e8f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cunhagem de Moeda
+- Moeda
+relationships:
+- type: cites
+  target: pt:dre:198741:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:31Z'
   warnings: []
   errors: []
 ---
@@ -92,26 +98,26 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado novo tipo de moeda metálica de 1$00 fabricada em liga de latão e níquel, na proporção de 79% de cobre, 20% de zinco e 1% de níquel, com a tolerância, em título e em peso, de mais ou menos 1,5%.
+Artigo 1.º - 1 - É criado novo tipo de moeda metálica de 1$00 fabricada em liga de latão e níquel, na proporção de 79% de cobre, 20% de zinco e 1% de níquel, com a tolerância, em título e em peso, de mais ou menos 1,5%.
 
 2 - A moeda a que se refere o número anterior terá o diâmetro de 18 mm e o peso de 3 g.
 
-###### Art. 2.º A moeda criada por este diploma não é serrilhada e terá os seguintes desenhos:
+Art. 2.º A moeda criada por este diploma não é serrilhada e terá os seguintes desenhos:
 
 1) O anverso é constituído pelo Escudo Nacional, colocado ao centro, circundado pela legenda «República Portuguesa» e a era de cunhagem no exergo.
 
 2) O reverso tem inscrito o valor facial, composto do algarismo 1, colocado sobre o eixo vertical da moeda e ocupando os dois terços superiores desse eixo, e a palavra «escudo», por baixo.
 
-###### Art. 3.º O limite de emissão da moeda de 1$00 de latão-níquel é fixado em 50000 contos.
+Art. 3.º O limite de emissão da moeda de 1$00 de latão-níquel é fixado em 50000 contos.
 
-###### Art. 4.º Continua com curso legal a moeda de liga de bronze, actualmente em circulação, até que a respectiva recolha seja determinada por diploma a publicar oportunamente.
+Art. 4.º Continua com curso legal a moeda de liga de bronze, actualmente em circulação, até que a respectiva recolha seja determinada por diploma a publicar oportunamente.
 
-###### Art. 5.º Ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 20$00 em moedas de 1$00.
+Art. 5.º Ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 20$00 em moedas de 1$00.
 
 Visto e aprovado em Conselho de Ministros, 30 de Outubro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 11 de Novembro de 1980.**
+Promulgado em 11 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

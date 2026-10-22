@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14500/08760876.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1975-337183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e84ce8d3c430a06ebceb128244640da4231eb4d7c06cf3faff6dd9361b915dad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c215402abbb4a235bd7145cd96bb5a6796d4fed0b1db6b825740a9c1d8974a6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Farinha
+- Indústria da Moagem
+- Instituto dos Cereais
+- Multa
+- Regulamento da Peneiração das Farinhas em RAMA
 relationships:
 - type: amended_by
   target: pt:dre:380929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:473736:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380929:por
+  label: Revogado, a partir de 01.01.1985, pelo(a) Decreto-Lei n.º 288/84 - Diário da República n.º 196/1984, Série I de 1984-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1984-380929
+  date: '1984-08-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:54Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +112,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos a seguir indicados do regulamento aprovado pelo [Decreto-Lei n.º 444/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1974-473736), de 12 de Setembro, são alterados na sua redacção pela forma seguinte:
+Artigo único. Os artigos a seguir indicados do regulamento aprovado pelo [Decreto-Lei n.º 444/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1974-473736), de 12 de Setembro, são alterados na sua redacção pela forma seguinte:
 
-###### Artigo 1.º É concedida às moagens de ramas que durante, pelo menos, um ano laborem trigos distribuídos através do Instituto dos Cereais a faculdade de, nos termos e condições estabelecidas neste Regulamento, procederem à peneiração das farinhas de trigo em rama de sua produção destinadas à indústria de panificação.
+Artigo 1.º É concedida às moagens de ramas que durante, pelo menos, um ano laborem trigos distribuídos através do Instituto dos Cereais a faculdade de, nos termos e condições estabelecidas neste Regulamento, procederem à peneiração das farinhas de trigo em rama de sua produção destinadas à indústria de panificação.
 
 ...
 
-###### Art. 4.º A peneiração nas moagens de farinhas de trigo em rama será efectuada por meio de tela de número inferior a 60 (ou seja inferior a 23 malhas por centímetro linear).
+Art. 4.º A peneiração nas moagens de farinhas de trigo em rama será efectuada por meio de tela de número inferior a 60 (ou seja inferior a 23 malhas por centímetro linear).
 
-###### Art. 5.º - 1. Os limites máximos das características de farinha de trigo em rama, após a peneiração, são as seguintes:
+Art. 5.º - 1. Os limites máximos das características de farinha de trigo em rama, após a peneiração, são as seguintes:
 
 ... Percentagens
 
@@ -120,7 +134,7 @@ Cinza ... 1,1
 
 ...
 
-###### Art. 8.º - 1. É punida com a multa de 20000$00 a 100000$00, se outra pena mais grave lhe não couber, a prática dos seguintes actos:
+Art. 8.º - 1. É punida com a multa de 20000$00 a 100000$00, se outra pena mais grave lhe não couber, a prática dos seguintes actos:
 
 a) Existência ou utilização de peneiras nas moagens de ramas não autorizadas a peneirar;
 
@@ -136,8 +150,8 @@ e) Alteração do ciclo normal de fabrico de farinha.
 
 Visto e aprovado em Conselho de Ministros. - António Carlos Magalhães Arnão Metelo - João Cardona Gomes Cravinho.
 
-**Promulgado em 16 de Junho de 1975.**
+Promulgado em 16 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

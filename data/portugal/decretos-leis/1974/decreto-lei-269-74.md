@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14300/07350736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1974-476290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24a634ff7c11dd6295efbd02532794044874d6377201bbe0a79ca1e788ae6ce1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 160d3dea706697712aeb7a11e1392ca533c0a6f61a088c1f01de58e5d6933fdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Administração Pública
+- Aposentado
+- Caixa Geral de Aposentações
+- Definição de Competências
+- Direcção Geral da Contabilidade Pública
+- Funcionário Público
+- Gestão Orçamental
+- Militar
+- Pensionista
+- Pessoal Civil
 relationships:
 - type: amended_by
   target: pt:dre:252069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252069:por
+  label: "Revogado a partir de 22.05.1977 pelo DEC LEI.197/77.17.05.1977.MAI, DR.IS [114] de 17.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1977-252069
+  date: '1977-05-17'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:58Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +124,9 @@ Tendo em conta a elevação do quantitativo mensal do abono de família determin
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As disposições adiante mencionadas do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passam a ter a seguinte redacção:
+Artigo 1.º As disposições adiante mencionadas do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Têm direito ao abono de família os servidores do Estado, civis e militares, qualquer que seja a sua forma de provimento, que se encontrem na efectividade de serviço, desde que as respectivas remunerações estejam inscritas em orçamentos e exerçam funções em regime de tempo completo, sem as características de tarefas satisfeitas por unidade de trabalho ou de tempo.
+Artigo 1.º Têm direito ao abono de família os servidores do Estado, civis e militares, qualquer que seja a sua forma de provimento, que se encontrem na efectividade de serviço, desde que as respectivas remunerações estejam inscritas em orçamentos e exerçam funções em regime de tempo completo, sem as características de tarefas satisfeitas por unidade de trabalho ou de tempo.
 
 § 1.º Consideram-se abrangidos pelo corpo deste artigo os servidores cujas funções sejam exercidas em regime de tempo parcial, em virtude de disposições regulamentares dos respectivos serviços se, remunerados com base nos quantitativos atribuídos ao pessoal da mesma categoria e classe, trabalhando em regime de tempo completo, atingirem quinze dias ou mais dos proventos mensais deste pessoal.
 
@@ -106,7 +134,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 § 3.º ...
 
-###### Art. 2.º Os documentos respeitantes ao abono de família requerido pelos servidores aposentados, reformados, aguardando aposentação ou reforma, ou militares a beneficiarem de pensão de invalidez, serão enviados ou entregues directamente na Caixa Geral de Aposentações, a qual, depois de lhes apor a data de entrada, os remeterá à Direcção do Abono de Família e das Pensões, da Direcção-Geral da Contabilidade Pública, a fim de esta fiscalizar os que lhe compita encaminhar para processamento e pagamento em conta do Tesouro.
+Art. 2.º Os documentos respeitantes ao abono de família requerido pelos servidores aposentados, reformados, aguardando aposentação ou reforma, ou militares a beneficiarem de pensão de invalidez, serão enviados ou entregues directamente na Caixa Geral de Aposentações, a qual, depois de lhes apor a data de entrada, os remeterá à Direcção do Abono de Família e das Pensões, da Direcção-Geral da Contabilidade Pública, a fim de esta fiscalizar os que lhe compita encaminhar para processamento e pagamento em conta do Tesouro.
 
 A mesma Direcção enviará às entidades competentes a restante documentação também para processamento e pagamento do abono de família em conta dos seus orçamentos privativos.
 
@@ -116,7 +144,7 @@ A mesma Direcção enviará às entidades competentes a restante documentação 
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 ...
 
@@ -128,7 +156,7 @@ c) Quanto aos indivíduos não abrangidos nos dois casos referidos nas alíneas 
 
 ...
 
-###### Art. 23.º O abono de família será liquidado em cada Ministério em conta das dotações globais inscritas expressamente para esse fim nos respectivos orçamentos ordinários e extraordinários, sempre que as remunerações dos beneficiários ou as pensões respeitantes às situações de aguardando aposentação ou reforma sejam satisfeitas por dotações de «Despesas correntes» destinadas a pessoal.
+Art. 23.º O abono de família será liquidado em cada Ministério em conta das dotações globais inscritas expressamente para esse fim nos respectivos orçamentos ordinários e extraordinários, sempre que as remunerações dos beneficiários ou as pensões respeitantes às situações de aguardando aposentação ou reforma sejam satisfeitas por dotações de «Despesas correntes» destinadas a pessoal.
 
 Nos restantes casos, o abono de família será suportado pela mesma dotação de despesa ordinária ou extraordinária por onde são satisfeitas as respectivas remunerações principais.
 
@@ -136,14 +164,14 @@ Nos restantes casos, o abono de família será suportado pela mesma dotação de
 
 § 2.º Até 15 de Março de cada ano os serviços processadores do abono de família, que o tenham liquidado nos termos da parte final do corpo deste artigo e do seu § 1.º, enviarão à Direcção do Abono de Família e das Pensões, da Direcção-Geral da Contabilidade Pública, relações de cada um dos totais, seguindo as classificações utilizadas, relativos aos pagamentos efectuados no ano anterior, a fim de se apurar o dispêndio anual respeitante ao abono de família a cargo do Tesouro.
 
-###### Art. 2.º O abono de família a pagar aos servidores do Estado é fixado, em relação a cada descendente ou equiparado, no quantitativo mensal de 240$00.
+Art. 2.º O abono de família a pagar aos servidores do Estado é fixado, em relação a cada descendente ou equiparado, no quantitativo mensal de 240$00.
 
-###### Art. 3.º As disposições deste decreto-lei entram em vigor em 1 de Julho de 1974.
+Art. 3.º As disposições deste decreto-lei entram em vigor em 1 de Julho de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida.
 
-**Promulgado em 17 de Junho de 1974.**
+Promulgado em 17 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

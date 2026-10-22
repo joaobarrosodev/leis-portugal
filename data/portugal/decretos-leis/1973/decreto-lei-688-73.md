@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 296/1973, 1º Suplemento, Série I de 1973-12-21
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2476-(7) a 2476-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/29601/00070018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af53a3b0cc6eee0e0ff10bb4d18eac7c7a20fe8c889bc4c7f3f6cd2c90fc4732
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd5795ee8c798f35fd26578d757b86c0c06172085f8c7943f3faeb3dbcd43709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Companhia Carris de Ferro de Lisboa
+- Contrato de Concessão
+- Isenção Fiscal
+- Lisboa
+- Lisbon Electric Tramways
+- Pessoal Dirigente
+- Serviço Público
+- Transporte de Passageiros
+- Transporte Público
+- Transporte Urbano
 relationships:
 - type: amended_by
   target: pt:dre:61725765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337061:por
+  label: "Alteradas as bases III, IV e V a que se refere o art. 1.º, pelo DEC LEI.300/75.1975.06.20.MAI DG.IS [140]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1975-337061
+  date: '1975-06-20'
+- type: amended_by
+  target: pt:dre:630636:por
+  label: "Prorrogada, pelo prazo de 10 anos, o prazo estabelecido no nº 7 do art. 4º, pelo DEC LEI.464/83.31.12.1983.MAI,\
+    \ DR.IS [301-3ºSupl] de 31.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/464-1983-630636
+  date: '1983-12-31'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a Carris-Companhia Carris de ferro de Lisboa, S.A., a\
+    \ que se refere o presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:466831:por
+  label: "Determinada a transferência para as AMT das atribuições e competências conferidas pelo presente diploma e respectiva\
+    \ legislação complementar pelo DEC LEI.268/2003.28.10.2003.MOPTH, DR.IS-A [250] de 28.10.2003, nos termos do seu art.\
+    \ 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2003-466831
+  date: '2003-10-28'
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do nº 10 do art. 4º, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301]2ºSupl,\
+    \ a partir da entrada em vigor do referido diploma, sem prejuízo da manutenção dos benefícios já concedidos e dos regimes\
+    \ de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:61725765:por
+  label: Revogado, sem prejuízo da manutenção da concessão atribuída à Carris, S. A., o presente diploma, na redação do Dec
+    Lei 300/75, de 20-jun, e Dec Lei 485/88, de 30 dez, pelo(a) Decreto-Lei n.º 174/2014 - Diário da República n.º 236/2014,
+    Série I de 2014-12-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2014-61725765
+  date: '2014-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:49Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +151,13 @@ E, não perdendo de vista os estudos em curso com vista ao planeamento e à coor
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Câmara Municipal de Lisboa, adiante designada por Câmara, a celebrar com a Companhia Carris de Ferro de Lisboa, S. A. R. L., adiante designada por Carris, e com a Lisbon Electric Tramways, Ltd., um contrato pelo qual, nos termos das bases anexas ao presente diploma, que dele se consideram parte integrante, se procede à extinção do arrendamento da concessão do serviço público de transportes colectivos de superfície, com tracção mecânica, na cidade de Lisboa, celebrado em Londres a 7 de Julho de 1899, e se traspassa a concessão do ascensor do Carmo da Lisbon Electric Tramways, Ltd., para a Carris.
+Artigo 1.º É autorizada a Câmara Municipal de Lisboa, adiante designada por Câmara, a celebrar com a Companhia Carris de Ferro de Lisboa, S. A. R. L., adiante designada por Carris, e com a Lisbon Electric Tramways, Ltd., um contrato pelo qual, nos termos das bases anexas ao presente diploma, que dele se consideram parte integrante, se procede à extinção do arrendamento da concessão do serviço público de transportes colectivos de superfície, com tracção mecânica, na cidade de Lisboa, celebrado em Londres a 7 de Julho de 1899, e se traspassa a concessão do ascensor do Carmo da Lisbon Electric Tramways, Ltd., para a Carris.
 
-###### Art. 2.º É igualmente autorizada a Câmara a celebrar com a Carris um contrato pelo qual, nos termos das bases anexas ao presente diploma, que dele se consideram parte integrante, se procede à novação da concessão do serviço público de transportes colectivos de superfície, com tracção mecânica, na cidade de Lisboa, dada pelos contratos de 10 ide Abril de 1888, 5 de Junho de 1897 e 16 de Agosto de 1898, bem como da concessão do ascensor do Carmo, dada pelo contrato de 17 de Março de 1900.
+Art. 2.º É igualmente autorizada a Câmara a celebrar com a Carris um contrato pelo qual, nos termos das bases anexas ao presente diploma, que dele se consideram parte integrante, se procede à novação da concessão do serviço público de transportes colectivos de superfície, com tracção mecânica, na cidade de Lisboa, dada pelos contratos de 10 ide Abril de 1888, 5 de Junho de 1897 e 16 de Agosto de 1898, bem como da concessão do ascensor do Carmo, dada pelo contrato de 17 de Março de 1900.
 
-###### Art. 3.º Os dois contratos referidos nos artigos anteriores deverão ser assinados até 31 de Dezembro do corrente ano e produzirão efeitos a partir de 1 de Janeiro de 1974.
+Art. 3.º Os dois contratos referidos nos artigos anteriores deverão ser assinados até 31 de Dezembro do corrente ano e produzirão efeitos a partir de 1 de Janeiro de 1974.
 
-###### Art. 4.º - 1. Os contratos a que se refere este diploma e quaisquer outros que visem modificar, completar ou substituir a concessão, incluindo todos os actos ou documentos a ela relativos, bem como os alvarás ou quaisquer diplomas ou convenções que lhe digam respeito, serão isentos de qualquer imposto, incluindo o imposto do selo.
+Art. 4.º - 1. Os contratos a que se refere este diploma e quaisquer outros que visem modificar, completar ou substituir a concessão, incluindo todos os actos ou documentos a ela relativos, bem como os alvarás ou quaisquer diplomas ou convenções que lhe digam respeito, serão isentos de qualquer imposto, incluindo o imposto do selo.
 
 2. As transmissões da propriedade de bens imóveis, o traspasse e a extinção do arrendamento das concessões operados pelo contrato referido no artigo 1.º ficam isentos de sisa.
 
@@ -130,7 +179,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 11. As emissões de obrigações não ficam sujeitas ao limite fixado no artigo 196.º do Código Comercial.
 
-###### Art. 5.º - 1. O Estado, por intermédio do Fundo Especial de Transportes Terrestres (F. E. T. T.), atribuirá à Carris subsídios não reembolsáveis sempre que:
+Art. 5.º - 1. O Estado, por intermédio do Fundo Especial de Transportes Terrestres (F. E. T. T.), atribuirá à Carris subsídios não reembolsáveis sempre que:
 
 a) Por imposição do interesse público, como tal reconhecido pelo Ministério das Comunicações, a Carris tenha de manter equipamentos ou prestar serviços em condições ou a preços incompatíveis com uma gestão financeira equilibrada;
 
@@ -148,9 +197,9 @@ b) A Carris suporte encargos anormais a que não estejam sujeitas as empresas qu
 
 7. O estabelecido no n.º 4 constituirá o desenvolvimento, para o respectivo exercício, de um plano plurianual de actividade da Carris, elaborado e apresentado de acordo com o disposto em despacho do Ministro das Comunicações, e do qual constarão as previsões financeiras relativas à exploração e aos investimentos.
 
-###### Art. 6.º O Município de Lisboa será representado na assembleia geral da Carris por quem o presidente da Câmara designar para o efeito e beneficiará da excepção consignada a favor do Estado na parte final do § 3.º do artigo 183.º do Código Comercial.
+Art. 6.º O Município de Lisboa será representado na assembleia geral da Carris por quem o presidente da Câmara designar para o efeito e beneficiará da excepção consignada a favor do Estado na parte final do § 3.º do artigo 183.º do Código Comercial.
 
-###### Art. 7.º - 1. O Município de Lisboa participará na administração da Carris por meio de três administradores nomeados pelo presidente da Câmara por períodos trienais, aplicando-se em tudo o mais, com as devidas adaptações, o disposto na legislação relativa aos administradores por parte do Estado.
+Art. 7.º - 1. O Município de Lisboa participará na administração da Carris por meio de três administradores nomeados pelo presidente da Câmara por períodos trienais, aplicando-se em tudo o mais, com as devidas adaptações, o disposto na legislação relativa aos administradores por parte do Estado.
 
 2. Os restantes dois administradores serão eleitos pelo mesmo triénio pelos demais accionistas da sociedade, nos termos da lei geral, ainda que lhes não caiba a maioria do capital.
 
@@ -158,25 +207,25 @@ b) A Carris suporte encargos anormais a que não estejam sujeitas as empresas qu
 
 4. Sempre que o considerar oportuno, poderá o presidente da Câmara fazer cessar, antes do seu termo normal, o mandato de qualquer dos administradores por ele designados.
 
-###### Art. 8.º - 1. O conselho fiscal da Carris será composto por três membros efectivos e dois suplentes, sendo dois dos membros efectivos e um dos suplentes designados pelo presidente da Câmara e os restantes pelos demais accionistas da sociedade, ainda que lhes não caiba a maioria do capital social.
+Art. 8.º - 1. O conselho fiscal da Carris será composto por três membros efectivos e dois suplentes, sendo dois dos membros efectivos e um dos suplentes designados pelo presidente da Câmara e os restantes pelos demais accionistas da sociedade, ainda que lhes não caiba a maioria do capital social.
 
 2. Um membro efectivo do conselho fiscal e um suplente serão designados, de entre os inscritos na lista dos revisores oficiais de contas, pelo presidente da Câmara.
 
-###### Art. 9.º - 1. A parte do prejuízo do exercício de 1973 não suportado pela Lisbon Electric Tramways, Ltd., nos termos do n.º 4 da base II do contrato a que se refere o artigo 1.º, transitará para o exercício da Carris em 1974.
+Art. 9.º - 1. A parte do prejuízo do exercício de 1973 não suportado pela Lisbon Electric Tramways, Ltd., nos termos do n.º 4 da base II do contrato a que se refere o artigo 1.º, transitará para o exercício da Carris em 1974.
 
 2. O F. E. T. T. e a Câmara atribuirão à Carris, no decurso do 1.º semestre de 1974, um subsídio extraordinário, não reembolsável, de valor igual à diferença que se vier a apurar entre o aumento de encargos salariais provenientes do acordo colectivo de trabalho homologado em 2 de Abril de 1973 e o aumento de receitas derivado do ajustamento tarifário verificado em 1 de Agosto de 1973.
 
 3. A Carris apresentará à Câmara, até 31 de Março de 1974, o cômputo da diferença a que se refere o número anterior, devendo o F. E. T. T. e a Câmara cobri-la, na proporção, respectivamente, de dois nonos e sete nonos.
 
-###### Art. 10.º O presente diploma entra imediatamente em vigor.
+Art. 10.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - César Henrique Moreira Baptista - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 19 de Dezembro de 1973.**
+Promulgado em 19 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 BASES A QUE SE REFERE O ARTIGO 1.º DO DECRETO-LEI N.º 688/73, DE 21 DE DEZEMBRO
 
@@ -330,7 +379,7 @@ BASE X
 
 3. Os árbitros são autorizados a julgar segundo a equidade.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.
 
 BASES A QUE SE REFERE O ARTIGO 2.º DO DECRETO-LEI N.º 688/73, DE 21 DE DEZEMBRO
 
@@ -688,4 +737,4 @@ Tribunal arbitral
 
 4. O Tribunal julgará ex aequo et bono e das suas decisões não haverá recurso.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

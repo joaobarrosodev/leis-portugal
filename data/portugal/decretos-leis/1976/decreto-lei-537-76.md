@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1976-431460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64988b6cbddb5573174e9d9d89adbeb2a5cfe785c2f057a920bfc93c5b3bedec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ced74b28593fa2ffd3289f1e00d9453d45c61843591886dfe32dddfa640c5f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Covilhã
+- Criação de Freguesias
+- Freguesia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:39Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +99,20 @@ Considerando que se verificam as demais condições enumeradas no artigo 9.º do
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho da Covilhã a freguesia de Vales do Rio, com sede na povoação do mesmo nome.
+Artigo 1.º É criada no concelho da Covilhã a freguesia de Vales do Rio, com sede na povoação do mesmo nome.
 
-###### Art. 2.º A freguesia de Vales do Rio é classificada de 2.ª ordem.
+Art. 2.º A freguesia de Vales do Rio é classificada de 2.ª ordem.
 
-###### Art. 3.º Os limites da nova freguesia são definidos por uma linha que, partindo da Pedra Alta, passa ao lado do marco geodésico de cota 760, seguindo este caminho e passando ao lado do lugar das Sobreiras até próximo da Cavadinha. Segue, depois, passando pelo Carvalhal, com destino à vertente do ribeiro dos Valinhos, do lado dos Vales do Rio, até junto do Pontão dos Vales, passando perto de um caminho que vem ter ao referido Pontão, até encontrar o ribeiro da Baldeira e depois o rio Zêzere, onde termina a descrição.
+Art. 3.º Os limites da nova freguesia são definidos por uma linha que, partindo da Pedra Alta, passa ao lado do marco geodésico de cota 760, seguindo este caminho e passando ao lado do lugar das Sobreiras até próximo da Cavadinha. Segue, depois, passando pelo Carvalhal, com destino à vertente do ribeiro dos Valinhos, do lado dos Vales do Rio, até junto do Pontão dos Vales, passando perto de um caminho que vem ter ao referido Pontão, até encontrar o ribeiro da Baldeira e depois o rio Zêzere, onde termina a descrição.
 
-###### Art. 4.º A freguesia ora criada fica sujeita ao regime de tutela instituído para a generalidade das freguesias do País, enquanto esse regime vigorar.
+Art. 4.º A freguesia ora criada fica sujeita ao regime de tutela instituído para a generalidade das freguesias do País, enquanto esse regime vigorar.
 
-###### Art. 5.º A Comissão Administrativa do Município da Covilhã procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
+Art. 5.º A Comissão Administrativa do Município da Covilhã procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.
 
-**Promulgado em 28 de Junho de 1976.**
+Promulgado em 28 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

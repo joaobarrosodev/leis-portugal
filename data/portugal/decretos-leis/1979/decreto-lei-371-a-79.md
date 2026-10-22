@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 206/1979, 1º Suplemento, Série I de 1979-09-06
   number: '206'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2222-(1) a 2222-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20601/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-a-1979-691386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afae0bf967896e934843fd68d28c93cc743d679e7f92fab1b9f7cd336fb42d54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c58b9c2c58283371f969db993b60b1d93d5c93b23cdc7d5d99f500259463288
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Conselho de Informação
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- RDP
 relationships:
 - type: amended_by
   target: pt:dre:383999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:383999:por
+  label: "Revogadas as disposições orgânicas especialmente aplicáveis à RDP constantes deste diploma pelo DEC LEI.167/84.22.05.1984.PCM,\
+    \ DR.IS [118] de 22.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1984-383999
+  date: '1984-05-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:31Z'
   warnings: []
   errors: []
 ---
@@ -103,20 +127,20 @@ Posteriormente, o IV Governo Constitucional aprovou novos estatutos para a RDP, 
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Até à entrada em vigor do novo estatuto, a Radiodifusão Portuguesa, E. P., continuará a reger-se pelas disposições do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com as alterações constantes de diplomas posteriores, bem como por quaisquer outras disposições aplicáveis à generalidade das empresas públicas, com excepção das que colidam com os artigos seguintes.
+Artigo 1.º - 1 - Até à entrada em vigor do novo estatuto, a Radiodifusão Portuguesa, E. P., continuará a reger-se pelas disposições do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com as alterações constantes de diplomas posteriores, bem como por quaisquer outras disposições aplicáveis à generalidade das empresas públicas, com excepção das que colidam com os artigos seguintes.
 
 2 - Ficam ressalvadas as disposições relativas ao Conselho de Informação constantes das Leis n.º 78/77, de 25 de Outubro, e n.º 67/78, de 14 de Outubro.
 
-###### Art. 2.º - 1 - Manter-se-ão como órgãos da empresa as actuais comissões administrativa e de fiscalização.
+Art. 2.º - 1 - Manter-se-ão como órgãos da empresa as actuais comissões administrativa e de fiscalização.
 
 2 - À comissão administrativa são conferidos todos os poderes consignados na lei para os conselhos de gerência das empresas públicas.
 
-###### Art. 3.º O presente diploma produz efeitos desde 23 de Março de 1979.
+Art. 3.º O presente diploma produz efeitos desde 23 de Março de 1979.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - Daniel Proença de Carvalho.
 
-**Promulgado em 20 de Julho de 1979.**
+Promulgado em 20 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

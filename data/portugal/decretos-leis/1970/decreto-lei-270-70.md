@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1970-142696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 487907884a8307da2c7239ab737567326ec557846c1ed78c84078bad049d40a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a045a2517f86cf3df29b84fec7017b38e024de8da1611ee45bada0971de3841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Coordenador
+- Conselho de Direção
+- Criação de Serviços
+- Definição de Competências
+- Director Clínico
+- Diretor
+- Estabelecimento Hospitalar
+- Provedor
+relationships:
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:50Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +118,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado nos hospitais escolares um conselho de direcção, responsável pela realização das finalidades do hospital e pela sua gerência, competindo-lhe orientar, coordenar e fiscalizar o funcionamento de todos os serviços, bem como promover a criação e permanente actualização das respectivas estruturas orgânicas.
+Artigo 1.º - 1. É criado nos hospitais escolares um conselho de direcção, responsável pela realização das finalidades do hospital e pela sua gerência, competindo-lhe orientar, coordenar e fiscalizar o funcionamento de todos os serviços, bem como promover a criação e permanente actualização das respectivas estruturas orgânicas.
 
 2. Compete, em especial, ao conselho de direcção:
 
@@ -116,7 +132,7 @@ d) Apresentar o relatório anual do hospital;
 
 e) Propor ou adoptar as disposições necessárias à melhoria da orgânica e funcionamento dos serviços.
 
-###### Art. 2.º - 1. O conselho de direcção será constituído pelo director do hospital, pelo provador e pelo director clínico.
+Art. 2.º - 1. O conselho de direcção será constituído pelo director do hospital, pelo provador e pelo director clínico.
 
 2. O director do hospital será nomeado pelo Ministro da Saúde e Assistência, ouvido o Ministro da Educação Nacional, sob proposta do conselho escolar da respectiva Faculdade de Medicina, e servirá pelo período de quatro anos, podendo ser reconduzido por um quadriénio.
 
@@ -124,7 +140,7 @@ e) Propor ou adoptar as disposições necessárias à melhoria da orgânica e fu
 
 4. Quando a nomeação de director do hospital recair em director de serviço de acção médica, o provimento deste último cargo será feito interinamente.
 
-###### Art. 3.º - 1. Ao director do hospital compete:
+Art. 3.º - 1. Ao director do hospital compete:
 
 a) Presidir ao conselho de direcção, ao conselho de administração e ao conselho técnico;
 
@@ -136,13 +152,13 @@ d) Decidir todos os assuntos para os quais haja recebido delegação do conselho
 
 2. Com prévia autorização ministerial, o director poderá delegar no provedor, no director clínico ou no administrador os poderes da sua competência, sem prejuízo da uniformidade de critérios que deve presidir à direcção do hospital.
 
-###### Art. 4.º O lugar de provedor considerar-se-á extinto quando vagar, passando o administrador a fazer parte do conselho de direcção.
+Art. 4.º O lugar de provedor considerar-se-á extinto quando vagar, passando o administrador a fazer parte do conselho de direcção.
 
-###### Art. 5.º O director clínico será nomeado pelo Ministro da Saúde e Assistência, sob proposta da comissão médica, de entre professores da Faculdade de Medicina que exerçam funções de direcção de serviços de acção médica.
+Art. 5.º O director clínico será nomeado pelo Ministro da Saúde e Assistência, sob proposta da comissão médica, de entre professores da Faculdade de Medicina que exerçam funções de direcção de serviços de acção médica.
 
-###### Art. 6.º Os chefes de serviços de acção médica são nomeados de entre os professores extraordinários ou auxiliares da Faculdade de Medicina ou assistentes do hospital, sob proposta do director clínico, ouvido o director do serviço e a comissão médica.
+Art. 6.º Os chefes de serviços de acção médica são nomeados de entre os professores extraordinários ou auxiliares da Faculdade de Medicina ou assistentes do hospital, sob proposta do director clínico, ouvido o director do serviço e a comissão médica.
 
-###### Art. 7.º - 1. Os directores de serviços de acção médica serão nomeados pelo Ministro da Saúde e Assistência, ouvido o Ministro da Educação Nacional, pela ordem de prioridade a seguir indicada:
+Art. 7.º - 1. Os directores de serviços de acção médica serão nomeados pelo Ministro da Saúde e Assistência, ouvido o Ministro da Educação Nacional, pela ordem de prioridade a seguir indicada:
 
 a) Professores das disciplinas que correspondam aos serviços no plano de estudos da Faculdade de Medicina;
 
@@ -150,30 +166,30 @@ b) Membros do corpo docente da Faculdade de Medicina de categoria não inferior 
 
 2. Na falta de pessoal docente a que se referem as alíneas do número anterior, os lugares de director de serviço poderão ser desempenhados, interinamente, por assistentes de hospital central, até ser possível provê-los nos termos das mesmas alíneas.
 
-###### Art. 8.º - 1. O conselho de direcção será assistido por comissões especiais de assistência, de ensino e de investigação.
+Art. 8.º - 1. O conselho de direcção será assistido por comissões especiais de assistência, de ensino e de investigação.
 
 2. A constituição e competência destas comissões serão fixadas por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência, ouvidos os conselhos escolares e a comissão médica.
 
 3. Passa a fazer parte do conselho técnico um representante de cada uma das comissões referidas.
 
-###### Art. 9.º Deixam de fazer parte do conselho de administração e do conselho técnico os representantes da Faculdade de Medicina referidos na alínea a) do artigo 85.º e no n.º 2 do artigo 89.º do Regulamento Geral dos Hospitais.
+Art. 9.º Deixam de fazer parte do conselho de administração e do conselho técnico os representantes da Faculdade de Medicina referidos na alínea a) do artigo 85.º e no n.º 2 do artigo 89.º do Regulamento Geral dos Hospitais.
 
-###### Art. 10.º Ao director do hospital compete a gratificação mensal de 3000$00.
+Art. 10.º Ao director do hospital compete a gratificação mensal de 3000$00.
 
-###### Art. 11.º - 1. É criado, para funcionar na dependência directa do Ministro da Saúde e Assistência, o Conselho Coordenador dos Hospitais Escolares.
+Art. 11.º - 1. É criado, para funcionar na dependência directa do Ministro da Saúde e Assistência, o Conselho Coordenador dos Hospitais Escolares.
 
 2. Dentro de noventa dias, a contar da entrada em vigor deste decreto-lei, será aprovado, por portaria do Ministro da Saúde e Assistência, ouvido o Ministro da Educação Nacional, o Regulamento do Conselho referido no número anterior.
 
-###### Art. 12.º As funções de orientação que por lei ou regulamento especiais estejam atribuídas ao provedor passam, a partir da entrada em vigor deste decreto-lei, para o director do hospital, sem prejuízo do disposto no n.º 2 do artigo 3.º
+Art. 12.º As funções de orientação que por lei ou regulamento especiais estejam atribuídas ao provedor passam, a partir da entrada em vigor deste decreto-lei, para o director do hospital, sem prejuízo do disposto no n.º 2 do artigo 3.º
 
-###### Art. 13.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência.
+Art. 13.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência.
 
-###### Art. 14.º Este decreto-lei entra em vigor no dia 1 de Julho de 1970.
+Art. 14.º Este decreto-lei entra em vigor no dia 1 de Julho de 1970.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Junho de 1970.**
+Promulgado em 3 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

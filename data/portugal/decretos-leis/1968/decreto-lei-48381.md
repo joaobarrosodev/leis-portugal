@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48381-1968-271983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73bc5fad0c5e78ec1c6f57661b0696db9e623263c252a8caa13df305f84e7ea9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3096e03dfebc94b5e8d24e457fb8dc649f4d3ebbead02fc9ad55e012625fbb2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Hospitais Civis de Lisboa
+- Ministro da Saúde e Assistência
+relationships:
+- type: cites
+  target: pt:dre:473506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:20Z'
   warnings: []
   errors: []
 ---
@@ -93,10 +102,10 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Ministro da Saúde e Assistência poderá determinar, para aproveitamento do máximo rendimento potencial do Centro Mecanográfico dos Hospitais Civis de Lisboa, que nele sejam executados trabalhos respeitantes a outros estabelecimentos ou serviços do Ministério da Saúde e Assistência, nas condições que estabelecer em despacho.
+Artigo 1.º O Ministro da Saúde e Assistência poderá determinar, para aproveitamento do máximo rendimento potencial do Centro Mecanográfico dos Hospitais Civis de Lisboa, que nele sejam executados trabalhos respeitantes a outros estabelecimentos ou serviços do Ministério da Saúde e Assistência, nas condições que estabelecer em despacho.
 
-###### Art. 2.º O Ministro da Saúde e Assistência fará publicar, no prazo máximo de dez dias, a partir da data da entrada em vigor do presente decreto-lei, uma relação dos funcionários que presentemente desempenham funções no Centro Mecanográfico, com a indicação dos lugares e situações em que ficam providos no quadro estabelecido pela [Portaria n.º 22017](https://diariodarepublica.pt/dr/detalhe/portaria/22017-1966-473506), de 27 de Maio de 1966, considerando-se dispensadas, apenas para este pessoal, quaisquer outras formalidades, inclusive o visto do Tribunal de Contas, excepto a da posse.
+Art. 2.º O Ministro da Saúde e Assistência fará publicar, no prazo máximo de dez dias, a partir da data da entrada em vigor do presente decreto-lei, uma relação dos funcionários que presentemente desempenham funções no Centro Mecanográfico, com a indicação dos lugares e situações em que ficam providos no quadro estabelecido pela [Portaria n.º 22017](https://diariodarepublica.pt/dr/detalhe/portaria/22017-1966-473506), de 27 de Maio de 1966, considerando-se dispensadas, apenas para este pessoal, quaisquer outras formalidades, inclusive o visto do Tribunal de Contas, excepto a da posse.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

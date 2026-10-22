@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29000/32393243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ba4e29e5973583aed9148542ae5ab48c41a80b9729aa94ddff6d400e8c598c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82556f6dda1722e8d04d612e886ff2ce03a4782ba42c3d45c86119ad95f55b40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial do Café
+- Criação de Serviços
+- Direcção Geral de Cooperação
+- Direcção Geral de Economia
+- Extinção de Serviços
+- Formas de Provimento
+- Fundo de Fomento e de Propaganda do Café
+- Fundo de Fomento Mineiro Ultramarino
+- Gabinete Coordenador para a Cooperação
+- Gabinete de Planeamento e Integração Económica
+- Gabinete do Plano e Desenvolvimento da Região do Zambeze
+- Inspecção Geral de Minas
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459904:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral de Cooperação, pela PORT.1069/80.16.12.1980.PCM, DR.IS [289] de 16.12.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1069-1980-459904
+  date: '1980-12-16'
+- type: amended_by
+  target: pt:dre:568104:por
+  label: "Prorrogado por noventa dias o prazo fixado no artigo 24º do presente diploma, pelo DEC LEI.572-B/80.26.12.1980.MNE,\
+    \ DR.IS [297-4ºSupl] de 26.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/572-b-1980-568104
+  date: '1980-12-26'
+- type: amended_by
+  target: pt:dre:575920:por
+  label: "Alterado o mapa anexo pela PORT.716/81.22.08.1981.MNE, DR.IS [192] de 22.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1981-575920
+  date: '1981-08-22'
+- type: amended_by
+  target: pt:dre:396894:por
+  label: "Aumentado lugares ao quadro de pessoal da Direcção-Geral de Cooperação, aprovado pelo presente diploma pela PORT.766/82.07.08.1982.MFP,\
+    \ DR.IS [181] de 07.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/766-1982-396894
+  date: '1982-08-07'
+- type: amended_by
+  target: pt:dre:565386:por
+  label: Extinta, a partir de 11.01.1991, a Comissão para a Transferência do Património e Documentação de Organismos do ex-Ministério
+    do Ultramar, criada no âmbito do art. 28.º, revogado, a partir da mesma data, o referido art. 28.º do presente diploma,
+    e determinada a transferência dos respectivos arquivos e património para o Instituto para a Cooperação Económica pelo
+    DEC LEI.385/90.10.12.1990.MNE, DR.IS [283]de 10.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1990-565386
+  date: '1990-12-10'
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685796:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46] e extinta a Direcção Geral para a Cooperação criada pelo\
+    \ presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:33Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +189,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Natureza, atribuições e competência
 
-###### Artigo 1.º A acção do Ministério dos Negócios Estrangeiros em matéria de cooperação internacional exerce-se através da Direcção-Geral de Cooperação, que é criada pelo presente diploma, e do Instituto para a Cooperação Económica.
+Artigo 1.º A acção do Ministério dos Negócios Estrangeiros em matéria de cooperação internacional exerce-se através da Direcção-Geral de Cooperação, que é criada pelo presente diploma, e do Instituto para a Cooperação Económica.
 
-###### Art. 2. São atribuições da Direcção-Geral de Cooperação acompanhar e apoiar, em estreita articulação com os demais serviços do Estado, em conformidade com as respectivas competências, as actividades de cooperação nos domínios sócio-cultural, científico e tecnológico e ainda nos demais domínios cuja coordenação não caiba na competência de outros organismos oficiais. De forma especial, compete-lhe:
+Art. 2. São atribuições da Direcção-Geral de Cooperação acompanhar e apoiar, em estreita articulação com os demais serviços do Estado, em conformidade com as respectivas competências, as actividades de cooperação nos domínios sócio-cultural, científico e tecnológico e ainda nos demais domínios cuja coordenação não caiba na competência de outros organismos oficiais. De forma especial, compete-lhe:
 
 a) Analisar, propor e assegurar a execução de acções, programas e projectos de cooperação de carácter bilateral ou multilateral;
 
@@ -128,7 +215,7 @@ g) Organizar cursos e programas de formação e informação para os cooperantes
 
 #### SECÇÃO II — Organização dos serviços
 
-###### Art. 3.º - 1 - A Direcção-Geral de Cooperação compreende os seguintes serviços:
+Art. 3.º - 1 - A Direcção-Geral de Cooperação compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Cooperação Bilateral;
 
@@ -142,15 +229,15 @@ e) Repartição Administrativa.
 
 2 - Os serviços mencionados no n.º 1, alíneas d) e e), deverão ser integrados nos serviços homólogos do Ministério dos Negócios Estrangeiros quando estes forem reestruturados em moldes que permitam essa integração.
 
-###### Art. 4.º - 1 - À Direcção dos Serviços de Cooperação Bilateral compete o tratamento dos assuntos que se relacionem com a preparação, negociação e execução de acções e programas de cooperação bilateral.
+Art. 4.º - 1 - À Direcção dos Serviços de Cooperação Bilateral compete o tratamento dos assuntos que se relacionem com a preparação, negociação e execução de acções e programas de cooperação bilateral.
 
 2 - A Direcção dos Serviços de Cooperação Bilateral compreende duas divisões, sendo a primeira dedicada a assuntos de natureza sócio-cultural e a segunda a assuntos de outra natureza, nomeadamente científicos e tecnológicos.
 
-###### Art. 5.º - 1 - À Direcção dos Serviços de Cooperação Multilateral compete o tratamento dos assuntos que se relacionem com a preparação, negociação e execução das acções e programas de cooperação multilateral
+Art. 5.º - 1 - À Direcção dos Serviços de Cooperação Multilateral compete o tratamento dos assuntos que se relacionem com a preparação, negociação e execução das acções e programas de cooperação multilateral
 
 2 - A Direcção dos Serviços de Cooperação Multilateral compreende duas divisões, sendo a primeira dedicada a assuntos de natureza sócio-cultural e a segunda a assuntos de outra natureza, nomeadamente científicos e tecnológicos.
 
-###### Art. 6.º - 1 - À Direcção do Serviço de Cooperantes compete:
+Art. 6.º - 1 - À Direcção do Serviço de Cooperantes compete:
 
 a) Promover e coordenar acções de recrutamento, formação e informação de cooperantes destinados quer à execução de acordos de cooperação bilateral, quer a programas de cooperação multilateral, ou colaborar nessas acções com os Ministérios da tutela dos cooperantes;
 
@@ -162,7 +249,7 @@ d) Promover junto das autoridades competentes a formação de pessoal de países
 
 2 - A Direcção do Serviço de Cooperantes compreende duas divisões, sendo a primeira dedicada às tarefas relacionadas com a selecção, recrutamento. formação e contratação de cooperantes e a segunda à gestão da respectiva actividade.
 
-###### Art. 7.º - 1 - À Assessoria Jurídica compete:
+Art. 7.º - 1 - À Assessoria Jurídica compete:
 
 a) Elaborar estudos e pareceres jurídicos que lhe forem pedidos sobre matérias relacionadas com a cooperação;
 
@@ -174,7 +261,7 @@ d) Promover a recolha e organização da legislação, jurisprudência e doutrin
 
 2 - A Assessoria Jurídica será chefiada por um funcionário com a categoria de chefe de divisão.
 
-###### Art. 8.º - 1 - A Repartição Administrativa tem a seu cargo os assuntos de natureza administrativa relativos à actividade da Direcção-Geral, devendo para
+Art. 8.º - 1 - A Repartição Administrativa tem a seu cargo os assuntos de natureza administrativa relativos à actividade da Direcção-Geral, devendo para
 
 O efeito manter-se em estreita ligação com a Direcção-Geral dos Serviços Centrais.
 
@@ -182,15 +269,15 @@ O efeito manter-se em estreita ligação com a Direcção-Geral dos Serviços Ce
 
 #### SECÇÃO III — Do pessoal
 
-###### Art. 9.º A Direcção-Geral de Cooperação dispõe do pessoal constante do quadro anexo ao presente diploma.
+Art. 9.º A Direcção-Geral de Cooperação dispõe do pessoal constante do quadro anexo ao presente diploma.
 
-###### Art. 10.º - 1 - A Direcção-Geral de Cooperação é chefiada por um director-geral, que será um funcionário do quadro do pessoal diplomático do Ministério dos Negócios Estrangeiros com a categoria de embaixador ou ministro plenipotenciário de 1.ª classe.
+Art. 10.º - 1 - A Direcção-Geral de Cooperação é chefiada por um director-geral, que será um funcionário do quadro do pessoal diplomático do Ministério dos Negócios Estrangeiros com a categoria de embaixador ou ministro plenipotenciário de 1.ª classe.
 
 2 - O director-geral será assistido por dois subdirectores-gerais, que serão funcionários do quadro do pessoal diplomático do Ministério dos Negócios Estrangeiros com a categoria de ministro plenipotenciário de 1.ª ou de 2.ª classe.
 
 3 - Para o efeito dos números precedentes, serão acrescentados aos respectivos quadros do pessoal diplomático em serviço na Secretaria de Estado as seguintes unidades: um lugar de embaixador ou de ministro plenipotenciário de 1.ª classe, conforme a categoria do funcionário diplomático provido no cargo de director-geral; dois lugares de ministro plenipotenciário de 1.ª ou de 2.ª classe, conforme a categoria dos funcionários diplomáticos providos nos cargos de subdirectores-gerais.
 
-###### Art. 11.º - 1 - O provimento dos cargos de director-geral de Cooperação e dos subdirectores-gerais será feito por livre escolha do Ministro dos Negócios Estrangeiros, nos termos do Regulamento do Ministério aplicáveis aos funcionários do serviço diplomático.
+Art. 11.º - 1 - O provimento dos cargos de director-geral de Cooperação e dos subdirectores-gerais será feito por livre escolha do Ministro dos Negócios Estrangeiros, nos termos do Regulamento do Ministério aplicáveis aos funcionários do serviço diplomático.
 
 2 - Os lugares de director de serviços e de chefe de divisão serão providos nos termos da lei geral.
 
@@ -206,23 +293,23 @@ b) Indivíduos habilitados com curso superior adequado.
 
 6 - Os lugares de técnico de 2.ª classe serão providos, por concurso documental, de entre licenciados com curso superior adequado.
 
-###### Art. 12.º - 1 - Os lugares de consultor jurídico assessor, principal e de 1.ª classe são providos nos termos da lei geral.
+Art. 12.º - 1 - Os lugares de consultor jurídico assessor, principal e de 1.ª classe são providos nos termos da lei geral.
 
 2 - Os lugares de consultor jurídico de 2.ª classe são providos, por concurso documental, de entre licenciados em Direito.
 
-###### Art. 13.º - 1 - Os lugares de documentalista de 2.ª classe serão providos por licenciados com curso superior adequado.
+Art. 13.º - 1 - Os lugares de documentalista de 2.ª classe serão providos por licenciados com curso superior adequado.
 
 2 - Os lugares de documentalista principal e de 1.ª classe serão providos. respectivamente, de entre os documentalistas de 1.º e de 2.ª classes com três anos de bom e efectivo serviço na sua categoria.
 
 3 - Os lugares de tradutor-correspondente-intérprete serão providos por concurso documental em indivíduos habilitados com o curso geral dos liceus ou equivalente que falem e escrevam duas ou mais línguas estrangeiras.
 
-###### Art. 14.º - 1 - Os lugares de técnico auxiliar principal serão providos de entre técnicos auxiliares de 1.ª classe com três anos de bom e efectivo serviço.
+Art. 14.º - 1 - Os lugares de técnico auxiliar principal serão providos de entre técnicos auxiliares de 1.ª classe com três anos de bom e efectivo serviço.
 
 2 - Os lugares de técnico auxiliar de 1.ª classe serão providos entre técnicos auxiliares de 2.ª classe com três anos de bom e efectivo serviço.
 
 3 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral dos liceus ou equivalente.
 
-###### Art. 15.º - 1 - Os lugares de chefe de secção são providos, mediante concurso documental e apreciação curricular, de entre:
+Art. 15.º - 1 - Os lugares de chefe de secção são providos, mediante concurso documental e apreciação curricular, de entre:
 
 a) Primeiros-oficiais com mais de três anos de bom e efectivo serviço na respectiva classe;
 
@@ -234,13 +321,13 @@ b) Indivíduos habilitados com curso superior adequado.
 
 4 - Os lugares de terceiro-oficial são providos mediante concurso de provas, a que serão admitidos indivíduos que possuam o curso geral dos liceus ou equiparado.
 
-###### Art. 16.º - 1 - Os lugares de escriturário-dactilógrafo principal e de 1.ª classe são providos de entre, respectivamente, os escriturários-dactilógrafos de 1.ª e 2.ª classes com cinco anos de bom e efectivo serviço na respectiva classe.
+Art. 16.º - 1 - Os lugares de escriturário-dactilógrafo principal e de 1.ª classe são providos de entre, respectivamente, os escriturários-dactilógrafos de 1.ª e 2.ª classes com cinco anos de bom e efectivo serviço na respectiva classe.
 
 2 - Os lugares de escriturário-dactilógrafo de 2.ª classe são providos, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 17.º O recrutamento do pessoal auxiliar far-se-á atendendo ao que, para o efeito, estiver estipulado na legislação geral.
+Art. 17.º O recrutamento do pessoal auxiliar far-se-á atendendo ao que, para o efeito, estiver estipulado na legislação geral.
 
-###### Art. 18.º - 1 - O provimento do pessoal referido nos artigos 11.º, n.os 3, 4, 5 e 6, 12.º, 13.º, 14.º e 15.º será feito por nomeação provisória ou em comissão de serviço, durante o período de um ano, findo o qual o funcionário:
+Art. 18.º - 1 - O provimento do pessoal referido nos artigos 11.º, n.os 3, 4, 5 e 6, 12.º, 13.º, 14.º e 15.º será feito por nomeação provisória ou em comissão de serviço, durante o período de um ano, findo o qual o funcionário:
 
 a) Será provido definitivamente, se tiver revelado aptidão para o lugar;
 
@@ -250,21 +337,21 @@ b) Será exonerado ou regressará ao serviço de origem, conforme se trate de no
 
 3 - O disposto no número anterior não prejudica a nomeação em comissão de serviço por um período não superior a um ano, com base na opção do funcionário ou por conveniência da Administração.
 
-###### Art. 19.º - 1 - Excepcionalmente, sem prejuízo das legítimas expectativas dos funcionários do quadro, e quando não existam funcionários possuidores dos requisitos necessários, poderão ser recrutados directamente para lugares de acesso da carreira técnica superior, com respeito pelas habilitações referidas no n.º 6 do artigo 11.º, indivíduos de comprovada experiência profissional e especialização que interessem ao prosseguimento das missões confiadas à Direcção-Geral de Cooperação, mediante proposta devidamente fundamentada.
+Art. 19.º - 1 - Excepcionalmente, sem prejuízo das legítimas expectativas dos funcionários do quadro, e quando não existam funcionários possuidores dos requisitos necessários, poderão ser recrutados directamente para lugares de acesso da carreira técnica superior, com respeito pelas habilitações referidas no n.º 6 do artigo 11.º, indivíduos de comprovada experiência profissional e especialização que interessem ao prosseguimento das missões confiadas à Direcção-Geral de Cooperação, mediante proposta devidamente fundamentada.
 
 2 - O disposto no número anterior não é aplicável ao lugar de técnico assessor.
 
-###### Art. 20.º A Direcção-Geral de Cooperação, mediante prévia autorização ministerial, poderá celebrar contratos de prestação de serviços com entidades públicas ou privadas especializadas para a realização de estudos ou outros trabalhos considerados necessários para a prossecução dos seus objectivos, após audição dos Ministérios competentes na matéria.
+Art. 20.º A Direcção-Geral de Cooperação, mediante prévia autorização ministerial, poderá celebrar contratos de prestação de serviços com entidades públicas ou privadas especializadas para a realização de estudos ou outros trabalhos considerados necessários para a prossecução dos seus objectivos, após audição dos Ministérios competentes na matéria.
 
 ### CAPÍTULO II — Disposições finais e transitórias
 
-###### Art. 21.º - 1 - Junto da Direcção-Geral de Cooperação funciona um conselho de coordenação, presidido pelo director-geral, em que são representados os departamentos interessados nas acções de cooperação.
+Art. 21.º - 1 - Junto da Direcção-Geral de Cooperação funciona um conselho de coordenação, presidido pelo director-geral, em que são representados os departamentos interessados nas acções de cooperação.
 
 2 - Este conselho deve proceder à articulação entre os respectivos departamentos, preparando a execução das actividades a desenvolver dentro das atribuições da Direcção-Geral de Cooperação.
 
-###### Art. 22.º Serão extintos no prazo de cento e vinte dias a contar da data de publicação do presente diploma a Direcção-Geral de Economia, criada pelo [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, a Comissão Interministerial do Café e o Fundo de Fomento e de Propaganda do Café, criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, o Gabinete de Planeamento e Integração Económica, criado pelo [Decreto-Lei n.º 45222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45222-1963-685796), de 30 de Agosto de 1963, o Fundo de Fomento Mineiro Ultramarino, criado pelo [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967, a Inspecção-Geral de Minas, criada pelo [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro, o Gabinete do Plano do Zambeze, criado pelo [Decreto-Lei n.º 69/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1970-228057), de 27 de Fevereiro, e o Gabinete Coordenador para a Cooperação, criado pelo [Decreto-Lei n.º 791/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/791-1974-235936), de 31 de Dezembro.
+Art. 22.º Serão extintos no prazo de cento e vinte dias a contar da data de publicação do presente diploma a Direcção-Geral de Economia, criada pelo [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, a Comissão Interministerial do Café e o Fundo de Fomento e de Propaganda do Café, criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, o Gabinete de Planeamento e Integração Económica, criado pelo [Decreto-Lei n.º 45222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45222-1963-685796), de 30 de Agosto de 1963, o Fundo de Fomento Mineiro Ultramarino, criado pelo [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967, a Inspecção-Geral de Minas, criada pelo [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro, o Gabinete do Plano do Zambeze, criado pelo [Decreto-Lei n.º 69/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1970-228057), de 27 de Fevereiro, e o Gabinete Coordenador para a Cooperação, criado pelo [Decreto-Lei n.º 791/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/791-1974-235936), de 31 de Dezembro.
 
-###### Art. 23.º - 1 - Até 31 de Dezembro de 1979, o pessoal que à data da publicação do presente diploma se encontre vinculado a qualquer título aos organismos a que se refere o artigo anterior poderá ser provido nos lugares do quadro anexo a este decreto-lei, com excepção da categoria de assessor, sem prejuízo das habilitações estabelecidas e de acordo com as seguintes regras:
+Art. 23.º - 1 - Até 31 de Dezembro de 1979, o pessoal que à data da publicação do presente diploma se encontre vinculado a qualquer título aos organismos a que se refere o artigo anterior poderá ser provido nos lugares do quadro anexo a este decreto-lei, com excepção da categoria de assessor, sem prejuízo das habilitações estabelecidas e de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -280,34 +367,34 @@ d) Para categoria correspondente às funções que o funcionário ou agente actu
 
 4 - O provimento previsto no n.º 1 deste artigo será feito mediante lista ou listas nominativas, aprovadas pelo Ministro dos Negócios Estrangeiros, sem dependência de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 24.º Ao pessoal referido no n.º 1 do artigo anterior que eventualmente não seja incluído na lista ou listas nominativas mencionadas no n.º 4 da mesma disposição será aplicado o disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro, mediante decreto regulamentar, a publicar no prazo de noventa dias a contar da extinção dos organismos mencionados no artigo 22.º
+Art. 24.º Ao pessoal referido no n.º 1 do artigo anterior que eventualmente não seja incluído na lista ou listas nominativas mencionadas no n.º 4 da mesma disposição será aplicado o disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro, mediante decreto regulamentar, a publicar no prazo de noventa dias a contar da extinção dos organismos mencionados no artigo 22.º
 
-###### Art. 25.º Até à publicação do decreto regulamentar a que se refere o artigo anterior, o pessoal dos organismos mencionados no artigo 22.º continuará a ser abonado de vencimentos por conta das verbas desses organismos, mantendo a actual designação funcional e letra de vencimento.
+Art. 25.º Até à publicação do decreto regulamentar a que se refere o artigo anterior, o pessoal dos organismos mencionados no artigo 22.º continuará a ser abonado de vencimentos por conta das verbas desses organismos, mantendo a actual designação funcional e letra de vencimento.
 
-###### Art. 26.º O Ministro dos Negócios Estrangeiros poderá, por despacho, destacar pessoal da Direcção-Geral de Cooperação para outros serviços do Ministério, ou destes para a mesma Direcção-Geral, sem alteração da situação desses funcionários no respectivo quadro.
+Art. 26.º O Ministro dos Negócios Estrangeiros poderá, por despacho, destacar pessoal da Direcção-Geral de Cooperação para outros serviços do Ministério, ou destes para a mesma Direcção-Geral, sem alteração da situação desses funcionários no respectivo quadro.
 
-###### Art. 27.º O vencimento e outros abonos do director-geral de Cooperação, dos subdirectores-gerais ou de quaisquer outros funcionários do serviço diplomático que exerçam funções na Direcção-Geral serão pagos pelas dotações orçamentais atribuídas à generalidade dos funcionários diplomáticos das categorias a que pertençam.
+Art. 27.º O vencimento e outros abonos do director-geral de Cooperação, dos subdirectores-gerais ou de quaisquer outros funcionários do serviço diplomático que exerçam funções na Direcção-Geral serão pagos pelas dotações orçamentais atribuídas à generalidade dos funcionários diplomáticos das categorias a que pertençam.
 
-###### Art. 28.º - 1 - O património e a documentação dos organismos a extinguir serão transferidos para a Direcção-Geral de Cooperação e para o Instituto para a Cooperação Económica ou para outras entidades, mediante proposta de uma comissão nomeada para o efeito pelo Ministro dos Negócios Estrangeiros e pelo Ministro das Finanças.
+Art. 28.º - 1 - O património e a documentação dos organismos a extinguir serão transferidos para a Direcção-Geral de Cooperação e para o Instituto para a Cooperação Económica ou para outras entidades, mediante proposta de uma comissão nomeada para o efeito pelo Ministro dos Negócios Estrangeiros e pelo Ministro das Finanças.
 
 2 - Enquanto a afectação definitiva não for efectuada, o património e a documentação referidos no número anterior ficarão transitoriamente afectos à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
 
-###### Art. 29.º A regulamentação da Direcção-Geral de Cooperação será fixada por decreto dos Ministros dos Negócios Estrangeiros e das Finanças e do Secretário de Estado da Administração Pública.
+Art. 29.º A regulamentação da Direcção-Geral de Cooperação será fixada por decreto dos Ministros dos Negócios Estrangeiros e das Finanças e do Secretário de Estado da Administração Pública.
 
-###### Art. 30.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros e do Ministro das Finanças ou do Secretário de Estado da Administração Pública, consoante as respectivas competências, ouvidos, quando for o caso, os Ministérios competentes nas matérias em causa.
+Art. 30.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros e do Ministro das Finanças ou do Secretário de Estado da Administração Pública, consoante as respectivas competências, ouvidos, quando for o caso, os Ministérios competentes nas matérias em causa.
 
-###### Art. 31.º O presente diploma entra em vigor na data da sua publicação.
+Art. 31.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 5 de Dezembro de 1979.**
+Promulgado em 5 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal a que se refere o artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29000/32393243.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29000/32393243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29000/32393243.pdf)
 
-**O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26200/23742375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1978-325929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f98e606283f1fe42ca2ae5ec4c99f8f73084a3c8f8876144685a68a85c77dd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 541c4261426e9fada26907c7df3df259311d946fa25c4c117ac9ced224bbda48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Contratação de Pessoal
+- Formas de Provimento
+- Instituto de Tecnologia Educativa
+- Ministério da Educação e Cultura
+- Pessoal Técnico
+- Recrutamento de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:525626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684799:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:24Z'
   warnings: []
   errors: []
 ---
@@ -103,22 +133,22 @@ Dada a urgência verificada na resolução destes problemas por imperativo do pr
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Enquanto não for revisto o quadro anexo ao [Decreto-Lei n.º 71/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799), de 27 de Fevereiro, pode o Ministro da Educação e Cultura autorizar, para a realização de trabalhos de carácter técnico que não possa ser assegurada por pessoal permanente, a celebração de contratos de prestação de serviços, os quais serão obrigatoriamente reduzidos a escrito, deles constando a tarefa, o prazo, a remuneração, as condições de rescisão e a menção de que não conferem, em caso algum, a qualidade de agente administrativo.
+Artigo 1.º Enquanto não for revisto o quadro anexo ao [Decreto-Lei n.º 71/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799), de 27 de Fevereiro, pode o Ministro da Educação e Cultura autorizar, para a realização de trabalhos de carácter técnico que não possa ser assegurada por pessoal permanente, a celebração de contratos de prestação de serviços, os quais serão obrigatoriamente reduzidos a escrito, deles constando a tarefa, o prazo, a remuneração, as condições de rescisão e a menção de que não conferem, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 2.º - 1 - Pode o Ministro da Educação e Cultura autorizar o preenchimento de vagas existentes no quadro anexo ao [Decreto-Lei n.º 71/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799), de 27 de Fevereiro, em regime de comissão de serviço, pelo prazo de um ano, prorrogável, independentemente das habilitações académicas legalmente exigidas, se o funcionário já possuir a mesma categoria no quadro de origem.
+Art. 2.º - 1 - Pode o Ministro da Educação e Cultura autorizar o preenchimento de vagas existentes no quadro anexo ao [Decreto-Lei n.º 71/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799), de 27 de Fevereiro, em regime de comissão de serviço, pelo prazo de um ano, prorrogável, independentemente das habilitações académicas legalmente exigidas, se o funcionário já possuir a mesma categoria no quadro de origem.
 
 2 - A colocação em regime de comissão de serviço referida no número anterior não pode converter-se, em caso algum, em provimento definitivo no quadro.
 
-###### Art. 3.º O pessoal que actualmente colabora nas actividades do Instituto de Tecnologia Educativa em regime de prestação de serviço eventual de serviços será contratado no regime definido no artigo 1.º, com a categoria que actualmente lhe está atribuída.
+Art. 3.º O pessoal que actualmente colabora nas actividades do Instituto de Tecnologia Educativa em regime de prestação de serviço eventual de serviços será contratado no regime definido no artigo 1.º, com a categoria que actualmente lhe está atribuída.
 
-###### Art. 4.º Consideram-se regularizadas as remunerações pagas pelo Instituto de Tecnologia Educativa ao pessoal em regime de prestação de serviços, ao abrigo do artigo 25.º do [Decreto-Lei n.º 46135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46135-1964-554170), de 31 de Dezembro de 1964, do artigo 23.º do [Decreto-Lei n.º 48962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48962-1969-525626), de 14 de Abril de 1969, e dos artigos 26.º e 27.º do [Decreto-Lei n.º 71/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799), de 27 de Fevereiro.
+Art. 4.º Consideram-se regularizadas as remunerações pagas pelo Instituto de Tecnologia Educativa ao pessoal em regime de prestação de serviços, ao abrigo do artigo 25.º do [Decreto-Lei n.º 46135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46135-1964-554170), de 31 de Dezembro de 1964, do artigo 23.º do [Decreto-Lei n.º 48962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48962-1969-525626), de 14 de Abril de 1969, e dos artigos 26.º e 27.º do [Decreto-Lei n.º 71/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799), de 27 de Fevereiro.
 
-###### Art. 5.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações do orçamento privativo do Instituto de Tecnologia Educativa.
+Art. 5.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações do orçamento privativo do Instituto de Tecnologia Educativa.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 28 de Outubro de 1978.**
+Promulgado em 28 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

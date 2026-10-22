@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01500/00870089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ef100ef98676ccf85aa263fc27e8ffe3b1e61b61f89e4e2031993c4dda53ee0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bcc986344969260bd99d399fc0ac83ff9a9e948023d07c8f7f78a15e64395d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta de Crédito Público
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:311035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278925:por
+  label: "Alterado o art. 12º do Dec Lei 42900 de 05-Abr de 1960, com a redacção conferida no presente diploma, pelo DEC LEI.424/77.11.10.1977.MF,\
+    \ DR.IS [235] de 11.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/424-1977-278925
+  date: '1977-10-11'
+- type: cites
+  target: pt:dre:235941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471720:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278925:por
+  label: "Revogado o art. 8º do presente diploma pelo DEC LEI.424/77.11.10.1977.MF, DR.IS [235] de 11.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/424-1977-278925
+  date: '1977-10-11'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 76/83 DE 08-FEV DR.IS [32]\032]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-02-08'
+- type: repealed_by
+  target: pt:dre:311035:por
+  label: "Revogado pelo DEC LEI.76/83.08.02.1983.MFP, DR.IS [32] de 08.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1983-311035
+  date: '1983-02-08'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:13Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +141,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 12.º e 13.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 12.º e 13.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, passam a ter a seguinte redacção:
 
-###### Artigo 1.º A Junta do Crédito Público é a instituição destinada a exercer, com independência de qualquer departamento do Estado, a administração geral da dívida pública, interna ou externa.
+Artigo 1.º A Junta do Crédito Público é a instituição destinada a exercer, com independência de qualquer departamento do Estado, a administração geral da dívida pública, interna ou externa.
 
 ...
 
-###### Art. 12.º Compete especialmente ao presidente da Junta do Crédito Público:
+Art. 12.º Compete especialmente ao presidente da Junta do Crédito Público:
 
 1.º Coordenar e fiscalizar os trabalhos da Junta;
 
@@ -124,7 +167,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 9.º Conferir posse aos vogais efectivos e substitutos da Junta.
 
-###### Art. 13.º São funções e atribuições da Junta do Crédito Público:
+Art. 13.º São funções e atribuições da Junta do Crédito Público:
 
 1.º Fiscalizar a situação da dívida pública e dos fundos a cargo da Junta;
 
@@ -148,17 +191,17 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 11.º Deliberar sobre a necessidade de convocação dos vogais substitutos nos termos da primeira parte do artigo 9.º
 
-###### Art. 2.º As gratificações a que se referem o artigo 4.º e o § único do artigo 15.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, serão fixadas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
+Art. 2.º As gratificações a que se referem o artigo 4.º e o § único do artigo 15.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, serão fixadas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
 
-###### Art. 3.º - 1. As funções de secretário da Junta, sem direito a voto, competem ao chefe de repartição mais antigo, salvo se a Junta designar qualquer outro para o efeito.
+Art. 3.º - 1. As funções de secretário da Junta, sem direito a voto, competem ao chefe de repartição mais antigo, salvo se a Junta designar qualquer outro para o efeito.
 
 2. O chefe de repartição que desempenhar estas funções perceberá a gratificação constante do quadro do pessoal e vencimentos que faz parte integrante do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, alterada de harmonia com o artigo 5.º do [Decreto-Lei n.º 45643](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45643-1964-471720), de 7 de Abril de 1964.
 
-###### Art. 4.º - 1. O director-geral dos Serviços da Junta do Crédito Público deve possuir as condições de idoneidade e as aptidões necessárias para o desempenho do cargo.
+Art. 4.º - 1. O director-geral dos Serviços da Junta do Crédito Público deve possuir as condições de idoneidade e as aptidões necessárias para o desempenho do cargo.
 
 2. O director-geral tomará posse perante o Ministro das Finanças.
 
-###### Art. 5.º Compete ao director-geral a gestão de todos os serviços da Junta, e nomeadamente:
+Art. 5.º Compete ao director-geral a gestão de todos os serviços da Junta, e nomeadamente:
 
 1) Propor a fixação e alteração da estrutura interna dos serviços;
 
@@ -206,28 +249,28 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 23) Exercer todas as demais atribuições regulamentares que lhe sejam conferidas, dando cumprimento às determinações superiores.
 
-###### Art. 6.º Sempre que as condições o exijam e as dotações orçamentais o permitam, poderá o director-geral socorrer-se de especialistas para o estudo de tarefas específicas.
+Art. 6.º Sempre que as condições o exijam e as dotações orçamentais o permitam, poderá o director-geral socorrer-se de especialistas para o estudo de tarefas específicas.
 
-###### Art. 7.º O director-geral poderá delegar algumas das suas atribuições total ou parcialmente, com carácter transitório ou permanente.
+Art. 7.º O director-geral poderá delegar algumas das suas atribuições total ou parcialmente, com carácter transitório ou permanente.
 
-###### Art. 8.º Nos casos de impedimento ou vaga do director-geral, as funções serão assumidas pelo chefe de repartição mais antigo, salvo se a Junta entender designar qualquer outro, considerando-se alterado, de conformidade com este preceito, o artigo 49.º do Regulamento aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, e o n.º 2 do artigo 2.º do [Decreto-Lei n.º 796/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1974-235941), de 31 de Dezembro.
+Art. 8.º Nos casos de impedimento ou vaga do director-geral, as funções serão assumidas pelo chefe de repartição mais antigo, salvo se a Junta entender designar qualquer outro, considerando-se alterado, de conformidade com este preceito, o artigo 49.º do Regulamento aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, e o n.º 2 do artigo 2.º do [Decreto-Lei n.º 796/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1974-235941), de 31 de Dezembro.
 
-###### Art. 9.º Os lugares do quadro do pessoal da Junta do Crédito Público a que se refere o artigo 1.º do [Decreto-Lei n.º 834/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/834-1974-238222), de 31 de Dezembro, serão providos por concurso.
+Art. 9.º Os lugares do quadro do pessoal da Junta do Crédito Público a que se refere o artigo 1.º do [Decreto-Lei n.º 834/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/834-1974-238222), de 31 de Dezembro, serão providos por concurso.
 
-###### Art. 10.º Os chefes de repartição e os chefes de secção serão nomeados a título definitivo, por livre escolha do director-geral, entre os chefes de secção e os primeiros-oficiais, respectivamente, que tenham demonstrado condições de idoneidade e competência, desde que tenham pelo menos três anos de serviço na categoria.
+Art. 10.º Os chefes de repartição e os chefes de secção serão nomeados a título definitivo, por livre escolha do director-geral, entre os chefes de secção e os primeiros-oficiais, respectivamente, que tenham demonstrado condições de idoneidade e competência, desde que tenham pelo menos três anos de serviço na categoria.
 
-###### Art. 11.º As promoções entre as restantes categorias serão feitas por concurso.
+Art. 11.º As promoções entre as restantes categorias serão feitas por concurso.
 
-###### Art. 12.º O ingresso no quadro da Junta do Crédito Público continua a efectuar-se por concurso, nos termos das regras 1.ª e 5.ª do artigo 22.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
+Art. 12.º O ingresso no quadro da Junta do Crédito Público continua a efectuar-se por concurso, nos termos das regras 1.ª e 5.ª do artigo 22.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
-###### Art. 13.º Ficam revogados os artigos 29.º e 42.º do Regulamento da Junta do Crédito Público, aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, e o artigo 29.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
+Art. 13.º Ficam revogados os artigos 29.º e 42.º do Regulamento da Junta do Crédito Público, aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, e o artigo 29.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
-###### Art. 14.º O presente diploma entra imediatamente em vigor.
+Art. 14.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

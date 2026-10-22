@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 272/1974, 1º Suplemento, Série I de 1974-11-22
   number: '272'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1440-(6) a 1440-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27201/00060007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/654-1974-151692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98a08e5dc30e1171c282bf908fd55794436b6dd9962b5cbb6951b28a15ba511f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bf07c5bc99f4fc869076aa7096e2bfd3af9d22bb87b18f2d61fb59bd1d47714
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Estaleiros Navais de Viana do Castelo
+- Indústria da Construção Naval
+- Junta Autónoma dos Portos do Norte
+- Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:267984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:01Z'
   warnings: []
   errors: []
 ---
@@ -116,36 +139,36 @@ Considerando o significativo apoio que o empreendimento poderá dar à economia 
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Governo autorizado, pelo Secretário de Estado dos Transportes e Comunicações, a contratar com os Estaleiros Navais de Viana do Castelo, S. A. R. L., nos termos do presente diploma, a prorrogação do prazo previsto no artigo único do [Decreto-Lei n.º 36950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36950-1948-385873), de 30 de Junho de 1948, e bem assim a integração de mais 13050 m2 de terreno na área da concessão a que se referem os Decretos-Leis n.os 35570 e 37626, respectivamente de 1 de Abril de 1946 e 23 de Novembro de 1949, a qual fica totalizando 49584 m2, com os limites indicados na planta anexa.
+Artigo 1.º Fica o Governo autorizado, pelo Secretário de Estado dos Transportes e Comunicações, a contratar com os Estaleiros Navais de Viana do Castelo, S. A. R. L., nos termos do presente diploma, a prorrogação do prazo previsto no artigo único do [Decreto-Lei n.º 36950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36950-1948-385873), de 30 de Junho de 1948, e bem assim a integração de mais 13050 m2 de terreno na área da concessão a que se referem os Decretos-Leis n.os 35570 e 37626, respectivamente de 1 de Abril de 1946 e 23 de Novembro de 1949, a qual fica totalizando 49584 m2, com os limites indicados na planta anexa.
 
-###### Art. 2.º A prorrogação referida no artigo anterior será de vinte e cinco anos, a contar de 1 de Abril de 1981.
+Art. 2.º A prorrogação referida no artigo anterior será de vinte e cinco anos, a contar de 1 de Abril de 1981.
 
-###### Art. 3.º - 1. Os terrenos abrangidos na área da concessão serão ocupados com as obras da 1.ª fase de remodelação e ampliação dos estaleiros navais de Viana do Castelo.
+Art. 3.º - 1. Os terrenos abrangidos na área da concessão serão ocupados com as obras da 1.ª fase de remodelação e ampliação dos estaleiros navais de Viana do Castelo.
 
 2. Nenhuma obra poderá ser iniciada na área da concessão sem que os respectivos projectos, cadernos de encargos ou normas de construção e os programas de trabalho hajam sido superiormente aprovados.
 
-###### Art. 4.º Precedendo autorização do Secretário de Estado dos Transportes e Comunicações, poderá a concessionária demolir edifícios ou outras construções existentes na área concedida, dispensando-se qualquer outra formalidade legal.
+Art. 4.º Precedendo autorização do Secretário de Estado dos Transportes e Comunicações, poderá a concessionária demolir edifícios ou outras construções existentes na área concedida, dispensando-se qualquer outra formalidade legal.
 
-###### Art. 5.º No contrato a celebrar com os Estaleiros Navais de Viana do Castelo, S. A. R. L., será fixado o sistema de pagamento a efectuar pela concessionária, bem como a actualização dos valores inicialmente acordados.
+Art. 5.º No contrato a celebrar com os Estaleiros Navais de Viana do Castelo, S. A. R. L., será fixado o sistema de pagamento a efectuar pela concessionária, bem como a actualização dos valores inicialmente acordados.
 
-###### Art. 6.º As receitas que vierem a ser obtidas de acordo com o artigo anterior constituirão receita ordinária da Junta Autónoma dos Portos do Norte.
+Art. 6.º As receitas que vierem a ser obtidas de acordo com o artigo anterior constituirão receita ordinária da Junta Autónoma dos Portos do Norte.
 
-###### Art. 7.º - 1. Terminado o prazo a que se refere o artigo 2.º, reverterão gratuitamente para o Estado todas as obras, instalações, apetrechamentos e edifícios referidos nos artigos 6.º e 7.º do [Decreto-Lei n.º 35570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35570-1946-339624), de 1 de Abril de 1946, com excepção dos edifícios ou outras construções cuja demolição haja sido autorizada.
+Art. 7.º - 1. Terminado o prazo a que se refere o artigo 2.º, reverterão gratuitamente para o Estado todas as obras, instalações, apetrechamentos e edifícios referidos nos artigos 6.º e 7.º do [Decreto-Lei n.º 35570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35570-1946-339624), de 1 de Abril de 1946, com excepção dos edifícios ou outras construções cuja demolição haja sido autorizada.
 
 2. Ficarão igualmente pertença do Estado, terminado que seja o prazo, todas as obras e equipamentos fixos constantes do projecto da 1.ª fase de remodelação e ampliação dos Estaleiros Navais de Viana do Castelo que hajam sido construídos ou instalados na área da concessão.
 
 3. Se no decurso do prazo da concessão se mostrar necessária, para maior eficiência da exploração do estaleiro, a execução de obras ou a instalação de equipamento fixo, as condições de reversão para o Estado serão fixadas para cada caso.
 
-###### Art. 8.º Este diploma entra em vigor imediatamente.
+Art. 8.º Este diploma entra em vigor imediatamente.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 12 de Novembro de 1974.**
+Promulgado em 12 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27201/00060007.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27201/00060007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27201/00060007.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.**
+O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

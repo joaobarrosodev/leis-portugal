@@ -47,40 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1975-307261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99505de2b5c49c40c5c9779d57190bcfa4cb8b539fdc6100aa579842ee8ba11a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c96dd7104d69aff96c15032a5fd8c9caae5bb7cc1408008cd2c24774379491a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Estatuto da Aposentação
 relationships:
 - type: amended_by
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:47Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +101,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 112.º e o n.º 1 do artigo 119.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 112.º e o n.º 1 do artigo 119.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 112.º - 1. Designa-se por reforma a aposentação do pessoal militar do Exército, da Armada, da Força Aérea, da Guarda Fiscal e Guarda Nacional Republicana, bem como a do pessoal civil equiparado por lei especial ou militar para efeitos de reforma.
+Art. 112.º - 1. Designa-se por reforma a aposentação do pessoal militar do Exército, da Armada, da Força Aérea, da Guarda Fiscal e Guarda Nacional Republicana, bem como a do pessoal civil equiparado por lei especial ou militar para efeitos de reforma.
 
 2. Considera-se equiparado ao pessoal militar referido no número anterior o pessoal da Polícia de Segurança Pública.
 
@@ -105,14 +111,14 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 119.º - 1. O exame de militares ou equiparados para os efeitos do artigo anterior compete à junta médica dos respectivos serviços de saúde.
+Art. 119.º - 1. O exame de militares ou equiparados para os efeitos do artigo anterior compete à junta médica dos respectivos serviços de saúde.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Alfredo António Cândido de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 15 de Setembro de 1975.**
+Promulgado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1974-411810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 113b336adc2b247958ece75b3a6054858bc1c50df1c1ac547f69ff01e145cd8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d29659e87942c29f09bfcce8c218e7a0f0007f17c4b4df3693903585313b090
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código de Processo do Trabalho
+- Contribuições da Segurança Social
+- Pagamento de Contribuições
+relationships:
+- type: cites
+  target: pt:dre:407490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:33Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 85.º, 185.º e 193.º do Código de Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 45497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45497-1963-680446), de 30 de Dezembro de 1963, passam a ter a seguinte redacção:
+Artigo único. Os artigos 85.º, 185.º e 193.º do Código de Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 45497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45497-1963-680446), de 30 de Dezembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 85.º - 1. As comissões corporativas enviarão ao tribunal do trabalho, nos termos previstos no n.º 2 do artigo 43.º do [Decreto-Lei n.º 54/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1974-407490), de 15 de Fevereiro, os processos de valor não superior a 20000$00 que perante elas tenham corrido para efeitos de conciliação sem ter sido conseguida.
+Art. 85.º - 1. As comissões corporativas enviarão ao tribunal do trabalho, nos termos previstos no n.º 2 do artigo 43.º do [Decreto-Lei n.º 54/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1974-407490), de 15 de Fevereiro, os processos de valor não superior a 20000$00 que perante elas tenham corrido para efeitos de conciliação sem ter sido conseguida.
 
 2. Recebido o processo, o juiz proferirá despacho designando dia para julgamento, observado um prazo não inferior a dez nem superior a vinte dias, e mandará notificar as partes para no prazo de oito dias oferecerem o rol de testemunhas e os documentos.
 
@@ -111,7 +122,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 185.º - 1. Quando a infracção for constituída pela falta de pagamento de contribuições a instituições de previdência ou de abono de família, poderá o juiz, a requerimento do arguido, autorizar que o pagamento da quantia devida seja feita em prestações mensais, até ao máximo de quarenta e oito.
+Art. 185.º - 1. Quando a infracção for constituída pela falta de pagamento de contribuições a instituições de previdência ou de abono de família, poderá o juiz, a requerimento do arguido, autorizar que o pagamento da quantia devida seja feita em prestações mensais, até ao máximo de quarenta e oito.
 
 2. O juiz fixará, segundo o seu prudente arbítrio, o juro de mora que a quantia continuará a vencer enquanto for devida, o qual não poderá ser inferior a 7% ao ano.
 
@@ -129,14 +140,14 @@ b) Não tiver efectuado o depósito da multa e das custas em que tiver sido cond
 
 ...
 
-###### Art. 193.º As multas relativas às transgressões referidas nas alíneas a), f) e g) do artigo 187.º não são convertíveis em prisão, salvo se lei especial o determinar.
+Art. 193.º As multas relativas às transgressões referidas nas alíneas a), f) e g) do artigo 187.º não são convertíveis em prisão, salvo se lei especial o determinar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 27 de Março de 1974.**
+Promulgado em 27 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

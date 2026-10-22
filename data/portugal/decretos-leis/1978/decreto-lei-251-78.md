@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 193/1978, 1º Suplemento, Série I de 1978-08-23
   number: '193'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1706-(1) a 1706-(152)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1978-554618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b85890492c919a524f4cf5e1a7072a6b6a64cae130138007667d2a03c7aa87c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6c3dc2229ed180f9f1286416200665eebdf0abe49d4421bdee8897802f5dd98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Financiamento
+- Investimento Público
+- Ordenamento do Território
+- Planeamento Económico
+- Política Agrícola
+- Política Cultural
+- Política de Transportes
+- Política do Ambiente
+- Política Externa
+- Política Fiscal
+- Política Industrial
+- Política Orçamental
+- Política Social
+- Receita Pública
+- Reestruturação de Serviços
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:140288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656398:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:329005:por
+  label: "Rectificado pela RECT.DD83.02.10.1978.PCM, DR.IS [227] de 02.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1978-329005
+  date: '1978-10-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:08Z'
   warnings: []
   errors: []
 ---
@@ -90,23 +186,23 @@ de 23 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Governo aprova o Plano para 1978 anexo a este diploma e que dele faz parte integrante, elaborado de harmonia com as grandes opções aprovadas pela Assembleia da República e constantes da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189).
+Artigo 1.º O Governo aprova o Plano para 1978 anexo a este diploma e que dele faz parte integrante, elaborado de harmonia com as grandes opções aprovadas pela Assembleia da República e constantes da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189).
 
-###### Art. 2.º Os serviços da administração pública, as empresas públicas e demais institutos ficam obrigados a dar execução ao Plano e a orientar as suas acções de gestão corrente por critérios que dêem realização efectiva às opções definidas pela [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189) e ao Plano.
+Art. 2.º Os serviços da administração pública, as empresas públicas e demais institutos ficam obrigados a dar execução ao Plano e a orientar as suas acções de gestão corrente por critérios que dêem realização efectiva às opções definidas pela [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189) e ao Plano.
 
-###### Art. 3.º O Governo promoverá as medidas de execução do Plano e a sua adequação à evolução conjuntural.
+Art. 3.º O Governo promoverá as medidas de execução do Plano e a sua adequação à evolução conjuntural.
 
-###### Art. 4.º Serão elaborados pelos serviços competentes relatórios de execução material e financeira acerca dos investimentos e acções constantes do Plano, bem como relatórios do contrôle de execução das medidas de política nele previstas, relativamente ao 1.º semestre e aos 3.º e 4.º trimestres de 1978.
+Art. 4.º Serão elaborados pelos serviços competentes relatórios de execução material e financeira acerca dos investimentos e acções constantes do Plano, bem como relatórios do contrôle de execução das medidas de política nele previstas, relativamente ao 1.º semestre e aos 3.º e 4.º trimestres de 1978.
 
-###### Art. 5.º O presente diploma produz efeitos a partir de 31 de Maio de 1978.
+Art. 5.º O presente diploma produz efeitos a partir de 31 de Maio de 1978.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Herlânder dos Santos Estrela.
 
-**Promulgado em 15 de Junho de 1978.**
+Promulgado em 15 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 SUMÁRIO
 
@@ -202,7 +298,7 @@ e) Comércio externo.
 
 6 - Propostas de investimentos do sector empresarial do Estado.
 
-## Apêndice:
+Apêndice:
 
 Informação complementar sobre o PIDDAP/78.
 
@@ -232,17 +328,17 @@ Os elementos mais recentes indicam uma desaceleração de crescimento da produç
 
 A evolução do nível da actividade económica nos países mais desenvolvidos do Ocidente, especialmente aqueles que num passado recente têm apresentado situação externa mais sólida (Japão e República Federal da Alemanha), não permite confirmar as previsões divulgadas no início do ano de 1977.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Nos países da OCDE, o PIB cresceu, em média, 3,5% no ano de 1977, e o desemprego continuou a aumentar. Para atingir os objectivos formulados em 1976, o PIB deveria crescer à taxa de 5%, que levaria a uma redução do desemprego, ajudaria a estimular o investimento produtivo e seria compatível com uma redução da inflação. Nos quatro principais países europeus (Alemanha, Reino Unido, França e Itália), durante o ano de 1977, o PIB apenas cresceu 2,5% e o desemprego aumentou, enquanto nos Estados Unidos o produto aumentou mais rapidamente (cerca de 4,8%) e o desemprego diminuiu. É, pois, nos Estados Unidos que a expansão está a ser restabelecida, enquanto nos outros países, defrontando-se com problemas de inflação e balança de pagamentos, a expansão tem sido limitada pela necessidade de prosseguir com políticas restritivas da procura. Para 1978, o secretariado da OCDE prevê manutenção das taxas de crescimento do PIB e da procura interna, mas com desaceleração no 2.º semestre (quadros n.os 1 e 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 A evolução estimada para este ano das exportações e importações, em volume, nos países da OCDE é de 4,8% e 5,0%, respectivamente. As exportações portuguesas não acompanharam o ritmo do 1.º semestre de 1977, em que as exportações e importações dos países da OCDE cresceram 3,5% e 3,8%; no entanto, a aceleração verificada na segunda metade do ano levou a que as exportações portuguesas registassem um ritmo de crescimento anual superior à média dos países da OCDE (6,8% contra 5%).
 
 A situação da balança comercial e da balança de transacções correntes nos pequenos países europeus é extremamente difícil, como se pode observar no quadro n.º 5. Nos países do Sul da Europa, o deficit comercial continua a ser em parte compensado pelas receitas do turismo e pelas remessas dos emigrantes, o que torna o equilíbrio das balanças de pagamentos bastante vulnerável. Tal como estes países, Portugal apresenta-se com uma abertura face ao exterior bastante elevada (veja quadro n.º 6) e um deficit comercial elevado, que só em parte é compensado por aquelas receitas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 A sucessiva não concretização das previsões mais optimistas (ver nota 1) tem conduzido vários países a adoptarem medidas de índole proteccionista, que contrariam a expansão do comércio internacional. Apesar de alguns países em situação intermédia terem melhorado as suas balanças com base em políticas de contrôle da procura e de desvalorizações, os antagonismos entre países superavitários e deficitários têm-se agravado, não se vendo melhoria sensível na situação dos pequenos países, cujos deficits acumulados em 1974-1978 deverão somar cerca de 100 biliões de dólares.
 
@@ -268,7 +364,7 @@ Esta evolução originou um crescimento de 6,9% no produto interno bruto (ver no
 
 Em parte devido a esta recuperação, a balança de transacções correntes piorou o seu deficit, que passou de cerca de 1200 milhões de dólares em 1976 para quase 1500 milhões em 1977. O aumento do endividamento e a perda de reservas necessários à compensação deste deficit não tiveram contrapartida em termos de criação de emprego, já que, apesar da recuperação da produção, o desemprego não deverá ter diminuído; a recuperação deverá ter sido conseguida fundamentalmente por aumentos de produtividade importantes e aproveitamento de capacidade produtiva subutilizada. Agravou-se ao mesmo tempo a inflação, já que o índice de preços no consumidor registou uma subida de cerca de 27%, que não foi acompanhada por um correspondente aumento dos salários nominais, ocasionando um decréscimo muito significativo dos salários reais. Conjugando esta evolução com o aumento verificado na produtividade global, poder-se-á concluir que se produziu uma alteração considerável na distribuição funcional do rendimento, com diminuição do peso da massa salarial no conjunto do rendimento nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 2 - O crescimento do produto, tal como atrás foi caracterizado, terá sido induzido fundamentalmente pelo investimento e pelas exportações de mercadorias (que terão crescido quase 7%, valor bastante elevado em termos europeus). Com efeito, em relação às restantes componentes de despesa interna - consumo privado e consumo público -, ter-se-ão registado evoluções muito moderadas, no primeiro devido ao decréscimo dos salários reais e no segundo devido à contenção administrativa das despesas públicas.
 
@@ -276,11 +372,11 @@ O investimento cresceu não só devido ao aumento da formação de capital fixo,
 
 Por seu lado, o crescimento da formação de capital fixo, se teve efeitos positivos e indutores do crescimento, directamente através dos sectores de construção civil e das indústrias produtoras de bens de equipamento e indirectamente através de maior procura gerada, a verdade é que, dado o seu alto conteúdo (directo e indirecto) de importação induziu paralelamente um aumento significativo das importações, o qual, acrescido ao aumento dos stocks de produtos importados ou outros de alto conteúdo de importação, deverá explicar uma grande parte do acréscimo de 14% das importações de mercadorias registado em 1977.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Com base em alguns dos indicadores já referidos, construiu-se o quadro n.º 11 (aplicação de recursos), onde se juntaram valores para 1975 e 1976, e que ilustra o que ficou dito sobre a evolução da despesa interna em 1977.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 2.2 - Relações económicas externas
 
@@ -322,7 +418,7 @@ Para além destes empréstimos, destinados a apoiar a balança de pagamentos, pe
 
 Assim, a dívida externa portuguesa total (isto é, incluindo dívida privada não garantida governamentalmente), que se cifrava em 2950 milhões de dólares em 31 de Dezembro de 1976, terá atingido um nível próximo de 4500 milhões de dólares no final de 1977. A este nível os encargos da dívida começam a tornar-se muito pesados, verificando-se um acréscimo dos juros pagos em dólares de cerca de 3%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 2.3 - Preços
 
@@ -388,7 +484,7 @@ Em compensação, a evolução dos preços foi mais moderada no sector do vestu�
 
 A evolução dos preços por grosso (quadro n.º 29), em Lisboa, é semelhante à dos preços no consumidor, apresentando, assim, um agravamento no 1.º trimestre e estacionariedade no segundo. Também a partir de Maio se verifica uma quebra no geral dos preços por grosso (-0,6%), como reflexo da diminuição sazonal dos preços dos produtos alimentares (-5,7%). Este mesmo efeito se denota na análise por origem dos produtos - os produtos nacionais, onde é determinante o peso da alimentação, registam, em Junho, uma quebra nos preços de 1,9% em relação ao mês anterior e o mesmo acontece com os produtos estrangeiros, em Julho (quebra de 3,6%). Os efeitos da desvalorização do escudo reflectem-se nos preços médios dos produtos estrangeiros, no 1.º trimestre, em que se verifica um agravamento de 15% em relação ao último trimestre de 1976. A partir de Setembro, nota-se uma desaceleração do ritmo a que se vinha processando a diminuição no geral dos preços por grosso, tudo levando a crer que, tal como sucedeu com o índice de preços no consumidor, novo impulso no sentido de um pequeno aumento se tenha registado no último trimestre de 1977.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 2.4 - Emprego
 
@@ -420,7 +516,7 @@ Espanha ... 38,1
 
 O alto valor encontrado para a taxa de actividade a nível global resulta fundamentalmente da elevação da taxa da actividade feminina (a mesma era de 19% segundo o censo de 1970 e surge da ordem dos 33% segundo o inquérito do INE), dado que a taxa de actividade masculina não revela grande alteração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 A razão explicativa da elevação da taxa de actividade feminina reside quer no maior afluxo de mulheres ao mercado de trabalho (devido a aumento de salários, emigração masculina, mobilização em 1971-1972 de maiores efectivos militares, necessidade de realizar algumas tarefas, mesmo de tipo ocasional, etc.), quer da estrutura do inquérito do INE, que poderá ter levado a classificar como activas pessoas que no censo de 1970 apareciam como inactivas.
 
@@ -430,7 +526,7 @@ A razão explicativa da elevação da taxa de actividade feminina reside quer no
 
 (nota 1) De acordo com os apuramentos efectuados pelo INE, não é possível efectuar uma análise apenas para o emprego, dado que este se encontra agregado à população desempregada à procura de novo emprego, nos quadros por situação na profissão e por sectores de actividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 5 - A partir de 1975, o emprego passa a representar um peso decrescente no total da população activa civil em consequência do agravamento do desemprego que, de acordo com os elementos do inquérito, atinge 291000 pessoas, correspondendo uma taxa da ordem dos 7%, no 1.º semestre de 1977 (quadro n.º 30). Estimativas anteriores, elaboradas no DCP (ver nota 1), apontavam para 452000 desempregados no final de 1977, correspondentes a uma taxa de desemprego da ordem de 13%. Tal divergência resulta não só de um número menos elevado de desempregados [os elementos do inquérito não permitem detectar a maior parte do desemprego dos retornados por não terem sido inquiridas as unidades colectivas de alojamento (ver nota 2)], mas principalmente de números mais elevados para a população activa.
 
@@ -444,13 +540,13 @@ Uma análise evolutiva da população activa a exercer uma profissão (emprego),
 
 Uma análise a nível de sectores de actividade mostra que para o decréscimo verificado em 1977 contribuiu a generalidade dos sectores de actividade, à excepção da pesca, indústria extractiva, electricidade e transportes (quadro n.º 33).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Relativamente à procura de primeiro emprego, o número de inscrições na DSE é muito pouco significativo (ver nota 1), pelo que as estimativas se faziam tendo esse aspecto em consideração. Relativamente aos desempregados que procuram novo emprego, já os números de inscrições na DSE se afiguram significativos, devendo abranger a totalidade, ou quase, dos desempregados nestas condições. O inquérito do INE revela, em alguns casos, valores ligeiramente inferiores aos inscritos na DSE (embora entre estes se encontrem alguns retornados, como já se verificara em 1976), pelo que se admite que a cobertura da amostra, em algumas regiões, possa ser deficiente.
 
 (nota 1) Dado que não há atribuição de subsídios de desemprego às pessoas nestas condições, não há qualquer estímulo para a inscrição naquele serviço.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 A evolução do desemprego apreciada, de acordo com os elementos do inquérito, é no sentido de um certo crescimento, registando no 1.º semestre de 1977 um agravamento relativamente ao semestre anterior.
 
@@ -458,7 +554,7 @@ A causa desse acréscimo ficou a dever-se ao aumento do número de desempregados
 
 Este maior acréscimo dos desempregados à procura do primeiro emprego faz com que, neste momento, o seu peso (cerca de 49%) seja praticamente idêntico ao dos desempregados à procura de novo emprego (51%) (quadro n.º 35) e superior à média que este valor assume nos países da OCDE, a qual é da ordem dos 45%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 6 - Outros aspectos a assinalar, relativamente à análise do desemprego, dizem respeito ao desemprego feminino e à duração do desemprego.
 
@@ -466,13 +562,13 @@ Este maior acréscimo dos desempregados à procura do primeiro emprego faz com q
 
 Tem-se verificado desde 1974 um alongamento da duração média do período de desemprego para os que procuram novo emprego. No 1.º semestre de 1977 (quadro n.º 36) 63% destes desempregados viam já prolongar-se esta situação por mais de um ano, enquanto em 1975 apenas 37,5% se encontravam nesta situação e apenas 20% em 1974.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 2.5 - Repartição do rendimento, salários e prestações de segurança social
 
 1 - O acréscimo verificado em 1975 na parte do rendimento nacional atribuído ao factor trabalho tem vindo a diluir-se ao longo de 1976 e 1977 (ver nota 1). As estimativas a que se precedeu para estes dois anos conduzem aos seguintes resultados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 (nota 1) As estimativas relativas a 1977 são provisórias.
 
@@ -484,7 +580,7 @@ A diminuição da parcela de remunerações do trabalho deve-se a um abrandament
 
 (nota 1) Este decreto-lei não permitia afectar ao aumento de remunerações um montante global superior a 15%, montante esse que apenas se tornou possível exceder após a publicação do [Decreto-Lei n.º 288-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-a-1977-521460), de 16 de Julho, na actualização de instrumentos de regulamentação do trabalho até 31 de Dezembro de 1975.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Ao nível dos vários sectores de actividade, a evolução das remunerações anuais, em termos nominais e reais, consta do quadro n.º 39, onde se verifica em 1976 um decréscimo de poder de compra em certas actividades (extractiva, transformadora, construção e serviços) e para o total (excluindo o sector público não produtivo).
 
@@ -498,7 +594,7 @@ Relativamente às remunerações mensais da indústria transformadora, verifica-
 
 (nota 1) Valores de Janeiro a Agosto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 3 - A redução de diferenciações salariais entre as várias actividades e qualificações, a que se vem assistindo desde 1974, continua a verificar-se em 1976 (não se dispõe ainda de elementos para apreciar 1977).
 
@@ -520,7 +616,7 @@ Relativamente aos desempregados, procurou-se, através do [Decreto-Lei n.º 183/
 
 O subsídio de desemprego aplicava-se a um número reduzido de desempregados, que dava uma taxa de cobertura em relação a desempregados inscritos na DSE pouco significativa. O alargamento aos grupos mencionados e a integração dos desalojados ([Decreto-Lei n.º 259/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1977-250392), de 21 de Junho) no esquema deste subsídio melhoraram sensivelmente a cobertura do desemprego, embora esse efeito só se tenha feito sentir nos dois últimos meses de 1977. (Com efeito, o número de candidatos considerados com direito a subsídio pela DSE era da ordem de 20000 em Junho e passou para cerca de 63000 em Dezembro de 1977.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 2.6 - Situação monetária e financeira
 
@@ -536,7 +632,7 @@ O crédito interno total no ano de 1977 aumentou 148 milhões de contos (30,6%) 
 
 O crédito a empresas e particulares evoluiu ao longo dos quatro trimestres de 1977 a taxas que, numa base anual e depois de corrigidos os efeitos sazonais, oscilaram entre os 27,2%, 28,2% 29,2% e 14%, respectivamente. O declínio verificado na taxa de crescimento do último trimestre poderá já reflectir uma certa retracção na procura de crédito face a aumentos substanciais ocorridos nas taxas de juro activas (quadro n.º 47) em fins de Agosto, mas poderá dever-se também, em parte, a uma situação mais desafogada nas empresas resultante das políticas de preços e rendimentos adoptadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 O crédito líquido ao sector público assumiu especial relevo no 1.º trimestre de 1977, devido à necessidade de financiar uma parte considerável do deficit do ano anterior concretizado no «período complementar de 1976», e no último trimestre, especialmente em Dezembro, por razões igualmente ligadas à concentração do processamento das despesas do sector público nos últimos meses do ano.
 
@@ -582,7 +678,7 @@ Dele igualmente se conclui que o nível de fiscalidade para o total do sector p�
 
 O saldo negativo das operações de capital (14 milhões de contos) foi devido ao aumento verificado nas despesas de capital, que cresceram cerca de 78,5%, para o que contribuiu o programa de investimentos do Plano (PIAP), que se estima tenha sido executado num montante de cerca de 22 milhões de contos. Além deste valor, são igualmente aqui incluídos os gastos com amortização da dívida pública, bem como outros encargos financeiros resultantes da descolonização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 O resultado conjunto do orçamento corrente e de capital do sector público administrativo traduz-se num saldo financeiro negativo de 43 milhões de contos.
 
@@ -602,7 +698,7 @@ Analisando mais detidamente a poupança formada internamente, verifica-se que o 
 
 Do investimento realizado, que montará a cerca de 160 milhões de contos, cerca de 14% cabem ao sector público administrativo, representando um aumento de 53% a preços correntes e cerca de 20% a preços constantes em relação a 1976, o que se ficou a dever, entre outras razões, à melhoria verificada na preparação e execução do programa de investimentos da Administração Pública, onde se alcançou um grau de execução de 78%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Este esforço de investimento obrigou o sector público a mobilizar do restante sistema económico recursos que se traduziram num financiamento volumoso, embora inferior a 1976. Com efeito, as necessidades de financiamento do sector público administrativo montaram a 31 milhões de contos em 1977, contra cerca de 41 milhões em 1976, sendo de salientar, no entanto, a diferente natureza das aplicações, substituindo-se significativamente a cobertura do deficit corrente pelo financiamento de um mais vasto programa de investimentos.
 
@@ -728,7 +824,7 @@ Caberá pois ao sector privado uma importante parcela da formação de capital f
 
 É de constatar da análise do quadro n.º 57 que as possibilidades de financiamento do sector externo (45 milhões de contos) se deverão dirigir fundamentalmente a compensar as necessidades de financiamento do sector público tradicional (39 milhões de contos), já que o sector dos particulares e empresas deverá formar a maior parte da poupança necessária ao seu investimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Esta necessidade de financiar os investimentos em sectores sociais em última análise com recursos que provêm do exterior e que a economia não é capaz de gerar internamente é uma situação que a médio prazo não se poderá manter.
 
@@ -738,7 +834,7 @@ Mesmo assim, comparando com os mesmos valores para 1977, deverá aceitar-se que 
 
 A premência de assegurar à partida uma rentabilidade mínima em alguns sectores, nomeadamente certos sectores nacionalizados, e de repor parte do poder de compra perdido em 1976 e 1977 em relação a algumas camadas de trabalhadores levarão inevitavelmente a um ritmo de crescimento de preços ainda elevado, mas que o Governo procurará conter em cerca de 20%, através nomeadamente da política de rendimentos prevista no presente Plano e do contrôle da procura e da liquidez da economia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 2 - Orientações globais da política económica
 
@@ -750,7 +846,7 @@ Contudo, o aumento das exportações não será, contudo, por si só suficiente 
 
 Dado que os efeitos sensíveis da substituição de importações se revelarão a médio prazo e uma vez que a correcção do desequilíbrio externo terá de ser drasticamente operada em 1978, torna-se indispensável adoptar medidas adicionais de contenção de importações. Assim, as medidas temporárias de restrição directa da importação (sobretaxa e contingentação) só progressivamente serão eliminadas, de acordo com as possibilidades de substituição por medidas internas e desde que dessa eliminação não resulte agravamento da balança de pagamentos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Nestes termos, a política de balança de pagamentos deverá ser pautada pelas seguintes orientações:
 
@@ -2180,7 +2276,7 @@ Notas explicativas relativas ao quadro PIDDAP/78, por sectores
 
 29 - Financiamento a contratar pelo Fundo de Renovação e de Apetrechamento da Indústria da Pesca junto de instituições de crédito nacionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 Notas explicativas relativas ao quadro PIDDAP/78, por Ministérios
 
@@ -2236,7 +2332,7 @@ Notas explicativas relativas ao quadro PIDDAP/78, por Ministérios
 
 26 - Financiamento a contratar pelo Fundo de Fomento da Habitação junto de instituições de crédito nacionais para a concessão de crédito com taxas de juro bonificadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
 
 6 - Propostas de investimento do sector empresarial do Estado
 
@@ -2292,4 +2388,4 @@ Os valores calculados para estes indicadores foram sistematicamente ponderados f
 
 6 - Trabalhando, agora com base nas listagens já referidas e nos subsequentes trabalhos de avaliação, o Grupo de Trabalho de Financiamento do Investimento do Sector Empresarial do Estado encaminhará os projectos para financiamento das instituições de crédito, tendo em atenção as disponibilidades do Orçamento Geral do Estado para dotação das empresas com níveis de capital próprio compatíveis com um regular funcionamento dos próprios empreendimentos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19301/00010152.pdf)

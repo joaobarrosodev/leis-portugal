@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1970-147601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0497bd973b84ca383c2d48a79deb18db8e762f8c5f4ca650a584dcd47d8af92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b7a6ec95006aea47f5507f6ae3b9709115df8ec22720fbe96e0cf95fa1574de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- Comércio
+- Comissão Reguladora das Moagens de RAMA
+- Contribuição Predial
+- Crédito Agrícola
+- Crédito ao Investimento
+- Definição de Competências
+- Especificação Técnica
+- Fabrico Industrial
+- Financiamento
+- Importação
+- Imposto sobre Sucessões e Doações
+- Indústria Alimentar
+- Indústria da Panificação
+- Indústria de Moagem
+- Isenção Fiscal
+- Preço
+- Preço de Venda
+- Preço Livre
+- Produção Agrícola
+- Reconversão da Produção
+- Regime Jurídico
+- Secretário de Estado do Comércio
+- Semente
+- Sisa
+- Subsídio
+- Taxa
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:184224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685803:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:184224:por
+  label: "Revogado, com excepção dos arts. 1º a 5º, pelo DEC LEI.369/74.19.08.1974.MECO, DG.IS [192-Supl] de 19.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1974-184224
+  date: '1974-08-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:40Z'
   warnings: []
   errors: []
 ---
@@ -230,7 +331,7 @@ I
 
 Da intensificação, racionalização e reconversão culturais
 
-###### Artigo 1.º - 1. Serão auxiliadas por meio de subsídios, assistência técnica e outros estímulos, actuações que conduzam à intensificação e racionalização da cultura cerealífera, nos solos para ela aptos, e à reconversão cultural nos terrenos marginais, com vista à sua adequada utilização.
+Artigo 1.º - 1. Serão auxiliadas por meio de subsídios, assistência técnica e outros estímulos, actuações que conduzam à intensificação e racionalização da cultura cerealífera, nos solos para ela aptos, e à reconversão cultural nos terrenos marginais, com vista à sua adequada utilização.
 
 2. Os auxílios especìficamente concedidos para a intensificação e racionalização da cultura cerealífera serão os seguintes:
 
@@ -258,13 +359,13 @@ f) Concessão prioritária do regime de coutada relativamente aos terrenos insus
 
 4. Serão fixadas por despacho do Secretário de Estado da Agricultura as normas a observar na aplicação deste artigo.
 
-###### Art. 2.º - 1. São isentos de contribuição predial durante seis anos os rendimentos dos prédios rústicos cujos proprietários ou rendeiros, dispondo isoladamente de explorações agrícolas com áreas que não excedam o disposto no § único do artigo 2.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, se associem para a sua exploração em comum por qualquer das formas previstas na lei.
+Art. 2.º - 1. São isentos de contribuição predial durante seis anos os rendimentos dos prédios rústicos cujos proprietários ou rendeiros, dispondo isoladamente de explorações agrícolas com áreas que não excedam o disposto no § único do artigo 2.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, se associem para a sua exploração em comum por qualquer das formas previstas na lei.
 
 2. São isentas de sisa as transmissões de prédios rústicos para as sociedades constituídas nos termos do número anterior.
 
-###### Art. 3.º Os subsídios previstos nas alíneas b) e c) do n.º 2 e a), b), d) e e) do n.º 3 do artigo 1.º serão elevados para 30 por cento sempre que as explorações que deles beneficiem se encontrem nas condições previstas no n.º 1 do artigo anterior.
+Art. 3.º Os subsídios previstos nas alíneas b) e c) do n.º 2 e a), b), d) e e) do n.º 3 do artigo 1.º serão elevados para 30 por cento sempre que as explorações que deles beneficiem se encontrem nas condições previstas no n.º 1 do artigo anterior.
 
-###### Art. 4.º - 1. Os preços das sementes certificadas ou seleccionadas de cereais vendidas aos agricultores pela Federação Nacional dos Produtores de Trigo são os seguintes:
+Art. 4.º - 1. Os preços das sementes certificadas ou seleccionadas de cereais vendidas aos agricultores pela Federação Nacional dos Produtores de Trigo são os seguintes:
 
 4$00/kg - milho híbrido;
 
@@ -276,7 +377,7 @@ f) Concessão prioritária do regime de coutada relativamente aos terrenos insus
 
 2. Poderão ser concedidos, por despacho conjunto dos Secretários de Estado da Agricultura e do Comércio, subsídios ou financiamentos a organizações da lavoura ou a empresas que se proponham produzir, em condições razoáveis de preço, sementes de cereais presentemente importadas.
 
-###### Art. 5.º - 1. O Secretário de Estado da Agricultura pode autorizar que pessoal técnico da sua Secretaria de Estado preste serviço, sob orientação desta, às organizações regionais da lavoura, com o objectivo de elaborar programas de actuação que visem o desenvolvimento agrícola regional e assistir tècnicamente à respectiva execução.
+Art. 5.º - 1. O Secretário de Estado da Agricultura pode autorizar que pessoal técnico da sua Secretaria de Estado preste serviço, sob orientação desta, às organizações regionais da lavoura, com o objectivo de elaborar programas de actuação que visem o desenvolvimento agrícola regional e assistir tècnicamente à respectiva execução.
 
 2. O disposto no número precedente pode aplicar-se ao pessoal técnico dos serviços e organismos das Secretarias de Estado do Comércio da Indústria, sendo a autorização concedida pelo respectivo Secretário de Estado.
 
@@ -288,9 +389,9 @@ II
 
 Dos cereais
 
-###### Art. 6.º - 1. A tabela base do preço de aquisição do trigo, produzido no continente e ilhas adjacentes, é a seguinte:
+Art. 6.º - 1. A tabela base do preço de aquisição do trigo, produzido no continente e ilhas adjacentes, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/24500/15141522.pdf))](https://files.diariodarepublica.pt/1s/1970/10/24500/15141522.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/24500/15141522.pdf)
 
 2. O preço dos trigos de peso inferior a 73 kg por hectolitro é reduzido de $0273 por cada quilograma a menos.
 
@@ -304,7 +405,7 @@ $30 por quilograma - para o trigo da classe A;
 
 $15 por quilograma - para o trigo da classe B.
 
-###### Art. 7.º - 1. Sempre que a produção de trigo da campanha entregue para venda à Federação Nacional dos Produtores de Trigo for inferior a 410000 t, será determinado um diferencial global de correcção, a atribuir aos produtores de trigo do continente, resultante do produto de ((410-E)/80) x $30 pelo total de trigo entregue, expresso em quilogramas, e em que E representa a totalidade, em milhares de toneladas, das entregas de trigo àquele organismo, na própria campanha cerealífera.
+Art. 7.º - 1. Sempre que a produção de trigo da campanha entregue para venda à Federação Nacional dos Produtores de Trigo for inferior a 410000 t, será determinado um diferencial global de correcção, a atribuir aos produtores de trigo do continente, resultante do produto de ((410-E)/80) x $30 pelo total de trigo entregue, expresso em quilogramas, e em que E representa a totalidade, em milhares de toneladas, das entregas de trigo àquele organismo, na própria campanha cerealífera.
 
 2. O diferencial global de correcção a atribuir aos produtores do trigo do arquipélago dos Açores será calculado com base na regra prevista na [Portaria n.º 22464](https://diariodarepublica.pt/dr/detalhe/portaria/22464-1967-501271), de 16 de Janeiro de 1967.
 
@@ -314,19 +415,19 @@ $15 por quilograma - para o trigo da classe B.
 
 5. Consideram-se produtores os proprietários, rendeiros, seareiros ou parceiros que tenham cultivado o trigo, não sendo o diferencial de correcção atribuído a quem tenha entregue o cereal recebido em pagamento de rendas, foros, pensões, remunerações de trabalho ou maquias.
 
-###### Art. 8.º - 1. Os preços de venda de trigo pela Federação Nacional dos Produtores de Trigo e pela Federação Nacional dos Industriais de Moagem, no continente, serão os constantes do artigo 6.º, correspondentes ao mês em que se realiza a venda, acrescidos de $20 por quilograma.
+Art. 8.º - 1. Os preços de venda de trigo pela Federação Nacional dos Produtores de Trigo e pela Federação Nacional dos Industriais de Moagem, no continente, serão os constantes do artigo 6.º, correspondentes ao mês em que se realiza a venda, acrescidos de $20 por quilograma.
 
 2. Os preços referidos no § único do artigo 13.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965, serão corrigidos de acordo com o disposto no número precedente.
 
-###### Art. 9.º - 1. Sempre que a evolução tecnológica ou económica o justifique, poderá o Secretário de Estado do Comércio, mediante proposta do Instituto Nacional do Pão, actualizar as regras a aplicar na apreciação e valorização dos trigos com defeito e, bem assim, uniformizar os métodos de determinação do peso do hectolitro.
+Art. 9.º - 1. Sempre que a evolução tecnológica ou económica o justifique, poderá o Secretário de Estado do Comércio, mediante proposta do Instituto Nacional do Pão, actualizar as regras a aplicar na apreciação e valorização dos trigos com defeito e, bem assim, uniformizar os métodos de determinação do peso do hectolitro.
 
 2. Os trigos da produção nacional que, em determinada colheita, vierem a revelar-se com características ou defeitos que possam prejudicar a qualidade das farinhas para consumo humano poderão ser destinados, mediante proposta do Instituto Nacional do Pão, à alimentação animal, nos termos e nas condições a fixar em despacho do Secretário de Estado do Comércio.
 
-###### Art. 10.º O regime da importação de trigo exótico e da sua distribuição, estabelecido nos artigos 25.º a 27.º do [Decreto-Lei n.º 22872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22872-1933-317531), de 24 de Julho de 1933, e no n.º 9 do artigo 8.º do [Decreto-Lei n.º 24185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24185-1934-466575), de 18 de Julho de 1934, pode ser alterado por portaria do Secretário de Estado do Comércio.
+Art. 10.º O regime da importação de trigo exótico e da sua distribuição, estabelecido nos artigos 25.º a 27.º do [Decreto-Lei n.º 22872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22872-1933-317531), de 24 de Julho de 1933, e no n.º 9 do artigo 8.º do [Decreto-Lei n.º 24185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24185-1934-466575), de 18 de Julho de 1934, pode ser alterado por portaria do Secretário de Estado do Comércio.
 
-###### Art. 11.º - 1. A tabela base do preço de aquisição do centeio pela Federação Nacional dos Produtores de Trigo é a seguinte:
+Art. 11.º - 1. A tabela base do preço de aquisição do centeio pela Federação Nacional dos Produtores de Trigo é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/24500/15141522.pdf))](https://files.diariodarepublica.pt/1s/1970/10/24500/15141522.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/24500/15141522.pdf)
 
 2. O preço do centeio de peso inferior a 70 kg por hectolitro é reduzido de $024 por cada quilograma a menos.
 
@@ -334,13 +435,13 @@ $15 por quilograma - para o trigo da classe B.
 
 4. Por despacho do Secretário de Estado do Comércio, serão fixados os preços de venda do centeio pela Federação Nacional dos Produtores de Trigo, bem como as condições da sua aquisição e venda por este organismo.
 
-###### Art. 12.º Os preços de aquisição e de venda de cevada vulgar e de aveia pela Federação Nacional dos Produtores de Trigo, bem como as condições dessa aquisição e venda, serão fixados por despacho conjunto dos Secretários de Estado da Agricultura e do Comércio.
+Art. 12.º Os preços de aquisição e de venda de cevada vulgar e de aveia pela Federação Nacional dos Produtores de Trigo, bem como as condições dessa aquisição e venda, serão fixados por despacho conjunto dos Secretários de Estado da Agricultura e do Comércio.
 
 III
 
 Das farinhas
 
-###### Art. 13.º - 1. As farinhas espoadas de trigo a produzir pela indústria de moagem serão dos seguintes tipos:
+Art. 13.º - 1. As farinhas espoadas de trigo a produzir pela indústria de moagem serão dos seguintes tipos:
 
 a) De 1.ª qualidade;
 
@@ -352,7 +453,7 @@ b) Lotada.
 
 4. Por despacho do Secretário de Estado do Comércio, serão fixadas as características e percentagens dos componentes da farinha referida no número anterior e definidas as condições da sua produção.
 
-###### Art. 14.º - 1. Os preços máximos das farinhas espoadas de trigo nas fábricas de moagem ou sobre vagão são os seguintes:
+Art. 14.º - 1. Os preços máximos das farinhas espoadas de trigo nas fábricas de moagem ou sobre vagão são os seguintes:
 
 ... Por quilograma
 
@@ -362,21 +463,21 @@ Farinha lotada ... 2$892
 
 2. Quando as circunstâncias o aconselharem, os preços referidos no número anterior poderão ser alterados por despacho do Secretário de Estado do Comércio.
 
-###### Art. 15.º Ficam livres os preços das farinhas em rama de trigo.
+Art. 15.º Ficam livres os preços das farinhas em rama de trigo.
 
-###### Art. 16.º - 1. As farinhas destinadas ao consumo humano só podem ser entregues pelas moagens produtoras no período compreendido entre dez e sessenta dias após o seu fabrico.
+Art. 16.º - 1. As farinhas destinadas ao consumo humano só podem ser entregues pelas moagens produtoras no período compreendido entre dez e sessenta dias após o seu fabrico.
 
 2. O Secretário de Estado do Comércio poderá regular por portaria as embalagens destinadas ao acondicionamento de farinhas.
 
-###### Art. 17.º As moagens de farinhas em rama beneficiarão, conforme as condições a estabelecer em despacho do Secretário de Estado do Comércio, de um subsídio por quilograma de farinha em rama de trigo com incorporação entregue à indústria de panificação.
+Art. 17.º As moagens de farinhas em rama beneficiarão, conforme as condições a estabelecer em despacho do Secretário de Estado do Comércio, de um subsídio por quilograma de farinha em rama de trigo com incorporação entregue à indústria de panificação.
 
-###### Art. 18.º O regime de quotas de rateio do trigo atribuídas às fábricas de moagem de farinhas espoadas deste cereal, estabelecido no [Decreto-Lei n.º 22872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22872-1933-317531), de 24 de Julho de 1933, e demais legislação complementar, pode ser revisto em portaria conjunta dos Secretários de Estado do Comércio e da Indústria.
+Art. 18.º O regime de quotas de rateio do trigo atribuídas às fábricas de moagem de farinhas espoadas deste cereal, estabelecido no [Decreto-Lei n.º 22872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22872-1933-317531), de 24 de Julho de 1933, e demais legislação complementar, pode ser revisto em portaria conjunta dos Secretários de Estado do Comércio e da Indústria.
 
 IV
 
 Do pão e produtos afins
 
-###### Art. 19.º - 1. O pão de 1.ª qualidade é fabricado com farinha espoada de trigo de 1.ª qualidade.
+Art. 19.º - 1. O pão de 1.ª qualidade é fabricado com farinha espoada de trigo de 1.ª qualidade.
 
 2. O pão de 1.ª qualidade será vendido nas unidades e aos preços seguintes:
 
@@ -406,7 +507,7 @@ Mais de 240 g até 500 g ... 45
 
 Mais de 500 g até 1000 g ... 65
 
-###### Art. 20.º - 1. O pão de 2.ª qualidade é fabricado com farinha espoada de trigo lotada.
+Art. 20.º - 1. O pão de 2.ª qualidade é fabricado com farinha espoada de trigo lotada.
 
 2. O pão de 2.ª qualidade pode ser fabricado em quaisquer formatos, excepto cacete e forma, e será vendido nas unidades e aos preços seguintes:
 
@@ -416,7 +517,7 @@ De 1000 g ... 3$30
 
 3. A humidade do pão referido neste artigo não pode exceder 38 por cento.
 
-###### Art. 21.º - 1. Os preços de venda tabelados nos artigos anteriores serão praticados nas secções de venda dos estabelecimentos de fabrico, nos seus depósitos ou em quaisquer outros locas onde esteja autorizada a venda de pão.
+Art. 21.º - 1. Os preços de venda tabelados nos artigos anteriores serão praticados nas secções de venda dos estabelecimentos de fabrico, nos seus depósitos ou em quaisquer outros locas onde esteja autorizada a venda de pão.
 
 2. Na venda ao domicílio acrescerão aos preços as seguintes importâncias:
 
@@ -434,9 +535,9 @@ a) Por cada unidade de 500 g ... $20
 
 b) Por cada unidade de 1000 g ... $30
 
-###### Art. 22.º Por portaria do Secretário de Estado do Comércio, serão fixadas as tolerâncias no peso de cada unidade de pão e regulada a forma da respectiva verificação.
+Art. 22.º Por portaria do Secretário de Estado do Comércio, serão fixadas as tolerâncias no peso de cada unidade de pão e regulada a forma da respectiva verificação.
 
-###### Art. 23.º - 1. Os tipos de pão referidos nos artigos 19.º e 20.º terão de ter, por peso nominal de cada unidade expresso em gramas (m), o correspondente resíduo seco total mínimo a seguir indicado:
+Art. 23.º - 1. Os tipos de pão referidos nos artigos 19.º e 20.º terão de ter, por peso nominal de cada unidade expresso em gramas (m), o correspondente resíduo seco total mínimo a seguir indicado:
 
 a) No pão de 1.ª qualidade - 0,70 m para valores de m iguais ou inferiores a 333 g e 0,67 m para valores de m superiores a 333 g;
 
@@ -446,17 +547,17 @@ b) No pão de 2.ª qualidade - 0,67 m para valores de m iguais ou inferiores a 3
 
 3. As regras de colheita das amostras e os processos de análise a adoptar para verificação do cumprimento do determinado neste artigo serão as constantes do Regulamento Interno da Comissão Técnica dos Métodos Químico-Analíticos, aprovado pela [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950.
 
-###### Art. 24.º O pão de farinha em rama de trigo com incorporação pode ser fabricado em quaisquer formatos, e o peso das respectivas unidades não pode ser inferior a 333 g.
+Art. 24.º O pão de farinha em rama de trigo com incorporação pode ser fabricado em quaisquer formatos, e o peso das respectivas unidades não pode ser inferior a 333 g.
 
-###### Art. 25.º - 1. O pão de mistura só poderá incorporar farinhas de dois cereais panificáveis, será fabricado em quaisquer formatos e o peso das respectivas unidades não poderá ser inferior a 333 g.
+Art. 25.º - 1. O pão de mistura só poderá incorporar farinhas de dois cereais panificáveis, será fabricado em quaisquer formatos e o peso das respectivas unidades não poderá ser inferior a 333 g.
 
 2. Nenhuma das farinhas incorporadas no pão de mistura poderá participar em proporção superior a dois terços do total.
 
-###### Art. 26.º - 1. Os produtos afins do pão só podem ser fabricados em formatos que se não confundam com os adoptados para o pão e a partir de massas sovadas e levedadas de tipo panar, com adição de leite, açúcar, gordura, ovos, frutas ou arómatas naturais e em que a percentagem de açúcar não seja inferior a 3 por cento, nem superior a 22 por cento, expressa em sacarose.
+Art. 26.º - 1. Os produtos afins do pão só podem ser fabricados em formatos que se não confundam com os adoptados para o pão e a partir de massas sovadas e levedadas de tipo panar, com adição de leite, açúcar, gordura, ovos, frutas ou arómatas naturais e em que a percentagem de açúcar não seja inferior a 3 por cento, nem superior a 22 por cento, expressa em sacarose.
 
 2. O Secretário de Estado do Comércio, por despacho e ouvida a Inspecção-Geral dos Produtos Agrícolas e Industriais, poderá proceder à classificação dos produtos afins do pão e estabelecer as respectivas características, incluindo a modificação das constantes do número anterior, bem como regular o seu fabrico e venda.
 
-###### Art. 27.º São livres os preços de venda dos seguintes produtos:
+Art. 27.º São livres os preços de venda dos seguintes produtos:
 
 a) Pão de farinha em rama de trigo;
 
@@ -466,11 +567,11 @@ c) Regueifa, tosta, pão integral e pão alvo regional;
 
 d) Afins do pão.
 
-###### Art. 28.º - 1. Por portaria do Secretário de Estado do Comércio, poderão ser alterados os formatos, unidades e peso do pão previstos neste diploma, autorizados ou fixados outros, bem como libertados ou estabelecidos os preços respectivos.
+Art. 28.º - 1. Por portaria do Secretário de Estado do Comércio, poderão ser alterados os formatos, unidades e peso do pão previstos neste diploma, autorizados ou fixados outros, bem como libertados ou estabelecidos os preços respectivos.
 
 2. Por portaria conjunta dos Secretários de Estado do Comércio e da Indústria, poderão ser determinadas condições de fabrico e características de qualquer tipo de pão.
 
-###### Art. 29.º - 1. No fabrico do pão e dos produtos afins, as substâncias autorizadas como aditivos, além de água, sal, fermento ou levedura, são as seguintes:
+Art. 29.º - 1. No fabrico do pão e dos produtos afins, as substâncias autorizadas como aditivos, além de água, sal, fermento ou levedura, são as seguintes:
 
 a) Farinha de glúten, com riqueza mínima de 60 por cento;
 
@@ -500,21 +601,21 @@ l) Produtos constituídos por misturas dos aditivos indicados nas alíneas a) a 
 
 3. É proibido o uso na industria de panificação de levedantes químicos, branqueadores, conservantes, inclusive riboflavina e lactoflavina.
 
-###### Art. 30.º - 1. É permitida a venda de pão em estabelecimentos comerciais do ramo alimentar, mediante autorização do Instituto Nacional do Pão.
+Art. 30.º - 1. É permitida a venda de pão em estabelecimentos comerciais do ramo alimentar, mediante autorização do Instituto Nacional do Pão.
 
 2. A concessão da autorização a que se refere o número anterior depende apenas da verificação das condições de higiene e salubridade quanto ao armazenamento e venda do pão, que deve manter-se convenientemente resguardado de quaisquer impurezas que o conspurquem e isolado de outros produtos que, pelo seu cheiro, toxicidade ou outras características, de algum modo o possam afectar.
 
 3. Os estabelecimentos autorizados a vender pão nos termos dos números anteriores devem possuir documento que identifique o respectivo fabricante.
 
-###### Art. 31.º Tendo em vista maior rentabilidade da indústria de panificação e melhor aproveitamento da sua mão-de-obra, poderão os Secretários de Estado do Comércio e do Trabalho e Previdência fixar normas destinadas à adopção de horários adaptados às condições e exigências das várias regiões e localidades, permitindo o trabalho diurno e os turnos necessários ao abastecimento público e ao completo aproveitamento da capacidade de produção.
+Art. 31.º Tendo em vista maior rentabilidade da indústria de panificação e melhor aproveitamento da sua mão-de-obra, poderão os Secretários de Estado do Comércio e do Trabalho e Previdência fixar normas destinadas à adopção de horários adaptados às condições e exigências das várias regiões e localidades, permitindo o trabalho diurno e os turnos necessários ao abastecimento público e ao completo aproveitamento da capacidade de produção.
 
 V
 
 Disposições diversas
 
-###### Art. 32.º Os preços das sêmolas e farinhas para o fabrico de massas alimentícias e das farinhas para o fabrico de bolachas serão fixados por despacho do Secretário de Estado do Comércio.
+Art. 32.º Os preços das sêmolas e farinhas para o fabrico de massas alimentícias e das farinhas para o fabrico de bolachas serão fixados por despacho do Secretário de Estado do Comércio.
 
-###### Art. 33.º - 1. Os industriais de moagem pagarão ao Instituto Nacional do Pão:
+Art. 33.º - 1. Os industriais de moagem pagarão ao Instituto Nacional do Pão:
 
 a) A taxa de $03 por cada quilograma de trigo adquirido;
 
@@ -528,17 +629,17 @@ b) Pelo Instituto Nacional do Pão, ou por sua delegação, no arquipélago dos 
 
 3. São extintas todas as outras taxas criadas a favor do Instituto Nacional do Pão, bem como as comparticipações dos organismos coordenados.
 
-###### Art. 34.º - 1. São extintas as taxas actualmente cobradas para a Comissão Reguladora das Moagens de Ramas.
+Art. 34.º - 1. São extintas as taxas actualmente cobradas para a Comissão Reguladora das Moagens de Ramas.
 
 2. O Instituto Nacional do Pão inscreverá no seu orçamento as verbas necessárias para ocorrer à diminuição de rendimentos determinada pela extinção a que se refere o número anterior, consignando, a favor da Comissão nele referida, as receitas suficientes ao seu equilíbrio orçamental.
 
-###### Art. 35.º - 1. Os diferenciais de preços de sementes, cereais, farinhas e pão, resultantes da aplicação do presente decreto-lei, constituirão encargo ou receita do Fundo de Abastecimento.
+Art. 35.º - 1. Os diferenciais de preços de sementes, cereais, farinhas e pão, resultantes da aplicação do presente decreto-lei, constituirão encargo ou receita do Fundo de Abastecimento.
 
 2. Serão anualmente inscritas no orçamento do Fundo de Abastecimento verbas destinadas à efectivação das medidas de intensificação, racionalização e reconversão culturais, a que se refere este diploma.
 
 3. Os financiamentos previstos nas alíneas a) e c) do n.º 3 do artigo 1.º serão, porém, concedidos pelo Fundo de Melhoramentos Agrícolas.
 
-###### Art. 36.º - 1. A utilização de farinha espoada de trigo lotada para destino diferente do fabrico de pão de 2.ª qualidade será punida nos termos aplicáveis do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 36.º - 1. A utilização de farinha espoada de trigo lotada para destino diferente do fabrico de pão de 2.ª qualidade será punida nos termos aplicáveis do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 2. A entrega de farinhas destinadas ao consumo humano com infracção do disposto no artigo 16.º do presente decreto-lei, se ocorrer antes do período no mesmo referido, será punida com a pena prevista no artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e se se verificar depois do citado período, com multa de 5000$00 a 10000$00, acrescida de apreensão dos produtos objecto da infracção.
 
@@ -548,13 +649,13 @@ b) Pelo Instituto Nacional do Pão, ou por sua delegação, no arquipélago dos 
 
 5. A infracção do disposto nos n.os 1 e 3 do artigo 30.º do presente decreto-lei será punida com a pena prevista no artigo 16.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 37.º O preço de venda de trigo e os regimes de farinhas e pão a vigorar nos arquipélagos dos Açores e da Madeira serão estabelecidos em portaria do Secretário de Estado do Comércio.
+Art. 37.º O preço de venda de trigo e os regimes de farinhas e pão a vigorar nos arquipélagos dos Açores e da Madeira serão estabelecidos em portaria do Secretário de Estado do Comércio.
 
-###### Art. 38.º Mantêm-se em vigor as disposições legais dos anteriores regimes cerealíferos sobre as matérias não expressamente reguladas no presente diploma, com excepção do § único do artigo 2.º do [Decreto-Lei n.º 41249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41249-1957-281249), de 31 de Agosto de 1957, e dos artigos 9.º e 14.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965.
+Art. 38.º Mantêm-se em vigor as disposições legais dos anteriores regimes cerealíferos sobre as matérias não expressamente reguladas no presente diploma, com excepção do § único do artigo 2.º do [Decreto-Lei n.º 41249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41249-1957-281249), de 31 de Agosto de 1957, e dos artigos 9.º e 14.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965.
 
-###### Art. 39.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho do Ministro da Economia.
+Art. 39.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho do Ministro da Economia.
 
-###### Art. 40.º - 1. Este decreto-lei entra em vigor trinta dias após a data da sua publicação, à excepção do disposto:
+Art. 40.º - 1. Este decreto-lei entra em vigor trinta dias após a data da sua publicação, à excepção do disposto:
 
 a) No artigo 6.º e nos n.os 1 a 3 do artigo 11.º, que começa a vigorar a partir da colheita de 1971;
 
@@ -564,8 +665,8 @@ b) No artigo 33.º, relativamente aos arquipélagos dos Açores e da Madeira, qu
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 14 de Outubro de 1970.**
+Promulgado em 14 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

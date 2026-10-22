@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17800/18401840.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 945867ca28f00a26213e444260e1537d757d3f604762e336252345ef4b7a3970
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a89d279cf8475408ab70da62fa43a89e3f70306db7c08e899bee1e5b753b1582
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Instaladora
+- Ensino Superior
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Instituto Politécnico
+- Instituto Universitário
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:208255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427428:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430025:por
+  label: "Revogado o art. 2º pelo DEC LEI.513-T/79.1979.12.26.ME, DG.IS [296]3ºSupl de 26.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-t-1979-430025
+  date: '1979-12-26'
+- type: repealed_by
+  target: pt:dre:208255:por
+  label: "Revogado pelo Dec Lei 215/97.1997.08.18.PCM, DR.IS-A [189] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1997-208255
+  date: '1997-08-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:07Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +127,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As escolas criadas com base no [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, dispõem de personalidade jurídica.
+Artigo 1.º As escolas criadas com base no [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, dispõem de personalidade jurídica.
 
-###### Art. 2.º - 1. Podem nos institutos politécnicos ser atribuídos os graus de licenciatura e doutoramento.
+Art. 2.º - 1. Podem nos institutos politécnicos ser atribuídos os graus de licenciatura e doutoramento.
 
 2. As provas prestadas para a obtenção do grau de doutoramento previsto no número anterior serão sempre organizadas em colaboração com uma Universidade ou instituto universitário.
 
-###### Art. 3.º - 1. O Ministro da Educação e Investigação Científica pode aumentar livremente o número de elementos das comissões instaladoras das Universidades, e institutos universitários criados com base no [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
+Art. 3.º - 1. O Ministro da Educação e Investigação Científica pode aumentar livremente o número de elementos das comissões instaladoras das Universidades, e institutos universitários criados com base no [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
 
 2. As nomeações permitidas no número anterior podem ser feitas por períodos de tempo limitados.
 
-###### Art. 4.º - 1. Os secretários dos institutos politécnicos e das escolas sujeitas a regime idêntico ou análogo ao destes deixam de fazer parte, por inerência, dos respectivos conselhos administrativos e comissões instaladoras.
+Art. 4.º - 1. Os secretários dos institutos politécnicos e das escolas sujeitas a regime idêntico ou análogo ao destes deixam de fazer parte, por inerência, dos respectivos conselhos administrativos e comissões instaladoras.
 
 2. O Ministro da Educação e Investigação Científica pode nomear livremente novos membros das comissões instaladoras das escolas referidas no número anterior, que poderão ter um máximo de sete membros.
 
@@ -120,20 +145,20 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. Os conselhos administrativos das escolas referidos em 1 passam a ser constituídos pelo presidente e por dois vogais da comissão instaladora designados pelo Ministro da Educação e Investigação Científica.
 
-###### Art. 5.º A prorrogação do período de instalação prevista nos artigos 13.º e 31.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, poderá ser feita por períodos de um ano.
+Art. 5.º A prorrogação do período de instalação prevista nos artigos 13.º e 31.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, poderá ser feita por períodos de um ano.
 
-###### Art. 6.º - 1. Nas escolas superiores em regime de instalação onde funcionem cursos de bacharelato há mais de um ano, devem ser constituídos, por eleição, um conselho pedagógico e um conselho científico, ou um conselho pedagógico e científico.
+Art. 6.º - 1. Nas escolas superiores em regime de instalação onde funcionem cursos de bacharelato há mais de um ano, devem ser constituídos, por eleição, um conselho pedagógico e um conselho científico, ou um conselho pedagógico e científico.
 
 2. Por despacho do Secretário de Estado do Ensino Superior e Investigação Científica, serão fixadas, caso a caso, e ouvidas as escolas, as atribuições, constituição e forma de eleição dos conselhos referidos no número anterior.
 
-###### Art. 7.º - 1. Poderá o Ministro da Educação e Investigação Científica, por portaria, alterar a designação, estrutura e regulamento das escolas a que se refere o [Decreto-Lei n.º 316/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1976-427428), de 29 de Abril.
+Art. 7.º - 1. Poderá o Ministro da Educação e Investigação Científica, por portaria, alterar a designação, estrutura e regulamento das escolas a que se refere o [Decreto-Lei n.º 316/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1976-427428), de 29 de Abril.
 
 2. Para assegurar a reestruturação das escolas referidas no número anterior, poderá o Ministro da Educação e Investigação Científica nomear comissões de reestruturação, que se regerão por estatuto a fixar caso a caso.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

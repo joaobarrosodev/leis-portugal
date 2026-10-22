@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 11/1974, 1º Suplemento, Série I de 1974-01-14
   number: '11'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 42-(1) a 42-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/01101/00010023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ec50950f42b5dc5ce7c51a2b1232a2424a5a0fc9002842f4ac094237fa9dbac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f418f41af4a7b3c60fd7d6ee47104bf3aff1b4d85b23502c316e24fd5eb23afe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Bolsa de Valores
+- Corretor
+- Definição de Competências
+- Mercado de Títulos
+- Mercado de Valores
+- Mercado Financeiro
+- Obrigações
+- Orgânica
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412416:por
+  label: "Dada nova redacção ao art. 142º (referente à revogação de diversos diplomas) pelo DEC LEI.113/74.18.03.1974.MF,\
+    \ DG.IS [65] de 18.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1974-412416
+  date: '1974-03-18'
+- type: amended_by
+  target: pt:dre:311221:por
+  label: "Alterados os artigos 3.º, n.º 1, 4.º, n.º 2, 6.º, 7.º, 8.º, 9.º, n.º 2, 10.º, n.ºs 1 e 2, 11.º, n.º 1, 12.º, n.º\
+    \ 2, alínea b), 45.º, alínea e), 46.º, alínea c), 49.º, n.º 2, 52.º, n.º 2, 53.º, n.º 2, 72.º, 75.º, 76.º, n.º 2, alínea\
+    \ a), 79.º, n.ºs 3 e 4, 84.º, n.º 1, 87.º, 92.º, n.º 10, 96.º, alínea a), 102.º, n.º 2, 103.º, 104.º, n.º 1, 111.º, n.º\
+    \ 4, 113.º, n.º 1, 116.º, 117.º, 129.º, n.º 1, 133.º, n.ºs 2, 4, 5 e 6, e 136.º, n.ºs 1 e 4, pelo DEC LEI.696/75.12.12.1975.MF,\
+    \ DG.IS [286] de 12.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/696-1975-311221
+  date: '1975-12-12'
+- type: amended_by
+  target: pt:dre:141654:por
+  label: "Alterados os arts. 7º, 45º, 46º, 52º, 54º, 60º, 80º, aditado o art. 44º-A e prorrogado o prazo fixado no art. 138º,\
+    \ pelo DEC LEI.72/77.1977.02.25.MF DR.IS [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-1977-141654
+  date: '1977-02-25'
+- type: amended_by
+  target: pt:dre:250420:por
+  label: "Alterado o nº 2 do art. 54º, pelo DEC LEI.272/77.1977.07.02.MF DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1977-250420
+  date: '1977-07-02'
+- type: amended_by
+  target: pt:dre:308319:por
+  label: "Extinto o Conselho Consultivo do Mercado Financeiro, criado no artigo 6.º do presente diploma, na redacção do Decreto-Lei\
+    \ n.º 696/75, de 12 de Dezembro, pelo DEC LEI.67/83.04.02.1983.MFP, DR.IS [29] de 04.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1983-308319
+  date: '1983-02-04'
+- type: amended_by
+  target: pt:dre:311063:por
+  label: "Alterada a redacção do art. 38º, pelo DEC LEI.104/83.1983.02.18.MFP DR.IS [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1983-311063
+  date: '1983-02-18'
+- type: amended_by
+  target: pt:dre:228043:por
+  label: "Dada nova redacção ao nº 1 do art. 51º pelo DEC LEI.189/86.15.07.1986.MF, DR.IS [160] de 15.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-1986-228043
+  date: '1986-07-15'
+- type: amended_by
+  target: pt:dre:512994:por
+  label: "Alterado o artigo 133.º pelo DEC LEI.335/87.15.10.1987.MF, DR.IS [237]Supl de 15.10.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-1987-512994
+  date: '1987-10-15'
+- type: amended_by
+  target: pt:dre:286728:por
+  label: "Alteradas as alíneas c) e d) do artigo 10.º, na redacção do Decreto-Lei n.º 696/75, de 12 de Dezembro, pelo DEC\
+    \ LEI.60/88.27.02.1988.MF, DR.IS [48] de 27.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1988-286728
+  date: '1988-02-27'
+- type: amended_by
+  target: pt:dre:644326:por
+  label: "Alterada a redacção dos arts. 34º a 42º, 45º, 49º, 50º e 52º, pelo DEC LEI.229-F/88.1988.07.04.MF DR.IS [152]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-f-1988-644326
+  date: '1988-07-04'
+- type: amended_by
+  target: pt:dre:612833:por
+  label: Dada nova redacção ao art. 55.º pelo DEC LEI.73/89.03.03.1989.MF, DR.IS [52] de 03.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1989-612833
+  date: '1989-03-03'
+- type: cites
+  target: pt:dre:204817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:412867:por
+  label: "Rectificado pela RECT.DD298.20.02.1974.PC, DG.IS [43] de 20.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-412867
+  date: '1974-02-20'
+- type: repealed_by
+  target: pt:dre:283476:por
+  label: "Revogado o n.º 4 do artigo 39.º pelo DEC LEI.8/88.15.01.1988.MF, DR.IS [12] de 15.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1988-283476
+  date: '1988-01-15'
+- type: repealed_by
+  target: pt:dre:644329:por
+  label: "Revogado o art. 92º, pelo DEC LEI.229-I/88.1988.07.04.MF DR.IS [152]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-i-1988-644329
+  date: '1988-07-04'
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
   article_count: 0
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:42Z'
   warnings: []
   errors: []
 ---
@@ -317,7 +440,7 @@ c) Assistir às sessões da câmara dos corretores, embora sem intervir nas resp
 
 ###### ARTIGO 13.º — (Relatórios da comissão directiva)
 
-**O presidente da comissão directiva apresentará ao Ministro das Finanças:**
+O presidente da comissão directiva apresentará ao Ministro das Finanças:
 
 a) Até 31 de Março de cada ano, relatório sobre o funcionamento da bolsa no decurso do exercício anterior;
 
@@ -1469,7 +1592,7 @@ d) Prestar à comissão directiva informações relativas ao procedimento e apti
 
 ###### ARTIGO 125.º — (Publicação, pelas bolsas, de relatórios e estudos)
 
-**O Ministro das Finanças estabelecerá, mediante portaria, as condições a que deva obedecer a publicação, pelas bolsas, de relatórios e quaisquer estudos respeitantes aos mercados de valores mobiliários.**
+O Ministro das Finanças estabelecerá, mediante portaria, as condições a que deva obedecer a publicação, pelas bolsas, de relatórios e quaisquer estudos respeitantes aos mercados de valores mobiliários.
 
 ###### ARTIGO 126.º — (Proibição de realização de operações de bolsa)
 
@@ -1589,8 +1712,8 @@ c) Abrir-se concurso para preenchimento dos lugares de corretor que se encontrar
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 28 de Dezembro de 1973.**
+Promulgado em 28 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

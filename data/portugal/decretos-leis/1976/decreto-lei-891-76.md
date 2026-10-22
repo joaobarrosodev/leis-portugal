@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30200/28782879.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/891-1976-416459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a0cfdb51ee6f4eb4797c76fe9a103ef41bbb0510709031abe3905a6625af202
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b15a615c59192477039e13d57d2c9ccf69e30c4ba8a04bf315324ea721793153
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Chefe do Estado Maior da Armada
+- Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
+- Chefe do Estado Maior General das Forças Armadas
+- Forças Armadas
+- Quadro Permanente das Forças Armadas
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:24Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +109,7 @@ Considerando que tal documento, devido à sua complexidade, não poderá ser pub
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nas forças armadas, os sargentos distribuem-se hierarquicamente pelos seguintes postos:
+Artigo 1.º Nas forças armadas, os sargentos distribuem-se hierarquicamente pelos seguintes postos:
 
 Sargento-mor;
 
@@ -110,22 +123,22 @@ Segundo-sargento;
 
 Furriel/subsargento.
 
-###### Art. 2.º Os efectivos dos sargentos dos quadros permanentes (QP) das forças armadas são fixados por decreto-lei.
+Art. 2.º Os efectivos dos sargentos dos quadros permanentes (QP) das forças armadas são fixados por decreto-lei.
 
-###### Art. 3.º Os sargentos dos QP desempenham funções em conformidade com os respectivos postos e níveis de qualificação atingidos dentro de cada posto, as quais serão definidas em diploma próprio de cada ramo.
+Art. 3.º Os sargentos dos QP desempenham funções em conformidade com os respectivos postos e níveis de qualificação atingidos dentro de cada posto, as quais serão definidas em diploma próprio de cada ramo.
 
-###### Art. 4.º Os diversos estabelecimentos de ensino destinados a realizar os cursos de formação, qualificação e promoção dos sargentos dos QP das forças armadas e as condições de admissão, duração e matérias dos referidos cursos serão fixadas em diploma próprio de cada ramo.
+Art. 4.º Os diversos estabelecimentos de ensino destinados a realizar os cursos de formação, qualificação e promoção dos sargentos dos QP das forças armadas e as condições de admissão, duração e matérias dos referidos cursos serão fixadas em diploma próprio de cada ramo.
 
-###### Art. 5.º Aos sargentos dos QP das forças armadas é facultado o ingresso nos quadros de oficiais mediante a frequência, com aproveitamento, dos respectivos cursos.
+Art. 5.º Aos sargentos dos QP das forças armadas é facultado o ingresso nos quadros de oficiais mediante a frequência, com aproveitamento, dos respectivos cursos.
 
-###### Art. 6.º Com a entrada em vigor do presente diploma ficam revogadas, na parte aplicável, as anteriores disposições legais sobre o assunto.
+Art. 6.º Com a entrada em vigor do presente diploma ficam revogadas, na parte aplicável, as anteriores disposições legais sobre o assunto.
 
-###### Art. 7.º O presente decreto-lei entra imediatamente em vigor, devendo a sua execução e a dos diplomas referidos nos artigos 2.º, 3.º e 4.º processar-se de forma gradual, a qual será fixada, para cada ramo, por portarias conjuntas do Chefe do Estado-Maior-General das Forças Armadas e do respectivo Chefe do Estado-Maior.
+Art. 7.º O presente decreto-lei entra imediatamente em vigor, devendo a sua execução e a dos diplomas referidos nos artigos 2.º, 3.º e 4.º processar-se de forma gradual, a qual será fixada, para cada ramo, por portarias conjuntas do Chefe do Estado-Maior-General das Forças Armadas e do respectivo Chefe do Estado-Maior.
 
 Visto e aprovado em Conselho da Revolução em 10 de Novembro de 1976.
 
-**Promulgado em 20 de Dezembro de 1976.**
+Promulgado em 20 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

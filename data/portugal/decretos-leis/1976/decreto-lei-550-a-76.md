@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 161/1976, 1º Suplemento, Série I de 1976-07-12
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(1) a 1540-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16101/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-a-1976-181626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d72ecfada158312ced8e1f3ae3fa66549f18e69576f1440a4315f3d8ac3f6f0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5525dbac12b783c72869155ccdef9e44a5b710b75c4a7bff8269e2cdc8ac63b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arsenal do Alfeite
+- Autonomia Administrativa
+- Conselho de Administração
+- Criação de Serviços
+- Ministro da Marinha
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:159562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457581:por
+  label: "Revogados os §§ 1.º e 2.º do art. 7º do Decreto-Lei n.º 28408, de 31 de Dezembro de 1937, com a alteração introduzida\
+    \ pelo presente diploma, pelo DEC LEI.523/80.05.11.1980.CR, DR.IS [256] de 05.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/523-1980-457581
+  date: '1980-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:49Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +139,24 @@ Nestas condições, levando em conta o disposto no artigo 4.º do [Decreto-Lei n
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § único do artigo 7.º do [Decreto-Lei n.º 28408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28408-1937-668912), de 31 de Dezembro de 1937, é substituído pelos dois parágrafos seguintes:
+Artigo 1.º O § único do artigo 7.º do [Decreto-Lei n.º 28408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28408-1937-668912), de 31 de Dezembro de 1937, é substituído pelos dois parágrafos seguintes:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 1.º Os militares da Armada prestarão serviço em comissão, independentemente da sua hierarquia militar e nas condições estabelecidas nos respectivos estatutos para o desempenho de comissões em organismos autónomos da Marinha.
 
 § 2.º A colocação dos militares da Armada em comissão no Arsenal do Alfeite será, em regra, feita por convite da administração e com autorização superior.
 
-###### Art. 2.º São revogados os §§ 1.º e 2.º do artigo 8.º, passando este a ter a seguinte redacção:
+Art. 2.º São revogados os §§ 1.º e 2.º do artigo 8.º, passando este a ter a seguinte redacção:
 
-###### Art. 8.º Os quadros do pessoal do Arsenal do Alfeite serão fixados por portaria do Chefe do Estado-Maior da Armada.
+Art. 8.º Os quadros do pessoal do Arsenal do Alfeite serão fixados por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 3.º É revogado o n.º 1 do artigo 2.º do [Decreto-Lei n.º 25/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1975-159562), de 24 de Janeiro.
+Art. 3.º É revogado o n.º 1 do artigo 2.º do [Decreto-Lei n.º 25/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1975-159562), de 24 de Janeiro.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Julho de 1976.**
+Promulgado em 12 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

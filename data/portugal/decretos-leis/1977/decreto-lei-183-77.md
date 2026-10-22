@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10400/09921000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adfc4492d2fd9d48ac3dc6c9cafaecb20f1858640434f98a1b19527f6adf48f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b00646c279dfbd98e60b470813a2764ff95d73acd46757beeb20feeb4b8a75a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Emprego
+- Definição de Competências
+- Desemprego
+- Direcção Geral do Emprego
+- Estágio de Formação
+- Inspecção Geral do Trabalho
+- Militar
+- Pessoal do MAR
+- Proteção no Desemprego
+- Recluso
+- Regimes de Segurança Social
+- Secretário de Estado da População e Emprego
+- Segurança Social
+- Subsídio de Desemprego
+- Trabalhador por Conta de Outrem
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19830624 - ALTERADA A REDACÇÃO DOS ART 2, 3, 4, 5, 6, 8, 9, 12, 13, 14, 15, 16, 17, 20, 22, 23, 24, 25, 28, 29,\
+    \ 33, 35 E 37, ADITADO O ART 13-A, SUBSITITUIDA A SECÇÃO III DO CAP III E REVOGADO O ART 10, PELO DEC LEI 297/83 DE 24-JUN\
+    \ DR.IS [143].\0 DR.IS [143]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:417226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366452:por
+  label: "Prorrogados os prazos previstos no n.º 2 do art. 9.º e no art. 10.º do presente diploma, pelo DN.368/79.14.12.1979.MT,\
+    \ DR.IS [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/368-1979-366452
+  date: '1979-12-14'
+- type: cites
+  target: pt:dre:141375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:294724:por
+  label: "Revogado o disposto nos nºs 1 e 3 do art. 8º pelo DEC LEI.128/78.03.06.1978.MT, DR.IS [127] de 03.06.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1978-294724
+  date: '1978-06-03'
+- type: repealed_by
+  target: pt:dre:363285:por
+  label: "Revogado o artigo 8.º pelo DEC LEI.445/79.09.11.1979.MT, DR.IS [259] de 09.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/445-1979-363285
+  date: '1979-11-09'
+- type: repealed_by
+  target: pt:dre:328843:por
+  label: Revoga o DL 183/77 de 05-mai DR.IS [104], na redacção dada pelo DL 297/83 de 24-jun, pelo(a) Decreto-Lei n.º 20/85
+    - Diário da República n.º 14/1985, Série I de 1985-01-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1985-328843
+  date: '1985-01-17'
 article_structure:
   article_count: 54
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:43Z'
   warnings: []
   errors: []
 ---
@@ -638,12 +697,12 @@ Este diploma entra em vigor trinta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Manuel Maldonado Gonelha - Armando Bacelar.
 
-**Promulgado em 18 de Abril de 1977.**
+Promulgado em 18 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/10400/09921000.pdf))](https://files.diariodarepublica.pt/1s/1977/05/10400/09921000.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/10400/09921000.pdf)
 
-**O Secretário de Estado da População e Emprego, Manuel Alfredo Tito de Marais. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.**
+O Secretário de Estado da População e Emprego, Manuel Alfredo Tito de Marais. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

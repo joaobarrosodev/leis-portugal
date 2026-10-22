@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 199/1977, 2º Suplemento, Série I de 1977-08-29
   number: '199'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2080-(8) a 2080-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19902/00080010.pdf
 entry_into_force_dates: []
@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-e-1977-240850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6b9281feaecff44cfcf40b1d5c0a2c410c61a317095339c80bb3bd4aad40460
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2c0f5dbddface1a2c533efd4ee1056e1c2266b8c3b1e7862f306e7723250572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Viabilização
+- Empresa Privada
+- Financiamento
+- Fundo de Compensação
+- Instituição de Crédito
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:285911:por
+  label: "Rectificado pela RECT.DD92.17.09.1977.PCM, DR.IS [216] de 17.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-285911
+  date: '1977-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:34Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +117,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. A classificação de uma empresa no grau E, a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, sem que o Estado intervenha no contrato, nos termos do n.º 4 do artigo 10.º do mesmo diploma, determina a cessação de todo o apoio financeiro das instituições de crédito nacionais, a partir da data da publicação do respectivo despacho de homologação, salvo quando se reconheça interesse na sua permanência em funcionamento.
+Artigo 1.º - 1. A classificação de uma empresa no grau E, a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, sem que o Estado intervenha no contrato, nos termos do n.º 4 do artigo 10.º do mesmo diploma, determina a cessação de todo o apoio financeiro das instituições de crédito nacionais, a partir da data da publicação do respectivo despacho de homologação, salvo quando se reconheça interesse na sua permanência em funcionamento.
 
 2. Deve reconhecer-se interesse na permanência em funcionamento das empresas referidas no número anterior quando, tendo mais de cem trabalhadores, não se encontrem paralisadas, ou seriamente perturbadas, por questões laborais há mais de dois meses à data da proposta de celebração do contrato de viabilização, não apresentem distorções económicas e financeiras para além de um limite razoável e satisfaçam ainda, pelo menos, um dos seguintes requisitos:
 
@@ -120,7 +139,7 @@ b) A acelerada deterioração, em passado recente, da relação existente entre 
 
 6. O Governo, por portaria conjunta dos Ministros do Plano e Coordenação Económica e das Finanças, regulamentará a aplicação prática dos requisitos previstos nas alíneas do n.º 2 e na alínea b) do n.º 4.
 
-###### Art. 2.º - 1. Compete à comissão de apreciação a que se refere o artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729):
+Art. 2.º - 1. Compete à comissão de apreciação a que se refere o artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729):
 
 a) Verificar a existência dos pressupostos enunciados nos n.os 2 e 3 do artigo anterior;
 
@@ -128,9 +147,9 @@ b) Propor fundamentadamente a aplicação à empresa do regime previsto neste di
 
 2. A partir do momento em que considere verificados os pressupostos dos n.os 2 e 3 do artigo anterior deverá a comissão de apreciação integrar um representante do Fundo de Desemprego.
 
-###### Art. 3.º Os Ministros do Plano e Coordenação Económica e das Finanças, ouvido o Ministro da Tutela, proferirão, sobre proposta referida na alínea b) do n.º 1 do artigo anterior, despacho conjunto que, se for no sentido de aplicação à empresa do regime previsto no presente diploma, deve especificar o prazo de vigência e os apoios e benefícios a conceder.
+Art. 3.º Os Ministros do Plano e Coordenação Económica e das Finanças, ouvido o Ministro da Tutela, proferirão, sobre proposta referida na alínea b) do n.º 1 do artigo anterior, despacho conjunto que, se for no sentido de aplicação à empresa do regime previsto no presente diploma, deve especificar o prazo de vigência e os apoios e benefícios a conceder.
 
-###### Art. 4.º - 1. Os apoios e benefícios a conceder às empresas pelo despacho referido no artigo anterior, sem prejuízo de outros porventura atribuíveis nos termos da lei, são os seguintes:
+Art. 4.º - 1. Os apoios e benefícios a conceder às empresas pelo despacho referido no artigo anterior, sem prejuízo de outros porventura atribuíveis nos termos da lei, são os seguintes:
 
 a) Um subsídio por cada trabalhador, de montante variável de caso para caso, mas nunca superior ao subsídio de desemprego, a conceder pelo Fundo de Desemprego;
 
@@ -150,7 +169,7 @@ b) Apresentação de contas mensais e de orçamentos de tesouraria trimestrais;
 
 c) Depósito, no maior credor bancário, das receitas da empresa.
 
-###### Art. 5.º As empresas deverão fazer prova, trimestralmente, perante o maior credor bancário, e, estando a receber subsídios, também perante o Fundo de Desemprego, da manutenção dos pressupostos enunciados nos n.os 2 e 3 do artigo 1.º, especificando, designadamente:
+Art. 5.º As empresas deverão fazer prova, trimestralmente, perante o maior credor bancário, e, estando a receber subsídios, também perante o Fundo de Desemprego, da manutenção dos pressupostos enunciados nos n.os 2 e 3 do artigo 1.º, especificando, designadamente:
 
 a) O volume físico e o valor de produção;
 
@@ -162,16 +181,16 @@ d) O volume de emprego;
 
 e) A taxa de absentismo.
 
-###### Art. 6.º Sem prejuízo de eventual procedimento criminal, o não cumprimento por parte da empresa das obrigações previstas neste diploma, ou que lhe fossem impostas ao abrigo dele, nomeadamente no que respeita à consignação de receitas, bem como a prestação de falsas declarações, determinará a extinção do direito aos apoios e benefícios concedidos, nos termos do artigo seguinte.
+Art. 6.º Sem prejuízo de eventual procedimento criminal, o não cumprimento por parte da empresa das obrigações previstas neste diploma, ou que lhe fossem impostas ao abrigo dele, nomeadamente no que respeita à consignação de receitas, bem como a prestação de falsas declarações, determinará a extinção do direito aos apoios e benefícios concedidos, nos termos do artigo seguinte.
 
-###### Art. 7.º A comissão de apreciação a que se refere o artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), por sua iniciativa ou a pedido da empresa, poderá rever a classificação desta, quer propondo a cessação dos apoios e benefícios em vigor, quer possibilitando-lhe a apresentação de nova proposta de contrato de viabilização.
+Art. 7.º A comissão de apreciação a que se refere o artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), por sua iniciativa ou a pedido da empresa, poderá rever a classificação desta, quer propondo a cessação dos apoios e benefícios em vigor, quer possibilitando-lhe a apresentação de nova proposta de contrato de viabilização.
 
-###### Art. 8.º As dúvidas que resultarem da interpretação ou execução do presente diploma e, bem assim, os casos omissos susceptíveis de suprimento por via regulamentar serão resolvidos por portaria conjunta dos Ministros do Plano e Coordenação Económica e das Finanças, aplicando-se, por analogia, o disposto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
+Art. 8.º As dúvidas que resultarem da interpretação ou execução do presente diploma e, bem assim, os casos omissos susceptíveis de suprimento por via regulamentar serão resolvidos por portaria conjunta dos Ministros do Plano e Coordenação Económica e das Finanças, aplicando-se, por analogia, o disposto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 29 de Agosto de 1977.**
+Promulgado em 29 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

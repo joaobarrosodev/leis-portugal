@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44192-1962-519178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41d672b3ac021f6f26689558b82a9067a47bfb9c85987e8dc56efeaadcbccfa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484da1a7ffefa177556b3d54838fb0c40875444ba72cd848f630dc7ae51098b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Organização Territorial
+- RIO Maior
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:48Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +97,17 @@ Considerando que se verificam as demais condições referidas no artigo 9.º do 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Rio Maior, distrito de Santarém, a freguesia de Arrouquelas, com sede na actual povoação do mesmo nome.
+Artigo 1.º É criada no concelho de Rio Maior, distrito de Santarém, a freguesia de Arrouquelas, com sede na actual povoação do mesmo nome.
 
 § único. A freguesia de Arrouquelas é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia são constituídos por uma linha que, partindo do marco n.º 21, situado no local denominado Atalaia (ponto comum aos concelhos de Azambuja, Rio Maior e Santarém), segue depois, no sentido dos ponteiros do relógio, pelo limite sul do concelho de Rio Maior (marcos n.os 22, 23, 24, 25 e 26, este situado junto do marco geodésico chamado da Camareira); daqui avança em direcção aos marcos n.os 27, 28, 29, 30, 31 e 32, sendo este comum aos concelhos de Rio Maior, Azambuja e Cadaval e situado a norte do cabeço do Mosqueiro, num monte que tem a cota 131; dali prossegue para o marco 33, pela linha que divide os concelhos de Rio Maior e Cadaval, o qual fica situado junto dos caminhos que dão acesso à Quinta do Bairro Miguel; deste segue em linha recta para nordeste até ao marco n.º 34, que fica situado junto de um caminho que dá acesso à Quinta da Amieira e situado para sul, a pouca distância de uma pequena elevação com a cota 135; dali continua para o marco n.º 35, situado em Vale de Murtinhos, junto de um caminho que faz cruzamento com um regato; a partir deste local, inflecte para sudoeste e prossegue, em recta, até aos marcos n.os 36 e 37, situados na Quinta da Amieira; deste último progride em linha recta, corta a estrada nacional n.º 1 e avança para o marco n.º 38, situado junto de um regato, a 120 m da mesma estrada, à cota 74, continuando na direcção nordeste até ao marco n.º 39, colocado junto de um ribeiro, à quota 61, no sítio de Vale das Lebres, extremo da Quinta da Amieira com fazendas de Arrouquelas; daqui segue para o marco n.º 40, situado no Vale da Pedra, numa pequena elevação, com a cota 82, continuando depois para nordeste até ao marco n.º 41, situado a sul da curva de um caminho que tem a cota 82; deste segue, na mesma direcção, até ao marco n.º 42, que fica situado junto do portão de entrada da Quinta da Ferraria e que delimita as freguesias de S. João da Ribeira e Rio Maior; dali avança, em linha recta, até ao marco A, que fica situado dentro da propriedade de António Narciso, nos Casais do Brejo, 20 m para nascente da casa de habitação do mesmo; daquele marco continua para o marco n.º 18, que fica no cruzamento do caminho dos Picadeiros com o de Arrouquelas e Ribeira de S. João, prosseguindo em linha recta até ao marco n.º 19, situado a sul da estrada municipal de Arrouquelas a Marmeleira, na propriedade de António Leitão e próximo da estrema daquela com a de Luís da Silva Sabino; segue, depois, até ao marco n.º 20, que fica situado na propriedade de António Francisco Pereira, no Outeiro da Pedra, e alcança o marco n.º 21, onde se iniciou a descrição.
+Art. 2.º Os limites da nova freguesia são constituídos por uma linha que, partindo do marco n.º 21, situado no local denominado Atalaia (ponto comum aos concelhos de Azambuja, Rio Maior e Santarém), segue depois, no sentido dos ponteiros do relógio, pelo limite sul do concelho de Rio Maior (marcos n.os 22, 23, 24, 25 e 26, este situado junto do marco geodésico chamado da Camareira); daqui avança em direcção aos marcos n.os 27, 28, 29, 30, 31 e 32, sendo este comum aos concelhos de Rio Maior, Azambuja e Cadaval e situado a norte do cabeço do Mosqueiro, num monte que tem a cota 131; dali prossegue para o marco 33, pela linha que divide os concelhos de Rio Maior e Cadaval, o qual fica situado junto dos caminhos que dão acesso à Quinta do Bairro Miguel; deste segue em linha recta para nordeste até ao marco n.º 34, que fica situado junto de um caminho que dá acesso à Quinta da Amieira e situado para sul, a pouca distância de uma pequena elevação com a cota 135; dali continua para o marco n.º 35, situado em Vale de Murtinhos, junto de um caminho que faz cruzamento com um regato; a partir deste local, inflecte para sudoeste e prossegue, em recta, até aos marcos n.os 36 e 37, situados na Quinta da Amieira; deste último progride em linha recta, corta a estrada nacional n.º 1 e avança para o marco n.º 38, situado junto de um regato, a 120 m da mesma estrada, à cota 74, continuando na direcção nordeste até ao marco n.º 39, colocado junto de um ribeiro, à quota 61, no sítio de Vale das Lebres, extremo da Quinta da Amieira com fazendas de Arrouquelas; daqui segue para o marco n.º 40, situado no Vale da Pedra, numa pequena elevação, com a cota 82, continuando depois para nordeste até ao marco n.º 41, situado a sul da curva de um caminho que tem a cota 82; deste segue, na mesma direcção, até ao marco n.º 42, que fica situado junto do portão de entrada da Quinta da Ferraria e que delimita as freguesias de S. João da Ribeira e Rio Maior; dali avança, em linha recta, até ao marco A, que fica situado dentro da propriedade de António Narciso, nos Casais do Brejo, 20 m para nascente da casa de habitação do mesmo; daquele marco continua para o marco n.º 18, que fica no cruzamento do caminho dos Picadeiros com o de Arrouquelas e Ribeira de S. João, prosseguindo em linha recta até ao marco n.º 19, situado a sul da estrada municipal de Arrouquelas a Marmeleira, na propriedade de António Leitão e próximo da estrema daquela com a de Luís da Silva Sabino; segue, depois, até ao marco n.º 20, que fica situado na propriedade de António Francisco Pereira, no Outeiro da Pedra, e alcança o marco n.º 21, onde se iniciou a descrição.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Arrouquelas realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Rio Maior e serão eleitores os chefes de família da respectiva área, inscritos no recenseamente eleitoral da freguesia de S. João da Ribeira.
+Art. 3.º A eleição da Junta de Freguesia de Arrouquelas realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Rio Maior e serão eleitores os chefes de família da respectiva área, inscritos no recenseamente eleitoral da freguesia de S. João da Ribeira.
 
 § único. A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Rio Maior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

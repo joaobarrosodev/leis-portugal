@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/04/08400/04950498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/135-1971-445728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f6fa246932c847f44871cd036aeb21a837709bc3c2d42bcf28d30adebe91600
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44a08dedf1b287647f8a9c71db533b0cbdfae7eff5a3a5f22feb7f3c678b8ca5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,33 @@ relationships:
   target: pt:dre:506034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:306053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583828:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506034:por
+  label: "Revogado, a partir de 24.01.1976, pelo DEC LEI.36/76.19.01.1976.CR, DG.IS [15] de 19.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1976-506034
+  date: '1976-01-19'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:52Z'
   warnings: []
   errors: []
 ---
@@ -93,21 +110,21 @@ Tornando-se necessário actualizar a estrutura orgânica do Aquário de Vasco da
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado e posto em execução o Regulamento do Aquário de Vasco da Gama, que faz parte integrante deste decreto, e revogados o [Decreto n.º 38437](https://diariodarepublica.pt/dr/detalhe/decreto/38437-1951-583828), de 21 de Setembro de 1951, e a [Portaria n.º 15711](https://diariodarepublica.pt/dr/detalhe/portaria/15711-1956-306053), de 15 de Janeiro de 1956.
+Artigo único. É aprovado e posto em execução o Regulamento do Aquário de Vasco da Gama, que faz parte integrante deste decreto, e revogados o [Decreto n.º 38437](https://diariodarepublica.pt/dr/detalhe/decreto/38437-1951-583828), de 21 de Setembro de 1951, e a [Portaria n.º 15711](https://diariodarepublica.pt/dr/detalhe/portaria/15711-1956-306053), de 15 de Janeiro de 1956.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 18 de Março de 1971.**
+Promulgado em 18 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DO AQUÁRIO DE VASCO DA GAMA
 
 ### CAPÍTULO I — Natureza e fins
 
-###### Artigo 1.º O Aquário de Vasco da Gama (A. V. G.) é um organismo do Ministério da Marinha com finalidades educativas e científicas e tendo como principais atribuições:
+Artigo 1.º O Aquário de Vasco da Gama (A. V. G.) é um organismo do Ministério da Marinha com finalidades educativas e científicas e tendo como principais atribuições:
 
 a) Exposição de exemplares vivos em aquários e terrários e da colecção oceanográfica de D. Carlos I e de outras colecções ou objectos que para esse efeito lhe sejam entregues;
 
@@ -129,7 +146,7 @@ h) Apoiar, na medida das suas possibilidades, os trabalhos que competem ao Insti
 
 #### SECÇÃO I — Órgãos do Aquário
 
-###### Art. 2.º A acção do A. V. G. exerce-se por meio das seguintes entidades e organismos:
+Art. 2.º A acção do A. V. G. exerce-se por meio das seguintes entidades e organismos:
 
 a) Director;
 
@@ -151,7 +168,7 @@ i) Conselho administrativo.
 
 #### SECÇÃO II — Director
 
-###### Art. 3.º - 1. Ao director compete, de uma maneira geral:
+Art. 3.º - 1. Ao director compete, de uma maneira geral:
 
 a) Dirigir e fiscalizar todas as actividades do Aquário;
 
@@ -171,7 +188,7 @@ g) Conceder licenças ao pessoal civil, nos termos da legislação em vigor.
 
 #### SECÇÃO III — Subdirector
 
-###### Art. 4.º - 1. Ao subdirector compete:
+Art. 4.º - 1. Ao subdirector compete:
 
 a) Substituir o director nas suas faltas ou impedimentos;
 
@@ -187,7 +204,7 @@ d) Orientar o serviço da secretaria.
 
 #### SECÇÃO IV — Serviço de aquariologia e piscicultura
 
-###### Art. 5.º - 1. Ao serviço de aquariologia e piscicultura (S. A. P.) compete concorrer para os fins cometidos ao A. V. G. pelo artigo 1.º no domínio da aquariologia e piscicultura, nomeadamente:
+Art. 5.º - 1. Ao serviço de aquariologia e piscicultura (S. A. P.) compete concorrer para os fins cometidos ao A. V. G. pelo artigo 1.º no domínio da aquariologia e piscicultura, nomeadamente:
 
 a) Investigação das questões de cultura de organismos da fauna e flora aquáticas;
 
@@ -195,11 +212,11 @@ b) Contrôle dos factores que afectam a sobrevivência das espécies em cativeir
 
 2. A chefia do S. A. P. é exercida, em acumulação, pelo subdirector.
 
-###### Art. 6.º O S. A. P., além de um laboratório de contrôle e análise e da aparelhagem técnica e científica indispensável, poderá dispor dos meios de recolha que se considerem necessários.
+Art. 6.º O S. A. P., além de um laboratório de contrôle e análise e da aparelhagem técnica e científica indispensável, poderá dispor dos meios de recolha que se considerem necessários.
 
 #### SECÇÃO V — Serviço de museologia
 
-###### Art. 7.º - 1. Ao serviço de museologia compete concorrer para os fins cometidos ao A. V. G. pelo artigo 1.º no domínio da museologia, nomeadamente:
+Art. 7.º - 1. Ao serviço de museologia compete concorrer para os fins cometidos ao A. V. G. pelo artigo 1.º no domínio da museologia, nomeadamente:
 
 a) Exposição de exemplares vivos em aquários e terrários;
 
@@ -209,7 +226,7 @@ b) Exposição, manutenção e conservação da colecção oceanográfica de D. 
 
 #### SECÇÃO VI — Gabinete de educação e divulgação
 
-###### Art. 8.º - 1. Ao gabinete de educação e divulgação compete:
+Art. 8.º - 1. Ao gabinete de educação e divulgação compete:
 
 a) Organizar cursos, conferências, exposições, sessões de cinema ou de projecções, programas de televisão ou de rádio sobre matérias das atribuições do Aquário ou com as mesmas relacionadas;
 
@@ -227,7 +244,7 @@ e) Programar, promover e superintender na informação destinada a interessar o 
 
 #### SECÇÃO VII — Serviço de assistência oficinal
 
-###### Art. 9.º - 1. Ao serviço de assistência oficinal (S. A. O.) compete:
+Art. 9.º - 1. Ao serviço de assistência oficinal (S. A. O.) compete:
 
 a) Conduzir, conservar, manter e reparar a instalação de máquinas do Aquário;
 
@@ -241,7 +258,7 @@ c) Conservar, manter e reparar as embarcações e viaturas.
 
 #### SECÇÃO VIII — Serviço de abastecimento
 
-###### Art. 10.º - 1. Ao serviço de abastecimento compete:
+Art. 10.º - 1. Ao serviço de abastecimento compete:
 
 a) Submeter à apreciação do conselho administrativo os assuntos do serviço que careçam da sua resolução;
 
@@ -261,7 +278,7 @@ f) Promover a contabilização do material.
 
 #### SECÇÃO IX — Secretaria
 
-###### Art. 11.º - 1. À secretaria compete:
+Art. 11.º - 1. À secretaria compete:
 
 a) Executar o serviço de expediente e arquivo, com excepção do que pertença à secretaria do conselho administrativo;
 
@@ -273,11 +290,11 @@ c) Publicar a Ordem de Serviço do Aquário com a periodicidade necessária e no
 
 #### SECÇÃO X — Conselho administrativo
 
-###### Art. 12.º - 1. A administração dos bens e dotações e outras receitas próprias do A. V. G. é exercida por um conselho administrativo.
+Art. 12.º - 1. A administração dos bens e dotações e outras receitas próprias do A. V. G. é exercida por um conselho administrativo.
 
 2. O presidente e o secretário-tesoureiro do conselho administrativo, quando exerçam as suas funções em regime de acumulação, vencem uma gratificação nas condições estabelecidas no artigo 13.º do [Decreto-Lei n.º 38079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38079-1950-490944), de 5 de Dezembro de 1950.
 
-###### Art. 13.º Constituem receitas próprias do A. V. G.:
+Art. 13.º Constituem receitas próprias do A. V. G.:
 
 a) Produto das entradas de visitantes;
 
@@ -295,7 +312,7 @@ g) As importâncias pagas como inscrição nos cursos a que se refere a alínea 
 
 h) Outras receitas eventuais.
 
-###### Art. 14.º - 1. O conselho administrativo rege-se pelas disposições do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública, competindo-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços autónomos e, em especial:
+Art. 14.º - 1. O conselho administrativo rege-se pelas disposições do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública, competindo-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços autónomos e, em especial:
 
 a) Propor à aprovação do Ministro da Marinha e visto do Ministro das Finanças os orçamentos privativos e os orçamentos suplementares das receitas próprias e das despesas necessárias à realização das actividades do Aquário;
 
@@ -307,19 +324,19 @@ b) Prestar contas da sua gerência ao Tribunal de Contas.
 
 #### SECÇÃO I — Nomeações e lotação
 
-###### Art. 15.º O director e o subdirector do A. V. G. são nomeados pelo Ministro da Marinha, devendo o último ser proposto pelo director.
+Art. 15.º O director e o subdirector do A. V. G. são nomeados pelo Ministro da Marinha, devendo o último ser proposto pelo director.
 
-###### Art. 16.º As lotações do pessoal militar e civil do A. V. G. são estabelecidas, respectivamente, por portaria e por despacho do Ministro da Marinha.
+Art. 16.º As lotações do pessoal militar e civil do A. V. G. são estabelecidas, respectivamente, por portaria e por despacho do Ministro da Marinha.
 
 #### SECÇÃO II — Regime de serviço
 
-###### Art. 17.º - 1. O regime de serviço do pessoal é regulado pelo director, tendo em atenção as conveniências do serviço e as disposições legais aplicáveis.
+Art. 17.º - 1. O regime de serviço do pessoal é regulado pelo director, tendo em atenção as conveniências do serviço e as disposições legais aplicáveis.
 
 2. Todo o pessoal tem direito a um dia de folga semanal.
 
 #### SECÇÃO III — Remunerações especiais
 
-###### Art. 18.º - 1. O serviço prestado fora das horas normais, em regra, será compensado com igual número de horas de folga, em vez de ser remunerado a dinheiro.
+Art. 18.º - 1. O serviço prestado fora das horas normais, em regra, será compensado com igual número de horas de folga, em vez de ser remunerado a dinheiro.
 
 2. O abono a dinheiro por horas extraordinárias far-se-á quando:
 
@@ -329,13 +346,13 @@ b) Por dia feriado, excepto se este cair ao domingo.
 
 #### SECÇÃO IV — Uniformes
 
-###### Art. 19.º - 1. Os uniformes e distintivos a usar pelo pessoal civil do A. V. G. são fixados por portaria do Ministro da Marinha.
+Art. 19.º - 1. Os uniformes e distintivos a usar pelo pessoal civil do A. V. G. são fixados por portaria do Ministro da Marinha.
 
 2. A portaria referida no n.º 1 fixará também os artigos de uniforme a que tiver direito o pessoal civil.
 
 #### SECÇÃO V — Penalidades
 
-###### Art. 20.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções da competência do director do A. V. G.:
+Art. 20.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções da competência do director do A. V. G.:
 
 a) Multa de um a dez dias correspondente ao salário diário do infractor;
 
@@ -345,11 +362,11 @@ b) Demissão.
 
 #### SECÇÃO VI — Informações
 
-###### Art. 21.º O pessoal militar e civil em serviço no A. V. G. é informado pelo director, nos termos da legislação em vigor.
+Art. 21.º O pessoal militar e civil em serviço no A. V. G. é informado pelo director, nos termos da legislação em vigor.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 22.º Por portaria do Ministro da Marinha serão estabelecidos:
+Art. 22.º Por portaria do Ministro da Marinha serão estabelecidos:
 
 a) O horário de funcionamento do Aquário para fins de exposição;
 
@@ -357,6 +374,6 @@ b) O custo dos bilhetes de entrada;
 
 c) As condições em que é dispensada a aquisição do referido bilhete.
 
-###### Art. 23.º O regulamento interno do A. V. G. será posto em vigor por despacho do Ministro da Marinha.
+Art. 23.º O regulamento interno do A. V. G. será posto em vigor por despacho do Ministro da Marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
